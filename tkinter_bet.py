@@ -24,7 +24,7 @@ class Bett:
         self.spread.set(100.0)
 
         # lists
-        self.bettors = ['Dillon', 'Colin', 'Todd', 'Clay', 'Sal']
+        self.bettors = ['Dillon']
         self.bet_types = ['Money Line', 'Spread', 'Prop']
         self.bet_amounts = [float(item) for item in [5, 10, 25, 50, 75, 100, 125,
                                                      150, 175, 200, 225, 250, 300, 400, 500, 600]]
