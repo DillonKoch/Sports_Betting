@@ -8,6 +8,9 @@ class MyBets:
         self.db = boto3.resource('dynamodb')
         self.table = self.db.Table('MyBets')
 
+    def _load_table_data(self):
+        return self.table.scan()['Items']
+
     def _load_local_data(self):
         self.local_data_csv_name = "Dillon_Current.csv"
         self.local_data = pd.read_csv(self.local_data_csv_name)
@@ -17,7 +20,7 @@ class MyBets:
         self.cols = [col for col in list(self.local_data.columns) if 'Unnamed' not in col]
 
     def _row_to_dict_item(self, row):
-        new_item = {col: row[col] for col in self.cols}
+        new_item = {col: str(row[col]) for col in self.cols}
         return new_item
 
     def insert_row_to_table(self, row):
@@ -26,6 +29,35 @@ class MyBets:
             Item=new_item
         )
         print('item added!')
+
+    def _delete_item(self, item_espn_id):
+        self.table.delete_item(
+            Key={'ESPN_ID': item_espn_id}
+        )
+        print('item deleted!')
+
+    def _is_row_in_table(self, row):
+        data = self._load_table_data()
+        row_item = self._row_to_dict_item(row)
+        row_in_table = False
+        for record in data:
+            if record == row_item:
+                row_in_table = True
+                break
+
+        return row_in_table
+
+    def add_new_items_to_table(self):
+        num_local_rows = len(self.local_data) - 1
+        for i in range(num_local_rows):
+            current_local_row = self.local_data.iloc[i, :]
+            local_row_in_table = self._is_row_in_table(current_local_row)
+            if not local_row_in_table:
+                self.insert_row_to_table(current_local_row)
+
+        new_table_data = self._load_table_data()
+
+        assert len(self.local_data) == len(new_table_data)
 
 
 if __name__ == "__main__":
