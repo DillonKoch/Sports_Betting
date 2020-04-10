@@ -13,11 +13,11 @@
 # File for scraping game data from ESPN
 # ==============================================================================
 
-import urllib
-from bs4 import BeautifulSoup as soup
+
+from Utility import get_sp1
 
 
-class ESPN_Scrape:
+class ESPN_Scraper:
     def __init__(self):
         self.link_dict = {
             "NFL": 'https://www.espn.com/nfl/game/_/gameId/',
@@ -28,36 +28,247 @@ class ESPN_Scrape:
             "NHL": 'https://www.espn.com/nhl/game/_/gameId/'
         }
 
-    def get_sp1(self, link):
+        self.data_dict = {
+            "NFL": {
+                "link": "https://www.espn.com/nfl/game/_gameId/",
+                "team_names_html": None,
+                "records_html": None,
+                "scores_html": None,
+                "final_html": None
+            },
+            "NHL": {
+                "link": "https://www.espn.com/nhl/game/_/gameId/",
+                "team_names_html": "ScoreCell__TeamName ScoreCell__TeamName--displayName truncate db",
+                "records_html": 'Gamestrip__Record db n10 clr-gray-03',
+                "scores_html": 'Gamestrip__Score relative tc w-100 fw-heavy h2 clr-gray-01',
+                "final_html": 'ScoreCell__Time Gamestrip__Time h9 clr-gray-01',
 
-        user_agent = 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.7) Gecko/2009021910 Firefox/3.0.7'
+            }
+        }
 
-        headers = {'User-Agent': user_agent, }
+    def _sp_helper(self, league, game_id, sp=False):
+        if not sp:
+            sp = get_sp1(self.link_dict[league] + str(game_id))
+            return sp
+        else:
+            return sp
 
-        request = urllib.request.Request(link, None, headers)  # The assembled request
-        response = urllib.request.urlopen(request)
+    # ########### NFL ############
+    def _nfl_team_names(self, game_id, sp=False):
+        sp = self._sp_helper("NFL", game_id, sp)
 
-        a = response.read().decode('utf-8', 'ignore')
-        sp = soup(a, 'html.parser')
-        return sp
+        locations = sp.find_all('span', attrs={'class': 'long-name'})
+        away_loc, home_loc = [item.get_text() for item in locations]
 
-    def hockey_info(self, game_id):
-        """
-        hockey_info grabs the game info for NHL games
+        team_names = sp.find_all('span', attrs={'class': 'short-name'})
+        away_name, home_name = [item.get_text() for item in team_names]
 
-        Args:
-            game_id (int): end of the url for an NHL game on ESPN
+        away_full = away_loc + ' ' + away_name
+        home_full = home_loc + ' ' + home_name
 
-        Returns:
-            [tuple]: home/away team names, home/away records, "NHL"
-        """
-        link = self.link_dict["NHL"] + str(game_id)
-        sp1 = self.get_sp1(link)
+        return home_full, away_full
 
-        team_names = sp1.find_all('div', attrs={'class': 'ScoreCell__TeamName ScoreCell__TeamName--displayName truncate db'})
-        away_full, home_full = [item.get_text() for item in team_names]
+    def _nfl_records(self, game_id, sp=False):
+        sp = self._sp_helper("NFL", game_id, sp)
 
-        records = sp1.find_all('div', attrs={'class': 'Gamestrip__Record db n10 clr-gray-04'})
+        records = sp.find_all('div', attrs={'class': 'record'})
         away_record, home_record = [item.get_text() for item in records]
 
-        return home_full, away_full, home_record, away_record, 'NHL'
+        return home_record, away_record
+
+    def _nfl_final_status(self, game_id, sp=False):
+        sp = self._sp_helper("NFL", game_id, sp)
+
+        status = sp.find_all('span', attrs={'class': 'game-time status-detail'})
+
+        status = status[0].get_text()
+        return status
+
+    def _nfl_quarter_scores(self, game_id, sp=False):
+        sp = self._sp_helper("NFL", game_id, sp)
+
+        td_htmls = [item.get_text() for item in sp.find_all('td')]
+        away_scores = td_htmls[1:5]
+        home_scores = td_htmls[7:11]
+
+        return home_scores, away_scores
+
+    def nfl_scores(self, game_id, sp=False):
+        sp = self._sp_helper("NFL", game_id, sp)
+
+        away_score = sp.find_all('div', attrs={'class': 'score icon-font-after'})
+        away_score = away_score[0].get_text()
+
+        home_score = sp.find_all('div', attrs={'class': 'score icon-font-before'})
+        home_score = home_score[0].get_text()
+
+        return home_score, away_score
+
+    def all_nfl_info(self, game_id):
+        sp = self._sp_helper("NFL", game_id)
+        home_name, away_name = self._nfl_team_names(game_id, sp)
+        home_record, away_record = self._nfl_records(game_id, sp)
+        status = self._nfl_final_status(game_id, sp)
+        home_qscores, away_qscores = self._nfl_quarter_scores(game_id, sp)
+        home_score, away_score = self.nfl_scores(game_id, sp)
+        return home_name, away_name, home_record, away_record, status, home_qscores, away_qscores, home_score, away_score
+
+    # ############## NBA ################
+
+    def _nba_team_names(self, game_id, sp=False):
+        sp = self._sp_helper("NBA", game_id, sp)
+
+        locations = sp.find_all('span', attrs={'class': 'long-name'})
+        away_loc = locations[0].get_text()
+        home_loc = locations[1].get_text()
+
+        team_names = sp.find_all('span', attrs={'class': 'short-name'})
+        away_name = team_names[0].get_text()
+        home_name = team_names[1].get_text()
+
+        home_full = home_loc + ' ' + home_name
+        away_full = away_loc + ' ' + away_name
+
+        return home_full, away_full
+
+    def _nba_records(self, game_id, sp=False):
+        sp = self._sp_helper("NBA", game_id, sp)
+
+        records = sp.find_all('div', attrs={'class': 'record'})
+        away_record, home_record = [item.get_text() for item in records]
+
+        return home_record, away_record
+
+    def _nba_final_status(self, game_id, sp=False):
+        sp = self._sp_helper("NBA", game_id, sp)
+
+        status = sp.find_all("span", attrs={'class': 'game-time status-detail'})
+        status = status[0].get_text()
+
+        return status
+
+    def _nba_quarter_scores(self, game_id, sp=False):
+        sp = self._sp_helper("NBA", game_id, sp)
+
+        td_htmls = [item.get_text() for item in sp.find_all('td')]
+        away_qscores = td_htmls[1:5]
+        home_qscores = td_htmls[7:11]
+
+        return home_qscores, away_qscores
+
+    def nba_scores(self, game_id, sp=False):
+        sp = self._sp_helper("NBA", game_id, sp)
+
+        away_score = sp.find_all('div', attrs={'class': 'score icon-font-after'})
+        away_score = away_score[0].get_text()
+
+        home_score = sp.find_all('div', attrs={'class': 'score icon-font-before'})
+        home_score = home_score[0].get_text()
+
+        return home_score, away_score
+
+    def all_nba_info(self, game_id):
+        sp = self._sp_helper("NBA", game_id)
+        home_name, away_name = self._nba_team_names(game_id, sp)
+        home_record, away_record = self._nba_records(game_id, sp)
+        status = self._nba_final_status(game_id, sp)
+        home_qscores, away_qscores = self._nba_quarter_scores(game_id, sp)
+        home_score, away_score = self.nba_scores(game_id, sp)
+        return home_name, away_name, home_record, away_record, status, home_qscores, away_qscores, home_score, away_score
+
+    # ############ NCAAF ############
+
+    def _ncaaf_team_names(self, game_id, sp=False):
+        sp = self._sp_helper("NCAAF", game_id, sp)
+
+        locations = sp.find_all('span', attrs={'class': 'long-name'})
+        away_loc, home_loc = [item.get_text() for item in locations]
+
+        team_names = sp.find_all('span', attrs={'class': 'short-name'})
+        away_name, home_name = [item.get_text() for item in team_names]
+
+        home_full = home_loc + ' ' + home_name
+        away_full = away_loc + ' ' + away_name
+
+        return home_full, away_full
+
+    def _ncaaf_records(self, game_id, sp=False):
+        sp = self._sp_helper("NCAAF", game_id, sp)
+
+        records = sp.find_all('div', attrs={'class': 'record'})
+        away_record, home_record = [item.get_text() for item in records]
+
+        return home_record, away_record
+
+    def _ncaaf_final_status(self, game_id, sp=False):
+        sp = self._sp_helper("NCAAF", game_id, sp)
+
+        status = sp.find_all('span', attrs={'class': 'game-time status-detail'})
+        status = status[0].get_text()
+
+        return status
+
+    def _ncaaf_quarter_scores(self, game_id, sp=False):
+        # TODO forgot this one, get to it next time :)
+        pass
+
+    def ncaaf_scores(self, game_id, sp=False):
+        sp = self._sp_helper("NCAAF", game_id, sp)
+
+        away_score = sp.find_all('div', attrs={'class': 'score icon-font-after'})
+        away_score = away_score[0].get_text()
+
+        home_score = sp.find_all('div', attrs={'class': 'score icon-font-before'})
+        home_score = home_score[0].get_text()
+
+        return home_score, away_score
+
+    def all_ncaaf_info(self, game_id):
+        sp = self._sp_helper("NCAAF", game_id, sp)
+        home_name, away_name = self._ncaaf_team_names(game_id, sp)
+        home_record, away_record = self._ncaaf_records(game_id, sp)
+        status = self.ncaaf_final_status(game_id, sp)
+        home_score, away_score = self.ncaaf_scores(game_id, sp)
+        return home_name, away_name, home_record, away_record, status, home_score, away_score
+
+    # ########### NHL ###############
+
+    def _hockey_team_names(self, game_id, sp=False):
+        sp = self._sp_helper("NHL", game_id, sp)
+
+        team_names = sp.find_all('div', attrs={'class': "ScoreCell__TeamName ScoreCell__TeamName--displayName truncate db"})
+        away_full, home_full = [item.get_text() for item in team_names]
+
+        return home_full, away_full
+
+    def _hockey_records(self, game_id, sp=False):
+        sp = self._sp_helper("NHL", game_id, sp)
+
+        records = sp.find_all('div', attrs={'class': 'Gamestrip__Record db n10 clr-gray-03'})
+        away_record, home_record = [item.get_text() for item in records]
+
+        return home_record, away_record
+
+    def hockey_score(self, game_id, sp=False):
+        sp = self._sp_helper("NHL", game_id, sp)
+
+        scores = sp.find_all('div', attrs={'class': 'Gamestrip__Score relative tc w-100 fw-heavy h2 clr-gray-01'})
+        away_score, home_score = [item.get_text() for item in scores]
+
+        return home_score, away_score
+
+    def all_hockey_info(self, game_id):
+        link = self.link_dict["NHL"] + str(game_id)
+        sp = get_sp1(link)
+
+        home_team, away_team = self._hockey_team_names(game_id, sp)
+        home_record, away_record = self._hockey_records(game_id, sp)
+        home_score, away_score = self.hockey_score(game_id, sp)
+
+
+if __name__ == "__main__":
+    e = ESPN_Scraper()
+    nflh, nfla = e._nfl_team_names("401128044")
+    nflhr, nflar = e._nfl_records("401128044")
+    status = e._nfl_final_status("401128044")
+    home_score, away_score = e.nfl_scores("401128044")
