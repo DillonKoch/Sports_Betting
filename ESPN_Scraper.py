@@ -17,6 +17,19 @@
 from Utility import get_sp1
 
 
+class Game:
+    def __init__(self):
+        self.home_name = None
+        self.away_name = None
+        self.home_record = None
+        self.away_record = None
+        self.final_status = None
+        self.home_qscores = None
+        self.away_qscores = None
+        self.home_score = None
+        self.away_score = None
+
+
 class ESPN_Scraper:
     def __init__(self):
         self.link_dict = {
@@ -104,14 +117,15 @@ class ESPN_Scraper:
 
         return home_score, away_score
 
-    def all_nfl_info(self, game_id):
-        sp = self._sp_helper("NFL", game_id)
-        home_name, away_name = self._nfl_team_names(game_id, sp)
-        home_record, away_record = self._nfl_records(game_id, sp)
-        status = self._nfl_final_status(game_id, sp)
-        home_qscores, away_qscores = self._nfl_quarter_scores(game_id, sp)
-        home_score, away_score = self.nfl_scores(game_id, sp)
-        return home_name, away_name, home_record, away_record, status, home_qscores, away_qscores, home_score, away_score
+    def all_nfl_info(self, game_id, sp=False):
+        sp = self._sp_helper("NFL", game_id, sp)
+        game = Game()
+        game.home_name, game.away_name = self._nfl_team_names(game_id, sp)
+        game.home_record, game.away_record = self._nfl_records(game_id, sp)
+        game.final_status = self._nfl_final_status(game_id, sp)
+        game.home_qscores, game.away_qscores = self._nfl_quarter_scores(game_id, sp)
+        game.home_score, game.away_score = self.nfl_scores(game_id, sp)
+        return game
 
     # ############## NBA ################
 
@@ -167,14 +181,15 @@ class ESPN_Scraper:
 
         return home_score, away_score
 
-    def all_nba_info(self, game_id):
-        sp = self._sp_helper("NBA", game_id)
-        home_name, away_name = self._nba_team_names(game_id, sp)
-        home_record, away_record = self._nba_records(game_id, sp)
-        status = self._nba_final_status(game_id, sp)
-        home_qscores, away_qscores = self._nba_quarter_scores(game_id, sp)
-        home_score, away_score = self.nba_scores(game_id, sp)
-        return home_name, away_name, home_record, away_record, status, home_qscores, away_qscores, home_score, away_score
+    def all_nba_info(self, game_id, sp=False):
+        sp = self._sp_helper("NBA", game_id, sp)
+        game = Game()
+        game.home_name, game.away_name = self._nba_team_names(game_id, sp)
+        game.home_record, game.away_record = self._nba_records(game_id, sp)
+        game.final_status = self._nba_final_status(game_id, sp)
+        game.home_qscores, game.away_qscores = self._nba_quarter_scores(game_id, sp)
+        game.home_score, game.away_score = self.nba_scores(game_id, sp)
+        return game
 
     # ############ NCAAF ############
 
@@ -210,7 +225,13 @@ class ESPN_Scraper:
 
     def _ncaaf_quarter_scores(self, game_id, sp=False):
         # TODO forgot this one, get to it next time :)
-        pass
+        sp = self._sp_helper("NCAAF", game_id, sp)
+
+        td_htmls = [item.get_text() for item in sp.find_all('td')]
+        away_qscores = td_htmls[1:5]
+        home_qscores = td_htmls[7:11]
+
+        return home_qscores, away_qscores
 
     def ncaaf_scores(self, game_id, sp=False):
         sp = self._sp_helper("NCAAF", game_id, sp)
@@ -223,13 +244,59 @@ class ESPN_Scraper:
 
         return home_score, away_score
 
-    def all_ncaaf_info(self, game_id):
+    def all_ncaaf_info(self, game_id, sp=False):
         sp = self._sp_helper("NCAAF", game_id, sp)
-        home_name, away_name = self._ncaaf_team_names(game_id, sp)
-        home_record, away_record = self._ncaaf_records(game_id, sp)
-        status = self.ncaaf_final_status(game_id, sp)
-        home_score, away_score = self.ncaaf_scores(game_id, sp)
-        return home_name, away_name, home_record, away_record, status, home_score, away_score
+        game = Game()
+        game.home_name, game.away_name = self._ncaaf_team_names(game_id, sp)
+        game.home_record, game.away_record = self._ncaaf_records(game_id, sp)
+        game.final_status = self._ncaaf_final_status(game_id, sp)
+        game.home_qscores, game.away_qscores = self._ncaaf_quarter_scores(game_id, sp)
+        game.home_score, game.away_score = self.ncaaf_scores(game_id, sp)
+        return game
+
+    # ########### NCAAB ##############
+
+    def _ncaab_team_names(self, game_id, sp=False):
+        sp = self._sp_helper("NCAAB", game_id, sp)
+
+        locations = sp.find_all('span', attrs={'class': 'long-name'})
+        locations_text = [item.get_text() for item in locations]
+        away_loc = locations_text[0]
+        home_loc = locations_text[1]
+
+        team_names = sp.find_all('span', attrs={'class': 'short-name'})
+        team_names_text = [item.get_text() for item in team_names]
+        away_name = team_names_text[0]
+        home_name = team_names_text[1]
+
+        home_full = home_loc + ' ' + home_name
+        away_full = away_loc + ' ' + away_name
+        return home_full, away_full
+
+    def _ncaab_records(self, game_id, sp=False):
+        sp = self._sp_helper("NCAAB", game_id, sp)
+
+        records = sp.find_all('div', attrs={'class': 'record'})
+        away_record, home_record = [item.get_text() for item in records]
+
+        return home_record, away_record
+
+    def _ncaab_final_status(self, game_id, sp=False):
+        sp = self._sp_helper("NCAAB", game_id, sp)
+
+        status = sp.find_all('span', attrs={'class': 'game-time status-detail'})
+        status = status[0].get_text()
+
+        return status
+
+    def _ncaab_half_scores(self, game_id, sp=False):
+        sp = self._sp_helper("NCAAB", game_id, sp)
+
+        td_htmls = [item.get_text() for item in sp.find_all('td')]
+        away_half_scores = td_htmls[1:3]
+        home_half_scores = td_htmls[5:7]
+
+        return home_half_scores, away_half_scores
 
     # ########### NHL ###############
 
