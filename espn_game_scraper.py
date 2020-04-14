@@ -1,5 +1,5 @@
 # ==============================================================================
-# File: ESPN_Scraper.py
+# File: espn_game_scraper.py
 # Project: Sports_Betting
 # File Created: Tuesday, 7th April 2020 7:34:33 am
 # Author: Dillon Koch
@@ -12,7 +12,6 @@
 # -----
 # File for scraping game data from ESPN
 # ==============================================================================
-
 
 from Utility import get_sp1
 
@@ -28,9 +27,11 @@ class Game:
         self.away_qscores = None
         self.home_score = None
         self.away_score = None
+        self.home_half_scores = None
+        self.away_half_scores = None
 
 
-class ESPN_Scraper:
+class ESPN_Game_Scraper:
     def __init__(self):
         self.link_dict = {
             "NFL": 'https://www.espn.com/nfl/game/_/gameId/',
@@ -39,24 +40,6 @@ class ESPN_Scraper:
             "NBA": 'https://www.espn.com/nba/game?gameId=',
             "NCAAB": 'https://www.espn.com/mens-college-basketball/game?gameId=',
             "NHL": 'https://www.espn.com/nhl/game/_/gameId/'
-        }
-
-        self.data_dict = {
-            "NFL": {
-                "link": "https://www.espn.com/nfl/game/_gameId/",
-                "team_names_html": None,
-                "records_html": None,
-                "scores_html": None,
-                "final_html": None
-            },
-            "NHL": {
-                "link": "https://www.espn.com/nhl/game/_/gameId/",
-                "team_names_html": "ScoreCell__TeamName ScoreCell__TeamName--displayName truncate db",
-                "records_html": 'Gamestrip__Record db n10 clr-gray-03',
-                "scores_html": 'Gamestrip__Score relative tc w-100 fw-heavy h2 clr-gray-01',
-                "final_html": 'ScoreCell__Time Gamestrip__Time h9 clr-gray-01',
-
-            }
         }
 
     def _sp_helper(self, league, game_id, sp=False):
@@ -298,6 +281,27 @@ class ESPN_Scraper:
 
         return home_half_scores, away_half_scores
 
+    def ncaab_scores(self, game_id, sp=False):
+        sp = self._sp_helper("NCAAB", game_id, sp)
+
+        away_score = sp.find_all('div', attrs={'class': 'score icon-font-after'})
+        away_score = away_score[0].get_text()
+
+        home_score = sp.find_all('div', attrs={'class': 'score icon-font-before'})
+        home_score = home_score[0].get_text()
+
+        return home_score, away_score
+
+    def all_ncaab_info(self, game_id, sp=False):
+        sp = self._sp_helper("NCAAB", game_id, sp)
+        game = Game()
+        game.home_name, game.away_name = self._ncaab_team_names(game_id, sp)
+        game.home_record, game.away_record = self._ncaab_records(game_id, sp)
+        game.final_status = self._ncaab_final_status(game_id, sp)
+        game.home_half_scores, game.away_half_scores = self._ncaab_half_scores(game_id, sp)
+        game.home_score, game.away_score = self.ncaab_scores(game_id, sp)
+        return game
+
     # ########### NHL ###############
 
     def _hockey_team_names(self, game_id, sp=False):
@@ -333,9 +337,9 @@ class ESPN_Scraper:
         home_score, away_score = self.hockey_score(game_id, sp)
 
 
-if __name__ == "__main__":
-    e = ESPN_Scraper()
-    nflh, nfla = e._nfl_team_names("401128044")
-    nflhr, nflar = e._nfl_records("401128044")
-    status = e._nfl_final_status("401128044")
-    home_score, away_score = e.nfl_scores("401128044")
+# if __name__ == "__main__":
+#     e = ESPN_Scraper()
+#     nflh, nfla = e._nfl_team_names("401128044")
+#     nflhr, nflar = e._nfl_records("401128044")
+#     status = e._nfl_final_status("401128044")
+#     home_score, away_score = e.nfl_scores("401128044")

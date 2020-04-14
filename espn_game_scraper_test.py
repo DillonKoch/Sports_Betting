@@ -1,5 +1,5 @@
 # ==============================================================================
-# File: ESPN_Scraper_test.py
+# File: espn_game_scraper_test.py
 # Project: Sports_Betting
 # File Created: Friday, 10th April 2020 11:25:21 am
 # Author: Dillon Koch
@@ -10,16 +10,16 @@
 #
 #
 # -----
-# Testing the ESPN Scraper Class
+# Testing the ESPN Game Scraper Class
 # ==============================================================================
 from unittest import TestCase
 
-from ESPN_Scraper import ESPN_Scraper
+from espn_game_scraper import ESPN_Game_Scraper
 
 
-class Test_ESPN_Scraper(TestCase):
+class Test_ESPN_Game_Scraper(TestCase):
 
-    espn = ESPN_Scraper()
+    espn = ESPN_Game_Scraper()
     nfl_game_id = "401128044"
     nfl_sp = espn._sp_helper("NFL", nfl_game_id)
     nba_game_id = "401160782"
@@ -32,7 +32,7 @@ class Test_ESPN_Scraper(TestCase):
     hockey_sp = espn._sp_helper("NHL", hockey_game_id)
 
     def setUp(self):
-        self.espn = ESPN_Scraper()
+        self.espn = ESPN_Game_Scraper()
 
     def test_nfl_team_names(self):
         home_name, away_name = self.espn._nfl_team_names(self.nfl_game_id, sp=self.nfl_sp)
@@ -180,6 +180,12 @@ class Test_ESPN_Scraper(TestCase):
 
         self.assertEqual(['20', '31'], away_half_scores)
         self.assertEqual(['24', '35'], home_half_scores)
+
+    def test_ncaab_scores(self):
+        home_score, away_score = self.espn.ncaab_scores(self.ncaab_game_id, self.ncaab_sp)
+
+        self.assertEqual("59", home_score)
+        self.assertEqual("51", away_score)
 
     def test_hockey_team_names(self):
         home_name, away_name = self.espn._hockey_team_names(self.hockey_game_id, sp=self.hockey_sp)
