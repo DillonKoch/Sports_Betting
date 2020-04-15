@@ -32,6 +32,7 @@ class Game:
         self.away_score = None
         self.home_half_scores = None
         self.away_half_scores = None
+        self.network = None
 
 
 class ESPN_Game_Scraper:
@@ -123,6 +124,15 @@ class ESPN_Game_Scraper:
 
         return home_score, away_score
 
+    def _nfl_game_network(self, game_id, sp=False):
+        sp = self._sp_helper("NFL", game_id, sp)
+
+        network = sp.find_all('div', attrs={'class': 'game-network'})
+        network = network[0].get_text()
+        network = network.replace("\n", '').replace("\t", "")
+        network = network.replace("Coverage: ", "")
+        return network
+
     def all_nfl_info(self, game_id, sp=False):
         sp = self._sp_helper("NFL", game_id, sp)
         game = Game()
@@ -132,6 +142,7 @@ class ESPN_Game_Scraper:
         game.final_status = self._nfl_final_status(game_id, sp)
         game.home_qscores, game.away_qscores = self._nfl_quarter_scores(game_id, sp)
         game.home_score, game.away_score = self.nfl_scores(game_id, sp)
+        game.network = self._nfl_game_network(game_id, sp)
         return game
 
     # ############## NBA ################
@@ -201,6 +212,15 @@ class ESPN_Game_Scraper:
 
         return home_score, away_score
 
+    def _nba_game_network(self, game_id, sp=False):
+        sp = self._sp_helper("NBA", game_id, sp)
+
+        network = sp.find_all('div', attrs={'class': 'game-network'})
+        network = network[0].get_text()
+        network = network.replace("\n", '').replace("\t", "")
+        network = network.replace("Coverage: ", "")
+        return network
+
     def all_nba_info(self, game_id, sp=False):
         sp = self._sp_helper("NBA", game_id, sp)
         game = Game()
@@ -245,14 +265,26 @@ class ESPN_Game_Scraper:
         return status
 
     def _ncaaf_quarter_scores(self, game_id, sp=False):
-        # TODO forgot this one, get to it next time :)
         sp = self._sp_helper("NCAAF", game_id, sp)
 
         td_htmls = [item.get_text() for item in sp.find_all('td')]
-        away_qscores = td_htmls[1:5]
-        home_qscores = td_htmls[7:11]
 
-        return home_qscores, away_qscores
+        away_scores = []
+        home_scores = []
+        updating_home = False
+        for td in td_htmls[1:]:
+            if self._letter_in_string(td):
+                if updating_home:
+                    break
+                else:
+                    updating_home = True
+                    continue
+            if updating_home:
+                home_scores.append(td)
+            else:
+                away_scores.append(td)
+
+        return home_scores[:-1], away_scores[:-1]
 
     def ncaaf_scores(self, game_id, sp=False):
         sp = self._sp_helper("NCAAF", game_id, sp)
@@ -264,6 +296,15 @@ class ESPN_Game_Scraper:
         home_score = home_score[0].get_text()
 
         return home_score, away_score
+
+    def _ncaaf_game_netowrk(self, game_id, sp=False):
+        sp = self._sp_helper("NCAAF", game_id, sp)
+
+        network = sp.find_all('div', attrs={'class': 'game-network'})
+        network = network[0].get_text()
+        network = network.replace("\n", '').replace("\t", "")
+        network = network.replace("Coverage: ", "")
+        return network
 
     def all_ncaaf_info(self, game_id, sp=False):
         sp = self._sp_helper("NCAAF", game_id, sp)
@@ -315,8 +356,23 @@ class ESPN_Game_Scraper:
         sp = self._sp_helper("NCAAB", game_id, sp)
 
         td_htmls = [item.get_text() for item in sp.find_all('td')]
-        away_half_scores = td_htmls[1:3]
-        home_half_scores = td_htmls[5:7]
+
+        away_scores = []
+        home_scores = []
+        updating_home = False
+        for td in td_htmls[1:]:
+            if self._letter_in_string(td):
+                if updating_home:
+                    break
+                else:
+                    updating_home = True
+                    continue
+            if updating_home:
+                home_scores.append(td)
+            else:
+                away_scores.append(td)
+
+        return home_scores[:-1], away_scores[:-1]
 
         return home_half_scores, away_half_scores
 

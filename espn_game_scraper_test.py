@@ -69,6 +69,11 @@ class Test_ESPN_Game_Scraper(TestCase):
         self.assertEqual("21", home_score)
         self.assertEqual("7", away_score)
 
+    def test_nfl_game_network(self):
+        network = self.espn._nfl_game_network(self.nfl_game_id, sp=self.nfl_sp)
+
+        self.assertEqual("FOX/NFL", network)
+
     def test_all_nfl_info(self):
         game = self.espn.all_nfl_info(self.nfl_game_id, sp=self.nfl_sp)
         self.assertEqual(self.nfl_game_id, game.ESPN_ID)
@@ -81,6 +86,7 @@ class Test_ESPN_Game_Scraper(TestCase):
         self.assertEqual(['0', '0', '7', '0'], game.away_qscores)
         self.assertEqual("21", game.home_score)
         self.assertEqual("7", game.away_score)
+        self.assertEqual("FOX/NFL", game.network)
 
     def test_nba_team_names(self):
         home_name, away_name = self.espn._nba_team_names(self.nba_game_id, sp=self.nba_sp)
@@ -116,6 +122,11 @@ class Test_ESPN_Game_Scraper(TestCase):
 
         self.assertEqual("114", home_score)
         self.assertEqual("120", away_score)
+
+    def test_nba_game_network(self):
+        network = self.espn._nba_game_network("401160624")
+
+        self.assertEqual("TNT", network)
 
     def test_all_nba_info(self):
         game = self.espn.all_nba_info(self.nba_game_id, self.nba_sp)
@@ -153,11 +164,22 @@ class Test_ESPN_Game_Scraper(TestCase):
         self.assertEqual(['13', '7', '0', '3'], home_qscores)
         self.assertEqual(['0', '6', '7', '6'], away_qscores)
 
+    def test_overtime_ncaaf_quarter_scores(self):
+        home_scores, away_scores = self.espn._ncaaf_quarter_scores("401112085")
+
+        self.assertEqual(["3", "0", "7", "3", "16"], home_scores)
+        self.assertEqual(["0", "0", "13", "0", "13"], away_scores)
+
     def test_ncaaf_scores(self):
         home_score, away_score = self.espn.ncaaf_scores(self.ncaaf_game_id, self.ncaaf_sp)
 
         self.assertEqual("23", home_score)
         self.assertEqual("19", away_score)
+
+    def test_ncaaf_game_netowrk(self):
+        network = self.espn._ncaaf_game_netowrk(self.ncaaf_game_id, self.ncaaf_sp)
+
+        self.assertEqual("FOX", network)
 
     def test_all_ncaaf_info(self):
         game = self.espn.all_ncaaf_info(self.ncaaf_game_id, self.ncaaf_sp)
@@ -194,6 +216,12 @@ class Test_ESPN_Game_Scraper(TestCase):
 
         self.assertEqual(['20', '31'], away_half_scores)
         self.assertEqual(['24', '35'], home_half_scores)
+
+    def test_overtime_ncaab_half_scores(self):
+        home_half_scores, away_half_scores = self.espn._ncaab_half_scores("400915005")
+
+        self.assertEqual(["39", "35", "12"], home_half_scores)
+        self.assertEqual(["36", "38", "9"], away_half_scores)
 
     def test_ncaab_scores(self):
         home_score, away_score = self.espn.ncaab_scores(self.ncaab_game_id, self.ncaab_sp)
