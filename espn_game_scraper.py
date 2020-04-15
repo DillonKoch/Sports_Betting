@@ -13,11 +13,14 @@
 # File for scraping game data from ESPN
 # ==============================================================================
 
+import string
+
 from Utility import get_sp1
 
 
 class Game:
     def __init__(self):
+        self.ESPN_ID = None
         self.home_name = None
         self.away_name = None
         self.home_record = None
@@ -49,7 +52,14 @@ class ESPN_Game_Scraper:
         else:
             return sp
 
-    # ########### NFL ############
+    def _letter_in_string(self, td_str):
+        for char in td_str:
+            if char in string.ascii_letters:
+                return True
+        return False
+
+        # ########### NFL ############
+
     def _nfl_team_names(self, game_id, sp=False):
         sp = self._sp_helper("NFL", game_id, sp)
 
@@ -84,10 +94,23 @@ class ESPN_Game_Scraper:
         sp = self._sp_helper("NFL", game_id, sp)
 
         td_htmls = [item.get_text() for item in sp.find_all('td')]
-        away_scores = td_htmls[1:5]
-        home_scores = td_htmls[7:11]
 
-        return home_scores, away_scores
+        away_scores = []
+        home_scores = []
+        updating_home = False
+        for td in td_htmls[1:]:
+            if self._letter_in_string(td):
+                if updating_home:
+                    break
+                else:
+                    updating_home = True
+                    continue
+            if updating_home:
+                home_scores.append(td)
+            else:
+                away_scores.append(td)
+
+        return home_scores[:-1], away_scores[:-1]
 
     def nfl_scores(self, game_id, sp=False):
         sp = self._sp_helper("NFL", game_id, sp)
@@ -103,6 +126,7 @@ class ESPN_Game_Scraper:
     def all_nfl_info(self, game_id, sp=False):
         sp = self._sp_helper("NFL", game_id, sp)
         game = Game()
+        game.ESPN_ID = game_id
         game.home_name, game.away_name = self._nfl_team_names(game_id, sp)
         game.home_record, game.away_record = self._nfl_records(game_id, sp)
         game.final_status = self._nfl_final_status(game_id, sp)
@@ -148,10 +172,23 @@ class ESPN_Game_Scraper:
         sp = self._sp_helper("NBA", game_id, sp)
 
         td_htmls = [item.get_text() for item in sp.find_all('td')]
-        away_qscores = td_htmls[1:5]
-        home_qscores = td_htmls[7:11]
 
-        return home_qscores, away_qscores
+        away_scores = []
+        home_scores = []
+        updating_home = False
+        for td in td_htmls[1:]:
+            if self._letter_in_string(td):
+                if updating_home:
+                    break
+                else:
+                    updating_home = True
+                    continue
+            if updating_home:
+                home_scores.append(td)
+            else:
+                away_scores.append(td)
+
+        return home_scores[:-1], away_scores[:-1]
 
     def nba_scores(self, game_id, sp=False):
         sp = self._sp_helper("NBA", game_id, sp)
@@ -167,6 +204,7 @@ class ESPN_Game_Scraper:
     def all_nba_info(self, game_id, sp=False):
         sp = self._sp_helper("NBA", game_id, sp)
         game = Game()
+        game.ESPN_ID = game_id
         game.home_name, game.away_name = self._nba_team_names(game_id, sp)
         game.home_record, game.away_record = self._nba_records(game_id, sp)
         game.final_status = self._nba_final_status(game_id, sp)
@@ -230,6 +268,7 @@ class ESPN_Game_Scraper:
     def all_ncaaf_info(self, game_id, sp=False):
         sp = self._sp_helper("NCAAF", game_id, sp)
         game = Game()
+        game.ESPN_ID = game_id
         game.home_name, game.away_name = self._ncaaf_team_names(game_id, sp)
         game.home_record, game.away_record = self._ncaaf_records(game_id, sp)
         game.final_status = self._ncaaf_final_status(game_id, sp)
@@ -295,6 +334,7 @@ class ESPN_Game_Scraper:
     def all_ncaab_info(self, game_id, sp=False):
         sp = self._sp_helper("NCAAB", game_id, sp)
         game = Game()
+        game.ESPN_ID = game_id
         game.home_name, game.away_name = self._ncaab_team_names(game_id, sp)
         game.home_record, game.away_record = self._ncaab_records(game_id, sp)
         game.final_status = self._ncaab_final_status(game_id, sp)
