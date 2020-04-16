@@ -4,7 +4,7 @@
 # File Created: Friday, 10th April 2020 11:25:21 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Thursday, 16th April 2020 5:11:08 pm
+# Last Modified: Thursday, 16th April 2020 5:27:51 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -75,7 +75,7 @@ class Test_ESPN_Game_Scraper(TestCase):
         self.assertEqual("FOX/NFL", network)
 
     def test_nfl_line_ou(self):
-        line, over_under = self.espn._nfl_line_ou(self.nfl_game_id, sp=self.nfl_sp)
+        line, over_under = self.espn._line_ou("NFL", self.nfl_game_id, sp=self.nfl_sp)
 
         self.assertEqual("CLE -3.0", line)
         self.assertEqual("42", over_under)
@@ -137,7 +137,7 @@ class Test_ESPN_Game_Scraper(TestCase):
         self.assertEqual("TNT", network)
 
     def test_nba_line_ou(self):
-        line, over_under = self.espn._nba_line_ou(self.nba_game_id, self.nba_sp)
+        line, over_under = self.espn._line_ou("NBA", self.nba_game_id, self.nba_sp)
 
         self.assertEqual("DET -4.0", line)
         self.assertEqual("223", over_under)
@@ -198,7 +198,7 @@ class Test_ESPN_Game_Scraper(TestCase):
         self.assertEqual("FOX", network)
 
     def test_ncaaf_line_ou(self):
-        line, over_under = self.espn._ncaaf_line_ou(self.ncaaf_game_id, self.ncaaf_sp)
+        line, over_under = self.espn._line_ou("NCAAF", self.ncaaf_game_id, self.ncaaf_sp)
 
         self.assertEqual("IOWA -3.0", line)
         self.assertEqual("45", over_under)
@@ -259,7 +259,7 @@ class Test_ESPN_Game_Scraper(TestCase):
         self.assertEqual("FS1", network)
 
     def test_ncaab_line_ou(self):
-        line, over_under = self.espn._ncaab_line_ou(self.ncaab_game_id, self.ncaab_sp)
+        line, over_under = self.espn._line_ou("NCAAB", self.ncaab_game_id, self.ncaab_sp)
 
         self.assertEqual("ILL -6.0", line)
         self.assertEqual("135", over_under)
