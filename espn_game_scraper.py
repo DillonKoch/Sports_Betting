@@ -4,7 +4,7 @@
 # File Created: Tuesday, 7th April 2020 7:34:33 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Thursday, 16th April 2020 5:03:50 pm
+# Last Modified: Thursday, 16th April 2020 5:08:53 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -112,7 +112,8 @@ class ESPN_Game_Scraper:
 
         return home_scores[:-1], away_scores[:-1]
 
-    def _scores_helper(self, sp):
+    def _game_scores(self, league, game_id, sp=False):
+        sp = self._sp_helper(league, game_id, sp)
         away_score = sp.find_all('div', attrs={'class': 'score icon-font-after'})
         away_score = away_score[0].get_text()
 
@@ -141,11 +142,6 @@ class ESPN_Game_Scraper:
 
         # ########### NFL ############
 
-    def nfl_scores(self, game_id, sp=False):
-        sp = self._sp_helper("NFL", game_id, sp)
-        home_score, away_score = self._scores_helper(sp)
-        return home_score, away_score
-
     def _nfl_game_network(self, game_id, sp=False):
         sp = self._sp_helper("NFL", game_id, sp)
 
@@ -169,17 +165,12 @@ class ESPN_Game_Scraper:
         game.home_record, game.away_record = self._team_records("NFL", game_id, sp)
         game.final_status = self._final_status("NFL", game_id, sp)
         game.home_qscores, game.away_qscores = self._quarter_scores("NFL", game_id, sp)
-        game.home_score, game.away_score = self.nfl_scores(game_id, sp)
+        game.home_score, game.away_score = self._game_scores("NFL", game_id, sp)
         game.network = self._nfl_game_network(game_id, sp)
         game.line, game.over_under = self._nfl_line_ou(game_id, sp)
         return game
 
     # ############## NBA ################
-
-    def nba_scores(self, game_id, sp=False):
-        sp = self._sp_helper("NBA", game_id, sp)
-        home_score, away_score = self._scores_helper(sp)
-        return home_score, away_score
 
     def _nba_game_network(self, game_id, sp=False):
         sp = self._sp_helper("NBA", game_id, sp)
@@ -204,16 +195,11 @@ class ESPN_Game_Scraper:
         game.home_record, game.away_record = self._team_records("NBA", game_id, sp)
         game.final_status = self._final_status("NBA", game_id, sp)
         game.home_qscores, game.away_qscores = self._quarter_scores("NBA", game_id, sp)
-        game.home_score, game.away_score = self.nba_scores(game_id, sp)
+        game.home_score, game.away_score = self._game_scores("NBA", game_id, sp)
         game.line, game.over_under = self._nba_line_ou(game_id, sp)
         return game
 
     # ############ NCAAF ############
-
-    def ncaaf_scores(self, game_id, sp=False):
-        sp = self._sp_helper("NCAAF", game_id, sp)
-        home_score, away_score = self._scores_helper(sp)
-        return home_score, away_score
 
     def _ncaaf_game_netowrk(self, game_id, sp=False):
         sp = self._sp_helper("NCAAF", game_id, sp)
@@ -238,16 +224,11 @@ class ESPN_Game_Scraper:
         game.home_record, game.away_record = self._team_records("NCAAF", game_id, sp)
         game.final_status = self._final_status("NCAAF", game_id, sp)
         game.home_qscores, game.away_qscores = self._quarter_scores("NCAAF", game_id, sp)
-        game.home_score, game.away_score = self.ncaaf_scores(game_id, sp)
+        game.home_score, game.away_score = self._game_scores("NCAAF", game_id, sp)
         game.line, game.over_under = self._ncaaf_line_ou(game_id, sp)
         return game
 
     # ########### NCAAB ##############
-
-    def ncaab_scores(self, game_id, sp=False):
-        sp = self._sp_helper("NCAAB", game_id, sp)
-        home_score, away_score = self._scores_helper(sp)
-        return home_score, away_score
 
     def _ncaab_game_network(self, game_id, sp=False):
         sp = self._sp_helper("NCAAB", game_id, sp)
@@ -272,7 +253,7 @@ class ESPN_Game_Scraper:
         game.home_record, game.away_record = self._team_records("NCAAB", game_id, sp)
         game.final_status = self._final_status("NCAAB", game_id, sp)
         game.home_half_scores, game.away_half_scores = self._quarter_scores("NCAAB", game_id, sp)
-        game.home_score, game.away_score = self.ncaab_scores(game_id, sp)
+        game.home_score, game.away_score = self._game_scores("NCAAB", game_id, sp)
         game.line, game.over_under = self._ncaab_line_ou(game_id, sp)
         return game
 

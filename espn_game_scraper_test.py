@@ -4,7 +4,7 @@
 # File Created: Friday, 10th April 2020 11:25:21 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Thursday, 16th April 2020 5:02:01 pm
+# Last Modified: Thursday, 16th April 2020 5:11:08 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -64,7 +64,7 @@ class Test_ESPN_Game_Scraper(TestCase):
         self.assertEqual(['0', '6', '10', '8', '0'], away_scores)
 
     def test_nfl_scores(self):
-        home_score, away_score = self.espn.nfl_scores(self.nfl_game_id, sp=self.nfl_sp)
+        home_score, away_score = self.espn._game_scores("NFL", self.nfl_game_id, sp=self.nfl_sp)
 
         self.assertEqual("21", home_score)
         self.assertEqual("7", away_score)
@@ -126,7 +126,7 @@ class Test_ESPN_Game_Scraper(TestCase):
         self.assertEqual(["30", "30", "31", "23", "27"], home_scores)
 
     def test_nba_scores(self):
-        home_score, away_score = self.espn.nba_scores(self.nba_game_id, self.nba_sp)
+        home_score, away_score = self.espn._game_scores("NBA", self.nba_game_id, self.nba_sp)
 
         self.assertEqual("114", home_score)
         self.assertEqual("120", away_score)
@@ -187,7 +187,7 @@ class Test_ESPN_Game_Scraper(TestCase):
         self.assertEqual(["0", "0", "13", "0", "13"], away_scores)
 
     def test_ncaaf_scores(self):
-        home_score, away_score = self.espn.ncaaf_scores(self.ncaaf_game_id, self.ncaaf_sp)
+        home_score, away_score = self.espn._game_scores("NCAAF", self.ncaaf_game_id, self.ncaaf_sp)
 
         self.assertEqual("23", home_score)
         self.assertEqual("19", away_score)
@@ -248,7 +248,7 @@ class Test_ESPN_Game_Scraper(TestCase):
         self.assertEqual(["36", "38", "9"], away_half_scores)
 
     def test_ncaab_scores(self):
-        home_score, away_score = self.espn.ncaab_scores(self.ncaab_game_id, self.ncaab_sp)
+        home_score, away_score = self.espn._game_scores("NCAAB", self.ncaab_game_id, self.ncaab_sp)
 
         self.assertEqual("59", home_score)
         self.assertEqual("51", away_score)
