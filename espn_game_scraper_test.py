@@ -4,7 +4,7 @@
 # File Created: Friday, 10th April 2020 11:25:21 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Thursday, 16th April 2020 4:55:14 pm
+# Last Modified: Thursday, 16th April 2020 5:02:01 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -52,13 +52,13 @@ class Test_ESPN_Game_Scraper(TestCase):
         self.assertEqual("Final", status)
 
     def test_nfl_quarter_scores(self):
-        home_scores, away_scores = self.espn._nfl_quarter_scores(self.nfl_game_id, sp=self.nfl_sp)
+        home_scores, away_scores = self.espn._quarter_scores("NFL", self.nfl_game_id, sp=self.nfl_sp)
 
         self.assertEqual(['7', '7', '0', '7'], home_scores)
         self.assertEqual(['0', '0', '7', '0'], away_scores)
 
     def test_nfl_overtime_quarter_scores(self):
-        home_scores, away_scores = self.espn._nfl_quarter_scores("401127972")
+        home_scores, away_scores = self.espn._quarter_scores("NFL", "401127972")
 
         self.assertEqual(['7', '10', '7', '0', '6'], home_scores)
         self.assertEqual(['0', '6', '10', '8', '0'], away_scores)
@@ -114,13 +114,13 @@ class Test_ESPN_Game_Scraper(TestCase):
         self.assertEqual("Final", status)
 
     def test_nba_quarter_scores(self):
-        home_qscores, away_qscores = self.espn._nba_quarter_scores(self.nba_game_id, sp=self.nba_sp)
+        home_qscores, away_qscores = self.espn._quarter_scores("NBA", self.nba_game_id, sp=self.nba_sp)
 
         self.assertEqual(["41", "25", "26", "28"], away_qscores)
         self.assertEqual(["26", "25", "30", "33"], home_qscores)
 
     def test_nba_overtime_quarter_scores(self):
-        home_scores, away_scores = self.espn._nba_quarter_scores("401161460")
+        home_scores, away_scores = self.espn._quarter_scores("NBA", "401161460")
 
         self.assertEqual(["32", "26", "29", "27", "19"], away_scores)
         self.assertEqual(["30", "30", "31", "23", "27"], home_scores)
@@ -175,13 +175,13 @@ class Test_ESPN_Game_Scraper(TestCase):
         self.assertEqual("Final", status)
 
     def test_ncaaf_quarter_scores(self):
-        home_qscores, away_qscores = self.espn._ncaaf_quarter_scores(self.ncaaf_game_id, self.ncaaf_sp)
+        home_qscores, away_qscores = self.espn._quarter_scores("NCAAB", self.ncaaf_game_id, self.ncaaf_sp)
 
         self.assertEqual(['13', '7', '0', '3'], home_qscores)
         self.assertEqual(['0', '6', '7', '6'], away_qscores)
 
     def test_overtime_ncaaf_quarter_scores(self):
-        home_scores, away_scores = self.espn._ncaaf_quarter_scores("401112085")
+        home_scores, away_scores = self.espn._quarter_scores("NCAAF", "401112085")
 
         self.assertEqual(["3", "0", "7", "3", "16"], home_scores)
         self.assertEqual(["0", "0", "13", "0", "13"], away_scores)
@@ -236,13 +236,13 @@ class Test_ESPN_Game_Scraper(TestCase):
         self.assertEqual("Final", status)
 
     def test_ncaab_half_scores(self):
-        home_half_scores, away_half_scores = self.espn._ncaab_half_scores(self.ncaab_game_id, self.ncaab_sp)
+        home_half_scores, away_half_scores = self.espn._quarter_scores("NCAAB", self.ncaab_game_id, self.ncaab_sp)
 
         self.assertEqual(['20', '31'], away_half_scores)
         self.assertEqual(['24', '35'], home_half_scores)
 
     def test_overtime_ncaab_half_scores(self):
-        home_half_scores, away_half_scores = self.espn._ncaab_half_scores("400915005")
+        home_half_scores, away_half_scores = self.espn._quarter_scores("NCAAB", "400915005")
 
         self.assertEqual(["39", "35", "12"], home_half_scores)
         self.assertEqual(["36", "38", "9"], away_half_scores)
