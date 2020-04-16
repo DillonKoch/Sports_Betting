@@ -4,7 +4,7 @@
 # File Created: Friday, 10th April 2020 11:25:21 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Thursday, 16th April 2020 4:49:28 pm
+# Last Modified: Thursday, 16th April 2020 4:55:14 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -47,7 +47,7 @@ class Test_ESPN_Game_Scraper(TestCase):
         self.assertEqual("5-5, 1-3 Away", away_record)
 
     def test_nfl_final_status(self):
-        status = self.espn._nfl_final_status(self.nfl_game_id, sp=self.nfl_sp)
+        status = self.espn._final_status("NFL", self.nfl_game_id, sp=self.nfl_sp)
 
         self.assertEqual("Final", status)
 
@@ -109,7 +109,7 @@ class Test_ESPN_Game_Scraper(TestCase):
         self.assertEqual("6-4, 4-2 Away", away_record)
 
     def test_nba_final_status(self):
-        status = self.espn._nba_final_status(self.nba_game_id, sp=self.nba_sp)
+        status = self.espn._final_status("NBA", self.nba_game_id, sp=self.nba_sp)
 
         self.assertEqual("Final", status)
 
@@ -170,7 +170,7 @@ class Test_ESPN_Game_Scraper(TestCase):
         self.assertEqual("9-1, 6-1 Conf", away_record)
 
     def test_ncaaf_final_status(self):
-        status = self.espn._ncaaf_final_status(self.ncaaf_game_id, self.ncaaf_sp)
+        status = self.espn._final_status("NCAAF", self.ncaaf_game_id, self.ncaaf_sp)
 
         self.assertEqual("Final", status)
 
@@ -231,7 +231,7 @@ class Test_ESPN_Game_Scraper(TestCase):
         self.assertEqual("11-10, 5-6 Conf", away_record)
 
     def test_ncaab_final_status(self):
-        status = self.espn._ncaab_final_status(self.ncaab_game_id, self.ncaab_sp)
+        status = self.espn._final_status("NCAAB", self.ncaab_game_id, self.ncaab_sp)
 
         self.assertEqual("Final", status)
 
