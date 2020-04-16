@@ -14,6 +14,7 @@
 # ==============================================================================
 
 import string
+import re
 
 from Utility import get_sp1
 
@@ -33,6 +34,8 @@ class Game:
         self.home_half_scores = None
         self.away_half_scores = None
         self.network = None
+        self.line = None
+        self.over_under = None
 
 
 class ESPN_Game_Scraper:
@@ -58,6 +61,24 @@ class ESPN_Game_Scraper:
             if char in string.ascii_letters:
                 return True
         return False
+
+    def _line_ou_helper(self, sp):
+        li_htmls = [item.get_text() for item in sp.find_all('li')]
+
+        line_comp = re.compile(r"^Line: (.+)$")
+        ou_comp = re.compile(r"\s+Over/Under: (\d+)\s+$")
+        line = None
+        over_under = None
+
+        for html in li_htmls:
+            line_match = re.match(line_comp, html)
+            ou_match = re.match(ou_comp, html)
+            if line_match:
+                line = line_match.group(1)
+            elif ou_match:
+                over_under = ou_match.group(1)
+
+        return line, over_under
 
         # ########### NFL ############
 
@@ -133,6 +154,12 @@ class ESPN_Game_Scraper:
         network = network.replace("Coverage: ", "")
         return network
 
+    def _nfl_line_ou(self, game_id, sp=False):
+        sp = self._sp_helper("NFL", game_id, sp)
+
+        line, over_under = self._line_ou_helper(sp)
+        return line, over_under
+
     def all_nfl_info(self, game_id, sp=False):
         sp = self._sp_helper("NFL", game_id, sp)
         game = Game()
@@ -143,6 +170,7 @@ class ESPN_Game_Scraper:
         game.home_qscores, game.away_qscores = self._nfl_quarter_scores(game_id, sp)
         game.home_score, game.away_score = self.nfl_scores(game_id, sp)
         game.network = self._nfl_game_network(game_id, sp)
+        game.line, game.over_under = self._nfl_line_ou(game_id, sp)
         return game
 
     # ############## NBA ################
@@ -221,6 +249,12 @@ class ESPN_Game_Scraper:
         network = network.replace("Coverage: ", "")
         return network
 
+    def _nba_line_ou(self, game_id, sp=False):
+        sp = self._sp_helper("NBA", game_id, sp)
+
+        line, over_under = self._line_ou_helper(sp)
+        return line, over_under
+
     def all_nba_info(self, game_id, sp=False):
         sp = self._sp_helper("NBA", game_id, sp)
         game = Game()
@@ -230,6 +264,7 @@ class ESPN_Game_Scraper:
         game.final_status = self._nba_final_status(game_id, sp)
         game.home_qscores, game.away_qscores = self._nba_quarter_scores(game_id, sp)
         game.home_score, game.away_score = self.nba_scores(game_id, sp)
+        game.line, game.over_under = self._nba_line_ou(game_id, sp)
         return game
 
     # ############ NCAAF ############
@@ -306,6 +341,12 @@ class ESPN_Game_Scraper:
         network = network.replace("Coverage: ", "")
         return network
 
+    def _ncaaf_line_ou(self, game_id, sp=False):
+        sp = self._sp_helper("NCAAF", game_id, sp)
+
+        line, over_under = self._line_ou_helper(sp)
+        return line, over_under
+
     def all_ncaaf_info(self, game_id, sp=False):
         sp = self._sp_helper("NCAAF", game_id, sp)
         game = Game()
@@ -315,6 +356,7 @@ class ESPN_Game_Scraper:
         game.final_status = self._ncaaf_final_status(game_id, sp)
         game.home_qscores, game.away_qscores = self._ncaaf_quarter_scores(game_id, sp)
         game.home_score, game.away_score = self.ncaaf_scores(game_id, sp)
+        game.line, game.over_under = self._ncaaf_line_ou(game_id, sp)
         return game
 
     # ########### NCAAB ##############
@@ -374,8 +416,6 @@ class ESPN_Game_Scraper:
 
         return home_scores[:-1], away_scores[:-1]
 
-        return home_half_scores, away_half_scores
-
     def ncaab_scores(self, game_id, sp=False):
         sp = self._sp_helper("NCAAB", game_id, sp)
 
@@ -387,6 +427,21 @@ class ESPN_Game_Scraper:
 
         return home_score, away_score
 
+    def _ncaab_game_network(self, game_id, sp=False):
+        sp = self._sp_helper("NCAAB", game_id, sp)
+
+        network = sp.find_all('div', attrs={'class': 'game-network'})
+        network = network[0].get_text()
+        network = network.replace("\n", '').replace("\t", "")
+        network = network.replace("Coverage: ", "")
+        return network
+
+    def _ncaab_line_ou(self, game_id, sp=False):
+        sp = self._sp_helper("NCAAB", game_id, sp)
+
+        line, over_under = self._line_ou_helper(sp)
+        return line, over_under
+
     def all_ncaab_info(self, game_id, sp=False):
         sp = self._sp_helper("NCAAB", game_id, sp)
         game = Game()
@@ -396,6 +451,7 @@ class ESPN_Game_Scraper:
         game.final_status = self._ncaab_final_status(game_id, sp)
         game.home_half_scores, game.away_half_scores = self._ncaab_half_scores(game_id, sp)
         game.home_score, game.away_score = self.ncaab_scores(game_id, sp)
+        game.line, game.over_under = self._ncaab_line_ou(game_id, sp)
         return game
 
     # ########### NHL ###############

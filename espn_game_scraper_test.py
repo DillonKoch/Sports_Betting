@@ -74,6 +74,12 @@ class Test_ESPN_Game_Scraper(TestCase):
 
         self.assertEqual("FOX/NFL", network)
 
+    def test_nfl_line_ou(self):
+        line, over_under = self.espn._nfl_line_ou(self.nfl_game_id, sp=self.nfl_sp)
+
+        self.assertEqual("CLE -3.0", line)
+        self.assertEqual("42", over_under)
+
     def test_all_nfl_info(self):
         game = self.espn.all_nfl_info(self.nfl_game_id, sp=self.nfl_sp)
         self.assertEqual(self.nfl_game_id, game.ESPN_ID)
@@ -87,6 +93,8 @@ class Test_ESPN_Game_Scraper(TestCase):
         self.assertEqual("21", game.home_score)
         self.assertEqual("7", game.away_score)
         self.assertEqual("FOX/NFL", game.network)
+        self.assertEqual("CLE -3.0", game.line)
+        self.assertEqual("42", game.over_under)
 
     def test_nba_team_names(self):
         home_name, away_name = self.espn._nba_team_names(self.nba_game_id, sp=self.nba_sp)
@@ -128,6 +136,12 @@ class Test_ESPN_Game_Scraper(TestCase):
 
         self.assertEqual("TNT", network)
 
+    def test_nba_line_ou(self):
+        line, over_under = self.espn._nba_line_ou(self.nba_game_id, self.nba_sp)
+
+        self.assertEqual("DET -4.0", line)
+        self.assertEqual("223", over_under)
+
     def test_all_nba_info(self):
         game = self.espn.all_nba_info(self.nba_game_id, self.nba_sp)
         self.assertEqual(self.nba_game_id, game.ESPN_ID)
@@ -140,6 +154,8 @@ class Test_ESPN_Game_Scraper(TestCase):
         self.assertEqual(["26", "25", "30", "33"], game.home_qscores)
         self.assertEqual("114", game.home_score)
         self.assertEqual("120", game.away_score)
+        self.assertEqual("DET -4.0", game.line)
+        self.assertEqual("223", game.over_under)
 
     def test_ncaaf_team_names(self):
         home_name, away_name = self.espn._ncaaf_team_names(self.ncaaf_game_id, self.ncaaf_sp)
@@ -181,6 +197,12 @@ class Test_ESPN_Game_Scraper(TestCase):
 
         self.assertEqual("FOX", network)
 
+    def test_ncaaf_line_ou(self):
+        line, over_under = self.espn._ncaaf_line_ou(self.ncaaf_game_id, self.ncaaf_sp)
+
+        self.assertEqual("IOWA -3.0", line)
+        self.assertEqual("45", over_under)
+
     def test_all_ncaaf_info(self):
         game = self.espn.all_ncaaf_info(self.ncaaf_game_id, self.ncaaf_sp)
         self.assertEqual(self.ncaaf_game_id, game.ESPN_ID)
@@ -193,6 +215,8 @@ class Test_ESPN_Game_Scraper(TestCase):
         self.assertEqual(['0', '6', '7', '6'], game.away_qscores)
         self.assertEqual("23", game.home_score)
         self.assertEqual("19", game.away_score)
+        self.assertEqual("IOWA -3.0", game.line)
+        self.assertEqual("45", game.over_under)
 
     def test_ncaab_team_names(self):
         home_name, away_name = self.espn._ncaab_team_names(self.ncaab_game_id, self.ncaab_sp)
@@ -229,6 +253,17 @@ class Test_ESPN_Game_Scraper(TestCase):
         self.assertEqual("59", home_score)
         self.assertEqual("51", away_score)
 
+    def test_ncaab_game_network(self):
+        network = self.espn._ncaab_game_network(self.ncaab_game_id, self.ncaab_sp)
+
+        self.assertEqual("FS1", network)
+
+    def test_ncaab_line_ou(self):
+        line, over_under = self.espn._ncaab_line_ou(self.ncaab_game_id, self.ncaab_sp)
+
+        self.assertEqual("ILL -6.0", line)
+        self.assertEqual("135", over_under)
+
     def test_all_ncaab_info(self):
         game = self.espn.all_ncaab_info(self.ncaab_game_id, self.ncaab_sp)
         self.assertEqual(self.ncaab_game_id, game.ESPN_ID)
@@ -241,6 +276,8 @@ class Test_ESPN_Game_Scraper(TestCase):
         self.assertEqual(['24', '35'], game.home_half_scores)
         self.assertEqual("59", game.home_score)
         self.assertEqual("51", game.away_score)
+        self.assertEqual("ILL -6.0", game.line)
+        self.assertEqual("135", game.over_under)
 
     def test_hockey_team_names(self):
         home_name, away_name = self.espn._hockey_team_names(self.hockey_game_id, sp=self.hockey_sp)
