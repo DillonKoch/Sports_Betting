@@ -4,7 +4,7 @@
 # File Created: Friday, 10th April 2020 11:25:21 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Thursday, 16th April 2020 4:40:46 pm
+# Last Modified: Thursday, 16th April 2020 4:49:28 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -41,7 +41,7 @@ class Test_ESPN_Game_Scraper(TestCase):
         self.assertEqual("Pittsburgh Steelers", away_name)
 
     def test_nfl_records(self):
-        home_record, away_record = self.espn._nfl_records(self.nfl_game_id, sp=self.nfl_sp)
+        home_record, away_record = self.espn._team_records("NFL", self.nfl_game_id, sp=self.nfl_sp)
 
         self.assertEqual("4-6, 2-3 Home", home_record)
         self.assertEqual("5-5, 1-3 Away", away_record)
@@ -103,7 +103,7 @@ class Test_ESPN_Game_Scraper(TestCase):
         self.assertEqual("Minnesota Timberwolves", away_name)
 
     def test_nba_records(self):
-        home_record, away_record = self.espn._nba_records(self.nba_game_id, sp=self.nba_sp)
+        home_record, away_record = self.espn._team_records("NBA", self.nba_game_id, sp=self.nba_sp)
 
         self.assertEqual("4-7, 3-3 Home", home_record)
         self.assertEqual("6-4, 4-2 Away", away_record)
@@ -164,7 +164,7 @@ class Test_ESPN_Game_Scraper(TestCase):
         self.assertEqual("Minnesota Golden Gophers", away_name)
 
     def test_ncaaf_records(self):
-        home_record, away_record = self.espn._ncaaf_records(self.ncaaf_game_id, self.ncaaf_sp)
+        home_record, away_record = self.espn._team_records("NCAAF", self.ncaaf_game_id, self.ncaaf_sp)
 
         self.assertEqual("7-3, 4-3 Conf", home_record)
         self.assertEqual("9-1, 6-1 Conf", away_record)
@@ -225,7 +225,7 @@ class Test_ESPN_Game_Scraper(TestCase):
         self.assertEqual("Minnesota Golden Gophers", away_name)
 
     def test_ncaab_records(self):
-        home_record, away_record = self.espn._ncaab_records(self.ncaab_game_id, self.ncaab_sp)
+        home_record, away_record = self.espn._team_records("NCAAB", self.ncaab_game_id, self.ncaab_sp)
 
         self.assertEqual("16-5, 8-2 Conf", home_record)
         self.assertEqual("11-10, 5-6 Conf", away_record)
