@@ -4,7 +4,7 @@
 # File Created: Friday, 10th April 2020 11:25:21 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Thursday, 16th April 2020 5:27:51 pm
+# Last Modified: Thursday, 16th April 2020 5:38:54 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -70,7 +70,7 @@ class Test_ESPN_Game_Scraper(TestCase):
         self.assertEqual("7", away_score)
 
     def test_nfl_game_network(self):
-        network = self.espn._nfl_game_network(self.nfl_game_id, sp=self.nfl_sp)
+        network = self.espn._game_network("NFL", self.nfl_game_id, sp=self.nfl_sp)
 
         self.assertEqual("FOX/NFL", network)
 
@@ -132,7 +132,7 @@ class Test_ESPN_Game_Scraper(TestCase):
         self.assertEqual("120", away_score)
 
     def test_nba_game_network(self):
-        network = self.espn._nba_game_network("401160624")
+        network = self.espn._game_network("NBA", "401160624")
 
         self.assertEqual("TNT", network)
 
@@ -154,6 +154,7 @@ class Test_ESPN_Game_Scraper(TestCase):
         self.assertEqual(["26", "25", "30", "33"], game.home_qscores)
         self.assertEqual("114", game.home_score)
         self.assertEqual("120", game.away_score)
+        self.assertEqual("NULL", game.network)
         self.assertEqual("DET -4.0", game.line)
         self.assertEqual("223", game.over_under)
 
@@ -193,7 +194,7 @@ class Test_ESPN_Game_Scraper(TestCase):
         self.assertEqual("19", away_score)
 
     def test_ncaaf_game_netowrk(self):
-        network = self.espn._ncaaf_game_netowrk(self.ncaaf_game_id, self.ncaaf_sp)
+        network = self.espn._game_network("NCAAF", self.ncaaf_game_id, self.ncaaf_sp)
 
         self.assertEqual("FOX", network)
 
@@ -215,6 +216,7 @@ class Test_ESPN_Game_Scraper(TestCase):
         self.assertEqual(['0', '6', '7', '6'], game.away_qscores)
         self.assertEqual("23", game.home_score)
         self.assertEqual("19", game.away_score)
+        self.assertEqual("FOX", game.network)
         self.assertEqual("IOWA -3.0", game.line)
         self.assertEqual("45", game.over_under)
 
@@ -254,7 +256,7 @@ class Test_ESPN_Game_Scraper(TestCase):
         self.assertEqual("51", away_score)
 
     def test_ncaab_game_network(self):
-        network = self.espn._ncaab_game_network(self.ncaab_game_id, self.ncaab_sp)
+        network = self.espn._game_network("NCAAB", self.ncaab_game_id, self.ncaab_sp)
 
         self.assertEqual("FS1", network)
 

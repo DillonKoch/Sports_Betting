@@ -4,7 +4,7 @@
 # File Created: Tuesday, 7th April 2020 7:34:33 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Thursday, 16th April 2020 5:27:55 pm
+# Last Modified: Thursday, 16th April 2020 5:39:30 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -141,16 +141,20 @@ class ESPN_Game_Scraper:
 
         return line, over_under
 
+    def _game_network(self, league, game_id, sp=False):
+        # TODO need to make decorator so I can use that instead of try-except like this!
+        try:
+            sp = self._sp_helper(league, game_id, sp)
+            network = sp.find_all('div', attrs={'class': 'game-network'})
+            network = network[0].get_text()
+            network = network.replace("\n", '').replace("\t", "")
+            network = network.replace("Coverage: ", "")
+            return network
+        except BaseException:
+            print('error with game network')
+            return "NULL"
+
         # ########### NFL ############
-
-    def _nfl_game_network(self, game_id, sp=False):
-        sp = self._sp_helper("NFL", game_id, sp)
-
-        network = sp.find_all('div', attrs={'class': 'game-network'})
-        network = network[0].get_text()
-        network = network.replace("\n", '').replace("\t", "")
-        network = network.replace("Coverage: ", "")
-        return network
 
     def all_nfl_info(self, game_id, sp=False):
         sp = self._sp_helper("NFL", game_id, sp)
@@ -161,20 +165,11 @@ class ESPN_Game_Scraper:
         game.final_status = self._final_status("NFL", game_id, sp)
         game.home_qscores, game.away_qscores = self._quarter_scores("NFL", game_id, sp)
         game.home_score, game.away_score = self._game_scores("NFL", game_id, sp)
-        game.network = self._nfl_game_network(game_id, sp)
+        game.network = self._game_network("NFL", game_id, sp)
         game.line, game.over_under = self._line_ou("NFL", game_id, sp)
         return game
 
     # ############## NBA ################
-
-    def _nba_game_network(self, game_id, sp=False):
-        sp = self._sp_helper("NBA", game_id, sp)
-
-        network = sp.find_all('div', attrs={'class': 'game-network'})
-        network = network[0].get_text()
-        network = network.replace("\n", '').replace("\t", "")
-        network = network.replace("Coverage: ", "")
-        return network
 
     def all_nba_info(self, game_id, sp=False):
         sp = self._sp_helper("NBA", game_id, sp)
@@ -185,19 +180,11 @@ class ESPN_Game_Scraper:
         game.final_status = self._final_status("NBA", game_id, sp)
         game.home_qscores, game.away_qscores = self._quarter_scores("NBA", game_id, sp)
         game.home_score, game.away_score = self._game_scores("NBA", game_id, sp)
+        game.network = self._game_network("NBA", game_id, sp)
         game.line, game.over_under = self._line_ou("NBA", game_id, sp)
         return game
 
     # ############ NCAAF ############
-
-    def _ncaaf_game_netowrk(self, game_id, sp=False):
-        sp = self._sp_helper("NCAAF", game_id, sp)
-
-        network = sp.find_all('div', attrs={'class': 'game-network'})
-        network = network[0].get_text()
-        network = network.replace("\n", '').replace("\t", "")
-        network = network.replace("Coverage: ", "")
-        return network
 
     def all_ncaaf_info(self, game_id, sp=False):
         sp = self._sp_helper("NCAAF", game_id, sp)
@@ -208,19 +195,11 @@ class ESPN_Game_Scraper:
         game.final_status = self._final_status("NCAAF", game_id, sp)
         game.home_qscores, game.away_qscores = self._quarter_scores("NCAAF", game_id, sp)
         game.home_score, game.away_score = self._game_scores("NCAAF", game_id, sp)
+        game.network = self._game_network("NCAAF", game_id, sp)
         game.line, game.over_under = self._line_ou("NCAAF", game_id, sp)
         return game
 
     # ########### NCAAB ##############
-
-    def _ncaab_game_network(self, game_id, sp=False):
-        sp = self._sp_helper("NCAAB", game_id, sp)
-
-        network = sp.find_all('div', attrs={'class': 'game-network'})
-        network = network[0].get_text()
-        network = network.replace("\n", '').replace("\t", "")
-        network = network.replace("Coverage: ", "")
-        return network
 
     def all_ncaab_info(self, game_id, sp=False):
         sp = self._sp_helper("NCAAB", game_id, sp)
@@ -231,6 +210,7 @@ class ESPN_Game_Scraper:
         game.final_status = self._final_status("NCAAB", game_id, sp)
         game.home_half_scores, game.away_half_scores = self._quarter_scores("NCAAB", game_id, sp)
         game.home_score, game.away_score = self._game_scores("NCAAB", game_id, sp)
+        game.network = self._game_network("NCAAB", game_id, sp)
         game.line, game.over_under = self._line_ou("NCAAB", game_id, sp)
         return game
 
