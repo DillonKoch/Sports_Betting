@@ -4,7 +4,7 @@
 # File Created: Tuesday, 7th April 2020 7:34:33 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Tuesday, 7th April 2020 7:41:07 am
+# Last Modified: Thursday, 16th April 2020 4:40:50 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -62,25 +62,10 @@ class ESPN_Game_Scraper:
                 return True
         return False
 
-    def _line_ou_helper(self, sp):
-        li_htmls = [item.get_text() for item in sp.find_all('li')]
+    # ########### GAME INFO FUNCTIONS ####################
 
-        line_comp = re.compile(r"^Line: (.+)$")
-        ou_comp = re.compile(r"\s+Over/Under: (\d+)\s+$")
-        line = None
-        over_under = None
-
-        for html in li_htmls:
-            line_match = re.match(line_comp, html)
-            ou_match = re.match(ou_comp, html)
-            if line_match:
-                line = line_match.group(1)
-            elif ou_match:
-                over_under = ou_match.group(1)
-
-        return line, over_under
-
-    def _locations_helper(self, sp):
+    def _team_names(self, league, game_id, sp):
+        sp = self._sp_helper(league, game_id, sp)
         locations = sp.find_all('span', attrs={'class': 'long-name'})
         away_loc = locations[0].get_text()
         home_loc = locations[1].get_text()
@@ -133,12 +118,25 @@ class ESPN_Game_Scraper:
 
         return home_score, away_score
 
-        # ########### NFL ############
+    def _line_ou_helper(self, sp):
+        li_htmls = [item.get_text() for item in sp.find_all('li')]
 
-    def _nfl_team_names(self, game_id, sp=False):
-        sp = self._sp_helper("NFL", game_id, sp)
-        home_full, away_full = self._locations_helper(sp)
-        return home_full, away_full
+        line_comp = re.compile(r"^Line: (.+)$")
+        ou_comp = re.compile(r"\s+Over/Under: (\d+)\s+$")
+        line = None
+        over_under = None
+
+        for html in li_htmls:
+            line_match = re.match(line_comp, html)
+            ou_match = re.match(ou_comp, html)
+            if line_match:
+                line = line_match.group(1)
+            elif ou_match:
+                over_under = ou_match.group(1)
+
+        return line, over_under
+
+        # ########### NFL ############
 
     def _nfl_records(self, game_id, sp=False):
         sp = self._sp_helper("NFL", game_id, sp)
@@ -179,7 +177,7 @@ class ESPN_Game_Scraper:
         sp = self._sp_helper("NFL", game_id, sp)
         game = Game()
         game.ESPN_ID = game_id
-        game.home_name, game.away_name = self._nfl_team_names(game_id, sp)
+        game.home_name, game.away_name = self._team_names("NFL", game_id, sp)
         game.home_record, game.away_record = self._nfl_records(game_id, sp)
         game.final_status = self._nfl_final_status(game_id, sp)
         game.home_qscores, game.away_qscores = self._nfl_quarter_scores(game_id, sp)
@@ -189,11 +187,6 @@ class ESPN_Game_Scraper:
         return game
 
     # ############## NBA ################
-
-    def _nba_team_names(self, game_id, sp=False):
-        sp = self._sp_helper("NBA", game_id, sp)
-        home_full, away_full = self._locations_helper(sp)
-        return home_full, away_full
 
     def _nba_records(self, game_id, sp=False):
         sp = self._sp_helper("NBA", game_id, sp)
@@ -234,7 +227,7 @@ class ESPN_Game_Scraper:
         sp = self._sp_helper("NBA", game_id, sp)
         game = Game()
         game.ESPN_ID = game_id
-        game.home_name, game.away_name = self._nba_team_names(game_id, sp)
+        game.home_name, game.away_name = self._team_names("NBA", game_id, sp)
         game.home_record, game.away_record = self._nba_records(game_id, sp)
         game.final_status = self._nba_final_status(game_id, sp)
         game.home_qscores, game.away_qscores = self._nba_quarter_scores(game_id, sp)
@@ -243,11 +236,6 @@ class ESPN_Game_Scraper:
         return game
 
     # ############ NCAAF ############
-
-    def _ncaaf_team_names(self, game_id, sp=False):
-        sp = self._sp_helper("NCAAF", game_id, sp)
-        home_full, away_full = self._locations_helper(sp)
-        return home_full, away_full
 
     def _ncaaf_records(self, game_id, sp=False):
         sp = self._sp_helper("NCAAF", game_id, sp)
@@ -288,7 +276,7 @@ class ESPN_Game_Scraper:
         sp = self._sp_helper("NCAAF", game_id, sp)
         game = Game()
         game.ESPN_ID = game_id
-        game.home_name, game.away_name = self._ncaaf_team_names(game_id, sp)
+        game.home_name, game.away_name = self._team_names("NCAAF", game_id, sp)
         game.home_record, game.away_record = self._ncaaf_records(game_id, sp)
         game.final_status = self._ncaaf_final_status(game_id, sp)
         game.home_qscores, game.away_qscores = self._ncaaf_quarter_scores(game_id, sp)
@@ -297,11 +285,6 @@ class ESPN_Game_Scraper:
         return game
 
     # ########### NCAAB ##############
-
-    def _ncaab_team_names(self, game_id, sp=False):
-        sp = self._sp_helper("NCAAB", game_id, sp)
-        home_full, away_full = self._locations_helper(sp)
-        return home_full, away_full
 
     def _ncaab_records(self, game_id, sp=False):
         sp = self._sp_helper("NCAAB", game_id, sp)
@@ -342,7 +325,7 @@ class ESPN_Game_Scraper:
         sp = self._sp_helper("NCAAB", game_id, sp)
         game = Game()
         game.ESPN_ID = game_id
-        game.home_name, game.away_name = self._ncaab_team_names(game_id, sp)
+        game.home_name, game.away_name = self._team_names("NCAAB", game_id, sp)
         game.home_record, game.away_record = self._ncaab_records(game_id, sp)
         game.final_status = self._ncaab_final_status(game_id, sp)
         game.home_half_scores, game.away_half_scores = self._ncaab_half_scores(game_id, sp)
@@ -385,8 +368,8 @@ class ESPN_Game_Scraper:
         home_score, away_score = self.hockey_score(game_id, sp)
 
 
-# if __name__ == "__main__":
-#     e = ESPN_Scraper()
+if __name__ == "__main__":
+    e = ESPN_Game_Scraper()
 #     nflh, nfla = e._nfl_team_names("401128044")
 #     nflhr, nflar = e._nfl_records("401128044")
 #     status = e._nfl_final_status("401128044")

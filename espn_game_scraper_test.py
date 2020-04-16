@@ -4,7 +4,7 @@
 # File Created: Friday, 10th April 2020 11:25:21 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Thursday, 16th April 2020 8:04:32 am
+# Last Modified: Thursday, 16th April 2020 4:40:46 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -35,7 +35,7 @@ class Test_ESPN_Game_Scraper(TestCase):
         self.espn = ESPN_Game_Scraper()
 
     def test_nfl_team_names(self):
-        home_name, away_name = self.espn._nfl_team_names(self.nfl_game_id, sp=self.nfl_sp)
+        home_name, away_name = self.espn._team_names("NFL", self.nfl_game_id, sp=self.nfl_sp)
 
         self.assertEqual("Cleveland Browns", home_name)
         self.assertEqual("Pittsburgh Steelers", away_name)
@@ -97,7 +97,7 @@ class Test_ESPN_Game_Scraper(TestCase):
         self.assertEqual("42", game.over_under)
 
     def test_nba_team_names(self):
-        home_name, away_name = self.espn._nba_team_names(self.nba_game_id, sp=self.nba_sp)
+        home_name, away_name = self.espn._team_names("NBA", self.nba_game_id, sp=self.nba_sp)
 
         self.assertEqual("Detroit Pistons", home_name)
         self.assertEqual("Minnesota Timberwolves", away_name)
@@ -158,7 +158,7 @@ class Test_ESPN_Game_Scraper(TestCase):
         self.assertEqual("223", game.over_under)
 
     def test_ncaaf_team_names(self):
-        home_name, away_name = self.espn._ncaaf_team_names(self.ncaaf_game_id, self.ncaaf_sp)
+        home_name, away_name = self.espn._team_names("NCAAF", self.ncaaf_game_id, self.ncaaf_sp)
 
         self.assertEqual("Iowa Hawkeyes", home_name)
         self.assertEqual("Minnesota Golden Gophers", away_name)
@@ -219,7 +219,7 @@ class Test_ESPN_Game_Scraper(TestCase):
         self.assertEqual("45", game.over_under)
 
     def test_ncaab_team_names(self):
-        home_name, away_name = self.espn._ncaab_team_names(self.ncaab_game_id, self.ncaab_sp)
+        home_name, away_name = self.espn._team_names("NCAAB", self.ncaab_game_id, self.ncaab_sp)
 
         self.assertEqual("Illinois Fighting Illini", home_name)
         self.assertEqual("Minnesota Golden Gophers", away_name)
