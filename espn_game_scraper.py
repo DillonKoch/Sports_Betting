@@ -80,41 +80,31 @@ class ESPN_Game_Scraper:
 
         return line, over_under
 
-        # ########### NFL ############
-
-    def _nfl_team_names(self, game_id, sp=False):
-        sp = self._sp_helper("NFL", game_id, sp)
-
+    def _locations_helper(self, sp):
         locations = sp.find_all('span', attrs={'class': 'long-name'})
-        away_loc, home_loc = [item.get_text() for item in locations]
+        away_loc = locations[0].get_text()
+        home_loc = locations[1].get_text()
 
         team_names = sp.find_all('span', attrs={'class': 'short-name'})
-        away_name, home_name = [item.get_text() for item in team_names]
+        away_name = team_names[0].get_text()
+        home_name = team_names[1].get_text()
 
         away_full = away_loc + ' ' + away_name
         home_full = home_loc + ' ' + home_name
 
         return home_full, away_full
 
-    def _nfl_records(self, game_id, sp=False):
-        sp = self._sp_helper("NFL", game_id, sp)
-
+    def _records_helper(self, sp):
         records = sp.find_all('div', attrs={'class': 'record'})
         away_record, home_record = [item.get_text() for item in records]
-
         return home_record, away_record
 
-    def _nfl_final_status(self, game_id, sp=False):
-        sp = self._sp_helper("NFL", game_id, sp)
-
+    def _final_status_helper(self, sp):
         status = sp.find_all('span', attrs={'class': 'game-time status-detail'})
-
         status = status[0].get_text()
         return status
 
-    def _nfl_quarter_scores(self, game_id, sp=False):
-        sp = self._sp_helper("NFL", game_id, sp)
-
+    def _quarter_scores_helper(self, sp):
         td_htmls = [item.get_text() for item in sp.find_all('td')]
 
         away_scores = []
@@ -134,15 +124,40 @@ class ESPN_Game_Scraper:
 
         return home_scores[:-1], away_scores[:-1]
 
-    def nfl_scores(self, game_id, sp=False):
-        sp = self._sp_helper("NFL", game_id, sp)
-
+    def _scores_helper(self, sp):
         away_score = sp.find_all('div', attrs={'class': 'score icon-font-after'})
         away_score = away_score[0].get_text()
 
         home_score = sp.find_all('div', attrs={'class': 'score icon-font-before'})
         home_score = home_score[0].get_text()
 
+        return home_score, away_score
+
+        # ########### NFL ############
+
+    def _nfl_team_names(self, game_id, sp=False):
+        sp = self._sp_helper("NFL", game_id, sp)
+        home_full, away_full = self._locations_helper(sp)
+        return home_full, away_full
+
+    def _nfl_records(self, game_id, sp=False):
+        sp = self._sp_helper("NFL", game_id, sp)
+        home_record, away_record = self._records_helper(sp)
+        return home_record, away_record
+
+    def _nfl_final_status(self, game_id, sp=False):
+        sp = self._sp_helper("NFL", game_id, sp)
+        status = self._final_status_helper(sp)
+        return status
+
+    def _nfl_quarter_scores(self, game_id, sp=False):
+        sp = self._sp_helper("NFL", game_id, sp)
+        home_scores, away_scores = self._quarter_scores_helper(sp)
+        return home_scores, away_scores
+
+    def nfl_scores(self, game_id, sp=False):
+        sp = self._sp_helper("NFL", game_id, sp)
+        home_score, away_score = self._scores_helper(sp)
         return home_score, away_score
 
     def _nfl_game_network(self, game_id, sp=False):
@@ -177,67 +192,27 @@ class ESPN_Game_Scraper:
 
     def _nba_team_names(self, game_id, sp=False):
         sp = self._sp_helper("NBA", game_id, sp)
-
-        locations = sp.find_all('span', attrs={'class': 'long-name'})
-        away_loc = locations[0].get_text()
-        home_loc = locations[1].get_text()
-
-        team_names = sp.find_all('span', attrs={'class': 'short-name'})
-        away_name = team_names[0].get_text()
-        home_name = team_names[1].get_text()
-
-        home_full = home_loc + ' ' + home_name
-        away_full = away_loc + ' ' + away_name
-
+        home_full, away_full = self._locations_helper(sp)
         return home_full, away_full
 
     def _nba_records(self, game_id, sp=False):
         sp = self._sp_helper("NBA", game_id, sp)
-
-        records = sp.find_all('div', attrs={'class': 'record'})
-        away_record, home_record = [item.get_text() for item in records]
-
+        home_record, away_record = self._records_helper(sp)
         return home_record, away_record
 
     def _nba_final_status(self, game_id, sp=False):
         sp = self._sp_helper("NBA", game_id, sp)
-
-        status = sp.find_all("span", attrs={'class': 'game-time status-detail'})
-        status = status[0].get_text()
-
+        status = self._final_status_helper(sp)
         return status
 
     def _nba_quarter_scores(self, game_id, sp=False):
         sp = self._sp_helper("NBA", game_id, sp)
-
-        td_htmls = [item.get_text() for item in sp.find_all('td')]
-
-        away_scores = []
-        home_scores = []
-        updating_home = False
-        for td in td_htmls[1:]:
-            if self._letter_in_string(td):
-                if updating_home:
-                    break
-                else:
-                    updating_home = True
-                    continue
-            if updating_home:
-                home_scores.append(td)
-            else:
-                away_scores.append(td)
-
-        return home_scores[:-1], away_scores[:-1]
+        home_scores, away_scores = self._quarter_scores_helper(sp)
+        return home_scores, away_scores
 
     def nba_scores(self, game_id, sp=False):
         sp = self._sp_helper("NBA", game_id, sp)
-
-        away_score = sp.find_all('div', attrs={'class': 'score icon-font-after'})
-        away_score = away_score[0].get_text()
-
-        home_score = sp.find_all('div', attrs={'class': 'score icon-font-before'})
-        home_score = home_score[0].get_text()
-
+        home_score, away_score = self._scores_helper(sp)
         return home_score, away_score
 
     def _nba_game_network(self, game_id, sp=False):
@@ -271,65 +246,27 @@ class ESPN_Game_Scraper:
 
     def _ncaaf_team_names(self, game_id, sp=False):
         sp = self._sp_helper("NCAAF", game_id, sp)
-
-        locations = sp.find_all('span', attrs={'class': 'long-name'})
-        away_loc, home_loc = [item.get_text() for item in locations]
-
-        team_names = sp.find_all('span', attrs={'class': 'short-name'})
-        away_name, home_name = [item.get_text() for item in team_names]
-
-        home_full = home_loc + ' ' + home_name
-        away_full = away_loc + ' ' + away_name
-
+        home_full, away_full = self._locations_helper(sp)
         return home_full, away_full
 
     def _ncaaf_records(self, game_id, sp=False):
         sp = self._sp_helper("NCAAF", game_id, sp)
-
-        records = sp.find_all('div', attrs={'class': 'record'})
-        away_record, home_record = [item.get_text() for item in records]
-
+        home_record, away_record = self._records_helper(sp)
         return home_record, away_record
 
     def _ncaaf_final_status(self, game_id, sp=False):
         sp = self._sp_helper("NCAAF", game_id, sp)
-
-        status = sp.find_all('span', attrs={'class': 'game-time status-detail'})
-        status = status[0].get_text()
-
+        status = self._final_status_helper(sp)
         return status
 
     def _ncaaf_quarter_scores(self, game_id, sp=False):
         sp = self._sp_helper("NCAAF", game_id, sp)
-
-        td_htmls = [item.get_text() for item in sp.find_all('td')]
-
-        away_scores = []
-        home_scores = []
-        updating_home = False
-        for td in td_htmls[1:]:
-            if self._letter_in_string(td):
-                if updating_home:
-                    break
-                else:
-                    updating_home = True
-                    continue
-            if updating_home:
-                home_scores.append(td)
-            else:
-                away_scores.append(td)
-
-        return home_scores[:-1], away_scores[:-1]
+        home_scores, away_scores = self._quarter_scores_helper(sp)
+        return home_scores, away_scores
 
     def ncaaf_scores(self, game_id, sp=False):
         sp = self._sp_helper("NCAAF", game_id, sp)
-
-        away_score = sp.find_all('div', attrs={'class': 'score icon-font-after'})
-        away_score = away_score[0].get_text()
-
-        home_score = sp.find_all('div', attrs={'class': 'score icon-font-before'})
-        home_score = home_score[0].get_text()
-
+        home_score, away_score = self._scores_helper(sp)
         return home_score, away_score
 
     def _ncaaf_game_netowrk(self, game_id, sp=False):
@@ -363,68 +300,27 @@ class ESPN_Game_Scraper:
 
     def _ncaab_team_names(self, game_id, sp=False):
         sp = self._sp_helper("NCAAB", game_id, sp)
-
-        locations = sp.find_all('span', attrs={'class': 'long-name'})
-        locations_text = [item.get_text() for item in locations]
-        away_loc = locations_text[0]
-        home_loc = locations_text[1]
-
-        team_names = sp.find_all('span', attrs={'class': 'short-name'})
-        team_names_text = [item.get_text() for item in team_names]
-        away_name = team_names_text[0]
-        home_name = team_names_text[1]
-
-        home_full = home_loc + ' ' + home_name
-        away_full = away_loc + ' ' + away_name
+        home_full, away_full = self._locations_helper(sp)
         return home_full, away_full
 
     def _ncaab_records(self, game_id, sp=False):
         sp = self._sp_helper("NCAAB", game_id, sp)
-
-        records = sp.find_all('div', attrs={'class': 'record'})
-        away_record, home_record = [item.get_text() for item in records]
-
+        home_record, away_record = self._records_helper(sp)
         return home_record, away_record
 
     def _ncaab_final_status(self, game_id, sp=False):
         sp = self._sp_helper("NCAAB", game_id, sp)
-
-        status = sp.find_all('span', attrs={'class': 'game-time status-detail'})
-        status = status[0].get_text()
-
+        status = self._final_status_helper(sp)
         return status
 
     def _ncaab_half_scores(self, game_id, sp=False):
         sp = self._sp_helper("NCAAB", game_id, sp)
-
-        td_htmls = [item.get_text() for item in sp.find_all('td')]
-
-        away_scores = []
-        home_scores = []
-        updating_home = False
-        for td in td_htmls[1:]:
-            if self._letter_in_string(td):
-                if updating_home:
-                    break
-                else:
-                    updating_home = True
-                    continue
-            if updating_home:
-                home_scores.append(td)
-            else:
-                away_scores.append(td)
-
-        return home_scores[:-1], away_scores[:-1]
+        home_scores, away_scores = self._quarter_scores_helper(sp)
+        return home_scores, away_scores
 
     def ncaab_scores(self, game_id, sp=False):
         sp = self._sp_helper("NCAAB", game_id, sp)
-
-        away_score = sp.find_all('div', attrs={'class': 'score icon-font-after'})
-        away_score = away_score[0].get_text()
-
-        home_score = sp.find_all('div', attrs={'class': 'score icon-font-before'})
-        home_score = home_score[0].get_text()
-
+        home_score, away_score = self._scores_helper(sp)
         return home_score, away_score
 
     def _ncaab_game_network(self, game_id, sp=False):
