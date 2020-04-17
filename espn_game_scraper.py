@@ -4,7 +4,7 @@
 # File Created: Tuesday, 7th April 2020 7:34:33 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Thursday, 16th April 2020 5:39:30 pm
+# Last Modified: Thursday, 16th April 2020 7:40:59 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -154,7 +154,7 @@ class ESPN_Game_Scraper:
             print('error with game network')
             return "NULL"
 
-        # ########### NFL ############
+    # ############## LEAGUE SPECIFIC FUNCTIONS ################
 
     def all_nfl_info(self, game_id, sp=False):
         sp = self._sp_helper("NFL", game_id, sp)
@@ -169,8 +169,6 @@ class ESPN_Game_Scraper:
         game.line, game.over_under = self._line_ou("NFL", game_id, sp)
         return game
 
-    # ############## NBA ################
-
     def all_nba_info(self, game_id, sp=False):
         sp = self._sp_helper("NBA", game_id, sp)
         game = Game()
@@ -184,8 +182,6 @@ class ESPN_Game_Scraper:
         game.line, game.over_under = self._line_ou("NBA", game_id, sp)
         return game
 
-    # ############ NCAAF ############
-
     def all_ncaaf_info(self, game_id, sp=False):
         sp = self._sp_helper("NCAAF", game_id, sp)
         game = Game()
@@ -198,8 +194,6 @@ class ESPN_Game_Scraper:
         game.network = self._game_network("NCAAF", game_id, sp)
         game.line, game.over_under = self._line_ou("NCAAF", game_id, sp)
         return game
-
-    # ########### NCAAB ##############
 
     def all_ncaab_info(self, game_id, sp=False):
         sp = self._sp_helper("NCAAB", game_id, sp)
