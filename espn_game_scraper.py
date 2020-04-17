@@ -4,7 +4,7 @@
 # File Created: Tuesday, 7th April 2020 7:34:33 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Thursday, 16th April 2020 7:40:59 pm
+# Last Modified: Thursday, 16th April 2020 7:57:44 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -16,7 +16,7 @@
 import string
 import re
 
-from Utility import get_sp1
+from Utility import get_sp1, null_if_error
 
 
 class Game:
@@ -64,6 +64,7 @@ class ESPN_Game_Scraper:
 
     # ########### GAME INFO FUNCTIONS ####################
 
+    @null_if_error
     def _team_names(self, league, game_id, sp=False):
         sp = self._sp_helper(league, game_id, sp)
         locations = sp.find_all('span', attrs={'class': 'long-name'})
@@ -79,18 +80,21 @@ class ESPN_Game_Scraper:
 
         return home_full, away_full
 
+    @null_if_error
     def _team_records(self, league, game_id, sp=False):
         sp = self._sp_helper(league, game_id, sp)
         records = sp.find_all('div', attrs={'class': 'record'})
         away_record, home_record = [item.get_text() for item in records]
         return home_record, away_record
 
+    @null_if_error
     def _final_status(self, league, game_id, sp=False):
         sp = self._sp_helper(league, game_id, sp)
         status = sp.find_all('span', attrs={'class': 'game-time status-detail'})
         status = status[0].get_text()
         return status
 
+    @null_if_error
     def _quarter_scores(self, league, game_id, sp=False):
         sp = self._sp_helper(league, game_id, sp)
         td_htmls = [item.get_text() for item in sp.find_all('td')]
@@ -112,6 +116,7 @@ class ESPN_Game_Scraper:
 
         return home_scores[:-1], away_scores[:-1]
 
+    @null_if_error
     def _game_scores(self, league, game_id, sp=False):
         sp = self._sp_helper(league, game_id, sp)
         away_score = sp.find_all('div', attrs={'class': 'score icon-font-after'})
@@ -122,6 +127,7 @@ class ESPN_Game_Scraper:
 
         return home_score, away_score
 
+    @null_if_error
     def _line_ou(self, league, game_id, sp=False):
         sp = self._sp_helper(league, game_id, sp)
         li_htmls = [item.get_text() for item in sp.find_all('li')]
@@ -141,18 +147,14 @@ class ESPN_Game_Scraper:
 
         return line, over_under
 
+    @null_if_error
     def _game_network(self, league, game_id, sp=False):
-        # TODO need to make decorator so I can use that instead of try-except like this!
-        try:
-            sp = self._sp_helper(league, game_id, sp)
-            network = sp.find_all('div', attrs={'class': 'game-network'})
-            network = network[0].get_text()
-            network = network.replace("\n", '').replace("\t", "")
-            network = network.replace("Coverage: ", "")
-            return network
-        except BaseException:
-            print('error with game network')
-            return "NULL"
+        sp = self._sp_helper(league, game_id, sp)
+        network = sp.find_all('div', attrs={'class': 'game-network'})
+        network = network[0].get_text()
+        network = network.replace("\n", '').replace("\t", "")
+        network = network.replace("Coverage: ", "")
+        return network
 
     # ############## LEAGUE SPECIFIC FUNCTIONS ################
 

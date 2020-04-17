@@ -4,7 +4,7 @@
 # File Created: Friday, 10th April 2020 10:47:51 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Friday, 10th April 2020 10:47:54 am
+# Last Modified: Thursday, 16th April 2020 7:53:46 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -29,4 +29,11 @@ def get_sp1(link):
     sp = soup(a, 'html.parser')
     return sp
 
-# sp = get_sp1("https://www.espn.com/nfl/game/_/gameId/401128044")
+
+def null_if_error(orig_func):
+    def wrapper_func(*args, **kwargs):
+        try:
+            return orig_func(*args, **kwargs)
+        except BaseException:
+            return "NULL"
+    return wrapper_func
