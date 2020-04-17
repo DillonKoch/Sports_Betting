@@ -4,7 +4,7 @@
 # File Created: Tuesday, 7th April 2020 7:34:33 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Thursday, 16th April 2020 7:57:44 pm
+# Last Modified: Friday, 17th April 2020 8:04:49 am
 # Modified By: Dillon Koch
 # -----
 #
@@ -64,7 +64,7 @@ class ESPN_Game_Scraper:
 
     # ########### GAME INFO FUNCTIONS ####################
 
-    @null_if_error
+    @null_if_error(2)
     def _team_names(self, league, game_id, sp=False):
         sp = self._sp_helper(league, game_id, sp)
         locations = sp.find_all('span', attrs={'class': 'long-name'})
@@ -80,21 +80,21 @@ class ESPN_Game_Scraper:
 
         return home_full, away_full
 
-    @null_if_error
+    @null_if_error(2)
     def _team_records(self, league, game_id, sp=False):
         sp = self._sp_helper(league, game_id, sp)
         records = sp.find_all('div', attrs={'class': 'record'})
         away_record, home_record = [item.get_text() for item in records]
         return home_record, away_record
 
-    @null_if_error
+    @null_if_error(1)
     def _final_status(self, league, game_id, sp=False):
         sp = self._sp_helper(league, game_id, sp)
         status = sp.find_all('span', attrs={'class': 'game-time status-detail'})
         status = status[0].get_text()
         return status
 
-    @null_if_error
+    @null_if_error(2)
     def _quarter_scores(self, league, game_id, sp=False):
         sp = self._sp_helper(league, game_id, sp)
         td_htmls = [item.get_text() for item in sp.find_all('td')]
@@ -114,9 +114,12 @@ class ESPN_Game_Scraper:
             else:
                 away_scores.append(td)
 
+        assert len(home_scores) > 2  # need this so we don't return empty lists
+        assert len(away_scores) > 2
+
         return home_scores[:-1], away_scores[:-1]
 
-    @null_if_error
+    @null_if_error(2)
     def _game_scores(self, league, game_id, sp=False):
         sp = self._sp_helper(league, game_id, sp)
         away_score = sp.find_all('div', attrs={'class': 'score icon-font-after'})
@@ -127,15 +130,15 @@ class ESPN_Game_Scraper:
 
         return home_score, away_score
 
-    @null_if_error
+    @null_if_error(2)
     def _line_ou(self, league, game_id, sp=False):
         sp = self._sp_helper(league, game_id, sp)
         li_htmls = [item.get_text() for item in sp.find_all('li')]
 
         line_comp = re.compile(r"^Line: (.+)$")
         ou_comp = re.compile(r"\s+Over/Under: (\d+)\s+$")
-        line = None
-        over_under = None
+        line = "NULL"
+        over_under = "NULL"
 
         for html in li_htmls:
             line_match = re.match(line_comp, html)
@@ -147,7 +150,7 @@ class ESPN_Game_Scraper:
 
         return line, over_under
 
-    @null_if_error
+    @null_if_error(1)
     def _game_network(self, league, game_id, sp=False):
         sp = self._sp_helper(league, game_id, sp)
         network = sp.find_all('div', attrs={'class': 'game-network'})

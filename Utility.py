@@ -4,7 +4,7 @@
 # File Created: Friday, 10th April 2020 10:47:51 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Thursday, 16th April 2020 7:53:46 pm
+# Last Modified: Friday, 17th April 2020 7:31:27 am
 # Modified By: Dillon Koch
 # -----
 #
@@ -30,10 +30,15 @@ def get_sp1(link):
     return sp
 
 
-def null_if_error(orig_func):
-    def wrapper_func(*args, **kwargs):
-        try:
-            return orig_func(*args, **kwargs)
-        except BaseException:
-            return "NULL"
-    return wrapper_func
+def null_if_error(return_num):
+    def null_if_error(orig_func):
+        def wrapper_func(*args, **kwargs):
+            try:
+                return orig_func(*args, **kwargs)
+            except BaseException:
+                if return_num == 1:
+                    return "NULL"
+                elif return_num == 2:
+                    return "NULL", "NULL"
+        return wrapper_func
+    return null_if_error
