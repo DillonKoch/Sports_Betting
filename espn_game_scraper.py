@@ -4,7 +4,7 @@
 # File Created: Tuesday, 7th April 2020 7:34:33 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Friday, 17th April 2020 8:04:49 am
+# Last Modified: Saturday, 18th April 2020 4:03:49 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -36,6 +36,7 @@ class Game:
         self.network = None
         self.line = None
         self.over_under = None
+        self.league = None
 
 
 class ESPN_Game_Scraper:
@@ -172,6 +173,7 @@ class ESPN_Game_Scraper:
         game.home_score, game.away_score = self._game_scores("NFL", game_id, sp)
         game.network = self._game_network("NFL", game_id, sp)
         game.line, game.over_under = self._line_ou("NFL", game_id, sp)
+        game.league = "NFL"
         return game
 
     def all_nba_info(self, game_id, sp=False):
@@ -185,6 +187,7 @@ class ESPN_Game_Scraper:
         game.home_score, game.away_score = self._game_scores("NBA", game_id, sp)
         game.network = self._game_network("NBA", game_id, sp)
         game.line, game.over_under = self._line_ou("NBA", game_id, sp)
+        game.league = "NBA"
         return game
 
     def all_ncaaf_info(self, game_id, sp=False):
@@ -198,6 +201,7 @@ class ESPN_Game_Scraper:
         game.home_score, game.away_score = self._game_scores("NCAAF", game_id, sp)
         game.network = self._game_network("NCAAF", game_id, sp)
         game.line, game.over_under = self._line_ou("NCAAF", game_id, sp)
+        game.league = "NCAAF"
         return game
 
     def all_ncaab_info(self, game_id, sp=False):
@@ -211,6 +215,7 @@ class ESPN_Game_Scraper:
         game.home_score, game.away_score = self._game_scores("NCAAB", game_id, sp)
         game.network = self._game_network("NCAAB", game_id, sp)
         game.line, game.over_under = self._line_ou("NCAAB", game_id, sp)
+        game.league = "NCAAB"
         return game
 
     # ########### NHL ###############
