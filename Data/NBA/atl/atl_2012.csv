@@ -1,0 +1,67 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,311228001,2012,"Wed, Dec 28",Atlanta Hawks,Washington Wizards,"2-0, 1-0 Home","0-2, 0-1 Away",101,83,NULL,NULL,Final,NULL,26,29,30,16,NULL,17,25,22,19,NULL,NBA
+1,311231010,2012,"Sat, Dec 31",Houston Rockets,Atlanta Hawks,"2-2, 2-0 Home","3-1, 1-1 Away",95,84,NULL,NULL,Final,NULL,31,20,21,23,NULL,22,22,16,24,NULL,NBA
+2,320103004,2012,"Tue, Jan 3",Chicago Bulls,Atlanta Hawks,"5-1, 2-0 Home","4-2, 2-2 Away",76,74,NULL,NULL,Final,NBATV,15,11,16,34,NULL,23,15,18,18,NULL,NBA
+3,320106030,2012,"Fri, Jan 6",Charlotte Bobcats,Atlanta Hawks,"2-5, 1-3 Home","5-3, 3-2 Away",96,102,NULL,NULL,Final/OT,NULL,18,20,23,30,5,20,23,27,21,11,NBA
+4,320109017,2012,"Mon, Jan 9",New Jersey Nets,Atlanta Hawks,"2-8, 0-4 Home","7-3, 4-2 Away",101,106,NULL,NULL,Final,NULL,18,27,26,30,NULL,31,25,24,26,NULL,NBA
+5,320112001,2012,"Thu, Jan 12",Atlanta Hawks,Charlotte Bobcats,"8-4, 4-1 Home","2-9, 1-5 Away",111,81,NULL,NULL,Final,NULL,25,32,28,26,NULL,21,26,19,15,NULL,NBA
+6,320116001,2012,"Mon, Jan 16",Atlanta Hawks,Toronto Raptors,"10-4, 6-1 Home","4-10, 2-6 Away",93,84,NULL,NULL,Final,NBATV,26,24,23,20,NULL,18,27,26,13,NULL,NBA
+7,320120020,2012,"Fri, Jan 20",Philadelphia 76ers,Atlanta Hawks,"11-4, 7-1 Home","11-5, 4-4 Away",90,76,NULL,NULL,Final,CSN,18,21,25,26,NULL,24,23,10,19,NULL,NBA
+8,320123015,2012,"Mon, Jan 23",Milwaukee Bucks,Atlanta Hawks,"6-10, 4-2 Home","13-5, 5-4 Away",92,97,NULL,NULL,Final,NULL,23,25,16,28,NULL,28,20,22,27,NULL,NBA
+9,320127008,2012,"Fri, Jan 27",Detroit Pistons,Atlanta Hawks,"4-16, 3-8 Home","14-6, 6-5 Away",101,107,NULL,NULL,Final/OT,NULL,17,29,22,19,14,15,20,28,24,20,NBA
+10,320131028,2012,"Tue, Jan 31",Toronto Raptors,Atlanta Hawks,"7-15, 2-6 Home","16-6, 8-5 Away",77,100,NULL,NULL,Final,NULL,18,19,23,17,NULL,23,33,21,23,NULL,NBA
+11,320204001,2012,"Sat, Feb 4",Atlanta Hawks,Philadelphia 76ers,"16-8, 8-3 Home","17-7, 5-4 Away",87,98,NULL,NULL,Final,CSN,21,20,21,25,NULL,20,37,24,17,NULL,NBA
+12,320208001,2012,"Wed, Feb 8",Atlanta Hawks,Indiana Pacers,"17-9, 9-4 Home","17-8, 10-6 Away",97,87,NULL,NULL,Final,NULL,32,27,21,17,NULL,21,20,31,15,NULL,NBA
+13,320212001,2012,"Sun, Feb 12",Atlanta Hawks,Miami Heat,"18-10, 9-5 Home","21-7, 9-5 Away",87,107,NULL,NULL,Final,ESPN,18,23,20,26,NULL,30,33,25,19,NULL,NBA
+14,320215021,2012,"Wed, Feb 15",Phoenix Suns,Atlanta Hawks,"12-18, 5-8 Home","19-11, 10-6 Away",99,101,NULL,NULL,Final,NULL,31,25,21,22,NULL,21,26,26,28,NULL,NBA
+15,320220004,2012,"Mon, Feb 20",Chicago Bulls,Atlanta Hawks,"26-8, 12-2 Home","19-13, 10-8 Away",90,79,NULL,NULL,Final,ESPN,35,20,18,17,NULL,17,20,27,15,NULL,NBA
+16,320223001,2012,"Thu, Feb 23",Atlanta Hawks,Orlando Magic,"20-14, 10-5 Home","22-13, 10-7 Away",83,78,NULL,NULL,Final,NULL,29,18,11,25,NULL,20,10,25,23,NULL,NBA
+17,320302001,2012,"Fri, Mar 2",Atlanta Hawks,Milwaukee Bucks,"21-15, 11-6 Home","14-22, 6-14 Away",99,94,NULL,NULL,Final,ESPN,27,12,26,34,NULL,25,26,25,18,NULL,NBA
+18,320306011,2012,"Tue, Mar 6",Indiana Pacers,Atlanta Hawks,"23-14, 11-5 Home","23-15, 11-9 Away",96,101,NULL,NULL,Final,NULL,22,32,17,25,NULL,29,29,18,25,NULL,NBA
+19,320309008,2012,"Fri, Mar 9",Detroit Pistons,Atlanta Hawks,"14-26, 11-11 Home","23-17, 11-11 Away",86,85,NULL,NULL,Final,NULL,24,17,26,19,NULL,27,23,12,23,NULL,NBA
+20,320313007,2012,"Tue, Mar 13",Denver Nuggets,Atlanta Hawks,"24-19, 13-10 Home","24-18, 12-12 Away",118,117,NULL,NULL,Final/OT,NULL,30,34,18,23,13,26,29,25,25,12,NBA
+21,320316001,2012,"Fri, Mar 16",Atlanta Hawks,Washington Wizards,"25-19, 13-6 Home","10-33, 4-17 Away",102,88,NULL,NULL,Final,NULL,30,20,21,31,NULL,26,28,10,24,NULL,NBA
+22,320319001,2012,"Mon, Mar 19",Atlanta Hawks,Boston Celtics,"26-20, 13-7 Home","24-21, 8-13 Away",76,79,NULL,NULL,Final,NULL,15,18,18,25,NULL,12,19,19,29,NULL,NBA
+23,320323001,2012,"Fri, Mar 23",Atlanta Hawks,New Jersey Nets,"28-20, 15-7 Home","15-34, 10-16 Away",93,84,NULL,NULL,Final,NULL,21,22,19,31,NULL,20,24,25,15,NULL,NBA
+24,320325001,2012,"Sun, Mar 25",Atlanta Hawks,Utah Jazz,"30-20, 16-7 Home","26-23, 7-17 Away",139,133,NULL,NULL,Final/4OT,NULL,29,26,20,23,41,22,18,34,24,35,NBA
+25,320328001,2012,"Wed, Mar 28",Atlanta Hawks,Chicago Bulls,"30-22, 16-8 Home","41-11, 21-6 Away",77,98,NULL,NULL,Final,ESPN,23,19,18,17,NULL,21,33,22,22,NULL,NBA
+26,320331020,2012,"Sat, Mar 31",Philadelphia 76ers,Atlanta Hawks,"29-23, 19-10 Home","31-23, 14-15 Away",95,90,NULL,NULL,Final,CSN/NBATV,17,26,19,33,NULL,23,18,25,24,NULL,NBA
+27,320406001,2012,"Fri, Apr 6",Atlanta Hawks,Detroit Pistons,"33-23, 19-8 Home","21-34, 6-22 Away",101,96,NULL,NULL,Final,NBATV,24,28,26,23,NULL,20,23,25,28,NULL,NBA
+28,320411002,2012,"Wed, Apr 11",Boston Celtics,Atlanta Hawks,"34-24, 21-9 Home","34-24, 15-16 Away",88,86,NULL,NULL,Final/OT,ESPN,26,14,27,17,4,25,23,20,16,2,NBA
+29,320415001,2012,"Sun, Apr 15",Atlanta Hawks,Toronto Raptors,"35-25, 19-9 Home","22-39, 10-20 Away",86,102,NULL,NULL,Final,NULL,23,16,25,22,NULL,25,28,20,29,NULL,NBA
+30,320418001,2012,"Wed, Apr 18",Atlanta Hawks,Detroit Pistons,"37-25, 20-9 Home","23-39, 7-25 Away",116,84,NULL,NULL,Final,NULL,39,33,24,20,NULL,20,22,19,23,NULL,NBA
+31,320422001,2012,"Sun, Apr 22",Atlanta Hawks,New York Knicks,"38-26, 21-10 Home","34-30, 13-19 Away",112,113,NULL,NULL,Final,ESPN,31,34,28,19,NULL,31,29,34,19,NULL,NBA
+32,311227017,2012,"Tue, Dec 27",New Jersey Nets,Atlanta Hawks,"1-1, 0-1 Home","1-0, 1-0 Away",70,106,NULL,NULL,Final,NULL,11,19,25,15,NULL,28,24,25,29,NULL,NBA
+33,311230001,2012,"Fri, Dec 30",Atlanta Hawks,New Jersey Nets,"3-0, 2-0 Home","1-3, 1-2 Away",105,98,NULL,NULL,Final,NULL,20,23,33,29,NULL,19,18,35,26,NULL,NBA
+34,320102014,2012,"Mon, Jan 2",Miami Heat,Atlanta Hawks,"5-1, 2-1 Home","4-1, 2-1 Away",92,100,NULL,NULL,Final,NULL,23,27,21,21,NULL,19,28,20,33,NULL,NBA
+35,320105001,2012,"Thu, Jan 5",Atlanta Hawks,Miami Heat,"4-3, 2-1 Home","7-1, 4-0 Away",109,116,NULL,NULL,Final/3OT,TNT,19,30,21,23,16,22,32,14,25,23,NBA
+36,320107001,2012,"Sat, Jan 7",Atlanta Hawks,Chicago Bulls,"6-3, 3-1 Home","7-2, 5-2 Away",109,94,NULL,NULL,Final,NULL,33,30,22,24,NULL,18,27,17,32,NULL,NBA
+37,320111011,2012,"Wed, Jan 11",Indiana Pacers,Atlanta Hawks,"7-3, 4-0 Home","7-4, 4-3 Away",96,84,NULL,NULL,Final,NULL,28,25,27,16,NULL,20,30,9,25,NULL,NBA
+38,320114001,2012,"Sat, Jan 14",Atlanta Hawks,Minnesota Timberwolves,"9-4, 5-1 Home","4-8, 2-3 Away",93,91,NULL,NULL,Final,NULL,18,24,21,30,NULL,24,29,18,20,NULL,NBA
+39,320118001,2012,"Wed, Jan 18",Atlanta Hawks,Portland Trail Blazers,"11-4, 7-1 Home","8-6, 2-5 Away",92,89,NULL,NULL,Final,ESPN,21,30,24,17,NULL,17,25,20,27,NULL,NBA
+40,320121001,2012,"Sat, Jan 21",Atlanta Hawks,Cleveland Cavaliers,"12-5, 8-1 Home","6-9, 4-6 Away",121,94,NULL,NULL,Final,NULL,27,34,28,32,NULL,19,23,21,31,NULL,NBA
+41,320125024,2012,"Wed, Jan 25",San Antonio Spurs,Atlanta Hawks,"12-7, 10-1 Home","13-6, 5-5 Away",105,83,NULL,NULL,Final,NULL,24,24,28,29,NULL,18,26,17,22,NULL,NBA
+42,320129003,2012,"Sun, Jan 29",New Orleans Hornets,Atlanta Hawks,"4-16, 2-10 Home","15-6, 7-5 Away",72,94,NULL,NULL,Final,NULL,11,24,17,20,NULL,27,19,30,18,NULL,NBA
+43,320202001,2012,"Thu, Feb 2",Atlanta Hawks,Memphis Grizzlies,"16-7, 8-2 Home","12-10, 5-7 Away",77,96,NULL,NULL,Final,NULL,19,24,12,22,NULL,21,32,26,17,NULL,NBA
+44,320206001,2012,"Mon, Feb 6",Atlanta Hawks,Phoenix Suns,"16-9, 8-4 Home","10-14, 5-8 Away",90,99,NULL,NULL,Final,NULL,23,25,16,26,NULL,27,28,29,15,NULL,NBA
+45,320210019,2012,"Fri, Feb 10",Orlando Magic,Atlanta Hawks,"16-11, 9-6 Home","18-9, 9-5 Away",87,89,NULL,NULL,Final/OT,NULL,17,22,15,24,9,20,21,20,17,11,NBA
+46,320214013,2012,"Tue, Feb 14",Los Angeles Lakers,Atlanta Hawks,"17-12, 12-2 Home","18-11, 9-6 Away",86,78,NULL,NULL,Final,NULL,27,15,17,27,NULL,24,17,10,27,NULL,NBA
+47,320218022,2012,"Sat, Feb 18",Portland Trail Blazers,Atlanta Hawks,"17-15, 12-5 Home","19-12, 10-7 Away",97,77,NULL,NULL,Final,NBATV,33,19,20,25,NULL,25,12,19,21,NULL,NBA
+48,320222018,2012,"Wed, Feb 22",New York Knicks,Atlanta Hawks,"17-17, 10-9 Home","19-14, 10-9 Away",99,82,NULL,NULL,Final,NULL,30,30,18,21,NULL,16,19,21,26,NULL,NBA
+49,320229001,2012,"Wed, Feb 29",Atlanta Hawks,Golden State Warriors,"20-15, 10-6 Home","14-18, 5-9 Away",82,85,NULL,NULL,Final,NULL,21,17,23,21,NULL,20,28,16,21,NULL,NBA
+50,320303001,2012,"Sat, Mar 3",Atlanta Hawks,Oklahoma City Thunder,"22-15, 12-6 Home","29-8, 14-7 Away",97,90,NULL,NULL,Final,NULL,27,26,23,21,NULL,24,23,28,15,NULL,NBA
+51,320307014,2012,"Wed, Mar 7",Miami Heat,Atlanta Hawks,"30-9, 17-2 Home","23-16, 11-10 Away",89,86,NULL,NULL,Final,NBATV,25,18,25,21,NULL,22,23,23,18,NULL,NBA
+52,320311023,2012,"Sun, Mar 11",Sacramento Kings,Atlanta Hawks,"14-27, 10-7 Home","24-17, 12-11 Away",99,106,NULL,NULL,Final,NBATV,24,28,22,25,NULL,23,28,29,26,NULL,NBA
+53,320314012,2012,"Wed, Mar 14",LA Clippers,Atlanta Hawks,"24-17, 13-7 Home","24-19, 12-13 Away",96,82,NULL,NULL,Final,NULL,30,20,21,25,NULL,27,15,20,20,NULL,NBA
+54,320318005,2012,"Sun, Mar 18",Cleveland Cavaliers,Atlanta Hawks,"16-26, 9-14 Home","26-19, 13-13 Away",87,103,NULL,NULL,Final,NULL,19,26,23,19,NULL,31,28,17,27,NULL,NBA
+55,320321001,2012,"Wed, Mar 21",Atlanta Hawks,Cleveland Cavaliers,"27-20, 14-7 Home","17-27, 8-13 Away",103,102,NULL,NULL,Final/OT,NULL,21,33,18,19,12,36,17,20,18,11,NBA
+56,320324027,2012,"Sat, Mar 24",Washington Wizards,Atlanta Hawks,"11-36, 6-18 Home","29-20, 14-13 Away",92,95,NULL,NULL,Final,NULL,23,29,26,14,NULL,23,18,27,27,NULL,NBA
+57,320327015,2012,"Tue, Mar 27",Milwaukee Bucks,Atlanta Hawks,"23-27, 12-11 Home","30-21, 14-14 Away",108,101,NULL,NULL,Final,NULL,31,24,23,30,NULL,23,23,33,22,NULL,NBA
+58,320330001,2012,"Fri, Mar 30",Atlanta Hawks,New York Knicks,"31-22, 17-8 Home","26-26, 9-16 Away",100,90,NULL,NULL,Final,NULL,28,24,22,26,NULL,20,20,29,21,NULL,NBA
+59,320404001,2012,"Wed, Apr 4",Atlanta Hawks,Charlotte Bobcats,"32-23, 18-8 Home","7-45, 3-25 Away",120,93,NULL,NULL,Final,NULL,27,34,28,31,NULL,25,19,26,23,NULL,NBA
+60,320407030,2012,"Sat, Apr 7",Charlotte Bobcats,Atlanta Hawks,"7-47, 4-21 Home","34-23, 15-15 Away",96,116,NULL,NULL,Final,NULL,23,13,32,28,NULL,19,29,38,30,NULL,NBA
+61,320413019,2012,"Fri, Apr 13",Orlando Magic,Atlanta Hawks,"34-25, 19-12 Home","35-24, 16-16 Away",81,109,NULL,NULL,Final,NULL,23,19,22,17,NULL,36,26,27,20,NULL,NBA
+62,320416028,2012,"Mon, Apr 16",Toronto Raptors,Atlanta Hawks,"22-40, 12-20 Home","36-25, 17-16 Away",87,109,NULL,NULL,Final,NULL,32,19,17,19,NULL,30,24,25,30,NULL,NBA
+63,320420001,2012,"Fri, Apr 20",Atlanta Hawks,Boston Celtics,"38-25, 21-9 Home","37-27, 15-18 Away",97,92,NULL,NULL,Final,ESPN,34,24,16,23,NULL,27,22,22,21,NULL,NBA
+64,320424001,2012,"Tue, Apr 24",Atlanta Hawks,LA Clippers,"39-26, 22-10 Home","40-25, 16-16 Away",109,102,NULL,NULL,Final,NULL,23,29,33,24,NULL,28,22,22,30,NULL,NBA
+65,320426001,2012,"Thu, Apr 26",Atlanta Hawks,Dallas Mavericks,"40-26, 23-10 Home","36-30, 13-20 Away",106,89,NULL,NULL,Final,NULL,38,22,26,20,NULL,21,23,28,17,NULL,NBA

@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,271104014,2008,"Sun, Nov 4",Miami Heat,Charlotte Bobcats,"0-3, 0-2 Home","2-0, 1-0 Away",88,90,NULL,NULL,Final,NULL,27,21,15,25,NULL,27,28,20,15,NULL,NBA
+1,271107020,2008,"Wed, Nov 7",Philadelphia 76ers,Charlotte Bobcats,"2-2, 1-1 Home","2-2, 1-1 Away",94,63,NULL,NULL,Final,NULL,23,26,21,24,NULL,14,18,15,16,NULL,NBA
+2,271111030,2008,"Sun, Nov 11",Charlotte Bobcats,Houston Rockets,"3-3, 2-2 Home","6-1, 3-1 Away",82,85,NULL,NULL,Final,NULL,15,25,25,17,NULL,14,21,25,25,NULL,NBA
+3,271114001,2008,"Wed, Nov 14",Atlanta Hawks,Charlotte Bobcats,"3-4, 3-1 Home","4-4, 1-2 Away",117,109,NULL,NULL,Final,NULL,37,26,18,36,NULL,22,26,26,35,NULL,NBA
+4,271119030,2008,"Mon, Nov 19",Charlotte Bobcats,Portland Trail Blazers,"6-4, 5-2 Home","4-7, 0-7 Away",101,92,NULL,NULL,Final,NULL,24,16,23,38,NULL,23,13,25,31,NULL,NBA
+5,271123019,2008,"Fri, Nov 23",Orlando Magic,Charlotte Bobcats,"11-3, 4-2 Home","6-6, 1-3 Away",105,92,NULL,NULL,Final,NULL,27,28,25,25,NULL,16,28,22,26,NULL,NBA
+6,271127014,2008,"Tue, Nov 27",Miami Heat,Charlotte Bobcats,"4-10, 2-5 Home","6-8, 1-4 Away",110,90,NULL,NULL,Final,NULL,23,32,31,24,NULL,15,28,19,28,NULL,NBA
+7,271203028,2008,"Mon, Dec 3",Toronto Raptors,Charlotte Bobcats,"10-8, 6-4 Home","6-10, 1-6 Away",98,79,NULL,NULL,Final,NULL,27,27,22,22,NULL,16,17,26,20,NULL,NBA
+8,271208030,2008,"Sat, Dec 8",Charlotte Bobcats,Cleveland Cavaliers,"7-11, 6-5 Home","9-12, 5-8 Away",96,93,NULL,NULL,Final,NULL,25,26,18,27,NULL,26,25,17,25,NULL,NBA
+9,271212030,2008,"Wed, Dec 12",Charlotte Bobcats,LA Clippers,"8-12, 7-5 Home","8-13, 4-6 Away",108,103,NULL,NULL,Final,NULL,20,23,36,29,NULL,21,34,17,31,NULL,NBA
+10,271215001,2008,"Sat, Dec 15",Atlanta Hawks,Charlotte Bobcats,"11-12, 7-6 Home","8-14, 1-8 Away",93,84,NULL,NULL,Final,NULL,23,26,25,19,NULL,22,19,18,25,NULL,NBA
+11,271221030,2008,"Fri, Dec 21",Charlotte Bobcats,New York Knicks,"10-14, 9-6 Home","8-18, 1-10 Away",105,95,NULL,NULL,Final,NULL,34,33,18,20,NULL,24,20,22,29,NULL,NBA
+12,271226030,2008,"Wed, Dec 26",Charlotte Bobcats,Washington Wizards,"10-16, 9-7 Home","14-13, 6-7 Away",104,108,NULL,NULL,Final,NULL,30,25,19,30,NULL,41,17,23,27,NULL,NBA
+13,271229019,2008,"Sat, Dec 29",Orlando Magic,Charlotte Bobcats,"21-11, 7-6 Home","10-18, 1-10 Away",104,95,NULL,NULL,Final,NULL,28,24,25,27,NULL,29,22,21,23,NULL,NBA
+14,280102030,2008,"Wed, Jan 2",Charlotte Bobcats,Chicago Bulls,"11-19, 10-9 Home","12-18, 6-10 Away",97,109,NULL,NULL,Final,NULL,28,29,22,18,NULL,23,26,29,31,NULL,NBA
+15,280106030,2008,"Sun, Jan 6",Charlotte Bobcats,Milwaukee Bucks,"11-21, 10-10 Home","13-20, 4-15 Away",89,93,NULL,NULL,Final,NULL,15,32,23,19,NULL,22,24,20,27,NULL,NBA
+16,280109002,2008,"Wed, Jan 9",Boston Celtics,Charlotte Bobcats,"29-4, 16-2 Home","13-21, 2-11 Away",83,95,NULL,NULL,Final,NULL,24,17,24,18,NULL,20,25,27,23,NULL,NBA
+17,280112030,2008,"Sat, Jan 12",Charlotte Bobcats,Detroit Pistons,"13-23, 11-11 Home","28-9, 15-6 Away",100,103,NULL,NULL,Final/OT,NULL,18,29,24,20,9,31,20,24,16,12,NBA
+18,280116030,2008,"Wed, Jan 16",Charlotte Bobcats,Orlando Magic,"15-23, 13-11 Home","24-17, 16-9 Away",99,93,NULL,NULL,Final,NULL,20,21,34,24,NULL,26,30,19,18,NULL,NBA
+19,280119030,2008,"Sat, Jan 19",Charlotte Bobcats,Memphis Grizzlies,"16-24, 14-11 Home","11-29, 4-16 Away",105,87,NULL,NULL,Final,NULL,28,18,34,25,NULL,22,19,26,20,NULL,NBA
+20,280123030,2008,"Wed, Jan 23",Charlotte Bobcats,Dallas Mavericks,"16-26, 14-13 Home","28-13, 10-10 Away",95,102,NULL,NULL,Final,NULL,17,32,19,27,NULL,30,27,23,22,NULL,NBA
+21,280126030,2008,"Sat, Jan 26",Charlotte Bobcats,Philadelphia 76ers,"17-27, 14-14 Home","17-28, 9-15 Away",96,103,NULL,NULL,Final,CSN,27,28,16,25,NULL,20,27,33,23,NULL,NBA
+22,280130023,2008,"Wed, Jan 30",Sacramento Kings,Charlotte Bobcats,"20-24, 13-9 Home","18-28, 4-14 Away",105,91,NULL,NULL,Final,NULL,28,27,29,21,NULL,27,25,16,23,NULL,NBA
+23,280202007,2008,"Sat, Feb 2",Denver Nuggets,Charlotte Bobcats,"28-18, 20-5 Home","18-30, 4-16 Away",117,101,NULL,NULL,Final,NULL,27,30,25,35,NULL,32,35,20,14,NULL,NBA
+24,280208030,2008,"Fri, Feb 8",Charlotte Bobcats,New Jersey Nets,"18-32, 14-15 Home","21-29, 11-14 Away",90,104,NULL,NULL,Final,NULL,18,23,25,24,NULL,24,22,27,31,NULL,NBA
+25,280211030,2008,"Mon, Feb 11",Charlotte Bobcats,Los Angeles Lakers,"18-34, 14-16 Home","34-17, 17-10 Away",97,106,NULL,NULL,Final,NULL,22,22,25,28,NULL,30,25,22,29,NULL,NBA
+26,280219024,2008,"Tue, Feb 19",San Antonio Spurs,Charlotte Bobcats,"35-17, 21-5 Home","19-35, 4-19 Away",85,65,NULL,NULL,Final,NULL,13,23,18,31,NULL,18,14,17,16,NULL,NBA
+27,280223027,2008,"Sat, Feb 23",Washington Wizards,Charlotte Bobcats,"26-29, 16-12 Home","19-37, 4-20 Away",110,95,NULL,NULL,Final,NULL,28,23,27,32,NULL,27,25,19,24,NULL,NBA
+28,280229002,2008,"Fri, Feb 29",Boston Celtics,Charlotte Bobcats,"45-12, 25-4 Home","19-39, 4-22 Away",108,100,NULL,NULL,Final,NULL,33,28,25,22,NULL,28,18,26,28,NULL,NBA
+29,280304016,2008,"Tue, Mar 4",Minnesota Timberwolves,Charlotte Bobcats,"12-47, 10-22 Home","21-39, 5-22 Away",89,109,NULL,NULL,Final,NULL,27,23,25,14,NULL,29,27,26,27,NULL,NBA
+30,280307030,2008,"Fri, Mar 7",Charlotte Bobcats,Atlanta Hawks,"23-39, 18-17 Home","25-36, 7-24 Away",108,93,NULL,NULL,Final,NULL,16,34,28,30,NULL,24,23,22,24,NULL,NBA
+31,280312006,2008,"Wed, Mar 12",Dallas Mavericks,Charlotte Bobcats,"42-23, 28-4 Home","24-40, 6-23 Away",118,93,NULL,NULL,Final,NULL,36,31,30,21,NULL,28,17,21,27,NULL,NBA
+32,280316005,2008,"Sun, Mar 16",Cleveland Cavaliers,Charlotte Bobcats,"38-29, 22-10 Home","24-42, 6-25 Away",98,91,NULL,NULL,Final,NULL,27,20,28,23,NULL,19,21,23,28,NULL,NBA
+33,280319011,2008,"Wed, Mar 19",Indiana Pacers,Charlotte Bobcats,"27-41, 15-18 Home","24-44, 6-27 Away",102,95,NULL,NULL,Final,NULL,25,21,29,27,NULL,28,25,15,27,NULL,NBA
+34,280325026,2008,"Tue, Mar 25",Utah Jazz,Charlotte Bobcats,"47-25, 31-4 Home","25-45, 6-28 Away",128,106,NULL,NULL,Final,NULL,27,31,34,36,NULL,24,20,28,34,NULL,NBA
+35,280328025,2008,"Fri, Mar 28",Seattle SuperSonics,Charlotte Bobcats,"17-56, 11-25 Home","27-45, 8-28 Away",93,96,NULL,NULL,Final,NULL,27,26,23,17,NULL,38,17,17,24,NULL,NBA
+36,280331030,2008,"Mon, Mar 31",Charlotte Bobcats,Toronto Raptors,"28-46, 19-18 Home","38-36, 16-21 Away",100,104,NULL,NULL,Final,NULL,32,31,10,27,NULL,39,19,21,25,NULL,NBA
+37,280404028,2008,"Fri, Apr 4",Toronto Raptors,Charlotte Bobcats,"38-38, 22-16 Home","29-47, 10-28 Away",100,105,NULL,NULL,Final,NULL,22,24,30,24,NULL,27,24,23,31,NULL,NBA
+38,280408030,2008,"Tue, Apr 8",Charlotte Bobcats,Minnesota Timberwolves,"30-48, 20-20 Home","19-58, 5-33 Away",121,119,NULL,NULL,Final,NULL,32,27,35,27,NULL,17,30,38,34,NULL,NBA
+39,280412011,2008,"Sat, Apr 12",Indiana Pacers,Charlotte Bobcats,"35-45, 20-20 Home","31-49, 11-29 Away",103,107,NULL,NULL,Final,NULL,33,19,22,29,NULL,32,25,27,23,NULL,NBA
+40,271102030,2008,"Fri, Nov 2",Charlotte Bobcats,Milwaukee Bucks,"1-0, 1-0 Home","0-2, 0-2 Away",102,99,NULL,NULL,Final,NULL,24,22,25,31,NULL,18,31,20,30,NULL,NBA
+41,271106030,2008,"Tue, Nov 6",Charlotte Bobcats,Phoenix Suns,"2-1, 1-1 Home","3-1, 2-0 Away",83,115,NULL,NULL,Final,NULL,21,16,24,22,NULL,29,30,29,27,NULL,NBA
+42,271109030,2008,"Fri, Nov 9",Charlotte Bobcats,Indiana Pacers,"3-2, 2-1 Home","3-2, 1-1 Away",96,87,NULL,NULL,Final,NULL,24,16,25,31,NULL,27,16,30,14,NULL,NBA
+43,271113030,2008,"Tue, Nov 13",Charlotte Bobcats,Miami Heat,"4-3, 3-2 Home","1-6, 1-3 Away",91,76,NULL,NULL,Final,NULL,17,23,31,20,NULL,12,23,12,29,NULL,NBA
+44,271117030,2008,"Sat, Nov 17",Charlotte Bobcats,Seattle SuperSonics,"5-4, 4-2 Home","2-9, 2-5 Away",100,84,NULL,NULL,Final,NULL,22,25,30,23,NULL,22,27,21,14,NULL,NBA
+45,271121030,2008,"Wed, Nov 21",Charlotte Bobcats,Washington Wizards,"6-5, 5-3 Home","6-5, 3-3 Away",111,114,NULL,NULL,Final/OT,NULL,20,26,32,26,7,26,18,35,25,10,NBA
+46,271124030,2008,"Sat, Nov 24",Charlotte Bobcats,Boston Celtics,"6-7, 5-4 Home","11-1, 4-1 Away",95,96,NULL,NULL,Final,NULL,23,30,22,20,NULL,23,25,28,20,NULL,NBA
+47,271201004,2008,"Sat, Dec 1",Chicago Bulls,Charlotte Bobcats,"4-10, 3-3 Home","6-9, 1-5 Away",111,95,NULL,NULL,Final,NULL,31,27,28,25,NULL,23,34,18,20,NULL,NBA
+48,271205030,2008,"Wed, Dec 5",Charlotte Bobcats,Chicago Bulls,"6-11, 5-5 Home","5-11, 2-7 Away",82,91,NULL,NULL,Final,NULL,21,21,18,22,NULL,21,18,14,38,NULL,NBA
+49,271209008,2008,"Sun, Dec 9",Detroit Pistons,Charlotte Bobcats,"14-6, 7-2 Home","7-12, 1-7 Away",104,85,NULL,NULL,Final,NULL,30,26,25,23,NULL,16,29,20,20,NULL,NBA
+50,271214030,2008,"Fri, Dec 14",Charlotte Bobcats,Orlando Magic,"8-13, 7-6 Home","17-7, 12-3 Away",87,103,NULL,NULL,Final,ESPN,24,27,13,23,NULL,23,19,30,31,NULL,NBA
+51,271219030,2008,"Wed, Dec 19",Charlotte Bobcats,Utah Jazz,"9-14, 8-6 Home","14-13, 5-11 Away",98,92,NULL,NULL,Final,NULL,21,22,24,31,NULL,19,24,26,23,NULL,NBA
+52,271222015,2008,"Sat, Dec 22",Milwaukee Bucks,Charlotte Bobcats,"11-15, 9-3 Home","10-15, 1-9 Away",103,99,NULL,NULL,Final,NULL,35,23,27,18,NULL,26,21,24,28,NULL,NBA
+53,271228030,2008,"Fri, Dec 28",Charlotte Bobcats,New Orleans Hornets,"10-17, 9-8 Home","19-10, 11-5 Away",85,99,NULL,NULL,Final,NBATV,14,20,28,23,NULL,28,25,28,18,NULL,NBA
+54,271231030,2008,"Mon, Dec 31",Charlotte Bobcats,Indiana Pacers,"11-18, 10-8 Home","15-17, 8-9 Away",107,103,NULL,NULL,Final/OT,NULL,28,19,19,28,13,24,29,24,17,9,NBA
+55,280104017,2008,"Fri, Jan 4",New Jersey Nets,Charlotte Bobcats,"16-16, 8-11 Home","11-20, 1-11 Away",102,96,NULL,NULL,Final,YES,21,21,27,33,NULL,31,17,19,29,NULL,NBA
+56,280108030,2008,"Tue, Jan 8",Charlotte Bobcats,New Jersey Nets,"12-21, 11-10 Home","17-17, 9-6 Away",115,99,NULL,NULL,Final,NULL,31,28,27,29,NULL,23,22,29,25,NULL,NBA
+57,280111005,2008,"Fri, Jan 11",Cleveland Cavaliers,Charlotte Bobcats,"19-18, 12-6 Home","13-22, 2-12 Away",113,106,NULL,NULL,Final/2OT,NULL,35,23,11,24,20,37,14,26,16,13,NBA
+58,280114030,2008,"Mon, Jan 14",Charlotte Bobcats,Denver Nuggets,"14-23, 12-11 Home","22-14, 7-9 Away",119,116,NULL,NULL,Final,NULL,34,33,29,23,NULL,25,43,31,17,NULL,NBA
+59,280118003,2008,"Fri, Jan 18",New Orleans Hornets,Charlotte Bobcats,"27-12, 12-7 Home","15-24, 2-13 Away",112,84,NULL,NULL,Final,NULL,26,33,31,22,NULL,25,15,22,22,NULL,NBA
+60,280121030,2008,"Mon, Jan 21",Charlotte Bobcats,San Antonio Spurs,"16-25, 14-12 Home","26-13, 7-9 Away",86,95,NULL,NULL,Final,NULL,27,20,20,19,NULL,26,28,19,22,NULL,NBA
+61,280125004,2008,"Fri, Jan 25",Chicago Bulls,Charlotte Bobcats,"17-25, 9-12 Home","17-26, 3-13 Away",77,90,NULL,NULL,Final,NULL,14,20,25,18,NULL,20,25,21,24,NULL,NBA
+62,280128012,2008,"Mon, Jan 28",LA Clippers,Charlotte Bobcats,"13-28, 8-15 Home","18-27, 4-13 Away",100,107,NULL,NULL,Final,NULL,22,27,22,29,NULL,29,30,24,24,NULL,NBA
+63,280201009,2008,"Fri, Feb 1",Golden State Warriors,Charlotte Bobcats,"29-19, 14-8 Home","18-29, 4-15 Away",127,96,NULL,NULL,Final,TNT,32,37,32,26,NULL,23,25,21,27,NULL,NBA
+64,280204021,2008,"Mon, Feb 4",Phoenix Suns,Charlotte Bobcats,"34-14, 17-5 Home","18-31, 4-17 Away",118,104,NULL,NULL,Final,NULL,31,23,33,31,NULL,28,23,23,30,NULL,NBA
+65,280210008,2008,"Sun, Feb 10",Detroit Pistons,Charlotte Bobcats,"37-13, 20-4 Home","18-33, 4-18 Away",113,87,NULL,NULL,Final,NULL,29,26,28,30,NULL,13,25,24,25,NULL,NBA
+66,280213030,2008,"Wed, Feb 13",Charlotte Bobcats,Atlanta Hawks,"19-34, 15-16 Home","22-28, 6-17 Away",100,98,NULL,NULL,Final/OT,NULL,19,20,24,29,8,29,22,22,19,6,NBA
+67,280222030,2008,"Fri, Feb 22",Charlotte Bobcats,Sacramento Kings,"19-36, 15-17 Home","26-28, 9-18 Away",115,116,NULL,NULL,Final/OT,NULL,25,28,25,31,6,28,26,30,25,7,NBA
+68,280227018,2008,"Wed, Feb 27",New York Knicks,Charlotte Bobcats,"18-39, 12-17 Home","19-38, 4-21 Away",113,89,NULL,NULL,Final,NULL,20,34,29,30,NULL,25,16,21,27,NULL,NBA
+69,280302030,2008,"Sun, Mar 2",Charlotte Bobcats,Toronto Raptors,"20-39, 16-17 Home","32-26, 14-14 Away",110,98,NULL,NULL,Final,TSNT,22,26,34,28,NULL,32,17,21,28,NULL,NBA
+70,280305030,2008,"Wed, Mar 5",Charlotte Bobcats,Golden State Warriors,"22-39, 17-17 Home","37-23, 16-13 Away",118,109,NULL,NULL,Final,NULL,25,34,34,25,NULL,38,19,29,23,NULL,NBA
+71,280308027,2008,"Sat, Mar 8",Washington Wizards,Charlotte Bobcats,"30-32, 17-14 Home","24-39, 6-22 Away",97,100,NULL,NULL,Final,NULL,21,26,23,27,NULL,35,19,26,20,NULL,NBA
+72,280314010,2008,"Fri, Mar 14",Houston Rockets,Charlotte Bobcats,"45-20, 25-9 Home","24-41, 6-24 Away",89,80,NULL,NULL,Final,NULL,18,18,28,25,NULL,23,20,19,18,NULL,NBA
+73,280317029,2008,"Mon, Mar 17",Memphis Grizzlies,Charlotte Bobcats,"16-50, 12-22 Home","24-43, 6-26 Away",98,80,NULL,NULL,Final,NULL,21,21,30,26,NULL,24,23,17,16,NULL,NBA
+74,280322030,2008,"Sat, Mar 22",Charlotte Bobcats,Miami Heat,"25-44, 19-17 Home","12-57, 6-28 Away",94,82,NULL,NULL,Final,NULL,16,30,27,21,NULL,17,22,25,18,NULL,NBA
+75,280326013,2008,"Wed, Mar 26",Los Angeles Lakers,Charlotte Bobcats,"49-23, 24-10 Home","26-45, 7-28 Away",95,108,NULL,NULL,Final,NULL,24,20,24,27,NULL,27,30,25,26,NULL,NBA
+76,280329022,2008,"Sat, Mar 29",Portland Trail Blazers,Charlotte Bobcats,"38-36, 25-11 Home","28-45, 9-28 Away",85,93,NULL,NULL,Final,NULL,30,18,23,14,NULL,24,25,21,23,NULL,NBA
+77,280402030,2008,"Wed, Apr 2",Charlotte Bobcats,Cleveland Cavaliers,"28-47, 19-19 Home","42-33, 17-22 Away",114,118,NULL,NULL,Final,NULL,34,28,27,25,NULL,25,33,34,26,NULL,NBA
+78,280405030,2008,"Sat, Apr 5",Charlotte Bobcats,Boston Celtics,"29-48, 19-20 Home","61-15, 28-9 Away",78,101,NULL,NULL,Final,NULL,25,25,19,9,NULL,37,27,18,19,NULL,NBA
+79,280409018,2008,"Wed, Apr 9",New York Knicks,Charlotte Bobcats,"23-56, 15-24 Home","30-49, 10-29 Away",109,107,NULL,NULL,Final,NULL,27,37,22,23,NULL,26,24,33,24,NULL,NBA
+80,280415017,2008,"Tue, Apr 15",New Jersey Nets,Charlotte Bobcats,"34-47, 21-20 Home","31-50, 11-30 Away",112,108,NULL,NULL,Final/OT,NULL,18,26,22,28,18,33,28,14,19,14,NBA
+81,280416030,2008,"Wed, Apr 16",Charlotte Bobcats,Philadelphia 76ers,"32-50, 21-20 Home","40-42, 18-23 Away",115,109,NULL,NULL,Final,CSN,21,40,26,28,NULL,25,26,29,29,NULL,NBA

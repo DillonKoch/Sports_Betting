@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,131108004,1993,"Mon, Nov 8",Chicago Bulls,Atlanta Hawks,"2-1, 1-1 Home","1-1, 0-1 Away",106,80,NULL,NULL,Final,NULL,21,23,28,34,NULL,23,21,15,21,NULL,NBA
+1,131112022,1993,"Fri, Nov 12",Portland Trail Blazers,Atlanta Hawks,"2-2, 1-1 Home","1-3, 0-3 Away",94,84,NULL,NULL,Final,NULL,22,27,17,28,NULL,18,32,19,15,NULL,NBA
+2,131116001,1993,"Tue, Nov 16",Atlanta Hawks,Sacramento Kings,"2-4, 2-0 Home","3-3, 0-3 Away",118,95,NULL,NULL,Final,NULL,30,24,32,32,NULL,30,24,21,20,NULL,NBA
+3,131119014,1993,"Fri, Nov 19",Miami Heat,Atlanta Hawks,"3-3, 1-3 Home","4-4, 2-4 Away",92,95,NULL,NULL,Final,NULL,29,25,19,19,NULL,24,18,34,19,NULL,NBA
+4,131123001,1993,"Tue, Nov 23",Atlanta Hawks,Los Angeles Lakers,"6-4, 4-0 Home","3-8, 0-5 Away",103,94,NULL,NULL,Final,NULL,33,25,25,20,NULL,30,21,24,19,NULL,NBA
+5,131126001,1993,"Fri, Nov 26",Atlanta Hawks,Washington Bullets,"8-4, 5-0 Home","5-6, 1-4 Away",124,108,NULL,NULL,Final,NULL,25,29,42,28,NULL,33,19,24,32,NULL,NBA
+6,131130001,1993,"Tue, Nov 30",Atlanta Hawks,Boston Celtics,"10-4, 7-0 Home","7-7, 4-3 Away",122,114,NULL,NULL,Final,NULL,35,27,30,30,NULL,29,27,19,39,NULL,NBA
+7,131208008,1993,"Wed, Dec 8",Detroit Pistons,Atlanta Hawks,"5-11, 4-5 Home","12-4, 4-4 Away",97,105,NULL,NULL,Final,NULL,22,17,26,32,NULL,24,26,24,31,NULL,NBA
+8,131211027,1993,"Sat, Dec 11",Washington Bullets,Atlanta Hawks,"6-13, 5-5 Home","14-4, 5-4 Away",108,116,NULL,NULL,Final,NULL,35,23,27,23,NULL,30,37,26,23,NULL,NBA
+9,131216001,1993,"Thu, Dec 16",Atlanta Hawks,Indiana Pacers,"15-5, 9-1 Home","9-11, 5-5 Away",81,99,NULL,NULL,Final,NULL,32,17,17,15,NULL,19,26,27,27,NULL,NBA
+10,131222002,1993,"Wed, Dec 22",Boston Celtics,Atlanta Hawks,"11-13, 7-7 Home","17-5, 7-4 Away",103,108,NULL,NULL,Final,NULL,25,28,28,22,NULL,32,28,22,26,NULL,NBA
+11,131226017,1993,"Sun, Dec 26",New Jersey Nets,Atlanta Hawks,"10-15, 8-6 Home","17-7, 7-6 Away",91,87,NULL,NULL,Final,NULL,19,28,29,15,NULL,25,19,27,16,NULL,NBA
+12,131229019,1993,"Wed, Dec 29",Orlando Magic,Atlanta Hawks,"15-12, 9-4 Home","19-7, 8-6 Away",90,92,NULL,NULL,Final,NULL,18,29,21,22,NULL,16,29,27,20,NULL,NBA
+13,140107001,1993,"Fri, Jan 7",Atlanta Hawks,Portland Trail Blazers,"21-7, 13-1 Home","18-14, 7-9 Away",100,85,NULL,NULL,Final,NULL,31,19,28,22,NULL,20,25,19,21,NULL,NBA
+14,140112001,1993,"Wed, Jan 12",Atlanta Hawks,Chicago Bulls,"23-7, 15-1 Home","21-11, 9-9 Away",92,81,NULL,NULL,Final,NULL,27,29,17,19,NULL,19,26,15,21,NULL,NBA
+15,140115011,1993,"Sat, Jan 15",Indiana Pacers,Atlanta Hawks,"15-18, 8-7 Home","24-8, 8-7 Away",94,91,NULL,NULL,Final,NULL,22,30,20,22,NULL,17,29,26,19,NULL,NBA
+16,140119001,1993,"Wed, Jan 19",Atlanta Hawks,Golden State Warriors,"25-9, 17-2 Home","21-14, 10-6 Away",119,120,NULL,NULL,Final,NULL,19,34,34,32,NULL,27,24,33,36,NULL,NBA
+17,140122016,1993,"Sat, Jan 22",Minnesota Timberwolves,Atlanta Hawks,"13-25, 7-13 Home","26-10, 9-7 Away",81,98,NULL,NULL,Final,NULL,16,20,31,14,NULL,29,22,26,21,NULL,NBA
+18,140126001,1993,"Wed, Jan 26",Atlanta Hawks,Phoenix Suns,"28-10, 18-3 Home","27-12, 10-9 Away",116,107,NULL,NULL,Final,NULL,40,22,29,25,NULL,31,20,30,26,NULL,NBA
+19,140129024,1993,"Sat, Jan 29",San Antonio Spurs,Atlanta Hawks,"29-14, 17-4 Home","29-11, 11-8 Away",100,87,NULL,NULL,Final,NULL,37,23,17,23,NULL,29,16,17,25,NULL,NBA
+20,140202001,1993,"Wed, Feb 2",Atlanta Hawks,Orlando Magic,"31-11, 19-3 Home","26-18, 11-12 Away",118,99,NULL,NULL,Final,NULL,28,28,34,28,NULL,30,12,21,36,NULL,NBA
+21,140205005,1993,"Sat, Feb 5",Cleveland Cavaliers,Atlanta Hawks,"23-22, 15-8 Home","32-12, 12-9 Away",109,93,NULL,NULL,Final,NULL,29,28,23,29,NULL,22,28,22,21,NULL,NBA
+22,140209019,1993,"Wed, Feb 9",Orlando Magic,Atlanta Hawks,"27-20, 16-7 Home","33-13, 12-10 Away",104,87,NULL,NULL,Final,NULL,29,26,19,30,NULL,22,22,20,23,NULL,NBA
+23,140215010,1993,"Tue, Feb 15",Houston Rockets,Atlanta Hawks,"35-12, 18-3 Home","34-14, 12-11 Away",103,99,NULL,NULL,Final,NULL,23,25,26,29,NULL,32,21,14,32,NULL,NBA
+24,140218012,1993,"Fri, Feb 18",Los Angeles Clippers,Atlanta Hawks,"17-31, 10-15 Home","35-15, 13-12 Away",91,97,NULL,NULL,Final,NULL,20,22,25,24,NULL,24,29,22,22,NULL,NBA
+25,140223001,1993,"Wed, Feb 23",Atlanta Hawks,Seattle SuperSonics,"36-16, 23-3 Home","37-14, 17-11 Away",99,92,NULL,NULL,Final,NULL,24,24,19,32,NULL,24,25,29,14,NULL,NBA
+26,140226020,1993,"Sat, Feb 26",Philadelphia 76ers,Atlanta Hawks,"20-35, 12-16 Home","38-16, 14-13 Away",102,118,NULL,NULL,Final,NULL,21,32,25,24,NULL,32,29,24,33,NULL,NBA
+27,140303027,1993,"Thu, Mar 3",Washington Bullets,Atlanta Hawks,"17-40, 11-17 Home","40-16, 15-13 Away",98,109,NULL,NULL,Final,NULL,21,27,30,20,NULL,19,31,26,33,NULL,NBA
+28,140308004,1993,"Tue, Mar 8",Chicago Bulls,Atlanta Hawks,"38-21, 21-8 Home","41-17, 15-14 Away",116,95,NULL,NULL,Final,NULL,28,20,28,40,NULL,26,21,24,24,NULL,NBA
+29,140311001,1993,"Fri, Mar 11",Atlanta Hawks,Chicago Bulls,"42-18, 27-4 Home","38-22, 17-14 Away",108,77,NULL,NULL,Final,NULL,30,26,29,23,NULL,18,21,20,18,NULL,NBA
+30,140316003,1993,"Wed, Mar 16",Charlotte Hornets,Atlanta Hawks,"27-34, 19-11 Home","43-19, 16-15 Away",92,79,NULL,NULL,Final,NULL,27,23,25,17,NULL,16,18,20,25,NULL,NBA
+31,140320002,1993,"Sun, Mar 20",Boston Celtics,Atlanta Hawks,"22-42, 13-20 Home","45-19, 18-15 Away",80,101,NULL,NULL,Final,NULL,22,25,21,12,NULL,31,25,25,20,NULL,NBA
+32,140323001,1993,"Wed, Mar 23",Atlanta Hawks,Charlotte Hornets,"47-19, 29-4 Home","29-36, 8-24 Away",100,92,NULL,NULL,Final,NULL,27,26,21,26,NULL,20,25,22,25,NULL,NBA
+33,140326001,1993,"Sat, Mar 26",Atlanta Hawks,Miami Heat,"48-20, 30-5 Home","37-31, 19-16 Away",100,90,NULL,NULL,Final,NULL,32,21,24,23,NULL,23,31,21,15,NULL,NBA
+34,140331023,1993,"Thu, Mar 31",Sacramento Kings,Atlanta Hawks,"23-47, 16-19 Home","50-20, 19-15 Away",102,106,NULL,NULL,Final,NULL,19,26,28,29,NULL,23,31,21,31,NULL,NBA
+35,140403013,1993,"Sun, Apr 3",Los Angeles Lakers,Atlanta Hawks,"32-39, 20-15 Home","50-22, 19-17 Away",102,89,NULL,NULL,Final,NULL,25,25,28,24,NULL,21,22,17,29,NULL,NBA
+36,140407017,1993,"Thu, Apr 7",New Jersey Nets,Atlanta Hawks,"39-34, 26-12 Home","51-23, 19-18 Away",93,87,NULL,NULL,Final,NULL,19,32,19,23,NULL,21,30,16,20,NULL,NBA
+37,140413001,1993,"Wed, Apr 13",Atlanta Hawks,Cleveland Cavaliers,"53-23, 34-5 Home","43-34, 15-24 Away",110,95,NULL,NULL,Final,NULL,33,31,28,18,NULL,22,17,26,30,NULL,NBA
+38,140416001,1993,"Sat, Apr 16",Atlanta Hawks,Philadelphia 76ers,"55-23, 35-5 Home","24-54, 10-29 Away",123,94,NULL,NULL,Final,NULL,28,34,27,34,NULL,28,19,26,21,NULL,NBA
+39,140419018,1993,"Tue, Apr 19",New York Knicks,Atlanta Hawks,"54-25, 31-9 Home","56-24, 21-19 Away",84,87,NULL,NULL,Final,NULL,24,14,21,25,NULL,13,27,22,25,NULL,NBA
+40,131105001,1993,"Fri, Nov 5",Atlanta Hawks,Indiana Pacers,"1-0, 1-0 Home","0-1, 0-1 Away",116,110,NULL,NULL,Final,NULL,32,28,30,26,NULL,32,23,24,31,NULL,NBA
+41,131110026,1993,"Wed, Nov 10",Utah Jazz,Atlanta Hawks,"3-1, 2-1 Home","1-2, 0-2 Away",91,88,NULL,NULL,Final,NULL,29,19,21,22,NULL,27,29,14,18,NULL,NBA
+42,131113025,1993,"Sat, Nov 13",Seattle SuperSonics,Atlanta Hawks,"5-0, 4-0 Home","1-4, 0-4 Away",97,89,NULL,NULL,Final/OT,NULL,14,25,25,22,11,23,26,23,14,3,NBA
+43,131117020,1993,"Wed, Nov 17",Philadelphia 76ers,Atlanta Hawks,"2-6, 1-3 Home","3-4, 1-4 Away",90,92,NULL,NULL,Final,NULL,21,21,22,26,NULL,27,25,28,12,NULL,NBA
+44,131120001,1993,"Sat, Nov 20",Atlanta Hawks,Charlotte Hornets,"5-4, 3-0 Home","6-3, 3-2 Away",96,91,NULL,NULL,Final,NULL,32,27,17,20,NULL,33,20,18,20,NULL,NBA
+45,131124015,1993,"Wed, Nov 24",Milwaukee Bucks,Atlanta Hawks,"1-9, 0-5 Home","7-4, 3-4 Away",85,89,NULL,NULL,Final,NULL,12,27,18,28,NULL,26,23,20,20,NULL,NBA
+46,131127001,1993,"Sat, Nov 27",Atlanta Hawks,Philadelphia 76ers,"9-4, 6-0 Home","4-9, 2-5 Away",111,79,NULL,NULL,Final,NULL,32,28,25,26,NULL,22,18,24,15,NULL,NBA
+47,131203001,1993,"Fri, Dec 3",Atlanta Hawks,Houston Rockets,"11-4, 8-0 Home","15-1, 9-1 Away",133,111,NULL,NULL,Final,NULL,36,30,30,37,NULL,27,19,25,40,NULL,NBA
+48,131209001,1993,"Thu, Dec 9",Atlanta Hawks,San Antonio Spurs,"13-4, 9-0 Home","12-7, 5-5 Away",105,95,NULL,NULL,Final,NULL,28,29,17,31,NULL,19,29,25,22,NULL,NBA
+49,131214005,1993,"Tue, Dec 14",Cleveland Cavaliers,Atlanta Hawks,"7-12, 5-5 Home","15-4, 6-4 Away",92,103,NULL,NULL,Final,NULL,24,26,19,23,NULL,29,13,29,32,NULL,NBA
+50,131218001,1993,"Sat, Dec 18",Atlanta Hawks,Denver Nuggets,"16-5, 10-1 Home","9-13, 2-11 Away",102,96,NULL,NULL,Final,NULL,28,32,22,20,NULL,28,19,22,27,NULL,NBA
+51,131223018,1993,"Thu, Dec 23",New York Knicks,Atlanta Hawks,"17-6, 10-2 Home","17-6, 7-5 Away",84,75,NULL,NULL,Final,NULL,27,18,8,31,NULL,20,10,25,20,NULL,NBA
+52,131228001,1993,"Tue, Dec 28",Atlanta Hawks,Detroit Pistons,"18-7, 11-1 Home","8-18, 3-9 Away",119,101,NULL,NULL,Final,NULL,36,39,28,16,NULL,33,16,20,32,NULL,NBA
+53,140104001,1993,"Tue, Jan 4",Atlanta Hawks,Charlotte Hornets,"20-7, 12-1 Home","17-13, 5-11 Away",133,94,NULL,NULL,Final,NULL,40,20,48,25,NULL,26,29,16,23,NULL,NBA
+54,140108001,1993,"Sat, Jan 8",Atlanta Hawks,Cleveland Cavaliers,"22-7, 14-1 Home","13-18, 3-12 Away",102,89,NULL,NULL,Final,NULL,28,17,31,26,NULL,30,20,20,19,NULL,NBA
+55,140114001,1993,"Fri, Jan 14",Atlanta Hawks,Dallas Mavericks,"24-7, 16-1 Home","2-32, 2-16 Away",113,96,NULL,NULL,Final,NULL,31,20,34,28,NULL,21,21,24,30,NULL,NBA
+56,140117001,1993,"Mon, Jan 17",Atlanta Hawks,Milwaukee Bucks,"25-8, 17-1 Home","9-26, 6-12 Away",102,98,NULL,NULL,Final,NULL,17,27,40,18,NULL,20,31,19,28,NULL,NBA
+57,140121001,1993,"Fri, Jan 21",Atlanta Hawks,New Jersey Nets,"25-10, 17-3 Home","17-20, 6-12 Away",111,113,NULL,NULL,Final/OT,NULL,34,26,25,20,6,30,21,32,22,8,NBA
+58,140125015,1993,"Tue, Jan 25",Milwaukee Bucks,Atlanta Hawks,"12-28, 5-15 Home","27-10, 10-7 Away",90,95,NULL,NULL,Final,NULL,22,21,22,25,NULL,24,29,20,22,NULL,NBA
+59,140128003,1993,"Fri, Jan 28",Charlotte Hornets,Atlanta Hawks,"22-20, 15-5 Home","29-10, 11-7 Away",105,117,NULL,NULL,Final,NULL,25,28,27,25,NULL,34,28,25,30,NULL,NBA
+60,140131006,1993,"Mon, Jan 31",Dallas Mavericks,Atlanta Hawks,"3-41, 1-20 Home","30-11, 12-8 Away",85,90,NULL,NULL,Final,NULL,19,24,19,23,NULL,19,18,36,17,NULL,NBA
+61,140204001,1993,"Fri, Feb 4",Atlanta Hawks,New York Knicks,"32-11, 20-3 Home","32-12, 13-7 Away",114,102,NULL,NULL,Final,NULL,31,25,28,30,NULL,21,27,21,33,NULL,NBA
+62,140207001,1993,"Mon, Feb 7",Atlanta Hawks,Detroit Pistons,"33-12, 21-3 Home","10-36, 4-17 Away",141,97,NULL,NULL,Final,NULL,29,32,36,44,NULL,18,25,30,24,NULL,NBA
+63,140210001,1993,"Thu, Feb 10",Atlanta Hawks,Miami Heat,"34-13, 22-3 Home","23-24, 12-11 Away",114,98,NULL,NULL,Final,NULL,37,24,26,27,NULL,21,28,28,21,NULL,NBA
+64,140217009,1993,"Thu, Feb 17",Golden State Warriors,Atlanta Hawks,"29-20, 15-10 Home","34-15, 12-12 Away",119,115,NULL,NULL,Final,NULL,33,32,23,31,NULL,38,27,24,26,NULL,NBA
+65,140220007,1993,"Sun, Feb 20",Denver Nuggets,Atlanta Hawks,"25-26, 17-8 Home","35-16, 13-13 Away",97,92,NULL,NULL,Final,NULL,24,17,26,30,NULL,18,25,25,24,NULL,NBA
+66,140225001,1993,"Fri, Feb 25",Atlanta Hawks,Milwaukee Bucks,"37-16, 24-3 Home","15-39, 9-18 Away",111,100,NULL,NULL,Final,NULL,35,17,22,37,NULL,20,24,28,28,NULL,NBA
+67,140301001,1993,"Tue, Mar 1",Atlanta Hawks,Minnesota Timberwolves,"39-16, 25-3 Home","16-38, 6-21 Away",102,99,NULL,NULL,Final,NULL,36,25,33,8,NULL,17,23,29,30,NULL,NBA
+68,140305001,1993,"Sat, Mar 5",Atlanta Hawks,Indiana Pacers,"41-16, 26-3 Home","30-26, 12-17 Away",90,88,NULL,NULL,Final,NULL,23,16,28,23,NULL,26,25,18,19,NULL,NBA
+69,140309001,1993,"Wed, Mar 9",Atlanta Hawks,New York Knicks,"41-18, 26-4 Home","40-19, 18-12 Away",83,90,NULL,NULL,Final,NULL,23,22,21,17,NULL,26,18,16,30,NULL,NBA
+70,140312008,1993,"Sat, Mar 12",Detroit Pistons,Atlanta Hawks,"15-46, 9-25 Home","43-18, 16-14 Away",92,104,NULL,NULL,Final,NULL,22,27,17,26,NULL,31,17,30,26,NULL,NBA
+71,140318011,1993,"Fri, Mar 18",Indiana Pacers,Atlanta Hawks,"33-29, 20-10 Home","44-19, 17-15 Away",78,81,NULL,NULL,Final,NULL,17,24,20,17,NULL,20,23,22,16,NULL,NBA
+72,140321001,1993,"Mon, Mar 21",Atlanta Hawks,Utah Jazz,"46-19, 28-4 Home","43-24, 17-18 Away",100,96,NULL,NULL,Final/OT,NULL,21,26,26,16,11,24,26,21,18,7,NBA
+73,140325001,1993,"Fri, Mar 25",Atlanta Hawks,Los Angeles Clippers,"47-20, 29-5 Home","25-41, 9-23 Away",94,97,NULL,NULL,Final,NULL,22,31,21,20,NULL,21,24,22,30,NULL,NBA
+74,140329001,1993,"Tue, Mar 29",Atlanta Hawks,New Jersey Nets,"49-20, 31-5 Home","36-32, 13-22 Away",101,98,NULL,NULL,Final,NULL,25,24,25,27,NULL,20,34,17,27,NULL,NBA
+75,140401021,1993,"Fri, Apr 1",Phoenix Suns,Atlanta Hawks,"47-23, 30-5 Home","50-21, 19-16 Away",93,87,NULL,NULL,Final,NULL,29,29,19,16,NULL,24,20,25,18,NULL,NBA
+76,140406001,1993,"Wed, Apr 6",Atlanta Hawks,Boston Celtics,"51-22, 32-5 Home","26-46, 12-24 Away",111,107,NULL,NULL,Final,NULL,33,23,26,29,NULL,30,27,32,18,NULL,NBA
+77,140409001,1993,"Sat, Apr 9",Atlanta Hawks,Washington Bullets,"52-23, 33-5 Home","22-53, 7-31 Away",117,103,NULL,NULL,Final,NULL,32,30,31,24,NULL,27,28,20,28,NULL,NBA
+78,140415015,1993,"Fri, Apr 15",Milwaukee Bucks,Atlanta Hawks,"19-58, 10-28 Home","54-23, 20-18 Away",96,105,NULL,NULL,Final,NULL,20,34,19,23,NULL,22,29,31,23,NULL,NBA
+79,140418004,1993,"Mon, Apr 18",Chicago Bulls,Atlanta Hawks,"55-25, 31-8 Home","55-24, 20-19 Away",87,70,NULL,NULL,Final,NULL,24,20,19,24,NULL,11,23,21,15,NULL,NBA
+80,140421014,1993,"Thu, Apr 21",Miami Heat,Atlanta Hawks,"42-39, 22-19 Home","56-25, 21-20 Away",94,89,NULL,NULL,Final,NULL,26,18,26,24,NULL,17,21,25,26,NULL,NBA
+81,140423001,1993,"Sat, Apr 23",Atlanta Hawks,Orlando Magic,"57-25, 36-5 Home","49-32, 19-22 Away",93,89,NULL,NULL,Final,NULL,24,23,25,21,NULL,20,28,22,19,NULL,NBA

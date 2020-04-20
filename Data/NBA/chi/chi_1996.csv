@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,151104004,1996,"Sat, Nov 4",Chicago Bulls,Boston Celtics,"2-0, 2-0 Home","0-2, 0-1 Away",107,85,NULL,NULL,Final,NULL,25,21,35,26,NULL,12,28,19,26,NULL,NBA
+1,151109005,1996,"Thu, Nov 9",Cleveland Cavaliers,Chicago Bulls,"0-4, 0-2 Home","4-0, 1-0 Away",88,106,NULL,NULL,Final,NULL,24,23,22,19,NULL,28,23,23,32,NULL,NBA
+2,151114019,1996,"Tue, Nov 14",Orlando Magic,Chicago Bulls,"6-1, 5-0 Home","5-1, 1-1 Away",94,88,NULL,NULL,Final,NULL,19,26,23,26,NULL,29,19,14,26,NULL,NBA
+3,151117004,1996,"Fri, Nov 17",Chicago Bulls,New Jersey Nets,"7-1, 6-0 Home","3-4, 0-4 Away",109,94,NULL,NULL,Final,NULL,36,25,24,24,NULL,25,27,20,22,NULL,NBA
+4,151122024,1996,"Wed, Nov 22",San Antonio Spurs,Chicago Bulls,"6-3, 3-2 Home","9-1, 3-1 Away",94,103,NULL,NULL,Final,NULL,20,30,21,23,NULL,27,27,31,18,NULL,NBA
+5,151126025,1996,"Sun, Nov 26",Seattle SuperSonics,Chicago Bulls,"9-5, 5-0 Home","10-2, 4-2 Away",97,92,NULL,NULL,Final,NULL,24,27,26,20,NULL,35,29,11,17,NULL,NBA
+6,151130029,1996,"Thu, Nov 30",Vancouver Grizzlies,Chicago Bulls,"2-13, 1-4 Home","12-2, 6-2 Away",88,94,NULL,NULL,Final,NULL,23,19,22,24,NULL,25,19,18,32,NULL,NBA
+7,151206004,1996,"Wed, Dec 6",Chicago Bulls,New York Knicks,"14-2, 7-0 Home","13-5, 7-3 Away",101,94,NULL,NULL,Final,NULL,23,20,29,29,NULL,30,26,17,21,NULL,NBA
+8,151209015,1996,"Sat, Dec 9",Milwaukee Bucks,Chicago Bulls,"6-11, 3-6 Home","16-2, 8-2 Away",106,118,NULL,NULL,Final,NULL,29,27,27,23,NULL,33,32,25,28,NULL,NBA
+9,151214001,1996,"Thu, Dec 14",Atlanta Hawks,Chicago Bulls,"10-12, 4-7 Home","18-2, 9-2 Away",108,127,NULL,NULL,Final,NULL,27,28,20,33,NULL,35,30,28,34,NULL,NBA
+10,151218002,1996,"Mon, Dec 18",Boston Celtics,Chicago Bulls,"11-11, 6-9 Home","20-2, 10-2 Away",114,123,NULL,NULL,Final,NULL,31,33,22,28,NULL,29,24,36,34,NULL,NBA
+11,151222004,1996,"Fri, Dec 22",Chicago Bulls,Toronto Raptors,"22-2, 12-0 Home","8-19, 2-11 Away",113,104,NULL,NULL,Final,NULL,31,23,23,36,NULL,22,22,30,30,NULL,NBA
+12,151226011,1996,"Tue, Dec 26",Indiana Pacers,Chicago Bulls,"14-11, 9-3 Home","23-3, 10-3 Away",103,97,NULL,NULL,Final,NULL,30,29,20,24,NULL,18,22,25,32,NULL,NBA
+13,151230004,1996,"Sat, Dec 30",Chicago Bulls,Atlanta Hawks,"25-3, 15-0 Home","13-15, 6-7 Away",95,93,NULL,NULL,Final,NULL,22,17,35,21,NULL,19,25,18,31,NULL,NBA
+14,160104003,1996,"Thu, Jan 4",Charlotte Hornets,Chicago Bulls,"14-17, 10-4 Home","27-3, 11-3 Away",93,117,NULL,NULL,Final,NULL,25,22,21,25,NULL,27,25,35,30,NULL,NBA
+15,160110004,1996,"Wed, Jan 10",Chicago Bulls,Seattle SuperSonics,"29-3, 18-0 Home","23-10, 10-9 Away",113,87,NULL,NULL,Final,NULL,26,25,31,31,NULL,28,17,20,22,NULL,NBA
+16,160115027,1996,"Mon, Jan 15",Washington Bullets,Chicago Bulls,"18-18, 12-6 Home","31-3, 13-3 Away",109,116,NULL,NULL,Final,NULL,25,33,31,20,NULL,32,32,23,29,NULL,NBA
+17,160118028,1996,"Thu, Jan 18",Toronto Raptors,Chicago Bulls,"10-28, 8-12 Home","33-3, 14-3 Away",89,92,NULL,NULL,Final,NULL,20,25,19,25,NULL,21,17,29,25,NULL,NBA
+18,160123018,1996,"Tue, Jan 23",New York Knicks,Chicago Bulls,"24-15, 13-8 Home","35-3, 16-3 Away",79,99,NULL,NULL,Final,NULL,20,19,17,23,NULL,28,20,28,23,NULL,NBA
+19,160126004,1996,"Fri, Jan 26",Chicago Bulls,Miami Heat,"37-3, 21-0 Home","18-23, 6-16 Away",102,80,NULL,NULL,Final,NULL,22,26,29,25,NULL,12,17,24,27,NULL,NBA
+20,160130010,1996,"Tue, Jan 30",Houston Rockets,Chicago Bulls,"29-16, 15-6 Home","39-3, 17-3 Away",87,98,NULL,NULL,Final,NULL,28,16,27,16,NULL,22,32,19,25,NULL,NBA
+21,160202013,1996,"Fri, Feb 2",Los Angeles Lakers,Chicago Bulls,"25-19, 16-7 Home","41-3, 19-3 Away",84,99,NULL,NULL,Final,NULL,28,13,18,25,NULL,28,26,26,19,NULL,NBA
+22,160206021,1996,"Tue, Feb 6",Phoenix Suns,Chicago Bulls,"21-24, 11-12 Home","41-5, 19-5 Away",106,96,NULL,NULL,Final,NULL,20,30,26,30,NULL,33,17,21,25,NULL,NBA
+23,160213004,1996,"Tue, Feb 13",Chicago Bulls,Washington Bullets,"43-5, 23-0 Home","22-25, 6-18 Away",111,98,NULL,NULL,Final,NULL,33,27,24,27,NULL,28,29,19,22,NULL,NBA
+24,160216016,1996,"Fri, Feb 16",Minnesota Timberwolves,Chicago Bulls,"14-34, 9-13 Home","45-5, 22-5 Away",100,103,NULL,NULL,Final,NULL,26,21,30,23,NULL,32,23,31,17,NULL,NBA
+25,160220004,1996,"Tue, Feb 20",Chicago Bulls,Cleveland Cavaliers,"47-5, 24-0 Home","30-21, 12-13 Away",102,76,NULL,NULL,Final,NULL,21,22,26,33,NULL,19,15,24,18,NULL,NBA
+26,160223014,1996,"Fri, Feb 23",Miami Heat,Chicago Bulls,"25-29, 17-11 Home","48-6, 24-6 Away",113,104,NULL,NULL,Final,NULL,31,31,29,22,NULL,21,23,24,36,NULL,NBA
+27,160227004,1996,"Tue, Feb 27",Chicago Bulls,Minnesota Timberwolves,"50-6, 26-0 Home","16-38, 5-23 Away",120,99,NULL,NULL,Final,NULL,29,29,24,38,NULL,25,30,21,23,NULL,NBA
+28,160302004,1996,"Sat, Mar 2",Chicago Bulls,Boston Celtics,"52-6, 28-0 Home","20-38, 9-21 Away",107,75,NULL,NULL,Final,NULL,25,32,19,31,NULL,21,18,16,20,NULL,NBA
+29,160307004,1996,"Thu, Mar 7",Chicago Bulls,Detroit Pistons,"54-6, 30-0 Home","32-27, 14-17 Away",102,81,NULL,NULL,Final,NULL,23,21,32,26,NULL,15,25,28,13,NULL,NBA
+30,160313004,1996,"Wed, Mar 13",Chicago Bulls,Washington Bullets,"55-7, 31-0 Home","28-35, 9-24 Away",103,86,NULL,NULL,Final,NULL,29,22,34,18,NULL,21,24,22,19,NULL,NBA
+31,160316017,1996,"Sat, Mar 16",New Jersey Nets,Chicago Bulls,"25-38, 16-14 Home","57-7, 25-7 Away",93,97,NULL,NULL,Final,NULL,26,26,18,23,NULL,26,20,25,26,NULL,NBA
+32,160319004,1996,"Tue, Mar 19",Chicago Bulls,Sacramento Kings,"59-7, 33-0 Home","28-36, 10-23 Away",89,67,NULL,NULL,Final,NULL,22,24,18,25,NULL,18,15,27,7,NULL,NBA
+33,160324028,1996,"Sun, Mar 24",Toronto Raptors,Chicago Bulls,"18-49, 13-20 Home","60-8, 26-8 Away",109,108,NULL,NULL,Final,NULL,28,28,23,30,NULL,23,31,29,25,NULL,NBA
+34,160330004,1996,"Sat, Mar 30",Chicago Bulls,Los Angeles Clippers,"62-8, 36-0 Home","26-45, 9-25 Away",106,85,NULL,NULL,Final,NULL,28,34,24,20,NULL,16,26,19,24,NULL,NBA
+35,160404004,1996,"Thu, Apr 4",Chicago Bulls,Miami Heat,"64-8, 37-0 Home","37-36, 14-22 Away",100,92,NULL,NULL,Final,NULL,24,21,34,21,NULL,25,23,25,19,NULL,NBA
+36,160407019,1996,"Sun, Apr 7",Orlando Magic,Chicago Bulls,"55-20, 34-3 Home","66-8, 29-8 Away",86,90,NULL,NULL,Final,NULL,21,21,26,18,NULL,28,22,25,15,NULL,NBA
+37,160411017,1996,"Thu, Apr 11",New Jersey Nets,Chicago Bulls,"29-48, 19-19 Home","67-9, 30-8 Away",100,113,NULL,NULL,Final,NULL,20,18,34,28,NULL,29,25,31,28,NULL,NBA
+38,160414005,1996,"Sun, Apr 14",Cleveland Cavaliers,Chicago Bulls,"44-34, 24-15 Home","69-9, 31-8 Away",72,98,NULL,NULL,Final,NULL,17,18,14,23,NULL,24,22,25,27,NULL,NBA
+39,160418004,1996,"Thu, Apr 18",Chicago Bulls,Detroit Pistons,"71-9, 39-1 Home","45-35, 16-24 Away",110,79,NULL,NULL,Final,NULL,30,29,23,28,NULL,17,26,21,15,NULL,NBA
+40,151103004,1996,"Fri, Nov 3",Chicago Bulls,Charlotte Hornets,"1-0, 1-0 Home","0-1, 0-1 Away",105,91,NULL,NULL,Final,NULL,26,14,40,25,NULL,27,21,18,25,NULL,NBA
+41,151107004,1996,"Tue, Nov 7",Chicago Bulls,Toronto Raptors,"3-0, 3-0 Home","1-2, 0-2 Away",117,108,NULL,NULL,Final,NULL,30,29,30,28,NULL,30,32,25,21,NULL,NBA
+42,151111004,1996,"Sat, Nov 11",Chicago Bulls,Portland Trail Blazers,"5-0, 4-0 Home","2-4, 1-3 Away",110,106,NULL,NULL,Final,NULL,31,23,29,27,NULL,21,31,32,22,NULL,NBA
+43,151115004,1996,"Wed, Nov 15",Chicago Bulls,Cleveland Cavaliers,"6-1, 5-0 Home","0-7, 0-4 Away",113,94,NULL,NULL,Final,NULL,31,27,33,22,NULL,15,20,31,28,NULL,NBA
+44,151121006,1996,"Tue, Nov 21",Dallas Mavericks,Chicago Bulls,"5-5, 3-2 Home","8-1, 2-1 Away",102,108,NULL,NULL,Final/OT,NULL,20,25,28,21,8,19,25,20,30,14,NBA
+45,151124026,1996,"Fri, Nov 24",Utah Jazz,Chicago Bulls,"10-3, 6-1 Home","10-1, 4-1 Away",85,90,NULL,NULL,Final,NULL,19,23,20,23,NULL,25,22,20,23,NULL,NBA
+46,151127022,1996,"Mon, Nov 27",Portland Trail Blazers,Chicago Bulls,"6-7, 4-3 Home","11-2, 5-2 Away",104,107,NULL,NULL,Final,NULL,19,29,20,36,NULL,20,26,35,26,NULL,NBA
+47,151202012,1996,"Sat, Dec 2",Los Angeles Clippers,Chicago Bulls,"7-9, 5-3 Home","13-2, 7-2 Away",98,104,NULL,NULL,Final,NULL,12,29,38,19,NULL,30,26,26,22,NULL,NBA
+48,151208004,1996,"Fri, Dec 8",Chicago Bulls,San Antonio Spurs,"15-2, 8-0 Home","11-5, 5-3 Away",106,87,NULL,NULL,Final,NULL,28,25,26,27,NULL,19,27,23,18,NULL,NBA
+49,151213004,1996,"Wed, Dec 13",Chicago Bulls,Orlando Magic,"17-2, 9-0 Home","17-5, 6-5 Away",112,103,NULL,NULL,Final,NULL,29,32,19,32,NULL,26,23,16,38,NULL,NBA
+50,151216004,1996,"Sat, Dec 16",Chicago Bulls,Los Angeles Lakers,"19-2, 10-0 Home","12-12, 3-10 Away",108,88,NULL,NULL,Final,NULL,28,30,23,27,NULL,18,27,25,18,NULL,NBA
+51,151219004,1996,"Tue, Dec 19",Chicago Bulls,Dallas Mavericks,"21-2, 11-0 Home","7-15, 3-9 Away",114,101,NULL,NULL,Final,NULL,21,38,28,27,NULL,26,26,22,27,NULL,NBA
+52,151223004,1996,"Sat, Dec 23",Chicago Bulls,Utah Jazz,"23-2, 13-0 Home","17-9, 9-6 Away",100,86,NULL,NULL,Final,NULL,26,24,28,22,NULL,26,16,20,24,NULL,NBA
+53,151229004,1996,"Fri, Dec 29",Chicago Bulls,Indiana Pacers,"24-3, 14-0 Home","15-12, 5-9 Away",120,93,NULL,NULL,Final,NULL,30,29,29,32,NULL,21,33,17,22,NULL,NBA
+54,160103004,1996,"Wed, Jan 3",Chicago Bulls,Houston Rockets,"26-3, 16-0 Home","23-9, 11-7 Away",100,86,NULL,NULL,Final,NULL,15,32,28,25,NULL,18,12,24,32,NULL,NBA
+55,160106004,1996,"Sat, Jan 6",Chicago Bulls,Milwaukee Bucks,"28-3, 17-0 Home","12-19, 5-11 Away",113,84,NULL,NULL,Final,NULL,31,18,27,37,NULL,17,23,21,23,NULL,NBA
+56,160113020,1996,"Sat, Jan 13",Philadelphia 76ers,Chicago Bulls,"7-26, 4-12 Home","30-3, 12-3 Away",93,120,NULL,NULL,Final,NULL,20,27,21,25,NULL,29,25,44,22,NULL,NBA
+57,160116004,1996,"Tue, Jan 16",Chicago Bulls,Philadelphia 76ers,"32-3, 19-0 Home","7-27, 3-15 Away",116,104,NULL,NULL,Final,NULL,35,34,29,18,NULL,22,25,32,25,NULL,NBA
+58,160121008,1996,"Sun, Jan 21",Detroit Pistons,Chicago Bulls,"19-18, 13-7 Home","34-3, 15-3 Away",96,111,NULL,NULL,Final,NULL,24,15,26,31,NULL,31,23,31,26,NULL,NBA
+59,160124004,1996,"Wed, Jan 24",Chicago Bulls,Vancouver Grizzlies,"36-3, 20-0 Home","9-31, 2-17 Away",104,84,NULL,NULL,Final,NULL,32,22,26,24,NULL,17,23,27,17,NULL,NBA
+60,160128004,1996,"Sun, Jan 28",Chicago Bulls,Phoenix Suns,"38-3, 22-0 Home","17-23, 7-11 Away",93,82,NULL,NULL,Final,NULL,21,26,24,22,NULL,19,33,16,14,NULL,NBA
+61,160201023,1996,"Thu, Feb 1",Sacramento Kings,Chicago Bulls,"23-17, 15-6 Home","40-3, 18-3 Away",85,105,NULL,NULL,Final,NULL,25,19,25,16,NULL,33,19,28,25,NULL,NBA
+62,160204007,1996,"Sun, Feb 4",Denver Nuggets,Chicago Bulls,"19-26, 11-9 Home","41-4, 19-4 Away",105,99,NULL,NULL,Final,NULL,34,34,16,21,NULL,20,23,39,17,NULL,NBA
+63,160207009,1996,"Wed, Feb 7",Golden State Warriors,Chicago Bulls,"21-26, 13-10 Home","42-5, 20-5 Away",95,99,NULL,NULL,Final,NULL,24,28,20,23,NULL,20,26,22,31,NULL,NBA
+64,160215008,1996,"Thu, Feb 15",Detroit Pistons,Chicago Bulls,"24-23, 15-9 Home","44-5, 21-5 Away",109,112,NULL,NULL,Final/OT,NULL,28,18,24,31,8,33,22,24,22,11,NBA
+65,160218011,1996,"Sun, Feb 18",Indiana Pacers,Chicago Bulls,"32-19, 19-5 Home","46-5, 23-5 Away",102,110,NULL,NULL,Final,NULL,29,22,23,28,NULL,25,28,30,27,NULL,NBA
+66,160222001,1996,"Thu, Feb 22",Atlanta Hawks,Chicago Bulls,"28-24, 17-11 Home","48-5, 24-5 Away",91,96,NULL,NULL,Final,NULL,29,25,17,20,NULL,25,16,33,22,NULL,NBA
+67,160225004,1996,"Sun, Feb 25",Chicago Bulls,Orlando Magic,"49-6, 25-0 Home","40-15, 12-15 Away",111,91,NULL,NULL,Final,NULL,28,25,21,37,NULL,30,23,17,21,NULL,NBA
+68,160301004,1996,"Fri, Mar 1",Chicago Bulls,Golden State Warriors,"51-6, 27-0 Home","26-31, 10-21 Away",110,87,NULL,NULL,Final,NULL,22,29,27,32,NULL,19,27,19,22,NULL,NBA
+69,160305004,1996,"Tue, Mar 5",Chicago Bulls,Milwaukee Bucks,"53-6, 29-0 Home","21-37, 9-19 Away",115,106,NULL,NULL,Final,NULL,34,22,38,21,NULL,17,27,27,35,NULL,NBA
+70,160310018,1996,"Sun, Mar 10",New York Knicks,Chicago Bulls,"35-26, 21-11 Home","54-7, 24-7 Away",104,72,NULL,NULL,Final,NULL,31,19,26,28,NULL,19,23,18,12,NULL,NBA
+71,160315004,1996,"Fri, Mar 15",Chicago Bulls,Denver Nuggets,"56-7, 32-0 Home","27-36, 8-23 Away",108,87,NULL,NULL,Final,NULL,32,21,30,25,NULL,20,24,22,21,NULL,NBA
+72,160318020,1996,"Mon, Mar 18",Philadelphia 76ers,Chicago Bulls,"13-52, 8-25 Home","58-7, 26-7 Away",94,98,NULL,NULL,Final,NULL,21,25,24,24,NULL,22,26,20,30,NULL,NBA
+73,160321004,1996,"Thu, Mar 21",Chicago Bulls,New York Knicks,"60-7, 34-0 Home","38-27, 15-16 Away",107,86,NULL,NULL,Final,NULL,29,32,18,28,NULL,25,16,19,26,NULL,NBA
+74,160328004,1996,"Thu, Mar 28",Chicago Bulls,Atlanta Hawks,"61-8, 35-0 Home","39-30, 16-19 Away",111,80,NULL,NULL,Final,NULL,31,31,24,25,NULL,18,19,17,26,NULL,NBA
+75,160402014,1996,"Tue, Apr 2",Miami Heat,Chicago Bulls,"37-35, 23-14 Home","63-8, 27-8 Away",92,110,NULL,NULL,Final,NULL,23,19,24,26,NULL,26,28,24,32,NULL,NBA
+76,160405003,1996,"Fri, Apr 5",Charlotte Hornets,Chicago Bulls,"37-37, 25-13 Home","65-8, 28-8 Away",92,126,NULL,NULL,Final,NULL,15,19,31,27,NULL,42,31,25,28,NULL,NBA
+77,160408004,1996,"Mon, Apr 8",Chicago Bulls,Charlotte Hornets,"66-9, 37-1 Home","39-37, 14-24 Away",97,98,NULL,NULL,Final,NULL,21,29,22,25,NULL,17,23,35,23,NULL,NBA
+78,160412004,1996,"Fri, Apr 12",Chicago Bulls,Philadelphia 76ers,"68-9, 38-1 Home","16-62, 6-34 Away",112,82,NULL,NULL,Final,NULL,20,29,35,28,NULL,21,16,22,23,NULL,NBA
+79,160416015,1996,"Tue, Apr 16",Milwaukee Bucks,Chicago Bulls,"24-55, 14-26 Home","70-9, 32-8 Away",80,86,NULL,NULL,Final,NULL,25,24,19,12,NULL,28,12,22,24,NULL,NBA
+80,160420004,1996,"Sat, Apr 20",Chicago Bulls,Indiana Pacers,"71-10, 39-2 Home","51-30, 20-21 Away",99,100,NULL,NULL,Final,NULL,30,20,27,22,NULL,27,25,25,23,NULL,NBA
+81,160421027,1996,"Sun, Apr 21",Washington Bullets,Chicago Bulls,"39-43, 25-16 Home","72-10, 33-8 Away",93,103,NULL,NULL,Final,NULL,22,30,23,18,NULL,31,20,29,23,NULL,NBA

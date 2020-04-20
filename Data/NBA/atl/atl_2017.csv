@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,400899476,2017,"Sat, Oct 29",Philadelphia 76ers,Atlanta Hawks,"0-2, 0-2 Home","2-0, 1-0 Away",72,104,NULL,NULL,Final,NULL,24,15,19,14,NULL,29,24,21,30,NULL,NBA
+1,400899509,2017,"Wed, Nov 2",Atlanta Hawks,Los Angeles Lakers,"3-1, 2-1 Home","2-3, 1-3 Away",116,123,NULL,NULL,Final,NULL,37,23,34,22,NULL,28,23,39,33,NULL,NBA
+2,400899534,2017,"Sat, Nov 5",Atlanta Hawks,Houston Rockets,"4-2, 3-1 Home","3-3, 2-3 Away",112,97,NULL,NULL,Final,NULL,30,35,28,19,NULL,30,29,25,13,NULL,NBA
+3,400899561,2017,"Wed, Nov 9",Atlanta Hawks,Chicago Bulls,"6-2, 4-1 Home","4-4, 1-3 Away",115,107,NULL,NULL,Final,NULL,35,33,26,21,NULL,27,34,27,19,NULL,NBA
+4,400899604,2017,"Tue, Nov 15",Miami Heat,Atlanta Hawks,"2-8, 1-5 Home","8-2, 3-1 Away",90,93,NULL,NULL,Final,NULL,25,18,24,23,NULL,22,27,23,21,NULL,NBA
+5,400899624,2017,"Fri, Nov 18",Charlotte Hornets,Atlanta Hawks,"8-3, 4-2 Home","9-3, 3-2 Away",100,96,NULL,NULL,Final,NULL,29,19,27,25,NULL,28,17,35,16,NULL,NBA
+6,400899659,2017,"Tue, Nov 22",Atlanta Hawks,New Orleans Pelicans,"9-5, 6-2 Home","5-10, 2-5 Away",94,112,NULL,NULL,Final,NBATV,14,30,27,23,NULL,34,32,29,17,NULL,NBA
+7,400899681,2017,"Fri, Nov 25",Utah Jazz,Atlanta Hawks,"9-8, 4-3 Home","10-6, 4-4 Away",95,68,NULL,NULL,Final,NULL,24,24,13,34,NULL,23,11,14,20,NULL,NBA
+8,400899709,2017,"Mon, Nov 28",Golden State Warriors,Atlanta Hawks,"16-2, 7-1 Home","10-8, 4-6 Away",105,100,NULL,NULL,Final,NULL,29,21,30,25,NULL,27,26,28,19,NULL,NBA
+9,400899730,2017,"Fri, Dec 2",Atlanta Hawks,Detroit Pistons,"10-10, 6-3 Home","11-10, 4-8 Away",85,121,NULL,NULL,Final,NULL,24,15,18,28,NULL,27,31,32,31,NULL,NBA
+10,400899749,2017,"Mon, Dec 5",Atlanta Hawks,Oklahoma City Thunder,"10-12, 6-4 Home","14-8, 5-4 Away",99,102,NULL,NULL,Final,NULL,21,33,15,30,NULL,23,32,28,19,NULL,NBA
+11,400899782,2017,"Fri, Dec 9",Milwaukee Bucks,Atlanta Hawks,"11-10, 8-6 Home","12-12, 5-8 Away",110,114,NULL,NULL,Final,NULL,30,34,28,18,NULL,23,21,40,30,NULL,NBA
+12,400899834,2017,"Fri, Dec 16",Toronto Raptors,Atlanta Hawks,"18-8, 10-5 Home","13-13, 6-8 Away",121,125,NULL,NULL,Final,NULL,27,25,30,39,NULL,35,34,26,30,NULL,NBA
+13,400899857,2017,"Mon, Dec 19",Oklahoma City Thunder,Atlanta Hawks,"16-12, 11-6 Home","14-14, 7-8 Away",108,110,NULL,NULL,Final,NULL,16,37,25,30,NULL,22,26,33,29,NULL,NBA
+14,400899893,2017,"Fri, Dec 23",Denver Nuggets,Atlanta Hawks,"12-18, 6-8 Home","15-15, 8-8 Away",108,109,NULL,NULL,Final,NULL,29,26,27,26,NULL,29,22,31,27,NULL,NBA
+15,400899920,2017,"Wed, Dec 28",Atlanta Hawks,New York Knicks,"16-16, 8-7 Home","16-15, 5-10 Away",102,98,NULL,NULL,Final/OT,NULL,22,23,20,20,17,25,22,19,19,13,NBA
+16,400899374,2017,"Sun, Jan 1",Atlanta Hawks,San Antonio Spurs,"18-16, 10-7 Home","27-7, 16-3 Away",114,112,NULL,NULL,Final/OT,NBATV,25,19,25,31,14,27,19,28,26,12,NBA
+17,400899960,2017,"Thu, Jan 5",New Orleans Pelicans,Atlanta Hawks,"14-23, 10-11 Home","20-16, 10-9 Away",94,99,NULL,NULL,Final,NULL,28,19,25,22,NULL,23,19,33,24,NULL,NBA
+18,400899994,2017,"Tue, Jan 10",Brooklyn Nets,Atlanta Hawks,"8-29, 7-12 Home","22-16, 12-9 Away",97,117,NULL,NULL,Final,NULL,29,14,27,27,NULL,35,26,25,31,NULL,NBA
+19,400900028,2017,"Sun, Jan 15",Atlanta Hawks,Milwaukee Bucks,"23-17, 11-8 Home","20-19, 8-10 Away",111,98,NULL,NULL,Final,NULL,36,24,28,23,NULL,36,17,30,15,NULL,NBA
+20,400900054,2017,"Wed, Jan 18",Detroit Pistons,Atlanta Hawks,"20-24, 11-9 Home","24-18, 13-10 Away",118,95,NULL,NULL,Final,NULL,42,27,25,24,NULL,18,27,23,27,NULL,NBA
+21,400900074,2017,"Sat, Jan 21",Atlanta Hawks,Philadelphia 76ers,"26-18, 13-8 Home","15-27, 5-13 Away",110,93,NULL,NULL,Final,NULL,25,37,28,20,NULL,25,29,23,16,NULL,NBA
+22,400900104,2017,"Wed, Jan 25",Chicago Bulls,Atlanta Hawks,"23-24, 14-10 Home","27-19, 14-10 Away",114,119,NULL,NULL,Final,NULL,29,30,24,31,NULL,22,29,27,41,NULL,NBA
+23,400900132,2017,"Sun, Jan 29",Atlanta Hawks,New York Knicks,"28-20, 14-10 Home","21-28, 8-17 Away",142,139,NULL,NULL,Final/4OT,NULL,30,31,22,21,38,37,28,16,23,35,NBA
+24,400899449,2017,"Thu, Feb 2",Houston Rockets,Atlanta Hawks,"36-17, 18-6 Home","29-21, 15-11 Away",108,113,NULL,NULL,Final,TNT,32,18,36,22,NULL,26,21,26,40,NULL,NBA
+25,400900177,2017,"Mon, Feb 6",Atlanta Hawks,Utah Jazz,"30-22, 15-11 Home","33-19, 14-10 Away",95,120,NULL,NULL,Final,NULL,21,29,23,22,NULL,29,25,37,29,NULL,NBA
+26,400900211,2017,"Fri, Feb 10",Sacramento Kings,Atlanta Hawks,"22-32, 11-15 Home","31-23, 15-12 Away",108,107,NULL,NULL,Final,NULL,17,26,31,34,NULL,28,31,25,23,NULL,NBA
+27,400900252,2017,"Wed, Feb 15",LA Clippers,Atlanta Hawks,"35-21, 18-8 Home","32-24, 16-13 Away",99,84,NULL,NULL,Final,NULL,21,33,29,16,NULL,22,18,24,20,NULL,NBA
+28,400900273,2017,"Sat, Feb 25",Orlando Magic,Atlanta Hawks,"22-38, 10-19 Home","32-26, 16-14 Away",105,86,NULL,NULL,Final,NULL,22,27,31,25,NULL,19,27,19,21,NULL,NBA
+29,400899398,2017,"Wed, Mar 1",Atlanta Hawks,Dallas Mavericks,"34-26, 17-12 Home","24-36, 8-22 Away",100,95,NULL,NULL,Final,NULL,27,36,18,19,NULL,22,30,24,19,NULL,NBA
+30,400900322,2017,"Sun, Mar 5",Atlanta Hawks,Indiana Pacers,"34-28, 17-14 Home","32-30, 11-20 Away",96,97,NULL,NULL,Final,NULL,30,20,24,22,NULL,19,31,31,16,NULL,NBA
+31,400900345,2017,"Wed, Mar 8",Atlanta Hawks,Brooklyn Nets,"35-29, 18-15 Home","11-52, 4-28 Away",110,105,NULL,NULL,Final,NULL,23,23,35,29,NULL,27,23,30,25,NULL,NBA
+32,400900376,2017,"Sat, Mar 11",Memphis Grizzlies,Atlanta Hawks,"36-30, 19-14 Home","37-29, 18-14 Away",90,107,NULL,NULL,Final,NULL,15,20,22,33,NULL,33,14,30,30,NULL,NBA
+33,400900412,2017,"Thu, Mar 16",Atlanta Hawks,Memphis Grizzlies,"37-31, 19-16 Home","39-30, 19-16 Away",91,103,NULL,NULL,Final,NULL,28,24,13,26,NULL,26,29,23,25,NULL,NBA
+34,400900439,2017,"Mon, Mar 20",Charlotte Hornets,Atlanta Hawks,"31-39, 20-15 Home","37-33, 18-16 Away",105,90,NULL,NULL,Final,NULL,19,32,32,22,NULL,19,23,26,22,NULL,NBA
+35,400900473,2017,"Fri, Mar 24",Milwaukee Bucks,Atlanta Hawks,"37-35, 21-16 Home","37-35, 18-18 Away",100,97,NULL,NULL,Final,NBATV,29,16,27,28,NULL,21,22,31,23,NULL,NBA
+36,400900501,2017,"Tue, Mar 28",Atlanta Hawks,Phoenix Suns,"38-36, 20-18 Home","22-53, 9-30 Away",95,91,NULL,NULL,Final,NULL,27,20,24,24,NULL,12,32,24,23,NULL,NBA
+37,400899390,2017,"Sat, Apr 1",Chicago Bulls,Atlanta Hawks,"37-39, 23-16 Home","39-37, 19-19 Away",106,104,NULL,NULL,Final,NULL,23,29,27,27,NULL,21,25,38,20,NULL,NBA
+38,400900555,2017,"Thu, Apr 6",Atlanta Hawks,Boston Celtics,"40-38, 21-18 Home","50-29, 22-18 Away",123,116,NULL,NULL,Final,TNT,32,39,28,24,NULL,24,31,34,27,NULL,NBA
+39,400900575,2017,"Sun, Apr 9",Atlanta Hawks,Cleveland Cavaliers,"42-38, 22-18 Home","51-29, 20-20 Away",126,125,NULL,NULL,Final/OT,NBATV,21,25,21,44,15,38,27,28,18,14,NBA
+40,400899420,2017,"Thu, Oct 27",Atlanta Hawks,Washington Wizards,"1-0, 1-0 Home","0-1, 0-1 Away",114,99,NULL,NULL,Final,NULL,29,28,24,33,NULL,27,29,24,19,NULL,NBA
+41,400899494,2017,"Mon, Oct 31",Atlanta Hawks,Sacramento Kings,"3-0, 2-0 Home","2-2, 1-1 Away",106,95,NULL,NULL,Final,NULL,22,31,26,27,NULL,15,29,37,14,NULL,NBA
+42,400899520,2017,"Fri, Nov 4",Washington Wizards,Atlanta Hawks,"1-3, 1-1 Home","3-2, 1-1 Away",95,92,NULL,NULL,Final,NULL,19,29,23,24,NULL,19,16,28,29,NULL,NBA
+43,400899550,2017,"Tue, Nov 8",Cleveland Cavaliers,Atlanta Hawks,"6-1, 4-1 Home","5-2, 2-1 Away",106,110,NULL,NULL,Final,NBATV,20,22,37,27,NULL,20,33,31,26,NULL,NBA
+44,400899582,2017,"Sat, Nov 12",Atlanta Hawks,Philadelphia 76ers,"7-2, 5-1 Home","1-8, 0-3 Away",117,96,NULL,NULL,Final,NULL,23,36,28,30,NULL,27,21,30,18,NULL,NBA
+45,400899613,2017,"Wed, Nov 16",Atlanta Hawks,Milwaukee Bucks,"9-2, 6-1 Home","5-5, 1-3 Away",107,100,NULL,NULL,Final,NULL,21,31,32,23,NULL,26,9,35,30,NULL,NBA
+46,400899643,2017,"Sun, Nov 20",New York Knicks,Atlanta Hawks,"6-7, 5-2 Home","9-4, 3-3 Away",104,94,NULL,NULL,Final,NULL,24,22,29,29,NULL,20,21,25,28,NULL,NBA
+47,400899666,2017,"Wed, Nov 23",Indiana Pacers,Atlanta Hawks,"7-9, 6-4 Home","10-5, 4-3 Away",85,96,NULL,NULL,Final,NULL,24,20,22,19,NULL,31,18,25,22,NULL,NBA
+48,400899702,2017,"Sun, Nov 27",Los Angeles Lakers,Atlanta Hawks,"9-9, 6-4 Home","10-7, 4-5 Away",109,94,NULL,NULL,Final,NULL,21,35,28,25,NULL,32,16,29,17,NULL,NBA
+49,400899724,2017,"Wed, Nov 30",Phoenix Suns,Atlanta Hawks,"6-13, 3-5 Home","10-9, 4-7 Away",109,107,NULL,NULL,Final,NULL,36,14,27,32,NULL,27,21,27,32,NULL,NBA
+50,400899735,2017,"Sat, Dec 3",Toronto Raptors,Atlanta Hawks,"14-6, 8-3 Home","10-11, 4-8 Away",128,84,NULL,NULL,Final,NULL,32,30,24,42,NULL,22,25,23,14,NULL,NBA
+51,400899766,2017,"Wed, Dec 7",Atlanta Hawks,Miami Heat,"11-12, 7-4 Home","7-15, 5-7 Away",103,95,NULL,NULL,Final,NULL,29,24,25,25,NULL,25,21,17,32,NULL,NBA
+52,400899811,2017,"Tue, Dec 13",Atlanta Hawks,Orlando Magic,"12-13, 7-5 Home","11-15, 7-7 Away",120,131,NULL,NULL,Final,NULL,34,28,34,24,NULL,35,37,27,32,NULL,NBA
+53,400899843,2017,"Sat, Dec 17",Atlanta Hawks,Charlotte Hornets,"13-14, 7-6 Home","15-13, 7-7 Away",99,107,NULL,NULL,Final,NULL,22,20,32,25,NULL,22,31,27,27,NULL,NBA
+54,400899872,2017,"Wed, Dec 21",Atlanta Hawks,Minnesota Timberwolves,"14-15, 7-7 Home","9-19, 5-9 Away",84,92,NULL,NULL,Final,NULL,26,18,25,15,NULL,28,21,18,25,NULL,NBA
+55,400899910,2017,"Mon, Dec 26",Minnesota Timberwolves,Atlanta Hawks,"10-21, 5-11 Home","15-16, 8-9 Away",104,90,NULL,NULL,Final,NULL,23,31,35,15,NULL,25,20,20,25,NULL,NBA
+56,400899940,2017,"Fri, Dec 30",Atlanta Hawks,Detroit Pistons,"17-16, 9-7 Home","15-20, 6-12 Away",105,98,NULL,NULL,Final,NULL,19,32,23,31,NULL,19,22,21,36,NULL,NBA
+57,400899951,2017,"Wed, Jan 4",Orlando Magic,Atlanta Hawks,"16-21, 7-12 Home","19-16, 9-9 Away",92,111,NULL,NULL,Final,NULL,26,21,18,27,NULL,23,29,26,33,NULL,NBA
+58,400899978,2017,"Sat, Jan 7",Dallas Mavericks,Atlanta Hawks,"11-26, 7-11 Home","21-16, 11-9 Away",82,97,NULL,NULL,Final,NULL,20,22,17,23,NULL,22,23,21,31,NULL,NBA
+59,400900018,2017,"Fri, Jan 13",Atlanta Hawks,Boston Celtics,"22-17, 10-8 Home","25-15, 13-9 Away",101,103,NULL,NULL,Final,ESPN,18,26,21,36,NULL,28,20,30,25,NULL,NBA
+60,400900034,2017,"Mon, Jan 16",New York Knicks,Atlanta Hawks,"18-24, 12-9 Home","24-17, 13-9 Away",107,108,NULL,NULL,Final,NBATV,27,27,29,24,NULL,26,27,35,20,NULL,NBA
+61,400900068,2017,"Fri, Jan 20",Atlanta Hawks,Chicago Bulls,"25-18, 12-8 Home","21-23, 8-14 Away",102,93,NULL,NULL,Final,NULL,35,30,22,15,NULL,13,23,21,36,NULL,NBA
+62,400900088,2017,"Mon, Jan 23",Atlanta Hawks,LA Clippers,"26-19, 13-9 Home","30-16, 13-9 Away",105,115,NULL,NULL,Final,NULL,21,19,35,30,NULL,30,28,27,30,NULL,NBA
+63,400900123,2017,"Fri, Jan 27",Atlanta Hawks,Washington Wizards,"27-20, 13-10 Home","26-20, 7-14 Away",86,112,NULL,NULL,Final,NULL,25,20,23,18,NULL,37,30,26,19,NULL,NBA
+64,400899397,2017,"Wed, Feb 1",Miami Heat,Atlanta Hawks,"20-30, 12-13 Home","28-21, 14-11 Away",116,93,NULL,NULL,Final,NULL,29,33,32,22,NULL,22,25,24,22,NULL,NBA
+65,400900161,2017,"Sat, Feb 4",Atlanta Hawks,Orlando Magic,"30-21, 15-10 Home","20-33, 11-17 Away",113,86,NULL,NULL,Final,NULL,35,30,26,22,NULL,24,15,26,21,NULL,NBA
+66,400900190,2017,"Wed, Feb 8",Atlanta Hawks,Denver Nuggets,"31-22, 16-11 Home","23-29, 9-17 Away",117,106,NULL,NULL,Final,NULL,39,33,26,19,NULL,30,25,32,19,NULL,NBA
+67,400900235,2017,"Mon, Feb 13",Portland Trail Blazers,Atlanta Hawks,"23-32, 14-13 Home","32-23, 16-12 Away",104,109,NULL,NULL,Final/OT,TNT,28,20,26,23,7,21,21,33,22,12,NBA
+68,400900269,2017,"Fri, Feb 24",Atlanta Hawks,Miami Heat,"32-25, 16-12 Home","26-32, 13-18 Away",90,108,NULL,NULL,Final,NULL,24,25,17,24,NULL,25,38,24,21,NULL,NBA
+69,400900291,2017,"Mon, Feb 27",Boston Celtics,Atlanta Hawks,"38-22, 20-9 Home","33-26, 17-14 Away",98,114,NULL,NULL,Final,NULL,24,23,24,27,NULL,24,27,33,30,NULL,NBA
+70,400900308,2017,"Fri, Mar 3",Atlanta Hawks,Cleveland Cavaliers,"34-27, 17-13 Home","42-18, 16-12 Away",130,135,NULL,NULL,Final,ESPN,33,27,28,42,NULL,39,38,29,29,NULL,NBA
+71,400900332,2017,"Mon, Mar 6",Atlanta Hawks,Golden State Warriors,"34-29, 17-15 Home","52-11, 26-8 Away",111,119,NULL,NULL,Final,NULL,42,24,24,21,NULL,35,26,33,25,NULL,NBA
+72,400900364,2017,"Fri, Mar 10",Atlanta Hawks,Toronto Raptors,"36-29, 19-15 Home","38-27, 17-16 Away",105,99,NULL,NULL,Final,NULL,18,31,25,31,NULL,19,29,27,24,NULL,NBA
+73,400900389,2017,"Mon, Mar 13",San Antonio Spurs,Atlanta Hawks,"52-14, 25-6 Home","37-30, 18-15 Away",107,99,NULL,NULL,Final,TNT,28,26,27,26,NULL,18,25,30,26,NULL,NBA
+74,400900424,2017,"Sat, Mar 18",Atlanta Hawks,Portland Trail Blazers,"37-32, 19-17 Home","31-37, 14-23 Away",97,113,NULL,NULL,Final,NULL,18,28,27,24,NULL,40,23,22,28,NULL,NBA
+75,400900458,2017,"Wed, Mar 22",Washington Wizards,Atlanta Hawks,"43-28, 28-10 Home","37-34, 18-17 Away",104,100,NULL,NULL,Final,ESPN,16,24,27,37,NULL,20,26,21,33,NULL,NBA
+76,400900483,2017,"Sun, Mar 26",Atlanta Hawks,Brooklyn Nets,"37-36, 19-18 Home","16-57, 6-30 Away",92,107,NULL,NULL,Final,NULL,20,28,20,24,NULL,32,23,23,29,NULL,NBA
+77,400900506,2017,"Wed, Mar 29",Philadelphia 76ers,Atlanta Hawks,"28-47, 17-20 Home","39-36, 19-18 Away",92,99,NULL,NULL,Final,NULL,18,25,27,22,NULL,25,27,27,20,NULL,NBA
+78,400899441,2017,"Sun, Apr 2",Brooklyn Nets,Atlanta Hawks,"18-59, 12-28 Home","39-38, 19-20 Away",91,82,NULL,NULL,Final,NULL,29,17,24,21,NULL,24,19,18,21,NULL,NBA
+79,400900557,2017,"Fri, Apr 7",Cleveland Cavaliers,Atlanta Hawks,"51-28, 31-9 Home","41-38, 20-20 Away",100,114,NULL,NULL,Final,NBATV,19,31,28,22,NULL,21,31,31,31,NULL,NBA
+80,400900590,2017,"Tue, Apr 11",Atlanta Hawks,Charlotte Hornets,"43-38, 23-18 Home","36-46, 14-27 Away",103,76,NULL,NULL,Final,NULL,38,25,21,19,NULL,26,18,17,15,NULL,NBA
+81,400900604,2017,"Wed, Apr 12",Indiana Pacers,Atlanta Hawks,"42-40, 29-12 Home","43-39, 20-21 Away",104,86,NULL,NULL,Final,ESPN,22,28,34,20,NULL,15,28,25,18,NULL,NBA

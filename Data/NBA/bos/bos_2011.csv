@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,301027005,2011,"Wed, Oct 27",Cleveland Cavaliers,Boston Celtics,"1-0, 1-0 Home","1-1, 0-1 Away",95,87,NULL,NULL,Final,NULL,21,25,22,27,NULL,23,24,26,14,NULL,NBA
+1,301102008,2011,"Tue, Nov 2",Detroit Pistons,Boston Celtics,"0-4, 0-2 Home","3-1, 1-1 Away",86,109,NULL,NULL,Final,NULL,26,18,24,18,NULL,31,26,31,21,NULL,NBA
+2,301105002,2011,"Fri, Nov 5",Boston Celtics,Chicago Bulls,"5-1, 4-0 Home","2-3, 0-2 Away",110,105,NULL,NULL,Final/OT,ESPN,19,30,23,24,14,23,15,26,32,9,NBA
+3,301108006,2011,"Mon, Nov 8",Dallas Mavericks,Boston Celtics,"4-2, 2-2 Home","6-2, 2-2 Away",89,87,NULL,NULL,Final,NULL,23,27,20,19,NULL,19,21,29,18,NULL,NBA
+4,301113029,2011,"Sat, Nov 13",Memphis Grizzlies,Boston Celtics,"4-6, 2-3 Home","8-2, 4-2 Away",110,116,NULL,NULL,Final/OT,NULL,27,22,24,26,11,27,27,19,26,17,NBA
+5,301119002,2011,"Fri, Nov 19",Boston Celtics,Oklahoma City Thunder,"9-3, 5-1 Home","8-4, 4-1 Away",84,89,NULL,NULL,Final,ESPN,23,23,23,15,NULL,25,24,28,12,NULL,NBA
+6,301122001,2011,"Mon, Nov 22",Atlanta Hawks,Boston Celtics,"8-6, 3-5 Home","10-4, 5-3 Away",76,99,NULL,NULL,Final,NULL,13,29,14,20,NULL,39,25,21,14,NULL,NBA
+7,301126002,2011,"Fri, Nov 26",Boston Celtics,Toronto Raptors,"12-4, 7-1 Home","6-10, 2-7 Away",110,101,NULL,NULL,Final,TSN2,31,27,28,24,NULL,20,32,15,34,NULL,NBA
+8,301201002,2011,"Wed, Dec 1",Boston Celtics,Portland Trail Blazers,"14-4, 8-1 Home","8-10, 4-7 Away",99,95,NULL,NULL,Final,TNT,20,28,31,20,NULL,26,23,23,23,NULL,NBA
+9,301205017,2011,"Sun, Dec 5",New Jersey Nets,Boston Celtics,"6-15, 4-6 Home","16-4, 7-3 Away",75,100,NULL,NULL,Final,NULL,25,12,16,22,NULL,27,30,23,20,NULL,NBA
+10,301209020,2011,"Thu, Dec 9",Philadelphia 76ers,Boston Celtics,"7-15, 6-5 Home","18-4, 8-3 Away",101,102,NULL,NULL,Final,TNT,32,23,25,21,NULL,29,27,25,21,NULL,NBA
+11,301215018,2011,"Wed, Dec 15",New York Knicks,Boston Celtics,"16-10, 6-6 Home","20-4, 10-3 Away",116,118,NULL,NULL,Final,ESPN,32,26,32,26,NULL,24,27,32,35,NULL,NBA
+12,301219002,2011,"Sun, Dec 19",Boston Celtics,Indiana Pacers,"22-4, 12-1 Home","12-14, 5-8 Away",99,88,NULL,NULL,Final,NULL,30,21,18,30,NULL,23,25,17,23,NULL,NBA
+13,301225019,2011,"Sat, Dec 25",Orlando Magic,Boston Celtics,"18-12, 11-5 Home","23-5, 10-4 Away",86,78,NULL,NULL,Final,ABC,19,17,21,29,NULL,20,26,17,15,NULL,NBA
+14,301229008,2011,"Wed, Dec 29",Detroit Pistons,Boston Celtics,"11-21, 8-8 Home","24-6, 11-5 Away",104,92,NULL,NULL,Final,NULL,27,18,29,30,NULL,21,16,25,30,NULL,NBA
+15,310102028,2011,"Sun, Jan 2",Toronto Raptors,Boston Celtics,"11-22, 7-10 Home","25-7, 12-5 Away",79,93,NULL,NULL,Final,TSN2,23,19,20,17,NULL,24,19,28,22,NULL,NBA
+16,310105002,2011,"Wed, Jan 5",Boston Celtics,San Antonio Spurs,"27-7, 15-2 Home","29-6, 10-4 Away",105,103,NULL,NULL,Final,NULL,27,22,28,28,NULL,25,26,21,31,NULL,NBA
+17,310108004,2011,"Sat, Jan 8",Chicago Bulls,Boston Celtics,"24-12, 16-3 Home","28-8, 12-6 Away",90,79,NULL,NULL,Final,NBATV,22,24,21,23,NULL,21,21,22,15,NULL,NBA
+18,310112002,2011,"Wed, Jan 12",Boston Celtics,Sacramento Kings,"29-9, 17-3 Home","8-28, 2-13 Away",119,95,NULL,NULL,Final,NULL,28,29,33,29,NULL,22,27,18,28,NULL,NBA
+19,310117002,2011,"Mon, Jan 17",Boston Celtics,Orlando Magic,"31-9, 19-3 Home","26-15, 11-10 Away",109,106,NULL,NULL,Final,TNT,27,28,26,28,NULL,22,32,27,25,NULL,NBA
+20,310121002,2011,"Fri, Jan 21",Boston Celtics,Utah Jazz,"33-9, 21-3 Home","27-16, 12-9 Away",110,86,NULL,NULL,Final,NULL,30,29,26,25,NULL,19,22,22,23,NULL,NBA
+21,310125002,2011,"Tue, Jan 25",Boston Celtics,Cleveland Cavaliers,"34-10, 22-3 Home","8-37, 3-23 Away",112,95,NULL,NULL,Final,NULL,34,33,24,21,NULL,26,19,24,26,NULL,NBA
+22,310128021,2011,"Fri, Jan 28",Phoenix Suns,Boston Celtics,"21-24, 12-10 Home","35-11, 13-8 Away",88,71,NULL,NULL,Final,ESPN,30,19,26,13,NULL,16,19,23,13,NULL,NBA
+23,310201023,2011,"Tue, Feb 1",Sacramento Kings,Boston Celtics,"12-34, 7-18 Home","37-11, 15-8 Away",90,95,NULL,NULL,Final,NULL,20,34,17,19,NULL,27,18,29,21,NULL,NBA
+24,310206002,2011,"Sun, Feb 6",Boston Celtics,Orlando Magic,"38-12, 23-4 Home","32-20, 14-13 Away",91,80,NULL,NULL,Final,ABC,17,29,24,21,NULL,22,21,18,19,NULL,NBA
+25,310210002,2011,"Thu, Feb 10",Boston Celtics,Los Angeles Lakers,"38-14, 23-5 Home","37-16, 18-8 Away",86,92,NULL,NULL,Final,TNT,27,26,15,18,NULL,20,25,27,20,NULL,NBA
+26,310216002,2011,"Wed, Feb 16",Boston Celtics,New Jersey Nets,"40-14, 25-5 Home","17-40, 4-25 Away",94,80,NULL,NULL,Final,NULL,27,19,24,24,NULL,22,24,24,10,NULL,NBA
+27,310224007,2011,"Thu, Feb 24",Denver Nuggets,Boston Celtics,"34-25, 24-7 Home","41-15, 16-10 Away",89,75,NULL,NULL,Final,TNT,18,19,24,28,NULL,23,13,24,15,NULL,NBA
+28,310228026,2011,"Mon, Feb 28",Utah Jazz,Boston Celtics,"32-29, 17-14 Home","43-15, 18-10 Away",102,107,NULL,NULL,Final,NBATV,21,32,22,27,NULL,30,26,23,28,NULL,NBA
+29,310304002,2011,"Fri, Mar 4",Boston Celtics,Golden State Warriors,"45-15, 27-5 Home","27-34, 8-21 Away",107,103,NULL,NULL,Final,NULL,32,32,24,19,NULL,27,26,28,22,NULL,NBA
+30,310309002,2011,"Wed, Mar 9",Boston Celtics,LA Clippers,"46-16, 27-6 Home","25-40, 7-25 Away",103,108,NULL,NULL,Final,NULL,17,25,24,37,NULL,30,30,16,32,NULL,NBA
+31,310313002,2011,"Sun, Mar 13",Boston Celtics,Milwaukee Bucks,"47-17, 28-6 Home","26-39, 9-23 Away",87,56,NULL,NULL,Final,NBATV,20,19,21,27,NULL,9,13,16,18,NULL,NBA
+32,310316002,2011,"Wed, Mar 16",Boston Celtics,Indiana Pacers,"48-18, 29-6 Home","29-39, 11-24 Away",92,80,NULL,NULL,Final,NULL,15,32,27,18,NULL,20,20,20,20,NULL,NBA
+33,310319003,2011,"Sat, Mar 19",New Orleans Hornets,Boston Celtics,"40-31, 24-11 Home","49-19, 20-13 Away",85,89,NULL,NULL,Final,NULL,28,23,13,21,NULL,14,26,27,22,NULL,NBA
+34,310323002,2011,"Wed, Mar 23",Boston Celtics,Memphis Grizzlies,"50-20, 29-7 Home","40-32, 15-22 Away",87,90,NULL,NULL,Final,NULL,15,30,25,17,NULL,20,24,23,23,NULL,NBA
+35,310327016,2011,"Sun, Mar 27",Minnesota Timberwolves,Boston Celtics,"17-57, 12-25 Home","51-21, 22-13 Away",82,85,NULL,NULL,Final,NULL,13,21,28,20,NULL,32,15,17,21,NULL,NBA
+36,310331024,2011,"Thu, Mar 31",San Antonio Spurs,Boston Celtics,"57-18, 33-5 Home","52-22, 23-14 Away",97,107,NULL,NULL,Final,TNT,33,16,21,27,NULL,31,18,28,30,NULL,NBA
+37,310403002,2011,"Sun, Apr 3",Boston Celtics,Detroit Pistons,"53-23, 30-8 Home","26-50, 7-31 Away",101,90,NULL,NULL,Final,NULL,26,23,33,19,NULL,29,19,18,24,NULL,NBA
+38,310407004,2011,"Thu, Apr 7",Chicago Bulls,Boston Celtics,"58-20, 35-5 Home","54-24, 23-16 Away",97,81,NULL,NULL,Final,TNT,26,22,23,26,NULL,18,25,17,21,NULL,NBA
+39,310410014,2011,"Sun, Apr 10",Miami Heat,Boston Celtics,"56-24, 30-11 Home","55-25, 23-17 Away",100,77,NULL,NULL,Final,ABC,21,26,27,26,NULL,22,18,19,18,NULL,NBA
+40,301026002,2011,"Tue, Oct 26",Boston Celtics,Miami Heat,"1-0, 1-0 Home","0-1, 0-1 Away",88,80,NULL,NULL,Final,TNT,16,29,18,25,NULL,9,21,27,23,NULL,NBA
+41,301029002,2011,"Fri, Oct 29",Boston Celtics,New York Knicks,"2-1, 2-0 Home","1-1, 1-1 Away",105,101,NULL,NULL,Final,NULL,27,23,29,26,NULL,20,26,26,29,NULL,NBA
+42,301103002,2011,"Wed, Nov 3",Boston Celtics,Milwaukee Bucks,"4-1, 3-0 Home","1-4, 0-3 Away",105,102,NULL,NULL,Final/OT,ESPN,25,22,15,29,14,16,31,16,28,11,NBA
+43,301107025,2011,"Sun, Nov 7",Oklahoma City Thunder,Boston Celtics,"3-3, 1-2 Home","6-1, 2-1 Away",83,92,NULL,NULL,Final,NBATV,21,16,27,19,NULL,28,30,15,19,NULL,NBA
+44,301111014,2011,"Thu, Nov 11",Miami Heat,Boston Celtics,"5-4, 3-2 Home","7-2, 3-2 Away",107,112,NULL,NULL,Final,TNT,20,26,32,29,NULL,27,34,27,24,NULL,NBA
+45,301117002,2011,"Wed, Nov 17",Boston Celtics,Washington Wizards,"9-2, 5-0 Home","3-7, 0-5 Away",114,83,NULL,NULL,Final,TNT,33,27,29,25,NULL,28,16,25,14,NULL,NBA
+46,301121028,2011,"Sun, Nov 21",Toronto Raptors,Boston Celtics,"5-9, 3-3 Home","9-4, 4-3 Away",102,101,NULL,NULL,Final,NULL,23,38,21,20,NULL,31,27,17,26,NULL,NBA
+47,301124002,2011,"Wed, Nov 24",Boston Celtics,New Jersey Nets,"11-4, 6-1 Home","5-10, 2-6 Away",89,83,NULL,NULL,Final,NULL,18,20,23,28,NULL,17,29,17,20,NULL,NBA
+48,301130005,2011,"Tue, Nov 30",Cleveland Cavaliers,Boston Celtics,"7-10, 4-5 Home","13-4, 6-3 Away",87,106,NULL,NULL,Final,NULL,23,22,20,22,NULL,21,35,24,26,NULL,NBA
+49,301203002,2011,"Fri, Dec 3",Boston Celtics,Chicago Bulls,"15-4, 9-1 Home","9-8, 4-6 Away",104,92,NULL,NULL,Final,ESPN,31,22,29,22,NULL,19,29,19,25,NULL,NBA
+50,301208002,2011,"Wed, Dec 8",Boston Celtics,Denver Nuggets,"17-4, 10-1 Home","13-8, 3-7 Away",105,89,NULL,NULL,Final,TNT,35,24,21,25,NULL,21,31,17,20,NULL,NBA
+51,301211030,2011,"Sat, Dec 11",Charlotte Bobcats,Boston Celtics,"8-15, 5-6 Home","19-4, 9-3 Away",62,93,NULL,NULL,Final,NULL,16,16,15,15,NULL,20,22,22,29,NULL,NBA
+52,301216002,2011,"Thu, Dec 16",Boston Celtics,Atlanta Hawks,"21-4, 11-1 Home","16-11, 8-6 Away",102,90,NULL,NULL,Final,TNT,22,22,31,27,NULL,20,23,26,21,NULL,NBA
+53,301222002,2011,"Wed, Dec 22",Boston Celtics,Philadelphia 76ers,"23-4, 13-1 Home","11-18, 3-12 Away",84,80,NULL,NULL,Final,CSN,23,15,26,20,NULL,17,27,17,19,NULL,NBA
+54,301228011,2011,"Tue, Dec 28",Indiana Pacers,Boston Celtics,"13-16, 8-8 Home","24-5, 11-4 Away",83,95,NULL,NULL,Final,NULL,26,21,20,16,NULL,19,26,21,29,NULL,NBA
+55,301231002,2011,"Fri, Dec 31",Boston Celtics,New Orleans Hornets,"24-7, 13-2 Home","19-14, 6-10 Away",81,83,NULL,NULL,Final,NULL,19,20,18,24,NULL,23,14,29,17,NULL,NBA
+56,310103002,2011,"Mon, Jan 3",Boston Celtics,Minnesota Timberwolves,"26-7, 14-2 Home","9-26, 2-18 Away",96,93,NULL,NULL,Final,NULL,17,26,27,26,NULL,25,22,26,20,NULL,NBA
+57,310107002,2011,"Fri, Jan 7",Boston Celtics,Toronto Raptors,"28-7, 16-2 Home","12-24, 5-14 Away",122,102,NULL,NULL,Final,TSNT,34,33,27,28,NULL,22,23,32,25,NULL,NBA
+58,310110002,2011,"Mon, Jan 10",Boston Celtics,Houston Rockets,"28-9, 16-3 Home","17-21, 7-14 Away",102,108,NULL,NULL,Final,NBATV,22,27,25,28,NULL,27,23,30,28,NULL,NBA
+59,310114002,2011,"Fri, Jan 14",Boston Celtics,Charlotte Bobcats,"30-9, 18-3 Home","15-22, 4-13 Away",99,94,NULL,NULL,Final,NULL,24,18,27,30,NULL,24,18,24,28,NULL,NBA
+60,310119002,2011,"Wed, Jan 19",Boston Celtics,Detroit Pistons,"32-9, 20-3 Home","15-27, 4-18 Away",86,82,NULL,NULL,Final,NULL,22,20,16,28,NULL,22,23,16,21,NULL,NBA
+61,310122027,2011,"Sat, Jan 22",Washington Wizards,Boston Celtics,"13-29, 13-9 Home","33-10, 12-7 Away",85,83,NULL,NULL,Final,NULL,20,26,24,15,NULL,35,21,16,11,NULL,NBA
+62,310127022,2011,"Thu, Jan 27",Portland Trail Blazers,Boston Celtics,"25-22, 16-7 Home","35-10, 13-7 Away",78,88,NULL,NULL,Final,TNT,18,19,21,20,NULL,21,20,23,24,NULL,NBA
+63,310130013,2011,"Sun, Jan 30",Los Angeles Lakers,Boston Celtics,"33-15, 18-7 Home","36-11, 14-8 Away",96,109,NULL,NULL,Final,ABC,21,33,18,24,NULL,22,28,27,32,NULL,NBA
+64,310204002,2011,"Fri, Feb 4",Boston Celtics,Dallas Mavericks,"37-12, 22-4 Home","34-15, 15-7 Away",97,101,NULL,NULL,Final,ESPN,27,24,26,20,NULL,34,20,23,24,NULL,NBA
+65,310207030,2011,"Mon, Feb 7",Charlotte Bobcats,Boston Celtics,"22-29, 13-13 Home","38-13, 15-9 Away",94,89,NULL,NULL,Final,NULL,25,26,14,29,NULL,29,21,19,20,NULL,NBA
+66,310213002,2011,"Sun, Feb 13",Boston Celtics,Miami Heat,"39-14, 24-5 Home","39-15, 19-10 Away",85,82,NULL,NULL,Final,ABC,15,24,35,11,NULL,20,23,18,21,NULL,NBA
+67,310222009,2011,"Tue, Feb 22",Golden State Warriors,Boston Celtics,"26-30, 19-12 Home","41-14, 16-9 Away",93,115,NULL,NULL,Final,NULL,30,30,18,15,NULL,31,29,28,27,NULL,NBA
+68,310226012,2011,"Sat, Feb 26",LA Clippers,Boston Celtics,"21-39, 16-15 Home","42-15, 17-10 Away",92,99,NULL,NULL,Final,NULL,26,21,21,24,NULL,18,22,34,25,NULL,NBA
+69,310302002,2011,"Wed, Mar 2",Boston Celtics,Phoenix Suns,"44-15, 26-5 Home","31-28, 14-15 Away",115,103,NULL,NULL,Final,NBATV,32,30,29,24,NULL,21,21,30,31,NULL,NBA
+70,310306015,2011,"Sun, Mar 6",Milwaukee Bucks,Boston Celtics,"23-38, 15-16 Home","46-15, 19-10 Away",83,89,NULL,NULL,Final,ESPN,26,23,16,18,NULL,27,16,26,20,NULL,NBA
+71,310311020,2011,"Fri, Mar 11",Philadelphia 76ers,Boston Celtics,"34-31, 22-11 Home","46-17, 19-11 Away",89,86,NULL,NULL,Final,CSN,25,24,23,17,NULL,22,23,23,18,NULL,NBA
+72,310314017,2011,"Mon, Mar 14",New Jersey Nets,Boston Celtics,"22-43, 18-16 Home","47-18, 19-12 Away",88,79,NULL,NULL,Final,NULL,14,22,31,21,NULL,23,15,23,18,NULL,NBA
+73,310318010,2011,"Fri, Mar 18",Houston Rockets,Boston Celtics,"36-34, 20-14 Home","48-19, 19-13 Away",93,77,NULL,NULL,Final,NULL,28,34,19,12,NULL,22,18,16,21,NULL,NBA
+74,310321018,2011,"Mon, Mar 21",New York Knicks,Boston Celtics,"35-35, 19-15 Home","50-19, 21-13 Away",86,96,NULL,NULL,Final,NBATV,25,26,18,17,NULL,22,15,26,33,NULL,NBA
+75,310325002,2011,"Fri, Mar 25",Boston Celtics,Charlotte Bobcats,"50-21, 29-8 Home","29-42, 12-25 Away",81,83,NULL,NULL,Final,NULL,25,17,24,15,NULL,19,18,16,30,NULL,NBA
+76,310328011,2011,"Mon, Mar 28",Indiana Pacers,Boston Celtics,"33-42, 20-16 Home","51-22, 22-14 Away",107,100,NULL,NULL,Final,NULL,27,30,24,26,NULL,33,16,36,15,NULL,NBA
+77,310401001,2011,"Fri, Apr 1",Atlanta Hawks,Boston Celtics,"44-32, 24-15 Home","52-23, 23-15 Away",88,83,NULL,NULL,Final,ESPN,23,21,18,26,NULL,21,31,16,15,NULL,NBA
+78,310405002,2011,"Tue, Apr 5",Boston Celtics,Philadelphia 76ers,"54-23, 31-8 Home","40-38, 15-26 Away",99,82,NULL,NULL,Final,CSN,24,30,21,24,NULL,26,24,15,17,NULL,NBA
+79,310408002,2011,"Fri, Apr 8",Boston Celtics,Washington Wizards,"55-24, 32-8 Home","21-58, 3-37 Away",104,88,NULL,NULL,Final,NULL,28,31,24,21,NULL,23,33,19,13,NULL,NBA
+80,310411027,2011,"Mon, Apr 11",Washington Wizards,Boston Celtics,"23-58, 20-21 Home","55-26, 23-18 Away",95,94,NULL,NULL,Final/OT,NULL,19,18,23,24,11,23,21,16,24,10,NBA
+81,310413002,2011,"Wed, Apr 13",Boston Celtics,New York Knicks,"56-26, 33-8 Home","42-40, 19-22 Away",112,102,NULL,NULL,Final,NULL,27,34,25,26,NULL,28,29,27,18,NULL,NBA

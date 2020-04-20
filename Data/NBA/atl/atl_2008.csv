@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,271104008,2008,"Sun, Nov 4",Detroit Pistons,Atlanta Hawks,"3-0, 1-0 Home","1-1, 0-1 Away",92,91,NULL,NULL,Final,NULL,24,21,15,32,NULL,19,29,21,22,NULL,NBA
+1,271107001,2008,"Wed, Nov 7",Atlanta Hawks,Phoenix Suns,"2-2, 2-0 Home","3-2, 2-1 Away",105,96,NULL,NULL,Final,NULL,32,23,25,25,NULL,27,20,29,20,NULL,NBA
+2,271111001,2008,"Sun, Nov 11",Atlanta Hawks,Washington Wizards,"2-4, 2-1 Home","1-5, 1-3 Away",90,101,NULL,NULL,Final,NULL,23,17,25,25,NULL,26,25,27,23,NULL,NBA
+3,271116001,2008,"Fri, Nov 16",Atlanta Hawks,Seattle SuperSonics,"3-5, 3-2 Home","2-8, 2-4 Away",123,126,NULL,NULL,Final/2OT,NULL,23,22,37,25,16,26,32,26,23,19,NBA
+4,271120001,2008,"Tue, Nov 20",Atlanta Hawks,San Antonio Spurs,"3-7, 3-3 Home","9-2, 3-2 Away",83,95,NULL,NULL,Final,NBATV,20,24,21,18,NULL,29,32,22,12,NULL,NBA
+5,271124016,2008,"Sat, Nov 24",Minnesota Timberwolves,Atlanta Hawks,"1-10, 1-6 Home","5-7, 2-4 Away",87,94,NULL,NULL,Final,NULL,28,35,12,12,NULL,17,28,19,30,NULL,NBA
+6,271128001,2008,"Wed, Nov 28",Atlanta Hawks,Milwaukee Bucks,"6-8, 4-3 Home","7-6, 1-5 Away",96,80,NULL,NULL,Final,NULL,28,24,21,23,NULL,28,14,24,14,NULL,NBA
+7,271203020,2008,"Mon, Dec 3",Philadelphia 76ers,Atlanta Hawks,"5-12, 3-6 Home","7-9, 3-5 Away",79,88,NULL,NULL,Final,NULL,17,29,16,17,NULL,24,21,21,22,NULL,NBA
+8,271206001,2008,"Thu, Dec 6",Atlanta Hawks,Minnesota Timberwolves,"8-10, 5-5 Home","2-15, 1-7 Away",90,89,NULL,NULL,Final,NULL,29,24,8,29,NULL,15,25,27,22,NULL,NBA
+9,271210019,2008,"Mon, Dec 10",Orlando Magic,Atlanta Hawks,"16-6, 5-4 Home","10-10, 4-5 Away",87,98,NULL,NULL,Final,NULL,19,22,22,24,NULL,29,20,20,29,NULL,NBA
+10,271214008,2008,"Fri, Dec 14",Detroit Pistons,Atlanta Hawks,"16-7, 8-2 Home","10-12, 4-6 Away",91,81,NULL,NULL,Final,NULL,21,26,17,27,NULL,16,17,20,28,NULL,NBA
+11,271217001,2008,"Mon, Dec 17",Atlanta Hawks,Utah Jazz,"12-12, 8-6 Home","14-12, 5-10 Away",116,111,NULL,NULL,Final,NULL,25,26,35,30,NULL,31,22,33,25,NULL,NBA
+12,271221027,2008,"Fri, Dec 21",Washington Wizards,Atlanta Hawks,"13-12, 8-6 Home","14-12, 5-6 Away",92,97,NULL,NULL,Final,NULL,21,26,20,25,NULL,25,20,23,29,NULL,NBA
+13,271229006,2008,"Sat, Dec 29",Dallas Mavericks,Atlanta Hawks,"20-11, 14-3 Home","15-13, 5-7 Away",97,84,NULL,NULL,Final,NULL,34,20,21,22,NULL,21,14,25,24,NULL,NBA
+14,280104011,2008,"Fri, Jan 4",Indiana Pacers,Atlanta Hawks,"16-18, 8-9 Home","15-15, 5-9 Away",113,91,NULL,NULL,Final,NULL,24,30,33,26,NULL,20,23,18,30,NULL,NBA
+15,280109001,2008,"Wed, Jan 9",Atlanta Hawks,Cleveland Cavaliers,"16-16, 11-7 Home","18-18, 7-12 Away",90,81,NULL,NULL,Final,NULL,13,23,29,25,NULL,14,18,20,29,NULL,NBA
+16,280113001,2008,"Sun, Jan 13",Atlanta Hawks,Chicago Bulls,"17-17, 12-8 Home","14-21, 7-11 Away",105,84,NULL,NULL,Final,NULL,38,31,11,25,NULL,22,27,17,18,NULL,NBA
+17,280116015,2008,"Wed, Jan 16",Milwaukee Bucks,Atlanta Hawks,"16-23, 11-5 Home","18-18, 5-10 Away",87,80,NULL,NULL,Final,NULL,23,22,20,22,NULL,21,24,20,15,NULL,NBA
+18,280121001,2008,"Mon, Jan 21",Atlanta Hawks,Portland Trail Blazers,"18-20, 13-9 Home","25-16, 8-13 Away",109,111,NULL,NULL,Final/OT,NULL,27,23,26,24,9,18,36,23,23,11,NBA
+19,280125025,2008,"Fri, Jan 25",Seattle SuperSonics,Atlanta Hawks,"9-34, 5-15 Home","19-21, 6-12 Away",90,99,NULL,NULL,Final,NULL,14,17,28,31,NULL,23,29,26,21,NULL,NBA
+20,280129021,2008,"Tue, Jan 29",Phoenix Suns,Atlanta Hawks,"33-13, 16-4 Home","19-23, 6-14 Away",125,92,NULL,NULL,Final,NULL,28,24,38,35,NULL,17,16,33,26,NULL,NBA
+21,280202001,2008,"Sat, Feb 2",Atlanta Hawks,New Jersey Nets,"20-24, 14-9 Home","20-27, 10-13 Away",104,92,NULL,NULL,Final,NULL,25,30,24,25,NULL,18,20,26,28,NULL,NBA
+22,280206001,2008,"Wed, Feb 6",Atlanta Hawks,Los Angeles Lakers,"22-24, 16-9 Home","31-17, 14-10 Away",98,95,NULL,NULL,Final,NULL,27,18,23,30,NULL,29,24,23,19,NULL,NBA
+23,280209010,2008,"Sat, Feb 9",Houston Rockets,Atlanta Hawks,"30-20, 14-9 Home","22-26, 6-16 Away",108,89,NULL,NULL,Final,NULL,31,25,32,20,NULL,21,10,24,34,NULL,NBA
+24,280213030,2008,"Wed, Feb 13",Charlotte Bobcats,Atlanta Hawks,"19-34, 15-16 Home","22-28, 6-17 Away",100,98,NULL,NULL,Final/OT,NULL,19,20,24,29,8,29,22,22,19,6,NBA
+25,280220023,2008,"Wed, Feb 20",Sacramento Kings,Atlanta Hawks,"25-28, 17-10 Home","22-30, 6-19 Away",119,107,NULL,NULL,Final,NULL,30,32,31,26,NULL,26,34,30,17,NULL,NBA
+26,280223026,2008,"Sat, Feb 23",Utah Jazz,Atlanta Hawks,"36-20, 24-3 Home","23-31, 7-20 Away",100,94,NULL,NULL,Final,NULL,23,24,26,27,NULL,17,23,22,32,NULL,NBA
+27,280227001,2008,"Wed, Feb 27",Atlanta Hawks,Sacramento Kings,"24-32, 17-11 Home","26-31, 9-21 Away",123,117,NULL,NULL,Final,NULL,40,19,34,30,NULL,28,30,27,32,NULL,NBA
+28,280302002,2008,"Sun, Mar 2",Boston Celtics,Atlanta Hawks,"46-12, 26-4 Home","25-33, 7-22 Away",98,88,NULL,NULL,Final,NULL,26,15,29,28,NULL,22,22,23,21,NULL,NBA
+29,280305003,2008,"Wed, Mar 5",New Orleans Hornets,Atlanta Hawks,"41-19, 21-10 Home","25-35, 7-23 Away",116,101,NULL,NULL,Final,NULL,28,30,30,28,NULL,20,29,24,28,NULL,NBA
+30,280308001,2008,"Sat, Mar 8",Atlanta Hawks,Miami Heat,"26-36, 19-12 Home","11-50, 5-26 Away",97,94,NULL,NULL,Final,NULL,26,30,21,20,NULL,33,26,11,24,NULL,NBA
+31,280312001,2008,"Wed, Mar 12",Atlanta Hawks,Houston Rockets,"26-38, 19-13 Home","44-20, 20-11 Away",75,83,NULL,NULL,Final,NULL,18,15,24,18,NULL,18,14,27,24,NULL,NBA
+32,280316018,2008,"Sun, Mar 16",New York Knicks,Atlanta Hawks,"19-47, 12-22 Home","28-38, 8-25 Away",98,109,NULL,NULL,Final,NULL,20,29,30,19,NULL,21,32,32,24,NULL,NBA
+33,280319017,2008,"Wed, Mar 19",New Jersey Nets,Atlanta Hawks,"29-39, 18-17 Home","29-39, 9-26 Away",125,117,NULL,NULL,Final,YES,37,23,34,31,NULL,35,35,20,27,NULL,NBA
+34,280325004,2008,"Tue, Mar 25",Chicago Bulls,Atlanta Hawks,"28-42, 17-18 Home","30-40, 9-27 Away",103,94,NULL,NULL,Final,NULL,26,25,28,24,NULL,30,23,14,27,NULL,NBA
+35,280328001,2008,"Fri, Mar 28",Atlanta Hawks,Chicago Bulls,"32-40, 23-13 Home","28-44, 11-26 Away",106,103,NULL,NULL,Final,NULL,31,26,24,25,NULL,20,26,23,34,NULL,NBA
+36,280331029,2008,"Mon, Mar 31",Memphis Grizzlies,Atlanta Hawks,"19-55, 13-24 Home","34-40, 10-27 Away",99,116,NULL,NULL,Final,NULL,19,27,26,27,NULL,40,33,30,13,NULL,NBA
+37,280404001,2008,"Fri, Apr 4",Atlanta Hawks,Philadelphia 76ers,"35-41, 25-14 Home","39-37, 18-21 Away",104,109,NULL,NULL,Final,NULL,19,27,28,30,NULL,28,23,26,32,NULL,NBA
+38,280408011,2008,"Tue, Apr 8",Indiana Pacers,Atlanta Hawks,"34-44, 20-19 Home","36-42, 11-28 Away",112,98,NULL,NULL,Final,NULL,38,29,26,19,NULL,27,25,20,26,NULL,NBA
+39,280412001,2008,"Sat, Apr 12",Atlanta Hawks,Boston Celtics,"37-43, 25-15 Home","64-16, 30-10 Away",89,99,NULL,NULL,Final,NULL,22,22,30,15,NULL,30,25,19,25,NULL,NBA
+40,271102001,2008,"Fri, Nov 2",Atlanta Hawks,Dallas Mavericks,"1-0, 1-0 Home","1-1, 1-1 Away",101,94,NULL,NULL,Final,NULL,29,17,22,33,NULL,19,20,30,25,NULL,NBA
+41,271106017,2008,"Tue, Nov 6",New Jersey Nets,Atlanta Hawks,"3-1, 2-1 Home","1-2, 0-2 Away",87,82,NULL,NULL,Final,YES,22,23,24,18,NULL,19,22,16,25,NULL,NBA
+42,271109002,2008,"Fri, Nov 9",Boston Celtics,Atlanta Hawks,"4-0, 3-0 Home","2-3, 0-3 Away",106,83,NULL,NULL,Final,NULL,24,31,19,32,NULL,19,22,20,22,NULL,NBA
+43,271114001,2008,"Wed, Nov 14",Atlanta Hawks,Charlotte Bobcats,"3-4, 3-1 Home","4-4, 1-2 Away",117,109,NULL,NULL,Final,NULL,37,26,18,36,NULL,22,26,26,35,NULL,NBA
+44,271117015,2008,"Sat, Nov 17",Milwaukee Bucks,Atlanta Hawks,"4-4, 4-0 Home","3-6, 0-4 Away",105,96,NULL,NULL,Final,NULL,23,34,19,29,NULL,24,22,24,26,NULL,NBA
+45,271121014,2008,"Wed, Nov 21",Miami Heat,Atlanta Hawks,"2-9, 0-5 Home","4-7, 1-4 Away",79,82,NULL,NULL,Final,NULL,24,19,23,13,NULL,21,16,19,26,NULL,NBA
+46,271127004,2008,"Tue, Nov 27",Chicago Bulls,Atlanta Hawks,"3-10, 2-3 Home","5-8, 2-5 Away",90,78,NULL,NULL,Final,NULL,13,21,36,20,NULL,17,13,21,27,NULL,NBA
+47,271130001,2008,"Fri, Nov 30",Atlanta Hawks,New Orleans Hornets,"6-9, 4-4 Home","11-6, 8-2 Away",86,92,NULL,NULL,Final,NULL,22,23,18,23,NULL,28,15,25,24,NULL,NBA
+48,271204001,2008,"Tue, Dec 4",Atlanta Hawks,Detroit Pistons,"7-10, 4-5 Home","12-5, 6-4 Away",95,106,NULL,NULL,Final,NULL,26,22,13,34,NULL,33,24,30,19,NULL,NBA
+49,271208001,2008,"Sat, Dec 8",Atlanta Hawks,Memphis Grizzlies,"9-10, 6-5 Home","6-14, 2-9 Away",86,78,NULL,NULL,Final,NULL,25,14,29,18,NULL,10,18,23,27,NULL,NBA
+50,271211001,2008,"Tue, Dec 11",Atlanta Hawks,Toronto Raptors,"10-11, 6-6 Home","12-10, 5-5 Away",88,100,NULL,NULL,Final,NULL,21,22,25,20,NULL,19,35,15,31,NULL,NBA
+51,271215001,2008,"Sat, Dec 15",Atlanta Hawks,Charlotte Bobcats,"11-12, 7-6 Home","8-14, 1-8 Away",93,84,NULL,NULL,Final,NULL,23,26,25,19,NULL,22,19,18,25,NULL,NBA
+52,271219001,2008,"Wed, Dec 19",Atlanta Hawks,Miami Heat,"13-12, 9-6 Home","7-18, 4-10 Away",114,111,NULL,NULL,Final/OT,NULL,25,26,31,22,10,22,25,30,27,7,NBA
+53,271226001,2008,"Wed, Dec 26",Atlanta Hawks,Indiana Pacers,"15-12, 10-6 Home","15-14, 8-7 Away",107,95,NULL,NULL,Final,NULL,23,29,24,31,NULL,25,20,25,25,NULL,NBA
+54,280102005,2008,"Wed, Jan 2",Cleveland Cavaliers,Atlanta Hawks,"15-17, 9-6 Home","15-14, 5-8 Away",98,94,NULL,NULL,Final,NULL,22,15,32,29,NULL,19,19,30,26,NULL,NBA
+55,280105001,2008,"Sat, Jan 5",Atlanta Hawks,New Jersey Nets,"15-16, 10-7 Home","17-16, 9-5 Away",107,113,NULL,NULL,Final,NULL,27,30,22,28,NULL,22,28,26,37,NULL,NBA
+56,280111001,2008,"Fri, Jan 11",Atlanta Hawks,Washington Wizards,"16-17, 11-8 Home","18-16, 8-8 Away",98,102,NULL,NULL,Final/OT,NULL,17,16,35,19,11,23,16,23,25,15,NBA
+57,280115001,2008,"Tue, Jan 15",Atlanta Hawks,Denver Nuggets,"18-17, 13-8 Home","22-15, 7-10 Away",104,93,NULL,NULL,Final,NULL,34,31,17,22,NULL,22,22,23,26,NULL,NBA
+58,280118028,2008,"Fri, Jan 18",Toronto Raptors,Atlanta Hawks,"22-18, 12-8 Home","18-19, 5-11 Away",89,78,NULL,NULL,Final,NULL,27,17,23,22,NULL,22,17,21,18,NULL,NBA
+59,280123007,2008,"Wed, Jan 23",Denver Nuggets,Atlanta Hawks,"25-16, 18-5 Home","18-21, 5-12 Away",107,100,NULL,NULL,Final,NULL,29,23,26,29,NULL,17,25,28,30,NULL,NBA
+60,280127022,2008,"Sun, Jan 27",Portland Trail Blazers,Atlanta Hawks,"26-18, 18-4 Home","19-22, 6-13 Away",94,93,NULL,NULL,Final,NULL,19,18,26,31,NULL,29,23,21,20,NULL,NBA
+61,280130012,2008,"Wed, Jan 30",LA Clippers,Atlanta Hawks,"14-28, 9-15 Home","19-24, 6-15 Away",95,88,NULL,NULL,Final,NULL,20,28,26,21,NULL,21,20,20,27,NULL,NBA
+62,280204001,2008,"Mon, Feb 4",Atlanta Hawks,Philadelphia 76ers,"21-24, 15-9 Home","18-30, 9-16 Away",96,91,NULL,NULL,Final,CSN,14,30,28,24,NULL,32,18,20,21,NULL,NBA
+63,280208001,2008,"Fri, Feb 8",Atlanta Hawks,Cleveland Cavaliers,"22-25, 16-10 Home","28-21, 13-14 Away",95,100,NULL,NULL,Final,NULL,26,24,19,26,NULL,25,34,21,20,NULL,NBA
+64,280212001,2008,"Tue, Feb 12",Atlanta Hawks,Detroit Pistons,"22-27, 16-11 Home","38-13, 18-9 Away",90,94,NULL,NULL,Final,NBATV,18,30,28,14,NULL,25,30,19,20,NULL,NBA
+65,280219013,2008,"Tue, Feb 19",Los Angeles Lakers,Atlanta Hawks,"36-17, 18-7 Home","22-29, 6-18 Away",122,93,NULL,NULL,Final,NULL,32,41,24,25,NULL,14,23,32,24,NULL,NBA
+66,280222009,2008,"Fri, Feb 22",Golden State Warriors,Atlanta Hawks,"33-22, 18-10 Home","23-30, 7-19 Away",110,117,NULL,NULL,Final,TNT,23,27,39,21,NULL,35,33,26,23,NULL,NBA
+67,280225024,2008,"Mon, Feb 25",San Antonio Spurs,Atlanta Hawks,"38-17, 23-5 Home","23-32, 7-21 Away",89,74,NULL,NULL,Final,NULL,5,25,27,32,NULL,16,21,11,26,NULL,NBA
+68,280229001,2008,"Fri, Feb 29",Atlanta Hawks,New York Knicks,"25-32, 18-11 Home","18-40, 6-23 Away",99,93,NULL,NULL,Final,NULL,26,22,33,18,NULL,22,28,28,15,NULL,NBA
+69,280304001,2008,"Tue, Mar 4",Atlanta Hawks,Golden State Warriors,"25-34, 18-12 Home","37-22, 16-12 Away",118,135,NULL,NULL,Final,NULL,42,28,22,26,NULL,37,31,32,35,NULL,NBA
+70,280307030,2008,"Fri, Mar 7",Charlotte Bobcats,Atlanta Hawks,"23-39, 18-17 Home","25-36, 7-24 Away",108,93,NULL,NULL,Final,NULL,16,34,28,30,NULL,24,23,22,24,NULL,NBA
+71,280310019,2008,"Mon, Mar 10",Orlando Magic,Atlanta Hawks,"41-24, 19-12 Home","26-37, 7-25 Away",123,112,NULL,NULL,Final,NBATV,38,36,25,24,NULL,26,27,32,27,NULL,NBA
+72,280314001,2008,"Fri, Mar 14",Atlanta Hawks,LA Clippers,"27-38, 20-13 Home","21-43, 9-21 Away",117,93,NULL,NULL,Final,NULL,36,27,33,21,NULL,22,26,23,22,NULL,NBA
+73,280317027,2008,"Mon, Mar 17",Washington Wizards,Atlanta Hawks,"33-33, 20-15 Home","29-38, 9-25 Away",96,105,NULL,NULL,Final,NULL,24,29,24,19,NULL,29,25,30,21,NULL,NBA
+74,280322001,2008,"Sat, Mar 22",Atlanta Hawks,Orlando Magic,"30-39, 21-13 Home","46-26, 23-13 Away",98,90,NULL,NULL,Final,NULL,27,17,19,35,NULL,17,28,22,23,NULL,NBA
+75,280326001,2008,"Wed, Mar 26",Atlanta Hawks,Milwaukee Bucks,"31-40, 22-13 Home","24-46, 6-29 Away",115,96,NULL,NULL,Final,NULL,32,33,29,21,NULL,37,23,22,14,NULL,NBA
+76,280330001,2008,"Sun, Mar 30",Atlanta Hawks,New York Knicks,"33-40, 24-13 Home","20-53, 7-29 Away",114,109,NULL,NULL,Final,NULL,26,29,29,30,NULL,23,31,26,29,NULL,NBA
+77,280402001,2008,"Wed, Apr 2",Atlanta Hawks,Toronto Raptors,"35-40, 25-13 Home","38-37, 16-22 Away",127,120,NULL,NULL,Final/OT,NULL,31,24,25,27,20,27,32,32,16,13,NBA
+78,280405020,2008,"Sat, Apr 5",Philadelphia 76ers,Atlanta Hawks,"39-38, 21-17 Home","36-41, 11-27 Away",85,92,NULL,NULL,Final,NBATV,15,29,13,28,NULL,24,31,15,22,NULL,NBA
+79,280411018,2008,"Fri, Apr 11",New York Knicks,Atlanta Hawks,"23-57, 15-25 Home","37-42, 12-28 Away",104,116,NULL,NULL,Final,NULL,23,20,28,33,NULL,34,28,23,31,NULL,NBA
+80,280415001,2008,"Tue, Apr 15",Atlanta Hawks,Orlando Magic,"37-44, 25-16 Home","51-30, 27-14 Away",105,121,NULL,NULL,Final,NBATV,20,35,23,27,NULL,28,23,36,34,NULL,NBA
+81,280416014,2008,"Wed, Apr 16",Miami Heat,Atlanta Hawks,"15-67, 9-32 Home","37-45, 12-29 Away",113,99,NULL,NULL,Final,NULL,24,31,34,24,NULL,30,31,22,16,NULL,NBA

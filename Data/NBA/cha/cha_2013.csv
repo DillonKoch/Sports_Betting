@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,400277754,2013,"Sat, Nov 3",Dallas Mavericks,Charlotte Bobcats,"2-1, 1-0 Home","1-1, 0-1 Away",126,99,NULL,NULL,Final,NULL,31,30,36,29,NULL,19,34,28,18,NULL,NBA
+1,400277794,2013,"Fri, Nov 9",New Orleans Hornets,Charlotte Bobcats,"3-2, 2-2 Home","1-3, 0-2 Away",107,99,NULL,NULL,Final,NULL,24,35,19,29,NULL,21,28,20,30,NULL,NBA
+2,400277823,2013,"Tue, Nov 13",Charlotte Bobcats,Washington Wizards,"3-3, 3-1 Home","0-6, 0-4 Away",92,76,NULL,NULL,Final,NULL,23,29,18,22,NULL,27,12,22,15,NULL,NBA
+3,400277854,2013,"Sat, Nov 17",Charlotte Bobcats,Memphis Grizzlies,"4-4, 3-2 Home","8-1, 4-1 Away",87,94,NULL,NULL,Final,NULL,19,19,22,27,NULL,25,22,28,19,NULL,NBA
+4,400277877,2013,"Wed, Nov 21",Charlotte Bobcats,Toronto Raptors,"6-4, 5-2 Home","3-9, 1-6 Away",98,97,NULL,NULL,Final,NULL,22,31,22,23,NULL,25,28,21,23,NULL,NBA
+5,400277904,2013,"Sat, Nov 24",Washington Wizards,Charlotte Bobcats,"0-11, 0-5 Home","7-5, 2-2 Away",106,108,NULL,NULL,Final/2OT,NULL,24,27,21,20,14,25,25,22,20,16,NBA
+6,400277932,2013,"Wed, Nov 28",Atlanta Hawks,Charlotte Bobcats,"9-4, 5-2 Home","7-7, 2-4 Away",94,91,NULL,NULL,Final,NULL,20,23,28,23,NULL,18,27,20,26,NULL,NBA
+7,400277965,2013,"Mon, Dec 3",Charlotte Bobcats,Portland Trail Blazers,"7-9, 5-5 Home","8-10, 4-7 Away",112,118,NULL,NULL,Final/OT,NULL,34,20,21,27,10,26,25,19,32,16,NBA
+8,400277997,2013,"Fri, Dec 7",Milwaukee Bucks,Charlotte Bobcats,"9-9, 5-4 Home","7-11, 2-5 Away",108,93,NULL,NULL,Final,NULL,33,25,28,22,NULL,20,20,21,32,NULL,NBA
+9,400278019,2013,"Mon, Dec 10",Charlotte Bobcats,Golden State Warriors,"7-13, 5-8 Home","14-7, 8-4 Away",96,104,NULL,NULL,Final,NULL,23,17,34,22,NULL,38,20,35,11,NULL,NBA
+10,400278042,2013,"Thu, Dec 13",Atlanta Hawks,Charlotte Bobcats,"14-6, 8-3 Home","7-15, 2-6 Away",113,90,NULL,NULL,Final,NULL,30,30,31,22,NULL,19,24,31,16,NULL,NBA
+11,400278084,2013,"Tue, Dec 18",Los Angeles Lakers,Charlotte Bobcats,"12-14, 8-6 Home","7-17, 2-7 Away",101,100,NULL,NULL,Final,NULL,27,26,24,24,NULL,25,33,26,16,NULL,NBA
+12,400278109,2013,"Fri, Dec 21",Golden State Warriors,Charlotte Bobcats,"18-9, 8-3 Home","7-19, 2-9 Away",115,100,NULL,NULL,Final,NULL,31,27,31,26,NULL,23,26,27,24,NULL,NBA
+13,400278131,2013,"Wed, Dec 26",Charlotte Bobcats,Miami Heat,"7-21, 5-11 Home","20-6, 6-4 Away",92,105,NULL,NULL,Final,NULL,18,20,33,21,NULL,27,28,23,27,NULL,NBA
+14,400278157,2013,"Sat, Dec 29",Charlotte Bobcats,New Orleans Hornets,"7-23, 5-12 Home","7-23, 4-11 Away",95,98,NULL,NULL,Final,NBATV,25,32,16,22,NULL,22,18,33,25,NULL,NBA
+15,400278200,2013,"Fri, Jan 4",Charlotte Bobcats,Cleveland Cavaliers,"8-24, 5-13 Home","8-26, 5-15 Away",104,106,NULL,NULL,Final,NULL,23,25,26,30,NULL,29,33,24,20,NULL,NBA
+16,400278237,2013,"Wed, Jan 9",Charlotte Bobcats,Utah Jazz,"9-25, 5-14 Home","19-18, 8-14 Away",102,112,NULL,NULL,Final,NULL,20,24,29,29,NULL,27,36,27,22,NULL,NBA
+17,400278263,2013,"Sat, Jan 12",Indiana Pacers,Charlotte Bobcats,"23-14, 15-3 Home","9-27, 4-13 Away",96,88,NULL,NULL,Final,NULL,23,20,26,27,NULL,24,21,20,23,NULL,NBA
+18,400278285,2013,"Tue, Jan 15",Charlotte Bobcats,Indiana Pacers,"9-29, 5-15 Home","24-15, 9-12 Away",76,103,NULL,NULL,Final,NULL,20,20,17,19,NULL,27,23,33,20,NULL,NBA
+19,400278313,2013,"Sat, Jan 19",Charlotte Bobcats,Sacramento Kings,"10-30, 5-16 Home","16-25, 4-15 Away",93,97,NULL,NULL,Final,NULL,20,26,30,17,NULL,25,26,27,19,NULL,NBA
+20,400278338,2013,"Wed, Jan 23",Charlotte Bobcats,Atlanta Hawks,"10-32, 5-18 Home","24-18, 10-11 Away",92,104,NULL,NULL,Final,NULL,20,26,21,25,NULL,28,25,26,25,NULL,NBA
+21,400278383,2013,"Mon, Jan 28",Chicago Bulls,Charlotte Bobcats,"27-17, 15-11 Home","11-33, 5-15 Away",93,85,NULL,NULL,Final,NULL,21,28,14,30,NULL,18,22,15,30,NULL,NBA
+22,400278419,2013,"Sat, Feb 2",Houston Rockets,Charlotte Bobcats,"26-23, 16-8 Home","11-35, 5-17 Away",109,95,NULL,NULL,Final,NULL,32,30,17,30,NULL,27,24,26,18,NULL,NBA
+23,400278444,2013,"Wed, Feb 6",Cleveland Cavaliers,Charlotte Bobcats,"15-34, 8-13 Home","11-37, 5-19 Away",122,95,NULL,NULL,Final,NULL,32,33,35,22,NULL,21,20,26,28,NULL,NBA
+24,400278468,2013,"Sat, Feb 9",Philadelphia 76ers,Charlotte Bobcats,"22-27, 16-12 Home","11-39, 5-20 Away",87,76,NULL,NULL,Final,NULL,23,15,25,24,NULL,17,20,17,22,NULL,NBA
+25,400278497,2013,"Wed, Feb 13",Indiana Pacers,Charlotte Bobcats,"32-21, 21-5 Home","12-40, 5-21 Away",101,77,NULL,NULL,Final,NULL,30,19,21,31,NULL,29,17,14,17,NULL,NBA
+26,400278519,2013,"Wed, Feb 20",Charlotte Bobcats,Detroit Pistons,"13-41, 7-20 Home","22-34, 7-18 Away",99,105,NULL,NULL,Final,NULL,25,31,20,23,NULL,28,27,22,28,NULL,NBA
+27,400278544,2013,"Sat, Feb 23",Charlotte Bobcats,Denver Nuggets,"13-43, 7-22 Home","35-22, 12-19 Away",99,113,NULL,NULL,Final,NULL,29,25,20,25,NULL,31,29,23,30,NULL,NBA
+28,400278593,2013,"Fri, Mar 1",Utah Jazz,Charlotte Bobcats,"32-27, 22-8 Home","13-45, 6-23 Away",98,68,NULL,NULL,Final,NULL,21,26,21,30,NULL,9,15,24,20,NULL,NBA
+29,400278614,2013,"Mon, Mar 4",Portland Trail Blazers,Charlotte Bobcats,"28-31, 20-10 Home","13-47, 6-25 Away",122,105,NULL,NULL,Final,NULL,31,37,23,31,NULL,25,30,24,26,NULL,NBA
+30,400278635,2013,"Fri, Mar 8",Charlotte Bobcats,Oklahoma City Thunder,"13-49, 7-24 Home","46-16, 19-12 Away",94,116,NULL,NULL,Final,NULL,29,21,16,28,NULL,28,36,26,26,NULL,NBA
+31,400278668,2013,"Tue, Mar 12",Charlotte Bobcats,Boston Celtics,"14-50, 8-24 Home","34-29, 12-20 Away",100,74,NULL,NULL,Final,NULL,19,30,27,24,NULL,20,26,15,13,NULL,NBA
+32,400278700,2013,"Sat, Mar 16",Boston Celtics,Charlotte Bobcats,"36-29, 24-9 Home","14-52, 6-28 Away",105,88,NULL,NULL,Final,NULL,24,26,33,22,NULL,24,19,23,22,NULL,NBA
+33,400278728,2013,"Wed, Mar 20",Charlotte Bobcats,Toronto Raptors,"16-52, 10-24 Home","26-42, 9-25 Away",107,101,NULL,NULL,Final,NULL,22,31,21,33,NULL,26,22,23,30,NULL,NBA
+34,400278761,2013,"Sun, Mar 24",Miami Heat,Charlotte Bobcats,"55-14, 32-3 Home","16-54, 6-29 Away",109,77,NULL,NULL,Final,NBATV,23,24,26,36,NULL,19,20,18,20,NULL,NBA
+35,400278796,2013,"Fri, Mar 29",New York Knicks,Charlotte Bobcats,"45-26, 26-10 Home","17-55, 6-30 Away",111,102,NULL,NULL,Final,NULL,38,31,19,23,NULL,20,27,22,33,NULL,NBA
+36,400278822,2013,"Mon, Apr 1",Milwaukee Bucks,Charlotte Bobcats,"36-37, 20-18 Home","17-57, 6-32 Away",131,102,NULL,NULL,Final,NULL,29,40,31,31,NULL,25,35,24,18,NULL,NBA
+37,400278846,2013,"Fri, Apr 5",Charlotte Bobcats,Miami Heat,"18-58, 12-26 Home","59-16, 27-12 Away",79,89,NULL,NULL,Final,ESPN,22,23,8,26,NULL,26,22,18,23,NULL,NBA
+38,400278879,2013,"Tue, Apr 9",Memphis Grizzlies,Charlotte Bobcats,"53-25, 31-8 Home","18-60, 6-34 Away",94,75,NULL,NULL,Final,NULL,28,21,14,31,NULL,19,21,17,18,NULL,NBA
+39,400278910,2013,"Sat, Apr 13",Charlotte Bobcats,Milwaukee Bucks,"19-61, 13-26 Home","37-43, 16-24 Away",95,85,NULL,NULL,Final,NULL,24,25,27,19,NULL,23,21,15,26,NULL,NBA
+40,400277735,2013,"Fri, Nov 2",Charlotte Bobcats,Indiana Pacers,"1-0, 1-0 Home","1-1, 1-1 Away",90,89,NULL,NULL,Final,NULL,17,22,35,16,NULL,20,23,27,19,NULL,NBA
+41,400277773,2013,"Wed, Nov 7",Charlotte Bobcats,Phoenix Suns,"1-2, 1-1 Home","2-3, 1-2 Away",110,117,NULL,NULL,Final,NULL,22,24,35,29,NULL,31,29,25,32,NULL,NBA
+42,400277803,2013,"Sat, Nov 10",Charlotte Bobcats,Dallas Mavericks,"2-3, 2-1 Home","4-3, 1-3 Away",101,97,NULL,NULL,Final/OT,NULL,24,20,24,23,10,21,34,18,18,6,NBA
+43,400277834,2013,"Wed, Nov 14",Minnesota Timberwolves,Charlotte Bobcats,"5-3, 3-1 Home","4-3, 1-2 Away",87,89,NULL,NULL,Final,NULL,24,14,15,34,NULL,28,23,18,20,NULL,NBA
+44,400277868,2013,"Mon, Nov 19",Charlotte Bobcats,Milwaukee Bucks,"5-4, 4-2 Home","6-3, 3-1 Away",102,98,NULL,NULL,Final,NULL,30,25,22,25,NULL,23,31,27,17,NULL,NBA
+45,400277891,2013,"Fri, Nov 23",Charlotte Bobcats,Atlanta Hawks,"6-5, 5-3 Home","7-4, 4-2 Away",91,101,NULL,NULL,Final,NULL,23,28,23,17,NULL,30,27,23,21,NULL,NBA
+46,400277921,2013,"Mon, Nov 26",Oklahoma City Thunder,Charlotte Bobcats,"11-4, 7-2 Home","7-6, 2-3 Away",114,69,NULL,NULL,Final,NULL,28,36,24,26,NULL,12,12,19,26,NULL,NBA
+47,400277943,2013,"Fri, Nov 30",Charlotte Bobcats,Philadelphia 76ers,"7-8, 5-4 Home","10-6, 4-2 Away",98,104,NULL,NULL,Final,NULL,25,25,23,25,NULL,27,27,22,28,NULL,NBA
+48,400277977,2013,"Wed, Dec 5",Charlotte Bobcats,New York Knicks,"7-10, 5-6 Home","13-4, 6-4 Away",98,100,NULL,NULL,Final,NULL,24,29,22,23,NULL,26,25,21,28,NULL,NBA
+49,400278004,2013,"Sat, Dec 8",Charlotte Bobcats,San Antonio Spurs,"7-12, 5-7 Home","17-4, 10-2 Away",102,132,NULL,NULL,Final,NULL,23,21,23,35,NULL,32,27,38,35,NULL,NBA
+50,400278033,2013,"Wed, Dec 12",Charlotte Bobcats,LA Clippers,"7-14, 5-9 Home","16-6, 6-3 Away",94,100,NULL,NULL,Final,NULL,21,23,27,23,NULL,23,26,29,22,NULL,NBA
+51,400278056,2013,"Sat, Dec 15",Charlotte Bobcats,Orlando Magic,"7-16, 5-10 Home","10-13, 5-7 Away",98,107,NULL,NULL,Final,NULL,21,27,29,21,NULL,29,27,25,26,NULL,NBA
+52,400278093,2013,"Wed, Dec 19",Phoenix Suns,Charlotte Bobcats,"11-15, 9-5 Home","7-18, 2-8 Away",121,104,NULL,NULL,Final,NULL,28,36,33,24,NULL,27,19,22,36,NULL,NBA
+53,400278116,2013,"Sat, Dec 22",Denver Nuggets,Charlotte Bobcats,"15-13, 8-1 Home","7-20, 2-10 Away",110,88,NULL,NULL,Final,NULL,29,35,24,22,NULL,23,23,19,23,NULL,NBA
+54,400278147,2013,"Fri, Dec 28",Brooklyn Nets,Charlotte Bobcats,"15-14, 10-7 Home","7-22, 2-11 Away",97,81,NULL,NULL,Final,NULL,33,23,24,17,NULL,15,23,20,23,NULL,NBA
+55,400278173,2013,"Mon, Dec 31",Chicago Bulls,Charlotte Bobcats,"16-13, 9-8 Home","8-23, 3-11 Away",81,91,NULL,NULL,Final,WGNS,18,24,23,16,NULL,28,19,18,26,NULL,NBA
+56,400278221,2013,"Sun, Jan 6",Detroit Pistons,Charlotte Bobcats,"13-23, 10-9 Home","9-24, 4-11 Away",101,108,NULL,NULL,Final/OT,NULL,30,30,22,14,5,21,38,20,17,12,NBA
+57,400278250,2013,"Fri, Jan 11",Toronto Raptors,Charlotte Bobcats,"14-22, 10-7 Home","9-26, 4-12 Away",99,78,NULL,NULL,Final,NULL,29,24,23,23,NULL,16,23,19,20,NULL,NBA
+58,400278277,2013,"Mon, Jan 14",Boston Celtics,Charlotte Bobcats,"20-17, 13-6 Home","9-28, 4-14 Away",100,89,NULL,NULL,Final,NULL,28,28,20,24,NULL,18,27,25,19,NULL,NBA
+59,400278306,2013,"Fri, Jan 18",Orlando Magic,Charlotte Bobcats,"14-25, 8-13 Home","10-29, 5-14 Away",100,106,NULL,NULL,Final,NULL,28,17,26,29,NULL,28,29,19,30,NULL,NBA
+60,400278327,2013,"Mon, Jan 21",Charlotte Bobcats,Houston Rockets,"10-31, 5-17 Home","22-21, 8-14 Away",94,100,NULL,NULL,Final,NULL,30,26,25,13,NULL,22,23,29,26,NULL,NBA
+61,400278365,2013,"Sat, Jan 26",Charlotte Bobcats,Minnesota Timberwolves,"11-32, 6-18 Home","17-24, 6-17 Away",102,101,NULL,NULL,Final,NULL,22,25,26,29,NULL,34,24,19,24,NULL,NBA
+62,400278398,2013,"Wed, Jan 30",San Antonio Spurs,Charlotte Bobcats,"37-11, 21-2 Home","11-34, 5-16 Away",102,78,NULL,NULL,Final,NULL,25,24,25,28,NULL,23,14,23,18,NULL,NBA
+63,400278431,2013,"Mon, Feb 4",Miami Heat,Charlotte Bobcats,"31-14, 19-3 Home","11-36, 5-18 Away",99,94,NULL,NULL,Final,NULL,22,25,19,33,NULL,21,22,20,31,NULL,NBA
+64,400278456,2013,"Fri, Feb 8",Charlotte Bobcats,Los Angeles Lakers,"11-38, 6-19 Home","24-27, 9-17 Away",93,100,NULL,NULL,Final,NULL,30,23,25,15,NULL,20,21,28,31,NULL,NBA
+65,400278482,2013,"Mon, Feb 11",Charlotte Bobcats,Boston Celtics,"12-39, 7-19 Home","27-24, 8-15 Away",94,91,NULL,NULL,Final,NULL,24,18,33,19,NULL,26,22,24,19,NULL,NBA
+66,400278510,2013,"Tue, Feb 19",Orlando Magic,Charlotte Bobcats,"15-38, 9-19 Home","13-40, 6-21 Away",92,105,NULL,NULL,Final,NULL,27,16,27,22,NULL,37,26,17,25,NULL,NBA
+67,400278533,2013,"Fri, Feb 22",Charlotte Bobcats,Chicago Bulls,"13-42, 7-21 Home","32-23, 17-10 Away",75,105,NULL,NULL,Final,NULL,15,22,20,18,NULL,24,27,27,27,NULL,NBA
+68,400278570,2013,"Tue, Feb 26",LA Clippers,Charlotte Bobcats,"41-18, 23-6 Home","13-44, 6-22 Away",106,84,NULL,NULL,Final,NULL,24,30,28,24,NULL,30,15,18,21,NULL,NBA
+69,400278604,2013,"Sun, Mar 3",Sacramento Kings,Charlotte Bobcats,"21-40, 15-13 Home","13-46, 6-24 Away",119,83,NULL,NULL,Final,NULL,27,27,43,22,NULL,27,13,19,24,NULL,NBA
+70,400278619,2013,"Wed, Mar 6",Charlotte Bobcats,Brooklyn Nets,"13-48, 7-23 Home","35-26, 15-13 Away",78,99,NULL,NULL,Final,NULL,29,24,9,16,NULL,26,17,28,28,NULL,NBA
+71,400278649,2013,"Sat, Mar 9",Washington Wizards,Charlotte Bobcats,"20-41, 15-17 Home","13-50, 6-26 Away",104,87,NULL,NULL,Final,NULL,27,32,21,24,NULL,24,18,22,23,NULL,NBA
+72,400278689,2013,"Fri, Mar 15",Toronto Raptors,Charlotte Bobcats,"26-40, 17-16 Home","14-51, 6-27 Away",92,78,NULL,NULL,Final,NULL,22,26,21,23,NULL,17,25,26,10,NULL,NBA
+73,400278714,2013,"Mon, Mar 18",Charlotte Bobcats,Washington Wizards,"15-52, 9-24 Home","23-43, 5-26 Away",119,114,NULL,NULL,Final,NULL,32,31,31,25,NULL,29,30,30,25,NULL,NBA
+74,400278753,2013,"Sat, Mar 23",Charlotte Bobcats,Detroit Pistons,"16-53, 10-25 Home","24-47, 9-26 Away",91,92,NULL,NULL,Final,NULL,24,26,26,15,NULL,23,24,22,23,NULL,NBA
+75,400278779,2013,"Wed, Mar 27",Charlotte Bobcats,Orlando Magic,"17-54, 11-25 Home","18-54, 8-27 Away",114,108,NULL,NULL,Final,NULL,20,31,32,31,NULL,39,19,24,26,NULL,NBA
+76,400278807,2013,"Sat, Mar 30",Philadelphia 76ers,Charlotte Bobcats,"30-43, 22-17 Home","17-56, 6-31 Away",100,92,NULL,NULL,Final,NULL,22,27,24,27,NULL,31,15,25,21,NULL,NBA
+77,400278832,2013,"Wed, Apr 3",Charlotte Bobcats,Philadelphia 76ers,"18-57, 12-25 Home","30-44, 8-27 Away",88,83,NULL,NULL,Final,NULL,19,21,24,24,NULL,27,18,16,22,NULL,NBA
+78,400278859,2013,"Sat, Apr 6",Brooklyn Nets,Charlotte Bobcats,"44-32, 23-15 Home","18-59, 6-33 Away",105,96,NULL,NULL,Final,NULL,29,24,30,22,NULL,23,31,21,21,NULL,NBA
+79,400278901,2013,"Fri, Apr 12",Detroit Pistons,Charlotte Bobcats,"28-52, 17-23 Home","18-61, 6-35 Away",113,93,NULL,NULL,Final,NULL,23,36,28,26,NULL,30,23,20,20,NULL,NBA
+80,400278922,2013,"Mon, Apr 15",Charlotte Bobcats,New York Knicks,"20-61, 14-26 Home","53-28, 23-18 Away",106,95,NULL,NULL,Final,NULL,30,24,30,22,NULL,17,28,22,28,NULL,NBA
+81,400278939,2013,"Wed, Apr 17",Charlotte Bobcats,Cleveland Cavaliers,"21-61, 15-26 Home","24-58, 10-31 Away",105,98,NULL,NULL,Final,NULL,34,19,23,29,NULL,16,31,22,29,NULL,NBA

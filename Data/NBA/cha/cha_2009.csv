@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,281101030,2009,"Sat, Nov 1",Charlotte Bobcats,Miami Heat,"1-1, 1-0 Home","1-2, 0-2 Away",100,87,NULL,NULL,Final,NULL,24,28,25,23,NULL,18,23,27,19,NULL,NBA
+1,281105018,2009,"Wed, Nov 5",New York Knicks,Charlotte Bobcats,"2-2, 2-1 Home","1-3, 0-2 Away",101,98,NULL,NULL,Final,NULL,19,32,30,20,NULL,20,31,25,22,NULL,NBA
+2,281109030,2009,"Sun, Nov 9",Charlotte Bobcats,Toronto Raptors,"2-4, 2-2 Home","4-2, 3-1 Away",79,89,NULL,NULL,Final,CBC,19,26,22,12,NULL,20,20,23,26,NULL,NBA
+3,281114030,2009,"Fri, Nov 14",Charlotte Bobcats,Utah Jazz,"3-5, 3-3 Home","6-3, 2-3 Away",104,96,NULL,NULL,Final,NULL,18,26,27,33,NULL,25,18,25,28,NULL,NBA
+4,281118030,2009,"Tue, Nov 18",Charlotte Bobcats,Dallas Mavericks,"3-7, 3-5 Home","4-7, 4-3 Away",83,100,NULL,NULL,Final,NULL,10,25,23,25,NULL,28,27,19,26,NULL,NBA
+5,281122030,2009,"Sat, Nov 22",Charlotte Bobcats,Milwaukee Bucks,"3-9, 3-6 Home","7-8, 4-5 Away",74,79,NULL,NULL,Final,NULL,21,15,16,22,NULL,22,13,27,17,NULL,NBA
+6,281126028,2009,"Wed, Nov 26",Toronto Raptors,Charlotte Bobcats,"7-7, 3-4 Home","4-10, 0-4 Away",93,86,NULL,NULL,Final,NULL,24,27,24,18,NULL,25,21,22,18,NULL,NBA
+7,281129030,2009,"Sat, Nov 29",Charlotte Bobcats,Boston Celtics,"5-11, 4-7 Home","16-2, 7-1 Away",84,89,NULL,NULL,Final,NULL,22,21,19,22,NULL,17,28,21,23,NULL,NBA
+8,281203030,2009,"Wed, Dec 3",Charlotte Bobcats,Oklahoma City Thunder,"7-11, 6-7 Home","2-17, 1-8 Away",103,97,NULL,NULL,Final,NULL,24,25,29,25,NULL,21,24,27,25,NULL,NBA
+9,281206030,2009,"Sat, Dec 6",Charlotte Bobcats,Cleveland Cavaliers,"7-13, 6-8 Home","17-3, 6-3 Away",74,94,NULL,NULL,Final,NULL,14,21,13,26,NULL,30,25,19,20,NULL,NBA
+10,281210003,2009,"Wed, Dec 10",New Orleans Hornets,Charlotte Bobcats,"12-6, 7-3 Home","7-15, 1-7 Away",105,89,NULL,NULL,Final,NULL,29,30,29,17,NULL,21,19,17,32,NULL,NBA
+11,281213030,2009,"Sat, Dec 13",Charlotte Bobcats,Detroit Pistons,"7-17, 6-9 Home","13-9, 7-5 Away",86,90,NULL,NULL,Final,NULL,13,20,23,30,NULL,24,27,27,12,NULL,NBA
+12,281216030,2009,"Tue, Dec 16",Charlotte Bobcats,Chicago Bulls,"8-18, 7-9 Home","11-13, 3-10 Away",110,101,NULL,NULL,Final/OT,NULL,16,26,25,27,16,25,20,18,31,7,NBA
+13,281220030,2009,"Sat, Dec 20",Charlotte Bobcats,Golden State Warriors,"9-19, 7-10 Home","8-20, 4-13 Away",103,110,NULL,NULL,Final,NULL,29,27,23,24,NULL,27,29,31,23,NULL,NBA
+14,281226017,2009,"Fri, Dec 26",New Jersey Nets,Charlotte Bobcats,"14-15, 5-11 Home","11-19, 3-9 Away",87,95,NULL,NULL,Final,YES,21,20,24,22,NULL,23,27,23,22,NULL,NBA
+15,281230030,2009,"Tue, Dec 30",Charlotte Bobcats,New York Knicks,"11-21, 8-12 Home","12-18, 5-11 Away",89,93,NULL,NULL,Final,NULL,25,23,20,21,NULL,36,20,18,19,NULL,NBA
+16,290103030,2009,"Sat, Jan 3",Charlotte Bobcats,Milwaukee Bucks,"12-22, 9-12 Home","16-19, 7-14 Away",102,92,NULL,NULL,Final,NULL,21,30,25,26,NULL,22,20,21,29,NULL,NBA
+17,290107005,2009,"Wed, Jan 7",Cleveland Cavaliers,Charlotte Bobcats,"28-6, 18-0 Home","13-23, 3-11 Away",111,81,NULL,NULL,Final,NULL,29,31,24,27,NULL,12,30,14,25,NULL,NBA
+18,290110027,2009,"Sat, Jan 10",Washington Wizards,Charlotte Bobcats,"7-29, 5-14 Home","14-24, 4-12 Away",89,92,NULL,NULL,Final,NULL,31,18,21,19,NULL,23,22,24,23,NULL,NBA
+19,290117030,2009,"Sat, Jan 17",Charlotte Bobcats,Portland Trail Blazers,"16-24, 11-12 Home","24-16, 10-12 Away",102,97,NULL,NULL,Final/OT,NULL,24,26,17,23,12,18,27,22,23,7,NBA
+20,290121030,2009,"Wed, Jan 21",Charlotte Bobcats,Memphis Grizzlies,"17-25, 12-13 Home","11-30, 2-16 Away",101,86,NULL,NULL,Final,NULL,21,25,24,31,NULL,15,26,23,22,NULL,NBA
+21,290125011,2009,"Sun, Jan 25",Indiana Pacers,Charlotte Bobcats,"17-27, 11-9 Home","18-26, 5-13 Away",98,93,NULL,NULL,Final,NULL,26,28,23,21,NULL,25,19,26,23,NULL,NBA
+22,290128022,2009,"Wed, Jan 28",Portland Trail Blazers,Charlotte Bobcats,"28-17, 17-5 Home","19-27, 6-14 Away",88,74,NULL,NULL,Final,NULL,32,24,18,14,NULL,18,22,18,16,NULL,NBA
+23,290202026,2009,"Mon, Feb 2",Utah Jazz,Charlotte Bobcats,"27-22, 19-6 Home","19-29, 6-16 Away",105,86,NULL,NULL,Final,NULL,19,30,27,29,NULL,25,26,19,16,NULL,NBA
+24,290208014,2009,"Sun, Feb 8",Miami Heat,Charlotte Bobcats,"27-23, 17-8 Home","19-31, 6-17 Away",96,92,NULL,NULL,Final,NULL,18,25,26,27,NULL,20,19,22,31,NULL,NBA
+25,290211030,2009,"Wed, Feb 11",Charlotte Bobcats,Washington Wizards,"21-31, 15-14 Home","11-42, 3-23 Away",101,89,NULL,NULL,Final,NULL,24,32,21,24,NULL,21,24,18,26,NULL,NBA
+26,290218030,2009,"Wed, Feb 18",Charlotte Bobcats,Indiana Pacers,"22-32, 16-14 Home","22-34, 6-23 Away",103,94,NULL,NULL,Final,NULL,32,21,26,24,NULL,25,25,19,25,NULL,NBA
+27,290222010,2009,"Sun, Feb 22",Houston Rockets,Charlotte Bobcats,"35-21, 22-6 Home","22-34, 6-19 Away",99,78,NULL,NULL,Final,NULL,27,17,29,26,NULL,20,22,14,22,NULL,NBA
+28,290225023,2009,"Wed, Feb 25",Sacramento Kings,Charlotte Bobcats,"12-47, 8-20 Home","23-35, 7-20 Away",91,98,NULL,NULL,Final,NULL,20,21,19,31,NULL,30,25,23,20,NULL,NBA
+29,290228012,2009,"Sat, Feb 28",LA Clippers,Charlotte Bobcats,"15-45, 8-22 Home","25-35, 9-20 Away",95,100,NULL,NULL,Final,NULL,29,22,20,24,NULL,17,28,34,21,NULL,NBA
+30,290306030,2009,"Fri, Mar 6",Charlotte Bobcats,Atlanta Hawks,"27-35, 18-15 Home","34-28, 14-21 Away",98,91,NULL,NULL,Final,NULL,36,23,21,18,NULL,21,29,20,21,NULL,NBA
+31,290310024,2009,"Tue, Mar 10",San Antonio Spurs,Charlotte Bobcats,"43-20, 23-8 Home","28-36, 10-21 Away",100,86,NULL,NULL,Final,NULL,23,23,25,29,NULL,29,17,25,15,NULL,NBA
+32,290314016,2009,"Sat, Mar 14",Minnesota Timberwolves,Charlotte Bobcats,"20-46, 10-25 Home","28-38, 10-22 Away",108,100,NULL,NULL,Final,NULL,32,34,21,21,NULL,25,26,28,21,NULL,NBA
+33,290318030,2009,"Wed, Mar 18",Charlotte Bobcats,Sacramento Kings,"30-38, 20-16 Home","14-54, 4-31 Away",104,88,NULL,NULL,Final,NULL,33,18,27,26,NULL,25,21,24,18,NULL,NBA
+34,290321030,2009,"Sat, Mar 21",Charlotte Bobcats,Indiana Pacers,"31-39, 20-17 Home","29-42, 10-28 Away",83,108,NULL,NULL,Final,NULL,25,20,9,29,NULL,23,30,33,22,NULL,NBA
+35,290327020,2009,"Fri, Mar 27",Philadelphia 76ers,Charlotte Bobcats,"37-34, 21-15 Home","32-40, 12-23 Away",95,100,NULL,NULL,Final,CSN,23,10,27,35,NULL,29,21,23,27,NULL,NBA
+36,290331030,2009,"Tue, Mar 31",Charlotte Bobcats,Los Angeles Lakers,"34-40, 22-17 Home","58-16, 27-11 Away",94,84,NULL,NULL,Final,NULL,25,18,25,26,NULL,24,20,20,20,NULL,NBA
+37,290403030,2009,"Fri, Apr 3",Charlotte Bobcats,Miami Heat,"34-42, 22-18 Home","40-36, 14-24 Away",92,97,NULL,NULL,Final,NULL,28,17,26,21,NULL,16,29,22,30,NULL,NBA
+38,290407030,2009,"Tue, Apr 7",Charlotte Bobcats,Philadelphia 76ers,"35-43, 23-18 Home","40-37, 16-22 Away",101,98,NULL,NULL,Final,NULL,28,35,16,22,NULL,19,30,32,17,NULL,NBA
+39,290411004,2009,"Sat, Apr 11",Chicago Bulls,Charlotte Bobcats,"40-40, 28-12 Home","35-45, 12-27 Away",113,106,NULL,NULL,Final,NULL,30,22,26,35,NULL,23,27,33,23,NULL,NBA
+40,281030005,2009,"Thu, Oct 30",Cleveland Cavaliers,Charlotte Bobcats,"1-1, 1-0 Home","0-1, 0-1 Away",96,79,NULL,NULL,Final,NULL,25,25,18,28,NULL,16,17,26,20,NULL,NBA
+41,281103030,2009,"Mon, Nov 3",Charlotte Bobcats,Detroit Pistons,"1-2, 1-1 Home","3-0, 1-0 Away",83,101,NULL,NULL,Final,NULL,14,29,20,20,NULL,23,22,31,25,NULL,NBA
+42,281107030,2009,"Fri, Nov 7",Charlotte Bobcats,New Orleans Hornets,"2-3, 2-1 Home","3-2, 2-1 Away",92,89,NULL,NULL,Final,NULL,26,21,19,26,NULL,28,7,26,28,NULL,NBA
+43,281111030,2009,"Tue, Nov 11",Charlotte Bobcats,Denver Nuggets,"2-5, 2-3 Home","4-3, 2-2 Away",80,88,NULL,NULL,Final,NULL,24,22,16,18,NULL,18,24,29,17,NULL,NBA
+44,281116030,2009,"Sun, Nov 16",Charlotte Bobcats,Orlando Magic,"3-6, 3-4 Home","7-3, 3-1 Away",85,90,NULL,NULL,Final,NULL,21,22,18,24,NULL,19,19,27,25,NULL,NBA
+45,281121001,2009,"Fri, Nov 21",Atlanta Hawks,Charlotte Bobcats,"8-4, 4-1 Home","3-8, 0-3 Away",88,83,NULL,NULL,Final,NULL,16,31,15,26,NULL,24,19,20,20,NULL,NBA
+46,281124030,2009,"Mon, Nov 24",Charlotte Bobcats,Philadelphia 76ers,"4-9, 4-6 Home","7-7, 2-5 Away",93,84,NULL,NULL,Final,NBATV,20,21,27,25,NULL,25,16,23,20,NULL,NBA
+47,281128011,2009,"Fri, Nov 28",Indiana Pacers,Charlotte Bobcats,"6-9, 4-4 Home","5-10, 1-4 Away",108,115,NULL,NULL,Final/OT,NULL,18,30,33,18,9,28,25,24,22,16,NBA
+48,281201030,2009,"Mon, Dec 1",Charlotte Bobcats,Minnesota Timberwolves,"6-11, 5-7 Home","4-12, 2-6 Away",100,90,NULL,NULL,Final,NULL,21,22,23,34,NULL,20,16,25,29,NULL,NBA
+49,281205015,2009,"Fri, Dec 5",Milwaukee Bucks,Charlotte Bobcats,"9-12, 5-4 Home","7-12, 1-5 Away",101,96,NULL,NULL,Final,NULL,29,25,22,25,NULL,24,32,18,22,NULL,NBA
+50,281208014,2009,"Mon, Dec 8",Miami Heat,Charlotte Bobcats,"12-9, 7-3 Home","7-14, 1-6 Away",100,96,NULL,NULL,Final,NULL,22,29,15,34,NULL,25,23,20,28,NULL,NBA
+51,281211006,2009,"Thu, Dec 11",Dallas Mavericks,Charlotte Bobcats,"12-9, 6-5 Home","7-16, 1-8 Away",95,90,NULL,NULL,Final,NULL,26,27,21,21,NULL,26,28,20,16,NULL,NBA
+52,281215001,2009,"Mon, Dec 15",Atlanta Hawks,Charlotte Bobcats,"15-9, 9-1 Home","7-18, 1-9 Away",83,79,NULL,NULL,Final,NULL,23,19,26,15,NULL,27,21,20,11,NULL,NBA
+53,281219029,2009,"Fri, Dec 19",Memphis Grizzlies,Charlotte Bobcats,"9-17, 7-7 Home","9-18, 2-9 Away",83,112,NULL,NULL,Final,NULL,26,18,16,23,NULL,36,22,28,26,NULL,NBA
+54,281223030,2009,"Tue, Dec 23",Charlotte Bobcats,Washington Wizards,"10-19, 8-10 Home","4-22, 1-10 Away",80,72,NULL,NULL,Final,NULL,26,10,19,25,NULL,18,18,17,19,NULL,NBA
+55,281227030,2009,"Sat, Dec 27",Charlotte Bobcats,New Jersey Nets,"11-20, 8-11 Home","15-15, 10-4 Away",103,114,NULL,NULL,Final/OT,YES,26,21,19,30,7,22,25,25,24,18,NBA
+56,290102015,2009,"Fri, Jan 2",Milwaukee Bucks,Charlotte Bobcats,"16-18, 9-5 Home","11-22, 3-10 Away",103,75,NULL,NULL,Final,NULL,29,27,20,27,NULL,25,19,13,18,NULL,NBA
+57,290106030,2009,"Tue, Jan 6",Charlotte Bobcats,Boston Celtics,"13-22, 10-12 Home","29-7, 11-6 Away",114,106,NULL,NULL,Final/OT,NULL,28,25,19,25,17,23,24,25,25,9,NBA
+58,290109020,2009,"Fri, Jan 9",Philadelphia 76ers,Charlotte Bobcats,"16-20, 9-8 Home","13-24, 3-12 Away",93,87,NULL,NULL,Final,CSN,24,19,31,19,NULL,27,18,20,22,NULL,NBA
+59,290113008,2009,"Tue, Jan 13",Detroit Pistons,Charlotte Bobcats,"22-14, 12-6 Home","15-24, 5-12 Away",78,80,NULL,NULL,Final,NULL,27,21,20,10,NULL,25,16,21,18,NULL,NBA
+60,290119030,2009,"Mon, Jan 19",Charlotte Bobcats,San Antonio Spurs,"16-25, 11-13 Home","27-13, 12-6 Away",84,86,NULL,NULL,Final,NULL,21,20,27,16,NULL,29,17,17,23,NULL,NBA
+61,290123030,2009,"Fri, Jan 23",Charlotte Bobcats,Phoenix Suns,"18-25, 13-13 Home","23-18, 11-10 Away",98,76,NULL,NULL,Final,NULL,21,38,22,17,NULL,13,24,18,21,NULL,NBA
+62,290127013,2009,"Tue, Jan 27",Los Angeles Lakers,Charlotte Bobcats,"35-9, 23-4 Home","19-26, 6-13 Away",110,117,NULL,NULL,Final/2OT,NULL,16,32,22,23,17,23,26,27,17,24,NBA
+63,290130007,2009,"Fri, Jan 30",Denver Nuggets,Charlotte Bobcats,"31-16, 19-6 Home","19-28, 6-15 Away",110,99,NULL,NULL,Final,NULL,24,33,29,24,NULL,19,23,29,28,NULL,NBA
+64,290206030,2009,"Fri, Feb 6",Charlotte Bobcats,Atlanta Hawks,"19-30, 13-14 Home","29-20, 11-15 Away",97,102,NULL,NULL,Final,NULL,22,33,22,20,NULL,19,24,35,24,NULL,NBA
+65,290209030,2009,"Mon, Feb 9",Charlotte Bobcats,LA Clippers,"20-31, 14-14 Home","12-40, 7-20 Away",94,73,NULL,NULL,Final,NULL,22,24,21,27,NULL,21,22,18,12,NULL,NBA
+66,290217019,2009,"Tue, Feb 17",Orlando Magic,Charlotte Bobcats,"39-13, 21-6 Home","21-32, 6-18 Away",107,102,NULL,NULL,Final/OT,NULL,25,18,25,27,12,21,29,24,21,7,NBA
+67,290220030,2009,"Fri, Feb 20",Charlotte Bobcats,Orlando Magic,"22-33, 16-15 Home","40-14, 19-8 Away",80,92,NULL,NULL,Final,NULL,18,17,26,19,NULL,21,28,28,15,NULL,NBA
+68,290224021,2009,"Tue, Feb 24",Phoenix Suns,Charlotte Bobcats,"32-24, 17-11 Home","22-35, 6-20 Away",112,102,NULL,NULL,Final,NULL,29,30,35,18,NULL,27,28,29,18,NULL,NBA
+69,290227009,2009,"Fri, Feb 27",Golden State Warriors,Charlotte Bobcats,"20-38, 15-14 Home","24-35, 8-20 Away",109,112,NULL,NULL,Final,NULL,24,31,31,23,NULL,25,36,28,23,NULL,NBA
+70,290303030,2009,"Tue, Mar 3",Charlotte Bobcats,Chicago Bulls,"26-35, 17-15 Home","27-34, 10-23 Away",96,80,NULL,NULL,Final,NULL,32,24,23,17,NULL,24,19,19,18,NULL,NBA
+71,290307018,2009,"Sat, Mar 7",New York Knicks,Charlotte Bobcats,"25-36, 18-15 Home","28-35, 10-20 Away",105,114,NULL,NULL,Final,NULL,31,26,15,33,NULL,32,27,22,33,NULL,NBA
+72,290313030,2009,"Fri, Mar 13",Charlotte Bobcats,Houston Rockets,"28-37, 18-16 Home","43-24, 16-17 Away",86,91,NULL,NULL,Final,NULL,21,27,17,21,NULL,21,25,24,21,NULL,NBA
+73,290316030,2009,"Mon, Mar 16",Charlotte Bobcats,Toronto Raptors,"29-38, 19-16 Home","24-44, 11-25 Away",112,86,NULL,NULL,Final,TSNT,27,30,32,23,NULL,22,21,29,14,NULL,NBA
+74,290320028,2009,"Fri, Mar 20",Toronto Raptors,Charlotte Bobcats,"24-45, 13-20 Home","31-38, 11-22 Away",89,102,NULL,NULL,Final,TSNT,24,26,20,19,NULL,33,19,30,20,NULL,NBA
+75,290325027,2009,"Wed, Mar 25",Washington Wizards,Charlotte Bobcats,"17-56, 12-25 Home","31-40, 11-23 Away",95,93,NULL,NULL,Final,NULL,24,26,23,22,NULL,29,28,14,22,NULL,NBA
+76,290328030,2009,"Sat, Mar 28",Charlotte Bobcats,New York Knicks,"33-40, 21-17 Home","29-44, 10-25 Away",96,85,NULL,NULL,Final,NULL,20,30,23,23,NULL,27,17,23,18,NULL,NBA
+77,290401002,2009,"Wed, Apr 1",Boston Celtics,Charlotte Bobcats,"57-19, 31-6 Home","34-41, 12-24 Away",111,109,NULL,NULL,Final/2OT,NULL,26,28,17,22,18,33,18,26,16,16,NBA
+78,290405008,2009,"Sun, Apr 5",Detroit Pistons,Charlotte Bobcats,"37-40, 20-19 Home","34-43, 12-25 Away",104,97,NULL,NULL,Final,NULL,24,27,17,36,NULL,17,27,25,28,NULL,NBA
+79,290410025,2009,"Fri, Apr 10",Oklahoma City Thunder,Charlotte Bobcats,"22-57, 15-26 Home","35-44, 12-26 Away",84,81,NULL,NULL,Final,NULL,27,21,16,20,NULL,17,20,24,20,NULL,NBA
+80,290413017,2009,"Mon, Apr 13",New Jersey Nets,Charlotte Bobcats,"34-47, 19-22 Home","35-46, 12-28 Away",91,87,NULL,NULL,Final,NULL,20,28,19,24,NULL,25,21,26,15,NULL,NBA
+81,290415019,2009,"Wed, Apr 15",Orlando Magic,Charlotte Bobcats,"59-23, 32-9 Home","35-47, 12-29 Away",98,73,NULL,NULL,Final,NULL,28,29,20,21,NULL,14,24,20,15,NULL,NBA

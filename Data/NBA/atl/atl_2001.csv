@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,201102018,2001,"Thu, Nov 2",New York Knicks,Atlanta Hawks,"1-1, 1-1 Home","0-2, 0-1 Away",94,69,NULL,NULL,Final,NULL,31,20,16,27,NULL,24,17,15,13,NULL,NBA
+1,201106029,2001,"Mon, Nov 6",Vancouver Grizzlies,Atlanta Hawks,"3-1, 2-1 Home","0-4, 0-2 Away",97,87,NULL,NULL,Final,NULL,20,30,21,26,NULL,19,17,19,32,NULL,NBA
+2,201109021,2001,"Thu, Nov 9",Phoenix Suns,Atlanta Hawks,"5-1, 4-0 Home","0-6, 0-4 Away",88,79,NULL,NULL,Final,NULL,25,19,24,20,NULL,16,24,18,21,NULL,NBA
+3,201114001,2001,"Tue, Nov 14",Atlanta Hawks,Portland Trail Blazers,"1-7, 1-2 Home","5-4, 2-3 Away",99,97,NULL,NULL,Final,NULL,19,30,26,24,NULL,26,31,14,26,NULL,NBA
+4,201117002,2001,"Fri, Nov 17",Boston Celtics,Atlanta Hawks,"4-4, 4-1 Home","1-9, 0-7 Away",106,99,NULL,NULL,Final,NULL,19,23,32,32,NULL,27,22,22,28,NULL,NBA
+5,201122001,2001,"Wed, Nov 22",Atlanta Hawks,New York Knicks,"2-10, 2-3 Home","8-5, 5-3 Away",78,74,NULL,NULL,Final,NULL,19,20,27,12,NULL,17,13,17,27,NULL,NBA
+6,201125019,2001,"Sat, Nov 25",Orlando Magic,Atlanta Hawks,"5-9, 3-4 Home","2-12, 0-8 Away",114,92,NULL,NULL,Final,NULL,39,27,29,19,NULL,29,15,24,24,NULL,NBA
+7,201130001,2001,"Thu, Nov 30",Atlanta Hawks,Chicago Bulls,"3-13, 2-5 Home","2-13, 1-8 Away",82,91,NULL,NULL,Final,NULL,21,19,20,22,NULL,26,19,20,26,NULL,NBA
+8,201205001,2001,"Tue, Dec 5",Atlanta Hawks,Miami Heat,"4-14, 3-6 Home","8-10, 4-5 Away",92,100,NULL,NULL,Final,NULL,17,15,27,33,NULL,16,29,22,33,NULL,NBA
+9,201209005,2001,"Sat, Dec 9",Cleveland Cavaliers,Atlanta Hawks,"12-7, 8-2 Home","4-16, 1-10 Away",97,90,NULL,NULL,Final,NULL,27,28,17,25,NULL,31,20,20,19,NULL,NBA
+10,201213008,2001,"Wed, Dec 13",Detroit Pistons,Atlanta Hawks,"10-12, 6-4 Home","5-17, 1-11 Away",92,69,NULL,NULL,Final,NULL,30,22,22,18,NULL,14,17,24,14,NULL,NBA
+11,201216001,2001,"Sat, Dec 16",Atlanta Hawks,New Jersey Nets,"6-18, 4-7 Home","9-14, 4-6 Away",83,89,NULL,NULL,Final,NULL,25,21,21,16,NULL,20,21,27,21,NULL,NBA
+12,201222028,2001,"Fri, Dec 22",Toronto Raptors,Atlanta Hawks,"14-13, 9-6 Home","8-18, 3-11 Away",72,78,NULL,NULL,Final,NULL,17,14,25,16,NULL,18,20,20,20,NULL,NBA
+13,201226017,2001,"Tue, Dec 26",New Jersey Nets,Atlanta Hawks,"9-19, 5-11 Home","10-18, 4-11 Away",76,81,NULL,NULL,Final,NULL,19,16,22,19,NULL,18,20,28,15,NULL,NBA
+14,201229001,2001,"Fri, Dec 29",Atlanta Hawks,Cleveland Cavaliers,"10-20, 6-8 Home","16-12, 6-9 Away",85,97,NULL,NULL,Final,NULL,19,24,29,13,NULL,26,27,20,24,NULL,NBA
+15,210103020,2001,"Wed, Jan 3",Philadelphia 76ers,Atlanta Hawks,"22-8, 8-4 Home","11-21, 4-13 Away",98,80,NULL,NULL,Final,CSN,28,32,23,15,NULL,18,15,22,25,NULL,NBA
+16,210109001,2001,"Tue, Jan 9",Atlanta Hawks,Seattle SuperSonics,"12-22, 8-9 Home","18-18, 8-13 Away",86,95,NULL,NULL,Final,NULL,20,23,22,21,NULL,26,35,11,23,NULL,NBA
+17,210113001,2001,"Sat, Jan 13",Atlanta Hawks,Los Angeles Clippers,"14-22, 10-9 Home","13-26, 4-14 Away",108,88,NULL,NULL,Final,NULL,27,27,23,31,NULL,20,20,27,21,NULL,NBA
+18,210118011,2001,"Thu, Jan 18",Indiana Pacers,Atlanta Hawks,"19-21, 11-7 Home","14-24, 4-14 Away",84,76,NULL,NULL,Final,NULL,17,16,23,28,NULL,17,19,21,19,NULL,NBA
+19,210123002,2001,"Tue, Jan 23",Boston Celtics,Atlanta Hawks,"16-26, 11-13 Home","14-26, 4-16 Away",83,82,NULL,NULL,Final,NULL,21,30,14,18,NULL,20,23,18,21,NULL,NBA
+20,210127005,2001,"Sat, Jan 27",Cleveland Cavaliers,Atlanta Hawks,"20-21, 13-6 Home","15-27, 5-16 Away",90,101,NULL,NULL,Final,NULL,22,21,26,21,NULL,29,25,28,19,NULL,NBA
+21,210131001,2001,"Wed, Jan 31",Atlanta Hawks,Toronto Raptors,"16-28, 11-12 Home","24-22, 11-14 Away",102,97,NULL,NULL,Final,NULL,30,28,20,24,NULL,28,18,25,26,NULL,NBA
+22,210203019,2001,"Sat, Feb 3",Orlando Magic,Atlanta Hawks,"23-23, 14-9 Home","16-30, 5-17 Away",96,84,NULL,NULL,Final,NULL,21,22,27,26,NULL,25,26,17,16,NULL,NBA
+23,210206017,2001,"Tue, Feb 6",New Jersey Nets,Atlanta Hawks,"16-34, 10-16 Home","16-32, 5-18 Away",90,84,NULL,NULL,Final,NULL,26,24,21,19,NULL,21,18,18,27,NULL,NBA
+24,210213004,2001,"Tue, Feb 13",Chicago Bulls,Atlanta Hawks,"7-42, 5-17 Home","16-34, 5-20 Away",96,92,NULL,NULL,Final,NULL,26,30,20,20,NULL,12,30,33,17,NULL,NBA
+25,210217025,2001,"Sat, Feb 17",Seattle SuperSonics,Atlanta Hawks,"28-26, 16-10 Home","17-35, 6-20 Away",94,101,NULL,NULL,Final,NULL,23,19,25,27,NULL,25,16,29,31,NULL,NBA
+26,210220023,2001,"Tue, Feb 20",Sacramento Kings,Atlanta Hawks,"34-17, 22-5 Home","18-36, 7-21 Away",94,80,NULL,NULL,Final,NULL,28,19,25,22,NULL,12,18,25,25,NULL,NBA
+27,210224007,2001,"Sat, Feb 24",Denver Nuggets,Atlanta Hawks,"29-28, 22-7 Home","18-38, 7-23 Away",85,82,NULL,NULL,Final,NULL,27,26,15,17,NULL,17,26,23,16,NULL,NBA
+28,210228001,2001,"Wed, Feb 28",Atlanta Hawks,Toronto Raptors,"18-40, 11-16 Home","31-27, 14-15 Away",88,95,NULL,NULL,Final,NULL,26,22,24,16,NULL,30,23,22,20,NULL,NBA
+29,210303024,2001,"Sat, Mar 3",San Antonio Spurs,Atlanta Hawks,"39-19, 24-6 Home","18-42, 7-25 Away",124,95,NULL,NULL,Final,NULL,33,25,38,28,NULL,24,28,21,22,NULL,NBA
+30,210307001,2001,"Wed, Mar 7",Atlanta Hawks,Houston Rockets,"18-44, 11-19 Home","33-28, 18-14 Away",98,104,NULL,NULL,Final,NULL,29,30,18,21,NULL,19,20,32,33,NULL,NBA
+31,210310001,2001,"Sat, Mar 10",Atlanta Hawks,Chicago Bulls,"19-45, 12-19 Home","11-50, 2-29 Away",93,90,NULL,NULL,Final,NULL,24,24,20,25,NULL,21,27,14,28,NULL,NBA
+32,210316011,2001,"Fri, Mar 16",Indiana Pacers,Atlanta Hawks,"28-36, 18-14 Home","20-46, 7-27 Away",103,97,NULL,NULL,Final,NULL,21,26,27,29,NULL,19,21,24,33,NULL,NBA
+33,210319001,2001,"Mon, Mar 19",Atlanta Hawks,Los Angeles Lakers,"21-47, 14-20 Home","45-22, 20-14 Away",108,106,NULL,NULL,Final,NULL,33,22,29,24,NULL,32,20,30,24,NULL,NBA
+34,210323028,2001,"Fri, Mar 23",Toronto Raptors,Atlanta Hawks,"37-32, 21-13 Home","21-49, 7-28 Away",112,86,NULL,NULL,Final,NULL,35,29,31,17,NULL,22,22,16,26,NULL,NBA
+35,210327001,2001,"Tue, Mar 27",Atlanta Hawks,Boston Celtics,"21-51, 14-22 Home","32-38, 13-21 Away",112,115,NULL,NULL,Final/OT,NULL,28,26,31,20,7,29,18,32,26,10,NBA
+36,210331001,2001,"Sat, Mar 31",Atlanta Hawks,Denver Nuggets,"23-51, 16-22 Home","35-39, 10-28 Away",99,88,NULL,NULL,Final,NULL,26,27,18,28,NULL,25,23,19,21,NULL,NBA
+37,210407010,2001,"Sat, Apr 7",Houston Rockets,Atlanta Hawks,"42-35, 23-16 Home","23-53, 7-31 Away",110,97,NULL,NULL,Final,NULL,33,21,26,30,NULL,23,29,24,21,NULL,NBA
+38,210411001,2001,"Wed, Apr 11",Atlanta Hawks,Cleveland Cavaliers,"24-54, 17-22 Home","27-51, 8-31 Away",107,102,NULL,NULL,Final,NULL,25,30,25,27,NULL,25,32,25,20,NULL,NBA
+39,210414001,2001,"Sat, Apr 14",Atlanta Hawks,Detroit Pistons,"24-56, 17-23 Home","32-47, 14-25 Away",124,129,NULL,NULL,Final/OT,NULL,22,31,32,30,9,29,30,32,24,14,NBA
+40,201031001,2001,"Tue, Oct 31",Atlanta Hawks,Charlotte Hornets,"0-1, 0-1 Home","1-0, 1-0 Away",82,106,NULL,NULL,Final,NULL,13,34,15,20,NULL,28,22,23,33,NULL,NBA
+41,201104001,2001,"Sat, Nov 4",Atlanta Hawks,Orlando Magic,"0-3, 0-2 Home","2-2, 1-1 Away",104,107,NULL,NULL,Final,NULL,22,29,27,26,NULL,33,30,18,26,NULL,NBA
+42,201107022,2001,"Tue, Nov 7",Portland Trail Blazers,Atlanta Hawks,"2-3, 1-1 Home","0-5, 0-3 Away",97,88,NULL,NULL,Final,NULL,25,26,27,19,NULL,15,30,17,26,NULL,NBA
+43,201110012,2001,"Fri, Nov 10",Los Angeles Clippers,Atlanta Hawks,"2-4, 2-2 Home","0-7, 0-5 Away",115,106,NULL,NULL,Final,NULL,27,23,32,33,NULL,26,32,18,30,NULL,NBA
+44,201115015,2001,"Wed, Nov 15",Milwaukee Bucks,Atlanta Hawks,"2-5, 2-2 Home","1-8, 0-6 Away",84,74,NULL,NULL,Final,NULL,21,26,25,12,NULL,18,30,10,16,NULL,NBA
+45,201118001,2001,"Sat, Nov 18",Atlanta Hawks,Minnesota Timberwolves,"1-10, 1-3 Home","6-4, 3-3 Away",84,94,NULL,NULL,Final,NULL,22,23,20,19,NULL,32,12,29,21,NULL,NBA
+46,201124001,2001,"Fri, Nov 24",Atlanta Hawks,Philadelphia 76ers,"2-11, 2-4 Home","11-1, 6-1 Away",67,76,NULL,NULL,Final,CSN,17,22,14,14,NULL,25,15,22,14,NULL,NBA
+47,201128027,2001,"Tue, Nov 28",Washington Wizards,Atlanta Hawks,"4-11, 2-6 Home","3-12, 1-8 Away",75,102,NULL,NULL,Final,NULL,18,12,19,26,NULL,25,25,23,29,NULL,NBA
+48,201202001,2001,"Sat, Dec 2",Atlanta Hawks,Milwaukee Bucks,"4-13, 3-5 Home","6-10, 2-6 Away",101,94,NULL,NULL,Final,NULL,28,21,27,25,NULL,19,34,21,20,NULL,NBA
+49,201208014,2001,"Fri, Dec 8",Miami Heat,Atlanta Hawks,"10-10, 6-5 Home","4-15, 1-9 Away",80,76,NULL,NULL,Final,NULL,18,27,12,23,NULL,16,13,22,25,NULL,NBA
+50,201212001,2001,"Tue, Dec 12",Atlanta Hawks,Sacramento Kings,"5-16, 4-6 Home","14-5, 4-4 Away",107,99,NULL,NULL,Final,NULL,21,29,27,30,NULL,21,25,34,19,NULL,NBA
+51,201215004,2001,"Fri, Dec 15",Chicago Bulls,Atlanta Hawks,"3-20, 1-9 Home","6-17, 2-11 Away",74,85,NULL,NULL,Final,NULL,20,13,23,18,NULL,23,17,20,25,NULL,NBA
+52,201219001,2001,"Tue, Dec 19",Atlanta Hawks,New York Knicks,"7-18, 5-7 Home","15-11, 7-6 Away",87,77,NULL,NULL,Final,NULL,24,22,18,23,NULL,13,27,13,24,NULL,NBA
+53,201223001,2001,"Sat, Dec 23",Atlanta Hawks,Indiana Pacers,"9-18, 6-7 Home","12-16, 5-10 Away",91,87,NULL,NULL,Final,NULL,27,29,20,15,NULL,21,29,22,15,NULL,NBA
+54,201228016,2001,"Thu, Dec 28",Minnesota Timberwolves,Atlanta Hawks,"17-13, 10-4 Home","10-19, 4-12 Away",88,81,NULL,NULL,Final,NULL,17,22,24,25,NULL,17,23,27,14,NULL,NBA
+55,210102001,2001,"Tue, Jan 2",Atlanta Hawks,Boston Celtics,"11-20, 7-8 Home","12-19, 3-10 Away",92,81,NULL,NULL,Final,NULL,23,24,21,24,NULL,27,19,20,15,NULL,NBA
+56,210106001,2001,"Sat, Jan 6",Atlanta Hawks,Orlando Magic,"12-21, 8-8 Home","14-19, 5-12 Away",83,82,NULL,NULL,Final,NULL,20,22,22,19,NULL,29,14,24,15,NULL,NBA
+57,210111001,2001,"Thu, Jan 11",Atlanta Hawks,Golden State Warriors,"13-22, 9-9 Home","11-24, 4-14 Away",107,96,NULL,NULL,Final,NULL,28,30,30,19,NULL,25,22,34,15,NULL,NBA
+58,210115001,2001,"Mon, Jan 15",Atlanta Hawks,New Jersey Nets,"14-23, 10-10 Home","12-26, 6-12 Away",78,84,NULL,NULL,Final,NULL,25,21,15,17,NULL,23,15,24,22,NULL,NBA
+59,210121027,2001,"Sun, Jan 21",Washington Wizards,Atlanta Hawks,"8-34, 5-15 Home","14-25, 4-15 Away",94,90,NULL,NULL,Final,NULL,19,23,22,30,NULL,22,25,17,26,NULL,NBA
+60,210126001,2001,"Fri, Jan 26",Atlanta Hawks,Washington Wizards,"14-27, 10-11 Home","10-34, 4-19 Away",99,106,NULL,NULL,Final,NULL,30,25,26,18,NULL,21,28,23,34,NULL,NBA
+61,210129001,2001,"Mon, Jan 29",Atlanta Hawks,Phoenix Suns,"15-28, 10-12 Home","25-18, 10-11 Away",82,95,NULL,NULL,Final,NULL,18,25,24,15,NULL,24,28,16,27,NULL,NBA
+62,210202001,2001,"Fri, Feb 2",Atlanta Hawks,Miami Heat,"16-29, 11-13 Home","29-19, 14-13 Away",80,91,NULL,NULL,Final,NULL,17,22,25,16,NULL,19,22,27,23,NULL,NBA
+63,210205001,2001,"Mon, Feb 5",Atlanta Hawks,Dallas Mavericks,"16-31, 11-14 Home","31-18, 16-9 Away",81,91,NULL,NULL,Final,NULL,24,26,16,15,NULL,23,13,32,23,NULL,NBA
+64,210208003,2001,"Thu, Feb 8",Charlotte Hornets,Atlanta Hawks,"26-25, 15-8 Home","16-33, 5-19 Away",101,84,NULL,NULL,Final,NULL,25,31,20,25,NULL,18,23,22,21,NULL,NBA
+65,210214001,2001,"Wed, Feb 14",Atlanta Hawks,Milwaukee Bucks,"16-35, 11-15 Home","30-19, 11-12 Away",98,102,NULL,NULL,Final,NULL,27,28,25,18,NULL,25,25,23,29,NULL,NBA
+66,210218009,2001,"Sun, Feb 18",Golden State Warriors,Atlanta Hawks,"15-37, 10-17 Home","18-35, 7-20 Away",91,98,NULL,NULL,Final,NULL,27,22,27,15,NULL,34,16,21,27,NULL,NBA
+67,210223013,2001,"Fri, Feb 23",Los Angeles Lakers,Atlanta Hawks,"36-18, 21-6 Home","18-37, 7-22 Away",113,106,NULL,NULL,Final,NULL,34,33,17,29,NULL,27,23,24,32,NULL,NBA
+68,210226026,2001,"Mon, Feb 26",Utah Jazz,Atlanta Hawks,"38-17, 20-9 Home","18-39, 7-24 Away",99,82,NULL,NULL,Final,NULL,25,27,25,22,NULL,25,19,20,18,NULL,NBA
+69,210302001,2001,"Fri, Mar 2",Atlanta Hawks,Charlotte Hornets,"18-41, 11-17 Home","33-26, 14-17 Away",99,105,NULL,NULL,Final,NULL,34,20,27,18,NULL,28,28,17,32,NULL,NBA
+70,210305001,2001,"Mon, Mar 5",Atlanta Hawks,Utah Jazz,"18-43, 11-18 Home","41-18, 20-9 Away",102,109,NULL,NULL,Final,NULL,24,27,32,19,NULL,24,34,26,25,NULL,NBA
+71,210309020,2001,"Fri, Mar 9",Philadelphia 76ers,Atlanta Hawks,"46-16, 23-9 Home","18-45, 7-26 Away",108,103,NULL,NULL,Final,CSN,33,22,30,23,NULL,28,24,18,33,NULL,NBA
+72,210313001,2001,"Tue, Mar 13",Atlanta Hawks,Vancouver Grizzlies,"20-45, 13-19 Home","20-45, 7-24 Away",109,99,NULL,NULL,Final,NULL,23,31,24,31,NULL,14,23,30,32,NULL,NBA
+73,210317001,2001,"Sat, Mar 17",Atlanta Hawks,Detroit Pistons,"20-47, 13-20 Home","25-41, 11-21 Away",90,106,NULL,NULL,Final,NULL,25,23,17,25,NULL,29,33,25,19,NULL,NBA
+74,210322001,2001,"Thu, Mar 22",Atlanta Hawks,San Antonio Spurs,"21-48, 14-21 Home","49-20, 21-14 Away",101,115,NULL,NULL,Final,NULL,25,23,30,23,NULL,34,26,33,22,NULL,NBA
+75,210325015,2001,"Sun, Mar 25",Milwaukee Bucks,Atlanta Hawks,"44-25, 27-10 Home","21-50, 7-29 Away",105,98,NULL,NULL,Final,NULL,29,30,21,25,NULL,31,30,27,10,NULL,NBA
+76,210329001,2001,"Thu, Mar 29",Atlanta Hawks,Indiana Pacers,"22-51, 15-22 Home","32-39, 11-25 Away",104,93,NULL,NULL,Final,NULL,20,29,25,30,NULL,27,27,20,19,NULL,NBA
+77,210405006,2001,"Thu, Apr 5",Dallas Mavericks,Atlanta Hawks,"49-26, 26-12 Home","23-52, 7-30 Away",108,94,NULL,NULL,Final,NULL,23,35,24,26,NULL,16,22,27,29,NULL,NBA
+78,210409008,2001,"Mon, Apr 9",Detroit Pistons,Atlanta Hawks,"30-47, 17-22 Home","23-54, 7-32 Away",81,69,NULL,NULL,Final,NULL,24,18,22,17,NULL,26,12,15,16,NULL,NBA
+79,210413018,2001,"Fri, Apr 13",New York Knicks,Atlanta Hawks,"47-32, 29-11 Home","24-55, 7-33 Away",101,65,NULL,NULL,Final,NULL,33,26,23,19,NULL,17,15,17,16,NULL,NBA
+80,210416003,2001,"Mon, Apr 16",Charlotte Hornets,Atlanta Hawks,"45-36, 28-13 Home","24-57, 7-34 Away",106,83,NULL,NULL,Final,NULL,32,28,23,23,NULL,25,18,16,24,NULL,NBA
+81,210417001,2001,"Tue, Apr 17",Atlanta Hawks,Washington Wizards,"25-57, 18-23 Home","19-62, 7-34 Away",122,119,NULL,NULL,Final,NULL,29,25,26,42,NULL,31,31,31,26,NULL,NBA

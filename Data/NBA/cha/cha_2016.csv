@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,400827913,2016,"Fri, Oct 30",Atlanta Hawks,Charlotte Hornets,"2-1, 1-1 Home","0-2, 0-2 Away",97,94,NULL,NULL,Final,NULL,29,24,23,21,NULL,22,30,17,25,NULL,NBA
+1,400827940,2016,"Tue, Nov 3",Charlotte Hornets,Chicago Bulls,"1-3, 1-1 Home","3-2, 1-2 Away",130,105,NULL,NULL,Final,NULL,37,32,31,30,NULL,20,27,30,28,NULL,NBA
+2,400827977,2016,"Sat, Nov 7",San Antonio Spurs,Charlotte Hornets,"4-2, 2-0 Home","2-4, 1-3 Away",114,94,NULL,NULL,Final,NULL,29,22,42,21,NULL,21,26,29,18,NULL,NBA
+3,400828000,2016,"Wed, Nov 11",Charlotte Hornets,New York Knicks,"4-4, 2-1 Home","4-5, 3-2 Away",95,93,NULL,NULL,Final,NULL,18,31,20,26,NULL,27,20,32,14,NULL,NBA
+4,400828034,2016,"Sun, Nov 15",Charlotte Hornets,Portland Trail Blazers,"5-5, 3-1 Home","4-7, 2-4 Away",106,94,NULL,NULL,Final,NULL,35,36,18,17,NULL,27,18,21,28,NULL,NBA
+5,400828052,2016,"Wed, Nov 18",Charlotte Hornets,Brooklyn Nets,"6-6, 4-1 Home","2-10, 1-7 Away",116,111,NULL,NULL,Final,NULL,32,20,34,30,NULL,32,24,30,25,NULL,NBA
+6,400828089,2016,"Mon, Nov 23",Charlotte Hornets,Sacramento Kings,"8-6, 6-1 Home","5-10, 1-5 Away",127,122,NULL,NULL,Final/OT,NULL,33,27,14,38,15,30,30,31,21,10,NBA
+7,400828114,2016,"Fri, Nov 27",Charlotte Hornets,Cleveland Cavaliers,"9-7, 7-2 Home","12-4, 4-4 Away",90,95,NULL,NULL,Final,NULL,22,30,24,14,NULL,23,27,22,23,NULL,NBA
+8,400828155,2016,"Wed, Dec 2",Charlotte Hornets,Golden State Warriors,"10-8, 8-3 Home","20-0, 10-0 Away",99,116,NULL,NULL,Final,NULL,23,28,21,27,NULL,32,28,33,23,NULL,NBA
+9,400828191,2016,"Mon, Dec 7",Charlotte Hornets,Detroit Pistons,"12-8, 9-3 Home","12-10, 4-8 Away",104,84,NULL,NULL,Final,NULL,28,34,26,16,NULL,20,31,19,14,NULL,NBA
+10,400828225,2016,"Fri, Dec 11",Memphis Grizzlies,Charlotte Hornets,"13-11, 7-6 Home","14-8, 4-5 Away",99,123,NULL,NULL,Final,NULL,35,19,19,26,NULL,29,30,34,30,NULL,NBA
+11,400828259,2016,"Wed, Dec 16",Orlando Magic,Charlotte Hornets,"14-11, 8-4 Home","14-10, 4-6 Away",113,98,NULL,NULL,Final,NULL,30,28,31,24,NULL,23,22,28,25,NULL,NBA
+12,400828286,2016,"Sat, Dec 19",Washington Wizards,Charlotte Hornets,"11-14, 5-7 Home","15-11, 4-7 Away",109,101,NULL,NULL,Final,NBATV,28,31,27,23,NULL,27,26,22,26,NULL,NBA
+13,400828310,2016,"Wed, Dec 23",Charlotte Hornets,Boston Celtics,"15-13, 11-5 Home","16-13, 8-6 Away",89,102,NULL,NULL,Final,NULL,21,19,22,27,NULL,29,18,27,28,NULL,NBA
+14,400828345,2016,"Mon, Dec 28",Charlotte Hornets,Los Angeles Lakers,"17-13, 13-5 Home","5-27, 3-18 Away",108,98,NULL,NULL,Final,NULL,31,27,27,23,NULL,26,32,23,17,NULL,NBA
+15,400828379,2016,"Fri, Jan 1",Toronto Raptors,Charlotte Hornets,"21-13, 11-5 Home","17-15, 4-9 Away",104,94,NULL,NULL,Final,NULL,29,26,19,30,NULL,28,27,27,12,NULL,NBA
+16,400828407,2016,"Mon, Jan 4",Golden State Warriors,Charlotte Hornets,"32-2, 17-0 Home","17-17, 4-10 Away",111,101,NULL,NULL,Final,NULL,32,30,33,16,NULL,24,30,23,24,NULL,NBA
+17,400828437,2016,"Sat, Jan 9",LA Clippers,Charlotte Hornets,"24-13, 12-6 Home","17-19, 4-12 Away",97,83,NULL,NULL,Final,NULL,27,16,27,27,NULL,18,28,18,19,NULL,NBA
+18,400828464,2016,"Wed, Jan 13",Charlotte Hornets,Atlanta Hawks,"18-20, 14-7 Home","23-16, 10-9 Away",107,84,NULL,NULL,Final,NULL,20,25,35,27,NULL,19,17,22,26,NULL,NBA
+19,400828490,2016,"Sat, Jan 16",Charlotte Hornets,Milwaukee Bucks,"18-22, 14-8 Home","18-25, 6-18 Away",92,105,NULL,NULL,Final,NULL,29,19,23,21,NULL,19,33,32,21,NULL,NBA
+20,400828523,2016,"Wed, Jan 20",Oklahoma City Thunder,Charlotte Hornets,"32-12, 21-5 Home","19-23, 4-15 Away",109,95,NULL,NULL,Final,NULL,30,22,36,21,NULL,22,23,25,25,NULL,NBA
+21,400828542,2016,"Sat, Jan 23",Charlotte Hornets,New York Knicks,"21-23, 16-8 Home","22-24, 9-15 Away",97,84,NULL,NULL,Final,NULL,20,25,32,20,NULL,22,21,13,28,NULL,NBA
+22,400828577,2016,"Wed, Jan 27",Utah Jazz,Charlotte Hornets,"20-25, 13-10 Home","22-24, 6-16 Away",102,73,NULL,NULL,Final,NULL,18,25,27,32,NULL,18,13,20,22,NULL,NBA
+23,400828607,2016,"Sun, Jan 31",Los Angeles Lakers,Charlotte Hornets,"9-41, 5-18 Home","23-25, 7-17 Away",82,101,NULL,NULL,Final,NULL,16,27,17,22,NULL,21,37,25,18,NULL,NBA
+24,400828638,2016,"Fri, Feb 5",Charlotte Hornets,Miami Heat,"24-26, 17-9 Home","29-22, 13-13 Away",95,98,NULL,NULL,Final,NULL,31,16,26,22,NULL,25,22,20,31,NULL,NBA
+25,400828661,2016,"Mon, Feb 8",Charlotte Hornets,Chicago Bulls,"26-26, 19-9 Home","27-24, 11-15 Away",108,91,NULL,NULL,Final,NULL,38,19,30,21,NULL,20,22,23,26,NULL,NBA
+26,400828700,2016,"Fri, Feb 19",Milwaukee Bucks,Charlotte Hornets,"22-33, 15-9 Home","28-26, 9-17 Away",95,98,NULL,NULL,Final,NULL,25,27,26,17,NULL,28,24,18,28,NULL,NBA
+27,400828732,2016,"Wed, Feb 24",Cleveland Cavaliers,Charlotte Hornets,"41-15, 24-5 Home","29-27, 10-18 Away",114,103,NULL,NULL,Final,NULL,23,40,25,26,NULL,24,28,24,27,NULL,NBA
+28,400828765,2016,"Sun, Feb 28",Atlanta Hawks,Charlotte Hornets,"33-27, 19-12 Home","30-28, 11-19 Away",87,76,NULL,NULL,Final,NULL,25,21,22,19,NULL,9,23,25,19,NULL,NBA
+29,400828785,2016,"Wed, Mar 2",Philadelphia 76ers,Charlotte Hornets,"8-53, 5-24 Home","32-28, 12-19 Away",99,119,NULL,NULL,Final,NULL,29,21,24,25,NULL,32,26,25,36,NULL,NBA
+30,400828824,2016,"Mon, Mar 7",Charlotte Hornets,Minnesota Timberwolves,"34-28, 22-9 Home","20-44, 9-23 Away",108,103,NULL,NULL,Final,NULL,23,24,35,26,NULL,18,31,26,28,NULL,NBA
+31,400828850,2016,"Fri, Mar 11",Charlotte Hornets,Detroit Pistons,"36-28, 24-9 Home","33-32, 14-21 Away",118,103,NULL,NULL,Final,NULL,38,31,19,30,NULL,32,21,28,22,NULL,NBA
+32,400828875,2016,"Mon, Mar 14",Charlotte Hornets,Dallas Mavericks,"37-29, 25-10 Home","34-33, 15-17 Away",96,107,NULL,NULL,Final,NULL,18,15,32,31,NULL,22,30,19,36,NULL,NBA
+33,400828901,2016,"Thu, Mar 17",Miami Heat,Charlotte Hornets,"39-29, 22-13 Home","39-29, 13-19 Away",106,109,NULL,NULL,Final,NULL,29,23,21,33,NULL,26,28,28,27,NULL,NBA
+34,400828930,2016,"Mon, Mar 21",Charlotte Hornets,San Antonio Spurs,"40-30, 27-11 Home","59-11, 24-11 Away",91,88,NULL,NULL,Final,NBATV,7,29,31,24,NULL,28,23,21,16,NULL,NBA
+35,400828961,2016,"Fri, Mar 25",Detroit Pistons,Charlotte Hornets,"39-34, 24-12 Home","41-31, 14-20 Away",112,105,NULL,NULL,Final,NBATV,36,36,26,14,NULL,24,32,20,29,NULL,NBA
+36,400828996,2016,"Tue, Mar 29",Philadelphia 76ers,Charlotte Hornets,"9-66, 6-31 Home","43-31, 16-20 Away",85,100,NULL,NULL,Final,NULL,19,17,26,23,NULL,23,29,25,23,NULL,NBA
+37,400829031,2016,"Sun, Apr 3",Cleveland Cavaliers,Charlotte Hornets,"55-22, 32-7 Home","44-32, 16-21 Away",112,103,NULL,NULL,Final,NULL,29,29,28,26,NULL,19,23,29,32,NULL,NBA
+38,400829056,2016,"Wed, Apr 6",New York Knicks,Charlotte Hornets,"31-48, 18-22 Home","45-33, 17-22 Away",97,111,NULL,NULL,Final,NULL,25,27,20,25,NULL,30,23,28,30,NULL,NBA
+39,400829081,2016,"Sun, Apr 10",Washington Wizards,Charlotte Hornets,"39-41, 21-19 Home","46-34, 17-23 Away",113,98,NULL,NULL,Final,NBATV,28,27,31,27,NULL,27,21,26,24,NULL,NBA
+40,400827895,2016,"Wed, Oct 28",Miami Heat,Charlotte Hornets,"1-0, 1-0 Home","0-1, 0-1 Away",104,94,NULL,NULL,Final,NULL,23,31,19,31,NULL,27,17,16,34,NULL,NBA
+41,400827926,2016,"Sun, Nov 1",Charlotte Hornets,Atlanta Hawks,"0-3, 0-1 Home","3-1, 2-0 Away",92,94,NULL,NULL,Final,NULL,18,21,37,16,NULL,28,18,24,24,NULL,NBA
+42,400827959,2016,"Thu, Nov 5",Dallas Mavericks,Charlotte Hornets,"2-3, 0-2 Home","2-3, 1-2 Away",94,108,NULL,NULL,Final,NULL,23,30,14,27,NULL,27,27,24,30,NULL,NBA
+43,400827998,2016,"Tue, Nov 10",Minnesota Timberwolves,Charlotte Hornets,"4-3, 0-3 Home","3-4, 2-3 Away",95,104,NULL,NULL,Final,NULL,31,28,21,15,NULL,32,31,22,19,NULL,NBA
+44,400828019,2016,"Fri, Nov 13",Chicago Bulls,Charlotte Hornets,"6-3, 4-1 Home","4-5, 2-4 Away",102,97,NULL,NULL,Final,NULL,23,27,23,29,NULL,23,23,29,22,NULL,NBA
+45,400828049,2016,"Tue, Nov 17",New York Knicks,Charlotte Hornets,"6-6, 3-4 Home","5-6, 2-5 Away",102,94,NULL,NULL,Final,NULL,26,20,34,22,NULL,21,27,24,22,NULL,NBA
+46,400828065,2016,"Fri, Nov 20",Charlotte Hornets,Philadelphia 76ers,"7-6, 5-1 Home","0-13, 0-6 Away",113,88,NULL,NULL,Final,NULL,30,32,23,28,NULL,19,22,29,18,NULL,NBA
+47,400828102,2016,"Wed, Nov 25",Charlotte Hornets,Washington Wizards,"9-6, 7-1 Home","6-6, 3-3 Away",101,87,NULL,NULL,Final,NULL,28,30,16,27,NULL,24,30,27,6,NULL,NBA
+48,400828133,2016,"Sun, Nov 29",Charlotte Hornets,Milwaukee Bucks,"10-7, 8-2 Home","6-11, 2-7 Away",87,82,NULL,NULL,Final,NULL,22,23,20,22,NULL,28,9,22,23,NULL,NBA
+49,400828179,2016,"Sat, Dec 5",Chicago Bulls,Charlotte Hornets,"11-6, 7-2 Home","11-8, 3-5 Away",96,102,NULL,NULL,Final,NULL,22,28,25,21,NULL,26,26,20,30,NULL,NBA
+50,400828207,2016,"Wed, Dec 9",Charlotte Hornets,Miami Heat,"13-8, 10-3 Home","12-8, 2-4 Away",99,81,NULL,NULL,Final,NULL,27,29,24,19,NULL,17,19,18,27,NULL,NBA
+51,400828232,2016,"Sat, Dec 12",Charlotte Hornets,Boston Celtics,"14-9, 10-4 Home","14-10, 7-5 Away",93,98,NULL,NULL,Final,NULL,17,25,27,24,NULL,16,22,35,25,NULL,NBA
+52,400828270,2016,"Thu, Dec 17",Charlotte Hornets,Toronto Raptors,"15-10, 11-4 Home","16-11, 8-7 Away",109,99,NULL,NULL,Final/OT,NULL,25,31,21,13,19,20,24,21,25,9,NBA
+53,400828302,2016,"Mon, Dec 21",Houston Rockets,Charlotte Hornets,"15-14, 9-7 Home","15-12, 4-8 Away",102,95,NULL,NULL,Final,NULL,27,18,24,33,NULL,28,16,16,35,NULL,NBA
+54,400828330,2016,"Sat, Dec 26",Charlotte Hornets,Memphis Grizzlies,"16-13, 12-5 Home","16-16, 7-10 Away",98,92,NULL,NULL,Final,NULL,30,23,21,24,NULL,28,25,21,18,NULL,NBA
+55,400828361,2016,"Wed, Dec 30",Charlotte Hornets,LA Clippers,"17-14, 13-6 Home","20-13, 10-7 Away",117,122,NULL,NULL,Final,NULL,25,31,30,31,NULL,32,33,27,30,NULL,NBA
+56,400828384,2016,"Sat, Jan 2",Charlotte Hornets,Oklahoma City Thunder,"17-16, 13-7 Home","24-10, 8-6 Away",90,109,NULL,NULL,Final,NULL,22,32,22,14,NULL,34,32,21,22,NULL,NBA
+57,400828420,2016,"Wed, Jan 6",Phoenix Suns,Charlotte Hornets,"13-25, 9-10 Home","17-18, 4-11 Away",111,102,NULL,NULL,Final,NULL,34,26,26,25,NULL,32,20,33,17,NULL,NBA
+58,400828450,2016,"Sun, Jan 10",Denver Nuggets,Charlotte Hornets,"14-24, 6-11 Home","17-20, 4-13 Away",95,92,NULL,NULL,Final,NBATV,36,17,28,14,NULL,26,30,21,15,NULL,NBA
+59,400828485,2016,"Fri, Jan 15",New Orleans Pelicans,Charlotte Hornets,"13-26, 8-9 Home","18-21, 4-14 Away",109,107,NULL,NULL,Final,NULL,32,25,27,25,NULL,34,15,32,26,NULL,NBA
+60,400828503,2016,"Mon, Jan 18",Charlotte Hornets,Utah Jazz,"19-22, 15-8 Home","18-23, 6-14 Away",124,119,NULL,NULL,Final/2OT,NULL,29,23,21,22,29,28,15,21,31,24,NBA
+61,400828532,2016,"Fri, Jan 22",Orlando Magic,Charlotte Hornets,"20-22, 12-11 Home","20-23, 5-15 Away",116,120,NULL,NULL,Final/OT,NULL,35,26,33,15,7,30,25,24,30,11,NBA
+62,400828561,2016,"Mon, Jan 25",Sacramento Kings,Charlotte Hornets,"20-24, 12-12 Home","22-23, 6-15 Away",128,129,NULL,NULL,Final/2OT,NULL,31,25,28,31,13,16,30,42,27,14,NBA
+63,400828592,2016,"Fri, Jan 29",Portland Trail Blazers,Charlotte Hornets,"22-26, 13-10 Home","22-25, 6-17 Away",109,91,NULL,NULL,Final,NULL,21,29,33,26,NULL,25,20,24,22,NULL,NBA
+64,400828622,2016,"Wed, Feb 3",Charlotte Hornets,Cleveland Cavaliers,"24-25, 17-8 Home","35-13, 16-10 Away",106,97,NULL,NULL,Final,NULL,23,26,33,24,NULL,23,35,17,22,NULL,NBA
+65,400828648,2016,"Sat, Feb 6",Charlotte Hornets,Washington Wizards,"25-26, 18-9 Home","22-27, 11-11 Away",108,104,NULL,NULL,Final,NULL,25,23,30,30,NULL,25,33,17,29,NULL,NBA
+66,400828676,2016,"Wed, Feb 10",Indiana Pacers,Charlotte Hornets,"28-25, 17-9 Home","27-26, 8-17 Away",95,117,NULL,NULL,Final,NULL,25,18,27,25,NULL,25,35,29,28,NULL,NBA
+67,400828714,2016,"Sun, Feb 21",Brooklyn Nets,Charlotte Hornets,"15-41, 11-22 Home","29-26, 10-17 Away",96,104,NULL,NULL,Final,NULL,26,22,25,23,NULL,29,26,31,18,NULL,NBA
+68,400828748,2016,"Fri, Feb 26",Indiana Pacers,Charlotte Hornets,"31-27, 18-10 Home","30-27, 11-18 Away",95,96,NULL,NULL,Final,NULL,26,24,20,25,NULL,29,24,24,19,NULL,NBA
+69,400828778,2016,"Tue, Mar 1",Charlotte Hornets,Phoenix Suns,"31-28, 20-9 Home","15-45, 4-24 Away",126,92,NULL,NULL,Final,NULL,35,33,30,28,NULL,18,24,19,31,NULL,NBA
+70,400828799,2016,"Fri, Mar 4",Charlotte Hornets,Indiana Pacers,"33-28, 21-9 Home","32-30, 14-19 Away",108,101,NULL,NULL,Final,NULL,31,24,25,28,NULL,30,20,32,19,NULL,NBA
+71,400828837,2016,"Wed, Mar 9",Charlotte Hornets,New Orleans Pelicans,"35-28, 23-9 Home","24-39, 7-24 Away",122,113,NULL,NULL,Final,NULL,39,32,28,23,NULL,28,32,30,23,NULL,NBA
+72,400828862,2016,"Sat, Mar 12",Charlotte Hornets,Houston Rockets,"37-28, 25-9 Home","33-33, 16-19 Away",125,109,NULL,NULL,Final,NULL,34,28,28,35,NULL,19,38,30,22,NULL,NBA
+73,400828891,2016,"Wed, Mar 16",Charlotte Hornets,Orlando Magic,"38-29, 26-10 Home","29-38, 11-22 Away",107,99,NULL,NULL,Final,NULL,26,35,31,15,NULL,30,13,28,28,NULL,NBA
+74,400828915,2016,"Sat, Mar 19",Charlotte Hornets,Denver Nuggets,"39-30, 26-11 Home","29-41, 13-22 Away",93,101,NULL,NULL,Final,NULL,22,18,22,31,NULL,28,29,21,23,NULL,NBA
+75,400828939,2016,"Tue, Mar 22",Brooklyn Nets,Charlotte Hornets,"19-51, 12-24 Home","41-30, 14-19 Away",100,105,NULL,NULL,Final,NULL,14,22,28,36,NULL,25,21,21,38,NULL,NBA
+76,400828976,2016,"Sat, Mar 26",Milwaukee Bucks,Charlotte Hornets,"30-44, 21-15 Home","42-31, 15-20 Away",91,115,NULL,NULL,Final,NULL,17,21,26,27,NULL,29,26,35,25,NULL,NBA
+77,400829015,2016,"Fri, Apr 1",Charlotte Hornets,Philadelphia 76ers,"44-31, 28-11 Home","9-67, 3-36 Away",100,91,NULL,NULL,Final,NULL,25,34,22,19,NULL,25,25,16,25,NULL,NBA
+78,400829043,2016,"Tue, Apr 5",Toronto Raptors,Charlotte Hornets,"52-25, 30-9 Home","44-33, 16-22 Away",96,90,NULL,NULL,Final,NULL,26,30,19,21,NULL,16,26,17,31,NULL,NBA
+79,400829065,2016,"Fri, Apr 8",Charlotte Hornets,Brooklyn Nets,"46-33, 29-11 Home","21-58, 7-33 Away",113,99,NULL,NULL,Final,NULL,25,25,34,29,NULL,25,18,21,35,NULL,NBA
+80,400829092,2016,"Mon, Apr 11",Boston Celtics,Charlotte Hornets,"47-34, 27-13 Home","47-34, 18-23 Away",100,114,NULL,NULL,Final,NULL,28,13,31,28,NULL,24,39,31,20,NULL,NBA
+81,400829106,2016,"Wed, Apr 13",Charlotte Hornets,Orlando Magic,"48-34, 30-11 Home","35-47, 12-29 Away",117,103,NULL,NULL,Final,NULL,38,28,20,31,NULL,22,28,29,24,NULL,NBA

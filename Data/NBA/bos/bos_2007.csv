@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,261103002,2007,"Fri, Nov 3",Boston Celtics,Detroit Pistons,"0-2, 0-2 Home","1-1, 1-0 Away",88,101,NULL,NULL,Final,NULL,25,21,24,18,NULL,24,21,28,28,NULL,NBA
+1,261108002,2007,"Wed, Nov 8",Boston Celtics,Charlotte Bobcats,"1-3, 1-2 Home","1-3, 0-2 Away",110,108,NULL,NULL,Final/OT,NULL,17,28,37,18,10,24,25,25,26,8,NBA
+2,261111005,2007,"Sat, Nov 11",Cleveland Cavaliers,Boston Celtics,"4-2, 3-1 Home","1-5, 0-2 Away",94,93,NULL,NULL,Final,NULL,10,24,26,34,NULL,25,23,28,17,NULL,NBA
+3,261115002,2007,"Wed, Nov 15",Boston Celtics,Indiana Pacers,"2-6, 2-4 Home","4-4, 2-3 Away",114,88,NULL,NULL,Final,NULL,25,22,33,34,NULL,24,21,21,22,NULL,NBA
+4,261118018,2007,"Sat, Nov 18",New York Knicks,Boston Celtics,"4-7, 1-4 Home","4-6, 1-2 Away",118,122,NULL,NULL,Final,NULL,24,32,22,40,NULL,24,29,35,34,NULL,NBA
+5,261124002,2007,"Fri, Nov 24",Boston Celtics,New York Knicks,"4-8, 3-5 Home","5-9, 4-4 Away",77,101,NULL,NULL,Final,NULL,25,22,14,16,NULL,23,29,29,20,NULL,NBA
+6,261129002,2007,"Wed, Nov 29",Boston Celtics,New Jersey Nets,"5-9, 3-6 Home","6-9, 3-5 Away",103,106,NULL,NULL,Final,NULL,28,27,29,19,NULL,27,25,24,30,NULL,NBA
+7,261204004,2007,"Mon, Dec 4",Chicago Bulls,Boston Celtics,"8-9, 5-1 Home","5-11, 2-5 Away",100,82,NULL,NULL,Final,NULL,28,25,25,22,NULL,14,21,18,29,NULL,NBA
+8,261208002,2007,"Fri, Dec 8",Boston Celtics,Phoenix Suns,"5-13, 3-8 Home","12-6, 4-4 Away",111,116,NULL,NULL,Final,NULL,33,21,27,30,NULL,35,24,21,36,NULL,NBA
+9,261211018,2007,"Mon, Dec 11",New York Knicks,Boston Celtics,"8-15, 3-9 Home","7-13, 4-5 Away",90,97,NULL,NULL,Final,NULL,17,19,31,23,NULL,31,30,21,15,NULL,NBA
+10,261215002,2007,"Fri, Dec 15",Boston Celtics,Denver Nuggets,"9-13, 4-8 Home","12-9, 6-5 Away",119,114,NULL,NULL,Final,NULL,31,33,21,34,NULL,17,30,27,40,NULL,NBA
+11,261220002,2007,"Wed, Dec 20",Boston Celtics,Golden State Warriors,"10-14, 4-9 Home","13-14, 2-9 Away",95,96,NULL,NULL,Final,NULL,29,19,23,24,NULL,29,29,18,20,NULL,NBA
+12,261226007,2007,"Tue, Dec 26",Denver Nuggets,Boston Celtics,"15-10, 8-5 Home","10-16, 6-6 Away",116,105,NULL,NULL,Final,NULL,27,30,31,28,NULL,25,22,31,27,NULL,NBA
+13,261229009,2007,"Fri, Dec 29",Golden State Warriors,Boston Celtics,"16-15, 13-5 Home","10-18, 6-8 Away",110,100,NULL,NULL,Final,NBATV,33,20,28,29,NULL,21,27,23,29,NULL,NBA
+14,270101022,2007,"Mon, Jan 1",Portland Trail Blazers,Boston Celtics,"13-19, 7-9 Home","11-19, 7-9 Away",81,89,NULL,NULL,Final,NBATV,27,17,23,14,NULL,23,21,26,19,NULL,NBA
+15,270105029,2007,"Fri, Jan 5",Memphis Grizzlies,Boston Celtics,"8-26, 6-10 Home","12-20, 8-9 Away",119,128,NULL,NULL,Final,NULL,36,22,32,29,NULL,34,24,39,31,NULL,NBA
+16,270110002,2007,"Wed, Jan 10",Boston Celtics,Indiana Pacers,"12-22, 4-12 Home","20-16, 10-11 Away",84,97,NULL,NULL,Final,NULL,27,25,14,18,NULL,22,30,28,17,NULL,NBA
+17,270113008,2007,"Sat, Jan 13",Detroit Pistons,Boston Celtics,"21-14, 10-6 Home","12-24, 8-11 Away",81,73,NULL,NULL,Final,NULL,26,23,11,21,NULL,27,16,17,13,NULL,NBA
+18,270119002,2007,"Fri, Jan 19",Boston Celtics,Sacramento Kings,"12-26, 4-14 Home","15-22, 5-11 Away",91,96,NULL,NULL,Final,NULL,22,22,23,24,NULL,21,20,21,34,NULL,NBA
+19,270122002,2007,"Mon, Jan 22",Boston Celtics,San Antonio Spurs,"12-28, 4-15 Home","30-13, 15-6 Away",89,93,NULL,NULL,Final,NULL,24,14,25,26,NULL,20,30,27,16,NULL,NBA
+20,270126028,2007,"Fri, Jan 26",Toronto Raptors,Boston Celtics,"22-22, 14-7 Home","12-30, 8-14 Away",96,90,NULL,NULL,Final,NULL,24,25,20,27,NULL,17,26,28,19,NULL,NBA
+21,270130011,2007,"Tue, Jan 30",Indiana Pacers,Boston Celtics,"24-21, 14-7 Home","12-32, 8-15 Away",103,96,NULL,NULL,Final,NBATV,24,28,24,27,NULL,30,13,13,40,NULL,NBA
+22,270202002,2007,"Fri, Feb 2",Boston Celtics,LA Clippers,"12-34, 4-19 Home","24-22, 7-14 Away",89,100,NULL,NULL,Final,NULL,21,21,27,20,NULL,25,22,20,33,NULL,NBA
+23,270207002,2007,"Wed, Feb 7",Boston Celtics,Miami Heat,"12-36, 4-20 Home","24-25, 11-15 Away",79,91,NULL,NULL,Final,NBATV,27,13,18,21,NULL,17,27,26,21,NULL,NBA
+24,270211016,2007,"Sun, Feb 11",Minnesota Timberwolves,Boston Celtics,"24-27, 15-9 Home","12-38, 8-17 Away",109,107,NULL,NULL,Final,NULL,24,27,36,22,NULL,31,25,29,22,NULL,NBA
+25,270220023,2007,"Tue, Feb 20",Sacramento Kings,Boston Celtics,"23-29, 16-12 Home","13-39, 8-18 Away",104,101,NULL,NULL,Final,NULL,34,32,25,13,NULL,26,36,19,20,NULL,NBA
+26,270223013,2007,"Fri, Feb 23",Los Angeles Lakers,Boston Celtics,"31-25, 20-9 Home","13-41, 8-20 Away",122,96,NULL,NULL,Final,NULL,34,31,33,24,NULL,30,24,20,22,NULL,NBA
+27,270226010,2007,"Mon, Feb 26",Houston Rockets,Boston Celtics,"35-21, 20-8 Home","14-42, 9-21 Away",72,77,NULL,NULL,Final,NULL,22,13,18,19,NULL,14,15,15,33,NULL,NBA
+28,270303017,2007,"Sat, Mar 3",New Jersey Nets,Boston Celtics,"28-31, 17-15 Home","16-42, 10-21 Away",88,96,NULL,NULL,Final/OT,NULL,20,16,17,30,5,15,18,17,33,13,NBA
+29,270307002,2007,"Wed, Mar 7",Boston Celtics,Houston Rockets,"17-43, 7-22 Home","37-24, 17-14 Away",80,111,NULL,NULL,Final,NULL,22,27,19,12,NULL,30,32,31,18,NULL,NBA
+30,270311002,2007,"Sun, Mar 11",Boston Celtics,Chicago Bulls,"18-44, 8-23 Home","37-28, 13-20 Away",78,94,NULL,NULL,Final,NULL,17,24,22,15,NULL,24,24,18,28,NULL,NBA
+31,270314002,2007,"Wed, Mar 14",Boston Celtics,Atlanta Hawks,"19-45, 9-23 Home","26-40, 12-22 Away",109,88,NULL,NULL,Final,NULL,26,24,36,23,NULL,25,16,19,28,NULL,NBA
+32,270317024,2007,"Sat, Mar 17",San Antonio Spurs,Boston Celtics,"46-20, 22-9 Home","20-46, 11-23 Away",85,91,NULL,NULL,Final,NULL,15,25,22,23,NULL,29,16,30,16,NULL,NBA
+33,270321002,2007,"Wed, Mar 21",Boston Celtics,Charlotte Bobcats,"20-48, 9-24 Home","26-43, 10-25 Away",84,92,NULL,NULL,Final,NULL,31,23,17,13,NULL,19,20,23,30,NULL,NBA
+34,270326002,2007,"Mon, Mar 26",Boston Celtics,Toronto Raptors,"21-49, 10-25 Home","38-32, 13-22 Away",95,87,NULL,NULL,Final,NULL,22,20,23,30,NULL,19,19,18,31,NULL,NBA
+35,270330020,2007,"Fri, Mar 30",Philadelphia 76ers,Boston Celtics,"29-43, 19-17 Home","22-50, 11-25 Away",88,82,NULL,NULL,Final,CSN,25,19,23,21,NULL,20,11,27,24,NULL,NBA
+36,270404015,2007,"Wed, Apr 4",Milwaukee Bucks,Boston Celtics,"26-48, 17-19 Home","23-51, 11-26 Away",98,89,NULL,NULL,Final,NULL,25,28,26,19,NULL,21,31,20,17,NULL,NBA
+37,270407011,2007,"Sat, Apr 7",Indiana Pacers,Boston Celtics,"34-42, 22-17 Home","23-53, 11-27 Away",105,98,NULL,NULL,Final,NULL,26,25,27,27,NULL,15,28,24,31,NULL,NBA
+38,270411002,2007,"Wed, Apr 11",Boston Celtics,Philadelphia 76ers,"23-55, 12-27 Home","33-45, 12-27 Away",94,102,NULL,NULL,Final,CSN,29,29,18,18,NULL,20,27,29,26,NULL,NBA
+39,270415019,2007,"Sun, Apr 15",Orlando Magic,Boston Celtics,"38-42, 24-16 Home","23-57, 11-29 Away",88,86,NULL,NULL,Final,NULL,23,25,30,10,NULL,24,16,19,27,NULL,NBA
+40,261101002,2007,"Wed, Nov 1",Boston Celtics,NO/Oklahoma City Hornets,"0-1, 0-1 Home","1-0, 1-0 Away",87,91,NULL,NULL,Final,NULL,16,25,24,22,NULL,26,28,21,16,NULL,NBA
+41,261104027,2007,"Sat, Nov 4",Washington Wizards,Boston Celtics,"1-1, 1-0 Home","0-3, 0-1 Away",124,117,NULL,NULL,Final,NBATV,35,23,40,26,NULL,28,29,31,29,NULL,NBA
+42,261110002,2007,"Fri, Nov 10",Boston Celtics,Utah Jazz,"1-4, 1-3 Home","5-1, 2-1 Away",100,107,NULL,NULL,Final,NULL,31,17,22,30,NULL,27,25,30,25,NULL,NBA
+43,261113002,2007,"Mon, Nov 13",Boston Celtics,Orlando Magic,"1-6, 1-4 Home","5-3, 2-2 Away",89,92,NULL,NULL,Final,NULL,22,15,24,28,NULL,24,21,21,26,NULL,NBA
+44,261117002,2007,"Fri, Nov 17",Boston Celtics,Portland Trail Blazers,"3-6, 3-4 Home","4-6, 1-5 Away",118,90,NULL,NULL,Final,NULL,20,30,27,41,NULL,20,23,22,25,NULL,NBA
+45,261122030,2007,"Wed, Nov 22",Charlotte Bobcats,Boston Celtics,"3-8, 2-4 Home","4-7, 1-3 Away",92,83,NULL,NULL,Final,NULL,29,24,16,23,NULL,17,32,15,19,NULL,NBA
+46,261125015,2007,"Sat, Nov 25",Milwaukee Bucks,Boston Celtics,"4-9, 2-4 Home","5-8, 2-3 Away",98,111,NULL,NULL,Final,NULL,27,33,20,18,NULL,25,21,37,28,NULL,NBA
+47,261201028,2007,"Fri, Dec 1",Toronto Raptors,Boston Celtics,"6-10, 5-2 Home","5-10, 2-4 Away",106,102,NULL,NULL,Final,NULL,30,28,23,25,NULL,32,19,27,24,NULL,NBA
+48,261206002,2007,"Wed, Dec 6",Boston Celtics,Memphis Grizzlies,"5-12, 3-7 Home","5-13, 2-9 Away",96,98,NULL,NULL,Final,NULL,28,16,22,30,NULL,19,27,28,24,NULL,NBA
+49,261209017,2007,"Sat, Dec 9",New Jersey Nets,Boston Celtics,"7-12, 4-7 Home","6-13, 3-5 Away",90,92,NULL,NULL,Final,NULL,27,21,25,17,NULL,11,34,23,24,NULL,NBA
+50,261213020,2007,"Wed, Dec 13",Philadelphia 76ers,Boston Celtics,"5-16, 3-6 Home","8-13, 5-5 Away",81,101,NULL,NULL,Final,CSN,27,14,19,21,NULL,24,19,29,29,NULL,NBA
+51,261216030,2007,"Sat, Dec 16",Charlotte Bobcats,Boston Celtics,"6-17, 4-9 Home","10-13, 6-5 Away",100,106,NULL,NULL,Final,NULL,26,24,31,19,NULL,27,33,18,28,NULL,NBA
+52,261222002,2007,"Fri, Dec 22",Boston Celtics,Philadelphia 76ers,"10-15, 4-10 Home","6-19, 3-12 Away",83,98,NULL,NULL,Final,CSN,20,21,22,20,NULL,24,24,25,25,NULL,NBA
+53,261227012,2007,"Wed, Dec 27",LA Clippers,Boston Celtics,"12-16, 10-6 Home","10-17, 6-7 Away",100,77,NULL,NULL,Final,NULL,31,24,28,17,NULL,28,15,19,15,NULL,NBA
+54,261231025,2007,"Sun, Dec 31",Seattle SuperSonics,Boston Celtics,"13-19, 9-7 Home","10-19, 6-9 Away",101,95,NULL,NULL,Final,NULL,27,21,28,25,NULL,18,21,20,36,NULL,NBA
+55,270103002,2007,"Wed, Jan 3",Boston Celtics,Cleveland Cavaliers,"11-20, 4-11 Home","19-12, 5-9 Away",104,107,NULL,NULL,Final,NULL,21,33,22,28,NULL,19,30,33,25,NULL,NBA
+56,270107019,2007,"Sun, Jan 7",Orlando Magic,Boston Celtics,"21-14, 14-6 Home","12-21, 8-10 Away",87,79,NULL,NULL,Final,NULL,29,25,12,21,NULL,17,21,18,23,NULL,NBA
+57,270112002,2007,"Fri, Jan 12",Boston Celtics,Toronto Raptors,"12-23, 4-13 Home","17-20, 7-15 Away",86,95,NULL,NULL,Final,NULL,15,25,18,28,NULL,21,20,26,28,NULL,NBA
+58,270115001,2007,"Mon, Jan 15",Atlanta Hawks,Boston Celtics,"12-23, 7-10 Home","12-25, 8-12 Away",100,96,NULL,NULL,Final,NULL,22,25,29,24,NULL,15,25,26,30,NULL,NBA
+59,270120027,2007,"Sat, Jan 20",Washington Wizards,Boston Celtics,"24-16, 17-3 Home","12-27, 8-13 Away",115,110,NULL,NULL,Final/OT,NULL,39,23,23,17,13,26,23,35,18,8,NBA
+60,270124002,2007,"Wed, Jan 24",Boston Celtics,Atlanta Hawks,"12-29, 4-16 Home","14-26, 7-15 Away",76,82,NULL,NULL,Final,NULL,28,16,18,14,NULL,10,19,27,26,NULL,NBA
+61,270128002,2007,"Sun, Jan 28",Boston Celtics,Washington Wizards,"12-31, 4-17 Home","26-17, 9-13 Away",91,105,NULL,NULL,Final,NULL,29,21,20,21,NULL,30,18,29,28,NULL,NBA
+62,270131002,2007,"Wed, Jan 31",Boston Celtics,Los Angeles Lakers,"12-33, 4-18 Home","28-18, 9-12 Away",98,111,NULL,NULL,Final,NULL,23,26,24,25,NULL,35,22,26,28,NULL,NBA
+63,270206008,2007,"Tue, Feb 6",Detroit Pistons,Boston Celtics,"29-18, 14-9 Home","12-35, 8-16 Away",109,102,NULL,NULL,Final,NULL,25,31,33,20,NULL,20,20,27,35,NULL,NBA
+64,270209002,2007,"Fri, Feb 9",Boston Celtics,New Jersey Nets,"12-37, 4-21 Home","24-27, 11-15 Away",78,92,NULL,NULL,Final,NULL,16,23,17,22,NULL,19,23,27,23,NULL,NBA
+65,270214002,2007,"Wed, Feb 14",Boston Celtics,Milwaukee Bucks,"13-38, 5-21 Home","19-34, 8-23 Away",117,97,NULL,NULL,Final,NULL,19,39,31,28,NULL,32,22,20,23,NULL,NBA
+66,270221021,2007,"Wed, Feb 21",Phoenix Suns,Boston Celtics,"41-13, 21-6 Home","13-40, 8-19 Away",118,108,NULL,NULL,Final,NULL,30,27,29,32,NULL,26,20,36,26,NULL,NBA
+67,270224026,2007,"Sat, Feb 24",Utah Jazz,Boston Celtics,"37-18, 22-6 Home","13-42, 8-21 Away",105,87,NULL,NULL,Final,NULL,26,26,24,29,NULL,20,21,23,23,NULL,NBA
+68,270228002,2007,"Wed, Feb 28",Boston Celtics,New York Knicks,"15-42, 6-21 Home","26-33, 10-20 Away",102,94,NULL,NULL,Final,NBATV,27,30,20,25,NULL,19,18,36,21,NULL,NBA
+69,270304002,2007,"Sun, Mar 4",Boston Celtics,Minnesota Timberwolves,"17-42, 7-21 Home","26-33, 9-20 Away",124,117,NULL,NULL,Final/2OT,NULL,20,22,26,25,31,20,23,31,19,24,NBA
+70,270309002,2007,"Fri, Mar 9",Boston Celtics,Seattle SuperSonics,"18-43, 8-22 Home","25-37, 7-24 Away",118,103,NULL,NULL,Final,NULL,31,26,27,34,NULL,35,31,16,21,NULL,NBA
+71,270313004,2007,"Tue, Mar 13",Chicago Bulls,Boston Celtics,"38-28, 25-8 Home","18-45, 10-22 Away",95,87,NULL,NULL,Final,NULL,26,24,25,20,NULL,29,18,22,18,NULL,NBA
+72,270316006,2007,"Fri, Mar 16",Dallas Mavericks,Boston Celtics,"53-11, 31-4 Home","19-46, 10-23 Away",106,101,NULL,NULL,Final,NULL,29,15,25,37,NULL,26,28,16,31,NULL,NBA
+73,270319003,2007,"Mon, Mar 19",NO/Oklahoma City Hornets,Boston Celtics,"30-37, 20-13 Home","20-47, 11-24 Away",106,88,NULL,NULL,Final,NULL,26,31,29,20,NULL,31,9,18,30,NULL,NBA
+74,270323002,2007,"Fri, Mar 23",Boston Celtics,Dallas Mavericks,"20-49, 9-25 Home","57-11, 26-7 Away",95,109,NULL,NULL,Final,NULL,16,35,20,24,NULL,33,23,34,19,NULL,NBA
+75,270328002,2007,"Wed, Mar 28",Boston Celtics,Orlando Magic,"22-49, 11-25 Home","33-39, 12-25 Away",105,96,NULL,NULL,Final/2OT,NULL,24,26,16,17,22,20,20,23,20,13,NBA
+76,270401002,2007,"Sun, Apr 1",Boston Celtics,Cleveland Cavaliers,"23-50, 12-25 Home","44-30, 17-20 Away",98,96,NULL,NULL,Final,NULL,28,25,27,18,NULL,16,33,20,27,NULL,NBA
+77,270406002,2007,"Fri, Apr 6",Boston Celtics,Miami Heat,"23-52, 12-26 Home","42-34, 17-22 Away",85,88,NULL,NULL,Final,NULL,26,19,25,15,NULL,28,24,18,18,NULL,NBA
+78,270410001,2007,"Tue, Apr 10",Atlanta Hawks,Boston Celtics,"29-49, 17-22 Home","23-54, 11-28 Away",104,96,NULL,NULL,Final,NULL,24,27,25,28,NULL,28,31,19,18,NULL,NBA
+79,270413002,2007,"Fri, Apr 13",Boston Celtics,Milwaukee Bucks,"23-56, 12-28 Home","27-52, 10-30 Away",102,104,NULL,NULL,Final,NULL,25,18,29,30,NULL,31,25,27,21,NULL,NBA
+80,270416014,2007,"Mon, Apr 16",Miami Heat,Boston Celtics,"44-37, 27-14 Home","24-57, 12-29 Away",89,91,NULL,NULL,Final,NULL,21,22,22,24,NULL,18,18,29,26,NULL,NBA
+81,270418002,2007,"Wed, Apr 18",Boston Celtics,Detroit Pistons,"24-58, 12-29 Home","53-29, 27-14 Away",89,91,NULL,NULL,Final,NULL,22,27,18,22,NULL,19,26,24,22,NULL,NBA

@@ -4,7 +4,7 @@
 # File Created: Tuesday, 14th April 2020 5:08:27 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Saturday, 18th April 2020 8:50:31 pm
+# Last Modified: Monday, 20th April 2020 1:42:18 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -14,6 +14,7 @@
 # ==============================================================================
 
 import json
+import os
 import re
 import time
 
@@ -141,6 +142,18 @@ class ESPN_Season_Scraper:
             path = "./Data/{}/{}/{}_{}.csv".format(league, team_abbrev, team_abbrev, year)
             df.to_csv(path)
 
+    def find_years_unscraped(self, league, team_abbrev):
+        path = "./Data/{}/{}/".format(league, team_abbrev)
+        all_years = [str(item) for item in list(range(1993, 2021, 1))]
+        years_found = []
+        year_comp = re.compile(r"\d{4}")
+        for filename in os.listdir(path):
+            match = re.search(year_comp, filename)
+            if match:
+                year = match.group(0)
+                years_found.append(year)
+        return [item for item in all_years if item not in years_found]
+
 
 if __name__ == "__main__":
     ess = ESPN_Season_Scraper()
@@ -152,9 +165,13 @@ if __name__ == "__main__":
     # row = list('sdf') + ess._game_to_row(df, game)
     # df = ess.full_season_df("NBA", 'mia', '2019')
     # ess.scrape_team_history("NBA", "mia", list(range(1999, 2019, 1)))
-    time_left = 60 * 160
-    for i in range(time_left):
-        time.sleep(1)
-        print("{} seconds left".format(time_left - i))
-    for team in ess.json_data["NBA"]["Abbreviations"][:10]:
-        ess.scrape_team_history("NBA", team, list(range(1993, 2021, 1)))
+    # time_left = 60 * 160
+    # for i in range(time_left):
+    #     time.sleep(1)
+    #     print("{} seconds left".format(time_left - i))
+    # for team in ess.json_data["NBA"]["Abbreviations"][:10]:
+    #     ess.scrape_team_history("NBA", team, list(range(1993, 2021, 1)))
+    team = 'cle'
+    years = ess.find_years_unscraped("NBA", team)
+
+    ess.scrape_team_history("NBA", team, years)

@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,291030030,2010,"Fri, Oct 30",Charlotte Bobcats,New York Knicks,"1-1, 1-0 Home","0-2, 0-2 Away",102,100,NULL,NULL,Final/2OT,NULL,32,19,18,13,20,13,24,18,27,18,NBA
+1,291102030,2010,"Mon, Nov 2",Charlotte Bobcats,New Jersey Nets,"2-2, 2-0 Home","0-4, 0-3 Away",79,68,NULL,NULL,Final,NULL,10,23,20,26,NULL,14,27,7,20,NULL,NBA
+2,291107004,2010,"Sat, Nov 7",Chicago Bulls,Charlotte Bobcats,"4-2, 3-0 Home","3-3, 0-3 Away",93,90,NULL,NULL,Final,NULL,26,20,27,20,NULL,28,25,17,20,NULL,NBA
+3,291111008,2010,"Wed, Nov 11",Detroit Pistons,Charlotte Bobcats,"4-4, 3-1 Home","3-5, 0-4 Away",98,75,NULL,NULL,Final,NULL,20,32,29,17,NULL,22,19,12,22,NULL,NBA
+4,291116019,2010,"Mon, Nov 16",Orlando Magic,Charlotte Bobcats,"8-3, 5-1 Home","3-7, 0-5 Away",97,91,NULL,NULL,Final,NULL,25,25,26,21,NULL,21,31,16,23,NULL,NBA
+5,291120015,2010,"Fri, Nov 20",Milwaukee Bucks,Charlotte Bobcats,"7-3, 6-1 Home","3-9, 0-7 Away",95,88,NULL,NULL,Final,NULL,30,23,23,19,NULL,25,16,19,28,NULL,NBA
+6,291125030,2010,"Wed, Nov 25",Charlotte Bobcats,Toronto Raptors,"5-9, 5-2 Home","7-9, 2-7 Away",116,81,NULL,NULL,Final,NULL,20,32,33,31,NULL,23,23,21,14,NULL,NBA
+7,291128027,2010,"Sat, Nov 28",Washington Wizards,Charlotte Bobcats,"5-10, 3-4 Home","7-9, 1-7 Away",76,92,NULL,NULL,Final,NBATV,19,13,18,26,NULL,22,20,27,23,NULL,NBA
+8,291204017,2010,"Fri, Dec 4",New Jersey Nets,Charlotte Bobcats,"1-18, 1-7 Home","7-11, 1-8 Away",97,91,NULL,NULL,Final,NULL,28,19,21,29,NULL,29,22,18,22,NULL,NBA
+9,291208030,2010,"Tue, Dec 8",Charlotte Bobcats,Denver Nuggets,"9-11, 8-3 Home","16-6, 7-5 Away",107,95,NULL,NULL,Final,NULL,29,25,24,29,NULL,26,23,26,20,NULL,NBA
+10,291212006,2010,"Sat, Dec 12",Dallas Mavericks,Charlotte Bobcats,"17-7, 8-3 Home","9-13, 1-10 Away",98,97,NULL,NULL,Final/OT,NULL,26,17,19,23,13,20,26,24,15,12,NBA
+11,291216011,2010,"Wed, Dec 16",Indiana Pacers,Charlotte Bobcats,"9-14, 6-6 Home","10-14, 1-11 Away",101,98,NULL,NULL,Final,NULL,30,26,23,22,NULL,25,21,23,29,NULL,NBA
+12,291220018,2010,"Sun, Dec 20",New York Knicks,Charlotte Bobcats,"10-17, 6-8 Home","10-16, 1-12 Away",98,94,NULL,NULL,Final,NULL,16,35,25,22,NULL,14,31,25,24,NULL,NBA
+13,291226025,2010,"Sat, Dec 26",Oklahoma City Thunder,Charlotte Bobcats,"15-14, 8-7 Home","11-17, 1-13 Away",98,91,NULL,NULL,Final,NULL,24,29,28,17,NULL,25,25,23,18,NULL,NBA
+14,291230028,2010,"Wed, Dec 30",Toronto Raptors,Charlotte Bobcats,"16-17, 11-5 Home","12-18, 1-14 Away",107,103,NULL,NULL,Final,TSN2,31,24,29,23,NULL,26,30,24,23,NULL,NBA
+15,300103005,2010,"Sun, Jan 3",Cleveland Cavaliers,Charlotte Bobcats,"27-9, 13-3 Home","14-18, 3-14 Away",88,91,NULL,NULL,Final,NULL,24,22,23,19,NULL,18,27,25,21,NULL,NBA
+16,300107018,2010,"Thu, Jan 7",New York Knicks,Charlotte Bobcats,"15-20, 9-10 Home","15-19, 3-15 Away",97,93,NULL,NULL,Final,NBATV,28,21,19,29,NULL,22,22,27,22,NULL,NBA
+17,300112030,2010,"Tue, Jan 12",Charlotte Bobcats,Houston Rockets,"17-19, 14-4 Home","21-17, 10-13 Away",102,94,NULL,NULL,Final,NULL,29,21,24,28,NULL,34,26,17,17,NULL,NBA
+18,300116030,2010,"Sat, Jan 16",Charlotte Bobcats,Phoenix Suns,"19-19, 16-4 Home","24-17, 9-13 Away",125,99,NULL,NULL,Final,NBATV,43,31,31,20,NULL,22,25,30,22,NULL,NBA
+19,300120030,2010,"Wed, Jan 20",Charlotte Bobcats,Miami Heat,"21-19, 18-4 Home","21-20, 9-10 Away",104,65,NULL,NULL,Final,NULL,38,23,26,17,NULL,17,17,19,12,NULL,NBA
+20,300123030,2010,"Sat, Jan 23",Charlotte Bobcats,Orlando Magic,"21-21, 18-5 Home","29-15, 13-11 Away",95,106,NULL,NULL,Final/OT,NULL,21,24,14,33,3,24,25,20,23,14,NBA
+21,300126021,2010,"Tue, Jan 26",Phoenix Suns,Charlotte Bobcats,"26-21, 17-6 Home","22-22, 4-17 Away",109,114,NULL,NULL,Final/OT,NULL,33,21,29,15,11,26,22,29,21,16,NBA
+22,300130023,2010,"Sat, Jan 30",Sacramento Kings,Charlotte Bobcats,"16-30, 13-10 Home","24-22, 6-17 Away",96,103,NULL,NULL,Final,NULL,33,21,13,29,NULL,29,27,34,13,NULL,NBA
+23,300203013,2010,"Wed, Feb 3",Los Angeles Lakers,Charlotte Bobcats,"38-12, 24-3 Home","24-24, 6-19 Away",99,97,NULL,NULL,Final,NULL,19,30,23,27,NULL,21,26,20,30,NULL,NBA
+24,300209030,2010,"Tue, Feb 9",Charlotte Bobcats,Washington Wizards,"25-25, 19-6 Home","17-33, 8-17 Away",94,92,NULL,NULL,Final,NULL,24,26,23,21,NULL,27,22,21,22,NULL,NBA
+25,300216030,2010,"Tue, Feb 16",Charlotte Bobcats,New Jersey Nets,"26-26, 19-7 Home","5-48, 2-27 Away",94,103,NULL,NULL,Final,NULL,27,25,21,21,NULL,31,21,30,21,NULL,NBA
+26,300220015,2010,"Sat, Feb 20",Milwaukee Bucks,Charlotte Bobcats,"26-28, 17-9 Home","27-27, 7-20 Away",93,88,NULL,NULL,Final,NULL,24,30,19,20,NULL,16,23,23,26,NULL,NBA
+27,300224026,2010,"Wed, Feb 24",Utah Jazz,Charlotte Bobcats,"37-20, 23-8 Home","27-29, 7-22 Away",102,93,NULL,NULL,Final,NULL,28,14,31,29,NULL,31,22,16,24,NULL,NBA
+28,300301030,2010,"Mon, Mar 1",Charlotte Bobcats,Dallas Mavericks,"28-30, 20-8 Home","40-21, 20-12 Away",84,89,NULL,NULL,Final,NULL,28,25,15,16,NULL,24,19,23,23,NULL,NBA
+29,300305030,2010,"Fri, Mar 5",Charlotte Bobcats,Los Angeles Lakers,"29-31, 21-8 Home","46-17, 17-12 Away",98,83,NULL,NULL,Final,NULL,23,26,26,23,NULL,26,17,20,20,NULL,NBA
+30,300309030,2010,"Tue, Mar 9",Charlotte Bobcats,Miami Heat,"31-31, 23-8 Home","32-32, 15-18 Away",83,78,NULL,NULL,Final,NULL,20,19,23,21,NULL,30,18,18,12,NULL,NBA
+31,300312030,2010,"Fri, Mar 12",Charlotte Bobcats,LA Clippers,"33-31, 24-8 Home","25-41, 7-27 Away",106,98,NULL,NULL,Final,NULL,31,30,19,26,NULL,23,22,23,30,NULL,NBA
+32,300316011,2010,"Tue, Mar 16",Indiana Pacers,Charlotte Bobcats,"22-45, 15-16 Home","34-32, 10-24 Away",99,94,NULL,NULL,Final,NULL,20,32,26,21,NULL,24,19,24,27,NULL,NBA
+33,300319001,2010,"Fri, Mar 19",Atlanta Hawks,Charlotte Bobcats,"44-24, 27-7 Home","35-33, 10-25 Away",93,92,NULL,NULL,Final/OT,NULL,20,26,18,20,9,26,18,25,15,8,NBA
+34,300323027,2010,"Tue, Mar 23",Washington Wizards,Charlotte Bobcats,"21-48, 12-23 Home","36-34, 11-26 Away",86,95,NULL,NULL,Final/OT,NULL,23,21,21,17,4,27,11,26,18,13,NBA
+35,300326030,2010,"Fri, Mar 26",Charlotte Bobcats,Washington Wizards,"38-34, 27-8 Home","21-50, 9-27 Away",107,96,NULL,NULL,Final,NULL,29,25,31,22,NULL,25,20,26,25,NULL,NBA
+36,300331030,2010,"Wed, Mar 31",Charlotte Bobcats,Philadelphia 76ers,"39-35, 28-9 Home","26-49, 14-24 Away",103,84,NULL,NULL,Final,CSN,24,28,25,26,NULL,18,24,17,25,NULL,NBA
+37,300403004,2010,"Sat, Apr 3",Chicago Bulls,Charlotte Bobcats,"37-39, 22-16 Home","40-36, 11-27 Away",96,88,NULL,NULL,Final,NBATV,29,21,20,26,NULL,24,17,22,25,NULL,NBA
+38,300407003,2010,"Wed, Apr 7",New Orleans Hornets,Charlotte Bobcats,"35-44, 23-16 Home","42-36, 12-27 Away",103,104,NULL,NULL,Final,NULL,21,17,40,25,NULL,32,28,19,25,NULL,NBA
+39,300410030,2010,"Sat, Apr 10",Charlotte Bobcats,Detroit Pistons,"43-37, 31-9 Home","26-54, 9-31 Away",99,95,NULL,NULL,Final,NULL,19,31,24,25,NULL,20,23,26,26,NULL,NBA
+40,291028002,2010,"Wed, Oct 28",Boston Celtics,Charlotte Bobcats,"2-0, 1-0 Home","0-1, 0-1 Away",92,59,NULL,NULL,Final,NULL,22,20,25,25,NULL,13,18,10,18,NULL,NBA
+41,291031005,2010,"Sat, Oct 31",Cleveland Cavaliers,Charlotte Bobcats,"2-2, 1-1 Home","1-2, 0-2 Away",90,79,NULL,NULL,Final,NULL,25,20,21,24,NULL,21,20,13,25,NULL,NBA
+42,291106030,2010,"Fri, Nov 6",Charlotte Bobcats,Atlanta Hawks,"3-2, 3-0 Home","4-2, 2-2 Away",103,83,NULL,NULL,Final,NULL,28,33,23,19,NULL,24,24,21,14,NULL,NBA
+43,291110030,2010,"Tue, Nov 10",Charlotte Bobcats,Orlando Magic,"3-4, 3-1 Home","6-2, 3-2 Away",81,93,NULL,NULL,Final,NULL,23,18,30,10,NULL,35,22,20,16,NULL,NBA
+44,291114030,2010,"Sat, Nov 14",Charlotte Bobcats,Portland Trail Blazers,"3-6, 3-2 Home","8-3, 5-1 Away",74,80,NULL,NULL,Final,NBATV,18,12,21,23,NULL,18,20,17,25,NULL,NBA
+45,291118020,2010,"Wed, Nov 18",Philadelphia 76ers,Charlotte Bobcats,"5-6, 3-3 Home","3-8, 0-6 Away",86,84,NULL,NULL,Final,CSN,29,23,17,17,NULL,22,21,22,19,NULL,NBA
+46,291122030,2010,"Sun, Nov 22",Charlotte Bobcats,Indiana Pacers,"4-9, 4-2 Home","5-6, 2-2 Away",104,88,NULL,NULL,Final,NULL,28,24,29,23,NULL,20,21,19,28,NULL,NBA
+47,291127030,2010,"Fri, Nov 27",Charlotte Bobcats,Cleveland Cavaliers,"6-9, 6-2 Home","11-5, 6-3 Away",94,87,NULL,NULL,Final,NULL,26,32,24,12,NULL,19,24,28,16,NULL,NBA
+48,291201030,2010,"Tue, Dec 1",Charlotte Bobcats,Boston Celtics,"7-10, 6-3 Home","14-4, 7-1 Away",90,108,NULL,NULL,Final,NULL,18,21,27,24,NULL,29,33,26,20,NULL,NBA
+49,291205030,2010,"Sat, Dec 5",Charlotte Bobcats,Philadelphia 76ers,"8-11, 7-3 Home","5-15, 2-10 Away",106,105,NULL,NULL,Final,NULL,28,21,29,28,NULL,22,26,38,19,NULL,NBA
+50,291211024,2010,"Fri, Dec 11",San Antonio Spurs,Charlotte Bobcats,"11-9, 10-4 Home","9-12, 1-9 Away",104,85,NULL,NULL,Final,NULL,29,30,13,32,NULL,19,23,29,14,NULL,NBA
+51,291215030,2010,"Tue, Dec 15",Charlotte Bobcats,New York Knicks,"10-13, 9-3 Home","8-16, 4-8 Away",94,87,NULL,NULL,Final,NULL,24,22,20,28,NULL,20,27,27,13,NULL,NBA
+52,291219030,2010,"Sat, Dec 19",Charlotte Bobcats,Utah Jazz,"10-15, 9-4 Home","16-11, 5-7 Away",102,110,NULL,NULL,Final,NULL,25,22,28,27,NULL,24,28,31,27,NULL,NBA
+53,291222030,2010,"Tue, Dec 22",Charlotte Bobcats,Detroit Pistons,"11-16, 10-4 Home","11-17, 3-12 Away",88,76,NULL,NULL,Final,NULL,23,29,17,19,NULL,19,17,19,21,NULL,NBA
+54,291228030,2010,"Mon, Dec 28",Charlotte Bobcats,Milwaukee Bucks,"12-17, 11-4 Home","12-17, 3-10 Away",94,84,NULL,NULL,Final,NULL,23,33,18,20,NULL,20,14,28,22,NULL,NBA
+55,300102014,2010,"Sat, Jan 2",Miami Heat,Charlotte Bobcats,"16-15, 10-9 Home","13-18, 2-14 Away",97,107,NULL,NULL,Final,NULL,30,16,26,25,NULL,17,32,24,34,NULL,NBA
+56,300105030,2010,"Tue, Jan 5",Charlotte Bobcats,Chicago Bulls,"15-18, 12-4 Home","14-19, 3-12 Away",113,108,NULL,NULL,Final,NULL,31,28,28,26,NULL,28,24,28,28,NULL,NBA
+57,300109030,2010,"Sat, Jan 9",Charlotte Bobcats,Memphis Grizzlies,"16-19, 13-4 Home","18-18, 7-13 Away",89,87,NULL,NULL,Final,NULL,25,17,22,25,NULL,21,31,16,19,NULL,NBA
+58,300115030,2010,"Fri, Jan 15",Charlotte Bobcats,San Antonio Spurs,"18-19, 15-4 Home","24-14, 7-8 Away",92,76,NULL,NULL,Final,NULL,22,16,26,28,NULL,24,18,15,19,NULL,NBA
+59,300118030,2010,"Mon, Jan 18",Charlotte Bobcats,Sacramento Kings,"20-19, 17-4 Home","15-25, 3-16 Away",105,103,NULL,NULL,Final,NULL,32,34,18,21,NULL,23,24,25,31,NULL,NBA
+60,300122001,2010,"Fri, Jan 22",Atlanta Hawks,Charlotte Bobcats,"28-14, 18-5 Home","21-20, 3-16 Away",103,89,NULL,NULL,Final,NULL,31,16,36,20,NULL,17,26,22,24,NULL,NBA
+61,300125007,2010,"Mon, Jan 25",Denver Nuggets,Charlotte Bobcats,"30-14, 21-3 Home","21-22, 3-17 Away",104,93,NULL,NULL,Final,NULL,29,27,28,20,NULL,26,26,21,20,NULL,NBA
+62,300129009,2010,"Fri, Jan 29",Golden State Warriors,Charlotte Bobcats,"13-32, 9-13 Home","23-22, 5-17 Away",110,121,NULL,NULL,Final,NULL,28,31,21,30,NULL,24,41,27,29,NULL,NBA
+63,300201022,2010,"Mon, Feb 1",Portland Trail Blazers,Charlotte Bobcats,"29-21, 17-9 Home","24-23, 6-18 Away",98,79,NULL,NULL,Final,NULL,29,22,21,26,NULL,19,24,22,14,NULL,NBA
+64,300206030,2010,"Sat, Feb 6",Charlotte Bobcats,New Orleans Hornets,"24-25, 18-6 Home","27-24, 11-16 Away",99,104,NULL,NULL,Final,NULL,26,27,21,25,NULL,21,22,36,25,NULL,NBA
+65,300210016,2010,"Wed, Feb 10",Minnesota Timberwolves,Charlotte Bobcats,"13-40, 9-18 Home","26-25, 7-19 Away",92,93,NULL,NULL,Final,NULL,24,19,27,22,NULL,37,19,24,13,NULL,NBA
+66,300219030,2010,"Fri, Feb 19",Charlotte Bobcats,Cleveland Cavaliers,"27-26, 20-7 Home","43-13, 19-9 Away",110,93,NULL,NULL,Final,NULL,27,23,32,28,NULL,32,18,18,25,NULL,NBA
+67,300222012,2010,"Mon, Feb 22",LA Clippers,Charlotte Bobcats,"23-33, 16-12 Home","27-28, 7-21 Away",98,94,NULL,NULL,Final,NULL,30,23,18,27,NULL,23,27,24,20,NULL,NBA
+68,300226029,2010,"Fri, Feb 26",Memphis Grizzlies,Charlotte Bobcats,"29-29, 18-12 Home","28-29, 8-22 Away",89,93,NULL,NULL,Final,NULL,27,20,19,23,NULL,26,22,21,24,NULL,NBA
+69,300303002,2010,"Wed, Mar 3",Boston Celtics,Charlotte Bobcats,"38-21, 17-11 Home","28-31, 8-23 Away",104,80,NULL,NULL,Final,NULL,31,23,28,22,NULL,21,24,16,19,NULL,NBA
+70,300306030,2010,"Sat, Mar 6",Charlotte Bobcats,Golden State Warriors,"30-31, 22-8 Home","17-45, 4-27 Away",101,90,NULL,NULL,Final,NULL,24,29,28,20,NULL,19,35,22,14,NULL,NBA
+71,300310020,2010,"Wed, Mar 10",Philadelphia 76ers,Charlotte Bobcats,"23-41, 10-20 Home","32-31, 9-23 Away",87,102,NULL,NULL,Final,CSN,23,21,14,29,NULL,37,25,23,17,NULL,NBA
+72,300314019,2010,"Sun, Mar 14",Orlando Magic,Charlotte Bobcats,"47-21, 27-7 Home","34-31, 10-23 Away",89,96,NULL,NULL,Final,NULL,25,28,15,21,NULL,26,25,21,24,NULL,NBA
+73,300317030,2010,"Wed, Mar 17",Charlotte Bobcats,Oklahoma City Thunder,"35-32, 25-8 Home","41-25, 19-14 Away",100,92,NULL,NULL,Final,NULL,15,28,30,27,NULL,26,25,19,22,NULL,NBA
+74,300320014,2010,"Sat, Mar 20",Miami Heat,Charlotte Bobcats,"36-34, 21-16 Home","35-34, 10-26 Away",77,71,NULL,NULL,Final,NULL,20,27,14,16,NULL,21,24,11,15,NULL,NBA
+75,300324030,2010,"Wed, Mar 24",Charlotte Bobcats,Minnesota Timberwolves,"37-34, 26-8 Home","14-58, 5-32 Away",108,95,NULL,NULL,Final,NULL,30,25,30,23,NULL,33,12,31,19,NULL,NBA
+76,300329030,2010,"Mon, Mar 29",Charlotte Bobcats,Toronto Raptors,"38-35, 27-9 Home","36-37, 13-24 Away",101,103,NULL,NULL,Final,TSNT,18,29,31,23,NULL,18,25,29,31,NULL,NBA
+77,300402030,2010,"Fri, Apr 2",Charlotte Bobcats,Milwaukee Bucks,"40-35, 29-9 Home","41-34, 15-23 Away",87,86,NULL,NULL,Final/OT,NULL,17,27,21,15,7,19,26,20,15,6,NBA
+78,300406030,2010,"Tue, Apr 6",Charlotte Bobcats,Atlanta Hawks,"41-36, 30-9 Home","49-28, 17-21 Away",109,100,NULL,NULL,Final,NULL,34,25,25,25,NULL,14,22,36,28,NULL,NBA
+79,300409010,2010,"Fri, Apr 9",Houston Rockets,Charlotte Bobcats,"41-38, 23-17 Home","42-37, 12-28 Away",97,90,NULL,NULL,Final,NULL,24,26,21,26,NULL,23,24,16,27,NULL,NBA
+80,300412017,2010,"Mon, Apr 12",New Jersey Nets,Charlotte Bobcats,"12-69, 8-33 Home","44-37, 13-28 Away",95,105,NULL,NULL,Final,NULL,20,24,33,18,NULL,28,31,22,24,NULL,NBA
+81,300414030,2010,"Wed, Apr 14",Charlotte Bobcats,Chicago Bulls,"44-38, 31-10 Home","41-41, 17-24 Away",89,98,NULL,NULL,Final,NULL,26,17,22,24,NULL,33,24,18,23,NULL,NBA

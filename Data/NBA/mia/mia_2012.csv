@@ -1,0 +1,67 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,311227014,2012,"Tue, Dec 27",Miami Heat,Boston Celtics,"2-0, 1-0 Home","0-2, 0-2 Away",115,107,NULL,NULL,Final,TNT,30,39,22,24,NULL,27,27,29,24,NULL,NBA
+1,311230016,2012,"Fri, Dec 30",Minnesota Timberwolves,Miami Heat,"0-3, 0-2 Home","4-0, 3-0 Away",101,103,NULL,NULL,Final,NULL,20,33,22,26,NULL,31,20,31,21,NULL,NBA
+2,320102014,2012,"Mon, Jan 2",Miami Heat,Atlanta Hawks,"5-1, 2-1 Home","4-1, 2-1 Away",92,100,NULL,NULL,Final,NULL,23,27,21,21,NULL,19,28,20,33,NULL,NBA
+3,320105001,2012,"Thu, Jan 5",Atlanta Hawks,Miami Heat,"4-3, 2-1 Home","7-1, 4-0 Away",109,116,NULL,NULL,Final/3OT,TNT,19,30,21,23,16,22,32,14,25,23,NBA
+4,320110009,2012,"Tue, Jan 10",Golden State Warriors,Miami Heat,"3-6, 3-3 Home","8-2, 5-1 Away",111,106,NULL,NULL,Final/OT,NULL,27,26,19,24,15,22,35,27,12,10,NBA
+5,320113007,2012,"Fri, Jan 13",Denver Nuggets,Miami Heat,"8-4, 6-1 Home","8-4, 5-3 Away",117,104,NULL,NULL,Final,ESPN,30,25,31,31,NULL,21,32,28,23,NULL,NBA
+6,320119014,2012,"Thu, Jan 19",Miami Heat,Los Angeles Lakers,"10-4, 5-1 Home","10-6, 1-5 Away",98,87,NULL,NULL,Final,TNT,25,27,25,21,NULL,20,17,19,31,NULL,NBA
+7,320122014,2012,"Sun, Jan 22",Miami Heat,Milwaukee Bucks,"11-5, 6-2 Home","6-9, 2-8 Away",82,91,NULL,NULL,Final,NULL,21,20,22,19,NULL,18,28,19,26,NULL,NBA
+8,320125008,2012,"Wed, Jan 25",Detroit Pistons,Miami Heat,"4-15, 3-7 Home","13-5, 6-3 Away",98,101,NULL,NULL,Final,NULL,17,33,24,24,NULL,24,32,24,21,NULL,NBA
+9,320129014,2012,"Sun, Jan 29",Miami Heat,Chicago Bulls,"15-5, 9-2 Home","17-5, 8-4 Away",97,93,NULL,NULL,Final,ABC,24,32,20,21,NULL,22,29,20,22,NULL,NBA
+10,320201015,2012,"Wed, Feb 1",Milwaukee Bucks,Miami Heat,"10-11, 7-2 Home","16-6, 6-4 Away",105,97,NULL,NULL,Final,NULL,23,24,29,29,NULL,40,20,19,18,NULL,NBA
+11,320205014,2012,"Sun, Feb 5",Miami Heat,Toronto Raptors,"18-6, 11-2 Home","8-17, 5-11 Away",95,89,NULL,NULL,Final,TSNT,31,22,22,20,NULL,27,21,14,27,NULL,NBA
+12,320208019,2012,"Wed, Feb 8",Orlando Magic,Miami Heat,"16-10, 9-5 Home","19-7, 7-5 Away",102,89,NULL,NULL,Final,NULL,26,27,24,25,NULL,18,32,11,28,NULL,NBA
+13,320212001,2012,"Sun, Feb 12",Atlanta Hawks,Miami Heat,"18-10, 9-5 Home","21-7, 9-5 Away",87,107,NULL,NULL,Final,ESPN,18,23,20,26,NULL,30,33,25,19,NULL,NBA
+14,320214011,2012,"Tue, Feb 14",Indiana Pacers,Miami Heat,"17-11, 7-4 Home","23-7, 11-5 Away",90,105,NULL,NULL,Final,NBATV,16,23,19,32,NULL,33,35,22,15,NULL,NBA
+15,320219014,2012,"Sun, Feb 19",Miami Heat,Orlando Magic,"25-7, 13-2 Home","20-12, 8-6 Away",90,78,NULL,NULL,Final,ABC,22,21,27,20,NULL,19,12,23,24,NULL,NBA
+16,320223014,2012,"Thu, Feb 23",Miami Heat,New York Knicks,"27-7, 15-2 Home","17-18, 7-9 Away",102,88,NULL,NULL,Final,TNT,24,27,29,22,NULL,20,27,19,22,NULL,NBA
+17,320302026,2012,"Fri, Mar 2",Utah Jazz,Miami Heat,"17-18, 14-6 Home","28-8, 13-6 Away",99,98,NULL,NULL,Final,NULL,27,30,21,21,NULL,26,18,27,27,NULL,NBA
+18,320306014,2012,"Tue, Mar 6",Miami Heat,New Jersey Nets,"29-9, 16-2 Home","12-27, 9-14 Away",108,78,NULL,NULL,Final,NULL,30,34,24,20,NULL,17,20,19,22,NULL,NBA
+19,320310014,2012,"Sat, Mar 10",Miami Heat,Indiana Pacers,"31-9, 18-2 Home","23-15, 12-10 Away",93,91,NULL,NULL,Final/OT,NULL,17,22,21,25,8,26,17,18,24,6,NBA
+20,320314004,2012,"Wed, Mar 14",Chicago Bulls,Miami Heat,"36-9, 18-3 Home","31-11, 13-9 Away",106,102,NULL,NULL,Final,ESPN,19,34,28,25,NULL,23,19,28,32,NULL,NBA
+21,320318014,2012,"Sun, Mar 18",Miami Heat,Orlando Magic,"33-11, 19-2 Home","29-17, 13-10 Away",91,81,NULL,NULL,Final,ESPN,31,19,17,24,NULL,22,25,16,18,NULL,NBA
+22,320323008,2012,"Fri, Mar 23",Detroit Pistons,Miami Heat,"16-31, 12-12 Home","35-11, 15-9 Away",73,88,NULL,NULL,Final,NULL,20,16,21,16,NULL,27,32,13,16,NULL,NBA
+23,320326011,2012,"Mon, Mar 26",Indiana Pacers,Miami Heat,"29-19, 15-7 Home","35-13, 15-11 Away",105,90,NULL,NULL,Final,NULL,24,25,29,27,NULL,24,22,19,25,NULL,NBA
+24,320330028,2012,"Fri, Mar 30",Toronto Raptors,Miami Heat,"17-35, 9-17 Home","37-13, 16-11 Away",101,113,NULL,NULL,Final,TSN2,27,24,32,18,NULL,31,28,24,30,NULL,NBA
+25,320403014,2012,"Tue, Apr 3",Miami Heat,Philadelphia 76ers,"38-14, 22-2 Home","29-24, 10-14 Away",99,93,NULL,NULL,Final,NULL,29,22,25,23,NULL,27,27,16,23,NULL,NBA
+26,320406014,2012,"Fri, Apr 6",Miami Heat,Memphis Grizzlies,"39-15, 23-3 Home","31-23, 13-16 Away",82,97,NULL,NULL,Final,NULL,12,20,29,21,NULL,25,23,25,24,NULL,NBA
+27,320410014,2012,"Tue, Apr 10",Miami Heat,Boston Celtics,"40-16, 24-4 Home","33-24, 13-15 Away",107,115,NULL,NULL,Final,ESPN,22,35,24,26,NULL,33,32,24,26,NULL,NBA
+28,320413014,2012,"Fri, Apr 13",Miami Heat,Charlotte Bobcats,"41-17, 25-4 Home","7-51, 3-28 Away",105,82,NULL,NULL,Final,NULL,33,25,23,24,NULL,19,20,20,23,NULL,NBA
+29,320416017,2012,"Mon, Apr 16",New Jersey Nets,Miami Heat,"22-40, 9-22 Home","43-17, 18-13 Away",98,101,NULL,NULL,Final,NULL,34,21,24,19,NULL,29,23,18,31,NULL,NBA
+30,320419014,2012,"Thu, Apr 19",Miami Heat,Chicago Bulls,"45-17, 27-4 Home","47-16, 23-9 Away",83,72,NULL,NULL,Final,TNT,27,15,24,17,NULL,23,17,21,11,NULL,NBA
+31,320422014,2012,"Sun, Apr 22",Miami Heat,Houston Rockets,"46-18, 28-5 Home","33-32, 12-21 Away",97,88,NULL,NULL,Final,NBATV,22,23,21,31,NULL,27,17,25,19,NULL,NBA
+32,311225006,2012,"Sun, Dec 25",Dallas Mavericks,Miami Heat,"0-1, 0-1 Home","1-0, 1-0 Away",94,105,NULL,NULL,Final,ABC,17,24,24,29,NULL,32,30,35,8,NULL,NBA
+33,311228030,2012,"Wed, Dec 28",Charlotte Bobcats,Miami Heat,"1-1, 1-1 Home","3-0, 2-0 Away",95,96,NULL,NULL,Final,NULL,32,28,10,25,NULL,20,25,24,27,NULL,NBA
+34,320101014,2012,"Sun, Jan 1",Miami Heat,Charlotte Bobcats,"5-0, 2-0 Home","1-3, 0-1 Away",129,90,NULL,NULL,Final,NULL,33,32,27,37,NULL,15,22,27,26,NULL,NBA
+35,320104014,2012,"Wed, Jan 4",Miami Heat,Indiana Pacers,"6-1, 3-1 Home","4-2, 2-2 Away",118,83,NULL,NULL,Final,NULL,29,33,26,30,NULL,27,12,27,17,NULL,NBA
+36,320107017,2012,"Sat, Jan 7",New Jersey Nets,Miami Heat,"2-7, 0-3 Home","8-1, 5-0 Away",90,101,NULL,NULL,Final,NBATV,18,17,29,26,NULL,31,26,21,23,NULL,NBA
+37,320111012,2012,"Wed, Jan 11",LA Clippers,Miami Heat,"5-3, 4-1 Home","8-3, 5-2 Away",95,89,NULL,NULL,Final/OT,ESPN,21,22,27,16,9,24,24,21,17,3,NBA
+38,320117014,2012,"Tue, Jan 17",Miami Heat,San Antonio Spurs,"9-4, 4-1 Home","9-5, 0-5 Away",120,98,NULL,NULL,Final,NBATV,26,23,39,32,NULL,35,28,12,23,NULL,NBA
+39,320121014,2012,"Sat, Jan 21",Miami Heat,Philadelphia 76ers,"11-4, 6-1 Home","11-5, 4-4 Away",113,92,NULL,NULL,Final,CSN,29,27,25,32,NULL,28,21,20,23,NULL,NBA
+40,320124014,2012,"Tue, Jan 24",Miami Heat,Cleveland Cavaliers,"12-5, 7-2 Home","6-10, 4-7 Away",92,85,NULL,NULL,Final,NULL,17,20,24,31,NULL,18,19,21,27,NULL,NBA
+41,320127014,2012,"Fri, Jan 27",Miami Heat,New York Knicks,"14-5, 8-2 Home","7-12, 4-6 Away",99,89,NULL,NULL,Final,ESPN,22,30,22,25,NULL,22,26,23,18,NULL,NBA
+42,320130014,2012,"Mon, Jan 30",Miami Heat,New Orleans Hornets,"16-5, 10-2 Home","4-17, 2-7 Away",109,95,NULL,NULL,Final,NULL,27,24,36,22,NULL,29,20,19,27,NULL,NBA
+43,320203020,2012,"Fri, Feb 3",Philadelphia 76ers,Miami Heat,"16-7, 12-3 Home","17-6, 7-4 Away",79,99,NULL,NULL,Final,CSN,24,23,16,16,NULL,25,26,16,32,NULL,NBA
+44,320207014,2012,"Tue, Feb 7",Miami Heat,Cleveland Cavaliers,"19-6, 12-2 Home","9-14, 5-9 Away",107,91,NULL,NULL,Final,NULL,28,26,24,29,NULL,25,23,24,19,NULL,NBA
+45,320210027,2012,"Fri, Feb 10",Washington Wizards,Miami Heat,"5-22, 4-12 Home","20-7, 8-5 Away",89,106,NULL,NULL,Final,NULL,19,23,25,22,NULL,23,29,22,32,NULL,NBA
+46,320213015,2012,"Mon, Feb 13",Milwaukee Bucks,Miami Heat,"12-16, 7-6 Home","22-7, 10-5 Away",96,114,NULL,NULL,Final,NULL,30,20,24,22,NULL,27,28,35,24,NULL,NBA
+47,320217005,2012,"Fri, Feb 17",Cleveland Cavaliers,Miami Heat,"11-17, 6-8 Home","24-7, 12-5 Away",87,111,NULL,NULL,Final,NULL,14,24,29,20,NULL,35,28,27,21,NULL,NBA
+48,320221014,2012,"Tue, Feb 21",Miami Heat,Sacramento Kings,"26-7, 14-2 Home","10-22, 3-17 Away",120,108,NULL,NULL,Final,NBATV,26,31,36,27,NULL,32,21,35,20,NULL,NBA
+49,320301022,2012,"Thu, Mar 1",Portland Trail Blazers,Miami Heat,"18-18, 13-6 Home","28-7, 13-5 Away",93,107,NULL,NULL,Final,TNT,24,18,27,24,NULL,32,28,27,20,NULL,NBA
+50,320304013,2012,"Sun, Mar 4",Los Angeles Lakers,Miami Heat,"23-14, 17-2 Home","28-9, 13-7 Away",93,83,NULL,NULL,Final,ABC,28,22,21,22,NULL,20,18,24,21,NULL,NBA
+51,320307014,2012,"Wed, Mar 7",Miami Heat,Atlanta Hawks,"30-9, 17-2 Home","23-16, 11-10 Away",89,86,NULL,NULL,Final,NBATV,25,18,25,21,NULL,22,23,23,18,NULL,NBA
+52,320313019,2012,"Tue, Mar 13",Orlando Magic,Miami Heat,"28-15, 15-7 Home","31-10, 13-8 Away",104,98,NULL,NULL,Final/OT,NBATV,30,15,27,22,10,27,29,17,21,4,NBA
+53,320316020,2012,"Fri, Mar 16",Philadelphia 76ers,Miami Heat,"25-19, 16-9 Home","32-11, 14-9 Away",78,84,NULL,NULL,Final,CSN/ESPN,18,12,26,22,NULL,31,26,12,15,NULL,NBA
+54,320320014,2012,"Tue, Mar 20",Miami Heat,Phoenix Suns,"34-11, 20-2 Home","23-23, 8-13 Away",99,95,NULL,NULL,Final,NULL,28,21,23,27,NULL,22,31,22,20,NULL,NBA
+55,320325025,2012,"Sun, Mar 25",Oklahoma City Thunder,Miami Heat,"37-12, 22-4 Home","35-12, 15-10 Away",103,87,NULL,NULL,Final,ESPN,25,35,20,23,NULL,24,25,20,18,NULL,NBA
+56,320329014,2012,"Thu, Mar 29",Miami Heat,Dallas Mavericks,"36-13, 21-2 Home","29-23, 10-15 Away",106,85,NULL,NULL,Final,TNT,24,36,20,26,NULL,29,24,19,13,NULL,NBA
+57,320401002,2012,"Sun, Apr 1",Boston Celtics,Miami Heat,"30-22, 19-8 Home","37-14, 16-12 Away",91,72,NULL,NULL,Final,ABC,29,20,31,11,NULL,19,25,12,16,NULL,NBA
+58,320404014,2012,"Wed, Apr 4",Miami Heat,Oklahoma City Thunder,"39-14, 23-2 Home","40-14, 17-9 Away",98,93,NULL,NULL,Final,ESPN2,21,29,30,18,NULL,23,26,24,20,NULL,NBA
+59,320408014,2012,"Sun, Apr 8",Miami Heat,Detroit Pistons,"40-15, 24-3 Home","21-35, 6-23 Away",98,75,NULL,NULL,Final,NULL,19,31,19,29,NULL,21,19,14,21,NULL,NBA
+60,320412004,2012,"Thu, Apr 12",Chicago Bulls,Miami Heat,"45-14, 24-6 Home","40-17, 16-13 Away",96,86,NULL,NULL,Final/OT,TNT,19,17,24,24,12,22,19,21,22,2,NBA
+61,320415018,2012,"Sun, Apr 15",New York Knicks,Miami Heat,"31-29, 20-11 Home","42-17, 17-13 Away",85,93,NULL,NULL,Final,ABC,22,22,24,17,NULL,29,17,25,22,NULL,NBA
+62,320418014,2012,"Wed, Apr 18",Miami Heat,Toronto Raptors,"44-17, 26-4 Home","22-41, 10-21 Away",96,72,NULL,NULL,Final,NULL,25,26,23,22,NULL,24,25,11,12,NULL,NBA
+63,320421014,2012,"Sat, Apr 21",Miami Heat,Washington Wizards,"45-18, 27-5 Home","17-46, 8-24 Away",84,86,NULL,NULL,Final,NULL,15,22,25,22,NULL,23,22,18,23,NULL,NBA
+64,320424002,2012,"Tue, Apr 24",Boston Celtics,Miami Heat,"38-27, 23-9 Home","46-19, 18-14 Away",78,66,NULL,NULL,Final,TNT,10,18,22,28,NULL,17,17,16,16,NULL,NBA
+65,320426027,2012,"Thu, Apr 26",Washington Wizards,Miami Heat,"20-46, 11-22 Home","46-20, 18-15 Away",104,70,NULL,NULL,Final,NULL,28,29,23,24,NULL,18,14,18,20,NULL,NBA

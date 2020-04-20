@@ -1,0 +1,68 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,401160670,2020,"Sat, Oct 26",Atlanta Hawks,Orlando Magic,"2-0, 1-0 Home","1-1, 0-1 Away",103,99,ORL -2.0,217,Final,NULL,23,29,25,26,NULL,26,24,25,24,NULL,NBA
+1,401160694,2020,"Tue, Oct 29",Miami Heat,Atlanta Hawks,"3-1, 2-0 Home","2-2, 1-1 Away",112,97,MIA -8.0,223,Final,NBATV,29,30,29,24,NULL,26,23,21,27,NULL,NBA
+2,401160741,2020,"Tue, Nov 5",Atlanta Hawks,San Antonio Spurs,"3-3, 2-2 Home","4-3, 1-2 Away",108,100,SA -5.5,223,Final,NULL,22,22,26,38,NULL,21,24,33,22,NULL,NBA
+3,401160761,2020,"Fri, Nov 8",Atlanta Hawks,Sacramento Kings,"3-5, 2-4 Home","3-6, 2-3 Away",109,121,SAC -2.5,226,Final,NULL,24,23,36,26,NULL,31,32,28,30,NULL,NBA
+4,401160792,2020,"Tue, Nov 12",Denver Nuggets,Atlanta Hawks,"7-3, 3-2 Home","4-6, 2-2 Away",121,125,DEN -10.5,210,Final,NULL,34,20,35,32,NULL,25,38,35,27,NULL,NBA
+5,401160824,2020,"Sat, Nov 16",LA Clippers,Atlanta Hawks,"8-5, 7-1 Home","4-8, 2-4 Away",150,101,LAC -9.0,224,Final,NULL,43,31,38,38,NULL,30,32,20,19,NULL,NBA
+6,401160846,2020,"Wed, Nov 20",Atlanta Hawks,Milwaukee Bucks,"4-10, 2-5 Home","11-3, 8-2 Away",127,135,MIL -11.0,232,Final,NULL,26,35,22,44,NULL,34,24,38,39,NULL,NBA
+7,401160870,2020,"Sat, Nov 23",Atlanta Hawks,Toronto Raptors,"4-12, 2-6 Home","11-4, 5-4 Away",116,119,TOR -7.0,224,Final,NULL,27,34,29,26,NULL,26,26,35,32,NULL,NBA
+8,401160903,2020,"Wed, Nov 27",Milwaukee Bucks,Atlanta Hawks,"15-3, 7-1 Home","4-14, 2-7 Away",111,102,MIL -14.5,240,Final,NULL,33,27,21,30,NULL,17,42,23,20,NULL,NBA
+9,401160924,2020,"Sat, Nov 30",Houston Rockets,Atlanta Hawks,"13-6, 8-2 Home","4-16, 2-9 Away",158,111,HOU -14.0,238,Final,NULL,38,43,46,31,NULL,21,31,21,38,NULL,NBA
+10,401160951,2020,"Wed, Dec 4",Atlanta Hawks,Brooklyn Nets,"5-17, 3-8 Home","11-10, 5-6 Away",118,130,BKN -3.5,228,Final,NULL,26,21,35,36,NULL,22,34,35,39,NULL,NBA
+11,401160996,2020,"Tue, Dec 10",Miami Heat,Atlanta Hawks,"18-6, 11-0 Home","6-18, 3-10 Away",135,121,MIA -8.5,218,Final/OT,NULL,36,30,27,24,18,30,34,32,21,4,NBA
+12,401161015,2020,"Fri, Dec 13",Atlanta Hawks,Indiana Pacers,"6-20, 3-9 Home","17-9, 7-6 Away",100,110,IND -6.0,225,Final,NULL,22,26,35,17,NULL,29,34,23,24,NULL,NBA
+13,401161045,2020,"Tue, Dec 17",New York Knicks,Atlanta Hawks,"7-21, 4-10 Home","6-22, 3-12 Away",143,120,NY -2.0,225,Final,NULL,41,36,32,34,NULL,27,26,31,36,NULL,NBA
+14,401161073,2020,"Sat, Dec 21",Brooklyn Nets,Atlanta Hawks,"16-13, 9-5 Home","6-24, 3-13 Away",122,112,BKN -7.5,232,Final,NULL,34,26,25,37,NULL,34,39,25,14,NULL,NBA
+15,401161111,2020,"Fri, Dec 27",Atlanta Hawks,Milwaukee Bucks,"6-26, 3-12 Home","28-5, 13-3 Away",86,112,MIL -7.0,235,Final,NULL,19,21,23,23,NULL,32,31,21,28,NULL,NBA
+16,401161133,2020,"Mon, Dec 30",Orlando Magic,Atlanta Hawks,"14-19, 10-7 Home","7-27, 4-15 Away",93,101,ORL -10.0,209,Final,NBATV,21,36,15,21,NULL,25,22,27,27,NULL,NBA
+17,401161168,2020,"Sat, Jan 4",Atlanta Hawks,Indiana Pacers,"8-28, 4-12 Home","22-14, 7-10 Away",116,111,IND -7.0,221,Final,NULL,43,21,32,20,NULL,26,34,35,16,NULL,NBA
+18,401161200,2020,"Wed, Jan 8",Atlanta Hawks,Houston Rockets,"8-30, 4-14 Home","25-11, 12-7 Away",115,122,HOU -8.0,237,Final,NULL,29,33,23,30,NULL,45,32,22,23,NULL,NBA
+19,401161228,2020,"Sun, Jan 12",Brooklyn Nets,Atlanta Hawks,"18-20, 11-8 Home","8-32, 4-18 Away",108,86,BKN -9.0,226,Final,NULL,37,33,22,16,NULL,16,30,20,20,NULL,NBA
+20,401161266,2020,"Fri, Jan 17",San Antonio Spurs,Atlanta Hawks,"17-23, 11-10 Home","10-32, 5-18 Away",120,121,SA -8.5,231,Final,NULL,27,31,41,21,NULL,29,38,21,33,NULL,NBA
+21,401161282,2020,"Mon, Jan 20",Atlanta Hawks,Toronto Raptors,"10-34, 5-16 Home","29-14, 14-7 Away",117,122,TOR -9.0,232,Final,NBATV,25,35,22,35,NULL,36,21,26,39,NULL,NBA
+22,401161319,2020,"Fri, Jan 24",Oklahoma City Thunder,Atlanta Hawks,"27-19, 15-9 Home","11-35, 5-19 Away",140,111,OKC -8.0,231,Final,NULL,33,33,38,36,NULL,30,28,32,21,NULL,NBA
+23,401161345,2020,"Tue, Jan 28",Toronto Raptors,Atlanta Hawks,"33-14, 17-7 Home","12-36, 5-20 Away",130,114,TOR -12.5,235,Final,NULL,33,35,29,33,NULL,23,33,27,31,NULL,NBA
+24,401161375,2020,"Sat, Feb 1",Dallas Mavericks,Atlanta Hawks,"30-19, 14-12 Home","13-37, 5-21 Away",123,100,DAL -4.5,237,Final,NULL,36,26,35,26,NULL,26,23,23,28,NULL,NBA
+25,401161401,2020,"Wed, Feb 5",Minnesota Timberwolves,Atlanta Hawks,"15-35, 6-19 Home","14-38, 6-21 Away",120,127,MIN -4.5,239,Final,NULL,24,32,21,43,NULL,36,28,32,31,NULL,NBA
+26,401161429,2020,"Sun, Feb 9",Atlanta Hawks,New York Knicks,"15-39, 9-17 Home","17-37, 9-19 Away",140,135,ATL -5.0,226,Final/2OT,NULL,20,41,33,22,24,31,32,20,33,19,NBA
+27,401161449,2020,"Wed, Feb 12",Cleveland Cavaliers,Atlanta Hawks,"14-40, 7-22 Home","15-41, 6-24 Away",127,105,ATL -3.0,235,Final,NULL,33,32,33,29,NULL,19,29,32,25,NULL,NBA
+28,401161479,2020,"Sat, Feb 22",Atlanta Hawks,Dallas Mavericks,"17-41, 11-17 Home","34-23, 19-9 Away",111,107,ATL -1.5,236,Final,NULL,21,37,19,34,NULL,35,31,20,21,NULL,NBA
+29,401161509,2020,"Wed, Feb 26",Atlanta Hawks,Orlando Magic,"17-43, 11-18 Home","26-32, 11-18 Away",120,130,ORL -2.5,231,Final,NULL,27,37,31,25,NULL,23,41,39,27,NULL,NBA
+30,401161530,2020,"Sat, Feb 29",Atlanta Hawks,Portland Trail Blazers,"19-43, 13-18 Home","26-35, 10-22 Away",129,117,ATL -2.5,240,Final,NULL,23,40,44,22,NULL,28,28,34,27,NULL,NBA
+31,401161572,2020,"Fri, Mar 6",Washington Wizards,Atlanta Hawks,"23-39, 15-15 Home","19-45, 6-26 Away",118,112,WSH -5.5,240,Final,NULL,33,31,29,25,NULL,34,23,18,37,NULL,NBA
+32,401161599,2020,"Mon, Mar 9",Atlanta Hawks,Charlotte Hornets,"20-46, 14-19 Home","22-42, 12-21 Away",143,138,ATL -4.5,222,Final/2OT,NULL,32,34,32,24,21,32,31,31,28,16,NBA
+40,401160656,2020,"Thu, Oct 24",Detroit Pistons,Atlanta Hawks,"1-1, 0-1 Home","1-0, 1-0 Away",100,117,DET -1.5,222,Final,NULL,32,31,18,19,NULL,38,22,31,26,NULL,NBA
+41,401160685,2020,"Mon, Oct 28",Atlanta Hawks,Philadelphia 76ers,"2-1, 1-1 Home","3-0, 2-0 Away",103,105,PHI -7.0,221,Final,NULL,40,25,18,20,NULL,31,32,19,23,NULL,NBA
+42,401160708,2020,"Thu, Oct 31",Atlanta Hawks,Miami Heat,"2-3, 1-2 Home","4-1, 2-1 Away",97,106,MIA -6.5,215,Final,TNT,26,20,29,22,NULL,30,22,33,21,NULL,NBA
+43,401160747,2020,"Wed, Nov 6",Atlanta Hawks,Chicago Bulls,"3-4, 2-3 Home","3-6, 2-4 Away",93,113,CHI -1.0,222,Final,NULL,19,22,24,28,NULL,33,23,35,22,NULL,NBA
+44,401160780,2020,"Sun, Nov 10",Portland Trail Blazers,Atlanta Hawks,"4-6, 1-3 Home","3-6, 1-2 Away",124,113,POR -8.5,226,Final/OT,NULL,20,26,29,32,17,21,23,31,32,6,NBA
+45,401160807,2020,"Thu, Nov 14",Phoenix Suns,Atlanta Hawks,"7-4, 5-3 Home","4-7, 2-3 Away",128,112,PHX -8.0,229,Final,NULL,31,36,37,24,NULL,33,28,29,22,NULL,NBA
+46,401160830,2020,"Sun, Nov 17",Los Angeles Lakers,Atlanta Hawks,"11-2, 7-1 Home","4-9, 2-5 Away",122,101,LAL -14.0,222,Final,NULL,36,33,27,26,NULL,24,17,36,24,NULL,NBA
+47,401160857,2020,"Fri, Nov 22",Detroit Pistons,Atlanta Hawks,"5-10, 4-3 Home","4-11, 2-6 Away",128,103,DET -6.5,226,Final,NULL,33,43,31,21,NULL,23,34,27,19,NULL,NBA
+48,401160885,2020,"Mon, Nov 25",Atlanta Hawks,Minnesota Timberwolves,"4-13, 2-7 Home","9-8, 6-2 Away",113,125,MIN -4.0,236,Final,NULL,30,34,26,23,NULL,38,16,39,32,NULL,NBA
+49,401160914,2020,"Fri, Nov 29",Indiana Pacers,Atlanta Hawks,"12-6, 9-2 Home","4-15, 2-8 Away",105,104,IND -10.5,224,Final/OT,NULL,22,21,29,22,11,23,31,11,29,10,NBA
+50,401160937,2020,"Mon, Dec 2",Atlanta Hawks,Golden State Warriors,"5-16, 3-7 Home","4-18, 2-11 Away",104,79,ATL -6.5,223,Final,NULL,20,29,27,28,NULL,23,17,13,26,NULL,NBA
+51,401160978,2020,"Sun, Dec 8",Charlotte Hornets,Atlanta Hawks,"9-16, 5-8 Home","6-17, 3-9 Away",107,122,CHA -1.5,223,Final,NULL,27,26,30,24,NULL,24,27,37,34,NULL,NBA
+52,401161003,2020,"Wed, Dec 11",Chicago Bulls,Atlanta Hawks,"9-17, 5-9 Home","6-19, 3-11 Away",136,102,CHI -6.5,222,Final,NULL,37,29,40,30,NULL,33,19,35,15,NULL,NBA
+53,401161032,2020,"Sun, Dec 15",Atlanta Hawks,Los Angeles Lakers,"6-21, 3-10 Home","24-3, 14-1 Away",96,101,LAL -12.0,229,Final,NULL,25,23,30,18,NULL,24,31,27,19,NULL,NBA
+54,401161058,2020,"Thu, Dec 19",Atlanta Hawks,Utah Jazz,"6-23, 3-11 Home","17-11, 6-8 Away",106,111,UTAH -6.5,225,Final,NULL,30,26,28,22,NULL,28,24,31,28,NULL,NBA
+55,401161086,2020,"Mon, Dec 23",Cleveland Cavaliers,Atlanta Hawks,"9-21, 6-10 Home","6-25, 3-14 Away",121,118,ATL -1.5,230,Final,NULL,42,29,23,27,NULL,32,32,30,24,NULL,NBA
+56,401161119,2020,"Sat, Dec 28",Chicago Bulls,Atlanta Hawks,"13-20, 7-10 Home","6-27, 3-15 Away",116,81,CHI -10.0,217,Final,NULL,35,29,19,33,NULL,19,24,22,16,NULL,NBA
+57,401161159,2020,"Fri, Jan 3",Boston Celtics,Atlanta Hawks,"24-8, 14-2 Home","7-28, 4-16 Away",109,106,BOS -10.5,225,Final,NULL,19,34,29,27,NULL,32,23,25,26,NULL,NBA
+58,401161185,2020,"Mon, Jan 6",Atlanta Hawks,Denver Nuggets,"8-29, 4-13 Home","25-11, 10-7 Away",115,123,DEN -7.0,224,Final,NULL,31,25,30,29,NULL,29,35,27,32,NULL,NBA
+59,401161209,2020,"Fri, Jan 10",Washington Wizards,Atlanta Hawks,"13-25, 8-10 Home","8-31, 4-17 Away",111,101,ATL -1.0,239,Final,NULL,30,26,25,30,NULL,21,30,28,22,NULL,NBA
+60,401161240,2020,"Tue, Jan 14",Atlanta Hawks,Phoenix Suns,"9-32, 5-14 Home","16-24, 7-10 Away",123,110,PHX -2.0,230,Final,NULL,28,28,28,39,NULL,25,26,32,27,NULL,NBA
+61,401161271,2020,"Sat, Jan 18",Atlanta Hawks,Detroit Pistons,"10-33, 5-15 Home","16-27, 8-14 Away",103,136,DET -1.0,228,Final,NULL,29,26,21,27,NULL,36,35,32,33,NULL,NBA
+62,401161298,2020,"Wed, Jan 22",Atlanta Hawks,LA Clippers,"11-34, 6-16 Home","31-14, 12-10 Away",102,95,LAC -4.5,229,Final,NULL,16,25,28,33,NULL,32,28,15,20,NULL,NBA
+63,401161329,2020,"Sun, Jan 26",Atlanta Hawks,Washington Wizards,"12-35, 7-16 Home","15-30, 6-19 Away",152,133,ATL -1.0,241,Final,NULL,31,47,41,33,NULL,33,39,30,31,NULL,NBA
+64,401161358,2020,"Thu, Jan 30",Atlanta Hawks,Philadelphia 76ers,"13-36, 8-16 Home","31-18, 9-16 Away",127,117,PHI -6.5,229,Final,NULL,39,35,25,28,NULL,31,36,25,25,NULL,NBA
+65,401161387,2020,"Mon, Feb 3",Atlanta Hawks,Boston Celtics,"13-38, 8-17 Home","34-15, 14-10 Away",115,123,BOS -6.0,231,Final,NULL,34,28,22,31,NULL,28,32,35,28,NULL,NBA
+66,401161413,2020,"Fri, Feb 7",Boston Celtics,Atlanta Hawks,"36-15, 22-5 Home","14-39, 6-22 Away",112,107,BOS -12.5,226,Final,NULL,28,26,33,25,NULL,26,29,18,34,NULL,NBA
+67,401161437,2020,"Mon, Feb 10",Orlando Magic,Atlanta Hawks,"23-31, 14-13 Home","15-40, 6-23 Away",135,126,ORL -9.0,223,Final,NULL,22,34,37,42,NULL,28,33,35,30,NULL,NBA
+68,401161463,2020,"Thu, Feb 20",Atlanta Hawks,Miami Heat,"16-41, 10-17 Home","35-20, 13-17 Away",129,124,MIA -6.5,230,Final,NULL,32,31,27,39,NULL,36,28,33,27,NULL,NBA
+69,401161492,2020,"Mon, Feb 24",Philadelphia 76ers,Atlanta Hawks,"36-22, 27-2 Home","17-42, 6-25 Away",129,112,PHI -9.0,228,Final,NBATV,41,28,22,38,NULL,24,28,40,20,NULL,NBA
+70,401161520,2020,"Fri, Feb 28",Atlanta Hawks,Brooklyn Nets,"18-43, 12-18 Home","26-32, 10-19 Away",141,118,BKN -2.5,237,Final,NULL,29,39,40,33,NULL,36,26,36,20,NULL,NBA
+71,401161547,2020,"Mon, Mar 2",Atlanta Hawks,Memphis Grizzlies,"19-44, 13-19 Home","30-31, 13-17 Away",88,127,ATL -2.5,240,Final,NULL,23,26,19,20,NULL,24,28,32,43,NULL,NBA
+72,401161585,2020,"Sat, Mar 7",Memphis Grizzlies,Atlanta Hawks,"32-32, 18-14 Home","19-46, 6-27 Away",118,101,MEM -6.0,235,Final,NULL,38,28,27,25,NULL,18,27,33,23,NULL,NBA
+73,401161611,2020,"Wed, Mar 11",Atlanta Hawks,New York Knicks,"20-47, 14-20 Home","21-45, 10-23 Away",131,136,ATL -5.0,233,Final/OT,NULL,24,26,28,40,13,33,34,29,22,18,NBA

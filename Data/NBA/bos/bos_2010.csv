@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,291028002,2010,"Wed, Oct 28",Boston Celtics,Charlotte Bobcats,"2-0, 1-0 Home","0-1, 0-1 Away",92,59,NULL,NULL,Final,NULL,22,20,25,25,NULL,13,18,10,18,NULL,NBA
+1,291101002,2010,"Sun, Nov 1",Boston Celtics,New Orleans Hornets,"4-0, 3-0 Home","1-2, 0-2 Away",97,87,NULL,NULL,Final,NBATV,22,25,25,25,NULL,20,18,31,18,NULL,NBA
+2,291104016,2010,"Wed, Nov 4",Minnesota Timberwolves,Boston Celtics,"1-4, 1-2 Home","6-0, 3-0 Away",90,92,NULL,NULL,Final,NULL,27,22,23,18,NULL,22,19,31,20,NULL,NBA
+3,291107017,2010,"Sat, Nov 7",New Jersey Nets,Boston Celtics,"0-7, 0-3 Home","7-1, 4-0 Away",76,86,NULL,NULL,Final,NULL,19,21,21,15,NULL,18,21,20,27,NULL,NBA
+4,291113002,2010,"Fri, Nov 13",Boston Celtics,Atlanta Hawks,"8-2, 4-2 Home","7-2, 4-2 Away",86,97,NULL,NULL,Final,ESPN,22,20,28,16,NULL,24,17,31,25,NULL,NBA
+5,291118002,2010,"Wed, Nov 18",Boston Celtics,Golden State Warriors,"9-3, 5-2 Home","3-8, 1-6 Away",109,95,NULL,NULL,Final,NULL,27,22,31,29,NULL,23,25,19,28,NULL,NBA
+6,291122018,2010,"Sun, Nov 22",New York Knicks,Boston Celtics,"3-10, 1-7 Home","10-4, 5-1 Away",105,107,NULL,NULL,Final/OT,NULL,22,31,29,16,7,30,26,21,21,9,NBA
+7,291127002,2010,"Fri, Nov 27",Boston Celtics,Toronto Raptors,"12-4, 7-3 Home","7-10, 2-8 Away",116,103,NULL,NULL,Final,TSNT,33,21,33,29,NULL,27,28,17,31,NULL,NBA
+8,291201030,2010,"Tue, Dec 1",Charlotte Bobcats,Boston Celtics,"7-10, 6-3 Home","14-4, 7-1 Away",90,108,NULL,NULL,Final,NULL,18,21,27,24,NULL,29,33,26,20,NULL,NBA
+9,291204025,2010,"Fri, Dec 4",Oklahoma City Thunder,Boston Celtics,"10-9, 5-5 Home","16-4, 9-1 Away",87,105,NULL,NULL,Final,NULL,20,29,16,22,NULL,31,29,28,17,NULL,NBA
+10,291210027,2010,"Thu, Dec 10",Washington Wizards,Boston Celtics,"7-13, 4-6 Home","18-4, 10-1 Away",102,104,NULL,NULL,Final,TNT,28,22,24,28,NULL,27,37,19,21,NULL,NBA
+11,291214029,2010,"Mon, Dec 14",Memphis Grizzlies,Boston Celtics,"10-14, 6-5 Home","20-4, 12-1 Away",105,110,NULL,NULL,Final,NULL,31,24,26,24,NULL,28,26,31,25,NULL,NBA
+12,291220002,2010,"Sun, Dec 20",Boston Celtics,Minnesota Timberwolves,"21-5, 9-4 Home","5-23, 2-12 Away",122,104,NULL,NULL,Final,NULL,34,32,26,30,NULL,19,22,31,32,NULL,NBA
+13,291225019,2010,"Fri, Dec 25",Orlando Magic,Boston Celtics,"22-8, 12-3 Home","23-5, 13-1 Away",77,86,NULL,NULL,Final,ABC,19,8,26,24,NULL,18,20,23,25,NULL,NBA
+14,291228009,2010,"Mon, Dec 28",Golden State Warriors,Boston Celtics,"9-21, 6-7 Home","23-7, 13-3 Away",103,99,NULL,NULL,Final,NULL,22,35,23,23,NULL,35,23,18,23,NULL,NBA
+15,300102002,2010,"Sat, Jan 2",Boston Celtics,Toronto Raptors,"24-8, 11-4 Home","16-18, 5-13 Away",103,96,NULL,NULL,Final,TSN2,29,29,20,25,NULL,27,21,19,29,NULL,NBA
+16,300108001,2010,"Fri, Jan 8",Atlanta Hawks,Boston Celtics,"23-12, 14-4 Home","25-9, 14-5 Away",93,85,NULL,NULL,Final,ESPN,19,20,29,25,NULL,17,28,15,25,NULL,NBA
+17,300111002,2010,"Mon, Jan 11",Boston Celtics,Atlanta Hawks,"26-10, 11-5 Home","24-13, 10-9 Away",96,102,NULL,NULL,Final,NBATV,31,24,25,16,NULL,21,25,31,25,NULL,NBA
+18,300114002,2010,"Thu, Jan 14",Boston Celtics,Chicago Bulls,"27-11, 11-6 Home","17-20, 4-13 Away",83,96,NULL,NULL,Final,TNT,18,21,24,20,NULL,29,18,23,26,NULL,NBA
+19,300120008,2010,"Wed, Jan 20",Detroit Pistons,Boston Celtics,"15-26, 11-9 Home","27-13, 16-6 Away",92,86,NULL,NULL,Final,NULL,21,27,21,23,NULL,30,26,13,17,NULL,NBA
+20,300125002,2010,"Mon, Jan 25",Boston Celtics,LA Clippers,"29-13, 13-7 Home","20-24, 6-15 Away",95,89,NULL,NULL,Final,NULL,17,26,21,31,NULL,19,25,15,30,NULL,NBA
+21,300129001,2010,"Fri, Jan 29",Atlanta Hawks,Boston Celtics,"30-15, 19-5 Home","29-15, 16-8 Away",100,91,NULL,NULL,Final,NBATV,23,30,21,26,NULL,22,19,32,18,NULL,NBA
+22,300201027,2010,"Mon, Feb 1",Washington Wizards,Boston Celtics,"16-31, 9-16 Home","30-16, 17-8 Away",88,99,NULL,NULL,Final,NULL,23,31,24,10,NULL,24,24,26,25,NULL,NBA
+23,300205002,2010,"Fri, Feb 5",Boston Celtics,New Jersey Nets,"32-16, 15-8 Home","4-45, 1-25 Away",96,87,NULL,NULL,Final,NULL,29,22,21,24,NULL,25,30,18,14,NULL,NBA
+24,300210003,2010,"Wed, Feb 10",New Orleans Hornets,Boston Celtics,"28-25, 17-8 Home","32-18, 17-9 Away",93,85,NULL,NULL,Final,NBATV,29,14,29,21,NULL,27,28,12,18,NULL,NBA
+25,300218013,2010,"Thu, Feb 18",Los Angeles Lakers,Boston Celtics,"42-14, 26-5 Home","34-18, 19-9 Away",86,87,NULL,NULL,Final,TNT,27,21,21,17,NULL,30,23,23,11,NULL,NBA
+26,300221007,2010,"Sun, Feb 21",Denver Nuggets,Boston Celtics,"37-19, 24-5 Home","35-19, 20-10 Away",114,105,NULL,NULL,Final,ABC,37,17,28,32,NULL,19,28,26,32,NULL,NBA
+27,300225002,2010,"Thu, Feb 25",Boston Celtics,Cleveland Cavaliers,"36-20, 16-10 Home","45-14, 20-10 Away",88,108,NULL,NULL,Final,TNT,31,25,18,14,NULL,21,27,25,35,NULL,NBA
+28,300302008,2010,"Tue, Mar 2",Detroit Pistons,Boston Celtics,"21-39, 14-17 Home","37-21, 21-10 Away",100,105,NULL,NULL,Final,NBATV,25,27,23,25,NULL,25,30,17,33,NULL,NBA
+29,300305020,2010,"Fri, Mar 5",Philadelphia 76ers,Boston Celtics,"22-39, 10-19 Home","39-21, 22-10 Away",86,96,NULL,NULL,Final,CSN,25,18,24,19,NULL,23,23,28,22,NULL,NBA
+30,300309015,2010,"Tue, Mar 9",Milwaukee Bucks,Boston Celtics,"34-29, 21-9 Home","40-22, 22-11 Away",86,84,NULL,NULL,Final,NULL,24,18,22,22,NULL,22,24,22,16,NULL,NBA
+31,300312002,2010,"Fri, Mar 12",Boston Celtics,Indiana Pacers,"41-23, 19-12 Home","21-44, 7-28 Away",122,103,NULL,NULL,Final,NULL,29,38,31,24,NULL,23,24,31,25,NULL,NBA
+32,300315002,2010,"Mon, Mar 15",Boston Celtics,Detroit Pistons,"42-24, 20-12 Home","23-44, 7-26 Away",119,93,NULL,NULL,Final,ESPN,31,33,25,30,NULL,15,20,35,23,NULL,NBA
+33,300319010,2010,"Fri, Mar 19",Houston Rockets,Boston Celtics,"35-32, 20-15 Home","44-24, 23-12 Away",87,94,NULL,NULL,Final,NBATV,24,17,21,25,NULL,28,22,22,22,NULL,NBA
+34,300322026,2010,"Mon, Mar 22",Utah Jazz,Boston Celtics,"46-25, 29-8 Home","45-25, 24-13 Away",110,97,NULL,NULL,Final,NULL,21,28,33,28,NULL,26,28,19,24,NULL,NBA
+35,300326002,2010,"Fri, Mar 26",Boston Celtics,Sacramento Kings,"47-25, 23-12 Home","24-49, 7-30 Away",94,86,NULL,NULL,Final,NULL,32,25,17,20,NULL,17,20,24,25,NULL,NBA
+36,300331002,2010,"Wed, Mar 31",Boston Celtics,Oklahoma City Thunder,"47-27, 23-14 Home","46-28, 22-15 Away",104,109,NULL,NULL,Final,NULL,23,38,22,21,NULL,30,27,26,26,NULL,NBA
+37,300404002,2010,"Sun, Apr 4",Boston Celtics,Cleveland Cavaliers,"48-28, 24-15 Home","60-17, 26-13 Away",117,113,NULL,NULL,Final,ABC,33,31,34,19,NULL,24,25,32,32,NULL,NBA
+38,300407028,2010,"Wed, Apr 7",Toronto Raptors,Boston Celtics,"38-40, 24-15 Home","49-29, 25-14 Away",104,115,NULL,NULL,Final,TSN2,25,29,22,28,NULL,30,22,30,33,NULL,NBA
+39,300410015,2010,"Sat, Apr 10",Milwaukee Bucks,Boston Celtics,"45-35, 28-12 Home","50-30, 26-14 Away",90,105,NULL,NULL,Final,NULL,18,22,25,25,NULL,15,26,27,37,NULL,NBA
+40,291027005,2010,"Tue, Oct 27",Cleveland Cavaliers,Boston Celtics,"0-1, 0-1 Home","1-0, 1-0 Away",89,95,NULL,NULL,Final,TNT,28,17,20,24,NULL,21,30,21,23,NULL,NBA
+41,291030002,2010,"Fri, Oct 30",Boston Celtics,Chicago Bulls,"3-0, 2-0 Home","1-1, 0-1 Away",118,90,NULL,NULL,Final,ESPN,21,29,38,30,NULL,17,18,26,29,NULL,NBA
+42,291103020,2010,"Tue, Nov 3",Philadelphia 76ers,Boston Celtics,"2-2, 1-1 Home","5-0, 2-0 Away",74,105,NULL,NULL,Final,CSN,17,19,18,20,NULL,19,25,25,36,NULL,NBA
+43,291106002,2010,"Fri, Nov 6",Boston Celtics,Phoenix Suns,"6-1, 3-1 Home","5-1, 3-1 Away",103,110,NULL,NULL,Final,NULL,27,24,32,20,NULL,29,28,28,25,NULL,NBA
+44,291111002,2010,"Wed, Nov 11",Boston Celtics,Utah Jazz,"8-1, 4-1 Home","3-5, 1-3 Away",105,86,NULL,NULL,Final,NULL,28,26,30,21,NULL,23,21,18,24,NULL,NBA
+45,291114011,2010,"Sat, Nov 14",Indiana Pacers,Boston Celtics,"4-3, 3-2 Home","8-3, 4-1 Away",113,104,NULL,NULL,Final,NULL,26,26,32,29,NULL,27,34,18,25,NULL,NBA
+46,291120002,2010,"Fri, Nov 20",Boston Celtics,Orlando Magic,"9-4, 5-3 Home","10-3, 4-2 Away",78,83,NULL,NULL,Final,ESPN,13,27,19,19,NULL,29,14,23,17,NULL,NBA
+47,291125002,2010,"Wed, Nov 25",Boston Celtics,Philadelphia 76ers,"11-4, 6-3 Home","5-10, 2-6 Away",113,110,NULL,NULL,Final,NULL,27,24,28,34,NULL,23,29,33,25,NULL,NBA
+48,291129014,2010,"Sun, Nov 29",Miami Heat,Boston Celtics,"9-7, 6-5 Home","13-4, 6-1 Away",85,92,NULL,NULL,Final,NBATV,31,17,17,20,NULL,29,26,12,25,NULL,NBA
+49,291203024,2010,"Thu, Dec 3",San Antonio Spurs,Boston Celtics,"9-7, 8-3 Home","15-4, 8-1 Away",83,90,NULL,NULL,Final,TNT,15,24,24,20,NULL,25,22,27,16,NULL,NBA
+50,291208002,2010,"Tue, Dec 8",Boston Celtics,Milwaukee Bucks,"17-4, 8-3 Home","9-11, 2-8 Away",98,89,NULL,NULL,Final,NULL,26,23,22,27,NULL,27,21,23,18,NULL,NBA
+51,291212004,2010,"Sat, Dec 12",Chicago Bulls,Boston Celtics,"8-14, 6-4 Home","19-4, 11-1 Away",80,106,NULL,NULL,Final,NBATV,26,20,17,17,NULL,29,25,29,23,NULL,NBA
+52,291218002,2010,"Fri, Dec 18",Boston Celtics,Philadelphia 76ers,"20-5, 8-4 Home","7-19, 3-10 Away",97,98,NULL,NULL,Final,CSN,24,29,23,21,NULL,17,25,30,26,NULL,NBA
+53,291222002,2010,"Tue, Dec 22",Boston Celtics,Indiana Pacers,"22-5, 10-4 Home","9-18, 3-11 Away",103,94,NULL,NULL,Final,NULL,21,21,35,26,NULL,28,29,20,17,NULL,NBA
+54,291227012,2010,"Sun, Dec 27",LA Clippers,Boston Celtics,"13-17, 8-8 Home","23-6, 13-2 Away",92,90,NULL,NULL,Final,NULL,22,24,23,23,NULL,23,25,25,17,NULL,NBA
+55,291230021,2010,"Wed, Dec 30",Phoenix Suns,Boston Celtics,"21-12, 13-2 Home","23-8, 13-4 Away",116,98,NULL,NULL,Final,NBATV,30,31,29,26,NULL,20,29,24,25,NULL,NBA
+56,300106014,2010,"Wed, Jan 6",Miami Heat,Boston Celtics,"17-16, 11-10 Home","25-8, 14-4 Away",106,112,NULL,NULL,Final/OT,NULL,35,19,24,23,5,30,27,18,26,11,NBA
+57,300110028,2010,"Sun, Jan 10",Toronto Raptors,Boston Celtics,"19-19, 12-6 Home","26-9, 15-5 Away",107,114,NULL,NULL,Final,TSNT,26,24,30,27,NULL,29,30,34,21,NULL,NBA
+58,300113017,2010,"Wed, Jan 13",New Jersey Nets,Boston Celtics,"3-35, 2-16 Home","27-10, 16-5 Away",87,111,NULL,NULL,Final,NULL,22,13,29,23,NULL,38,33,19,21,NULL,NBA
+59,300118002,2010,"Mon, Jan 18",Boston Celtics,Dallas Mavericks,"27-12, 11-7 Home","27-14, 14-7 Away",90,99,NULL,NULL,Final,TNT,25,25,18,22,NULL,20,21,34,24,NULL,NBA
+60,300122002,2010,"Fri, Jan 22",Boston Celtics,Portland Trail Blazers,"28-13, 12-7 Home","26-18, 10-11 Away",98,95,NULL,NULL,Final/OT,NULL,30,25,19,17,7,25,25,19,22,4,NBA
+61,300128019,2010,"Thu, Jan 28",Orlando Magic,Boston Celtics,"30-16, 17-4 Home","29-14, 16-7 Away",96,94,NULL,NULL,Final,TNT,23,17,21,35,NULL,34,17,21,22,NULL,NBA
+62,300131002,2010,"Sun, Jan 31",Boston Celtics,Los Angeles Lakers,"29-16, 13-8 Home","37-11, 14-8 Away",89,90,NULL,NULL,Final,ABC,19,33,21,16,NULL,30,17,19,24,NULL,NBA
+63,300203002,2010,"Wed, Feb 3",Boston Celtics,Miami Heat,"31-16, 14-8 Home","24-25, 11-13 Away",107,102,NULL,NULL,Final,ESPN,27,26,21,33,NULL,26,25,23,28,NULL,NBA
+64,300207002,2010,"Sun, Feb 7",Boston Celtics,Orlando Magic,"32-17, 15-9 Home","34-17, 15-12 Away",89,96,NULL,NULL,Final,ABC,24,27,11,27,NULL,23,17,36,20,NULL,NBA
+65,300216023,2010,"Tue, Feb 16",Sacramento Kings,Boston Celtics,"18-35, 13-13 Home","33-18, 18-9 Away",92,95,NULL,NULL,Final,NULL,30,22,17,23,NULL,30,27,19,19,NULL,NBA
+66,300219022,2010,"Fri, Feb 19",Portland Trail Blazers,Boston Celtics,"32-25, 19-12 Home","35-18, 20-9 Away",76,96,NULL,NULL,Final,ESPN,25,13,23,15,NULL,32,24,17,23,NULL,NBA
+67,300223002,2010,"Tue, Feb 23",Boston Celtics,New York Knicks,"36-19, 16-9 Home","19-37, 7-18 Away",110,106,NULL,NULL,Final,NULL,38,26,30,16,NULL,27,33,31,15,NULL,NBA
+68,300227002,2010,"Sat, Feb 27",Boston Celtics,New Jersey Nets,"36-21, 16-11 Home","6-52, 3-27 Away",96,104,NULL,NULL,Final,NULL,27,15,22,32,NULL,29,20,25,30,NULL,NBA
+69,300303002,2010,"Wed, Mar 3",Boston Celtics,Charlotte Bobcats,"38-21, 17-11 Home","28-31, 8-23 Away",104,80,NULL,NULL,Final,NULL,31,23,28,22,NULL,21,24,16,19,NULL,NBA
+70,300307002,2010,"Sun, Mar 7",Boston Celtics,Washington Wizards,"40-21, 18-11 Home","21-39, 9-20 Away",86,83,NULL,NULL,Final,ESPN,19,19,24,24,NULL,25,19,22,17,NULL,NBA
+71,300310002,2010,"Wed, Mar 10",Boston Celtics,Memphis Grizzlies,"40-23, 18-12 Home","34-31, 15-17 Away",91,111,NULL,NULL,Final,NULL,12,21,30,28,NULL,27,28,27,29,NULL,NBA
+72,300314005,2010,"Sun, Mar 14",Cleveland Cavaliers,Boston Celtics,"52-15, 29-4 Home","41-24, 22-12 Away",104,93,NULL,NULL,Final,ABC,24,30,26,24,NULL,18,30,24,21,NULL,NBA
+73,300317002,2010,"Wed, Mar 17",Boston Celtics,New York Knicks,"43-24, 21-12 Home","24-44, 10-23 Away",109,97,NULL,NULL,Final,NULL,35,33,24,17,NULL,19,30,22,26,NULL,NBA
+74,300320006,2010,"Sat, Mar 20",Dallas Mavericks,Boston Celtics,"46-23, 24-11 Home","45-24, 24-12 Away",93,102,NULL,NULL,Final,NULL,24,23,25,21,NULL,30,18,25,29,NULL,NBA
+75,300324002,2010,"Wed, Mar 24",Boston Celtics,Denver Nuggets,"46-25, 22-12 Home","47-25, 17-19 Away",113,99,NULL,NULL,Final,ESPN,30,31,26,26,NULL,27,24,29,19,NULL,NBA
+76,300328002,2010,"Sun, Mar 28",Boston Celtics,San Antonio Spurs,"47-26, 23-13 Home","44-28, 18-17 Away",73,94,NULL,NULL,Final,ESPN,23,20,17,13,NULL,19,25,33,17,NULL,NBA
+77,300402002,2010,"Fri, Apr 2",Boston Celtics,Houston Rockets,"47-28, 23-15 Home","38-37, 17-20 Away",114,119,NULL,NULL,Final/OT,NULL,30,23,30,26,5,32,25,30,22,10,NBA
+78,300406018,2010,"Tue, Apr 6",New York Knicks,Boston Celtics,"28-49, 17-22 Home","48-29, 24-14 Away",104,101,NULL,NULL,Final,NULL,27,26,33,18,NULL,21,31,26,23,NULL,NBA
+79,300409002,2010,"Fri, Apr 9",Boston Celtics,Washington Wizards,"49-30, 24-16 Home","25-54, 11-29 Away",96,106,NULL,NULL,Final,NULL,17,14,23,42,NULL,30,22,23,31,NULL,NBA
+80,300413004,2010,"Tue, Apr 13",Chicago Bulls,Boston Celtics,"40-41, 24-17 Home","50-31, 26-15 Away",101,93,NULL,NULL,Final,TNT,17,27,23,34,NULL,20,21,27,25,NULL,NBA
+81,300414002,2010,"Wed, Apr 14",Boston Celtics,Milwaukee Bucks,"50-32, 24-17 Home","46-36, 18-23 Away",95,106,NULL,NULL,Final,NULL,20,30,28,17,NULL,23,32,33,18,NULL,NBA

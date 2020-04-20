@@ -1,0 +1,67 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,311226009,2012,"Mon, Dec 26",Golden State Warriors,Chicago Bulls,"1-1, 1-1 Home","1-1, 1-1 Away",99,91,NULL,NULL,Final,NULL,30,27,21,21,NULL,22,19,20,30,NULL,NBA
+1,311230012,2012,"Fri, Dec 30",LA Clippers,Chicago Bulls,"1-2, 0-1 Home","3-1, 3-1 Away",101,114,NULL,NULL,Final,NBATV,28,24,25,24,NULL,29,28,26,31,NULL,NBA
+2,320103004,2012,"Tue, Jan 3",Chicago Bulls,Atlanta Hawks,"5-1, 2-0 Home","4-2, 2-2 Away",76,74,NULL,NULL,Final,NBATV,15,11,16,34,NULL,23,15,18,18,NULL,NBA
+3,320106019,2012,"Fri, Jan 6",Orlando Magic,Chicago Bulls,"5-3, 4-1 Home","7-1, 5-1 Away",83,97,NULL,NULL,Final,ESPN,27,16,19,21,NULL,26,27,20,24,NULL,NBA
+4,320109004,2012,"Mon, Jan 9",Chicago Bulls,Detroit Pistons,"8-2, 3-0 Home","2-7, 0-4 Away",92,68,NULL,NULL,Final,NULL,21,22,25,24,NULL,21,13,25,9,NULL,NBA
+5,320111004,2012,"Wed, Jan 11",Chicago Bulls,Washington Wizards,"10-2, 4-0 Home","1-9, 0-5 Away",78,64,NULL,NULL,Final,NULL,17,28,12,21,NULL,15,22,16,11,NULL,NBA
+6,320114004,2012,"Sat, Jan 14",Chicago Bulls,Toronto Raptors,"12-2, 5-0 Home","4-9, 2-5 Away",77,64,NULL,NULL,Final,TSN2,23,14,19,21,NULL,14,23,15,12,NULL,NBA
+7,320117004,2012,"Tue, Jan 17",Chicago Bulls,Phoenix Suns,"13-3, 6-0 Home","4-9, 1-5 Away",118,97,NULL,NULL,Final,NULL,39,28,29,22,NULL,31,16,21,29,NULL,NBA
+8,320121004,2012,"Sat, Jan 21",Chicago Bulls,Charlotte Bobcats,"15-3, 7-0 Home","3-13, 1-7 Away",95,89,NULL,NULL,Final,NULL,27,23,30,15,NULL,23,20,26,20,NULL,NBA
+9,320125004,2012,"Wed, Jan 25",Chicago Bulls,Indiana Pacers,"16-4, 8-1 Home","12-5, 7-4 Away",90,95,NULL,NULL,Final,NBATV,23,31,20,16,NULL,24,20,31,20,NULL,NBA
+10,320129014,2012,"Sun, Jan 29",Miami Heat,Chicago Bulls,"15-5, 9-2 Home","17-5, 8-4 Away",97,93,NULL,NULL,Final,ABC,24,32,20,21,NULL,22,29,20,22,NULL,NBA
+11,320201020,2012,"Wed, Feb 1",Philadelphia 76ers,Chicago Bulls,"16-6, 12-2 Home","18-6, 9-5 Away",98,82,NULL,NULL,Final,CSN,27,22,26,23,NULL,21,23,11,27,NULL,NBA
+12,320204015,2012,"Sat, Feb 4",Milwaukee Bucks,Chicago Bulls,"10-13, 7-3 Home","20-6, 11-5 Away",90,113,NULL,NULL,Final,NULL,16,27,21,26,NULL,30,37,20,26,NULL,NBA
+13,320208003,2012,"Wed, Feb 8",New Orleans Hornets,Chicago Bulls,"4-22, 2-13 Home","22-6, 13-5 Away",67,90,NULL,NULL,Final,NULL,16,15,15,21,NULL,23,21,26,20,NULL,NBA
+14,320212002,2012,"Sun, Feb 12",Boston Celtics,Chicago Bulls,"15-12, 11-7 Home","23-7, 14-6 Away",95,91,NULL,NULL,Final,ABC,28,20,24,23,NULL,23,20,23,25,NULL,NBA
+15,320216004,2012,"Thu, Feb 16",Chicago Bulls,Boston Celtics,"25-7, 11-1 Home","15-14, 4-6 Away",89,80,NULL,NULL,Final,TNT,18,26,16,29,NULL,24,11,24,21,NULL,NBA
+16,320220004,2012,"Mon, Feb 20",Chicago Bulls,Atlanta Hawks,"26-8, 12-2 Home","19-13, 10-8 Away",90,79,NULL,NULL,Final,ESPN,35,20,18,17,NULL,17,20,27,15,NULL,NBA
+17,320228004,2012,"Tue, Feb 28",Chicago Bulls,New Orleans Hornets,"28-8, 14-2 Home","8-26, 5-12 Away",99,95,NULL,NULL,Final,NBATV,30,17,29,23,NULL,26,24,20,25,NULL,NBA
+18,320302005,2012,"Fri, Mar 2",Cleveland Cavaliers,Chicago Bulls,"13-21, 8-11 Home","30-8, 16-6 Away",91,112,NULL,NULL,Final,NULL,28,16,27,20,NULL,30,26,38,18,NULL,NBA
+19,320305004,2012,"Mon, Mar 5",Chicago Bulls,Indiana Pacers,"32-8, 15-2 Home","23-13, 12-9 Away",92,72,NULL,NULL,Final,NULL,22,20,33,17,NULL,20,23,13,16,NULL,NBA
+20,320308004,2012,"Thu, Mar 8",Chicago Bulls,Orlando Magic,"33-9, 15-3 Home","26-15, 13-8 Away",94,99,NULL,NULL,Final,TNT,22,30,19,23,NULL,37,20,22,20,NULL,NBA
+21,320312004,2012,"Mon, Mar 12",Chicago Bulls,New York Knicks,"35-9, 17-3 Home","18-24, 7-14 Away",104,99,NULL,NULL,Final,ESPN,23,25,31,25,NULL,25,25,28,21,NULL,NBA
+22,320316004,2012,"Fri, Mar 16",Chicago Bulls,Portland Trail Blazers,"36-10, 18-4 Home","21-23, 7-16 Away",89,100,NULL,NULL,Final,NBATV,32,21,26,10,NULL,29,21,28,22,NULL,NBA
+23,320319019,2012,"Mon, Mar 19",Orlando Magic,Chicago Bulls,"29-18, 16-8 Home","38-10, 19-6 Away",59,85,NULL,NULL,Final,TNT,14,19,15,11,NULL,22,26,12,25,NULL,NBA
+24,320324004,2012,"Sat, Mar 24",Chicago Bulls,Toronto Raptors,"40-10, 20-4 Home","16-33, 8-18 Away",102,101,NULL,NULL,Final/OT,NULL,20,30,21,23,8,30,25,18,21,7,NBA
+25,320328001,2012,"Wed, Mar 28",Atlanta Hawks,Chicago Bulls,"30-22, 16-8 Home","41-11, 21-6 Away",77,98,NULL,NULL,Final,ESPN,23,19,18,17,NULL,21,33,22,22,NULL,NBA
+26,320401025,2012,"Sun, Apr 1",Oklahoma City Thunder,Chicago Bulls,"40-12, 23-4 Home","42-12, 21-7 Away",92,78,NULL,NULL,Final,ABC,27,22,31,12,NULL,20,19,12,27,NULL,NBA
+27,320405004,2012,"Thu, Apr 5",Chicago Bulls,Boston Celtics,"43-13, 22-6 Home","30-24, 11-15 Away",93,86,NULL,NULL,Final,TNT,18,20,29,26,NULL,22,27,17,20,NULL,NBA
+28,320410004,2012,"Tue, Apr 10",Chicago Bulls,New York Knicks,"44-14, 23-6 Home","29-28, 10-18 Away",98,86,NULL,NULL,Final,ESPN,22,25,25,26,NULL,25,10,27,24,NULL,NBA
+29,320415008,2012,"Sun, Apr 15",Detroit Pistons,Chicago Bulls,"22-38, 15-14 Home","46-14, 22-8 Away",94,100,NULL,NULL,Final/OT,NULL,19,22,25,20,8,26,23,15,22,14,NBA
+30,320418030,2012,"Wed, Apr 18",Charlotte Bobcats,Chicago Bulls,"7-54, 4-26 Home","47-15, 23-8 Away",68,100,NULL,NULL,Final,NULL,20,17,22,9,NULL,34,18,25,23,NULL,NBA
+31,320421004,2012,"Sat, Apr 21",Chicago Bulls,Dallas Mavericks,"48-16, 25-7 Home","36-29, 13-19 Away",93,83,NULL,NULL,Final,ESPN,21,23,22,27,NULL,8,30,18,27,NULL,NBA
+32,311225013,2012,"Sun, Dec 25",Los Angeles Lakers,Chicago Bulls,"0-1, 0-1 Home","1-0, 1-0 Away",87,88,NULL,NULL,Final,ABC,20,29,20,18,NULL,22,34,12,20,NULL,NBA
+33,311229023,2012,"Thu, Dec 29",Sacramento Kings,Chicago Bulls,"1-2, 1-1 Home","2-1, 2-1 Away",98,108,NULL,NULL,Final,NULL,24,29,22,23,NULL,30,30,25,23,NULL,NBA
+34,320101004,2012,"Sun, Jan 1",Chicago Bulls,Memphis Grizzlies,"4-1, 1-0 Home","1-3, 0-2 Away",104,64,NULL,NULL,Final,NULL,25,29,30,20,NULL,12,16,16,20,NULL,NBA
+35,320104008,2012,"Wed, Jan 4",Detroit Pistons,Chicago Bulls,"2-4, 2-2 Home","6-1, 4-1 Away",83,99,NULL,NULL,Final,NULL,14,21,23,25,NULL,22,29,20,28,NULL,NBA
+36,320107001,2012,"Sat, Jan 7",Atlanta Hawks,Chicago Bulls,"6-3, 3-1 Home","7-2, 5-2 Away",109,94,NULL,NULL,Final,NULL,33,30,22,24,NULL,18,27,17,32,NULL,NBA
+37,320110016,2012,"Tue, Jan 10",Minnesota Timberwolves,Chicago Bulls,"3-7, 2-5 Home","9-2, 6-2 Away",100,111,NULL,NULL,Final,NBATV,17,30,27,26,NULL,33,20,26,32,NULL,NBA
+38,320113002,2012,"Fri, Jan 13",Boston Celtics,Chicago Bulls,"4-6, 3-3 Home","11-2, 7-2 Away",79,88,NULL,NULL,Final,ESPN,13,20,26,20,NULL,26,26,15,21,NULL,NBA
+39,320116029,2012,"Mon, Jan 16",Memphis Grizzlies,Chicago Bulls,"6-6, 5-2 Home","12-3, 7-3 Away",102,86,NULL,NULL,Final,ESPN,28,30,19,25,NULL,21,17,28,20,NULL,NBA
+40,320120005,2012,"Fri, Jan 20",Cleveland Cavaliers,Chicago Bulls,"6-8, 2-3 Home","14-3, 8-3 Away",75,114,NULL,NULL,Final,NULL,26,18,17,14,NULL,34,29,22,29,NULL,NBA
+41,320123004,2012,"Mon, Jan 23",Chicago Bulls,New Jersey Nets,"16-3, 8-0 Home","5-13, 3-8 Away",110,95,NULL,NULL,Final,NULL,28,31,26,25,NULL,18,25,25,27,NULL,NBA
+42,320127004,2012,"Fri, Jan 27",Chicago Bulls,Milwaukee Bucks,"17-4, 9-1 Home","7-11, 3-9 Away",107,100,NULL,NULL,Final,NULL,30,21,28,28,NULL,27,23,18,32,NULL,NBA
+43,320130027,2012,"Mon, Jan 30",Washington Wizards,Chicago Bulls,"4-17, 3-9 Home","18-5, 9-4 Away",88,98,NULL,NULL,Final,NBATV,16,24,19,29,NULL,26,25,25,22,NULL,NBA
+44,320202018,2012,"Thu, Feb 2",New York Knicks,Chicago Bulls,"8-14, 4-7 Home","19-6, 10-5 Away",102,105,NULL,NULL,Final,TNT,25,19,31,27,NULL,29,26,22,28,NULL,NBA
+45,320206017,2012,"Mon, Feb 6",New Jersey Nets,Chicago Bulls,"8-18, 3-8 Home","21-6, 12-5 Away",87,108,NULL,NULL,Final,NULL,14,23,27,23,NULL,35,27,21,25,NULL,NBA
+46,320210030,2012,"Fri, Feb 10",Charlotte Bobcats,Chicago Bulls,"3-23, 2-9 Home","23-6, 14-5 Away",64,95,NULL,NULL,Final,NULL,16,18,17,13,NULL,30,26,23,16,NULL,NBA
+47,320214004,2012,"Tue, Feb 14",Chicago Bulls,Sacramento Kings,"24-7, 10-1 Home","10-18, 3-13 Away",121,115,NULL,NULL,Final,NULL,27,29,32,33,NULL,24,28,25,38,NULL,NBA
+48,320218004,2012,"Sat, Feb 18",Chicago Bulls,New Jersey Nets,"25-8, 11-2 Home","9-23, 6-12 Away",85,97,NULL,NULL,Final,NULL,19,26,11,29,NULL,34,25,14,24,NULL,NBA
+49,320222004,2012,"Wed, Feb 22",Chicago Bulls,Milwaukee Bucks,"27-8, 13-2 Home","13-20, 6-12 Away",110,91,NULL,NULL,Final,NULL,30,34,29,17,NULL,23,30,22,16,NULL,NBA
+50,320229024,2012,"Wed, Feb 29",San Antonio Spurs,Chicago Bulls,"24-11, 13-2 Home","29-8, 15-6 Away",89,96,NULL,NULL,Final,ESPN,22,20,24,23,NULL,20,30,15,31,NULL,NBA
+51,320304020,2012,"Sun, Mar 4",Philadelphia 76ers,Chicago Bulls,"22-16, 14-8 Home","31-8, 17-6 Away",91,96,NULL,NULL,Final,CSN/ESPN,24,22,18,27,NULL,26,14,24,32,NULL,NBA
+52,320307015,2012,"Wed, Mar 7",Milwaukee Bucks,Chicago Bulls,"15-24, 9-9 Home","33-8, 18-6 Away",104,106,NULL,NULL,Final,NULL,30,20,23,31,NULL,33,22,18,33,NULL,NBA
+53,320310004,2012,"Sat, Mar 10",Chicago Bulls,Utah Jazz,"34-9, 16-3 Home","19-21, 5-15 Away",111,97,NULL,NULL,Final,NULL,22,26,31,32,NULL,22,19,22,34,NULL,NBA
+54,320314004,2012,"Wed, Mar 14",Chicago Bulls,Miami Heat,"36-9, 18-3 Home","31-11, 13-9 Away",106,102,NULL,NULL,Final,ESPN,19,34,28,25,NULL,23,19,28,32,NULL,NBA
+55,320317004,2012,"Sat, Mar 17",Chicago Bulls,Philadelphia 76ers,"37-10, 19-4 Home","25-20, 9-11 Away",89,80,NULL,NULL,Final,CSN/NBATV,11,27,26,25,NULL,24,20,15,21,NULL,NBA
+56,320321028,2012,"Wed, Mar 21",Toronto Raptors,Chicago Bulls,"15-32, 7-15 Home","39-10, 20-6 Away",82,94,NULL,NULL,Final,NULL,23,28,18,13,NULL,27,16,19,32,NULL,NBA
+57,320326004,2012,"Mon, Mar 26",Chicago Bulls,Denver Nuggets,"40-11, 20-5 Home","27-23, 12-11 Away",91,108,NULL,NULL,Final,NBATV,27,25,16,23,NULL,25,29,27,27,NULL,NBA
+58,320330004,2012,"Fri, Mar 30",Chicago Bulls,Detroit Pistons,"42-11, 21-5 Home","18-33, 6-21 Away",83,71,NULL,NULL,Final,NULL,28,16,21,18,NULL,25,10,26,10,NULL,NBA
+59,320402004,2012,"Mon, Apr 2",Chicago Bulls,Houston Rockets,"42-13, 21-6 Home","29-25, 9-17 Away",93,99,NULL,NULL,Final,NBATV,22,29,19,23,NULL,26,14,31,28,NULL,NBA
+60,320408018,2012,"Sun, Apr 8",New York Knicks,Chicago Bulls,"29-27, 19-10 Home","43-14, 21-8 Away",100,99,NULL,NULL,Final/OT,ABC,31,22,19,19,9,19,26,30,16,8,NBA
+61,320412004,2012,"Thu, Apr 12",Chicago Bulls,Miami Heat,"45-14, 24-6 Home","40-17, 16-13 Away",96,86,NULL,NULL,Final/OT,TNT,19,17,24,24,12,22,19,21,22,2,NBA
+62,320416004,2012,"Mon, Apr 16",Chicago Bulls,Washington Wizards,"46-15, 24-7 Home","15-46, 7-24 Away",84,87,NULL,NULL,Final,NULL,23,17,23,21,NULL,19,24,14,30,NULL,NBA
+63,320419014,2012,"Thu, Apr 19",Miami Heat,Chicago Bulls,"45-17, 27-4 Home","47-16, 23-9 Away",83,72,NULL,NULL,Final,TNT,27,15,24,17,NULL,23,17,21,11,NULL,NBA
+64,320425011,2012,"Wed, Apr 25",Indiana Pacers,Chicago Bulls,"42-24, 23-10 Home","49-16, 24-9 Away",87,92,NULL,NULL,Final,NULL,24,12,23,28,NULL,32,17,18,25,NULL,NBA
+65,320426004,2012,"Thu, Apr 26",Chicago Bulls,Cleveland Cavaliers,"50-16, 26-7 Home","21-45, 10-23 Away",107,75,NULL,NULL,Final,NULL,26,32,22,27,NULL,25,20,17,13,NULL,NBA

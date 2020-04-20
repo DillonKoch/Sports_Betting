@@ -1,0 +1,51 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,190206001,1999,"Sat, Feb 6",Atlanta Hawks,New Jersey Nets,"2-0, 2-0 Home","0-1, 0-1 Away",111,106,NULL,NULL,Final,NULL,27,28,26,30,NULL,20,23,31,32,NULL,NBA
+1,190209004,1999,"Tue, Feb 9",Chicago Bulls,Atlanta Hawks,"1-2, 0-1 Home","3-1, 1-1 Away",71,87,NULL,NULL,Final,NULL,19,20,19,13,NULL,30,16,18,23,NULL,NBA
+2,190214020,1999,"Sun, Feb 14",Philadelphia 76ers,Atlanta Hawks,"4-1, 3-1 Home","4-2, 1-2 Away",78,70,NULL,NULL,Final,CSN,25,19,24,10,NULL,15,17,21,17,NULL,NBA
+3,190219001,1999,"Fri, Feb 19",Atlanta Hawks,Orlando Magic,"5-3, 3-1 Home","7-2, 3-2 Away",94,99,NULL,NULL,Final/OT,NULL,22,27,24,14,7,25,28,12,22,12,NBA
+4,190222001,1999,"Mon, Feb 22",Atlanta Hawks,Chicago Bulls,"6-4, 3-2 Home","2-8, 2-4 Away",68,77,NULL,NULL,Final,NULL,14,23,15,16,NULL,29,23,10,15,NULL,NBA
+5,190225010,1999,"Thu, Feb 25",Houston Rockets,Atlanta Hawks,"7-5, 4-1 Home","7-5, 4-3 Away",87,93,NULL,NULL,Final,NULL,22,20,17,28,NULL,19,30,17,27,NULL,NBA
+6,190301019,1999,"Mon, Mar 1",Orlando Magic,Atlanta Hawks,"11-4, 8-0 Home","8-6, 5-4 Away",70,67,NULL,NULL,Final,NULL,25,15,8,22,NULL,17,21,16,13,NULL,NBA
+7,190304001,1999,"Thu, Mar 4",Atlanta Hawks,Toronto Raptors,"8-8, 3-4 Home","5-9, 2-6 Away",77,86,NULL,NULL,Final,NULL,20,20,21,16,NULL,25,23,19,19,NULL,NBA
+8,190310014,1999,"Wed, Mar 10",Miami Heat,Atlanta Hawks,"14-5, 8-2 Home","9-9, 6-5 Away",88,78,NULL,NULL,Final,NULL,23,19,24,22,NULL,18,22,10,28,NULL,NBA
+9,190313001,1999,"Sat, Mar 13",Atlanta Hawks,Toronto Raptors,"11-9, 5-4 Home","6-12, 2-8 Away",86,75,NULL,NULL,Final,NULL,22,23,18,23,NULL,21,19,15,20,NULL,NBA
+10,190316011,1999,"Tue, Mar 16",Indiana Pacers,Atlanta Hawks,"15-6, 9-3 Home","13-9, 8-5 Away",79,85,NULL,NULL,Final,NULL,26,13,22,18,NULL,20,20,23,22,NULL,NBA
+11,190319001,1999,"Fri, Mar 19",Atlanta Hawks,Phoenix Suns,"14-10, 6-5 Home","12-12, 7-5 Away",93,85,NULL,NULL,Final,NULL,22,30,22,19,NULL,28,21,16,20,NULL,NBA
+12,190322018,1999,"Mon, Mar 22",New York Knicks,Atlanta Hawks,"15-12, 12-4 Home","15-11, 9-5 Away",71,80,NULL,NULL,Final,NULL,19,15,22,15,NULL,19,18,27,16,NULL,NBA
+13,190326001,1999,"Fri, Mar 26",Atlanta Hawks,Chicago Bulls,"17-11, 8-6 Home","8-20, 4-10 Away",93,81,NULL,NULL,Final,NULL,19,25,22,27,NULL,25,23,20,13,NULL,NBA
+14,190329011,1999,"Mon, Mar 29",Indiana Pacers,Atlanta Hawks,"20-9, 11-4 Home","19-11, 10-5 Away",82,83,NULL,NULL,Final,NULL,22,23,23,14,NULL,18,26,16,23,NULL,NBA
+15,190401017,1999,"Thu, Apr 1",New Jersey Nets,Atlanta Hawks,"6-24, 5-9 Home","19-13, 10-6 Away",90,85,NULL,NULL,Final,NULL,20,19,29,22,NULL,29,20,14,22,NULL,NBA
+16,190404001,1999,"Sun, Apr 4",Atlanta Hawks,Charlotte Hornets,"21-13, 11-7 Home","12-19, 3-12 Away",85,83,NULL,NULL,Final,NULL,23,18,22,22,NULL,24,22,16,21,NULL,NBA
+17,190407008,1999,"Wed, Apr 7",Detroit Pistons,Atlanta Hawks,"21-14, 14-6 Home","22-14, 11-7 Away",89,82,NULL,NULL,Final,NULL,26,24,18,21,NULL,19,21,22,20,NULL,NBA
+18,190410005,1999,"Sat, Apr 10",Cleveland Cavaliers,Atlanta Hawks,"18-17, 13-6 Home","22-16, 11-8 Away",81,67,NULL,NULL,Final,NULL,24,21,21,15,NULL,8,23,19,17,NULL,NBA
+19,190414002,1999,"Wed, Apr 14",Boston Celtics,Atlanta Hawks,"14-24, 8-10 Home","23-17, 12-9 Away",70,77,NULL,NULL,Final,NULL,12,20,20,18,NULL,21,17,17,22,NULL,NBA
+20,190420028,1999,"Tue, Apr 20",Toronto Raptors,Atlanta Hawks,"20-21, 13-9 Home","25-17, 13-9 Away",81,103,NULL,NULL,Final,NULL,17,22,18,24,NULL,21,30,32,20,NULL,NBA
+21,190423027,1999,"Fri, Apr 23",Washington Wizards,Atlanta Hawks,"16-27, 11-12 Home","27-17, 14-9 Away",78,89,NULL,NULL,Final,NULL,23,18,20,17,NULL,28,23,20,18,NULL,NBA
+22,190428001,1999,"Wed, Apr 28",Atlanta Hawks,New York Knicks,"29-17, 15-8 Home","24-22, 8-16 Away",76,73,NULL,NULL,Final,NULL,25,16,11,24,NULL,17,22,8,26,NULL,NBA
+23,190502005,1999,"Sun, May 2",Cleveland Cavaliers,Atlanta Hawks,"22-26, 15-10 Home","30-18, 15-9 Away",65,76,NULL,NULL,Final,NULL,20,14,17,14,NULL,20,16,14,26,NULL,NBA
+24,190205001,1999,"Fri, Feb 5",Atlanta Hawks,Cleveland Cavaliers,"1-0, 1-0 Home","0-1, 0-1 Away",100,83,NULL,NULL,Final,NULL,19,30,22,29,NULL,24,21,22,16,NULL,NBA
+25,190207017,1999,"Sun, Feb 7",New Jersey Nets,Atlanta Hawks,"1-1, 1-0 Home","2-1, 0-1 Away",79,69,NULL,NULL,Final,NULL,15,20,27,17,NULL,21,8,24,16,NULL,NBA
+26,190211001,1999,"Thu, Feb 11",Atlanta Hawks,Charlotte Hornets,"4-1, 3-0 Home","1-4, 0-1 Away",100,88,NULL,NULL,Final,NULL,33,24,19,24,NULL,12,24,24,28,NULL,NBA
+27,190216004,1999,"Tue, Feb 16",Chicago Bulls,Atlanta Hawks,"1-5, 0-4 Home","5-2, 2-2 Away",67,83,NULL,NULL,Final,NULL,23,13,21,10,NULL,23,24,21,15,NULL,NBA
+28,190220020,1999,"Sat, Feb 20",Philadelphia 76ers,Atlanta Hawks,"4-5, 3-4 Home","6-3, 3-2 Away",69,76,NULL,NULL,Final,CSN,18,15,14,22,NULL,21,24,15,16,NULL,NBA
+29,190223006,1999,"Tue, Feb 23",Dallas Mavericks,Atlanta Hawks,"3-9, 1-2 Home","6-5, 3-3 Away",89,85,NULL,NULL,Final,NULL,17,30,23,19,NULL,20,18,21,26,NULL,NBA
+30,190227012,1999,"Sat, Feb 27",Los Angeles Clippers,Atlanta Hawks,"0-12, 0-8 Home","8-5, 5-3 Away",74,103,NULL,NULL,Final,NULL,16,18,13,27,NULL,25,18,33,27,NULL,NBA
+31,190302001,1999,"Tue, Mar 2",Atlanta Hawks,Washington Wizards,"8-7, 3-3 Home","5-8, 2-4 Away",77,97,NULL,NULL,Final,NULL,20,17,15,25,NULL,24,26,24,23,NULL,NBA
+32,190308019,1999,"Mon, Mar 8",Orlando Magic,Atlanta Hawks,"14-5, 10-1 Home","9-8, 6-4 Away",110,114,NULL,NULL,Final,NULL,24,36,21,29,NULL,27,30,32,25,NULL,NBA
+33,190311001,1999,"Thu, Mar 11",Atlanta Hawks,Boston Celtics,"10-9, 4-4 Home","7-10, 3-8 Away",99,85,NULL,NULL,Final,NULL,29,19,30,21,NULL,26,21,20,18,NULL,NBA
+34,190314008,1999,"Sun, Mar 14",Detroit Pistons,Atlanta Hawks,"12-9, 8-3 Home","12-9, 7-5 Away",72,85,NULL,NULL,Final,NULL,25,15,17,15,NULL,21,22,17,25,NULL,NBA
+35,190317001,1999,"Wed, Mar 17",Atlanta Hawks,Miami Heat,"13-10, 5-5 Home","18-5, 7-3 Away",85,86,NULL,NULL,Final,NULL,20,18,21,26,NULL,25,19,24,18,NULL,NBA
+36,190320001,1999,"Sat, Mar 20",Atlanta Hawks,Milwaukee Bucks,"14-11, 6-6 Home","14-9, 7-5 Away",77,83,NULL,NULL,Final,NULL,27,15,17,18,NULL,22,17,21,23,NULL,NBA
+37,190324001,1999,"Wed, Mar 24",Atlanta Hawks,Indiana Pacers,"16-11, 7-6 Home","18-8, 7-5 Away",103,102,NULL,NULL,Final,NULL,24,32,24,23,NULL,33,19,27,23,NULL,NBA
+38,190327001,1999,"Sat, Mar 27",Atlanta Hawks,Philadelphia 76ers,"18-11, 9-6 Home","15-13, 6-6 Away",103,99,NULL,NULL,Final/OT,CSN,24,12,25,25,17,22,26,18,20,13,NBA
+39,190330001,1999,"Tue, Mar 30",Atlanta Hawks,Detroit Pistons,"19-12, 9-7 Home","18-12, 6-8 Away",77,93,NULL,NULL,Final,NULL,19,18,23,17,NULL,25,11,29,28,NULL,NBA
+40,190402001,1999,"Fri, Apr 2",Atlanta Hawks,Vancouver Grizzlies,"20-13, 10-7 Home","6-26, 1-14 Away",84,81,NULL,NULL,Final,NULL,22,20,12,30,NULL,15,21,24,21,NULL,NBA
+41,190405003,1999,"Mon, Apr 5",Charlotte Hornets,Atlanta Hawks,"12-20, 9-8 Home","22-13, 11-6 Away",71,77,NULL,NULL,Final,NULL,22,17,17,15,NULL,23,15,22,17,NULL,NBA
+42,190409001,1999,"Fri, Apr 9",Atlanta Hawks,New York Knicks,"22-15, 11-8 Home","19-17, 5-12 Away",78,86,NULL,NULL,Final,NULL,20,25,20,13,NULL,19,26,22,19,NULL,NBA
+43,190413015,1999,"Tue, Apr 13",Milwaukee Bucks,Atlanta Hawks,"21-16, 11-6 Home","22-17, 11-9 Away",91,84,NULL,NULL,Final,NULL,24,24,19,24,NULL,25,23,18,18,NULL,NBA
+44,190416001,1999,"Fri, Apr 16",Atlanta Hawks,Orlando Magic,"24-17, 12-8 Home","28-12, 10-10 Away",91,79,NULL,NULL,Final,NULL,31,17,27,16,NULL,26,15,15,23,NULL,NBA
+45,190422001,1999,"Thu, Apr 22",Atlanta Hawks,Boston Celtics,"26-17, 13-8 Home","16-27, 7-15 Away",106,94,NULL,NULL,Final,NULL,23,24,30,29,NULL,20,29,13,32,NULL,NBA
+46,190425001,1999,"Sun, Apr 25",Atlanta Hawks,Milwaukee Bucks,"28-17, 14-8 Home","24-20, 10-13 Away",85,70,NULL,NULL,Final,NULL,22,21,21,21,NULL,14,18,26,12,NULL,NBA
+47,190430001,1999,"Fri, Apr 30",Atlanta Hawks,Indiana Pacers,"29-18, 15-9 Home","31-17, 15-10 Away",90,92,NULL,NULL,Final/OT,NULL,29,18,19,15,9,32,23,10,16,11,NBA
+48,190504014,1999,"Tue, May 4",Miami Heat,Atlanta Hawks,"33-16, 18-7 Home","30-19, 15-10 Away",93,79,NULL,NULL,Final,NULL,22,23,24,24,NULL,26,19,16,18,NULL,NBA
+49,190505001,1999,"Wed, May 5",Atlanta Hawks,Washington Wizards,"31-19, 16-9 Home","18-32, 5-20 Away",100,92,NULL,NULL,Final,NULL,38,17,20,25,NULL,23,23,17,29,NULL,NBA
