@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,400974776,2018,"Fri, Oct 20",Dallas Mavericks,Sacramento Kings,"0-2, 0-2 Home","1-1, 1-0 Away",88,93,NULL,NULL,Final,NULL,23,23,14,28,NULL,19,27,25,22,NULL,NBA
+1,400974796,2018,"Mon, Oct 23",Dallas Mavericks,Golden State Warriors,"0-4, 0-3 Home","2-2, 2-1 Away",103,133,NULL,NULL,Final,NULL,24,38,22,19,NULL,40,25,34,34,NULL,NBA
+2,400974817,2018,"Thu, Oct 26",Memphis Grizzlies,Dallas Mavericks,"4-1, 3-0 Home","1-5, 0-2 Away",96,91,NULL,NULL,Final,NULL,28,26,22,20,NULL,14,21,33,23,NULL,NBA
+3,400974849,2018,"Mon, Oct 30",Utah Jazz,Dallas Mavericks,"4-3, 4-0 Home","1-7, 0-3 Away",104,89,NULL,NULL,Final,NULL,21,23,32,28,NULL,27,26,15,21,NULL,NBA
+4,400974876,2018,"Fri, Nov 3",Dallas Mavericks,New Orleans Pelicans,"1-9, 1-5 Home","4-5, 3-2 Away",94,99,NULL,NULL,Final,NULL,25,21,17,31,NULL,28,27,20,24,NULL,NBA
+5,400974902,2018,"Tue, Nov 7",Washington Wizards,Dallas Mavericks,"5-5, 2-3 Home","2-10, 1-5 Away",99,113,NULL,NULL,Final,NULL,34,19,23,23,NULL,36,28,26,23,NULL,NBA
+6,400974942,2018,"Sun, Nov 12",Oklahoma City Thunder,Dallas Mavericks,"6-7, 4-2 Home","2-12, 1-6 Away",112,99,NULL,NULL,Final,NULL,18,26,39,29,NULL,20,22,25,32,NULL,NBA
+7,400974975,2018,"Fri, Nov 17",Dallas Mavericks,Minnesota Timberwolves,"2-14, 1-8 Home","10-5, 5-4 Away",87,111,NULL,NULL,Final,NULL,29,26,17,15,NULL,24,19,31,37,NULL,NBA
+8,400975000,2018,"Mon, Nov 20",Dallas Mavericks,Boston Celtics,"3-15, 2-9 Home","16-2, 9-1 Away",102,110,NULL,NULL,Final/OT,NULL,22,27,28,19,6,34,19,16,27,14,NBA
+9,400975034,2018,"Sat, Nov 25",Dallas Mavericks,Oklahoma City Thunder,"5-15, 3-9 Home","8-11, 2-8 Away",97,81,NULL,NULL,Final,NULL,25,27,26,19,NULL,24,13,18,26,NULL,NBA
+10,400975061,2018,"Wed, Nov 29",Dallas Mavericks,Brooklyn Nets,"5-17, 3-10 Home","8-13, 4-8 Away",104,109,NULL,NULL,Final,NULL,27,20,29,28,NULL,21,27,32,29,NULL,NBA
+11,400975098,2018,"Mon, Dec 4",Dallas Mavericks,Denver Nuggets,"7-17, 5-10 Home","13-10, 3-8 Away",122,105,NULL,NULL,Final,NULL,39,25,29,29,NULL,23,24,35,23,NULL,NBA
+12,400975123,2018,"Fri, Dec 8",Milwaukee Bucks,Dallas Mavericks,"14-10, 8-4 Home","7-19, 2-9 Away",109,102,NULL,NULL,Final,NULL,22,27,28,32,NULL,25,29,24,24,NULL,NBA
+13,400975153,2018,"Tue, Dec 12",Dallas Mavericks,San Antonio Spurs,"8-20, 6-10 Home","19-9, 6-7 Away",95,89,NULL,NULL,Final,NULL,30,16,21,28,NULL,23,21,25,20,NULL,NBA
+14,400975186,2018,"Sat, Dec 16",San Antonio Spurs,Dallas Mavericks,"20-10, 14-2 Home","8-22, 2-12 Away",98,96,NULL,NULL,Final,NULL,18,25,28,27,NULL,31,22,27,16,NULL,NBA
+15,400975212,2018,"Wed, Dec 20",Dallas Mavericks,Detroit Pistons,"9-23, 7-11 Home","17-14, 8-9 Away",110,93,NULL,NULL,Final,NULL,22,43,24,21,NULL,25,28,13,27,NULL,NBA
+16,400975235,2018,"Sat, Dec 23",Atlanta Hawks,Dallas Mavericks,"8-25, 5-11 Home","9-25, 2-14 Away",112,107,NULL,NULL,Final,NULL,25,23,31,33,NULL,25,28,27,27,NULL,NBA
+17,400975253,2018,"Wed, Dec 27",Indiana Pacers,Dallas Mavericks,"19-16, 11-8 Home","11-25, 3-14 Away",94,98,NULL,NULL,Final,NULL,29,25,20,20,NULL,22,31,18,27,NULL,NBA
+18,400975287,2018,"Sun, Dec 31",Oklahoma City Thunder,Dallas Mavericks,"20-17, 14-6 Home","13-25, 5-14 Away",113,116,NULL,NULL,Final,NULL,32,31,22,28,NULL,35,22,27,32,NULL,NBA
+19,400975318,2018,"Fri, Jan 5",Dallas Mavericks,Chicago Bulls,"13-27, 8-13 Home","14-25, 5-15 Away",124,127,NULL,NULL,Final,NULL,28,25,35,36,NULL,34,23,23,47,NULL,NBA
+20,400975347,2018,"Tue, Jan 9",Dallas Mavericks,Orlando Magic,"14-28, 9-14 Home","12-29, 5-17 Away",114,99,NULL,NULL,Final,NULL,25,18,39,32,NULL,19,29,27,24,NULL,NBA
+21,400975373,2018,"Sat, Jan 13",Dallas Mavericks,Los Angeles Lakers,"15-29, 9-15 Home","15-27, 6-13 Away",101,107,NULL,NULL,Final/OT,NULL,20,32,21,22,6,31,15,24,25,12,NBA
+22,400975428,2018,"Sat, Jan 20",Portland Trail Blazers,Dallas Mavericks,"25-21, 13-10 Home","15-31, 6-16 Away",117,108,NULL,NULL,Final,NULL,33,29,29,26,NULL,20,25,34,29,NULL,NBA
+23,400975452,2018,"Wed, Jan 24",Dallas Mavericks,Houston Rockets,"16-32, 10-16 Home","34-12, 16-6 Away",97,104,NULL,NULL,Final,ESPN,28,17,22,30,NULL,38,13,34,19,NULL,NBA
+24,400975476,2018,"Sat, Jan 27",Denver Nuggets,Dallas Mavericks,"26-23, 19-6 Home","16-34, 6-17 Away",91,89,NULL,NULL,Final,NULL,30,20,16,25,NULL,26,16,32,15,NULL,NBA
+25,400975506,2018,"Wed, Jan 31",Phoenix Suns,Dallas Mavericks,"18-34, 9-17 Home","16-36, 6-18 Away",102,88,NULL,NULL,Final,ESPN,36,21,24,21,NULL,17,29,15,27,NULL,NBA
+26,400975542,2018,"Mon, Feb 5",LA Clippers,Dallas Mavericks,"27-25, 16-12 Home","17-37, 7-19 Away",104,101,NULL,NULL,Final,NBATV,32,26,20,26,NULL,28,27,27,19,NULL,NBA
+27,400975576,2018,"Sat, Feb 10",Dallas Mavericks,Los Angeles Lakers,"18-38, 11-18 Home","23-32, 9-18 Away",130,123,NULL,NULL,Final,NULL,34,31,35,30,NULL,36,30,29,28,NULL,NBA
+28,400975597,2018,"Tue, Feb 13",Dallas Mavericks,Sacramento Kings,"18-40, 11-19 Home","18-38, 10-21 Away",109,114,NULL,NULL,Final,NULL,16,28,27,38,NULL,29,36,23,26,NULL,NBA
+29,400975636,2018,"Sat, Feb 24",Utah Jazz,Dallas Mavericks,"31-29, 19-10 Home","18-42, 7-23 Away",97,90,NULL,NULL,Final,NULL,35,18,21,23,NULL,23,27,21,19,NULL,NBA
+30,400975665,2018,"Wed, Feb 28",Dallas Mavericks,Oklahoma City Thunder,"19-43, 12-20 Home","36-27, 15-17 Away",110,111,NULL,NULL,Final/OT,NULL,21,22,33,24,10,32,22,23,23,11,NBA
+31,400975692,2018,"Sun, Mar 4",Dallas Mavericks,New Orleans Pelicans,"19-45, 12-21 Home","36-26, 19-14 Away",109,126,NULL,NULL,Final,NULL,25,24,29,31,NULL,33,32,26,35,NULL,NBA
+32,400975735,2018,"Sat, Mar 10",Dallas Mavericks,Memphis Grizzlies,"21-45, 14-21 Home","18-48, 5-27 Away",114,80,NULL,NULL,Final,NULL,31,25,28,30,NULL,13,17,33,17,NULL,NBA
+33,400975755,2018,"Tue, Mar 13",New York Knicks,Dallas Mavericks,"24-44, 16-16 Home","22-46, 8-24 Away",97,110,NULL,NULL,Final,NULL,31,29,12,25,NULL,29,28,26,27,NULL,NBA
+34,400975783,2018,"Sat, Mar 17",Brooklyn Nets,Dallas Mavericks,"22-48, 13-23 Home","22-48, 8-26 Away",114,106,NULL,NULL,Final,NULL,30,29,29,26,NULL,24,32,33,17,NULL,NBA
+35,400975822,2018,"Thu, Mar 22",Dallas Mavericks,Utah Jazz,"22-50, 14-23 Home","41-31, 17-19 Away",112,119,NULL,NULL,Final,NULL,34,24,23,31,NULL,37,28,31,23,NULL,NBA
+36,400975859,2018,"Tue, Mar 27",Sacramento Kings,Dallas Mavericks,"24-51, 13-25 Home","23-51, 9-27 Away",97,103,NULL,NULL,Final,NULL,20,25,25,27,NULL,25,28,22,28,NULL,NBA
+37,400975880,2018,"Fri, Mar 30",Dallas Mavericks,Minnesota Timberwolves,"23-53, 14-25 Home","44-33, 16-23 Away",92,93,NULL,NULL,Final,NULL,20,26,18,28,NULL,16,28,23,26,NULL,NBA
+38,400975910,2018,"Tue, Apr 3",Dallas Mavericks,Portland Trail Blazers,"24-54, 15-25 Home","48-30, 21-17 Away",115,109,NULL,NULL,Final,NULL,22,28,32,33,NULL,22,27,29,31,NULL,NBA
+39,400975927,2018,"Fri, Apr 6",Detroit Pistons,Dallas Mavericks,"38-41, 25-15 Home","24-56, 9-31 Away",113,106,NULL,NULL,Final/OT,NULL,22,31,25,23,12,24,30,21,26,5,NBA
+40,400974705,2018,"Wed, Oct 18",Dallas Mavericks,Atlanta Hawks,"0-1, 0-1 Home","1-0, 1-0 Away",111,117,NULL,NULL,Final,NULL,24,23,35,29,NULL,27,31,24,35,NULL,NBA
+41,400974783,2018,"Sat, Oct 21",Houston Rockets,Dallas Mavericks,"3-0, 1-0 Home","0-3, 0-1 Away",107,91,NULL,NULL,Final,NULL,33,29,30,15,NULL,20,19,19,33,NULL,NBA
+42,400974812,2018,"Wed, Oct 25",Dallas Mavericks,Memphis Grizzlies,"1-4, 1-3 Home","3-1, 1-1 Away",103,94,NULL,NULL,Final,NULL,32,25,22,24,NULL,18,31,23,22,NULL,NBA
+43,400974832,2018,"Sat, Oct 28",Dallas Mavericks,Philadelphia 76ers,"1-6, 1-4 Home","2-4, 2-2 Away",110,112,NULL,NULL,Final,NULL,23,33,22,32,NULL,32,25,32,23,NULL,NBA
+44,400974867,2018,"Wed, Nov 1",LA Clippers,Dallas Mavericks,"5-2, 3-2 Home","1-8, 0-4 Away",119,98,NULL,NULL,Final,ESPN,32,34,29,24,NULL,29,19,29,21,NULL,NBA
+45,400974885,2018,"Sat, Nov 4",Minnesota Timberwolves,Dallas Mavericks,"6-3, 3-1 Home","1-10, 0-5 Away",112,99,NULL,NULL,Final,NULL,27,32,34,19,NULL,18,31,20,30,NULL,NBA
+46,400974932,2018,"Sat, Nov 11",Dallas Mavericks,Cleveland Cavaliers,"2-11, 1-6 Home","6-7, 3-3 Away",104,111,NULL,NULL,Final,NULL,23,29,22,30,NULL,29,20,34,28,NULL,NBA
+47,400974954,2018,"Tue, Nov 14",Dallas Mavericks,San Antonio Spurs,"2-13, 1-7 Home","9-5, 3-3 Away",91,97,NULL,NULL,Final,NULL,16,23,21,31,NULL,17,27,18,35,NULL,NBA
+48,400974984,2018,"Sat, Nov 18",Dallas Mavericks,Milwaukee Bucks,"3-14, 2-8 Home","8-7, 3-4 Away",111,79,NULL,NULL,Final,NULL,33,23,26,29,NULL,24,20,17,18,NULL,NBA
+49,400975011,2018,"Wed, Nov 22",Memphis Grizzlies,Dallas Mavericks,"7-10, 4-6 Home","4-15, 2-6 Away",94,95,NULL,NULL,Final,NULL,27,29,16,22,NULL,12,27,35,21,NULL,NBA
+50,400975046,2018,"Mon, Nov 27",San Antonio Spurs,Dallas Mavericks,"13-7, 9-2 Home","5-16, 2-7 Away",115,108,NULL,NULL,Final,NBATV,21,25,31,38,NULL,23,30,22,33,NULL,NBA
+51,400975078,2018,"Sat, Dec 2",Dallas Mavericks,LA Clippers,"6-17, 4-10 Home","8-13, 4-7 Away",108,82,NULL,NULL,Final,NULL,24,35,27,22,NULL,17,21,28,16,NULL,NBA
+52,400975107,2018,"Wed, Dec 6",Boston Celtics,Dallas Mavericks,"22-4, 12-2 Home","7-18, 2-8 Away",97,90,NULL,NULL,Final,NULL,24,23,23,27,NULL,26,31,16,17,NULL,NBA
+53,400975139,2018,"Sun, Dec 10",Minnesota Timberwolves,Dallas Mavericks,"16-11, 9-4 Home","7-20, 2-10 Away",97,92,NULL,NULL,Final,NULL,23,24,24,26,NULL,24,24,21,23,NULL,NBA
+54,400975168,2018,"Thu, Dec 14",Golden State Warriors,Dallas Mavericks,"23-6, 10-3 Home","8-21, 2-11 Away",112,97,NULL,NULL,Final,TNT,24,24,32,32,NULL,28,20,25,24,NULL,NBA
+55,400975199,2018,"Mon, Dec 18",Dallas Mavericks,Phoenix Suns,"8-23, 6-11 Home","11-21, 7-9 Away",91,97,NULL,NULL,Final,NULL,22,28,25,16,NULL,25,24,19,29,NULL,NBA
+56,400975225,2018,"Fri, Dec 22",Miami Heat,Dallas Mavericks,"17-15, 7-7 Home","9-24, 2-13 Away",113,101,NULL,NULL,Final,NULL,32,21,29,31,NULL,23,30,20,28,NULL,NBA
+57,400975245,2018,"Tue, Dec 26",Dallas Mavericks,Toronto Raptors,"10-25, 8-11 Home","23-9, 11-8 Away",98,93,NULL,NULL,Final,NULL,31,26,28,13,NULL,23,30,24,16,NULL,NBA
+58,400975271,2018,"Fri, Dec 29",New Orleans Pelicans,Dallas Mavericks,"18-17, 9-8 Home","12-25, 4-14 Away",120,128,NULL,NULL,Final,NULL,21,39,41,19,NULL,36,41,32,19,NULL,NBA
+59,400975308,2018,"Wed, Jan 3",Dallas Mavericks,Golden State Warriors,"13-26, 8-12 Home","30-8, 15-3 Away",122,125,NULL,NULL,Final,NULL,26,35,28,33,NULL,35,32,24,34,NULL,NBA
+60,400975333,2018,"Sun, Jan 7",Dallas Mavericks,New York Knicks,"13-28, 8-14 Home","19-21, 4-14 Away",96,100,NULL,NULL,Final,NULL,25,27,19,25,NULL,33,23,19,25,NULL,NBA
+61,400975349,2018,"Wed, Jan 10",Charlotte Hornets,Dallas Mavericks,"15-24, 10-11 Home","15-28, 6-14 Away",111,115,NULL,NULL,Final,NULL,28,24,25,34,NULL,20,39,24,32,NULL,NBA
+62,400975397,2018,"Tue, Jan 16",Denver Nuggets,Dallas Mavericks,"23-21, 16-5 Home","15-30, 6-15 Away",105,102,NULL,NULL,Final,NULL,30,31,25,19,NULL,27,21,21,33,NULL,NBA
+63,400975439,2018,"Mon, Jan 22",Dallas Mavericks,Washington Wizards,"16-31, 10-15 Home","26-21, 11-12 Away",98,75,NULL,NULL,Final,NULL,22,31,18,27,NULL,22,15,17,21,NULL,NBA
+64,400975467,2018,"Fri, Jan 26",Dallas Mavericks,Portland Trail Blazers,"16-33, 10-17 Home","27-22, 13-12 Away",93,107,NULL,NULL,Final,NULL,25,19,24,25,NULL,17,35,23,32,NULL,NBA
+65,400975488,2018,"Mon, Jan 29",Dallas Mavericks,Miami Heat,"16-35, 10-18 Home","29-21, 16-11 Away",88,95,NULL,NULL,Final,NULL,26,20,15,27,NULL,22,29,24,20,NULL,NBA
+66,400975529,2018,"Sat, Feb 3",Sacramento Kings,Dallas Mavericks,"16-36, 7-16 Home","17-36, 7-18 Away",99,106,NULL,NULL,Final,NULL,28,26,31,14,NULL,27,29,25,25,NULL,NBA
+67,400975561,2018,"Thu, Feb 8",Golden State Warriors,Dallas Mavericks,"42-13, 20-7 Home","17-38, 7-20 Away",121,103,NULL,NULL,Final,NULL,23,37,33,28,NULL,33,27,25,18,NULL,NBA
+68,400975583,2018,"Sun, Feb 11",Houston Rockets,Dallas Mavericks,"42-13, 22-6 Home","18-39, 7-21 Away",104,97,NULL,NULL,Final,NBATV,27,30,30,17,NULL,19,36,20,22,NULL,NBA
+69,400975629,2018,"Fri, Feb 23",Los Angeles Lakers,Dallas Mavericks,"24-34, 15-14 Home","18-41, 7-22 Away",124,102,NULL,NULL,Final,ESPN,32,31,32,29,NULL,17,24,35,26,NULL,NBA
+70,400975650,2018,"Mon, Feb 26",Dallas Mavericks,Indiana Pacers,"19-42, 12-19 Home","34-26, 13-15 Away",109,103,NULL,NULL,Final,NULL,23,26,19,41,NULL,23,20,22,38,NULL,NBA
+71,400975676,2018,"Fri, Mar 2",Chicago Bulls,Dallas Mavericks,"21-41, 14-17 Home","19-44, 7-24 Away",108,100,NULL,NULL,Final,NULL,24,23,31,30,NULL,32,17,36,15,NULL,NBA
+72,400975707,2018,"Tue, Mar 6",Dallas Mavericks,Denver Nuggets,"20-45, 13-21 Home","35-29, 11-20 Away",118,107,NULL,NULL,Final,NULL,29,29,38,22,NULL,25,37,23,22,NULL,NBA
+73,400975743,2018,"Sun, Mar 11",Dallas Mavericks,Houston Rockets,"21-46, 14-22 Home","52-14, 27-8 Away",82,105,NULL,NULL,Final,NULL,14,33,16,19,NULL,25,23,32,25,NULL,NBA
+74,400975777,2018,"Fri, Mar 16",Toronto Raptors,Dallas Mavericks,"52-17, 29-5 Home","22-47, 8-25 Away",122,115,NULL,NULL,Final/OT,NULL,29,25,24,28,16,27,33,24,22,9,NBA
+75,400975807,2018,"Tue, Mar 20",New Orleans Pelicans,Dallas Mavericks,"41-30, 20-15 Home","22-49, 8-27 Away",115,105,NULL,NULL,Final,NULL,29,25,26,35,NULL,30,22,28,25,NULL,NBA
+76,400975839,2018,"Sat, Mar 24",Dallas Mavericks,Charlotte Hornets,"22-51, 14-24 Home","33-41, 13-24 Away",98,102,NULL,NULL,Final,NULL,27,21,22,28,NULL,22,32,25,23,NULL,NBA
+77,400975869,2018,"Wed, Mar 28",Los Angeles Lakers,Dallas Mavericks,"33-41, 19-16 Home","23-52, 9-28 Away",103,93,NULL,NULL,Final,NULL,32,23,27,21,NULL,34,22,25,12,NULL,NBA
+78,400975895,2018,"Sun, Apr 1",Cleveland Cavaliers,Dallas Mavericks,"47-30, 27-11 Home","23-54, 9-29 Away",98,87,NULL,NULL,Final,NBATV,18,30,25,25,NULL,25,22,30,10,NULL,NBA
+79,400975916,2018,"Wed, Apr 4",Orlando Magic,Dallas Mavericks,"24-54, 16-23 Home","24-55, 9-30 Away",105,100,NULL,NULL,Final,NULL,33,23,21,28,NULL,22,29,23,26,NULL,NBA
+80,400975944,2018,"Sun, Apr 8",Philadelphia 76ers,Dallas Mavericks,"50-30, 29-11 Home","24-57, 9-32 Away",109,97,NULL,NULL,Final,NBATV,28,33,24,24,NULL,20,28,28,21,NULL,NBA
+81,400975962,2018,"Tue, Apr 10",Dallas Mavericks,Phoenix Suns,"24-58, 15-26 Home","21-61, 11-30 Away",97,124,NULL,NULL,Final,NULL,26,28,22,21,NULL,29,15,39,41,NULL,NBA

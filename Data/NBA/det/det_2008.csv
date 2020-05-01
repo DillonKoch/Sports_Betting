@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,271102019,2008,"Fri, Nov 2",Orlando Magic,Detroit Pistons,"1-1, 1-1 Home","2-0, 2-0 Away",92,116,NULL,NULL,Final,NULL,30,25,23,14,NULL,28,36,27,25,NULL,NBA
+1,271108004,2008,"Thu, Nov 8",Chicago Bulls,Detroit Pistons,"1-4, 1-2 Home","3-1, 2-1 Away",97,93,NULL,NULL,Final,TNT,29,22,27,19,NULL,23,22,30,18,NULL,NBA
+2,271111025,2008,"Sun, Nov 11",Seattle SuperSonics,Detroit Pistons,"0-7, 0-4 Home","5-1, 3-1 Away",103,107,NULL,NULL,Final,NBATV,20,32,21,30,NULL,35,29,17,26,NULL,NBA
+3,271114009,2008,"Wed, Nov 14",Golden State Warriors,Detroit Pistons,"0-6, 0-4 Home","6-2, 4-2 Away",104,111,NULL,NULL,Final,TBS,40,24,21,19,NULL,25,26,31,29,NULL,NBA
+4,271118023,2008,"Sun, Nov 18",Sacramento Kings,Detroit Pistons,"4-6, 4-1 Home","6-4, 4-4 Away",105,95,NULL,NULL,Final,NULL,22,30,23,30,NULL,31,27,14,23,NULL,NBA
+5,271123008,2008,"Fri, Nov 23",Detroit Pistons,Philadelphia 76ers,"8-4, 4-0 Home","3-8, 1-5 Away",83,78,NULL,NULL,Final,CSN,17,23,24,19,NULL,17,21,16,24,NULL,NBA
+6,271128008,2008,"Wed, Nov 28",Detroit Pistons,Cleveland Cavaliers,"9-5, 5-1 Home","9-7, 5-4 Away",109,74,NULL,NULL,Final,NULL,23,25,29,32,NULL,22,21,16,15,NULL,NBA
+7,271202008,2008,"Sun, Dec 2",Detroit Pistons,New Jersey Nets,"11-5, 6-1 Home","8-9, 4-3 Away",118,95,NULL,NULL,Final,YES,27,27,33,31,NULL,27,17,23,28,NULL,NBA
+8,271205003,2008,"Wed, Dec 5",New Orleans Hornets,Detroit Pistons,"12-7, 4-5 Home","13-5, 7-4 Away",76,91,NULL,NULL,Final,NULL,26,16,18,16,NULL,16,28,22,25,NULL,NBA
+9,271209008,2008,"Sun, Dec 9",Detroit Pistons,Charlotte Bobcats,"14-6, 7-2 Home","7-12, 1-7 Away",104,85,NULL,NULL,Final,NULL,30,26,25,23,NULL,16,29,20,20,NULL,NBA
+10,271212010,2008,"Wed, Dec 12",Houston Rockets,Detroit Pistons,"12-11, 6-3 Home","15-7, 8-5 Away",80,77,NULL,NULL,Final,ESPN,18,20,19,23,NULL,16,17,22,22,NULL,NBA
+11,271216008,2008,"Sun, Dec 16",Detroit Pistons,Golden State Warriors,"17-7, 9-2 Home","13-11, 6-6 Away",109,87,NULL,NULL,Final,NULL,23,35,29,22,NULL,22,13,32,20,NULL,NBA
+12,271221008,2008,"Fri, Dec 21",Detroit Pistons,Memphis Grizzlies,"19-7, 10-2 Home","8-18, 3-10 Away",94,67,NULL,NULL,Final,NULL,21,21,26,26,NULL,18,20,16,13,NULL,NBA
+13,271226017,2008,"Wed, Dec 26",New Jersey Nets,Detroit Pistons,"12-16, 6-11 Home","21-7, 10-5 Away",83,101,NULL,NULL,Final,YES,24,20,18,21,NULL,26,19,31,25,NULL,NBA
+14,271229011,2008,"Sat, Dec 29",Indiana Pacers,Detroit Pistons,"15-16, 7-8 Home","23-7, 11-5 Away",92,98,NULL,NULL,Final,NULL,25,26,19,22,NULL,25,27,24,22,NULL,NBA
+15,280102027,2008,"Wed, Jan 2",Washington Wizards,Detroit Pistons,"15-15, 9-7 Home","25-7, 12-5 Away",93,106,NULL,NULL,Final,NULL,27,20,25,21,NULL,26,31,27,22,NULL,NBA
+16,280105008,2008,"Sat, Jan 5",Detroit Pistons,Boston Celtics,"26-8, 13-3 Home","29-3, 13-2 Away",85,92,NULL,NULL,Final,NULL,22,21,23,19,NULL,12,29,22,29,NULL,NBA
+17,280110024,2008,"Thu, Jan 10",San Antonio Spurs,Detroit Pistons,"23-11, 17-3 Home","27-9, 14-6 Away",80,90,NULL,NULL,Final,TNT,15,24,19,22,NULL,30,24,13,23,NULL,NBA
+18,280113018,2008,"Sun, Jan 13",New York Knicks,Detroit Pistons,"10-26, 8-13 Home","28-10, 15-7 Away",89,65,NULL,NULL,Final,NBATV,18,25,28,18,NULL,18,14,10,23,NULL,NBA
+19,280118008,2008,"Fri, Jan 18",Detroit Pistons,Sacramento Kings,"29-11, 14-4 Home","16-22, 5-13 Away",93,100,NULL,NULL,Final,NULL,29,19,29,16,NULL,23,33,20,24,NULL,NBA
+20,280121019,2008,"Mon, Jan 21",Orlando Magic,Detroit Pistons,"26-17, 10-8 Home","29-13, 15-9 Away",102,100,NULL,NULL,Final,NULL,26,29,25,22,NULL,30,19,29,22,NULL,NBA
+21,280125008,2008,"Fri, Jan 25",Detroit Pistons,Orlando Magic,"31-13, 15-4 Home","27-18, 17-10 Away",101,93,NULL,NULL,Final,ESPN,39,29,19,14,NULL,18,31,25,19,NULL,NBA
+22,280131008,2008,"Thu, Jan 31",Detroit Pistons,Los Angeles Lakers,"33-13, 16-4 Home","28-16, 11-9 Away",90,89,NULL,NULL,Final,NULL,29,23,15,23,NULL,22,23,27,17,NULL,NBA
+23,280206008,2008,"Wed, Feb 6",Detroit Pistons,Miami Heat,"35-13, 18-4 Home","9-39, 4-20 Away",100,95,NULL,NULL,Final,NULL,18,30,27,25,NULL,22,26,16,31,NULL,NBA
+24,280210008,2008,"Sun, Feb 10",Detroit Pistons,Charlotte Bobcats,"37-13, 20-4 Home","18-33, 4-18 Away",113,87,NULL,NULL,Final,NULL,29,26,28,30,NULL,13,25,24,25,NULL,NBA
+25,280213008,2008,"Wed, Feb 13",Detroit Pistons,Indiana Pacers,"39-13, 21-4 Home","21-32, 11-17 Away",96,80,NULL,NULL,Final,NULL,25,30,22,19,NULL,21,21,10,28,NULL,NBA
+26,280220015,2008,"Wed, Feb 20",Milwaukee Bucks,Detroit Pistons,"20-34, 14-11 Home","39-15, 18-10 Away",103,98,NULL,NULL,Final,NULL,29,28,24,22,NULL,25,17,22,34,NULL,NBA
+27,280224021,2008,"Sun, Feb 24",Phoenix Suns,Detroit Pistons,"38-18, 21-8 Home","41-15, 19-10 Away",86,116,NULL,NULL,Final,ABC,16,25,17,28,NULL,27,32,31,26,NULL,NBA
+28,280227026,2008,"Wed, Feb 27",Utah Jazz,Detroit Pistons,"37-21, 25-3 Home","42-16, 20-11 Away",103,95,NULL,NULL,Final,NULL,21,21,25,36,NULL,30,23,18,24,NULL,NBA
+29,280304008,2008,"Tue, Mar 4",Detroit Pistons,Seattle SuperSonics,"44-16, 23-5 Home","16-44, 6-23 Away",100,97,NULL,NULL,Final,NULL,28,25,24,23,NULL,41,13,24,19,NULL,NBA
+30,280307018,2008,"Fri, Mar 7",New York Knicks,Detroit Pistons,"18-44, 12-20 Home","45-17, 22-12 Away",97,101,NULL,NULL,Final,NULL,25,28,17,27,NULL,28,25,23,25,NULL,NBA
+31,280312008,2008,"Wed, Mar 12",Detroit Pistons,Philadelphia 76ers,"46-18, 24-6 Home","31-34, 14-19 Away",82,83,NULL,NULL,Final,NULL,18,24,25,15,NULL,26,22,18,17,NULL,NBA
+32,280316008,2008,"Sun, Mar 16",Detroit Pistons,New Orleans Hornets,"48-18, 26-6 Home","44-21, 20-11 Away",105,84,NULL,NULL,Final,ABC,21,34,22,28,NULL,26,18,22,18,NULL,NBA
+33,280319005,2008,"Wed, Mar 19",Cleveland Cavaliers,Detroit Pistons,"39-30, 23-10 Home","49-19, 22-13 Away",89,73,NULL,NULL,Final,ESPN,22,23,18,26,NULL,25,13,19,16,NULL,NBA
+34,280324008,2008,"Mon, Mar 24",Detroit Pistons,Phoenix Suns,"50-20, 28-6 Home","47-23, 21-13 Away",110,105,NULL,NULL,Final/OT,NULL,26,25,25,20,14,25,25,23,23,9,NBA
+35,280327008,2008,"Thu, Mar 27",Detroit Pistons,Miami Heat,"51-21, 29-6 Home","13-59, 6-30 Away",85,69,NULL,NULL,Final,NULL,18,25,23,19,NULL,23,22,10,14,NULL,NBA
+36,280401016,2008,"Tue, Apr 1",Minnesota Timberwolves,Detroit Pistons,"19-54, 14-24 Home","53-21, 23-15 Away",90,94,NULL,NULL,Final,NULL,30,19,23,18,NULL,18,26,21,29,NULL,NBA
+37,280406014,2008,"Sun, Apr 6",Miami Heat,Detroit Pistons,"13-64, 7-31 Home","55-21, 24-15 Away",75,91,NULL,NULL,Final,NULL,16,11,27,21,NULL,19,20,29,23,NULL,NBA
+38,280409020,2008,"Wed, Apr 9",Philadelphia 76ers,Detroit Pistons,"40-38, 22-17 Home","55-23, 24-16 Away",101,94,NULL,NULL,Final,NULL,29,29,23,20,NULL,25,27,21,21,NULL,NBA
+39,280413008,2008,"Sun, Apr 13",Detroit Pistons,Toronto Raptors,"57-23, 33-7 Home","40-40, 16-24 Away",91,84,NULL,NULL,Final,ABC,26,24,15,26,NULL,21,24,18,21,NULL,NBA
+40,271101014,2008,"Thu, Nov 1",Miami Heat,Detroit Pistons,"0-1, 0-1 Home","1-0, 1-0 Away",80,91,NULL,NULL,Final,TNT,22,20,20,18,NULL,26,22,18,25,NULL,NBA
+41,271104008,2008,"Sun, Nov 4",Detroit Pistons,Atlanta Hawks,"3-0, 1-0 Home","1-1, 0-1 Away",92,91,NULL,NULL,Final,NULL,24,21,15,32,NULL,19,29,21,22,NULL,NBA
+42,271109008,2008,"Fri, Nov 9",Detroit Pistons,LA Clippers,"4-1, 2-0 Home","4-1, 2-1 Away",103,79,NULL,NULL,Final,NULL,31,28,24,20,NULL,21,21,14,23,NULL,NBA
+43,271113022,2008,"Tue, Nov 13",Portland Trail Blazers,Detroit Pistons,"4-3, 4-0 Home","5-2, 3-2 Away",102,94,NULL,NULL,Final,NULL,22,28,24,28,NULL,27,26,21,20,NULL,NBA
+44,271116013,2008,"Fri, Nov 16",Los Angeles Lakers,Detroit Pistons,"5-3, 3-2 Home","6-3, 4-3 Away",103,91,NULL,NULL,Final,ESPN,29,19,14,41,NULL,20,26,22,23,NULL,NBA
+45,271121008,2008,"Wed, Nov 21",Detroit Pistons,New York Knicks,"7-4, 3-0 Home","2-9, 0-6 Away",98,86,NULL,NULL,Final,NULL,36,19,23,20,NULL,23,22,16,25,NULL,NBA
+46,271125008,2008,"Sun, Nov 25",Detroit Pistons,Utah Jazz,"8-5, 4-1 Home","10-4, 4-3 Away",93,103,NULL,NULL,Final,NBATV,34,16,19,24,NULL,30,27,22,24,NULL,NBA
+47,271201015,2008,"Sat, Dec 1",Milwaukee Bucks,Detroit Pistons,"7-8, 6-2 Home","10-5, 5-4 Away",91,117,NULL,NULL,Final,NULL,22,20,23,26,NULL,28,28,28,33,NULL,NBA
+48,271204001,2008,"Tue, Dec 4",Atlanta Hawks,Detroit Pistons,"7-10, 4-5 Home","12-5, 6-4 Away",95,106,NULL,NULL,Final,NULL,26,22,13,34,NULL,33,24,30,19,NULL,NBA
+49,271207008,2008,"Fri, Dec 7",Detroit Pistons,Chicago Bulls,"13-6, 6-2 Home","6-11, 3-7 Away",91,98,NULL,NULL,Final,ESPN,17,26,28,20,NULL,23,22,27,26,NULL,NBA
+50,271211029,2008,"Tue, Dec 11",Memphis Grizzlies,Detroit Pistons,"6-15, 4-6 Home","15-6, 8-4 Away",103,113,NULL,NULL,Final,NULL,22,26,26,29,NULL,37,24,29,23,NULL,NBA
+51,271214008,2008,"Fri, Dec 14",Detroit Pistons,Atlanta Hawks,"16-7, 8-2 Home","10-12, 4-6 Away",91,81,NULL,NULL,Final,NULL,21,26,17,27,NULL,16,17,20,28,NULL,NBA
+52,271219002,2008,"Wed, Dec 19",Boston Celtics,Detroit Pistons,"20-3, 12-1 Home","18-7, 9-5 Away",85,87,NULL,NULL,Final,ESPN,29,23,13,20,NULL,25,20,16,26,NULL,NBA
+53,271223008,2008,"Sun, Dec 23",Detroit Pistons,Houston Rockets,"20-7, 11-2 Home","13-15, 7-10 Away",94,82,NULL,NULL,Final,NULL,25,26,27,16,NULL,22,22,16,22,NULL,NBA
+54,271228008,2008,"Fri, Dec 28",Detroit Pistons,Indiana Pacers,"22-7, 12-2 Home","15-15, 8-8 Away",114,101,NULL,NULL,Final,NULL,24,40,29,21,NULL,19,22,29,31,NULL,NBA
+55,271231008,2008,"Mon, Dec 31",Detroit Pistons,Milwaukee Bucks,"24-7, 13-2 Home","11-19, 2-15 Away",114,69,NULL,NULL,Final,NULL,28,28,30,28,NULL,15,22,20,12,NULL,NBA
+56,280104028,2008,"Fri, Jan 4",Toronto Raptors,Detroit Pistons,"17-16, 8-7 Home","26-7, 13-5 Away",85,101,NULL,NULL,Final,ESPN,19,20,25,21,NULL,22,26,21,32,NULL,NBA
+57,280109006,2008,"Wed, Jan 9",Dallas Mavericks,Detroit Pistons,"24-11, 17-3 Home","26-9, 13-6 Away",102,86,NULL,NULL,Final,ESPN,32,16,31,23,NULL,20,23,22,21,NULL,NBA
+58,280112030,2008,"Sat, Jan 12",Charlotte Bobcats,Detroit Pistons,"13-23, 11-11 Home","28-9, 15-6 Away",100,103,NULL,NULL,Final/OT,NULL,18,29,24,20,9,31,20,24,16,12,NBA
+59,280115008,2008,"Tue, Jan 15",Detroit Pistons,Toronto Raptors,"29-10, 14-3 Home","20-18, 10-10 Away",103,89,NULL,NULL,Final,NBATV,20,31,26,26,NULL,18,32,15,24,NULL,NBA
+60,280119004,2008,"Sat, Jan 19",Chicago Bulls,Detroit Pistons,"16-23, 8-11 Home","29-12, 15-8 Away",97,81,NULL,NULL,Final,NULL,20,30,21,26,NULL,22,19,26,14,NULL,NBA
+61,280123020,2008,"Wed, Jan 23",Philadelphia 76ers,Detroit Pistons,"16-27, 8-13 Home","30-13, 16-9 Away",78,86,NULL,NULL,Final,NULL,23,18,22,15,NULL,25,25,20,16,NULL,NBA
+62,280129011,2008,"Tue, Jan 29",Indiana Pacers,Detroit Pistons,"19-27, 9-11 Home","32-13, 17-9 Away",104,110,NULL,NULL,Final,NULL,32,25,21,26,NULL,23,36,24,27,NULL,NBA
+63,280203008,2008,"Sun, Feb 3",Detroit Pistons,Dallas Mavericks,"34-13, 17-4 Home","31-15, 11-12 Away",90,67,NULL,NULL,Final,ABC,20,24,22,24,NULL,14,24,13,16,NULL,NBA
+64,280208008,2008,"Fri, Feb 8",Detroit Pistons,Portland Trail Blazers,"36-13, 19-4 Home","28-21, 8-15 Away",91,82,NULL,NULL,Final,NULL,27,32,22,10,NULL,18,17,22,25,NULL,NBA
+65,280212001,2008,"Tue, Feb 12",Atlanta Hawks,Detroit Pistons,"22-27, 16-11 Home","38-13, 18-9 Away",90,94,NULL,NULL,Final,NBATV,18,30,28,14,NULL,25,30,19,20,NULL,NBA
+66,280219008,2008,"Tue, Feb 19",Detroit Pistons,Orlando Magic,"39-14, 21-5 Home","34-21, 20-10 Away",85,103,NULL,NULL,Final,NULL,25,20,17,23,NULL,20,32,31,20,NULL,NBA
+67,280222008,2008,"Fri, Feb 22",Detroit Pistons,Milwaukee Bucks,"40-15, 22-5 Home","20-35, 6-24 Away",127,100,NULL,NULL,Final,NULL,33,32,35,27,NULL,35,11,28,26,NULL,NBA
+68,280225007,2008,"Mon, Feb 25",Denver Nuggets,Detroit Pistons,"33-23, 22-7 Home","42-15, 20-10 Away",93,98,NULL,NULL,Final,NULL,28,21,24,20,NULL,30,19,24,25,NULL,NBA
+69,280301012,2008,"Sat, Mar 1",LA Clippers,Detroit Pistons,"19-38, 11-20 Home","43-16, 21-11 Away",73,103,NULL,NULL,Final,NBATV,25,17,21,10,NULL,31,24,21,27,NULL,NBA
+70,280305002,2008,"Wed, Mar 5",Boston Celtics,Detroit Pistons,"47-12, 27-4 Home","44-17, 21-12 Away",90,78,NULL,NULL,Final,NULL,23,24,22,21,NULL,13,24,30,11,NULL,NBA
+71,280309008,2008,"Sun, Mar 9",Detroit Pistons,Chicago Bulls,"46-17, 24-5 Home","25-38, 11-23 Away",116,109,NULL,NULL,Final,ESPN,29,25,27,35,NULL,19,24,35,31,NULL,NBA
+72,280314008,2008,"Fri, Mar 14",Detroit Pistons,San Antonio Spurs,"47-18, 25-6 Home","44-21, 17-16 Away",84,80,NULL,NULL,Final,NBATV,20,23,22,19,NULL,26,18,11,25,NULL,NBA
+73,280318008,2008,"Tue, Mar 18",Detroit Pistons,Denver Nuggets,"49-18, 27-6 Home","40-27, 12-20 Away",136,120,NULL,NULL,Final,NULL,34,39,27,36,NULL,25,26,38,31,NULL,NBA
+74,280323027,2008,"Sun, Mar 23",Washington Wizards,Detroit Pistons,"36-33, 21-15 Home","49-20, 22-14 Away",95,83,NULL,NULL,Final,ESPN,28,19,24,24,NULL,20,20,25,18,NULL,NBA
+75,280326028,2008,"Wed, Mar 26",Toronto Raptors,Detroit Pistons,"36-35, 21-14 Home","50-21, 22-15 Away",89,82,NULL,NULL,Final,NULL,19,14,28,28,NULL,20,15,16,31,NULL,NBA
+76,280329008,2008,"Sat, Mar 29",Detroit Pistons,Cleveland Cavaliers,"52-21, 30-6 Home","40-33, 16-22 Away",85,71,NULL,NULL,Final,NBATV,29,20,23,13,NULL,18,15,17,21,NULL,NBA
+77,280404008,2008,"Fri, Apr 4",Detroit Pistons,New Jersey Nets,"54-21, 31-6 Home","31-45, 12-25 Away",106,87,NULL,NULL,Final,NULL,25,30,26,25,NULL,20,21,19,27,NULL,NBA
+78,280408008,2008,"Tue, Apr 8",Detroit Pistons,New York Knicks,"55-22, 31-7 Home","22-56, 8-32 Away",94,98,NULL,NULL,Final,NULL,16,18,26,34,NULL,28,29,22,19,NULL,NBA
+79,280411008,2008,"Fri, Apr 11",Detroit Pistons,Washington Wizards,"56-23, 32-7 Home","41-38, 18-22 Away",102,74,NULL,NULL,Final,NULL,23,24,34,21,NULL,19,23,13,19,NULL,NBA
+80,280415008,2008,"Tue, Apr 15",Detroit Pistons,Minnesota Timberwolves,"58-23, 34-7 Home","21-60, 7-34 Away",115,103,NULL,NULL,Final,NULL,24,28,34,29,NULL,23,20,29,31,NULL,NBA
+81,280416005,2008,"Wed, Apr 16",Cleveland Cavaliers,Detroit Pistons,"45-37, 27-14 Home","59-23, 25-16 Away",74,84,NULL,NULL,Final,NULL,21,18,20,15,NULL,13,19,24,28,NULL,NBA

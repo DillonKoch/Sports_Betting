@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,401160672,2020,"Sat, Oct 26",Cleveland Cavaliers,Indiana Pacers,"1-1, 1-0 Home","0-2, 0-1 Away",110,99,IND -5.0,214,Final,NULL,26,39,25,20,NULL,28,20,26,25,NULL,NBA
+1,401160697,2020,"Wed, Oct 30",Cleveland Cavaliers,Chicago Bulls,"2-2, 2-0 Home","1-4, 1-3 Away",117,111,CHI -2.0,218,Final,NULL,25,25,30,37,NULL,26,27,29,29,NULL,NBA
+2,401160731,2020,"Sun, Nov 3",Cleveland Cavaliers,Dallas Mavericks,"2-4, 2-1 Home","4-2, 3-0 Away",111,131,DAL -5.5,219,Final,NULL,28,25,33,25,NULL,31,27,32,41,NULL,NBA
+3,401160760,2020,"Fri, Nov 8",Washington Wizards,Cleveland Cavaliers,"2-6, 1-3 Home","3-5, 1-3 Away",100,113,WSH -5.0,233,Final,ESPN,26,26,32,16,NULL,30,37,21,25,NULL,NBA
+4,401160789,2020,"Tue, Nov 12",Philadelphia 76ers,Cleveland Cavaliers,"7-3, 4-0 Home","4-6, 2-4 Away",98,97,PHI -11.0,220,Final,NBATV,24,30,28,16,NULL,21,27,30,19,NULL,NBA
+5,401160825,2020,"Sun, Nov 17",Cleveland Cavaliers,Philadelphia 76ers,"4-8, 2-4 Home","8-5, 4-5 Away",95,114,PHI -7.0,216,Final,NULL,22,22,25,26,NULL,33,35,27,19,NULL,NBA
+6,401160848,2020,"Wed, Nov 20",Miami Heat,Cleveland Cavaliers,"10-3, 6-0 Home","4-10, 2-6 Away",124,100,MIA -9.5,213,Final,NULL,32,43,24,25,NULL,22,26,29,23,NULL,NBA
+7,401160873,2020,"Sat, Nov 23",Cleveland Cavaliers,Portland Trail Blazers,"5-11, 3-4 Home","5-12, 4-8 Away",110,104,POR -6.5,227,Final,NULL,19,30,27,34,NULL,19,23,27,35,NULL,NBA
+8,401160897,2020,"Wed, Nov 27",Cleveland Cavaliers,Orlando Magic,"5-13, 3-6 Home","7-10, 1-7 Away",104,116,CLE -1.5,210,Final,NULL,27,25,21,31,NULL,27,32,28,29,NULL,NBA
+9,401160941,2020,"Tue, Dec 3",Cleveland Cavaliers,Detroit Pistons,"5-15, 3-8 Home","8-13, 2-9 Away",94,127,DET -3.5,217,Final,NULL,28,18,22,26,NULL,32,30,35,30,NULL,NBA
+10,401160974,2020,"Sat, Dec 7",Philadelphia 76ers,Cleveland Cavaliers,"16-7, 11-0 Home","5-17, 2-8 Away",141,94,PHI -11.0,215,Final,NBATV,36,41,31,33,NULL,18,18,26,32,NULL,NBA
+11,401160998,2020,"Wed, Dec 11",Cleveland Cavaliers,Houston Rockets,"5-19, 3-10 Home","16-8, 7-5 Away",110,116,HOU -11.5,230,Final,NULL,29,28,25,28,NULL,35,29,24,28,NULL,NBA
+12,401161027,2020,"Sat, Dec 14",Milwaukee Bucks,Cleveland Cavaliers,"24-3, 13-1 Home","6-20, 3-10 Away",125,108,MIL -14.0,224,Final,NULL,26,43,33,23,NULL,20,31,28,29,NULL,NBA
+13,401161049,2020,"Wed, Dec 18",Cleveland Cavaliers,Charlotte Hornets,"7-21, 4-10 Home","13-18, 6-10 Away",100,98,CLE -3.0,212,Final,NULL,29,24,23,24,NULL,21,20,23,34,NULL,NBA
+14,401161086,2020,"Mon, Dec 23",Cleveland Cavaliers,Atlanta Hawks,"9-21, 6-10 Home","6-25, 3-14 Away",121,118,ATL -1.5,230,Final,NULL,42,29,23,27,NULL,32,32,30,24,NULL,NBA
+15,401161121,2020,"Sat, Dec 28",Minnesota Timberwolves,Cleveland Cavaliers,"11-20, 3-11 Home","10-22, 4-12 Away",88,94,MIN -6.0,218,Final,NULL,21,22,17,28,NULL,27,22,18,27,NULL,NBA
+16,401161150,2020,"Thu, Jan 2",Cleveland Cavaliers,Charlotte Hornets,"10-24, 6-11 Home","14-23, 7-12 Away",106,109,CLE -2.0,212,Final,NULL,29,30,26,21,NULL,31,21,30,27,NULL,NBA
+17,401161178,2020,"Sun, Jan 5",Cleveland Cavaliers,Minnesota Timberwolves,"10-26, 6-13 Home","14-21, 9-10 Away",103,118,MIN -6.0,218,Final,NULL,20,28,31,24,NULL,24,42,28,24,NULL,NBA
+18,401161205,2020,"Thu, Jan 9",Detroit Pistons,Cleveland Cavaliers,"14-25, 8-11 Home","11-27, 5-13 Away",112,115,DET -7.0,221,Final/OT,NULL,32,29,22,19,10,26,24,31,21,13,NBA
+19,401161239,2020,"Mon, Jan 13",Los Angeles Lakers,Cleveland Cavaliers,"33-7, 16-4 Home","12-28, 6-14 Away",128,99,LAL -14.0,222,Final,NULL,21,26,37,44,NULL,27,21,22,29,NULL,NBA
+20,401161264,2020,"Fri, Jan 17",Memphis Grizzlies,Cleveland Cavaliers,"20-22, 12-12 Home","12-30, 6-16 Away",113,109,MEM -9.5,230,Final,NULL,27,27,38,21,NULL,25,31,20,33,NULL,NBA
+21,401161285,2020,"Mon, Jan 20",Cleveland Cavaliers,New York Knicks,"12-32, 6-15 Home","12-32, 6-17 Away",86,106,NY -1.5,223,Final,NULL,26,24,14,22,NULL,26,23,30,27,NULL,NBA
+22,401161324,2020,"Sat, Jan 25",Cleveland Cavaliers,Chicago Bulls,"12-34, 6-17 Home","18-30, 8-15 Away",106,118,CLE -1.0,211,Final,NULL,31,26,19,30,NULL,25,34,40,19,NULL,NBA
+23,401161342,2020,"Tue, Jan 28",Cleveland Cavaliers,New Orleans Pelicans,"13-35, 6-18 Home","19-29, 10-14 Away",111,125,NO -8.5,232,Final,NULL,34,31,25,21,NULL,40,34,30,21,NULL,NBA
+24,401161372,2020,"Sat, Feb 1",Cleveland Cavaliers,Golden State Warriors,"13-37, 6-20 Home","11-39, 4-22 Away",112,131,CLE -2.0,225,Final,NULL,32,27,19,34,NULL,31,30,44,26,NULL,NBA
+25,401161402,2020,"Wed, Feb 5",Oklahoma City Thunder,Cleveland Cavaliers,"31-20, 16-10 Home","13-39, 7-18 Away",109,103,OKC -13.0,222,Final,NULL,29,32,23,25,NULL,28,25,28,22,NULL,NBA
+26,401161449,2020,"Wed, Feb 12",Cleveland Cavaliers,Atlanta Hawks,"14-40, 7-22 Home","15-41, 6-24 Away",127,105,ATL -3.0,235,Final,NULL,33,32,33,29,NULL,19,29,32,25,NULL,NBA
+27,401161480,2020,"Sat, Feb 22",Miami Heat,Cleveland Cavaliers,"41-24, 27-5 Home","19-46, 8-21 Away",124,105,MIA -13.0,222,Final,NULL,38,44,24,18,NULL,32,20,26,27,NULL,NBA
+28,401161507,2020,"Wed, Feb 26",Cleveland Cavaliers,Philadelphia 76ers,"17-41, 9-22 Home","36-23, 9-21 Away",108,94,PHI -7.5,217,Final,NULL,28,27,22,31,NULL,17,27,24,26,NULL,NBA
+29,401161532,2020,"Sat, Feb 29",Cleveland Cavaliers,Indiana Pacers,"17-43, 9-23 Home","36-24, 15-14 Away",104,113,IND -9.0,215,Final,NULL,31,27,28,18,NULL,30,26,30,27,NULL,NBA
+30,401161559,2020,"Wed, Mar 4",Cleveland Cavaliers,Boston Celtics,"17-45, 9-25 Home","42-19, 19-12 Away",106,112,BOS -4.0,216,Final,NULL,27,25,25,29,NULL,28,30,23,31,NULL,NBA
+31,401161596,2020,"Sun, Mar 8",Cleveland Cavaliers,San Antonio Spurs,"19-45, 11-25 Home","26-36, 11-22 Away",132,129,SA -4.5,226,Final/OT,NULL,35,25,27,31,14,18,32,41,27,11,NBA
+32,NULL,2020,"Fri, Mar 13",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NBA
+33,NULL,2020,"Tue, Mar 17",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NBA
+34,NULL,2020,"Sat, Mar 21",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NBA
+35,NULL,2020,"Thu, Mar 26",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NBA
+36,NULL,2020,"Mon, Mar 30",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NBA
+37,NULL,2020,"Fri, Apr 3",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NBA
+38,NULL,2020,"Tue, Apr 7",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NBA
+39,NULL,2020,"Sat, Apr 11",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NBA
+40,401160627,2020,"Wed, Oct 23",Orlando Magic,Cleveland Cavaliers,"1-0, 1-0 Home","0-1, 0-1 Away",94,85,ORL -9.5,212,Final,NULL,28,27,16,23,NULL,24,17,24,20,NULL,NBA
+41,401160688,2020,"Mon, Oct 28",Milwaukee Bucks,Cleveland Cavaliers,"2-1, 1-1 Home","1-2, 0-2 Away",129,112,MIL -15.5,224,Final,NULL,30,29,32,38,NULL,31,21,28,32,NULL,NBA
+42,401160712,2020,"Fri, Nov 1",Indiana Pacers,Cleveland Cavaliers,"2-3, 1-1 Home","2-3, 0-3 Away",102,95,IND -7.0,215,Final,NULL,19,23,26,34,NULL,26,11,24,34,NULL,NBA
+43,401160740,2020,"Tue, Nov 5",Cleveland Cavaliers,Boston Celtics,"2-5, 2-2 Home","5-1, 2-1 Away",113,119,BOS -6.0,216,Final,NULL,24,28,31,30,NULL,32,29,28,30,NULL,NBA
+44,401160778,2020,"Sun, Nov 10",New York Knicks,Cleveland Cavaliers,"2-8, 1-3 Home","4-5, 2-3 Away",87,108,NY -2.0,214,Final,NULL,19,17,27,24,NULL,31,23,24,30,NULL,NBA
+45,401160803,2020,"Thu, Nov 14",Cleveland Cavaliers,Miami Heat,"4-7, 2-3 Home","8-3, 4-3 Away",97,108,MIA -4.5,216,Final,NULL,22,22,30,23,NULL,34,34,26,14,NULL,NBA
+46,401160831,2020,"Mon, Nov 18",New York Knicks,Cleveland Cavaliers,"4-10, 3-4 Home","4-9, 2-5 Away",123,105,NY -5.5,210,Final,NULL,32,32,30,29,NULL,20,31,20,34,NULL,NBA
+47,401160863,2020,"Fri, Nov 22",Dallas Mavericks,Cleveland Cavaliers,"10-5, 6-3 Home","4-11, 2-7 Away",143,101,DAL -10.0,222,Final,NULL,29,37,45,32,NULL,26,16,29,30,NULL,NBA
+48,401160882,2020,"Mon, Nov 25",Cleveland Cavaliers,Brooklyn Nets,"5-12, 3-5 Home","9-8, 4-5 Away",106,108,CLE -1.0,218,Final,NULL,26,25,24,31,NULL,25,27,29,27,NULL,NBA
+49,401160912,2020,"Fri, Nov 29",Cleveland Cavaliers,Milwaukee Bucks,"5-14, 3-7 Home","16-3, 9-2 Away",110,119,MIL -12.0,229,Final,NULL,29,18,42,21,NULL,38,29,32,20,NULL,NBA
+50,401160963,2020,"Fri, Dec 6",Cleveland Cavaliers,Orlando Magic,"5-16, 3-9 Home","11-11, 3-7 Away",87,93,ORL -5.0,210,Final,NULL,25,22,23,17,NULL,24,28,16,25,NULL,NBA
+51,401160986,2020,"Mon, Dec 9",Boston Celtics,Cleveland Cavaliers,"17-5, 10-0 Home","5-18, 2-9 Away",110,88,BOS -13.5,216,Final,NULL,29,24,30,27,NULL,18,22,26,22,NULL,NBA
+52,401161010,2020,"Thu, Dec 12",San Antonio Spurs,Cleveland Cavaliers,"9-15, 7-7 Home","6-19, 3-9 Away",109,117,SA -11.5,219,Final/OT,NULL,19,24,25,35,6,28,25,25,25,14,NBA
+53,401161037,2020,"Mon, Dec 16",Toronto Raptors,Cleveland Cavaliers,"18-8, 11-3 Home","6-21, 3-11 Away",133,113,TOR -12.5,217,Final,NULL,37,29,38,29,NULL,29,25,30,29,NULL,NBA
+54,401161062,2020,"Fri, Dec 20",Cleveland Cavaliers,Memphis Grizzlies,"8-21, 5-10 Home","10-19, 5-8 Away",114,107,MEM -3.0,223,Final,NULL,25,30,26,33,NULL,27,24,36,20,NULL,NBA
+55,401161108,2020,"Fri, Dec 27",Boston Celtics,Cleveland Cavaliers,"22-7, 13-1 Home","9-22, 3-12 Away",129,117,BOS -14.0,217,Final,NBATV,33,29,30,37,NULL,22,25,34,36,NULL,NBA
+56,401161142,2020,"Tue, Dec 31",Toronto Raptors,Cleveland Cavaliers,"23-11, 14-5 Home","10-23, 4-13 Away",117,97,TOR -8.0,218,Final,NULL,27,32,27,31,NULL,25,18,26,28,NULL,NBA
+57,401161169,2020,"Sat, Jan 4",Cleveland Cavaliers,Oklahoma City Thunder,"10-25, 6-12 Home","20-15, 8-9 Away",106,121,OKC -6.5,214,Final,NULL,27,26,26,27,NULL,34,32,25,30,NULL,NBA
+58,401161190,2020,"Tue, Jan 7",Cleveland Cavaliers,Detroit Pistons,"10-27, 6-14 Home","14-24, 6-14 Away",113,115,DET -3.5,220,Final,NULL,29,38,28,18,NULL,27,27,30,31,NULL,NBA
+59,401161224,2020,"Sat, Jan 11",Denver Nuggets,Cleveland Cavaliers,"26-12, 15-5 Home","12-27, 6-13 Away",103,111,DEN -12.5,217,Final,NULL,18,24,29,32,NULL,23,28,34,26,NULL,NBA
+60,401161245,2020,"Tue, Jan 14",LA Clippers,Cleveland Cavaliers,"28-13, 18-4 Home","12-29, 6-15 Away",128,103,LAC -16.5,225,Final,NULL,31,35,40,22,NULL,26,24,21,32,NULL,NBA
+61,401161273,2020,"Sat, Jan 18",Chicago Bulls,Cleveland Cavaliers,"16-28, 9-14 Home","12-31, 6-17 Away",118,116,CHI -7.0,215,Final,NULL,31,25,31,31,NULL,33,40,29,14,NULL,NBA
+62,401161308,2020,"Thu, Jan 23",Cleveland Cavaliers,Washington Wizards,"12-33, 6-16 Home","15-29, 6-18 Away",112,124,CLE -2.5,231,Final,NULL,24,37,25,26,NULL,29,39,32,24,NULL,NBA
+63,401161335,2020,"Mon, Jan 27",Detroit Pistons,Cleveland Cavaliers,"17-31, 9-16 Home","13-34, 7-17 Away",100,115,DET -6.5,215,Final,NULL,23,22,27,28,NULL,24,29,36,26,NULL,NBA
+64,401161356,2020,"Thu, Jan 30",Cleveland Cavaliers,Toronto Raptors,"19-46, 11-25 Home","46-18, 23-9 Away",109,115,TOR -10.0,223,Final,NULL,26,26,24,33,NULL,31,25,32,27,NULL,NBA
+65,401161384,2020,"Mon, Feb 3",Cleveland Cavaliers,New York Knicks,"13-38, 6-21 Home","15-36, 8-18 Away",134,139,NY -2.5,217,Final/OT,NULL,37,25,38,27,7,33,30,32,32,12,NBA
+66,401161433,2020,"Sun, Feb 9",Cleveland Cavaliers,LA Clippers,"13-40, 6-22 Home","37-16, 15-11 Away",92,133,LAC -6.0,232,Final,NULL,21,29,23,19,NULL,36,37,34,26,NULL,NBA
+67,401161469,2020,"Fri, Feb 21",Washington Wizards,Cleveland Cavaliers,"20-34, 13-14 Home","15-40, 8-18 Away",108,113,WSH -6.0,237,Final,NULL,41,25,21,21,NULL,32,29,20,32,NULL,NBA
+68,401161491,2020,"Mon, Feb 24",Cleveland Cavaliers,Miami Heat,"16-41, 8-22 Home","36-21, 13-18 Away",125,119,MIA -6.5,222,Final/OT,NULL,21,35,24,31,14,29,39,31,12,8,NBA
+69,401161525,2020,"Fri, Feb 28",New Orleans Pelicans,Cleveland Cavaliers,"26-33, 12-17 Home","17-42, 8-20 Away",116,104,NO -12.5,236,Final,NULL,43,27,25,21,NULL,25,30,28,21,NULL,NBA
+70,401161544,2020,"Mon, Mar 2",Cleveland Cavaliers,Utah Jazz,"17-44, 9-24 Home","38-22, 17-13 Away",113,126,UTAH -10.5,223,Final,NULL,25,26,31,31,NULL,31,28,35,32,NULL,NBA
+71,401161584,2020,"Sat, Mar 7",Cleveland Cavaliers,Denver Nuggets,"18-45, 10-25 Home","42-21, 18-13 Away",104,102,DEN -9.0,219,Final,NULL,23,35,27,19,NULL,33,28,22,19,NULL,NBA
+72,401161604,2020,"Tue, Mar 10",Chicago Bulls,Cleveland Cavaliers,"22-43, 14-20 Home","19-46, 8-21 Away",108,103,CHI -4.0,218,Final,NULL,27,27,24,30,NULL,29,23,26,25,NULL,NBA
+73,NULL,2020,"Sat, Mar 14",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NBA
+74,NULL,2020,"Thu, Mar 19",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NBA
+75,NULL,2020,"Tue, Mar 24",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NBA
+76,NULL,2020,"Sat, Mar 28",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NBA
+77,NULL,2020,"Wed, Apr 1",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NBA
+78,NULL,2020,"Sun, Apr 5",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NBA
+79,NULL,2020,"Wed, Apr 8",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NBA
+80,NULL,2020,"Mon, Apr 13",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NBA
+81,NULL,2020,"Wed, Apr 15",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NBA

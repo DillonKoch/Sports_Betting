@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,401160664,2020,"Fri, Oct 25",Oklahoma City Thunder,Washington Wizards,"0-2, 0-1 Home","1-1, 1-1 Away",85,97,OKC -8.5,219,Final,NULL,24,22,24,15,NULL,28,24,26,19,NULL,NBA
+1,401160687,2020,"Mon, Oct 28",Houston Rockets,Oklahoma City Thunder,"2-1, 2-1 Home","1-3, 0-2 Away",116,112,HOU -10.0,228,Final,NULL,22,30,39,25,NULL,35,27,18,32,NULL,NBA
+2,401160719,2020,"Sat, Nov 2",Oklahoma City Thunder,New Orleans Pelicans,"2-4, 2-2 Home","1-5, 0-3 Away",115,104,OKC -3.0,228,Final,NULL,33,32,29,21,NULL,26,34,26,18,NULL,NBA
+3,401160755,2020,"Thu, Nov 7",San Antonio Spurs,Oklahoma City Thunder,"5-3, 4-1 Home","3-5, 0-3 Away",121,112,SA -5.0,212,Final,NULL,33,23,36,29,NULL,30,27,27,28,NULL,NBA
+4,401160777,2020,"Sun, Nov 10",Oklahoma City Thunder,Milwaukee Bucks,"4-6, 4-3 Home","7-3, 5-2 Away",119,121,MIL -9.0,220,Final,NULL,24,32,24,39,NULL,21,29,37,34,NULL,NBA
+5,401160814,2020,"Fri, Nov 15",Oklahoma City Thunder,Philadelphia 76ers,"5-7, 5-3 Home","7-5, 3-5 Away",127,119,PHI -4.0,215,Final/OT,NULL,24,30,26,27,20,29,20,34,24,12,NBA
+6,401160843,2020,"Tue, Nov 19",Los Angeles Lakers,Oklahoma City Thunder,"12-2, 8-1 Home","5-9, 0-6 Away",112,107,LAL -11.0,210,Final,NBATV,33,30,30,19,NULL,28,25,34,20,NULL,NBA
+7,401160892,2020,"Mon, Nov 25",Golden State Warriors,Oklahoma City Thunder,"3-15, 1-7 Home","6-10, 1-6 Away",97,100,OKC -7.0,213,Final,NBATV,28,31,24,14,NULL,25,28,21,26,NULL,NBA
+8,401160917,2020,"Fri, Nov 29",Oklahoma City Thunder,New Orleans Pelicans,"7-11, 6-4 Home","6-13, 2-8 Away",109,104,OKC -5.0,229,Final,NBATV,34,28,17,30,NULL,26,27,31,20,NULL,NBA
+9,401160954,2020,"Wed, Dec 4",Oklahoma City Thunder,Indiana Pacers,"8-12, 6-5 Home","14-7, 5-5 Away",100,107,IND -1.0,210,Final,NULL,29,21,28,22,NULL,26,23,30,28,NULL,NBA
+10,401160983,2020,"Sun, Dec 8",Portland Trail Blazers,Oklahoma City Thunder,"9-15, 4-6 Home","10-12, 3-7 Away",96,108,POR -4.0,223,Final,NULL,20,27,31,18,NULL,21,34,27,26,NULL,NBA
+11,401161007,2020,"Wed, Dec 11",Sacramento Kings,Oklahoma City Thunder,"11-13, 6-4 Home","11-13, 4-8 Away",94,93,SAC -2.0,207,Final,NULL,23,15,31,25,NULL,18,29,24,22,NULL,NBA
+12,401161041,2020,"Mon, Dec 16",Oklahoma City Thunder,Chicago Bulls,"12-14, 8-5 Home","10-19, 4-9 Away",109,106,OKC -5.5,209,Final,NULL,16,33,33,27,NULL,37,31,22,16,NULL,NBA
+13,401161068,2020,"Fri, Dec 20",Oklahoma City Thunder,Phoenix Suns,"14-14, 10-5 Home","11-17, 5-7 Away",126,108,OKC -3.0,223,Final,NULL,26,31,44,25,NULL,23,27,41,17,NULL,NBA
+14,401161104,2020,"Thu, Dec 26",Oklahoma City Thunder,Memphis Grizzlies,"15-15, 11-6 Home","12-20, 6-8 Away",97,110,OKC -6.0,225,Final,NULL,18,29,27,23,NULL,23,26,37,24,NULL,NBA
+15,401161128,2020,"Sun, Dec 29",Toronto Raptors,Oklahoma City Thunder,"22-11, 13-5 Home","17-15, 6-9 Away",97,98,TOR -5.0,210,Final,NULL,20,27,33,17,NULL,22,25,29,22,NULL,NBA
+16,401161156,2020,"Thu, Jan 2",San Antonio Spurs,Oklahoma City Thunder,"14-19, 10-9 Home","19-15, 7-9 Away",103,109,SA -2.5,218,Final,NULL,27,28,21,27,NULL,27,19,28,35,NULL,NBA
+17,401161183,2020,"Mon, Jan 6",Philadelphia 76ers,Oklahoma City Thunder,"24-14, 17-2 Home","20-16, 8-10 Away",120,113,PHI -8.0,212,Final,NBATV,31,31,28,30,NULL,31,21,34,27,NULL,NBA
+18,401161208,2020,"Thu, Jan 9",Oklahoma City Thunder,Houston Rockets,"22-16, 13-6 Home","25-12, 12-8 Away",113,92,HOU -3.5,228,Final,TNT,37,23,29,24,NULL,21,27,19,25,NULL,NBA
+19,401161236,2020,"Mon, Jan 13",Minnesota Timberwolves,Oklahoma City Thunder,"15-24, 6-12 Home","23-17, 10-10 Away",104,117,OKC -2.0,219,Final,NULL,33,27,19,25,NULL,30,33,29,25,NULL,NBA
+20,401161265,2020,"Fri, Jan 17",Oklahoma City Thunder,Miami Heat,"23-19, 13-9 Home","29-12, 11-11 Away",108,115,MIA -1.0,217,Final,NULL,26,21,31,30,NULL,40,21,31,23,NULL,NBA
+21,401161287,2020,"Mon, Jan 20",Houston Rockets,Oklahoma City Thunder,"26-16, 14-7 Home","25-19, 11-10 Away",107,112,HOU -7.0,231,Final,NULL,25,39,23,20,NULL,22,35,14,41,NULL,NBA
+22,401161319,2020,"Fri, Jan 24",Oklahoma City Thunder,Atlanta Hawks,"27-19, 15-9 Home","11-35, 5-19 Away",140,111,OKC -8.0,231,Final,NULL,33,33,38,36,NULL,30,28,32,21,NULL,NBA
+23,401161339,2020,"Mon, Jan 27",Oklahoma City Thunder,Dallas Mavericks,"28-20, 15-10 Home","29-17, 16-6 Away",97,107,DAL -5.0,223,Final,NULL,22,25,30,20,NULL,25,34,29,19,NULL,NBA
+24,401161367,2020,"Fri, Jan 31",Phoenix Suns,Oklahoma City Thunder,"20-28, 9-17 Home","30-20, 15-10 Away",107,111,OKC -1.0,223,Final,NULL,27,25,29,26,NULL,25,28,26,32,NULL,NBA
+25,401161415,2020,"Fri, Feb 7",Oklahoma City Thunder,Detroit Pistons,"32-20, 17-10 Home","19-35, 8-18 Away",108,101,OKC -12.5,215,Final,NULL,29,23,26,30,NULL,24,23,21,33,NULL,NBA
+26,401161447,2020,"Tue, Feb 11",Oklahoma City Thunder,San Antonio Spurs,"32-22, 17-12 Home","23-31, 9-19 Away",106,114,OKC -8.0,220,Final,NULL,14,27,36,29,NULL,25,24,30,35,NULL,NBA
+27,401161473,2020,"Fri, Feb 21",Oklahoma City Thunder,Denver Nuggets,"34-22, 18-12 Home","38-18, 17-11 Away",113,101,OKC -1.5,217,Final,ESPN,27,21,30,35,NULL,17,31,29,24,NULL,NBA
+28,401161501,2020,"Tue, Feb 25",Chicago Bulls,Oklahoma City Thunder,"20-39, 12-19 Home","36-22, 17-10 Away",122,124,OKC -8.0,220,Final,NULL,28,27,38,29,NULL,36,36,19,33,NULL,NBA
+29,401161524,2020,"Fri, Feb 28",Milwaukee Bucks,Oklahoma City Thunder,"51-8, 27-3 Home","37-23, 17-11 Away",133,86,MIL -10.5,227,Final,ESPN,31,39,37,26,NULL,24,23,22,17,NULL,NBA
+30,401161560,2020,"Wed, Mar 4",Detroit Pistons,Oklahoma City Thunder,"20-43, 11-21 Home","38-24, 18-11 Away",107,114,OKC -8.5,210,Final,NULL,32,32,18,25,NULL,38,31,25,20,NULL,NBA
+31,401161591,2020,"Sun, Mar 8",Boston Celtics,Oklahoma City Thunder,"42-21, 23-9 Home","40-24, 20-11 Away",104,105,BOS -6.0,218,Final,NBATV,26,37,21,20,NULL,29,23,31,22,NULL,NBA
+32,NULL,2020,"Fri, Mar 13",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NBA
+33,NULL,2020,"Tue, Mar 17",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NBA
+34,NULL,2020,"Fri, Mar 20",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NBA
+35,NULL,2020,"Thu, Mar 26",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NBA
+36,NULL,2020,"Mon, Mar 30",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NBA
+37,NULL,2020,"Sat, Apr 4",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NBA
+38,NULL,2020,"Tue, Apr 7",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NBA
+39,NULL,2020,"Sat, Apr 11",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NBA
+40,401160653,2020,"Wed, Oct 23",Utah Jazz,Oklahoma City Thunder,"1-0, 1-0 Home","0-1, 0-1 Away",100,95,UTAH -9.0,222,Final,NULL,23,26,19,32,NULL,12,34,28,21,NULL,NBA
+41,401160678,2020,"Sun, Oct 27",Oklahoma City Thunder,Golden State Warriors,"1-2, 1-1 Home","0-2, 0-1 Away",120,92,EVEN,224,Final,NULL,35,35,35,15,NULL,20,17,31,24,NULL,NBA
+42,401160704,2020,"Wed, Oct 30",Oklahoma City Thunder,Portland Trail Blazers,"1-4, 1-2 Home","3-2, 3-1 Away",99,102,POR -2.0,222,Final,NULL,17,27,25,30,NULL,24,25,19,34,NULL,NBA
+43,401160743,2020,"Tue, Nov 5",Oklahoma City Thunder,Orlando Magic,"3-4, 3-2 Home","2-5, 0-3 Away",102,94,OKC -2.5,202,Final,NULL,31,27,23,21,NULL,26,27,26,15,NULL,NBA
+44,401160773,2020,"Sat, Nov 9",Oklahoma City Thunder,Golden State Warriors,"4-5, 4-2 Home","2-8, 1-4 Away",114,108,OKC -12.0,216,Final,NULL,36,24,24,30,NULL,27,16,41,24,NULL,NBA
+45,401160788,2020,"Tue, Nov 12",Indiana Pacers,Oklahoma City Thunder,"7-4, 5-1 Home","4-7, 0-4 Away",111,85,IND -1.5,213,Final,NULL,31,21,34,25,NULL,25,17,20,23,NULL,NBA
+46,401160839,2020,"Mon, Nov 18",LA Clippers,Oklahoma City Thunder,"9-5, 8-1 Home","5-8, 0-5 Away",90,88,LAC -7.5,222,Final,NULL,23,19,24,24,NULL,17,30,17,24,NULL,NBA
+47,401160862,2020,"Fri, Nov 22",Oklahoma City Thunder,Los Angeles Lakers,"5-10, 5-4 Home","13-2, 5-1 Away",127,130,LAL -4.5,210,Final,NULL,33,34,36,24,NULL,34,32,40,24,NULL,NBA
+48,401160907,2020,"Wed, Nov 27",Portland Trail Blazers,Oklahoma City Thunder,"7-12, 2-4 Home","6-11, 1-7 Away",136,119,POR -2.5,220,Final,NULL,42,21,41,32,NULL,26,24,27,42,NULL,NBA
+49,401160931,2020,"Sun, Dec 1",New Orleans Pelicans,Oklahoma City Thunder,"6-14, 4-6 Home","8-11, 2-7 Away",104,107,NO -2.5,227,Final,NULL,29,26,22,27,NULL,33,23,26,25,NULL,NBA
+50,401160968,2020,"Fri, Dec 6",Oklahoma City Thunder,Minnesota Timberwolves,"9-12, 7-5 Home","10-11, 7-4 Away",139,127,OKC -4.0,219,Final/OT,NULL,30,23,41,28,17,27,31,39,25,5,NBA
+51,401160992,2020,"Mon, Dec 9",Utah Jazz,Oklahoma City Thunder,"13-11, 9-3 Home","11-12, 4-7 Away",90,104,UTAH -8.5,207,Final,NULL,24,23,21,22,NULL,25,26,34,19,NULL,NBA
+52,401161029,2020,"Sat, Dec 14",Denver Nuggets,Oklahoma City Thunder,"16-8, 10-3 Home","11-14, 4-9 Away",110,102,DEN -5.5,205,Final,NULL,27,25,30,28,NULL,20,29,19,34,NULL,NBA
+53,401161054,2020,"Wed, Dec 18",Oklahoma City Thunder,Memphis Grizzlies,"13-14, 9-5 Home","10-18, 5-7 Away",126,122,OKC -6.5,220,Final,NULL,27,32,34,33,NULL,32,36,32,22,NULL,NBA
+54,401161084,2020,"Sun, Dec 22",Oklahoma City Thunder,LA Clippers,"15-14, 11-5 Home","22-10, 8-8 Away",118,112,EVEN,224,Final,NBATV,27,30,29,32,NULL,33,30,26,23,NULL,NBA
+55,401161109,2020,"Fri, Dec 27",Charlotte Hornets,Oklahoma City Thunder,"13-21, 7-10 Home","16-15, 5-9 Away",102,104,EVEN,207,Final/OT,NULL,18,25,22,29,8,26,27,19,22,10,NBA
+56,401161145,2020,"Tue, Dec 31",Oklahoma City Thunder,Dallas Mavericks,"18-15, 12-6 Home","21-12, 12-5 Away",106,101,DAL -3.5,219,Final,NULL,20,30,27,29,NULL,32,19,27,23,NULL,NBA
+57,401161169,2020,"Sat, Jan 4",Cleveland Cavaliers,Oklahoma City Thunder,"10-25, 6-12 Home","20-15, 8-9 Away",106,121,OKC -6.5,214,Final,NULL,27,26,26,27,NULL,34,32,25,30,NULL,NBA
+58,401161192,2020,"Tue, Jan 7",Brooklyn Nets,Oklahoma City Thunder,"16-20, 9-8 Home","21-16, 9-10 Away",103,111,EVEN,217,Final/OT,NBATV,23,25,29,24,2,27,22,25,27,10,NBA
+59,401161222,2020,"Sat, Jan 11",Oklahoma City Thunder,Los Angeles Lakers,"22-17, 13-7 Home","32-7, 17-3 Away",110,125,OKC -9.0,214,Final,NULL,19,30,33,28,NULL,41,32,29,23,NULL,NBA
+60,401161251,2020,"Wed, Jan 15",Oklahoma City Thunder,Toronto Raptors,"23-18, 13-8 Home","26-14, 12-7 Away",121,130,OKC -1.0,213,Final,NULL,25,30,28,38,NULL,38,35,24,33,NULL,NBA
+61,401161277,2020,"Sat, Jan 18",Oklahoma City Thunder,Portland Trail Blazers,"24-19, 14-9 Home","18-26, 9-16 Away",119,106,OKC -6.5,216,Final,NULL,32,32,23,32,NULL,24,33,20,29,NULL,NBA
+62,401161297,2020,"Wed, Jan 22",Orlando Magic,Oklahoma City Thunder,"21-24, 13-9 Home","26-19, 12-10 Away",114,120,ORL -2.5,210,Final,NULL,21,30,38,25,NULL,24,36,32,28,NULL,NBA
+63,401161325,2020,"Sat, Jan 25",Minnesota Timberwolves,Oklahoma City Thunder,"15-31, 6-17 Home","28-19, 13-10 Away",104,113,MIN -2.0,226,Final,NULL,22,26,24,32,NULL,28,24,39,22,NULL,NBA
+64,401161355,2020,"Wed, Jan 29",Sacramento Kings,Oklahoma City Thunder,"17-30, 8-14 Home","29-20, 14-10 Away",100,120,OKC -2.5,219,Final,NULL,16,31,29,24,NULL,23,36,37,24,NULL,NBA
+65,401161402,2020,"Wed, Feb 5",Oklahoma City Thunder,Cleveland Cavaliers,"31-20, 16-10 Home","13-39, 7-18 Away",109,103,OKC -13.0,222,Final,NULL,29,32,23,25,NULL,28,25,28,22,NULL,NBA
+66,401161428,2020,"Sun, Feb 9",Oklahoma City Thunder,Boston Celtics,"32-21, 17-11 Home","37-15, 15-10 Away",111,112,BOS -2.0,220,Final,NBATV,32,29,23,27,NULL,28,24,32,28,NULL,NBA
+67,401161461,2020,"Thu, Feb 13",New Orleans Pelicans,Oklahoma City Thunder,"23-32, 11-17 Home","33-22, 16-10 Away",118,123,NO -3.5,235,Final,NULL,30,28,35,25,NULL,29,37,32,25,NULL,NBA
+68,401161488,2020,"Sun, Feb 23",Oklahoma City Thunder,San Antonio Spurs,"35-22, 19-12 Home","24-32, 10-20 Away",131,103,OKC -5.5,222,Final,NULL,29,32,37,33,NULL,29,26,18,30,NULL,NBA
+69,401161517,2020,"Thu, Feb 27",Oklahoma City Thunder,Sacramento Kings,"37-22, 20-12 Home","24-34, 12-19 Away",112,108,OKC -7.5,220,Final,NULL,25,25,31,31,NULL,27,34,21,26,NULL,NBA
+70,401161554,2020,"Tue, Mar 3",Oklahoma City Thunder,LA Clippers,"37-24, 20-13 Home","42-19, 17-13 Away",94,109,LAC -4.5,229,Final,NULL,27,20,23,24,NULL,38,21,30,20,NULL,NBA
+71,401161574,2020,"Fri, Mar 6",New York Knicks,Oklahoma City Thunder,"19-44, 10-22 Home","39-24, 19-11 Away",103,126,OKC -6.0,217,Final,NULL,20,28,30,25,NULL,27,34,34,31,NULL,NBA
+72,NULL,2020,"Wed, Mar 11",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NBA
+73,NULL,2020,"Sun, Mar 15",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NBA
+74,NULL,2020,"Wed, Mar 18",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NBA
+75,NULL,2020,"Mon, Mar 23",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NBA
+76,NULL,2020,"Sat, Mar 28",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NBA
+77,NULL,2020,"Wed, Apr 1",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NBA
+78,NULL,2020,"Sun, Apr 5",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NBA
+79,NULL,2020,"Fri, Apr 10",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NBA
+80,NULL,2020,"Mon, Apr 13",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NBA
+81,NULL,2020,"Wed, Apr 15",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NBA

@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,241105003,2005,"Fri, Nov 5",New Orleans Hornets,Orlando Magic,"0-2, 0-2 Home","2-0, 1-0 Away",89,90,NULL,NULL,Final,NULL,17,20,25,27,NULL,18,27,23,22,NULL,NBA
+1,241109019,2005,"Tue, Nov 9",Orlando Magic,Dallas Mavericks,"3-1, 2-0 Home","4-1, 1-1 Away",94,84,NULL,NULL,Final,NULL,19,31,19,25,NULL,22,18,22,22,NULL,NBA
+2,241112019,2005,"Fri, Nov 12",Orlando Magic,Los Angeles Lakers,"4-2, 3-0 Home","3-4, 1-3 Away",122,113,NULL,NULL,Final,NULL,21,36,36,29,NULL,37,18,25,33,NULL,NBA
+3,241117019,2005,"Wed, Nov 17",Orlando Magic,Utah Jazz,"5-3, 4-0 Home","6-2, 3-1 Away",107,92,NULL,NULL,Final,NULL,21,24,26,36,NULL,28,18,29,17,NULL,NBA
+4,241124019,2005,"Wed, Nov 24",Orlando Magic,Portland Trail Blazers,"6-4, 4-1 Home","6-5, 3-3 Away",83,89,NULL,NULL,Final,NULL,23,21,18,21,NULL,15,26,25,23,NULL,NBA
+5,241127019,2005,"Sat, Nov 27",Orlando Magic,Philadelphia 76ers,"8-4, 5-1 Home","6-7, 1-4 Away",105,99,NULL,NULL,Final,CSN,28,21,30,26,NULL,25,31,23,20,NULL,NBA
+6,241201019,2005,"Wed, Dec 1",Orlando Magic,Toronto Raptors,"9-5, 6-2 Home","7-10, 2-8 Away",129,108,NULL,NULL,Final,NULL,34,34,34,27,NULL,34,26,15,33,NULL,NBA
+7,241204019,2005,"Sat, Dec 4",Orlando Magic,Memphis Grizzlies,"11-5, 7-2 Home","6-12, 2-7 Away",96,91,NULL,NULL,Final,NULL,29,26,18,23,NULL,20,18,22,31,NULL,NBA
+8,241208026,2005,"Wed, Dec 8",Utah Jazz,Orlando Magic,"8-11, 4-6 Home","12-6, 5-4 Away",100,106,NULL,NULL,Final,NULL,34,23,26,17,NULL,26,29,31,20,NULL,NBA
+9,241212013,2005,"Sun, Dec 12",Los Angeles Lakers,Orlando Magic,"12-8, 8-3 Home","13-7, 6-5 Away",105,98,NULL,NULL,Final,NULL,24,32,28,21,NULL,31,28,25,14,NULL,NBA
+10,241215024,2005,"Wed, Dec 15",San Antonio Spurs,Orlando Magic,"18-5, 10-1 Home","13-9, 6-7 Away",94,91,NULL,NULL,Final,NULL,25,29,12,28,NULL,25,23,28,15,NULL,NBA
+11,241219014,2005,"Sun, Dec 19",Miami Heat,Orlando Magic,"19-7, 10-3 Home","14-10, 6-8 Away",117,107,NULL,NULL,Final,NULL,30,24,32,31,NULL,30,33,23,21,NULL,NBA
+12,241227019,2005,"Mon, Dec 27",Orlando Magic,New York Knicks,"15-11, 9-3 Home","15-13, 6-9 Away",111,119,NULL,NULL,Final,NULL,24,30,30,27,NULL,30,41,24,24,NULL,NBA
+13,250101004,2005,"Sat, Jan 1",Chicago Bulls,Orlando Magic,"10-17, 7-8 Home","15-13, 6-9 Away",105,90,NULL,NULL,Final,NULL,33,27,27,18,NULL,21,16,23,30,NULL,NBA
+14,250105019,2005,"Wed, Jan 5",Orlando Magic,Seattle SuperSonics,"16-14, 10-4 Home","23-7, 12-4 Away",105,87,NULL,NULL,Final,NULL,15,31,30,29,NULL,26,23,18,20,NULL,NBA
+15,250108019,2005,"Sat, Jan 8",Orlando Magic,New Jersey Nets,"18-14, 12-4 Home","12-21, 5-13 Away",104,101,NULL,NULL,Final,NULL,28,21,28,27,NULL,17,26,18,40,NULL,NBA
+16,250112016,2005,"Wed, Jan 12",Minnesota Timberwolves,Orlando Magic,"17-17, 9-7 Home","19-15, 7-11 Away",80,87,NULL,NULL,Final,NULL,23,18,21,18,NULL,25,25,21,16,NULL,NBA
+17,250115011,2005,"Sat, Jan 15",Indiana Pacers,Orlando Magic,"18-17, 10-7 Home","20-16, 8-12 Away",84,85,NULL,NULL,Final,NULL,22,20,15,27,NULL,27,26,12,20,NULL,NBA
+18,250120019,2005,"Thu, Jan 20",Orlando Magic,Houston Rockets,"21-17, 13-5 Home","21-19, 8-10 Away",99,108,NULL,NULL,Final,NULL,24,24,24,27,NULL,33,23,28,24,NULL,NBA
+19,250124010,2005,"Mon, Jan 24",Houston Rockets,Orlando Magic,"23-19, 14-9 Home","22-18, 8-13 Away",89,78,NULL,NULL,Final,NULL,24,24,19,22,NULL,15,12,24,27,NULL,NBA
+20,250128019,2005,"Fri, Jan 28",Orlando Magic,Washington Wizards,"23-19, 15-5 Home","26-16, 10-11 Away",108,101,NULL,NULL,Final,NULL,23,28,27,30,NULL,33,19,20,29,NULL,NBA
+21,250131001,2005,"Mon, Jan 31",Atlanta Hawks,Orlando Magic,"9-34, 7-17 Home","24-20, 9-15 Away",80,79,NULL,NULL,Final,NULL,20,20,21,19,NULL,19,13,22,25,NULL,NBA
+22,250204002,2005,"Fri, Feb 4",Boston Celtics,Orlando Magic,"23-24, 16-8 Home","25-21, 9-16 Away",112,100,NULL,NULL,Final,NULL,39,28,16,29,NULL,38,29,21,12,NULL,NBA
+23,250208019,2005,"Tue, Feb 8",Orlando Magic,Golden State Warriors,"25-23, 16-6 Home","14-35, 4-20 Away",109,113,NULL,NULL,Final,NULL,30,27,22,30,NULL,29,32,21,31,NULL,NBA
+24,250212020,2005,"Sat, Feb 12",Philadelphia 76ers,Orlando Magic,"25-26, 14-9 Home","26-24, 9-18 Away",112,99,NULL,NULL,Final,CSN,31,31,23,27,NULL,22,22,27,28,NULL,NBA
+25,250215019,2005,"Tue, Feb 15",Orlando Magic,LA Clippers,"28-24, 19-6 Home","23-29, 6-19 Away",99,94,NULL,NULL,Final,NULL,33,21,22,23,NULL,28,25,18,23,NULL,NBA
+26,250226014,2005,"Sat, Feb 26",Miami Heat,Orlando Magic,"41-16, 23-5 Home","28-26, 9-19 Away",101,98,NULL,NULL,Final,NULL,20,26,24,31,NULL,22,18,31,27,NULL,NBA
+27,250302019,2005,"Wed, Mar 2",Orlando Magic,Sacramento Kings,"29-27, 20-8 Home","36-23, 16-15 Away",114,111,NULL,NULL,Final,NULL,31,36,19,28,NULL,30,28,26,27,NULL,NBA
+28,250305017,2005,"Sat, Mar 5",New Jersey Nets,Orlando Magic,"26-34, 16-14 Home","31-27, 10-19 Away",81,105,NULL,NULL,Final,NULL,19,18,22,22,NULL,33,26,26,20,NULL,NBA
+29,250309028,2005,"Wed, Mar 9",Toronto Raptors,Orlando Magic,"26-35, 19-11 Home","31-29, 10-21 Away",106,96,NULL,NULL,Final,NULL,29,29,22,26,NULL,24,25,24,23,NULL,NBA
+30,250313019,2005,"Sun, Mar 13",Orlando Magic,New Jersey Nets,"31-31, 21-10 Home","28-36, 12-22 Away",82,98,NULL,NULL,Final,NULL,21,20,14,27,NULL,21,22,34,21,NULL,NBA
+31,250316012,2005,"Wed, Mar 16",LA Clippers,Orlando Magic,"29-35, 22-12 Home","31-33, 10-23 Away",110,102,NULL,NULL,Final,NULL,32,26,29,23,NULL,26,28,17,31,NULL,NBA
+32,250319022,2005,"Sat, Mar 19",Portland Trail Blazers,Orlando Magic,"23-41, 15-16 Home","32-34, 11-24 Away",92,97,NULL,NULL,Final,NULL,24,28,18,22,NULL,24,26,23,24,NULL,NBA
+33,250324019,2005,"Thu, Mar 24",Orlando Magic,Charlotte Bobcats,"32-36, 21-11 Home","14-53, 3-31 Away",94,108,NULL,NULL,Final,NULL,27,24,22,21,NULL,29,24,22,33,NULL,NBA
+34,250328019,2005,"Mon, Mar 28",Orlando Magic,Atlanta Hawks,"33-37, 22-12 Home","11-59, 3-33 Away",109,102,NULL,NULL,Final,NULL,32,30,23,24,NULL,15,33,19,35,NULL,NBA
+35,250401019,2005,"Fri, Apr 1",Orlando Magic,Washington Wizards,"34-38, 23-13 Home","41-30, 16-21 Away",102,111,NULL,NULL,Final,NULL,23,18,28,33,NULL,29,26,38,18,NULL,NBA
+36,250405006,2005,"Tue, Apr 5",Dallas Mavericks,Orlando Magic,"50-24, 25-12 Home","35-39, 12-26 Away",114,105,NULL,NULL,Final,NULL,30,27,39,18,NULL,23,21,39,22,NULL,NBA
+37,250408019,2005,"Fri, Apr 8",Orlando Magic,Detroit Pistons,"35-41, 23-15 Home","48-27, 19-18 Away",102,114,NULL,NULL,Final,NULL,23,22,22,35,NULL,29,22,33,30,NULL,NBA
+38,250413008,2005,"Wed, Apr 13",Detroit Pistons,Orlando Magic,"51-27, 30-9 Home","35-43, 12-27 Away",103,94,NULL,NULL,Final,NULL,31,25,22,25,NULL,17,21,24,32,NULL,NBA
+39,250416015,2005,"Sat, Apr 16",Milwaukee Bucks,Orlando Magic,"30-50, 23-17 Home","35-45, 12-29 Away",113,103,NULL,NULL,Final,NULL,25,30,33,25,NULL,23,20,26,34,NULL,NBA
+40,241103019,2005,"Wed, Nov 3",Orlando Magic,Milwaukee Bucks,"1-0, 1-0 Home","0-1, 0-1 Away",93,92,NULL,NULL,Final,NULL,21,29,24,19,NULL,25,22,20,25,NULL,NBA
+41,241106030,2005,"Sat, Nov 6",Charlotte Bobcats,Orlando Magic,"1-1, 1-1 Home","2-1, 1-1 Away",111,100,NULL,NULL,Final,NULL,20,29,30,32,NULL,22,20,21,37,NULL,NBA
+42,241110027,2005,"Wed, Nov 10",Washington Wizards,Orlando Magic,"3-2, 1-1 Home","3-2, 1-2 Away",106,96,NULL,NULL,Final,NULL,24,25,27,30,NULL,26,19,32,19,NULL,NBA
+43,241114020,2005,"Sun, Nov 14",Philadelphia 76ers,Orlando Magic,"4-3, 3-1 Home","4-3, 1-3 Away",96,87,NULL,NULL,Final,CSN,23,17,28,28,NULL,19,22,19,27,NULL,NBA
+44,241120011,2005,"Sat, Nov 20",Indiana Pacers,Orlando Magic,"7-3, 3-2 Home","6-3, 2-3 Away",83,86,NULL,NULL,Final,NULL,20,24,21,18,NULL,26,20,19,21,NULL,NBA
+45,241126001,2005,"Fri, Nov 26",Atlanta Hawks,Orlando Magic,"2-10, 1-5 Home","7-4, 3-3 Away",99,117,NULL,NULL,Final,NULL,28,28,30,13,NULL,33,32,25,27,NULL,NBA
+46,241129019,2005,"Mon, Nov 29",Orlando Magic,Boston Celtics,"8-5, 5-2 Home","5-8, 2-4 Away",101,117,NULL,NULL,Final,NULL,20,25,33,23,NULL,37,32,25,23,NULL,NBA
+47,241203018,2005,"Fri, Dec 3",New York Knicks,Orlando Magic,"8-7, 6-2 Home","10-5, 4-3 Away",98,104,NULL,NULL,Final,NULL,28,31,23,16,NULL,25,24,30,25,NULL,NBA
+48,241206007,2005,"Mon, Dec 6",Denver Nuggets,Orlando Magic,"10-7, 9-4 Home","11-6, 4-4 Away",115,102,NULL,NULL,Final,NULL,31,37,20,27,NULL,21,25,28,28,NULL,NBA
+49,241210009,2005,"Fri, Dec 10",Golden State Warriors,Orlando Magic,"5-14, 4-7 Home","13-6, 6-4 Away",109,113,NULL,NULL,Final,NULL,34,31,19,25,NULL,24,40,20,29,NULL,NBA
+50,241213021,2005,"Mon, Dec 13",Phoenix Suns,Orlando Magic,"18-3, 9-2 Home","13-8, 6-6 Away",121,100,NULL,NULL,Final,NULL,28,28,32,33,NULL,23,26,30,21,NULL,NBA
+51,241218019,2005,"Sat, Dec 18",Orlando Magic,Denver Nuggets,"14-9, 8-2 Home","13-11, 4-7 Away",117,95,NULL,NULL,Final,NULL,33,31,33,20,NULL,23,27,16,29,NULL,NBA
+52,241222019,2005,"Wed, Dec 22",Orlando Magic,San Antonio Spurs,"15-10, 9-2 Home","20-6, 9-5 Away",93,87,NULL,NULL,Final,NULL,16,30,18,29,NULL,19,21,24,23,NULL,NBA
+53,241229019,2005,"Wed, Dec 29",Orlando Magic,Milwaukee Bucks,"15-12, 9-4 Home","9-16, 2-9 Away",105,111,NULL,NULL,Final,NULL,26,24,27,28,NULL,33,23,30,25,NULL,NBA
+54,250103028,2005,"Mon, Jan 3",Toronto Raptors,Orlando Magic,"11-21, 9-4 Home","15-14, 6-10 Away",105,94,NULL,NULL,Final,NULL,34,24,25,22,NULL,23,22,23,26,NULL,NBA
+55,250107019,2005,"Fri, Jan 7",Orlando Magic,Charlotte Bobcats,"17-14, 11-4 Home","8-22, 1-14 Away",111,91,NULL,NULL,Final,NULL,29,34,28,20,NULL,27,24,20,20,NULL,NBA
+56,250110002,2005,"Mon, Jan 10",Boston Celtics,Orlando Magic,"16-19, 11-6 Home","18-15, 6-11 Away",119,101,NULL,NULL,Final,NULL,32,33,28,26,NULL,26,24,16,35,NULL,NBA
+57,250114008,2005,"Fri, Jan 14",Detroit Pistons,Orlando Magic,"21-14, 11-6 Home","19-16, 7-12 Away",101,94,NULL,NULL,Final,NULL,22,27,25,27,NULL,24,17,23,30,NULL,NBA
+58,250118019,2005,"Tue, Jan 18",Orlando Magic,Detroit Pistons,"21-16, 13-4 Home","23-15, 10-9 Away",103,101,NULL,NULL,Final,NULL,29,23,24,27,NULL,33,17,30,21,NULL,NBA
+59,250122019,2005,"Sat, Jan 22",Orlando Magic,Philadelphia 76ers,"22-17, 14-5 Home","18-21, 9-14 Away",115,111,NULL,NULL,Final,CSN,35,30,19,31,NULL,36,18,29,28,NULL,NBA
+60,250125029,2005,"Tue, Jan 25",Memphis Grizzlies,Orlando Magic,"24-19, 14-8 Home","22-19, 8-14 Away",95,83,NULL,NULL,Final,NULL,25,17,21,32,NULL,15,27,22,19,NULL,NBA
+61,250129027,2005,"Sat, Jan 29",Washington Wizards,Orlando Magic,"26-17, 16-6 Home","24-19, 9-14 Away",97,103,NULL,NULL,Final,NULL,21,24,27,25,NULL,20,35,21,27,NULL,NBA
+62,250201019,2005,"Tue, Feb 1",Orlando Magic,Cleveland Cavaliers,"25-20, 16-5 Home","26-18, 10-14 Away",105,102,NULL,NULL,Final,NULL,27,31,25,22,NULL,29,30,24,19,NULL,NBA
+63,250205005,2005,"Sat, Feb 5",Cleveland Cavaliers,Orlando Magic,"27-19, 17-4 Home","25-22, 9-17 Away",101,92,NULL,NULL,Final,NULL,26,24,27,24,NULL,25,26,19,22,NULL,NBA
+64,250210019,2005,"Thu, Feb 10",Orlando Magic,Atlanta Hawks,"26-23, 17-6 Home","10-38, 2-20 Away",101,96,NULL,NULL,Final,NULL,31,25,22,23,NULL,15,29,28,24,NULL,NBA
+65,250213019,2005,"Sun, Feb 13",Orlando Magic,New Orleans Hornets,"27-24, 18-6 Home","10-41, 3-26 Away",97,94,NULL,NULL,Final,NULL,26,23,32,16,NULL,26,23,25,20,NULL,NBA
+66,250222019,2005,"Tue, Feb 22",Orlando Magic,Indiana Pacers,"28-25, 19-7 Home","26-26, 12-14 Away",84,108,NULL,NULL,Final,NULL,18,18,21,27,NULL,20,32,29,27,NULL,NBA
+67,250227019,2005,"Sun, Feb 27",Orlando Magic,Miami Heat,"28-27, 19-8 Home","42-16, 19-11 Away",103,112,NULL,NULL,Final,NULL,24,14,30,35,NULL,26,28,23,35,NULL,NBA
+68,250304019,2005,"Fri, Mar 4",Orlando Magic,New York Knicks,"30-27, 21-8 Home","24-34, 7-22 Away",111,89,NULL,NULL,Final,NULL,38,25,25,23,NULL,25,27,14,23,NULL,NBA
+69,250308005,2005,"Tue, Mar 8",Cleveland Cavaliers,Orlando Magic,"32-27, 22-8 Home","31-28, 10-20 Away",111,92,NULL,NULL,Final,NULL,25,28,31,27,NULL,22,27,18,25,NULL,NBA
+70,250311019,2005,"Fri, Mar 11",Orlando Magic,Minnesota Timberwolves,"31-30, 21-9 Home","32-31, 14-17 Away",96,101,NULL,NULL,Final,NULL,19,29,28,20,NULL,22,27,28,24,NULL,NBA
+71,250315023,2005,"Tue, Mar 15",Sacramento Kings,Orlando Magic,"40-25, 24-9 Home","31-32, 10-22 Away",105,94,NULL,NULL,Final,NULL,26,35,16,28,NULL,19,28,24,23,NULL,NBA
+72,250318025,2005,"Fri, Mar 18",Seattle SuperSonics,Orlando Magic,"44-20, 22-11 Home","31-34, 10-24 Away",98,90,NULL,NULL,Final,NULL,21,27,25,25,NULL,22,24,25,19,NULL,NBA
+73,250321030,2005,"Mon, Mar 21",Charlotte Bobcats,Orlando Magic,"13-52, 11-21 Home","32-35, 11-25 Away",102,97,NULL,NULL,Final,NULL,24,20,28,30,NULL,31,24,18,24,NULL,NBA
+74,250326019,2005,"Sat, Mar 26",Orlando Magic,Phoenix Suns,"32-37, 21-12 Home","52-17, 29-8 Away",116,118,NULL,NULL,Final,NULL,31,30,24,31,NULL,31,26,36,25,NULL,NBA
+75,250330019,2005,"Wed, Mar 30",Orlando Magic,Toronto Raptors,"34-37, 23-12 Home","29-42, 8-29 Away",108,96,NULL,NULL,Final,NULL,21,34,30,23,NULL,21,24,24,27,NULL,NBA
+76,250402017,2005,"Sat, Apr 2",New Jersey Nets,Orlando Magic,"35-39, 20-17 Home","35-38, 12-25 Away",102,103,NULL,NULL,Final,NULL,25,27,25,25,NULL,25,25,22,31,NULL,NBA
+77,250406019,2005,"Wed, Apr 6",Orlando Magic,Chicago Bulls,"35-40, 23-14 Home","42-32, 18-19 Away",101,102,NULL,NULL,Final/OT,NULL,29,20,22,24,6,16,33,21,25,7,NBA
+78,250411019,2005,"Mon, Apr 11",Orlando Magic,Cleveland Cavaliers,"35-42, 23-16 Home","40-37, 12-26 Away",106,114,NULL,NULL,Final,NULL,32,22,22,30,NULL,26,33,20,35,NULL,NBA
+79,250415004,2005,"Fri, Apr 15",Chicago Bulls,Orlando Magic,"45-34, 26-14 Home","35-44, 12-28 Away",117,77,NULL,NULL,Final,NULL,29,31,25,32,NULL,18,23,22,14,NULL,NBA
+80,250418019,2005,"Mon, Apr 18",Orlando Magic,Indiana Pacers,"36-45, 24-16 Home","43-38, 19-22 Away",92,88,NULL,NULL,Final,NULL,28,23,24,17,NULL,24,20,27,17,NULL,NBA
+81,250420019,2005,"Wed, Apr 20",Orlando Magic,Miami Heat,"36-46, 24-17 Home","59-23, 24-17 Away",93,98,NULL,NULL,Final,NULL,28,29,21,15,NULL,28,22,25,23,NULL,NBA

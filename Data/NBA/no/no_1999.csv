@@ -1,0 +1,51 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,190206003,1999,"Sat, Feb 6",Charlotte Hornets,Milwaukee Bucks,"0-2, 0-2 Home","1-0, 1-0 Away",107,113,NULL,NULL,Final/OT,NULL,30,28,16,25,8,20,29,24,26,14,NBA
+1,190210003,1999,"Wed, Feb 10",Charlotte Hornets,Cleveland Cavaliers,"1-3, 1-3 Home","1-3, 1-2 Away",77,87,NULL,NULL,Final,NULL,17,24,22,14,NULL,30,21,19,17,NULL,NBA
+2,190216013,1999,"Tue, Feb 16",Los Angeles Lakers,Charlotte Hornets,"4-3, 2-2 Home","1-5, 0-2 Away",116,88,NULL,NULL,Final,NULL,32,30,27,27,NULL,24,26,17,21,NULL,NBA
+3,190219023,1999,"Fri, Feb 19",Sacramento Kings,Charlotte Hornets,"5-3, 3-0 Home","1-7, 0-4 Away",106,95,NULL,NULL,Final,NULL,31,32,22,21,NULL,28,19,28,20,NULL,NBA
+4,190226003,1999,"Fri, Feb 26",Charlotte Hornets,Portland Trail Blazers,"2-8, 2-4 Home","7-3, 2-3 Away",97,95,NULL,NULL,Final,NULL,32,26,28,11,NULL,13,28,27,27,NULL,NBA
+5,190301003,1999,"Mon, Mar 1",Charlotte Hornets,Toronto Raptors,"3-9, 3-4 Home","4-9, 1-6 Away",91,88,NULL,NULL,Final,NULL,25,23,22,21,NULL,22,20,15,31,NULL,NBA
+6,190304017,1999,"Thu, Mar 4",New Jersey Nets,Charlotte Hornets,"3-12, 2-6 Home","4-10, 1-6 Away",82,96,NULL,NULL,Final,NULL,22,25,15,20,NULL,33,25,23,15,NULL,NBA
+7,190309003,1999,"Tue, Mar 9",Charlotte Hornets,Boston Celtics,"5-11, 4-4 Home","7-9, 3-7 Away",105,87,NULL,NULL,Final,NULL,20,26,27,32,NULL,19,24,20,24,NULL,NBA
+8,190312027,1999,"Fri, Mar 12",Washington Wizards,Charlotte Hornets,"8-12, 5-6 Home","6-12, 2-8 Away",83,92,NULL,NULL,Final,NULL,23,25,23,12,NULL,18,26,20,28,NULL,NBA
+9,190315028,1999,"Mon, Mar 15",Toronto Raptors,Charlotte Hornets,"7-12, 5-4 Home","6-14, 2-10 Away",89,82,NULL,NULL,Final,NULL,26,29,9,25,NULL,18,24,19,21,NULL,NBA
+10,190319003,1999,"Fri, Mar 19",Charlotte Hornets,Utah Jazz,"8-14, 6-4 Home","19-5, 8-4 Away",83,82,NULL,NULL,Final/OT,NULL,14,23,22,16,8,19,16,25,15,7,NBA
+11,190323019,1999,"Tue, Mar 23",Orlando Magic,Charlotte Hornets,"19-8, 13-2 Home","9-15, 3-11 Away",86,78,NULL,NULL,Final,NULL,21,19,18,28,NULL,16,18,25,19,NULL,NBA
+12,190326003,1999,"Fri, Mar 26",Charlotte Hornets,Orlando Magic,"11-15, 8-4 Home","20-9, 6-7 Away",90,82,NULL,NULL,Final,NULL,36,15,23,16,NULL,16,21,23,22,NULL,NBA
+13,190330003,1999,"Tue, Mar 30",Charlotte Hornets,Boston Celtics,"12-16, 9-5 Home","10-18, 5-13 Away",99,109,NULL,NULL,Final,NULL,26,24,20,29,NULL,34,29,23,23,NULL,NBA
+14,190402003,1999,"Fri, Apr 2",Charlotte Hornets,Indiana Pacers,"12-18, 9-7 Home","21-11, 10-7 Away",81,87,NULL,NULL,Final,NULL,24,23,9,25,NULL,21,18,19,29,NULL,NBA
+15,190405003,1999,"Mon, Apr 5",Charlotte Hornets,Atlanta Hawks,"12-20, 9-8 Home","22-13, 11-6 Away",71,77,NULL,NULL,Final,NULL,22,17,17,15,NULL,23,15,22,17,NULL,NBA
+16,190409003,1999,"Fri, Apr 9",Charlotte Hornets,Washington Wizards,"14-20, 11-8 Home","13-22, 5-13 Away",90,88,NULL,NULL,Final,NULL,20,22,27,21,NULL,26,18,18,26,NULL,NBA
+17,190412008,1999,"Mon, Apr 12",Detroit Pistons,Charlotte Hornets,"22-16, 14-7 Home","16-20, 5-12 Away",86,92,NULL,NULL,Final,NULL,19,25,21,21,NULL,32,21,17,22,NULL,NBA
+18,190416015,1999,"Fri, Apr 16",Milwaukee Bucks,Charlotte Hornets,"22-17, 12-7 Home","18-20, 6-12 Away",94,95,NULL,NULL,Final,NULL,18,29,31,16,NULL,23,29,16,27,NULL,NBA
+19,190419017,1999,"Mon, Apr 19",New Jersey Nets,Charlotte Hornets,"12-29, 8-12 Home","20-20, 8-12 Away",113,120,NULL,NULL,Final,NULL,33,23,26,31,NULL,35,30,23,32,NULL,NBA
+20,190423018,1999,"Fri, Apr 23",New York Knicks,Charlotte Hornets,"22-21, 16-6 Home","21-21, 8-13 Away",110,105,NULL,NULL,Final,NULL,32,21,28,29,NULL,23,16,31,35,NULL,NBA
+21,190426003,1999,"Mon, Apr 26",Charlotte Hornets,New York Knicks,"22-22, 14-9 Home","24-21, 8-15 Away",84,91,NULL,NULL,Final,NULL,16,14,26,28,NULL,30,13,23,25,NULL,NBA
+22,190429011,1999,"Thu, Apr 29",Indiana Pacers,Charlotte Hornets,"30-17, 16-7 Home","23-23, 9-14 Away",115,110,NULL,NULL,Final/OT,NULL,20,25,33,25,12,30,22,28,23,7,NBA
+23,190502014,1999,"Sun, May 2",Miami Heat,Charlotte Hornets,"32-16, 17-7 Home","24-24, 9-15 Away",100,93,NULL,NULL,Final,NULL,22,25,23,30,NULL,26,23,25,19,NULL,NBA
+24,190205003,1999,"Fri, Feb 5",Charlotte Hornets,Philadelphia 76ers,"0-1, 0-1 Home","1-0, 1-0 Away",66,78,NULL,NULL,Final,CSN,17,23,17,9,NULL,26,20,14,18,NULL,NBA
+25,190208003,1999,"Mon, Feb 8",Charlotte Hornets,Miami Heat,"1-2, 1-2 Home","1-2, 1-1 Away",94,91,NULL,NULL,Final,NULL,28,23,24,19,NULL,27,30,18,16,NULL,NBA
+26,190211001,1999,"Thu, Feb 11",Atlanta Hawks,Charlotte Hornets,"4-1, 3-0 Home","1-4, 0-1 Away",100,88,NULL,NULL,Final,NULL,33,24,19,24,NULL,12,24,24,28,NULL,NBA
+27,190217009,1999,"Wed, Feb 17",Golden State Warriors,Charlotte Hornets,"3-5, 3-4 Home","1-6, 0-3 Away",96,87,NULL,NULL,Final,NULL,16,25,27,28,NULL,29,14,27,17,NULL,NBA
+28,190224003,1999,"Wed, Feb 24",Charlotte Hornets,Miami Heat,"1-8, 1-4 Home","8-3, 5-1 Away",83,91,NULL,NULL,Final,NULL,25,16,23,19,NULL,29,16,23,23,NULL,NBA
+29,190227004,1999,"Sat, Feb 27",Chicago Bulls,Charlotte Hornets,"3-10, 1-6 Home","2-9, 0-5 Away",94,77,NULL,NULL,Final,NULL,24,22,22,26,NULL,22,12,18,25,NULL,NBA
+30,190303019,1999,"Wed, Mar 3",Orlando Magic,Charlotte Hornets,"12-4, 9-0 Home","3-10, 0-6 Away",93,76,NULL,NULL,Final,NULL,31,18,24,20,NULL,22,21,19,14,NULL,NBA
+31,190305027,1999,"Fri, Mar 5",Washington Wizards,Charlotte Hornets,"6-9, 4-5 Home","4-11, 1-7 Away",86,85,NULL,NULL,Final,NULL,19,26,16,25,NULL,20,21,23,21,NULL,NBA
+32,190310020,1999,"Wed, Mar 10",Philadelphia 76ers,Charlotte Hornets,"11-8, 6-6 Home","5-12, 1-8 Away",85,70,NULL,NULL,Final,CSN,20,15,27,23,NULL,16,24,12,18,NULL,NBA
+33,190314018,1999,"Sun, Mar 14",New York Knicks,Charlotte Hornets,"12-9, 10-2 Home","6-13, 2-9 Away",94,86,NULL,NULL,Final,NULL,19,33,19,23,NULL,21,21,26,18,NULL,NBA
+34,190317003,1999,"Wed, Mar 17",Charlotte Hornets,Phoenix Suns,"7-14, 5-4 Home","12-11, 7-4 Away",119,111,NULL,NULL,Final,NULL,38,25,27,29,NULL,24,23,35,29,NULL,NBA
+35,190321015,1999,"Sun, Mar 21",Milwaukee Bucks,Charlotte Hornets,"14-10, 7-5 Home","9-14, 3-10 Away",87,94,NULL,NULL,Final,NULL,22,16,32,17,NULL,21,28,21,24,NULL,NBA
+36,190324003,1999,"Wed, Mar 24",Charlotte Hornets,Chicago Bulls,"10-15, 7-4 Home","8-19, 4-9 Away",110,81,NULL,NULL,Final,NULL,27,32,18,33,NULL,24,21,18,18,NULL,NBA
+37,190328003,1999,"Sun, Mar 28",Charlotte Hornets,Cleveland Cavaliers,"12-15, 9-4 Home","14-13, 4-9 Away",105,84,NULL,NULL,Final,NULL,20,24,32,29,NULL,29,24,10,21,NULL,NBA
+38,190331003,1999,"Wed, Mar 31",Charlotte Hornets,Milwaukee Bucks,"12-17, 9-6 Home","18-12, 9-6 Away",94,102,NULL,NULL,Final,NULL,22,29,16,27,NULL,26,33,24,19,NULL,NBA
+39,190404001,1999,"Sun, Apr 4",Atlanta Hawks,Charlotte Hornets,"21-13, 11-7 Home","12-19, 3-12 Away",85,83,NULL,NULL,Final,NULL,23,18,22,22,NULL,24,22,16,21,NULL,NBA
+40,190407003,1999,"Wed, Apr 7",Charlotte Hornets,New York Knicks,"13-20, 10-8 Home","18-17, 4-12 Away",106,82,NULL,NULL,Final,NULL,29,29,21,27,NULL,12,26,22,22,NULL,NBA
+41,190410011,1999,"Sat, Apr 10",Indiana Pacers,Charlotte Hornets,"24-13, 12-6 Home","15-20, 4-12 Away",90,92,NULL,NULL,Final,NULL,23,24,27,16,NULL,28,29,19,16,NULL,NBA
+42,190414003,1999,"Wed, Apr 14",Charlotte Hornets,Detroit Pistons,"17-20, 12-8 Home","22-17, 8-10 Away",83,79,NULL,NULL,Final,NULL,29,16,18,20,NULL,15,15,29,20,NULL,NBA
+43,190417005,1999,"Sat, Apr 17",Cleveland Cavaliers,Charlotte Hornets,"21-19, 14-7 Home","19-20, 7-12 Away",82,90,NULL,NULL,Final,NULL,14,18,22,28,NULL,19,17,32,22,NULL,NBA
+44,190421003,1999,"Wed, Apr 21",Charlotte Hornets,Detroit Pistons,"21-20, 13-8 Home","23-19, 8-12 Away",88,85,NULL,NULL,Final,NULL,19,19,28,22,NULL,27,21,18,19,NULL,NBA
+45,190424003,1999,"Sat, Apr 24",Charlotte Hornets,New Jersey Nets,"22-21, 14-8 Home","13-30, 4-18 Away",97,82,NULL,NULL,Final,NULL,34,21,25,17,NULL,33,20,14,15,NULL,NBA
+46,190427028,1999,"Tue, Apr 27",Toronto Raptors,Charlotte Hornets,"22-23, 13-11 Home","23-22, 9-13 Away",98,108,NULL,NULL,Final,NULL,24,24,21,29,NULL,30,20,27,31,NULL,NBA
+47,190430003,1999,"Fri, Apr 30",Charlotte Hornets,Chicago Bulls,"24-23, 15-9 Home","12-35, 4-20 Away",92,88,NULL,NULL,Final,NULL,30,24,17,21,NULL,24,24,21,19,NULL,NBA
+48,190504003,1999,"Tue, May 4",Charlotte Hornets,Philadelphia 76ers,"25-24, 16-9 Home","27-22, 11-14 Away",117,110,NULL,NULL,Final/OT,NULL,36,22,19,23,17,16,26,32,26,10,NBA
+49,190505002,1999,"Wed, May 5",Boston Celtics,Charlotte Hornets,"19-31, 10-15 Home","26-24, 10-15 Away",129,133,NULL,NULL,Final/2OT,NULL,30,23,31,25,20,29,39,16,25,24,NBA

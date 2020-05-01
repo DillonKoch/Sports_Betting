@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,251102010,2006,"Wed, Nov 2",Houston Rockets,Sacramento Kings,"1-0, 1-0 Home","0-2, 0-2 Away",98,89,NULL,NULL,Final,NULL,18,28,26,26,NULL,27,22,16,24,NULL,NBA
+1,251108023,2006,"Tue, Nov 8",Sacramento Kings,Detroit Pistons,"1-3, 0-1 Home","4-0, 2-0 Away",88,102,NULL,NULL,Final,NULL,22,23,22,21,NULL,31,21,29,21,NULL,NBA
+2,251111023,2006,"Fri, Nov 11",Sacramento Kings,Denver Nuggets,"2-4, 1-1 Home","2-4, 0-3 Away",101,85,NULL,NULL,Final,NULL,29,32,20,20,NULL,19,25,22,19,NULL,NBA
+3,251115023,2006,"Tue, Nov 15",Sacramento Kings,Utah Jazz,"3-5, 2-2 Home","4-5, 3-3 Away",119,83,NULL,NULL,Final,NULL,33,18,43,25,NULL,18,21,27,17,NULL,NBA
+4,251120025,2006,"Sun, Nov 20",Seattle SuperSonics,Sacramento Kings,"5-5, 3-1 Home","4-6, 1-4 Away",106,104,NULL,NULL,Final,NULL,25,32,30,19,NULL,36,27,25,16,NULL,NBA
+5,251123023,2006,"Wed, Nov 23",Sacramento Kings,New Jersey Nets,"5-7, 4-3 Home","5-6, 1-4 Away",114,105,NULL,NULL,Final,NULL,26,33,35,20,NULL,27,31,20,27,NULL,NBA
+6,251129023,2006,"Tue, Nov 29",Sacramento Kings,Charlotte Bobcats,"7-7, 6-3 Home","5-10, 1-7 Away",110,92,NULL,NULL,Final,NULL,30,29,32,19,NULL,25,21,20,26,NULL,NBA
+7,251202023,2006,"Fri, Dec 2",Sacramento Kings,Miami Heat,"7-9, 6-4 Home","10-6, 3-4 Away",87,98,NULL,NULL,Final,NULL,24,24,25,14,NULL,29,28,24,17,NULL,NBA
+8,251206023,2006,"Tue, Dec 6",Sacramento Kings,Cleveland Cavaliers,"7-11, 6-6 Home","11-6, 4-5 Away",97,102,NULL,NULL,Final,NULL,19,25,28,25,NULL,23,28,22,29,NULL,NBA
+9,251210025,2006,"Sat, Dec 10",Seattle SuperSonics,Sacramento Kings,"9-10, 6-5 Home","8-12, 2-5 Away",104,123,NULL,NULL,Final,NULL,29,28,13,34,NULL,31,31,30,31,NULL,NBA
+10,251213016,2006,"Tue, Dec 13",Minnesota Timberwolves,Sacramento Kings,"12-8, 7-3 Home","10-12, 3-5 Away",91,93,NULL,NULL,Final,NULL,19,20,26,26,NULL,24,20,23,26,NULL,NBA
+11,251217024,2006,"Sat, Dec 17",San Antonio Spurs,Sacramento Kings,"19-4, 11-1 Home","10-14, 3-7 Away",90,89,NULL,NULL,Final,NULL,29,14,28,19,NULL,17,27,26,19,NULL,NBA
+12,251222023,2006,"Thu, Dec 22",Sacramento Kings,Dallas Mavericks,"10-16, 7-8 Home","19-7, 9-4 Away",95,105,NULL,NULL,Final,NULL,23,26,23,23,NULL,33,21,19,32,NULL,NBA
+13,251227012,2006,"Tue, Dec 27",LA Clippers,Sacramento Kings,"16-11, 10-3 Home","11-17, 4-8 Away",93,110,NULL,NULL,Final,NULL,22,22,22,27,NULL,27,32,28,23,NULL,NBA
+14,260103023,2006,"Tue, Jan 3",Sacramento Kings,Philadelphia 76ers,"12-18, 8-10 Home","16-15, 6-10 Away",98,111,NULL,NULL,Final,CSN,26,21,28,23,NULL,24,27,32,28,NULL,NBA
+15,260108023,2006,"Sun, Jan 8",Sacramento Kings,Indiana Pacers,"13-19, 9-11 Home","18-13, 8-9 Away",83,108,NULL,NULL,Final,NULL,20,19,22,22,NULL,25,35,31,17,NULL,NBA
+16,260111010,2006,"Wed, Jan 11",Houston Rockets,Sacramento Kings,"12-22, 3-11 Home","14-20, 5-9 Away",80,88,NULL,NULL,Final,NULL,13,23,21,23,NULL,18,25,23,22,NULL,NBA
+17,260115023,2006,"Sun, Jan 15",Sacramento Kings,Orlando Magic,"15-21, 10-11 Home","13-22, 4-13 Away",104,100,NULL,NULL,Final,NULL,21,25,28,30,NULL,22,20,20,38,NULL,NBA
+18,260119023,2006,"Thu, Jan 19",Sacramento Kings,Los Angeles Lakers,"17-21, 12-11 Home","21-18, 11-10 Away",118,109,NULL,NULL,Final/OT,NULL,27,27,20,30,14,31,21,24,28,5,NBA
+19,260122014,2006,"Sun, Jan 22",Miami Heat,Sacramento Kings,"24-17, 13-5 Home","17-23, 5-12 Away",119,99,NULL,NULL,Final,NULL,37,23,29,30,NULL,24,34,26,15,NULL,NBA
+20,260125018,2006,"Wed, Jan 25",New York Knicks,Sacramento Kings,"13-27, 9-12 Home","18-24, 6-13 Away",102,106,NULL,NULL,Final/OT,NULL,27,20,17,25,13,23,25,21,20,17,NBA
+21,260129028,2006,"Sun, Jan 29",Toronto Raptors,Sacramento Kings,"15-30, 7-14 Home","18-26, 6-15 Away",124,123,NULL,NULL,Final/OT,NULL,28,32,28,24,12,29,26,29,28,11,NBA
+22,260203026,2006,"Fri, Feb 3",Utah Jazz,Sacramento Kings,"23-24, 12-12 Home","19-27, 6-16 Away",89,79,NULL,NULL,Final,NULL,18,21,16,34,NULL,22,23,22,12,NULL,NBA
+23,260207023,2006,"Tue, Feb 7",Sacramento Kings,Memphis Grizzlies,"21-27, 15-11 Home","26-21, 11-13 Away",104,96,NULL,NULL,Final,NULL,34,21,19,30,NULL,23,26,17,30,NULL,NBA
+24,260210021,2006,"Fri, Feb 10",Phoenix Suns,Sacramento Kings,"33-17, 19-8 Home","22-28, 6-17 Away",112,104,NULL,NULL,Final,NULL,33,30,30,19,NULL,21,27,28,28,NULL,NBA
+25,260214004,2006,"Tue, Feb 14",Chicago Bulls,Sacramento Kings,"22-29, 10-14 Home","24-28, 7-17 Away",101,105,NULL,NULL,Final/OT,NULL,26,11,31,22,11,23,17,29,21,15,NBA
+26,260221023,2006,"Tue, Feb 21",Sacramento Kings,Golden State Warriors,"25-29, 18-11 Home","24-29, 9-15 Away",102,77,NULL,NULL,Final,NULL,24,30,27,21,NULL,17,21,15,24,NULL,NBA
+27,260227023,2006,"Mon, Feb 27",Sacramento Kings,Portland Trail Blazers,"26-30, 19-11 Home","18-38, 6-22 Away",115,91,NULL,NULL,Final,NULL,30,30,28,27,NULL,26,19,20,26,NULL,NBA
+28,260303001,2006,"Fri, Mar 3",Atlanta Hawks,Sacramento Kings,"19-38, 12-17 Home","28-30, 9-19 Away",93,102,NULL,NULL,Final,NULL,24,23,22,24,NULL,26,24,21,31,NULL,NBA
+29,260306017,2006,"Mon, Mar 6",New Jersey Nets,Sacramento Kings,"32-27, 19-9 Home","29-31, 10-20 Away",84,109,NULL,NULL,Final,NULL,26,22,20,16,NULL,26,32,27,24,NULL,NBA
+30,260310023,2006,"Fri, Mar 10",Sacramento Kings,Memphis Grizzlies,"31-31, 20-11 Home","34-28, 15-19 Away",105,93,NULL,NULL,Final,NULL,24,25,29,27,NULL,26,24,18,25,NULL,NBA
+31,260314023,2006,"Tue, Mar 14",Sacramento Kings,Los Angeles Lakers,"33-31, 22-11 Home","33-32, 16-19 Away",114,98,NULL,NULL,Final,NULL,24,30,29,31,NULL,31,19,28,20,NULL,NBA
+32,260319016,2006,"Sun, Mar 19",Minnesota Timberwolves,Sacramento Kings,"27-39, 19-14 Home","33-33, 11-22 Away",95,89,NULL,NULL,Final,NULL,19,21,27,28,NULL,19,16,29,25,NULL,NBA
+33,260322013,2006,"Wed, Mar 22",Los Angeles Lakers,Sacramento Kings,"36-34, 19-13 Home","34-34, 11-23 Away",87,80,NULL,NULL,Final,NULL,30,23,19,15,NULL,14,26,18,22,NULL,NBA
+34,260326023,2006,"Sun, Mar 26",Sacramento Kings,Golden State Warriors,"35-35, 23-12 Home","30-38, 12-22 Away",83,90,NULL,NULL,Final,TBS,14,26,14,29,NULL,23,22,24,21,NULL,NBA
+35,260329022,2006,"Wed, Mar 29",Portland Trail Blazers,Sacramento Kings,"20-51, 14-21 Home","36-36, 13-23 Away",90,106,NULL,NULL,Final,NULL,20,21,24,25,NULL,29,29,24,24,NULL,NBA
+36,260402023,2006,"Sun, Apr 2",Sacramento Kings,LA Clippers,"38-36, 24-13 Home","42-30, 17-19 Away",106,96,NULL,NULL,Final,NULL,30,22,31,23,NULL,18,25,35,18,NULL,NBA
+37,260405024,2006,"Wed, Apr 5",San Antonio Spurs,Sacramento Kings,"58-17, 31-5 Home","39-37, 15-24 Away",87,97,NULL,NULL,Final,NULL,22,21,22,22,NULL,26,30,25,16,NULL,NBA
+38,260409023,2006,"Sun, Apr 9",Sacramento Kings,Houston Rockets,"41-37, 25-13 Home","33-44, 18-21 Away",86,77,NULL,NULL,Final,NULL,20,29,15,22,NULL,16,19,24,18,NULL,NBA
+39,260415007,2006,"Sat, Apr 15",Denver Nuggets,Sacramento Kings,"44-36, 26-14 Home","42-38, 17-24 Away",82,100,NULL,NULL,Final,NULL,19,26,18,19,NULL,25,27,30,18,NULL,NBA
+40,251101003,2006,"Tue, Nov 1",NO/Oklahoma City Hornets,Sacramento Kings,"1-0, 1-0 Home","0-1, 0-1 Away",93,67,NULL,NULL,Final,NULL,22,22,28,21,NULL,21,12,19,15,NULL,NBA
+41,251106021,2006,"Sun, Nov 6",Phoenix Suns,Sacramento Kings,"2-2, 0-2 Home","1-2, 1-2 Away",117,118,NULL,NULL,Final,NULL,33,27,26,31,NULL,30,25,39,24,NULL,NBA
+42,251109007,2006,"Wed, Nov 9",Denver Nuggets,Sacramento Kings,"2-3, 2-1 Home","1-4, 1-3 Away",107,91,NULL,NULL,Final,NULL,29,28,26,24,NULL,31,22,29,9,NULL,NBA
+43,251113023,2006,"Sun, Nov 13",Sacramento Kings,New York Knicks,"2-5, 1-2 Home","1-5, 1-3 Away",95,105,NULL,NULL,Final,NULL,16,25,25,29,NULL,29,28,20,28,NULL,NBA
+44,251118023,2006,"Fri, Nov 18",Sacramento Kings,Milwaukee Bucks,"4-5, 3-2 Home","5-3, 3-2 Away",103,82,NULL,NULL,Final,NULL,31,17,29,26,NULL,22,22,21,17,NULL,NBA
+45,251121023,2006,"Mon, Nov 21",Sacramento Kings,San Antonio Spurs,"4-7, 3-3 Home","9-2, 4-2 Away",93,96,NULL,NULL,Final,NULL,19,20,19,35,NULL,25,24,24,23,NULL,NBA
+46,251125023,2006,"Fri, Nov 25",Sacramento Kings,Toronto Raptors,"6-7, 5-3 Home","1-12, 0-6 Away",106,104,NULL,NULL,Final,NULL,26,27,29,24,NULL,26,29,30,19,NULL,NBA
+47,251130009,2006,"Wed, Nov 30",Golden State Warriors,Sacramento Kings,"11-6, 7-3 Home","7-8, 1-5 Away",113,106,NULL,NULL,Final,TBS,31,26,25,31,NULL,33,17,22,34,NULL,NBA
+48,251204023,2006,"Sun, Dec 4",Sacramento Kings,Minnesota Timberwolves,"7-10, 6-5 Home","9-6, 3-4 Away",77,85,NULL,NULL,Final,NULL,21,15,18,23,NULL,25,23,18,19,NULL,NBA
+49,251208023,2006,"Thu, Dec 8",Sacramento Kings,Houston Rockets,"7-12, 6-7 Home","6-12, 3-6 Away",95,106,NULL,NULL,Final,NULL,31,21,27,16,NULL,29,18,26,33,NULL,NBA
+50,251211023,2006,"Sun, Dec 11",Sacramento Kings,NO/Oklahoma City Hornets,"9-12, 7-7 Home","8-12, 4-8 Away",110,100,NULL,NULL,Final,NULL,28,25,27,30,NULL,22,34,24,20,NULL,NBA
+51,251214008,2006,"Wed, Dec 14",Detroit Pistons,Sacramento Kings,"16-3, 6-1 Home","10-13, 3-6 Away",109,98,NULL,NULL,Final,NULL,36,20,27,26,NULL,27,21,27,23,NULL,NBA
+52,251219030,2006,"Mon, Dec 19",Charlotte Bobcats,Sacramento Kings,"7-18, 5-7 Home","10-15, 3-8 Away",106,103,NULL,NULL,Final/OT,NULL,25,27,27,20,7,30,22,21,26,4,NBA
+53,251226023,2006,"Mon, Dec 26",Sacramento Kings,Portland Trail Blazers,"10-17, 7-9 Home","9-18, 4-11 Away",92,105,NULL,NULL,Final,NULL,30,15,24,23,NULL,25,30,25,25,NULL,NBA
+54,251230023,2006,"Fri, Dec 30",Sacramento Kings,Boston Celtics,"12-17, 8-9 Home","11-17, 2-11 Away",116,112,NULL,NULL,Final,NULL,28,31,28,29,NULL,24,25,37,26,NULL,NBA
+55,260106023,2006,"Fri, Jan 6",Sacramento Kings,LA Clippers,"13-18, 9-10 Home","17-13, 7-9 Away",118,114,NULL,NULL,Final,NULL,24,43,24,27,NULL,28,35,26,25,NULL,NBA
+56,260110029,2006,"Tue, Jan 10",Memphis Grizzlies,Sacramento Kings,"22-11, 12-5 Home","13-20, 4-9 Away",99,85,NULL,NULL,Final,NULL,18,34,27,20,NULL,30,21,17,17,NULL,NBA
+57,260113003,2006,"Fri, Jan 13",NO/Oklahoma City Hornets,Sacramento Kings,"16-19, 11-7 Home","14-21, 5-10 Away",90,76,NULL,NULL,Final,NULL,28,26,17,19,NULL,25,14,14,23,NULL,NBA
+58,260117023,2006,"Tue, Jan 17",Sacramento Kings,Phoenix Suns,"16-21, 11-11 Home","24-13, 9-7 Away",119,90,NULL,NULL,Final,NULL,32,33,27,27,NULL,23,20,22,25,NULL,NBA
+59,260121019,2006,"Sat, Jan 21",Orlando Magic,Sacramento Kings,"16-22, 11-9 Home","17-22, 5-11 Away",83,78,NULL,NULL,Final/OT,NULL,21,18,17,18,9,20,30,9,15,4,NBA
+60,260124020,2006,"Tue, Jan 24",Philadelphia 76ers,Sacramento Kings,"21-20, 14-7 Home","17-24, 5-13 Away",109,103,NULL,NULL,Final,CSN,28,22,31,28,NULL,21,22,31,29,NULL,NBA
+61,260127002,2006,"Fri, Jan 27",Boston Celtics,Sacramento Kings,"18-25, 14-9 Home","18-25, 6-14 Away",84,74,NULL,NULL,Final,NULL,24,17,24,19,NULL,25,18,19,12,NULL,NBA
+62,260131023,2006,"Tue, Jan 31",Sacramento Kings,Denver Nuggets,"19-26, 13-11 Home","25-22, 10-13 Away",98,91,NULL,NULL,Final,NULL,18,34,22,24,NULL,21,22,26,22,NULL,NBA
+63,260205023,2006,"Sun, Feb 5",Sacramento Kings,Utah Jazz,"20-27, 14-11 Home","23-25, 11-13 Away",96,78,NULL,NULL,Final,NULL,32,14,19,31,NULL,25,15,18,20,NULL,NBA
+64,260209023,2006,"Thu, Feb 9",Sacramento Kings,Chicago Bulls,"22-27, 16-11 Home","21-28, 11-15 Away",98,80,NULL,NULL,Final,NULL,24,27,26,21,NULL,15,17,17,31,NULL,NBA
+65,260212023,2006,"Sun, Feb 12",Sacramento Kings,Atlanta Hawks,"23-28, 17-11 Home","15-34, 4-20 Away",109,84,NULL,NULL,Final,NULL,25,23,30,31,NULL,23,17,21,23,NULL,NBA
+66,260215029,2006,"Wed, Feb 15",Memphis Grizzlies,Sacramento Kings,"29-23, 16-8 Home","24-29, 7-18 Away",84,78,NULL,NULL,Final,NULL,23,19,24,18,NULL,19,28,18,13,NULL,NBA
+67,260223013,2006,"Thu, Feb 23",Los Angeles Lakers,Sacramento Kings,"28-26, 15-10 Home","25-30, 7-19 Away",106,85,NULL,NULL,Final,NULL,28,27,22,29,NULL,22,25,25,13,NULL,NBA
+68,260301005,2006,"Wed, Mar 1",Cleveland Cavaliers,Sacramento Kings,"32-26, 20-10 Home","27-30, 8-19 Away",90,97,NULL,NULL,Final,NULL,29,18,26,17,NULL,18,25,35,19,NULL,NBA
+69,260305027,2006,"Sun, Mar 5",Washington Wizards,Sacramento Kings,"30-28, 21-10 Home","28-31, 9-20 Away",117,107,NULL,NULL,Final,NULL,33,25,28,31,NULL,28,18,31,30,NULL,NBA
+70,260308015,2006,"Wed, Mar 8",Milwaukee Bucks,Sacramento Kings,"29-31, 17-13 Home","30-31, 11-20 Away",116,123,NULL,NULL,Final,NULL,33,24,25,34,NULL,35,34,21,33,NULL,NBA
+71,260312023,2006,"Sun, Mar 12",Sacramento Kings,Dallas Mavericks,"32-31, 21-11 Home","49-14, 21-9 Away",85,80,NULL,NULL,Final,NULL,22,30,11,22,NULL,23,20,17,20,NULL,NBA
+72,260317011,2006,"Fri, Mar 17",Indiana Pacers,Sacramento Kings,"33-30, 20-11 Home","33-32, 11-21 Away",98,93,NULL,NULL,Final,NULL,20,21,34,23,NULL,36,16,24,17,NULL,NBA
+73,260321023,2006,"Tue, Mar 21",Sacramento Kings,Seattle SuperSonics,"34-33, 23-11 Home","26-40, 10-23 Away",105,96,NULL,NULL,Final,NULL,23,35,30,17,NULL,29,31,22,14,NULL,NBA
+74,260325026,2006,"Sat, Mar 25",Utah Jazz,Sacramento Kings,"32-37, 17-18 Home","35-34, 12-23 Away",89,91,NULL,NULL,Final,NULL,19,27,20,23,NULL,29,18,24,20,NULL,NBA
+75,260328023,2006,"Tue, Mar 28",Sacramento Kings,Washington Wizards,"35-36, 23-13 Home","37-33, 13-20 Away",84,97,NULL,NULL,Final,NULL,20,31,14,19,NULL,27,25,24,21,NULL,NBA
+76,260331009,2006,"Fri, Mar 31",Golden State Warriors,Sacramento Kings,"30-41, 18-19 Home","37-36, 14-23 Away",93,96,NULL,NULL,Final,NULL,32,13,19,29,NULL,25,29,16,26,NULL,NBA
+77,260404006,2006,"Tue, Apr 4",Dallas Mavericks,Sacramento Kings,"56-19, 32-6 Home","38-37, 14-24 Away",127,101,NULL,NULL,Final,NULL,26,37,38,26,NULL,22,19,35,25,NULL,NBA
+78,260407012,2006,"Fri, Apr 7",LA Clippers,Sacramento Kings,"44-31, 26-12 Home","40-37, 16-24 Away",93,96,NULL,NULL,Final,NULL,25,25,19,24,NULL,21,23,28,24,NULL,NBA
+79,260411023,2006,"Tue, Apr 11",Sacramento Kings,Phoenix Suns,"41-38, 25-14 Home","51-26, 22-16 Away",110,123,NULL,NULL,Final,NULL,30,38,16,26,NULL,23,28,33,39,NULL,NBA
+80,260416023,2006,"Sun, Apr 16",Sacramento Kings,NO/Oklahoma City Hornets,"43-38, 26-14 Home","38-42, 14-25 Away",96,79,NULL,NULL,Final,NULL,26,28,24,18,NULL,20,15,28,16,NULL,NBA
+81,260418023,2006,"Tue, Apr 18",Sacramento Kings,Seattle SuperSonics,"44-38, 27-14 Home","34-47, 13-28 Away",111,105,NULL,NULL,Final,NULL,28,32,26,25,NULL,21,33,35,16,NULL,NBA

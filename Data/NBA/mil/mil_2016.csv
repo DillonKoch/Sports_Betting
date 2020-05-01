@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,400827914,2016,"Fri, Oct 30",Milwaukee Bucks,Washington Wizards,"0-2, 0-2 Home","2-0, 2-0 Away",113,118,NULL,NULL,Final,NULL,33,32,27,21,NULL,22,39,21,36,NULL,NBA
+1,400827934,2016,"Mon, Nov 2",Brooklyn Nets,Milwaukee Bucks,"0-4, 0-2 Home","1-3, 1-1 Away",96,103,NULL,NULL,Final,NULL,33,15,32,16,NULL,33,26,21,23,NULL,NBA
+2,400827966,2016,"Fri, Nov 6",New York Knicks,Milwaukee Bucks,"2-4, 0-3 Home","3-3, 2-1 Away",92,99,NULL,NULL,Final,NULL,20,33,20,19,NULL,30,26,19,24,NULL,NBA
+3,400827997,2016,"Tue, Nov 10",Milwaukee Bucks,Boston Celtics,"4-4, 2-3 Home","3-3, 1-1 Away",83,99,NULL,NULL,Final,NULL,24,18,17,24,NULL,24,22,30,23,NULL,NBA
+4,400828028,2016,"Sat, Nov 14",Milwaukee Bucks,Cleveland Cavaliers,"5-5, 3-3 Home","8-2, 3-2 Away",108,105,NULL,NULL,Final/2OT,NULL,23,27,20,18,20,23,21,17,27,17,NBA
+5,400828063,2016,"Thu, Nov 19",Cleveland Cavaliers,Milwaukee Bucks,"9-3, 6-0 Home","5-7, 2-4 Away",115,100,NULL,NULL,Final,TNT,28,35,23,29,NULL,23,25,31,21,NULL,NBA
+6,400828092,2016,"Mon, Nov 23",Milwaukee Bucks,Detroit Pistons,"6-8, 4-3 Home","7-7, 4-5 Away",109,88,NULL,NULL,Final,NULL,25,33,30,21,NULL,26,22,14,26,NULL,NBA
+7,400828115,2016,"Fri, Nov 27",Orlando Magic,Milwaukee Bucks,"8-8, 6-3 Home","6-10, 2-6 Away",114,90,NULL,NULL,Final,NBATV,22,27,37,28,NULL,22,21,22,25,NULL,NBA
+8,400828145,2016,"Mon, Nov 30",Milwaukee Bucks,Denver Nuggets,"7-11, 5-4 Home","6-12, 3-6 Away",92,74,NULL,NULL,Final,NULL,28,18,21,25,NULL,23,21,16,14,NULL,NBA
+9,400828172,2016,"Fri, Dec 4",Detroit Pistons,Milwaukee Bucks,"11-9, 7-2 Home","7-13, 2-9 Away",102,95,NULL,NULL,Final,NULL,17,34,16,35,NULL,16,24,19,36,NULL,NBA
+10,400828197,2016,"Mon, Dec 7",Milwaukee Bucks,Portland Trail Blazers,"9-13, 7-4 Home","9-13, 4-8 Away",90,88,NULL,NULL,Final,NULL,25,17,18,30,NULL,16,17,29,26,NULL,NBA
+11,400828224,2016,"Fri, Dec 11",Toronto Raptors,Milwaukee Bucks,"15-9, 7-4 Home","9-15, 2-10 Away",90,83,NULL,NULL,Final,NULL,24,25,21,20,NULL,17,14,29,23,NULL,NBA
+12,400828257,2016,"Tue, Dec 15",Los Angeles Lakers,Milwaukee Bucks,"4-21, 2-6 Home","10-16, 2-11 Away",113,95,NULL,NULL,Final,NBATV,30,25,31,27,NULL,25,21,20,29,NULL,NBA
+13,400828284,2016,"Fri, Dec 18",Golden State Warriors,Milwaukee Bucks,"26-1, 12-0 Home","10-18, 2-13 Away",121,112,NULL,NULL,Final,NULL,33,25,27,36,NULL,36,34,23,19,NULL,NBA
+14,400828317,2016,"Wed, Dec 23",Milwaukee Bucks,Philadelphia 76ers,"12-18, 9-5 Home","1-30, 0-18 Away",113,100,NULL,NULL,Final,NULL,35,30,27,21,NULL,18,28,24,30,NULL,NBA
+15,400828351,2016,"Mon, Dec 28",Dallas Mavericks,Milwaukee Bucks,"18-13, 9-5 Home","12-20, 3-14 Away",103,93,NULL,NULL,Final,NULL,34,26,19,24,NULL,24,27,21,21,NULL,NBA
+16,400828371,2016,"Thu, Dec 31",Indiana Pacers,Milwaukee Bucks,"18-14, 11-5 Home","13-21, 4-15 Away",116,120,NULL,NULL,Final,NULL,24,28,25,39,NULL,33,26,30,31,NULL,NBA
+17,400828403,2016,"Mon, Jan 4",Milwaukee Bucks,San Antonio Spurs,"14-22, 9-7 Home","30-6, 10-6 Away",98,123,NULL,NULL,Final,NULL,30,19,26,23,NULL,29,31,30,33,NULL,NBA
+18,400828432,2016,"Fri, Jan 8",Milwaukee Bucks,Dallas Mavericks,"15-23, 10-7 Home","21-16, 10-10 Away",96,95,NULL,NULL,Final,NULL,28,27,24,17,NULL,18,21,36,20,NULL,NBA
+19,400828460,2016,"Tue, Jan 12",Milwaukee Bucks,Chicago Bulls,"16-24, 11-7 Home","22-15, 6-9 Away",106,101,NULL,NULL,Final,NBATV,20,26,28,32,NULL,29,22,26,24,NULL,NBA
+20,400828486,2016,"Fri, Jan 15",Milwaukee Bucks,Atlanta Hawks,"17-25, 12-7 Home","23-17, 10-10 Away",108,101,NULL,NULL,Final/OT,NULL,22,24,27,22,13,28,23,25,19,6,NBA
+21,400828512,2016,"Tue, Jan 19",Miami Heat,Milwaukee Bucks,"23-19, 15-9 Home","19-25, 7-18 Away",79,91,NULL,NULL,Final,NULL,18,21,18,22,NULL,19,30,26,16,NULL,NBA
+22,400828544,2016,"Sat, Jan 23",New Orleans Pelicans,Milwaukee Bucks,"16-27, 11-9 Home","19-27, 7-20 Away",116,99,NULL,NULL,Final,NULL,22,30,32,32,NULL,23,28,23,25,NULL,NBA
+23,400828582,2016,"Thu, Jan 28",Memphis Grizzlies,Milwaukee Bucks,"27-20, 18-7 Home","20-28, 7-21 Away",103,83,NULL,NULL,Final,NULL,23,27,26,27,NULL,27,14,21,21,NULL,NBA
+24,400828616,2016,"Mon, Feb 1",Sacramento Kings,Milwaukee Bucks,"21-27, 13-12 Home","20-30, 7-22 Away",111,104,NULL,NULL,Final,NBATV,25,28,21,37,NULL,32,24,18,30,NULL,NBA
+25,400828645,2016,"Fri, Feb 5",Utah Jazz,Milwaukee Bucks,"24-25, 17-10 Home","20-32, 7-24 Away",84,81,NULL,NULL,Final,NULL,18,22,21,23,NULL,19,25,16,21,NULL,NBA
+26,400828688,2016,"Thu, Feb 11",Milwaukee Bucks,Washington Wizards,"22-32, 15-8 Home","23-28, 12-12 Away",99,92,NULL,NULL,Final,NULL,18,37,14,30,NULL,27,19,24,22,NULL,NBA
+27,400828706,2016,"Sat, Feb 20",Atlanta Hawks,Milwaukee Bucks,"31-26, 17-11 Home","23-33, 8-24 Away",109,117,NULL,NULL,Final/2OT,NULL,29,21,18,26,15,31,23,21,19,23,NBA
+28,400828743,2016,"Thu, Feb 25",Boston Celtics,Milwaukee Bucks,"34-25, 18-10 Home","24-34, 8-25 Away",112,107,NULL,NULL,Final,NULL,35,27,26,24,NULL,25,27,21,34,NULL,NBA
+29,400828774,2016,"Mon, Feb 29",Milwaukee Bucks,Houston Rockets,"25-35, 17-10 Home","29-31, 13-17 Away",128,121,NULL,NULL,Final,NULL,32,33,27,36,NULL,26,38,28,29,NULL,NBA
+30,400828806,2016,"Fri, Mar 4",Milwaukee Bucks,Minnesota Timberwolves,"26-36, 18-11 Home","19-43, 9-22 Away",116,101,NULL,NULL,Final,NULL,29,33,36,18,NULL,35,21,25,20,NULL,NBA
+31,400828827,2016,"Mon, Mar 7",Chicago Bulls,Milwaukee Bucks,"32-30, 21-11 Home","26-38, 8-26 Away",100,90,NULL,NULL,Final,NULL,25,22,26,27,NULL,16,24,29,21,NULL,NBA
+32,400828865,2016,"Sat, Mar 12",Milwaukee Bucks,New Orleans Pelicans,"28-38, 20-12 Home","24-41, 7-26 Away",103,92,NULL,NULL,Final,NULL,33,22,22,26,NULL,28,24,19,21,NULL,NBA
+33,400828887,2016,"Tue, Mar 15",Milwaukee Bucks,Toronto Raptors,"29-39, 20-13 Home","45-21, 19-13 Away",89,107,NULL,NULL,Final,NULL,28,21,17,23,NULL,22,30,29,26,NULL,NBA
+34,400828928,2016,"Sun, Mar 20",Milwaukee Bucks,Utah Jazz,"30-40, 21-14 Home","34-36, 12-23 Away",85,94,NULL,NULL,Final,NULL,22,19,18,26,NULL,23,19,31,21,NULL,NBA
+35,400828946,2016,"Wed, Mar 23",Cleveland Cavaliers,Milwaukee Bucks,"51-20, 30-6 Home","30-42, 9-28 Away",113,104,NULL,NULL,Final,NULL,35,28,28,22,NULL,25,36,26,17,NULL,NBA
+36,400828976,2016,"Sat, Mar 26",Milwaukee Bucks,Charlotte Hornets,"30-44, 21-15 Home","42-31, 15-20 Away",91,115,NULL,NULL,Final,NULL,17,21,26,27,NULL,29,26,35,25,NULL,NBA
+37,400829020,2016,"Fri, Apr 1",Milwaukee Bucks,Orlando Magic,"32-44, 23-15 Home","32-44, 12-27 Away",113,110,NULL,NULL,Final,NULL,31,27,26,29,NULL,22,35,28,25,NULL,NBA
+38,400829046,2016,"Tue, Apr 5",Milwaukee Bucks,Cleveland Cavaliers,"32-46, 23-17 Home","56-22, 24-15 Away",80,109,NULL,NULL,Final,NULL,19,24,24,13,NULL,33,34,26,16,NULL,NBA
+39,400829084,2016,"Sun, Apr 10",Philadelphia 76ers,Milwaukee Bucks,"10-70, 7-34 Home","33-47, 10-30 Away",108,109,NULL,NULL,Final/OT,NULL,23,22,25,28,10,29,33,14,22,11,NBA
+40,400827899,2016,"Wed, Oct 28",Milwaukee Bucks,New York Knicks,"0-1, 0-1 Home","1-0, 1-0 Away",97,122,NULL,NULL,Final,NULL,23,28,22,24,NULL,27,36,27,32,NULL,NBA
+41,400827929,2016,"Sun, Nov 1",Toronto Raptors,Milwaukee Bucks,"3-0, 2-0 Home","0-3, 0-1 Away",106,87,NULL,NULL,Final,NBATV,24,31,26,25,NULL,19,22,30,16,NULL,NBA
+42,400827952,2016,"Wed, Nov 4",Milwaukee Bucks,Philadelphia 76ers,"2-3, 1-2 Home","0-4, 0-2 Away",91,87,NULL,NULL,Final,NULL,29,18,21,23,NULL,21,24,22,20,NULL,NBA
+43,400827976,2016,"Sat, Nov 7",Milwaukee Bucks,Brooklyn Nets,"4-3, 2-2 Home","0-7, 0-4 Away",94,86,NULL,NULL,Final,NULL,18,26,23,27,NULL,24,20,17,25,NULL,NBA
+44,400828008,2016,"Wed, Nov 11",Denver Nuggets,Milwaukee Bucks,"4-4, 2-2 Home","4-5, 2-2 Away",103,102,NULL,NULL,Final,NULL,25,28,34,16,NULL,32,32,16,22,NULL,NBA
+45,400828045,2016,"Tue, Nov 17",Washington Wizards,Milwaukee Bucks,"5-4, 3-2 Home","5-6, 2-3 Away",115,86,NULL,NULL,Final,NBATV,27,37,21,30,NULL,29,17,20,20,NULL,NBA
+46,400828077,2016,"Sat, Nov 21",Indiana Pacers,Milwaukee Bucks,"8-5, 5-2 Home","5-8, 2-5 Away",123,86,NULL,NULL,Final,NULL,28,27,35,33,NULL,25,26,16,19,NULL,NBA
+47,400828108,2016,"Wed, Nov 25",Milwaukee Bucks,Sacramento Kings,"6-9, 4-4 Home","6-10, 2-5 Away",118,129,NULL,NULL,Final,NULL,33,33,26,26,NULL,40,29,27,33,NULL,NBA
+48,400828133,2016,"Sun, Nov 29",Charlotte Hornets,Milwaukee Bucks,"10-7, 8-2 Home","6-11, 2-7 Away",87,82,NULL,NULL,Final,NULL,22,23,20,22,NULL,28,9,22,23,NULL,NBA
+49,400828162,2016,"Wed, Dec 2",San Antonio Spurs,Milwaukee Bucks,"15-4, 10-0 Home","7-12, 2-8 Away",95,70,NULL,NULL,Final,NULL,28,20,28,19,NULL,21,17,17,15,NULL,NBA
+50,400828182,2016,"Sat, Dec 5",Milwaukee Bucks,New York Knicks,"8-13, 6-4 Home","10-11, 5-5 Away",106,91,NULL,NULL,Final,NULL,29,23,29,25,NULL,24,24,21,22,NULL,NBA
+51,400828211,2016,"Wed, Dec 9",Milwaukee Bucks,LA Clippers,"9-14, 7-5 Home","13-9, 4-4 Away",95,109,NULL,NULL,Final,NULL,26,22,20,27,NULL,25,22,28,34,NULL,NBA
+52,400828238,2016,"Sat, Dec 12",Milwaukee Bucks,Golden State Warriors,"10-15, 8-5 Home","24-1, 14-1 Away",108,95,NULL,NULL,Final,NBATV,30,29,21,28,NULL,28,20,29,18,NULL,NBA
+53,400828269,2016,"Wed, Dec 16",LA Clippers,Milwaukee Bucks,"16-10, 10-5 Home","10-17, 2-12 Away",103,90,NULL,NULL,Final,NULL,29,25,24,25,NULL,21,22,23,24,NULL,NBA
+54,400828293,2016,"Sun, Dec 20",Phoenix Suns,Milwaukee Bucks,"12-17, 8-7 Home","11-18, 3-13 Away",95,101,NULL,NULL,Final,NULL,26,27,18,24,NULL,27,18,25,31,NULL,NBA
+55,400828328,2016,"Sat, Dec 26",Milwaukee Bucks,Toronto Raptors,"12-19, 9-6 Home","19-12, 10-7 Away",90,111,NULL,NULL,Final,NULL,17,35,27,11,NULL,22,34,20,35,NULL,NBA
+56,400828359,2016,"Tue, Dec 29",Oklahoma City Thunder,Milwaukee Bucks,"22-10, 15-4 Home","12-21, 3-15 Away",131,123,NULL,NULL,Final,NBATV,30,35,27,39,NULL,31,23,34,35,NULL,NBA
+57,400828387,2016,"Sat, Jan 2",Minnesota Timberwolves,Milwaukee Bucks,"12-22, 5-13 Home","14-21, 5-15 Away",85,95,NULL,NULL,Final,NULL,28,19,23,15,NULL,15,29,28,23,NULL,NBA
+58,400828409,2016,"Tue, Jan 5",Chicago Bulls,Milwaukee Bucks,"21-12, 15-5 Home","14-23, 5-16 Away",117,106,NULL,NULL,Final,NBATV,36,31,27,23,NULL,28,33,28,17,NULL,NBA
+59,400828449,2016,"Sun, Jan 10",New York Knicks,Milwaukee Bucks,"19-20, 10-8 Home","15-24, 5-17 Away",100,88,NULL,NULL,Final,NULL,24,27,31,18,NULL,24,17,19,28,NULL,NBA
+60,400828465,2016,"Wed, Jan 13",Washington Wizards,Milwaukee Bucks,"18-19, 9-11 Home","16-25, 5-18 Away",106,101,NULL,NULL,Final,NULL,29,27,15,35,NULL,18,25,31,27,NULL,NBA
+61,400828490,2016,"Sat, Jan 16",Charlotte Hornets,Milwaukee Bucks,"18-22, 14-8 Home","18-25, 6-18 Away",92,105,NULL,NULL,Final,NULL,29,19,23,21,NULL,19,33,32,21,NULL,NBA
+62,400828537,2016,"Fri, Jan 22",Houston Rockets,Milwaukee Bucks,"23-22, 14-11 Home","19-26, 7-19 Away",102,98,NULL,NULL,Final,NULL,31,26,22,23,NULL,28,17,21,32,NULL,NBA
+63,400828568,2016,"Tue, Jan 26",Milwaukee Bucks,Orlando Magic,"20-27, 13-7 Home","20-24, 8-13 Away",107,100,NULL,NULL,Final,NULL,23,30,29,25,NULL,30,26,22,22,NULL,NBA
+64,400828590,2016,"Fri, Jan 29",Milwaukee Bucks,Miami Heat,"20-29, 13-8 Home","26-21, 11-12 Away",103,107,NULL,NULL,Final,NULL,28,20,35,20,NULL,33,22,26,26,NULL,NBA
+65,400828620,2016,"Tue, Feb 2",Portland Trail Blazers,Milwaukee Bucks,"24-26, 15-10 Home","20-31, 7-23 Away",107,95,NULL,NULL,Final,NULL,27,29,23,28,NULL,19,30,24,22,NULL,NBA
+66,400828673,2016,"Tue, Feb 9",Milwaukee Bucks,Boston Celtics,"21-32, 14-8 Home","31-23, 15-13 Away",112,111,NULL,NULL,Final,NULL,26,27,40,19,NULL,30,24,20,37,NULL,NBA
+67,400828700,2016,"Fri, Feb 19",Milwaukee Bucks,Charlotte Hornets,"22-33, 15-9 Home","28-26, 9-17 Away",95,98,NULL,NULL,Final,NULL,25,27,26,17,NULL,28,24,18,28,NULL,NBA
+68,400828724,2016,"Mon, Feb 22",Milwaukee Bucks,Los Angeles Lakers,"24-33, 16-9 Home","11-47, 5-28 Away",108,101,NULL,NULL,Final,NULL,29,25,36,18,NULL,19,29,17,36,NULL,NBA
+69,400828760,2016,"Sat, Feb 27",Milwaukee Bucks,Detroit Pistons,"24-35, 16-10 Home","30-29, 13-18 Away",91,102,NULL,NULL,Final,NULL,24,25,24,18,NULL,34,25,21,22,NULL,NBA
+70,400828790,2016,"Wed, Mar 2",Milwaukee Bucks,Indiana Pacers,"25-36, 17-11 Home","32-29, 14-18 Away",99,104,NULL,NULL,Final,NULL,22,17,24,36,NULL,22,27,24,31,NULL,NBA
+71,400828817,2016,"Sun, Mar 6",Milwaukee Bucks,Oklahoma City Thunder,"26-37, 18-12 Home","43-20, 18-12 Away",96,104,NULL,NULL,Final,NULL,12,36,31,17,NULL,32,32,20,20,NULL,NBA
+72,400828839,2016,"Wed, Mar 9",Milwaukee Bucks,Miami Heat,"27-38, 19-12 Home","37-27, 16-15 Away",114,108,NULL,NULL,Final,NULL,29,28,23,34,NULL,22,32,31,23,NULL,NBA
+73,400828872,2016,"Sun, Mar 13",Brooklyn Nets,Milwaukee Bucks,"18-48, 11-23 Home","29-38, 9-26 Away",100,109,NULL,NULL,Final,NULL,25,26,28,21,NULL,27,23,28,31,NULL,NBA
+74,400828904,2016,"Thu, Mar 17",Milwaukee Bucks,Memphis Grizzlies,"30-39, 21-13 Home","39-30, 15-19 Away",96,86,NULL,NULL,Final,NULL,32,15,21,28,NULL,32,21,20,13,NULL,NBA
+75,400828934,2016,"Mon, Mar 21",Detroit Pistons,Milwaukee Bucks,"37-34, 22-12 Home","30-41, 9-27 Away",92,91,NULL,NULL,Final,NULL,17,28,20,27,NULL,30,18,26,17,NULL,NBA
+76,400828963,2016,"Fri, Mar 25",Atlanta Hawks,Milwaukee Bucks,"43-30, 24-13 Home","30-43, 9-29 Away",101,90,NULL,NULL,Final,NULL,29,22,24,26,NULL,21,25,25,19,NULL,NBA
+77,400829002,2016,"Wed, Mar 30",Milwaukee Bucks,Phoenix Suns,"31-44, 22-15 Home","20-55, 7-31 Away",105,94,NULL,NULL,Final,NULL,28,25,27,25,NULL,32,15,28,19,NULL,NBA
+78,400829037,2016,"Sun, Apr 3",Milwaukee Bucks,Chicago Bulls,"32-45, 23-16 Home","39-38, 15-23 Away",98,102,NULL,NULL,Final,NULL,24,17,32,25,NULL,24,33,22,23,NULL,NBA
+79,400829068,2016,"Fri, Apr 8",Boston Celtics,Milwaukee Bucks,"47-32, 27-12 Home","32-47, 9-30 Away",124,109,NULL,NULL,Final,NULL,30,35,36,23,NULL,35,23,22,29,NULL,NBA
+80,400829091,2016,"Mon, Apr 11",Orlando Magic,Milwaukee Bucks,"35-46, 23-18 Home","33-48, 10-31 Away",107,98,NULL,NULL,Final,NULL,32,26,27,22,NULL,22,22,29,25,NULL,NBA
+81,400829112,2016,"Wed, Apr 13",Milwaukee Bucks,Indiana Pacers,"33-49, 23-18 Home","45-37, 19-22 Away",92,97,NULL,NULL,Final,NULL,20,26,24,22,NULL,37,25,16,19,NULL,NBA

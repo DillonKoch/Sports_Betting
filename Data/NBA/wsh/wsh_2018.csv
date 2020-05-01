@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,400974773,2018,"Fri, Oct 20",Washington Wizards,Detroit Pistons,"2-0, 2-0 Home","1-1, 0-1 Away",115,111,NULL,NULL,Final,NULL,29,29,33,24,NULL,31,34,16,30,NULL,NBA
+1,400974815,2018,"Wed, Oct 25",Los Angeles Lakers,Washington Wizards,"2-2, 1-2 Home","3-1, 1-1 Away",102,99,NULL,NULL,Final/OT,ESPN,23,22,24,23,10,18,31,30,13,7,NBA
+2,400974840,2018,"Sun, Oct 29",Sacramento Kings,Washington Wizards,"1-5, 0-3 Home","4-2, 2-2 Away",83,110,NULL,NULL,Final,NULL,16,16,28,23,NULL,35,28,25,22,NULL,NBA
+3,400974873,2018,"Fri, Nov 3",Washington Wizards,Cleveland Cavaliers,"4-4, 2-2 Home","4-5, 2-2 Away",122,130,NULL,NULL,Final,ESPN,36,30,27,29,NULL,42,32,30,26,NULL,NBA
+4,400974902,2018,"Tue, Nov 7",Washington Wizards,Dallas Mavericks,"5-5, 2-3 Home","2-10, 1-5 Away",99,113,NULL,NULL,Final,NULL,34,19,23,23,NULL,36,28,26,23,NULL,NBA
+5,400974928,2018,"Sat, Nov 11",Washington Wizards,Atlanta Hawks,"7-5, 4-3 Home","2-11, 2-7 Away",113,94,NULL,NULL,Final,NULL,20,29,27,37,NULL,19,23,25,27,NULL,NBA
+6,400974956,2018,"Wed, Nov 15",Miami Heat,Washington Wizards,"6-8, 3-4 Home","9-5, 4-2 Away",93,102,NULL,NULL,Final,NULL,19,30,25,19,NULL,30,31,10,31,NULL,NBA
+7,400974988,2018,"Sun, Nov 19",Toronto Raptors,Washington Wizards,"11-5, 6-1 Home","9-7, 4-3 Away",100,91,NULL,NULL,Final,NULL,28,32,19,21,NULL,28,27,21,15,NULL,NBA
+8,400975004,2018,"Wed, Nov 22",Charlotte Hornets,Washington Wizards,"8-9, 7-2 Home","10-8, 5-4 Away",129,124,NULL,NULL,Final/OT,NULL,25,30,29,30,15,26,33,29,26,10,NBA
+9,400975051,2018,"Tue, Nov 28",Minnesota Timberwolves,Washington Wizards,"12-9, 7-4 Home","11-9, 6-4 Away",89,92,NULL,NULL,Final,NULL,30,21,20,18,NULL,23,20,25,24,NULL,NBA
+10,400975071,2018,"Fri, Dec 1",Washington Wizards,Detroit Pistons,"12-10, 6-5 Home","14-7, 6-5 Away",109,91,NULL,NULL,Final,NULL,26,20,35,28,NULL,26,26,15,24,NULL,NBA
+11,400975103,2018,"Tue, Dec 5",Portland Trail Blazers,Washington Wizards,"13-11, 7-7 Home","13-11, 7-6 Away",92,106,NULL,NULL,Final,NBATV,22,15,29,26,NULL,24,27,28,27,NULL,NBA
+12,400975126,2018,"Sat, Dec 9",LA Clippers,Washington Wizards,"9-15, 5-7 Home","14-12, 8-7 Away",113,112,NULL,NULL,Final,NULL,30,32,23,28,NULL,27,22,32,31,NULL,NBA
+13,400975157,2018,"Wed, Dec 13",Washington Wizards,Memphis Grizzlies,"15-13, 7-5 Home","8-20, 3-9 Away",93,87,NULL,NULL,Final,NULL,22,19,19,33,NULL,12,17,28,30,NULL,NBA
+14,400975191,2018,"Sun, Dec 17",Washington Wizards,Cleveland Cavaliers,"16-14, 8-6 Home","23-8, 10-4 Away",99,106,NULL,NULL,Final,NULL,23,37,23,16,NULL,27,33,23,23,NULL,NBA
+15,400975224,2018,"Fri, Dec 22",Brooklyn Nets,Washington Wizards,"12-19, 7-10 Home","17-15, 8-9 Away",119,84,NULL,NULL,Final,NULL,26,27,35,31,NULL,23,20,18,23,NULL,NBA
+16,400974447,2018,"Mon, Dec 25",Boston Celtics,Washington Wizards,"27-10, 14-5 Home","19-15, 9-9 Away",103,111,NULL,NULL,Final,ABC,24,26,26,27,NULL,30,22,28,31,NULL,NBA
+17,400975267,2018,"Fri, Dec 29",Washington Wizards,Houston Rockets,"20-16, 11-6 Home","25-9, 12-4 Away",121,103,NULL,NULL,Final,NBATV,27,32,28,34,NULL,23,25,30,25,NULL,NBA
+18,400975302,2018,"Wed, Jan 3",Washington Wizards,New York Knicks,"22-16, 13-6 Home","18-20, 3-13 Away",121,103,NULL,NULL,Final,NULL,33,31,26,31,NULL,32,31,14,26,NULL,NBA
+19,400975329,2018,"Sat, Jan 6",Washington Wizards,Milwaukee Bucks,"23-17, 13-7 Home","21-17, 8-10 Away",103,110,NULL,NULL,Final,NULL,32,21,32,18,NULL,24,29,29,28,NULL,NBA
+20,400975366,2018,"Fri, Jan 12",Washington Wizards,Orlando Magic,"24-18, 14-8 Home","12-31, 5-19 Away",125,119,NULL,NULL,Final,NULL,34,31,33,27,NULL,33,30,35,21,NULL,NBA
+21,400975386,2018,"Mon, Jan 15",Washington Wizards,Milwaukee Bucks,"25-19, 15-9 Home","23-20, 9-12 Away",95,104,NULL,NULL,Final,NULL,30,21,21,23,NULL,28,25,25,26,NULL,NBA
+22,400975415,2018,"Fri, Jan 19",Detroit Pistons,Washington Wizards,"22-22, 13-7 Home","26-20, 11-11 Away",112,122,NULL,NULL,Final,ESPN,29,17,28,38,NULL,19,27,45,31,NULL,NBA
+23,400975457,2018,"Thu, Jan 25",Oklahoma City Thunder,Washington Wizards,"28-20, 18-7 Home","26-22, 11-13 Away",121,112,NULL,NULL,Final,TNT,25,29,28,39,NULL,20,20,34,38,NULL,NBA
+24,400975490,2018,"Tue, Jan 30",Washington Wizards,Oklahoma City Thunder,"28-22, 16-9 Home","30-21, 11-14 Away",102,96,NULL,NULL,Final,NULL,30,23,22,27,NULL,25,29,22,20,NULL,NBA
+25,400975524,2018,"Sat, Feb 3",Orlando Magic,Washington Wizards,"15-36, 9-14 Home","30-22, 13-13 Away",98,115,NULL,NULL,Final,NULL,25,22,22,29,NULL,31,25,31,28,NULL,NBA
+26,400975548,2018,"Tue, Feb 6",Philadelphia 76ers,Washington Wizards,"26-25, 14-10 Home","31-23, 14-14 Away",115,102,NULL,NULL,Final,TNT,37,28,29,21,NULL,20,35,29,18,NULL,NBA
+27,400975575,2018,"Sat, Feb 10",Chicago Bulls,Washington Wizards,"19-36, 12-15 Home","32-24, 15-14 Away",90,101,NULL,NULL,Final,NULL,22,24,24,20,NULL,30,26,26,19,NULL,NBA
+28,400975615,2018,"Thu, Feb 22",Cleveland Cavaliers,Washington Wizards,"34-23, 20-8 Home","34-24, 17-14 Away",103,110,NULL,NULL,Final,TNT,31,23,25,24,NULL,22,35,25,28,NULL,NBA
+29,400975641,2018,"Sun, Feb 25",Washington Wizards,Philadelphia 76ers,"35-25, 18-11 Home","32-26, 13-16 Away",109,94,NULL,NULL,Final,ESPN,30,37,20,22,NULL,28,20,25,21,NULL,NBA
+30,400975663,2018,"Wed, Feb 28",Washington Wizards,Golden State Warriors,"36-26, 18-12 Home","48-14, 24-7 Away",101,109,NULL,NULL,Final,ESPN,21,35,14,31,NULL,36,22,27,24,NULL,NBA
+31,400975691,2018,"Sun, Mar 4",Washington Wizards,Indiana Pacers,"36-28, 18-14 Home","36-27, 15-16 Away",95,98,NULL,NULL,Final,NULL,20,25,20,30,NULL,30,25,25,18,NULL,NBA
+32,400975728,2018,"Fri, Mar 9",New Orleans Pelicans,Washington Wizards,"38-27, 17-13 Home","38-28, 19-14 Away",97,116,NULL,NULL,Final,NBATV,19,19,24,35,NULL,22,31,30,33,NULL,NBA
+33,400975752,2018,"Tue, Mar 13",Washington Wizards,Minnesota Timberwolves,"38-30, 19-15 Home","40-29, 14-21 Away",111,116,NULL,NULL,Final,NBATV,26,33,31,21,NULL,25,28,29,34,NULL,NBA
+34,400975781,2018,"Sat, Mar 17",Washington Wizards,Indiana Pacers,"40-30, 20-15 Home","40-30, 17-17 Away",109,102,NULL,NULL,Final,NULL,25,32,29,23,NULL,20,25,26,31,NULL,NBA
+35,400975825,2018,"Fri, Mar 23",Washington Wizards,Denver Nuggets,"40-32, 20-16 Home","40-33, 13-23 Away",100,108,NULL,NULL,Final,NBATV,16,27,33,24,NULL,23,32,23,30,NULL,NBA
+36,400975854,2018,"Tue, Mar 27",Washington Wizards,San Antonio Spurs,"41-33, 21-17 Home","43-32, 14-24 Away",116,106,NULL,NULL,Final,NULL,21,38,29,28,NULL,24,21,21,40,NULL,NBA
+37,400975884,2018,"Sat, Mar 31",Washington Wizards,Charlotte Hornets,"42-34, 22-17 Home","34-43, 13-25 Away",107,93,NULL,NULL,Final,NBATV,30,20,37,20,NULL,27,24,23,19,NULL,NBA
+38,400975907,2018,"Tue, Apr 3",Houston Rockets,Washington Wizards,"63-15, 33-6 Home","42-36, 20-19 Away",120,104,NULL,NULL,Final,NULL,35,36,24,25,NULL,24,25,26,29,NULL,NBA
+39,400975930,2018,"Fri, Apr 6",Washington Wizards,Atlanta Hawks,"42-38, 22-18 Home","23-57, 7-33 Away",97,103,NULL,NULL,Final,NULL,22,26,29,20,NULL,21,31,29,22,NULL,NBA
+40,400974439,2018,"Wed, Oct 18",Washington Wizards,Philadelphia 76ers,"1-0, 1-0 Home","0-1, 0-1 Away",120,115,NULL,NULL,Final,ESPN,32,24,34,30,NULL,23,36,23,33,NULL,NBA
+41,400974798,2018,"Mon, Oct 23",Denver Nuggets,Washington Wizards,"1-2, 1-1 Home","3-0, 1-0 Away",104,109,NULL,NULL,Final,NULL,29,26,22,27,NULL,29,27,22,31,NULL,NBA
+42,400974826,2018,"Fri, Oct 27",Golden State Warriors,Washington Wizards,"4-2, 2-1 Home","3-2, 1-2 Away",120,117,NULL,NULL,Final,NBATV,27,26,34,33,NULL,34,33,30,20,NULL,NBA
+43,400974859,2018,"Wed, Nov 1",Washington Wizards,Phoenix Suns,"4-3, 2-1 Home","4-4, 2-2 Away",116,122,NULL,NULL,Final,NULL,32,32,26,26,NULL,15,37,35,35,NULL,NBA
+44,400974890,2018,"Sun, Nov 5",Toronto Raptors,Washington Wizards,"5-4, 2-1 Home","5-4, 3-2 Away",96,107,NULL,NULL,Final,NULL,17,29,30,20,NULL,32,30,22,23,NULL,NBA
+45,400974915,2018,"Thu, Nov 9",Washington Wizards,Los Angeles Lakers,"6-5, 3-3 Home","5-7, 1-4 Away",111,95,NULL,NULL,Final,NULL,37,32,22,20,NULL,34,22,21,18,NULL,NBA
+46,400974943,2018,"Mon, Nov 13",Washington Wizards,Sacramento Kings,"8-5, 5-3 Home","3-10, 1-7 Away",110,92,NULL,NULL,Final,NBATV,25,32,29,24,NULL,32,19,20,21,NULL,NBA
+47,400974969,2018,"Fri, Nov 17",Washington Wizards,Miami Heat,"9-6, 5-4 Home","7-8, 4-4 Away",88,91,NULL,NULL,Final,NULL,17,12,28,31,NULL,26,24,16,25,NULL,NBA
+48,400974998,2018,"Mon, Nov 20",Milwaukee Bucks,Washington Wizards,"8-8, 5-4 Home","10-7, 5-3 Away",88,99,NULL,NULL,Final,NULL,19,27,20,22,NULL,27,20,26,26,NULL,NBA
+49,400975030,2018,"Sat, Nov 25",Washington Wizards,Portland Trail Blazers,"10-9, 5-5 Home","12-8, 5-4 Away",105,108,NULL,NULL,Final,NULL,30,22,31,22,NULL,27,14,32,35,NULL,NBA
+50,400975056,2018,"Wed, Nov 29",Philadelphia 76ers,Washington Wizards,"12-8, 6-4 Home","11-10, 6-5 Away",118,113,NULL,NULL,Final,NBATV,28,30,26,34,NULL,18,22,25,48,NULL,NBA
+51,400975100,2018,"Mon, Dec 4",Utah Jazz,Washington Wizards,"13-11, 11-4 Home","12-11, 6-6 Away",116,69,NULL,NULL,Final,NULL,29,35,24,28,NULL,15,15,22,17,NULL,NBA
+52,400975115,2018,"Thu, Dec 7",Phoenix Suns,Washington Wizards,"9-18, 4-10 Home","14-11, 8-6 Away",99,109,NULL,NULL,Final,NULL,28,24,32,15,NULL,26,31,28,24,NULL,NBA
+53,400975151,2018,"Tue, Dec 12",Brooklyn Nets,Washington Wizards,"11-15, 6-7 Home","14-13, 8-8 Away",103,98,NULL,NULL,Final,NULL,30,21,28,24,NULL,22,29,27,20,NULL,NBA
+54,400975173,2018,"Fri, Dec 15",Washington Wizards,LA Clippers,"16-13, 8-5 Home","11-16, 5-9 Away",100,91,NULL,NULL,Final,NULL,25,23,27,25,NULL,18,25,21,27,NULL,NBA
+55,400975203,2018,"Tue, Dec 19",Washington Wizards,New Orleans Pelicans,"17-14, 9-6 Home","15-16, 7-9 Away",116,106,NULL,NULL,Final,NULL,36,25,32,23,NULL,19,36,15,36,NULL,NBA
+56,400975234,2018,"Sat, Dec 23",Washington Wizards,Orlando Magic,"18-15, 10-6 Home","11-23, 5-14 Away",130,103,NULL,NULL,Final,NULL,37,35,28,30,NULL,29,19,35,20,NULL,NBA
+57,400975254,2018,"Wed, Dec 27",Atlanta Hawks,Washington Wizards,"9-25, 6-11 Home","19-16, 9-10 Away",113,99,NULL,NULL,Final,NULL,29,26,23,35,NULL,29,28,19,23,NULL,NBA
+58,400975283,2018,"Sun, Dec 31",Washington Wizards,Chicago Bulls,"21-16, 12-6 Home","13-23, 4-15 Away",114,110,NULL,NULL,Final,NULL,30,29,24,31,NULL,38,25,26,21,NULL,NBA
+59,400975321,2018,"Fri, Jan 5",Memphis Grizzlies,Washington Wizards,"12-27, 7-13 Home","23-16, 10-10 Away",100,102,NULL,NULL,Final,ESPN,24,26,22,28,NULL,33,25,29,15,NULL,NBA
+60,400975351,2018,"Wed, Jan 10",Washington Wizards,Utah Jazz,"23-18, 13-8 Home","17-24, 4-17 Away",104,107,NULL,NULL,Final,NULL,32,18,27,27,NULL,25,21,37,24,NULL,NBA
+61,400975376,2018,"Sat, Jan 13",Washington Wizards,Brooklyn Nets,"25-18, 15-8 Home","16-27, 7-14 Away",119,113,NULL,NULL,Final/OT,NULL,33,26,24,24,12,18,21,35,33,6,NBA
+62,400975399,2018,"Wed, Jan 17",Charlotte Hornets,Washington Wizards,"18-25, 12-12 Home","25-20, 10-11 Away",133,109,NULL,NULL,Final,NULL,38,39,25,31,NULL,36,25,18,30,NULL,NBA
+63,400975439,2018,"Mon, Jan 22",Dallas Mavericks,Washington Wizards,"16-31, 10-15 Home","26-21, 11-12 Away",98,75,NULL,NULL,Final,NULL,22,31,18,27,NULL,22,15,17,21,NULL,NBA
+64,400975472,2018,"Sat, Jan 27",Atlanta Hawks,Washington Wizards,"14-35, 10-15 Home","27-22, 12-13 Away",104,129,NULL,NULL,Final,NULL,18,27,26,33,NULL,27,34,31,37,NULL,NBA
+65,400975508,2018,"Thu, Feb 1",Washington Wizards,Toronto Raptors,"29-22, 17-9 Home","34-16, 15-12 Away",122,119,NULL,NULL,Final,NULL,27,28,33,34,NULL,34,28,25,32,NULL,NBA
+66,400975537,2018,"Mon, Feb 5",Indiana Pacers,Washington Wizards,"30-25, 19-11 Home","31-22, 14-13 Away",102,111,NULL,NULL,Final,NULL,23,26,25,28,NULL,28,30,28,25,NULL,NBA
+67,400975559,2018,"Thu, Feb 8",Washington Wizards,Boston Celtics,"31-24, 17-10 Home","40-16, 19-8 Away",104,110,NULL,NULL,Final/OT,TNT,27,24,19,28,6,26,23,26,23,12,NBA
+68,400975603,2018,"Wed, Feb 14",New York Knicks,Washington Wizards,"23-36, 16-12 Home","33-24, 16-14 Away",113,118,NULL,NULL,Final,NULL,39,33,15,26,NULL,26,25,39,28,NULL,NBA
+69,400975621,2018,"Fri, Feb 23",Washington Wizards,Charlotte Hornets,"34-25, 17-11 Home","26-33, 10-18 Away",105,122,NULL,NULL,Final,NULL,26,29,27,23,NULL,36,31,27,28,NULL,NBA
+70,400975656,2018,"Tue, Feb 27",Milwaukee Bucks,Washington Wizards,"33-27, 19-12 Home","36-25, 18-14 Away",104,107,NULL,NULL,Final,TNT,22,28,31,23,NULL,40,24,20,23,NULL,NBA
+71,400975675,2018,"Fri, Mar 2",Washington Wizards,Toronto Raptors,"36-27, 18-13 Home","44-17, 19-12 Away",95,102,NULL,NULL,Final,ESPN,27,20,27,21,NULL,19,32,26,25,NULL,NBA
+72,400975705,2018,"Tue, Mar 6",Washington Wizards,Miami Heat,"37-28, 19-14 Home","34-31, 16-18 Away",117,113,NULL,NULL,Final/OT,NULL,31,28,27,19,12,26,24,30,25,8,NBA
+73,400975734,2018,"Sat, Mar 10",Miami Heat,Washington Wizards,"36-31, 20-13 Home","38-29, 19-15 Away",129,102,NULL,NULL,Final,NULL,26,34,43,26,NULL,20,28,28,26,NULL,NBA
+74,400975763,2018,"Wed, Mar 14",Boston Celtics,Washington Wizards,"46-22, 23-13 Home","39-30, 20-15 Away",124,125,NULL,NULL,Final/2OT,ESPN,37,22,21,26,18,23,29,29,25,19,NBA
+75,400975817,2018,"Wed, Mar 21",San Antonio Spurs,Washington Wizards,"42-30, 28-8 Home","40-31, 20-16 Away",98,90,NULL,NULL,Final,ESPN,18,32,27,21,NULL,18,26,16,30,NULL,NBA
+76,400975844,2018,"Sun, Mar 25",Washington Wizards,New York Knicks,"40-33, 20-17 Home","27-47, 9-29 Away",97,101,NULL,NULL,Final,NBATV,21,32,18,26,NULL,19,42,16,24,NULL,NBA
+77,400975870,2018,"Thu, Mar 29",Detroit Pistons,Washington Wizards,"35-40, 24-14 Home","41-34, 20-17 Away",103,92,NULL,NULL,Final,NULL,23,26,32,22,NULL,24,25,17,26,NULL,NBA
+78,400975890,2018,"Sun, Apr 1",Chicago Bulls,Washington Wizards,"26-51, 16-22 Home","42-35, 20-18 Away",113,94,NULL,NULL,Final,NULL,36,32,19,26,NULL,27,32,16,19,NULL,NBA
+79,400975922,2018,"Thu, Apr 5",Cleveland Cavaliers,Washington Wizards,"49-30, 29-11 Home","42-37, 20-20 Away",119,115,NULL,NULL,Final,TNT,39,20,23,37,NULL,26,28,36,25,NULL,NBA
+80,400975961,2018,"Tue, Apr 10",Washington Wizards,Boston Celtics,"43-38, 23-18 Home","54-27, 28-13 Away",113,101,NULL,NULL,Final,TNT,22,30,27,34,NULL,30,24,18,29,NULL,NBA
+81,400975968,2018,"Wed, Apr 11",Orlando Magic,Washington Wizards,"25-57, 17-24 Home","43-39, 20-21 Away",101,92,NULL,NULL,Final,NULL,26,29,21,25,NULL,23,22,30,17,NULL,NBA

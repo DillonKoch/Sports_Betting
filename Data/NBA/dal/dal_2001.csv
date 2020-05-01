@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,201102006,2001,"Thu, Nov 2",Dallas Mavericks,Indiana Pacers,"2-0, 2-0 Home","0-2, 0-2 Away",94,88,NULL,NULL,Final,NULL,32,15,21,26,NULL,19,24,20,25,NULL,NBA
+1,201106007,2001,"Mon, Nov 6",Denver Nuggets,Dallas Mavericks,"1-3, 1-2 Home","3-1, 1-0 Away",96,108,NULL,NULL,Final,NULL,25,21,23,27,NULL,28,29,18,33,NULL,NBA
+2,201110006,2001,"Fri, Nov 10",Dallas Mavericks,San Antonio Spurs,"4-2, 3-2 Home","4-2, 1-2 Away",79,77,NULL,NULL,Final,NULL,24,16,21,18,NULL,19,16,23,19,NULL,NBA
+3,201113012,2001,"Mon, Nov 13",Los Angeles Clippers,Dallas Mavericks,"2-6, 2-3 Home","5-3, 2-1 Away",76,90,NULL,NULL,Final,NULL,21,17,20,18,NULL,28,22,24,16,NULL,NBA
+4,201117025,2001,"Fri, Nov 17",Seattle SuperSonics,Dallas Mavericks,"3-7, 2-2 Home","6-4, 3-2 Away",95,99,NULL,NULL,Final,NULL,28,30,21,16,NULL,29,16,27,27,NULL,NBA
+5,201120026,2001,"Mon, Nov 20",Utah Jazz,Dallas Mavericks,"7-3, 4-2 Home","8-4, 5-2 Away",98,107,NULL,NULL,Final,NULL,22,26,25,25,NULL,22,34,30,21,NULL,NBA
+6,201125006,2001,"Sat, Nov 25",Dallas Mavericks,Denver Nuggets,"9-5, 4-3 Home","7-7, 1-5 Away",108,84,NULL,NULL,Final,NULL,31,21,28,28,NULL,29,14,19,22,NULL,NBA
+7,201130022,2001,"Thu, Nov 30",Portland Trail Blazers,Dallas Mavericks,"11-6, 5-2 Home","10-6, 5-3 Away",95,84,NULL,NULL,Final,NULL,27,25,27,16,NULL,19,26,23,16,NULL,NBA
+8,201203013,2001,"Sun, Dec 3",Los Angeles Lakers,Dallas Mavericks,"13-5, 9-1 Home","11-7, 6-4 Away",99,97,NULL,NULL,Final,NULL,23,24,24,28,NULL,19,18,26,34,NULL,NBA
+9,201206006,2001,"Wed, Dec 6",Dallas Mavericks,New York Knicks,"12-8, 6-3 Home","12-8, 6-4 Away",94,85,NULL,NULL,Final,NULL,32,23,15,24,NULL,11,24,23,27,NULL,NBA
+10,201210017,2001,"Sun, Dec 10",New Jersey Nets,Dallas Mavericks,"7-14, 4-8 Home","14-8, 7-5 Away",73,99,NULL,NULL,Final,NULL,22,21,19,11,NULL,30,21,27,21,NULL,NBA
+11,201213011,2001,"Wed, Dec 13",Indiana Pacers,Dallas Mavericks,"11-11, 7-3 Home","14-10, 7-7 Away",97,92,NULL,NULL,Final,NULL,24,19,29,25,NULL,30,15,24,23,NULL,NBA
+12,201217008,2001,"Sun, Dec 17",Detroit Pistons,Dallas Mavericks,"10-14, 6-6 Home","16-10, 9-7 Away",90,99,NULL,NULL,Final,NULL,16,29,20,25,NULL,31,16,19,33,NULL,NBA
+13,201220006,2001,"Wed, Dec 20",Dallas Mavericks,Portland Trail Blazers,"18-10, 8-3 Home","17-9, 8-6 Away",106,101,NULL,NULL,Final,NULL,26,24,26,30,NULL,28,23,27,23,NULL,NBA
+14,201226006,2001,"Tue, Dec 26",Dallas Mavericks,Seattle SuperSonics,"19-11, 9-4 Home","15-14, 6-10 Away",114,93,NULL,NULL,Final,NULL,26,31,35,22,NULL,19,32,29,13,NULL,NBA
+15,201230006,2001,"Sat, Dec 30",Dallas Mavericks,Houston Rockets,"20-12, 10-5 Home","14-15, 7-7 Away",99,114,NULL,NULL,Final,NULL,14,17,30,38,NULL,25,28,23,38,NULL,NBA
+16,210105028,2001,"Fri, Jan 5",Toronto Raptors,Dallas Mavericks,"15-17, 9-7 Home","21-13, 11-7 Away",105,115,NULL,NULL,Final,NULL,34,28,20,23,NULL,27,27,33,28,NULL,NBA
+17,210108004,2001,"Mon, Jan 8",Chicago Bulls,Dallas Mavericks,"6-27, 4-13 Home","23-13, 13-7 Away",91,104,NULL,NULL,Final,NULL,24,26,22,19,NULL,29,26,25,24,NULL,NBA
+18,210111015,2001,"Thu, Jan 11",Milwaukee Bucks,Dallas Mavericks,"20-15, 13-5 Home","24-14, 14-8 Away",102,94,NULL,NULL,Final,NULL,36,19,25,22,NULL,29,18,23,24,NULL,NBA
+19,210115006,2001,"Mon, Jan 15",Dallas Mavericks,Sacramento Kings,"24-16, 10-8 Home","25-10, 9-7 Away",105,116,NULL,NULL,Final,NULL,33,25,18,29,NULL,39,26,30,21,NULL,NBA
+20,210118006,2001,"Thu, Jan 18",Dallas Mavericks,Orlando Magic,"26-16, 11-8 Home","17-21, 6-13 Away",115,106,NULL,NULL,Final/OT,NULL,15,29,23,32,16,37,17,18,27,7,NBA
+21,210123006,2001,"Tue, Jan 23",Dallas Mavericks,Philadelphia 76ers,"27-17, 12-9 Home","31-10, 18-4 Away",98,114,NULL,NULL,Final,NULL,20,28,23,27,NULL,32,19,30,33,NULL,NBA
+22,210127007,2001,"Sat, Jan 27",Denver Nuggets,Dallas Mavericks,"26-18, 20-5 Home","28-18, 15-9 Away",102,100,NULL,NULL,Final,NULL,32,21,28,21,NULL,22,36,16,26,NULL,NBA
+23,210203006,2001,"Sat, Feb 3",Dallas Mavericks,Golden State Warriors,"30-18, 15-9 Home","14-32, 5-18 Away",101,95,NULL,NULL,Final,NULL,28,22,24,27,NULL,25,27,16,27,NULL,NBA
+24,210207018,2001,"Wed, Feb 7",New York Knicks,Dallas Mavericks,"29-18, 15-9 Home","31-19, 16-10 Away",96,93,NULL,NULL,Final/2OT,NULL,19,21,21,19,16,20,20,24,16,13,NBA
+25,210215006,2001,"Thu, Feb 15",Dallas Mavericks,Cleveland Cavaliers,"32-20, 16-9 Home","20-29, 7-18 Away",102,81,NULL,NULL,Final,NULL,31,21,23,27,NULL,21,25,15,20,NULL,NBA
+26,210220006,2001,"Tue, Feb 20",Dallas Mavericks,Los Angeles Lakers,"33-21, 17-10 Home","34-18, 14-12 Away",109,119,NULL,NULL,Final,NULL,26,29,23,31,NULL,25,34,30,30,NULL,NBA
+27,210224006,2001,"Sat, Feb 24",Dallas Mavericks,San Antonio Spurs,"34-22, 18-11 Home","37-18, 15-13 Away",104,107,NULL,NULL,Final,NULL,28,17,26,33,NULL,21,31,21,34,NULL,NBA
+28,210227029,2001,"Tue, Feb 27",Vancouver Grizzlies,Dallas Mavericks,"18-40, 12-18 Home","36-22, 18-11 Away",112,116,NULL,NULL,Final,NULL,24,33,26,29,NULL,41,24,22,29,NULL,NBA
+29,210305019,2001,"Mon, Mar 5",Orlando Magic,Dallas Mavericks,"32-27, 20-10 Home","37-23, 18-12 Away",95,81,NULL,NULL,Final,NULL,24,20,27,24,NULL,19,28,22,12,NULL,NBA
+30,210309006,2001,"Fri, Mar 9",Dallas Mavericks,Golden State Warriors,"39-23, 20-11 Home","16-46, 6-27 Away",102,73,NULL,NULL,Final,NULL,34,18,21,29,NULL,23,20,15,15,NULL,NBA
+31,210313006,2001,"Tue, Mar 13",Dallas Mavericks,New Jersey Nets,"41-23, 22-11 Home","22-44, 7-26 Away",122,98,NULL,NULL,Final,NULL,28,28,34,32,NULL,25,27,22,24,NULL,NBA
+32,210317006,2001,"Sat, Mar 17",Dallas Mavericks,Phoenix Suns,"43-23, 24-11 Home","38-27, 16-17 Away",109,99,NULL,NULL,Final,NULL,29,25,30,25,NULL,14,27,25,33,NULL,NBA
+33,210321016,2001,"Wed, Mar 21",Minnesota Timberwolves,Dallas Mavericks,"40-28, 25-10 Home","43-25, 19-13 Away",109,97,NULL,NULL,Final,NULL,29,24,25,31,NULL,22,22,24,29,NULL,NBA
+34,210326026,2001,"Mon, Mar 26",Utah Jazz,Dallas Mavericks,"47-22, 25-11 Home","45-25, 20-13 Away",90,98,NULL,NULL,Final,NULL,18,28,20,24,NULL,18,17,29,34,NULL,NBA
+35,210330013,2001,"Fri, Mar 30",Los Angeles Lakers,Dallas Mavericks,"48-25, 27-9 Home","46-26, 21-14 Away",98,89,NULL,NULL,Final,NULL,31,28,17,22,NULL,26,26,16,21,NULL,NBA
+36,210403010,2001,"Tue, Apr 3",Houston Rockets,Dallas Mavericks,"40-35, 21-16 Home","48-26, 23-14 Away",97,109,NULL,NULL,Final,NULL,32,26,14,25,NULL,29,38,23,19,NULL,NBA
+37,210407006,2001,"Sat, Apr 7",Dallas Mavericks,Utah Jazz,"49-27, 26-13 Home","50-26, 24-13 Away",103,116,NULL,NULL,Final,NULL,21,21,30,31,NULL,17,31,36,32,NULL,NBA
+38,210411021,2001,"Wed, Apr 11",Phoenix Suns,Dallas Mavericks,"48-30, 28-10 Home","49-29, 23-16 Away",111,106,NULL,NULL,Final,NULL,23,35,18,35,NULL,25,23,25,33,NULL,NBA
+39,210415025,2001,"Sun, Apr 15",Seattle SuperSonics,Dallas Mavericks,"43-38, 25-15 Home","51-29, 24-16 Away",99,107,NULL,NULL,Final/OT,NULL,28,17,16,33,5,27,22,21,24,13,NBA
+40,201031006,2001,"Tue, Oct 31",Dallas Mavericks,Milwaukee Bucks,"1-0, 1-0 Home","0-1, 0-1 Away",97,93,NULL,NULL,Final,NULL,30,23,28,16,NULL,21,25,27,20,NULL,NBA
+41,201104006,2001,"Sat, Nov 4",Dallas Mavericks,Utah Jazz,"2-1, 2-1 Home","3-0, 2-0 Away",106,112,NULL,NULL,Final,NULL,24,22,30,30,NULL,30,19,33,30,NULL,NBA
+42,201108006,2001,"Wed, Nov 8",Dallas Mavericks,Vancouver Grizzlies,"3-2, 2-2 Home","4-1, 2-0 Away",74,101,NULL,NULL,Final,NULL,23,15,10,26,NULL,29,25,27,20,NULL,NBA
+43,201112023,2001,"Sun, Nov 12",Sacramento Kings,Dallas Mavericks,"6-2, 3-0 Home","4-3, 1-1 Away",109,84,NULL,NULL,Final,NULL,29,25,28,27,NULL,24,17,18,25,NULL,NBA
+44,201115021,2001,"Wed, Nov 15",Phoenix Suns,Dallas Mavericks,"7-1, 6-0 Home","5-4, 2-2 Away",99,78,NULL,NULL,Final,NULL,22,20,28,29,NULL,22,18,18,20,NULL,NBA
+45,201118029,2001,"Sat, Nov 18",Vancouver Grizzlies,Dallas Mavericks,"4-5, 2-3 Home","7-4, 4-2 Away",88,91,NULL,NULL,Final,NULL,25,24,19,20,NULL,23,24,15,29,NULL,NBA
+46,201121006,2001,"Tue, Nov 21",Dallas Mavericks,Seattle SuperSonics,"8-5, 3-3 Home","5-7, 3-5 Away",110,116,NULL,NULL,Final,NULL,28,22,40,20,NULL,25,39,30,22,NULL,NBA
+47,201128006,2001,"Tue, Nov 28",Dallas Mavericks,Toronto Raptors,"10-5, 5-3 Home","8-6, 3-3 Away",107,93,NULL,NULL,Final,NULL,20,33,20,34,NULL,23,25,20,25,NULL,NBA
+48,201202009,2001,"Sat, Dec 2",Golden State Warriors,Dallas Mavericks,"5-12, 4-4 Home","11-6, 6-3 Away",78,97,NULL,NULL,Final,NULL,13,20,25,20,NULL,30,21,23,23,NULL,NBA
+49,201205010,2001,"Tue, Dec 5",Houston Rockets,Dallas Mavericks,"10-8, 7-3 Home","11-8, 6-5 Away",109,102,NULL,NULL,Final,NULL,31,23,31,24,NULL,25,26,25,26,NULL,NBA
+50,201208006,2001,"Fri, Dec 8",Dallas Mavericks,Chicago Bulls,"13-8, 7-3 Home","2-17, 1-10 Away",105,86,NULL,NULL,Final,NULL,26,27,31,21,NULL,23,17,18,28,NULL,NBA
+51,201212005,2001,"Tue, Dec 12",Cleveland Cavaliers,Dallas Mavericks,"13-7, 9-2 Home","14-9, 7-6 Away",92,87,NULL,NULL,Final,NULL,23,23,19,27,NULL,24,25,14,24,NULL,NBA
+52,201215020,2001,"Fri, Dec 15",Philadelphia 76ers,Dallas Mavericks,"17-6, 7-2 Home","15-10, 8-7 Away",94,112,NULL,NULL,Final,CSN,30,27,23,14,NULL,27,35,30,20,NULL,NBA
+53,201218002,2001,"Mon, Dec 18",Boston Celtics,Dallas Mavericks,"9-15, 8-8 Home","17-10, 10-7 Away",98,106,NULL,NULL,Final,NULL,15,35,29,19,NULL,32,27,25,22,NULL,NBA
+54,201222006,2001,"Fri, Dec 22",Dallas Mavericks,Los Angeles Lakers,"18-11, 8-4 Home","20-9, 8-6 Away",103,108,NULL,NULL,Final,NULL,23,18,27,35,NULL,29,32,19,28,NULL,NBA
+55,201228006,2001,"Thu, Dec 28",Dallas Mavericks,Los Angeles Clippers,"20-11, 10-4 Home","10-20, 3-11 Away",105,96,NULL,NULL,Final,NULL,28,30,28,19,NULL,15,28,21,32,NULL,NBA
+56,210103006,2001,"Wed, Jan 3",Dallas Mavericks,Detroit Pistons,"20-13, 10-6 Home","14-18, 6-11 Away",104,107,NULL,NULL,Final,NULL,26,23,27,28,NULL,35,22,25,25,NULL,NBA
+57,210106027,2001,"Sat, Jan 6",Washington Wizards,Dallas Mavericks,"7-27, 4-12 Home","22-13, 12-7 Away",85,103,NULL,NULL,Final,NULL,25,24,17,19,NULL,22,32,21,28,NULL,NBA
+58,210110016,2001,"Wed, Jan 10",Minnesota Timberwolves,Dallas Mavericks,"20-17, 12-6 Home","24-13, 14-7 Away",86,106,NULL,NULL,Final,NULL,20,23,17,26,NULL,30,28,24,24,NULL,NBA
+59,210113006,2001,"Sat, Jan 13",Dallas Mavericks,Phoenix Suns,"24-15, 10-7 Home","22-12, 7-7 Away",86,103,NULL,NULL,Final,NULL,21,23,21,21,NULL,24,27,25,27,NULL,NBA
+60,210117003,2001,"Wed, Jan 17",Charlotte Hornets,Dallas Mavericks,"23-18, 13-5 Home","25-16, 15-8 Away",90,91,NULL,NULL,Final,NULL,29,19,28,14,NULL,21,17,27,26,NULL,NBA
+61,210120006,2001,"Sat, Jan 20",Dallas Mavericks,Denver Nuggets,"27-16, 12-8 Home","24-17, 6-12 Away",97,79,NULL,NULL,Final,NULL,22,31,21,23,NULL,20,23,16,20,NULL,NBA
+62,210125006,2001,"Thu, Jan 25",Dallas Mavericks,Vancouver Grizzlies,"28-17, 13-9 Home","11-31, 3-15 Away",120,83,NULL,NULL,Final,NULL,32,39,28,21,NULL,23,20,21,19,NULL,NBA
+63,210201006,2001,"Thu, Feb 1",Dallas Mavericks,Miami Heat,"29-18, 14-9 Home","28-19, 13-13 Away",95,91,NULL,NULL,Final/OT,NULL,24,24,24,15,8,24,22,19,22,4,NBA
+64,210205001,2001,"Mon, Feb 5",Atlanta Hawks,Dallas Mavericks,"16-31, 11-14 Home","31-18, 16-9 Away",81,91,NULL,NULL,Final,NULL,24,26,16,15,NULL,23,13,32,23,NULL,NBA
+65,210213024,2001,"Tue, Feb 13",San Antonio Spurs,Dallas Mavericks,"32-16, 20-4 Home","31-20, 16-11 Away",104,92,NULL,NULL,Final,NULL,22,29,20,33,NULL,22,19,20,31,NULL,NBA
+66,210217006,2001,"Sat, Feb 17",Dallas Mavericks,Washington Wizards,"33-20, 17-9 Home","12-40, 4-23 Away",112,105,NULL,NULL,Final,NULL,26,33,27,26,NULL,25,30,24,26,NULL,NBA
+67,210222006,2001,"Thu, Feb 22",Dallas Mavericks,Boston Celtics,"34-21, 18-10 Home","24-31, 9-18 Away",98,91,NULL,NULL,Final,NULL,24,32,25,17,NULL,28,18,23,22,NULL,NBA
+68,210226012,2001,"Mon, Feb 26",Los Angeles Clippers,Dallas Mavericks,"20-39, 12-17 Home","35-22, 17-11 Away",92,103,NULL,NULL,Final,NULL,27,23,20,22,NULL,32,22,22,27,NULL,NBA
+69,210303006,2001,"Sat, Mar 3",Dallas Mavericks,Houston Rockets,"37-22, 19-11 Home","32-28, 17-14 Away",100,95,NULL,NULL,Final,NULL,20,28,23,29,NULL,27,20,30,18,NULL,NBA
+70,210307014,2001,"Wed, Mar 7",Miami Heat,Dallas Mavericks,"37-25, 20-9 Home","38-23, 19-12 Away",86,93,NULL,NULL,Final,NULL,18,22,26,20,NULL,28,18,21,26,NULL,NBA
+71,210311006,2001,"Sun, Mar 11",Dallas Mavericks,Los Angeles Clippers,"40-23, 21-11 Home","22-43, 8-26 Away",111,93,NULL,NULL,Final,NULL,32,31,29,19,NULL,23,27,18,25,NULL,NBA
+72,210315006,2001,"Thu, Mar 15",Dallas Mavericks,Minnesota Timberwolves,"42-23, 23-11 Home","38-28, 15-18 Away",103,83,NULL,NULL,Final,NULL,33,17,25,28,NULL,16,19,19,29,NULL,NBA
+73,210320006,2001,"Tue, Mar 20",Dallas Mavericks,Portland Trail Blazers,"43-24, 24-12 Home","44-24, 19-15 Away",88,96,NULL,NULL,Final,NULL,24,19,23,22,NULL,14,24,25,33,NULL,NBA
+74,210324006,2001,"Sat, Mar 24",Dallas Mavericks,Charlotte Hornets,"44-25, 25-12 Home","40-30, 15-20 Away",103,100,NULL,NULL,Final,NULL,34,23,16,30,NULL,22,23,24,31,NULL,NBA
+75,210328022,2001,"Wed, Mar 28",Portland Trail Blazers,Dallas Mavericks,"46-25, 26-10 Home","46-25, 21-13 Away",84,94,NULL,NULL,Final,NULL,28,15,20,21,NULL,23,18,26,27,NULL,NBA
+76,210401023,2001,"Sun, Apr 1",Sacramento Kings,Dallas Mavericks,"49-23, 30-7 Home","47-26, 22-14 Away",107,119,NULL,NULL,Final,NULL,33,25,25,24,NULL,28,36,34,21,NULL,NBA
+77,210405006,2001,"Thu, Apr 5",Dallas Mavericks,Atlanta Hawks,"49-26, 26-12 Home","23-52, 7-30 Away",108,94,NULL,NULL,Final,NULL,23,35,24,26,NULL,16,22,27,29,NULL,NBA
+78,210410024,2001,"Tue, Apr 10",San Antonio Spurs,Dallas Mavericks,"56-22, 32-7 Home","49-28, 23-15 Away",91,79,NULL,NULL,Final,NULL,21,26,23,21,NULL,20,22,15,22,NULL,NBA
+79,210413006,2001,"Fri, Apr 13",Dallas Mavericks,Sacramento Kings,"50-29, 27-13 Home","54-25, 22-17 Away",101,97,NULL,NULL,Final,NULL,32,24,28,17,NULL,29,22,27,19,NULL,NBA
+80,210416009,2001,"Mon, Apr 16",Golden State Warriors,Dallas Mavericks,"17-64, 11-29 Home","52-29, 25-16 Away",101,110,NULL,NULL,Final,NULL,25,28,23,25,NULL,28,29,26,27,NULL,NBA
+81,210418006,2001,"Wed, Apr 18",Dallas Mavericks,Minnesota Timberwolves,"53-29, 28-13 Home","47-35, 17-24 Away",120,100,NULL,NULL,Final,NULL,39,24,33,24,NULL,22,28,17,33,NULL,NBA

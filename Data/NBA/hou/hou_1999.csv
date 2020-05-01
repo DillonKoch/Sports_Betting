@@ -1,0 +1,51 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,190206009,1999,"Sat, Feb 6",Golden State Warriors,Houston Rockets,"0-1, 0-1 Home","1-1, 1-1 Away",84,86,NULL,NULL,Final,NULL,25,20,28,11,NULL,19,26,19,22,NULL,NBA
+1,190210010,1999,"Wed, Feb 10",Houston Rockets,Sacramento Kings,"3-1, 2-0 Home","2-2, 1-2 Away",92,82,NULL,NULL,Final,NULL,26,25,15,26,NULL,18,24,27,13,NULL,NBA
+2,190216010,1999,"Tue, Feb 16",Houston Rockets,Phoenix Suns,"5-1, 3-0 Home","4-3, 2-1 Away",109,92,NULL,NULL,Final,NULL,27,18,34,30,NULL,25,16,21,30,NULL,NBA
+3,190218017,1999,"Thu, Feb 18",New Jersey Nets,Houston Rockets,"2-5, 2-2 Home","6-2, 3-2 Away",92,93,NULL,NULL,Final/OT,NULL,26,22,21,16,7,17,24,22,22,8,NBA
+4,190221019,1999,"Sun, Feb 21",Orlando Magic,Houston Rockets,"8-2, 5-0 Home","6-4, 3-4 Away",109,83,NULL,NULL,Final,NULL,26,20,26,37,NULL,17,26,10,30,NULL,NBA
+5,190225010,1999,"Thu, Feb 25",Houston Rockets,Atlanta Hawks,"7-5, 4-1 Home","7-5, 4-3 Away",87,93,NULL,NULL,Final,NULL,22,20,17,28,NULL,19,30,17,27,NULL,NBA
+6,190228013,1999,"Sun, Feb 28",Los Angeles Lakers,Houston Rockets,"9-6, 6-2 Home","8-6, 4-5 Away",106,90,NULL,NULL,Final,NULL,24,26,27,29,NULL,27,21,24,18,NULL,NBA
+7,190304010,1999,"Thu, Mar 4",Houston Rockets,Los Angeles Clippers,"9-7, 5-2 Home","0-14, 0-6 Away",96,77,NULL,NULL,Final,NULL,24,20,32,20,NULL,26,19,11,21,NULL,NBA
+8,190307022,1999,"Sun, Mar 7",Portland Trail Blazers,Houston Rockets,"13-3, 8-0 Home","10-8, 5-6 Away",111,71,NULL,NULL,Final,NULL,26,22,28,35,NULL,17,19,21,14,NULL,NBA
+9,190311010,1999,"Thu, Mar 11",Houston Rockets,Vancouver Grizzlies,"12-8, 7-2 Home","4-16, 1-7 Away",102,91,NULL,NULL,Final,NULL,30,24,17,31,NULL,21,26,15,29,NULL,NBA
+10,190314021,1999,"Sun, Mar 14",Phoenix Suns,Houston Rockets,"11-10, 5-7 Home","13-9, 5-7 Away",104,90,NULL,NULL,Final,NULL,15,22,30,37,NULL,12,32,24,22,NULL,NBA
+11,190317007,1999,"Wed, Mar 17",Denver Nuggets,Houston Rockets,"6-17, 6-5 Home","15-9, 6-7 Away",109,114,NULL,NULL,Final,NULL,19,22,31,37,NULL,32,29,30,23,NULL,NBA
+12,190322010,1999,"Mon, Mar 22",Houston Rockets,Sacramento Kings,"17-9, 11-2 Home","11-16, 6-11 Away",110,100,NULL,NULL,Final,NULL,27,34,25,24,NULL,22,28,19,31,NULL,NBA
+13,190325010,1999,"Thu, Mar 25",Houston Rockets,Toronto Raptors,"19-9, 12-2 Home","12-14, 4-10 Away",113,104,NULL,NULL,Final,NULL,23,33,37,20,NULL,28,25,24,27,NULL,NBA
+14,190328023,1999,"Sun, Mar 28",Sacramento Kings,Houston Rockets,"13-17, 6-6 Home","21-9, 9-7 Away",93,107,NULL,NULL,Final,NULL,19,28,19,27,NULL,24,27,24,32,NULL,NBA
+15,190401026,1999,"Thu, Apr 1",Utah Jazz,Houston Rockets,"22-8, 13-1 Home","22-10, 10-8 Away",88,87,NULL,NULL,Final,NULL,18,23,16,31,NULL,19,24,28,16,NULL,NBA
+16,190406010,1999,"Tue, Apr 6",Houston Rockets,Golden State Warriors,"23-11, 13-2 Home","14-20, 4-11 Away",111,74,NULL,NULL,Final,NULL,21,24,36,30,NULL,20,17,21,16,NULL,NBA
+17,190411026,1999,"Sun, Apr 11",Utah Jazz,Houston Rockets,"27-8, 16-1 Home","23-13, 10-10 Away",85,76,NULL,NULL,Final,NULL,24,15,18,28,NULL,12,16,22,26,NULL,NBA
+18,190414010,1999,"Wed, Apr 14",Houston Rockets,Vancouver Grizzlies,"25-13, 14-3 Home","7-32, 1-18 Away",102,85,NULL,NULL,Final,NULL,19,25,32,26,NULL,21,17,23,24,NULL,NBA
+19,190418024,1999,"Sun, Apr 18",San Antonio Spurs,Houston Rockets,"28-12, 17-4 Home","26-14, 11-11 Away",86,83,NULL,NULL,Final,NULL,13,27,24,22,NULL,31,13,22,17,NULL,NBA
+20,190421010,1999,"Wed, Apr 21",Houston Rockets,Dallas Mavericks,"27-15, 16-4 Home","15-27, 3-17 Away",95,109,NULL,NULL,Final,NULL,28,21,19,27,NULL,31,30,25,23,NULL,NBA
+21,190425021,1999,"Sun, Apr 25",Phoenix Suns,Houston Rockets,"23-21, 13-10 Home","27-17, 11-13 Away",95,71,NULL,NULL,Final,NULL,27,26,19,23,NULL,17,19,23,12,NULL,NBA
+22,190429010,1999,"Thu, Apr 29",Houston Rockets,Dallas Mavericks,"28-18, 17-5 Home","18-29, 4-19 Away",81,91,NULL,NULL,Final,NULL,25,13,19,24,NULL,14,29,28,20,NULL,NBA
+23,190502010,1999,"Sun, May 2",Houston Rockets,Los Angeles Clippers,"29-19, 18-6 Home","9-39, 3-21 Away",110,84,NULL,NULL,Final,NULL,34,29,19,28,NULL,21,29,15,19,NULL,NBA
+24,190205013,1999,"Fri, Feb 5",Los Angeles Lakers,Houston Rockets,"1-0, 1-0 Home","0-1, 0-1 Away",99,91,NULL,NULL,Final,NULL,26,17,25,31,NULL,21,25,21,24,NULL,NBA
+25,190208010,1999,"Mon, Feb 8",Houston Rockets,Denver Nuggets,"2-1, 1-0 Home","0-3, 0-2 Away",99,80,NULL,NULL,Final,NULL,28,25,17,29,NULL,19,12,25,24,NULL,NBA
+26,190211006,1999,"Thu, Feb 11",Dallas Mavericks,Houston Rockets,"1-3, 0-2 Home","4-1, 2-1 Away",95,105,NULL,NULL,Final,NULL,29,25,21,20,NULL,28,30,21,26,NULL,NBA
+27,190217016,1999,"Wed, Feb 17",Minnesota Timberwolves,Houston Rockets,"5-2, 3-0 Home","5-2, 2-2 Away",116,102,NULL,NULL,Final,NULL,29,16,33,38,NULL,29,18,20,35,NULL,NBA
+28,190220014,1999,"Sat, Feb 20",Miami Heat,Houston Rockets,"6-3, 3-2 Home","6-3, 3-3 Away",81,71,NULL,NULL,Final,NULL,19,18,23,21,NULL,15,22,9,25,NULL,NBA
+29,190223010,1999,"Tue, Feb 23",Houston Rockets,Seattle SuperSonics,"7-4, 4-0 Home","7-3, 1-2 Away",98,86,NULL,NULL,Final,NULL,29,25,15,29,NULL,23,23,16,24,NULL,NBA
+30,190227029,1999,"Sat, Feb 27",Vancouver Grizzlies,Houston Rockets,"4-8, 3-5 Home","8-5, 4-4 Away",74,86,NULL,NULL,Final,NULL,15,19,19,21,NULL,25,13,33,15,NULL,NBA
+31,190302010,1999,"Tue, Mar 2",Houston Rockets,San Antonio Spurs,"8-7, 4-2 Home","7-8, 3-5 Away",82,99,NULL,NULL,Final,NULL,18,19,21,24,NULL,23,30,18,28,NULL,NBA
+32,190306029,1999,"Sat, Mar 6",Vancouver Grizzlies,Houston Rockets,"4-13, 3-8 Home","10-7, 5-5 Away",92,107,NULL,NULL,Final,NULL,18,21,27,26,NULL,23,34,23,27,NULL,NBA
+33,190309010,1999,"Tue, Mar 9",Houston Rockets,Denver Nuggets,"11-8, 6-2 Home","5-14, 0-10 Away",84,75,NULL,NULL,Final,NULL,24,20,19,21,NULL,17,24,13,21,NULL,NBA
+34,190313010,1999,"Sat, Mar 13",Houston Rockets,Cleveland Cavaliers,"13-8, 8-2 Home","8-10, 2-6 Away",100,89,NULL,NULL,Final,NULL,27,27,20,26,NULL,14,22,31,22,NULL,NBA
+35,190316010,1999,"Tue, Mar 16",Houston Rockets,Portland Trail Blazers,"14-9, 9-2 Home","17-5, 8-4 Away",101,93,NULL,NULL,Final,NULL,21,33,26,21,NULL,22,29,12,30,NULL,NBA
+36,190320010,1999,"Sat, Mar 20",Houston Rockets,Phoenix Suns,"16-9, 10-2 Home","12-13, 7-6 Away",103,93,NULL,NULL,Final/OT,NULL,22,27,19,23,12,27,19,31,14,2,NBA
+37,190324006,1999,"Wed, Mar 24",Dallas Mavericks,Houston Rockets,"9-19, 7-7 Home","18-9, 7-7 Away",78,88,NULL,NULL,Final,NULL,14,17,20,27,NULL,23,16,25,24,NULL,NBA
+38,190327009,1999,"Sat, Mar 27",Golden State Warriors,Houston Rockets,"12-16, 9-8 Home","20-9, 8-7 Away",86,87,NULL,NULL,Final,NULL,20,29,13,24,NULL,21,13,23,30,NULL,NBA
+39,190330012,1999,"Tue, Mar 30",Los Angeles Clippers,Houston Rockets,"3-26, 2-12 Home","22-9, 10-7 Away",95,104,NULL,NULL,Final,NULL,22,17,28,28,NULL,23,30,25,26,NULL,NBA
+40,190404025,1999,"Sun, Apr 4",Seattle SuperSonics,Houston Rockets,"16-16, 12-4 Home","22-11, 10-9 Away",101,84,NULL,NULL,Final,NULL,28,23,14,36,NULL,19,17,25,23,NULL,NBA
+41,190408010,1999,"Thu, Apr 8",Houston Rockets,San Antonio Spurs,"23-12, 13-3 Home","24-10, 11-6 Away",83,92,NULL,NULL,Final,NULL,26,17,21,19,NULL,32,22,21,17,NULL,NBA
+42,190412016,1999,"Mon, Apr 12",Minnesota Timberwolves,Houston Rockets,"21-17, 14-6 Home","24-13, 11-10 Away",90,95,NULL,NULL,Final,NULL,20,18,27,25,NULL,24,27,24,20,NULL,NBA
+43,190415010,1999,"Thu, Apr 15",Houston Rockets,Portland Trail Blazers,"26-13, 15-3 Home","29-9, 11-7 Away",86,76,NULL,NULL,Final,NULL,19,19,25,23,NULL,25,16,23,12,NULL,NBA
+44,190419010,1999,"Mon, Apr 19",Houston Rockets,Seattle SuperSonics,"27-14, 16-3 Home","19-22, 6-15 Away",120,113,NULL,NULL,Final,NULL,34,22,28,36,NULL,29,16,34,34,NULL,NBA
+45,190423012,1999,"Fri, Apr 23",Los Angeles Clippers,Houston Rockets,"8-35, 5-17 Home","27-16, 11-12 Away",106,101,NULL,NULL,Final/OT,NULL,21,23,24,21,17,16,22,19,32,12,NBA
+46,190426010,1999,"Mon, Apr 26",Houston Rockets,Los Angeles Lakers,"28-17, 17-4 Home","27-19, 12-12 Away",102,80,NULL,NULL,Final,NULL,28,23,26,25,NULL,14,24,19,23,NULL,NBA
+47,190430010,1999,"Fri, Apr 30",Houston Rockets,Utah Jazz,"28-19, 17-6 Home","36-12, 15-9 Away",78,91,NULL,NULL,Final,NULL,15,26,22,15,NULL,23,27,18,23,NULL,NBA
+48,190504010,1999,"Tue, May 4",Houston Rockets,Minnesota Timberwolves,"30-19, 19-6 Home","25-24, 7-17 Away",100,83,NULL,NULL,Final,NULL,26,21,27,26,NULL,22,20,22,19,NULL,NBA
+49,190505007,1999,"Wed, May 5",Denver Nuggets,Houston Rockets,"14-36, 12-13 Home","31-19, 12-13 Away",88,95,NULL,NULL,Final,NULL,28,14,23,23,NULL,27,21,20,27,NULL,NBA

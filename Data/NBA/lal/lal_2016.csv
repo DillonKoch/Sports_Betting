@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,400827918,2016,"Fri, Oct 30",Sacramento Kings,Los Angeles Lakers,"1-1, 1-1 Home","0-2, 0-1 Away",132,114,NULL,NULL,Final,NULL,40,34,28,30,NULL,24,26,33,31,NULL,NBA
+1,400827946,2016,"Tue, Nov 3",Los Angeles Lakers,Denver Nuggets,"0-4, 0-3 Home","2-2, 2-1 Away",109,120,NULL,NULL,Final,NBATV,36,21,26,26,NULL,30,30,33,27,NULL,NBA
+2,400827982,2016,"Sun, Nov 8",New York Knicks,Los Angeles Lakers,"3-4, 1-3 Home","1-5, 1-2 Away",99,95,NULL,NULL,Final,NULL,25,20,26,28,NULL,25,24,21,25,NULL,NBA
+3,400828001,2016,"Wed, Nov 11",Orlando Magic,Los Angeles Lakers,"4-5, 2-2 Home","1-7, 1-4 Away",101,99,NULL,NULL,Final,NULL,26,22,26,27,NULL,25,20,25,29,NULL,NBA
+4,400828038,2016,"Sun, Nov 15",Los Angeles Lakers,Detroit Pistons,"2-8, 1-3 Home","5-5, 3-4 Away",97,85,NULL,NULL,Final,NULL,21,27,18,31,NULL,18,26,22,19,NULL,NBA
+5,400828075,2016,"Fri, Nov 20",Los Angeles Lakers,Toronto Raptors,"2-10, 1-4 Home","8-6, 5-5 Away",91,102,NULL,NULL,Final,NULL,21,29,18,23,NULL,27,22,27,26,NULL,NBA
+6,400828101,2016,"Tue, Nov 24",Golden State Warriors,Los Angeles Lakers,"16-0, 9-0 Home","2-12, 1-7 Away",111,77,NULL,NULL,Final,TNT,30,24,35,22,NULL,11,27,17,22,NULL,NBA
+7,400828140,2016,"Sun, Nov 29",Los Angeles Lakers,Indiana Pacers,"2-14, 1-6 Home","11-5, 5-3 Away",103,107,NULL,NULL,Final,NULL,12,23,30,38,NULL,28,20,32,27,NULL,NBA
+8,400828156,2016,"Wed, Dec 2",Washington Wizards,Los Angeles Lakers,"7-9, 3-5 Home","3-15, 2-9 Away",104,108,NULL,NULL,Final,NULL,22,29,24,29,NULL,34,23,21,30,NULL,NBA
+9,400828188,2016,"Sun, Dec 6",Detroit Pistons,Los Angeles Lakers,"12-9, 8-2 Home","3-17, 2-11 Away",111,91,NULL,NULL,Final,NULL,32,33,25,21,NULL,19,23,23,26,NULL,NBA
+10,400828212,2016,"Wed, Dec 9",Minnesota Timberwolves,Los Angeles Lakers,"9-12, 3-9 Home","3-19, 2-13 Away",123,122,NULL,NULL,Final/OT,NULL,35,24,25,30,9,32,25,24,33,8,NBA
+11,400828236,2016,"Sat, Dec 12",Houston Rockets,Los Angeles Lakers,"12-12, 7-7 Home","3-21, 2-15 Away",126,97,NULL,NULL,Final,NULL,32,31,28,35,NULL,25,21,30,21,NULL,NBA
+12,400828272,2016,"Thu, Dec 17",Los Angeles Lakers,Houston Rockets,"4-22, 2-7 Home","13-14, 6-7 Away",87,107,NULL,NULL,Final,TNT,18,21,29,19,NULL,29,23,26,29,NULL,NBA
+13,400828309,2016,"Tue, Dec 22",Denver Nuggets,Los Angeles Lakers,"11-17, 5-9 Home","5-23, 3-16 Away",107,111,NULL,NULL,Final,NULL,34,30,16,27,NULL,26,25,32,28,NULL,NBA
+14,400828327,2016,"Fri, Dec 25",Los Angeles Lakers,LA Clippers,"5-25, 2-9 Home","17-13, 7-7 Away",84,94,NULL,NULL,Final,ESPN,22,22,13,27,NULL,32,28,25,9,NULL,NBA
+15,400828345,2016,"Mon, Dec 28",Charlotte Hornets,Los Angeles Lakers,"17-13, 13-5 Home","5-27, 3-18 Away",108,98,NULL,NULL,Final,NULL,31,27,27,23,NULL,26,32,23,17,NULL,NBA
+16,400828381,2016,"Fri, Jan 1",Los Angeles Lakers,Philadelphia 76ers,"7-27, 3-9 Home","3-32, 2-20 Away",93,84,NULL,NULL,Final,NULL,21,19,22,31,NULL,21,20,19,24,NULL,NBA
+17,400828411,2016,"Tue, Jan 5",Los Angeles Lakers,Golden State Warriors,"8-28, 4-10 Home","33-2, 16-2 Away",88,109,NULL,NULL,Final,NBATV,25,22,13,28,NULL,37,25,30,17,NULL,NBA
+18,400828436,2016,"Fri, Jan 8",Los Angeles Lakers,Oklahoma City Thunder,"8-30, 4-11 Home","26-11, 9-6 Away",113,117,NULL,NULL,Final,ESPN,28,25,32,28,NULL,32,28,30,27,NULL,NBA
+19,400828463,2016,"Tue, Jan 12",Los Angeles Lakers,New Orleans Pelicans,"9-31, 5-12 Home","11-26, 4-17 Away",95,91,NULL,NULL,Final,NBATV,15,23,29,28,NULL,22,19,30,20,NULL,NBA
+20,400828495,2016,"Sat, Jan 16",Utah Jazz,Los Angeles Lakers,"18-22, 12-9 Home","9-33, 4-21 Away",109,82,NULL,NULL,Final,NULL,32,28,29,20,NULL,18,18,23,23,NULL,NBA
+21,400828525,2016,"Wed, Jan 20",Los Angeles Lakers,Sacramento Kings,"9-35, 5-14 Home","18-23, 8-12 Away",93,112,NULL,NULL,Final,NULL,18,34,25,16,NULL,28,29,29,26,NULL,NBA
+22,400828549,2016,"Sat, Jan 23",Portland Trail Blazers,Los Angeles Lakers,"20-26, 11-10 Home","9-37, 4-22 Away",121,103,NULL,NULL,Final,NULL,37,25,39,20,NULL,22,30,24,27,NULL,NBA
+23,400828584,2016,"Thu, Jan 28",Los Angeles Lakers,Chicago Bulls,"9-39, 5-17 Home","26-19, 10-10 Away",91,114,NULL,NULL,Final,TNT,15,25,31,20,NULL,32,26,32,24,NULL,NBA
+24,400828607,2016,"Sun, Jan 31",Los Angeles Lakers,Charlotte Hornets,"9-41, 5-18 Home","23-25, 7-17 Away",82,101,NULL,NULL,Final,NULL,16,27,17,22,NULL,21,37,25,18,NULL,NBA
+25,400828634,2016,"Thu, Feb 4",New Orleans Pelicans,Los Angeles Lakers,"18-31, 13-12 Home","11-41, 5-23 Away",96,99,NULL,NULL,Final,TNT,28,20,21,27,NULL,26,33,20,20,NULL,NBA
+26,400828663,2016,"Mon, Feb 8",Indiana Pacers,Los Angeles Lakers,"28-24, 17-8 Home","11-43, 5-25 Away",89,87,NULL,NULL,Final,NULL,23,23,18,25,NULL,22,16,21,28,NULL,NBA
+27,400828705,2016,"Fri, Feb 19",Los Angeles Lakers,San Antonio Spurs,"11-45, 6-19 Home","46-9, 18-9 Away",113,119,NULL,NULL,Final,NULL,30,19,26,38,NULL,33,27,25,34,NULL,NBA
+28,400828724,2016,"Mon, Feb 22",Milwaukee Bucks,Los Angeles Lakers,"24-33, 16-9 Home","11-47, 5-28 Away",108,101,NULL,NULL,Final,NULL,29,25,36,18,NULL,19,29,17,36,NULL,NBA
+29,400828755,2016,"Fri, Feb 26",Los Angeles Lakers,Memphis Grizzlies,"11-49, 6-20 Home","34-23, 13-14 Away",95,112,NULL,NULL,Final,ESPN,25,25,21,24,NULL,32,35,23,22,NULL,NBA
+30,400828793,2016,"Wed, Mar 2",Denver Nuggets,Los Angeles Lakers,"24-37, 12-18 Home","12-50, 5-30 Away",117,107,NULL,NULL,Final,NULL,27,30,26,34,NULL,29,31,22,25,NULL,NBA
+31,400828818,2016,"Sun, Mar 6",Los Angeles Lakers,Golden State Warriors,"13-51, 8-21 Home","55-6, 29-6 Away",112,95,NULL,NULL,Final,ABC,22,38,24,28,NULL,21,28,24,22,NULL,NBA
+32,400828849,2016,"Thu, Mar 10",Los Angeles Lakers,Cleveland Cavaliers,"14-52, 9-22 Home","46-18, 19-12 Away",108,120,NULL,NULL,Final,TNT,31,24,27,26,NULL,33,31,31,25,NULL,NBA
+33,400828889,2016,"Tue, Mar 15",Los Angeles Lakers,Sacramento Kings,"14-54, 9-24 Home","26-40, 12-21 Away",98,106,NULL,NULL,Final,NULL,15,26,26,31,NULL,32,25,22,27,NULL,NBA
+34,400828942,2016,"Tue, Mar 22",Los Angeles Lakers,Memphis Grizzlies,"15-55, 10-25 Home","41-31, 16-20 Away",107,100,NULL,NULL,Final,TNT,25,23,33,26,NULL,25,22,31,22,NULL,NBA
+35,400828968,2016,"Fri, Mar 25",Los Angeles Lakers,Denver Nuggets,"15-57, 10-26 Home","31-42, 14-23 Away",105,116,NULL,NULL,Final,NULL,31,15,31,28,NULL,24,34,25,33,NULL,NBA
+36,400828991,2016,"Mon, Mar 28",Utah Jazz,Los Angeles Lakers,"37-37, 23-13 Home","15-59, 5-32 Away",123,75,NULL,NULL,Final,NULL,34,30,34,25,NULL,16,21,21,17,NULL,NBA
+37,400829040,2016,"Sun, Apr 3",Los Angeles Lakers,Boston Celtics,"16-60, 11-28 Home","45-32, 20-20 Away",100,107,NULL,NULL,Final,NULL,26,22,27,25,NULL,31,26,20,30,NULL,NBA
+38,400829059,2016,"Wed, Apr 6",Los Angeles Lakers,LA Clippers,"16-62, 11-29 Home","50-28, 23-16 Away",81,91,NULL,NULL,Final,NULL,25,17,19,20,NULL,29,25,19,18,NULL,NBA
+39,400829082,2016,"Sun, Apr 10",Houston Rockets,Los Angeles Lakers,"39-41, 22-18 Home","16-64, 5-35 Away",130,110,NULL,NULL,Final,NULL,29,26,33,42,NULL,27,26,27,30,NULL,NBA
+40,400827904,2016,"Wed, Oct 28",Los Angeles Lakers,Minnesota Timberwolves,"0-1, 0-1 Home","1-0, 1-0 Away",111,112,NULL,NULL,Final,ESPN,31,29,35,16,NULL,22,29,37,24,NULL,NBA
+41,400827932,2016,"Sun, Nov 1",Los Angeles Lakers,Dallas Mavericks,"0-3, 0-2 Home","2-1, 2-1 Away",93,103,NULL,NULL,Final,NULL,21,24,19,29,NULL,32,22,27,22,NULL,NBA
+42,400827964,2016,"Fri, Nov 6",Brooklyn Nets,Los Angeles Lakers,"0-6, 0-3 Home","1-4, 1-1 Away",98,104,NULL,NULL,Final,NULL,27,20,25,26,NULL,18,34,27,25,NULL,NBA
+43,400827995,2016,"Tue, Nov 10",Miami Heat,Los Angeles Lakers,"5-3, 4-1 Home","1-6, 1-3 Away",101,88,NULL,NULL,Final,NULL,29,21,25,26,NULL,23,26,17,22,NULL,NBA
+44,400828022,2016,"Fri, Nov 13",Dallas Mavericks,Los Angeles Lakers,"5-4, 3-2 Home","1-8, 1-5 Away",90,82,NULL,NULL,Final,NULL,29,19,16,26,NULL,24,16,15,27,NULL,NBA
+45,400828044,2016,"Mon, Nov 16",Phoenix Suns,Los Angeles Lakers,"6-4, 5-2 Home","2-9, 1-6 Away",120,101,NULL,NULL,Final,NULL,26,31,23,40,NULL,22,31,22,26,NULL,NBA
+46,400828088,2016,"Sun, Nov 22",Los Angeles Lakers,Portland Trail Blazers,"2-11, 1-5 Home","6-9, 3-6 Away",93,107,NULL,NULL,Final,NULL,23,29,22,19,NULL,32,24,28,23,NULL,NBA
+47,400828131,2016,"Sat, Nov 28",Portland Trail Blazers,Los Angeles Lakers,"7-10, 4-4 Home","2-13, 1-8 Away",108,96,NULL,NULL,Final,NULL,34,26,24,24,NULL,21,25,30,20,NULL,NBA
+48,400828150,2016,"Tue, Dec 1",Philadelphia 76ers,Los Angeles Lakers,"1-18, 1-7 Home","2-15, 1-9 Away",103,91,NULL,NULL,Final,NULL,26,24,30,23,NULL,33,25,17,16,NULL,NBA
+49,400828173,2016,"Fri, Dec 4",Atlanta Hawks,Los Angeles Lakers,"13-9, 8-4 Home","3-16, 2-10 Away",100,87,NULL,NULL,Final,NULL,23,29,20,28,NULL,19,17,30,21,NULL,NBA
+50,400828195,2016,"Mon, Dec 7",Toronto Raptors,Los Angeles Lakers,"13-9, 5-4 Home","3-18, 2-12 Away",102,93,NULL,NULL,Final,NULL,25,27,19,31,NULL,22,20,29,22,NULL,NBA
+51,400828229,2016,"Fri, Dec 11",San Antonio Spurs,Los Angeles Lakers,"19-5, 12-0 Home","3-20, 2-14 Away",109,87,NULL,NULL,Final,ESPN,31,20,28,30,NULL,27,22,22,16,NULL,NBA
+52,400828257,2016,"Tue, Dec 15",Los Angeles Lakers,Milwaukee Bucks,"4-21, 2-6 Home","10-16, 2-11 Away",113,95,NULL,NULL,Final,NBATV,30,25,31,27,NULL,25,21,20,29,NULL,NBA
+53,400828285,2016,"Sat, Dec 19",Oklahoma City Thunder,Los Angeles Lakers,"18-9, 13-3 Home","4-23, 2-16 Away",118,78,NULL,NULL,Final,NULL,35,32,25,26,NULL,15,26,14,23,NULL,NBA
+54,400828322,2016,"Wed, Dec 23",Los Angeles Lakers,Oklahoma City Thunder,"5-24, 2-8 Home","20-9, 7-6 Away",85,120,NULL,NULL,Final,NBATV,17,29,15,24,NULL,27,30,35,28,NULL,NBA
+55,400828342,2016,"Sun, Dec 27",Memphis Grizzlies,Los Angeles Lakers,"17-16, 10-6 Home","5-26, 3-17 Away",112,96,NULL,NULL,Final,NULL,32,27,33,20,NULL,23,23,28,22,NULL,NBA
+56,400828363,2016,"Wed, Dec 30",Boston Celtics,Los Angeles Lakers,"18-14, 9-8 Home","6-27, 4-18 Away",104,112,NULL,NULL,Final,NBATV,27,29,22,26,NULL,24,34,31,23,NULL,NBA
+57,400828397,2016,"Sun, Jan 3",Los Angeles Lakers,Phoenix Suns,"8-27, 4-9 Home","12-25, 4-15 Away",97,77,NULL,NULL,Final,NULL,25,18,38,16,NULL,10,12,29,26,NULL,NBA
+58,400828426,2016,"Thu, Jan 7",Sacramento Kings,Los Angeles Lakers,"15-21, 10-9 Home","8-29, 4-19 Away",118,115,NULL,NULL,Final,TNT,38,31,33,16,NULL,21,27,38,29,NULL,NBA
+59,400828452,2016,"Sun, Jan 10",Los Angeles Lakers,Utah Jazz,"8-31, 4-12 Home","17-20, 6-12 Away",74,86,NULL,NULL,Final,NULL,14,16,20,24,NULL,15,28,18,25,NULL,NBA
+60,400828479,2016,"Thu, Jan 14",Golden State Warriors,Los Angeles Lakers,"37-3, 19-0 Home","9-32, 4-20 Away",116,98,NULL,NULL,Final,TNT,24,28,34,30,NULL,23,26,23,26,NULL,NBA
+61,400828501,2016,"Sun, Jan 17",Los Angeles Lakers,Houston Rockets,"9-34, 5-13 Home","22-20, 9-10 Away",95,112,NULL,NULL,Final,NULL,36,21,18,20,NULL,32,28,34,18,NULL,NBA
+62,400828540,2016,"Fri, Jan 22",Los Angeles Lakers,San Antonio Spurs,"9-36, 5-15 Home","38-6, 14-6 Away",95,108,NULL,NULL,Final,NULL,22,21,28,24,NULL,31,25,31,21,NULL,NBA
+63,400828570,2016,"Tue, Jan 26",Los Angeles Lakers,Dallas Mavericks,"9-38, 5-16 Home","26-21, 13-13 Away",90,92,NULL,NULL,Final,NBATV,25,33,20,12,NULL,32,24,21,15,NULL,NBA
+64,400828593,2016,"Fri, Jan 29",LA Clippers,Los Angeles Lakers,"31-16, 16-7 Home","9-40, 4-23 Away",105,93,NULL,NULL,Final,NBATV,28,26,24,27,NULL,29,20,22,22,NULL,NBA
+65,400828621,2016,"Tue, Feb 2",Los Angeles Lakers,Minnesota Timberwolves,"10-41, 6-18 Home","14-36, 7-18 Away",119,115,NULL,NULL,Final,NBATV,27,39,26,27,NULL,26,26,29,34,NULL,NBA
+66,400828654,2016,"Sat, Feb 6",San Antonio Spurs,Los Angeles Lakers,"43-8, 28-0 Home","11-42, 5-24 Away",106,102,NULL,NULL,Final,NULL,29,25,25,27,NULL,20,31,30,21,NULL,NBA
+67,400828682,2016,"Wed, Feb 10",Cleveland Cavaliers,Los Angeles Lakers,"38-14, 22-4 Home","11-44, 5-26 Away",120,111,NULL,NULL,Final,ESPN,35,29,29,27,NULL,25,22,27,37,NULL,NBA
+68,400828718,2016,"Sun, Feb 21",Chicago Bulls,Los Angeles Lakers,"29-26, 18-10 Home","11-46, 5-27 Away",126,115,NULL,NULL,Final,ESPN,31,31,35,29,NULL,30,28,23,34,NULL,NBA
+69,400828738,2016,"Wed, Feb 24",Memphis Grizzlies,Los Angeles Lakers,"33-23, 21-9 Home","11-48, 5-29 Away",128,119,NULL,NULL,Final,NULL,36,31,30,31,NULL,26,32,26,35,NULL,NBA
+70,400828783,2016,"Tue, Mar 1",Los Angeles Lakers,Brooklyn Nets,"12-49, 7-20 Home","17-44, 6-22 Away",107,101,NULL,NULL,Final,NULL,24,34,21,28,NULL,19,31,24,27,NULL,NBA
+71,400828808,2016,"Fri, Mar 4",Los Angeles Lakers,Atlanta Hawks,"12-51, 7-21 Home","34-28, 15-16 Away",77,106,NULL,NULL,Final,ESPN,19,17,23,18,NULL,26,28,20,32,NULL,NBA
+72,400828836,2016,"Tue, Mar 8",Los Angeles Lakers,Orlando Magic,"14-51, 9-21 Home","27-36, 10-20 Away",107,98,NULL,NULL,Final,NULL,20,25,39,23,NULL,26,25,26,21,NULL,NBA
+73,400828874,2016,"Sun, Mar 13",Los Angeles Lakers,New York Knicks,"14-53, 9-23 Home","28-40, 12-22 Away",87,90,NULL,NULL,Final,NULL,11,24,25,27,NULL,18,28,19,25,NULL,NBA
+74,400828914,2016,"Fri, Mar 18",Los Angeles Lakers,Phoenix Suns,"14-55, 9-25 Home","19-50, 7-28 Away",90,95,NULL,NULL,Final,NULL,22,10,22,36,NULL,26,21,21,27,NULL,NBA
+75,400828952,2016,"Wed, Mar 23",Phoenix Suns,Los Angeles Lakers,"20-51, 13-23 Home","15-56, 5-31 Away",119,107,NULL,NULL,Final,NULL,16,31,36,36,NULL,22,25,27,33,NULL,NBA
+76,400828983,2016,"Sun, Mar 27",Los Angeles Lakers,Washington Wizards,"15-58, 10-27 Home","36-37, 17-18 Away",88,101,NULL,NULL,Final,NULL,27,17,15,29,NULL,24,26,27,24,NULL,NBA
+77,400829008,2016,"Wed, Mar 30",Los Angeles Lakers,Miami Heat,"16-59, 11-27 Home","43-31, 18-18 Away",102,100,NULL,NULL,Final/OT,NBATV,25,16,26,20,15,27,21,19,20,13,NBA
+78,400829051,2016,"Tue, Apr 5",LA Clippers,Los Angeles Lakers,"49-28, 27-12 Home","16-61, 5-33 Away",103,81,NULL,NULL,Final,NULL,33,19,32,19,NULL,22,22,16,21,NULL,NBA
+79,400829071,2016,"Fri, Apr 8",New Orleans Pelicans,Los Angeles Lakers,"30-49, 21-18 Home","16-63, 5-34 Away",110,102,NULL,NULL,Final,NULL,24,33,30,23,NULL,27,19,21,35,NULL,NBA
+80,400829096,2016,"Mon, Apr 11",Oklahoma City Thunder,Los Angeles Lakers,"55-26, 32-9 Home","16-65, 5-36 Away",112,79,NULL,NULL,Final,NULL,27,31,31,23,NULL,21,27,13,18,NULL,NBA
+81,400829115,2016,"Wed, Apr 13",Los Angeles Lakers,Utah Jazz,"17-65, 12-29 Home","40-42, 16-25 Away",101,96,NULL,NULL,Final,ESPN2,19,23,24,35,NULL,21,36,18,21,NULL,NBA

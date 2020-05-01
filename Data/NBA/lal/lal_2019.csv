@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,401070222,2019,"Sat, Oct 20",Los Angeles Lakers,Houston Rockets,"0-2, 0-1 Home","1-1, 1-0 Away",115,124,HOU -3.5,239,Final,ESPN,28,34,35,18,NULL,31,35,32,26,NULL,NBA
+1,401070741,2019,"Wed, Oct 24",Phoenix Suns,Los Angeles Lakers,"1-3, 1-1 Home","1-3, 1-1 Away",113,131,LAL -5.5,238,Final,NULL,30,24,32,27,NULL,32,44,30,25,NULL,NBA
+2,401070763,2019,"Sat, Oct 27",San Antonio Spurs,Los Angeles Lakers,"3-2, 2-1 Home","2-4, 1-2 Away",110,106,LAL -1.5,233,Final,NULL,29,25,33,23,NULL,36,24,28,18,NULL,NBA
+3,401070790,2019,"Wed, Oct 31",Los Angeles Lakers,Dallas Mavericks,"3-5, 2-2 Home","2-6, 0-5 Away",114,113,LAL -7.5,234,Final,NULL,38,28,28,20,NULL,21,38,22,32,NULL,NBA
+4,401070820,2019,"Sun, Nov 4",Los Angeles Lakers,Toronto Raptors,"4-6, 2-3 Home","9-1, 3-1 Away",107,121,LAL -2.0,236,Final,NULL,17,32,31,27,NULL,42,29,30,20,NULL,NBA
+5,401070864,2019,"Sat, Nov 10",Sacramento Kings,Los Angeles Lakers,"7-6, 3-3 Home","6-6, 3-3 Away",86,101,LAL -6.0,238,Final,NULL,20,24,21,21,NULL,26,24,26,25,NULL,NBA
+6,401070893,2019,"Wed, Nov 14",Los Angeles Lakers,Portland Trail Blazers,"8-6, 5-3 Home","10-4, 3-2 Away",126,117,LAL -2.5,223,Final,ESPN,26,33,38,29,NULL,33,22,34,28,NULL,NBA
+7,401070916,2019,"Sun, Nov 18",Miami Heat,Los Angeles Lakers,"6-10, 3-6 Home","9-7, 4-4 Away",97,113,LAL -1.5,225,Final,NULL,21,31,24,21,NULL,34,33,25,21,NULL,NBA
+8,401070959,2019,"Fri, Nov 23",Los Angeles Lakers,Utah Jazz,"11-7, 6-3 Home","8-11, 6-6 Away",90,83,LAL -2.5,221,Final,NBATV,22,16,26,26,NULL,16,22,25,20,NULL,NBA
+9,401070985,2019,"Tue, Nov 27",Denver Nuggets,Los Angeles Lakers,"14-7, 9-3 Home","11-9, 5-5 Away",117,85,DEN -3.0,219,Final,NBATV,30,28,31,28,NULL,26,24,21,14,NULL,NBA
+10,401071009,2019,"Fri, Nov 30",Los Angeles Lakers,Dallas Mavericks,"13-9, 8-4 Home","10-10, 2-8 Away",114,103,LAL -4.0,223,Final,NULL,22,31,25,36,NULL,32,26,17,28,NULL,NBA
+11,401071045,2019,"Wed, Dec 5",Los Angeles Lakers,San Antonio Spurs,"15-9, 10-4 Home","11-14, 4-10 Away",121,113,LAL -8.0,226,Final,ESPN,31,19,28,43,NULL,23,22,37,31,NULL,NBA
+12,401071065,2019,"Sat, Dec 8",Memphis Grizzlies,Los Angeles Lakers,"15-10, 8-4 Home","16-10, 6-6 Away",88,111,MEM -2.5,209,Final,NULL,16,24,26,22,NULL,27,36,28,20,NULL,NBA
+13,401071097,2019,"Thu, Dec 13",Houston Rockets,Los Angeles Lakers,"13-14, 7-5 Home","17-11, 6-7 Away",126,111,HOU -6.0,227,Final,TNT,29,33,28,36,NULL,24,32,32,23,NULL,NBA
+14,401071120,2019,"Sun, Dec 16",Washington Wizards,Los Angeles Lakers,"12-18, 8-6 Home","18-12, 7-8 Away",128,110,LAL -3.5,232,Final,NULL,33,38,28,29,NULL,23,28,25,34,NULL,NBA
+15,401071159,2019,"Fri, Dec 21",Los Angeles Lakers,New Orleans Pelicans,"19-13, 12-4 Home","15-18, 4-13 Away",112,104,LAL -5.0,235,Final,ESPN,34,35,25,18,NULL,34,31,23,16,NULL,NBA
+16,401070236,2019,"Tue, Dec 25",Golden State Warriors,Los Angeles Lakers,"23-12, 15-4 Home","20-14, 8-9 Away",101,127,GS -9.0,234,Final,ABC/ESPN,25,25,32,19,NULL,32,33,26,36,NULL,NBA
+17,401071202,2019,"Fri, Dec 28",Los Angeles Lakers,LA Clippers,"20-16, 12-6 Home","21-14, 9-10 Away",107,118,LAC -7.0,230,Final,NBATV,23,31,26,27,NULL,28,23,31,36,NULL,NBA
+18,401071238,2019,"Wed, Jan 2",Los Angeles Lakers,Oklahoma City Thunder,"21-17, 13-7 Home","24-13, 11-9 Away",100,107,OKC -5.0,229,Final,ESPN,25,32,25,18,NULL,25,34,19,29,NULL,NBA
+19,401071261,2019,"Sun, Jan 6",Minnesota Timberwolves,Los Angeles Lakers,"19-21, 14-6 Home","21-19, 8-11 Away",108,86,MIN -8.0,225,Final,NULL,35,29,19,25,NULL,19,26,23,18,NULL,NBA
+20,401071292,2019,"Wed, Jan 9",Los Angeles Lakers,Detroit Pistons,"23-19, 14-8 Home","17-22, 6-12 Away",113,100,LAL -1.5,216,Final,ESPN,20,35,34,24,NULL,24,23,30,23,NULL,NBA
+21,401071320,2019,"Sun, Jan 13",Los Angeles Lakers,Cleveland Cavaliers,"23-21, 14-9 Home","9-35, 4-18 Away",95,101,LAL -10.5,222,Final,NBATV,24,22,19,30,NULL,32,19,24,26,NULL,NBA
+22,401071346,2019,"Thu, Jan 17",Oklahoma City Thunder,Los Angeles Lakers,"26-18, 14-7 Home","25-21, 10-12 Away",128,138,OKC -10.0,226,Final/OT,TNT,39,24,33,26,6,27,40,28,27,16,NBA
+23,401070240,2019,"Mon, Jan 21",Los Angeles Lakers,Golden State Warriors,"25-23, 15-10 Home","33-14, 15-8 Away",111,130,GS -13.5,233,Final,TNT,24,31,25,31,NULL,29,36,45,20,NULL,NBA
+24,401071416,2019,"Sun, Jan 27",Los Angeles Lakers,Phoenix Suns,"26-24, 16-11 Home","11-41, 4-22 Away",116,102,LAL -8.0,228,Final,NULL,31,34,25,26,NULL,27,26,28,21,NULL,NBA
+25,401071442,2019,"Thu, Jan 31",LA Clippers,Los Angeles Lakers,"28-24, 15-12 Home","27-25, 11-13 Away",120,123,LAL -2.0,232,Final/OT,NULL,26,27,22,37,8,32,22,33,25,11,NBA
+26,401071471,2019,"Tue, Feb 5",Indiana Pacers,Los Angeles Lakers,"35-19, 19-7 Home","27-27, 11-15 Away",136,94,LAL -2.5,219,Final,NULL,33,36,32,35,NULL,26,20,27,21,NULL,NBA
+27,401071508,2019,"Sun, Feb 10",Philadelphia 76ers,Los Angeles Lakers,"36-20, 23-6 Home","28-28, 12-16 Away",143,120,PHI -7.0,236,Final,ABC,39,37,33,34,NULL,40,27,27,26,NULL,NBA
+28,401071545,2019,"Thu, Feb 21",Los Angeles Lakers,Houston Rockets,"29-29, 17-12 Home","33-25, 13-16 Away",111,106,HOU -3.0,234,Final,TNT,22,30,31,28,NULL,32,26,32,16,NULL,NBA
+29,401071577,2019,"Mon, Feb 25",Memphis Grizzlies,Los Angeles Lakers,"24-38, 15-16 Home","29-31, 12-19 Away",110,105,LAL -5.0,222,Final,NULL,34,27,26,23,NULL,31,25,25,24,NULL,NBA
+30,401071607,2019,"Fri, Mar 1",Los Angeles Lakers,Milwaukee Bucks,"30-32, 18-13 Home","48-14, 23-9 Away",120,131,MIL -5.5,240,Final,ESPN,26,39,29,26,NULL,27,32,34,38,NULL,NBA
+31,401071631,2019,"Mon, Mar 4",Los Angeles Lakers,LA Clippers,"30-34, 18-14 Home","37-29, 19-17 Away",105,113,LAL -3.5,236,Final,NBATV,34,23,28,20,NULL,26,35,30,22,NULL,NBA
+32,401071662,2019,"Sat, Mar 9",Los Angeles Lakers,Boston Celtics,"30-36, 18-16 Home","41-26, 17-16 Away",107,120,BOS -7.0,221,Final,ABC,24,23,29,31,NULL,25,32,36,27,NULL,NBA
+33,401071696,2019,"Thu, Mar 14",Toronto Raptors,Los Angeles Lakers,"49-20, 28-7 Home","31-37, 13-21 Away",111,98,TOR -7.5,230,Final,TNT,33,32,25,21,NULL,25,29,30,14,NULL,NBA
+34,401071715,2019,"Sun, Mar 17",New York Knicks,Los Angeles Lakers,"14-56, 7-26 Home","31-39, 13-23 Away",124,123,LAL -4.5,221,Final,NULL,41,22,31,30,NULL,30,36,30,27,NULL,NBA
+35,401071759,2019,"Fri, Mar 22",Los Angeles Lakers,Brooklyn Nets,"31-41, 18-17 Home","38-36, 17-20 Away",106,111,BKN -2.0,233,Final,NULL,23,20,30,33,NULL,20,24,34,33,NULL,NBA
+36,401071789,2019,"Tue, Mar 26",Los Angeles Lakers,Washington Wizards,"33-41, 20-17 Home","30-45, 8-29 Away",124,106,LAL -2.5,238,Final,TNT,34,33,30,27,NULL,29,27,27,23,NULL,NBA
+37,401071808,2019,"Fri, Mar 29",Los Angeles Lakers,Charlotte Hornets,"34-42, 21-17 Home","35-40, 11-25 Away",129,115,CHA -2.0,229,Final,NULL,33,36,32,28,NULL,35,24,32,24,NULL,NBA
+38,401071834,2019,"Tue, Apr 2",Oklahoma City Thunder,Los Angeles Lakers,"45-33, 25-14 Home","35-43, 14-26 Away",119,103,OKC -12.0,227,Final,TNT,34,25,35,25,NULL,28,27,23,25,NULL,NBA
+39,401071865,2019,"Fri, Apr 5",LA Clippers,Los Angeles Lakers,"47-33, 25-15 Home","36-44, 15-26 Away",117,122,LAC -11.5,228,Final,NULL,30,37,19,31,NULL,35,26,23,38,NULL,NBA
+40,401070218,2019,"Thu, Oct 18",Portland Trail Blazers,Los Angeles Lakers,"1-0, 1-0 Home","0-1, 0-1 Away",128,119,POR -3.0,225,Final,TNT,34,31,28,35,NULL,31,32,28,28,NULL,NBA
+41,401070729,2019,"Mon, Oct 22",Los Angeles Lakers,San Antonio Spurs,"0-3, 0-2 Home","2-1, 1-1 Away",142,143,LAL -1.5,226,Final/OT,NBATV,26,34,36,32,14,40,25,34,29,15,NBA
+42,401070747,2019,"Thu, Oct 25",Los Angeles Lakers,Denver Nuggets,"2-3, 1-2 Home","4-1, 1-1 Away",121,114,DEN -1.0,235,Final,TNT,22,36,29,34,NULL,26,31,32,25,NULL,NBA
+43,401070774,2019,"Mon, Oct 29",Minnesota Timberwolves,Los Angeles Lakers,"3-4, 3-1 Home","2-5, 1-3 Away",124,120,LAL -2.0,241,Final,NBATV,36,28,29,31,NULL,32,34,28,26,NULL,NBA
+44,401070813,2019,"Sat, Nov 3",Portland Trail Blazers,Los Angeles Lakers,"6-3, 3-2 Home","4-5, 2-3 Away",110,114,POR -3.5,237,Final,NULL,29,28,16,37,NULL,28,28,32,26,NULL,NBA
+45,401070843,2019,"Wed, Nov 7",Los Angeles Lakers,Minnesota Timberwolves,"5-6, 3-3 Home","4-8, 0-7 Away",114,110,LAL -5.5,240,Final,ESPN,30,35,21,28,NULL,32,35,21,22,NULL,NBA
+46,401070870,2019,"Sun, Nov 11",Los Angeles Lakers,Atlanta Hawks,"7-6, 4-3 Home","3-10, 1-6 Away",107,106,LAL -11.0,237,Final,NULL,28,24,32,23,NULL,22,31,22,31,NULL,NBA
+47,401070908,2019,"Sat, Nov 17",Orlando Magic,Los Angeles Lakers,"8-8, 5-5 Home","8-7, 3-4 Away",130,117,LAL -4.5,223,Final,NULL,25,37,38,30,NULL,31,22,28,36,NULL,NBA
+48,401070937,2019,"Wed, Nov 21",Cleveland Cavaliers,Los Angeles Lakers,"2-14, 2-6 Home","10-7, 5-4 Away",105,109,LAL -9.5,221,Final,ESPN,28,24,29,24,NULL,24,25,32,28,NULL,NBA
+49,401070967,2019,"Sun, Nov 25",Los Angeles Lakers,Orlando Magic,"11-8, 6-4 Home","10-10, 4-4 Away",104,108,LAL -7.5,218,Final,NULL,29,23,19,33,NULL,19,32,35,22,NULL,NBA
+50,401070998,2019,"Thu, Nov 29",Los Angeles Lakers,Indiana Pacers,"12-9, 7-4 Home","13-9, 7-5 Away",104,96,LAL -5.0,221,Final,NULL,38,18,27,21,NULL,15,35,25,21,NULL,NBA
+51,401071018,2019,"Sun, Dec 2",Los Angeles Lakers,Phoenix Suns,"14-9, 9-4 Home","4-19, 1-11 Away",120,96,LAL -11.5,221,Final,NULL,21,40,34,25,NULL,31,15,28,22,NULL,NBA
+52,401071056,2019,"Fri, Dec 7",San Antonio Spurs,Los Angeles Lakers,"12-14, 8-4 Home","15-10, 5-6 Away",133,120,EVEN,224,Final,NULL,32,36,21,44,NULL,36,36,27,21,NULL,NBA
+53,401071082,2019,"Mon, Dec 10",Los Angeles Lakers,Miami Heat,"17-10, 11-4 Home","11-15, 6-6 Away",108,105,LAL -5.0,222,Final,NBATV,27,28,29,24,NULL,23,35,25,22,NULL,NBA
+54,401071111,2019,"Sat, Dec 15",Charlotte Hornets,Los Angeles Lakers,"14-15, 10-7 Home","18-11, 7-7 Away",100,128,LAL -1.0,227,Final,NULL,22,28,17,33,NULL,32,25,40,31,NULL,NBA
+55,401071134,2019,"Tue, Dec 18",Brooklyn Nets,Los Angeles Lakers,"14-18, 7-10 Home","18-13, 7-9 Away",115,110,LAL -2.0,230,Final,NBATV,33,29,28,25,NULL,32,25,26,27,NULL,NBA
+56,401071177,2019,"Sun, Dec 23",Los Angeles Lakers,Memphis Grizzlies,"19-14, 12-5 Home","17-16, 8-10 Away",99,107,LAL -5.0,210,Final,NULL,20,26,29,24,NULL,26,24,22,35,NULL,NBA
+57,401071190,2019,"Thu, Dec 27",Sacramento Kings,Los Angeles Lakers,"19-16, 10-7 Home","20-15, 8-10 Away",117,116,SAC -4.5,230,Final,NULL,32,29,23,33,NULL,34,33,28,21,NULL,NBA
+58,401071217,2019,"Sun, Dec 30",Los Angeles Lakers,Sacramento Kings,"21-16, 13-6 Home","19-17, 9-10 Away",121,114,LAL -2.0,233,Final,NULL,37,27,28,29,NULL,31,37,28,18,NULL,NBA
+59,401071250,2019,"Fri, Jan 4",Los Angeles Lakers,New York Knicks,"21-18, 13-8 Home","10-29, 6-17 Away",112,119,LAL -5.5,222,Final,NULL,25,34,33,20,NULL,39,24,23,33,NULL,NBA
+60,401071272,2019,"Mon, Jan 7",Dallas Mavericks,Los Angeles Lakers,"18-22, 15-4 Home","22-19, 9-11 Away",97,107,DAL -7.5,223,Final,NULL,33,34,13,17,NULL,25,29,32,21,NULL,NBA
+61,401071303,2019,"Fri, Jan 11",Utah Jazz,Los Angeles Lakers,"22-21, 10-8 Home","23-20, 9-12 Away",113,95,UTAH -8.0,215,Final,ESPN,32,30,21,30,NULL,26,15,27,27,NULL,NBA
+62,401071332,2019,"Tue, Jan 15",Los Angeles Lakers,Chicago Bulls,"24-21, 15-9 Home","10-34, 5-18 Away",107,100,LAL -7.0,216,Final,NBATV,19,25,32,31,NULL,18,25,25,32,NULL,NBA
+63,401071362,2019,"Sat, Jan 19",Houston Rockets,Los Angeles Lakers,"26-19, 17-7 Home","25-22, 10-13 Away",138,134,HOU -7.0,230,Final/OT,ABC,26,20,36,38,18,39,25,22,34,14,NBA
+64,401071392,2019,"Thu, Jan 24",Los Angeles Lakers,Minnesota Timberwolves,"25-24, 15-11 Home","24-24, 8-16 Away",105,120,LAL -2.0,230,Final,TNT,29,32,21,23,NULL,28,30,26,36,NULL,NBA
+65,401071428,2019,"Tue, Jan 29",Los Angeles Lakers,Philadelphia 76ers,"26-25, 16-12 Home","33-18, 12-13 Away",105,121,PHI -7.0,230,Final,TNT,20,33,28,24,NULL,39,25,32,25,NULL,NBA
+66,401071455,2019,"Sat, Feb 2",Golden State Warriors,Los Angeles Lakers,"37-15, 19-7 Home","27-26, 11-14 Away",115,101,GS -15.5,234,Final,ABC,33,30,25,27,NULL,24,34,28,15,NULL,NBA
+67,401071487,2019,"Thu, Feb 7",Boston Celtics,Los Angeles Lakers,"35-20, 22-7 Home","28-27, 12-15 Away",128,129,BOS -9.0,228,Final,TNT,30,36,27,35,NULL,24,33,42,30,NULL,NBA
+68,401071521,2019,"Tue, Feb 12",Atlanta Hawks,Los Angeles Lakers,"19-38, 9-16 Home","28-29, 12-17 Away",117,113,LAL -6.0,239,Final,NULL,38,27,35,17,NULL,32,37,26,18,NULL,NBA
+69,401071560,2019,"Sat, Feb 23",New Orleans Pelicans,Los Angeles Lakers,"27-34, 18-11 Home","29-30, 12-18 Away",128,115,LAL -6.5,234,Final,NULL,42,27,31,28,NULL,35,22,27,31,NULL,NBA
+70,401071594,2019,"Wed, Feb 27",Los Angeles Lakers,New Orleans Pelicans,"30-31, 18-12 Home","27-36, 9-24 Away",125,119,LAL -6.5,239,Final,ESPN,35,28,32,30,NULL,28,29,35,27,NULL,NBA
+71,401071615,2019,"Sat, Mar 2",Phoenix Suns,Los Angeles Lakers,"13-51, 8-23 Home","30-33, 12-20 Away",118,109,LAL -7.0,234,Final,NULL,33,33,29,23,NULL,26,33,19,31,NULL,NBA
+72,401071647,2019,"Wed, Mar 6",Los Angeles Lakers,Denver Nuggets,"30-35, 18-15 Home","43-21, 16-15 Away",99,115,DEN -5.0,231,Final,ESPN,25,24,28,22,NULL,43,23,19,30,NULL,NBA
+73,401071682,2019,"Tue, Mar 12",Chicago Bulls,Los Angeles Lakers,"19-50, 8-27 Home","31-36, 13-20 Away",107,123,LAL -2.0,226,Final,NULL,34,26,24,23,NULL,16,39,43,25,NULL,NBA
+74,401071699,2019,"Fri, Mar 15",Detroit Pistons,Los Angeles Lakers,"35-33, 22-13 Home","31-38, 13-22 Away",111,97,DET -13.0,216,Final,NULL,27,19,31,34,NULL,22,18,22,35,NULL,NBA
+75,401071734,2019,"Tue, Mar 19",Milwaukee Bucks,Los Angeles Lakers,"53-18, 28-6 Home","31-40, 13-24 Away",115,101,MIL -11.0,229,Final,NBATV,35,26,38,16,NULL,24,34,26,17,NULL,NBA
+76,401071775,2019,"Sun, Mar 24",Los Angeles Lakers,Sacramento Kings,"32-41, 19-17 Home","36-37, 13-22 Away",111,106,EVEN,231,Final,NULL,22,26,39,24,NULL,20,29,28,29,NULL,NBA
+77,401071794,2019,"Wed, Mar 27",Utah Jazz,Los Angeles Lakers,"45-30, 25-12 Home","33-42, 13-25 Away",115,100,UTAH -16.0,219,Final,ESPN,32,28,27,28,NULL,25,28,18,29,NULL,NBA
+78,401071820,2019,"Sun, Mar 31",New Orleans Pelicans,Los Angeles Lakers,"32-46, 19-20 Home","35-42, 14-25 Away",102,130,NO -3.0,231,Final,NULL,26,36,22,18,NULL,26,35,44,25,NULL,NBA
+79,401071852,2019,"Thu, Apr 4",Los Angeles Lakers,Golden State Warriors,"35-44, 21-18 Home","54-24, 26-13 Away",90,108,GS -13.5,227,Final,TNT,12,30,24,24,NULL,39,21,34,14,NULL,NBA
+80,401071881,2019,"Sun, Apr 7",Los Angeles Lakers,Utah Jazz,"37-44, 22-18 Home","49-31, 21-19 Away",113,109,UTAH -12.0,217,Final,NBATV,34,20,27,32,NULL,27,32,24,26,NULL,NBA
+81,401071892,2019,"Tue, Apr 9",Los Angeles Lakers,Portland Trail Blazers,"37-45, 22-19 Home","52-29, 21-20 Away",101,104,POR -9.5,226,Final,NULL,25,23,26,27,NULL,26,27,20,31,NULL,NBA

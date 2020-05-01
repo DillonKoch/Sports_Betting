@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,271101025,2008,"Thu, Nov 1",Seattle SuperSonics,Phoenix Suns,"0-2, 0-1 Home","1-0, 1-0 Away",99,106,NULL,NULL,Final,TNT,26,32,24,17,NULL,27,28,24,27,NULL,NBA
+1,271106023,2008,"Tue, Nov 6",Sacramento Kings,Seattle SuperSonics,"1-3, 1-0 Home","0-4, 0-3 Away",104,98,NULL,NULL,Final,NULL,26,22,24,32,NULL,25,36,17,20,NULL,NBA
+2,271109025,2008,"Fri, Nov 9",Seattle SuperSonics,Utah Jazz,"0-6, 0-3 Home","4-2, 2-1 Away",101,103,NULL,NULL,Final,NULL,25,21,29,26,NULL,28,24,26,25,NULL,NBA
+3,271113019,2008,"Tue, Nov 13",Orlando Magic,Seattle SuperSonics,"6-2, 2-2 Home","0-8, 0-4 Away",103,76,NULL,NULL,Final,NULL,28,21,36,18,NULL,14,22,20,20,NULL,NBA
+4,271116001,2008,"Fri, Nov 16",Atlanta Hawks,Seattle SuperSonics,"3-5, 3-2 Home","2-8, 2-4 Away",123,126,NULL,NULL,Final/2OT,NULL,23,22,37,25,16,26,32,26,23,19,NBA
+5,271119029,2008,"Mon, Nov 19",Memphis Grizzlies,Seattle SuperSonics,"3-7, 2-3 Home","2-10, 2-6 Away",125,108,NULL,NULL,Final,NBATV,38,30,34,23,NULL,24,29,24,31,NULL,NBA
+6,271125025,2008,"Sun, Nov 25",Seattle SuperSonics,San Antonio Spurs,"2-12, 0-6 Home","12-2, 4-2 Away",101,116,NULL,NULL,Final,NULL,30,34,20,17,NULL,32,32,27,25,NULL,NBA
+7,271128025,2008,"Wed, Nov 28",Seattle SuperSonics,Orlando Magic,"2-14, 0-7 Home","14-3, 9-1 Away",94,110,NULL,NULL,Final,NBATV,24,21,23,26,NULL,30,27,26,27,NULL,NBA
+8,271202025,2008,"Sun, Dec 2",Seattle SuperSonics,Golden State Warriors,"3-15, 1-8 Home","9-7, 6-3 Away",96,109,NULL,NULL,Final,NULL,18,23,25,30,NULL,35,25,28,21,NULL,NBA
+9,271207025,2008,"Fri, Dec 7",Seattle SuperSonics,Milwaukee Bucks,"5-15, 3-8 Home","8-10, 2-8 Away",104,98,NULL,NULL,Final,NULL,31,22,20,31,NULL,24,25,19,30,NULL,NBA
+10,271211004,2008,"Tue, Dec 11",Chicago Bulls,Seattle SuperSonics,"7-12, 4-5 Home","5-17, 2-9 Away",123,96,NULL,NULL,Final,NULL,31,36,30,26,NULL,27,22,24,23,NULL,NBA
+11,271214016,2008,"Fri, Dec 14",Minnesota Timberwolves,Seattle SuperSonics,"3-18, 2-9 Home","7-17, 4-9 Away",88,99,NULL,NULL,Final,NULL,26,20,19,23,NULL,11,32,32,24,NULL,NBA
+12,271219025,2008,"Wed, Dec 19",Seattle SuperSonics,New Orleans Hornets,"7-19, 3-9 Home","16-10, 9-5 Away",93,107,NULL,NULL,Final,NULL,17,16,30,30,NULL,24,28,29,26,NULL,NBA
+13,271225022,2008,"Tue, Dec 25",Portland Trail Blazers,Seattle SuperSonics,"16-12, 13-3 Home","8-20, 4-11 Away",89,79,NULL,NULL,Final,ESPN,24,22,24,19,NULL,24,20,18,17,NULL,NBA
+14,271229025,2008,"Sat, Dec 29",Seattle SuperSonics,Minnesota Timberwolves,"9-21, 5-10 Home","4-25, 1-15 Away",109,90,NULL,NULL,Final,NULL,21,36,27,25,NULL,30,16,13,31,NULL,NBA
+15,280103021,2008,"Thu, Jan 3",Phoenix Suns,Seattle SuperSonics,"23-9, 10-3 Home","9-23, 4-12 Away",104,96,NULL,NULL,Final,TNT,13,30,29,32,NULL,33,12,18,33,NULL,NBA
+16,280108005,2008,"Tue, Jan 8",Cleveland Cavaliers,Seattle SuperSonics,"18-17, 11-6 Home","9-25, 4-14 Away",95,79,NULL,NULL,Final,NULL,24,21,29,21,NULL,15,18,23,23,NULL,NBA
+17,280111025,2008,"Fri, Jan 11",Seattle SuperSonics,Dallas Mavericks,"9-27, 5-12 Home","25-11, 8-8 Away",70,90,NULL,NULL,Final,NULL,16,19,13,22,NULL,18,26,22,24,NULL,NBA
+18,280116003,2008,"Wed, Jan 16",New Orleans Hornets,Seattle SuperSonics,"26-12, 11-7 Home","9-29, 4-16 Away",123,92,NULL,NULL,Final,NULL,30,35,30,28,NULL,18,28,29,17,NULL,NBA
+19,280119006,2008,"Sat, Jan 19",Dallas Mavericks,Seattle SuperSonics,"27-12, 18-3 Home","9-31, 4-18 Away",111,96,NULL,NULL,Final,NULL,33,33,23,22,NULL,24,20,28,24,NULL,NBA
+20,280123025,2008,"Wed, Jan 23",Seattle SuperSonics,Houston Rockets,"9-33, 5-14 Home","23-19, 12-11 Away",107,109,NULL,NULL,Final,NULL,25,34,24,24,NULL,24,26,28,31,NULL,NBA
+21,280127025,2008,"Sun, Jan 27",Seattle SuperSonics,Sacramento Kings,"9-35, 5-16 Home","19-24, 7-15 Away",101,103,NULL,NULL,Final,NULL,18,30,25,28,NULL,25,29,20,29,NULL,NBA
+22,280131025,2008,"Thu, Jan 31",Seattle SuperSonics,Cleveland Cavaliers,"11-35, 7-16 Home","25-20, 12-13 Away",101,95,NULL,NULL,Final,NULL,40,22,23,16,NULL,24,18,26,27,NULL,NBA
+23,280204025,2008,"Mon, Feb 4",Seattle SuperSonics,Chicago Bulls,"12-36, 8-17 Home","19-28, 9-15 Away",108,118,NULL,NULL,Final,NULL,25,24,24,35,NULL,27,29,27,35,NULL,NBA
+24,280208021,2008,"Fri, Feb 8",Phoenix Suns,Seattle SuperSonics,"35-15, 18-6 Home","13-37, 5-20 Away",103,99,NULL,NULL,Final,NULL,26,27,25,25,NULL,23,26,25,25,NULL,NBA
+25,280219025,2008,"Tue, Feb 19",Seattle SuperSonics,Memphis Grizzlies,"14-38, 9-18 Home","14-39, 4-21 Away",108,101,NULL,NULL,Final,NULL,27,21,32,28,NULL,31,31,16,23,NULL,NBA
+26,280222025,2008,"Fri, Feb 22",Seattle SuperSonics,Portland Trail Blazers,"15-39, 10-18 Home","29-26, 8-19 Away",99,87,NULL,NULL,Final,NULL,29,23,19,28,NULL,19,19,22,27,NULL,NBA
+27,280226009,2008,"Tue, Feb 26",Golden State Warriors,Seattle SuperSonics,"34-22, 19-10 Home","15-41, 5-22 Away",105,99,NULL,NULL,Final,TNT,27,26,27,25,NULL,32,25,17,25,NULL,NBA
+28,280229025,2008,"Fri, Feb 29",Seattle SuperSonics,Miami Heat,"15-43, 10-21 Home","11-46, 5-24 Away",93,103,NULL,NULL,Final,NULL,26,21,29,17,NULL,25,19,33,26,NULL,NBA
+29,280304008,2008,"Tue, Mar 4",Detroit Pistons,Seattle SuperSonics,"44-16, 23-5 Home","16-44, 6-23 Away",100,97,NULL,NULL,Final,NULL,28,25,24,23,NULL,41,13,24,19,NULL,NBA
+30,280307020,2008,"Fri, Mar 7",Philadelphia 76ers,Seattle SuperSonics,"29-33, 17-14 Home","16-46, 6-25 Away",117,83,NULL,NULL,Final,NULL,33,28,27,29,NULL,22,30,14,17,NULL,NBA
+31,280311011,2008,"Tue, Mar 11",Indiana Pacers,Seattle SuperSonics,"25-39, 13-18 Home","16-48, 6-27 Away",114,107,NULL,NULL,Final,NULL,31,25,30,28,NULL,24,31,27,25,NULL,NBA
+32,280314025,2008,"Fri, Mar 14",Seattle SuperSonics,Minnesota Timberwolves,"16-50, 10-22 Home","15-49, 5-26 Away",116,121,NULL,NULL,Final,NULL,30,30,28,28,NULL,32,25,40,24,NULL,NBA
+33,280319025,2008,"Wed, Mar 19",Seattle SuperSonics,Phoenix Suns,"16-52, 10-23 Home","46-22, 21-12 Away",98,110,NULL,NULL,Final,NULL,23,32,23,20,NULL,34,30,20,26,NULL,NBA
+34,280322026,2008,"Sat, Mar 22",Utah Jazz,Seattle SuperSonics,"46-25, 30-4 Home","16-54, 6-31 Away",115,101,NULL,NULL,Final,NULL,23,29,33,30,NULL,34,27,20,20,NULL,NBA
+35,280326025,2008,"Wed, Mar 26",Seattle SuperSonics,Washington Wizards,"17-55, 11-24 Home","37-34, 16-19 Away",99,104,NULL,NULL,Final,NULL,23,33,19,24,NULL,29,21,18,36,NULL,NBA
+36,280330025,2008,"Sun, Mar 30",Seattle SuperSonics,Sacramento Kings,"17-57, 11-26 Home","33-40, 11-27 Away",107,120,NULL,NULL,Final,NULL,39,26,18,24,NULL,34,28,32,26,NULL,NBA
+37,280404025,2008,"Fri, Apr 4",Seattle SuperSonics,Houston Rockets,"17-59, 11-28 Home","51-25, 23-15 Away",66,79,NULL,NULL,Final,NULL,17,24,13,12,NULL,22,18,29,10,NULL,NBA
+38,280408006,2008,"Tue, Apr 8",Dallas Mavericks,Seattle SuperSonics,"49-29, 32-7 Home","18-60, 6-32 Away",99,83,NULL,NULL,Final,NULL,23,23,24,29,NULL,21,23,19,20,NULL,NBA
+39,280411024,2008,"Fri, Apr 11",San Antonio Spurs,Seattle SuperSonics,"54-25, 33-7 Home","18-62, 6-34 Away",95,74,NULL,NULL,Final,NULL,13,32,27,23,NULL,20,17,20,17,NULL,NBA
+40,271031007,2008,"Wed, Oct 31",Denver Nuggets,Seattle SuperSonics,"1-0, 1-0 Home","0-1, 0-1 Away",120,103,NULL,NULL,Final,ESPN,35,24,27,34,NULL,31,27,23,22,NULL,NBA
+41,271104012,2008,"Sun, Nov 4",LA Clippers,Seattle SuperSonics,"2-0, 2-0 Home","0-3, 0-2 Away",115,101,NULL,NULL,Final,NULL,25,27,26,37,NULL,21,31,24,25,NULL,NBA
+42,271107025,2008,"Wed, Nov 7",Seattle SuperSonics,Memphis Grizzlies,"0-5, 0-2 Home","1-2, 1-0 Away",98,105,NULL,NULL,Final,NULL,24,33,24,17,NULL,27,22,38,18,NULL,NBA
+43,271111025,2008,"Sun, Nov 11",Seattle SuperSonics,Detroit Pistons,"0-7, 0-4 Home","5-1, 3-1 Away",103,107,NULL,NULL,Final,NBATV,20,32,21,30,NULL,35,29,17,26,NULL,NBA
+44,271114014,2008,"Wed, Nov 14",Miami Heat,Seattle SuperSonics,"1-7, 0-4 Home","1-8, 1-4 Away",95,104,NULL,NULL,Final,NULL,25,16,27,27,NULL,30,31,19,24,NULL,NBA
+45,271117030,2008,"Sat, Nov 17",Charlotte Bobcats,Seattle SuperSonics,"5-4, 4-2 Home","2-9, 2-5 Away",100,84,NULL,NULL,Final,NULL,22,25,30,23,NULL,22,27,21,14,NULL,NBA
+46,271123025,2008,"Fri, Nov 23",Seattle SuperSonics,New Jersey Nets,"2-11, 0-5 Home","6-7, 3-2 Away",93,98,NULL,NULL,Final,ESPN,22,20,26,25,NULL,28,24,24,22,NULL,NBA
+47,271127013,2008,"Tue, Nov 27",Los Angeles Lakers,Seattle SuperSonics,"8-6, 5-3 Home","2-13, 2-7 Away",106,99,NULL,NULL,Final,NULL,30,24,31,21,NULL,25,29,19,26,NULL,NBA
+48,271130025,2008,"Fri, Nov 30",Seattle SuperSonics,Indiana Pacers,"3-14, 1-7 Home","8-9, 4-4 Away",95,93,NULL,NULL,Final,NULL,22,27,21,25,NULL,24,24,17,28,NULL,NBA
+49,271205025,2008,"Wed, Dec 5",Seattle SuperSonics,LA Clippers,"4-15, 2-8 Home","6-11, 2-5 Away",95,88,NULL,NULL,Final,NULL,18,25,30,22,NULL,17,18,26,27,NULL,NBA
+50,271209003,2008,"Sun, Dec 9",New Orleans Hornets,Seattle SuperSonics,"14-7, 6-5 Home","5-16, 2-8 Away",91,88,NULL,NULL,Final,NULL,23,29,15,24,NULL,17,24,24,23,NULL,NBA
+51,271212018,2008,"Wed, Dec 12",New York Knicks,Seattle SuperSonics,"6-15, 5-7 Home","6-17, 3-9 Away",110,117,NULL,NULL,Final,NULL,31,25,23,31,NULL,27,26,30,34,NULL,NBA
+52,271215026,2008,"Sat, Dec 15",Utah Jazz,Seattle SuperSonics,"14-11, 9-2 Home","7-18, 4-10 Away",96,75,NULL,NULL,Final,NULL,20,31,25,20,NULL,27,13,26,9,NULL,NBA
+53,271221025,2008,"Fri, Dec 21",Seattle SuperSonics,Toronto Raptors,"8-19, 4-9 Home","15-13, 7-7 Away",123,115,NULL,NULL,Final,NULL,33,23,36,31,NULL,33,29,21,32,NULL,NBA
+54,271227025,2008,"Thu, Dec 27",Seattle SuperSonics,Boston Celtics,"8-21, 4-10 Home","24-3, 10-2 Away",96,104,NULL,NULL,Final,TNT,19,27,21,29,NULL,24,23,23,34,NULL,NBA
+55,271231025,2008,"Mon, Dec 31",Seattle SuperSonics,Philadelphia 76ers,"9-22, 5-11 Home","14-17, 7-8 Away",90,98,NULL,NULL,Final,CSN,23,11,28,28,NULL,21,25,27,25,NULL,NBA
+56,280106027,2008,"Sun, Jan 6",Washington Wizards,Seattle SuperSonics,"17-15, 10-7 Home","9-24, 4-13 Away",108,86,NULL,NULL,Final,NULL,31,21,26,30,NULL,17,29,23,17,NULL,NBA
+57,280109017,2008,"Wed, Jan 9",New Jersey Nets,Seattle SuperSonics,"18-17, 9-11 Home","9-26, 4-15 Away",99,88,NULL,NULL,Final,YES,30,29,21,19,NULL,21,25,19,23,NULL,NBA
+58,280114025,2008,"Mon, Jan 14",Seattle SuperSonics,Los Angeles Lakers,"9-28, 5-13 Home","26-11, 11-6 Away",121,123,NULL,NULL,Final/OT,NULL,29,33,29,24,6,28,36,23,28,8,NBA
+59,280118029,2008,"Fri, Jan 18",Memphis Grizzlies,Seattle SuperSonics,"11-28, 7-13 Home","9-30, 4-17 Away",124,100,NULL,NULL,Final,NULL,32,36,34,22,NULL,25,22,25,28,NULL,NBA
+60,280121010,2008,"Mon, Jan 21",Houston Rockets,Seattle SuperSonics,"22-19, 11-8 Home","9-32, 4-19 Away",96,89,NULL,NULL,Final,NULL,22,31,24,19,NULL,24,28,16,21,NULL,NBA
+61,280125025,2008,"Fri, Jan 25",Seattle SuperSonics,Atlanta Hawks,"9-34, 5-15 Home","19-21, 6-12 Away",90,99,NULL,NULL,Final,NULL,14,17,28,31,NULL,23,29,26,21,NULL,NBA
+62,280129025,2008,"Tue, Jan 29",Seattle SuperSonics,San Antonio Spurs,"10-35, 6-16 Home","28-16, 8-11 Away",88,85,NULL,NULL,Final,NULL,25,21,17,25,NULL,26,22,18,19,NULL,NBA
+63,280202025,2008,"Sat, Feb 2",Seattle SuperSonics,New York Knicks,"12-35, 8-16 Home","14-33, 4-19 Away",86,85,NULL,NULL,Final,NULL,17,17,29,23,NULL,15,23,23,24,NULL,NBA
+64,280206023,2008,"Wed, Feb 6",Sacramento Kings,Seattle SuperSonics,"22-25, 15-10 Home","13-36, 5-19 Away",92,105,NULL,NULL,Final,NULL,29,20,24,19,NULL,25,23,33,24,NULL,NBA
+65,280213025,2008,"Wed, Feb 13",Seattle SuperSonics,Utah Jazz,"13-38, 8-18 Home","34-19, 12-16 Away",93,112,NULL,NULL,Final,NULL,24,23,26,20,NULL,27,22,32,31,NULL,NBA
+66,280221022,2008,"Thu, Feb 21",Portland Trail Blazers,Seattle SuperSonics,"29-25, 21-7 Home","14-39, 5-21 Away",92,88,NULL,NULL,Final,TNT,23,28,19,22,NULL,25,16,26,21,NULL,NBA
+67,280224025,2008,"Sun, Feb 24",Seattle SuperSonics,Los Angeles Lakers,"15-40, 10-19 Home","39-17, 21-10 Away",91,111,NULL,NULL,Final,NULL,18,25,27,21,NULL,34,28,31,18,NULL,NBA
+68,280227025,2008,"Wed, Feb 27",Seattle SuperSonics,Denver Nuggets,"15-42, 10-20 Home","34-23, 12-16 Away",96,138,NULL,NULL,Final,NULL,19,26,30,21,NULL,31,33,36,38,NULL,NBA
+69,280302016,2008,"Sun, Mar 2",Minnesota Timberwolves,Seattle SuperSonics,"12-46, 10-21 Home","16-43, 6-22 Away",108,111,NULL,NULL,Final/OT,NULL,26,25,25,26,6,34,24,17,27,9,NBA
+70,280305015,2008,"Wed, Mar 5",Milwaukee Bucks,Seattle SuperSonics,"23-38, 17-12 Home","16-45, 6-24 Away",118,106,NULL,NULL,Final,NULL,39,30,29,20,NULL,24,30,29,23,NULL,NBA
+71,280309028,2008,"Sun, Mar 9",Toronto Raptors,Seattle SuperSonics,"34-28, 19-13 Home","16-47, 6-26 Away",114,106,NULL,NULL,Final,NULL,24,30,35,25,NULL,31,27,21,27,NULL,NBA
+72,280312002,2008,"Wed, Mar 12",Boston Celtics,Seattle SuperSonics,"51-12, 29-4 Home","16-49, 6-28 Away",111,82,NULL,NULL,Final,NULL,34,30,28,19,NULL,24,20,16,22,NULL,NBA
+73,280316007,2008,"Sun, Mar 16",Denver Nuggets,Seattle SuperSonics,"40-26, 28-7 Home","16-51, 6-29 Away",168,116,NULL,NULL,Final,NULL,48,36,43,41,NULL,29,29,27,31,NULL,NBA
+74,280321013,2008,"Fri, Mar 21",Los Angeles Lakers,Seattle SuperSonics,"48-21, 24-8 Home","16-53, 6-30 Away",130,105,NULL,NULL,Final,NULL,34,28,31,37,NULL,21,33,22,29,NULL,NBA
+75,280324025,2008,"Mon, Mar 24",Seattle SuperSonics,Portland Trail Blazers,"17-54, 11-23 Home","37-34, 13-24 Away",97,84,NULL,NULL,Final,NULL,21,28,22,26,NULL,25,28,10,21,NULL,NBA
+76,280328025,2008,"Fri, Mar 28",Seattle SuperSonics,Charlotte Bobcats,"17-56, 11-25 Home","27-45, 8-28 Away",93,96,NULL,NULL,Final,NULL,27,26,23,17,NULL,38,17,17,24,NULL,NBA
+77,280402025,2008,"Wed, Apr 2",Seattle SuperSonics,LA Clippers,"17-58, 11-27 Home","23-52, 10-27 Away",84,102,NULL,NULL,Final,NULL,22,28,20,14,NULL,27,21,21,33,NULL,NBA
+78,280406025,2008,"Sun, Apr 6",Seattle SuperSonics,Denver Nuggets,"18-59, 12-28 Home","46-31, 15-23 Away",151,147,NULL,NULL,Final/2OT,NBATV,31,39,29,27,25,36,28,31,31,21,NBA
+79,280409010,2008,"Wed, Apr 9",Houston Rockets,Seattle SuperSonics,"53-25, 29-10 Home","18-61, 6-33 Away",103,80,NULL,NULL,Final,NULL,21,25,29,28,NULL,26,11,22,21,NULL,NBA
+80,280413025,2008,"Sun, Apr 13",Seattle SuperSonics,Dallas Mavericks,"19-62, 13-28 Home","50-31, 17-24 Away",99,95,NULL,NULL,Final,NULL,19,31,31,18,NULL,25,26,27,17,NULL,NBA
+81,280416009,2008,"Wed, Apr 16",Golden State Warriors,Seattle SuperSonics,"48-34, 27-14 Home","20-62, 7-34 Away",121,126,NULL,NULL,Final,NULL,24,36,20,41,NULL,35,33,27,31,NULL,NBA

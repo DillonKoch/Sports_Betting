@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,400488899,2014,"Fri, Nov 1",Memphis Grizzlies,Detroit Pistons,"1-1, 1-0 Home","1-1, 0-1 Away",111,108,NULL,NULL,Final/OT,NULL,17,30,20,28,16,21,20,28,26,13,NBA
+1,400488926,2014,"Tue, Nov 5",Detroit Pistons,Indiana Pacers,"2-2, 2-1 Home","4-0, 2-0 Away",91,99,NULL,NULL,Final,NULL,14,27,22,28,NULL,29,9,36,25,NULL,NBA
+2,400488978,2014,"Mon, Nov 11",Portland Trail Blazers,Detroit Pistons,"5-2, 3-1 Home","2-4, 0-2 Away",109,103,NULL,NULL,Final,NULL,34,24,25,26,NULL,30,25,23,25,NULL,NBA
+3,400489008,2014,"Fri, Nov 15",Sacramento Kings,Detroit Pistons,"2-6, 2-4 Home","3-5, 1-3 Away",90,97,NULL,NULL,Final,ESPN,21,30,19,20,NULL,27,27,26,17,NULL,NBA
+4,400489030,2014,"Tue, Nov 19",Detroit Pistons,New York Knicks,"4-6, 3-2 Home","3-7, 2-2 Away",92,86,NULL,NULL,Final,NULL,26,17,28,21,NULL,24,19,20,23,NULL,NBA
+5,400489053,2014,"Fri, Nov 22",Detroit Pistons,Atlanta Hawks,"4-8, 3-3 Home","8-5, 4-4 Away",89,96,NULL,NULL,Final,NULL,22,22,24,21,NULL,27,22,24,23,NULL,NBA
+6,400489077,2014,"Mon, Nov 25",Detroit Pistons,Milwaukee Bucks,"6-8, 4-3 Home","2-11, 1-6 Away",113,94,NULL,NULL,Final,NULL,38,27,27,21,NULL,18,16,32,28,NULL,NBA
+7,400489106,2014,"Fri, Nov 29",Detroit Pistons,Los Angeles Lakers,"6-10, 4-5 Home","9-8, 3-5 Away",102,106,NULL,NULL,Final,NULL,32,23,32,15,NULL,31,25,21,29,NULL,NBA
+8,400489137,2014,"Tue, Dec 3",Miami Heat,Detroit Pistons,"14-4, 9-2 Home","8-10, 3-5 Away",97,107,NULL,NULL,Final,NULL,18,25,25,29,NULL,28,26,28,25,NULL,NBA
+9,400489165,2014,"Sat, Dec 7",Chicago Bulls,Detroit Pistons,"8-10, 6-2 Home","10-10, 5-5 Away",75,92,NULL,NULL,Final,WGNS,24,23,9,19,NULL,25,22,24,21,NULL,NBA
+10,400489188,2014,"Tue, Dec 10",Detroit Pistons,Minnesota Timberwolves,"10-12, 5-7 Home","10-11, 4-7 Away",94,121,NULL,NULL,Final,NULL,32,19,26,17,NULL,33,31,32,25,NULL,NBA
+11,400489207,2014,"Fri, Dec 13",Detroit Pistons,Brooklyn Nets,"11-13, 6-7 Home","8-15, 4-9 Away",103,99,NULL,NULL,Final,NULL,23,38,25,17,NULL,24,20,24,31,NULL,NBA
+12,400489229,2014,"Mon, Dec 16",Indiana Pacers,Detroit Pistons,"20-4, 11-1 Home","12-14, 6-6 Away",96,101,NULL,NULL,Final,NULL,28,21,24,23,NULL,31,25,23,22,NULL,NBA
+13,400489259,2014,"Fri, Dec 20",Detroit Pistons,Charlotte Bobcats,"13-15, 6-9 Home","13-14, 6-6 Away",106,116,NULL,NULL,Final,NULL,31,28,30,17,NULL,22,22,31,41,NULL,NBA
+14,400489281,2014,"Mon, Dec 23",Cleveland Cavaliers,Detroit Pistons,"10-17, 8-5 Home","14-16, 8-6 Away",92,115,NULL,NULL,Final,NULL,18,22,24,28,NULL,28,30,31,26,NULL,NBA
+15,400489312,2014,"Sat, Dec 28",Washington Wizards,Detroit Pistons,"13-14, 7-5 Home","14-18, 8-8 Away",106,82,NULL,NULL,Final,NULL,31,31,24,20,NULL,23,18,21,20,NULL,NBA
+16,400489371,2014,"Sun, Jan 5",Detroit Pistons,Memphis Grizzlies,"14-20, 6-12 Home","15-18, 8-7 Away",84,112,NULL,NULL,Final,NULL,27,29,11,17,NULL,28,23,28,33,NULL,NBA
+17,400489394,2014,"Wed, Jan 8",Toronto Raptors,Detroit Pistons,"17-17, 7-8 Home","14-22, 8-10 Away",112,91,NULL,NULL,Final,NULL,26,24,34,28,NULL,25,29,20,17,NULL,NBA
+18,400489418,2014,"Sat, Jan 11",Detroit Pistons,Phoenix Suns,"16-22, 7-12 Home","21-15, 9-10 Away",110,108,NULL,NULL,Final,NULL,35,29,25,21,NULL,21,30,28,29,NULL,NBA
+19,400489468,2014,"Sat, Jan 18",Washington Wizards,Detroit Pistons,"19-20, 9-10 Home","17-23, 10-10 Away",98,104,NULL,NULL,Final,NULL,29,25,22,22,NULL,22,24,33,25,NULL,NBA
+20,400489501,2014,"Wed, Jan 22",Milwaukee Bucks,Detroit Pistons,"8-33, 4-15 Home","17-25, 10-11 Away",104,101,NULL,NULL,Final,NULL,25,25,31,23,NULL,28,28,29,16,NULL,NBA
+21,400489532,2014,"Sun, Jan 26",Dallas Mavericks,Detroit Pistons,"26-20, 15-7 Home","17-27, 10-12 Away",116,106,NULL,NULL,Final,NULL,28,28,28,32,NULL,25,21,35,25,NULL,NBA
+22,NULL,2014,"Wed, Jan 29",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NBA
+23,400489586,2014,"Mon, Feb 3",Miami Heat,Detroit Pistons,"34-13, 20-4 Home","19-28, 10-13 Away",102,96,NULL,NULL,Final,NULL,32,31,21,18,NULL,29,28,23,16,NULL,NBA
+24,400489617,2014,"Fri, Feb 7",Detroit Pistons,Brooklyn Nets,"20-29, 10-15 Home","22-26, 8-15 Away",111,95,NULL,NULL,Final,NULL,30,37,29,15,NULL,17,27,29,22,NULL,NBA
+25,400489639,2014,"Mon, Feb 10",Detroit Pistons,San Antonio Spurs,"22-29, 12-15 Home","37-15, 19-7 Away",109,100,NULL,NULL,Final,NULL,25,34,33,17,NULL,24,24,24,28,NULL,NBA
+26,400489668,2014,"Tue, Feb 18",Detroit Pistons,Charlotte Bobcats,"22-31, 12-17 Home","24-30, 12-16 Away",96,108,NULL,NULL,Final,NULL,21,22,24,29,NULL,32,22,25,29,NULL,NBA
+27,400489692,2014,"Fri, Feb 21",Detroit Pistons,Atlanta Hawks,"23-32, 13-17 Home","25-29, 9-19 Away",115,107,NULL,NULL,Final,NULL,19,33,34,29,NULL,22,41,20,24,NULL,NBA
+28,400489715,2014,"Mon, Feb 24",Detroit Pistons,Golden State Warriors,"23-34, 13-19 Home","35-22, 17-12 Away",96,104,NULL,NULL,Final,NULL,37,25,21,13,NULL,33,30,18,23,NULL,NBA
+29,400489749,2014,"Sat, Mar 1",Houston Rockets,Detroit Pistons,"40-19, 23-7 Home","23-36, 10-17 Away",118,110,NULL,NULL,Final,NULL,41,28,26,23,NULL,20,26,34,30,NULL,NBA
+30,400489782,2014,"Wed, Mar 5",Detroit Pistons,Chicago Bulls,"24-37, 14-20 Home","34-27, 16-17 Away",94,105,NULL,NULL,Final,NULL,25,22,23,24,NULL,19,33,19,34,NULL,NBA
+31,400489810,2014,"Sun, Mar 9",Boston Celtics,Detroit Pistons,"22-41, 14-19 Home","24-39, 10-19 Away",118,111,NULL,NULL,Final,NBATV,26,31,38,23,NULL,22,27,35,27,NULL,NBA
+32,400489833,2014,"Wed, Mar 12",Toronto Raptors,Detroit Pistons,"36-27, 19-12 Home","25-40, 10-20 Away",101,87,NULL,NULL,Final,NULL,29,23,22,27,NULL,21,24,24,18,NULL,NBA
+33,400489888,2014,"Wed, Mar 19",Denver Nuggets,Detroit Pistons,"31-37, 18-16 Home","25-42, 10-21 Away",118,109,NULL,NULL,Final,NULL,27,27,31,33,NULL,28,33,23,25,NULL,NBA
+34,400489912,2014,"Sat, Mar 22",LA Clippers,Detroit Pistons,"49-21, 30-5 Home","25-44, 10-23 Away",112,103,NULL,NULL,Final,NULL,36,20,24,32,NULL,26,29,15,33,NULL,NBA
+35,400489937,2014,"Wed, Mar 26",Detroit Pistons,Cleveland Cavaliers,"26-45, 15-22 Home","29-44, 13-24 Away",96,97,NULL,NULL,Final,NULL,33,18,31,14,NULL,24,26,16,31,NULL,NBA
+36,400489960,2014,"Sat, Mar 29",Philadelphia 76ers,Detroit Pistons,"16-57, 9-29 Home","26-47, 11-24 Away",123,98,NULL,NULL,Final,NULL,33,37,28,25,NULL,23,28,17,30,NULL,NBA
+37,400489987,2014,"Wed, Apr 2",Indiana Pacers,Detroit Pistons,"53-23, 34-5 Home","27-48, 11-25 Away",101,94,NULL,NULL,Final,NULL,28,22,23,28,NULL,27,19,28,20,NULL,NBA
+38,400490019,2014,"Sat, Apr 5",Detroit Pistons,Boston Celtics,"28-49, 17-23 Home","23-54, 8-30 Away",115,111,NULL,NULL,Final,NULL,29,26,30,30,NULL,32,33,30,16,NULL,NBA
+39,400490035,2014,"Wed, Apr 9",Cleveland Cavaliers,Detroit Pistons,"32-47, 18-21 Home","29-50, 12-27 Away",122,100,NULL,NULL,Final,NULL,31,38,29,24,NULL,18,19,33,30,NULL,NBA
+40,400490071,2014,"Sun, Apr 13",Detroit Pistons,Toronto Raptors,"29-52, 17-24 Home","47-33, 22-18 Away",107,116,NULL,NULL,Final,NBATV,26,23,37,21,NULL,42,21,24,29,NULL,NBA
+41,400488880,2014,"Wed, Oct 30",Detroit Pistons,Washington Wizards,"1-0, 1-0 Home","0-1, 0-1 Away",113,102,NULL,NULL,Final,NULL,25,30,26,32,NULL,22,21,30,29,NULL,NBA
+42,400488914,2014,"Sun, Nov 3",Detroit Pistons,Boston Celtics,"2-1, 2-0 Home","0-3, 0-2 Away",87,77,NULL,NULL,Final,NULL,24,21,18,24,NULL,21,14,23,19,NULL,NBA
+43,400488951,2014,"Fri, Nov 8",Detroit Pistons,Oklahoma City Thunder,"2-3, 2-2 Home","4-1, 2-1 Away",110,119,NULL,NULL,Final,NULL,22,29,25,34,NULL,20,35,29,35,NULL,NBA
+44,400488982,2014,"Tue, Nov 12",Golden State Warriors,Detroit Pistons,"5-3, 3-0 Home","2-5, 0-3 Away",113,95,NULL,NULL,Final,NBATV,35,27,32,19,NULL,16,25,30,24,NULL,NBA
+45,400489022,2014,"Sun, Nov 17",Los Angeles Lakers,Detroit Pistons,"5-7, 4-3 Home","3-6, 1-4 Away",114,99,NULL,NULL,Final,NULL,27,23,29,35,NULL,29,27,15,28,NULL,NBA
+46,400489039,2014,"Wed, Nov 20",Atlanta Hawks,Detroit Pistons,"7-5, 4-1 Home","4-7, 1-5 Away",93,85,NULL,NULL,Final,NULL,15,28,23,27,NULL,13,33,18,21,NULL,NBA
+47,400489070,2014,"Sun, Nov 24",Brooklyn Nets,Detroit Pistons,"3-10, 2-3 Home","5-8, 2-5 Away",97,109,NULL,NULL,Final,NULL,19,32,15,31,NULL,23,21,34,31,NULL,NBA
+48,400489093,2014,"Wed, Nov 27",Detroit Pistons,Chicago Bulls,"6-9, 4-4 Home","7-7, 2-7 Away",79,99,NULL,NULL,Final,NULL,29,24,15,11,NULL,25,26,25,23,NULL,NBA
+49,400489123,2014,"Sun, Dec 1",Detroit Pistons,Philadelphia 76ers,"7-10, 5-5 Home","6-12, 1-7 Away",115,100,NULL,NULL,Final,NULL,40,30,24,21,NULL,25,21,36,18,NULL,NBA
+50,400489145,2014,"Wed, Dec 4",Milwaukee Bucks,Detroit Pistons,"3-15, 2-7 Home","9-10, 4-5 Away",98,105,NULL,NULL,Final,NULL,19,31,17,31,NULL,26,19,35,25,NULL,NBA
+51,400489173,2014,"Sun, Dec 8",Detroit Pistons,Miami Heat,"10-11, 5-6 Home","16-5, 7-3 Away",95,110,NULL,NULL,Final,NULL,21,32,17,25,NULL,29,30,32,19,NULL,NBA
+52,400489196,2014,"Wed, Dec 11",New Orleans Pelicans,Detroit Pistons,"10-10, 6-5 Home","10-13, 5-6 Away",111,106,NULL,NULL,Final/OT,NULL,29,28,26,13,15,28,23,23,22,10,NBA
+53,400489225,2014,"Sun, Dec 15",Detroit Pistons,Portland Trail Blazers,"11-14, 6-8 Home","21-4, 11-2 Away",109,111,NULL,NULL,Final/OT,NULL,22,29,33,15,10,29,21,23,26,12,NBA
+54,400489246,2014,"Wed, Dec 18",Boston Celtics,Detroit Pistons,"12-15, 7-7 Home","13-14, 7-6 Away",106,107,NULL,NULL,Final,NULL,42,21,18,25,NULL,23,29,28,27,NULL,NBA
+55,400489269,2014,"Sat, Dec 21",Detroit Pistons,Houston Rockets,"13-16, 6-10 Home","18-10, 7-7 Away",97,114,NULL,NULL,Final,NULL,24,29,18,26,NULL,33,28,25,28,NULL,NBA
+56,400489301,2014,"Fri, Dec 27",Orlando Magic,Detroit Pistons,"9-20, 6-9 Home","14-17, 8-7 Away",109,92,NULL,NULL,Final,NULL,26,29,30,24,NULL,21,27,18,26,NULL,NBA
+57,400489326,2014,"Mon, Dec 30",Detroit Pistons,Washington Wizards,"14-19, 6-11 Home","14-14, 7-9 Away",99,106,NULL,NULL,Final,NULL,32,31,24,12,NULL,33,20,25,28,NULL,NBA
+58,400489385,2014,"Tue, Jan 7",New York Knicks,Detroit Pistons,"12-22, 5-12 Home","14-21, 8-9 Away",89,85,NULL,NULL,Final,NULL,24,17,32,16,NULL,21,20,17,27,NULL,NBA
+59,400489405,2014,"Fri, Jan 10",Philadelphia 76ers,Detroit Pistons,"12-24, 7-10 Home","15-22, 9-10 Away",104,114,NULL,NULL,Final,NULL,36,27,18,23,NULL,28,27,29,30,NULL,NBA
+60,400489460,2014,"Fri, Jan 17",Detroit Pistons,Utah Jazz,"16-23, 7-13 Home","14-27, 6-16 Away",89,110,NULL,NULL,Final,NULL,25,20,20,24,NULL,27,31,31,21,NULL,NBA
+61,400489480,2014,"Mon, Jan 20",Detroit Pistons,LA Clippers,"17-24, 7-14 Home","29-14, 11-11 Away",103,112,NULL,NULL,Final,NULL,28,25,25,25,NULL,26,38,30,18,NULL,NBA
+62,400489512,2014,"Fri, Jan 24",Detroit Pistons,New Orleans Pelicans,"17-26, 7-15 Home","17-25, 8-14 Away",101,103,NULL,NULL,Final,NULL,26,22,32,21,NULL,25,29,17,32,NULL,NBA
+63,400489542,2014,"Tue, Jan 28",Detroit Pistons,Orlando Magic,"18-27, 8-15 Home","12-34, 3-20 Away",103,87,NULL,NULL,Final,NULL,20,33,25,25,NULL,22,21,17,27,NULL,NBA
+64,400489573,2014,"Sat, Feb 1",Detroit Pistons,Philadelphia 76ers,"19-27, 9-15 Home","15-33, 7-17 Away",113,96,NULL,NULL,Final,NULL,32,25,36,20,NULL,22,27,21,26,NULL,NBA
+65,400489606,2014,"Wed, Feb 5",Orlando Magic,Detroit Pistons,"14-37, 11-14 Home","19-29, 10-14 Away",112,98,NULL,NULL,Final,NULL,26,31,31,24,NULL,26,17,31,24,NULL,NBA
+66,400489624,2014,"Sat, Feb 8",Detroit Pistons,Denver Nuggets,"21-29, 11-15 Home","24-25, 10-14 Away",126,109,NULL,NULL,Final,NBATV,30,35,32,29,NULL,29,32,25,23,NULL,NBA
+67,400489655,2014,"Wed, Feb 12",Detroit Pistons,Cleveland Cavaliers,"22-30, 12-16 Home","20-33, 7-20 Away",89,93,NULL,NULL,Final,NULL,28,23,15,23,NULL,22,18,19,34,NULL,NBA
+68,400489674,2014,"Wed, Feb 19",Charlotte Bobcats,Detroit Pistons,"25-30, 13-14 Home","22-32, 10-15 Away",116,98,NULL,NULL,Final,NULL,28,25,33,30,NULL,21,26,25,26,NULL,NBA
+69,400489701,2014,"Sat, Feb 22",Detroit Pistons,Dallas Mavericks,"23-33, 13-18 Home","34-23, 16-14 Away",102,113,NULL,NULL,Final,NULL,27,27,28,20,NULL,29,35,24,25,NULL,NBA
+70,400489732,2014,"Wed, Feb 26",San Antonio Spurs,Detroit Pistons,"41-16, 19-8 Home","23-35, 10-16 Away",120,110,NULL,NULL,Final,NULL,28,29,33,30,NULL,26,27,28,29,NULL,NBA
+71,400489765,2014,"Mon, Mar 3",Detroit Pistons,New York Knicks,"24-36, 14-19 Home","21-40, 9-20 Away",96,85,NULL,NULL,Final,NULL,20,19,30,27,NULL,28,16,20,21,NULL,NBA
+72,400489795,2014,"Fri, Mar 7",Minnesota Timberwolves,Detroit Pistons,"31-30, 17-12 Home","24-38, 10-18 Away",114,101,NULL,NULL,Final,NULL,39,27,31,17,NULL,21,24,24,32,NULL,NBA
+73,400489824,2014,"Tue, Mar 11",Detroit Pistons,Sacramento Kings,"25-39, 15-20 Home","22-42, 9-23 Away",99,89,NULL,NULL,Final,NULL,28,24,20,27,NULL,31,23,11,24,NULL,NBA
+74,400489857,2014,"Sat, Mar 15",Detroit Pistons,Indiana Pacers,"25-41, 15-21 Home","49-17, 19-13 Away",104,112,NULL,NULL,Final/OT,NULL,29,31,19,21,4,20,21,32,27,12,NBA
+75,400489902,2014,"Fri, Mar 21",Phoenix Suns,Detroit Pistons,"40-29, 24-13 Home","25-43, 10-22 Away",98,92,NULL,NULL,Final,NULL,26,25,22,25,NULL,27,23,21,21,NULL,NBA
+76,400489928,2014,"Mon, Mar 24",Utah Jazz,Detroit Pistons,"23-48, 15-20 Home","26-44, 11-23 Away",94,114,NULL,NULL,Final,NULL,23,17,29,25,NULL,26,34,26,28,NULL,NBA
+77,400489952,2014,"Fri, Mar 28",Detroit Pistons,Miami Heat,"26-46, 15-23 Home","49-22, 21-16 Away",78,110,NULL,NULL,Final,NULL,23,19,18,18,NULL,28,29,35,18,NULL,NBA
+78,400489977,2014,"Mon, Mar 31",Detroit Pistons,Milwaukee Bucks,"27-47, 16-23 Home","14-60, 5-32 Away",116,111,NULL,NULL,Final,NULL,34,18,29,35,NULL,30,31,21,29,NULL,NBA
+79,400490007,2014,"Fri, Apr 4",Brooklyn Nets,Detroit Pistons,"41-34, 27-11 Home","27-49, 11-26 Away",116,104,NULL,NULL,Final,NULL,22,35,34,25,NULL,22,23,24,35,NULL,NBA
+80,400532894,2014,"Tue, Apr 8",Atlanta Hawks,Detroit Pistons,"34-43, 22-16 Home","29-49, 12-26 Away",95,102,NULL,NULL,Final,NULL,27,25,26,17,NULL,35,23,23,21,NULL,NBA
+81,400490054,2014,"Fri, Apr 11",Chicago Bulls,Detroit Pistons,"47-32, 26-14 Home","29-51, 12-28 Away",106,98,NULL,NULL,Final,WGNS,17,21,32,36,NULL,28,28,24,18,NULL,NBA

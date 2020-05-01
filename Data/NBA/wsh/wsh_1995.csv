@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,141105004,1995,"Sat, Nov 5",Chicago Bulls,Washington Bullets,"1-1, 1-1 Home","2-0, 1-0 Away",99,100,NULL,NULL,Final/OT,NULL,25,15,26,26,7,21,25,27,19,8,NBA
+1,141111027,1995,"Fri, Nov 11",Washington Bullets,New Jersey Nets,"3-1, 2-0 Home","1-4, 0-4 Away",104,91,NULL,NULL,Final,NULL,32,27,19,26,NULL,29,19,23,20,NULL,NBA
+2,141115019,1995,"Tue, Nov 15",Orlando Magic,Washington Bullets,"4-2, 2-0 Home","4-2, 2-2 Away",122,102,NULL,NULL,Final,NULL,38,32,32,20,NULL,33,25,27,17,NULL,NBA
+3,141119027,1995,"Sat, Nov 19",Washington Bullets,Boston Celtics,"4-4, 2-1 Home","4-4, 3-2 Away",102,103,NULL,NULL,Final,NULL,28,21,29,24,NULL,31,27,20,25,NULL,NBA
+4,141126027,1995,"Sat, Nov 26",Washington Bullets,Los Angeles Lakers,"4-6, 2-3 Home","7-5, 5-3 Away",96,112,NULL,NULL,Final,NULL,21,26,25,24,NULL,28,27,34,23,NULL,NBA
+5,141202027,1995,"Fri, Dec 2",Washington Bullets,Detroit Pistons,"5-7, 3-4 Home","7-7, 2-5 Away",115,104,NULL,NULL,Final,NULL,21,33,28,33,NULL,31,20,18,35,NULL,NBA
+6,141208006,1995,"Thu, Dec 8",Dallas Mavericks,Washington Bullets,"8-7, 4-5 Home","6-8, 3-4 Away",121,124,NULL,NULL,Final/OT,NULL,37,20,28,28,8,29,37,19,28,11,NBA
+7,141212024,1995,"Mon, Dec 12",San Antonio Spurs,Washington Bullets,"9-9, 6-5 Home","6-10, 3-6 Away",122,101,NULL,NULL,Final,NULL,32,25,42,23,NULL,24,22,23,32,NULL,NBA
+8,141215027,1995,"Thu, Dec 15",Washington Bullets,Utah Jazz,"6-12, 3-5 Home","14-8, 6-4 Away",85,95,NULL,NULL,Final,NULL,16,23,24,22,NULL,20,27,28,20,NULL,NBA
+9,141219021,1995,"Mon, Dec 19",Phoenix Suns,Washington Bullets,"18-5, 12-0 Home","6-14, 3-8 Away",113,102,NULL,NULL,Final,NULL,33,27,27,26,NULL,29,21,25,27,NULL,NBA
+10,141222009,1995,"Thu, Dec 22",Golden State Warriors,Washington Bullets,"9-15, 6-6 Home","6-16, 3-10 Away",107,87,NULL,NULL,Final,NULL,30,21,28,28,NULL,26,19,26,16,NULL,NBA
+11,141226027,1995,"Mon, Dec 26",Washington Bullets,Orlando Magic,"7-17, 3-7 Home","21-5, 10-5 Away",121,128,NULL,NULL,Final/OT,NULL,32,33,23,26,7,27,35,26,26,14,NBA
+12,141230027,1995,"Fri, Dec 30",Washington Bullets,San Antonio Spurs,"7-19, 3-8 Home","15-10, 5-5 Away",101,115,NULL,NULL,Final,NULL,27,24,25,25,NULL,30,35,28,22,NULL,NBA
+13,150104011,1995,"Wed, Jan 4",Indiana Pacers,Washington Bullets,"18-10, 11-1 Home","7-21, 4-12 Away",94,90,NULL,NULL,Final,NULL,28,34,23,9,NULL,30,23,15,22,NULL,NBA
+14,150107027,1995,"Sat, Jan 7",Washington Bullets,Portland Trail Blazers,"7-23, 3-10 Home","16-14, 6-8 Away",105,114,NULL,NULL,Final,NULL,30,24,22,29,NULL,30,34,28,22,NULL,NBA
+15,150110027,1995,"Tue, Jan 10",Washington Bullets,Atlanta Hawks,"7-25, 3-11 Home","15-19, 6-11 Away",96,99,NULL,NULL,Final,NULL,28,29,11,28,NULL,32,19,21,27,NULL,NBA
+16,150116027,1995,"Mon, Jan 16",Washington Bullets,Chicago Bulls,"8-26, 4-12 Home","18-18, 8-9 Away",109,101,NULL,NULL,Final,NULL,24,29,28,28,NULL,29,23,27,22,NULL,NBA
+17,150120027,1995,"Fri, Jan 20",Washington Bullets,Philadelphia 76ers,"9-27, 5-12 Home","11-26, 6-14 Away",102,98,NULL,NULL,Final,NULL,27,25,26,24,NULL,32,20,28,18,NULL,NBA
+18,150126027,1995,"Thu, Jan 26",Washington Bullets,Golden State Warriors,"10-28, 5-13 Home","12-25, 4-14 Away",118,121,NULL,NULL,Final/OT,NULL,27,28,24,28,11,23,26,24,34,14,NBA
+19,150131027,1995,"Tue, Jan 31",Washington Bullets,Charlotte Hornets,"11-29, 6-14 Home","27-16, 11-11 Away",88,97,NULL,NULL,Final,NULL,23,23,19,23,NULL,23,33,23,18,NULL,NBA
+20,150203027,1995,"Fri, Feb 3",Washington Bullets,Miami Heat,"11-31, 6-15 Home","16-28, 5-18 Away",95,105,NULL,NULL,Final,NULL,34,23,12,26,NULL,25,28,27,25,NULL,NBA
+21,150207008,1995,"Tue, Feb 7",Detroit Pistons,Washington Bullets,"17-28, 13-11 Home","11-33, 5-18 Away",119,115,NULL,NULL,Final,NULL,25,18,32,44,NULL,27,31,29,28,NULL,NBA
+22,150214016,1995,"Tue, Feb 14",Minnesota Timberwolves,Washington Bullets,"11-37, 6-18 Home","12-34, 6-19 Away",96,99,NULL,NULL,Final,NULL,17,31,29,19,NULL,33,22,14,30,NULL,NBA
+23,150217027,1995,"Fri, Feb 17",Washington Bullets,Houston Rockets,"12-36, 6-16 Home","32-17, 16-10 Away",92,109,NULL,NULL,Final,NULL,23,33,18,18,NULL,30,25,29,25,NULL,NBA
+24,150221027,1995,"Tue, Feb 21",Washington Bullets,Dallas Mavericks,"12-38, 6-18 Home","20-29, 9-12 Away",97,102,NULL,NULL,Final,NULL,25,36,21,15,NULL,28,15,32,27,NULL,NBA
+25,150224027,1995,"Fri, Feb 24",Washington Bullets,Atlanta Hawks,"12-40, 6-19 Home","26-28, 12-14 Away",92,107,NULL,NULL,Final,NULL,28,20,19,25,NULL,26,29,27,25,NULL,NBA
+26,150228027,1995,"Tue, Feb 28",Washington Bullets,Philadelphia 76ers,"13-41, 7-20 Home","16-40, 8-22 Away",102,106,NULL,NULL,Final,NULL,32,23,21,26,NULL,23,25,35,23,NULL,NBA
+27,150303027,1995,"Fri, Mar 3",Washington Bullets,Indiana Pacers,"15-41, 8-20 Home","34-22, 14-17 Away",111,106,NULL,NULL,Final,NULL,29,27,23,32,NULL,30,25,25,26,NULL,NBA
+28,150308027,1995,"Wed, Mar 8",Washington Bullets,Detroit Pistons,"15-43, 8-21 Home","23-36, 6-24 Away",105,114,NULL,NULL,Final,NULL,25,26,32,22,NULL,21,38,30,25,NULL,NBA
+29,150311027,1995,"Sat, Mar 11",Washington Bullets,New Jersey Nets,"16-44, 9-22 Home","25-37, 9-24 Away",110,102,NULL,NULL,Final,NULL,29,27,27,27,NULL,33,30,16,23,NULL,NBA
+30,150314027,1995,"Tue, Mar 14",Washington Bullets,Chicago Bulls,"17-45, 9-23 Home","32-31, 13-19 Away",93,106,NULL,NULL,Final,NULL,21,27,21,24,NULL,25,29,31,21,NULL,NBA
+31,150319027,1995,"Sun, Mar 19",Washington Bullets,Cleveland Cavaliers,"18-46, 10-24 Home","36-28, 17-16 Away",96,90,NULL,NULL,Final,NULL,26,23,21,26,NULL,21,23,25,21,NULL,NBA
+32,150323025,1995,"Thu, Mar 23",Seattle SuperSonics,Washington Bullets,"46-20, 26-7 Home","18-48, 8-24 Away",108,103,NULL,NULL,Final,NULL,23,27,26,32,NULL,27,33,26,17,NULL,NBA
+33,150327026,1995,"Mon, Mar 27",Utah Jazz,Washington Bullets,"51-19, 27-7 Home","18-50, 8-26 Away",128,102,NULL,NULL,Final,NULL,39,25,33,31,NULL,29,30,20,23,NULL,NBA
+34,150331005,1995,"Fri, Mar 31",Cleveland Cavaliers,Washington Bullets,"39-31, 22-13 Home","18-52, 8-27 Away",98,88,NULL,NULL,Final,NULL,19,21,31,27,NULL,26,25,25,12,NULL,NBA
+35,150405011,1995,"Wed, Apr 5",Indiana Pacers,Washington Bullets,"48-26, 29-7 Home","18-54, 8-29 Away",102,90,NULL,NULL,Final,NULL,28,31,20,23,NULL,22,21,17,30,NULL,NBA
+36,150407027,1995,"Fri, Apr 7",Washington Bullets,Charlotte Hornets,"18-56, 10-27 Home","45-28, 19-18 Away",93,98,NULL,NULL,Final,NULL,30,22,24,17,NULL,38,17,24,19,NULL,NBA
+37,150412001,1995,"Wed, Apr 12",Atlanta Hawks,Washington Bullets,"39-38, 23-17 Home","18-58, 8-30 Away",90,82,NULL,NULL,Final,NULL,25,23,19,23,NULL,16,19,24,23,NULL,NBA
+38,150415027,1995,"Sat, Apr 15",Washington Bullets,Milwaukee Bucks,"19-59, 11-28 Home","31-47, 11-28 Away",114,110,NULL,NULL,Final,NULL,24,31,28,31,NULL,22,30,28,30,NULL,NBA
+39,150419027,1995,"Wed, Apr 19",Washington Bullets,Orlando Magic,"20-60, 12-28 Home","56-24, 18-22 Away",123,117,NULL,NULL,Final/OT,NULL,35,33,30,13,12,25,36,30,20,6,NBA
+40,141104027,1995,"Fri, Nov 4",Washington Bullets,Orlando Magic,"1-0, 1-0 Home","0-1, 0-1 Away",110,108,NULL,NULL,Final,NULL,22,25,37,26,NULL,24,37,22,25,NULL,NBA
+41,141109020,1995,"Wed, Nov 9",Philadelphia 76ers,Washington Bullets,"1-3, 1-1 Home","2-1, 1-1 Away",98,97,NULL,NULL,Final,NULL,21,18,20,39,NULL,25,29,19,24,NULL,NBA
+42,141112014,1995,"Sat, Nov 12",Miami Heat,Washington Bullets,"0-4, 0-1 Home","4-1, 2-1 Away",99,109,NULL,NULL,Final,NULL,29,23,19,28,NULL,31,28,20,30,NULL,NBA
+43,141117017,1995,"Thu, Nov 17",New Jersey Nets,Washington Bullets,"3-5, 3-1 Home","4-3, 2-3 Away",111,103,NULL,NULL,Final,NULL,32,24,31,24,NULL,22,23,38,20,NULL,NBA
+44,141125027,1995,"Fri, Nov 25",Washington Bullets,Cleveland Cavaliers,"4-5, 2-2 Home","6-5, 3-3 Away",94,96,NULL,NULL,Final,NULL,28,24,19,23,NULL,23,17,33,23,NULL,NBA
+45,141129027,1995,"Tue, Nov 29",Washington Bullets,New York Knicks,"4-7, 2-4 Home","7-4, 3-3 Away",91,99,NULL,NULL,Final,NULL,26,19,23,23,NULL,24,30,21,24,NULL,NBA
+46,141203018,1995,"Sat, Dec 3",New York Knicks,Washington Bullets,"8-5, 5-1 Home","5-8, 2-4 Away",111,95,NULL,NULL,Final,NULL,27,26,32,26,NULL,26,19,25,25,NULL,NBA
+47,141210007,1995,"Sat, Dec 10",Denver Nuggets,Washington Bullets,"10-6, 6-4 Home","6-9, 3-5 Away",111,89,NULL,NULL,Final,NULL,29,22,22,38,NULL,14,23,24,28,NULL,NBA
+48,141213010,1995,"Tue, Dec 13",Houston Rockets,Washington Bullets,"13-6, 6-3 Home","6-11, 3-7 Away",93,85,NULL,NULL,Final,NULL,30,17,28,18,NULL,19,19,21,26,NULL,NBA
+49,141217027,1995,"Sat, Dec 17",Washington Bullets,Minnesota Timberwolves,"6-13, 3-6 Home","5-17, 4-7 Away",87,96,NULL,NULL,Final,NULL,24,27,19,17,NULL,21,32,20,23,NULL,NBA
+50,141220023,1995,"Tue, Dec 20",Sacramento Kings,Washington Bullets,"12-10, 8-4 Home","6-15, 3-9 Away",105,102,NULL,NULL,Final,NULL,25,29,33,18,NULL,22,27,25,28,NULL,NBA
+51,141223012,1995,"Fri, Dec 23",Los Angeles Clippers,Washington Bullets,"3-22, 2-13 Home","7-16, 4-10 Away",102,105,NULL,NULL,Final,NULL,25,27,16,34,NULL,19,35,31,20,NULL,NBA
+52,141228005,1995,"Wed, Dec 28",Cleveland Cavaliers,Washington Bullets,"19-8, 10-4 Home","7-18, 4-11 Away",91,75,NULL,NULL,Final,NULL,30,26,25,10,NULL,25,19,13,18,NULL,NBA
+53,150103027,1995,"Tue, Jan 3",Washington Bullets,Seattle SuperSonics,"7-20, 3-9 Home","19-9, 5-8 Away",107,121,NULL,NULL,Final,NULL,29,37,18,23,NULL,30,26,34,31,NULL,NBA
+54,150106001,1995,"Fri, Jan 6",Atlanta Hawks,Washington Bullets,"13-19, 8-8 Home","7-22, 4-13 Away",112,90,NULL,NULL,Final,NULL,33,27,29,23,NULL,23,23,25,19,NULL,NBA
+55,150109002,1995,"Mon, Jan 9",Boston Celtics,Washington Bullets,"13-19, 7-9 Home","7-24, 4-14 Away",114,101,NULL,NULL,Final,NULL,24,36,26,28,NULL,29,28,22,22,NULL,NBA
+56,150113027,1995,"Fri, Jan 13",Washington Bullets,Indiana Pacers,"7-26, 3-12 Home","20-13, 9-12 Away",99,113,NULL,NULL,Final,NULL,27,26,23,23,NULL,32,26,34,21,NULL,NBA
+57,150119015,1995,"Thu, Jan 19",Milwaukee Bucks,Washington Bullets,"14-23, 7-8 Home","8-27, 4-15 Away",120,115,NULL,NULL,Final,NULL,28,33,31,28,NULL,35,24,30,26,NULL,NBA
+58,150122017,1995,"Sun, Jan 22",New Jersey Nets,Washington Bullets,"15-26, 10-9 Home","10-27, 5-15 Away",103,109,NULL,NULL,Final,NULL,22,27,26,28,NULL,20,25,37,27,NULL,NBA
+59,150128027,1995,"Sat, Jan 28",Washington Bullets,Los Angeles Clippers,"11-28, 6-13 Home","7-36, 3-19 Away",93,87,NULL,NULL,Final,NULL,23,19,20,31,NULL,30,17,25,15,NULL,NBA
+60,150201020,1995,"Wed, Feb 1",Philadelphia 76ers,Washington Bullets,"13-31, 7-15 Home","11-30, 5-16 Away",98,89,NULL,NULL,Final,NULL,27,22,24,25,NULL,25,27,24,13,NULL,NBA
+61,150205003,1995,"Sun, Feb 5",Charlotte Hornets,Washington Bullets,"30-16, 18-5 Home","11-32, 5-17 Away",111,105,NULL,NULL,Final,NULL,26,31,33,21,NULL,36,19,27,23,NULL,NBA
+62,150208014,1995,"Wed, Feb 8",Miami Heat,Washington Bullets,"17-29, 12-11 Home","11-34, 5-19 Away",111,107,NULL,NULL,Final,NULL,30,27,26,28,NULL,31,24,20,32,NULL,NBA
+63,150215004,1995,"Wed, Feb 15",Chicago Bulls,Washington Bullets,"24-25, 14-11 Home","12-35, 6-20 Away",107,92,NULL,NULL,Final,NULL,33,28,24,22,NULL,20,24,26,22,NULL,NBA
+64,150219027,1995,"Sun, Feb 19",Washington Bullets,Denver Nuggets,"12-37, 6-17 Home","21-29, 8-17 Away",92,94,NULL,NULL,Final,NULL,30,19,21,22,NULL,24,25,24,21,NULL,NBA
+65,150222015,1995,"Wed, Feb 22",Milwaukee Bucks,Washington Bullets,"21-32, 12-13 Home","12-39, 6-21 Away",100,92,NULL,NULL,Final,NULL,25,25,26,24,NULL,23,26,28,15,NULL,NBA
+66,150225027,1995,"Sat, Feb 25",Washington Bullets,Sacramento Kings,"13-40, 7-19 Home","28-24, 8-17 Away",102,98,NULL,NULL,Final,NULL,25,29,23,25,NULL,26,27,25,20,NULL,NBA
+67,150301002,1995,"Wed, Mar 1",Boston Celtics,Washington Bullets,"22-33, 13-16 Home","14-41, 7-21 Away",124,125,NULL,NULL,Final/2OT,NULL,30,26,27,21,20,32,22,25,25,21,NBA
+68,150305014,1995,"Sun, Mar 5",Miami Heat,Washington Bullets,"22-35, 15-12 Home","15-42, 7-22 Away",103,90,NULL,NULL,Final,NULL,27,30,23,23,NULL,27,18,20,25,NULL,NBA
+69,150310027,1995,"Fri, Mar 10",Washington Bullets,Milwaukee Bucks,"15-44, 8-22 Home","23-38, 10-22 Away",111,114,NULL,NULL,Final,NULL,27,29,25,30,NULL,23,32,32,27,NULL,NBA
+70,150313003,1995,"Mon, Mar 13",Charlotte Hornets,Washington Bullets,"39-23, 23-8 Home","17-44, 8-22 Away",103,106,NULL,NULL,Final,NULL,37,24,26,16,NULL,25,22,25,34,NULL,NBA
+71,150317027,1995,"Fri, Mar 17",Washington Bullets,New York Knicks,"17-46, 9-24 Home","41-21, 18-13 Away",81,89,NULL,NULL,Final,NULL,22,22,23,14,NULL,21,27,20,21,NULL,NBA
+72,150321022,1995,"Tue, Mar 21",Portland Trail Blazers,Washington Bullets,"36-28, 22-10 Home","18-47, 8-23 Away",111,106,NULL,NULL,Final,NULL,24,31,27,29,NULL,27,20,25,34,NULL,NBA
+73,150324013,1995,"Fri, Mar 24",Los Angeles Lakers,Washington Bullets,"41-25, 24-9 Home","18-49, 8-25 Away",113,103,NULL,NULL,Final,NULL,27,32,28,26,NULL,31,22,37,13,NULL,NBA
+74,150329027,1995,"Wed, Mar 29",Washington Bullets,Miami Heat,"18-51, 10-25 Home","28-43, 10-26 Away",97,101,NULL,NULL,Final,NULL,26,29,25,17,NULL,25,28,24,24,NULL,NBA
+75,150402008,1995,"Sun, Apr 2",Detroit Pistons,Washington Bullets,"26-45, 20-17 Home","18-53, 8-28 Away",110,105,NULL,NULL,Final,NULL,28,16,31,35,NULL,28,22,29,26,NULL,NBA
+76,150406027,1995,"Thu, Apr 6",Washington Bullets,Phoenix Suns,"18-55, 10-26 Home","52-22, 25-13 Away",123,127,NULL,NULL,Final,NULL,41,36,19,27,NULL,41,23,27,36,NULL,NBA
+77,150409027,1995,"Sun, Apr 9",Washington Bullets,Boston Celtics,"18-57, 10-28 Home","32-43, 15-23 Away",98,110,NULL,NULL,Final,NULL,26,21,30,21,NULL,27,26,25,32,NULL,NBA
+78,150413018,1995,"Thu, Apr 13",New York Knicks,Washington Bullets,"51-25, 28-11 Home","18-59, 8-31 Away",110,100,NULL,NULL,Final,NULL,35,32,15,28,NULL,23,25,29,23,NULL,NBA
+79,150417019,1995,"Mon, Apr 17",Orlando Magic,Washington Bullets,"56-23, 38-2 Home","19-60, 8-32 Away",111,100,NULL,NULL,Final,NULL,32,32,26,21,NULL,27,17,25,31,NULL,NBA
+80,150421017,1995,"Fri, Apr 21",New Jersey Nets,Washington Bullets,"29-52, 19-21 Home","20-61, 8-33 Away",107,106,NULL,NULL,Final,NULL,30,29,24,24,NULL,30,28,22,26,NULL,NBA
+81,150423027,1995,"Sun, Apr 23",Washington Bullets,Philadelphia 76ers,"21-61, 13-28 Home","24-58, 10-31 Away",106,90,NULL,NULL,Final,NULL,31,25,24,26,NULL,29,15,24,22,NULL,NBA

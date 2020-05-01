@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,281031028,2009,"Fri, Oct 31",Toronto Raptors,Golden State Warriors,"2-0, 1-0 Home","0-2, 0-1 Away",112,108,NULL,NULL,Final/OT,NULL,28,23,24,21,16,22,28,23,23,12,NBA
+1,281103029,2009,"Mon, Nov 3",Memphis Grizzlies,Golden State Warriors,"2-2, 2-0 Home","1-3, 1-2 Away",90,79,NULL,NULL,Final,NULL,29,20,24,17,NULL,24,21,22,12,NULL,NBA
+2,281107009,2009,"Fri, Nov 7",Golden State Warriors,Memphis Grizzlies,"2-4, 1-2 Home","3-3, 1-3 Away",104,109,NULL,NULL,Final,NULL,30,20,24,30,NULL,28,20,33,28,NULL,NBA
+3,281111009,2009,"Tue, Nov 11",Golden State Warriors,Minnesota Timberwolves,"3-5, 2-2 Home","1-6, 0-4 Away",113,110,NULL,NULL,Final/OT,NULL,27,31,25,23,7,27,23,37,19,4,NBA
+4,281115012,2009,"Sat, Nov 15",LA Clippers,Golden State Warriors,"1-8, 1-6 Home","4-6, 2-3 Away",103,121,NULL,NULL,Final,NULL,31,19,33,20,NULL,36,22,32,31,NULL,NBA
+5,281121009,2009,"Fri, Nov 21",Golden State Warriors,Chicago Bulls,"5-7, 3-4 Home","6-7, 1-5 Away",110,115,NULL,NULL,Final,NULL,28,31,28,23,NULL,27,30,28,30,NULL,NBA
+6,281125027,2009,"Tue, Nov 25",Washington Wizards,Golden State Warriors,"2-10, 2-4 Home","5-9, 2-5 Away",124,100,NULL,NULL,Final,NULL,32,31,30,31,NULL,26,23,23,28,NULL,NBA
+7,281128005,2009,"Fri, Nov 28",Cleveland Cavaliers,Golden State Warriors,"13-3, 9-0 Home","5-11, 2-7 Away",112,97,NULL,NULL,Final,NULL,29,29,36,18,NULL,32,20,16,29,NULL,NBA
+8,281201009,2009,"Mon, Dec 1",Golden State Warriors,Miami Heat,"5-13, 3-5 Home","9-9, 4-6 Away",129,130,NULL,NULL,Final/OT,NULL,27,37,30,21,14,30,30,31,24,15,NBA
+9,281206024,2009,"Sat, Dec 6",San Antonio Spurs,Golden State Warriors,"11-8, 6-5 Home","5-15, 2-10 Away",123,88,NULL,NULL,Final,NULL,35,30,39,19,NULL,21,28,18,21,NULL,NBA
+10,281210009,2009,"Wed, Dec 10",Golden State Warriors,Milwaukee Bucks,"7-15, 4-5 Home","9-15, 4-11 Away",119,96,NULL,NULL,Final,NULL,30,25,27,37,NULL,22,28,31,15,NULL,NBA
+11,281213007,2009,"Sat, Dec 13",Denver Nuggets,Golden State Warriors,"16-7, 9-3 Home","7-17, 3-11 Away",123,105,NULL,NULL,Final,NULL,36,29,34,24,NULL,22,29,23,31,NULL,NBA
+12,281217011,2009,"Wed, Dec 17",Indiana Pacers,Golden State Warriors,"9-16, 6-5 Home","7-19, 3-12 Away",127,120,NULL,NULL,Final,NULL,40,28,27,32,NULL,29,33,31,27,NULL,NBA
+13,281220030,2009,"Sat, Dec 20",Charlotte Bobcats,Golden State Warriors,"9-19, 7-10 Home","8-20, 4-13 Away",103,110,NULL,NULL,Final,NULL,29,27,23,24,NULL,27,29,31,23,NULL,NBA
+14,281223014,2009,"Tue, Dec 23",Miami Heat,Golden State Warriors,"15-12, 9-5 Home","8-22, 4-15 Away",96,88,NULL,NULL,Final,NULL,21,26,20,29,NULL,24,17,15,32,NULL,NBA
+15,281228013,2009,"Sun, Dec 28",Los Angeles Lakers,Golden State Warriors,"25-5, 16-1 Home","9-23, 4-16 Away",130,113,NULL,NULL,Final,NULL,34,31,37,28,NULL,27,31,27,28,NULL,NBA
+16,281231025,2009,"Wed, Dec 31",Oklahoma City Thunder,Golden State Warriors,"4-29, 3-14 Home","10-24, 4-17 Away",107,100,NULL,NULL,Final,NULL,22,29,27,29,NULL,28,27,15,30,NULL,NBA
+17,290105026,2009,"Mon, Jan 5",Utah Jazz,Golden State Warriors,"20-15, 13-4 Home","10-26, 4-19 Away",119,114,NULL,NULL,Final,NULL,28,37,29,25,NULL,29,30,32,23,NULL,NBA
+18,290110022,2009,"Sat, Jan 10",Portland Trail Blazers,Golden State Warriors,"22-14, 14-4 Home","10-28, 4-20 Away",113,100,NULL,NULL,Final,NBATV,16,39,28,30,NULL,25,24,21,30,NULL,NBA
+19,290114009,2009,"Wed, Jan 14",Golden State Warriors,Sacramento Kings,"11-29, 7-9 Home","10-30, 3-17 Away",133,135,NULL,NULL,Final/3OT,NULL,20,28,29,28,28,31,26,28,20,30,NBA
+20,290119009,2009,"Mon, Jan 19",Golden State Warriors,Washington Wizards,"13-29, 9-9 Home","8-32, 2-17 Away",119,98,NULL,NULL,Final,NULL,28,32,26,33,NULL,23,25,31,19,NULL,NBA
+21,290123009,2009,"Fri, Jan 23",Golden State Warriors,Cleveland Cavaliers,"13-31, 9-11 Home","33-8, 13-8 Away",105,106,NULL,NULL,Final,NULL,26,28,27,24,NULL,28,27,29,22,NULL,NBA
+22,290128006,2009,"Wed, Jan 28",Dallas Mavericks,Golden State Warriors,"26-19, 14-7 Home","14-32, 4-21 Away",117,93,NULL,NULL,Final,ESPN,31,38,23,25,NULL,25,22,23,23,NULL,NBA
+23,290131010,2009,"Sat, Jan 31",Houston Rockets,Golden State Warriors,"29-19, 16-6 Home","15-33, 5-22 Away",110,93,NULL,NULL,Final,NULL,25,28,28,29,NULL,20,31,24,18,NULL,NBA
+24,290204009,2009,"Wed, Feb 4",Golden State Warriors,Phoenix Suns,"16-34, 11-12 Home","26-21, 13-11 Away",124,112,NULL,NULL,Final,NULL,43,29,32,20,NULL,30,25,28,29,NULL,NBA
+25,290208009,2009,"Sun, Feb 8",Golden State Warriors,Utah Jazz,"17-35, 12-12 Home","29-23, 9-17 Away",116,96,NULL,NULL,Final,NULL,23,25,38,30,NULL,21,24,24,27,NULL,NBA
+26,290212009,2009,"Thu, Feb 12",Golden State Warriors,Portland Trail Blazers,"19-35, 14-12 Home","32-20, 12-15 Away",105,98,NULL,NULL,Final,NULL,32,25,23,25,NULL,20,26,16,36,NULL,NBA
+27,290221009,2009,"Sat, Feb 21",Golden State Warriors,Oklahoma City Thunder,"20-36, 15-13 Home","13-43, 3-24 Away",133,120,NULL,NULL,Final,NULL,34,36,31,32,NULL,38,32,24,26,NULL,NBA
+28,290227009,2009,"Fri, Feb 27",Golden State Warriors,Charlotte Bobcats,"20-38, 15-14 Home","24-35, 8-20 Away",109,112,NULL,NULL,Final,NULL,24,31,31,23,NULL,25,36,28,23,NULL,NBA
+29,290303016,2009,"Tue, Mar 3",Minnesota Timberwolves,Golden State Warriors,"18-42, 8-23 Home","21-39, 6-24 Away",94,118,NULL,NULL,Final,NULL,18,19,35,22,NULL,36,30,25,27,NULL,NBA
+30,290306008,2009,"Fri, Mar 6",Detroit Pistons,Golden State Warriors,"31-29, 16-15 Home","21-41, 6-26 Away",108,91,NULL,NULL,Final,NULL,33,30,22,23,NULL,16,24,26,25,NULL,NBA
+31,290311009,2009,"Wed, Mar 11",Golden State Warriors,New Jersey Nets,"22-42, 16-15 Home","28-36, 14-17 Away",116,112,NULL,NULL,Final,NBATV,30,23,32,31,NULL,28,39,20,25,NULL,NBA
+32,290315009,2009,"Sun, Mar 15",Golden State Warriors,Phoenix Suns,"23-43, 17-16 Home","36-31, 16-18 Away",130,154,NULL,NULL,Final,ESPN,36,36,25,33,NULL,42,32,46,34,NULL,NBA
+33,290319013,2009,"Thu, Mar 19",Los Angeles Lakers,Golden State Warriors,"54-14, 31-5 Home","24-44, 6-28 Away",114,106,NULL,NULL,Final,TNT,26,26,30,32,NULL,28,23,22,33,NULL,NBA
+34,290322003,2009,"Sun, Mar 22",New Orleans Hornets,Golden State Warriors,"44-25, 26-10 Home","25-45, 6-29 Away",99,89,NULL,NULL,Final,NULL,27,27,24,21,NULL,20,17,21,31,NULL,NBA
+35,290325006,2009,"Wed, Mar 25",Dallas Mavericks,Golden State Warriors,"43-28, 26-8 Home","25-47, 6-31 Away",128,106,NULL,NULL,Final,NULL,37,26,32,33,NULL,26,30,27,23,NULL,NBA
+36,290330009,2009,"Mon, Mar 30",Golden State Warriors,Memphis Grizzlies,"25-49, 19-17 Home","19-54, 7-30 Away",109,114,NULL,NULL,Final,NULL,27,26,31,25,NULL,27,30,20,37,NULL,NBA
+37,290403009,2009,"Fri, Apr 3",Golden State Warriors,New Orleans Hornets,"27-49, 21-17 Home","47-28, 20-17 Away",111,103,NULL,NULL,Final,NULL,31,24,19,37,NULL,20,26,25,32,NULL,NBA
+38,290408009,2009,"Wed, Apr 8",Golden State Warriors,Minnesota Timberwolves,"28-50, 21-18 Home","24-55, 13-27 Away",97,105,NULL,NULL,Final,NULL,27,34,12,24,NULL,26,32,20,27,NULL,NBA
+39,290411026,2009,"Sat, Apr 11",Utah Jazz,Golden State Warriors,"47-33, 32-8 Home","29-51, 8-32 Away",108,118,NULL,NULL,Final,NULL,31,20,25,32,NULL,28,36,29,25,NULL,NBA
+40,281029009,2009,"Wed, Oct 29",Golden State Warriors,New Orleans Hornets,"0-1, 0-1 Home","1-0, 1-0 Away",103,108,NULL,NULL,Final,NULL,34,23,27,19,NULL,27,29,29,23,NULL,NBA
+41,281101017,2009,"Sat, Nov 1",New Jersey Nets,Golden State Warriors,"1-1, 0-1 Home","1-2, 1-1 Away",97,105,NULL,NULL,Final,YES,25,26,18,28,NULL,24,28,33,20,NULL,NBA
+42,281105009,2009,"Wed, Nov 5",Golden State Warriors,Denver Nuggets,"2-3, 1-1 Home","1-3, 1-2 Away",111,101,NULL,NULL,Final,ESPN,28,30,26,27,NULL,35,24,21,21,NULL,NBA
+43,281109023,2009,"Sun, Nov 9",Sacramento Kings,Golden State Warriors,"3-4, 3-0 Home","2-5, 1-3 Away",115,98,NULL,NULL,Final,NULL,36,27,27,25,NULL,33,24,17,24,NULL,NBA
+44,281113009,2009,"Thu, Nov 13",Golden State Warriors,Detroit Pistons,"3-6, 2-3 Home","6-2, 4-1 Away",102,107,NULL,NULL,Final,TNT,23,30,20,29,NULL,21,25,34,27,NULL,NBA
+45,281118009,2009,"Tue, Nov 18",Golden State Warriors,Portland Trail Blazers,"5-6, 3-3 Home","6-5, 3-5 Away",111,106,NULL,NULL,Final,NULL,24,27,29,31,NULL,27,22,24,33,NULL,NBA
+46,281123020,2009,"Sun, Nov 23",Philadelphia 76ers,Golden State Warriors,"7-6, 5-2 Home","5-8, 2-4 Away",89,81,NULL,NULL,Final,CSN,27,30,15,17,NULL,17,22,23,19,NULL,NBA
+47,281126002,2009,"Wed, Nov 26",Boston Celtics,Golden State Warriors,"14-2, 8-1 Home","5-10, 2-6 Away",119,111,NULL,NULL,Final,NULL,35,19,32,33,NULL,28,39,16,28,NULL,NBA
+48,281129018,2009,"Sat, Nov 29",New York Knicks,Golden State Warriors,"8-8, 6-3 Home","5-12, 2-8 Away",138,125,NULL,NULL,Final,NULL,39,43,34,22,NULL,33,31,32,29,NULL,NBA
+49,281205010,2009,"Fri, Dec 5",Houston Rockets,Golden State Warriors,"13-7, 6-3 Home","5-14, 2-9 Away",131,112,NULL,NULL,Final,NULL,30,32,26,43,NULL,32,25,27,28,NULL,NBA
+50,281208025,2009,"Mon, Dec 8",Oklahoma City Thunder,Golden State Warriors,"2-20, 1-10 Home","6-15, 3-10 Away",102,112,NULL,NULL,Final,NULL,23,19,26,34,NULL,29,32,25,26,NULL,NBA
+51,281212009,2009,"Fri, Dec 12",Golden State Warriors,Houston Rockets,"7-16, 4-6 Home","15-8, 8-5 Away",108,119,NULL,NULL,Final,ESPN,29,21,25,33,NULL,31,30,31,27,NULL,NBA
+52,281215009,2009,"Mon, Dec 15",Golden State Warriors,Orlando Magic,"7-18, 4-7 Home","19-6, 10-3 Away",98,109,NULL,NULL,Final,NULL,20,20,27,31,NULL,21,25,31,32,NULL,NBA
+53,281219001,2009,"Fri, Dec 19",Atlanta Hawks,Golden State Warriors,"16-10, 10-2 Home","7-20, 3-13 Away",115,99,NULL,NULL,Final,NULL,31,21,27,36,NULL,21,33,27,18,NULL,NBA
+54,281222019,2009,"Mon, Dec 22",Orlando Magic,Golden State Warriors,"22-6, 12-3 Home","8-21, 4-14 Away",113,81,NULL,NULL,Final,NULL,25,28,34,26,NULL,16,29,21,15,NULL,NBA
+55,281226009,2009,"Fri, Dec 26",Golden State Warriors,Boston Celtics,"9-22, 5-7 Home","27-4, 10-3 Away",99,89,NULL,NULL,Final,NBATV,19,20,25,35,NULL,29,22,21,17,NULL,NBA
+56,281229009,2009,"Mon, Dec 29",Golden State Warriors,Toronto Raptors,"10-23, 6-7 Home","12-19, 7-11 Away",117,111,NULL,NULL,Final,NBATV,28,32,26,31,NULL,29,23,27,32,NULL,NBA
+57,290102016,2009,"Fri, Jan 2",Minnesota Timberwolves,Golden State Warriors,"7-25, 4-12 Home","10-25, 4-18 Away",115,108,NULL,NULL,Final,NULL,32,26,33,24,NULL,26,31,27,24,NULL,NBA
+58,290107009,2009,"Wed, Jan 7",Golden State Warriors,Los Angeles Lakers,"10-27, 6-8 Home","28-6, 10-4 Away",106,114,NULL,NULL,Final,NULL,20,31,29,26,NULL,28,28,21,37,NULL,NBA
+59,290111009,2009,"Sun, Jan 11",Golden State Warriors,Indiana Pacers,"11-28, 7-8 Home","13-24, 6-15 Away",120,117,NULL,NULL,Final,NULL,23,32,31,34,NULL,32,29,24,32,NULL,NBA
+60,290116009,2009,"Fri, Jan 16",Golden State Warriors,Atlanta Hawks,"12-29, 8-9 Home","23-16, 8-12 Away",119,114,NULL,NULL,Final,NULL,23,33,29,34,NULL,20,31,30,33,NULL,NBA
+61,290121009,2009,"Wed, Jan 21",Golden State Warriors,Oklahoma City Thunder,"13-30, 9-10 Home","9-34, 3-17 Away",121,122,NULL,NULL,Final,NULL,34,34,27,26,NULL,37,35,17,33,NULL,NBA
+62,290125009,2009,"Sun, Jan 25",Golden State Warriors,LA Clippers,"14-31, 10-11 Home","10-33, 5-15 Away",107,92,NULL,NULL,Final,NULL,28,27,29,23,NULL,18,26,20,28,NULL,NBA
+63,290130003,2009,"Fri, Jan 30",New Orleans Hornets,Golden State Warriors,"28-15, 16-6 Home","15-32, 5-21 Away",87,91,NULL,NULL,Final,ESPN,27,17,21,22,NULL,19,28,18,26,NULL,NBA
+64,290202009,2009,"Mon, Feb 2",Golden State Warriors,San Antonio Spurs,"15-34, 10-12 Home","33-14, 15-7 Away",105,110,NULL,NULL,Final/OT,NULL,25,27,27,16,10,27,21,27,20,15,NBA
+65,290206021,2009,"Fri, Feb 6",Phoenix Suns,Golden State Warriors,"27-21, 14-10 Home","16-35, 5-23 Away",115,105,NULL,NULL,Final,ESPN,31,28,27,29,NULL,21,33,31,20,NULL,NBA
+66,290210009,2009,"Tue, Feb 10",Golden State Warriors,New York Knicks,"18-35, 13-12 Home","21-30, 7-18 Away",144,127,NULL,NULL,Final,NULL,41,24,40,39,NULL,29,36,30,32,NULL,NBA
+67,290218009,2009,"Wed, Feb 18",Golden State Warriors,Los Angeles Lakers,"19-36, 14-13 Home","44-10, 19-6 Away",121,129,NULL,NULL,Final,ESPN,34,34,26,27,NULL,30,32,30,37,NULL,NBA
+68,290223012,2009,"Mon, Feb 23",LA Clippers,Golden State Warriors,"14-43, 7-21 Home","20-37, 5-24 Away",118,105,NULL,NULL,Final,NULL,27,33,29,29,NULL,27,28,24,26,NULL,NBA
+69,290301009,2009,"Sun, Mar 1",Golden State Warriors,Utah Jazz,"20-39, 15-15 Home","37-23, 11-17 Away",104,112,NULL,NULL,Final,NULL,29,27,29,19,NULL,34,29,24,25,NULL,NBA
+70,290304004,2009,"Wed, Mar 4",Chicago Bulls,Golden State Warriors,"28-34, 18-11 Home","21-40, 6-25 Away",110,88,NULL,NULL,Final,NULL,20,31,24,35,NULL,26,19,17,26,NULL,NBA
+71,290307015,2009,"Sat, Mar 7",Milwaukee Bucks,Golden State Warriors,"30-36, 19-12 Home","21-42, 6-27 Away",127,120,NULL,NULL,Final,NULL,33,29,32,33,NULL,28,25,32,35,NULL,NBA
+72,290313009,2009,"Fri, Mar 13",Golden State Warriors,Dallas Mavericks,"23-42, 17-15 Home","40-26, 16-18 Away",119,110,NULL,NULL,Final,NULL,29,31,29,30,NULL,31,23,24,32,NULL,NBA
+73,290317009,2009,"Tue, Mar 17",Golden State Warriors,LA Clippers,"24-43, 18-16 Home","16-51, 7-25 Away",127,120,NULL,NULL,Final,NULL,25,34,33,35,NULL,27,24,30,39,NULL,NBA
+74,290320009,2009,"Fri, Mar 20",Golden State Warriors,Philadelphia 76ers,"25-44, 19-16 Home","34-33, 14-19 Away",119,111,NULL,NULL,Final,CSN,31,31,29,28,NULL,33,23,23,32,NULL,NBA
+75,290324024,2009,"Tue, Mar 24",San Antonio Spurs,Golden State Warriors,"46-24, 25-11 Home","25-46, 6-30 Away",107,106,NULL,NULL,Final,NULL,28,24,27,28,NULL,25,29,24,28,NULL,NBA
+76,290328007,2009,"Sat, Mar 28",Denver Nuggets,Golden State Warriors,"48-26, 28-8 Home","25-48, 6-32 Away",129,116,NULL,NULL,Final,NULL,28,38,38,25,NULL,27,30,17,42,NULL,NBA
+77,290401009,2009,"Wed, Apr 1",Golden State Warriors,Sacramento Kings,"26-49, 20-17 Home","16-58, 5-32 Away",143,141,NULL,NULL,Final/OT,NULL,37,30,43,22,11,40,36,30,26,9,NBA
+78,290405023,2009,"Sun, Apr 5",Sacramento Kings,Golden State Warriors,"16-60, 11-27 Home","28-49, 7-32 Away",100,105,NULL,NULL,Final,NULL,23,19,27,31,NULL,18,32,36,19,NULL,NBA
+79,290410009,2009,"Fri, Apr 10",Golden State Warriors,Houston Rockets,"28-51, 21-19 Home","52-28, 20-20 Away",109,113,NULL,NULL,Final,NULL,20,36,23,30,NULL,25,34,27,27,NULL,NBA
+80,290413009,2009,"Mon, Apr 13",Golden State Warriors,San Antonio Spurs,"29-52, 21-20 Home","53-28, 26-15 Away",72,101,NULL,NULL,Final,NULL,24,14,13,21,NULL,29,28,24,20,NULL,NBA
+81,290415021,2009,"Wed, Apr 15",Phoenix Suns,Golden State Warriors,"46-36, 28-13 Home","29-53, 8-33 Away",117,113,NULL,NULL,Final,NULL,24,32,30,31,NULL,36,20,34,23,NULL,NBA

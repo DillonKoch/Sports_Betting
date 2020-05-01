@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,400899424,2017,"Thu, Oct 27",Sacramento Kings,San Antonio Spurs,"1-1, 0-1 Home","2-0, 2-0 Away",94,102,NULL,NULL,Final,NULL,29,28,14,23,NULL,27,26,23,26,NULL,NBA
+1,400899487,2017,"Sun, Oct 30",Miami Heat,San Antonio Spurs,"1-2, 0-2 Home","4-0, 3-0 Away",99,106,NULL,NULL,Final,NULL,19,25,28,27,NULL,24,28,25,29,NULL,NBA
+2,400899527,2017,"Fri, Nov 4",Utah Jazz,San Antonio Spurs,"3-3, 2-1 Home","5-1, 4-0 Away",86,100,NULL,NULL,Final,NULL,17,24,25,20,NULL,27,26,29,18,NULL,NBA
+3,400899564,2017,"Wed, Nov 9",San Antonio Spurs,Houston Rockets,"5-3, 1-3 Home","5-3, 4-3 Away",99,101,NULL,NULL,Final,ESPN,24,36,20,19,NULL,33,30,22,16,NULL,NBA
+4,400899584,2017,"Sat, Nov 12",Houston Rockets,San Antonio Spurs,"5-4, 1-1 Home","7-3, 5-0 Away",100,106,NULL,NULL,Final,NULL,22,18,30,30,NULL,26,23,33,24,NULL,NBA
+5,400899618,2017,"Wed, Nov 16",Sacramento Kings,San Antonio Spurs,"4-8, 2-3 Home","9-3, 6-0 Away",105,110,NULL,NULL,Final,NULL,22,24,25,34,NULL,27,30,27,26,NULL,NBA
+6,400899656,2017,"Mon, Nov 21",San Antonio Spurs,Dallas Mavericks,"11-3, 4-3 Home","2-11, 1-8 Away",96,91,NULL,NULL,Final,NBATV,24,24,25,23,NULL,28,21,24,18,NULL,NBA
+7,400899675,2017,"Fri, Nov 25",Boston Celtics,San Antonio Spurs,"9-7, 4-3 Home","13-3, 9-0 Away",103,109,NULL,NULL,Final,NULL,32,16,26,29,NULL,22,24,29,34,NULL,NBA
+8,400899714,2017,"Tue, Nov 29",San Antonio Spurs,Orlando Magic,"14-4, 4-4 Home","7-11, 3-5 Away",83,95,NULL,NULL,Final,NULL,20,23,21,19,NULL,16,29,30,20,NULL,NBA
+9,400899731,2017,"Fri, Dec 2",San Antonio Spurs,Washington Wizards,"16-4, 5-4 Home","6-12, 1-7 Away",107,105,NULL,NULL,Final,NULL,24,33,23,27,NULL,28,32,14,31,NULL,NBA
+10,400899761,2017,"Tue, Dec 6",Minnesota Timberwolves,San Antonio Spurs,"6-15, 3-7 Home","18-4, 13-0 Away",91,105,NULL,NULL,Final,NBATV,22,24,18,27,NULL,19,24,29,33,NULL,NBA
+11,400899795,2017,"Sat, Dec 10",San Antonio Spurs,Brooklyn Nets,"19-5, 6-4 Home","6-16, 1-9 Away",130,101,NULL,NULL,Final,NULL,41,26,36,27,NULL,26,26,18,31,NULL,NBA
+12,400899829,2017,"Thu, Dec 15",Phoenix Suns,San Antonio Spurs,"8-18, 4-8 Home","21-5, 14-1 Away",92,107,NULL,NULL,Final,NULL,20,23,28,21,NULL,23,28,23,33,NULL,NBA
+13,400899867,2017,"Tue, Dec 20",Houston Rockets,San Antonio Spurs,"21-8, 10-3 Home","23-5, 15-1 Away",100,102,NULL,NULL,Final,NBATV,24,21,33,22,NULL,26,26,19,31,NULL,NBA
+14,400899896,2017,"Fri, Dec 23",Portland Trail Blazers,San Antonio Spurs,"13-19, 8-6 Home","24-6, 16-2 Away",90,110,NULL,NULL,Final,NULL,27,18,27,18,NULL,27,30,30,23,NULL,NBA
+15,400899924,2017,"Wed, Dec 28",San Antonio Spurs,Phoenix Suns,"26-6, 10-4 Home","9-23, 4-14 Away",119,98,NULL,NULL,Final,NULL,30,28,31,30,NULL,27,37,18,16,NULL,NBA
+16,400899374,2017,"Sun, Jan 1",Atlanta Hawks,San Antonio Spurs,"18-16, 10-7 Home","27-7, 16-3 Away",114,112,NULL,NULL,Final/OT,NBATV,25,19,25,31,14,27,19,28,26,12,NBA
+17,400899964,2017,"Thu, Jan 5",Denver Nuggets,San Antonio Spurs,"14-22, 7-11 Home","29-7, 17-3 Away",99,127,NULL,NULL,Final,NULL,33,20,24,22,NULL,29,29,32,37,NULL,NBA
+18,400899996,2017,"Tue, Jan 10",San Antonio Spurs,Milwaukee Bucks,"30-8, 13-5 Home","19-18, 8-9 Away",107,109,NULL,NULL,Final,NULL,23,36,30,18,NULL,23,30,30,26,NULL,NBA
+19,400900026,2017,"Sat, Jan 14",Phoenix Suns,San Antonio Spurs,13-27,31-9,108,105,NULL,NULL,Final,NULL,25,26,29,28,NULL,25,33,27,20,NULL,NBA
+20,400900060,2017,"Thu, Jan 19",San Antonio Spurs,Denver Nuggets,"33-9, 16-5 Home","17-24, 8-13 Away",118,104,NULL,NULL,Final,NULL,28,31,33,26,NULL,23,35,23,23,NULL,NBA
+21,400900087,2017,"Mon, Jan 23",Brooklyn Nets,San Antonio Spurs,"9-35, 7-16 Home","35-9, 19-4 Away",86,112,NULL,NULL,Final,NULL,26,16,27,17,NULL,27,25,39,21,NULL,NBA
+22,400900122,2017,"Fri, Jan 27",New Orleans Pelicans,San Antonio Spurs,"19-28, 13-13 Home","36-10, 20-5 Away",119,103,NULL,NULL,Final,NULL,23,25,37,34,NULL,20,37,27,19,NULL,NBA
+23,400900148,2017,"Tue, Jan 31",San Antonio Spurs,Oklahoma City Thunder,"37-11, 17-6 Home","28-21, 12-15 Away",108,94,NULL,NULL,Final,NBATV,31,21,27,29,NULL,17,25,33,19,NULL,NBA
+24,400900167,2017,"Sat, Feb 4",San Antonio Spurs,Denver Nuggets,"39-11, 19-6 Home","22-28, 9-16 Away",121,97,NULL,NULL,Final,NULL,30,26,35,30,NULL,27,23,22,25,NULL,NBA
+25,400900187,2017,"Wed, Feb 8",Philadelphia 76ers,San Antonio Spurs,"18-34, 12-16 Home","40-12, 21-6 Away",103,111,NULL,NULL,Final,NULL,23,28,24,28,NULL,29,29,24,29,NULL,NBA
+26,400900222,2017,"Sun, Feb 12",New York Knicks,San Antonio Spurs,"23-33, 14-15 Home","41-13, 22-7 Away",94,90,NULL,NULL,Final,ABC,18,24,27,25,NULL,21,27,17,25,NULL,NBA
+27,400900240,2017,"Wed, Feb 15",Orlando Magic,San Antonio Spurs,"21-37, 9-18 Home","43-13, 24-7 Away",79,107,NULL,NULL,Final,NULL,16,21,27,15,NULL,30,24,31,22,NULL,NBA
+28,400900280,2017,"Sun, Feb 26",Los Angeles Lakers,San Antonio Spurs,"19-41, 12-15 Home","45-13, 26-7 Away",98,119,NULL,NULL,Final,NULL,20,21,29,28,NULL,36,25,35,23,NULL,NBA
+29,400900312,2017,"Fri, Mar 3",New Orleans Pelicans,San Antonio Spurs,"24-38, 15-17 Home","47-13, 27-7 Away",98,101,NULL,NULL,Final/OT,ESPN,30,18,18,23,9,27,22,18,22,12,NBA
+30,400900337,2017,"Mon, Mar 6",San Antonio Spurs,Houston Rockets,"49-13, 22-6 Home","44-20, 21-12 Away",112,110,NULL,NULL,Final,NULL,23,24,34,31,NULL,39,15,28,28,NULL,NBA
+31,400900357,2017,"Thu, Mar 9",Oklahoma City Thunder,San Antonio Spurs,"36-29, 24-9 Home","50-14, 27-8 Away",102,92,NULL,NULL,Final,TNT,29,27,26,20,NULL,28,21,22,21,NULL,NBA
+32,400900389,2017,"Mon, Mar 13",San Antonio Spurs,Atlanta Hawks,"52-14, 25-6 Home","37-30, 18-15 Away",107,99,NULL,NULL,Final,TNT,28,26,27,26,NULL,18,25,30,26,NULL,NBA
+33,400900428,2017,"Sat, Mar 18",Memphis Grizzlies,San Antonio Spurs,"40-30, 21-14 Home","52-16, 27-9 Away",104,96,NULL,NULL,Final,NULL,29,15,31,29,NULL,18,25,30,23,NULL,NBA
+34,400900451,2017,"Tue, Mar 21",Minnesota Timberwolves,San Antonio Spurs,"28-42, 18-19 Home","54-16, 28-9 Away",93,100,NULL,NULL,Final,ESPN,23,28,16,26,NULL,25,17,31,27,NULL,NBA
+35,400900480,2017,"Sat, Mar 25",San Antonio Spurs,New York Knicks,"56-16, 28-7 Home","27-46, 11-28 Away",106,98,NULL,NULL,Final,NULL,33,28,17,28,NULL,23,20,31,24,NULL,NBA
+36,400900513,2017,"Wed, Mar 29",San Antonio Spurs,Golden State Warriors,"57-17, 29-8 Home","61-14, 30-10 Away",98,110,NULL,NULL,Final,ESPN,33,24,20,21,NULL,17,37,30,26,NULL,NBA
+37,400899473,2017,"Sun, Apr 2",San Antonio Spurs,Utah Jazz,"59-17, 30-8 Home","47-30, 21-18 Away",109,103,NULL,NULL,Final,ABC,33,21,34,21,NULL,28,24,26,25,NULL,NBA
+38,400900548,2017,"Wed, Apr 5",San Antonio Spurs,Los Angeles Lakers,"60-18, 31-9 Home","23-55, 9-31 Away",95,102,NULL,NULL,Final,NULL,14,27,29,25,NULL,31,22,23,26,NULL,NBA
+39,400900571,2017,"Sat, Apr 8",San Antonio Spurs,LA Clippers,"61-19, 31-10 Home","49-31, 22-19 Away",87,98,NULL,NULL,Final,ABC,23,20,27,17,NULL,22,30,30,16,NULL,NBA
+40,400899377,2017,"Tue, Oct 25",Golden State Warriors,San Antonio Spurs,"0-1, 0-1 Home","1-0, 1-0 Away",100,129,NULL,NULL,Final,TNT,20,26,31,23,NULL,31,33,33,32,NULL,NBA
+41,400899482,2017,"Sat, Oct 29",San Antonio Spurs,New Orleans Pelicans,"3-0, 1-0 Home","0-3, 0-1 Away",98,79,NULL,NULL,Final,NBATV,28,27,28,15,NULL,23,22,15,19,NULL,NBA
+42,400899503,2017,"Tue, Nov 1",San Antonio Spurs,Utah Jazz,"4-1, 1-1 Home","2-2, 1-2 Away",91,106,NULL,NULL,Final,NULL,28,22,21,20,NULL,38,16,19,33,NULL,NBA
+43,400899536,2017,"Sat, Nov 5",San Antonio Spurs,LA Clippers,"5-2, 1-2 Home","5-1, 3-0 Away",92,116,NULL,NULL,Final,NBATV,24,31,17,20,NULL,39,34,16,27,NULL,NBA
+44,400899577,2017,"Fri, Nov 11",San Antonio Spurs,Detroit Pistons,"6-3, 2-3 Home","4-5, 0-5 Away",96,86,NULL,NULL,Final,NULL,28,21,26,21,NULL,26,26,15,19,NULL,NBA
+45,400899600,2017,"Mon, Nov 14",San Antonio Spurs,Miami Heat,"8-3, 3-3 Home","2-7, 1-3 Away",94,90,NULL,NULL,Final,NULL,25,30,16,23,NULL,19,21,20,30,NULL,NBA
+46,400899632,2017,"Fri, Nov 18",Los Angeles Lakers,San Antonio Spurs,"7-6, 4-2 Home","10-3, 7-0 Away",107,116,NULL,NULL,Final,NULL,16,36,24,31,NULL,26,26,39,25,NULL,NBA
+47,400899663,2017,"Wed, Nov 23",Charlotte Hornets,San Antonio Spurs,"8-6, 4-4 Home","12-3, 8-0 Away",114,119,NULL,NULL,Final,ESPN,28,32,24,30,NULL,30,29,25,35,NULL,NBA
+48,400899690,2017,"Sat, Nov 26",Washington Wizards,San Antonio Spurs,"5-10, 4-5 Home","14-3, 10-0 Away",100,112,NULL,NULL,Final,NBATV,22,22,32,24,NULL,23,31,36,22,NULL,NBA
+49,400899722,2017,"Wed, Nov 30",Dallas Mavericks,San Antonio Spurs,"3-14, 2-5 Home","15-4, 11-0 Away",87,94,NULL,NULL,Final,NULL,17,23,26,21,NULL,21,22,18,33,NULL,NBA
+50,400899751,2017,"Mon, Dec 5",Milwaukee Bucks,San Antonio Spurs,"10-9, 7-5 Home","17-4, 12-0 Away",96,97,NULL,NULL,Final,NULL,24,24,25,23,NULL,26,9,36,26,NULL,NBA
+51,400899778,2017,"Thu, Dec 8",Chicago Bulls,San Antonio Spurs,"12-10, 6-3 Home","18-5, 13-1 Away",95,91,NULL,NULL,Final,TNT,21,24,27,23,NULL,17,15,31,28,NULL,NBA
+52,400899825,2017,"Wed, Dec 14",San Antonio Spurs,Boston Celtics,"20-5, 7-4 Home","13-12, 8-7 Away",108,101,NULL,NULL,Final,ESPN,32,24,21,31,NULL,23,24,26,28,NULL,NBA
+53,400899854,2017,"Sun, Dec 18",San Antonio Spurs,New Orleans Pelicans,"22-5, 8-4 Home","9-20, 3-11 Away",113,100,NULL,NULL,Final,NULL,30,31,31,21,NULL,26,23,22,29,NULL,NBA
+54,400899883,2017,"Thu, Dec 22",LA Clippers,San Antonio Spurs,"22-8, 11-4 Home","23-6, 15-2 Away",106,101,NULL,NULL,Final,TNT,27,30,24,25,NULL,22,23,28,28,NULL,NBA
+55,400899900,2017,"Sun, Dec 25",San Antonio Spurs,Chicago Bulls,"25-6, 9-4 Home","14-16, 6-10 Away",119,100,NULL,NULL,Final,ABC,36,19,32,32,NULL,25,25,26,24,NULL,NBA
+56,400899941,2017,"Fri, Dec 30",San Antonio Spurs,Portland Trail Blazers,"27-6, 11-4 Home","14-21, 5-14 Away",110,94,NULL,NULL,Final,NULL,22,25,33,30,NULL,32,20,21,21,NULL,NBA
+57,400899428,2017,"Tue, Jan 3",San Antonio Spurs,Toronto Raptors,"28-7, 12-4 Home","23-11, 12-6 Away",110,82,NULL,NULL,Final,NULL,29,31,28,22,NULL,18,23,17,24,NULL,NBA
+58,400899979,2017,"Sat, Jan 7",San Antonio Spurs,Charlotte Hornets,"30-7, 13-4 Home","20-18, 8-11 Away",102,85,NULL,NULL,Final,NULL,24,23,26,29,NULL,24,26,14,21,NULL,NBA
+59,400900009,2017,"Thu, Jan 12",San Antonio Spurs,Los Angeles Lakers,"31-8, 14-5 Home","15-28, 5-17 Away",134,94,NULL,NULL,Final,NULL,36,36,34,28,NULL,24,30,21,19,NULL,NBA
+60,400900046,2017,"Tue, Jan 17",San Antonio Spurs,Minnesota Timberwolves,"32-9, 15-5 Home","14-28, 5-15 Away",122,114,NULL,NULL,Final,NULL,30,37,25,30,NULL,30,41,19,24,NULL,NBA
+61,400900078,2017,"Sat, Jan 21",Cleveland Cavaliers,San Antonio Spurs,"30-12, 19-4 Home","34-9, 18-4 Away",115,118,NULL,NULL,Final/OT,ABC,33,25,31,18,8,22,35,27,23,11,NBA
+62,400900095,2017,"Tue, Jan 24",Toronto Raptors,San Antonio Spurs,"28-17, 15-8 Home","36-9, 20-4 Away",106,108,NULL,NULL,Final,NBATV,25,29,25,27,NULL,29,32,18,29,NULL,NBA
+63,400900138,2017,"Sun, Jan 29",San Antonio Spurs,Dallas Mavericks,"36-11, 16-6 Home","17-30, 7-18 Away",101,105,NULL,NULL,Final,NULL,28,31,22,20,NULL,27,22,28,28,NULL,NBA
+64,400899470,2017,"Thu, Feb 2",San Antonio Spurs,Philadelphia 76ers,"38-11, 18-6 Home","18-31, 6-16 Away",102,86,NULL,NULL,Final,NULL,24,24,31,23,NULL,21,32,20,13,NULL,NBA
+65,400900182,2017,"Mon, Feb 6",Memphis Grizzlies,San Antonio Spurs,"32-22, 17-9 Home","39-12, 20-6 Away",89,74,NULL,NULL,Final,TNT,17,23,29,20,NULL,14,26,25,9,NULL,NBA
+66,400900206,2017,"Fri, Feb 10",Detroit Pistons,San Antonio Spurs,"25-29, 16-11 Home","41-12, 22-6 Away",92,103,NULL,NULL,Final,NULL,19,22,25,26,NULL,27,33,23,20,NULL,NBA
+67,400900230,2017,"Mon, Feb 13",Indiana Pacers,San Antonio Spurs,"29-26, 20-9 Home","42-13, 23-7 Away",106,110,NULL,NULL,Final,NULL,31,18,30,27,NULL,26,23,34,27,NULL,NBA
+68,400900271,2017,"Fri, Feb 24",LA Clippers,San Antonio Spurs,"35-23, 18-9 Home","44-13, 25-7 Away",97,105,NULL,NULL,Final,ESPN,13,29,31,24,NULL,18,29,30,28,NULL,NBA
+69,400899437,2017,"Wed, Mar 1",San Antonio Spurs,Indiana Pacers,"46-13, 20-6 Home","31-30, 10-20 Away",100,99,NULL,NULL,Final,NULL,29,18,26,27,NULL,28,21,27,23,NULL,NBA
+70,400900320,2017,"Sat, Mar 4",San Antonio Spurs,Minnesota Timberwolves,"48-13, 21-6 Home","25-37, 10-19 Away",97,90,NULL,NULL,Final/OT,NULL,14,29,19,21,14,26,29,15,13,7,NBA
+71,400900352,2017,"Wed, Mar 8",San Antonio Spurs,Sacramento Kings,"50-13, 23-6 Home","25-39, 12-20 Away",114,104,NULL,NULL,Final,NULL,15,33,34,32,NULL,37,26,23,18,NULL,NBA
+72,400900375,2017,"Sat, Mar 11",San Antonio Spurs,Golden State Warriors,"51-14, 24-6 Home","52-14, 26-10 Away",107,85,NULL,NULL,Final,ABC,33,31,22,21,NULL,22,22,19,22,NULL,NBA
+73,400900406,2017,"Wed, Mar 15",San Antonio Spurs,Portland Trail Blazers,"52-15, 25-7 Home","30-37, 13-23 Away",106,110,NULL,NULL,Final,ESPN,29,26,25,26,NULL,28,26,28,28,NULL,NBA
+74,400900437,2017,"Sun, Mar 19",San Antonio Spurs,Sacramento Kings,"53-16, 26-7 Home","27-43, 13-22 Away",118,102,NULL,NULL,Final,NULL,21,37,41,19,NULL,27,22,25,28,NULL,NBA
+75,400900465,2017,"Thu, Mar 23",San Antonio Spurs,Memphis Grizzlies,"55-16, 27-7 Home","40-32, 19-18 Away",97,90,NULL,NULL,Final,NULL,27,24,23,23,NULL,22,20,27,21,NULL,NBA
+76,400900494,2017,"Mon, Mar 27",San Antonio Spurs,Cleveland Cavaliers,"57-16, 29-7 Home","47-26, 19-18 Away",103,74,NULL,NULL,Final,TNT,28,36,17,22,NULL,18,22,18,16,NULL,NBA
+77,400900530,2017,"Fri, Mar 31",Oklahoma City Thunder,San Antonio Spurs,"43-32, 27-11 Home","58-17, 29-9 Away",95,100,NULL,NULL,Final,ESPN,25,29,22,19,NULL,16,25,30,29,NULL,NBA
+78,400900539,2017,"Tue, Apr 4",San Antonio Spurs,Memphis Grizzlies,"60-17, 31-8 Home","42-36, 19-22 Away",95,89,NULL,NULL,Final/OT,NULL,14,19,27,24,11,16,19,16,33,5,NBA
+79,400900561,2017,"Fri, Apr 7",Dallas Mavericks,San Antonio Spurs,"32-47, 21-19 Home","61-18, 30-9 Away",89,102,NULL,NULL,Final,NULL,26,35,8,20,NULL,21,29,25,27,NULL,NBA
+80,400900587,2017,"Mon, Apr 10",Portland Trail Blazers,San Antonio Spurs,"41-40, 25-15 Home","61-20, 30-10 Away",99,98,NULL,NULL,Final,NULL,31,16,24,28,NULL,28,15,33,22,NULL,NBA
+81,400900605,2017,"Wed, Apr 12",Utah Jazz,San Antonio Spurs,"51-31, 29-12 Home","61-21, 30-11 Away",101,97,NULL,NULL,Final,NULL,32,21,29,19,NULL,23,23,26,25,NULL,NBA

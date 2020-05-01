@@ -4,7 +4,7 @@
 # File Created: Tuesday, 14th April 2020 5:08:27 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Monday, 20th April 2020 1:42:18 pm
+# Last Modified: Wednesday, 29th April 2020 8:31:54 am
 # Modified By: Dillon Koch
 # -----
 #
@@ -19,6 +19,7 @@ import re
 import time
 
 import pandas as pd
+from func_timeout import func_set_timeout
 from tqdm import tqdm
 
 from espn_game_scraper import ESPN_Game_Scraper
@@ -124,6 +125,7 @@ class ESPN_Season_Scraper:
         row.append(game.league)
         return row
 
+    @func_set_timeout(7 * 60)
     def full_season_df(self, league, team_abbrev, year):
         egs = ESPN_Game_Scraper()
         game_tuples = self.team_dates_links(league, team_abbrev, year)
@@ -154,11 +156,24 @@ class ESPN_Season_Scraper:
                 years_found.append(year)
         return [item for item in all_years if item not in years_found]
 
+    def run_all_season_scrapes(self, league):
+        team_abbrevs = self.json_data[league]["Abbreviations"]
+
+        for team in team_abbrevs:
+            try:
+                years = self.find_years_unscraped(league, team)
+                self.scrape_team_history(league, team, years)
+            except BaseException:
+                print('error with scraping!')
+                for i in range(120):
+                    print('sleeping for {} more seconds...'.format(120 - i))
+                    time.sleep(1)
+
 
 if __name__ == "__main__":
     ess = ESPN_Season_Scraper()
     egs = ESPN_Game_Scraper()
-
+    ess.run_all_season_scrapes("NBA")
     # heat_games = ess.team_dates_links('NBA', 'mia')
     # df = ess._make_season_df("NBA")
     # game = egs.all_nba_info(heat_games[0][2])
@@ -171,7 +186,7 @@ if __name__ == "__main__":
     #     print("{} seconds left".format(time_left - i))
     # for team in ess.json_data["NBA"]["Abbreviations"][:10]:
     #     ess.scrape_team_history("NBA", team, list(range(1993, 2021, 1)))
-    team = 'cle'
-    years = ess.find_years_unscraped("NBA", team)
+    # team = 'dal'
+    # years = ess.find_years_unscraped("NBA", team)
 
-    ess.scrape_team_history("NBA", team, years)
+    # ess.scrape_team_history("NBA", team, years)

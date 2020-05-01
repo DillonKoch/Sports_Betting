@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,301029017,2011,"Fri, Oct 29",New Jersey Nets,Sacramento Kings,"2-0, 2-0 Home","1-1, 1-1 Away",106,100,NULL,NULL,Final,NULL,31,30,15,30,NULL,21,32,24,23,NULL,NBA
+1,301103017,2011,"Wed, Nov 3",New Jersey Nets,Charlotte Bobcats,"2-2, 2-2 Home","1-3, 1-2 Away",83,85,NULL,NULL,Final,NULL,19,21,21,22,NULL,23,18,21,23,NULL,NBA
+2,301106014,2011,"Sat, Nov 6",Miami Heat,New Jersey Nets,"5-2, 3-0 Home","2-4, 0-2 Away",101,89,NULL,NULL,Final,NULL,24,31,32,14,NULL,25,26,17,21,NULL,NBA
+3,301110005,2011,"Wed, Nov 10",Cleveland Cavaliers,New Jersey Nets,"4-4, 1-3 Home","3-5, 1-2 Away",87,95,NULL,NULL,Final,NULL,25,27,17,18,NULL,18,24,25,28,NULL,NBA
+4,301115012,2011,"Mon, Nov 15",LA Clippers,New Jersey Nets,"1-10, 1-5 Home","4-6, 2-2 Away",96,110,NULL,NULL,Final,NULL,23,21,26,26,NULL,24,31,21,34,NULL,NBA
+5,301119023,2011,"Fri, Nov 19",Sacramento Kings,New Jersey Nets,"4-7, 2-5 Home","4-8, 2-4 Away",86,81,NULL,NULL,Final,NULL,21,22,21,22,NULL,19,27,17,18,NULL,NBA
+6,301123017,2011,"Tue, Nov 23",New Jersey Nets,Atlanta Hawks,"5-9, 3-4 Home","8-7, 5-2 Away",107,101,NULL,NULL,Final/OT,NULL,31,20,19,23,14,21,22,24,26,8,NBA
+7,301127020,2011,"Sat, Nov 27",Philadelphia 76ers,New Jersey Nets,"4-13, 3-4 Home","5-11, 2-7 Away",102,86,NULL,NULL,Final,CSN,27,19,20,36,NULL,24,24,18,20,NULL,NBA
+8,301130018,2011,"Tue, Nov 30",New York Knicks,New Jersey Nets,"10-9, 3-5 Home","6-12, 2-8 Away",111,100,NULL,NULL,Final,NULL,30,25,33,23,NULL,28,30,15,27,NULL,NBA
+9,301203030,2011,"Fri, Dec 3",Charlotte Bobcats,New Jersey Nets,"7-12, 4-5 Home","6-14, 2-9 Away",91,84,NULL,NULL,Final/OT,NULL,18,15,27,19,12,16,16,16,31,5,NBA
+10,301207001,2011,"Tue, Dec 7",Atlanta Hawks,New Jersey Nets,"15-8, 7-5 Home","6-16, 2-10 Away",116,101,NULL,NULL,Final,NULL,27,33,23,33,NULL,26,21,24,30,NULL,NBA
+11,301212017,2011,"Sun, Dec 12",New Jersey Nets,Los Angeles Lakers,"6-18, 4-7 Home","17-7, 7-5 Away",92,99,NULL,NULL,Final,NULL,24,18,25,25,NULL,30,22,17,30,NULL,NBA
+12,301216017,2011,"Thu, Dec 16",New Jersey Nets,Washington Wizards,"7-19, 5-8 Home","6-18, 0-13 Away",97,89,NULL,NULL,Final,NULL,32,23,19,23,NULL,17,21,29,22,NULL,NBA
+13,301219017,2011,"Sun, Dec 19",New Jersey Nets,Atlanta Hawks,"8-20, 6-8 Home","17-12, 8-7 Away",89,82,NULL,NULL,Final,NULL,23,20,19,27,NULL,30,13,19,20,NULL,NBA
+14,301222003,2011,"Wed, Dec 22",New Orleans Hornets,New Jersey Nets,"17-12, 12-3 Home","9-21, 3-13 Away",105,91,NULL,NULL,Final,NULL,32,25,26,22,NULL,29,21,13,28,NULL,NBA
+15,301229025,2011,"Wed, Dec 29",Oklahoma City Thunder,New Jersey Nets,"22-11, 12-6 Home","9-23, 3-14 Away",114,93,NULL,NULL,Final,NULL,24,33,31,26,NULL,24,22,24,23,NULL,NBA
+16,310101016,2011,"Sat, Jan 1",Minnesota Timberwolves,New Jersey Nets,"9-25, 7-8 Home","9-25, 3-16 Away",103,88,NULL,NULL,Final,NULL,36,18,23,26,NULL,29,26,9,24,NULL,NBA
+17,310107027,2011,"Fri, Jan 7",Washington Wizards,New Jersey Nets,"9-25, 9-8 Home","10-26, 3-17 Away",97,77,NULL,NULL,Final,NULL,30,26,15,26,NULL,13,24,20,20,NULL,NBA
+18,310112021,2011,"Wed, Jan 12",Phoenix Suns,New Jersey Nets,"16-21, 10-9 Home","10-28, 3-18 Away",118,109,NULL,NULL,Final/OT,NULL,28,27,18,30,15,28,29,27,19,6,NBA
+19,310115022,2011,"Sat, Jan 15",Portland Trail Blazers,New Jersey Nets,"21-20, 13-5 Home","10-30, 3-20 Away",96,89,NULL,NULL,Final,NULL,18,28,28,22,NULL,26,27,23,13,NULL,NBA
+20,310119017,2011,"Wed, Jan 19",New Jersey Nets,Utah Jazz,"11-31, 8-10 Home","27-15, 12-8 Away",103,95,NULL,NULL,Final,NULL,27,21,29,26,NULL,19,29,16,31,NULL,NBA
+21,310122017,2011,"Sat, Jan 22",New Jersey Nets,Dallas Mavericks,"12-32, 9-11 Home","28-15, 13-7 Away",86,87,NULL,NULL,Final,NULL,26,19,23,18,NULL,22,26,20,19,NULL,NBA
+22,310126017,2011,"Wed, Jan 26",New Jersey Nets,Memphis Grizzlies,"14-32, 11-11 Home","22-24, 9-17 Away",93,88,NULL,NULL,Final,NULL,16,26,18,33,NULL,32,21,13,22,NULL,NBA
+23,310129015,2011,"Sat, Jan 29",Milwaukee Bucks,New Jersey Nets,"19-26, 11-10 Home","14-34, 3-23 Away",91,81,NULL,NULL,Final,NULL,22,23,23,23,NULL,25,12,24,20,NULL,NBA
+24,310202017,2011,"Wed, Feb 2",New Jersey Nets,Philadelphia 76ers,"15-35, 12-12 Home","22-26, 7-18 Away",92,106,NULL,NULL,Final,CSN,26,18,22,26,NULL,28,25,25,28,NULL,NBA
+25,310206017,2011,"Sun, Feb 6",New Jersey Nets,Indiana Pacers,"15-37, 12-13 Home","21-27, 8-16 Away",86,105,NULL,NULL,Final,NULL,24,19,24,19,NULL,33,23,25,24,NULL,NBA
+26,310211030,2011,"Fri, Feb 11",Charlotte Bobcats,New Jersey Nets,"22-31, 13-14 Home","17-37, 4-24 Away",89,94,NULL,NULL,Final,NULL,21,16,23,29,NULL,24,28,20,22,NULL,NBA
+27,310214017,2011,"Mon, Feb 14",New Jersey Nets,San Antonio Spurs,"17-39, 13-15 Home","46-9, 21-7 Away",85,102,NULL,NULL,Final,NBATV,23,25,18,19,NULL,27,32,21,22,NULL,NBA
+28,310225024,2011,"Fri, Feb 25",San Antonio Spurs,New Jersey Nets,"48-10, 27-2 Home","17-41, 4-26 Away",106,96,NULL,NULL,Final,NULL,29,24,35,18,NULL,25,29,18,24,NULL,NBA
+29,310228017,2011,"Mon, Feb 28",New Jersey Nets,Phoenix Suns,"17-43, 13-16 Home","31-27, 14-14 Away",103,104,NULL,NULL,Final/OT,NULL,23,28,15,30,7,26,26,17,27,8,NBA
+30,310305017,2011,"Sat, Mar 5",New Jersey Nets,Toronto Raptors,"19-43, 15-16 Home","17-46, 5-26 Away",137,136,NULL,NULL,Final/3OT,NBATV,23,42,23,22,27,30,32,26,22,26,NBA
+31,310311017,2011,"Fri, Mar 11",New Jersey Nets,LA Clippers,"21-43, 17-16 Home","25-41, 7-26 Away",102,98,NULL,NULL,Final/OT,NULL,14,23,31,26,8,26,25,16,27,4,NBA
+32,310317017,2011,"Thu, Mar 17",New Jersey Nets,Chicago Bulls,"22-44, 18-17 Home","49-18, 19-14 Away",73,84,NULL,NULL,Final,NULL,20,16,14,23,NULL,24,19,17,24,NULL,NBA
+33,310320027,2011,"Sun, Mar 20",Washington Wizards,New Jersey Nets,"17-51, 16-20 Home","22-46, 4-29 Away",98,92,NULL,NULL,Final,NULL,23,20,28,27,NULL,35,21,12,24,NULL,NBA
+34,310323005,2011,"Wed, Mar 23",Cleveland Cavaliers,New Jersey Nets,"13-57, 8-27 Home","23-47, 5-29 Away",94,98,NULL,NULL,Final/OT,NULL,22,20,20,20,12,17,22,23,20,16,NBA
+35,310326001,2011,"Sat, Mar 26",Atlanta Hawks,New Jersey Nets,"41-32, 22-15 Home","23-49, 5-31 Away",98,87,NULL,NULL,Final,NBATV,32,25,25,16,NULL,15,16,30,26,NULL,NBA
+36,310330018,2011,"Wed, Mar 30",New York Knicks,New Jersey Nets,"37-38, 21-17 Home","23-51, 5-32 Away",120,116,NULL,NULL,Final,ESPN,30,28,33,29,NULL,36,32,24,24,NULL,NBA
+37,310403017,2011,"Sun, Apr 3",New Jersey Nets,Miami Heat,"23-53, 18-20 Home","54-23, 26-13 Away",94,108,NULL,NULL,Final,NULL,18,26,25,25,NULL,32,26,19,31,NULL,NBA
+38,310406008,2011,"Wed, Apr 6",Detroit Pistons,New Jersey Nets,"27-51, 20-19 Home","24-54, 5-34 Away",116,109,NULL,NULL,Final,NULL,32,22,35,27,NULL,28,31,29,21,NULL,NBA
+39,310410028,2011,"Sun, Apr 10",Toronto Raptors,New Jersey Nets,"22-58, 16-24 Home","24-56, 5-35 Away",99,92,NULL,NULL,Final,TSN2,31,30,21,17,NULL,22,20,20,30,NULL,NBA
+40,301027017,2011,"Wed, Oct 27",New Jersey Nets,Detroit Pistons,"1-0, 1-0 Home","0-1, 0-1 Away",101,98,NULL,NULL,Final,NULL,20,19,31,31,NULL,20,27,20,31,NULL,NBA
+41,301031017,2011,"Sun, Oct 31",New Jersey Nets,Miami Heat,"2-1, 2-1 Home","3-1, 2-1 Away",78,101,NULL,NULL,Final,NULL,18,24,19,17,NULL,29,29,27,16,NULL,NBA
+42,301105019,2011,"Fri, Nov 5",Orlando Magic,New Jersey Nets,"3-1, 3-0 Home","2-3, 0-1 Away",105,90,NULL,NULL,Final,NULL,20,28,32,25,NULL,18,33,16,23,NULL,NBA
+43,301109017,2011,"Tue, Nov 9",New Jersey Nets,Cleveland Cavaliers,"2-5, 2-3 Home","4-3, 3-1 Away",91,93,NULL,NULL,Final,NULL,23,19,23,26,NULL,23,22,18,30,NULL,NBA
+44,301113017,2011,"Sat, Nov 13",New Jersey Nets,Orlando Magic,"3-6, 2-4 Home","6-3, 2-1 Away",90,91,NULL,NULL,Final,NULL,25,26,18,21,NULL,31,21,16,23,NULL,NBA
+45,301117026,2011,"Wed, Nov 17",Utah Jazz,New Jersey Nets,"8-4, 3-2 Home","4-7, 2-3 Away",98,88,NULL,NULL,Final,NULL,24,29,24,21,NULL,25,22,23,18,NULL,NBA
+46,301120007,2011,"Sat, Nov 20",Denver Nuggets,New Jersey Nets,"7-6, 5-1 Home","4-9, 2-5 Away",107,103,NULL,NULL,Final,NULL,28,31,24,24,NULL,25,29,21,28,NULL,NBA
+47,301124002,2011,"Wed, Nov 24",Boston Celtics,New Jersey Nets,"11-4, 6-1 Home","5-10, 2-6 Away",89,83,NULL,NULL,Final,NULL,18,20,23,28,NULL,17,29,17,20,NULL,NBA
+48,301128017,2011,"Sun, Nov 28",New Jersey Nets,Portland Trail Blazers,"6-11, 4-4 Home","8-8, 4-5 Away",98,96,NULL,NULL,Final,NULL,23,21,29,25,NULL,26,26,26,18,NULL,NBA
+49,301201017,2011,"Wed, Dec 1",New Jersey Nets,Oklahoma City Thunder,"6-13, 4-5 Home","13-6, 7-2 Away",120,123,NULL,NULL,Final/3OT,NULL,22,27,13,31,27,16,28,27,22,30,NBA
+50,301205017,2011,"Sun, Dec 5",New Jersey Nets,Boston Celtics,"6-15, 4-6 Home","16-4, 7-3 Away",75,100,NULL,NULL,Final,NULL,25,12,16,22,NULL,27,30,23,20,NULL,NBA
+51,301209006,2011,"Thu, Dec 9",Dallas Mavericks,New Jersey Nets,"18-4, 10-3 Home","6-17, 2-11 Away",102,89,NULL,NULL,Final,NULL,30,25,24,23,NULL,19,21,29,20,NULL,NBA
+52,301214017,2011,"Tue, Dec 14",New Jersey Nets,Philadelphia 76ers,"6-19, 4-8 Home","9-15, 2-10 Away",77,82,NULL,NULL,Final,CSN,20,14,21,22,NULL,26,14,19,23,NULL,NBA
+53,301217028,2011,"Fri, Dec 17",Toronto Raptors,New Jersey Nets,"10-17, 7-7 Home","7-20, 2-12 Away",98,92,NULL,NULL,Final,TSNT,21,21,27,29,NULL,23,25,23,21,NULL,NBA
+54,301221029,2011,"Tue, Dec 21",Memphis Grizzlies,New Jersey Nets,"12-17, 8-6 Home","9-20, 3-12 Away",94,101,NULL,NULL,Final,NULL,18,25,24,27,NULL,26,19,28,28,NULL,NBA
+55,301227017,2011,"Mon, Dec 27",New Jersey Nets,Orlando Magic,"9-22, 6-9 Home","19-12, 8-7 Away",88,104,NULL,NULL,Final,NULL,25,19,25,19,NULL,24,27,30,23,NULL,NBA
+56,301231004,2011,"Fri, Dec 31",Chicago Bulls,New Jersey Nets,"21-10, 13-3 Home","9-24, 3-15 Away",90,81,NULL,NULL,Final,NULL,23,23,24,20,NULL,21,23,19,18,NULL,NBA
+57,310105017,2011,"Wed, Jan 5",New Jersey Nets,Chicago Bulls,"10-25, 7-9 Home","23-11, 8-8 Away",96,94,NULL,NULL,Final,NULL,25,21,32,18,NULL,24,23,18,29,NULL,NBA
+58,310108017,2011,"Sat, Jan 8",New Jersey Nets,Milwaukee Bucks,"10-27, 7-10 Home","14-21, 6-13 Away",92,115,NULL,NULL,Final,NULL,15,30,20,27,NULL,28,27,33,27,NULL,NBA
+59,310114013,2011,"Fri, Jan 14",Los Angeles Lakers,New Jersey Nets,"30-11, 16-5 Home","10-29, 3-19 Away",100,88,NULL,NULL,Final,NULL,22,23,25,30,NULL,24,16,23,25,NULL,NBA
+60,310117009,2011,"Mon, Jan 17",Golden State Warriors,New Jersey Nets,"17-23, 11-7 Home","10-31, 3-21 Away",109,100,NULL,NULL,Final,NULL,28,26,25,30,NULL,28,18,27,27,NULL,NBA
+61,310121017,2011,"Fri, Jan 21",New Jersey Nets,Detroit Pistons,"12-31, 9-10 Home","15-28, 4-19 Away",89,74,NULL,NULL,Final,NULL,21,25,21,22,NULL,18,23,19,14,NULL,NBA
+62,310124017,2011,"Mon, Jan 24",New Jersey Nets,Cleveland Cavaliers,"13-32, 10-11 Home","8-36, 3-22 Away",103,101,NULL,NULL,Final,NULL,26,22,25,30,NULL,29,25,23,24,NULL,NBA
+63,310128011,2011,"Fri, Jan 28",Indiana Pacers,New Jersey Nets,"17-26, 11-11 Home","14-33, 3-22 Away",124,92,NULL,NULL,Final,NULL,32,36,36,20,NULL,27,27,24,14,NULL,NBA
+64,310131017,2011,"Mon, Jan 31",New Jersey Nets,Denver Nuggets,"15-34, 12-11 Home","28-20, 8-15 Away",115,99,NULL,NULL,Final,NBATV,31,32,22,30,NULL,21,29,28,21,NULL,NBA
+65,310204008,2011,"Fri, Feb 4",Detroit Pistons,New Jersey Nets,"18-32, 13-11 Home","15-36, 3-24 Away",92,82,NULL,NULL,Final,NULL,28,20,24,20,NULL,22,22,19,19,NULL,NBA
+66,310209017,2011,"Wed, Feb 9",New Jersey Nets,New Orleans Hornets,"16-37, 13-13 Home","32-22, 12-15 Away",103,101,NULL,NULL,Final/OT,NULL,23,23,23,22,12,27,15,29,20,10,NBA
+67,310212017,2011,"Sat, Feb 12",New Jersey Nets,New York Knicks,"17-38, 13-14 Home","27-26, 13-14 Away",95,105,NULL,NULL,Final,NULL,21,33,14,27,NULL,27,32,13,33,NULL,NBA
+68,310216002,2011,"Wed, Feb 16",Boston Celtics,New Jersey Nets,"40-14, 25-5 Home","17-40, 4-25 Away",94,80,NULL,NULL,Final,NULL,27,19,24,24,NULL,22,24,24,10,NULL,NBA
+69,310226010,2011,"Sat, Feb 26",Houston Rockets,New Jersey Nets,"29-31, 16-13 Home","17-42, 4-27 Away",123,108,NULL,NULL,Final,NULL,37,34,28,24,NULL,33,25,24,26,NULL,NBA
+70,310304017,2011,"Fri, Mar 4",New Jersey Nets,Toronto Raptors,"18-43, 14-16 Home","17-45, 5-25 Away",116,103,NULL,NULL,Final,NBATV,27,20,31,38,NULL,23,28,30,22,NULL,NBA
+71,310309017,2011,"Wed, Mar 9",New Jersey Nets,Golden State Warriors,"20-43, 16-16 Home","28-36, 9-23 Away",94,90,NULL,NULL,Final,NULL,29,22,23,20,NULL,22,27,28,13,NULL,NBA
+72,310314017,2011,"Mon, Mar 14",New Jersey Nets,Boston Celtics,"22-43, 18-16 Home","47-18, 19-12 Away",88,79,NULL,NULL,Final,NULL,14,22,31,21,NULL,23,15,23,18,NULL,NBA
+73,310318015,2011,"Fri, Mar 18",Milwaukee Bucks,New Jersey Nets,"27-41, 18-17 Home","22-45, 4-28 Away",110,95,NULL,NULL,Final,NULL,29,23,28,30,NULL,26,28,19,22,NULL,NBA
+74,310321017,2011,"Mon, Mar 21",New Jersey Nets,Indiana Pacers,"22-47, 18-18 Home","31-40, 12-25 Away",98,102,NULL,NULL,Final,NULL,19,25,17,37,NULL,15,25,29,33,NULL,NBA
+75,310325019,2011,"Fri, Mar 25",Orlando Magic,New Jersey Nets,"47-26, 26-11 Home","23-48, 5-30 Away",95,85,NULL,NULL,Final,NULL,25,23,18,29,NULL,20,18,25,22,NULL,NBA
+76,310329017,2011,"Tue, Mar 29",New Jersey Nets,Houston Rockets,"23-50, 18-19 Home","39-35, 17-21 Away",87,112,NULL,NULL,Final,NULL,21,22,20,24,NULL,34,27,22,29,NULL,NBA
+77,310401020,2011,"Fri, Apr 1",Philadelphia 76ers,New Jersey Nets,"40-36, 25-12 Home","23-52, 5-33 Away",115,90,NULL,NULL,Final,CSN,29,31,34,21,NULL,21,22,22,25,NULL,NBA
+78,310405017,2011,"Tue, Apr 5",New Jersey Nets,Minnesota Timberwolves,"24-53, 19-20 Home","17-61, 5-34 Away",107,105,NULL,NULL,Final,NULL,29,32,24,22,NULL,23,27,25,30,NULL,NBA
+79,310408017,2011,"Fri, Apr 8",New Jersey Nets,New York Knicks,"24-55, 19-21 Home","41-38, 18-21 Away",93,116,NULL,NULL,Final,NULL,31,20,21,21,NULL,36,32,28,20,NULL,NBA
+80,310411017,2011,"Mon, Apr 11",New Jersey Nets,Charlotte Bobcats,"24-57, 19-22 Home","33-48, 13-28 Away",103,105,NULL,NULL,Final,NULL,29,24,20,30,NULL,25,24,30,26,NULL,NBA
+81,310413004,2011,"Wed, Apr 13",Chicago Bulls,New Jersey Nets,"62-20, 36-5 Home","24-58, 5-36 Away",97,92,NULL,NULL,Final,NULL,26,24,18,29,NULL,20,23,25,24,NULL,NBA

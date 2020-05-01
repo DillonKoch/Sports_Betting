@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,400488890,2014,"Wed, Oct 30",Golden State Warriors,Los Angeles Lakers,"1-0, 1-0 Home","1-1, 0-1 Away",125,94,NULL,NULL,Final,NBATV,26,33,37,29,NULL,16,24,23,31,NULL,NBA
+1,400488919,2014,"Sun, Nov 3",Los Angeles Lakers,Atlanta Hawks,"2-2, 2-1 Home","1-2, 0-2 Away",105,103,NULL,NULL,Final,NULL,33,29,26,17,NULL,22,27,27,27,NULL,NBA
+2,400488945,2014,"Thu, Nov 7",Houston Rockets,Los Angeles Lakers,"4-2, 2-1 Home","3-3, 1-2 Away",98,99,NULL,NULL,Final,TNT,19,31,27,21,NULL,36,28,17,18,NULL,NBA
+3,400488970,2014,"Sun, Nov 10",Los Angeles Lakers,Minnesota Timberwolves,"3-5, 2-2 Home","5-2, 2-1 Away",90,113,NULL,NULL,Final,NULL,23,25,28,14,NULL,47,20,23,23,NULL,NBA
+4,400488991,2014,"Wed, Nov 13",Denver Nuggets,Los Angeles Lakers,"3-4, 2-2 Home","4-6, 1-4 Away",111,99,NULL,NULL,Final,NULL,33,27,23,28,NULL,28,26,25,20,NULL,NBA
+5,400489022,2014,"Sun, Nov 17",Los Angeles Lakers,Detroit Pistons,"5-7, 4-3 Home","3-6, 1-4 Away",114,99,NULL,NULL,Final,NULL,27,23,29,35,NULL,29,27,15,28,NULL,NBA
+6,400489074,2014,"Sun, Nov 24",Los Angeles Lakers,Sacramento Kings,"7-7, 6-3 Home","4-9, 1-4 Away",100,86,NULL,NULL,Final,NULL,29,26,18,27,NULL,24,24,13,25,NULL,NBA
+7,400489091,2014,"Wed, Nov 27",Brooklyn Nets,Los Angeles Lakers,"4-11, 2-4 Home","8-8, 2-5 Away",94,99,NULL,NULL,Final,NULL,18,22,28,26,NULL,34,20,23,22,NULL,NBA
+8,400489128,2014,"Sun, Dec 1",Los Angeles Lakers,Portland Trail Blazers,"9-9, 6-4 Home","14-3, 8-2 Away",108,114,NULL,NULL,Final,NULL,24,26,24,34,NULL,32,21,41,20,NULL,NBA
+9,400489176,2014,"Sun, Dec 8",Los Angeles Lakers,Toronto Raptors,"10-10, 6-5 Home","7-12, 4-6 Away",94,106,NULL,NULL,Final,NBATV,20,27,21,26,NULL,30,21,22,33,NULL,NBA
+10,400489209,2014,"Fri, Dec 13",Oklahoma City Thunder,Los Angeles Lakers,"18-4, 11-0 Home","10-12, 4-6 Away",122,97,NULL,NULL,Final,ESPN,38,28,28,28,NULL,28,23,23,23,NULL,NBA
+11,400489230,2014,"Mon, Dec 16",Atlanta Hawks,Los Angeles Lakers,"13-12, 9-4 Home","11-13, 5-7 Away",114,100,NULL,NULL,Final,NULL,20,27,35,32,NULL,28,26,19,27,NULL,NBA
+12,400489264,2014,"Fri, Dec 20",Los Angeles Lakers,Minnesota Timberwolves,"13-13, 7-6 Home","13-14, 5-10 Away",104,91,NULL,NULL,Final,ESPN,35,16,30,23,NULL,26,27,23,15,NULL,NBA
+13,400489289,2014,"Mon, Dec 23",Phoenix Suns,Los Angeles Lakers,"17-10, 10-4 Home","13-15, 6-9 Away",117,90,NULL,NULL,Final,NULL,28,36,26,27,NULL,24,27,17,22,NULL,NBA
+14,400489306,2014,"Fri, Dec 27",Utah Jazz,Los Angeles Lakers,"9-23, 4-10 Home","13-17, 6-10 Away",105,103,NULL,NULL,Final,NULL,25,30,28,22,NULL,23,29,29,22,NULL,NBA
+15,400489340,2014,"Tue, Dec 31",Los Angeles Lakers,Milwaukee Bucks,"13-19, 7-9 Home","7-24, 4-12 Away",79,94,NULL,NULL,Final,NULL,12,21,27,19,NULL,23,19,32,20,NULL,NBA
+16,400489377,2014,"Sun, Jan 5",Los Angeles Lakers,Denver Nuggets,"14-20, 8-10 Home","16-17, 8-9 Away",115,137,NULL,NULL,Final,NULL,29,32,22,32,NULL,26,34,33,44,NULL,NBA
+17,400489399,2014,"Wed, Jan 8",Houston Rockets,Los Angeles Lakers,"23-13, 15-5 Home","14-22, 6-12 Away",113,99,NULL,NULL,Final,NULL,24,28,33,28,NULL,28,29,15,27,NULL,NBA
+18,400489438,2014,"Tue, Jan 14",Los Angeles Lakers,Cleveland Cavaliers,"14-24, 8-11 Home","14-24, 4-16 Away",118,120,NULL,NULL,Final,NULL,23,40,22,33,NULL,28,29,31,32,NULL,NBA
+19,400489459,2014,"Fri, Jan 17",Boston Celtics,Los Angeles Lakers,"14-27, 9-12 Home","15-25, 7-14 Away",104,107,NULL,NULL,Final,NULL,23,35,24,22,NULL,25,27,24,31,NULL,NBA
+20,400489486,2014,"Mon, Jan 20",Chicago Bulls,Los Angeles Lakers,"20-20, 13-8 Home","16-26, 8-15 Away",102,100,NULL,NULL,Final/OT,NULL,31,18,20,24,9,26,26,20,21,7,NBA
+21,400489506,2014,"Fri, Jan 24",Orlando Magic,Los Angeles Lakers,"12-32, 9-14 Home","16-28, 8-17 Away",114,105,NULL,NULL,Final,NULL,28,25,38,23,NULL,32,23,25,25,NULL,NBA
+22,400489547,2014,"Tue, Jan 28",Los Angeles Lakers,Indiana Pacers,"16-30, 8-12 Home","35-9, 14-8 Away",92,104,NULL,NULL,Final,NULL,19,30,20,23,NULL,22,27,30,25,NULL,NBA
+23,400489595,2014,"Tue, Feb 4",Minnesota Timberwolves,Los Angeles Lakers,"24-24, 14-9 Home","16-32, 8-19 Away",109,99,NULL,NULL,Final,NULL,38,30,21,20,NULL,26,26,26,21,NULL,NBA
+24,400489614,2014,"Fri, Feb 7",Philadelphia 76ers,Los Angeles Lakers,"15-36, 8-18 Home","18-32, 10-19 Away",98,112,NULL,NULL,Final,NULL,35,29,21,13,NULL,26,35,26,25,NULL,NBA
+25,400489649,2014,"Tue, Feb 11",Los Angeles Lakers,Utah Jazz,"18-34, 8-15 Home","18-33, 7-19 Away",79,96,NULL,NULL,Final,NULL,27,10,23,19,NULL,16,32,20,28,NULL,NBA
+26,400489684,2014,"Wed, Feb 19",Los Angeles Lakers,Houston Rockets,"18-36, 8-17 Home","37-17, 15-10 Away",108,134,NULL,NULL,Final,ESPN,22,21,32,33,NULL,32,32,40,30,NULL,NBA
+27,400489712,2014,"Sun, Feb 23",Los Angeles Lakers,Brooklyn Nets,"19-37, 9-18 Home","26-28, 10-17 Away",102,108,NULL,NULL,Final,NULL,21,26,27,28,NULL,33,30,23,22,NULL,NBA
+28,400489730,2014,"Wed, Feb 26",Memphis Grizzlies,Los Angeles Lakers,"32-24, 17-14 Home","19-39, 10-21 Away",108,103,NULL,NULL,Final,NULL,31,34,17,26,NULL,23,23,27,30,NULL,NBA
+29,400489769,2014,"Mon, Mar 3",Portland Trail Blazers,Los Angeles Lakers,"41-19, 23-8 Home","21-39, 11-21 Away",106,107,NULL,NULL,Final,NULL,20,36,28,22,NULL,33,30,24,20,NULL,NBA
+30,400489789,2014,"Thu, Mar 6",Los Angeles Lakers,LA Clippers,"21-41, 10-20 Home","43-20, 18-15 Away",94,142,NULL,NULL,Final,TNT,27,13,20,34,NULL,29,44,36,33,NULL,NBA
+31,400489808,2014,"Sun, Mar 9",Los Angeles Lakers,Oklahoma City Thunder,"22-42, 11-20 Home","46-17, 20-11 Away",114,110,NULL,NULL,Final,ABC,26,25,36,27,NULL,35,21,19,35,NULL,NBA
+32,400489851,2014,"Fri, Mar 14",San Antonio Spurs,Los Angeles Lakers,"49-16, 25-8 Home","22-44, 11-24 Away",119,85,NULL,NULL,Final,NBATV,29,32,28,30,NULL,14,20,26,25,NULL,NBA
+33,400489904,2014,"Fri, Mar 21",Los Angeles Lakers,Washington Wizards,"22-46, 11-22 Home","36-33, 19-17 Away",107,117,NULL,NULL,Final,NULL,21,26,34,26,NULL,33,25,30,29,NULL,NBA
+34,400489933,2014,"Tue, Mar 25",Los Angeles Lakers,New York Knicks,"24-46, 13-22 Home","29-42, 13-21 Away",127,96,NULL,NULL,Final,TNT,14,36,51,26,NULL,22,20,31,23,NULL,NBA
+35,400489954,2014,"Fri, Mar 28",Minnesota Timberwolves,Los Angeles Lakers,"36-35, 21-14 Home","24-48, 11-26 Away",143,107,NULL,NULL,Final,NULL,41,33,37,32,NULL,24,19,34,30,NULL,NBA
+36,400489986,2014,"Tue, Apr 1",Los Angeles Lakers,Portland Trail Blazers,"25-49, 14-23 Home","49-27, 22-18 Away",112,124,NULL,NULL,Final,TNT,27,34,22,29,NULL,29,34,28,33,NULL,NBA
+37,400490015,2014,"Fri, Apr 4",Los Angeles Lakers,Dallas Mavericks,"25-51, 14-24 Home","46-31, 21-17 Away",95,107,NULL,NULL,Final,NULL,23,31,24,17,NULL,27,25,30,25,NULL,NBA
+38,400490034,2014,"Tue, Apr 8",Los Angeles Lakers,Houston Rockets,"25-53, 14-25 Home","52-25, 21-17 Away",130,145,NULL,NULL,Final,TNT,26,35,29,40,NULL,35,31,49,30,NULL,NBA
+39,400490076,2014,"Sun, Apr 13",Los Angeles Lakers,Memphis Grizzlies,"25-55, 14-27 Home","48-32, 22-18 Away",90,102,NULL,NULL,Final,NBATV,27,25,17,21,NULL,23,30,34,15,NULL,NBA
+40,400488876,2014,"Tue, Oct 29",Los Angeles Lakers,LA Clippers,"1-0, 1-0 Home","0-1, 0-1 Away",116,103,NULL,NULL,Final,TNT,28,27,20,41,NULL,30,27,22,24,NULL,NBA
+41,400488905,2014,"Fri, Nov 1",Los Angeles Lakers,San Antonio Spurs,"1-2, 1-1 Home","2-0, 1-0 Away",85,91,NULL,NULL,Final,ESPN,23,19,19,24,NULL,16,25,22,28,NULL,NBA
+42,400488929,2014,"Tue, Nov 5",Dallas Mavericks,Los Angeles Lakers,"3-1, 3-0 Home","2-3, 0-2 Away",123,104,NULL,NULL,Final,NBATV,35,32,27,29,NULL,22,26,29,27,NULL,NBA
+43,400488954,2014,"Fri, Nov 8",New Orleans Pelicans,Los Angeles Lakers,"3-3, 2-2 Home","3-4, 1-3 Away",96,85,NULL,NULL,Final,NULL,28,27,14,27,NULL,27,21,18,19,NULL,NBA
+44,400488983,2014,"Tue, Nov 12",Los Angeles Lakers,New Orleans Pelicans,"4-5, 3-2 Home","3-5, 1-3 Away",116,95,NULL,NULL,Final,NULL,22,33,31,30,NULL,19,20,23,33,NULL,NBA
+45,400489007,2014,"Fri, Nov 15",Los Angeles Lakers,Memphis Grizzlies,"4-7, 3-3 Home","4-5, 1-3 Away",86,89,NULL,NULL,Final,NULL,17,23,26,20,NULL,24,16,23,26,NULL,NBA
+46,400489059,2014,"Fri, Nov 22",Los Angeles Lakers,Golden State Warriors,"6-7, 5-3 Home","8-5, 3-4 Away",102,95,NULL,NULL,Final,ESPN,22,33,20,27,NULL,21,25,17,32,NULL,NBA
+47,400489085,2014,"Tue, Nov 26",Washington Wizards,Los Angeles Lakers,"6-8, 4-2 Home","7-8, 1-5 Away",116,111,NULL,NULL,Final,NBATV,31,28,23,34,NULL,29,26,22,34,NULL,NBA
+48,400489106,2014,"Fri, Nov 29",Detroit Pistons,Los Angeles Lakers,"6-10, 4-5 Home","9-8, 3-5 Away",102,106,NULL,NULL,Final,NULL,32,23,32,15,NULL,31,25,21,29,NULL,NBA
+49,400489162,2014,"Fri, Dec 6",Sacramento Kings,Los Angeles Lakers,"4-13, 3-9 Home","10-9, 4-5 Away",100,106,NULL,NULL,Final,NBATV,30,25,32,13,NULL,28,24,29,25,NULL,NBA
+50,400489190,2014,"Tue, Dec 10",Los Angeles Lakers,Phoenix Suns,"10-11, 6-6 Home","12-9, 6-6 Away",108,114,NULL,NULL,Final,NULL,21,30,23,34,NULL,26,30,23,35,NULL,NBA
+51,400489215,2014,"Sat, Dec 14",Charlotte Bobcats,Los Angeles Lakers,"10-14, 6-8 Home","11-12, 5-6 Away",85,88,NULL,NULL,Final,NULL,23,20,25,17,NULL,22,22,20,24,NULL,NBA
+52,400489239,2014,"Tue, Dec 17",Memphis Grizzlies,Los Angeles Lakers,"10-14, 5-10 Home","12-13, 6-7 Away",92,96,NULL,NULL,Final,NULL,24,23,20,25,NULL,34,18,15,29,NULL,NBA
+53,400489275,2014,"Sat, Dec 21",Golden State Warriors,Los Angeles Lakers,"15-13, 9-4 Home","13-14, 6-8 Away",102,83,NULL,NULL,Final,NULL,27,19,26,30,NULL,26,16,15,26,NULL,NBA
+54,400489293,2014,"Wed, Dec 25",Los Angeles Lakers,Miami Heat,"13-16, 7-7 Home","22-6, 8-4 Away",95,101,NULL,NULL,Final,ABC,27,19,28,21,NULL,21,30,25,25,NULL,NBA
+55,400489325,2014,"Sun, Dec 29",Los Angeles Lakers,Philadelphia 76ers,"13-18, 7-8 Home","9-21, 2-13 Away",104,111,NULL,NULL,Final,NULL,22,30,25,27,NULL,20,32,34,25,NULL,NBA
+56,400489361,2014,"Fri, Jan 3",Los Angeles Lakers,Utah Jazz,"14-19, 8-9 Home","11-25, 5-15 Away",110,99,NULL,NULL,Final,NULL,30,22,31,27,NULL,12,28,27,32,NULL,NBA
+57,400489389,2014,"Tue, Jan 7",Dallas Mavericks,Los Angeles Lakers,"20-15, 12-6 Home","14-21, 6-11 Away",110,97,NULL,NULL,Final,NULL,33,27,25,25,NULL,31,22,24,20,NULL,NBA
+58,400489415,2014,"Fri, Jan 10",LA Clippers,Los Angeles Lakers,"26-13, 17-3 Home","14-23, 6-13 Away",123,87,NULL,NULL,Final,ESPN,43,27,31,22,NULL,25,27,8,27,NULL,NBA
+59,400489447,2014,"Wed, Jan 15",Phoenix Suns,Los Angeles Lakers,"22-16, 13-5 Home","14-25, 6-14 Away",121,114,NULL,NULL,Final,NULL,26,28,34,33,NULL,27,31,24,32,NULL,NBA
+60,400489474,2014,"Sun, Jan 19",Toronto Raptors,Los Angeles Lakers,"20-19, 10-9 Home","16-25, 8-14 Away",106,112,NULL,NULL,Final,NULL,36,22,23,25,NULL,29,25,28,30,NULL,NBA
+61,400489504,2014,"Thu, Jan 23",Miami Heat,Los Angeles Lakers,"31-12, 18-3 Home","16-27, 8-16 Away",109,102,NULL,NULL,Final,TNT,30,27,28,24,NULL,27,19,29,27,NULL,NBA
+62,400489528,2014,"Sun, Jan 26",New York Knicks,Los Angeles Lakers,"17-27, 9-15 Home","16-29, 8-18 Away",110,103,NULL,NULL,Final,ABC,22,29,32,27,NULL,25,22,34,22,NULL,NBA
+63,400489568,2014,"Fri, Jan 31",Los Angeles Lakers,Charlotte Bobcats,"16-31, 8-13 Home","21-27, 10-14 Away",100,110,NULL,NULL,Final,NULL,27,22,25,26,NULL,31,31,24,24,NULL,NBA
+64,400489598,2014,"Wed, Feb 5",Cleveland Cavaliers,Los Angeles Lakers,"16-33, 11-13 Home","17-32, 9-19 Away",108,119,NULL,NULL,Final,NULL,17,32,31,28,NULL,36,34,28,21,NULL,NBA
+65,400489630,2014,"Sun, Feb 9",Los Angeles Lakers,Chicago Bulls,"18-33, 8-14 Home","25-25, 12-15 Away",86,92,NULL,NULL,Final,ABC,23,23,16,24,NULL,34,18,25,15,NULL,NBA
+66,400489664,2014,"Thu, Feb 13",Los Angeles Lakers,Oklahoma City Thunder,"18-35, 8-16 Home","43-12, 20-9 Away",103,107,NULL,NULL,Final,TNT,24,30,28,21,NULL,17,28,27,35,NULL,NBA
+67,400489697,2014,"Fri, Feb 21",Los Angeles Lakers,Boston Celtics,"19-36, 9-17 Home","19-37, 8-20 Away",101,92,NULL,NULL,Final,ESPN,19,25,19,38,NULL,28,18,28,18,NULL,NBA
+68,400489720,2014,"Tue, Feb 25",Indiana Pacers,Los Angeles Lakers,"43-13, 27-3 Home","19-38, 10-20 Away",118,98,NULL,NULL,Final,NBATV,30,27,34,27,NULL,23,31,16,28,NULL,NBA
+69,400489745,2014,"Fri, Feb 28",Los Angeles Lakers,Sacramento Kings,"20-39, 10-18 Home","20-38, 8-20 Away",126,122,NULL,NULL,Final,NULL,27,27,41,31,NULL,31,34,34,23,NULL,NBA
+70,400489776,2014,"Tue, Mar 4",Los Angeles Lakers,New Orleans Pelicans,"21-40, 10-19 Home","24-37, 11-23 Away",125,132,NULL,NULL,Final,NBATV,23,28,34,40,NULL,35,32,28,37,NULL,NBA
+71,400489798,2014,"Fri, Mar 7",Denver Nuggets,Los Angeles Lakers,"27-34, 16-16 Home","21-42, 11-22 Away",134,126,NULL,NULL,Final,NULL,42,35,33,24,NULL,35,31,25,35,NULL,NBA
+72,400489843,2014,"Thu, Mar 13",Oklahoma City Thunder,Los Angeles Lakers,"48-17, 28-6 Home","22-43, 11-23 Away",131,102,NULL,NULL,Final,TNT,33,27,41,30,NULL,19,27,31,25,NULL,NBA
+73,400489890,2014,"Wed, Mar 19",Los Angeles Lakers,San Antonio Spurs,"22-45, 11-21 Home","51-16, 25-8 Away",109,125,NULL,NULL,Final,ESPN,29,28,30,22,NULL,35,23,34,33,NULL,NBA
+74,400489919,2014,"Sun, Mar 23",Los Angeles Lakers,Orlando Magic,"23-46, 12-22 Home","19-52, 4-34 Away",103,94,NULL,NULL,Final,NULL,29,26,20,28,NULL,24,24,25,21,NULL,NBA
+75,400489946,2014,"Thu, Mar 27",Milwaukee Bucks,Los Angeles Lakers,"14-58, 9-27 Home","24-47, 11-25 Away",108,105,NULL,NULL,Final,NULL,26,29,32,21,NULL,30,23,27,25,NULL,NBA
+76,400489973,2014,"Sun, Mar 30",Los Angeles Lakers,Phoenix Suns,"25-48, 14-22 Home","44-30, 19-17 Away",115,99,NULL,NULL,Final,NULL,26,35,28,26,NULL,15,28,31,25,NULL,NBA
+77,400489999,2014,"Wed, Apr 2",Sacramento Kings,Los Angeles Lakers,"27-48, 16-21 Home","25-50, 11-27 Away",107,102,NULL,NULL,Final,NULL,24,36,27,20,NULL,23,29,24,26,NULL,NBA
+78,400490023,2014,"Sun, Apr 6",LA Clippers,Los Angeles Lakers,"55-23, 32-6 Home","25-52, 11-28 Away",120,97,NULL,NULL,Final,ABC,25,32,37,26,NULL,22,27,23,25,NULL,NBA
+79,400490061,2014,"Fri, Apr 11",Los Angeles Lakers,Golden State Warriors,"25-54, 14-26 Home","49-30, 23-16 Away",95,112,NULL,NULL,Final,NBATV,26,17,26,26,NULL,26,32,25,29,NULL,NBA
+80,400490084,2014,"Mon, Apr 14",Utah Jazz,Los Angeles Lakers,"24-57, 16-25 Home","26-55, 12-28 Away",104,119,NULL,NULL,Final,NULL,30,21,35,18,NULL,23,34,29,33,NULL,NBA
+81,400490094,2014,"Wed, Apr 16",San Antonio Spurs,Los Angeles Lakers,"62-20, 32-9 Home","27-55, 13-28 Away",100,113,NULL,NULL,Final,NULL,23,28,24,25,NULL,33,18,35,27,NULL,NBA

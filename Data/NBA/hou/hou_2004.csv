@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,231101010,2004,"Sat, Nov 1",Houston Rockets,Memphis Grizzlies,"1-1, 1-1 Home","1-1, 1-0 Away",71,79,NULL,NULL,Final,NULL,13,20,23,15,NULL,22,12,17,28,NULL,NBA
+1,231104017,2004,"Tue, Nov 4",New Jersey Nets,Houston Rockets,"2-2, 1-1 Home","3-1, 2-0 Away",75,86,NULL,NULL,Final,NULL,21,23,18,13,NULL,22,15,20,29,NULL,NBA
+2,231111010,2004,"Tue, Nov 11",Houston Rockets,Miami Heat,"5-1, 3-1 Home","0-7, 0-5 Away",90,70,NULL,NULL,Final,NULL,16,27,22,25,NULL,16,20,20,14,NULL,NBA
+3,231114010,2004,"Fri, Nov 14",Houston Rockets,Phoenix Suns,"6-2, 4-1 Home","3-5, 1-3 Away",90,85,NULL,NULL,Final,NULL,24,18,22,26,NULL,21,27,17,20,NULL,NBA
+4,231117020,2004,"Mon, Nov 17",Philadelphia 76ers,Houston Rockets,"5-6, 2-3 Home","7-3, 3-2 Away",66,74,NULL,NULL,Final,CSN,17,19,13,17,NULL,20,26,13,15,NULL,NBA
+5,231121022,2004,"Fri, Nov 21",Portland Trail Blazers,Houston Rockets,"7-5, 7-1 Home","8-4, 3-3 Away",85,78,NULL,NULL,Final,NULL,16,26,22,21,NULL,27,12,18,21,NULL,NBA
+6,231126026,2004,"Wed, Nov 26",Utah Jazz,Houston Rockets,"8-6, 7-1 Home","9-5, 4-4 Away",83,76,NULL,NULL,Final,NULL,20,13,21,29,NULL,19,15,17,25,NULL,NBA
+7,231129025,2004,"Sat, Nov 29",Seattle SuperSonics,Houston Rockets,"8-6, 4-4 Home","9-7, 4-6 Away",95,88,NULL,NULL,Final,NULL,26,26,18,25,NULL,29,27,15,17,NULL,NBA
+8,231205003,2004,"Fri, Dec 5",New Orleans Hornets,Houston Rockets,"13-7, 7-3 Home","11-7, 5-6 Away",74,83,NULL,NULL,Final,NULL,14,29,12,19,NULL,23,16,26,18,NULL,NBA
+9,231209010,2004,"Tue, Dec 9",Houston Rockets,Portland Trail Blazers,"13-7, 8-1 Home","10-9, 0-7 Away",93,91,NULL,NULL,Final,NULL,24,23,25,21,NULL,26,15,19,31,NULL,NBA
+10,231213024,2004,"Sat, Dec 13",San Antonio Spurs,Houston Rockets,"15-10, 9-3 Home","13-9, 5-7 Away",86,73,NULL,NULL,Final,NULL,21,19,25,21,NULL,8,25,16,24,NULL,NBA
+11,231217005,2004,"Wed, Dec 17",Cleveland Cavaliers,Houston Rockets,"6-19, 6-6 Home","14-10, 6-8 Away",85,89,NULL,NULL,Final,NULL,13,24,29,19,NULL,21,17,29,22,NULL,NBA
+12,231220021,2004,"Sat, Dec 20",Phoenix Suns,Houston Rockets,"10-17, 8-7 Home","15-11, 6-9 Away",102,87,NULL,NULL,Final,NULL,24,20,20,38,NULL,19,25,17,26,NULL,NBA
+13,231225013,2004,"Thu, Dec 25",Los Angeles Lakers,Houston Rockets,"20-7, 14-2 Home","16-12, 7-9 Away",87,99,NULL,NULL,Final,NULL,19,25,27,16,NULL,33,24,16,26,NULL,NBA
+14,231229010,2004,"Mon, Dec 29",Houston Rockets,Seattle SuperSonics,"16-14, 9-4 Home","14-14, 7-6 Away",86,87,NULL,NULL,Final,NULL,24,22,17,23,NULL,19,23,18,27,NULL,NBA
+15,240103010,2004,"Sat, Jan 3",Houston Rockets,Utah Jazz,"18-14, 11-4 Home","17-16, 4-13 Away",84,63,NULL,NULL,Final,NULL,18,24,24,18,NULL,17,16,23,7,NULL,NBA
+16,240107008,2004,"Wed, Jan 7",Detroit Pistons,Houston Rockets,"23-13, 14-5 Home","19-15, 7-11 Away",85,66,NULL,NULL,Final,NULL,20,24,30,11,NULL,18,12,21,15,NULL,NBA
+17,240111010,2004,"Sun, Jan 11",Houston Rockets,Boston Celtics,"20-16, 12-5 Home","20-19, 10-8 Away",93,97,NULL,NULL,Final,NULL,20,18,22,33,NULL,24,22,19,32,NULL,NBA
+18,240114002,2004,"Wed, Jan 14",Boston Celtics,Houston Rockets,"20-21, 10-12 Home","22-16, 10-11 Away",80,95,NULL,NULL,Final,NULL,18,24,14,24,NULL,23,24,22,26,NULL,NBA
+19,240119029,2004,"Mon, Jan 19",Memphis Grizzlies,Houston Rockets,"22-18, 13-5 Home","23-17, 10-12 Away",88,83,NULL,NULL,Final,NULL,22,23,22,21,NULL,17,28,26,12,NULL,NBA
+20,240123011,2004,"Fri, Jan 23",Indiana Pacers,Houston Rockets,"33-12, 17-5 Home","25-17, 11-12 Away",74,78,NULL,NULL,Final,NULL,25,16,19,14,NULL,23,20,20,15,NULL,NBA
+21,240126014,2004,"Mon, Jan 26",Miami Heat,Houston Rockets,"19-26, 13-7 Home","26-18, 12-13 Away",95,81,NULL,NULL,Final,NULL,25,20,29,21,NULL,24,24,15,18,NULL,NBA
+22,240131010,2004,"Sat, Jan 31",Houston Rockets,New Jersey Nets,"26-20, 14-7 Home","25-20, 12-12 Away",77,88,NULL,NULL,Final,NULL,25,21,14,17,NULL,17,20,29,22,NULL,NBA
+23,240204010,2004,"Wed, Feb 4",Houston Rockets,Milwaukee Bucks,"27-21, 15-7 Home","26-22, 7-17 Away",103,89,NULL,NULL,Final,NULL,22,28,25,28,NULL,25,22,15,27,NULL,NBA
+24,240207001,2004,"Sat, Feb 7",Atlanta Hawks,Houston Rockets,"17-35, 10-16 Home","29-21, 13-14 Away",77,86,NULL,NULL,Final,NULL,20,21,21,15,NULL,26,12,13,35,NULL,NBA
+25,240211010,2004,"Wed, Feb 11",Houston Rockets,Los Angeles Lakers,"30-22, 17-8 Home","31-19, 11-15 Away",102,87,NULL,NULL,Final,NULL,26,20,27,29,NULL,23,22,20,22,NULL,NBA
+26,240221006,2004,"Sat, Feb 21",Dallas Mavericks,Houston Rockets,"35-20, 24-4 Home","31-23, 13-15 Away",97,88,NULL,NULL,Final,NULL,16,31,31,19,NULL,30,21,15,22,NULL,NBA
+27,240224024,2004,"Tue, Feb 24",San Antonio Spurs,Houston Rockets,"38-19, 19-7 Home","32-24, 13-16 Away",86,77,NULL,NULL,Final,NULL,28,20,0,38,NULL,21,29,2,25,NULL,NBA
+28,240227010,2004,"Fri, Feb 27",Houston Rockets,Portland Trail Blazers,"34-24, 21-8 Home","29-29, 11-19 Away",89,85,NULL,NULL,Final,NULL,27,22,18,22,NULL,24,26,14,21,NULL,NBA
+29,240303010,2004,"Wed, Mar 3",Houston Rockets,Los Angeles Lakers,"34-26, 21-10 Home","39-21, 17-16 Away",93,96,NULL,NULL,Final,NULL,25,28,18,22,NULL,29,14,19,34,NULL,NBA
+30,240307010,2004,"Sun, Mar 7",Houston Rockets,Dallas Mavericks,"36-26, 22-10 Home","39-23, 11-19 Away",101,98,NULL,NULL,Final,NULL,26,24,20,31,NULL,26,21,21,30,NULL,NBA
+31,240311010,2004,"Thu, Mar 11",Houston Rockets,New Orleans Hornets,"38-26, 24-10 Home","34-31, 13-19 Away",97,86,NULL,NULL,Final,NULL,21,28,24,24,NULL,21,13,22,30,NULL,NBA
+32,240315010,2004,"Mon, Mar 15",Houston Rockets,Phoenix Suns,"39-27, 25-11 Home","22-45, 8-26 Away",97,99,NULL,NULL,Final/OT,NULL,33,15,18,22,9,15,20,32,21,11,NBA
+33,240321023,2004,"Sun, Mar 21",Sacramento Kings,Houston Rockets,"51-19, 31-5 Home","39-29, 14-18 Away",100,95,NULL,NULL,Final,NULL,18,26,27,29,NULL,26,28,22,19,NULL,NBA
+34,240324010,2004,"Wed, Mar 24",Houston Rockets,Toronto Raptors,"41-29, 26-11 Home","30-41, 13-23 Away",90,89,NULL,NULL,Final/OT,NULL,21,22,21,18,8,20,19,20,23,7,NBA
+35,240328015,2004,"Sun, Mar 28",Milwaukee Bucks,Houston Rockets,"36-37, 24-12 Home","42-30, 16-19 Away",107,111,NULL,NULL,Final/OT,NULL,23,22,26,21,15,20,32,17,23,19,NBA
+36,240401013,2004,"Thu, Apr 1",Los Angeles Lakers,Houston Rockets,"52-23, 32-5 Home","42-32, 16-20 Away",93,85,NULL,NULL,Final,NULL,18,29,20,26,NULL,23,17,26,19,NULL,NBA
+37,240404010,2004,"Sun, Apr 4",Houston Rockets,Sacramento Kings,"42-34, 26-13 Home","53-23, 21-17 Away",94,99,NULL,NULL,Final,NULL,24,29,15,26,NULL,23,23,32,21,NULL,NBA
+38,240407012,2004,"Wed, Apr 7",LA Clippers,Houston Rockets,"27-52, 18-21 Home","43-35, 17-22 Away",79,102,NULL,NULL,Final,NULL,15,21,24,19,NULL,27,30,21,24,NULL,NBA
+39,240410026,2004,"Sat, Apr 10",Utah Jazz,Houston Rockets,"42-38, 28-12 Home","44-36, 17-23 Away",82,69,NULL,NULL,Final,NULL,23,23,16,20,NULL,16,24,11,18,NULL,NBA
+40,231030010,2004,"Thu, Oct 30",Houston Rockets,Denver Nuggets,"1-0, 1-0 Home","1-1, 0-1 Away",102,85,NULL,NULL,Final,NULL,22,26,24,30,NULL,20,22,18,25,NULL,NBA
+41,231103004,2004,"Mon, Nov 3",Chicago Bulls,Houston Rockets,"1-3, 1-2 Home","2-1, 1-0 Away",66,98,NULL,NULL,Final,NULL,22,13,13,18,NULL,29,26,22,21,NULL,NBA
+42,231108010,2004,"Sat, Nov 8",Houston Rockets,Orlando Magic,"4-1, 2-1 Home","1-6, 1-1 Away",96,86,NULL,NULL,Final,NULL,29,28,22,17,NULL,26,25,22,13,NULL,NBA
+43,231113006,2004,"Thu, Nov 13",Dallas Mavericks,Houston Rockets,"6-3, 4-0 Home","5-2, 2-1 Away",97,86,NULL,NULL,Final,NULL,20,30,31,16,NULL,18,26,27,15,NULL,NBA
+44,231116028,2004,"Sun, Nov 16",Toronto Raptors,Houston Rockets,"5-5, 5-0 Home","6-3, 2-2 Away",101,97,NULL,NULL,Final/2OT,NULL,24,16,19,24,18,16,21,24,22,14,NBA
+45,231119010,2004,"Wed, Nov 19",Houston Rockets,Golden State Warriors,"8-3, 5-1 Home","4-7, 0-4 Away",85,83,NULL,NULL,Final,NULL,19,25,20,21,NULL,16,24,25,18,NULL,NBA
+46,231124012,2004,"Mon, Nov 24",LA Clippers,Houston Rockets,"4-6, 2-2 Home","9-4, 4-3 Away",90,105,NULL,NULL,Final,NULL,17,24,25,24,NULL,21,34,18,32,NULL,NBA
+47,231128023,2004,"Fri, Nov 28",Sacramento Kings,Houston Rockets,"11-4, 9-0 Home","9-6, 4-5 Away",103,74,NULL,NULL,Final,NULL,25,29,25,24,NULL,14,14,29,17,NULL,NBA
+48,231203010,2004,"Wed, Dec 3",Houston Rockets,Utah Jazz,"10-7, 6-1 Home","10-7, 1-6 Away",107,101,NULL,NULL,Final/OT,NULL,15,29,23,27,13,28,15,28,23,7,NBA
+49,231206010,2004,"Sat, Dec 6",Houston Rockets,Detroit Pistons,"12-7, 7-1 Home","14-7, 7-5 Away",86,80,NULL,NULL,Final,NULL,28,20,24,14,NULL,22,19,15,24,NULL,NBA
+50,231211010,2004,"Thu, Dec 11",Houston Rockets,San Antonio Spurs,"13-8, 8-2 Home","14-10, 6-7 Away",67,71,NULL,NULL,Final,NULL,17,8,20,22,NULL,18,12,16,25,NULL,NBA
+51,231216016,2004,"Tue, Dec 16",Minnesota Timberwolves,Houston Rockets,"15-9, 5-5 Home","13-10, 5-8 Away",92,75,NULL,NULL,Final,NULL,24,23,29,16,NULL,19,15,22,19,NULL,NBA
+52,231219010,2004,"Fri, Dec 19",Houston Rockets,LA Clippers,"15-10, 9-2 Home","10-12, 2-7 Away",99,85,NULL,NULL,Final,NULL,28,23,31,17,NULL,22,19,26,18,NULL,NBA
+53,231223010,2004,"Tue, Dec 23",Houston Rockets,Indiana Pacers,"15-12, 9-3 Home","21-8, 10-5 Away",71,79,NULL,NULL,Final,NULL,14,14,21,22,NULL,19,20,18,22,NULL,NBA
+54,231226007,2004,"Fri, Dec 26",Denver Nuggets,Houston Rockets,"18-11, 12-3 Home","16-13, 7-10 Away",95,94,NULL,NULL,Final,NULL,19,18,33,25,NULL,27,24,21,22,NULL,NBA
+55,231231010,2004,"Wed, Dec 31",Houston Rockets,Philadelphia 76ers,"17-14, 10-4 Home","14-18, 6-11 Away",80,72,NULL,NULL,Final,CSN,22,16,20,22,NULL,13,19,24,16,NULL,NBA
+56,240105010,2004,"Mon, Jan 5",Houston Rockets,Golden State Warriors,"19-14, 12-4 Home","14-19, 4-13 Away",83,65,NULL,NULL,Final,NULL,16,26,24,17,NULL,14,18,21,12,NULL,NBA
+57,240108018,2004,"Thu, Jan 8",New York Knicks,Houston Rockets,"14-23, 8-10 Home","20-15, 8-11 Away",79,111,NULL,NULL,Final,NULL,14,23,23,19,NULL,31,23,32,25,NULL,NBA
+58,240113027,2004,"Tue, Jan 13",Washington Wizards,Houston Rockets,"10-26, 6-10 Home","21-16, 9-11 Away",80,93,NULL,NULL,Final,NULL,17,24,24,15,NULL,22,21,30,20,NULL,NBA
+59,240117010,2004,"Sat, Jan 17",Houston Rockets,Minnesota Timberwolves,"23-16, 13-5 Home","26-12, 14-7 Away",95,76,NULL,NULL,Final,NULL,23,22,23,27,NULL,13,13,19,31,NULL,NBA
+60,240121010,2004,"Wed, Jan 21",Houston Rockets,New York Knicks,"24-17, 14-5 Home","19-25, 7-14 Away",86,71,NULL,NULL,Final,NULL,16,31,23,16,NULL,26,9,22,14,NULL,NBA
+61,240125019,2004,"Sun, Jan 25",Orlando Magic,Houston Rockets,"12-33, 6-15 Home","26-17, 12-12 Away",87,99,NULL,NULL,Final,NULL,17,23,28,19,NULL,21,22,32,24,NULL,NBA
+62,240128010,2004,"Wed, Jan 28",Houston Rockets,Sacramento Kings,"26-19, 14-6 Home","31-12, 10-9 Away",94,99,NULL,NULL,Final,NULL,29,24,23,18,NULL,29,20,22,28,NULL,NBA
+63,240202021,2004,"Mon, Feb 2",Phoenix Suns,Houston Rockets,"18-32, 12-11 Home","26-21, 12-14 Away",99,79,NULL,NULL,Final,NULL,28,13,32,26,NULL,11,25,22,21,NULL,NBA
+64,240206010,2004,"Fri, Feb 6",Houston Rockets,Chicago Bulls,"28-21, 16-7 Home","14-37, 6-21 Away",82,80,NULL,NULL,Final,NULL,26,15,21,20,NULL,23,14,11,32,NULL,NBA
+65,240209010,2004,"Mon, Feb 9",Houston Rockets,San Antonio Spurs,"29-22, 16-8 Home","35-18, 17-11 Away",82,85,NULL,NULL,Final,NULL,16,19,17,30,NULL,22,16,25,22,NULL,NBA
+66,240217010,2004,"Tue, Feb 17",Houston Rockets,Washington Wizards,"31-22, 18-8 Home","16-35, 5-21 Away",107,81,NULL,NULL,Final,NULL,30,27,27,23,NULL,18,19,16,28,NULL,NBA
+67,240222010,2004,"Sun, Feb 22",Houston Rockets,Atlanta Hawks,"32-23, 19-8 Home","18-38, 7-22 Away",123,121,NULL,NULL,Final/3OT,NULL,30,19,20,25,29,31,20,20,23,27,NBA
+68,240225010,2004,"Wed, Feb 25",Houston Rockets,Cleveland Cavaliers,"33-24, 20-8 Home","23-35, 7-22 Away",90,84,NULL,NULL,Final,NULL,18,21,21,30,NULL,16,17,28,23,NULL,NBA
+69,240229010,2004,"Sun, Feb 29",Houston Rockets,Seattle SuperSonics,"34-25, 21-9 Home","27-32, 11-16 Away",80,97,NULL,NULL,Final,NULL,17,18,22,23,NULL,18,23,27,29,NULL,NBA
+70,240305016,2004,"Fri, Mar 5",Minnesota Timberwolves,Houston Rockets,"44-18, 24-8 Home","35-26, 14-16 Away",109,112,NULL,NULL,Final,NULL,28,37,24,20,NULL,36,28,20,28,NULL,NBA
+71,240309010,2004,"Tue, Mar 9",Houston Rockets,LA Clippers,"37-26, 23-10 Home","26-37, 8-23 Away",90,85,NULL,NULL,Final,NULL,18,18,29,25,NULL,20,19,27,19,NULL,NBA
+72,240313010,2004,"Sat, Mar 13",Houston Rockets,Memphis Grizzlies,"39-26, 25-10 Home","41-25, 16-17 Away",88,80,NULL,NULL,Final,NULL,23,29,20,16,NULL,21,20,21,18,NULL,NBA
+73,240319009,2004,"Fri, Mar 19",Golden State Warriors,Houston Rockets,"28-40, 21-13 Home","39-28, 14-17 Away",90,84,NULL,NULL,Final,NULL,20,21,12,37,NULL,19,18,17,30,NULL,NBA
+74,240322022,2004,"Mon, Mar 22",Portland Trail Blazers,Houston Rockets,"35-35, 22-13 Home","40-29, 15-18 Away",85,93,NULL,NULL,Final/OT,NULL,11,27,19,26,2,22,26,16,19,10,NBA
+75,240326029,2004,"Fri, Mar 26",Memphis Grizzlies,Houston Rockets,"46-26, 29-9 Home","41-30, 15-19 Away",109,86,NULL,NULL,Final,NULL,39,20,27,23,NULL,19,23,23,21,NULL,NBA
+76,240329010,2004,"Mon, Mar 29",Houston Rockets,Minnesota Timberwolves,"42-31, 26-12 Home","51-24, 24-14 Away",88,94,NULL,NULL,Final,NULL,20,23,25,20,NULL,28,14,26,26,NULL,NBA
+77,240402007,2004,"Fri, Apr 2",Denver Nuggets,Houston Rockets,"40-37, 27-12 Home","42-33, 16-21 Away",110,100,NULL,NULL,Final,NULL,30,27,28,25,NULL,23,29,23,25,NULL,NBA
+78,240406009,2004,"Tue, Apr 6",Golden State Warriors,Houston Rockets,"35-42, 25-13 Home","42-35, 16-22 Away",97,90,NULL,NULL,Final,NULL,27,32,22,16,NULL,22,22,24,22,NULL,NBA
+79,240409010,2004,"Fri, Apr 9",Houston Rockets,Denver Nuggets,"44-35, 27-13 Home","41-38, 14-26 Away",106,103,NULL,NULL,Final,NULL,21,21,36,28,NULL,26,26,21,30,NULL,NBA
+80,240412025,2004,"Mon, Apr 12",Seattle SuperSonics,Houston Rockets,"36-45, 21-20 Home","45-36, 18-23 Away",107,111,NULL,NULL,Final,NULL,25,28,19,35,NULL,34,22,33,22,NULL,NBA
+81,240414010,2004,"Wed, Apr 14",Houston Rockets,Dallas Mavericks,"45-37, 27-14 Home","52-30, 16-25 Away",89,92,NULL,NULL,Final,NULL,25,14,20,30,NULL,26,21,21,24,NULL,NBA

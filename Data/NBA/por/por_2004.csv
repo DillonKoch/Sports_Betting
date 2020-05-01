@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,231101022,2004,"Sat, Nov 1",Portland Trail Blazers,Cleveland Cavaliers,"1-1, 1-0 Home","0-3, 0-3 Away",104,85,NULL,NULL,Final,NULL,23,31,22,28,NULL,23,16,28,18,NULL,NBA
+1,231105022,2004,"Wed, Nov 5",Portland Trail Blazers,Memphis Grizzlies,"2-2, 2-1 Home","2-2, 1-1 Away",93,87,NULL,NULL,Final,NULL,28,22,23,20,NULL,16,16,25,30,NULL,NBA
+2,231108022,2004,"Sat, Nov 8",Portland Trail Blazers,Atlanta Hawks,"3-3, 3-1 Home","1-5, 0-4 Away",90,83,NULL,NULL,Final,NULL,31,20,17,22,NULL,24,18,22,19,NULL,NBA
+3,231113022,2004,"Thu, Nov 13",Portland Trail Blazers,Sacramento Kings,"5-3, 5-1 Home","4-4, 1-4 Away",112,110,NULL,NULL,Final/OT,NULL,18,27,37,23,7,34,29,21,21,5,NBA
+4,231117006,2004,"Mon, Nov 17",Dallas Mavericks,Portland Trail Blazers,"7-4, 5-0 Home","5-5, 0-4 Away",105,98,NULL,NULL,Final,NULL,23,23,31,28,NULL,24,26,24,24,NULL,NBA
+5,231121022,2004,"Fri, Nov 21",Portland Trail Blazers,Houston Rockets,"7-5, 7-1 Home","8-4, 3-3 Away",85,78,NULL,NULL,Final,NULL,16,26,22,21,NULL,27,12,18,21,NULL,NBA
+6,231125022,2004,"Tue, Nov 25",Portland Trail Blazers,Washington Wizards,"7-7, 7-2 Home","6-8, 3-5 Away",80,81,NULL,NULL,Final,NULL,24,23,11,22,NULL,23,20,16,22,NULL,NBA
+7,231203022,2004,"Wed, Dec 3",Portland Trail Blazers,Indiana Pacers,"9-7, 9-2 Home","15-4, 8-2 Away",97,95,NULL,NULL,Final/OT,NULL,26,15,22,25,9,27,17,21,23,7,NBA
+8,231207029,2004,"Sun, Dec 7",Memphis Grizzlies,Portland Trail Blazers,"11-8, 5-3 Home","10-8, 0-6 Away",93,79,NULL,NULL,Final,NULL,18,25,26,24,NULL,26,24,18,11,NULL,NBA
+9,231210024,2004,"Wed, Dec 10",San Antonio Spurs,Portland Trail Blazers,"13-10, 8-3 Home","10-10, 0-8 Away",102,77,NULL,NULL,Final,NULL,29,18,24,31,NULL,18,18,23,18,NULL,NBA
+10,231216022,2004,"Tue, Dec 16",Portland Trail Blazers,Milwaukee Bucks,"11-11, 11-3 Home","12-13, 5-9 Away",99,106,NULL,NULL,Final,NULL,29,27,21,22,NULL,23,29,32,22,NULL,NBA
+11,231220022,2004,"Sat, Dec 20",Portland Trail Blazers,San Antonio Spurs,"12-12, 12-4 Home","19-10, 8-7 Away",91,101,NULL,NULL,Final,NULL,17,23,25,26,NULL,28,28,18,27,NULL,NBA
+12,231223022,2004,"Tue, Dec 23",Portland Trail Blazers,Dallas Mavericks,"13-13, 13-4 Home","15-12, 3-10 Away",97,88,NULL,NULL,Final,NULL,26,28,22,21,NULL,24,23,20,21,NULL,NBA
+13,231228005,2004,"Sun, Dec 28",Cleveland Cavaliers,Portland Trail Blazers,"10-21, 8-7 Home","14-14, 0-10 Away",86,74,NULL,NULL,Final,NULL,20,22,22,22,NULL,23,23,20,8,NULL,NBA
+14,231231008,2004,"Wed, Dec 31",Detroit Pistons,Portland Trail Blazers,"19-13, 11-5 Home","15-15, 1-11 Away",78,71,NULL,NULL,Final,NULL,23,14,20,21,NULL,24,12,19,16,NULL,NBA
+15,240105025,2004,"Mon, Jan 5",Seattle SuperSonics,Portland Trail Blazers,"17-15, 9-8 Home","15-17, 1-12 Away",119,108,NULL,NULL,Final/OT,NULL,21,24,24,35,15,32,32,23,17,4,NBA
+16,240109004,2004,"Fri, Jan 9",Chicago Bulls,Portland Trail Blazers,"11-25, 6-13 Home","16-18, 2-13 Away",78,87,NULL,NULL,Final,NULL,20,21,17,20,NULL,18,19,19,31,NULL,NBA
+17,240113012,2004,"Tue, Jan 13",LA Clippers,Portland Trail Blazers,"16-19, 12-9 Home","16-20, 2-15 Away",103,96,NULL,NULL,Final/OT,NULL,20,27,21,24,11,19,29,18,26,4,NBA
+18,240117022,2004,"Sat, Jan 17",Portland Trail Blazers,Dallas Mavericks,"16-22, 14-7 Home","24-16, 7-13 Away",104,108,NULL,NULL,Final,NULL,34,34,18,18,NULL,27,32,26,23,NULL,NBA
+19,240120023,2004,"Tue, Jan 20",Sacramento Kings,Portland Trail Blazers,"29-10, 21-3 Home","17-23, 3-16 Away",104,109,NULL,NULL,Final/OT,NULL,24,19,25,29,7,25,27,23,22,12,NBA
+20,240126027,2004,"Mon, Jan 26",Washington Wizards,Portland Trail Blazers,"13-30, 9-11 Home","18-24, 4-16 Away",83,94,NULL,NULL,Final,NULL,26,15,21,21,NULL,31,26,17,20,NULL,NBA
+21,240129001,2004,"Thu, Jan 29",Atlanta Hawks,Portland Trail Blazers,"14-33, 8-14 Home","20-24, 6-16 Away",85,93,NULL,NULL,Final,NULL,22,20,15,28,NULL,17,20,29,27,NULL,NBA
+22,240202007,2004,"Mon, Feb 2",Denver Nuggets,Portland Trail Blazers,"29-21, 19-8 Home","21-25, 6-17 Away",116,97,NULL,NULL,Final,NULL,36,23,28,29,NULL,21,36,21,19,NULL,NBA
+23,240206026,2004,"Fri, Feb 6",Utah Jazz,Portland Trail Blazers,"24-26, 19-9 Home","23-25, 8-17 Away",73,87,NULL,NULL,Final,NULL,22,19,13,19,NULL,14,25,25,23,NULL,NBA
+24,240210022,2004,"Tue, Feb 10",Portland Trail Blazers,Utah Jazz,"24-26, 16-9 Home","26-26, 7-17 Away",81,86,NULL,NULL,Final,NULL,21,17,19,24,NULL,16,19,23,28,NULL,NBA
+25,240217013,2004,"Tue, Feb 17",Los Angeles Lakers,Portland Trail Blazers,"32-19, 21-4 Home","24-28, 8-18 Away",89,86,NULL,NULL,Final,NULL,25,18,27,19,NULL,24,16,22,24,NULL,NBA
+26,240220009,2004,"Fri, Feb 20",Golden State Warriors,Portland Trail Blazers,"23-30, 17-10 Home","26-28, 9-18 Away",93,94,NULL,NULL,Final,NULL,21,24,30,18,NULL,25,25,26,18,NULL,NBA
+27,240223014,2004,"Mon, Feb 23",Miami Heat,Portland Trail Blazers,"25-33, 17-11 Home","28-28, 10-18 Away",81,89,NULL,NULL,Final,NULL,18,26,20,17,NULL,22,16,21,30,NULL,NBA
+28,240227010,2004,"Fri, Feb 27",Houston Rockets,Portland Trail Blazers,"34-24, 21-8 Home","29-29, 11-19 Away",89,85,NULL,NULL,Final,NULL,27,22,18,22,NULL,24,26,14,21,NULL,NBA
+29,240303022,2004,"Wed, Mar 3",Portland Trail Blazers,Memphis Grizzlies,"29-31, 18-11 Home","37-24, 14-16 Away",88,97,NULL,NULL,Final,NULL,19,26,21,22,NULL,21,24,30,22,NULL,NBA
+30,240306022,2004,"Sat, Mar 6",Portland Trail Blazers,Utah Jazz,"30-32, 19-12 Home","31-32, 10-21 Away",91,70,NULL,NULL,Final,NULL,30,15,26,20,NULL,18,19,19,14,NULL,NBA
+31,240310022,2004,"Wed, Mar 10",Portland Trail Blazers,Minnesota Timberwolves,"31-33, 20-12 Home","45-20, 21-11 Away",92,79,NULL,NULL,Final,NULL,16,27,23,26,NULL,19,14,21,25,NULL,NBA
+32,240314016,2004,"Sun, Mar 14",Minnesota Timberwolves,Portland Trail Blazers,"46-21, 25-10 Home","33-33, 12-21 Away",83,92,NULL,NULL,Final,NULL,21,23,21,18,NULL,33,20,25,14,NULL,NBA
+33,240317011,2004,"Wed, Mar 17",Indiana Pacers,Portland Trail Blazers,"50-17, 26-6 Home","34-34, 13-22 Away",80,71,NULL,NULL,Final,NULL,31,12,17,20,NULL,18,24,21,8,NULL,NBA
+34,240322022,2004,"Mon, Mar 22",Portland Trail Blazers,Houston Rockets,"35-35, 22-13 Home","40-29, 15-18 Away",85,93,NULL,NULL,Final/OT,NULL,11,27,19,26,2,22,26,16,19,10,NBA
+35,240327022,2004,"Sat, Mar 27",Portland Trail Blazers,Seattle SuperSonics,"37-35, 24-13 Home","34-39, 15-21 Away",115,108,NULL,NULL,Final/OT,NULL,24,24,29,23,15,22,23,27,28,8,NBA
+36,240331002,2004,"Wed, Mar 31",Boston Celtics,Portland Trail Blazers,"34-41, 17-21 Home","38-36, 14-23 Away",98,105,NULL,NULL,Final,NULL,28,23,19,28,NULL,24,24,30,27,NULL,NBA
+37,240403022,2004,"Sat, Apr 3",Portland Trail Blazers,New Orleans Hornets,"39-37, 24-14 Home","38-38, 14-23 Away",81,94,NULL,NULL,Final,NULL,25,22,16,18,NULL,22,28,28,16,NULL,NBA
+38,240407022,2004,"Wed, Apr 7",Portland Trail Blazers,Golden State Warriors,"41-37, 25-14 Home","35-43, 10-30 Away",87,81,NULL,NULL,Final,NULL,18,26,20,23,NULL,18,14,27,22,NULL,NBA
+39,240410007,2004,"Sat, Apr 10",Denver Nuggets,Portland Trail Blazers,"42-38, 28-12 Home","41-39, 16-25 Away",110,100,NULL,NULL,Final/OT,NULL,28,18,23,25,16,25,23,19,27,6,NBA
+40,231029026,2004,"Wed, Oct 29",Utah Jazz,Portland Trail Blazers,"1-0, 1-0 Home","0-1, 0-1 Away",99,92,NULL,NULL,Final,NULL,18,25,23,33,NULL,23,28,19,22,NULL,NBA
+41,231103022,2004,"Mon, Nov 3",Portland Trail Blazers,Philadelphia 76ers,"1-2, 1-1 Home","2-2, 1-2 Away",83,94,NULL,NULL,Final,CSN,26,15,19,23,NULL,25,25,19,25,NULL,NBA
+42,231107025,2004,"Fri, Nov 7",Seattle SuperSonics,Portland Trail Blazers,"3-0, 2-0 Home","2-3, 0-2 Away",100,82,NULL,NULL,Final,NULL,23,27,32,18,NULL,24,24,18,16,NULL,NBA
+43,231111022,2004,"Tue, Nov 11",Portland Trail Blazers,Toronto Raptors,"4-3, 4-1 Home","4-3, 0-3 Away",83,80,NULL,NULL,Final,NULL,16,30,24,13,NULL,17,23,20,20,NULL,NBA
+44,231115003,2004,"Sat, Nov 15",New Orleans Hornets,Portland Trail Blazers,"7-3, 5-1 Home","5-4, 0-3 Away",101,79,NULL,NULL,Final,NULL,25,25,23,28,NULL,23,26,16,14,NULL,NBA
+45,231119022,2004,"Wed, Nov 19",Portland Trail Blazers,Miami Heat,"6-5, 6-1 Home","3-9, 1-7 Away",94,93,NULL,NULL,Final,NULL,25,23,13,33,NULL,18,31,26,18,NULL,NBA
+46,231123009,2004,"Sun, Nov 23",Golden State Warriors,Portland Trail Blazers,"6-7, 6-3 Home","7-6, 0-5 Away",78,72,NULL,NULL,Final,NULL,24,15,20,19,NULL,21,20,16,15,NULL,NBA
+47,231128022,2004,"Fri, Nov 28",Portland Trail Blazers,New Jersey Nets,"8-7, 8-2 Home","7-8, 5-3 Away",97,93,NULL,NULL,Final,NULL,26,16,25,30,NULL,25,24,24,20,NULL,NBA
+48,231205022,2004,"Fri, Dec 5",Portland Trail Blazers,New York Knicks,"10-7, 10-2 Home","7-13, 3-8 Away",88,81,NULL,NULL,Final,NULL,16,26,20,26,NULL,28,17,18,18,NULL,NBA
+49,231209010,2004,"Tue, Dec 9",Houston Rockets,Portland Trail Blazers,"13-7, 8-1 Home","10-9, 0-7 Away",93,91,NULL,NULL,Final,NULL,24,23,25,21,NULL,26,15,19,31,NULL,NBA
+50,231213022,2004,"Sat, Dec 13",Portland Trail Blazers,Los Angeles Lakers,"11-10, 11-2 Home","18-5, 6-4 Away",112,108,NULL,NULL,Final,NULL,26,28,30,28,NULL,20,34,28,26,NULL,NBA
+51,231218022,2004,"Thu, Dec 18",Portland Trail Blazers,Phoenix Suns,"12-11, 12-3 Home","9-17, 2-10 Away",101,94,NULL,NULL,Final,NULL,27,24,19,31,NULL,21,28,23,22,NULL,NBA
+52,231221023,2004,"Sun, Dec 21",Sacramento Kings,Portland Trail Blazers,"19-6, 14-1 Home","12-13, 0-9 Away",117,98,NULL,NULL,Final,NULL,33,22,32,30,NULL,29,25,26,18,NULL,NBA
+53,231226022,2004,"Fri, Dec 26",Portland Trail Blazers,Minnesota Timberwolves,"14-13, 14-4 Home","18-10, 11-5 Away",101,92,NULL,NULL,Final,NULL,24,37,19,21,NULL,26,17,31,18,NULL,NBA
+54,231229017,2004,"Mon, Dec 29",New Jersey Nets,Portland Trail Blazers,"16-14, 8-7 Home","15-14, 1-10 Away",87,91,NULL,NULL,Final,NULL,24,26,22,15,NULL,22,20,28,21,NULL,NBA
+55,240102022,2004,"Fri, Jan 2",Portland Trail Blazers,Denver Nuggets,"15-16, 14-5 Home","20-13, 7-9 Away",96,106,NULL,NULL,Final,NULL,25,25,29,17,NULL,30,29,18,29,NULL,NBA
+56,240108016,2004,"Thu, Jan 8",Minnesota Timberwolves,Portland Trail Blazers,"23-11, 11-5 Home","15-18, 1-13 Away",96,75,NULL,NULL,Final,NULL,27,28,20,21,NULL,15,18,25,17,NULL,NBA
+57,240111028,2004,"Sun, Jan 11",Toronto Raptors,Portland Trail Blazers,"19-16, 12-6 Home","16-19, 2-14 Away",83,72,NULL,NULL,Final,NULL,22,21,20,20,NULL,21,12,17,22,NULL,NBA
+58,240115022,2004,"Thu, Jan 15",Portland Trail Blazers,Phoenix Suns,"16-21, 14-6 Home","13-26, 4-16 Away",96,105,NULL,NULL,Final,NULL,24,23,23,26,NULL,35,21,26,23,NULL,NBA
+59,240118021,2004,"Sun, Jan 18",Phoenix Suns,Portland Trail Blazers,"15-26, 11-10 Home","16-23, 2-16 Away",96,92,NULL,NULL,Final,NULL,26,22,23,25,NULL,21,30,23,18,NULL,NBA
+60,240124022,2004,"Sat, Jan 24",Portland Trail Blazers,Golden State Warriors,"17-24, 14-8 Home","18-25, 5-18 Away",87,105,NULL,NULL,Final,NULL,21,31,20,15,NULL,30,28,18,29,NULL,NBA
+61,240128029,2004,"Wed, Jan 28",Memphis Grizzlies,Portland Trail Blazers,"25-19, 16-6 Home","19-24, 5-16 Away",76,88,NULL,NULL,Final,NULL,14,20,26,16,NULL,18,22,24,24,NULL,NBA
+62,240131022,2004,"Sat, Jan 31",Portland Trail Blazers,Chicago Bulls,"21-24, 15-8 Home","13-35, 5-19 Away",102,95,NULL,NULL,Final/OT,NULL,24,21,30,16,11,25,30,22,14,4,NBA
+63,240204021,2004,"Wed, Feb 4",Phoenix Suns,Portland Trail Blazers,"18-33, 12-12 Home","22-25, 7-17 Away",97,101,NULL,NULL,Final,NULL,17,33,22,25,NULL,31,37,19,14,NULL,NBA
+64,240208022,2004,"Sun, Feb 8",Portland Trail Blazers,Seattle SuperSonics,"24-25, 16-8 Home","24-26, 10-14 Away",95,85,NULL,NULL,Final,NULL,23,21,29,22,NULL,23,19,17,26,NULL,NBA
+65,240212022,2004,"Thu, Feb 12",Portland Trail Blazers,Denver Nuggets,"24-27, 16-10 Home","31-23, 11-15 Away",98,107,NULL,NULL,Final,NULL,22,27,17,32,NULL,27,27,25,28,NULL,NBA
+66,240218022,2004,"Wed, Feb 18",Portland Trail Blazers,LA Clippers,"25-28, 17-10 Home","22-30, 7-19 Away",101,86,NULL,NULL,Final,NULL,14,34,25,28,NULL,24,17,21,24,NULL,NBA
+67,240221022,2004,"Sat, Feb 21",Portland Trail Blazers,Boston Celtics,"27-28, 18-10 Home","23-34, 12-17 Away",105,84,NULL,NULL,Final,NULL,32,22,33,18,NULL,16,20,18,30,NULL,NBA
+68,240224019,2004,"Tue, Feb 24",Orlando Magic,Portland Trail Blazers,"16-43, 8-20 Home","29-28, 11-18 Away",91,94,NULL,NULL,Final/OT,NULL,20,20,19,24,8,19,24,17,23,11,NBA
+69,240228006,2004,"Sat, Feb 28",Dallas Mavericks,Portland Trail Blazers,"38-20, 27-4 Home","29-30, 11-20 Away",111,91,NULL,NULL,Final,NULL,27,39,14,31,NULL,21,27,22,21,NULL,NBA
+70,240304022,2004,"Thu, Mar 4",Portland Trail Blazers,Detroit Pistons,"29-32, 18-12 Home","39-25, 18-15 Away",68,83,NULL,NULL,Final,NULL,16,13,14,25,NULL,27,19,18,19,NULL,NBA
+71,240307012,2004,"Sun, Mar 7",LA Clippers,Portland Trail Blazers,"26-36, 18-14 Home","30-33, 11-21 Away",91,71,NULL,NULL,Final,NULL,24,26,23,18,NULL,20,21,12,18,NULL,NBA
+72,240312022,2004,"Fri, Mar 12",Portland Trail Blazers,Sacramento Kings,"32-33, 21-12 Home","48-17, 19-12 Away",83,81,NULL,NULL,Final,NULL,22,23,24,14,NULL,26,15,17,23,NULL,NBA
+73,240316015,2004,"Tue, Mar 16",Milwaukee Bucks,Portland Trail Blazers,"34-33, 24-11 Home","34-33, 13-21 Away",99,100,NULL,NULL,Final,NULL,22,25,28,24,NULL,31,27,24,18,NULL,NBA
+74,240320022,2004,"Sat, Mar 20",Portland Trail Blazers,Orlando Magic,"35-34, 22-12 Home","19-52, 9-28 Away",92,73,NULL,NULL,Final,NULL,32,15,24,21,NULL,25,17,14,17,NULL,NBA
+75,240324022,2004,"Wed, Mar 24",Portland Trail Blazers,LA Clippers,"36-35, 23-13 Home","27-45, 9-28 Away",91,85,NULL,NULL,Final,NULL,22,22,19,28,NULL,25,24,16,20,NULL,NBA
+76,240329018,2004,"Mon, Mar 29",New York Knicks,Portland Trail Blazers,"35-40, 22-17 Home","37-36, 13-23 Away",92,91,NULL,NULL,Final,NULL,20,24,20,28,NULL,20,27,19,25,NULL,NBA
+77,240401020,2004,"Thu, Apr 1",Philadelphia 76ers,Portland Trail Blazers,"32-44, 21-17 Home","39-36, 15-23 Away",82,88,NULL,NULL,Final,CSN,15,25,20,22,NULL,24,24,18,22,NULL,NBA
+78,240406013,2004,"Tue, Apr 6",Los Angeles Lakers,Portland Trail Blazers,"53-25, 32-7 Home","40-37, 16-23 Away",80,91,NULL,NULL,Final,NULL,21,19,22,18,NULL,37,14,20,20,NULL,NBA
+79,240409024,2004,"Fri, Apr 9",San Antonio Spurs,Portland Trail Blazers,"54-25, 32-8 Home","41-38, 16-24 Away",84,74,NULL,NULL,Final,NULL,31,21,14,18,NULL,17,16,18,23,NULL,NBA
+80,240412022,2004,"Mon, Apr 12",Portland Trail Blazers,San Antonio Spurs,"41-40, 25-15 Home","56-25, 24-17 Away",66,78,NULL,NULL,Final,NULL,15,10,16,25,NULL,22,15,22,19,NULL,NBA
+81,240414022,2004,"Wed, Apr 14",Portland Trail Blazers,Los Angeles Lakers,"41-41, 25-16 Home","56-26, 22-19 Away",104,105,NULL,NULL,Final/2OT,NULL,28,22,16,21,17,22,23,14,28,18,NBA

@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,271104018,2008,"Sun, Nov 4",New York Knicks,Minnesota Timberwolves,"1-1, 1-0 Home","0-2, 0-1 Away",97,93,NULL,NULL,Final,NULL,21,33,21,22,NULL,28,22,23,20,NULL,NBA
+1,271109013,2008,"Fri, Nov 9",Los Angeles Lakers,Minnesota Timberwolves,"3-2, 2-2 Home","0-4, 0-2 Away",107,93,NULL,NULL,Final,NULL,30,26,27,24,NULL,28,22,19,24,NULL,NBA
+2,271114016,2008,"Wed, Nov 14",Minnesota Timberwolves,Sacramento Kings,"1-5, 1-2 Home","2-6, 0-5 Away",108,103,NULL,NULL,Final,NULL,21,24,26,37,NULL,21,27,21,34,NULL,NBA
+3,271117016,2008,"Sat, Nov 17",Minnesota Timberwolves,New Orleans Hornets,"1-7, 1-4 Home","9-2, 6-1 Away",82,100,NULL,NULL,Final,NULL,21,19,21,21,NULL,25,17,32,26,NULL,NBA
+4,271123007,2008,"Fri, Nov 23",Denver Nuggets,Minnesota Timberwolves,"9-4, 6-1 Home","1-9, 0-4 Away",99,93,NULL,NULL,Final,NULL,22,29,24,24,NULL,22,34,18,19,NULL,NBA
+5,271126003,2008,"Mon, Nov 26",New Orleans Hornets,Minnesota Timberwolves,"10-6, 3-4 Home","2-10, 1-4 Away",94,103,NULL,NULL,Final,NULL,19,18,24,33,NULL,29,29,18,27,NULL,NBA
+6,271130016,2008,"Fri, Nov 30",Minnesota Timberwolves,San Antonio Spurs,"2-12, 1-7 Home","14-3, 5-3 Away",91,106,NULL,NULL,Final,NULL,24,24,32,11,NULL,22,26,26,32,NULL,NBA
+7,271204016,2008,"Tue, Dec 4",Minnesota Timberwolves,Los Angeles Lakers,"2-14, 1-8 Home","10-8, 4-4 Away",95,116,NULL,NULL,Final,NULL,24,22,22,27,NULL,30,32,24,30,NULL,NBA
+8,271208016,2008,"Sat, Dec 8",Minnesota Timberwolves,Phoenix Suns,"3-15, 2-8 Home","16-5, 10-3 Away",100,93,NULL,NULL,Final,NULL,28,27,32,13,NULL,32,24,24,13,NULL,NBA
+9,271212020,2008,"Wed, Dec 12",Philadelphia 76ers,Minnesota Timberwolves,"9-13, 6-7 Home","3-17, 1-9 Away",98,94,NULL,NULL,Final,NULL,28,23,28,19,NULL,21,24,29,20,NULL,NBA
+10,271215015,2008,"Sat, Dec 15",Milwaukee Bucks,Minnesota Timberwolves,"10-13, 8-2 Home","3-19, 1-10 Away",95,92,NULL,NULL,Final,NULL,22,18,26,29,NULL,19,23,16,34,NULL,NBA
+11,271219016,2008,"Wed, Dec 19",Minnesota Timberwolves,Golden State Warriors,"3-21, 2-10 Home","15-11, 8-6 Away",98,111,NULL,NULL,Final,NULL,29,33,17,19,NULL,26,28,37,20,NULL,NBA
+12,271222003,2008,"Sat, Dec 22",New Orleans Hornets,Minnesota Timberwolves,"17-10, 8-5 Home","4-22, 1-12 Away",110,76,NULL,NULL,Final,NULL,30,23,26,31,NULL,20,18,15,23,NULL,NBA
+13,271228022,2008,"Fri, Dec 28",Portland Trail Blazers,Minnesota Timberwolves,"17-12, 14-3 Home","4-24, 1-14 Away",109,98,NULL,NULL,Final,NULL,25,30,23,31,NULL,19,27,23,29,NULL,NBA
+14,271231012,2008,"Mon, Dec 31",LA Clippers,Minnesota Timberwolves,"10-19, 5-9 Home","4-26, 1-16 Away",91,82,NULL,NULL,Final,NULL,21,20,18,32,NULL,23,23,24,12,NULL,NBA
+15,280104016,2008,"Fri, Jan 4",Minnesota Timberwolves,Denver Nuggets,"4-28, 3-12 Home","20-12, 7-7 Away",107,118,NULL,NULL,Final,NULL,25,27,28,27,NULL,30,31,26,31,NULL,NBA
+16,280108016,2008,"Tue, Jan 8",Minnesota Timberwolves,Miami Heat,"5-29, 4-13 Home","8-27, 4-16 Away",101,91,NULL,NULL,Final,NULL,29,30,23,19,NULL,18,29,24,20,NULL,NBA
+17,280112024,2008,"Sat, Jan 12",San Antonio Spurs,Minnesota Timberwolves,"24-11, 18-3 Home","5-31, 1-18 Away",105,88,NULL,NULL,Final,NULL,24,20,31,30,NULL,24,21,21,22,NULL,NBA
+18,280118021,2008,"Fri, Jan 18",Phoenix Suns,Minnesota Timberwolves,"28-12, 14-4 Home","5-33, 1-19 Away",115,95,NULL,NULL,Final,NULL,28,35,28,24,NULL,32,17,23,23,NULL,NBA
+19,280121009,2008,"Mon, Jan 21",Golden State Warriors,Minnesota Timberwolves,"25-18, 11-8 Home","6-34, 2-20 Away",108,109,NULL,NULL,Final,NULL,23,29,28,28,NULL,33,16,36,24,NULL,NBA
+20,280125002,2008,"Fri, Jan 25",Boston Celtics,Minnesota Timberwolves,"34-7, 19-4 Home","7-35, 2-21 Away",87,86,NULL,NULL,Final,NULL,29,21,17,20,NULL,30,17,21,18,NULL,NBA
+21,280129004,2008,"Tue, Jan 29",Chicago Bulls,Minnesota Timberwolves,"18-26, 10-13 Home","8-36, 2-22 Away",96,85,NULL,NULL,Final,NULL,21,22,28,25,NULL,15,22,25,23,NULL,NBA
+22,280201016,2008,"Fri, Feb 1",Minnesota Timberwolves,LA Clippers,"10-36, 8-14 Home","14-29, 5-14 Away",104,83,NULL,NULL,Final,NULL,20,32,31,21,NULL,27,29,15,12,NULL,NBA
+23,280208016,2008,"Fri, Feb 8",Minnesota Timberwolves,Boston Celtics,"10-38, 8-16 Home","38-9, 17-5 Away",86,88,NULL,NULL,Final,ESPN,18,27,21,20,NULL,16,24,22,26,NULL,NBA
+24,280212017,2008,"Tue, Feb 12",New Jersey Nets,Minnesota Timberwolves,"23-29, 12-15 Home","10-40, 2-23 Away",92,88,NULL,NULL,Final,YES,16,22,28,26,NULL,16,19,21,32,NULL,NBA
+25,280219016,2008,"Tue, Feb 19",Minnesota Timberwolves,Philadelphia 76ers,"11-41, 9-18 Home","23-31, 9-17 Away",104,88,NULL,NULL,Final,NULL,23,30,21,30,NULL,17,27,18,26,NULL,NBA
+26,280224016,2008,"Sun, Feb 24",Minnesota Timberwolves,Dallas Mavericks,"11-43, 9-20 Home","37-19, 14-16 Away",83,99,NULL,NULL,Final,NULL,24,24,23,12,NULL,24,24,23,28,NULL,NBA
+27,280227028,2008,"Wed, Feb 27",Toronto Raptors,Minnesota Timberwolves,"32-24, 18-11 Home","12-44, 2-24 Away",107,85,NULL,NULL,Final,NULL,26,25,33,23,NULL,28,15,22,20,NULL,NBA
+28,280302016,2008,"Sun, Mar 2",Minnesota Timberwolves,Seattle SuperSonics,"12-46, 10-21 Home","16-43, 6-22 Away",108,111,NULL,NULL,Final/OT,NULL,26,25,25,26,6,34,24,17,27,9,NBA
+29,280305026,2008,"Wed, Mar 5",Utah Jazz,Minnesota Timberwolves,"40-22, 27-3 Home","12-48, 2-26 Away",105,76,NULL,NULL,Final,NULL,26,25,29,25,NULL,20,19,16,21,NULL,NBA
+30,280308012,2008,"Sat, Mar 8",LA Clippers,Minnesota Timberwolves,"20-41, 12-22 Home","14-48, 4-26 Away",96,99,NULL,NULL,Final,NULL,23,24,31,18,NULL,25,14,34,26,NULL,NBA
+31,280314025,2008,"Fri, Mar 14",Seattle SuperSonics,Minnesota Timberwolves,"16-50, 10-22 Home","15-49, 5-26 Away",116,121,NULL,NULL,Final,NULL,30,30,28,28,NULL,32,25,40,24,NULL,NBA
+32,280317016,2008,"Mon, Mar 17",Minnesota Timberwolves,LA Clippers,"16-50, 11-23 Home","21-45, 9-23 Away",99,90,NULL,NULL,Final,NULL,23,24,21,31,NULL,23,21,22,24,NULL,NBA
+33,280321011,2008,"Fri, Mar 21",Indiana Pacers,Minnesota Timberwolves,"28-41, 16-18 Home","17-51, 5-28 Away",124,113,NULL,NULL,Final,NULL,35,31,27,31,NULL,27,22,33,31,NULL,NBA
+34,280326010,2008,"Wed, Mar 26",Houston Rockets,Minnesota Timberwolves,"49-23, 28-10 Home","18-52, 5-29 Away",97,86,NULL,NULL,Final,NULL,24,22,23,28,NULL,23,19,18,26,NULL,NBA
+35,280330016,2008,"Sun, Mar 30",Minnesota Timberwolves,Utah Jazz,"19-53, 14-23 Home","48-26, 16-22 Away",110,103,NULL,NULL,Final,NULL,20,23,33,34,NULL,23,21,30,29,NULL,NBA
+36,280402026,2008,"Wed, Apr 2",Utah Jazz,Minnesota Timberwolves,"50-26, 34-4 Home","19-55, 5-31 Away",117,100,NULL,NULL,Final,NULL,29,24,38,26,NULL,27,23,22,28,NULL,NBA
+37,280406016,2008,"Sun, Apr 6",Minnesota Timberwolves,Memphis Grizzlies,"19-57, 14-25 Home","21-56, 7-31 Away",101,113,NULL,NULL,Final,NULL,19,36,26,20,NULL,27,27,27,32,NULL,NBA
+38,280409016,2008,"Wed, Apr 9",Minnesota Timberwolves,New Orleans Hornets,"19-59, 14-26 Home","55-23, 26-12 Away",90,122,NULL,NULL,Final,NULL,30,16,27,17,NULL,28,20,41,33,NULL,NBA
+39,280412029,2008,"Sat, Apr 12",Memphis Grizzlies,Minnesota Timberwolves,"22-58, 14-27 Home","21-59, 7-33 Away",105,114,NULL,NULL,Final,NULL,25,30,22,28,NULL,43,19,27,25,NULL,NBA
+40,271102016,2008,"Fri, Nov 2",Minnesota Timberwolves,Denver Nuggets,"0-1, 0-1 Home","2-0, 1-0 Away",91,99,NULL,NULL,Final,NULL,27,25,25,14,NULL,21,28,25,25,NULL,NBA
+41,271106016,2008,"Tue, Nov 6",Minnesota Timberwolves,Orlando Magic,"0-3, 0-2 Home","3-1, 2-0 Away",103,111,NULL,NULL,Final,NULL,22,28,24,29,NULL,26,30,32,23,NULL,NBA
+42,271110023,2008,"Sat, Nov 10",Sacramento Kings,Minnesota Timberwolves,"2-4, 2-1 Home","0-5, 0-3 Away",100,93,NULL,NULL,Final,NULL,16,26,31,27,NULL,19,20,34,20,NULL,NBA
+43,271116016,2008,"Fri, Nov 16",Minnesota Timberwolves,Washington Wizards,"1-6, 1-3 Home","3-5, 2-3 Away",89,105,NULL,NULL,Final,NULL,24,27,23,15,NULL,32,15,24,34,NULL,NBA
+44,271121016,2008,"Wed, Nov 21",Minnesota Timberwolves,Cleveland Cavaliers,"1-8, 1-5 Home","6-6, 4-3 Away",86,97,NULL,NULL,Final,NULL,25,17,22,22,NULL,24,22,26,25,NULL,NBA
+45,271124016,2008,"Sat, Nov 24",Minnesota Timberwolves,Atlanta Hawks,"1-10, 1-6 Home","5-7, 2-4 Away",87,94,NULL,NULL,Final,NULL,28,35,12,12,NULL,17,28,19,30,NULL,NBA
+46,271128006,2008,"Wed, Nov 28",Dallas Mavericks,Minnesota Timberwolves,"10-5, 7-1 Home","2-11, 1-5 Away",109,103,NULL,NULL,Final,NULL,30,28,25,26,NULL,22,23,32,26,NULL,NBA
+47,271201029,2008,"Sat, Dec 1",Memphis Grizzlies,Minnesota Timberwolves,"6-10, 4-4 Home","2-13, 1-6 Away",109,80,NULL,NULL,Final,NULL,26,23,30,30,NULL,21,19,15,25,NULL,NBA
+48,271206001,2008,"Thu, Dec 6",Atlanta Hawks,Minnesota Timberwolves,"8-10, 5-5 Home","2-15, 1-7 Away",90,89,NULL,NULL,Final,NULL,29,24,8,29,NULL,15,25,27,22,NULL,NBA
+49,271211027,2008,"Tue, Dec 11",Washington Wizards,Minnesota Timberwolves,"11-10, 7-4 Home","3-16, 1-8 Away",102,88,NULL,NULL,Final,NULL,26,30,27,19,NULL,26,20,23,19,NULL,NBA
+50,271214016,2008,"Fri, Dec 14",Minnesota Timberwolves,Seattle SuperSonics,"3-18, 2-9 Home","7-17, 4-9 Away",88,99,NULL,NULL,Final,NULL,26,20,19,23,NULL,11,32,32,24,NULL,NBA
+51,271217014,2008,"Mon, Dec 17",Miami Heat,Minnesota Timberwolves,"7-17, 3-8 Home","3-20, 1-11 Away",91,87,NULL,NULL,Final,NULL,27,14,19,31,NULL,24,23,17,23,NULL,NBA
+52,271221016,2008,"Fri, Dec 21",Minnesota Timberwolves,Indiana Pacers,"4-21, 3-10 Home","14-13, 8-6 Away",131,118,NULL,NULL,Final,NULL,20,40,36,35,NULL,40,15,30,33,NULL,NBA
+53,271226009,2008,"Wed, Dec 26",Golden State Warriors,Minnesota Timberwolves,"17-12, 8-5 Home","4-23, 1-13 Away",105,101,NULL,NULL,Final,NBATV/TBS,33,23,30,19,NULL,24,19,31,27,NULL,NBA
+54,271229025,2008,"Sat, Dec 29",Seattle SuperSonics,Minnesota Timberwolves,"9-21, 5-10 Home","4-25, 1-15 Away",109,90,NULL,NULL,Final,NULL,21,36,27,25,NULL,30,16,13,31,NULL,NBA
+55,280102016,2008,"Wed, Jan 2",Minnesota Timberwolves,Portland Trail Blazers,"4-27, 3-11 Home","19-13, 4-10 Away",79,90,NULL,NULL,Final,NULL,18,24,20,17,NULL,23,29,23,15,NULL,NBA
+56,280106016,2008,"Sun, Jan 6",Minnesota Timberwolves,Dallas Mavericks,"4-29, 3-13 Home","23-11, 7-8 Away",78,101,NULL,NULL,Final,NBATV,16,19,23,20,NULL,31,27,25,18,NULL,NBA
+57,280111010,2008,"Fri, Jan 11",Houston Rockets,Minnesota Timberwolves,"20-17, 9-6 Home","5-30, 1-17 Away",113,82,NULL,NULL,Final,NULL,31,34,22,26,NULL,18,15,23,26,NULL,NBA
+58,280115016,2008,"Tue, Jan 15",Minnesota Timberwolves,Golden State Warriors,"5-32, 4-14 Home","23-16, 12-9 Away",98,105,NULL,NULL,Final,NULL,24,20,22,32,NULL,28,28,27,22,NULL,NBA
+59,280119007,2008,"Sat, Jan 19",Denver Nuggets,Minnesota Timberwolves,"24-15, 17-5 Home","5-34, 1-20 Away",111,108,NULL,NULL,Final,NULL,34,26,27,24,NULL,31,29,30,18,NULL,NBA
+60,280123016,2008,"Wed, Jan 23",Minnesota Timberwolves,Phoenix Suns,"7-34, 5-14 Home","30-13, 15-9 Away",117,107,NULL,NULL,Final,NULL,32,33,23,29,NULL,27,23,25,32,NULL,NBA
+61,280127016,2008,"Sun, Jan 27",Minnesota Timberwolves,New Jersey Nets,"8-35, 6-14 Home","18-26, 9-12 Away",98,95,NULL,NULL,Final,NULL,22,16,26,34,NULL,26,22,26,21,NULL,NBA
+62,280130016,2008,"Wed, Jan 30",Minnesota Timberwolves,Chicago Bulls,"9-36, 7-14 Home","18-27, 8-14 Away",83,67,NULL,NULL,Final,NULL,8,25,30,20,NULL,14,20,18,15,NULL,NBA
+63,280204016,2008,"Mon, Feb 4",Minnesota Timberwolves,Houston Rockets,"10-37, 8-15 Home","28-20, 16-11 Away",86,92,NULL,NULL,Final,NULL,18,24,21,23,NULL,24,23,19,26,NULL,NBA
+64,280210016,2008,"Sun, Feb 10",Minnesota Timberwolves,Toronto Raptors,"10-39, 8-17 Home","27-22, 13-12 Away",82,105,NULL,NULL,Final,NULL,25,22,14,21,NULL,29,22,26,28,NULL,NBA
+65,280213016,2008,"Wed, Feb 13",Minnesota Timberwolves,Los Angeles Lakers,"10-41, 8-18 Home","35-17, 18-10 Away",92,117,NULL,NULL,Final,NULL,21,23,24,24,NULL,30,30,39,18,NULL,NBA
+66,280221016,2008,"Thu, Feb 21",Minnesota Timberwolves,San Antonio Spurs,"11-42, 9-19 Home","36-17, 15-12 Away",99,100,NULL,NULL,Final,NULL,21,32,19,27,NULL,22,31,21,26,NULL,NBA
+67,280226016,2008,"Tue, Feb 26",Minnesota Timberwolves,Utah Jazz,"12-43, 10-20 Home","36-21, 12-18 Away",111,100,NULL,NULL,Final,NULL,27,25,20,39,NULL,25,22,25,28,NULL,NBA
+68,280229005,2008,"Fri, Feb 29",Cleveland Cavaliers,Minnesota Timberwolves,"33-26, 18-10 Home","12-45, 2-25 Away",92,84,NULL,NULL,Final,NULL,20,20,26,26,NULL,20,16,23,25,NULL,NBA
+69,280304016,2008,"Tue, Mar 4",Minnesota Timberwolves,Charlotte Bobcats,"12-47, 10-22 Home","21-39, 5-22 Away",89,109,NULL,NULL,Final,NULL,27,23,25,14,NULL,29,27,26,27,NULL,NBA
+70,280307023,2008,"Fri, Mar 7",Sacramento Kings,Minnesota Timberwolves,"27-35, 18-12 Home","13-48, 3-26 Away",103,111,NULL,NULL,Final,NULL,24,20,27,32,NULL,25,32,23,31,NULL,NBA
+71,280311016,2008,"Tue, Mar 11",Minnesota Timberwolves,Portland Trail Blazers,"14-49, 10-23 Home","34-31, 12-22 Away",96,103,NULL,NULL,Final,NULL,26,28,25,17,NULL,26,24,27,26,NULL,NBA
+72,280315022,2008,"Sat, Mar 15",Portland Trail Blazers,Minnesota Timberwolves,"35-32, 23-9 Home","15-50, 5-27 Away",107,96,NULL,NULL,Final,NULL,28,26,29,24,NULL,29,24,21,22,NULL,NBA
+73,280319016,2008,"Wed, Mar 19",Minnesota Timberwolves,Memphis Grizzlies,"17-50, 12-23 Home","16-51, 4-29 Away",98,94,NULL,NULL,Final,NULL,23,15,24,36,NULL,28,24,16,26,NULL,NBA
+74,280322016,2008,"Sat, Mar 22",Minnesota Timberwolves,New York Knicks,"18-51, 13-23 Home","19-50, 7-27 Away",114,93,NULL,NULL,Final,NULL,42,27,25,20,NULL,24,32,21,16,NULL,NBA
+75,280328024,2008,"Fri, Mar 28",San Antonio Spurs,Minnesota Timberwolves,"50-23, 30-6 Home","18-53, 5-30 Away",99,84,NULL,NULL,Final,NULL,14,35,19,31,NULL,17,17,28,22,NULL,NBA
+76,280401016,2008,"Tue, Apr 1",Minnesota Timberwolves,Detroit Pistons,"19-54, 14-24 Home","53-21, 23-15 Away",90,94,NULL,NULL,Final,NULL,30,19,23,18,NULL,18,26,21,29,NULL,NBA
+77,280404021,2008,"Fri, Apr 4",Phoenix Suns,Minnesota Timberwolves,"51-25, 28-10 Home","19-56, 5-32 Away",117,88,NULL,NULL,Final,NULL,36,26,24,31,NULL,15,26,23,24,NULL,NBA
+78,280408030,2008,"Tue, Apr 8",Charlotte Bobcats,Minnesota Timberwolves,"30-48, 20-20 Home","19-58, 5-33 Away",121,119,NULL,NULL,Final,NULL,32,27,35,27,NULL,17,30,38,34,NULL,NBA
+79,280411019,2008,"Fri, Apr 11",Orlando Magic,Minnesota Timberwolves,"49-30, 24-16 Home","20-59, 6-33 Away",101,102,NULL,NULL,Final,NULL,37,26,18,20,NULL,31,23,20,28,NULL,NBA
+80,280415008,2008,"Tue, Apr 15",Detroit Pistons,Minnesota Timberwolves,"58-23, 34-7 Home","21-60, 7-34 Away",115,103,NULL,NULL,Final,NULL,24,28,34,29,NULL,23,20,29,31,NULL,NBA
+81,280416016,2008,"Wed, Apr 16",Minnesota Timberwolves,Milwaukee Bucks,"22-60, 15-26 Home","26-56, 7-34 Away",110,101,NULL,NULL,Final/OT,NULL,32,13,22,27,16,24,29,21,20,7,NBA

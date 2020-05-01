@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,131107021,1994,"Sun, Nov 7",Phoenix Suns,Sacramento Kings,"1-1, 1-0 Home","1-1, 0-1 Away",132,110,NULL,NULL,Final,NULL,39,36,24,33,NULL,23,23,29,35,NULL,NBA
+1,131112023,1994,"Fri, Nov 12",Sacramento Kings,San Antonio Spurs,"3-1, 3-0 Home","2-3, 0-2 Away",93,91,NULL,NULL,Final,NULL,18,24,27,24,NULL,29,24,25,13,NULL,NBA
+2,131116001,1994,"Tue, Nov 16",Atlanta Hawks,Sacramento Kings,"2-4, 2-0 Home","3-3, 0-3 Away",118,95,NULL,NULL,Final,NULL,30,24,32,32,NULL,30,24,21,20,NULL,NBA
+3,131119016,1994,"Fri, Nov 19",Minnesota Timberwolves,Sacramento Kings,"2-5, 1-2 Home","3-5, 0-5 Away",113,108,NULL,NULL,Final,NULL,31,23,32,27,NULL,25,23,31,29,NULL,NBA
+4,131124023,1994,"Wed, Nov 24",Sacramento Kings,Seattle SuperSonics,"4-6, 4-1 Home","9-0, 3-0 Away",93,120,NULL,NULL,Final,NULL,17,22,23,31,NULL,27,25,28,40,NULL,NBA
+5,131128022,1994,"Sun, Nov 28",Portland Trail Blazers,Sacramento Kings,"7-5, 6-2 Home","4-8, 0-6 Away",120,109,NULL,NULL,Final,NULL,29,29,31,31,NULL,34,19,31,25,NULL,NBA
+6,131201023,1994,"Wed, Dec 1",Sacramento Kings,Minnesota Timberwolves,"4-10, 4-4 Home","4-8, 2-3 Away",101,111,NULL,NULL,Final,NULL,17,31,27,26,NULL,24,29,26,32,NULL,NBA
+7,131207011,1994,"Tue, Dec 7",Indiana Pacers,Sacramento Kings,"6-10, 2-6 Home","4-12, 0-8 Away",105,87,NULL,NULL,Final,NULL,30,21,26,28,NULL,22,32,20,13,NULL,NBA
+8,131210020,1994,"Fri, Dec 10",Philadelphia 76ers,Sacramento Kings,"5-12, 3-7 Home","5-13, 1-9 Away",103,109,NULL,NULL,Final,NULL,26,32,27,18,NULL,22,25,26,36,NULL,NBA
+9,131215023,1994,"Wed, Dec 15",Sacramento Kings,Milwaukee Bucks,"5-15, 4-6 Home","5-16, 4-8 Away",95,96,NULL,NULL,Final,NULL,27,26,18,24,NULL,22,30,21,23,NULL,NBA
+10,131219023,1994,"Sun, Dec 19",Sacramento Kings,Orlando Magic,"5-17, 4-8 Home","13-9, 6-7 Away",91,97,NULL,NULL,Final,NULL,21,20,28,22,NULL,28,24,27,18,NULL,NBA
+11,131226014,1994,"Sun, Dec 26",Miami Heat,Sacramento Kings,"12-11, 7-7 Home","6-18, 1-10 Away",109,95,NULL,NULL,Final,NULL,24,28,28,29,NULL,22,24,24,25,NULL,NBA
+12,131229027,1994,"Wed, Dec 29",Washington Bullets,Sacramento Kings,"8-19, 5-8 Home","7-19, 2-11 Away",97,103,NULL,NULL,Final,NULL,26,22,28,21,NULL,18,28,26,31,NULL,NBA
+13,140102023,1994,"Sun, Jan 2",Sacramento Kings,Dallas Mavericks,"9-19, 6-8 Home","2-26, 2-13 Away",119,116,NULL,NULL,Final,NULL,28,27,32,32,NULL,23,31,21,41,NULL,NBA
+14,140105023,1994,"Wed, Jan 5",Sacramento Kings,Los Angeles Lakers,"10-20, 7-8 Home","10-21, 6-13 Away",106,98,NULL,NULL,Final,NULL,22,28,29,27,NULL,25,25,20,28,NULL,NBA
+15,140108007,1994,"Sat, Jan 8",Denver Nuggets,Sacramento Kings,"15-17, 11-5 Home","10-22, 3-14 Away",104,98,NULL,NULL,Final,NULL,25,20,20,39,NULL,31,20,19,28,NULL,NBA
+16,140113023,1994,"Thu, Jan 13",Sacramento Kings,Charlotte Hornets,"12-22, 9-8 Home","19-15, 6-12 Away",115,104,NULL,NULL,Final,NULL,30,30,23,32,NULL,28,35,23,18,NULL,NBA
+17,140119023,1994,"Wed, Jan 19",Sacramento Kings,Seattle SuperSonics,"12-24, 9-10 Home","29-5, 12-4 Away",95,114,NULL,NULL,Final,NULL,21,22,26,26,NULL,28,25,37,24,NULL,NBA
+18,140122023,1994,"Sat, Jan 22",Sacramento Kings,Cleveland Cavaliers,"12-26, 9-11 Home","19-19, 6-13 Away",109,119,NULL,NULL,Final/OT,NULL,32,24,27,19,7,30,21,21,30,17,NBA
+19,140127010,1994,"Thu, Jan 27",Houston Rockets,Sacramento Kings,"31-9, 15-2 Home","12-28, 3-17 Away",113,97,NULL,NULL,Final,NULL,24,38,28,23,NULL,21,16,29,31,NULL,NBA
+20,140201023,1994,"Tue, Feb 1",Sacramento Kings,Portland Trail Blazers,"13-29, 10-11 Home","25-18, 8-12 Away",102,97,NULL,NULL,Final,NULL,25,29,26,22,NULL,18,33,19,27,NULL,NBA
+21,140205012,1994,"Sat, Feb 5",Los Angeles Clippers,Sacramento Kings,"16-27, 10-12 Home","13-31, 3-19 Away",122,110,NULL,NULL,Final,NULL,33,25,35,29,NULL,33,29,26,22,NULL,NBA
+22,140209023,1994,"Wed, Feb 9",Sacramento Kings,Los Angeles Clippers,"14-32, 11-12 Home","16-29, 6-16 Away",105,95,NULL,NULL,Final,NULL,26,29,25,25,NULL,31,22,19,23,NULL,NBA
+23,140215009,1994,"Tue, Feb 15",Golden State Warriors,Sacramento Kings,"28-20, 14-10 Home","15-33, 4-21 Away",123,113,NULL,NULL,Final,NULL,32,24,33,34,NULL,16,31,24,42,NULL,NBA
+24,140218023,1994,"Fri, Feb 18",Sacramento Kings,Utah Jazz,"17-33, 13-12 Home","32-19, 13-13 Away",90,81,NULL,NULL,Final,NULL,16,26,17,31,NULL,16,16,26,23,NULL,NBA
+25,140222023,1994,"Tue, Feb 22",Sacramento Kings,Boston Celtics,"18-34, 14-12 Home","20-32, 8-17 Away",95,93,NULL,NULL,Final,NULL,28,21,24,22,NULL,25,25,30,13,NULL,NBA
+26,140225012,1994,"Fri, Feb 25",Los Angeles Clippers,Sacramento Kings,"18-34, 11-16 Home","19-35, 4-23 Away",121,111,NULL,NULL,Final,NULL,36,30,30,25,NULL,31,27,33,20,NULL,NBA
+27,140305025,1994,"Sat, Mar 5",Seattle SuperSonics,Sacramento Kings,"41-14, 23-3 Home","19-37, 4-24 Away",114,98,NULL,NULL,Final,NULL,29,26,34,25,NULL,29,30,19,20,NULL,NBA
+28,140308005,1994,"Tue, Mar 8",Cleveland Cavaliers,Sacramento Kings,"36-24, 23-9 Home","19-39, 4-25 Away",103,82,NULL,NULL,Final,NULL,29,22,20,32,NULL,19,17,24,22,NULL,NBA
+29,140311015,1994,"Fri, Mar 11",Milwaukee Bucks,Sacramento Kings,"17-43, 8-25 Home","21-39, 6-25 Away",100,108,NULL,NULL,Final,NULL,32,23,30,15,NULL,28,23,28,29,NULL,NBA
+30,140314023,1994,"Mon, Mar 14",Sacramento Kings,Detroit Pistons,"21-41, 15-15 Home","16-46, 7-21 Away",102,108,NULL,NULL,Final,NULL,18,26,33,25,NULL,20,27,26,35,NULL,NBA
+31,140318007,1994,"Fri, Mar 18",Denver Nuggets,Sacramento Kings,"31-32, 22-9 Home","23-41, 7-26 Away",103,115,NULL,NULL,Final,NULL,17,30,22,34,NULL,30,32,26,27,NULL,NBA
+32,140322023,1994,"Tue, Mar 22",Sacramento Kings,Portland Trail Blazers,"23-43, 16-16 Home","40-27, 13-21 Away",94,96,NULL,NULL,Final,NULL,29,17,25,23,NULL,23,16,28,29,NULL,NBA
+33,140325022,1994,"Fri, Mar 25",Portland Trail Blazers,Sacramento Kings,"41-27, 28-6 Home","23-45, 7-28 Away",100,91,NULL,NULL,Final,NULL,28,22,22,28,NULL,19,23,25,24,NULL,NBA
+34,140331023,1994,"Thu, Mar 31",Sacramento Kings,Atlanta Hawks,"23-47, 16-19 Home","50-20, 19-15 Away",102,106,NULL,NULL,Final,NULL,19,26,28,29,NULL,23,31,21,31,NULL,NBA
+35,140405023,1994,"Tue, Apr 5",Sacramento Kings,Dallas Mavericks,"24-48, 17-20 Home","9-64, 6-31 Away",80,88,NULL,NULL,Final,NULL,22,16,19,23,NULL,23,17,18,30,NULL,NBA
+36,140408023,1994,"Fri, Apr 8",Sacramento Kings,Phoenix Suns,"25-49, 18-20 Home","49-25, 17-20 Away",104,101,NULL,NULL,Final,NULL,33,27,13,31,NULL,21,24,24,32,NULL,NBA
+37,140412026,1994,"Tue, Apr 12",Utah Jazz,Sacramento Kings,"48-28, 31-8 Home","26-50, 7-30 Away",126,91,NULL,NULL,Final,NULL,28,33,38,27,NULL,19,26,21,25,NULL,NBA
+38,140416006,1994,"Sat, Apr 16",Dallas Mavericks,Sacramento Kings,"11-68, 4-34 Home","27-51, 8-31 Away",98,106,NULL,NULL,Final,NULL,18,34,19,27,NULL,25,27,28,26,NULL,NBA
+39,140421009,1994,"Thu, Apr 21",Golden State Warriors,Sacramento Kings,"49-31, 28-12 Home","27-53, 8-32 Away",121,96,NULL,NULL,Final,NULL,30,32,35,24,NULL,28,22,18,28,NULL,NBA
+40,131105023,1994,"Fri, Nov 5",Sacramento Kings,Denver Nuggets,"1-0, 1-0 Home","0-1, 0-1 Away",109,100,NULL,NULL,Final,NULL,21,29,25,34,NULL,29,33,26,12,NULL,NBA
+41,131110023,1994,"Wed, Nov 10",Sacramento Kings,Los Angeles Lakers,"2-1, 2-0 Home","1-3, 0-2 Away",112,101,NULL,NULL,Final,NULL,28,34,20,30,NULL,24,23,26,28,NULL,NBA
+42,131114017,1994,"Sun, Nov 14",New Jersey Nets,Sacramento Kings,"3-3, 1-2 Home","3-2, 0-2 Away",132,102,NULL,NULL,Final,NULL,34,30,34,34,NULL,32,24,23,23,NULL,NBA
+43,131117003,1994,"Wed, Nov 17",Charlotte Hornets,Sacramento Kings,"5-2, 2-1 Home","3-4, 0-4 Away",130,113,NULL,NULL,Final,NULL,27,37,32,34,NULL,25,25,28,35,NULL,NBA
+44,131121023,1994,"Sun, Nov 21",Sacramento Kings,Chicago Bulls,"4-5, 4-0 Home","4-5, 3-3 Away",103,101,NULL,NULL,Final,NULL,21,36,25,21,NULL,27,31,21,22,NULL,NBA
+45,131126023,1994,"Fri, Nov 26",Sacramento Kings,Houston Rockets,"4-7, 4-2 Home","12-0, 7-0 Away",89,92,NULL,NULL,Final,NULL,18,27,16,28,NULL,21,27,22,22,NULL,NBA
+46,131129023,1994,"Mon, Nov 29",Sacramento Kings,Indiana Pacers,"4-9, 4-3 Home","4-8, 3-2 Away",103,105,NULL,NULL,Final,NULL,35,33,20,15,NULL,27,19,31,28,NULL,NBA
+47,131204018,1994,"Sat, Dec 4",New York Knicks,Sacramento Kings,"10-3, 5-2 Home","4-11, 0-7 Away",123,101,NULL,NULL,Final,NULL,32,33,30,28,NULL,28,23,26,24,NULL,NBA
+48,131208002,1994,"Wed, Dec 8",Boston Celtics,Sacramento Kings,"10-8, 6-4 Home","4-13, 0-9 Away",129,115,NULL,NULL,Final,NULL,30,29,33,37,NULL,29,24,25,37,NULL,NBA
+49,131212023,1994,"Sun, Dec 12",Sacramento Kings,Los Angeles Clippers,"5-14, 4-5 Home","8-10, 3-6 Away",102,112,NULL,NULL,Final,NULL,27,31,20,24,NULL,33,28,26,25,NULL,NBA
+50,131217023,1994,"Fri, Dec 17",Sacramento Kings,Golden State Warriors,"5-16, 4-7 Home","12-9, 7-3 Away",94,109,NULL,NULL,Final,NULL,26,27,16,25,NULL,26,38,25,20,NULL,NBA
+51,131223023,1994,"Thu, Dec 23",Sacramento Kings,Washington Bullets,"6-17, 5-8 Home","7-18, 2-11 Away",114,88,NULL,NULL,Final,NULL,26,22,32,34,NULL,21,15,23,29,NULL,NBA
+52,131227019,1994,"Mon, Dec 27",Orlando Magic,Sacramento Kings,"15-11, 9-3 Home","6-19, 1-11 Away",122,110,NULL,NULL,Final,NULL,31,33,21,37,NULL,34,25,27,24,NULL,NBA
+53,131230008,1994,"Thu, Dec 30",Detroit Pistons,Sacramento Kings,"8-19, 5-10 Home","8-19, 3-11 Away",91,97,NULL,NULL,Final,NULL,21,33,19,18,NULL,27,24,23,23,NULL,NBA
+54,140104009,1994,"Tue, Jan 4",Golden State Warriors,Sacramento Kings,"15-13, 7-8 Home","9-20, 3-12 Away",115,112,NULL,NULL,Final,NULL,22,30,33,30,NULL,30,31,30,21,NULL,NBA
+55,140107025,1994,"Fri, Jan 7",Seattle SuperSonics,Sacramento Kings,"25-3, 14-1 Home","10-21, 3-13 Away",102,93,NULL,NULL,Final,NULL,21,27,24,30,NULL,25,22,25,21,NULL,NBA
+56,140111023,1994,"Tue, Jan 11",Sacramento Kings,Miami Heat,"11-22, 8-8 Home","16-14, 8-5 Away",103,95,NULL,NULL,Final,NULL,25,24,18,36,NULL,23,20,27,25,NULL,NBA
+57,140115023,1994,"Sat, Jan 15",Sacramento Kings,Phoenix Suns,"12-23, 9-9 Home","25-8, 10-5 Away",103,119,NULL,NULL,Final,NULL,25,23,34,21,NULL,23,32,30,34,NULL,NBA
+58,140121026,1994,"Fri, Jan 21",Utah Jazz,Sacramento Kings,"26-13, 15-4 Home","12-25, 3-15 Away",112,83,NULL,NULL,Final,NULL,26,27,32,27,NULL,22,26,18,17,NULL,NBA
+59,140125024,1994,"Tue, Jan 25",San Antonio Spurs,Sacramento Kings,"28-14, 16-4 Home","12-27, 3-16 Away",107,91,NULL,NULL,Final,NULL,30,26,28,23,NULL,26,14,24,27,NULL,NBA
+60,140129006,1994,"Sat, Jan 29",Dallas Mavericks,Sacramento Kings,"3-40, 1-19 Home","12-29, 3-18 Away",108,101,NULL,NULL,Final,NULL,21,36,26,25,NULL,28,22,31,20,NULL,NBA
+61,140204023,1994,"Fri, Feb 4",Sacramento Kings,Denver Nuggets,"13-30, 10-12 Home","21-23, 6-16 Away",83,108,NULL,NULL,Final,NULL,17,17,23,26,NULL,26,34,22,26,NULL,NBA
+62,140208022,1994,"Tue, Feb 8",Portland Trail Blazers,Sacramento Kings,"27-19, 19-6 Home","13-32, 3-20 Away",124,100,NULL,NULL,Final,NULL,31,30,28,35,NULL,26,22,27,25,NULL,NBA
+63,140210013,1994,"Thu, Feb 10",Los Angeles Lakers,Sacramento Kings,"18-29, 10-12 Home","15-32, 4-20 Away",84,103,NULL,NULL,Final,NULL,22,21,22,19,NULL,28,21,28,26,NULL,NBA
+64,140216023,1994,"Wed, Feb 16",Sacramento Kings,Philadelphia 76ers,"16-33, 12-12 Home","20-29, 8-16 Away",94,92,NULL,NULL,Final/OT,NULL,27,22,17,19,9,21,29,21,14,7,NBA
+65,140221021,1994,"Mon, Feb 21",Phoenix Suns,Sacramento Kings,"34-16, 23-3 Home","17-34, 4-22 Away",112,86,NULL,NULL,Final,NULL,22,29,39,22,NULL,22,27,18,19,NULL,NBA
+66,140224023,1994,"Thu, Feb 24",Sacramento Kings,Los Angeles Lakers,"19-34, 15-12 Home","19-32, 8-19 Away",102,90,NULL,NULL,Final,NULL,25,29,23,25,NULL,24,27,24,15,NULL,NBA
+67,140301023,1994,"Tue, Mar 1",Sacramento Kings,New York Knicks,"19-36, 15-13 Home","37-19, 16-12 Away",88,100,NULL,NULL,Final,NULL,21,21,23,23,NULL,19,30,22,29,NULL,NBA
+68,140306023,1994,"Sun, Mar 6",Sacramento Kings,Seattle SuperSonics,"19-38, 15-14 Home","42-14, 19-11 Away",85,102,NULL,NULL,Final,NULL,18,22,25,20,NULL,29,31,22,20,NULL,NBA
+69,140309016,1994,"Wed, Mar 9",Minnesota Timberwolves,Sacramento Kings,"16-43, 10-19 Home","20-39, 5-25 Away",96,104,NULL,NULL,Final,NULL,16,28,28,24,NULL,24,29,29,22,NULL,NBA
+70,140312004,1994,"Sat, Mar 12",Chicago Bulls,Sacramento Kings,"39-22, 22-8 Home","21-40, 6-26 Away",111,94,NULL,NULL,Final,NULL,30,25,25,31,NULL,17,28,27,22,NULL,NBA
+71,140316023,1994,"Wed, Mar 16",Sacramento Kings,New Jersey Nets,"22-41, 16-15 Home","32-30, 11-20 Away",132,111,NULL,NULL,Final,NULL,28,28,30,46,NULL,27,19,24,41,NULL,NBA
+72,140319024,1994,"Sat, Mar 19",San Antonio Spurs,Sacramento Kings,"46-19, 28-6 Home","23-42, 7-27 Away",107,100,NULL,NULL,Final,NULL,31,26,24,26,NULL,23,25,35,17,NULL,NBA
+73,140324023,1994,"Thu, Mar 24",Sacramento Kings,San Antonio Spurs,"23-44, 16-17 Home","47-20, 19-14 Away",91,107,NULL,NULL,Final,NULL,24,20,26,21,NULL,36,19,27,25,NULL,NBA
+74,140329023,1994,"Tue, Mar 29",Sacramento Kings,Houston Rockets,"23-46, 16-18 Home","49-19, 19-14 Away",101,122,NULL,NULL,Final,NULL,25,28,19,29,NULL,27,21,38,36,NULL,NBA
+75,140402023,1994,"Sat, Apr 2",Sacramento Kings,Minnesota Timberwolves,"24-47, 17-19 Home","19-52, 7-28 Away",102,87,NULL,NULL,Final,NULL,34,22,23,23,NULL,21,23,23,20,NULL,NBA
+76,140406013,1994,"Wed, Apr 6",Los Angeles Lakers,Sacramento Kings,"33-39, 21-15 Home","24-49, 7-29 Away",128,123,NULL,NULL,Final/OT,NULL,23,24,25,41,15,21,35,28,29,10,NBA
+77,140411023,1994,"Mon, Apr 11",Sacramento Kings,Los Angeles Clippers,"26-49, 19-20 Home","26-49, 10-29 Away",118,97,NULL,NULL,Final,NULL,33,32,21,32,NULL,20,25,22,30,NULL,NBA
+78,140414010,1994,"Thu, Apr 14",Houston Rockets,Sacramento Kings,"56-20, 34-5 Home","26-51, 7-31 Away",104,99,NULL,NULL,Final,NULL,23,24,25,32,NULL,23,26,15,35,NULL,NBA
+79,140419023,1994,"Tue, Apr 19",Sacramento Kings,Utah Jazz,"27-52, 19-21 Home","50-29, 18-21 Away",108,115,NULL,NULL,Final,NULL,25,29,26,28,NULL,28,26,32,29,NULL,NBA
+80,140423021,1994,"Sat, Apr 23",Phoenix Suns,Sacramento Kings,"56-26, 36-5 Home","27-54, 8-33 Away",101,100,NULL,NULL,Final,NULL,28,22,28,23,NULL,22,24,23,31,NULL,NBA
+81,140424023,1994,"Sun, Apr 24",Sacramento Kings,Golden State Warriors,"28-54, 20-21 Home","50-32, 21-20 Away",105,97,NULL,NULL,Final,NULL,26,27,30,22,NULL,19,23,26,29,NULL,NBA

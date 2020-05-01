@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,131106016,1993,"Sat, Nov 6",Minnesota Timberwolves,Utah Jazz,"0-2, 0-1 Home","2-0, 1-0 Away",95,105,NULL,NULL,Final,NULL,31,18,22,24,NULL,29,20,23,33,NULL,NBA
+1,131111010,1993,"Thu, Nov 11",Houston Rockets,Minnesota Timberwolves,"4-0, 2-0 Home","0-4, 0-3 Away",107,99,NULL,NULL,Final,NULL,29,27,28,23,NULL,22,32,26,19,NULL,NBA
+2,131116015,1993,"Tue, Nov 16",Milwaukee Bucks,Minnesota Timberwolves,"1-6, 0-3 Home","1-5, 1-3 Away",98,102,NULL,NULL,Final,NULL,25,25,22,26,NULL,26,23,20,33,NULL,NBA
+3,131120016,1993,"Sat, Nov 20",Minnesota Timberwolves,Denver Nuggets,"2-6, 1-3 Home","4-4, 2-2 Away",89,90,NULL,NULL,Final,NULL,18,30,23,18,NULL,24,24,24,18,NULL,NBA
+4,131126016,1993,"Fri, Nov 26",Minnesota Timberwolves,Seattle SuperSonics,"3-7, 2-4 Home","10-0, 4-0 Away",92,110,NULL,NULL,Final,NULL,26,14,25,27,NULL,30,29,22,29,NULL,NBA
+5,131201023,1993,"Wed, Dec 1",Sacramento Kings,Minnesota Timberwolves,"4-10, 4-4 Home","4-8, 2-3 Away",101,111,NULL,NULL,Final,NULL,17,31,27,26,NULL,24,29,26,32,NULL,NBA
+6,131204025,1993,"Sat, Dec 4",Seattle SuperSonics,Minnesota Timberwolves,"13-1, 7-0 Home","5-9, 3-4 Away",99,82,NULL,NULL,Final,NULL,28,14,23,34,NULL,21,19,17,25,NULL,NBA
+7,131208016,1993,"Wed, Dec 8",Minnesota Timberwolves,Portland Trail Blazers,"6-10, 2-6 Home","10-8, 4-6 Away",111,114,NULL,NULL,Final,NULL,30,29,23,29,NULL,28,27,25,34,NULL,NBA
+8,131211016,1993,"Sat, Dec 11",Minnesota Timberwolves,Detroit Pistons,"7-11, 3-7 Home","6-12, 2-6 Away",80,92,NULL,NULL,Final,NULL,17,21,22,20,NULL,24,24,19,25,NULL,NBA
+9,131215016,1993,"Wed, Dec 15",Minnesota Timberwolves,Utah Jazz,"7-13, 3-8 Home","15-7, 5-5 Away",95,97,NULL,NULL,Final,NULL,29,22,24,20,NULL,26,21,29,21,NULL,NBA
+10,131218022,1993,"Sat, Dec 18",Portland Trail Blazers,Minnesota Timberwolves,"13-10, 8-3 Home","8-14, 5-6 Away",105,95,NULL,NULL,Final,NULL,34,29,21,21,NULL,26,25,24,20,NULL,NBA
+11,131222004,1993,"Wed, Dec 22",Chicago Bulls,Minnesota Timberwolves,"15-8, 8-2 Home","8-16, 5-7 Away",106,98,NULL,NULL,Final,NULL,28,26,24,28,NULL,19,26,18,35,NULL,NBA
+12,131226007,1993,"Sun, Dec 26",Denver Nuggets,Minnesota Timberwolves,"12-13, 9-2 Home","8-18, 5-8 Away",100,97,NULL,NULL,Final,NULL,19,21,30,30,NULL,23,17,31,26,NULL,NBA
+13,131230016,1993,"Thu, Dec 30",Minnesota Timberwolves,Houston Rockets,"8-20, 3-11 Home","24-4, 14-3 Away",104,110,NULL,NULL,Final,NULL,19,26,27,32,NULL,23,36,18,33,NULL,NBA
+14,140107016,1993,"Fri, Jan 7",Minnesota Timberwolves,Phoenix Suns,"9-21, 4-12 Home","23-6, 9-4 Away",103,110,NULL,NULL,Final,NULL,27,19,28,29,NULL,26,24,29,31,NULL,NBA
+15,140111024,1993,"Tue, Jan 11",San Antonio Spurs,Minnesota Timberwolves,"23-12, 13-4 Home","10-22, 5-10 Away",108,98,NULL,NULL,Final,NULL,27,31,30,20,NULL,25,24,17,32,NULL,NBA
+16,140114016,1993,"Fri, Jan 14",Minnesota Timberwolves,Orlando Magic,"12-22, 6-12 Home","19-15, 7-10 Away",96,92,NULL,NULL,Final,NULL,27,32,16,21,NULL,35,16,27,14,NULL,NBA
+17,140119017,1993,"Wed, Jan 19",New Jersey Nets,Minnesota Timberwolves,"16-20, 11-8 Home","12-24, 6-12 Away",112,91,NULL,NULL,Final,NULL,27,28,30,27,NULL,29,15,18,29,NULL,NBA
+18,140122016,1993,"Sat, Jan 22",Minnesota Timberwolves,Atlanta Hawks,"13-25, 7-13 Home","26-10, 9-7 Away",81,98,NULL,NULL,Final,NULL,16,20,31,14,NULL,29,22,26,21,NULL,NBA
+19,140128022,1993,"Fri, Jan 28",Portland Trail Blazers,Minnesota Timberwolves,"25-16, 17-5 Home","14-26, 6-13 Away",109,98,NULL,NULL,Final,NULL,16,34,33,26,NULL,20,21,28,29,NULL,NBA
+20,140202016,1993,"Wed, Feb 2",Minnesota Timberwolves,Dallas Mavericks,"14-28, 8-14 Home","4-41, 3-21 Away",88,92,NULL,NULL,Final,NULL,24,21,21,22,NULL,19,22,30,21,NULL,NBA
+21,140206010,1993,"Sun, Feb 6",Houston Rockets,Minnesota Timberwolves,"33-11, 17-3 Home","14-30, 6-16 Away",101,90,NULL,NULL,Final,NULL,30,32,13,26,NULL,22,26,17,25,NULL,NBA
+22,140209021,1993,"Wed, Feb 9",Phoenix Suns,Minnesota Timberwolves,"31-15, 20-3 Home","14-32, 6-18 Away",111,106,NULL,NULL,Final,NULL,36,27,28,20,NULL,29,27,32,18,NULL,NBA
+23,140217027,1993,"Thu, Feb 17",Washington Bullets,Minnesota Timberwolves,"16-33, 11-13 Home","15-33, 6-19 Away",109,105,NULL,NULL,Final,NULL,22,26,29,32,NULL,23,25,22,35,NULL,NBA
+24,140221016,1993,"Mon, Feb 21",Minnesota Timberwolves,San Antonio Spurs,"15-35, 9-16 Home","39-14, 16-10 Away",89,114,NULL,NULL,Final,NULL,25,20,21,23,NULL,24,22,34,34,NULL,NBA
+25,140224016,1993,"Thu, Feb 24",Minnesota Timberwolves,Phoenix Suns,"15-37, 9-17 Home","35-16, 12-13 Away",101,120,NULL,NULL,Final,NULL,30,17,25,29,NULL,35,30,23,32,NULL,NBA
+26,140301001,1993,"Tue, Mar 1",Atlanta Hawks,Minnesota Timberwolves,"39-16, 25-3 Home","16-38, 6-21 Away",102,99,NULL,NULL,Final,NULL,36,25,33,8,NULL,17,23,29,30,NULL,NBA
+27,140304021,1993,"Fri, Mar 4",Phoenix Suns,Minnesota Timberwolves,"37-18, 25-3 Home","16-40, 6-22 Away",106,101,NULL,NULL,Final,NULL,24,29,31,22,NULL,26,26,27,22,NULL,NBA
+28,140308026,1993,"Tue, Mar 8",Utah Jazz,Minnesota Timberwolves,"42-19, 25-6 Home","16-42, 6-24 Away",100,86,NULL,NULL,Final,NULL,23,27,24,26,NULL,18,23,26,19,NULL,NBA
+29,140311016,1993,"Fri, Mar 11",Minnesota Timberwolves,Charlotte Hornets,"16-44, 10-20 Home","25-33, 8-22 Away",91,97,NULL,NULL,Final,NULL,20,26,25,20,NULL,27,15,28,27,NULL,NBA
+30,140315016,1993,"Tue, Mar 15",Minnesota Timberwolves,Philadelphia 76ers,"17-45, 11-21 Home","21-42, 9-24 Away",96,87,NULL,NULL,Final,NULL,22,29,20,25,NULL,22,24,21,20,NULL,NBA
+31,140318020,1993,"Fri, Mar 18",Philadelphia 76ers,Minnesota Timberwolves,"21-43, 12-19 Home","18-46, 7-24 Away",98,100,NULL,NULL,Final,NULL,31,25,21,21,NULL,29,20,31,20,NULL,NBA
+32,140322016,1993,"Tue, Mar 22",Minnesota Timberwolves,Houston Rockets,"19-47, 12-23 Home","46-18, 18-13 Away",83,81,NULL,NULL,Final,NULL,24,23,17,19,NULL,24,22,22,13,NULL,NBA
+33,140326025,1993,"Sat, Mar 26",Seattle SuperSonics,Minnesota Timberwolves,"50-17, 28-4 Home","19-49, 7-25 Away",113,93,NULL,NULL,Final,NULL,26,28,31,28,NULL,21,27,22,23,NULL,NBA
+34,140401009,1993,"Fri, Apr 1",Golden State Warriors,Minnesota Timberwolves,"41-29, 24-12 Home","19-51, 7-27 Away",146,109,NULL,NULL,Final,NULL,39,38,33,36,NULL,22,32,21,34,NULL,NBA
+35,140406016,1993,"Wed, Apr 6",Minnesota Timberwolves,Los Angeles Clippers,"20-52, 13-24 Home","26-47, 10-27 Away",110,100,NULL,NULL,Final,NULL,24,24,26,36,NULL,29,16,29,26,NULL,NBA
+36,140409016,1993,"Sat, Apr 9",Minnesota Timberwolves,Golden State Warriors,"20-54, 13-25 Home","43-31, 19-19 Away",105,117,NULL,NULL,Final,NULL,29,27,22,27,NULL,30,20,28,39,NULL,NBA
+37,140412010,1993,"Tue, Apr 12",Houston Rockets,Minnesota Timberwolves,"55-20, 33-5 Home","20-56, 7-31 Away",98,89,NULL,NULL,Final,NULL,28,16,26,28,NULL,24,19,21,25,NULL,NBA
+38,140417016,1993,"Sun, Apr 17",Minnesota Timberwolves,Denver Nuggets,"20-58, 13-27 Home","39-39, 12-27 Away",88,99,NULL,NULL,Final,NULL,26,28,18,16,NULL,17,27,30,25,NULL,NBA
+39,140420019,1993,"Wed, Apr 20",Orlando Magic,Minnesota Timberwolves,"49-31, 30-10 Home","20-60, 7-33 Away",121,101,NULL,NULL,Final,NULL,38,25,33,25,NULL,20,25,22,34,NULL,NBA
+40,131105008,1993,"Fri, Nov 5",Detroit Pistons,Minnesota Timberwolves,"1-0, 1-0 Home","0-1, 0-1 Away",104,99,NULL,NULL,Final,NULL,23,22,30,29,NULL,31,27,19,22,NULL,NBA
+41,131109024,1993,"Tue, Nov 9",San Antonio Spurs,Minnesota Timberwolves,"2-1, 2-1 Home","0-3, 0-2 Away",110,95,NULL,NULL,Final,NULL,29,32,25,24,NULL,19,26,22,28,NULL,NBA
+42,131112016,1993,"Fri, Nov 12",Minnesota Timberwolves,Dallas Mavericks,"0-5, 0-2 Home","1-3, 1-1 Away",99,115,NULL,NULL,Final,NULL,20,14,35,30,NULL,22,30,32,31,NULL,NBA
+43,131119016,1993,"Fri, Nov 19",Minnesota Timberwolves,Sacramento Kings,"2-5, 1-2 Home","3-5, 0-5 Away",113,108,NULL,NULL,Final,NULL,31,23,32,27,NULL,25,23,31,29,NULL,NBA
+44,131124016,1993,"Wed, Nov 24",Minnesota Timberwolves,New Jersey Nets,"3-6, 2-3 Home","4-7, 2-3 Away",107,106,NULL,NULL,Final,NULL,28,28,28,23,NULL,35,23,28,20,NULL,NBA
+45,131127016,1993,"Sat, Nov 27",Minnesota Timberwolves,Los Angeles Lakers,"3-8, 2-5 Home","5-9, 2-6 Away",92,96,NULL,NULL,Final,NULL,24,18,21,29,NULL,26,21,26,23,NULL,NBA
+46,131202009,1993,"Thu, Dec 2",Golden State Warriors,Minnesota Timberwolves,"7-7, 2-5 Home","5-8, 3-3 Away",91,103,NULL,NULL,Final,NULL,22,24,25,20,NULL,29,24,21,29,NULL,NBA
+47,131205013,1993,"Sun, Dec 5",Los Angeles Lakers,Minnesota Timberwolves,"7-10, 4-4 Home","6-9, 4-4 Away",99,101,NULL,NULL,Final,NULL,31,26,19,23,NULL,26,26,26,23,NULL,NBA
+48,131210016,1993,"Fri, Dec 10",Minnesota Timberwolves,Los Angeles Clippers,"7-10, 3-6 Home","7-10, 2-6 Away",109,108,NULL,NULL,Final,NULL,31,32,16,30,NULL,31,21,28,28,NULL,NBA
+49,131214003,1993,"Tue, Dec 14",Charlotte Hornets,Minnesota Timberwolves,"11-9, 8-2 Home","7-12, 4-5 Away",101,85,NULL,NULL,Final,NULL,24,25,25,27,NULL,22,23,18,22,NULL,NBA
+50,131217012,1993,"Fri, Dec 17",Los Angeles Clippers,Minnesota Timberwolves,"9-11, 6-5 Home","8-13, 5-5 Away",90,105,NULL,NULL,Final,NULL,28,20,19,23,NULL,27,27,28,23,NULL,NBA
+51,131220016,1993,"Mon, Dec 20",Minnesota Timberwolves,Washington Bullets,"8-15, 3-9 Home","7-16, 2-9 Away",84,99,NULL,NULL,Final,NULL,31,16,22,15,NULL,29,23,25,22,NULL,NBA
+52,131223016,1993,"Thu, Dec 23",Minnesota Timberwolves,Dallas Mavericks,"8-17, 3-10 Home","2-24, 2-12 Away",89,93,NULL,NULL,Final,NULL,11,29,26,23,NULL,30,20,28,15,NULL,NBA
+53,131227026,1993,"Mon, Dec 27",Utah Jazz,Minnesota Timberwolves,"19-8, 11-2 Home","8-19, 5-9 Away",97,93,NULL,NULL,Final,NULL,19,25,25,28,NULL,20,25,21,27,NULL,NBA
+54,140105016,1993,"Wed, Jan 5",Minnesota Timberwolves,Denver Nuggets,"9-20, 4-11 Home","14-16, 4-12 Away",109,95,NULL,NULL,Final,NULL,29,30,28,22,NULL,34,17,25,19,NULL,NBA
+55,140108016,1993,"Sat, Jan 8",Minnesota Timberwolves,Boston Celtics,"10-21, 5-12 Home","13-20, 6-11 Away",108,90,NULL,NULL,Final,NULL,21,24,29,34,NULL,20,16,22,32,NULL,NBA
+56,140112006,1993,"Wed, Jan 12",Dallas Mavericks,Minnesota Timberwolves,"2-31, 0-16 Home","11-22, 6-10 Away",85,103,NULL,NULL,Final,NULL,28,22,20,15,NULL,31,26,23,23,NULL,NBA
+57,140117018,1993,"Mon, Jan 17",New York Knicks,Minnesota Timberwolves,"25-9, 16-4 Home","12-23, 6-11 Away",106,94,NULL,NULL,Final,NULL,32,24,18,32,NULL,20,16,31,27,NULL,NBA
+58,140120016,1993,"Thu, Jan 20",Minnesota Timberwolves,San Antonio Spurs,"13-24, 7-12 Home","26-14, 12-10 Away",93,83,NULL,NULL,Final,NULL,24,23,21,25,NULL,18,21,24,20,NULL,NBA
+59,140126016,1993,"Wed, Jan 26",Minnesota Timberwolves,Utah Jazz,"14-25, 8-13 Home","27-15, 11-11 Away",100,98,NULL,NULL,Final,NULL,27,28,29,16,NULL,19,24,29,26,NULL,NBA
+60,140129012,1993,"Sat, Jan 29",Los Angeles Clippers,Minnesota Timberwolves,"15-25, 9-11 Home","14-27, 6-14 Away",103,93,NULL,NULL,Final,NULL,24,31,28,20,NULL,19,25,24,25,NULL,NBA
+61,140204011,1993,"Fri, Feb 4",Indiana Pacers,Minnesota Timberwolves,"20-23, 11-9 Home","14-29, 6-15 Away",114,93,NULL,NULL,Final,NULL,36,26,27,25,NULL,32,19,23,19,NULL,NBA
+62,140208006,1993,"Tue, Feb 8",Dallas Mavericks,Minnesota Timberwolves,"5-43, 2-21 Home","14-31, 6-17 Away",108,105,NULL,NULL,Final/OT,NULL,18,23,25,24,18,24,23,14,29,15,NBA
+63,140215016,1993,"Tue, Feb 15",Minnesota Timberwolves,Milwaukee Bucks,"15-32, 9-14 Home","14-35, 8-17 Away",97,90,NULL,NULL,Final,NULL,30,29,12,26,NULL,22,27,26,15,NULL,NBA
+64,140218016,1993,"Fri, Feb 18",Minnesota Timberwolves,Cleveland Cavaliers,"15-34, 9-15 Home","26-24, 9-15 Away",78,85,NULL,NULL,Final,NULL,23,21,19,15,NULL,23,18,21,23,NULL,NBA
+65,140222005,1993,"Tue, Feb 22",Cleveland Cavaliers,Minnesota Timberwolves,"28-24, 18-9 Home","15-36, 6-20 Away",114,81,NULL,NULL,Final,NULL,29,31,33,21,NULL,12,24,22,23,NULL,NBA
+66,140227016,1993,"Sun, Feb 27",Minnesota Timberwolves,Golden State Warriors,"16-37, 10-17 Home","31-23, 15-13 Away",107,100,NULL,NULL,Final,NULL,26,36,18,27,NULL,24,26,23,27,NULL,NBA
+67,140302016,1993,"Wed, Mar 2",Minnesota Timberwolves,Miami Heat,"16-39, 10-18 Home","31-25, 18-12 Away",100,108,NULL,NULL,Final/OT,NULL,27,17,20,33,3,33,19,21,24,11,NBA
+68,140306007,1993,"Sun, Mar 6",Denver Nuggets,Minnesota Timberwolves,"29-28, 21-8 Home","16-41, 6-23 Away",117,97,NULL,NULL,Final,NULL,37,28,27,25,NULL,25,20,21,31,NULL,NBA
+69,140309016,1993,"Wed, Mar 9",Minnesota Timberwolves,Sacramento Kings,"16-43, 10-19 Home","20-39, 5-25 Away",96,104,NULL,NULL,Final,NULL,16,28,28,24,NULL,24,29,29,22,NULL,NBA
+70,140313016,1993,"Sun, Mar 13",Minnesota Timberwolves,Los Angeles Lakers,"16-45, 10-21 Home","24-35, 11-21 Away",88,90,NULL,NULL,Final,NULL,25,18,27,18,NULL,23,20,23,24,NULL,NBA
+71,140317016,1993,"Thu, Mar 17",Minnesota Timberwolves,Seattle SuperSonics,"17-46, 11-22 Home","46-16, 21-12 Away",92,107,NULL,NULL,Final,NULL,29,21,21,21,NULL,33,21,31,22,NULL,NBA
+72,140320016,1993,"Sun, Mar 20",Minnesota Timberwolves,Chicago Bulls,"18-47, 11-23 Home","43-22, 19-14 Away",80,90,NULL,NULL,Final,NULL,18,20,21,21,NULL,26,24,17,23,NULL,NBA
+73,140324016,1993,"Thu, Mar 24",Minnesota Timberwolves,New York Knicks,"19-48, 12-24 Home","47-19, 20-12 Away",106,123,NULL,NULL,Final,NULL,25,24,34,23,NULL,39,29,31,24,NULL,NBA
+74,140329013,1993,"Tue, Mar 29",Los Angeles Lakers,Minnesota Timberwolves,"30-38, 18-15 Home","19-50, 7-26 Away",91,89,NULL,NULL,Final,NULL,22,19,30,20,NULL,26,23,16,24,NULL,NBA
+75,140402023,1993,"Sat, Apr 2",Sacramento Kings,Minnesota Timberwolves,"24-47, 17-19 Home","19-52, 7-28 Away",102,87,NULL,NULL,Final,NULL,34,22,23,23,NULL,21,23,23,20,NULL,NBA
+76,140408002,1993,"Fri, Apr 8",Boston Celtics,Minnesota Timberwolves,"27-46, 15-22 Home","20-53, 7-29 Away",112,108,NULL,NULL,Final,NULL,20,27,33,32,NULL,26,29,23,30,NULL,NBA
+77,140411024,1993,"Mon, Apr 11",San Antonio Spurs,Minnesota Timberwolves,"53-23, 31-7 Home","20-55, 7-30 Away",101,89,NULL,NULL,Final,NULL,26,18,25,32,NULL,22,18,25,24,NULL,NBA
+78,140415016,1993,"Fri, Apr 15",Minnesota Timberwolves,Indiana Pacers,"20-57, 13-26 Home","42-35, 16-23 Away",112,130,NULL,NULL,Final,NULL,25,22,35,30,NULL,44,25,29,32,NULL,NBA
+79,140419014,1993,"Tue, Apr 19",Miami Heat,Minnesota Timberwolves,"41-39, 21-19 Home","20-59, 7-32 Away",126,99,NULL,NULL,Final,NULL,43,29,26,28,NULL,24,27,28,20,NULL,NBA
+80,140422016,1993,"Fri, Apr 22",Minnesota Timberwolves,Portland Trail Blazers,"20-61, 13-28 Home","47-34, 17-24 Away",103,118,NULL,NULL,Final,NULL,27,21,28,27,NULL,28,24,32,34,NULL,NBA
+81,140424006,1993,"Sun, Apr 24",Dallas Mavericks,Minnesota Timberwolves,"13-70, 6-35 Home","20-62, 7-34 Away",116,102,NULL,NULL,Final,NULL,30,30,31,25,NULL,30,23,26,23,NULL,NBA

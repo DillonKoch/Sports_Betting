@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,131106011,1993,"Sat, Nov 6",Indiana Pacers,Detroit Pistons,"0-2, 0-1 Home","2-0, 1-0 Away",107,113,NULL,NULL,Final,NULL,25,26,28,28,NULL,31,27,28,27,NULL,NBA
+1,131111017,1993,"Thu, Nov 11",New Jersey Nets,Indiana Pacers,"2-2, 0-1 Home","1-3, 1-2 Away",105,108,NULL,NULL,Final/OT,NULL,31,19,27,20,8,17,30,23,27,11,NBA
+2,131116011,1993,"Tue, Nov 16",Indiana Pacers,Charlotte Hornets,"1-5, 0-3 Home","4-2, 3-1 Away",93,102,NULL,NULL,Final,NULL,34,19,18,22,NULL,21,17,29,35,NULL,NBA
+3,131120011,1993,"Sat, Nov 20",Indiana Pacers,Boston Celtics,"2-6, 1-4 Home","6-3, 3-1 Away",100,94,NULL,NULL,Final,NULL,19,31,25,25,NULL,25,17,26,26,NULL,NBA
+4,131124011,1993,"Wed, Nov 24",Indiana Pacers,Philadelphia 76ers,"3-7, 1-5 Home","4-7, 2-4 Away",97,108,NULL,NULL,Final,NULL,39,20,18,20,NULL,28,30,21,29,NULL,NBA
+5,131129023,1993,"Mon, Nov 29",Sacramento Kings,Indiana Pacers,"4-9, 4-3 Home","4-8, 3-2 Away",103,105,NULL,NULL,Final,NULL,35,33,20,15,NULL,27,19,31,28,NULL,NBA
+6,131202026,1993,"Thu, Dec 2",Utah Jazz,Indiana Pacers,"10-5, 6-2 Home","5-9, 4-3 Away",103,87,NULL,NULL,Final,NULL,32,18,25,28,NULL,25,23,18,21,NULL,NBA
+7,131207011,1993,"Tue, Dec 7",Indiana Pacers,Sacramento Kings,"6-10, 2-6 Home","4-12, 0-8 Away",105,87,NULL,NULL,Final,NULL,30,21,26,28,NULL,22,32,20,13,NULL,NBA
+8,131211018,1993,"Sat, Dec 11",New York Knicks,Indiana Pacers,"13-4, 6-2 Home","7-11, 4-5 Away",98,91,NULL,NULL,Final,NULL,22,27,23,26,NULL,13,31,22,25,NULL,NBA
+9,131216001,1993,"Thu, Dec 16",Atlanta Hawks,Indiana Pacers,"15-5, 9-1 Home","9-11, 5-5 Away",81,99,NULL,NULL,Final,NULL,32,17,17,15,NULL,19,26,27,27,NULL,NBA
+10,131220021,1993,"Mon, Dec 20",Phoenix Suns,Indiana Pacers,"17-4, 11-1 Home","10-12, 5-6 Away",102,94,NULL,NULL,Final,NULL,27,23,26,26,NULL,30,23,23,18,NULL,NBA
+11,131223022,1993,"Thu, Dec 23",Portland Trail Blazers,Indiana Pacers,"16-10, 10-3 Home","10-14, 5-8 Away",108,96,NULL,NULL,Final,NULL,28,33,23,24,NULL,20,26,32,18,NULL,NBA
+12,131230011,1993,"Thu, Dec 30",Indiana Pacers,San Antonio Spurs,"10-16, 5-7 Home","18-11, 8-7 Away",82,107,NULL,NULL,Final,NULL,19,21,14,28,NULL,20,28,29,30,NULL,NBA
+13,140105027,1993,"Wed, Jan 5",Washington Bullets,Indiana Pacers,"9-20, 6-8 Home","11-17, 5-10 Away",97,95,NULL,NULL,Final,NULL,32,24,13,28,NULL,24,32,25,14,NULL,NBA
+14,140111015,1993,"Tue, Jan 11",Milwaukee Bucks,Indiana Pacers,"9-23, 3-12 Home","13-17, 7-10 Away",76,82,NULL,NULL,Final,NULL,21,20,17,18,NULL,23,23,16,20,NULL,NBA
+15,140114020,1993,"Fri, Jan 14",Philadelphia 76ers,Indiana Pacers,"15-19, 9-8 Home","14-18, 7-11 Away",104,102,NULL,NULL,Final/OT,NULL,22,32,26,13,11,21,27,25,20,9,NBA
+16,140119011,1993,"Wed, Jan 19",Indiana Pacers,Miami Heat,"16-18, 9-7 Home","16-19, 8-9 Away",109,92,NULL,NULL,Final,NULL,30,27,22,30,NULL,13,28,20,31,NULL,NBA
+17,140122011,1993,"Sat, Jan 22",Indiana Pacers,Chicago Bulls,"16-20, 9-8 Home","27-11, 10-9 Away",81,90,NULL,NULL,Final,NULL,25,13,23,20,NULL,23,21,28,18,NULL,NBA
+18,140126013,1993,"Wed, Jan 26",Los Angeles Lakers,Indiana Pacers,"13-26, 7-11 Home","16-22, 7-13 Away",103,99,NULL,NULL,Final,NULL,29,22,20,32,NULL,24,25,29,21,NULL,NBA
+19,140129010,1993,"Sat, Jan 29",Houston Rockets,Indiana Pacers,"31-10, 15-3 Home","17-23, 8-14 Away",108,119,NULL,NULL,Final,NULL,24,29,26,29,NULL,29,28,32,30,NULL,NBA
+20,140202003,1993,"Wed, Feb 2",Charlotte Hornets,Indiana Pacers,"22-21, 15-6 Home","19-23, 9-14 Away",112,124,NULL,NULL,Final,NULL,19,31,33,29,NULL,33,47,29,15,NULL,NBA
+21,140205011,1993,"Sat, Feb 5",Indiana Pacers,Charlotte Hornets,"21-23, 12-9 Home","22-23, 7-16 Away",111,102,NULL,NULL,Final,NULL,31,29,25,26,NULL,21,26,27,28,NULL,NBA
+22,140209014,1993,"Wed, Feb 9",Miami Heat,Indiana Pacers,"23-23, 11-13 Home","23-23, 10-14 Away",98,102,NULL,NULL,Final,NULL,27,27,23,21,NULL,28,18,27,29,NULL,NBA
+23,140217006,1993,"Thu, Feb 17",Dallas Mavericks,Indiana Pacers,"6-45, 3-23 Home","24-24, 11-15 Away",73,84,NULL,NULL,Final,NULL,17,18,16,22,NULL,16,21,22,25,NULL,NBA
+24,140222011,1993,"Tue, Feb 22",Indiana Pacers,Dallas Mavericks,"26-24, 15-9 Home","7-47, 4-23 Away",107,101,NULL,NULL,Final,NULL,23,32,21,31,NULL,23,26,23,29,NULL,NBA
+25,140225011,1993,"Fri, Feb 25",Indiana Pacers,Detroit Pistons,"27-25, 16-9 Home","13-40, 6-19 Away",110,90,NULL,NULL,Final,NULL,34,25,28,23,NULL,26,12,26,26,NULL,NBA
+26,140301011,1993,"Tue, Mar 1",Indiana Pacers,Portland Trail Blazers,"29-25, 17-9 Home","34-22, 10-16 Away",106,94,NULL,NULL,Final,NULL,20,28,33,25,NULL,22,25,23,24,NULL,NBA
+27,140305001,1993,"Sat, Mar 5",Atlanta Hawks,Indiana Pacers,"41-16, 26-3 Home","30-26, 12-17 Away",90,88,NULL,NULL,Final,NULL,23,16,28,23,NULL,26,25,18,19,NULL,NBA
+28,140311017,1993,"Fri, Mar 11",New Jersey Nets,Indiana Pacers,"31-29, 20-10 Home","31-27, 13-18 Away",87,73,NULL,NULL,Final,NULL,27,18,19,23,NULL,24,16,20,13,NULL,NBA
+29,140315018,1993,"Tue, Mar 15",New York Knicks,Indiana Pacers,"43-19, 24-7 Home","32-28, 13-19 Away",88,82,NULL,NULL,Final,NULL,27,21,22,18,NULL,27,17,17,21,NULL,NBA
+30,140318011,1993,"Fri, Mar 18",Indiana Pacers,Atlanta Hawks,"33-29, 20-10 Home","44-19, 17-15 Away",78,81,NULL,NULL,Final,NULL,17,24,20,17,NULL,20,23,22,16,NULL,NBA
+31,140322005,1993,"Tue, Mar 22",Cleveland Cavaliers,Indiana Pacers,"37-29, 24-10 Home","34-30, 13-20 Away",93,61,NULL,NULL,Final,NULL,32,24,16,21,NULL,19,13,16,13,NULL,NBA
+32,140325011,1993,"Fri, Mar 25",Indiana Pacers,New York Knicks,"35-31, 22-11 Home","48-19, 21-12 Away",82,85,NULL,NULL,Final,NULL,14,24,19,25,NULL,22,23,21,19,NULL,NBA
+33,140328011,1993,"Mon, Mar 28",Indiana Pacers,Los Angeles Clippers,"36-32, 23-11 Home","25-43, 9-25 Away",126,93,NULL,NULL,Final,NULL,34,32,25,35,NULL,20,25,32,16,NULL,NBA
+34,140401014,1993,"Fri, Apr 1",Miami Heat,Indiana Pacers,"38-33, 19-16 Home","37-33, 14-22 Away",101,91,NULL,NULL,Final,NULL,24,29,20,28,NULL,22,21,29,19,NULL,NBA
+35,140405011,1993,"Tue, Apr 5",Indiana Pacers,Detroit Pistons,"39-33, 25-11 Home","20-52, 10-25 Away",105,89,NULL,NULL,Final,NULL,25,31,20,29,NULL,21,20,23,25,NULL,NBA
+36,140408011,1993,"Fri, Apr 8",Indiana Pacers,Chicago Bulls,"39-35, 25-12 Home","50-24, 22-16 Away",94,100,NULL,NULL,Final,NULL,22,23,26,23,NULL,25,28,21,26,NULL,NBA
+37,140413020,1993,"Wed, Apr 13",Philadelphia 76ers,Indiana Pacers,"24-53, 14-25 Home","41-35, 15-23 Away",87,115,NULL,NULL,Final,NULL,25,19,25,18,NULL,27,31,30,27,NULL,NBA
+38,140417008,1993,"Sun, Apr 17",Detroit Pistons,Indiana Pacers,"20-58, 10-30 Home","43-35, 17-23 Away",99,104,NULL,NULL,Final,NULL,25,25,22,27,NULL,24,19,29,32,NULL,NBA
+39,140420011,1993,"Wed, Apr 20",Indiana Pacers,Cleveland Cavaliers,"45-35, 27-12 Home","45-35, 16-25 Away",109,98,NULL,NULL,Final,NULL,26,29,27,27,NULL,28,22,27,21,NULL,NBA
+40,131105001,1993,"Fri, Nov 5",Atlanta Hawks,Indiana Pacers,"1-0, 1-0 Home","0-1, 0-1 Away",116,110,NULL,NULL,Final,NULL,32,28,30,26,NULL,32,23,24,31,NULL,NBA
+41,131109019,1993,"Tue, Nov 9",Orlando Magic,Indiana Pacers,"3-0, 2-0 Home","0-3, 0-2 Away",104,98,NULL,NULL,Final,NULL,28,28,20,28,NULL,32,25,21,20,NULL,NBA
+42,131112011,1993,"Fri, Nov 12",Indiana Pacers,New York Knicks,"1-4, 0-2 Home","5-0, 4-0 Away",84,103,NULL,NULL,Final,NULL,32,18,16,18,NULL,25,26,21,31,NULL,NBA
+43,131118011,1993,"Thu, Nov 18",Indiana Pacers,Houston Rockets,"1-6, 0-4 Home","8-0, 5-0 Away",83,99,NULL,NULL,Final,NULL,18,22,29,14,NULL,27,16,33,23,NULL,NBA
+44,131122002,1993,"Mon, Nov 22",Boston Celtics,Indiana Pacers,"6-4, 3-3 Home","3-6, 2-2 Away",71,102,NULL,NULL,Final,NULL,13,23,27,8,NULL,23,32,27,20,NULL,NBA
+45,131126011,1993,"Fri, Nov 26",Indiana Pacers,Los Angeles Lakers,"3-8, 1-6 Home","4-9, 1-6 Away",100,102,NULL,NULL,Final,NULL,32,22,17,29,NULL,28,29,24,21,NULL,NBA
+46,131201012,1993,"Wed, Dec 1",Los Angeles Clippers,Indiana Pacers,"6-7, 5-3 Home","5-8, 4-2 Away",100,120,NULL,NULL,Final,NULL,28,24,29,19,NULL,21,37,25,37,NULL,NBA
+47,131204009,1993,"Sat, Dec 4",Golden State Warriors,Indiana Pacers,"8-7, 3-5 Home","5-10, 4-4 Away",99,92,NULL,NULL,Final,NULL,21,30,25,23,NULL,33,16,23,20,NULL,NBA
+48,131209011,1993,"Thu, Dec 9",Indiana Pacers,Orlando Magic,"7-10, 3-6 Home","9-7, 3-5 Away",111,105,NULL,NULL,Final,NULL,26,25,31,29,NULL,31,17,26,31,NULL,NBA
+49,131214011,1993,"Tue, Dec 14",Indiana Pacers,Washington Bullets,"8-11, 4-6 Home","6-14, 1-9 Away",106,87,NULL,NULL,Final,NULL,30,28,30,18,NULL,23,22,25,17,NULL,NBA
+50,131218011,1993,"Sat, Dec 18",Indiana Pacers,New Jersey Nets,"10-11, 5-6 Home","8-14, 2-8 Away",108,98,NULL,NULL,Final,NULL,22,26,29,31,NULL,23,26,26,23,NULL,NBA
+51,131221025,1993,"Tue, Dec 21",Seattle SuperSonics,Indiana Pacers,"20-2, 12-0 Home","10-13, 5-7 Away",91,88,NULL,NULL,Final,NULL,22,22,26,21,NULL,25,22,22,19,NULL,NBA
+52,131226005,1993,"Sun, Dec 26",Cleveland Cavaliers,Indiana Pacers,"11-14, 9-5 Home","10-15, 5-9 Away",107,103,NULL,NULL,Final/OT,NULL,27,23,23,20,14,20,29,20,24,10,NBA
+53,140104011,1993,"Tue, Jan 4",Indiana Pacers,Cleveland Cavaliers,"11-16, 6-7 Home","12-16, 2-11 Away",104,99,NULL,NULL,Final,NULL,21,19,34,30,NULL,24,26,23,26,NULL,NBA
+54,140108008,1993,"Sat, Jan 8",Detroit Pistons,Indiana Pacers,"8-22, 5-12 Home","12-17, 6-10 Away",92,101,NULL,NULL,Final,NULL,23,27,24,18,NULL,26,27,24,24,NULL,NBA
+55,140112011,1993,"Wed, Jan 12",Indiana Pacers,Denver Nuggets,"14-17, 7-7 Home","16-18, 5-13 Away",107,96,NULL,NULL,Final,NULL,21,30,24,32,NULL,22,25,27,22,NULL,NBA
+56,140115011,1993,"Sat, Jan 15",Indiana Pacers,Atlanta Hawks,"15-18, 8-7 Home","24-8, 8-7 Away",94,91,NULL,NULL,Final,NULL,22,30,20,22,NULL,17,29,26,19,NULL,NBA
+57,140121004,1993,"Fri, Jan 21",Chicago Bulls,Indiana Pacers,"26-11, 17-2 Home","16-19, 7-12 Away",96,95,NULL,NULL,Final,NULL,20,23,27,26,NULL,29,23,25,18,NULL,NBA
+58,140124011,1993,"Mon, Jan 24",Indiana Pacers,Milwaukee Bucks,"16-21, 9-9 Home","12-27, 7-13 Away",88,96,NULL,NULL,Final,NULL,24,19,23,22,NULL,21,22,21,32,NULL,NBA
+59,140127007,1993,"Thu, Jan 27",Denver Nuggets,Indiana Pacers,"19-21, 14-6 Home","16-23, 7-14 Away",113,106,NULL,NULL,Final,NULL,29,31,25,28,NULL,28,24,21,33,NULL,NBA
+60,140201011,1993,"Tue, Feb 1",Indiana Pacers,Washington Bullets,"18-23, 10-9 Home","14-28, 4-17 Away",116,96,NULL,NULL,Final,NULL,29,28,24,35,NULL,23,19,29,25,NULL,NBA
+61,140204011,1993,"Fri, Feb 4",Indiana Pacers,Minnesota Timberwolves,"20-23, 11-9 Home","14-29, 6-15 Away",114,93,NULL,NULL,Final,NULL,36,26,27,25,NULL,32,19,23,19,NULL,NBA
+62,140207011,1993,"Mon, Feb 7",Indiana Pacers,Golden State Warriors,"22-23, 13-9 Home","25-20, 12-10 Away",104,99,NULL,NULL,Final,NULL,27,27,22,28,NULL,28,29,19,23,NULL,NBA
+63,140215024,1993,"Tue, Feb 15",San Antonio Spurs,Indiana Pacers,"36-14, 21-4 Home","23-24, 10-15 Away",109,100,NULL,NULL,Final,NULL,34,24,24,27,NULL,24,18,29,29,NULL,NBA
+64,140220011,1993,"Sun, Feb 20",Indiana Pacers,Seattle SuperSonics,"25-24, 14-9 Home","36-13, 16-10 Away",101,95,NULL,NULL,Final,NULL,31,22,23,25,NULL,26,28,17,24,NULL,NBA
+65,140223019,1993,"Wed, Feb 23",Orlando Magic,Indiana Pacers,"31-20, 19-7 Home","26-25, 11-16 Away",103,99,NULL,NULL,Final,NULL,32,34,15,22,NULL,26,27,22,24,NULL,NBA
+66,140226004,1993,"Sat, Feb 26",Chicago Bulls,Indiana Pacers,"37-17, 20-5 Home","28-25, 12-16 Away",86,96,NULL,NULL,Final,NULL,18,15,24,29,NULL,27,20,27,22,NULL,NBA
+67,140304011,1993,"Fri, Mar 4",Indiana Pacers,New Jersey Nets,"30-25, 18-9 Home","29-28, 11-18 Away",126,110,NULL,NULL,Final,NULL,33,32,31,30,NULL,26,29,23,32,NULL,NBA
+68,140309015,1993,"Wed, Mar 9",Milwaukee Bucks,Indiana Pacers,"17-42, 8-24 Home","31-26, 13-17 Away",94,105,NULL,NULL,Final,NULL,27,23,21,23,NULL,28,23,22,32,NULL,NBA
+69,140312011,1993,"Sat, Mar 12",Indiana Pacers,Milwaukee Bucks,"32-27, 19-9 Home","17-44, 9-19 Away",104,97,NULL,NULL,Final,NULL,26,31,28,19,NULL,26,20,23,28,NULL,NBA
+70,140316011,1993,"Wed, Mar 16",Indiana Pacers,Phoenix Suns,"33-28, 20-9 Home","41-21, 16-17 Away",109,98,NULL,NULL,Final,NULL,30,18,32,29,NULL,34,20,20,24,NULL,NBA
+71,140319011,1993,"Sat, Mar 19",Indiana Pacers,Utah Jazz,"34-29, 21-10 Home","43-23, 17-17 Away",107,103,NULL,NULL,Final,NULL,24,28,30,25,NULL,14,22,31,36,NULL,NBA
+72,140323011,1993,"Wed, Mar 23",Indiana Pacers,Cleveland Cavaliers,"35-30, 22-10 Home","37-30, 13-20 Away",78,77,NULL,NULL,Final,NULL,18,22,20,18,NULL,16,11,28,22,NULL,NBA
+73,140326004,1993,"Sat, Mar 26",Chicago Bulls,Indiana Pacers,"45-24, 25-8 Home","35-32, 13-21 Away",90,88,NULL,NULL,Final,NULL,31,27,20,12,NULL,18,28,25,17,NULL,NBA
+74,140330002,1993,"Wed, Mar 30",Boston Celtics,Indiana Pacers,"25-43, 14-21 Home","37-32, 14-21 Away",99,103,NULL,NULL,Final,NULL,34,19,29,17,NULL,26,27,31,19,NULL,NBA
+75,140402011,1993,"Sat, Apr 2",Indiana Pacers,Orlando Magic,"38-33, 24-11 Home","42-29, 16-20 Away",128,113,NULL,NULL,Final,NULL,27,34,33,34,NULL,25,33,24,31,NULL,NBA
+76,140406003,1993,"Wed, Apr 6",Charlotte Hornets,Indiana Pacers,"33-39, 23-12 Home","39-34, 14-23 Away",129,90,NULL,NULL,Final,NULL,31,36,29,33,NULL,22,30,18,20,NULL,NBA
+77,140411011,1993,"Mon, Apr 11",Indiana Pacers,Boston Celtics,"40-35, 26-12 Home","28-47, 13-25 Away",121,108,NULL,NULL,Final,NULL,29,28,26,38,NULL,26,25,28,29,NULL,NBA
+78,140415016,1993,"Fri, Apr 15",Minnesota Timberwolves,Indiana Pacers,"20-57, 13-26 Home","42-35, 16-23 Away",112,130,NULL,NULL,Final,NULL,25,22,35,30,NULL,44,25,29,32,NULL,NBA
+79,140419027,1993,"Tue, Apr 19",Washington Bullets,Indiana Pacers,"23-56, 16-24 Home","44-35, 18-23 Away",110,111,NULL,NULL,Final,NULL,29,26,18,37,NULL,34,26,31,20,NULL,NBA
+80,140422011,1993,"Fri, Apr 22",Indiana Pacers,Philadelphia 76ers,"46-35, 28-12 Home","24-57, 10-31 Away",133,88,NULL,NULL,Final,NULL,32,40,39,22,NULL,17,27,22,22,NULL,NBA
+81,140423011,1993,"Sat, Apr 23",Indiana Pacers,Miami Heat,"47-35, 29-12 Home","42-40, 20-21 Away",114,81,NULL,NULL,Final,NULL,29,28,33,24,NULL,24,19,15,23,NULL,NBA

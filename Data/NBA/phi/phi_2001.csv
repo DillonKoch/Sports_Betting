@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,201101020,2001,"Wed, Nov 1",Philadelphia 76ers,Toronto Raptors,"2-0, 1-0 Home","0-2, 0-1 Away",104,98,NULL,NULL,Final,CSN,25,34,16,29,NULL,31,22,20,25,NULL,NBA
+1,201104014,2001,"Sat, Nov 4",Miami Heat,Philadelphia 76ers,"1-2, 1-1 Home","4-0, 3-0 Away",82,84,NULL,NULL,Final,NULL,24,25,15,18,NULL,21,20,27,16,NULL,NBA
+2,201109016,2001,"Thu, Nov 9",Minnesota Timberwolves,Philadelphia 76ers,"2-4, 1-1 Home","6-0, 4-0 Away",82,84,NULL,NULL,Final,NULL,17,19,17,29,NULL,16,14,24,30,NULL,NBA
+3,201115020,2001,"Wed, Nov 15",Philadelphia 76ers,Cleveland Cavaliers,"8-0, 4-0 Home","6-2, 2-2 Away",107,98,NULL,NULL,Final,CSN,24,28,29,26,NULL,31,22,18,27,NULL,NBA
+4,201120002,2001,"Mon, Nov 20",Boston Celtics,Philadelphia 76ers,"4-6, 4-2 Home","10-0, 5-0 Away",90,114,NULL,NULL,Final,CSN,21,23,24,22,NULL,27,32,27,28,NULL,NBA
+5,201124001,2001,"Fri, Nov 24",Atlanta Hawks,Philadelphia 76ers,"2-11, 2-4 Home","11-1, 6-1 Away",67,76,NULL,NULL,Final,CSN,17,22,14,14,NULL,25,15,22,14,NULL,NBA
+6,201129020,2001,"Wed, Nov 29",Philadelphia 76ers,Washington Wizards,"12-2, 6-0 Home","4-12, 2-6 Away",93,87,NULL,NULL,Final,CSN,28,24,24,17,NULL,19,24,22,22,NULL,NBA
+7,201202005,2001,"Sat, Dec 2",Cleveland Cavaliers,Philadelphia 76ers,"9-7, 6-2 Home","14-2, 7-2 Away",78,112,NULL,NULL,Final,CSN,20,19,15,24,NULL,27,31,27,27,NULL,NBA
+8,201205013,2001,"Tue, Dec 5",Los Angeles Lakers,Philadelphia 76ers,"14-5, 10-1 Home","14-4, 7-4 Away",96,85,NULL,NULL,Final,NULL,17,26,21,32,NULL,18,20,19,28,NULL,NBA
+9,201209029,2001,"Sat, Dec 9",Vancouver Grizzlies,Philadelphia 76ers,"7-13, 4-7 Home","16-4, 9-4 Away",79,83,NULL,NULL,Final,CSN,13,30,27,9,NULL,20,26,17,20,NULL,NBA
+10,201213027,2001,"Wed, Dec 13",Washington Wizards,Philadelphia 76ers,"4-18, 2-9 Home","17-5, 10-4 Away",82,102,NULL,NULL,Final,CSN,25,13,24,20,NULL,27,22,28,25,NULL,NBA
+11,201216004,2001,"Sat, Dec 16",Chicago Bulls,Philadelphia 76ers,"3-21, 1-10 Home","18-6, 11-4 Away",91,99,NULL,NULL,Final,NULL,19,22,32,18,NULL,18,34,24,23,NULL,NBA
+12,201222020,2001,"Fri, Dec 22",Philadelphia 76ers,New York Knicks,"18-8, 7-4 Home","16-12, 8-6 Away",71,91,NULL,NULL,Final,CSN,16,23,11,21,NULL,23,18,30,20,NULL,NBA
+13,201227009,2001,"Wed, Dec 27",Golden State Warriors,Philadelphia 76ers,"8-20, 6-9 Home","20-8, 13-4 Away",110,118,NULL,NULL,Final,CSN,26,31,26,27,NULL,27,25,29,37,NULL,NBA
+14,210103020,2001,"Wed, Jan 3",Philadelphia 76ers,Atlanta Hawks,"22-8, 8-4 Home","11-21, 4-13 Away",98,80,NULL,NULL,Final,CSN,28,32,23,15,NULL,18,15,22,25,NULL,NBA
+15,210106005,2001,"Sat, Jan 6",Cleveland Cavaliers,Philadelphia 76ers,"16-15, 10-5 Home","24-8, 15-4 Away",103,107,NULL,NULL,Final,NULL,25,23,27,28,NULL,27,29,27,24,NULL,NBA
+16,210110020,2001,"Wed, Jan 10",Philadelphia 76ers,Portland Trail Blazers,"25-9, 9-5 Home","26-10, 12-7 Away",75,93,NULL,NULL,Final,CSN,18,23,24,10,NULL,25,22,23,23,NULL,NBA
+17,210113020,2001,"Sat, Jan 13",Philadelphia 76ers,San Antonio Spurs,"27-9, 10-5 Home","23-12, 8-10 Away",100,83,NULL,NULL,Final,CSN,28,26,22,24,NULL,27,21,16,19,NULL,NBA
+18,210117020,2001,"Wed, Jan 17",Philadelphia 76ers,Chicago Bulls,"29-9, 12-5 Home","6-32, 2-18 Away",99,88,NULL,NULL,Final,CSN,26,29,22,22,NULL,27,24,23,14,NULL,NBA
+19,210121020,2001,"Sun, Jan 21",Philadelphia 76ers,Toronto Raptors,"30-10, 13-6 Home","22-19, 10-11 Away",106,110,NULL,NULL,Final/OT,NULL,38,22,19,17,10,22,22,34,18,14,NBA
+20,210124010,2001,"Wed, Jan 24",Houston Rockets,Philadelphia 76ers,"20-22, 9-11 Home","32-10, 19-4 Away",84,85,NULL,NULL,Final/OT,CSN,16,16,27,11,14,20,12,19,19,15,NBA
+21,210128011,2001,"Sun, Jan 28",Indiana Pacers,Philadelphia 76ers,"20-23, 11-9 Home","34-10, 20-4 Away",81,86,NULL,NULL,Final,NULL,18,16,23,24,NULL,19,18,18,31,NULL,NBA
+22,210201018,2001,"Thu, Feb 1",New York Knicks,Philadelphia 76ers,"26-17, 14-9 Home","35-11, 21-5 Away",80,87,NULL,NULL,Final,NULL,18,19,24,19,NULL,22,24,23,18,NULL,NBA
+23,210204017,2001,"Sun, Feb 4",New Jersey Nets,Philadelphia 76ers,"15-34, 9-16 Home","35-13, 21-6 Away",96,89,NULL,NULL,Final,CSN,22,21,19,34,NULL,20,28,24,17,NULL,NBA
+24,210207020,2001,"Wed, Feb 7",Philadelphia 76ers,Houston Rockets,"36-14, 15-8 Home","24-25, 13-12 Away",87,112,NULL,NULL,Final,CSN,21,21,27,18,NULL,26,26,29,31,NULL,NBA
+25,210214020,2001,"Wed, Feb 14",Philadelphia 76ers,Los Angeles Lakers,"38-14, 16-8 Home","32-17, 12-11 Away",112,97,NULL,NULL,Final,CSN,29,26,27,30,NULL,25,23,22,27,NULL,NBA
+26,210218020,2001,"Sun, Feb 18",Philadelphia 76ers,Phoenix Suns,"40-14, 18-8 Home","30-21, 11-14 Away",104,98,NULL,NULL,Final,NULL,26,28,26,24,NULL,32,15,24,27,NULL,NBA
+27,210223008,2001,"Fri, Feb 23",Detroit Pistons,Philadelphia 76ers,"21-34, 11-17 Home","42-14, 23-6 Away",78,99,NULL,NULL,Final,CSN,27,12,20,19,NULL,36,25,15,23,NULL,NBA
+28,210226020,2001,"Mon, Feb 26",Philadelphia 76ers,Milwaukee Bucks,"42-16, 19-9 Home","35-20, 13-12 Away",91,98,NULL,NULL,Final,CSN,14,25,21,31,NULL,24,22,21,31,NULL,NBA
+29,210302020,2001,"Fri, Mar 2",Philadelphia 76ers,Washington Wizards,"44-16, 21-9 Home","13-46, 5-26 Away",107,102,NULL,NULL,Final,CSN,32,27,25,23,NULL,28,18,28,28,NULL,NBA
+30,210309020,2001,"Fri, Mar 9",Philadelphia 76ers,Atlanta Hawks,"46-16, 23-9 Home","18-45, 7-26 Away",108,103,NULL,NULL,Final,CSN,33,22,30,23,NULL,28,24,18,33,NULL,NBA
+31,210314004,2001,"Wed, Mar 14",Chicago Bulls,Philadelphia 76ers,"11-52, 9-22 Home","48-16, 25-7 Away",67,85,NULL,NULL,Final,CSN,13,15,15,24,NULL,25,27,14,19,NULL,NBA
+32,210317015,2001,"Sat, Mar 17",Milwaukee Bucks,Philadelphia 76ers,"40-25, 24-10 Home","48-18, 25-8 Away",87,78,NULL,NULL,Final,CSN,17,24,24,22,NULL,22,21,19,16,NULL,NBA
+33,210320012,2001,"Tue, Mar 20",Los Angeles Clippers,Philadelphia 76ers,"24-45, 16-18 Home","48-20, 25-10 Away",88,77,NULL,NULL,Final,CSN,26,18,29,15,NULL,25,21,16,15,NULL,NBA
+34,210326020,2001,"Mon, Mar 26",Philadelphia 76ers,Milwaukee Bucks,"49-21, 24-10 Home","44-26, 17-16 Away",90,78,NULL,NULL,Final,CSN,19,26,30,15,NULL,25,17,17,19,NULL,NBA
+35,210330020,2001,"Fri, Mar 30",Philadelphia 76ers,Golden State Warriors,"50-22, 25-11 Home","17-55, 6-31 Away",102,89,NULL,NULL,Final,CSN,23,24,30,25,NULL,19,23,19,28,NULL,NBA
+36,210403028,2001,"Tue, Apr 3",Toronto Raptors,Philadelphia 76ers,"41-33, 24-14 Home","51-23, 25-12 Away",100,85,NULL,NULL,Final,NULL,28,35,19,18,NULL,21,18,17,29,NULL,NBA
+37,210406020,2001,"Fri, Apr 6",Philadelphia 76ers,Cleveland Cavaliers,"53-23, 27-11 Home","26-49, 8-30 Away",96,88,NULL,NULL,Final,CSN,25,27,23,21,NULL,21,27,19,21,NULL,NBA
+38,210410014,2001,"Tue, Apr 10",Miami Heat,Philadelphia 76ers,"47-30, 28-11 Home","54-24, 26-13 Away",83,81,NULL,NULL,Final,NULL,19,23,13,28,NULL,19,13,22,27,NULL,NBA
+39,210415020,2001,"Sun, Apr 15",Philadelphia 76ers,New York Knicks,"55-25, 29-11 Home","47-33, 18-22 Away",89,82,NULL,NULL,Final,CSN,19,25,26,19,NULL,22,19,19,22,NULL,NBA
+40,201031018,2001,"Tue, Oct 31",New York Knicks,Philadelphia 76ers,"0-1, 0-1 Home","1-0, 1-0 Away",72,101,NULL,NULL,Final,CSN,23,18,13,18,NULL,26,25,29,21,NULL,NBA
+41,201103019,2001,"Fri, Nov 3",Orlando Magic,Philadelphia 76ers,"1-2, 1-1 Home","3-0, 2-0 Away",80,87,NULL,NULL,Final,CSN,20,24,22,14,NULL,24,25,18,20,NULL,NBA
+42,201108020,2001,"Wed, Nov 8",Philadelphia 76ers,Detroit Pistons,"5-0, 2-0 Home","1-4, 1-3 Away",103,94,NULL,NULL,Final,CSN,24,31,22,26,NULL,13,18,31,32,NULL,NBA
+43,201111020,2001,"Sat, Nov 11",Philadelphia 76ers,Boston Celtics,"7-0, 3-0 Home","2-4, 0-3 Away",85,83,NULL,NULL,Final,CSN,12,23,21,29,NULL,19,21,16,27,NULL,NBA
+44,201117020,2001,"Fri, Nov 17",Philadelphia 76ers,Miami Heat,"9-0, 5-0 Home","4-5, 1-4 Away",94,73,NULL,NULL,Final,CSN,19,24,29,22,NULL,24,23,14,12,NULL,NBA
+45,201122003,2001,"Wed, Nov 22",Charlotte Hornets,Philadelphia 76ers,"7-6, 2-3 Home","10-1, 5-1 Away",88,73,NULL,NULL,Final,NULL,19,23,27,19,NULL,18,14,21,20,NULL,NBA
+46,201125024,2001,"Sat, Nov 25",San Antonio Spurs,Philadelphia 76ers,"9-4, 7-0 Home","11-2, 6-2 Away",96,76,NULL,NULL,Final,CSN,29,30,17,20,NULL,16,21,17,22,NULL,NBA
+47,201201020,2001,"Fri, Dec 1",Philadelphia 76ers,Charlotte Hornets,"13-2, 7-0 Home","10-7, 6-4 Away",95,74,NULL,NULL,Final,CSN,22,22,26,25,NULL,20,16,19,19,NULL,NBA
+48,201204007,2001,"Mon, Dec 4",Denver Nuggets,Philadelphia 76ers,"10-8, 8-3 Home","14-3, 7-3 Away",105,98,NULL,NULL,Final,CSN,25,29,31,20,NULL,31,23,24,20,NULL,NBA
+49,201208022,2001,"Fri, Dec 8",Portland Trail Blazers,Philadelphia 76ers,"13-8, 6-3 Home","15-4, 8-4 Away",94,107,NULL,NULL,Final,CSN,30,28,15,21,NULL,32,33,20,22,NULL,NBA
+50,201211020,2001,"Mon, Dec 11",Philadelphia 76ers,Minnesota Timberwolves,"16-5, 7-1 Home","13-8, 6-6 Away",91,96,NULL,NULL,Final/OT,CSN,32,17,19,16,7,22,23,24,15,12,NBA
+51,201215020,2001,"Fri, Dec 15",Philadelphia 76ers,Dallas Mavericks,"17-6, 7-2 Home","15-10, 8-7 Away",94,112,NULL,NULL,Final,CSN,30,27,23,14,NULL,27,35,30,20,NULL,NBA
+52,201220020,2001,"Wed, Dec 20",Philadelphia 76ers,Utah Jazz,"18-7, 7-3 Home","18-8, 9-4 Away",89,91,NULL,NULL,Final,CSN,28,19,21,21,NULL,14,24,23,30,NULL,NBA
+53,201226026,2001,"Tue, Dec 26",Utah Jazz,Philadelphia 76ers,"20-9, 9-5 Home","19-8, 12-4 Away",91,97,NULL,NULL,Final,CSN,17,23,23,28,0,23,28,26,20,0,NBA
+54,201230023,2001,"Sat, Dec 30",Sacramento Kings,Philadelphia 76ers,"20-8, 13-2 Home","21-8, 14-4 Away",104,107,NULL,NULL,Final/OT,NULL,19,27,20,32,6,35,19,29,15,9,NBA
+55,210105020,2001,"Fri, Jan 5",Philadelphia 76ers,Seattle SuperSonics,"23-8, 9-4 Home","17-17, 7-12 Away",121,89,NULL,NULL,Final,CSN,32,32,26,31,NULL,26,15,23,25,NULL,NBA
+56,210109017,2001,"Tue, Jan 9",New Jersey Nets,Philadelphia 76ers,"11-24, 6-13 Home","25-8, 16-4 Away",87,104,NULL,NULL,Final,CSN,20,24,21,22,NULL,26,29,25,24,NULL,NBA
+57,210112027,2001,"Fri, Jan 12",Washington Wizards,Philadelphia 76ers,"7-31, 4-14 Home","26-9, 17-4 Away",82,86,NULL,NULL,Final,NULL,15,23,18,26,NULL,19,24,27,16,NULL,NBA
+58,210115020,2001,"Mon, Jan 15",Philadelphia 76ers,Charlotte Hornets,"28-9, 11-5 Home","23-17, 10-13 Away",84,79,NULL,NULL,Final,CSN,23,18,23,20,NULL,22,23,16,18,NULL,NBA
+59,210119020,2001,"Fri, Jan 19",Philadelphia 76ers,New Jersey Nets,"30-9, 13-5 Home","13-27, 6-13 Away",97,86,NULL,NULL,Final,CSN,30,24,22,21,NULL,12,25,33,16,NULL,NBA
+60,210123006,2001,"Tue, Jan 23",Dallas Mavericks,Philadelphia 76ers,"27-17, 12-9 Home","31-10, 18-4 Away",98,114,NULL,NULL,Final,NULL,20,28,23,27,NULL,32,19,30,33,NULL,NBA
+61,210126020,2001,"Fri, Jan 26",Philadelphia 76ers,Detroit Pistons,"33-10, 14-6 Home","15-28, 7-15 Away",105,89,NULL,NULL,Final,CSN,25,33,15,32,NULL,21,20,26,22,NULL,NBA
+62,210130028,2001,"Tue, Jan 30",Toronto Raptors,Philadelphia 76ers,"24-21, 13-8 Home","34-11, 20-5 Away",96,89,NULL,NULL,Final,NULL,28,26,19,23,NULL,33,22,13,21,NULL,NBA
+63,210202020,2001,"Fri, Feb 2",Philadelphia 76ers,Orlando Magic,"35-12, 14-7 Home","22-23, 9-14 Away",117,123,NULL,NULL,Final/2OT,CSN,27,25,22,28,15,23,22,40,17,21,NBA
+64,210205020,2001,"Mon, Feb 5",Philadelphia 76ers,Denver Nuggets,"36-13, 15-7 Home","27-22, 7-16 Away",99,80,NULL,NULL,Final,CSN,31,28,16,24,NULL,17,28,18,17,NULL,NBA
+65,210213015,2001,"Tue, Feb 13",Milwaukee Bucks,Philadelphia 76ers,"29-19, 19-7 Home","37-14, 22-6 Away",104,107,NULL,NULL,Final,CSN,25,26,36,17,NULL,27,32,22,26,NULL,NBA
+66,210216020,2001,"Fri, Feb 16",Philadelphia 76ers,Los Angeles Clippers,"39-14, 17-8 Home","16-37, 5-21 Away",108,93,NULL,NULL,Final,CSN,36,19,24,29,NULL,18,27,23,25,NULL,NBA
+67,210221020,2001,"Wed, Feb 21",Philadelphia 76ers,Vancouver Grizzlies,"41-14, 19-8 Home","18-37, 6-20 Away",107,91,NULL,NULL,Final,CSN,22,29,29,27,NULL,29,21,24,17,NULL,NBA
+68,210224003,2001,"Sat, Feb 24",Charlotte Hornets,Philadelphia 76ers,"30-26, 17-9 Home","42-15, 23-7 Away",86,85,NULL,NULL,Final,NULL,19,22,23,22,NULL,21,21,16,27,NULL,NBA
+69,210228020,2001,"Wed, Feb 28",Philadelphia 76ers,Miami Heat,"43-16, 20-9 Home","34-24, 15-16 Away",79,69,NULL,NULL,Final,CSN,18,22,20,19,NULL,17,15,21,16,NULL,NBA
+70,210307020,2001,"Wed, Mar 7",Philadelphia 76ers,New Jersey Nets,"45-16, 22-9 Home","21-42, 7-24 Away",102,94,NULL,NULL,Final,CSN,26,26,23,27,NULL,29,27,23,15,NULL,NBA
+71,210311002,2001,"Sun, Mar 11",Boston Celtics,Philadelphia 76ers,"27-36, 18-16 Home","47-16, 24-7 Away",91,97,NULL,NULL,Final,NULL,23,28,15,25,NULL,29,21,23,24,NULL,NBA
+72,210316020,2001,"Fri, Mar 16",Philadelphia 76ers,Sacramento Kings,"48-17, 23-10 Home","44-20, 18-15 Away",79,100,NULL,NULL,Final,CSN,14,28,20,17,NULL,30,23,25,22,NULL,NBA
+73,210319025,2001,"Mon, Mar 19",Seattle SuperSonics,Philadelphia 76ers,"37-33, 19-13 Home","48-19, 25-9 Away",93,89,NULL,NULL,Final,NULL,19,26,24,24,NULL,22,26,18,23,NULL,NBA
+74,210323021,2001,"Fri, Mar 23",Phoenix Suns,Philadelphia 76ers,"41-27, 24-10 Home","48-21, 25-11 Away",84,71,NULL,NULL,Final,CSN,22,23,21,18,NULL,20,23,17,11,NULL,NBA
+75,210328020,2001,"Wed, Mar 28",Philadelphia 76ers,Orlando Magic,"49-22, 24-11 Home","39-32, 15-20 Away",95,96,NULL,NULL,Final,CSN,24,27,12,32,NULL,18,26,30,22,NULL,NBA
+76,210401020,2001,"Sun, Apr 1",Philadelphia 76ers,Indiana Pacers,"51-22, 26-11 Home","33-40, 12-26 Away",104,93,NULL,NULL,Final,NULL,25,29,23,27,NULL,18,24,21,30,NULL,NBA
+77,210404008,2001,"Wed, Apr 4",Detroit Pistons,Philadelphia 76ers,"28-47, 16-22 Home","52-23, 26-12 Away",84,90,NULL,NULL,Final,NULL,17,24,16,27,NULL,21,22,28,19,NULL,NBA
+78,210409020,2001,"Mon, Apr 9",Philadelphia 76ers,Boston Celtics,"54-23, 28-11 Home","35-43, 16-24 Away",108,95,NULL,NULL,Final,CSN,28,30,28,22,NULL,24,20,23,28,NULL,NBA
+79,210412019,2001,"Thu, Apr 12",Orlando Magic,Philadelphia 76ers,"42-36, 26-13 Home","54-25, 26-14 Away",101,77,NULL,NULL,Final,CSN,29,32,25,15,NULL,19,17,22,19,NULL,NBA
+80,210417011,2001,"Tue, Apr 17",Indiana Pacers,Philadelphia 76ers,"40-41, 26-15 Home","56-25, 27-14 Away",105,111,NULL,NULL,Final/OT,NULL,27,27,21,24,6,23,20,29,27,12,NBA
+81,210418020,2001,"Wed, Apr 18",Philadelphia 76ers,Chicago Bulls,"56-26, 29-12 Home","15-67, 5-36 Away",86,92,NULL,NULL,Final,NULL,20,23,22,21,NULL,22,28,19,23,NULL,NBA

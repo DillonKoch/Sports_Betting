@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,400974786,2018,"Sat, Oct 21",Denver Nuggets,Sacramento Kings,"1-1, 1-0 Home","1-2, 1-1 Away",96,79,NULL,NULL,Final,NULL,17,25,24,30,NULL,18,16,18,27,NULL,NBA
+1,400974806,2018,"Wed, Oct 25",Charlotte Hornets,Denver Nuggets,"2-2, 2-0 Home","1-3, 0-2 Away",110,93,NULL,NULL,Final,NULL,27,35,23,25,NULL,23,16,29,25,NULL,NBA
+2,400974838,2018,"Sun, Oct 29",Brooklyn Nets,Denver Nuggets,"3-4, 3-1 Home","3-3, 2-2 Away",111,124,NULL,NULL,Final,NULL,36,27,21,27,NULL,29,31,40,24,NULL,NBA
+3,400974865,2018,"Wed, Nov 1",Denver Nuggets,Toronto Raptors,"4-4, 2-1 Home","4-3, 2-3 Away",129,111,NULL,NULL,Final,NULL,34,26,43,26,NULL,19,27,25,40,NULL,NBA
+4,400974886,2018,"Sat, Nov 4",Denver Nuggets,Golden State Warriors,"5-5, 3-2 Home","7-3, 5-1 Away",108,127,NULL,NULL,Final,NULL,23,32,21,32,NULL,36,24,43,24,NULL,NBA
+5,400974919,2018,"Thu, Nov 9",Denver Nuggets,Oklahoma City Thunder,"7-5, 5-2 Home","4-7, 2-5 Away",102,94,NULL,NULL,Final,TNT,22,29,24,27,NULL,28,25,22,19,NULL,NBA
+6,400974949,2018,"Mon, Nov 13",Portland Trail Blazers,Denver Nuggets,"7-6, 5-4 Home","8-6, 2-4 Away",99,82,NULL,NULL,Final,NULL,25,29,30,15,NULL,21,28,17,16,NULL,NBA
+7,400974991,2018,"Sun, Nov 19",Los Angeles Lakers,Denver Nuggets,"7-10, 5-5 Home","9-7, 2-5 Away",127,109,NULL,NULL,Final,NULL,32,38,29,28,NULL,26,22,36,25,NULL,NBA
+8,400975010,2018,"Wed, Nov 22",Houston Rockets,Denver Nuggets,"14-4, 5-3 Home","10-8, 3-6 Away",125,95,NULL,NULL,Final,NULL,36,39,26,24,NULL,17,23,27,28,NULL,NBA
+9,400975052,2018,"Tue, Nov 28",Utah Jazz,Denver Nuggets,"10-11, 9-4 Home","11-9, 3-7 Away",106,77,NULL,NULL,Final,ESPN,26,22,28,30,NULL,24,25,17,11,NULL,NBA
+10,400975083,2018,"Sat, Dec 2",Denver Nuggets,Los Angeles Lakers,"13-9, 10-2 Home","8-14, 2-8 Away",115,100,NULL,NULL,Final,NULL,34,21,23,37,NULL,29,30,21,20,NULL,NBA
+11,400975111,2018,"Wed, Dec 6",New Orleans Pelicans,Denver Nuggets,"13-12, 6-6 Home","13-11, 3-9 Away",123,114,NULL,NULL,Final,NULL,33,34,30,26,NULL,33,33,25,23,NULL,NBA
+12,400975138,2018,"Sun, Dec 10",Indiana Pacers,Denver Nuggets,"16-11, 10-4 Home","14-12, 4-10 Away",126,116,NULL,NULL,Final/OT,NULL,22,37,31,24,12,35,31,22,26,2,NBA
+13,400975158,2018,"Wed, Dec 13",Boston Celtics,Denver Nuggets,"24-6, 13-2 Home","15-13, 5-11 Away",124,118,NULL,NULL,Final,NULL,30,38,29,27,NULL,31,28,33,26,NULL,NBA
+14,400975198,2018,"Mon, Dec 18",Oklahoma City Thunder,Denver Nuggets,"15-15, 10-4 Home","16-14, 5-12 Away",95,94,NULL,NULL,Final,NBATV,32,20,18,25,NULL,18,26,32,18,NULL,NBA
+15,400975229,2018,"Fri, Dec 22",Portland Trail Blazers,Denver Nuggets,"16-16, 7-10 Home","17-15, 6-12 Away",85,102,NULL,NULL,Final,NULL,22,19,25,19,NULL,28,24,28,22,NULL,NBA
+16,400975249,2018,"Tue, Dec 26",Denver Nuggets,Utah Jazz,"19-15, 12-3 Home","15-20, 3-14 Away",107,83,NULL,NULL,Final,NULL,28,22,26,31,NULL,20,14,25,24,NULL,NBA
+17,400975282,2018,"Sat, Dec 30",Denver Nuggets,Philadelphia 76ers,"19-17, 12-4 Home","16-19, 9-10 Away",102,107,NULL,NULL,Final,NBATV,29,32,19,22,NULL,31,27,25,24,NULL,NBA
+18,400975320,2018,"Fri, Jan 5",Denver Nuggets,Utah Jazz,"21-17, 14-4 Home","16-23, 3-16 Away",99,91,NULL,NULL,Final,NULL,23,23,38,15,NULL,26,23,16,26,NULL,NBA
+19,400975343,2018,"Mon, Jan 8",Golden State Warriors,Denver Nuggets,"33-8, 16-5 Home","21-19, 7-15 Away",124,114,NULL,NULL,Final,NULL,37,27,29,31,NULL,28,29,24,33,NULL,NBA
+20,400975371,2018,"Fri, Jan 12",Denver Nuggets,Memphis Grizzlies,"22-20, 15-5 Home","13-28, 5-15 Away",87,78,NULL,NULL,Final,NULL,16,27,24,20,NULL,26,21,13,18,NULL,NBA
+21,400975397,2018,"Tue, Jan 16",Denver Nuggets,Dallas Mavericks,"23-21, 16-5 Home","15-30, 6-15 Away",105,102,NULL,NULL,Final,NULL,30,31,25,19,NULL,27,21,21,33,NULL,NBA
+22,400975417,2018,"Fri, Jan 19",Denver Nuggets,Phoenix Suns,"23-23, 16-6 Home","17-29, 9-13 Away",100,108,NULL,NULL,Final,NULL,31,19,23,27,NULL,29,31,25,23,NULL,NBA
+23,400975458,2018,"Thu, Jan 25",Denver Nuggets,New York Knicks,"25-23, 18-6 Home","21-28, 6-19 Away",130,118,NULL,NULL,Final,NULL,39,34,26,31,NULL,28,32,32,26,NULL,NBA
+24,400975489,2018,"Mon, Jan 29",Denver Nuggets,Boston Celtics,"26-24, 19-7 Home","36-15, 18-7 Away",110,111,NULL,NULL,Final,NBATV,21,24,37,28,NULL,32,24,24,31,NULL,NBA
+25,400975511,2018,"Thu, Feb 1",Denver Nuggets,Oklahoma City Thunder,"27-25, 20-7 Home","30-22, 11-15 Away",127,124,NULL,NULL,Final,TNT,40,32,32,23,NULL,33,24,32,35,NULL,NBA
+26,400975540,2018,"Mon, Feb 5",Denver Nuggets,Charlotte Hornets,"29-25, 22-7 Home","23-30, 8-16 Away",121,104,NULL,NULL,Final,NULL,36,27,34,24,NULL,25,37,22,20,NULL,NBA
+27,400975578,2018,"Sat, Feb 10",Phoenix Suns,Denver Nuggets,"18-39, 9-21 Home","30-26, 8-19 Away",113,123,NULL,NULL,Final,NULL,23,37,29,24,NULL,28,34,32,29,NULL,NBA
+28,400975611,2018,"Thu, Feb 15",Milwaukee Bucks,Denver Nuggets,"32-25, 19-10 Home","32-26, 9-19 Away",123,134,NULL,NULL,Final,NULL,28,34,26,35,NULL,35,39,33,27,NULL,NBA
+29,400975642,2018,"Sun, Feb 25",Denver Nuggets,Houston Rockets,"33-27, 24-8 Home","46-13, 22-7 Away",114,119,NULL,NULL,Final,NULL,25,27,27,35,NULL,38,28,26,27,NULL,NBA
+30,400975677,2018,"Fri, Mar 2",Memphis Grizzlies,Denver Nuggets,"18-43, 13-20 Home","34-28, 10-19 Away",102,108,NULL,NULL,Final,NULL,29,25,26,22,NULL,35,28,28,17,NULL,NBA
+31,400975707,2018,"Tue, Mar 6",Dallas Mavericks,Denver Nuggets,"20-45, 13-21 Home","35-29, 11-20 Away",118,107,NULL,NULL,Final,NULL,29,29,38,22,NULL,25,37,23,22,NULL,NBA
+32,400975729,2018,"Fri, Mar 9",Denver Nuggets,Los Angeles Lakers,"36-30, 25-10 Home","29-36, 13-21 Away",125,116,NULL,NULL,Final,NULL,37,28,29,31,NULL,28,34,34,20,NULL,NBA
+33,400975761,2018,"Tue, Mar 13",Los Angeles Lakers,Denver Nuggets,"31-36, 18-15 Home","37-31, 11-21 Away",112,103,NULL,NULL,Final,NBATV,35,13,29,35,NULL,22,25,35,21,NULL,NBA
+34,400975786,2018,"Sat, Mar 17",Memphis Grizzlies,Denver Nuggets,"19-50, 14-23 Home","38-32, 11-22 Away",101,94,NULL,NULL,Final,NULL,34,19,31,17,NULL,17,31,27,19,NULL,NBA
+35,400975815,2018,"Wed, Mar 21",Chicago Bulls,Denver Nuggets,"24-47, 15-21 Home","39-33, 12-23 Away",102,135,NULL,NULL,Final,NULL,25,21,24,32,NULL,39,38,36,22,NULL,NBA
+36,400975851,2018,"Mon, Mar 26",Philadelphia 76ers,Denver Nuggets,"43-30, 25-11 Home","40-34, 13-24 Away",123,104,NULL,NULL,Final,NBATV,23,28,34,38,NULL,27,32,15,30,NULL,NBA
+37,400975879,2018,"Fri, Mar 30",Oklahoma City Thunder,Denver Nuggets,"44-33, 26-13 Home","41-35, 14-25 Away",125,126,NULL,NULL,Final/OT,NULL,28,30,21,35,11,27,35,30,22,12,NBA
+38,400975911,2018,"Tue, Apr 3",Denver Nuggets,Indiana Pacers,"43-35, 29-10 Home","46-32, 20-19 Away",107,104,NULL,NULL,Final,NULL,27,22,28,30,NULL,26,20,27,31,NULL,NBA
+39,400975937,2018,"Sat, Apr 7",LA Clippers,Denver Nuggets,"42-38, 22-17 Home","45-35, 15-25 Away",115,134,NULL,NULL,Final,NBATV,26,32,31,26,NULL,33,33,35,33,NULL,NBA
+40,400974766,2018,"Wed, Oct 18",Utah Jazz,Denver Nuggets,"1-0, 1-0 Home","0-1, 0-1 Away",106,96,NULL,NULL,Final,NULL,21,28,29,28,NULL,30,28,25,13,NULL,NBA
+41,400974798,2018,"Mon, Oct 23",Denver Nuggets,Washington Wizards,"1-2, 1-1 Home","3-0, 1-0 Away",104,109,NULL,NULL,Final,NULL,29,26,22,27,NULL,29,27,22,31,NULL,NBA
+42,400974823,2018,"Fri, Oct 27",Atlanta Hawks,Denver Nuggets,"1-5, 0-1 Home","2-3, 1-2 Away",100,105,NULL,NULL,Final,NULL,23,29,19,29,NULL,26,27,22,30,NULL,NBA
+43,400974845,2018,"Mon, Oct 30",New York Knicks,Denver Nuggets,"3-3, 2-1 Home","3-4, 2-3 Away",116,110,NULL,NULL,Final,NULL,35,30,19,32,NULL,25,18,38,29,NULL,NBA
+44,400974878,2018,"Fri, Nov 3",Denver Nuggets,Miami Heat,"5-4, 3-1 Home","3-5, 0-2 Away",95,94,NULL,NULL,Final,NULL,28,23,25,19,NULL,37,21,13,23,NULL,NBA
+45,400974906,2018,"Tue, Nov 7",Denver Nuggets,Brooklyn Nets,"6-5, 4-2 Home","4-7, 1-5 Away",112,104,NULL,NULL,Final,NULL,28,29,36,19,NULL,21,25,27,31,NULL,NBA
+46,400974936,2018,"Sat, Nov 11",Denver Nuggets,Orlando Magic,"8-5, 6-2 Home","8-5, 4-3 Away",125,107,NULL,NULL,Final,NULL,39,31,28,27,NULL,23,24,30,30,NULL,NBA
+47,400974977,2018,"Fri, Nov 17",Denver Nuggets,New Orleans Pelicans,"9-6, 7-2 Home","8-8, 5-4 Away",146,114,NULL,NULL,Final,ESPN,37,27,42,40,NULL,19,37,24,34,NULL,NBA
+48,400975002,2018,"Mon, Nov 20",Sacramento Kings,Denver Nuggets,"4-13, 3-4 Home","10-7, 3-5 Away",98,114,NULL,NULL,Final,NULL,22,25,23,28,NULL,22,25,34,33,NULL,NBA
+49,400975025,2018,"Fri, Nov 24",Denver Nuggets,Memphis Grizzlies,"11-8, 8-2 Home","7-11, 3-5 Away",104,92,NULL,NULL,Final,NULL,27,34,15,28,NULL,18,27,29,18,NULL,NBA
+50,400975066,2018,"Thu, Nov 30",Denver Nuggets,Chicago Bulls,"12-9, 9-2 Home","3-17, 1-11 Away",111,110,NULL,NULL,Final,NULL,30,32,29,20,NULL,39,29,24,18,NULL,NBA
+51,400975098,2018,"Mon, Dec 4",Dallas Mavericks,Denver Nuggets,"7-17, 5-10 Home","13-10, 3-8 Away",122,105,NULL,NULL,Final,NULL,39,25,29,29,NULL,23,24,35,23,NULL,NBA
+52,400975121,2018,"Fri, Dec 8",Orlando Magic,Denver Nuggets,"11-16, 6-6 Home","14-11, 4-9 Away",89,103,NULL,NULL,Final,NULL,25,23,22,19,NULL,14,35,32,22,NULL,NBA
+53,400975149,2018,"Tue, Dec 12",Detroit Pistons,Denver Nuggets,"14-13, 8-5 Home","15-12, 5-10 Away",84,103,NULL,NULL,Final,NULL,18,22,20,24,NULL,26,23,31,23,NULL,NBA
+54,400975178,2018,"Fri, Dec 15",Denver Nuggets,New Orleans Pelicans,"16-13, 11-2 Home","15-15, 7-8 Away",117,111,NULL,NULL,Final/OT,NULL,20,26,30,28,13,33,25,28,18,7,NBA
+55,400975213,2018,"Wed, Dec 20",Denver Nuggets,Minnesota Timberwolves,"16-15, 11-3 Home","19-13, 8-7 Away",104,112,NULL,NULL,Final,NULL,24,28,32,20,NULL,17,33,30,32,NULL,NBA
+56,400975240,2018,"Sat, Dec 23",Golden State Warriors,Denver Nuggets,"26-7, 12-4 Home","18-15, 7-12 Away",81,96,NULL,NULL,Final,NULL,20,21,21,19,NULL,22,31,20,23,NULL,NBA
+57,400975256,2018,"Wed, Dec 27",Minnesota Timberwolves,Denver Nuggets,"22-13, 12-6 Home","19-16, 7-13 Away",128,125,NULL,NULL,Final/OT,NULL,35,36,17,26,14,23,35,24,32,11,NBA
+58,400975309,2018,"Wed, Jan 3",Denver Nuggets,Phoenix Suns,"20-17, 13-4 Home","15-25, 8-11 Away",134,111,NULL,NULL,Final,NULL,34,27,37,36,NULL,26,41,18,26,NULL,NBA
+59,400975331,2018,"Sat, Jan 6",Sacramento Kings,Denver Nuggets,"13-25, 7-11 Home","21-18, 7-14 Away",106,98,NULL,NULL,Final,NULL,29,17,33,27,NULL,27,14,30,27,NULL,NBA
+60,400975358,2018,"Wed, Jan 10",Denver Nuggets,Atlanta Hawks,"21-20, 14-5 Home","11-30, 4-19 Away",97,110,NULL,NULL,Final,NULL,21,25,32,19,NULL,29,25,28,28,NULL,NBA
+61,400975379,2018,"Sat, Jan 13",San Antonio Spurs,Denver Nuggets,"29-15, 19-2 Home","22-21, 7-16 Away",112,80,NULL,NULL,Final,NULL,32,24,26,30,NULL,16,28,25,11,NULL,NBA
+62,400975408,2018,"Wed, Jan 17",LA Clippers,Denver Nuggets,"23-21, 14-9 Home","23-22, 7-17 Away",109,104,NULL,NULL,Final,ESPN,29,21,30,29,NULL,27,32,22,23,NULL,NBA
+63,400975440,2018,"Mon, Jan 22",Denver Nuggets,Portland Trail Blazers,"24-23, 17-6 Home","25-22, 12-12 Away",104,101,NULL,NULL,Final,NULL,20,25,31,28,NULL,19,30,29,23,NULL,NBA
+64,400975476,2018,"Sat, Jan 27",Denver Nuggets,Dallas Mavericks,"26-23, 19-6 Home","16-34, 6-17 Away",91,89,NULL,NULL,Final,NULL,30,20,16,25,NULL,26,16,32,15,NULL,NBA
+65,400975496,2018,"Tue, Jan 30",San Antonio Spurs,Denver Nuggets,"34-19, 22-4 Home","26-25, 7-18 Away",106,104,NULL,NULL,Final,NULL,30,30,20,26,NULL,30,25,26,23,NULL,NBA
+66,400975528,2018,"Sat, Feb 3",Denver Nuggets,Golden State Warriors,"28-25, 21-7 Home","41-12, 22-6 Away",115,108,NULL,NULL,Final,NULL,29,26,22,38,NULL,32,24,27,25,NULL,NBA
+67,400975569,2018,"Fri, Feb 9",Houston Rockets,Denver Nuggets,"41-13, 21-6 Home","29-26, 7-19 Away",130,104,NULL,NULL,Final,NULL,35,28,34,33,NULL,23,23,24,34,NULL,NBA
+68,400975598,2018,"Tue, Feb 13",Denver Nuggets,San Antonio Spurs,"31-26, 23-7 Home","35-24, 13-18 Away",117,109,NULL,NULL,Final,TNT,30,28,29,30,NULL,32,29,29,19,NULL,NBA
+69,400975626,2018,"Fri, Feb 23",Denver Nuggets,San Antonio Spurs,"33-26, 24-7 Home","35-25, 13-19 Away",122,119,NULL,NULL,Final,NULL,32,31,33,26,NULL,30,31,28,30,NULL,NBA
+70,400975658,2018,"Tue, Feb 27",Denver Nuggets,LA Clippers,"33-28, 24-9 Home","32-27, 16-15 Away",120,122,NULL,NULL,Final,TNT,33,25,30,32,NULL,24,28,29,41,NULL,NBA
+71,400975683,2018,"Sat, Mar 3",Cleveland Cavaliers,Denver Nuggets,"36-26, 21-11 Home","35-28, 11-19 Away",117,126,NULL,NULL,Final,NULL,31,31,35,20,NULL,37,36,30,23,NULL,NBA
+72,400975716,2018,"Wed, Mar 7",Denver Nuggets,Cleveland Cavaliers,"35-30, 24-10 Home","38-26, 16-15 Away",108,113,NULL,NULL,Final,ESPN,23,35,29,21,NULL,38,32,19,24,NULL,NBA
+73,400975742,2018,"Sun, Mar 11",Denver Nuggets,Sacramento Kings,"37-30, 26-10 Home","21-46, 10-24 Away",130,104,NULL,NULL,Final,NULL,32,34,35,29,NULL,25,24,19,36,NULL,NBA
+74,400975772,2018,"Thu, Mar 15",Denver Nuggets,Detroit Pistons,"38-31, 27-10 Home","30-38, 9-24 Away",120,113,NULL,NULL,Final,NULL,33,32,33,22,NULL,29,22,33,29,NULL,NBA
+75,400975800,2018,"Mon, Mar 19",Miami Heat,Denver Nuggets,"38-33, 21-13 Home","38-33, 11-23 Away",149,141,NULL,NULL,Final/2OT,NULL,36,28,28,26,31,37,26,28,27,23,NBA
+76,400975825,2018,"Fri, Mar 23",Washington Wizards,Denver Nuggets,"40-32, 20-16 Home","40-33, 13-23 Away",100,108,NULL,NULL,Final,NBATV,16,27,33,24,NULL,23,32,23,30,NULL,NBA
+77,400975855,2018,"Tue, Mar 27",Toronto Raptors,Denver Nuggets,"55-20, 31-7 Home","40-35, 13-25 Away",114,110,NULL,NULL,Final,NULL,25,33,24,32,NULL,23,35,27,25,NULL,NBA
+78,400975898,2018,"Sun, Apr 1",Denver Nuggets,Milwaukee Bucks,"42-35, 28-10 Home","41-36, 18-21 Away",128,125,NULL,NULL,Final/OT,NULL,22,41,16,32,17,34,20,38,19,14,NBA
+79,400975926,2018,"Thu, Apr 5",Denver Nuggets,Minnesota Timberwolves,"44-35, 30-10 Home","44-35, 16-24 Away",100,96,NULL,NULL,Final,TNT,27,24,28,21,NULL,24,30,18,24,NULL,NBA
+80,400975957,2018,"Mon, Apr 9",Denver Nuggets,Portland Trail Blazers,"46-35, 31-10 Home","48-33, 21-20 Away",88,82,NULL,NULL,Final,NULL,28,14,24,22,NULL,23,26,20,13,NULL,NBA
+81,400975971,2018,"Wed, Apr 11",Minnesota Timberwolves,Denver Nuggets,"47-35, 30-11 Home","46-36, 15-26 Away",112,106,NULL,NULL,Final/OT,NBATV,29,33,24,15,11,26,28,27,20,5,NBA

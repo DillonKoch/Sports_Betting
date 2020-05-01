@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,171101029,1998,"Sat, Nov 1",Vancouver Grizzlies,Sacramento Kings,"1-1, 1-1 Home","0-1, 0-1 Away",97,96,NULL,NULL,Final,NULL,27,26,24,20,NULL,27,26,26,17,NULL,NBA
+1,171105024,1998,"Wed, Nov 5",San Antonio Spurs,Vancouver Grizzlies,"3-1, 2-0 Home","1-3, 0-2 Away",87,79,NULL,NULL,Final,NULL,21,23,22,21,NULL,20,17,23,19,NULL,NBA
+2,171109029,1998,"Sun, Nov 9",Vancouver Grizzlies,Detroit Pistons,"2-4, 2-2 Home","2-4, 1-2 Away",104,96,NULL,NULL,Final/OT,NULL,23,27,17,21,16,21,24,18,25,8,NBA
+3,171112026,1998,"Wed, Nov 12",Utah Jazz,Vancouver Grizzlies,"3-4, 2-1 Home","3-5, 0-3 Away",98,80,NULL,NULL,Final,NULL,24,29,25,20,NULL,21,12,24,23,NULL,NBA
+4,171116013,1998,"Sun, Nov 16",Los Angeles Lakers,Vancouver Grizzlies,"8-0, 4-0 Home","4-6, 0-4 Away",121,95,NULL,NULL,Final,NULL,38,26,39,18,NULL,23,20,29,23,NULL,NBA
+5,171119025,1998,"Wed, Nov 19",Seattle SuperSonics,Vancouver Grizzlies,"8-3, 4-1 Home","5-7, 1-5 Away",107,87,NULL,NULL,Final,NULL,38,18,22,29,NULL,15,25,27,20,NULL,NBA
+6,171123018,1998,"Sun, Nov 23",New York Knicks,Vancouver Grizzlies,"9-4, 4-1 Home","6-8, 1-6 Away",104,84,NULL,NULL,Final,NULL,26,25,32,21,NULL,26,22,17,19,NULL,NBA
+7,171127011,1998,"Thu, Nov 27",Indiana Pacers,Vancouver Grizzlies,"6-6, 3-3 Home","6-10, 1-8 Away",106,85,NULL,NULL,Final,NULL,27,28,31,20,NULL,18,32,12,23,NULL,NBA
+8,171130008,1998,"Sun, Nov 30",Detroit Pistons,Vancouver Grizzlies,"6-11, 4-4 Home","7-11, 2-9 Away",95,97,NULL,NULL,Final,NULL,27,22,22,24,NULL,20,33,26,18,NULL,NBA
+9,171205029,1998,"Fri, Dec 5",Vancouver Grizzlies,Cleveland Cavaliers,"7-13, 5-4 Home","11-6, 7-3 Away",98,107,NULL,NULL,Final,NULL,26,26,31,15,NULL,27,24,34,22,NULL,NBA
+10,171212029,1998,"Fri, Dec 12",Vancouver Grizzlies,Golden State Warriors,"8-14, 6-4 Home","3-16, 1-10 Away",95,88,NULL,NULL,Final,NULL,25,22,26,22,NULL,25,23,15,25,NULL,NBA
+11,171216010,1998,"Tue, Dec 16",Houston Rockets,Vancouver Grizzlies,"13-7, 8-3 Home","9-15, 2-11 Away",118,91,NULL,NULL,Final,NULL,32,30,23,33,NULL,24,19,22,26,NULL,NBA
+12,171219022,1998,"Fri, Dec 19",Portland Trail Blazers,Vancouver Grizzlies,"14-9, 7-5 Home","9-17, 2-13 Away",96,91,NULL,NULL,Final,NULL,18,17,27,34,NULL,21,19,25,26,NULL,NBA
+13,171226029,1998,"Fri, Dec 26",Vancouver Grizzlies,Phoenix Suns,"10-18, 8-5 Home","17-8, 7-5 Away",100,118,NULL,NULL,Final,NULL,23,24,28,25,NULL,30,31,28,29,NULL,NBA
+14,171230029,1998,"Tue, Dec 30",Vancouver Grizzlies,San Antonio Spurs,"10-20, 8-7 Home","18-11, 6-8 Away",115,124,NULL,NULL,Final,NULL,25,16,35,39,NULL,35,34,28,27,NULL,NBA
+15,180102023,1998,"Fri, Jan 2",Sacramento Kings,Vancouver Grizzlies,"12-20, 10-7 Home","10-22, 2-14 Away",94,80,NULL,NULL,Final,NULL,29,23,18,24,NULL,23,10,22,25,NULL,NBA
+16,180106029,1998,"Tue, Jan 6",Vancouver Grizzlies,Los Angeles Lakers,"10-24, 8-10 Home","25-8, 12-5 Away",87,100,NULL,NULL,Final,NULL,21,26,16,24,NULL,21,17,28,34,NULL,NBA
+17,180109029,1998,"Fri, Jan 9",Vancouver Grizzlies,Charlotte Hornets,"10-26, 8-11 Home","21-13, 8-10 Away",90,98,NULL,NULL,Final,NULL,16,30,21,23,NULL,25,21,24,28,NULL,NBA
+18,180113020,1998,"Tue, Jan 13",Philadelphia 76ers,Vancouver Grizzlies,"10-23, 5-10 Home","10-28, 2-16 Away",107,89,NULL,NULL,Final,NULL,27,32,23,25,NULL,31,23,13,22,NULL,NBA
+19,180116027,1998,"Fri, Jan 16",Washington Wizards,Vancouver Grizzlies,"20-20, 11-8 Home","10-30, 2-18 Away",112,110,NULL,NULL,Final,NULL,34,23,23,32,NULL,40,32,16,22,NULL,NBA
+20,180123009,1998,"Fri, Jan 23",Golden State Warriors,Vancouver Grizzlies,"7-32, 5-12 Home","12-30, 3-18 Away",80,88,NULL,NULL,Final,NULL,23,23,16,18,NULL,18,24,23,23,NULL,NBA
+21,180127029,1998,"Tue, Jan 27",Vancouver Grizzlies,Chicago Bulls,"13-31, 10-13 Home","31-13, 10-11 Away",85,103,NULL,NULL,Final,NULL,26,24,7,28,NULL,34,26,25,18,NULL,NBA
+22,180131029,1998,"Sat, Jan 31",Vancouver Grizzlies,New Jersey Nets,"13-33, 10-15 Home","26-19, 11-13 Away",106,116,NULL,NULL,Final,NULL,27,29,23,27,NULL,32,29,28,27,NULL,NBA
+23,180203010,1998,"Tue, Feb 3",Houston Rockets,Vancouver Grizzlies,"22-23, 14-11 Home","13-35, 3-20 Away",110,97,NULL,NULL,Final,NULL,35,22,27,26,NULL,26,24,21,26,NULL,NBA
+24,180212029,1998,"Thu, Feb 12",Vancouver Grizzlies,Houston Rockets,"13-37, 10-16 Home","24-24, 9-13 Away",103,112,NULL,NULL,Final,NULL,28,33,22,20,NULL,29,25,26,32,NULL,NBA
+25,180218029,1998,"Wed, Feb 18",Vancouver Grizzlies,Boston Celtics,"14-38, 11-17 Home","24-29, 8-19 Away",105,114,NULL,NULL,Final,NULL,18,23,28,36,NULL,28,32,25,29,NULL,NBA
+26,180222028,1998,"Sun, Feb 22",Toronto Raptors,Vancouver Grizzlies,"12-42, 8-21 Home","14-40, 3-23 Away",113,105,NULL,NULL,Final/OT,NULL,30,19,20,24,20,20,25,20,28,12,NBA
+27,180225005,1998,"Wed, Feb 25",Cleveland Cavaliers,Vancouver Grizzlies,"30-26, 15-12 Home","14-42, 3-25 Away",106,101,NULL,NULL,Final,NULL,34,26,21,25,NULL,20,29,24,28,NULL,NBA
+28,180303029,1998,"Tue, Mar 3",Vancouver Grizzlies,Indiana Pacers,"14-44, 11-19 Home","41-17, 19-11 Away",103,111,NULL,NULL,Final,NULL,30,23,19,31,NULL,22,31,27,31,NULL,NBA
+29,180308029,1998,"Sun, Mar 8",Vancouver Grizzlies,Toronto Raptors,"15-45, 12-20 Home","13-47, 5-25 Away",113,106,NULL,NULL,Final,NULL,38,25,19,31,NULL,26,31,28,21,NULL,NBA
+30,180313026,1998,"Fri, Mar 13",Utah Jazz,Vancouver Grizzlies,"46-16, 28-5 Home","15-47, 3-27 Away",110,101,NULL,NULL,Final,NULL,29,28,28,25,NULL,23,28,24,26,NULL,NBA
+31,180317019,1998,"Tue, Mar 17",Orlando Magic,Vancouver Grizzlies,"33-32, 18-15 Home","15-49, 3-28 Away",99,92,NULL,NULL,Final,NULL,21,31,27,20,NULL,27,28,15,22,NULL,NBA
+32,180320004,1998,"Fri, Mar 20",Chicago Bulls,Vancouver Grizzlies,"50-17, 31-3 Home","15-51, 3-30 Away",98,92,NULL,NULL,Final,NULL,24,34,17,23,NULL,25,24,21,22,NULL,NBA
+33,180323029,1998,"Mon, Mar 23",Vancouver Grizzlies,Los Angeles Clippers,"16-52, 13-21 Home","15-53, 6-29 Away",106,95,NULL,NULL,Final,NULL,29,26,27,24,NULL,28,12,32,23,NULL,NBA
+34,180327029,1998,"Fri, Mar 27",Vancouver Grizzlies,New York Knicks,"16-54, 13-22 Home","40-31, 15-20 Away",89,97,NULL,NULL,Final/OT,NULL,27,15,22,19,6,25,20,20,18,14,NBA
+35,180331029,1998,"Tue, Mar 31",Vancouver Grizzlies,Dallas Mavericks,"16-56, 13-23 Home","19-54, 7-29 Away",101,104,NULL,NULL,Final,NULL,21,24,26,30,NULL,29,29,26,20,NULL,NBA
+36,180405029,1998,"Sun, Apr 5",Vancouver Grizzlies,Utah Jazz,"16-58, 13-25 Home","56-18, 24-13 Away",93,99,NULL,NULL,Final,NULL,23,17,24,29,NULL,25,29,24,21,NULL,NBA
+37,180408013,1998,"Wed, Apr 8",Los Angeles Lakers,Vancouver Grizzlies,"56-20, 31-7 Home","17-59, 4-34 Away",113,102,NULL,NULL,Final,NULL,25,33,29,26,NULL,28,24,24,26,NULL,NBA
+38,180412029,1998,"Sun, Apr 12",Vancouver Grizzlies,Phoenix Suns,"18-60, 14-26 Home","53-25, 24-15 Away",106,129,NULL,NULL,Final,NULL,18,30,35,23,NULL,39,31,35,24,NULL,NBA
+39,180416029,1998,"Thu, Apr 16",Vancouver Grizzlies,San Antonio Spurs,"18-62, 14-27 Home","54-26, 24-16 Away",97,110,NULL,NULL,Final,NULL,18,29,33,17,NULL,30,28,25,27,NULL,NBA
+40,171031029,1998,"Fri, Oct 31",Vancouver Grizzlies,Dallas Mavericks,"0-1, 0-1 Home","1-0, 1-0 Away",88,90,NULL,NULL,Final,NULL,18,27,21,22,NULL,26,17,31,16,NULL,NBA
+41,171104006,1998,"Tue, Nov 4",Dallas Mavericks,Vancouver Grizzlies,"3-0, 1-0 Home","1-2, 0-1 Away",92,87,NULL,NULL,Final,NULL,18,32,24,18,NULL,30,24,20,13,NULL,NBA
+42,171107029,1998,"Fri, Nov 7",Vancouver Grizzlies,Minnesota Timberwolves,"1-4, 1-2 Home","3-1, 1-1 Away",97,108,NULL,NULL,Final,NULL,22,20,31,24,NULL,27,26,24,31,NULL,NBA
+43,171111029,1998,"Tue, Nov 11",Vancouver Grizzlies,Los Angeles Clippers,"3-4, 3-2 Home","1-5, 1-2 Away",119,113,NULL,NULL,Final,NULL,28,24,30,37,NULL,30,32,30,21,NULL,NBA
+44,171115029,1998,"Sat, Nov 15",Vancouver Grizzlies,Milwaukee Bucks,"4-5, 4-2 Home","5-3, 2-2 Away",109,94,NULL,NULL,Final,NULL,25,36,24,24,NULL,32,31,23,8,NULL,NBA
+45,171118007,1998,"Tue, Nov 18",Denver Nuggets,Vancouver Grizzlies,"0-9, 0-4 Home","5-6, 1-4 Away",87,100,NULL,NULL,Final,NULL,22,21,21,23,NULL,19,33,19,29,NULL,NBA
+46,171121029,1998,"Fri, Nov 21",Vancouver Grizzlies,Denver Nuggets,"6-7, 5-2 Home","0-10, 0-6 Away",99,96,NULL,NULL,Final,NULL,28,20,29,22,NULL,33,26,25,12,NULL,NBA
+47,171126015,1998,"Wed, Nov 26",Milwaukee Bucks,Vancouver Grizzlies,"8-5, 5-2 Home","6-9, 1-7 Away",101,82,NULL,NULL,Final,NULL,17,21,33,30,NULL,22,15,22,23,NULL,NBA
+48,171129016,1998,"Sat, Nov 29",Minnesota Timberwolves,Vancouver Grizzlies,"7-8, 3-4 Home","6-11, 1-9 Away",106,87,NULL,NULL,Final,NULL,28,34,16,28,NULL,10,20,32,25,NULL,NBA
+49,171203029,1998,"Wed, Dec 3",Vancouver Grizzlies,Orlando Magic,"7-12, 5-3 Home","12-6, 7-3 Away",97,101,NULL,NULL,Final,NULL,29,30,15,23,NULL,27,25,29,20,NULL,NBA
+50,171209021,1998,"Tue, Dec 9",Phoenix Suns,Vancouver Grizzlies,"12-5, 8-3 Home","7-14, 2-10 Away",107,85,NULL,NULL,Final,NULL,29,21,26,31,NULL,24,20,17,24,NULL,NBA
+51,171214029,1998,"Sun, Dec 14",Vancouver Grizzlies,Houston Rockets,"9-14, 7-4 Home","12-7, 5-4 Away",110,105,NULL,NULL,Final,NULL,35,25,24,26,NULL,23,28,32,22,NULL,NBA
+52,171217024,1998,"Wed, Dec 17",San Antonio Spurs,Vancouver Grizzlies,"14-10, 9-3 Home","9-16, 2-12 Away",98,87,NULL,NULL,Final,NULL,28,19,27,24,NULL,20,32,17,18,NULL,NBA
+53,171221029,1998,"Sun, Dec 21",Vancouver Grizzlies,Portland Trail Blazers,"10-17, 8-4 Home","14-10, 7-5 Away",88,86,NULL,NULL,Final,NULL,14,22,26,26,NULL,25,18,25,18,NULL,NBA
+54,171228029,1998,"Sun, Dec 28",Vancouver Grizzlies,Utah Jazz,"10-19, 8-6 Home","18-11, 7-8 Away",88,89,NULL,NULL,Final,NULL,20,13,25,30,NULL,22,24,21,22,NULL,NBA
+55,180101029,1998,"Thu, Jan 1",Vancouver Grizzlies,Philadelphia 76ers,"10-21, 8-8 Home","8-21, 4-11 Away",104,115,NULL,NULL,Final,NULL,33,23,23,25,NULL,27,30,25,33,NULL,NBA
+56,180104029,1998,"Sun, Jan 4",Vancouver Grizzlies,Seattle SuperSonics,"10-23, 8-9 Home","26-6, 13-4 Away",108,120,NULL,NULL,Final,NULL,35,30,20,23,NULL,28,28,43,21,NULL,NBA
+57,180107012,1998,"Wed, Jan 7",Los Angeles Clippers,Vancouver Grizzlies,"9-25, 6-10 Home","10-25, 2-15 Away",110,102,NULL,NULL,Final,NULL,18,37,22,33,NULL,24,22,29,27,NULL,NBA
+58,180111029,1998,"Sun, Jan 11",Vancouver Grizzlies,Miami Heat,"10-27, 8-12 Home","23-11, 10-7 Away",90,96,NULL,NULL,Final,NULL,22,18,24,26,NULL,23,32,24,17,NULL,NBA
+59,180115002,1998,"Thu, Jan 15",Boston Celtics,Vancouver Grizzlies,"17-19, 12-8 Home","10-29, 2-17 Away",97,93,NULL,NULL,Final,NULL,13,31,23,30,NULL,27,25,19,22,NULL,NBA
+60,180120029,1998,"Tue, Jan 20",Vancouver Grizzlies,Denver Nuggets,"11-30, 9-12 Home","2-37, 0-22 Away",88,77,NULL,NULL,Final,NULL,28,22,23,15,NULL,23,19,12,23,NULL,NBA
+61,180124029,1998,"Sat, Jan 24",Vancouver Grizzlies,Golden State Warriors,"13-30, 10-12 Home","7-33, 2-21 Away",107,96,NULL,NULL,Final,NULL,25,28,24,30,NULL,22,29,25,20,NULL,NBA
+62,180129029,1998,"Thu, Jan 29",Vancouver Grizzlies,Minnesota Timberwolves,"13-32, 10-14 Home","25-17, 11-9 Away",106,112,NULL,NULL,Final,NULL,27,23,31,25,NULL,35,30,22,25,NULL,NBA
+63,180202006,1998,"Mon, Feb 2",Dallas Mavericks,Vancouver Grizzlies,"9-36, 7-18 Home","13-34, 3-19 Away",104,90,NULL,NULL,Final,NULL,24,27,26,27,NULL,18,25,18,29,NULL,NBA
+64,180205003,1998,"Thu, Feb 5",Charlotte Hornets,Vancouver Grizzlies,"29-18, 18-6 Home","13-36, 3-21 Away",108,93,NULL,NULL,Final,NULL,32,26,32,18,NULL,16,34,19,24,NULL,NBA
+65,180214029,1998,"Sat, Feb 14",Vancouver Grizzlies,Washington Wizards,"14-37, 11-16 Home","27-25, 12-16 Away",110,108,NULL,NULL,Final/OT,NULL,34,22,23,19,12,27,27,17,27,10,NBA
+66,180220001,1998,"Fri, Feb 20",Atlanta Hawks,Vancouver Grizzlies,"32-23, 17-9 Home","14-39, 3-22 Away",115,92,NULL,NULL,Final,NULL,40,24,29,22,NULL,27,16,23,26,NULL,NBA
+67,180224017,1998,"Tue, Feb 24",New Jersey Nets,Vancouver Grizzlies,"32-24, 20-8 Home","14-41, 3-24 Away",110,101,NULL,NULL,Final,NULL,26,24,25,35,NULL,25,25,26,25,NULL,NBA
+68,180301029,1998,"Sun, Mar 1",Vancouver Grizzlies,Atlanta Hawks,"14-43, 11-18 Home","34-24, 17-15 Away",76,101,NULL,NULL,Final,NULL,7,24,15,30,NULL,28,26,24,23,NULL,NBA
+69,180306029,1998,"Fri, Mar 6",Vancouver Grizzlies,Sacramento Kings,"14-45, 11-20 Home","26-36, 6-25 Away",96,98,NULL,NULL,Final,NULL,29,28,23,16,NULL,25,21,29,23,NULL,NBA
+70,180312007,1998,"Thu, Mar 12",Denver Nuggets,Vancouver Grizzlies,"6-59, 5-27 Home","15-46, 3-26 Away",98,93,NULL,NULL,Final,NULL,29,28,20,21,NULL,18,21,30,24,NULL,NBA
+71,180315029,1998,"Sun, Mar 15",Vancouver Grizzlies,Los Angeles Lakers,"15-48, 12-21 Home","45-18, 19-11 Away",110,119,NULL,NULL,Final,NULL,24,39,25,22,NULL,26,37,27,29,NULL,NBA
+72,180318014,1998,"Wed, Mar 18",Miami Heat,Vancouver Grizzlies,"46-21, 23-9 Home","15-50, 3-29 Away",94,91,NULL,NULL,Final,NULL,24,27,25,18,NULL,26,23,21,21,NULL,NBA
+73,180321016,1998,"Sat, Mar 21",Minnesota Timberwolves,Vancouver Grizzlies,"35-33, 22-15 Home","15-52, 3-31 Away",102,88,NULL,NULL,Final,NULL,26,25,20,31,NULL,26,17,21,24,NULL,NBA
+74,180326022,1998,"Thu, Mar 26",Portland Trail Blazers,Vancouver Grizzlies,"38-31, 23-14 Home","16-53, 3-32 Away",108,102,NULL,NULL,Final,NULL,25,29,25,29,NULL,30,27,27,18,NULL,NBA
+75,180329021,1998,"Sun, Mar 29",Phoenix Suns,Vancouver Grizzlies,"47-25, 28-10 Home","16-55, 3-33 Away",106,98,NULL,NULL,Final,NULL,21,33,22,30,NULL,24,28,24,22,NULL,NBA
+76,180403029,1998,"Fri, Apr 3",Vancouver Grizzlies,Seattle SuperSonics,"16-57, 13-24 Home","56-18, 23-14 Away",98,138,NULL,NULL,Final,NULL,26,21,22,29,NULL,34,32,36,36,NULL,NBA
+77,180407012,1998,"Tue, Apr 7",Los Angeles Clippers,Vancouver Grizzlies,"16-60, 10-27 Home","17-58, 4-33 Away",94,110,NULL,NULL,Final,NULL,21,34,14,25,NULL,29,32,21,28,NULL,NBA
+78,180411029,1998,"Sat, Apr 11",Vancouver Grizzlies,Portland Trail Blazers,"18-59, 14-25 Home","44-34, 20-20 Away",105,96,NULL,NULL,Final/OT,NULL,24,21,24,16,20,21,25,15,24,11,NBA
+79,180414025,1998,"Tue, Apr 14",Seattle SuperSonics,Vancouver Grizzlies,"60-20, 35-5 Home","18-61, 4-35 Away",110,98,NULL,NULL,Final,NULL,36,19,30,25,NULL,30,20,20,28,NULL,NBA
+80,180418009,1998,"Sat, Apr 18",Golden State Warriors,Vancouver Grizzlies,"19-63, 12-29 Home","18-63, 4-36 Away",112,100,NULL,NULL,Final,NULL,28,29,29,26,NULL,23,32,21,24,NULL,NBA
+81,180419023,1998,"Sun, Apr 19",Sacramento Kings,Vancouver Grizzlies,"27-55, 21-20 Home","19-63, 5-36 Away",108,112,NULL,NULL,Final/OT,NULL,24,23,30,26,5,22,24,27,30,9,NBA

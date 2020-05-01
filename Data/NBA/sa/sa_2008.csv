@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,271031029,2008,"Wed, Oct 31",Memphis Grizzlies,San Antonio Spurs,"0-1, 0-1 Home","2-0, 1-0 Away",101,104,NULL,NULL,Final,NULL,26,26,30,19,NULL,23,29,27,25,NULL,NBA
+1,271106010,2008,"Tue, Nov 6",Houston Rockets,San Antonio Spurs,"4-1, 2-0 Home","3-1, 1-1 Away",89,81,NULL,NULL,Final,NULL,18,27,19,25,NULL,19,13,24,25,NULL,NBA
+2,271109003,2008,"Fri, Nov 9",New Orleans Hornets,San Antonio Spurs,"4-2, 2-1 Home","5-1, 2-1 Away",85,97,NULL,NULL,Final,NULL,24,21,18,22,NULL,23,29,29,16,NULL,NBA
+3,271113024,2008,"Tue, Nov 13",San Antonio Spurs,Los Angeles Lakers,"7-1, 5-0 Home","3-3, 1-1 Away",107,92,NULL,NULL,Final,NBATV,21,33,25,28,NULL,15,23,24,30,NULL,NBA
+4,271116024,2008,"Fri, Nov 16",San Antonio Spurs,Houston Rockets,"8-2, 6-0 Home","6-4, 3-3 Away",90,84,NULL,NULL,Final,ESPN,25,24,20,21,NULL,24,22,18,20,NULL,NBA
+5,271121024,2008,"Wed, Nov 21",San Antonio Spurs,Orlando Magic,"10-2, 7-0 Home","10-3, 7-1 Away",128,110,NULL,NULL,Final,NULL,30,29,34,35,NULL,34,30,26,20,NULL,NBA
+6,271125025,2008,"Sun, Nov 25",Seattle SuperSonics,San Antonio Spurs,"2-12, 0-6 Home","12-2, 4-2 Away",101,116,NULL,NULL,Final,NULL,30,34,20,17,NULL,32,32,27,25,NULL,NBA
+7,271128024,2008,"Wed, Nov 28",San Antonio Spurs,Washington Wizards,"13-3, 9-0 Home","7-8, 4-5 Away",109,94,NULL,NULL,Final,NULL,24,25,30,30,NULL,23,23,24,24,NULL,NBA
+8,271202024,2008,"Sun, Dec 2",San Antonio Spurs,Portland Trail Blazers,"15-3, 10-0 Home","5-12, 0-9 Away",100,79,NULL,NULL,Final,NULL,23,28,26,23,NULL,17,21,19,22,NULL,NBA
+9,271207024,2008,"Fri, Dec 7",San Antonio Spurs,Utah Jazz,"17-3, 12-0 Home","13-7, 5-6 Away",104,98,NULL,NULL,Final,ESPN,21,29,22,32,NULL,29,22,25,22,NULL,NBA
+10,271213013,2008,"Thu, Dec 13",Los Angeles Lakers,San Antonio Spurs,"13-8, 8-4 Home","17-5, 5-5 Away",102,97,NULL,NULL,Final,TNT,18,33,21,30,NULL,19,24,31,23,NULL,NBA
+11,271217024,2008,"Mon, Dec 17",San Antonio Spurs,Phoenix Suns,"18-6, 13-1 Home","18-7, 11-4 Away",95,100,NULL,NULL,Final,NBATV,20,30,17,28,NULL,26,25,23,26,NULL,NBA
+12,271222024,2008,"Sat, Dec 22",San Antonio Spurs,LA Clippers,"19-7, 14-1 Home","9-17, 5-9 Away",99,90,NULL,NULL,Final,NULL,24,36,17,22,NULL,16,23,24,27,NULL,NBA
+13,271228024,2008,"Fri, Dec 28",San Antonio Spurs,Toronto Raptors,"20-8, 15-2 Home","16-14, 8-8 Away",73,83,NULL,NULL,Final,NULL,16,16,24,17,NULL,19,25,15,24,NULL,NBA
+14,280103007,2008,"Thu, Jan 3",Denver Nuggets,San Antonio Spurs,"19-12, 13-5 Home","21-9, 5-7 Away",80,77,NULL,NULL,Final,NULL,20,22,18,20,NULL,15,25,19,18,NULL,NBA
+15,280106012,2008,"Sun, Jan 6",LA Clippers,San Antonio Spurs,"10-21, 5-11 Home","23-9, 6-7 Away",82,88,NULL,NULL,Final,NULL,24,18,20,20,NULL,21,21,22,24,NULL,NBA
+16,280110024,2008,"Thu, Jan 10",San Antonio Spurs,Detroit Pistons,"23-11, 17-3 Home","27-9, 14-6 Away",80,90,NULL,NULL,Final,TNT,15,24,19,22,NULL,30,24,13,23,NULL,NBA
+17,280114024,2008,"Mon, Jan 14",San Antonio Spurs,Philadelphia 76ers,"25-11, 19-3 Home","14-24, 7-13 Away",89,82,NULL,NULL,Final,CSN,27,25,12,25,NULL,24,22,19,17,NULL,NBA
+18,280119010,2008,"Sat, Jan 19",Houston Rockets,San Antonio Spurs,"21-19, 10-8 Home","25-13, 6-9 Away",83,81,NULL,NULL,Final,NBATV,20,25,16,22,NULL,21,18,20,22,NULL,NBA
+19,280123024,2008,"Wed, Jan 23",San Antonio Spurs,Los Angeles Lakers,"27-13, 20-4 Home","27-13, 11-7 Away",103,91,NULL,NULL,Final,ESPN,23,22,31,27,NULL,27,27,12,25,NULL,NBA
+20,280126024,2008,"Sat, Jan 26",San Antonio Spurs,New Orleans Hornets,"28-14, 20-5 Home","31-12, 16-5 Away",78,102,NULL,NULL,Final,NBATV,27,16,21,14,NULL,28,14,30,30,NULL,NBA
+21,280129025,2008,"Tue, Jan 29",Seattle SuperSonics,San Antonio Spurs,"10-35, 6-16 Home","28-16, 8-11 Away",88,85,NULL,NULL,Final,NULL,25,21,17,25,NULL,26,22,18,19,NULL,NBA
+22,280205011,2008,"Tue, Feb 5",Indiana Pacers,San Antonio Spurs,"19-30, 9-14 Home","30-16, 10-11 Away",89,116,NULL,NULL,Final,NULL,36,23,9,21,NULL,34,25,22,35,NULL,NBA
+23,280208018,2008,"Fri, Feb 8",New York Knicks,San Antonio Spurs,"14-36, 10-17 Home","32-16, 12-11 Away",93,99,NULL,NULL,Final/OT,NULL,17,31,14,26,5,18,14,27,29,11,NBA
+24,280211028,2008,"Mon, Feb 11",Toronto Raptors,San Antonio Spurs,"27-23, 14-11 Home","33-17, 13-12 Away",88,93,NULL,NULL,Final,TSNT,21,19,20,28,NULL,27,28,13,25,NULL,NBA
+25,280219024,2008,"Tue, Feb 19",San Antonio Spurs,Charlotte Bobcats,"35-17, 21-5 Home","19-35, 4-19 Away",85,65,NULL,NULL,Final,NULL,13,23,18,31,NULL,18,14,17,16,NULL,NBA
+26,280223024,2008,"Sat, Feb 23",San Antonio Spurs,New Orleans Hornets,"37-17, 22-5 Home","37-17, 19-8 Away",98,89,NULL,NULL,Final,NBATV,26,24,26,22,NULL,21,14,32,22,NULL,NBA
+27,280228024,2008,"Thu, Feb 28",San Antonio Spurs,Dallas Mavericks,"39-17, 24-5 Home","38-20, 14-17 Away",97,94,NULL,NULL,Final,TNT,22,25,26,24,NULL,25,22,25,22,NULL,NBA
+28,280302017,2008,"Sun, Mar 2",New Jersey Nets,San Antonio Spurs,"26-33, 15-17 Home","41-17, 17-12 Away",83,93,NULL,NULL,Final,YES,20,23,20,20,NULL,27,26,19,21,NULL,NBA
+29,280306024,2008,"Thu, Mar 6",San Antonio Spurs,Indiana Pacers,"43-17, 26-5 Home","24-38, 12-20 Away",108,97,NULL,NULL,Final,NULL,27,23,34,24,NULL,27,21,21,28,NULL,NBA
+30,280309021,2008,"Sun, Mar 9",Phoenix Suns,San Antonio Spurs,"41-22, 22-10 Home","43-19, 17-14 Away",94,87,NULL,NULL,Final,ABC,22,23,24,25,NULL,25,23,22,17,NULL,NBA
+31,280312003,2008,"Wed, Mar 12",New Orleans Hornets,San Antonio Spurs,"43-20, 23-10 Home","44-20, 17-15 Away",100,75,NULL,NULL,Final,NULL,25,23,28,24,NULL,23,18,26,8,NULL,NBA
+32,280315020,2008,"Sat, Mar 15",Philadelphia 76ers,San Antonio Spurs,"33-34, 18-15 Home","44-22, 17-17 Away",103,96,NULL,NULL,Final,NULL,28,25,30,20,NULL,23,22,28,23,NULL,NBA
+33,280320004,2008,"Thu, Mar 20",Chicago Bulls,San Antonio Spurs,"27-41, 16-17 Home","45-23, 18-17 Away",80,102,NULL,NULL,Final,NULL,23,14,27,16,NULL,22,33,31,16,NULL,NBA
+34,280323006,2008,"Sun, Mar 23",Dallas Mavericks,San Antonio Spurs,"44-26, 29-7 Home","47-23, 19-17 Away",81,88,NULL,NULL,Final,ABC,21,19,18,23,NULL,15,21,29,23,NULL,NBA
+35,280326024,2008,"Wed, Mar 26",San Antonio Spurs,LA Clippers,"49-23, 29-6 Home","21-50, 9-26 Away",97,88,NULL,NULL,Final,NULL,27,21,26,23,NULL,18,26,27,17,NULL,NBA
+36,280330024,2008,"Sun, Mar 30",San Antonio Spurs,Houston Rockets,"51-23, 31-6 Home","49-24, 21-14 Away",109,88,NULL,NULL,Final,ABC,35,31,19,24,NULL,24,24,17,23,NULL,NBA
+37,280404026,2008,"Fri, Apr 4",Utah Jazz,San Antonio Spurs,"51-26, 35-4 Home","52-24, 20-18 Away",90,64,NULL,NULL,Final,ESPN,18,22,24,26,NULL,24,14,17,9,NULL,NBA
+38,280409024,2008,"Wed, Apr 9",San Antonio Spurs,Phoenix Suns,"53-25, 32-7 Home","53-26, 25-15 Away",79,96,NULL,NULL,Final,ESPN,24,21,23,11,NULL,16,29,27,24,NULL,NBA
+39,280413013,2008,"Sun, Apr 13",Los Angeles Lakers,San Antonio Spurs,"56-25, 29-11 Home","54-26, 21-19 Away",106,85,NULL,NULL,Final,ABC,25,28,26,27,NULL,23,30,14,18,NULL,NBA
+40,271030024,2008,"Tue, Oct 30",San Antonio Spurs,Portland Trail Blazers,"1-0, 1-0 Home","0-1, 0-1 Away",106,97,NULL,NULL,Final,TNT,29,30,22,25,NULL,26,23,28,20,NULL,NBA
+41,271102024,2008,"Fri, Nov 2",San Antonio Spurs,Sacramento Kings,"3-0, 2-0 Home","0-2, 0-2 Away",96,80,NULL,NULL,Final,NULL,17,33,21,25,NULL,10,13,31,26,NULL,NBA
+42,271107024,2008,"Wed, Nov 7",San Antonio Spurs,Miami Heat,"4-1, 3-0 Home","0-4, 0-2 Away",88,78,NULL,NULL,Final,ESPN,23,16,26,23,NULL,21,17,20,20,NULL,NBA
+43,271111024,2008,"Sun, Nov 11",San Antonio Spurs,Milwaukee Bucks,"6-1, 4-0 Home","2-4, 0-4 Away",113,88,NULL,NULL,Final,NULL,36,29,26,22,NULL,24,14,23,27,NULL,NBA
+44,271115006,2008,"Thu, Nov 15",Dallas Mavericks,San Antonio Spurs,"6-2, 4-0 Home","7-2, 2-2 Away",105,92,NULL,NULL,Final,TNT,33,26,21,25,NULL,18,22,30,22,NULL,NBA
+45,271120001,2008,"Tue, Nov 20",Atlanta Hawks,San Antonio Spurs,"3-7, 3-3 Home","9-2, 3-2 Away",83,95,NULL,NULL,Final,NBATV,20,24,21,18,NULL,29,32,22,12,NULL,NBA
+46,271123024,2008,"Fri, Nov 23",San Antonio Spurs,Memphis Grizzlies,"11-2, 8-0 Home","3-9, 1-5 Away",101,88,NULL,NULL,Final,NULL,29,32,16,24,NULL,22,18,19,29,NULL,NBA
+47,271126023,2008,"Mon, Nov 26",Sacramento Kings,San Antonio Spurs,"5-9, 5-2 Home","12-3, 4-3 Away",112,99,NULL,NULL,Final,NULL,22,30,34,26,NULL,23,25,25,26,NULL,NBA
+48,271130016,2008,"Fri, Nov 30",Minnesota Timberwolves,San Antonio Spurs,"2-12, 1-7 Home","14-3, 5-3 Away",91,106,NULL,NULL,Final,NULL,24,24,32,11,NULL,22,26,26,32,NULL,NBA
+49,271205024,2008,"Wed, Dec 5",San Antonio Spurs,Dallas Mavericks,"16-3, 11-0 Home","12-7, 4-6 Away",97,95,NULL,NULL,Final,NULL,18,24,31,24,NULL,24,25,17,29,NULL,NBA
+50,271211009,2008,"Tue, Dec 11",Golden State Warriors,San Antonio Spurs,"12-9, 6-5 Home","17-4, 5-4 Away",96,84,NULL,NULL,Final,TNT,23,30,26,17,NULL,25,12,27,20,NULL,NBA
+51,271215024,2008,"Sat, Dec 15",San Antonio Spurs,Denver Nuggets,"18-5, 13-0 Home","14-9, 4-6 Away",102,91,NULL,NULL,Final,NULL,22,34,36,10,NULL,27,23,18,23,NULL,NBA
+52,271219029,2008,"Wed, Dec 19",Memphis Grizzlies,San Antonio Spurs,"8-17, 5-8 Home","18-7, 5-6 Away",88,85,NULL,NULL,Final,NULL,31,18,27,12,NULL,19,16,24,26,NULL,NBA
+53,271226024,2008,"Wed, Dec 26",San Antonio Spurs,Chicago Bulls,"20-7, 15-1 Home","9-17, 4-10 Away",94,79,NULL,NULL,Final,NULL,21,30,21,22,NULL,22,17,20,20,NULL,NBA
+54,271230024,2008,"Sun, Dec 30",San Antonio Spurs,Memphis Grizzlies,"21-8, 16-2 Home","8-22, 3-11 Away",111,87,NULL,NULL,Final,NULL,22,26,38,25,NULL,32,14,18,23,NULL,NBA
+55,280104024,2008,"Fri, Jan 4",San Antonio Spurs,New York Knicks,"22-9, 17-2 Home","8-23, 1-12 Away",97,93,NULL,NULL,Final,NULL,27,24,25,21,NULL,24,20,27,22,NULL,NBA
+56,280107009,2008,"Mon, Jan 7",Golden State Warriors,San Antonio Spurs,"20-15, 9-7 Home","23-10, 6-8 Away",130,121,NULL,NULL,Final/OT,NBATV/TNT,17,34,28,33,18,19,25,30,38,9,NBA
+57,280112024,2008,"Sat, Jan 12",San Antonio Spurs,Minnesota Timberwolves,"24-11, 18-3 Home","5-31, 1-18 Away",105,88,NULL,NULL,Final,NULL,24,20,31,30,NULL,24,21,21,22,NULL,NBA
+58,280117024,2008,"Thu, Jan 17",San Antonio Spurs,Cleveland Cavaliers,"25-12, 19-4 Home","21-18, 9-12 Away",88,90,NULL,NULL,Final,TNT,26,17,22,23,NULL,19,31,23,17,NULL,NBA
+59,280121030,2008,"Mon, Jan 21",Charlotte Bobcats,San Antonio Spurs,"16-25, 14-12 Home","26-13, 7-9 Away",86,95,NULL,NULL,Final,NULL,27,20,20,19,NULL,26,28,19,22,NULL,NBA
+60,280124014,2008,"Thu, Jan 24",Miami Heat,San Antonio Spurs,"8-34, 4-16 Home","28-13, 8-9 Away",89,90,NULL,NULL,Final,TNT,28,18,26,17,NULL,24,21,20,25,NULL,NBA
+61,280128026,2008,"Mon, Jan 28",Utah Jazz,San Antonio Spurs,"27-18, 19-3 Home","28-15, 8-10 Away",97,91,NULL,NULL,Final,NBATV,27,28,21,21,NULL,19,26,21,25,NULL,NBA
+62,280131021,2008,"Thu, Jan 31",Phoenix Suns,San Antonio Spurs,"33-14, 16-5 Home","29-16, 9-11 Away",81,84,NULL,NULL,Final,TNT,25,15,20,21,NULL,18,16,21,29,NULL,NBA
+63,280206027,2008,"Wed, Feb 6",Washington Wizards,San Antonio Spurs,"24-24, 15-11 Home","31-16, 11-11 Away",77,85,NULL,NULL,Final,NULL,15,22,21,19,NULL,20,18,19,28,NULL,NBA
+64,280210002,2008,"Sun, Feb 10",Boston Celtics,San Antonio Spurs,"39-9, 22-4 Home","32-17, 12-12 Away",98,90,NULL,NULL,Final,ABC,20,23,25,30,NULL,23,18,20,29,NULL,NBA
+65,280213005,2008,"Wed, Feb 13",Cleveland Cavaliers,San Antonio Spurs,"29-23, 15-9 Home","34-17, 14-12 Away",105,112,NULL,NULL,Final,NULL,24,23,28,30,NULL,18,28,25,41,NULL,NBA
+66,280221016,2008,"Thu, Feb 21",Minnesota Timberwolves,San Antonio Spurs,"11-42, 9-19 Home","36-17, 15-12 Away",99,100,NULL,NULL,Final,NULL,21,32,19,27,NULL,22,31,21,26,NULL,NBA
+67,280225024,2008,"Mon, Feb 25",San Antonio Spurs,Atlanta Hawks,"38-17, 23-5 Home","23-32, 7-21 Away",89,74,NULL,NULL,Final,NULL,5,25,27,32,NULL,16,21,11,26,NULL,NBA
+68,280301015,2008,"Sat, Mar 1",Milwaukee Bucks,San Antonio Spurs,"22-37, 16-12 Home","40-17, 16-12 Away",94,96,NULL,NULL,Final,NULL,28,23,17,26,NULL,27,20,26,23,NULL,NBA
+69,280304024,2008,"Tue, Mar 4",San Antonio Spurs,New Jersey Nets,"42-17, 25-5 Home","26-34, 11-17 Away",81,70,NULL,NULL,Final,NULL,17,27,19,18,NULL,24,13,14,19,NULL,NBA
+70,280307007,2008,"Fri, Mar 7",Denver Nuggets,San Antonio Spurs,"37-24, 25-7 Home","43-18, 17-13 Away",109,96,NULL,NULL,Final,ESPN,26,20,34,29,NULL,26,28,19,23,NULL,NBA
+71,280310024,2008,"Mon, Mar 10",San Antonio Spurs,Denver Nuggets,"44-19, 27-5 Home","37-26, 12-19 Away",107,103,NULL,NULL,Final,NULL,27,28,29,23,NULL,23,35,22,23,NULL,NBA
+72,280314008,2008,"Fri, Mar 14",Detroit Pistons,San Antonio Spurs,"47-18, 25-6 Home","44-21, 17-16 Away",84,80,NULL,NULL,Final,NBATV,20,23,22,19,NULL,26,18,11,25,NULL,NBA
+73,280317024,2008,"Mon, Mar 17",San Antonio Spurs,Boston Celtics,"44-23, 27-6 Home","53-13, 24-8 Away",91,93,NULL,NULL,Final,NULL,28,25,17,21,NULL,11,32,25,25,NULL,NBA
+74,280321024,2008,"Fri, Mar 21",San Antonio Spurs,Sacramento Kings,"46-23, 28-6 Home","31-37, 10-25 Away",102,89,NULL,NULL,Final,NULL,23,31,25,23,NULL,19,28,21,21,NULL,NBA
+75,280325019,2008,"Tue, Mar 25",Orlando Magic,San Antonio Spurs,"46-27, 23-14 Home","48-23, 20-17 Away",97,107,NULL,NULL,Final,NULL,29,27,17,24,NULL,28,30,22,27,NULL,NBA
+76,280328024,2008,"Fri, Mar 28",San Antonio Spurs,Minnesota Timberwolves,"50-23, 30-6 Home","18-53, 5-30 Away",99,84,NULL,NULL,Final,NULL,14,35,19,31,NULL,17,17,28,22,NULL,NBA
+77,280401024,2008,"Tue, Apr 1",San Antonio Spurs,Golden State Warriors,"52-23, 32-6 Home","45-29, 20-17 Away",116,92,NULL,NULL,Final,NULL,35,25,26,30,NULL,34,17,22,19,NULL,NBA
+78,280406022,2008,"Sun, Apr 6",Portland Trail Blazers,San Antonio Spurs,"38-39, 25-13 Home","53-24, 21-18 Away",65,72,NULL,NULL,Final,NULL,13,21,18,13,NULL,17,22,22,11,NULL,NBA
+79,280411024,2008,"Fri, Apr 11",San Antonio Spurs,Seattle SuperSonics,"54-25, 33-7 Home","18-62, 6-34 Away",95,74,NULL,NULL,Final,NULL,13,32,27,23,NULL,20,17,20,17,NULL,NBA
+80,280414023,2008,"Mon, Apr 14",Sacramento Kings,San Antonio Spurs,"38-43, 26-15 Home","55-26, 22-19 Away",98,101,NULL,NULL,Final,NULL,26,25,25,22,NULL,36,20,27,18,NULL,NBA
+81,280416024,2008,"Wed, Apr 16",San Antonio Spurs,Utah Jazz,"56-26, 34-7 Home","54-28, 17-24 Away",109,80,NULL,NULL,Final,ESPN,30,35,20,24,NULL,21,18,21,20,NULL,NBA

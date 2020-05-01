@@ -1,0 +1,67 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,311228028,2012,"Wed, Dec 28",Toronto Raptors,Indiana Pacers,"1-1, 0-1 Home","2-0, 1-0 Away",85,90,NULL,NULL,Final,NBATV,11,23,21,30,NULL,18,20,25,27,NULL,NBA
+1,311231008,2012,"Sat, Dec 31",Detroit Pistons,Indiana Pacers,"1-3, 1-1 Home","3-1, 1-1 Away",96,88,NULL,NULL,Final,NULL,21,31,30,14,NULL,18,26,20,24,NULL,NBA
+2,320104014,2012,"Wed, Jan 4",Miami Heat,Indiana Pacers,"6-1, 3-1 Home","4-2, 2-2 Away",118,83,NULL,NULL,Final,NULL,29,33,26,30,NULL,27,12,27,17,NULL,NBA
+3,320107011,2012,"Sat, Jan 7",Indiana Pacers,Charlotte Bobcats,"6-2, 3-0 Home","2-6, 1-3 Away",99,77,NULL,NULL,Final,NBATV,22,21,28,28,NULL,30,19,14,14,NULL,NBA
+4,320111011,2012,"Wed, Jan 11",Indiana Pacers,Atlanta Hawks,"7-3, 4-0 Home","7-4, 4-3 Away",96,84,NULL,NULL,Final,NULL,28,25,27,16,NULL,20,30,9,25,NULL,NBA
+5,320114011,2012,"Sat, Jan 14",Indiana Pacers,Boston Celtics,"9-3, 5-0 Home","4-7, 1-4 Away",97,83,NULL,NULL,Final,NULL,29,27,26,15,NULL,24,24,19,16,NULL,NBA
+6,320120009,2012,"Fri, Jan 20",Golden State Warriors,Indiana Pacers,"5-10, 3-5 Home","10-4, 5-4 Away",91,94,NULL,NULL,Final,NULL,23,20,26,22,NULL,27,16,24,27,NULL,NBA
+7,320124011,2012,"Tue, Jan 24",Indiana Pacers,Orlando Magic,"11-5, 5-1 Home","12-5, 6-3 Away",83,102,NULL,NULL,Final,NULL,29,16,17,21,NULL,22,23,29,28,NULL,NBA
+8,320127002,2012,"Fri, Jan 27",Boston Celtics,Indiana Pacers,"9-9, 6-5 Home","12-6, 7-5 Away",94,87,NULL,NULL,Final,NULL,23,19,29,23,NULL,17,17,27,26,NULL,NBA
+9,320131011,2012,"Tue, Jan 31",Indiana Pacers,New Jersey Nets,"14-6, 6-1 Home","7-15, 5-9 Away",106,99,NULL,NULL,Final,NULL,28,27,29,22,NULL,24,29,19,27,NULL,NBA
+10,320203006,2012,"Fri, Feb 3",Dallas Mavericks,Indiana Pacers,"14-10, 9-5 Home","16-6, 10-5 Away",87,98,NULL,NULL,Final,NULL,28,25,16,18,NULL,29,23,24,22,NULL,NBA
+11,320207011,2012,"Tue, Feb 7",Indiana Pacers,Utah Jazz,"17-7, 7-2 Home","13-11, 2-7 Away",104,99,NULL,NULL,Final,NULL,27,30,27,20,NULL,23,23,31,22,NULL,NBA
+12,320210029,2012,"Fri, Feb 10",Memphis Grizzlies,Indiana Pacers,"14-13, 9-4 Home","17-9, 10-7 Away",98,92,NULL,NULL,Final,NULL,22,25,26,25,NULL,22,25,26,19,NULL,NBA
+13,320214011,2012,"Tue, Feb 14",Indiana Pacers,Miami Heat,"17-11, 7-4 Home","23-7, 11-5 Away",90,105,NULL,NULL,Final,NBATV,16,23,19,32,NULL,33,35,22,15,NULL,NBA
+14,320216011,2012,"Thu, Feb 16",Indiana Pacers,New Jersey Nets,"18-12, 8-4 Home","8-23, 5-12 Away",93,88,NULL,NULL,Final,NULL,21,29,14,29,NULL,29,21,15,23,NULL,NBA
+15,320221011,2012,"Tue, Feb 21",Indiana Pacers,New Orleans Hornets,"20-12, 10-4 Home","7-25, 4-11 Away",117,108,NULL,NULL,Final/OT,NULL,24,29,27,20,17,31,25,20,24,8,NBA
+16,320228011,2012,"Tue, Feb 28",Indiana Pacers,Golden State Warriors,"22-12, 11-4 Home","13-18, 4-9 Away",102,78,NULL,NULL,Final,NULL,24,28,33,17,NULL,21,17,16,24,NULL,NBA
+17,320305004,2012,"Mon, Mar 5",Chicago Bulls,Indiana Pacers,"32-8, 15-2 Home","23-13, 12-9 Away",92,72,NULL,NULL,Final,NULL,22,20,33,17,NULL,20,23,13,16,NULL,NBA
+18,320310014,2012,"Sat, Mar 10",Miami Heat,Indiana Pacers,"31-9, 18-2 Home","23-15, 12-10 Away",93,91,NULL,NULL,Final/OT,NULL,17,22,21,25,8,26,17,18,24,6,NBA
+19,320313011,2012,"Tue, Mar 13",Indiana Pacers,Portland Trail Blazers,"24-16, 12-5 Home","20-22, 6-15 Away",92,75,NULL,NULL,Final,NULL,19,29,27,17,NULL,15,23,14,23,NULL,NBA
+20,320316018,2012,"Fri, Mar 16",New York Knicks,Indiana Pacers,"20-24, 13-10 Home","25-17, 12-12 Away",115,100,NULL,NULL,Final,NULL,24,26,38,27,NULL,14,17,27,42,NULL,NBA
+21,320320011,2012,"Tue, Mar 20",Indiana Pacers,LA Clippers,"26-18, 14-6 Home","26-19, 11-11 Away",102,89,NULL,NULL,Final,NULL,31,23,24,24,NULL,31,15,20,23,NULL,NBA
+22,320323011,2012,"Fri, Mar 23",Indiana Pacers,Phoenix Suns,"27-19, 14-7 Home","24-24, 9-14 Away",111,113,NULL,NULL,Final,NULL,31,30,18,32,NULL,28,26,32,27,NULL,NBA
+23,320326011,2012,"Mon, Mar 26",Indiana Pacers,Miami Heat,"29-19, 15-7 Home","35-13, 15-11 Away",105,90,NULL,NULL,Final,NULL,24,25,29,27,NULL,24,22,19,25,NULL,NBA
+24,320329011,2012,"Thu, Mar 29",Indiana Pacers,Washington Wizards,"30-20, 16-7 Home","11-39, 5-20 Away",93,89,NULL,NULL,Final,NULL,30,22,20,21,NULL,26,23,20,20,NULL,NBA
+25,320401010,2012,"Sun, Apr 1",Houston Rockets,Indiana Pacers,"28-25, 20-8 Home","31-21, 15-14 Away",102,104,NULL,NULL,Final/OT,NULL,23,19,31,20,9,27,17,19,30,11,NBA
+26,320404027,2012,"Wed, Apr 4",Washington Wizards,Indiana Pacers,"12-42, 7-21 Home","33-21, 16-14 Away",96,109,NULL,NULL,Final,NULL,28,23,23,22,NULL,37,15,34,23,NULL,NBA
+27,320407011,2012,"Sat, Apr 7",Indiana Pacers,Boston Celtics,"34-22, 18-8 Home","31-24, 12-15 Away",72,86,NULL,NULL,Final,NULL,19,14,18,21,NULL,24,19,16,27,NULL,NBA
+28,320411005,2012,"Wed, Apr 11",Cleveland Cavaliers,Indiana Pacers,"19-37, 10-19 Home","36-22, 17-14 Away",98,104,NULL,NULL,Final/OT,NULL,25,21,20,28,4,28,18,27,21,10,NBA
+29,320414015,2012,"Sat, Apr 14",Milwaukee Bucks,Indiana Pacers,"29-31, 15-15 Home","38-22, 18-14 Away",99,105,NULL,NULL,Final,NULL,27,21,30,21,NULL,27,32,21,25,NULL,NBA
+30,320417020,2012,"Tue, Apr 17",Philadelphia 76ers,Indiana Pacers,"31-30, 19-14 Home","40-22, 19-14 Away",97,102,NULL,NULL,Final,CSN,21,21,28,27,NULL,23,24,23,32,NULL,NBA
+31,320421011,2012,"Sat, Apr 21",Indiana Pacers,Philadelphia 76ers,"41-23, 22-9 Home","33-30, 14-16 Away",106,109,NULL,NULL,Final/OT,CSN,23,31,20,24,8,34,19,28,17,11,NBA
+32,311226011,2012,"Mon, Dec 26",Indiana Pacers,Detroit Pistons,"1-0, 1-0 Home","0-1, 0-1 Away",91,79,NULL,NULL,Final,NULL,26,26,24,15,NULL,17,21,20,21,NULL,NBA
+33,311230011,2012,"Fri, Dec 30",Indiana Pacers,Cleveland Cavaliers,"3-0, 2-0 Home","1-2, 1-1 Away",98,91,NULL,NULL,Final/OT,NULL,22,23,25,14,14,24,23,14,23,7,NBA
+34,320102017,2012,"Mon, Jan 2",New Jersey Nets,Indiana Pacers,"1-5, 0-2 Home","4-1, 2-1 Away",94,108,NULL,NULL,Final,NULL,21,21,22,30,NULL,29,19,29,31,NULL,NBA
+35,320106002,2012,"Fri, Jan 6",Boston Celtics,Indiana Pacers,"4-4, 3-1 Home","5-2, 3-2 Away",74,87,NULL,NULL,Final,NULL,14,11,30,19,NULL,14,19,30,24,NULL,NBA
+36,320109020,2012,"Mon, Jan 9",Philadelphia 76ers,Indiana Pacers,"6-2, 3-0 Home","6-3, 3-3 Away",96,86,NULL,NULL,Final,CSN,25,20,28,23,NULL,20,20,24,22,NULL,NBA
+37,320113028,2012,"Fri, Jan 13",Toronto Raptors,Indiana Pacers,"4-8, 2-4 Home","8-3, 4-3 Away",90,95,NULL,NULL,Final,TSN2,27,18,20,25,NULL,15,25,25,30,NULL,NBA
+38,320118023,2012,"Wed, Jan 18",Sacramento Kings,Indiana Pacers,"5-10, 4-3 Home","9-4, 4-4 Away",92,88,NULL,NULL,Final,NULL,19,26,21,26,NULL,23,27,30,8,NULL,NBA
+39,320122013,2012,"Sun, Jan 22",Los Angeles Lakers,Indiana Pacers,"10-8, 9-2 Home","11-4, 6-4 Away",96,98,NULL,NULL,Final,NULL,27,25,26,18,NULL,14,35,28,21,NULL,NBA
+40,320125004,2012,"Wed, Jan 25",Chicago Bulls,Indiana Pacers,"16-4, 8-1 Home","12-5, 7-4 Away",90,95,NULL,NULL,Final,NBATV,23,31,20,16,NULL,24,20,31,20,NULL,NBA
+41,320129019,2012,"Sun, Jan 29",Orlando Magic,Indiana Pacers,"12-8, 6-4 Home","13-6, 8-5 Away",85,106,NULL,NULL,Final,NULL,22,29,17,17,NULL,29,19,32,26,NULL,NBA
+42,320201016,2012,"Wed, Feb 1",Minnesota Timberwolves,Indiana Pacers,"10-12, 5-8 Home","15-6, 9-5 Away",99,109,NULL,NULL,Final,NULL,25,16,29,29,NULL,20,25,31,33,NULL,NBA
+43,320204011,2012,"Sat, Feb 4",Indiana Pacers,Orlando Magic,"16-7, 6-2 Home","15-9, 7-5 Away",81,85,NULL,NULL,Final,NBATV,21,18,14,28,NULL,23,16,23,23,NULL,NBA
+44,320208001,2012,"Wed, Feb 8",Atlanta Hawks,Indiana Pacers,"17-9, 9-4 Home","17-8, 10-6 Away",97,87,NULL,NULL,Final,NULL,32,27,21,17,NULL,21,20,31,15,NULL,NBA
+45,320211011,2012,"Sat, Feb 11",Indiana Pacers,Denver Nuggets,"17-10, 7-3 Home","16-12, 9-5 Away",109,113,NULL,NULL,Final,NBATV,35,25,24,25,NULL,26,34,27,26,NULL,NBA
+46,320215005,2012,"Wed, Feb 15",Cleveland Cavaliers,Indiana Pacers,"11-16, 6-7 Home","17-12, 10-8 Away",98,87,NULL,NULL,Final,NULL,32,24,23,19,NULL,20,18,23,26,NULL,NBA
+47,320219011,2012,"Sun, Feb 19",Indiana Pacers,Charlotte Bobcats,"19-12, 9-4 Home","4-27, 2-16 Away",108,73,NULL,NULL,Final,NULL,24,29,35,20,NULL,12,21,15,25,NULL,NBA
+48,320222030,2012,"Wed, Feb 22",Charlotte Bobcats,Indiana Pacers,"4-28, 2-12 Home","21-12, 11-8 Away",88,102,NULL,NULL,Final,NULL,28,14,26,20,NULL,23,27,28,24,NULL,NBA
+49,320303003,2012,"Sat, Mar 3",New Orleans Hornets,Indiana Pacers,"9-28, 4-16 Home","23-12, 12-8 Away",84,102,NULL,NULL,Final,NULL,23,14,17,30,NULL,25,29,25,23,NULL,NBA
+50,320306011,2012,"Tue, Mar 6",Indiana Pacers,Atlanta Hawks,"23-14, 11-5 Home","23-15, 11-9 Away",96,101,NULL,NULL,Final,NULL,22,32,17,25,NULL,29,29,18,25,NULL,NBA
+51,320311019,2012,"Sun, Mar 11",Orlando Magic,Indiana Pacers,"27-15, 14-7 Home","23-16, 12-11 Away",107,94,NULL,NULL,Final,NULL,36,20,35,16,NULL,22,23,21,28,NULL,NBA
+52,320314011,2012,"Wed, Mar 14",Indiana Pacers,Philadelphia 76ers,"25-16, 13-5 Home","25-18, 9-10 Away",111,94,NULL,NULL,Final,CSN/ESPN,24,30,29,28,NULL,29,22,24,19,NULL,NBA
+53,320317011,2012,"Sat, Mar 17",Indiana Pacers,New York Knicks,"25-18, 13-6 Home","21-24, 8-14 Away",88,102,NULL,NULL,Final,NULL,35,16,23,14,NULL,33,27,17,25,NULL,NBA
+54,320322027,2012,"Thu, Mar 22",Washington Wizards,Indiana Pacers,"11-35, 6-17 Home","27-18, 13-12 Away",83,85,NULL,NULL,Final,NULL,34,17,15,17,NULL,18,13,26,28,NULL,NBA
+55,320324015,2012,"Sat, Mar 24",Milwaukee Bucks,Indiana Pacers,"22-26, 11-11 Home","28-19, 14-12 Away",104,125,NULL,NULL,Final,NULL,26,22,28,28,NULL,29,28,35,33,NULL,NBA
+56,320328017,2012,"Wed, Mar 28",New Jersey Nets,Indiana Pacers,"17-35, 7-19 Home","29-20, 14-13 Away",100,84,NULL,NULL,Final,NULL,25,24,20,31,NULL,22,21,24,17,NULL,NBA
+57,320331024,2012,"Sat, Mar 31",San Antonio Spurs,Indiana Pacers,"36-14, 21-4 Home","30-21, 14-14 Away",112,103,NULL,NULL,Final,NULL,25,39,26,22,NULL,18,30,30,25,NULL,NBA
+58,320403011,2012,"Tue, Apr 3",Indiana Pacers,New York Knicks,"32-21, 17-7 Home","27-27, 9-17 Away",112,104,NULL,NULL,Final,NULL,31,20,21,40,NULL,31,28,28,17,NULL,NBA
+59,320406011,2012,"Fri, Apr 6",Indiana Pacers,Oklahoma City Thunder,"34-21, 18-7 Home","40-15, 17-10 Away",103,98,NULL,NULL,Final,NULL,32,24,19,28,NULL,20,21,20,37,NULL,NBA
+60,320409011,2012,"Mon, Apr 9",Indiana Pacers,Toronto Raptors,"35-22, 19-8 Home","20-38, 9-20 Away",103,98,NULL,NULL,Final,TSNT,21,30,26,26,NULL,16,21,25,36,NULL,NBA
+61,320413011,2012,"Fri, Apr 13",Indiana Pacers,Cleveland Cavaliers,"37-22, 20-8 Home","19-38, 9-19 Away",102,83,NULL,NULL,Final,NULL,16,25,34,27,NULL,19,24,13,27,NULL,NBA
+62,320416011,2012,"Mon, Apr 16",Indiana Pacers,Minnesota Timberwolves,"39-22, 21-8 Home","25-37, 12-20 Away",111,88,NULL,NULL,Final,NULL,32,32,29,18,NULL,13,17,33,25,NULL,NBA
+63,320419011,2012,"Thu, Apr 19",Indiana Pacers,Milwaukee Bucks,"41-22, 22-8 Home","29-33, 14-18 Away",118,109,NULL,NULL,Final,NULL,34,22,33,29,NULL,29,21,28,31,NULL,NBA
+64,320423011,2012,"Mon, Apr 23",Indiana Pacers,Detroit Pistons,"42-23, 23-9 Home","24-41, 7-26 Away",103,97,NULL,NULL,Final,NULL,26,28,22,27,NULL,26,26,23,22,NULL,NBA
+65,320425011,2012,"Wed, Apr 25",Indiana Pacers,Chicago Bulls,"42-24, 23-10 Home","49-16, 24-9 Away",87,92,NULL,NULL,Final,NULL,24,12,23,28,NULL,32,17,18,25,NULL,NBA

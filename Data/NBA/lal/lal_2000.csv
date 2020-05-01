@@ -1,0 +1,81 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,191103013,2000,"Wed, Nov 3",Los Angeles Lakers,Vancouver Grizzlies,"2-0, 1-0 Home","0-2, 0-1 Away",103,88,NULL,NULL,Final,NULL,23,26,30,24,NULL,22,26,19,21,NULL,NBA
+1,191107013,2000,"Sun, Nov 7",Los Angeles Lakers,Dallas Mavericks,"3-1, 2-0 Home","2-2, 1-2 Away",105,97,NULL,NULL,Final,NULL,29,23,29,24,NULL,16,29,21,31,NULL,NBA
+2,191110010,2000,"Wed, Nov 10",Houston Rockets,Los Angeles Lakers,"0-5, 0-4 Home","5-1, 3-1 Away",88,89,NULL,NULL,Final,NULL,22,27,17,22,NULL,24,26,18,21,NULL,NBA
+3,191114013,2000,"Sun, Nov 14",Los Angeles Lakers,Atlanta Hawks,"6-2, 3-1 Home","1-6, 0-5 Away",93,88,NULL,NULL,Final,NULL,35,22,20,16,NULL,21,14,22,31,NULL,NBA
+4,191118007,2000,"Thu, Nov 18",Denver Nuggets,Los Angeles Lakers,"3-5, 3-2 Home","7-3, 4-2 Away",93,82,NULL,NULL,Final,NULL,17,22,30,24,NULL,22,20,17,23,NULL,NBA
+5,191121013,2000,"Sun, Nov 21",Los Angeles Lakers,Toronto Raptors,"8-4, 4-2 Home","7-3, 3-1 Away",102,111,NULL,NULL,Final,NULL,23,29,27,23,NULL,32,26,23,30,NULL,NBA
+6,191126013,2000,"Fri, Nov 26",Los Angeles Lakers,New Jersey Nets,"10-4, 6-2 Home","2-11, 1-6 Away",103,80,NULL,NULL,Final,NULL,27,20,26,30,NULL,20,18,21,21,NULL,NBA
+7,191201013,2000,"Wed, Dec 1",Los Angeles Lakers,Golden State Warriors,"12-4, 7-2 Home","2-12, 1-6 Away",93,75,NULL,NULL,Final,NULL,21,21,24,27,NULL,18,10,20,27,NULL,NBA
+8,191205013,2000,"Sun, Dec 5",Los Angeles Lakers,Orlando Magic,"14-4, 9-2 Home","9-9, 6-5 Away",117,100,NULL,NULL,Final,NULL,34,33,25,25,NULL,19,30,23,28,NULL,NBA
+9,191208023,2000,"Wed, Dec 8",Sacramento Kings,Los Angeles Lakers,"12-4, 8-0 Home","15-5, 5-3 Away",103,91,NULL,NULL,Final,NULL,17,32,24,30,NULL,19,23,22,27,NULL,NBA
+10,191212013,2000,"Sun, Dec 12",Los Angeles Lakers,Detroit Pistons,"17-5, 11-2 Home","10-11, 3-8 Away",101,93,NULL,NULL,Final,NULL,25,33,19,24,NULL,25,26,13,29,NULL,NBA
+11,191216001,2000,"Thu, Dec 16",Atlanta Hawks,Los Angeles Lakers,"10-12, 8-4 Home","19-5, 7-3 Away",88,95,NULL,NULL,Final,NULL,22,23,18,25,NULL,24,26,26,19,NULL,NBA
+12,191219028,2000,"Sun, Dec 19",Toronto Raptors,Los Angeles Lakers,"13-11, 8-6 Home","21-5, 9-3 Away",88,94,NULL,NULL,Final,NULL,17,17,22,32,NULL,30,22,21,21,NULL,NBA
+13,191225013,2000,"Sat, Dec 25",Los Angeles Lakers,San Antonio Spurs,"23-5, 13-2 Home","19-10, 7-8 Away",99,93,NULL,NULL,Final,NULL,20,30,21,28,NULL,17,25,25,26,NULL,NBA
+14,191229013,2000,"Wed, Dec 29",Los Angeles Lakers,Phoenix Suns,"25-5, 15-2 Home","18-11, 4-8 Away",103,87,NULL,NULL,Final,NULL,26,31,22,24,NULL,24,28,17,18,NULL,NBA
+15,200105013,2000,"Wed, Jan 5",Los Angeles Lakers,Los Angeles Clippers,"27-5, 16-2 Home","9-22, 3-13 Away",118,101,NULL,NULL,Final,NULL,29,23,27,39,NULL,31,21,21,28,NULL,NBA
+16,200108025,2000,"Sat, Jan 8",Seattle SuperSonics,Los Angeles Lakers,"20-13, 10-6 Home","29-5, 12-3 Away",100,110,NULL,NULL,Final,NULL,31,35,12,22,NULL,28,21,34,27,NULL,NBA
+17,200112015,2000,"Wed, Jan 12",Milwaukee Bucks,Los Angeles Lakers,"20-16, 12-6 Home","31-5, 13-3 Away",94,103,NULL,NULL,Final,NULL,26,22,16,30,NULL,26,30,21,26,NULL,NBA
+18,200115016,2000,"Sat, Jan 15",Minnesota Timberwolves,Los Angeles Lakers,"18-16, 11-8 Home","32-6, 14-4 Away",91,104,NULL,NULL,Final,NULL,20,29,31,11,NULL,30,27,23,24,NULL,NBA
+19,200119013,2000,"Wed, Jan 19",Los Angeles Lakers,Cleveland Cavaliers,"33-7, 19-3 Home","16-23, 4-15 Away",95,86,NULL,NULL,Final,NULL,21,21,25,28,NULL,24,26,23,13,NULL,NBA
+20,200124026,2000,"Mon, Jan 24",Utah Jazz,Los Angeles Lakers,"27-12, 16-4 Home","33-9, 14-5 Away",105,101,NULL,NULL,Final/2OT,NULL,17,27,22,15,24,26,17,18,20,20,NBA
+21,200130010,2000,"Sun, Jan 30",Houston Rockets,Los Angeles Lakers,"17-27, 10-13 Home","34-10, 14-6 Away",89,83,NULL,NULL,Final,NULL,25,17,23,24,NULL,16,23,27,17,NULL,NBA
+22,200204013,2000,"Fri, Feb 4",Los Angeles Lakers,Utah Jazz,"35-11, 21-4 Home","27-18, 11-11 Away",113,67,NULL,NULL,Final,NULL,33,23,32,25,NULL,14,7,32,14,NULL,NBA
+23,200209013,2000,"Wed, Feb 9",Los Angeles Lakers,Minnesota Timberwolves,"37-11, 23-4 Home","27-19, 12-11 Away",114,81,NULL,NULL,Final,NULL,24,30,26,34,NULL,18,23,18,22,NULL,NBA
+24,200216003,2000,"Wed, Feb 16",Charlotte Hornets,Los Angeles Lakers,"28-21, 20-4 Home","39-11, 16-7 Away",85,92,NULL,NULL,Final,NULL,22,22,24,17,NULL,20,22,22,28,NULL,NBA
+25,200220020,2000,"Sun, Feb 20",Philadelphia 76ers,Los Angeles Lakers,"28-24, 18-10 Home","41-11, 18-7 Away",84,87,NULL,NULL,Final,NULL,18,26,22,18,NULL,18,30,20,19,NULL,NBA
+26,200223005,2000,"Wed, Feb 23",Cleveland Cavaliers,Los Angeles Lakers,"22-32, 18-10 Home","43-11, 20-7 Away",98,116,NULL,NULL,Final,NULL,24,27,27,20,NULL,25,32,24,35,NULL,NBA
+27,200227013,2000,"Sun, Feb 27",Los Angeles Lakers,Houston Rockets,"45-11, 25-4 Home","21-35, 7-20 Away",101,85,NULL,NULL,Final,NULL,30,18,25,28,NULL,13,16,25,31,NULL,NBA
+28,200301013,2000,"Wed, Mar 1",Los Angeles Lakers,Vancouver Grizzlies,"47-11, 26-4 Home","18-39, 9-20 Away",103,91,NULL,NULL,Final,NULL,23,25,29,26,NULL,22,25,22,22,NULL,NBA
+29,200305013,2000,"Sun, Mar 5",Los Angeles Lakers,Miami Heat,"49-11, 28-4 Home","37-22, 15-16 Away",93,80,NULL,NULL,Final,NULL,37,20,15,21,NULL,23,17,20,20,NULL,NBA
+30,200309009,2000,"Thu, Mar 9",Golden State Warriors,Los Angeles Lakers,"16-44, 10-21 Home","51-11, 23-7 Away",92,109,NULL,NULL,Final,NULL,25,24,24,19,NULL,23,36,27,23,NULL,NBA
+31,200313007,2000,"Mon, Mar 13",Denver Nuggets,Los Angeles Lakers,"26-37, 20-13 Home","53-11, 24-7 Away",108,118,NULL,NULL,Final,NULL,23,27,32,26,NULL,25,34,29,30,NULL,NBA
+32,200317008,2000,"Fri, Mar 17",Detroit Pistons,Los Angeles Lakers,"32-32, 24-11 Home","54-12, 25-8 Away",82,110,NULL,NULL,Final,NULL,19,23,19,21,NULL,22,32,26,30,NULL,NBA
+33,200320014,2000,"Mon, Mar 20",Miami Heat,Los Angeles Lakers,"42-24, 25-7 Home","56-12, 27-8 Away",89,100,NULL,NULL,Final,NULL,23,32,14,20,NULL,21,21,33,25,NULL,NBA
+34,200324013,2000,"Fri, Mar 24",Los Angeles Lakers,Phoenix Suns,"58-12, 31-4 Home","44-24, 15-18 Away",109,101,NULL,NULL,Final,NULL,29,22,28,30,NULL,23,22,26,30,NULL,NBA
+35,200329029,2000,"Wed, Mar 29",Vancouver Grizzlies,Los Angeles Lakers,"19-51, 10-25 Home","60-12, 29-8 Away",99,108,NULL,NULL,Final,NULL,30,16,26,27,NULL,31,29,26,22,NULL,NBA
+36,200402013,2000,"Sun, Apr 2",Los Angeles Lakers,New York Knicks,"62-12, 33-4 Home","45-28, 16-20 Away",106,82,NULL,NULL,Final,NULL,28,30,17,31,NULL,21,19,20,22,NULL,NBA
+37,200405009,2000,"Wed, Apr 5",Golden State Warriors,Los Angeles Lakers,"17-58, 10-26 Home","64-12, 31-8 Away",104,111,NULL,NULL,Final,NULL,24,27,24,29,NULL,21,26,30,34,NULL,NBA
+38,200410013,2000,"Mon, Apr 10",Los Angeles Lakers,Seattle SuperSonics,"65-13, 34-5 Home","42-35, 19-19 Away",106,103,NULL,NULL,Final/OT,NULL,23,16,34,21,12,22,18,20,34,9,NBA
+39,191102026,2000,"Tue, Nov 2",Utah Jazz,Los Angeles Lakers,"0-1, 0-1 Home","1-0, 1-0 Away",84,91,NULL,NULL,Final,NULL,18,18,23,25,NULL,25,18,20,28,NULL,NBA
+40,191106022,2000,"Sat, Nov 6",Portland Trail Blazers,Los Angeles Lakers,"4-0, 3-0 Home","2-1, 1-1 Away",97,82,NULL,NULL,Final,NULL,25,30,21,21,NULL,24,21,19,18,NULL,NBA
+41,191109006,2000,"Tue, Nov 9",Dallas Mavericks,Los Angeles Lakers,"2-3, 1-1 Home","4-1, 2-1 Away",101,123,NULL,NULL,Final,NULL,22,27,22,30,NULL,25,29,34,35,NULL,NBA
+42,191112013,2000,"Fri, Nov 12",Los Angeles Lakers,Houston Rockets,"5-2, 2-1 Home","1-5, 1-1 Away",81,97,NULL,NULL,Final,NULL,16,20,18,27,NULL,23,29,24,21,NULL,NBA
+43,191115021,2000,"Mon, Nov 15",Phoenix Suns,Los Angeles Lakers,"4-4, 2-1 Home","7-2, 4-1 Away",82,91,NULL,NULL,Final,NULL,23,23,18,18,NULL,28,18,21,24,NULL,NBA
+44,191119013,2000,"Fri, Nov 19",Los Angeles Lakers,Chicago Bulls,"8-3, 4-1 Home","1-8, 0-5 Away",103,95,NULL,NULL,Final,NULL,30,19,29,25,NULL,21,19,23,32,NULL,NBA
+45,191124013,2000,"Wed, Nov 24",Los Angeles Lakers,Utah Jazz,"9-4, 5-2 Home","7-5, 2-4 Away",90,82,NULL,NULL,Final,NULL,21,17,30,22,NULL,12,17,27,26,NULL,NBA
+46,191130025,2000,"Tue, Nov 30",Seattle SuperSonics,Los Angeles Lakers,"11-4, 6-1 Home","11-4, 5-2 Away",77,101,NULL,NULL,Final,NULL,23,16,20,18,NULL,23,29,23,26,NULL,NBA
+47,191203013,2000,"Fri, Dec 3",Los Angeles Lakers,Portland Trail Blazers,"13-4, 8-2 Home","14-4, 8-3 Away",93,80,NULL,NULL,Final,NULL,18,19,25,31,NULL,25,11,23,21,NULL,NBA
+48,191207013,2000,"Tue, Dec 7",Los Angeles Lakers,Washington Wizards,"15-4, 10-2 Home","5-15, 2-8 Away",91,80,NULL,NULL,Final,NULL,19,22,17,33,NULL,19,21,13,27,NULL,NBA
+49,191211029,2000,"Sat, Dec 11",Vancouver Grizzlies,Los Angeles Lakers,"4-16, 3-8 Home","16-5, 6-3 Away",94,106,NULL,NULL,Final,NULL,23,27,19,25,NULL,23,26,21,36,NULL,NBA
+50,191214013,2000,"Tue, Dec 14",Los Angeles Lakers,Los Angeles Clippers,"18-5, 12-2 Home","5-17, 2-9 Away",95,68,NULL,NULL,Final,NULL,32,17,31,15,NULL,16,3,17,32,NULL,NBA
+51,191217016,2000,"Fri, Dec 17",Minnesota Timberwolves,Los Angeles Lakers,"7-13, 6-6 Home","20-5, 8-3 Away",88,97,NULL,NULL,Final,NULL,26,12,30,20,NULL,27,29,19,22,NULL,NBA
+52,191220002,2000,"Mon, Dec 20",Boston Celtics,Los Angeles Lakers,"10-14, 9-5 Home","22-5, 10-3 Away",90,99,NULL,NULL,Final,NULL,18,25,26,21,NULL,27,17,23,32,NULL,NBA
+53,191227013,2000,"Mon, Dec 27",Los Angeles Lakers,Dallas Mavericks,"24-5, 14-2 Home","9-20, 4-13 Away",108,106,NULL,NULL,Final,NULL,31,21,26,30,NULL,19,29,23,35,NULL,NBA
+54,200104012,2000,"Tue, Jan 4",Los Angeles Clippers,Los Angeles Lakers,"9-21, 6-9 Home","26-5, 11-3 Away",98,122,NULL,NULL,Final,NULL,29,32,18,19,NULL,24,35,37,26,NULL,NBA
+55,200107013,2000,"Fri, Jan 7",Los Angeles Lakers,Charlotte Hornets,"28-5, 17-2 Home","18-14, 5-12 Away",87,83,NULL,NULL,Final,NULL,18,26,16,27,NULL,27,20,19,17,NULL,NBA
+56,200110013,2000,"Mon, Jan 10",Los Angeles Lakers,Denver Nuggets,"30-5, 18-2 Home","17-16, 3-11 Away",130,95,NULL,NULL,Final,NULL,43,29,35,23,NULL,18,29,29,19,NULL,NBA
+57,200114011,2000,"Fri, Jan 14",Indiana Pacers,Los Angeles Lakers,"24-11, 15-2 Home","31-6, 13-4 Away",111,102,NULL,NULL,Final,NULL,33,24,18,36,NULL,30,28,19,25,NULL,NBA
+58,200117013,2000,"Mon, Jan 17",Los Angeles Lakers,Seattle SuperSonics,"32-7, 18-3 Home","25-13, 13-7 Away",81,82,NULL,NULL,Final,NULL,25,20,17,19,NULL,28,18,20,16,NULL,NBA
+59,200122013,2000,"Sat, Jan 22",Los Angeles Lakers,Portland Trail Blazers,"33-8, 19-4 Home","30-10, 17-7 Away",91,95,NULL,NULL,Final,NULL,30,27,21,13,NULL,30,17,26,22,NULL,NBA
+60,200128013,2000,"Fri, Jan 28",Los Angeles Lakers,Milwaukee Bucks,"34-9, 20-4 Home","23-20, 9-13 Away",117,89,NULL,NULL,Final,NULL,36,31,23,27,NULL,31,24,20,14,NULL,NBA
+61,200201024,2000,"Tue, Feb 1",San Antonio Spurs,Los Angeles Lakers,"29-16, 18-4 Home","34-11, 14-7 Away",105,81,NULL,NULL,Final,NULL,26,29,25,25,NULL,21,24,18,18,NULL,NBA
+62,200207013,2000,"Mon, Feb 7",Los Angeles Lakers,Denver Nuggets,"36-11, 22-4 Home","21-25, 3-16 Away",106,98,NULL,NULL,Final,NULL,27,23,21,35,NULL,25,37,17,19,NULL,NBA
+63,200215004,2000,"Tue, Feb 15",Chicago Bulls,Los Angeles Lakers,"10-38, 6-17 Home","38-11, 15-7 Away",76,88,NULL,NULL,Final,NULL,18,21,18,19,NULL,22,14,22,30,NULL,NBA
+64,200218019,2000,"Fri, Feb 18",Orlando Magic,Los Angeles Lakers,"25-27, 13-13 Home","40-11, 17-7 Away",99,107,NULL,NULL,Final/OT,NULL,22,24,20,22,11,31,22,15,20,19,NBA
+65,200222017,2000,"Tue, Feb 22",New Jersey Nets,Los Angeles Lakers,"21-32, 16-12 Home","42-11, 19-7 Away",89,97,NULL,NULL,Final,NULL,16,17,31,25,NULL,18,26,29,24,NULL,NBA
+66,200225013,2000,"Fri, Feb 25",Los Angeles Lakers,Boston Celtics,"44-11, 24-4 Home","23-32, 6-23 Away",109,96,NULL,NULL,Final,NULL,30,23,31,25,NULL,17,24,25,30,NULL,NBA
+67,200229022,2000,"Tue, Feb 29",Portland Trail Blazers,Los Angeles Lakers,"45-12, 23-4 Home","46-11, 21-7 Away",87,90,NULL,NULL,Final,NULL,22,15,25,25,NULL,20,24,24,22,NULL,NBA
+68,200303013,2000,"Fri, Mar 3",Los Angeles Lakers,Indiana Pacers,"48-11, 27-4 Home","39-19, 13-17 Away",107,92,NULL,NULL,Final,NULL,30,26,24,27,NULL,16,23,27,26,NULL,NBA
+69,200306012,2000,"Mon, Mar 6",Los Angeles Clippers,Los Angeles Lakers,"12-48, 9-19 Home","50-11, 22-7 Away",103,123,NULL,NULL,Final,NULL,29,26,25,23,NULL,24,32,36,31,NULL,NBA
+70,200312013,2000,"Sun, Mar 12",Los Angeles Lakers,Sacramento Kings,"52-11, 29-4 Home","36-26, 12-20 Away",109,106,NULL,NULL,Final,NULL,22,30,22,35,NULL,31,28,27,20,NULL,NBA
+71,200316027,2000,"Thu, Mar 16",Washington Wizards,Los Angeles Lakers,"21-45, 14-20 Home","53-12, 24-8 Away",109,102,NULL,NULL,Final,NULL,36,28,18,27,NULL,20,25,28,29,NULL,NBA
+72,200319018,2000,"Sun, Mar 19",New York Knicks,Los Angeles Lakers,"40-25, 27-8 Home","55-12, 26-8 Away",85,92,NULL,NULL,Final,NULL,24,20,14,27,NULL,23,20,26,23,NULL,NBA
+73,200322013,2000,"Wed, Mar 22",Los Angeles Lakers,Golden State Warriors,"57-12, 30-4 Home","17-51, 7-28 Away",119,96,NULL,NULL,Final,NULL,37,28,31,23,NULL,19,26,27,24,NULL,NBA
+74,200326023,2000,"Sun, Mar 26",Sacramento Kings,Los Angeles Lakers,"40-29, 27-7 Home","59-12, 28-8 Away",89,90,NULL,NULL,Final,NULL,25,25,23,16,NULL,18,29,21,22,NULL,NBA
+75,200331013,2000,"Fri, Mar 31",Los Angeles Lakers,Philadelphia 76ers,"61-12, 32-4 Home","42-30, 17-19 Away",100,88,NULL,NULL,Final,CSN,25,26,27,22,NULL,21,25,23,19,NULL,NBA
+76,200404021,2000,"Tue, Apr 4",Phoenix Suns,Los Angeles Lakers,"48-26, 30-7 Home","63-12, 30-8 Away",83,84,NULL,NULL,Final,NULL,23,16,27,17,NULL,17,23,27,17,NULL,NBA
+77,200408013,2000,"Sat, Apr 8",Los Angeles Lakers,San Antonio Spurs,"64-13, 33-5 Home","48-28, 20-19 Away",80,98,NULL,NULL,Final,NULL,25,16,26,13,NULL,25,29,30,14,NULL,NBA
+78,200414013,2000,"Fri, Apr 14",Los Angeles Lakers,Sacramento Kings,"66-13, 35-5 Home","44-35, 14-25 Away",121,114,NULL,NULL,Final,NULL,28,29,37,27,NULL,39,26,21,28,NULL,NBA
+79,200416013,2000,"Sun, Apr 16",Los Angeles Lakers,Minnesota Timberwolves,"67-13, 36-5 Home","49-31, 23-17 Away",101,95,NULL,NULL,Final,NULL,23,26,25,27,NULL,25,18,30,22,NULL,NBA

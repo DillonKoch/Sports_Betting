@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,271102012,2008,"Fri, Nov 2",LA Clippers,Golden State Warriors,"1-0, 1-0 Home","0-2, 0-1 Away",120,114,NULL,NULL,Final,TNT,35,26,31,28,NULL,27,34,29,24,NULL,NBA
+1,271106009,2008,"Tue, Nov 6",Golden State Warriors,Cleveland Cavaliers,"0-4, 0-2 Home","2-2, 1-1 Away",104,108,NULL,NULL,Final,TNT,23,31,27,23,NULL,29,25,26,28,NULL,NBA
+2,271114009,2008,"Wed, Nov 14",Golden State Warriors,Detroit Pistons,"0-6, 0-4 Home","6-2, 4-2 Away",104,111,NULL,NULL,Final,TBS,40,24,21,19,NULL,25,26,31,29,NULL,NBA
+3,271118028,2008,"Sun, Nov 18",Toronto Raptors,Golden State Warriors,"5-5, 2-4 Home","2-6, 1-2 Away",100,106,NULL,NULL,Final,NULL,29,32,27,12,NULL,32,26,22,26,NULL,NBA
+4,271121002,2008,"Wed, Nov 21",Boston Celtics,Golden State Warriors,"9-1, 6-0 Home","3-7, 2-3 Away",105,82,NULL,NULL,Final,NULL,25,25,31,24,NULL,16,21,27,18,NULL,NBA
+5,271124020,2008,"Sat, Nov 24",Philadelphia 76ers,Golden State Warriors,"3-9, 2-4 Home","5-7, 4-3 Away",98,100,NULL,NULL,Final/OT,NULL,30,27,19,14,8,23,22,30,15,10,NBA
+6,271128023,2008,"Wed, Nov 28",Sacramento Kings,Golden State Warriors,"5-10, 5-3 Home","7-7, 5-3 Away",96,103,NULL,NULL,Final,NULL,25,30,27,14,NULL,29,24,28,22,NULL,NBA
+7,271202025,2008,"Sun, Dec 2",Seattle SuperSonics,Golden State Warriors,"3-15, 1-8 Home","9-7, 6-3 Away",96,109,NULL,NULL,Final,NULL,18,23,25,30,NULL,35,25,28,21,NULL,NBA
+8,271205009,2008,"Wed, Dec 5",Golden State Warriors,Milwaukee Bucks,"10-8, 4-5 Home","8-9, 2-7 Away",120,90,NULL,NULL,Final,TBS,30,27,28,35,NULL,25,11,27,27,NULL,NBA
+9,271209013,2008,"Sun, Dec 9",Los Angeles Lakers,Golden State Warriors,"12-8, 7-4 Home","11-9, 6-4 Away",123,113,NULL,NULL,Final,NBATV,31,29,32,31,NULL,31,28,27,27,NULL,NBA
+10,271212022,2008,"Wed, Dec 12",Portland Trail Blazers,Golden State Warriors,"10-12, 8-3 Home","12-10, 6-5 Away",105,95,NULL,NULL,Final,NULL,22,32,31,20,NULL,22,27,28,18,NULL,NBA
+11,271216008,2008,"Sun, Dec 16",Detroit Pistons,Golden State Warriors,"17-7, 9-2 Home","13-11, 6-6 Away",109,87,NULL,NULL,Final,NULL,23,35,29,22,NULL,22,13,32,20,NULL,NBA
+12,271219016,2008,"Wed, Dec 19",Minnesota Timberwolves,Golden State Warriors,"3-21, 2-10 Home","15-11, 8-6 Away",98,111,NULL,NULL,Final,NULL,29,33,17,19,NULL,26,28,37,20,NULL,NBA
+13,271223005,2008,"Sun, Dec 23",Cleveland Cavaliers,Golden State Warriors,"12-16, 7-6 Home","16-12, 9-7 Away",96,105,NULL,NULL,Final,NULL,22,28,17,29,NULL,38,25,28,14,NULL,NBA
+14,271228009,2008,"Fri, Dec 28",Golden State Warriors,Denver Nuggets,"17-13, 8-6 Home","18-11, 6-7 Away",120,124,NULL,NULL,Final,TBS,32,32,33,23,NULL,39,32,31,22,NULL,NBA
+15,271231010,2008,"Mon, Dec 31",Houston Rockets,Golden State Warriors,"15-16, 7-6 Home","19-13, 11-7 Away",95,112,NULL,NULL,Final,TNT,22,34,24,15,NULL,28,24,23,37,NULL,NBA
+16,280104009,2008,"Fri, Jan 4",Golden State Warriors,New Orleans Hornets,"19-15, 8-7 Home","22-11, 13-5 Away",104,116,NULL,NULL,Final,TNT,27,29,18,30,NULL,39,19,32,26,NULL,NBA
+17,280109022,2008,"Wed, Jan 9",Portland Trail Blazers,Golden State Warriors,"22-13, 17-3 Home","20-16, 11-9 Away",109,91,NULL,NULL,Final,NULL,30,26,28,25,NULL,14,27,23,27,NULL,NBA
+18,280113009,2008,"Sun, Jan 13",Golden State Warriors,Indiana Pacers,"22-16, 11-7 Home","17-22, 9-13 Away",106,101,NULL,NULL,Final,TBS,19,26,28,33,NULL,34,20,22,25,NULL,NBA
+19,280116011,2008,"Wed, Jan 16",Indiana Pacers,Golden State Warriors,"18-22, 9-9 Home","23-17, 12-10 Away",125,117,NULL,NULL,Final,NULL,18,33,28,46,NULL,29,26,38,24,NULL,NBA
+20,280119015,2008,"Sat, Jan 19",Milwaukee Bucks,Golden State Warriors,"16-24, 11-6 Home","25-17, 14-10 Away",99,119,NULL,NULL,Final,NULL,27,25,22,25,NULL,22,31,41,25,NULL,NBA
+21,280124009,2008,"Thu, Jan 24",Golden State Warriors,New Jersey Nets,"26-18, 12-8 Home","18-24, 9-10 Away",121,119,NULL,NULL,Final,TNT,33,20,29,39,NULL,26,26,38,29,NULL,NBA
+22,280129010,2008,"Tue, Jan 29",Houston Rockets,Golden State Warriors,"25-20, 12-9 Home","27-19, 14-11 Away",111,107,NULL,NULL,Final,TNT,33,27,23,28,NULL,18,28,26,35,NULL,NBA
+23,280201009,2008,"Fri, Feb 1",Golden State Warriors,Charlotte Bobcats,"29-19, 14-8 Home","18-29, 4-15 Away",127,96,NULL,NULL,Final,TNT,32,37,32,26,NULL,23,25,21,27,NULL,NBA
+24,280209009,2008,"Sat, Feb 9",Golden State Warriors,Sacramento Kings,"30-20, 15-9 Home","23-26, 7-16 Away",105,102,NULL,NULL,Final,TNT,28,23,27,27,NULL,19,27,32,24,NULL,NBA
+25,280213009,2008,"Wed, Feb 13",Golden State Warriors,Phoenix Suns,"32-20, 17-9 Home","36-16, 17-10 Away",120,118,NULL,NULL,Final,ESPN,38,21,28,33,NULL,32,23,35,28,NULL,NBA
+26,280220009,2008,"Wed, Feb 20",Golden State Warriors,Boston Celtics,"33-21, 18-9 Home","41-11, 18-7 Away",119,117,NULL,NULL,Final,TNT,32,18,32,37,NULL,29,28,27,33,NULL,NBA
+27,280226009,2008,"Tue, Feb 26",Golden State Warriors,Seattle SuperSonics,"34-22, 19-10 Home","15-41, 5-22 Away",105,99,NULL,NULL,Final,TNT,27,26,27,25,NULL,32,25,17,25,NULL,NBA
+28,280302009,2008,"Sun, Mar 2",Golden State Warriors,Portland Trail Blazers,"36-22, 21-10 Home","31-29, 9-21 Away",110,104,NULL,NULL,Final,TNT,29,25,27,29,NULL,22,27,32,23,NULL,NBA
+29,280305030,2008,"Wed, Mar 5",Charlotte Bobcats,Golden State Warriors,"22-39, 17-17 Home","37-23, 16-13 Away",118,109,NULL,NULL,Final,NULL,25,34,34,25,NULL,38,19,29,23,NULL,NBA
+30,280308019,2008,"Sat, Mar 8",Orlando Magic,Golden State Warriors,"40-24, 18-12 Home","39-23, 18-13 Away",95,104,NULL,NULL,Final,NULL,36,19,16,24,NULL,27,20,33,24,NULL,NBA
+31,280313021,2008,"Thu, Mar 13",Phoenix Suns,Golden State Warriors,"43-22, 24-10 Home","40-24, 18-14 Away",123,115,NULL,NULL,Final,TNT,34,23,38,28,NULL,39,23,22,31,NULL,NBA
+32,280318023,2008,"Tue, Mar 18",Sacramento Kings,Golden State Warriors,"31-36, 21-12 Home","41-25, 18-15 Away",122,105,NULL,NULL,Final,NULL,29,32,40,21,NULL,31,26,25,23,NULL,NBA
+33,280321009,2008,"Fri, Mar 21",Golden State Warriors,Houston Rockets,"42-26, 23-11 Home","47-22, 21-12 Away",106,109,NULL,NULL,Final,TBS,29,21,23,33,NULL,26,26,23,34,NULL,NBA
+34,280324009,2008,"Mon, Mar 24",Golden State Warriors,Los Angeles Lakers,"43-27, 23-12 Home","49-22, 25-13 Away",119,123,NULL,NULL,Final/OT,NBATV/TNT,28,35,23,25,8,20,32,35,24,12,NBA
+35,280329007,2008,"Sat, Mar 29",Denver Nuggets,Golden State Warriors,"45-28, 30-7 Home","44-28, 20-16 Away",119,112,NULL,NULL,Final,NULL,38,27,23,31,NULL,32,29,25,26,NULL,NBA
+36,280401024,2008,"Tue, Apr 1",San Antonio Spurs,Golden State Warriors,"52-23, 32-6 Home","45-29, 20-17 Away",116,92,NULL,NULL,Final,NULL,35,25,26,30,NULL,34,17,22,19,NULL,NBA
+37,280404029,2008,"Fri, Apr 4",Memphis Grizzlies,Golden State Warriors,"20-56, 14-25 Home","46-30, 21-18 Away",86,117,NULL,NULL,Final,NULL,25,21,20,20,NULL,33,27,30,27,NULL,NBA
+38,280408009,2008,"Tue, Apr 8",Golden State Warriors,Sacramento Kings,"47-31, 26-12 Home","36-42, 12-28 Away",140,132,NULL,NULL,Final,TNT,39,38,26,37,NULL,32,34,30,36,NULL,NBA
+39,280412009,2008,"Sat, Apr 12",Golden State Warriors,LA Clippers,"48-32, 27-13 Home","23-57, 10-29 Away",122,116,NULL,NULL,Final,TNT,42,26,25,29,NULL,26,35,23,32,NULL,NBA
+40,271030009,2008,"Tue, Oct 30",Golden State Warriors,Utah Jazz,"0-1, 0-1 Home","1-0, 1-0 Away",96,117,NULL,NULL,Final,TNT,30,21,21,24,NULL,28,34,24,31,NULL,NBA
+41,271103026,2008,"Sat, Nov 3",Utah Jazz,Golden State Warriors,"2-1, 1-1 Home","0-3, 0-2 Away",133,110,NULL,NULL,Final,TBS,29,36,29,39,NULL,28,18,35,29,NULL,NBA
+42,271108009,2008,"Thu, Nov 8",Golden State Warriors,Dallas Mavericks,"0-5, 0-3 Home","4-1, 2-1 Away",115,120,NULL,NULL,Final,TNT,27,34,25,29,NULL,27,30,34,29,NULL,NBA
+43,271116009,2008,"Fri, Nov 16",Golden State Warriors,LA Clippers,"1-6, 1-4 Home","5-3, 2-2 Away",122,105,NULL,NULL,Final,TNT,34,30,32,26,NULL,26,29,32,18,NULL,NBA
+44,271120018,2008,"Tue, Nov 20",New York Knicks,Golden State Warriors,"2-8, 2-3 Home","3-6, 2-2 Away",82,108,NULL,NULL,Final,NULL,24,23,15,20,NULL,31,29,17,31,NULL,NBA
+45,271123027,2008,"Fri, Nov 23",Washington Wizards,Golden State Warriors,"6-6, 3-3 Home","4-7, 3-3 Away",115,123,NULL,NULL,Final,NULL,33,28,28,26,NULL,30,30,30,33,NULL,NBA
+46,271126009,2008,"Mon, Nov 26",Golden State Warriors,Phoenix Suns,"6-7, 2-4 Home","11-3, 6-2 Away",129,114,NULL,NULL,Final,NBATV,45,27,31,26,NULL,37,26,29,22,NULL,NBA
+47,271129009,2008,"Thu, Nov 29",Golden State Warriors,Houston Rockets,"8-7, 3-4 Home","9-8, 5-5 Away",113,94,NULL,NULL,Final,NULL,29,30,24,30,NULL,24,26,18,26,NULL,NBA
+48,271203009,2008,"Mon, Dec 3",Golden State Warriors,Orlando Magic,"9-8, 3-5 Home","16-4, 11-2 Away",117,123,NULL,NULL,Final/OT,NULL,21,27,31,30,8,30,27,27,25,14,NBA
+49,271207009,2008,"Fri, Dec 7",Golden State Warriors,Miami Heat,"11-8, 5-5 Home","4-15, 2-9 Away",120,113,NULL,NULL,Final,TNT,30,26,26,38,NULL,39,27,25,22,NULL,NBA
+50,271211009,2008,"Tue, Dec 11",Golden State Warriors,San Antonio Spurs,"12-9, 6-5 Home","17-4, 5-4 Away",96,84,NULL,NULL,Final,TNT,23,30,26,17,NULL,25,12,27,20,NULL,NBA
+51,271214009,2008,"Fri, Dec 14",Golden State Warriors,Los Angeles Lakers,"13-10, 7-5 Home","13-9, 5-5 Away",108,106,NULL,NULL,Final,ESPN/TNT,17,30,36,25,NULL,28,26,31,21,NULL,NBA
+52,271217029,2008,"Mon, Dec 17",Memphis Grizzlies,Golden State Warriors,"7-17, 4-8 Home","14-11, 7-6 Away",117,125,NULL,NULL,Final,NULL,34,22,21,40,NULL,32,34,29,30,NULL,NBA
+53,271222017,2008,"Sat, Dec 22",New Jersey Nets,Golden State Warriors,"12-15, 6-10 Home","15-12, 8-7 Away",100,95,NULL,NULL,Final,YES,27,25,28,20,NULL,17,28,27,23,NULL,NBA
+54,271226009,2008,"Wed, Dec 26",Golden State Warriors,Minnesota Timberwolves,"17-12, 8-5 Home","4-23, 1-13 Away",105,101,NULL,NULL,Final,NBATV/TBS,33,23,30,19,NULL,24,19,31,27,NULL,NBA
+55,271230007,2008,"Sun, Dec 30",Denver Nuggets,Golden State Warriors,"18-12, 12-5 Home","18-13, 10-7 Away",95,105,NULL,NULL,Final,NULL,21,30,21,23,NULL,26,29,20,30,NULL,NBA
+56,280102006,2008,"Wed, Jan 2",Dallas Mavericks,Golden State Warriors,"21-11, 15-3 Home","19-14, 11-8 Away",121,99,NULL,NULL,Final,NBATV,36,24,29,32,NULL,23,29,33,14,NULL,NBA
+57,280107009,2008,"Mon, Jan 7",Golden State Warriors,San Antonio Spurs,"20-15, 9-7 Home","23-10, 6-8 Away",130,121,NULL,NULL,Final/OT,NBATV/TNT,17,34,28,33,18,19,25,30,38,9,NBA
+58,280111009,2008,"Fri, Jan 11",Golden State Warriors,Memphis Grizzlies,"21-16, 10-7 Home","10-26, 4-14 Away",116,104,NULL,NULL,Final,TNT,33,34,32,17,NULL,25,29,25,25,NULL,NBA
+59,280115016,2008,"Tue, Jan 15",Minnesota Timberwolves,Golden State Warriors,"5-32, 4-14 Home","23-16, 12-9 Away",98,105,NULL,NULL,Final,NULL,24,20,22,32,NULL,28,28,27,22,NULL,NBA
+60,280118004,2008,"Fri, Jan 18",Chicago Bulls,Golden State Warriors,"15-23, 7-11 Home","24-17, 13-10 Away",111,119,NULL,NULL,Final,ESPN,29,29,26,27,NULL,28,22,34,35,NULL,NBA
+61,280121009,2008,"Mon, Jan 21",Golden State Warriors,Minnesota Timberwolves,"25-18, 11-8 Home","6-34, 2-20 Away",108,109,NULL,NULL,Final,NULL,23,29,28,28,NULL,33,16,36,24,NULL,NBA
+62,280127009,2008,"Sun, Jan 27",Golden State Warriors,New York Knicks,"27-18, 13-8 Home","14-29, 4-15 Away",106,104,NULL,NULL,Final,TNT,29,18,29,30,NULL,20,32,27,25,NULL,NBA
+63,280130003,2008,"Wed, Jan 30",New Orleans Hornets,Golden State Warriors,"32-13, 16-8 Home","28-19, 15-11 Away",103,116,NULL,NULL,Final,NULL,26,28,31,18,NULL,32,26,32,26,NULL,NBA
+64,280207009,2008,"Thu, Feb 7",Golden State Warriors,Chicago Bulls,"29-20, 14-9 Home","20-29, 10-16 Away",108,114,NULL,NULL,Final,TNT,23,24,30,31,NULL,32,18,27,37,NULL,NBA
+65,280211009,2008,"Mon, Feb 11",Golden State Warriors,Washington Wizards,"31-20, 16-9 Home","24-27, 9-16 Away",120,117,NULL,NULL,Final,NBATV/TNT,22,33,29,36,NULL,37,35,23,22,NULL,NBA
+66,280219026,2008,"Tue, Feb 19",Utah Jazz,Golden State Warriors,"35-19, 23-3 Home","32-21, 15-12 Away",119,109,NULL,NULL,Final,NULL,36,41,25,17,NULL,36,28,21,24,NULL,NBA
+67,280222009,2008,"Fri, Feb 22",Golden State Warriors,Atlanta Hawks,"33-22, 18-10 Home","23-30, 7-19 Away",110,117,NULL,NULL,Final,TNT,23,27,39,21,NULL,35,33,26,23,NULL,NBA
+68,280229009,2008,"Fri, Feb 29",Golden State Warriors,Philadelphia 76ers,"35-22, 20-10 Home","26-33, 10-19 Away",119,97,NULL,NULL,Final,CSN/TNT,26,41,23,29,NULL,18,34,21,24,NULL,NBA
+69,280304001,2008,"Tue, Mar 4",Atlanta Hawks,Golden State Warriors,"25-34, 18-12 Home","37-22, 16-12 Away",118,135,NULL,NULL,Final,NULL,42,28,22,26,NULL,37,31,32,35,NULL,NBA
+70,280307014,2008,"Fri, Mar 7",Miami Heat,Golden State Warriors,"11-49, 6-24 Home","38-23, 17-13 Away",99,134,NULL,NULL,Final,NULL,31,20,22,26,NULL,32,31,37,34,NULL,NBA
+71,280312009,2008,"Wed, Mar 12",Golden State Warriors,Toronto Raptors,"40-23, 22-10 Home","34-30, 15-17 Away",117,106,NULL,NULL,Final,NBATV/TNT,35,23,30,29,NULL,17,31,31,27,NULL,NBA
+72,280315009,2008,"Sat, Mar 15",Golden State Warriors,Memphis Grizzlies,"41-24, 23-10 Home","15-50, 4-28 Away",110,107,NULL,NULL,Final,TNT,29,25,26,30,NULL,17,24,25,41,NULL,NBA
+73,280319012,2008,"Wed, Mar 19",LA Clippers,Golden State Warriors,"21-46, 12-23 Home","42-25, 19-15 Away",100,116,NULL,NULL,Final,ESPN,26,20,28,26,NULL,37,27,28,24,NULL,NBA
+74,280323013,2008,"Sun, Mar 23",Los Angeles Lakers,Golden State Warriors,"48-22, 24-9 Home","43-26, 20-15 Away",111,115,NULL,NULL,Final,TNT,30,19,32,30,NULL,34,38,15,28,NULL,NBA
+75,280327009,2008,"Thu, Mar 27",Golden State Warriors,Portland Trail Blazers,"44-27, 24-12 Home","38-35, 13-25 Away",111,95,NULL,NULL,Final,TNT,22,29,40,20,NULL,30,22,20,23,NULL,NBA
+76,280330009,2008,"Sun, Mar 30",Golden State Warriors,Dallas Mavericks,"45-28, 25-12 Home","45-28, 15-21 Away",114,104,NULL,NULL,Final,NBATV/TNT,27,32,25,30,NULL,26,25,25,28,NULL,NBA
+77,280402006,2008,"Wed, Apr 2",Dallas Mavericks,Golden State Warriors,"47-28, 31-7 Home","45-30, 20-18 Away",111,86,NULL,NULL,Final,ESPN,29,31,29,22,NULL,25,25,19,17,NULL,NBA
+78,280406003,2008,"Sun, Apr 6",New Orleans Hornets,Golden State Warriors,"54-22, 29-10 Home","46-31, 21-19 Away",108,96,NULL,NULL,Final,ABC,22,37,29,20,NULL,31,20,27,18,NULL,NBA
+79,280410009,2008,"Thu, Apr 10",Golden State Warriors,Denver Nuggets,"47-32, 26-13 Home","48-31, 17-23 Away",105,114,NULL,NULL,Final,TNT,37,23,22,23,NULL,22,39,28,25,NULL,NBA
+80,280414021,2008,"Mon, Apr 14",Phoenix Suns,Golden State Warriors,"54-27, 29-11 Home","48-33, 21-20 Away",122,116,NULL,NULL,Final,TBS,31,40,19,32,NULL,27,30,38,21,NULL,NBA
+81,280416009,2008,"Wed, Apr 16",Golden State Warriors,Seattle SuperSonics,"48-34, 27-14 Home","20-62, 7-34 Away",121,126,NULL,NULL,Final,NULL,24,36,20,41,NULL,35,33,27,31,NULL,NBA

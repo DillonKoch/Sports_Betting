@@ -1,0 +1,67 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,311227017,2012,"Tue, Dec 27",New Jersey Nets,Atlanta Hawks,"1-1, 0-1 Home","1-0, 1-0 Away",70,106,NULL,NULL,Final,NULL,11,19,25,15,NULL,28,24,25,29,NULL,NBA
+1,311230001,2012,"Fri, Dec 30",Atlanta Hawks,New Jersey Nets,"3-0, 2-0 Home","1-3, 1-2 Away",105,98,NULL,NULL,Final,NULL,20,23,33,29,NULL,19,18,35,26,NULL,NBA
+2,320102017,2012,"Mon, Jan 2",New Jersey Nets,Indiana Pacers,"1-5, 0-2 Home","4-1, 2-1 Away",94,108,NULL,NULL,Final,NULL,21,21,22,30,NULL,29,19,29,31,NULL,NBA
+3,320106028,2012,"Fri, Jan 6",Toronto Raptors,New Jersey Nets,"3-4, 1-2 Home","2-6, 2-4 Away",85,97,NULL,NULL,Final,TSNT,21,19,24,21,NULL,22,26,27,22,NULL,NBA
+4,320109017,2012,"Mon, Jan 9",New Jersey Nets,Atlanta Hawks,"2-8, 0-4 Home","7-3, 4-2 Away",101,106,NULL,NULL,Final,NULL,18,27,26,30,NULL,31,25,24,26,NULL,NBA
+5,320113021,2012,"Fri, Jan 13",Phoenix Suns,New Jersey Nets,"4-7, 3-4 Home","3-9, 3-5 Away",103,110,NULL,NULL,Final,NULL,25,26,31,21,NULL,22,32,34,22,NULL,NBA
+6,320116012,2012,"Mon, Jan 16",LA Clippers,New Jersey Nets,"7-3, 6-1 Home","3-11, 3-7 Away",101,91,NULL,NULL,Final,NULL,32,21,21,27,NULL,17,23,23,28,NULL,NBA
+7,320121017,2012,"Sat, Jan 21",New Jersey Nets,Oklahoma City Thunder,"4-12, 1-5 Home","13-3, 7-2 Away",74,84,NULL,NULL,Final,NULL,18,17,16,23,NULL,28,20,16,20,NULL,NBA
+8,320123004,2012,"Mon, Jan 23",Chicago Bulls,New Jersey Nets,"16-3, 8-0 Home","5-13, 3-8 Away",110,95,NULL,NULL,Final,NULL,28,31,26,25,NULL,18,25,25,27,NULL,NBA
+9,320127005,2012,"Fri, Jan 27",Cleveland Cavaliers,New Jersey Nets,"7-11, 3-4 Home","7-13, 5-8 Away",96,99,NULL,NULL,Final,NULL,20,17,24,35,NULL,30,17,25,27,NULL,NBA
+10,320131011,2012,"Tue, Jan 31",Indiana Pacers,New Jersey Nets,"14-6, 6-1 Home","7-15, 5-9 Away",106,99,NULL,NULL,Final,NULL,28,27,29,22,NULL,24,29,19,27,NULL,NBA
+11,320203017,2012,"Fri, Feb 3",New Jersey Nets,Minnesota Timberwolves,"8-16, 3-7 Home","11-12, 6-4 Away",105,108,NULL,NULL,Final,NULL,19,31,25,30,NULL,23,26,31,28,NULL,NBA
+12,320206017,2012,"Mon, Feb 6",New Jersey Nets,Chicago Bulls,"8-18, 3-8 Home","21-6, 12-5 Away",87,108,NULL,NULL,Final,NULL,14,23,27,23,NULL,35,27,21,25,NULL,NBA
+13,320210008,2012,"Fri, Feb 10",Detroit Pistons,New Jersey Nets,"8-20, 6-8 Home","8-20, 5-11 Away",109,92,NULL,NULL,Final,NULL,24,28,35,22,NULL,15,18,31,28,NULL,NBA
+14,320215017,2012,"Wed, Feb 15",New Jersey Nets,Memphis Grizzlies,"8-22, 3-11 Home","16-14, 6-9 Away",100,105,NULL,NULL,Final,NBATV,28,27,23,22,NULL,23,30,24,28,NULL,NBA
+15,320218004,2012,"Sat, Feb 18",Chicago Bulls,New Jersey Nets,"25-8, 11-2 Home","9-23, 6-12 Away",85,97,NULL,NULL,Final,NULL,19,26,11,29,NULL,34,25,14,24,NULL,NBA
+16,320220018,2012,"Mon, Feb 20",New York Knicks,New Jersey Nets,"16-17, 9-9 Home","10-24, 7-12 Away",92,100,NULL,NULL,Final,NULL,21,21,22,28,NULL,18,32,32,18,NULL,NBA
+17,320228006,2012,"Tue, Feb 28",Dallas Mavericks,New Jersey Nets,"21-14, 13-7 Home","11-25, 8-12 Away",92,93,NULL,NULL,Final,NULL,23,22,31,16,NULL,28,28,23,14,NULL,NBA
+18,320304030,2012,"Sun, Mar 4",Charlotte Bobcats,New Jersey Nets,"4-31, 2-13 Home","12-26, 9-13 Away",101,104,NULL,NULL,Final,NULL,25,28,19,29,NULL,22,23,28,31,NULL,NBA
+19,320307017,2012,"Wed, Mar 7",New Jersey Nets,LA Clippers,"13-27, 4-13 Home","22-15, 10-10 Away",101,100,NULL,NULL,Final,NBATV,27,30,23,21,NULL,22,23,26,29,NULL,NBA
+20,320310017,2012,"Sat, Mar 10",New Jersey Nets,Houston Rockets,"14-28, 4-14 Home","22-19, 7-13 Away",106,112,NULL,NULL,Final,NULL,21,28,34,23,NULL,29,30,25,28,NULL,NBA
+21,320314017,2012,"Wed, Mar 14",New Jersey Nets,Toronto Raptors,"15-29, 5-15 Home","14-29, 7-15 Away",98,84,NULL,NULL,Final,NULL,19,22,27,30,NULL,22,24,15,23,NULL,NBA
+22,320317017,2012,"Sat, Mar 17",New Jersey Nets,New Orleans Hornets,"15-31, 5-16 Home","11-34, 7-15 Away",94,102,NULL,NULL,Final,NULL,29,22,31,12,NULL,26,21,23,32,NULL,NBA
+23,320321017,2012,"Wed, Mar 21",New Jersey Nets,Washington Wizards,"15-33, 5-18 Home","11-34, 5-18 Away",89,108,NULL,NULL,Final,NULL,25,28,19,17,NULL,33,23,28,24,NULL,NBA
+24,320324017,2012,"Sat, Mar 24",New Jersey Nets,Charlotte Bobcats,"16-34, 6-18 Home","7-39, 3-22 Away",102,89,NULL,NULL,Final,NULL,26,22,33,21,NULL,21,21,16,31,NULL,NBA
+25,320328017,2012,"Wed, Mar 28",New Jersey Nets,Indiana Pacers,"17-35, 7-19 Home","29-20, 14-13 Away",100,84,NULL,NULL,Final,NULL,25,24,20,31,NULL,22,21,24,17,NULL,NBA
+26,320331023,2012,"Sat, Mar 31",Sacramento Kings,New Jersey Nets,"18-34, 13-12 Home","19-35, 12-16 Away",99,111,NULL,NULL,Final,NBATV,35,21,20,23,NULL,31,28,32,20,NULL,NBA
+27,320404022,2012,"Wed, Apr 4",Portland Trail Blazers,New Jersey Nets,"26-29, 19-10 Home","19-37, 12-18 Away",101,88,NULL,NULL,Final,NULL,21,25,30,25,NULL,17,27,20,24,NULL,NBA
+28,320408017,2012,"Sun, Apr 8",New Jersey Nets,Cleveland Cavaliers,"21-37, 9-19 Home","18-36, 9-18 Away",122,117,NULL,NULL,Final/OT,NULL,26,30,20,33,13,30,18,23,38,8,NBA
+29,320413020,2012,"Fri, Apr 13",Philadelphia 76ers,New Jersey Nets,"31-28, 19-13 Home","22-38, 13-18 Away",89,95,NULL,NULL,Final,NULL,18,26,22,23,NULL,24,17,22,32,NULL,NBA
+30,320416017,2012,"Mon, Apr 16",New Jersey Nets,Miami Heat,"22-40, 9-22 Home","43-17, 18-13 Away",98,101,NULL,NULL,Final,NULL,34,21,24,19,NULL,29,23,18,31,NULL,NBA
+31,320421015,2012,"Sat, Apr 21",Milwaukee Bucks,New Jersey Nets,"30-33, 16-15 Home","22-42, 13-19 Away",106,95,NULL,NULL,Final,NULL,24,29,20,33,NULL,23,19,27,26,NULL,NBA
+32,311226027,2012,"Mon, Dec 26",Washington Wizards,New Jersey Nets,"0-1, 0-1 Home","1-0, 1-0 Away",84,90,NULL,NULL,Final,NULL,26,19,22,17,NULL,13,24,29,24,NULL,NBA
+33,311229019,2012,"Thu, Dec 29",Orlando Magic,New Jersey Nets,"2-1, 2-0 Home","1-2, 1-1 Away",94,78,NULL,NULL,Final,TNT,28,22,25,19,NULL,16,28,18,16,NULL,NBA
+34,320101005,2012,"Sun, Jan 1",Cleveland Cavaliers,New Jersey Nets,"2-2, 1-1 Home","1-4, 1-3 Away",98,82,NULL,NULL,Final,NULL,24,19,30,25,NULL,27,22,18,15,NULL,NBA
+35,320104002,2012,"Wed, Jan 4",Boston Celtics,New Jersey Nets,"4-3, 3-0 Home","1-6, 1-4 Away",89,70,NULL,NULL,Final,NULL,18,16,29,26,NULL,17,18,12,23,NULL,NBA
+36,320107017,2012,"Sat, Jan 7",New Jersey Nets,Miami Heat,"2-7, 0-3 Home","8-1, 5-0 Away",90,101,NULL,NULL,Final,NBATV,18,17,29,26,NULL,31,26,21,23,NULL,NBA
+37,320111007,2012,"Wed, Jan 11",Denver Nuggets,New Jersey Nets,"7-4, 5-1 Home","2-9, 2-5 Away",123,115,NULL,NULL,Final,NULL,35,33,32,23,NULL,28,24,28,35,NULL,NBA
+38,320114026,2012,"Sat, Jan 14",Utah Jazz,New Jersey Nets,"7-4, 6-1 Home","3-10, 3-6 Away",107,94,NULL,NULL,Final,NBATV,30,27,30,20,NULL,20,20,27,27,NULL,NBA
+39,320118017,2012,"Wed, Jan 18",New Jersey Nets,Golden State Warriors,"4-11, 1-4 Home","5-9, 2-5 Away",107,100,NULL,NULL,Final,NULL,29,26,25,27,NULL,31,25,27,17,NULL,NBA
+40,320122017,2012,"Sun, Jan 22",New Jersey Nets,Charlotte Bobcats,"5-12, 2-5 Home","3-14, 1-8 Away",97,87,NULL,NULL,Final,NULL,28,30,17,22,NULL,21,21,19,26,NULL,NBA
+41,320125020,2012,"Wed, Jan 25",Philadelphia 76ers,New Jersey Nets,"12-6, 8-2 Home","6-13, 4-8 Away",90,97,NULL,NULL,Final/OT,CSN,18,27,16,21,8,22,21,23,16,15,NBA
+42,320129017,2012,"Sun, Jan 29",New Jersey Nets,Toronto Raptors,"7-14, 2-6 Home","7-14, 5-9 Away",73,94,NULL,NULL,Final,TSN2,24,15,14,20,NULL,24,20,26,24,NULL,NBA
+43,320201017,2012,"Wed, Feb 1",New Jersey Nets,Detroit Pistons,"8-15, 3-6 Home","4-20, 1-12 Away",99,96,NULL,NULL,Final,NULL,23,26,23,27,NULL,23,15,33,25,NULL,NBA
+44,320204018,2012,"Sat, Feb 4",New York Knicks,New Jersey Nets,"9-15, 5-7 Home","8-17, 5-10 Away",99,92,NULL,NULL,Final,NBATV,20,26,24,29,NULL,30,18,24,20,NULL,NBA
+45,320208017,2012,"Wed, Feb 8",New Jersey Nets,Detroit Pistons,"8-19, 3-9 Home","7-20, 2-12 Away",92,99,NULL,NULL,Final,NULL,20,19,28,25,NULL,20,31,23,25,NULL,NBA
+46,320211017,2012,"Sat, Feb 11",New Jersey Nets,San Antonio Spurs,"8-21, 3-10 Home","19-9, 6-8 Away",89,103,NULL,NULL,Final,NULL,22,18,19,30,NULL,24,31,22,26,NULL,NBA
+47,320216011,2012,"Thu, Feb 16",Indiana Pacers,New Jersey Nets,"18-12, 8-4 Home","8-23, 5-12 Away",93,88,NULL,NULL,Final,NULL,21,29,14,29,NULL,29,21,15,23,NULL,NBA
+48,320219017,2012,"Sun, Feb 19",New Jersey Nets,Milwaukee Bucks,"9-24, 3-12 Home","13-18, 6-11 Away",85,92,NULL,NULL,Final,NULL,17,19,20,29,NULL,23,20,27,22,NULL,NBA
+49,320222017,2012,"Wed, Feb 22",New Jersey Nets,Orlando Magic,"10-25, 3-13 Home","22-12, 10-6 Away",91,108,NULL,NULL,Final,NULL,17,24,29,21,NULL,34,24,29,21,NULL,NBA
+50,320302002,2012,"Fri, Mar 2",Boston Celtics,New Jersey Nets,"18-17, 13-8 Home","11-26, 8-13 Away",107,94,NULL,NULL,Final,NULL,29,29,29,20,NULL,20,20,31,23,NULL,NBA
+51,320306014,2012,"Tue, Mar 6",Miami Heat,New Jersey Nets,"29-9, 16-2 Home","12-27, 9-14 Away",108,78,NULL,NULL,Final,NULL,30,34,24,20,NULL,17,20,19,22,NULL,NBA
+52,320309030,2012,"Fri, Mar 9",Charlotte Bobcats,New Jersey Nets,"5-33, 3-15 Home","14-27, 10-14 Away",74,83,NULL,NULL,Final,NBATV,15,20,24,15,NULL,23,16,21,23,NULL,NBA
+53,320312017,2012,"Mon, Mar 12",New Jersey Nets,Milwaukee Bucks,"14-29, 4-15 Home","18-24, 8-15 Away",99,105,NULL,NULL,Final,NULL,32,22,19,26,NULL,27,20,26,32,NULL,NBA
+54,320316019,2012,"Fri, Mar 16",Orlando Magic,New Jersey Nets,"29-16, 16-7 Home","15-30, 10-15 Away",86,70,NULL,NULL,Final,NULL,22,24,26,14,NULL,18,18,24,10,NULL,NBA
+55,320319017,2012,"Mon, Mar 19",New Jersey Nets,Cleveland Cavaliers,"15-32, 5-17 Home","17-26, 8-12 Away",100,105,NULL,NULL,Final,NULL,17,33,24,26,NULL,30,23,23,29,NULL,NBA
+56,320323001,2012,"Fri, Mar 23",Atlanta Hawks,New Jersey Nets,"28-20, 15-7 Home","15-34, 10-16 Away",93,84,NULL,NULL,Final,NULL,21,22,19,31,NULL,20,24,25,15,NULL,NBA
+57,320326017,2012,"Mon, Mar 26",New Jersey Nets,Utah Jazz,"16-35, 6-19 Home","27-23, 8-17 Away",84,105,NULL,NULL,Final,NULL,17,15,33,19,NULL,15,34,23,33,NULL,NBA
+58,320330009,2012,"Fri, Mar 30",Golden State Warriors,New Jersey Nets,"20-30, 11-16 Home","18-35, 11-16 Away",100,102,NULL,NULL,Final,NULL,26,25,33,16,NULL,22,20,28,32,NULL,NBA
+59,320403013,2012,"Tue, Apr 3",Los Angeles Lakers,New Jersey Nets,"34-20, 23-5 Home","19-36, 12-17 Away",91,87,NULL,NULL,Final,NULL,32,26,20,13,NULL,23,22,21,21,NULL,NBA
+60,320406017,2012,"Fri, Apr 6",New Jersey Nets,Washington Wizards,"20-37, 8-19 Home","12-44, 5-23 Away",110,98,NULL,NULL,Final,NULL,33,24,26,27,NULL,20,23,23,32,NULL,NBA
+61,320410017,2012,"Tue, Apr 10",New Jersey Nets,Philadelphia 76ers,"21-38, 9-20 Home","30-27, 11-15 Away",88,107,NULL,NULL,Final,CSN,20,23,25,20,NULL,20,32,32,23,NULL,NBA
+62,320414017,2012,"Sat, Apr 14",New Jersey Nets,Boston Celtics,"22-39, 9-21 Home","35-25, 14-16 Away",82,94,NULL,NULL,Final,NULL,28,20,13,21,NULL,22,26,26,20,NULL,NBA
+63,320418017,2012,"Wed, Apr 18",New Jersey Nets,New York Knicks,"22-41, 9-23 Home","33-29, 12-18 Away",95,104,NULL,NULL,Final,NULL,22,25,24,24,NULL,38,26,14,26,NULL,NBA
+64,320423017,2012,"Mon, Apr 23",New Jersey Nets,Philadelphia 76ers,"22-43, 9-24 Home","34-30, 15-16 Away",87,105,NULL,NULL,Final,CSN,18,25,25,19,NULL,31,22,23,29,NULL,NBA
+65,320426028,2012,"Thu, Apr 26",Toronto Raptors,New Jersey Nets,"23-43, 13-20 Home","22-44, 13-20 Away",98,67,NULL,NULL,Final,NULL,26,28,19,25,NULL,15,12,16,24,NULL,NBA

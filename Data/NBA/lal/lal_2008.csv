@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,271102021,2008,"Fri, Nov 2",Phoenix Suns,Los Angeles Lakers,"1-1, 0-1 Home","1-1, 1-0 Away",98,119,NULL,NULL,Final,ESPN,20,30,17,31,NULL,33,30,32,24,NULL,NBA
+1,271106013,2008,"Tue, Nov 6",Los Angeles Lakers,New Orleans Hornets,"2-2, 1-2 Home","4-0, 2-0 Away",104,118,NULL,NULL,Final,NULL,22,33,25,24,NULL,32,25,32,29,NULL,NBA
+2,271113024,2008,"Tue, Nov 13",San Antonio Spurs,Los Angeles Lakers,"7-1, 5-0 Home","3-3, 1-1 Away",107,92,NULL,NULL,Final,NBATV,21,33,25,28,NULL,15,23,24,30,NULL,NBA
+3,271116013,2008,"Fri, Nov 16",Los Angeles Lakers,Detroit Pistons,"5-3, 3-2 Home","6-3, 4-3 Away",103,91,NULL,NULL,Final,ESPN,29,19,14,41,NULL,20,26,22,23,NULL,NBA
+4,271120011,2008,"Tue, Nov 20",Indiana Pacers,Los Angeles Lakers,"4-7, 3-4 Home","7-3, 3-1 Away",114,134,NULL,NULL,Final,NULL,35,28,27,24,NULL,37,34,33,30,NULL,NBA
+5,271123002,2008,"Fri, Nov 23",Boston Celtics,Los Angeles Lakers,"10-1, 7-0 Home","7-5, 3-3 Away",107,94,NULL,NULL,Final,NULL,25,28,31,23,NULL,16,19,31,28,NULL,NBA
+6,271127013,2008,"Tue, Nov 27",Los Angeles Lakers,Seattle SuperSonics,"8-6, 5-3 Home","2-13, 2-7 Away",106,99,NULL,NULL,Final,NULL,30,24,31,21,NULL,25,29,19,26,NULL,NBA
+7,271130026,2008,"Fri, Nov 30",Utah Jazz,Los Angeles Lakers,"12-5, 7-1 Home","9-7, 3-4 Away",120,96,NULL,NULL,Final,ESPN,30,40,32,18,NULL,22,29,31,14,NULL,NBA
+8,271204016,2008,"Tue, Dec 4",Minnesota Timberwolves,Los Angeles Lakers,"2-14, 1-8 Home","10-8, 4-4 Away",95,116,NULL,NULL,Final,NULL,24,22,22,27,NULL,30,32,24,30,NULL,NBA
+9,271209013,2008,"Sun, Dec 9",Los Angeles Lakers,Golden State Warriors,"12-8, 7-4 Home","11-9, 6-4 Away",123,113,NULL,NULL,Final,NBATV,31,29,32,31,NULL,31,28,27,27,NULL,NBA
+10,271214009,2008,"Fri, Dec 14",Golden State Warriors,Los Angeles Lakers,"13-10, 7-5 Home","13-9, 5-5 Away",108,106,NULL,NULL,Final,ESPN/TNT,17,30,36,25,NULL,28,26,31,21,NULL,NBA
+11,271218004,2008,"Tue, Dec 18",Chicago Bulls,Los Angeles Lakers,"8-14, 5-6 Home","15-9, 6-5 Away",91,103,NULL,NULL,Final,NBATV,15,30,23,23,NULL,21,28,24,30,NULL,NBA
+12,271221020,2008,"Fri, Dec 21",Philadelphia 76ers,Los Angeles Lakers,"10-16, 6-9 Home","16-10, 7-6 Away",101,106,NULL,NULL,Final,NULL,24,29,28,20,NULL,32,24,28,22,NULL,NBA
+13,271225013,2008,"Tue, Dec 25",Los Angeles Lakers,Phoenix Suns,"18-10, 10-4 Home","19-9, 11-6 Away",122,115,NULL,NULL,Final,ABC,25,37,30,30,NULL,26,36,27,26,NULL,NBA
+14,271230013,2008,"Sun, Dec 30",Los Angeles Lakers,Boston Celtics,"19-11, 11-5 Home","26-3, 12-2 Away",91,110,NULL,NULL,Final,NBATV,23,22,21,25,NULL,32,21,29,28,NULL,NBA
+15,280106013,2008,"Sun, Jan 6",Los Angeles Lakers,Indiana Pacers,"21-11, 13-5 Home","16-19, 8-10 Away",112,96,NULL,NULL,Final,NULL,33,22,35,22,NULL,23,30,19,24,NULL,NBA
+16,280109003,2008,"Wed, Jan 9",New Orleans Hornets,Los Angeles Lakers,"23-12, 9-7 Home","23-11, 10-6 Away",80,109,NULL,NULL,Final,NULL,19,24,25,12,NULL,32,22,30,25,NULL,NBA
+17,280113013,2008,"Sun, Jan 13",Los Angeles Lakers,Memphis Grizzlies,"25-11, 15-5 Home","10-27, 4-15 Away",100,99,NULL,NULL,Final,NULL,31,30,19,20,NULL,29,22,19,29,NULL,NBA
+18,280117013,2008,"Thu, Jan 17",Los Angeles Lakers,Phoenix Suns,"26-12, 15-6 Home","27-12, 14-8 Away",98,106,NULL,NULL,Final,TNT,24,19,18,37,NULL,27,29,23,27,NULL,NBA
+19,280123024,2008,"Wed, Jan 23",San Antonio Spurs,Los Angeles Lakers,"27-13, 20-4 Home","27-13, 11-7 Away",103,91,NULL,NULL,Final,ESPN,23,22,31,27,NULL,27,27,12,25,NULL,NBA
+20,280127013,2008,"Sun, Jan 27",Los Angeles Lakers,Cleveland Cavaliers,"27-15, 16-7 Home","24-19, 11-12 Away",95,98,NULL,NULL,Final,ABC,26,14,31,24,NULL,24,25,20,29,NULL,NBA
+21,280131008,2008,"Thu, Jan 31",Detroit Pistons,Los Angeles Lakers,"33-13, 16-4 Home","28-16, 11-9 Away",90,89,NULL,NULL,Final,NULL,29,23,15,23,NULL,22,23,27,17,NULL,NBA
+22,280203027,2008,"Sun, Feb 3",Washington Wizards,Los Angeles Lakers,"24-22, 15-10 Home","30-16, 13-9 Away",91,103,NULL,NULL,Final,NBATV,15,26,21,29,NULL,30,33,23,17,NULL,NBA
+23,280206001,2008,"Wed, Feb 6",Atlanta Hawks,Los Angeles Lakers,"22-24, 16-9 Home","31-17, 14-10 Away",98,95,NULL,NULL,Final,NULL,27,18,23,30,NULL,29,24,23,19,NULL,NBA
+24,280210014,2008,"Sun, Feb 10",Miami Heat,Los Angeles Lakers,"9-41, 5-20 Home","33-17, 16-10 Away",94,104,NULL,NULL,Final,ABC,24,23,26,21,NULL,25,26,31,22,NULL,NBA
+25,280213016,2008,"Wed, Feb 13",Minnesota Timberwolves,Los Angeles Lakers,"10-41, 8-18 Home","35-17, 18-10 Away",92,117,NULL,NULL,Final,NULL,21,23,24,24,NULL,30,30,39,18,NULL,NBA
+26,280220021,2008,"Wed, Feb 20",Phoenix Suns,Los Angeles Lakers,"37-17, 20-7 Home","37-17, 19-10 Away",124,130,NULL,NULL,Final,ESPN,29,28,34,33,NULL,32,33,30,35,NULL,NBA
+27,280224025,2008,"Sun, Feb 24",Seattle SuperSonics,Los Angeles Lakers,"15-40, 10-19 Home","39-17, 21-10 Away",91,111,NULL,NULL,Final,NULL,18,25,27,21,NULL,34,28,31,18,NULL,NBA
+28,280228013,2008,"Thu, Feb 28",Los Angeles Lakers,Miami Heat,"41-17, 20-7 Home","10-46, 4-24 Away",106,88,NULL,NULL,Final,TNT,26,27,20,33,NULL,19,22,17,30,NULL,NBA
+29,280302013,2008,"Sun, Mar 2",Los Angeles Lakers,Dallas Mavericks,"42-18, 21-7 Home","39-21, 14-18 Away",108,104,NULL,NULL,Final/OT,ABC,29,21,15,28,15,23,24,21,25,11,NBA
+30,280307013,2008,"Fri, Mar 7",Los Angeles Lakers,LA Clippers,"44-18, 22-7 Home","20-40, 8-19 Away",119,82,NULL,NULL,Final,NULL,26,23,35,35,NULL,24,17,16,25,NULL,NBA
+31,280311013,2008,"Tue, Mar 11",Los Angeles Lakers,Toronto Raptors,"45-19, 23-8 Home","34-29, 15-16 Away",117,108,NULL,NULL,Final,NULL,22,36,25,34,NULL,25,27,25,31,NULL,NBA
+32,280316010,2008,"Sun, Mar 16",Houston Rockets,Los Angeles Lakers,"46-20, 26-9 Home","45-21, 22-13 Away",104,92,NULL,NULL,Final,ABC,24,35,12,33,NULL,23,21,22,26,NULL,NBA
+33,280320026,2008,"Thu, Mar 20",Utah Jazz,Los Angeles Lakers,"45-25, 29-4 Home","47-21, 24-13 Away",95,106,NULL,NULL,Final,TNT,18,27,24,26,NULL,38,22,21,25,NULL,NBA
+34,280323013,2008,"Sun, Mar 23",Los Angeles Lakers,Golden State Warriors,"48-22, 24-9 Home","43-26, 20-15 Away",111,115,NULL,NULL,Final,TNT,30,19,32,30,NULL,34,38,15,28,NULL,NBA
+35,280326013,2008,"Wed, Mar 26",Los Angeles Lakers,Charlotte Bobcats,"49-23, 24-10 Home","26-45, 7-28 Away",95,108,NULL,NULL,Final,NULL,24,20,24,27,NULL,27,30,25,26,NULL,NBA
+36,280330013,2008,"Sun, Mar 30",Los Angeles Lakers,Washington Wizards,"50-24, 25-11 Home","38-35, 17-20 Away",126,120,NULL,NULL,Final/OT,NULL,27,31,28,25,15,25,22,39,25,9,NBA
+37,280404013,2008,"Fri, Apr 4",Los Angeles Lakers,Dallas Mavericks,"52-24, 27-11 Home","47-29, 16-22 Away",112,108,NULL,NULL,Final,ESPN,31,23,26,32,NULL,31,33,23,21,NULL,NBA
+38,280408022,2008,"Tue, Apr 8",Portland Trail Blazers,Los Angeles Lakers,"39-39, 26-13 Home","53-25, 26-14 Away",112,103,NULL,NULL,Final,NULL,28,30,31,23,NULL,24,23,26,30,NULL,NBA
+39,280411013,2008,"Fri, Apr 11",Los Angeles Lakers,New Orleans Hornets,"55-25, 28-11 Home","55-24, 26-13 Away",107,104,NULL,NULL,Final,NULL,39,26,17,25,NULL,20,25,30,29,NULL,NBA
+40,271030013,2008,"Tue, Oct 30",Los Angeles Lakers,Houston Rockets,"0-1, 0-1 Home","1-0, 1-0 Away",93,95,NULL,NULL,Final,TNT,25,18,19,31,NULL,16,27,27,25,NULL,NBA
+41,271104013,2008,"Sun, Nov 4",Los Angeles Lakers,Utah Jazz,"2-1, 1-1 Home","2-2, 1-1 Away",119,109,NULL,NULL,Final,NULL,25,21,35,38,NULL,21,30,31,27,NULL,NBA
+42,271109013,2008,"Fri, Nov 9",Los Angeles Lakers,Minnesota Timberwolves,"3-2, 2-2 Home","0-4, 0-2 Away",107,93,NULL,NULL,Final,NULL,30,26,27,24,NULL,28,22,19,24,NULL,NBA
+43,271114010,2008,"Wed, Nov 14",Houston Rockets,Los Angeles Lakers,"6-3, 3-1 Home","4-3, 2-1 Away",90,93,NULL,NULL,Final,ESPN,22,27,22,19,NULL,25,36,14,18,NULL,NBA
+44,271118013,2008,"Sun, Nov 18",Los Angeles Lakers,Chicago Bulls,"6-3, 4-2 Home","2-7, 1-4 Away",106,78,NULL,NULL,Final,NULL,16,29,30,31,NULL,21,25,14,18,NULL,NBA
+45,271121015,2008,"Wed, Nov 21",Milwaukee Bucks,Los Angeles Lakers,"6-4, 5-0 Home","7-4, 3-2 Away",110,103,NULL,NULL,Final,NULL,17,29,29,35,NULL,24,23,33,23,NULL,NBA
+46,271125013,2008,"Sun, Nov 25",Los Angeles Lakers,New Jersey Nets,"7-6, 4-3 Home","7-7, 4-2 Away",100,102,NULL,NULL,Final,YES,26,23,23,28,NULL,18,19,35,30,NULL,NBA
+47,271129013,2008,"Thu, Nov 29",Los Angeles Lakers,Denver Nuggets,"9-6, 6-3 Home","9-7, 3-5 Away",127,99,NULL,NULL,Final,TNT,21,34,26,46,NULL,33,24,18,24,NULL,NBA
+48,271202013,2008,"Sun, Dec 2",Los Angeles Lakers,Orlando Magic,"9-8, 6-4 Home","15-4, 10-2 Away",97,104,NULL,NULL,Final,NULL,30,25,20,22,NULL,24,39,14,27,NULL,NBA
+49,271205007,2008,"Wed, Dec 5",Denver Nuggets,Los Angeles Lakers,"11-8, 8-3 Home","11-8, 5-4 Away",107,111,NULL,NULL,Final,ESPN,24,34,30,19,NULL,29,33,26,23,NULL,NBA
+50,271213013,2008,"Thu, Dec 13",Los Angeles Lakers,San Antonio Spurs,"13-8, 8-4 Home","17-5, 5-5 Away",102,97,NULL,NULL,Final,TNT,18,33,21,30,NULL,19,24,31,23,NULL,NBA
+51,271216013,2008,"Sun, Dec 16",Los Angeles Lakers,LA Clippers,"14-9, 9-4 Home","9-14, 5-7 Away",113,92,NULL,NULL,Final,NULL,29,28,25,31,NULL,15,29,32,16,NULL,NBA
+52,271220005,2008,"Thu, Dec 20",Cleveland Cavaliers,Los Angeles Lakers,"12-15, 7-5 Home","15-10, 6-6 Away",94,90,NULL,NULL,Final,TNT,28,23,22,21,NULL,28,25,25,12,NULL,NBA
+53,271223018,2008,"Sun, Dec 23",New York Knicks,Los Angeles Lakers,"8-19, 7-9 Home","17-10, 8-6 Away",90,95,NULL,NULL,Final,NBATV,21,16,24,29,NULL,31,24,20,20,NULL,NBA
+54,271228013,2008,"Fri, Dec 28",Los Angeles Lakers,Utah Jazz,"19-10, 11-4 Home","16-15, 6-13 Away",123,109,NULL,NULL,Final,NULL,38,37,31,17,NULL,23,25,26,35,NULL,NBA
+55,280104013,2008,"Fri, Jan 4",Los Angeles Lakers,Philadelphia 76ers,"20-11, 12-5 Home","14-19, 7-10 Away",124,93,NULL,NULL,Final,CSN,34,30,32,28,NULL,26,14,28,25,NULL,NBA
+56,280108029,2008,"Tue, Jan 8",Memphis Grizzlies,Los Angeles Lakers,"10-24, 6-12 Home","22-11, 9-6 Away",101,117,NULL,NULL,Final,NULL,23,24,24,30,NULL,39,22,26,30,NULL,NBA
+57,280111013,2008,"Fri, Jan 11",Los Angeles Lakers,Milwaukee Bucks,"24-11, 14-5 Home","15-21, 5-16 Away",110,105,NULL,NULL,Final,ESPN,29,25,24,32,NULL,22,28,24,31,NULL,NBA
+58,280114025,2008,"Mon, Jan 14",Seattle SuperSonics,Los Angeles Lakers,"9-28, 5-13 Home","26-11, 11-6 Away",121,123,NULL,NULL,Final/OT,NULL,29,33,29,24,6,28,36,23,28,8,NBA
+59,280121013,2008,"Mon, Jan 21",Los Angeles Lakers,Denver Nuggets,"27-12, 16-6 Home","24-16, 7-11 Away",116,99,NULL,NULL,Final,TNT,39,28,24,25,NULL,29,28,25,17,NULL,NBA
+60,280125006,2008,"Fri, Jan 25",Dallas Mavericks,Los Angeles Lakers,"29-13, 19-3 Home","27-14, 11-8 Away",112,105,NULL,NULL,Final,NULL,28,28,35,21,NULL,31,24,19,31,NULL,NBA
+61,280129013,2008,"Tue, Jan 29",Los Angeles Lakers,New York Knicks,"28-15, 17-7 Home","14-30, 4-16 Away",120,109,NULL,NULL,Final,NULL,28,30,27,35,NULL,29,32,26,22,NULL,NBA
+62,280201028,2008,"Fri, Feb 1",Toronto Raptors,Los Angeles Lakers,"25-21, 14-9 Home","29-16, 12-9 Away",101,121,NULL,NULL,Final,NULL,23,28,26,24,NULL,26,30,27,38,NULL,NBA
+63,280205017,2008,"Tue, Feb 5",New Jersey Nets,Los Angeles Lakers,"20-28, 10-15 Home","31-16, 14-9 Away",90,105,NULL,NULL,Final,NBATV/YES,27,20,24,19,NULL,26,21,28,30,NULL,NBA
+64,280208019,2008,"Fri, Feb 8",Orlando Magic,Los Angeles Lakers,"32-20, 13-10 Home","32-17, 15-10 Away",113,117,NULL,NULL,Final,NULL,44,19,24,26,NULL,33,31,34,19,NULL,NBA
+65,280211030,2008,"Mon, Feb 11",Charlotte Bobcats,Los Angeles Lakers,"18-34, 14-16 Home","34-17, 17-10 Away",97,106,NULL,NULL,Final,NULL,22,22,25,28,NULL,30,25,22,29,NULL,NBA
+66,280219013,2008,"Tue, Feb 19",Los Angeles Lakers,Atlanta Hawks,"36-17, 18-7 Home","22-29, 6-18 Away",122,93,NULL,NULL,Final,NULL,32,41,24,25,NULL,14,23,32,24,NULL,NBA
+67,280223012,2008,"Sat, Feb 23",LA Clippers,Los Angeles Lakers,"19-34, 11-17 Home","38-17, 20-10 Away",95,113,NULL,NULL,Final,NULL,21,27,24,23,NULL,29,27,34,23,NULL,NBA
+68,280226013,2008,"Tue, Feb 26",Los Angeles Lakers,Portland Trail Blazers,"40-17, 19-7 Home","29-28, 8-20 Away",96,83,NULL,NULL,Final,NBATV,17,27,23,29,NULL,27,24,14,18,NULL,NBA
+69,280229022,2008,"Fri, Feb 29",Portland Trail Blazers,Los Angeles Lakers,"31-28, 22-8 Home","41-18, 21-11 Away",119,111,NULL,NULL,Final,NULL,27,37,22,33,NULL,32,27,28,24,NULL,NBA
+70,280304023,2008,"Tue, Mar 4",Sacramento Kings,Los Angeles Lakers,"27-33, 18-11 Home","43-18, 22-11 Away",105,117,NULL,NULL,Final,NULL,33,25,29,18,NULL,27,26,28,36,NULL,NBA
+71,280309013,2008,"Sun, Mar 9",Los Angeles Lakers,Sacramento Kings,"44-19, 22-8 Home","28-35, 10-23 Away",113,114,NULL,NULL,Final,NULL,29,31,29,24,NULL,31,40,21,22,NULL,NBA
+72,280314003,2008,"Fri, Mar 14",New Orleans Hornets,Los Angeles Lakers,"44-20, 24-10 Home","45-20, 22-12 Away",108,98,NULL,NULL,Final,NULL,23,23,34,28,NULL,21,28,23,26,NULL,NBA
+73,280318006,2008,"Tue, Mar 18",Dallas Mavericks,Los Angeles Lakers,"44-24, 29-5 Home","46-21, 23-13 Away",100,102,NULL,NULL,Final,NULL,21,17,27,35,NULL,28,31,18,25,NULL,NBA
+74,280321013,2008,"Fri, Mar 21",Los Angeles Lakers,Seattle SuperSonics,"48-21, 24-8 Home","16-53, 6-30 Away",130,105,NULL,NULL,Final,NULL,34,28,31,37,NULL,21,33,22,29,NULL,NBA
+75,280324009,2008,"Mon, Mar 24",Golden State Warriors,Los Angeles Lakers,"43-27, 23-12 Home","49-22, 25-13 Away",119,123,NULL,NULL,Final/OT,NBATV/TNT,28,35,23,25,8,20,32,35,24,12,NBA
+76,280328013,2008,"Fri, Mar 28",Los Angeles Lakers,Memphis Grizzlies,"49-24, 24-11 Home","19-53, 6-30 Away",111,114,NULL,NULL,Final,NULL,30,23,27,31,NULL,32,21,36,25,NULL,NBA
+77,280402013,2008,"Wed, Apr 2",Los Angeles Lakers,Portland Trail Blazers,"51-24, 26-11 Home","38-37, 13-26 Away",104,91,NULL,NULL,Final,NULL,26,24,23,31,NULL,31,19,13,28,NULL,NBA
+78,280406023,2008,"Sun, Apr 6",Sacramento Kings,Los Angeles Lakers,"36-41, 24-14 Home","53-24, 26-13 Away",92,114,NULL,NULL,Final,NULL,27,18,24,23,NULL,23,28,36,27,NULL,NBA
+79,280410012,2008,"Thu, Apr 10",LA Clippers,Los Angeles Lakers,"23-56, 13-28 Home","54-25, 27-14 Away",78,106,NULL,NULL,Final,TNT,25,17,19,17,NULL,27,24,22,33,NULL,NBA
+80,280413013,2008,"Sun, Apr 13",Los Angeles Lakers,San Antonio Spurs,"56-25, 29-11 Home","54-26, 21-19 Away",106,85,NULL,NULL,Final,ABC,25,28,26,27,NULL,23,30,14,18,NULL,NBA
+81,280415013,2008,"Tue, Apr 15",Los Angeles Lakers,Sacramento Kings,"57-25, 30-11 Home","38-44, 12-29 Away",124,101,NULL,NULL,Final,NULL,34,28,39,23,NULL,27,21,24,29,NULL,NBA

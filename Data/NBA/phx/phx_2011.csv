@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,301028026,2011,"Thu, Oct 28",Utah Jazz,Phoenix Suns,"0-2, 0-1 Home","1-1, 1-1 Away",94,110,NULL,NULL,Final,TNT,22,20,30,22,NULL,27,31,26,26,NULL,NBA
+1,301103021,2011,"Wed, Nov 3",Phoenix Suns,San Antonio Spurs,"1-3, 0-2 Home","3-1, 2-0 Away",110,112,NULL,NULL,Final,NULL,22,28,29,31,NULL,23,27,31,31,NULL,NBA
+2,301107001,2011,"Sun, Nov 7",Atlanta Hawks,Phoenix Suns,"6-1, 2-1 Home","3-3, 2-1 Away",114,118,NULL,NULL,Final,NULL,28,22,38,26,NULL,30,31,29,28,NULL,NBA
+3,301112021,2011,"Fri, Nov 12",Phoenix Suns,Sacramento Kings,"4-4, 2-2 Home","3-5, 2-2 Away",103,89,NULL,NULL,Final,NULL,30,22,25,26,NULL,24,19,25,21,NULL,NBA
+4,301115021,2011,"Mon, Nov 15",Phoenix Suns,Denver Nuggets,"6-4, 3-2 Home","5-5, 2-4 Away",100,94,NULL,NULL,Final,NULL,20,26,23,31,NULL,22,36,18,18,NULL,NBA
+5,301118019,2011,"Thu, Nov 18",Orlando Magic,Phoenix Suns,"8-3, 6-2 Home","6-6, 3-4 Away",105,89,NULL,NULL,Final,TNT,31,31,29,14,NULL,15,19,25,30,NULL,NBA
+6,301122010,2011,"Mon, Nov 22",Houston Rockets,Phoenix Suns,"3-10, 1-4 Home","7-7, 4-5 Away",116,123,NULL,NULL,Final,NULL,25,20,31,40,NULL,26,33,31,33,NULL,NBA
+7,301126021,2011,"Fri, Nov 26",Phoenix Suns,LA Clippers,"8-8, 4-3 Home","3-14, 0-8 Away",116,108,NULL,NULL,Final,NULL,42,25,31,18,NULL,21,30,30,27,NULL,NBA
+8,301202009,2011,"Thu, Dec 2",Golden State Warriors,Phoenix Suns,"8-11, 5-4 Home","9-9, 5-6 Away",101,107,NULL,NULL,Final,TNT,20,29,23,29,NULL,31,21,23,32,NULL,NBA
+9,301205021,2011,"Sun, Dec 5",Phoenix Suns,Washington Wizards,"11-9, 6-3 Home","6-13, 0-10 Away",125,108,NULL,NULL,Final,NULL,28,36,31,30,NULL,31,30,17,30,NULL,NBA
+10,301208021,2011,"Wed, Dec 8",Phoenix Suns,Memphis Grizzlies,"11-11, 6-4 Home","9-14, 3-9 Away",98,104,NULL,NULL,Final/OT,NULL,22,19,23,28,6,25,28,25,14,12,NBA
+11,301215021,2011,"Wed, Dec 15",Phoenix Suns,Minnesota Timberwolves,"12-12, 7-5 Home","6-20, 1-14 Away",128,122,NULL,NULL,Final,NULL,31,25,35,37,NULL,30,26,30,36,NULL,NBA
+12,301219025,2011,"Sun, Dec 19",Oklahoma City Thunder,Phoenix Suns,"19-9, 10-5 Home","13-13, 6-8 Away",110,113,NULL,NULL,Final,NBATV,23,22,40,25,NULL,25,29,28,31,NULL,NBA
+13,301223021,2011,"Thu, Dec 23",Phoenix Suns,Miami Heat,"13-15, 7-6 Home","22-9, 10-5 Away",83,95,NULL,NULL,Final,TNT,22,17,20,24,NULL,19,26,27,23,NULL,NBA
+14,301229021,2011,"Wed, Dec 29",Phoenix Suns,Philadelphia 76ers,"13-17, 7-7 Home","13-19, 5-13 Away",110,123,NULL,NULL,Final,CSN,35,30,21,24,NULL,33,33,26,31,NULL,NBA
+15,310102023,2011,"Sun, Jan 2",Sacramento Kings,Phoenix Suns,"7-24, 5-14 Home","14-18, 6-11 Away",94,89,NULL,NULL,Final,NULL,17,22,26,29,NULL,27,21,25,16,NULL,NBA
+16,310107021,2011,"Fri, Jan 7",Phoenix Suns,New York Knicks,"14-20, 8-9 Home","21-14, 11-7 Away",96,121,NULL,NULL,Final,ESPN,22,23,26,25,NULL,30,25,38,28,NULL,NBA
+17,310111007,2011,"Tue, Jan 11",Denver Nuggets,Phoenix Suns,"21-16, 16-4 Home","15-21, 6-12 Away",132,98,NULL,NULL,Final,NBATV,20,44,38,30,NULL,32,23,17,26,NULL,NBA
+18,310114021,2011,"Fri, Jan 14",Phoenix Suns,Portland Trail Blazers,"17-21, 11-9 Home","20-20, 8-15 Away",115,111,NULL,NULL,Final,ESPN,28,28,29,30,NULL,36,23,27,25,NULL,NBA
+19,310119005,2011,"Wed, Jan 19",Cleveland Cavaliers,Phoenix Suns,"8-33, 5-13 Home","19-21, 8-12 Away",98,106,NULL,NULL,Final,NULL,28,21,28,21,NULL,36,26,28,16,NULL,NBA
+20,310122008,2011,"Sat, Jan 22",Detroit Pistons,Phoenix Suns,"16-28, 12-9 Home","20-22, 9-13 Away",75,74,NULL,NULL,Final,NULL,21,15,11,28,NULL,17,21,23,13,NULL,NBA
+21,310126021,2011,"Wed, Jan 26",Phoenix Suns,Charlotte Bobcats,"20-24, 11-10 Home","19-25, 7-14 Away",107,114,NULL,NULL,Final,NULL,26,31,30,20,NULL,31,28,33,22,NULL,NBA
+22,310130021,2011,"Sun, Jan 30",Phoenix Suns,New Orleans Hornets,"22-24, 13-10 Home","31-18, 12-13 Away",104,102,NULL,NULL,Final,NULL,27,26,35,16,NULL,25,28,27,22,NULL,NBA
+23,310204021,2011,"Fri, Feb 4",Phoenix Suns,Oklahoma City Thunder,"23-25, 14-11 Home","32-17, 14-10 Away",107,111,NULL,NULL,Final,NULL,36,24,27,20,NULL,31,32,17,31,NULL,NBA
+24,310210021,2011,"Thu, Feb 10",Phoenix Suns,Golden State Warriors,"25-25, 15-11 Home","23-29, 6-18 Away",112,88,NULL,NULL,Final,NULL,32,33,22,25,NULL,22,20,19,27,NULL,NBA
+25,310213021,2011,"Sun, Feb 13",Phoenix Suns,Sacramento Kings,"26-26, 15-12 Home","13-38, 6-16 Away",108,113,NULL,NULL,Final,NULL,32,25,24,27,NULL,30,20,28,35,NULL,NBA
+26,310217021,2011,"Thu, Feb 17",Phoenix Suns,Dallas Mavericks,"27-27, 16-13 Home","40-16, 19-8 Away",106,112,NULL,NULL,Final,TNT,25,26,29,26,NULL,28,26,31,27,NULL,NBA
+27,310225028,2011,"Fri, Feb 25",Toronto Raptors,Phoenix Suns,"16-43, 11-19 Home","29-27, 12-14 Away",92,110,NULL,NULL,Final,TSN2,14,28,20,30,NULL,35,25,26,24,NULL,NBA
+28,310228017,2011,"Mon, Feb 28",New Jersey Nets,Phoenix Suns,"17-43, 13-16 Home","31-27, 14-14 Away",103,104,NULL,NULL,Final/OT,NULL,23,28,15,30,7,26,26,17,27,8,NBA
+29,310304015,2011,"Fri, Mar 4",Milwaukee Bucks,Phoenix Suns,"23-37, 15-15 Home","32-28, 15-15 Away",88,102,NULL,NULL,Final,NULL,26,22,15,25,NULL,22,23,31,26,NULL,NBA
+30,310308021,2011,"Tue, Mar 8",Phoenix Suns,Houston Rockets,"33-29, 18-13 Home","33-33, 16-20 Away",113,110,NULL,NULL,Final,NULL,24,24,31,34,NULL,26,24,32,28,NULL,NBA
+31,310313021,2011,"Sun, Mar 13",Phoenix Suns,Orlando Magic,"33-31, 18-15 Home","42-25, 18-14 Away",88,111,NULL,NULL,Final,ABC,26,26,13,23,NULL,32,29,26,24,NULL,NBA
+32,310316003,2011,"Wed, Mar 16",New Orleans Hornets,Phoenix Suns,"40-30, 24-10 Home","33-33, 15-18 Away",100,95,NULL,NULL,Final,NULL,31,25,21,23,NULL,29,17,19,30,NULL,NBA
+33,310320012,2011,"Sun, Mar 20",LA Clippers,Phoenix Suns,"27-44, 19-17 Home","35-33, 16-18 Away",99,108,NULL,NULL,Final,NULL,23,26,29,21,NULL,27,27,27,27,NULL,NBA
+34,310323021,2011,"Wed, Mar 23",Phoenix Suns,Toronto Raptors,"36-34, 20-15 Home","20-51, 6-29 Away",114,106,NULL,NULL,Final,TSNT,26,29,31,28,NULL,32,29,25,20,NULL,NBA
+35,310327021,2011,"Sun, Mar 27",Phoenix Suns,Dallas Mavericks,"36-36, 20-17 Home","52-21, 26-10 Away",83,91,NULL,NULL,Final,ESPN,26,23,18,16,NULL,17,27,21,26,NULL,NBA
+36,310330021,2011,"Wed, Mar 30",Phoenix Suns,Oklahoma City Thunder,"36-38, 20-18 Home","50-24, 22-14 Away",98,116,NULL,NULL,Final,NULL,28,23,22,25,NULL,33,22,24,37,NULL,NBA
+37,310403024,2011,"Sun, Apr 3",San Antonio Spurs,Phoenix Suns,"58-19, 34-5 Home","37-39, 16-21 Away",114,97,NULL,NULL,Final,ABC,35,35,21,23,NULL,20,26,25,26,NULL,NBA
+38,310406016,2011,"Wed, Apr 6",Minnesota Timberwolves,Phoenix Suns,"17-62, 12-28 Home","38-40, 17-22 Away",98,108,NULL,NULL,Final,NULL,23,30,24,21,NULL,26,30,26,26,NULL,NBA
+39,310410006,2011,"Sun, Apr 10",Dallas Mavericks,Phoenix Suns,"55-25, 28-12 Home","38-42, 17-24 Away",115,90,NULL,NULL,Final,NULL,36,29,15,35,NULL,17,22,21,30,NULL,NBA
+40,301026022,2011,"Tue, Oct 26",Portland Trail Blazers,Phoenix Suns,"1-0, 1-0 Home","0-1, 0-1 Away",106,92,NULL,NULL,Final,NULL,28,22,25,31,NULL,26,20,35,11,NULL,NBA
+41,301029021,2011,"Fri, Oct 29",Phoenix Suns,Los Angeles Lakers,"1-2, 0-1 Home","2-0, 1-0 Away",106,114,NULL,NULL,Final,ESPN,27,23,29,27,NULL,28,29,30,27,NULL,NBA
+42,301105021,2011,"Fri, Nov 5",Phoenix Suns,Memphis Grizzlies,"2-3, 1-2 Home","2-4, 1-3 Away",123,118,NULL,NULL,Final/2OT,NULL,20,25,25,29,24,35,20,21,23,19,NBA
+43,301108029,2011,"Mon, Nov 8",Memphis Grizzlies,Phoenix Suns,"4-4, 2-1 Home","3-4, 2-2 Away",109,99,NULL,NULL,Final,NULL,28,27,33,21,NULL,26,26,23,24,NULL,NBA
+44,301114013,2011,"Sun, Nov 14",Los Angeles Lakers,Phoenix Suns,"8-2, 6-1 Home","5-4, 3-2 Away",116,121,NULL,NULL,Final,NULL,25,28,31,32,NULL,23,33,36,29,NULL,NBA
+45,301117014,2011,"Wed, Nov 17",Miami Heat,Phoenix Suns,"7-4, 5-2 Home","6-5, 3-3 Away",123,96,NULL,NULL,Final,ESPN,27,37,36,23,NULL,24,19,30,23,NULL,NBA
+46,301120030,2011,"Sat, Nov 20",Charlotte Bobcats,Phoenix Suns,"5-8, 2-4 Home","6-7, 3-5 Away",123,105,NULL,NULL,Final,NULL,30,25,34,34,NULL,25,26,23,31,NULL,NBA
+47,301124021,2011,"Wed, Nov 24",Phoenix Suns,Chicago Bulls,"7-8, 3-3 Home","8-5, 3-4 Away",115,123,NULL,NULL,Final/2OT,NULL,36,26,22,17,14,17,33,22,29,22,NBA
+48,301128007,2011,"Sun, Nov 28",Denver Nuggets,Phoenix Suns,"10-6, 7-1 Home","8-9, 4-6 Away",138,133,NULL,NULL,Final,NULL,31,37,37,33,NULL,18,39,32,44,NULL,NBA
+49,301203021,2011,"Fri, Dec 3",Phoenix Suns,Indiana Pacers,"10-9, 5-3 Home","9-9, 5-4 Away",105,97,NULL,NULL,Final,NULL,20,32,22,31,NULL,28,31,17,21,NULL,NBA
+50,301207022,2011,"Tue, Dec 7",Portland Trail Blazers,Phoenix Suns,"10-11, 6-3 Home","11-10, 5-7 Away",106,99,NULL,NULL,Final,NULL,29,22,18,37,NULL,23,24,28,24,NULL,NBA
+51,301210021,2011,"Fri, Dec 10",Phoenix Suns,Portland Trail Blazers,"11-12, 6-5 Home","12-11, 5-8 Away",94,101,NULL,NULL,Final,NULL,22,31,20,21,NULL,28,33,26,14,NULL,NBA
+52,301217006,2011,"Fri, Dec 17",Dallas Mavericks,Phoenix Suns,"21-5, 13-4 Home","12-13, 5-8 Away",106,91,NULL,NULL,Final,ESPN,22,32,26,26,NULL,25,17,17,32,NULL,NBA
+53,301220024,2011,"Mon, Dec 20",San Antonio Spurs,Phoenix Suns,"24-3, 15-2 Home","13-14, 6-9 Away",118,110,NULL,NULL,Final,NULL,27,26,40,25,NULL,26,28,24,32,NULL,NBA
+54,301226012,2011,"Sun, Dec 26",LA Clippers,Phoenix Suns,"9-22, 7-11 Home","13-16, 6-10 Away",108,103,NULL,NULL,Final,NULL,33,28,18,29,NULL,18,31,29,25,NULL,NBA
+55,301231021,2011,"Fri, Dec 31",Phoenix Suns,Detroit Pistons,"14-17, 8-7 Home","11-22, 3-14 Away",92,75,NULL,NULL,Final,NULL,24,26,18,24,NULL,14,18,26,17,NULL,NBA
+56,310105021,2011,"Wed, Jan 5",Phoenix Suns,Los Angeles Lakers,"14-19, 8-8 Home","25-11, 13-6 Away",95,99,NULL,NULL,Final,ESPN,24,26,23,22,NULL,31,18,31,19,NULL,NBA
+57,310109021,2011,"Sun, Jan 9",Phoenix Suns,Cleveland Cavaliers,"15-20, 9-9 Home","8-29, 3-17 Away",108,100,NULL,NULL,Final,NBATV,26,25,30,27,NULL,26,26,29,19,NULL,NBA
+58,310112021,2011,"Wed, Jan 12",Phoenix Suns,New Jersey Nets,"16-21, 10-9 Home","10-28, 3-18 Away",118,109,NULL,NULL,Final/OT,NULL,28,27,18,30,15,28,29,27,19,6,NBA
+59,310117018,2011,"Mon, Jan 17",New York Knicks,Phoenix Suns,"22-18, 10-9 Home","18-21, 7-12 Away",121,129,NULL,NULL,Final,NULL,30,34,27,30,NULL,39,22,36,32,NULL,NBA
+60,310121027,2011,"Fri, Jan 21",Washington Wizards,Phoenix Suns,"12-29, 12-9 Home","20-21, 9-12 Away",91,109,NULL,NULL,Final,ESPN,33,20,18,20,NULL,22,30,31,26,NULL,NBA
+61,310124020,2011,"Mon, Jan 24",Philadelphia 76ers,Phoenix Suns,"19-25, 14-7 Home","20-23, 9-14 Away",105,95,NULL,NULL,Final,CSN,26,35,26,18,NULL,25,22,23,25,NULL,NBA
+62,310128021,2011,"Fri, Jan 28",Phoenix Suns,Boston Celtics,"21-24, 12-10 Home","35-11, 13-8 Away",88,71,NULL,NULL,Final,ESPN,30,19,26,13,NULL,16,19,23,13,NULL,NBA
+63,310202021,2011,"Wed, Feb 2",Phoenix Suns,Milwaukee Bucks,"23-24, 14-10 Home","19-28, 8-18 Away",92,77,NULL,NULL,Final,NULL,25,27,19,21,NULL,17,14,22,24,NULL,NBA
+64,310207009,2011,"Mon, Feb 7",Golden State Warriors,Phoenix Suns,"22-28, 16-11 Home","24-25, 10-14 Away",92,104,NULL,NULL,Final,NBATV,17,28,30,17,NULL,33,29,27,15,NULL,NBA
+65,310211026,2011,"Fri, Feb 11",Utah Jazz,Phoenix Suns,"31-24, 17-12 Home","26-25, 11-14 Away",83,95,NULL,NULL,Final,ESPN,31,25,13,14,NULL,19,25,27,24,NULL,NBA
+66,310215021,2011,"Tue, Feb 15",Phoenix Suns,Utah Jazz,"27-26, 16-12 Home","31-25, 14-13 Away",102,101,NULL,NULL,Final,NULL,29,21,26,26,NULL,27,26,20,28,NULL,NBA
+67,310223021,2011,"Wed, Feb 23",Phoenix Suns,Atlanta Hawks,"28-27, 17-13 Home","34-23, 17-14 Away",105,97,NULL,NULL,Final,NULL,33,28,19,25,NULL,31,16,24,26,NULL,NBA
+68,310227011,2011,"Sun, Feb 27",Indiana Pacers,Phoenix Suns,"26-32, 16-14 Home","30-27, 13-14 Away",108,110,NULL,NULL,Final/OT,NULL,29,22,21,27,9,33,27,22,17,11,NBA
+69,310302002,2011,"Wed, Mar 2",Boston Celtics,Phoenix Suns,"44-15, 26-5 Home","31-28, 14-15 Away",115,103,NULL,NULL,Final,NBATV,32,30,29,24,NULL,21,21,30,31,NULL,NBA
+70,310306025,2011,"Sun, Mar 6",Oklahoma City Thunder,Phoenix Suns,"39-22, 22-9 Home","32-29, 15-16 Away",122,118,NULL,NULL,Final/OT,NULL,25,32,29,23,13,28,33,30,18,9,NBA
+71,310310021,2011,"Thu, Mar 10",Phoenix Suns,Denver Nuggets,"33-30, 18-14 Home","38-27, 12-20 Away",97,116,NULL,NULL,Final,TNT,25,24,17,31,NULL,30,29,31,26,NULL,NBA
+72,310314010,2011,"Mon, Mar 14",Houston Rockets,Phoenix Suns,"34-34, 18-14 Home","33-32, 15-17 Away",95,93,NULL,NULL,Final,NULL,27,23,24,21,NULL,16,26,22,29,NULL,NBA
+73,310318021,2011,"Fri, Mar 18",Phoenix Suns,Golden State Warriors,"34-33, 19-15 Home","30-39, 9-25 Away",108,97,NULL,NULL,Final,NULL,27,23,34,24,NULL,20,18,27,32,NULL,NBA
+74,310322013,2011,"Tue, Mar 22",Los Angeles Lakers,Phoenix Suns,"51-20, 26-8 Home","35-34, 16-19 Away",139,137,NULL,NULL,Final/3OT,TNT,27,39,29,17,27,31,29,26,26,25,NBA
+75,310325021,2011,"Fri, Mar 25",Phoenix Suns,New Orleans Hornets,"36-35, 20-16 Home","42-31, 18-20 Away",100,106,NULL,NULL,Final,NBATV,27,29,22,22,NULL,21,29,23,33,NULL,NBA
+76,310329023,2011,"Tue, Mar 29",Sacramento Kings,Phoenix Suns,"21-52, 10-27 Home","36-37, 16-20 Away",116,113,NULL,NULL,Final,NULL,30,29,26,31,NULL,34,27,32,20,NULL,NBA
+77,310401021,2011,"Fri, Apr 1",Phoenix Suns,LA Clippers,"37-38, 21-18 Home","29-47, 8-29 Away",111,98,NULL,NULL,Final,NULL,25,32,31,23,NULL,23,21,26,28,NULL,NBA
+78,310405004,2011,"Tue, Apr 5",Chicago Bulls,Phoenix Suns,"57-20, 34-5 Home","37-40, 16-22 Away",97,94,NULL,NULL,Final,NULL,25,28,28,16,NULL,24,16,30,24,NULL,NBA
+79,310408003,2011,"Fri, Apr 8",New Orleans Hornets,Phoenix Suns,"46-33, 28-12 Home","38-41, 17-23 Away",109,97,NULL,NULL,Final,NBATV,31,28,26,24,NULL,30,23,26,18,NULL,NBA
+80,310411021,2011,"Mon, Apr 11",Phoenix Suns,Minnesota Timberwolves,"39-42, 22-18 Home","17-64, 5-36 Away",135,127,NULL,NULL,Final/OT,NULL,24,34,34,29,14,33,32,27,29,6,NBA
+81,310413021,2011,"Wed, Apr 13",Phoenix Suns,San Antonio Spurs,"40-42, 23-18 Home","61-21, 25-16 Away",106,103,NULL,NULL,Final,NULL,43,18,24,21,NULL,27,26,21,29,NULL,NBA

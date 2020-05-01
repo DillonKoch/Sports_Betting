@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,161107017,1997,"Thu, Nov 7",New Jersey Nets,Orlando Magic,"0-2, 0-2 Home","1-1, 1-0 Away",95,108,NULL,NULL,Final,NULL,22,27,22,24,NULL,22,29,31,26,NULL,NBA
+1,161113017,1997,"Wed, Nov 13",New Jersey Nets,Washington Bullets,"0-4, 0-3 Home","3-4, 2-1 Away",91,106,NULL,NULL,Final,NULL,21,16,28,26,NULL,26,30,25,25,NULL,NBA
+2,161116017,1997,"Sat, Nov 16",New Jersey Nets,Denver Nuggets,"1-5, 1-4 Home","4-6, 3-3 Away",106,99,NULL,NULL,Final,NULL,21,31,21,33,NULL,17,22,26,34,NULL,NBA
+3,161123017,1997,"Sat, Nov 23",New Jersey Nets,Dallas Mavericks,"2-6, 2-4 Home","3-8, 1-5 Away",114,91,NULL,NULL,Final,NULL,32,30,31,21,NULL,26,18,24,23,NULL,NBA
+4,161127021,1997,"Wed, Nov 27",Phoenix Suns,New Jersey Nets,"1-13, 1-6 Home","2-8, 0-4 Away",99,77,NULL,NULL,Final,NULL,28,22,30,19,NULL,24,20,18,15,NULL,NBA
+5,161130012,1997,"Sat, Nov 30",Los Angeles Clippers,New Jersey Nets,"6-10, 2-6 Home","3-9, 1-5 Away",95,106,NULL,NULL,Final/OT,NULL,17,20,19,25,14,13,19,25,24,25,NBA
+6,161206002,1997,"Fri, Dec 6",Boston Celtics,New Jersey Nets,"4-13, 4-7 Home","4-10, 2-5 Away",108,110,NULL,NULL,Final/OT,NULL,33,29,14,26,6,26,21,34,21,8,NBA
+7,161211017,1997,"Wed, Dec 11",New Jersey Nets,Seattle SuperSonics,"5-11, 3-6 Home","16-7, 10-4 Away",110,101,NULL,NULL,Final,NULL,26,35,20,29,NULL,27,17,33,24,NULL,NBA
+8,161214015,1997,"Sat, Dec 14",Milwaukee Bucks,New Jersey Nets,"12-9, 8-5 Home","5-13, 2-6 Away",101,91,NULL,NULL,Final,NULL,32,29,22,18,NULL,33,20,23,15,NULL,NBA
+9,161218005,1997,"Wed, Dec 18",Cleveland Cavaliers,New Jersey Nets,"15-8, 9-4 Home","5-15, 2-7 Away",99,81,NULL,NULL,Final,NULL,22,21,32,24,NULL,25,16,17,23,NULL,NBA
+10,161221017,1997,"Sat, Dec 21",New Jersey Nets,Boston Celtics,"6-16, 4-8 Home","5-18, 0-10 Away",101,100,NULL,NULL,Final,NULL,25,17,30,29,NULL,23,29,24,24,NULL,NBA
+11,161226028,1997,"Thu, Dec 26",Toronto Raptors,New Jersey Nets,"10-18, 9-8 Home","6-18, 2-10 Away",98,96,NULL,NULL,Final,NULL,21,28,19,30,NULL,22,26,19,29,NULL,NBA
+12,161229011,1997,"Sun, Dec 29",Indiana Pacers,New Jersey Nets,"13-14, 5-6 Home","8-18, 3-10 Away",102,110,NULL,NULL,Final/OT,NULL,25,16,25,26,10,20,19,33,20,18,NBA
+13,170102014,1997,"Thu, Jan 2",Miami Heat,New Jersey Nets,"24-7, 8-5 Home","8-20, 3-12 Away",101,91,NULL,NULL,Final,NULL,29,25,17,30,NULL,16,21,27,27,NULL,NBA
+14,170107017,1997,"Tue, Jan 7",New Jersey Nets,San Antonio Spurs,"9-21, 6-9 Home","9-22, 4-12 Away",90,74,NULL,NULL,Final,NULL,22,21,31,16,NULL,18,17,18,21,NULL,NBA
+15,170111017,1997,"Sat, Jan 11",New Jersey Nets,Toronto Raptors,"9-23, 6-11 Home","12-22, 2-13 Away",106,123,NULL,NULL,Final,NULL,17,30,29,30,NULL,48,31,21,23,NULL,NBA
+16,170115003,1997,"Wed, Jan 15",Charlotte Hornets,New Jersey Nets,"21-16, 10-5 Home","9-25, 3-13 Away",116,104,NULL,NULL,Final,NULL,27,20,26,43,NULL,30,25,24,25,NULL,NBA
+17,170118017,1997,"Sat, Jan 18",New Jersey Nets,Charlotte Hornets,"10-26, 6-13 Home","22-16, 12-11 Away",92,102,NULL,NULL,Final,NULL,24,17,21,30,NULL,33,24,18,27,NULL,NBA
+18,170122024,1997,"Wed, Jan 22",San Antonio Spurs,New Jersey Nets,"10-28, 6-12 Home","11-27, 5-14 Away",95,103,NULL,NULL,Final,NULL,28,20,24,23,NULL,33,16,27,27,NULL,NBA
+19,170125006,1997,"Sat, Jan 25",Dallas Mavericks,New Jersey Nets,"14-26, 8-10 Home","11-29, 5-16 Away",92,81,NULL,NULL,Final,NULL,27,21,24,20,NULL,27,21,21,12,NULL,NBA
+20,170130017,1997,"Thu, Jan 30",New Jersey Nets,Phoenix Suns,"12-30, 7-14 Home","15-30, 4-20 Away",113,101,NULL,NULL,Final,NULL,27,27,24,35,NULL,21,31,25,24,NULL,NBA
+21,170202011,1997,"Sun, Feb 2",Indiana Pacers,New Jersey Nets,"22-22, 10-10 Home","12-32, 5-17 Away",92,90,NULL,NULL,Final,NULL,22,22,28,20,NULL,26,31,17,16,NULL,NBA
+22,170206017,1997,"Thu, Feb 6",New Jersey Nets,Indiana Pacers,"13-33, 8-16 Home","23-23, 13-13 Away",100,104,NULL,NULL,Final,NULL,21,30,27,22,NULL,31,17,28,28,NULL,NBA
+23,170212003,1997,"Wed, Feb 12",Charlotte Hornets,New Jersey Nets,"30-20, 16-6 Home","14-34, 6-18 Away",113,100,NULL,NULL,Final,NULL,24,25,31,33,NULL,27,26,21,26,NULL,NBA
+24,170215017,1997,"Sat, Feb 15",New Jersey Nets,Washington Bullets,"15-35, 9-16 Home","23-27, 10-17 Away",107,86,NULL,NULL,Final,NULL,25,22,27,33,NULL,23,17,24,22,NULL,NBA
+25,170220017,1997,"Thu, Feb 20",New Jersey Nets,Miami Heat,"15-37, 9-17 Home","41-12, 24-6 Away",87,92,NULL,NULL,Final,NULL,19,25,26,17,NULL,22,23,28,19,NULL,NBA
+26,170223017,1997,"Sun, Feb 23",New Jersey Nets,Boston Celtics,"16-38, 10-17 Home","11-43, 2-26 Away",109,93,NULL,NULL,Final,NULL,23,27,28,31,NULL,30,17,20,26,NULL,NBA
+27,170228017,1997,"Fri, Feb 28",New Jersey Nets,Golden State Warriors,"17-39, 11-18 Home","21-34, 10-20 Away",108,117,NULL,NULL,Final,NULL,34,22,19,33,NULL,30,35,28,24,NULL,NBA
+28,170304022,1997,"Tue, Mar 4",Portland Trail Blazers,New Jersey Nets,"32-28, 20-10 Home","17-41, 6-23 Away",123,118,NULL,NULL,Final,NULL,39,30,21,33,NULL,36,31,36,15,NULL,NBA
+29,170307025,1997,"Fri, Mar 7",Seattle SuperSonics,New Jersey Nets,"42-17, 23-8 Home","18-42, 7-24 Away",109,90,NULL,NULL,Final,NULL,31,29,29,20,NULL,21,20,28,21,NULL,NBA
+30,170312017,1997,"Wed, Mar 12",New Jersey Nets,Utah Jazz,"18-44, 11-19 Home","46-17, 17-14 Away",102,117,NULL,NULL,Final,NULL,28,28,18,28,NULL,28,23,29,37,NULL,NBA
+31,170316018,1997,"Sun, Mar 16",New York Knicks,New Jersey Nets,"47-18, 27-6 Home","20-44, 8-25 Away",74,89,NULL,NULL,Final,NULL,19,14,24,17,NULL,26,23,23,17,NULL,NBA
+32,170321020,1997,"Fri, Mar 21",Philadelphia 76ers,New Jersey Nets,"18-49, 10-25 Home","20-46, 8-26 Away",112,110,NULL,NULL,Final,NULL,27,28,28,29,NULL,33,32,21,24,NULL,NBA
+33,170324017,1997,"Mon, Mar 24",New Jersey Nets,Los Angeles Lakers,"21-47, 12-21 Home","46-23, 21-14 Away",84,109,NULL,NULL,Final,NULL,29,22,17,16,NULL,26,28,25,30,NULL,NBA
+34,170328017,1997,"Fri, Mar 28",New Jersey Nets,New York Knicks,"23-47, 14-21 Home","50-21, 21-14 Away",92,86,NULL,NULL,Final,NULL,24,18,30,20,NULL,31,21,15,19,NULL,NBA
+35,170402016,1997,"Wed, Apr 2",Minnesota Timberwolves,New Jersey Nets,"36-37, 23-13 Home","23-49, 9-28 Away",94,89,NULL,NULL,Final,NULL,27,22,26,19,NULL,26,22,19,22,NULL,NBA
+36,170406017,1997,"Sun, Apr 6",New Jersey Nets,Los Angeles Clippers,"23-51, 14-23 Home","34-41, 14-24 Away",96,103,NULL,NULL,Final,NULL,30,23,24,19,NULL,28,25,20,30,NULL,NBA
+37,170410017,1997,"Thu, Apr 10",New Jersey Nets,Milwaukee Bucks,"24-52, 15-24 Home","29-47, 13-26 Away",93,88,NULL,NULL,Final,NULL,27,22,24,20,NULL,29,21,18,20,NULL,NBA
+38,170413015,1997,"Sun, Apr 13",Milwaukee Bucks,New Jersey Nets,"31-47, 18-21 Home","24-54, 9-30 Away",132,123,NULL,NULL,Final,NULL,37,39,28,28,NULL,25,21,40,37,NULL,NBA
+39,170416017,1997,"Wed, Apr 16",New Jersey Nets,Philadelphia 76ers,"24-56, 15-25 Home","22-58, 11-29 Away",105,113,NULL,NULL,Final,NULL,23,20,30,32,NULL,31,21,32,29,NULL,NBA
+40,161101017,1997,"Fri, Nov 1",New Jersey Nets,Cleveland Cavaliers,"0-1, 0-1 Home","1-0, 1-0 Away",77,90,NULL,NULL,Final,NULL,19,20,16,22,NULL,28,25,17,20,NULL,NBA
+41,161108019,1997,"Fri, Nov 8",Orlando Magic,New Jersey Nets,"2-1, 1-1 Home","0-3, 0-1 Away",86,82,NULL,NULL,Final,NULL,18,24,24,20,NULL,13,25,15,29,NULL,NBA
+42,161115017,1997,"Fri, Nov 15",New Jersey Nets,Portland Trail Blazers,"0-5, 0-4 Home","5-5, 3-4 Away",85,93,NULL,NULL,Final,NULL,19,23,16,27,NULL,18,22,24,29,NULL,NBA
+43,161121008,1997,"Thu, Nov 21",Detroit Pistons,New Jersey Nets,"10-1, 5-1 Home","1-6, 0-2 Away",96,88,NULL,NULL,Final,NULL,31,25,18,22,NULL,26,24,19,19,NULL,NBA
+44,161125026,1997,"Mon, Nov 25",Utah Jazz,New Jersey Nets,"9-2, 6-1 Home","2-7, 0-3 Away",108,92,NULL,NULL,Final,NULL,30,35,27,16,NULL,22,24,16,30,NULL,NBA
+45,161128009,1997,"Thu, Nov 28",Golden State Warriors,New Jersey Nets,"4-10, 2-6 Home","2-9, 0-5 Away",124,118,NULL,NULL,Final,NULL,39,33,20,32,NULL,36,28,33,21,NULL,NBA
+46,161204017,1997,"Wed, Dec 4",New Jersey Nets,New York Knicks,"3-10, 2-5 Home","10-6, 6-2 Away",102,109,NULL,NULL,Final,NULL,25,23,28,26,NULL,21,27,24,37,NULL,NBA
+47,161207017,1997,"Sat, Dec 7",New Jersey Nets,Detroit Pistons,"4-11, 2-6 Home","15-3, 6-1 Away",69,95,NULL,NULL,Final,NULL,21,15,17,16,NULL,20,24,29,22,NULL,NBA
+48,161213017,1997,"Fri, Dec 13",New Jersey Nets,Chicago Bulls,"5-12, 3-7 Home","19-3, 11-2 Away",92,113,NULL,NULL,Final,NULL,20,20,32,20,NULL,31,31,32,19,NULL,NBA
+49,161217017,1997,"Tue, Dec 17",New Jersey Nets,Toronto Raptors,"5-14, 3-8 Home","8-16, 1-8 Away",88,97,NULL,NULL,Final,NULL,19,19,21,29,NULL,25,29,19,24,NULL,NBA
+50,161220001,1997,"Fri, Dec 20",Atlanta Hawks,New Jersey Nets,"15-8, 9-1 Home","5-16, 2-8 Away",109,95,NULL,NULL,Final,NULL,30,38,19,22,NULL,17,23,26,29,NULL,NBA
+51,161223004,1997,"Mon, Dec 23",Chicago Bulls,New Jersey Nets,"24-3, 11-1 Home","6-17, 2-9 Away",113,81,NULL,NULL,Final,NULL,18,37,32,26,NULL,32,13,21,15,NULL,NBA
+52,161227017,1997,"Fri, Dec 27",New Jersey Nets,Indiana Pacers,"7-18, 5-8 Home","13-13, 8-8 Away",105,94,NULL,NULL,Final,NULL,27,26,27,25,NULL,21,27,29,17,NULL,NBA
+53,161230018,1997,"Mon, Dec 30",New York Knicks,New Jersey Nets,"21-8, 13-4 Home","8-19, 3-11 Away",98,86,NULL,NULL,Final,NULL,20,27,26,25,NULL,19,21,23,23,NULL,NBA
+54,170103017,1997,"Fri, Jan 3",New Jersey Nets,Atlanta Hawks,"8-21, 5-9 Home","17-11, 7-10 Away",85,95,NULL,NULL,Final,NULL,14,25,26,20,NULL,21,21,27,26,NULL,NBA
+55,170109017,1997,"Thu, Jan 9",New Jersey Nets,Minnesota Timberwolves,"9-22, 6-10 Home","15-19, 5-14 Away",107,110,NULL,NULL,Final,NULL,27,27,28,25,NULL,31,25,25,29,NULL,NBA
+56,170113017,1997,"Mon, Jan 13",New Jersey Nets,Orlando Magic,"9-24, 6-12 Home","14-18, 6-10 Away",111,114,NULL,NULL,Final,NULL,43,20,23,25,NULL,35,27,17,35,NULL,NBA
+57,170117020,1997,"Fri, Jan 17",Philadelphia 76ers,New Jersey Nets,"8-29, 4-15 Home","10-25, 4-13 Away",103,105,NULL,NULL,Final/OT,NULL,19,28,28,16,12,21,25,26,19,14,NBA
+58,170120007,1997,"Mon, Jan 20",Denver Nuggets,New Jersey Nets,"11-29, 6-15 Home","10-27, 4-14 Away",132,123,NULL,NULL,Final,NULL,38,38,37,19,NULL,27,30,31,35,NULL,NBA
+59,170123010,1997,"Thu, Jan 23",Houston Rockets,New Jersey Nets,"32-10, 16-6 Home","11-28, 5-15 Away",111,104,NULL,NULL,Final,NULL,26,30,24,31,NULL,17,23,24,40,NULL,NBA
+60,170128017,1997,"Tue, Jan 28",New Jersey Nets,Cleveland Cavaliers,"11-30, 6-14 Home","24-18, 8-10 Away",62,84,NULL,NULL,Final,NULL,10,20,21,11,NULL,22,21,18,23,NULL,NBA
+61,170201017,1997,"Sat, Feb 1",New Jersey Nets,Detroit Pistons,"12-31, 7-15 Home","33-11, 14-7 Away",75,90,NULL,NULL,Final,NULL,17,18,19,21,NULL,24,22,21,23,NULL,NBA
+62,170204017,1997,"Tue, Feb 4",New Jersey Nets,Vancouver Grizzlies,"13-32, 8-15 Home","9-41, 3-20 Away",111,105,NULL,NULL,Final,NULL,24,36,27,24,NULL,26,26,23,30,NULL,NBA
+63,170211019,1997,"Tue, Feb 11",Orlando Magic,New Jersey Nets,"24-21, 14-9 Home","14-33, 6-17 Away",98,104,NULL,NULL,Final,NULL,21,23,25,29,NULL,23,25,23,33,NULL,NBA
+64,170214027,1997,"Fri, Feb 14",Washington Bullets,New Jersey Nets,"23-26, 13-10 Home","14-35, 6-19 Away",125,107,NULL,NULL,Final,NULL,31,27,34,33,NULL,26,24,27,30,NULL,NBA
+65,170217005,1997,"Mon, Feb 17",Cleveland Cavaliers,New Jersey Nets,"28-22, 18-10 Home","15-36, 6-20 Away",108,101,NULL,NULL,Final,NULL,31,21,26,30,NULL,22,23,23,33,NULL,NBA
+66,170221008,1997,"Fri, Feb 21",Detroit Pistons,New Jersey Nets,"39-13, 23-5 Home","15-38, 6-21 Away",98,84,NULL,NULL,Final,NULL,19,26,22,31,NULL,20,15,19,30,NULL,NBA
+67,170225017,1997,"Tue, Feb 25",New Jersey Nets,Sacramento Kings,"17-38, 11-17 Home","24-31, 9-18 Away",97,90,NULL,NULL,Final,NULL,28,28,23,18,NULL,22,30,26,12,NULL,NBA
+68,170303023,1997,"Mon, Mar 3",Sacramento Kings,New Jersey Nets,"27-32, 16-13 Home","17-40, 6-22 Away",108,95,NULL,NULL,Final,NULL,24,31,29,24,NULL,20,24,19,32,NULL,NBA
+69,170306029,1997,"Thu, Mar 6",Vancouver Grizzlies,New Jersey Nets,"11-51, 7-28 Home","18-41, 7-23 Away",96,102,NULL,NULL,Final,NULL,28,17,26,25,NULL,26,20,33,23,NULL,NBA
+70,170309013,1997,"Sun, Mar 9",Los Angeles Lakers,New Jersey Nets,"41-20, 23-8 Home","18-43, 7-25 Away",115,105,NULL,NULL,Final,NULL,29,23,26,37,NULL,37,18,21,29,NULL,NBA
+71,170314017,1997,"Fri, Mar 14",New Jersey Nets,Chicago Bulls,"19-44, 12-19 Home","55-9, 25-8 Away",99,98,NULL,NULL,Final,NULL,29,22,25,23,NULL,24,23,29,22,NULL,NBA
+72,170318017,1997,"Tue, Mar 18",New Jersey Nets,Houston Rockets,"20-45, 12-20 Home","44-22, 22-12 Away",89,97,NULL,NULL,Final,NULL,26,15,25,23,NULL,18,29,18,32,NULL,NBA
+73,170323002,1997,"Sun, Mar 23",Boston Celtics,New Jersey Nets,"13-57, 10-25 Home","21-46, 9-26 Away",91,100,NULL,NULL,Final,NULL,32,30,19,10,NULL,24,34,19,23,NULL,NBA
+74,170326017,1997,"Wed, Mar 26",New Jersey Nets,Philadelphia 76ers,"22-47, 13-21 Home","18-50, 8-25 Away",123,105,NULL,NULL,Final,NULL,33,28,29,33,NULL,20,24,36,25,NULL,NBA
+75,170329004,1997,"Sat, Mar 29",Chicago Bulls,New Jersey Nets,"62-9, 35-1 Home","23-48, 9-27 Away",111,101,NULL,NULL,Final,NULL,35,21,22,33,NULL,27,26,19,29,NULL,NBA
+76,170403017,1997,"Thu, Apr 3",New Jersey Nets,Charlotte Hornets,"23-50, 14-22 Home","47-26, 21-16 Away",87,93,NULL,NULL,Final,NULL,26,19,10,32,NULL,15,24,36,18,NULL,NBA
+77,170408017,1997,"Tue, Apr 8",New Jersey Nets,Miami Heat,"23-52, 14-24 Home","58-18, 31-9 Away",92,94,NULL,NULL,Final,NULL,31,23,19,19,NULL,15,30,31,18,NULL,NBA
+78,170411027,1997,"Fri, Apr 11",Washington Bullets,New Jersey Nets,"40-37, 23-16 Home","24-53, 9-29 Away",109,90,NULL,NULL,Final,NULL,33,22,36,18,NULL,18,26,14,32,NULL,NBA
+79,170415001,1997,"Tue, Apr 15",Atlanta Hawks,New Jersey Nets,"55-24, 35-5 Home","24-55, 9-31 Away",109,101,NULL,NULL,Final,NULL,23,26,12,48,NULL,29,28,23,21,NULL,NBA
+80,170418014,1997,"Fri, Apr 18",Miami Heat,New Jersey Nets,"60-21, 29-12 Home","25-56, 10-31 Away",74,86,NULL,NULL,Final,NULL,23,20,18,13,NULL,20,25,19,22,NULL,NBA
+81,170420017,1997,"Sun, Apr 20",New Jersey Nets,Atlanta Hawks,"26-56, 16-25 Home","56-26, 20-21 Away",108,92,NULL,NULL,Final,NULL,15,32,31,30,NULL,17,29,22,24,NULL,NBA

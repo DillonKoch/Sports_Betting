@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,400578304,2015,"Wed, Oct 29",Utah Jazz,Houston Rockets,"0-1, 0-1 Home","2-0, 2-0 Away",93,104,NULL,NULL,Final,NULL,27,23,22,21,NULL,27,31,17,29,NULL,NBA
+1,400578335,2015,"Mon, Nov 3",Philadelphia 76ers,Houston Rockets,"0-4, 0-2 Home","4-0, 3-0 Away",93,104,NULL,NULL,Final,NULL,19,35,20,19,NULL,32,23,24,25,NULL,NBA
+2,400578361,2015,"Thu, Nov 6",Houston Rockets,San Antonio Spurs,"6-0, 2-0 Home","2-2, 0-2 Away",98,81,NULL,NULL,Final,TNT,18,27,36,17,NULL,15,14,26,26,NULL,NBA
+3,400578409,2015,"Wed, Nov 12",Minnesota Timberwolves,Houston Rockets,2-5,7-1,101,113,NULL,NULL,Final,ESPN,26,23,21,31,NULL,28,25,31,29,NULL,NBA
+4,400578436,2015,"Sun, Nov 16",Oklahoma City Thunder,Houston Rockets,"3-8, 2-3 Home","9-1, 6-0 Away",65,69,NULL,NULL,Final,NBATV,19,14,18,14,NULL,24,18,9,18,NULL,NBA
+5,400578461,2015,"Wed, Nov 19",Houston Rockets,Los Angeles Lakers,"9-3, 3-2 Home","3-9, 2-4 Away",92,98,NULL,NULL,Final,ESPN,23,28,24,17,NULL,21,28,21,28,NULL,NBA
+6,400578494,2015,"Mon, Nov 24",Houston Rockets,New York Knicks,"11-3, 5-2 Home","4-11, 1-6 Away",91,86,NULL,NULL,Final,NULL,27,24,18,22,NULL,26,20,23,17,NULL,NBA
+7,400578520,2015,"Fri, Nov 28",Houston Rockets,LA Clippers,"12-4, 6-3 Home","10-5, 6-2 Away",85,102,NULL,NULL,Final,NBATV,24,20,28,13,NULL,26,30,29,17,NULL,NBA
+8,400578560,2015,"Wed, Dec 3",Houston Rockets,Memphis Grizzlies,"14-4, 7-3 Home","15-3, 7-3 Away",105,96,NULL,NULL,Final,NULL,34,24,36,11,NULL,28,18,22,28,NULL,NBA
+9,400578582,2015,"Sat, Dec 6",Houston Rockets,Phoenix Suns,"16-4, 8-3 Home","12-9, 6-5 Away",100,95,NULL,NULL,Final,NULL,35,25,20,20,NULL,18,23,26,28,NULL,NBA
+10,400578619,2015,"Thu, Dec 11",Sacramento Kings,Houston Rockets,"11-12, 6-6 Home","17-5, 9-2 Away",109,113,NULL,NULL,Final/OT,TNT,26,20,23,26,14,16,20,25,34,18,NBA
+11,400578670,2015,"Wed, Dec 17",Denver Nuggets,Houston Rockets,"10-15, 6-6 Home","19-5, 10-2 Away",111,115,NULL,NULL,Final/OT,ESPN,29,31,18,21,12,25,30,20,24,16,NBA
+12,400578688,2015,"Sat, Dec 20",Houston Rockets,Atlanta Hawks,"19-7, 9-5 Home","19-7, 7-5 Away",97,104,NULL,NULL,Final,NULL,26,14,34,23,NULL,32,20,22,30,NULL,NBA
+13,400578728,2015,"Fri, Dec 26",Memphis Grizzlies,Houston Rockets,"21-8, 12-4 Home","21-7, 11-2 Away",111,117,NULL,NULL,Final/OT,NBATV,31,26,24,23,7,24,26,29,25,13,NBA
+14,400578755,2015,"Mon, Dec 29",Houston Rockets,Washington Wizards,"21-9, 10-6 Home","22-8, 8-4 Away",103,104,NULL,NULL,Final,NULL,27,18,22,36,NULL,24,22,32,26,NULL,NBA
+15,400578780,2015,"Fri, Jan 2",New Orleans Pelicans,Houston Rockets,"17-16, 11-4 Home","22-10, 11-4 Away",111,83,NULL,NULL,Final,NULL,29,30,30,22,NULL,20,22,18,23,NULL,NBA
+16,400578804,2015,"Mon, Jan 5",Chicago Bulls,Houston Rockets,"25-10, 11-6 Home","23-11, 11-5 Away",114,105,NULL,NULL,Final,NULL,34,28,21,31,NULL,33,29,27,16,NULL,NBA
+17,400578828,2015,"Thu, Jan 8",New York Knicks,Houston Rockets,"5-34, 3-16 Home","25-11, 13-5 Away",96,120,NULL,NULL,Final,TNT,22,20,27,27,NULL,27,29,37,27,NULL,NBA
+18,400578856,2015,"Mon, Jan 12",Brooklyn Nets,Houston Rockets,"16-22, 8-12 Home","27-11, 14-5 Away",99,113,NULL,NULL,Final,NULL,28,24,18,29,NULL,37,23,26,27,NULL,NBA
+19,400578876,2015,"Thu, Jan 15",Houston Rockets,Oklahoma City Thunder,"28-12, 14-6 Home","18-20, 7-13 Away",112,101,NULL,NULL,Final,TNT,40,24,24,24,NULL,18,35,22,26,NULL,NBA
+20,400578909,2015,"Mon, Jan 19",Houston Rockets,Indiana Pacers,"29-13, 15-7 Home","15-28, 7-17 Away",110,98,NULL,NULL,Final,NULL,29,26,34,21,NULL,21,24,23,30,NULL,NBA
+21,400578942,2015,"Fri, Jan 23",Phoenix Suns,Houston Rockets,"26-19, 13-8 Home","30-14, 15-7 Away",111,113,NULL,NULL,Final,NULL,24,28,25,34,NULL,32,28,27,26,NULL,NBA
+22,400578977,2015,"Wed, Jan 28",Houston Rockets,Dallas Mavericks,"32-14, 16-7 Home","30-17, 16-9 Away",99,94,NULL,NULL,Final,NULL,24,30,27,18,NULL,25,28,25,16,NULL,NBA
+23,400579001,2015,"Sat, Jan 31",Detroit Pistons,Houston Rockets,"18-30, 8-16 Home","33-15, 17-8 Away",114,101,NULL,NULL,Final,NULL,32,27,27,28,NULL,27,19,23,32,NULL,NBA
+24,400579045,2015,"Fri, Feb 6",Houston Rockets,Milwaukee Bucks,"35-15, 18-7 Home","27-23, 15-13 Away",117,111,NULL,NULL,Final,NULL,36,32,28,21,NULL,23,33,26,29,NULL,NBA
+25,400579076,2015,"Tue, Feb 10",Phoenix Suns,Houston Rockets,"29-25, 16-11 Home","36-16, 18-8 Away",118,127,NULL,NULL,Final,TNT,23,38,28,29,NULL,41,29,18,39,NULL,NBA
+26,400579102,2015,"Fri, Feb 20",Dallas Mavericks,Houston Rockets,"37-20, 18-9 Home","36-18, 18-10 Away",111,100,NULL,NULL,Final,NULL,24,30,33,24,NULL,20,23,24,33,NULL,NBA
+27,400579124,2015,"Mon, Feb 23",Houston Rockets,Minnesota Timberwolves,"38-18, 20-8 Home","12-43, 5-22 Away",113,102,NULL,NULL,Final,NULL,26,30,28,29,NULL,25,31,19,27,NULL,NBA
+28,400579155,2015,"Fri, Feb 27",Houston Rockets,Brooklyn Nets,"40-18, 22-8 Home","23-33, 13-18 Away",102,98,NULL,NULL,Final,NULL,25,28,21,28,NULL,36,21,16,25,NULL,NBA
+29,400579184,2015,"Tue, Mar 3",Atlanta Hawks,Houston Rockets,"48-12, 28-4 Home","41-19, 18-11 Away",104,96,NULL,NULL,Final,NBATV,22,23,27,32,NULL,31,28,22,15,NULL,NBA
+30,400579209,2015,"Fri, Mar 6",Houston Rockets,Detroit Pistons,"42-20, 24-9 Home","23-38, 11-18 Away",103,93,NULL,NULL,Final,NULL,29,25,26,23,NULL,23,23,23,24,NULL,NBA
+31,400579253,2015,"Wed, Mar 11",Portland Trail Blazers,Houston Rockets,"42-20, 27-6 Home","43-21, 19-12 Away",105,100,NULL,NULL,Final,ESPN,26,28,26,25,NULL,29,24,21,26,NULL,NBA
+32,400579275,2015,"Sun, Mar 15",LA Clippers,Houston Rockets,"42-25, 24-10 Home","44-22, 20-13 Away",98,100,NULL,NULL,Final,ABC,30,20,24,24,NULL,22,36,26,16,NULL,NBA
+33,400579309,2015,"Thu, Mar 19",Houston Rockets,Denver Nuggets,"46-22, 26-9 Home","26-43, 10-24 Away",118,108,NULL,NULL,Final,NULL,33,32,25,28,NULL,27,22,24,35,NULL,NBA
+34,400579340,2015,"Mon, Mar 23",Indiana Pacers,Houston Rockets,"30-40, 18-18 Home","47-23, 21-13 Away",100,110,NULL,NULL,Final,NBATV,15,24,29,32,NULL,26,27,23,34,NULL,NBA
+35,400579373,2015,"Fri, Mar 27",Houston Rockets,Minnesota Timberwolves,"49-23, 27-10 Home","16-56, 7-29 Away",120,110,NULL,NULL,Final,NULL,31,29,30,30,NULL,22,28,30,30,NULL,NBA
+36,400579396,2015,"Mon, Mar 30",Toronto Raptors,Houston Rockets,"44-30, 26-13 Home","50-24, 23-14 Away",99,96,NULL,NULL,Final,NBATV,27,21,26,25,NULL,27,25,24,20,NULL,NBA
+37,400579417,2015,"Thu, Apr 2",Dallas Mavericks,Houston Rockets,"46-30, 25-13 Home","52-24, 24-14 Away",101,108,NULL,NULL,Final,NULL,25,30,28,18,NULL,28,19,30,31,NULL,NBA
+38,400579460,2015,"Wed, Apr 8",San Antonio Spurs,Houston Rockets,"53-26, 32-8 Home","53-25, 25-15 Away",110,98,NULL,NULL,Final,NULL,32,25,28,25,NULL,33,20,18,27,NULL,NBA
+39,400579491,2015,"Sun, Apr 12",Houston Rockets,New Orleans Pelicans,"54-26, 29-11 Home","43-37, 16-24 Away",121,114,NULL,NULL,Final,NULL,22,30,34,35,NULL,28,27,31,28,NULL,NBA
+40,400578295,2015,"Tue, Oct 28",Los Angeles Lakers,Houston Rockets,"0-1, 0-1 Home","1-0, 1-0 Away",90,108,NULL,NULL,Final,TNT,19,26,24,21,NULL,31,31,23,23,NULL,NBA
+41,400578326,2015,"Sat, Nov 1",Houston Rockets,Boston Celtics,"3-0, 1-0 Home","1-1, 0-1 Away",104,90,NULL,NULL,Final,NULL,37,20,24,23,NULL,22,16,24,28,NULL,NBA
+42,400578342,2015,"Tue, Nov 4",Miami Heat,Houston Rockets,"3-1, 2-1 Home","5-0, 4-0 Away",91,108,NULL,NULL,Final,NBATV,31,24,22,14,NULL,30,27,26,25,NULL,NBA
+43,400578379,2015,"Sat, Nov 8",Houston Rockets,Golden State Warriors,"6-1, 2-1 Home","5-0, 3-0 Away",87,98,NULL,NULL,Final,NULL,29,27,13,18,NULL,25,23,28,22,NULL,NBA
+44,400578419,2015,"Fri, Nov 14",Houston Rockets,Philadelphia 76ers,"8-1, 3-1 Home","0-9, 0-5 Away",88,87,NULL,NULL,Final,NULL,19,28,16,25,NULL,28,19,21,19,NULL,NBA
+45,400578443,2015,"Mon, Nov 17",Memphis Grizzlies,Houston Rockets,"10-1, 6-0 Home","9-2, 6-1 Away",119,93,NULL,NULL,Final,NULL,34,31,32,22,NULL,18,24,24,27,NULL,NBA
+46,400578480,2015,"Sat, Nov 22",Houston Rockets,Dallas Mavericks,"10-3, 4-2 Home","10-4, 4-3 Away",95,92,NULL,NULL,Final,NBATV,29,31,17,18,NULL,29,22,17,24,NULL,NBA
+47,400578509,2015,"Wed, Nov 26",Houston Rockets,Sacramento Kings,"12-3, 6-2 Home","9-6, 5-4 Away",102,89,NULL,NULL,Final,NULL,37,20,20,25,NULL,19,31,23,16,NULL,NBA
+48,400578532,2015,"Sat, Nov 29",Milwaukee Bucks,Houston Rockets,"10-8, 5-3 Home","13-4, 7-1 Away",103,117,NULL,NULL,Final,NULL,23,23,26,31,NULL,28,25,32,32,NULL,NBA
+49,400578575,2015,"Fri, Dec 5",Minnesota Timberwolves,Houston Rockets,"4-14, 2-7 Home","15-4, 8-1 Away",112,114,NULL,NULL,Final/OT,NULL,24,33,17,31,7,33,22,28,22,9,NBA
+50,400578616,2015,"Wed, Dec 10",Golden State Warriors,Houston Rockets,"19-2, 8-1 Home","16-5, 8-2 Away",105,93,NULL,NULL,Final,NULL,23,23,27,32,NULL,30,16,30,17,NULL,NBA
+51,400578638,2015,"Sat, Dec 13",Houston Rockets,Denver Nuggets,"18-5, 9-3 Home","10-13, 4-9 Away",108,96,NULL,NULL,Final,NULL,21,33,26,28,NULL,31,17,25,23,NULL,NBA
+52,400578672,2015,"Thu, Dec 18",Houston Rockets,New Orleans Pelicans,"19-6, 9-4 Home","13-12, 5-9 Away",90,99,NULL,NULL,Final,NULL,22,17,29,22,NULL,21,25,19,34,NULL,NBA
+53,400578703,2015,"Mon, Dec 22",Houston Rockets,Portland Trail Blazers,"20-7, 10-5 Home","22-7, 10-5 Away",110,95,NULL,NULL,Final,NULL,37,36,23,14,NULL,33,20,23,19,NULL,NBA
+54,400578746,2015,"Sun, Dec 28",San Antonio Spurs,Houston Rockets,"19-13, 10-5 Home","21-8, 11-3 Away",110,106,NULL,NULL,Final,NULL,28,28,29,25,NULL,33,22,29,22,NULL,NBA
+55,400578770,2015,"Wed, Dec 31",Houston Rockets,Charlotte Hornets,"22-9, 11-6 Home","10-23, 3-12 Away",102,83,NULL,NULL,Final,NULL,23,24,29,26,NULL,25,20,23,15,NULL,NBA
+56,400578789,2015,"Sat, Jan 3",Houston Rockets,Miami Heat,"23-10, 12-6 Home","14-20, 8-8 Away",115,79,NULL,NULL,Final,NULL,23,38,33,21,NULL,27,22,11,19,NULL,NBA
+57,400578815,2015,"Wed, Jan 7",Cleveland Cavaliers,Houston Rockets,"19-17, 11-9 Home","24-11, 12-5 Away",93,105,NULL,NULL,Final,ESPN,23,25,26,19,NULL,26,23,24,32,NULL,NBA
+58,400578847,2015,"Sat, Jan 10",Houston Rockets,Utah Jazz,"26-11, 13-6 Home","13-25, 7-14 Away",97,82,NULL,NULL,Final,NULL,23,23,32,19,NULL,23,14,20,25,NULL,NBA
+59,400578867,2015,"Wed, Jan 14",Orlando Magic,Houston Rockets,"15-27, 5-12 Home","27-12, 14-6 Away",120,113,NULL,NULL,Final,NULL,29,26,29,36,NULL,19,33,33,28,NULL,NBA
+60,400578895,2015,"Sat, Jan 17",Houston Rockets,Golden State Warriors,"28-13, 14-7 Home","32-6, 15-5 Away",106,131,NULL,NULL,Final,NBATV,31,28,21,26,NULL,31,33,38,29,NULL,NBA
+61,400578928,2015,"Wed, Jan 21",Golden State Warriors,Houston Rockets,"34-6, 19-1 Home","29-14, 14-7 Away",126,113,NULL,NULL,Final,ESPN,32,30,40,24,NULL,29,13,36,35,NULL,NBA
+62,400578959,2015,"Sun, Jan 25",Los Angeles Lakers,Houston Rockets,"12-33, 6-16 Home","31-14, 16-7 Away",87,99,NULL,NULL,Final,NULL,15,21,24,27,NULL,30,22,28,19,NULL,NBA
+63,400578990,2015,"Fri, Jan 30",Boston Celtics,Houston Rockets,"16-29, 9-14 Home","33-14, 17-7 Away",87,93,NULL,NULL,Final,NULL,21,21,22,23,NULL,29,31,9,24,NULL,NBA
+64,400579027,2015,"Wed, Feb 4",Houston Rockets,Chicago Bulls,"34-15, 17-7 Home","30-20, 17-9 Away",101,90,NULL,NULL,Final,ESPN,27,30,18,26,NULL,27,21,22,20,NULL,NBA
+65,400579063,2015,"Sun, Feb 8",Houston Rockets,Portland Trail Blazers,"35-16, 18-8 Home","35-17, 13-12 Away",98,109,NULL,NULL,Final,NULL,27,21,32,18,NULL,26,35,20,28,NULL,NBA
+66,400579091,2015,"Wed, Feb 11",LA Clippers,Houston Rockets,"35-19, 21-7 Home","36-17, 18-9 Away",110,95,NULL,NULL,Final,ESPN,26,28,26,30,NULL,26,30,23,16,NULL,NBA
+67,400579111,2015,"Sat, Feb 21",Houston Rockets,Toronto Raptors,"37-18, 19-8 Home","37-18, 16-9 Away",98,76,NULL,NULL,Final,NULL,20,20,28,30,NULL,18,18,17,23,NULL,NBA
+68,400579138,2015,"Wed, Feb 25",Houston Rockets,LA Clippers,"39-18, 21-8 Home","37-21, 14-13 Away",110,105,NULL,NULL,Final,ESPN,27,35,22,26,NULL,26,34,25,20,NULL,NBA
+69,400579175,2015,"Sun, Mar 1",Houston Rockets,Cleveland Cavaliers,"41-18, 23-8 Home","37-24, 15-15 Away",105,103,NULL,NULL,Final/OT,ABC,29,21,32,16,7,26,21,27,24,5,NBA
+70,400579193,2015,"Wed, Mar 4",Houston Rockets,Memphis Grizzlies,"41-20, 23-9 Home","43-17, 20-10 Away",100,102,NULL,NULL,Final,NULL,31,28,20,21,NULL,24,30,25,23,NULL,NBA
+71,400579222,2015,"Sat, Mar 7",Denver Nuggets,Houston Rockets,"22-41, 13-19 Home","43-20, 19-11 Away",100,114,NULL,NULL,Final,NULL,28,20,25,27,NULL,25,30,33,26,NULL,NBA
+72,400579257,2015,"Thu, Mar 12",Utah Jazz,Houston Rockets,"28-36, 15-16 Home","43-22, 19-13 Away",109,91,NULL,NULL,Final,NULL,28,25,29,27,NULL,23,20,22,26,NULL,NBA
+73,400579294,2015,"Tue, Mar 17",Houston Rockets,Orlando Magic,"45-22, 25-9 Home","21-48, 10-26 Away",107,94,NULL,NULL,Final,NULL,28,23,26,30,NULL,24,26,28,16,NULL,NBA
+74,400579326,2015,"Sat, Mar 21",Houston Rockets,Phoenix Suns,"46-23, 26-10 Home","37-33, 17-18 Away",102,117,NULL,NULL,Final,NULL,37,24,25,16,NULL,33,29,37,18,NULL,NBA
+75,400579360,2015,"Wed, Mar 25",New Orleans Pelicans,Houston Rockets,"37-34, 23-13 Home","48-23, 22-13 Away",93,95,NULL,NULL,Final,NULL,34,18,18,23,NULL,19,30,29,17,NULL,NBA
+76,400579389,2015,"Sun, Mar 29",Washington Wizards,Houston Rockets,"41-33, 26-12 Home","50-23, 23-13 Away",91,99,NULL,NULL,Final,ABC,20,26,21,24,NULL,28,31,17,23,NULL,NBA
+77,400579409,2015,"Wed, Apr 1",Houston Rockets,Sacramento Kings,"51-24, 28-10 Home","26-48, 10-27 Away",115,111,NULL,NULL,Final,NULL,35,23,39,18,NULL,25,30,31,25,NULL,NBA
+78,400579439,2015,"Sun, Apr 5",Oklahoma City Thunder,Houston Rockets,"42-35, 27-11 Home","53-24, 25-14 Away",112,115,NULL,NULL,Final,ABC,17,30,30,35,NULL,27,28,28,32,NULL,NBA
+79,400579473,2015,"Fri, Apr 10",Houston Rockets,San Antonio Spurs,"53-26, 28-11 Home","54-26, 22-18 Away",103,104,NULL,NULL,Final,NBATV,30,18,27,28,NULL,23,23,34,24,NULL,NBA
+80,400579494,2015,"Mon, Apr 13",Charlotte Hornets,Houston Rockets,"33-48, 19-22 Home","55-26, 26-15 Away",90,100,NULL,NULL,Final,NULL,23,29,23,15,NULL,24,28,31,17,NULL,NBA
+81,400579511,2015,"Wed, Apr 15",Houston Rockets,Utah Jazz,"56-26, 30-11 Home","38-44, 17-24 Away",117,91,NULL,NULL,Final,NULL,31,34,28,24,NULL,20,15,25,31,NULL,NBA

@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,401070716,2019,"Sat, Oct 20",Denver Nuggets,Phoenix Suns,"2-0, 1-0 Home","1-1, 0-1 Away",119,91,DEN -10.5,225,Final,NULL,30,35,27,27,NULL,16,33,30,12,NULL,NBA
+1,401070741,2019,"Wed, Oct 24",Phoenix Suns,Los Angeles Lakers,"1-3, 1-1 Home","1-3, 1-1 Away",113,131,LAL -5.5,238,Final,NULL,30,24,32,27,NULL,32,44,30,25,NULL,NBA
+2,401070766,2019,"Sun, Oct 28",Oklahoma City Thunder,Phoenix Suns,"1-4, 1-2 Home","1-5, 0-4 Away",117,110,OKC -13.5,221,Final,NULL,30,32,34,21,NULL,20,28,28,34,NULL,NBA
+3,401070804,2019,"Fri, Nov 2",Phoenix Suns,Toronto Raptors,"1-7, 1-3 Home","8-1, 2-1 Away",98,107,TOR -10.0,227,Final,NULL,26,26,19,27,NULL,23,25,29,30,NULL,NBA
+4,401070832,2019,"Tue, Nov 6",Phoenix Suns,Brooklyn Nets,"2-8, 2-4 Home","5-6, 2-4 Away",82,104,BKN -2.0,221,Final,NULL,22,20,24,16,NULL,24,28,24,28,NULL,NBA
+5,401070857,2019,"Sat, Nov 10",New Orleans Pelicans,Phoenix Suns,"6-6, 5-1 Home","2-10, 0-5 Away",119,99,NO -8.5,229,Final,NULL,33,28,30,28,NULL,26,27,29,17,NULL,NBA
+6,401070892,2019,"Wed, Nov 14",Phoenix Suns,San Antonio Spurs,"3-11, 3-5 Home","7-6, 2-4 Away",116,96,SA -5.5,213,Final,NULL,34,18,35,29,NULL,19,29,22,26,NULL,NBA
+7,401070923,2019,"Mon, Nov 19",Philadelphia 76ers,Phoenix Suns,"12-7, 9-0 Home","3-13, 0-7 Away",119,114,PHI -11.0,220,Final,NBATV,26,31,35,27,NULL,36,26,24,28,NULL,NBA
+8,401070956,2019,"Fri, Nov 23",Milwaukee Bucks,Phoenix Suns,"13-5, 9-2 Home","4-14, 1-8 Away",114,116,MIL -13.5,233,Final,NULL,30,31,29,24,NULL,34,30,27,25,NULL,NBA
+9,401070986,2019,"Tue, Nov 27",Phoenix Suns,Indiana Pacers,"4-16, 3-7 Home","13-8, 7-4 Away",104,109,IND -2.5,217,Final,NULL,26,28,23,27,NULL,26,35,20,28,NULL,NBA
+10,401071008,2019,"Fri, Nov 30",Phoenix Suns,Orlando Magic,"4-18, 3-8 Home","11-12, 5-6 Away",85,99,ORL -4.5,216,Final,NULL,25,23,23,14,NULL,21,30,24,24,NULL,NBA
+11,401071034,2019,"Tue, Dec 4",Phoenix Suns,Sacramento Kings,"4-20, 3-9 Home","12-11, 6-6 Away",105,122,SAC -5.5,223,Final,NULL,9,31,27,38,NULL,36,32,31,23,NULL,NBA
+12,401071057,2019,"Fri, Dec 7",Phoenix Suns,Miami Heat,"4-22, 3-10 Home","10-14, 5-5 Away",98,115,MIA -8.5,210,Final,NULL,36,14,23,25,NULL,34,26,29,26,NULL,NBA
+13,401071084,2019,"Tue, Dec 11",San Antonio Spurs,Phoenix Suns,"14-14, 10-4 Home","4-24, 1-13 Away",111,86,SA -12.5,218,Final,NULL,29,30,29,23,NULL,20,26,18,22,NULL,NBA
+14,401071116,2019,"Sat, Dec 15",Phoenix Suns,Minnesota Timberwolves,"6-24, 5-11 Home","13-16, 2-12 Away",107,99,MIN -7.5,219,Final,NULL,28,28,29,22,NULL,30,28,24,17,NULL,NBA
+15,401071139,2019,"Wed, Dec 19",Boston Celtics,Phoenix Suns,"18-12, 9-4 Home","8-24, 3-13 Away",103,111,BOS -11.5,223,Final,NBATV,37,25,18,23,NULL,26,33,27,25,NULL,NBA
+16,401071170,2019,"Sun, Dec 23",Brooklyn Nets,Phoenix Suns,"16-19, 8-11 Home","8-26, 3-15 Away",111,103,BKN -9.0,219,Final,NULL,38,25,28,20,NULL,31,25,18,29,NULL,NBA
+17,401071201,2019,"Fri, Dec 28",Phoenix Suns,Oklahoma City Thunder,"9-27, 5-12 Home","22-12, 10-8 Away",102,118,OKC -4.5,226,Final,NULL,29,28,27,18,NULL,36,22,23,37,NULL,NBA
+18,401071224,2019,"Mon, Dec 31",Phoenix Suns,Golden State Warriors,"9-29, 5-14 Home","25-13, 10-8 Away",109,132,GS -10.0,231,Final,NULL,27,25,35,22,NULL,31,38,39,24,NULL,NBA
+19,401071249,2019,"Fri, Jan 4",Phoenix Suns,LA Clippers,"9-31, 5-16 Home","22-16, 10-10 Away",111,121,LAC -4.5,235,Final,NULL,19,25,34,33,NULL,38,30,23,30,NULL,NBA
+20,401071280,2019,"Tue, Jan 8",Phoenix Suns,Sacramento Kings,"10-32, 6-17 Home","20-21, 9-11 Away",115,111,SAC -4.0,228,Final,NULL,35,18,33,29,NULL,32,40,14,25,NULL,NBA
+21,401071311,2019,"Sat, Jan 12",Phoenix Suns,Denver Nuggets,"11-33, 7-17 Home","28-13, 11-10 Away",102,93,DEN -9.0,218,Final,NULL,31,29,21,21,NULL,23,24,22,24,NULL,NBA
+22,401071344,2019,"Thu, Jan 17",Toronto Raptors,Phoenix Suns,"34-13, 19-4 Home","11-35, 4-18 Away",111,109,TOR -9.0,224,Final,NULL,32,25,20,34,NULL,20,29,29,31,NULL,NBA
+23,401071365,2019,"Sun, Jan 20",Minnesota Timberwolves,Phoenix Suns,"22-24, 16-8 Home","11-37, 4-20 Away",116,114,MIN -12.0,230,Final,NULL,29,35,27,25,NULL,31,36,29,18,NULL,NBA
+24,401071391,2019,"Thu, Jan 24",Phoenix Suns,Portland Trail Blazers,"11-39, 7-19 Home","30-20, 10-13 Away",106,120,POR -8.5,221,Final,NULL,31,21,24,30,NULL,30,26,32,32,NULL,NBA
+25,401071416,2019,"Sun, Jan 27",Los Angeles Lakers,Phoenix Suns,"26-24, 16-11 Home","11-41, 4-22 Away",116,102,LAL -8.0,228,Final,NULL,31,34,25,26,NULL,27,26,28,21,NULL,NBA
+26,401071457,2019,"Sat, Feb 2",Phoenix Suns,Atlanta Hawks,"11-43, 7-20 Home","17-35, 9-22 Away",112,118,PHX -2.0,235,Final,NULL,30,27,31,24,NULL,33,25,28,32,NULL,NBA
+27,401071481,2019,"Wed, Feb 6",Utah Jazz,Phoenix Suns,"31-24, 17-10 Home","11-45, 4-24 Away",116,88,UTAH -15.0,217,Final,NULL,30,26,23,37,NULL,24,22,25,17,NULL,NBA
+28,401071509,2019,"Sun, Feb 10",Sacramento Kings,Phoenix Suns,"30-26, 19-11 Home","11-47, 4-25 Away",117,104,SAC -9.0,231,Final,NULL,33,30,24,30,NULL,23,21,28,32,NULL,NBA
+29,401071540,2019,"Thu, Feb 21",Cleveland Cavaliers,Phoenix Suns,"13-46, 8-22 Home","11-49, 4-27 Away",111,98,EVEN,222,Final,NULL,23,32,22,34,NULL,28,23,21,26,NULL,NBA
+30,401071574,2019,"Mon, Feb 25",Miami Heat,Phoenix Suns,"26-33, 11-18 Home","12-50, 5-28 Away",121,124,MIA -8.0,217,Final,NULL,29,34,24,34,NULL,23,29,32,40,NULL,NBA
+31,401071615,2019,"Sat, Mar 2",Phoenix Suns,Los Angeles Lakers,"13-51, 8-23 Home","30-33, 12-20 Away",118,109,LAL -7.0,234,Final,NULL,33,33,29,23,NULL,26,33,19,31,NULL,NBA
+32,401071645,2019,"Wed, Mar 6",Phoenix Suns,New York Knicks,"15-51, 10-23 Home","13-52, 7-27 Away",107,96,PHX -3.0,227,Final,NULL,16,33,32,26,NULL,22,25,17,32,NULL,NBA
+33,401071673,2019,"Sun, Mar 10",Golden State Warriors,Phoenix Suns,"45-21, 24-10 Home","16-52, 6-29 Away",111,115,GS -17.0,234,Final,NBATV,29,28,23,31,NULL,16,40,23,36,NULL,NBA
+34,401071703,2019,"Fri, Mar 15",Houston Rockets,Phoenix Suns,"43-26, 25-10 Home","16-54, 6-30 Away",108,102,HOU -12.5,226,Final,NULL,26,29,28,25,NULL,31,26,28,17,NULL,NBA
+35,401071730,2019,"Mon, Mar 18",Phoenix Suns,Chicago Bulls,"17-55, 10-25 Home","20-52, 12-25 Away",101,116,PHX -2.5,227,Final,NULL,20,23,30,28,NULL,34,22,30,30,NULL,NBA
+36,401071767,2019,"Sat, Mar 23",Sacramento Kings,Phoenix Suns,"36-36, 23-15 Home","17-57, 7-31 Away",112,103,SAC -10.5,231,Final,NULL,19,28,32,33,NULL,32,21,22,28,NULL,NBA
+37,401071793,2019,"Wed, Mar 27",Phoenix Suns,Washington Wizards,"17-59, 10-27 Home","31-45, 9-29 Away",121,124,WSH -1.5,231,Final,NULL,30,29,31,31,NULL,27,32,30,35,NULL,NBA
+38,401071833,2019,"Mon, Apr 1",Phoenix Suns,Cleveland Cavaliers,"18-60, 11-28 Home","19-59, 6-33 Away",122,113,PHX -2.0,224,Final,NBATV,31,40,20,31,NULL,23,29,32,29,NULL,NBA
+39,401071862,2019,"Fri, Apr 5",Phoenix Suns,New Orleans Pelicans,"19-61, 12-29 Home","32-48, 13-27 Away",133,126,NO -2.5,229,Final/OT,NULL,31,34,31,21,16,38,38,23,18,9,NBA
+40,401070216,2019,"Wed, Oct 17",Phoenix Suns,Dallas Mavericks,"1-0, 1-0 Home","0-1, 0-1 Away",121,100,DAL -2.5,214,Final,ESPN,37,19,27,38,NULL,24,22,27,27,NULL,NBA
+41,401070728,2019,"Mon, Oct 22",Golden State Warriors,Phoenix Suns,"3-1, 2-0 Home","1-2, 0-2 Away",123,103,GS -12.5,228,Final,NULL,32,38,36,17,NULL,23,24,34,22,NULL,NBA
+42,401070761,2019,"Sat, Oct 27",Memphis Grizzlies,Phoenix Suns,"3-2, 2-0 Home","1-4, 0-3 Away",117,96,MEM -7.5,206,Final,NULL,26,42,19,30,NULL,18,25,28,25,NULL,NBA
+43,401070791,2019,"Wed, Oct 31",Phoenix Suns,San Antonio Spurs,"1-6, 1-2 Home","5-2, 2-1 Away",90,120,SA -6.0,NULL,Final,ESPN,15,24,27,24,NULL,28,32,34,26,NULL,NBA
+44,401070818,2019,"Sun, Nov 4",Phoenix Suns,Memphis Grizzlies,"2-7, 2-3 Home","5-3, 2-3 Away",102,100,MEM -4.5,211,Final,NULL,21,31,25,25,NULL,28,28,25,19,NULL,NBA
+45,401070845,2019,"Thu, Nov 8",Phoenix Suns,Boston Celtics,"2-9, 2-5 Home","7-4, 4-3 Away",109,116,BOS -9.5,215,Final/OT,NULL,32,23,25,20,9,13,22,30,35,16,NBA
+46,401070877,2019,"Mon, Nov 12",Oklahoma City Thunder,Phoenix Suns,"8-5, 5-2 Home","2-11, 0-6 Away",118,101,OKC -8.0,215,Final,NULL,32,32,22,32,NULL,13,27,35,26,NULL,NBA
+47,401070914,2019,"Sat, Nov 17",Phoenix Suns,Oklahoma City Thunder,"3-12, 3-6 Home","10-5, 4-3 Away",100,110,OKC -5.0,218,Final,NULL,25,17,23,35,NULL,30,17,32,31,NULL,NBA
+48,401070938,2019,"Wed, Nov 21",Chicago Bulls,Phoenix Suns,"5-13, 3-7 Home","3-14, 0-8 Away",124,116,PHX -1.5,218,Final,NULL,25,39,30,30,NULL,28,41,24,23,NULL,NBA
+49,401070968,2019,"Sun, Nov 25",Detroit Pistons,Phoenix Suns,"10-7, 6-3 Home","4-15, 1-9 Away",118,107,DET -8.0,223,Final,NULL,27,35,21,35,NULL,32,28,24,23,NULL,NBA
+50,401070996,2019,"Wed, Nov 28",LA Clippers,Phoenix Suns,"14-6, 9-1 Home","4-17, 1-10 Away",115,99,LAC -12.0,230,Final,NULL,26,23,40,26,NULL,22,27,25,25,NULL,NBA
+51,401071018,2019,"Sun, Dec 2",Los Angeles Lakers,Phoenix Suns,"14-9, 9-4 Home","4-19, 1-11 Away",120,96,LAL -11.5,221,Final,NULL,21,40,34,25,NULL,31,15,28,22,NULL,NBA
+52,401071047,2019,"Thu, Dec 6",Portland Trail Blazers,Phoenix Suns,"14-11, 9-4 Home","4-21, 1-12 Away",108,86,POR -13.0,211,Final,NULL,34,28,25,21,NULL,9,32,18,27,NULL,NBA
+53,401071080,2019,"Mon, Dec 10",Phoenix Suns,LA Clippers,"4-23, 3-11 Home","17-9, 8-7 Away",119,123,LAC -9.5,222,Final/OT,NULL,29,27,30,25,8,21,37,30,23,12,NBA
+54,401071100,2019,"Thu, Dec 13",Phoenix Suns,Dallas Mavericks,"5-24, 4-11 Home","15-12, 2-10 Away",99,89,DAL -6.0,210,Final,TNT,25,25,28,21,NULL,21,19,27,22,NULL,NBA
+55,401071125,2019,"Mon, Dec 17",New York Knicks,Phoenix Suns,"9-23, 4-10 Home","7-24, 2-13 Away",110,128,PHX -1.0,222,Final,NULL,32,34,17,27,NULL,28,31,41,28,NULL,NBA
+56,401071161,2019,"Sat, Dec 22",Washington Wizards,Phoenix Suns,"13-20, 9-6 Home","8-25, 3-14 Away",149,146,WSH -4.5,227,Final/3OT,NULL,33,22,28,26,40,29,26,24,30,37,NBA
+57,401071179,2019,"Wed, Dec 26",Orlando Magic,Phoenix Suns,"14-19, 8-11 Home","9-26, 4-15 Away",120,122,ORL -5.5,212,Final/OT,NULL,32,21,34,31,2,26,36,28,28,4,NBA
+58,401071209,2019,"Sat, Dec 29",Phoenix Suns,Denver Nuggets,"9-28, 5-13 Home","23-11, 9-8 Away",118,122,DEN -5.0,216,Final,NULL,16,33,29,40,NULL,36,26,28,32,NULL,NBA
+59,401071237,2019,"Wed, Jan 2",Phoenix Suns,Philadelphia 76ers,"9-30, 5-15 Home","25-14, 9-11 Away",127,132,PHI -3.5,229,Final,NULL,32,17,38,40,NULL,44,28,32,28,NULL,NBA
+60,401071266,2019,"Sun, Jan 6",Phoenix Suns,Charlotte Hornets,"9-32, 5-17 Home","19-20, 5-12 Away",113,119,PHX -1.5,226,Final,NULL,30,30,21,32,NULL,29,28,28,34,NULL,NBA
+61,401071289,2019,"Wed, Jan 9",Dallas Mavericks,Phoenix Suns,"19-22, 16-4 Home","10-33, 4-16 Away",104,94,DAL -11.0,217,Final,NULL,26,20,32,26,NULL,26,24,19,25,NULL,NBA
+62,401071327,2019,"Tue, Jan 15",Indiana Pacers,Phoenix Suns,"29-14, 15-5 Home","11-34, 4-17 Away",131,97,IND -10.5,218,Final,NULL,38,24,34,35,NULL,19,32,22,24,NULL,NBA
+63,401071355,2019,"Sat, Jan 19",Charlotte Hornets,Phoenix Suns,"22-23, 16-8 Home","11-36, 4-19 Away",135,115,CHA -7.0,225,Final,NULL,39,32,38,26,NULL,26,34,26,29,NULL,NBA
+64,401071378,2019,"Tue, Jan 22",Phoenix Suns,Minnesota Timberwolves,"11-38, 7-18 Home","23-24, 7-16 Away",91,118,MIN -4.5,232,Final,NULL,27,22,22,20,NULL,32,32,29,25,NULL,NBA
+65,401071401,2019,"Fri, Jan 25",Denver Nuggets,Phoenix Suns,"32-15, 21-4 Home","11-40, 4-21 Away",132,95,DEN -15.0,223,Final,NULL,37,33,28,34,NULL,32,23,26,14,NULL,NBA
+66,401071427,2019,"Tue, Jan 29",San Antonio Spurs,Phoenix Suns,"30-22, 20-7 Home","11-42, 4-23 Away",126,124,SA -13.0,226,Final,NULL,33,37,26,30,NULL,33,34,24,33,NULL,NBA
+67,401071467,2019,"Mon, Feb 4",Phoenix Suns,Houston Rockets,"11-44, 7-21 Home","31-22, 12-14 Away",110,118,HOU -8.5,228,Final,NULL,28,29,23,30,NULL,32,31,31,24,NULL,NBA
+68,401071495,2019,"Fri, Feb 8",Phoenix Suns,Golden State Warriors,"11-46, 7-22 Home","39-15, 19-8 Away",107,117,GS -17.0,230,Final,NULL,31,22,32,22,NULL,26,34,22,35,NULL,NBA
+69,401071536,2019,"Wed, Feb 13",LA Clippers,Phoenix Suns,"32-27, 16-12 Home","11-48, 4-26 Away",134,107,LAC -7.5,233,Final,NULL,32,35,33,34,NULL,22,29,28,28,NULL,NBA
+70,401071556,2019,"Sat, Feb 23",Atlanta Hawks,Phoenix Suns,"20-40, 10-18 Home","11-50, 4-28 Away",120,112,ATL -3.5,234,Final,NULL,33,30,23,34,NULL,33,26,28,25,NULL,NBA
+71,401071605,2019,"Fri, Mar 1",Phoenix Suns,New Orleans Pelicans,"12-51, 7-23 Home","28-36, 10-24 Away",116,130,NO -4.5,239,Final,NULL,32,25,27,32,NULL,27,29,38,36,NULL,NBA
+72,401071628,2019,"Mon, Mar 4",Phoenix Suns,Milwaukee Bucks,"14-51, 9-23 Home","48-16, 23-11 Away",114,105,MIL -13.5,233,Final,NULL,20,32,24,38,NULL,31,23,28,23,NULL,NBA
+73,401071664,2019,"Sat, Mar 9",Portland Trail Blazers,Phoenix Suns,"40-26, 25-9 Home","15-52, 5-29 Away",127,120,POR -12.0,227,Final,NULL,24,42,36,25,NULL,23,24,30,43,NULL,NBA
+74,401071692,2019,"Wed, Mar 13",Phoenix Suns,Utah Jazz,"16-53, 10-24 Home","38-29, 17-17 Away",97,114,UTAH -8.5,220,Final,NULL,27,16,32,22,NULL,25,28,25,36,NULL,NBA
+75,401071709,2019,"Sat, Mar 16",New Orleans Pelicans,Phoenix Suns,"30-42, 18-17 Home","17-54, 7-30 Away",136,138,NO -4.5,235,Final/OT,NULL,31,29,25,37,14,34,32,23,33,16,NBA
+76,401071750,2019,"Thu, Mar 21",Phoenix Suns,Detroit Pistons,"17-56, 10-26 Home","37-34, 14-21 Away",98,118,DET -6.5,218,Final,NULL,32,28,20,18,NULL,29,29,29,31,NULL,NBA
+77,401071778,2019,"Mon, Mar 25",Utah Jazz,Phoenix Suns,"44-30, 24-12 Home","17-58, 7-32 Away",125,92,UTAH -14.5,216,Final,NULL,26,36,26,37,NULL,21,22,31,18,NULL,NBA
+78,401071817,2019,"Sat, Mar 30",Phoenix Suns,Memphis Grizzlies,"17-60, 10-28 Home","31-45, 11-26 Away",115,120,MEM -2.5,221,Final,NULL,38,24,30,23,NULL,23,31,34,32,NULL,NBA
+79,401071847,2019,"Wed, Apr 3",Phoenix Suns,Utah Jazz,"18-61, 11-29 Home","48-30, 21-18 Away",97,118,UTAH -10.0,220,Final,NULL,31,22,23,21,NULL,25,31,28,34,NULL,NBA
+80,401071874,2019,"Sun, Apr 7",Houston Rockets,Phoenix Suns,"53-28, 31-10 Home","19-62, 7-33 Away",149,113,HOU -18.5,223,Final,NBATV,34,43,40,32,NULL,24,23,30,36,NULL,NBA
+81,401071889,2019,"Tue, Apr 9",Dallas Mavericks,Phoenix Suns,"33-48, 24-17 Home","19-63, 7-34 Away",120,109,DAL -8.5,226,Final,NULL,33,35,30,22,NULL,18,20,41,30,NULL,NBA

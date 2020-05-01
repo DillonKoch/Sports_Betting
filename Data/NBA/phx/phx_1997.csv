@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,161102021,1997,"Sat, Nov 2",Phoenix Suns,Houston Rockets,"0-2, 0-1 Home","2-0, 1-0 Away",95,110,NULL,NULL,Final,NULL,13,27,25,30,NULL,31,18,28,33,NULL,NBA
+1,161107021,1997,"Thu, Nov 7",Phoenix Suns,Seattle SuperSonics,"0-4, 0-3 Home","2-2, 1-1 Away",98,103,NULL,NULL,Final,NULL,23,14,28,33,NULL,30,22,29,22,NULL,NBA
+2,161111004,1997,"Mon, Nov 11",Chicago Bulls,Phoenix Suns,"7-0, 4-0 Home","0-6, 0-3 Away",97,79,NULL,NULL,Final,NULL,21,18,29,29,NULL,23,18,14,24,NULL,NBA
+3,161114029,1997,"Thu, Nov 14",Vancouver Grizzlies,Phoenix Suns,"1-7, 1-4 Home","0-8, 0-5 Away",92,89,NULL,NULL,Final,NULL,25,14,26,27,NULL,30,8,23,28,NULL,NBA
+4,161120021,1997,"Wed, Nov 20",Phoenix Suns,Chicago Bulls,"0-10, 0-5 Home","11-0, 5-0 Away",99,113,NULL,NULL,Final,NULL,26,21,23,29,NULL,35,27,25,26,NULL,NBA
+5,161124021,1997,"Sun, Nov 24",Phoenix Suns,Miami Heat,"0-12, 0-6 Home","9-4, 6-2 Away",84,87,NULL,NULL,Final,NULL,21,18,23,22,NULL,23,24,16,24,NULL,NBA
+6,161127021,1997,"Wed, Nov 27",Phoenix Suns,New Jersey Nets,"1-13, 1-6 Home","2-8, 0-4 Away",99,77,NULL,NULL,Final,NULL,28,22,30,19,NULL,24,20,18,15,NULL,NBA
+7,161204021,1997,"Wed, Dec 4",Phoenix Suns,Golden State Warriors,"2-14, 2-6 Home","6-12, 2-6 Away",118,87,NULL,NULL,Final,NULL,37,29,28,24,NULL,17,22,37,11,NULL,NBA
+8,161208021,1997,"Sun, Dec 8",Phoenix Suns,Indiana Pacers,"4-14, 3-6 Home","8-9, 5-5 Away",106,93,NULL,NULL,Final,NULL,27,32,27,20,NULL,14,28,22,29,NULL,NBA
+9,161212026,1997,"Thu, Dec 12",Utah Jazz,Phoenix Suns,"17-3, 12-2 Home","6-14, 2-8 Away",87,95,NULL,NULL,Final,NULL,26,18,22,21,NULL,33,20,12,30,NULL,NBA
+10,161215021,1997,"Sun, Dec 15",Phoenix Suns,Vancouver Grizzlies,"7-15, 5-6 Home","4-20, 1-12 Away",103,84,NULL,NULL,Final,NULL,21,27,22,33,NULL,18,20,22,24,NULL,NBA
+11,161218021,1997,"Wed, Dec 18",Phoenix Suns,Washington Bullets,"8-16, 6-6 Home","11-12, 5-6 Away",114,107,NULL,NULL,Final,NULL,33,29,29,23,NULL,38,24,22,23,NULL,NBA
+12,161223021,1997,"Mon, Dec 23",Phoenix Suns,Denver Nuggets,"8-18, 6-7 Home","8-19, 4-11 Away",109,112,NULL,NULL,Final/OT,NULL,26,24,19,20,20,21,24,24,20,23,NBA
+13,161228029,1997,"Sat, Dec 28",Vancouver Grizzlies,Phoenix Suns,"6-24, 5-10 Home","9-19, 3-11 Away",98,103,NULL,NULL,Final,NULL,30,24,16,28,NULL,35,29,17,22,NULL,NBA
+14,170102005,1997,"Thu, Jan 2",Cleveland Cavaliers,Phoenix Suns,"20-10, 14-4 Home","10-20, 3-12 Away",103,94,NULL,NULL,Final,NULL,29,29,21,24,NULL,25,17,29,23,NULL,NBA
+15,170105002,1997,"Sun, Jan 5",Boston Celtics,Phoenix Suns,"7-23, 6-10 Home","10-22, 3-14 Away",109,102,NULL,NULL,Final,NULL,30,23,23,33,NULL,31,23,24,24,NULL,NBA
+16,170108027,1997,"Wed, Jan 8",Washington Bullets,Phoenix Suns,"17-15, 9-8 Home","10-24, 3-16 Away",115,113,NULL,NULL,Final/OT,NULL,23,36,27,21,8,30,35,19,23,6,NBA
+17,170113006,1997,"Mon, Jan 13",Dallas Mavericks,Phoenix Suns,"12-21, 7-8 Home","12-24, 4-16 Away",98,105,NULL,NULL,Final,NULL,21,21,27,29,NULL,29,30,21,25,NULL,NBA
+18,170116026,1997,"Thu, Jan 16",Utah Jazz,Phoenix Suns,"25-12, 17-2 Home","13-25, 4-17 Away",95,91,NULL,NULL,Final,NULL,20,29,28,18,NULL,28,17,23,23,NULL,NBA
+19,170120021,1997,"Mon, Jan 20",Phoenix Suns,Detroit Pistons,"15-25, 11-8 Home","28-10, 11-6 Away",89,86,NULL,NULL,Final,NULL,17,16,24,32,NULL,22,19,21,24,NULL,NBA
+20,170124021,1997,"Fri, Jan 24",Phoenix Suns,Portland Trail Blazers,"15-27, 11-10 Home","24-18, 11-10 Away",105,115,NULL,NULL,Final,NULL,26,25,21,33,NULL,30,30,24,31,NULL,NBA
+21,170129019,1997,"Wed, Jan 29",Orlando Magic,Phoenix Suns,"20-20, 11-8 Home","15-29, 4-19 Away",112,105,NULL,NULL,Final,NULL,30,22,26,34,NULL,25,25,25,30,NULL,NBA
+22,170201028,1997,"Sat, Feb 1",Toronto Raptors,Phoenix Suns,"16-28, 13-11 Home","15-31, 4-21 Away",110,86,NULL,NULL,Final,NULL,31,33,25,21,NULL,24,29,24,9,NULL,NBA
+23,170205021,1997,"Wed, Feb 5",Phoenix Suns,Atlanta Hawks,"17-31, 12-10 Home","31-15, 12-14 Away",99,81,NULL,NULL,Final,NULL,21,26,29,23,NULL,21,13,13,34,NULL,NBA
+24,170212021,1997,"Wed, Feb 12",Phoenix Suns,Boston Celtics,"18-32, 13-10 Home","11-37, 2-20 Away",131,100,NULL,NULL,Final,NULL,38,36,34,23,NULL,28,17,26,29,NULL,NBA
+25,170216016,1997,"Sun, Feb 16",Minnesota Timberwolves,Phoenix Suns,"25-26, 17-8 Home","19-33, 5-23 Away",107,96,NULL,NULL,Final,NULL,23,23,29,32,NULL,26,28,20,22,NULL,NBA
+26,170219003,1997,"Wed, Feb 19",Charlotte Hornets,Phoenix Suns,"32-21, 18-7 Home","19-35, 5-25 Away",123,115,NULL,NULL,Final,NULL,27,41,18,37,NULL,25,37,31,22,NULL,NBA
+27,170223021,1997,"Sun, Feb 23",Phoenix Suns,Dallas Mavericks,"20-36, 15-11 Home","18-34, 8-18 Away",86,88,NULL,NULL,Final,NULL,21,31,23,11,NULL,20,25,17,26,NULL,NBA
+28,170302006,1997,"Sun, Mar 2",Dallas Mavericks,Phoenix Suns,"19-37, 11-18 Home","22-36, 6-25 Away",108,109,NULL,NULL,Final/OT,NULL,29,33,23,12,11,22,23,22,30,12,NBA
+29,170307021,1997,"Fri, Mar 7",Phoenix Suns,Sacramento Kings,"23-37, 17-12 Home","28-33, 11-20 Away",104,87,NULL,NULL,Final,NULL,23,26,17,38,NULL,28,16,20,23,NULL,NBA
+30,170311021,1997,"Tue, Mar 11",Phoenix Suns,Toronto Raptors,"24-38, 18-13 Home","22-40, 7-23 Away",101,105,NULL,NULL,Final,NULL,24,33,21,23,NULL,32,22,29,22,NULL,NBA
+31,170315021,1997,"Sat, Mar 15",Phoenix Suns,Dallas Mavericks,"26-38, 19-13 Home","21-42, 8-22 Away",101,76,NULL,NULL,Final,NULL,24,22,21,34,NULL,26,17,15,18,NULL,NBA
+32,170318021,1997,"Tue, Mar 18",Phoenix Suns,Los Angeles Clippers,"27-39, 19-14 Home","28-36, 11-19 Away",111,121,NULL,NULL,Final,NULL,27,22,22,40,NULL,31,25,25,40,NULL,NBA
+33,170322010,1997,"Sat, Mar 22",Houston Rockets,Phoenix Suns,"45-23, 23-11 Home","29-39, 9-25 Away",99,104,NULL,NULL,Final,NULL,30,26,24,19,NULL,27,29,25,23,NULL,NBA
+34,170326025,1997,"Wed, Mar 26",Seattle SuperSonics,Phoenix Suns,"49-21, 26-9 Home","31-39, 10-25 Away",107,109,NULL,NULL,Final,NULL,24,35,24,24,NULL,34,23,26,26,NULL,NBA
+35,170330021,1997,"Sun, Mar 30",Phoenix Suns,Seattle SuperSonics,"33-39, 23-14 Home","50-22, 23-13 Away",107,106,NULL,NULL,Final,NULL,26,30,29,22,NULL,32,25,20,29,NULL,NBA
+36,170404007,1997,"Fri, Apr 4",Denver Nuggets,Phoenix Suns,"20-54, 12-26 Home","35-39, 11-25 Away",113,122,NULL,NULL,Final,NULL,28,32,26,27,NULL,23,31,38,30,NULL,NBA
+37,170408021,1997,"Tue, Apr 8",Phoenix Suns,Minnesota Timberwolves,"37-39, 25-14 Home","37-39, 13-25 Away",115,107,NULL,NULL,Final,NULL,21,32,29,33,NULL,30,18,30,29,NULL,NBA
+38,170411013,1997,"Fri, Apr 11",Los Angeles Lakers,Phoenix Suns,"53-25, 29-10 Home","38-40, 13-26 Away",114,98,NULL,NULL,Final,NULL,24,29,27,34,NULL,23,23,22,30,NULL,NBA
+39,170415021,1997,"Tue, Apr 15",Phoenix Suns,Utah Jazz,"39-41, 25-15 Home","61-18, 25-15 Away",122,127,NULL,NULL,Final,NULL,34,22,30,36,NULL,31,22,36,38,NULL,NBA
+40,161101013,1997,"Fri, Nov 1",Los Angeles Lakers,Phoenix Suns,"1-0, 1-0 Home","0-1, 0-1 Away",96,82,NULL,NULL,Final,NULL,26,31,15,24,NULL,20,20,29,13,NULL,NBA
+41,161105021,1997,"Tue, Nov 5",Phoenix Suns,Minnesota Timberwolves,"0-3, 0-2 Home","2-1, 1-1 Away",95,98,NULL,NULL,Final,NULL,28,19,20,28,NULL,24,30,25,19,NULL,NBA
+42,161109020,1997,"Sat, Nov 9",Philadelphia 76ers,Phoenix Suns,"2-3, 1-2 Home","0-5, 0-2 Away",112,95,NULL,NULL,Final,NULL,25,36,23,28,NULL,17,22,25,31,NULL,NBA
+43,161112015,1997,"Tue, Nov 12",Milwaukee Bucks,Phoenix Suns,"5-1, 3-0 Home","0-7, 0-4 Away",99,89,NULL,NULL,Final/OT,NULL,27,18,16,25,13,27,16,27,16,3,NBA
+44,161117021,1997,"Sun, Nov 17",Phoenix Suns,Los Angeles Lakers,"0-9, 0-4 Home","7-3, 3-3 Away",88,102,NULL,NULL,Final,NULL,17,23,20,28,NULL,21,26,24,31,NULL,NBA
+45,161121010,1997,"Thu, Nov 21",Houston Rockets,Phoenix Suns,"10-1, 6-1 Home","0-11, 0-6 Away",115,105,NULL,NULL,Final,NULL,23,26,31,35,NULL,22,21,24,38,NULL,NBA
+46,161126007,1997,"Tue, Nov 26",Denver Nuggets,Phoenix Suns,"5-9, 2-5 Home","0-13, 0-7 Away",117,108,NULL,NULL,Final,NULL,23,25,33,36,NULL,21,27,26,34,NULL,NBA
+47,161129025,1997,"Fri, Nov 29",Seattle SuperSonics,Phoenix Suns,"14-3, 5-1 Home","1-14, 0-8 Away",105,92,NULL,NULL,Final,NULL,25,24,21,35,NULL,19,28,19,26,NULL,NBA
+48,161206023,1997,"Fri, Dec 6",Sacramento Kings,Phoenix Suns,"6-13, 2-5 Home","3-14, 1-8 Away",95,101,NULL,NULL,Final,NULL,24,19,25,27,NULL,20,28,23,30,NULL,NBA
+49,161210021,1997,"Tue, Dec 10",Phoenix Suns,San Antonio Spurs,"5-14, 4-6 Home","3-16, 1-8 Away",93,76,NULL,NULL,Final,NULL,20,23,26,24,NULL,21,17,25,13,NULL,NBA
+50,161213016,1997,"Fri, Dec 13",Minnesota Timberwolves,Phoenix Suns,"8-14, 6-3 Home","6-15, 2-9 Away",108,105,NULL,NULL,Final,NULL,33,23,21,31,NULL,30,34,19,22,NULL,NBA
+51,161216012,1997,"Mon, Dec 16",Los Angeles Clippers,Phoenix Suns,"10-14, 6-7 Home","7-16, 2-10 Away",122,121,NULL,NULL,Final/OT,NULL,35,25,30,23,9,28,29,32,24,8,NBA
+52,161221024,1997,"Sat, Dec 21",San Antonio Spurs,Phoenix Suns,"6-17, 4-8 Home","8-17, 2-11 Away",101,88,NULL,NULL,Final,NULL,21,26,33,21,NULL,22,22,18,26,NULL,NBA
+53,161225021,1997,"Wed, Dec 25",Phoenix Suns,Los Angeles Lakers,"8-19, 6-8 Home","20-9, 9-7 Away",87,108,NULL,NULL,Final,NULL,14,31,20,22,NULL,23,28,25,32,NULL,NBA
+54,161230021,1997,"Mon, Dec 30",Phoenix Suns,Sacramento Kings,"10-19, 7-8 Home","13-18, 4-11 Away",100,88,NULL,NULL,Final,NULL,28,29,23,20,NULL,23,15,21,29,NULL,NBA
+55,170103011,1997,"Fri, Jan 3",Indiana Pacers,Phoenix Suns,"14-15, 6-6 Home","10-21, 3-13 Away",117,104,NULL,NULL,Final,NULL,28,30,26,33,NULL,36,20,20,28,NULL,NBA
+56,170107001,1997,"Tue, Jan 7",Atlanta Hawks,Phoenix Suns,"19-11, 12-1 Home","10-23, 3-15 Away",105,103,NULL,NULL,Final/OT,NULL,29,22,18,22,14,24,20,24,23,12,NBA
+57,170110021,1997,"Fri, Jan 10",Phoenix Suns,Charlotte Hornets,"11-24, 8-8 Home","18-16, 9-11 Away",102,90,NULL,NULL,Final,NULL,33,22,20,27,NULL,26,23,26,15,NULL,NBA
+58,170114021,1997,"Tue, Jan 14",Phoenix Suns,Denver Nuggets,"13-24, 9-8 Home","9-28, 5-14 Away",110,101,NULL,NULL,Final,NULL,24,24,34,28,NULL,32,23,22,24,NULL,NBA
+59,170118021,1997,"Sat, Jan 18",Phoenix Suns,New York Knicks,"14-25, 10-8 Home","27-11, 11-7 Away",105,98,NULL,NULL,Final,NULL,21,24,36,24,NULL,24,34,20,20,NULL,NBA
+60,170122021,1997,"Wed, Jan 22",Phoenix Suns,Utah Jazz,"15-26, 11-9 Home","28-13, 10-11 Away",99,111,NULL,NULL,Final,NULL,19,24,20,36,NULL,26,21,34,30,NULL,NBA
+61,170127014,1997,"Mon, Jan 27",Miami Heat,Phoenix Suns,"31-12, 11-6 Home","15-28, 4-18 Away",125,97,NULL,NULL,Final,NULL,32,29,28,36,NULL,19,26,18,34,NULL,NBA
+62,170130017,1997,"Thu, Jan 30",New Jersey Nets,Phoenix Suns,"12-30, 7-14 Home","15-30, 4-20 Away",113,101,NULL,NULL,Final,NULL,27,27,24,35,NULL,21,31,25,24,NULL,NBA
+63,170202008,1997,"Sun, Feb 2",Detroit Pistons,Phoenix Suns,"33-12, 19-5 Home","16-31, 5-21 Away",97,106,NULL,NULL,Final,NULL,26,24,25,22,NULL,29,31,19,27,NULL,NBA
+64,170211022,1997,"Tue, Feb 11",Portland Trail Blazers,Phoenix Suns,"26-23, 15-9 Home","17-32, 5-22 Away",111,108,NULL,NULL,Final,NULL,21,34,20,36,NULL,26,26,27,29,NULL,NBA
+65,170214021,1997,"Fri, Feb 14",Phoenix Suns,Los Angeles Clippers,"19-32, 14-10 Home","20-27, 7-15 Away",110,93,NULL,NULL,Final,NULL,35,20,28,27,NULL,27,18,27,21,NULL,NBA
+66,170218018,1997,"Tue, Feb 18",New York Knicks,Phoenix Suns,"38-14, 24-5 Home","19-34, 5-24 Away",95,94,NULL,NULL,Final,NULL,22,25,25,23,NULL,30,27,15,22,NULL,NBA
+67,170221021,1997,"Fri, Feb 21",Phoenix Suns,Cleveland Cavaliers,"20-35, 15-10 Home","29-23, 11-13 Away",94,88,NULL,NULL,Final,NULL,24,19,19,32,NULL,28,23,11,26,NULL,NBA
+68,170226021,1997,"Wed, Feb 26",Phoenix Suns,Philadelphia 76ers,"21-36, 16-11 Home","14-41, 6-21 Away",111,104,NULL,NULL,Final,NULL,30,23,30,28,NULL,21,27,27,29,NULL,NBA
+69,170305021,1997,"Wed, Mar 5",Phoenix Suns,Portland Trail Blazers,"22-37, 16-12 Home","33-28, 13-18 Away",99,121,NULL,NULL,Final,NULL,21,30,18,30,NULL,32,19,40,30,NULL,NBA
+70,170309021,1997,"Sun, Mar 9",Phoenix Suns,Orlando Magic,"24-37, 18-12 Home","32-28, 13-18 Away",121,85,NULL,NULL,Final,NULL,20,44,31,26,NULL,31,22,21,11,NULL,NBA
+71,170313012,1997,"Thu, Mar 13",Los Angeles Clippers,Phoenix Suns,"26-35, 17-16 Home","25-38, 7-25 Away",96,112,NULL,NULL,Final,NULL,32,19,21,24,NULL,24,32,32,24,NULL,NBA
+72,170317009,1997,"Mon, Mar 17",Golden State Warriors,Phoenix Suns,"25-40, 15-17 Home","27-38, 8-25 Away",95,116,NULL,NULL,Final,NULL,26,30,25,14,NULL,20,28,34,34,NULL,NBA
+73,170320021,1997,"Thu, Mar 20",Phoenix Suns,San Antonio Spurs,"28-39, 20-14 Home","16-50, 7-27 Away",113,106,NULL,NULL,Final,NULL,21,29,32,31,NULL,24,27,31,24,NULL,NBA
+74,170325021,1997,"Tue, Mar 25",Phoenix Suns,Milwaukee Bucks,"30-39, 21-14 Home","28-40, 12-20 Away",117,112,NULL,NULL,Final,NULL,34,22,35,26,NULL,30,30,27,25,NULL,NBA
+75,170328021,1997,"Fri, Mar 28",Phoenix Suns,Golden State Warriors,"32-39, 22-14 Home","25-45, 10-27 Away",122,115,NULL,NULL,Final/OT,NULL,22,30,26,32,12,25,29,32,24,5,NBA
+76,170402021,1997,"Wed, Apr 2",Phoenix Suns,Houston Rockets,"34-39, 24-14 Home","49-24, 23-13 Away",109,96,NULL,NULL,Final,NULL,30,24,21,34,NULL,25,19,23,29,NULL,NBA
+77,170405022,1997,"Sat, Apr 5",Portland Trail Blazers,Phoenix Suns,"44-32, 27-12 Home","36-39, 12-25 Away",90,99,NULL,NULL,Final,NULL,25,20,18,27,NULL,23,18,31,27,NULL,NBA
+78,170410023,1997,"Thu, Apr 10",Sacramento Kings,Phoenix Suns,"31-46, 20-18 Home","38-39, 13-25 Away",99,101,NULL,NULL,Final,NULL,25,25,26,23,NULL,27,23,28,23,NULL,NBA
+79,170413009,1997,"Sun, Apr 13",Golden State Warriors,Phoenix Suns,"29-50, 18-22 Home","39-40, 14-26 Away",97,105,NULL,NULL,Final,NULL,27,25,13,32,NULL,23,30,24,28,NULL,NBA
+80,170418024,1997,"Fri, Apr 18",San Antonio Spurs,Phoenix Suns,"20-61, 12-28 Home","40-41, 15-26 Away",95,106,NULL,NULL,Final,NULL,22,33,20,20,NULL,15,26,37,28,NULL,NBA
+81,170419021,1997,"Sat, Apr 19",Phoenix Suns,Vancouver Grizzlies,"40-42, 25-16 Home","14-68, 6-35 Away",107,121,NULL,NULL,Final,NULL,24,33,27,23,NULL,31,33,28,29,NULL,NBA

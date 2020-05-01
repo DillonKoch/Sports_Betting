@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,161102015,1997,"Sat, Nov 2",Milwaukee Bucks,Boston Celtics,"2-0, 1-0 Home","0-2, 0-1 Away",124,102,NULL,NULL,Final,NULL,35,29,32,28,NULL,21,15,33,33,NULL,NBA
+1,161108014,1997,"Fri, Nov 8",Miami Heat,Milwaukee Bucks,"3-1, 2-1 Home","3-1, 1-1 Away",101,89,NULL,NULL,Final,NULL,26,27,20,28,NULL,23,13,24,29,NULL,NBA
+2,161112015,1997,"Tue, Nov 12",Milwaukee Bucks,Phoenix Suns,"5-1, 3-0 Home","0-7, 0-4 Away",99,89,NULL,NULL,Final/OT,NULL,27,18,16,25,13,27,16,27,16,3,NBA
+3,161115023,1997,"Fri, Nov 15",Sacramento Kings,Milwaukee Bucks,"3-5, 2-3 Home","5-3, 2-3 Away",103,99,NULL,NULL,Final,NULL,22,29,31,21,NULL,34,24,20,21,NULL,NBA
+4,161119015,1997,"Tue, Nov 19",Milwaukee Bucks,Dallas Mavericks,"6-4, 4-0 Home","2-7, 1-4 Away",100,97,NULL,NULL,Final,NULL,23,26,20,31,NULL,25,25,20,27,NULL,NBA
+5,161123015,1997,"Sat, Nov 23",Milwaukee Bucks,Washington Bullets,"6-6, 4-2 Home","6-6, 3-2 Away",90,95,NULL,NULL,Final,NULL,28,27,21,14,NULL,26,22,18,29,NULL,NBA
+6,161127015,1997,"Wed, Nov 27",Milwaukee Bucks,Cleveland Cavaliers,"8-6, 5-2 Home","9-4, 4-2 Away",92,75,NULL,NULL,Final,NULL,33,18,23,18,NULL,17,25,21,12,NULL,NBA
+7,161203015,1997,"Tue, Dec 3",Milwaukee Bucks,Chicago Bulls,"8-8, 5-4 Home","16-1, 10-1 Away",104,107,NULL,NULL,Final,NULL,23,26,31,24,NULL,26,27,27,27,NULL,NBA
+8,161208015,1997,"Sun, Dec 8",Milwaukee Bucks,Boston Celtics,"10-8, 6-4 Home","4-14, 0-7 Away",100,87,NULL,NULL,Final,NULL,36,26,17,21,NULL,26,29,22,10,NULL,NBA
+9,161212015,1997,"Thu, Dec 12",Milwaukee Bucks,Seattle SuperSonics,"11-9, 7-5 Home","16-8, 10-5 Away",100,97,NULL,NULL,Final,NULL,27,17,28,28,NULL,23,28,18,28,NULL,NBA
+10,161216002,1997,"Mon, Dec 16",Boston Celtics,Milwaukee Bucks,"5-17, 5-8 Home","13-9, 5-4 Away",91,107,NULL,NULL,Final,NULL,19,27,21,24,NULL,28,23,27,29,NULL,NBA
+11,161219028,1997,"Thu, Dec 19",Toronto Raptors,Milwaukee Bucks,"9-16, 8-8 Home","13-11, 5-5 Away",96,93,NULL,NULL,Final,NULL,26,34,15,21,NULL,24,26,25,18,NULL,NBA
+12,161223010,1997,"Mon, Dec 23",Houston Rockets,Milwaukee Bucks,"21-6, 10-4 Home","15-11, 6-5 Away",76,81,NULL,NULL,Final,NULL,17,18,23,18,NULL,22,20,24,15,NULL,NBA
+13,161227005,1997,"Fri, Dec 27",Cleveland Cavaliers,Milwaukee Bucks,"18-9, 12-4 Home","15-13, 6-6 Away",94,86,NULL,NULL,Final,NULL,26,19,27,22,NULL,24,32,17,13,NULL,NBA
+14,170104015,1997,"Sat, Jan 4",Milwaukee Bucks,Minnesota Timberwolves,"15-15, 9-9 Home","14-18, 4-14 Away",91,97,NULL,NULL,Final,NULL,26,24,22,19,NULL,23,24,22,28,NULL,NBA
+15,170107008,1997,"Tue, Jan 7",Detroit Pistons,Milwaukee Bucks,"24-8, 15-4 Home","16-16, 7-7 Away",76,86,NULL,NULL,Final,NULL,24,24,14,14,NULL,26,19,19,22,NULL,NBA
+16,170110015,1997,"Fri, Jan 10",Milwaukee Bucks,Chicago Bulls,"17-17, 10-10 Home","30-4, 14-3 Away",101,116,NULL,NULL,Final,NULL,32,29,22,18,NULL,22,35,29,30,NULL,NBA
+17,170117004,1997,"Fri, Jan 17",Chicago Bulls,Milwaukee Bucks,"34-4, 19-1 Home","18-18, 7-8 Away",100,73,NULL,NULL,Final,NULL,26,27,21,26,NULL,18,18,24,13,NULL,NBA
+18,170120020,1997,"Mon, Jan 20",Philadelphia 76ers,Milwaukee Bucks,"8-31, 4-16 Home","19-19, 8-9 Away",104,114,NULL,NULL,Final,NULL,25,28,20,31,NULL,25,35,26,28,NULL,NBA
+19,170123019,1997,"Thu, Jan 23",Orlando Magic,Milwaukee Bucks,"18-19, 10-8 Home","19-21, 8-10 Away",96,92,NULL,NULL,Final,NULL,25,19,22,30,NULL,21,20,19,32,NULL,NBA
+20,170126015,1997,"Sun, Jan 26",Milwaukee Bucks,San Antonio Spurs,"21-21, 12-11 Home","11-29, 4-17 Away",94,76,NULL,NULL,Final,NULL,23,26,24,21,NULL,18,18,30,10,NULL,NBA
+21,170131003,1997,"Fri, Jan 31",Charlotte Hornets,Milwaukee Bucks,"26-19, 13-6 Home","21-23, 9-11 Away",102,95,NULL,NULL,Final,NULL,36,28,16,22,NULL,23,24,25,23,NULL,NBA
+22,170204015,1997,"Tue, Feb 4",Milwaukee Bucks,Cleveland Cavaliers,"21-25, 12-14 Home","25-21, 9-11 Away",78,79,NULL,NULL,Final,NULL,17,12,29,20,NULL,17,24,24,14,NULL,NBA
+23,170211015,1997,"Tue, Feb 11",Milwaukee Bucks,Toronto Raptors,"22-26, 13-14 Home","17-30, 3-18 Away",101,96,NULL,NULL,Final,NULL,31,26,26,18,NULL,22,24,33,17,NULL,NBA
+24,170215015,1997,"Sat, Feb 15",Milwaukee Bucks,Denver Nuggets,"24-26, 14-14 Home","16-35, 7-18 Away",92,87,NULL,NULL,Final,NULL,22,22,23,25,NULL,18,21,22,26,NULL,NBA
+25,170220006,1997,"Thu, Feb 20",Dallas Mavericks,Milwaukee Bucks,"17-33, 10-15 Home","25-27, 11-13 Away",99,101,NULL,NULL,Final,NULL,28,15,27,29,NULL,32,26,19,24,NULL,NBA
+26,170223015,1997,"Sun, Feb 23",Milwaukee Bucks,Los Angeles Clippers,"25-29, 14-15 Home","22-29, 8-17 Away",86,99,NULL,NULL,Final,NULL,35,20,18,13,NULL,27,24,22,26,NULL,NBA
+27,170228011,1997,"Fri, Feb 28",Indiana Pacers,Milwaukee Bucks,"27-29, 14-12 Home","25-31, 11-15 Away",104,85,NULL,NULL,Final,NULL,29,23,23,29,NULL,22,23,19,21,NULL,NBA
+28,170303004,1997,"Mon, Mar 3",Chicago Bulls,Milwaukee Bucks,"51-7, 28-1 Home","25-33, 11-16 Away",108,90,NULL,NULL,Final,NULL,29,24,33,22,NULL,25,21,17,27,NULL,NBA
+29,170307001,1997,"Fri, Mar 7",Atlanta Hawks,Milwaukee Bucks,"41-19, 26-3 Home","25-35, 11-18 Away",90,80,NULL,NULL,Final,NULL,27,21,23,19,NULL,26,29,8,17,NULL,NBA
+30,170311015,1997,"Tue, Mar 11",Milwaukee Bucks,Miami Heat,"26-36, 14-18 Home","46-17, 27-8 Away",93,108,NULL,NULL,Final,NULL,25,22,20,26,NULL,23,26,31,28,NULL,NBA
+31,170316015,1997,"Sun, Mar 16",Milwaukee Bucks,Indiana Pacers,"27-37, 15-19 Home","30-34, 13-20 Away",102,98,NULL,NULL,Final,NULL,28,28,15,31,NULL,25,18,23,32,NULL,NBA
+32,170320015,1997,"Thu, Mar 20",Milwaukee Bucks,Portland Trail Blazers,"27-39, 15-20 Home","40-28, 15-18 Away",78,97,NULL,NULL,Final,NULL,18,26,15,19,NULL,27,24,32,14,NULL,NBA
+33,170325021,1997,"Tue, Mar 25",Phoenix Suns,Milwaukee Bucks,"30-39, 21-14 Home","28-40, 12-20 Away",117,112,NULL,NULL,Final,NULL,34,22,35,26,NULL,30,30,27,25,NULL,NBA
+34,170328026,1997,"Fri, Mar 28",Utah Jazz,Milwaukee Bucks,"53-17, 31-3 Home","28-42, 12-22 Away",101,96,NULL,NULL,Final,NULL,25,27,22,27,NULL,25,22,22,27,NULL,NBA
+35,170401029,1997,"Tue, Apr 1",Vancouver Grizzlies,Milwaukee Bucks,"12-63, 8-31 Home","29-43, 13-23 Away",91,102,NULL,NULL,Final,NULL,28,24,17,22,NULL,25,30,31,16,NULL,NBA
+36,170404022,1997,"Fri, Apr 4",Portland Trail Blazers,Milwaukee Bucks,"44-31, 27-11 Home","29-45, 13-25 Away",108,93,NULL,NULL,Final,NULL,28,31,32,17,NULL,21,22,26,24,NULL,NBA
+37,170410017,1997,"Thu, Apr 10",New Jersey Nets,Milwaukee Bucks,"24-52, 15-24 Home","29-47, 13-26 Away",93,88,NULL,NULL,Final,NULL,27,22,24,20,NULL,29,21,18,20,NULL,NBA
+38,170413015,1997,"Sun, Apr 13",Milwaukee Bucks,New Jersey Nets,"31-47, 18-21 Home","24-54, 9-30 Away",132,123,NULL,NULL,Final,NULL,37,39,28,28,NULL,25,21,40,37,NULL,NBA
+39,170416008,1997,"Wed, Apr 16",Detroit Pistons,Milwaukee Bucks,"53-27, 30-10 Home","32-48, 13-27 Away",92,85,NULL,NULL,Final,NULL,20,24,26,22,NULL,26,20,17,22,NULL,NBA
+40,161101020,1997,"Fri, Nov 1",Philadelphia 76ers,Milwaukee Bucks,"0-1, 0-1 Home","1-0, 1-0 Away",103,111,NULL,NULL,Final,NULL,28,23,29,23,NULL,31,27,29,24,NULL,NBA
+41,161106015,1997,"Wed, Nov 6",Milwaukee Bucks,Vancouver Grizzlies,"3-0, 2-0 Home","0-4, 0-2 Away",105,89,NULL,NULL,Final,NULL,24,26,23,32,NULL,19,20,22,28,NULL,NBA
+42,161109003,1997,"Sat, Nov 9",Charlotte Hornets,Milwaukee Bucks,"3-2, 2-1 Home","4-1, 2-1 Away",98,100,NULL,NULL,Final,NULL,27,36,19,16,NULL,24,30,28,18,NULL,NBA
+43,161114009,1997,"Thu, Nov 14",Golden State Warriors,Milwaukee Bucks,"2-5, 1-3 Home","5-2, 2-2 Away",95,86,NULL,NULL,Final,NULL,27,16,28,24,NULL,25,26,19,16,NULL,NBA
+44,161117012,1997,"Sun, Nov 17",Los Angeles Clippers,Milwaukee Bucks,"5-4, 2-3 Home","5-4, 2-4 Away",102,94,NULL,NULL,Final,NULL,26,24,30,22,NULL,27,25,27,15,NULL,NBA
+45,161121015,1997,"Thu, Nov 21",Milwaukee Bucks,Atlanta Hawks,"6-5, 4-1 Home","6-6, 4-5 Away",65,73,NULL,NULL,Final,NULL,15,14,21,15,NULL,21,15,24,13,NULL,NBA
+46,161125019,1997,"Mon, Nov 25",Orlando Magic,Milwaukee Bucks,"6-3, 4-3 Home","7-6, 3-4 Away",88,100,NULL,NULL,Final,NULL,24,21,20,23,NULL,25,20,23,32,NULL,NBA
+47,161130015,1997,"Sat, Nov 30",Milwaukee Bucks,Charlotte Hornets,"8-7, 5-3 Home","8-6, 3-4 Away",87,94,NULL,NULL,Final,NULL,28,17,21,21,NULL,16,32,26,20,NULL,NBA
+48,161207027,1997,"Sat, Dec 7",Washington Bullets,Milwaukee Bucks,"7-10, 4-6 Home","9-8, 4-4 Away",118,126,NULL,NULL,Final,NULL,30,24,23,41,NULL,33,26,33,34,NULL,NBA
+49,161210015,1997,"Tue, Dec 10",Milwaukee Bucks,Detroit Pistons,"10-9, 6-5 Home","16-3, 7-1 Away",85,93,NULL,NULL,Final,NULL,16,27,27,15,NULL,21,26,22,24,NULL,NBA
+50,161214015,1997,"Sat, Dec 14",Milwaukee Bucks,New Jersey Nets,"12-9, 8-5 Home","5-13, 2-6 Away",101,91,NULL,NULL,Final,NULL,32,29,22,18,NULL,33,20,23,15,NULL,NBA
+51,161218015,1997,"Wed, Dec 18",Milwaukee Bucks,Los Angeles Lakers,"13-10, 8-6 Home","19-8, 8-6 Away",105,111,NULL,NULL,Final,NULL,32,29,19,25,NULL,25,29,28,29,NULL,NBA
+52,161221015,1997,"Sat, Dec 21",Milwaukee Bucks,Orlando Magic,"14-11, 9-6 Home","9-13, 4-6 Away",103,85,NULL,NULL,Final,NULL,32,21,27,23,NULL,20,21,25,19,NULL,NBA
+53,161226015,1997,"Thu, Dec 26",Milwaukee Bucks,Houston Rockets,"15-12, 9-7 Home","22-6, 12-2 Away",90,101,NULL,NULL,Final,NULL,27,17,22,24,NULL,34,20,25,22,NULL,NBA
+54,161229015,1997,"Sun, Dec 29",Milwaukee Bucks,Miami Heat,"15-14, 9-8 Home","23-7, 16-2 Away",94,95,NULL,NULL,Final,NULL,24,22,19,29,NULL,32,16,19,28,NULL,NBA
+55,170105018,1997,"Sun, Jan 5",New York Knicks,Milwaukee Bucks,"23-9, 14-4 Home","15-16, 6-7 Away",97,92,NULL,NULL,Final,NULL,27,28,26,16,NULL,26,25,15,26,NULL,NBA
+56,170108015,1997,"Wed, Jan 8",Milwaukee Bucks,Utah Jazz,"17-16, 10-9 Home","23-10, 7-8 Away",119,112,NULL,NULL,Final/OT,NULL,18,28,27,26,20,23,15,32,29,13,NBA
+57,170112015,1997,"Sun, Jan 12",Milwaukee Bucks,Golden State Warriors,"18-17, 11-10 Home","13-21, 5-11 Away",111,93,NULL,NULL,Final,NULL,29,22,28,32,NULL,22,25,19,27,NULL,NBA
+58,170118001,1997,"Sat, Jan 18",Atlanta Hawks,Milwaukee Bucks,"25-11, 16-1 Home","18-19, 7-9 Away",94,71,NULL,NULL,Final,NULL,17,23,29,25,NULL,17,23,14,17,NULL,NBA
+59,170121015,1997,"Tue, Jan 21",Milwaukee Bucks,Indiana Pacers,"19-20, 11-11 Home","19-19, 11-12 Away",89,92,NULL,NULL,Final,NULL,28,15,21,25,NULL,23,23,20,26,NULL,NBA
+60,170125011,1997,"Sat, Jan 25",Indiana Pacers,Milwaukee Bucks,"19-21, 8-9 Home","20-21, 9-10 Away",86,88,NULL,NULL,Final,NULL,28,21,18,19,NULL,23,19,21,25,NULL,NBA
+61,170128015,1997,"Tue, Jan 28",Milwaukee Bucks,Detroit Pistons,"21-22, 12-12 Home","31-11, 13-7 Away",84,93,NULL,NULL,Final,NULL,20,23,25,16,NULL,24,24,26,19,NULL,NBA
+62,170201015,1997,"Sat, Feb 1",Milwaukee Bucks,Philadelphia 76ers,"21-24, 12-13 Home","11-34, 6-16 Away",100,109,NULL,NULL,Final,NULL,35,22,16,27,NULL,24,32,20,33,NULL,NBA
+63,170206014,1997,"Thu, Feb 6",Miami Heat,Milwaukee Bucks,"36-12, 14-6 Home","21-26, 9-12 Away",102,90,NULL,NULL,Final,NULL,31,22,30,19,NULL,20,25,25,20,NULL,NBA
+64,170214028,1997,"Fri, Feb 14",Toronto Raptors,Milwaukee Bucks,"17-32, 14-13 Home","23-26, 10-12 Away",102,106,NULL,NULL,Final,NULL,33,16,29,24,NULL,24,27,24,31,NULL,NBA
+65,170217027,1997,"Mon, Feb 17",Washington Bullets,Milwaukee Bucks,"24-27, 14-10 Home","24-27, 10-13 Away",95,93,NULL,NULL,Final,NULL,20,34,18,23,NULL,23,22,24,24,NULL,NBA
+66,170221024,1997,"Fri, Feb 21",San Antonio Spurs,Milwaukee Bucks,"13-39, 8-19 Home","25-28, 11-14 Away",98,93,NULL,NULL,Final,NULL,25,22,25,26,NULL,24,12,25,32,NULL,NBA
+67,170226015,1997,"Wed, Feb 26",Milwaukee Bucks,Atlanta Hawks,"25-30, 14-16 Home","37-18, 14-15 Away",72,79,NULL,NULL,Final,NULL,23,24,8,17,NULL,24,15,19,21,NULL,NBA
+68,170301015,1997,"Sat, Mar 1",Milwaukee Bucks,Sacramento Kings,"25-32, 14-17 Home","26-32, 11-19 Away",92,103,NULL,NULL,Final,NULL,24,33,13,22,NULL,27,20,24,32,NULL,NBA
+69,170304018,1997,"Tue, Mar 4",New York Knicks,Milwaukee Bucks,"44-16, 26-5 Home","25-34, 11-17 Away",93,86,NULL,NULL,Final,NULL,26,22,24,21,NULL,21,21,19,25,NULL,NBA
+70,170308005,1997,"Sat, Mar 8",Cleveland Cavaliers,Milwaukee Bucks,"33-27, 21-12 Home","26-35, 12-18 Away",82,90,NULL,NULL,Final,NULL,26,18,14,24,NULL,17,27,23,23,NULL,NBA
+71,170314015,1997,"Fri, Mar 14",Milwaukee Bucks,Washington Bullets,"26-37, 14-19 Home","30-33, 13-18 Away",96,105,NULL,NULL,Final,NULL,23,28,22,23,NULL,23,32,25,25,NULL,NBA
+72,170317002,1997,"Mon, Mar 17",Boston Celtics,Milwaukee Bucks,"13-54, 10-22 Home","27-38, 12-19 Away",126,117,NULL,NULL,Final,NULL,31,27,34,34,NULL,31,27,28,31,NULL,NBA
+73,170322015,1997,"Sat, Mar 22",Milwaukee Bucks,New York Knicks,"28-39, 16-20 Home","49-19, 21-13 Away",80,79,NULL,NULL,Final,NULL,27,21,22,10,NULL,22,18,23,16,NULL,NBA
+74,170326013,1997,"Wed, Mar 26",Los Angeles Lakers,Milwaukee Bucks,"47-23, 26-9 Home","28-41, 12-21 Away",106,84,NULL,NULL,Final,NULL,23,28,24,31,NULL,21,26,17,20,NULL,NBA
+75,170330007,1997,"Sun, Mar 30",Denver Nuggets,Milwaukee Bucks,"20-51, 12-24 Home","28-43, 12-23 Away",99,97,NULL,NULL,Final,NULL,31,18,27,23,NULL,18,30,24,25,NULL,NBA
+76,170403025,1997,"Thu, Apr 3",Seattle SuperSonics,Milwaukee Bucks,"51-23, 28-10 Home","29-44, 13-24 Away",103,80,NULL,NULL,Final,NULL,30,25,22,26,NULL,12,31,13,24,NULL,NBA
+77,170408015,1997,"Tue, Apr 8",Milwaukee Bucks,Orlando Magic,"29-46, 16-21 Home","42-34, 18-20 Away",82,97,NULL,NULL,Final,NULL,25,22,14,21,NULL,18,21,23,35,NULL,NBA
+78,170411015,1997,"Fri, Apr 11",Milwaukee Bucks,Philadelphia 76ers,"30-47, 17-21 Home","21-56, 10-28 Away",126,118,NULL,NULL,Final,NULL,24,29,32,41,NULL,32,24,33,29,NULL,NBA
+79,170415015,1997,"Tue, Apr 15",Milwaukee Bucks,Toronto Raptors,"32-47, 19-21 Home","28-52, 10-29 Away",92,85,NULL,NULL,Final,NULL,16,23,26,27,NULL,27,21,13,24,NULL,NBA
+80,170418016,1997,"Fri, Apr 18",Minnesota Timberwolves,Milwaukee Bucks,"40-41, 25-16 Home","32-49, 13-28 Away",122,112,NULL,NULL,Final,NULL,32,23,39,28,NULL,28,29,19,36,NULL,NBA
+81,170420015,1997,"Sun, Apr 20",Milwaukee Bucks,Charlotte Hornets,"33-49, 20-21 Home","54-28, 24-17 Away",120,100,NULL,NULL,Final,NULL,31,33,33,23,NULL,21,34,19,26,NULL,NBA

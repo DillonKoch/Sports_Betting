@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,400899452,2017,"Fri, Oct 28",Brooklyn Nets,Indiana Pacers,"1-1, 1-0 Home","1-1, 0-1 Away",103,94,NULL,NULL,Final,NULL,20,32,20,31,NULL,27,21,31,15,NULL,NBA
+1,400899498,2017,"Tue, Nov 1",Indiana Pacers,Los Angeles Lakers,"2-2, 2-0 Home","1-3, 0-3 Away",115,108,NULL,NULL,Final,NULL,27,35,22,31,NULL,18,33,28,29,NULL,NBA
+2,400899533,2017,"Sat, Nov 5",Indiana Pacers,Chicago Bulls,"3-3, 3-0 Home","3-3, 1-2 Away",111,94,NULL,NULL,Final,NULL,31,31,26,23,NULL,15,28,21,30,NULL,NBA
+3,400899560,2017,"Wed, Nov 9",Indiana Pacers,Philadelphia 76ers,"4-4, 4-0 Home","0-7, 0-2 Away",122,115,NULL,NULL,Final/OT,NULL,31,23,30,25,13,26,34,24,25,6,NBA
+4,400899580,2017,"Sat, Nov 12",Indiana Pacers,Boston Celtics,"4-6, 4-1 Home","5-4, 2-3 Away",99,105,NULL,NULL,Final,NULL,31,14,31,23,NULL,24,24,31,26,NULL,NBA
+5,400899610,2017,"Wed, Nov 16",Indiana Pacers,Cleveland Cavaliers,"6-6, 6-1 Home","9-2, 3-1 Away",103,93,NULL,NULL,Final,NULL,30,20,30,23,NULL,19,26,23,25,NULL,NBA
+6,400899645,2017,"Sun, Nov 20",Oklahoma City Thunder,Indiana Pacers,"8-6, 6-4 Home","7-7, 1-5 Away",111,115,NULL,NULL,Final/OT,NULL,21,33,16,33,8,30,28,21,24,12,NBA
+7,400899666,2017,"Wed, Nov 23",Indiana Pacers,Atlanta Hawks,"7-9, 6-4 Home","10-5, 4-3 Away",85,96,NULL,NULL,Final,NULL,24,20,22,19,NULL,31,18,25,22,NULL,NBA
+8,400899699,2017,"Sun, Nov 27",Indiana Pacers,LA Clippers,"9-9, 8-4 Home","14-4, 7-2 Away",91,70,NULL,NULL,Final,NULL,23,27,26,15,NULL,20,20,18,12,NULL,NBA
+9,400899745,2017,"Sun, Dec 4",LA Clippers,Indiana Pacers,"16-6, 7-3 Home","10-10, 2-6 Away",102,111,NULL,NULL,Final,NULL,28,24,17,33,NULL,17,31,35,28,NULL,NBA
+10,400899771,2017,"Wed, Dec 7",Phoenix Suns,Indiana Pacers,"6-16, 3-6 Home","11-11, 3-7 Away",94,109,NULL,NULL,Final,NULL,22,31,27,14,NULL,23,26,33,27,NULL,NBA
+11,400899790,2017,"Sat, Dec 10",Indiana Pacers,Portland Trail Blazers,"12-12, 9-4 Home","12-13, 5-9 Away",118,111,NULL,NULL,Final,NULL,31,33,26,28,NULL,44,27,27,13,NULL,NBA
+12,400899819,2017,"Wed, Dec 14",Miami Heat,Indiana Pacers,"9-17, 4-8 Home","13-13, 3-9 Away",95,89,NULL,NULL,Final,ESPN,20,33,25,17,NULL,21,31,27,10,NULL,NBA
+13,400899842,2017,"Sat, Dec 17",Detroit Pistons,Indiana Pacers,"14-15, 8-5 Home","14-14, 4-10 Away",90,105,NULL,NULL,Final,NULL,26,18,25,21,NULL,27,28,28,22,NULL,NBA
+14,400899863,2017,"Tue, Dec 20",New York Knicks,Indiana Pacers,"15-13, 10-4 Home","15-15, 4-11 Away",118,111,NULL,NULL,Final,NULL,20,34,30,34,NULL,24,35,28,24,NULL,NBA
+15,400899907,2017,"Mon, Dec 26",Chicago Bulls,Indiana Pacers,"15-16, 9-6 Home","15-17, 4-12 Away",90,85,NULL,NULL,Final,NBATV,28,23,12,27,NULL,19,22,20,24,NULL,NBA
+16,400899934,2017,"Fri, Dec 30",Indiana Pacers,Chicago Bulls,"16-18, 12-5 Home","16-17, 6-11 Away",111,101,NULL,NULL,Final,NULL,28,34,22,27,NULL,22,28,23,28,NULL,NBA
+17,400899425,2017,"Tue, Jan 3",Detroit Pistons,Indiana Pacers,"16-21, 9-9 Home","18-18, 5-13 Away",116,121,NULL,NULL,Final,NULL,28,32,32,24,NULL,36,30,26,29,NULL,NBA
+18,400899973,2017,"Sat, Jan 7",Indiana Pacers,New York Knicks,"20-18, 15-5 Home","17-20, 6-13 Away",123,109,NULL,NULL,Final,NULL,33,29,34,27,NULL,29,14,27,39,NULL,NBA
+19,400900037,2017,"Mon, Jan 16",Indiana Pacers,New Orleans Pelicans,"21-19, 16-5 Home","16-26, 6-15 Away",98,95,NULL,NULL,Final,NBATV,32,22,22,22,NULL,18,34,18,25,NULL,NBA
+20,400900070,2017,"Fri, Jan 20",Los Angeles Lakers,Indiana Pacers,"16-31, 11-13 Home","22-20, 6-15 Away",108,95,NULL,NULL,Final,ESPN,27,24,35,22,NULL,24,29,22,20,NULL,NBA
+21,400900093,2017,"Mon, Jan 23",Indiana Pacers,New York Knicks,"22-22, 16-6 Home","20-26, 8-15 Away",103,109,NULL,NULL,Final,TNT,34,24,17,28,NULL,22,40,24,23,NULL,NBA
+22,400900117,2017,"Fri, Jan 27",Indiana Pacers,Sacramento Kings,"24-22, 17-6 Home","18-28, 10-15 Away",115,111,NULL,NULL,Final/OT,NULL,27,28,26,23,11,30,34,23,17,7,NBA
+23,400899366,2017,"Wed, Feb 1",Orlando Magic,Indiana Pacers,"19-32, 8-16 Home","26-22, 8-16 Away",88,98,NULL,NULL,Final,NULL,23,24,27,14,NULL,28,28,24,18,NULL,NBA
+24,400900162,2017,"Sat, Feb 4",Indiana Pacers,Detroit Pistons,"28-22, 19-6 Home","23-28, 9-18 Away",105,84,NULL,NULL,Final,NULL,30,26,26,23,NULL,32,26,14,12,NULL,NBA
+25,400900188,2017,"Wed, Feb 8",Indiana Pacers,Cleveland Cavaliers,"29-23, 20-7 Home","36-15, 14-10 Away",117,132,NULL,NULL,Final,NULL,36,27,18,36,NULL,25,32,40,35,NULL,NBA
+26,400900214,2017,"Sat, Feb 11",Indiana Pacers,Milwaukee Bucks,"29-25, 20-8 Home","23-30, 10-16 Away",100,116,NULL,NULL,Final,NULL,22,30,22,26,NULL,29,33,26,28,NULL,NBA
+27,400900241,2017,"Wed, Feb 15",Cleveland Cavaliers,Indiana Pacers,"39-16, 24-5 Home","29-27, 9-18 Away",113,104,NULL,NULL,Final,ESPN,28,29,26,30,NULL,32,22,26,24,NULL,NBA
+28,400900263,2017,"Fri, Feb 24",Indiana Pacers,Memphis Grizzlies,"30-28, 21-10 Home","34-25, 16-14 Away",102,92,NULL,NULL,Final,NULL,25,36,28,13,NULL,26,23,19,24,NULL,NBA
+29,400900292,2017,"Mon, Feb 27",Houston Rockets,Indiana Pacers,"42-19, 22-8 Home","31-29, 10-19 Away",108,117,NULL,NULL,Final,TNT,31,27,22,28,NULL,20,39,29,29,NULL,NBA
+30,400900322,2017,"Sun, Mar 5",Atlanta Hawks,Indiana Pacers,"34-28, 17-14 Home","32-30, 11-20 Away",96,97,NULL,NULL,Final,NULL,30,20,24,22,NULL,19,31,31,16,NULL,NBA
+31,400900351,2017,"Wed, Mar 8",Indiana Pacers,Detroit Pistons,"33-31, 22-10 Home","31-33, 11-21 Away",115,98,NULL,NULL,Final,ESPN,30,28,32,25,NULL,23,27,23,25,NULL,NBA
+32,400900382,2017,"Sun, Mar 12",Indiana Pacers,Miami Heat,"34-32, 23-10 Home","32-35, 14-21 Away",102,98,NULL,NULL,Final,NBATV,32,28,23,19,NULL,22,31,22,23,NULL,NBA
+33,400900400,2017,"Wed, Mar 15",Indiana Pacers,Charlotte Hornets,"35-33, 24-10 Home","29-39, 11-24 Away",98,77,NULL,NULL,Final,NULL,24,18,33,23,NULL,22,20,16,19,NULL,NBA
+34,400900441,2017,"Mon, Mar 20",Indiana Pacers,Utah Jazz,"36-34, 25-10 Home","43-28, 20-16 Away",107,100,NULL,NULL,Final,NULL,28,23,29,27,NULL,23,23,24,30,NULL,NBA
+35,400900470,2017,"Fri, Mar 24",Indiana Pacers,Denver Nuggets,"36-36, 25-11 Home","35-37, 14-20 Away",117,125,NULL,NULL,Final,NULL,26,27,22,42,NULL,34,30,30,31,NULL,NBA
+36,400900499,2017,"Tue, Mar 28",Indiana Pacers,Minnesota Timberwolves,"37-37, 26-12 Home","29-44, 11-25 Away",114,115,NULL,NULL,Final,NULL,25,32,33,24,NULL,26,33,28,28,NULL,NBA
+37,400900521,2017,"Fri, Mar 31",Toronto Raptors,Indiana Pacers,"46-30, 26-13 Home","37-39, 11-27 Away",111,100,NULL,NULL,Final,NULL,28,18,34,31,NULL,25,23,20,32,NULL,NBA
+38,400900535,2017,"Tue, Apr 4",Indiana Pacers,Toronto Raptors,"38-40, 27-12 Home","47-31, 20-18 Away",108,90,NULL,NULL,Final,NULL,18,22,37,31,NULL,26,25,24,15,NULL,NBA
+39,400900568,2017,"Sat, Apr 8",Orlando Magic,Indiana Pacers,"28-52, 15-25 Home","40-40, 12-28 Away",112,127,NULL,NULL,Final,NULL,38,21,23,30,NULL,39,29,31,28,NULL,NBA
+40,400899379,2017,"Wed, Oct 26",Indiana Pacers,Dallas Mavericks,"1-0, 1-0 Home","0-1, 0-1 Away",130,121,NULL,NULL,Final/OT,NULL,33,26,35,21,15,21,31,33,30,6,NBA
+41,400899480,2017,"Sat, Oct 29",Chicago Bulls,Indiana Pacers,"2-0, 2-0 Home","1-2, 0-2 Away",118,101,NULL,NULL,Final,NULL,24,38,30,26,NULL,20,21,26,34,NULL,NBA
+42,400899516,2017,"Thu, Nov 3",Milwaukee Bucks,Indiana Pacers,"3-2, 2-1 Home","2-3, 0-3 Away",125,107,NULL,NULL,Final,NULL,29,34,27,35,NULL,30,27,22,28,NULL,NBA
+43,400899545,2017,"Mon, Nov 7",Charlotte Hornets,Indiana Pacers,"5-1, 2-1 Home","3-4, 0-4 Away",122,100,NULL,NULL,Final,NULL,43,32,24,23,NULL,34,21,23,22,NULL,NBA
+44,400899571,2017,"Fri, Nov 11",Philadelphia 76ers,Indiana Pacers,"1-7, 1-5 Home","4-5, 0-5 Away",109,105,NULL,NULL,Final/OT,NULL,21,30,25,24,9,27,25,20,28,5,NBA
+45,400899595,2017,"Mon, Nov 14",Indiana Pacers,Orlando Magic,"5-6, 5-1 Home","4-7, 2-4 Away",88,69,NULL,NULL,Final,NULL,16,25,30,17,NULL,19,18,20,12,NULL,NBA
+46,400899626,2017,"Fri, Nov 18",Indiana Pacers,Phoenix Suns,"6-7, 6-2 Home","4-9, 2-6 Away",96,116,NULL,NULL,Final,NULL,18,31,33,14,NULL,27,30,32,27,NULL,NBA
+47,400899652,2017,"Mon, Nov 21",Indiana Pacers,Golden State Warriors,"7-8, 6-3 Home","12-2, 8-1 Away",83,120,NULL,NULL,Final,NULL,21,21,29,12,NULL,34,27,39,20,NULL,NBA
+48,400899684,2017,"Fri, Nov 25",Indiana Pacers,Brooklyn Nets,"8-9, 7-4 Home","4-11, 1-7 Away",118,97,NULL,NULL,Final,NULL,28,30,34,26,NULL,23,20,22,32,NULL,NBA
+49,400899725,2017,"Wed, Nov 30",Portland Trail Blazers,Indiana Pacers,"10-10, 6-4 Home","9-10, 1-6 Away",131,109,NULL,NULL,Final,NBATV,31,42,36,22,NULL,23,35,25,26,NULL,NBA
+50,400899756,2017,"Mon, Dec 5",Golden State Warriors,Indiana Pacers,"18-3, 9-2 Home","10-11, 2-7 Away",142,106,NULL,NULL,Final,NULL,38,42,36,26,NULL,27,23,33,23,NULL,NBA
+51,400899785,2017,"Fri, Dec 9",Dallas Mavericks,Indiana Pacers,"5-17, 4-7 Home","11-12, 3-8 Away",111,103,NULL,NULL,Final,NULL,25,29,31,26,NULL,27,25,25,26,NULL,NBA
+52,400899803,2017,"Mon, Dec 12",Indiana Pacers,Charlotte Hornets,"13-12, 10-4 Home","14-11, 6-5 Away",110,94,NULL,NULL,Final,NULL,25,20,31,34,NULL,20,23,30,21,NULL,NBA
+53,400899827,2017,"Thu, Dec 15",New Orleans Pelicans,Indiana Pacers,"9-18, 6-9 Home","13-14, 3-10 Away",102,95,NULL,NULL,Final,NULL,24,22,25,31,NULL,20,30,24,21,NULL,NBA
+54,400899855,2017,"Mon, Dec 19",Indiana Pacers,Washington Wizards,"15-14, 11-4 Home","12-15, 2-9 Away",107,105,NULL,NULL,Final,NULL,29,28,31,19,NULL,36,21,22,26,NULL,NBA
+55,400899882,2017,"Thu, Dec 22",Indiana Pacers,Boston Celtics,"15-16, 11-5 Home","17-12, 11-7 Away",102,109,NULL,NULL,Final,NULL,31,9,27,35,NULL,22,29,26,32,NULL,NBA
+56,400899918,2017,"Wed, Dec 28",Washington Wizards,Indiana Pacers,"15-16, 12-6 Home","15-18, 4-13 Away",111,105,NULL,NULL,Final,NULL,23,35,27,26,NULL,25,23,26,31,NULL,NBA
+57,400899383,2017,"Sun, Jan 1",Indiana Pacers,Orlando Magic,"17-18, 13-5 Home","15-20, 8-9 Away",117,104,NULL,NULL,Final,NULL,27,35,27,28,NULL,17,34,22,31,NULL,NBA
+58,400899957,2017,"Thu, Jan 5",Indiana Pacers,Brooklyn Nets,"19-18, 14-5 Home","8-26, 1-17 Away",121,109,NULL,NULL,Final,NULL,34,25,38,24,NULL,27,25,32,25,NULL,NBA
+59,400900010,2017,"Thu, Jan 12",Denver Nuggets,Indiana Pacers,15-23,20-19,140,112,NULL,NULL,Final,NBATV,30,37,39,34,NULL,29,27,20,36,NULL,NBA
+60,400900056,2017,"Wed, Jan 18",Sacramento Kings,Indiana Pacers,"16-25, 8-13 Home","22-19, 6-14 Away",100,106,NULL,NULL,Final,NULL,34,26,19,21,NULL,21,20,30,35,NULL,NBA
+61,400900080,2017,"Sat, Jan 21",Utah Jazz,Indiana Pacers,"29-16, 16-7 Home","22-21, 6-16 Away",109,100,NULL,NULL,Final,NULL,34,26,25,24,NULL,21,29,22,28,NULL,NBA
+62,400900112,2017,"Thu, Jan 26",Minnesota Timberwolves,Indiana Pacers,"17-29, 10-14 Home","23-22, 7-16 Away",103,109,NULL,NULL,Final,NULL,20,26,24,33,NULL,25,27,24,33,NULL,NBA
+63,400900134,2017,"Sun, Jan 29",Indiana Pacers,Houston Rockets,"25-22, 18-6 Home","35-16, 18-11 Away",120,101,NULL,NULL,Final,NULL,33,24,33,30,NULL,20,23,27,31,NULL,NBA
+64,400900152,2017,"Fri, Feb 3",Brooklyn Nets,Indiana Pacers,"9-41, 7-19 Home","27-22, 9-16 Away",97,106,NULL,NULL,Final,NULL,16,30,28,23,NULL,27,29,24,26,NULL,NBA
+65,400900175,2017,"Mon, Feb 6",Indiana Pacers,Oklahoma City Thunder,"29-22, 20-6 Home","30-23, 12-16 Away",93,90,NULL,NULL,Final,NULL,20,21,32,20,NULL,25,27,18,20,NULL,NBA
+66,400900210,2017,"Fri, Feb 10",Washington Wizards,Indiana Pacers,"32-21, 23-7 Home","29-24, 9-17 Away",112,107,NULL,NULL,Final,ESPN,33,26,27,26,NULL,27,32,22,26,NULL,NBA
+67,400900230,2017,"Mon, Feb 13",Indiana Pacers,San Antonio Spurs,"29-26, 20-9 Home","42-13, 23-7 Away",106,110,NULL,NULL,Final,NULL,31,18,30,27,NULL,26,23,34,27,NULL,NBA
+68,400900254,2017,"Thu, Feb 16",Indiana Pacers,Washington Wizards,"29-28, 20-10 Home","34-21, 10-14 Away",98,111,NULL,NULL,Final,NULL,27,25,25,21,NULL,34,28,28,21,NULL,NBA
+69,400900275,2017,"Sat, Feb 25",Miami Heat,Indiana Pacers,"27-32, 14-14 Home","30-29, 9-19 Away",113,95,NULL,NULL,Final,NULL,18,35,30,30,NULL,23,31,25,16,NULL,NBA
+70,400899437,2017,"Wed, Mar 1",San Antonio Spurs,Indiana Pacers,"46-13, 20-6 Home","31-30, 10-20 Away",100,99,NULL,NULL,Final,NULL,29,18,26,27,NULL,28,21,27,23,NULL,NBA
+71,400900336,2017,"Mon, Mar 6",Charlotte Hornets,Indiana Pacers,"28-35, 17-13 Home","32-31, 11-21 Away",100,88,NULL,NULL,Final,TNT,27,31,16,26,NULL,16,21,29,22,NULL,NBA
+72,400900362,2017,"Fri, Mar 10",Milwaukee Bucks,Indiana Pacers,"31-33, 19-16 Home","33-32, 11-22 Away",99,85,NULL,NULL,Final,NULL,23,22,29,25,NULL,27,23,18,17,NULL,NBA
+73,400900396,2017,"Tue, Mar 14",New York Knicks,Indiana Pacers,"27-41, 16-17 Home","34-33, 11-23 Away",87,81,NULL,NULL,Final,NULL,18,24,20,25,NULL,24,28,12,17,NULL,NBA
+74,400900435,2017,"Sun, Mar 19",Toronto Raptors,Indiana Pacers,"41-29, 23-12 Home","35-34, 11-24 Away",116,91,NULL,NULL,Final,NBATV,32,30,29,25,NULL,24,21,28,18,NULL,NBA
+75,400900455,2017,"Wed, Mar 22",Boston Celtics,Indiana Pacers,"46-26, 25-9 Home","36-35, 11-25 Away",109,100,NULL,NULL,Final,NULL,21,28,39,21,NULL,19,23,32,26,NULL,NBA
+76,400900487,2017,"Sun, Mar 26",Indiana Pacers,Philadelphia 76ers,"37-36, 26-11 Home","27-46, 10-27 Away",107,94,NULL,NULL,Final,NULL,27,24,30,26,NULL,18,27,24,25,NULL,NBA
+77,400900511,2017,"Wed, Mar 29",Memphis Grizzlies,Indiana Pacers,"41-34, 22-14 Home","37-38, 11-26 Away",110,97,NULL,NULL,Final,NULL,38,34,24,14,NULL,24,29,26,18,NULL,NBA
+78,400899471,2017,"Sun, Apr 2",Cleveland Cavaliers,Indiana Pacers,"49-27, 30-8 Home","37-40, 11-28 Away",135,130,NULL,NULL,Final/2OT,NULL,26,34,23,21,31,27,26,24,27,26,NBA
+79,400900553,2017,"Thu, Apr 6",Indiana Pacers,Milwaukee Bucks,"39-40, 28-12 Home","40-39, 18-21 Away",104,89,NULL,NULL,Final,NULL,25,31,29,19,NULL,21,29,23,16,NULL,NBA
+80,400900581,2017,"Mon, Apr 10",Philadelphia 76ers,Indiana Pacers,"28-53, 17-24 Home","41-40, 13-28 Away",111,120,NULL,NULL,Final,NULL,20,34,25,32,NULL,35,29,26,30,NULL,NBA
+81,400900604,2017,"Wed, Apr 12",Indiana Pacers,Atlanta Hawks,"42-40, 29-12 Home","43-39, 20-21 Away",104,86,NULL,NULL,Final,ESPN,22,28,34,20,NULL,15,28,25,18,NULL,NBA

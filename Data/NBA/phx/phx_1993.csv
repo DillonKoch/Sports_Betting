@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,131107021,1993,"Sun, Nov 7",Phoenix Suns,Sacramento Kings,"1-1, 1-0 Home","1-1, 0-1 Away",132,110,NULL,NULL,Final,NULL,39,36,24,33,NULL,23,23,29,35,NULL,NBA
+1,131110021,1993,"Wed, Nov 10",Phoenix Suns,San Antonio Spurs,"3-1, 2-0 Home","2-2, 0-1 Away",101,93,NULL,NULL,Final,NULL,26,19,33,23,NULL,23,24,26,20,NULL,NBA
+2,131116009,1993,"Tue, Nov 16",Golden State Warriors,Phoenix Suns,"2-4, 0-3 Home","4-2, 2-2 Away",104,116,NULL,NULL,Final,NULL,36,14,30,24,NULL,28,31,30,27,NULL,NBA
+3,131120021,1993,"Sat, Nov 20",Phoenix Suns,Cleveland Cavaliers,"6-2, 4-0 Home","3-6, 2-4 Away",112,96,NULL,NULL,Final,NULL,26,34,23,29,NULL,25,29,18,24,NULL,NBA
+4,131127021,1993,"Sat, Nov 27",Phoenix Suns,Utah Jazz,"8-2, 6-0 Home","8-5, 4-3 Away",120,98,NULL,NULL,Final,NULL,23,33,42,22,NULL,18,20,28,32,NULL,NBA
+5,131202008,1993,"Thu, Dec 2",Detroit Pistons,Phoenix Suns,"5-9, 4-4 Home","9-3, 3-3 Away",101,102,NULL,NULL,Final,NULL,31,24,20,26,NULL,21,31,28,22,NULL,NBA
+6,131205015,1993,"Sun, Dec 5",Milwaukee Bucks,Phoenix Suns,"3-13, 1-6 Home","11-3, 5-3 Away",98,117,NULL,NULL,Final,NULL,30,22,24,22,NULL,33,24,29,31,NULL,NBA
+7,131211006,1993,"Sat, Dec 11",Dallas Mavericks,Phoenix Suns,"1-19, 0-10 Home","13-3, 6-3 Away",103,114,NULL,NULL,Final,NULL,28,12,36,27,NULL,27,32,32,23,NULL,NBA
+8,131215021,1993,"Wed, Dec 15",Phoenix Suns,Golden State Warriors,"15-3, 9-0 Home","11-9, 6-3 Away",110,104,NULL,NULL,Final,NULL,29,23,26,32,NULL,23,30,22,29,NULL,NBA
+9,131218021,1993,"Sat, Dec 18",Phoenix Suns,Los Angeles Clippers,"16-4, 10-1 Home","9-12, 3-7 Away",116,109,NULL,NULL,Final,NULL,26,26,36,28,NULL,24,35,22,28,NULL,NBA
+10,131221007,1993,"Tue, Dec 21",Denver Nuggets,Phoenix Suns,"10-13, 8-2 Home","17-5, 6-4 Away",121,95,NULL,NULL,Final,NULL,30,25,35,31,NULL,30,19,22,24,NULL,NBA
+11,131225021,1993,"Sat, Dec 25",Phoenix Suns,Houston Rockets,"19-5, 12-1 Home","22-3, 12-2 Away",111,91,NULL,NULL,Final,NULL,24,37,23,27,NULL,21,18,29,23,NULL,NBA
+12,131230021,1993,"Thu, Dec 30",Phoenix Suns,Philadelphia 76ers,"21-5, 14-1 Home","10-17, 4-9 Away",119,107,NULL,NULL,Final,NULL,34,23,29,33,NULL,32,22,26,27,NULL,NBA
+13,140105026,1993,"Wed, Jan 5",Utah Jazz,Phoenix Suns,"22-9, 13-3 Home","22-6, 8-4 Away",91,107,NULL,NULL,Final,NULL,16,33,18,24,NULL,40,20,26,21,NULL,NBA
+14,140109021,1993,"Sun, Jan 9",Phoenix Suns,Golden State Warriors,"24-6, 15-2 Home","16-14, 8-6 Away",122,107,NULL,NULL,Final,NULL,34,25,30,33,NULL,28,26,20,33,NULL,NBA
+15,140113024,1993,"Thu, Jan 13",San Antonio Spurs,Phoenix Suns,"24-12, 14-4 Home","24-8, 9-5 Away",107,88,NULL,NULL,Final,NULL,23,25,24,35,NULL,23,22,26,17,NULL,NBA
+16,140117009,1993,"Mon, Jan 17",Golden State Warriors,Phoenix Suns,"20-14, 11-8 Home","25-9, 10-6 Away",104,99,NULL,NULL,Final,NULL,22,25,27,30,NULL,22,24,35,18,NULL,NBA
+17,140120013,1993,"Thu, Jan 20",Los Angeles Lakers,Phoenix Suns,"12-25, 6-11 Home","26-10, 10-7 Away",107,102,NULL,NULL,Final,NULL,23,21,26,37,NULL,28,21,24,29,NULL,NBA
+18,140125018,1993,"Tue, Jan 25",New York Knicks,Phoenix Suns,"27-11, 18-5 Home","27-11, 10-8 Away",98,96,NULL,NULL,Final,NULL,24,20,29,25,NULL,24,26,26,20,NULL,NBA
+19,140128020,1993,"Fri, Jan 28",Philadelphia 76ers,Phoenix Suns,"17-24, 10-10 Home","28-12, 11-9 Away",103,108,NULL,NULL,Final,NULL,29,28,19,27,NULL,24,31,30,23,NULL,NBA
+20,140201021,1993,"Tue, Feb 1",Phoenix Suns,Los Angeles Clippers,"29-13, 18-3 Home","15-27, 6-15 Away",108,106,NULL,NULL,Final,NULL,32,28,27,21,NULL,25,28,34,19,NULL,NBA
+21,140206021,1993,"Sun, Feb 6",Phoenix Suns,Chicago Bulls,"30-14, 19-3 Home","32-13, 14-11 Away",89,88,NULL,NULL,Final,NULL,32,19,22,16,NULL,19,31,21,17,NULL,NBA
+22,140209021,1993,"Wed, Feb 9",Phoenix Suns,Minnesota Timberwolves,"31-15, 20-3 Home","14-32, 6-18 Away",111,106,NULL,NULL,Final,NULL,36,27,28,20,NULL,29,27,32,18,NULL,NBA
+23,140218021,1993,"Fri, Feb 18",Phoenix Suns,Los Angeles Lakers,"33-15, 22-3 Home","18-31, 8-18 Away",113,96,NULL,NULL,Final,NULL,35,26,27,25,NULL,37,16,20,23,NULL,NBA
+24,140221021,1993,"Mon, Feb 21",Phoenix Suns,Sacramento Kings,"34-16, 23-3 Home","17-34, 4-22 Away",112,86,NULL,NULL,Final,NULL,22,29,39,22,NULL,22,27,18,19,NULL,NBA
+25,140225026,1993,"Fri, Feb 25",Utah Jazz,Phoenix Suns,"36-19, 23-6 Home","35-17, 12-14 Away",107,87,NULL,NULL,Final,NULL,26,28,26,27,NULL,20,29,16,22,NULL,NBA
+26,140303009,1993,"Thu, Mar 3",Golden State Warriors,Phoenix Suns,"33-23, 18-10 Home","36-18, 12-15 Away",120,107,NULL,NULL,Final,NULL,34,31,28,27,NULL,26,31,26,24,NULL,NBA
+27,140306021,1993,"Sun, Mar 6",Phoenix Suns,Utah Jazz,"37-19, 25-4 Home","41-19, 17-13 Away",92,103,NULL,NULL,Final,NULL,29,22,26,15,NULL,23,27,32,21,NULL,NBA
+28,140309027,1993,"Wed, Mar 9",Washington Bullets,Phoenix Suns,"18-41, 12-18 Home","38-20, 13-16 Away",106,142,NULL,NULL,Final,NULL,36,22,18,30,NULL,44,37,32,29,NULL,NBA
+29,140313019,1993,"Sun, Mar 13",Orlando Magic,Phoenix Suns,"37-24, 23-8 Home","40-20, 15-16 Away",93,100,NULL,NULL,Final,NULL,30,22,23,18,NULL,26,27,26,21,NULL,NBA
+30,140316011,1993,"Wed, Mar 16",Indiana Pacers,Phoenix Suns,"33-28, 20-9 Home","41-21, 16-17 Away",109,98,NULL,NULL,Final,NULL,30,18,32,29,NULL,34,20,20,24,NULL,NBA
+31,140319021,1993,"Sat, Mar 19",Phoenix Suns,New Jersey Nets,"42-22, 26-5 Home","33-31, 12-21 Away",105,93,NULL,NULL,Final,NULL,27,27,29,22,NULL,23,16,32,22,NULL,NBA
+32,140324025,1993,"Thu, Mar 24",Seattle SuperSonics,Phoenix Suns,"49-17, 27-4 Home","43-23, 16-18 Away",116,106,NULL,NULL,Final,NULL,37,41,20,18,NULL,32,23,25,26,NULL,NBA
+33,140327021,1993,"Sun, Mar 27",Phoenix Suns,Houston Rockets,"45-23, 29-5 Home","48-19, 18-14 Away",113,98,NULL,NULL,Final,NULL,30,25,24,34,NULL,18,27,25,28,NULL,NBA
+34,140401021,1993,"Fri, Apr 1",Phoenix Suns,Atlanta Hawks,"47-23, 30-5 Home","50-21, 19-16 Away",93,87,NULL,NULL,Final,NULL,29,29,19,16,NULL,24,20,25,18,NULL,NBA
+35,140405022,1993,"Tue, Apr 5",Portland Trail Blazers,Phoenix Suns,"44-30, 29-8 Home","48-24, 17-19 Away",135,113,NULL,NULL,Final,NULL,29,40,32,34,NULL,36,21,22,34,NULL,NBA
+36,140408023,1993,"Fri, Apr 8",Sacramento Kings,Phoenix Suns,"25-49, 18-20 Home","49-25, 17-20 Away",104,101,NULL,NULL,Final,NULL,33,27,13,31,NULL,21,24,24,32,NULL,NBA
+37,140412007,1993,"Tue, Apr 12",Denver Nuggets,Phoenix Suns,"37-38, 27-12 Home","50-26, 18-21 Away",102,107,NULL,NULL,Final,NULL,24,24,30,24,NULL,23,31,28,25,NULL,NBA
+38,140416024,1993,"Sat, Apr 16",San Antonio Spurs,Phoenix Suns,"53-26, 31-9 Home","52-26, 19-21 Away",94,96,NULL,NULL,Final,NULL,30,21,23,20,NULL,28,19,26,23,NULL,NBA
+39,140419021,1993,"Tue, Apr 19",Phoenix Suns,Seattle SuperSonics,"54-26, 34-5 Home","60-19, 24-15 Away",122,116,NULL,NULL,Final,NULL,31,28,33,30,NULL,32,28,36,20,NULL,NBA
+40,131105013,1993,"Fri, Nov 5",Los Angeles Lakers,Phoenix Suns,"1-0, 1-0 Home","0-1, 0-1 Away",116,108,NULL,NULL,Final,NULL,26,32,27,31,NULL,21,28,30,29,NULL,NBA
+41,131109012,1993,"Tue, Nov 9",Los Angeles Clippers,Phoenix Suns,"1-2, 1-1 Home","2-1, 1-1 Away",99,114,NULL,NULL,Final,NULL,20,37,21,21,NULL,32,22,38,22,NULL,NBA
+42,131113010,1993,"Sat, Nov 13",Houston Rockets,Phoenix Suns,"5-0, 3-0 Home","3-2, 1-2 Away",99,95,NULL,NULL,Final,NULL,28,24,27,20,NULL,18,24,22,31,NULL,NBA
+43,131119021,1993,"Fri, Nov 19",Phoenix Suns,Portland Trail Blazers,"5-2, 3-0 Home","4-4, 1-2 Away",118,109,NULL,NULL,Final,NULL,31,24,32,31,NULL,27,28,25,29,NULL,NBA
+44,131124021,1993,"Wed, Nov 24",Phoenix Suns,Denver Nuggets,"7-2, 5-0 Home","4-6, 2-4 Away",130,97,NULL,NULL,Final,NULL,37,28,30,35,NULL,23,21,23,30,NULL,NBA
+45,131130004,1993,"Tue, Nov 30",Chicago Bulls,Phoenix Suns,"6-7, 2-2 Home","8-3, 2-3 Away",132,113,NULL,NULL,Final,NULL,30,38,30,34,NULL,27,23,30,33,NULL,NBA
+46,131203017,1993,"Fri, Dec 3",New Jersey Nets,Phoenix Suns,"5-11, 3-5 Home","10-3, 4-3 Away",103,104,NULL,NULL,Final,NULL,28,23,23,29,NULL,34,18,25,27,NULL,NBA
+47,131209021,1993,"Thu, Dec 9",Phoenix Suns,Washington Bullets,"12-3, 7-0 Home","6-12, 1-8 Away",114,95,NULL,NULL,Final,NULL,36,34,25,19,NULL,15,28,30,22,NULL,NBA
+48,131213021,1993,"Mon, Dec 13",Phoenix Suns,Milwaukee Bucks,"14-3, 8-0 Home","4-16, 3-8 Away",112,104,NULL,NULL,Final,NULL,26,28,23,35,NULL,24,28,30,22,NULL,NBA
+49,131217021,1993,"Fri, Dec 17",Phoenix Suns,Orlando Magic,"15-4, 9-1 Home","12-9, 5-7 Away",101,104,NULL,NULL,Final,NULL,22,37,20,22,NULL,25,27,24,28,NULL,NBA
+50,131220021,1993,"Mon, Dec 20",Phoenix Suns,Indiana Pacers,"17-4, 11-1 Home","10-12, 5-6 Away",102,94,NULL,NULL,Final,NULL,27,23,26,26,NULL,30,23,23,18,NULL,NBA
+51,131223025,1993,"Thu, Dec 23",Seattle SuperSonics,Phoenix Suns,"20-3, 12-1 Home","18-5, 7-4 Away",86,87,NULL,NULL,Final,NULL,29,30,15,12,NULL,21,26,26,14,NULL,NBA
+52,131227021,1993,"Mon, Dec 27",Phoenix Suns,Boston Celtics,"20-5, 13-1 Home","11-16, 4-9 Away",118,102,NULL,NULL,Final,NULL,31,31,29,27,NULL,39,23,13,27,NULL,NBA
+53,140104021,1993,"Tue, Jan 4",Phoenix Suns,Seattle SuperSonics,"21-6, 14-2 Home","23-3, 10-2 Away",106,112,NULL,NULL,Final,NULL,21,28,36,21,NULL,24,29,28,31,NULL,NBA
+54,140107016,1993,"Fri, Jan 7",Minnesota Timberwolves,Phoenix Suns,"9-21, 4-12 Home","23-6, 9-4 Away",103,110,NULL,NULL,Final,NULL,27,19,28,29,NULL,26,24,29,31,NULL,NBA
+55,140111021,1993,"Tue, Jan 11",Phoenix Suns,Charlotte Hornets,"24-7, 15-3 Home","19-14, 6-11 Away",93,95,NULL,NULL,Final,NULL,30,25,23,15,NULL,22,35,24,14,NULL,NBA
+56,140115023,1993,"Sat, Jan 15",Sacramento Kings,Phoenix Suns,"12-23, 9-9 Home","25-8, 10-5 Away",103,119,NULL,NULL,Final,NULL,25,23,34,21,NULL,23,32,30,34,NULL,NBA
+57,140118021,1993,"Tue, Jan 18",Phoenix Suns,Dallas Mavericks,"26-9, 16-3 Home","2-34, 2-17 Away",113,103,NULL,NULL,Final,NULL,28,24,28,33,NULL,20,20,23,40,NULL,NBA
+58,140122021,1993,"Sat, Jan 22",Phoenix Suns,Portland Trail Blazers,"27-10, 17-3 Home","23-16, 8-11 Away",118,117,NULL,NULL,Final,NULL,26,30,38,24,NULL,31,27,36,23,NULL,NBA
+59,140126001,1993,"Wed, Jan 26",Atlanta Hawks,Phoenix Suns,"28-10, 18-3 Home","27-12, 10-9 Away",116,107,NULL,NULL,Final,NULL,40,22,29,25,NULL,31,20,30,26,NULL,NBA
+60,140130002,1993,"Sun, Jan 30",Boston Celtics,Phoenix Suns,"20-23, 12-11 Home","28-13, 11-10 Away",106,94,NULL,NULL,Final,NULL,26,29,29,22,NULL,23,22,25,24,NULL,NBA
+61,140203022,1993,"Thu, Feb 3",Portland Trail Blazers,Phoenix Suns,"26-18, 18-6 Home","29-14, 11-11 Away",126,105,NULL,NULL,Final,NULL,31,31,36,28,NULL,21,32,25,27,NULL,NBA
+62,140208013,1993,"Tue, Feb 8",Los Angeles Lakers,Phoenix Suns,"17-28, 10-11 Home","30-15, 11-12 Away",107,104,NULL,NULL,Final,NULL,24,25,30,28,NULL,36,24,19,25,NULL,NBA
+63,140216021,1993,"Wed, Feb 16",Phoenix Suns,Portland Trail Blazers,"32-15, 21-3 Home","28-21, 9-15 Away",126,100,NULL,NULL,Final,NULL,22,23,41,40,NULL,32,18,20,30,NULL,NBA
+64,140219010,1993,"Sat, Feb 19",Houston Rockets,Phoenix Suns,"36-13, 19-3 Home","33-16, 11-13 Away",106,88,NULL,NULL,Final,NULL,27,28,30,21,NULL,15,25,28,20,NULL,NBA
+65,140224016,1993,"Thu, Feb 24",Minnesota Timberwolves,Phoenix Suns,"15-37, 9-17 Home","35-16, 12-13 Away",101,120,NULL,NULL,Final,NULL,30,17,25,29,NULL,35,30,23,32,NULL,NBA
+66,140227021,1993,"Sun, Feb 27",Phoenix Suns,New York Knicks,"36-17, 24-3 Home","36-19, 15-12 Away",92,78,NULL,NULL,Final,NULL,26,19,20,27,NULL,26,12,22,18,NULL,NBA
+67,140304021,1993,"Fri, Mar 4",Phoenix Suns,Minnesota Timberwolves,"37-18, 25-3 Home","16-40, 6-22 Away",106,101,NULL,NULL,Final,NULL,24,29,31,22,NULL,26,26,27,22,NULL,NBA
+68,140308003,1993,"Tue, Mar 8",Charlotte Hornets,Phoenix Suns,"24-33, 17-11 Home","37-20, 12-16 Away",97,89,NULL,NULL,Final,NULL,25,25,21,26,NULL,20,29,22,18,NULL,NBA
+69,140311014,1993,"Fri, Mar 11",Miami Heat,Phoenix Suns,"33-27, 15-15 Home","39-20, 14-16 Away",107,122,NULL,NULL,Final,NULL,23,29,26,29,NULL,34,36,25,27,NULL,NBA
+70,140315005,1993,"Tue, Mar 15",Cleveland Cavaliers,Phoenix Suns,"36-27, 23-10 Home","41-20, 16-16 Away",106,119,NULL,NULL,Final,NULL,26,23,27,30,NULL,29,25,42,23,NULL,NBA
+71,140318021,1993,"Fri, Mar 18",Phoenix Suns,Detroit Pistons,"41-22, 25-5 Home","18-46, 9-21 Away",113,114,NULL,NULL,Final,NULL,30,32,27,24,NULL,27,29,26,32,NULL,NBA
+72,140322021,1993,"Tue, Mar 22",Phoenix Suns,Miami Heat,"43-22, 27-5 Home","37-29, 19-14 Away",124,118,NULL,NULL,Final/OT,NULL,26,28,32,26,12,28,39,28,17,6,NBA
+73,140325021,1993,"Fri, Mar 25",Phoenix Suns,Dallas Mavericks,"44-23, 28-5 Home","8-60, 5-30 Away",99,94,NULL,NULL,Final,NULL,25,18,23,33,NULL,18,19,35,22,NULL,NBA
+74,140331012,1993,"Thu, Mar 31",Los Angeles Clippers,Phoenix Suns,"25-45, 16-19 Home","46-23, 17-18 Away",102,117,NULL,NULL,Final,NULL,24,24,27,27,NULL,24,35,30,28,NULL,NBA
+75,140403021,1993,"Sun, Apr 3",Phoenix Suns,Denver Nuggets,"48-23, 31-5 Home","35-35, 9-26 Away",108,98,NULL,NULL,Final,NULL,26,39,9,34,NULL,31,22,20,25,NULL,NBA
+76,140406021,1993,"Wed, Apr 6",Phoenix Suns,San Antonio Spurs,"49-24, 32-5 Home","52-22, 22-15 Away",107,95,NULL,NULL,Final,NULL,32,28,22,25,NULL,22,20,23,30,NULL,NBA
+77,140410025,1993,"Sun, Apr 10",Seattle SuperSonics,Phoenix Suns,"57-18, 34-4 Home","49-26, 17-21 Away",111,108,NULL,NULL,Final,NULL,40,13,22,36,NULL,25,31,33,19,NULL,NBA
+78,140413021,1993,"Wed, Apr 13",Phoenix Suns,Los Angeles Lakers,"51-26, 33-5 Home","33-43, 12-26 Away",117,88,NULL,NULL,Final,NULL,26,27,36,28,NULL,16,20,21,31,NULL,NBA
+79,140418006,1993,"Mon, Apr 18",Dallas Mavericks,Phoenix Suns,"11-69, 4-35 Home","53-26, 20-21 Away",97,106,NULL,NULL,Final,NULL,32,26,14,25,NULL,30,30,15,31,NULL,NBA
+80,140422021,1993,"Fri, Apr 22",Phoenix Suns,Los Angeles Clippers,"55-26, 35-5 Home","27-54, 10-31 Away",127,121,NULL,NULL,Final,NULL,30,43,31,23,NULL,27,37,26,31,NULL,NBA
+81,140423021,1993,"Sat, Apr 23",Phoenix Suns,Sacramento Kings,"56-26, 36-5 Home","27-54, 8-33 Away",101,100,NULL,NULL,Final,NULL,28,22,28,23,NULL,22,24,23,31,NULL,NBA

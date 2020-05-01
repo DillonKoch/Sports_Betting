@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,291029004,2010,"Thu, Oct 29",Chicago Bulls,San Antonio Spurs,"1-0, 1-0 Home","1-1, 0-1 Away",92,85,NULL,NULL,Final,TNT,22,25,27,18,NULL,23,23,18,21,NULL,NBA
+1,291105026,2010,"Thu, Nov 5",Utah Jazz,San Antonio Spurs,"2-3, 2-1 Home","2-2, 0-2 Away",113,99,NULL,NULL,Final,TNT,32,28,33,20,NULL,22,28,30,19,NULL,NBA
+2,291109024,2010,"Mon, Nov 9",San Antonio Spurs,Toronto Raptors,"3-3, 3-0 Home","3-4, 1-3 Away",131,124,NULL,NULL,Final,NULL,31,32,30,38,NULL,32,31,32,29,NULL,NBA
+3,291114024,2010,"Sat, Nov 14",San Antonio Spurs,Oklahoma City Thunder,"4-4, 4-1 Home","5-4, 3-2 Away",98,101,NULL,NULL,Final,NULL,25,28,21,24,NULL,25,21,32,23,NULL,NBA
+4,291119024,2010,"Thu, Nov 19",San Antonio Spurs,Utah Jazz,"4-6, 4-2 Home","6-6, 3-4 Away",83,90,NULL,NULL,Final,NULL,19,21,20,23,NULL,20,24,16,30,NULL,NBA
+5,291123024,2010,"Mon, Nov 23",San Antonio Spurs,Milwaukee Bucks,"6-6, 6-2 Home","8-4, 2-3 Away",112,98,NULL,NULL,Final,NULL,23,26,37,26,NULL,18,32,24,24,NULL,NBA
+6,291127010,2010,"Fri, Nov 27",Houston Rockets,San Antonio Spurs,"8-8, 4-4 Home","8-6, 1-4 Away",84,92,NULL,NULL,Final,NULL,23,23,12,26,NULL,18,26,24,24,NULL,NBA
+7,291203024,2010,"Thu, Dec 3",San Antonio Spurs,Boston Celtics,"9-7, 8-3 Home","15-4, 8-1 Away",83,90,NULL,NULL,Final,TNT,15,24,24,20,NULL,25,22,27,16,NULL,NBA
+8,291207026,2010,"Mon, Dec 7",Utah Jazz,San Antonio Spurs,"12-8, 9-3 Home","9-9, 1-5 Away",104,101,NULL,NULL,Final,NULL,24,25,37,18,NULL,31,26,19,25,NULL,NBA
+9,291211024,2010,"Fri, Dec 11",San Antonio Spurs,Charlotte Bobcats,"11-9, 10-4 Home","9-12, 1-9 Away",104,85,NULL,NULL,Final,NULL,29,30,13,32,NULL,19,23,29,14,NULL,NBA
+10,291215021,2010,"Tue, Dec 15",Phoenix Suns,San Antonio Spurs,"17-8, 9-0 Home","12-10, 2-6 Away",116,104,NULL,NULL,Final,NULL,28,39,22,27,NULL,17,35,32,20,NULL,NBA
+11,291219024,2010,"Sat, Dec 19",San Antonio Spurs,Indiana Pacers,"14-10, 11-4 Home","9-16, 3-10 Away",100,99,NULL,NULL,Final,NULL,30,20,20,30,NULL,21,24,38,16,NULL,NBA
+12,291223024,2010,"Wed, Dec 23",San Antonio Spurs,Portland Trail Blazers,"15-11, 12-5 Home","19-12, 9-8 Away",94,98,NULL,NULL,Final,NULL,24,23,22,25,NULL,28,20,27,23,NULL,NBA
+13,291227018,2010,"Sun, Dec 27",New York Knicks,San Antonio Spurs,"11-19, 7-10 Home","17-11, 5-6 Away",88,95,NULL,NULL,Final,NBATV,20,27,21,20,NULL,21,29,20,25,NULL,NBA
+14,291231024,2010,"Thu, Dec 31",San Antonio Spurs,Miami Heat,"19-11, 14-5 Home","16-14, 6-6 Away",108,78,NULL,NULL,Final,TNT,26,32,28,22,NULL,26,23,13,16,NULL,NBA
+15,300103028,2010,"Sun, Jan 3",Toronto Raptors,San Antonio Spurs,"17-18, 12-5 Home","20-12, 6-7 Away",91,86,NULL,NULL,Final,NBATV,27,21,19,24,NULL,19,15,21,31,NULL,NBA
+16,300108024,2010,"Fri, Jan 8",San Antonio Spurs,Dallas Mavericks,"21-13, 15-6 Home","25-11, 13-6 Away",103,112,NULL,NULL,Final,NULL,26,28,26,23,NULL,26,25,19,42,NULL,NBA
+17,300112024,2010,"Tue, Jan 12",San Antonio Spurs,Los Angeles Lakers,"23-13, 17-6 Home","29-9, 8-6 Away",105,85,NULL,NULL,Final,NBATV,27,26,22,30,NULL,23,18,22,22,NULL,NBA
+18,300115030,2010,"Fri, Jan 15",Charlotte Bobcats,San Antonio Spurs,"18-19, 15-4 Home","24-14, 7-8 Away",92,76,NULL,NULL,Final,NULL,22,16,26,28,NULL,24,18,15,19,NULL,NBA
+19,300118003,2010,"Mon, Jan 18",New Orleans Hornets,San Antonio Spurs,"21-19, 15-4 Home","25-15, 8-9 Away",90,97,NULL,NULL,Final,NULL,16,25,20,29,NULL,29,27,22,19,NULL,NBA
+20,300122024,2010,"Fri, Jan 22",San Antonio Spurs,Houston Rockets,"25-17, 17-8 Home","24-18, 11-13 Away",109,116,NULL,NULL,Final,NULL,31,25,21,32,NULL,28,27,28,33,NULL,NBA
+21,300127024,2010,"Wed, Jan 27",San Antonio Spurs,Atlanta Hawks,"26-18, 18-9 Home","29-15, 11-10 Away",105,90,NULL,NULL,Final,NULL,36,30,21,18,NULL,21,23,30,16,NULL,NBA
+22,300131024,2010,"Sun, Jan 31",San Antonio Spurs,Denver Nuggets,"27-19, 19-10 Home","32-15, 11-12 Away",89,103,NULL,NULL,Final,ABC,23,18,27,21,NULL,21,24,30,28,NULL,NBA
+23,300204022,2010,"Thu, Feb 4",Portland Trail Blazers,San Antonio Spurs,"30-22, 18-9 Home","28-20, 9-10 Away",96,93,NULL,NULL,Final,TNT,26,25,15,30,NULL,24,29,21,19,NULL,NBA
+24,300208013,2010,"Mon, Feb 8",Los Angeles Lakers,San Antonio Spurs,"40-13, 25-4 Home","29-21, 10-11 Away",101,89,NULL,NULL,Final,TNT,28,22,23,28,NULL,34,13,21,21,NULL,NBA
+25,300217011,2010,"Wed, Feb 17",Indiana Pacers,San Antonio Spurs,"18-35, 12-15 Home","31-21, 12-11 Away",87,90,NULL,NULL,Final,NULL,28,17,22,20,NULL,24,27,18,21,NULL,NBA
+26,300221008,2010,"Sun, Feb 21",Detroit Pistons,San Antonio Spurs,"20-35, 14-16 Home","31-23, 12-13 Away",109,101,NULL,NULL,Final/OT,NULL,24,21,24,24,16,24,21,22,26,8,NBA
+27,300226010,2010,"Fri, Feb 26",Houston Rockets,San Antonio Spurs,"29-28, 16-13 Home","32-24, 12-14 Away",109,104,NULL,NULL,Final,NULL,31,28,26,24,NULL,14,27,28,35,NULL,NBA
+28,300301003,2010,"Mon, Mar 1",New Orleans Hornets,San Antonio Spurs,"31-30, 20-10 Home","34-24, 13-14 Away",92,106,NULL,NULL,Final,NULL,24,23,26,19,NULL,31,27,22,26,NULL,NBA
+29,300306029,2010,"Sat, Mar 6",Memphis Grizzlies,San Antonio Spurs,"32-31, 18-14 Home","36-24, 14-14 Away",92,102,NULL,NULL,Final,NULL,28,20,24,20,NULL,22,36,20,24,NULL,NBA
+30,300310024,2010,"Wed, Mar 10",San Antonio Spurs,New York Knicks,"37-25, 23-10 Home","22-42, 8-21 Away",97,87,NULL,NULL,Final,NULL,31,20,16,30,NULL,22,17,21,27,NULL,NBA
+31,300313024,2010,"Sat, Mar 13",San Antonio Spurs,LA Clippers,"39-25, 24-10 Home","25-42, 7-28 Away",118,88,NULL,NULL,Final,NULL,32,33,25,28,NULL,18,30,20,20,NULL,NBA
+32,300317019,2010,"Wed, Mar 17",Orlando Magic,San Antonio Spurs,"48-21, 28-7 Home","40-26, 16-16 Away",110,84,NULL,NULL,Final,ESPN,29,23,28,30,NULL,24,18,16,26,NULL,NBA
+33,300321001,2010,"Sun, Mar 21",Atlanta Hawks,San Antonio Spurs,"45-24, 28-7 Home","41-27, 16-17 Away",119,114,NULL,NULL,Final/OT,ESPN,22,31,28,24,14,33,18,27,27,9,NBA
+34,300324024,2010,"Wed, Mar 24",San Antonio Spurs,Los Angeles Lakers,"42-28, 25-11 Home","53-18, 21-13 Away",83,92,NULL,NULL,Final,ESPN,25,23,18,17,NULL,22,19,30,21,NULL,NBA
+35,300328002,2010,"Sun, Mar 28",Boston Celtics,San Antonio Spurs,"47-26, 23-13 Home","44-28, 18-17 Away",73,94,NULL,NULL,Final,ESPN,23,20,17,13,NULL,19,25,33,17,NULL,NBA
+36,300331024,2010,"Wed, Mar 31",San Antonio Spurs,Houston Rockets,"45-29, 27-11 Home","37-37, 16-20 Away",119,102,NULL,NULL,Final,NULL,34,30,28,27,NULL,27,32,19,24,NULL,NBA
+37,300404013,2010,"Sun, Apr 4",Los Angeles Lakers,San Antonio Spurs,"55-22, 33-6 Home","47-29, 19-18 Away",81,100,NULL,NULL,Final,ABC,24,16,19,22,NULL,22,26,19,33,NULL,NBA
+38,300407021,2010,"Wed, Apr 7",Phoenix Suns,San Antonio Spurs,"51-27, 30-9 Home","48-30, 20-19 Away",112,101,NULL,NULL,Final,ESPN,29,32,27,24,NULL,29,23,28,21,NULL,NBA
+39,300410007,2010,"Sat, Apr 10",Denver Nuggets,San Antonio Spurs,"52-28, 33-7 Home","49-31, 21-19 Away",85,104,NULL,NULL,Final,NBATV,19,21,21,24,NULL,20,25,23,36,NULL,NBA
+40,291028024,2010,"Wed, Oct 28",San Antonio Spurs,New Orleans Hornets,"1-0, 1-0 Home","0-1, 0-1 Away",113,96,NULL,NULL,Final,ESPN,19,38,31,25,NULL,13,26,29,28,NULL,NBA
+41,291031024,2010,"Sat, Oct 31",San Antonio Spurs,Sacramento Kings,"2-1, 2-0 Home","0-3, 0-3 Away",113,94,NULL,NULL,Final,NULL,34,27,35,17,NULL,27,18,30,19,NULL,NBA
+42,291106022,2010,"Fri, Nov 6",Portland Trail Blazers,San Antonio Spurs,"3-3, 2-2 Home","2-3, 0-3 Away",96,84,NULL,NULL,Final,ESPN,29,22,17,28,NULL,14,26,18,26,NULL,NBA
+43,291111024,2010,"Wed, Nov 11",San Antonio Spurs,Dallas Mavericks,"4-3, 4-0 Home","5-3, 2-2 Away",92,83,NULL,NULL,Final,NULL,21,30,28,13,NULL,21,17,26,19,NULL,NBA
+44,291118006,2010,"Wed, Nov 18",Dallas Mavericks,San Antonio Spurs,"9-3, 4-1 Home","4-5, 0-4 Away",99,94,NULL,NULL,Final/OT,ESPN,19,18,26,21,15,21,14,24,25,10,NBA
+45,291121024,2010,"Sat, Nov 21",San Antonio Spurs,Washington Wizards,"5-6, 5-2 Home","3-9, 1-6 Away",106,84,NULL,NULL,Final,NBATV,27,25,28,26,NULL,21,19,18,26,NULL,NBA
+46,291125024,2010,"Wed, Nov 25",San Antonio Spurs,Golden State Warriors,"7-6, 7-2 Home","5-9, 2-7 Away",118,104,NULL,NULL,Final,NULL,33,27,31,27,NULL,31,27,23,23,NULL,NBA
+47,291129024,2010,"Sun, Nov 29",San Antonio Spurs,Philadelphia 76ers,"9-6, 8-2 Home","5-12, 2-7 Away",97,89,NULL,NULL,Final,CSN,25,29,26,17,NULL,23,22,25,19,NULL,NBA
+48,291205024,2010,"Sat, Dec 5",San Antonio Spurs,Denver Nuggets,"9-8, 8-4 Home","15-5, 6-4 Away",99,106,NULL,NULL,Final,NBATV,30,29,17,23,NULL,23,30,22,31,NULL,NBA
+49,291209024,2010,"Wed, Dec 9",San Antonio Spurs,Sacramento Kings,"10-9, 9-4 Home","9-12, 1-9 Away",118,106,NULL,NULL,Final,NULL,30,33,26,29,NULL,24,30,28,24,NULL,NBA
+50,291213012,2010,"Sun, Dec 13",LA Clippers,San Antonio Spurs,"9-13, 6-8 Home","12-9, 2-5 Away",90,115,NULL,NULL,Final,NBATV,23,33,19,15,NULL,39,27,22,27,NULL,NBA
+51,291216009,2010,"Wed, Dec 16",Golden State Warriors,San Antonio Spurs,"7-18, 4-6 Home","13-10, 3-6 Away",91,103,NULL,NULL,Final,NULL,25,24,20,22,NULL,27,20,31,25,NULL,NBA
+52,291221024,2010,"Mon, Dec 21",San Antonio Spurs,LA Clippers,"15-10, 12-4 Home","12-15, 5-7 Away",103,87,NULL,NULL,Final,NULL,33,24,28,18,NULL,19,27,18,23,NULL,NBA
+53,291226015,2010,"Sat, Dec 26",Milwaukee Bucks,San Antonio Spurs,"12-16, 9-7 Home","16-11, 4-6 Away",97,112,NULL,NULL,Final,NULL,14,27,23,33,NULL,26,30,33,23,NULL,NBA
+54,291229024,2010,"Tue, Dec 29",San Antonio Spurs,Minnesota Timberwolves,"18-11, 13-5 Home","7-25, 3-13 Away",117,99,NULL,NULL,Final,NULL,29,37,23,28,NULL,24,28,21,26,NULL,NBA
+55,300102027,2010,"Sat, Jan 2",Washington Wizards,San Antonio Spurs,"10-21, 5-9 Home","20-11, 6-6 Away",86,97,NULL,NULL,Final,NULL,24,26,21,15,NULL,30,20,20,27,NULL,NBA
+56,300106024,2010,"Wed, Jan 6",San Antonio Spurs,Detroit Pistons,"21-12, 15-5 Home","11-23, 3-15 Away",112,92,NULL,NULL,Final,NULL,27,32,18,35,NULL,28,24,23,17,NULL,NBA
+57,300110024,2010,"Sun, Jan 10",San Antonio Spurs,New Jersey Nets,"22-13, 16-6 Home","3-34, 1-19 Away",97,85,NULL,NULL,Final,NULL,20,29,28,20,NULL,22,25,18,20,NULL,NBA
+58,300113025,2010,"Wed, Jan 13",Oklahoma City Thunder,San Antonio Spurs,"21-17, 11-9 Home","24-13, 7-7 Away",108,109,NULL,NULL,Final/OT,NULL,18,33,26,22,9,35,28,13,23,10,NBA
+59,300116029,2010,"Sat, Jan 16",Memphis Grizzlies,San Antonio Spurs,"21-18, 14-5 Home","24-15, 7-9 Away",92,86,NULL,NULL,Final,NULL,24,28,23,17,NULL,27,15,23,21,NULL,NBA
+60,300120024,2010,"Wed, Jan 20",San Antonio Spurs,Utah Jazz,"25-16, 17-7 Home","24-18, 8-12 Away",98,105,NULL,NULL,Final,ESPN,22,28,20,28,NULL,21,24,29,31,NULL,NBA
+61,300125024,2010,"Mon, Jan 25",San Antonio Spurs,Chicago Bulls,"25-18, 17-9 Home","21-22, 7-15 Away",93,98,NULL,NULL,Final,NULL,31,19,21,22,NULL,29,23,18,28,NULL,NBA
+62,300129024,2010,"Fri, Jan 29",San Antonio Spurs,Memphis Grizzlies,"27-18, 19-9 Home","25-20, 8-15 Away",104,97,NULL,NULL,Final,NULL,28,25,24,27,NULL,21,29,20,27,NULL,NBA
+63,300203023,2010,"Wed, Feb 3",Sacramento Kings,San Antonio Spurs,"16-32, 13-11 Home","28-19, 9-9 Away",113,115,NULL,NULL,Final,NULL,29,31,23,30,NULL,31,30,27,27,NULL,NBA
+64,300206012,2010,"Sat, Feb 6",LA Clippers,San Antonio Spurs,"21-29, 14-10 Home","29-20, 10-10 Away",81,98,NULL,NULL,Final,NULL,10,17,35,19,NULL,28,21,33,16,NULL,NBA
+65,300211007,2010,"Thu, Feb 11",Denver Nuggets,San Antonio Spurs,"35-18, 23-5 Home","30-21, 11-11 Away",92,111,NULL,NULL,Final,TNT,29,16,25,22,NULL,32,22,29,28,NULL,NBA
+66,300219020,2010,"Fri, Feb 19",Philadelphia 76ers,San Antonio Spurs,"21-33, 10-17 Home","31-22, 12-12 Away",106,94,NULL,NULL,Final,CSN,25,20,28,33,NULL,26,26,24,18,NULL,NBA
+67,300224024,2010,"Wed, Feb 24",San Antonio Spurs,Oklahoma City Thunder,"32-23, 20-10 Home","33-23, 17-12 Away",95,87,NULL,NULL,Final,NULL,23,25,20,27,NULL,27,15,25,20,NULL,NBA
+68,300228024,2010,"Sun, Feb 28",San Antonio Spurs,Phoenix Suns,"33-24, 21-10 Home","37-24, 15-17 Away",113,110,NULL,NULL,Final,ABC,21,28,28,36,NULL,25,27,24,34,NULL,NBA
+69,300305024,2010,"Fri, Mar 5",San Antonio Spurs,New Orleans Hornets,"35-24, 22-10 Home","31-32, 11-21 Away",102,91,NULL,NULL,Final,ESPN,29,25,20,28,NULL,19,26,24,22,NULL,NBA
+70,300308005,2010,"Mon, Mar 8",Cleveland Cavaliers,San Antonio Spurs,"50-15, 28-4 Home","36-25, 14-15 Away",97,95,NULL,NULL,Final,NBATV,28,21,23,25,NULL,26,26,24,19,NULL,NBA
+71,300312016,2010,"Fri, Mar 12",Minnesota Timberwolves,San Antonio Spurs,"14-52, 9-25 Home","38-25, 15-15 Away",85,103,NULL,NULL,Final,NULL,21,22,15,27,NULL,22,29,22,30,NULL,NBA
+72,300316014,2010,"Tue, Mar 16",Miami Heat,San Antonio Spurs,"35-33, 20-15 Home","40-25, 16-15 Away",76,88,NULL,NULL,Final,NBATV,14,23,17,22,NULL,29,26,16,17,NULL,NBA
+73,300319024,2010,"Fri, Mar 19",San Antonio Spurs,Golden State Warriors,"41-26, 25-10 Home","19-49, 4-29 Away",147,116,NULL,NULL,Final,NULL,41,36,44,26,NULL,28,33,29,26,NULL,NBA
+74,300322025,2010,"Mon, Mar 22",Oklahoma City Thunder,San Antonio Spurs,"42-27, 22-12 Home","42-27, 17-17 Away",96,99,NULL,NULL,Final,NULL,34,25,17,20,NULL,25,31,25,18,NULL,NBA
+75,300326024,2010,"Fri, Mar 26",San Antonio Spurs,Cleveland Cavaliers,"43-28, 26-11 Home","57-16, 26-12 Away",102,97,NULL,NULL,Final,NULL,22,23,24,33,NULL,20,30,20,27,NULL,NBA
+76,300329017,2010,"Mon, Mar 29",New Jersey Nets,San Antonio Spurs,"10-64, 6-31 Home","44-29, 18-18 Away",90,84,NULL,NULL,Final,NULL,27,16,19,28,NULL,33,13,20,18,NULL,NBA
+77,300402024,2010,"Fri, Apr 2",San Antonio Spurs,Orlando Magic,"46-29, 28-11 Home","53-23, 23-16 Away",112,100,NULL,NULL,Final,NULL,29,25,33,25,NULL,27,29,22,22,NULL,NBA
+78,300406023,2010,"Tue, Apr 6",Sacramento Kings,San Antonio Spurs,"24-54, 17-21 Home","48-29, 20-18 Away",86,95,NULL,NULL,Final,NULL,18,29,20,19,NULL,18,29,24,24,NULL,NBA
+79,300409024,2010,"Fri, Apr 9",San Antonio Spurs,Memphis Grizzlies,"48-31, 28-12 Home","40-39, 17-22 Away",99,107,NULL,NULL,Final,NULL,30,27,25,17,NULL,21,37,28,21,NULL,NBA
+80,300412024,2010,"Mon, Apr 12",San Antonio Spurs,Minnesota Timberwolves,"50-31, 29-12 Home","15-66, 5-36 Away",133,111,NULL,NULL,Final,NULL,33,36,29,35,NULL,26,21,27,37,NULL,NBA
+81,300414006,2010,"Wed, Apr 14",Dallas Mavericks,San Antonio Spurs,"55-27, 28-13 Home","50-32, 21-20 Away",96,89,NULL,NULL,Final,NULL,30,26,19,21,NULL,22,24,18,25,NULL,NBA

@@ -1,0 +1,81 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,191106016,2000,"Sat, Nov 6",Minnesota Timberwolves,Sacramento Kings,"1-1, 1-0 Home","1-1, 0-1 Away",114,101,NULL,NULL,Final,NULL,26,35,27,26,NULL,27,36,18,20,NULL,NBA
+1,191114023,2000,"Sun, Nov 14",Sacramento Kings,Denver Nuggets,"3-1, 3-0 Home","2-4, 0-3 Away",126,116,NULL,NULL,Final,NULL,28,33,34,31,NULL,32,31,32,21,NULL,NBA
+2,191118010,2000,"Thu, Nov 18",Houston Rockets,Sacramento Kings,"2-8, 0-6 Home","5-1, 1-1 Away",110,128,NULL,NULL,Final,NULL,37,26,31,16,NULL,23,35,38,32,NULL,NBA
+3,191121023,2000,"Sun, Nov 21",Sacramento Kings,Houston Rockets,"7-1, 5-0 Home","2-10, 2-4 Away",110,105,NULL,NULL,Final,NULL,33,27,23,27,NULL,21,29,27,28,NULL,NBA
+4,191126023,2000,"Fri, Nov 26",Sacramento Kings,Golden State Warriors,"9-1, 7-0 Home","2-9, 1-4 Away",124,95,NULL,NULL,Final,NULL,28,34,29,33,NULL,18,25,35,17,NULL,NBA
+5,191130019,2000,"Tue, Nov 30",Orlando Magic,Sacramento Kings,"7-8, 3-4 Home","10-2, 3-2 Away",102,111,NULL,NULL,Final,NULL,24,29,25,24,NULL,24,33,29,25,NULL,NBA
+6,191204027,2000,"Sat, Dec 4",Washington Wizards,Sacramento Kings,"5-13, 3-7 Home","11-3, 4-3 Away",104,114,NULL,NULL,Final,NULL,27,22,28,27,NULL,35,26,27,26,NULL,NBA
+7,191208023,2000,"Wed, Dec 8",Sacramento Kings,Los Angeles Lakers,"12-4, 8-0 Home","15-5, 5-3 Away",103,91,NULL,NULL,Final,NULL,17,32,24,30,NULL,19,23,22,27,NULL,NBA
+8,191211023,2000,"Sat, Dec 11",Sacramento Kings,Portland Trail Blazers,"12-6, 8-2 Home","17-5, 10-3 Away",96,101,NULL,NULL,Final,NULL,31,19,24,22,NULL,23,29,26,23,NULL,NBA
+9,191216007,2000,"Thu, Dec 16",Denver Nuggets,Sacramento Kings,"11-11, 8-3 Home","13-7, 5-5 Away",116,106,NULL,NULL,Final,NULL,24,20,39,33,NULL,24,33,19,30,NULL,NBA
+10,191220009,2000,"Mon, Dec 20",Golden State Warriors,Sacramento Kings,"6-18, 3-9 Home","13-9, 5-7 Away",111,99,NULL,NULL,Final,NULL,37,25,32,17,NULL,27,25,24,23,NULL,NBA
+11,191223012,2000,"Thu, Dec 23",Los Angeles Clippers,Sacramento Kings,"8-18, 5-8 Home","14-10, 5-8 Away",97,91,NULL,NULL,Final,NULL,22,29,27,19,NULL,29,16,29,17,NULL,NBA
+12,191228023,2000,"Tue, Dec 28",Sacramento Kings,Boston Celtics,"16-10, 11-2 Home","11-16, 1-11 Away",114,101,NULL,NULL,Final,NULL,25,35,28,26,NULL,20,29,19,33,NULL,NBA
+13,200104005,2000,"Tue, Jan 4",Cleveland Cavaliers,Sacramento Kings,"12-19, 10-8 Home","18-10, 7-8 Away",107,111,NULL,NULL,Final,NULL,39,22,17,29,NULL,31,24,23,33,NULL,NBA
+14,200107002,2000,"Fri, Jan 7",Boston Celtics,Sacramento Kings,"14-17, 12-5 Home","18-12, 7-10 Away",101,93,NULL,NULL,Final,NULL,29,30,18,24,NULL,31,21,21,20,NULL,NBA
+15,200111023,2000,"Tue, Jan 11",Sacramento Kings,Houston Rockets,"20-12, 13-2 Home","10-24, 4-13 Away",110,93,NULL,NULL,Final,NULL,27,21,33,29,NULL,19,22,28,24,NULL,NBA
+16,200115009,2000,"Sat, Jan 15",Golden State Warriors,Sacramento Kings,"6-30, 3-16 Home","22-12, 8-10 Away",99,114,NULL,NULL,Final,NULL,28,30,26,15,NULL,29,34,27,24,NULL,NBA
+17,200118023,2000,"Tue, Jan 18",Sacramento Kings,Los Angeles Clippers,"24-12, 16-2 Home","10-28, 3-18 Away",104,98,NULL,NULL,Final,NULL,25,32,30,17,NULL,22,25,25,26,NULL,NBA
+18,200122023,2000,"Sat, Jan 22",Sacramento Kings,Utah Jazz,"25-13, 17-3 Home","26-12, 11-8 Away",101,104,NULL,NULL,Final,NULL,19,30,29,23,NULL,30,27,21,26,NULL,NBA
+19,200126015,2000,"Wed, Jan 26",Milwaukee Bucks,Sacramento Kings,"23-19, 14-7 Home","26-14, 9-11 Away",112,104,NULL,NULL,Final,NULL,28,35,28,21,NULL,28,24,25,27,NULL,NBA
+20,200130018,2000,"Sun, Jan 30",New York Knicks,Sacramento Kings,"26-16, 16-4 Home","27-15, 10-12 Away",120,111,NULL,NULL,Final,NULL,30,36,28,26,NULL,30,21,23,37,NULL,NBA
+21,200202008,2000,"Wed, Feb 2",Detroit Pistons,Sacramento Kings,"22-23, 14-7 Home","28-16, 11-13 Away",110,113,NULL,NULL,Final,NULL,29,27,25,29,NULL,27,26,37,23,NULL,NBA
+22,200206020,2000,"Sun, Feb 6",Philadelphia 76ers,Sacramento Kings,"26-21, 16-8 Home","28-18, 11-15 Away",119,108,NULL,NULL,Final,NULL,36,26,26,31,NULL,24,37,12,35,NULL,NBA
+23,200210023,2000,"Thu, Feb 10",Sacramento Kings,Denver Nuggets,"30-18, 19-3 Home","21-27, 3-17 Away",96,84,NULL,NULL,Final,NULL,24,21,25,26,NULL,15,30,20,19,NULL,NBA
+24,200217026,2000,"Thu, Feb 17",Utah Jazz,Sacramento Kings,"30-19, 19-8 Home","30-20, 11-16 Away",119,108,NULL,NULL,Final,NULL,25,39,29,26,NULL,25,22,38,23,NULL,NBA
+25,200220023,2000,"Sun, Feb 20",Sacramento Kings,Portland Trail Blazers,"31-21, 20-5 Home","42-11, 22-8 Away",103,108,NULL,NULL,Final/OT,NULL,21,22,31,22,7,24,27,30,15,12,NBA
+26,200223023,2000,"Wed, Feb 23",Sacramento Kings,Atlanta Hawks,"31-23, 20-6 Home","21-30, 6-20 Away",94,100,NULL,NULL,Final,NULL,31,23,20,20,NULL,39,26,21,14,NULL,NBA
+27,200229023,2000,"Tue, Feb 29",Sacramento Kings,Vancouver Grizzlies,"32-24, 21-6 Home","18-38, 9-19 Away",112,87,NULL,NULL,Final,NULL,26,35,25,26,NULL,29,16,26,16,NULL,NBA
+28,200304024,2000,"Sat, Mar 4",San Antonio Spurs,Sacramento Kings,"37-22, 22-7 Home","33-25, 12-19 Away",103,108,NULL,NULL,Final/OT,NULL,28,17,23,24,11,25,26,22,19,16,NBA
+29,200308023,2000,"Wed, Mar 8",Sacramento Kings,Charlotte Hornets,"35-25, 23-6 Home","33-28, 10-20 Away",105,92,NULL,NULL,Final,NULL,21,23,29,32,NULL,25,30,21,16,NULL,NBA
+30,200312013,2000,"Sun, Mar 12",Los Angeles Lakers,Sacramento Kings,"52-11, 29-4 Home","36-26, 12-20 Away",109,106,NULL,NULL,Final,NULL,22,30,22,35,NULL,31,28,27,20,NULL,NBA
+31,200315023,2000,"Wed, Mar 15",Sacramento Kings,Los Angeles Clippers,"37-27, 25-6 Home","14-51, 4-30 Away",98,78,NULL,NULL,Final,NULL,27,28,19,24,NULL,19,14,21,24,NULL,NBA
+32,200321023,2000,"Tue, Mar 21",Sacramento Kings,Washington Wizards,"39-27, 26-6 Home","23-46, 8-26 Away",98,86,NULL,NULL,Final,NULL,23,32,17,26,NULL,32,20,23,11,NULL,NBA
+33,200324023,2000,"Fri, Mar 24",Sacramento Kings,Detroit Pistons,"40-28, 27-6 Home","35-33, 11-22 Away",113,103,NULL,NULL,Final,NULL,28,26,30,29,NULL,24,28,27,24,NULL,NBA
+34,200328023,2000,"Tue, Mar 28",Sacramento Kings,New York Knicks,"41-29, 28-7 Home","43-27, 14-19 Away",103,95,NULL,NULL,Final,NULL,30,27,25,21,NULL,34,22,20,19,NULL,NBA
+35,200402023,2000,"Sun, Apr 2",Sacramento Kings,Philadelphia 76ers,"42-30, 29-7 Home","42-31, 17-20 Away",117,95,NULL,NULL,Final,NULL,25,31,34,27,NULL,27,24,22,22,NULL,NBA
+36,200405024,2000,"Wed, Apr 5",San Antonio Spurs,Sacramento Kings,"47-28, 28-9 Home","43-31, 14-24 Away",98,108,NULL,NULL,Final,NULL,16,42,18,22,NULL,26,21,29,32,NULL,NBA
+37,200409023,2000,"Sun, Apr 9",Sacramento Kings,Phoenix Suns,"43-33, 29-9 Home","49-27, 19-20 Away",97,102,NULL,NULL,Final,NULL,31,15,21,30,NULL,27,25,26,24,NULL,NBA
+38,200413023,2000,"Thu, Apr 13",Sacramento Kings,Golden State Warriors,"44-34, 30-10 Home","19-60, 7-33 Away",130,107,NULL,NULL,Final,NULL,32,33,26,39,NULL,26,22,22,37,NULL,NBA
+39,191105023,2000,"Fri, Nov 5",Sacramento Kings,Minnesota Timberwolves,"1-0, 1-0 Home","0-1, 0-1 Away",100,95,NULL,NULL,Final,NULL,28,26,24,22,NULL,29,17,30,19,NULL,NBA
+40,191112023,2000,"Fri, Nov 12",Sacramento Kings,Utah Jazz,"2-1, 2-0 Home","3-3, 1-2 Away",105,92,NULL,NULL,Final,NULL,17,34,26,28,NULL,17,27,21,27,NULL,NBA
+41,191116023,2000,"Tue, Nov 16",Sacramento Kings,Vancouver Grizzlies,"4-1, 4-0 Home","3-4, 0-2 Away",81,77,NULL,NULL,Final,NULL,22,21,25,13,NULL,23,21,18,15,NULL,NBA
+42,191119006,2000,"Fri, Nov 19",Dallas Mavericks,Sacramento Kings,"4-6, 3-2 Home","6-1, 2-1 Away",94,103,NULL,NULL,Final,NULL,30,24,24,16,NULL,26,29,20,28,NULL,NBA
+43,191123023,2000,"Tue, Nov 23",Sacramento Kings,New Jersey Nets,"8-1, 6-0 Home","1-10, 0-5 Away",105,92,NULL,NULL,Final,NULL,26,34,29,16,NULL,30,20,25,17,NULL,NBA
+44,191129014,2000,"Mon, Nov 29",Miami Heat,Sacramento Kings,"11-3, 7-1 Home","9-2, 2-2 Away",98,88,NULL,NULL,Final,NULL,27,25,26,20,NULL,21,18,26,23,NULL,NBA
+45,191202001,2000,"Thu, Dec 2",Atlanta Hawks,Sacramento Kings,"7-9, 5-2 Home","10-3, 3-3 Away",110,100,NULL,NULL,Final,NULL,28,30,26,26,NULL,42,25,16,17,NULL,NBA
+46,191206017,2000,"Mon, Dec 6",New Jersey Nets,Sacramento Kings,"3-15, 2-8 Home","11-4, 4-4 Away",109,95,NULL,NULL,Final,NULL,26,26,30,27,NULL,34,20,15,26,NULL,NBA
+47,191210023,2000,"Fri, Dec 10",Sacramento Kings,Miami Heat,"12-5, 8-1 Home","15-4, 7-3 Away",97,107,NULL,NULL,Final,NULL,36,15,29,17,NULL,32,22,24,29,NULL,NBA
+48,191215029,2000,"Wed, Dec 15",Vancouver Grizzlies,Sacramento Kings,"4-18, 3-9 Home","13-6, 5-4 Away",106,109,NULL,NULL,Final,NULL,26,25,34,21,NULL,30,30,25,24,NULL,NBA
+49,191218021,2000,"Sat, Dec 18",Phoenix Suns,Sacramento Kings,"16-7, 12-2 Home","13-8, 5-6 Away",119,103,NULL,NULL,Final,NULL,31,36,20,32,NULL,26,14,38,25,NULL,NBA
+50,191221023,2000,"Tue, Dec 21",Sacramento Kings,Milwaukee Bucks,"14-9, 9-2 Home","14-12, 7-7 Away",108,95,NULL,NULL,Final,NULL,34,27,26,21,NULL,23,23,21,28,NULL,NBA
+51,191226023,2000,"Sun, Dec 26",Sacramento Kings,Dallas Mavericks,"15-10, 10-2 Home","9-19, 4-12 Away",118,111,NULL,NULL,Final,NULL,39,31,27,21,NULL,23,26,29,33,NULL,NBA
+52,191229025,2000,"Wed, Dec 29",Seattle SuperSonics,Sacramento Kings,"18-12, 10-5 Home","17-10, 6-8 Away",104,113,NULL,NULL,Final,NULL,22,25,33,24,NULL,33,18,29,33,NULL,NBA
+53,200106028,2000,"Thu, Jan 6",Toronto Raptors,Sacramento Kings,"18-13, 10-7 Home","18-11, 7-9 Away",101,89,NULL,NULL,Final,NULL,30,25,21,25,NULL,16,25,34,14,NULL,NBA
+54,200109023,2000,"Sun, Jan 9",Sacramento Kings,Indiana Pacers,"19-12, 12-2 Home","22-11, 9-9 Away",116,113,NULL,NULL,Final,NULL,36,29,25,26,NULL,31,23,23,36,NULL,NBA
+55,200113023,2000,"Thu, Jan 13",Sacramento Kings,San Antonio Spurs,"21-12, 14-2 Home","24-13, 10-10 Away",107,103,NULL,NULL,Final,NULL,26,28,27,26,NULL,30,31,23,19,NULL,NBA
+56,200116023,2000,"Sun, Jan 16",Sacramento Kings,Cleveland Cavaliers,"23-12, 15-2 Home","16-21, 4-13 Away",113,102,NULL,NULL,Final,NULL,37,32,18,26,NULL,26,27,27,22,NULL,NBA
+57,200120023,2000,"Thu, Jan 20",Sacramento Kings,Orlando Magic,"25-12, 17-2 Home","16-24, 9-13 Away",111,103,NULL,NULL,Final,NULL,33,28,23,27,NULL,32,27,30,14,NULL,NBA
+58,200125003,2000,"Tue, Jan 25",Charlotte Hornets,Sacramento Kings,"22-18, 16-3 Home","26-13, 9-10 Away",99,110,NULL,NULL,Final,NULL,32,27,18,22,NULL,36,26,21,27,NULL,NBA
+59,200128004,2000,"Fri, Jan 28",Chicago Bulls,Sacramento Kings,"8-32, 6-15 Home","27-14, 10-11 Away",90,102,NULL,NULL,Final,NULL,28,20,21,21,NULL,25,22,31,24,NULL,NBA
+60,200131016,2000,"Mon, Jan 31",Minnesota Timberwolves,Sacramento Kings,"25-17, 14-8 Home","27-16, 10-13 Away",105,90,NULL,NULL,Final,NULL,32,28,24,21,NULL,21,28,17,24,NULL,NBA
+61,200204011,2000,"Fri, Feb 4",Indiana Pacers,Sacramento Kings,"30-15, 20-2 Home","28-17, 11-14 Away",104,94,NULL,NULL,Final,NULL,30,19,21,34,NULL,28,20,21,25,NULL,NBA
+62,200208023,2000,"Tue, Feb 8",Sacramento Kings,Chicago Bulls,"29-18, 18-3 Home","10-36, 4-20 Away",119,80,NULL,NULL,Final,NULL,35,27,34,23,NULL,25,22,18,15,NULL,NBA
+63,200215023,2000,"Tue, Feb 15",Sacramento Kings,Phoenix Suns,"30-19, 19-4 Home","30-19, 9-14 Away",108,117,NULL,NULL,Final,NULL,30,28,28,22,NULL,29,34,27,27,NULL,NBA
+64,200218023,2000,"Fri, Feb 18",Sacramento Kings,Seattle SuperSonics,"31-20, 20-4 Home","32-21, 16-13 Away",118,85,NULL,NULL,Final,NULL,29,33,20,36,NULL,23,21,20,21,NULL,NBA
+65,200221007,2000,"Mon, Feb 21",Denver Nuggets,Sacramento Kings,"24-28, 19-10 Home","31-22, 11-17 Away",123,117,NULL,NULL,Final/OT,NULL,26,23,28,31,15,31,31,21,25,9,NBA
+66,200226029,2000,"Sat, Feb 26",Vancouver Grizzlies,Sacramento Kings,"18-37, 9-19 Home","31-24, 11-18 Away",102,90,NULL,NULL,Final,NULL,23,23,27,29,NULL,29,25,21,15,NULL,NBA
+67,200302010,2000,"Thu, Mar 2",Houston Rockets,Sacramento Kings,"23-35, 15-15 Home","32-25, 11-19 Away",102,99,NULL,NULL,Final,NULL,30,29,16,27,NULL,19,28,26,26,NULL,NBA
+68,200306023,2000,"Mon, Mar 6",Sacramento Kings,Dallas Mavericks,"34-25, 22-6 Home","24-35, 11-20 Away",130,109,NULL,NULL,Final,NULL,38,21,33,38,NULL,20,29,33,27,NULL,NBA
+69,200310023,2000,"Fri, Mar 10",Sacramento Kings,Toronto Raptors,"36-25, 24-6 Home","35-26, 15-15 Away",103,88,NULL,NULL,Final,NULL,31,27,27,18,NULL,26,22,20,20,NULL,NBA
+70,200314022,2000,"Tue, Mar 14",Portland Trail Blazers,Sacramento Kings,"49-15, 25-5 Home","36-27, 12-21 Away",96,91,NULL,NULL,Final,NULL,28,25,21,22,NULL,23,26,19,23,NULL,NBA
+71,200318012,2000,"Sat, Mar 18",Los Angeles Clippers,Sacramento Kings,"14-53, 10-22 Home","38-27, 13-21 Away",83,104,NULL,NULL,Final,NULL,24,21,23,15,NULL,8,33,27,36,NULL,NBA
+72,200322021,2000,"Wed, Mar 22",Phoenix Suns,Sacramento Kings,"44-23, 29-6 Home","39-28, 13-22 Away",114,93,NULL,NULL,Final,NULL,34,16,38,26,NULL,25,27,22,19,NULL,NBA
+73,200326023,2000,"Sun, Mar 26",Sacramento Kings,Los Angeles Lakers,"40-29, 27-7 Home","59-12, 28-8 Away",89,90,NULL,NULL,Final,NULL,25,25,23,16,NULL,18,29,21,22,NULL,NBA
+74,200331025,2000,"Fri, Mar 31",Seattle SuperSonics,Sacramento Kings,"41-31, 22-15 Home","41-30, 13-23 Away",123,108,NULL,NULL,Final,NULL,36,33,26,28,NULL,22,27,30,29,NULL,NBA
+75,200404006,2000,"Tue, Apr 4",Dallas Mavericks,Sacramento Kings,"33-41, 17-19 Home","42-31, 13-24 Away",105,102,NULL,NULL,Final,NULL,29,29,22,25,NULL,25,21,29,27,NULL,NBA
+76,200407023,2000,"Fri, Apr 7",Sacramento Kings,Minnesota Timberwolves,"43-32, 29-8 Home","47-29, 22-15 Away",92,95,NULL,NULL,Final,NULL,21,26,20,25,NULL,25,13,33,24,NULL,NBA
+77,200411023,2000,"Tue, Apr 11",Sacramento Kings,San Antonio Spurs,"43-34, 29-10 Home","50-28, 22-19 Away",92,98,NULL,NULL,Final/OT,NULL,30,18,23,13,8,22,27,24,11,14,NBA
+78,200414013,2000,"Fri, Apr 14",Los Angeles Lakers,Sacramento Kings,"66-13, 35-5 Home","44-35, 14-25 Away",121,114,NULL,NULL,Final,NULL,28,29,37,27,NULL,39,26,21,28,NULL,NBA
+79,200416022,2000,"Sun, Apr 16",Portland Trail Blazers,Sacramento Kings,"58-22, 30-10 Home","44-36, 14-26 Away",102,95,NULL,NULL,Final,NULL,32,16,29,25,NULL,20,30,27,18,NULL,NBA

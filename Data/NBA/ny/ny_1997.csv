@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,161103018,1997,"Sun, Nov 3",New York Knicks,Charlotte Hornets,"2-0, 1-0 Home","1-1, 0-1 Away",113,86,NULL,NULL,Final,NULL,37,33,19,24,NULL,11,25,20,30,NULL,NBA
+1,161107009,1997,"Thu, Nov 7",Golden State Warriors,New York Knicks,"1-3, 0-3 Home","3-1, 2-0 Away",100,105,NULL,NULL,Final,NULL,26,22,25,27,NULL,28,16,29,32,NULL,NBA
+2,161110029,1997,"Sun, Nov 10",Vancouver Grizzlies,New York Knicks,"0-6, 0-3 Home","5-1, 4-0 Away",82,101,NULL,NULL,Final,NULL,24,21,17,20,NULL,26,21,29,25,NULL,NBA
+3,161114018,1997,"Thu, Nov 14",New York Knicks,Toronto Raptors,"6-2, 2-2 Home","3-4, 0-2 Away",99,96,NULL,NULL,Final,NULL,19,28,23,29,NULL,26,21,29,20,NULL,NBA
+4,161119019,1997,"Tue, Nov 19",Orlando Magic,New York Knicks,"4-2, 3-2 Home","8-2, 5-0 Away",88,92,NULL,NULL,Final,NULL,11,19,24,34,NULL,22,28,22,20,NULL,NBA
+5,161123020,1997,"Sat, Nov 23",Philadelphia 76ers,New York Knicks,"5-7, 2-4 Home","8-4, 5-2 Away",109,92,NULL,NULL,Final,NULL,21,22,33,33,NULL,26,15,31,20,NULL,NBA
+6,161130018,1997,"Sat, Nov 30",New York Knicks,Sacramento Kings,"9-5, 4-3 Home","5-11, 3-7 Away",115,101,NULL,NULL,Final,NULL,26,27,21,41,NULL,22,26,29,24,NULL,NBA
+7,161204017,1997,"Wed, Dec 4",New Jersey Nets,New York Knicks,"3-10, 2-5 Home","10-6, 6-2 Away",102,109,NULL,NULL,Final,NULL,25,23,28,26,NULL,21,27,24,37,NULL,NBA
+8,161207018,1997,"Sat, Dec 7",New York Knicks,Los Angeles Clippers,"12-6, 5-4 Home","7-12, 4-6 Away",89,80,NULL,NULL,Final,NULL,25,27,12,25,NULL,8,33,27,12,NULL,NBA
+9,161212018,1997,"Thu, Dec 12",New York Knicks,Golden State Warriors,"14-6, 7-4 Home","8-14, 3-7 Away",90,79,NULL,NULL,Final,NULL,25,21,30,14,NULL,26,15,18,20,NULL,NBA
+10,161217018,1997,"Tue, Dec 17",New York Knicks,Utah Jazz,"16-6, 9-4 Home","18-4, 5-2 Away",99,94,NULL,NULL,Final,NULL,22,18,35,24,NULL,18,27,21,28,NULL,NBA
+11,161220020,1997,"Fri, Dec 20",Philadelphia 76ers,New York Knicks,"7-17, 4-9 Home","17-7, 8-3 Away",103,110,NULL,NULL,Final,NULL,26,25,10,42,NULL,20,28,26,36,NULL,NBA
+12,161223018,1997,"Mon, Dec 23",New York Knicks,Atlanta Hawks,"19-7, 11-4 Home","15-10, 6-9 Away",82,76,NULL,NULL,Final,NULL,21,25,20,16,NULL,23,19,21,13,NULL,NBA
+13,161228018,1997,"Sat, Dec 28",New York Knicks,Orlando Magic,"20-8, 12-4 Home","10-15, 4-8 Away",96,85,NULL,NULL,Final,NULL,22,30,22,22,NULL,21,19,24,21,NULL,NBA
+14,170102027,1997,"Thu, Jan 2",Washington Bullets,New York Knicks,"15-15, 8-8 Home","22-8, 9-4 Away",80,92,NULL,NULL,Final,NULL,22,12,26,20,NULL,22,23,21,26,NULL,NBA
+15,170105018,1997,"Sun, Jan 5",New York Knicks,Milwaukee Bucks,"23-9, 14-4 Home","15-16, 6-7 Away",97,92,NULL,NULL,Final,NULL,27,28,26,16,NULL,26,25,15,26,NULL,NBA
+16,170110002,1997,"Fri, Jan 10",Boston Celtics,New York Knicks,"8-24, 7-11 Home","25-9, 10-5 Away",98,111,NULL,NULL,Final,NULL,29,28,20,21,NULL,28,27,28,28,NULL,NBA
+17,170114010,1997,"Tue, Jan 14",Houston Rockets,New York Knicks,"28-9, 13-6 Home","26-10, 10-6 Away",106,86,NULL,NULL,Final,NULL,30,33,24,19,NULL,24,19,21,22,NULL,NBA
+18,170118021,1997,"Sat, Jan 18",Phoenix Suns,New York Knicks,"14-25, 10-8 Home","27-11, 11-7 Away",105,98,NULL,NULL,Final,NULL,21,24,36,24,NULL,24,34,20,20,NULL,NBA
+19,170121004,1997,"Tue, Jan 21",Chicago Bulls,New York Knicks,"35-5, 20-1 Home","28-12, 11-8 Away",88,87,NULL,NULL,Final,NULL,33,21,20,14,NULL,23,23,15,26,NULL,NBA
+20,170124003,1997,"Fri, Jan 24",Charlotte Hornets,New York Knicks,"24-17, 12-5 Home","29-13, 12-9 Away",113,104,NULL,NULL,Final/OT,NULL,32,30,18,15,18,26,18,28,23,9,NBA
+21,170128018,1997,"Tue, Jan 28",New York Knicks,Boston Celtics,"31-13, 19-4 Home","9-31, 1-16 Away",109,107,NULL,NULL,Final,NULL,30,25,29,25,NULL,29,24,25,29,NULL,NBA
+22,170202018,1997,"Sun, Feb 2",New York Knicks,Charlotte Hornets,"32-14, 19-5 Home","27-19, 14-13 Away",93,99,NULL,NULL,Final,NULL,26,16,22,29,NULL,23,30,21,25,NULL,NBA
+23,170206018,1997,"Thu, Feb 6",New York Knicks,San Antonio Spurs,"34-14, 21-5 Home","11-34, 4-19 Away",96,84,NULL,NULL,Final,NULL,23,26,18,29,NULL,22,17,15,30,NULL,NBA
+24,170213018,1997,"Thu, Feb 13",New York Knicks,Philadelphia 76ers,"36-14, 22-5 Home","12-36, 6-18 Away",107,92,NULL,NULL,Final,NULL,15,29,35,28,NULL,21,20,26,25,NULL,NBA
+25,170218018,1997,"Tue, Feb 18",New York Knicks,Phoenix Suns,"38-14, 24-5 Home","19-34, 5-24 Away",95,94,NULL,NULL,Final,NULL,22,25,25,23,NULL,30,27,15,22,NULL,NBA
+26,170221025,1997,"Fri, Feb 21",Seattle SuperSonics,New York Knicks,"37-15, 22-7 Home","39-15, 15-10 Away",84,64,NULL,NULL,Final,NULL,19,29,16,20,NULL,17,18,18,11,NULL,NBA
+27,170225026,1997,"Tue, Feb 25",Utah Jazz,New York Knicks,"39-15, 26-3 Home","40-16, 16-11 Away",110,99,NULL,NULL,Final,NULL,21,29,29,31,NULL,21,26,24,28,NULL,NBA
+28,170228007,1997,"Fri, Feb 28",Denver Nuggets,New York Knicks,"17-41, 9-19 Home","42-16, 18-11 Away",108,112,NULL,NULL,Final/OT,NULL,36,18,20,21,13,29,27,24,15,17,NBA
+29,170304018,1997,"Tue, Mar 4",New York Knicks,Milwaukee Bucks,"44-16, 26-5 Home","25-34, 11-17 Away",93,86,NULL,NULL,Final,NULL,26,22,24,21,NULL,21,21,19,25,NULL,NBA
+30,170307002,1997,"Fri, Mar 7",Boston Celtics,New York Knicks,"12-49, 9-20 Home","46-16, 20-11 Away",102,113,NULL,NULL,Final,NULL,32,33,19,18,NULL,27,23,34,29,NULL,NBA
+31,170311006,1997,"Tue, Mar 11",Dallas Mavericks,New York Knicks,"20-41, 12-20 Home","47-17, 20-12 Away",91,83,NULL,NULL,Final,NULL,27,18,23,23,NULL,30,13,22,18,NULL,NBA
+32,170318018,1997,"Tue, Mar 18",New York Knicks,Vancouver Grizzlies,"48-18, 28-6 Home","11-57, 4-29 Away",98,73,NULL,NULL,Final,NULL,22,35,24,17,NULL,18,27,18,10,NULL,NBA
+33,170322015,1997,"Sat, Mar 22",Milwaukee Bucks,New York Knicks,"28-39, 16-20 Home","49-19, 21-13 Away",80,79,NULL,NULL,Final,NULL,27,21,22,10,NULL,22,18,23,16,NULL,NBA
+34,170326018,1997,"Wed, Mar 26",New York Knicks,Detroit Pistons,"50-20, 29-7 Home","48-21, 21-14 Away",105,94,NULL,NULL,Final,NULL,28,28,22,27,NULL,14,28,26,26,NULL,NBA
+35,170330019,1997,"Sun, Mar 30",Orlando Magic,New York Knicks,"40-31, 24-11 Home","51-21, 22-14 Away",86,101,NULL,NULL,Final,NULL,23,23,11,29,NULL,23,30,26,22,NULL,NBA
+36,170404018,1997,"Fri, Apr 4",New York Knicks,Orlando Magic,"52-22, 29-8 Home","41-33, 17-20 Away",84,93,NULL,NULL,Final,NULL,19,23,23,19,NULL,22,21,30,20,NULL,NBA
+37,170408018,1997,"Tue, Apr 8",New York Knicks,Cleveland Cavaliers,"53-23, 29-9 Home","39-37, 16-22 Away",73,93,NULL,NULL,Final,NULL,20,24,14,15,NULL,25,14,29,25,NULL,NBA
+38,170412014,1997,"Sat, Apr 12",Miami Heat,New York Knicks,"59-19, 28-10 Home","54-24, 25-14 Away",99,100,NULL,NULL,Final,NULL,28,18,20,33,NULL,28,17,30,25,NULL,NBA
+39,170416018,1997,"Wed, Apr 16",New York Knicks,Atlanta Hawks,"55-25, 30-10 Home","55-25, 20-20 Away",96,92,NULL,NULL,Final,NULL,22,26,22,26,NULL,29,21,20,22,NULL,NBA
+40,161101028,1997,"Fri, Nov 1",Toronto Raptors,New York Knicks,"0-1, 0-1 Home","1-0, 1-0 Away",99,107,NULL,NULL,Final,NULL,28,17,30,24,NULL,26,23,25,33,NULL,NBA
+41,161105018,1997,"Tue, Nov 5",New York Knicks,Los Angeles Lakers,"2-1, 1-1 Home","3-0, 1-0 Away",92,98,NULL,NULL,Final,NULL,22,23,23,24,NULL,25,24,24,25,NULL,NBA
+42,161108012,1997,"Fri, Nov 8",Los Angeles Clippers,New York Knicks,"2-2, 0-2 Home","4-1, 3-0 Away",81,88,NULL,NULL,Final/OT,NULL,18,22,15,22,4,26,17,22,12,11,NBA
+43,161112018,1997,"Tue, Nov 12",New York Knicks,Philadelphia 76ers,"5-2, 1-2 Home","3-3, 2-1 Away",97,101,NULL,NULL,Final,NULL,26,20,28,23,NULL,30,19,23,29,NULL,NBA
+44,161116018,1997,"Sat, Nov 16",New York Knicks,Minnesota Timberwolves,"7-2, 3-2 Home","4-4, 1-4 Away",82,79,NULL,NULL,Final,NULL,22,17,20,23,NULL,23,18,21,17,NULL,NBA
+45,161120003,1997,"Wed, Nov 20",Charlotte Hornets,New York Knicks,"4-5, 3-2 Home","8-3, 5-1 Away",93,86,NULL,NULL,Final,NULL,23,22,23,25,NULL,23,28,19,16,NULL,NBA
+46,161124018,1997,"Sun, Nov 24",New York Knicks,Seattle SuperSonics,"8-5, 3-3 Home","12-2, 8-1 Away",92,102,NULL,NULL,Final,NULL,23,24,23,22,NULL,24,25,36,17,NULL,NBA
+47,161203018,1997,"Tue, Dec 3",New York Knicks,Miami Heat,"9-6, 4-4 Home","13-4, 9-2 Away",75,99,NULL,NULL,Final,NULL,14,24,21,16,NULL,27,20,28,24,NULL,NBA
+48,161206014,1997,"Fri, Dec 6",Miami Heat,New York Knicks,"14-5, 5-3 Home","11-6, 7-2 Away",85,103,NULL,NULL,Final,NULL,27,19,20,19,NULL,21,21,32,29,NULL,NBA
+49,161210018,1997,"Tue, Dec 10",New York Knicks,Washington Bullets,"13-6, 6-4 Home","7-11, 3-5 Away",85,73,NULL,NULL,Final,NULL,17,25,22,21,NULL,16,17,20,20,NULL,NBA
+50,161214018,1997,"Sat, Dec 14",New York Knicks,Denver Nuggets,"15-6, 8-4 Home","5-19, 3-11 Away",89,82,NULL,NULL,Final,NULL,23,19,23,24,NULL,25,22,20,15,NULL,NBA
+51,161218008,1997,"Wed, Dec 18",Detroit Pistons,New York Knicks,"19-4, 11-2 Home","16-7, 7-3 Away",112,78,NULL,NULL,Final,NULL,33,27,31,21,NULL,21,22,15,20,NULL,NBA
+52,161221018,1997,"Sat, Dec 21",New York Knicks,Detroit Pistons,"18-7, 10-4 Home","20-5, 9-3 Away",95,92,NULL,NULL,Final,NULL,26,24,22,23,NULL,17,24,23,28,NULL,NBA
+53,161226016,1997,"Thu, Dec 26",Minnesota Timberwolves,New York Knicks,"11-17, 9-4 Home","19-8, 8-4 Away",88,80,NULL,NULL,Final,NULL,21,23,23,21,NULL,24,28,18,10,NULL,NBA
+54,161230018,1997,"Mon, Dec 30",New York Knicks,New Jersey Nets,"21-8, 13-4 Home","8-19, 3-11 Away",98,86,NULL,NULL,Final,NULL,20,27,26,25,NULL,19,21,23,23,NULL,NBA
+55,170104001,1997,"Sat, Jan 4",Atlanta Hawks,New York Knicks,"18-11, 11-1 Home","22-9, 9-5 Away",88,71,NULL,NULL,Final,NULL,18,20,23,27,NULL,17,19,13,22,NULL,NBA
+56,170107018,1997,"Tue, Jan 7",New York Knicks,Dallas Mavericks,"24-9, 15-4 Home","10-20, 4-13 Away",102,72,NULL,NULL,Final,NULL,23,31,27,21,NULL,9,19,14,30,NULL,NBA
+57,170111018,1997,"Sat, Jan 11",New York Knicks,Boston Celtics,"26-9, 16-4 Home","8-25, 1-14 Away",112,99,NULL,NULL,Final,NULL,27,33,20,32,NULL,26,24,20,29,NULL,NBA
+58,170115024,1997,"Wed, Jan 15",San Antonio Spurs,New York Knicks,"9-26, 5-11 Home","27-10, 11-6 Away",77,94,NULL,NULL,Final,NULL,15,17,24,21,NULL,17,21,29,27,NULL,NBA
+59,170120018,1997,"Mon, Jan 20",New York Knicks,Washington Bullets,"28-11, 17-4 Home","20-19, 10-10 Away",95,79,NULL,NULL,Final,NULL,22,29,25,19,NULL,14,18,25,22,NULL,NBA
+60,170123011,1997,"Thu, Jan 23",Indiana Pacers,New York Knicks,"19-20, 8-8 Home","29-12, 12-8 Away",90,92,NULL,NULL,Final,NULL,18,27,16,29,NULL,17,25,25,25,NULL,NBA
+61,170126018,1997,"Sun, Jan 26",New York Knicks,Miami Heat,"30-13, 18-4 Home","30-12, 20-6 Away",95,89,NULL,NULL,Final,NULL,28,21,21,25,NULL,21,26,23,19,NULL,NBA
+62,170129005,1997,"Wed, Jan 29",Cleveland Cavaliers,New York Knicks,"24-19, 16-9 Home","32-13, 13-9 Away",65,75,NULL,NULL,Final,NULL,20,14,22,9,NULL,17,12,23,23,NULL,NBA
+63,170204018,1997,"Tue, Feb 4",New York Knicks,Houston Rockets,"33-14, 20-5 Home","32-15, 16-7 Away",99,95,NULL,NULL,Final,NULL,25,21,25,28,NULL,27,22,16,30,NULL,NBA
+64,170211027,1997,"Tue, Feb 11",Washington Bullets,New York Knicks,"22-26, 12-10 Home","35-14, 14-9 Away",92,97,NULL,NULL,Final,NULL,32,22,11,27,NULL,22,30,20,25,NULL,NBA
+65,170216018,1997,"Sun, Feb 16",New York Knicks,Indiana Pacers,"37-14, 23-5 Home","23-26, 13-15 Away",89,80,NULL,NULL,Final,NULL,13,24,17,35,NULL,19,32,15,14,NULL,NBA
+66,170220023,1997,"Thu, Feb 20",Sacramento Kings,New York Knicks,"24-30, 15-13 Home","39-14, 15-9 Away",87,109,NULL,NULL,Final,NULL,26,23,10,28,NULL,28,26,23,32,NULL,NBA
+67,170223013,1997,"Sun, Feb 23",Los Angeles Lakers,New York Knicks,"38-16, 22-7 Home","40-15, 16-10 Away",121,127,NULL,NULL,Final/2OT,NULL,18,21,24,40,18,20,28,25,30,24,NBA
+68,170226022,1997,"Wed, Feb 26",Portland Trail Blazers,New York Knicks,"29-28, 17-10 Home","41-16, 17-11 Away",95,96,NULL,NULL,Final/OT,NULL,24,22,27,16,6,20,33,5,31,7,NBA
+69,170302018,1997,"Sun, Mar 2",New York Knicks,Cleveland Cavaliers,"43-16, 25-5 Home","32-25, 12-14 Away",90,82,NULL,NULL,Final,NULL,22,25,19,24,NULL,20,16,23,23,NULL,NBA
+70,170305028,1997,"Wed, Mar 5",Toronto Raptors,New York Knicks,"20-39, 14-16 Home","45-16, 19-11 Away",94,100,NULL,NULL,Final,NULL,22,24,27,21,NULL,20,22,28,30,NULL,NBA
+71,170309018,1997,"Sun, Mar 9",New York Knicks,Chicago Bulls,"47-16, 27-5 Home","53-8, 23-7 Away",97,93,NULL,NULL,Final,NULL,20,32,20,25,NULL,20,22,24,27,NULL,NBA
+72,170316018,1997,"Sun, Mar 16",New York Knicks,New Jersey Nets,"47-18, 27-6 Home","20-44, 8-25 Away",74,89,NULL,NULL,Final,NULL,19,14,24,17,NULL,26,23,23,17,NULL,NBA
+73,170319020,1997,"Wed, Mar 19",Philadelphia 76ers,New York Knicks,"17-49, 9-25 Home","49-18, 21-12 Away",100,111,NULL,NULL,Final,NULL,22,27,23,28,NULL,27,26,25,33,NULL,NBA
+74,170323018,1997,"Sun, Mar 23",New York Knicks,Portland Trail Blazers,"49-20, 28-7 Home","41-29, 16-19 Away",88,94,NULL,NULL,Final,NULL,22,30,13,23,NULL,17,28,22,27,NULL,NBA
+75,170328017,1997,"Fri, Mar 28",New Jersey Nets,New York Knicks,"23-47, 14-21 Home","50-21, 21-14 Away",92,86,NULL,NULL,Final,NULL,24,18,30,20,NULL,31,21,15,19,NULL,NBA
+76,170401005,1997,"Tue, Apr 1",Cleveland Cavaliers,New York Knicks,"37-35, 23-14 Home","52-21, 23-14 Away",88,94,NULL,NULL,Final,NULL,24,25,20,19,NULL,25,17,25,27,NULL,NBA
+77,170405001,1997,"Sat, Apr 5",Atlanta Hawks,New York Knicks,"51-24, 34-5 Home","53-22, 24-14 Away",97,102,NULL,NULL,Final,NULL,25,27,20,25,NULL,23,26,29,24,NULL,NBA
+78,170410018,1997,"Thu, Apr 10",New York Knicks,Chicago Bulls,"53-24, 29-10 Home","68-10, 30-9 Away",103,105,NULL,NULL,Final,NULL,28,18,33,24,NULL,30,17,24,34,NULL,NBA
+79,170414011,1997,"Mon, Apr 14",Indiana Pacers,New York Knicks,"39-40, 21-19 Home","54-25, 25-15 Away",110,107,NULL,NULL,Final/OT,NULL,21,28,34,16,11,24,24,29,22,8,NBA
+80,170418018,1997,"Fri, Apr 18",New York Knicks,Indiana Pacers,"56-25, 31-10 Home","39-42, 18-23 Away",97,89,NULL,NULL,Final,NULL,33,21,20,23,NULL,18,24,25,22,NULL,NBA
+81,170419004,1997,"Sat, Apr 19",Chicago Bulls,New York Knicks,"69-13, 39-2 Home","57-25, 26-15 Away",101,103,NULL,NULL,Final,NULL,27,31,19,24,NULL,25,23,22,33,NULL,NBA

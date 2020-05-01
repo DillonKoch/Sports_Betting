@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,301030001,2011,"Sat, Oct 30",Atlanta Hawks,Washington Wizards,"3-0, 1-0 Home","0-2, 0-2 Away",99,95,NULL,NULL,Final,NULL,18,26,26,29,NULL,27,13,30,25,NULL,NBA
+1,301105018,2011,"Fri, Nov 5",New York Knicks,Washington Wizards,"3-2, 1-1 Home","1-3, 0-3 Away",112,91,NULL,NULL,Final,NULL,26,32,23,31,NULL,27,22,24,18,NULL,NBA
+2,301110027,2011,"Wed, Nov 10",Washington Wizards,Houston Rockets,"2-4, 2-1 Home","1-6, 0-4 Away",98,91,NULL,NULL,Final,NULL,30,23,20,25,NULL,21,25,26,19,NULL,NBA
+3,301113004,2011,"Sat, Nov 13",Chicago Bulls,Washington Wizards,"5-3, 5-1 Home","2-6, 0-4 Away",103,96,NULL,NULL,Final,NULL,24,26,22,31,NULL,25,17,16,38,NULL,NBA
+4,301117002,2011,"Wed, Nov 17",Boston Celtics,Washington Wizards,"9-2, 5-0 Home","3-7, 0-5 Away",114,83,NULL,NULL,Final,TNT,33,27,29,25,NULL,28,16,25,14,NULL,NBA
+5,301121008,2011,"Sun, Nov 21",Detroit Pistons,Washington Wizards,"5-8, 3-3 Home","4-8, 0-6 Away",115,110,NULL,NULL,Final/OT,NULL,24,28,25,25,13,17,38,23,24,8,NBA
+6,301125001,2011,"Thu, Nov 25",Atlanta Hawks,Washington Wizards,"9-7, 4-5 Home","5-9, 0-7 Away",116,96,NULL,NULL,Final,TNT,28,25,36,27,NULL,18,18,27,33,NULL,NBA
+7,301129014,2011,"Mon, Nov 29",Miami Heat,Washington Wizards,"10-8, 8-3 Home","5-11, 0-8 Away",105,94,NULL,NULL,Final,NULL,24,28,28,25,NULL,21,23,25,25,NULL,NBA
+8,301203027,2011,"Fri, Dec 3",Washington Wizards,Portland Trail Blazers,"6-12, 6-3 Home","8-11, 4-8 Away",83,79,NULL,NULL,Final,NULL,18,16,23,26,NULL,24,22,10,23,NULL,NBA
+9,301207013,2011,"Tue, Dec 7",Los Angeles Lakers,Washington Wizards,"15-6, 10-2 Home","6-14, 0-11 Away",115,108,NULL,NULL,Final,NULL,36,33,18,28,NULL,23,33,28,24,NULL,NBA
+10,301210027,2011,"Fri, Dec 10",Washington Wizards,New York Knicks,"6-16, 6-4 Home","15-9, 10-4 Away",95,101,NULL,NULL,Final,NULL,23,31,19,22,NULL,19,30,27,25,NULL,NBA
+11,301216017,2011,"Thu, Dec 16",New Jersey Nets,Washington Wizards,"7-19, 5-8 Home","6-18, 0-13 Away",97,89,NULL,NULL,Final,NULL,32,23,19,23,NULL,17,21,29,22,NULL,NBA
+12,301220027,2011,"Mon, Dec 20",Washington Wizards,Charlotte Bobcats,"7-19, 7-6 Home","9-18, 3-12 Away",108,75,NULL,NULL,Final,NULL,32,18,31,27,NULL,25,20,11,19,NULL,NBA
+13,301226024,2011,"Sun, Dec 26",San Antonio Spurs,Washington Wizards,"26-4, 17-2 Home","7-21, 0-14 Away",94,80,NULL,NULL,Final,NULL,27,21,33,13,NULL,23,19,23,15,NULL,NBA
+14,301229027,2011,"Wed, Dec 29",Washington Wizards,Indiana Pacers,"8-22, 8-7 Home","13-17, 5-9 Away",104,90,NULL,NULL,Final,NULL,19,25,28,32,NULL,19,25,23,23,NULL,NBA
+15,310101027,2011,"Sat, Jan 1",Washington Wizards,New Orleans Hornets,"8-24, 8-8 Home","20-14, 7-10 Away",81,92,NULL,NULL,Final,NULL,23,24,15,19,NULL,24,18,26,24,NULL,NBA
+16,310107027,2011,"Fri, Jan 7",Washington Wizards,New Jersey Nets,"9-25, 9-8 Home","10-26, 3-17 Away",97,77,NULL,NULL,Final,NULL,30,26,15,26,NULL,13,24,20,20,NULL,NBA
+17,310111027,2011,"Tue, Jan 11",Washington Wizards,Sacramento Kings,"10-26, 10-8 Home","8-27, 2-12 Away",136,133,NULL,NULL,Final/OT,NULL,38,16,40,32,10,19,37,27,43,7,NBA
+18,310115027,2011,"Sat, Jan 15",Washington Wizards,Toronto Raptors,"11-27, 11-8 Home","13-27, 5-15 Away",98,95,NULL,NULL,Final,TSNT,19,28,28,23,NULL,25,17,25,28,NULL,NBA
+19,310119015,2011,"Wed, Jan 19",Milwaukee Bucks,Washington Wizards,"15-24, 9-9 Home","12-28, 0-20 Away",100,87,NULL,NULL,Final,NULL,19,28,28,25,NULL,27,22,17,21,NULL,NBA
+20,310122027,2011,"Sat, Jan 22",Washington Wizards,Boston Celtics,"13-29, 13-9 Home","33-10, 12-7 Away",85,83,NULL,NULL,Final,NULL,20,26,24,15,NULL,35,21,16,11,NULL,NBA
+21,310125027,2011,"Tue, Jan 25",Washington Wizards,Denver Nuggets,"13-31, 13-10 Home","26-18, 6-13 Away",109,120,NULL,NULL,Final,NULL,26,30,23,30,NULL,33,35,28,24,NULL,NBA
+22,310129029,2011,"Sat, Jan 29",Memphis Grizzlies,Washington Wizards,"24-24, 14-7 Home","13-33, 0-23 Away",107,93,NULL,NULL,Final,NULL,33,26,27,21,NULL,28,22,17,26,NULL,NBA
+23,310201003,2011,"Tue, Feb 1",New Orleans Hornets,Washington Wizards,"32-18, 20-5 Home","13-35, 0-25 Away",97,89,NULL,NULL,Final,NULL,29,26,25,17,NULL,26,18,21,24,NULL,NBA
+24,310205027,2011,"Sat, Feb 5",Washington Wizards,Atlanta Hawks,"13-37, 13-12 Home","33-18, 16-11 Away",92,99,NULL,NULL,Final,NBATV,19,27,25,21,NULL,28,24,24,23,NULL,NBA
+25,310212027,2011,"Sat, Feb 12",Washington Wizards,San Antonio Spurs,"14-38, 14-13 Home","45-9, 20-7 Away",94,118,NULL,NULL,Final,NULL,18,27,20,29,NULL,37,35,29,17,NULL,NBA
+26,310216019,2011,"Wed, Feb 16",Orlando Magic,Washington Wizards,"36-21, 21-8 Home","15-39, 1-26 Away",101,76,NULL,NULL,Final,NULL,17,31,32,21,NULL,18,21,16,21,NULL,NBA
+27,310223020,2011,"Wed, Feb 23",Philadelphia 76ers,Washington Wizards,"28-29, 18-9 Home","15-41, 1-27 Away",117,94,NULL,NULL,Final,CSN,24,30,34,29,NULL,31,18,15,30,NULL,NBA
+28,310226027,2011,"Sat, Feb 26",Washington Wizards,Dallas Mavericks,"15-43, 14-15 Home","42-16, 20-8 Away",99,105,NULL,NULL,Final,NULL,22,27,23,27,NULL,23,36,19,27,NULL,NBA
+29,310302027,2011,"Wed, Mar 2",Washington Wizards,Golden State Warriors,"15-45, 14-17 Home","27-33, 8-20 Away",102,106,NULL,NULL,Final,NULL,33,20,21,28,NULL,32,30,29,15,NULL,NBA
+30,310306008,2011,"Sun, Mar 6",Detroit Pistons,Washington Wizards,"23-41, 16-17 Home","16-46, 1-29 Away",113,102,NULL,NULL,Final,NULL,29,31,22,31,NULL,22,29,22,29,NULL,NBA
+31,310312027,2011,"Sat, Mar 12",Washington Wizards,LA Clippers,"16-48, 15-19 Home","26-41, 8-26 Away",101,122,NULL,NULL,Final,NULL,27,28,18,28,NULL,38,26,27,31,NULL,NBA
+32,310315004,2011,"Tue, Mar 15",Chicago Bulls,Washington Wizards,"48-18, 30-4 Home","16-50, 1-30 Away",98,79,NULL,NULL,Final,NULL,31,19,25,23,NULL,19,27,14,19,NULL,NBA
+33,310320027,2011,"Sun, Mar 20",Washington Wizards,New Jersey Nets,"17-51, 16-20 Home","22-46, 4-29 Away",98,92,NULL,NULL,Final,NULL,23,20,28,27,NULL,35,21,12,24,NULL,NBA
+34,310323012,2011,"Wed, Mar 23",LA Clippers,Washington Wizards,"28-44, 20-17 Home","17-53, 1-33 Away",127,119,NULL,NULL,Final/2OT,NULL,33,25,17,27,25,21,28,28,25,17,NBA
+35,310327009,2011,"Sun, Mar 27",Golden State Warriors,Washington Wizards,"32-42, 23-14 Home","17-55, 1-35 Away",114,104,NULL,NULL,Final,NULL,35,29,26,24,NULL,36,31,17,20,NULL,NBA
+36,310330027,2011,"Wed, Mar 30",Washington Wizards,Miami Heat,"18-56, 16-21 Home","52-23, 24-13 Away",107,123,NULL,NULL,Final,NULL,29,23,29,26,NULL,32,31,25,35,NULL,NBA
+37,310403030,2011,"Sun, Apr 3",Charlotte Bobcats,Washington Wizards,"32-44, 20-18 Home","20-56, 3-35 Away",91,97,NULL,NULL,Final,NULL,19,24,22,26,NULL,22,26,28,21,NULL,NBA
+38,310406011,2011,"Wed, Apr 6",Indiana Pacers,Washington Wizards,"36-43, 23-16 Home","21-57, 3-36 Away",136,112,NULL,NULL,Final,NULL,43,32,33,28,NULL,29,27,31,25,NULL,NBA
+39,310409027,2011,"Sat, Apr 9",Washington Wizards,Atlanta Hawks,"22-58, 19-21 Home","44-36, 20-20 Away",115,83,NULL,NULL,Final,NULL,29,32,27,27,NULL,18,28,26,11,NULL,NBA
+40,301028019,2011,"Thu, Oct 28",Orlando Magic,Washington Wizards,"1-0, 1-0 Home","0-1, 0-1 Away",112,83,NULL,NULL,Final,TNT,29,29,32,22,NULL,15,19,25,24,NULL,NBA
+41,301102027,2011,"Tue, Nov 2",Washington Wizards,Philadelphia 76ers,"1-2, 1-0 Home","0-4, 0-2 Away",116,115,NULL,NULL,Final/OT,CSN,27,23,22,34,10,28,20,18,40,9,NBA
+42,301106027,2011,"Sat, Nov 6",Washington Wizards,Cleveland Cavaliers,"1-4, 1-1 Home","3-3, 2-1 Away",102,107,NULL,NULL,Final,NULL,28,23,25,26,NULL,27,32,17,31,NULL,NBA
+43,301112027,2011,"Fri, Nov 12",Washington Wizards,Charlotte Bobcats,"2-5, 2-2 Home","3-6, 3-3 Away",85,93,NULL,NULL,Final,NULL,22,21,22,20,NULL,19,23,26,25,NULL,NBA
+44,301116027,2011,"Tue, Nov 16",Washington Wizards,Toronto Raptors,"3-6, 3-2 Home","2-9, 1-6 Away",109,94,NULL,NULL,Final,TSNT,27,27,36,19,NULL,23,24,21,26,NULL,NBA
+45,301119027,2011,"Fri, Nov 19",Washington Wizards,Memphis Grizzlies,"4-7, 4-2 Home","4-9, 2-5 Away",89,86,NULL,NULL,Final,NULL,25,18,23,23,NULL,24,21,23,18,NULL,NBA
+46,301123027,2011,"Tue, Nov 23",Washington Wizards,Philadelphia 76ers,"5-8, 5-2 Home","3-11, 1-7 Away",116,114,NULL,NULL,Final/OT,CSN,20,18,35,33,10,30,22,25,29,8,NBA
+47,301127027,2011,"Sat, Nov 27",Washington Wizards,Orlando Magic,"5-10, 5-3 Home","12-4, 4-2 Away",99,100,NULL,NULL,Final,NBATV,20,23,29,27,NULL,30,25,19,26,NULL,NBA
+48,301201028,2011,"Wed, Dec 1",Toronto Raptors,Washington Wizards,"7-11, 5-4 Home","5-12, 0-9 Away",127,108,NULL,NULL,Final,NULL,34,38,29,26,NULL,25,27,29,27,NULL,NBA
+49,301205021,2011,"Sun, Dec 5",Phoenix Suns,Washington Wizards,"11-9, 6-3 Home","6-13, 0-10 Away",125,108,NULL,NULL,Final,NULL,28,36,31,30,NULL,31,30,17,30,NULL,NBA
+50,301208023,2011,"Wed, Dec 8",Sacramento Kings,Washington Wizards,"5-15, 3-9 Home","6-15, 0-12 Away",116,91,NULL,NULL,Final,NULL,26,33,33,24,NULL,27,18,25,21,NULL,NBA
+51,301214027,2011,"Tue, Dec 14",Washington Wizards,Los Angeles Lakers,"6-17, 6-5 Home","18-7, 8-5 Away",89,103,NULL,NULL,Final,NULL,24,22,24,19,NULL,22,35,35,11,NULL,NBA
+52,301218027,2011,"Sat, Dec 18",Washington Wizards,Miami Heat,"6-19, 6-6 Home","21-8, 9-5 Away",94,95,NULL,NULL,Final,NBATV,25,22,27,20,NULL,19,27,26,23,NULL,NBA
+53,301222027,2011,"Wed, Dec 22",Washington Wizards,Chicago Bulls,"7-20, 7-7 Home","18-9, 7-6 Away",80,87,NULL,NULL,Final,NBATV,33,17,20,10,NULL,29,17,27,14,NULL,NBA
+54,301227010,2011,"Mon, Dec 27",Houston Rockets,Washington Wizards,"15-15, 9-4 Home","7-22, 0-15 Away",100,93,NULL,NULL,Final,NULL,28,19,21,32,NULL,27,21,25,20,NULL,NBA
+55,301231011,2011,"Fri, Dec 31",Indiana Pacers,Washington Wizards,"14-17, 9-8 Home","8-23, 0-16 Away",95,86,NULL,NULL,Final,NULL,25,24,27,19,NULL,22,12,28,24,NULL,NBA
+56,310105020,2011,"Wed, Jan 5",Philadelphia 76ers,Washington Wizards,"14-21, 9-6 Home","8-25, 0-17 Away",109,97,NULL,NULL,Final,CSN,29,21,26,33,NULL,26,26,23,22,NULL,NBA
+57,310108030,2011,"Sat, Jan 8",Charlotte Bobcats,Washington Wizards,"13-21, 9-9 Home","9-26, 0-18 Away",104,89,NULL,NULL,Final,NULL,26,23,28,27,NULL,20,26,25,18,NULL,NBA
+58,310113016,2011,"Thu, Jan 13",Minnesota Timberwolves,Washington Wizards,"10-30, 8-11 Home","10-27, 0-19 Away",109,97,NULL,NULL,Final,NULL,28,27,27,27,NULL,18,30,30,19,NULL,NBA
+59,310117027,2011,"Mon, Jan 17",Washington Wizards,Utah Jazz,"12-27, 12-8 Home","27-14, 12-7 Away",108,101,NULL,NULL,Final,NULL,21,21,36,30,NULL,18,21,29,33,NULL,NBA
+60,310121027,2011,"Fri, Jan 21",Washington Wizards,Phoenix Suns,"12-29, 12-9 Home","20-21, 9-12 Away",91,109,NULL,NULL,Final,ESPN,33,20,18,20,NULL,22,30,31,26,NULL,NBA
+61,310124018,2011,"Mon, Jan 24",New York Knicks,Washington Wizards,"23-21, 11-9 Home","13-30, 0-21 Away",115,106,NULL,NULL,Final,NBATV,33,29,31,22,NULL,26,36,29,15,NULL,NBA
+62,310128025,2011,"Fri, Jan 28",Oklahoma City Thunder,Washington Wizards,"30-16, 17-6 Home","13-32, 0-22 Away",124,117,NULL,NULL,Final/2OT,NULL,21,35,19,28,21,29,23,28,23,14,NBA
+63,310131006,2011,"Mon, Jan 31",Dallas Mavericks,Washington Wizards,"32-15, 19-8 Home","13-34, 0-24 Away",102,92,NULL,NULL,Final,NULL,21,29,24,28,NULL,25,24,19,24,NULL,NBA
+64,310204027,2011,"Fri, Feb 4",Washington Wizards,Orlando Magic,"13-36, 13-11 Home","32-19, 14-12 Away",92,110,NULL,NULL,Final,NULL,21,28,15,28,NULL,29,22,23,36,NULL,NBA
+65,310209027,2011,"Wed, Feb 9",Washington Wizards,Milwaukee Bucks,"14-37, 14-12 Home","20-31, 8-20 Away",100,85,NULL,NULL,Final,NULL,22,25,30,23,NULL,19,18,23,25,NULL,NBA
+66,310213005,2011,"Sun, Feb 13",Cleveland Cavaliers,Washington Wizards,"9-46, 6-19 Home","15-38, 1-25 Away",100,115,NULL,NULL,Final,NULL,23,23,33,21,NULL,35,33,27,20,NULL,NBA
+67,310222027,2011,"Tue, Feb 22",Washington Wizards,Indiana Pacers,"15-40, 14-14 Home","25-30, 10-18 Away",96,113,NULL,NULL,Final,NULL,30,19,19,28,NULL,25,33,32,23,NULL,NBA
+68,310225014,2011,"Fri, Feb 25",Miami Heat,Washington Wizards,"43-16, 22-5 Home","15-42, 1-28 Away",121,113,NULL,NULL,Final,NULL,20,43,25,33,NULL,25,36,23,29,NULL,NBA
+69,310228027,2011,"Mon, Feb 28",Washington Wizards,Chicago Bulls,"15-44, 14-16 Home","41-17, 15-13 Away",77,105,NULL,NULL,Final,NULL,20,17,20,20,NULL,25,25,28,27,NULL,NBA
+70,310305027,2011,"Sat, Mar 5",Washington Wizards,Minnesota Timberwolves,"16-45, 15-17 Home","15-49, 5-27 Away",103,96,NULL,NULL,Final,NULL,25,26,17,35,NULL,29,20,23,24,NULL,NBA
+71,310308027,2011,"Tue, Mar 8",Washington Wizards,Milwaukee Bucks,"16-47, 15-18 Home","24-38, 9-22 Away",76,95,NULL,NULL,Final,NULL,21,15,16,24,NULL,22,29,24,20,NULL,NBA
+72,310314027,2011,"Mon, Mar 14",Washington Wizards,Oklahoma City Thunder,"16-49, 15-20 Home","43-23, 20-14 Away",89,116,NULL,NULL,Final,NULL,24,23,23,19,NULL,33,35,27,21,NULL,NBA
+73,310318028,2011,"Fri, Mar 18",Toronto Raptors,Washington Wizards,"19-49, 14-22 Home","16-51, 1-31 Away",116,107,NULL,NULL,Final,TSN2,33,29,26,28,NULL,27,26,24,30,NULL,NBA
+74,310322022,2011,"Tue, Mar 22",Portland Trail Blazers,Washington Wizards,"41-30, 25-10 Home","17-52, 1-32 Away",111,76,NULL,NULL,Final,NULL,35,27,29,20,NULL,29,16,14,17,NULL,NBA
+75,310325007,2011,"Fri, Mar 25",Denver Nuggets,Washington Wizards,"44-29, 30-7 Home","17-54, 1-34 Away",114,94,NULL,NULL,Final,NULL,30,34,18,32,NULL,16,29,22,27,NULL,NBA
+76,310328026,2011,"Mon, Mar 28",Utah Jazz,Washington Wizards,"36-39, 20-18 Home","18-55, 2-35 Away",95,100,NULL,NULL,Final/OT,NULL,21,22,20,22,10,16,35,22,12,15,NBA
+77,310401027,2011,"Fri, Apr 1",Washington Wizards,Cleveland Cavaliers,"19-56, 17-21 Home","15-60, 5-32 Away",115,107,NULL,NULL,Final,NULL,29,23,31,32,NULL,26,31,25,25,NULL,NBA
+78,310405027,2011,"Tue, Apr 5",Washington Wizards,Detroit Pistons,"21-56, 18-21 Home","26-51, 7-32 Away",107,105,NULL,NULL,Final,NULL,31,21,26,29,NULL,22,32,27,24,NULL,NBA
+79,310408002,2011,"Fri, Apr 8",Boston Celtics,Washington Wizards,"55-24, 32-8 Home","21-58, 3-37 Away",104,88,NULL,NULL,Final,NULL,28,31,24,21,NULL,23,33,19,13,NULL,NBA
+80,310411027,2011,"Mon, Apr 11",Washington Wizards,Boston Celtics,"23-58, 20-21 Home","55-26, 23-18 Away",95,94,NULL,NULL,Final/OT,NULL,19,18,23,24,11,23,21,16,24,10,NBA
+81,310413005,2011,"Wed, Apr 13",Cleveland Cavaliers,Washington Wizards,"19-63, 12-29 Home","23-59, 3-38 Away",100,93,NULL,NULL,Final,NULL,23,24,24,29,NULL,35,15,24,19,NULL,NBA

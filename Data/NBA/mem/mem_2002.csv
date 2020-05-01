@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,211102016,2002,"Fri, Nov 2",Minnesota Timberwolves,Memphis Grizzlies,"2-0, 2-0 Home","0-2, 0-1 Away",111,102,NULL,NULL,Final,NULL,25,32,28,26,NULL,33,23,16,30,NULL,NBA
+1,211106021,2002,"Tue, Nov 6",Phoenix Suns,Memphis Grizzlies,"2-3, 1-2 Home","0-4, 0-2 Away",113,101,NULL,NULL,Final,NULL,28,24,29,32,NULL,33,24,28,16,NULL,NBA
+2,211109013,2002,"Fri, Nov 9",Los Angeles Lakers,Memphis Grizzlies,"5-0, 4-0 Home","0-6, 0-4 Away",110,86,NULL,NULL,Final,NULL,19,36,32,23,NULL,10,33,17,26,NULL,NBA
+3,211115029,2002,"Thu, Nov 15",Memphis Grizzlies,Portland Trail Blazers,"0-8, 0-4 Home","5-5, 2-4 Away",85,101,NULL,NULL,Final,NULL,19,25,23,18,NULL,26,18,23,34,NULL,NBA
+4,211121005,2002,"Wed, Nov 21",Cleveland Cavaliers,Memphis Grizzlies,"3-9, 1-4 Home","1-9, 0-5 Away",101,94,NULL,NULL,Final,NULL,30,20,32,19,NULL,27,17,23,27,NULL,NBA
+5,211124008,2002,"Sat, Nov 24",Detroit Pistons,Memphis Grizzlies,"8-4, 5-1 Home","1-11, 0-6 Away",91,84,NULL,NULL,Final,NULL,25,24,17,25,NULL,22,22,27,13,NULL,NBA
+6,211129028,2002,"Thu, Nov 29",Toronto Raptors,Memphis Grizzlies,"10-6, 5-2 Home","2-12, 0-7 Away",91,88,NULL,NULL,Final,NULL,25,15,38,13,NULL,18,19,28,23,NULL,NBA
+7,211202020,2002,"Sun, Dec 2",Philadelphia 76ers,Memphis Grizzlies,"8-8, 4-4 Home","4-12, 1-7 Away",87,93,NULL,NULL,Final,CSN,18,22,27,20,NULL,23,20,24,26,NULL,NBA
+8,211206029,2002,"Thu, Dec 6",Memphis Grizzlies,Minnesota Timberwolves,"4-14, 3-6 Home","12-5, 5-4 Away",80,105,NULL,NULL,Final,NULL,22,15,28,15,NULL,29,29,29,18,NULL,NBA
+9,211211029,2002,"Tue, Dec 11",Memphis Grizzlies,Washington Wizards,"5-15, 4-7 Home","8-12, 6-6 Away",81,91,NULL,NULL,Final,NULL,27,14,16,24,NULL,28,29,19,15,NULL,NBA
+10,211215009,2002,"Sat, Dec 15",Golden State Warriors,Memphis Grizzlies,"9-15, 5-6 Home","5-17, 1-10 Away",93,84,NULL,NULL,Final,NULL,31,24,23,15,NULL,26,16,19,23,NULL,NBA
+11,211218029,2002,"Tue, Dec 18",Memphis Grizzlies,Milwaukee Bucks,"5-19, 4-8 Home","14-7, 6-5 Away",105,114,NULL,NULL,Final,NULL,32,26,27,20,NULL,36,31,16,31,NULL,NBA
+12,211221029,2002,"Fri, Dec 21",Memphis Grizzlies,Los Angeles Lakers,"7-19, 5-8 Home","19-4, 6-3 Away",114,108,NULL,NULL,Final,NULL,24,39,17,34,NULL,28,36,18,26,NULL,NBA
+13,211226029,2002,"Wed, Dec 26",Memphis Grizzlies,Chicago Bulls,"8-20, 6-8 Home","4-22, 0-15 Away",107,85,NULL,NULL,Final,NULL,30,24,29,24,NULL,19,25,24,17,NULL,NBA
+14,211230029,2002,"Sun, Dec 30",Memphis Grizzlies,San Antonio Spurs,"9-21, 6-9 Home","21-7, 8-4 Away",79,83,NULL,NULL,Final,NULL,18,23,14,24,NULL,15,29,16,23,NULL,NBA
+15,220104029,2002,"Fri, Jan 4",Memphis Grizzlies,Atlanta Hawks,"9-23, 6-10 Home","12-19, 4-14 Away",109,113,NULL,NULL,Final,NULL,32,29,23,25,NULL,33,24,28,28,NULL,NBA
+16,220108029,2002,"Tue, Jan 8",Memphis Grizzlies,Toronto Raptors,"10-24, 7-11 Home","18-16, 9-10 Away",84,81,NULL,NULL,Final,NULL,20,23,25,16,NULL,18,26,20,17,NULL,NBA
+17,220112026,2002,"Sat, Jan 12",Utah Jazz,Memphis Grizzlies,"19-17, 12-8 Home","12-24, 5-13 Away",95,97,NULL,NULL,Final,NULL,18,21,23,21,12,23,24,16,20,14,NBA
+18,220117029,2002,"Thu, Jan 17",Memphis Grizzlies,Dallas Mavericks,"12-26, 7-12 Home","27-12, 12-7 Away",97,108,NULL,NULL,Final,NULL,27,22,19,29,NULL,29,26,27,26,NULL,NBA
+19,220121023,2002,"Mon, Jan 21",Sacramento Kings,Memphis Grizzlies,"31-9, 23-1 Home","12-28, 5-15 Away",112,98,NULL,NULL,Final,NULL,31,28,32,21,NULL,30,25,19,24,NULL,NBA
+20,220124022,2002,"Thu, Jan 24",Portland Trail Blazers,Memphis Grizzlies,"22-20, 14-8 Home","12-30, 5-17 Away",120,82,NULL,NULL,Final,NULL,27,31,37,25,NULL,16,11,23,32,NULL,NBA
+21,220128029,2002,"Mon, Jan 28",Memphis Grizzlies,LA Clippers,"13-31, 8-13 Home","22-23, 3-15 Away",119,115,NULL,NULL,Final,NULL,20,20,36,24,19,25,27,23,25,15,NBA
+22,220201029,2002,"Fri, Feb 1",Memphis Grizzlies,Los Angeles Lakers,"13-33, 8-14 Home","32-12, 14-8 Away",85,100,NULL,NULL,Final,NULL,21,23,25,16,NULL,19,24,25,32,NULL,NBA
+23,220205029,2002,"Tue, Feb 5",Memphis Grizzlies,Utah Jazz,"14-34, 9-15 Home","25-24, 8-14 Away",86,79,NULL,NULL,Final,NULL,32,19,21,14,NULL,21,11,18,29,NULL,NBA
+24,220212010,2002,"Tue, Feb 12",Houston Rockets,Memphis Grizzlies,"17-33, 12-14 Home","14-36, 5-21 Away",85,78,NULL,NULL,Final,NULL,24,20,15,26,NULL,22,24,15,17,NULL,NBA
+25,220217003,2002,"Sun, Feb 17",Charlotte Hornets,Memphis Grizzlies,"25-26, 11-15 Home","15-37, 6-21 Away",78,92,NULL,NULL,Final,NULL,12,26,27,13,NULL,23,23,14,32,NULL,NBA
+26,220221029,2002,"Thu, Feb 21",Memphis Grizzlies,Phoenix Suns,"15-39, 9-17 Home","26-28, 11-15 Away",72,78,NULL,NULL,Final,NULL,25,18,23,6,NULL,15,27,19,17,NULL,NBA
+27,220226006,2002,"Tue, Feb 26",Dallas Mavericks,Memphis Grizzlies,"40-17, 21-8 Home","15-41, 6-23 Away",104,91,NULL,NULL,Final,NULL,34,24,26,20,NULL,21,22,25,23,NULL,NBA
+28,220301007,2002,"Fri, Mar 1",Denver Nuggets,Memphis Grizzlies,"17-38, 12-17 Home","15-43, 6-25 Away",96,83,NULL,NULL,Final,NULL,27,22,31,16,NULL,25,24,11,23,NULL,NBA
+29,220304001,2002,"Mon, Mar 4",Atlanta Hawks,Memphis Grizzlies,"22-37, 14-13 Home","15-45, 6-26 Away",95,76,NULL,NULL,Final,NULL,29,19,25,22,NULL,18,22,15,21,NULL,NBA
+30,220309029,2002,"Sat, Mar 9",Memphis Grizzlies,Miami Heat,"16-46, 10-20 Home","28-33, 16-17 Away",88,93,NULL,NULL,Final,NULL,16,24,21,27,NULL,24,21,26,22,NULL,NBA
+31,220312024,2002,"Tue, Mar 12",San Antonio Spurs,Memphis Grizzlies,"43-21, 23-9 Home","17-47, 6-27 Away",98,84,NULL,NULL,Final,NULL,19,29,18,32,NULL,21,22,24,17,NULL,NBA
+32,220317029,2002,"Sun, Mar 17",Memphis Grizzlies,New Jersey Nets,"17-49, 11-22 Home","42-24, 16-18 Away",76,87,NULL,NULL,Final,NULL,17,17,21,21,NULL,15,31,24,17,NULL,NBA
+33,220321029,2002,"Thu, Mar 21",Memphis Grizzlies,Minnesota Timberwolves,"17-51, 11-24 Home","42-26, 18-17 Away",93,95,NULL,NULL,Final,NULL,34,18,19,22,NULL,27,29,18,21,NULL,NBA
+34,220325022,2002,"Mon, Mar 25",Portland Trail Blazers,Memphis Grizzlies,"43-27, 25-10 Home","18-52, 7-28 Away",100,103,NULL,NULL,Final,NULL,37,20,26,17,NULL,17,27,20,39,NULL,NBA
+35,220330029,2002,"Sat, Mar 30",Memphis Grizzlies,Golden State Warriors,"19-53, 12-24 Home","18-55, 7-31 Away",105,99,NULL,NULL,Final,NULL,26,25,33,21,NULL,27,22,22,28,NULL,NBA
+36,220403016,2002,"Wed, Apr 3",Minnesota Timberwolves,Memphis Grizzlies,"46-28, 27-11 Home","19-55, 7-30 Away",92,81,NULL,NULL,Final,NULL,21,24,25,22,NULL,18,22,17,24,NULL,NBA
+37,220406027,2002,"Sat, Apr 6",Washington Wizards,Memphis Grizzlies,"35-42, 20-18 Home","20-56, 7-31 Away",88,85,NULL,NULL,Final,NULL,26,21,18,23,NULL,26,22,13,24,NULL,NBA
+38,220411029,2002,"Thu, Apr 11",Memphis Grizzlies,Portland Trail Blazers,"22-56, 15-25 Home","46-33, 18-22 Away",102,99,NULL,NULL,Final,NULL,22,26,30,24,NULL,26,16,32,25,NULL,NBA
+39,220414010,2002,"Sun, Apr 14",Houston Rockets,Memphis Grizzlies,"28-52, 18-23 Home","23-57, 8-31 Away",95,98,NULL,NULL,Final,NULL,27,25,23,20,NULL,36,20,22,20,NULL,NBA
+40,211101029,2002,"Thu, Nov 1",Memphis Grizzlies,Detroit Pistons,"0-1, 0-1 Home","1-1, 1-1 Away",80,90,NULL,NULL,Final,NULL,21,22,17,20,NULL,18,18,25,29,NULL,NBA
+41,211104029,2002,"Sun, Nov 4",Memphis Grizzlies,Dallas Mavericks,"0-3, 0-2 Home","3-1, 2-1 Away",85,94,NULL,NULL,Final,NULL,28,15,23,19,NULL,25,25,22,22,NULL,NBA
+42,211107012,2002,"Wed, Nov 7",LA Clippers,Memphis Grizzlies,"2-3, 2-1 Home","0-5, 0-3 Away",108,92,NULL,NULL,Final,NULL,33,19,22,34,NULL,15,26,27,24,NULL,NBA
+43,211112029,2002,"Mon, Nov 12",Memphis Grizzlies,Golden State Warriors,"0-7, 0-3 Home","5-3, 4-2 Away",79,86,NULL,NULL,Final,NULL,17,21,22,19,NULL,20,27,16,23,NULL,NBA
+44,211117029,2002,"Sat, Nov 17",Memphis Grizzlies,Cleveland Cavaliers,"1-8, 1-4 Home","2-9, 2-5 Away",98,93,NULL,NULL,Final,NULL,24,19,29,26,NULL,25,29,20,19,NULL,NBA
+45,211123029,2002,"Fri, Nov 23",Memphis Grizzlies,Phoenix Suns,"1-10, 1-5 Home","7-6, 3-2 Away",89,103,NULL,NULL,Final,NULL,25,21,22,21,NULL,27,30,26,20,NULL,NBA
+46,211126029,2002,"Mon, Nov 26",Memphis Grizzlies,Sacramento Kings,"2-11, 2-5 Home","10-4, 3-4 Away",98,94,NULL,NULL,Final,NULL,22,29,23,24,NULL,34,22,21,17,NULL,NBA
+47,211130029,2002,"Fri, Nov 30",Memphis Grizzlies,Houston Rockets,"3-12, 3-5 Home","7-9, 2-6 Away",102,85,NULL,NULL,Final,NULL,21,20,34,27,NULL,22,19,17,27,NULL,NBA
+48,211203019,2002,"Mon, Dec 3",Orlando Magic,Memphis Grizzlies,"9-9, 4-4 Home","4-13, 1-8 Away",113,71,NULL,NULL,Final,NULL,25,37,29,22,NULL,19,26,15,11,NULL,NBA
+49,211208029,2002,"Sat, Dec 8",Memphis Grizzlies,Philadelphia 76ers,"5-14, 4-6 Home","8-12, 4-8 Away",92,84,NULL,NULL,Final,CSN,35,18,19,20,NULL,24,16,21,23,NULL,NBA
+50,211213007,2002,"Thu, Dec 13",Denver Nuggets,Memphis Grizzlies,"8-14, 6-6 Home","5-16, 1-9 Away",89,86,NULL,NULL,Final,NULL,20,17,29,23,NULL,21,26,20,19,NULL,NBA
+51,211216023,2002,"Sun, Dec 16",Sacramento Kings,Memphis Grizzlies,"18-7, 12-1 Home","5-18, 1-11 Away",104,87,NULL,NULL,Final,NULL,35,19,23,27,NULL,20,18,21,28,NULL,NBA
+52,211220018,2002,"Thu, Dec 20",New York Knicks,Memphis Grizzlies,"12-14, 8-5 Home","6-19, 2-11 Away",88,90,NULL,NULL,Final,NULL,14,23,28,23,NULL,18,22,34,16,NULL,NBA
+53,211223002,2002,"Sun, Dec 23",Boston Celtics,Memphis Grizzlies,"17-8, 10-3 Home","7-20, 2-12 Away",85,80,NULL,NULL,Final,NULL,30,16,20,19,NULL,16,18,25,21,NULL,NBA
+54,211228014,2002,"Fri, Dec 28",Miami Heat,Memphis Grizzlies,"5-22, 3-12 Home","9-20, 3-12 Away",86,91,NULL,NULL,Final,NULL,18,24,21,23,NULL,23,24,25,19,NULL,NBA
+55,220102017,2002,"Wed, Jan 2",New Jersey Nets,Memphis Grizzlies,"20-10, 11-3 Home","9-22, 3-13 Away",92,74,NULL,NULL,Final,NULL,29,22,26,15,NULL,28,7,21,18,NULL,NBA
+56,220106029,2002,"Sun, Jan 6",Memphis Grizzlies,Seattle SuperSonics,"9-24, 6-11 Home","17-16, 6-10 Away",77,89,NULL,NULL,Final,NULL,23,17,18,19,NULL,19,29,19,22,NULL,NBA
+57,220110021,2002,"Thu, Jan 10",Phoenix Suns,Memphis Grizzlies,"18-18, 11-9 Home","11-24, 4-13 Away",96,102,NULL,NULL,Final,NULL,22,26,28,20,NULL,29,26,23,24,NULL,NBA
+58,220114013,2002,"Mon, Jan 14",Los Angeles Lakers,Memphis Grizzlies,"27-8, 17-2 Home","12-25, 5-14 Away",120,81,NULL,NULL,Final,NULL,32,31,35,22,NULL,27,18,14,22,NULL,NBA
+59,220119029,2002,"Sat, Jan 19",Memphis Grizzlies,Orlando Magic,"12-27, 7-13 Home","21-21, 10-13 Away",103,119,NULL,NULL,Final,NULL,17,27,35,24,NULL,41,28,27,23,NULL,NBA
+60,220123009,2002,"Wed, Jan 23",Golden State Warriors,Memphis Grizzlies,"14-27, 9-12 Home","12-29, 5-16 Away",107,95,NULL,NULL,Final,NULL,32,26,19,30,NULL,29,27,19,20,NULL,NBA
+61,220126004,2002,"Sat, Jan 26",Chicago Bulls,Memphis Grizzlies,"9-33, 8-14 Home","12-31, 5-18 Away",95,92,NULL,NULL,Final,NULL,25,27,17,26,NULL,28,30,21,13,NULL,NBA
+62,220130011,2002,"Wed, Jan 30",Indiana Pacers,Memphis Grizzlies,"24-23, 14-9 Home","13-32, 5-19 Away",83,82,NULL,NULL,Final,NULL,25,16,13,29,NULL,17,22,27,16,NULL,NBA
+63,220203029,2002,"Sun, Feb 3",Memphis Grizzlies,Charlotte Hornets,"13-34, 8-15 Home","23-23, 14-11 Away",79,97,NULL,NULL,Final,NULL,18,25,22,14,NULL,25,22,28,22,NULL,NBA
+64,220207015,2002,"Thu, Feb 7",Milwaukee Bucks,Memphis Grizzlies,"28-18, 15-6 Home","14-35, 5-20 Away",107,103,NULL,NULL,Final,NULL,19,42,21,25,NULL,29,21,24,29,NULL,NBA
+65,220214029,2002,"Thu, Feb 14",Memphis Grizzlies,Denver Nuggets,"14-37, 9-16 Home","15-32, 4-17 Away",85,100,NULL,NULL,Final,NULL,25,19,26,15,NULL,24,23,24,29,NULL,NBA
+66,220219024,2002,"Tue, Feb 19",San Antonio Spurs,Memphis Grizzlies,"34-18, 18-8 Home","15-38, 6-22 Away",99,93,NULL,NULL,Final,NULL,27,27,17,16,12,25,16,30,16,6,NBA
+67,220225029,2002,"Mon, Feb 25",Memphis Grizzlies,LA Clippers,"15-40, 9-18 Home","28-30, 8-20 Away",77,90,NULL,NULL,Final,NULL,12,17,33,15,NULL,26,20,22,22,NULL,NBA
+68,220228026,2002,"Thu, Feb 28",Utah Jazz,Memphis Grizzlies,"32-25, 18-10 Home","15-42, 6-24 Away",114,70,NULL,NULL,Final,NULL,33,18,29,34,NULL,20,15,18,17,NULL,NBA
+69,220303029,2002,"Sun, Mar 3",Memphis Grizzlies,Seattle SuperSonics,"15-44, 9-19 Home","33-27, 17-15 Away",71,96,NULL,NULL,Final,NULL,20,20,12,19,NULL,25,26,23,22,NULL,NBA
+70,220307029,2002,"Thu, Mar 7",Memphis Grizzlies,Indiana Pacers,"16-45, 10-19 Home","30-31, 12-19 Away",122,111,NULL,NULL,Final,NULL,37,34,15,36,NULL,33,26,27,25,NULL,NBA
+71,220311029,2002,"Mon, Mar 11",Memphis Grizzlies,Utah Jazz,"17-46, 11-20 Home","34-29, 14-17 Away",79,78,NULL,NULL,Final,NULL,22,15,26,16,NULL,18,24,18,18,NULL,NBA
+72,220315029,2002,"Fri, Mar 15",Memphis Grizzlies,Boston Celtics,"17-48, 11-21 Home","38-27, 18-16 Away",97,103,NULL,NULL,Final,NULL,26,25,24,22,NULL,27,26,24,26,NULL,NBA
+73,220319029,2002,"Tue, Mar 19",Memphis Grizzlies,New York Knicks,"17-50, 11-23 Home","26-40, 8-23 Away",92,101,NULL,NULL,Final,NULL,29,16,31,16,NULL,29,17,22,33,NULL,NBA
+74,220323006,2002,"Sat, Mar 23",Dallas Mavericks,Memphis Grizzlies,"48-21, 27-10 Home","17-52, 6-28 Away",111,100,NULL,NULL,Final,NULL,36,27,31,17,NULL,25,22,28,25,NULL,NBA
+75,220327025,2002,"Wed, Mar 27",Seattle SuperSonics,Memphis Grizzlies,"41-31, 23-13 Home","18-53, 7-29 Away",96,82,NULL,NULL,Final,NULL,25,22,23,26,NULL,24,23,18,17,NULL,NBA
+76,220402029,2002,"Tue, Apr 2",Memphis Grizzlies,Sacramento Kings,"19-54, 12-25 Home","54-19, 21-15 Away",83,107,NULL,NULL,Final,NULL,20,17,20,26,NULL,28,31,28,20,NULL,NBA
+77,220405029,2002,"Fri, Apr 5",Memphis Grizzlies,Houston Rockets,"20-55, 13-25 Home","27-48, 9-27 Away",99,81,NULL,NULL,Final,NULL,31,29,15,24,NULL,16,23,27,15,NULL,NBA
+78,220409029,2002,"Tue, Apr 9",Memphis Grizzlies,Denver Nuggets,"21-56, 14-25 Home","24-53, 7-32 Away",97,86,NULL,NULL,Final,NULL,28,33,18,18,NULL,26,23,12,25,NULL,NBA
+79,220413029,2002,"Sat, Apr 13",Memphis Grizzlies,San Antonio Spurs,"22-57, 15-26 Home","56-24, 25-15 Away",92,113,NULL,NULL,Final,NULL,23,21,24,24,NULL,44,20,27,22,NULL,NBA
+80,220416012,2002,"Tue, Apr 16",LA Clippers,Memphis Grizzlies,"39-42, 25-16 Home","23-58, 8-32 Away",92,84,NULL,NULL,Final,NULL,24,24,25,19,NULL,26,15,24,19,NULL,NBA
+81,220417025,2002,"Wed, Apr 17",Seattle SuperSonics,Memphis Grizzlies,"45-37, 26-15 Home","23-59, 8-33 Away",109,94,NULL,NULL,Final,NULL,26,36,37,10,NULL,29,17,24,24,NULL,NBA

@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,400974773,2018,"Fri, Oct 20",Washington Wizards,Detroit Pistons,"2-0, 2-0 Home","1-1, 0-1 Away",115,111,NULL,NULL,Final,NULL,29,29,33,24,NULL,31,34,16,30,NULL,NBA
+1,400974792,2018,"Mon, Oct 23",Detroit Pistons,Philadelphia 76ers,"2-2, 1-1 Home","1-3, 1-2 Away",86,97,NULL,NULL,Final,NULL,22,21,24,19,NULL,31,25,19,22,NULL,NBA
+2,400974835,2018,"Sat, Oct 28",LA Clippers,Detroit Pistons,"4-1, 2-1 Home","4-2, 2-1 Away",87,95,NULL,NULL,Final,NULL,24,31,17,15,NULL,27,18,22,28,NULL,NBA
+3,400974855,2018,"Tue, Oct 31",Los Angeles Lakers,Detroit Pistons,"3-4, 2-3 Home","5-3, 3-2 Away",113,93,NULL,NULL,Final,NBATV,25,33,29,26,NULL,22,23,27,21,NULL,NBA
+4,400974883,2018,"Sat, Nov 4",Detroit Pistons,Sacramento Kings,"7-3, 4-1 Home","1-8, 1-5 Away",108,99,NULL,NULL,Final,NULL,29,23,33,23,NULL,26,23,25,25,NULL,NBA
+5,400974920,2018,"Fri, Nov 10",Detroit Pistons,Atlanta Hawks,"9-3, 6-1 Home","2-10, 2-6 Away",111,104,NULL,NULL,Final,NULL,26,31,19,35,NULL,22,19,28,35,NULL,NBA
+6,400974960,2018,"Wed, Nov 15",Milwaukee Bucks,Detroit Pistons,"8-6, 5-3 Home","10-4, 3-3 Away",99,95,NULL,NULL,Final,NULL,26,15,34,24,NULL,23,18,21,33,NULL,NBA
+7,400974989,2018,"Sun, Nov 19",Minnesota Timberwolves,Detroit Pistons,"10-6, 5-2 Home","11-5, 4-4 Away",97,100,NULL,NULL,Final,NULL,24,29,27,17,NULL,22,27,22,29,NULL,NBA
+8,400975024,2018,"Fri, Nov 24",Oklahoma City Thunder,Detroit Pistons,"8-10, 6-3 Home","12-6, 5-4 Away",98,99,NULL,NULL,Final,NULL,29,30,18,21,NULL,25,24,24,26,NULL,NBA
+9,400975054,2018,"Wed, Nov 29",Detroit Pistons,Phoenix Suns,"14-6, 8-2 Home","8-15, 4-6 Away",131,107,NULL,NULL,Final,NULL,36,33,35,27,NULL,19,22,29,37,NULL,NBA
+10,400975081,2018,"Sat, Dec 2",Philadelphia 76ers,Detroit Pistons,"13-9, 7-4 Home","14-8, 6-6 Away",108,103,NULL,NULL,Final,NULL,32,31,17,28,NULL,25,22,33,23,NULL,NBA
+11,400975110,2018,"Wed, Dec 6",Milwaukee Bucks,Detroit Pistons,"13-10, 7-4 Home","14-10, 6-8 Away",104,100,NULL,NULL,Final,NULL,30,30,16,28,NULL,27,24,25,24,NULL,NBA
+12,400975137,2018,"Sun, Dec 10",Detroit Pistons,Boston Celtics,"14-12, 8-4 Home","23-5, 11-3 Away",81,91,NULL,NULL,Final,NULL,21,16,22,22,NULL,29,15,29,18,NULL,NBA
+13,400975164,2018,"Thu, Dec 14",Atlanta Hawks,Detroit Pistons,"6-22, 3-10 Home","15-13, 7-8 Away",91,105,NULL,NULL,Final,NULL,31,15,18,27,NULL,30,29,26,20,NULL,NBA
+14,400975189,2018,"Sun, Dec 17",Detroit Pistons,Orlando Magic,"17-13, 9-5 Home","11-20, 5-12 Away",114,110,NULL,NULL,Final,NULL,36,24,36,18,NULL,23,20,36,31,NULL,NBA
+15,400975222,2018,"Fri, Dec 22",Detroit Pistons,New York Knicks,"18-14, 10-5 Home","17-15, 2-10 Away",104,101,NULL,NULL,Final,NULL,25,27,22,30,NULL,21,23,31,26,NULL,NBA
+16,400975262,2018,"Thu, Dec 28",Orlando Magic,Detroit Pistons,"12-24, 7-9 Home","19-15, 8-10 Away",102,89,NULL,NULL,Final,NULL,33,17,27,25,NULL,28,22,23,16,NULL,NBA
+17,400975304,2018,"Wed, Jan 3",Miami Heat,Detroit Pistons,"20-17, 9-9 Home","20-16, 8-11 Away",111,104,NULL,NULL,Final,NULL,24,32,25,30,NULL,29,23,29,23,NULL,NBA
+18,400975326,2018,"Sat, Jan 6",Detroit Pistons,Houston Rockets,"21-17, 13-5 Home","27-11, 13-5 Away",108,101,NULL,NULL,Final,NULL,31,26,31,20,NULL,37,21,19,24,NULL,NBA
+19,400975352,2018,"Wed, Jan 10",Brooklyn Nets,Detroit Pistons,"15-26, 9-13 Home","22-18, 9-13 Away",80,114,NULL,NULL,Final,NULL,26,15,20,19,NULL,34,29,27,24,NULL,NBA
+20,400975384,2018,"Mon, Jan 15",Detroit Pistons,Charlotte Hornets,"22-20, 13-6 Home","17-25, 6-13 Away",107,118,NULL,NULL,Final,NBATV,27,29,24,27,NULL,27,23,34,34,NULL,NBA
+21,400975415,2018,"Fri, Jan 19",Detroit Pistons,Washington Wizards,"22-22, 13-7 Home","26-20, 11-11 Away",112,122,NULL,NULL,Final,ESPN,29,17,28,38,NULL,19,27,45,31,NULL,NBA
+22,400975448,2018,"Wed, Jan 24",Detroit Pistons,Utah Jazz,"22-24, 13-9 Home","20-28, 6-19 Away",95,98,NULL,NULL,Final/OT,NULL,24,25,15,25,6,24,19,22,24,9,NBA
+23,400975480,2018,"Sun, Jan 28",Cleveland Cavaliers,Detroit Pistons,"29-19, 18-6 Home","22-26, 9-16 Away",121,104,NULL,NULL,Final,NULL,33,25,32,31,NULL,28,33,26,17,NULL,NBA
+24,400975507,2018,"Thu, Feb 1",Detroit Pistons,Memphis Grizzlies,"24-26, 15-10 Home","18-33, 5-18 Away",104,102,NULL,NULL,Final,NULL,27,24,31,22,NULL,25,26,25,26,NULL,NBA
+25,400975536,2018,"Mon, Feb 5",Detroit Pistons,Portland Trail Blazers,"26-26, 17-10 Home","29-25, 14-15 Away",111,91,NULL,NULL,Final,NBATV,22,27,30,32,NULL,20,23,24,24,NULL,NBA
+26,400975563,2018,"Fri, Feb 9",Detroit Pistons,LA Clippers,"27-27, 18-11 Home","28-25, 12-13 Away",95,108,NULL,NULL,Final,ESPN,30,26,24,15,NULL,31,21,25,31,NULL,NBA
+27,400975587,2018,"Mon, Feb 12",Detroit Pistons,New Orleans Pelicans,"27-29, 18-12 Home","30-26, 16-14 Away",103,118,NULL,NULL,Final,NULL,31,21,28,23,NULL,32,28,35,23,NULL,NBA
+28,400975619,2018,"Fri, Feb 23",Detroit Pistons,Boston Celtics,"28-30, 19-13 Home","41-19, 20-8 Away",98,110,NULL,NULL,Final,NULL,28,21,28,21,NULL,23,38,25,24,NULL,NBA
+29,400975647,2018,"Mon, Feb 26",Toronto Raptors,Detroit Pistons,"42-17, 25-5 Home","28-32, 9-19 Away",123,94,NULL,NULL,Final,NULL,30,29,34,30,NULL,26,27,22,19,NULL,NBA
+30,400975672,2018,"Fri, Mar 2",Orlando Magic,Detroit Pistons,"19-43, 12-18 Home","29-33, 9-20 Away",115,106,NULL,NULL,Final/OT,NULL,31,22,29,22,11,29,23,30,22,2,NBA
+31,400975696,2018,"Mon, Mar 5",Cleveland Cavaliers,Detroit Pistons,"37-26, 22-11 Home","29-35, 9-22 Away",112,90,NULL,NULL,Final,NBATV,26,28,36,22,NULL,28,21,21,20,NULL,NBA
+32,400975723,2018,"Fri, Mar 9",Detroit Pistons,Chicago Bulls,"30-36, 21-14 Home","22-43, 7-25 Away",99,83,NULL,NULL,Final,NULL,21,28,24,26,NULL,26,21,15,21,NULL,NBA
+33,400975772,2018,"Thu, Mar 15",Denver Nuggets,Detroit Pistons,"38-31, 27-10 Home","30-38, 9-24 Away",120,113,NULL,NULL,Final,NULL,33,32,33,22,NULL,29,22,33,29,NULL,NBA
+34,400975803,2018,"Mon, Mar 19",Sacramento Kings,Detroit Pistons,"23-49, 12-23 Home","31-39, 10-25 Away",90,106,NULL,NULL,Final,NULL,21,23,22,24,NULL,25,19,29,33,NULL,NBA
+35,400975820,2018,"Thu, Mar 22",Houston Rockets,Detroit Pistons,"58-14, 28-6 Home","32-40, 11-26 Away",100,96,NULL,NULL,Final/OT,NULL,21,27,23,17,12,27,23,18,20,8,NBA
+36,400975850,2018,"Mon, Mar 26",Detroit Pistons,Los Angeles Lakers,"34-40, 23-14 Home","32-41, 14-25 Away",112,106,NULL,NULL,Final,NULL,26,27,28,31,NULL,29,26,21,30,NULL,NBA
+37,400975885,2018,"Sat, Mar 31",New York Knicks,Detroit Pistons,"27-50, 18-19 Home","36-40, 12-26 Away",109,115,NULL,NULL,Final,NULL,27,27,30,25,NULL,30,26,29,30,NULL,NBA
+38,400975915,2018,"Wed, Apr 4",Detroit Pistons,Philadelphia 76ers,"37-41, 24-15 Home","48-30, 21-19 Away",108,115,NULL,NULL,Final,NULL,28,21,22,37,NULL,36,29,23,27,NULL,NBA
+39,400975945,2018,"Sun, Apr 8",Memphis Grizzlies,Detroit Pistons,"22-58, 16-25 Home","38-42, 13-27 Away",130,117,NULL,NULL,Final,NBATV,30,32,34,34,NULL,22,34,28,33,NULL,NBA
+40,400974700,2018,"Wed, Oct 18",Detroit Pistons,Charlotte Hornets,"1-0, 1-0 Home","0-1, 0-1 Away",102,90,NULL,NULL,Final,NULL,29,27,26,20,NULL,27,18,25,20,NULL,NBA
+41,400974781,2018,"Sat, Oct 21",New York Knicks,Detroit Pistons,"0-2, 0-1 Home","2-1, 1-1 Away",107,111,NULL,NULL,Final,NULL,28,36,16,27,NULL,19,32,28,32,NULL,NBA
+42,400974807,2018,"Wed, Oct 25",Detroit Pistons,Minnesota Timberwolves,"3-2, 2-1 Home","2-3, 1-2 Away",122,101,NULL,NULL,Final,NULL,23,40,28,31,NULL,26,18,29,28,NULL,NBA
+43,400974842,2018,"Sun, Oct 29",Golden State Warriors,Detroit Pistons,"4-3, 2-2 Home","5-2, 3-1 Away",107,115,NULL,NULL,Final,NULL,35,22,24,26,NULL,27,25,30,33,NULL,NBA
+44,400974870,2018,"Fri, Nov 3",Detroit Pistons,Milwaukee Bucks,"6-3, 3-1 Home","4-5, 2-2 Away",105,96,NULL,NULL,Final,NULL,28,31,23,23,NULL,26,22,24,24,NULL,NBA
+45,400974910,2018,"Wed, Nov 8",Detroit Pistons,Indiana Pacers,"8-3, 5-1 Home","5-7, 2-5 Away",114,97,NULL,NULL,Final,NULL,22,37,23,32,NULL,30,22,23,22,NULL,NBA
+46,400974940,2018,"Sun, Nov 12",Detroit Pistons,Miami Heat,"10-3, 7-1 Home","6-7, 3-4 Away",112,103,NULL,NULL,Final,NULL,31,24,28,29,NULL,29,29,23,22,NULL,NBA
+47,400974968,2018,"Fri, Nov 17",Indiana Pacers,Detroit Pistons,"8-8, 4-3 Home","10-5, 3-4 Away",107,100,NULL,NULL,Final,NULL,23,24,24,36,NULL,32,26,23,19,NULL,NBA
+48,400974993,2018,"Mon, Nov 20",Detroit Pistons,Cleveland Cavaliers,"11-6, 7-2 Home","10-7, 6-3 Away",88,116,NULL,NULL,Final,NULL,23,23,16,26,NULL,36,37,28,15,NULL,NBA
+49,400975043,2018,"Mon, Nov 27",Boston Celtics,Detroit Pistons,"18-4, 8-2 Home","13-6, 6-4 Away",108,118,NULL,NULL,Final,NULL,23,34,29,22,NULL,31,29,26,32,NULL,NBA
+50,400975071,2018,"Fri, Dec 1",Washington Wizards,Detroit Pistons,"12-10, 6-5 Home","14-7, 6-5 Away",109,91,NULL,NULL,Final,NULL,26,20,35,28,NULL,26,26,15,24,NULL,NBA
+51,400975099,2018,"Mon, Dec 4",San Antonio Spurs,Detroit Pistons,"16-8, 11-2 Home","14-9, 6-7 Away",96,93,NULL,NULL,Final,NULL,28,22,19,27,NULL,29,24,20,20,NULL,NBA
+52,400975119,2018,"Fri, Dec 8",Detroit Pistons,Golden State Warriors,"14-11, 8-3 Home","21-6, 13-3 Away",98,102,NULL,NULL,Final,ESPN,24,26,17,31,NULL,30,16,31,25,NULL,NBA
+53,400975149,2018,"Tue, Dec 12",Detroit Pistons,Denver Nuggets,"14-13, 8-5 Home","15-12, 5-10 Away",84,103,NULL,NULL,Final,NULL,18,22,20,24,NULL,26,23,31,23,NULL,NBA
+54,400975170,2018,"Fri, Dec 15",Indiana Pacers,Detroit Pistons,"16-13, 10-6 Home","16-13, 8-8 Away",98,104,NULL,NULL,Final,NULL,19,35,20,24,NULL,27,25,34,18,NULL,NBA
+55,400975212,2018,"Wed, Dec 20",Dallas Mavericks,Detroit Pistons,"9-23, 7-11 Home","17-14, 8-9 Away",110,93,NULL,NULL,Final,NULL,22,43,24,21,NULL,25,28,13,27,NULL,NBA
+56,400975244,2018,"Tue, Dec 26",Detroit Pistons,Indiana Pacers,"19-14, 11-5 Home","19-15, 8-8 Away",107,83,NULL,NULL,Final,NULL,40,18,24,25,NULL,19,26,21,17,NULL,NBA
+57,400975276,2018,"Sat, Dec 30",Detroit Pistons,San Antonio Spurs,"20-15, 12-5 Home","25-12, 8-10 Away",93,79,NULL,NULL,Final,NULL,24,15,24,30,NULL,13,23,21,22,NULL,NBA
+58,400975315,2018,"Fri, Jan 5",Philadelphia 76ers,Detroit Pistons,"19-19, 9-9 Home","20-17, 8-12 Away",114,78,NULL,NULL,Final,NULL,32,30,35,17,NULL,15,17,29,17,NULL,NBA
+59,400975341,2018,"Mon, Jan 8",New Orleans Pelicans,Detroit Pistons,"20-19, 10-9 Home","21-18, 8-13 Away",112,109,NULL,NULL,Final,NULL,37,22,27,26,NULL,34,22,28,25,NULL,NBA
+60,400975378,2018,"Sat, Jan 13",Chicago Bulls,Detroit Pistons,"16-27, 10-11 Home","22-19, 9-14 Away",107,105,NULL,NULL,Final,NULL,36,24,27,20,NULL,31,30,23,21,NULL,NBA
+61,400975402,2018,"Wed, Jan 17",Toronto Raptors,Detroit Pistons,"30-13, 16-3 Home","22-21, 9-15 Away",96,91,NULL,NULL,Final,NULL,31,23,19,23,NULL,18,33,22,18,NULL,NBA
+62,400975431,2018,"Sun, Jan 21",Detroit Pistons,Brooklyn Nets,"22-23, 13-8 Home","18-29, 8-14 Away",100,101,NULL,NULL,Final,NULL,20,28,20,32,NULL,30,23,24,24,NULL,NBA
+63,400975470,2018,"Sat, Jan 27",Detroit Pistons,Oklahoma City Thunder,"22-25, 13-10 Home","29-20, 11-13 Away",108,121,NULL,NULL,Final,NULL,24,33,24,27,NULL,36,33,29,23,NULL,NBA
+64,400975493,2018,"Tue, Jan 30",Detroit Pistons,Cleveland Cavaliers,"23-26, 14-10 Home","29-20, 11-14 Away",125,114,NULL,NULL,Final,TNT,33,26,30,36,NULL,27,36,21,30,NULL,NBA
+65,400975522,2018,"Sat, Feb 3",Detroit Pistons,Miami Heat,"25-26, 16-10 Home","29-24, 16-14 Away",111,107,NULL,NULL,Final,NULL,27,27,22,35,NULL,26,24,27,30,NULL,NBA
+66,400975551,2018,"Wed, Feb 7",Detroit Pistons,Brooklyn Nets,"27-26, 18-10 Home","19-37, 8-19 Away",115,106,NULL,NULL,Final,NULL,26,27,26,36,NULL,21,29,23,33,NULL,NBA
+67,400975580,2018,"Sun, Feb 11",Atlanta Hawks,Detroit Pistons,"18-39, 13-17 Home","27-28, 9-17 Away",118,115,NULL,NULL,Final,NULL,28,27,27,36,NULL,23,33,24,35,NULL,NBA
+68,400975599,2018,"Wed, Feb 14",Detroit Pistons,Atlanta Hawks,"28-29, 19-12 Home","18-41, 5-24 Away",104,98,NULL,NULL,Final,NULL,22,23,37,22,NULL,14,19,28,37,NULL,NBA
+69,400975638,2018,"Sun, Feb 25",Charlotte Hornets,Detroit Pistons,"27-33, 17-15 Home","28-31, 9-18 Away",114,98,NULL,NULL,Final,NULL,32,38,26,18,NULL,19,27,25,27,NULL,NBA
+70,400975659,2018,"Wed, Feb 28",Detroit Pistons,Milwaukee Bucks,"29-32, 20-13 Home","33-28, 14-16 Away",110,87,NULL,NULL,Final,NULL,32,21,32,25,NULL,32,12,26,17,NULL,NBA
+71,400975684,2018,"Sat, Mar 3",Miami Heat,Detroit Pistons,"33-30, 17-13 Home","29-34, 9-21 Away",105,96,NULL,NULL,Final,NULL,27,32,15,31,NULL,28,18,24,26,NULL,NBA
+72,400975712,2018,"Wed, Mar 7",Detroit Pistons,Toronto Raptors,"29-36, 20-14 Home","47-17, 20-12 Away",119,121,NULL,NULL,Final/OT,ESPN,23,36,25,30,5,27,18,40,29,7,NBA
+73,400975759,2018,"Tue, Mar 13",Utah Jazz,Detroit Pistons,"38-30, 22-11 Home","30-37, 9-23 Away",110,79,NULL,NULL,Final,NULL,42,22,22,24,NULL,21,18,20,20,NULL,NBA
+74,400975791,2018,"Sat, Mar 17",Portland Trail Blazers,Detroit Pistons,"43-26, 25-11 Home","30-39, 9-25 Away",100,87,NULL,NULL,Final,NULL,31,29,20,20,NULL,20,25,18,24,NULL,NBA
+75,400975809,2018,"Tue, Mar 20",Phoenix Suns,Detroit Pistons,"19-53, 9-27 Home","32-39, 11-25 Away",88,115,NULL,NULL,Final,NULL,19,19,26,24,NULL,19,25,36,35,NULL,NBA
+76,400975835,2018,"Sat, Mar 24",Detroit Pistons,Chicago Bulls,"33-40, 22-14 Home","24-49, 9-27 Away",117,95,NULL,NULL,Final,NULL,36,30,29,22,NULL,22,25,29,19,NULL,NBA
+77,400975870,2018,"Thu, Mar 29",Detroit Pistons,Washington Wizards,"35-40, 24-14 Home","41-34, 20-17 Away",103,92,NULL,NULL,Final,NULL,23,26,32,22,NULL,24,25,17,26,NULL,NBA
+78,400975894,2018,"Sun, Apr 1",Brooklyn Nets,Detroit Pistons,"25-52, 14-26 Home","37-40, 13-26 Away",96,108,NULL,NULL,Final,NULL,28,20,22,26,NULL,33,29,21,25,NULL,NBA
+79,400975927,2018,"Fri, Apr 6",Detroit Pistons,Dallas Mavericks,"38-41, 25-15 Home","24-56, 9-31 Away",113,106,NULL,NULL,Final/OT,NULL,22,31,25,23,12,24,30,21,26,5,NBA
+80,400975950,2018,"Mon, Apr 9",Detroit Pistons,Toronto Raptors,"38-43, 25-16 Home","59-22, 25-15 Away",98,108,NULL,NULL,Final,NULL,32,28,20,18,NULL,32,25,28,23,NULL,NBA
+81,400975970,2018,"Wed, Apr 11",Chicago Bulls,Detroit Pistons,"27-55, 17-24 Home","39-43, 14-27 Away",87,119,NULL,NULL,Final,NULL,21,29,24,13,NULL,35,31,28,25,NULL,NBA

@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,400974772,2018,"Fri, Oct 20",Philadelphia 76ers,Boston Celtics,"0-2, 0-1 Home","1-2, 1-1 Away",92,102,NULL,NULL,Final,NULL,21,29,22,20,NULL,24,22,23,33,NULL,NBA
+1,400974792,2018,"Mon, Oct 23",Detroit Pistons,Philadelphia 76ers,"2-2, 1-1 Home","1-3, 1-2 Away",86,97,NULL,NULL,Final,NULL,22,21,24,19,NULL,31,25,19,22,NULL,NBA
+2,400974832,2018,"Sat, Oct 28",Dallas Mavericks,Philadelphia 76ers,"1-6, 1-4 Home","2-4, 2-2 Away",110,112,NULL,NULL,Final,NULL,23,33,22,32,NULL,32,25,32,23,NULL,NBA
+3,400974858,2018,"Wed, Nov 1",Philadelphia 76ers,Atlanta Hawks,"4-4, 1-2 Home","1-7, 1-5 Away",119,109,NULL,NULL,Final,NULL,34,25,34,26,NULL,25,32,36,16,NULL,NBA
+4,400974907,2018,"Tue, Nov 7",Utah Jazz,Philadelphia 76ers,"5-6, 5-2 Home","6-4, 4-2 Away",97,104,NULL,NULL,Final,NULL,21,23,27,26,NULL,32,14,34,24,NULL,NBA
+5,400974935,2018,"Sat, Nov 11",Golden State Warriors,Philadelphia 76ers,"10-3, 5-2 Home","6-6, 4-4 Away",135,114,NULL,NULL,Final,NULL,32,33,36,34,NULL,28,36,21,29,NULL,NBA
+6,400974965,2018,"Wed, Nov 15",Los Angeles Lakers,Philadelphia 76ers,"6-9, 4-4 Home","8-6, 6-4 Away",109,115,NULL,NULL,Final,ESPN,26,28,30,25,NULL,29,29,25,32,NULL,NBA
+7,400974995,2018,"Mon, Nov 20",Philadelphia 76ers,Utah Jazz,"9-7, 3-3 Home","7-11, 1-7 Away",107,86,NULL,NULL,Final,NULL,25,22,28,32,NULL,15,21,27,23,NULL,NBA
+8,400975029,2018,"Sat, Nov 25",Philadelphia 76ers,Orlando Magic,"11-7, 5-3 Home","8-12, 4-8 Away",130,111,NULL,NULL,Final,NULL,31,39,31,29,NULL,28,27,30,26,NULL,NBA
+9,400975056,2018,"Wed, Nov 29",Philadelphia 76ers,Washington Wizards,"12-8, 6-4 Home","11-10, 6-5 Away",118,113,NULL,NULL,Final,NBATV,28,30,26,34,NULL,18,22,25,48,NULL,NBA
+10,400975081,2018,"Sat, Dec 2",Philadelphia 76ers,Detroit Pistons,"13-9, 7-4 Home","14-8, 6-6 Away",108,103,NULL,NULL,Final,NULL,32,31,17,28,NULL,25,22,33,23,NULL,NBA
+11,400975114,2018,"Thu, Dec 7",Philadelphia 76ers,Los Angeles Lakers,"13-11, 7-6 Home","9-15, 3-8 Away",104,107,NULL,NULL,Final,TNT,25,24,21,34,NULL,32,25,22,28,NULL,NBA
+12,400975140,2018,"Sun, Dec 10",New Orleans Pelicans,Philadelphia 76ers,"14-13, 7-7 Home","13-13, 6-7 Away",131,124,NULL,NULL,Final,NULL,32,34,21,44,NULL,26,29,40,29,NULL,NBA
+13,400975172,2018,"Fri, Dec 15",Philadelphia 76ers,Oklahoma City Thunder,"14-14, 7-7 Home","14-14, 5-10 Away",117,119,NULL,NULL,Final/3OT,ESPN,23,24,30,17,23,28,27,26,13,25,NBA
+14,400975202,2018,"Tue, Dec 19",Philadelphia 76ers,Sacramento Kings,"14-16, 7-8 Home","10-20, 5-13 Away",95,101,NULL,NULL,Final,NULL,27,30,21,17,NULL,30,18,23,30,NULL,NBA
+15,400975231,2018,"Sat, Dec 23",Toronto Raptors,Philadelphia 76ers,"23-8, 12-1 Home","14-18, 7-9 Away",102,86,NULL,NULL,Final,NULL,27,28,26,21,NULL,27,19,17,23,NULL,NBA
+16,400975266,2018,"Thu, Dec 28",Portland Trail Blazers,Philadelphia 76ers,"18-16, 8-10 Home","15-19, 8-10 Away",114,110,NULL,NULL,Final,TNT,27,25,20,42,NULL,30,21,34,25,NULL,NBA
+17,400975290,2018,"Sun, Dec 31",Phoenix Suns,Philadelphia 76ers,"14-24, 6-14 Home","17-19, 10-10 Away",110,123,NULL,NULL,Final,NULL,32,17,40,21,NULL,38,25,29,31,NULL,NBA
+18,400975315,2018,"Fri, Jan 5",Philadelphia 76ers,Detroit Pistons,"19-19, 9-9 Home","20-17, 8-12 Away",114,78,NULL,NULL,Final,NULL,32,30,35,17,NULL,15,17,29,17,NULL,NBA
+19,400975385,2018,"Mon, Jan 15",Philadelphia 76ers,Toronto Raptors,"20-20, 10-10 Home","29-13, 14-10 Away",117,111,NULL,NULL,Final,NULL,32,27,34,24,NULL,23,26,26,36,NULL,NBA
+20,400975424,2018,"Sat, Jan 20",Philadelphia 76ers,Milwaukee Bucks,"22-20, 11-10 Home","23-22, 9-13 Away",116,94,NULL,NULL,Final,NULL,37,24,23,32,NULL,29,26,25,14,NULL,NBA
+21,400975450,2018,"Wed, Jan 24",Philadelphia 76ers,Chicago Bulls,"23-21, 12-10 Home","18-30, 7-18 Away",115,101,NULL,NULL,Final,NULL,25,30,30,30,NULL,16,25,26,34,NULL,NBA
+22,400975482,2018,"Sun, Jan 28",Oklahoma City Thunder,Philadelphia 76ers,"30-20, 19-7 Home","24-22, 12-12 Away",122,112,NULL,NULL,Final,ESPN,31,26,35,30,NULL,29,29,25,29,NULL,NBA
+23,400975502,2018,"Wed, Jan 31",Brooklyn Nets,Philadelphia 76ers,"19-33, 11-15 Home","24-24, 12-14 Away",116,108,NULL,NULL,Final,NULL,30,34,27,25,NULL,34,31,23,20,NULL,NBA
+24,400975523,2018,"Sat, Feb 3",Indiana Pacers,Philadelphia 76ers,"30-24, 19-10 Home","25-25, 12-15 Away",100,92,NULL,NULL,Final,NULL,33,29,14,24,NULL,27,30,18,17,NULL,NBA
+25,400975564,2018,"Fri, Feb 9",Philadelphia 76ers,New Orleans Pelicans,"27-25, 15-10 Home","28-26, 14-14 Away",100,82,NULL,NULL,Final,NULL,32,24,28,16,NULL,14,27,11,30,NULL,NBA
+26,400975588,2018,"Mon, Feb 12",Philadelphia 76ers,New York Knicks,"29-25, 17-10 Home","23-35, 7-24 Away",108,92,NULL,NULL,Final,NBATV,31,26,29,22,NULL,21,34,24,13,NULL,NBA
+27,400975616,2018,"Thu, Feb 22",Chicago Bulls,Philadelphia 76ers,"20-38, 13-17 Home","31-25, 13-15 Away",115,116,NULL,NULL,Final,NULL,29,40,22,24,NULL,33,34,26,23,NULL,NBA
+28,400975641,2018,"Sun, Feb 25",Washington Wizards,Philadelphia 76ers,"35-25, 18-11 Home","32-26, 13-16 Away",109,94,NULL,NULL,Final,ESPN,30,37,20,22,NULL,28,20,25,21,NULL,NBA
+29,400975669,2018,"Thu, Mar 1",Cleveland Cavaliers,Philadelphia 76ers,"36-25, 21-10 Home","33-27, 14-17 Away",97,108,NULL,NULL,Final,TNT,29,27,15,26,NULL,32,27,18,31,NULL,NBA
+30,400975693,2018,"Sun, Mar 4",Milwaukee Bucks,Philadelphia 76ers,"34-29, 20-13 Home","34-28, 14-18 Away",118,110,NULL,NULL,Final,ESPN,31,29,33,25,NULL,43,29,14,24,NULL,NBA
+31,400975719,2018,"Thu, Mar 8",Miami Heat,Philadelphia 76ers,"35-31, 19-13 Home","35-29, 15-19 Away",108,99,NULL,NULL,Final,NULL,29,24,20,35,NULL,28,21,25,25,NULL,NBA
+32,400975751,2018,"Tue, Mar 13",Philadelphia 76ers,Indiana Pacers,"36-30, 20-11 Home","40-28, 17-16 Away",98,101,NULL,NULL,Final,NULL,23,30,26,19,NULL,33,24,26,18,NULL,NBA
+33,400975776,2018,"Fri, Mar 16",Philadelphia 76ers,Brooklyn Nets,"38-30, 21-11 Home","21-48, 9-25 Away",120,116,NULL,NULL,Final,NULL,30,25,31,34,NULL,33,25,23,35,NULL,NBA
+34,400975812,2018,"Wed, Mar 21",Philadelphia 76ers,Memphis Grizzlies,"40-30, 23-11 Home","19-52, 5-29 Away",119,105,NULL,NULL,Final,NULL,26,32,41,20,NULL,19,25,25,36,NULL,NBA
+35,400975834,2018,"Sat, Mar 24",Philadelphia 76ers,Minnesota Timberwolves,"42-30, 24-11 Home","42-32, 15-23 Away",120,108,NULL,NULL,Final,NULL,32,27,39,22,NULL,24,28,19,37,NULL,NBA
+36,400975864,2018,"Wed, Mar 28",Philadelphia 76ers,New York Knicks,"44-30, 26-11 Home","27-49, 9-31 Away",118,101,NULL,NULL,Final,NULL,37,30,26,25,NULL,28,35,17,21,NULL,NBA
+37,400975889,2018,"Sun, Apr 1",Charlotte Hornets,Philadelphia 76ers,"34-44, 21-19 Home","46-30, 20-19 Away",102,119,NULL,NULL,Final,NBATV,29,22,27,24,NULL,28,32,31,28,NULL,NBA
+38,400975915,2018,"Wed, Apr 4",Detroit Pistons,Philadelphia 76ers,"37-41, 24-15 Home","48-30, 21-19 Away",108,115,NULL,NULL,Final,NULL,28,21,22,37,NULL,36,29,23,27,NULL,NBA
+39,400975944,2018,"Sun, Apr 8",Philadelphia 76ers,Dallas Mavericks,"50-30, 29-11 Home","24-57, 9-32 Away",109,97,NULL,NULL,Final,NBATV,28,33,24,24,NULL,20,28,28,21,NULL,NBA
+40,400974439,2018,"Wed, Oct 18",Washington Wizards,Philadelphia 76ers,"1-0, 1-0 Home","0-1, 0-1 Away",120,115,NULL,NULL,Final,ESPN,32,24,34,30,NULL,23,36,23,33,NULL,NBA
+41,400974778,2018,"Sat, Oct 21",Toronto Raptors,Philadelphia 76ers,"2-0, 2-0 Home","0-3, 0-2 Away",128,94,NULL,NULL,Final,NULL,36,26,40,26,NULL,19,30,22,23,NULL,NBA
+42,400974808,2018,"Wed, Oct 25",Philadelphia 76ers,Houston Rockets,"1-4, 0-2 Home","4-1, 3-0 Away",104,105,NULL,NULL,Final,NULL,33,21,26,24,NULL,31,25,23,26,NULL,NBA
+43,400974846,2018,"Mon, Oct 30",Houston Rockets,Philadelphia 76ers,"5-3, 1-2 Home","3-4, 3-2 Away",107,115,NULL,NULL,Final,NULL,27,29,24,27,NULL,37,21,34,23,NULL,NBA
+44,400974872,2018,"Fri, Nov 3",Philadelphia 76ers,Indiana Pacers,"5-4, 2-2 Home","5-4, 2-3 Away",121,110,NULL,NULL,Final,NULL,30,26,36,29,NULL,28,35,26,21,NULL,NBA
+45,400974918,2018,"Thu, Nov 9",Sacramento Kings,Philadelphia 76ers,"3-8, 2-3 Home","6-5, 4-3 Away",109,108,NULL,NULL,Final,NULL,26,38,20,25,NULL,26,31,24,27,NULL,NBA
+46,400974951,2018,"Mon, Nov 13",LA Clippers,Philadelphia 76ers,"5-8, 3-5 Home","7-6, 5-4 Away",105,109,NULL,NULL,Final,NULL,28,25,26,26,NULL,36,19,22,32,NULL,NBA
+47,400974982,2018,"Sat, Nov 18",Philadelphia 76ers,Golden State Warriors,"8-7, 2-3 Home","12-4, 6-2 Away",116,124,NULL,NULL,Final,NULL,47,27,15,27,NULL,28,24,47,25,NULL,NBA
+48,400975006,2018,"Wed, Nov 22",Philadelphia 76ers,Portland Trail Blazers,"10-7, 4-3 Home","10-8, 3-4 Away",101,81,NULL,NULL,Final,NULL,26,24,20,31,NULL,14,23,20,24,NULL,NBA
+49,400975042,2018,"Mon, Nov 27",Philadelphia 76ers,Cleveland Cavaliers,"11-8, 5-4 Home","13-7, 7-3 Away",91,113,NULL,NULL,Final,NULL,22,23,28,18,NULL,29,24,33,27,NULL,NBA
+50,400975065,2018,"Thu, Nov 30",Boston Celtics,Philadelphia 76ers,"19-4, 9-2 Home","12-9, 6-5 Away",108,97,NULL,NULL,Final,NBATV,28,26,22,32,NULL,22,22,27,26,NULL,NBA
+51,400975092,2018,"Mon, Dec 4",Philadelphia 76ers,Phoenix Suns,"13-10, 7-5 Home","9-16, 5-7 Away",101,115,NULL,NULL,Final,NULL,28,19,32,22,NULL,28,32,29,26,NULL,NBA
+52,400975130,2018,"Sat, Dec 9",Cleveland Cavaliers,Philadelphia 76ers,"19-8, 10-4 Home","13-12, 6-6 Away",105,98,NULL,NULL,Final,NULL,23,29,26,27,NULL,24,22,27,25,NULL,NBA
+53,400975152,2018,"Tue, Dec 12",Minnesota Timberwolves,Philadelphia 76ers,"16-12, 9-5 Home","14-13, 7-7 Away",112,118,NULL,NULL,Final/OT,ESPN,27,24,25,24,12,20,28,26,26,18,NBA
+54,400975195,2018,"Mon, Dec 18",Chicago Bulls,Philadelphia 76ers,"9-20, 6-8 Home","14-15, 7-8 Away",117,115,NULL,NULL,Final,NULL,30,37,22,28,NULL,25,34,28,28,NULL,NBA
+55,400975218,2018,"Thu, Dec 21",Philadelphia 76ers,Toronto Raptors,"14-17, 7-9 Home","22-8, 11-7 Away",109,114,NULL,NULL,Final,NULL,31,34,23,21,NULL,30,22,34,28,NULL,NBA
+56,400974445,2018,"Mon, Dec 25",New York Knicks,Philadelphia 76ers,"17-16, 15-6 Home","15-18, 8-9 Away",98,105,NULL,NULL,Final,ESPN,24,24,27,23,NULL,21,29,29,26,NULL,NBA
+57,400975282,2018,"Sat, Dec 30",Denver Nuggets,Philadelphia 76ers,"19-17, 12-4 Home","16-19, 9-10 Away",102,107,NULL,NULL,Final,NBATV,29,32,19,22,NULL,31,27,25,24,NULL,NBA
+58,400975301,2018,"Wed, Jan 3",Philadelphia 76ers,San Antonio Spurs,"18-19, 8-9 Home","26-13, 9-11 Away",112,106,NULL,NULL,Final,NULL,27,33,28,24,NULL,22,27,35,22,NULL,NBA
+59,400975360,2018,"Thu, Jan 11",Philadelphia 76ers,Boston Celtics,19-20,34-10,103,114,NULL,NULL,Final,NBATV,28,29,22,24,NULL,23,25,37,29,NULL,NBA
+60,400975409,2018,"Thu, Jan 18",Boston Celtics,Philadelphia 76ers,"34-12, 18-7 Home","21-20, 11-10 Away",80,89,NULL,NULL,Final,TNT,19,13,21,27,NULL,21,18,32,18,NULL,NBA
+61,400975436,2018,"Mon, Jan 22",Memphis Grizzlies,Philadelphia 76ers,"17-29, 12-13 Home","22-21, 11-11 Away",105,101,NULL,NULL,Final,NULL,19,30,25,31,NULL,30,25,28,18,NULL,NBA
+62,400975468,2018,"Fri, Jan 26",San Antonio Spurs,Philadelphia 76ers,"32-19, 20-4 Home","24-21, 12-11 Away",78,97,NULL,NULL,Final,NULL,13,18,30,17,NULL,25,25,31,16,NULL,NBA
+63,400975487,2018,"Mon, Jan 29",Milwaukee Bucks,Philadelphia 76ers,"27-22, 17-9 Home","24-23, 12-13 Away",107,95,NULL,NULL,Final,NULL,28,27,28,24,NULL,30,23,22,20,NULL,NBA
+64,400975516,2018,"Fri, Feb 2",Philadelphia 76ers,Miami Heat,"25-24, 13-10 Home","29-23, 16-13 Away",103,97,NULL,NULL,Final,ESPN,24,27,35,17,NULL,23,18,19,37,NULL,NBA
+65,400975548,2018,"Tue, Feb 6",Philadelphia 76ers,Washington Wizards,"26-25, 14-10 Home","31-23, 14-14 Away",115,102,NULL,NULL,Final,TNT,37,28,29,21,NULL,20,35,29,18,NULL,NBA
+66,400975574,2018,"Sat, Feb 10",Philadelphia 76ers,LA Clippers,"28-25, 16-10 Home","28-26, 12-14 Away",112,98,NULL,NULL,Final,NULL,37,32,16,27,NULL,28,27,23,20,NULL,NBA
+67,400975601,2018,"Wed, Feb 14",Philadelphia 76ers,Miami Heat,"30-25, 18-10 Home","30-28, 16-16 Away",104,102,NULL,NULL,Final,NULL,20,19,34,31,NULL,29,33,19,21,NULL,NBA
+68,400975630,2018,"Sat, Feb 24",Philadelphia 76ers,Orlando Magic,"32-25, 19-10 Home","18-41, 7-24 Away",116,105,NULL,NULL,Final,NULL,27,31,29,29,NULL,18,22,31,34,NULL,NBA
+69,400975655,2018,"Tue, Feb 27",Miami Heat,Philadelphia 76ers,"32-29, 16-12 Home","32-27, 13-17 Away",102,101,NULL,NULL,Final,NULL,17,28,28,29,NULL,24,24,27,26,NULL,NBA
+70,400975673,2018,"Fri, Mar 2",Philadelphia 76ers,Charlotte Hornets,"34-27, 20-10 Home","28-35, 10-20 Away",110,99,NULL,NULL,Final,NULL,27,21,26,36,NULL,30,26,24,19,NULL,NBA
+71,400975703,2018,"Tue, Mar 6",Charlotte Hornets,Philadelphia 76ers,"28-37, 18-16 Home","35-28, 15-18 Away",114,128,NULL,NULL,Final,NULL,29,30,32,23,NULL,32,39,30,27,NULL,NBA
+72,400975745,2018,"Sun, Mar 11",Brooklyn Nets,Philadelphia 76ers,"21-46, 12-22 Home","36-29, 16-19 Away",97,120,NULL,NULL,Final,NULL,25,35,23,14,NULL,37,33,26,24,NULL,NBA
+73,400975768,2018,"Thu, Mar 15",New York Knicks,Philadelphia 76ers,"24-45, 16-17 Home","37-30, 17-19 Away",110,118,NULL,NULL,Final,NULL,32,36,23,19,NULL,32,28,23,35,NULL,NBA
+74,400975798,2018,"Mon, Mar 19",Philadelphia 76ers,Charlotte Hornets,"39-30, 22-11 Home","30-41, 11-24 Away",108,94,NULL,NULL,Final,NULL,21,28,32,27,NULL,18,38,14,24,NULL,NBA
+75,400975819,2018,"Thu, Mar 22",Orlando Magic,Philadelphia 76ers,"21-51, 14-21 Home","41-30, 18-19 Away",98,118,NULL,NULL,Final,NBATV,23,26,16,33,NULL,32,38,25,23,NULL,NBA
+76,400975851,2018,"Mon, Mar 26",Philadelphia 76ers,Denver Nuggets,"43-30, 25-11 Home","40-34, 13-24 Away",123,104,NULL,NULL,Final,NBATV,23,28,34,38,NULL,27,32,15,30,NULL,NBA
+77,400975876,2018,"Fri, Mar 30",Atlanta Hawks,Philadelphia 76ers,"21-55, 15-23 Home","45-30, 19-19 Away",91,101,NULL,NULL,Final,NULL,27,14,18,32,NULL,30,17,39,15,NULL,NBA
+78,400975903,2018,"Tue, Apr 3",Philadelphia 76ers,Brooklyn Nets,"47-30, 27-11 Home","25-53, 11-27 Away",121,95,NULL,NULL,Final,NULL,28,33,32,28,NULL,22,27,22,24,NULL,NBA
+79,400975929,2018,"Fri, Apr 6",Philadelphia 76ers,Cleveland Cavaliers,"49-30, 28-11 Home","49-31, 20-20 Away",132,130,NULL,NULL,Final,NBATV,41,37,27,27,NULL,28,27,43,32,NULL,NBA
+80,400975960,2018,"Tue, Apr 10",Atlanta Hawks,Philadelphia 76ers,"24-58, 16-25 Home","51-30, 22-19 Away",113,121,NULL,NULL,Final,NULL,32,23,24,34,NULL,27,34,28,32,NULL,NBA
+81,400975969,2018,"Wed, Apr 11",Philadelphia 76ers,Milwaukee Bucks,"52-30, 30-11 Home","44-38, 19-22 Away",130,95,NULL,NULL,Final,ESPN,46,34,25,25,NULL,18,26,31,20,NULL,NBA

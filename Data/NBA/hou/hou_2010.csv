@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,291028009,2010,"Wed, Oct 28",Golden State Warriors,Houston Rockets,"0-1, 0-1 Home","1-1, 1-1 Away",107,108,NULL,NULL,Final,NULL,28,34,19,26,NULL,26,26,35,21,NULL,NBA
+1,291102026,2010,"Mon, Nov 2",Utah Jazz,Houston Rockets,"1-2, 1-1 Home","3-1, 2-1 Away",96,113,NULL,NULL,Final,NBATV,28,29,19,20,NULL,26,28,25,34,NULL,NBA
+2,291106010,2010,"Fri, Nov 6",Houston Rockets,Oklahoma City Thunder,"4-2, 2-1 Home","2-3, 1-1 Away",105,94,NULL,NULL,Final,NULL,26,24,30,25,NULL,21,24,24,25,NULL,NBA
+3,291111010,2010,"Wed, Nov 11",Houston Rockets,Memphis Grizzlies,"5-3, 3-1 Home","1-8, 0-6 Away",104,79,NULL,NULL,Final,NULL,20,23,31,30,NULL,17,21,19,22,NULL,NBA
+4,291115013,2010,"Sun, Nov 15",Los Angeles Lakers,Houston Rockets,"7-3, 5-2 Home","6-4, 3-3 Away",91,101,NULL,NULL,Final,NULL,29,25,19,18,NULL,23,29,28,21,NULL,NBA
+5,291118016,2010,"Wed, Nov 18",Minnesota Timberwolves,Houston Rockets,"1-11, 1-6 Home","7-5, 4-3 Away",84,97,NULL,NULL,Final,NULL,21,21,25,17,NULL,23,25,20,29,NULL,NBA
+6,291121010,2010,"Sat, Nov 21",Houston Rockets,Sacramento Kings,"8-6, 4-2 Home","5-7, 1-5 Away",113,106,NULL,NULL,Final,NULL,33,26,21,33,NULL,27,25,32,22,NULL,NBA
+7,291127010,2010,"Fri, Nov 27",Houston Rockets,San Antonio Spurs,"8-8, 4-4 Home","8-6, 1-4 Away",84,92,NULL,NULL,Final,NULL,23,23,12,26,NULL,18,26,24,24,NULL,NBA
+8,291202012,2010,"Wed, Dec 2",LA Clippers,Houston Rockets,"8-11, 5-6 Home","10-8, 6-4 Away",85,102,NULL,NULL,Final,NBATV,26,26,20,13,NULL,27,25,24,26,NULL,NBA
+9,291205022,2010,"Sat, Dec 5",Portland Trail Blazers,Houston Rockets,"13-8, 8-4 Home","11-9, 7-5 Away",90,89,NULL,NULL,Final,NULL,23,22,23,22,NULL,23,25,21,20,NULL,NBA
+10,291211020,2010,"Fri, Dec 11",Philadelphia 76ers,Houston Rockets,"5-18, 3-8 Home","13-9, 8-5 Away",91,96,NULL,NULL,Final,CSN,29,22,13,27,NULL,19,29,28,20,NULL,NBA
+11,291215010,2010,"Tue, Dec 15",Houston Rockets,Detroit Pistons,"14-10, 6-4 Home","11-13, 3-9 Away",107,96,NULL,NULL,Final,NULL,29,27,25,26,NULL,19,28,21,28,NULL,NBA
+12,291218006,2010,"Fri, Dec 18",Dallas Mavericks,Houston Rockets,"19-8, 9-4 Home","15-11, 9-7 Away",108,116,NULL,NULL,Final/OT,NULL,24,17,24,35,8,19,30,24,27,16,NBA
+13,291222010,2010,"Tue, Dec 22",Houston Rockets,LA Clippers,"17-11, 8-4 Home","12-16, 5-8 Away",108,99,NULL,NULL,Final,NULL,34,31,23,20,NULL,33,21,28,17,NULL,NBA
+14,291226017,2010,"Sat, Dec 26",New Jersey Nets,Houston Rockets,"2-28, 1-12 Home","18-12, 10-8 Away",93,98,NULL,NULL,Final,NULL,20,31,18,24,NULL,27,30,13,28,NULL,NBA
+15,291229010,2010,"Tue, Dec 29",Houston Rockets,New Orleans Hornets,"19-13, 9-4 Home","13-16, 2-13 Away",108,100,NULL,NULL,Final,NULL,31,30,13,34,NULL,23,28,31,18,NULL,NBA
+16,300102003,2010,"Sat, Jan 2",New Orleans Hornets,Houston Rockets,"15-16, 13-3 Home","20-14, 10-10 Away",99,95,NULL,NULL,Final,NULL,24,22,25,28,NULL,26,24,27,18,NULL,NBA
+17,300106021,2010,"Wed, Jan 6",Phoenix Suns,Houston Rockets,"23-13, 14-3 Home","20-16, 10-12 Away",118,110,NULL,NULL,Final,NULL,36,17,32,33,NULL,33,27,26,24,NULL,NBA
+18,300112030,2010,"Tue, Jan 12",Charlotte Bobcats,Houston Rockets,"17-19, 14-4 Home","21-17, 10-13 Away",102,94,NULL,NULL,Final,NULL,29,21,24,28,NULL,34,26,17,17,NULL,NBA
+19,300115010,2010,"Fri, Jan 15",Houston Rockets,Miami Heat,"22-18, 12-5 Home","20-18, 9-8 Away",106,115,NULL,NULL,Final,NULL,29,24,24,29,NULL,27,35,29,24,NULL,NBA
+20,300122024,2010,"Fri, Jan 22",San Antonio Spurs,Houston Rockets,"25-17, 17-8 Home","24-18, 11-13 Away",109,116,NULL,NULL,Final,NULL,31,25,21,32,NULL,28,27,28,33,NULL,NBA
+21,300125010,2010,"Mon, Jan 25",Houston Rockets,Atlanta Hawks,"24-20, 13-7 Home","29-14, 11-9 Away",95,102,NULL,NULL,Final,NULL,25,19,23,28,NULL,23,32,22,25,NULL,NBA
+22,300129010,2010,"Fri, Jan 29",Houston Rockets,Portland Trail Blazers,"25-21, 14-8 Home","27-21, 11-12 Away",104,100,NULL,NULL,Final,NULL,18,31,29,26,NULL,28,19,24,29,NULL,NBA
+23,300202010,2010,"Tue, Feb 2",Houston Rockets,Golden State Warriors,"26-22, 15-9 Home","13-34, 4-21 Away",119,97,NULL,NULL,Final,NULL,39,20,24,36,NULL,25,24,19,29,NULL,NBA
+24,300206010,2010,"Sat, Feb 6",Houston Rockets,Philadelphia 76ers,"27-23, 15-10 Home","19-31, 11-15 Away",95,102,NULL,NULL,Final,NULL,22,35,19,19,NULL,26,21,23,32,NULL,NBA
+25,300216010,2010,"Tue, Feb 16",Houston Rockets,Utah Jazz,"27-25, 15-11 Home","33-19, 11-12 Away",95,104,NULL,NULL,Final,NULL,23,32,19,21,NULL,28,21,27,28,NULL,NBA
+26,300220010,2010,"Sat, Feb 20",Houston Rockets,Indiana Pacers,"28-26, 15-12 Home","19-36, 7-21 Away",115,125,NULL,NULL,Final,NULL,30,35,25,25,NULL,27,27,36,35,NULL,NBA
+27,300224010,2010,"Wed, Feb 24",Houston Rockets,Orlando Magic,"28-28, 15-13 Home","39-19, 17-13 Away",92,110,NULL,NULL,Final,NULL,18,22,34,18,NULL,23,37,25,25,NULL,NBA
+28,300227026,2010,"Sat, Feb 27",Utah Jazz,Houston Rockets,"38-21, 24-8 Home","29-29, 13-16 Away",133,110,NULL,NULL,Final,NBATV,39,31,37,26,NULL,35,24,35,16,NULL,NBA
+29,300303010,2010,"Wed, Mar 3",Houston Rockets,Sacramento Kings,"30-30, 17-14 Home","21-40, 6-26 Away",81,84,NULL,NULL,Final,NULL,17,20,28,16,NULL,22,21,26,15,NULL,NBA
+30,300307008,2010,"Sun, Mar 7",Detroit Pistons,Houston Rockets,"22-41, 15-17 Home","31-31, 14-17 Away",110,107,NULL,NULL,Final/OT,NULL,29,28,25,20,8,20,35,31,16,5,NBA
+31,300313010,2010,"Sat, Mar 13",Houston Rockets,New Jersey Nets,"33-31, 18-14 Home","7-59, 4-31 Away",116,108,NULL,NULL,Final,NULL,31,23,28,34,NULL,31,24,23,30,NULL,NBA
+32,300317010,2010,"Wed, Mar 17",Houston Rockets,Memphis Grizzlies,"35-31, 20-14 Home","36-33, 15-18 Away",107,94,NULL,NULL,Final,NULL,22,31,29,25,NULL,29,26,18,21,NULL,NBA
+33,300321018,2010,"Sun, Mar 21",New York Knicks,Houston Rockets,"25-45, 15-22 Home","36-32, 16-17 Away",112,116,NULL,NULL,Final,NULL,32,32,30,18,NULL,17,45,30,24,NULL,NBA
+34,300324025,2010,"Wed, Mar 24",Oklahoma City Thunder,Houston Rockets,"43-27, 23-12 Home","36-34, 16-19 Away",122,104,NULL,NULL,Final,NULL,39,35,27,21,NULL,25,32,25,22,NULL,NBA
+35,300327010,2010,"Sat, Mar 27",Houston Rockets,Los Angeles Lakers,"36-36, 20-17 Home","54-19, 22-14 Away",101,109,NULL,NULL,Final,NULL,34,11,24,32,NULL,27,35,27,20,NULL,NBA
+36,300331024,2010,"Wed, Mar 31",San Antonio Spurs,Houston Rockets,"45-29, 27-11 Home","37-37, 16-20 Away",119,102,NULL,NULL,Final,NULL,34,30,28,27,NULL,27,32,19,24,NULL,NBA
+37,300404011,2010,"Sun, Apr 4",Indiana Pacers,Houston Rockets,"29-48, 21-17 Home","38-38, 17-21 Away",133,102,NULL,NULL,Final,NULL,33,39,29,32,NULL,28,28,19,27,NULL,NBA
+38,300407010,2010,"Wed, Apr 7",Houston Rockets,Utah Jazz,"40-38, 22-17 Home","51-28, 19-20 Away",113,96,NULL,NULL,Final,ESPN,33,27,36,17,NULL,22,24,31,19,NULL,NBA
+39,300411021,2010,"Sun, Apr 11",Phoenix Suns,Houston Rockets,"52-28, 31-9 Home","41-39, 18-22 Away",116,106,NULL,NULL,Final,NULL,33,29,25,29,NULL,36,21,28,21,NULL,NBA
+40,291027022,2010,"Tue, Oct 27",Portland Trail Blazers,Houston Rockets,"1-0, 1-0 Home","0-1, 0-1 Away",96,87,NULL,NULL,Final,NULL,23,31,21,21,NULL,23,18,15,31,NULL,NBA
+41,291031010,2010,"Sat, Oct 31",Houston Rockets,Portland Trail Blazers,"2-1, 1-0 Home","1-2, 0-1 Away",111,107,NULL,NULL,Final,NULL,33,26,24,28,NULL,28,26,25,28,NULL,NBA
+42,291104010,2010,"Wed, Nov 4",Houston Rockets,Los Angeles Lakers,"3-2, 1-1 Home","4-1, 2-0 Away",102,103,NULL,NULL,Final/OT,NULL,22,26,26,18,10,22,22,29,19,11,NBA
+43,291110006,2010,"Tue, Nov 10",Dallas Mavericks,Houston Rockets,"5-2, 3-1 Home","4-3, 2-2 Away",121,103,NULL,NULL,Final,NULL,28,29,26,38,NULL,37,24,13,29,NULL,NBA
+44,291113023,2010,"Fri, Nov 13",Sacramento Kings,Houston Rockets,"5-4, 4-1 Home","5-4, 2-3 Away",109,100,NULL,NULL,Final,NULL,30,33,19,27,NULL,30,22,25,23,NULL,NBA
+45,291117010,2010,"Tue, Nov 17",Houston Rockets,Phoenix Suns,"6-5, 3-2 Home","10-2, 6-2 Away",105,111,NULL,NULL,Final,NULL,34,21,27,23,NULL,22,30,26,33,NULL,NBA
+46,291120001,2010,"Fri, Nov 20",Atlanta Hawks,Houston Rockets,"11-2, 7-0 Home","7-6, 4-4 Away",105,103,NULL,NULL,Final,NULL,28,27,22,28,NULL,26,25,21,31,NULL,NBA
+47,291125010,2010,"Wed, Nov 25",Houston Rockets,Dallas Mavericks,"8-7, 4-3 Home","11-4, 6-2 Away",99,130,NULL,NULL,Final,NULL,25,26,26,22,NULL,36,32,23,39,NULL,NBA
+48,291129025,2010,"Sun, Nov 29",Oklahoma City Thunder,Houston Rockets,"9-8, 4-4 Home","9-8, 5-4 Away",91,100,NULL,NULL,Final,NULL,29,25,17,20,NULL,25,20,24,31,NULL,NBA
+49,291203009,2010,"Thu, Dec 3",Golden State Warriors,Houston Rockets,"6-12, 4-4 Home","11-8, 7-4 Away",109,111,NULL,NULL,Final,NULL,28,23,38,20,NULL,28,30,25,28,NULL,NBA
+50,291209010,2010,"Wed, Dec 9",Houston Rockets,Cleveland Cavaliers,"12-9, 5-4 Home","15-7, 7-5 Away",95,85,NULL,NULL,Final,NULL,33,19,16,27,NULL,19,20,19,27,NULL,NBA
+51,291213028,2010,"Sun, Dec 13",Toronto Raptors,Houston Rockets,"11-15, 7-5 Home","13-10, 8-6 Away",101,88,NULL,NULL,Final,CBC,32,23,20,26,NULL,17,25,21,25,NULL,NBA
+52,291216007,2010,"Wed, Dec 16",Denver Nuggets,Houston Rockets,"19-7, 12-1 Home","14-11, 8-7 Away",111,101,NULL,NULL,Final,NULL,25,33,27,26,NULL,21,30,27,23,NULL,NBA
+53,291219010,2010,"Sat, Dec 19",Houston Rockets,Oklahoma City Thunder,"16-11, 7-4 Home","13-13, 6-6 Away",95,90,NULL,NULL,Final,NULL,23,27,24,21,NULL,22,18,25,25,NULL,NBA
+54,291223019,2010,"Wed, Dec 23",Orlando Magic,Houston Rockets,"22-7, 12-2 Home","17-12, 9-8 Away",102,87,NULL,NULL,Final,NBATV,34,21,23,24,NULL,22,30,13,22,NULL,NBA
+55,291227005,2010,"Sun, Dec 27",Cleveland Cavaliers,Houston Rockets,"24-8, 12-2 Home","18-13, 10-9 Away",108,83,NULL,NULL,Final,NULL,24,27,32,25,NULL,24,24,15,20,NULL,NBA
+56,291231010,2010,"Thu, Dec 31",Houston Rockets,Dallas Mavericks,"20-13, 10-4 Home","22-10, 11-5 Away",97,94,NULL,NULL,Final,NULL,24,32,22,19,NULL,17,30,23,24,NULL,NBA
+57,300105013,2010,"Tue, Jan 5",Los Angeles Lakers,Houston Rockets,"28-6, 20-3 Home","20-15, 10-11 Away",88,79,NULL,NULL,Final,NULL,22,19,18,29,NULL,15,18,22,24,NULL,NBA
+58,300109010,2010,"Sat, Jan 9",Houston Rockets,New York Knicks,"21-16, 11-4 Home","15-21, 6-11 Away",105,96,NULL,NULL,Final,NULL,21,30,27,27,NULL,32,25,22,17,NULL,NBA
+59,300113010,2010,"Wed, Jan 13",Houston Rockets,Minnesota Timberwolves,"22-17, 12-4 Home","8-32, 3-17 Away",120,114,NULL,NULL,Final/3OT,NULL,30,23,16,20,31,13,31,17,28,25,NBA
+60,300118010,2010,"Mon, Jan 18",Houston Rockets,Milwaukee Bucks,"23-18, 13-5 Home","16-23, 5-16 Away",101,98,NULL,NULL,Final/OT,NULL,27,31,21,12,10,34,17,22,18,7,NBA
+61,300123010,2010,"Sat, Jan 23",Houston Rockets,Chicago Bulls,"24-19, 13-6 Home","20-22, 6-15 Away",97,104,NULL,NULL,Final,NBATV,21,31,23,22,NULL,32,32,16,24,NULL,NBA
+62,300127010,2010,"Wed, Jan 27",Houston Rockets,Denver Nuggets,"24-21, 13-8 Home","31-14, 10-11 Away",92,97,NULL,NULL,Final,NULL,31,20,23,18,NULL,16,34,22,25,NULL,NBA
+63,300131010,2010,"Sun, Jan 31",Houston Rockets,Phoenix Suns,"25-22, 14-9 Home","28-21, 10-15 Away",111,115,NULL,NULL,Final/OT,NBATV,21,27,25,27,11,28,32,19,21,15,NBA
+64,300205029,2010,"Fri, Feb 5",Memphis Grizzlies,Houston Rockets,"26-23, 18-7 Home","27-22, 12-13 Away",83,101,NULL,NULL,Final,NULL,25,19,22,17,NULL,25,25,25,26,NULL,NBA
+65,300209014,2010,"Tue, Feb 9",Miami Heat,Houston Rockets,"25-27, 14-12 Home","27-24, 12-14 Away",99,66,NULL,NULL,Final,NULL,24,32,24,19,NULL,16,15,24,11,NULL,NBA
+66,300217015,2010,"Wed, Feb 17",Milwaukee Bucks,Houston Rockets,"24-28, 16-9 Home","28-25, 13-14 Away",99,127,NULL,NULL,Final,NULL,20,32,14,33,NULL,20,37,43,27,NULL,NBA
+67,300221003,2010,"Sun, Feb 21",New Orleans Hornets,Houston Rockets,"30-26, 19-9 Home","28-27, 13-15 Away",102,94,NULL,NULL,Final,NULL,24,26,24,28,NULL,16,23,23,32,NULL,NBA
+68,300226010,2010,"Fri, Feb 26",Houston Rockets,San Antonio Spurs,"29-28, 16-13 Home","32-24, 12-14 Away",109,104,NULL,NULL,Final,NULL,31,28,26,24,NULL,14,27,28,35,NULL,NBA
+69,300301010,2010,"Mon, Mar 1",Houston Rockets,Toronto Raptors,"30-29, 17-13 Home","31-28, 10-19 Away",116,92,NULL,NULL,Final,TSNT,37,31,29,19,NULL,28,19,18,27,NULL,NBA
+70,300306016,2010,"Sat, Mar 6",Minnesota Timberwolves,Houston Rockets,"14-49, 9-22 Home","31-30, 14-16 Away",98,112,NULL,NULL,Final,NULL,22,28,23,25,NULL,33,27,29,23,NULL,NBA
+71,300309027,2010,"Tue, Mar 9",Washington Wizards,Houston Rockets,"21-40, 12-20 Home","32-31, 15-17 Away",88,96,NULL,NULL,Final,NULL,22,18,20,28,NULL,21,27,23,25,NULL,NBA
+72,300315010,2010,"Mon, Mar 15",Houston Rockets,Denver Nuggets,"34-31, 19-14 Home","45-22, 17-17 Away",125,123,NULL,NULL,Final,NULL,38,30,25,32,NULL,29,28,38,28,NULL,NBA
+73,300319010,2010,"Fri, Mar 19",Houston Rockets,Boston Celtics,"35-32, 20-15 Home","44-24, 23-12 Away",87,94,NULL,NULL,Final,NBATV,24,17,21,25,NULL,28,22,22,22,NULL,NBA
+74,300322004,2010,"Mon, Mar 22",Chicago Bulls,Houston Rockets,"33-37, 20-14 Home","36-33, 16-18 Away",98,88,NULL,NULL,Final,NULL,30,18,24,26,NULL,29,24,13,22,NULL,NBA
+75,300325010,2010,"Thu, Mar 25",Houston Rockets,LA Clippers,"36-35, 20-16 Home","27-45, 8-29 Away",93,99,NULL,NULL,Final,NULL,28,15,27,23,NULL,19,25,25,30,NULL,NBA
+76,300330010,2010,"Tue, Mar 30",Houston Rockets,Washington Wizards,"37-36, 21-17 Home","21-52, 9-28 Away",98,94,NULL,NULL,Final,NULL,27,21,17,33,NULL,30,23,14,27,NULL,NBA
+77,300402002,2010,"Fri, Apr 2",Boston Celtics,Houston Rockets,"47-28, 23-15 Home","38-37, 17-20 Away",114,119,NULL,NULL,Final/OT,NULL,30,23,30,26,5,32,25,30,22,10,NBA
+78,300406029,2010,"Tue, Apr 6",Memphis Grizzlies,Houston Rockets,"39-38, 23-17 Home","39-38, 18-21 Away",103,113,NULL,NULL,Final,NULL,32,23,19,29,NULL,32,27,29,25,NULL,NBA
+79,300409010,2010,"Fri, Apr 9",Houston Rockets,Charlotte Bobcats,"41-38, 23-17 Home","42-37, 12-28 Away",97,90,NULL,NULL,Final,NULL,24,26,21,26,NULL,23,24,16,27,NULL,NBA
+80,300412023,2010,"Mon, Apr 12",Sacramento Kings,Houston Rockets,"25-56, 18-23 Home","42-39, 19-22 Away",107,117,NULL,NULL,Final,NULL,40,27,18,22,NULL,28,34,26,29,NULL,NBA
+81,300414010,2010,"Wed, Apr 14",Houston Rockets,New Orleans Hornets,"42-40, 23-18 Home","37-45, 13-28 Away",115,123,NULL,NULL,Final,NULL,34,26,30,25,NULL,34,23,38,28,NULL,NBA

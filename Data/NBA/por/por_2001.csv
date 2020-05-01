@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,201102021,2001,"Thu, Nov 2",Phoenix Suns,Portland Trail Blazers,"1-1, 1-0 Home","0-2, 0-1 Away",108,82,NULL,NULL,Final,NULL,29,35,19,25,NULL,25,20,18,19,NULL,NBA
+1,201106023,2001,"Mon, Nov 6",Sacramento Kings,Portland Trail Blazers,"3-2, 1-0 Home","1-3, 1-2 Away",79,75,NULL,NULL,Final,NULL,19,19,25,16,NULL,18,18,18,21,NULL,NBA
+2,201109022,2001,"Thu, Nov 9",Portland Trail Blazers,Denver Nuggets,"3-3, 2-1 Home","2-4, 0-2 Away",107,91,NULL,NULL,Final,NULL,22,28,31,26,NULL,16,25,31,19,NULL,NBA
+3,201113017,2001,"Mon, Nov 13",New Jersey Nets,Portland Trail Blazers,"3-4, 1-4 Home","5-3, 2-2 Away",82,94,NULL,NULL,Final,NULL,14,34,20,14,NULL,31,21,25,17,NULL,NBA
+4,201116028,2001,"Thu, Nov 16",Toronto Raptors,Portland Trail Blazers,"4-4, 3-2 Home","6-4, 3-3 Away",80,86,NULL,NULL,Final,NULL,21,14,23,22,NULL,21,23,18,24,NULL,NBA
+5,201119019,2001,"Sun, Nov 19",Orlando Magic,Portland Trail Blazers,"4-7, 2-3 Home","7-5, 4-4 Away",102,110,NULL,NULL,Final/OT,NULL,25,25,22,26,4,29,27,14,28,12,NBA
+6,201122015,2001,"Wed, Nov 22",Milwaukee Bucks,Portland Trail Blazers,"3-7, 3-3 Home","9-5, 6-4 Away",84,93,NULL,NULL,Final,NULL,18,29,16,21,NULL,26,28,23,16,NULL,NBA
+7,201128022,2001,"Tue, Nov 28",Portland Trail Blazers,Seattle SuperSonics,"10-6, 4-2 Home","7-9, 4-7 Away",93,105,NULL,NULL,Final,NULL,19,27,22,25,NULL,30,34,12,29,NULL,NBA
+8,201202010,2001,"Sat, Dec 2",Houston Rockets,Portland Trail Blazers,"9-8, 6-3 Home","12-6, 7-4 Away",85,96,NULL,NULL,Final,NULL,22,22,14,27,NULL,21,25,26,24,NULL,NBA
+9,201206022,2001,"Wed, Dec 6",Portland Trail Blazers,Toronto Raptors,"13-7, 6-2 Home","9-9, 3-6 Away",95,88,NULL,NULL,Final,NULL,19,24,25,27,NULL,19,16,25,28,NULL,NBA
+10,201209022,2001,"Sat, Dec 9",Portland Trail Blazers,Detroit Pistons,"14-8, 7-3 Home","9-11, 4-7 Away",114,83,NULL,NULL,Final,NULL,30,25,32,27,NULL,17,18,20,28,NULL,NBA
+11,201213022,2001,"Wed, Dec 13",Portland Trail Blazers,Los Angeles Lakers,"16-8, 8-3 Home","15-9, 4-6 Away",96,86,NULL,NULL,Final,NULL,30,14,20,32,NULL,20,24,20,22,NULL,NBA
+12,201220006,2001,"Wed, Dec 20",Dallas Mavericks,Portland Trail Blazers,"18-10, 8-3 Home","17-9, 8-6 Away",106,101,NULL,NULL,Final,NULL,26,24,26,30,NULL,28,23,27,23,NULL,NBA
+13,201223022,2001,"Sat, Dec 23",Portland Trail Blazers,Washington Wizards,"18-10, 10-3 Home","5-23, 3-13 Away",87,70,NULL,NULL,Final,NULL,22,16,22,27,NULL,20,23,16,11,NULL,NBA
+14,201228026,2001,"Thu, Dec 28",Utah Jazz,Portland Trail Blazers,"20-10, 9-6 Home","20-10, 10-7 Away",102,103,NULL,NULL,Final/OT,NULL,25,28,24,15,10,20,26,28,18,11,NBA
+15,210101022,2001,"Mon, Jan 1",Portland Trail Blazers,Charlotte Hornets,"22-10, 12-3 Home","20-12, 8-9 Away",89,67,NULL,NULL,Final,NULL,19,29,19,22,NULL,12,25,12,18,NULL,NBA
+16,210105022,2001,"Fri, Jan 5",Portland Trail Blazers,Milwaukee Bucks,"24-10, 14-3 Home","18-14, 7-9 Away",119,115,NULL,NULL,Final,NULL,30,22,27,40,NULL,22,20,33,40,NULL,NBA
+17,210110020,2001,"Wed, Jan 10",Philadelphia 76ers,Portland Trail Blazers,"25-9, 9-5 Home","26-10, 12-7 Away",75,93,NULL,NULL,Final,CSN,18,23,24,10,NULL,25,22,23,23,NULL,NBA
+18,210113018,2001,"Sat, Jan 13",New York Knicks,Portland Trail Blazers,"23-13, 12-7 Home","27-11, 13-8 Away",91,78,NULL,NULL,Final,NULL,31,18,23,19,NULL,12,25,17,24,NULL,NBA
+19,210116022,2001,"Tue, Jan 16",Portland Trail Blazers,Cleveland Cavaliers,"29-11, 15-3 Home","18-19, 7-14 Away",103,83,NULL,NULL,Final,NULL,27,27,24,25,NULL,20,28,19,16,NULL,NBA
+20,210120022,2001,"Sat, Jan 20",Portland Trail Blazers,Sacramento Kings,"30-12, 16-4 Home","27-10, 10-7 Away",101,111,NULL,NULL,Final,NULL,34,23,25,19,NULL,33,28,25,25,NULL,NBA
+21,210123004,2001,"Tue, Jan 23",Chicago Bulls,Portland Trail Blazers,"6-35, 4-16 Home","31-13, 15-9 Away",100,104,NULL,NULL,Final,NULL,23,21,25,31,NULL,27,30,24,23,NULL,NBA
+22,210127016,2001,"Sat, Jan 27",Minnesota Timberwolves,Portland Trail Blazers,"27-18, 16-7 Home","32-14, 16-10 Away",93,80,NULL,NULL,Final,NULL,23,24,26,20,NULL,20,19,28,13,NULL,NBA
+23,210201022,2001,"Thu, Feb 1",Portland Trail Blazers,Phoenix Suns,"34-14, 18-4 Home","26-19, 10-12 Away",100,92,NULL,NULL,Final,NULL,22,19,32,27,NULL,23,22,19,28,NULL,NBA
+24,210207022,2001,"Wed, Feb 7",Portland Trail Blazers,Seattle SuperSonics,"35-15, 19-4 Home","28-24, 12-16 Away",97,80,NULL,NULL,Final,NULL,18,25,22,32,NULL,20,19,19,22,NULL,NBA
+25,210215022,2001,"Thu, Feb 15",Portland Trail Blazers,Sacramento Kings,"37-15, 21-4 Home","32-16, 12-12 Away",105,81,NULL,NULL,Final,NULL,32,28,27,18,NULL,17,23,20,21,NULL,NBA
+26,210220022,2001,"Tue, Feb 20",Portland Trail Blazers,Denver Nuggets,"38-16, 22-5 Home","28-27, 7-20 Away",104,94,NULL,NULL,Final,NULL,26,28,20,30,NULL,27,14,22,31,NULL,NBA
+27,210224012,2001,"Sat, Feb 24",Los Angeles Clippers,Portland Trail Blazers,"20-38, 12-16 Home","38-18, 16-12 Away",123,120,NULL,NULL,Final/2OT,NULL,24,27,23,27,22,25,25,8,43,19,NBA
+28,210227024,2001,"Tue, Feb 27",San Antonio Spurs,Portland Trail Blazers,"37-19, 22-6 Home","40-18, 18-12 Away",87,95,NULL,NULL,Final,NULL,28,21,16,22,NULL,17,21,33,24,NULL,NBA
+29,210303022,2001,"Sat, Mar 3",Portland Trail Blazers,Golden State Warriors,"42-18, 24-6 Home","16-43, 6-25 Away",122,91,NULL,NULL,Final,NULL,37,27,33,25,NULL,20,27,20,24,NULL,NBA
+30,210308022,2001,"Thu, Mar 8",Portland Trail Blazers,San Antonio Spurs,"42-20, 24-8 Home","42-19, 18-13 Away",79,93,NULL,NULL,Final,NULL,19,23,14,23,NULL,27,24,27,15,NULL,NBA
+31,210313025,2001,"Tue, Mar 13",Seattle SuperSonics,Portland Trail Blazers,"33-33, 18-13 Home","42-22, 18-14 Away",99,90,NULL,NULL,Final,NULL,24,29,22,24,NULL,22,26,16,26,NULL,NBA
+32,210316022,2001,"Fri, Mar 16",Portland Trail Blazers,Utah Jazz,"43-23, 25-9 Home","44-20, 21-11 Away",90,87,NULL,NULL,Final,NULL,22,25,25,18,NULL,21,21,22,23,NULL,NBA
+33,210320006,2001,"Tue, Mar 20",Dallas Mavericks,Portland Trail Blazers,"43-24, 24-12 Home","44-24, 19-15 Away",88,96,NULL,NULL,Final,NULL,24,19,23,22,NULL,14,24,25,33,NULL,NBA
+34,210326022,2001,"Mon, Mar 26",Portland Trail Blazers,Los Angeles Clippers,"46-24, 26-9 Home","25-46, 8-28 Away",104,96,NULL,NULL,Final,NULL,21,34,25,24,NULL,15,32,19,30,NULL,NBA
+35,210330022,2001,"Fri, Mar 30",Portland Trail Blazers,New York Knicks,"47-25, 27-10 Home","42-30, 17-19 Away",96,79,NULL,NULL,Final,NULL,24,25,28,19,NULL,25,21,21,12,NULL,NBA
+36,210403007,2001,"Tue, Apr 3",Denver Nuggets,Portland Trail Blazers,"36-39, 26-11 Home","47-27, 20-16 Away",94,92,NULL,NULL,Final,NULL,22,26,26,20,NULL,23,26,17,26,NULL,NBA
+37,210406009,2001,"Fri, Apr 6",Golden State Warriors,Portland Trail Blazers,"17-58, 11-26 Home","48-28, 21-17 Away",91,122,NULL,NULL,Final,NULL,17,19,22,33,NULL,38,29,35,20,NULL,NBA
+38,210410022,2001,"Tue, Apr 10",Portland Trail Blazers,Golden State Warriors,"49-29, 28-11 Home","17-60, 6-33 Away",116,88,NULL,NULL,Final,NULL,28,27,35,26,NULL,19,20,27,22,NULL,NBA
+39,210413022,2001,"Fri, Apr 13",Portland Trail Blazers,Houston Rockets,"50-30, 28-12 Home","43-37, 20-20 Away",103,109,NULL,NULL,Final,NULL,22,26,27,28,NULL,26,32,23,28,NULL,NBA
+40,201031022,2001,"Tue, Oct 31",Portland Trail Blazers,Los Angeles Lakers,"0-1, 0-1 Home","1-0, 1-0 Away",86,96,NULL,NULL,Final,NULL,22,22,23,19,NULL,27,26,14,29,NULL,NBA
+41,201104025,2001,"Sat, Nov 4",Seattle SuperSonics,Portland Trail Blazers,"1-2, 1-1 Home","1-2, 1-1 Away",90,97,NULL,NULL,Final,NULL,22,20,20,28,NULL,27,25,25,20,NULL,NBA
+42,201107022,2001,"Tue, Nov 7",Portland Trail Blazers,Atlanta Hawks,"2-3, 1-1 Home","0-5, 0-3 Away",97,88,NULL,NULL,Final,NULL,25,26,27,19,NULL,15,30,17,26,NULL,NBA
+43,201111022,2001,"Sat, Nov 11",Portland Trail Blazers,Houston Rockets,"4-3, 3-1 Home","3-4, 0-3 Away",111,88,NULL,NULL,Final,NULL,30,25,30,26,NULL,22,20,22,24,NULL,NBA
+44,201114001,2001,"Tue, Nov 14",Atlanta Hawks,Portland Trail Blazers,"1-7, 1-2 Home","5-4, 2-3 Away",99,97,NULL,NULL,Final,NULL,19,30,26,24,NULL,26,31,14,26,NULL,NBA
+45,201118014,2001,"Sat, Nov 18",Miami Heat,Portland Trail Blazers,"5-5, 4-1 Home","6-5, 3-4 Away",86,80,NULL,NULL,Final,NULL,21,22,15,28,NULL,27,19,16,18,NULL,NBA
+46,201121027,2001,"Tue, Nov 21",Washington Wizards,Portland Trail Blazers,"3-9, 1-5 Home","8-5, 5-4 Away",94,104,NULL,NULL,Final,NULL,26,29,24,15,NULL,26,36,22,20,NULL,NBA
+47,201125022,2001,"Sat, Nov 25",Portland Trail Blazers,New Jersey Nets,"10-5, 4-1 Home","6-7, 3-3 Away",86,84,NULL,NULL,Final,NULL,28,18,26,14,NULL,17,26,21,20,NULL,NBA
+48,201130022,2001,"Thu, Nov 30",Portland Trail Blazers,Dallas Mavericks,"11-6, 5-2 Home","10-6, 5-3 Away",95,84,NULL,NULL,Final,NULL,27,25,27,16,NULL,19,26,23,16,NULL,NBA
+49,201203021,2001,"Sun, Dec 3",Phoenix Suns,Portland Trail Blazers,"11-5, 9-1 Home","12-7, 7-5 Away",84,79,NULL,NULL,Final,NULL,18,13,29,24,NULL,19,17,22,21,NULL,NBA
+50,201208022,2001,"Fri, Dec 8",Portland Trail Blazers,Philadelphia 76ers,"13-8, 6-3 Home","15-4, 8-4 Away",94,107,NULL,NULL,Final,CSN,30,28,15,21,NULL,32,33,20,22,NULL,NBA
+51,201212009,2001,"Tue, Dec 12",Golden State Warriors,Portland Trail Blazers,"6-16, 5-6 Home","15-8, 8-5 Away",93,101,NULL,NULL,Final,NULL,23,20,24,26,NULL,21,27,27,26,NULL,NBA
+52,201215022,2001,"Fri, Dec 15",Portland Trail Blazers,Orlando Magic,"17-8, 9-3 Home","9-14, 3-8 Away",106,96,NULL,NULL,Final,NULL,28,29,28,21,NULL,22,19,29,26,NULL,NBA
+53,201222007,2001,"Fri, Dec 22",Denver Nuggets,Portland Trail Blazers,"14-13, 10-4 Home","17-10, 8-7 Away",116,96,NULL,NULL,Final,NULL,30,32,31,23,NULL,25,25,21,25,NULL,NBA
+54,201225013,2001,"Mon, Dec 25",Los Angeles Lakers,Portland Trail Blazers,"20-10, 12-4 Home","19-10, 9-7 Away",104,109,NULL,NULL,Final,NULL,30,31,20,23,NULL,21,34,25,29,NULL,NBA
+55,201229022,2001,"Fri, Dec 29",Portland Trail Blazers,Vancouver Grizzlies,"21-10, 11-3 Home","8-21, 3-9 Away",104,81,NULL,NULL,Final,NULL,21,25,33,25,NULL,21,16,22,22,NULL,NBA
+56,210103022,2001,"Wed, Jan 3",Portland Trail Blazers,Indiana Pacers,"23-10, 13-3 Home","14-19, 6-12 Away",102,86,NULL,NULL,Final,NULL,22,23,30,27,NULL,16,24,18,28,NULL,NBA
+57,210108002,2001,"Mon, Jan 8",Boston Celtics,Portland Trail Blazers,"12-23, 9-12 Home","25-10, 11-7 Away",90,98,NULL,NULL,Final,NULL,23,23,26,18,NULL,22,22,25,29,NULL,NBA
+58,210111003,2001,"Thu, Jan 11",Charlotte Hornets,Portland Trail Blazers,"22-15, 13-4 Home","27-10, 13-7 Away",70,83,NULL,NULL,Final,NULL,18,24,16,12,NULL,32,11,15,25,NULL,NBA
+59,210114008,2001,"Sun, Jan 14",Detroit Pistons,Portland Trail Blazers,"14-23, 8-10 Home","28-11, 14-8 Away",96,103,NULL,NULL,Final,NULL,26,23,17,30,NULL,37,22,17,27,NULL,NBA
+60,210118022,2001,"Thu, Jan 18",Portland Trail Blazers,Miami Heat,"30-11, 16-3 Home","23-18, 9-12 Away",85,74,NULL,NULL,Final,NULL,27,14,28,16,NULL,10,21,21,22,NULL,NBA
+61,210122005,2001,"Mon, Jan 22",Cleveland Cavaliers,Portland Trail Blazers,"19-20, 12-5 Home","30-13, 14-9 Away",84,58,NULL,NULL,Final,NULL,17,22,20,25,NULL,15,9,21,13,NULL,NBA
+62,210125011,2001,"Thu, Jan 25",Indiana Pacers,Portland Trail Blazers,"20-22, 11-8 Home","32-13, 16-9 Away",82,92,NULL,NULL,Final,NULL,19,14,23,26,NULL,27,20,12,33,NULL,NBA
+63,210130022,2001,"Tue, Jan 30",Portland Trail Blazers,Chicago Bulls,"33-14, 17-4 Home","6-38, 2-21 Away",92,81,NULL,NULL,Final,NULL,27,17,15,33,NULL,26,13,18,24,NULL,NBA
+64,210203012,2001,"Sat, Feb 3",Los Angeles Clippers,Portland Trail Blazers,"15-33, 10-16 Home","34-15, 16-11 Away",90,89,NULL,NULL,Final,NULL,27,17,29,17,NULL,28,22,24,15,NULL,NBA
+65,210213022,2001,"Tue, Feb 13",Portland Trail Blazers,Minnesota Timberwolves,"36-15, 20-4 Home","32-19, 13-12 Away",109,88,NULL,NULL,Final,NULL,28,26,27,28,NULL,16,23,19,30,NULL,NBA
+66,210217022,2001,"Sat, Feb 17",Portland Trail Blazers,Boston Celtics,"37-16, 21-5 Home","24-28, 9-15 Away",81,85,NULL,NULL,Final,NULL,22,18,18,23,NULL,26,19,16,24,NULL,NBA
+67,210222022,2001,"Thu, Feb 22",Portland Trail Blazers,Utah Jazz,"38-17, 22-6 Home","36-16, 17-7 Away",84,90,NULL,NULL,Final,NULL,21,19,18,26,NULL,22,24,21,23,NULL,NBA
+68,210226010,2001,"Mon, Feb 26",Houston Rockets,Portland Trail Blazers,"30-27, 15-14 Home","39-18, 17-12 Away",89,95,NULL,NULL,Final,NULL,28,27,20,14,NULL,22,26,21,26,NULL,NBA
+69,210301022,2001,"Thu, Mar 1",Portland Trail Blazers,Los Angeles Clippers,"41-18, 23-6 Home","20-41, 8-24 Away",94,81,NULL,NULL,Final,NULL,25,20,24,25,NULL,26,20,16,19,NULL,NBA
+70,210306022,2001,"Tue, Mar 6",Portland Trail Blazers,Vancouver Grizzlies,"42-19, 24-7 Home","19-43, 7-23 Away",97,105,NULL,NULL,Final,NULL,29,21,26,21,NULL,26,20,26,33,NULL,NBA
+71,210309029,2001,"Fri, Mar 9",Vancouver Grizzlies,Portland Trail Blazers,"20-43, 13-20 Home","42-21, 18-13 Away",95,85,NULL,NULL,Final,NULL,22,23,27,23,NULL,28,15,27,15,NULL,NBA
+72,210314022,2001,"Wed, Mar 14",Portland Trail Blazers,Phoenix Suns,"42-23, 24-9 Home","38-25, 16-16 Away",79,84,NULL,NULL,Final,NULL,13,14,28,24,NULL,23,15,24,22,NULL,NBA
+73,210319024,2001,"Mon, Mar 19",San Antonio Spurs,Portland Trail Blazers,"47-20, 28-6 Home","43-24, 18-15 Away",98,85,NULL,NULL,Final,NULL,29,25,24,20,NULL,18,24,23,20,NULL,NBA
+74,210322026,2001,"Thu, Mar 22",Utah Jazz,Portland Trail Blazers,"46-21, 24-10 Home","45-24, 20-15 Away",99,101,NULL,NULL,Final,NULL,28,29,20,22,NULL,26,22,22,31,NULL,NBA
+75,210328022,2001,"Wed, Mar 28",Portland Trail Blazers,Dallas Mavericks,"46-25, 26-10 Home","46-25, 21-13 Away",84,94,NULL,NULL,Final,NULL,28,15,20,21,NULL,23,18,26,27,NULL,NBA
+76,210401022,2001,"Sun, Apr 1",Portland Trail Blazers,Minnesota Timberwolves,"47-26, 27-11 Home","43-30, 16-20 Away",95,99,NULL,NULL,Final,NULL,28,34,23,10,NULL,33,26,22,18,NULL,NBA
+77,210404016,2001,"Wed, Apr 4",Minnesota Timberwolves,Portland Trail Blazers,"44-30, 28-10 Home","47-28, 20-17 Away",83,79,NULL,NULL,Final,NULL,16,25,24,18,NULL,23,23,21,12,NULL,NBA
+78,210408023,2001,"Sun, Apr 8",Sacramento Kings,Portland Trail Blazers,"52-24, 31-8 Home","48-29, 21-18 Away",98,89,NULL,NULL,Final,NULL,17,26,29,26,NULL,29,13,32,15,NULL,NBA
+79,210412029,2001,"Thu, Apr 12",Vancouver Grizzlies,Portland Trail Blazers,"22-57, 15-25 Home","50-29, 22-18 Away",87,100,NULL,NULL,Final,NULL,21,18,17,31,NULL,19,24,31,26,NULL,NBA
+80,210415013,2001,"Sun, Apr 15",Los Angeles Lakers,Portland Trail Blazers,"55-26, 30-10 Home","50-31, 22-19 Away",105,100,NULL,NULL,Final,NULL,29,24,31,21,NULL,23,31,23,23,NULL,NBA
+81,210417022,2001,"Tue, Apr 17",Portland Trail Blazers,San Antonio Spurs,"50-32, 28-13 Home","58-23, 25-15 Away",93,99,NULL,NULL,Final,NULL,20,25,25,23,NULL,22,21,26,30,NULL,NBA

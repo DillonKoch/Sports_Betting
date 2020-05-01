@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,400488903,2014,"Fri, Nov 1",Phoenix Suns,Utah Jazz,"2-0, 2-0 Home","0-2, 0-1 Away",87,84,NULL,NULL,Final,NULL,29,14,20,24,NULL,23,23,16,22,NULL,NBA
+1,400488928,2014,"Tue, Nov 5",New Orleans Pelicans,Phoenix Suns,"1-3, 1-2 Home","3-1, 1-1 Away",98,104,NULL,NULL,Final,NULL,28,17,24,29,NULL,17,24,37,26,NULL,NBA
+2,400488956,2014,"Fri, Nov 8",Phoenix Suns,Denver Nuggets,"4-2, 3-0 Home","1-4, 0-2 Away",114,103,NULL,NULL,Final,NULL,35,29,20,30,NULL,29,18,40,16,NULL,NBA
+3,400488993,2014,"Wed, Nov 13",Portland Trail Blazers,Phoenix Suns,"6-2, 4-1 Home","5-3, 1-3 Away",90,89,NULL,NULL,Final,NULL,25,16,21,28,NULL,22,21,25,21,NULL,NBA
+4,400489033,2014,"Tue, Nov 19",Sacramento Kings,Phoenix Suns,"3-7, 3-5 Home","5-5, 1-4 Away",107,104,NULL,NULL,Final,NULL,33,21,28,25,NULL,25,37,26,16,NULL,NBA
+5,400489049,2014,"Fri, Nov 22",Charlotte Bobcats,Phoenix Suns,"6-7, 3-4 Home","6-6, 2-4 Away",91,98,NULL,NULL,Final,NULL,24,20,19,28,NULL,27,28,19,24,NULL,NBA
+6,400489078,2014,"Mon, Nov 25",Miami Heat,Phoenix Suns,"11-3, 8-1 Home","7-7, 3-5 Away",107,92,NULL,NULL,Final,NULL,24,26,29,28,NULL,21,26,24,21,NULL,NBA
+7,400489112,2014,"Fri, Nov 29",Utah Jazz,Phoenix Suns,"2-15, 2-6 Home","9-7, 4-5 Away",101,112,NULL,NULL,Final,NULL,33,18,27,23,NULL,31,31,33,17,NULL,NBA
+8,400489138,2014,"Tue, Dec 3",Memphis Grizzlies,Phoenix Suns,"9-8, 4-5 Home","9-9, 4-6 Away",110,91,NULL,NULL,Final,NULL,23,23,36,28,NULL,19,35,20,17,NULL,NBA
+9,400489160,2014,"Fri, Dec 6",Phoenix Suns,Toronto Raptors,"11-9, 6-3 Home","6-12, 3-6 Away",106,97,NULL,NULL,Final,NULL,27,25,29,25,NULL,27,23,24,23,NULL,NBA
+10,400489213,2014,"Fri, Dec 13",Phoenix Suns,Sacramento Kings,"13-9, 7-3 Home","6-15, 2-5 Away",116,107,NULL,NULL,Final,NULL,28,30,27,31,NULL,34,27,21,25,NULL,NBA
+11,400489251,2014,"Wed, Dec 18",Phoenix Suns,San Antonio Spurs,"14-10, 8-4 Home","20-5, 11-3 Away",101,108,NULL,NULL,Final,NULL,34,24,23,20,NULL,29,30,28,21,NULL,NBA
+12,400489273,2014,"Sat, Dec 21",Phoenix Suns,Dallas Mavericks,"16-10, 9-4 Home","15-12, 4-9 Away",123,108,NULL,NULL,Final,NULL,38,25,28,32,NULL,25,33,24,26,NULL,NBA
+13,400489308,2014,"Fri, Dec 27",Golden State Warriors,Phoenix Suns,"18-13, 11-4 Home","17-11, 7-7 Away",115,86,NULL,NULL,Final,NULL,28,31,26,30,NULL,22,18,24,22,NULL,NBA
+14,400489332,2014,"Mon, Dec 30",LA Clippers,Phoenix Suns,"21-12, 13-3 Home","19-11, 8-7 Away",88,107,NULL,NULL,Final,NULL,24,16,19,29,NULL,30,31,27,19,NULL,NBA
+15,400489368,2014,"Sat, Jan 4",Phoenix Suns,Milwaukee Bucks,"20-12, 12-5 Home","7-26, 4-14 Away",116,100,NULL,NULL,Final,NULL,28,32,27,29,NULL,26,23,29,22,NULL,NBA
+16,400489397,2014,"Wed, Jan 8",Minnesota Timberwolves,Phoenix Suns,"17-18, 10-7 Home","21-13, 9-8 Away",103,104,NULL,NULL,Final,ESPN,23,24,30,26,NULL,27,26,19,32,NULL,NBA
+17,400489418,2014,"Sat, Jan 11",Detroit Pistons,Phoenix Suns,"16-22, 7-12 Home","21-15, 9-10 Away",110,108,NULL,NULL,Final,NULL,35,29,25,21,NULL,21,30,28,29,NULL,NBA
+18,400489447,2014,"Wed, Jan 15",Phoenix Suns,Los Angeles Lakers,"22-16, 13-5 Home","14-25, 6-14 Away",121,114,NULL,NULL,Final,NULL,26,28,34,33,NULL,27,31,24,32,NULL,NBA
+19,400489478,2014,"Sun, Jan 19",Phoenix Suns,Denver Nuggets,"23-17, 14-6 Home","20-20, 9-11 Away",117,103,NULL,NULL,Final,NULL,34,28,22,33,NULL,25,31,23,24,NULL,NBA
+20,400489516,2014,"Fri, Jan 24",Phoenix Suns,Washington Wizards,"24-18, 15-7 Home","21-21, 11-10 Away",95,101,NULL,NULL,Final,NULL,29,28,19,19,NULL,30,21,31,19,NULL,NBA
+21,400489535,2014,"Mon, Jan 27",Philadelphia 76ers,Phoenix Suns,"14-31, 8-15 Home","26-18, 11-11 Away",113,124,NULL,NULL,Final,NULL,26,28,28,31,NULL,40,22,33,29,NULL,NBA
+22,400489559,2014,"Thu, Jan 30",Indiana Pacers,Phoenix Suns,"35-10, 21-2 Home","28-18, 13-11 Away",94,102,NULL,NULL,Final,NULL,19,30,25,20,NULL,36,30,11,25,NULL,NBA
+23,400489596,2014,"Tue, Feb 4",Phoenix Suns,Chicago Bulls,"29-19, 16-8 Home","24-24, 11-14 Away",92,101,NULL,NULL,Final,NBATV,13,20,30,29,NULL,21,23,25,32,NULL,NBA
+24,400489627,2014,"Sat, Feb 8",Phoenix Suns,Golden State Warriors,"30-20, 17-8 Home","30-21, 15-12 Away",122,109,NULL,NULL,Final,NULL,29,34,32,27,NULL,28,31,31,19,NULL,NBA
+25,400489672,2014,"Tue, Feb 18",Denver Nuggets,Phoenix Suns,"24-28, 14-12 Home","31-21, 14-12 Away",107,112,NULL,NULL,Final/OT,NULL,25,26,26,22,8,31,21,24,23,13,NBA
+26,400489695,2014,"Fri, Feb 21",Phoenix Suns,San Antonio Spurs,"33-21, 19-9 Home","40-16, 22-8 Away",106,85,NULL,NULL,Final,NULL,19,28,27,32,NULL,23,12,22,28,NULL,NBA
+27,400489724,2014,"Tue, Feb 25",Phoenix Suns,Minnesota Timberwolves,"33-23, 19-11 Home","28-29, 12-18 Away",101,110,NULL,NULL,Final,NULL,28,29,24,20,NULL,34,21,20,35,NULL,NBA
+28,400489746,2014,"Fri, Feb 28",Phoenix Suns,New Orleans Pelicans,"34-24, 20-11 Home","23-35, 10-21 Away",116,104,NULL,NULL,Final,ESPN,30,26,25,35,NULL,28,26,27,23,NULL,NBA
+29,400489775,2014,"Tue, Mar 4",Phoenix Suns,LA Clippers,"35-25, 21-12 Home","42-20, 17-15 Away",96,104,NULL,NULL,Final,NULL,25,30,18,23,NULL,24,20,37,23,NULL,NBA
+30,400489815,2014,"Sun, Mar 9",Golden State Warriors,Phoenix Suns,"40-24, 20-10 Home","36-26, 14-14 Away",113,107,NULL,NULL,Final,NBATV,22,34,38,19,NULL,29,32,17,29,NULL,NBA
+31,400489839,2014,"Wed, Mar 12",Phoenix Suns,Cleveland Cavaliers,"36-28, 22-13 Home","25-40, 10-23 Away",101,110,NULL,NULL,Final,NULL,24,23,30,24,NULL,37,23,22,28,NULL,NBA
+32,400489861,2014,"Sun, Mar 16",Toronto Raptors,Phoenix Suns,"37-28, 20-13 Home","38-28, 16-15 Away",113,121,NULL,NULL,Final,NULL,35,24,31,23,NULL,37,24,35,25,NULL,NBA
+33,400489889,2014,"Wed, Mar 19",Phoenix Suns,Orlando Magic,"39-29, 23-13 Home","19-50, 4-32 Away",109,93,NULL,NULL,Final,NULL,25,27,30,27,NULL,25,27,24,17,NULL,NBA
+34,400489914,2014,"Sun, Mar 23",Minnesota Timberwolves,Phoenix Suns,"34-34, 19-14 Home","41-29, 17-16 Away",120,127,NULL,NULL,Final,NULL,41,32,30,17,NULL,27,35,31,34,NULL,NBA
+35,400489935,2014,"Wed, Mar 26",Washington Wizards,Phoenix Suns,"36-35, 17-17 Home","43-29, 19-16 Away",93,99,NULL,NULL,Final,NULL,23,21,25,24,NULL,25,29,25,20,NULL,NBA
+36,400489973,2014,"Sun, Mar 30",Los Angeles Lakers,Phoenix Suns,"25-48, 14-22 Home","44-30, 19-17 Away",115,99,NULL,NULL,Final,NULL,26,35,28,26,NULL,15,28,31,25,NULL,NBA
+37,400490013,2014,"Fri, Apr 4",Portland Trail Blazers,Phoenix Suns,"49-28, 27-10 Home","45-31, 20-17 Away",93,109,NULL,NULL,Final,NULL,26,28,26,13,NULL,28,23,28,30,NULL,NBA
+38,400490043,2014,"Wed, Apr 9",New Orleans Pelicans,Phoenix Suns,"32-46, 20-19 Home","47-31, 21-17 Away",88,94,NULL,NULL,Final,NULL,14,32,18,24,NULL,23,24,24,23,NULL,NBA
+39,400490068,2014,"Sat, Apr 12",Dallas Mavericks,Phoenix Suns,"49-32, 26-15 Home","47-33, 21-19 Away",101,98,NULL,NULL,Final,NBATV,27,19,29,26,NULL,26,31,21,20,NULL,NBA
+40,400488888,2014,"Wed, Oct 30",Phoenix Suns,Portland Trail Blazers,"1-0, 1-0 Home","0-1, 0-1 Away",104,91,NULL,NULL,Final,NULL,30,20,31,23,NULL,16,30,23,22,NULL,NBA
+41,400488917,2014,"Sun, Nov 3",Oklahoma City Thunder,Phoenix Suns,"2-1, 1-0 Home","2-1, 0-1 Away",103,96,NULL,NULL,Final,NBATV,21,23,23,36,NULL,24,21,25,26,NULL,NBA
+42,400488941,2014,"Wed, Nov 6",San Antonio Spurs,Phoenix Suns,"4-1, 2-0 Home","3-2, 1-2 Away",99,96,NULL,NULL,Final,NULL,29,22,22,26,NULL,21,32,20,23,NULL,NBA
+43,400488969,2014,"Sun, Nov 10",Phoenix Suns,New Orleans Pelicans,"5-2, 4-0 Home","3-4, 1-2 Away",101,94,NULL,NULL,Final,NULL,19,23,29,30,NULL,16,22,27,29,NULL,NBA
+44,400489005,2014,"Fri, Nov 15",Phoenix Suns,Brooklyn Nets,"5-4, 4-1 Home","3-5, 1-4 Away",98,100,NULL,NULL,Final/OT,NULL,29,21,17,25,6,18,28,27,19,8,NBA
+45,400489044,2014,"Wed, Nov 20",Phoenix Suns,Sacramento Kings,"5-6, 4-2 Home","4-7, 1-2 Away",106,113,NULL,NULL,Final,NULL,27,23,12,44,NULL,27,28,19,39,NULL,NBA
+46,400489072,2014,"Sun, Nov 24",Orlando Magic,Phoenix Suns,"4-9, 4-4 Home","7-6, 3-4 Away",96,104,NULL,NULL,Final,NBATV,21,23,28,24,NULL,31,22,27,24,NULL,NBA
+47,400489099,2014,"Wed, Nov 27",Phoenix Suns,Portland Trail Blazers,"8-7, 5-2 Home","13-3, 7-2 Away",120,106,NULL,NULL,Final,NULL,21,40,29,30,NULL,32,26,18,30,NULL,NBA
+48,400489119,2014,"Sat, Nov 30",Phoenix Suns,Utah Jazz,"9-8, 5-3 Home","3-15, 1-9 Away",104,112,NULL,NULL,Final,NULL,23,30,24,27,NULL,28,21,29,34,NULL,NBA
+49,400489144,2014,"Wed, Dec 4",Houston Rockets,Phoenix Suns,"13-7, 8-3 Home","10-9, 5-6 Away",88,97,NULL,NULL,Final,NULL,20,20,21,27,NULL,25,26,22,24,NULL,NBA
+50,400489190,2014,"Tue, Dec 10",Los Angeles Lakers,Phoenix Suns,"10-11, 6-6 Home","12-9, 6-6 Away",108,114,NULL,NULL,Final,NULL,21,30,23,34,NULL,26,30,23,35,NULL,NBA
+51,400489228,2014,"Sun, Dec 15",Phoenix Suns,Golden State Warriors,"14-9, 8-3 Home","13-12, 6-9 Away",106,102,NULL,NULL,Final,NULL,33,26,22,25,NULL,27,26,27,22,NULL,NBA
+52,400489263,2014,"Fri, Dec 20",Denver Nuggets,Phoenix Suns,"14-11, 7-5 Home","15-10, 7-6 Away",99,103,NULL,NULL,Final,NULL,28,34,20,17,NULL,20,28,24,31,NULL,NBA
+53,400489289,2014,"Mon, Dec 23",Phoenix Suns,Los Angeles Lakers,"17-10, 10-4 Home","13-15, 6-9 Away",117,90,NULL,NULL,Final,NULL,28,36,26,27,NULL,24,27,17,22,NULL,NBA
+54,400489318,2014,"Sat, Dec 28",Phoenix Suns,Philadelphia 76ers,"18-11, 11-4 Home","8-21, 1-13 Away",115,101,NULL,NULL,Final,NULL,36,24,28,27,NULL,27,32,22,20,NULL,NBA
+55,400489351,2014,"Thu, Jan 2",Phoenix Suns,Memphis Grizzlies,"19-12, 11-5 Home","14-17, 7-6 Away",91,99,NULL,NULL,Final,NULL,26,15,32,18,NULL,22,31,16,30,NULL,NBA
+56,400489386,2014,"Tue, Jan 7",Chicago Bulls,Phoenix Suns,"15-18, 10-7 Home","20-13, 8-8 Away",92,87,NULL,NULL,Final,WGNS,27,22,21,22,NULL,25,21,17,24,NULL,NBA
+57,400489407,2014,"Fri, Jan 10",Memphis Grizzlies,Phoenix Suns,"16-19, 8-12 Home","21-14, 9-9 Away",104,99,NULL,NULL,Final,NULL,25,23,26,30,NULL,29,26,19,25,NULL,NBA
+58,400489430,2014,"Mon, Jan 13",New York Knicks,Phoenix Suns,"15-22, 7-12 Home","21-16, 9-11 Away",98,96,NULL,NULL,Final/OT,NULL,28,24,23,17,6,21,22,25,24,4,NBA
+59,400489464,2014,"Fri, Jan 17",Phoenix Suns,Dallas Mavericks,"22-17, 13-6 Home","24-17, 10-11 Away",107,110,NULL,NULL,Final,NULL,30,26,19,32,NULL,36,22,26,26,NULL,NBA
+60,400489502,2014,"Wed, Jan 22",Phoenix Suns,Indiana Pacers,"24-17, 15-6 Home","33-8, 12-7 Away",124,100,NULL,NULL,Final,ESPN,30,32,34,28,NULL,29,20,30,21,NULL,NBA
+61,400489530,2014,"Sun, Jan 26",Cleveland Cavaliers,Phoenix Suns,"16-28, 11-11 Home","25-18, 10-11 Away",90,99,NULL,NULL,Final,NULL,29,32,6,23,NULL,22,21,25,31,NULL,NBA
+62,400489552,2014,"Wed, Jan 29",Milwaukee Bucks,Phoenix Suns,"8-37, 4-18 Home","27-18, 12-11 Away",117,126,NULL,NULL,Final,NULL,19,31,34,33,NULL,28,34,29,35,NULL,NBA
+63,400489579,2014,"Sat, Feb 1",Phoenix Suns,Charlotte Bobcats,"29-18, 16-7 Home","21-28, 10-15 Away",105,95,NULL,NULL,Final,NULL,32,27,31,15,NULL,27,14,22,32,NULL,NBA
+64,400489602,2014,"Wed, Feb 5",Houston Rockets,Phoenix Suns,"33-17, 21-7 Home","29-20, 13-12 Away",122,108,NULL,NULL,Final,NULL,35,31,29,27,NULL,30,33,27,18,NULL,NBA
+65,400489647,2014,"Tue, Feb 11",Phoenix Suns,Miami Heat,"30-21, 17-9 Home","36-14, 16-10 Away",97,103,NULL,NULL,Final,NULL,25,21,28,23,NULL,22,21,28,32,NULL,NBA
+66,400489680,2014,"Wed, Feb 19",Phoenix Suns,Boston Celtics,"32-21, 18-9 Home","19-36, 8-19 Away",100,94,NULL,NULL,Final,NULL,29,23,24,24,NULL,21,29,21,23,NULL,NBA
+67,400489711,2014,"Sun, Feb 23",Phoenix Suns,Houston Rockets,"33-22, 19-10 Home","38-18, 16-11 Away",112,115,NULL,NULL,Final,ESPN,16,40,37,19,NULL,30,30,23,32,NULL,NBA
+68,400489733,2014,"Wed, Feb 26",Utah Jazz,Phoenix Suns,"21-36, 14-16 Home","33-24, 14-13 Away",109,86,NULL,NULL,Final,NULL,28,25,25,31,NULL,25,19,20,22,NULL,NBA
+69,400489762,2014,"Sun, Mar 2",Phoenix Suns,Atlanta Hawks,"35-24, 21-11 Home","26-32, 9-21 Away",129,120,NULL,NULL,Final,NULL,40,39,23,27,NULL,37,28,30,25,NULL,NBA
+70,400489788,2014,"Thu, Mar 6",Phoenix Suns,Oklahoma City Thunder,"36-25, 22-12 Home","46-16, 20-10 Away",128,122,NULL,NULL,Final,NULL,32,29,40,27,NULL,41,24,33,24,NULL,NBA
+71,400489822,2014,"Mon, Mar 10",LA Clippers,Phoenix Suns,"45-20, 27-5 Home","36-27, 14-15 Away",112,105,NULL,NULL,Final,NBATV,34,28,28,22,NULL,23,22,31,29,NULL,NBA
+72,400489848,2014,"Fri, Mar 14",Boston Celtics,Phoenix Suns,"22-44, 14-21 Home","37-28, 15-15 Away",80,87,NULL,NULL,Final,NULL,22,22,16,20,NULL,29,17,18,23,NULL,NBA
+73,400489871,2014,"Mon, Mar 17",Brooklyn Nets,Phoenix Suns,"34-31, 21-11 Home","38-29, 16-16 Away",108,95,NULL,NULL,Final,NULL,30,32,28,18,NULL,20,29,23,23,NULL,NBA
+74,400489902,2014,"Fri, Mar 21",Phoenix Suns,Detroit Pistons,"40-29, 24-13 Home","25-43, 10-22 Away",98,92,NULL,NULL,Final,NULL,26,25,22,25,NULL,27,23,21,21,NULL,NBA
+75,400489921,2014,"Mon, Mar 24",Atlanta Hawks,Phoenix Suns,"31-38, 20-13 Home","42-29, 18-16 Away",95,102,NULL,NULL,Final,NULL,23,22,23,27,NULL,25,17,35,25,NULL,NBA
+76,400489958,2014,"Fri, Mar 28",Phoenix Suns,New York Knicks,"44-29, 25-13 Home","30-43, 14-22 Away",112,88,NULL,NULL,Final,NULL,34,28,26,24,NULL,26,14,26,22,NULL,NBA
+77,400489998,2014,"Wed, Apr 2",Phoenix Suns,LA Clippers,"44-31, 25-14 Home","54-22, 23-17 Away",108,112,NULL,NULL,Final,NULL,25,37,29,17,NULL,30,30,18,34,NULL,NBA
+78,400490029,2014,"Sun, Apr 6",Phoenix Suns,Oklahoma City Thunder,"46-31, 26-14 Home","55-21, 23-14 Away",122,115,NULL,NULL,Final,NBATV,28,34,32,28,NULL,25,28,38,24,NULL,NBA
+79,400490059,2014,"Fri, Apr 11",San Antonio Spurs,Phoenix Suns,"62-18, 32-8 Home","47-32, 21-18 Away",112,104,NULL,NULL,Final,NULL,24,25,37,26,NULL,37,25,19,23,NULL,NBA
+80,400490085,2014,"Mon, Apr 14",Phoenix Suns,Memphis Grizzlies,"47-34, 26-15 Home","49-32, 23-18 Away",91,97,NULL,NULL,Final,NULL,14,28,25,24,NULL,24,22,21,30,NULL,NBA
+81,400490102,2014,"Wed, Apr 16",Sacramento Kings,Phoenix Suns,"28-54, 17-24 Home","48-34, 22-19 Away",99,104,NULL,NULL,Final,NULL,24,23,27,25,NULL,21,26,24,33,NULL,NBA

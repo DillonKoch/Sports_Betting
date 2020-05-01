@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,291030013,2010,"Fri, Oct 30",Los Angeles Lakers,Dallas Mavericks,"1-1, 1-1 Home","1-1, 1-0 Away",80,94,NULL,NULL,Final,ESPN,21,24,15,20,NULL,24,28,26,16,NULL,NBA
+1,291103025,2010,"Tue, Nov 3",Oklahoma City Thunder,Los Angeles Lakers,"2-2, 1-2 Home","3-1, 1-0 Away",98,101,NULL,NULL,Final/OT,NBATV,25,26,22,17,8,32,20,19,19,11,NBA
+2,291106013,2010,"Fri, Nov 6",Los Angeles Lakers,Memphis Grizzlies,"5-1, 3-1 Home","1-5, 0-4 Away",114,98,NULL,NULL,Final,NULL,25,24,38,27,NULL,22,29,24,23,NULL,NBA
+3,291112013,2010,"Thu, Nov 12",Los Angeles Lakers,Phoenix Suns,"7-1, 5-1 Home","8-2, 5-2 Away",121,102,NULL,NULL,Final,TNT,31,28,33,29,NULL,24,21,26,31,NULL,NBA
+4,291115013,2010,"Sun, Nov 15",Los Angeles Lakers,Houston Rockets,"7-3, 5-2 Home","6-4, 3-3 Away",91,101,NULL,NULL,Final,NULL,29,25,19,18,NULL,23,29,28,21,NULL,NBA
+5,291119013,2010,"Thu, Nov 19",Los Angeles Lakers,Chicago Bulls,"9-3, 7-2 Home","6-5, 2-4 Away",108,93,NULL,NULL,Final,TNT,25,28,31,24,NULL,19,23,25,26,NULL,NBA
+6,291124013,2010,"Tue, Nov 24",Los Angeles Lakers,New York Knicks,"11-3, 9-2 Home","3-11, 2-4 Away",100,90,NULL,NULL,Final,NULL,30,25,28,17,NULL,24,21,17,28,NULL,NBA
+7,291129013,2010,"Sun, Nov 29",Los Angeles Lakers,New Jersey Nets,"13-3, 10-2 Home","0-17, 0-11 Away",106,87,NULL,NULL,Final,NULL,27,32,28,19,NULL,12,22,26,27,NULL,NBA
+8,291204013,2010,"Fri, Dec 4",Los Angeles Lakers,Miami Heat,"15-3, 12-2 Home","10-9, 4-4 Away",108,107,NULL,NULL,Final,ESPN,21,30,25,32,NULL,23,25,28,31,NULL,NBA
+9,291209013,2010,"Wed, Dec 9",Los Angeles Lakers,Utah Jazz,"17-3, 14-2 Home","12-9, 3-6 Away",101,77,NULL,NULL,Final,NULL,24,24,25,28,NULL,24,28,19,6,NULL,NBA
+10,291212026,2010,"Sat, Dec 12",Utah Jazz,Los Angeles Lakers,"14-9, 11-3 Home","18-4, 3-2 Away",102,94,NULL,NULL,Final,NULL,25,34,21,22,NULL,25,28,18,23,NULL,NBA
+11,291216015,2010,"Wed, Dec 16",Milwaukee Bucks,Los Angeles Lakers,"11-12, 9-4 Home","20-4, 5-2 Away",106,107,NULL,NULL,Final/OT,NULL,20,27,24,24,11,19,26,29,21,12,NBA
+12,291220008,2010,"Sun, Dec 20",Detroit Pistons,Los Angeles Lakers,"11-16, 8-5 Home","22-4, 7-2 Away",81,93,NULL,NULL,Final,NULL,19,19,24,19,NULL,31,25,27,10,NULL,NBA
+13,291225013,2010,"Fri, Dec 25",Los Angeles Lakers,Cleveland Cavaliers,"23-5, 16-3 Home","23-8, 12-6 Away",87,102,NULL,NULL,Final,ABC,19,23,17,28,NULL,23,28,25,26,NULL,NBA
+14,291228021,2010,"Mon, Dec 28",Phoenix Suns,Los Angeles Lakers,"20-12, 12-2 Home","24-6, 8-3 Away",118,103,NULL,NULL,Final,NULL,25,31,33,29,NULL,23,27,27,26,NULL,NBA
+15,300101013,2010,"Fri, Jan 1",Los Angeles Lakers,Sacramento Kings,"26-6, 18-3 Home","14-18, 3-12 Away",109,108,NULL,NULL,Final,NULL,23,26,30,30,NULL,28,36,22,22,NULL,NBA
+16,300105013,2010,"Tue, Jan 5",Los Angeles Lakers,Houston Rockets,"28-6, 20-3 Home","20-15, 10-11 Away",88,79,NULL,NULL,Final,NULL,22,19,18,29,NULL,15,18,22,24,NULL,NBA
+17,300108022,2010,"Fri, Jan 8",Portland Trail Blazers,Los Angeles Lakers,"23-15, 14-6 Home","28-8, 8-5 Away",107,98,NULL,NULL,Final,NULL,30,25,26,26,NULL,24,19,28,27,NULL,NBA
+18,300112024,2010,"Tue, Jan 12",San Antonio Spurs,Los Angeles Lakers,"23-13, 17-6 Home","29-9, 8-6 Away",105,85,NULL,NULL,Final,NBATV,27,26,22,30,NULL,23,18,22,22,NULL,NBA
+19,300115013,2010,"Fri, Jan 15",Los Angeles Lakers,LA Clippers,"31-9, 22-3 Home","17-21, 5-13 Away",126,86,NULL,NULL,Final,NULL,28,25,36,37,NULL,25,25,17,19,NULL,NBA
+20,300121005,2010,"Thu, Jan 21",Cleveland Cavaliers,Los Angeles Lakers,"33-11, 16-3 Home","32-10, 9-7 Away",93,87,NULL,NULL,Final,TNT,18,26,23,26,NULL,27,19,19,22,NULL,NBA
+21,300124028,2010,"Sun, Jan 24",Toronto Raptors,Los Angeles Lakers,"23-22, 15-6 Home","33-11, 10-8 Away",106,105,NULL,NULL,Final,NULL,21,33,28,24,NULL,24,32,28,21,NULL,NBA
+22,300127011,2010,"Wed, Jan 27",Indiana Pacers,Los Angeles Lakers,"16-30, 10-12 Home","35-11, 12-8 Away",96,118,NULL,NULL,Final,NBATV,29,27,22,18,NULL,31,28,33,26,NULL,NBA
+23,300131002,2010,"Sun, Jan 31",Boston Celtics,Los Angeles Lakers,"29-16, 13-8 Home","37-11, 14-8 Away",89,90,NULL,NULL,Final,ABC,19,33,21,16,NULL,30,17,19,24,NULL,NBA
+24,300203013,2010,"Wed, Feb 3",Los Angeles Lakers,Charlotte Bobcats,"38-12, 24-3 Home","24-24, 6-19 Away",99,97,NULL,NULL,Final,NULL,19,30,23,27,NULL,21,26,20,30,NULL,NBA
+25,300206022,2010,"Sat, Feb 6",Portland Trail Blazers,Los Angeles Lakers,"30-23, 18-10 Home","39-13, 15-9 Away",82,99,NULL,NULL,Final,NULL,29,19,16,18,NULL,26,28,19,26,NULL,NBA
+26,300210026,2010,"Wed, Feb 10",Utah Jazz,Los Angeles Lakers,"32-19, 22-7 Home","41-13, 16-9 Away",81,96,NULL,NULL,Final,NULL,18,23,16,24,NULL,31,25,20,20,NULL,NBA
+27,300218013,2010,"Thu, Feb 18",Los Angeles Lakers,Boston Celtics,"42-14, 26-5 Home","34-18, 19-9 Away",86,87,NULL,NULL,Final,TNT,27,21,21,17,NULL,30,23,23,11,NULL,NBA
+28,300224006,2010,"Wed, Feb 24",Dallas Mavericks,Los Angeles Lakers,"37-21, 19-9 Home","43-15, 17-10 Away",101,96,NULL,NULL,Final,ESPN,20,29,25,27,NULL,23,27,22,24,NULL,NBA
+29,300228013,2010,"Sun, Feb 28",Los Angeles Lakers,Denver Nuggets,"45-15, 28-5 Home","39-20, 14-15 Away",95,89,NULL,NULL,Final,ABC,21,22,24,28,NULL,29,23,18,19,NULL,NBA
+30,300304014,2010,"Thu, Mar 4",Miami Heat,Los Angeles Lakers,"31-31, 16-14 Home","46-16, 17-11 Away",114,111,NULL,NULL,Final/OT,TNT,26,18,30,25,15,27,20,21,31,12,NBA
+31,300307019,2010,"Sun, Mar 7",Orlando Magic,Los Angeles Lakers,"44-20, 25-6 Home","46-18, 17-13 Away",96,94,NULL,NULL,Final,ABC,31,21,22,22,NULL,24,24,16,30,NULL,NBA
+32,300312021,2010,"Fri, Mar 12",Phoenix Suns,Los Angeles Lakers,"40-26, 24-9 Home","48-18, 18-13 Away",96,102,NULL,NULL,Final,NULL,31,15,27,23,NULL,24,29,24,25,NULL,NBA
+33,300316023,2010,"Tue, Mar 16",Sacramento Kings,Los Angeles Lakers,"23-45, 17-17 Home","50-18, 20-13 Away",99,106,NULL,NULL,Final,NULL,17,31,20,31,NULL,28,21,28,29,NULL,NBA
+34,300321013,2010,"Sun, Mar 21",Los Angeles Lakers,Washington Wizards,"52-18, 32-5 Home","21-47, 9-25 Away",99,92,NULL,NULL,Final,NULL,24,35,23,17,NULL,18,15,27,32,NULL,NBA
+35,300326025,2010,"Fri, Mar 26",Oklahoma City Thunder,Los Angeles Lakers,"44-27, 24-12 Home","53-19, 21-14 Away",91,75,NULL,NULL,Final,NULL,27,26,27,11,NULL,15,19,13,28,NULL,NBA
+36,300329003,2010,"Mon, Mar 29",New Orleans Hornets,Los Angeles Lakers,"35-40, 23-14 Home","54-20, 22-15 Away",108,100,NULL,NULL,Final,NULL,27,23,27,31,NULL,22,20,21,37,NULL,NBA
+37,300402013,2010,"Fri, Apr 2",Los Angeles Lakers,Utah Jazz,"55-21, 33-5 Home","50-27, 19-19 Away",106,92,NULL,NULL,Final,ESPN,33,21,21,31,NULL,16,29,22,25,NULL,NBA
+38,300408007,2010,"Thu, Apr 8",Denver Nuggets,Los Angeles Lakers,"52-27, 33-6 Home","55-23, 22-17 Away",98,96,NULL,NULL,Final,TNT,22,35,16,25,NULL,20,27,27,22,NULL,NBA
+39,300411013,2010,"Sun, Apr 11",Los Angeles Lakers,Portland Trail Blazers,"56-24, 33-7 Home","49-31, 24-17 Away",88,91,NULL,NULL,Final,ABC,23,23,25,17,NULL,20,25,24,22,NULL,NBA
+40,291027013,2010,"Tue, Oct 27",Los Angeles Lakers,LA Clippers,"1-0, 1-0 Home","0-1, 0-1 Away",99,92,NULL,NULL,Final,TNT,32,27,17,23,NULL,22,27,26,17,NULL,NBA
+41,291101013,2010,"Sun, Nov 1",Los Angeles Lakers,Atlanta Hawks,"2-1, 2-1 Home","2-1, 0-1 Away",118,110,NULL,NULL,Final,NULL,27,37,34,20,NULL,25,33,18,34,NULL,NBA
+42,291104010,2010,"Wed, Nov 4",Houston Rockets,Los Angeles Lakers,"3-2, 1-1 Home","4-1, 2-0 Away",102,103,NULL,NULL,Final/OT,NULL,22,26,26,18,10,22,22,29,19,11,NBA
+43,291108013,2010,"Sun, Nov 8",Los Angeles Lakers,New Orleans Hornets,"6-1, 4-1 Home","2-5, 0-4 Away",104,88,NULL,NULL,Final,NULL,27,28,27,22,NULL,17,25,16,30,NULL,NBA
+44,291113007,2010,"Fri, Nov 13",Denver Nuggets,Los Angeles Lakers,"7-3, 3-0 Home","7-2, 2-1 Away",105,79,NULL,NULL,Final,ESPN,26,32,29,18,NULL,28,28,8,15,NULL,NBA
+45,291117013,2010,"Tue, Nov 17",Los Angeles Lakers,Detroit Pistons,"8-3, 6-2 Home","5-6, 2-4 Away",106,93,NULL,NULL,Final,NULL,23,34,31,18,NULL,22,20,21,30,NULL,NBA
+46,291122013,2010,"Sun, Nov 22",Los Angeles Lakers,Oklahoma City Thunder,"10-3, 8-2 Home","7-7, 4-4 Away",101,85,NULL,NULL,Final,NULL,35,22,22,22,NULL,16,18,24,27,NULL,NBA
+47,291128009,2010,"Sat, Nov 28",Golden State Warriors,Los Angeles Lakers,"5-10, 3-3 Home","12-3, 3-1 Away",97,130,NULL,NULL,Final,NULL,22,28,25,22,NULL,36,24,38,32,NULL,NBA
+48,291201013,2010,"Tue, Dec 1",Los Angeles Lakers,New Orleans Hornets,"14-3, 11-2 Home","7-11, 1-9 Away",110,99,NULL,NULL,Final,NBATV,31,31,28,20,NULL,27,15,27,30,NULL,NBA
+49,291206013,2010,"Sun, Dec 6",Los Angeles Lakers,Phoenix Suns,"16-3, 13-2 Home","15-6, 8-6 Away",108,88,NULL,NULL,Final,NULL,29,25,33,21,NULL,26,18,22,22,NULL,NBA
+50,291211013,2010,"Fri, Dec 11",Los Angeles Lakers,Minnesota Timberwolves,"18-3, 15-2 Home","3-20, 1-10 Away",104,92,NULL,NULL,Final,NULL,33,23,30,18,NULL,24,30,14,24,NULL,NBA
+51,291215004,2010,"Tue, Dec 15",Chicago Bulls,Los Angeles Lakers,"8-15, 6-5 Home","19-4, 4-2 Away",87,96,NULL,NULL,Final,NULL,31,17,25,14,NULL,31,23,18,24,NULL,NBA
+52,291219017,2010,"Sat, Dec 19",New Jersey Nets,Los Angeles Lakers,"2-26, 1-10 Home","21-4, 6-2 Away",84,103,NULL,NULL,Final,NULL,21,27,16,20,NULL,29,17,28,29,NULL,NBA
+53,291222013,2010,"Tue, Dec 22",Los Angeles Lakers,Oklahoma City Thunder,"23-4, 16-2 Home","13-14, 6-7 Away",111,108,NULL,NULL,Final,NULL,25,29,34,23,NULL,30,31,21,26,NULL,NBA
+54,291226023,2010,"Sat, Dec 26",Sacramento Kings,Los Angeles Lakers,"13-16, 10-5 Home","24-5, 8-2 Away",103,112,NULL,NULL,Final/2OT,NULL,31,26,21,16,9,28,27,23,16,18,NBA
+55,291229013,2010,"Tue, Dec 29",Los Angeles Lakers,Golden State Warriors,"25-6, 17-3 Home","9-22, 3-15 Away",124,118,NULL,NULL,Final,NULL,29,24,35,36,NULL,35,25,26,32,NULL,NBA
+56,300103013,2010,"Sun, Jan 3",Los Angeles Lakers,Dallas Mavericks,"27-6, 19-3 Home","23-11, 12-6 Away",131,96,NULL,NULL,Final,NULL,30,34,39,28,NULL,13,26,24,33,NULL,NBA
+57,300106012,2010,"Wed, Jan 6",LA Clippers,Los Angeles Lakers,"16-18, 11-8 Home","28-7, 8-4 Away",102,91,NULL,NULL,Final,ESPN,25,27,27,23,NULL,26,17,30,18,NULL,NBA
+58,300110013,2010,"Sun, Jan 10",Los Angeles Lakers,Milwaukee Bucks,"29-8, 21-3 Home","15-19, 4-12 Away",95,77,NULL,NULL,Final,NULL,24,15,26,30,NULL,8,20,18,31,NULL,NBA
+59,300113006,2010,"Wed, Jan 13",Dallas Mavericks,Los Angeles Lakers,"25-13, 12-7 Home","30-9, 9-6 Away",95,100,NULL,NULL,Final,NULL,24,21,26,24,NULL,27,22,27,24,NULL,NBA
+60,300118013,2010,"Mon, Jan 18",Los Angeles Lakers,Orlando Magic,"32-9, 23-3 Home","26-15, 12-11 Away",98,92,NULL,NULL,Final,TNT,33,19,12,34,NULL,25,22,21,24,NULL,NBA
+61,300122018,2010,"Fri, Jan 22",New York Knicks,Los Angeles Lakers,"17-25, 10-12 Home","33-10, 10-7 Away",105,115,NULL,NULL,Final,ESPN,30,33,22,20,NULL,36,27,21,31,NULL,NBA
+62,300126027,2010,"Tue, Jan 26",Washington Wizards,Los Angeles Lakers,"14-30, 8-15 Home","34-11, 11-8 Away",103,115,NULL,NULL,Final,NBATV,29,15,28,31,NULL,30,30,27,28,NULL,NBA
+63,300129020,2010,"Fri, Jan 29",Philadelphia 76ers,Los Angeles Lakers,"15-31, 7-16 Home","36-11, 13-8 Away",91,99,NULL,NULL,Final,CSN,18,24,25,24,NULL,19,32,25,23,NULL,NBA
+64,300201029,2010,"Mon, Feb 1",Memphis Grizzlies,Los Angeles Lakers,"26-21, 18-6 Home","37-12, 14-9 Away",95,93,NULL,NULL,Final,NULL,24,28,18,25,NULL,24,26,21,22,NULL,NBA
+65,300205013,2010,"Fri, Feb 5",Los Angeles Lakers,Denver Nuggets,"38-13, 24-4 Home","34-16, 12-12 Away",113,126,NULL,NULL,Final,ESPN,30,34,25,24,NULL,30,29,35,32,NULL,NBA
+66,300208013,2010,"Mon, Feb 8",Los Angeles Lakers,San Antonio Spurs,"40-13, 25-4 Home","29-21, 10-11 Away",101,89,NULL,NULL,Final,TNT,28,22,23,28,NULL,34,13,21,21,NULL,NBA
+67,300216013,2010,"Tue, Feb 16",Los Angeles Lakers,Golden State Warriors,"42-13, 26-4 Home","14-38, 4-23 Away",104,94,NULL,NULL,Final,NULL,36,18,25,25,NULL,24,27,22,21,NULL,NBA
+68,300223029,2010,"Tue, Feb 23",Memphis Grizzlies,Los Angeles Lakers,"28-28, 18-11 Home","43-14, 17-9 Away",98,99,NULL,NULL,Final,NBATV,16,32,33,17,NULL,27,26,23,23,NULL,NBA
+69,300226013,2010,"Fri, Feb 26",Los Angeles Lakers,Philadelphia 76ers,"44-15, 27-5 Home","22-36, 12-19 Away",99,90,NULL,NULL,Final,CSN,24,26,24,25,NULL,25,26,18,21,NULL,NBA
+70,300302013,2010,"Tue, Mar 2",Los Angeles Lakers,Indiana Pacers,"46-15, 29-5 Home","20-40, 7-24 Away",122,99,NULL,NULL,Final,NULL,27,33,38,24,NULL,28,26,17,28,NULL,NBA
+71,300305030,2010,"Fri, Mar 5",Charlotte Bobcats,Los Angeles Lakers,"29-31, 21-8 Home","46-17, 17-12 Away",98,83,NULL,NULL,Final,NULL,23,26,26,23,NULL,26,17,20,20,NULL,NBA
+72,300309013,2010,"Tue, Mar 9",Los Angeles Lakers,Toronto Raptors,"47-18, 30-5 Home","32-30, 10-20 Away",109,107,NULL,NULL,Final,NBATV,29,21,31,28,NULL,24,34,26,23,NULL,NBA
+73,300315009,2010,"Mon, Mar 15",Golden State Warriors,Los Angeles Lakers,"18-48, 14-20 Home","49-18, 19-13 Away",121,124,NULL,NULL,Final,ESPN,32,33,22,34,NULL,39,20,35,30,NULL,NBA
+74,300319013,2010,"Fri, Mar 19",Los Angeles Lakers,Minnesota Timberwolves,"51-18, 31-5 Home","14-56, 5-31 Away",104,96,NULL,NULL,Final,NULL,31,28,19,26,NULL,20,29,19,28,NULL,NBA
+75,300324024,2010,"Wed, Mar 24",San Antonio Spurs,Los Angeles Lakers,"42-28, 25-11 Home","53-18, 21-13 Away",83,92,NULL,NULL,Final,ESPN,25,23,18,17,NULL,22,19,30,21,NULL,NBA
+76,300327010,2010,"Sat, Mar 27",Houston Rockets,Los Angeles Lakers,"36-36, 20-17 Home","54-19, 22-14 Away",101,109,NULL,NULL,Final,NULL,34,11,24,32,NULL,27,35,27,20,NULL,NBA
+77,300331001,2010,"Wed, Mar 31",Atlanta Hawks,Los Angeles Lakers,"48-26, 31-7 Home","54-21, 22-16 Away",109,92,NULL,NULL,Final,NULL,29,26,25,29,NULL,25,20,19,28,NULL,NBA
+78,300404013,2010,"Sun, Apr 4",Los Angeles Lakers,San Antonio Spurs,"55-22, 33-6 Home","47-29, 19-18 Away",81,100,NULL,NULL,Final,ABC,24,16,19,22,NULL,22,26,19,33,NULL,NBA
+79,300409016,2010,"Fri, Apr 9",Minnesota Timberwolves,Los Angeles Lakers,"15-64, 10-30 Home","56-23, 23-17 Away",88,97,NULL,NULL,Final,NULL,17,17,31,23,NULL,21,31,22,23,NULL,NBA
+80,300413013,2010,"Tue, Apr 13",Los Angeles Lakers,Sacramento Kings,"57-24, 34-7 Home","25-57, 7-34 Away",106,100,NULL,NULL,Final,NULL,28,32,26,20,NULL,28,26,19,27,NULL,NBA
+81,300414012,2010,"Wed, Apr 14",LA Clippers,Los Angeles Lakers,"29-53, 21-20 Home","57-25, 23-18 Away",107,91,NULL,NULL,Final,NULL,23,29,26,29,NULL,28,21,16,26,NULL,NBA

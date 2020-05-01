@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,211102003,2002,"Fri, Nov 2",Charlotte Hornets,New York Knicks,"2-0, 2-0 Home","1-1, 0-1 Away",97,93,NULL,NULL,Final,NULL,29,25,20,23,NULL,26,23,19,25,NULL,NBA
+1,211106006,2002,"Tue, Nov 6",Dallas Mavericks,Charlotte Hornets,"4-1, 2-0 Home","2-2, 0-2 Away",110,92,NULL,NULL,Final,NULL,31,23,26,30,NULL,21,16,32,23,NULL,NBA
+2,211110004,2002,"Sat, Nov 10",Chicago Bulls,Charlotte Hornets,"1-5, 1-3 Home","3-3, 1-2 Away",85,89,NULL,NULL,Final,NULL,21,27,17,20,NULL,28,19,16,26,NULL,NBA
+3,211116014,2002,"Fri, Nov 16",Miami Heat,Charlotte Hornets,"2-7, 2-4 Home","4-4, 2-3 Away",87,96,NULL,NULL,Final,NULL,21,23,29,14,NULL,24,18,31,23,NULL,NBA
+4,211120027,2002,"Tue, Nov 20",Washington Wizards,Charlotte Hornets,"2-8, 1-5 Home","5-5, 3-3 Away",88,95,NULL,NULL,Final,NULL,18,22,19,29,NULL,18,20,28,29,NULL,NBA
+5,211123003,2002,"Fri, Nov 23",Charlotte Hornets,Orlando Magic,"5-7, 2-4 Home","7-6, 4-5 Away",99,109,NULL,NULL,Final,NULL,21,25,28,25,NULL,34,31,26,18,NULL,NBA
+6,211128008,2002,"Wed, Nov 28",Detroit Pistons,Charlotte Hornets,"9-5, 5-2 Home","7-7, 5-3 Away",96,104,NULL,NULL,Final,NULL,16,16,29,35,NULL,26,27,20,31,NULL,NBA
+7,211201005,2002,"Sat, Dec 1",Cleveland Cavaliers,Charlotte Hornets,"6-11, 4-5 Home","7-9, 5-4 Away",93,81,NULL,NULL,Final,NULL,16,30,27,20,NULL,19,26,17,19,NULL,NBA
+8,211206022,2002,"Thu, Dec 6",Portland Trail Blazers,Charlotte Hornets,"9-9, 6-4 Home","8-10, 6-5 Away",89,95,NULL,NULL,Final,NULL,25,13,18,33,NULL,26,19,28,22,NULL,NBA
+9,211209012,2002,"Sun, Dec 9",LA Clippers,Charlotte Hornets,"10-10, 10-5 Home","9-11, 7-6 Away",89,78,NULL,NULL,Final,NULL,29,22,14,24,NULL,21,20,17,20,NULL,NBA
+10,211213003,2002,"Thu, Dec 13",Charlotte Hornets,Toronto Raptors,"11-11, 3-5 Home","12-11, 6-7 Away",104,90,NULL,NULL,Final,NULL,40,22,23,19,NULL,24,18,25,23,NULL,NBA
+11,211218003,2002,"Tue, Dec 18",Charlotte Hornets,New York Knicks,"11-13, 3-7 Home","12-13, 4-9 Away",95,100,NULL,NULL,Final,NULL,27,21,16,31,NULL,29,18,27,26,NULL,NBA
+12,211221016,2002,"Fri, Dec 21",Minnesota Timberwolves,Charlotte Hornets,"17-8, 11-2 Home","12-14, 9-7 Away",94,89,NULL,NULL,Final,NULL,24,27,25,18,NULL,20,23,19,27,NULL,NBA
+13,211226003,2002,"Wed, Dec 26",Charlotte Hornets,Washington Wizards,"13-15, 4-7 Home","14-13, 9-7 Away",99,93,NULL,NULL,Final,NULL,29,23,21,26,NULL,30,27,15,21,NULL,NBA
+14,211229027,2002,"Sat, Dec 29",Washington Wizards,Charlotte Hornets,"15-14, 6-6 Home","13-17, 9-9 Away",107,90,NULL,NULL,Final,NULL,29,27,28,23,NULL,28,23,16,23,NULL,NBA
+15,220105003,2002,"Sat, Jan 5",Charlotte Hornets,New Jersey Nets,"14-18, 5-9 Home","21-11, 10-7 Away",80,89,NULL,NULL,Final,NULL,19,21,16,24,NULL,18,15,34,22,NULL,NBA
+16,220109003,2002,"Wed, Jan 9",Charlotte Hornets,Atlanta Hawks,"16-18, 7-9 Home","13-21, 4-15 Away",111,87,NULL,NULL,Final,NULL,25,39,22,25,NULL,20,20,27,20,NULL,NBA
+17,220112008,2002,"Sat, Jan 12",Detroit Pistons,Charlotte Hornets,"17-18, 11-4 Home","17-19, 9-10 Away",104,76,NULL,NULL,Final,NULL,25,25,23,31,NULL,20,21,19,16,NULL,NBA
+18,220117003,2002,"Thu, Jan 17",Charlotte Hornets,Philadelphia 76ers,"18-20, 8-10 Home","18-20, 9-13 Away",88,93,NULL,NULL,Final,NULL,31,21,19,17,NULL,22,32,20,19,NULL,NBA
+19,220121018,2002,"Mon, Jan 21",New York Knicks,Charlotte Hornets,"14-25, 10-10 Home","19-21, 11-10 Away",68,111,NULL,NULL,Final,NULL,19,14,18,17,NULL,39,21,32,19,NULL,NBA
+20,220125011,2002,"Fri, Jan 25",Indiana Pacers,Charlotte Hornets,"23-22, 13-8 Home","20-22, 11-11 Away",90,81,NULL,NULL,Final,NULL,29,24,15,22,NULL,18,24,17,22,NULL,NBA
+21,220129024,2002,"Tue, Jan 29",San Antonio Spurs,Charlotte Hornets,"29-14, 16-7 Home","21-23, 12-11 Away",73,78,NULL,NULL,Final,NULL,28,15,20,10,NULL,23,21,21,13,NULL,NBA
+22,220203029,2002,"Sun, Feb 3",Memphis Grizzlies,Charlotte Hornets,"13-34, 8-15 Home","23-23, 14-11 Away",79,97,NULL,NULL,Final,NULL,18,25,22,14,NULL,25,22,28,22,NULL,NBA
+23,220207003,2002,"Thu, Feb 7",Charlotte Hornets,Philadelphia 76ers,"23-25, 9-14 Home","25-24, 13-15 Away",93,100,NULL,NULL,Final,CSN,22,28,25,18,NULL,29,18,28,25,NULL,NBA
+24,220215003,2002,"Fri, Feb 15",Charlotte Hornets,Indiana Pacers,"25-25, 11-14 Home","25-27, 10-16 Away",116,106,NULL,NULL,Final,NULL,32,24,30,30,NULL,23,29,26,28,NULL,NBA
+25,220218015,2002,"Mon, Feb 18",Milwaukee Bucks,Charlotte Hornets,"29-22, 15-9 Home","26-26, 15-11 Away",92,101,NULL,NULL,Final,NULL,27,19,24,22,NULL,27,29,18,27,NULL,NBA
+26,220222003,2002,"Fri, Feb 22",Charlotte Hornets,Los Angeles Lakers,"27-27, 11-16 Home","37-16, 18-9 Away",94,96,NULL,NULL,Final,NULL,22,24,23,25,NULL,23,19,25,29,NULL,NBA
+27,220225003,2002,"Mon, Feb 25",Charlotte Hornets,Minnesota Timberwolves,"27-29, 11-17 Home","38-18, 16-14 Away",92,97,NULL,NULL,Final,NULL,22,22,25,23,NULL,23,18,27,29,NULL,NBA
+28,220301002,2002,"Fri, Mar 1",Boston Celtics,Charlotte Hornets,"31-27, 16-11 Home","29-29, 17-12 Away",87,100,NULL,NULL,Final,NULL,14,25,22,26,NULL,24,30,30,16,NULL,NBA
+29,220307025,2002,"Thu, Mar 7",Seattle SuperSonics,Charlotte Hornets,"35-27, 18-12 Home","29-31, 17-13 Away",92,89,NULL,NULL,Final,NULL,26,22,21,16,7,24,17,27,17,4,NBA
+30,220310021,2002,"Sun, Mar 10",Phoenix Suns,Charlotte Hornets,"30-33, 19-15 Home","30-32, 18-14 Away",82,88,NULL,NULL,Final,NULL,24,14,20,24,NULL,26,28,17,17,NULL,NBA
+31,220314003,2002,"Thu, Mar 14",Charlotte Hornets,Utah Jazz,"31-33, 13-18 Home","34-30, 14-18 Away",100,82,NULL,NULL,Final,NULL,26,29,21,24,NULL,18,19,19,26,NULL,NBA
+32,220318003,2002,"Mon, Mar 18",Charlotte Hornets,Milwaukee Bucks,"33-33, 15-18 Home","36-29, 16-15 Away",113,110,NULL,NULL,Final,NULL,27,28,36,22,NULL,31,30,25,24,NULL,NBA
+33,220322019,2002,"Fri, Mar 22",Orlando Magic,Charlotte Hornets,"37-31, 22-11 Home","35-33, 19-15 Away",92,106,NULL,NULL,Final,NULL,21,26,25,20,NULL,31,20,32,23,NULL,NBA
+34,220327003,2002,"Wed, Mar 27",Charlotte Hornets,Orlando Magic,"37-33, 17-18 Home","38-33, 15-22 Away",111,104,NULL,NULL,Final,NULL,36,22,21,32,NULL,27,25,21,31,NULL,NBA
+35,220330005,2002,"Sat, Mar 30",Cleveland Cavaliers,Charlotte Hornets,"25-48, 17-20 Home","38-34, 21-15 Away",85,93,NULL,NULL,Final,NULL,21,26,23,15,NULL,21,23,20,29,NULL,NBA
+36,220403003,2002,"Wed, Apr 3",Charlotte Hornets,Miami Heat,"39-35, 18-19 Home","32-42, 17-22 Away",97,90,NULL,NULL,Final,NULL,26,23,15,33,NULL,23,16,26,25,NULL,NBA
+37,220406001,2002,"Sat, Apr 6",Atlanta Hawks,Charlotte Hornets,"31-45, 22-17 Home","41-35, 22-16 Away",86,93,NULL,NULL,Final,NULL,15,34,17,20,NULL,28,21,22,22,NULL,NBA
+38,220410003,2002,"Wed, Apr 10",Charlotte Hornets,Atlanta Hawks,"41-37, 19-20 Home","32-46, 10-29 Away",95,101,NULL,NULL,Final,NULL,28,18,25,24,NULL,20,28,29,24,NULL,NBA
+39,220414015,2002,"Sun, Apr 14",Milwaukee Bucks,Charlotte Hornets,"40-40, 24-16 Home","42-38, 22-18 Away",98,91,NULL,NULL,Final,NULL,26,19,26,27,NULL,22,17,23,29,NULL,NBA
+40,211031003,2002,"Wed, Oct 31",Charlotte Hornets,Cleveland Cavaliers,"1-0, 1-0 Home","0-2, 0-1 Away",100,94,NULL,NULL,Final,NULL,16,24,28,32,NULL,22,21,28,23,NULL,NBA
+41,211103017,2002,"Sat, Nov 3",New Jersey Nets,Charlotte Hornets,"3-1, 2-0 Home","2-1, 0-1 Away",95,85,NULL,NULL,Final,NULL,27,25,25,18,NULL,23,25,16,21,NULL,NBA
+42,211108003,2002,"Thu, Nov 8",Charlotte Hornets,San Antonio Spurs,"2-3, 2-1 Home","4-2, 2-2 Away",95,105,NULL,NULL,Final,NULL,20,29,31,15,NULL,31,23,24,27,NULL,NBA
+43,211114020,2002,"Wed, Nov 14",Philadelphia 76ers,Charlotte Hornets,"3-5, 1-2 Home","3-4, 1-3 Away",100,86,NULL,NULL,Final,CSN,22,25,28,25,NULL,22,26,18,20,NULL,NBA
+44,211117003,2002,"Sat, Nov 17",Charlotte Hornets,Portland Trail Blazers,"4-5, 2-2 Home","6-5, 3-4 Away",87,97,NULL,NULL,Final,NULL,22,18,17,30,NULL,19,21,30,27,NULL,NBA
+45,211121003,2002,"Wed, Nov 21",Charlotte Hornets,Dallas Mavericks,"5-6, 2-3 Home","7-5, 4-3 Away",78,89,NULL,NULL,Final,NULL,21,21,18,18,NULL,23,25,25,16,NULL,NBA
+46,211124019,2002,"Sat, Nov 24",Orlando Magic,Charlotte Hornets,"7-7, 3-2 Home","6-7, 4-3 Away",101,103,NULL,NULL,Final,NULL,39,20,19,23,NULL,34,27,15,27,NULL,NBA
+47,211130003,2002,"Fri, Nov 30",Charlotte Hornets,Detroit Pistons,"7-8, 2-5 Home","10-5, 5-3 Away",105,110,NULL,NULL,Final,NULL,27,21,26,31,NULL,27,29,25,29,NULL,NBA
+48,211204026,2002,"Tue, Dec 4",Utah Jazz,Charlotte Hornets,"7-11, 5-6 Home","7-10, 5-5 Away",104,100,NULL,NULL,Final,NULL,27,31,18,28,NULL,29,32,25,14,NULL,NBA
+49,211207009,2002,"Fri, Dec 7",Golden State Warriors,Charlotte Hornets,"8-12, 4-5 Home","9-10, 7-5 Away",89,106,NULL,NULL,Final,NULL,17,24,25,23,NULL,28,24,21,33,NULL,NBA
+50,211211007,2002,"Tue, Dec 11",Denver Nuggets,Charlotte Hornets,"7-14, 5-6 Home","10-11, 8-6 Away",96,99,NULL,NULL,Final,NULL,28,17,23,28,NULL,29,24,25,21,NULL,NBA
+51,211215003,2002,"Sat, Dec 15",Charlotte Hornets,Boston Celtics,"11-12, 3-6 Home","14-7, 7-4 Away",97,106,NULL,NULL,Final,NULL,26,25,23,23,NULL,33,16,35,22,NULL,NBA
+52,211219020,2002,"Wed, Dec 19",Philadelphia 76ers,Charlotte Hornets,"10-15, 5-6 Home","12-13, 9-6 Away",85,94,NULL,NULL,Final,CSN,21,32,15,17,NULL,38,17,22,17,NULL,NBA
+53,211222001,2002,"Sat, Dec 22",Atlanta Hawks,Charlotte Hornets,"10-17, 7-5 Home","12-15, 9-8 Away",101,88,NULL,NULL,Final,NULL,19,25,31,26,NULL,30,16,25,17,NULL,NBA
+54,211228003,2002,"Fri, Dec 28",Charlotte Hornets,Milwaukee Bucks,"13-16, 4-8 Home","17-9, 8-7 Away",89,105,NULL,NULL,Final,NULL,26,16,27,20,NULL,33,27,25,20,NULL,NBA
+55,220103003,2002,"Thu, Jan 3",Charlotte Hornets,Golden State Warriors,"14-17, 5-8 Home","12-20, 5-12 Away",114,102,NULL,NULL,Final,NULL,31,33,26,24,NULL,26,22,29,25,NULL,NBA
+56,220107003,2002,"Mon, Jan 7",Charlotte Hornets,Denver Nuggets,"15-18, 6-9 Home","10-22, 2-11 Away",94,80,NULL,NULL,Final,NULL,27,27,18,22,NULL,24,15,21,20,NULL,NBA
+57,220111003,2002,"Fri, Jan 11",Charlotte Hornets,LA Clippers,"17-18, 8-9 Home","18-19, 2-12 Away",92,91,NULL,NULL,Final,NULL,15,19,14,34,10,23,21,18,20,9,NBA
+58,220115004,2002,"Tue, Jan 15",Chicago Bulls,Charlotte Hornets,"7-30, 7-12 Home","18-19, 10-10 Away",86,94,NULL,NULL,Final,NULL,22,24,23,17,NULL,27,23,23,21,NULL,NBA
+59,220119003,2002,"Sat, Jan 19",Charlotte Hornets,Toronto Raptors,"18-21, 8-11 Home","24-17, 12-10 Away",89,91,NULL,NULL,Final,NULL,20,20,32,17,NULL,23,28,25,15,NULL,NBA
+60,220123003,2002,"Wed, Jan 23",Charlotte Hornets,Seattle SuperSonics,"20-21, 9-11 Home","21-20, 8-14 Away",111,101,NULL,NULL,Final,NULL,30,41,14,26,NULL,28,18,25,30,NULL,NBA
+61,220126003,2002,"Sat, Jan 26",Charlotte Hornets,Houston Rockets,"20-23, 9-12 Home","14-30, 5-17 Away",102,104,NULL,NULL,Final/OT,NULL,26,21,30,27,15,23,27,27,34,8,NBA
+62,220201010,2002,"Fri, Feb 1",Houston Rockets,Charlotte Hornets,"15-32, 10-14 Home","22-23, 13-11 Away",72,73,NULL,NULL,Final,NULL,15,20,15,22,NULL,22,18,18,15,NULL,NBA
+63,220205003,2002,"Tue, Feb 5",Charlotte Hornets,Boston Celtics,"23-24, 9-13 Home","28-20, 12-12 Away",79,82,NULL,NULL,Final,NULL,18,20,24,17,NULL,26,19,17,20,NULL,NBA
+64,220213003,2002,"Wed, Feb 13",Charlotte Hornets,Chicago Bulls,"24-25, 10-14 Home","12-37, 3-23 Away",113,91,NULL,NULL,Final,NULL,32,29,32,20,NULL,28,15,17,31,NULL,NBA
+65,220217003,2002,"Sun, Feb 17",Charlotte Hornets,Memphis Grizzlies,"25-26, 11-15 Home","15-37, 6-21 Away",78,92,NULL,NULL,Final,NULL,12,26,27,13,NULL,23,23,14,32,NULL,NBA
+66,220220028,2002,"Wed, Feb 20",Toronto Raptors,Charlotte Hornets,"29-27, 16-11 Home","27-26, 16-11 Away",77,78,NULL,NULL,Final,NULL,16,20,21,20,NULL,22,18,22,16,NULL,NBA
+67,220224017,2002,"Sun, Feb 24",New Jersey Nets,Charlotte Hornets,"38-17, 23-6 Home","27-28, 16-12 Away",95,93,NULL,NULL,Final,NULL,18,23,27,27,NULL,28,31,23,11,NULL,NBA
+68,220227003,2002,"Wed, Feb 27",Charlotte Hornets,New Jersey Nets,"28-29, 12-17 Home","38-18, 15-12 Away",104,85,NULL,NULL,Final,NULL,27,26,24,27,NULL,18,17,22,28,NULL,NBA
+69,220303003,2002,"Sun, Mar 3",Charlotte Hornets,Detroit Pistons,"29-30, 12-18 Home","34-23, 14-15 Away",81,83,NULL,NULL,Final,NULL,20,22,19,20,NULL,20,33,18,12,NULL,NBA
+70,220308023,2002,"Fri, Mar 8",Sacramento Kings,Charlotte Hornets,"43-17, 30-3 Home","29-32, 17-14 Away",99,87,NULL,NULL,Final,NULL,31,17,22,29,NULL,25,18,21,23,NULL,NBA
+71,220312013,2002,"Tue, Mar 12",Los Angeles Lakers,Charlotte Hornets,"44-18, 24-7 Home","30-33, 18-15 Away",107,66,NULL,NULL,Final,NULL,26,23,25,33,NULL,16,17,21,12,NULL,NBA
+72,220316003,2002,"Sat, Mar 16",Charlotte Hornets,Phoenix Suns,"32-33, 14-18 Home","30-37, 11-22 Away",87,76,NULL,NULL,Final,NULL,20,24,19,24,NULL,25,18,20,13,NULL,NBA
+73,220320003,2002,"Wed, Mar 20",Charlotte Hornets,Indiana Pacers,"34-33, 16-18 Home","34-33, 14-21 Away",94,88,NULL,NULL,Final,NULL,32,19,23,20,NULL,28,21,19,20,NULL,NBA
+74,220324011,2002,"Sun, Mar 24",Indiana Pacers,Charlotte Hornets,"35-34, 20-13 Home","36-33, 20-15 Away",84,99,NULL,NULL,Final,NULL,20,20,24,20,NULL,28,28,19,24,NULL,NBA
+75,220329003,2002,"Fri, Mar 29",Charlotte Hornets,Sacramento Kings,"37-34, 17-19 Home","52-19, 19-15 Away",87,92,NULL,NULL,Final,NULL,36,19,18,14,NULL,27,23,25,17,NULL,NBA
+76,220402018,2002,"Tue, Apr 2",New York Knicks,Charlotte Hornets,"28-45, 19-19 Home","38-35, 21-16 Away",91,85,NULL,NULL,Final,NULL,32,16,24,19,NULL,23,27,12,23,NULL,NBA
+77,220405003,2002,"Fri, Apr 5",Charlotte Hornets,Washington Wizards,"40-35, 19-19 Home","34-42, 15-24 Away",97,91,NULL,NULL,Final,NULL,23,34,22,18,NULL,18,25,19,29,NULL,NBA
+78,220409028,2002,"Tue, Apr 9",Toronto Raptors,Charlotte Hornets,"39-38, 21-17 Home","41-36, 22-17 Away",84,80,NULL,NULL,Final,NULL,14,30,18,22,NULL,26,20,18,16,NULL,NBA
+79,220412003,2002,"Fri, Apr 12",Charlotte Hornets,Cleveland Cavaliers,"42-37, 20-20 Home","29-50, 9-30 Away",112,100,NULL,NULL,Final,NULL,24,27,33,28,NULL,18,32,24,26,NULL,NBA
+80,220416014,2002,"Tue, Apr 16",Miami Heat,Charlotte Hornets,"35-46, 18-23 Home","43-38, 23-18 Away",81,88,NULL,NULL,Final,NULL,18,34,19,10,NULL,21,22,17,28,NULL,NBA
+81,220417003,2002,"Wed, Apr 17",Charlotte Hornets,Chicago Bulls,"44-38, 21-20 Home","21-61, 7-34 Away",112,106,NULL,NULL,Final,NULL,20,28,28,36,NULL,21,32,22,31,NULL,NBA

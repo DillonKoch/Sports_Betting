@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,400899484,2017,"Sat, Oct 29",Sacramento Kings,Minnesota Timberwolves,"2-1, 1-1 Home","0-2, 0-2 Away",106,103,NULL,NULL,Final,NBATV,25,29,31,21,NULL,34,31,12,26,NULL,NBA
+1,400899517,2017,"Thu, Nov 3",Minnesota Timberwolves,Denver Nuggets,"1-3, 1-1 Home","2-2, 2-1 Away",99,102,NULL,NULL,Final,NULL,37,24,14,24,NULL,25,30,33,14,NULL,NBA
+2,400899551,2017,"Tue, Nov 8",Brooklyn Nets,Minnesota Timberwolves,"3-4, 3-2 Home","1-5, 0-4 Away",119,110,NULL,NULL,Final,NULL,33,33,22,31,NULL,33,32,19,26,NULL,NBA
+3,400899585,2017,"Sat, Nov 12",Minnesota Timberwolves,LA Clippers,"2-6, 1-2 Home","9-1, 5-0 Away",105,119,NULL,NULL,Final,NULL,21,30,22,32,NULL,34,26,28,31,NULL,NBA
+4,400899605,2017,"Tue, Nov 15",Minnesota Timberwolves,Charlotte Hornets,"3-7, 2-3 Home","7-3, 4-1 Away",108,115,NULL,NULL,Final,NULL,30,28,17,33,NULL,31,15,36,33,NULL,NBA
+5,400899640,2017,"Sat, Nov 19",Memphis Grizzlies,Minnesota Timberwolves,"8-5, 5-2 Home","4-8, 1-5 Away",93,71,NULL,NULL,Final,NBATV,18,25,22,28,NULL,16,23,13,19,NULL,NBA
+6,400899672,2017,"Wed, Nov 23",New Orleans Pelicans,Minnesota Timberwolves,"6-10, 4-5 Home","4-10, 1-6 Away",117,96,NULL,NULL,Final,ESPN,31,22,36,28,NULL,26,24,18,28,NULL,NBA
+7,400899694,2017,"Sat, Nov 26",Golden State Warriors,Minnesota Timberwolves,"15-2, 6-1 Home","5-11, 2-7 Away",115,102,NULL,NULL,Final,NULL,30,26,34,25,NULL,33,15,25,29,NULL,NBA
+8,400899721,2017,"Wed, Nov 30",Minnesota Timberwolves,New York Knicks,"5-13, 3-6 Home","9-9, 2-6 Away",104,106,NULL,NULL,Final,NULL,31,18,25,30,NULL,28,30,23,25,NULL,NBA
+9,400899734,2017,"Sat, Dec 3",Charlotte Hornets,Minnesota Timberwolves,"11-9, 6-6 Home","6-14, 3-8 Away",120,125,NULL,NULL,Final/OT,NULL,29,23,32,22,14,19,30,25,32,19,NBA
+10,400899773,2017,"Thu, Dec 8",Toronto Raptors,Minnesota Timberwolves,"15-7, 9-4 Home","6-16, 3-9 Away",124,110,NULL,NULL,Final,TNT,22,37,29,36,NULL,32,27,30,21,NULL,NBA
+11,400899800,2017,"Sun, Dec 11",Minnesota Timberwolves,Golden State Warriors,"6-18, 3-9 Home","21-4, 12-2 Away",108,116,NULL,NULL,Final,NULL,27,31,30,20,NULL,30,30,18,38,NULL,NBA
+12,400899845,2017,"Sat, Dec 17",Minnesota Timberwolves,Houston Rockets,"7-19, 3-10 Home","21-7, 11-5 Away",109,111,NULL,NULL,Final/OT,NULL,24,33,23,15,14,28,16,23,28,16,NBA
+13,400899872,2017,"Wed, Dec 21",Atlanta Hawks,Minnesota Timberwolves,"14-15, 7-7 Home","9-19, 5-9 Away",84,92,NULL,NULL,Final,NULL,26,18,25,15,NULL,28,21,18,25,NULL,NBA
+14,400899901,2017,"Sun, Dec 25",Oklahoma City Thunder,Minnesota Timberwolves,"19-12, 12-6 Home","9-21, 5-10 Away",112,100,NULL,NULL,Final,ESPN,23,34,29,26,NULL,27,26,22,25,NULL,NBA
+15,400899925,2017,"Wed, Dec 28",Denver Nuggets,Minnesota Timberwolves,"14-18, 7-8 Home","10-22, 5-11 Away",105,103,NULL,NULL,Final,NULL,22,27,32,24,NULL,31,18,24,30,NULL,NBA
+16,400899385,2017,"Sun, Jan 1",Minnesota Timberwolves,Portland Trail Blazers,"11-23, 6-12 Home","15-21, 6-14 Away",89,95,NULL,NULL,Final,NULL,23,26,15,25,NULL,24,13,32,26,NULL,NBA
+17,400899965,2017,"Fri, Jan 6",Washington Wizards,Minnesota Timberwolves,"17-18, 14-6 Home","11-25, 5-13 Away",112,105,NULL,NULL,Final,NULL,32,24,24,32,NULL,29,19,37,20,NULL,NBA
+18,400899991,2017,"Mon, Jan 9",Minnesota Timberwolves,Dallas Mavericks,"12-26, 7-13 Home","11-27, 4-16 Away",101,92,NULL,NULL,Final,NULL,33,21,23,24,NULL,19,27,24,22,NULL,NBA
+19,400900017,2017,"Fri, Jan 13",Minnesota Timberwolves,Oklahoma City Thunder,"14-26, 9-13 Home","24-17, 9-11 Away",96,86,NULL,NULL,Final,NULL,30,15,29,22,NULL,28,22,18,18,NULL,NBA
+20,400900046,2017,"Tue, Jan 17",San Antonio Spurs,Minnesota Timberwolves,"32-9, 15-5 Home","14-28, 5-15 Away",122,114,NULL,NULL,Final,NULL,30,37,25,30,NULL,30,41,19,24,NULL,NBA
+21,400900085,2017,"Sun, Jan 22",Minnesota Timberwolves,Denver Nuggets,"16-28, 10-13 Home","18-25, 8-14 Away",111,108,NULL,NULL,Final,NULL,28,34,22,27,NULL,29,29,26,24,NULL,NBA
+22,400900112,2017,"Thu, Jan 26",Minnesota Timberwolves,Indiana Pacers,"17-29, 10-14 Home","23-22, 7-16 Away",103,109,NULL,NULL,Final,NULL,20,26,24,33,NULL,25,27,24,33,NULL,NBA
+23,400900141,2017,"Mon, Jan 30",Minnesota Timberwolves,Orlando Magic,"19-29, 12-14 Home","19-31, 11-16 Away",111,105,NULL,NULL,Final/OT,NULL,26,26,28,18,13,23,28,28,19,7,NBA
+24,400900153,2017,"Fri, Feb 3",Detroit Pistons,Minnesota Timberwolves,"23-27, 14-10 Home","19-31, 7-17 Away",116,108,NULL,NULL,Final,NULL,24,29,30,33,NULL,18,34,24,32,NULL,NBA
+25,400900180,2017,"Mon, Feb 6",Minnesota Timberwolves,Miami Heat,"19-33, 12-16 Home","22-30, 9-17 Away",113,115,NULL,NULL,Final,NULL,33,24,31,25,NULL,40,31,22,22,NULL,NBA
+26,400900209,2017,"Fri, Feb 10",Minnesota Timberwolves,New Orleans Pelicans,"20-34, 13-17 Home","21-33, 7-18 Away",106,122,NULL,NULL,Final,NULL,40,25,24,17,NULL,28,33,37,24,NULL,NBA
+27,400900237,2017,"Tue, Feb 14",Minnesota Timberwolves,Cleveland Cavaliers,"21-35, 14-18 Home","38-16, 15-11 Away",108,116,NULL,NULL,Final,NBATV,30,31,32,15,NULL,26,43,24,23,NULL,NBA
+28,400900268,2017,"Fri, Feb 24",Minnesota Timberwolves,Dallas Mavericks,"23-35, 15-18 Home","22-35, 8-21 Away",97,84,NULL,NULL,Final,NULL,26,23,22,26,NULL,22,18,23,21,NULL,NBA
+29,400900294,2017,"Mon, Feb 27",Sacramento Kings,Minnesota Timberwolves,"25-35, 13-17 Home","24-36, 9-18 Away",88,102,NULL,NULL,Final,NULL,25,19,21,23,NULL,20,40,17,25,NULL,NBA
+30,400900320,2017,"Sat, Mar 4",San Antonio Spurs,Minnesota Timberwolves,"48-13, 21-6 Home","25-37, 10-19 Away",97,90,NULL,NULL,Final/OT,NULL,14,29,19,21,14,26,29,15,13,7,NBA
+31,400900350,2017,"Wed, Mar 8",Minnesota Timberwolves,LA Clippers,"26-37, 16-18 Home","38-26, 18-16 Away",107,91,NULL,NULL,Final,NULL,31,27,24,25,NULL,19,36,13,23,NULL,NBA
+32,400900373,2017,"Sat, Mar 11",Milwaukee Bucks,Minnesota Timberwolves,"32-33, 20-16 Home","27-38, 10-20 Away",102,95,NULL,NULL,Final,NULL,23,25,28,26,NULL,19,29,27,20,NULL,NBA
+33,400900401,2017,"Wed, Mar 15",Boston Celtics,Minnesota Timberwolves,"43-25, 23-9 Home","28-39, 10-21 Away",117,104,NULL,NULL,Final,NULL,30,28,27,32,NULL,32,28,17,27,NULL,NBA
+34,400900434,2017,"Sun, Mar 19",New Orleans Pelicans,Minnesota Timberwolves,"29-41, 18-18 Home","28-41, 10-23 Away",123,109,NULL,NULL,Final,NULL,28,20,40,35,NULL,34,20,30,25,NULL,NBA
+35,400900475,2017,"Fri, Mar 24",Los Angeles Lakers,Minnesota Timberwolves,"21-51, 13-22 Home","28-43, 10-24 Away",130,119,NULL,NULL,Final/OT,NULL,26,28,26,29,21,27,40,21,21,10,NBA
+36,400900499,2017,"Tue, Mar 28",Indiana Pacers,Minnesota Timberwolves,"37-37, 26-12 Home","29-44, 11-25 Away",114,115,NULL,NULL,Final,NULL,25,32,33,24,NULL,26,33,28,28,NULL,NBA
+37,400899399,2017,"Sat, Apr 1",Minnesota Timberwolves,Sacramento Kings,"30-45, 19-20 Home","30-47, 15-24 Away",117,123,NULL,NULL,Final,NULL,31,28,26,32,NULL,18,37,36,32,NULL,NBA
+38,400900540,2017,"Tue, Apr 4",Golden State Warriors,Minnesota Timberwolves,"64-14, 34-4 Home","31-46, 11-26 Away",121,107,NULL,NULL,Final,ESPN,32,36,36,17,NULL,32,28,26,21,NULL,NBA
+39,400900563,2017,"Fri, Apr 7",Utah Jazz,Minnesota Timberwolves,"49-30, 28-12 Home","31-48, 11-28 Away",120,113,NULL,NULL,Final,NULL,29,26,40,25,NULL,31,29,28,25,NULL,NBA
+40,400900591,2017,"Tue, Apr 11",Minnesota Timberwolves,Oklahoma City Thunder,"31-50, 20-21 Home","47-34, 19-22 Away",98,100,NULL,NULL,Final,NBATV,16,27,29,26,NULL,33,23,15,29,NULL,NBA
+41,400899386,2017,"Wed, Oct 26",Memphis Grizzlies,Minnesota Timberwolves,"1-0, 1-0 Home","0-1, 0-1 Away",102,98,NULL,NULL,Final,NULL,29,21,26,26,NULL,32,27,16,23,NULL,NBA
+42,400899502,2017,"Tue, Nov 1",Minnesota Timberwolves,Memphis Grizzlies,"1-2, 1-0 Home","2-2, 0-2 Away",116,80,NULL,NULL,Final,NULL,29,33,35,19,NULL,16,20,23,21,NULL,NBA
+43,400899529,2017,"Sat, Nov 5",Oklahoma City Thunder,Minnesota Timberwolves,"5-1, 3-0 Home","1-4, 0-3 Away",112,92,NULL,NULL,Final,NULL,32,27,31,22,NULL,25,28,19,20,NULL,NBA
+44,400899559,2017,"Wed, Nov 9",Orlando Magic,Minnesota Timberwolves,"3-5, 2-2 Home","2-5, 1-4 Away",107,123,NULL,NULL,Final,NULL,17,30,30,30,NULL,39,35,23,26,NULL,NBA
+45,400899592,2017,"Sun, Nov 13",Minnesota Timberwolves,Los Angeles Lakers,"3-6, 2-2 Home","6-5, 3-4 Away",125,99,NULL,NULL,Final,NULL,36,33,18,38,NULL,27,19,26,27,NULL,NBA
+46,400899622,2017,"Thu, Nov 17",Minnesota Timberwolves,Philadelphia 76ers,"4-7, 3-3 Home","2-10, 0-5 Away",110,86,NULL,NULL,Final,TNT,27,34,24,25,NULL,18,15,25,28,NULL,NBA
+47,400899655,2017,"Mon, Nov 21",Minnesota Timberwolves,Boston Celtics,"4-9, 3-4 Home","8-6, 4-4 Away",93,99,NULL,NULL,Final,NULL,21,31,29,12,NULL,23,19,26,31,NULL,NBA
+48,400899686,2017,"Fri, Nov 25",Phoenix Suns,Minnesota Timberwolves,"5-12, 2-4 Home","5-10, 2-6 Away",85,98,NULL,NULL,Final,NULL,27,25,23,10,NULL,29,18,20,31,NULL,NBA
+49,400899708,2017,"Mon, Nov 28",Minnesota Timberwolves,Utah Jazz,"5-12, 3-5 Home","10-8, 6-5 Away",103,112,NULL,NULL,Final,NULL,27,18,24,34,NULL,22,28,24,38,NULL,NBA
+50,400899727,2017,"Fri, Dec 2",New York Knicks,Minnesota Timberwolves,"10-9, 8-3 Home","5-14, 2-8 Away",118,114,NULL,NULL,Final,NULL,30,32,36,20,NULL,21,31,36,26,NULL,NBA
+51,400899761,2017,"Tue, Dec 6",Minnesota Timberwolves,San Antonio Spurs,"6-15, 3-7 Home","18-4, 13-0 Away",91,105,NULL,NULL,Final,NBATV,22,24,18,27,NULL,19,24,29,33,NULL,NBA
+52,400899784,2017,"Fri, Dec 9",Minnesota Timberwolves,Detroit Pistons,"6-17, 3-8 Home","13-12, 5-9 Away",90,117,NULL,NULL,Final,NULL,20,23,25,22,NULL,25,24,33,35,NULL,NBA
+53,400899812,2017,"Tue, Dec 13",Chicago Bulls,Minnesota Timberwolves,"13-11, 7-4 Home","7-18, 4-9 Away",94,99,NULL,NULL,Final,ESPN,38,18,19,19,NULL,22,30,26,21,NULL,NBA
+54,400899858,2017,"Mon, Dec 19",Minnesota Timberwolves,Phoenix Suns,"8-19, 4-10 Home","8-20, 4-12 Away",115,108,NULL,NULL,Final,NBATV,29,33,29,24,NULL,23,31,33,21,NULL,NBA
+55,400899892,2017,"Fri, Dec 23",Minnesota Timberwolves,Sacramento Kings,"9-20, 4-11 Home","13-17, 7-11 Away",105,109,NULL,NULL,Final,NULL,26,29,30,20,NULL,25,26,27,31,NULL,NBA
+56,400899910,2017,"Mon, Dec 26",Minnesota Timberwolves,Atlanta Hawks,"10-21, 5-11 Home","15-16, 8-9 Away",104,90,NULL,NULL,Final,NULL,23,31,35,15,NULL,25,20,20,25,NULL,NBA
+57,400899939,2017,"Fri, Dec 30",Minnesota Timberwolves,Milwaukee Bucks,"11-22, 6-11 Home","15-16, 5-9 Away",116,99,NULL,NULL,Final,NBATV,34,21,30,31,NULL,21,27,23,28,NULL,NBA
+58,400899421,2017,"Tue, Jan 3",Philadelphia 76ers,Minnesota Timberwolves,"9-24, 6-14 Home","11-24, 5-12 Away",93,91,NULL,NULL,Final,NULL,29,28,22,14,NULL,16,26,26,23,NULL,NBA
+59,400899977,2017,"Sat, Jan 7",Minnesota Timberwolves,Utah Jazz,"11-26, 6-13 Home","23-15, 11-8 Away",92,94,NULL,NULL,Final,NULL,24,24,32,12,NULL,25,22,22,25,NULL,NBA
+60,400900003,2017,"Wed, Jan 11",Minnesota Timberwolves,Houston Rockets,"13-26, 8-13 Home","31-10, 15-7 Away",119,105,NULL,NULL,Final,NULL,30,25,34,30,NULL,23,31,23,28,NULL,NBA
+61,400900029,2017,"Sun, Jan 15",Dallas Mavericks,Minnesota Timberwolves,"13-27, 8-11 Home","14-27, 5-14 Away",98,87,NULL,NULL,Final,NULL,27,29,23,19,NULL,25,22,23,17,NULL,NBA
+62,400900061,2017,"Thu, Jan 19",LA Clippers,Minnesota Timberwolves,"29-15, 17-7 Home","15-28, 6-15 Away",101,104,NULL,NULL,Final,TNT,22,29,28,22,NULL,25,19,33,27,NULL,NBA
+63,400900100,2017,"Tue, Jan 24",Phoenix Suns,Minnesota Timberwolves,"15-30, 8-13 Home","17-28, 7-15 Away",111,112,NULL,NULL,Final,NULL,27,29,23,32,NULL,23,36,28,25,NULL,NBA
+64,400900131,2017,"Sat, Jan 28",Minnesota Timberwolves,Brooklyn Nets,"18-29, 11-14 Home","9-38, 2-21 Away",129,109,NULL,NULL,Final,NULL,33,30,29,37,NULL,26,29,23,31,NULL,NBA
+65,400899369,2017,"Wed, Feb 1",Cleveland Cavaliers,Minnesota Timberwolves,"33-15, 22-5 Home","19-30, 7-16 Away",125,97,NULL,NULL,Final,ESPN,36,27,30,32,NULL,32,28,19,18,NULL,NBA
+66,400900168,2017,"Sat, Feb 4",Minnesota Timberwolves,Memphis Grizzlies,"19-32, 12-15 Home","31-22, 15-13 Away",99,107,NULL,NULL,Final,NULL,31,17,19,32,NULL,15,33,21,38,NULL,NBA
+67,400900195,2017,"Wed, Feb 8",Minnesota Timberwolves,Toronto Raptors,"20-33, 13-16 Home","32-22, 14-13 Away",112,109,NULL,NULL,Final,NULL,25,28,30,29,NULL,33,30,25,21,NULL,NBA
+68,400900221,2017,"Sun, Feb 12",Minnesota Timberwolves,Chicago Bulls,"21-34, 14-17 Home","26-29, 11-18 Away",117,89,NULL,NULL,Final,NULL,34,23,27,33,NULL,17,23,25,24,NULL,NBA
+69,400900248,2017,"Wed, Feb 15",Denver Nuggets,Minnesota Timberwolves,"25-31, 15-13 Home","22-35, 8-17 Away",99,112,NULL,NULL,Final,NULL,31,29,19,20,NULL,32,30,23,27,NULL,NBA
+70,400900278,2017,"Sat, Feb 25",Houston Rockets,Minnesota Timberwolves,"42-18, 22-7 Home","23-36, 8-18 Away",142,130,NULL,NULL,Final,NULL,35,31,40,36,NULL,28,30,30,42,NULL,NBA
+71,400899442,2017,"Wed, Mar 1",Utah Jazz,Minnesota Timberwolves,"37-24, 20-12 Home","25-36, 10-18 Away",80,107,NULL,NULL,Final,NULL,16,19,18,27,NULL,21,30,30,26,NULL,NBA
+72,NULL,2017,"Mon, Mar 6",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NBA
+73,400900363,2017,"Fri, Mar 10",Minnesota Timberwolves,Golden State Warriors,"27-37, 17-18 Home","52-13, 26-9 Away",103,102,NULL,NULL,Final,NBATV,34,28,26,15,NULL,24,29,23,26,NULL,NBA
+74,400900390,2017,"Mon, Mar 13",Minnesota Timberwolves,Washington Wizards,"28-38, 18-18 Home","41-25, 15-16 Away",119,104,NULL,NULL,Final,NULL,41,23,25,30,NULL,23,33,24,24,NULL,NBA
+75,400900420,2017,"Fri, Mar 17",Miami Heat,Minnesota Timberwolves,"34-35, 20-14 Home","28-40, 10-22 Away",123,105,NULL,NULL,Final,NBATV,27,37,26,33,NULL,23,26,32,24,NULL,NBA
+76,400900451,2017,"Tue, Mar 21",Minnesota Timberwolves,San Antonio Spurs,"28-42, 18-19 Home","54-16, 28-9 Away",93,100,NULL,NULL,Final,ESPN,23,28,16,26,NULL,25,17,31,27,NULL,NBA
+77,400900481,2017,"Sat, Mar 25",Portland Trail Blazers,Minnesota Timberwolves,"34-38, 19-15 Home","28-44, 10-25 Away",112,100,NULL,NULL,Final,NULL,27,33,34,18,NULL,21,25,28,26,NULL,NBA
+78,400900518,2017,"Thu, Mar 30",Minnesota Timberwolves,Los Angeles Lakers,"30-44, 19-19 Home","21-54, 8-30 Away",119,104,NULL,NULL,Final,NULL,37,30,29,23,NULL,37,23,22,22,NULL,NBA
+79,400946146,2017,"Mon, Apr 3",Minnesota Timberwolves,Portland Trail Blazers,"31-45, 20-20 Home","38-39, 16-24 Away",110,109,NULL,NULL,Final,NBATV,29,20,37,24,NULL,23,34,26,26,NULL,NBA
+80,400900556,2017,"Thu, Apr 6",Portland Trail Blazers,Minnesota Timberwolves,"39-40, 23-15 Home","31-47, 11-27 Away",105,98,NULL,NULL,Final,TNT,20,33,27,25,NULL,34,27,26,11,NULL,NBA
+81,400900580,2017,"Sun, Apr 9",Los Angeles Lakers,Minnesota Timberwolves,"25-55, 16-24 Home","31-49, 11-29 Away",110,109,NULL,NULL,Final,NBATV,29,24,25,32,NULL,21,30,28,30,NULL,NBA

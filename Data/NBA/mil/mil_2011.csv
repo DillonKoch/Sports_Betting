@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,301029016,2011,"Fri, Oct 29",Minnesota Timberwolves,Milwaukee Bucks,"1-1, 1-1 Home","0-2, 0-2 Away",96,85,NULL,NULL,Final,NULL,27,28,19,22,NULL,28,18,18,21,NULL,NBA
+1,301102015,2011,"Tue, Nov 2",Milwaukee Bucks,Portland Trail Blazers,"1-3, 1-1 Home","4-1, 3-1 Away",76,90,NULL,NULL,Final,NULL,27,18,17,14,NULL,21,26,26,17,NULL,NBA
+2,301105011,2011,"Fri, Nov 5",Indiana Pacers,Milwaukee Bucks,"2-3, 1-1 Home","2-4, 1-3 Away",90,94,NULL,NULL,Final,NULL,20,40,16,14,NULL,18,34,18,24,NULL,NBA
+3,301109015,2011,"Tue, Nov 9",Milwaukee Bucks,New York Knicks,"3-5, 2-2 Home","3-4, 2-2 Away",107,80,NULL,NULL,Final,NULL,41,23,26,17,NULL,19,24,24,13,NULL,NBA
+4,301113015,2011,"Sat, Nov 13",Milwaukee Bucks,Golden State Warriors,"5-5, 3-2 Home","6-4, 2-4 Away",79,72,NULL,NULL,Final,NBATV,24,19,23,13,NULL,16,14,21,21,NULL,NBA
+5,301119020,2011,"Fri, Nov 19",Philadelphia 76ers,Milwaukee Bucks,"3-10, 2-4 Home","5-7, 2-4 Away",90,79,NULL,NULL,Final,CSN,20,29,23,18,NULL,25,18,16,20,NULL,NBA
+6,301124005,2011,"Wed, Nov 24",Cleveland Cavaliers,Milwaukee Bucks,"6-8, 3-4 Home","5-9, 2-5 Away",83,81,NULL,NULL,Final,NULL,19,15,31,18,NULL,22,22,24,13,NULL,NBA
+7,301127015,2011,"Sat, Nov 27",Milwaukee Bucks,Charlotte Bobcats,"6-10, 4-4 Home","6-11, 3-6 Away",104,101,NULL,NULL,Final,NULL,29,31,22,22,NULL,16,37,19,29,NULL,NBA
+8,301201007,2011,"Wed, Dec 1",Denver Nuggets,Milwaukee Bucks,"11-6, 8-1 Home","6-12, 2-8 Away",105,94,NULL,NULL,Final,TNT,19,26,31,29,NULL,22,28,21,23,NULL,NBA
+9,301206015,2011,"Mon, Dec 6",Milwaukee Bucks,Miami Heat,"7-13, 5-5 Home","14-8, 4-5 Away",78,88,NULL,NULL,Final,NULL,21,14,24,19,NULL,25,21,23,19,NULL,NBA
+10,301210015,2011,"Fri, Dec 10",Milwaukee Bucks,Houston Rockets,"9-13, 7-5 Home","8-14, 3-10 Away",97,91,NULL,NULL,Final,NULL,27,20,26,24,NULL,24,19,28,20,NULL,NBA
+11,301215024,2011,"Wed, Dec 15",San Antonio Spurs,Milwaukee Bucks,"21-3, 13-2 Home","10-14, 3-9 Away",92,90,NULL,NULL,Final,NULL,25,26,20,21,NULL,20,15,28,27,NULL,NBA
+12,301220022,2011,"Mon, Dec 20",Portland Trail Blazers,Milwaukee Bucks,"15-14, 10-3 Home","10-16, 3-10 Away",106,80,NULL,NULL,Final,NULL,25,34,19,28,NULL,18,17,25,20,NULL,NBA
+13,301223023,2011,"Thu, Dec 23",Sacramento Kings,Milwaukee Bucks,"5-22, 3-13 Home","12-16, 5-10 Away",79,84,NULL,NULL,Final,NULL,25,14,25,15,NULL,24,19,19,22,NULL,NBA
+14,301228004,2011,"Tue, Dec 28",Chicago Bulls,Milwaukee Bucks,"20-10, 12-3 Home","12-18, 5-11 Away",90,77,NULL,NULL,Final,NULL,27,17,23,23,NULL,15,30,17,15,NULL,NBA
+15,310104014,2011,"Tue, Jan 4",Miami Heat,Milwaukee Bucks,"28-9, 15-4 Home","13-19, 5-12 Away",101,89,NULL,NULL,Final,NULL,26,21,26,28,NULL,20,31,19,19,NULL,NBA
+16,310107015,2011,"Fri, Jan 7",Milwaukee Bucks,Miami Heat,"13-21, 8-8 Home","29-9, 14-5 Away",95,101,NULL,NULL,Final/OT,NULL,18,30,24,19,4,30,25,20,16,10,NBA
+17,NULL,2011,"Tue, Jan 11",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NBA
+18,310114020,2011,"Fri, Jan 14",Philadelphia 76ers,Milwaukee Bucks,"16-23, 11-7 Home","14-23, 6-14 Away",95,94,NULL,NULL,Final,CSN,28,27,22,18,NULL,23,26,23,22,NULL,NBA
+19,310119015,2011,"Wed, Jan 19",Milwaukee Bucks,Washington Wizards,"15-24, 9-9 Home","12-28, 0-20 Away",100,87,NULL,NULL,Final,NULL,19,28,28,25,NULL,27,22,17,21,NULL,NBA
+20,310122015,2011,"Sat, Jan 22",Milwaukee Bucks,Memphis Grizzlies,"16-25, 9-10 Home","21-23, 8-16 Away",81,94,NULL,NULL,Final,NULL,19,21,19,22,NULL,21,22,29,22,NULL,NBA
+21,310126015,2011,"Wed, Jan 26",Milwaukee Bucks,Atlanta Hawks,"17-26, 10-10 Home","29-17, 15-10 Away",98,90,NULL,NULL,Final,NULL,22,22,20,34,NULL,23,24,28,15,NULL,NBA
+22,310129015,2011,"Sat, Jan 29",Milwaukee Bucks,New Jersey Nets,"19-26, 11-10 Home","14-34, 3-23 Away",91,81,NULL,NULL,Final,NULL,22,23,23,23,NULL,25,12,24,20,NULL,NBA
+23,310202021,2011,"Wed, Feb 2",Phoenix Suns,Milwaukee Bucks,"23-24, 14-10 Home","19-28, 8-18 Away",92,77,NULL,NULL,Final,NULL,25,27,19,21,NULL,17,14,22,24,NULL,NBA
+24,310205015,2011,"Sat, Feb 5",Milwaukee Bucks,Detroit Pistons,"19-30, 11-11 Home","19-32, 6-21 Away",78,89,NULL,NULL,Final,NULL,22,25,13,18,NULL,26,26,14,23,NULL,NBA
+25,310209027,2011,"Wed, Feb 9",Washington Wizards,Milwaukee Bucks,"14-37, 14-12 Home","20-31, 8-20 Away",100,85,NULL,NULL,Final,NULL,22,25,30,23,NULL,19,18,23,25,NULL,NBA
+26,310212015,2011,"Sat, Feb 12",Milwaukee Bucks,Indiana Pacers,"20-33, 12-12 Home","24-28, 9-17 Away",97,103,NULL,NULL,Final,NULL,29,20,23,25,NULL,32,19,24,28,NULL,NBA
+27,310216015,2011,"Wed, Feb 16",Milwaukee Bucks,Denver Nuggets,"21-34, 13-13 Home","32-25, 10-18 Away",87,94,NULL,NULL,Final,ESPN,16,27,28,16,NULL,27,19,25,23,NULL,NBA
+28,310223018,2011,"Wed, Feb 23",New York Knicks,Milwaukee Bucks,"29-26, 16-12 Home","22-35, 8-22 Away",114,108,NULL,NULL,Final,NULL,33,26,27,28,NULL,24,33,22,29,NULL,NBA
+29,310301015,2011,"Tue, Mar 1",Milwaukee Bucks,Detroit Pistons,"23-36, 15-14 Home","22-40, 7-24 Away",92,90,NULL,NULL,Final,NULL,28,23,21,20,NULL,22,28,25,15,NULL,NBA
+30,310306015,2011,"Sun, Mar 6",Milwaukee Bucks,Boston Celtics,"23-38, 15-16 Home","46-15, 19-10 Away",83,89,NULL,NULL,Final,ESPN,26,23,16,18,NULL,27,16,26,20,NULL,NBA
+31,310309015,2011,"Wed, Mar 9",Milwaukee Bucks,Cleveland Cavaliers,"25-38, 16-16 Home","12-52, 4-28 Away",110,90,NULL,NULL,Final,NULL,23,39,26,22,NULL,27,22,18,23,NULL,NBA
+32,310313002,2011,"Sun, Mar 13",Boston Celtics,Milwaukee Bucks,"47-17, 28-6 Home","26-39, 9-23 Away",87,56,NULL,NULL,Final,NBATV,20,19,21,27,NULL,9,13,16,18,NULL,NBA
+33,310316015,2011,"Wed, Mar 16",Milwaukee Bucks,Orlando Magic,"26-41, 17-17 Home","43-26, 19-15 Away",89,93,NULL,NULL,Final/OT,NULL,14,23,27,15,10,23,23,15,18,14,NBA
+34,310320015,2011,"Sun, Mar 20",Milwaukee Bucks,New York Knicks,"28-41, 19-17 Home","35-34, 16-20 Away",100,95,NULL,NULL,Final,NULL,32,15,28,25,NULL,9,32,31,23,NULL,NBA
+35,310325018,2011,"Fri, Mar 25",New York Knicks,Milwaukee Bucks,"35-37, 19-17 Home","29-42, 10-24 Away",96,102,NULL,NULL,Final,NULL,24,27,26,19,NULL,35,23,24,20,NULL,NBA
+36,310328030,2011,"Mon, Mar 28",Charlotte Bobcats,Milwaukee Bucks,"31-42, 19-17 Home","29-44, 10-25 Away",87,86,NULL,NULL,Final,NULL,27,18,20,22,NULL,26,20,26,14,NULL,NBA
+37,310401011,2011,"Fri, Apr 1",Indiana Pacers,Milwaukee Bucks,"35-42, 22-16 Home","30-45, 11-26 Away",89,88,NULL,NULL,Final,NULL,14,32,23,20,NULL,22,17,21,28,NULL,NBA
+38,310405019,2011,"Tue, Apr 5",Orlando Magic,Milwaukee Bucks,"49-29, 28-11 Home","31-46, 11-27 Away",78,72,NULL,NULL,Final,NULL,26,16,15,21,NULL,14,19,22,17,NULL,NBA
+39,310408008,2011,"Fri, Apr 8",Detroit Pistons,Milwaukee Bucks,"28-51, 21-19 Home","32-47, 12-28 Away",110,100,NULL,NULL,Final,NULL,26,29,29,26,NULL,21,30,23,26,NULL,NBA
+40,310411015,2011,"Mon, Apr 11",Milwaukee Bucks,Toronto Raptors,"34-47, 22-19 Home","22-59, 6-35 Away",93,86,NULL,NULL,Final,TSNT,25,21,23,24,NULL,33,18,20,15,NULL,NBA
+41,301027003,2011,"Wed, Oct 27",New Orleans Hornets,Milwaukee Bucks,"1-0, 1-0 Home","0-1, 0-1 Away",95,91,NULL,NULL,Final,NULL,29,18,31,17,NULL,30,17,25,19,NULL,NBA
+42,301030015,2011,"Sat, Oct 30",Milwaukee Bucks,Charlotte Bobcats,"1-2, 1-0 Home","0-3, 0-2 Away",98,88,NULL,NULL,Final,NULL,27,21,25,25,NULL,18,22,22,26,NULL,NBA
+43,301103002,2011,"Wed, Nov 3",Boston Celtics,Milwaukee Bucks,"4-1, 3-0 Home","1-4, 0-3 Away",105,102,NULL,NULL,Final/OT,ESPN,25,22,15,29,14,16,31,16,28,11,NBA
+44,301106015,2011,"Sat, Nov 6",Milwaukee Bucks,New Orleans Hornets,"2-5, 1-2 Home","6-0, 3-0 Away",81,87,NULL,NULL,Final,NULL,18,17,19,27,NULL,23,18,24,22,NULL,NBA
+45,301110001,2011,"Wed, Nov 10",Atlanta Hawks,Milwaukee Bucks,"6-3, 2-2 Home","4-5, 2-3 Away",91,108,NULL,NULL,Final,NULL,26,14,19,32,NULL,21,33,34,20,NULL,NBA
+46,301116015,2011,"Tue, Nov 16",Milwaukee Bucks,Los Angeles Lakers,"5-6, 3-3 Home","9-2, 3-1 Away",107,118,NULL,NULL,Final,NULL,29,30,22,26,NULL,32,25,33,28,NULL,NBA
+47,301120015,2011,"Sat, Nov 20",Milwaukee Bucks,Oklahoma City Thunder,"5-8, 3-4 Home","9-4, 5-1 Away",81,82,NULL,NULL,Final,NULL,19,18,19,25,NULL,26,21,15,20,NULL,NBA
+48,301126008,2011,"Fri, Nov 26",Detroit Pistons,Milwaukee Bucks,"6-10, 4-3 Home","5-10, 2-6 Away",103,89,NULL,NULL,Final,NULL,29,26,20,28,NULL,18,25,21,25,NULL,NBA
+49,301129026,2011,"Mon, Nov 29",Utah Jazz,Milwaukee Bucks,"14-5, 7-3 Home","6-11, 2-7 Away",109,88,NULL,NULL,Final,NULL,30,30,20,29,NULL,26,26,21,15,NULL,NBA
+50,301204015,2011,"Sat, Dec 4",Milwaukee Bucks,Orlando Magic,"7-12, 5-4 Home","15-5, 6-3 Away",96,85,NULL,NULL,Final,NBATV,24,25,20,27,NULL,16,26,20,23,NULL,NBA
+51,301208015,2011,"Wed, Dec 8",Milwaukee Bucks,Indiana Pacers,"8-13, 6-5 Home","10-10, 5-5 Away",97,95,NULL,NULL,Final,NULL,33,23,22,19,NULL,27,21,31,16,NULL,NBA
+52,301213006,2011,"Mon, Dec 13",Dallas Mavericks,Milwaukee Bucks,"19-5, 11-4 Home","10-13, 3-8 Away",99,103,NULL,NULL,Final,NULL,25,27,22,25,NULL,15,28,32,28,NULL,NBA
+53,301218015,2011,"Sat, Dec 18",Milwaukee Bucks,Utah Jazz,"10-15, 7-6 Home","19-9, 8-4 Away",86,95,NULL,NULL,Final,NULL,25,21,22,18,NULL,19,24,28,24,NULL,NBA
+54,301221013,2011,"Tue, Dec 21",Los Angeles Lakers,Milwaukee Bucks,"21-8, 10-3 Home","11-16, 4-10 Away",79,98,NULL,NULL,Final,NULL,22,24,20,13,NULL,25,25,22,26,NULL,NBA
+55,301227015,2011,"Mon, Dec 27",Milwaukee Bucks,Atlanta Hawks,"12-17, 7-7 Home","20-13, 9-8 Away",80,95,NULL,NULL,Final,NULL,18,24,25,13,NULL,29,28,20,18,NULL,NBA
+56,310101015,2011,"Sat, Jan 1",Milwaukee Bucks,Dallas Mavericks,"13-18, 8-7 Home","24-8, 11-2 Away",99,87,NULL,NULL,Final,NULL,25,27,21,26,NULL,18,32,21,16,NULL,NBA
+57,310105019,2011,"Wed, Jan 5",Orlando Magic,Milwaukee Bucks,"23-12, 14-5 Home","13-20, 5-13 Away",97,87,NULL,NULL,Final,NULL,25,24,22,26,NULL,17,16,24,30,NULL,NBA
+58,310108017,2011,"Sat, Jan 8",New Jersey Nets,Milwaukee Bucks,"10-27, 7-10 Home","14-21, 6-13 Away",92,115,NULL,NULL,Final,NULL,15,30,20,27,NULL,28,27,33,27,NULL,NBA
+59,310112015,2011,"Wed, Jan 12",Milwaukee Bucks,San Antonio Spurs,"14-22, 8-9 Home","33-6, 13-4 Away",84,91,NULL,NULL,Final,NULL,26,25,15,18,NULL,21,22,22,26,NULL,NBA
+60,310117010,2011,"Mon, Jan 17",Houston Rockets,Milwaukee Bucks,"19-23, 11-9 Home","14-24, 6-15 Away",93,84,NULL,NULL,Final,NULL,18,21,35,19,NULL,15,24,27,18,NULL,NBA
+61,310121005,2011,"Fri, Jan 21",Cleveland Cavaliers,Milwaukee Bucks,"8-34, 5-14 Home","16-24, 7-15 Away",88,102,NULL,NULL,Final,NULL,25,16,29,18,NULL,27,26,26,23,NULL,NBA
+62,310124004,2011,"Mon, Jan 24",Chicago Bulls,Milwaukee Bucks,"31-14, 21-4 Home","16-26, 7-16 Away",92,83,NULL,NULL,Final,NULL,19,29,20,24,NULL,18,14,26,25,NULL,NBA
+63,310128028,2011,"Fri, Jan 28",Toronto Raptors,Milwaukee Bucks,"13-34, 8-15 Home","18-26, 8-16 Away",110,116,NULL,NULL,Final/OT,TSN2,22,35,21,26,6,32,23,26,23,12,NBA
+64,310131012,2011,"Mon, Jan 31",LA Clippers,Milwaukee Bucks,"19-28, 16-13 Home","19-27, 8-17 Away",105,98,NULL,NULL,Final,NULL,26,23,28,28,NULL,16,31,26,25,NULL,NBA
+65,310203009,2011,"Thu, Feb 3",Golden State Warriors,Milwaukee Bucks,"21-27, 15-10 Home","19-29, 8-19 Away",100,94,NULL,NULL,Final,NULL,18,28,26,28,NULL,22,25,26,21,NULL,NBA
+66,310208015,2011,"Tue, Feb 8",Milwaukee Bucks,Toronto Raptors,"20-30, 12-11 Home","14-38, 5-23 Away",92,74,NULL,NULL,Final,TSNT,24,16,26,26,NULL,17,21,20,16,NULL,NBA
+67,310211029,2011,"Fri, Feb 11",Memphis Grizzlies,Milwaukee Bucks,"29-26, 17-8 Home","20-32, 8-21 Away",89,86,NULL,NULL,Final,NULL,20,25,18,26,NULL,17,23,28,18,NULL,NBA
+68,310214015,2011,"Mon, Feb 14",Milwaukee Bucks,LA Clippers,"21-33, 13-12 Home","20-35, 4-21 Away",102,78,NULL,NULL,Final,NULL,22,25,24,31,NULL,17,28,20,13,NULL,NBA
+69,310222015,2011,"Tue, Feb 22",Milwaukee Bucks,Minnesota Timberwolves,"22-34, 14-13 Home","13-44, 4-25 Away",94,88,NULL,NULL,Final,NULL,26,18,23,27,NULL,23,21,23,21,NULL,NBA
+70,310226015,2011,"Sat, Feb 26",Milwaukee Bucks,Chicago Bulls,"22-36, 14-14 Home","40-17, 14-13 Away",75,83,NULL,NULL,Final,NBATV,25,14,20,16,NULL,21,18,31,13,NULL,NBA
+71,310304015,2011,"Fri, Mar 4",Milwaukee Bucks,Phoenix Suns,"23-37, 15-15 Home","32-28, 15-15 Away",88,102,NULL,NULL,Final,NULL,26,22,15,25,NULL,22,23,31,26,NULL,NBA
+72,310308027,2011,"Tue, Mar 8",Washington Wizards,Milwaukee Bucks,"16-47, 15-18 Home","24-38, 9-22 Away",76,95,NULL,NULL,Final,NULL,21,15,16,24,NULL,22,29,24,20,NULL,NBA
+73,310312015,2011,"Sat, Mar 12",Milwaukee Bucks,Philadelphia 76ers,"26-38, 17-16 Home","34-32, 12-21 Away",102,74,NULL,NULL,Final,NULL,26,33,21,22,NULL,25,16,16,17,NULL,NBA
+74,310315001,2011,"Tue, Mar 15",Atlanta Hawks,Milwaukee Bucks,"39-28, 20-12 Home","26-40, 9-24 Away",110,85,NULL,NULL,Final,NULL,28,27,29,26,NULL,17,22,16,30,NULL,NBA
+75,310318015,2011,"Fri, Mar 18",Milwaukee Bucks,New Jersey Nets,"27-41, 18-17 Home","22-45, 4-28 Away",110,95,NULL,NULL,Final,NULL,29,23,28,30,NULL,26,28,19,22,NULL,NBA
+76,310323015,2011,"Wed, Mar 23",Milwaukee Bucks,Sacramento Kings,"28-42, 19-18 Home","18-52, 9-25 Away",90,97,NULL,NULL,Final,NULL,32,24,18,16,NULL,25,28,22,22,NULL,NBA
+77,310326015,2011,"Sat, Mar 26",Milwaukee Bucks,Chicago Bulls,"29-43, 19-19 Home","53-19, 21-15 Away",87,95,NULL,NULL,Final,NULL,25,23,26,13,NULL,21,23,25,26,NULL,NBA
+78,310330028,2011,"Wed, Mar 30",Toronto Raptors,Milwaukee Bucks,"20-54, 14-23 Home","30-44, 11-25 Away",98,104,NULL,NULL,Final,TSN2,28,21,27,22,NULL,22,30,24,28,NULL,NBA
+79,310402015,2011,"Sat, Apr 2",Milwaukee Bucks,Philadelphia 76ers,"31-45, 20-19 Home","40-37, 15-25 Away",93,87,NULL,NULL,Final/OT,CSN,20,19,22,18,14,30,18,13,18,8,NBA
+80,310406014,2011,"Wed, Apr 6",Miami Heat,Milwaukee Bucks,"54-24, 28-11 Home","32-46, 12-27 Away",85,90,NULL,NULL,Final,ESPN,15,25,23,22,NULL,25,20,18,27,NULL,NBA
+81,310409015,2011,"Sat, Apr 9",Milwaukee Bucks,Cleveland Cavaliers,"33-47, 21-19 Home","17-63, 6-34 Away",108,101,NULL,NULL,Final,NULL,30,30,25,23,NULL,18,26,34,23,NULL,NBA

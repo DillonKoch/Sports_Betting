@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,400578313,2015,"Fri, Oct 31",Indiana Pacers,Memphis Grizzlies,"1-1, 1-1 Home","2-0, 1-0 Away",89,97,NULL,NULL,Final,NULL,19,34,14,22,NULL,23,22,33,19,NULL,NBA
+1,400578337,2015,"Mon, Nov 3",Memphis Grizzlies,New Orleans Pelicans,"4-0, 2-0 Home","1-2, 0-1 Away",93,81,NULL,NULL,Final,NULL,20,20,24,29,NULL,13,20,23,25,NULL,NBA
+2,400578370,2015,"Fri, Nov 7",Oklahoma City Thunder,Memphis Grizzlies,"1-5, 1-1 Home","6-0, 4-0 Away",89,91,NULL,NULL,Final,ESPN,19,21,22,27,NULL,22,27,17,25,NULL,NBA
+3,400578396,2015,"Tue, Nov 11",Memphis Grizzlies,Los Angeles Lakers,"7-1, 3-0 Home","1-6, 0-3 Away",107,102,NULL,NULL,Final,NULL,25,31,27,24,NULL,21,31,23,27,NULL,NBA
+4,400578428,2015,"Sat, Nov 15",Memphis Grizzlies,Detroit Pistons,"9-1, 5-0 Home","3-7, 1-5 Away",95,88,NULL,NULL,Final,NULL,25,26,18,26,NULL,16,34,14,24,NULL,NBA
+5,400578458,2015,"Wed, Nov 19",Toronto Raptors,Memphis Grizzlies,"9-2, 7-1 Home","10-2, 4-2 Away",96,92,NULL,NULL,Final,NULL,22,20,27,27,NULL,20,28,27,17,NULL,NBA
+6,400578485,2015,"Sun, Nov 23",Memphis Grizzlies,LA Clippers,"12-2, 8-0 Home","7-5, 3-2 Away",107,91,NULL,NULL,Final,NULL,26,27,35,19,NULL,21,19,32,19,NULL,NBA
+7,400578525,2015,"Fri, Nov 28",Portland Trail Blazers,Memphis Grizzlies,"12-4, 8-2 Home","14-2, 6-2 Away",99,112,NULL,NULL,Final,NULL,25,18,27,29,NULL,23,29,31,29,NULL,NBA
+8,400578560,2015,"Wed, Dec 3",Houston Rockets,Memphis Grizzlies,"14-4, 7-3 Home","15-3, 7-3 Away",105,96,NULL,NULL,Final,NULL,34,24,36,11,NULL,28,18,22,28,NULL,NBA
+9,400578588,2015,"Sun, Dec 7",Memphis Grizzlies,Miami Heat,"16-4, 9-1 Home","9-11, 5-5 Away",103,87,NULL,NULL,Final,NULL,28,27,27,21,NULL,26,22,27,12,NULL,NBA
+10,400578626,2015,"Fri, Dec 12",Memphis Grizzlies,Charlotte Hornets,"18-4, 11-1 Home","6-16, 1-9 Away",113,107,NULL,NULL,Final/2OT,NULL,26,21,22,23,21,21,24,27,20,15,NBA
+11,400578657,2015,"Tue, Dec 16",Memphis Grizzlies,Golden State Warriors,"20-4, 12-1 Home","21-3, 13-2 Away",105,98,NULL,NULL,Final,ESPN,24,33,23,25,NULL,30,19,20,29,NULL,NBA
+12,400578681,2015,"Fri, Dec 19",Memphis Grizzlies,Chicago Bulls,"21-5, 12-2 Home","17-9, 12-4 Away",97,103,NULL,NULL,Final,NULL,22,21,23,31,NULL,20,31,22,30,NULL,NBA
+13,400578704,2015,"Mon, Dec 22",Memphis Grizzlies,Utah Jazz,"21-7, 12-3 Home","9-20, 5-11 Away",91,97,NULL,NULL,Final,NULL,22,21,25,23,NULL,19,25,26,27,NULL,NBA
+14,400578738,2015,"Sat, Dec 27",Miami Heat,Memphis Grizzlies,"14-17, 6-11 Home","22-8, 10-4 Away",95,103,NULL,NULL,Final,NBATV,16,25,28,26,NULL,27,30,15,31,NULL,NBA
+15,400578786,2015,"Fri, Jan 2",Los Angeles Lakers,Memphis Grizzlies,"10-23, 4-12 Home","24-8, 11-4 Away",106,109,NULL,NULL,Final,NULL,25,27,25,29,NULL,22,25,33,29,NULL,NBA
+16,400578805,2015,"Mon, Jan 5",Memphis Grizzlies,New York Knicks,"25-9, 14-4 Home","5-32, 2-17 Away",105,83,NULL,NULL,Final,NULL,21,26,37,21,NULL,14,22,26,21,NULL,NBA
+17,400578833,2015,"Fri, Jan 9",New Orleans Pelicans,Memphis Grizzlies,"18-18, 12-5 Home","25-11, 11-7 Away",106,95,NULL,NULL,Final,NULL,31,21,30,24,NULL,19,20,32,24,NULL,NBA
+18,400578868,2015,"Wed, Jan 14",Brooklyn Nets,Memphis Grizzlies,"16-23, 8-13 Home","27-11, 12-7 Away",92,103,NULL,NULL,Final,NULL,23,22,20,27,NULL,32,19,31,21,NULL,NBA
+19,400578896,2015,"Sat, Jan 17",Memphis Grizzlies,Portland Trail Blazers,"29-11, 16-4 Home","30-11, 12-7 Away",102,98,NULL,NULL,Final,NULL,30,30,18,24,NULL,23,19,28,28,NULL,NBA
+20,400578922,2015,"Wed, Jan 21",Memphis Grizzlies,Toronto Raptors,"30-12, 17-5 Home","27-15, 11-8 Away",92,86,NULL,NULL,Final,NULL,16,25,19,32,NULL,16,22,23,25,NULL,NBA
+21,400578962,2015,"Mon, Jan 26",Memphis Grizzlies,Orlando Magic,"32-12, 19-5 Home","15-33, 10-18 Away",103,94,NULL,NULL,Final,NULL,34,33,22,14,NULL,29,19,25,21,NULL,NBA
+22,400578985,2015,"Thu, Jan 29",Memphis Grizzlies,Denver Nuggets,"34-12, 20-5 Home","19-28, 7-16 Away",99,69,NULL,NULL,Final,TNT,26,24,24,25,NULL,11,24,14,20,NULL,NBA
+23,400579017,2015,"Mon, Feb 2",Phoenix Suns,Memphis Grizzlies,"28-22, 15-10 Home","36-12, 15-7 Away",101,102,NULL,NULL,Final,NULL,23,21,28,29,NULL,25,24,28,25,NULL,NBA
+24,400579046,2015,"Fri, Feb 6",Minnesota Timberwolves,Memphis Grizzlies,"10-40, 6-19 Home","37-13, 16-8 Away",90,89,NULL,NULL,Final,NULL,24,19,22,25,NULL,23,20,26,20,NULL,NBA
+25,400579078,2015,"Tue, Feb 10",Memphis Grizzlies,Brooklyn Nets,"39-13, 23-5 Home","21-31, 11-16 Away",95,86,NULL,NULL,Final,NULL,32,20,23,20,NULL,15,25,22,24,NULL,NBA
+26,400579120,2015,"Sun, Feb 22",Portland Trail Blazers,Memphis Grizzlies,"36-19, 23-6 Home","40-14, 17-9 Away",92,98,NULL,NULL,Final,NULL,21,17,39,15,NULL,19,19,26,34,NULL,NBA
+27,400579144,2015,"Wed, Feb 25",Sacramento Kings,Memphis Grizzlies,"20-35, 13-17 Home","41-15, 18-10 Away",102,90,NULL,NULL,Final,NULL,32,30,14,26,NULL,25,27,25,13,NULL,NBA
+28,400579165,2015,"Sat, Feb 28",Minnesota Timberwolves,Memphis Grizzlies,"13-45, 8-22 Home","42-16, 19-10 Away",97,101,NULL,NULL,Final,NULL,24,22,24,27,NULL,18,30,24,29,NULL,NBA
+29,400579193,2015,"Wed, Mar 4",Houston Rockets,Memphis Grizzlies,"41-20, 23-9 Home","43-17, 20-10 Away",100,102,NULL,NULL,Final,NULL,31,28,20,21,NULL,24,30,25,23,NULL,NBA
+30,400579215,2015,"Sat, Mar 7",New Orleans Pelicans,Memphis Grizzlies,"34-29, 22-11 Home","44-18, 20-11 Away",95,89,NULL,NULL,Final,NULL,18,20,33,24,NULL,25,25,17,22,NULL,NBA
+31,400579246,2015,"Wed, Mar 11",Boston Celtics,Memphis Grizzlies,"27-36, 16-16 Home","45-19, 21-12 Away",95,92,NULL,NULL,Final,NULL,23,16,25,31,NULL,18,21,24,29,NULL,NBA
+32,400579271,2015,"Sat, Mar 14",Memphis Grizzlies,Milwaukee Bucks,"46-20, 25-7 Home","34-32, 15-20 Away",96,83,NULL,NULL,Final,NULL,22,27,29,18,NULL,20,22,19,22,NULL,NBA
+33,400579292,2015,"Tue, Mar 17",Detroit Pistons,Memphis Grizzlies,"24-43, 13-21 Home","47-21, 21-14 Away",105,95,NULL,NULL,Final,NULL,18,21,36,30,NULL,30,24,22,19,NULL,NBA
+34,400579327,2015,"Sat, Mar 21",Memphis Grizzlies,Portland Trail Blazers,"49-21, 27-7 Home","44-24, 16-18 Away",97,86,NULL,NULL,Final,NULL,35,18,24,20,NULL,27,17,18,24,NULL,NBA
+35,400579358,2015,"Wed, Mar 25",Memphis Grizzlies,Cleveland Cavaliers,"50-22, 27-8 Home","47-26, 21-17 Away",89,111,NULL,NULL,Final,NULL,19,23,24,23,NULL,22,33,36,20,NULL,NBA
+36,400579390,2015,"Sun, Mar 29",San Antonio Spurs,Memphis Grizzlies,"47-26, 29-8 Home","50-24, 23-15 Away",103,89,NULL,NULL,Final,NULL,28,23,19,33,NULL,21,21,24,23,NULL,NBA
+37,400579424,2015,"Fri, Apr 3",Memphis Grizzlies,Oklahoma City Thunder,"52-24, 29-9 Home","42-34, 15-24 Away",100,92,NULL,NULL,Final,ESPN,24,31,22,23,NULL,26,23,20,23,NULL,NBA
+38,400579458,2015,"Wed, Apr 8",Memphis Grizzlies,New Orleans Pelicans,"53-25, 30-10 Home","42-36, 16-23 Away",110,74,NULL,NULL,Final,NULL,27,28,26,29,NULL,24,12,19,19,NULL,NBA
+39,400579482,2015,"Sat, Apr 11",LA Clippers,Memphis Grizzlies,"54-26, 29-11 Home","54-26, 24-16 Away",94,86,NULL,NULL,Final,NBATV,26,26,17,25,NULL,21,28,19,18,NULL,NBA
+40,400578301,2015,"Wed, Oct 29",Memphis Grizzlies,Minnesota Timberwolves,"1-0, 1-0 Home","0-1, 0-1 Away",105,101,NULL,NULL,Final,NULL,25,28,28,24,NULL,27,20,27,27,NULL,NBA
+41,400578320,2015,"Sat, Nov 1",Charlotte Hornets,Memphis Grizzlies,"1-1, 1-1 Home","3-0, 2-0 Away",69,71,NULL,NULL,Final,NULL,15,15,16,23,NULL,23,13,15,20,NULL,NBA
+42,400578357,2015,"Wed, Nov 5",Phoenix Suns,Memphis Grizzlies,"3-2, 2-1 Home","5-0, 3-0 Away",91,102,NULL,NULL,Final,NULL,27,25,19,20,NULL,26,20,30,26,NULL,NBA
+43,400578380,2015,"Sat, Nov 8",Milwaukee Bucks,Memphis Grizzlies,"3-4, 2-1 Home","6-1, 4-1 Away",93,92,NULL,NULL,Final,NULL,21,23,22,27,NULL,23,28,21,20,NULL,NBA
+44,400578410,2015,"Thu, Nov 13",Memphis Grizzlies,Sacramento Kings,"8-1, 4-0 Home","5-4, 3-3 Away",111,110,NULL,NULL,Final,NULL,16,30,30,35,NULL,38,24,29,19,NULL,NBA
+45,400578443,2015,"Mon, Nov 17",Memphis Grizzlies,Houston Rockets,"10-1, 6-0 Home","9-2, 6-1 Away",119,93,NULL,NULL,Final,NULL,34,31,32,22,NULL,18,24,24,27,NULL,NBA
+46,400578468,2015,"Fri, Nov 21",Memphis Grizzlies,Boston Celtics,"11-2, 7-0 Home","4-7, 2-3 Away",117,100,NULL,NULL,Final,NULL,25,30,27,35,NULL,16,25,29,30,NULL,NBA
+47,400578514,2015,"Wed, Nov 26",Los Angeles Lakers,Memphis Grizzlies,"3-12, 1-7 Home","13-2, 5-2 Away",93,99,NULL,NULL,Final,NBATV,26,25,23,19,NULL,21,25,34,19,NULL,NBA
+48,400578536,2015,"Sun, Nov 30",Sacramento Kings,Memphis Grizzlies,"9-8, 4-3 Home","15-2, 7-2 Away",85,97,NULL,NULL,Final,NULL,20,22,23,20,NULL,28,30,16,23,NULL,NBA
+49,400578574,2015,"Fri, Dec 5",Memphis Grizzlies,San Antonio Spurs,"15-4, 8-1 Home","14-5, 8-4 Away",101,107,NULL,NULL,Final,NULL,14,32,22,33,NULL,25,33,20,29,NULL,NBA
+50,400578602,2015,"Tue, Dec 9",Memphis Grizzlies,Dallas Mavericks,"17-4, 10-1 Home","16-7, 8-4 Away",114,105,NULL,NULL,Final,NBATV,34,22,36,22,NULL,37,25,17,26,NULL,NBA
+51,400578637,2015,"Sat, Dec 13",Philadelphia 76ers,Memphis Grizzlies,"2-21, 0-12 Home","19-4, 8-3 Away",115,120,NULL,NULL,Final/OT,NULL,28,22,30,29,6,21,22,25,41,11,NBA
+52,400578667,2015,"Wed, Dec 17",San Antonio Spurs,Memphis Grizzlies,"17-9, 8-3 Home","21-4, 9-3 Away",116,117,NULL,NULL,Final/3OT,NULL,19,26,23,24,24,34,18,21,19,25,NBA
+53,400578693,2015,"Sun, Dec 21",Cleveland Cavaliers,Memphis Grizzlies,"16-10, 10-5 Home","21-6, 9-4 Away",105,91,NULL,NULL,Final,NULL,22,30,25,28,NULL,19,22,29,21,NULL,NBA
+54,400578728,2015,"Fri, Dec 26",Memphis Grizzlies,Houston Rockets,"21-8, 12-4 Home","21-7, 11-2 Away",111,117,NULL,NULL,Final/OT,NBATV,31,26,24,23,7,24,26,29,25,13,NBA
+55,400578760,2015,"Tue, Dec 30",Memphis Grizzlies,San Antonio Spurs,"23-8, 13-4 Home","19-14, 9-9 Away",95,87,NULL,NULL,Final,NULL,30,22,22,21,NULL,20,18,25,24,NULL,NBA
+56,400578792,2015,"Sat, Jan 3",Denver Nuggets,Memphis Grizzlies,"14-20, 10-8 Home","24-9, 11-5 Away",114,85,NULL,NULL,Final,NULL,32,17,34,31,NULL,22,16,22,25,NULL,NBA
+57,400578818,2015,"Wed, Jan 7",Atlanta Hawks,Memphis Grizzlies,"27-8, 15-3 Home","25-10, 11-6 Away",96,86,NULL,NULL,Final,NULL,23,26,21,26,NULL,19,25,15,27,NULL,NBA
+58,400578852,2015,"Sun, Jan 11",Memphis Grizzlies,Phoenix Suns,"26-11, 15-4 Home","22-18, 13-11 Away",122,110,NULL,NULL,Final/2OT,NULL,22,29,24,26,21,15,26,25,35,9,NBA
+59,400578880,2015,"Fri, Jan 16",Orlando Magic,Memphis Grizzlies,"15-28, 5-13 Home","28-11, 13-7 Away",96,106,NULL,NULL,Final,NULL,28,21,25,22,NULL,27,21,33,25,NULL,NBA
+60,400578908,2015,"Mon, Jan 19",Memphis Grizzlies,Dallas Mavericks,"29-12, 16-5 Home","29-13, 15-7 Away",95,103,NULL,NULL,Final,NBATV,16,30,29,20,NULL,25,28,29,21,NULL,NBA
+61,400578946,2015,"Sat, Jan 24",Memphis Grizzlies,Philadelphia 76ers,"31-12, 18-5 Home","8-36, 5-18 Away",101,83,NULL,NULL,Final,NULL,27,33,21,20,NULL,21,20,20,22,NULL,NBA
+62,400578970,2015,"Tue, Jan 27",Dallas Mavericks,Memphis Grizzlies,"30-16, 14-8 Home","33-12, 14-7 Away",90,109,NULL,NULL,Final,NULL,24,20,28,18,NULL,24,30,32,23,NULL,NBA
+63,400579002,2015,"Sat, Jan 31",Memphis Grizzlies,Oklahoma City Thunder,"35-12, 21-5 Home","23-24, 10-17 Away",85,74,NULL,NULL,Final,NULL,25,20,23,17,NULL,20,20,22,12,NULL,NBA
+64,400579032,2015,"Wed, Feb 4",Utah Jazz,Memphis Grizzlies,"17-32, 9-15 Home","37-12, 16-7 Away",90,100,NULL,NULL,Final,NULL,23,28,20,19,NULL,30,28,19,23,NULL,NBA
+65,400579059,2015,"Sun, Feb 8",Memphis Grizzlies,Atlanta Hawks,"38-13, 22-5 Home","42-10, 17-7 Away",94,88,NULL,NULL,Final,NULL,20,22,27,25,NULL,16,27,23,22,NULL,NBA
+66,400579087,2015,"Wed, Feb 11",Oklahoma City Thunder,Memphis Grizzlies,"28-25, 16-8 Home","39-14, 16-9 Away",105,89,NULL,NULL,Final,NULL,35,31,19,20,NULL,26,22,21,20,NULL,NBA
+67,400579129,2015,"Mon, Feb 23",LA Clippers,Memphis Grizzlies,"37-20, 23-8 Home","41-14, 18-9 Away",87,90,NULL,NULL,Final,NBATV,22,22,24,19,NULL,21,17,28,24,NULL,NBA
+68,400579156,2015,"Fri, Feb 27",Memphis Grizzlies,LA Clippers,"41-16, 23-6 Home","38-21, 15-13 Away",79,97,NULL,NULL,Final,NULL,16,25,21,17,NULL,17,24,28,28,NULL,NBA
+69,400579186,2015,"Tue, Mar 3",Memphis Grizzlies,Utah Jazz,"42-17, 23-7 Home","24-35, 11-19 Away",82,93,NULL,NULL,Final,NULL,20,18,23,21,NULL,19,18,27,29,NULL,NBA
+70,400579210,2015,"Fri, Mar 6",Memphis Grizzlies,Los Angeles Lakers,"44-17, 24-7 Home","16-45, 7-25 Away",97,90,NULL,NULL,Final,NULL,24,19,24,30,NULL,16,30,25,19,NULL,NBA
+71,400579233,2015,"Mon, Mar 9",Chicago Bulls,Memphis Grizzlies,"39-26, 20-14 Home","45-18, 21-11 Away",91,101,NULL,NULL,Final,NBATV,22,17,26,26,NULL,22,19,32,28,NULL,NBA
+72,400579255,2015,"Thu, Mar 12",Washington Wizards,Memphis Grizzlies,"37-28, 23-10 Home","45-20, 21-13 Away",107,87,NULL,NULL,Final,TNT,26,34,29,18,NULL,33,14,24,16,NULL,NBA
+73,400579285,2015,"Mon, Mar 16",Memphis Grizzlies,Denver Nuggets,"47-20, 26-7 Home","26-42, 10-23 Away",92,81,NULL,NULL,Final,NULL,24,23,18,27,NULL,18,19,26,18,NULL,NBA
+74,400579319,2015,"Fri, Mar 20",Dallas Mavericks,Memphis Grizzlies,"44-26, 24-12 Home","48-21, 22-14 Away",101,112,NULL,NULL,Final,NULL,18,19,31,33,NULL,25,19,39,29,NULL,NBA
+75,400579342,2015,"Mon, Mar 23",New York Knicks,Memphis Grizzlies,"14-57, 9-25 Home","50-21, 23-14 Away",82,103,NULL,NULL,Final,NULL,20,28,13,21,NULL,30,20,24,29,NULL,NBA
+76,400579374,2015,"Fri, Mar 27",Memphis Grizzlies,Golden State Warriors,"50-23, 27-9 Home","59-13, 25-11 Away",84,107,NULL,NULL,Final,NULL,24,25,16,19,NULL,31,23,31,22,NULL,NBA
+77,400579397,2015,"Mon, Mar 30",Memphis Grizzlies,Sacramento Kings,"51-24, 28-9 Home","26-47, 10-26 Away",97,83,NULL,NULL,Final,NULL,24,32,19,22,NULL,20,23,21,19,NULL,NBA
+78,400579433,2015,"Sat, Apr 4",Memphis Grizzlies,Washington Wizards,"52-25, 29-10 Home","44-33, 16-21 Away",83,92,NULL,NULL,Final,NULL,18,20,21,24,NULL,29,20,22,21,NULL,NBA
+79,400579477,2015,"Fri, Apr 10",Utah Jazz,Memphis Grizzlies,"36-43, 20-20 Home","54-25, 24-15 Away",88,89,NULL,NULL,Final,NULL,23,26,23,16,NULL,29,20,24,16,NULL,NBA
+80,400579504,2015,"Mon, Apr 13",Golden State Warriors,Memphis Grizzlies,"66-15, 38-2 Home","54-27, 24-17 Away",111,107,NULL,NULL,Final,NBATV,36,32,25,18,NULL,21,25,20,41,NULL,NBA
+81,400579512,2015,"Wed, Apr 15",Memphis Grizzlies,Indiana Pacers,"55-27, 31-10 Home","38-44, 15-26 Away",95,83,NULL,NULL,Final,ESPN,22,32,19,22,NULL,24,17,20,22,NULL,NBA

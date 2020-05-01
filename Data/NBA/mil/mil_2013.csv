@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,400277753,2013,"Sat, Nov 3",Milwaukee Bucks,Cleveland Cavaliers,"2-0, 1-0 Home","1-2, 0-1 Away",105,102,NULL,NULL,Final,NULL,23,32,21,29,NULL,27,22,30,23,NULL,NBA
+1,400277788,2013,"Fri, Nov 9",Washington Wizards,Milwaukee Bucks,"0-4, 0-2 Home","3-1, 2-0 Away",91,101,NULL,NULL,Final,NULL,28,19,25,19,NULL,30,26,19,26,NULL,NBA
+2,400277816,2013,"Mon, Nov 12",Philadelphia 76ers,Milwaukee Bucks,"4-3, 1-2 Home","4-2, 3-0 Away",96,105,NULL,NULL,Final,NULL,26,24,33,13,NULL,34,28,21,22,NULL,NBA
+3,400277856,2013,"Sat, Nov 17",Milwaukee Bucks,New Orleans Hornets,"6-2, 3-2 Home","3-5, 1-2 Away",117,113,NULL,NULL,Final,NULL,25,35,31,26,NULL,27,31,33,22,NULL,NBA
+4,400277883,2013,"Wed, Nov 21",Miami Heat,Milwaukee Bucks,"9-3, 5-0 Home","6-4, 3-2 Away",113,106,NULL,NULL,Final/OT,NULL,29,17,25,27,15,15,29,29,25,8,NBA
+5,400277919,2013,"Mon, Nov 26",Chicago Bulls,Milwaukee Bucks,"6-7, 3-4 Home","7-5, 4-2 Away",92,93,NULL,NULL,Final,NULL,26,24,30,12,NULL,19,21,23,30,NULL,NBA
+6,400277950,2013,"Fri, Nov 30",Minnesota Timberwolves,Milwaukee Bucks,"7-8, 4-3 Home","7-7, 4-3 Away",95,85,NULL,NULL,Final,NULL,29,28,11,27,NULL,30,17,16,22,NULL,NBA
+7,400277967,2013,"Mon, Dec 3",New Orleans Hornets,Milwaukee Bucks,"5-11, 3-6 Home","8-8, 4-4 Away",102,81,NULL,NULL,Final,NULL,30,23,24,25,NULL,28,22,17,14,NULL,NBA
+8,400277997,2013,"Fri, Dec 7",Milwaukee Bucks,Charlotte Bobcats,"9-9, 5-4 Home","7-11, 2-5 Away",108,93,NULL,NULL,Final,NULL,33,25,28,22,NULL,20,20,21,32,NULL,NBA
+9,400278036,2013,"Wed, Dec 12",Milwaukee Bucks,Sacramento Kings,"11-9, 6-4 Home","7-14, 1-8 Away",98,85,NULL,NULL,Final,NULL,29,20,19,30,NULL,19,20,23,23,NULL,NBA
+10,400278063,2013,"Sat, Dec 15",Milwaukee Bucks,LA Clippers,"12-10, 6-5 Home","17-6, 7-3 Away",85,111,NULL,NULL,Final,NULL,15,20,27,23,NULL,28,27,24,32,NULL,NBA
+11,400278094,2013,"Wed, Dec 19",Memphis Grizzlies,Milwaukee Bucks,"17-6, 11-2 Home","13-11, 6-6 Away",90,80,NULL,NULL,Final,NULL,21,22,23,24,NULL,22,12,17,29,NULL,NBA
+12,400278115,2013,"Sat, Dec 22",Milwaukee Bucks,Cleveland Cavaliers,"14-12, 7-6 Home","6-23, 3-14 Away",82,94,NULL,NULL,Final,NULL,19,18,26,19,NULL,19,27,25,23,NULL,NBA
+13,400278165,2013,"Sat, Dec 29",Milwaukee Bucks,Miami Heat,"16-12, 9-6 Home","20-8, 6-6 Away",104,85,NULL,NULL,Final,NULL,25,31,13,35,NULL,20,24,27,14,NULL,NBA
+14,400278190,2013,"Wed, Jan 2",Milwaukee Bucks,San Antonio Spurs,"16-14, 9-7 Home","26-8, 13-6 Away",110,117,NULL,NULL,Final,NULL,22,30,29,29,NULL,33,36,24,24,NULL,NBA
+15,400278211,2013,"Sat, Jan 5",Indiana Pacers,Milwaukee Bucks,"20-14, 12-3 Home","16-16, 7-8 Away",95,80,NULL,NULL,Final,NULL,21,31,25,18,NULL,21,26,17,16,NULL,NBA
+16,400278240,2013,"Wed, Jan 9",Chicago Bulls,Milwaukee Bucks,"19-14, 10-9 Home","18-16, 8-8 Away",96,104,NULL,NULL,Final,NULL,33,24,23,16,NULL,23,27,31,23,NULL,NBA
+17,400278270,2013,"Sun, Jan 13",Toronto Raptors,Milwaukee Bucks,"14-23, 10-8 Home","19-17, 9-8 Away",96,107,NULL,NULL,Final,NULL,34,15,29,18,NULL,16,31,27,33,NULL,NBA
+18,400278302,2013,"Thu, Jan 17",Phoenix Suns,Milwaukee Bucks,"13-28, 10-11 Home","20-18, 10-9 Away",94,98,NULL,NULL,Final,NULL,22,34,19,19,NULL,32,21,17,28,NULL,NBA
+19,400278336,2013,"Tue, Jan 22",Milwaukee Bucks,Philadelphia 76ers,"22-18, 11-9 Home","17-25, 6-15 Away",110,102,NULL,NULL,Final,NULL,28,27,28,27,NULL,18,29,24,31,NULL,NBA
+20,400278367,2013,"Sat, Jan 26",Milwaukee Bucks,Golden State Warriors,"23-19, 12-9 Home","26-17, 12-11 Away",109,102,NULL,NULL,Final,NULL,23,28,35,23,NULL,26,29,19,28,NULL,NBA
+21,400278396,2013,"Wed, Jan 30",Milwaukee Bucks,Chicago Bulls,"24-20, 12-10 Home","28-17, 13-6 Away",88,104,NULL,NULL,Final,NULL,19,18,31,20,NULL,23,32,24,25,NULL,NBA
+22,400278421,2013,"Sat, Feb 2",Milwaukee Bucks,Orlando Magic,"25-21, 13-10 Home","14-33, 6-17 Away",107,98,NULL,NULL,Final,NULL,31,21,27,28,NULL,22,26,19,31,NULL,NBA
+23,400278452,2013,"Wed, Feb 6",Utah Jazz,Milwaukee Bucks,"28-22, 19-5 Home","25-23, 12-13 Away",100,86,NULL,NULL,Final,NULL,19,32,26,23,NULL,25,18,19,24,NULL,NBA
+24,400278487,2013,"Mon, Feb 11",Milwaukee Bucks,Washington Wizards,"25-25, 13-12 Home","15-35, 4-21 Away",90,102,NULL,NULL,Final,NULL,32,15,24,19,NULL,29,26,19,28,NULL,NBA
+25,400278511,2013,"Tue, Feb 19",Brooklyn Nets,Milwaukee Bucks,"32-22, 20-10 Home","26-26, 12-14 Away",113,111,NULL,NULL,Final/OT,NULL,31,30,19,25,8,24,27,30,24,6,NBA
+26,400278548,2013,"Sat, Feb 23",Milwaukee Bucks,Atlanta Hawks,"26-28, 14-14 Home","31-23, 13-13 Away",102,103,NULL,NULL,Final,NBATV,27,26,27,22,NULL,19,35,22,27,NULL,NBA
+27,400278576,2013,"Wed, Feb 27",Houston Rockets,Milwaukee Bucks,"31-28, 19-9 Home","28-28, 14-14 Away",107,110,NULL,NULL,Final,NULL,36,19,25,27,NULL,33,22,26,29,NULL,NBA
+28,400278610,2013,"Mon, Mar 4",Milwaukee Bucks,Utah Jazz,"30-28, 16-14 Home","32-28, 10-20 Away",109,108,NULL,NULL,Final/OT,NULL,20,25,30,24,10,24,24,17,34,9,NBA
+29,400278653,2013,"Sat, Mar 9",Golden State Warriors,Milwaukee Bucks,"35-29, 20-9 Home","31-29, 15-15 Away",93,103,NULL,NULL,Final,NULL,28,20,22,23,NULL,24,23,30,26,NULL,NBA
+30,400278673,2013,"Tue, Mar 12",Milwaukee Bucks,Dallas Mavericks,"32-30, 16-15 Home","30-33, 13-21 Away",108,115,NULL,NULL,Final,NULL,35,20,24,29,NULL,28,35,27,25,NULL,NBA
+31,400278695,2013,"Fri, Mar 15",Milwaukee Bucks,Miami Heat,"32-32, 16-16 Home","50-14, 20-11 Away",94,107,NULL,NULL,Final,NULL,27,15,26,26,NULL,26,25,33,23,NULL,NBA
+32,400278725,2013,"Tue, Mar 19",Milwaukee Bucks,Portland Trail Blazers,"34-32, 18-16 Home","31-36, 9-25 Away",102,95,NULL,NULL,Final,NULL,27,31,19,25,NULL,23,8,26,38,NULL,NBA
+33,400278744,2013,"Fri, Mar 22",Indiana Pacers,Milwaukee Bucks,"43-26, 28-8 Home","34-34, 16-18 Away",102,78,NULL,NULL,Final,NULL,23,22,28,29,NULL,23,20,11,24,NULL,NBA
+34,400278778,2013,"Wed, Mar 27",Philadelphia 76ers,Milwaukee Bucks,"28-43, 21-17 Home","34-36, 16-19 Away",100,92,NULL,NULL,Final,NULL,27,27,22,24,NULL,20,28,30,14,NULL,NBA
+35,400278810,2013,"Sat, Mar 30",Milwaukee Bucks,Oklahoma City Thunder,"35-37, 19-18 Home","54-20, 22-15 Away",99,109,NULL,NULL,Final,NULL,28,18,37,16,NULL,32,24,27,26,NULL,NBA
+36,400278836,2013,"Wed, Apr 3",Milwaukee Bucks,Minnesota Timberwolves,"36-38, 20-19 Home","28-46, 10-27 Away",98,107,NULL,NULL,Final,NULL,23,29,29,17,NULL,34,21,32,20,NULL,NBA
+37,400278862,2013,"Sat, Apr 6",Milwaukee Bucks,Toronto Raptors,"37-39, 21-19 Home","29-48, 11-28 Away",100,83,NULL,NULL,Final,NULL,26,35,19,20,NULL,16,26,13,28,NULL,NBA
+38,400278886,2013,"Wed, Apr 10",Orlando Magic,Milwaukee Bucks,"20-59, 12-27 Home","37-41, 16-22 Away",113,103,NULL,NULL,Final/OT,NULL,30,18,22,25,18,16,29,21,29,8,NBA
+39,400278910,2013,"Sat, Apr 13",Charlotte Bobcats,Milwaukee Bucks,"19-61, 13-26 Home","37-43, 16-24 Away",95,85,NULL,NULL,Final,NULL,24,25,27,19,NULL,23,21,15,26,NULL,NBA
+40,400277737,2013,"Fri, Nov 2",Boston Celtics,Milwaukee Bucks,"0-2, 0-1 Home","1-0, 1-0 Away",88,99,NULL,NULL,Final,NULL,18,12,28,30,NULL,25,21,30,23,NULL,NBA
+41,400277777,2013,"Wed, Nov 7",Milwaukee Bucks,Memphis Grizzlies,"2-1, 1-1 Home","3-1, 2-1 Away",90,108,NULL,NULL,Final,NULL,22,21,25,22,NULL,23,33,25,27,NULL,NBA
+42,400277806,2013,"Sat, Nov 10",Milwaukee Bucks,Boston Celtics,"3-2, 1-2 Home","3-3, 2-1 Away",92,96,NULL,NULL,Final,NULL,22,20,26,24,NULL,20,19,25,32,NULL,NBA
+43,400277831,2013,"Wed, Nov 14",Milwaukee Bucks,Indiana Pacers,"5-2, 2-2 Home","3-6, 1-5 Away",99,85,NULL,NULL,Final,NULL,33,27,22,17,NULL,17,17,19,32,NULL,NBA
+44,400277868,2013,"Mon, Nov 19",Charlotte Bobcats,Milwaukee Bucks,"5-4, 4-2 Home","6-3, 3-1 Away",102,98,NULL,NULL,Final,NULL,30,25,22,25,NULL,23,31,27,17,NULL,NBA
+45,400277908,2013,"Sat, Nov 24",Milwaukee Bucks,Chicago Bulls,"6-5, 3-3 Home","6-6, 3-3 Away",86,93,NULL,NULL,Final,NULL,30,22,17,17,NULL,28,24,20,21,NULL,NBA
+46,400277935,2013,"Wed, Nov 28",Milwaukee Bucks,New York Knicks,"7-6, 3-4 Home","10-4, 5-4 Away",88,102,NULL,NULL,Final,NULL,26,22,22,18,NULL,23,35,30,14,NULL,NBA
+47,400277958,2013,"Sat, Dec 1",Milwaukee Bucks,Boston Celtics,"8-7, 4-4 Home","9-8, 4-4 Away",91,88,NULL,NULL,Final,NULL,11,36,22,22,NULL,27,21,21,19,NULL,NBA
+48,400277984,2013,"Wed, Dec 5",San Antonio Spurs,Milwaukee Bucks,"15-4, 6-2 Home","8-9, 4-5 Away",110,99,NULL,NULL,Final,NULL,29,23,24,34,NULL,32,26,18,23,NULL,NBA
+49,400278013,2013,"Sun, Dec 9",Brooklyn Nets,Milwaukee Bucks,"11-8, 7-4 Home","10-9, 5-5 Away",88,97,NULL,NULL,Final,NULL,18,13,24,33,NULL,25,23,27,22,NULL,NBA
+50,400278049,2013,"Fri, Dec 14",Cleveland Cavaliers,Milwaukee Bucks,"5-19, 3-7 Home","12-9, 6-5 Away",86,90,NULL,NULL,Final,NULL,17,26,24,19,NULL,25,27,20,18,NULL,NBA
+51,400278081,2013,"Tue, Dec 18",Milwaukee Bucks,Indiana Pacers,"13-10, 7-5 Home","13-12, 6-9 Away",98,93,NULL,NULL,Final,NULL,21,24,27,26,NULL,25,23,18,27,NULL,NBA
+52,400278102,2013,"Fri, Dec 21",Boston Celtics,Milwaukee Bucks,"13-13, 9-5 Home","14-11, 7-6 Away",94,99,NULL,NULL,Final/OT,NULL,25,21,24,18,6,17,26,19,26,11,NBA
+53,400278135,2013,"Wed, Dec 26",Milwaukee Bucks,Brooklyn Nets,"15-12, 8-6 Home","14-14, 5-7 Away",108,93,NULL,NULL,Final,NULL,22,33,23,30,NULL,24,18,25,26,NULL,NBA
+54,400278168,2013,"Sun, Dec 30",Detroit Pistons,Milwaukee Bucks,"11-22, 8-8 Home","16-13, 7-7 Away",96,94,NULL,NULL,Final,NULL,30,25,23,18,NULL,23,22,26,23,NULL,NBA
+55,400278206,2013,"Fri, Jan 4",Milwaukee Bucks,Houston Rockets,"16-15, 9-8 Home","19-14, 6-8 Away",101,115,NULL,NULL,Final,NULL,21,37,14,29,NULL,23,24,30,38,NULL,NBA
+56,400278233,2013,"Tue, Jan 8",Milwaukee Bucks,Phoenix Suns,"17-16, 10-8 Home","12-24, 2-15 Away",108,99,NULL,NULL,Final,NULL,26,24,30,28,NULL,33,23,20,23,NULL,NBA
+57,400278257,2013,"Fri, Jan 11",Milwaukee Bucks,Detroit Pistons,"18-17, 10-9 Home","14-23, 4-14 Away",87,103,NULL,NULL,Final,NULL,20,29,11,27,NULL,25,16,33,29,NULL,NBA
+58,400278289,2013,"Tue, Jan 15",Los Angeles Lakers,Milwaukee Bucks,"17-21, 12-9 Home","19-18, 9-9 Away",104,88,NULL,NULL,Final,NULL,29,28,22,25,NULL,27,23,23,15,NULL,NBA
+59,400278319,2013,"Sat, Jan 19",Portland Trail Blazers,Milwaukee Bucks,"20-20, 13-7 Home","21-18, 11-9 Away",104,110,NULL,NULL,Final,NULL,19,26,31,28,NULL,30,32,22,26,NULL,NBA
+60,400278355,2013,"Fri, Jan 25",Cleveland Cavaliers,Milwaukee Bucks,"12-32, 6-12 Home","22-19, 11-10 Away",113,108,NULL,NULL,Final,NULL,18,32,31,32,NULL,21,38,31,18,NULL,NBA
+61,400278387,2013,"Tue, Jan 29",Detroit Pistons,Milwaukee Bucks,"17-28, 12-12 Home","24-19, 12-10 Away",90,117,NULL,NULL,Final,NULL,28,14,26,22,NULL,19,33,39,26,NULL,NBA
+62,400278408,2013,"Fri, Feb 1",New York Knicks,Milwaukee Bucks,"29-15, 17-6 Home","24-21, 12-11 Away",96,86,NULL,NULL,Final,NULL,25,22,27,22,NULL,28,25,20,13,NULL,NBA
+63,400278439,2013,"Tue, Feb 5",Denver Nuggets,Milwaukee Bucks,"31-18, 21-3 Home","25-22, 12-12 Away",112,104,NULL,NULL,Final,NULL,27,24,28,33,NULL,29,37,20,18,NULL,NBA
+64,400278469,2013,"Sat, Feb 9",Milwaukee Bucks,Detroit Pistons,"25-24, 13-11 Home","20-32, 6-18 Away",100,105,NULL,NULL,Final,NULL,22,34,26,18,NULL,33,24,24,24,NULL,NBA
+65,400278502,2013,"Wed, Feb 13",Milwaukee Bucks,Philadelphia 76ers,"26-25, 14-12 Home","22-29, 6-16 Away",94,92,NULL,NULL,Final,NULL,18,25,29,22,NULL,28,22,25,17,NULL,NBA
+66,400278523,2013,"Wed, Feb 20",Milwaukee Bucks,Brooklyn Nets,"26-27, 14-13 Home","33-22, 13-12 Away",94,97,NULL,NULL,Final,NULL,29,25,22,18,NULL,21,21,26,29,NULL,NBA
+67,400278568,2013,"Tue, Feb 26",Dallas Mavericks,Milwaukee Bucks,"25-31, 16-12 Home","27-28, 13-14 Away",90,95,NULL,NULL,Final,NULL,21,28,21,20,NULL,17,27,22,29,NULL,NBA
+68,400278598,2013,"Sat, Mar 2",Milwaukee Bucks,Toronto Raptors,"29-28, 15-14 Home","23-37, 8-21 Away",122,114,NULL,NULL,Final/OT,NULL,23,31,28,22,18,32,23,19,30,10,NBA
+69,400278631,2013,"Wed, Mar 6",LA Clippers,Milwaukee Bucks,"44-19, 24-7 Home","30-29, 14-15 Away",117,101,NULL,NULL,Final,NULL,34,32,23,28,NULL,32,26,24,19,NULL,NBA
+70,400278661,2013,"Sun, Mar 10",Sacramento Kings,Milwaukee Bucks,"22-43, 16-15 Home","32-29, 16-15 Away",113,115,NULL,NULL,Final,NULL,29,21,30,33,NULL,26,35,24,30,NULL,NBA
+71,400278677,2013,"Wed, Mar 13",Washington Wizards,Milwaukee Bucks,"21-42, 16-17 Home","32-31, 16-16 Away",106,93,NULL,NULL,Final,NULL,30,30,15,31,NULL,21,23,34,15,NULL,NBA
+72,400278706,2013,"Sun, Mar 17",Milwaukee Bucks,Orlando Magic,"33-32, 17-16 Home","18-49, 8-24 Away",115,109,NULL,NULL,Final,NULL,18,26,26,45,NULL,25,29,27,28,NULL,NBA
+73,400278731,2013,"Wed, Mar 20",Atlanta Hawks,Milwaukee Bucks,"38-30, 22-12 Home","34-33, 16-17 Away",98,90,NULL,NULL,Final,NULL,18,30,29,21,NULL,18,25,16,31,NULL,NBA
+74,400278760,2013,"Sun, Mar 24",Milwaukee Bucks,Atlanta Hawks,"34-35, 18-17 Home","39-31, 17-18 Away",99,104,NULL,NULL,Final,NULL,24,25,25,25,NULL,24,26,24,30,NULL,NBA
+75,400278791,2013,"Thu, Mar 28",Milwaukee Bucks,Los Angeles Lakers,"35-36, 19-17 Home","37-36, 14-24 Away",113,103,NULL,NULL,Final,NULL,18,35,29,31,NULL,25,31,21,26,NULL,NBA
+76,400278822,2013,"Mon, Apr 1",Milwaukee Bucks,Charlotte Bobcats,"36-37, 20-18 Home","17-57, 6-32 Away",131,102,NULL,NULL,Final,NULL,29,40,31,31,NULL,25,35,24,18,NULL,NBA
+77,400278848,2013,"Fri, Apr 5",New York Knicks,Milwaukee Bucks,"49-26, 28-10 Home","36-39, 16-20 Away",101,83,NULL,NULL,Final,NULL,19,17,42,23,NULL,19,26,21,17,NULL,NBA
+78,400278877,2013,"Tue, Apr 9",Miami Heat,Milwaukee Bucks,"61-16, 34-4 Home","37-40, 16-21 Away",94,83,NULL,NULL,Final,NULL,26,21,24,23,NULL,21,25,13,24,NULL,NBA
+79,400278899,2013,"Fri, Apr 12",Atlanta Hawks,Milwaukee Bucks,"44-36, 25-15 Home","37-42, 16-23 Away",109,104,NULL,NULL,Final,NULL,24,16,35,34,NULL,30,24,28,22,NULL,NBA
+80,400278927,2013,"Mon, Apr 15",Milwaukee Bucks,Denver Nuggets,"37-44, 21-20 Home","56-25, 19-22 Away",111,112,NULL,NULL,Final,NULL,26,27,24,34,NULL,32,24,25,31,NULL,NBA
+81,400278946,2013,"Wed, Apr 17",Oklahoma City Thunder,Milwaukee Bucks,"60-22, 34-7 Home","38-44, 17-24 Away",89,95,NULL,NULL,Final,NULL,30,21,19,19,NULL,21,24,23,27,NULL,NBA

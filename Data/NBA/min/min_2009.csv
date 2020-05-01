@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,281101016,2009,"Sat, Nov 1",Minnesota Timberwolves,Dallas Mavericks,"1-1, 1-1 Home","1-1, 1-0 Away",85,95,NULL,NULL,Final,NULL,20,29,15,21,NULL,31,22,14,28,NULL,NBA
+1,281105016,2009,"Wed, Nov 5",Minnesota Timberwolves,San Antonio Spurs,"1-3, 1-2 Home","1-3, 1-1 Away",125,129,NULL,NULL,Final/2OT,NULL,18,31,22,35,19,18,27,29,32,23,NBA
+2,281108022,2009,"Sat, Nov 8",Portland Trail Blazers,Minnesota Timberwolves,"3-3, 3-0 Home","1-5, 0-3 Away",97,93,NULL,NULL,Final,NULL,18,25,26,28,NULL,24,25,21,23,NULL,NBA
+3,281115016,2009,"Sat, Nov 15",Minnesota Timberwolves,Portland Trail Blazers,"1-7, 1-3 Home","6-4, 3-4 Away",83,88,NULL,NULL,Final,NULL,25,26,20,12,NULL,27,14,24,23,NULL,NBA
+4,281119016,2009,"Wed, Nov 19",Minnesota Timberwolves,Philadelphia 76ers,"2-8, 2-3 Home","5-6, 2-4 Away",102,96,NULL,NULL,Final,CSN,24,32,20,26,NULL,27,25,13,31,NULL,NBA
+5,281123008,2009,"Sun, Nov 23",Detroit Pistons,Minnesota Timberwolves,"8-5, 3-2 Home","3-9, 1-5 Away",80,106,NULL,NULL,Final,NULL,19,15,18,28,NULL,22,22,32,30,NULL,NBA
+6,281128025,2009,"Fri, Nov 28",Oklahoma City Thunder,Minnesota Timberwolves,"1-16, 1-9 Home","4-10, 2-5 Away",103,105,NULL,NULL,Final,NULL,18,30,22,33,NULL,16,28,35,26,NULL,NBA
+7,281201030,2009,"Mon, Dec 1",Charlotte Bobcats,Minnesota Timberwolves,"6-11, 5-7 Home","4-12, 2-6 Away",100,90,NULL,NULL,Final,NULL,21,22,23,34,NULL,20,16,25,29,NULL,NBA
+8,281205017,2009,"Fri, Dec 5",New Jersey Nets,Minnesota Timberwolves,"10-8, 4-5 Home","4-14, 2-8 Away",113,84,NULL,NULL,Final,YES,31,19,33,30,NULL,17,24,25,18,NULL,NBA
+9,281209016,2009,"Tue, Dec 9",Minnesota Timberwolves,Utah Jazz,"4-16, 2-8 Home","14-9, 5-6 Away",96,99,NULL,NULL,Final,NULL,24,23,24,25,NULL,32,14,29,24,NULL,NBA
+10,281212016,2009,"Fri, Dec 12",Minnesota Timberwolves,San Antonio Spurs,"4-18, 2-9 Home","14-8, 7-3 Away",86,98,NULL,NULL,Final,NULL,19,22,16,29,NULL,19,22,25,32,NULL,NBA
+11,281215023,2009,"Mon, Dec 15",Sacramento Kings,Minnesota Timberwolves,"7-18, 5-9 Home","4-20, 2-11 Away",118,103,NULL,NULL,Final,NULL,20,33,33,32,NULL,26,24,17,36,NULL,NBA
+12,281220016,2009,"Sat, Dec 20",Minnesota Timberwolves,Houston Rockets,"4-22, 2-11 Home","18-9, 9-6 Away",102,109,NULL,NULL,Final,NULL,32,19,20,31,NULL,30,30,22,27,NULL,NBA
+13,281226018,2009,"Fri, Dec 26",New York Knicks,Minnesota Timberwolves,"11-17, 7-6 Home","5-23, 3-12 Away",107,120,NULL,NULL,Final,NULL,30,25,20,32,NULL,25,38,31,26,NULL,NBA
+14,281229016,2009,"Mon, Dec 29",Minnesota Timberwolves,Memphis Grizzlies,"6-24, 3-12 Home","10-21, 2-13 Away",108,98,NULL,NULL,Final/OT,NULL,24,8,29,28,19,19,20,26,24,9,NBA
+15,290102016,2009,"Fri, Jan 2",Minnesota Timberwolves,Golden State Warriors,"7-25, 4-12 Home","10-25, 4-18 Away",115,108,NULL,NULL,Final,NULL,32,26,33,24,NULL,26,31,27,24,NULL,NBA
+16,290106029,2009,"Tue, Jan 6",Memphis Grizzlies,Minnesota Timberwolves,"11-24, 9-11 Home","9-25, 5-13 Away",87,94,NULL,NULL,Final,NULL,23,16,29,19,NULL,31,14,27,22,NULL,NBA
+17,290110016,2009,"Sat, Jan 10",Minnesota Timberwolves,Milwaukee Bucks,"11-25, 6-12 Home","18-21, 7-15 Away",106,104,NULL,NULL,Final,NULL,19,32,27,28,NULL,28,32,23,21,NULL,NBA
+18,290116021,2009,"Fri, Jan 16",Phoenix Suns,Minnesota Timberwolves,"22-15, 12-8 Home","12-26, 6-13 Away",103,105,NULL,NULL,Final,NULL,23,30,26,24,NULL,27,22,24,32,NULL,NBA
+19,290120026,2009,"Tue, Jan 20",Utah Jazz,Minnesota Timberwolves,"25-17, 17-4 Home","13-27, 7-14 Away",112,107,NULL,NULL,Final,NULL,32,26,25,29,NULL,25,24,31,27,NULL,NBA
+20,290125016,2009,"Sun, Jan 25",Minnesota Timberwolves,Chicago Bulls,"15-27, 8-13 Home","18-27, 5-17 Away",109,108,NULL,NULL,Final/OT,NULL,19,30,28,20,12,30,25,27,15,11,NBA
+21,290128016,2009,"Wed, Jan 28",Minnesota Timberwolves,Detroit Pistons,"16-28, 8-14 Home","25-19, 12-10 Away",89,98,NULL,NULL,Final,NULL,24,28,20,17,NULL,22,28,21,27,NULL,NBA
+22,290201002,2009,"Sun, Feb 1",Boston Celtics,Minnesota Timberwolves,"40-9, 24-2 Home","16-30, 8-15 Away",109,101,NULL,NULL,Final,NULL,29,33,25,22,NULL,24,20,29,28,NULL,NBA
+23,290204016,2009,"Wed, Feb 4",Minnesota Timberwolves,Atlanta Hawks,"17-31, 8-16 Home","28-20, 10-15 Away",86,94,NULL,NULL,Final,NULL,18,19,25,24,NULL,22,23,30,19,NULL,NBA
+24,290208003,2009,"Sun, Feb 8",New Orleans Hornets,Minnesota Timberwolves,"30-18, 18-8 Home","17-33, 9-17 Away",101,97,NULL,NULL,Final,NULL,24,25,27,25,NULL,31,21,28,17,NULL,NBA
+25,290217027,2009,"Tue, Feb 17",Washington Wizards,Minnesota Timberwolves,"12-42, 9-19 Home","17-35, 9-18 Away",111,103,NULL,NULL,Final,NULL,27,24,25,35,NULL,16,26,34,27,NULL,NBA
+26,290220016,2009,"Fri, Feb 20",Minnesota Timberwolves,Indiana Pacers,"18-36, 8-18 Home","23-34, 7-23 Away",105,112,NULL,NULL,Final,NULL,26,22,23,34,NULL,33,28,25,26,NULL,NBA
+27,290224028,2009,"Tue, Feb 24",Toronto Raptors,Minnesota Timberwolves,"23-36, 12-16 Home","18-38, 10-19 Away",118,110,NULL,NULL,Final,TSNT,25,27,32,34,NULL,37,19,26,28,NULL,NBA
+28,290227016,2009,"Fri, Feb 27",Minnesota Timberwolves,Portland Trail Blazers,"18-40, 8-21 Home","36-22, 13-17 Away",82,102,NULL,NULL,Final,NULL,21,19,18,24,NULL,23,25,29,25,NULL,NBA
+29,290303016,2009,"Tue, Mar 3",Minnesota Timberwolves,Golden State Warriors,"18-42, 8-23 Home","21-39, 6-24 Away",94,118,NULL,NULL,Final,NULL,18,19,35,22,NULL,36,30,25,27,NULL,NBA
+30,290307022,2009,"Sat, Mar 7",Portland Trail Blazers,Minnesota Timberwolves,"39-23, 26-5 Home","18-44, 10-21 Away",95,93,NULL,NULL,Final,NULL,26,21,24,24,NULL,22,24,24,23,NULL,NBA
+31,290311016,2009,"Wed, Mar 11",Minnesota Timberwolves,Memphis Grizzlies,"19-45, 9-24 Home","16-47, 4-26 Away",104,79,NULL,NULL,Final,NULL,35,15,23,31,NULL,14,26,21,18,NULL,NBA
+32,290314016,2009,"Sat, Mar 14",Minnesota Timberwolves,Charlotte Bobcats,"20-46, 10-25 Home","28-38, 10-22 Away",108,100,NULL,NULL,Final,NULL,32,34,21,21,NULL,25,26,28,21,NULL,NBA
+33,290318003,2009,"Wed, Mar 18",New Orleans Hornets,Minnesota Timberwolves,"42-25, 24-10 Home","20-48, 10-23 Away",94,93,NULL,NULL,Final,NULL,24,24,26,20,NULL,16,28,22,27,NULL,NBA
+34,290322016,2009,"Sun, Mar 22",Minnesota Timberwolves,Oklahoma City Thunder,"20-50, 10-26 Home","20-50, 6-28 Away",90,97,NULL,NULL,Final,NULL,16,23,14,37,NULL,26,31,27,13,NULL,NBA
+35,290325020,2009,"Wed, Mar 25",Philadelphia 76ers,Minnesota Timberwolves,"37-33, 21-14 Home","20-52, 10-26 Away",96,88,NULL,NULL,Final,CSN,14,23,28,31,NULL,16,27,19,26,NULL,NBA
+36,290329016,2009,"Sun, Mar 29",Minnesota Timberwolves,New Jersey Nets,"21-53, 11-26 Home","30-43, 15-22 Away",108,99,NULL,NULL,Final,YES,29,29,26,24,NULL,24,24,23,28,NULL,NBA
+37,290403026,2009,"Fri, Apr 3",Utah Jazz,Minnesota Timberwolves,"46-30, 32-7 Home","22-54, 11-27 Away",102,103,NULL,NULL,Final,NULL,27,29,21,25,NULL,19,27,26,31,NULL,NBA
+38,290407012,2009,"Tue, Apr 7",LA Clippers,Minnesota Timberwolves,"18-60, 10-28 Home","23-55, 12-27 Away",77,87,NULL,NULL,Final,NULL,16,25,21,15,NULL,18,29,26,14,NULL,NBA
+39,290411016,2009,"Sat, Apr 11",Minnesota Timberwolves,Phoenix Suns,"24-56, 11-29 Home","44-36, 18-23 Away",97,110,NULL,NULL,Final,NULL,8,35,21,33,NULL,31,26,24,29,NULL,NBA
+40,281029016,2009,"Wed, Oct 29",Minnesota Timberwolves,Sacramento Kings,"1-0, 1-0 Home","0-1, 0-1 Away",98,96,NULL,NULL,Final,NULL,33,23,20,22,NULL,32,17,28,19,NULL,NBA
+41,281102025,2009,"Sun, Nov 2",Oklahoma City Thunder,Minnesota Timberwolves,"1-2, 1-1 Home","1-2, 0-1 Away",88,85,NULL,NULL,Final,NULL,20,26,24,18,NULL,20,27,26,12,NULL,NBA
+42,281107023,2009,"Fri, Nov 7",Sacramento Kings,Minnesota Timberwolves,"2-4, 2-0 Home","1-4, 0-2 Away",121,109,NULL,NULL,Final,NULL,36,26,30,29,NULL,27,28,24,30,NULL,NBA
+43,281111009,2009,"Tue, Nov 11",Golden State Warriors,Minnesota Timberwolves,"3-5, 2-2 Home","1-6, 0-4 Away",113,110,NULL,NULL,Final/OT,NULL,27,31,25,23,7,27,23,37,19,4,NBA
+44,281116007,2009,"Sun, Nov 16",Denver Nuggets,Minnesota Timberwolves,"6-4, 3-1 Home","1-8, 0-5 Away",90,84,NULL,NULL,Final,NULL,27,17,21,25,NULL,17,23,27,17,NULL,NBA
+45,281121016,2009,"Fri, Nov 21",Minnesota Timberwolves,Boston Celtics,"2-9, 2-4 Home","12-2, 5-1 Away",78,95,NULL,NULL,Final,NULL,21,18,10,29,NULL,22,14,35,24,NULL,NBA
+46,281126016,2009,"Wed, Nov 26",Minnesota Timberwolves,Phoenix Suns,"3-10, 2-5 Home","11-5, 7-2 Away",102,110,NULL,NULL,Final,NULL,23,20,29,30,NULL,28,31,21,30,NULL,NBA
+47,281129016,2009,"Sat, Nov 29",Minnesota Timberwolves,Denver Nuggets,"4-11, 2-6 Home","11-6, 6-4 Away",97,106,NULL,NULL,Final,NBATV,31,23,16,27,NULL,25,35,27,19,NULL,NBA
+48,281203019,2009,"Wed, Dec 3",Orlando Magic,Minnesota Timberwolves,"14-5, 8-3 Home","4-13, 2-7 Away",100,89,NULL,NULL,Final,NULL,23,21,26,30,NULL,17,21,12,39,NULL,NBA
+49,281206016,2009,"Sat, Dec 6",Minnesota Timberwolves,LA Clippers,"4-15, 2-7 Home","4-16, 2-7 Away",84,107,NULL,NULL,Final,NULL,15,26,15,28,NULL,29,26,24,28,NULL,NBA
+50,281210007,2009,"Wed, Dec 10",Denver Nuggets,Minnesota Timberwolves,"15-7, 8-3 Home","4-17, 2-9 Away",116,105,NULL,NULL,Final,NULL,22,22,40,32,NULL,30,26,22,27,NULL,NBA
+51,281214013,2009,"Sun, Dec 14",Los Angeles Lakers,Minnesota Timberwolves,"20-3, 13-1 Home","4-19, 2-10 Away",98,86,NULL,NULL,Final,NULL,20,22,27,29,NULL,18,19,25,24,NULL,NBA
+52,281217016,2009,"Wed, Dec 17",Minnesota Timberwolves,Cleveland Cavaliers,"4-21, 2-10 Home","21-4, 8-4 Away",70,93,NULL,NULL,Final,NULL,21,17,18,14,NULL,24,20,19,30,NULL,NBA
+53,281223024,2009,"Tue, Dec 23",San Antonio Spurs,Minnesota Timberwolves,"18-10, 11-5 Home","4-23, 2-12 Away",99,93,NULL,NULL,Final,NULL,30,18,35,16,NULL,21,19,27,26,NULL,NBA
+54,281227016,2009,"Sat, Dec 27",Minnesota Timberwolves,Orlando Magic,"5-24, 2-12 Home","24-6, 11-3 Away",94,118,NULL,NULL,Final,NULL,22,33,19,20,NULL,31,22,26,39,NULL,NBA
+55,281230006,2009,"Tue, Dec 30",Dallas Mavericks,Minnesota Timberwolves,"19-12, 9-6 Home","6-25, 3-13 Away",107,100,NULL,NULL,Final,NULL,20,20,33,34,NULL,27,35,22,16,NULL,NBA
+56,290103004,2009,"Sat, Jan 3",Chicago Bulls,Minnesota Timberwolves,"14-20, 10-5 Home","8-25, 4-13 Away",92,102,NULL,NULL,Final,NULL,17,21,27,27,NULL,18,27,27,30,NULL,NBA
+57,290107016,2009,"Wed, Jan 7",Minnesota Timberwolves,Oklahoma City Thunder,"10-25, 5-12 Home","5-31, 1-16 Away",129,87,NULL,NULL,Final,NULL,42,30,26,31,NULL,24,19,23,21,NULL,NBA
+58,290113016,2009,"Tue, Jan 13",Minnesota Timberwolves,Miami Heat,"11-26, 6-13 Home","20-17, 8-11 Away",96,99,NULL,NULL,Final,NULL,21,31,24,20,NULL,20,26,27,26,NULL,NBA
+59,290119012,2009,"Mon, Jan 19",LA Clippers,Minnesota Timberwolves,"9-31, 4-17 Home","13-26, 7-13 Away",86,94,NULL,NULL,Final,NULL,16,20,28,22,NULL,26,21,24,23,NULL,NBA
+60,290123016,2009,"Fri, Jan 23",Minnesota Timberwolves,New Orleans Hornets,"14-27, 7-13 Home","26-14, 12-9 Away",116,108,NULL,NULL,Final,NULL,25,26,28,37,NULL,30,26,25,27,NULL,NBA
+61,290126015,2009,"Mon, Jan 26",Milwaukee Bucks,Minnesota Timberwolves,"22-26, 13-8 Home","16-27, 8-14 Away",83,90,NULL,NULL,Final,NULL,21,22,17,23,NULL,20,27,27,16,NULL,NBA
+62,290130016,2009,"Fri, Jan 30",Minnesota Timberwolves,Los Angeles Lakers,"16-29, 8-15 Home","36-9, 13-5 Away",119,132,NULL,NULL,Final,NULL,31,29,25,34,NULL,33,31,36,32,NULL,NBA
+63,290203011,2009,"Tue, Feb 3",Indiana Pacers,Minnesota Timberwolves,"19-30, 13-11 Home","17-30, 9-15 Away",111,116,NULL,NULL,Final,NULL,32,27,23,29,NULL,27,29,22,38,NULL,NBA
+64,290207010,2009,"Sat, Feb 7",Houston Rockets,Minnesota Timberwolves,"31-20, 18-6 Home","17-32, 9-16 Away",107,90,NULL,NULL,Final,NULL,20,30,28,29,NULL,27,23,21,19,NULL,NBA
+65,290210016,2009,"Tue, Feb 10",Minnesota Timberwolves,Toronto Raptors,"17-34, 8-17 Home","20-34, 11-19 Away",102,110,NULL,NULL,Final,NULL,16,32,32,22,NULL,23,18,32,37,NULL,NBA
+66,290218014,2009,"Wed, Feb 18",Miami Heat,Minnesota Timberwolves,"28-25, 17-10 Home","18-35, 10-18 Away",104,111,NULL,NULL,Final,NULL,31,18,24,31,NULL,20,26,36,29,NULL,NBA
+67,290222016,2009,"Sun, Feb 22",Minnesota Timberwolves,Los Angeles Lakers,"18-37, 8-19 Home","46-10, 20-6 Away",108,111,NULL,NULL,Final,NULL,26,24,30,28,NULL,29,25,24,33,NULL,NBA
+68,290225016,2009,"Wed, Feb 25",Minnesota Timberwolves,Utah Jazz,"18-39, 8-20 Home","35-23, 10-17 Away",103,120,NULL,NULL,Final,NULL,26,29,26,22,NULL,23,28,32,37,NULL,NBA
+69,290301016,2009,"Sun, Mar 1",Minnesota Timberwolves,Houston Rockets,"18-41, 8-22 Home","38-22, 14-16 Away",94,105,NULL,NULL,Final,NULL,23,30,16,25,NULL,29,25,29,22,NULL,NBA
+70,290306013,2009,"Fri, Mar 6",Los Angeles Lakers,Minnesota Timberwolves,"50-12, 29-4 Home","18-43, 10-20 Away",110,90,NULL,NULL,Final,NULL,22,25,30,33,NULL,17,19,23,31,NULL,NBA
+71,290309016,2009,"Mon, Mar 9",Minnesota Timberwolves,Washington Wizards,"18-45, 8-24 Home","15-49, 5-27 Away",99,110,NULL,NULL,Final,NBATV,24,20,29,26,NULL,27,22,30,31,NULL,NBA
+72,290313016,2009,"Fri, Mar 13",Minnesota Timberwolves,New York Knicks,"19-46, 9-25 Home","28-37, 10-22 Away",94,102,NULL,NULL,Final,NULL,19,29,21,25,NULL,25,21,28,28,NULL,NBA
+73,290317024,2009,"Tue, Mar 17",San Antonio Spurs,Minnesota Timberwolves,"45-22, 24-9 Home","20-47, 10-22 Away",93,86,NULL,NULL,Final,NULL,22,17,29,25,NULL,21,14,25,26,NULL,NBA
+74,290320010,2009,"Fri, Mar 20",Houston Rockets,Minnesota Timberwolves,"46-25, 29-8 Home","20-49, 10-24 Away",107,88,NULL,NULL,Final,NULL,22,26,35,24,NULL,16,21,29,22,NULL,NBA
+75,290323001,2009,"Mon, Mar 23",Atlanta Hawks,Minnesota Timberwolves,"42-29, 28-7 Home","20-51, 10-25 Away",109,97,NULL,NULL,Final,NULL,23,35,23,28,NULL,18,18,28,33,NULL,NBA
+76,290327005,2009,"Fri, Mar 27",Cleveland Cavaliers,Minnesota Timberwolves,"59-13, 34-1 Home","20-53, 10-27 Away",107,85,NULL,NULL,Final,NULL,27,29,23,28,NULL,18,21,25,21,NULL,NBA
+77,290331016,2009,"Tue, Mar 31",Minnesota Timberwolves,Dallas Mavericks,"21-54, 11-27 Home","44-30, 18-21 Away",88,108,NULL,NULL,Final,NULL,21,26,22,19,NULL,36,25,24,23,NULL,NBA
+78,290405016,2009,"Sun, Apr 5",Minnesota Timberwolves,Denver Nuggets,"22-55, 11-28 Home","52-26, 21-18 Away",87,110,NULL,NULL,Final,NULL,20,20,22,25,NULL,27,33,27,23,NULL,NBA
+79,290408009,2009,"Wed, Apr 8",Golden State Warriors,Minnesota Timberwolves,"28-50, 21-18 Home","24-55, 13-27 Away",97,105,NULL,NULL,Final,NULL,27,34,12,24,NULL,26,32,20,27,NULL,NBA
+80,290413006,2009,"Mon, Apr 13",Dallas Mavericks,Minnesota Timberwolves,"49-32, 31-9 Home","24-57, 13-28 Away",96,94,NULL,NULL,Final,NULL,26,14,28,28,NULL,18,25,31,20,NULL,NBA
+81,290415016,2009,"Wed, Apr 15",Minnesota Timberwolves,Sacramento Kings,"24-58, 11-30 Home","17-65, 6-35 Away",90,97,NULL,NULL,Final,NULL,19,28,18,25,NULL,21,28,30,18,NULL,NBA

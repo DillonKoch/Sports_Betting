@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,141105007,1995,"Sat, Nov 5",Denver Nuggets,Golden State Warriors,"1-1, 1-1 Home","2-0, 2-0 Away",104,108,NULL,NULL,Final,NULL,31,29,20,24,NULL,31,23,33,21,NULL,NBA
+1,141111013,1995,"Fri, Nov 11",Los Angeles Lakers,Denver Nuggets,"2-3, 0-1 Home","3-1, 2-0 Away",117,124,NULL,NULL,Final/OT,NULL,19,28,25,33,12,25,34,31,15,19,NBA
+2,141115007,1995,"Tue, Nov 15",Denver Nuggets,San Antonio Spurs,"5-1, 3-1 Home","3-2, 0-1 Away",112,99,NULL,NULL,Final,NULL,37,21,22,32,NULL,21,22,34,22,NULL,NBA
+3,141119007,1995,"Sat, Nov 19",Denver Nuggets,Houston Rockets,"5-3, 3-3 Home","9-0, 6-0 Away",101,109,NULL,NULL,Final,NULL,26,30,26,19,NULL,20,32,33,24,NULL,NBA
+4,141125023,1995,"Fri, Nov 25",Sacramento Kings,Denver Nuggets,"5-4, 4-2 Home","6-4, 2-1 Away",108,105,NULL,NULL,Final/OT,NULL,28,20,27,23,10,27,29,23,19,7,NBA
+5,141129010,1995,"Tue, Nov 29",Houston Rockets,Denver Nuggets,"10-3, 4-2 Home","6-6, 2-2 Away",96,81,NULL,NULL,Final,NULL,25,21,29,21,NULL,15,21,18,27,NULL,NBA
+6,141203007,1995,"Sat, Dec 3",Denver Nuggets,Charlotte Hornets,"8-6, 5-4 Home","7-7, 3-4 Away",99,88,NULL,NULL,Final,NULL,24,26,33,16,NULL,30,22,18,18,NULL,NBA
+7,141210007,1995,"Sat, Dec 10",Denver Nuggets,Washington Bullets,"10-6, 6-4 Home","6-9, 3-5 Away",111,89,NULL,NULL,Final,NULL,29,22,22,38,NULL,14,23,24,28,NULL,NBA
+8,141214019,1995,"Wed, Dec 14",Orlando Magic,Denver Nuggets,"16-4, 10-0 Home","10-8, 4-4 Away",120,96,NULL,NULL,Final,NULL,34,33,26,27,NULL,22,24,15,35,NULL,NBA
+9,141217003,1995,"Sat, Dec 17",Charlotte Hornets,Denver Nuggets,"12-10, 6-3 Home","11-9, 5-5 Away",111,92,NULL,NULL,Final,NULL,33,29,30,19,NULL,28,20,27,17,NULL,NBA
+10,141221007,1995,"Wed, Dec 21",Denver Nuggets,San Antonio Spurs,"12-10, 7-5 Home","12-9, 4-4 Away",97,111,NULL,NULL,Final,NULL,22,34,29,12,NULL,26,26,39,20,NULL,NBA
+11,141225007,1995,"Sun, Dec 25",Denver Nuggets,Seattle SuperSonics,"13-11, 8-5 Home","16-8, 4-7 Away",105,96,NULL,NULL,Final,NULL,23,25,33,24,NULL,24,21,25,26,NULL,NBA
+12,141229022,1995,"Thu, Dec 29",Portland Trail Blazers,Denver Nuggets,"13-12, 10-6 Home","13-13, 5-7 Away",104,93,NULL,NULL,Final,NULL,20,25,35,24,NULL,22,19,29,23,NULL,NBA
+13,150103016,1995,"Tue, Jan 3",Minnesota Timberwolves,Denver Nuggets,"6-21, 2-12 Home","15-13, 6-7 Away",99,108,NULL,NULL,Final/2OT,NULL,18,35,16,19,11,17,26,22,23,20,NBA
+14,150107007,1995,"Sat, Jan 7",Denver Nuggets,Phoenix Suns,"15-15, 9-7 Home","24-7, 9-6 Away",100,109,NULL,NULL,Final,NULL,21,29,28,22,NULL,27,26,27,29,NULL,NBA
+15,150111026,1995,"Wed, Jan 11",Utah Jazz,Denver Nuggets,"23-10, 13-6 Home","16-16, 6-9 Away",114,88,NULL,NULL,Final,NULL,33,25,35,21,NULL,16,20,26,26,NULL,NBA
+16,150114007,1995,"Sat, Jan 14",Denver Nuggets,Houston Rockets,"18-16, 12-7 Home","22-11, 10-5 Away",118,104,NULL,NULL,Final,NULL,30,26,21,41,NULL,22,22,31,29,NULL,NBA
+17,150117021,1995,"Tue, Jan 17",Phoenix Suns,Denver Nuggets,"28-8, 17-2 Home","18-18, 6-11 Away",129,113,NULL,NULL,Final,NULL,36,33,25,35,NULL,35,26,30,22,NULL,NBA
+18,150121007,1995,"Sat, Jan 21",Denver Nuggets,Cleveland Cavaliers,"18-20, 12-9 Home","24-14, 12-7 Away",100,101,NULL,NULL,Final/2OT,NULL,15,20,25,23,17,10,29,29,15,18,NBA
+19,150127007,1995,"Fri, Jan 27",Denver Nuggets,New Jersey Nets,"19-21, 13-9 Home","16-28, 6-19 Away",96,90,NULL,NULL,Final,NULL,26,21,27,22,NULL,21,18,24,27,NULL,NBA
+20,150131010,1995,"Tue, Jan 31",Houston Rockets,Denver Nuggets,"26-15, 14-7 Home","19-23, 6-14 Away",86,74,NULL,NULL,Final,NULL,24,22,25,15,NULL,14,20,20,20,NULL,NBA
+21,150203013,1995,"Fri, Feb 3",Los Angeles Lakers,Denver Nuggets,"26-16, 13-6 Home","20-24, 7-15 Away",74,88,NULL,NULL,Final,NULL,19,17,18,20,NULL,27,17,23,21,NULL,NBA
+22,150209007,1995,"Thu, Feb 9",Denver Nuggets,Golden State Warriors,"20-26, 13-11 Home","14-31, 5-19 Away",101,109,NULL,NULL,Final,NULL,23,27,24,27,NULL,33,34,16,26,NULL,NBA
+23,150216017,1995,"Thu, Feb 16",New Jersey Nets,Denver Nuggets,"21-31, 14-10 Home","20-28, 7-16 Away",100,94,NULL,NULL,Final,NULL,26,28,20,26,NULL,21,20,27,26,NULL,NBA
+24,150219027,1995,"Sun, Feb 19",Washington Bullets,Denver Nuggets,"12-37, 6-17 Home","21-29, 8-17 Away",92,94,NULL,NULL,Final,NULL,30,19,21,22,NULL,24,25,24,21,NULL,NBA
+25,150223007,1995,"Thu, Feb 23",Denver Nuggets,Philadelphia 76ers,"23-29, 15-12 Home","15-39, 7-21 Away",105,75,NULL,NULL,Final,NULL,24,34,20,27,NULL,24,14,25,12,NULL,NBA
+26,150226007,1995,"Sun, Feb 26",Denver Nuggets,Utah Jazz,"23-31, 15-13 Home","39-16, 17-9 Away",96,110,NULL,NULL,Final,NULL,20,24,23,29,NULL,34,24,23,29,NULL,NBA
+27,150303007,1995,"Fri, Mar 3",Denver Nuggets,Miami Heat,"25-31, 17-13 Home","21-35, 7-23 Away",100,98,NULL,NULL,Final,NULL,25,28,23,24,NULL,22,17,35,24,NULL,NBA
+28,150307006,1995,"Tue, Mar 7",Dallas Mavericks,Denver Nuggets,"22-34, 13-19 Home","27-31, 10-18 Away",96,99,NULL,NULL,Final,NULL,30,21,25,20,NULL,33,25,17,24,NULL,NBA
+29,150310008,1995,"Fri, Mar 10",Detroit Pistons,Denver Nuggets,"23-37, 17-13 Home","28-32, 11-19 Away",88,99,NULL,NULL,Final,NULL,19,20,15,34,NULL,34,16,25,24,NULL,NBA
+30,150314018,1995,"Tue, Mar 14",New York Knicks,Denver Nuggets,"40-21, 23-8 Home","29-33, 12-20 Away",94,74,NULL,NULL,Final,NULL,26,22,25,21,NULL,20,13,25,16,NULL,NBA
+31,150318007,1995,"Sat, Mar 18",Denver Nuggets,Portland Trail Blazers,"31-33, 19-13 Home","35-28, 14-18 Away",110,90,NULL,NULL,Final,NULL,26,30,24,30,NULL,21,24,15,30,NULL,NBA
+32,150322026,1995,"Wed, Mar 22",Utah Jazz,Denver Nuggets,"49-18, 26-7 Home","31-35, 12-22 Away",103,91,NULL,NULL,Final,NULL,24,24,31,24,NULL,25,21,19,26,NULL,NBA
+33,150326022,1995,"Sun, Mar 26",Portland Trail Blazers,Denver Nuggets,"36-31, 22-12 Home","32-36, 13-22 Away",98,102,NULL,NULL,Final,NULL,24,33,20,21,NULL,25,18,33,26,NULL,NBA
+34,150331011,1995,"Fri, Mar 31",Indiana Pacers,Denver Nuggets,"45-26, 27-7 Home","34-36, 14-22 Away",92,107,NULL,NULL,Final,NULL,22,21,24,25,NULL,31,25,31,20,NULL,NBA
+35,150404007,1995,"Tue, Apr 4",Denver Nuggets,Los Angeles Lakers,"35-37, 20-15 Home","46-26, 19-17 Away",101,104,NULL,NULL,Final,NULL,32,25,19,25,NULL,27,24,34,19,NULL,NBA
+36,150409007,1995,"Sun, Apr 9",Denver Nuggets,Houston Rockets,"35-39, 20-17 Home","44-31, 22-17 Away",120,123,NULL,NULL,Final,NULL,41,31,26,22,NULL,40,25,30,28,NULL,NBA
+37,150413012,1995,"Thu, Apr 13",Los Angeles Clippers,Denver Nuggets,"16-61, 12-28 Home","37-39, 17-22 Away",103,125,NULL,NULL,Final,NULL,23,34,24,22,NULL,29,34,37,25,NULL,NBA
+38,150416007,1995,"Sun, Apr 16",Denver Nuggets,San Antonio Spurs,"38-40, 21-18 Home","58-20, 27-12 Away",109,112,NULL,NULL,Final/OT,NULL,32,32,13,24,8,29,24,28,20,11,NBA
+39,150419007,1995,"Wed, Apr 19",Denver Nuggets,Minnesota Timberwolves,"39-41, 22-18 Home","21-59, 8-32 Away",106,81,NULL,NULL,Final,NULL,22,29,30,25,NULL,26,16,22,17,NULL,NBA
+40,141104007,1995,"Fri, Nov 4",Denver Nuggets,Minnesota Timberwolves,"1-0, 1-0 Home","0-1, 0-1 Away",130,108,NULL,NULL,Final,NULL,31,28,45,26,NULL,24,22,38,24,NULL,NBA
+41,141108006,1995,"Tue, Nov 8",Dallas Mavericks,Denver Nuggets,"1-1, 1-1 Home","2-1, 1-0 Away",107,115,NULL,NULL,Final,NULL,26,29,25,27,NULL,32,24,24,35,NULL,NBA
+42,141112007,1995,"Sat, Nov 12",Denver Nuggets,Utah Jazz,"4-1, 2-1 Home","2-4, 0-3 Away",119,110,NULL,NULL,Final,NULL,31,28,19,41,NULL,30,27,28,25,NULL,NBA
+43,141117007,1995,"Thu, Nov 17",Denver Nuggets,Detroit Pistons,"5-2, 3-2 Home","5-2, 2-1 Away",92,94,NULL,NULL,Final,NULL,31,20,20,21,NULL,29,28,19,18,NULL,NBA
+44,141123007,1995,"Wed, Nov 23",Denver Nuggets,Chicago Bulls,"6-3, 4-3 Home","6-5, 4-3 Away",113,111,NULL,NULL,Final,NULL,22,40,19,32,NULL,32,24,28,27,NULL,NBA
+45,141126007,1995,"Sat, Nov 26",Denver Nuggets,Dallas Mavericks,"6-5, 4-4 Home","6-4, 3-2 Away",123,124,NULL,NULL,Final/OT,NULL,28,38,22,22,13,24,19,40,27,14,NBA
+46,141201006,1995,"Thu, Dec 1",Dallas Mavericks,Denver Nuggets,"7-5, 4-3 Home","7-6, 3-2 Away",80,89,NULL,NULL,Final,NULL,17,16,25,22,NULL,24,28,15,22,NULL,NBA
+47,141206016,1995,"Tue, Dec 6",Minnesota Timberwolves,Denver Nuggets,"3-14, 0-8 Home","9-6, 4-2 Away",95,102,NULL,NULL,Final,NULL,21,26,27,21,NULL,26,23,20,33,NULL,NBA
+48,141212002,1995,"Mon, Dec 12",Boston Celtics,Denver Nuggets,"9-11, 5-6 Home","10-7, 4-3 Away",113,103,NULL,NULL,Final,NULL,31,27,23,32,NULL,25,27,27,24,NULL,NBA
+49,141215014,1995,"Thu, Dec 15",Miami Heat,Denver Nuggets,"5-14, 3-6 Home","11-8, 5-4 Away",99,101,NULL,NULL,Final,NULL,28,29,21,21,NULL,20,19,34,28,NULL,NBA
+50,141219007,1995,"Mon, Dec 19",Denver Nuggets,Boston Celtics,"12-9, 7-4 Home","10-14, 5-8 Away",104,85,NULL,NULL,Final,NULL,29,19,26,30,NULL,28,14,25,18,NULL,NBA
+51,141223021,1995,"Fri, Dec 23",Phoenix Suns,Denver Nuggets,"19-6, 13-0 Home","12-11, 5-6 Away",126,110,NULL,NULL,Final,NULL,28,38,27,33,NULL,26,28,26,30,NULL,NBA
+52,141227007,1995,"Tue, Dec 27",Denver Nuggets,Indiana Pacers,"13-12, 8-6 Home","16-8, 7-7 Away",91,95,NULL,NULL,Final,NULL,17,24,29,21,NULL,23,24,28,20,NULL,NBA
+53,141230007,1995,"Fri, Dec 30",Denver Nuggets,Portland Trail Blazers,"14-13, 9-6 Home","13-13, 3-7 Away",118,114,NULL,NULL,Final,NULL,27,30,33,28,NULL,29,27,28,30,NULL,NBA
+54,150104004,1995,"Wed, Jan 4",Chicago Bulls,Denver Nuggets,"16-13, 9-7 Home","15-14, 6-8 Away",86,80,NULL,NULL,Final,NULL,31,25,12,18,NULL,19,20,25,16,NULL,NBA
+55,150108007,1995,"Sun, Jan 8",Denver Nuggets,Milwaukee Bucks,"16-15, 10-7 Home","10-21, 5-14 Away",102,96,NULL,NULL,Final/OT,NULL,21,27,26,18,10,23,31,16,22,4,NBA
+56,150112007,1995,"Thu, Jan 12",Denver Nuggets,Dallas Mavericks,"17-16, 11-7 Home","15-16, 6-8 Away",94,78,NULL,NULL,Final,NULL,23,24,22,25,NULL,15,19,20,24,NULL,NBA
+57,150116009,1995,"Mon, Jan 16",Golden State Warriors,Denver Nuggets,"11-23, 8-10 Home","18-17, 6-10 Away",77,73,NULL,NULL,Final,NULL,22,21,19,15,NULL,18,15,21,19,NULL,NBA
+58,150120007,1995,"Fri, Jan 20",Denver Nuggets,Orlando Magic,"18-19, 12-8 Home","32-7, 14-7 Away",108,112,NULL,NULL,Final/OT,NULL,27,29,20,23,9,30,31,18,20,13,NBA
+59,150124025,1995,"Tue, Jan 24",Seattle SuperSonics,Denver Nuggets,"28-9, 18-1 Home","18-21, 6-12 Away",111,89,NULL,NULL,Final,NULL,26,32,24,29,NULL,25,25,20,19,NULL,NBA
+60,150128024,1995,"Sat, Jan 28",San Antonio Spurs,Denver Nuggets,"25-14, 14-6 Home","19-22, 6-13 Away",103,77,NULL,NULL,Final,NULL,23,33,17,30,NULL,20,16,20,21,NULL,NBA
+61,150201026,1995,"Wed, Feb 1",Utah Jazz,Denver Nuggets,"34-10, 19-6 Home","19-24, 6-15 Away",129,88,NULL,NULL,Final,NULL,35,28,34,32,NULL,13,26,26,23,NULL,NBA
+62,150207007,1995,"Tue, Feb 7",Denver Nuggets,Los Angeles Lakers,"20-25, 13-10 Home","28-16, 15-10 Away",83,85,NULL,NULL,Final,NULL,22,23,19,19,NULL,24,26,21,14,NULL,NBA
+63,150214007,1995,"Tue, Feb 14",Denver Nuggets,Atlanta Hawks,"20-27, 13-12 Home","23-26, 10-13 Away",88,99,NULL,NULL,Final,NULL,16,24,25,23,NULL,29,26,22,22,NULL,NBA
+64,150218020,1995,"Sat, Feb 18",Philadelphia 76ers,Denver Nuggets,"15-36, 8-18 Home","20-29, 7-17 Away",95,89,NULL,NULL,Final,NULL,24,21,28,22,NULL,25,14,31,19,NULL,NBA
+65,150221007,1995,"Tue, Feb 21",Denver Nuggets,Los Angeles Clippers,"22-29, 14-12 Home","9-43, 3-24 Away",118,80,NULL,NULL,Final,NULL,26,29,34,29,NULL,17,28,19,16,NULL,NBA
+66,150224025,1995,"Fri, Feb 24",Seattle SuperSonics,Denver Nuggets,"37-15, 22-5 Home","23-30, 8-18 Away",90,86,NULL,NULL,Final,NULL,23,22,23,22,NULL,23,27,18,18,NULL,NBA
+67,150228007,1995,"Tue, Feb 28",Denver Nuggets,Minnesota Timberwolves,"24-31, 16-13 Home","14-41, 6-22 Away",114,101,NULL,NULL,Final,NULL,29,31,26,28,NULL,17,30,25,29,NULL,NBA
+68,150304012,1995,"Sat, Mar 4",Los Angeles Clippers,Denver Nuggets,"11-48, 8-21 Home","26-31, 9-18 Away",89,101,NULL,NULL,Final,NULL,27,16,12,34,NULL,25,24,21,31,NULL,NBA
+69,150308001,1995,"Wed, Mar 8",Atlanta Hawks,Denver Nuggets,"29-30, 17-14 Home","27-32, 10-19 Away",99,88,NULL,NULL,Final,NULL,31,24,17,27,NULL,26,21,13,28,NULL,NBA
+70,150312015,1995,"Sun, Mar 12",Milwaukee Bucks,Denver Nuggets,"23-39, 13-17 Home","29-32, 12-19 Away",93,109,NULL,NULL,Final,NULL,25,22,21,25,NULL,25,29,26,29,NULL,NBA
+71,150316007,1995,"Thu, Mar 16",Denver Nuggets,Sacramento Kings,"30-33, 18-13 Home","30-32, 9-21 Away",123,101,NULL,NULL,Final,NULL,30,39,32,22,NULL,18,24,29,30,NULL,NBA
+72,150320023,1995,"Mon, Mar 20",Sacramento Kings,Denver Nuggets,"32-33, 23-11 Home","31-34, 12-21 Away",91,89,NULL,NULL,Final,NULL,24,29,15,23,NULL,23,19,21,26,NULL,NBA
+73,150323007,1995,"Thu, Mar 23",Denver Nuggets,New York Knicks,"31-36, 19-14 Home","43-22, 19-13 Away",101,104,NULL,NULL,Final,NULL,25,32,20,24,NULL,28,22,26,28,NULL,NBA
+74,150327007,1995,"Mon, Mar 27",Denver Nuggets,Los Angeles Clippers,"33-36, 20-14 Home","14-57, 3-33 Away",113,104,NULL,NULL,Final,NULL,27,33,24,29,NULL,25,30,18,31,NULL,NBA
+75,150402005,1995,"Sun, Apr 2",Cleveland Cavaliers,Denver Nuggets,"39-32, 22-14 Home","35-36, 15-22 Away",101,104,NULL,NULL,Final,NULL,19,32,25,25,NULL,21,32,36,15,NULL,NBA
+76,150406007,1995,"Thu, Apr 6",Denver Nuggets,Seattle SuperSonics,"35-38, 20-16 Home","52-21, 22-14 Away",100,106,NULL,NULL,Final,NULL,20,22,22,36,NULL,27,23,22,34,NULL,NBA
+77,150410016,1995,"Mon, Apr 10",Minnesota Timberwolves,Denver Nuggets,"20-55, 12-25 Home","36-39, 16-22 Away",107,114,NULL,NULL,Final,NULL,25,27,23,32,NULL,24,26,33,31,NULL,NBA
+78,150414007,1995,"Fri, Apr 14",Denver Nuggets,Phoenix Suns,"38-39, 21-17 Home","55-23, 27-14 Away",102,87,NULL,NULL,Final,NULL,31,21,26,24,NULL,21,24,21,21,NULL,NBA
+79,150418024,1995,"Tue, Apr 18",San Antonio Spurs,Denver Nuggets,"59-20, 32-8 Home","38-41, 17-23 Away",107,96,NULL,NULL,Final,NULL,20,35,26,26,NULL,28,17,27,24,NULL,NBA
+80,150422009,1995,"Sat, Apr 22",Golden State Warriors,Denver Nuggets,"26-55, 15-26 Home","40-41, 18-23 Away",129,130,NULL,NULL,Final/2OT,NULL,30,32,20,27,20,25,27,31,26,21,NBA
+81,150423007,1995,"Sun, Apr 23",Denver Nuggets,Sacramento Kings,"41-41, 23-18 Home","39-43, 12-29 Away",102,89,NULL,NULL,Final,NULL,27,23,16,36,NULL,19,22,21,27,NULL,NBA

@@ -1,0 +1,67 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,311229010,2012,"Thu, Dec 29",Houston Rockets,San Antonio Spurs,"1-1, 1-0 Home","2-1, 0-1 Away",105,85,NULL,NULL,Final,NULL,23,30,25,27,NULL,18,17,24,26,NULL,NBA
+1,311231010,2012,"Sat, Dec 31",Houston Rockets,Atlanta Hawks,"2-2, 2-0 Home","3-1, 1-1 Away",95,84,NULL,NULL,Final,NULL,31,20,21,23,NULL,22,22,16,24,NULL,NBA
+2,320104012,2012,"Wed, Jan 4",LA Clippers,Houston Rockets,"3-2, 2-1 Home","2-4, 0-4 Away",117,89,NULL,NULL,Final,NBATV,41,26,23,27,NULL,26,29,20,14,NULL,NBA
+3,320107010,2012,"Sat, Jan 7",Houston Rockets,Oklahoma City Thunder,"2-6, 2-1 Home","7-2, 3-1 Away",95,98,NULL,NULL,Final,NULL,21,25,26,23,NULL,23,25,24,26,NULL,NBA
+4,320111024,2012,"Wed, Jan 11",San Antonio Spurs,Houston Rockets,"7-4, 7-0 Home","3-7, 1-6 Away",101,95,NULL,NULL,Final/OT,NULL,23,24,25,18,11,27,23,18,22,5,NBA
+5,320114010,2012,"Sat, Jan 14",Houston Rockets,Portland Trail Blazers,"5-7, 4-1 Home","7-5, 1-4 Away",107,105,NULL,NULL,Final/OT,NULL,27,31,26,13,10,21,32,23,21,8,NBA
+6,320117010,2012,"Tue, Jan 17",Houston Rockets,Detroit Pistons,"7-7, 5-1 Home","3-11, 1-6 Away",97,80,NULL,NULL,Final,NULL,28,19,22,28,NULL,20,20,19,21,NULL,NBA
+7,320121010,2012,"Sat, Jan 21",Houston Rockets,San Antonio Spurs,"9-7, 7-1 Home","10-7, 1-6 Away",105,102,NULL,NULL,Final,NULL,28,27,22,28,NULL,23,26,26,27,NULL,NBA
+8,320125010,2012,"Wed, Jan 25",Houston Rockets,Milwaukee Bucks,"10-8, 7-2 Home","7-10, 3-8 Away",99,105,NULL,NULL,Final,NULL,23,28,19,29,NULL,29,13,30,33,NULL,NBA
+9,320128010,2012,"Sat, Jan 28",Houston Rockets,New York Knicks,"12-8, 9-2 Home","7-13, 4-7 Away",97,84,NULL,NULL,Final,NULL,20,33,22,22,NULL,21,25,14,24,NULL,NBA
+10,320201024,2012,"Wed, Feb 1",San Antonio Spurs,Houston Rockets,"14-9, 11-1 Home","12-10, 3-7 Away",99,91,NULL,NULL,Final,ESPN,16,23,28,32,NULL,27,25,19,20,NULL,NBA
+11,320204016,2012,"Sat, Feb 4",Minnesota Timberwolves,Houston Rockets,"12-12, 6-8 Home","13-11, 3-8 Away",100,91,NULL,NULL,Final,NULL,33,22,26,19,NULL,25,17,30,19,NULL,NBA
+12,320208022,2012,"Wed, Feb 8",Portland Trail Blazers,Houston Rockets,"14-12, 11-3 Home","15-11, 5-8 Away",96,103,NULL,NULL,Final,NBATV,28,18,24,26,NULL,30,30,17,26,NULL,NBA
+13,320212009,2012,"Sun, Feb 12",Golden State Warriors,Houston Rockets,"10-14, 7-8 Home","16-12, 6-9 Away",106,97,NULL,NULL,Final,NULL,23,25,28,30,NULL,29,15,30,23,NULL,NBA
+14,320215010,2012,"Wed, Feb 15",Houston Rockets,Oklahoma City Thunder,"17-13, 11-3 Home","22-7, 12-6 Away",96,95,NULL,NULL,Final,NULL,29,16,30,21,NULL,13,31,29,22,NULL,NBA
+15,320219010,2012,"Sun, Feb 19",Houston Rockets,Utah Jazz,"18-14, 12-4 Home","15-15, 3-10 Away",101,85,NULL,NULL,Final,NULL,23,22,27,29,NULL,22,24,18,21,NULL,NBA
+16,320222010,2012,"Wed, Feb 22",Houston Rockets,Philadelphia 76ers,"20-14, 14-4 Home","20-14, 7-8 Away",93,87,NULL,NULL,Final,CSN,19,26,16,32,NULL,16,25,24,22,NULL,NBA
+17,320229026,2012,"Wed, Feb 29",Utah Jazz,Houston Rockets,"16-18, 13-6 Home","21-15, 6-11 Away",104,83,NULL,NULL,Final,NULL,18,31,27,28,NULL,26,18,19,20,NULL,NBA
+18,320304010,2012,"Sun, Mar 4",Houston Rockets,LA Clippers,"21-17, 15-6 Home","22-13, 10-8 Away",103,105,NULL,NULL,Final/OT,NULL,30,17,27,23,6,25,20,32,20,8,NBA
+19,320307028,2012,"Wed, Mar 7",Toronto Raptors,Houston Rockets,"13-26, 7-13 Home","21-19, 6-13 Away",116,98,NULL,NULL,Final,NULL,28,30,24,34,NULL,28,18,30,22,NULL,NBA
+20,320311005,2012,"Sun, Mar 11",Cleveland Cavaliers,Houston Rockets,"16-23, 9-12 Home","22-20, 7-14 Away",118,107,NULL,NULL,Final,NULL,30,24,27,37,NULL,26,31,27,23,NULL,NBA
+21,320314010,2012,"Wed, Mar 14",Houston Rockets,Charlotte Bobcats,"24-20, 16-6 Home","6-35, 3-20 Away",107,87,NULL,NULL,Final,NULL,30,20,36,21,NULL,18,22,17,30,NULL,NBA
+22,320318021,2012,"Sun, Mar 18",Phoenix Suns,Houston Rockets,"23-22, 15-10 Home","24-22, 8-16 Away",99,86,NULL,NULL,Final,NULL,26,26,28,19,NULL,13,23,28,22,NULL,NBA
+23,320322010,2012,"Thu, Mar 22",Houston Rockets,Golden State Warriors,"26-22, 18-6 Home","19-26, 9-13 Away",109,83,NULL,NULL,Final,NULL,30,26,28,25,NULL,18,29,20,16,NULL,NBA
+24,320326010,2012,"Mon, Mar 26",Houston Rockets,Sacramento Kings,"27-23, 19-7 Home","17-32, 4-22 Away",113,106,NULL,NULL,Final/OT,NULL,17,25,29,28,14,29,22,21,27,7,NBA
+25,320330010,2012,"Fri, Mar 30",Houston Rockets,Memphis Grizzlies,"28-24, 20-7 Home","27-22, 10-15 Away",98,89,NULL,NULL,Final,NULL,30,19,25,24,NULL,19,29,21,20,NULL,NBA
+26,320402004,2012,"Mon, Apr 2",Chicago Bulls,Houston Rockets,"42-13, 21-6 Home","29-25, 9-17 Away",93,99,NULL,NULL,Final,NBATV,22,29,19,23,NULL,26,14,31,28,NULL,NBA
+27,320408023,2012,"Sun, Apr 8",Sacramento Kings,Houston Rockets,"19-38, 14-15 Home","31-25, 11-17 Away",87,104,NULL,NULL,Final,NBATV,21,22,20,24,NULL,32,26,15,31,NULL,NBA
+28,320411010,2012,"Wed, Apr 11",Houston Rockets,Utah Jazz,"32-26, 20-9 Home","31-28, 10-20 Away",91,103,NULL,NULL,Final,NULL,26,20,21,24,NULL,30,26,24,23,NULL,NBA
+29,320415007,2012,"Sun, Apr 15",Denver Nuggets,Houston Rockets,"33-27, 19-12 Home","32-28, 12-18 Away",101,86,NULL,NULL,Final,NULL,22,21,37,21,NULL,27,22,19,18,NULL,NBA
+30,320418006,2012,"Wed, Apr 18",Dallas Mavericks,Houston Rockets,"35-28, 22-10 Home","32-30, 12-19 Away",117,110,NULL,NULL,Final,NULL,27,28,23,39,NULL,27,28,29,26,NULL,NBA
+31,320421010,2012,"Sat, Apr 21",Houston Rockets,Golden State Warriors,"33-31, 21-11 Home","22-41, 10-22 Away",99,96,NULL,NULL,Final,NULL,31,27,19,22,NULL,21,34,16,25,NULL,NBA
+32,311226019,2012,"Mon, Dec 26",Orlando Magic,Houston Rockets,"1-1, 1-0 Home","0-1, 0-1 Away",104,95,NULL,NULL,Final,NBATV,27,26,24,27,NULL,23,27,23,22,NULL,NBA
+33,311230029,2012,"Fri, Dec 30",Memphis Grizzlies,Houston Rockets,"1-2, 1-1 Home","1-2, 0-2 Away",113,93,NULL,NULL,Final,NULL,30,27,31,25,NULL,28,23,16,26,NULL,NBA
+34,320103013,2012,"Tue, Jan 3",Los Angeles Lakers,Houston Rockets,"4-3, 4-1 Home","2-3, 0-3 Away",108,99,NULL,NULL,Final,NBATV,31,19,26,32,NULL,25,21,29,24,NULL,NBA
+35,320106025,2012,"Fri, Jan 6",Oklahoma City Thunder,Houston Rockets,"6-2, 4-1 Home","2-5, 0-5 Away",109,94,NULL,NULL,Final,NULL,30,28,28,23,NULL,20,21,24,29,NULL,NBA
+36,320110030,2012,"Tue, Jan 10",Charlotte Bobcats,Houston Rockets,"2-8, 1-4 Home","3-6, 1-5 Away",70,82,NULL,NULL,Final,NULL,23,16,14,17,NULL,20,23,24,15,NULL,NBA
+37,320113010,2012,"Fri, Jan 13",Houston Rockets,Sacramento Kings,"4-7, 3-1 Home","4-8, 1-5 Away",103,89,NULL,NULL,Final,NULL,26,24,31,22,NULL,28,24,20,17,NULL,NBA
+38,320116027,2012,"Mon, Jan 16",Washington Wizards,Houston Rockets,"1-12, 1-6 Home","6-7, 2-6 Away",106,114,NULL,NULL,Final,NULL,28,26,21,31,NULL,27,31,33,23,NULL,NBA
+39,320119010,2012,"Thu, Jan 19",Houston Rockets,New Orleans Hornets,"8-7, 6-1 Home","3-12, 2-5 Away",90,88,NULL,NULL,Final/OT,NULL,32,26,17,7,8,27,22,14,19,6,NBA
+40,320123016,2012,"Mon, Jan 23",Minnesota Timberwolves,Houston Rockets,"7-10, 4-6 Home","10-7, 3-6 Away",92,107,NULL,NULL,Final,NULL,19,28,24,21,NULL,28,26,22,31,NULL,NBA
+41,320127010,2012,"Fri, Jan 27",Houston Rockets,Washington Wizards,"11-8, 8-2 Home","3-16, 0-8 Away",103,76,NULL,NULL,Final,NULL,17,27,34,25,NULL,21,20,21,14,NULL,NBA
+42,320130010,2012,"Mon, Jan 30",Houston Rockets,Minnesota Timberwolves,"12-9, 9-3 Home","10-11, 5-4 Away",108,120,NULL,NULL,Final,NBATV,24,32,25,27,NULL,26,28,42,24,NULL,NBA
+43,320203010,2012,"Fri, Feb 3",Houston Rockets,Phoenix Suns,"13-10, 10-3 Home","8-14, 4-8 Away",99,81,NULL,NULL,Final,NULL,30,29,21,19,NULL,20,19,22,20,NULL,NBA
+44,320206007,2012,"Mon, Feb 6",Denver Nuggets,Houston Rockets,"15-10, 7-5 Home","14-11, 4-8 Away",90,99,NULL,NULL,Final,NULL,28,17,26,19,NULL,26,21,26,26,NULL,NBA
+45,320209021,2012,"Thu, Feb 9",Phoenix Suns,Houston Rockets,"11-15, 5-7 Home","16-11, 6-8 Away",89,96,NULL,NULL,Final,NULL,29,15,32,13,NULL,26,28,20,22,NULL,NBA
+46,320214029,2012,"Tue, Feb 14",Memphis Grizzlies,Houston Rockets,"15-14, 10-5 Home","16-13, 6-10 Away",93,83,NULL,NULL,Final,NULL,21,31,20,21,NULL,17,26,21,19,NULL,NBA
+47,320217010,2012,"Fri, Feb 17",Houston Rockets,Minnesota Timberwolves,"17-14, 11-4 Home","15-16, 7-6 Away",98,111,NULL,NULL,Final,NULL,29,25,23,21,NULL,30,31,30,20,NULL,NBA
+48,320220010,2012,"Mon, Feb 20",Houston Rockets,Memphis Grizzlies,"19-14, 13-4 Home","18-15, 6-10 Away",97,93,NULL,NULL,Final,NULL,31,27,18,21,NULL,28,26,22,17,NULL,NBA
+49,320228010,2012,"Tue, Feb 28",Houston Rockets,Toronto Raptors,"21-14, 15-4 Home","10-24, 5-13 Away",88,85,NULL,NULL,Final,TSNT,27,18,24,19,NULL,15,21,28,21,NULL,NBA
+50,320302010,2012,"Fri, Mar 2",Houston Rockets,Denver Nuggets,"21-16, 15-5 Home","20-17, 10-9 Away",105,117,NULL,NULL,Final,NULL,25,29,24,27,NULL,26,25,31,35,NULL,NBA
+51,320306002,2012,"Tue, Mar 6",Boston Celtics,Houston Rockets,"20-17, 15-8 Home","21-18, 6-12 Away",97,92,NULL,NULL,Final/OT,NULL,21,25,17,21,13,28,12,28,16,8,NBA
+52,320310017,2012,"Sat, Mar 10",New Jersey Nets,Houston Rockets,"14-28, 4-14 Home","22-19, 7-13 Away",106,112,NULL,NULL,Final,NULL,21,28,34,23,NULL,29,30,25,28,NULL,NBA
+53,320313025,2012,"Tue, Mar 13",Oklahoma City Thunder,Houston Rockets,"32-10, 18-3 Home","23-20, 8-14 Away",103,104,NULL,NULL,Final,NULL,22,31,20,30,NULL,23,30,24,27,NULL,NBA
+54,320317012,2012,"Sat, Mar 17",LA Clippers,Houston Rockets,"25-18, 14-8 Home","24-21, 8-15 Away",95,91,NULL,NULL,Final,NULL,19,20,30,26,NULL,23,24,19,25,NULL,NBA
+55,320320010,2012,"Tue, Mar 20",Houston Rockets,Los Angeles Lakers,"25-22, 17-6 Home","28-18, 9-15 Away",107,104,NULL,NULL,Final,NULL,25,26,22,34,NULL,40,16,23,25,NULL,NBA
+56,320324010,2012,"Sat, Mar 24",Houston Rockets,Dallas Mavericks,"26-23, 18-7 Home","28-22, 10-14 Away",99,101,NULL,NULL,Final/OT,NBATV,30,24,18,19,8,26,30,16,19,10,NBA
+57,320327006,2012,"Tue, Mar 27",Dallas Mavericks,Houston Rockets,"29-22, 19-8 Home","27-24, 8-17 Away",90,81,NULL,NULL,Final,NULL,19,27,23,21,NULL,30,19,12,20,NULL,NBA
+58,320401010,2012,"Sun, Apr 1",Houston Rockets,Indiana Pacers,"28-25, 20-8 Home","31-21, 15-14 Away",102,104,NULL,NULL,Final/OT,NULL,23,19,31,20,9,27,17,19,30,11,NBA
+59,320406013,2012,"Fri, Apr 6",Los Angeles Lakers,Houston Rockets,"35-21, 23-6 Home","30-25, 10-17 Away",107,112,NULL,NULL,Final,NBATV,24,35,22,26,NULL,29,21,34,28,NULL,NBA
+60,320409022,2012,"Mon, Apr 9",Portland Trail Blazers,Houston Rockets,"27-31, 19-11 Home","32-25, 12-17 Away",89,94,NULL,NULL,Final,NULL,17,23,25,24,NULL,24,25,22,23,NULL,NBA
+61,320413010,2012,"Fri, Apr 13",Houston Rockets,Phoenix Suns,"32-27, 20-10 Home","31-28, 14-17 Away",105,112,NULL,NULL,Final,ESPN,28,27,14,36,NULL,21,30,30,31,NULL,NBA
+62,320416010,2012,"Mon, Apr 16",Houston Rockets,Denver Nuggets,"32-29, 20-11 Home","34-27, 15-15 Away",102,105,NULL,NULL,Final,NULL,32,19,23,28,NULL,21,23,31,30,NULL,NBA
+63,320419003,2012,"Thu, Apr 19",New Orleans Hornets,Houston Rockets,"20-43, 11-22 Home","32-31, 12-20 Away",105,99,NULL,NULL,Final/OT,NULL,22,21,26,18,18,29,22,13,23,12,NBA
+64,320422014,2012,"Sun, Apr 22",Miami Heat,Houston Rockets,"46-18, 28-5 Home","33-32, 12-21 Away",97,88,NULL,NULL,Final,NBATV,22,23,21,31,NULL,27,17,25,19,NULL,NBA
+65,320426010,2012,"Thu, Apr 26",Houston Rockets,New Orleans Hornets,"34-32, 22-11 Home","21-45, 10-23 Away",84,77,NULL,NULL,Final,NULL,12,21,30,21,NULL,20,22,29,6,NULL,NBA

@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,400488898,2014,"Fri, Nov 1",Houston Rockets,Dallas Mavericks,"2-0, 2-0 Home","1-1, 0-1 Away",113,105,NULL,NULL,Final,NULL,38,23,24,28,NULL,22,28,22,33,NULL,NBA
+1,400488929,2014,"Tue, Nov 5",Dallas Mavericks,Los Angeles Lakers,"3-1, 3-0 Home","2-3, 0-2 Away",123,104,NULL,NULL,Final,NBATV,35,32,27,29,NULL,22,26,29,27,NULL,NBA
+2,400488953,2014,"Fri, Nov 8",Minnesota Timberwolves,Dallas Mavericks,"4-2, 3-1 Home","3-3, 0-3 Away",116,108,NULL,NULL,Final,NULL,28,27,30,31,NULL,24,32,25,27,NULL,NBA
+3,400488981,2014,"Tue, Nov 12",Dallas Mavericks,Washington Wizards,"5-3, 4-0 Home","2-5, 1-4 Away",105,95,NULL,NULL,Final,NULL,33,28,27,17,NULL,34,15,30,16,NULL,NBA
+4,400489010,2014,"Sat, Nov 16",Orlando Magic,Dallas Mavericks,"4-6, 4-2 Home","6-4, 2-4 Away",100,108,NULL,NULL,Final,NULL,24,22,34,20,NULL,31,28,28,21,NULL,NBA
+5,400489045,2014,"Wed, Nov 20",Dallas Mavericks,Houston Rockets,"8-4, 6-0 Home","8-5, 3-3 Away",123,120,NULL,NULL,Final,ESPN,29,32,26,36,NULL,40,28,33,19,NULL,NBA
+6,400489068,2014,"Sat, Nov 23",Denver Nuggets,Dallas Mavericks,"6-6, 5-2 Home","9-5, 2-5 Away",102,100,NULL,NULL,Final,NULL,35,30,21,16,NULL,22,31,27,20,NULL,NBA
+7,400489098,2014,"Wed, Nov 27",Dallas Mavericks,Golden State Warriors,"10-6, 8-1 Home","9-7, 4-5 Away",103,99,NULL,NULL,Final,NULL,28,27,27,21,NULL,22,24,25,28,NULL,NBA
+8,400489117,2014,"Sat, Nov 30",Dallas Mavericks,Minnesota Timberwolves,"10-8, 8-2 Home","9-9, 3-6 Away",106,112,NULL,NULL,Final,NULL,24,23,30,29,NULL,29,25,30,28,NULL,NBA
+9,400489146,2014,"Wed, Dec 4",New Orleans Pelicans,Dallas Mavericks,"9-9, 5-4 Home","12-8, 3-6 Away",97,100,NULL,NULL,Final,NULL,24,29,24,20,NULL,27,25,23,25,NULL,NBA
+10,400489182,2014,"Mon, Dec 9",Sacramento Kings,Dallas Mavericks,"6-13, 4-9 Home","13-9, 4-7 Away",112,97,NULL,NULL,Final,NULL,34,23,35,20,NULL,23,24,26,24,NULL,NBA
+11,400489221,2014,"Sat, Dec 14",Dallas Mavericks,Milwaukee Bucks,"14-10, 10-2 Home","5-19, 3-9 Away",106,93,NULL,NULL,Final,NBATV,38,21,34,13,NULL,26,15,20,32,NULL,NBA
+12,400489262,2014,"Fri, Dec 20",Dallas Mavericks,Toronto Raptors,"15-11, 11-3 Home","10-14, 6-6 Away",108,109,NULL,NULL,Final/OT,NULL,33,19,29,20,7,22,27,29,23,8,NBA
+13,400489285,2014,"Mon, Dec 23",Houston Rockets,Dallas Mavericks,"18-11, 11-4 Home","16-12, 5-9 Away",104,111,NULL,NULL,Final,NULL,26,31,21,26,NULL,20,30,36,25,NULL,NBA
+14,400489314,2014,"Sat, Dec 28",Chicago Bulls,Dallas Mavericks,"11-17, 7-6 Home","17-13, 6-9 Away",83,105,NULL,NULL,Final,NULL,19,15,22,27,NULL,30,31,25,19,NULL,NBA
+15,400489341,2014,"Wed, Jan 1",Washington Wizards,Dallas Mavericks,"14-15, 7-6 Home","19-13, 8-9 Away",78,87,NULL,NULL,Final,NULL,20,22,19,17,NULL,25,14,20,28,NULL,NBA
+16,400489376,2014,"Sun, Jan 5",Dallas Mavericks,New York Knicks,"19-15, 11-6 Home","11-22, 7-10 Away",80,92,NULL,NULL,Final,NBATV,17,18,22,23,NULL,29,23,15,25,NULL,NBA
+17,400489393,2014,"Wed, Jan 8",San Antonio Spurs,Dallas Mavericks,"28-8, 14-5 Home","20-16, 8-10 Away",112,90,NULL,NULL,Final,ESPN,25,20,37,30,NULL,16,22,24,28,NULL,NBA
+18,400489422,2014,"Sat, Jan 11",Dallas Mavericks,New Orleans Pelicans,"22-16, 13-6 Home","15-21, 6-14 Away",110,107,NULL,NULL,Final,NULL,17,25,42,26,NULL,22,15,40,30,NULL,NBA
+19,400489450,2014,"Wed, Jan 15",LA Clippers,Dallas Mavericks,"27-13, 18-3 Home","23-17, 9-11 Away",129,127,NULL,NULL,Final,NULL,30,42,28,29,NULL,32,30,36,29,NULL,NBA
+20,400489473,2014,"Sat, Jan 18",Dallas Mavericks,Portland Trail Blazers,"24-18, 14-7 Home","31-9, 15-5 Away",111,127,NULL,NULL,Final,NULL,23,29,18,41,NULL,35,36,33,23,NULL,NBA
+21,400489497,2014,"Wed, Jan 22",Toronto Raptors,Dallas Mavericks,"21-20, 11-9 Home","25-19, 11-12 Away",93,85,NULL,NULL,Final,NULL,15,31,22,25,NULL,34,17,22,12,NULL,NBA
+22,400489532,2014,"Sun, Jan 26",Dallas Mavericks,Detroit Pistons,"26-20, 15-7 Home","17-27, 10-12 Away",116,106,NULL,NULL,Final,NULL,28,28,28,32,NULL,25,21,35,25,NULL,NBA
+23,400489566,2014,"Fri, Jan 31",Dallas Mavericks,Sacramento Kings,"27-21, 16-8 Home","15-31, 6-15 Away",107,103,NULL,NULL,Final,NULL,24,30,21,32,NULL,20,29,32,22,NULL,NBA
+24,400489603,2014,"Wed, Feb 5",Memphis Grizzlies,Dallas Mavericks,"26-22, 13-14 Home","29-21, 12-13 Away",96,110,NULL,NULL,Final,NULL,26,29,17,24,NULL,21,31,26,32,NULL,NBA
+25,400489631,2014,"Sun, Feb 9",Boston Celtics,Dallas Mavericks,"18-34, 11-16 Home","31-21, 13-13 Away",91,102,NULL,NULL,Final,NBATV,16,22,18,35,NULL,17,27,28,30,NULL,NBA
+26,400489650,2014,"Wed, Feb 12",Indiana Pacers,Dallas Mavericks,"40-12, 25-3 Home","32-22, 14-14 Away",73,81,NULL,NULL,Final,NULL,19,23,20,11,NULL,19,25,16,21,NULL,NBA
+27,400489690,2014,"Fri, Feb 21",Philadelphia 76ers,Dallas Mavericks,"15-41, 8-20 Home","33-23, 15-14 Away",112,124,NULL,NULL,Final,NULL,23,39,27,23,NULL,41,28,32,23,NULL,NBA
+28,400489716,2014,"Mon, Feb 24",New York Knicks,Dallas Mavericks,"21-36, 12-19 Home","35-23, 17-14 Away",108,110,NULL,NULL,Final,NBATV,21,38,23,26,NULL,31,29,24,26,NULL,NBA
+29,400489743,2014,"Fri, Feb 28",Dallas Mavericks,Chicago Bulls,"36-24, 19-10 Home","32-26, 15-16 Away",91,100,NULL,NULL,Final,NULL,32,22,22,15,NULL,20,31,22,27,NULL,NBA
+30,400489785,2014,"Wed, Mar 5",Denver Nuggets,Dallas Mavericks,"26-34, 15-16 Home","36-26, 17-16 Away",115,110,NULL,NULL,Final,ESPN,41,27,11,36,NULL,34,17,22,37,NULL,NBA
+31,400489814,2014,"Sun, Mar 9",Dallas Mavericks,Indiana Pacers,"38-26, 21-10 Home","46-17, 17-13 Away",105,94,NULL,NULL,Final,NULL,30,18,28,29,NULL,18,27,26,23,NULL,NBA
+32,400489837,2014,"Wed, Mar 12",Utah Jazz,Dallas Mavericks,"22-43, 14-18 Home","39-27, 18-17 Away",101,108,NULL,NULL,Final,NULL,25,28,25,23,NULL,23,32,25,28,NULL,NBA
+33,400489874,2014,"Mon, Mar 17",Dallas Mavericks,Boston Celtics,"41-27, 22-10 Home","22-46, 8-25 Away",94,89,NULL,NULL,Final,NULL,26,24,14,30,NULL,22,21,18,28,NULL,NBA
+34,400489901,2014,"Fri, Mar 21",Dallas Mavericks,Denver Nuggets,"42-28, 23-11 Home","31-38, 13-22 Away",122,106,NULL,NULL,Final,NULL,26,35,29,32,NULL,29,24,25,28,NULL,NBA
+35,400489932,2014,"Tue, Mar 25",Dallas Mavericks,Oklahoma City Thunder,"43-29, 24-12 Home","52-19, 23-12 Away",128,119,NULL,NULL,Final/OT,TNT,28,31,25,27,17,24,36,29,22,8,NBA
+36,400489963,2014,"Sat, Mar 29",Dallas Mavericks,Sacramento Kings,"44-30, 25-13 Home","25-48, 10-27 Away",103,100,NULL,NULL,Final,NULL,26,28,18,31,NULL,19,23,28,30,NULL,NBA
+37,400490001,2014,"Thu, Apr 3",LA Clippers,Dallas Mavericks,"54-23, 31-6 Home","45-31, 20-17 Away",107,113,NULL,NULL,Final,TNT,26,30,25,26,NULL,32,26,28,27,NULL,NBA
+38,400490024,2014,"Sun, Apr 6",Sacramento Kings,Dallas Mavericks,"27-50, 16-22 Home","47-31, 22-17 Away",91,93,NULL,NULL,Final,NULL,24,24,17,26,NULL,29,16,23,25,NULL,NBA
+39,400490047,2014,"Thu, Apr 10",Dallas Mavericks,San Antonio Spurs,"48-32, 25-15 Home","61-18, 30-10 Away",100,109,NULL,NULL,Final,TNT,22,29,21,28,NULL,30,19,34,26,NULL,NBA
+40,400488885,2014,"Wed, Oct 30",Dallas Mavericks,Atlanta Hawks,"1-0, 1-0 Home","0-1, 0-1 Away",118,109,NULL,NULL,Final,NULL,33,20,33,32,NULL,28,27,24,30,NULL,NBA
+41,400488909,2014,"Sat, Nov 2",Dallas Mavericks,Memphis Grizzlies,"2-1, 2-0 Home","1-2, 0-2 Away",111,99,NULL,NULL,Final,NULL,32,17,24,38,NULL,16,27,20,36,NULL,NBA
+42,400488942,2014,"Wed, Nov 6",Oklahoma City Thunder,Dallas Mavericks,"3-1, 2-0 Home","3-2, 0-2 Away",107,93,NULL,NULL,Final,ESPN,33,24,28,22,NULL,31,20,24,18,NULL,NBA
+43,400488965,2014,"Sat, Nov 9",Milwaukee Bucks,Dallas Mavericks,"2-3, 1-2 Home","4-3, 1-3 Away",83,91,NULL,NULL,Final,NULL,19,21,24,19,NULL,34,21,13,23,NULL,NBA
+44,400489003,2014,"Fri, Nov 15",Miami Heat,Dallas Mavericks,"6-3, 5-1 Home","5-4, 1-4 Away",110,104,NULL,NULL,Final,NULL,31,29,26,24,NULL,32,19,27,26,NULL,NBA
+45,400489026,2014,"Mon, Nov 18",Dallas Mavericks,Philadelphia 76ers,"7-4, 5-0 Home","5-7, 1-4 Away",97,94,NULL,NULL,Final,NULL,18,25,31,23,NULL,21,26,24,23,NULL,NBA
+46,400489057,2014,"Fri, Nov 22",Dallas Mavericks,Utah Jazz,"9-4, 7-0 Home","1-13, 0-8 Away",103,93,NULL,NULL,Final,NULL,31,27,22,23,NULL,18,16,30,29,NULL,NBA
+47,400489080,2014,"Mon, Nov 25",Dallas Mavericks,Denver Nuggets,"9-6, 7-1 Home","7-6, 2-4 Away",96,110,NULL,NULL,Final,NULL,27,24,26,19,NULL,32,24,29,25,NULL,NBA
+48,400489104,2014,"Fri, Nov 29",Atlanta Hawks,Dallas Mavericks,"9-8, 5-3 Home","10-7, 2-6 Away",88,87,NULL,NULL,Final,NULL,23,16,25,24,NULL,28,25,22,12,NULL,NBA
+49,400489139,2014,"Tue, Dec 3",Dallas Mavericks,Charlotte Bobcats,"11-8, 9-2 Home","8-11, 4-5 Away",89,82,NULL,NULL,Final,NULL,22,17,21,29,NULL,18,24,25,15,NULL,NBA
+50,400489171,2014,"Sat, Dec 7",Portland Trail Blazers,Dallas Mavericks,"17-4, 9-2 Home","13-8, 4-6 Away",106,108,NULL,NULL,Final,NBATV,30,23,23,30,NULL,28,27,24,29,NULL,NBA
+51,400489199,2014,"Wed, Dec 11",Golden State Warriors,Dallas Mavericks,"13-10, 7-2 Home","13-10, 4-8 Away",95,93,NULL,NULL,Final,ESPN,16,28,22,29,NULL,23,32,17,21,NULL,NBA
+52,400489250,2014,"Wed, Dec 18",Dallas Mavericks,Memphis Grizzlies,"15-10, 11-2 Home","10-15, 5-5 Away",105,91,NULL,NULL,Final,NULL,27,25,26,27,NULL,21,18,27,25,NULL,NBA
+53,400489273,2014,"Sat, Dec 21",Phoenix Suns,Dallas Mavericks,"16-10, 9-4 Home","15-12, 4-9 Away",123,108,NULL,NULL,Final,NULL,38,25,28,32,NULL,25,33,24,26,NULL,NBA
+54,400489298,2014,"Thu, Dec 26",Dallas Mavericks,San Antonio Spurs,"16-13, 11-4 Home","23-7, 13-3 Away",107,116,NULL,NULL,Final,NULL,20,31,26,30,NULL,27,31,26,32,NULL,NBA
+55,400489328,2014,"Mon, Dec 30",Minnesota Timberwolves,Dallas Mavericks,"15-16, 9-5 Home","18-13, 7-9 Away",98,100,NULL,NULL,Final,NULL,23,20,38,17,NULL,29,33,19,19,NULL,NBA
+56,400489359,2014,"Fri, Jan 3",Dallas Mavericks,LA Clippers,"19-14, 11-5 Home","23-12, 9-9 Away",112,119,NULL,NULL,Final,NULL,39,31,17,25,NULL,33,34,22,30,NULL,NBA
+57,400489389,2014,"Tue, Jan 7",Dallas Mavericks,Los Angeles Lakers,"20-15, 12-6 Home","14-21, 6-11 Away",110,97,NULL,NULL,Final,NULL,33,27,25,25,NULL,31,22,24,20,NULL,NBA
+58,400489409,2014,"Fri, Jan 10",New Orleans Pelicans,Dallas Mavericks,"15-20, 9-7 Home","21-16, 9-10 Away",90,107,NULL,NULL,Final,NULL,24,25,16,25,NULL,31,31,22,23,NULL,NBA
+59,400489433,2014,"Mon, Jan 13",Dallas Mavericks,Orlando Magic,"23-16, 14-6 Home","10-28, 3-17 Away",107,88,NULL,NULL,Final,NULL,28,31,25,23,NULL,20,21,25,22,NULL,NBA
+60,400489464,2014,"Fri, Jan 17",Phoenix Suns,Dallas Mavericks,"22-17, 13-6 Home","24-17, 10-11 Away",107,110,NULL,NULL,Final,NULL,30,26,19,32,NULL,36,22,26,26,NULL,NBA
+61,400489479,2014,"Mon, Jan 20",Cleveland Cavaliers,Dallas Mavericks,"15-26, 10-9 Home","25-18, 11-11 Away",97,102,NULL,NULL,Final,NULL,23,14,29,31,NULL,30,29,20,23,NULL,NBA
+62,400489510,2014,"Fri, Jan 24",Brooklyn Nets,Dallas Mavericks,"19-22, 12-9 Home","25-20, 11-13 Away",107,106,NULL,NULL,Final,NULL,18,39,21,29,NULL,21,25,24,36,NULL,NBA
+63,400489554,2014,"Wed, Jan 29",Dallas Mavericks,Houston Rockets,"26-21, 15-8 Home","31-17, 12-10 Away",115,117,NULL,NULL,Final,NULL,30,27,28,30,NULL,32,31,28,26,NULL,NBA
+64,400489590,2014,"Mon, Feb 3",Dallas Mavericks,Cleveland Cavaliers,"28-21, 17-8 Home","16-32, 5-20 Away",124,107,NULL,NULL,Final,NULL,27,32,35,30,NULL,25,27,27,28,NULL,NBA
+65,400489619,2014,"Fri, Feb 7",Dallas Mavericks,Utah Jazz,"30-21, 18-8 Home","16-33, 6-19 Away",103,81,NULL,NULL,Final,NULL,28,26,28,21,NULL,23,20,24,14,NULL,NBA
+66,400489643,2014,"Tue, Feb 11",Charlotte Bobcats,Dallas Mavericks,"23-29, 12-14 Home","31-22, 13-14 Away",114,89,NULL,NULL,Final,NULL,28,30,31,25,NULL,26,18,21,24,NULL,NBA
+67,400489671,2014,"Tue, Feb 18",Dallas Mavericks,Miami Heat,"32-23, 18-9 Home","38-14, 18-10 Away",106,117,NULL,NULL,Final,NULL,28,26,31,21,NULL,30,30,24,33,NULL,NBA
+68,400489701,2014,"Sat, Feb 22",Detroit Pistons,Dallas Mavericks,"23-33, 13-18 Home","34-23, 16-14 Away",102,113,NULL,NULL,Final,NULL,27,27,28,20,NULL,29,35,24,25,NULL,NBA
+69,400489729,2014,"Wed, Feb 26",Dallas Mavericks,New Orleans Pelicans,"36-23, 19-9 Home","23-34, 10-20 Away",108,89,NULL,NULL,Final,ESPN,20,29,29,30,NULL,27,16,24,22,NULL,NBA
+70,400489761,2014,"Sun, Mar 2",San Antonio Spurs,Dallas Mavericks,"43-16, 21-8 Home","36-25, 17-15 Away",112,106,NULL,NULL,Final,NBATV,25,23,30,34,NULL,22,25,23,36,NULL,NBA
+71,400489797,2014,"Fri, Mar 7",Dallas Mavericks,Portland Trail Blazers,"37-26, 20-10 Home","42-20, 18-12 Away",103,98,NULL,NULL,Final,NULL,33,24,18,28,NULL,10,28,36,24,NULL,NBA
+72,400489829,2014,"Tue, Mar 11",Golden State Warriors,Dallas Mavericks,"41-24, 21-10 Home","38-27, 17-17 Away",108,85,NULL,NULL,Final,NULL,29,26,24,29,NULL,22,22,13,28,NULL,NBA
+73,400489865,2014,"Sun, Mar 16",Oklahoma City Thunder,Dallas Mavericks,"48-18, 28-7 Home","40-27, 19-17 Away",86,109,NULL,NULL,Final,NULL,23,25,22,16,NULL,29,30,32,18,NULL,NBA
+74,400489887,2014,"Wed, Mar 19",Dallas Mavericks,Minnesota Timberwolves,"41-28, 22-11 Home","34-32, 15-19 Away",122,123,NULL,NULL,Final/OT,NULL,24,35,28,26,9,37,29,28,19,10,NBA
+75,400489917,2014,"Sun, Mar 23",Dallas Mavericks,Brooklyn Nets,"42-29, 23-12 Home","37-31, 14-20 Away",104,107,NULL,NULL,Final/OT,NULL,29,19,24,19,13,15,26,24,26,16,NBA
+76,400489947,2014,"Thu, Mar 27",Dallas Mavericks,LA Clippers,"43-30, 24-13 Home","51-22, 20-17 Away",103,109,NULL,NULL,Final,NULL,29,31,21,22,NULL,29,29,23,28,NULL,NBA
+77,400489985,2014,"Tue, Apr 1",Dallas Mavericks,Golden State Warriors,"44-31, 25-14 Home","46-28, 22-15 Away",120,122,NULL,NULL,Final/OT,NULL,21,41,19,27,12,30,23,32,23,14,NBA
+78,400490015,2014,"Fri, Apr 4",Los Angeles Lakers,Dallas Mavericks,"25-51, 14-24 Home","46-31, 21-17 Away",95,107,NULL,NULL,Final,NULL,23,31,24,17,NULL,27,25,30,25,NULL,NBA
+79,400490032,2014,"Tue, Apr 8",Utah Jazz,Dallas Mavericks,"24-54, 16-23 Home","48-31, 23-17 Away",83,95,NULL,NULL,Final,NULL,25,21,19,18,NULL,39,22,20,14,NULL,NBA
+80,400490068,2014,"Sat, Apr 12",Dallas Mavericks,Phoenix Suns,"49-32, 26-15 Home","47-33, 21-19 Away",101,98,NULL,NULL,Final,NBATV,27,19,29,26,NULL,26,31,21,20,NULL,NBA
+81,400490089,2014,"Wed, Apr 16",Memphis Grizzlies,Dallas Mavericks,"50-32, 27-14 Home","49-33, 23-18 Away",106,105,NULL,NULL,Final/OT,ESPN,29,22,24,18,13,24,29,20,20,12,NBA

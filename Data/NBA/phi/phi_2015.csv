@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,400578315,2015,"Fri, Oct 31",Milwaukee Bucks,Philadelphia 76ers,"1-1, 1-0 Home","0-2, 0-2 Away",93,81,NULL,NULL,Final,NULL,24,22,27,20,NULL,24,23,27,7,NULL,NBA
+1,400578335,2015,"Mon, Nov 3",Philadelphia 76ers,Houston Rockets,"0-4, 0-2 Home","4-0, 3-0 Away",93,104,NULL,NULL,Final,NULL,19,35,20,19,NULL,32,23,24,25,NULL,NBA
+2,400578365,2015,"Fri, Nov 7",Philadelphia 76ers,Chicago Bulls,"0-6, 0-4 Home","5-1, 4-0 Away",115,118,NULL,NULL,Final,NULL,28,29,19,39,NULL,33,24,35,26,NULL,NBA
+3,400578412,2015,"Thu, Nov 13",Dallas Mavericks,Philadelphia 76ers,"6-3, 4-1 Home","0-8, 0-4 Away",123,70,NULL,NULL,Final,NULL,38,35,22,28,NULL,10,19,24,17,NULL,NBA
+4,400578444,2015,"Mon, Nov 17",San Antonio Spurs,Philadelphia 76ers,"6-4, 3-1 Home","0-10, 0-6 Away",100,75,NULL,NULL,Final,NULL,30,16,27,27,NULL,13,21,23,18,NULL,NBA
+5,400578465,2015,"Fri, Nov 21",Philadelphia 76ers,Phoenix Suns,"0-12, 0-6 Home","8-5, 4-2 Away",96,122,NULL,NULL,Final,NULL,27,17,23,29,NULL,26,41,25,30,NULL,NBA
+6,400578492,2015,"Mon, Nov 24",Philadelphia 76ers,Portland Trail Blazers,"0-14, 0-7 Home","11-3, 3-2 Away",104,114,NULL,NULL,Final,NULL,20,32,28,24,NULL,24,26,39,25,NULL,NBA
+7,400578527,2015,"Sat, Nov 29",Philadelphia 76ers,Dallas Mavericks,"0-16, 0-9 Home","13-5, 6-3 Away",103,110,NULL,NULL,Final,NULL,26,25,35,17,NULL,28,30,32,20,NULL,NBA
+8,400578562,2015,"Wed, Dec 3",Minnesota Timberwolves,Philadelphia 76ers,"4-13, 2-6 Home","1-17, 1-7 Away",77,85,NULL,NULL,Final,NULL,13,21,22,21,NULL,23,9,25,28,NULL,NBA
+9,400578580,2015,"Sat, Dec 6",Detroit Pistons,Philadelphia 76ers,"3-17, 2-9 Home","2-18, 2-7 Away",101,108,NULL,NULL,Final/OT,NULL,28,23,31,18,1,30,24,23,23,8,NBA
+10,400578624,2015,"Fri, Dec 12",Brooklyn Nets,Philadelphia 76ers,"9-12, 5-6 Home","2-20, 2-9 Away",88,70,NULL,NULL,Final,NULL,22,22,19,25,NULL,18,27,15,10,NULL,NBA
+11,400578649,2015,"Mon, Dec 15",Philadelphia 76ers,Boston Celtics,"2-22, 0-13 Home","8-14, 3-6 Away",87,105,NULL,NULL,Final,NULL,25,13,26,23,NULL,30,27,31,17,NULL,NBA
+12,400578697,2015,"Sun, Dec 21",Orlando Magic,Philadelphia 76ers,"10-20, 3-8 Home","3-23, 3-9 Away",88,96,NULL,NULL,Final,NULL,20,22,18,28,NULL,23,14,27,32,NULL,NBA
+13,400578733,2015,"Fri, Dec 26",Portland Trail Blazers,Philadelphia 76ers,"24-7, 13-2 Home","4-24, 4-10 Away",114,93,NULL,NULL,Final,NULL,27,34,27,26,NULL,24,27,23,19,NULL,NBA
+14,400578766,2015,"Tue, Dec 30",Golden State Warriors,Philadelphia 76ers,"25-5, 12-1 Home","4-26, 4-12 Away",126,86,NULL,NULL,Final,NULL,32,29,35,30,NULL,17,17,29,23,NULL,NBA
+15,400578794,2015,"Sat, Jan 3",LA Clippers,Philadelphia 76ers,"23-11, 15-4 Home","4-28, 4-14 Away",127,91,NULL,NULL,Final,NULL,34,28,26,39,NULL,21,32,21,17,NULL,NBA
+16,400578816,2015,"Wed, Jan 7",Philadelphia 76ers,Milwaukee Bucks,"5-29, 1-15 Home","19-18, 12-10 Away",77,97,NULL,NULL,Final,NULL,11,28,21,17,NULL,27,26,24,20,NULL,NBA
+17,400578844,2015,"Sat, Jan 10",Philadelphia 76ers,Indiana Pacers,"7-29, 2-15 Home","15-24, 7-15 Away",93,92,NULL,NULL,Final,NULL,19,24,29,21,NULL,21,28,21,22,NULL,NBA
+18,400578870,2015,"Wed, Jan 14",Toronto Raptors,Philadelphia 76ers,"26-12, 16-5 Home","7-31, 5-15 Away",100,84,NULL,NULL,Final,NULL,34,16,21,29,NULL,19,27,15,23,NULL,NBA
+19,400578893,2015,"Sat, Jan 17",Detroit Pistons,Philadelphia 76ers,"16-25, 6-15 Home","8-32, 5-16 Away",107,89,NULL,NULL,Final,NULL,31,25,25,26,NULL,21,16,25,27,NULL,NBA
+20,400578919,2015,"Wed, Jan 21",Philadelphia 76ers,New York Knicks,"8-34, 3-17 Home","7-36, 3-19 Away",91,98,NULL,NULL,Final,NULL,18,24,20,29,NULL,18,31,25,24,NULL,NBA
+21,400578946,2015,"Sat, Jan 24",Memphis Grizzlies,Philadelphia 76ers,"31-12, 18-5 Home","8-36, 5-18 Away",101,83,NULL,NULL,Final,NULL,27,33,21,20,NULL,21,20,20,22,NULL,NBA
+22,400578974,2015,"Wed, Jan 28",Philadelphia 76ers,Detroit Pistons,"9-37, 4-18 Home","17-30, 10-14 Away",89,69,NULL,NULL,Final,NULL,28,20,20,21,NULL,16,21,18,14,NULL,NBA
+23,400579000,2015,"Sat, Jan 31",Atlanta Hawks,Philadelphia 76ers,"40-8, 23-3 Home","10-38, 5-20 Away",91,85,NULL,NULL,Final,NULL,22,27,22,20,NULL,10,24,32,19,NULL,NBA
+24,400579018,2015,"Tue, Feb 3",Philadelphia 76ers,Denver Nuggets,"11-39, 6-18 Home","19-30, 7-17 Away",105,98,NULL,NULL,Final,NULL,34,27,24,20,NULL,28,12,28,30,NULL,NBA
+25,400579053,2015,"Sat, Feb 7",Philadelphia 76ers,Charlotte Hornets,"12-40, 7-18 Home","22-28, 9-15 Away",89,81,NULL,NULL,Final,NULL,23,19,28,19,NULL,24,24,13,20,NULL,NBA
+26,400579096,2015,"Fri, Feb 20",Philadelphia 76ers,Indiana Pacers,"12-42, 7-20 Home","22-33, 11-19 Away",95,106,NULL,NULL,Final,NULL,16,24,28,27,NULL,23,35,29,19,NULL,NBA
+27,400579122,2015,"Mon, Feb 23",Miami Heat,Philadelphia 76ers,"24-31, 10-16 Home","12-44, 5-24 Away",119,108,NULL,NULL,Final,NULL,32,29,30,28,NULL,31,29,19,29,NULL,NBA
+28,400579149,2015,"Fri, Feb 27",Philadelphia 76ers,Washington Wizards,"13-45, 8-20 Home","33-26, 13-16 Away",89,81,NULL,NULL,Final,NULL,28,19,16,26,NULL,25,17,19,20,NULL,NBA
+29,400579177,2015,"Mon, Mar 2",Philadelphia 76ers,Toronto Raptors,"13-47, 8-21 Home","38-22, 17-12 Away",103,114,NULL,NULL,Final,NULL,22,27,27,27,NULL,26,29,28,31,NULL,NBA
+30,400579206,2015,"Fri, Mar 6",Philadelphia 76ers,Utah Jazz,"13-49, 8-22 Home","25-36, 12-20 Away",83,89,NULL,NULL,Final,NULL,24,18,13,28,NULL,21,20,23,25,NULL,NBA
+31,400579245,2015,"Wed, Mar 11",Philadelphia 76ers,Chicago Bulls,"14-50, 9-23 Home","40-26, 20-12 Away",95,104,NULL,NULL,Final/OT,NULL,22,29,12,29,3,22,29,21,20,12,NBA
+32,400579270,2015,"Sat, Mar 14",Philadelphia 76ers,Brooklyn Nets,"15-51, 10-24 Home","26-38, 15-19 Away",87,94,NULL,NULL,Final,NULL,29,27,10,21,NULL,27,24,23,20,NULL,NBA
+33,400579298,2015,"Wed, Mar 18",Philadelphia 76ers,Detroit Pistons,"16-52, 11-24 Home","24-44, 11-23 Away",94,83,NULL,NULL,Final,NULL,24,25,19,26,NULL,21,18,26,18,NULL,NBA
+34,400579339,2015,"Sun, Mar 22",Los Angeles Lakers,Philadelphia 76ers,"18-50, 11-24 Home","17-53, 5-29 Away",101,87,NULL,NULL,Final,NULL,18,23,33,27,NULL,20,27,28,12,NULL,NBA
+35,400579361,2015,"Wed, Mar 25",Denver Nuggets,Philadelphia 76ers,"27-45, 16-20 Home","18-54, 6-30 Away",85,99,NULL,NULL,Final,NULL,21,25,30,9,NULL,22,27,23,27,NULL,NBA
+36,400579384,2015,"Sun, Mar 29",Cleveland Cavaliers,Philadelphia 76ers,"48-27, 27-9 Home","18-56, 6-31 Away",87,86,NULL,NULL,Final,NULL,26,27,19,15,NULL,20,25,24,17,NULL,NBA
+37,400579406,2015,"Wed, Apr 1",Washington Wizards,Philadelphia 76ers,"42-33, 27-12 Home","18-58, 6-32 Away",106,93,NULL,NULL,Final,NULL,31,34,28,13,NULL,21,21,20,31,NULL,NBA
+38,400579443,2015,"Sun, Apr 5",New York Knicks,Philadelphia 76ers,"15-62, 10-28 Home","18-60, 6-34 Away",101,91,NULL,NULL,Final,NULL,26,28,25,22,NULL,20,31,21,19,NULL,NBA
+39,400579481,2015,"Sat, Apr 11",Chicago Bulls,Philadelphia 76ers,"48-32, 26-14 Home","18-62, 6-35 Away",114,107,NULL,NULL,Final,NULL,28,24,29,33,NULL,26,27,25,29,NULL,NBA
+40,400578297,2015,"Wed, Oct 29",Indiana Pacers,Philadelphia 76ers,"1-0, 1-0 Home","0-1, 0-1 Away",103,91,NULL,NULL,Final,NULL,26,22,30,25,NULL,24,27,22,18,NULL,NBA
+41,400578322,2015,"Sat, Nov 1",Philadelphia 76ers,Miami Heat,"0-3, 0-1 Home","2-0, 1-0 Away",96,114,NULL,NULL,Final,NULL,30,24,29,13,NULL,32,28,27,27,NULL,NBA
+42,400578350,2015,"Wed, Nov 5",Philadelphia 76ers,Orlando Magic,"0-5, 0-3 Home","1-4, 1-2 Away",89,91,NULL,NULL,Final,NULL,28,24,23,14,NULL,26,26,23,16,NULL,NBA
+43,400578385,2015,"Sun, Nov 9",Toronto Raptors,Philadelphia 76ers,"6-1, 4-0 Home","0-7, 0-3 Away",120,88,NULL,NULL,Final,NBATV,33,27,28,32,NULL,20,25,18,25,NULL,NBA
+44,400578419,2015,"Fri, Nov 14",Houston Rockets,Philadelphia 76ers,"8-1, 3-1 Home","0-9, 0-5 Away",88,87,NULL,NULL,Final,NULL,19,28,16,25,NULL,28,19,21,19,NULL,NBA
+45,400578454,2015,"Wed, Nov 19",Philadelphia 76ers,Boston Celtics,"0-11, 0-5 Home","4-6, 2-2 Away",90,101,NULL,NULL,Final,NULL,27,19,22,22,NULL,22,24,27,28,NULL,NBA
+46,400578479,2015,"Sat, Nov 22",New York Knicks,Philadelphia 76ers,"4-10, 3-5 Home","0-13, 0-7 Away",91,83,NULL,NULL,Final,NULL,25,21,25,20,NULL,13,26,15,29,NULL,NBA
+47,400578505,2015,"Wed, Nov 26",Philadelphia 76ers,Brooklyn Nets,"0-15, 0-8 Home","6-8, 3-5 Away",91,99,NULL,NULL,Final,NULL,19,22,26,24,NULL,32,17,23,27,NULL,NBA
+48,400578541,2015,"Mon, Dec 1",Philadelphia 76ers,San Antonio Spurs,"0-17, 0-10 Home","13-4, 7-3 Away",103,109,NULL,NULL,Final,NULL,20,26,27,30,NULL,27,34,23,25,NULL,NBA
+49,400578569,2015,"Fri, Dec 5",Philadelphia 76ers,Oklahoma City Thunder,"1-18, 0-11 Home","6-13, 2-8 Away",91,103,NULL,NULL,Final,NBATV,24,23,20,24,NULL,31,26,25,21,NULL,NBA
+50,400578611,2015,"Wed, Dec 10",Atlanta Hawks,Philadelphia 76ers,"15-6, 10-2 Home","2-19, 2-8 Away",95,79,NULL,NULL,Final,NULL,25,22,21,27,NULL,21,17,20,21,NULL,NBA
+51,400578637,2015,"Sat, Dec 13",Philadelphia 76ers,Memphis Grizzlies,"2-21, 0-12 Home","19-4, 8-3 Away",115,120,NULL,NULL,Final/OT,NULL,28,22,30,29,6,21,22,25,41,11,NBA
+52,400578676,2015,"Fri, Dec 19",Philadelphia 76ers,Charlotte Hornets,"2-23, 0-14 Home","7-19, 2-10 Away",91,109,NULL,NULL,Final,NULL,26,20,26,19,NULL,37,29,19,24,NULL,NBA
+53,400578714,2015,"Tue, Dec 23",Miami Heat,Philadelphia 76ers,"13-16, 5-10 Home","4-23, 4-9 Away",87,91,NULL,NULL,Final,NULL,32,25,21,9,NULL,19,23,31,18,NULL,NBA
+54,400578742,2015,"Sat, Dec 27",Utah Jazz,Philadelphia 76ers,"10-20, 5-9 Home","4-25, 4-11 Away",88,71,NULL,NULL,Final,NULL,25,19,15,29,NULL,12,20,23,16,NULL,NBA
+55,400578783,2015,"Fri, Jan 2",Phoenix Suns,Philadelphia 76ers,"19-16, 8-7 Home","4-27, 4-13 Away",112,96,NULL,NULL,Final,NULL,34,23,27,28,NULL,29,30,20,17,NULL,NBA
+56,400578801,2015,"Mon, Jan 5",Philadelphia 76ers,Cleveland Cavaliers,"5-28, 1-14 Home","19-16, 8-8 Away",95,92,NULL,NULL,Final,NULL,19,18,23,35,NULL,20,30,18,24,NULL,NBA
+57,400578831,2015,"Fri, Jan 9",Brooklyn Nets,Philadelphia 76ers,"16-20, 8-11 Home","6-29, 5-14 Away",88,90,NULL,NULL,Final,NULL,32,14,25,17,NULL,23,22,19,26,NULL,NBA
+58,400578860,2015,"Tue, Jan 13",Philadelphia 76ers,Atlanta Hawks,"7-30, 2-16 Home","30-8, 14-5 Away",87,105,NULL,NULL,Final,NULL,20,17,18,32,NULL,25,24,25,31,NULL,NBA
+59,400578881,2015,"Fri, Jan 16",Philadelphia 76ers,New Orleans Pelicans,"8-31, 3-16 Home","19-20, 7-15 Away",96,81,NULL,NULL,Final,NULL,33,17,23,23,NULL,22,25,12,22,NULL,NBA
+60,400578904,2015,"Mon, Jan 19",Washington Wizards,Philadelphia 76ers,"29-13, 18-5 Home","8-33, 5-17 Away",111,76,NULL,NULL,Final,NULL,27,28,30,26,NULL,14,18,26,18,NULL,NBA
+61,400578933,2015,"Fri, Jan 23",Philadelphia 76ers,Toronto Raptors,"8-35, 3-18 Home","28-15, 12-8 Away",86,91,NULL,NULL,Final,NULL,30,11,21,24,NULL,22,26,15,28,NULL,NBA
+62,400578963,2015,"Mon, Jan 26",New Orleans Pelicans,Philadelphia 76ers,"24-21, 15-5 Home","8-37, 5-19 Away",99,74,NULL,NULL,Final,NULL,30,22,33,14,NULL,19,24,19,12,NULL,NBA
+63,400578988,2015,"Fri, Jan 30",Philadelphia 76ers,Minnesota Timberwolves,"10-37, 5-18 Home","8-38, 4-20 Away",103,94,NULL,NULL,Final,NULL,26,35,17,25,NULL,28,31,18,17,NULL,NBA
+64,400579010,2015,"Mon, Feb 2",Cleveland Cavaliers,Philadelphia 76ers,"30-20, 18-9 Home","10-39, 5-21 Away",97,84,NULL,NULL,Final,NULL,24,23,22,28,NULL,15,20,30,19,NULL,NBA
+65,400579042,2015,"Fri, Feb 6",Boston Celtics,Philadelphia 76ers,"19-30, 11-15 Home","11-40, 5-22 Away",107,96,NULL,NULL,Final,NULL,29,31,15,32,NULL,15,27,27,27,NULL,NBA
+66,400579067,2015,"Mon, Feb 9",Philadelphia 76ers,Golden State Warriors,"12-41, 7-19 Home","41-9, 18-7 Away",84,89,NULL,NULL,Final,NULL,24,20,17,23,NULL,20,26,21,22,NULL,NBA
+67,400579117,2015,"Sun, Feb 22",Orlando Magic,Philadelphia 76ers,"19-39, 9-18 Home","12-43, 5-23 Away",103,98,NULL,NULL,Final,NULL,29,26,21,27,NULL,23,24,22,29,NULL,NBA
+68,400579139,2015,"Wed, Feb 25",Milwaukee Bucks,Philadelphia 76ers,"32-25, 17-11 Home","12-45, 5-25 Away",104,88,NULL,NULL,Final,NULL,29,32,21,22,NULL,12,20,28,28,NULL,NBA
+69,400579173,2015,"Sun, Mar 1",Indiana Pacers,Philadelphia 76ers,"25-34, 14-14 Home","13-46, 5-26 Away",94,74,NULL,NULL,Final,NULL,27,32,14,21,NULL,24,22,18,10,NULL,NBA
+70,400579196,2015,"Wed, Mar 4",Oklahoma City Thunder,Philadelphia 76ers,"34-27, 20-8 Home","13-48, 5-27 Away",123,118,NULL,NULL,Final/OT,NULL,37,19,28,26,13,34,25,31,20,8,NBA
+71,400579219,2015,"Sat, Mar 7",Philadelphia 76ers,Atlanta Hawks,"14-49, 9-22 Home","49-13, 20-9 Away",92,84,NULL,NULL,Final,NULL,20,27,25,20,NULL,31,22,16,15,NULL,NBA
+72,400579260,2015,"Fri, Mar 13",Philadelphia 76ers,Sacramento Kings,"15-50, 10-23 Home","22-42, 9-23 Away",114,107,NULL,NULL,Final,NULL,29,22,37,26,NULL,22,42,18,25,NULL,NBA
+73,400579284,2015,"Mon, Mar 16",Boston Celtics,Philadelphia 76ers,"30-36, 18-16 Home","15-52, 5-28 Away",108,89,NULL,NULL,Final,NULL,38,19,32,19,NULL,18,16,34,21,NULL,NBA
+74,400579313,2015,"Fri, Mar 20",Philadelphia 76ers,New York Knicks,"17-52, 12-24 Home","14-55, 5-31 Away",97,81,NULL,NULL,Final,NULL,29,25,26,17,NULL,23,25,18,15,NULL,NBA
+75,400579350,2015,"Tue, Mar 24",Sacramento Kings,Philadelphia 76ers,"25-45, 16-21 Home","17-54, 5-30 Away",107,106,NULL,NULL,Final,NULL,27,36,24,20,NULL,31,39,14,22,NULL,NBA
+76,400579367,2015,"Fri, Mar 27",Philadelphia 76ers,LA Clippers,"18-55, 12-25 Home","48-25, 21-15 Away",98,119,NULL,NULL,Final,NULL,19,35,14,30,NULL,34,28,32,25,NULL,NBA
+77,400579394,2015,"Mon, Mar 30",Philadelphia 76ers,Los Angeles Lakers,"18-57, 12-26 Home","20-53, 9-29 Away",111,113,NULL,NULL,Final/OT,NULL,28,22,21,31,9,17,34,25,26,11,NBA
+78,400579429,2015,"Sat, Apr 4",Charlotte Hornets,Philadelphia 76ers,"33-43, 19-20 Home","18-59, 6-33 Away",92,91,NULL,NULL,Final,NULL,19,30,23,20,NULL,16,35,18,22,NULL,NBA
+79,400579454,2015,"Wed, Apr 8",Philadelphia 76ers,Washington Wizards,"18-61, 12-27 Home","45-33, 17-21 Away",90,119,NULL,NULL,Final,NULL,24,30,23,13,NULL,35,35,25,24,NULL,NBA
+80,400579496,2015,"Mon, Apr 13",Philadelphia 76ers,Milwaukee Bucks,"18-63, 12-28 Home","41-40, 18-23 Away",97,107,NULL,NULL,Final,NULL,31,27,20,19,NULL,24,28,28,27,NULL,NBA
+81,400579519,2015,"Wed, Apr 15",Philadelphia 76ers,Miami Heat,"18-64, 12-29 Home","37-45, 17-24 Away",101,105,NULL,NULL,Final,NULL,23,23,25,30,NULL,29,35,11,30,NULL,NBA

@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,401160660,2020,"Fri, Oct 25",Charlotte Hornets,Minnesota Timberwolves,"1-1, 1-1 Home","2-0, 2-0 Away",99,121,MIN -5.0,225,Final,NULL,32,24,25,18,NULL,30,28,45,18,NULL,NBA
+1,401160699,2020,"Wed, Oct 30",Philadelphia 76ers,Minnesota Timberwolves,"4-0, 2-0 Home","3-1, 2-1 Away",117,95,PHI -7.5,223,Final,NULL,32,30,30,25,NULL,24,19,35,17,NULL,NBA
+2,401160736,2020,"Mon, Nov 4",Minnesota Timberwolves,Milwaukee Bucks,"4-2, 1-1 Home","5-2, 3-1 Away",106,134,MIL -7.5,230,Final,NULL,27,30,25,24,NULL,31,33,38,32,NULL,NBA
+3,401160762,2020,"Fri, Nov 8",Minnesota Timberwolves,Golden State Warriors,"5-3, 2-1 Home","2-7, 1-3 Away",125,119,MIN -11.5,228,Final/OT,NULL,29,31,20,30,15,31,30,25,24,9,NBA
+4,401160782,2020,"Mon, Nov 11",Detroit Pistons,Minnesota Timberwolves,"4-7, 3-3 Home","6-4, 4-2 Away",114,120,DET -4.0,223,Final,NULL,26,25,30,33,NULL,41,25,26,28,NULL,NBA
+5,401160813,2020,"Fri, Nov 15",Minnesota Timberwolves,Washington Wizards,"7-5, 3-3 Home","3-7, 2-4 Away",116,137,MIN -5.5,240,Final,NULL,30,43,19,24,NULL,39,37,26,35,NULL,NBA
+6,401160838,2020,"Mon, Nov 18",Utah Jazz,Minnesota Timberwolves,"8-5, 6-1 Home","8-6, 5-2 Away",102,112,UTAH -9.5,220,Final,NULL,32,24,22,24,NULL,36,23,17,36,NULL,NBA
+7,401160867,2020,"Sat, Nov 23",Minnesota Timberwolves,Phoenix Suns,"8-8, 3-6 Home","8-7, 3-2 Away",98,100,MIN -4.5,235,Final,NULL,23,22,28,25,NULL,30,22,30,18,NULL,NBA
+8,401160904,2020,"Wed, Nov 27",San Antonio Spurs,Minnesota Timberwolves,"6-13, 4-6 Home","10-8, 7-2 Away",101,113,SA -3.0,231,Final,NULL,24,23,31,23,NULL,22,35,24,32,NULL,NBA
+9,401160955,2020,"Wed, Dec 4",Dallas Mavericks,Minnesota Timberwolves,"15-6, 7-4 Home","10-10, 7-3 Away",121,114,DAL -5.5,229,Final,NULL,30,23,27,41,NULL,25,31,28,30,NULL,NBA
+10,401160984,2020,"Sun, Dec 8",Los Angeles Lakers,Minnesota Timberwolves,"21-3, 10-2 Home","10-12, 7-5 Away",142,125,LAL -10.0,228,Final,NULL,39,34,37,32,NULL,31,34,38,22,NULL,NBA
+11,401161004,2020,"Wed, Dec 11",Minnesota Timberwolves,Utah Jazz,"10-14, 3-8 Home","14-11, 5-8 Away",116,127,MIN -1.0,222,Final,NULL,23,36,24,33,NULL,25,34,38,30,NULL,NBA
+12,401161053,2020,"Wed, Dec 18",Minnesota Timberwolves,New Orleans Pelicans,"10-16, 3-10 Home","7-22, 3-11 Away",99,107,MIN -3.5,229,Final,NULL,25,25,22,27,NULL,32,31,24,20,NULL,NBA
+13,401161080,2020,"Sat, Dec 21",Portland Trail Blazers,Minnesota Timberwolves,"14-16, 8-6 Home","10-18, 7-8 Away",113,106,POR -7.0,227,Final,NULL,27,34,22,30,NULL,23,29,28,26,NULL,NBA
+14,401161106,2020,"Thu, Dec 26",Sacramento Kings,Minnesota Timberwolves,"12-19, 6-7 Home","11-19, 8-9 Away",104,105,SAC -7.0,221,Final/2OT,NULL,26,22,31,11,14,21,29,21,19,15,NBA
+15,401161136,2020,"Mon, Dec 30",Minnesota Timberwolves,Brooklyn Nets,"12-20, 4-11 Home","16-16, 7-10 Away",122,115,BKN -4.5,217,Final/OT,NULL,27,22,25,29,19,29,21,30,23,12,NBA
+16,401161154,2020,"Thu, Jan 2",Minnesota Timberwolves,Golden State Warriors,"13-21, 5-11 Home","9-27, 3-16 Away",99,84,MIN -2.5,212,Final,NBATV,34,24,23,18,NULL,19,22,26,17,NULL,NBA
+17,401161193,2020,"Tue, Jan 7",Memphis Grizzlies,Minnesota Timberwolves,"16-22, 8-12 Home","14-22, 9-11 Away",119,112,MEM -4.5,228,Final,NULL,27,24,31,37,NULL,32,24,28,28,NULL,NBA
+18,401161219,2020,"Sat, Jan 11",Houston Rockets,Minnesota Timberwolves,"26-12, 14-4 Home","15-23, 9-12 Away",139,109,HOU -10.0,233,Final,NULL,22,35,45,37,NULL,20,21,35,33,NULL,NBA
+19,401161250,2020,"Wed, Jan 15",Minnesota Timberwolves,Indiana Pacers,"15-25, 6-13 Home","26-15, 10-10 Away",99,104,IND -4.5,218,Final,NULL,30,29,18,22,NULL,24,30,22,28,NULL,NBA
+20,401161274,2020,"Sat, Jan 18",Minnesota Timberwolves,Toronto Raptors,"15-27, 6-14 Home","28-14, 13-7 Away",112,122,TOR -4.5,225,Final,NULL,39,23,22,28,NULL,32,26,31,33,NULL,NBA
+21,401161303,2020,"Wed, Jan 22",Chicago Bulls,Minnesota Timberwolves,"17-29, 10-14 Home","15-29, 9-14 Away",117,110,CHI -1.0,220,Final,NULL,35,24,22,36,NULL,26,26,27,31,NULL,NBA
+22,401161325,2020,"Sat, Jan 25",Minnesota Timberwolves,Oklahoma City Thunder,"15-31, 6-17 Home","28-19, 13-10 Away",104,113,MIN -2.0,226,Final,NULL,22,26,24,32,NULL,28,24,39,22,NULL,NBA
+23,401161369,2020,"Sat, Feb 1",LA Clippers,Minnesota Timberwolves,"34-15, 20-5 Home","15-33, 9-15 Away",118,106,LAC -10.5,231,Final,NULL,40,22,36,20,NULL,32,23,31,20,NULL,NBA
+24,401161401,2020,"Wed, Feb 5",Minnesota Timberwolves,Atlanta Hawks,"15-35, 6-19 Home","14-38, 6-21 Away",120,127,MIN -4.5,239,Final,NULL,24,32,21,43,NULL,36,28,32,31,NULL,NBA
+25,401161438,2020,"Mon, Feb 10",Toronto Raptors,Minnesota Timberwolves,"40-14, 21-7 Home","16-36, 9-17 Away",137,126,TOR -8.5,234,Final,NULL,40,34,32,31,NULL,36,39,19,32,NULL,NBA
+26,401161472,2020,"Fri, Feb 21",Minnesota Timberwolves,Boston Celtics,"16-38, 7-21 Home","39-16, 16-11 Away",117,127,BOS -8.5,227,Final,NULL,20,33,35,29,NULL,24,37,34,32,NULL,NBA
+27,401161496,2020,"Mon, Feb 24",Dallas Mavericks,Minnesota Timberwolves,"35-23, 16-14 Home","16-40, 9-19 Away",139,123,DAL -13.5,239,Final,NULL,41,40,29,29,NULL,27,38,31,27,NULL,NBA
+28,401161519,2020,"Fri, Feb 28",Orlando Magic,Minnesota Timberwolves,"27-32, 16-14 Home","17-41, 10-20 Away",136,125,ORL -8.0,234,Final,NULL,35,34,34,33,NULL,35,30,31,29,NULL,NBA
+29,401161553,2020,"Tue, Mar 3",New Orleans Pelicans,Minnesota Timberwolves,"26-35, 12-19 Home","18-42, 11-20 Away",134,139,NO -11.0,247,Final,NULL,31,37,43,23,NULL,28,44,37,30,NULL,NBA
+30,401161577,2020,"Fri, Mar 6",Minnesota Timberwolves,Orlando Magic,"19-43, 8-23 Home","28-35, 12-20 Away",118,132,ORL -2.5,234,Final,NULL,24,31,28,35,NULL,29,36,37,30,NULL,NBA
+31,401161605,2020,"Tue, Mar 10",Houston Rockets,Minnesota Timberwolves,"40-24, 22-10 Home","19-45, 11-21 Away",117,111,HOU -12.5,250,Final,NULL,26,26,31,34,NULL,35,21,24,31,NULL,NBA
+32,NULL,2020,"Sat, Mar 14",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NBA
+33,NULL,2020,"Wed, Mar 18",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NBA
+34,NULL,2020,"Sun, Mar 22",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NBA
+35,NULL,2020,"Thu, Mar 26",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NBA
+36,NULL,2020,"Mon, Mar 30",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NBA
+37,NULL,2020,"Fri, Apr 3",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NBA
+38,NULL,2020,"Tue, Apr 7",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NBA
+39,NULL,2020,"Sun, Apr 12",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NBA
+40,401160628,2020,"Wed, Oct 23",Brooklyn Nets,Minnesota Timberwolves,"0-1, 0-1 Home","1-0, 1-0 Away",126,127,BKN -3.0,230,Final/OT,NULL,22,34,37,22,11,33,35,20,27,12,NBA
+41,401160681,2020,"Sun, Oct 27",Minnesota Timberwolves,Miami Heat,"3-0, 1-0 Home","2-1, 1-1 Away",116,109,MIN -6.5,224,Final,NULL,36,19,22,39,NULL,23,34,27,25,NULL,NBA
+42,401160722,2020,"Sat, Nov 2",Washington Wizards,Minnesota Timberwolves,"1-4, 0-2 Home","4-1, 3-1 Away",109,131,WSH -3.0,229,Final,NULL,34,22,16,37,NULL,42,28,36,25,NULL,NBA
+43,401160750,2020,"Wed, Nov 6",Memphis Grizzlies,Minnesota Timberwolves,"2-5, 2-3 Home","4-3, 3-2 Away",137,121,MIN -3.5,225,Final,NULL,37,35,29,36,NULL,26,38,32,25,NULL,NBA
+44,401160774,2020,"Sun, Nov 10",Minnesota Timberwolves,Denver Nuggets,"5-4, 2-2 Home","7-2, 4-1 Away",98,100,DEN -3.5,219,Final/OT,NULL,27,24,13,26,8,27,22,27,14,10,NBA
+45,401160800,2020,"Wed, Nov 13",Minnesota Timberwolves,San Antonio Spurs,"7-4, 3-2 Home","5-6, 1-3 Away",129,114,MIN -2.0,228,Final,NULL,26,40,40,23,NULL,24,35,36,19,NULL,NBA
+46,401160821,2020,"Sat, Nov 16",Minnesota Timberwolves,Houston Rockets,"7-6, 3-4 Home","10-3, 5-2 Away",105,125,MIN -2.0,231,Final,NULL,30,32,23,20,NULL,31,33,29,32,NULL,NBA
+47,401160852,2020,"Wed, Nov 20",Minnesota Timberwolves,Utah Jazz,"8-7, 3-5 Home","9-5, 3-4 Away",95,103,UTAH -3.0,223,Final,NULL,19,27,22,27,NULL,26,22,25,30,NULL,NBA
+48,401160885,2020,"Mon, Nov 25",Atlanta Hawks,Minnesota Timberwolves,"4-13, 2-7 Home","9-8, 6-2 Away",113,125,MIN -4.0,236,Final,NULL,30,34,26,23,NULL,38,16,39,32,NULL,NBA
+49,401160928,2020,"Sun, Dec 1",Minnesota Timberwolves,Memphis Grizzlies,"10-9, 3-7 Home","6-13, 3-4 Away",107,115,MIN -12.0,231,Final,NULL,21,26,32,28,NULL,25,23,38,29,NULL,NBA
+50,401160968,2020,"Fri, Dec 6",Oklahoma City Thunder,Minnesota Timberwolves,"9-12, 7-5 Home","10-11, 7-4 Away",139,127,OKC -4.0,219,Final/OT,NULL,30,23,41,28,17,27,31,39,25,5,NBA
+51,401160991,2020,"Mon, Dec 9",Phoenix Suns,Minnesota Timberwolves,"11-12, 6-7 Home","10-13, 7-6 Away",125,109,PHX -3.5,234,Final,NULL,33,28,33,31,NULL,31,33,21,24,NULL,NBA
+52,401161019,2020,"Fri, Dec 13",Minnesota Timberwolves,LA Clippers,"10-15, 3-9 Home","20-7, 7-6 Away",117,124,LAC -4.5,229,Final,ESPN,29,29,23,36,NULL,33,32,37,22,NULL,NBA
+53,401161069,2020,"Fri, Dec 20",Denver Nuggets,Minnesota Timberwolves,"19-8, 13-3 Home","10-17, 7-7 Away",109,100,DEN -10.5,216,Final,NULL,33,28,21,27,NULL,20,31,24,25,NULL,NBA
+54,401161096,2020,"Mon, Dec 23",Golden State Warriors,Minnesota Timberwolves,"7-24, 4-10 Home","10-19, 7-9 Away",113,104,GS -1.0,223,Final,NULL,22,35,27,29,NULL,22,21,24,37,NULL,NBA
+55,401161121,2020,"Sat, Dec 28",Minnesota Timberwolves,Cleveland Cavaliers,"11-20, 3-11 Home","10-22, 4-12 Away",88,94,MIN -6.0,218,Final,NULL,21,22,17,28,NULL,27,22,18,27,NULL,NBA
+56,401161148,2020,"Wed, Jan 1",Milwaukee Bucks,Minnesota Timberwolves,"53-12, 28-3 Home","19-45, 11-21 Away",106,104,MIL -18.5,222,Final,NULL,19,33,25,29,NULL,23,28,20,33,NULL,NBA
+57,401161178,2020,"Sun, Jan 5",Cleveland Cavaliers,Minnesota Timberwolves,"10-26, 6-13 Home","14-21, 9-10 Away",103,118,MIN -6.0,218,Final,NULL,20,28,31,24,NULL,24,42,28,24,NULL,NBA
+58,401161207,2020,"Thu, Jan 9",Minnesota Timberwolves,Portland Trail Blazers,"15-22, 6-11 Home","16-23, 8-14 Away",116,102,POR -1.0,224,Final,NULL,28,31,41,16,NULL,34,13,27,28,NULL,NBA
+59,401161236,2020,"Mon, Jan 13",Minnesota Timberwolves,Oklahoma City Thunder,"15-24, 6-12 Home","23-17, 10-10 Away",104,117,OKC -2.0,219,Final,NULL,33,27,19,25,NULL,30,33,29,25,NULL,NBA
+60,401161261,2020,"Fri, Jan 17",Indiana Pacers,Minnesota Timberwolves,"27-15, 17-5 Home","15-26, 9-13 Away",116,114,IND -6.5,219,Final,NULL,32,35,32,17,NULL,26,35,32,21,NULL,NBA
+61,401161291,2020,"Mon, Jan 20",Minnesota Timberwolves,Denver Nuggets,"15-28, 6-15 Home","30-13, 13-7 Away",100,107,MIN -3.5,221,Final,NULL,29,25,25,21,NULL,26,29,26,26,NULL,NBA
+62,401161317,2020,"Fri, Jan 24",Minnesota Timberwolves,Houston Rockets,"15-30, 6-16 Home","28-16, 13-9 Away",124,131,HOU -6.0,235,Final,NULL,26,34,24,40,NULL,36,27,31,37,NULL,NBA
+63,401161338,2020,"Mon, Jan 27",Minnesota Timberwolves,Sacramento Kings,"15-32, 6-18 Home","17-29, 9-16 Away",129,133,MIN -3.0,224,Final/OT,NULL,37,31,29,22,10,24,26,28,41,14,NBA
+64,401161391,2020,"Mon, Feb 3",Sacramento Kings,Minnesota Timberwolves,"19-31, 9-15 Home","15-34, 9-16 Away",113,109,SAC -1.0,226,Final,NULL,29,36,28,20,NULL,20,30,34,25,NULL,NBA
+65,401161424,2020,"Sat, Feb 8",Minnesota Timberwolves,LA Clippers,"16-35, 7-19 Home","36-16, 14-11 Away",142,115,LAC -10.0,233,Final,NULL,40,41,31,30,NULL,31,28,29,27,NULL,NBA
+66,401161455,2020,"Wed, Feb 12",Minnesota Timberwolves,Charlotte Hornets,"16-37, 7-20 Home","18-36, 10-19 Away",108,115,MIN -6.0,225,Final,NULL,36,30,21,21,NULL,28,22,31,34,NULL,NBA
+67,401161486,2020,"Sun, Feb 23",Denver Nuggets,Minnesota Timberwolves,"39-18, 22-7 Home","16-39, 9-18 Away",128,116,DEN -14.5,221,Final,NBATV,43,30,24,31,NULL,38,27,22,29,NULL,NBA
+68,401161510,2020,"Wed, Feb 26",Miami Heat,Minnesota Timberwolves,"36-22, 23-4 Home","17-40, 10-19 Away",126,129,MIA -11.5,234,Final,NULL,28,32,34,32,NULL,29,28,38,34,NULL,NBA
+69,401161538,2020,"Sun, Mar 1",Minnesota Timberwolves,Dallas Mavericks,"17-42, 7-22 Home","37-24, 21-10 Away",91,111,DAL -5.5,243,Final,NULL,24,20,21,26,NULL,28,35,18,30,NULL,NBA
+70,401161564,2020,"Wed, Mar 4",Minnesota Timberwolves,Chicago Bulls,"19-42, 8-22 Home","21-41, 8-22 Away",115,108,MIN -1.5,232,Final,NULL,22,33,33,27,NULL,29,29,21,29,NULL,NBA
+71,401161589,2020,"Sun, Mar 8",Minnesota Timberwolves,New Orleans Pelicans,"19-44, 8-24 Home","28-36, 15-17 Away",107,120,NO -7.0,248,Final,NULL,29,34,21,23,NULL,36,35,27,22,NULL,NBA
+72,NULL,2020,"Fri, Mar 13",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NBA
+73,NULL,2020,"Tue, Mar 17",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NBA
+74,NULL,2020,"Fri, Mar 20",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NBA
+75,NULL,2020,"Tue, Mar 24",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NBA
+76,NULL,2020,"Sun, Mar 29",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NBA
+77,NULL,2020,"Wed, Apr 1",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NBA
+78,NULL,2020,"Sun, Apr 5",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NBA
+79,NULL,2020,"Thu, Apr 9",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NBA
+80,NULL,2020,"Mon, Apr 13",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NBA
+81,NULL,2020,"Wed, Apr 15",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NBA

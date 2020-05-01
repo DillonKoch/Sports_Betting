@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,241103003,2005,"Wed, Nov 3",New Orleans Hornets,Dallas Mavericks,"0-1, 0-1 Home","2-0, 1-0 Away",91,106,NULL,NULL,Final,NULL,19,26,24,22,NULL,27,27,29,23,NULL,NBA
+1,241108006,2005,"Mon, Nov 8",Dallas Mavericks,Golden State Warriors,"4-0, 3-0 Home","0-4, 0-1 Away",101,98,NULL,NULL,Final/OT,NULL,19,25,24,20,13,33,24,10,21,10,NBA
+2,241111014,2005,"Thu, Nov 11",Miami Heat,Dallas Mavericks,"4-1, 2-1 Home","5-1, 2-1 Away",93,113,NULL,NULL,Final,NULL,19,38,25,11,NULL,34,37,24,18,NULL,NBA
+3,241114027,2005,"Sun, Nov 14",Washington Wizards,Dallas Mavericks,"3-4, 1-2 Home","7-1, 4-1 Away",113,122,NULL,NULL,Final,NULL,30,24,35,24,NULL,28,35,26,33,NULL,NBA
+4,241119006,2005,"Fri, Nov 19",Dallas Mavericks,New York Knicks,"8-2, 4-1 Home","3-5, 1-4 Away",103,101,NULL,NULL,Final,NULL,25,25,25,28,NULL,28,19,22,32,NULL,NBA
+5,241122006,2005,"Mon, Nov 22",Dallas Mavericks,Minnesota Timberwolves,"8-4, 4-2 Home","6-3, 3-2 Away",82,83,NULL,NULL,Final,NULL,29,14,19,20,NULL,20,20,22,21,NULL,NBA
+6,241126006,2005,"Fri, Nov 26",Dallas Mavericks,Portland Trail Blazers,"9-5, 5-2 Home","6-6, 3-4 Away",92,83,NULL,NULL,Final,NULL,26,17,25,24,NULL,18,20,27,18,NULL,NBA
+7,241130006,2005,"Tue, Nov 30",Dallas Mavericks,San Antonio Spurs,"10-6, 5-3 Home","12-3, 6-3 Away",89,107,NULL,NULL,Final,NULL,14,26,25,24,NULL,26,24,19,38,NULL,NBA
+8,241204006,2005,"Sat, Dec 4",Dallas Mavericks,Utah Jazz,"12-6, 7-3 Home","8-9, 4-5 Away",109,86,NULL,NULL,Final,NULL,24,23,28,34,NULL,20,21,27,18,NULL,NBA
+9,241207016,2005,"Tue, Dec 7",Minnesota Timberwolves,Dallas Mavericks,"11-6, 4-3 Home","13-7, 6-3 Away",87,97,NULL,NULL,Final,NULL,28,18,18,23,NULL,28,22,21,26,NULL,NBA
+10,241211010,2005,"Sat, Dec 11",Houston Rockets,Dallas Mavericks,"9-12, 5-6 Home","14-8, 7-3 Away",78,102,NULL,NULL,Final,NULL,15,26,17,20,NULL,28,22,28,24,NULL,NBA
+11,241214006,2005,"Tue, Dec 14",Dallas Mavericks,Golden State Warriors,"15-9, 7-6 Home","7-14, 2-7 Away",107,111,NULL,NULL,Final,NULL,22,27,28,30,NULL,33,24,31,23,NULL,NBA
+12,241221018,2005,"Tue, Dec 21",New York Knicks,Dallas Mavericks,"13-12, 8-4 Home","17-9, 9-3 Away",94,123,NULL,NULL,Final,NULL,19,17,28,30,NULL,35,40,26,22,NULL,NBA
+13,241226007,2005,"Sun, Dec 26",Denver Nuggets,Dallas Mavericks,"13-14, 9-6 Home","18-10, 10-4 Away",88,102,NULL,NULL,Final,NULL,24,28,27,9,NULL,25,18,37,22,NULL,NBA
+14,250102006,2005,"Sun, Jan 2",Dallas Mavericks,Milwaukee Bucks,"20-10, 10-6 Home","9-18, 2-11 Away",123,104,NULL,NULL,Final,NULL,33,33,22,35,NULL,19,31,30,24,NULL,NBA
+15,250108006,2005,"Sat, Jan 8",Dallas Mavericks,Indiana Pacers,"22-10, 12-6 Home","16-15, 7-9 Away",121,101,NULL,NULL,Final,NULL,34,43,28,16,NULL,22,33,31,15,NULL,NBA
+16,250114024,2005,"Fri, Jan 14",San Antonio Spurs,Dallas Mavericks,"30-8, 19-1 Home","22-12, 10-5 Away",98,95,NULL,NULL,Final,NULL,21,27,26,24,NULL,19,26,21,29,NULL,NBA
+17,250118006,2005,"Tue, Jan 18",Dallas Mavericks,Washington Wizards,"24-12, 14-7 Home","22-15, 8-10 Away",137,120,NULL,NULL,Final,NULL,40,33,28,36,NULL,20,20,38,42,NULL,NBA
+18,250121030,2005,"Fri, Jan 21",Charlotte Bobcats,Dallas Mavericks,"8-28, 7-12 Home","26-12, 11-5 Away",99,105,NULL,NULL,Final,NULL,27,21,18,33,NULL,23,33,23,26,NULL,NBA
+19,250124012,2005,"Mon, Jan 24",LA Clippers,Dallas Mavericks,"19-22, 14-10 Home","27-13, 11-6 Away",97,87,NULL,NULL,Final,NULL,23,30,18,26,NULL,23,15,21,28,NULL,NBA
+20,250129006,2005,"Sat, Jan 29",Dallas Mavericks,Philadelphia 76ers,"28-14, 16-8 Home","20-23, 10-16 Away",89,93,NULL,NULL,Final,CSN,25,18,27,19,NULL,23,29,23,18,NULL,NBA
+21,250202003,2005,"Wed, Feb 2",New Orleans Hornets,Dallas Mavericks,"8-37, 6-15 Home","30-14, 13-6 Away",82,90,NULL,NULL,Final,NULL,17,23,24,18,NULL,25,29,23,13,NULL,NBA
+22,250206028,2005,"Sun, Feb 6",Toronto Raptors,Dallas Mavericks,"20-28, 16-8 Home","31-15, 14-7 Away",113,122,NULL,NULL,Final,NULL,24,28,29,32,NULL,32,33,28,29,NULL,NBA
+23,250211023,2005,"Fri, Feb 11",Sacramento Kings,Dallas Mavericks,"32-18, 19-8 Home","32-16, 15-7 Away",113,115,NULL,NULL,Final,NULL,30,34,29,20,NULL,30,31,29,25,NULL,NBA
+24,250215009,2005,"Tue, Feb 15",Golden State Warriors,Dallas Mavericks,"14-38, 10-17 Home","34-16, 17-7 Away",107,114,NULL,NULL,Final,NULL,29,24,35,19,NULL,34,33,19,28,NULL,NBA
+25,250223026,2005,"Wed, Feb 23",Utah Jazz,Dallas Mavericks,"17-36, 11-15 Home","36-16, 19-7 Away",83,101,NULL,NULL,Final,NULL,20,30,19,14,NULL,30,21,24,26,NULL,NBA
+26,250226006,2005,"Sat, Feb 26",Dallas Mavericks,Phoenix Suns,"37-17, 18-10 Home","43-13, 23-7 Away",123,124,NULL,NULL,Final,NULL,31,40,26,26,NULL,38,30,27,29,NULL,NBA
+27,250302012,2005,"Wed, Mar 2",LA Clippers,Dallas Mavericks,"26-32, 20-10 Home","38-18, 19-8 Away",101,92,NULL,NULL,Final,NULL,31,29,19,22,NULL,23,23,23,23,NULL,NBA
+28,250306010,2005,"Sun, Mar 6",Houston Rockets,Dallas Mavericks,"34-25, 19-12 Home","38-20, 19-10 Away",90,69,NULL,NULL,Final,NULL,20,24,17,29,NULL,18,17,20,14,NULL,NBA
+29,250310006,2005,"Thu, Mar 10",Dallas Mavericks,Los Angeles Lakers,"39-21, 20-11 Home","31-29, 10-17 Away",95,100,NULL,NULL,Final,NULL,20,25,29,21,NULL,21,20,29,30,NULL,NBA
+30,250313016,2005,"Sun, Mar 13",Minnesota Timberwolves,Dallas Mavericks,"32-32, 18-15 Home","41-21, 21-10 Away",93,102,NULL,NULL,Final,NULL,27,19,23,24,NULL,23,21,27,31,NULL,NBA
+31,250317006,2005,"Thu, Mar 17",Dallas Mavericks,Portland Trail Blazers,"42-22, 21-12 Home","23-40, 8-25 Away",98,94,NULL,NULL,Final,NULL,13,31,22,32,NULL,22,24,21,27,NULL,NBA
+32,250321006,2005,"Mon, Mar 21",Dallas Mavericks,New Orleans Hornets,"44-22, 23-12 Home","15-51, 4-29 Away",103,86,NULL,NULL,Final,NULL,20,36,27,20,NULL,20,15,26,25,NULL,NBA
+33,250324023,2005,"Thu, Mar 24",Sacramento Kings,Dallas Mavericks,"43-27, 26-10 Home","45-23, 22-11 Away",109,101,NULL,NULL,Final,NULL,28,23,24,34,NULL,18,40,18,25,NULL,NBA
+34,250328008,2005,"Mon, Mar 28",Detroit Pistons,Dallas Mavericks,"43-27, 26-9 Home","47-23, 23-11 Away",88,95,NULL,NULL,Final,NULL,19,14,32,23,NULL,30,12,28,25,NULL,NBA
+35,250401020,2005,"Fri, Apr 1",Philadelphia 76ers,Dallas Mavericks,"35-37, 20-15 Home","49-23, 25-11 Away",83,100,NULL,NULL,Final,CSN,19,22,16,26,NULL,24,31,24,21,NULL,NBA
+36,250405006,2005,"Tue, Apr 5",Dallas Mavericks,Orlando Magic,"50-24, 25-12 Home","35-39, 12-26 Away",114,105,NULL,NULL,Final,NULL,30,27,39,18,NULL,23,21,39,22,NULL,NBA
+37,250409006,2005,"Sat, Apr 9",Dallas Mavericks,Utah Jazz,"52-24, 27-12 Home","24-52, 8-30 Away",88,81,NULL,NULL,Final,NULL,23,25,20,20,NULL,23,17,13,28,NULL,NBA
+38,250413025,2005,"Wed, Apr 13",Seattle SuperSonics,Dallas Mavericks,"50-28, 25-15 Home","54-24, 26-12 Away",90,95,NULL,NULL,Final,NULL,17,28,25,20,NULL,25,21,26,23,NULL,NBA
+39,250417013,2005,"Sun, Apr 17",Los Angeles Lakers,Dallas Mavericks,"34-46, 22-19 Home","56-24, 28-12 Away",112,114,NULL,NULL,Final,NULL,29,20,21,42,NULL,34,22,29,29,NULL,NBA
+40,241102006,2005,"Tue, Nov 2",Dallas Mavericks,Sacramento Kings,"1-0, 1-0 Home","0-1, 0-1 Away",107,98,NULL,NULL,Final,NULL,30,24,25,28,NULL,23,17,26,32,NULL,NBA
+41,241106006,2005,"Sat, Nov 6",Dallas Mavericks,Memphis Grizzlies,"3-0, 2-0 Home","0-3, 0-1 Away",112,88,NULL,NULL,Final,NULL,24,33,28,27,NULL,35,18,15,20,NULL,NBA
+42,241109019,2005,"Tue, Nov 9",Orlando Magic,Dallas Mavericks,"3-1, 2-0 Home","4-1, 1-1 Away",94,84,NULL,NULL,Final,NULL,19,31,19,25,NULL,22,18,22,22,NULL,NBA
+43,241113017,2005,"Sat, Nov 13",New Jersey Nets,Dallas Mavericks,"2-4, 1-3 Home","6-1, 3-1 Away",78,94,NULL,NULL,Final,NULL,22,20,20,16,NULL,16,28,27,23,NULL,NBA
+44,241116006,2005,"Tue, Nov 16",Dallas Mavericks,Phoenix Suns,"7-2, 3-1 Home","5-2, 4-1 Away",101,107,NULL,NULL,Final,NULL,24,19,33,25,NULL,22,32,23,30,NULL,NBA
+45,241121007,2005,"Sun, Nov 21",Denver Nuggets,Dallas Mavericks,"5-5, 5-2 Home","8-3, 4-2 Away",110,82,NULL,NULL,Final,NULL,18,37,31,24,NULL,33,16,21,12,NULL,NBA
+46,241124024,2005,"Wed, Nov 24",San Antonio Spurs,Dallas Mavericks,"9-3, 5-0 Home","8-5, 4-3 Away",94,80,NULL,NULL,Final,NULL,18,31,25,20,NULL,17,28,22,13,NULL,NBA
+47,241127029,2005,"Sat, Nov 27",Memphis Grizzlies,Dallas Mavericks,"5-9, 3-4 Home","10-5, 5-3 Away",85,98,NULL,NULL,Final,NULL,30,28,16,11,NULL,27,24,23,24,NULL,NBA
+48,241202006,2005,"Thu, Dec 2",Dallas Mavericks,Houston Rockets,"11-6, 6-3 Home","6-11, 4-6 Away",113,106,NULL,NULL,Final/OT,NULL,25,31,20,17,20,24,27,21,21,13,NBA
+49,241206006,2005,"Mon, Dec 6",Dallas Mavericks,Detroit Pistons,"12-7, 7-4 Home","9-8, 4-7 Away",85,101,NULL,NULL,Final,NULL,17,22,24,22,NULL,23,26,32,20,NULL,NBA
+50,241209006,2005,"Thu, Dec 9",Dallas Mavericks,Seattle SuperSonics,"13-8, 7-5 Home","17-3, 8-3 Away",102,107,NULL,NULL,Final,NULL,26,26,21,29,NULL,35,27,18,27,NULL,NBA
+51,241213004,2005,"Mon, Dec 13",Chicago Bulls,Dallas Mavericks,"4-15, 3-7 Home","15-8, 8-3 Away",93,94,NULL,NULL,Final,NULL,23,23,24,23,NULL,20,26,19,29,NULL,NBA
+52,241218006,2005,"Sat, Dec 18",Dallas Mavericks,Atlanta Hawks,"16-9, 8-6 Home","4-20, 2-9 Away",90,68,NULL,NULL,Final,NULL,27,24,26,13,NULL,12,16,17,23,NULL,NBA
+53,241222001,2005,"Wed, Dec 22",Atlanta Hawks,Dallas Mavericks,"5-20, 3-11 Home","17-10, 9-4 Away",113,100,NULL,NULL,Final,NULL,28,20,30,35,NULL,22,24,24,30,NULL,NBA
+54,241228006,2005,"Tue, Dec 28",Dallas Mavericks,Boston Celtics,"19-10, 9-6 Home","12-15, 5-10 Away",113,94,NULL,NULL,Final,NULL,41,32,18,22,NULL,20,29,24,21,NULL,NBA
+55,250105006,2005,"Wed, Jan 5",Dallas Mavericks,Los Angeles Lakers,"21-10, 11-6 Home","16-14, 5-8 Away",118,104,NULL,NULL,Final,NULL,30,33,30,25,NULL,17,34,32,21,NULL,NBA
+56,250112006,2005,"Wed, Jan 12",Dallas Mavericks,Houston Rockets,"22-11, 12-7 Home","18-17, 7-9 Away",114,124,NULL,NULL,Final,NULL,35,26,24,29,NULL,34,23,37,30,NULL,NBA
+57,250115006,2005,"Sat, Jan 15",Dallas Mavericks,New Jersey Nets,"23-12, 13-7 Home","12-24, 5-15 Away",98,93,NULL,NULL,Final,NULL,25,14,23,36,NULL,14,24,21,34,NULL,NBA
+58,250120006,2005,"Thu, Jan 20",Dallas Mavericks,LA Clippers,"25-12, 15-7 Home","18-21, 5-11 Away",99,77,NULL,NULL,Final,NULL,20,22,31,26,NULL,29,19,20,9,NULL,NBA
+59,250123006,2005,"Sun, Jan 23",Dallas Mavericks,Denver Nuggets,"27-12, 16-7 Home","17-23, 5-14 Away",95,93,NULL,NULL,Final,NULL,22,25,24,24,NULL,20,23,29,21,NULL,NBA
+60,250126022,2005,"Wed, Jan 26",Portland Trail Blazers,Dallas Mavericks,"16-25, 9-9 Home","28-13, 12-6 Away",88,95,NULL,NULL,Final,NULL,15,24,32,17,NULL,22,32,18,23,NULL,NBA
+61,250201006,2005,"Tue, Feb 1",Dallas Mavericks,Miami Heat,"29-14, 17-8 Home","33-14, 16-9 Away",109,104,NULL,NULL,Final,NULL,24,26,37,22,NULL,26,27,25,26,NULL,NBA
+62,250204011,2005,"Fri, Feb 4",Indiana Pacers,Dallas Mavericks,"21-24, 11-11 Home","30-15, 13-7 Away",95,94,NULL,NULL,Final,NULL,32,27,19,17,NULL,26,26,18,24,NULL,NBA
+63,250208006,2005,"Tue, Feb 8",Dallas Mavericks,Chicago Bulls,"31-16, 17-9 Home","23-22, 8-12 Away",100,107,NULL,NULL,Final,NULL,23,27,23,27,NULL,21,27,25,34,NULL,NBA
+64,250213025,2005,"Sun, Feb 13",Seattle SuperSonics,Dallas Mavericks,"35-14, 19-7 Home","33-16, 16-7 Away",92,95,NULL,NULL,Final,NULL,19,23,24,26,NULL,21,30,15,29,NULL,NBA
+65,250217021,2005,"Thu, Feb 17",Phoenix Suns,Dallas Mavericks,"41-13, 19-6 Home","35-16, 18-7 Away",113,119,NULL,NULL,Final,NULL,22,33,32,26,NULL,22,23,38,36,NULL,NBA
+66,250224006,2005,"Thu, Feb 24",Dallas Mavericks,Sacramento Kings,"37-16, 18-9 Home","34-21, 14-13 Away",122,113,NULL,NULL,Final,NULL,27,31,24,40,NULL,23,32,33,25,NULL,NBA
+67,250228006,2005,"Mon, Feb 28",Dallas Mavericks,New Orleans Hornets,"38-17, 19-10 Home","11-45, 3-27 Away",90,86,NULL,NULL,Final,NULL,25,27,16,22,NULL,28,15,21,22,NULL,NBA
+68,250304013,2005,"Fri, Mar 4",Los Angeles Lakers,Dallas Mavericks,"29-28, 20-11 Home","38-19, 19-9 Away",108,103,NULL,NULL,Final,NULL,25,27,28,28,NULL,21,31,29,22,NULL,NBA
+69,250307006,2005,"Mon, Mar 7",Dallas Mavericks,Toronto Raptors,"39-20, 20-10 Home","25-35, 7-24 Away",113,105,NULL,NULL,Final,NULL,32,25,27,29,NULL,28,25,23,29,NULL,NBA
+70,250311015,2005,"Fri, Mar 11",Milwaukee Bucks,Dallas Mavericks,"25-35, 18-13 Home","40-21, 20-10 Away",110,112,NULL,NULL,Final,NULL,30,29,24,27,NULL,28,29,31,24,NULL,NBA
+71,250315006,2005,"Tue, Mar 15",Dallas Mavericks,Minnesota Timberwolves,"41-22, 20-12 Home","33-32, 15-17 Away",91,100,NULL,NULL,Final,NULL,18,17,25,31,NULL,27,21,17,35,NULL,NBA
+72,250319006,2005,"Sat, Mar 19",Dallas Mavericks,Charlotte Bobcats,"43-22, 22-12 Home","12-52, 2-31 Away",104,93,NULL,NULL,Final,NULL,26,35,18,25,NULL,28,22,23,20,NULL,NBA
+73,250323009,2005,"Wed, Mar 23",Golden State Warriors,Dallas Mavericks,"23-45, 12-20 Home","45-22, 22-10 Away",97,109,NULL,NULL,Final,NULL,31,23,16,27,NULL,28,29,26,26,NULL,NBA
+74,250326006,2005,"Sat, Mar 26",Dallas Mavericks,Cleveland Cavaliers,"46-23, 24-12 Home","35-32, 10-23 Away",117,86,NULL,NULL,Final,NULL,29,37,23,28,NULL,29,21,16,20,NULL,NBA
+75,250330002,2005,"Wed, Mar 30",Boston Celtics,Dallas Mavericks,"38-33, 25-12 Home","48-23, 24-11 Away",100,112,NULL,NULL,Final,NULL,13,30,31,26,NULL,18,28,31,35,NULL,NBA
+76,250403005,2005,"Sun, Apr 3",Cleveland Cavaliers,Dallas Mavericks,"38-34, 27-10 Home","49-24, 25-12 Away",100,80,NULL,NULL,Final,NULL,31,11,18,40,NULL,14,16,29,21,NULL,NBA
+77,250407006,2005,"Thu, Apr 7",Dallas Mavericks,San Antonio Spurs,"51-24, 26-12 Home","55-20, 19-17 Away",104,68,NULL,NULL,Final,NULL,26,19,31,28,NULL,20,14,13,21,NULL,NBA
+78,250411006,2005,"Mon, Apr 11",Dallas Mavericks,Memphis Grizzlies,"53-24, 28-12 Home","44-33, 19-19 Away",110,89,NULL,NULL,Final,NULL,22,29,28,31,NULL,23,21,27,18,NULL,NBA
+79,250414022,2005,"Thu, Apr 14",Portland Trail Blazers,Dallas Mavericks,"25-53, 16-23 Home","55-24, 27-12 Away",90,102,NULL,NULL,Final,NULL,20,26,25,19,NULL,34,27,24,17,NULL,NBA
+80,250419006,2005,"Tue, Apr 19",Dallas Mavericks,Seattle SuperSonics,"57-24, 29-12 Home","52-29, 26-14 Away",101,96,NULL,NULL,Final,NULL,23,28,23,27,NULL,14,18,38,26,NULL,NBA
+81,250420029,2005,"Wed, Apr 20",Memphis Grizzlies,Dallas Mavericks,"45-37, 26-15 Home","58-24, 29-12 Away",88,108,NULL,NULL,Final,NULL,16,25,30,17,NULL,29,26,31,22,NULL,NBA

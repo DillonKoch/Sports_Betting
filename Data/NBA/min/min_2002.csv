@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,211102016,2002,"Fri, Nov 2",Minnesota Timberwolves,Memphis Grizzlies,"2-0, 2-0 Home","0-2, 0-1 Away",111,102,NULL,NULL,Final,NULL,25,32,28,26,NULL,33,23,16,30,NULL,NBA
+1,211106016,2002,"Tue, Nov 6",Minnesota Timberwolves,New York Knicks,"4-0, 3-0 Home","1-3, 0-3 Away",104,94,NULL,NULL,Final,NULL,33,25,28,18,NULL,23,30,17,24,NULL,NBA
+2,211110015,2002,"Sat, Nov 10",Milwaukee Bucks,Minnesota Timberwolves,"4-1, 2-1 Home","6-0, 2-0 Away",82,98,NULL,NULL,Final,NULL,9,23,26,24,NULL,28,22,24,24,NULL,NBA
+3,211116011,2002,"Fri, Nov 16",Indiana Pacers,Minnesota Timberwolves,"6-5, 4-2 Home","7-1, 3-0 Away",113,120,NULL,NULL,Final,NULL,32,26,18,22,15,25,25,22,26,22,NBA
+4,211120014,2002,"Tue, Nov 20",Miami Heat,Minnesota Timberwolves,"2-8, 2-5 Home","9-1, 4-0 Away",73,80,NULL,NULL,Final,NULL,15,17,16,25,NULL,23,19,18,20,NULL,NBA
+5,211124016,2002,"Sat, Nov 24",Minnesota Timberwolves,San Antonio Spurs,"10-2, 6-1 Home","9-3, 3-3 Away",99,94,NULL,NULL,Final,NULL,24,24,26,25,NULL,25,22,19,28,NULL,NBA
+6,211128012,2002,"Wed, Nov 28",LA Clippers,Minnesota Timberwolves,"7-8, 7-4 Home","10-4, 4-3 Away",94,75,NULL,NULL,Final,NULL,20,19,28,27,NULL,16,21,17,21,NULL,NBA
+7,211204016,2002,"Tue, Dec 4",Minnesota Timberwolves,Seattle SuperSonics,"11-5, 7-1 Home","9-11, 3-7 Away",108,83,NULL,NULL,Final,NULL,28,30,24,26,NULL,20,27,21,15,NULL,NBA
+8,211208016,2002,"Sat, Dec 8",Minnesota Timberwolves,Houston Rockets,"13-5, 8-1 Home","7-14, 2-9 Away",107,97,NULL,NULL,Final,NULL,28,28,29,22,NULL,16,26,31,24,NULL,NBA
+9,211212026,2002,"Wed, Dec 12",Utah Jazz,Minnesota Timberwolves,"10-12, 7-7 Home","15-5, 6-4 Away",87,98,NULL,NULL,Final,NULL,21,31,13,22,NULL,24,27,31,16,NULL,NBA
+10,211215006,2002,"Sat, Dec 15",Dallas Mavericks,Minnesota Timberwolves,"15-9, 8-4 Home","16-6, 6-5 Away",125,117,NULL,NULL,Final,NULL,25,32,33,35,NULL,27,33,22,35,NULL,NBA
+11,211219017,2002,"Wed, Dec 19",New Jersey Nets,Minnesota Timberwolves,"16-7, 9-2 Home","16-8, 6-6 Away",117,112,NULL,NULL,Final/OT,NULL,21,34,29,19,14,26,22,23,32,9,NBA
+12,211222004,2002,"Sat, Dec 22",Chicago Bulls,Minnesota Timberwolves,"4-21, 4-7 Home","18-8, 7-6 Away",74,95,NULL,NULL,Final,NULL,12,23,17,22,NULL,22,22,21,30,NULL,NBA
+13,211228023,2002,"Fri, Dec 28",Sacramento Kings,Minnesota Timberwolves,"22-9, 16-1 Home","19-9, 8-7 Away",125,111,NULL,NULL,Final,NULL,33,32,29,31,NULL,24,26,35,26,NULL,NBA
+14,220102016,2002,"Wed, Jan 2",Minnesota Timberwolves,Milwaukee Bucks,"21-9, 12-2 Home","18-11, 8-9 Away",95,77,NULL,NULL,Final,NULL,19,28,31,17,NULL,23,23,17,14,NULL,NBA
+15,220105001,2002,"Sat, Jan 5",Atlanta Hawks,Minnesota Timberwolves,"12-20, 8-6 Home","23-9, 10-7 Away",96,112,NULL,NULL,Final,NULL,28,22,27,19,NULL,25,29,33,25,NULL,NBA
+16,220109016,2002,"Wed, Jan 9",Minnesota Timberwolves,Seattle SuperSonics,"25-9, 15-2 Home","18-17, 7-11 Away",111,106,NULL,NULL,Final,NULL,29,25,23,34,NULL,28,20,21,37,NULL,NBA
+17,220112027,2002,"Sat, Jan 12",Washington Wizards,Minnesota Timberwolves,"18-16, 9-7 Home","27-9, 11-7 Away",100,109,NULL,NULL,Final,NULL,26,26,22,26,NULL,33,28,18,29,NULL,NBA
+18,220118021,2002,"Fri, Jan 18",Phoenix Suns,Minnesota Timberwolves,"20-20, 13-10 Home","28-10, 11-8 Away",103,100,NULL,NULL,Final,NULL,25,32,18,18,10,27,21,20,25,7,NBA
+19,220121016,2002,"Mon, Jan 21",Minnesota Timberwolves,Washington Wizards,"30-10, 18-2 Home","19-19, 10-11 Away",105,101,NULL,NULL,Final,NULL,28,28,27,22,NULL,26,27,26,22,NULL,NBA
+20,220125028,2002,"Fri, Jan 25",Toronto Raptors,Minnesota Timberwolves,"25-19, 13-8 Home","30-12, 12-10 Away",107,100,NULL,NULL,Final,NULL,30,31,26,20,NULL,21,22,24,33,NULL,NBA
+21,220129005,2002,"Tue, Jan 29",Cleveland Cavaliers,Minnesota Timberwolves,"14-30, 10-11 Home","31-13, 12-11 Away",114,81,NULL,NULL,Final,NULL,21,27,37,29,NULL,21,19,18,23,NULL,NBA
+22,220201002,2002,"Fri, Feb 1",Boston Celtics,Minnesota Timberwolves,"26-20, 15-8 Home","32-14, 13-12 Away",95,98,NULL,NULL,Final/OT,NULL,21,22,23,19,10,24,14,23,24,13,NBA
+23,220204024,2002,"Mon, Feb 4",San Antonio Spurs,Minnesota Timberwolves,"31-16, 17-8 Home","32-16, 13-13 Away",113,83,NULL,NULL,Final,NULL,27,29,21,36,NULL,18,11,29,25,NULL,NBA
+24,220213016,2002,"Wed, Feb 13",Minnesota Timberwolves,Phoenix Suns,"34-16, 21-3 Home","25-25, 10-15 Away",107,92,NULL,NULL,Final,NULL,25,29,20,33,NULL,20,25,22,25,NULL,NBA
+25,220217016,2002,"Sun, Feb 17",Minnesota Timberwolves,Miami Heat,"35-17, 22-4 Home","20-30, 11-16 Away",93,80,NULL,NULL,Final,NULL,26,24,22,21,NULL,17,19,17,28,NULL,NBA
+26,220221010,2002,"Thu, Feb 21",Houston Rockets,Minnesota Timberwolves,"19-35, 13-15 Home","36-18, 14-14 Away",89,83,NULL,NULL,Final,NULL,25,24,16,24,NULL,19,22,17,25,NULL,NBA
+27,220225003,2002,"Mon, Feb 25",Charlotte Hornets,Minnesota Timberwolves,"27-29, 11-17 Home","38-18, 16-14 Away",92,97,NULL,NULL,Final,NULL,22,22,25,23,NULL,23,18,27,29,NULL,NBA
+28,220301016,2002,"Fri, Mar 1",Minnesota Timberwolves,San Antonio Spurs,"39-19, 23-5 Home","37-21, 17-12 Away",77,85,NULL,NULL,Final,NULL,19,16,25,17,NULL,22,22,21,20,NULL,NBA
+29,220305025,2002,"Tue, Mar 5",Seattle SuperSonics,Minnesota Timberwolves,"34-27, 17-12 Home","40-20, 17-15 Away",97,83,NULL,NULL,Final,NULL,35,10,24,28,NULL,23,28,17,15,NULL,NBA
+30,220308021,2002,"Fri, Mar 8",Phoenix Suns,Minnesota Timberwolves,"30-32, 19-14 Home","40-22, 17-17 Away",81,76,NULL,NULL,Final,NULL,15,24,17,25,NULL,28,11,21,16,NULL,NBA
+31,220313016,2002,"Wed, Mar 13",Minnesota Timberwolves,Houston Rockets,"40-24, 23-7 Home","25-39, 8-22 Away",95,96,NULL,NULL,Final,NULL,24,17,31,23,NULL,23,23,20,30,NULL,NBA
+32,220317016,2002,"Sun, Mar 17",Minnesota Timberwolves,Utah Jazz,"40-26, 23-9 Home","36-30, 16-18 Away",89,96,NULL,NULL,Final,NULL,19,23,16,31,NULL,15,24,25,32,NULL,NBA
+33,220321029,2002,"Thu, Mar 21",Memphis Grizzlies,Minnesota Timberwolves,"17-51, 11-24 Home","42-26, 18-17 Away",93,95,NULL,NULL,Final,NULL,34,18,19,22,NULL,27,29,18,21,NULL,NBA
+34,220326016,2002,"Tue, Mar 26",Minnesota Timberwolves,Golden State Warriors,"42-28, 24-11 Home","18-52, 7-28 Away",106,115,NULL,NULL,Final,NULL,25,24,29,28,NULL,29,25,30,31,NULL,NBA
+35,220329018,2002,"Fri, Mar 29",New York Knicks,Minnesota Timberwolves,"27-44, 18-19 Home","44-28, 19-17 Away",77,98,NULL,NULL,Final,NULL,16,21,12,28,NULL,20,36,25,17,NULL,NBA
+36,220403016,2002,"Wed, Apr 3",Minnesota Timberwolves,Memphis Grizzlies,"46-28, 27-11 Home","19-55, 7-30 Away",92,81,NULL,NULL,Final,NULL,21,24,25,22,NULL,18,22,17,24,NULL,NBA
+37,220406016,2002,"Sat, Apr 6",Minnesota Timberwolves,Phoenix Suns,"47-29, 28-11 Home","34-43, 13-26 Away",108,104,NULL,NULL,Final,NULL,27,25,22,34,NULL,20,32,25,27,NULL,NBA
+38,220409023,2002,"Tue, Apr 9",Sacramento Kings,Minnesota Timberwolves,"58-19, 35-4 Home","48-30, 20-19 Away",122,103,NULL,NULL,Final,NULL,27,32,32,31,NULL,21,21,31,30,NULL,NBA
+39,220413012,2002,"Sat, Apr 13",LA Clippers,Minnesota Timberwolves,"38-42, 24-16 Home","49-31, 21-20 Away",98,101,NULL,NULL,Final,NULL,18,31,29,20,NULL,29,19,31,22,NULL,NBA
+40,211030016,2002,"Tue, Oct 30",Minnesota Timberwolves,Philadelphia 76ers,"1-0, 1-0 Home","0-1, 0-1 Away",83,74,NULL,NULL,Final,CSN,17,29,18,19,NULL,23,10,23,18,NULL,NBA
+41,211103010,2002,"Sat, Nov 3",Houston Rockets,Minnesota Timberwolves,"2-1, 2-1 Home","3-0, 1-0 Away",88,90,NULL,NULL,Final,NULL,17,23,29,19,NULL,29,19,26,16,NULL,NBA
+42,211108016,2002,"Thu, Nov 8",Minnesota Timberwolves,Chicago Bulls,"5-0, 4-0 Home","1-4, 0-2 Away",127,74,NULL,NULL,Final,NULL,34,34,33,26,NULL,14,22,10,28,NULL,NBA
+43,211113016,2002,"Tue, Nov 13",Minnesota Timberwolves,Cleveland Cavaliers,"6-1, 4-1 Home","2-6, 2-3 Away",103,107,NULL,NULL,Final,NULL,27,15,30,31,NULL,22,24,28,33,NULL,NBA
+44,211117016,2002,"Sat, Nov 17",Minnesota Timberwolves,Orlando Magic,"8-1, 5-1 Home","5-6, 3-5 Away",103,95,NULL,NULL,Final,NULL,24,20,31,28,NULL,22,27,12,34,NULL,NBA
+45,211121019,2002,"Wed, Nov 21",Orlando Magic,Minnesota Timberwolves,"6-6, 3-1 Home","9-2, 4-1 Away",117,106,NULL,NULL,Final,NULL,36,31,26,24,NULL,31,25,28,22,NULL,NBA
+46,211127025,2002,"Tue, Nov 27",Seattle SuperSonics,Minnesota Timberwolves,"8-8, 5-3 Home","10-3, 4-2 Away",112,102,NULL,NULL,Final,NULL,33,20,29,30,NULL,22,28,23,29,NULL,NBA
+47,211201013,2002,"Sat, Dec 1",Los Angeles Lakers,Minnesota Timberwolves,"15-1, 10-0 Home","10-5, 4-4 Away",102,76,NULL,NULL,Final,NULL,24,22,31,25,NULL,21,25,16,14,NULL,NBA
+48,211206029,2002,"Thu, Dec 6",Memphis Grizzlies,Minnesota Timberwolves,"4-14, 3-6 Home","12-5, 5-4 Away",80,105,NULL,NULL,Final,NULL,22,15,28,15,NULL,29,29,29,18,NULL,NBA
+49,211211016,2002,"Tue, Dec 11",Minnesota Timberwolves,Golden State Warriors,"14-5, 9-1 Home","8-14, 4-9 Away",107,86,NULL,NULL,Final,NULL,30,30,19,28,NULL,28,22,16,20,NULL,NBA
+50,211214016,2002,"Fri, Dec 14",Minnesota Timberwolves,Sacramento Kings,"16-5, 10-1 Home","17-7, 6-6 Away",114,94,NULL,NULL,Final,NULL,23,29,34,28,NULL,35,23,14,22,NULL,NBA
+51,211218016,2002,"Tue, Dec 18",Minnesota Timberwolves,Dallas Mavericks,"16-7, 10-2 Home","16-9, 8-5 Away",103,107,NULL,NULL,Final,NULL,30,31,25,17,NULL,19,26,28,34,NULL,NBA
+52,211221016,2002,"Fri, Dec 21",Minnesota Timberwolves,Charlotte Hornets,"17-8, 11-2 Home","12-14, 9-7 Away",94,89,NULL,NULL,Final,NULL,24,27,25,18,NULL,20,23,19,27,NULL,NBA
+53,211226007,2002,"Wed, Dec 26",Denver Nuggets,Minnesota Timberwolves,"9-18, 7-9 Home","19-8, 8-6 Away",91,94,NULL,NULL,Final,NULL,21,25,18,27,NULL,27,20,26,21,NULL,NBA
+54,211230022,2002,"Sun, Dec 30",Portland Trail Blazers,Minnesota Timberwolves,"13-16, 9-6 Home","20-9, 9-7 Away",93,95,NULL,NULL,Final,NULL,26,24,21,22,NULL,28,17,27,23,NULL,NBA
+55,220104016,2002,"Fri, Jan 4",Minnesota Timberwolves,Utah Jazz,"22-9, 13-2 Home","16-16, 6-9 Away",93,86,NULL,NULL,Final,NULL,25,19,18,31,NULL,21,34,12,19,NULL,NBA
+56,220107016,2002,"Mon, Jan 7",Minnesota Timberwolves,Detroit Pistons,"24-9, 14-2 Home","16-16, 6-13 Away",109,93,NULL,NULL,Final,NULL,24,38,25,22,NULL,29,19,25,20,NULL,NBA
+57,220111016,2002,"Fri, Jan 11",Minnesota Timberwolves,Los Angeles Lakers,"26-9, 16-2 Home","26-7, 10-5 Away",120,102,NULL,NULL,Final,NULL,31,32,25,32,NULL,25,30,25,22,NULL,NBA
+58,220115016,2002,"Tue, Jan 15",Minnesota Timberwolves,LA Clippers,"28-9, 17-2 Home","19-20, 3-13 Away",97,83,NULL,NULL,Final,NULL,25,35,18,19,NULL,26,14,22,21,NULL,NBA
+59,220119009,2002,"Sat, Jan 19",Golden State Warriors,Minnesota Timberwolves,"13-26, 8-11 Home","29-10, 12-8 Away",102,105,NULL,NULL,Final,NULL,27,24,24,27,NULL,25,26,26,28,NULL,NBA
+60,220123008,2002,"Wed, Jan 23",Detroit Pistons,Minnesota Timberwolves,"20-20, 13-6 Home","30-11, 12-9 Away",104,83,NULL,NULL,Final,NULL,18,36,27,23,NULL,20,19,18,26,NULL,NBA
+61,220126016,2002,"Sat, Jan 26",Minnesota Timberwolves,Atlanta Hawks,"31-12, 19-2 Home","14-29, 4-18 Away",103,80,NULL,NULL,Final,NULL,25,23,33,22,NULL,25,16,17,22,NULL,NBA
+62,220130020,2002,"Wed, Jan 30",Philadelphia 76ers,Minnesota Timberwolves,"23-22, 12-8 Home","31-14, 12-12 Away",96,91,NULL,NULL,Final,CSN,18,34,17,27,NULL,25,18,27,21,NULL,NBA
+63,220203016,2002,"Sun, Feb 3",Minnesota Timberwolves,Sacramento Kings,"32-15, 19-3 Home","36-10, 11-9 Away",107,112,NULL,NULL,Final,NULL,32,16,27,32,NULL,23,27,35,27,NULL,NBA
+64,220206016,2002,"Wed, Feb 6",Minnesota Timberwolves,Portland Trail Blazers,"33-16, 20-3 Home","25-23, 9-15 Away",113,103,NULL,NULL,Final,NULL,33,29,23,28,NULL,16,31,27,29,NULL,NBA
+65,220215016,2002,"Fri, Feb 15",Minnesota Timberwolves,Denver Nuggets,"34-17, 21-4 Home","16-32, 5-17 Away",98,99,NULL,NULL,Final,NULL,28,27,26,17,NULL,25,19,34,21,NULL,NBA
+66,220219006,2002,"Tue, Feb 19",Dallas Mavericks,Minnesota Timberwolves,"37-17, 18-8 Home","36-17, 14-13 Away",100,117,NULL,NULL,Final,NULL,30,26,20,24,NULL,24,22,36,35,NULL,NBA
+67,220223024,2002,"Sat, Feb 23",San Antonio Spurs,Minnesota Timberwolves,"35-19, 19-9 Home","37-18, 15-14 Away",88,112,NULL,NULL,Final,NULL,23,33,15,17,NULL,28,19,27,38,NULL,NBA
+68,220227016,2002,"Wed, Feb 27",Minnesota Timberwolves,Los Angeles Lakers,"39-18, 23-4 Home","39-17, 20-10 Away",112,101,NULL,NULL,Final,NULL,30,30,27,25,NULL,22,25,29,25,NULL,NBA
+69,220302026,2002,"Sat, Mar 2",Utah Jazz,Minnesota Timberwolves,"32-26, 18-11 Home","40-19, 17-14 Away",105,116,NULL,NULL,Final,NULL,24,21,34,26,NULL,25,26,29,36,NULL,NBA
+70,220306022,2002,"Wed, Mar 6",Portland Trail Blazers,Minnesota Timberwolves,"37-24, 22-9 Home","40-21, 17-16 Away",85,78,NULL,NULL,Final,NULL,18,24,14,29,NULL,20,18,20,20,NULL,NBA
+71,220311016,2002,"Mon, Mar 11",Minnesota Timberwolves,LA Clippers,"40-23, 23-6 Home","33-31, 12-21 Away",99,108,NULL,NULL,Final,NULL,24,23,28,24,NULL,22,28,25,33,NULL,NBA
+72,220315016,2002,"Fri, Mar 15",Minnesota Timberwolves,Indiana Pacers,"40-25, 23-8 Home","33-32, 14-20 Away",85,98,NULL,NULL,Final,NULL,35,17,9,24,NULL,30,29,20,19,NULL,NBA
+73,220319016,2002,"Tue, Mar 19",Minnesota Timberwolves,Toronto Raptors,"41-26, 24-9 Home","30-38, 14-21 Away",112,80,NULL,NULL,Final,NULL,26,29,24,33,NULL,21,29,10,20,NULL,NBA
+74,220323016,2002,"Sat, Mar 23",Minnesota Timberwolves,Portland Trail Blazers,"42-27, 24-10 Home","43-26, 18-17 Away",99,108,NULL,NULL,Final,NULL,32,25,14,28,NULL,29,18,25,36,NULL,NBA
+75,220328016,2002,"Thu, Mar 28",Minnesota Timberwolves,Dallas Mavericks,"43-28, 25-11 Home","49-22, 22-12 Away",113,111,NULL,NULL,Final,NULL,30,36,29,18,NULL,30,24,31,26,NULL,NBA
+76,220331016,2002,"Sun, Mar 31",Minnesota Timberwolves,New Jersey Nets,"45-28, 26-11 Home","47-27, 17-21 Away",86,85,NULL,NULL,Final,NULL,28,29,20,9,NULL,17,21,24,23,NULL,NBA
+77,220404007,2002,"Thu, Apr 4",Denver Nuggets,Minnesota Timberwolves,"24-50, 17-21 Home","46-29, 19-18 Away",88,87,NULL,NULL,Final,NULL,21,25,17,25,NULL,27,20,17,23,NULL,NBA
+78,220408009,2002,"Mon, Apr 8",Golden State Warriors,Minnesota Timberwolves,"20-57, 13-25 Home","48-29, 20-18 Away",93,100,NULL,NULL,Final,NULL,21,25,23,24,NULL,22,24,26,28,NULL,NBA
+79,220411013,2002,"Thu, Apr 11",Los Angeles Lakers,Minnesota Timberwolves,"56-23, 32-7 Home","48-31, 20-20 Away",96,83,NULL,NULL,Final,NULL,20,26,30,20,NULL,20,14,23,26,NULL,NBA
+80,220415016,2002,"Mon, Apr 15",Minnesota Timberwolves,Boston Celtics,"49-32, 28-12 Home","48-33, 22-19 Away",90,93,NULL,NULL,Final,NULL,19,22,24,25,NULL,26,14,32,21,NULL,NBA
+81,220417016,2002,"Wed, Apr 17",Minnesota Timberwolves,Denver Nuggets,"50-32, 29-12 Home","27-55, 7-34 Away",104,90,NULL,NULL,Final,NULL,25,28,23,28,NULL,14,24,23,29,NULL,NBA

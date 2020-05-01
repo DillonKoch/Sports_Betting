@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,271102021,2008,"Fri, Nov 2",Phoenix Suns,Los Angeles Lakers,"1-1, 0-1 Home","1-1, 1-0 Away",98,119,NULL,NULL,Final,ESPN,20,30,17,31,NULL,33,30,32,24,NULL,NBA
+1,271106030,2008,"Tue, Nov 6",Charlotte Bobcats,Phoenix Suns,"2-1, 1-1 Home","3-1, 2-0 Away",83,115,NULL,NULL,Final,NULL,21,16,24,22,NULL,29,30,29,27,NULL,NBA
+2,271109014,2008,"Fri, Nov 9",Miami Heat,Phoenix Suns,"0-5, 0-3 Home","4-2, 3-1 Away",101,106,NULL,NULL,Final,NULL,37,23,24,17,NULL,29,26,24,27,NULL,NBA
+3,271113021,2008,"Tue, Nov 13",Phoenix Suns,New York Knicks,"6-2, 2-1 Home","2-4, 0-2 Away",113,102,NULL,NULL,Final,NULL,34,29,24,26,NULL,29,22,21,30,NULL,NBA
+4,271117010,2008,"Sat, Nov 17",Houston Rockets,Phoenix Suns,"6-5, 3-2 Home","8-2, 5-1 Away",105,115,NULL,NULL,Final,NULL,28,29,19,29,NULL,37,32,25,21,NULL,NBA
+5,271121021,2008,"Wed, Nov 21",Phoenix Suns,Sacramento Kings,"10-2, 4-1 Home","4-8, 0-6 Away",127,111,NULL,NULL,Final,NULL,47,33,30,17,NULL,38,25,19,29,NULL,NBA
+6,271126009,2008,"Mon, Nov 26",Golden State Warriors,Phoenix Suns,"6-7, 2-4 Home","11-3, 6-2 Away",129,114,NULL,NULL,Final,NBATV,45,27,31,26,NULL,37,26,29,22,NULL,NBA
+7,271130021,2008,"Fri, Nov 30",Phoenix Suns,Orlando Magic,"12-4, 6-2 Home","14-4, 9-2 Away",110,106,NULL,NULL,Final,NULL,31,29,28,22,NULL,16,34,28,28,NULL,NBA
+8,271204011,2008,"Tue, Dec 4",Indiana Pacers,Phoenix Suns,"9-10, 4-6 Home","14-4, 8-2 Away",117,121,NULL,NULL,Final,NULL,29,35,26,27,NULL,38,31,27,25,NULL,NBA
+9,271207027,2008,"Fri, Dec 7",Washington Wizards,Phoenix Suns,"9-10, 5-4 Home","16-4, 10-2 Away",107,122,NULL,NULL,Final,NULL,26,29,21,31,NULL,30,30,40,22,NULL,NBA
+10,271210021,2008,"Mon, Dec 10",Phoenix Suns,Miami Heat,"16-6, 6-3 Home","6-15, 4-9 Away",113,117,NULL,NULL,Final,NBATV,29,34,17,33,NULL,40,27,22,28,NULL,NBA
+11,271215003,2008,"Sat, Dec 15",New Orleans Hornets,Phoenix Suns,"15-9, 7-5 Home","17-7, 10-4 Away",101,98,NULL,NULL,Final,NULL,31,28,21,21,NULL,26,20,34,18,NULL,NBA
+12,271219006,2008,"Wed, Dec 19",Dallas Mavericks,Phoenix Suns,"18-9, 12-2 Home","18-8, 11-5 Away",108,105,NULL,NULL,Final,ESPN,37,21,25,25,NULL,20,34,23,28,NULL,NBA
+13,271225013,2008,"Tue, Dec 25",Los Angeles Lakers,Phoenix Suns,"18-10, 10-4 Home","19-9, 11-6 Away",122,115,NULL,NULL,Final,ABC,25,37,30,30,NULL,26,36,27,26,NULL,NBA
+14,271228021,2008,"Fri, Dec 28",Phoenix Suns,LA Clippers,"21-9, 9-3 Home","9-19, 5-10 Away",94,88,NULL,NULL,Final,NULL,27,24,15,28,NULL,19,28,18,23,NULL,NBA
+15,280103021,2008,"Thu, Jan 3",Phoenix Suns,Seattle SuperSonics,"23-9, 10-3 Home","9-23, 4-12 Away",104,96,NULL,NULL,Final,TNT,13,30,29,32,NULL,33,12,18,33,NULL,NBA
+16,280107021,2008,"Mon, Jan 7",Phoenix Suns,Denver Nuggets,"24-10, 11-4 Home","21-13, 7-8 Away",137,115,NULL,NULL,Final,NULL,46,32,28,31,NULL,34,25,31,25,NULL,NBA
+17,280110026,2008,"Thu, Jan 10",Utah Jazz,Phoenix Suns,"20-17, 14-3 Home","25-11, 13-7 Away",108,86,NULL,NULL,Final,TNT,35,23,28,22,NULL,28,20,12,26,NULL,NBA
+18,280115012,2008,"Tue, Jan 15",LA Clippers,Phoenix Suns,"11-23, 6-13 Home","26-12, 13-8 Away",97,90,NULL,NULL,Final,NULL,28,21,25,23,NULL,27,21,17,25,NULL,NBA
+19,280118021,2008,"Fri, Jan 18",Phoenix Suns,Minnesota Timberwolves,"28-12, 14-4 Home","5-33, 1-19 Away",115,95,NULL,NULL,Final,NULL,28,35,28,24,NULL,32,17,23,23,NULL,NBA
+20,280122015,2008,"Tue, Jan 22",Milwaukee Bucks,Phoenix Suns,"16-26, 11-7 Home","30-12, 15-8 Away",105,114,NULL,NULL,Final,NULL,24,38,21,22,NULL,30,24,23,37,NULL,NBA
+21,280125005,2008,"Fri, Jan 25",Cleveland Cavaliers,Phoenix Suns,"23-19, 13-7 Home","31-13, 16-9 Away",108,110,NULL,NULL,Final,NULL,34,35,21,18,NULL,29,27,31,23,NULL,NBA
+22,280129021,2008,"Tue, Jan 29",Phoenix Suns,Atlanta Hawks,"33-13, 16-4 Home","19-23, 6-14 Away",125,92,NULL,NULL,Final,NULL,28,24,38,35,NULL,17,16,33,26,NULL,NBA
+23,280204021,2008,"Mon, Feb 4",Phoenix Suns,Charlotte Bobcats,"34-14, 17-5 Home","18-31, 4-17 Away",118,104,NULL,NULL,Final,NULL,31,23,33,31,NULL,28,23,23,30,NULL,NBA
+24,280208021,2008,"Fri, Feb 8",Phoenix Suns,Seattle SuperSonics,"35-15, 18-6 Home","13-37, 5-20 Away",103,99,NULL,NULL,Final,NULL,26,27,25,25,NULL,23,26,25,25,NULL,NBA
+25,280213009,2008,"Wed, Feb 13",Golden State Warriors,Phoenix Suns,"32-20, 17-9 Home","36-16, 17-10 Away",120,118,NULL,NULL,Final,ESPN,38,21,28,33,NULL,32,23,35,28,NULL,NBA
+26,280220021,2008,"Wed, Feb 20",Phoenix Suns,Los Angeles Lakers,"37-17, 20-7 Home","37-17, 19-10 Away",124,130,NULL,NULL,Final,ESPN,29,28,34,33,NULL,32,33,30,35,NULL,NBA
+27,280224021,2008,"Sun, Feb 24",Phoenix Suns,Detroit Pistons,"38-18, 21-8 Home","41-15, 19-10 Away",86,116,NULL,NULL,Final,ABC,16,25,17,28,NULL,27,32,31,26,NULL,NBA
+28,280227003,2008,"Wed, Feb 27",New Orleans Hornets,Phoenix Suns,"38-18, 19-10 Home","39-19, 18-11 Away",120,103,NULL,NULL,Final,NULL,25,34,38,23,NULL,29,26,22,26,NULL,NBA
+29,280304022,2008,"Tue, Mar 4",Portland Trail Blazers,Phoenix Suns,"31-30, 22-9 Home","40-20, 19-11 Away",92,97,NULL,NULL,Final,NULL,20,21,30,21,NULL,29,31,19,18,NULL,NBA
+30,280307021,2008,"Fri, Mar 7",Phoenix Suns,Utah Jazz,"40-22, 21-10 Home","41-22, 14-19 Away",118,126,NULL,NULL,Final,NULL,33,33,28,24,NULL,28,31,26,41,NULL,NBA
+31,280311021,2008,"Tue, Mar 11",Phoenix Suns,Memphis Grizzlies,"42-22, 23-10 Home","15-48, 4-26 Away",132,111,NULL,NULL,Final,NULL,41,31,37,23,NULL,22,19,38,32,NULL,NBA
+32,280315021,2008,"Sat, Mar 15",Phoenix Suns,Sacramento Kings,"44-22, 25-10 Home","29-36, 10-24 Away",127,99,NULL,NULL,Final,NULL,37,42,22,26,NULL,34,14,31,20,NULL,NBA
+33,280319025,2008,"Wed, Mar 19",Seattle SuperSonics,Phoenix Suns,"16-52, 10-23 Home","46-22, 21-12 Away",98,110,NULL,NULL,Final,NULL,23,32,23,20,NULL,34,30,20,26,NULL,NBA
+34,280324008,2008,"Mon, Mar 24",Detroit Pistons,Phoenix Suns,"50-20, 28-6 Home","47-23, 21-13 Away",110,105,NULL,NULL,Final/OT,NULL,26,25,25,20,14,25,25,23,23,9,NBA
+35,280328020,2008,"Fri, Mar 28",Philadelphia 76ers,Phoenix Suns,"37-36, 21-16 Home","48-24, 22-14 Away",93,107,NULL,NULL,Final,NULL,19,25,27,22,NULL,38,23,23,23,NULL,NBA
+36,280331021,2008,"Mon, Mar 31",Phoenix Suns,Denver Nuggets,"50-24, 27-10 Home","45-29, 15-22 Away",132,117,NULL,NULL,Final,NBATV,25,26,35,46,NULL,39,31,22,25,NULL,NBA
+37,280404021,2008,"Fri, Apr 4",Phoenix Suns,Minnesota Timberwolves,"51-25, 28-10 Home","19-56, 5-32 Away",117,88,NULL,NULL,Final,NULL,36,26,24,31,NULL,15,26,23,24,NULL,NBA
+38,280408029,2008,"Tue, Apr 8",Memphis Grizzlies,Phoenix Suns,"21-57, 14-26 Home","52-26, 24-15 Away",113,127,NULL,NULL,Final,NULL,33,15,27,38,NULL,30,24,35,38,NULL,NBA
+39,280411010,2008,"Fri, Apr 11",Houston Rockets,Phoenix Suns,"54-25, 30-10 Home","53-27, 25-16 Away",101,90,NULL,NULL,Final,NULL,29,30,23,19,NULL,28,19,19,24,NULL,NBA
+40,271101025,2008,"Thu, Nov 1",Seattle SuperSonics,Phoenix Suns,"0-2, 0-1 Home","1-0, 1-0 Away",99,106,NULL,NULL,Final,TNT,26,32,24,17,NULL,27,28,24,27,NULL,NBA
+41,271104021,2008,"Sun, Nov 4",Phoenix Suns,Cleveland Cavaliers,"2-1, 1-1 Home","1-2, 0-1 Away",103,92,NULL,NULL,Final,NBATV,21,17,31,34,NULL,22,23,19,28,NULL,NBA
+42,271107001,2008,"Wed, Nov 7",Atlanta Hawks,Phoenix Suns,"2-2, 2-0 Home","3-2, 2-1 Away",105,96,NULL,NULL,Final,NULL,32,23,25,25,NULL,27,20,29,20,NULL,NBA
+43,271110019,2008,"Sat, Nov 10",Orlando Magic,Phoenix Suns,"5-2, 1-2 Home","5-2, 4-1 Away",96,106,NULL,NULL,Final,NULL,27,16,23,30,NULL,34,25,26,21,NULL,NBA
+44,271115021,2008,"Thu, Nov 15",Phoenix Suns,Chicago Bulls,"7-2, 3-1 Home","1-6, 0-3 Away",112,102,NULL,NULL,Final,TNT,26,30,19,37,NULL,22,24,29,27,NULL,NBA
+45,271120023,2008,"Tue, Nov 20",Sacramento Kings,Phoenix Suns,"4-7, 4-2 Home","9-2, 6-1 Away",98,100,NULL,NULL,Final,NULL,26,21,27,24,NULL,27,28,31,14,NULL,NBA
+46,271123021,2008,"Fri, Nov 23",Phoenix Suns,LA Clippers,"11-2, 5-1 Home","6-5, 2-3 Away",113,94,NULL,NULL,Final,NULL,22,29,35,27,NULL,27,25,22,20,NULL,NBA
+47,271128021,2008,"Wed, Nov 28",Phoenix Suns,Houston Rockets,"11-4, 5-2 Home","9-7, 5-4 Away",94,100,NULL,NULL,Final,NULL,28,24,21,21,NULL,27,29,21,23,NULL,NBA
+48,271202018,2008,"Sun, Dec 2",New York Knicks,Phoenix Suns,"5-11, 5-4 Home","13-4, 7-2 Away",104,115,NULL,NULL,Final,NULL,29,28,27,20,NULL,37,24,24,30,NULL,NBA
+49,271205028,2008,"Wed, Dec 5",Toronto Raptors,Phoenix Suns,"10-9, 6-5 Home","15-4, 9-2 Away",123,136,NULL,NULL,Final,TSNT,28,28,29,38,NULL,33,28,45,30,NULL,NBA
+50,271208016,2008,"Sat, Dec 8",Minnesota Timberwolves,Phoenix Suns,"3-15, 2-8 Home","16-5, 10-3 Away",100,93,NULL,NULL,Final,NULL,28,27,32,13,NULL,32,24,24,13,NULL,NBA
+51,271212021,2008,"Wed, Dec 12",Phoenix Suns,Utah Jazz,"17-6, 7-3 Home","13-10, 5-8 Away",103,98,NULL,NULL,Final,ESPN,24,25,18,36,NULL,22,23,20,33,NULL,NBA
+52,271217024,2008,"Mon, Dec 17",San Antonio Spurs,Phoenix Suns,"18-6, 13-1 Home","18-7, 11-4 Away",95,100,NULL,NULL,Final,NBATV,20,30,17,28,NULL,26,25,23,26,NULL,NBA
+53,271222021,2008,"Sat, Dec 22",Phoenix Suns,Toronto Raptors,"19-8, 8-3 Home","15-14, 7-8 Away",122,103,NULL,NULL,Final,NULL,35,31,37,19,NULL,30,31,22,20,NULL,NBA
+54,271227012,2008,"Thu, Dec 27",LA Clippers,Phoenix Suns,"9-18, 4-9 Home","20-9, 12-6 Away",88,108,NULL,NULL,Final,NULL,20,20,19,29,NULL,27,32,30,19,NULL,NBA
+55,271230023,2008,"Sun, Dec 30",Sacramento Kings,Phoenix Suns,"11-18, 8-8 Home","22-9, 13-6 Away",102,117,NULL,NULL,Final,NULL,28,27,31,16,NULL,32,32,29,24,NULL,NBA
+56,280105021,2008,"Sat, Jan 5",Phoenix Suns,New Orleans Hornets,"23-10, 10-4 Home","23-11, 14-5 Away",113,118,NULL,NULL,Final,NULL,31,37,25,20,NULL,34,23,33,28,NULL,NBA
+57,280109021,2008,"Wed, Jan 9",Phoenix Suns,Indiana Pacers,"25-10, 12-4 Home","16-21, 8-12 Away",129,122,NULL,NULL,Final/OT,NULL,35,23,30,24,17,31,33,28,20,10,NBA
+58,280112021,2008,"Sat, Jan 12",Phoenix Suns,Milwaukee Bucks,"26-11, 13-4 Home","15-22, 5-17 Away",122,114,NULL,NULL,Final,NULL,29,32,35,26,NULL,31,37,18,28,NULL,NBA
+59,280117013,2008,"Thu, Jan 17",Los Angeles Lakers,Phoenix Suns,"26-12, 15-6 Home","27-12, 14-8 Away",98,106,NULL,NULL,Final,TNT,24,19,18,37,NULL,27,29,23,27,NULL,NBA
+60,280120021,2008,"Sun, Jan 20",Phoenix Suns,New Jersey Nets,"29-12, 15-4 Home","18-22, 9-8 Away",116,92,NULL,NULL,Final,NBATV,35,21,33,27,NULL,20,25,28,19,NULL,NBA
+61,280123016,2008,"Wed, Jan 23",Minnesota Timberwolves,Phoenix Suns,"7-34, 5-14 Home","30-13, 15-9 Away",117,107,NULL,NULL,Final,NULL,32,33,23,29,NULL,27,23,25,32,NULL,NBA
+62,280127004,2008,"Sun, Jan 27",Chicago Bulls,Phoenix Suns,"17-26, 9-13 Home","32-13, 17-9 Away",77,88,NULL,NULL,Final,NULL,15,27,22,13,NULL,20,26,22,20,NULL,NBA
+63,280131021,2008,"Thu, Jan 31",Phoenix Suns,San Antonio Spurs,"33-14, 16-5 Home","29-16, 9-11 Away",81,84,NULL,NULL,Final,TNT,25,15,20,21,NULL,18,16,21,29,NULL,NBA
+64,280206021,2008,"Wed, Feb 6",Phoenix Suns,New Orleans Hornets,"34-15, 17-6 Home","33-15, 17-7 Away",130,132,NULL,NULL,Final/2OT,NBATV,27,28,27,29,19,30,33,24,24,21,NBA
+65,280210021,2008,"Sun, Feb 10",Phoenix Suns,Washington Wizards,"36-15, 19-6 Home","24-26, 9-15 Away",108,107,NULL,NULL,Final,ESPN,27,24,34,23,NULL,21,25,35,26,NULL,NBA
+66,280214021,2008,"Thu, Feb 14",Phoenix Suns,Dallas Mavericks,"37-16, 20-6 Home","35-18, 12-15 Away",109,97,NULL,NULL,Final,TNT,23,29,25,32,NULL,24,29,20,24,NULL,NBA
+67,280222021,2008,"Fri, Feb 22",Phoenix Suns,Boston Celtics,"38-17, 21-7 Home","41-12, 18-8 Away",85,77,NULL,NULL,Final,ESPN,24,19,20,22,NULL,13,17,19,28,NULL,NBA
+68,280226029,2008,"Tue, Feb 26",Memphis Grizzlies,Phoenix Suns,"14-43, 10-20 Home","39-18, 18-10 Away",113,127,NULL,NULL,Final,NULL,23,30,36,24,NULL,28,33,29,37,NULL,NBA
+69,280301021,2008,"Sat, Mar 1",Phoenix Suns,Philadelphia 76ers,"39-20, 21-9 Home","27-33, 11-19 Away",114,119,NULL,NULL,Final,CSN,18,36,27,33,NULL,28,26,29,36,NULL,NBA
+70,280305007,2008,"Wed, Mar 5",Denver Nuggets,Phoenix Suns,"36-24, 24-7 Home","40-21, 19-12 Away",126,113,NULL,NULL,Final,ESPN,32,36,33,25,NULL,36,25,28,24,NULL,NBA
+71,280309021,2008,"Sun, Mar 9",Phoenix Suns,San Antonio Spurs,"41-22, 22-10 Home","43-19, 17-14 Away",94,87,NULL,NULL,Final,ABC,22,23,24,25,NULL,25,23,22,17,NULL,NBA
+72,280313021,2008,"Thu, Mar 13",Phoenix Suns,Golden State Warriors,"43-22, 24-10 Home","40-24, 18-14 Away",123,115,NULL,NULL,Final,TNT,34,23,38,28,NULL,39,23,22,31,NULL,NBA
+73,280318022,2008,"Tue, Mar 18",Portland Trail Blazers,Phoenix Suns,"35-33, 23-10 Home","45-22, 20-12 Away",98,111,NULL,NULL,Final,NULL,27,22,27,22,NULL,28,29,30,24,NULL,NBA
+74,280322021,2008,"Sat, Mar 22",Phoenix Suns,Houston Rockets,"47-22, 26-10 Home","47-23, 21-13 Away",122,113,NULL,NULL,Final,NBATV,38,36,21,27,NULL,21,36,28,28,NULL,NBA
+75,280326002,2008,"Wed, Mar 26",Boston Celtics,Phoenix Suns,"56-15, 30-6 Home","47-24, 21-14 Away",117,97,NULL,NULL,Final,ESPN,33,24,27,33,NULL,20,37,16,24,NULL,NBA
+76,280329017,2008,"Sat, Mar 29",New Jersey Nets,Phoenix Suns,"31-43, 19-19 Home","49-24, 23-14 Away",104,110,NULL,NULL,Final,YES,31,20,20,33,NULL,21,31,30,28,NULL,NBA
+77,280401007,2008,"Tue, Apr 1",Denver Nuggets,Phoenix Suns,"46-29, 31-7 Home","50-25, 23-15 Away",126,120,NULL,NULL,Final,NBATV,36,34,31,25,NULL,28,37,30,25,NULL,NBA
+78,280406021,2008,"Sun, Apr 6",Phoenix Suns,Dallas Mavericks,"51-26, 28-11 Home","48-29, 17-22 Away",98,105,NULL,NULL,Final,ABC,28,29,32,9,NULL,26,26,26,27,NULL,NBA
+79,280409024,2008,"Wed, Apr 9",San Antonio Spurs,Phoenix Suns,"53-25, 32-7 Home","53-26, 25-15 Away",79,96,NULL,NULL,Final,ESPN,24,21,23,11,NULL,16,29,27,24,NULL,NBA
+80,280414021,2008,"Mon, Apr 14",Phoenix Suns,Golden State Warriors,"54-27, 29-11 Home","48-33, 21-20 Away",122,116,NULL,NULL,Final,TBS,31,40,19,32,NULL,27,30,38,21,NULL,NBA
+81,280416021,2008,"Wed, Apr 16",Phoenix Suns,Portland Trail Blazers,"55-27, 30-11 Home","41-41, 13-28 Away",100,91,NULL,NULL,Final,NULL,30,28,21,21,NULL,25,24,19,23,NULL,NBA

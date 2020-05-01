@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,400578330,2015,"Sat, Nov 1",Golden State Warriors,Los Angeles Lakers,"2-0, 1-0 Home","0-4, 0-2 Away",127,104,NULL,NULL,Final,NBATV,29,32,32,34,NULL,35,20,31,18,NULL,NBA
+1,400578360,2015,"Wed, Nov 5",Golden State Warriors,LA Clippers,"4-0, 2-0 Home","3-2, 1-1 Away",121,104,NULL,NULL,Final,ESPN,30,35,37,19,NULL,20,22,33,29,NULL,NBA
+2,400578387,2015,"Sun, Nov 9",Phoenix Suns,Golden State Warriors,"4-3, 3-2 Home","5-1, 3-1 Away",107,95,NULL,NULL,Final,NULL,28,19,24,36,NULL,30,28,21,16,NULL,NBA
+3,400578413,2015,"Thu, Nov 13",Golden State Warriors,Brooklyn Nets,"6-2, 3-1 Home","4-4, 1-3 Away",107,99,NULL,NULL,Final,TNT,32,34,21,20,NULL,36,19,20,24,NULL,NBA
+4,400578437,2015,"Sun, Nov 16",Los Angeles Lakers,Golden State Warriors,"1-9, 1-5 Home","8-2, 4-1 Away",115,136,NULL,NULL,Final,NULL,23,32,24,36,NULL,34,40,41,21,NULL,NBA
+5,400578488,2015,"Sun, Nov 23",Oklahoma City Thunder,Golden State Warriors,"3-12, 2-5 Home","10-2, 5-1 Away",86,91,NULL,NULL,Final,NULL,20,27,19,20,NULL,28,24,18,21,NULL,NBA
+6,400578504,2015,"Wed, Nov 26",Orlando Magic,Golden State Warriors,"6-11, 2-5 Home","12-2, 7-1 Away",96,111,NULL,NULL,Final,NULL,27,25,13,31,NULL,31,34,27,19,NULL,NBA
+7,400578535,2015,"Sun, Nov 30",Detroit Pistons,Golden State Warriors,"3-14, 2-7 Home","14-2, 9-1 Away",93,104,NULL,NULL,Final,NULL,24,16,31,22,NULL,21,32,29,22,NULL,NBA
+8,400578567,2015,"Thu, Dec 4",Golden State Warriors,New Orleans Pelicans,"16-2, 7-1 Home","8-9, 3-7 Away",112,85,NULL,NULL,Final,TNT,22,31,27,32,NULL,28,12,26,19,NULL,NBA
+9,400578597,2015,"Mon, Dec 8",Minnesota Timberwolves,Golden State Warriors,"4-16, 2-8 Home","18-2, 11-1 Away",86,102,NULL,NULL,Final,NULL,20,19,24,23,NULL,25,23,31,23,NULL,NBA
+10,400578632,2015,"Sat, Dec 13",Dallas Mavericks,Golden State Warriors,"17-8, 9-4 Home","20-2, 12-1 Away",98,105,NULL,NULL,Final,NULL,18,26,24,30,NULL,39,27,21,18,NULL,NBA
+11,400578657,2015,"Tue, Dec 16",Memphis Grizzlies,Golden State Warriors,"20-4, 12-1 Home","21-3, 13-2 Away",105,98,NULL,NULL,Final,ESPN,24,33,23,25,NULL,30,19,20,29,NULL,NBA
+12,400578707,2015,"Mon, Dec 22",Golden State Warriors,Sacramento Kings,"23-3, 10-1 Home","12-16, 5-7 Away",128,108,NULL,NULL,Final,NULL,36,28,29,35,NULL,20,30,26,32,NULL,NBA
+13,400578723,2015,"Thu, Dec 25",LA Clippers,Golden State Warriors,"20-10, 12-3 Home","23-5, 13-4 Away",100,86,NULL,NULL,Final,TNT,18,23,32,27,NULL,20,22,28,16,NULL,NBA
+14,400578766,2015,"Tue, Dec 30",Golden State Warriors,Philadelphia 76ers,"25-5, 12-1 Home","4-26, 4-12 Away",126,86,NULL,NULL,Final,NULL,32,29,35,30,NULL,17,17,29,23,NULL,NBA
+15,400578810,2015,"Mon, Jan 5",Golden State Warriors,Oklahoma City Thunder,"27-5, 14-1 Home","17-18, 7-11 Away",117,91,NULL,NULL,Final,NBATV,34,31,19,33,NULL,25,20,20,26,NULL,NBA
+16,400578839,2015,"Fri, Jan 9",Golden State Warriors,Cleveland Cavaliers,"29-5, 16-1 Home","19-18, 8-9 Away",112,94,NULL,NULL,Final,ESPN,30,30,24,28,NULL,32,22,22,18,NULL,NBA
+17,400578874,2015,"Wed, Jan 14",Golden State Warriors,Miami Heat,"31-5, 17-1 Home","17-22, 10-10 Away",104,89,NULL,NULL,Final,NULL,26,29,26,23,NULL,18,20,25,26,NULL,NBA
+18,400578895,2015,"Sat, Jan 17",Houston Rockets,Golden State Warriors,"28-13, 14-7 Home","32-6, 15-5 Away",106,131,NULL,NULL,Final,NBATV,31,28,21,26,NULL,31,33,38,29,NULL,NBA
+19,400578928,2015,"Wed, Jan 21",Golden State Warriors,Houston Rockets,"34-6, 19-1 Home","29-14, 14-7 Away",126,113,NULL,NULL,Final,ESPN,32,30,40,24,NULL,29,13,36,35,NULL,NBA
+20,400578957,2015,"Sun, Jan 25",Golden State Warriors,Boston Celtics,"36-6, 21-1 Home","15-27, 6-14 Away",114,111,NULL,NULL,Final,NULL,30,26,33,25,NULL,23,26,28,34,NULL,NBA
+21,400578995,2015,"Fri, Jan 30",Utah Jazz,Golden State Warriors,"17-30, 9-14 Home","36-8, 15-6 Away",110,100,NULL,NULL,Final,NULL,23,33,25,29,NULL,19,26,23,32,NULL,NBA
+22,400579022,2015,"Tue, Feb 3",Sacramento Kings,Golden State Warriors,"17-30, 10-16 Home","38-8, 16-6 Away",96,121,NULL,NULL,Final,NULL,22,20,38,16,NULL,29,34,31,27,NULL,NBA
+23,400579041,2015,"Fri, Feb 6",Atlanta Hawks,Golden State Warriors,"42-9, 25-3 Home","39-9, 16-7 Away",124,116,NULL,NULL,Final,NULL,21,31,37,35,NULL,25,27,33,31,NULL,NBA
+24,400579067,2015,"Mon, Feb 9",Philadelphia 76ers,Golden State Warriors,"12-41, 7-19 Home","41-9, 18-7 Away",84,89,NULL,NULL,Final,NULL,24,20,17,23,NULL,20,26,21,22,NULL,NBA
+25,400579106,2015,"Fri, Feb 20",Golden State Warriors,San Antonio Spurs,"43-9, 24-2 Home","34-21, 14-14 Away",110,99,NULL,NULL,Final,ESPN,27,35,27,21,NULL,29,26,13,31,NULL,NBA
+26,400579130,2015,"Tue, Feb 24",Washington Wizards,Golden State Warriors,"33-24, 20-10 Home","44-10, 20-8 Away",107,114,NULL,NULL,Final,NULL,28,23,32,24,NULL,30,24,32,28,NULL,NBA
+27,400579153,2015,"Fri, Feb 27",Toronto Raptors,Golden State Warriors,"37-21, 21-10 Home","45-11, 21-9 Away",89,113,NULL,NULL,Final,NULL,11,20,26,32,NULL,27,27,44,15,NULL,NBA
+28,400579178,2015,"Mon, Mar 2",Brooklyn Nets,Golden State Warriors,"25-33, 11-15 Home","46-12, 22-10 Away",110,108,NULL,NULL,Final,NULL,33,24,29,24,NULL,23,28,29,28,NULL,NBA
+29,400579214,2015,"Fri, Mar 6",Golden State Warriors,Dallas Mavericks,"48-12, 26-2 Home","40-24, 19-14 Away",104,89,NULL,NULL,Final,ESPN,29,23,30,22,NULL,24,16,24,25,NULL,NBA
+30,400579236,2015,"Mon, Mar 9",Phoenix Suns,Golden State Warriors,"33-32, 17-14 Home","50-12, 23-10 Away",80,98,NULL,NULL,Final,NULL,19,27,15,19,NULL,25,21,30,22,NULL,NBA
+31,400579265,2015,"Fri, Mar 13",Denver Nuggets,Golden State Warriors,"25-41, 16-19 Home","51-13, 23-11 Away",114,103,NULL,NULL,Final,NULL,34,28,20,32,NULL,26,28,29,20,NULL,NBA
+32,400579291,2015,"Mon, Mar 16",Golden State Warriors,Los Angeles Lakers,"53-13, 30-2 Home","17-49, 7-26 Away",108,105,NULL,NULL,Final,ESPN,30,28,24,26,NULL,30,24,24,27,NULL,NBA
+33,400579322,2015,"Fri, Mar 20",Golden State Warriors,New Orleans Pelicans,"55-13, 32-2 Home","37-32, 14-20 Away",112,96,NULL,NULL,Final,NULL,30,23,33,26,NULL,26,16,26,28,NULL,NBA
+34,400579345,2015,"Mon, Mar 23",Golden State Warriors,Washington Wizards,"57-13, 34-2 Home","40-31, 15-21 Away",107,76,NULL,NULL,Final,NBATV,27,25,29,26,NULL,24,25,8,19,NULL,NBA
+35,400579374,2015,"Fri, Mar 27",Memphis Grizzlies,Golden State Warriors,"50-23, 27-9 Home","59-13, 25-11 Away",84,107,NULL,NULL,Final,NULL,24,25,16,19,NULL,31,23,31,22,NULL,NBA
+36,400579403,2015,"Tue, Mar 31",LA Clippers,Golden State Warriors,"49-26, 27-11 Home","61-13, 27-11 Away",106,110,NULL,NULL,Final,TNT,30,23,35,18,NULL,18,28,36,28,NULL,NBA
+37,400579434,2015,"Sat, Apr 4",Dallas Mavericks,Golden State Warriors,"46-31, 25-14 Home","63-13, 28-11 Away",110,123,NULL,NULL,Final,NULL,24,24,28,34,NULL,26,33,31,33,NULL,NBA
+38,400579448,2015,"Tue, Apr 7",New Orleans Pelicans,Golden State Warriors,"42-35, 26-13 Home","63-15, 28-13 Away",103,100,NULL,NULL,Final,NULL,19,24,36,24,NULL,27,28,23,22,NULL,NBA
+39,400579484,2015,"Sat, Apr 11",Golden State Warriors,Minnesota Timberwolves,"65-15, 37-2 Home","16-64, 7-34 Away",110,101,NULL,NULL,Final,NULL,28,32,26,24,NULL,31,24,14,32,NULL,NBA
+40,400578306,2015,"Wed, Oct 29",Sacramento Kings,Golden State Warriors,"0-1, 0-1 Home","1-0, 1-0 Away",77,95,NULL,NULL,Final,NULL,23,26,14,14,NULL,25,22,26,22,NULL,NBA
+41,400578334,2015,"Sun, Nov 2",Portland Trail Blazers,Golden State Warriors,"1-2, 1-1 Home","3-0, 2-0 Away",90,95,NULL,NULL,Final,NULL,22,26,20,22,NULL,30,21,17,27,NULL,NBA
+42,400578379,2015,"Sat, Nov 8",Houston Rockets,Golden State Warriors,"6-1, 2-1 Home","5-0, 3-0 Away",87,98,NULL,NULL,Final,NULL,29,27,13,18,NULL,25,23,28,22,NULL,NBA
+43,400578400,2015,"Tue, Nov 11",Golden State Warriors,San Antonio Spurs,"5-2, 2-1 Home","4-3, 2-2 Away",100,113,NULL,NULL,Final,NBATV,26,18,26,30,NULL,29,21,32,31,NULL,NBA
+44,400578432,2015,"Sat, Nov 15",Golden State Warriors,Charlotte Hornets,"7-2, 4-1 Home","4-6, 1-5 Away",112,87,NULL,NULL,Final,NULL,28,39,29,16,NULL,23,23,22,19,NULL,NBA
+45,400578474,2015,"Fri, Nov 21",Golden State Warriors,Utah Jazz,"9-2, 5-1 Home","5-8, 2-6 Away",101,88,NULL,NULL,Final,NULL,28,26,31,16,NULL,13,19,25,31,NULL,NBA
+46,400578498,2015,"Tue, Nov 25",Miami Heat,Golden State Warriors,"8-7, 4-5 Home","11-2, 6-1 Away",97,114,NULL,NULL,Final,NBATV,36,26,24,11,NULL,30,31,30,23,NULL,NBA
+47,400578516,2015,"Fri, Nov 28",Charlotte Hornets,Golden State Warriors,"4-13, 3-6 Home","13-2, 8-1 Away",101,106,NULL,NULL,Final,NULL,24,31,25,21,NULL,28,21,25,32,NULL,NBA
+48,400578554,2015,"Tue, Dec 2",Golden State Warriors,Orlando Magic,"15-2, 6-1 Home","7-13, 5-8 Away",98,97,NULL,NULL,Final,NULL,24,32,17,25,NULL,25,21,29,22,NULL,NBA
+49,400578581,2015,"Sat, Dec 6",Chicago Bulls,Golden State Warriors,"12-8, 2-5 Home","17-2, 10-1 Away",102,112,NULL,NULL,Final,NBATV,22,27,31,22,NULL,28,33,18,33,NULL,NBA
+50,400578616,2015,"Wed, Dec 10",Golden State Warriors,Houston Rockets,"19-2, 8-1 Home","16-5, 8-2 Away",105,93,NULL,NULL,Final,NULL,23,23,27,32,NULL,30,16,30,17,NULL,NBA
+51,400578640,2015,"Sun, Dec 14",New Orleans Pelicans,Golden State Warriors,"11-12, 7-3 Home","21-2, 13-1 Away",122,128,NULL,NULL,Final/OT,NULL,31,20,38,22,11,28,32,29,22,17,NBA
+52,400578674,2015,"Thu, Dec 18",Golden State Warriors,Oklahoma City Thunder,"22-3, 9-1 Home","12-14, 5-9 Away",114,109,NULL,NULL,Final,TNT,32,33,29,20,NULL,40,23,26,20,NULL,NBA
+53,400578718,2015,"Tue, Dec 23",Los Angeles Lakers,Golden State Warriors,"9-19, 4-10 Home","23-4, 13-3 Away",115,105,NULL,NULL,Final,NULL,34,29,32,20,NULL,24,24,25,32,NULL,NBA
+54,400578744,2015,"Sat, Dec 27",Golden State Warriors,Minnesota Timberwolves,"24-5, 11-1 Home","5-24, 2-13 Away",110,97,NULL,NULL,Final,NULL,31,27,30,22,NULL,23,25,19,30,NULL,NBA
+55,400578785,2015,"Fri, Jan 2",Golden State Warriors,Toronto Raptors,"26-5, 13-1 Home","24-9, 10-6 Away",126,105,NULL,NULL,Final,NULL,40,26,31,29,NULL,31,30,23,21,NULL,NBA
+56,400578825,2015,"Wed, Jan 7",Golden State Warriors,Indiana Pacers,"28-5, 15-1 Home","14-23, 7-14 Away",117,102,NULL,NULL,Final,NULL,23,27,34,33,NULL,28,22,26,26,NULL,NBA
+57,400578863,2015,"Tue, Jan 13",Utah Jazz,Golden State Warriors,"13-26, 6-12 Home","30-5, 14-4 Away",105,116,NULL,NULL,Final,NULL,26,27,27,25,NULL,25,28,44,19,NULL,NBA
+58,400578885,2015,"Fri, Jan 16",Oklahoma City Thunder,Golden State Warriors,"19-20, 12-7 Home","31-6, 14-5 Away",127,115,NULL,NULL,Final,ESPN,33,36,29,29,NULL,35,25,31,24,NULL,NBA
+59,400578907,2015,"Mon, Jan 19",Golden State Warriors,Denver Nuggets,"33-6, 18-1 Home","18-23, 6-14 Away",122,79,NULL,NULL,Final,NULL,25,30,34,33,NULL,15,13,32,19,NULL,NBA
+60,400578943,2015,"Fri, Jan 23",Golden State Warriors,Sacramento Kings,"35-6, 20-1 Home","16-27, 6-12 Away",126,101,NULL,NULL,Final,NULL,34,22,41,29,NULL,25,26,22,28,NULL,NBA
+61,400578971,2015,"Tue, Jan 27",Golden State Warriors,Chicago Bulls,"36-7, 21-2 Home","30-17, 17-6 Away",111,113,NULL,NULL,Final/OT,NBATV,35,21,25,26,4,29,22,28,28,6,NBA
+62,400579007,2015,"Sat, Jan 31",Golden State Warriors,Phoenix Suns,"37-8, 22-2 Home","28-21, 13-12 Away",106,87,NULL,NULL,Final,NULL,23,29,26,28,NULL,28,23,19,17,NULL,NBA
+63,400579033,2015,"Wed, Feb 4",Golden State Warriors,Dallas Mavericks,"39-8, 23-2 Home","33-18, 18-10 Away",128,114,NULL,NULL,Final,ESPN,25,33,43,27,NULL,42,20,36,16,NULL,NBA
+64,400579052,2015,"Sat, Feb 7",New York Knicks,Golden State Warriors,"10-41, 7-19 Home","40-9, 17-7 Away",92,106,NULL,NULL,Final,NULL,19,29,26,18,NULL,32,32,27,15,NULL,NBA
+65,400579085,2015,"Wed, Feb 11",Minnesota Timberwolves,Golden State Warriors,"11-42, 6-21 Home","42-9, 19-7 Away",91,94,NULL,NULL,Final,NULL,25,21,21,24,NULL,28,28,17,21,NULL,NBA
+66,400579116,2015,"Sun, Feb 22",Indiana Pacers,Golden State Warriors,"23-33, 12-14 Home","43-10, 19-8 Away",104,98,NULL,NULL,Final,NULL,26,32,23,23,NULL,38,19,21,20,NULL,NBA
+67,400579146,2015,"Thu, Feb 26",Cleveland Cavaliers,Golden State Warriors,"37-22, 22-9 Home","44-11, 20-9 Away",110,99,NULL,NULL,Final,TNT,32,29,29,20,NULL,33,23,22,21,NULL,NBA
+68,400579172,2015,"Sun, Mar 1",Boston Celtics,Golden State Warriors,"23-34, 14-16 Home","46-11, 22-9 Away",101,106,NULL,NULL,Final,NULL,38,27,21,15,NULL,25,24,26,31,NULL,NBA
+69,400579199,2015,"Wed, Mar 4",Golden State Warriors,Milwaukee Bucks,"47-12, 25-2 Home","32-29, 15-18 Away",102,93,NULL,NULL,Final,NULL,25,28,19,30,NULL,19,34,18,22,NULL,NBA
+70,400579224,2015,"Sun, Mar 8",Golden State Warriors,LA Clippers,"49-12, 27-2 Home","40-23, 17-14 Away",106,98,NULL,NULL,Final,ABC,29,28,30,19,NULL,28,22,18,30,NULL,NBA
+71,400579252,2015,"Wed, Mar 11",Golden State Warriors,Detroit Pistons,"51-12, 28-2 Home","23-41, 11-20 Away",105,98,NULL,NULL,Final,NULL,30,26,23,26,NULL,25,26,25,22,NULL,NBA
+72,400579273,2015,"Sat, Mar 14",Golden State Warriors,New York Knicks,"52-13, 29-2 Home","13-52, 5-29 Away",125,94,NULL,NULL,Final,NULL,26,47,38,14,NULL,27,25,21,21,NULL,NBA
+73,400579306,2015,"Wed, Mar 18",Golden State Warriors,Atlanta Hawks,"54-13, 31-2 Home","53-15, 23-11 Away",114,95,NULL,NULL,Final,ESPN,28,31,24,31,NULL,24,23,17,31,NULL,NBA
+74,400579328,2015,"Sat, Mar 21",Golden State Warriors,Utah Jazz,"56-13, 33-2 Home","31-38, 14-21 Away",106,91,NULL,NULL,Final,NULL,19,30,36,21,NULL,15,25,33,18,NULL,NBA
+75,400579351,2015,"Tue, Mar 24",Portland Trail Blazers,Golden State Warriors,"44-25, 28-7 Home","58-13, 24-11 Away",108,122,NULL,NULL,Final,TNT,30,32,18,28,NULL,26,31,36,29,NULL,NBA
+76,400579381,2015,"Sat, Mar 28",Milwaukee Bucks,Golden State Warriors,"36-37, 21-15 Home","60-13, 26-11 Away",95,108,NULL,NULL,Final,NULL,23,15,25,32,NULL,24,24,34,26,NULL,NBA
+77,400579418,2015,"Thu, Apr 2",Golden State Warriors,Phoenix Suns,"62-13, 35-2 Home","38-38, 17-20 Away",107,106,NULL,NULL,Final,TNT,27,28,22,30,NULL,22,22,27,35,NULL,NBA
+78,400579442,2015,"Sun, Apr 5",San Antonio Spurs,Golden State Warriors,"51-26, 31-8 Home","63-14, 28-12 Away",107,92,NULL,NULL,Final,NBATV,31,26,32,18,NULL,17,21,29,25,NULL,NBA
+79,400579466,2015,"Thu, Apr 9",Golden State Warriors,Portland Trail Blazers,"64-15, 36-2 Home","51-28, 19-20 Away",116,105,NULL,NULL,Final,TNT,30,27,27,32,NULL,27,27,30,21,NULL,NBA
+80,400579504,2015,"Mon, Apr 13",Golden State Warriors,Memphis Grizzlies,"66-15, 38-2 Home","54-27, 24-17 Away",111,107,NULL,NULL,Final,NBATV,36,32,25,18,NULL,21,25,20,41,NULL,NBA
+81,400579521,2015,"Wed, Apr 15",Golden State Warriors,Denver Nuggets,"67-15, 39-2 Home","30-52, 11-30 Away",133,126,NULL,NULL,Final,NULL,35,36,29,33,NULL,23,44,33,26,NULL,NBA

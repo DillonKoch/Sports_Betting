@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,211101007,2002,"Thu, Nov 1",Denver Nuggets,Milwaukee Bucks,"1-1, 0-1 Home","2-0, 2-0 Away",101,102,NULL,NULL,Final,NULL,33,30,22,16,NULL,27,22,28,25,NULL,NBA
+1,211106010,2002,"Tue, Nov 6",Houston Rockets,Denver Nuggets,"4-1, 3-1 Home","1-3, 1-1 Away",99,93,NULL,NULL,Final,NULL,28,30,19,22,NULL,24,24,22,23,NULL,NBA
+2,211109007,2002,"Fri, Nov 9",Denver Nuggets,Houston Rockets,"2-4, 1-2 Home","5-2, 1-1 Away",108,81,NULL,NULL,Final,NULL,25,25,37,21,NULL,22,24,16,19,NULL,NBA
+3,211113007,2002,"Tue, Nov 13",Denver Nuggets,Chicago Bulls,"4-4, 3-2 Home","1-6, 0-3 Away",101,93,NULL,NULL,Final,NULL,29,30,19,23,NULL,27,28,23,15,NULL,NBA
+4,211117025,2002,"Sat, Nov 17",Seattle SuperSonics,Denver Nuggets,"4-7, 2-3 Home","5-5, 2-2 Away",93,103,NULL,NULL,Final,NULL,26,28,16,23,NULL,22,26,33,22,NULL,NBA
+5,211121007,2002,"Wed, Nov 21",Denver Nuggets,Los Angeles Lakers,"6-6, 4-4 Home","10-1, 4-1 Away",68,89,NULL,NULL,Final,NULL,13,22,20,13,NULL,27,22,17,23,NULL,NBA
+6,211125013,2002,"Sun, Nov 25",Los Angeles Lakers,Denver Nuggets,"12-1, 8-0 Home","6-8, 2-4 Away",105,98,NULL,NULL,Final,NULL,29,33,16,27,NULL,23,28,29,18,NULL,NBA
+7,211130007,2002,"Fri, Nov 30",Denver Nuggets,LA Clippers,"7-9, 5-5 Home","7-9, 0-5 Away",96,93,NULL,NULL,Final,NULL,24,20,22,30,NULL,14,31,21,27,NULL,NBA
+8,211205002,2002,"Wed, Dec 5",Boston Celtics,Denver Nuggets,"10-6, 5-3 Home","7-11, 2-6 Away",95,80,NULL,NULL,Final,NULL,28,23,31,13,NULL,24,20,16,20,NULL,NBA
+9,211208005,2002,"Sat, Dec 8",Cleveland Cavaliers,Denver Nuggets,"8-12, 6-5 Home","7-13, 2-8 Away",109,99,NULL,NULL,Final,NULL,23,35,32,19,NULL,27,15,29,28,NULL,NBA
+10,211213007,2002,"Thu, Dec 13",Denver Nuggets,Memphis Grizzlies,"8-14, 6-6 Home","5-16, 1-9 Away",89,86,NULL,NULL,Final,NULL,20,17,29,23,NULL,21,26,20,19,NULL,NBA
+11,211218007,2002,"Tue, Dec 18",Denver Nuggets,San Antonio Spurs,"9-15, 7-7 Home","18-4, 7-3 Away",93,102,NULL,NULL,Final,NULL,27,18,27,21,NULL,26,23,22,31,NULL,NBA
+12,211222007,2002,"Sat, Dec 22",Denver Nuggets,Golden State Warriors,"9-17, 7-8 Home","11-17, 5-10 Away",101,105,NULL,NULL,Final,NULL,25,15,31,30,NULL,22,27,27,29,NULL,NBA
+13,211228007,2002,"Fri, Dec 28",Denver Nuggets,Philadelphia 76ers,"10-18, 8-9 Home","12-17, 6-11 Away",93,90,NULL,NULL,Final,NULL,23,27,27,16,NULL,26,20,21,23,NULL,NBA
+14,220102007,2002,"Wed, Jan 2",Denver Nuggets,Los Angeles Lakers,"10-20, 8-10 Home","22-6, 7-4 Away",86,87,NULL,NULL,Final,NULL,22,24,23,17,NULL,24,19,28,16,NULL,NBA
+15,220107003,2002,"Mon, Jan 7",Charlotte Hornets,Denver Nuggets,"15-18, 6-9 Home","10-22, 2-11 Away",94,80,NULL,NULL,Final,NULL,27,27,18,22,NULL,24,15,21,20,NULL,NBA
+16,220110007,2002,"Thu, Jan 10",Denver Nuggets,Cleveland Cavaliers,"11-23, 9-11 Home","13-22, 4-13 Away",96,91,NULL,NULL,Final,NULL,26,26,20,24,NULL,28,20,25,18,NULL,NBA
+17,220114026,2002,"Mon, Jan 14",Utah Jazz,Denver Nuggets,"20-17, 13-8 Home","11-25, 2-14 Away",106,97,NULL,NULL,Final,NULL,26,30,22,28,NULL,22,22,26,27,NULL,NBA
+18,220118007,2002,"Fri, Jan 18",Denver Nuggets,Seattle SuperSonics,"12-26, 10-12 Home","19-19, 7-13 Away",96,90,NULL,NULL,Final,NULL,19,14,36,27,NULL,25,21,15,29,NULL,NBA
+19,220121012,2002,"Mon, Jan 21",LA Clippers,Denver Nuggets,"21-21, 18-7 Home","12-28, 2-16 Away",102,89,NULL,NULL,Final,NULL,37,22,16,27,NULL,21,31,19,18,NULL,NBA
+20,220124007,2002,"Thu, Jan 24",Denver Nuggets,Dallas Mavericks,"13-29, 10-13 Home","31-12, 14-7 Away",97,104,NULL,NULL,Final,NULL,32,18,18,29,NULL,24,26,25,29,NULL,NBA
+21,220201023,2002,"Fri, Feb 1",Sacramento Kings,Denver Nuggets,"35-10, 25-1 Home","13-31, 3-17 Away",132,96,NULL,NULL,Final,NULL,42,29,32,29,NULL,31,20,22,23,NULL,NBA
+22,220212007,2002,"Tue, Feb 12",Denver Nuggets,Boston Celtics,"14-32, 11-15 Home","29-21, 13-12 Away",93,110,NULL,NULL,Final,NULL,27,25,17,24,NULL,34,19,24,33,NULL,NBA
+23,220215016,2002,"Fri, Feb 15",Minnesota Timberwolves,Denver Nuggets,"34-17, 21-4 Home","16-32, 5-17 Away",98,99,NULL,NULL,Final,NULL,28,27,26,17,NULL,25,19,34,21,NULL,NBA
+24,220218020,2002,"Mon, Feb 18",Philadelphia 76ers,Denver Nuggets,"26-26, 13-10 Home","16-34, 5-19 Away",110,83,NULL,NULL,Final,CSN,24,31,31,24,NULL,14,23,17,29,NULL,NBA
+25,220223022,2002,"Sat, Feb 23",Portland Trail Blazers,Denver Nuggets,"31-24, 20-9 Home","16-36, 5-20 Away",101,90,NULL,NULL,Final,NULL,21,26,33,21,NULL,27,19,17,26,NULL,NBA
+26,220227009,2002,"Wed, Feb 27",Golden State Warriors,Denver Nuggets,"16-39, 11-18 Home","16-38, 5-21 Away",110,93,NULL,NULL,Final,NULL,34,32,20,24,NULL,23,32,21,17,NULL,NBA
+27,220303007,2002,"Sun, Mar 3",Denver Nuggets,Dallas Mavericks,"17-39, 12-18 Home","41-18, 20-9 Away",110,116,NULL,NULL,Final/OT,NULL,25,31,22,24,8,33,23,27,19,14,NBA
+28,220307007,2002,"Thu, Mar 7",Denver Nuggets,New York Knicks,"18-40, 13-18 Home","22-37, 6-21 Away",104,93,NULL,NULL,Final,NULL,31,27,19,27,NULL,23,25,21,24,NULL,NBA
+29,220311007,2002,"Mon, Mar 11",Denver Nuggets,San Antonio Spurs,"19-41, 14-19 Home","42-21, 20-12 Away",78,93,NULL,NULL,Final,NULL,17,23,19,19,NULL,22,27,18,26,NULL,NBA
+30,220315019,2002,"Fri, Mar 15",Orlando Magic,Denver Nuggets,"35-30, 21-10 Home","19-43, 5-24 Away",124,102,NULL,NULL,Final,NULL,33,31,29,31,NULL,26,32,25,19,NULL,NBA
+31,220318007,2002,"Mon, Mar 18",Denver Nuggets,Detroit Pistons,"19-45, 14-20 Home","38-27, 17-16 Away",91,98,NULL,NULL,Final,NULL,18,28,23,22,NULL,34,21,23,20,NULL,NBA
+32,220321023,2002,"Thu, Mar 21",Sacramento Kings,Denver Nuggets,"49-18, 32-3 Home","19-47, 5-26 Away",118,82,NULL,NULL,Final,NULL,34,35,25,24,NULL,28,20,18,16,NULL,NBA
+33,220325018,2002,"Mon, Mar 25",New York Knicks,Denver Nuggets,"26-43, 18-18 Home","21-47, 6-26 Away",83,84,NULL,NULL,Final,NULL,24,25,19,15,NULL,16,22,21,25,NULL,NBA
+34,220328015,2002,"Thu, Mar 28",Milwaukee Bucks,Denver Nuggets,"38-32, 22-15 Home","21-49, 6-28 Away",95,88,NULL,NULL,Final,NULL,27,26,17,25,NULL,27,17,22,22,NULL,NBA
+35,220331008,2002,"Sun, Mar 31",Detroit Pistons,Denver Nuggets,"44-29, 24-12 Home","22-50, 7-29 Away",86,82,NULL,NULL,Final,NULL,22,26,11,27,NULL,21,20,24,17,NULL,NBA
+36,220404007,2002,"Thu, Apr 4",Denver Nuggets,Minnesota Timberwolves,"24-50, 17-21 Home","46-29, 19-18 Away",88,87,NULL,NULL,Final,NULL,21,25,17,25,NULL,27,20,17,23,NULL,NBA
+37,220407012,2002,"Sun, Apr 7",LA Clippers,Denver Nuggets,"38-39, 24-14 Home","24-52, 7-31 Away",97,75,NULL,NULL,Final,NULL,26,25,23,23,NULL,16,19,15,25,NULL,NBA
+38,220410024,2002,"Wed, Apr 10",San Antonio Spurs,Denver Nuggets,"54-24, 31-9 Home","24-54, 7-33 Away",87,79,NULL,NULL,Final,NULL,33,18,19,17,NULL,17,15,25,22,NULL,NBA
+39,220413007,2002,"Sat, Apr 13",Denver Nuggets,Phoenix Suns,"26-54, 19-21 Home","35-45, 13-27 Away",98,94,NULL,NULL,Final,NULL,22,30,26,20,NULL,24,16,20,34,NULL,NBA
+40,211030021,2002,"Tue, Oct 30",Phoenix Suns,Denver Nuggets,"0-1, 0-1 Home","1-0, 1-0 Away",96,99,NULL,NULL,Final,NULL,13,23,27,33,NULL,23,34,20,22,NULL,NBA
+41,211103007,2002,"Sat, Nov 3",Denver Nuggets,Sacramento Kings,"1-2, 0-2 Home","2-0, 1-0 Away",94,106,NULL,NULL,Final,NULL,28,17,25,24,NULL,26,32,29,19,NULL,NBA
+42,211108006,2002,"Thu, Nov 8",Dallas Mavericks,Denver Nuggets,"5-1, 3-0 Home","1-4, 1-2 Away",105,91,NULL,NULL,Final,NULL,27,26,28,24,NULL,17,29,28,17,NULL,NBA
+43,211111007,2002,"Sun, Nov 11",Denver Nuggets,Toronto Raptors,"3-4, 2-2 Home","4-3, 1-3 Away",96,85,NULL,NULL,Final,NULL,26,21,21,28,NULL,26,20,19,20,NULL,NBA
+44,211115007,2002,"Thu, Nov 15",Denver Nuggets,Orlando Magic,"4-5, 3-3 Home","5-5, 3-4 Away",82,101,NULL,NULL,Final,NULL,21,25,18,18,NULL,26,26,24,25,NULL,NBA
+45,211119007,2002,"Mon, Nov 19",Denver Nuggets,New Jersey Nets,"6-5, 4-3 Home","7-3, 2-2 Away",99,96,NULL,NULL,Final/OT,NULL,24,25,21,18,11,22,16,23,29,6,NBA
+46,211123022,2002,"Fri, Nov 23",Portland Trail Blazers,Denver Nuggets,"7-7, 4-2 Home","6-7, 2-3 Away",97,90,NULL,NULL,Final,NULL,26,19,25,27,NULL,23,26,19,22,NULL,NBA
+47,211128007,2002,"Wed, Nov 28",Denver Nuggets,Indiana Pacers,"6-9, 4-5 Home","9-9, 3-6 Away",85,99,NULL,NULL,Final,NULL,21,23,21,20,NULL,23,26,22,28,NULL,NBA
+48,211204011,2002,"Tue, Dec 4",Indiana Pacers,Denver Nuggets,"11-10, 7-3 Home","7-10, 2-5 Away",104,96,NULL,NULL,Final,NULL,26,37,22,19,NULL,23,28,19,26,NULL,NBA
+49,211207028,2002,"Fri, Dec 7",Toronto Raptors,Denver Nuggets,"12-8, 6-3 Home","7-12, 2-7 Away",98,96,NULL,NULL,Final,NULL,23,23,19,22,11,19,17,25,26,9,NBA
+50,211211007,2002,"Tue, Dec 11",Denver Nuggets,Charlotte Hornets,"7-14, 5-6 Home","10-11, 8-6 Away",96,99,NULL,NULL,Final,NULL,28,17,23,28,NULL,29,24,25,21,NULL,NBA
+51,211215007,2002,"Sat, Dec 15",Denver Nuggets,Phoenix Suns,"9-14, 7-6 Home","14-11, 6-6 Away",106,98,NULL,NULL,Final,NULL,24,26,26,30,NULL,29,25,29,15,NULL,NBA
+52,211221024,2002,"Fri, Dec 21",San Antonio Spurs,Denver Nuggets,"20-4, 13-1 Home","9-16, 2-9 Away",109,74,NULL,NULL,Final,NULL,34,27,24,24,NULL,19,24,12,19,NULL,NBA
+53,211226007,2002,"Wed, Dec 26",Denver Nuggets,Minnesota Timberwolves,"9-18, 7-9 Home","19-8, 8-6 Away",91,94,NULL,NULL,Final,NULL,21,25,18,27,NULL,27,20,26,21,NULL,NBA
+54,211229021,2002,"Sat, Dec 29",Phoenix Suns,Denver Nuggets,"18-13, 11-6 Home","10-19, 2-10 Away",109,92,NULL,NULL,Final,NULL,25,33,24,27,NULL,27,24,20,21,NULL,NBA
+55,220104007,2002,"Fri, Jan 4",Denver Nuggets,LA Clippers,"10-21, 8-11 Home","17-15, 2-8 Away",80,82,NULL,NULL,Final,NULL,20,22,21,17,NULL,20,25,22,15,NULL,NBA
+56,220108006,2002,"Tue, Jan 8",Dallas Mavericks,Denver Nuggets,"23-11, 13-5 Home","10-23, 2-12 Away",95,94,NULL,NULL,Final,NULL,22,30,20,23,NULL,24,16,24,30,NULL,NBA
+57,220112010,2002,"Sat, Jan 12",Houston Rockets,Denver Nuggets,"12-24, 9-11 Home","11-24, 2-13 Away",98,86,NULL,NULL,Final,NULL,19,28,28,23,NULL,18,18,27,23,NULL,NBA
+58,220116007,2002,"Wed, Jan 16",Denver Nuggets,Sacramento Kings,"11-26, 9-12 Home","29-9, 8-8 Away",107,112,NULL,NULL,Final,NULL,30,24,32,21,NULL,25,30,28,29,NULL,NBA
+59,220119025,2002,"Sat, Jan 19",Seattle SuperSonics,Denver Nuggets,"20-19, 13-6 Home","12-27, 2-15 Away",104,77,NULL,NULL,Final,NULL,27,25,32,20,NULL,22,23,12,20,NULL,NBA
+60,220122013,2002,"Tue, Jan 22",Los Angeles Lakers,Denver Nuggets,"28-10, 17-4 Home","13-28, 3-16 Away",91,107,NULL,NULL,Final,NULL,25,25,23,18,NULL,25,26,26,30,NULL,NBA
+61,220129007,2002,"Tue, Jan 29",Denver Nuggets,Miami Heat,"13-30, 10-14 Home","16-28, 9-15 Away",94,100,NULL,NULL,Final,NULL,23,16,29,21,5,25,25,15,24,11,NBA
+62,220205007,2002,"Tue, Feb 5",Denver Nuggets,Portland Trail Blazers,"14-31, 11-14 Home","25-22, 9-14 Away",97,96,NULL,NULL,Final,NULL,26,24,28,19,NULL,20,28,31,17,NULL,NBA
+63,220214029,2002,"Thu, Feb 14",Memphis Grizzlies,Denver Nuggets,"14-37, 9-16 Home","15-32, 4-17 Away",85,100,NULL,NULL,Final,NULL,25,19,26,15,NULL,24,23,24,29,NULL,NBA
+64,220217017,2002,"Sun, Feb 17",New Jersey Nets,Denver Nuggets,"34-17, 20-6 Home","16-33, 5-18 Away",98,77,NULL,NULL,Final,NULL,22,29,27,20,NULL,16,25,16,20,NULL,NBA
+65,220220007,2002,"Wed, Feb 20",Denver Nuggets,Utah Jazz,"16-35, 11-16 Home","31-24, 14-14 Away",99,110,NULL,NULL,Final,NULL,24,25,16,34,NULL,32,24,24,30,NULL,NBA
+66,220224007,2002,"Sun, Feb 24",Denver Nuggets,Atlanta Hawks,"16-37, 11-17 Home","20-36, 8-24 Away",84,89,NULL,NULL,Final,NULL,20,23,23,18,NULL,29,20,17,23,NULL,NBA
+67,220301007,2002,"Fri, Mar 1",Denver Nuggets,Memphis Grizzlies,"17-38, 12-17 Home","15-43, 6-25 Away",96,83,NULL,NULL,Final,NULL,27,22,31,16,NULL,25,24,11,23,NULL,NBA
+68,220304026,2002,"Mon, Mar 4",Utah Jazz,Denver Nuggets,"33-26, 19-11 Home","17-40, 5-22 Away",100,82,NULL,NULL,Final,NULL,24,21,23,32,NULL,15,21,21,25,NULL,NBA
+69,220309007,2002,"Sat, Mar 9",Denver Nuggets,Portland Trail Blazers,"19-40, 14-18 Home","38-25, 15-16 Away",109,106,NULL,NULL,Final/OT,NULL,22,20,24,29,14,36,17,21,21,11,NBA
+70,220313001,2002,"Wed, Mar 13",Atlanta Hawks,Denver Nuggets,"24-39, 16-14 Home","19-42, 5-23 Away",105,102,NULL,NULL,Final,NULL,26,31,28,20,NULL,24,26,26,26,NULL,NBA
+71,220316014,2002,"Sat, Mar 16",Miami Heat,Denver Nuggets,"30-34, 14-16 Home","19-44, 5-25 Away",101,76,NULL,NULL,Final,NULL,24,31,21,25,NULL,16,18,22,20,NULL,NBA
+72,220320007,2002,"Wed, Mar 20",Denver Nuggets,Washington Wizards,"19-46, 14-21 Home","32-36, 15-20 Away",75,107,NULL,NULL,Final,NULL,25,14,17,19,NULL,30,24,38,15,NULL,NBA
+73,220323007,2002,"Sat, Mar 23",Denver Nuggets,Seattle SuperSonics,"20-47, 15-21 Home","39-31, 18-18 Away",88,85,NULL,NULL,Final,NULL,26,22,27,13,NULL,22,26,22,15,NULL,NBA
+74,220326027,2002,"Tue, Mar 26",Washington Wizards,Denver Nuggets,"33-38, 18-16 Home","21-48, 6-27 Away",103,87,NULL,NULL,Final,NULL,29,32,24,18,NULL,16,17,25,29,NULL,NBA
+75,220330004,2002,"Sat, Mar 30",Chicago Bulls,Denver Nuggets,"17-56, 13-25 Home","22-49, 7-28 Away",84,100,NULL,NULL,Final,NULL,20,22,22,20,NULL,26,26,27,21,NULL,NBA
+76,220402007,2002,"Tue, Apr 2",Denver Nuggets,Utah Jazz,"23-50, 16-21 Home","41-33, 17-20 Away",98,90,NULL,NULL,Final,NULL,23,21,0,54,NULL,27,19,0,44,NULL,NBA
+77,220405009,2002,"Fri, Apr 5",Golden State Warriors,Denver Nuggets,"20-55, 13-24 Home","24-51, 7-30 Away",108,104,NULL,NULL,Final,NULL,28,36,23,21,NULL,20,29,27,28,NULL,NBA
+78,220409029,2002,"Tue, Apr 9",Memphis Grizzlies,Denver Nuggets,"21-56, 14-25 Home","24-53, 7-32 Away",97,86,NULL,NULL,Final,NULL,28,33,18,18,NULL,26,23,12,25,NULL,NBA
+79,220412007,2002,"Fri, Apr 12",Denver Nuggets,Golden State Warriors,"25-54, 18-21 Home","20-59, 7-33 Away",97,89,NULL,NULL,Final,NULL,28,26,14,29,NULL,25,25,22,17,NULL,NBA
+80,220416007,2002,"Tue, Apr 16",Denver Nuggets,Houston Rockets,"27-54, 20-21 Home","28-53, 10-30 Away",101,70,NULL,NULL,Final,NULL,24,21,27,29,NULL,14,13,17,26,NULL,NBA
+81,220417016,2002,"Wed, Apr 17",Minnesota Timberwolves,Denver Nuggets,"50-32, 29-12 Home","27-55, 7-34 Away",104,90,NULL,NULL,Final,NULL,25,28,23,28,NULL,14,24,23,29,NULL,NBA

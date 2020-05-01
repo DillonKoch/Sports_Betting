@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,401070705,2019,"Fri, Oct 19",Memphis Grizzlies,Atlanta Hawks,"1-1, 1-0 Home","0-2, 0-2 Away",131,117,MEM -7.0,216,Final,NULL,37,40,29,25,NULL,33,28,21,35,NULL,NBA
+1,401070742,2019,"Wed, Oct 24",Sacramento Kings,Memphis Grizzlies,"2-3, 1-1 Home","2-2, 1-2 Away",97,92,MEM -2.5,221,Final,NULL,19,25,27,26,NULL,28,24,19,21,NULL,NBA
+2,401070783,2019,"Tue, Oct 30",Memphis Grizzlies,Washington Wizards,"4-2, 3-0 Home","1-6, 1-4 Away",107,95,MEM -1.5,220,Final,NULL,22,24,32,29,NULL,24,21,27,23,NULL,NBA
+3,401070818,2019,"Sun, Nov 4",Phoenix Suns,Memphis Grizzlies,"2-7, 2-3 Home","5-3, 2-3 Away",102,100,MEM -4.5,211,Final,NULL,21,31,25,25,NULL,28,28,25,19,NULL,NBA
+4,401070839,2019,"Wed, Nov 7",Memphis Grizzlies,Denver Nuggets,"6-4, 4-0 Home","9-2, 3-2 Away",89,87,DEN -3.0,204,Final,NULL,22,28,20,19,NULL,29,18,23,17,NULL,NBA
+5,401070875,2019,"Mon, Nov 12",Memphis Grizzlies,Utah Jazz,"7-5, 5-1 Home","7-6, 5-2 Away",88,96,UTAH -4.0,203,Final,NULL,16,27,26,19,NULL,20,20,34,22,NULL,NBA
+6,401070901,2019,"Fri, Nov 16",Memphis Grizzlies,Sacramento Kings,"9-5, 6-1 Home","8-7, 4-4 Away",112,104,MEM -6.5,213,Final,NULL,29,33,25,25,NULL,28,23,27,26,NULL,NBA
+7,401070925,2019,"Mon, Nov 19",Memphis Grizzlies,Dallas Mavericks,"11-5, 7-1 Home","7-9, 1-7 Away",98,88,MEM -3.0,201,Final,NULL,25,28,21,24,NULL,21,28,25,14,NULL,NBA
+8,401070947,2019,"Fri, Nov 23",LA Clippers,Memphis Grizzlies,"12-6, 8-1 Home","12-6, 5-5 Away",112,107,LAC -4.5,211,Final/OT,NULL,16,28,31,23,14,22,30,18,28,9,NBA
+9,401070984,2019,"Tue, Nov 27",Memphis Grizzlies,Toronto Raptors,"12-8, 7-3 Home","18-4, 9-2 Away",114,122,TOR -5.5,208,Final,NULL,32,39,26,17,NULL,31,28,34,29,NULL,NBA
+10,401071021,2019,"Sun, Dec 2",Philadelphia 76ers,Memphis Grizzlies,"17-8, 13-1 Home","13-9, 6-6 Away",103,95,PHI -6.5,212,Final,NULL,26,28,24,25,NULL,25,19,24,27,NULL,NBA
+11,401071055,2019,"Fri, Dec 7",New Orleans Pelicans,Memphis Grizzlies,"13-14, 10-4 Home","15-9, 7-6 Away",103,107,NO -5.5,214,Final,NULL,30,30,24,19,NULL,31,27,27,22,NULL,NBA
+12,401071079,2019,"Mon, Dec 10",Denver Nuggets,Memphis Grizzlies,"18-9, 10-3 Home","15-11, 7-7 Away",105,99,DEN -3.0,197,Final,NULL,26,29,29,21,NULL,22,28,33,16,NULL,NBA
+13,401071106,2019,"Fri, Dec 14",Memphis Grizzlies,Miami Heat,"16-12, 9-5 Home","12-16, 7-7 Away",97,100,MEM -4.0,196,Final,NULL,28,21,24,24,NULL,29,22,20,29,NULL,NBA
+14,401071130,2019,"Mon, Dec 17",Golden State Warriors,Memphis Grizzlies,"21-10, 13-3 Home","16-14, 7-8 Away",110,93,GS -13.0,211,Final,NBATV,30,31,23,26,NULL,22,16,29,26,NULL,NBA
+15,401071158,2019,"Fri, Dec 21",Sacramento Kings,Memphis Grizzlies,"17-15, 8-7 Home","16-16, 7-10 Away",102,99,SAC -2.0,212,Final,NULL,24,16,25,37,NULL,32,21,21,25,NULL,NBA
+16,401071184,2019,"Wed, Dec 26",Memphis Grizzlies,Cleveland Cavaliers,"18-16, 10-6 Home","8-27, 3-14 Away",95,87,MEM -9.5,197,Final,NULL,21,24,20,30,NULL,9,23,21,34,NULL,NBA
+17,401071220,2019,"Mon, Dec 31",Houston Rockets,Memphis Grizzlies,"21-15, 13-5 Home","18-18, 8-11 Away",113,101,HOU -4.0,201,Final,NULL,27,34,25,27,NULL,18,20,35,28,NULL,NBA
+18,401071246,2019,"Fri, Jan 4",Memphis Grizzlies,Brooklyn Nets,"18-20, 10-9 Home","19-21, 9-10 Away",100,109,MEM -4.0,204,Final,NULL,26,21,30,23,NULL,26,22,33,28,NULL,NBA
+19,401071271,2019,"Mon, Jan 7",New Orleans Pelicans,Memphis Grizzlies,"19-22, 14-6 Home","18-22, 8-13 Away",114,95,NO -4.5,214,Final,NULL,31,22,33,28,NULL,27,24,22,22,NULL,NBA
+20,401071307,2019,"Sat, Jan 12",Miami Heat,Memphis Grizzlies,"21-20, 11-12 Home","19-23, 8-14 Away",112,108,MIA -3.0,196,Final,NULL,30,33,28,21,NULL,34,27,22,25,NULL,NBA
+21,401071336,2019,"Wed, Jan 16",Memphis Grizzlies,Milwaukee Bucks,"19-25, 11-10 Home","32-12, 12-8 Away",101,111,MIL -6.0,212,Final,NULL,20,25,28,28,NULL,28,22,41,20,NULL,NBA
+22,401071360,2019,"Sat, Jan 19",Toronto Raptors,Memphis Grizzlies,"35-13, 20-4 Home","19-27, 8-17 Away",119,90,TOR -10.5,212,Final,NULL,23,32,45,19,NULL,19,29,14,28,NULL,NBA
+23,401071386,2019,"Wed, Jan 23",Memphis Grizzlies,Charlotte Hornets,"19-29, 11-12 Home","23-24, 7-16 Away",107,118,MEM -1.5,209,Final,NULL,22,32,22,31,NULL,23,35,28,32,NULL,NBA
+24,401071404,2019,"Sat, Jan 26",Memphis Grizzlies,Indiana Pacers,"20-30, 12-13 Home","32-16, 14-10 Away",106,103,IND -5.0,203,Final,NULL,24,29,25,28,NULL,19,23,27,34,NULL,NBA
+25,401071433,2019,"Wed, Jan 30",Minnesota Timberwolves,Memphis Grizzlies,"25-26, 17-9 Home","20-32, 8-18 Away",99,97,MIN -3.0,207,Final/OT,NULL,24,20,27,22,6,16,28,25,24,4,NBA
+26,401071460,2019,"Sun, Feb 3",New York Knicks,Memphis Grizzlies,"10-42, 4-20 Home","21-33, 9-19 Away",84,96,MEM -2.0,200,Final,NULL,22,19,21,22,NULL,19,23,32,22,NULL,NBA
+27,401071488,2019,"Thu, Feb 7",Oklahoma City Thunder,Memphis Grizzlies,"35-19, 19-7 Home","22-34, 9-20 Away",117,95,OKC -13.5,215,Final,NULL,27,24,32,34,NULL,32,21,19,23,NULL,NBA
+28,401071523,2019,"Tue, Feb 12",Memphis Grizzlies,San Antonio Spurs,"23-35, 14-15 Home","33-26, 11-19 Away",107,108,SA -7.5,208,Final,NULL,33,25,28,21,NULL,20,37,37,14,NULL,NBA
+29,401071552,2019,"Fri, Feb 22",Memphis Grizzlies,LA Clippers,"23-37, 14-16 Home","33-27, 17-15 Away",106,112,LAC -2.5,217,Final,NULL,23,30,33,20,NULL,36,29,18,29,NULL,NBA
+30,401071577,2019,"Mon, Feb 25",Memphis Grizzlies,Los Angeles Lakers,"24-38, 15-16 Home","29-31, 12-19 Away",110,105,LAL -5.0,222,Final,NULL,34,27,26,23,NULL,31,25,25,24,NULL,NBA
+31,401071612,2019,"Sat, Mar 2",Dallas Mavericks,Memphis Grizzlies,"27-35, 21-11 Home","25-39, 10-22 Away",81,111,DAL -4.5,215,Final,NULL,21,28,18,14,NULL,33,29,28,21,NULL,NBA
+32,401071635,2019,"Tue, Mar 5",Memphis Grizzlies,Portland Trail Blazers,"26-40, 16-17 Home","39-25, 15-17 Away",120,111,POR -5.5,216,Final,NULL,20,41,21,38,NULL,33,30,23,25,NULL,NBA
+33,401071669,2019,"Sun, Mar 10",Memphis Grizzlies,Orlando Magic,"28-40, 18-17 Home","31-37, 13-21 Away",105,97,MEM -1.0,208,Final,NULL,26,23,26,30,NULL,17,31,24,25,NULL,NBA
+34,401071708,2019,"Sat, Mar 16",Washington Wizards,Memphis Grizzlies,"30-40, 22-13 Home","28-42, 10-25 Away",135,128,WSH -1.5,225,Final,NULL,35,34,36,30,NULL,37,34,32,25,NULL,NBA
+35,401071753,2019,"Fri, Mar 22",Orlando Magic,Memphis Grizzlies,"35-38, 22-16 Home","29-43, 10-26 Away",123,119,ORL -10.5,206,Final/OT,NULL,23,35,23,29,13,33,31,31,15,9,NBA
+36,401071777,2019,"Mon, Mar 25",Memphis Grizzlies,Oklahoma City Thunder,"30-44, 20-18 Home","43-31, 20-19 Away",115,103,OKC -7.5,216,Final,NULL,31,23,32,29,NULL,23,25,30,25,NULL,NBA
+37,401071817,2019,"Sat, Mar 30",Phoenix Suns,Memphis Grizzlies,"17-60, 10-28 Home","31-45, 11-26 Away",115,120,MEM -2.5,221,Final,NULL,38,24,30,23,NULL,23,31,34,32,NULL,NBA
+38,401071848,2019,"Wed, Apr 3",Portland Trail Blazers,Memphis Grizzlies,"50-28, 30-9 Home","31-47, 11-28 Away",116,89,POR -10.5,216,Final,NULL,28,34,24,30,NULL,30,29,10,20,NULL,NBA
+39,401071873,2019,"Sun, Apr 7",Memphis Grizzlies,Dallas Mavericks,"32-48, 20-20 Home","32-48, 9-31 Away",127,129,EVEN,215,Final/OT,NULL,26,30,32,24,15,24,28,31,29,17,NBA
+40,401070695,2019,"Wed, Oct 17",Indiana Pacers,Memphis Grizzlies,"1-0, 1-0 Home","0-1, 0-1 Away",111,83,IND -7.5,205,Final,NULL,27,29,20,35,NULL,16,23,19,25,NULL,NBA
+41,401070726,2019,"Mon, Oct 22",Utah Jazz,Memphis Grizzlies,"1-2, 0-2 Home","2-1, 1-1 Away",84,92,UTAH -10.5,213,Final,NULL,22,24,17,21,NULL,19,28,23,22,NULL,NBA
+42,401070761,2019,"Sat, Oct 27",Memphis Grizzlies,Phoenix Suns,"3-2, 2-0 Home","1-4, 0-3 Away",117,96,MEM -7.5,206,Final,NULL,26,42,19,30,NULL,18,25,28,25,NULL,NBA
+43,401070803,2019,"Fri, Nov 2",Utah Jazz,Memphis Grizzlies,"4-4, 0-3 Home","5-2, 2-2 Away",100,110,UTAH -8.0,202,Final,NULL,31,29,18,22,NULL,29,24,30,27,NULL,NBA
+44,401070828,2019,"Mon, Nov 5",Golden State Warriors,Memphis Grizzlies,"10-1, 6-0 Home","5-4, 2-4 Away",117,101,GS -14.0,221,Final,NBATV,29,29,34,25,NULL,31,27,15,28,NULL,NBA
+45,401070860,2019,"Sat, Nov 10",Memphis Grizzlies,Philadelphia 76ers,"7-4, 5-0 Home","8-6, 1-6 Away",112,106,MEM -5.0,211,Final/OT,NULL,21,29,24,28,10,26,37,17,22,4,NBA
+46,401070888,2019,"Wed, Nov 14",Milwaukee Bucks,Memphis Grizzlies,"10-4, 6-1 Home","8-5, 3-4 Away",113,116,MIL -9.5,213,Final,NULL,19,26,35,33,NULL,29,19,36,32,NULL,NBA
+47,401070915,2019,"Sun, Nov 18",Minnesota Timberwolves,Memphis Grizzlies,"7-10, 7-2 Home","10-5, 4-4 Away",87,100,MIN -5.0,209,Final,NULL,20,23,19,25,NULL,17,30,28,25,NULL,NBA
+48,401070943,2019,"Wed, Nov 21",San Antonio Spurs,Memphis Grizzlies,"8-9, 6-3 Home","12-5, 5-4 Away",103,104,SA -3.0,200,Final,NULL,32,27,18,26,NULL,30,31,20,23,NULL,NBA
+49,401070972,2019,"Sun, Nov 25",Memphis Grizzlies,New York Knicks,"12-7, 7-2 Home","7-14, 4-8 Away",98,103,MEM -8.5,206,Final,NULL,26,26,19,27,NULL,21,22,35,25,NULL,NBA
+50,401071004,2019,"Fri, Nov 30",Brooklyn Nets,Memphis Grizzlies,"8-15, 3-8 Home","13-8, 6-5 Away",125,131,MEM -2.5,208,Final/2OT,NULL,26,32,22,31,14,26,32,27,26,20,NBA
+51,401071041,2019,"Wed, Dec 5",Memphis Grizzlies,LA Clippers,"14-9, 8-3 Home","16-8, 7-7 Away",96,86,MEM -2.0,209,Final,NULL,27,24,18,27,NULL,15,27,27,17,NULL,NBA
+52,401071065,2019,"Sat, Dec 8",Memphis Grizzlies,Los Angeles Lakers,"15-10, 8-4 Home","16-10, 6-6 Away",88,111,MEM -2.5,209,Final,NULL,16,24,26,22,NULL,27,36,28,20,NULL,NBA
+53,401071091,2019,"Wed, Dec 12",Memphis Grizzlies,Portland Trail Blazers,"16-11, 9-4 Home","15-13, 5-9 Away",92,83,MEM -3.0,202,Final,NULL,15,27,26,24,NULL,26,14,23,20,NULL,NBA
+54,401071113,2019,"Sat, Dec 15",Memphis Grizzlies,Houston Rockets,"16-13, 9-6 Home","14-14, 7-9 Away",97,105,HOU -5.0,202,Final,NULL,29,11,25,32,NULL,36,25,18,26,NULL,NBA
+55,401071146,2019,"Wed, Dec 19",Portland Trail Blazers,Memphis Grizzlies,"18-13, 12-4 Home","16-15, 7-9 Away",99,92,POR -5.5,202,Final,NULL,17,30,27,25,NULL,18,34,19,21,NULL,NBA
+56,401071177,2019,"Sun, Dec 23",Los Angeles Lakers,Memphis Grizzlies,"19-14, 12-5 Home","17-16, 8-10 Away",99,107,LAL -5.0,210,Final,NULL,20,26,29,24,NULL,26,24,22,35,NULL,NBA
+57,401071207,2019,"Sat, Dec 29",Memphis Grizzlies,Boston Celtics,"18-17, 10-7 Home","21-14, 10-9 Away",103,112,BOS -3.5,202,Final,NULL,26,38,23,16,NULL,29,18,32,33,NULL,NBA
+58,401071236,2019,"Wed, Jan 2",Memphis Grizzlies,Detroit Pistons,"18-19, 10-8 Home","17-19, 6-11 Away",94,101,MEM -6.0,198,Final,NULL,24,31,12,27,NULL,26,25,21,29,NULL,NBA
+59,401071257,2019,"Sat, Jan 5",San Antonio Spurs,Memphis Grizzlies,"23-17, 17-5 Home","18-21, 8-12 Away",108,88,SA -9.0,204,Final,NULL,27,37,24,20,NULL,25,19,22,22,NULL,NBA
+60,401071287,2019,"Wed, Jan 9",Memphis Grizzlies,San Antonio Spurs,"19-22, 11-9 Home","24-18, 7-13 Away",96,86,SA -2.5,206,Final,NULL,22,20,30,24,NULL,18,13,33,22,NULL,NBA
+61,401071322,2019,"Mon, Jan 14",Houston Rockets,Memphis Grizzlies,"25-18, 16-6 Home","19-24, 8-15 Away",112,94,HOU -3.5,208,Final,NULL,24,30,33,25,NULL,29,19,22,24,NULL,NBA
+62,401071347,2019,"Fri, Jan 18",Boston Celtics,Memphis Grizzlies,"27-18, 17-5 Home","19-26, 8-16 Away",122,116,BOS -10.0,208,Final,NULL,35,23,38,26,NULL,24,38,29,25,NULL,NBA
+63,401070238,2019,"Mon, Jan 21",Memphis Grizzlies,New Orleans Pelicans,"19-28, 11-11 Home","22-25, 7-19 Away",85,105,MEM -3.0,222,Final,TNT,28,22,18,17,NULL,21,33,28,23,NULL,NBA
+64,401071398,2019,"Fri, Jan 25",Memphis Grizzlies,Sacramento Kings,"19-30, 11-13 Home","25-24, 11-14 Away",96,99,MEM -2.0,214,Final,NULL,23,19,29,25,NULL,24,24,29,22,NULL,NBA
+65,401071420,2019,"Mon, Jan 28",Memphis Grizzlies,Denver Nuggets,"20-31, 12-14 Home","34-15, 12-11 Away",92,95,DEN -5.5,206,Final,NULL,30,30,17,15,NULL,16,25,19,35,NULL,NBA
+66,401071443,2019,"Fri, Feb 1",Charlotte Hornets,Memphis Grizzlies,"25-26, 18-8 Home","20-33, 8-19 Away",100,92,CHA -8.0,203,Final,NULL,17,28,25,30,NULL,29,16,28,19,NULL,NBA
+67,401071474,2019,"Tue, Feb 5",Memphis Grizzlies,Minnesota Timberwolves,"22-33, 13-14 Home","25-28, 8-18 Away",108,106,MIN -4.0,207,Final,NULL,32,34,19,23,NULL,19,35,29,23,NULL,NBA
+68,401071504,2019,"Sat, Feb 9",Memphis Grizzlies,New Orleans Pelicans,"23-34, 14-14 Home","25-32, 9-22 Away",99,90,NO -1.0,214,Final,NULL,20,21,31,27,NULL,28,16,18,28,NULL,NBA
+69,401071531,2019,"Wed, Feb 13",Chicago Bulls,Memphis Grizzlies,"14-44, 6-23 Home","23-36, 9-21 Away",122,110,CHI -1.5,208,Final,NULL,36,31,25,30,NULL,32,30,21,27,NULL,NBA
+70,401071558,2019,"Sat, Feb 23",Cleveland Cavaliers,Memphis Grizzlies,"14-46, 9-22 Home","23-38, 9-22 Away",112,107,CLE -1.5,209,Final,NULL,37,26,19,30,NULL,24,32,28,23,NULL,NBA
+71,401071589,2019,"Wed, Feb 27",Memphis Grizzlies,Chicago Bulls,"24-39, 15-17 Home","17-45, 10-21 Away",107,109,MEM -3.0,217,Final,NULL,20,26,28,33,NULL,20,26,29,34,NULL,NBA
+72,401071624,2019,"Sun, Mar 3",Oklahoma City Thunder,Memphis Grizzlies,"39-24, 22-9 Home","25-40, 10-23 Away",99,95,OKC -10.0,218,Final,NBATV,25,21,21,32,NULL,28,24,23,20,NULL,NBA
+73,401071655,2019,"Fri, Mar 8",Memphis Grizzlies,Utah Jazz,"27-40, 17-17 Home","37-28, 16-17 Away",114,104,UTAH -4.5,209,Final,NULL,29,31,24,30,NULL,23,30,26,25,NULL,NBA
+74,401071689,2019,"Wed, Mar 13",Atlanta Hawks,Memphis Grizzlies,"24-45, 13-21 Home","28-41, 10-24 Away",132,111,MEM -1.5,225,Final,NULL,33,39,38,22,NULL,28,32,30,21,NULL,NBA
+75,401071743,2019,"Wed, Mar 20",Memphis Grizzlies,Houston Rockets,"29-42, 19-17 Home","45-27, 19-17 Away",126,125,HOU -5.5,216,Final/OT,NULL,38,25,34,18,11,25,28,25,37,10,NBA
+76,401071764,2019,"Sat, Mar 23",Memphis Grizzlies,Minnesota Timberwolves,"29-44, 19-18 Home","33-40, 10-29 Away",99,112,MEM -1.0,218,Final,NULL,25,25,18,31,NULL,25,24,35,28,NULL,NBA
+77,401071791,2019,"Wed, Mar 27",Memphis Grizzlies,Golden State Warriors,"30-45, 20-19 Home","51-23, 25-12 Away",103,118,GS -10.0,220,Final,NULL,37,23,24,19,NULL,31,35,23,29,NULL,NBA
+78,401071824,2019,"Sun, Mar 31",LA Clippers,Memphis Grizzlies,"47-31, 25-13 Home","31-46, 11-27 Away",113,96,LAC -10.5,224,Final,NULL,25,36,26,26,NULL,19,27,22,28,NULL,NBA
+79,401071860,2019,"Fri, Apr 5",Dallas Mavericks,Memphis Grizzlies,"31-48, 23-17 Home","32-47, 12-28 Away",112,122,DAL -4.0,212,Final,NULL,30,23,31,28,NULL,31,34,34,23,NULL,NBA
+80,401071883,2019,"Tue, Apr 9",Detroit Pistons,Memphis Grizzlies,"40-41, 26-15 Home","32-49, 12-29 Away",100,93,DET -12.0,210,Final,NULL,20,18,26,36,NULL,32,25,22,14,NULL,NBA
+81,401071898,2019,"Wed, Apr 10",Memphis Grizzlies,Golden State Warriors,"33-49, 21-20 Home","57-25, 27-14 Away",132,117,GS -5.5,214,Final,NULL,45,41,28,18,NULL,41,27,22,27,NULL,NBA

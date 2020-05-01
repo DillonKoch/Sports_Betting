@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,400899455,2017,"Fri, Oct 28",Oklahoma City Thunder,Phoenix Suns,"2-0, 1-0 Home","0-2, 0-1 Away",113,110,NULL,NULL,Final/OT,NULL,25,24,28,25,11,40,13,30,19,8,NBA
+1,400899495,2017,"Mon, Oct 31",LA Clippers,Phoenix Suns,"3-0, 2-0 Home","0-4, 0-2 Away",116,98,NULL,NULL,Final,NULL,24,24,34,34,NULL,24,12,34,28,NULL,NBA
+2,400899525,2017,"Fri, Nov 4",New Orleans Pelicans,Phoenix Suns,"0-6, 0-4 Home","2-4, 1-2 Away",111,112,NULL,NULL,Final/OT,NULL,29,32,18,23,9,30,28,23,21,10,NBA
+3,400899553,2017,"Tue, Nov 8",Portland Trail Blazers,Phoenix Suns,"5-3, 2-2 Home","2-6, 1-4 Away",124,121,NULL,NULL,Final,NULL,42,21,26,35,NULL,25,30,27,39,NULL,NBA
+4,400899589,2017,"Sat, Nov 12",Phoenix Suns,Brooklyn Nets,"3-7, 2-3 Home","4-5, 1-3 Away",104,122,NULL,NULL,Final,NULL,21,24,38,21,NULL,23,35,32,32,NULL,NBA
+5,400899616,2017,"Wed, Nov 16",Denver Nuggets,Phoenix Suns,"4-7, 1-3 Home","3-9, 1-6 Away",120,104,NULL,NULL,Final,NULL,28,33,28,31,NULL,17,26,33,28,NULL,NBA
+6,400899639,2017,"Sat, Nov 19",Philadelphia 76ers,Phoenix Suns,"3-10, 3-5 Home","4-10, 2-7 Away",120,105,NULL,NULL,Final,NULL,32,26,34,28,NULL,19,29,27,30,NULL,NBA
+7,400899664,2017,"Wed, Nov 23",Orlando Magic,Phoenix Suns,"6-9, 4-4 Home","5-11, 3-8 Away",87,92,NULL,NULL,Final,NULL,22,22,22,21,NULL,24,22,22,24,NULL,NBA
+8,400899696,2017,"Sun, Nov 27",Phoenix Suns,Denver Nuggets,"5-13, 2-5 Home","7-10, 4-5 Away",114,120,NULL,NULL,Final,NULL,28,15,36,35,NULL,29,34,23,34,NULL,NBA
+9,400899741,2017,"Sat, Dec 3",Golden State Warriors,Phoenix Suns,"17-3, 8-2 Home","6-14, 3-9 Away",138,109,NULL,NULL,Final,NULL,37,29,42,30,NULL,30,27,27,25,NULL,NBA
+10,400899771,2017,"Wed, Dec 7",Phoenix Suns,Indiana Pacers,"6-16, 3-6 Home","11-11, 3-7 Away",94,109,NULL,NULL,Final,NULL,22,31,27,14,NULL,23,26,33,27,NULL,NBA
+11,400899801,2017,"Sun, Dec 11",Phoenix Suns,New Orleans Pelicans,"7-17, 3-7 Home","8-17, 3-9 Away",119,120,NULL,NULL,Final/OT,NULL,31,27,24,28,9,25,26,25,34,10,NBA
+12,400899829,2017,"Thu, Dec 15",Phoenix Suns,San Antonio Spurs,"8-18, 4-8 Home","21-5, 14-1 Away",92,107,NULL,NULL,Final,NULL,20,23,28,21,NULL,23,28,23,33,NULL,NBA
+13,400899858,2017,"Mon, Dec 19",Minnesota Timberwolves,Phoenix Suns,"8-19, 4-10 Home","8-20, 4-12 Away",115,108,NULL,NULL,Final,NBATV,29,33,29,24,NULL,23,31,33,21,NULL,NBA
+14,400899895,2017,"Fri, Dec 23",Phoenix Suns,Philadelphia 76ers,"9-21, 5-9 Home","7-22, 2-8 Away",123,116,NULL,NULL,Final,NULL,24,29,28,42,NULL,31,35,19,31,NULL,NBA
+15,400899924,2017,"Wed, Dec 28",San Antonio Spurs,Phoenix Suns,"26-6, 10-4 Home","9-23, 4-14 Away",119,98,NULL,NULL,Final,NULL,30,28,31,30,NULL,27,37,18,16,NULL,NBA
+16,400899948,2017,"Sat, Dec 31",Utah Jazz,Phoenix Suns,"21-13, 12-7 Home","10-24, 4-15 Away",91,86,NULL,NULL,Final,NULL,29,26,21,15,NULL,29,22,20,15,NULL,NBA
+17,400899451,2017,"Tue, Jan 3",Phoenix Suns,Miami Heat,"11-25, 7-9 Home","10-26, 5-13 Away",99,90,NULL,NULL,Final,NULL,28,28,27,16,NULL,29,23,14,24,NULL,NBA
+18,400899986,2017,"Sun, Jan 8",Phoenix Suns,Cleveland Cavaliers,"12-26, 7-10 Home","28-8, 10-5 Away",116,120,NULL,NULL,Final,NULL,28,25,37,26,NULL,41,28,24,27,NULL,NBA
+19,400900026,2017,"Sat, Jan 14",Phoenix Suns,San Antonio Spurs,13-27,31-9,108,105,NULL,NULL,Final,NULL,25,26,29,28,NULL,25,33,27,20,NULL,NBA
+20,400900057,2017,"Thu, Jan 19",Cleveland Cavaliers,Phoenix Suns,"30-11, 19-3 Home","13-29, 5-17 Away",118,103,NULL,NULL,Final,NULL,29,30,30,29,NULL,21,20,35,27,NULL,NBA
+21,400900084,2017,"Sun, Jan 22",Toronto Raptors,Phoenix Suns,"28-16, 15-7 Home","15-29, 7-17 Away",103,115,NULL,NULL,Final,NULL,31,29,25,18,NULL,28,29,25,33,NULL,NBA
+22,400900113,2017,"Thu, Jan 26",Denver Nuggets,Phoenix Suns,"20-25, 12-11 Home","15-31, 7-18 Away",127,120,NULL,NULL,Final,NULL,35,22,39,31,NULL,29,32,31,28,NULL,NBA
+23,400900144,2017,"Mon, Jan 30",Phoenix Suns,Memphis Grizzlies,"15-33, 8-15 Home","29-21, 13-12 Away",96,115,NULL,NULL,Final,TNT,28,20,22,26,NULL,31,28,29,27,NULL,NBA
+24,400900158,2017,"Fri, Feb 3",Sacramento Kings,Phoenix Suns,"19-31, 8-14 Home","16-34, 8-18 Away",103,105,NULL,NULL,Final,NULL,21,28,30,24,NULL,15,34,30,26,NULL,NBA
+25,400900179,2017,"Mon, Feb 6",New Orleans Pelicans,Phoenix Suns,"20-32, 14-14 Home","16-36, 8-19 Away",111,106,NULL,NULL,Final,NULL,29,18,30,34,NULL,21,21,32,32,NULL,NBA
+26,400900212,2017,"Fri, Feb 10",Phoenix Suns,Chicago Bulls,"17-37, 9-17 Home","26-28, 11-17 Away",115,97,NULL,NULL,Final,ESPN,28,28,30,29,NULL,26,17,33,21,NULL,NBA
+27,400900234,2017,"Mon, Feb 13",Phoenix Suns,New Orleans Pelicans,"17-39, 9-18 Home","22-34, 8-19 Away",108,110,NULL,NULL,Final,NULL,28,30,22,28,NULL,29,24,24,33,NULL,NBA
+28,400900265,2017,"Fri, Feb 24",Chicago Bulls,Phoenix Suns,"29-29, 18-11 Home","18-40, 8-22 Away",128,121,NULL,NULL,Final/OT,NULL,24,28,28,28,20,25,29,25,29,13,NBA
+29,400900298,2017,"Tue, Feb 28",Memphis Grizzlies,Phoenix Suns,"36-25, 19-11 Home","18-42, 8-24 Away",130,112,NULL,NULL,Final,NULL,25,30,38,37,NULL,27,29,29,27,NULL,NBA
+30,400900311,2017,"Fri, Mar 3",Phoenix Suns,Oklahoma City Thunder,"20-42, 12-18 Home","35-27, 12-19 Away",118,111,NULL,NULL,Final,NULL,23,35,29,31,NULL,28,27,24,32,NULL,NBA
+31,400900343,2017,"Tue, Mar 7",Phoenix Suns,Washington Wizards,"21-43, 13-19 Home","38-24, 12-15 Away",127,131,NULL,NULL,Final,NULL,25,36,31,35,NULL,38,30,26,37,NULL,NBA
+32,400900377,2017,"Sat, Mar 11",Dallas Mavericks,Phoenix Suns,"28-37, 20-15 Home","22-44, 9-24 Away",98,100,NULL,NULL,Final,NULL,24,23,22,29,NULL,25,20,27,28,NULL,NBA
+33,400900407,2017,"Wed, Mar 15",Phoenix Suns,Sacramento Kings,"22-46, 13-22 Home","27-41, 13-20 Away",101,107,NULL,NULL,Final,NULL,29,18,28,26,NULL,22,26,26,33,NULL,NBA
+34,400900433,2017,"Sun, Mar 19",Detroit Pistons,Phoenix Suns,"34-36, 23-14 Home","22-48, 9-25 Away",112,95,NULL,NULL,Final,NULL,24,23,30,35,NULL,23,26,26,20,NULL,NBA
+35,400900462,2017,"Thu, Mar 23",Brooklyn Nets,Phoenix Suns,"15-56, 10-27 Home","22-50, 9-27 Away",126,98,NULL,NULL,Final,NULL,22,30,32,42,NULL,32,18,15,33,NULL,NBA
+36,400900482,2017,"Sun, Mar 26",Charlotte Hornets,Phoenix Suns,"33-40, 21-16 Home","22-52, 9-29 Away",120,106,NULL,NULL,Final,NULL,38,31,29,22,NULL,18,29,33,26,NULL,NBA
+37,400900519,2017,"Thu, Mar 30",Phoenix Suns,LA Clippers,"22-54, 13-24 Home","46-31, 21-19 Away",118,124,NULL,NULL,Final,NULL,35,24,33,26,NULL,31,36,26,31,NULL,NBA
+38,400899475,2017,"Sun, Apr 2",Phoenix Suns,Houston Rockets,"22-56, 13-25 Home","52-25, 24-15 Away",116,123,NULL,NULL,Final,NBATV,21,33,29,33,NULL,31,28,31,33,NULL,NBA
+39,400900564,2017,"Fri, Apr 7",Phoenix Suns,Oklahoma City Thunder,"23-57, 14-26 Home","45-34, 17-22 Away",120,99,NULL,NULL,Final,NBATV,32,39,24,25,NULL,19,29,24,27,NULL,NBA
+40,400899412,2017,"Wed, Oct 26",Phoenix Suns,Sacramento Kings,"0-1, 0-1 Home","1-0, 1-0 Away",94,113,NULL,NULL,Final,NULL,19,19,29,27,NULL,30,27,27,29,NULL,NBA
+41,400899486,2017,"Sun, Oct 30",Phoenix Suns,Golden State Warriors,"0-3, 0-2 Home","2-1, 2-0 Away",100,106,NULL,NULL,Final,NULL,30,27,21,22,NULL,22,33,26,25,NULL,NBA
+42,400899513,2017,"Wed, Nov 2",Phoenix Suns,Portland Trail Blazers,"1-4, 1-2 Home","2-3, 1-1 Away",118,115,NULL,NULL,Final/OT,NULL,28,29,19,27,15,28,25,20,30,12,NBA
+43,400899542,2017,"Sun, Nov 6",Los Angeles Lakers,Phoenix Suns,"4-3, 3-0 Home","2-5, 1-3 Away",119,108,NULL,NULL,Final,NULL,23,31,29,36,NULL,15,28,33,32,NULL,NBA
+44,400899563,2017,"Wed, Nov 9",Phoenix Suns,Detroit Pistons,"3-6, 2-2 Home","4-4, 0-4 Away",107,100,NULL,NULL,Final,NULL,19,35,27,26,NULL,28,23,25,24,NULL,NBA
+45,400899593,2017,"Sun, Nov 13",Golden State Warriors,Phoenix Suns,"8-2, 4-1 Home","3-8, 1-5 Away",133,120,NULL,NULL,Final,NULL,28,34,37,34,NULL,32,27,33,28,NULL,NBA
+46,400899626,2017,"Fri, Nov 18",Indiana Pacers,Phoenix Suns,"6-7, 6-2 Home","4-9, 2-6 Away",96,116,NULL,NULL,Final,NULL,18,31,33,14,NULL,27,30,32,27,NULL,NBA
+47,400899650,2017,"Mon, Nov 21",Washington Wizards,Phoenix Suns,"4-9, 4-4 Home","4-11, 2-8 Away",106,101,NULL,NULL,Final,NULL,26,24,25,31,NULL,20,26,34,21,NULL,NBA
+48,400899686,2017,"Fri, Nov 25",Phoenix Suns,Minnesota Timberwolves,"5-12, 2-4 Home","5-10, 2-6 Away",85,98,NULL,NULL,Final,NULL,27,25,23,10,NULL,29,18,20,31,NULL,NBA
+49,400899724,2017,"Wed, Nov 30",Phoenix Suns,Atlanta Hawks,"6-13, 3-5 Home","10-9, 4-7 Away",109,107,NULL,NULL,Final,NULL,36,14,27,32,NULL,27,21,27,32,NULL,NBA
+50,400899762,2017,"Tue, Dec 6",Utah Jazz,Phoenix Suns,"14-9, 7-4 Home","6-15, 3-10 Away",112,105,NULL,NULL,Final,NULL,33,32,29,18,NULL,19,26,30,30,NULL,NBA
+51,400899786,2017,"Fri, Dec 9",Los Angeles Lakers,Phoenix Suns,"10-15, 6-6 Home","7-16, 4-10 Away",115,119,NULL,NULL,Final,ESPN,26,26,28,35,NULL,32,30,27,30,NULL,NBA
+52,400899814,2017,"Tue, Dec 13",Phoenix Suns,New York Knicks,"8-17, 4-7 Home","14-11, 5-7 Away",113,111,NULL,NULL,Final/OT,NULL,31,23,31,16,12,25,21,27,28,10,NBA
+53,400899841,2017,"Sat, Dec 17",Oklahoma City Thunder,Phoenix Suns,"16-11, 11-5 Home","8-19, 4-11 Away",114,101,NULL,NULL,Final,NULL,30,24,35,25,NULL,20,19,30,32,NULL,NBA
+54,400899877,2017,"Wed, Dec 21",Phoenix Suns,Houston Rockets,"8-21, 4-9 Home","22-8, 12-5 Away",111,125,NULL,NULL,Final,NULL,26,29,29,27,NULL,30,31,30,34,NULL,NBA
+55,400899909,2017,"Mon, Dec 26",Houston Rockets,Phoenix Suns,"23-9, 11-3 Home","9-22, 4-13 Away",131,115,NULL,NULL,Final,NULL,39,30,38,24,NULL,23,20,37,35,NULL,NBA
+56,400899932,2017,"Thu, Dec 29",Phoenix Suns,Toronto Raptors,"10-23, 6-9 Home","22-10, 11-5 Away",99,91,NULL,NULL,Final,NULL,16,26,34,23,NULL,18,22,22,29,NULL,NBA
+57,400899418,2017,"Mon, Jan 2",LA Clippers,Phoenix Suns,"23-14, 12-6 Home","10-25, 4-16 Away",109,98,NULL,NULL,Final,NULL,27,37,25,20,NULL,26,32,18,22,NULL,NBA
+58,400899962,2017,"Thu, Jan 5",Dallas Mavericks,Phoenix Suns,"11-25, 7-10 Home","12-25, 5-16 Away",95,102,NULL,NULL,Final,NULL,22,23,27,23,NULL,19,22,29,32,NULL,NBA
+59,400900012,2017,"Thu, Jan 12",Phoenix Suns,Dallas Mavericks,12-27,12-27,108,113,NULL,NULL,Final,NULL,29,30,17,32,NULL,32,25,31,25,NULL,NBA
+60,400900041,2017,"Mon, Jan 16",Phoenix Suns,Utah Jazz,"13-28, 8-12 Home","27-16, 12-9 Away",101,106,NULL,NULL,Final,NULL,28,25,27,21,NULL,24,23,32,27,NULL,NBA
+61,400900075,2017,"Sat, Jan 21",New York Knicks,Phoenix Suns,"19-26, 12-11 Home","14-29, 6-17 Away",105,107,NULL,NULL,Final,NULL,33,22,35,15,NULL,30,31,29,17,NULL,NBA
+62,400900100,2017,"Tue, Jan 24",Phoenix Suns,Minnesota Timberwolves,"15-30, 8-13 Home","17-28, 7-15 Away",111,112,NULL,NULL,Final,NULL,27,29,23,32,NULL,23,36,28,25,NULL,NBA
+63,400900130,2017,"Sat, Jan 28",Phoenix Suns,Denver Nuggets,"15-32, 8-14 Home","21-25, 9-14 Away",112,123,NULL,NULL,Final,NULL,33,28,22,29,NULL,21,38,36,28,NULL,NBA
+64,400899430,2017,"Wed, Feb 1",Phoenix Suns,LA Clippers,"15-34, 8-16 Home","31-18, 14-11 Away",114,124,NULL,NULL,Final,NULL,31,28,29,26,NULL,38,24,30,32,NULL,NBA
+65,400900166,2017,"Sat, Feb 4",Phoenix Suns,Milwaukee Bucks,"16-35, 8-17 Home","22-28, 9-16 Away",112,137,NULL,NULL,Final,NULL,25,41,23,23,NULL,45,29,27,36,NULL,NBA
+66,400900193,2017,"Wed, Feb 8",Memphis Grizzlies,Phoenix Suns,"33-22, 18-9 Home","16-37, 8-20 Away",110,91,NULL,NULL,Final,NULL,24,22,33,31,NULL,15,23,27,26,NULL,NBA
+67,400900217,2017,"Sat, Feb 11",Houston Rockets,Phoenix Suns,"40-17, 21-6 Home","17-38, 8-21 Away",133,102,NULL,NULL,Final,NULL,38,39,34,22,NULL,24,29,24,25,NULL,NBA
+68,400900250,2017,"Wed, Feb 15",Phoenix Suns,Los Angeles Lakers,"18-39, 10-18 Home","19-39, 7-25 Away",137,101,NULL,NULL,Final,NULL,32,36,34,35,NULL,15,33,28,25,NULL,NBA
+69,400900281,2017,"Sun, Feb 26",Milwaukee Bucks,Phoenix Suns,"26-31, 15-15 Home","18-41, 8-23 Away",100,96,NULL,NULL,Final,NBATV,21,21,35,23,NULL,23,24,26,23,NULL,NBA
+70,400900302,2017,"Thu, Mar 2",Phoenix Suns,Charlotte Hornets,"19-42, 11-18 Home","26-35, 10-22 Away",120,103,NULL,NULL,Final,NULL,28,33,33,26,NULL,32,26,33,12,NULL,NBA
+71,400900324,2017,"Sun, Mar 5",Phoenix Suns,Boston Celtics,"21-42, 13-18 Home","40-23, 19-14 Away",109,106,NULL,NULL,Final,NULL,19,30,32,28,NULL,22,20,35,29,NULL,NBA
+72,400900359,2017,"Thu, Mar 9",Phoenix Suns,Los Angeles Lakers,"21-44, 13-20 Home","20-45, 8-27 Away",110,122,NULL,NULL,Final,TNT,33,30,18,29,NULL,32,29,29,32,NULL,NBA
+73,400900383,2017,"Sun, Mar 12",Phoenix Suns,Portland Trail Blazers,"22-45, 13-21 Home","29-36, 12-22 Away",101,110,NULL,NULL,Final,NULL,18,32,29,22,NULL,33,33,16,28,NULL,NBA
+74,400900421,2017,"Fri, Mar 17",Phoenix Suns,Orlando Magic,"22-47, 13-23 Home","25-45, 13-23 Away",103,109,NULL,NULL,Final,NULL,22,36,27,18,NULL,30,30,24,25,NULL,NBA
+75,400900448,2017,"Tue, Mar 21",Miami Heat,Phoenix Suns,"35-36, 21-15 Home","22-49, 9-26 Away",112,97,NULL,NULL,Final,NULL,23,36,25,28,NULL,26,20,17,34,NULL,NBA
+76,400900471,2017,"Fri, Mar 24",Boston Celtics,Phoenix Suns,"47-26, 26-9 Home","22-51, 9-28 Away",130,120,NULL,NULL,Final,NULL,29,37,31,33,NULL,16,27,37,40,NULL,NBA
+77,400900501,2017,"Tue, Mar 28",Atlanta Hawks,Phoenix Suns,"38-36, 20-18 Home","22-53, 9-30 Away",95,91,NULL,NULL,Final,NULL,27,20,24,24,NULL,12,32,24,23,NULL,NBA
+78,400899401,2017,"Sat, Apr 1",Portland Trail Blazers,Phoenix Suns,"38-38, 22-15 Home","22-55, 9-31 Away",130,117,NULL,NULL,Final,NULL,37,26,34,33,NULL,21,32,34,30,NULL,NBA
+79,400900549,2017,"Wed, Apr 5",Phoenix Suns,Golden State Warriors,"22-57, 13-26 Home","65-14, 31-10 Away",111,120,NULL,NULL,Final,NULL,18,34,26,33,NULL,41,17,33,29,NULL,NBA
+80,400900577,2017,"Sun, Apr 9",Phoenix Suns,Dallas Mavericks,"24-57, 15-26 Home","32-48, 11-29 Away",124,111,NULL,NULL,Final,NULL,40,28,36,20,NULL,29,36,20,26,NULL,NBA
+81,400900594,2017,"Tue, Apr 11",Sacramento Kings,Phoenix Suns,"32-49, 17-24 Home","24-58, 9-32 Away",129,104,NULL,NULL,Final,NULL,28,30,39,32,NULL,25,14,38,27,NULL,NBA

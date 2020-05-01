@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,400488901,2014,"Fri, Nov 1",Brooklyn Nets,Miami Heat,"1-1, 1-0 Home","1-2, 0-2 Away",101,100,NULL,NULL,Final,ESPN,27,20,31,23,NULL,18,29,20,33,NULL,NBA
+1,400488925,2014,"Tue, Nov 5",Brooklyn Nets,Utah Jazz,"2-2, 2-0 Home","0-4, 0-2 Away",104,88,NULL,NULL,Final,NULL,28,26,31,19,NULL,18,20,23,27,NULL,NBA
+2,400488960,2014,"Sat, Nov 9",Brooklyn Nets,Indiana Pacers,"2-4, 2-1 Home","7-0, 3-0 Away",91,96,NULL,NULL,Final,NBATV,21,25,21,24,NULL,23,21,28,24,NULL,NBA
+3,400489005,2014,"Fri, Nov 15",Phoenix Suns,Brooklyn Nets,"5-4, 4-1 Home","3-5, 1-4 Away",98,100,NULL,NULL,Final/OT,NULL,29,21,17,25,6,18,28,27,19,8,NBA
+4,400489023,2014,"Mon, Nov 18",Brooklyn Nets,Portland Trail Blazers,"3-7, 2-2 Home","9-2, 5-1 Away",98,108,NULL,NULL,Final,NULL,40,23,15,20,NULL,31,25,27,25,NULL,NBA
+5,400489055,2014,"Fri, Nov 22",Minnesota Timberwolves,Brooklyn Nets,"8-6, 6-2 Home","3-9, 1-7 Away",111,81,NULL,NULL,Final,NULL,30,27,33,21,NULL,14,23,21,23,NULL,NBA
+6,400489084,2014,"Tue, Nov 26",Toronto Raptors,Brooklyn Nets,"6-8, 3-4 Home","4-10, 2-7 Away",100,102,NULL,NULL,Final,NULL,28,23,25,24,NULL,26,29,26,21,NULL,NBA
+7,400489107,2014,"Fri, Nov 29",Houston Rockets,Brooklyn Nets,"12-5, 8-2 Home","4-12, 2-8 Away",114,95,NULL,NULL,Final,NULL,33,33,26,22,NULL,17,23,22,33,NULL,NBA
+8,400489136,2014,"Tue, Dec 3",Brooklyn Nets,Denver Nuggets,"5-13, 2-5 Home","11-6, 5-4 Away",87,111,NULL,NULL,Final,NULL,29,21,15,22,NULL,27,31,31,22,NULL,NBA
+9,400489168,2014,"Sat, Dec 7",Milwaukee Bucks,Brooklyn Nets,"4-16, 2-8 Home","6-14, 4-8 Away",82,90,NULL,NULL,Final,NULL,18,22,19,23,NULL,20,19,26,25,NULL,NBA
+10,400489200,2014,"Thu, Dec 12",Brooklyn Nets,LA Clippers,"8-14, 4-6 Home","15-9, 7-7 Away",102,93,NULL,NULL,Final,TNT,20,36,27,19,NULL,25,19,18,31,NULL,NBA
+11,400489232,2014,"Mon, Dec 16",Brooklyn Nets,Philadelphia 76ers,"9-15, 5-6 Home","7-19, 1-11 Away",130,94,NULL,NULL,Final,NULL,32,26,42,30,NULL,22,26,25,21,NULL,NBA
+12,400489256,2014,"Fri, Dec 20",Philadelphia 76ers,Brooklyn Nets,"8-19, 7-8 Home","9-17, 4-10 Away",121,120,NULL,NULL,Final/OT,NULL,29,31,22,26,13,31,26,26,25,12,NBA
+13,400489291,2014,"Wed, Dec 25",Brooklyn Nets,Chicago Bulls,"9-19, 5-9 Home","11-16, 4-11 Away",78,95,NULL,NULL,Final,ESPN,23,15,20,20,NULL,21,20,36,18,NULL,NBA
+14,400489310,2014,"Sat, Dec 28",Indiana Pacers,Brooklyn Nets,"24-5, 14-1 Home","10-20, 4-11 Away",105,91,NULL,NULL,Final,NBATV,29,29,28,19,NULL,27,29,20,15,NULL,NBA
+15,400489349,2014,"Thu, Jan 2",Oklahoma City Thunder,Brooklyn Nets,"25-7, 14-3 Home","11-21, 5-12 Away",93,95,NULL,NULL,Final,NBATV,26,33,18,16,NULL,29,15,22,29,NULL,NBA
+16,400489379,2014,"Mon, Jan 6",Brooklyn Nets,Atlanta Hawks,"13-21, 8-9 Home","18-17, 6-12 Away",91,86,NULL,NULL,Final,NULL,27,19,26,19,NULL,21,31,15,19,NULL,NBA
+17,400489410,2014,"Fri, Jan 10",Brooklyn Nets,Miami Heat,"15-21, 10-9 Home","27-10, 11-7 Away",104,95,NULL,NULL,Final/2OT,ESPN,33,20,23,13,15,32,13,19,25,6,NBA
+18,400489452,2014,"Thu, Jan 16",Atlanta Hawks,Brooklyn Nets,20-19,16-22,110,127,NULL,NULL,Final,NBATV,27,26,21,36,NULL,31,34,34,28,NULL,NBA
+19,400489489,2014,"Tue, Jan 21",Brooklyn Nets,Orlando Magic,"18-22, 11-9 Home","11-31, 3-18 Away",101,90,NULL,NULL,Final,NULL,27,19,27,28,NULL,21,21,14,34,NULL,NBA
+20,400489531,2014,"Sun, Jan 26",Boston Celtics,Brooklyn Nets,"15-31, 9-14 Home","20-22, 8-13 Away",79,85,NULL,NULL,Final,ESPN,17,17,19,26,NULL,11,24,24,26,NULL,NBA
+21,400489565,2014,"Fri, Jan 31",Brooklyn Nets,Oklahoma City Thunder,"20-24, 12-11 Home","38-10, 18-7 Away",95,120,NULL,NULL,Final,ESPN,16,19,24,36,NULL,30,33,26,31,NULL,NBA
+22,400489585,2014,"Mon, Feb 3",Brooklyn Nets,Philadelphia 76ers,"21-25, 13-11 Home","15-34, 7-18 Away",108,102,NULL,NULL,Final,NULL,24,30,30,24,NULL,16,33,20,33,NULL,NBA
+23,400489617,2014,"Fri, Feb 7",Detroit Pistons,Brooklyn Nets,"20-29, 10-15 Home","22-26, 8-15 Away",111,95,NULL,NULL,Final,NULL,30,37,29,15,NULL,17,27,29,22,NULL,NBA
+24,400489654,2014,"Wed, Feb 12",Brooklyn Nets,Charlotte Bobcats,"24-26, 16-11 Home","23-30, 11-16 Away",105,89,NULL,NULL,Final,NULL,30,20,35,20,NULL,29,15,19,26,NULL,NBA
+25,400489681,2014,"Wed, Feb 19",Utah Jazz,Brooklyn Nets,"19-34, 12-15 Home","25-27, 9-16 Away",99,105,NULL,NULL,Final,NULL,28,28,18,25,NULL,21,27,27,30,NULL,NBA
+26,400489712,2014,"Sun, Feb 23",Los Angeles Lakers,Brooklyn Nets,"19-37, 9-18 Home","26-28, 10-17 Away",102,108,NULL,NULL,Final,NULL,21,26,27,28,NULL,33,30,23,22,NULL,NBA
+27,400489739,2014,"Thu, Feb 27",Denver Nuggets,Brooklyn Nets,"25-32, 14-15 Home","27-29, 11-18 Away",89,112,NULL,NULL,Final,TNT,8,28,20,33,NULL,29,30,30,23,NULL,NBA
+28,400489764,2014,"Mon, Mar 3",Brooklyn Nets,Chicago Bulls,"29-29, 17-11 Home","33-27, 15-17 Away",96,80,NULL,NULL,Final,NBATV,27,23,26,20,NULL,18,24,17,21,NULL,NBA
+29,400489793,2014,"Fri, Mar 7",Boston Celtics,Brooklyn Nets,"21-41, 13-19 Home","30-30, 12-19 Away",91,84,NULL,NULL,Final,NULL,26,27,25,13,NULL,20,21,29,14,NULL,NBA
+30,400489817,2014,"Mon, Mar 10",Brooklyn Nets,Toronto Raptors,"32-30, 20-11 Home","35-27, 17-15 Away",101,97,NULL,NULL,Final,NULL,19,31,28,23,NULL,30,21,22,24,NULL,NBA
+31,400489855,2014,"Sat, Mar 15",Washington Wizards,Brooklyn Nets,"35-31, 17-16 Home","33-31, 13-20 Away",101,94,NULL,NULL,Final,NULL,19,29,24,29,NULL,26,31,22,15,NULL,NBA
+32,400489883,2014,"Wed, Mar 19",Brooklyn Nets,Charlotte Bobcats,"35-31, 22-11 Home","33-36, 14-21 Away",104,99,NULL,NULL,Final,NULL,26,28,21,29,NULL,21,25,24,29,NULL,NBA
+33,400489917,2014,"Sun, Mar 23",Dallas Mavericks,Brooklyn Nets,"42-29, 23-12 Home","37-31, 14-20 Away",104,107,NULL,NULL,Final/OT,NULL,29,19,24,19,13,15,26,24,26,16,NBA
+34,400489934,2014,"Wed, Mar 26",Charlotte Bobcats,Brooklyn Nets,"35-37, 21-16 Home","37-33, 14-22 Away",116,111,NULL,NULL,Final/OT,NULL,24,34,25,22,11,28,31,19,27,6,NBA
+35,400489968,2014,"Sun, Mar 30",Brooklyn Nets,Minnesota Timberwolves,"39-33, 25-11 Home","36-36, 15-22 Away",114,99,NULL,NULL,Final,NULL,30,29,26,29,NULL,27,27,28,17,NULL,NBA
+36,400489988,2014,"Wed, Apr 2",New York Knicks,Brooklyn Nets,"33-43, 17-21 Home","40-34, 14-23 Away",110,81,NULL,NULL,Final,ESPN,29,34,19,28,NULL,20,18,23,20,NULL,NBA
+37,400490020,2014,"Sat, Apr 5",Philadelphia 76ers,Brooklyn Nets,"17-60, 9-31 Home","42-34, 15-23 Away",101,105,NULL,NULL,Final,NULL,21,21,27,32,NULL,27,30,24,24,NULL,NBA
+38,400490036,2014,"Wed, Apr 9",Orlando Magic,Brooklyn Nets,"23-55, 19-20 Home","43-35, 16-24 Away",115,111,NULL,NULL,Final,NULL,20,35,28,32,NULL,22,21,35,33,NULL,NBA
+39,400490072,2014,"Sun, Apr 13",Brooklyn Nets,Orlando Magic,"44-36, 28-12 Home","23-57, 4-36 Away",97,88,NULL,NULL,Final,NBATV,25,21,33,18,NULL,28,21,21,18,NULL,NBA
+40,400488877,2014,"Wed, Oct 30",Cleveland Cavaliers,Brooklyn Nets,"1-0, 1-0 Home","0-1, 0-1 Away",98,94,NULL,NULL,Final,NBATV,27,22,30,19,NULL,26,22,22,24,NULL,NBA
+41,400488916,2014,"Sun, Nov 3",Orlando Magic,Brooklyn Nets,"2-2, 2-0 Home","1-2, 0-2 Away",107,86,NULL,NULL,Final,NULL,22,19,33,33,NULL,22,16,21,27,NULL,NBA
+42,400488950,2014,"Fri, Nov 8",Washington Wizards,Brooklyn Nets,"2-3, 1-1 Home","2-3, 0-3 Away",112,108,NULL,NULL,Final/OT,NULL,27,26,20,26,13,33,25,15,26,9,NBA
+43,400488994,2014,"Wed, Nov 13",Sacramento Kings,Brooklyn Nets,"2-5, 2-3 Home","2-5, 0-4 Away",107,86,NULL,NULL,Final,NULL,23,29,28,27,NULL,19,21,19,27,NULL,NBA
+44,400489019,2014,"Sat, Nov 16",LA Clippers,Brooklyn Nets,"7-3, 5-0 Home","3-6, 1-5 Away",110,103,NULL,NULL,Final,NBATV,29,25,22,34,NULL,26,29,20,28,NULL,NBA
+45,400489034,2014,"Wed, Nov 20",Charlotte Bobcats,Brooklyn Nets,"6-6, 3-3 Home","3-8, 1-6 Away",95,91,NULL,NULL,Final,NULL,30,23,30,12,NULL,29,21,20,21,NULL,NBA
+46,400489070,2014,"Sun, Nov 24",Brooklyn Nets,Detroit Pistons,"3-10, 2-3 Home","5-8, 2-5 Away",97,109,NULL,NULL,Final,NULL,19,32,15,31,NULL,23,21,34,31,NULL,NBA
+47,400489091,2014,"Wed, Nov 27",Brooklyn Nets,Los Angeles Lakers,"4-11, 2-4 Home","8-8, 2-5 Away",94,99,NULL,NULL,Final,NULL,18,22,28,26,NULL,34,20,23,22,NULL,NBA
+48,400489116,2014,"Sat, Nov 30",Memphis Grizzlies,Brooklyn Nets,"8-8, 3-5 Home","5-12, 3-8 Away",88,97,NULL,NULL,Final,NBATV,19,18,28,23,NULL,24,24,25,24,NULL,NBA
+49,400489150,2014,"Thu, Dec 5",Brooklyn Nets,New York Knicks,"5-14, 2-6 Home","4-13, 3-6 Away",83,113,NULL,NULL,Final,TNT,23,20,16,24,NULL,29,21,34,29,NULL,NBA
+50,400489187,2014,"Tue, Dec 10",Brooklyn Nets,Boston Celtics,"7-14, 3-6 Home","10-13, 5-8 Away",104,96,NULL,NULL,Final,NULL,31,25,29,19,NULL,20,27,25,24,NULL,NBA
+51,400489207,2014,"Fri, Dec 13",Detroit Pistons,Brooklyn Nets,"11-13, 6-7 Home","8-15, 4-9 Away",103,99,NULL,NULL,Final,NULL,23,38,25,17,NULL,24,20,24,31,NULL,NBA
+52,400489247,2014,"Wed, Dec 18",Brooklyn Nets,Washington Wizards,"9-16, 5-7 Home","11-13, 5-8 Away",107,113,NULL,NULL,Final,NULL,28,25,24,30,NULL,30,29,26,28,NULL,NBA
+53,400489283,2014,"Mon, Dec 23",Brooklyn Nets,Indiana Pacers,"9-18, 5-8 Home","23-5, 10-4 Away",86,103,NULL,NULL,Final,NULL,17,22,19,28,NULL,19,26,30,28,NULL,NBA
+54,400489302,2014,"Fri, Dec 27",Brooklyn Nets,Milwaukee Bucks,"10-19, 6-9 Home","6-23, 3-12 Away",104,93,NULL,NULL,Final,NULL,31,17,28,28,NULL,18,19,23,33,NULL,NBA
+55,400489338,2014,"Tue, Dec 31",San Antonio Spurs,Brooklyn Nets,"25-7, 12-4 Home","10-21, 4-12 Away",113,92,NULL,NULL,Final,NULL,30,29,39,15,NULL,20,16,32,24,NULL,NBA
+56,400489364,2014,"Sat, Jan 4",Brooklyn Nets,Cleveland Cavaliers,"12-21, 7-9 Home","11-22, 2-15 Away",89,82,NULL,NULL,Final,NULL,22,29,16,22,NULL,17,21,27,17,NULL,NBA
+57,400489396,2014,"Wed, Jan 8",Brooklyn Nets,Golden State Warriors,"14-21, 9-9 Home","24-14, 13-10 Away",102,98,NULL,NULL,Final,NULL,22,37,16,27,NULL,32,20,24,22,NULL,NBA
+58,400489416,2014,"Sat, Jan 11",Toronto Raptors,Brooklyn Nets,"18-17, 8-8 Home","15-22, 5-13 Away",96,80,NULL,NULL,Final,NULL,24,23,21,28,NULL,18,24,22,16,NULL,NBA
+59,400489483,2014,"Mon, Jan 20",New York Knicks,Brooklyn Nets,"15-26, 7-14 Home","17-22, 7-13 Away",80,103,NULL,NULL,Final,ESPN,16,22,17,25,NULL,27,25,19,32,NULL,NBA
+60,400489510,2014,"Fri, Jan 24",Brooklyn Nets,Dallas Mavericks,"19-22, 12-9 Home","25-20, 11-13 Away",107,106,NULL,NULL,Final,NULL,18,39,21,29,NULL,21,25,24,36,NULL,NBA
+61,400489536,2014,"Mon, Jan 27",Brooklyn Nets,Toronto Raptors,"20-23, 12-10 Home","23-21, 12-11 Away",103,104,NULL,NULL,Final,NULL,26,30,25,22,NULL,25,32,25,22,NULL,NBA
+62,400489570,2014,"Sat, Feb 1",Indiana Pacers,Brooklyn Nets,"36-10, 22-2 Home","20-25, 8-14 Away",97,96,NULL,NULL,Final,NULL,25,21,26,25,NULL,24,21,25,26,NULL,NBA
+63,400489610,2014,"Thu, Feb 6",Brooklyn Nets,San Antonio Spurs,"22-25, 14-11 Home","36-14, 18-6 Away",103,89,NULL,NULL,Final,TNT,17,23,35,28,NULL,24,15,29,21,NULL,NBA
+64,400489632,2014,"Sun, Feb 9",Brooklyn Nets,New Orleans Pelicans,"23-26, 15-11 Home","22-28, 9-16 Away",93,81,NULL,NULL,Final,NULL,29,22,20,22,NULL,14,14,32,21,NULL,NBA
+65,400489663,2014,"Thu, Feb 13",Chicago Bulls,Brooklyn Nets,"27-25, 15-10 Home","24-27, 8-16 Away",92,76,NULL,NULL,Final,TNT,29,20,20,23,NULL,19,22,20,15,NULL,NBA
+66,400489705,2014,"Sat, Feb 22",Golden State Warriors,Brooklyn Nets,"34-22, 18-10 Home","25-28, 9-17 Away",93,86,NULL,NULL,Final,NULL,28,21,19,25,NULL,23,23,18,22,NULL,NBA
+67,400489734,2014,"Wed, Feb 26",Portland Trail Blazers,Brooklyn Nets,"40-18, 22-7 Home","26-29, 10-18 Away",124,80,NULL,NULL,Final,NULL,29,29,24,42,NULL,20,14,25,21,NULL,NBA
+68,400489751,2014,"Sat, Mar 1",Milwaukee Bucks,Brooklyn Nets,"11-47, 6-24 Home","28-29, 12-18 Away",98,107,NULL,NULL,Final,NULL,29,24,19,26,NULL,31,24,22,30,NULL,NBA
+69,400489781,2014,"Wed, Mar 5",Brooklyn Nets,Memphis Grizzlies,"30-29, 18-11 Home","34-26, 16-12 Away",103,94,NULL,NULL,Final,NULL,30,24,33,16,NULL,19,25,16,34,NULL,NBA
+70,400489811,2014,"Sun, Mar 9",Brooklyn Nets,Sacramento Kings,"31-30, 19-11 Home","22-41, 9-22 Away",104,89,NULL,NULL,Final,NULL,28,21,28,27,NULL,19,21,25,24,NULL,NBA
+71,400489830,2014,"Wed, Mar 12",Miami Heat,Brooklyn Nets,"44-18, 25-5 Home","33-30, 13-19 Away",95,96,NULL,NULL,Final,ESPN,22,20,29,24,NULL,22,20,31,23,NULL,NBA
+72,400489871,2014,"Mon, Mar 17",Brooklyn Nets,Phoenix Suns,"34-31, 21-11 Home","38-29, 16-16 Away",108,95,NULL,NULL,Final,NULL,30,32,28,18,NULL,20,29,23,23,NULL,NBA
+73,400489899,2014,"Fri, Mar 21",Brooklyn Nets,Boston Celtics,"36-31, 23-11 Home","23-47, 8-26 Away",114,98,NULL,NULL,Final,NULL,34,30,28,22,NULL,28,26,22,22,NULL,NBA
+74,400489925,2014,"Mon, Mar 24",New Orleans Pelicans,Brooklyn Nets,"30-40, 18-17 Home","37-32, 14-21 Away",109,104,NULL,NULL,Final/OT,NULL,20,22,31,25,11,26,32,18,22,6,NBA
+75,400489951,2014,"Fri, Mar 28",Brooklyn Nets,Cleveland Cavaliers,"38-33, 24-11 Home","29-45, 13-25 Away",108,97,NULL,NULL,Final,NULL,29,32,24,23,NULL,29,21,27,20,NULL,NBA
+76,400489984,2014,"Tue, Apr 1",Brooklyn Nets,Houston Rockets,"40-33, 26-11 Home","49-24, 20-16 Away",105,96,NULL,NULL,Final,TNT,29,25,29,22,NULL,24,27,28,17,NULL,NBA
+77,400490007,2014,"Fri, Apr 4",Brooklyn Nets,Detroit Pistons,"41-34, 27-11 Home","27-49, 11-26 Away",116,104,NULL,NULL,Final,NULL,22,35,34,25,NULL,22,23,24,35,NULL,NBA
+78,400490031,2014,"Tue, Apr 8",Miami Heat,Brooklyn Nets,"53-24, 31-8 Home","43-34, 16-23 Away",87,88,NULL,NULL,Final,TNT,14,29,22,22,NULL,26,18,18,26,NULL,NBA
+79,400490052,2014,"Fri, Apr 11",Brooklyn Nets,Atlanta Hawks,"43-36, 27-12 Home","36-43, 13-27 Away",88,93,NULL,NULL,Final,NULL,23,24,26,15,NULL,16,39,19,19,NULL,NBA
+80,400490087,2014,"Tue, Apr 15",Brooklyn Nets,New York Knicks,"44-37, 28-13 Home","36-45, 18-23 Away",98,109,NULL,NULL,Final,TNT,18,25,24,31,NULL,29,26,28,26,NULL,NBA
+81,400490097,2014,"Wed, Apr 16",Cleveland Cavaliers,Brooklyn Nets,"33-49, 19-22 Home","44-38, 16-25 Away",114,85,NULL,NULL,Final,NULL,33,18,30,33,NULL,21,28,15,21,NULL,NBA

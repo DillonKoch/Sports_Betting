@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,400974443,2018,"Fri, Oct 20",Milwaukee Bucks,Cleveland Cavaliers,"1-1, 0-1 Home","2-0, 1-0 Away",97,116,NULL,NULL,Final,ESPN,25,24,24,24,NULL,25,30,31,30,NULL,NBA
+1,400974795,2018,"Mon, Oct 23",Milwaukee Bucks,Charlotte Hornets,"3-1, 2-1 Home","1-2, 0-2 Away",103,94,NULL,NULL,Final,NULL,18,35,30,20,NULL,25,29,23,17,NULL,NBA
+2,400974836,2018,"Sun, Oct 29",Atlanta Hawks,Milwaukee Bucks,"1-6, 0-2 Home","4-2, 2-0 Away",106,117,NULL,NULL,Final,NULL,16,32,25,33,NULL,28,33,31,25,NULL,NBA
+3,400974856,2018,"Wed, Nov 1",Charlotte Hornets,Milwaukee Bucks,"5-3, 4-1 Home","4-4, 2-1 Away",126,121,NULL,NULL,Final,NULL,25,35,28,38,NULL,32,25,31,33,NULL,NBA
+4,400974900,2018,"Tue, Nov 7",Cleveland Cavaliers,Milwaukee Bucks,"5-6, 3-4 Home","4-6, 2-3 Away",124,119,NULL,NULL,Final,NBATV,39,26,29,30,NULL,28,39,23,29,NULL,NBA
+5,400974933,2018,"Sat, Nov 11",Milwaukee Bucks,Los Angeles Lakers,"6-6, 3-3 Home","5-8, 1-5 Away",98,90,NULL,NULL,Final,NULL,24,27,26,21,NULL,17,32,18,23,NULL,NBA
+6,400974960,2018,"Wed, Nov 15",Milwaukee Bucks,Detroit Pistons,"8-6, 5-3 Home","10-4, 3-3 Away",99,95,NULL,NULL,Final,NULL,26,15,34,24,NULL,23,18,21,33,NULL,NBA
+7,400974998,2018,"Mon, Nov 20",Milwaukee Bucks,Washington Wizards,"8-8, 5-4 Home","10-7, 5-3 Away",88,99,NULL,NULL,Final,NULL,19,27,20,22,NULL,27,20,26,26,NULL,NBA
+8,400975036,2018,"Sat, Nov 25",Utah Jazz,Milwaukee Bucks,"9-11, 8-4 Home","9-9, 4-5 Away",121,108,NULL,NULL,Final,NULL,31,33,31,26,NULL,30,27,28,23,NULL,NBA
+9,400975067,2018,"Thu, Nov 30",Portland Trail Blazers,Milwaukee Bucks,"13-9, 7-5 Home","11-9, 6-5 Away",91,103,NULL,NULL,Final,NBATV,21,24,21,25,NULL,33,27,27,16,NULL,NBA
+10,400975094,2018,"Mon, Dec 4",Boston Celtics,Milwaukee Bucks,"21-4, 11-2 Home","12-10, 6-6 Away",111,100,NULL,NULL,Final,NBATV,34,28,26,23,NULL,26,23,32,19,NULL,NBA
+11,400975123,2018,"Fri, Dec 8",Milwaukee Bucks,Dallas Mavericks,"14-10, 8-4 Home","7-19, 2-9 Away",109,102,NULL,NULL,Final,NULL,22,27,28,32,NULL,25,29,24,24,NULL,NBA
+12,400975161,2018,"Wed, Dec 13",New Orleans Pelicans,Milwaukee Bucks,"15-14, 8-7 Home","15-11, 6-7 Away",115,108,NULL,NULL,Final,NULL,32,30,25,28,NULL,37,26,22,23,NULL,NBA
+13,400975184,2018,"Sat, Dec 16",Houston Rockets,Milwaukee Bucks,"24-4, 12-3 Home","15-13, 6-8 Away",115,111,NULL,NULL,Final,NULL,28,27,29,31,NULL,25,30,24,32,NULL,NBA
+14,400975227,2018,"Fri, Dec 22",Milwaukee Bucks,Charlotte Hornets,"17-13, 11-5 Home","11-21, 2-12 Away",109,104,NULL,NULL,Final,NULL,26,26,31,26,NULL,23,36,26,19,NULL,NBA
+15,400975247,2018,"Tue, Dec 26",Milwaukee Bucks,Chicago Bulls,"17-15, 11-6 Home","11-22, 4-14 Away",106,115,NULL,NULL,Final,NBATV,31,22,30,23,NULL,22,34,27,32,NULL,NBA
+16,400975272,2018,"Fri, Dec 29",Oklahoma City Thunder,Milwaukee Bucks,"20-16, 14-5 Home","19-15, 7-9 Away",95,97,NULL,NULL,Final,NULL,18,26,23,28,NULL,38,20,15,24,NULL,NBA
+17,400975307,2018,"Wed, Jan 3",Milwaukee Bucks,Indiana Pacers,"20-16, 13-6 Home","19-19, 8-10 Away",122,101,NULL,NULL,Final,NULL,34,28,31,29,NULL,26,26,24,25,NULL,NBA
+18,400975329,2018,"Sat, Jan 6",Washington Wizards,Milwaukee Bucks,"23-17, 13-7 Home","21-17, 8-10 Away",103,110,NULL,NULL,Final,NULL,32,21,32,18,NULL,24,29,29,28,NULL,NBA
+19,400975356,2018,"Wed, Jan 10",Milwaukee Bucks,Orlando Magic,"22-18, 14-7 Home","12-30, 5-18 Away",110,103,NULL,NULL,Final,NULL,30,23,36,21,NULL,29,17,23,34,NULL,NBA
+20,400975380,2018,"Sun, Jan 14",Miami Heat,Milwaukee Bucks,"25-17, 12-9 Home","22-20, 8-12 Away",97,79,NULL,NULL,Final,NULL,21,20,30,26,NULL,23,20,16,20,NULL,NBA
+21,400975405,2018,"Wed, Jan 17",Milwaukee Bucks,Miami Heat,"23-21, 14-9 Home","26-18, 14-9 Away",101,106,NULL,NULL,Final,NULL,25,32,22,22,NULL,30,22,26,28,NULL,NBA
+22,400975437,2018,"Mon, Jan 22",Milwaukee Bucks,Phoenix Suns,"24-22, 15-9 Home","17-30, 9-14 Away",109,105,NULL,NULL,Final,NULL,30,23,23,33,NULL,26,27,26,26,NULL,NBA
+23,400975477,2018,"Sun, Jan 28",Chicago Bulls,Milwaukee Bucks,"18-32, 11-14 Home","26-22, 10-13 Away",96,110,NULL,NULL,Final,NULL,20,22,30,24,NULL,26,35,25,24,NULL,NBA
+24,400975509,2018,"Thu, Feb 1",Minnesota Timberwolves,Milwaukee Bucks,"33-22, 21-6 Home","27-23, 10-14 Away",108,89,NULL,NULL,Final,NULL,23,37,19,29,NULL,17,22,22,28,NULL,NBA
+25,400975531,2018,"Sun, Feb 4",Brooklyn Nets,Milwaukee Bucks,"19-35, 11-17 Home","29-23, 11-14 Away",94,109,NULL,NULL,Final,NULL,22,19,31,22,NULL,36,26,21,26,NULL,NBA
+26,400975567,2018,"Fri, Feb 9",Miami Heat,Milwaukee Bucks,"30-26, 14-12 Home","30-24, 12-15 Away",91,85,NULL,NULL,Final,NULL,19,23,30,19,NULL,23,23,8,31,NULL,NBA
+27,400975594,2018,"Tue, Feb 13",Milwaukee Bucks,Atlanta Hawks,"32-24, 19-9 Home","18-40, 5-23 Away",97,92,NULL,NULL,Final,NULL,21,20,33,23,NULL,24,19,18,31,NULL,NBA
+28,400975622,2018,"Fri, Feb 23",Toronto Raptors,Milwaukee Bucks,"41-17, 24-5 Home","33-25, 14-15 Away",119,122,NULL,NULL,Final/OT,NULL,29,28,31,22,9,23,42,31,14,12,NBA
+29,400975656,2018,"Tue, Feb 27",Milwaukee Bucks,Washington Wizards,"33-27, 19-12 Home","36-25, 18-14 Away",104,107,NULL,NULL,Final,TNT,22,28,31,23,NULL,40,24,20,23,NULL,NBA
+30,400975678,2018,"Fri, Mar 2",Milwaukee Bucks,Indiana Pacers,"33-29, 19-13 Home","35-27, 14-16 Away",96,103,NULL,NULL,Final,NULL,21,25,21,29,NULL,18,27,33,25,NULL,NBA
+31,400975697,2018,"Mon, Mar 5",Indiana Pacers,Milwaukee Bucks,"37-27, 22-11 Home","34-30, 14-17 Away",92,89,NULL,NULL,Final,NULL,20,24,29,19,NULL,17,29,23,20,NULL,NBA
+32,400975727,2018,"Fri, Mar 9",Milwaukee Bucks,New York Knicks,"35-31, 21-14 Home","24-42, 8-28 Away",120,112,NULL,NULL,Final,NULL,26,34,31,29,NULL,22,33,34,23,NULL,NBA
+33,400975762,2018,"Wed, Mar 14",Orlando Magic,Milwaukee Bucks,"21-48, 14-18 Home","36-32, 15-18 Away",126,117,NULL,NULL,Final,NULL,36,25,30,35,NULL,20,32,28,37,NULL,NBA
+34,400975796,2018,"Mon, Mar 19",Cleveland Cavaliers,Milwaukee Bucks,"41-29, 23-11 Home","37-33, 15-19 Away",124,117,NULL,NULL,Final,ESPN,26,38,29,31,NULL,25,32,28,32,NULL,NBA
+35,400975829,2018,"Fri, Mar 23",Chicago Bulls,Milwaukee Bucks,"24-48, 15-22 Home","38-34, 16-19 Away",105,118,NULL,NULL,Final,NULL,34,27,21,23,NULL,24,37,29,28,NULL,NBA
+36,400975861,2018,"Tue, Mar 27",LA Clippers,Milwaukee Bucks,"40-34, 21-15 Home","39-35, 16-20 Away",105,98,NULL,NULL,Final,TNT,35,27,16,27,NULL,29,27,26,16,NULL,NBA
+37,400975882,2018,"Fri, Mar 30",Los Angeles Lakers,Milwaukee Bucks,"33-42, 19-17 Home","41-35, 18-20 Away",122,124,NULL,NULL,Final/OT,NULL,34,23,26,29,10,39,29,29,15,12,NBA
+38,400975908,2018,"Tue, Apr 3",Milwaukee Bucks,Boston Celtics,"42-36, 24-15 Home","53-24, 28-11 Away",106,102,NULL,NULL,Final,NULL,26,32,21,27,NULL,31,25,15,31,NULL,NBA
+39,400975938,2018,"Sat, Apr 7",New York Knicks,Milwaukee Bucks,"28-52, 19-21 Home","43-37, 19-21 Away",102,115,NULL,NULL,Final,NULL,28,27,22,25,NULL,31,22,27,35,NULL,NBA
+40,400974703,2018,"Wed, Oct 18",Boston Celtics,Milwaukee Bucks,"0-2, 0-1 Home","1-0, 1-0 Away",100,108,NULL,NULL,Final,NULL,26,27,27,20,NULL,24,34,18,32,NULL,NBA
+41,400974785,2018,"Sat, Oct 21",Milwaukee Bucks,Portland Trail Blazers,"2-1, 1-1 Home","2-1, 2-1 Away",113,110,NULL,NULL,Final,NULL,24,36,24,29,NULL,26,29,25,30,NULL,NBA
+42,400974818,2018,"Thu, Oct 26",Milwaukee Bucks,Boston Celtics,"3-2, 2-2 Home","3-2, 2-1 Away",89,96,NULL,NULL,Final,TNT,23,21,25,20,NULL,28,15,29,24,NULL,NBA
+43,400974854,2018,"Tue, Oct 31",Milwaukee Bucks,Oklahoma City Thunder,"4-3, 2-3 Home","4-3, 2-2 Away",91,110,NULL,NULL,Final,NBATV,23,19,22,27,NULL,31,29,25,25,NULL,NBA
+44,400974870,2018,"Fri, Nov 3",Detroit Pistons,Milwaukee Bucks,"6-3, 3-1 Home","4-5, 2-2 Away",105,96,NULL,NULL,Final,NULL,28,31,23,23,NULL,26,22,24,24,NULL,NBA
+45,400974924,2018,"Fri, Nov 10",San Antonio Spurs,Milwaukee Bucks,"7-5, 5-2 Home","5-6, 3-3 Away",87,94,NULL,NULL,Final,ESPN,27,20,23,17,NULL,25,21,30,18,NULL,NBA
+46,400974945,2018,"Mon, Nov 13",Milwaukee Bucks,Memphis Grizzlies,"7-6, 4-3 Home","7-6, 3-4 Away",110,103,NULL,NULL,Final,NULL,34,26,24,26,NULL,29,36,12,26,NULL,NBA
+47,400974984,2018,"Sat, Nov 18",Dallas Mavericks,Milwaukee Bucks,"3-14, 2-8 Home","8-7, 3-4 Away",111,79,NULL,NULL,Final,NULL,33,23,26,29,NULL,24,20,17,18,NULL,NBA
+48,400975015,2018,"Wed, Nov 22",Phoenix Suns,Milwaukee Bucks,"7-12, 4-8 Home","9-8, 4-4 Away",107,113,NULL,NULL,Final/OT,NULL,23,21,31,30,2,33,21,30,21,8,NBA
+49,400975053,2018,"Tue, Nov 28",Sacramento Kings,Milwaukee Bucks,"6-15, 4-6 Home","10-9, 5-5 Away",87,112,NULL,NULL,Final,NULL,26,11,22,28,NULL,32,29,31,20,NULL,NBA
+50,400975082,2018,"Sat, Dec 2",Milwaukee Bucks,Sacramento Kings,"12-9, 6-4 Home","7-16, 3-10 Away",109,104,NULL,NULL,Final,NULL,33,30,25,21,NULL,25,27,24,28,NULL,NBA
+51,400975110,2018,"Wed, Dec 6",Milwaukee Bucks,Detroit Pistons,"13-10, 7-4 Home","14-10, 6-8 Away",104,100,NULL,NULL,Final,NULL,30,30,16,28,NULL,27,24,25,24,NULL,NBA
+52,400975132,2018,"Sat, Dec 9",Milwaukee Bucks,Utah Jazz,"15-10, 9-4 Home","13-14, 2-9 Away",117,100,NULL,NULL,Final,NBATV,29,22,32,34,NULL,19,23,24,34,NULL,NBA
+53,400975177,2018,"Fri, Dec 15",Milwaukee Bucks,Chicago Bulls,"15-12, 9-5 Home","8-20, 3-12 Away",109,115,NULL,NULL,Final,NULL,30,28,24,27,NULL,33,26,23,33,NULL,NBA
+54,400975204,2018,"Tue, Dec 19",Milwaukee Bucks,Cleveland Cavaliers,"16-13, 10-5 Home","23-9, 10-5 Away",119,116,NULL,NULL,Final,NBATV,30,39,29,21,NULL,34,24,25,33,NULL,NBA
+55,400975232,2018,"Sat, Dec 23",Charlotte Hornets,Milwaukee Bucks,"12-21, 10-9 Home","17-14, 6-9 Away",111,106,NULL,NULL,Final,NULL,24,29,28,30,NULL,23,31,31,21,NULL,NBA
+56,400975264,2018,"Thu, Dec 28",Milwaukee Bucks,Minnesota Timberwolves,"18-15, 12-6 Home","22-14, 10-8 Away",102,96,NULL,NULL,Final,NULL,16,30,29,27,NULL,26,30,28,12,NULL,NBA
+57,400975292,2018,"Mon, Jan 1",Toronto Raptors,Milwaukee Bucks,"25-10, 14-1 Home","19-16, 7-10 Away",131,127,NULL,NULL,Final/OT,NULL,35,25,28,26,17,30,26,28,30,13,NBA
+58,400975317,2018,"Fri, Jan 5",Milwaukee Bucks,Toronto Raptors,"20-17, 13-7 Home","27-10, 13-9 Away",110,129,NULL,NULL,Final,NULL,24,35,19,32,NULL,33,28,43,25,NULL,NBA
+59,400975337,2018,"Mon, Jan 8",Indiana Pacers,Milwaukee Bucks,"21-19, 13-9 Home","21-18, 8-11 Away",109,96,NULL,NULL,Final,NBATV,37,27,24,21,NULL,16,22,27,31,NULL,NBA
+60,400975368,2018,"Fri, Jan 12",Milwaukee Bucks,Golden State Warriors,"22-19, 14-8 Home","34-9, 18-3 Away",94,108,NULL,NULL,Final,ESPN,27,22,33,12,NULL,36,27,17,28,NULL,NBA
+61,400975386,2018,"Mon, Jan 15",Washington Wizards,Milwaukee Bucks,"25-19, 15-9 Home","23-20, 9-12 Away",95,104,NULL,NULL,Final,NULL,30,21,21,23,NULL,28,25,25,26,NULL,NBA
+62,400975424,2018,"Sat, Jan 20",Philadelphia 76ers,Milwaukee Bucks,"22-20, 11-10 Home","23-22, 9-13 Away",116,94,NULL,NULL,Final,NULL,37,24,23,32,NULL,29,26,25,14,NULL,NBA
+63,400975465,2018,"Fri, Jan 26",Milwaukee Bucks,Brooklyn Nets,"25-22, 16-9 Home","18-31, 8-16 Away",116,91,NULL,NULL,Final,NULL,33,25,23,35,NULL,15,20,37,19,NULL,NBA
+64,400975487,2018,"Mon, Jan 29",Milwaukee Bucks,Philadelphia 76ers,"27-22, 17-9 Home","24-23, 12-13 Away",107,95,NULL,NULL,Final,NULL,28,27,28,24,NULL,30,23,22,20,NULL,NBA
+65,400975517,2018,"Fri, Feb 2",Milwaukee Bucks,New York Knicks,"28-23, 18-9 Home","23-30, 7-21 Away",92,90,NULL,NULL,Final,NULL,28,27,19,18,NULL,29,26,19,16,NULL,NBA
+66,400975547,2018,"Tue, Feb 6",New York Knicks,Milwaukee Bucks,"23-32, 16-11 Home","30-23, 12-14 Away",89,103,NULL,NULL,Final,NULL,26,20,17,26,NULL,25,25,26,27,NULL,NBA
+67,400975573,2018,"Sat, Feb 10",Orlando Magic,Milwaukee Bucks,"18-37, 11-15 Home","31-24, 13-15 Away",104,111,NULL,NULL,Final,NULL,29,25,20,30,NULL,24,26,28,33,NULL,NBA
+68,400975611,2018,"Thu, Feb 15",Milwaukee Bucks,Denver Nuggets,"32-25, 19-10 Home","32-26, 9-19 Away",123,134,NULL,NULL,Final,NULL,28,34,26,35,NULL,35,39,33,27,NULL,NBA
+69,400975639,2018,"Sun, Feb 25",Milwaukee Bucks,New Orleans Pelicans,"33-26, 19-11 Home","33-26, 17-14 Away",121,123,NULL,NULL,Final/OT,NULL,32,34,19,29,7,21,28,38,27,9,NBA
+70,400975659,2018,"Wed, Feb 28",Detroit Pistons,Milwaukee Bucks,"29-32, 20-13 Home","33-28, 14-16 Away",110,87,NULL,NULL,Final,NULL,32,21,32,25,NULL,32,12,26,17,NULL,NBA
+71,400975693,2018,"Sun, Mar 4",Milwaukee Bucks,Philadelphia 76ers,"34-29, 20-13 Home","34-28, 14-18 Away",118,110,NULL,NULL,Final,ESPN,31,29,33,25,NULL,43,29,14,24,NULL,NBA
+72,400975714,2018,"Wed, Mar 7",Milwaukee Bucks,Houston Rockets,"34-31, 20-14 Home","51-13, 26-7 Away",99,110,NULL,NULL,Final,NULL,22,24,30,23,NULL,24,34,29,23,NULL,NBA
+73,400975748,2018,"Mon, Mar 12",Memphis Grizzlies,Milwaukee Bucks,"18-49, 13-22 Home","36-31, 15-17 Away",103,121,NULL,NULL,Final,NULL,24,26,23,30,NULL,32,32,26,31,NULL,NBA
+74,400975787,2018,"Sat, Mar 17",Milwaukee Bucks,Atlanta Hawks,"37-32, 22-14 Home","20-50, 5-28 Away",122,117,NULL,NULL,Final,NULL,26,30,39,27,NULL,31,19,37,30,NULL,NBA
+75,400975816,2018,"Wed, Mar 21",Milwaukee Bucks,LA Clippers,"37-34, 22-15 Home","38-33, 18-18 Away",120,127,NULL,NULL,Final,NULL,24,33,26,37,NULL,38,26,33,30,NULL,NBA
+76,400975841,2018,"Sun, Mar 25",Milwaukee Bucks,San Antonio Spurs,"39-34, 23-15 Home","43-31, 14-23 Away",106,103,NULL,NULL,Final,NULL,27,20,41,18,NULL,15,32,28,28,NULL,NBA
+77,400975874,2018,"Thu, Mar 29",Golden State Warriors,Milwaukee Bucks,"54-21, 28-11 Home","40-35, 17-20 Away",107,116,NULL,NULL,Final,TNT,27,22,23,35,NULL,29,29,34,24,NULL,NBA
+78,400975898,2018,"Sun, Apr 1",Denver Nuggets,Milwaukee Bucks,"42-35, 28-10 Home","41-36, 18-21 Away",128,125,NULL,NULL,Final/OT,NULL,22,41,16,32,17,34,20,38,19,14,NBA
+79,400975924,2018,"Thu, Apr 5",Milwaukee Bucks,Brooklyn Nets,"42-37, 24-16 Home","26-53, 12-27 Away",111,119,NULL,NULL,Final,NULL,24,21,36,30,NULL,30,22,31,36,NULL,NBA
+80,400975954,2018,"Mon, Apr 9",Milwaukee Bucks,Orlando Magic,"44-37, 25-16 Home","24-57, 8-33 Away",102,86,NULL,NULL,Final,NULL,31,14,29,28,NULL,21,21,25,19,NULL,NBA
+81,400975969,2018,"Wed, Apr 11",Philadelphia 76ers,Milwaukee Bucks,"52-30, 30-11 Home","44-38, 19-22 Away",130,95,NULL,NULL,Final,ESPN,46,34,25,25,NULL,18,26,31,20,NULL,NBA

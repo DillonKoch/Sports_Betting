@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,231101009,2004,"Sat, Nov 1",Golden State Warriors,Philadelphia 76ers,"1-1, 1-1 Home","1-2, 0-2 Away",104,90,NULL,NULL,Final,NULL,25,30,24,25,NULL,27,20,22,21,NULL,NBA
+1,231105009,2004,"Wed, Nov 5",Golden State Warriors,Atlanta Hawks,"2-2, 2-1 Home","1-4, 0-3 Away",99,72,NULL,NULL,Final,NULL,29,22,27,21,NULL,21,24,19,8,NULL,NBA
+2,231110009,2004,"Mon, Nov 10",Golden State Warriors,Phoenix Suns,"3-3, 3-2 Home","3-3, 1-2 Away",96,99,NULL,NULL,Final,NULL,23,27,20,26,NULL,23,25,29,22,NULL,NBA
+3,231114009,2004,"Fri, Nov 14",Golden State Warriors,LA Clippers,"4-4, 4-3 Home","3-2, 2-1 Away",98,104,NULL,NULL,Final,NULL,19,28,27,24,NULL,27,33,27,17,NULL,NBA
+4,231118024,2004,"Tue, Nov 18",San Antonio Spurs,Golden State Warriors,"7-5, 5-2 Home","4-6, 0-3 Away",94,81,NULL,NULL,Final,NULL,25,25,20,24,NULL,24,16,21,20,NULL,NBA
+5,231121009,2004,"Fri, Nov 21",Golden State Warriors,Miami Heat,"5-7, 5-3 Home","3-10, 1-8 Away",101,91,NULL,NULL,Final,NULL,30,22,29,20,NULL,23,28,16,24,NULL,NBA
+6,231128021,2004,"Fri, Nov 28",Phoenix Suns,Golden State Warriors,"7-8, 6-4 Home","7-7, 1-4 Away",83,92,NULL,NULL,Final,NULL,20,15,26,22,NULL,26,23,21,22,NULL,NBA
+7,231203009,2004,"Wed, Dec 3",Golden State Warriors,Denver Nuggets,"8-8, 7-4 Home","12-6, 4-5 Away",109,117,NULL,NULL,Final,NULL,27,35,23,24,NULL,39,18,30,30,NULL,NBA
+8,231206009,2004,"Sat, Dec 6",Golden State Warriors,New York Knicks,"9-9, 8-4 Home","7-14, 3-9 Away",104,92,NULL,NULL,Final,NULL,20,29,34,21,NULL,24,24,25,19,NULL,NBA
+9,231210015,2004,"Wed, Dec 10",Milwaukee Bucks,Golden State Warriors,"10-12, 6-4 Home","10-10, 2-6 Away",94,89,NULL,NULL,Final/OT,NULL,27,23,19,18,7,19,31,17,20,2,NBA
+10,231216018,2004,"Tue, Dec 16",New York Knicks,Golden State Warriors,"9-17, 6-6 Home","11-11, 3-6 Away",86,104,NULL,NULL,Final,NULL,31,17,16,22,NULL,27,30,26,21,NULL,NBA
+11,231219019,2004,"Fri, Dec 19",Orlando Magic,Golden State Warriors,"6-21, 2-12 Home","12-12, 4-7 Away",119,93,NULL,NULL,Final,NULL,28,34,28,29,NULL,20,30,23,20,NULL,NBA
+12,231223009,2004,"Tue, Dec 23",Golden State Warriors,Los Angeles Lakers,"13-13, 9-5 Home","20-6, 6-5 Away",107,98,NULL,NULL,Final,NULL,23,38,19,27,NULL,31,15,22,30,NULL,NBA
+13,231228007,2004,"Sun, Dec 28",Denver Nuggets,Golden State Warriors,"19-11, 13-3 Home","14-14, 4-9 Away",103,79,NULL,NULL,Final,NULL,12,38,33,20,NULL,26,21,18,14,NULL,NBA
+14,231231017,2004,"Wed, Dec 31",New Jersey Nets,Golden State Warriors,"17-14, 9-7 Home","14-16, 4-10 Away",88,70,NULL,NULL,Final,NULL,16,27,28,17,NULL,23,18,15,14,NULL,NBA
+15,240103008,2004,"Sat, Jan 3",Detroit Pistons,Golden State Warriors,"21-13, 13-5 Home","14-18, 4-12 Away",99,93,NULL,NULL,Final,NULL,24,24,27,24,NULL,28,21,22,22,NULL,NBA
+16,240107006,2004,"Wed, Jan 7",Dallas Mavericks,Golden State Warriors,"20-14, 16-2 Home","14-20, 4-14 Away",105,99,NULL,NULL,Final,NULL,23,34,26,22,NULL,24,30,24,21,NULL,NBA
+17,240112009,2004,"Mon, Jan 12",Golden State Warriors,Memphis Grizzlies,"15-21, 11-7 Home","19-18, 8-13 Away",113,115,NULL,NULL,Final/2OT,NULL,25,22,34,13,19,28,21,24,21,21,NBA
+18,240115009,2004,"Thu, Jan 15",Golden State Warriors,Cleveland Cavaliers,"16-22, 12-7 Home","12-27, 3-19 Away",119,102,NULL,NULL,Final,NULL,31,29,21,38,NULL,29,26,19,28,NULL,NBA
+19,240119009,2004,"Mon, Jan 19",Golden State Warriors,Utah Jazz,"17-23, 13-7 Home","21-19, 4-15 Away",101,85,NULL,NULL,Final,NULL,26,16,29,30,NULL,19,18,26,22,NULL,NBA
+20,240122025,2004,"Thu, Jan 22",Seattle SuperSonics,Golden State Warriors,"21-20, 12-9 Home","17-25, 4-18 Away",103,87,NULL,NULL,Final,NULL,29,22,23,29,NULL,14,21,20,32,NULL,NBA
+21,240128009,2004,"Wed, Jan 28",Golden State Warriors,Minnesota Timberwolves,"19-25, 14-7 Home","31-13, 16-8 Away",97,90,NULL,NULL,Final,NULL,23,22,21,31,NULL,18,24,28,20,NULL,NBA
+22,240202029,2004,"Mon, Feb 2",Memphis Grizzlies,Golden State Warriors,"26-21, 17-7 Home","20-26, 5-19 Away",106,101,NULL,NULL,Final,NULL,26,35,17,28,NULL,29,27,26,19,NULL,NBA
+23,240206009,2004,"Fri, Feb 6",Golden State Warriors,Denver Nuggets,"21-27, 16-7 Home","29-22, 10-14 Away",96,87,NULL,NULL,Final,NULL,23,16,24,33,NULL,12,22,26,27,NULL,NBA
+24,240210025,2004,"Tue, Feb 10",Seattle SuperSonics,Golden State Warriors,"24-27, 14-13 Home","22-28, 6-20 Away",97,106,NULL,NULL,Final,NULL,23,22,26,26,NULL,27,16,36,27,NULL,NBA
+25,240218009,2004,"Wed, Feb 18",Golden State Warriors,Los Angeles Lakers,"23-29, 17-9 Home","33-19, 12-15 Away",99,100,NULL,NULL,Final,NULL,25,26,25,23,NULL,24,28,28,20,NULL,NBA
+26,240221009,2004,"Sat, Feb 21",Golden State Warriors,Seattle SuperSonics,"24-30, 18-10 Home","25-29, 10-15 Away",94,92,NULL,NULL,Final,NULL,22,22,21,29,NULL,23,23,20,26,NULL,NBA
+27,240225029,2004,"Wed, Feb 25",Memphis Grizzlies,Golden State Warriors,"34-23, 22-8 Home","25-31, 7-21 Away",92,99,NULL,NULL,Final,NULL,21,27,21,23,NULL,30,16,25,28,NULL,NBA
+28,240228004,2004,"Sat, Feb 28",Chicago Bulls,Golden State Warriors,"17-42, 11-20 Home","25-33, 7-23 Away",87,81,NULL,NULL,Final/OT,NULL,26,15,20,16,10,17,17,21,22,4,NBA
+29,240305009,2004,"Fri, Mar 5",Golden State Warriors,New Jersey Nets,"25-35, 18-12 Home","38-23, 17-14 Away",74,78,NULL,NULL,Final,NULL,18,21,19,16,NULL,13,17,28,20,NULL,NBA
+30,240309023,2004,"Tue, Mar 9",Sacramento Kings,Golden State Warriors,"47-16, 28-5 Home","25-37, 7-24 Away",96,92,NULL,NULL,Final,NULL,23,22,23,28,NULL,22,22,18,30,NULL,NBA
+31,240312024,2004,"Fri, Mar 12",San Antonio Spurs,Golden State Warriors,"44-22, 24-8 Home","25-39, 7-26 Away",99,74,NULL,NULL,Final,NULL,17,31,21,30,NULL,13,21,25,15,NULL,NBA
+32,240315009,2004,"Mon, Mar 15",Golden State Warriors,San Antonio Spurs,"26-40, 19-13 Home","44-24, 20-16 Away",97,80,NULL,NULL,Final,NULL,22,23,23,29,NULL,13,20,23,24,NULL,NBA
+33,240319009,2004,"Fri, Mar 19",Golden State Warriors,Houston Rockets,"28-40, 21-13 Home","39-28, 14-17 Away",90,84,NULL,NULL,Final,NULL,20,21,12,37,NULL,19,18,17,30,NULL,NBA
+34,240324009,2004,"Wed, Mar 24",Golden State Warriors,Milwaukee Bucks,"30-40, 22-13 Home","35-36, 11-25 Away",98,89,NULL,NULL,Final,NULL,26,21,25,26,NULL,18,20,28,23,NULL,NBA
+35,240328009,2004,"Sun, Mar 28",Golden State Warriors,LA Clippers,"32-40, 24-13 Home","27-48, 9-29 Away",105,77,NULL,NULL,Final,NULL,31,23,24,27,NULL,22,20,19,16,NULL,NBA
+36,240331028,2004,"Wed, Mar 31",Toronto Raptors,Golden State Warriors,"30-44, 17-20 Home","33-41, 9-28 Away",78,85,NULL,NULL,Final,NULL,23,14,18,23,NULL,23,22,16,24,NULL,NBA
+37,240403005,2004,"Sat, Apr 3",Cleveland Cavaliers,Golden State Warriors,"32-44, 21-17 Home","34-42, 10-29 Away",100,103,NULL,NULL,Final,NULL,22,26,21,31,NULL,29,27,18,29,NULL,NBA
+38,240407022,2004,"Wed, Apr 7",Portland Trail Blazers,Golden State Warriors,"41-37, 25-14 Home","35-43, 10-30 Away",87,81,NULL,NULL,Final,NULL,18,26,20,23,NULL,18,14,27,22,NULL,NBA
+39,240411009,2004,"Sun, Apr 11",Golden State Warriors,Dallas Mavericks,"36-44, 26-14 Home","50-30, 15-25 Away",108,107,NULL,NULL,Final,NULL,28,21,30,29,NULL,33,23,30,21,NULL,NBA
+40,231029009,2004,"Wed, Oct 29",Golden State Warriors,Dallas Mavericks,"0-1, 0-1 Home","1-1, 1-1 Away",87,95,NULL,NULL,Final,NULL,14,33,17,23,NULL,22,27,17,29,NULL,NBA
+41,231102013,2004,"Sun, Nov 2",Los Angeles Lakers,Golden State Warriors,"3-0, 2-0 Home","1-2, 0-1 Away",87,72,NULL,NULL,Final,NULL,24,19,25,19,NULL,19,13,23,17,NULL,NBA
+42,231107009,2004,"Fri, Nov 7",Golden State Warriors,Utah Jazz,"3-2, 3-1 Home","3-2, 0-2 Away",95,89,NULL,NULL,Final,NULL,34,20,20,21,NULL,13,18,31,27,NULL,NBA
+43,231112009,2004,"Wed, Nov 12",Golden State Warriors,Detroit Pistons,"4-3, 4-2 Home","5-3, 2-2 Away",87,85,NULL,NULL,Final/OT,NULL,24,18,20,16,9,23,23,22,10,7,NBA
+44,231116023,2004,"Sun, Nov 16",Sacramento Kings,Golden State Warriors,"6-4, 5-0 Home","4-5, 0-2 Away",106,104,NULL,NULL,Final,NULL,26,25,25,30,NULL,21,38,16,29,NULL,NBA
+45,231119010,2004,"Wed, Nov 19",Houston Rockets,Golden State Warriors,"8-3, 5-1 Home","4-7, 0-4 Away",85,83,NULL,NULL,Final,NULL,19,25,20,21,NULL,16,24,25,18,NULL,NBA
+46,231123009,2004,"Sun, Nov 23",Golden State Warriors,Portland Trail Blazers,"6-7, 6-3 Home","7-6, 0-5 Away",78,72,NULL,NULL,Final,NULL,24,15,20,19,NULL,21,20,16,15,NULL,NBA
+47,231129009,2004,"Sat, Nov 29",Golden State Warriors,San Antonio Spurs,"8-7, 7-3 Home","9-8, 2-6 Away",91,89,NULL,NULL,Final,NULL,17,29,22,23,NULL,20,21,26,22,NULL,NBA
+48,231205007,2004,"Fri, Dec 5",Denver Nuggets,Golden State Warriors,"13-6, 9-1 Home","8-9, 1-5 Away",98,91,NULL,NULL,Final,NULL,28,22,21,27,NULL,18,17,30,26,NULL,NBA
+49,231209016,2004,"Tue, Dec 9",Minnesota Timberwolves,Golden State Warriors,"12-9, 4-5 Home","10-9, 2-5 Away",95,98,NULL,NULL,Final,NULL,28,22,31,14,NULL,32,25,23,18,NULL,NBA
+50,231212009,2004,"Fri, Dec 12",Golden State Warriors,New Orleans Hornets,"10-11, 8-5 Home","17-7, 9-4 Away",85,96,NULL,NULL,Final,NULL,22,22,20,21,NULL,24,20,26,26,NULL,NBA
+51,231217001,2004,"Wed, Dec 17",Atlanta Hawks,Golden State Warriors,"7-20, 4-8 Home","12-11, 4-6 Away",85,98,NULL,NULL,Final,NULL,26,19,17,23,NULL,20,29,31,18,NULL,NBA
+52,231221014,2004,"Sun, Dec 21",Miami Heat,Golden State Warriors,"10-17, 8-4 Home","12-13, 4-8 Away",104,93,NULL,NULL,Final,NULL,29,25,30,20,NULL,22,26,24,21,NULL,NBA
+53,231226009,2004,"Fri, Dec 26",Golden State Warriors,Sacramento Kings,"14-13, 10-5 Home","20-8, 5-6 Away",98,91,NULL,NULL,Final,NULL,32,24,28,14,NULL,30,25,18,18,NULL,NBA
+54,231229009,2004,"Mon, Dec 29",Golden State Warriors,Boston Celtics,"14-15, 10-6 Home","16-16, 8-8 Away",91,100,NULL,NULL,Final,NULL,29,22,16,24,NULL,30,28,25,17,NULL,NBA
+55,240102027,2004,"Fri, Jan 2",Washington Wizards,Golden State Warriors,"9-21, 5-8 Home","14-17, 4-11 Away",97,79,NULL,NULL,Final,NULL,22,21,29,25,NULL,20,24,18,17,NULL,NBA
+56,240105010,2004,"Mon, Jan 5",Houston Rockets,Golden State Warriors,"19-14, 12-4 Home","14-19, 4-13 Away",83,65,NULL,NULL,Final,NULL,16,26,24,17,NULL,14,18,21,12,NULL,NBA
+57,240110009,2004,"Sat, Jan 10",Golden State Warriors,Seattle SuperSonics,"15-20, 11-6 Home","19-16, 8-8 Away",113,110,NULL,NULL,Final/OT,NULL,22,28,20,29,14,25,24,25,25,11,NBA
+58,240113026,2004,"Tue, Jan 13",Utah Jazz,Golden State Warriors,"20-17, 16-3 Home","15-22, 4-15 Away",97,80,NULL,NULL,Final,NULL,23,29,24,21,NULL,10,35,21,14,NULL,NBA
+59,240116021,2004,"Fri, Jan 16",Phoenix Suns,Golden State Warriors,"14-26, 10-10 Home","16-23, 4-16 Away",104,93,NULL,NULL,Final,NULL,30,32,22,20,NULL,24,20,28,21,NULL,NBA
+60,240121012,2004,"Wed, Jan 21",LA Clippers,Golden State Warriors,"17-22, 13-11 Home","17-24, 4-17 Away",106,102,NULL,NULL,Final,NULL,30,24,28,24,NULL,36,29,20,17,NULL,NBA
+61,240124022,2004,"Sat, Jan 24",Portland Trail Blazers,Golden State Warriors,"17-24, 14-8 Home","18-25, 5-18 Away",87,105,NULL,NULL,Final,NULL,21,31,20,15,NULL,30,28,18,29,NULL,NBA
+62,240130009,2004,"Fri, Jan 30",Golden State Warriors,Chicago Bulls,"20-25, 15-7 Home","13-34, 5-18 Away",101,81,NULL,NULL,Final,NULL,24,29,28,20,NULL,16,18,24,23,NULL,NBA
+63,240203006,2004,"Tue, Feb 3",Dallas Mavericks,Golden State Warriors,"30-18, 21-4 Home","20-27, 5-20 Away",107,93,NULL,NULL,Final,NULL,17,32,29,29,NULL,24,22,20,27,NULL,NBA
+64,240208009,2004,"Sun, Feb 8",Golden State Warriors,Toronto Raptors,"21-28, 16-8 Home","24-25, 10-15 Away",81,84,NULL,NULL,Final/OT,NULL,17,29,27,2,6,23,16,18,18,9,NBA
+65,240211009,2004,"Wed, Feb 11",Golden State Warriors,Phoenix Suns,"23-28, 17-8 Home","18-37, 6-22 Away",110,99,NULL,NULL,Final,NULL,32,26,25,27,NULL,14,25,31,29,NULL,NBA
+66,240220009,2004,"Fri, Feb 20",Golden State Warriors,Portland Trail Blazers,"23-30, 17-10 Home","26-28, 9-18 Away",93,94,NULL,NULL,Final,NULL,21,24,30,18,NULL,25,25,26,18,NULL,NBA
+67,240224011,2004,"Tue, Feb 24",Indiana Pacers,Golden State Warriors,"42-15, 23-6 Home","24-31, 6-21 Away",107,96,NULL,NULL,Final,NULL,23,29,28,27,NULL,25,26,23,22,NULL,NBA
+68,240227016,2004,"Fri, Feb 27",Minnesota Timberwolves,Golden State Warriors,"43-16, 23-7 Home","25-32, 7-22 Away",91,81,NULL,NULL,Final,NULL,27,15,26,23,NULL,25,20,17,19,NULL,NBA
+69,240302009,2004,"Tue, Mar 2",Golden State Warriors,Indiana Pacers,"25-34, 18-11 Home","44-16, 20-10 Away",88,96,NULL,NULL,Final,NULL,17,19,27,25,NULL,28,24,19,25,NULL,NBA
+70,240307009,2004,"Sun, Mar 7",Golden State Warriors,Memphis Grizzlies,"25-36, 18-13 Home","39-24, 16-16 Away",85,95,NULL,NULL,Final,NULL,29,25,15,16,NULL,26,20,32,17,NULL,NBA
+71,240310026,2004,"Wed, Mar 10",Utah Jazz,Golden State Warriors,"33-32, 23-11 Home","25-38, 7-25 Away",91,77,NULL,NULL,Final,NULL,25,31,19,16,NULL,14,16,26,21,NULL,NBA
+72,240313003,2004,"Sat, Mar 13",New Orleans Hornets,Golden State Warriors,"35-31, 22-12 Home","25-40, 7-27 Away",102,84,NULL,NULL,Final,NULL,35,23,22,22,NULL,22,26,18,18,NULL,NBA
+73,240317009,2004,"Wed, Mar 17",Golden State Warriors,Orlando Magic,"27-40, 20-13 Home","19-51, 9-27 Away",110,85,NULL,NULL,Final,NULL,29,31,16,34,NULL,25,24,16,20,NULL,NBA
+74,240321012,2004,"Sun, Mar 21",LA Clippers,Golden State Warriors,"27-43, 18-17 Home","29-40, 8-27 Away",85,96,NULL,NULL,Final,NULL,14,28,16,27,NULL,27,29,19,21,NULL,NBA
+75,240326009,2004,"Fri, Mar 26",Golden State Warriors,Washington Wizards,"31-40, 23-13 Home","23-49, 7-28 Away",99,78,NULL,NULL,Final,NULL,27,30,17,25,NULL,19,21,15,23,NULL,NBA
+76,240330020,2004,"Tue, Mar 30",Philadelphia 76ers,Golden State Warriors,"32-43, 21-16 Home","32-41, 8-28 Away",95,71,NULL,NULL,Final,CSN,18,24,30,23,NULL,18,22,6,25,NULL,NBA
+77,240402002,2004,"Fri, Apr 2",Boston Celtics,Golden State Warriors,"35-41, 18-21 Home","33-42, 9-29 Away",111,106,NULL,NULL,Final,NULL,31,31,22,27,NULL,19,29,34,24,NULL,NBA
+78,240406009,2004,"Tue, Apr 6",Golden State Warriors,Houston Rockets,"35-42, 25-13 Home","42-35, 16-22 Away",97,90,NULL,NULL,Final,NULL,27,32,22,16,NULL,22,22,24,22,NULL,NBA
+79,240409009,2004,"Fri, Apr 9",Golden State Warriors,Minnesota Timberwolves,"35-44, 25-14 Home","56-24, 26-14 Away",74,92,NULL,NULL,Final,NULL,18,32,11,13,NULL,28,21,16,27,NULL,NBA
+80,240413013,2004,"Tue, Apr 13",Los Angeles Lakers,Golden State Warriors,"55-26, 34-7 Home","36-45, 10-31 Away",109,104,NULL,NULL,Final,NULL,27,22,24,36,NULL,29,30,19,26,NULL,NBA
+81,240414009,2004,"Wed, Apr 14",Golden State Warriors,Sacramento Kings,"37-45, 27-14 Home","55-27, 21-20 Away",97,91,NULL,NULL,Final,NULL,14,32,26,25,NULL,21,18,27,25,NULL,NBA

@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,261103011,2007,"Fri, Nov 3",Indiana Pacers,NO/Oklahoma City Hornets,"1-1, 0-1 Home","2-0, 2-0 Away",91,100,NULL,NULL,Final,NULL,20,20,32,19,NULL,26,22,21,31,NULL,NBA
+1,261107011,2007,"Tue, Nov 7",Indiana Pacers,Philadelphia 76ers,"3-1, 1-1 Home","3-1, 1-1 Away",97,86,NULL,NULL,Final,CSN,20,31,29,17,NULL,23,13,19,31,NULL,NBA
+2,261110011,2007,"Fri, Nov 10",Indiana Pacers,Orlando Magic,"4-2, 2-1 Home","3-3, 0-2 Away",93,83,NULL,NULL,Final,NULL,27,20,23,23,NULL,32,18,13,20,NULL,NBA
+3,261115002,2007,"Wed, Nov 15",Boston Celtics,Indiana Pacers,"2-6, 2-4 Home","4-4, 2-3 Away",114,88,NULL,NULL,Final,NULL,25,22,33,34,NULL,24,21,21,22,NULL,NBA
+4,261118015,2007,"Sat, Nov 18",Milwaukee Bucks,Indiana Pacers,"3-7, 1-3 Home","5-5, 3-3 Away",100,102,NULL,NULL,Final,NULL,27,23,21,29,NULL,15,20,32,35,NULL,NBA
+5,261122019,2007,"Wed, Nov 22",Orlando Magic,Indiana Pacers,"8-4, 6-1 Home","6-6, 3-4 Away",96,91,NULL,NULL,Final,NULL,22,23,27,24,NULL,27,24,17,23,NULL,NBA
+6,261126028,2007,"Sun, Nov 26",Toronto Raptors,Indiana Pacers,"4-9, 4-2 Home","7-7, 3-5 Away",92,83,NULL,NULL,Final,NBATV,32,20,18,22,NULL,17,19,25,22,NULL,NBA
+7,261129009,2007,"Wed, Nov 29",Golden State Warriors,Indiana Pacers,"9-7, 8-4 Home","9-7, 5-5 Away",106,108,NULL,NULL,Final,NULL,29,27,25,25,NULL,27,28,26,27,NULL,NBA
+8,261202007,2007,"Sat, Dec 2",Denver Nuggets,Indiana Pacers,"10-5, 5-3 Home","9-9, 5-7 Away",121,101,NULL,NULL,Final,NULL,29,36,34,22,NULL,26,29,26,20,NULL,NBA
+9,261206011,2007,"Wed, Dec 6",Indiana Pacers,Orlando Magic,"10-10, 5-2 Home","14-6, 7-5 Away",94,80,NULL,NULL,Final,NULL,28,24,24,18,NULL,27,15,17,21,NULL,NBA
+10,261209005,2007,"Sat, Dec 9",Cleveland Cavaliers,Indiana Pacers,"12-7, 9-2 Home","11-11, 5-9 Away",107,75,NULL,NULL,Final,NULL,31,25,28,23,NULL,16,26,13,20,NULL,NBA
+11,261213011,2007,"Wed, Dec 13",Indiana Pacers,Detroit Pistons,"12-12, 7-2 Home","13-8, 7-5 Away",101,90,NULL,NULL,Final,NULL,28,26,22,25,NULL,25,24,22,19,NULL,NBA
+12,261217011,2007,"Sun, Dec 17",Indiana Pacers,Utah Jazz,"13-13, 8-3 Home","18-6, 7-4 Away",94,104,NULL,NULL,Final,NULL,23,24,24,23,NULL,29,24,30,21,NULL,NBA
+13,261222001,2007,"Fri, Dec 22",Atlanta Hawks,Indiana Pacers,"9-16, 4-8 Home","15-13, 7-10 Away",90,100,NULL,NULL,Final,NULL,21,26,22,21,NULL,27,25,28,20,NULL,NBA
+14,261226011,2007,"Tue, Dec 26",Indiana Pacers,Houston Rockets,"16-14, 9-4 Home","16-12, 8-9 Away",81,76,NULL,NULL,Final,NBATV,22,19,21,19,NULL,24,15,19,18,NULL,NBA
+15,261230011,2007,"Sat, Dec 30",Indiana Pacers,Charlotte Bobcats,"17-15, 9-5 Home","9-21, 3-11 Away",102,113,NULL,NULL,Final,NULL,25,25,27,25,NULL,29,25,25,34,NULL,NBA
+16,270106003,2007,"Sat, Jan 6",NO/Oklahoma City Hornets,Indiana Pacers,"12-21, 7-9 Home","18-16, 9-11 Away",93,100,NULL,NULL,Final,NULL,18,28,24,23,NULL,23,27,21,29,NULL,NBA
+17,270110002,2007,"Wed, Jan 10",Boston Celtics,Indiana Pacers,"12-22, 4-12 Home","20-16, 10-11 Away",84,97,NULL,NULL,Final,NULL,27,25,14,18,NULL,22,30,28,17,NULL,NBA
+18,270115017,2007,"Mon, Jan 15",New Jersey Nets,Indiana Pacers,"17-20, 12-10 Home","20-18, 10-12 Away",105,95,NULL,NULL,Final,NULL,35,28,25,17,NULL,24,18,21,32,NULL,NBA
+19,270120011,2007,"Sat, Jan 20",Indiana Pacers,New York Knicks,"20-20, 10-7 Home","18-24, 8-12 Away",106,108,NULL,NULL,Final,NBATV,22,23,32,29,NULL,23,29,27,29,NULL,NBA
+20,270124011,2007,"Wed, Jan 24",Indiana Pacers,Miami Heat,"22-20, 12-7 Home","19-23, 9-13 Away",96,94,NULL,NULL,Final/OT,NULL,21,13,23,30,9,26,15,29,17,7,NBA
+21,270128008,2007,"Sun, Jan 28",Detroit Pistons,Indiana Pacers,"25-17, 12-9 Home","23-21, 10-14 Away",95,87,NULL,NULL,Final,ESPN,27,20,27,21,NULL,12,31,22,22,NULL,NBA
+22,270202011,2007,"Fri, Feb 2",Indiana Pacers,Los Angeles Lakers,"25-21, 15-7 Home","28-19, 9-13 Away",95,84,NULL,NULL,Final,NULL,26,18,19,32,NULL,18,23,29,14,NULL,NBA
+23,270205011,2007,"Mon, Feb 5",Indiana Pacers,Golden State Warriors,"26-22, 15-8 Home","23-26, 6-18 Away",98,113,NULL,NULL,Final,NULL,18,24,30,26,NULL,34,31,26,22,NULL,NBA
+24,270209011,2007,"Fri, Feb 9",Indiana Pacers,Denver Nuggets,"26-24, 15-10 Home","24-24, 11-10 Away",95,102,NULL,NULL,Final,NULL,16,24,23,32,NULL,20,20,36,26,NULL,NBA
+25,270214011,2007,"Wed, Feb 14",Indiana Pacers,Memphis Grizzlies,"28-24, 17-10 Home","14-40, 3-23 Away",114,104,NULL,NULL,Final,NULL,26,25,36,27,NULL,33,23,27,21,NULL,NBA
+26,270223028,2007,"Fri, Feb 23",Toronto Raptors,Indiana Pacers,"30-25, 20-8 Home","29-25, 11-15 Away",110,88,NULL,NULL,Final,NULL,22,40,29,19,NULL,17,29,18,24,NULL,NBA
+27,270227011,2007,"Tue, Feb 27",Indiana Pacers,Phoenix Suns,"29-27, 18-12 Home","44-13, 23-7 Away",92,103,NULL,NULL,Final,NBATV,19,31,29,13,NULL,19,30,24,30,NULL,NBA
+28,270303012,2007,"Sat, Mar 3",LA Clippers,Indiana Pacers,"29-30, 21-10 Home","29-29, 11-17 Away",87,64,NULL,NULL,Final,NULL,20,23,20,24,NULL,17,13,16,18,NULL,NBA
+29,270307026,2007,"Wed, Mar 7",Utah Jazz,Indiana Pacers,"42-19, 24-7 Home","29-31, 11-19 Away",94,72,NULL,NULL,Final,NULL,24,26,17,27,NULL,22,15,24,11,NULL,NBA
+30,270311005,2007,"Sun, Mar 11",Cleveland Cavaliers,Indiana Pacers,"38-25, 24-8 Home","29-33, 11-20 Away",99,88,NULL,NULL,Final,NULL,31,24,27,17,NULL,18,19,24,27,NULL,NBA
+31,270314011,2007,"Wed, Mar 14",Indiana Pacers,Washington Wizards,"29-35, 18-14 Home","35-28, 11-19 Away",96,112,NULL,NULL,Final,NULL,24,22,28,22,NULL,23,26,35,28,NULL,NBA
+32,270320010,2007,"Tue, Mar 20",Houston Rockets,Indiana Pacers,"43-25, 24-10 Home","30-36, 11-22 Away",86,76,NULL,NULL,Final,TNT,18,21,22,25,NULL,16,21,22,17,NULL,NBA
+33,270323011,2007,"Fri, Mar 23",Indiana Pacers,Miami Heat,"31-37, 20-14 Home","37-31, 14-20 Away",95,70,NULL,NULL,Final,NULL,33,19,20,23,NULL,9,23,17,21,NULL,NBA
+34,270327011,2007,"Tue, Mar 27",Indiana Pacers,Cleveland Cavaliers,"31-39, 20-16 Home","43-28, 16-18 Away",94,105,NULL,NULL,Final,NBATV,22,23,27,22,NULL,25,27,23,30,NULL,NBA
+35,270330019,2007,"Fri, Mar 30",Orlando Magic,Indiana Pacers,"34-39, 22-14 Home","31-41, 11-25 Away",95,87,NULL,NULL,Final,ESPN,26,25,16,28,NULL,27,14,15,31,NULL,NBA
+36,270403011,2007,"Tue, Apr 3",Indiana Pacers,Detroit Pistons,"32-42, 21-17 Home","48-26, 25-13 Away",85,100,NULL,NULL,Final,NBATV,26,20,18,21,NULL,21,22,35,22,NULL,NBA
+37,270407011,2007,"Sat, Apr 7",Indiana Pacers,Boston Celtics,"34-42, 22-17 Home","23-53, 11-27 Away",105,98,NULL,NULL,Final,NULL,26,25,27,27,NULL,15,28,24,31,NULL,NBA
+38,270411015,2007,"Wed, Apr 11",Milwaukee Bucks,Indiana Pacers,"26-52, 17-22 Home","35-43, 13-26 Away",98,104,NULL,NULL,Final,NULL,22,22,26,28,NULL,26,27,27,24,NULL,NBA
+39,270415011,2007,"Sun, Apr 15",Indiana Pacers,New Jersey Nets,"35-45, 22-18 Home","39-41, 16-24 Away",107,111,NULL,NULL,Final,NULL,22,34,24,27,NULL,28,26,26,31,NULL,NBA
+40,261101030,2007,"Wed, Nov 1",Charlotte Bobcats,Indiana Pacers,"0-1, 0-1 Home","1-0, 1-0 Away",99,106,NULL,NULL,Final,NULL,27,23,23,26,NULL,23,26,28,29,NULL,NBA
+41,261104018,2007,"Sat, Nov 4",New York Knicks,Indiana Pacers,"1-2, 0-1 Home","2-1, 2-0 Away",95,109,NULL,NULL,Final,NULL,14,26,36,19,NULL,22,23,32,32,NULL,NBA
+42,261108027,2007,"Wed, Nov 8",Washington Wizards,Indiana Pacers,"2-2, 2-0 Home","3-2, 2-1 Away",117,91,NULL,NULL,Final,NULL,33,29,37,18,NULL,26,21,21,23,NULL,NBA
+43,261111004,2007,"Sat, Nov 11",Chicago Bulls,Indiana Pacers,"3-3, 2-1 Home","4-3, 2-2 Away",89,80,NULL,NULL,Final,NBATV,24,19,16,30,NULL,25,23,18,14,NULL,NBA
+44,261117011,2007,"Fri, Nov 17",Indiana Pacers,New Jersey Nets,"4-5, 2-2 Home","5-3, 2-1 Away",91,100,NULL,NULL,Final,NULL,18,23,29,21,NULL,26,25,20,29,NULL,NBA
+45,261121011,2007,"Tue, Nov 21",Indiana Pacers,Milwaukee Bucks,"6-5, 3-2 Home","3-8, 2-5 Away",93,88,NULL,NULL,Final,NULL,23,25,20,25,NULL,25,24,22,17,NULL,NBA
+46,261124011,2007,"Fri, Nov 24",Indiana Pacers,Cleveland Cavaliers,"7-6, 4-2 Home","8-5, 2-4 Away",97,87,NULL,NULL,Final,NULL,12,32,25,28,NULL,27,29,9,22,NULL,NBA
+47,261128022,2007,"Tue, Nov 28",Portland Trail Blazers,Indiana Pacers,"6-10, 4-4 Home","8-7, 4-5 Away",97,105,NULL,NULL,Final,NULL,24,22,29,22,NULL,21,30,24,30,NULL,NBA
+48,261201025,2007,"Fri, Dec 1",Seattle SuperSonics,Indiana Pacers,"7-10, 3-6 Home","9-8, 5-6 Away",105,103,NULL,NULL,Final,NULL,27,35,22,21,NULL,28,30,22,23,NULL,NBA
+49,261204013,2007,"Mon, Dec 4",Los Angeles Lakers,Indiana Pacers,"12-5, 10-2 Home","9-10, 5-8 Away",101,87,NULL,NULL,Final,NULL,33,27,23,18,NULL,19,25,21,22,NULL,NBA
+50,261208011,2007,"Fri, Dec 8",Indiana Pacers,Portland Trail Blazers,"11-10, 6-2 Home","7-14, 3-8 Away",108,95,NULL,NULL,Final,NULL,22,20,35,31,NULL,24,29,14,28,NULL,NBA
+51,261211004,2007,"Mon, Dec 11",Chicago Bulls,Indiana Pacers,"11-10, 8-2 Home","11-12, 5-10 Away",106,91,NULL,NULL,Final,NULL,42,24,23,17,NULL,25,25,25,16,NULL,NBA
+52,261215011,2007,"Fri, Dec 15",Indiana Pacers,New York Knicks,"13-12, 8-2 Home","9-16, 5-7 Away",112,96,NULL,NULL,Final,NULL,22,42,28,20,NULL,24,25,19,28,NULL,NBA
+53,261220020,2007,"Wed, Dec 20",Philadelphia 76ers,Indiana Pacers,"5-19, 3-7 Home","14-13, 6-10 Away",93,101,NULL,NULL,Final,CSN,27,21,20,25,NULL,24,23,25,29,NULL,NBA
+54,261223011,2007,"Sat, Dec 23",Indiana Pacers,Minnesota Timberwolves,"15-14, 8-4 Home","11-13, 5-8 Away",71,78,NULL,NULL,Final,NULL,32,18,8,13,NULL,20,20,17,21,NULL,NBA
+55,261229008,2007,"Fri, Dec 29",Detroit Pistons,Indiana Pacers,"18-10, 9-4 Home","17-14, 8-10 Away",92,93,NULL,NULL,Final,NULL,32,15,17,28,NULL,22,26,19,26,NULL,NBA
+56,270104006,2007,"Thu, Jan 4",Dallas Mavericks,Indiana Pacers,"26-7, 16-3 Home","17-16, 8-11 Away",100,91,NULL,NULL,Final,NULL,19,26,27,28,NULL,24,23,26,18,NULL,NBA
+57,270109011,2007,"Tue, Jan 9",Indiana Pacers,Atlanta Hawks,"19-16, 10-5 Home","10-22, 5-13 Away",91,72,NULL,NULL,Final,NULL,17,21,23,30,NULL,16,17,16,23,NULL,NBA
+58,270112011,2007,"Fri, Jan 12",Indiana Pacers,Dallas Mavericks,"20-17, 10-6 Home","30-8, 13-5 Away",113,115,NULL,NULL,Final/OT,NULL,26,25,22,30,10,17,27,30,29,12,NBA
+59,270118014,2007,"Thu, Jan 18",Miami Heat,Indiana Pacers,"18-20, 9-9 Home","20-19, 10-13 Away",104,101,NULL,NULL,Final,TNT,23,32,30,19,NULL,22,27,21,31,NULL,NBA
+60,270122011,2007,"Mon, Jan 22",Indiana Pacers,Chicago Bulls,"21-20, 11-7 Home","23-19, 6-13 Away",98,91,NULL,NULL,Final,NULL,27,33,17,21,NULL,23,20,28,20,NULL,NBA
+61,270127011,2007,"Sat, Jan 27",Indiana Pacers,Toronto Raptors,"23-20, 13-7 Home","22-23, 8-16 Away",102,84,NULL,NULL,Final,NULL,18,21,30,33,NULL,23,17,21,23,NULL,NBA
+62,270130011,2007,"Tue, Jan 30",Indiana Pacers,Boston Celtics,"24-21, 14-7 Home","12-32, 8-15 Away",103,96,NULL,NULL,Final,NBATV,24,28,24,27,NULL,30,13,13,40,NULL,NBA
+63,270203029,2007,"Sat, Feb 3",Memphis Grizzlies,Indiana Pacers,"12-36, 9-16 Home","26-21, 11-14 Away",110,116,NULL,NULL,Final,NULL,28,34,27,21,NULL,31,25,35,25,NULL,NBA
+64,270207011,2007,"Wed, Feb 7",Indiana Pacers,Seattle SuperSonics,"26-23, 15-9 Home","18-31, 5-19 Away",102,103,NULL,NULL,Final,NULL,23,25,31,23,NULL,25,26,21,31,NULL,NBA
+65,270211011,2007,"Sun, Feb 11",Indiana Pacers,LA Clippers,"27-24, 16-10 Home","25-26, 8-18 Away",94,80,NULL,NULL,Final,NULL,20,32,25,17,NULL,17,15,30,18,NULL,NBA
+66,270221011,2007,"Wed, Feb 21",Indiana Pacers,Milwaukee Bucks,"29-24, 18-10 Home","19-36, 8-24 Away",136,129,NULL,NULL,Final/2OT,NULL,39,24,29,22,22,24,36,26,28,15,NBA
+67,270225011,2007,"Sun, Feb 25",Indiana Pacers,Sacramento Kings,"29-26, 18-11 Home","24-31, 8-19 Away",93,110,NULL,NULL,Final,ESPN,27,23,24,19,NULL,24,23,40,23,NULL,NBA
+68,270302021,2007,"Fri, Mar 2",Phoenix Suns,Indiana Pacers,"45-14, 22-6 Home","29-28, 11-16 Away",115,90,NULL,NULL,Final,NULL,30,32,27,26,NULL,28,21,25,16,NULL,NBA
+69,270306023,2007,"Tue, Mar 6",Sacramento Kings,Indiana Pacers,"28-32, 18-12 Home","29-30, 11-18 Away",102,98,NULL,NULL,Final,NULL,30,27,24,21,NULL,22,20,32,24,NULL,NBA
+70,270310011,2007,"Sat, Mar 10",Indiana Pacers,Philadelphia 76ers,"29-32, 18-13 Home","25-38, 9-23 Away",96,100,NULL,NULL,Final,CSN,24,28,19,25,NULL,30,19,25,26,NULL,NBA
+71,270313016,2007,"Tue, Mar 13",Minnesota Timberwolves,Indiana Pacers,"28-35, 19-13 Home","29-34, 11-21 Away",86,81,NULL,NULL,Final,NULL,19,16,23,28,NULL,20,22,25,14,NULL,NBA
+72,270317011,2007,"Sat, Mar 17",Indiana Pacers,Atlanta Hawks,"30-35, 19-14 Home","26-41, 12-23 Away",113,90,NULL,NULL,Final,NULL,36,32,16,29,NULL,23,21,21,25,NULL,NBA
+73,270321024,2007,"Wed, Mar 21",San Antonio Spurs,Indiana Pacers,"47-20, 23-9 Home","30-37, 11-23 Away",90,72,NULL,NULL,Final,NULL,17,25,28,20,NULL,22,15,13,22,NULL,NBA
+74,270325011,2007,"Sun, Mar 25",Indiana Pacers,Chicago Bulls,"31-38, 20-15 Home","41-30, 15-21 Away",90,92,NULL,NULL,Final,NULL,29,23,19,19,NULL,28,22,20,22,NULL,NBA
+75,270328017,2007,"Wed, Mar 28",New Jersey Nets,Indiana Pacers,"33-38, 19-17 Home","31-40, 11-24 Away",118,94,NULL,NULL,Final,NULL,32,28,31,27,NULL,21,22,23,28,NULL,NBA
+76,270401011,2007,"Sun, Apr 1",Indiana Pacers,San Antonio Spurs,"32-41, 21-16 Home","52-21, 26-12 Away",100,99,NULL,NULL,Final,NULL,26,27,24,23,NULL,32,22,22,23,NULL,NBA
+77,270406030,2007,"Fri, Apr 6",Charlotte Bobcats,Indiana Pacers,"30-47, 19-20 Home","33-42, 12-25 Away",102,112,NULL,NULL,Final,NULL,23,32,22,25,NULL,25,26,30,31,NULL,NBA
+78,270410020,2007,"Tue, Apr 10",Philadelphia 76ers,Indiana Pacers,"32-45, 21-18 Home","34-43, 12-26 Away",90,86,NULL,NULL,Final,CSN,26,19,24,21,NULL,17,22,19,28,NULL,NBA
+79,270413014,2007,"Fri, Apr 13",Miami Heat,Indiana Pacers,"44-36, 27-13 Home","35-44, 13-27 Away",100,96,NULL,NULL,Final,ESPN,26,27,18,29,NULL,16,30,28,22,NULL,NBA
+80,270417001,2007,"Tue, Apr 17",Atlanta Hawks,Indiana Pacers,"30-52, 18-23 Home","35-46, 13-28 Away",118,102,NULL,NULL,Final,NULL,41,35,14,28,NULL,23,32,25,22,NULL,NBA
+81,270418011,2007,"Wed, Apr 18",Indiana Pacers,Washington Wizards,"35-47, 22-19 Home","41-41, 15-26 Away",95,98,NULL,NULL,Final,NULL,18,35,20,22,NULL,25,33,18,22,NULL,NBA

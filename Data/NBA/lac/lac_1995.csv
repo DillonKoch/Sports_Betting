@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,141105022,1995,"Sat, Nov 5",Portland Trail Blazers,Los Angeles Clippers,"2-0, 1-0 Home","0-2, 0-1 Away",112,95,NULL,NULL,Final,NULL,32,25,37,18,NULL,29,20,19,27,NULL,NBA
+1,141112012,1995,"Sat, Nov 12",Los Angeles Clippers,Phoenix Suns,"0-4, 0-3 Home","3-2, 1-2 Away",101,108,NULL,NULL,Final,NULL,13,28,29,31,NULL,20,28,37,23,NULL,NBA
+2,141115012,1995,"Tue, Nov 15",Los Angeles Clippers,Los Angeles Lakers,"0-6, 0-4 Home","3-4, 3-3 Away",92,102,NULL,NULL,Final,NULL,27,31,22,12,NULL,26,25,20,31,NULL,NBA
+3,141118020,1995,"Fri, Nov 18",Philadelphia 76ers,Los Angeles Clippers,"3-6, 3-3 Home","0-8, 0-4 Away",97,83,NULL,NULL,Final,NULL,34,19,22,22,NULL,12,23,26,22,NULL,NBA
+4,141122012,1995,"Tue, Nov 22",Los Angeles Clippers,Chicago Bulls,"0-10, 0-5 Home","6-4, 4-2 Away",93,105,NULL,NULL,Final,NULL,23,32,27,11,NULL,30,28,20,27,NULL,NBA
+5,141125012,1995,"Fri, Nov 25",Los Angeles Clippers,New Jersey Nets,"0-12, 0-6 Home","6-7, 2-6 Away",102,107,NULL,NULL,Final,NULL,26,23,21,32,NULL,33,27,25,22,NULL,NBA
+6,141201012,1995,"Thu, Dec 1",Los Angeles Clippers,Indiana Pacers,"0-14, 0-7 Home","8-5, 4-4 Away",84,93,NULL,NULL,Final,NULL,30,14,20,20,NULL,26,25,18,24,NULL,NBA
+7,141205012,1995,"Mon, Dec 5",Los Angeles Clippers,Charlotte Hornets,"0-16, 0-9 Home","8-7, 4-4 Away",83,115,NULL,NULL,Final,NULL,22,18,18,25,NULL,37,16,30,32,NULL,NBA
+8,141209013,1995,"Fri, Dec 9",Los Angeles Lakers,Los Angeles Clippers,"10-7, 4-3 Home","2-16, 1-7 Away",84,109,NULL,NULL,Final,NULL,16,19,33,16,NULL,30,33,21,25,NULL,NBA
+9,141214022,1995,"Wed, Dec 14",Portland Trail Blazers,Los Angeles Clippers,"10-8, 7-4 Home","2-18, 1-8 Away",121,73,NULL,NULL,Final,NULL,30,20,34,37,NULL,10,16,18,29,NULL,NBA
+10,141217012,1995,"Sat, Dec 17",Los Angeles Clippers,Dallas Mavericks,"3-19, 2-11 Home","11-8, 5-2 Away",87,106,NULL,NULL,Final,NULL,23,12,30,22,NULL,31,21,27,27,NULL,NBA
+11,141221012,1995,"Wed, Dec 21",Los Angeles Clippers,Orlando Magic,"3-21, 2-12 Home","19-5, 9-5 Away",91,102,NULL,NULL,Final,NULL,22,23,14,32,NULL,28,26,21,27,NULL,NBA
+12,141226016,1995,"Mon, Dec 26",Minnesota Timberwolves,Los Angeles Clippers,"6-19, 2-10 Home","3-23, 1-10 Away",82,81,NULL,NULL,Final,NULL,23,11,22,26,NULL,24,16,21,20,NULL,NBA
+13,141229014,1995,"Thu, Dec 29",Miami Heat,Los Angeles Clippers,"9-17, 7-7 Home","4-24, 2-11 Away",126,83,NULL,NULL,Final,NULL,31,29,28,38,NULL,17,17,22,27,NULL,NBA
+14,150105012,1995,"Thu, Jan 5",Los Angeles Clippers,Philadelphia 76ers,"5-25, 3-13 Home","10-20, 5-11 Away",95,93,NULL,NULL,Final,NULL,19,27,22,27,NULL,22,28,17,26,NULL,NBA
+15,150110024,1995,"Tue, Jan 10",San Antonio Spurs,Los Angeles Clippers,"19-10, 11-5 Home","5-27, 2-13 Away",108,97,NULL,NULL,Final,NULL,26,28,25,29,NULL,37,13,31,16,NULL,NBA
+16,150113025,1995,"Fri, Jan 13",Seattle SuperSonics,Los Angeles Clippers,"23-9, 15-1 Home","5-29, 2-15 Away",108,101,NULL,NULL,Final,NULL,28,32,23,25,NULL,33,26,18,24,NULL,NBA
+17,150116013,1995,"Mon, Jan 16",Los Angeles Lakers,Los Angeles Clippers,"22-11, 12-4 Home","5-31, 2-16 Away",96,88,NULL,NULL,Final,NULL,19,21,19,37,NULL,23,24,20,21,NULL,NBA
+18,150120012,1995,"Fri, Jan 20",Los Angeles Clippers,Portland Trail Blazers,"6-32, 4-16 Home","19-17, 7-10 Away",97,108,NULL,NULL,Final,NULL,20,23,34,20,NULL,29,29,30,20,NULL,NBA
+19,150123005,1995,"Mon, Jan 23",Cleveland Cavaliers,Los Angeles Clippers,"25-14, 13-7 Home","6-34, 2-17 Away",90,68,NULL,NULL,Final,NULL,20,29,24,17,NULL,26,10,22,10,NULL,NBA
+20,150126018,1995,"Thu, Jan 26",New York Knicks,Los Angeles Clippers,"26-13, 14-5 Home","7-35, 3-18 Away",87,74,NULL,NULL,Final,NULL,19,22,20,26,NULL,14,15,25,20,NULL,NBA
+21,150130008,1995,"Mon, Jan 30",Detroit Pistons,Los Angeles Clippers,"14-26, 10-11 Home","7-37, 3-20 Away",102,95,NULL,NULL,Final,NULL,21,27,32,22,NULL,23,21,29,22,NULL,NBA
+22,150204012,1995,"Sat, Feb 4",Los Angeles Clippers,Los Angeles Lakers,"7-39, 4-18 Home","27-16, 14-10 Away",118,121,NULL,NULL,Final,NULL,27,33,27,31,NULL,32,31,33,25,NULL,NBA
+23,150209012,1995,"Thu, Feb 9",Los Angeles Clippers,Houston Rockets,"8-40, 5-19 Home","29-17, 14-10 Away",122,107,NULL,NULL,Final,NULL,26,29,38,29,NULL,19,27,30,31,NULL,NBA
+24,150217012,1995,"Fri, Feb 17",Los Angeles Clippers,Boston Celtics,"9-41, 6-19 Home","20-29, 8-15 Away",127,121,NULL,NULL,Final/2OT,NULL,30,20,26,23,28,25,18,32,24,22,NBA
+25,150221007,1995,"Tue, Feb 21",Denver Nuggets,Los Angeles Clippers,"22-29, 14-12 Home","9-43, 3-24 Away",118,80,NULL,NULL,Final,NULL,26,29,34,29,NULL,17,28,19,16,NULL,NBA
+26,150224021,1995,"Fri, Feb 24",Phoenix Suns,Los Angeles Clippers,"41-13, 23-5 Home","9-45, 3-26 Away",118,106,NULL,NULL,Final,NULL,31,35,28,24,NULL,25,22,24,35,NULL,NBA
+27,150227022,1995,"Mon, Feb 27",Portland Trail Blazers,Los Angeles Clippers,"30-23, 19-9 Home","10-46, 3-27 Away",96,83,NULL,NULL,Final,NULL,29,19,24,24,NULL,23,17,18,25,NULL,NBA
+28,150302012,1995,"Thu, Mar 2",Los Angeles Clippers,Seattle SuperSonics,"11-47, 8-20 Home","38-16, 16-10 Away",88,116,NULL,NULL,Final,NULL,23,22,20,23,NULL,23,32,32,29,NULL,NBA
+29,150306012,1995,"Mon, Mar 6",Los Angeles Clippers,Minnesota Timberwolves,"12-48, 9-21 Home","16-43, 7-24 Away",101,88,NULL,NULL,Final,NULL,25,34,20,22,NULL,26,26,15,21,NULL,NBA
+30,150310012,1995,"Fri, Mar 10",Los Angeles Clippers,Golden State Warriors,"13-49, 10-21 Home","18-41, 7-23 Away",121,102,NULL,NULL,Final,NULL,31,27,26,37,NULL,25,31,27,19,NULL,NBA
+31,150315012,1995,"Wed, Mar 15",Los Angeles Clippers,Detroit Pistons,"14-50, 11-22 Home","23-40, 6-26 Away",117,87,NULL,NULL,Final,NULL,24,30,24,39,NULL,18,26,21,22,NULL,NBA
+32,150319016,1995,"Sun, Mar 19",Minnesota Timberwolves,Los Angeles Clippers,"19-47, 12-21 Home","14-52, 3-29 Away",96,93,NULL,NULL,Final,NULL,17,26,22,31,NULL,23,17,29,24,NULL,NBA
+33,150322011,1995,"Wed, Mar 22",Indiana Pacers,Los Angeles Clippers,"41-25, 24-6 Home","14-54, 3-31 Away",107,103,NULL,NULL,Final,NULL,32,24,25,26,NULL,32,21,23,27,NULL,NBA
+34,150325012,1995,"Sat, Mar 25",Los Angeles Clippers,New York Knicks,"14-56, 11-24 Home","44-22, 20-13 Away",86,94,NULL,NULL,Final,NULL,28,21,19,18,NULL,25,22,22,25,NULL,NBA
+35,150330012,1995,"Thu, Mar 30",Los Angeles Clippers,Houston Rockets,"14-58, 11-25 Home","42-28, 20-15 Away",96,108,NULL,NULL,Final,NULL,20,22,26,28,NULL,28,23,18,39,NULL,NBA
+36,150404012,1995,"Tue, Apr 4",Los Angeles Clippers,San Antonio Spurs,"15-59, 12-26 Home","53-18, 23-11 Away",89,113,NULL,NULL,Final,NULL,22,32,16,19,NULL,21,29,30,33,NULL,NBA
+37,150411012,1995,"Tue, Apr 11",Los Angeles Clippers,Sacramento Kings,"16-60, 12-27 Home","36-39, 11-25 Away",85,117,NULL,NULL,Final,NULL,24,21,16,24,NULL,28,25,31,33,NULL,NBA
+38,150415026,1995,"Sat, Apr 15",Utah Jazz,Los Angeles Clippers,"56-22, 31-8 Home","16-62, 4-34 Away",105,83,NULL,NULL,Final,NULL,25,29,27,24,NULL,17,15,18,33,NULL,NBA
+39,150418006,1995,"Tue, Apr 18",Dallas Mavericks,Los Angeles Clippers,"36-43, 19-21 Home","16-64, 4-36 Away",104,91,NULL,NULL,Final,NULL,26,28,30,20,NULL,19,29,25,18,NULL,NBA
+40,141104012,1995,"Fri, Nov 4",Los Angeles Clippers,Portland Trail Blazers,"0-1, 0-1 Home","1-0, 1-0 Away",100,121,NULL,NULL,Final,NULL,22,19,26,33,NULL,28,28,38,27,NULL,NBA
+41,141110012,1995,"Thu, Nov 10",Los Angeles Clippers,Atlanta Hawks,"0-3, 0-2 Home","1-4, 1-2 Away",91,108,NULL,NULL,Final,NULL,13,21,31,26,NULL,27,18,35,28,NULL,NBA
+42,141113025,1995,"Sun, Nov 13",Seattle SuperSonics,Los Angeles Clippers,"3-1, 3-1 Home","0-5, 0-2 Away",115,90,NULL,NULL,Final,NULL,29,29,24,33,NULL,26,23,18,23,NULL,NBA
+43,141117003,1995,"Thu, Nov 17",Charlotte Hornets,Los Angeles Clippers,"3-4, 2-2 Home","0-7, 0-3 Away",99,83,NULL,NULL,Final,NULL,32,19,28,20,NULL,24,17,14,28,NULL,NBA
+44,141120017,1995,"Sun, Nov 20",New Jersey Nets,Los Angeles Clippers,"4-6, 4-1 Home","0-9, 0-5 Away",98,97,NULL,NULL,Final,NULL,23,23,28,24,NULL,25,30,26,16,NULL,NBA
+45,141123021,1995,"Wed, Nov 23",Phoenix Suns,Los Angeles Clippers,"7-3, 5-0 Home","0-11, 0-6 Away",140,109,NULL,NULL,Final,NULL,36,25,46,33,NULL,23,19,31,36,NULL,NBA
+46,141129009,1995,"Tue, Nov 29",Golden State Warriors,Los Angeles Clippers,"8-5, 5-1 Home","0-13, 0-7 Away",127,124,NULL,NULL,Final/OT,NULL,40,23,22,33,9,22,29,32,35,6,NBA
+47,141203012,1995,"Sat, Dec 3",Los Angeles Clippers,Minnesota Timberwolves,"0-15, 0-8 Home","3-13, 3-6 Away",95,103,NULL,NULL,Final,NULL,16,23,22,34,NULL,28,24,22,29,NULL,NBA
+48,141207012,1995,"Wed, Dec 7",Los Angeles Clippers,Milwaukee Bucks,"1-16, 1-9 Home","5-12, 3-7 Away",96,94,NULL,NULL,Final/OT,NULL,24,28,14,22,8,27,22,14,25,6,NBA
+49,141210012,1995,"Sat, Dec 10",Los Angeles Clippers,Seattle SuperSonics,"2-17, 1-10 Home","12-6, 4-5 Away",127,132,NULL,NULL,Final/2OT,NULL,29,30,23,30,15,29,38,21,24,20,NBA
+50,141215012,1995,"Thu, Dec 15",Los Angeles Clippers,Golden State Warriors,"3-18, 2-10 Home","8-13, 3-9 Away",89,82,NULL,NULL,Final,NULL,27,20,20,22,NULL,19,15,25,23,NULL,NBA
+51,141220025,1995,"Tue, Dec 20",Seattle SuperSonics,Los Angeles Clippers,"15-7, 11-1 Home","3-20, 1-9 Away",110,79,NULL,NULL,Final,NULL,29,29,28,24,NULL,21,25,18,15,NULL,NBA
+52,141223012,1995,"Fri, Dec 23",Los Angeles Clippers,Washington Bullets,"3-22, 2-13 Home","7-16, 4-10 Away",102,105,NULL,NULL,Final,NULL,25,27,16,34,NULL,19,35,31,20,NULL,NBA
+53,141227004,1995,"Tue, Dec 27",Chicago Bulls,Los Angeles Clippers,"13-13, 7-7 Home","4-23, 2-10 Away",92,95,NULL,NULL,Final,NULL,32,22,24,14,NULL,26,24,25,20,NULL,NBA
+54,141230019,1995,"Fri, Dec 30",Orlando Magic,Los Angeles Clippers,"23-6, 13-0 Home","4-25, 2-12 Away",116,105,NULL,NULL,Final/OT,NULL,29,24,27,21,15,22,28,35,16,4,NBA
+55,150107012,1995,"Sat, Jan 7",Los Angeles Clippers,San Antonio Spurs,"5-26, 3-14 Home","18-10, 8-5 Away",88,103,NULL,NULL,Final,NULL,18,28,19,23,NULL,33,22,18,30,NULL,NBA
+56,150111006,1995,"Wed, Jan 11",Dallas Mavericks,Los Angeles Clippers,"15-15, 9-8 Home","5-28, 2-14 Away",98,93,NULL,NULL,Final,NULL,29,22,23,24,NULL,22,29,22,20,NULL,NBA
+57,150114012,1995,"Sat, Jan 14",Los Angeles Clippers,Phoenix Suns,"5-30, 3-15 Home","27-8, 11-6 Away",108,134,NULL,NULL,Final,NULL,16,26,29,37,NULL,32,38,35,29,NULL,NBA
+58,150118012,1995,"Wed, Jan 18",Los Angeles Clippers,Cleveland Cavaliers,"6-31, 4-15 Home","23-13, 11-6 Away",92,83,NULL,NULL,Final,NULL,23,18,20,31,NULL,19,22,16,26,NULL,NBA
+59,150121012,1995,"Sat, Jan 21",Los Angeles Clippers,Sacramento Kings,"6-33, 4-17 Home","22-15, 7-10 Away",86,92,NULL,NULL,Final,NULL,25,23,14,24,NULL,19,24,20,29,NULL,NBA
+60,150125002,1995,"Wed, Jan 25",Boston Celtics,Los Angeles Clippers,"15-26, 9-13 Home","7-34, 3-17 Away",98,107,NULL,NULL,Final,NULL,23,16,20,39,NULL,24,22,24,37,NULL,NBA
+61,150128027,1995,"Sat, Jan 28",Washington Bullets,Los Angeles Clippers,"11-28, 6-13 Home","7-36, 3-19 Away",93,87,NULL,NULL,Final,NULL,23,19,20,31,NULL,30,17,25,15,NULL,NBA
+62,150203009,1995,"Fri, Feb 3",Golden State Warriors,Los Angeles Clippers,"13-29, 9-11 Home","7-38, 3-21 Away",106,89,NULL,NULL,Final,NULL,23,35,27,21,NULL,18,16,22,33,NULL,NBA
+63,150207012,1995,"Tue, Feb 7",Los Angeles Clippers,Utah Jazz,"7-40, 4-19 Home","35-12, 16-6 Away",88,101,NULL,NULL,Final,NULL,29,21,18,20,NULL,23,20,31,27,NULL,NBA
+64,150214010,1995,"Tue, Feb 14",Houston Rockets,Los Angeles Clippers,"30-17, 16-7 Home","8-41, 3-22 Away",124,104,NULL,NULL,Final,NULL,35,31,31,27,NULL,16,24,29,35,NULL,NBA
+65,150218023,1995,"Sat, Feb 18",Sacramento Kings,Los Angeles Clippers,"28-20, 20-7 Home","9-42, 3-23 Away",109,92,NULL,NULL,Final,NULL,33,34,24,18,NULL,22,22,17,31,NULL,NBA
+66,150222026,1995,"Wed, Feb 22",Utah Jazz,Los Angeles Clippers,"38-15, 22-7 Home","9-44, 3-25 Away",118,109,NULL,NULL,Final,NULL,25,32,34,27,NULL,33,31,24,21,NULL,NBA
+67,150225012,1995,"Sat, Feb 25",Los Angeles Clippers,Los Angeles Lakers,"10-45, 7-19 Home","34-18, 16-12 Away",83,81,NULL,NULL,Final,NULL,18,20,29,16,NULL,17,19,16,29,NULL,NBA
+68,150228012,1995,"Tue, Feb 28",Los Angeles Clippers,Phoenix Suns,"11-46, 8-19 Home","42-14, 18-9 Away",110,99,NULL,NULL,Final,NULL,20,31,24,35,NULL,28,22,25,24,NULL,NBA
+69,150304012,1995,"Sat, Mar 4",Los Angeles Clippers,Denver Nuggets,"11-48, 8-21 Home","26-31, 9-18 Away",89,101,NULL,NULL,Final,NULL,27,16,12,34,NULL,25,24,21,31,NULL,NBA
+70,150308009,1995,"Wed, Mar 8",Golden State Warriors,Los Angeles Clippers,"18-40, 11-18 Home","12-49, 3-28 Away",120,107,NULL,NULL,Final,NULL,32,26,31,31,NULL,21,30,23,33,NULL,NBA
+71,150312012,1995,"Sun, Mar 12",Los Angeles Clippers,Sacramento Kings,"13-50, 10-22 Home","30-30, 9-20 Away",93,105,NULL,NULL,Final,NULL,23,31,14,25,NULL,28,22,28,27,NULL,NBA
+72,150317012,1995,"Fri, Mar 17",Los Angeles Clippers,Miami Heat,"14-51, 11-23 Home","24-40, 8-26 Away",98,120,NULL,NULL,Final,NULL,30,21,20,27,NULL,31,28,25,36,NULL,NBA
+73,150320001,1995,"Mon, Mar 20",Atlanta Hawks,Los Angeles Clippers,"33-32, 20-15 Home","14-53, 3-30 Away",106,102,NULL,NULL,Final,NULL,26,28,24,28,NULL,29,32,22,19,NULL,NBA
+74,150323015,1995,"Thu, Mar 23",Milwaukee Bucks,Los Angeles Clippers,"27-41, 17-17 Home","14-55, 3-32 Away",104,93,NULL,NULL,Final,NULL,30,25,25,24,NULL,18,29,25,21,NULL,NBA
+75,150327007,1995,"Mon, Mar 27",Denver Nuggets,Los Angeles Clippers,"33-36, 20-14 Home","14-57, 3-33 Away",113,104,NULL,NULL,Final,NULL,27,33,24,29,NULL,25,30,18,31,NULL,NBA
+76,150401012,1995,"Sat, Apr 1",Los Angeles Clippers,Utah Jazz,"15-58, 12-25 Home","52-21, 25-13 Away",116,98,NULL,NULL,Final,NULL,28,23,34,31,NULL,28,26,23,21,NULL,NBA
+77,150408023,1995,"Sat, Apr 8",Sacramento Kings,Los Angeles Clippers,"35-39, 25-14 Home","16-59, 4-33 Away",105,112,NULL,NULL,Final/OT,NULL,24,22,18,35,6,27,19,27,26,13,NBA
+78,150413012,1995,"Thu, Apr 13",Los Angeles Clippers,Denver Nuggets,"16-61, 12-28 Home","37-39, 17-22 Away",103,125,NULL,NULL,Final,NULL,23,34,24,22,NULL,29,34,37,25,NULL,NBA
+79,150417010,1995,"Mon, Apr 17",Houston Rockets,Los Angeles Clippers,"47-32, 25-15 Home","16-63, 4-35 Away",121,111,NULL,NULL,Final,NULL,33,31,34,23,NULL,23,36,29,23,NULL,NBA
+80,150421024,1995,"Fri, Apr 21",San Antonio Spurs,Los Angeles Clippers,"61-20, 33-8 Home","16-65, 4-37 Away",107,96,NULL,NULL,Final,NULL,28,29,26,24,NULL,22,15,25,34,NULL,NBA
+81,150423012,1995,"Sun, Apr 23",Los Angeles Clippers,Dallas Mavericks,"17-65, 13-28 Home","36-46, 17-24 Away",124,102,NULL,NULL,Final,NULL,24,36,33,31,NULL,30,20,27,25,NULL,NBA

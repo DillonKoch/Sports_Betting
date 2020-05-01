@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,211101001,2002,"Thu, Nov 1",Atlanta Hawks,Washington Wizards,"0-2, 0-1 Home","1-1, 1-1 Away",88,98,NULL,NULL,Final,NULL,23,30,19,16,NULL,28,21,25,24,NULL,NBA
+1,211104008,2002,"Sun, Nov 4",Detroit Pistons,Washington Wizards,"3-1, 2-0 Home","2-2, 1-2 Away",100,78,NULL,NULL,Final,NULL,26,35,27,12,NULL,18,19,17,24,NULL,NBA
+2,211109027,2002,"Fri, Nov 9",Washington Wizards,Golden State Warriors,"2-4, 1-1 Home","3-3, 2-2 Away",100,109,NULL,NULL,Final,NULL,26,24,22,28,NULL,25,32,30,22,NULL,NBA
+3,211114027,2002,"Wed, Nov 14",Washington Wizards,Milwaukee Bucks,"2-6, 1-3 Home","5-1, 3-0 Away",98,107,NULL,NULL,Final,NULL,29,12,37,20,NULL,29,29,26,23,NULL,NBA
+4,211120027,2002,"Tue, Nov 20",Washington Wizards,Charlotte Hornets,"2-8, 1-5 Home","5-5, 3-3 Away",88,95,NULL,NULL,Final,NULL,18,22,19,29,NULL,18,20,28,29,NULL,NBA
+5,211124027,2002,"Sat, Nov 24",Washington Wizards,Boston Celtics,"3-9, 2-5 Home","5-6, 1-3 Away",88,84,NULL,NULL,Final/OT,NULL,20,23,22,13,10,18,21,13,26,6,NBA
+6,211128020,2002,"Wed, Nov 28",Philadelphia 76ers,Washington Wizards,"7-7, 4-3 Home","4-10, 2-5 Away",87,94,NULL,NULL,Final,CSN,25,25,16,21,NULL,25,22,25,22,NULL,NBA
+7,211201027,2002,"Sat, Dec 1",Washington Wizards,Orlando Magic,"5-11, 2-6 Home","8-9, 5-5 Away",87,96,NULL,NULL,Final,NULL,18,21,22,26,NULL,21,29,22,24,NULL,NBA
+8,211206010,2002,"Thu, Dec 6",Houston Rockets,Washington Wizards,"7-13, 5-5 Home","6-12, 4-6 Away",82,85,NULL,NULL,Final,NULL,24,16,18,24,NULL,22,16,22,25,NULL,NBA
+9,211211029,2002,"Tue, Dec 11",Memphis Grizzlies,Washington Wizards,"5-15, 4-7 Home","8-12, 6-6 Away",81,91,NULL,NULL,Final,NULL,27,14,16,24,NULL,28,29,19,15,NULL,NBA
+10,211214027,2002,"Fri, Dec 14",Washington Wizards,New York Knicks,"10-12, 4-6 Home","11-12, 3-9 Away",96,80,NULL,NULL,Final,NULL,27,26,26,17,NULL,21,19,24,16,NULL,NBA
+11,211219027,2002,"Wed, Dec 19",Washington Wizards,Atlanta Hawks,"12-12, 5-6 Home","9-16, 3-11 Away",103,76,NULL,NULL,Final,NULL,20,29,27,27,NULL,14,19,22,21,NULL,NBA
+12,211222018,2002,"Sat, Dec 22",New York Knicks,Washington Wizards,"12-15, 8-6 Home","14-12, 9-6 Away",86,87,NULL,NULL,Final,NULL,32,8,22,24,NULL,20,17,26,24,NULL,NBA
+13,211227011,2002,"Thu, Dec 27",Indiana Pacers,Washington Wizards,"18-13, 11-4 Home","14-14, 9-8 Away",108,81,NULL,NULL,Final,NULL,30,25,27,26,NULL,21,22,12,26,NULL,NBA
+14,211231027,2002,"Mon, Dec 31",Washington Wizards,New Jersey Nets,"16-14, 7-6 Home","19-10, 9-7 Away",98,76,NULL,NULL,Final,NULL,19,25,30,24,NULL,25,16,21,14,NULL,NBA
+15,220108027,2002,"Tue, Jan 8",Washington Wizards,LA Clippers,"18-14, 9-6 Home","18-17, 2-10 Away",96,88,NULL,NULL,Final,NULL,17,24,29,26,NULL,25,18,15,30,NULL,NBA
+16,220112027,2002,"Sat, Jan 12",Washington Wizards,Minnesota Timberwolves,"18-16, 9-7 Home","27-9, 11-7 Away",100,109,NULL,NULL,Final,NULL,26,26,22,26,NULL,33,28,18,29,NULL,NBA
+17,220116017,2002,"Wed, Jan 16",New Jersey Nets,Washington Wizards,"26-11, 15-4 Home","18-18, 9-10 Away",111,67,NULL,NULL,Final,NULL,43,29,16,23,NULL,18,15,16,18,NULL,NBA
+18,220121016,2002,"Mon, Jan 21",Minnesota Timberwolves,Washington Wizards,"30-10, 18-2 Home","19-19, 10-11 Away",105,101,NULL,NULL,Final,NULL,28,28,27,22,NULL,26,27,26,22,NULL,NBA
+19,220124027,2002,"Thu, Jan 24",Washington Wizards,Cleveland Cavaliers,"20-20, 10-9 Home","13-29, 4-19 Away",94,85,NULL,NULL,Final,NULL,23,25,29,17,NULL,28,22,17,18,NULL,NBA
+20,220129027,2002,"Tue, Jan 29",Washington Wizards,Detroit Pistons,"21-21, 11-10 Home","22-20, 9-14 Away",86,89,NULL,NULL,Final,NULL,26,23,19,18,NULL,22,27,27,13,NULL,NBA
+21,220201027,2002,"Fri, Feb 1",Washington Wizards,Atlanta Hawks,"23-21, 12-10 Home","14-32, 4-20 Away",97,90,NULL,NULL,Final,NULL,29,25,22,21,NULL,20,24,21,25,NULL,NBA
+22,220205027,2002,"Tue, Feb 5",Washington Wizards,Toronto Raptors,"25-21, 14-10 Home","28-21, 13-13 Away",99,94,NULL,NULL,Final,NULL,25,21,29,24,NULL,21,30,24,19,NULL,NBA
+23,220212013,2002,"Tue, Feb 12",Los Angeles Lakers,Washington Wizards,"34-13, 19-5 Home","26-22, 11-12 Away",103,94,NULL,NULL,Final,NULL,16,19,42,26,NULL,25,23,26,20,NULL,NBA
+24,220215021,2002,"Fri, Feb 15",Phoenix Suns,Washington Wizards,"25-26, 15-11 Home","27-23, 12-13 Away",96,97,NULL,NULL,Final,NULL,28,26,14,28,NULL,29,24,19,25,NULL,NBA
+25,220220008,2002,"Wed, Feb 20",Detroit Pistons,Washington Wizards,"30-22, 18-8 Home","27-25, 12-14 Away",97,90,NULL,NULL,Final,NULL,23,27,16,31,NULL,18,29,19,24,NULL,NBA
+26,220223027,2002,"Sat, Feb 23",Washington Wizards,Miami Heat,"27-27, 15-13 Home","22-31, 12-16 Away",95,97,NULL,NULL,Final,NULL,26,24,22,23,NULL,20,26,23,28,NULL,NBA
+27,220227027,2002,"Wed, Feb 27",Washington Wizards,Portland Trail Blazers,"27-29, 15-14 Home","33-24, 13-15 Away",101,105,NULL,NULL,Final,NULL,16,45,22,18,NULL,17,47,19,22,NULL,NBA
+28,220303027,2002,"Sun, Mar 3",Washington Wizards,Orlando Magic,"28-30, 16-14 Home","31-28, 14-18 Away",107,102,NULL,NULL,Final/OT,NULL,23,26,25,21,12,18,21,34,22,7,NBA
+29,220307027,2002,"Thu, Mar 7",Washington Wizards,Detroit Pistons,"29-31, 17-15 Home","35-24, 15-15 Away",92,95,NULL,NULL,Final,NULL,33,19,21,19,NULL,25,29,20,21,NULL,NBA
+30,220310002,2002,"Sun, Mar 10",Boston Celtics,Washington Wizards,"35-27, 19-11 Home","29-33, 12-18 Away",98,91,NULL,NULL,Final,NULL,23,25,26,24,NULL,21,32,20,18,NULL,NBA
+31,220313012,2002,"Wed, Mar 13",LA Clippers,Washington Wizards,"34-31, 22-10 Home","29-35, 12-19 Away",96,75,NULL,NULL,Final,NULL,28,25,23,20,NULL,18,20,24,13,NULL,NBA
+32,220316022,2002,"Sat, Mar 16",Portland Trail Blazers,Washington Wizards,"40-25, 25-9 Home","30-36, 13-20 Away",95,80,NULL,NULL,Final,NULL,22,26,29,18,NULL,21,30,11,18,NULL,NBA
+33,220320007,2002,"Wed, Mar 20",Denver Nuggets,Washington Wizards,"19-46, 14-21 Home","32-36, 15-20 Away",75,107,NULL,NULL,Final,NULL,25,14,17,19,NULL,30,24,38,15,NULL,NBA
+34,220324028,2002,"Sun, Mar 24",Toronto Raptors,Washington Wizards,"32-38, 17-17 Home","32-38, 15-22 Away",92,91,NULL,NULL,Final,NULL,24,23,19,26,NULL,21,18,25,27,NULL,NBA
+35,220329027,2002,"Fri, Mar 29",Washington Wizards,Milwaukee Bucks,"34-38, 19-16 Home","38-33, 16-18 Away",107,98,NULL,NULL,Final,NULL,31,24,32,20,NULL,26,26,21,25,NULL,NBA
+36,220402027,2002,"Tue, Apr 2",Washington Wizards,Los Angeles Lakers,"34-40, 19-18 Home","53-21, 23-14 Away",93,113,NULL,NULL,Final,NULL,24,25,22,22,NULL,37,29,24,23,NULL,NBA
+37,220405003,2002,"Fri, Apr 5",Charlotte Hornets,Washington Wizards,"40-35, 19-19 Home","34-42, 15-24 Away",97,91,NULL,NULL,Final,NULL,23,34,22,18,NULL,18,25,19,29,NULL,NBA
+38,220409017,2002,"Tue, Apr 9",New Jersey Nets,Washington Wizards,"50-28, 33-7 Home","35-43, 15-25 Away",101,88,NULL,NULL,Final,NULL,28,27,31,15,NULL,18,25,22,23,NULL,NBA
+39,220412020,2002,"Fri, Apr 12",Philadelphia 76ers,Washington Wizards,"42-37, 22-18 Home","36-44, 15-26 Away",100,91,NULL,NULL,Final,CSN,28,25,26,21,NULL,27,25,18,21,NULL,NBA
+40,211030018,2002,"Tue, Oct 30",New York Knicks,Washington Wizards,"1-0, 1-0 Home","0-1, 0-1 Away",93,91,NULL,NULL,Final,NULL,19,22,26,26,NULL,21,22,18,30,NULL,NBA
+41,211103027,2002,"Sat, Nov 3",Washington Wizards,Philadelphia 76ers,"2-1, 1-0 Home","0-3, 0-2 Away",90,76,NULL,NULL,Final,NULL,18,17,29,26,NULL,27,16,13,20,NULL,NBA
+42,211107002,2002,"Wed, Nov 7",Boston Celtics,Washington Wizards,"3-2, 2-1 Home","2-3, 1-3 Away",104,95,NULL,NULL,Final,NULL,22,26,27,29,NULL,19,23,26,27,NULL,NBA
+43,211111027,2002,"Sun, Nov 11",Washington Wizards,Seattle SuperSonics,"2-5, 1-2 Home","3-5, 2-4 Away",84,99,NULL,NULL,Final,NULL,20,21,14,29,NULL,19,29,28,23,NULL,NBA
+44,211116027,2002,"Fri, Nov 16",Washington Wizards,Utah Jazz,"2-7, 1-4 Home","4-6, 2-3 Away",92,101,NULL,NULL,Final,NULL,23,26,18,25,NULL,27,21,29,24,NULL,NBA
+45,211122011,2002,"Thu, Nov 22",Indiana Pacers,Washington Wizards,"8-6, 6-2 Home","2-9, 1-4 Away",110,103,NULL,NULL,Final,NULL,26,20,35,29,NULL,23,27,25,28,NULL,NBA
+46,211127005,2002,"Tue, Nov 27",Cleveland Cavaliers,Washington Wizards,"5-10, 3-4 Home","3-10, 1-5 Away",94,75,NULL,NULL,Final,NULL,32,16,18,28,NULL,20,20,18,17,NULL,NBA
+47,211130014,2002,"Fri, Nov 30",Miami Heat,Washington Wizards,"2-13, 2-8 Home","5-10, 3-5 Away",75,84,NULL,NULL,Final,NULL,21,28,17,9,NULL,24,19,23,18,NULL,NBA
+48,211204024,2002,"Tue, Dec 4",San Antonio Spurs,Washington Wizards,"12-4, 8-1 Home","5-12, 3-6 Away",103,88,NULL,NULL,Final,NULL,29,28,28,18,NULL,26,22,14,26,NULL,NBA
+49,211208006,2002,"Sat, Dec 8",Dallas Mavericks,Washington Wizards,"12-8, 5-4 Home","7-12, 5-6 Away",95,102,NULL,NULL,Final,NULL,22,16,26,31,NULL,27,28,13,34,NULL,NBA
+50,211212027,2002,"Wed, Dec 12",Washington Wizards,Miami Heat,"9-12, 3-6 Home","4-16, 1-8 Away",82,80,NULL,NULL,Final,NULL,25,24,22,11,NULL,20,20,23,17,NULL,NBA
+51,211216028,2002,"Sun, Dec 16",Toronto Raptors,Washington Wizards,"12-12, 6-5 Home","11-12, 7-6 Away",88,93,NULL,NULL,Final,NULL,34,18,16,20,NULL,23,23,27,20,NULL,NBA
+52,211221019,2002,"Fri, Dec 21",Orlando Magic,Washington Wizards,"13-15, 7-5 Home","13-12, 8-6 Away",75,93,NULL,NULL,Final,NULL,18,42,0,15,NULL,25,39,0,29,NULL,NBA
+53,211226003,2002,"Wed, Dec 26",Charlotte Hornets,Washington Wizards,"13-15, 4-7 Home","14-13, 9-7 Away",99,93,NULL,NULL,Final,NULL,29,23,21,26,NULL,30,27,15,21,NULL,NBA
+54,211229027,2002,"Sat, Dec 29",Washington Wizards,Charlotte Hornets,"15-14, 6-6 Home","13-17, 9-9 Away",107,90,NULL,NULL,Final,NULL,29,27,28,23,NULL,28,23,16,23,NULL,NBA
+55,220104027,2002,"Fri, Jan 4",Washington Wizards,Chicago Bulls,"17-14, 8-6 Home","6-25, 0-17 Away",89,83,NULL,NULL,Final,NULL,28,29,20,12,NULL,16,21,22,24,NULL,NBA
+56,220111015,2002,"Fri, Jan 11",Milwaukee Bucks,Washington Wizards,"20-13, 11-2 Home","18-15, 9-9 Away",105,86,NULL,NULL,Final,NULL,26,34,20,25,NULL,19,23,15,29,NULL,NBA
+57,220115027,2002,"Tue, Jan 15",Washington Wizards,San Antonio Spurs,"18-17, 9-8 Home","26-10, 11-6 Away",91,96,NULL,NULL,Final,NULL,13,22,26,30,NULL,28,20,24,24,NULL,NBA
+58,220119004,2002,"Sat, Jan 19",Chicago Bulls,Washington Wizards,"8-31, 7-13 Home","19-18, 10-10 Away",69,77,NULL,NULL,Final,NULL,12,15,11,31,NULL,16,19,20,22,NULL,NBA
+59,220122027,2002,"Tue, Jan 22",Washington Wizards,Philadelphia 76ers,"19-20, 9-9 Home","20-21, 10-13 Away",84,91,NULL,NULL,Final,NULL,23,23,16,22,NULL,19,26,26,20,NULL,NBA
+60,220126027,2002,"Sat, Jan 26",Washington Wizards,Phoenix Suns,"21-20, 11-9 Home","21-22, 8-12 Away",112,102,NULL,NULL,Final,NULL,22,27,26,37,NULL,16,21,22,43,NULL,NBA
+61,220131005,2002,"Thu, Jan 31",Cleveland Cavaliers,Washington Wizards,"14-31, 10-12 Home","22-21, 11-11 Away",92,93,NULL,NULL,Final,NULL,23,19,32,18,NULL,28,26,17,22,NULL,NBA
+62,220203027,2002,"Sun, Feb 3",Washington Wizards,Indiana Pacers,"24-21, 13-10 Home","25-24, 10-15 Away",109,89,NULL,NULL,Final,NULL,31,18,32,28,NULL,25,18,24,22,NULL,NBA
+63,220207027,2002,"Thu, Feb 7",Washington Wizards,Sacramento Kings,"26-21, 15-10 Home","37-12, 12-11 Away",108,101,NULL,NULL,Final,NULL,35,20,34,19,NULL,22,26,24,29,NULL,NBA
+64,220214023,2002,"Thu, Feb 14",Sacramento Kings,Washington Wizards,"39-12, 27-1 Home","26-23, 11-13 Away",109,93,NULL,NULL,Final,NULL,21,26,36,26,NULL,18,18,23,34,NULL,NBA
+65,220218027,2002,"Mon, Feb 18",Washington Wizards,Houston Rockets,"27-24, 15-11 Home","18-34, 6-19 Away",89,102,NULL,NULL,Final,NULL,20,29,21,19,NULL,20,28,30,24,NULL,NBA
+66,220221027,2002,"Thu, Feb 21",Washington Wizards,New Jersey Nets,"27-26, 15-12 Home","36-17, 15-11 Away",82,93,NULL,NULL,Final,NULL,22,17,24,19,NULL,23,23,23,24,NULL,NBA
+67,220224014,2002,"Sun, Feb 24",Miami Heat,Washington Wizards,"23-31, 11-15 Home","27-28, 12-15 Away",92,80,NULL,NULL,Final,NULL,21,25,19,27,NULL,25,26,16,13,NULL,NBA
+68,220301004,2002,"Fri, Mar 1",Chicago Bulls,Washington Wizards,"16-42, 13-17 Home","27-30, 12-16 Away",90,81,NULL,NULL,Final,NULL,23,23,19,25,NULL,16,21,21,23,NULL,NBA
+69,220305027,2002,"Tue, Mar 5",Washington Wizards,Chicago Bulls,"29-30, 17-14 Home","16-44, 3-27 Away",115,90,NULL,NULL,Final,NULL,32,24,29,30,NULL,21,25,23,21,NULL,NBA
+70,220308019,2002,"Fri, Mar 8",Orlando Magic,Washington Wizards,"32-30, 18-10 Home","29-32, 12-17 Away",99,96,NULL,NULL,Final,NULL,32,27,19,21,NULL,23,24,26,23,NULL,NBA
+71,220311027,2002,"Mon, Mar 11",Washington Wizards,Boston Celtics,"29-34, 17-16 Home","36-27, 17-16 Away",99,104,NULL,NULL,Final,NULL,24,22,24,29,NULL,28,25,21,30,NULL,NBA
+72,220315025,2002,"Fri, Mar 15",Seattle SuperSonics,Washington Wizards,"36-30, 19-13 Home","30-35, 13-19 Away",98,103,NULL,NULL,Final,NULL,23,24,28,23,NULL,26,22,21,34,NULL,NBA
+73,220318009,2002,"Mon, Mar 18",Golden State Warriors,Washington Wizards,"17-48, 11-22 Home","31-36, 14-20 Away",96,99,NULL,NULL,Final,NULL,32,22,25,17,NULL,26,30,22,21,NULL,NBA
+74,220321026,2002,"Thu, Mar 21",Utah Jazz,Washington Wizards,"37-31, 21-13 Home","32-37, 15-21 Away",94,79,NULL,NULL,Final,NULL,28,25,17,24,NULL,27,19,13,20,NULL,NBA
+75,220326027,2002,"Tue, Mar 26",Washington Wizards,Denver Nuggets,"33-38, 18-16 Home","21-48, 6-27 Away",103,87,NULL,NULL,Final,NULL,29,32,24,18,NULL,16,17,25,29,NULL,NBA
+76,220331027,2002,"Sun, Mar 31",Washington Wizards,Dallas Mavericks,"34-39, 19-17 Home","51-22, 24-12 Away",103,110,NULL,NULL,Final,NULL,22,23,29,29,NULL,22,25,32,31,NULL,NBA
+77,220403015,2002,"Wed, Apr 3",Milwaukee Bucks,Washington Wizards,"39-35, 23-15 Home","34-41, 15-23 Away",105,90,NULL,NULL,Final,NULL,34,21,24,26,NULL,18,19,31,22,NULL,NBA
+78,220406027,2002,"Sat, Apr 6",Washington Wizards,Memphis Grizzlies,"35-42, 20-18 Home","20-56, 7-31 Away",88,85,NULL,NULL,Final,NULL,26,21,18,23,NULL,26,22,13,24,NULL,NBA
+79,220410027,2002,"Wed, Apr 10",Washington Wizards,Philadelphia 76ers,"36-43, 21-18 Home","41-37, 20-19 Away",90,77,NULL,NULL,Final,CSN,15,33,21,21,NULL,19,14,24,20,NULL,NBA
+80,220414027,2002,"Sun, Apr 14",Washington Wizards,Indiana Pacers,"36-45, 21-19 Home","40-40, 16-24 Away",80,86,NULL,NULL,Final,NULL,18,28,19,15,NULL,30,14,20,22,NULL,NBA
+81,220416027,2002,"Tue, Apr 16",Washington Wizards,New York Knicks,"37-45, 22-19 Home","30-51, 11-30 Away",116,112,NULL,NULL,Final,NULL,28,31,31,26,NULL,29,22,27,34,NULL,NBA

@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,400974774,2018,"Fri, Oct 20",Brooklyn Nets,Orlando Magic,"1-1, 1-0 Home","1-1, 0-1 Away",126,121,NULL,NULL,Final,NULL,29,29,31,37,NULL,27,28,36,30,NULL,NBA
+1,400974801,2018,"Tue, Oct 24",Orlando Magic,Brooklyn Nets,"3-1, 2-0 Home","2-2, 0-2 Away",125,121,NULL,NULL,Final,NULL,30,31,26,38,NULL,30,31,35,25,NULL,NBA
+2,400974824,2018,"Fri, Oct 27",New York Knicks,Brooklyn Nets,"1-3, 1-1 Home","3-3, 0-3 Away",107,86,NULL,NULL,Final,NULL,23,24,36,24,NULL,28,14,24,20,NULL,NBA
+3,400974853,2018,"Tue, Oct 31",Brooklyn Nets,Phoenix Suns,"3-5, 3-2 Home","3-4, 1-2 Away",114,122,NULL,NULL,Final,NULL,24,29,35,26,NULL,30,29,28,35,NULL,NBA
+4,400974898,2018,"Mon, Nov 6",Phoenix Suns,Brooklyn Nets,"4-7, 2-3 Home","4-6, 1-4 Away",92,98,NULL,NULL,Final,NULL,19,22,27,24,NULL,28,19,25,26,NULL,NBA
+5,400974927,2018,"Fri, Nov 10",Portland Trail Blazers,Brooklyn Nets,"6-6, 4-4 Home","5-7, 2-5 Away",97,101,NULL,NULL,Final,NULL,28,24,18,27,NULL,21,25,31,24,NULL,NBA
+6,400974952,2018,"Tue, Nov 14",Brooklyn Nets,Boston Celtics,"5-9, 3-3 Home","13-2, 7-1 Away",102,109,NULL,NULL,Final,NULL,21,31,19,31,NULL,30,22,28,29,NULL,NBA
+7,400974987,2018,"Sun, Nov 19",Brooklyn Nets,Golden State Warriors,"6-10, 4-4 Home","13-4, 7-2 Away",111,118,NULL,NULL,Final,NULL,20,22,42,27,NULL,32,32,34,20,NULL,NBA
+8,400975018,2018,"Fri, Nov 24",Brooklyn Nets,Portland Trail Blazers,"6-12, 4-5 Home","11-8, 4-4 Away",125,127,NULL,NULL,Final,NULL,32,21,39,33,NULL,23,28,41,35,NULL,NBA
+9,400975045,2018,"Mon, Nov 27",Houston Rockets,Brooklyn Nets,"16-4, 7-3 Home","7-13, 3-8 Away",117,103,NULL,NULL,Final,NULL,43,23,30,21,NULL,26,29,25,23,NULL,NBA
+10,400975079,2018,"Sat, Dec 2",Brooklyn Nets,Atlanta Hawks,"8-14, 4-6 Home","5-17, 3-9 Away",102,114,NULL,NULL,Final,NULL,22,23,30,27,NULL,25,29,27,33,NULL,NBA
+11,400975116,2018,"Thu, Dec 7",Brooklyn Nets,Oklahoma City Thunder,10-14,11-13,100,95,NULL,NULL,Final,NULL,20,29,25,26,NULL,33,25,21,16,NULL,NBA
+12,400975151,2018,"Tue, Dec 12",Brooklyn Nets,Washington Wizards,"11-15, 6-7 Home","14-13, 8-8 Away",103,98,NULL,NULL,Final,NULL,30,21,28,24,NULL,22,29,27,20,NULL,NBA
+13,400975175,2018,"Fri, Dec 15",Toronto Raptors,Brooklyn Nets,"19-8, 10-1 Home","11-17, 5-9 Away",120,87,NULL,NULL,Final,NULL,30,28,33,29,NULL,20,24,20,23,NULL,NBA
+14,400975208,2018,"Wed, Dec 20",Brooklyn Nets,Sacramento Kings,"11-19, 6-10 Home","11-20, 6-13 Away",99,104,NULL,NULL,Final,NULL,20,28,27,24,NULL,36,28,22,18,NULL,NBA
+15,400975233,2018,"Sat, Dec 23",Indiana Pacers,Brooklyn Nets,"19-14, 11-7 Home","12-20, 5-10 Away",123,119,NULL,NULL,Final/OT,NULL,21,20,39,31,12,28,29,24,30,8,NBA
+16,400975257,2018,"Wed, Dec 27",New Orleans Pelicans,Brooklyn Nets,"18-16, 9-7 Home","12-22, 5-12 Away",128,113,NULL,NULL,Final,NULL,31,38,22,37,NULL,23,23,29,38,NULL,NBA
+17,400975285,2018,"Sun, Dec 31",Boston Celtics,Brooklyn Nets,"30-10, 16-5 Home","13-23, 6-13 Away",108,105,NULL,NULL,Final,NULL,38,23,21,26,NULL,28,31,17,29,NULL,NBA
+18,400975303,2018,"Wed, Jan 3",Brooklyn Nets,Minnesota Timberwolves,"15-23, 9-10 Home","24-15, 11-9 Away",98,97,NULL,NULL,Final,NULL,24,24,23,27,NULL,22,21,30,24,NULL,NBA
+19,400975338,2018,"Mon, Jan 8",Brooklyn Nets,Toronto Raptors,"15-25, 9-12 Home","28-10, 14-9 Away",113,114,NULL,NULL,Final/OT,NULL,19,25,27,36,6,26,19,33,29,7,NBA
+20,400975367,2018,"Fri, Jan 12",Atlanta Hawks,Brooklyn Nets,"11-31, 7-12 Home","16-26, 7-13 Away",105,110,NULL,NULL,Final,NULL,25,25,24,31,NULL,25,28,21,36,NULL,NBA
+21,400975388,2018,"Mon, Jan 15",Brooklyn Nets,New York Knicks,"16-28, 9-14 Home","20-24, 5-15 Away",104,119,NULL,NULL,Final,NULL,24,18,39,23,NULL,26,26,31,36,NULL,NBA
+22,400975414,2018,"Fri, Jan 19",Brooklyn Nets,Miami Heat,"17-29, 10-15 Home","26-19, 14-10 Away",101,95,NULL,NULL,Final,NULL,21,22,24,34,NULL,24,29,16,26,NULL,NBA
+23,400975443,2018,"Tue, Jan 23",Oklahoma City Thunder,Brooklyn Nets,"27-20, 17-7 Home","18-30, 8-15 Away",109,108,NULL,NULL,Final,NULL,30,17,27,35,NULL,26,33,26,23,NULL,NBA
+24,400975475,2018,"Sat, Jan 27",Minnesota Timberwolves,Brooklyn Nets,"32-20, 20-6 Home","18-32, 8-17 Away",111,97,NULL,NULL,Final,NULL,30,24,24,33,NULL,11,31,23,32,NULL,NBA
+25,400975502,2018,"Wed, Jan 31",Brooklyn Nets,Philadelphia 76ers,"19-33, 11-15 Home","24-24, 12-14 Away",116,108,NULL,NULL,Final,NULL,30,34,27,25,NULL,34,31,23,20,NULL,NBA
+26,400975531,2018,"Sun, Feb 4",Brooklyn Nets,Milwaukee Bucks,"19-35, 11-17 Home","29-23, 11-14 Away",94,109,NULL,NULL,Final,NULL,22,19,31,22,NULL,36,26,21,26,NULL,NBA
+27,400975551,2018,"Wed, Feb 7",Detroit Pistons,Brooklyn Nets,"27-26, 18-10 Home","19-37, 8-19 Away",115,106,NULL,NULL,Final,NULL,26,27,26,36,NULL,21,29,23,33,NULL,NBA
+28,400975589,2018,"Mon, Feb 12",Brooklyn Nets,LA Clippers,"19-39, 11-20 Home","29-26, 13-14 Away",101,114,NULL,NULL,Final,NULL,22,29,16,34,NULL,34,32,24,24,NULL,NBA
+29,400975613,2018,"Thu, Feb 22",Charlotte Hornets,Brooklyn Nets,"25-33, 16-15 Home","19-41, 8-20 Away",111,96,NULL,NULL,Final,NULL,32,23,25,31,NULL,28,25,21,22,NULL,NBA
+30,400975654,2018,"Tue, Feb 27",Cleveland Cavaliers,Brooklyn Nets,"36-24, 21-9 Home","20-42, 8-21 Away",129,123,NULL,NULL,Final,NULL,25,35,34,35,NULL,29,32,30,32,NULL,NBA
+31,400975694,2018,"Sun, Mar 4",LA Clippers,Brooklyn Nets,"34-28, 18-13 Home","20-44, 8-23 Away",123,120,NULL,NULL,Final,NULL,32,33,26,32,NULL,27,26,33,34,NULL,NBA
+32,400975718,2018,"Thu, Mar 8",Charlotte Hornets,Brooklyn Nets,"28-38, 18-17 Home","21-45, 9-24 Away",111,125,NULL,NULL,Final,NULL,29,30,26,26,NULL,35,30,31,29,NULL,NBA
+33,400975754,2018,"Tue, Mar 13",Brooklyn Nets,Toronto Raptors,"21-47, 12-23 Home","50-17, 22-12 Away",102,116,NULL,NULL,Final,NULL,40,27,18,17,NULL,32,25,30,29,NULL,NBA
+34,400975783,2018,"Sat, Mar 17",Brooklyn Nets,Dallas Mavericks,"22-48, 13-23 Home","22-48, 8-26 Away",114,106,NULL,NULL,Final,NULL,30,29,29,26,NULL,24,32,33,17,NULL,NBA
+35,400975813,2018,"Wed, Mar 21",Brooklyn Nets,Charlotte Hornets,"23-49, 14-24 Home","31-41, 12-24 Away",105,111,NULL,NULL,Final,NULL,34,28,25,18,NULL,22,21,32,36,NULL,NBA
+36,400975840,2018,"Sun, Mar 25",Brooklyn Nets,Cleveland Cavaliers,"23-51, 14-25 Home","44-29, 19-18 Away",114,121,NULL,NULL,Final,NBATV,30,32,27,25,NULL,28,32,27,34,NULL,NBA
+37,400975887,2018,"Sat, Mar 31",Miami Heat,Brooklyn Nets,"41-36, 24-14 Home","25-51, 11-26 Away",109,110,NULL,NULL,Final/OT,NULL,32,23,21,25,8,22,26,32,21,9,NBA
+38,400975903,2018,"Tue, Apr 3",Philadelphia 76ers,Brooklyn Nets,"47-30, 27-11 Home","25-53, 11-27 Away",121,95,NULL,NULL,Final,NULL,28,33,32,28,NULL,22,27,22,24,NULL,NBA
+39,400975939,2018,"Sat, Apr 7",Chicago Bulls,Brooklyn Nets,"27-53, 17-23 Home","27-53, 13-27 Away",96,124,NULL,NULL,Final,NULL,23,28,26,19,NULL,28,35,33,28,NULL,NBA
+40,400974701,2018,"Wed, Oct 18",Indiana Pacers,Brooklyn Nets,"1-0, 1-0 Home","0-1, 0-1 Away",140,131,NULL,NULL,Final,NULL,29,36,41,34,NULL,30,33,35,33,NULL,NBA
+41,400974789,2018,"Sun, Oct 22",Brooklyn Nets,Atlanta Hawks,"2-1, 2-0 Home","1-2, 1-2 Away",116,104,NULL,NULL,Final,NULL,19,37,35,25,NULL,25,28,24,27,NULL,NBA
+42,400974809,2018,"Wed, Oct 25",Brooklyn Nets,Cleveland Cavaliers,"3-2, 3-0 Home","3-2, 1-1 Away",112,107,NULL,NULL,Final,NULL,26,29,29,28,NULL,23,29,21,34,NULL,NBA
+43,400974838,2018,"Sun, Oct 29",Brooklyn Nets,Denver Nuggets,"3-4, 3-1 Home","3-3, 2-2 Away",111,124,NULL,NULL,Final,NULL,36,27,21,27,NULL,29,31,40,24,NULL,NBA
+44,400974881,2018,"Fri, Nov 3",Los Angeles Lakers,Brooklyn Nets,"4-5, 3-3 Home","3-6, 0-4 Away",124,112,NULL,NULL,Final,NULL,30,34,31,29,NULL,29,26,29,28,NULL,NBA
+45,400974906,2018,"Tue, Nov 7",Denver Nuggets,Brooklyn Nets,"6-5, 4-2 Home","4-7, 1-5 Away",112,104,NULL,NULL,Final,NULL,28,29,36,19,NULL,21,25,27,31,NULL,NBA
+46,400974938,2018,"Sat, Nov 11",Utah Jazz,Brooklyn Nets,"6-7, 6-3 Home","5-8, 2-6 Away",114,106,NULL,NULL,Final,NBATV,25,36,24,29,NULL,25,20,30,31,NULL,NBA
+47,400974970,2018,"Fri, Nov 17",Brooklyn Nets,Utah Jazz,"6-9, 4-3 Home","6-10, 0-6 Away",118,107,NULL,NULL,Final,NULL,39,26,24,29,NULL,25,24,31,27,NULL,NBA
+48,400975005,2018,"Wed, Nov 22",Cleveland Cavaliers,Brooklyn Nets,"11-7, 5-4 Home","6-11, 2-7 Away",119,109,NULL,NULL,Final,NULL,20,25,32,42,NULL,17,29,31,32,NULL,NBA
+49,400975040,2018,"Sun, Nov 26",Memphis Grizzlies,Brooklyn Nets,"7-12, 4-7 Home","7-12, 3-7 Away",88,98,NULL,NULL,Final,NULL,22,25,18,23,NULL,19,28,32,19,NULL,NBA
+50,400975061,2018,"Wed, Nov 29",Dallas Mavericks,Brooklyn Nets,"5-17, 3-10 Home","8-13, 4-8 Away",104,109,NULL,NULL,Final,NULL,27,20,29,28,NULL,21,27,32,29,NULL,NBA
+51,400975093,2018,"Mon, Dec 4",Atlanta Hawks,Brooklyn Nets,"5-18, 2-9 Home","9-14, 5-8 Away",90,110,NULL,NULL,Final,NULL,32,22,15,21,NULL,33,20,31,26,NULL,NBA
+52,400975127,2018,"Sat, Dec 9",Brooklyn Nets,Miami Heat,10-15,12-13,89,101,NULL,NULL,Final,NBATV,26,27,19,17,NULL,24,26,25,26,NULL,NBA
+53,400975165,2018,"Thu, Dec 14",Brooklyn Nets,New York Knicks,"11-16, 6-8 Home","15-13, 2-8 Away",104,111,NULL,NULL,Final,NULL,26,24,32,22,NULL,32,31,24,24,NULL,NBA
+54,400975190,2018,"Sun, Dec 17",Brooklyn Nets,Indiana Pacers,"11-18, 6-9 Home","17-13, 7-7 Away",97,109,NULL,NULL,Final,NULL,29,19,24,25,NULL,28,31,21,29,NULL,NBA
+55,400975224,2018,"Fri, Dec 22",Brooklyn Nets,Washington Wizards,"12-19, 7-10 Home","17-15, 8-9 Away",119,84,NULL,NULL,Final,NULL,26,27,35,31,NULL,23,20,18,23,NULL,NBA
+56,400975248,2018,"Tue, Dec 26",San Antonio Spurs,Brooklyn Nets,"24-11, 16-2 Home","12-21, 5-11 Away",109,97,NULL,NULL,Final,NULL,19,31,30,29,NULL,16,28,25,28,NULL,NBA
+57,400975269,2018,"Fri, Dec 29",Miami Heat,Brooklyn Nets,"18-17, 8-9 Home","13-22, 6-12 Away",87,111,NULL,NULL,Final,NULL,20,19,21,27,NULL,24,35,36,16,NULL,NBA
+58,400975291,2018,"Mon, Jan 1",Brooklyn Nets,Orlando Magic,"14-23, 8-10 Home","12-26, 5-16 Away",98,95,NULL,NULL,Final,NULL,22,25,24,27,NULL,27,21,22,25,NULL,NBA
+59,400975325,2018,"Sat, Jan 6",Brooklyn Nets,Boston Celtics,"15-24, 9-11 Home","33-10, 15-5 Away",85,87,NULL,NULL,Final,NULL,22,19,20,24,NULL,16,23,25,23,NULL,NBA
+60,400975352,2018,"Wed, Jan 10",Brooklyn Nets,Detroit Pistons,"15-26, 9-13 Home","22-18, 9-13 Away",80,114,NULL,NULL,Final,NULL,26,15,20,19,NULL,34,29,27,24,NULL,NBA
+61,400975376,2018,"Sat, Jan 13",Washington Wizards,Brooklyn Nets,"25-18, 15-8 Home","16-27, 7-14 Away",119,113,NULL,NULL,Final/OT,NULL,33,26,24,24,12,18,21,35,33,6,NBA
+62,400975401,2018,"Wed, Jan 17",Brooklyn Nets,San Antonio Spurs,"16-29, 9-15 Home","30-16, 11-14 Away",95,100,NULL,NULL,Final,NULL,26,20,18,31,NULL,31,20,25,24,NULL,NBA
+63,400975431,2018,"Sun, Jan 21",Detroit Pistons,Brooklyn Nets,"22-23, 13-8 Home","18-29, 8-14 Away",100,101,NULL,NULL,Final,NULL,20,28,20,32,NULL,30,23,24,24,NULL,NBA
+64,400975465,2018,"Fri, Jan 26",Milwaukee Bucks,Brooklyn Nets,"25-22, 16-9 Home","18-31, 8-16 Away",116,91,NULL,NULL,Final,NULL,33,25,23,35,NULL,15,20,37,19,NULL,NBA
+65,400975491,2018,"Tue, Jan 30",New York Knicks,Brooklyn Nets,"23-28, 16-9 Home","18-33, 8-18 Away",111,95,NULL,NULL,Final,NULL,30,31,25,25,NULL,22,19,28,26,NULL,NBA
+66,400975514,2018,"Fri, Feb 2",Brooklyn Nets,Los Angeles Lakers,"19-34, 11-16 Home","20-31, 8-17 Away",99,102,NULL,NULL,Final,NULL,26,31,28,14,NULL,24,35,26,17,NULL,NBA
+67,400975546,2018,"Tue, Feb 6",Brooklyn Nets,Houston Rockets,"19-36, 11-18 Home","39-13, 19-7 Away",113,123,NULL,NULL,Final,NULL,31,32,23,27,NULL,38,27,31,27,NULL,NBA
+68,400975572,2018,"Sat, Feb 10",Brooklyn Nets,New Orleans Pelicans,"19-38, 11-19 Home","29-26, 15-14 Away",128,138,NULL,NULL,Final/2OT,NULL,22,30,33,31,12,34,38,28,16,22,NBA
+69,400975602,2018,"Wed, Feb 14",Brooklyn Nets,Indiana Pacers,"19-40, 11-21 Home","33-25, 13-14 Away",103,108,NULL,NULL,Final,NULL,23,31,25,24,NULL,22,32,19,35,NULL,NBA
+70,400975645,2018,"Mon, Feb 26",Brooklyn Nets,Chicago Bulls,"20-41, 12-21 Home","20-40, 7-23 Away",104,87,NULL,NULL,Final,NULL,28,21,35,20,NULL,19,32,19,17,NULL,NBA
+71,400975670,2018,"Thu, Mar 1",Sacramento Kings,Brooklyn Nets,"19-43, 9-20 Home","20-43, 8-22 Away",116,111,NULL,NULL,Final/OT,NULL,22,31,20,27,16,31,20,28,21,11,NBA
+72,400975709,2018,"Tue, Mar 6",Golden State Warriors,Brooklyn Nets,"50-14, 25-7 Home","20-45, 8-24 Away",114,101,NULL,NULL,Final,NULL,35,13,38,28,NULL,19,34,27,21,NULL,NBA
+73,400975745,2018,"Sun, Mar 11",Brooklyn Nets,Philadelphia 76ers,"21-46, 12-22 Home","36-29, 16-19 Away",97,120,NULL,NULL,Final,NULL,25,35,23,14,NULL,37,33,26,24,NULL,NBA
+74,400975776,2018,"Fri, Mar 16",Philadelphia 76ers,Brooklyn Nets,"38-30, 21-11 Home","21-48, 9-25 Away",120,116,NULL,NULL,Final,NULL,30,25,31,34,NULL,33,25,23,35,NULL,NBA
+75,400975799,2018,"Mon, Mar 19",Brooklyn Nets,Memphis Grizzlies,"23-48, 14-23 Home","19-51, 5-28 Away",118,115,NULL,NULL,Final,NULL,32,33,22,31,NULL,31,32,31,21,NULL,NBA
+76,400975828,2018,"Fri, Mar 23",Toronto Raptors,Brooklyn Nets,"54-19, 30-6 Home","23-50, 9-26 Away",116,112,NULL,NULL,Final,NULL,31,28,25,32,NULL,32,32,27,21,NULL,NBA
+77,400975863,2018,"Wed, Mar 28",Orlando Magic,Brooklyn Nets,"22-52, 15-22 Home","24-51, 10-26 Away",104,111,NULL,NULL,Final,NULL,33,18,30,23,NULL,36,22,27,26,NULL,NBA
+78,400975894,2018,"Sun, Apr 1",Brooklyn Nets,Detroit Pistons,"25-52, 14-26 Home","37-40, 13-26 Away",96,108,NULL,NULL,Final,NULL,28,20,22,26,NULL,33,29,21,25,NULL,NBA
+79,400975924,2018,"Thu, Apr 5",Milwaukee Bucks,Brooklyn Nets,"42-37, 24-16 Home","26-53, 12-27 Away",111,119,NULL,NULL,Final,NULL,24,21,36,30,NULL,30,22,31,36,NULL,NBA
+80,400975951,2018,"Mon, Apr 9",Brooklyn Nets,Chicago Bulls,"28-53, 15-26 Home","27-54, 10-31 Away",114,105,NULL,NULL,Final,NULL,29,33,24,28,NULL,26,29,28,22,NULL,NBA
+81,400975965,2018,"Wed, Apr 11",Boston Celtics,Brooklyn Nets,"55-27, 27-14 Home","28-54, 13-28 Away",110,97,NULL,NULL,Final,NULL,27,26,30,27,NULL,22,21,27,27,NULL,NBA

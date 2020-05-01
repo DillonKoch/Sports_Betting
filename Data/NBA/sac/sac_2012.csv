@@ -1,0 +1,67 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,311227022,2012,"Tue, Dec 27",Portland Trail Blazers,Sacramento Kings,"2-0, 2-0 Home","1-1, 0-1 Away",101,79,NULL,NULL,Final,NULL,23,23,28,27,NULL,25,21,19,14,NULL,NBA
+1,311231023,2012,"Sat, Dec 31",Sacramento Kings,New York Knicks,"1-3, 1-2 Home","2-2, 1-2 Away",92,114,NULL,NULL,Final,NULL,20,22,23,27,NULL,35,21,22,36,NULL,NBA
+2,320103029,2012,"Tue, Jan 3",Memphis Grizzlies,Sacramento Kings,"2-3, 2-1 Home","2-4, 0-2 Away",113,96,NULL,NULL,Final,NULL,31,21,35,26,NULL,17,33,18,28,NULL,NBA
+3,320105023,2012,"Thu, Jan 5",Sacramento Kings,Milwaukee Bucks,"3-5, 3-2 Home","2-4, 0-4 Away",103,100,NULL,NULL,Final,NULL,25,12,31,35,NULL,30,28,24,18,NULL,NBA
+4,320110020,2012,"Tue, Jan 10",Philadelphia 76ers,Sacramento Kings,"7-2, 4-0 Home","3-7, 0-4 Away",112,85,NULL,NULL,Final,CSN,26,26,32,28,NULL,22,20,18,25,NULL,NBA
+5,320113010,2012,"Fri, Jan 13",Houston Rockets,Sacramento Kings,"4-7, 3-1 Home","4-8, 1-5 Away",103,89,NULL,NULL,Final,NULL,26,24,31,22,NULL,28,24,20,17,NULL,NBA
+6,320116016,2012,"Mon, Jan 16",Minnesota Timberwolves,Sacramento Kings,"5-8, 3-5 Home","4-10, 1-7 Away",99,86,NULL,NULL,Final,NULL,28,14,25,32,NULL,22,24,16,24,NULL,NBA
+7,320120024,2012,"Fri, Jan 20",San Antonio Spurs,Sacramento Kings,"10-6, 9-1 Home","6-10, 2-7 Away",86,88,NULL,NULL,Final,NULL,20,27,20,19,NULL,32,18,23,15,NULL,NBA
+8,320123022,2012,"Mon, Jan 23",Portland Trail Blazers,Sacramento Kings,"10-7, 7-1 Home","6-12, 2-9 Away",101,89,NULL,NULL,Final,NULL,21,32,21,27,NULL,21,17,18,33,NULL,NBA
+9,320128026,2012,"Sat, Jan 28",Utah Jazz,Sacramento Kings,"11-7, 9-3 Home","6-14, 2-10 Away",96,93,NULL,NULL,Final,NBATV,27,22,29,18,NULL,26,21,20,26,NULL,NBA
+10,320202023,2012,"Thu, Feb 2",Sacramento Kings,Portland Trail Blazers,"7-15, 5-4 Home","13-10, 3-9 Away",95,92,NULL,NULL,Final,NULL,27,20,24,24,NULL,30,26,13,23,NULL,NBA
+11,320206003,2012,"Mon, Feb 6",New Orleans Hornets,Sacramento Kings,"4-21, 2-12 Home","9-15, 3-11 Away",92,100,NULL,NULL,Final,NULL,29,23,26,14,NULL,20,19,30,31,NULL,NBA
+12,320209023,2012,"Thu, Feb 9",Sacramento Kings,Oklahoma City Thunder,"10-16, 7-4 Home","20-6, 11-5 Away",106,101,NULL,NULL,Final,TNT,23,34,19,30,NULL,19,36,23,23,NULL,NBA
+13,320214004,2012,"Tue, Feb 14",Chicago Bulls,Sacramento Kings,"24-7, 10-1 Home","10-18, 3-13 Away",121,115,NULL,NULL,Final,NULL,27,29,32,33,NULL,24,28,25,38,NULL,NBA
+14,320217008,2012,"Fri, Feb 17",Detroit Pistons,Sacramento Kings,"10-22, 7-10 Home","10-20, 3-15 Away",114,108,NULL,NULL,Final,NULL,24,32,30,28,NULL,31,29,28,20,NULL,NBA
+15,320221014,2012,"Tue, Feb 21",Miami Heat,Sacramento Kings,"26-7, 14-2 Home","10-22, 3-17 Away",120,108,NULL,NULL,Final,NBATV,26,31,36,27,NULL,32,21,35,20,NULL,NBA
+16,320228023,2012,"Tue, Feb 28",Sacramento Kings,Utah Jazz,"12-22, 8-5 Home","15-18, 3-12 Away",103,96,NULL,NULL,Final,NULL,23,21,30,29,NULL,25,22,24,25,NULL,NBA
+17,320302013,2012,"Fri, Mar 2",Los Angeles Lakers,Sacramento Kings,"22-14, 16-2 Home","12-24, 4-18 Away",115,107,NULL,NULL,Final,NULL,31,34,27,23,NULL,26,32,16,33,NULL,NBA
+18,320305007,2012,"Mon, Mar 5",Denver Nuggets,Sacramento Kings,"22-17, 11-8 Home","12-26, 4-20 Away",119,116,NULL,NULL,Final/OT,NULL,24,29,32,23,11,26,27,26,29,8,NBA
+19,320309023,2012,"Fri, Mar 9",Sacramento Kings,Dallas Mavericks,"14-26, 10-6 Home","23-19, 8-12 Away",110,97,NULL,NULL,Final,NBATV,31,23,34,22,NULL,22,22,28,25,NULL,NBA
+20,320313023,2012,"Tue, Mar 13",Sacramento Kings,Golden State Warriors,"14-28, 10-8 Home","18-21, 8-11 Away",89,115,NULL,NULL,Final,NULL,24,25,24,16,NULL,29,25,30,31,NULL,NBA
+21,320316023,2012,"Fri, Mar 16",Sacramento Kings,Boston Celtics,"15-29, 11-9 Home","23-20, 7-12 Away",120,95,NULL,NULL,Final,NULL,26,26,41,27,NULL,20,31,23,21,NULL,NBA
+22,320320023,2012,"Tue, Mar 20",Sacramento Kings,Memphis Grizzlies,"17-29, 13-9 Home","25-19, 9-12 Away",119,110,NULL,NULL,Final,NULL,37,29,27,26,NULL,28,28,30,24,NULL,NBA
+23,320324009,2012,"Sat, Mar 24",Golden State Warriors,Sacramento Kings,"20-26, 11-13 Home","17-31, 4-21 Away",111,108,NULL,NULL,Final,NBATV,34,28,27,22,NULL,24,27,37,20,NULL,NBA
+24,320328023,2012,"Wed, Mar 28",Sacramento Kings,San Antonio Spurs,"17-33, 13-11 Home","35-14, 15-10 Away",112,117,NULL,NULL,Final,NBATV,22,27,29,34,NULL,27,26,28,36,NULL,NBA
+25,320331023,2012,"Sat, Mar 31",Sacramento Kings,New Jersey Nets,"18-34, 13-12 Home","19-35, 12-16 Away",99,111,NULL,NULL,Final,NBATV,35,21,20,23,NULL,31,28,32,20,NULL,NBA
+26,320403023,2012,"Tue, Apr 3",Sacramento Kings,Phoenix Suns,"19-35, 14-13 Home","27-26, 11-15 Away",100,109,NULL,NULL,Final,NULL,18,33,27,22,NULL,29,30,20,30,NULL,NBA
+27,320407012,2012,"Sat, Apr 7",LA Clippers,Sacramento Kings,"34-22, 21-9 Home","19-37, 5-23 Away",109,94,NULL,NULL,Final,NULL,29,27,26,27,NULL,22,29,23,20,NULL,NBA
+28,320410006,2012,"Tue, Apr 10",Dallas Mavericks,Sacramento Kings,"32-26, 21-10 Home","19-39, 5-24 Away",110,100,NULL,NULL,Final,NULL,25,32,26,27,NULL,27,23,27,23,NULL,NBA
+29,320413025,2012,"Fri, Apr 13",Oklahoma City Thunder,Sacramento Kings,"43-16, 25-6 Home","19-41, 5-26 Away",115,89,NULL,NULL,Final,NULL,23,35,28,29,NULL,21,18,24,26,NULL,NBA
+30,320418023,2012,"Wed, Apr 18",Sacramento Kings,San Antonio Spurs,"20-42, 15-16 Home","45-16, 20-11 Away",102,127,NULL,NULL,Final,NULL,28,29,29,16,NULL,29,29,39,30,NULL,NBA
+31,320422030,2012,"Sun, Apr 22",Charlotte Bobcats,Sacramento Kings,"7-56, 4-28 Home","21-43, 6-26 Away",88,114,NULL,NULL,Final,NULL,19,25,23,21,NULL,31,28,28,27,NULL,NBA
+32,311226023,2012,"Mon, Dec 26",Sacramento Kings,Los Angeles Lakers,"1-0, 1-0 Home","0-2, 0-1 Away",100,91,NULL,NULL,Final,NBATV,21,28,29,22,NULL,20,20,24,27,NULL,NBA
+33,311229023,2012,"Thu, Dec 29",Sacramento Kings,Chicago Bulls,"1-2, 1-1 Home","2-1, 2-1 Away",98,108,NULL,NULL,Final,NULL,24,29,22,23,NULL,30,30,25,23,NULL,NBA
+34,320101023,2012,"Sun, Jan 1",Sacramento Kings,New Orleans Hornets,"2-3, 2-2 Home","2-2, 1-1 Away",96,80,NULL,NULL,Final,NULL,21,17,30,28,NULL,22,18,18,22,NULL,NBA
+35,320104007,2012,"Wed, Jan 4",Denver Nuggets,Sacramento Kings,"5-2, 4-0 Home","2-5, 0-3 Away",110,83,NULL,NULL,Final,NULL,27,29,29,25,NULL,17,22,25,19,NULL,NBA
+36,320108023,2012,"Sun, Jan 8",Sacramento Kings,Orlando Magic,"3-6, 3-3 Home","6-3, 2-2 Away",97,104,NULL,NULL,Final,NULL,21,26,32,18,NULL,19,30,32,23,NULL,NBA
+37,320111028,2012,"Wed, Jan 11",Toronto Raptors,Sacramento Kings,"4-7, 2-3 Home","4-7, 1-4 Away",91,98,NULL,NULL,Final,NULL,19,21,23,28,NULL,23,18,22,35,NULL,NBA
+38,320114006,2012,"Sat, Jan 14",Dallas Mavericks,Sacramento Kings,"8-5, 6-2 Home","4-9, 1-6 Away",99,60,NULL,NULL,Final,NULL,27,25,20,27,NULL,11,12,22,15,NULL,NBA
+39,320118023,2012,"Wed, Jan 18",Sacramento Kings,Indiana Pacers,"5-10, 4-3 Home","9-4, 4-4 Away",92,88,NULL,NULL,Final,NULL,19,26,21,26,NULL,23,27,30,8,NULL,NBA
+40,320121029,2012,"Sat, Jan 21",Memphis Grizzlies,Sacramento Kings,"9-6, 6-2 Home","6-11, 2-8 Away",128,95,NULL,NULL,Final,NULL,34,34,34,26,NULL,21,39,16,19,NULL,NBA
+41,320125023,2012,"Wed, Jan 25",Sacramento Kings,Denver Nuggets,"6-13, 4-4 Home","13-5, 7-3 Away",93,122,NULL,NULL,Final,NBATV,26,17,22,28,NULL,32,34,28,28,NULL,NBA
+42,320131009,2012,"Tue, Jan 31",Golden State Warriors,Sacramento Kings,"7-12, 5-7 Home","6-15, 2-11 Away",93,90,NULL,NULL,Final,NULL,24,21,22,26,NULL,23,24,21,22,NULL,NBA
+43,320204023,2012,"Sat, Feb 4",Sacramento Kings,Golden State Warriors,"8-15, 6-4 Home","8-13, 2-6 Away",114,106,NULL,NULL,Final/OT,NBATV,27,26,34,15,12,28,26,22,26,4,NBA
+44,320207016,2012,"Tue, Feb 7",Minnesota Timberwolves,Sacramento Kings,"13-12, 7-8 Home","9-16, 3-12 Away",86,84,NULL,NULL,Final,NULL,31,17,21,17,NULL,16,20,24,24,NULL,NBA
+45,320211023,2012,"Sat, Feb 11",Sacramento Kings,Phoenix Suns,"10-17, 7-5 Home","12-15, 7-8 Away",84,98,NULL,NULL,Final,NBATV,24,20,16,24,NULL,31,22,22,23,NULL,NBA
+46,320215018,2012,"Wed, Feb 15",New York Knicks,Sacramento Kings,"15-15, 8-7 Home","10-19, 3-14 Away",100,85,NULL,NULL,Final,NULL,25,29,23,23,NULL,17,19,19,30,NULL,NBA
+47,320219005,2012,"Sun, Feb 19",Cleveland Cavaliers,Sacramento Kings,"12-17, 7-8 Home","10-21, 3-16 Away",93,92,NULL,NULL,Final,NULL,27,23,25,18,NULL,31,18,19,24,NULL,NBA
+48,320222027,2012,"Wed, Feb 22",Washington Wizards,Sacramento Kings,"7-26, 4-13 Home","11-22, 4-17 Away",107,115,NULL,NULL,Final,NULL,34,34,21,18,NULL,29,31,28,27,NULL,NBA
+49,320301023,2012,"Thu, Mar 1",Sacramento Kings,LA Clippers,"12-23, 8-6 Home","21-12, 9-7 Away",100,108,NULL,NULL,Final,NULL,25,32,22,21,NULL,28,29,28,23,NULL,NBA
+50,320304021,2012,"Sun, Mar 4",Phoenix Suns,Sacramento Kings,"17-20, 10-9 Home","12-25, 4-19 Away",96,88,NULL,NULL,Final,NULL,29,18,23,26,NULL,32,20,19,17,NULL,NBA
+51,320307023,2012,"Wed, Mar 7",Sacramento Kings,New Orleans Hornets,"13-26, 9-6 Home","9-30, 5-14 Away",99,98,NULL,NULL,Final,NBATV,29,29,20,21,NULL,27,27,26,18,NULL,NBA
+52,320311023,2012,"Sun, Mar 11",Sacramento Kings,Atlanta Hawks,"14-27, 10-7 Home","24-17, 12-11 Away",99,106,NULL,NULL,Final,NBATV,24,28,22,25,NULL,23,28,29,26,NULL,NBA
+53,320314023,2012,"Wed, Mar 14",Sacramento Kings,Detroit Pistons,"14-29, 10-9 Home","16-27, 4-16 Away",112,124,NULL,NULL,Final,NULL,32,26,23,31,NULL,25,32,40,27,NULL,NBA
+54,320318023,2012,"Sun, Mar 18",Sacramento Kings,Minnesota Timberwolves,"16-29, 12-9 Home","22-24, 10-12 Away",115,99,NULL,NULL,Final,NULL,28,29,33,25,NULL,31,26,25,17,NULL,NBA
+55,320322023,2012,"Thu, Mar 22",Sacramento Kings,Utah Jazz,"17-30, 13-10 Home","25-22, 7-16 Away",102,103,NULL,NULL,Final,NULL,26,22,29,25,NULL,30,28,29,16,NULL,NBA
+56,320326010,2012,"Mon, Mar 26",Houston Rockets,Sacramento Kings,"27-23, 19-7 Home","17-32, 4-22 Away",113,106,NULL,NULL,Final/OT,NULL,17,25,29,28,14,29,22,21,27,7,NBA
+57,320330026,2012,"Fri, Mar 30",Utah Jazz,Sacramento Kings,"27-25, 19-7 Home","18-33, 5-22 Away",103,104,NULL,NULL,Final,NULL,29,30,25,19,NULL,32,24,24,24,NULL,NBA
+58,320402023,2012,"Mon, Apr 2",Sacramento Kings,Minnesota Timberwolves,"19-34, 14-12 Home","25-30, 12-17 Away",116,108,NULL,NULL,Final,NULL,33,32,22,29,NULL,30,28,28,22,NULL,NBA
+59,320405023,2012,"Thu, Apr 5",Sacramento Kings,LA Clippers,"19-36, 14-14 Home","33-22, 13-13 Away",85,93,NULL,NULL,Final,NULL,23,19,20,23,NULL,27,21,19,26,NULL,NBA
+60,320408023,2012,"Sun, Apr 8",Sacramento Kings,Houston Rockets,"19-38, 14-15 Home","31-25, 11-17 Away",87,104,NULL,NULL,Final,NBATV,21,22,20,24,NULL,32,26,15,31,NULL,NBA
+61,320411003,2012,"Wed, Apr 11",New Orleans Hornets,Sacramento Kings,"16-42, 8-22 Home","19-40, 5-25 Away",105,96,NULL,NULL,Final,NULL,20,30,29,26,NULL,29,20,21,26,NULL,NBA
+62,320415023,2012,"Sun, Apr 15",Sacramento Kings,Portland Trail Blazers,"20-41, 15-15 Home","28-33, 8-21 Away",104,103,NULL,NULL,Final,NULL,22,24,33,25,NULL,28,26,27,22,NULL,NBA
+63,320420023,2012,"Fri, Apr 20",Sacramento Kings,Oklahoma City Thunder,"20-43, 15-17 Home","46-17, 21-11 Away",92,103,NULL,NULL,Final,NULL,25,24,21,22,NULL,32,25,24,22,NULL,NBA
+64,320424025,2012,"Tue, Apr 24",Oklahoma City Thunder,Sacramento Kings,"47-18, 26-6 Home","21-44, 6-27 Away",118,110,NULL,NULL,Final,NULL,35,22,25,36,NULL,40,19,27,24,NULL,NBA
+65,320426023,2012,"Thu, Apr 26",Sacramento Kings,Los Angeles Lakers,"22-44, 16-17 Home","41-25, 15-18 Away",113,96,NULL,NULL,Final,NULL,35,21,34,23,NULL,24,19,31,22,NULL,NBA

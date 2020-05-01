@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,151105021,1996,"Sun, Nov 5",Phoenix Suns,Houston Rockets,"0-2, 0-1 Home","2-0, 1-0 Away",104,106,NULL,NULL,Final,NULL,22,30,31,21,NULL,22,29,31,24,NULL,NBA
+1,151108014,1996,"Wed, Nov 8",Miami Heat,Houston Rockets,"2-0, 2-0 Home","3-1, 1-1 Away",89,82,NULL,NULL,Final,NULL,23,20,29,17,NULL,21,18,26,17,NULL,NBA
+2,151115028,1996,"Wed, Nov 15",Toronto Raptors,Houston Rockets,"1-7, 1-4 Home","5-1, 2-1 Away",93,96,NULL,NULL,Final,NULL,23,19,27,24,NULL,32,21,23,20,NULL,NBA
+3,151118010,1996,"Sat, Nov 18",Houston Rockets,Denver Nuggets,"7-1, 4-0 Home","1-8, 1-5 Away",101,97,NULL,NULL,Final,NULL,28,17,36,20,NULL,23,24,26,24,NULL,NBA
+4,151122020,1996,"Wed, Nov 22",Philadelphia 76ers,Houston Rockets,"2-7, 2-4 Home","9-1, 5-1 Away",106,115,NULL,NULL,Final,NULL,24,32,19,31,NULL,35,23,31,26,NULL,NBA
+5,151125018,1996,"Sat, Nov 25",New York Knicks,Houston Rockets,"10-2, 4-1 Home","10-2, 6-2 Away",103,88,NULL,NULL,Final,NULL,28,20,26,29,NULL,27,20,25,16,NULL,NBA
+6,151128010,1996,"Tue, Nov 28",Houston Rockets,Los Angeles Clippers,"11-3, 5-0 Home","7-7, 2-5 Away",116,103,NULL,NULL,Final,NULL,26,32,32,26,NULL,17,33,26,27,NULL,NBA
+7,151202010,1996,"Sat, Dec 2",Houston Rockets,Charlotte Hornets,"12-4, 6-1 Home","7-10, 2-8 Away",113,98,NULL,NULL,Final,NULL,29,33,26,25,NULL,24,28,27,19,NULL,NBA
+8,151206010,1996,"Wed, Dec 6",Houston Rockets,Los Angeles Lakers,"14-4, 7-1 Home","9-9, 2-7 Away",112,99,NULL,NULL,Final,NULL,29,28,28,27,NULL,24,29,14,32,NULL,NBA
+9,151210022,1996,"Sun, Dec 10",Portland Trail Blazers,Houston Rockets,"10-9, 7-4 Home","15-5, 7-4 Away",103,101,NULL,NULL,Final/2OT,NULL,23,25,17,21,17,20,15,24,27,15,NBA
+10,151213029,1996,"Wed, Dec 13",Vancouver Grizzlies,Houston Rockets,"2-19, 1-8 Home","17-5, 9-4 Away",89,100,NULL,NULL,Final,NULL,18,25,23,23,NULL,28,20,26,26,NULL,NBA
+11,151219010,1996,"Tue, Dec 19",Houston Rockets,Phoenix Suns,"18-6, 9-2 Home","9-12, 3-7 Away",103,96,NULL,NULL,Final,NULL,28,24,18,33,NULL,29,23,21,23,NULL,NBA
+12,151223024,1996,"Sat, Dec 23",San Antonio Spurs,Houston Rockets,"16-7, 10-3 Home","19-7, 9-5 Away",110,95,NULL,NULL,Final,NULL,31,27,23,29,NULL,21,30,19,25,NULL,NBA
+13,151226010,1996,"Tue, Dec 26",Houston Rockets,Vancouver Grizzlies,"20-8, 11-2 Home","4-24, 1-14 Away",100,84,NULL,NULL,Final,NULL,24,24,20,32,NULL,19,20,25,20,NULL,NBA
+14,151230006,1996,"Sat, Dec 30",Dallas Mavericks,Houston Rockets,"8-19, 5-7 Home","22-8, 10-6 Away",102,105,NULL,NULL,Final,NULL,23,19,17,43,NULL,27,26,20,32,NULL,NBA
+15,160103004,1996,"Wed, Jan 3",Chicago Bulls,Houston Rockets,"26-3, 16-0 Home","23-9, 11-7 Away",100,86,NULL,NULL,Final,NULL,15,32,28,25,NULL,18,12,24,32,NULL,NBA
+16,160109010,1996,"Tue, Jan 9",Houston Rockets,San Antonio Spurs,"24-10, 13-3 Home","21-9, 9-5 Away",82,88,NULL,NULL,Final,NULL,13,25,25,19,NULL,24,27,21,16,NULL,NBA
+17,160113012,1996,"Sat, Jan 13",Los Angeles Clippers,Houston Rockets,"15-21, 9-8 Home","25-11, 12-8 Away",104,115,NULL,NULL,Final,NULL,20,18,34,32,NULL,30,28,21,36,NULL,NBA
+18,160117007,1996,"Wed, Jan 17",Denver Nuggets,Houston Rockets,"16-22, 9-8 Home","27-11, 13-8 Away",112,120,NULL,NULL,Final,NULL,21,36,28,27,NULL,34,19,30,37,NULL,NBA
+19,160121010,1996,"Sun, Jan 21",Houston Rockets,Orlando Magic,"27-13, 14-5 Home","29-10, 9-10 Away",96,97,NULL,NULL,Final,NULL,22,23,24,27,NULL,23,27,22,25,NULL,NBA
+20,160124017,1996,"Wed, Jan 24",New Jersey Nets,Houston Rockets,"16-24, 12-7 Home","28-14, 14-9 Away",89,98,NULL,NULL,Final,NULL,26,17,12,34,NULL,25,27,19,27,NULL,NBA
+21,160127010,1996,"Sat, Jan 27",Houston Rockets,Detroit Pistons,"29-15, 15-5 Home","21-19, 8-12 Away",105,85,NULL,NULL,Final,NULL,19,23,33,30,NULL,19,19,21,26,NULL,NBA
+22,160201003,1996,"Thu, Feb 1",Charlotte Hornets,Houston Rockets,"21-22, 14-8 Home","30-16, 15-10 Away",111,116,NULL,NULL,Final,NULL,24,30,27,30,NULL,23,23,31,39,NULL,NBA
+23,160206025,1996,"Tue, Feb 6",Seattle SuperSonics,Houston Rockets,"34-12, 20-2 Home","30-18, 15-11 Away",99,94,NULL,NULL,Final,NULL,21,29,20,29,NULL,17,27,24,26,NULL,NBA
+24,160213010,1996,"Tue, Feb 13",Houston Rockets,Dallas Mavericks,"32-18, 16-7 Home","16-31, 6-18 Away",121,106,NULL,NULL,Final,NULL,30,35,27,29,NULL,23,24,30,29,NULL,NBA
+25,160218024,1996,"Sun, Feb 18",San Antonio Spurs,Houston Rockets,"33-16, 20-6 Home","33-19, 16-12 Away",93,79,NULL,NULL,Final,NULL,19,18,28,28,NULL,32,17,21,9,NULL,NBA
+26,160221016,1996,"Wed, Feb 21",Minnesota Timberwolves,Houston Rockets,"15-36, 10-14 Home","34-20, 16-13 Away",120,101,NULL,NULL,Final,NULL,23,34,29,34,NULL,27,32,19,23,NULL,NBA
+27,160224010,1996,"Sat, Feb 24",Houston Rockets,Los Angeles Lakers,"36-20, 19-7 Home","33-20, 12-13 Away",96,94,NULL,NULL,Final,NULL,26,24,15,31,NULL,17,25,32,20,NULL,NBA
+28,160229010,1996,"Thu, Feb 29",Houston Rockets,Philadelphia 76ers,"38-20, 21-7 Home","11-44, 5-24 Away",109,95,NULL,NULL,Final,NULL,25,27,23,34,NULL,23,20,30,22,NULL,NBA
+29,160305022,1996,"Tue, Mar 5",Portland Trail Blazers,Houston Rockets,"26-34, 15-14 Home","40-20, 19-13 Away",93,100,NULL,NULL,Final,NULL,21,24,25,23,NULL,30,25,19,26,NULL,NBA
+30,160308026,1996,"Fri, Mar 8",Utah Jazz,Houston Rockets,"42-17, 26-4 Home","40-22, 19-15 Away",109,89,NULL,NULL,Final,NULL,28,29,25,27,NULL,27,23,18,21,NULL,NBA
+31,160314010,1996,"Thu, Mar 14",Houston Rockets,Atlanta Hawks,"42-22, 22-7 Home","35-28, 14-17 Away",114,106,NULL,NULL,Final,NULL,29,24,33,28,NULL,29,30,17,30,NULL,NBA
+32,160319010,1996,"Tue, Mar 19",Houston Rockets,Golden State Warriors,"42-24, 22-9 Home","30-37, 11-24 Away",102,105,NULL,NULL,Final/OT,NULL,21,18,27,31,5,27,27,26,17,8,NBA
+33,160323010,1996,"Sat, Mar 23",Houston Rockets,Minnesota Timberwolves,"42-26, 22-11 Home","23-45, 8-26 Away",103,108,NULL,NULL,Final,NULL,21,24,22,36,NULL,24,26,29,29,NULL,NBA
+34,160327006,1996,"Wed, Mar 27",Dallas Mavericks,Houston Rockets,"22-48, 14-21 Home","42-28, 20-16 Away",117,114,NULL,NULL,Final,NULL,32,22,24,39,NULL,31,22,35,26,NULL,NBA
+35,160402009,1996,"Tue, Apr 2",Golden State Warriors,Houston Rockets,"31-42, 20-16 Home","43-29, 21-16 Away",106,112,NULL,NULL,Final,NULL,23,28,26,29,NULL,22,29,31,30,NULL,NBA
+36,160405023,1996,"Fri, Apr 5",Sacramento Kings,Houston Rockets,"34-39, 22-14 Home","43-31, 21-18 Away",96,91,NULL,NULL,Final,NULL,21,18,25,32,NULL,18,25,22,26,NULL,NBA
+37,160409010,1996,"Tue, Apr 9",Houston Rockets,Vancouver Grizzlies,"44-32, 23-13 Home","12-63, 3-35 Away",90,84,NULL,NULL,Final,NULL,22,22,17,29,NULL,17,19,30,18,NULL,NBA
+38,160413010,1996,"Sat, Apr 13",Houston Rockets,Dallas Mavericks,"46-32, 25-13 Home","24-54, 9-30 Away",112,111,NULL,NULL,Final,NULL,35,27,24,26,NULL,21,26,35,29,NULL,NBA
+39,160416021,1996,"Tue, Apr 16",Phoenix Suns,Houston Rockets,"40-39, 24-16 Home","46-34, 21-20 Away",111,100,NULL,NULL,Final,NULL,20,25,38,28,NULL,21,25,23,31,NULL,NBA
+40,151103010,1996,"Fri, Nov 3",Houston Rockets,Golden State Warriors,"1-0, 1-0 Home","0-1, 0-1 Away",110,92,NULL,NULL,Final,NULL,25,27,26,32,NULL,16,34,20,22,NULL,NBA
+41,151107010,1996,"Tue, Nov 7",Houston Rockets,Milwaukee Bucks,"3-0, 2-0 Home","1-2, 1-1 Away",106,89,NULL,NULL,Final,NULL,32,24,21,29,NULL,26,26,18,19,NULL,NBA
+42,151111010,1996,"Sat, Nov 11",Houston Rockets,Minnesota Timberwolves,"4-1, 3-0 Home","1-4, 0-3 Away",119,97,NULL,NULL,Final,NULL,31,33,24,31,NULL,27,25,19,26,NULL,NBA
+43,151116015,1996,"Thu, Nov 16",Milwaukee Bucks,Houston Rockets,"2-5, 1-2 Home","6-1, 3-1 Away",87,115,NULL,NULL,Final,NULL,24,20,23,20,NULL,27,34,33,21,NULL,NBA
+44,151120002,1996,"Mon, Nov 20",Boston Celtics,Houston Rockets,"3-5, 2-4 Home","8-1, 4-1 Away",93,98,NULL,NULL,Final,NULL,21,31,22,19,NULL,31,21,23,23,NULL,NBA
+45,151123011,1996,"Thu, Nov 23",Indiana Pacers,Houston Rockets,"5-4, 2-2 Home","10-1, 6-1 Away",108,115,NULL,NULL,Final,NULL,30,29,32,17,NULL,31,24,36,24,NULL,NBA
+46,151126008,1996,"Sun, Nov 26",Detroit Pistons,Houston Rockets,"5-6, 5-3 Home","10-3, 6-3 Away",102,100,NULL,NULL,Final,NULL,28,26,19,29,NULL,23,27,24,26,NULL,NBA
+47,151130010,1996,"Thu, Nov 30",Houston Rockets,Utah Jazz,"11-4, 5-1 Home","12-4, 6-3 Away",105,112,NULL,NULL,Final,NULL,17,23,34,31,NULL,24,29,33,26,NULL,NBA
+48,151205026,1996,"Tue, Dec 5",Utah Jazz,Houston Rockets,"12-5, 6-2 Home","13-4, 7-3 Away",100,103,NULL,NULL,Final,NULL,30,20,32,18,NULL,17,30,33,23,NULL,NBA
+49,151208010,1996,"Fri, Dec 8",Houston Rockets,Washington Bullets,"15-4, 8-1 Home","7-10, 1-6 Away",113,107,NULL,NULL,Final,NULL,31,29,20,33,NULL,33,27,19,28,NULL,NBA
+50,151212023,1996,"Tue, Dec 12",Sacramento Kings,Houston Rockets,"13-6, 8-4 Home","16-5, 8-4 Away",93,133,NULL,NULL,Final,NULL,27,10,28,28,NULL,28,31,42,32,NULL,NBA
+51,151215010,1996,"Fri, Dec 15",Houston Rockets,Sacramento Kings,"17-6, 8-2 Home","14-6, 6-2 Away",110,114,NULL,NULL,Final,NULL,26,32,25,27,NULL,26,25,22,41,NULL,NBA
+52,151221010,1996,"Thu, Dec 21",Houston Rockets,Portland Trail Blazers,"19-6, 10-2 Home","11-13, 3-8 Away",91,86,NULL,NULL,Final,NULL,19,29,19,24,NULL,21,18,26,21,NULL,NBA
+53,151225019,1996,"Mon, Dec 25",Orlando Magic,Houston Rockets,"22-6, 15-0 Home","19-8, 9-6 Away",92,90,NULL,NULL,Final,NULL,29,22,19,22,NULL,28,10,36,16,NULL,NBA
+54,151228010,1996,"Thu, Dec 28",Houston Rockets,New Jersey Nets,"21-8, 12-2 Home","10-16, 3-13 Away",97,82,NULL,NULL,Final,NULL,22,24,21,30,NULL,25,23,10,24,NULL,NBA
+55,160102016,1996,"Tue, Jan 2",Minnesota Timberwolves,Houston Rockets,"7-21, 5-9 Home","23-8, 11-6 Away",100,105,NULL,NULL,Final,NULL,19,26,26,29,NULL,24,23,24,34,NULL,NBA
+56,160106010,1996,"Sat, Jan 6",Houston Rockets,Indiana Pacers,"24-9, 13-2 Home","18-13, 8-10 Away",99,87,NULL,NULL,Final,NULL,31,20,25,23,NULL,19,22,20,26,NULL,NBA
+57,160112013,1996,"Fri, Jan 12",Los Angeles Lakers,Houston Rockets,"19-17, 14-5 Home","24-11, 11-8 Away",101,100,NULL,NULL,Final,NULL,34,19,30,18,NULL,20,33,30,17,NULL,NBA
+58,160115010,1996,"Mon, Jan 15",Houston Rockets,Utah Jazz,"26-11, 14-3 Home","22-13, 10-9 Away",107,99,NULL,NULL,Final,NULL,25,26,22,34,NULL,31,16,23,29,NULL,NBA
+59,160118010,1996,"Thu, Jan 18",Houston Rockets,Boston Celtics,"27-12, 14-4 Home","15-22, 6-10 Away",106,108,NULL,NULL,Final,NULL,25,29,32,20,NULL,39,28,17,24,NULL,NBA
+60,160122001,1996,"Mon, Jan 22",Atlanta Hawks,Houston Rockets,"22-17, 14-9 Home","27-14, 13-9 Away",105,96,NULL,NULL,Final,NULL,25,20,28,32,NULL,22,24,21,29,NULL,NBA
+61,160125027,1996,"Thu, Jan 25",Washington Bullets,Houston Rockets,"20-21, 14-6 Home","28-15, 14-10 Away",120,85,NULL,NULL,Final,NULL,37,34,22,27,NULL,24,24,14,23,NULL,NBA
+62,160130010,1996,"Tue, Jan 30",Houston Rockets,Chicago Bulls,"29-16, 15-6 Home","39-3, 17-3 Away",87,98,NULL,NULL,Final,NULL,28,16,27,16,NULL,22,32,19,25,NULL,NBA
+63,160203010,1996,"Sat, Feb 3",Houston Rockets,Seattle SuperSonics,"30-17, 15-7 Home","33-12, 14-10 Away",103,104,NULL,NULL,Final/OT,NULL,27,22,24,19,11,16,27,26,23,12,NBA
+64,160207012,1996,"Wed, Feb 7",Los Angeles Clippers,Houston Rockets,"16-31, 10-15 Home","31-18, 16-11 Away",102,110,NULL,NULL,Final,NULL,26,24,28,24,NULL,37,29,23,21,NULL,NBA
+65,160215010,1996,"Thu, Feb 15",Houston Rockets,San Antonio Spurs,"33-18, 17-7 Home","31-16, 13-10 Away",112,108,NULL,NULL,Final,NULL,32,31,26,23,NULL,22,26,35,25,NULL,NBA
+66,160219010,1996,"Mon, Feb 19",Houston Rockets,Sacramento Kings,"34-19, 18-7 Home","24-24, 9-16 Away",118,111,NULL,NULL,Final/OT,NULL,23,28,29,23,15,23,26,25,29,8,NBA
+67,160222005,1996,"Thu, Feb 22",Cleveland Cavaliers,Houston Rockets,"30-22, 18-9 Home","35-20, 17-13 Away",80,86,NULL,NULL,Final,NULL,17,22,24,17,NULL,21,17,25,23,NULL,NBA
+68,160227010,1996,"Tue, Feb 27",Houston Rockets,Toronto Raptors,"37-20, 20-7 Home","14-40, 4-24 Away",105,100,NULL,NULL,Final,NULL,25,31,22,27,NULL,28,25,21,26,NULL,NBA
+69,160303013,1996,"Sun, Mar 3",Los Angeles Lakers,Houston Rockets,"36-21, 23-8 Home","39-20, 18-13 Away",107,111,NULL,NULL,Final,NULL,21,27,30,29,NULL,31,28,28,24,NULL,NBA
+70,160307009,1996,"Thu, Mar 7",Golden State Warriors,Houston Rockets,"28-32, 18-10 Home","40-21, 19-14 Away",95,86,NULL,NULL,Final,NULL,18,19,33,25,NULL,21,17,26,22,NULL,NBA
+71,160310029,1996,"Sun, Mar 10",Vancouver Grizzlies,Houston Rockets,"11-48, 8-24 Home","41-22, 20-15 Away",89,95,NULL,NULL,Final,NULL,20,17,17,35,NULL,28,22,18,27,NULL,NBA
+72,160316010,1996,"Sat, Mar 16",Houston Rockets,Miami Heat,"42-23, 22-8 Home","32-33, 11-21 Away",97,121,NULL,NULL,Final,NULL,25,30,22,20,NULL,30,30,30,31,NULL,NBA
+73,160321010,1996,"Thu, Mar 21",Houston Rockets,Cleveland Cavaliers,"42-25, 22-10 Home","38-28, 16-16 Away",85,98,NULL,NULL,Final,NULL,22,23,16,24,NULL,26,28,16,28,NULL,NBA
+74,160326010,1996,"Tue, Mar 26",Houston Rockets,New York Knicks,"42-27, 22-12 Home","40-27, 17-16 Away",74,83,NULL,NULL,Final,NULL,17,13,29,15,NULL,24,28,13,18,NULL,NBA
+75,160330010,1996,"Sat, Mar 30",Houston Rockets,Portland Trail Blazers,"42-29, 22-13 Home","35-35, 13-21 Away",94,109,NULL,NULL,Final,NULL,30,23,21,20,NULL,28,28,25,28,NULL,NBA
+76,160403025,1996,"Wed, Apr 3",Seattle SuperSonics,Houston Rockets,"58-15, 34-3 Home","43-30, 21-17 Away",118,103,NULL,NULL,Final,NULL,26,31,32,29,NULL,20,25,30,28,NULL,NBA
+77,160407007,1996,"Sun, Apr 7",Denver Nuggets,Houston Rockets,"32-43, 22-15 Home","43-32, 21-19 Away",111,105,NULL,NULL,Final,NULL,18,29,32,32,NULL,21,33,30,21,NULL,NBA
+78,160411010,1996,"Thu, Apr 11",Houston Rockets,Denver Nuggets,"45-32, 24-13 Home","33-44, 10-29 Away",113,109,NULL,NULL,Final,NULL,31,29,28,25,NULL,27,33,28,21,NULL,NBA
+79,160415010,1996,"Mon, Apr 15",Houston Rockets,Seattle SuperSonics,"46-33, 25-14 Home","62-17, 26-14 Away",106,112,NULL,NULL,Final,NULL,22,31,27,26,NULL,28,28,27,29,NULL,NBA
+80,160418010,1996,"Thu, Apr 18",Houston Rockets,Los Angeles Clippers,"47-34, 26-14 Home","29-52, 10-31 Away",115,107,NULL,NULL,Final,NULL,29,26,29,31,NULL,32,28,27,20,NULL,NBA
+81,160421010,1996,"Sun, Apr 21",Houston Rockets,Phoenix Suns,"48-34, 27-14 Home","41-41, 16-25 Away",118,110,NULL,NULL,Final,NULL,33,26,27,32,NULL,23,29,32,26,NULL,NBA

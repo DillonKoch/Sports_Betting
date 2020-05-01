@@ -1,0 +1,81 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,191104003,2000,"Thu, Nov 4",Charlotte Hornets,Indiana Pacers,"2-0, 2-0 Home","1-1, 1-1 Away",98,89,NULL,NULL,Final,NULL,29,30,22,17,NULL,19,27,15,28,NULL,NBA
+1,191109014,2000,"Tue, Nov 9",Miami Heat,Indiana Pacers,"3-1, 2-0 Home","2-2, 1-2 Away",113,101,NULL,NULL,Final,NULL,40,24,33,16,NULL,28,27,23,23,NULL,NBA
+2,191113011,2000,"Sat, Nov 13",Indiana Pacers,Washington Wizards,"4-2, 3-0 Home","1-6, 0-3 Away",105,83,NULL,NULL,Final,NULL,23,31,28,23,NULL,15,26,15,27,NULL,NBA
+3,191116024,2000,"Tue, Nov 16",San Antonio Spurs,Indiana Pacers,"7-2, 4-0 Home","5-3, 2-3 Away",90,87,NULL,NULL,Final/OT,NULL,17,16,17,26,14,24,19,15,18,11,NBA
+4,191120005,2000,"Sat, Nov 20",Cleveland Cavaliers,Indiana Pacers,"4-5, 3-2 Home","6-4, 3-3 Away",98,107,NULL,NULL,Final,NULL,36,22,16,24,NULL,28,24,31,24,NULL,NBA
+5,191125011,2000,"Thu, Nov 25",Indiana Pacers,Detroit Pistons,"6-6, 3-2 Home","6-6, 2-4 Away",99,107,NULL,NULL,Final,NULL,29,30,20,20,NULL,27,25,22,33,NULL,NBA
+6,191128025,2000,"Sun, Nov 28",Seattle SuperSonics,Indiana Pacers,"11-3, 6-0 Home","7-7, 3-5 Away",102,91,NULL,NULL,Final,NULL,33,21,31,17,NULL,16,26,23,26,NULL,NBA
+7,191201029,2000,"Wed, Dec 1",Vancouver Grizzlies,Indiana Pacers,"3-12, 3-6 Home","9-7, 5-5 Away",89,96,NULL,NULL,Final,NULL,22,20,30,17,NULL,26,17,28,25,NULL,NBA
+8,191207011,2000,"Tue, Dec 7",Indiana Pacers,San Antonio Spurs,"11-7, 5-2 Home","14-6, 6-6 Away",83,77,NULL,NULL,Final,NULL,15,27,16,25,NULL,21,18,16,22,NULL,NBA
+9,191211011,2000,"Sat, Dec 11",Indiana Pacers,Los Angeles Clippers,"13-7, 7-2 Home","4-16, 2-8 Away",108,90,NULL,NULL,Final,NULL,23,36,20,29,NULL,22,24,25,19,NULL,NBA
+10,191215011,2000,"Wed, Dec 15",Indiana Pacers,Chicago Bulls,"14-8, 8-2 Home","2-17, 0-12 Away",102,91,NULL,NULL,Final,NULL,34,26,22,20,NULL,22,21,22,26,NULL,NBA
+11,191218015,2000,"Sat, Dec 18",Milwaukee Bucks,Indiana Pacers,"14-10, 7-5 Home","15-9, 6-7 Away",109,95,NULL,NULL,Final,NULL,25,31,24,29,NULL,32,20,25,18,NULL,NBA
+12,191225011,2000,"Sat, Dec 25",Indiana Pacers,New York Knicks,"17-9, 11-2 Home","17-11, 8-8 Away",101,90,NULL,NULL,Final,NULL,22,28,23,28,NULL,28,22,14,26,NULL,NBA
+13,191229001,2000,"Wed, Dec 29",Atlanta Hawks,Indiana Pacers,"11-17, 9-6 Home","19-9, 8-7 Away",89,116,NULL,NULL,Final,NULL,27,23,10,29,NULL,28,12,40,36,NULL,NBA
+14,200104011,2000,"Tue, Jan 4",Indiana Pacers,New Jersey Nets,"21-9, 13-2 Home","12-19, 2-11 Away",116,111,NULL,NULL,Final,NULL,30,33,31,22,NULL,28,17,32,34,NULL,NBA
+15,200108012,2000,"Sat, Jan 8",Los Angeles Clippers,Indiana Pacers,"10-22, 7-9 Home","22-10, 9-8 Away",107,94,NULL,NULL,Final,NULL,27,31,21,28,NULL,20,24,23,27,NULL,NBA
+16,200112011,2000,"Wed, Jan 12",Indiana Pacers,Washington Wizards,"23-11, 14-2 Home","12-24, 5-14 Away",117,102,NULL,NULL,Final,NULL,27,28,25,37,NULL,27,25,21,29,NULL,NBA
+17,200115019,2000,"Sat, Jan 15",Orlando Magic,Indiana Pacers,"16-22, 7-11 Home","25-11, 10-9 Away",89,96,NULL,NULL,Final,NULL,22,24,29,14,NULL,25,27,17,27,NULL,NBA
+18,200119011,2000,"Wed, Jan 19",Indiana Pacers,Milwaukee Bucks,"26-12, 16-2 Home","22-18, 9-12 Away",106,84,NULL,NULL,Final,NULL,32,29,17,28,NULL,27,27,16,14,NULL,NBA
+19,200122020,2000,"Sat, Jan 22",Philadelphia 76ers,Indiana Pacers,"24-17, 15-7 Home","26-14, 10-12 Away",103,97,NULL,NULL,Final,NULL,23,29,23,28,NULL,27,23,19,28,NULL,NBA
+20,200125011,2000,"Tue, Jan 25",Indiana Pacers,Phoenix Suns,"27-15, 17-2 Home","23-16, 6-11 Away",93,87,NULL,NULL,Final,NULL,19,28,25,21,NULL,22,20,18,27,NULL,NBA
+21,200201011,2000,"Tue, Feb 1",Indiana Pacers,Boston Celtics,"29-15, 19-2 Home","20-24, 4-18 Away",99,96,NULL,NULL,Final,NULL,26,27,22,24,NULL,23,22,27,24,NULL,NBA
+22,200205019,2000,"Sat, Feb 5",Orlando Magic,Indiana Pacers,"22-26, 10-12 Home","30-16, 10-14 Away",107,102,NULL,NULL,Final,NULL,30,23,16,38,NULL,20,30,23,29,NULL,NBA
+23,200209002,2000,"Wed, Feb 9",Boston Celtics,Indiana Pacers,"21-28, 17-9 Home","32-16, 11-14 Away",104,113,NULL,NULL,Final,NULL,30,23,28,23,NULL,28,27,30,28,NULL,NBA
+24,200217015,2000,"Thu, Feb 17",Milwaukee Bucks,Indiana Pacers,"27-25, 14-11 Home","34-16, 12-14 Away",90,92,NULL,NULL,Final,NULL,19,21,25,25,NULL,27,20,25,20,NULL,NBA
+25,200221011,2000,"Mon, Feb 21",Indiana Pacers,Dallas Mavericks,"35-17, 23-2 Home","22-30, 10-17 Away",94,93,NULL,NULL,Final,NULL,27,17,24,26,NULL,24,27,19,23,NULL,NBA
+26,200224011,2000,"Thu, Feb 24",Indiana Pacers,Chicago Bulls,"37-17, 24-2 Home","12-40, 4-22 Away",100,83,NULL,NULL,Final,NULL,22,23,26,29,NULL,30,14,21,18,NULL,NBA
+27,200229011,2000,"Tue, Feb 29",Indiana Pacers,Detroit Pistons,"39-17, 26-2 Home","28-28, 8-20 Away",115,105,NULL,NULL,Final,NULL,32,25,31,27,NULL,15,34,31,25,NULL,NBA
+28,200303013,2000,"Fri, Mar 3",Los Angeles Lakers,Indiana Pacers,"48-11, 27-4 Home","39-19, 13-17 Away",107,92,NULL,NULL,Final,NULL,30,26,24,27,NULL,16,23,27,26,NULL,NBA
+29,200307011,2000,"Tue, Mar 7",Indiana Pacers,Denver Nuggets,"41-19, 27-2 Home","26-33, 6-21 Away",90,89,NULL,NULL,Final,NULL,18,29,24,19,NULL,32,17,23,17,NULL,NBA
+30,200310005,2000,"Fri, Mar 10",Cleveland Cavaliers,Indiana Pacers,"25-36, 18-12 Home","43-19, 15-17 Away",92,95,NULL,NULL,Final,NULL,33,18,19,22,NULL,25,21,26,23,NULL,NBA
+31,200314006,2000,"Tue, Mar 14",Dallas Mavericks,Indiana Pacers,"26-37, 15-16 Home","43-21, 15-18 Away",111,90,NULL,NULL,Final,NULL,36,24,26,25,NULL,18,28,15,29,NULL,NBA
+32,200317011,2000,"Fri, Mar 17",Indiana Pacers,Houston Rockets,"45-21, 29-3 Home","24-41, 8-24 Away",111,102,NULL,NULL,Final,NULL,35,31,24,21,NULL,21,24,31,26,NULL,NBA
+33,200321011,2000,"Tue, Mar 21",Indiana Pacers,New York Knicks,"47-21, 31-3 Home","40-26, 13-18 Away",95,91,NULL,NULL,Final,NULL,22,29,20,24,NULL,25,26,26,14,NULL,NBA
+34,200326011,2000,"Sun, Mar 26",Indiana Pacers,Philadelphia 76ers,"47-23, 31-5 Home","41-28, 16-17 Away",101,111,NULL,NULL,Final,NULL,23,22,19,37,NULL,36,26,27,22,NULL,NBA
+35,200331011,2000,"Fri, Mar 31",Indiana Pacers,Minnesota Timberwolves,"48-24, 32-5 Home","44-28, 20-15 Away",109,85,NULL,NULL,Final,NULL,23,34,20,32,NULL,25,26,12,22,NULL,NBA
+36,200405011,2000,"Wed, Apr 5",Indiana Pacers,New Jersey Nets,"50-24, 33-5 Home","31-44, 9-28 Away",105,101,NULL,NULL,Final,NULL,25,24,30,26,NULL,20,23,22,36,NULL,NBA
+37,200409003,2000,"Sun, Apr 9",Charlotte Hornets,Indiana Pacers,"43-33, 28-11 Home","51-25, 17-20 Away",96,80,NULL,NULL,Final,NULL,27,30,20,19,NULL,18,22,27,13,NULL,NBA
+38,200412011,2000,"Wed, Apr 12",Indiana Pacers,Toronto Raptors,"52-26, 35-5 Home","43-35, 19-20 Away",77,73,NULL,NULL,Final,NULL,19,21,14,23,NULL,16,27,14,16,NULL,NBA
+39,200416008,2000,"Sun, Apr 16",Detroit Pistons,Indiana Pacers,"41-39, 26-14 Home","54-26, 19-21 Away",101,112,NULL,NULL,Final,NULL,22,28,28,23,NULL,33,28,26,25,NULL,NBA
+40,191102017,2000,"Tue, Nov 2",New Jersey Nets,Indiana Pacers,"0-1, 0-1 Home","1-0, 1-0 Away",112,119,NULL,NULL,Final,NULL,27,28,27,30,NULL,41,26,23,29,NULL,NBA
+41,191106011,2000,"Sat, Nov 6",Indiana Pacers,Boston Celtics,"2-1, 1-0 Home","3-1, 1-1 Away",115,108,NULL,NULL,Final,NULL,34,26,21,34,NULL,23,22,31,32,NULL,NBA
+42,191111011,2000,"Thu, Nov 11",Indiana Pacers,Orlando Magic,"3-2, 2-0 Home","4-3, 2-2 Away",116,101,NULL,NULL,Final,NULL,23,30,29,34,NULL,24,23,30,24,NULL,NBA
+43,191115010,2000,"Mon, Nov 15",Houston Rockets,Indiana Pacers,"2-6, 0-5 Home","5-2, 2-2 Away",87,96,NULL,NULL,Final,NULL,25,20,22,20,NULL,30,10,22,34,NULL,NBA
+44,191119011,2000,"Fri, Nov 19",Indiana Pacers,Atlanta Hawks,"5-4, 3-1 Home","3-6, 1-5 Away",99,105,NULL,NULL,Final,NULL,28,28,18,25,NULL,31,27,26,21,NULL,NBA
+45,191122002,2000,"Mon, Nov 22",Boston Celtics,Indiana Pacers,"7-4, 6-1 Home","6-5, 3-4 Away",95,85,NULL,NULL,Final,NULL,22,21,18,34,NULL,23,17,25,20,NULL,NBA
+46,191126011,2000,"Fri, Nov 26",Indiana Pacers,Vancouver Grizzlies,"7-6, 4-2 Home","3-9, 0-5 Away",105,86,NULL,NULL,Final,NULL,28,24,25,28,NULL,24,17,24,21,NULL,NBA
+47,191129022,2000,"Mon, Nov 29",Portland Trail Blazers,Indiana Pacers,"13-3, 5-1 Home","8-7, 4-5 Away",91,93,NULL,NULL,Final,NULL,26,18,28,19,NULL,23,25,24,21,NULL,NBA
+48,191203026,2000,"Fri, Dec 3",Utah Jazz,Indiana Pacers,"8-7, 6-3 Home","10-7, 6-5 Away",75,100,NULL,NULL,Final,NULL,23,17,19,16,NULL,27,28,25,20,NULL,NBA
+49,191210011,2000,"Fri, Dec 10",Indiana Pacers,Cleveland Cavaliers,"12-7, 6-2 Home","9-9, 2-6 Away",136,88,NULL,NULL,Final,NULL,42,27,37,30,NULL,25,23,17,23,NULL,NBA
+50,191214028,2000,"Tue, Dec 14",Toronto Raptors,Indiana Pacers,"13-8, 8-5 Home","13-8, 6-6 Away",105,97,NULL,NULL,Final,NULL,29,24,29,23,NULL,28,24,24,21,NULL,NBA
+51,191217011,2000,"Fri, Dec 17",Indiana Pacers,Utah Jazz,"15-8, 9-2 Home","15-8, 6-5 Away",89,74,NULL,NULL,Final,NULL,15,19,28,27,NULL,14,16,28,16,NULL,NBA
+52,191221011,2000,"Tue, Dec 21",Indiana Pacers,Seattle SuperSonics,"16-9, 10-2 Home","18-8, 8-5 Away",113,103,NULL,NULL,Final,NULL,26,29,30,28,NULL,24,22,24,33,NULL,NBA
+53,191227004,2000,"Mon, Dec 27",Chicago Bulls,Indiana Pacers,"2-23, 2-9 Home","18-9, 7-7 Away",91,103,NULL,NULL,Final,NULL,16,24,29,22,NULL,34,23,27,19,NULL,NBA
+54,191230011,2000,"Thu, Dec 30",Indiana Pacers,Charlotte Hornets,"20-9, 12-2 Home","18-11, 5-9 Away",109,99,NULL,NULL,Final,NULL,31,19,37,22,NULL,28,19,24,28,NULL,NBA
+55,200106007,2000,"Thu, Jan 6",Denver Nuggets,Indiana Pacers,"16-15, 13-5 Home","22-9, 9-7 Away",87,102,NULL,NULL,Final,NULL,25,20,29,13,NULL,23,25,28,26,NULL,NBA
+56,200109023,2000,"Sun, Jan 9",Sacramento Kings,Indiana Pacers,"19-12, 12-2 Home","22-11, 9-9 Away",116,113,NULL,NULL,Final,NULL,36,29,25,26,NULL,31,23,23,36,NULL,NBA
+57,200114011,2000,"Fri, Jan 14",Indiana Pacers,Los Angeles Lakers,"24-11, 15-2 Home","31-6, 13-4 Away",111,102,NULL,NULL,Final,NULL,33,24,18,36,NULL,30,28,19,25,NULL,NBA
+58,200117016,2000,"Mon, Jan 17",Minnesota Timberwolves,Indiana Pacers,"19-16, 12-8 Home","25-12, 10-10 Away",101,100,NULL,NULL,Final,NULL,29,16,22,34,NULL,28,20,29,23,NULL,NBA
+59,200121027,2000,"Fri, Jan 21",Washington Wizards,Indiana Pacers,"13-28, 8-13 Home","26-13, 10-11 Away",123,113,NULL,NULL,Final,NULL,33,23,31,36,NULL,27,34,32,20,NULL,NBA
+60,200124004,2000,"Mon, Jan 24",Chicago Bulls,Indiana Pacers,"8-30, 6-14 Home","26-15, 10-13 Away",83,82,NULL,NULL,Final,NULL,17,20,29,17,NULL,27,24,14,17,NULL,NBA
+61,200129011,2000,"Sat, Jan 29",Indiana Pacers,Miami Heat,"28-15, 18-2 Home","26-16, 12-10 Away",94,84,NULL,NULL,Final,NULL,36,20,23,15,NULL,18,27,26,13,NULL,NBA
+62,200204011,2000,"Fri, Feb 4",Indiana Pacers,Sacramento Kings,"30-15, 20-2 Home","28-17, 11-14 Away",104,94,NULL,NULL,Final,NULL,30,19,21,34,NULL,28,20,21,25,NULL,NBA
+63,200207011,2000,"Mon, Feb 7",Indiana Pacers,Philadelphia 76ers,"31-16, 21-2 Home","26-22, 10-14 Away",109,84,NULL,NULL,Final,CSN,23,39,24,23,NULL,24,20,24,16,NULL,NBA
+64,200216011,2000,"Wed, Feb 16",Indiana Pacers,Toronto Raptors,"33-16, 22-2 Home","27-22, 10-14 Away",109,101,NULL,NULL,Final,NULL,40,28,21,20,NULL,24,24,33,20,NULL,NBA
+65,200219018,2000,"Sat, Feb 19",New York Knicks,Indiana Pacers,"31-19, 20-5 Home","34-17, 12-15 Away",87,73,NULL,NULL,Final,NULL,21,25,24,17,NULL,17,22,14,20,NULL,NBA
+66,200223008,2000,"Wed, Feb 23",Detroit Pistons,Indiana Pacers,"26-27, 18-8 Home","36-17, 13-15 Away",111,118,NULL,NULL,Final,NULL,30,26,26,29,NULL,26,29,29,34,NULL,NBA
+67,200226011,2000,"Sat, Feb 26",Indiana Pacers,Golden State Warriors,"38-17, 25-2 Home","15-40, 6-22 Away",104,88,NULL,NULL,Final,NULL,25,27,24,28,NULL,23,20,21,24,NULL,NBA
+68,200302021,2000,"Thu, Mar 2",Phoenix Suns,Indiana Pacers,"36-21, 24-5 Home","39-18, 13-16 Away",118,87,NULL,NULL,Final,NULL,27,28,29,34,NULL,16,29,21,21,NULL,NBA
+69,200305009,2000,"Sun, Mar 5",Golden State Warriors,Indiana Pacers,"16-42, 10-19 Home","40-19, 14-17 Away",95,114,NULL,NULL,Final,NULL,31,22,17,25,NULL,34,25,25,30,NULL,NBA
+70,200309011,2000,"Thu, Mar 9",Indiana Pacers,Portland Trail Blazers,"42-19, 28-2 Home","46-15, 22-10 Away",127,119,NULL,NULL,Final/OT,NULL,33,27,29,17,21,25,29,32,20,13,NBA
+71,200312011,2000,"Sun, Mar 12",Indiana Pacers,Miami Heat,"43-20, 28-3 Home","39-23, 16-17 Away",96,105,NULL,NULL,Final,NULL,28,21,18,29,NULL,25,28,26,26,NULL,NBA
+72,200315001,2000,"Wed, Mar 15",Atlanta Hawks,Indiana Pacers,"24-39, 17-14 Home","44-21, 16-18 Away",107,113,NULL,NULL,Final,NULL,30,25,16,36,NULL,26,29,25,33,NULL,NBA
+73,200318011,2000,"Sat, Mar 18",Indiana Pacers,Charlotte Hornets,"46-21, 30-3 Home","35-30, 11-21 Away",113,99,NULL,NULL,Final,NULL,35,31,30,17,NULL,23,28,26,22,NULL,NBA
+74,200323011,2000,"Thu, Mar 23",Indiana Pacers,Milwaukee Bucks,"47-22, 31-4 Home","32-36, 14-20 Away",84,105,NULL,NULL,Final,NULL,19,21,28,16,NULL,33,29,23,20,NULL,NBA
+75,200328017,2000,"Tue, Mar 28",New Jersey Nets,Indiana Pacers,"30-40, 21-15 Home","47-24, 16-19 Away",111,106,NULL,NULL,Final,NULL,27,21,37,26,NULL,21,22,27,36,NULL,NBA
+76,200402028,2000,"Sun, Apr 2",Toronto Raptors,Indiana Pacers,"40-33, 23-14 Home","49-24, 17-19 Away",83,104,NULL,NULL,Final,NULL,20,19,22,22,NULL,26,28,23,27,NULL,NBA
+77,200407011,2000,"Fri, Apr 7",Indiana Pacers,Cleveland Cavaliers,"51-24, 34-5 Home","29-46, 9-29 Away",95,94,NULL,NULL,Final,NULL,24,34,21,16,NULL,28,18,23,25,NULL,NBA
+78,200410018,2000,"Mon, Apr 10",New York Knicks,Indiana Pacers,"48-29, 31-8 Home","51-26, 17-21 Away",83,81,NULL,NULL,Final,NULL,24,20,19,20,NULL,21,19,24,17,NULL,NBA
+79,200414014,2000,"Fri, Apr 14",Miami Heat,Indiana Pacers,"50-29, 31-8 Home","53-26, 18-21 Away",101,105,NULL,NULL,Final,NULL,33,22,20,26,NULL,28,30,23,24,NULL,NBA

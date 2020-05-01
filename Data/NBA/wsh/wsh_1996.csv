@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,151104027,1996,"Sat, Nov 4",Washington Bullets,Detroit Pistons,"1-1, 1-0 Home","0-2, 0-1 Away",100,89,NULL,NULL,Final,NULL,32,16,30,22,NULL,26,31,16,16,NULL,NBA
+1,151108027,1996,"Wed, Nov 8",Washington Bullets,Charlotte Hornets,"2-2, 2-0 Home","2-2, 0-2 Away",110,96,NULL,NULL,Final,NULL,27,32,24,27,NULL,28,24,27,17,NULL,NBA
+2,151115027,1996,"Wed, Nov 15",Washington Bullets,Philadelphia 76ers,"3-3, 3-1 Home","2-4, 0-2 Away",127,95,NULL,NULL,Final,NULL,33,32,33,29,NULL,21,22,21,31,NULL,NBA
+3,151118027,1996,"Sat, Nov 18",Washington Bullets,Toronto Raptors,"3-5, 3-2 Home","3-7, 1-3 Away",102,103,NULL,NULL,Final,NULL,19,23,28,32,NULL,24,33,20,26,NULL,NBA
+4,151124027,1996,"Fri, Nov 24",Washington Bullets,Miami Heat,"5-5, 4-2 Home","6-3, 1-2 Away",110,94,NULL,NULL,Final,NULL,16,40,31,23,NULL,19,26,28,21,NULL,NBA
+5,151128017,1996,"Tue, Nov 28",New Jersey Nets,Washington Bullets,"5-8, 5-0 Home","5-7, 1-4 Away",89,84,NULL,NULL,Final,NULL,29,20,20,20,NULL,16,26,24,18,NULL,NBA
+6,151202027,1996,"Sat, Dec 2",Washington Bullets,Boston Celtics,"6-8, 5-4 Home","5-9, 2-2 Away",135,107,NULL,NULL,Final,NULL,32,30,35,38,NULL,31,21,28,27,NULL,NBA
+7,151206027,1996,"Wed, Dec 6",Washington Bullets,Atlanta Hawks,"7-9, 6-4 Home","9-8, 5-5 Away",96,79,NULL,NULL,Final,NULL,20,31,20,25,NULL,24,12,23,20,NULL,NBA
+8,151209006,1996,"Sat, Dec 9",Dallas Mavericks,Washington Bullets,"6-12, 3-4 Home","8-10, 2-6 Away",94,103,NULL,NULL,Final,NULL,21,22,20,31,NULL,27,15,29,32,NULL,NBA
+9,151215027,1996,"Fri, Dec 15",Washington Bullets,Los Angeles Lakers,"10-10, 8-4 Home","12-11, 3-9 Away",122,114,NULL,NULL,Final,NULL,35,26,20,41,NULL,28,27,32,27,NULL,NBA
+10,151219012,1996,"Tue, Dec 19",Los Angeles Clippers,Washington Bullets,"8-16, 6-6 Home","12-10, 4-6 Away",104,108,NULL,NULL,Final,NULL,27,36,22,19,NULL,31,32,18,27,NULL,NBA
+11,151222009,1996,"Fri, Dec 22",Golden State Warriors,Washington Bullets,"10-15, 7-6 Home","12-12, 4-8 Away",132,117,NULL,NULL,Final,NULL,26,44,32,30,NULL,23,38,22,34,NULL,NBA
+12,151227027,1996,"Wed, Dec 27",Washington Bullets,Golden State Warriors,"13-13, 9-4 Home","10-17, 3-11 Away",115,94,NULL,NULL,Final,NULL,36,25,21,33,NULL,28,27,18,21,NULL,NBA
+13,151230015,1996,"Sat, Dec 30",Milwaukee Bucks,Washington Bullets,"10-17, 5-8 Home","15-13, 5-9 Away",87,96,NULL,NULL,Final,NULL,23,24,20,20,NULL,22,23,25,26,NULL,NBA
+14,160104027,1996,"Thu, Jan 4",Washington Bullets,Dallas Mavericks,"16-14, 11-5 Home","8-21, 3-13 Away",112,100,NULL,NULL,Final,NULL,24,29,33,26,NULL,33,19,26,22,NULL,NBA
+15,160108005,1996,"Mon, Jan 8",Cleveland Cavaliers,Washington Bullets,"18-13, 12-6 Home","16-16, 5-11 Away",109,91,NULL,NULL,Final,NULL,26,22,33,28,NULL,22,19,25,25,NULL,NBA
+16,160112027,1996,"Fri, Jan 12",Washington Bullets,Sacramento Kings,"18-16, 12-5 Home","19-12, 6-8 Away",117,88,NULL,NULL,Final,NULL,21,25,34,37,NULL,12,27,22,27,NULL,NBA
+17,160115027,1996,"Mon, Jan 15",Washington Bullets,Chicago Bulls,"18-18, 12-6 Home","31-3, 13-3 Away",109,116,NULL,NULL,Final,NULL,25,33,31,20,NULL,32,32,23,29,NULL,NBA
+18,160119027,1996,"Fri, Jan 19",Washington Bullets,New Jersey Nets,"19-19, 13-6 Home","15-22, 4-16 Away",93,87,NULL,NULL,Final,NULL,30,16,20,27,NULL,24,21,18,24,NULL,NBA
+19,160124003,1996,"Wed, Jan 24",Charlotte Hornets,Washington Bullets,"19-20, 12-7 Home","19-21, 6-15 Away",127,113,NULL,NULL,Final,NULL,30,30,30,37,NULL,30,22,21,40,NULL,NBA
+20,160127072,1996,"Sat, Jan 27",Washington Bullets,Vancouver Grizzlies,"21-21, 15-6 Home","10-32, 3-18 Away",102,77,NULL,NULL,Final,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NBA
+21,160204027,1996,"Sun, Feb 4",Washington Bullets,Phoenix Suns,"22-22, 16-7 Home","20-24, 10-12 Away",115,123,NULL,NULL,Final/OT,NULL,31,22,33,22,7,23,30,30,25,15,NBA
+22,160208001,1996,"Thu, Feb 8",Atlanta Hawks,Washington Bullets,"26-21, 17-10 Home","22-24, 6-17 Away",98,92,NULL,NULL,Final,NULL,29,23,23,23,NULL,26,25,20,21,NULL,NBA
+23,160215015,1996,"Thu, Feb 15",Milwaukee Bucks,Washington Bullets,"19-28, 11-14 Home","22-26, 6-19 Away",109,98,NULL,NULL,Final,NULL,28,27,27,27,NULL,25,29,20,24,NULL,NBA
+24,160218016,1996,"Sun, Feb 18",Minnesota Timberwolves,Washington Bullets,"14-35, 9-14 Home","23-27, 7-19 Away",96,108,NULL,NULL,Final,NULL,20,22,26,28,NULL,24,24,32,28,NULL,NBA
+25,160221003,1996,"Wed, Feb 21",Charlotte Hornets,Washington Bullets,"26-25, 19-9 Home","23-29, 7-20 Away",96,92,NULL,NULL,Final,NULL,28,15,29,24,NULL,33,27,14,18,NULL,NBA
+26,160225027,1996,"Sun, Feb 25",Washington Bullets,Milwaukee Bucks,"24-30, 17-10 Home","20-33, 9-17 Away",111,103,NULL,NULL,Final,NULL,27,29,23,32,NULL,25,21,23,34,NULL,NBA
+27,160228026,1996,"Wed, Feb 28",Utah Jazz,Washington Bullets,"38-17, 23-4 Home","24-32, 7-22 Away",115,93,NULL,NULL,Final,NULL,33,27,33,22,NULL,27,22,25,19,NULL,NBA
+28,160303023,1996,"Sun, Mar 3",Sacramento Kings,Washington Bullets,"25-30, 16-11 Home","25-33, 8-23 Away",99,108,NULL,NULL,Final,NULL,29,25,24,21,NULL,28,28,33,19,NULL,NBA
+29,160306027,1996,"Wed, Mar 6",Washington Bullets,Seattle SuperSonics,"27-33, 18-10 Home","46-13, 20-11 Away",99,88,NULL,NULL,Final,NULL,20,26,32,21,NULL,22,16,23,27,NULL,NBA
+30,160310027,1996,"Sun, Mar 10",Washington Bullets,Atlanta Hawks,"28-34, 19-11 Home","34-27, 14-16 Away",99,91,NULL,NULL,Final,NULL,20,22,27,30,NULL,22,24,18,27,NULL,NBA
+31,160314017,1996,"Thu, Mar 14",New Jersey Nets,Washington Bullets,"25-37, 16-13 Home","29-35, 10-24 Away",92,100,NULL,NULL,Final,NULL,27,20,17,28,NULL,25,20,27,28,NULL,NBA
+32,160320027,1996,"Wed, Mar 20",Washington Bullets,San Antonio Spurs,"30-36, 20-12 Home","47-18, 20-12 Away",101,112,NULL,NULL,Final,NULL,28,28,29,16,NULL,31,30,30,21,NULL,NBA
+33,160324027,1996,"Sun, Mar 24",Washington Bullets,Denver Nuggets,"31-37, 21-13 Home","28-40, 9-27 Away",92,90,NULL,NULL,Final,NULL,25,25,20,22,NULL,16,27,22,25,NULL,NBA
+34,160327027,1996,"Wed, Mar 27",Washington Bullets,Indiana Pacers,"32-38, 21-14 Home","43-27, 17-19 Away",93,99,NULL,NULL,Final,NULL,26,21,22,24,NULL,31,18,26,24,NULL,NBA
+35,160330027,1996,"Sat, Mar 30",Washington Bullets,Philadelphia 76ers,"33-39, 22-14 Home","14-58, 5-32 Away",107,105,NULL,NULL,Final,NULL,32,18,28,29,NULL,26,27,26,26,NULL,NBA
+36,160405024,1996,"Fri, Apr 5",San Antonio Spurs,Washington Bullets,"54-20, 30-7 Home","35-39, 13-25 Away",84,104,NULL,NULL,Final,NULL,24,23,21,16,NULL,34,24,25,21,NULL,NBA
+37,160410002,1996,"Wed, Apr 10",Boston Celtics,Washington Bullets,"30-47, 17-22 Home","37-39, 14-25 Away",108,122,NULL,NULL,Final,NULL,27,28,27,26,NULL,29,28,30,35,NULL,NBA
+38,160414027,1996,"Sun, Apr 14",Washington Bullets,Toronto Raptors,"39-39, 25-14 Home","20-58, 6-33 Away",110,97,NULL,NULL,Final,NULL,30,31,26,23,NULL,23,31,25,18,NULL,NBA
+39,160417027,1996,"Wed, Apr 17",Washington Bullets,Boston Celtics,"39-41, 25-15 Home","32-48, 14-26 Away",106,121,NULL,NULL,Final,NULL,25,27,26,28,NULL,32,25,23,41,NULL,NBA
+40,151103020,1996,"Fri, Nov 3",Philadelphia 76ers,Washington Bullets,"1-0, 1-0 Home","0-1, 0-1 Away",105,103,NULL,NULL,Final,NULL,32,23,24,26,NULL,24,31,21,27,NULL,NBA
+41,151106019,1996,"Mon, Nov 6",Orlando Magic,Washington Bullets,"2-1, 2-0 Home","1-2, 0-2 Away",105,95,NULL,NULL,Final,NULL,22,28,31,24,NULL,27,24,33,11,NULL,NBA
+42,151110027,1996,"Fri, Nov 10",Washington Bullets,New York Knicks,"2-3, 2-1 Home","4-1, 3-0 Away",109,110,NULL,NULL,Final,NULL,40,23,31,15,NULL,37,18,31,24,NULL,NBA
+43,151117002,1996,"Fri, Nov 17",Boston Celtics,Washington Bullets,"2-4, 2-3 Home","3-4, 0-3 Away",110,100,NULL,NULL,Final,NULL,35,30,18,27,NULL,27,27,22,24,NULL,NBA
+44,151122008,1996,"Wed, Nov 22",Detroit Pistons,Washington Bullets,"3-6, 3-3 Home","4-5, 1-3 Away",97,98,NULL,NULL,Final,NULL,30,25,15,27,NULL,29,31,19,19,NULL,NBA
+45,151125027,1996,"Sat, Nov 25",Washington Bullets,Orlando Magic,"5-6, 4-3 Home","11-2, 3-2 Away",112,114,NULL,NULL,Final,NULL,28,24,31,29,NULL,29,33,26,26,NULL,NBA
+46,151130027,1996,"Thu, Nov 30",Washington Bullets,Cleveland Cavaliers,"5-8, 4-4 Home","6-8, 3-4 Away",85,97,NULL,NULL,Final,NULL,18,25,28,14,NULL,30,16,30,21,NULL,NBA
+47,151203018,1996,"Sun, Dec 3",New York Knicks,Washington Bullets,"12-4, 5-2 Home","6-9, 1-5 Away",107,83,NULL,NULL,Final,NULL,27,25,29,26,NULL,16,18,21,28,NULL,NBA
+48,151208010,1996,"Fri, Dec 8",Houston Rockets,Washington Bullets,"15-4, 8-1 Home","7-10, 1-6 Away",113,107,NULL,NULL,Final,NULL,31,29,20,33,NULL,33,27,19,28,NULL,NBA
+49,151212027,1996,"Tue, Dec 12",Washington Bullets,Milwaukee Bucks,"9-10, 7-4 Home","6-12, 3-6 Away",108,102,NULL,NULL,Final,NULL,31,26,29,22,NULL,23,33,16,30,NULL,NBA
+50,151217022,1996,"Sun, Dec 17",Portland Trail Blazers,Washington Bullets,"11-11, 8-5 Home","11-10, 3-6 Away",100,112,NULL,NULL,Final,NULL,22,21,29,28,NULL,23,28,34,27,NULL,NBA
+51,151220021,1996,"Wed, Dec 20",Phoenix Suns,Washington Bullets,"10-12, 7-5 Home","12-11, 4-7 Away",106,104,NULL,NULL,Final/OT,NULL,22,26,28,20,10,29,29,21,17,8,NBA
+52,151223025,1996,"Sat, Dec 23",Seattle SuperSonics,Washington Bullets,"17-8, 11-1 Home","12-13, 4-9 Away",118,100,NULL,NULL,Final,NULL,29,34,29,26,NULL,34,19,22,25,NULL,NBA
+53,151229027,1996,"Fri, Dec 29",Washington Bullets,New York Knicks,"14-13, 10-4 Home","19-9, 8-5 Away",127,120,NULL,NULL,Final/OT,NULL,35,31,26,18,17,28,27,24,31,10,NBA
+54,160102027,1996,"Tue, Jan 2",Washington Bullets,Cleveland Cavaliers,"15-14, 10-5 Home","16-12, 6-6 Away",100,108,NULL,NULL,Final,NULL,21,24,27,28,NULL,17,32,31,28,NULL,NBA
+55,160106008,1996,"Sat, Jan 6",Detroit Pistons,Washington Bullets,"16-15, 12-6 Home","16-15, 5-10 Away",90,82,NULL,NULL,Final,NULL,27,21,31,11,NULL,17,21,14,30,NULL,NBA
+56,160110020,1996,"Wed, Jan 10",Philadelphia 76ers,Washington Bullets,"6-25, 4-11 Home","17-16, 6-11 Away",93,98,NULL,NULL,Final,NULL,28,20,23,22,NULL,32,21,17,28,NULL,NBA
+57,160113028,1996,"Sat, Jan 13",Toronto Raptors,Washington Bullets,"10-25, 8-10 Home","18-17, 6-12 Away",106,100,NULL,NULL,Final,NULL,33,27,27,19,NULL,23,24,29,24,NULL,NBA
+58,160117014,1996,"Wed, Jan 17",Miami Heat,Washington Bullets,"17-19, 11-5 Home","18-19, 6-13 Away",96,89,NULL,NULL,Final,NULL,21,24,26,25,NULL,19,22,22,26,NULL,NBA
+59,160121011,1996,"Sun, Jan 21",Indiana Pacers,Washington Bullets,"24-14, 14-3 Home","19-20, 6-14 Away",106,96,NULL,NULL,Final,NULL,34,29,21,22,NULL,29,22,24,21,NULL,NBA
+60,160125027,1996,"Thu, Jan 25",Washington Bullets,Houston Rockets,"20-21, 14-6 Home","28-15, 14-10 Away",120,85,NULL,NULL,Final,NULL,37,34,22,27,NULL,24,24,14,23,NULL,NBA
+61,160202027,1996,"Fri, Feb 2",Washington Bullets,Portland Trail Blazers,"22-21, 16-6 Home","21-24, 7-16 Away",113,97,NULL,NULL,Final,NULL,26,21,41,25,NULL,24,25,21,27,NULL,NBA
+62,160207018,1996,"Wed, Feb 7",New York Knicks,Washington Bullets,"30-16, 18-8 Home","22-23, 6-16 Away",87,82,NULL,NULL,Final,NULL,24,20,26,17,NULL,15,21,25,21,NULL,NBA
+63,160213004,1996,"Tue, Feb 13",Chicago Bulls,Washington Bullets,"43-5, 23-0 Home","22-25, 6-18 Away",111,98,NULL,NULL,Final,NULL,33,27,24,27,NULL,28,29,19,22,NULL,NBA
+64,160216027,1996,"Fri, Feb 16",Washington Bullets,Indiana Pacers,"22-27, 16-8 Home","32-18, 13-14 Away",94,95,NULL,NULL,Final,NULL,16,33,28,17,NULL,24,24,26,21,NULL,NBA
+65,160219027,1996,"Mon, Feb 19",Washington Bullets,New Jersey Nets,"23-28, 16-9 Home","22-29, 7-21 Away",81,99,NULL,NULL,Final,NULL,24,18,22,17,NULL,21,24,25,29,NULL,NBA
+66,160223027,1996,"Fri, Feb 23",Washington Bullets,Charlotte Hornets,"23-30, 16-10 Home","27-25, 8-16 Away",94,100,NULL,NULL,Final,NULL,26,26,24,18,NULL,21,23,26,30,NULL,NBA
+67,160227007,1996,"Tue, Feb 27",Denver Nuggets,Washington Bullets,"23-31, 15-10 Home","24-31, 7-21 Away",96,92,NULL,NULL,Final,NULL,19,28,23,26,NULL,18,18,24,32,NULL,NBA
+68,160301013,1996,"Fri, Mar 1",Los Angeles Lakers,Washington Bullets,"36-20, 23-7 Home","24-33, 7-23 Away",100,95,NULL,NULL,Final,NULL,41,24,14,21,NULL,29,27,21,18,NULL,NBA
+69,160304029,1996,"Mon, Mar 4",Vancouver Grizzlies,Washington Bullets,"11-45, 8-22 Home","26-33, 9-23 Away",81,96,NULL,NULL,Final,NULL,21,17,25,18,NULL,24,16,29,27,NULL,NBA
+70,160308027,1996,"Fri, Mar 8",Washington Bullets,Los Angeles Clippers,"27-34, 18-11 Home","21-39, 8-20 Away",89,92,NULL,NULL,Final,NULL,23,24,20,22,NULL,29,23,16,24,NULL,NBA
+71,160313004,1996,"Wed, Mar 13",Chicago Bulls,Washington Bullets,"55-7, 31-0 Home","28-35, 9-24 Away",103,86,NULL,NULL,Final,NULL,29,22,34,18,NULL,21,24,22,19,NULL,NBA
+72,160316027,1996,"Sat, Mar 16",Washington Bullets,Utah Jazz,"30-35, 20-11 Home","44-20, 18-16 Away",120,115,NULL,NULL,Final/OT,NULL,26,22,28,30,14,25,26,31,24,9,NBA
+73,160322027,1996,"Fri, Mar 22",Washington Bullets,Orlando Magic,"30-37, 20-13 Home","52-17, 19-17 Away",108,111,NULL,NULL,Final/OT,NULL,23,31,22,25,7,24,32,21,24,10,NBA
+74,160326005,1996,"Tue, Mar 26",Cleveland Cavaliers,Washington Bullets,"39-30, 23-13 Home","32-37, 11-24 Away",89,96,NULL,NULL,Final,NULL,27,26,18,18,NULL,21,24,29,22,NULL,NBA
+75,160329014,1996,"Fri, Mar 29",Miami Heat,Washington Bullets,"36-34, 23-13 Home","32-39, 11-25 Away",112,93,NULL,NULL,Final,NULL,30,25,28,29,NULL,22,19,28,24,NULL,NBA
+76,160404001,1996,"Thu, Apr 4",Atlanta Hawks,Washington Bullets,"41-32, 24-13 Home","34-39, 12-25 Away",110,113,NULL,NULL,Final,NULL,27,39,29,15,NULL,26,27,33,27,NULL,NBA
+77,160408027,1996,"Mon, Apr 8",Washington Bullets,Miami Heat,"36-39, 23-14 Home","37-38, 14-24 Away",111,99,NULL,NULL,Final,NULL,26,33,34,18,NULL,23,17,26,33,NULL,NBA
+78,160412027,1996,"Fri, Apr 12",Washington Bullets,Minnesota Timberwolves,"38-39, 24-14 Home","26-52, 9-30 Away",116,106,NULL,NULL,Final,NULL,38,25,22,31,NULL,24,28,22,32,NULL,NBA
+79,160416019,1996,"Tue, Apr 16",Orlando Magic,Washington Bullets,"57-22, 36-4 Home","39-40, 14-26 Away",113,95,NULL,NULL,Final,NULL,27,30,31,25,NULL,30,19,21,25,NULL,NBA
+80,160419028,1996,"Fri, Apr 19",Toronto Raptors,Washington Bullets,"21-60, 15-25 Home","39-42, 14-27 Away",107,103,NULL,NULL,Final,NULL,21,30,30,26,NULL,32,27,15,29,NULL,NBA
+81,160421027,1996,"Sun, Apr 21",Washington Bullets,Chicago Bulls,"39-43, 25-16 Home","72-10, 33-8 Away",93,103,NULL,NULL,Final,NULL,22,30,23,18,NULL,31,20,29,23,NULL,NBA

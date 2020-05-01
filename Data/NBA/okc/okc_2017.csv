@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,400899455,2017,"Fri, Oct 28",Oklahoma City Thunder,Phoenix Suns,"2-0, 1-0 Home","0-2, 0-1 Away",113,110,NULL,NULL,Final/OT,NULL,25,24,28,25,11,40,13,30,19,8,NBA
+1,400899514,2017,"Wed, Nov 2",LA Clippers,Oklahoma City Thunder,"3-1, 2-1 Home","4-0, 2-0 Away",83,85,NULL,NULL,Final,ESPN,24,17,25,17,NULL,23,26,16,20,NULL,NBA
+2,400899529,2017,"Sat, Nov 5",Oklahoma City Thunder,Minnesota Timberwolves,"5-1, 3-0 Home","1-4, 0-3 Away",112,92,NULL,NULL,Final,NULL,32,27,31,22,NULL,25,28,19,20,NULL,NBA
+3,400899562,2017,"Wed, Nov 9",Oklahoma City Thunder,Toronto Raptors,"6-2, 4-1 Home","5-2, 2-0 Away",102,112,NULL,NULL,Final,NULL,27,28,20,27,NULL,20,42,26,24,NULL,NBA
+4,400899591,2017,"Sun, Nov 13",Oklahoma City Thunder,Orlando Magic,"6-4, 4-3 Home","4-6, 2-3 Away",117,119,NULL,NULL,Final,NULL,13,34,37,33,NULL,27,30,25,37,NULL,NBA
+5,400899614,2017,"Wed, Nov 16",Oklahoma City Thunder,Houston Rockets,"7-5, 5-3 Home","6-5, 4-4 Away",105,103,NULL,NULL,Final,NULL,38,27,20,20,NULL,32,31,27,13,NULL,NBA
+6,400899645,2017,"Sun, Nov 20",Oklahoma City Thunder,Indiana Pacers,"8-6, 6-4 Home","7-7, 1-5 Away",111,115,NULL,NULL,Final/OT,NULL,21,33,16,33,8,30,28,21,24,12,NBA
+7,400899674,2017,"Wed, Nov 23",Sacramento Kings,Oklahoma City Thunder,"6-9, 4-4 Home","8-8, 2-4 Away",116,101,NULL,NULL,Final,NULL,27,24,36,29,NULL,27,21,27,26,NULL,NBA
+8,400899692,2017,"Sat, Nov 26",Oklahoma City Thunder,Detroit Pistons,"10-8, 7-4 Home","8-10, 1-8 Away",106,88,NULL,NULL,Final,NULL,29,27,21,29,NULL,19,27,22,20,NULL,NBA
+9,400899720,2017,"Wed, Nov 30",Oklahoma City Thunder,Washington Wizards,"12-8, 8-4 Home","6-11, 1-6 Away",126,115,NULL,NULL,Final/OT,NULL,32,28,24,21,21,19,34,31,21,10,NBA
+10,400899749,2017,"Mon, Dec 5",Atlanta Hawks,Oklahoma City Thunder,"10-12, 6-4 Home","14-8, 5-4 Away",99,102,NULL,NULL,Final,NULL,21,33,15,30,NULL,23,32,28,19,NULL,NBA
+11,400899799,2017,"Sun, Dec 11",Oklahoma City Thunder,Boston Celtics,"15-9, 10-5 Home","13-11, 8-6 Away",99,96,NULL,NULL,Final,NULL,21,18,28,32,NULL,24,19,28,25,NULL,NBA
+12,400899824,2017,"Wed, Dec 14",Utah Jazz,Oklahoma City Thunder,"16-10, 9-5 Home","15-11, 5-6 Away",109,89,NULL,NULL,Final,NULL,26,29,25,29,NULL,21,20,27,21,NULL,NBA
+13,400899857,2017,"Mon, Dec 19",Oklahoma City Thunder,Atlanta Hawks,"16-12, 11-6 Home","14-14, 7-8 Away",108,110,NULL,NULL,Final,NULL,16,37,25,30,NULL,22,26,33,29,NULL,NBA
+14,400899887,2017,"Fri, Dec 23",Boston Celtics,Oklahoma City Thunder,"17-13, 6-6 Home","18-12, 7-6 Away",112,117,NULL,NULL,Final,NBATV,28,26,25,33,NULL,25,33,30,29,NULL,NBA
+15,400899915,2017,"Tue, Dec 27",Miami Heat,Oklahoma City Thunder,"10-22, 5-12 Home","20-12, 8-6 Away",94,106,NULL,NULL,Final,NBATV,19,29,21,25,NULL,33,28,26,19,NULL,NBA
+16,400899949,2017,"Sat, Dec 31",Oklahoma City Thunder,LA Clippers,"21-13, 13-6 Home","22-14, 11-8 Away",114,88,NULL,NULL,Final,NULL,33,36,27,18,NULL,12,28,28,20,NULL,NBA
+17,400899950,2017,"Wed, Jan 4",Charlotte Hornets,Oklahoma City Thunder,"20-16, 12-7 Home","21-15, 8-9 Away",123,112,NULL,NULL,Final,NULL,27,33,27,36,NULL,22,33,33,24,NULL,NBA
+18,400899976,2017,"Sat, Jan 7",Oklahoma City Thunder,Denver Nuggets,"22-16, 14-6 Home","14-23, 7-12 Away",121,106,NULL,NULL,Final,NULL,24,36,28,33,NULL,22,38,20,26,NULL,NBA
+19,400900002,2017,"Wed, Jan 11",Oklahoma City Thunder,Memphis Grizzlies,"24-16, 15-6 Home","24-17, 10-10 Away",103,95,NULL,NULL,Final,ESPN,28,27,20,28,NULL,22,22,23,28,NULL,NBA
+20,400900031,2017,"Sun, Jan 15",Sacramento Kings,Oklahoma City Thunder,"16-24, 8-12 Home","25-17, 10-11 Away",118,122,NULL,NULL,Final,NULL,23,23,33,39,NULL,28,31,29,34,NULL,NBA
+21,400900055,2017,"Wed, Jan 18",Golden State Warriors,Oklahoma City Thunder,"36-6, 20-3 Home","25-19, 10-13 Away",121,100,NULL,NULL,Final,ESPN,30,26,37,28,NULL,31,25,22,22,NULL,NBA
+22,400900107,2017,"Wed, Jan 25",New Orleans Pelicans,Oklahoma City Thunder,"18-28, 12-13 Home","27-19, 12-13 Away",105,114,NULL,NULL,Final,NULL,20,25,37,23,NULL,33,31,28,22,NULL,NBA
+23,400900133,2017,"Sun, Jan 29",Cleveland Cavaliers,Oklahoma City Thunder,"32-14, 21-5 Home","28-20, 12-14 Away",107,91,NULL,NULL,Final,ABC,21,37,22,27,NULL,24,21,20,26,NULL,NBA
+24,400899433,2017,"Wed, Feb 1",Oklahoma City Thunder,Chicago Bulls,"28-22, 16-7 Home","25-25, 10-14 Away",100,128,NULL,NULL,Final,ESPN,20,27,26,27,NULL,21,34,39,34,NULL,NBA
+25,400900172,2017,"Sun, Feb 5",Oklahoma City Thunder,Portland Trail Blazers,"30-22, 18-7 Home","22-30, 8-19 Away",105,99,NULL,NULL,Final,NULL,24,22,25,34,NULL,16,36,21,26,NULL,NBA
+26,400900201,2017,"Thu, Feb 9",Oklahoma City Thunder,Cleveland Cavaliers,"31-23, 19-7 Home","36-16, 14-11 Away",118,109,NULL,NULL,Final,TNT,29,26,31,32,NULL,21,36,25,27,NULL,NBA
+27,400900225,2017,"Mon, Feb 13",Washington Wizards,Oklahoma City Thunder,"33-21, 24-7 Home","31-25, 12-17 Away",120,98,NULL,NULL,Final,TNT,38,29,34,19,NULL,32,22,19,25,NULL,NBA
+28,400900267,2017,"Fri, Feb 24",Oklahoma City Thunder,Los Angeles Lakers,"33-25, 21-8 Home","19-40, 7-26 Away",110,93,NULL,NULL,Final,NULL,29,29,28,24,NULL,23,28,19,23,NULL,NBA
+29,400900299,2017,"Tue, Feb 28",Oklahoma City Thunder,Utah Jazz,"35-25, 23-8 Home","37-23, 17-12 Away",109,106,NULL,NULL,Final,NULL,31,30,25,23,NULL,25,28,22,31,NULL,NBA
+30,400900311,2017,"Fri, Mar 3",Phoenix Suns,Oklahoma City Thunder,"20-42, 12-18 Home","35-27, 12-19 Away",118,111,NULL,NULL,Final,NULL,23,35,29,31,NULL,28,27,24,32,NULL,NBA
+31,400900341,2017,"Tue, Mar 7",Oklahoma City Thunder,Portland Trail Blazers,"35-29, 23-9 Home","27-35, 11-22 Away",121,126,NULL,NULL,Final,NBATV,40,27,25,29,NULL,29,32,38,27,NULL,NBA
+32,400900368,2017,"Sat, Mar 11",Oklahoma City Thunder,Utah Jazz,"37-29, 25-9 Home","41-25, 19-13 Away",112,104,NULL,NULL,Final,NULL,29,33,29,21,NULL,23,25,28,28,NULL,NBA
+33,400900410,2017,"Thu, Mar 16",Toronto Raptors,Oklahoma City Thunder,"39-29, 22-12 Home","39-29, 14-20 Away",102,123,NULL,NULL,Final,NULL,24,24,22,32,NULL,29,29,39,26,NULL,NBA
+34,400900444,2017,"Mon, Mar 20",Oklahoma City Thunder,Golden State Warriors,"40-30, 26-10 Home","56-14, 27-10 Away",95,111,NULL,NULL,Final,TNT,22,17,27,29,NULL,25,34,33,19,NULL,NBA
+35,400900486,2017,"Sun, Mar 26",Houston Rockets,Oklahoma City Thunder,"51-22, 28-9 Home","41-31, 14-21 Away",137,125,NULL,NULL,Final,ABC,37,42,34,24,NULL,31,28,29,37,NULL,NBA
+36,400900507,2017,"Wed, Mar 29",Orlando Magic,Oklahoma City Thunder,"27-48, 14-24 Home","43-31, 16-21 Away",106,114,NULL,NULL,Final/OT,NBATV,18,31,33,20,4,20,24,28,30,12,NBA
+37,400899406,2017,"Sun, Apr 2",Oklahoma City Thunder,Charlotte Hornets,"43-33, 27-12 Home","36-41, 14-24 Away",101,113,NULL,NULL,Final,NULL,22,32,16,31,NULL,31,28,25,29,NULL,NBA
+38,400900545,2017,"Wed, Apr 5",Memphis Grizzlies,Oklahoma City Thunder,"42-37, 23-15 Home","45-33, 17-21 Away",100,103,NULL,NULL,Final,NULL,27,23,24,26,NULL,34,23,22,24,NULL,NBA
+39,400900576,2017,"Sun, Apr 9",Denver Nuggets,Oklahoma City Thunder,"38-42, 22-19 Home","46-34, 18-22 Away",105,106,NULL,NULL,Final,NULL,26,27,38,14,NULL,27,25,29,25,NULL,NBA
+40,400899389,2017,"Wed, Oct 26",Philadelphia 76ers,Oklahoma City Thunder,"0-1, 0-1 Home","1-0, 1-0 Away",97,103,NULL,NULL,Final,ESPN,24,27,24,22,NULL,23,28,18,34,NULL,NBA
+41,400899490,2017,"Sun, Oct 30",Oklahoma City Thunder,Los Angeles Lakers,"3-0, 2-0 Home","1-2, 0-2 Away",113,96,NULL,NULL,Final,NULL,30,28,19,36,NULL,24,22,25,25,NULL,NBA
+42,400899519,2017,"Thu, Nov 3",Golden State Warriors,Oklahoma City Thunder,"4-1, 1-1 Home","4-1, 2-1 Away",122,96,NULL,NULL,Final,TNT,31,37,30,24,NULL,32,11,27,26,NULL,NBA
+43,400899547,2017,"Mon, Nov 7",Oklahoma City Thunder,Miami Heat,"6-1, 4-0 Home","2-4, 1-2 Away",97,85,NULL,NULL,Final,NULL,39,16,28,14,NULL,28,19,14,24,NULL,NBA
+44,400899576,2017,"Fri, Nov 11",Oklahoma City Thunder,LA Clippers,"6-3, 4-2 Home","8-1, 4-0 Away",108,110,NULL,NULL,Final,NBATV,24,26,24,34,NULL,16,34,32,28,NULL,NBA
+45,400899597,2017,"Mon, Nov 14",Detroit Pistons,Oklahoma City Thunder,"6-5, 5-0 Home","6-5, 2-2 Away",104,88,NULL,NULL,Final,NULL,28,31,19,26,NULL,25,22,21,20,NULL,NBA
+46,400899628,2017,"Fri, Nov 18",Oklahoma City Thunder,Brooklyn Nets,"8-5, 6-3 Home","4-8, 1-6 Away",124,105,NULL,NULL,Final,NULL,34,30,32,28,NULL,40,21,21,23,NULL,NBA
+47,400899661,2017,"Tue, Nov 22",Los Angeles Lakers,Oklahoma City Thunder,"8-7, 5-3 Home","8-7, 2-3 Away",111,109,NULL,NULL,Final,NBATV,29,20,31,31,NULL,16,32,26,35,NULL,NBA
+48,400899685,2017,"Fri, Nov 25",Denver Nuggets,Oklahoma City Thunder,"6-10, 3-5 Home","9-8, 3-4 Away",129,132,NULL,NULL,Final/OT,NULL,30,33,26,33,7,31,31,22,38,10,NBA
+49,400899705,2017,"Mon, Nov 28",New York Knicks,Oklahoma City Thunder,"8-9, 7-3 Home","11-8, 4-4 Away",103,112,NULL,NULL,Final,NULL,29,26,26,22,NULL,24,34,30,24,NULL,NBA
+50,400899743,2017,"Sun, Dec 4",Oklahoma City Thunder,New Orleans Pelicans,"13-8, 9-4 Home","7-14, 2-8 Away",101,92,NULL,NULL,Final,NULL,29,20,29,23,NULL,26,15,25,26,NULL,NBA
+51,400899783,2017,"Fri, Dec 9",Oklahoma City Thunder,Houston Rockets,"14-9, 9-5 Home","16-7, 10-5 Away",99,102,NULL,NULL,Final,ESPN,23,26,28,22,NULL,25,30,31,16,NULL,NBA
+52,400899815,2017,"Tue, Dec 13",Portland Trail Blazers,Oklahoma City Thunder,"13-14, 8-4 Home","15-10, 5-5 Away",114,95,NULL,NULL,Final,ESPN,32,36,24,22,NULL,31,21,19,24,NULL,NBA
+53,400899841,2017,"Sat, Dec 17",Oklahoma City Thunder,Phoenix Suns,"16-11, 11-5 Home","8-19, 4-11 Away",114,101,NULL,NULL,Final,NULL,30,24,35,25,NULL,20,19,30,32,NULL,NBA
+54,400899875,2017,"Wed, Dec 21",New Orleans Pelicans,Oklahoma City Thunder,"10-21, 6-10 Home","17-12, 6-6 Away",110,121,NULL,NULL,Final,NULL,28,30,26,26,NULL,34,29,24,34,NULL,NBA
+55,400899901,2017,"Sun, Dec 25",Oklahoma City Thunder,Minnesota Timberwolves,"19-12, 12-6 Home","9-21, 5-10 Away",112,100,NULL,NULL,Final,ESPN,23,34,29,26,NULL,27,26,22,25,NULL,NBA
+56,400899929,2017,"Thu, Dec 29",Memphis Grizzlies,Oklahoma City Thunder,"21-14, 13-7 Home","20-13, 8-7 Away",114,80,NULL,NULL,Final,NULL,27,28,23,36,NULL,21,18,22,19,NULL,NBA
+57,400899410,2017,"Mon, Jan 2",Milwaukee Bucks,Oklahoma City Thunder,"17-16, 11-7 Home","21-14, 8-8 Away",98,94,NULL,NULL,Final,NULL,22,28,29,19,NULL,30,26,16,22,NULL,NBA
+58,400899961,2017,"Thu, Jan 5",Houston Rockets,Oklahoma City Thunder,"28-9, 15-3 Home","21-16, 8-10 Away",118,116,NULL,NULL,Final,TNT,33,34,30,21,NULL,38,18,27,33,NULL,NBA
+59,400899990,2017,"Mon, Jan 9",Chicago Bulls,Oklahoma City Thunder,"19-19, 12-8 Home","23-16, 9-10 Away",94,109,NULL,NULL,Final,NULL,20,26,21,27,NULL,26,35,28,20,NULL,NBA
+60,400900017,2017,"Fri, Jan 13",Minnesota Timberwolves,Oklahoma City Thunder,"14-26, 9-13 Home","24-17, 9-11 Away",96,86,NULL,NULL,Final,NULL,30,15,29,22,NULL,28,22,18,18,NULL,NBA
+61,400900042,2017,"Mon, Jan 16",LA Clippers,Oklahoma City Thunder,"29-14, 17-6 Home","25-18, 10-12 Away",120,98,NULL,NULL,Final,TNT,34,30,32,24,NULL,25,22,28,23,NULL,NBA
+62,400900094,2017,"Mon, Jan 23",Utah Jazz,Oklahoma City Thunder,"29-17, 16-8 Home","26-19, 11-13 Away",95,97,NULL,NULL,Final,NULL,26,27,19,23,NULL,27,29,11,30,NULL,NBA
+63,400900111,2017,"Thu, Jan 26",Oklahoma City Thunder,Dallas Mavericks,"28-19, 16-6 Home","16-30, 6-18 Away",109,98,NULL,NULL,Final,TNT,23,30,34,22,NULL,26,29,18,25,NULL,NBA
+64,400900148,2017,"Tue, Jan 31",San Antonio Spurs,Oklahoma City Thunder,"37-11, 17-6 Home","28-21, 12-15 Away",108,94,NULL,NULL,Final,NBATV,31,21,27,29,NULL,17,25,33,19,NULL,NBA
+65,400900155,2017,"Fri, Feb 3",Oklahoma City Thunder,Memphis Grizzlies,"29-22, 17-7 Home","30-22, 14-13 Away",114,102,NULL,NULL,Final,NULL,21,37,22,34,NULL,23,25,34,20,NULL,NBA
+66,400900175,2017,"Mon, Feb 6",Indiana Pacers,Oklahoma City Thunder,"29-22, 20-6 Home","30-23, 12-16 Away",93,90,NULL,NULL,Final,NULL,20,21,32,20,NULL,25,27,18,20,NULL,NBA
+67,400900218,2017,"Sat, Feb 11",Oklahoma City Thunder,Golden State Warriors,"31-24, 19-8 Home","46-8, 23-5 Away",114,130,NULL,NULL,Final,ABC,24,26,37,27,NULL,30,43,32,25,NULL,NBA
+68,400900251,2017,"Wed, Feb 15",Oklahoma City Thunder,New York Knicks,"32-25, 20-8 Home","23-34, 9-19 Away",116,105,NULL,NULL,Final,ESPN,27,35,26,28,NULL,39,21,20,25,NULL,NBA
+69,400900286,2017,"Sun, Feb 26",Oklahoma City Thunder,New Orleans Pelicans,"34-25, 22-8 Home","23-37, 9-21 Away",118,110,NULL,NULL,Final,NBATV,32,27,28,31,NULL,35,24,25,26,NULL,NBA
+70,400900303,2017,"Thu, Mar 2",Portland Trail Blazers,Oklahoma City Thunder,"25-35, 15-13 Home","35-26, 12-18 Away",114,109,NULL,NULL,Final,TNT,26,31,24,33,NULL,24,36,25,24,NULL,NBA
+71,400900327,2017,"Sun, Mar 5",Dallas Mavericks,Oklahoma City Thunder,"26-36, 18-14 Home","35-28, 12-20 Away",104,89,NULL,NULL,Final,ESPN,28,32,28,16,NULL,27,23,21,18,NULL,NBA
+72,400900357,2017,"Thu, Mar 9",Oklahoma City Thunder,San Antonio Spurs,"36-29, 24-9 Home","50-14, 27-8 Away",102,92,NULL,NULL,Final,TNT,29,27,26,20,NULL,28,21,22,21,NULL,NBA
+73,400900395,2017,"Tue, Mar 14",Brooklyn Nets,Oklahoma City Thunder,"12-54, 8-25 Home","38-29, 13-20 Away",104,122,NULL,NULL,Final,NULL,32,30,21,21,NULL,32,30,29,31,NULL,NBA
+74,400900423,2017,"Sat, Mar 18",Oklahoma City Thunder,Sacramento Kings,"40-29, 26-9 Home","27-42, 13-21 Away",110,94,NULL,NULL,Final,NULL,29,34,22,25,NULL,19,22,24,29,NULL,NBA
+75,400900457,2017,"Wed, Mar 22",Oklahoma City Thunder,Philadelphia 76ers,"41-30, 27-10 Home","26-45, 9-26 Away",122,97,NULL,NULL,Final,NULL,29,34,32,27,NULL,22,28,20,27,NULL,NBA
+76,400900495,2017,"Mon, Mar 27",Dallas Mavericks,Oklahoma City Thunder,"31-42, 21-18 Home","42-31, 15-21 Away",91,92,NULL,NULL,Final,NULL,26,24,19,22,NULL,25,10,22,35,NULL,NBA
+77,400900530,2017,"Fri, Mar 31",Oklahoma City Thunder,San Antonio Spurs,"43-32, 27-11 Home","58-17, 29-9 Away",95,100,NULL,NULL,Final,ESPN,25,29,22,19,NULL,16,25,30,29,NULL,NBA
+78,400900537,2017,"Tue, Apr 4",Oklahoma City Thunder,Milwaukee Bucks,"44-33, 28-12 Home","40-38, 18-20 Away",110,79,NULL,NULL,Final,ESPN,28,35,26,21,NULL,20,19,20,20,NULL,NBA
+79,400900564,2017,"Fri, Apr 7",Phoenix Suns,Oklahoma City Thunder,"23-57, 14-26 Home","45-34, 17-22 Away",120,99,NULL,NULL,Final,NBATV,32,39,24,25,NULL,19,29,24,27,NULL,NBA
+80,400900591,2017,"Tue, Apr 11",Minnesota Timberwolves,Oklahoma City Thunder,"31-50, 20-21 Home","47-34, 19-22 Away",98,100,NULL,NULL,Final,NBATV,16,27,29,26,NULL,33,23,15,29,NULL,NBA
+81,400900603,2017,"Wed, Apr 12",Oklahoma City Thunder,Denver Nuggets,"47-35, 28-13 Home","40-42, 18-23 Away",105,111,NULL,NULL,Final,NULL,26,38,21,20,NULL,25,31,30,25,NULL,NBA
