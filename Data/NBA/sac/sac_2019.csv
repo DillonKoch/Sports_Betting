@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,401070707,2019,"Fri, Oct 19",New Orleans Pelicans,Sacramento Kings,"2-0, 1-0 Home","0-2, 0-1 Away",149,129,NO -11.5,232,Final,NULL,40,32,38,39,NULL,32,31,27,39,NULL,NBA
+1,401070732,2019,"Tue, Oct 23",Denver Nuggets,Sacramento Kings,"4-0, 3-0 Home","1-3, 1-2 Away",126,112,DEN -12.0,229,Final,NULL,33,35,37,21,NULL,26,29,26,31,NULL,NBA
+2,401070754,2019,"Fri, Oct 26",Sacramento Kings,Washington Wizards,"3-3, 2-1 Home","1-4, 1-2 Away",116,112,WSH -5.5,237,Final,NBATV,28,27,24,37,NULL,27,34,24,27,NULL,NBA
+3,401070779,2019,"Tue, Oct 30",Orlando Magic,Sacramento Kings,"2-5, 1-3 Home","5-3, 3-2 Away",99,107,ORL -4.5,221,Final,NULL,31,25,16,27,NULL,26,33,26,22,NULL,NBA
+4,401070814,2019,"Sun, Nov 4",Milwaukee Bucks,Sacramento Kings,"8-1, 6-0 Home","6-4, 4-3 Away",144,109,MIL -10.0,236,Final,NULL,39,33,36,36,NULL,30,20,32,27,NULL,NBA
+5,401070854,2019,"Fri, Nov 9",Sacramento Kings,Minnesota Timberwolves,"7-5, 3-2 Home","4-9, 0-8 Away",121,110,MIN -2.5,234,Final,NULL,29,34,29,29,NULL,31,30,20,29,NULL,NBA
+6,401070878,2019,"Mon, Nov 12",Sacramento Kings,San Antonio Spurs,"8-6, 4-3 Home","7-5, 2-3 Away",104,99,SA -3.0,221,Final,NULL,25,31,21,27,NULL,24,31,21,23,NULL,NBA
+7,401070912,2019,"Sat, Nov 17",Houston Rockets,Sacramento Kings,"8-7, 3-4 Home","8-8, 4-5 Away",132,112,HOU -12.0,220,Final,NULL,36,35,38,23,NULL,29,30,27,26,NULL,NBA
+8,401070944,2019,"Wed, Nov 21",Utah Jazz,Sacramento Kings,"8-10, 2-5 Home","10-8, 5-5 Away",110,119,UTAH -9.5,222,Final,NULL,23,31,29,27,NULL,34,26,24,35,NULL,NBA
+9,401070973,2019,"Sun, Nov 25",Sacramento Kings,Utah Jazz,"10-10, 5-4 Home","9-11, 7-6 Away",112,133,UTAH -3.5,219,Final,NULL,26,24,30,32,NULL,30,29,32,42,NULL,NBA
+10,401071017,2019,"Sat, Dec 1",Sacramento Kings,Indiana Pacers,"11-11, 6-5 Home","13-10, 7-6 Away",111,110,IND -2.0,225,Final,NULL,26,32,31,22,NULL,30,30,31,19,NULL,NBA
+11,401071053,2019,"Fri, Dec 7",Cleveland Cavaliers,Sacramento Kings,"5-20, 3-10 Home","13-11, 7-6 Away",110,129,SAC -2.5,223,Final,NULL,27,39,23,21,NULL,38,28,30,33,NULL,NBA
+12,401071075,2019,"Mon, Dec 10",Chicago Bulls,Sacramento Kings,"6-22, 4-11 Home","14-12, 8-7 Away",89,108,SAC -2.0,227,Final,NULL,33,23,18,15,NULL,26,19,36,27,NULL,NBA
+13,401071109,2019,"Fri, Dec 14",Sacramento Kings,Golden State Warriors,"15-13, 7-6 Home","20-10, 8-7 Away",125,130,GS -7.5,236,Final,NULL,38,26,33,28,NULL,42,34,27,27,NULL,NBA
+14,401071127,2019,"Mon, Dec 17",Minnesota Timberwolves,Sacramento Kings,"14-16, 12-4 Home","16-14, 9-8 Away",132,105,MIN -8.0,231,Final,NULL,38,36,29,29,NULL,23,21,33,28,NULL,NBA
+15,401071158,2019,"Fri, Dec 21",Sacramento Kings,Memphis Grizzlies,"17-15, 8-7 Home","16-16, 7-10 Away",102,99,SAC -2.0,212,Final,NULL,24,16,25,37,NULL,32,21,21,25,NULL,NBA
+16,401071187,2019,"Wed, Dec 26",LA Clippers,Sacramento Kings,"20-14, 12-4 Home","18-16, 9-9 Away",127,118,LAC -4.5,239,Final,NULL,39,32,31,25,NULL,27,29,29,33,NULL,NBA
+17,401071217,2019,"Sun, Dec 30",Los Angeles Lakers,Sacramento Kings,"21-16, 13-6 Home","19-17, 9-10 Away",121,114,LAL -2.0,233,Final,NULL,37,27,28,29,NULL,31,37,28,18,NULL,NBA
+18,401071240,2019,"Thu, Jan 3",Sacramento Kings,Denver Nuggets,"19-19, 10-9 Home","25-11, 10-8 Away",113,117,DEN -3.5,227,Final,NULL,30,36,18,29,NULL,30,23,31,33,NULL,NBA
+19,401071274,2019,"Mon, Jan 7",Sacramento Kings,Orlando Magic,"20-20, 11-10 Home","17-23, 7-12 Away",111,95,SAC -5.0,223,Final,NULL,29,29,32,21,NULL,25,17,20,33,NULL,NBA
+20,401071296,2019,"Thu, Jan 10",Sacramento Kings,Detroit Pistons,"21-21, 12-10 Home","17-23, 6-13 Away",112,102,SAC -8.0,220,Final,NULL,34,31,26,21,NULL,21,27,26,28,NULL,NBA
+21,401071325,2019,"Mon, Jan 14",Sacramento Kings,Portland Trail Blazers,"23-21, 14-10 Home","26-19, 8-12 Away",115,107,SAC -2.0,228,Final,NULL,24,30,29,32,NULL,27,17,31,32,NULL,NBA
+22,401071356,2019,"Sat, Jan 19",Detroit Pistons,Sacramento Kings,"20-25, 13-11 Home","24-22, 10-12 Away",101,103,SAC -1.5,223,Final,NULL,30,27,25,19,NULL,26,25,23,29,NULL,NBA
+23,401071375,2019,"Tue, Jan 22",Toronto Raptors,Sacramento Kings,"36-13, 21-4 Home","24-24, 10-14 Away",120,105,TOR -11.0,227,Final,NULL,29,31,28,32,NULL,34,22,22,27,NULL,NBA
+24,401071409,2019,"Sun, Jan 27",LA Clippers,Sacramento Kings,"28-22, 15-10 Home","25-25, 11-15 Away",122,108,LAC -3.5,230,Final,NULL,34,33,20,35,NULL,21,30,25,32,NULL,NBA
+25,401071459,2019,"Sat, Feb 2",Sacramento Kings,Philadelphia 76ers,"27-25, 16-10 Home","34-19, 13-14 Away",115,108,PHI -2.5,233,Final,NULL,32,30,24,29,NULL,26,26,27,29,NULL,NBA
+26,401071482,2019,"Wed, Feb 6",Sacramento Kings,Houston Rockets,"28-26, 17-11 Home","32-22, 13-14 Away",101,127,HOU -4.0,236,Final,NULL,28,17,29,27,NULL,32,44,28,23,NULL,NBA
+27,401071509,2019,"Sun, Feb 10",Sacramento Kings,Phoenix Suns,"30-26, 19-11 Home","11-47, 4-25 Away",117,104,SAC -9.0,231,Final,NULL,33,30,24,30,NULL,23,21,28,32,NULL,NBA
+28,401071544,2019,"Thu, Feb 21",Golden State Warriors,Sacramento Kings,"42-16, 23-7 Home","30-28, 11-17 Away",125,123,GS -12.0,239,Final,NULL,35,25,29,36,NULL,30,32,29,32,NULL,NBA
+29,401071578,2019,"Mon, Feb 25",Minnesota Timberwolves,Sacramento Kings,"29-31, 20-10 Home","31-29, 12-18 Away",112,105,MIN -3.5,237,Final,NULL,19,44,30,19,NULL,30,23,27,25,NULL,NBA
+30,401071606,2019,"Fri, Mar 1",Sacramento Kings,LA Clippers,"31-31, 19-13 Home","35-29, 18-17 Away",109,116,SAC -3.5,238,Final,NULL,23,33,26,27,NULL,26,26,35,29,NULL,NBA
+31,401071646,2019,"Wed, Mar 6",Sacramento Kings,Boston Celtics,"32-32, 20-14 Home","40-26, 16-16 Away",109,111,BOS -2.0,227,Final,NULL,32,17,28,32,NULL,26,23,33,29,NULL,NBA
+32,401071675,2019,"Mon, Mar 11",Washington Wizards,Sacramento Kings,"28-39, 20-12 Home","33-33, 13-19 Away",121,115,WSH -2.0,240,Final,NULL,28,31,31,31,NULL,20,40,21,34,NULL,NBA
+33,401071700,2019,"Fri, Mar 15",Philadelphia 76ers,Sacramento Kings,"44-25, 28-9 Home","33-35, 13-21 Away",123,114,PHI -10.5,233,Final,NULL,33,29,37,24,NULL,29,29,31,25,NULL,NBA
+34,401071736,2019,"Tue, Mar 19",Sacramento Kings,Brooklyn Nets,"34-36, 21-15 Home","37-36, 16-20 Away",121,123,SAC -3.5,231,Final,NULL,38,28,37,18,NULL,25,33,20,45,NULL,NBA
+35,401071767,2019,"Sat, Mar 23",Sacramento Kings,Phoenix Suns,"36-36, 23-15 Home","17-57, 7-31 Away",112,103,SAC -10.5,231,Final,NULL,19,28,32,33,NULL,32,21,22,28,NULL,NBA
+36,401071787,2019,"Tue, Mar 26",Dallas Mavericks,Sacramento Kings,"29-45, 22-15 Home","37-37, 14-22 Away",121,125,SAC -2.0,227,Final,NULL,23,33,33,32,NULL,25,29,33,38,NULL,NBA
+37,401071811,2019,"Sat, Mar 30",Houston Rockets,Sacramento Kings,"49-28, 29-10 Home","37-39, 14-24 Away",119,108,HOU -10.0,229,Final,NULL,35,28,28,28,NULL,32,28,33,15,NULL,NBA
+38,401071836,2019,"Tue, Apr 2",Sacramento Kings,Houston Rockets,"38-40, 23-16 Home","50-28, 21-18 Away",105,130,HOU -5.5,225,Final,NULL,23,23,31,28,NULL,33,29,29,39,NULL,NBA
+39,401071861,2019,"Fri, Apr 5",Utah Jazz,Sacramento Kings,"49-30, 28-12 Home","39-41, 15-25 Away",119,98,UTAH -10.0,222,Final,NULL,35,35,26,23,NULL,20,24,26,28,NULL,NBA
+40,401070700,2019,"Wed, Oct 17",Sacramento Kings,Utah Jazz,"0-1, 0-1 Home","1-0, 1-0 Away",117,123,UTAH -8.5,206,Final,NULL,34,21,32,30,NULL,30,38,25,30,NULL,NBA
+41,401070719,2019,"Sun, Oct 21",Oklahoma City Thunder,Sacramento Kings,"0-3, 0-1 Home","1-2, 1-1 Away",120,131,OKC -10.5,223,Final,NULL,32,24,34,30,NULL,34,34,29,34,NULL,NBA
+42,401070742,2019,"Wed, Oct 24",Sacramento Kings,Memphis Grizzlies,"2-3, 1-1 Home","2-2, 1-2 Away",97,92,MEM -2.5,221,Final,NULL,19,25,27,26,NULL,28,24,19,21,NULL,NBA
+43,401070770,2019,"Mon, Oct 29",Miami Heat,Sacramento Kings,"3-3, 2-2 Home","4-3, 2-2 Away",113,123,MIA -9.5,227,Final,NULL,28,23,32,30,NULL,17,34,43,29,NULL,NBA
+44,401070795,2019,"Thu, Nov 1",Atlanta Hawks,Sacramento Kings,"2-6, 1-2 Home","6-3, 4-2 Away",115,146,SAC -2.5,234,Final,NULL,29,35,23,28,NULL,35,34,46,31,NULL,NBA
+45,401070842,2019,"Wed, Nov 7",Sacramento Kings,Toronto Raptors,"6-5, 2-2 Home","11-1, 5-1 Away",105,114,TOR -8.5,234,Final,NULL,26,25,27,27,NULL,29,35,30,20,NULL,NBA
+46,401070864,2019,"Sat, Nov 10",Sacramento Kings,Los Angeles Lakers,"7-6, 3-3 Home","6-6, 3-3 Away",86,101,LAL -6.0,238,Final,NULL,20,24,21,21,NULL,26,24,26,25,NULL,NBA
+47,401070901,2019,"Fri, Nov 16",Memphis Grizzlies,Sacramento Kings,"9-5, 6-1 Home","8-7, 4-4 Away",112,104,MEM -6.5,213,Final,NULL,29,33,25,25,NULL,28,23,27,26,NULL,NBA
+48,401070928,2019,"Mon, Nov 19",Sacramento Kings,Oklahoma City Thunder,"9-8, 5-3 Home","10-6, 4-4 Away",117,113,OKC -5.0,228,Final,NBATV,37,32,15,33,NULL,24,32,29,28,NULL,NBA
+49,401070966,2019,"Sat, Nov 24",Golden State Warriors,Sacramento Kings,"14-7, 10-2 Home","10-9, 5-6 Away",117,116,GS -6.5,226,Final,NULL,28,32,35,22,NULL,29,35,29,23,NULL,NBA
+50,401070999,2019,"Thu, Nov 29",Sacramento Kings,LA Clippers,"10-11, 5-5 Home","15-6, 6-5 Away",121,133,LAC -2.0,236,Final,TNT,26,42,25,28,NULL,42,29,30,32,NULL,NBA
+51,401071034,2019,"Tue, Dec 4",Phoenix Suns,Sacramento Kings,"4-20, 3-9 Home","12-11, 6-6 Away",105,122,SAC -5.5,223,Final,NULL,9,31,27,38,NULL,36,32,31,23,NULL,NBA
+52,401071060,2019,"Sat, Dec 8",Indiana Pacers,Sacramento Kings,"16-10, 8-4 Home","13-12, 7-7 Away",107,97,IND -5.5,223,Final,NULL,24,30,19,34,NULL,31,21,18,27,NULL,NBA
+53,401071095,2019,"Wed, Dec 12",Sacramento Kings,Minnesota Timberwolves,"15-12, 7-5 Home","13-15, 2-11 Away",141,130,MIN -3.5,227,Final,NULL,35,28,33,45,NULL,31,19,42,38,NULL,NBA
+54,401071121,2019,"Sun, Dec 16",Dallas Mavericks,Sacramento Kings,"15-13, 13-3 Home","16-13, 9-7 Away",113,120,DAL -4.5,223,Final,NULL,31,27,25,30,NULL,34,27,32,27,NULL,NBA
+55,401071147,2019,"Wed, Dec 19",Sacramento Kings,Oklahoma City Thunder,"16-15, 7-7 Home","20-10, 8-7 Away",113,132,OKC -4.5,232,Final,NBATV,33,19,37,24,NULL,36,35,27,34,NULL,NBA
+56,401071173,2019,"Sun, Dec 23",Sacramento Kings,New Orleans Pelicans,"18-15, 9-7 Home","15-19, 4-14 Away",122,117,NO -1.0,238,Final,NULL,25,33,28,36,NULL,36,33,27,21,NULL,NBA
+57,401071190,2019,"Thu, Dec 27",Sacramento Kings,Los Angeles Lakers,"19-16, 10-7 Home","20-15, 8-10 Away",117,116,SAC -4.5,230,Final,NULL,32,29,23,33,NULL,34,33,28,21,NULL,NBA
+58,401071228,2019,"Tue, Jan 1",Sacramento Kings,Portland Trail Blazers,"19-18, 10-8 Home","22-16, 8-10 Away",108,113,POR -1.0,231,Final/OT,NULL,25,25,27,26,5,26,38,19,20,10,NBA
+59,401071259,2019,"Sat, Jan 5",Sacramento Kings,Golden State Warriors,"19-20, 10-10 Home","26-14, 11-8 Away",123,127,GS -8.0,239,Final,NULL,29,40,34,20,NULL,43,27,26,31,NULL,NBA
+60,401071280,2019,"Tue, Jan 8",Phoenix Suns,Sacramento Kings,"10-32, 6-17 Home","20-21, 9-11 Away",115,111,SAC -4.0,228,Final,NULL,35,18,33,29,NULL,32,40,14,25,NULL,NBA
+61,401071313,2019,"Sat, Jan 12",Sacramento Kings,Charlotte Hornets,"22-21, 13-10 Home","19-23, 5-15 Away",104,97,SAC -6.0,234,Final,NULL,35,22,25,22,NULL,29,30,17,21,NULL,NBA
+62,401071342,2019,"Thu, Jan 17",Charlotte Hornets,Sacramento Kings,"21-23, 15-8 Home","23-22, 9-12 Away",114,95,CHA -3.0,229,Final,NULL,20,43,20,31,NULL,25,25,23,22,NULL,NBA
+63,401071372,2019,"Mon, Jan 21",Brooklyn Nets,Sacramento Kings,"25-23, 13-11 Home","24-23, 10-13 Away",123,94,BKN -3.5,231,Final,NULL,29,26,38,30,NULL,23,37,25,9,NULL,NBA
+64,401071398,2019,"Fri, Jan 25",Memphis Grizzlies,Sacramento Kings,"19-30, 11-13 Home","25-24, 11-14 Away",96,99,MEM -2.0,214,Final,NULL,23,19,29,25,NULL,24,24,29,22,NULL,NBA
+65,401071435,2019,"Wed, Jan 30",Sacramento Kings,Atlanta Hawks,"26-25, 15-10 Home","16-34, 8-21 Away",135,113,SAC -4.5,237,Final,NULL,32,35,38,30,NULL,31,22,27,33,NULL,NBA
+66,401071468,2019,"Mon, Feb 4",Sacramento Kings,San Antonio Spurs,"28-25, 17-10 Home","32-23, 10-16 Away",127,112,SA -2.0,231,Final,NBATV,37,26,35,29,NULL,25,34,27,26,NULL,NBA
+67,401071497,2019,"Fri, Feb 8",Sacramento Kings,Miami Heat,"29-26, 18-11 Home","25-28, 14-12 Away",102,96,SAC -4.0,221,Final,NULL,17,33,25,27,NULL,28,31,24,13,NULL,NBA
+68,401071533,2019,"Wed, Feb 13",Denver Nuggets,Sacramento Kings,"39-18, 25-4 Home","30-27, 11-16 Away",120,118,DEN -7.0,232,Final,NULL,30,28,35,27,NULL,41,28,22,27,NULL,NBA
+69,401071563,2019,"Sat, Feb 23",Oklahoma City Thunder,Sacramento Kings,"38-21, 21-8 Home","31-28, 12-17 Away",116,119,OKC -5.5,240,Final,NULL,24,25,34,33,NULL,31,32,31,25,NULL,NBA
+70,401071593,2019,"Wed, Feb 27",Sacramento Kings,Milwaukee Bucks,"31-30, 19-12 Home","47-14, 22-9 Away",140,141,MIL -6.5,238,Final/OT,NULL,33,29,29,35,14,34,39,31,22,15,NBA
+71,401071630,2019,"Mon, Mar 4",Sacramento Kings,New York Knicks,"32-31, 20-13 Home","13-51, 7-26 Away",115,108,SAC -11.0,229,Final,NULL,34,21,31,29,NULL,25,26,29,28,NULL,NBA
+72,401071659,2019,"Sat, Mar 9",New York Knicks,Sacramento Kings,"13-53, 6-26 Home","33-32, 13-18 Away",94,102,SAC -6.0,225,Final,NULL,30,16,22,26,NULL,23,25,32,22,NULL,NBA
+73,401071695,2019,"Thu, Mar 14",Boston Celtics,Sacramento Kings,"42-27, 25-10 Home","33-34, 13-20 Away",126,120,BOS -7.5,228,Final,NULL,25,31,37,33,NULL,38,24,29,29,NULL,NBA
+74,401071720,2019,"Sun, Mar 17",Sacramento Kings,Chicago Bulls,"34-35, 21-14 Home","19-52, 11-25 Away",129,102,SAC -6.5,231,Final,NULL,24,32,43,30,NULL,23,17,31,31,NULL,NBA
+75,401071751,2019,"Thu, Mar 21",Sacramento Kings,Dallas Mavericks,"35-36, 22-15 Home","28-44, 6-30 Away",116,100,SAC -9.0,229,Final,NULL,27,26,31,32,NULL,29,22,25,24,NULL,NBA
+76,401071775,2019,"Sun, Mar 24",Los Angeles Lakers,Sacramento Kings,"32-41, 19-17 Home","36-37, 13-22 Away",111,106,EVEN,231,Final,NULL,22,26,39,24,NULL,20,29,28,29,NULL,NBA
+77,401071801,2019,"Thu, Mar 28",New Orleans Pelicans,Sacramento Kings,"32-45, 19-19 Home","37-38, 14-23 Away",121,118,SAC -6.5,235,Final,NULL,30,34,29,28,NULL,26,36,26,30,NULL,NBA
+78,401071821,2019,"Sun, Mar 31",San Antonio Spurs,Sacramento Kings,"44-33, 30-9 Home","38-39, 15-24 Away",106,113,SA -10.5,225,Final,NULL,30,27,30,19,NULL,28,30,31,24,NULL,NBA
+79,401071851,2019,"Thu, Apr 4",Sacramento Kings,Cleveland Cavaliers,"39-40, 24-16 Home","19-60, 6-34 Away",117,104,SAC -9.5,230,Final,NULL,29,28,36,24,NULL,22,29,33,20,NULL,NBA
+80,401071880,2019,"Sun, Apr 7",Sacramento Kings,New Orleans Pelicans,"39-42, 24-17 Home","33-48, 14-27 Away",129,133,SAC -12.0,233,Final,NULL,39,29,34,27,NULL,32,34,36,31,NULL,NBA
+81,401071903,2019,"Wed, Apr 10",Portland Trail Blazers,Sacramento Kings,"53-29, 32-9 Home","39-43, 15-26 Away",136,131,POR -3.5,227,Final,NULL,30,32,36,38,NULL,39,48,26,18,NULL,NBA

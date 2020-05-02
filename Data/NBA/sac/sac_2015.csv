@@ -1,0 +1,82 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,400578317,2015,"Fri, Oct 31",Sacramento Kings,Portland Trail Blazers,"1-1, 1-1 Home","1-1, 0-1 Away",103,94,NULL,NULL,Final,NULL,26,22,23,32,NULL,24,24,23,23,NULL,NBA
+1,400578339,2015,"Mon, Nov 3",Denver Nuggets,Sacramento Kings,"1-2, 1-1 Home","3-1, 2-0 Away",105,110,NULL,NULL,Final,NULL,22,24,31,28,NULL,19,32,28,31,NULL,NBA
+2,400578371,2015,"Fri, Nov 7",Phoenix Suns,Sacramento Kings,"3-3, 2-2 Home","5-1, 3-0 Away",112,114,NULL,NULL,Final/2OT,NULL,36,22,30,11,13,25,30,22,22,15,NBA
+3,400578398,2015,"Tue, Nov 11",Dallas Mavericks,Sacramento Kings,"5-3, 3-1 Home","5-3, 3-2 Away",106,98,NULL,NULL,Final,NULL,14,34,30,28,NULL,32,25,15,26,NULL,NBA
+4,400578431,2015,"Sat, Nov 15",Sacramento Kings,San Antonio Spurs,"6-4, 3-1 Home","5-4, 3-3 Away",94,91,NULL,NULL,Final,NULL,23,22,25,24,NULL,24,14,28,25,NULL,NBA
+5,400578463,2015,"Thu, Nov 20",Sacramento Kings,Chicago Bulls,"7-5, 4-2 Home","8-4, 6-1 Away",103,88,NULL,NULL,Final,TNT,22,30,28,23,NULL,29,18,21,20,NULL,NBA
+6,400578500,2015,"Tue, Nov 25",New Orleans Pelicans,Sacramento Kings,"7-6, 4-2 Home","9-5, 5-3 Away",89,99,NULL,NULL,Final,NULL,16,33,21,19,NULL,27,22,26,24,NULL,NBA
+7,400578523,2015,"Fri, Nov 28",San Antonio Spurs,Sacramento Kings,"11-4, 6-1 Home","9-7, 5-5 Away",112,104,NULL,NULL,Final,NULL,26,35,27,24,NULL,22,29,29,24,NULL,NBA
+8,400578553,2015,"Tue, Dec 2",Sacramento Kings,Toronto Raptors,"9-9, 4-4 Home","14-4, 5-2 Away",109,117,NULL,NULL,Final,NBATV,22,33,28,26,NULL,31,26,35,25,NULL,NBA
+9,400578584,2015,"Sat, Dec 6",Sacramento Kings,Orlando Magic,"10-10, 5-5 Home","9-14, 7-9 Away",96,105,NULL,NULL,Final,NULL,27,22,17,30,NULL,27,25,25,28,NULL,NBA
+10,400578607,2015,"Tue, Dec 9",Los Angeles Lakers,Sacramento Kings,"6-16, 3-9 Home","11-11, 5-6 Away",98,95,NULL,NULL,Final,NBATV,24,22,32,20,NULL,29,26,26,14,NULL,NBA
+11,400578639,2015,"Sat, Dec 13",Sacramento Kings,Detroit Pistons,"11-13, 6-7 Home","5-19, 3-8 Away",90,95,NULL,NULL,Final,NULL,24,22,14,30,NULL,23,20,24,28,NULL,NBA
+12,400578673,2015,"Thu, Dec 18",Sacramento Kings,Milwaukee Bucks,"11-15, 6-9 Home","14-13, 7-9 Away",107,108,NULL,NULL,Final,NULL,29,25,27,26,NULL,25,32,24,27,NULL,NBA
+13,400578707,2015,"Mon, Dec 22",Golden State Warriors,Sacramento Kings,"23-3, 10-1 Home","12-16, 5-7 Away",128,108,NULL,NULL,Final,NULL,36,28,29,35,NULL,20,30,26,32,NULL,NBA
+14,400578743,2015,"Sat, Dec 27",Sacramento Kings,New York Knicks,"13-17, 8-10 Home","5-27, 2-14 Away",135,129,NULL,NULL,Final/OT,NBATV,38,29,22,28,18,27,31,22,37,12,NBA
+15,400578767,2015,"Wed, Dec 31",Boston Celtics,Sacramento Kings,"11-18, 8-9 Home","13-19, 5-9 Away",106,84,NULL,NULL,Final,NULL,23,26,28,29,NULL,19,20,22,23,NULL,NBA
+16,400578796,2015,"Sun, Jan 4",Detroit Pistons,Sacramento Kings,"10-23, 4-13 Home","14-20, 6-10 Away",114,95,NULL,NULL,Final,NULL,24,31,29,30,NULL,22,24,32,17,NULL,NBA
+17,400578838,2015,"Fri, Jan 9",Sacramento Kings,Denver Nuggets,"15-21, 9-11 Home","17-20, 6-12 Away",108,118,NULL,NULL,Final,NULL,27,33,15,33,NULL,30,24,36,28,NULL,NBA
+18,400578864,2015,"Tue, Jan 13",Sacramento Kings,Dallas Mavericks,"16-22, 10-12 Home","27-12, 14-6 Away",104,108,NULL,NULL,Final/OT,NULL,33,30,20,16,5,29,31,20,19,9,NBA
+19,400578899,2015,"Sat, Jan 17",Sacramento Kings,LA Clippers,"16-24, 10-14 Home","27-14, 10-7 Away",108,117,NULL,NULL,Final,NULL,28,24,26,30,NULL,28,24,31,34,NULL,NBA
+20,400578927,2015,"Wed, Jan 21",Sacramento Kings,Brooklyn Nets,"16-26, 10-15 Home","18-24, 10-10 Away",100,103,NULL,NULL,Final,NULL,24,22,23,31,NULL,36,26,20,21,NULL,NBA
+21,400578992,2015,"Fri, Jan 30",Cleveland Cavaliers,Sacramento Kings,"28-20, 17-9 Home","16-29, 6-14 Away",101,90,NULL,NULL,Final,NULL,30,25,31,15,NULL,20,24,21,25,NULL,NBA
+22,400579022,2015,"Tue, Feb 3",Sacramento Kings,Golden State Warriors,"17-30, 10-16 Home","38-8, 16-6 Away",96,121,NULL,NULL,Final,NULL,22,20,38,16,NULL,29,34,31,27,NULL,NBA
+23,400579056,2015,"Sat, Feb 7",Utah Jazz,Sacramento Kings,"18-33, 10-15 Home","17-32, 7-15 Away",102,90,NULL,NULL,Final,NULL,25,24,26,27,NULL,15,24,22,29,NULL,NBA
+24,400579077,2015,"Tue, Feb 10",Chicago Bulls,Sacramento Kings,"33-20, 14-11 Home","18-33, 7-16 Away",104,86,NULL,NULL,Final,NULL,30,27,27,20,NULL,26,23,15,22,NULL,NBA
+25,400579105,2015,"Fri, Feb 20",Sacramento Kings,Boston Celtics,"19-34, 12-17 Home","20-32, 8-17 Away",109,101,NULL,NULL,Final,NULL,28,28,26,27,NULL,27,24,23,27,NULL,NBA
+26,400579144,2015,"Wed, Feb 25",Sacramento Kings,Memphis Grizzlies,"20-35, 13-17 Home","41-15, 18-10 Away",102,90,NULL,NULL,Final,NULL,32,30,14,26,NULL,25,27,25,13,NULL,NBA
+27,400579171,2015,"Sun, Mar 1",Sacramento Kings,Portland Trail Blazers,"20-37, 13-19 Home","39-19, 14-13 Away",99,110,NULL,NULL,Final,NULL,23,27,25,24,NULL,34,30,21,25,NULL,NBA
+28,400579198,2015,"Wed, Mar 4",San Antonio Spurs,Sacramento Kings,"37-23, 21-7 Home","21-38, 8-19 Away",112,85,NULL,NULL,Final,NULL,26,28,31,27,NULL,27,11,23,24,NULL,NBA
+29,400579217,2015,"Sat, Mar 7",Miami Heat,Sacramento Kings,"28-34, 13-17 Home","21-40, 8-21 Away",114,109,NULL,NULL,Final/OT,NULL,26,21,21,28,18,30,31,17,18,13,NBA
+30,400579244,2015,"Wed, Mar 11",Charlotte Hornets,Sacramento Kings,"28-35, 15-18 Home","22-41, 9-22 Away",106,113,NULL,NULL,Final,NULL,21,25,32,28,NULL,24,27,27,35,NULL,NBA
+31,400579269,2015,"Sat, Mar 14",Washington Wizards,Sacramento Kings,"38-28, 24-10 Home","22-43, 9-24 Away",113,97,NULL,NULL,Final,NULL,21,25,38,29,NULL,25,39,21,12,NULL,NBA
+32,400579305,2015,"Wed, Mar 18",Sacramento Kings,LA Clippers,"22-45, 13-21 Home","44-25, 19-15 Away",105,116,NULL,NULL,Final,NULL,24,25,24,32,NULL,28,23,29,36,NULL,NBA
+33,400579334,2015,"Sun, Mar 22",Sacramento Kings,Washington Wizards,"24-45, 15-21 Home","40-30, 15-20 Away",109,86,NULL,NULL,Final,NULL,34,23,33,19,NULL,29,21,20,16,NULL,NBA
+34,400579364,2015,"Wed, Mar 25",Phoenix Suns,Sacramento Kings,"38-34, 21-16 Home","26-45, 10-24 Away",99,108,NULL,NULL,Final,NULL,26,27,17,29,NULL,31,27,25,25,NULL,NBA
+35,400579397,2015,"Mon, Mar 30",Memphis Grizzlies,Sacramento Kings,"51-24, 28-9 Home","26-47, 10-26 Away",97,83,NULL,NULL,Final,NULL,24,32,19,22,NULL,20,23,21,19,NULL,NBA
+36,400579427,2015,"Fri, Apr 3",Sacramento Kings,New Orleans Pelicans,"26-49, 16-22 Home","41-34, 16-21 Away",95,101,NULL,NULL,Final,NULL,23,19,29,24,NULL,31,25,18,27,NULL,NBA
+37,400579450,2015,"Tue, Apr 7",Sacramento Kings,Minnesota Timberwolves,"27-50, 17-23 Home","16-61, 7-31 Away",116,111,NULL,NULL,Final,NULL,23,31,36,26,NULL,31,18,25,37,NULL,NBA
+38,400579475,2015,"Fri, Apr 10",Oklahoma City Thunder,Sacramento Kings,"43-36, 28-12 Home","27-52, 10-29 Away",116,103,NULL,NULL,Final,NULL,34,23,25,34,NULL,24,25,27,27,NULL,NBA
+39,400579503,2015,"Mon, Apr 13",Sacramento Kings,Los Angeles Lakers,"28-53, 18-23 Home","21-60, 9-32 Away",102,92,NULL,NULL,Final,NULL,24,27,24,27,NULL,24,27,23,18,NULL,NBA
+40,400578306,2015,"Wed, Oct 29",Sacramento Kings,Golden State Warriors,"0-1, 0-1 Home","1-0, 1-0 Away",77,95,NULL,NULL,Final,NULL,23,26,14,14,NULL,25,22,26,22,NULL,NBA
+41,400578331,2015,"Sun, Nov 2",LA Clippers,Sacramento Kings,"2-1, 1-1 Home","2-1, 1-0 Away",92,98,NULL,NULL,Final,NULL,19,32,23,18,NULL,25,20,25,28,NULL,NBA
+42,400578359,2015,"Wed, Nov 5",Sacramento Kings,Denver Nuggets,"4-1, 2-1 Home","1-3, 0-2 Away",131,109,NULL,NULL,Final,NULL,40,28,37,26,NULL,19,35,18,37,NULL,NBA
+43,400578384,2015,"Sun, Nov 9",Oklahoma City Thunder,Sacramento Kings,"2-5, 2-1 Home","5-2, 3-1 Away",101,93,NULL,NULL,Final,NULL,24,28,15,34,NULL,17,22,26,28,NULL,NBA
+44,400578410,2015,"Thu, Nov 13",Memphis Grizzlies,Sacramento Kings,"8-1, 4-0 Home","5-4, 3-3 Away",111,110,NULL,NULL,Final,NULL,16,30,30,35,NULL,38,24,29,19,NULL,NBA
+45,400578450,2015,"Tue, Nov 18",Sacramento Kings,New Orleans Pelicans,"6-5, 3-2 Home","6-4, 2-3 Away",100,106,NULL,NULL,Final,NBATV,27,27,15,31,NULL,20,25,31,30,NULL,NBA
+46,400578481,2015,"Sat, Nov 22",Minnesota Timberwolves,Sacramento Kings,"3-9, 2-4 Home","8-5, 4-3 Away",101,113,NULL,NULL,Final,NULL,24,28,25,24,NULL,21,27,36,29,NULL,NBA
+47,400578509,2015,"Wed, Nov 26",Houston Rockets,Sacramento Kings,"12-3, 6-2 Home","9-6, 5-4 Away",102,89,NULL,NULL,Final,NULL,37,20,20,25,NULL,19,31,23,16,NULL,NBA
+48,400578536,2015,"Sun, Nov 30",Sacramento Kings,Memphis Grizzlies,"9-8, 4-3 Home","15-2, 7-2 Away",85,97,NULL,NULL,Final,NULL,20,22,23,20,NULL,28,30,16,23,NULL,NBA
+49,400578579,2015,"Fri, Dec 5",Sacramento Kings,Indiana Pacers,"10-9, 5-4 Home","7-13, 3-8 Away",102,101,NULL,NULL,Final/OT,NBATV,34,22,24,16,6,20,25,27,24,5,NBA
+50,400578598,2015,"Mon, Dec 8",Sacramento Kings,Utah Jazz,"11-10, 6-5 Home","5-16, 2-8 Away",101,92,NULL,NULL,Final,NULL,23,32,13,33,NULL,31,18,19,24,NULL,NBA
+51,400578619,2015,"Thu, Dec 11",Sacramento Kings,Houston Rockets,"11-12, 6-6 Home","17-5, 9-2 Away",109,113,NULL,NULL,Final/OT,TNT,26,20,23,26,14,16,20,25,34,18,NBA
+52,400578660,2015,"Tue, Dec 16",Sacramento Kings,Oklahoma City Thunder,"11-14, 6-8 Home","12-13, 5-8 Away",92,104,NULL,NULL,Final,ESPN,20,34,17,21,NULL,34,27,20,23,NULL,NBA
+53,400578694,2015,"Sun, Dec 21",Sacramento Kings,Los Angeles Lakers,"12-15, 7-9 Home","8-19, 5-9 Away",108,101,NULL,NULL,Final,NULL,26,26,29,27,NULL,23,37,20,21,NULL,NBA
+54,400578734,2015,"Fri, Dec 26",Sacramento Kings,Phoenix Suns,"12-17, 7-10 Home","17-14, 10-7 Away",106,115,NULL,NULL,Final,NULL,21,35,34,16,NULL,28,31,35,21,NULL,NBA
+55,400578753,2015,"Mon, Dec 29",Brooklyn Nets,Sacramento Kings,"14-16, 8-8 Home","13-18, 5-8 Away",107,99,NULL,NULL,Final,NULL,27,30,25,25,NULL,28,16,25,30,NULL,NBA
+56,400578775,2015,"Thu, Jan 1",Minnesota Timberwolves,Sacramento Kings,"5-26, 3-12 Home","14-19, 6-9 Away",107,110,NULL,NULL,Final,NULL,29,29,22,27,NULL,37,23,24,26,NULL,NBA
+57,400578824,2015,"Wed, Jan 7",Sacramento Kings,Oklahoma City Thunder,"15-20, 9-10 Home","17-19, 7-12 Away",104,83,NULL,NULL,Final,NULL,28,25,25,26,NULL,16,27,14,26,NULL,NBA
+58,400578853,2015,"Sun, Jan 11",Sacramento Kings,Cleveland Cavaliers,"16-21, 10-11 Home","19-19, 8-10 Away",103,84,NULL,NULL,Final,NBATV,30,29,26,18,NULL,29,15,20,20,NULL,NBA
+59,400578890,2015,"Fri, Jan 16",Sacramento Kings,Miami Heat,"16-23, 10-13 Home","18-22, 11-10 Away",83,95,NULL,NULL,Final,NULL,22,22,17,22,NULL,26,26,23,20,NULL,NBA
+60,400578913,2015,"Mon, Jan 19",Portland Trail Blazers,Sacramento Kings,"31-11, 19-4 Home","16-25, 6-11 Away",98,94,NULL,NULL,Final,NULL,23,28,16,31,NULL,31,25,19,19,NULL,NBA
+61,400578943,2015,"Fri, Jan 23",Golden State Warriors,Sacramento Kings,"35-6, 20-1 Home","16-27, 6-12 Away",126,101,NULL,NULL,Final,NULL,34,22,41,29,NULL,25,26,22,28,NULL,NBA
+62,400578976,2015,"Wed, Jan 28",Toronto Raptors,Sacramento Kings,"31-15, 18-7 Home","16-28, 6-13 Away",119,102,NULL,NULL,Final,NULL,26,28,39,26,NULL,22,32,22,26,NULL,NBA
+63,400578997,2015,"Sat, Jan 31",Indiana Pacers,Sacramento Kings,"17-32, 9-13 Home","17-29, 7-14 Away",94,99,NULL,NULL,Final,NULL,21,29,17,27,NULL,34,30,15,20,NULL,NBA
+64,400579036,2015,"Thu, Feb 5",Sacramento Kings,Dallas Mavericks,"17-31, 10-17 Home","34-18, 19-10 Away",78,101,NULL,NULL,Final,NULL,23,20,17,18,NULL,23,37,23,18,NULL,NBA
+65,400579065,2015,"Sun, Feb 8",Sacramento Kings,Phoenix Suns,"18-32, 11-17 Home","29-24, 13-14 Away",85,83,NULL,NULL,Final,NULL,26,22,25,12,NULL,18,24,17,24,NULL,NBA
+66,400579084,2015,"Wed, Feb 11",Milwaukee Bucks,Sacramento Kings,"30-23, 15-10 Home","18-34, 7-17 Away",111,103,NULL,NULL,Final,NULL,29,31,27,24,NULL,29,22,18,34,NULL,NBA
+67,400579112,2015,"Sat, Feb 21",LA Clippers,Sacramento Kings,"37-19, 23-7 Home","19-35, 7-18 Away",126,99,NULL,NULL,Final,NULL,24,42,31,29,NULL,29,18,18,34,NULL,NBA
+68,400579159,2015,"Fri, Feb 27",Sacramento Kings,San Antonio Spurs,"20-36, 13-18 Home","35-23, 15-16 Away",96,107,NULL,NULL,Final,NULL,25,21,32,18,NULL,20,29,31,27,NULL,NBA
+69,400755860,2015,"Tue, Mar 3",New York Knicks,Sacramento Kings,"12-47, 8-22 Home","21-37, 8-18 Away",86,124,NULL,NULL,Final,NULL,19,20,29,18,NULL,35,30,35,24,NULL,NBA
+70,400579205,2015,"Fri, Mar 6",Orlando Magic,Sacramento Kings,"20-43, 10-21 Home","21-39, 8-20 Away",119,114,NULL,NULL,Final,NULL,35,33,24,27,NULL,26,31,29,28,NULL,NBA
+71,400579231,2015,"Mon, Mar 9",Atlanta Hawks,Sacramento Kings,"50-13, 30-4 Home","21-41, 8-22 Away",130,105,NULL,NULL,Final,NULL,33,43,29,25,NULL,20,34,28,23,NULL,NBA
+72,400579260,2015,"Fri, Mar 13",Philadelphia 76ers,Sacramento Kings,"15-50, 10-23 Home","22-42, 9-23 Away",114,107,NULL,NULL,Final,NULL,29,22,37,26,NULL,22,42,18,25,NULL,NBA
+73,400579290,2015,"Mon, Mar 16",Sacramento Kings,Atlanta Hawks,"22-44, 13-20 Home","53-14, 23-10 Away",103,110,NULL,NULL,Final,NULL,29,18,29,27,NULL,28,26,28,28,NULL,NBA
+74,400579321,2015,"Fri, Mar 20",Sacramento Kings,Charlotte Hornets,"23-45, 14-21 Home","29-38, 13-20 Away",101,91,NULL,NULL,Final,NULL,29,28,23,21,NULL,22,24,23,22,NULL,NBA
+75,400579350,2015,"Tue, Mar 24",Sacramento Kings,Philadelphia 76ers,"25-45, 16-21 Home","17-54, 5-30 Away",107,106,NULL,NULL,Final,NULL,27,36,24,20,NULL,31,39,14,22,NULL,NBA
+76,400579375,2015,"Fri, Mar 27",New Orleans Pelicans,Sacramento Kings,"38-34, 24-13 Home","26-46, 10-25 Away",102,88,NULL,NULL,Final,NULL,18,28,28,28,NULL,20,22,24,22,NULL,NBA
+77,400579409,2015,"Wed, Apr 1",Houston Rockets,Sacramento Kings,"51-24, 28-10 Home","26-48, 10-27 Away",115,111,NULL,NULL,Final,NULL,35,23,39,18,NULL,25,30,31,25,NULL,NBA
+78,400579444,2015,"Sun, Apr 5",Sacramento Kings,Utah Jazz,"26-50, 16-23 Home","35-42, 16-23 Away",95,101,NULL,NULL,Final,NULL,27,22,24,22,NULL,31,18,27,25,NULL,NBA
+79,400579462,2015,"Wed, Apr 8",Utah Jazz,Sacramento Kings,"36-42, 20-19 Home","27-51, 10-28 Away",103,91,NULL,NULL,Final,NULL,21,22,32,28,NULL,22,27,24,18,NULL,NBA
+80,400579488,2015,"Sun, Apr 12",Denver Nuggets,Sacramento Kings,"30-50, 19-22 Home","27-53, 10-30 Away",122,111,NULL,NULL,Final,NULL,37,23,34,28,NULL,28,31,25,27,NULL,NBA

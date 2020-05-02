@@ -4,7 +4,7 @@
 # File Created: Tuesday, 14th April 2020 5:08:27 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Friday, 1st May 2020 5:30:41 pm
+# Last Modified: Friday, 1st May 2020 5:45:57 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -131,8 +131,8 @@ class ESPN_Season_Scraper:
         game_tuples = self.team_dates_links(league, team_abbrev, year)
         df = self._make_season_df(league)
         for gt in tqdm(game_tuples):
-            game = egs.all_nfl_info(gt[2])
-            row = [gt[2], year, gt[0]] + self._game_to_row("NFL", game)
+            game = egs.all_nba_info(gt[2])
+            row = [gt[2], year, gt[0]] + self._game_to_row("NBA", game)
             df.loc[len(df)] = row
             time.sleep(2)
         return df
@@ -170,10 +170,17 @@ class ESPN_Season_Scraper:
                     time.sleep(1)
 
 
+class ESPN_NBA_Scraper(ESPN_Season_Scraper):
+    def __init__(self):
+        super().__init__()
+
+
 if __name__ == "__main__":
     ess = ESPN_Season_Scraper()
     egs = ESPN_Game_Scraper()
-    # ess.run_all_season_scrapes("NBA")
+    ess.run_all_season_scrapes("NBA")
+
+    ens = ESPN_NBA_Scraper()
 
     # heat_games = ess.team_dates_links('NBA', 'mia')
     # df = ess._make_season_df("NBA")
