@@ -1,0 +1,66 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,401160670,2020,"Sat, Oct 26",Atlanta Hawks,Orlando Magic,"2-0, 1-0 Home","1-1, 0-1 Away",103,99,ORL -2.0,217,Final,NULL,23,29,25,26,NULL,26,24,25,24,NULL,NBA
+1,401160698,2020,"Wed, Oct 30",Orlando Magic,New York Knicks,"2-2, 2-0 Home","1-4, 0-3 Away",95,83,ORL -10.0,210,Final,NULL,22,20,30,23,NULL,25,19,23,16,NULL,NBA
+2,401160721,2020,"Sat, Nov 2",Orlando Magic,Denver Nuggets,"2-4, 2-2 Home","4-2, 3-1 Away",87,91,DEN -4.0,200,Final,NBATV,26,19,18,24,NULL,17,23,29,22,NULL,NBA
+3,401160751,2020,"Wed, Nov 6",Dallas Mavericks,Orlando Magic,"40-27, 19-15 Home","30-35, 14-20 Away",107,106,DAL -6.5,208,Final,NULL,25,29,32,21,NULL,28,28,23,27,NULL,NBA
+4,401160775,2020,"Sun, Nov 10",Orlando Magic,Indiana Pacers,"3-7, 3-3 Home","6-4, 2-3 Away",102,109,ORL -5.0,203,Final,NULL,33,27,17,25,NULL,29,22,30,28,NULL,NBA
+5,401160810,2020,"Fri, Nov 15",Orlando Magic,San Antonio Spurs,"5-7, 5-3 Home","5-7, 1-4 Away",111,109,ORL -2.5,211,Final,NULL,24,23,32,32,NULL,31,25,26,27,NULL,NBA
+6,401160849,2020,"Wed, Nov 20",Toronto Raptors,Orlando Magic,"10-4, 6-0 Home","6-8, 0-5 Away",113,97,TOR -3.0,206,Final,NULL,32,29,18,34,NULL,32,19,17,29,NULL,NBA
+7,401160883,2020,"Mon, Nov 25",Detroit Pistons,Orlando Magic,"6-11, 5-3 Home","6-10, 0-7 Away",103,88,DET -4.5,207,Final,NULL,23,30,25,25,NULL,31,24,15,18,NULL,NBA
+8,401160911,2020,"Fri, Nov 29",Orlando Magic,Toronto Raptors,"7-11, 6-4 Home","14-4, 6-4 Away",83,90,TOR -3.5,209,Final,NULL,23,24,12,24,NULL,20,20,26,24,NULL,NBA
+9,401160942,2020,"Tue, Dec 3",Washington Wizards,Orlando Magic,"6-13, 3-5 Home","9-11, 2-7 Away",120,127,EVEN,231,Final,NULL,26,28,34,32,NULL,32,36,29,30,NULL,NBA
+10,401160963,2020,"Fri, Dec 6",Cleveland Cavaliers,Orlando Magic,"5-16, 3-9 Home","11-11, 3-7 Away",87,93,ORL -5.0,210,Final,NULL,25,22,23,17,NULL,24,28,16,25,NULL,NBA
+11,401161000,2020,"Wed, Dec 11",Orlando Magic,Los Angeles Lakers,"11-13, 8-5 Home","22-3, 12-1 Away",87,96,LAL -8.5,211,Final,NULL,9,29,27,22,NULL,26,25,18,27,NULL,NBA
+12,401161030,2020,"Sun, Dec 15",New Orleans Pelicans,Orlando Magic,"6-21, 4-10 Home","12-14, 4-8 Away",119,130,EVEN,216,Final,NULL,30,27,27,35,NULL,24,34,41,31,NULL,NBA
+13,401161056,2020,"Wed, Dec 18",Denver Nuggets,Orlando Magic,"18-8, 12-3 Home","12-16, 4-10 Away",113,104,DEN -9.0,205,Final,NULL,27,18,39,29,NULL,32,28,16,28,NULL,NBA
+14,401161090,2020,"Mon, Dec 23",Orlando Magic,Chicago Bulls,"13-17, 9-6 Home","12-20, 6-10 Away",103,95,ORL -5.0,205,Final,NULL,28,23,32,20,NULL,28,26,27,14,NULL,NBA
+15,401161122,2020,"Sat, Dec 28",Milwaukee Bucks,Orlando Magic,"29-5, 16-2 Home","14-18, 4-12 Away",111,100,MIL -6.5,216,Final,NULL,37,19,22,33,NULL,25,21,28,26,NULL,NBA
+16,401161146,2020,"Wed, Jan 1",Washington Wizards,Orlando Magic,"10-23, 5-9 Home","15-19, 5-12 Away",101,122,ORL -3.0,223,Final,NULL,29,29,25,18,NULL,31,31,32,28,NULL,NBA
+17,401161167,2020,"Sat, Jan 4",Orlando Magic,Utah Jazz,"16-20, 11-8 Home","23-12, 10-9 Away",96,109,UTAH -4.0,206,Final,NULL,25,22,28,21,NULL,33,19,24,33,NULL,NBA
+18,401161199,2020,"Wed, Jan 8",Orlando Magic,Washington Wizards,"18-20, 13-8 Home","12-25, 5-15 Away",123,89,ORL -10.0,218,Final,NULL,32,37,28,26,NULL,23,29,20,17,NULL,NBA
+19,401161238,2020,"Mon, Jan 13",Sacramento Kings,Orlando Magic,"15-25, 8-12 Home","19-21, 6-13 Away",112,114,SAC -1.0,212,Final,NULL,25,27,33,27,NULL,33,32,21,28,NULL,NBA
+20,401161260,2020,"Thu, Jan 16",LA Clippers,Orlando Magic,"29-13, 19-4 Home","20-22, 7-14 Away",122,95,LAC -10.0,217,Final,NULL,34,33,24,31,NULL,26,22,28,19,NULL,NBA
+21,401161284,2020,"Mon, Jan 20",Charlotte Hornets,Orlando Magic,"15-30, 7-14 Home","21-23, 8-15 Away",83,106,ORL -4.0,207,Final,NULL,27,18,20,18,NULL,19,32,21,34,NULL,NBA
+22,401161313,2020,"Fri, Jan 24",Orlando Magic,Boston Celtics,"21-25, 13-10 Home","30-14, 12-9 Away",98,109,ORL -2.5,213,Final,NULL,30,27,20,21,NULL,24,29,29,27,NULL,NBA
+23,401161336,2020,"Mon, Jan 27",Miami Heat,Orlando Magic,"32-14, 21-2 Home","21-27, 8-16 Away",113,92,MIA -6.5,209,Final,NULL,31,23,31,28,NULL,21,27,23,21,NULL,NBA
+24,401161383,2020,"Mon, Feb 3",Charlotte Hornets,Orlando Magic,"16-34, 8-16 Home","22-28, 9-16 Away",100,112,ORL -5.0,204,Final,NULL,24,30,23,23,NULL,25,31,29,27,NULL,NBA
+25,401161406,2020,"Thu, Feb 6",New York Knicks,Orlando Magic,"16-36, 8-18 Home","22-30, 9-18 Away",105,103,ORL -3.5,208,Final,NULL,30,24,22,29,NULL,19,28,36,20,NULL,NBA
+26,401161437,2020,"Mon, Feb 10",Orlando Magic,Atlanta Hawks,"23-31, 14-13 Home","15-40, 6-23 Away",135,126,ORL -9.0,223,Final,NULL,22,34,37,42,NULL,28,33,35,30,NULL,NBA
+27,401161468,2020,"Fri, Feb 21",Orlando Magic,Dallas Mavericks,"24-32, 15-14 Home","34-22, 19-8 Away",106,122,DAL -4.5,222,Final,NULL,18,34,32,22,NULL,34,30,27,31,NULL,NBA
+28,401161509,2020,"Wed, Feb 26",Atlanta Hawks,Orlando Magic,"17-43, 11-18 Home","26-32, 11-18 Away",120,130,ORL -2.5,231,Final,NULL,27,37,31,25,NULL,23,41,39,27,NULL,NBA
+29,401161535,2020,"Sat, Feb 29",San Antonio Spurs,Orlando Magic,"25-33, 15-13 Home","27-33, 11-19 Away",114,113,SA -4.0,222,Final,NULL,38,23,24,29,NULL,27,26,28,32,NULL,NBA
+30,401161561,2020,"Wed, Mar 4",Miami Heat,Orlando Magic,"40-22, 27-4 Home","27-35, 11-20 Away",116,113,MIA -6.5,219,Final,NULL,30,30,28,28,NULL,26,29,29,29,NULL,NBA
+31,401161595,2020,"Sun, Mar 8",Houston Rockets,Orlando Magic,"39-24, 21-10 Home","29-35, 13-20 Away",106,126,HOU -8.0,229,Final,NULL,24,22,30,30,NULL,34,37,34,21,NULL,NBA
+32,401160627,2020,"Wed, Oct 23",Orlando Magic,Cleveland Cavaliers,"1-0, 1-0 Home","0-1, 0-1 Away",94,85,ORL -9.5,212,Final,NULL,28,27,16,23,NULL,24,17,24,20,NULL,NBA
+33,401160686,2020,"Mon, Oct 28",Toronto Raptors,Orlando Magic,"3-1, 2-0 Home","1-2, 0-2 Away",104,95,TOR -5.0,209,Final,NULL,31,20,27,26,NULL,22,24,21,28,NULL,NBA
+34,401160713,2020,"Fri, Nov 1",Orlando Magic,Milwaukee Bucks,"2-3, 2-1 Home","3-2, 2-1 Away",91,123,MIL -4.5,214,Final,NULL,27,14,30,20,NULL,31,31,26,35,NULL,NBA
+35,401160743,2020,"Tue, Nov 5",Oklahoma City Thunder,Orlando Magic,"3-4, 3-2 Home","2-5, 0-3 Away",102,94,OKC -2.5,202,Final,NULL,31,27,23,21,NULL,26,27,26,15,NULL,NBA
+36,401160759,2020,"Fri, Nov 8",Orlando Magic,Memphis Grizzlies,"3-6, 3-2 Home","2-6, 0-3 Away",118,86,ORL -7.5,209,Final,NULL,27,24,33,34,NULL,15,33,30,8,NULL,NBA
+37,401160797,2020,"Wed, Nov 13",Orlando Magic,Philadelphia 76ers,"4-7, 4-3 Home","7-4, 3-4 Away",112,97,ORL -2.5,208,Final,NULL,31,22,27,32,NULL,30,23,29,15,NULL,NBA
+38,401160827,2020,"Sun, Nov 17",Orlando Magic,Washington Wizards,"6-7, 6-3 Home","3-8, 2-5 Away",125,121,ORL -5.5,226,Final,NULL,29,32,27,37,NULL,22,30,25,44,NULL,NBA
+39,401160869,2020,"Sat, Nov 23",Indiana Pacers,Orlando Magic,"9-6, 6-2 Home","6-9, 0-6 Away",111,106,IND -6.5,202,Final,NULL,24,31,28,28,NULL,25,20,40,21,NULL,NBA
+40,401160897,2020,"Wed, Nov 27",Cleveland Cavaliers,Orlando Magic,"5-13, 3-6 Home","7-10, 1-7 Away",104,116,CLE -1.5,210,Final,NULL,27,25,21,31,NULL,27,32,28,29,NULL,NBA
+41,401160932,2020,"Sun, Dec 1",Orlando Magic,Golden State Warriors,"8-11, 7-4 Home","4-17, 2-10 Away",100,96,ORL -7.5,204,Final,NULL,26,25,21,28,NULL,22,29,20,25,NULL,NBA
+42,401160950,2020,"Wed, Dec 4",Orlando Magic,Phoenix Suns,"10-11, 8-4 Home","9-11, 4-4 Away",128,114,PHX -2.0,214,Final,NULL,31,34,38,25,NULL,37,21,28,28,NULL,NBA
+43,401160989,2020,"Mon, Dec 9",Milwaukee Bucks,Orlando Magic,"21-3, 11-1 Home","11-12, 3-8 Away",110,101,MIL -12.5,218,Final,NBATV,31,21,28,30,NULL,20,20,33,28,NULL,NBA
+44,401161013,2020,"Fri, Dec 13",Orlando Magic,Houston Rockets,"11-14, 8-6 Home","17-8, 8-5 Away",107,130,HOU -6.5,221,Final,NULL,22,33,23,29,NULL,28,34,34,34,NULL,NBA
+45,401161047,2020,"Tue, Dec 17",Utah Jazz,Orlando Magic,"16-11, 11-3 Home","12-15, 4-9 Away",109,102,UTAH -6.5,208,Final,NULL,26,32,24,27,NULL,20,27,24,31,NULL,NBA
+46,401161070,2020,"Fri, Dec 20",Portland Trail Blazers,Orlando Magic,"13-16, 7-6 Home","12-17, 4-11 Away",118,103,POR -3.5,218,Final,NULL,31,26,36,25,NULL,13,31,31,28,NULL,NBA
+47,401161110,2020,"Fri, Dec 27",Orlando Magic,Philadelphia 76ers,"14-17, 10-6 Home","23-11, 7-9 Away",98,97,PHI -4.0,211,Final,NBATV,19,27,25,27,NULL,21,26,21,29,NULL,NBA
+48,401161133,2020,"Mon, Dec 30",Orlando Magic,Atlanta Hawks,"14-19, 10-7 Home","7-27, 4-15 Away",93,101,ORL -10.0,209,Final,NBATV,21,36,15,21,NULL,25,22,27,27,NULL,NBA
+49,401161160,2020,"Fri, Jan 3",Orlando Magic,Miami Heat,"16-19, 11-7 Home","25-10, 9-9 Away",105,85,ORL -1.5,206,Final,NULL,27,29,28,21,NULL,22,22,35,6,NULL,NBA
+50,401161182,2020,"Mon, Jan 6",Orlando Magic,Brooklyn Nets,"17-20, 12-8 Home","16-19, 7-12 Away",101,89,ORL -5.0,213,Final,NULL,20,32,23,26,NULL,22,17,32,18,NULL,NBA
+51,401161215,2020,"Fri, Jan 10",Phoenix Suns,Orlando Magic,"15-23, 8-14 Home","18-21, 5-13 Away",98,94,PHX -4.0,218,Final,NULL,27,31,19,21,NULL,25,23,27,19,NULL,NBA
+52,401161255,2020,"Wed, Jan 15",Los Angeles Lakers,Orlando Magic,"33-8, 16-5 Home","20-21, 7-13 Away",118,119,LAL -10.5,210,Final,NULL,29,29,30,30,NULL,35,30,24,30,NULL,NBA
+53,401161276,2020,"Sat, Jan 18",Golden State Warriors,Orlando Magic,"10-34, 7-15 Home","20-23, 7-15 Away",109,95,ORL -6.0,214,Final,NULL,28,25,29,27,NULL,25,27,19,24,NULL,NBA
+54,401161297,2020,"Wed, Jan 22",Orlando Magic,Oklahoma City Thunder,"21-24, 13-9 Home","26-19, 12-10 Away",114,120,ORL -2.5,210,Final,NULL,21,30,38,25,NULL,24,36,32,28,NULL,NBA
+55,401161331,2020,"Sun, Jan 26",Orlando Magic,LA Clippers,"21-26, 13-11 Home","33-14, 14-10 Away",97,112,LAC -3.5,218,Final,NULL,28,24,20,25,NULL,26,28,31,27,NULL,NBA
+56,401161371,2020,"Sat, Feb 1",Orlando Magic,Miami Heat,"21-28, 13-12 Home","33-15, 12-12 Away",89,102,MIA -2.5,210,Final,NULL,25,24,18,22,NULL,28,29,19,26,NULL,NBA
+57,401161398,2020,"Wed, Feb 5",Boston Celtics,Orlando Magic,"35-15, 21-5 Home","22-29, 9-17 Away",116,100,BOS -6.0,209,Final,ESPN,32,25,30,29,NULL,24,32,24,20,NULL,NBA
+58,401161419,2020,"Sat, Feb 8",Orlando Magic,Milwaukee Bucks,"22-31, 13-13 Home","45-7, 21-4 Away",95,111,MIL -9.0,222,Final,NULL,24,22,25,24,NULL,29,33,21,28,NULL,NBA
+59,401161450,2020,"Wed, Feb 12",Orlando Magic,Detroit Pistons,"24-31, 15-13 Home","19-38, 8-19 Away",116,112,ORL -6.5,210,Final/OT,NULL,32,27,28,21,8,20,35,26,27,4,NBA
+60,401161494,2020,"Mon, Feb 24",Brooklyn Nets,Orlando Magic,"26-30, 16-13 Home","25-32, 10-18 Away",113,115,BKN -3.5,213,Final,NULL,27,27,33,26,NULL,22,19,40,34,NULL,NBA
+61,401161519,2020,"Fri, Feb 28",Orlando Magic,Minnesota Timberwolves,"27-32, 16-14 Home","17-41, 10-20 Away",136,125,ORL -8.0,234,Final,NULL,35,34,34,33,NULL,35,30,31,29,NULL,NBA
+62,401161546,2020,"Mon, Mar 2",Orlando Magic,Portland Trail Blazers,"27-34, 16-15 Home","27-35, 11-22 Away",107,130,ORL -6.5,220,Final,NULL,28,30,30,19,NULL,35,34,23,38,NULL,NBA
+63,401161577,2020,"Fri, Mar 6",Minnesota Timberwolves,Orlando Magic,"19-43, 8-23 Home","28-35, 12-20 Away",118,132,ORL -2.5,234,Final,NULL,24,31,28,35,NULL,29,36,37,30,NULL,NBA
+64,401161606,2020,"Tue, Mar 10",Memphis Grizzlies,Orlando Magic,"32-33, 18-15 Home","30-35, 14-20 Away",115,120,MEM -2.5,219,Final,NULL,35,28,23,29,NULL,27,23,35,35,NULL,NBA

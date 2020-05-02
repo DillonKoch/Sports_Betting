@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,400974774,2018,"Fri, Oct 20",Brooklyn Nets,Orlando Magic,"1-1, 1-0 Home","1-1, 0-1 Away",126,121,NULL,NULL,Final,NULL,29,29,31,37,NULL,27,28,36,30,NULL,NBA
+1,400974801,2018,"Tue, Oct 24",Orlando Magic,Brooklyn Nets,"3-1, 2-0 Home","2-2, 0-2 Away",125,121,NULL,NULL,Final,NULL,30,31,26,38,NULL,30,31,35,25,NULL,NBA
+2,400974839,2018,"Sun, Oct 29",Charlotte Hornets,Orlando Magic,"3-3, 3-1 Home","4-2, 1-2 Away",120,113,NULL,NULL,Final,NULL,27,34,32,27,NULL,24,25,37,27,NULL,NBA
+3,400974863,2018,"Wed, Nov 1",Memphis Grizzlies,Orlando Magic,"5-3, 4-2 Home","6-2, 3-2 Away",99,101,NULL,NULL,Final,NULL,26,28,21,24,NULL,23,31,27,20,NULL,NBA
+4,400974889,2018,"Sun, Nov 5",Orlando Magic,Boston Celtics,"6-4, 3-2 Home","8-2, 5-1 Away",88,104,NULL,NULL,Final,NULL,20,18,31,19,NULL,22,27,28,27,NULL,NBA
+5,400974925,2018,"Fri, Nov 10",Phoenix Suns,Orlando Magic,"4-9, 2-5 Home","8-4, 4-2 Away",112,128,NULL,NULL,Final,NULL,32,31,20,29,NULL,36,28,33,31,NULL,NBA
+6,400974950,2018,"Mon, Nov 13",Golden State Warriors,Orlando Magic,"11-3, 6-2 Home","8-6, 4-4 Away",110,100,NULL,NULL,Final,NULL,27,29,32,22,NULL,29,27,19,25,NULL,NBA
+7,400974980,2018,"Sat, Nov 18",Orlando Magic,Utah Jazz,"8-8, 4-3 Home","7-10, 1-6 Away",85,125,NULL,NULL,Final,NULL,26,22,19,18,NULL,29,34,34,28,NULL,NBA
+8,400975012,2018,"Wed, Nov 22",Minnesota Timberwolves,Orlando Magic,"11-7, 6-2 Home","8-10, 4-6 Away",124,118,NULL,NULL,Final,NULL,30,35,41,18,NULL,35,27,18,38,NULL,NBA
+9,400975029,2018,"Sat, Nov 25",Philadelphia 76ers,Orlando Magic,"11-7, 5-3 Home","8-12, 4-8 Away",130,111,NULL,NULL,Final,NULL,31,39,31,29,NULL,28,27,30,26,NULL,NBA
+10,400975055,2018,"Wed, Nov 29",Orlando Magic,Oklahoma City Thunder,"9-13, 5-4 Home","8-12, 2-9 Away",121,108,NULL,NULL,Final,NULL,31,28,28,34,NULL,25,32,23,28,NULL,NBA
+11,400975085,2018,"Sun, Dec 3",New York Knicks,Orlando Magic,"11-11, 10-5 Home","10-14, 5-9 Away",100,105,NULL,NULL,Final,NULL,25,26,25,24,NULL,36,18,24,27,NULL,NBA
+12,400975106,2018,"Wed, Dec 6",Orlando Magic,Atlanta Hawks,"11-15, 6-5 Home","5-19, 3-10 Away",110,106,NULL,NULL,Final/OT,NULL,31,13,30,22,14,23,29,27,17,10,NBA
+13,400975129,2018,"Sat, Dec 9",Atlanta Hawks,Orlando Magic,"6-19, 3-9 Home","11-17, 5-11 Away",117,110,NULL,NULL,Final,NULL,32,25,32,28,NULL,22,32,33,23,NULL,NBA
+14,400975171,2018,"Fri, Dec 15",Orlando Magic,Portland Trail Blazers,"11-19, 6-8 Home","15-13, 8-5 Away",88,95,NULL,NULL,Final,NULL,20,23,23,22,NULL,24,26,25,20,NULL,NBA
+15,400975209,2018,"Wed, Dec 20",Chicago Bulls,Orlando Magic,"10-20, 7-8 Home","11-21, 5-13 Away",112,94,NULL,NULL,Final,NULL,31,28,31,22,NULL,24,24,18,28,NULL,NBA
+16,400975234,2018,"Sat, Dec 23",Washington Wizards,Orlando Magic,"18-15, 10-6 Home","11-23, 5-14 Away",130,103,NULL,NULL,Final,NULL,37,35,28,30,NULL,29,19,35,20,NULL,NBA
+17,400975262,2018,"Thu, Dec 28",Orlando Magic,Detroit Pistons,"12-24, 7-9 Home","19-15, 8-10 Away",102,89,NULL,NULL,Final,NULL,33,17,27,25,NULL,28,22,23,16,NULL,NBA
+18,400975291,2018,"Mon, Jan 1",Brooklyn Nets,Orlando Magic,"14-23, 8-10 Home","12-26, 5-16 Away",98,95,NULL,NULL,Final,NULL,22,25,24,27,NULL,27,21,22,25,NULL,NBA
+19,400975328,2018,"Sat, Jan 6",Orlando Magic,Cleveland Cavaliers,"12-28, 7-12 Home","26-13, 11-9 Away",127,131,NULL,NULL,Final,NULL,30,34,23,40,NULL,31,36,40,24,NULL,NBA
+20,400975356,2018,"Wed, Jan 10",Milwaukee Bucks,Orlando Magic,"22-18, 14-7 Home","12-30, 5-18 Away",110,103,NULL,NULL,Final,NULL,30,23,36,21,NULL,29,17,23,34,NULL,NBA
+21,400975395,2018,"Tue, Jan 16",Orlando Magic,Minnesota Timberwolves,"13-31, 8-12 Home","29-17, 11-11 Away",108,102,NULL,NULL,Final,NULL,25,22,26,35,NULL,25,23,27,27,NULL,NBA
+22,400975429,2018,"Sun, Jan 21",Boston Celtics,Orlando Magic,"34-13, 18-8 Home","14-32, 6-20 Away",95,103,NULL,NULL,Final,NULL,29,30,12,24,NULL,28,30,32,13,NULL,NBA
+23,400975471,2018,"Sat, Jan 27",Indiana Pacers,Orlando Magic,"27-23, 16-10 Home","14-34, 6-21 Away",114,112,NULL,NULL,Final,NULL,22,31,31,30,NULL,32,38,22,20,NULL,NBA
+24,400975500,2018,"Wed, Jan 31",Orlando Magic,Los Angeles Lakers,"15-35, 9-13 Home","19-31, 7-17 Away",127,105,NULL,NULL,Final,NULL,29,29,43,26,NULL,25,26,30,24,NULL,NBA
+25,400975538,2018,"Mon, Feb 5",Miami Heat,Orlando Magic,"29-25, 13-11 Home","16-36, 7-22 Away",109,111,NULL,NULL,Final,NULL,35,25,27,22,NULL,26,33,34,18,NULL,NBA
+26,400975557,2018,"Thu, Feb 8",Orlando Magic,Atlanta Hawks,"18-36, 11-14 Home","17-38, 5-22 Away",100,98,NULL,NULL,Final,NULL,26,13,30,31,NULL,23,16,31,28,NULL,NBA
+27,400975590,2018,"Mon, Feb 12",Chicago Bulls,Orlando Magic,"20-36, 13-15 Home","18-38, 7-23 Away",105,101,NULL,NULL,Final,NULL,30,23,24,28,NULL,27,24,20,30,NULL,NBA
+28,400975614,2018,"Thu, Feb 22",Orlando Magic,New York Knicks,"18-40, 11-17 Home","24-36, 8-24 Away",113,120,NULL,NULL,Final,NULL,41,28,21,23,NULL,31,32,30,27,NULL,NBA
+29,400975649,2018,"Mon, Feb 26",Oklahoma City Thunder,Orlando Magic,"35-27, 21-10 Home","18-42, 7-25 Away",112,105,NULL,NULL,Final,NULL,31,30,23,28,NULL,38,24,15,28,NULL,NBA
+30,400975672,2018,"Fri, Mar 2",Orlando Magic,Detroit Pistons,"19-43, 12-18 Home","29-33, 9-20 Away",115,106,NULL,NULL,Final/OT,NULL,31,22,29,22,11,29,23,30,22,2,NBA
+31,400975701,2018,"Mon, Mar 5",Utah Jazz,Orlando Magic,"34-30, 21-11 Home","20-44, 7-26 Away",94,80,NULL,NULL,Final,NULL,25,29,20,20,NULL,29,15,23,13,NULL,NBA
+32,400975731,2018,"Fri, Mar 9",Sacramento Kings,Orlando Magic,"21-45, 11-22 Home","20-46, 7-28 Away",94,88,NULL,NULL,Final,NULL,22,19,33,20,NULL,14,22,26,26,NULL,NBA
+33,400975758,2018,"Tue, Mar 13",San Antonio Spurs,Orlando Magic,"38-30, 24-8 Home","20-48, 7-30 Away",108,72,NULL,NULL,Final,NULL,24,38,34,12,NULL,18,19,20,15,NULL,NBA
+34,400975775,2018,"Fri, Mar 16",Orlando Magic,Boston Celtics,"21-49, 14-19 Home","47-22, 24-9 Away",83,92,NULL,NULL,Final,NULL,16,15,21,31,NULL,25,23,27,17,NULL,NBA
+35,400975819,2018,"Thu, Mar 22",Orlando Magic,Philadelphia 76ers,"21-51, 14-21 Home","41-30, 18-19 Away",98,118,NULL,NULL,Final,NBATV,23,26,16,33,NULL,32,38,25,23,NULL,NBA
+36,400975863,2018,"Wed, Mar 28",Orlando Magic,Brooklyn Nets,"22-52, 15-22 Home","24-51, 10-26 Away",104,111,NULL,NULL,Final,NULL,33,18,30,23,NULL,36,22,27,26,NULL,NBA
+37,400975893,2018,"Sun, Apr 1",Atlanta Hawks,Orlando Magic,"22-55, 16-23 Home","22-54, 7-31 Away",94,88,NULL,NULL,Final,NULL,21,35,13,25,NULL,18,25,21,24,NULL,NBA
+38,400975916,2018,"Wed, Apr 4",Orlando Magic,Dallas Mavericks,"24-54, 16-23 Home","24-55, 9-30 Away",105,100,NULL,NULL,Final,NULL,33,23,21,28,NULL,22,29,23,26,NULL,NBA
+39,400975946,2018,"Sun, Apr 8",Toronto Raptors,Orlando Magic,"58-22, 34-7 Home","24-56, 8-32 Away",112,101,NULL,NULL,Final,NBATV,35,26,28,23,NULL,24,26,24,27,NULL,NBA
+40,400974702,2018,"Wed, Oct 18",Orlando Magic,Miami Heat,"1-0, 1-0 Home","0-1, 0-1 Away",116,109,NULL,NULL,Final,NULL,32,26,30,28,NULL,37,18,23,31,NULL,NBA
+41,400974779,2018,"Sat, Oct 21",Cleveland Cavaliers,Orlando Magic,"2-1, 1-1 Home","2-1, 1-1 Away",93,114,NULL,NULL,Final,NULL,18,27,20,28,NULL,36,20,32,26,NULL,NBA
+42,400974822,2018,"Fri, Oct 27",Orlando Magic,San Antonio Spurs,"4-1, 3-0 Home","4-1, 2-1 Away",114,87,NULL,NULL,Final,NULL,32,29,34,19,NULL,18,16,30,23,NULL,NBA
+43,400974848,2018,"Mon, Oct 30",New Orleans Pelicans,Orlando Magic,"3-4, 1-2 Home","5-2, 2-2 Away",99,115,NULL,NULL,Final,NULL,24,40,20,15,NULL,33,27,27,28,NULL,NBA
+44,400974871,2018,"Fri, Nov 3",Orlando Magic,Chicago Bulls,"6-3, 3-1 Home","2-5, 1-3 Away",83,105,NULL,NULL,Final,NULL,26,19,15,23,NULL,28,16,29,32,NULL,NBA
+45,400974911,2018,"Wed, Nov 8",Orlando Magic,New York Knicks,"7-4, 4-2 Home","6-5, 1-3 Away",112,99,NULL,NULL,Final,NULL,27,27,30,28,NULL,28,22,26,23,NULL,NBA
+46,400974936,2018,"Sat, Nov 11",Denver Nuggets,Orlando Magic,"8-5, 6-2 Home","8-5, 4-3 Away",125,107,NULL,NULL,Final,NULL,39,31,28,27,NULL,23,24,30,30,NULL,NBA
+47,400974964,2018,"Wed, Nov 15",Portland Trail Blazers,Orlando Magic,"8-6, 6-4 Home","8-7, 4-5 Away",99,94,NULL,NULL,Final,NULL,24,27,24,24,NULL,33,14,24,23,NULL,NBA
+48,400974994,2018,"Mon, Nov 20",Orlando Magic,Indiana Pacers,"8-9, 4-4 Home","10-8, 6-5 Away",97,105,NULL,NULL,Final,NBATV,31,24,17,25,NULL,34,16,28,27,NULL,NBA
+49,400975020,2018,"Fri, Nov 24",Boston Celtics,Orlando Magic,"17-3, 8-1 Home","8-11, 4-7 Away",118,103,NULL,NULL,Final,NULL,40,33,26,19,NULL,26,21,22,34,NULL,NBA
+50,400975041,2018,"Mon, Nov 27",Indiana Pacers,Orlando Magic,"12-9, 6-4 Home","8-13, 4-9 Away",121,109,NULL,NULL,Final,NULL,33,24,28,36,NULL,25,25,34,25,NULL,NBA
+51,400975069,2018,"Fri, Dec 1",Orlando Magic,Golden State Warriors,"9-14, 5-5 Home","17-6, 9-3 Away",112,133,NULL,NULL,Final,NULL,34,29,28,21,NULL,41,37,24,31,NULL,NBA
+52,400975090,2018,"Mon, Dec 4",Charlotte Hornets,Orlando Magic,"9-13, 8-3 Home","10-15, 5-10 Away",104,94,NULL,NULL,Final,NULL,26,28,21,29,NULL,23,22,29,20,NULL,NBA
+53,400975121,2018,"Fri, Dec 8",Orlando Magic,Denver Nuggets,"11-16, 6-6 Home","14-11, 4-9 Away",89,103,NULL,NULL,Final,NULL,25,23,22,19,NULL,14,35,32,22,NULL,NBA
+54,400975156,2018,"Wed, Dec 13",Orlando Magic,LA Clippers,"11-18, 6-7 Home","11-15, 5-8 Away",95,106,NULL,NULL,Final,NULL,24,16,28,27,NULL,13,32,29,32,NULL,NBA
+55,400975189,2018,"Sun, Dec 17",Detroit Pistons,Orlando Magic,"17-13, 9-5 Home","11-20, 5-12 Away",114,110,NULL,NULL,Final,NULL,36,24,36,18,NULL,23,20,36,31,NULL,NBA
+56,400975223,2018,"Fri, Dec 22",Orlando Magic,New Orleans Pelicans,"11-22, 6-9 Home","16-16, 8-9 Away",97,111,NULL,NULL,Final,NULL,20,30,22,25,NULL,32,28,28,23,NULL,NBA
+57,400975246,2018,"Tue, Dec 26",Miami Heat,Orlando Magic,"18-16, 8-8 Home","11-24, 5-15 Away",107,89,NULL,NULL,Final,NULL,21,22,25,39,NULL,18,31,19,21,NULL,NBA
+58,400975277,2018,"Sat, Dec 30",Orlando Magic,Miami Heat,"12-25, 7-10 Home","19-17, 11-8 Away",111,117,NULL,NULL,Final,NULL,32,34,26,19,NULL,21,29,36,31,NULL,NBA
+59,400975300,2018,"Wed, Jan 3",Orlando Magic,Houston Rockets,"12-27, 7-11 Home","27-9, 13-4 Away",98,116,NULL,NULL,Final,NULL,12,29,25,32,NULL,25,30,34,27,NULL,NBA
+60,400975347,2018,"Tue, Jan 9",Dallas Mavericks,Orlando Magic,"14-28, 9-14 Home","12-29, 5-17 Away",114,99,NULL,NULL,Final,NULL,25,18,39,32,NULL,19,29,27,24,NULL,NBA
+61,400975366,2018,"Fri, Jan 12",Washington Wizards,Orlando Magic,"24-18, 14-8 Home","12-31, 5-19 Away",125,119,NULL,NULL,Final,NULL,34,31,33,27,NULL,33,30,35,21,NULL,NBA
+62,400975410,2018,"Thu, Jan 18",Cleveland Cavaliers,Orlando Magic,"27-17, 16-5 Home","13-32, 5-20 Away",104,103,NULL,NULL,Final,NULL,36,31,17,20,NULL,20,27,33,23,NULL,NBA
+63,400975442,2018,"Tue, Jan 23",Orlando Magic,Sacramento Kings,"14-33, 8-13 Home","14-33, 7-19 Away",99,105,NULL,NULL,Final,NULL,27,26,29,17,NULL,28,24,25,28,NULL,NBA
+64,400975494,2018,"Tue, Jan 30",Houston Rockets,Orlando Magic,"36-13, 20-6 Home","14-35, 6-22 Away",114,107,NULL,NULL,Final,NULL,27,27,36,24,NULL,30,25,33,19,NULL,NBA
+65,400975524,2018,"Sat, Feb 3",Orlando Magic,Washington Wizards,"15-36, 9-14 Home","30-22, 13-13 Away",98,115,NULL,NULL,Final,NULL,25,22,22,29,NULL,31,25,31,28,NULL,NBA
+66,400975543,2018,"Tue, Feb 6",Orlando Magic,Cleveland Cavaliers,"17-36, 10-14 Home","30-22, 11-15 Away",116,98,NULL,NULL,Final,NULL,31,20,41,24,NULL,43,24,22,9,NULL,NBA
+67,400975573,2018,"Sat, Feb 10",Orlando Magic,Milwaukee Bucks,"18-37, 11-15 Home","31-24, 13-15 Away",104,111,NULL,NULL,Final,NULL,29,25,20,30,NULL,24,26,28,33,NULL,NBA
+68,400975600,2018,"Wed, Feb 14",Orlando Magic,Charlotte Hornets,"18-39, 11-16 Home","24-33, 9-18 Away",102,104,NULL,NULL,Final,NULL,26,27,25,24,NULL,20,34,31,19,NULL,NBA
+69,400975630,2018,"Sat, Feb 24",Philadelphia 76ers,Orlando Magic,"32-25, 19-10 Home","18-41, 7-24 Away",116,105,NULL,NULL,Final,NULL,27,31,29,29,NULL,18,22,31,34,NULL,NBA
+70,400975660,2018,"Wed, Feb 28",Orlando Magic,Toronto Raptors,"18-43, 11-18 Home","43-17, 18-12 Away",104,117,NULL,NULL,Final,NULL,37,26,26,15,NULL,42,27,21,27,NULL,NBA
+71,400975682,2018,"Sat, Mar 3",Orlando Magic,Memphis Grizzlies,"20-43, 13-18 Home","18-44, 5-24 Away",107,100,NULL,NULL,Final,NULL,31,21,25,30,NULL,27,25,27,21,NULL,NBA
+72,400975717,2018,"Wed, Mar 7",Los Angeles Lakers,Orlando Magic,"29-35, 16-15 Home","20-45, 7-27 Away",108,107,NULL,NULL,Final,NULL,23,33,25,27,NULL,32,19,28,28,NULL,NBA
+73,400975737,2018,"Sat, Mar 10",LA Clippers,Orlando Magic,"36-29, 20-14 Home","20-47, 7-29 Away",113,105,NULL,NULL,Final,NULL,30,26,31,26,NULL,27,31,31,16,NULL,NBA
+74,400975762,2018,"Wed, Mar 14",Orlando Magic,Milwaukee Bucks,"21-48, 14-18 Home","36-32, 15-18 Away",126,117,NULL,NULL,Final,NULL,36,25,30,35,NULL,20,32,28,37,NULL,NBA
+75,400975804,2018,"Tue, Mar 20",Orlando Magic,Toronto Raptors,"21-50, 14-20 Home","53-18, 24-12 Away",86,93,NULL,NULL,Final,NULL,25,26,25,10,NULL,24,28,16,25,NULL,NBA
+76,400975836,2018,"Sat, Mar 24",Orlando Magic,Phoenix Suns,"22-51, 15-21 Home","19-55, 10-28 Away",105,99,NULL,NULL,Final,NULL,26,12,39,28,NULL,23,23,28,25,NULL,NBA
+77,400975875,2018,"Fri, Mar 30",Orlando Magic,Chicago Bulls,"22-53, 15-23 Home","25-51, 10-29 Away",82,90,NULL,NULL,Final,NULL,24,20,25,13,NULL,30,27,9,24,NULL,NBA
+78,400975905,2018,"Tue, Apr 3",New York Knicks,Orlando Magic,"27-51, 18-20 Home","23-54, 8-31 Away",73,97,NULL,NULL,Final,NULL,25,20,16,12,NULL,27,19,22,29,NULL,NBA
+79,400975928,2018,"Fri, Apr 6",Orlando Magic,Charlotte Hornets,"24-55, 16-24 Home","35-45, 14-26 Away",100,137,NULL,NULL,Final,NULL,25,24,26,25,NULL,43,29,31,34,NULL,NBA
+80,400975954,2018,"Mon, Apr 9",Milwaukee Bucks,Orlando Magic,"44-37, 25-16 Home","24-57, 8-33 Away",102,86,NULL,NULL,Final,NULL,31,14,29,28,NULL,21,21,25,19,NULL,NBA
+81,400975968,2018,"Wed, Apr 11",Orlando Magic,Washington Wizards,"25-57, 17-24 Home","43-39, 20-21 Away",101,92,NULL,NULL,Final,NULL,26,29,21,25,NULL,23,22,30,17,NULL,NBA

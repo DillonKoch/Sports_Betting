@@ -1,0 +1,83 @@
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,400899426,2017,"Thu, Oct 27",Portland Trail Blazers,LA Clippers,"1-1, 1-1 Home","1-0, 1-0 Away",106,114,NULL,NULL,Final,TNT,27,22,33,24,NULL,28,30,24,32,NULL,NBA
+1,400899504,2017,"Tue, Nov 1",Portland Trail Blazers,Golden State Warriors,"2-2, 1-2 Home","3-1, 3-0 Away",104,127,NULL,NULL,Final,NBATV,25,28,20,31,NULL,34,25,41,27,NULL,NBA
+2,400899526,2017,"Fri, Nov 4",Dallas Mavericks,Portland Trail Blazers,"0-5, 0-2 Home","3-3, 2-1 Away",95,105,NULL,NULL,Final,NULL,26,26,24,19,NULL,26,29,24,26,NULL,NBA
+3,400899553,2017,"Tue, Nov 8",Portland Trail Blazers,Phoenix Suns,"5-3, 2-2 Home","2-6, 1-4 Away",124,121,NULL,NULL,Final,NULL,42,21,26,35,NULL,25,30,27,39,NULL,NBA
+4,400899578,2017,"Fri, Nov 11",Portland Trail Blazers,Sacramento Kings,"6-4, 3-2 Home","4-7, 2-5 Away",122,120,NULL,NULL,Final/OT,NULL,35,27,22,22,16,31,26,26,23,14,NBA
+5,400899606,2017,"Tue, Nov 15",Portland Trail Blazers,Chicago Bulls,"7-5, 4-3 Home","7-4, 3-3 Away",88,113,NULL,NULL,Final,NBATV,14,23,26,25,NULL,35,21,27,30,NULL,NBA
+6,400899627,2017,"Fri, Nov 18",New Orleans Pelicans,Portland Trail Blazers,"3-10, 2-5 Home","7-7, 3-4 Away",113,101,NULL,NULL,Final,NULL,31,33,24,25,NULL,28,23,24,26,NULL,NBA
+7,400899658,2017,"Tue, Nov 22",New York Knicks,Portland Trail Blazers,"7-7, 6-2 Home","8-8, 4-5 Away",107,103,NULL,NULL,Final,NULL,28,32,21,26,NULL,33,25,23,22,NULL,NBA
+8,400899687,2017,"Fri, Nov 25",Portland Trail Blazers,New Orleans Pelicans,"9-9, 5-3 Home","6-11, 2-6 Away",119,104,NULL,NULL,Final,NULL,32,34,34,19,NULL,34,23,26,21,NULL,NBA
+9,400899725,2017,"Wed, Nov 30",Portland Trail Blazers,Indiana Pacers,"10-10, 6-4 Home","9-10, 1-6 Away",131,109,NULL,NULL,Final,NBATV,31,42,36,22,NULL,23,35,25,26,NULL,NBA
+10,400899750,2017,"Mon, Dec 5",Chicago Bulls,Portland Trail Blazers,"11-9, 5-3 Home","12-10, 5-6 Away",110,112,NULL,NULL,Final,NULL,32,25,30,23,NULL,29,36,21,26,NULL,NBA
+11,400899775,2017,"Thu, Dec 8",Memphis Grizzlies,Portland Trail Blazers,"16-8, 9-4 Home","12-12, 5-8 Away",88,86,NULL,NULL,Final,NULL,14,29,18,27,NULL,22,28,19,17,NULL,NBA
+12,400899808,2017,"Mon, Dec 12",LA Clippers,Portland Trail Blazers,"18-7, 9-4 Home","12-14, 5-10 Away",121,120,NULL,NULL,Final,NBATV,38,18,33,32,NULL,27,33,26,34,NULL,NBA
+13,400899828,2017,"Thu, Dec 15",Denver Nuggets,Portland Trail Blazers,"10-16, 4-7 Home","13-15, 5-11 Away",132,120,NULL,NULL,Final,NULL,38,36,26,32,NULL,28,28,29,35,NULL,NBA
+14,400899870,2017,"Tue, Dec 20",Sacramento Kings,Portland Trail Blazers,"11-17, 6-6 Home","13-17, 5-13 Away",126,121,NULL,NULL,Final,NULL,27,33,33,33,NULL,35,37,27,22,NULL,NBA
+15,400899896,2017,"Fri, Dec 23",Portland Trail Blazers,San Antonio Spurs,"13-19, 8-6 Home","24-6, 16-2 Away",90,110,NULL,NULL,Final,NULL,27,18,27,18,NULL,27,30,30,23,NULL,NBA
+16,400899926,2017,"Wed, Dec 28",Portland Trail Blazers,Sacramento Kings,"14-20, 9-7 Home","14-18, 7-12 Away",102,89,NULL,NULL,Final,NULL,30,30,15,27,NULL,21,23,19,26,NULL,NBA
+17,400899385,2017,"Sun, Jan 1",Minnesota Timberwolves,Portland Trail Blazers,"11-23, 6-12 Home","15-21, 6-14 Away",89,95,NULL,NULL,Final,NULL,23,26,15,25,NULL,24,13,32,26,NULL,NBA
+18,400899963,2017,"Thu, Jan 5",Portland Trail Blazers,Los Angeles Lakers,"16-22, 10-7 Home","13-26, 5-16 Away",118,109,NULL,NULL,Final,TNT,29,24,31,34,NULL,24,38,22,25,NULL,NBA
+19,400933467,2017,"Sun, Jan 8",Portland Trail Blazers,Detroit Pistons,"16-23, 10-8 Home","18-21, 8-12 Away",124,125,NULL,NULL,Final/2OT,NULL,30,26,31,19,18,31,22,27,26,19,NBA
+20,400900006,2017,"Wed, Jan 11",Portland Trail Blazers,Cleveland Cavaliers,"18-23, 11-8 Home","28-10, 10-7 Away",102,86,NULL,NULL,Final,ESPN,27,22,24,29,NULL,20,21,20,25,NULL,NBA
+21,400900035,2017,"Mon, Jan 16",Washington Wizards,Portland Trail Blazers,"21-19, 17-6 Home","18-25, 7-16 Away",120,101,NULL,NULL,Final,NULL,37,38,26,19,NULL,21,29,27,24,NULL,NBA
+22,400900062,2017,"Fri, Jan 20",Philadelphia 76ers,Portland Trail Blazers,"15-26, 10-14 Home","18-27, 7-18 Away",93,92,NULL,NULL,Final,NULL,22,21,27,23,NULL,33,23,15,21,NULL,NBA
+23,400900110,2017,"Wed, Jan 25",Portland Trail Blazers,Los Angeles Lakers,"20-27, 12-9 Home","16-33, 5-20 Away",105,98,NULL,NULL,Final,ESPN,30,29,24,22,NULL,31,27,17,23,NULL,NBA
+24,400900139,2017,"Sun, Jan 29",Portland Trail Blazers,Golden State Warriors,"21-28, 13-10 Home","41-7, 20-4 Away",111,113,NULL,NULL,Final,NBATV,24,26,24,37,NULL,33,20,31,29,NULL,NBA
+25,400900159,2017,"Fri, Feb 3",Portland Trail Blazers,Dallas Mavericks,"22-29, 14-11 Home","20-30, 8-18 Away",104,108,NULL,NULL,Final,ESPN,22,25,29,28,NULL,35,25,24,24,NULL,NBA
+26,400900186,2017,"Tue, Feb 7",Dallas Mavericks,Portland Trail Blazers,"20-32, 12-13 Home","23-30, 9-19 Away",113,114,NULL,NULL,Final,NULL,27,26,29,31,NULL,32,32,22,28,NULL,NBA
+27,400900235,2017,"Mon, Feb 13",Portland Trail Blazers,Atlanta Hawks,"23-32, 14-13 Home","32-23, 16-12 Away",104,109,NULL,NULL,Final/OT,TNT,28,20,26,23,7,21,21,33,22,12,NBA
+28,400900256,2017,"Thu, Feb 23",Orlando Magic,Portland Trail Blazers,"21-38, 9-19 Home","24-33, 10-20 Away",103,112,NULL,NULL,Final,NULL,25,30,30,18,NULL,23,23,31,35,NULL,NBA
+29,400900296,2017,"Tue, Feb 28",Detroit Pistons,Portland Trail Blazers,"29-31, 19-12 Home","24-35, 10-22 Away",120,113,NULL,NULL,Final/OT,NULL,19,25,31,34,11,27,22,30,30,4,NBA
+30,400900321,2017,"Sat, Mar 4",Portland Trail Blazers,Brooklyn Nets,"26-35, 16-13 Home","10-51, 3-27 Away",130,116,NULL,NULL,Final,NULL,37,21,32,40,NULL,27,30,25,34,NULL,NBA
+31,400900341,2017,"Tue, Mar 7",Oklahoma City Thunder,Portland Trail Blazers,"35-29, 23-9 Home","27-35, 11-22 Away",121,126,NULL,NULL,Final,NBATV,40,27,25,29,NULL,29,32,38,27,NULL,NBA
+32,400900378,2017,"Sat, Mar 11",Portland Trail Blazers,Washington Wizards,"28-36, 17-14 Home","41-24, 15-15 Away",124,125,NULL,NULL,Final/OT,NULL,36,34,21,21,12,30,19,33,30,13,NBA
+33,400900397,2017,"Tue, Mar 14",New Orleans Pelicans,Portland Trail Blazers,"27-40, 16-18 Home","29-37, 12-23 Away",100,77,NULL,NULL,Final,NULL,23,27,27,23,NULL,16,20,18,23,NULL,NBA
+34,400900424,2017,"Sat, Mar 18",Atlanta Hawks,Portland Trail Blazers,"37-32, 19-17 Home","31-37, 14-23 Away",97,113,NULL,NULL,Final,NULL,18,28,27,24,NULL,40,23,22,28,NULL,NBA
+35,400900452,2017,"Tue, Mar 21",Portland Trail Blazers,Milwaukee Bucks,"32-38, 17-15 Home","35-35, 15-19 Away",90,93,NULL,NULL,Final,NULL,21,14,28,27,NULL,18,30,19,26,NULL,NBA
+36,400900481,2017,"Sat, Mar 25",Portland Trail Blazers,Minnesota Timberwolves,"34-38, 19-15 Home","28-44, 10-25 Away",112,100,NULL,NULL,Final,NULL,27,33,34,18,NULL,21,25,28,26,NULL,NBA
+37,400900504,2017,"Tue, Mar 28",Portland Trail Blazers,Denver Nuggets,"36-38, 20-15 Home","35-39, 14-21 Away",122,113,NULL,NULL,Final,NULL,32,34,29,27,NULL,35,29,21,28,NULL,NBA
+38,400899401,2017,"Sat, Apr 1",Portland Trail Blazers,Phoenix Suns,"38-38, 22-15 Home","22-55, 9-31 Away",130,117,NULL,NULL,Final,NULL,37,26,34,33,NULL,21,32,34,30,NULL,NBA
+39,400900542,2017,"Tue, Apr 4",Utah Jazz,Portland Trail Blazers,"48-30, 27-12 Home","38-40, 16-25 Away",106,87,NULL,NULL,Final,NULL,24,23,28,31,NULL,17,24,23,23,NULL,NBA
+40,400900572,2017,"Sat, Apr 8",Portland Trail Blazers,Utah Jazz,"40-40, 24-15 Home","49-31, 21-19 Away",101,86,NULL,NULL,Final,NULL,34,14,29,24,NULL,20,22,18,26,NULL,NBA
+41,400899376,2017,"Tue, Oct 25",Portland Trail Blazers,Utah Jazz,"1-0, 1-0 Home","0-1, 0-1 Away",113,104,NULL,NULL,Final,NULL,26,28,23,36,NULL,26,20,37,21,NULL,NBA
+42,400899483,2017,"Sat, Oct 29",Denver Nuggets,Portland Trail Blazers,"1-1, 0-1 Home","2-1, 1-0 Away",113,115,NULL,NULL,Final/OT,NULL,28,26,34,16,9,33,29,19,23,11,NBA
+43,400899513,2017,"Wed, Nov 2",Phoenix Suns,Portland Trail Blazers,"1-4, 1-2 Home","2-3, 1-1 Away",118,115,NULL,NULL,Final/OT,NULL,28,29,19,27,15,28,25,20,30,12,NBA
+44,400899538,2017,"Sun, Nov 6",Memphis Grizzlies,Portland Trail Blazers,"3-4, 3-2 Home","4-3, 3-1 Away",94,100,NULL,NULL,Final,NULL,22,29,26,17,NULL,25,22,29,24,NULL,NBA
+45,400899565,2017,"Wed, Nov 9",LA Clippers,Portland Trail Blazers,"7-1, 4-1 Home","5-4, 3-2 Away",111,80,NULL,NULL,Final,NULL,36,25,32,18,NULL,16,16,18,30,NULL,NBA
+46,400899594,2017,"Sun, Nov 13",Portland Trail Blazers,Denver Nuggets,"7-4, 4-2 Home","3-7, 3-4 Away",112,105,NULL,NULL,Final,NULL,20,30,36,26,NULL,28,29,15,33,NULL,NBA
+47,400899621,2017,"Thu, Nov 17",Houston Rockets,Portland Trail Blazers,"7-5, 3-1 Home","7-6, 3-3 Away",126,109,NULL,NULL,Final,NULL,41,21,38,26,NULL,29,33,21,26,NULL,NBA
+48,400899644,2017,"Sun, Nov 20",Brooklyn Nets,Portland Trail Blazers,"4-9, 3-3 Home","8-7, 4-4 Away",109,129,NULL,NULL,Final,NULL,29,35,20,25,NULL,32,38,29,30,NULL,NBA
+49,400899665,2017,"Wed, Nov 23",Cleveland Cavaliers,Portland Trail Blazers,"11-2, 8-1 Home","8-9, 4-6 Away",137,125,NULL,NULL,Final,NULL,46,35,31,25,NULL,31,29,32,33,NULL,NBA
+50,400899701,2017,"Sun, Nov 27",Portland Trail Blazers,Houston Rockets,"9-10, 5-4 Home","11-6, 7-4 Away",114,130,NULL,NULL,Final,NULL,35,27,31,21,NULL,35,30,31,34,NULL,NBA
+51,400899740,2017,"Sat, Dec 3",Portland Trail Blazers,Miami Heat,"11-10, 7-4 Home","7-13, 5-6 Away",99,92,NULL,NULL,Final,NULL,21,34,18,26,NULL,29,20,22,21,NULL,NBA
+52,400899767,2017,"Wed, Dec 7",Milwaukee Bucks,Portland Trail Blazers,"11-9, 8-5 Home","12-11, 5-7 Away",115,107,NULL,NULL,Final,NULL,28,23,34,30,NULL,28,30,18,31,NULL,NBA
+53,400899790,2017,"Sat, Dec 10",Indiana Pacers,Portland Trail Blazers,"12-12, 9-4 Home","12-13, 5-9 Away",118,111,NULL,NULL,Final,NULL,31,33,26,28,NULL,44,27,27,13,NULL,NBA
+54,400899815,2017,"Tue, Dec 13",Portland Trail Blazers,Oklahoma City Thunder,"13-14, 8-4 Home","15-10, 5-5 Away",114,95,NULL,NULL,Final,ESPN,32,36,24,22,NULL,31,21,19,24,NULL,NBA
+55,400899847,2017,"Sat, Dec 17",Golden State Warriors,Portland Trail Blazers,"24-4, 11-2 Home","13-16, 5-12 Away",135,90,NULL,NULL,Final,NULL,39,31,38,27,NULL,21,24,27,18,NULL,NBA
+56,400899878,2017,"Wed, Dec 21",Portland Trail Blazers,Dallas Mavericks,"13-18, 8-5 Home","8-21, 2-13 Away",95,96,NULL,NULL,Final,NBATV,20,18,33,24,NULL,30,32,19,15,NULL,NBA
+57,400899911,2017,"Mon, Dec 26",Portland Trail Blazers,Toronto Raptors,"13-20, 8-7 Home","22-8, 11-3 Away",91,95,NULL,NULL,Final,NULL,24,18,26,23,NULL,21,22,30,22,NULL,NBA
+58,400899941,2017,"Fri, Dec 30",San Antonio Spurs,Portland Trail Blazers,"27-6, 11-4 Home","14-21, 5-14 Away",110,94,NULL,NULL,Final,NULL,22,25,33,30,NULL,32,20,21,21,NULL,NBA
+59,400899955,2017,"Wed, Jan 4",Golden State Warriors,Portland Trail Blazers,"31-5, 16-2 Home","15-22, 6-15 Away",125,117,NULL,NULL,Final,ESPN,40,29,30,26,NULL,34,37,21,25,NULL,NBA
+60,400899998,2017,"Tue, Jan 10",Los Angeles Lakers,Portland Trail Blazers,"15-27, 10-11 Home","17-23, 7-15 Away",87,108,NULL,NULL,Final,NULL,26,31,12,18,NULL,25,30,23,30,NULL,NBA
+61,400900019,2017,"Fri, Jan 13",Portland Trail Blazers,Orlando Magic,"18-24, 11-9 Home","17-24, 10-11 Away",109,115,NULL,NULL,Final,NULL,23,26,29,31,NULL,36,18,28,33,NULL,NBA
+62,400900050,2017,"Wed, Jan 18",Charlotte Hornets,Portland Trail Blazers,"21-21, 13-7 Home","18-26, 7-17 Away",107,85,NULL,NULL,Final,NULL,23,31,25,28,NULL,26,20,26,13,NULL,NBA
+63,400900071,2017,"Sat, Jan 21",Boston Celtics,Portland Trail Blazers,"26-17, 13-8 Home","19-27, 8-18 Away",123,127,NULL,NULL,Final/OT,NULL,28,37,21,27,10,26,30,32,25,14,NBA
+64,400900124,2017,"Fri, Jan 27",Portland Trail Blazers,Memphis Grizzlies,"21-27, 13-9 Home","27-21, 11-12 Away",112,109,NULL,NULL,Final,NULL,28,34,23,27,NULL,24,32,28,25,NULL,NBA
+65,400900149,2017,"Tue, Jan 31",Portland Trail Blazers,Charlotte Hornets,"22-28, 14-10 Home","23-26, 8-16 Away",115,98,NULL,NULL,Final,NBATV,28,28,30,29,NULL,23,27,18,30,NULL,NBA
+66,400900172,2017,"Sun, Feb 5",Oklahoma City Thunder,Portland Trail Blazers,"30-22, 18-7 Home","22-30, 8-19 Away",105,99,NULL,NULL,Final,NULL,24,22,25,34,NULL,16,36,21,26,NULL,NBA
+67,400900203,2017,"Thu, Feb 9",Portland Trail Blazers,Boston Celtics,"23-31, 14-12 Home","34-19, 15-11 Away",111,120,NULL,NULL,Final,TNT,32,23,21,35,NULL,22,27,28,43,NULL,NBA
+68,400900249,2017,"Wed, Feb 15",Utah Jazz,Portland Trail Blazers,"35-22, 20-11 Home","23-33, 9-20 Away",111,88,NULL,NULL,Final,NULL,18,22,34,37,NULL,17,20,25,26,NULL,NBA
+69,400900284,2017,"Sun, Feb 26",Toronto Raptors,Portland Trail Blazers,"35-24, 21-10 Home","24-34, 10-21 Away",112,106,NULL,NULL,Final,NULL,25,28,29,30,NULL,28,24,28,26,NULL,NBA
+70,400900303,2017,"Thu, Mar 2",Portland Trail Blazers,Oklahoma City Thunder,"25-35, 15-13 Home","35-26, 12-18 Away",114,109,NULL,NULL,Final,TNT,26,31,24,33,NULL,24,36,25,24,NULL,NBA
+71,400900358,2017,"Thu, Mar 9",Portland Trail Blazers,Philadelphia 76ers,"28-35, 17-13 Home","23-41, 8-22 Away",114,108,NULL,NULL,Final/OT,NULL,27,30,19,21,17,17,35,26,19,11,NBA
+72,400900383,2017,"Sun, Mar 12",Phoenix Suns,Portland Trail Blazers,"22-45, 13-21 Home","29-36, 12-22 Away",101,110,NULL,NULL,Final,NULL,18,32,29,22,NULL,33,33,16,28,NULL,NBA
+73,400900406,2017,"Wed, Mar 15",San Antonio Spurs,Portland Trail Blazers,"52-15, 25-7 Home","30-37, 13-23 Away",106,110,NULL,NULL,Final,ESPN,29,26,25,26,NULL,28,26,28,28,NULL,NBA
+74,400900436,2017,"Sun, Mar 19",Miami Heat,Portland Trail Blazers,"34-36, 20-15 Home","32-37, 15-23 Away",104,115,NULL,NULL,Final,NULL,29,22,28,25,NULL,28,24,33,30,NULL,NBA
+75,400900466,2017,"Thu, Mar 23",Portland Trail Blazers,New York Knicks,"33-38, 18-15 Home","27-45, 11-27 Away",110,95,NULL,NULL,Final,NULL,37,30,18,25,NULL,23,23,22,27,NULL,NBA
+76,400900491,2017,"Sun, Mar 26",Los Angeles Lakers,Portland Trail Blazers,"21-52, 13-23 Home","35-38, 16-23 Away",81,97,NULL,NULL,Final,NBATV,17,15,24,25,NULL,22,18,37,20,NULL,NBA
+77,400900520,2017,"Thu, Mar 30",Portland Trail Blazers,Houston Rockets,"37-38, 21-15 Home","51-24, 23-14 Away",117,107,NULL,NULL,Final,TNT,32,33,31,21,NULL,31,25,29,22,NULL,NBA
+78,400946146,2017,"Mon, Apr 3",Minnesota Timberwolves,Portland Trail Blazers,"31-45, 20-20 Home","38-39, 16-24 Away",110,109,NULL,NULL,Final,NBATV,29,20,37,24,NULL,23,34,26,26,NULL,NBA
+79,400900556,2017,"Thu, Apr 6",Portland Trail Blazers,Minnesota Timberwolves,"39-40, 23-15 Home","31-47, 11-27 Away",105,98,NULL,NULL,Final,TNT,20,33,27,25,NULL,34,27,26,11,NULL,NBA
+80,400900587,2017,"Mon, Apr 10",Portland Trail Blazers,San Antonio Spurs,"41-40, 25-15 Home","61-20, 30-10 Away",99,98,NULL,NULL,Final,NULL,31,16,24,28,NULL,28,15,33,22,NULL,NBA
+81,400900608,2017,"Wed, Apr 12",Portland Trail Blazers,New Orleans Pelicans,"41-41, 25-16 Home","34-48, 13-28 Away",100,103,NULL,NULL,Final,ESPN,30,23,32,15,NULL,22,31,25,25,NULL,NBA
