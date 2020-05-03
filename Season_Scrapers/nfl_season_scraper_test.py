@@ -4,7 +4,7 @@
 # File Created: Saturday, 2nd May 2020 7:47:01 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Saturday, 2nd May 2020 7:55:09 pm
+# Last Modified: Saturday, 2nd May 2020 7:56:20 pm
 # Modified By: Dillon Koch
 # -----
 # Collins Aerospace
@@ -34,4 +34,4 @@ class Test_NFL_Season_Scraper(TestCase):
         pass
 
     def test_sections(self):
-        self.assertEqual()
+        self.assertEqual(28, len(self.sections))
