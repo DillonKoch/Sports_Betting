@@ -4,7 +4,7 @@
 # File Created: Saturday, 2nd May 2020 7:47:01 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Saturday, 2nd May 2020 7:56:20 pm
+# Last Modified: Sunday, 3rd May 2020 4:07:18 pm
 # Modified By: Dillon Koch
 # -----
 # Collins Aerospace
@@ -35,3 +35,5 @@ class Test_NFL_Season_Scraper(TestCase):
 
     def test_sections(self):
         self.assertEqual(28, len(self.sections))
+        for section in self.sections:
+            self.assertTrue('bs4.element.Tag' in str(type(section)))
