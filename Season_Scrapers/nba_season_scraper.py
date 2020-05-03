@@ -4,7 +4,7 @@
 # File Created: Saturday, 2nd May 2020 6:38:35 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Saturday, 2nd May 2020 7:16:21 pm
+# Last Modified: Saturday, 2nd May 2020 7:46:20 pm
 # Modified By: Dillon Koch
 # -----
 # Collins Aerospace
@@ -33,4 +33,5 @@ class NBA_Season_Scraper(ESPN_Season_Scraper):
 
 if __name__ == "__main__":
     x = NBA_Season_Scraper()
-    sections = x._get_game_sections('mia', '2020')
+    sections = x._get_game_sections('mia', '2019')
+    dates = [x._game_date_from_section(section) for section in sections]
