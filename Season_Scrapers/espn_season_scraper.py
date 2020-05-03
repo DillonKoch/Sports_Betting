@@ -4,7 +4,7 @@
 # File Created: Tuesday, 14th April 2020 5:08:27 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Friday, 1st May 2020 5:45:57 pm
+# Last Modified: Saturday, 2nd May 2020 7:15:09 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -16,11 +16,17 @@
 import json
 import os
 import re
+import sys
 import time
+from os.path import abspath, dirname
 
 import pandas as pd
 from func_timeout import func_set_timeout
 from tqdm import tqdm
+
+ROOT_PATH = dirname(dirname(abspath(__file__)))
+if ROOT_PATH not in sys.path:
+    sys.path.append(ROOT_PATH)
 
 from espn_game_scraper import ESPN_Game_Scraper
 from Utility import dt_from_date_str, get_sp1, null_if_error
@@ -45,7 +51,7 @@ class ESPN_Season_Scraper:
             data = json.load(f)
         return data
 
-    def _get_game_sections(self, league, team_abbrev, year, season_type=2):  # Specific Helper team_dates_links
+    def _get_game_sections(self, team_abbrev, year, season_type=2):  # Specific Helper team_dates_links
         """
         _get_game_sections gets the html for each row in a team's season schedule
 
@@ -58,7 +64,7 @@ class ESPN_Season_Scraper:
         Returns:
             [type]: [description]
         """
-        base_link = self.json_data[league]["Season Base Link"].format(
+        base_link = self.json_data[self.league]["Season Base Link"].format(
             team_abbrev=team_abbrev, year=year, season_type=season_type)
         sp = get_sp1(base_link)
         sections = sp.find_all('tr', attrs={'class': 'filled Table__TR Table__TR--sm Table__even'})
