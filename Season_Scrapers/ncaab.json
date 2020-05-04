@@ -1,0 +1,976 @@
+{
+    "NCAAB": {
+        "Teams": [
+            [
+                "Florida Gulf Coast Eagles",
+                "526",
+                "ASUN"
+            ],
+            [
+                "Jacksonville Dolphins",
+                "294",
+                "ASUN"
+            ],
+            [
+                "Kennesaw State Owls",
+                "338",
+                "ASUN"
+            ],
+            [
+                "Liberty Flames",
+                "2335",
+                "ASUN"
+            ],
+            [
+                "Lipscomb Bisons",
+                "288",
+                "ASUN"
+            ],
+            [
+                "NJIT Highlanders",
+                "2885",
+                "ASUN"
+            ],
+            [
+                "North Alabama Lions",
+                "2453",
+                "ASUN"
+            ],
+            [
+                "North Florida Ospreys",
+                "2454",
+                "ASUN"
+            ],
+            [
+                "Stetson Hatters",
+                "56",
+                "ASUN"
+            ],
+            [
+                "Albany Great Danes",
+                "399",
+                "America East"
+            ],
+            [
+                "Binghampton Bearcats",
+                "2066",
+                "America East"
+            ],
+            [
+                "Hartford Hawks",
+                "42",
+                "America East"
+            ],
+            [
+                "Maine Black Bears",
+                "311",
+                "America East"
+            ],
+            [
+                "New Hampshire Wildcats",
+                "160",
+                "America East"
+            ],
+            [
+                "Stony Brook Seawolves",
+                "2619",
+                "America East"
+            ],
+            [
+                "UMBC Retrievers",
+                "2378",
+                "America East"
+            ],
+            [
+                "UMass Lowell River Hawks",
+                "2349",
+                "America East"
+            ],
+            [
+                "Vermont Catamounts",
+                "261",
+                "America East"
+            ],
+            [
+                "Cincinnati Bearcats",
+                "2132",
+                "American"
+            ],
+            [
+                "East Carolina Pirates",
+                "151",
+                "American"
+            ],
+            [
+                "Houston Cougars",
+                "248",
+                "American"
+            ],
+            [
+                "Memphis Tigers",
+                "235",
+                "American"
+            ],
+            [
+                "SMU Mustangs",
+                "2567",
+                "American"
+            ],
+            [
+                "South Florida Bulls",
+                "58",
+                "American"
+            ],
+            [
+                "Temple Owls",
+                "218",
+                "American"
+            ],
+            [
+                "Tulane Green Wave",
+                "2655",
+                "American"
+            ],
+            [
+                "Tulsa Golden Hurricane",
+                "202",
+                "American"
+            ],
+            [
+                "UCF Knights",
+                "2116",
+                "American"
+            ],
+            [
+                "UConn Huskies",
+                "41",
+                "American"
+            ],
+            [
+                "Wichita State Shockers",
+                "2724",
+                "American"
+            ],
+            [
+                "Davidson Wildcats",
+                "2166",
+                "Atlantic 10"
+            ],
+            [
+                "Dayton Flyers",
+                "2168",
+                "Atlantic 10"
+            ],
+            [
+                "Duquesne Dukes",
+                "2184",
+                "Atlantic 10"
+            ],
+            [
+                "Fordham Rams",
+                "2230",
+                "Atlantic 10"
+            ],
+            [
+                "George Mason Patriots",
+                "2244",
+                "Atlantic 10"
+            ],
+            [
+                "George Washington Colonials",
+                "45",
+                "Atlantic 10"
+            ],
+            [
+                "La Salle Explorers",
+                "2325",
+                "Atlantic 10"
+            ],
+            [
+                "Massachusetts Minutemen",
+                "113",
+                "Atlantic 10"
+            ],
+            [
+                "Rhode Island Rams",
+                "227",
+                "Atlantic 10"
+            ],
+            [
+                "Richmond Spiders",
+                "257",
+                "Atlantic 10"
+            ],
+            [
+                "Saint Joseph's Hawks",
+                "2603",
+                "Atlantic 10"
+            ],
+            [
+                "Saint Louis Billikens",
+                "139",
+                "Atlantic 10"
+            ],
+            [
+                "St. Bonaventure Bonnies",
+                "179",
+                "Atlantic 10"
+            ],
+            [
+                "VCU Rams",
+                "2670",
+                "Atlantic 10"
+            ],
+            [
+                "Boston College Eagles",
+                "103",
+                "ACC"
+            ],
+            [
+                "Clemson Tigers",
+                "228",
+                "ACC"
+            ],
+            [
+                "Duke Blue Devils",
+                "150",
+                "ACC"
+            ],
+            [
+                "Florida State Seminoles",
+                "52",
+                "ACC"
+            ],
+            [
+                "Georgia Tech Yellow Jackets",
+                "59",
+                "ACC"
+            ],
+            [
+                "Louisville Cardinals",
+                "97",
+                "ACC"
+            ],
+            [
+                "Miami Hurricanes",
+                "2390",
+                "ACC"
+            ],
+            [
+                "NC State Wolfpack",
+                "152",
+                "ACC"
+            ],
+            [
+                "North Carolina Tar Heels",
+                "153",
+                "ACC"
+            ],
+            [
+                "Notre Dame Fighting Irish",
+                "87",
+                "ACC"
+            ],
+            [
+                "Pittsburgh Panthers",
+                "221",
+                "ACC"
+            ],
+            [
+                "Syracuse Orange",
+                "183",
+                "ACC"
+            ],
+            [
+                "Virginia Cavaliers",
+                "258",
+                "ACC"
+            ],
+            [
+                "Virginia Tech Hokies",
+                "259",
+                "ACC"
+            ],
+            [
+                "Wake Forest Demon Deacons",
+                "154",
+                "ACC"
+            ],
+            [
+                "Baylor Bears",
+                "239",
+                "Big 12"
+            ],
+            [
+                "Iowa State Cyclones",
+                "66",
+                "Big 12"
+            ],
+            [
+                "Kansas Jayhawks",
+                "2305",
+                "Big 12"
+            ],
+            [
+                "Kansas State Wildcats",
+                "2306",
+                "Big 12"
+            ],
+            [
+                "Oklahoma Sooners",
+                "201",
+                "Big 12"
+            ],
+            [
+                "Oklahoma State Cowboys",
+                "197",
+                "Big 12"
+            ],
+            [
+                "TCU Horned Frogs",
+                "2628",
+                "Big 12"
+            ],
+            [
+                "Texas Longhorns",
+                "251",
+                "Big 12"
+            ],
+            [
+                "Texas Tech Red Raiders",
+                "2641",
+                "Big 12"
+            ],
+            [
+                "West Virginia Mountaineers",
+                "277",
+                "Big 12"
+            ],
+            [
+                "Butler Bulldogs",
+                "2086",
+                "Big East"
+            ],
+            [
+                "Creighton Bluejays",
+                "156",
+                "Big East"
+            ],
+            [
+                "DePaul Blue Demons",
+                "305",
+                "Big East"
+            ],
+            [
+                "Georgetown Hoyas",
+                "46",
+                "Big East"
+            ],
+            [
+                "Marquette Golden Eagles",
+                "269",
+                "Big East"
+            ],
+            [
+                "Providence Friars",
+                "2507",
+                "Big East"
+            ],
+            [
+                "Seton Hall Pirates",
+                "2550",
+                "Big East"
+            ],
+            [
+                "St. John's Red Storm",
+                "2599",
+                "Big East"
+            ],
+            [
+                "Villanova Wildcats",
+                "222",
+                "Big East"
+            ],
+            [
+                "Xavier Musketeers",
+                "2752",
+                "Big East"
+            ],
+            [
+                "Eastern Washington Eagles",
+                "331",
+                "Big Sky"
+            ],
+            [
+                "Idaho State Bengals",
+                "304",
+                "Big Sky"
+            ],
+            [
+                "Idaho Vandals",
+                "70",
+                "Big Sky"
+            ],
+            [
+                "Montana Grizzlies",
+                "149",
+                "Big Sky"
+            ],
+            [
+                "Montana State Bobcats",
+                "147",
+                "Big Sky"
+            ],
+            [
+                "Northern Arizona Lumberjacks",
+                "2464",
+                "Big Sky"
+            ],
+            [
+                "Northern Colorado Bears",
+                "2458",
+                "Big Sky"
+            ],
+            [
+                "Portland St Vikings",
+                "2502",
+                "Big Sky"
+            ],
+            [
+                "Sacramento State Hornets",
+                "16",
+                "Big Sky"
+            ],
+            [
+                "Southern Utah Thunderbirds",
+                "253",
+                "Big Sky"
+            ],
+            [
+                "Weber State Wildcats",
+                "2692",
+                "Big Sky"
+            ],
+            [
+                "Campbell Fighting Camels",
+                "2097",
+                "Big South"
+            ],
+            [
+                "Charleston Southern Buccaneers",
+                "2127",
+                "Big South"
+            ],
+            [
+                "Gardner-Webb Bulldogs",
+                "2241",
+                "Big South"
+            ],
+            [
+                "Hampton Pirates",
+                "2261",
+                "Big South"
+            ],
+            [
+                "High Point Panthers",
+                "2272",
+                "Big South"
+            ],
+            [
+                "Longwood Lancers",
+                "2344",
+                "Big South"
+            ],
+            [
+                "Presbyterian Blue Hose",
+                "2506",
+                "Big South"
+            ],
+            [
+                "Radford Highlanders",
+                "2515",
+                "Big South"
+            ],
+            [
+                "South Carolina Upstate Spartans",
+                "2908",
+                "Big South"
+            ],
+            [
+                "UNC Asheville Bulldogs",
+                "2427",
+                "Big South"
+            ],
+            [
+                "Winthrop Eagles",
+                "2737",
+                "Big South"
+            ],
+            [
+                "Illinois Fighting Illini",
+                "356",
+                "Big 10"
+            ],
+            [
+                "Indiana Hoosiers",
+                "84",
+                "Big 10"
+            ],
+            [
+                "Iowa Hawkeyes",
+                "2294",
+                "Big 10"
+            ],
+            [
+                "Maryland Terrapins",
+                "120",
+                "Big 10"
+            ],
+            [
+                "Michigan State Spartans",
+                "127",
+                "Big 10"
+            ],
+            [
+                "Michigan Wolverines",
+                "130",
+                "Big 10"
+            ],
+            [
+                "Minnesota Golden Gophers",
+                "135",
+                "Big 10"
+            ],
+            [
+                "Nebraska Cornhuskers",
+                "158",
+                "Big 10"
+            ],
+            [
+                "Northwestern Wildcats",
+                "77",
+                "Big 10"
+            ],
+            [
+                "Ohio State Buckeyes",
+                "194",
+                "Big 10"
+            ],
+            [
+                "Penn State Nittany Lions",
+                "213",
+                "Big 10"
+            ],
+            [
+                "Purdue Boilermakers",
+                "2509",
+                "Big 10"
+            ],
+            [
+                "Rutgers Scarlet Knights",
+                "164",
+                "Big 10"
+            ],
+            [
+                "Wisconsin Badgers",
+                "275",
+                "Big 10"
+            ],
+            [
+                "Charlotte 49ers",
+                "2429",
+                "Conference USA"
+            ],
+            [
+                "Florida Atlantic Owls",
+                "2226",
+                "Conference USA"
+            ],
+            [
+                "Florida International Panthers",
+                "2229",
+                "Conference USA"
+            ],
+            [
+                "Louisiana Tech Bulldogs",
+                "2348",
+                "Conference USA"
+            ],
+            [
+                "Marshall Thundering Herd",
+                "276",
+                "Conference USA"
+            ],
+            [
+                "Middle Tennessee Blue Raiders",
+                "2393",
+                "Conference USA"
+            ],
+            [
+                "North Texas Mean Green",
+                "249",
+                "Conference USA"
+            ],
+            [
+                "Old Dominion Monarchs",
+                "295",
+                "Conference USA"
+            ],
+            [
+                "Rice Owls",
+                "242",
+                "Conference USA"
+            ],
+            [
+                "Southern Mississippi Golden Eagles",
+                "2572",
+                "Conference USA"
+            ],
+            [
+                "UAB Blazers",
+                "5",
+                "Conference USA"
+            ],
+            [
+                "UTEP Miners",
+                "2638",
+                "Conference USA"
+            ],
+            [
+                "UTSA Roadrunners",
+                "2636",
+                "Conference USA"
+            ],
+            [
+                "Western Kentucky Hilltoppers",
+                "98",
+                "Conference USA"
+            ],
+            [
+                "Akron Zips",
+                "2006",
+                "Mid-American"
+            ],
+            [
+                "Ball State Cardinals",
+                "2050",
+                "Mid-American"
+            ],
+            [
+                "Bowling Green Falcons",
+                "189",
+                "Mid-American"
+            ],
+            [
+                "Buffalo Bulls",
+                "2084",
+                "Mid-American"
+            ],
+            [
+                "Central Michigan Chippewas",
+                "2117",
+                "Mid-American"
+            ],
+            [
+                "Eastern Michigan Eagles",
+                "2199",
+                "Mid-American"
+            ],
+            [
+                "Kent State Golden Flashes",
+                "2309",
+                "Mid-American"
+            ],
+            [
+                "Miami (OH) RedHawks",
+                "193",
+                "Mid-American"
+            ],
+            [
+                "Northern Illinois Huskies",
+                "2459",
+                "Mid-American"
+            ],
+            [
+                "Ohio Bobcats",
+                "195",
+                "Mid-American"
+            ],
+            [
+                "Toledo Rockets",
+                "2649",
+                "Mid-American"
+            ],
+            [
+                "Western Michigan Broncos",
+                "2711",
+                "Mid-American"
+            ],
+            [
+                "Air Force Falcons",
+                "2005",
+                "Mountain West"
+            ],
+            [
+                "Boise State Broncos",
+                "68",
+                "Mountain West"
+            ],
+            [
+                "Colorado State Rams",
+                "36",
+                "Mountain West"
+            ],
+            [
+                "Fresno State Bulldogs",
+                "278",
+                "Mountain West"
+            ],
+            [
+                "Hawai'i Rainbow Warriors",
+                "62",
+                "Mountain West"
+            ],
+            [
+                "Nevada Wolf Pack",
+                "2440",
+                "Mountain West"
+            ],
+            [
+                "New Mexico Lobos",
+                "167",
+                "Mountain West"
+            ],
+            [
+                "San Diego State Aztecs",
+                "21",
+                "Mountain West"
+            ],
+            [
+                "San Jose State Spartans",
+                "23",
+                "Mountain West"
+            ],
+            [
+                "UNLV Rebels",
+                "2439",
+                "Mountain West"
+            ],
+            [
+                "Utah State Aggies",
+                "328",
+                "Mountain West"
+            ],
+            [
+                "Wyoming Cowboys",
+                "2751",
+                "Mountain West"
+            ],
+            [
+                "Arizona State Sun Devils",
+                "9",
+                "Pac-12"
+            ],
+            [
+                "Arizona Wildcats",
+                "12",
+                "Pac-12"
+            ],
+            [
+                "California Golden Bears",
+                "25",
+                "Pac-12"
+            ],
+            [
+                "Colorado Buffaloes",
+                "38",
+                "Pac-12"
+            ],
+            [
+                "Oregon Ducks",
+                "2483",
+                "Pac-12"
+            ],
+            [
+                "Oregon State Beavers",
+                "204",
+                "Pac-12"
+            ],
+            [
+                "Stanford Cardinal",
+                "24",
+                "Pac-12"
+            ],
+            [
+                "UCLA Bruins",
+                "26",
+                "Pac-12"
+            ],
+            [
+                "USC Trojans",
+                "30",
+                "Pac-12"
+            ],
+            [
+                "Utah Utes",
+                "254",
+                "Pac-12"
+            ],
+            [
+                "Washington Huskies",
+                "264",
+                "Pac-12"
+            ],
+            [
+                "Washington State Cougars",
+                "265",
+                "Pac-12"
+            ],
+            [
+                "Alabama Crimson Tide",
+                "333",
+                "SEC"
+            ],
+            [
+                "Arkansas Razorbacks",
+                "8",
+                "SEC"
+            ],
+            [
+                "Auburn Tigers",
+                "2",
+                "SEC"
+            ],
+            [
+                "Florida Gators",
+                "57",
+                "SEC"
+            ],
+            [
+                "Georgia Bulldogs",
+                "61",
+                "SEC"
+            ],
+            [
+                "Kentucky Wildcats",
+                "96",
+                "SEC"
+            ],
+            [
+                "LSU Tigers",
+                "99",
+                "SEC"
+            ],
+            [
+                "Mississippi State Bulldogs",
+                "344",
+                "SEC"
+            ],
+            [
+                "Missouri Tigers",
+                "142",
+                "SEC"
+            ],
+            [
+                "Ole Miss Rebels",
+                "145",
+                "SEC"
+            ],
+            [
+                "South Carolina Gamecocks",
+                "2579",
+                "SEC"
+            ],
+            [
+                "Tennessee Volunteers",
+                "2633",
+                "SEC"
+            ],
+            [
+                "Texas A&M Aggies",
+                "245",
+                "SEC"
+            ],
+            [
+                "Vanderbilt Commodores",
+                "238",
+                "SEC"
+            ],
+            [
+                "Appalachian State Mountaineers",
+                "2026",
+                "Sun Belt"
+            ],
+            [
+                "Arkansas State Red Wolves",
+                "2032",
+                "Sun Belt"
+            ],
+            [
+                "Coastal Carolina Chanticleers",
+                "324",
+                "Sun Belt"
+            ],
+            [
+                "Georgia Southern Eagles",
+                "290",
+                "Sun Belt"
+            ],
+            [
+                "Georgia State Panthers",
+                "2247",
+                "Sun Belt"
+            ],
+            [
+                "Louisiana Ragin' Cajuns",
+                "309",
+                "Sun Belt"
+            ],
+            [
+                "South Alabama Jaguars",
+                "6",
+                "Sun Belt"
+            ],
+            [
+                "Texas State Bobcats",
+                "326",
+                "Sun Belt"
+            ],
+            [
+                "Troy Trojans",
+                "2653",
+                "Sun Belt"
+            ],
+            [
+                "UL Monroe Warhawks",
+                "2433",
+                "Sun Belt"
+            ]
+        ]
+    },
+    "Season Base Link": "https://www.espn.com/college-football/team/schedule/_/id/{team_abbrev}",
+    "DF Columns": [
+        "ESPN ID",
+        "Season",
+        "Date",
+        "Home",
+        "Away",
+        "Home_Record",
+        "Away_Record",
+        "Home Conf",
+        "Away Conf",
+        "Home_Score",
+        "Away_Score",
+        "Line",
+        "Over_Under",
+        "Final_Status",
+        "Network",
+        "H1H",
+        "H2H",
+        "HOT",
+        "A1H",
+        "A2H",
+        "AOT",
+        "League"
+    ]
+}

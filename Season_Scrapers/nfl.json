@@ -1,0 +1,163 @@
+{
+    "NFL": {
+        "Teams": [
+            [
+                "Arizona Cardinals",
+                "ari"
+            ],
+            [
+                "Atlanta Falcons",
+                "atl"
+            ],
+            [
+                "Baltimore Ravens",
+                "bal"
+            ],
+            [
+                "Buffalo Bills",
+                "buf"
+            ],
+            [
+                "Carolina Panthers",
+                "car"
+            ],
+            [
+                "Chicago Bears",
+                "chi"
+            ],
+            [
+                "Cincinnati Bengals",
+                "cin"
+            ],
+            [
+                "Cleveland Browns",
+                "cle"
+            ],
+            [
+                "Dallas Cowboys",
+                "dal"
+            ],
+            [
+                "Denver Broncos",
+                "den"
+            ],
+            [
+                "Detroit Lions",
+                "det"
+            ],
+            [
+                "Green Bay Packers",
+                "gb"
+            ],
+            [
+                "Houston Texans",
+                "hou"
+            ],
+            [
+                "Indianapolis Colts",
+                "ind"
+            ],
+            [
+                "Jacksonville Jaguars",
+                "jax"
+            ],
+            [
+                "Kansas City Chiefs",
+                "kc"
+            ],
+            [
+                "Las Vegas Raiders",
+                "lv"
+            ],
+            [
+                "Los Angeles Chargers",
+                "lac"
+            ],
+            [
+                "Los Angeles Rams",
+                "lar"
+            ],
+            [
+                "Miami Dolphins",
+                "mia"
+            ],
+            [
+                "Minnesota Vikings",
+                "min"
+            ],
+            [
+                "New England Patriots",
+                "ne"
+            ],
+            [
+                "New Orleans Saints",
+                "no"
+            ],
+            [
+                "New York Giants",
+                "nyg"
+            ],
+            [
+                "New York Jets",
+                "ny"
+            ],
+            [
+                "Philadelphia Eagles",
+                "phi"
+            ],
+            [
+                "Pittsburgh Steelers",
+                "pit"
+            ],
+            [
+                "San Francisco 49ers",
+                "sf"
+            ],
+            [
+                "Seattle Seahawks",
+                "sea"
+            ],
+            [
+                "Tampa Bay Buccaneers",
+                "tb"
+            ],
+            [
+                "Tennessee Titans",
+                "ten"
+            ],
+            [
+                "Washington Redskins",
+                "wsh",
+                "NFC"
+            ]
+        ],
+        "Season Base Link": "https://www.espn.com/nfl/team/schedule/_/name/{team_abbrev}/season/{year}",
+        "DF Columns": [
+            "ESPN_ID",
+            "Season",
+            "Date",
+            "Week",
+            "Home",
+            "Away",
+            "Home_Record",
+            "Away_Record",
+            "Home_Score",
+            "Away_Score",
+            "Line",
+            "Over_Under",
+            "Final_Status",
+            "Network",
+            "HQ1",
+            "HQ2",
+            "HQ3",
+            "HQ4",
+            "HOT",
+            "AQ1",
+            "AQ2",
+            "AQ3",
+            "AQ4",
+            "AOT",
+            "League"
+        ]
+    }
+}
