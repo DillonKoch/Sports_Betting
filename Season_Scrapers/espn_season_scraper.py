@@ -4,7 +4,7 @@
 # File Created: Tuesday, 14th April 2020 5:08:27 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Saturday, 2nd May 2020 7:15:09 pm
+# Last Modified: Monday, 4th May 2020 4:27:52 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -29,7 +29,7 @@ if ROOT_PATH not in sys.path:
     sys.path.append(ROOT_PATH)
 
 from espn_game_scraper import ESPN_Game_Scraper
-from Utility import dt_from_date_str, get_sp1, null_if_error
+from Utility import get_sp1, null_if_error
 
 
 class ESPN_Season_Scraper:
@@ -47,7 +47,7 @@ class ESPN_Season_Scraper:
 
     @property
     def json_data(self):  # Global Helper
-        with open("season_data.json") as f:
+        with open("{}.json".format(self.league.lower())) as f:
             data = json.load(f)
         return data
 
@@ -64,7 +64,7 @@ class ESPN_Season_Scraper:
         Returns:
             [type]: [description]
         """
-        base_link = self.json_data[self.league]["Season Base Link"].format(
+        base_link = self.json_data["Season Base Link"].format(
             team_abbrev=team_abbrev, year=year, season_type=season_type)
         sp = get_sp1(base_link)
         sections = sp.find_all('tr', attrs={'class': 'filled Table__TR Table__TR--sm Table__even'})

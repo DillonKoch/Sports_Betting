@@ -4,7 +4,7 @@
 # File Created: Friday, 10th April 2020 11:25:21 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Friday, 17th April 2020 8:31:24 am
+# Last Modified: Monday, 4th May 2020 5:18:31 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -101,6 +101,10 @@ class Test_ESPN_Game_Scraper(TestCase):
         line, over_under = self.espn._line_ou("NFL", "298374930")
         self.assertEqual("NULL", line)
         self.assertEqual("NULL", over_under)
+
+    def test_nfl_game_date(self):
+        game_date = self.espn._game_date("NFL", self.nfl_game_id, sp=self.nfl_sp)
+        self.assertEqual('November 14, 2019', game_date)
 
     def test_all_nfl_info(self):
         game = self.espn.all_nfl_info(self.nfl_game_id, sp=self.nfl_sp)

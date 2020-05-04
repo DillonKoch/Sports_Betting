@@ -4,7 +4,7 @@
 # File Created: Saturday, 2nd May 2020 7:29:14 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Sunday, 3rd May 2020 4:06:45 pm
+# Last Modified: Monday, 4th May 2020 4:29:40 pm
 # Modified By: Dillon Koch
 # -----
 # Collins Aerospace
@@ -36,6 +36,10 @@ class Test_NBA_Season_Scraper(TestCase):
 
     def setUp(self):
         pass
+
+    def test_json_data(self):
+        self.assertIsInstance(self.scraper.json_data, dict)
+        self.assertEqual(['Teams', 'Season Base Link', 'DF Columns'], list(self.scraper.json_data.keys()))
 
     def test_sections(self):
         self.assertEqual(83, len(self.sections))

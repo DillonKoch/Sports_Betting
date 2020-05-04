@@ -4,7 +4,7 @@
 # File Created: Tuesday, 7th April 2020 7:34:33 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Saturday, 18th April 2020 4:03:49 pm
+# Last Modified: Monday, 4th May 2020 5:19:04 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -37,6 +37,7 @@ class Game:
         self.line = None
         self.over_under = None
         self.league = None
+        self.game_date = None
 
 
 class ESPN_Game_Scraper:
@@ -160,6 +161,14 @@ class ESPN_Game_Scraper:
         network = network.replace("Coverage: ", "")
         return network
 
+    @null_if_error(1)
+    def _game_date(self, league, game_id, sp=False):
+        sp = self._sp_helper(league, game_id, sp)
+        str_sp = str(sp)
+        reg_comp = re.compile(r"Game Summary - ((August|September|October|November|December|January|February) \d{1,2}, \d{4})")
+        match = re.search(reg_comp, str_sp)
+        return match.group(1)
+
     # ############## LEAGUE SPECIFIC FUNCTIONS ################
 
     def all_nfl_info(self, game_id, sp=False):
@@ -173,6 +182,7 @@ class ESPN_Game_Scraper:
         game.home_score, game.away_score = self._game_scores("NFL", game_id, sp)
         game.network = self._game_network("NFL", game_id, sp)
         game.line, game.over_under = self._line_ou("NFL", game_id, sp)
+        game.game_date = self._game_date("NFL", game_id, sp)
         game.league = "NFL"
         return game
 
@@ -255,6 +265,7 @@ class ESPN_Game_Scraper:
 
 if __name__ == "__main__":
     e = ESPN_Game_Scraper()
+    match = e._game_date("NFL", "401128044")
 #     nflh, nfla = e._nfl_team_names("401128044")
 #     nflhr, nflar = e._nfl_records("401128044")
 #     status = e._nfl_final_status("401128044")
