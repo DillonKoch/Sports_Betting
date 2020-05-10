@@ -4,7 +4,7 @@
 # File Created: Monday, 4th May 2020 4:19:07 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Monday, 4th May 2020 4:21:32 pm
+# Last Modified: Saturday, 9th May 2020 5:15:21 pm
 # Modified By: Dillon Koch
 # -----
 # Collins Aerospace
@@ -27,4 +27,7 @@ from Season_Scrapers.ncaab_season_scraper import NCAAB_Season_Scraper
 
 class Test_NCAAB_Season_Scraper(TestCase):
     def setUp(self):
+        pass
+
+    def test_something(Self):
         pass
