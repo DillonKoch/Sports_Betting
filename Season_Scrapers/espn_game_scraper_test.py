@@ -4,7 +4,7 @@
 # File Created: Friday, 10th April 2020 11:25:21 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Monday, 4th May 2020 5:18:31 pm
+# Last Modified: Saturday, 9th May 2020 7:48:22 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -190,6 +190,13 @@ class Test_ESPN_Game_Scraper(TestCase):
         self.assertEqual("NULL", line)
         self.assertEqual("NULL", over_under)
 
+    def test_nba_game_date(self):
+        date = self.espn._game_date("NBA", self.nba_game_id, self.nba_sp)
+        self.assertEqual('November 11, 2019', date)
+
+        date = self.espn._game_date("NCAAF", "1290dj2190")
+        self.assertEqual("NULL", date)
+
     def test_all_nba_info(self):
         game = self.espn.all_nba_info(self.nba_game_id, self.nba_sp)
         self.assertEqual(self.nba_game_id, game.ESPN_ID)
@@ -274,6 +281,13 @@ class Test_ESPN_Game_Scraper(TestCase):
         self.assertEqual("NULL", line)
         self.assertEqual("NULL", over_under)
 
+    def test_ncaaf_game_date(self):
+        date = self.espn._game_date("NCAAF", self.ncaaf_game_id, self.ncaaf_sp)
+        self.assertEqual('November 16, 2019', date)
+
+        date = self.espn._game_date("NCAAF", "98457295")
+        self.assertEqual("NULL", date)
+
     def test_all_ncaaf_info(self):
         game = self.espn.all_ncaaf_info(self.ncaaf_game_id, self.ncaaf_sp)
         self.assertEqual(self.ncaaf_game_id, game.ESPN_ID)
@@ -357,6 +371,13 @@ class Test_ESPN_Game_Scraper(TestCase):
         line, over_under = self.espn._line_ou("NCAAB", "298374930")
         self.assertEqual("NULL", line)
         self.assertEqual("NULL", over_under)
+
+    def test_ncaab_game_date(self):
+        date = self.espn._game_date("NCAAB", self.ncaab_game_id, self.ncaab_sp)
+        self.assertEqual("January 30, 2020", date)
+
+        date = self.espn._game_date("NCAAB", "40148220932")
+        self.assertEqual("NULL", date)
 
     def test_all_ncaab_info(self):
         game = self.espn.all_ncaab_info(self.ncaab_game_id, self.ncaab_sp)

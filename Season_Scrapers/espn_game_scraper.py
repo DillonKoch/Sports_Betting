@@ -4,7 +4,7 @@
 # File Created: Tuesday, 7th April 2020 7:34:33 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Monday, 4th May 2020 5:19:04 pm
+# Last Modified: Saturday, 9th May 2020 7:33:54 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -15,6 +15,14 @@
 
 import string
 import re
+
+from os.path import abspath, dirname
+import sys
+
+ROOT_PATH = dirname(dirname(abspath(__file__)))
+if ROOT_PATH not in sys.path:
+    sys.path.append(ROOT_PATH)
+
 
 from Utility import get_sp1, null_if_error
 
@@ -165,7 +173,8 @@ class ESPN_Game_Scraper:
     def _game_date(self, league, game_id, sp=False):
         sp = self._sp_helper(league, game_id, sp)
         str_sp = str(sp)
-        reg_comp = re.compile(r"Game Summary - ((August|September|October|November|December|January|February) \d{1,2}, \d{4})")
+        reg_comp = re.compile(
+            r"Game Summary - ((January|February|March|April|May|June|July|August|September|October|November|December) \d{1,2}, \d{4})")
         match = re.search(reg_comp, str_sp)
         return match.group(1)
 
