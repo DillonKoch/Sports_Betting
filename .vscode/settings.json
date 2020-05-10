@@ -3,12 +3,11 @@
     "python.testing.unittestArgs": [
         "-v",
         "-s",
-        "./old",
+        "./Season_Scrapers",
         "-p",
-        "test*.py"
+        "*_test.py"
     ],
     "python.testing.pytestEnabled": false,
     "python.testing.nosetestsEnabled": false,
-    "python.testing.unittestEnabled": false,
-    "python.testing.promptToConfigure": false
+    "python.testing.unittestEnabled": true
 }

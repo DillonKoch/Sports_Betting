@@ -4,7 +4,7 @@
 # File Created: Tuesday, 14th April 2020 5:08:27 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Saturday, 9th May 2020 7:12:30 pm
+# Last Modified: Saturday, 9th May 2020 7:50:38 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -63,20 +63,6 @@ class ESPN_Season_Scraper:
         sections += sp.find_all('tr', attrs={'class': 'Table__TR Table__TR--sm Table__even'})
         sections += sp.find_all('tr', attrs={'class': 'filled bb--none Table__TR Table__TR--sm Table__even'})
         return sections
-
-    def _game_date_from_section(self, sp_section):  # Specific Helper team_dates_links Tested NBA
-        """
-        _game_date_from_section finds the game date in a section from _get_game_sections
-
-        Args:
-            sp_section (BeautifulSoup): section of code for one game
-
-        Returns:
-            str/None: game date string or None if the result is "Date"
-        """
-        td_htmls = sp_section.find_all('td', attrs={'class': 'Table__TD'})
-        result = td_htmls[0].get_text()
-        return result if result != 'Date' else None
 
     @null_if_error(2)
     def _link_gameid_from_section(self, league, sp_section):  # Specific Helper team_dates_links

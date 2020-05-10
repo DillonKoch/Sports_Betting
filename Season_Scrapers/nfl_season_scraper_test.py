@@ -4,7 +4,7 @@
 # File Created: Saturday, 2nd May 2020 7:47:01 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Saturday, 9th May 2020 7:15:46 pm
+# Last Modified: Saturday, 9th May 2020 7:51:28 pm
 # Modified By: Dillon Koch
 # -----
 # Collins Aerospace
@@ -29,10 +29,6 @@ class Test_NFL_Season_Scraper(TestCase):
 
     scraper = NFL_Season_Scraper()
     sections = scraper._get_game_sections('min', '2019')
-
-    dates = []
-    for section in sections:
-        dates.append(scraper._game_date_from_section(section))
 
     def setUp(self):
         pass
