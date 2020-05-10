@@ -4,7 +4,7 @@
 # File Created: Saturday, 2nd May 2020 6:38:44 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Saturday, 2nd May 2020 7:56:47 pm
+# Last Modified: Saturday, 9th May 2020 8:24:24 pm
 # Modified By: Dillon Koch
 # -----
 # Collins Aerospace
@@ -33,3 +33,4 @@ class NFL_Season_Scraper(ESPN_Season_Scraper):
 if __name__ == "__main__":
     x = NFL_Season_Scraper()
     sections = x._get_game_sections('min', '2019')
+    x._link_gameid_from_section('NFL', sections[0])

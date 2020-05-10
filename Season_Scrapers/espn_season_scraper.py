@@ -4,7 +4,7 @@
 # File Created: Tuesday, 14th April 2020 5:08:27 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Saturday, 9th May 2020 7:50:38 pm
+# Last Modified: Saturday, 9th May 2020 8:41:02 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -62,13 +62,14 @@ class ESPN_Season_Scraper:
         sections = sp.find_all('tr', attrs={'class': 'filled Table__TR Table__TR--sm Table__even'})
         sections += sp.find_all('tr', attrs={'class': 'Table__TR Table__TR--sm Table__even'})
         sections += sp.find_all('tr', attrs={'class': 'filled bb--none Table__TR Table__TR--sm Table__even'})
+        sections += sp.find_all('tr', attrs={'class': 'bb--none Table__TR Table__TR--sm Table__even'})
         return sections
 
     @null_if_error(2)
-    def _link_gameid_from_section(self, league, sp_section):  # Specific Helper team_dates_links
+    def _link_gameid_from_section(self, league, sp_section):  # Specific Helper team_dates_links  Tested NBA
         td_htmls = sp_section.find_all('td', attrs={'class': 'Table__TD'})
         for html in td_htmls:
-            match = re.search(self.re_comps[league], str(html))
+            match = re.search(self.re_game_link, str(html))
             if match:
                 link = match.group(0)
                 game_id = match.group(1)

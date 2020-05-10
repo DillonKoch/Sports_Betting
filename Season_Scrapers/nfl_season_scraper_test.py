@@ -4,7 +4,7 @@
 # File Created: Saturday, 2nd May 2020 7:47:01 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Saturday, 9th May 2020 7:51:28 pm
+# Last Modified: Saturday, 9th May 2020 8:45:29 pm
 # Modified By: Dillon Koch
 # -----
 # Collins Aerospace
@@ -33,7 +33,37 @@ class Test_NFL_Season_Scraper(TestCase):
     def setUp(self):
         pass
 
-    def test_sections(self):
-        self.assertEqual(28, len(self.sections))
+    def test_json_data(self):
+        self.assertIsInstance(self.scraper.json_data, dict)
+        self.assertEqual(['Teams', 'Season Base Link', 'DF Columns'], list(self.scraper.json_data.keys()))
+
+    def test_get_game_sections(self):
+        self.assertEqual(29, len(self.sections))
         for section in self.sections:
             self.assertTrue('bs4.element.Tag' in str(type(section)))
+
+    def test_link_gameid_from_section(self):
+        link_null_count = 0
+        link_str_count = 0
+        gameid_null_count = 0
+        gameid_str_count = 0
+
+        for section in self.sections:
+            link, gameid = self.scraper._link_gameid_from_section("NFL", section)
+            self.assertIsInstance(link, str)
+            self.assertIsInstance(gameid, str)
+
+            if link == 'NULL':
+                link_null_count += 1
+            else:
+                link_str_count += 1
+
+            if gameid == 'NULL':
+                gameid_null_count += 1
+            else:
+                gameid_str_count += 1
+
+        self.assertEqual(22, link_str_count)
+        self.assertEqual(22, gameid_str_count)
+        self.assertEqual(7, link_null_count)
+        self.assertEqual(7, gameid_null_count)
