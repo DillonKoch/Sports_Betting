@@ -4,7 +4,7 @@
 # File Created: Tuesday, 14th April 2020 5:08:27 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Saturday, 9th May 2020 8:41:02 pm
+# Last Modified: Sunday, 10th May 2020 4:33:34 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -65,8 +65,8 @@ class ESPN_Season_Scraper:
         sections += sp.find_all('tr', attrs={'class': 'bb--none Table__TR Table__TR--sm Table__even'})
         return sections
 
-    @null_if_error(2)
-    def _link_gameid_from_section(self, league, sp_section):  # Specific Helper team_dates_links  Tested NBA
+    @null_if_error(2)  # FIXME
+    def _link_gameid_from_section(self, sp_section):  # Specific Helper team_dates_links  Tested NBA
         td_htmls = sp_section.find_all('td', attrs={'class': 'Table__TD'})
         for html in td_htmls:
             match = re.search(self.re_game_link, str(html))
@@ -75,62 +75,56 @@ class ESPN_Season_Scraper:
                 game_id = match.group(1)
         return link, game_id
 
-    def team_dates_links(self, league, team_abbrev, year):  # Specific Helper _full_season_df
-        game_sections = self._get_game_sections(league, team_abbrev, year)
+    def team_gameid_links(self, team_abbrev, year, season_type=2):  # Specific Helper _full_season_df  Tested NBA
+        game_sections = self._get_game_sections(team_abbrev, year, season_type)
         games = []
         for section in game_sections:
-            game_date = self._game_date_from_section(section)
-            link, game_id = self._link_gameid_from_section(league, section)
-            if ((game_id == 'NULL') or (game_date is None)):
+            link, game_id = self._link_gameid_from_section(section)
+            if game_id == 'NULL':
                 continue
-            games.append((game_date, link, game_id))
+            games.append((link, game_id))
         return games
 
-    def _make_season_df(self, league):  # Specific Helper _full_season_df
-        cols = self.json_data[league]["DF Columns"]
+    def _make_season_df(self):  # Specific Helper _full_season_df  Tested NBA
+        cols = self.json_data["DF Columns"]
         df = pd.DataFrame(columns=cols)
         return df
 
-    def _game_to_row(self, df, game, periods=4):  # Specific Helper _full_season_df
-        # need season/date because we can't get it from game summary :(
-        row = [game.home_name, game.away_name, game.home_record, game.away_record,
-               game.home_score, game.away_score,
-               game.line, game.over_under, game.final_status, game.network]
+    def _game_to_row(self, season, game):
+        q_amount = 4 if self.league != "NCAAB" else 2
+        row = [game.ESPN_ID, season, game.game_date, game.home_name, game.away_name,
+               game.home_record, game.away_record,
+               game.home_score, game.away_score, game.line, game.over_under,
+               game.final_status, game.network]
 
-        home_qscores = [item for item in game.home_qscores]
-        if len(home_qscores) == periods:
-            home_qscores.append('NULL')
-        row += home_qscores
+        for scores in [game.home_qscores, game.away_qscores]:
+            row += [item for item in scores]
+            if len(scores) == q_amount:
+                row += ["NULL"]
 
-        away_qscores = [item for item in game.away_qscores]
-        if len(away_qscores) == periods:
-            away_qscores.append('NULL')
-        row += away_qscores
-
-        row.append(game.league)
+        row.append(self.league)
         return row
 
     @func_set_timeout(7 * 60)
-    def _full_season_df(self, league, team_abbrev, year):  # Specific Helper scrape_team_history
-        egs = ESPN_Game_Scraper()
-        game_tuples = self.team_dates_links(league, team_abbrev, year)
-        df = self._make_season_df(league)
+    def _full_season_df(self, team_abbrev, year, season_type=2):  # Specific Helper scrape_team_history
+        game_tuples = self.team_gameid_links(team_abbrev, year, season_type)
+        df = self._make_season_df()
         for gt in tqdm(game_tuples):
-            game = egs.all_nba_info(gt[2])
-            row = [gt[2], year, gt[0]] + self._game_to_row("NBA", game)
+            game = self.all_game_info_func(gt[1])
+            row = self._game_to_row(year, game)
             df.loc[len(df)] = row
             time.sleep(2)
         return df
 
-    def scrape_team_history(self, league, team_abbrev, years):  # Top Level
+    def scrape_team_history(self, team_abbrev, years, season_type=2):  # Top Level
         for year in years:
             print("Scraping {} {} data...".format(year, team_abbrev))
-            df = self._full_season_df(league, team_abbrev, year)
-            path = "./Data/{}/{}/{}_{}.csv".format(league, team_abbrev, team_abbrev, year)
+            df = self._full_season_df(team_abbrev, year, season_type)
+            path = "./Data/{}/{}/{}_{}.csv".format(self.league, team_abbrev, team_abbrev, year)
             df.to_csv(path)
 
-    def find_years_unscraped(self, league, team_abbrev):  # Top Level
-        path = "./Data/{}/{}/".format(league, team_abbrev)
+    def find_years_unscraped(self, team_abbrev):  # Top Level
+        path = "../Data/{}/{}/".format(self.league, team_abbrev)
         all_years = [str(item) for item in list(range(1993, 2021, 1))]
         years_found = []
         year_comp = re.compile(r"\d{4}")
@@ -141,13 +135,13 @@ class ESPN_Season_Scraper:
                 years_found.append(year)
         return [item for item in all_years if item not in years_found]
 
-    def run_all_season_scrapes(self, league):  # Run
-        team_abbrevs = self.json_data[league]["Abbreviations"]
+    def run_all_season_scrapes(self):  # Run
+        team_abbrevs = [item[1] for item in self.json_data["Teams"]]
 
         for team in team_abbrevs:
             try:
-                years = self.find_years_unscraped(league, team)
-                self.scrape_team_history(league, team, years)
+                years = self.find_years_unscraped(team)
+                self.scrape_team_history(team, years)
             except BaseException:
                 print('error with scraping!')
                 for i in range(120):

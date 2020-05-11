@@ -4,7 +4,7 @@
 # File Created: Saturday, 2nd May 2020 7:29:14 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Saturday, 9th May 2020 8:18:57 pm
+# Last Modified: Sunday, 10th May 2020 3:33:17 pm
 # Modified By: Dillon Koch
 # -----
 # Collins Aerospace
@@ -13,10 +13,11 @@
 # Testing nba_season_scraper.py
 # ==============================================================================
 
+import sys
+from os.path import abspath, dirname
 from unittest import TestCase
 
-from os.path import abspath, dirname
-import sys
+import pandas as pd
 
 ROOT_PATH = dirname(dirname(abspath(__file__)))
 if ROOT_PATH not in sys.path:
@@ -48,7 +49,7 @@ class Test_NBA_Season_Scraper(TestCase):
         gameid_null_count = 0
         gameid_str_count = 0
         for section in self.sections:
-            link, gameid = self.scraper._link_gameid_from_section("NBA", section)
+            link, gameid = self.scraper._link_gameid_from_section(section)
             self.assertIsInstance(link, str)
             self.assertIsInstance(gameid, str)
 
@@ -66,3 +67,18 @@ class Test_NBA_Season_Scraper(TestCase):
         self.assertEqual(1, link_null_count)
         self.assertEqual(82, gameid_str_count)
         self.assertEqual(1, gameid_null_count)
+
+    def test_team_gameid_links(self):
+        games = self.scraper.team_gameid_links('mia', '2019')
+        self.assertIsInstance(games, list)
+        for item in games:
+            self.assertIsInstance(item, tuple)
+            for subitem in item:
+                self.assertIsInstance(subitem, str)
+        self.assertEqual(82, len(games))
+
+    def test_make_season_df(self):
+        df = self.scraper._make_season_df()
+        self.assertIsInstance(df, pd.DataFrame)
+        df_cols = list(df.columns)
+        self.assertEqual(self.scraper.json_data["DF Columns"], df_cols)

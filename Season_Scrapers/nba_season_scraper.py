@@ -4,7 +4,7 @@
 # File Created: Saturday, 2nd May 2020 6:38:35 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Saturday, 9th May 2020 8:09:49 pm
+# Last Modified: Sunday, 10th May 2020 4:33:53 pm
 # Modified By: Dillon Koch
 # -----
 # Collins Aerospace
@@ -16,12 +16,15 @@
 import re
 import sys
 from os.path import abspath, dirname
+import time
+from tqdm import tqdm
 
 ROOT_PATH = dirname(dirname(abspath(__file__)))
 if ROOT_PATH not in sys.path:
     sys.path.append(ROOT_PATH)
 
 from Season_Scrapers.espn_season_scraper import ESPN_Season_Scraper
+from Season_Scrapers.espn_game_scraper import ESPN_Game_Scraper
 
 
 class NBA_Season_Scraper(ESPN_Season_Scraper):
@@ -29,8 +32,22 @@ class NBA_Season_Scraper(ESPN_Season_Scraper):
         self.league = 'NBA'
         self.folder = 'Data/NBA'
         self.re_game_link = re.compile(r"http://www.espn.com/nba/game\?gameId=(\d+)")
+        egs = ESPN_Game_Scraper()
+        self.all_game_info_func = egs.all_nba_info
 
 
 if __name__ == "__main__":
     x = NBA_Season_Scraper()
     sections = x._get_game_sections('mia', '2019')
+    links = []
+    gameids = []
+    for section in sections:
+        link, gameid = x._link_gameid_from_section("NBA", section)
+        links.append(link)
+        gameids.append(gameid)
+
+    games = x.team_gameid_links('mia', '2019')
+
+    df = x._make_season_df()
+    # df = x._full_season_df('mia', '2020')
+    x.run_all_season_scrapes()
