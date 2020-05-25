@@ -36,7 +36,7 @@ class ESPN_Season_Scraper:
     def game_link_re(self):  # Property
         nba = re.compile(r"http://www.espn.com/nba/game\?gameId=(\d+)")
         nfl = re.compile(r"http://www.espn.com/nfl/game/_/gameId/(\d+)")
-        ncaaf = None
+        ncaaf = re.compile(r"http://www.espn.com/college-football/game/_/gameId/(\d+)")
         ncaab = None
         return nba if self.league == "NBA" else nfl if self.league == "NFL" else ncaaf if self.league == "NCAAF" else ncaab
 
@@ -86,6 +86,8 @@ class ESPN_Season_Scraper:
     def _link_week_to_row(self, df, link, week, year):  # Specific Helper scrape_season
         game_id = self.game_link_re.search(link).group(1)
         game = self.game_info_func(game_id)
+        if self.league == "NCAAF":
+            game.game_date = week
 
         row = [game.ESPN_ID, year, game.game_date, game.home_name, game.away_name,
                game.home_record, game.away_record,
@@ -117,7 +119,8 @@ class ESPN_Season_Scraper:
 
     def find_years_unscraped(self, team_abbrev):  # Top Level
         path = "../Data/{}/{}/".format(self.league, team_abbrev)
-        all_years = [str(item) for item in list(range(1993, 2021, 1))]
+        beginning_year = 1999 if self.league == "NCAAF" else 1993
+        all_years = [str(item) for item in list(range(beginning_year, 2021, 1))]
         years_found = []
         year_comp = re.compile(r"\d{4}")
         for filename in os.listdir(path):
@@ -127,19 +130,22 @@ class ESPN_Season_Scraper:
                 years_found.append(year)
         return [item for item in all_years if item not in years_found]
 
-    def scrape_team_history(self, team_abbrev):  # Run
-        years_unscraped = self.find_years_unscraped(team_abbrev)
+    def scrape_team_history(self, team_abbrev, name=None):  # Run
+        if name is None:
+            name = team_abbrev
+        years_unscraped = self.find_years_unscraped(name)
         for year in years_unscraped:
-            print("Scraping data for {} {}".format(team_abbrev, year))
+            print("Scraping data for {} {}".format(name, year))
             df = self.scrape_season(team_abbrev, year)
-            path = "../Data/{}/{}/{}_{}.csv".format(self.league, team_abbrev, team_abbrev, year)
+            path = "../Data/{}/{}/{}_{}.csv".format(self.league, name, name, year)
             df.to_csv(path, index=False)
 
     def scrape_all_leauge_history(self):  # Run
         team_abbrevs = [item[1] for item in self.config["Teams"]]
-        for team_abbrev in team_abbrevs:
+        names = [item[0] for item in self.config["Teams"]]
+        for team_abbrev, name in zip(team_abbrevs, names):
             try:
-                self.scrape_team_history(team_abbrev)
+                self.scrape_team_history(team_abbrev, name)
             except BaseException:
                 print("Error scraping, moving on to the next team")
                 time.sleep(30)
@@ -150,5 +156,5 @@ def parse_league():  # Parse
 
 
 if __name__ == "__main__":
-    x = ESPN_Season_Scraper("NFL")
+    x = ESPN_Season_Scraper("NCAAF")
     x.scrape_all_leauge_history()

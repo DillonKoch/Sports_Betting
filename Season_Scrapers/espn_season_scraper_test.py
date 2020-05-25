@@ -4,7 +4,7 @@
 # File Created: Tuesday, 14th April 2020 5:08:35 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Saturday, 23rd May 2020 5:06:26 pm
+# Last Modified: Monday, 25th May 2020 3:18:26 pm
 # Modified By: Dillon Koch
 # -----
 # Collins Aerospace
@@ -55,7 +55,7 @@ class Test_ESPN_Season_Scraper(TestCase):
         pass
 
     def test_setup(self):
-        true_keys = ["Teams", "Season Base Link", "game link regex", "DF Columns"]
+        true_keys = ["Teams", "Season Base Link", "DF Columns"]
         for scraper in self.all_scrapers:
             config = scraper.config
             self.assertIsInstance(config, dict)
@@ -82,10 +82,14 @@ class Test_ESPN_Season_Scraper(TestCase):
             for item in link[-9:]:
                 self.assertTrue(item in "0123456789")
 
-    def test_link_to_row_nba(self):
+    def test_link_week_to_row_nba(self):
         df = self.nba._make_season_df()
         links = [item for item in self.nba_links if isinstance(item, str)]
-        for link in links[:3]:
-            self.nba._link_to_row(df, link, '2019')
+        dates = [date for date in self.nba_dates if isinstance(date, str)]
+        for link, date in zip(links[:3], dates[:3]):
+            df = self.nba._link_week_to_row(df, link, date, '2019')
 
         self.assertEqual(3, df.shape[0])
+
+    def test_get_game_sections_ncaaf(self):
+        pass

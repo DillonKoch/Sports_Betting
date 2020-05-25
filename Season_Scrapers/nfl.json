@@ -130,7 +130,6 @@
         ]
     ],
     "Season Base Link": "https://www.espn.com/nfl/team/schedule/_/name/{team_abbrev}/season/{year}",
-    "game link regex": "",
     "DF Columns": [
         "ESPN_ID",
         "Season",
