@@ -1,0 +1,17 @@
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
+180906011,1998,"September 6, 1998",Indianapolis Colts,Miami Dolphins,"0-1, 0-1 Home","1-0, 1-0 Away",15,24,NULL,NULL,Final,NULL,10,6,0,.625,314,12,4,0,.750,420,,NFL
+180913017,1998,"September 13, 1998",New England Patriots,Indianapolis Colts,"1-1, 1-0 Home","0-2, 0-1 Away",29,6,NULL,NULL,Final,NULL,10,6,0,.625,314,12,4,0,.750,420,,NFL
+180920020,1998,"September 20, 1998",New York Jets,Indianapolis Colts,"1-2, 1-1 Home","0-3, 0-2 Away",44,6,NULL,NULL,Final,NULL,10,6,0,.625,314,12,4,0,.750,420,,NFL
+180927011,1998,"September 27, 1998",Indianapolis Colts,New Orleans Saints,"0-4, 0-2 Home","3-0, 2-0 Away",13,19,NULL,NULL,Final/OT,NULL,11,5,0,.688,405,13,3,0,.813,479,,NFL
+181004011,1998,"October 4, 1998",Indianapolis Colts,San Diego Chargers,"1-4, 1-2 Home","2-3, 1-2 Away",17,12,NULL,NULL,Final,NULL,10,6,0,.625,314,12,4,0,.750,420,,NFL
+181011011,1998,"October 11, 1998",Indianapolis Colts,Buffalo Bills,"1-5, 1-3 Home","2-3, 1-2 Away",24,31,NULL,NULL,Final,NULL,10,6,0,.625,314,12,4,0,.750,420,,NFL
+181018025,1998,"October 18, 1998",San Francisco 49ers,Indianapolis Colts,"5-1, 3-0 Home","1-6, 0-3 Away",34,31,NULL,NULL,Final,NULL,10,6,0,.625,314,12,4,0,.750,420,,NFL
+181101011,1998,"November 1, 1998",Indianapolis Colts,New England Patriots,"1-7, 1-4 Home","5-3, 2-2 Away",16,21,NULL,NULL,Final,NULL,10,6,0,.625,314,12,4,0,.750,420,,NFL
+181108015,1998,"November 8, 1998",Miami Dolphins,Indianapolis Colts,"6-3, 5-0 Home","1-8, 0-4 Away",27,14,NULL,NULL,Final,NULL,10,6,0,.625,314,12,4,0,.750,420,,NFL
+181115011,1998,"November 15, 1998",Indianapolis Colts,New York Jets,"2-8, 2-4 Home","6-4, 2-3 Away",24,23,NULL,NULL,Final,NULL,10,6,0,.625,314,12,4,0,.750,420,,NFL
+181122002,1998,"November 22, 1998",Buffalo Bills,Indianapolis Colts,"7-4, 5-1 Home","2-9, 0-5 Away",34,11,NULL,NULL,Final,NULL,10,6,0,.625,314,12,4,0,.750,420,,NFL
+181129033,1998,"November 29, 1998",Baltimore Ravens,Indianapolis Colts,"5-7, 3-3 Home","2-10, 0-6 Away",38,31,NULL,NULL,Final,NULL,10,6,0,.625,314,12,4,0,.750,420,,NFL
+181206001,1998,"December 6, 1998",Atlanta Falcons,Indianapolis Colts,"11-2, 7-0 Home","2-11, 0-7 Away",28,21,NULL,NULL,Final,NULL,10,6,0,.625,314,12,4,0,.750,420,,NFL
+181213011,1998,"December 13, 1998",Indianapolis Colts,Cincinnati Bengals,"3-11, 3-4 Home","2-12, 1-6 Away",39,26,NULL,NULL,Final,NULL,10,6,0,.625,314,12,4,0,.750,420,,NFL
+181220026,1998,"December 20, 1998",Seattle Seahawks,Indianapolis Colts,"8-7, 6-2 Home","3-12, 0-8 Away",27,23,NULL,NULL,Final,NULL,10,6,0,.625,314,12,4,0,.750,420,,NFL
+181227011,1998,"December 27, 1998",Indianapolis Colts,Carolina Panthers,"3-13, 3-5 Home","4-12, 2-6 Away",19,27,NULL,NULL,Final,NULL,11,5,0,.688,405,13,3,0,.813,479,,NFL

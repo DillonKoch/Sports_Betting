@@ -1,0 +1,23 @@
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
+200910016,2000,"September 10, 2000",Minnesota Vikings,Miami Dolphins,"2-0, 2-0 Home","1-1, 0-1 Away",13,7,NULL,NULL,Final,NULL,3,0,0,10,NULL,0,0,0,7,NULL,2,NFL
+201009016,2000,"October 9, 2000",Minnesota Vikings,Tampa Bay Buccaneers,"5-0, 3-0 Home","3-3, 2-2 Away",30,23,NULL,NULL,Final,NULL,7,10,3,10,NULL,7,3,6,7,NULL,6,NFL
+201022016,2000,"October 22, 2000",Minnesota Vikings,Buffalo Bills,"7-0, 4-0 Home","3-4, 0-3 Away",31,27,NULL,NULL,Final,NULL,3,3,7,18,NULL,0,10,7,10,NULL,8,NFL
+201106009,2000,"November 6, 2000",Green Bay Packers,Minnesota Vikings,"4-5, 3-2 Home","7-2, 3-2 Away",26,20,NULL,NULL,Final/OT,NULL,0,10,10,0,6,3,10,7,0,0,10,NFL
+201119016,2000,"November 19, 2000",Minnesota Vikings,Carolina Panthers,"9-2, 6-0 Home","4-7, 2-4 Away",31,17,NULL,NULL,Final,NULL,14,10,7,0,NULL,7,7,0,3,NULL,12,NFL
+201130016,2000,"November 30, 2000",Minnesota Vikings,Detroit Lions,"11-2, 7-0 Home","8-5, 4-2 Away",24,17,NULL,NULL,Final,NULL,7,10,0,7,NULL,0,3,0,14,NULL,14,NFL
+201217016,2000,"December 17, 2000",Minnesota Vikings,Green Bay Packers,"11-4, 7-1 Home","8-7, 3-5 Away",28,33,NULL,NULL,Final,NULL,7,7,7,7,NULL,10,10,3,10,NULL,16,NFL
+200812024,2000,"August 12, 2000",San Diego Chargers,Minnesota Vikings,"2-0, 1-0 Home","0-2, 0-1 Away",31,7,NULL,NULL,Final,NULL,0,14,10,7,NULL,0,7,0,0,NULL,1,NFL
+210106016,2000,"January 6, 2001",Minnesota Vikings,New Orleans Saints,"11-5, 7-1 Home","10-6, 7-1 Away",34,16,NULL,NULL,Final,NULL,10,7,10,7,NULL,3,0,7,6,NULL,DIV,NFL
+200903016,2000,"September 3, 2000",Minnesota Vikings,Chicago Bears,"1-0, 1-0 Home","0-1, 0-1 Away",30,27,NULL,NULL,Final,NULL,6,3,7,14,NULL,7,6,7,7,NULL,1,NFL
+200917017,2000,"September 17, 2000",New England Patriots,Minnesota Vikings,"0-3, 0-2 Home","3-0, 1-0 Away",13,21,NULL,NULL,Final,NULL,7,0,0,6,NULL,7,14,0,0,NULL,3,NFL
+201001008,2000,"October 1, 2000",Detroit Lions,Minnesota Vikings,"3-2, 1-2 Home","4-0, 2-0 Away",24,31,NULL,NULL,Final,NULL,7,3,0,14,NULL,7,3,7,14,NULL,5,NFL
+201015003,2000,"October 15, 2000",Chicago Bears,Minnesota Vikings,"1-6, 0-4 Home","6-0, 3-0 Away",16,28,NULL,NULL,Final,NULL,6,3,0,7,NULL,0,14,7,7,NULL,7,NFL
+201029027,2000,"October 29, 2000",Tampa Bay Buccaneers,Minnesota Vikings,"4-4, 2-2 Home","7-1, 3-1 Away",41,13,NULL,NULL,Final,NULL,14,17,3,7,NULL,3,10,0,0,NULL,9,NFL
+201112016,2000,"November 12, 2000",Minnesota Vikings,Arizona Cardinals,"8-2, 5-0 Home","3-7, 0-4 Away",31,14,NULL,NULL,Final,NULL,7,3,7,14,NULL,7,0,0,7,NULL,11,NFL
+201123006,2000,"November 23, 2000",Dallas Cowboys,Minnesota Vikings,"4-8, 2-4 Home","10-2, 4-2 Away",15,27,NULL,NULL,Final,NULL,3,6,0,6,NULL,0,10,17,0,NULL,13,NFL
+201210014,2000,"December 10, 2000",St. Louis Rams,Minnesota Vikings,"9-5, 5-3 Home","11-3, 4-3 Away",40,29,NULL,NULL,Final,NULL,14,6,13,7,NULL,0,7,14,8,NULL,15,NFL
+200805016,2000,"August 5, 2000",Minnesota Vikings,New Orleans Saints,"0-1, 0-1 Home","1-1, 1-1 Away",24,25,NULL,NULL,Final,NULL,0,14,7,0,NULL,7,3,3,9,NULL,HOF,NFL
+200818016,2000,"August 18, 2000",Minnesota Vikings,Arizona Cardinals,"1-2, 1-1 Home","1-2, 0-1 Away",35,17,NULL,NULL,Final,NULL,8,8,0,.500,434,9,7,0,.563,385,2,NFL
+210114019,2000,"January 14, 2001",New York Giants,Minnesota Vikings,"12-4, 5-3 Home","11-5, 4-4 Away",41,0,NULL,NULL,Final,NULL,14,20,7,0,NULL,0,0,0,0,NULL,CONF,NFL
+200824011,2000,"August 24, 2000",Indianapolis Colts,Minnesota Vikings,"3-2, 2-1 Home","1-3, 0-2 Away",32,30,NULL,NULL,Final,NULL,10,3,7,12,NULL,7,0,10,13,NULL,3,NFL
+201224011,2000,"December 24, 2000",Indianapolis Colts,Minnesota Vikings,"10-6, 6-2 Home","11-5, 4-4 Away",31,10,NULL,NULL,Final,NULL,7,14,7,3,NULL,7,3,0,0,NULL,17,NFL

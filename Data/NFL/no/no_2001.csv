@@ -1,0 +1,21 @@
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
+211007018,2001,"October 7, 2001",New Orleans Saints,Minnesota Vikings,"2-1, 1-0 Home","1-3, 0-2 Away",28,15,NULL,NULL,Final,FOX,6,9,10,3,NULL,7,0,8,0,NULL,4,NFL
+211021018,2001,"October 21, 2001",New Orleans Saints,Atlanta Falcons,"3-2, 1-1 Home","3-3, 2-1 Away",13,20,NULL,NULL,Final,FOX,0,10,0,3,NULL,10,0,0,10,NULL,6,NFL
+211104018,2001,"November 4, 2001",New Orleans Saints,New York Jets,"4-3, 1-2 Home","5-3, 4-0 Away",9,16,NULL,NULL,Final,ESPN,0,0,9,0,NULL,6,7,0,3,NULL,8,NFL
+211118018,2001,"November 18, 2001",New Orleans Saints,Indianapolis Colts,"5-4, 2-2 Home","4-5, 3-2 Away",34,20,NULL,NULL,Final,CBS,0,17,7,10,NULL,14,3,0,3,NULL,10,NFL
+211202018,2001,"December 2, 2001",New Orleans Saints,Carolina Panthers,"6-5, 3-2 Home","1-11, 1-6 Away",27,23,NULL,NULL,Final,FOX,0,10,3,14,NULL,7,0,3,13,NULL,12,NFL
+211217018,2001,"December 17, 2001",New Orleans Saints,St. Louis Rams,"7-6, 3-3 Home","11-2, 7-0 Away",21,34,NULL,NULL,Final,ABC,7,7,7,0,NULL,7,14,7,6,NULL,14,NFL
+211230018,2001,"December 30, 2001",New Orleans Saints,Washington Redskins,"7-8, 3-4 Home","7-8, 4-4 Away",10,40,NULL,NULL,Final,ESPN,10,0,0,0,NULL,0,13,17,10,NULL,16,NFL
+210818018,2001,"August 18, 2001",New Orleans Saints,Dallas Cowboys,"1-1, 1-1 Home","0-3, 0-2 Away",16,10,NULL,NULL,Final,NULL,N,U,L,L,NULL,N,U,L,L,NULL,1,NFL
+210909002,2001,"September 9, 2001",Buffalo Bills,New Orleans Saints,"0-1, 0-1 Home","1-0, 1-0 Away",6,24,NULL,NULL,Final,FOX,3,3,0,0,NULL,0,0,17,7,NULL,1,NFL
+210930019,2001,"September 30, 2001",New York Giants,New Orleans Saints,"2-1, 1-0 Home","1-1, 1-1 Away",21,13,NULL,NULL,Final,FOX,0,14,0,7,NULL,0,3,0,10,NULL,3,NFL
+211014029,2001,"October 14, 2001",Carolina Panthers,New Orleans Saints,"1-4, 0-2 Home","3-1, 2-1 Away",25,27,NULL,NULL,Final,FOX,0,6,6,13,NULL,10,7,3,7,NULL,5,NFL
+211028014,2001,"October 28, 2001",St. Louis Rams,New Orleans Saints,"6-1, 2-1 Home","4-2, 3-1 Away",31,34,NULL,NULL,Final,FOX,14,10,0,7,NULL,3,3,25,3,NULL,7,NFL
+211111025,2001,"November 11, 2001",San Francisco 49ers,New Orleans Saints,"6-2, 4-1 Home","4-4, 3-2 Away",28,27,NULL,NULL,Final,FOX,7,14,0,7,NULL,3,11,10,3,NULL,9,NFL
+211125017,2001,"November 25, 2001",New England Patriots,New Orleans Saints,"6-5, 4-2 Home","5-5, 3-3 Away",34,17,NULL,NULL,Final,FOX,7,13,0,14,NULL,0,0,10,7,NULL,11,NFL
+211209001,2001,"December 9, 2001",Atlanta Falcons,New Orleans Saints,"6-6, 2-5 Home","7-5, 4-3 Away",10,28,NULL,NULL,Final,FOX,7,3,0,0,NULL,14,0,0,14,NULL,13,NFL
+211223027,2001,"December 23, 2001",Tampa Bay Buccaneers,New Orleans Saints,"8-6, 4-2 Home","7-7, 4-4 Away",48,21,NULL,NULL,Final,FOX,17,13,3,15,NULL,0,0,7,14,NULL,15,NFL
+210811018,2001,"August 11, 2001",New Orleans Saints,Minnesota Vikings,"0-1, 0-1 Home","1-0, 1-0 Away",21,28,NULL,NULL,Final,NULL,11,5,0,.688,405,13,3,0,.813,479,HOF,NFL
+210825007,2001,"August 25, 2001",Denver Broncos,New Orleans Saints,"2-1, 1-0 Home","1-2, 0-1 Away",31,24,NULL,NULL,Final,NULL,11,5,0,.688,405,13,3,0,.813,479,2,NFL
+210901026,2001,"September 1, 2001",Seattle Seahawks,New Orleans Saints,"2-2, 1-1 Home","1-3, 0-2 Away",28,14,NULL,NULL,Final,NULL,N,U,L,L,NULL,N,U,L,L,NULL,3,NFL
+220106018,2001,"January 6, 2002",New Orleans Saints,San Francisco 49ers,"7-9, 3-5 Home","12-4, 5-3 Away",0,38,NULL,NULL,Final,FOX,0,0,0,0,NULL,14,7,3,14,NULL,17,NFL

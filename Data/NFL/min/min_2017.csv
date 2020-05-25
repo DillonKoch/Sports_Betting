@@ -1,0 +1,23 @@
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
+400951643,2017,"September 17, 2017",Pittsburgh Steelers,Minnesota Vikings,"2-0, 1-0 Home","1-1, 0-1 Away",26,9,NULL,NULL,Final,FOX,7,7,6,6,NULL,0,3,6,0,NULL,2,NFL
+400951724,2017,"October 1, 2017",Minnesota Vikings,Detroit Lions,"2-2, 2-1 Home","3-1, 2-0 Away",7,14,NULL,NULL,Final,FOX,0,7,0,0,NULL,0,3,11,0,NULL,4,NFL
+400951702,2017,"October 15, 2017",Minnesota Vikings,Green Bay Packers,"4-2, 3-1 Home","4-2, 1-2 Away",23,10,NULL,NULL,Final,FOX,0,14,3,6,NULL,0,10,0,0,NULL,6,NFL
+400951683,2017,"October 29, 2017",Cleveland Browns,Minnesota Vikings,0-8,6-2,16,33,NULL,NULL,Final,NFL,6,7,3,0,NULL,3,9,11,10,NULL,8,NFL
+400951658,2017,"November 12, 2017",Washington Redskins,Minnesota Vikings,"4-5, 2-3 Home","7-2, 3-1 Away",30,38,NULL,NULL,Final,FOX,10,7,3,10,NULL,7,21,7,3,NULL,10,NFL
+400951569,2017,"November 23, 2017",Detroit Lions,Minnesota Vikings,"6-5, 2-4 Home","9-2, 4-1 Away",23,30,NULL,NULL,Final,FOX,0,10,6,7,NULL,13,7,7,3,NULL,12,NFL
+400951561,2017,"December 10, 2017",Carolina Panthers,Minnesota Vikings,"9-4, 4-2 Home","10-3, 5-2 Away",31,24,NULL,NULL,Final,CBS,7,7,10,7,NULL,7,6,0,11,NULL,14,NFL
+400951602,2017,"December 23, 2017",Green Bay Packers,Minnesota Vikings,"7-8, 4-4 Home","12-3, 6-2 Away",0,16,NULL,NULL,Final,NBC,0,0,0,0,NULL,10,0,3,3,NULL,16,NFL
+400951837,2017,"August 18, 2017",Seattle Seahawks,Minnesota Vikings,"2-0, 1-0 Home","1-1, 1-1 Away",20,13,NULL,NULL,Final,NFL,7,7,6,0,NULL,3,3,0,7,NULL,2,NFL
+400999180,2017,"January 14, 2018",Minnesota Vikings,New Orleans Saints,"13-3, 7-1 Home","11-5, 4-4 Away",29,24,NULL,NULL,Final,FOX,10,7,0,12,NULL,0,0,7,17,NULL,DIV,NFL
+400951612,2017,"September 11, 2017",Minnesota Vikings,New Orleans Saints,"1-0, 1-0 Home","0-1, 0-1 Away",29,19,NULL,NULL,Final,ESPN,3,13,3,10,NULL,3,3,3,10,NULL,1,NFL
+400951604,2017,"September 24, 2017",Minnesota Vikings,Tampa Bay Buccaneers,"2-1, 2-0 Home","1-1, 0-1 Away",34,17,NULL,NULL,Final,FOX,7,14,10,3,NULL,3,0,14,0,NULL,3,NFL
+400951691,2017,"October 9, 2017",Chicago Bears,Minnesota Vikings,"1-4, 1-2 Home","3-2, 1-1 Away",17,20,NULL,NULL,Final,ESPN,2,0,7,8,NULL,0,3,14,3,NULL,5,NFL
+400951603,2017,"October 22, 2017",Minnesota Vikings,Baltimore Ravens,"5-2, 4-1 Home","3-4, 2-2 Away",24,16,NULL,NULL,Final,CBS,3,6,9,6,NULL,3,3,3,7,NULL,7,NFL
+400951775,2017,"November 19, 2017",Minnesota Vikings,Los Angeles Rams,"8-2, 5-1 Home","7-3, 4-1 Away",24,7,NULL,NULL,Final,FOX,0,7,0,17,NULL,7,0,0,0,NULL,11,NFL
+400951677,2017,"December 3, 2017",Atlanta Falcons,Minnesota Vikings,"7-5, 3-3 Home","10-2, 5-1 Away",9,14,NULL,NULL,Final,FOX,3,3,3,0,NULL,0,7,0,7,NULL,13,NFL
+400951784,2017,"December 17, 2017",Minnesota Vikings,Cincinnati Bengals,"11-3, 6-1 Home","5-9, 2-5 Away",34,7,NULL,NULL,Final,CBS,17,7,3,7,NULL,0,0,0,7,NULL,15,NFL
+400951829,2017,"August 10, 2017",Buffalo Bills,Minnesota Vikings,"0-1, 0-1 Home","1-0, 1-0 Away",10,17,NULL,NULL,Final,NULL,0,3,0,7,NULL,0,3,14,0,NULL,1,NFL
+400950235,2017,"August 27, 2017",Minnesota Vikings,San Francisco 49ers,"2-1, 1-0 Home","1-2, 1-1 Away",32,31,NULL,NULL,Final,NBC,0,0,17,15,NULL,7,7,10,7,NULL,3,NFL
+400999174,2017,"January 21, 2018",Philadelphia Eagles,Minnesota Vikings,"13-3, 7-1 Home","13-3, 6-2 Away",38,7,NULL,NULL,Final,FOX,7,17,7,7,NULL,7,0,0,0,NULL,CONF,NFL
+400950237,2017,"August 31, 2017",Minnesota Vikings,Miami Dolphins,"2-2, 1-1 Home","2-2, 1-1 Away",9,30,NULL,NULL,Final,NULL,0,6,0,3,NULL,7,16,0,7,NULL,4,NFL
+400951750,2017,"December 31, 2017",Minnesota Vikings,Chicago Bears,"13-3, 7-1 Home","5-11, 2-6 Away",23,10,NULL,NULL,Final,FOX,7,9,7,0,NULL,0,7,0,3,NULL,17,NFL

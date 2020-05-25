@@ -1,0 +1,21 @@
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
+210923006,2001,"September 23, 2001",Dallas Cowboys,San Diego Chargers,"0-2, 0-2 Home","2-0, 1-0 Away",21,32,NULL,NULL,Final,CBS,0,14,0,7,NULL,14,6,6,6,NULL,2,NFL
+211007005,2001,"October 7, 2001",Cleveland Browns,San Diego Chargers,"3-1, 2-1 Home","3-1, 1-1 Away",20,16,NULL,NULL,Final,CBS,0,10,0,10,NULL,3,0,7,6,NULL,4,NFL
+211021024,2001,"October 21, 2001",San Diego Chargers,Denver Broncos,"4-2, 3-0 Home","3-3, 1-2 Away",27,10,NULL,NULL,Final,CBS,7,6,7,7,NULL,0,7,3,0,NULL,6,NFL
+211104024,2001,"November 4, 2001",San Diego Chargers,Kansas City Chiefs,"5-3, 4-1 Home","2-6, 2-2 Away",20,25,NULL,NULL,Final,CBS,0,0,10,10,NULL,9,10,0,6,NULL,8,NFL
+211118013,2001,"November 18, 2001",Oakland Raiders,San Diego Chargers,"7-2, 4-0 Home","5-5, 1-4 Away",34,24,NULL,NULL,Final,CBS,14,0,3,17,NULL,7,0,10,7,NULL,10,NFL
+211202026,2001,"December 2, 2001",Seattle Seahawks,San Diego Chargers,"6-5, 4-2 Home","5-7, 1-5 Away",13,10,NULL,NULL,Final/OT,CBS,7,0,3,0,3,0,3,7,0,0,12,NFL
+211215024,2001,"December 15, 2001",San Diego Chargers,Oakland Raiders,"5-9, 4-3 Home","10-3, 5-2 Away",6,13,NULL,NULL,Final,CBS,0,3,0,3,NULL,3,0,7,3,NULL,14,NFL
+210818015,2001,"August 18, 2001",Miami Dolphins,San Diego Chargers,"1-2, 0-2 Home","2-0, 1-0 Away",20,23,NULL,NULL,Final/OT,NULL,10,6,0,.625,314,12,4,0,.750,420,1,NFL
+210909024,2001,"September 9, 2001",San Diego Chargers,Washington Redskins,"1-0, 1-0 Home","0-1, 0-1 Away",30,3,NULL,NULL,Final,FOX,10,10,0,10,NULL,0,0,3,0,NULL,1,NFL
+210930024,2001,"September 30, 2001",San Diego Chargers,Cincinnati Bengals,"3-0, 2-0 Home","2-1, 0-1 Away",28,14,NULL,NULL,Final,CBS,0,7,14,7,NULL,0,7,0,7,NULL,3,NFL
+211014017,2001,"October 14, 2001",New England Patriots,San Diego Chargers,"2-3, 2-1 Home","3-2, 1-2 Away",29,26,NULL,NULL,Final/OT,CBS,3,6,7,10,3,3,3,7,13,0,5,NFL
+211028024,2001,"October 28, 2001",San Diego Chargers,Buffalo Bills,"5-2, 4-0 Home","1-5, 1-2 Away",27,24,NULL,NULL,Final,CBS,10,3,0,14,NULL,0,10,0,14,NULL,7,NFL
+211111007,2001,"November 11, 2001",Denver Broncos,San Diego Chargers,"5-4, 4-1 Home","5-4, 1-3 Away",26,16,NULL,NULL,Final,CBS,3,17,6,0,NULL,0,0,3,13,NULL,9,NFL
+211125024,2001,"November 25, 2001",San Diego Chargers,Arizona Cardinals,"5-6, 4-2 Home","4-6, 2-2 Away",17,20,NULL,NULL,Final,FOX,3,0,0,14,NULL,0,7,3,10,NULL,11,NFL
+211209021,2001,"December 9, 2001",Philadelphia Eagles,San Diego Chargers,"8-4, 3-4 Home","5-8, 1-6 Away",24,14,NULL,NULL,Final,CBS,14,7,0,3,NULL,7,7,0,0,NULL,13,NFL
+211223012,2001,"December 23, 2001",Kansas City Chiefs,San Diego Chargers,"5-9, 3-5 Home","5-10, 1-7 Away",20,17,NULL,NULL,Final,CBS,7,0,3,10,NULL,7,0,7,3,NULL,15,NFL
+210811024,2001,"August 11, 2001",San Diego Chargers,San Francisco 49ers,"1-0, 1-0 Home","0-1, 0-1 Away",25,24,NULL,NULL,Final,NULL,11,5,0,.688,405,13,3,0,.813,479,HOF,NFL
+210825024,2001,"August 25, 2001",San Diego Chargers,St. Louis Rams,"2-1, 1-1 Home","3-1, 3-0 Away",3,10,NULL,NULL,Final,NULL,0,3,0,,NULL,0,7,3,,NULL,2,NFL
+211230024,2001,"December 30, 2001",San Diego Chargers,Seattle Seahawks,"5-11, 4-4 Home","8-7, 3-5 Away",22,25,NULL,NULL,Final,CBS,10,3,3,6,NULL,0,14,8,3,NULL,16,NFL
+210831022,2001,"August 31, 2001",Arizona Cardinals,San Diego Chargers,"3-1, 1-1 Home","2-2, 1-1 Away",16,3,NULL,NULL,Final,NULL,N,U,L,L,NULL,N,U,L,L,NULL,3,NFL

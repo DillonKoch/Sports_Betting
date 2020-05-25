@@ -1,0 +1,23 @@
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
+401030738,2018,"September 16, 2018",Dallas Cowboys,New York Giants,"1-1, 1-0 Home","0-2, 0-1 Away",20,13,DAL -3.0,42,Final,NBC,10,0,3,7,NULL,0,0,3,10,NULL,2,NFL
+401030845,2018,"September 30, 2018",Dallas Cowboys,Detroit Lions,"2-2, 2-0 Home","1-3, 0-2 Away",26,24,DAL -2.5,44,Final,FOX,3,10,7,6,NULL,7,3,0,14,NULL,4,NFL
+401030776,2018,"October 14, 2018",Dallas Cowboys,Jacksonville Jaguars,"3-3, 3-0 Home","3-3, 1-2 Away",40,7,JAX -3.0,40,Final,CBS,10,14,6,10,NULL,0,0,7,0,NULL,6,NFL
+401030869,2018,"November 11, 2018",Philadelphia Eagles,Dallas Cowboys,"4-5, 2-3 Home","4-5, 1-4 Away",20,27,PHI -7.5,46,Final,NBC,0,3,10,7,NULL,3,10,0,14,NULL,10,NFL
+401030925,2018,"November 22, 2018",Dallas Cowboys,Washington Redskins,"6-5, 4-1 Home","6-5, 3-2 Away",31,23,DAL -7.0,40,Final,FOX,7,3,14,7,NULL,0,7,6,10,NULL,12,NFL
+401030854,2018,"December 9, 2018",Dallas Cowboys,Philadelphia Eagles,"8-5, 6-1 Home","6-7, 2-4 Away",29,23,DAL -3.0,46,Final/OT,FOX,3,3,3,14,6,0,0,6,17,0,14,NFL
+401030875,2018,"December 23, 2018",Dallas Cowboys,Tampa Bay Buccaneers,"9-6, 7-1 Home","5-10, 1-7 Away",27,20,NULL,NULL,Final,FOX,14,3,10,0,NULL,3,10,0,7,NULL,16,NFL
+401030945,2018,"August 18, 2018",Dallas Cowboys,Cincinnati Bengals,"0-2, 0-1 Home","2-0, 1-0 Away",13,21,DAL -3.0,42,Final,NFL,3,7,0,3,NULL,0,0,11,10,NULL,2,NFL
+401038953,2018,"January 5, 2019",Dallas Cowboys,Seattle Seahawks,"10-6, 7-1 Home","10-6, 4-4 Away",24,22,DAL -2.5,44,Final,FOX,3,7,0,14,NULL,0,6,8,8,NULL,WC,NFL
+401030723,2018,"September 9, 2018",Carolina Panthers,Dallas Cowboys,"1-0, 1-0 Home","0-1, 0-1 Away",16,8,CAR -3.0,42,Final,FOX,0,10,0,6,NULL,0,0,0,8,NULL,1,NFL
+401030799,2018,"September 23, 2018",Seattle Seahawks,Dallas Cowboys,"1-2, 1-0 Home","1-2, 0-2 Away",24,13,SEA -1.0,40,Final,FOX,0,17,0,7,NULL,0,3,3,7,NULL,3,NFL
+401030831,2018,"October 7, 2018",Houston Texans,Dallas Cowboys,"2-3, 1-1 Home","2-3, 0-3 Away",19,16,HOU -3.5,46,Final/OT,NBC,0,10,3,3,3,6,0,7,3,0,5,NFL
+401030837,2018,"October 21, 2018",Washington Redskins,Dallas Cowboys,"4-2, 3-1 Home","3-4, 0-4 Away",20,17,DAL -2.0,41,Final,CBS,7,0,3,10,NULL,0,7,0,10,NULL,7,NFL
+401030862,2018,"November 5, 2018",Dallas Cowboys,Tennessee Titans,"3-5, 3-1 Home","4-4, 2-3 Away",14,28,DAL -5.0,40,Final,ESPN,7,7,0,0,NULL,0,14,7,7,NULL,9,NFL
+401030929,2018,"November 18, 2018",Atlanta Falcons,Dallas Cowboys,"4-6, 3-3 Home","5-5, 2-4 Away",19,22,ATL -3.5,50,Final,FOX,0,6,3,10,NULL,3,0,3,16,NULL,11,NFL
+401030899,2018,"November 29, 2018",Dallas Cowboys,New Orleans Saints,"7-5, 5-1 Home","10-2, 5-1 Away",13,10,NO -7.5,52,Final,FOX/NFL,10,3,0,0,NULL,0,0,10,0,NULL,13,NFL
+401030927,2018,"December 16, 2018",Indianapolis Colts,Dallas Cowboys,"8-6, 5-2 Home","8-6, 2-5 Away",23,0,IND -3.0,47,Final,FOX,7,3,10,3,NULL,0,0,0,0,NULL,15,NFL
+401030985,2018,"August 9, 2018",San Francisco 49ers,Dallas Cowboys,"1-0, 1-0 Home","0-1, 0-1 Away",24,21,SF -4.0,36,Final,NFL,0,7,3,14,NULL,7,7,7,0,NULL,1,NFL
+401029387,2018,"August 26, 2018",Dallas Cowboys,Arizona Cardinals,"0-3, 0-2 Home","3-0, 2-0 Away",3,27,ARI -3.0,39,Final,NBC,0,0,0,3,NULL,14,3,7,3,NULL,3,NFL
+401038956,2018,"January 12, 2019",Los Angeles Rams,Dallas Cowboys,"13-3, 7-1 Home","10-6, 3-5 Away",30,22,LAR -7.0,48,Final,FOX,3,17,3,7,NULL,7,0,8,7,NULL,DIV,NFL
+401030995,2018,"August 30, 2018",Houston Texans,Dallas Cowboys,"3-1, 2-0 Home","0-4, 0-2 Away",14,6,HOU -5.0,35,Final,NULL,7,0,0,7,NULL,3,0,0,3,NULL,4,NFL
+401030812,2018,"December 30, 2018",New York Giants,Dallas Cowboys,"5-11, 2-6 Home","10-6, 3-5 Away",35,36,NYG -7.5,39,Final,FOX,0,7,11,17,NULL,0,14,7,15,NULL,17,NFL

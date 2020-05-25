@@ -1,0 +1,17 @@
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
+140904011,1994,"September 4, 1994",Indianapolis Colts,Houston Oilers,"1-0, 1-0 Home","0-1, 0-1 Away",45,21,NULL,NULL,Final,NULL,10,6,0,.625,314,12,4,0,.750,420,,NFL
+140911006,1994,"September 11, 1994",Dallas Cowboys,Houston Oilers,"2-0, 1-0 Home","0-2, 0-2 Away",20,17,NULL,NULL,Final,NULL,8,8,0,.500,434,9,7,0,.563,385,,NFL
+140918010,1994,"September 18, 1994",Houston Oilers,Buffalo Bills,"0-3, 0-1 Home","2-1, 2-0 Away",7,15,NULL,NULL,Final,NULL,10,6,0,.625,314,12,4,0,.750,420,,NFL
+140925010,1994,"September 25, 1994",Houston Oilers,Cincinnati Bengals,"1-3, 1-1 Home","0-4, 0-2 Away",20,13,NULL,NULL,Final,NULL,N,U,L,L,NULL,N,U,L,L,NULL,,NFL
+141003023,1994,"October 3, 1994",Pittsburgh Steelers,Houston Oilers,"3-2, 2-1 Home","1-4, 0-3 Away",30,14,NULL,NULL,Final,NULL,N,U,L,L,NULL,N,U,L,L,NULL,,NFL
+141013010,1994,"October 13, 1994",Houston Oilers,Cleveland Browns,"1-5, 1-2 Home","5-1, 3-0 Away",8,11,NULL,NULL,Final,NULL,N,U,L,L,NULL,N,U,L,L,NULL,,NFL
+141024021,1994,"October 24, 1994",Philadelphia Eagles,Houston Oilers,"5-2, 4-0 Home","1-6, 0-4 Away",21,6,NULL,NULL,Final,NULL,8,8,0,.500,434,9,7,0,.563,385,,NFL
+141030013,1994,"October 30, 1994",Los Angeles Raiders,Houston Oilers,"4-4, 2-2 Home","1-7, 0-5 Away",17,14,NULL,NULL,Final,NULL,N,U,L,L,NULL,N,U,L,L,NULL,,NFL
+141106010,1994,"November 6, 1994",Houston Oilers,Pittsburgh Steelers,"1-8, 1-3 Home","6-3, 3-2 Away",9,12,NULL,NULL,Final/OT,NULL,N,U,L,L,NULL,N,U,L,L,NULL,,NFL
+141113004,1994,"November 13, 1994",Cincinnati Bengals,Houston Oilers,"2-8, 1-4 Home","1-9, 0-6 Away",34,31,NULL,NULL,Final,NULL,N,U,L,L,NULL,N,U,L,L,NULL,,NFL
+141121010,1994,"November 21, 1994",Houston Oilers,New York Giants,"1-10, 1-4 Home","4-7, 2-3 Away",10,13,NULL,NULL,Final,NULL,8,8,0,.500,434,9,7,0,.563,385,,NFL
+141127005,1994,"November 27, 1994",Cleveland Browns,Houston Oilers,"9-3, 5-1 Home","1-11, 0-7 Away",34,10,NULL,NULL,Final,NULL,N,U,L,L,NULL,N,U,L,L,NULL,,NFL
+141204010,1994,"December 4, 1994",Houston Oilers,Arizona Cardinals,"1-12, 1-5 Home","6-7, 3-4 Away",12,30,NULL,NULL,Final,NULL,8,8,0,.500,434,9,7,0,.563,385,,NFL
+141211010,1994,"December 11, 1994",Houston Oilers,Seattle Seahawks,"1-13, 1-6 Home","6-8, 3-4 Away",14,16,NULL,NULL,Final,NULL,7,9,0,.438,282,12,4,0,.750,451,,NFL
+141218012,1994,"December 18, 1994",Kansas City Chiefs,Houston Oilers,"8-7, 5-3 Home","1-14, 0-8 Away",31,9,NULL,NULL,Final,NULL,7,9,0,.438,282,12,4,0,.750,451,,NFL
+141224010,1994,"December 24, 1994",Houston Oilers,New York Jets,"2-14, 2-6 Home","6-10, 2-6 Away",24,10,NULL,NULL,Final,NULL,10,6,0,.625,314,12,4,0,.750,420,,NFL

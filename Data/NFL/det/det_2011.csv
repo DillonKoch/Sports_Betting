@@ -1,0 +1,22 @@
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
+310918008,2011,"September 18, 2011",Detroit Lions,Kansas City Chiefs,"2-0, 1-0 Home","0-2, 0-1 Away",48,3,NULL,NULL,Final,CBS,7,13,7,21,NULL,3,0,0,0,NULL,2,NFL
+311002006,2011,"October 2, 2011",Dallas Cowboys,Detroit Lions,"2-2, 1-1 Home","4-0, 3-0 Away",30,34,NULL,NULL,Final,FOX,7,13,10,0,NULL,0,3,14,17,NULL,4,NFL
+311016008,2011,"October 16, 2011",Detroit Lions,San Francisco 49ers,"5-1, 2-1 Home","5-1, 3-0 Away",19,25,NULL,NULL,Final,FOX,10,0,3,6,NULL,0,12,3,10,NULL,6,NFL
+311030007,2011,"October 30, 2011",Denver Broncos,Detroit Lions,"2-5, 1-3 Home","6-2, 4-0 Away",10,45,NULL,NULL,Final,FOX,3,0,0,7,NULL,7,17,14,7,NULL,8,NFL
+311113003,2011,"November 13, 2011",Chicago Bears,Detroit Lions,"6-3, 4-1 Home","6-3, 4-1 Away",37,13,NULL,NULL,Final,FOX,10,10,17,0,NULL,0,6,0,7,NULL,10,NFL
+311124008,2011,"November 24, 2011",Detroit Lions,Green Bay Packers,"7-4, 3-3 Home","11-0, 6-0 Away",15,27,NULL,NULL,Final,FOX,0,0,0,15,NULL,0,7,17,3,NULL,12,NFL
+311211008,2011,"December 11, 2011",Detroit Lions,Minnesota Vikings,"8-5, 4-3 Home","2-11, 1-6 Away",34,28,NULL,NULL,Final,FOX,21,10,0,3,NULL,7,7,7,7,NULL,14,NFL
+311224008,2011,"December 24, 2011",Detroit Lions,San Diego Chargers,"10-5, 5-3 Home","7-8, 2-5 Away",38,10,NULL,NULL,Final,CBS,10,14,7,7,NULL,0,0,10,0,NULL,16,NFL
+310819005,2011,"August 19, 2011",Cleveland Browns,Detroit Lions,"1-1, 1-1 Home","2-0, 1-0 Away",28,30,NULL,NULL,Final,NULL,7,14,7,0,NULL,10,3,7,10,NULL,2,NFL
+310911027,2011,"September 11, 2011",Tampa Bay Buccaneers,Detroit Lions,"0-1, 0-1 Home","1-0, 1-0 Away",20,27,NULL,NULL,Final,FOX,10,3,0,7,NULL,6,14,7,0,NULL,1,NFL
+310925016,2011,"September 25, 2011",Minnesota Vikings,Detroit Lions,"0-3, 0-2 Home","3-0, 2-0 Away",23,26,NULL,NULL,Final/OT,FOX,6,14,0,3,0,0,0,10,13,3,3,NFL
+311010008,2011,"October 10, 2011",Detroit Lions,Chicago Bears,"5-0, 2-0 Home","2-3, 0-2 Away",24,13,NULL,NULL,Final,ESPN,0,7,14,3,NULL,0,10,0,3,NULL,5,NFL
+311023008,2011,"October 23, 2011",Detroit Lions,Atlanta Falcons,"5-2, 2-2 Home","4-3, 2-2 Away",16,23,NULL,NULL,Final,FOX,3,3,10,0,NULL,10,7,3,3,NULL,7,NFL
+311120008,2011,"November 20, 2011",Detroit Lions,Carolina Panthers,"7-3, 3-2 Home","2-8, 0-4 Away",49,35,NULL,NULL,Final,FOX,0,14,14,21,NULL,10,17,0,8,NULL,11,NFL
+311204018,2011,"December 4, 2011",New Orleans Saints,Detroit Lions,"9-3, 6-0 Home","7-5, 4-2 Away",31,17,NULL,NULL,Final,NBC,3,21,0,7,NULL,0,7,10,0,NULL,13,NFL
+311218013,2011,"December 18, 2011",Oakland Raiders,Detroit Lions,"7-7, 3-4 Home","9-5, 5-2 Away",27,28,NULL,NULL,Final,FOX,7,10,0,10,NULL,7,7,0,14,NULL,15,NFL
+310812008,2011,"August 12, 2011",Detroit Lions,Cincinnati Bengals,"1-0, 1-0 Home","0-1, 0-1 Away",34,3,NULL,NULL,Final,NULL,14,10,0,10,NULL,0,3,0,0,NULL,1,NFL
+310827008,2011,"August 27, 2011",Detroit Lions,New England Patriots,"3-0, 2-0 Home","2-1, 1-1 Away",34,10,NULL,NULL,Final,CBS,10,17,0,7,NULL,0,10,0,0,NULL,3,NFL
+310901002,2011,"September 1, 2011",Buffalo Bills,Detroit Lions,"1-3, 1-1 Home","4-0, 2-0 Away",6,16,NULL,NULL,Final,NULL,0,0,0,6,NULL,7,3,3,3,NULL,4,NFL
+320107018,2011,"January 7, 2012",New Orleans Saints,Detroit Lions,"13-3, 8-0 Home","10-6, 5-3 Away",45,28,NULL,NULL,Final,NBC,0,10,14,21,NULL,7,7,7,7,NULL,WC,NFL
+320101009,2011,"January 1, 2012",Green Bay Packers,Detroit Lions,"15-1, 8-0 Home","10-6, 5-3 Away",45,41,NULL,NULL,Final,FOX,10,14,7,14,NULL,9,10,15,7,NULL,17,NFL

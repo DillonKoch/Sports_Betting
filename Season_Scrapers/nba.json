@@ -122,6 +122,7 @@
         ]
     ],
     "Season Base Link": "https://www.espn.com/nba/team/schedule/_/name/{team_abbrev}/season/{year}/seasontype/{season_type}",
+    "game link regex": "http://www.espn.com/nba/game\\?gameId=(\\d+)",
     "DF Columns": [
         "ESPN_ID",
         "Season",

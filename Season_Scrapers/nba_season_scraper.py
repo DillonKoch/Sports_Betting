@@ -4,10 +4,10 @@
 # File Created: Saturday, 2nd May 2020 6:38:35 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Sunday, 10th May 2020 4:33:53 pm
+# Last Modified: Saturday, 23rd May 2020 10:56:21 am
 # Modified By: Dillon Koch
 # -----
-# Collins Aerospace
+#
 #
 # -----
 # File for scraping NBA season data, inheriting from main espn_season_scraper file
@@ -42,7 +42,7 @@ if __name__ == "__main__":
     links = []
     gameids = []
     for section in sections:
-        link, gameid = x._link_gameid_from_section("NBA", section)
+        link, gameid = x._link_gameid_from_section(section)
         links.append(link)
         gameids.append(gameid)
 

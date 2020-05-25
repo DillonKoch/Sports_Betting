@@ -1,17 +1,3 @@
-# ==============================================================================
-# File: espn_season_scraper.py
-# Project: Sports_Betting
-# File Created: Tuesday, 14th April 2020 5:08:27 pm
-# Author: Dillon Koch
-# -----
-# Last Modified: Sunday, 10th May 2020 4:33:34 pm
-# Modified By: Dillon Koch
-# -----
-#
-#
-# -----
-# Scraper to get all season-long data for each league
-# ==============================================================================
 
 import json
 import os
@@ -24,6 +10,7 @@ import pandas as pd
 from func_timeout import func_set_timeout
 from tqdm import tqdm
 
+
 ROOT_PATH = dirname(dirname(abspath(__file__)))
 if ROOT_PATH not in sys.path:
     sys.path.append(ROOT_PATH)
@@ -33,30 +20,45 @@ from Utility import get_sp1, null_if_error
 
 
 class ESPN_Season_Scraper:
-    def __init__(self):
+    def __init__(self, league):
+        self.league = league
         self.egs = ESPN_Game_Scraper()
         self.root_path = ROOT_PATH + '/'
+        self.data_path = self.root_path + 'Data/{}'.format(self.league)
 
     @property
-    def json_data(self):  # Global Helper Tested NBA
+    def config(self):  # Property
         with open("{}.json".format(self.league.lower())) as f:
             data = json.load(f)
         return data
 
-    def _get_game_sections(self, team_abbrev, year, season_type=2):  # Specific Helper team_dates_links Tested NBA
-        """
-        _get_game_sections gets the html for each row in a team's season schedule
+    @property
+    def game_link_re(self):  # Property
+        nba = re.compile(r"http://www.espn.com/nba/game\?gameId=(\d+)")
+        nfl = re.compile(r"http://www.espn.com/nfl/game/_/gameId/(\d+)")
+        ncaaf = None
+        ncaab = None
+        return nba if self.league == "NBA" else nfl if self.league == "NFL" else ncaaf if self.league == "NCAAF" else ncaab
 
-        Args:
-            league (str): [description]
-            team_abbrev (str): abbreviation for the team whose data you want
-            year (str): season you want data for (year indicates the year the season ends in)
-            season_type (int, optional): 1=preseason, 2=regular season, 3=postseason. Defaults to 2.
+    @property
+    def game_info_func(self):  # Property
+        nba = self.egs.all_nba_info
+        nfl = self.egs.all_nfl_info
+        ncaaf = self.egs.all_ncaaf_info
+        ncaab = self.egs.all_ncaab_info
+        return nba if self.league == "NBA" else nfl if self.league == "NFL" else ncaaf if self.league == "NCAAF" else ncaab
 
-        Returns:
-            [type]: [description]
-        """
-        base_link = self.json_data["Season Base Link"].format(
+    @property
+    def q_amount(self):  # Property
+        return 2 if self.league == 'NCAAB' else 4
+
+    def _make_season_df(self):  # Specific Helper scrape_season
+        cols = self.config["DF Columns"]
+        df = pd.DataFrame(columns=cols)
+        return df
+
+    def _get_game_sections(self, team_abbrev, year, season_type=2):  # Specific Helper scrape_season
+        base_link = self.config["Season Base Link"].format(
             team_abbrev=team_abbrev, year=year, season_type=season_type)
         sp = get_sp1(base_link)
         sections = sp.find_all('tr', attrs={'class': 'filled Table__TR Table__TR--sm Table__even'})
@@ -65,63 +67,53 @@ class ESPN_Season_Scraper:
         sections += sp.find_all('tr', attrs={'class': 'bb--none Table__TR Table__TR--sm Table__even'})
         return sections
 
-    @null_if_error(2)  # FIXME
-    def _link_gameid_from_section(self, sp_section):  # Specific Helper team_dates_links  Tested NBA
-        td_htmls = sp_section.find_all('td', attrs={'class': 'Table__TD'})
+    def _week_from_section(self, section):  # Helping Helper _link_week_from_game_section
+        td_htmls = section.find_all('td', attrs={'class': 'Table__TD'})
+        week = td_htmls[0].get_text()
+        return week
+
+    def _link_week_from_game_section(self, section):  # Specific Helper scrape_season
+        link = None
+        td_htmls = section.find_all('td', attrs={'class': 'Table__TD'})
         for html in td_htmls:
-            match = re.search(self.re_game_link, str(html))
+            match = re.search(self.game_link_re, str(html))
             if match:
                 link = match.group(0)
-                game_id = match.group(1)
-        return link, game_id
 
-    def team_gameid_links(self, team_abbrev, year, season_type=2):  # Specific Helper _full_season_df  Tested NBA
-        game_sections = self._get_game_sections(team_abbrev, year, season_type)
-        games = []
-        for section in game_sections:
-            link, game_id = self._link_gameid_from_section(section)
-            if game_id == 'NULL':
-                continue
-            games.append((link, game_id))
-        return games
+        week = self._week_from_section(section)
+        return link, week
 
-    def _make_season_df(self):  # Specific Helper _full_season_df  Tested NBA
-        cols = self.json_data["DF Columns"]
-        df = pd.DataFrame(columns=cols)
-        return df
+    def _link_week_to_row(self, df, link, week, year):  # Specific Helper scrape_season
+        game_id = self.game_link_re.search(link).group(1)
+        game = self.game_info_func(game_id)
 
-    def _game_to_row(self, season, game):
-        q_amount = 4 if self.league != "NCAAB" else 2
-        row = [game.ESPN_ID, season, game.game_date, game.home_name, game.away_name,
+        row = [game.ESPN_ID, year, game.game_date, game.home_name, game.away_name,
                game.home_record, game.away_record,
                game.home_score, game.away_score, game.line, game.over_under,
                game.final_status, game.network]
 
         for scores in [game.home_qscores, game.away_qscores]:
             row += [item for item in scores]
-            if len(scores) == q_amount:
+            if len(scores) == self.q_amount:
                 row += ["NULL"]
 
-        row.append(self.league)
-        return row
+        if self.league == "NFL":
+            row.append(week)
 
-    @func_set_timeout(7 * 60)
-    def _full_season_df(self, team_abbrev, year, season_type=2):  # Specific Helper scrape_team_history
-        game_tuples = self.team_gameid_links(team_abbrev, year, season_type)
-        df = self._make_season_df()
-        for gt in tqdm(game_tuples):
-            game = self.all_game_info_func(gt[1])
-            row = self._game_to_row(year, game)
-            df.loc[len(df)] = row
-            time.sleep(2)
+        row.append(self.league)
+        df.loc[len(df)] = row
         return df
 
-    def scrape_team_history(self, team_abbrev, years, season_type=2):  # Top Level
-        for year in years:
-            print("Scraping {} {} data...".format(year, team_abbrev))
-            df = self._full_season_df(team_abbrev, year, season_type)
-            path = "./Data/{}/{}/{}_{}.csv".format(self.league, team_abbrev, team_abbrev, year)
-            df.to_csv(path)
+    def scrape_season(self, team_abbrev, year, season_type=2):  # Run
+        df = self._make_season_df()
+        game_sections = self._get_game_sections(team_abbrev, year, season_type)
+        link_week_pairs = [self._link_week_from_game_section(section) for section in game_sections]
+        link_week_pairs = [item for item in link_week_pairs if item[0] is not None]
+        for pair in tqdm(link_week_pairs):
+            link, week = pair
+            df = self._link_week_to_row(df, link, week, year)
+            time.sleep(2)
+        return df
 
     def find_years_unscraped(self, team_abbrev):  # Top Level
         path = "../Data/{}/{}/".format(self.league, team_abbrev)
@@ -135,19 +127,28 @@ class ESPN_Season_Scraper:
                 years_found.append(year)
         return [item for item in all_years if item not in years_found]
 
-    def run_all_season_scrapes(self):  # Run
-        team_abbrevs = [item[1] for item in self.json_data["Teams"]]
+    def scrape_team_history(self, team_abbrev):  # Run
+        years_unscraped = self.find_years_unscraped(team_abbrev)
+        for year in years_unscraped:
+            print("Scraping data for {} {}".format(team_abbrev, year))
+            df = self.scrape_season(team_abbrev, year)
+            path = "../Data/{}/{}/{}_{}.csv".format(self.league, team_abbrev, team_abbrev, year)
+            df.to_csv(path, index=False)
 
-        for team in team_abbrevs:
+    def scrape_all_leauge_history(self):  # Run
+        team_abbrevs = [item[1] for item in self.config["Teams"]]
+        for team_abbrev in team_abbrevs:
             try:
-                years = self.find_years_unscraped(team)
-                self.scrape_team_history(team, years)
+                self.scrape_team_history(team_abbrev)
             except BaseException:
-                print('error with scraping!')
-                for i in range(120):
-                    print('sleeping for {} more seconds...'.format(120 - i))
-                    time.sleep(1)
+                print("Error scraping, moving on to the next team")
+                time.sleep(30)
+
+
+def parse_league():  # Parse
+    return None
 
 
 if __name__ == "__main__":
-    ess = ESPN_Season_Scraper()
+    x = ESPN_Season_Scraper("NFL")
+    x.scrape_all_leauge_history()

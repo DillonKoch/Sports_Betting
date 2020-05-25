@@ -1,0 +1,25 @@
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
+220127014,2001,"January 27, 2002",St. Louis Rams,Philadelphia Eagles,"14-2, 6-2 Home","11-5, 7-1 Away",29,24,NULL,NULL,Final,FOX,10,3,9,7,NULL,3,14,0,7,NULL,CONF,NFL
+210923025,2001,"September 23, 2001",San Francisco 49ers,St. Louis Rams,"1-1, 1-1 Home","2-0, 2-0 Away",26,30,NULL,NULL,Final,FOX,0,16,0,10,NULL,9,3,10,8,NULL,2,NFL
+211008008,2001,"October 8, 2001",Detroit Lions,St. Louis Rams,"0-3, 0-1 Home","4-0, 3-0 Away",0,35,NULL,NULL,Final,ABC,0,0,0,0,NULL,7,14,0,14,NULL,4,NFL
+211021020,2001,"October 21, 2001",New York Jets,St. Louis Rams,"3-3, 1-3 Home","6-0, 4-0 Away",14,34,NULL,NULL,Final,FOX,0,7,0,7,NULL,0,21,10,3,NULL,6,NFL
+211118017,2001,"November 18, 2001",New England Patriots,St. Louis Rams,"5-5, 3-2 Home","8-1, 5-0 Away",17,24,NULL,NULL,Final,ESPN,7,3,0,7,NULL,7,7,3,7,NULL,10,NFL
+211202001,2001,"December 2, 2001",Atlanta Falcons,St. Louis Rams,"6-5, 2-4 Home","9-2, 6-0 Away",6,35,NULL,NULL,Final,FOX,3,3,0,0,NULL,14,0,14,7,NULL,12,NFL
+211217018,2001,"December 17, 2001",New Orleans Saints,St. Louis Rams,"7-6, 3-3 Home","11-2, 7-0 Away",21,34,NULL,NULL,Final,ABC,7,7,7,0,NULL,7,14,7,6,NULL,14,NFL
+211230014,2001,"December 30, 2001",St. Louis Rams,Indianapolis Colts,"13-2, 5-2 Home","5-10, 3-5 Away",42,17,NULL,NULL,Final,CBS,7,28,0,7,NULL,7,7,3,0,NULL,16,NFL
+210812002,2001,"August 12, 2001",Buffalo Bills,St. Louis Rams,"0-1, 0-1 Home","2-0, 2-0 Away",10,24,NULL,NULL,Final,NULL,10,6,0,.625,314,12,4,0,.750,420,HOF,NFL
+210825024,2001,"August 25, 2001",San Diego Chargers,St. Louis Rams,"2-1, 1-1 Home","3-1, 3-0 Away",3,10,NULL,NULL,Final,NULL,0,3,0,,NULL,0,7,3,,NULL,2,NFL
+220120014,2001,"January 20, 2002",St. Louis Rams,Green Bay Packers,"14-2, 6-2 Home","12-4, 5-3 Away",45,17,NULL,NULL,Final,FOX,7,17,14,7,NULL,7,3,0,7,NULL,DIV,NFL
+210909021,2001,"September 9, 2001",Philadelphia Eagles,St. Louis Rams,"0-1, 0-1 Home","1-0, 1-0 Away",17,20,NULL,NULL,Final/OT,FOX,3,0,0,14,0,7,7,3,0,3,1,NFL
+210930014,2001,"September 30, 2001",St. Louis Rams,Miami Dolphins,"3-0, 1-0 Home","2-1, 1-1 Away",42,10,NULL,NULL,Final,CBS,7,14,7,14,NULL,7,3,0,0,NULL,3,NFL
+211014014,2001,"October 14, 2001",St. Louis Rams,New York Giants,"5-0, 2-0 Home","3-2, 1-2 Away",15,14,NULL,NULL,Final,FOX,6,3,0,6,NULL,7,0,0,7,NULL,5,NFL
+211028014,2001,"October 28, 2001",St. Louis Rams,New Orleans Saints,"6-1, 2-1 Home","4-2, 3-1 Away",31,34,NULL,NULL,Final,FOX,14,10,0,7,NULL,3,3,25,3,NULL,7,NFL
+211111014,2001,"November 11, 2001",St. Louis Rams,Carolina Panthers,"7-1, 3-1 Home","1-8, 1-5 Away",48,14,NULL,NULL,Final,FOX,21,10,14,3,NULL,0,7,7,0,NULL,9,NFL
+211126014,2001,"November 26, 2001",St. Louis Rams,Tampa Bay Buccaneers,"8-2, 3-2 Home","5-5, 3-3 Away",17,24,NULL,NULL,Final,ABC,3,6,8,0,NULL,0,10,7,7,NULL,11,NFL
+211209014,2001,"December 9, 2001",St. Louis Rams,San Francisco 49ers,"10-2, 4-2 Home","9-3, 4-2 Away",27,14,NULL,NULL,Final,FOX,14,7,3,3,NULL,0,7,0,7,NULL,13,NFL
+211223029,2001,"December 23, 2001",Carolina Panthers,St. Louis Rams,"1-13, 0-6 Home","12-2, 8-0 Away",32,38,NULL,NULL,Final,FOX,7,6,10,9,NULL,7,14,10,7,NULL,15,NFL
+210806015,2001,"August 6, 2001",Miami Dolphins,St. Louis Rams,"0-1, 0-1 Home","1-0, 1-0 Away",10,17,NULL,NULL,Final,NULL,3,7,0,7,NULL,7,3,0,0,NULL,,NFL
+210817014,2001,"August 17, 2001",St. Louis Rams,Tennessee Titans,"2-1, 0-1 Home","2-0, 1-0 Away",10,23,NULL,NULL,Final,NULL,N,U,L,L,NULL,N,U,L,L,NULL,1,NFL
+220203017,2001,"February 3, 2002",New England Patriots,St. Louis Rams,"11-5, 6-2 Home","14-2, 8-0 Away",20,17,NULL,NULL,Final,FOX,0,14,3,3,NULL,3,0,0,14,NULL,SB,NFL
+220106014,2001,"January 6, 2002",St. Louis Rams,Atlanta Falcons,"14-2, 6-2 Home","7-9, 4-4 Away",31,13,NULL,NULL,Final,FOX,10,7,14,0,NULL,0,6,7,0,NULL,17,NFL
+210831014,2001,"August 31, 2001",St. Louis Rams,Kansas City Chiefs,"4-1, 1-1 Home","2-2, 0-2 Away",21,17,NULL,NULL,Final,NULL,7,3,3,3,NULL,0,3,0,0,NULL,3,NFL

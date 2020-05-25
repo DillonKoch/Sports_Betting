@@ -1,0 +1,23 @@
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
+300919006,2010,"September 19, 2010",Dallas Cowboys,Chicago Bears,"0-2, 0-1 Home","2-0, 1-0 Away",20,27,NULL,NULL,Final,FOX,7,7,3,3,NULL,10,10,0,7,NULL,2,NFL
+301003019,2010,"October 3, 2010",New York Giants,Chicago Bears,"2-2, 2-1 Home","3-1, 1-1 Away",17,3,NULL,NULL,Final,NBC,3,0,7,7,NULL,0,0,0,3,NULL,4,NFL
+301017003,2010,"October 17, 2010",Chicago Bears,Seattle Seahawks,"4-2, 2-1 Home","3-2, 1-2 Away",20,23,NULL,NULL,Final,FOX,7,6,0,7,NULL,7,7,2,7,NULL,6,NFL
+301114003,2010,"November 14, 2010",Chicago Bears,Minnesota Vikings,"6-3, 3-2 Home","3-6, 0-5 Away",27,13,NULL,NULL,Final,FOX,0,14,6,7,NULL,3,7,3,0,NULL,10,NFL
+301128003,2010,"November 28, 2010",Chicago Bears,Philadelphia Eagles,"8-3, 4-2 Home","7-4, 4-2 Away",31,26,NULL,NULL,Final,FOX,14,7,10,0,NULL,3,10,0,13,NULL,12,NFL
+301212003,2010,"December 12, 2010",Chicago Bears,New England Patriots,"9-4, 4-3 Home","11-2, 5-2 Away",7,36,NULL,NULL,Final,CBS,0,0,7,0,NULL,7,26,3,0,NULL,14,NFL
+301226003,2010,"December 26, 2010",Chicago Bears,New York Jets,"11-4, 5-3 Home","10-5, 6-2 Away",38,34,NULL,NULL,Final,CBS,10,7,21,0,NULL,0,24,7,3,NULL,16,NFL
+300821003,2010,"August 21, 2010",Chicago Bears,Oakland Raiders,"0-2, 0-1 Home","2-0, 2-0 Away",17,32,NULL,NULL,Final,NULL,6,8,0,3,NULL,10,3,14,5,NULL,2,NFL
+310116003,2010,"January 16, 2011",Chicago Bears,Seattle Seahawks,"11-5, 5-3 Home","7-9, 2-6 Away",35,24,NULL,NULL,Final,FOX,14,7,7,7,NULL,0,0,3,21,NULL,DIV,NFL
+300912003,2010,"September 12, 2010",Chicago Bears,Detroit Lions,"1-0, 1-0 Home","0-1, 0-1 Away",19,14,NULL,NULL,Final,FOX,3,10,0,6,NULL,7,7,0,0,NULL,1,NFL
+300927003,2010,"September 27, 2010",Chicago Bears,Green Bay Packers,"3-0, 2-0 Home","2-1, 1-1 Away",20,17,NULL,NULL,Final,ESPN,0,7,0,13,NULL,7,3,0,7,NULL,3,NFL
+301010029,2010,"October 10, 2010",Carolina Panthers,Chicago Bears,"0-5, 0-3 Home","4-1, 2-1 Away",6,23,NULL,NULL,Final,FOX,3,0,3,0,NULL,17,0,0,6,NULL,5,NFL
+301024003,2010,"October 24, 2010",Chicago Bears,Washington Redskins,"4-3, 2-2 Home","4-3, 2-1 Away",14,17,NULL,NULL,Final,FOX,7,7,0,0,NULL,7,3,7,0,NULL,7,NFL
+301107002,2010,"November 7, 2010",Buffalo Bills,Chicago Bears,"0-8, 0-4 Home","5-3, 3-1 Away",19,22,NULL,NULL,Final,FOX,0,7,6,6,NULL,0,7,7,8,NULL,9,NFL
+301118015,2010,"November 18, 2010",Miami Dolphins,Chicago Bears,"5-5, 1-4 Home","7-3, 4-1 Away",0,16,NULL,NULL,Final,NFL,0,0,0,0,NULL,3,3,10,0,NULL,11,NFL
+301205008,2010,"December 5, 2010",Detroit Lions,Chicago Bears,"2-10, 2-4 Home","9-3, 5-1 Away",20,24,NULL,NULL,Final,FOX,7,10,3,0,NULL,7,7,3,7,NULL,13,NFL
+301220016,2010,"December 20, 2010",Minnesota Vikings,Chicago Bears,"5-9, 4-4 Home","10-4, 6-1 Away",14,40,NULL,NULL,Final,ESPN,7,0,7,0,NULL,10,7,20,3,NULL,15,NFL
+300814024,2010,"August 14, 2010",San Diego Chargers,Chicago Bears,"1-0, 1-0 Home","0-1, 0-1 Away",25,10,NULL,NULL,Final,NULL,7,7,8,3,NULL,3,7,0,0,NULL,1,NFL
+300828003,2010,"August 28, 2010",Chicago Bears,Arizona Cardinals,"0-3, 0-2 Home","2-1, 1-1 Away",9,14,NULL,NULL,Final,NULL,0,0,0,9,NULL,0,7,7,0,NULL,3,NFL
+310123003,2010,"January 23, 2011",Chicago Bears,Green Bay Packers,"11-5, 5-3 Home","10-6, 3-5 Away",14,21,NULL,NULL,Final,FOX,0,0,0,14,NULL,7,7,0,7,NULL,CONF,NFL
+300902005,2010,"September 2, 2010",Cleveland Browns,Chicago Bears,"2-2, 1-1 Home","0-4, 0-2 Away",13,10,NULL,NULL,Final,NULL,7,3,0,3,NULL,7,3,0,0,NULL,4,NFL
+310102009,2010,"January 2, 2011",Green Bay Packers,Chicago Bears,"10-6, 7-1 Home","11-5, 6-2 Away",10,3,NULL,NULL,Final,FOX,0,0,3,7,NULL,0,3,0,0,NULL,17,NFL
