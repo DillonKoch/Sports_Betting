@@ -1,0 +1,21 @@
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
+401030693,2018,"September 16, 2018",Washington Redskins,Indianapolis Colts,"1-1, 0-1 Home","1-1, 1-0 Away",9,21,WSH -6.0,48,Final,CBS,0,3,3,3,NULL,7,7,0,7,NULL,2,NFL
+401030701,2018,"October 14, 2018",Washington Redskins,Carolina Panthers,"3-2, 2-1 Home","3-2, 0-2 Away",23,17,CAR -1.5,45,Final,FOX,14,3,0,6,NULL,0,6,3,8,NULL,6,NFL
+401030735,2018,"October 28, 2018",New York Giants,Washington Redskins,"1-7, 0-4 Home","5-2, 2-1 Away",13,20,WSH -1.0,44,Final,FOX,0,3,0,10,NULL,7,0,3,10,NULL,8,NFL
+401030828,2018,"November 11, 2018",Tampa Bay Buccaneers,Washington Redskins,"3-6, 2-2 Home","6-3, 3-1 Away",3,16,TB -3.5,51,Final,FOX,0,3,0,0,NULL,3,3,0,10,NULL,10,NFL
+401030925,2018,"November 22, 2018",Dallas Cowboys,Washington Redskins,"6-5, 4-1 Home","6-5, 3-2 Away",31,23,DAL -7.0,40,Final,FOX,7,3,14,7,NULL,0,7,6,10,NULL,12,NFL
+401030753,2018,"December 9, 2018",Washington Redskins,New York Giants,"6-7, 3-4 Home","5-8, 3-4 Away",16,40,NYG -3.0,40,Final,FOX,0,0,0,16,NULL,7,27,6,0,NULL,14,NFL
+401030868,2018,"December 22, 2018",Tennessee Titans,Washington Redskins,"9-6, 6-1 Home","7-8, 4-4 Away",25,16,TEN -11.5,38,Final,NFL,6,3,0,16,NULL,3,7,3,3,NULL,16,NFL
+401029381,2018,"August 16, 2018",Washington Redskins,New York Jets,"1-1, 1-0 Home","1-1, 0-1 Away",15,13,NYJ -2.0,42,Final,ESPN,6,3,3,3,NULL,0,3,0,10,NULL,2,NFL
+401030725,2018,"September 9, 2018",Arizona Cardinals,Washington Redskins,"0-1, 0-1 Home","1-0, 1-0 Away",6,24,ARI -2.5,44,Final,FOX,0,0,0,6,NULL,0,21,0,3,NULL,1,NFL
+401030781,2018,"September 23, 2018",Washington Redskins,Green Bay Packers,"2-1, 1-1 Home","1-1-1, 0-1 Away",31,17,GB -2.0,46,Final,FOX,14,14,0,3,NULL,0,10,7,0,NULL,3,NFL
+401030834,2018,"October 8, 2018",New Orleans Saints,Washington Redskins,"4-1, 2-1 Home","2-2, 1-1 Away",43,19,NO -5.5,53,Final,ESPN,6,20,14,3,NULL,3,10,0,6,NULL,5,NFL
+401030837,2018,"October 21, 2018",Washington Redskins,Dallas Cowboys,"4-2, 3-1 Home","3-4, 0-4 Away",20,17,DAL -2.0,41,Final,CBS,7,0,3,10,NULL,0,7,0,10,NULL,7,NFL
+401030826,2018,"November 4, 2018",Washington Redskins,Atlanta Falcons,"5-3, 3-2 Home","4-4, 1-2 Away",14,38,WSH -1.5,47,Final,FOX,0,7,7,0,NULL,7,14,7,10,NULL,9,NFL
+401030966,2018,"November 18, 2018",Washington Redskins,Houston Texans,"6-4, 3-3 Home","7-3, 4-2 Away",21,23,HOU -3.0,40,Final,CBS,0,7,7,7,NULL,10,7,3,3,NULL,11,NFL
+401030871,2018,"December 3, 2018",Philadelphia Eagles,Washington Redskins,"6-6, 4-3 Home","6-6, 3-3 Away",28,13,PHI -5.5,45,Final,ESPN,7,7,0,14,NULL,0,13,0,0,NULL,13,NFL
+401030924,2018,"December 16, 2018",Jacksonville Jaguars,Washington Redskins,"4-10, 3-5 Home","7-7, 4-3 Away",13,16,JAX -7.5,37,Final,CBS,0,10,0,3,NULL,3,0,3,10,NULL,15,NFL
+401030975,2018,"August 9, 2018",New England Patriots,Washington Redskins,"1-0, 1-0 Home","0-1, 0-1 Away",26,17,NE -2.5,38,Final,NULL,0,3,7,16,NULL,10,7,0,0,NULL,1,NFL
+401030976,2018,"August 24, 2018",Washington Redskins,Denver Broncos,"1-2, 1-1 Home","1-2, 1-0 Away",17,29,WSH -3.0,43,Final,NULL,0,3,0,14,NULL,10,7,6,6,NULL,3,NFL
+401029389,2018,"August 30, 2018",Baltimore Ravens,Washington Redskins,"5-0, 3-0 Home","1-3, 0-2 Away",30,20,BAL -5.0,35,Final,NULL,7,6,14,3,NULL,0,7,7,6,NULL,4,NFL
+401030727,2018,"December 30, 2018",Washington Redskins,Philadelphia Eagles,"7-9, 3-5 Home","9-7, 4-4 Away",0,24,PHI -6.0,43,Final,FOX,0,0,0,0,NULL,3,7,7,7,NULL,17,NFL
