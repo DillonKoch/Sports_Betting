@@ -114,7 +114,7 @@ class ESPN_Season_Scraper:
         for pair in tqdm(link_week_pairs):
             link, week = pair
             df = self._link_week_to_row(df, link, week, year)
-            time.sleep(2)
+            time.sleep(5)
         return df
 
     def find_years_unscraped(self, team_abbrev):  # Top Level
