@@ -1,0 +1,33 @@
+ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,H1H,H2H,HOT,A1H,A2H,AOT,League
+401084649,2019,"Sat, Nov 10",Tulsa Golden Hurricane,South Carolina State Bulldogs,"2-0, 2-0 Home","1-1, 0-1 Away",74,52,NULL,NULL,Final,ESPN3,36,38,NULL,25,27,NULL,NCAAB
+401084686,2019,"Mon, Nov 19",Tulsa Golden Hurricane,Little Rock Trojans,"4-0, 4-0 Home","2-2, 1-2 Away",88,78,TLSA -12.0,141,Final,NULL,37,51,NULL,42,36,NULL,NCAAB
+401100454,2019,"Fri, Nov 23",Tulsa Golden Hurricane,Southern Illinois Salukis,4-2,3-3,69,79,SIU -1.5,142,Final,NULL,35,34,NULL,32,47,NULL,NCAAB
+401084708,2019,"Sat, Dec 1",Utah Utes,Tulsa Golden Hurricane,"4-3, 3-0 Home","5-3, 0-1 Away",69,64,UTAH -7.0,146,Final,PAC12,23,46,NULL,17,47,NULL,NCAAB
+401083430,2019,"Sat, Dec 8",Tulsa Golden Hurricane,Kansas State Wildcats,"7-3, 7-0 Home","6-2, 0-2 Away",47,46,KSU -6.0,141,Final,CBSSN,24,23,NULL,25,21,NULL,NCAAB
+401084727,2019,"Sun, Dec 16",Dayton Flyers,Tulsa Golden Hurricane,5-5,9-3,67,72,TLSA -4.0,138,Final,NULL,30,37,NULL,30,42,NULL,NCAAB
+401084749,2019,"Wed, Jan 2",Houston Cougars,Tulsa Golden Hurricane,"14-0, 1-0 Conf","10-4, 0-1 Conf",74,56,HOU -11.0,134,Final,ESPN3,36,38,NULL,25,31,NULL,NCAAB
+401084759,2019,"Thu, Jan 10",Tulsa Golden Hurricane,Cincinnati Bearcats,"11-5, 1-2 Conf","13-3, 2-1 Conf",65,70,CIN -7.0,133,Final/OT,ESPN2,26,32,7,28,30,12,NCAAB
+401084625,2019,"Wed, Jan 16",Tulsa Golden Hurricane,UConn Huskies,"12-6, 2-3 Conf","10-8, 1-4 Conf",89,83,CONN -1.0,140,Final,ESPNN,42,47,NULL,37,46,NULL,NCAAB
+401084777,2019,"Thu, Jan 24",Cincinnati Bearcats,Tulsa Golden Hurricane,"17-3, 6-1 Conf","12-8, 2-5 Conf",88,64,CIN -14.0,135,Final,ESPN2,39,49,NULL,28,36,NULL,NCAAB
+401084784,2019,"Wed, Jan 30",Tulsa Golden Hurricane,Memphis Tigers,"13-9, 3-6 Conf","13-8, 5-3 Conf",95,79,MEM -2.0,158,Final,ESPNN,48,47,NULL,31,48,NULL,NCAAB
+401084795,2019,"Sat, Feb 9",Tulsa Golden Hurricane,Temple Owls,"14-10, 4-7 Conf","17-7, 7-4 Conf",76,58,TEM -1.5,149,Final,ESPNU,39,37,NULL,31,27,NULL,NCAAB
+401084807,2019,"Sun, Feb 17",East Carolina Pirates,Tulsa Golden Hurricane,"9-16, 2-11 Conf","16-10, 6-7 Conf",73,77,TLSA -5.5,140,Final/OT,ESPN3,26,41,6,37,30,10,NCAAB
+401084812,2019,"Sat, Feb 23",Temple Owls,Tulsa Golden Hurricane,"20-7, 10-4 Conf","16-12, 6-9 Conf",84,73,TEM -8.0,142,Final,ESPNN,31,53,NULL,30,43,NULL,NCAAB
+401084826,2019,"Sun, Mar 3",Tulsa Golden Hurricane,East Carolina Pirates,"18-12, 8-9 Conf","10-18, 3-13 Conf",91,78,TLSA -10.5,142,Final,ESPNU,45,46,NULL,36,42,NULL,NCAAB
+401084644,2019,"Tue, Nov 6",Tulsa Golden Hurricane,Alcorn State Braves,"1-0, 1-0 Home","0-1, 0-1 Away",73,56,NULL,NULL,Final,ESPN3,40,33,NULL,37,19,NULL,NCAAB
+401084678,2019,"Fri, Nov 16",Tulsa Golden Hurricane,California Baptist Lancers,"3-0, 3-0 Home","2-1, 1-1 Away",82,79,NULL,NULL,Final,NULL,42,40,NULL,43,36,NULL,NCAAB
+401084691,2019,"Thu, Nov 22",Nevada Wolf Pack,Tulsa Golden Hurricane,5-0,4-1,96,86,NEV -14.0,153,Final,FS1,46,50,NULL,35,51,NULL,NCAAB
+401084698,2019,"Tue, Nov 27",Tulsa Golden Hurricane,UT Arlington Mavericks,"5-2, 5-0 Home","3-4, 0-3 Away",72,58,TLSA -11.5,147,Final,ESPN3,31,41,NULL,31,27,NULL,NCAAB
+401083530,2019,"Wed, Dec 5",Tulsa Golden Hurricane,Oklahoma State Cowboys,"6-3, 6-0 Home","4-4, 0-3 Away",74,71,OKST -2.0,146,Final,CBSSN,30,44,NULL,29,42,NULL,NCAAB
+401084721,2019,"Thu, Dec 13",Tulsa Golden Hurricane,New Orleans Privateers,"8-3, 8-0 Home","4-4, 0-3 Away",70,60,NULL,NULL,Final,ESPN3,41,29,NULL,21,39,NULL,NCAAB
+401084739,2019,"Sat, Dec 22",Oral Roberts Golden Eagles,Tulsa Golden Hurricane,"4-11, 2-3 Home","10-3, 1-1 Away",59,69,TLSA -8.0,NULL,Final,NULL,31,28,NULL,26,43,NULL,NCAAB
+401084754,2019,"Sat, Jan 5",Tulsa Golden Hurricane,South Florida Bulls,"11-4, 1-1 Conf","11-3, 1-1 Conf",78,75,TLSA -5.5,131,Final,ESPNU,36,42,NULL,31,44,NULL,NCAAB
+401084762,2019,"Sat, Jan 12",SMU Mustangs,Tulsa Golden Hurricane,"11-5, 3-1 Conf","11-6, 1-3 Conf",77,57,SMU -8.5,135,Final,ESPNU,38,39,NULL,27,30,NULL,NCAAB
+401084769,2019,"Sat, Jan 19",UCF Knights,Tulsa Golden Hurricane,"14-3, 4-1 Conf","12-7, 2-4 Conf",64,62,UCF -11.5,135,Final,ESPNU,23,41,NULL,32,30,NULL,NCAAB
+401084782,2019,"Sun, Jan 27",Tulsa Golden Hurricane,Houston Cougars,"12-9, 2-6 Conf","20-1, 7-1 Conf",65,77,HOU -7.0,139,Final,ESPNN,29,36,NULL,45,32,NULL,NCAAB
+401084788,2019,"Sat, Feb 2",Wichita State Shockers,Tulsa Golden Hurricane,"10-11, 3-6 Conf","13-10, 3-7 Conf",79,68,WICH -4.5,142,Final,ESPNU,44,35,NULL,40,28,NULL,NCAAB
+401084803,2019,"Thu, Feb 14",Tulane Green Wave,Tulsa Golden Hurricane,"4-19, 0-11 Conf","15-10, 5-7 Conf",57,80,TLSA -6.5,145,Final,ESPNU,24,33,NULL,34,46,NULL,NCAAB
+401084810,2019,"Wed, Feb 20",Tulsa Golden Hurricane,Wichita State Shockers,"16-11, 6-8 Conf","13-12, 6-7 Conf",60,81,TLSA -2.5,141,Final,ESPNU,28,32,NULL,42,39,NULL,NCAAB
+401084821,2019,"Thu, Feb 28",Tulsa Golden Hurricane,Tulane Green Wave,"17-12, 7-9 Conf","4-23, 0-15 Conf",72,64,TLSA -12.0,148,Final,ESPNU,34,38,NULL,35,29,NULL,NCAAB
+401084833,2019,"Sat, Mar 9",Memphis Tigers,Tulsa Golden Hurricane,"19-12, 11-7 Conf","18-13, 8-10 Conf",66,63,MEM -8.5,159,Final,ESPNU,31,35,NULL,27,36,NULL,NCAAB
+401120709,2019,"Thu, Mar 14",Tulsa Golden Hurricane,SMU Mustangs,"18-14, 8-10 Conf","15-16, 6-12 Conf",65,74,SMU -2.5,140,Final,ESPNU,33,32,NULL,47,27,NULL,NCAAB

@@ -37,7 +37,8 @@ class ESPN_Season_Scraper:
         nba = re.compile(r"http://www.espn.com/nba/game\?gameId=(\d+)")
         nfl = re.compile(r"http://www.espn.com/nfl/game/_/gameId/(\d+)")
         ncaaf = re.compile(r"http://www.espn.com/college-football/game/_/gameId/(\d+)")
-        ncaab = None
+        ncaab = re.compile(r"http://www.espn.com/mens-college-basketball/game\?gameId=(\d+)")
+        # "http://www.espn.com/mens-college-basketball/game?gameId=(\d+)"
         return nba if self.league == "NBA" else nfl if self.league == "NFL" else ncaaf if self.league == "NCAAF" else ncaab
 
     @property
@@ -86,7 +87,7 @@ class ESPN_Season_Scraper:
     def _link_week_to_row(self, df, link, week, year):  # Specific Helper scrape_season
         game_id = self.game_link_re.search(link).group(1)
         game = self.game_info_func(game_id)
-        if self.league == "NCAAF":
+        if self.league in ["NCAAB", "NCAAF"]:
             game.game_date = week
 
         row = [game.ESPN_ID, year, game.game_date, game.home_name, game.away_name,
@@ -94,10 +95,16 @@ class ESPN_Season_Scraper:
                game.home_score, game.away_score, game.line, game.over_under,
                game.final_status, game.network]
 
-        for scores in [game.home_qscores, game.away_qscores]:
-            row += [item for item in scores]
-            if len(scores) == self.q_amount:
-                row += ["NULL"]
+        if self.league != "NCAAB":
+            for scores in [game.home_qscores, game.away_qscores]:
+                row += [item for item in scores]
+                if len(scores) == self.q_amount:
+                    row += ["NULL"]
+        else:
+            for scores in [game.home_half_scores, game.away_half_scores]:
+                row += [item for item in scores]
+                if len(scores) == self.q_amount:
+                    row += ['NULL']
 
         if self.league == "NFL":
             row.append(week)
@@ -119,7 +126,7 @@ class ESPN_Season_Scraper:
 
     def find_years_unscraped(self, team_abbrev):  # Top Level
         path = "../Data/{}/{}/".format(self.league, team_abbrev)
-        beginning_year = 1999 if self.league == "NCAAF" else 1993
+        beginning_year = 1999 if self.league == "NCAAF" else 2002 if self.league == 'NCAAB' else 1993
         all_years = [str(item) for item in list(range(beginning_year, 2021, 1))]
         years_found = []
         year_comp = re.compile(r"\d{4}")
@@ -156,5 +163,10 @@ def parse_league():  # Parse
 
 
 if __name__ == "__main__":
-    x = ESPN_Season_Scraper("NCAAF")
+    x = ESPN_Season_Scraper("NCAAB")
+    # team_abbrev = 2294
+    # name = "Iowa Hawkeyes"
+    # year = 2019
+    # season_type = 2
+    # self = x
     x.scrape_all_leauge_history()

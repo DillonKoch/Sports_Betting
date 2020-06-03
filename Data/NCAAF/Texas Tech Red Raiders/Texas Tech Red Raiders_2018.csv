@@ -1,0 +1,13 @@
+ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+401013322,2018,"Sat, Sep 8",Texas Tech Red Raiders,Lamar Cardinals,"1-1, 1-0 Home","1-1, 0-1 Away",77,0,NULL,NULL,Final,NULL,14,28,14,21,NULL,0,0,0,0,NULL,NCAAF
+401013324,2018,"Sat, Sep 22",Oklahoma State Cowboys,Texas Tech Red Raiders,"3-1, 0-1 Conf","3-1, 1-0 Conf",17,41,OKST -14.5,77,Final,FS1,10,7,0,0,NULL,7,17,10,7,NULL,NCAAF
+401013076,2018,"Thu, Oct 11",TCU Horned Frogs,Texas Tech Red Raiders,"3-3, 1-2 Conf","4-2, 2-1 Conf",14,17,TCU -7.5,57,Final,ESPN,0,7,0,7,NULL,3,0,7,7,NULL,NCAAF
+401013044,2018,"Sat, Oct 27",Iowa State Cyclones,Texas Tech Red Raiders,"4-3, 3-2 Conf","5-3, 3-2 Conf",40,31,ISU -6.0,57,Final,ESPN2,0,14,17,9,NULL,10,7,7,7,NULL,NCAAF
+401013321,2018,"Sat, Nov 10",Texas Tech Red Raiders,Texas Longhorns,"5-5, 3-4 Conf","7-3, 5-2 Conf",34,41,TEX -2.0,63,Final,FOX,7,3,0,24,NULL,0,17,10,14,NULL,NCAAF
+401012253,2018,"Sat, Sep 1",Texas Tech Red Raiders,Ole Miss Rebels,0-1,1-0,27,47,MISS -2.5,67,Final,ESPN,7,10,10,0,NULL,24,6,7,10,NULL,NCAAF
+401013323,2018,"Sat, Sep 15",Texas Tech Red Raiders,Houston Cougars,"2-1, 2-0 Home","2-1, 1-1 Away",63,49,TTU -1.0,69,Final,FOX,14,21,14,14,NULL,21,7,14,7,NULL,NCAAF
+401013325,2018,"Sat, Sep 29",Texas Tech Red Raiders,West Virginia Mountaineers,"3-2, 1-1 Conf","4-0, 2-0 Conf",34,42,WVU -3.5,76,Final,ESPN2,7,3,7,17,NULL,28,7,0,7,NULL,NCAAF
+401013052,2018,"Sat, Oct 20",Texas Tech Red Raiders,Kansas Jayhawks,"5-2, 3-1 Conf","2-5, 0-4 Conf",48,16,TTU -18.0,60,Final,FS1,3,21,3,21,NULL,3,0,6,7,NULL,NCAAF
+401013069,2018,"Sat, Nov 3",Texas Tech Red Raiders,Oklahoma Sooners,"5-4, 3-3 Conf","8-1, 5-1 Conf",46,51,OKLA -14.0,79,Final,ABC,14,17,0,15,NULL,7,21,7,16,NULL,NCAAF
+401013064,2018,"Sat, Nov 17",Kansas State Wildcats,Texas Tech Red Raiders,"5-6, 3-5 Conf","5-6, 3-5 Conf",21,6,TTU -6.5,55,Final,ESPNU,0,10,5,6,NULL,6,0,0,0,NULL,NCAAF
+401013037,2018,"Sat, Nov 24",Texas Tech Red Raiders,Baylor Bears,"5-7, 3-6 Conf","6-6, 4-5 Conf",24,35,TTU -6.0,63,Final,FS1,10,7,0,7,NULL,7,7,14,7,NULL,NCAAF

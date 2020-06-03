@@ -1,0 +1,34 @@
+ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,H1H,H2H,HOT,A1H,A2H,AOT,League
+401083022,2019,"Fri, Nov 9",South Carolina Gamecocks,Stony Brook Seawolves,"1-1, 1-1 Home","2-0, 2-0 Away",81,83,NULL,NULL,Final,SECN+,32,49,NULL,33,50,NULL,NCAAB
+401096967,2019,"Sat, Nov 17",Stony Brook Seawolves,Norfolk State Spartans,3-1,2-4,72,65,NULL,NULL,Final,ESPN3,41,31,NULL,38,27,NULL,NCAAB
+401086340,2019,"Sat, Nov 24",Rhode Island Rams,Stony Brook Seawolves,"2-2, 2-1 Home","5-1, 3-0 Away",58,68,NULL,NULL,Final,ESPN+,30,28,NULL,35,33,NULL,NCAAB
+401085757,2019,"Sat, Dec 1",Stony Brook Seawolves,Quinnipiac Bobcats,"7-1, 2-0 Home","2-4, 1-3 Away",71,61,NULL,NULL,Final,NULL,42,29,NULL,28,33,NULL,NCAAB
+401087293,2019,"Sat, Dec 8",Brown Bears,Stony Brook Seawolves,"7-4, 6-0 Home","8-2, 5-1 Away",71,69,NULL,NULL,Final,ESPN+,35,36,NULL,30,39,NULL,NCAAB
+401083918,2019,"Sun, Dec 16",Stony Brook Seawolves,Delaware Blue Hens,"10-2, 4-0 Home","8-4, 4-2 Away",74,68,NULL,NULL,Final,ESPN+,35,39,NULL,30,38,NULL,NCAAB
+401085761,2019,"Sat, Dec 22",Quinnipiac Bobcats,Stony Brook Seawolves,"5-6, 3-2 Home","11-3, 6-1 Away",73,76,NULL,NULL,Final,ESPN3,28,45,NULL,34,42,NULL,NCAAB
+401086633,2019,"Sat, Jan 5",UMass Lowell River Hawks,Stony Brook Seawolves,"8-8, 0-1 Conf","13-3, 1-0 Conf",63,75,NULL,NULL,Final,ESPN+,33,30,NULL,31,44,NULL,NCAAB
+401086646,2019,"Sat, Jan 12",Stony Brook Seawolves,New Hampshire Wildcats,"15-3, 3-0 Conf","3-13, 1-2 Conf",62,44,NULL,NULL,Final,ESPN+,26,36,NULL,21,23,NULL,NCAAB
+401086525,2019,"Wed, Jan 23",Albany Great Danes,Stony Brook Seawolves,"5-15, 0-5 Conf","17-3, 5-0 Conf",66,67,NULL,NULL,Final/OT,ESPN3,30,31,5,33,28,6,NCAAB
+401087297,2019,"Wed, Jan 30",UMBC Retrievers,Stony Brook Seawolves,"14-9, 6-2 Conf","17-5, 5-2 Conf",57,49,NULL,NULL,Final,ESPN+,26,31,NULL,20,29,NULL,NCAAB
+401086555,2019,"Wed, Feb 6",Binghamton Bearcats,Stony Brook Seawolves,"6-18, 2-7 Conf","19-5, 7-2 Conf",59,85,NULL,NULL,Final,ESPN3,25,34,NULL,39,46,NULL,NCAAB
+401086650,2019,"Sat, Feb 16",New Hampshire Wildcats,Stony Brook Seawolves,"3-22, 1-11 Conf","21-5, 9-2 Conf",64,66,NULL,NULL,Final,ESPN3,26,38,NULL,26,40,NULL,NCAAB
+401086618,2019,"Sat, Feb 23",Stony Brook Seawolves,Maine Black Bears,"22-6, 10-3 Conf","5-23, 3-10 Conf",81,53,NULL,NULL,Final,ESPN3,43,38,NULL,23,30,NULL,NCAAB
+401087299,2019,"Sat, Mar 2",Vermont Catamounts,Stony Brook Seawolves,"23-6, 13-2 Conf","23-7, 11-4 Conf",56,50,NULL,NULL,Final,ESPN+,36,20,NULL,24,26,NULL,NCAAB
+401086312,2019,"Tue, Nov 6",George Washington Colonials,Stony Brook Seawolves,"0-1, 0-1 Home","1-0, 1-0 Away",74,77,NULL,NULL,Final/OT,ESPN+,34,29,11,24,39,14,NCAAB
+401087290,2019,"Fri, Nov 16",Holy Cross Crusaders,Stony Brook Seawolves,2-2,2-1,84,70,SB -2.0,136,Final,ESPN3,43,41,NULL,36,34,NULL,NCAAB
+401087291,2019,"Wed, Nov 21",Stony Brook Seawolves,Molloy Lions,"4-1, 1-0 Home",,97,61,NULL,NULL,Final,NULL,46,51,NULL,29,32,NULL,NCAAB
+401087292,2019,"Tue, Nov 27",Norfolk State Spartans,Stony Brook Seawolves,"3-5, 3-1 Home","6-1, 4-0 Away",73,79,NULL,NULL,Final,NULL,32,41,NULL,39,40,NULL,NCAAB
+401085955,2019,"Wed, Dec 5",Manhattan Jaspers,Stony Brook Seawolves,"2-6, 0-3 Home","8-1, 5-0 Away",62,69,NULL,NULL,Final,NULL,27,35,NULL,34,35,NULL,NCAAB
+401087294,2019,"Wed, Dec 12",Stony Brook Seawolves,Long Island University Sharks,"9-2, 3-0 Home","5-5, 2-3 Away",83,79,NULL,NULL,Final,NULL,41,42,NULL,43,36,NULL,NCAAB
+401083863,2019,"Wed, Dec 19",Stony Brook Seawolves,Hofstra Pride,"10-3, 4-1 Home","9-3, 3-3 Away",64,71,NULL,NULL,Final,ESPN+,27,37,NULL,33,38,NULL,NCAAB
+401087295,2019,"Sat, Dec 29",Northern Iowa Panthers,Stony Brook Seawolves,"5-8, 3-2 Home","12-3, 7-1 Away",63,73,NULL,NULL,Final,ESPN3,34,29,NULL,36,37,NULL,NCAAB
+401086549,2019,"Wed, Jan 9",Stony Brook Seawolves,Binghamton Bearcats,"14-3, 2-0 Conf","5-12, 1-1 Conf",59,46,NULL,NULL,Final,ESPN3,27,32,NULL,15,31,NULL,NCAAB
+401086613,2019,"Sat, Jan 19",Maine Black Bears,Stony Brook Seawolves,"3-17, 1-4 Conf","16-3, 4-0 Conf",61,64,NULL,NULL,Final,ESPN3,33,28,NULL,17,47,NULL,NCAAB
+401087296,2019,"Sat, Jan 26",Stony Brook Seawolves,Vermont Catamounts,"17-4, 5-1 Conf","16-5, 6-1 Conf",52,73,NULL,NULL,Final,ESPN3,25,27,NULL,35,38,NULL,NCAAB
+401086595,2019,"Sat, Feb 2",Stony Brook Seawolves,Hartford Hawks,"18-5, 6-2 Conf","11-12, 4-4 Conf",86,77,NULL,NULL,Final,ESPN+,41,45,NULL,28,49,NULL,NCAAB
+401086638,2019,"Sat, Feb 9",Stony Brook Seawolves,UMass Lowell River Hawks,"20-5, 8-2 Conf","13-12, 5-5 Conf",76,65,NULL,NULL,Final,ESPN+,37,39,NULL,35,30,NULL,NCAAB
+401086532,2019,"Thu, Feb 21",Stony Brook Seawolves,Albany Great Danes,"21-6, 9-3 Conf","10-17, 5-7 Conf",70,74,NULL,NULL,Final,ESPN+,33,37,NULL,36,38,NULL,NCAAB
+401087298,2019,"Wed, Feb 27",Stony Brook Seawolves,UMBC Retrievers,"23-6, 11-3 Conf","18-12, 10-5 Conf",78,63,NULL,NULL,Final,ESPN+,40,38,NULL,29,34,NULL,NCAAB
+401086601,2019,"Tue, Mar 5",Hartford Hawks,Stony Brook Seawolves,"17-14, 10-6 Conf","24-7, 12-4 Conf",63,68,HART -1.5,NULL,Final,ESPN+,33,30,NULL,29,39,NULL,NCAAB
+401123941,2019,"Wed, Mar 20",South Florida Bulls,Stony Brook Seawolves,"20-13, 15-5 Home","24-9, 13-4 Away",82,79,USF -7.5,138,Final/OT,NULL,30,36,16,48,18,13,NCAAB
+401121704,2019,"Sat, Mar 9",Stony Brook Seawolves,Binghamton Bearcats,"24-8, 12-4 Conf","10-22, 5-11 Conf",72,78,SB -11.5,134,Final,ESPN+,25,47,NULL,43,35,NULL,NCAAB
