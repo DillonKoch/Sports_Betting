@@ -127,7 +127,7 @@ class ESPN_Season_Scraper:
     def find_years_unscraped(self, team_abbrev):  # Top Level
         path = "../Data/{}/{}/".format(self.league, team_abbrev)
         beginning_year = 1999 if self.league == "NCAAF" else 2002 if self.league == 'NCAAB' else 1993
-        all_years = [str(item) for item in list(range(beginning_year, 2021, 1))]
+        all_years = [str(item) for item in list(range(beginning_year, 2020, 1))]
         years_found = []
         year_comp = re.compile(r"\d{4}")
         for filename in os.listdir(path):
@@ -163,7 +163,7 @@ def parse_league():  # Parse
 
 
 if __name__ == "__main__":
-    x = ESPN_Season_Scraper("NCAAB")
+    x = ESPN_Season_Scraper("NFL")
     # team_abbrev = 2294
     # name = "Iowa Hawkeyes"
     # year = 2019
