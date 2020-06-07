@@ -1,0 +1,32 @@
+ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,H1H,H2H,HOT,A1H,A2H,AOT,League
+401168172,2020,"Sun, Nov 10",Wake Forest Demon Deacons,Columbia Lions,"1-1, 1-0 Home","0-2, 0-2 Away",65,63,WAKE -8.5,146,Final,ACCNX,26,39,NULL,25,38,NULL,NCAAB
+401168193,2020,"Sun, Nov 17",Charlotte 49ers,Wake Forest Demon Deacons,"2-1, 2-0 Home","2-2, 0-2 Away",67,65,WAKE -2.5,141,Final/OT,ESPNU,29,28,10,29,28,8,NCAAB
+401168225,2020,"Thu, Nov 28",Charleston Cougars,Wake Forest Demon Deacons,3-3,4-2,56,65,COFC -2.5,140,Final,ESPNN,26,30,NULL,28,37,NULL,NCAAB
+401182607,2020,"Sun, Dec 1",Arizona Wildcats,Wake Forest Demon Deacons,9-0,5-3,73,66,ARIZ -12.5,149,Final,ESPN,39,34,NULL,33,33,NULL,NCAAB
+401168575,2020,"Sat, Dec 7",Wake Forest Demon Deacons,NC State Wolfpack,"5-5, 0-2 Conf","7-2, 1-1 Conf",82,91,NCST -5.0,147,Final,ACCN,36,46,NULL,45,46,NULL,NCAAB
+401168274,2020,"Sat, Dec 21",Wake Forest Demon Deacons,North Carolina A&T Aggies,"7-5, 4-1 Home","3-10, 0-7 Away",76,64,NULL,NULL,Final,ACCN,41,35,NULL,34,30,NULL,NCAAB
+401168522,2020,"Wed, Jan 8",Wake Forest Demon Deacons,Florida State Seminoles,"8-6, 1-3 Conf","14-2, 4-1 Conf",68,78,FSU -7.5,143,Final,ACCNX,34,34,NULL,41,37,NULL,NCAAB
+401168548,2020,"Tue, Jan 14",Wake Forest Demon Deacons,Virginia Tech Hokies,"8-8, 1-5 Conf","13-4, 4-2 Conf",70,80,VT -3.5,138,Final,ACCN,31,39,NULL,33,47,NULL,NCAAB
+401168578,2020,"Tue, Jan 21",Clemson Tigers,Wake Forest Demon Deacons,"10-8, 4-4 Conf","9-9, 2-6 Conf",71,68,CLEM -9.5,138,Final,ACCN,31,40,NULL,37,31,NULL,NCAAB
+401168569,2020,"Wed, Jan 29",Notre Dame Fighting Irish,Wake Forest Demon Deacons,"12-8, 3-6 Conf","9-11, 2-8 Conf",90,80,ND -9.0,147,Final,ACCN,36,54,NULL,41,39,NULL,NCAAB
+401168514,2020,"Wed, Feb 5",Louisville Cardinals,Wake Forest Demon Deacons,"20-3, 11-1 Conf","10-12, 3-9 Conf",86,76,LOU -15.5,142,Final,ESPN2,34,52,NULL,46,30,NULL,NCAAB
+401168499,2020,"Tue, Feb 11",Wake Forest Demon Deacons,North Carolina Tar Heels,"11-13, 4-10 Conf","10-14, 3-10 Conf",74,57,UNC -2.0,149,Final,ACCN,44,30,NULL,26,31,NULL,NCAAB
+401168562,2020,"Wed, Feb 19",Wake Forest Demon Deacons,Georgia Tech Yellow Jackets,"11-15, 4-12 Conf","13-13, 7-8 Conf",79,86,WAKE -1.5,141,Final,ACCNX,29,50,NULL,37,49,NULL,NCAAB
+401168574,2020,"Sat, Feb 29",Wake Forest Demon Deacons,Notre Dame Fighting Irish,"13-15, 6-12 Conf","18-11, 9-9 Conf",84,73,ND -2.0,150,Final,ACCNX,41,43,NULL,30,43,NULL,NCAAB
+401168581,2020,"Fri, Mar 6",NC State Wolfpack,Wake Forest Demon Deacons,"19-12, 10-10 Conf","13-17, 6-14 Conf",84,64,NCST -8.5,152,Final,ACCN,44,40,NULL,31,33,NULL,NCAAB
+401168158,2020,"Wed, Nov 6",Boston College Eagles,Wake Forest Demon Deacons,"1-0, 1-0 Conf","0-1, 0-1 Conf",77,70,BC -2.5,144,Final,ESPNU,42,35,NULL,27,43,NULL,NCAAB
+401168182,2020,"Wed, Nov 13",Wake Forest Demon Deacons,UNC Asheville Bulldogs,"2-1, 2-0 Home","1-2, 1-2 Away",98,79,NULL,NULL,Final,ACCNX,49,49,NULL,44,35,NULL,NCAAB
+401168208,2020,"Fri, Nov 22",Davidson Wildcats,Wake Forest Demon Deacons,2-3,3-2,70,82,DAV -9.5,145,Final,ESPN+,29,41,NULL,32,50,NULL,NCAAB
+401182600,2020,"Fri, Nov 29",Wake Forest Demon Deacons,Long Beach State 49ers,5-2,3-5,88,75,WAKE -7.5,144,Final,ESPN2,38,50,NULL,31,44,NULL,NCAAB
+401168242,2020,"Wed, Dec 4",Penn State Nittany Lions,Wake Forest Demon Deacons,"7-1, 5-0 Home","5-4, 0-3 Away",76,54,PSU -12.0,145,Final,ESPNU,41,35,NULL,23,31,NULL,NCAAB
+401168253,2020,"Sat, Dec 14",Wake Forest Demon Deacons,Xavier Musketeers,"6-5, 3-1 Home","9-2, 0-1 Away",80,78,XAV -6.0,143,Final,ACCN,39,41,NULL,30,48,NULL,NCAAB
+401168576,2020,"Sat, Jan 4",Pittsburgh Panthers,Wake Forest Demon Deacons,"10-4, 1-2 Conf","8-5, 1-2 Conf",65,69,PITT -6.5,134,Final,ACCNX,30,35,NULL,27,42,NULL,NCAAB
+401168357,2020,"Sat, Jan 11",Duke Blue Devils,Wake Forest Demon Deacons,"15-1, 5-0 Conf","8-7, 1-4 Conf",90,59,DUKE -20.0,146,Final,ACCN,49,41,NULL,23,36,NULL,NCAAB
+401168577,2020,"Sun, Jan 19",Wake Forest Demon Deacons,Boston College Eagles,"9-8, 2-5 Conf","9-9, 3-4 Conf",80,62,WAKE -6.0,141,Final,ACCN,36,44,NULL,29,33,NULL,NCAAB
+401168479,2020,"Sun, Jan 26",Wake Forest Demon Deacons,Virginia Cavaliers,"9-10, 2-7 Conf","13-6, 5-4 Conf",63,65,UVA -7.5,115,Final/OT,ACCN,35,21,7,28,28,9,NCAAB
+401168579,2020,"Sat, Feb 1",Wake Forest Demon Deacons,Clemson Tigers,"10-11, 3-8 Conf","11-10, 5-6 Conf",56,44,CLEM -2.0,139,Final,ACCN,22,34,NULL,19,25,NULL,NCAAB
+401168541,2020,"Sat, Feb 8",Syracuse Orange,Wake Forest Demon Deacons,"14-9, 7-5 Conf","10-13, 3-10 Conf",75,73,SYR -9.5,148,Final,ACCN,38,37,NULL,30,43,NULL,NCAAB
+401168580,2020,"Sat, Feb 15",Miami Hurricanes,Wake Forest Demon Deacons,"13-12, 5-10 Conf","11-14, 4-11 Conf",71,54,MIA -4.5,150,Final,ACCNX,37,34,NULL,25,29,NULL,NCAAB
+401168369,2020,"Tue, Feb 25",Wake Forest Demon Deacons,Duke Blue Devils,"12-15, 5-12 Conf","23-5, 13-4 Conf",113,101,DUKE -11.0,153,Final/2OT,ACCN,39,40,34,39,40,22,NCAAB
+401168504,2020,"Tue, Mar 3",North Carolina Tar Heels,Wake Forest Demon Deacons,"13-17, 6-13 Conf","13-16, 6-13 Conf",93,83,UNC -8.5,152,Final,ACCN,35,58,NULL,34,49,NULL,NCAAB
+401211585,2020,"Tue, Mar 10",Wake Forest Demon Deacons,Pittsburgh Panthers,"13-18, 6-14 Conf","16-16, 6-14 Conf",72,81,PITT -2.0,138,Final,ACCN,41,31,NULL,40,41,NULL,NCAAB

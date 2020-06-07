@@ -1,0 +1,36 @@
+ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,H1H,H2H,HOT,A1H,A2H,AOT,League
+400946444,2017,"Tue, Mar 14",Wake Forest Demon Deacons,Kansas State Wildcats,19-14,21-13,88,95,NULL,NULL,Final,truTV,36,52,NULL,40,55,NULL,NCAAB
+400916130,2017,"Tue, Nov 15",Kansas State Wildcats,Omaha Mavericks,"2-0, 2-0 Home","1-2, 1-2 Away",81,68,NULL,NULL,Final,NULL,42,39,NULL,31,37,NULL,NCAAB
+400916143,2017,"Tue, Nov 22",Kansas State Wildcats,Robert Morris Colonials,"4-0, 4-0 Home","0-5, 0-4 Away",61,40,NULL,NULL,Final,NULL,36,25,NULL,19,21,NULL,NCAAB
+400927020,2017,"Sat, Nov 26",Maryland Terrapins,Kansas State Wildcats,7-0,5-1,69,68,NULL,NULL,Final,NULL,35,34,NULL,29,39,NULL,NCAAB
+400916158,2017,"Sat, Dec 3",Saint Louis Billikens,Kansas State Wildcats,"2-5, 2-3 Home","7-1, 1-0 Away",53,84,NULL,NULL,Final,NULL,22,31,NULL,41,43,NULL,NCAAB
+400915557,2017,"Sat, Dec 10",Kansas State Wildcats,Washington State Cougars,"9-1, 7-0 Home","5-5, 0-1 Away",70,56,NULL,NULL,Final,ESPN3,28,42,NULL,26,30,NULL,NCAAB
+400916189,2017,"Wed, Dec 21",Kansas State Wildcats,Gardner-Webb Bulldogs,"11-1, 7-0 Home","7-6, 2-4 Away",67,54,NULL,NULL,Final,ESPN3,41,26,NULL,24,30,NULL,NCAAB
+400916199,2017,"Tue, Jan 3",Kansas Jayhawks,Kansas State Wildcats,"13-1, 2-0 Conf","12-2, 1-1 Conf",90,88,NULL,NULL,Final,ESPN2,52,38,NULL,42,46,NULL,NCAAB
+400916208,2017,"Tue, Jan 10",Texas Tech Red Raiders,Kansas State Wildcats,"13-3, 2-2 Conf","13-3, 2-2 Conf",66,65,NULL,NULL,Final,ESPNN,28,38,NULL,31,34,NULL,NCAAB
+400916217,2017,"Wed, Jan 18",Oklahoma State Cowboys,Kansas State Wildcats,"10-8, 0-6 Conf","14-4, 3-3 Conf",88,96,NULL,NULL,Final,ESPNU,54,34,NULL,51,45,NULL,NCAAB
+400916224,2017,"Tue, Jan 24",Iowa State Cyclones,Kansas State Wildcats,"13-6, 5-3 Conf","15-5, 4-4 Conf",70,65,NULL,NULL,Final,ESPNU,43,27,NULL,26,39,NULL,NCAAB
+400916228,2017,"Wed, Feb 1",Kansas State Wildcats,TCU Horned Frogs,"15-7, 4-5 Conf","15-7, 4-5 Conf",80,86,NULL,NULL,Final/OT,ESPNN,39,34,7,35,38,13,NCAAB
+400916234,2017,"Mon, Feb 6",Kansas State Wildcats,Kansas Jayhawks,"16-8, 5-6 Conf","21-3, 9-2 Conf",71,74,NULL,NULL,Final,ESPN,35,36,NULL,37,37,NULL,NCAAB
+400916244,2017,"Wed, Feb 15",Kansas State Wildcats,Iowa State Cyclones,"16-10, 5-8 Conf","16-9, 8-5 Conf",79,87,NULL,NULL,Final,ESPN2,26,53,NULL,42,45,NULL,NCAAB
+400916253,2017,"Wed, Feb 22",Kansas State Wildcats,Oklahoma State Cowboys,"17-11, 6-9 Conf","19-9, 8-7 Conf",68,80,NULL,NULL,Final,ESPNU,39,29,NULL,38,42,NULL,NCAAB
+400916261,2017,"Wed, Mar 1",TCU Horned Frogs,Kansas State Wildcats,"17-13, 6-11 Conf","18-12, 7-10 Conf",74,75,NULL,NULL,Final,ESPNU,29,45,NULL,40,35,NULL,NCAAB
+400945529,2017,"Thu, Mar 9",Baylor Bears,Kansas State Wildcats,"25-7, 12-6 Conf","20-12, 8-10 Conf",64,70,NULL,NULL,Final,ESPNU,25,39,NULL,25,45,NULL,NCAAB
+400916123,2017,"Fri, Nov 11",Kansas State Wildcats,Western Illinois Leathernecks,"1-0, 1-0 Home","0-1, 0-1 Away",82,55,NULL,NULL,Final,NULL,35,47,NULL,21,34,NULL,NCAAB
+400916139,2017,"Sun, Nov 20",Kansas State Wildcats,Hampton Pirates,"3-0, 3-0 Home","1-2, 0-1 Away",89,67,NULL,NULL,Final,NULL,46,43,NULL,36,31,NULL,NCAAB
+400915269,2017,"Fri, Nov 25",Kansas State Wildcats,Boston College Eagles,5-0,3-2,72,54,NULL,NULL,Final,NULL,31,41,NULL,22,32,NULL,NCAAB
+400916154,2017,"Wed, Nov 30",Kansas State Wildcats,Green Bay Phoenix,"6-1, 5-0 Home","3-4, 1-2 Away",80,61,NULL,NULL,Final,NULL,37,43,NULL,29,32,NULL,NCAAB
+400916163,2017,"Tue, Dec 6",Kansas State Wildcats,Prairie View A&M Panthers,"8-1, 6-0 Home","2-7, 1-6 Away",74,55,NULL,NULL,Final,ESPN3,35,39,NULL,29,26,NULL,NCAAB
+400916175,2017,"Sat, Dec 17",Colorado State Rams,Kansas State Wildcats,"8-3, 7-2 Home","10-1, 2-0 Away",70,89,NULL,NULL,Final,CBSSN,37,33,NULL,44,45,NULL,NCAAB
+400911029,2017,"Fri, Dec 30",Kansas State Wildcats,Texas Longhorns,"12-1, 1-0 Conf","6-7, 0-1 Conf",65,62,NULL,NULL,Final,ESPNN,32,33,NULL,29,33,NULL,NCAAB
+400916203,2017,"Sat, Jan 7",Kansas State Wildcats,Oklahoma Sooners,"13-2, 2-1 Conf","6-8, 0-3 Conf",75,64,NULL,NULL,Final,ESPNN,43,32,NULL,27,37,NULL,NCAAB
+400916211,2017,"Sat, Jan 14",Kansas State Wildcats,Baylor Bears,"13-4, 2-3 Conf","16-1, 4-1 Conf",68,77,NULL,NULL,Final,ESPNU,30,38,NULL,31,46,NULL,NCAAB
+400916220,2017,"Sat, Jan 21",Kansas State Wildcats,West Virginia Mountaineers,"15-4, 4-3 Conf","15-4, 4-3 Conf",79,75,NULL,NULL,Final,ESPN2,36,43,NULL,38,37,NULL,NCAAB
+400910804,2017,"Sat, Jan 28",Tennessee Volunteers,Kansas State Wildcats,"12-9, 8-3 Home","15-6, 2-4 Away",70,58,NULL,NULL,Final,ESPN2,39,31,NULL,22,36,NULL,NCAAB
+400916231,2017,"Sat, Feb 4",Baylor Bears,Kansas State Wildcats,"20-3, 7-3 Conf","16-7, 5-5 Conf",54,56,NULL,NULL,Final,ESPNN,22,32,NULL,37,19,NULL,NCAAB
+400916238,2017,"Sat, Feb 11",West Virginia Mountaineers,Kansas State Wildcats,"20-5, 8-4 Conf","16-9, 5-7 Conf",85,66,NULL,NULL,Final,ESPN,34,51,NULL,34,32,NULL,NCAAB
+400911042,2017,"Sat, Feb 18",Texas Longhorns,Kansas State Wildcats,"10-17, 4-10 Conf","17-10, 6-8 Conf",61,64,NULL,NULL,Final,LHN,36,25,NULL,39,25,NULL,NCAAB
+400916257,2017,"Sat, Feb 25",Oklahoma Sooners,Kansas State Wildcats,"10-18, 4-12 Conf","17-12, 6-10 Conf",81,51,NULL,NULL,Final,ESPNU,33,48,NULL,20,31,NULL,NCAAB
+400916263,2017,"Sat, Mar 4",Kansas State Wildcats,Texas Tech Red Raiders,"19-12, 8-10 Conf","18-13, 6-12 Conf",61,48,NULL,NULL,Final,ESPNN,34,27,NULL,22,26,NULL,NCAAB
+400946448,2017,"Fri, Mar 17",Cincinnati Bearcats,Kansas State Wildcats,30-5,21-14,75,61,NULL,NULL,Final,truTV,39,36,NULL,28,33,NULL,NCAAB
+400946181,2017,"Fri, Mar 10",West Virginia Mountaineers,Kansas State Wildcats,"26-7, 12-6 Conf","20-13, 8-10 Conf",51,50,NULL,NULL,Final,ESPN2,16,35,NULL,25,25,NULL,NCAAB
