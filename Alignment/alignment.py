@@ -4,7 +4,7 @@
 # File Created: Wednesday, 3rd June 2020 3:50:36 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Monday, 8th June 2020 8:11:47 pm
+# Last Modified: Tuesday, 9th June 2020 4:29:47 pm
 # Modified By: Dillon Koch
 # -----
 # Collins Aerospace
@@ -108,6 +108,7 @@ class Alignment:
     def _add_datetime(self, df):
         def add_dt(row):
             if self.league in ['NBA', 'NCAAB']:
+                pass
 
             start_dt = self.season_start_dict[str(row['Season'])]
             date_col_dt = datetime.datetime.strptime(row['Date'], self.config['date_format'])
