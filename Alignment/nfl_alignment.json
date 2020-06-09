@@ -1,0 +1,108 @@
+{
+    "date_format": "%B %d, %Y",
+    "team_name_conversion_dict": {
+        "NewEngland": "New England Patriots",
+        "GreenBay": "Green Bay Packers",
+        "Seattle": "Seattle Seahawks",
+        "Baltimore": "Baltimore Ravens",
+        "Pittsburgh": "Pittsburgh Steelers",
+        "Indianapolis": "Indianapolis Colts",
+        "NewOrleans": "New Orleans Saints",
+        "Philadelphia": "Philadelphia Eagles",
+        "KansasCity": "Kansas City Chiefs",
+        "SanFrancisco": "San Francisco 49ers",
+        "Atlanta": "Atlanta Falcons",
+        "Denver": "Denver Broncos",
+        "NYGiants": "New York Giants",
+        "Minnesota": "Minnesota Vikings",
+        "Arizona": "Arizona Cardinals",
+        "Carolina": "Carolina Panthers",
+        "Dallas": "Dallas Cowboys",
+        "Tennessee": "Tennessee Titans",
+        "NYJets": "New York Jets",
+        "Cincinnati": "Cincinnati Bengals",
+        "Jacksonville": "Jacksonville Jaguars",
+        "Chicago": "Chicago Bears",
+        "Washington": "Washington Redskins",
+        "Detroit": "Detroit Lions",
+        "Buffalo": "Buffalo Bills",
+        "Miami": "Miami Dolphins",
+        "Oakland": "Oakland Raiders",
+        "TampaBay": "Tampa Bay Buccaneers",
+        "Cleveland": "Cleveland Browns",
+        "Houston": "Houston Texans",
+        "SanDiego": "San Diego Chargers",
+        "St.Louis": "St. Louis Rams",
+        "LARams": "Los Angeles Rams",
+        "LAChargers": "Los Angeles Chargers",
+        "HoustonTexans": "Houston Texans",
+        "LosAngeles": "Los Angeles Rams"
+    },
+    "season_start_dates": {
+        "2007": [
+            2007,
+            9,
+            6
+        ],
+        "2008": [
+            2008,
+            9,
+            4
+        ],
+        "2009": [
+            2009,
+            9,
+            10
+        ],
+        "2010": [
+            2010,
+            9,
+            9
+        ],
+        "2011": [
+            2011,
+            9,
+            8
+        ],
+        "2012": [
+            2012,
+            9,
+            5
+        ],
+        "2013": [
+            2013,
+            9,
+            5
+        ],
+        "2014": [
+            2014,
+            9,
+            4
+        ],
+        "2015": [
+            2015,
+            9,
+            10
+        ],
+        "2016": [
+            2016,
+            9,
+            8
+        ],
+        "2017": [
+            2017,
+            9,
+            7
+        ],
+        "2018": [
+            2018,
+            9,
+            6
+        ],
+        "2019": [
+            2019,
+            9,
+            5
+        ]
+    }
+}

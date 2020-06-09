@@ -1,4 +1,31 @@
 {
+    "DF Columns": [
+        "ESPN ID",
+        "Season",
+        "Date",
+        "Home",
+        "Away",
+        "Home_Record",
+        "Away_Record",
+        "Home_Score",
+        "Away_Score",
+        "Line",
+        "Over_Under",
+        "Final_Status",
+        "Network",
+        "HQ1",
+        "HQ2",
+        "HQ3",
+        "HQ4",
+        "HOT",
+        "AQ1",
+        "AQ2",
+        "AQ3",
+        "AQ4",
+        "AOT",
+        "League"
+    ],
+    "Season Base Link": "https://www.espn.com/college-football/team/schedule/_/id/{team_abbrev}/season/{year}",
     "Teams": [
         [
             "Cincinnati Bearcats",
@@ -650,32 +677,5 @@
             "2433",
             "Sun Belt"
         ]
-    ],
-    "Season Base Link": "https://www.espn.com/college-football/team/schedule/_/id/{team_abbrev}/season/{year}",
-    "DF Columns": [
-        "ESPN ID",
-        "Season",
-        "Date",
-        "Home",
-        "Away",
-        "Home_Record",
-        "Away_Record",
-        "Home_Score",
-        "Away_Score",
-        "Line",
-        "Over_Under",
-        "Final_Status",
-        "Network",
-        "HQ1",
-        "HQ2",
-        "HQ3",
-        "HQ4",
-        "HOT",
-        "AQ1",
-        "AQ2",
-        "AQ3",
-        "AQ4",
-        "AOT",
-        "League"
     ]
 }

@@ -1,0 +1,110 @@
+{
+    "date_format": "%a, %b %d",
+    "team_name_conversion_dict": {
+        "Boston": "Boston Celtics",
+        "SanAntonio": "San Antonio Spurs",
+        "GoldenState": "Golden State Warriors",
+        "Cleveland": "Cleveland Cavaliers",
+        "Miami": "Miami Heat",
+        "Atlanta": "Atlanta Hawks",
+        "LALakers": "Los Angeles Lakers",
+        "Houston": "Houston Rockets",
+        "Toronto": "Toronto Raptors",
+        "Indiana": "Indiana Pacers",
+        "Portland": "Portland Trail Blazers",
+        "Chicago": "Chicago Bulls",
+        "Dallas": "Dallas Mavericks",
+        "Orlando": "Orlando Magic",
+        "Memphis": "Memphis Grizzlies",
+        "LAClippers": "Los Angeles Clippers",
+        "Denver": "Denver Nuggets",
+        "Utah": "Utah Jazz",
+        "Philadelphia": "Philadelphia 76ers",
+        "Washington": "Washington Wizards",
+        "Milwaukee": "Milwaukee Bucks",
+        "NewOrleans": "New Orleans Hornets",
+        "NewOrleansPelicans": "New Orleans Pelicans",
+        "NewJersey": "New Jersey Nets",
+        "Seattle": "Seattle SuperSonics",
+        "LA Clippers": "Los Angeles Clippers",
+        "BrooklynNets": "Brooklyn Nets",
+        "MiamiHeat": "Miami Heat",
+        "AtlantaHawks": "Atlanta Hawks",
+        "HoustonRockets": "Houston Rockets",
+        "MemphisGrizzlies": "Memphis Grizzlies",
+        "Charlotte Hornets": "Charlotte Hornets",
+        "Oklahoma City": "Oklahoma City Thunder",
+        "MilwaukeeBucks": "Milwaukee Bucks",
+        "DetroitPistons": "Detroit Pistons",
+        "Philadelphia76ers": "Philadelphia 76ers",
+        "SacramentoKings": "Sacramento Kings",
+        "ChicagoBulls": "Chicago Bulls"
+    },
+    "season_start_dates": {
+        "2008": [
+            2007,
+            10,
+            30
+        ],
+        "2009": [
+            2008,
+            10,
+            28
+        ],
+        "2010": [
+            2009,
+            10,
+            27
+        ],
+        "2011": [
+            2010,
+            10,
+            26
+        ],
+        "2012": [
+            2011,
+            12,
+            25
+        ],
+        "2013": [
+            2012,
+            10,
+            30
+        ],
+        "2014": [
+            2013,
+            10,
+            29
+        ],
+        "2015": [
+            2014,
+            10,
+            28
+        ],
+        "2016": [
+            2015,
+            10,
+            27
+        ],
+        "2017": [
+            2016,
+            10,
+            25
+        ],
+        "2018": [
+            2017,
+            10,
+            17
+        ],
+        "2019": [
+            2018,
+            10,
+            16
+        ],
+        "2020": [
+            2019,
+            10,
+            22
+        ]
+    }
+}
