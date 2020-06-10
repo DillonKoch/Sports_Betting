@@ -1,22 +1,22 @@
-ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
-401128120,2019,"September 15, 2019",Denver Broncos,Chicago Bears,"0-2, 0-1 Home","1-1, 1-0 Away",14,16,CHI -3.0,41,Final,FOX,3,0,0,11,NULL,0,6,7,3,NULL,2,NFL
-401128097,2019,"September 29, 2019",Denver Broncos,Jacksonville Jaguars,"0-4, 0-2 Home","2-2, 1-1 Away",24,26,DEN -2.5,37,Final,CBS,7,10,0,7,NULL,3,3,14,6,NULL,4,NFL
-401128129,2019,"October 13, 2019",Denver Broncos,Tennessee Titans,"2-4, 1-2 Home","2-4, 2-2 Away",16,0,DEN -1.0,41,Final,CBS,3,3,7,3,NULL,0,0,0,0,NULL,6,NFL
-401128051,2019,"October 27, 2019",Indianapolis Colts,Denver Broncos,"5-2, 3-1 Home","2-6, 1-3 Away",15,13,IND -5.5,42,Final,CBS,0,3,9,3,NULL,0,6,7,0,NULL,8,NFL
-401127872,2019,"November 24, 2019",Buffalo Bills,Denver Broncos,"8-3, 4-2 Home","3-8, 1-5 Away",20,3,BUF -3.5,37,Final,CBS,3,3,7,7,NULL,0,0,3,0,NULL,12,NFL
-401127920,2019,"December 8, 2019",Houston Texans,Denver Broncos,"8-5, 5-2 Home","5-8, 2-5 Away",24,38,HOU -7.5,43,Final,CBS,0,3,7,14,NULL,14,17,7,0,NULL,14,NFL
-401127893,2019,"December 22, 2019",Denver Broncos,Detroit Lions,"6-9, 4-3 Home","3-11-1, 1-6-1 Away",27,17,DEN -8.0,40,Final,CBS,0,10,3,14,NULL,3,7,7,0,NULL,16,NFL
-401128174,2019,"August 8, 2019",Seattle Seahawks,Denver Broncos,"1-0, 1-0 Home","1-1, 1-1 Away",22,14,DEN -2.5,37,Final,NULL,0,3,12,7,NULL,3,3,0,8,NULL,1,NFL
-401129054,2019,"August 24, 2019",Los Angeles Rams,Denver Broncos,"1-2, 1-1 Home","1-3, 1-2 Away",10,6,LAR -1.5,36,Final,NULL,0,3,0,7,NULL,0,6,0,0,NULL,3,NFL
-401128025,2019,"September 9, 2019",Oakland Raiders,Denver Broncos,"1-0, 1-0 Home","0-1, 0-1 Away",24,16,DEN -2.5,43,Final,ESPN,7,7,0,10,NULL,0,0,6,10,NULL,1,NFL
-401127925,2019,"September 22, 2019",Green Bay Packers,Denver Broncos,"3-0, 2-0 Home","0-3, 0-2 Away",27,16,GB -7.0,41,Final,FOX,7,10,7,3,NULL,0,10,6,0,NULL,3,NFL
-401128019,2019,"October 6, 2019",Los Angeles Chargers,Denver Broncos,"2-3, 1-2 Home","1-4, 1-2 Away",13,20,LAC -4.5,46,Final,CBS,0,0,7,6,NULL,14,3,0,3,NULL,5,NFL
-401127902,2019,"October 17, 2019",Denver Broncos,Kansas City Chiefs,"2-5, 1-3 Home","5-2, 4-0 Away",6,30,KC -3.0,50,Final,FOX/NFL,6,0,0,0,NULL,10,10,7,3,NULL,7,NFL
-401128088,2019,"November 3, 2019",Denver Broncos,Cleveland Browns,"3-6, 2-3 Home","2-6, 2-3 Away",24,19,CLE -4.0,39,Final,CBS,7,10,7,0,NULL,0,12,0,7,NULL,9,NFL
-401128081,2019,"November 17, 2019",Minnesota Vikings,Denver Broncos,"8-3, 5-0 Home","3-7, 1-4 Away",27,23,MIN -10.0,41,Final,CBS,0,0,7,20,NULL,10,10,3,0,NULL,11,NFL
-401128104,2019,"December 1, 2019",Denver Broncos,Los Angeles Chargers,"4-8, 3-3 Home","4-8, 2-4 Away",23,20,LAC -4.5,39,Final,CBS,14,3,0,6,NULL,0,10,0,10,NULL,13,NFL
-401128056,2019,"December 15, 2019",Kansas City Chiefs,Denver Broncos,"10-4, 4-3 Home","5-9, 2-6 Away",23,3,KC -9.0,43,Final,CBS,6,9,8,0,NULL,0,3,0,0,NULL,15,NFL
-401123243,2019,"August 1, 2019",Atlanta Falcons,Denver Broncos,1-4,2-3,10,14,DEN -2.5,24,Final,NBC,0,7,3,0,NULL,7,0,0,7,NULL,HOF,NFL
-401126625,2019,"August 19, 2019",Denver Broncos,San Francisco 49ers,"1-2, 0-1 Home","2-0, 1-0 Away",15,24,SF -1.0,40,Final,ESPN,3,6,0,6,NULL,0,3,14,7,NULL,2,NFL
-401128036,2019,"December 29, 2019",Denver Broncos,Oakland Raiders,"7-9, 5-3 Home","7-9, 2-6 Away",16,15,DEN -4.5,41,Final,CBS,0,10,3,3,NULL,0,3,0,12,NULL,17,NFL
-401128175,2019,"August 29, 2019",Denver Broncos,Arizona Cardinals,"2-3, 1-1 Home","1-3, 0-2 Away",20,7,EVEN,34,Final,NULL,3,7,7,3,NULL,0,0,7,0,NULL,4,NFL
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
+0,401128120,2019,"September 15, 2019",Denver Broncos,Chicago Bears,"0-2, 0-1 Home","1-1, 1-0 Away",14,16,CHI -3.0,41,Final,FOX,3,0,0,11,,0,6,7,3,,2,NFL
+1,401128097,2019,"September 29, 2019",Denver Broncos,Jacksonville Jaguars,"0-4, 0-2 Home","2-2, 1-1 Away",24,26,DEN -2.5,37,Final,CBS,7,10,0,7,,3,3,14,6,,4,NFL
+2,401128129,2019,"October 13, 2019",Denver Broncos,Tennessee Titans,"2-4, 1-2 Home","2-4, 2-2 Away",16,0,DEN -1.0,41,Final,CBS,3,3,7,3,,0,0,0,0,,6,NFL
+3,401128051,2019,"October 27, 2019",Indianapolis Colts,Denver Broncos,"5-2, 3-1 Home","2-6, 1-3 Away",15,13,IND -5.5,42,Final,CBS,0,3,9,3,,0,6,7,0,,8,NFL
+4,401127872,2019,"November 24, 2019",Buffalo Bills,Denver Broncos,"8-3, 4-2 Home","3-8, 1-5 Away",20,3,BUF -3.5,37,Final,CBS,3,3,7,7,,0,0,3,0,,12,NFL
+5,401127920,2019,"December 8, 2019",Houston Texans,Denver Broncos,"8-5, 5-2 Home","5-8, 2-5 Away",24,38,HOU -7.5,43,Final,CBS,0,3,7,14,,14,17,7,0,,14,NFL
+6,401127893,2019,"December 22, 2019",Denver Broncos,Detroit Lions,"6-9, 4-3 Home","3-11-1, 1-6-1 Away",27,17,DEN -8.0,40,Final,CBS,0,10,3,14,,3,7,7,0,,16,NFL
+7,401128174,2019,"August 8, 2019",Seattle Seahawks,Denver Broncos,"1-0, 1-0 Home","1-1, 1-1 Away",22,14,DEN -2.5,37,Final,,0,3,12,7,,3,3,0,8,,1,NFL
+8,401129054,2019,"August 24, 2019",Los Angeles Rams,Denver Broncos,"1-2, 1-1 Home","1-3, 1-2 Away",10,6,LAR -1.5,36,Final,,0,3,0,7,,0,6,0,0,,3,NFL
+9,401128025,2019,"September 9, 2019",Oakland Raiders,Denver Broncos,"1-0, 1-0 Home","0-1, 0-1 Away",24,16,DEN -2.5,43,Final,ESPN,7,7,0,10,,0,0,6,10,,1,NFL
+10,401127925,2019,"September 22, 2019",Green Bay Packers,Denver Broncos,"3-0, 2-0 Home","0-3, 0-2 Away",27,16,GB -7.0,41,Final,FOX,7,10,7,3,,0,10,6,0,,3,NFL
+11,401128019,2019,"October 6, 2019",Los Angeles Chargers,Denver Broncos,"2-3, 1-2 Home","1-4, 1-2 Away",13,20,LAC -4.5,46,Final,CBS,0,0,7,6,,14,3,0,3,,5,NFL
+12,401127902,2019,"October 17, 2019",Denver Broncos,Kansas City Chiefs,"2-5, 1-3 Home","5-2, 4-0 Away",6,30,KC -3.0,50,Final,FOX/NFL,6,0,0,0,,10,10,7,3,,7,NFL
+13,401128088,2019,"November 3, 2019",Denver Broncos,Cleveland Browns,"3-6, 2-3 Home","2-6, 2-3 Away",24,19,CLE -4.0,39,Final,CBS,7,10,7,0,,0,12,0,7,,9,NFL
+14,401128081,2019,"November 17, 2019",Minnesota Vikings,Denver Broncos,"8-3, 5-0 Home","3-7, 1-4 Away",27,23,MIN -10.0,41,Final,CBS,0,0,7,20,,10,10,3,0,,11,NFL
+15,401128104,2019,"December 1, 2019",Denver Broncos,Los Angeles Chargers,"4-8, 3-3 Home","4-8, 2-4 Away",23,20,LAC -4.5,39,Final,CBS,14,3,0,6,,0,10,0,10,,13,NFL
+16,401128056,2019,"December 15, 2019",Kansas City Chiefs,Denver Broncos,"10-4, 4-3 Home","5-9, 2-6 Away",23,3,KC -9.0,43,Final,CBS,6,9,8,0,,0,3,0,0,,15,NFL
+17,401123243,2019,"August 1, 2019",Atlanta Falcons,Denver Broncos,1-4,2-3,10,14,DEN -2.5,24,Final,NBC,0,7,3,0,,7,0,0,7,,HOF,NFL
+18,401126625,2019,"August 19, 2019",Denver Broncos,San Francisco 49ers,"1-2, 0-1 Home","2-0, 1-0 Away",15,24,SF -1.0,40,Final,ESPN,3,6,0,6,,0,3,14,7,,2,NFL
+19,401128036,2019,"December 29, 2019",Denver Broncos,Oakland Raiders,"7-9, 5-3 Home","7-9, 2-6 Away",16,15,DEN -4.5,41,Final,CBS,0,10,3,3,,0,3,0,12,,17,NFL
+20,401128175,2019,"August 29, 2019",Denver Broncos,Arizona Cardinals,"2-3, 1-1 Home","1-3, 0-2 Away",20,7,EVEN,34,Final,,3,7,7,3,,0,0,7,0,,4,NFL

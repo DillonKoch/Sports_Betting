@@ -1,18 +1,18 @@
-ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
-150903001,1995,"September 3, 1995",Atlanta Falcons,Carolina Panthers,"1-0, 1-0 Home","0-1, 0-1 Away",23,20,NULL,NULL,Final/OT,NULL,11,5,0,.688,405,13,3,0,.813,479,,NFL
-150910025,1995,"September 10, 1995",San Francisco 49ers,Atlanta Falcons,"2-0, 1-0 Home","1-1, 0-1 Away",41,10,NULL,NULL,Final,NULL,11,5,0,.688,405,13,3,0,.813,479,,NFL
-150917018,1995,"September 17, 1995",New Orleans Saints,Atlanta Falcons,"0-3, 0-2 Home","2-1, 1-1 Away",24,27,NULL,NULL,Final/OT,NULL,11,5,0,.688,405,13,3,0,.813,479,,NFL
-150924001,1995,"September 24, 1995",Atlanta Falcons,New York Jets,"3-1, 2-0 Home","1-3, 0-2 Away",13,3,NULL,NULL,Final,NULL,10,6,0,.625,314,12,4,0,.750,420,,NFL
-151001001,1995,"October 1, 1995",Atlanta Falcons,New England Patriots,"4-1, 3-0 Home","1-3, 0-2 Away",30,17,NULL,NULL,Final,NULL,10,6,0,.625,314,12,4,0,.750,420,,NFL
-151012014,1995,"October 12, 1995",St. Louis Rams,Atlanta Falcons,"5-1, 3-0 Home","4-2, 1-2 Away",21,19,NULL,NULL,Final,NULL,11,5,0,.688,405,13,3,0,.813,479,,NFL
-151022027,1995,"October 22, 1995",Tampa Bay Buccaneers,Atlanta Falcons,"5-3, 3-2 Home","5-2, 2-2 Away",21,24,NULL,NULL,Final,NULL,11,5,0,.688,405,13,3,0,.813,479,,NFL
-151029001,1995,"October 29, 1995",Atlanta Falcons,Dallas Cowboys,"5-3, 3-1 Home","7-1, 4-1 Away",13,28,NULL,NULL,Final,NULL,8,8,0,.500,434,9,7,0,.563,385,,NFL
-151105001,1995,"November 5, 1995",Atlanta Falcons,Detroit Lions,"6-3, 4-1 Home","3-6, 0-5 Away",34,22,NULL,NULL,Final,NULL,11,5,0,.688,405,13,3,0,.813,479,,NFL
-151112002,1995,"November 12, 1995",Buffalo Bills,Atlanta Falcons,"7-3, 5-0 Home","6-4, 2-3 Away",23,17,NULL,NULL,Final,NULL,11,5,0,.688,405,13,3,0,.813,479,,NFL
-151119001,1995,"November 19, 1995",Atlanta Falcons,St. Louis Rams,"7-4, 5-1 Home","6-5, 2-4 Away",31,6,NULL,NULL,Final,NULL,11,5,0,.688,405,13,3,0,.813,479,,NFL
-151126022,1995,"November 26, 1995",Arizona Cardinals,Atlanta Falcons,"4-8, 3-3 Home","7-5, 2-4 Away",40,37,NULL,NULL,Final/OT,NULL,11,5,0,.688,405,13,3,0,.813,479,,NFL
-151203015,1995,"December 3, 1995",Miami Dolphins,Atlanta Falcons,"7-6, 4-3 Home","7-6, 2-5 Away",21,20,NULL,NULL,Final,NULL,11,5,0,.688,405,13,3,0,.813,479,,NFL
-151210001,1995,"December 10, 1995",Atlanta Falcons,New Orleans Saints,"8-6, 6-1 Home","6-8, 2-5 Away",19,14,NULL,NULL,Final,NULL,11,5,0,.688,405,13,3,0,.813,479,,NFL
-151217029,1995,"December 17, 1995",Carolina Panthers,Atlanta Falcons,"7-8, 5-3 Home","8-7, 2-6 Away",21,17,NULL,NULL,Final,NULL,11,5,0,.688,405,13,3,0,.813,479,,NFL
-151224001,1995,"December 24, 1995",Atlanta Falcons,San Francisco 49ers,"9-7, 7-1 Home","11-5, 5-3 Away",28,27,NULL,NULL,Final,NULL,11,5,0,.688,405,13,3,0,.813,479,,NFL
-151231009,1995,"December 31, 1995",Green Bay Packers,Atlanta Falcons,"11-5, 7-1 Home","9-7, 2-6 Away",37,20,NULL,NULL,Final,NULL,11,5,0,.688,405,13,3,0,.813,479,,NFL
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
+0,150903001,1995,"September 3, 1995",Atlanta Falcons,Carolina Panthers,"1-0, 1-0 Home","0-1, 0-1 Away",23,20,,,Final/OT,,11,5,0,0.688,405,13,3,0,0.813,479,,NFL
+1,150910025,1995,"September 10, 1995",San Francisco 49ers,Atlanta Falcons,"2-0, 1-0 Home","1-1, 0-1 Away",41,10,,,Final,,11,5,0,0.688,405,13,3,0,0.813,479,,NFL
+2,150917018,1995,"September 17, 1995",New Orleans Saints,Atlanta Falcons,"0-3, 0-2 Home","2-1, 1-1 Away",24,27,,,Final/OT,,11,5,0,0.688,405,13,3,0,0.813,479,,NFL
+3,150924001,1995,"September 24, 1995",Atlanta Falcons,New York Jets,"3-1, 2-0 Home","1-3, 0-2 Away",13,3,,,Final,,10,6,0,0.625,314,12,4,0,0.75,420,,NFL
+4,151001001,1995,"October 1, 1995",Atlanta Falcons,New England Patriots,"4-1, 3-0 Home","1-3, 0-2 Away",30,17,,,Final,,10,6,0,0.625,314,12,4,0,0.75,420,,NFL
+5,151012014,1995,"October 12, 1995",St. Louis Rams,Atlanta Falcons,"5-1, 3-0 Home","4-2, 1-2 Away",21,19,,,Final,,11,5,0,0.688,405,13,3,0,0.813,479,,NFL
+6,151022027,1995,"October 22, 1995",Tampa Bay Buccaneers,Atlanta Falcons,"5-3, 3-2 Home","5-2, 2-2 Away",21,24,,,Final,,11,5,0,0.688,405,13,3,0,0.813,479,,NFL
+7,151029001,1995,"October 29, 1995",Atlanta Falcons,Dallas Cowboys,"5-3, 3-1 Home","7-1, 4-1 Away",13,28,,,Final,,8,8,0,0.5,434,9,7,0,0.563,385,,NFL
+8,151105001,1995,"November 5, 1995",Atlanta Falcons,Detroit Lions,"6-3, 4-1 Home","3-6, 0-5 Away",34,22,,,Final,,11,5,0,0.688,405,13,3,0,0.813,479,,NFL
+9,151112002,1995,"November 12, 1995",Buffalo Bills,Atlanta Falcons,"7-3, 5-0 Home","6-4, 2-3 Away",23,17,,,Final,,11,5,0,0.688,405,13,3,0,0.813,479,,NFL
+10,151119001,1995,"November 19, 1995",Atlanta Falcons,St. Louis Rams,"7-4, 5-1 Home","6-5, 2-4 Away",31,6,,,Final,,11,5,0,0.688,405,13,3,0,0.813,479,,NFL
+11,151126022,1995,"November 26, 1995",Arizona Cardinals,Atlanta Falcons,"4-8, 3-3 Home","7-5, 2-4 Away",40,37,,,Final/OT,,11,5,0,0.688,405,13,3,0,0.813,479,,NFL
+12,151203015,1995,"December 3, 1995",Miami Dolphins,Atlanta Falcons,"7-6, 4-3 Home","7-6, 2-5 Away",21,20,,,Final,,11,5,0,0.688,405,13,3,0,0.813,479,,NFL
+13,151210001,1995,"December 10, 1995",Atlanta Falcons,New Orleans Saints,"8-6, 6-1 Home","6-8, 2-5 Away",19,14,,,Final,,11,5,0,0.688,405,13,3,0,0.813,479,,NFL
+14,151217029,1995,"December 17, 1995",Carolina Panthers,Atlanta Falcons,"7-8, 5-3 Home","8-7, 2-6 Away",21,17,,,Final,,11,5,0,0.688,405,13,3,0,0.813,479,,NFL
+15,151224001,1995,"December 24, 1995",Atlanta Falcons,San Francisco 49ers,"9-7, 7-1 Home","11-5, 5-3 Away",28,27,,,Final,,11,5,0,0.688,405,13,3,0,0.813,479,,NFL
+16,151231009,1995,"December 31, 1995",Green Bay Packers,Atlanta Falcons,"11-5, 7-1 Home","9-7, 2-6 Away",37,20,,,Final,,11,5,0,0.688,405,13,3,0,0.813,479,,NFL

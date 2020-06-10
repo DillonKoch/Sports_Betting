@@ -1,0 +1,83 @@
+,Unnamed: 0,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,0,241106030,2004,"Sat, Nov 6",Charlotte Bobcats,Orlando Magic,"1-1, 1-1 Home","2-1, 1-1 Away",111,100,,,Final,,20,29,30,32,,22,20,21,37,,NBA
+1,1,241112002,2004,"Fri, Nov 12",Boston Celtics,Charlotte Bobcats,"3-2, 2-2 Home","1-3, 0-2 Away",91,74,,,Final,,19,22,27,23,,22,19,16,17,,NBA
+2,2,241116030,2004,"Tue, Nov 16",Charlotte Bobcats,Utah Jazz,"1-5, 1-3 Home","6-1, 3-0 Away",105,107,,,Final,,35,19,25,26,,17,23,34,33,,NBA
+3,3,241120005,2004,"Sat, Nov 20",Cleveland Cavaliers,Charlotte Bobcats,"6-3, 4-1 Home","1-7, 0-3 Away",100,84,,,Final,,23,25,32,20,,28,19,15,22,,NBA
+4,4,241123030,2004,"Tue, Nov 23",Charlotte Bobcats,Detroit Pistons,"2-8, 2-4 Home","5-5, 1-4 Away",91,89,,,Final,,23,28,22,18,,22,13,19,35,,NBA
+5,5,241127030,2004,"Sat, Nov 27",Charlotte Bobcats,Atlanta Hawks,"3-9, 3-4 Home","2-11, 1-6 Away",107,92,,,Final,,22,29,26,30,,23,26,21,22,,NBA
+6,6,241204030,2004,"Sat, Dec 4",Charlotte Bobcats,New York Knicks,"4-10, 4-4 Home","8-8, 2-6 Away",107,101,,,Final,,28,25,25,29,,27,30,24,20,,NBA
+7,7,241207023,2004,"Tue, Dec 7",Sacramento Kings,Charlotte Bobcats,"13-5, 9-1 Home","4-12, 0-8 Away",109,92,,,Final,,22,33,30,24,,28,20,21,23,,NBA
+8,8,241212009,2004,"Sun, Dec 12",Golden State Warriors,Charlotte Bobcats,"6-14, 5-7 Home","4-14, 0-10 Away",99,87,,,Final,,23,23,27,26,,28,24,16,19,,NBA
+9,9,241218030,2004,"Sat, Dec 18",Charlotte Bobcats,Houston Rockets,"6-14, 6-4 Home","11-13, 4-7 Away",101,100,,,Final/OT,,28,21,23,22,7.0,31,22,30,11,6.0,NBA
+10,10,241222010,2004,"Wed, Dec 22",Houston Rockets,Charlotte Bobcats,"12-14, 8-7 Home","7-15, 1-10 Away",87,90,,,Final,,23,21,18,25,,16,22,28,24,,NBA
+11,11,241227027,2004,"Mon, Dec 27",Washington Wizards,Charlotte Bobcats,"15-11, 8-4 Home","7-17, 1-12 Away",106,87,,,Final,,30,30,24,22,,27,22,19,19,,NBA
+12,12,241231030,2004,"Fri, Dec 31",Charlotte Bobcats,Seattle SuperSonics,"7-19, 6-7 Home","22-6, 11-3 Away",97,103,,,Final,,22,23,30,22,,30,27,18,28,,NBA
+13,13,250103030,2004,"Mon, Jan 3",Charlotte Bobcats,Cleveland Cavaliers,"7-21, 6-8 Home","18-12, 7-9 Away",83,94,,,Final,,32,20,15,16,,27,27,24,16,,NBA
+14,14,250107019,2004,"Fri, Jan 7",Orlando Magic,Charlotte Bobcats,"17-14, 11-4 Home","8-22, 1-14 Away",111,91,,,Final,,29,34,28,20,,27,24,20,20,,NBA
+15,15,250114030,2004,"Fri, Jan 14",Charlotte Bobcats,Memphis Grizzlies,"8-24, 7-9 Home","19-18, 8-10 Away",89,109,,,Final,,23,21,22,23,,26,32,26,25,,NBA
+16,16,250117030,2004,"Mon, Jan 17",Charlotte Bobcats,Milwaukee Bucks,"8-26, 7-10 Home","13-23, 4-15 Away",92,99,,,Final,,28,19,23,22,,23,19,28,29,,NBA
+17,17,250121030,2004,"Fri, Jan 21",Charlotte Bobcats,Dallas Mavericks,"8-28, 7-12 Home","26-12, 11-5 Away",99,105,,,Final,,27,21,18,33,,23,33,23,26,,NBA
+18,18,250125030,2004,"Tue, Jan 25",Charlotte Bobcats,Boston Celtics,"8-30, 7-13 Home","19-22, 6-16 Away",92,97,,,Final,,21,26,23,22,,27,24,20,26,,NBA
+19,19,250128030,2004,"Fri, Jan 28",Charlotte Bobcats,Toronto Raptors,"9-31, 8-13 Home","18-26, 3-20 Away",101,94,,,Final,,22,26,20,33,,22,27,22,23,,NBA
+20,20,250201026,2004,"Tue, Feb 1",Utah Jazz,Charlotte Bobcats,"15-31, 9-13 Home","10-32, 2-19 Away",105,109,,,Final,,27,25,35,18,,24,23,29,33,,NBA
+21,21,250205025,2004,"Sat, Feb 5",Seattle SuperSonics,Charlotte Bobcats,"32-13, 17-6 Home","10-34, 2-21 Away",113,99,,,Final,,34,35,20,24,,22,24,26,27,,NBA
+22,22,250209011,2004,"Wed, Feb 9",Indiana Pacers,Charlotte Bobcats,"23-25, 12-11 Home","10-36, 2-22 Away",94,87,,,Final,,26,28,18,22,,17,19,26,25,,NBA
+23,23,250213018,2004,"Sun, Feb 13",New York Knicks,Charlotte Bobcats,"20-31, 13-12 Home","10-38, 2-23 Away",102,99,,,Final,,21,34,24,23,,19,26,25,29,,NBA
+24,24,250216030,2004,"Wed, Feb 16",Charlotte Bobcats,Denver Nuggets,"11-39, 9-16 Home","24-29, 9-20 Away",94,88,,,Final,,25,24,33,12,,23,27,19,19,,NBA
+25,25,250225017,2004,"Fri, Feb 25",New Jersey Nets,Charlotte Bobcats,"24-32, 15-12 Home","11-41, 2-24 Away",93,86,,,Final,,29,26,12,26,,17,25,20,24,,NBA
+26,26,250301030,2004,"Tue, Mar 1",Charlotte Bobcats,Sacramento Kings,"12-42, 10-18 Home","36-22, 16-14 Away",94,87,,,Final,,27,28,18,21,,26,19,15,27,,NBA
+27,27,250304002,2004,"Fri, Mar 4",Boston Celtics,Charlotte Bobcats,"31-28, 21-9 Home","12-44, 2-26 Away",104,84,,,Final,,27,29,27,21,,23,18,25,18,,NBA
+28,28,250308016,2004,"Tue, Mar 8",Minnesota Timberwolves,Charlotte Bobcats,"31-30, 18-14 Home","12-46, 2-27 Away",102,97,,,Final,,17,25,31,29,,27,26,14,30,,NBA
+29,29,250312030,2004,"Sat, Mar 12",Charlotte Bobcats,Los Angeles Lakers,"12-48, 10-20 Home","32-29, 11-17 Away",116,117,,,Final,,25,34,25,32,,27,30,24,36,,NBA
+30,30,250316007,2004,"Wed, Mar 16",Denver Nuggets,Charlotte Bobcats,"33-30, 20-10 Home","12-50, 2-29 Away",120,101,,,Final,,29,33,32,26,,17,30,31,23,,NBA
+31,31,250319006,2004,"Sat, Mar 19",Dallas Mavericks,Charlotte Bobcats,"43-22, 22-12 Home","12-52, 2-31 Away",104,93,,,Final,,26,35,18,25,,28,22,23,20,,NBA
+32,32,250323030,2004,"Wed, Mar 23",Charlotte Bobcats,Phoenix Suns,"13-53, 11-22 Home","51-16, 28-7 Away",105,120,,,Final,,14,33,29,29,,29,41,21,29,,NBA
+33,33,250326030,2004,"Sat, Mar 26",Charlotte Bobcats,Miami Heat,"15-53, 12-22 Home","53-18, 22-13 Away",94,92,,,Final,,23,27,20,24,,26,13,31,22,,NBA
+34,34,250330030,2004,"Wed, Mar 30",Charlotte Bobcats,Chicago Bulls,"15-55, 12-24 Home","39-31, 17-18 Away",99,102,,,Final,,25,22,28,24,,23,24,22,33,,NBA
+35,35,250402004,2004,"Sat, Apr 2",Chicago Bulls,Charlotte Bobcats,"41-31, 24-13 Home","15-57, 3-32 Away",112,97,,,Final,,24,33,27,28,,24,28,24,21,,NBA
+36,36,250406020,2004,"Wed, Apr 6",Philadelphia 76ers,Charlotte Bobcats,"37-37, 21-15 Home","15-59, 3-33 Away",106,103,,,Final,CSN,36,30,20,20,,23,24,32,24,,NBA
+37,37,250410029,2004,"Sun, Apr 10",Memphis Grizzlies,Charlotte Bobcats,"44-32, 25-14 Home","15-61, 3-35 Away",102,95,,,Final,,24,28,26,24,,26,20,22,27,,NBA
+38,38,250413030,2004,"Wed, Apr 13",Charlotte Bobcats,Atlanta Hawks,"17-61, 13-26 Home","12-66, 3-36 Away",105,84,,,Final,,32,33,24,16,,18,22,19,25,,NBA
+39,39,250417027,2004,"Sun, Apr 17",Washington Wizards,Charlotte Bobcats,"45-35, 29-12 Home","17-63, 4-36 Away",106,104,,,Final,,29,22,22,33,,24,33,18,29,,NBA
+40,40,241104030,2004,"Thu, Nov 4",Charlotte Bobcats,Washington Wizards,"0-1, 0-1 Home","2-0, 2-0 Away",96,103,,,Final,,23,22,30,21,,22,27,25,29,,NBA
+41,41,241110015,2004,"Wed, Nov 10",Milwaukee Bucks,Charlotte Bobcats,"2-1, 2-0 Home","1-2, 0-1 Away",102,100,,,Final,,21,33,20,28,,30,32,18,20,,NBA
+42,42,241113030,2004,"Sat, Nov 13",Charlotte Bobcats,Golden State Warriors,"1-4, 1-2 Home","1-6, 1-3 Away",87,103,,,Final,,18,16,29,24,,26,25,21,31,,NBA
+43,43,241118030,2004,"Thu, Nov 18",Charlotte Bobcats,Cleveland Cavaliers,"1-6, 1-4 Home","5-3, 2-2 Away",89,106,,,Final,,25,24,15,25,,32,25,25,24,,NBA
+44,44,241121008,2004,"Sun, Nov 21",Detroit Pistons,Charlotte Bobcats,"5-4, 4-1 Home","1-8, 0-4 Away",117,116,,,Final/2OT,,26,24,23,30,14.0,31,25,21,26,13.0,NBA
+45,45,241126011,2004,"Fri, Nov 26",Indiana Pacers,Charlotte Bobcats,"10-3, 6-2 Home","2-9, 0-5 Away",82,77,,,Final,,14,24,19,25,,27,16,18,16,,NBA
+46,46,241130017,2004,"Tue, Nov 30",New Jersey Nets,Charlotte Bobcats,"3-11, 2-6 Home","3-10, 0-6 Away",99,86,,,Final,,27,23,22,27,,20,26,14,26,,NBA
+47,47,241206012,2004,"Mon, Dec 6",LA Clippers,Charlotte Bobcats,"11-7, 7-4 Home","4-11, 0-7 Away",99,93,,,Final/2OT,,23,21,19,16,20.0,25,22,19,13,14.0,NBA
+48,48,241210021,2004,"Fri, Dec 10",Phoenix Suns,Charlotte Bobcats,"17-3, 8-2 Home","4-13, 0-9 Away",115,106,,,Final,,35,29,29,22,,29,26,24,27,,NBA
+49,49,241214030,2004,"Tue, Dec 14",Charlotte Bobcats,New Orleans Hornets,"5-14, 5-4 Home","1-19, 1-10 Away",94,93,,,Final/OT,,21,24,26,15,8.0,21,25,25,15,7.0,NBA
+50,50,241221030,2004,"Tue, Dec 21",Charlotte Bobcats,New Jersey Nets,"6-15, 6-5 Home","8-16, 3-9 Away",91,94,,,Final,,22,17,26,26,,22,23,26,23,,NBA
+51,51,241226018,2004,"Sun, Dec 26",New York Knicks,Charlotte Bobcats,"14-13, 9-4 Home","7-16, 1-11 Away",91,82,,,Final,,24,23,25,19,,28,14,18,22,,NBA
+52,52,241229030,2004,"Wed, Dec 29",Charlotte Bobcats,Indiana Pacers,"7-18, 6-6 Home","14-13, 6-7 Away",71,74,,,Final,,15,19,19,18,,14,19,22,19,,NBA
+53,53,250101014,2004,"Sat, Jan 1",Miami Heat,Charlotte Bobcats,"25-7, 13-3 Home","7-20, 1-13 Away",113,90,,,Final,,28,27,35,23,,20,23,25,22,,NBA
+54,54,250105030,2004,"Wed, Jan 5",Charlotte Bobcats,Minnesota Timberwolves,"8-21, 7-8 Home","16-14, 8-9 Away",102,84,,,Final,,21,22,24,35,,24,16,25,19,,NBA
+55,55,250111005,2004,"Tue, Jan 11",Cleveland Cavaliers,Charlotte Bobcats,"21-12, 14-3 Home","8-23, 1-15 Away",100,98,,,Final/OT,,19,26,19,23,13.0,23,19,32,13,11.0,NBA
+56,56,250115001,2004,"Sat, Jan 15",Atlanta Hawks,Charlotte Bobcats,"7-27, 5-14 Home","8-25, 1-16 Away",103,95,,,Final,,27,29,22,25,,20,22,20,33,,NBA
+57,57,250119030,2004,"Wed, Jan 19",Charlotte Bobcats,Philadelphia 76ers,"8-27, 7-11 Home","18-20, 9-13 Away",105,107,,,Final,CSN,25,28,28,24,,27,26,29,25,,NBA
+58,58,250123028,2004,"Sun, Jan 23",Toronto Raptors,Charlotte Bobcats,"18-24, 15-5 Home","8-29, 1-17 Away",103,92,,,Final,,29,24,24,26,,29,30,21,12,,NBA
+59,59,250127004,2004,"Thu, Jan 27",Chicago Bulls,Charlotte Bobcats,"22-19, 15-9 Home","8-31, 1-18 Away",101,93,,,Final,,29,21,24,27,,21,23,29,20,,NBA
+60,60,250130013,2004,"Sun, Jan 30",Los Angeles Lakers,Charlotte Bobcats,"23-19, 16-9 Home","9-32, 1-19 Away",101,90,,,Final,,27,23,27,24,,22,19,21,28,,NBA
+61,61,250204022,2004,"Fri, Feb 4",Portland Trail Blazers,Charlotte Bobcats,"19-26, 12-9 Home","10-33, 2-20 Away",101,89,,,Final,,27,20,21,33,,22,18,15,34,,NBA
+62,62,250208030,2004,"Tue, Feb 8",Charlotte Bobcats,San Antonio Spurs,"10-35, 8-14 Home","39-10, 16-9 Away",85,104,,,Final,,17,17,21,30,,29,23,26,26,,NBA
+63,63,250211030,2004,"Fri, Feb 11",Charlotte Bobcats,Miami Heat,"10-37, 8-15 Home","38-14, 18-9 Away",87,97,,,Final,,19,21,21,26,,18,20,33,26,,NBA
+64,64,250214030,2004,"Mon, Feb 14",Charlotte Bobcats,Portland Trail Blazers,"10-39, 8-16 Home","21-29, 8-19 Away",77,80,,,Final,,19,22,23,13,,26,19,18,17,,NBA
+65,65,250222030,2004,"Tue, Feb 22",Charlotte Bobcats,Milwaukee Bucks,"11-40, 9-17 Home","21-30, 7-20 Away",102,112,,,Final,,23,26,37,16,,26,30,31,25,,NBA
+66,66,250226030,2004,"Sat, Feb 26",Charlotte Bobcats,Chicago Bulls,"11-42, 9-18 Home","29-24, 11-14 Away",90,94,,,Final,,27,29,16,18,,26,25,25,18,,NBA
+67,67,250302003,2004,"Wed, Mar 2",New Orleans Hornets,Charlotte Bobcats,"12-45, 9-18 Home","12-43, 2-25 Away",94,85,,,Final,,25,21,26,22,,21,18,29,17,,NBA
+68,68,250305030,2004,"Sat, Mar 5",Charlotte Bobcats,Washington Wizards,"12-45, 10-19 Home","33-25, 11-16 Away",84,86,,,Final,,24,20,16,24,,18,19,24,25,,NBA
+69,69,250311020,2004,"Fri, Mar 11",Philadelphia 76ers,Charlotte Bobcats,"30-32, 17-13 Home","12-47, 2-28 Away",112,80,,,Final,CSN,20,37,34,21,,20,19,20,21,,NBA
+70,70,250314030,2004,"Mon, Mar 14",Charlotte Bobcats,Boston Celtics,"12-49, 10-21 Home","35-29, 11-19 Away",110,119,,,Final,,28,40,21,21,,41,27,22,29,,NBA
+71,71,250318024,2004,"Fri, Mar 18",San Antonio Spurs,Charlotte Bobcats,"50-15, 31-3 Home","12-51, 2-30 Away",93,76,,,Final,,24,28,20,21,,20,22,12,22,,NBA
+72,72,250321030,2004,"Mon, Mar 21",Charlotte Bobcats,Orlando Magic,"13-52, 11-21 Home","32-35, 11-25 Away",102,97,,,Final,,24,20,28,30,,31,24,18,24,,NBA
+73,73,250324019,2004,"Thu, Mar 24",Orlando Magic,Charlotte Bobcats,"32-36, 21-11 Home","14-53, 3-31 Away",94,108,,,Final,,27,24,22,21,,29,24,22,33,,NBA
+74,74,250328030,2004,"Mon, Mar 28",Charlotte Bobcats,New Jersey Nets,"15-54, 12-23 Home","33-38, 14-22 Away",91,95,,,Final,,19,25,24,23,,19,21,29,26,,NBA
+75,75,250401030,2004,"Fri, Apr 1",Charlotte Bobcats,Toronto Raptors,"15-56, 12-25 Home","30-42, 9-29 Away",107,119,,,Final,,18,34,28,27,,31,30,27,31,,NBA
+76,76,250405030,2004,"Tue, Apr 5",Charlotte Bobcats,LA Clippers,"15-58, 12-26 Home","34-41, 9-28 Away",102,104,,,Final,,28,24,26,24,,22,32,20,30,,NBA
+77,77,250408015,2004,"Fri, Apr 8",Milwaukee Bucks,Charlotte Bobcats,"29-46, 22-16 Home","15-60, 3-34 Away",93,75,,,Final,,17,32,16,28,,18,15,24,18,,NBA
+78,78,250411001,2004,"Mon, Apr 11",Atlanta Hawks,Charlotte Bobcats,"12-65, 9-30 Home","16-61, 4-35 Away",105,110,,,Final/OT,,38,19,22,22,4.0,25,32,23,21,9.0,NBA
+79,79,250416030,2004,"Sat, Apr 16",Charlotte Bobcats,New York Knicks,"17-62, 13-27 Home","32-47, 11-29 Away",98,100,,,Final,,25,24,20,29,,27,31,21,21,,NBA
+80,80,250419014,2004,"Tue, Apr 19",Miami Heat,Charlotte Bobcats,"58-23, 35-6 Home","17-64, 4-37 Away",99,80,,,Final,,30,27,20,22,,25,21,19,15,,NBA
+81,81,250420030,2004,"Wed, Apr 20",Charlotte Bobcats,Detroit Pistons,"18-64, 14-27 Home","54-28, 22-19 Away",97,86,,,Final,,24,33,23,17,,25,24,21,16,,NBA

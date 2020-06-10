@@ -1,24 +1,24 @@
-ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
-400999181,2017,"January 14, 2018",Pittsburgh Steelers,Jacksonville Jaguars,"13-3, 6-2 Home","10-6, 4-4 Away",42,45,NULL,NULL,Final,CBS,0,14,7,21,NULL,14,14,0,17,NULL,DIV,NFL
-400951635,2017,"September 17, 2017",Jacksonville Jaguars,Tennessee Titans,"1-1, 0-1 Home","1-1, 1-0 Away",16,37,NULL,NULL,Final,CBS,3,0,0,13,NULL,3,3,17,14,NULL,2,NFL
-400951730,2017,"October 1, 2017",New York Jets,Jacksonville Jaguars,"2-2, 2-0 Home","2-2, 1-1 Away",23,20,NULL,NULL,Final/OT,CBS,7,3,10,0,3,7,3,0,10,0,4,NFL
-400951773,2017,"October 15, 2017",Jacksonville Jaguars,Los Angeles Rams,"3-3, 1-2 Home","4-2, 3-0 Away",17,27,NULL,NULL,Final,FOX,14,0,3,0,NULL,17,7,0,3,NULL,6,NFL
-400951648,2017,"November 12, 2017",Jacksonville Jaguars,Los Angeles Chargers,"6-3, 3-2 Home","3-6, 2-3 Away",20,17,NULL,NULL,Final/OT,CBS,6,0,8,3,3,0,7,7,3,0,10,NFL
-400951622,2017,"November 26, 2017",Arizona Cardinals,Jacksonville Jaguars,"5-6, 3-2 Home","7-4, 4-2 Away",27,24,NULL,NULL,Final,CBS,3,10,3,11,NULL,0,3,7,14,NULL,12,NFL
-400951652,2017,"December 10, 2017",Jacksonville Jaguars,Seattle Seahawks,"9-4, 5-2 Home","8-5, 4-3 Away",30,24,NULL,NULL,Final,FOX,3,0,21,6,NULL,0,0,10,14,NULL,14,NFL
-400951675,2017,"December 24, 2017",San Francisco 49ers,Jacksonville Jaguars,"5-10, 3-5 Home","10-5, 4-3 Away",44,33,NULL,NULL,Final,CBS,10,6,7,21,NULL,0,16,3,14,NULL,16,NFL
-400950229,2017,"August 17, 2017",Jacksonville Jaguars,Tampa Bay Buccaneers,"1-1, 0-1 Home","1-1, 1-1 Away",8,12,NULL,NULL,Final,ESPN,0,0,0,8,NULL,6,6,0,0,NULL,2,NFL
-400999176,2017,"January 7, 2018",Jacksonville Jaguars,Buffalo Bills,"10-6, 6-2 Home","9-7, 3-5 Away",10,3,NULL,NULL,Final,CBS,0,3,7,0,NULL,0,3,0,0,NULL,WC,NFL
-400951580,2017,"September 10, 2017",Houston Texans,Jacksonville Jaguars,"0-1, 0-1 Home","1-0, 1-0 Away",7,29,NULL,NULL,Final,CBS,0,0,7,0,NULL,3,16,7,3,NULL,1,NFL
-400951579,2017,"September 24, 2017",Jacksonville Jaguars,Baltimore Ravens,2-1,2-1,44,7,NULL,NULL,Final,Yahoo,10,13,14,7,NULL,0,0,0,7,NULL,3,NFL
-400951655,2017,"October 8, 2017",Pittsburgh Steelers,Jacksonville Jaguars,"3-2, 1-1 Home","3-2, 2-1 Away",9,30,NULL,NULL,Final,CBS,3,3,3,0,NULL,0,7,13,10,NULL,5,NFL
-400951589,2017,"October 22, 2017",Indianapolis Colts,Jacksonville Jaguars,"2-5, 2-2 Home","4-3, 3-1 Away",0,27,NULL,NULL,Final,CBS,0,0,0,0,NULL,14,6,7,0,NULL,7,NFL
-400951753,2017,"November 5, 2017",Jacksonville Jaguars,Cincinnati Bengals,"5-3, 2-2 Home","3-5, 1-3 Away",23,7,NULL,NULL,Final,CBS,3,10,3,7,NULL,0,7,0,0,NULL,9,NFL
-400951769,2017,"November 19, 2017",Cleveland Browns,Jacksonville Jaguars,"0-10, 0-6 Home","7-3, 4-1 Away",7,19,NULL,NULL,Final,CBS,0,7,0,0,NULL,7,3,0,9,NULL,11,NFL
-400951713,2017,"December 3, 2017",Jacksonville Jaguars,Indianapolis Colts,"8-4, 4-2 Home","3-9, 1-5 Away",30,10,NULL,NULL,Final,CBS,7,9,11,3,NULL,0,3,7,0,NULL,13,NFL
-400951781,2017,"December 17, 2017",Jacksonville Jaguars,Houston Texans,"10-4, 6-2 Home","4-10, 1-6 Away",45,7,NULL,NULL,Final,CBS,7,24,7,7,NULL,0,0,7,0,NULL,15,NFL
-400951794,2017,"August 10, 2017",New England Patriots,Jacksonville Jaguars,"0-1, 0-1 Home","1-0, 1-0 Away",24,31,NULL,NULL,Final,NULL,3,7,7,7,NULL,3,14,14,0,NULL,1,NFL
-400951804,2017,"August 24, 2017",Jacksonville Jaguars,Carolina Panthers,"1-2, 0-2 Home","2-1, 1-1 Away",23,24,NULL,NULL,Final,NULL,0,10,0,13,NULL,7,3,6,8,NULL,3,NFL
-400950242,2017,"August 31, 2017",Atlanta Falcons,Jacksonville Jaguars,"0-4, 0-2 Home","2-2, 2-0 Away",7,13,NULL,NULL,Final,NULL,0,0,0,7,NULL,7,0,6,0,NULL,4,NFL
-400999172,2017,"January 21, 2018",New England Patriots,Jacksonville Jaguars,"13-3, 6-2 Home","10-6, 4-4 Away",24,20,NULL,NULL,Final,CBS,3,7,0,14,NULL,0,14,3,3,NULL,CONF,NFL
-400951788,2017,"December 31, 2017",Tennessee Titans,Jacksonville Jaguars,"9-7, 6-2 Home","10-6, 4-4 Away",15,10,NULL,NULL,Final,CBS,0,12,3,0,NULL,0,3,0,7,NULL,17,NFL
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
+0,400999181,2017,"January 14, 2018",Pittsburgh Steelers,Jacksonville Jaguars,"13-3, 6-2 Home","10-6, 4-4 Away",42,45,,,Final,CBS,0,14,7,21,,14,14,0,17,,DIV,NFL
+1,400951635,2017,"September 17, 2017",Jacksonville Jaguars,Tennessee Titans,"1-1, 0-1 Home","1-1, 1-0 Away",16,37,,,Final,CBS,3,0,0,13,,3,3,17,14,,2,NFL
+2,400951730,2017,"October 1, 2017",New York Jets,Jacksonville Jaguars,"2-2, 2-0 Home","2-2, 1-1 Away",23,20,,,Final/OT,CBS,7,3,10,0,3.0,7,3,0,10,0.0,4,NFL
+3,400951773,2017,"October 15, 2017",Jacksonville Jaguars,Los Angeles Rams,"3-3, 1-2 Home","4-2, 3-0 Away",17,27,,,Final,FOX,14,0,3,0,,17,7,0,3,,6,NFL
+4,400951648,2017,"November 12, 2017",Jacksonville Jaguars,Los Angeles Chargers,"6-3, 3-2 Home","3-6, 2-3 Away",20,17,,,Final/OT,CBS,6,0,8,3,3.0,0,7,7,3,0.0,10,NFL
+5,400951622,2017,"November 26, 2017",Arizona Cardinals,Jacksonville Jaguars,"5-6, 3-2 Home","7-4, 4-2 Away",27,24,,,Final,CBS,3,10,3,11,,0,3,7,14,,12,NFL
+6,400951652,2017,"December 10, 2017",Jacksonville Jaguars,Seattle Seahawks,"9-4, 5-2 Home","8-5, 4-3 Away",30,24,,,Final,FOX,3,0,21,6,,0,0,10,14,,14,NFL
+7,400951675,2017,"December 24, 2017",San Francisco 49ers,Jacksonville Jaguars,"5-10, 3-5 Home","10-5, 4-3 Away",44,33,,,Final,CBS,10,6,7,21,,0,16,3,14,,16,NFL
+8,400950229,2017,"August 17, 2017",Jacksonville Jaguars,Tampa Bay Buccaneers,"1-1, 0-1 Home","1-1, 1-1 Away",8,12,,,Final,ESPN,0,0,0,8,,6,6,0,0,,2,NFL
+9,400999176,2017,"January 7, 2018",Jacksonville Jaguars,Buffalo Bills,"10-6, 6-2 Home","9-7, 3-5 Away",10,3,,,Final,CBS,0,3,7,0,,0,3,0,0,,WC,NFL
+10,400951580,2017,"September 10, 2017",Houston Texans,Jacksonville Jaguars,"0-1, 0-1 Home","1-0, 1-0 Away",7,29,,,Final,CBS,0,0,7,0,,3,16,7,3,,1,NFL
+11,400951579,2017,"September 24, 2017",Jacksonville Jaguars,Baltimore Ravens,2-1,2-1,44,7,,,Final,Yahoo,10,13,14,7,,0,0,0,7,,3,NFL
+12,400951655,2017,"October 8, 2017",Pittsburgh Steelers,Jacksonville Jaguars,"3-2, 1-1 Home","3-2, 2-1 Away",9,30,,,Final,CBS,3,3,3,0,,0,7,13,10,,5,NFL
+13,400951589,2017,"October 22, 2017",Indianapolis Colts,Jacksonville Jaguars,"2-5, 2-2 Home","4-3, 3-1 Away",0,27,,,Final,CBS,0,0,0,0,,14,6,7,0,,7,NFL
+14,400951753,2017,"November 5, 2017",Jacksonville Jaguars,Cincinnati Bengals,"5-3, 2-2 Home","3-5, 1-3 Away",23,7,,,Final,CBS,3,10,3,7,,0,7,0,0,,9,NFL
+15,400951769,2017,"November 19, 2017",Cleveland Browns,Jacksonville Jaguars,"0-10, 0-6 Home","7-3, 4-1 Away",7,19,,,Final,CBS,0,7,0,0,,7,3,0,9,,11,NFL
+16,400951713,2017,"December 3, 2017",Jacksonville Jaguars,Indianapolis Colts,"8-4, 4-2 Home","3-9, 1-5 Away",30,10,,,Final,CBS,7,9,11,3,,0,3,7,0,,13,NFL
+17,400951781,2017,"December 17, 2017",Jacksonville Jaguars,Houston Texans,"10-4, 6-2 Home","4-10, 1-6 Away",45,7,,,Final,CBS,7,24,7,7,,0,0,7,0,,15,NFL
+18,400951794,2017,"August 10, 2017",New England Patriots,Jacksonville Jaguars,"0-1, 0-1 Home","1-0, 1-0 Away",24,31,,,Final,,3,7,7,7,,3,14,14,0,,1,NFL
+19,400951804,2017,"August 24, 2017",Jacksonville Jaguars,Carolina Panthers,"1-2, 0-2 Home","2-1, 1-1 Away",23,24,,,Final,,0,10,0,13,,7,3,6,8,,3,NFL
+20,400950242,2017,"August 31, 2017",Atlanta Falcons,Jacksonville Jaguars,"0-4, 0-2 Home","2-2, 2-0 Away",7,13,,,Final,,0,0,0,7,,7,0,6,0,,4,NFL
+21,400999172,2017,"January 21, 2018",New England Patriots,Jacksonville Jaguars,"13-3, 6-2 Home","10-6, 4-4 Away",24,20,,,Final,CBS,3,7,0,14,,0,14,3,3,,CONF,NFL
+22,400951788,2017,"December 31, 2017",Tennessee Titans,Jacksonville Jaguars,"9-7, 6-2 Home","10-6, 4-4 Away",15,10,,,Final,CBS,0,12,3,0,,0,3,0,7,,17,NFL

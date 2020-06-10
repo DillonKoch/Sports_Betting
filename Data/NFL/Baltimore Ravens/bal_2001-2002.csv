@@ -1,22 +1,22 @@
-ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
-210923004,2001,"September 23, 2001",Cincinnati Bengals,Baltimore Ravens,"2-0, 2-0 Home","1-1, 0-1 Away",21,10,NULL,NULL,Final,CBS,0,0,14,7,NULL,3,0,0,7,NULL,2,NFL
-211007033,2001,"October 7, 2001",Baltimore Ravens,Tennessee Titans,"3-1, 2-0 Home","0-3, 0-2 Away",26,7,NULL,NULL,Final,CBS,7,10,3,6,NULL,0,0,7,0,NULL,4,NFL
-211021005,2001,"October 21, 2001",Cleveland Browns,Baltimore Ravens,"4-2, 3-1 Home","3-3, 1-3 Away",24,14,NULL,NULL,Final,CBS,7,3,14,0,NULL,0,6,0,8,NULL,6,NFL
-211104023,2001,"November 4, 2001",Pittsburgh Steelers,Baltimore Ravens,"5-2, 2-1 Home","5-3, 2-3 Away",10,13,NULL,NULL,Final,CBS,3,7,0,0,NULL,0,7,0,6,NULL,8,NFL
-211118033,2001,"November 18, 2001",Baltimore Ravens,Cleveland Browns,"6-4, 3-1 Home","5-4, 2-2 Away",17,27,NULL,NULL,Final,CBS,0,7,10,0,NULL,3,17,0,7,NULL,10,NFL
-211202033,2001,"December 2, 2001",Baltimore Ravens,Indianapolis Colts,"8-4, 4-1 Home","4-7, 3-3 Away",39,27,NULL,NULL,Final,CBS,3,13,10,13,NULL,3,7,17,0,NULL,12,NFL
-211216033,2001,"December 16, 2001",Baltimore Ravens,Pittsburgh Steelers,"8-5, 4-2 Home","11-2, 6-1 Away",21,26,NULL,NULL,Final,ESPN,0,7,0,14,NULL,3,10,0,13,NULL,14,NFL
-211229027,2001,"December 29, 2001",Tampa Bay Buccaneers,Baltimore Ravens,"9-6, 5-2 Home","9-6, 4-4 Away",22,10,NULL,NULL,Final,ABC,3,13,0,6,NULL,0,7,0,3,NULL,16,NFL
-210818020,2001,"August 18, 2001",New York Jets,Baltimore Ravens,"1-1, 1-1 Home","0-1, 0-1 Away",16,3,NULL,NULL,Final,NULL,N,U,L,L,NULL,N,U,L,L,NULL,1,NFL
-220113015,2001,"January 13, 2002",Miami Dolphins,Baltimore Ravens,"11-5, 7-1 Home","10-6, 4-4 Away",3,20,NULL,NULL,Final,CBS,3,0,0,0,NULL,0,7,7,6,NULL,WC,NFL
-210909033,2001,"September 9, 2001",Baltimore Ravens,Chicago Bears,"1-0, 1-0 Home","0-1, 0-1 Away",17,6,NULL,NULL,Final,FOX,0,3,7,7,NULL,3,0,3,0,NULL,1,NFL
-210930007,2001,"September 30, 2001",Denver Broncos,Baltimore Ravens,"2-1, 1-1 Home","2-1, 1-1 Away",13,20,NULL,NULL,Final,CBS,10,0,3,0,NULL,3,3,7,7,NULL,3,NFL
-211014009,2001,"October 14, 2001",Green Bay Packers,Baltimore Ravens,"4-1, 3-0 Home","3-2, 1-2 Away",31,23,NULL,NULL,Final,CBS,0,17,7,7,NULL,7,0,3,13,NULL,5,NFL
-211028033,2001,"October 28, 2001",Baltimore Ravens,Jacksonville Jaguars,"4-3, 3-0 Home","2-4, 0-2 Away",18,17,NULL,NULL,Final,CBS,0,3,3,12,NULL,0,3,7,7,NULL,7,NFL
-211112010,2001,"November 12, 2001",Tennessee Titans,Baltimore Ravens,"3-5, 2-2 Home","6-3, 3-3 Away",10,16,NULL,NULL,Final,ABC,0,0,10,0,NULL,0,0,10,6,NULL,9,NFL
-211125030,2001,"November 25, 2001",Jacksonville Jaguars,Baltimore Ravens,"3-7, 3-3 Home","7-4, 4-3 Away",21,24,NULL,NULL,Final,CBS,0,0,7,14,NULL,3,7,7,7,NULL,11,NFL
-211223033,2001,"December 23, 2001",Baltimore Ravens,Cincinnati Bengals,"9-5, 5-2 Home","4-10, 1-6 Away",16,0,NULL,NULL,Final,CBS,3,10,0,3,NULL,0,0,0,0,NULL,15,NFL
-210823033,2001,"August 23, 2001",Baltimore Ravens,Carolina Panthers,"0-2, 0-1 Home","1-2, 1-1 Away",17,20,NULL,NULL,Final,NULL,N,U,L,L,NULL,N,U,L,L,NULL,2,NFL
-220120023,2001,"January 20, 2002",Pittsburgh Steelers,Baltimore Ravens,"13-3, 7-1 Home","10-6, 4-4 Away",27,10,NULL,NULL,Final,CBS,10,10,0,7,NULL,0,3,7,0,NULL,DIV,NFL
-210831033,2001,"August 31, 2001",Baltimore Ravens,New York Giants,"1-2, 1-1 Home","1-3, 0-2 Away",38,9,NULL,NULL,Final,NULL,8,8,0,.500,434,9,7,0,.563,385,3,NFL
-220107033,2001,"January 7, 2002",Baltimore Ravens,Minnesota Vikings,"10-6, 6-2 Home","5-11, 0-8 Away",19,3,NULL,NULL,Final,ABC,0,9,3,7,NULL,3,0,0,0,NULL,17,NFL
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
+0,210923004,2001,"September 23, 2001",Cincinnati Bengals,Baltimore Ravens,"2-0, 2-0 Home","1-1, 0-1 Away",21,10,,,Final,CBS,0,0,14,7,,3,0,0,7,,2,NFL
+1,211007033,2001,"October 7, 2001",Baltimore Ravens,Tennessee Titans,"3-1, 2-0 Home","0-3, 0-2 Away",26,7,,,Final,CBS,7,10,3,6,,0,0,7,0,,4,NFL
+2,211021005,2001,"October 21, 2001",Cleveland Browns,Baltimore Ravens,"4-2, 3-1 Home","3-3, 1-3 Away",24,14,,,Final,CBS,7,3,14,0,,0,6,0,8,,6,NFL
+3,211104023,2001,"November 4, 2001",Pittsburgh Steelers,Baltimore Ravens,"5-2, 2-1 Home","5-3, 2-3 Away",10,13,,,Final,CBS,3,7,0,0,,0,7,0,6,,8,NFL
+4,211118033,2001,"November 18, 2001",Baltimore Ravens,Cleveland Browns,"6-4, 3-1 Home","5-4, 2-2 Away",17,27,,,Final,CBS,0,7,10,0,,3,17,0,7,,10,NFL
+5,211202033,2001,"December 2, 2001",Baltimore Ravens,Indianapolis Colts,"8-4, 4-1 Home","4-7, 3-3 Away",39,27,,,Final,CBS,3,13,10,13,,3,7,17,0,,12,NFL
+6,211216033,2001,"December 16, 2001",Baltimore Ravens,Pittsburgh Steelers,"8-5, 4-2 Home","11-2, 6-1 Away",21,26,,,Final,ESPN,0,7,0,14,,3,10,0,13,,14,NFL
+7,211229027,2001,"December 29, 2001",Tampa Bay Buccaneers,Baltimore Ravens,"9-6, 5-2 Home","9-6, 4-4 Away",22,10,,,Final,ABC,3,13,0,6,,0,7,0,3,,16,NFL
+8,210818020,2001,"August 18, 2001",New York Jets,Baltimore Ravens,"1-1, 1-1 Home","0-1, 0-1 Away",16,3,,,Final,,N,U,L,L,,N,U,L,L,,1,NFL
+9,220113015,2001,"January 13, 2002",Miami Dolphins,Baltimore Ravens,"11-5, 7-1 Home","10-6, 4-4 Away",3,20,,,Final,CBS,3,0,0,0,,0,7,7,6,,WC,NFL
+10,210909033,2001,"September 9, 2001",Baltimore Ravens,Chicago Bears,"1-0, 1-0 Home","0-1, 0-1 Away",17,6,,,Final,FOX,0,3,7,7,,3,0,3,0,,1,NFL
+11,210930007,2001,"September 30, 2001",Denver Broncos,Baltimore Ravens,"2-1, 1-1 Home","2-1, 1-1 Away",13,20,,,Final,CBS,10,0,3,0,,3,3,7,7,,3,NFL
+12,211014009,2001,"October 14, 2001",Green Bay Packers,Baltimore Ravens,"4-1, 3-0 Home","3-2, 1-2 Away",31,23,,,Final,CBS,0,17,7,7,,7,0,3,13,,5,NFL
+13,211028033,2001,"October 28, 2001",Baltimore Ravens,Jacksonville Jaguars,"4-3, 3-0 Home","2-4, 0-2 Away",18,17,,,Final,CBS,0,3,3,12,,0,3,7,7,,7,NFL
+14,211112010,2001,"November 12, 2001",Tennessee Titans,Baltimore Ravens,"3-5, 2-2 Home","6-3, 3-3 Away",10,16,,,Final,ABC,0,0,10,0,,0,0,10,6,,9,NFL
+15,211125030,2001,"November 25, 2001",Jacksonville Jaguars,Baltimore Ravens,"3-7, 3-3 Home","7-4, 4-3 Away",21,24,,,Final,CBS,0,0,7,14,,3,7,7,7,,11,NFL
+16,211223033,2001,"December 23, 2001",Baltimore Ravens,Cincinnati Bengals,"9-5, 5-2 Home","4-10, 1-6 Away",16,0,,,Final,CBS,3,10,0,3,,0,0,0,0,,15,NFL
+17,210823033,2001,"August 23, 2001",Baltimore Ravens,Carolina Panthers,"0-2, 0-1 Home","1-2, 1-1 Away",17,20,,,Final,,N,U,L,L,,N,U,L,L,,2,NFL
+18,220120023,2001,"January 20, 2002",Pittsburgh Steelers,Baltimore Ravens,"13-3, 7-1 Home","10-6, 4-4 Away",27,10,,,Final,CBS,10,10,0,7,,0,3,7,0,,DIV,NFL
+19,210831033,2001,"August 31, 2001",Baltimore Ravens,New York Giants,"1-2, 1-1 Home","1-3, 0-2 Away",38,9,,,Final,,8,8,0,.500,434.0,9,7,0,.563,385.0,3,NFL
+20,220107033,2001,"January 7, 2002",Baltimore Ravens,Minnesota Vikings,"10-6, 6-2 Home","5-11, 0-8 Away",19,3,,,Final,ABC,0,9,3,7,,3,0,0,0,,17,NFL

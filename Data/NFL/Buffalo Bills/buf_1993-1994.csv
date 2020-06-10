@@ -1,20 +1,20 @@
-ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
-140123002,1993,"January 23, 1994",Buffalo Bills,Kansas City Chiefs,"12-4, 6-2 Home","11-5, 4-4 Away",30,13,NULL,NULL,Final,NULL,7,9,0,.438,282,12,4,0,.750,451,,NFL
-130905002,1993,"September 5, 1993",Buffalo Bills,New England Patriots,"1-0, 1-0 Home","0-1, 0-1 Away",38,14,NULL,NULL,Final,NULL,10,6,0,.625,314,12,4,0,.750,420,,NFL
-130912006,1993,"September 12, 1993",Dallas Cowboys,Buffalo Bills,"0-2, 0-1 Home","2-0, 1-0 Away",10,13,NULL,NULL,Final,NULL,10,6,0,.625,314,12,4,0,.750,420,,NFL
-130926002,1993,"September 26, 1993",Buffalo Bills,Miami Dolphins,"2-1, 1-1 Home","2-1, 2-0 Away",13,22,NULL,NULL,Final,NULL,10,6,0,.625,314,12,4,0,.750,420,,NFL
-131003002,1993,"October 3, 1993",Buffalo Bills,New York Giants,"3-1, 2-1 Home","3-1, 1-1 Away",17,14,NULL,NULL,Final,NULL,8,8,0,.500,434,9,7,0,.563,385,,NFL
-131011002,1993,"October 11, 1993",Buffalo Bills,Houston Oilers,"4-1, 3-1 Home","1-4, 0-3 Away",35,7,NULL,NULL,Final,NULL,10,6,0,.625,314,12,4,0,.750,420,,NFL
-131024020,1993,"October 24, 1993",New York Jets,Buffalo Bills,"2-4, 1-3 Home","5-1, 2-0 Away",10,19,NULL,NULL,Final,NULL,10,6,0,.625,314,12,4,0,.750,420,,NFL
-131101002,1993,"November 1, 1993",Buffalo Bills,Washington Redskins,"6-1, 4-1 Home","1-6, 0-4 Away",24,10,NULL,NULL,Final,NULL,8,8,0,.500,434,9,7,0,.563,385,,NFL
-131107017,1993,"November 7, 1993",New England Patriots,Buffalo Bills,"1-8, 0-4 Home","7-1, 3-0 Away",10,13,NULL,NULL,Final/OT,NULL,10,6,0,.625,314,12,4,0,.750,420,,NFL
-131115023,1993,"November 15, 1993",Pittsburgh Steelers,Buffalo Bills,"6-3, 4-1 Home","7-2, 3-1 Away",23,0,NULL,NULL,Final,NULL,10,6,0,.625,314,12,4,0,.750,420,,NFL
-131121002,1993,"November 21, 1993",Buffalo Bills,Indianapolis Colts,"8-2, 5-1 Home","3-7, 1-4 Away",23,9,NULL,NULL,Final,NULL,10,6,0,.625,314,12,4,0,.750,420,,NFL
-131128012,1993,"November 28, 1993",Kansas City Chiefs,Buffalo Bills,"8-3, 5-1 Home","8-3, 3-2 Away",23,7,NULL,NULL,Final,NULL,10,6,0,.625,314,12,4,0,.750,420,,NFL
-131205002,1993,"December 5, 1993",Buffalo Bills,Los Angeles Raiders,"8-4, 5-2 Home","7-5, 5-2 Away",24,25,NULL,NULL,Final,NULL,10,6,0,.625,314,12,4,0,.750,420,,NFL
-131212021,1993,"December 12, 1993",Philadelphia Eagles,Buffalo Bills,"5-8, 2-5 Home","9-4, 4-2 Away",7,10,NULL,NULL,Final,NULL,10,6,0,.625,314,12,4,0,.750,420,,NFL
-131219015,1993,"December 19, 1993",Miami Dolphins,Buffalo Bills,"9-5, 4-4 Home","10-4, 5-2 Away",34,47,NULL,NULL,Final,NULL,10,6,0,.625,314,12,4,0,.750,420,,NFL
-131226002,1993,"December 26, 1993",Buffalo Bills,New York Jets,"11-4, 6-2 Home","8-7, 5-2 Away",16,14,NULL,NULL,Final,NULL,10,6,0,.625,314,12,4,0,.750,420,,NFL
-140115002,1993,"January 15, 1994",Buffalo Bills,Los Angeles Raiders,"12-4, 6-2 Home","10-6, 5-3 Away",29,23,NULL,NULL,Final,NULL,10,6,0,.625,314,12,4,0,.750,420,,NFL
-140102011,1993,"January 2, 1994",Indianapolis Colts,Buffalo Bills,"4-12, 2-6 Home","12-4, 6-2 Away",10,30,NULL,NULL,Final,NULL,10,6,0,.625,314,12,4,0,.750,420,,NFL
-140130002,1993,"January 30, 1994",Buffalo Bills,Dallas Cowboys,"12-4, 6-2 Home","12-4, 6-2 Away",13,30,NULL,NULL,Final,NULL,8,8,0,.500,434,9,7,0,.563,385,,NFL
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
+0,140123002,1993,"January 23, 1994",Buffalo Bills,Kansas City Chiefs,"12-4, 6-2 Home","11-5, 4-4 Away",30,13,,,Final,,7,9,0,0.43799999999999994,282,12,4,0,0.75,451,,NFL
+1,130905002,1993,"September 5, 1993",Buffalo Bills,New England Patriots,"1-0, 1-0 Home","0-1, 0-1 Away",38,14,,,Final,,10,6,0,0.625,314,12,4,0,0.75,420,,NFL
+2,130912006,1993,"September 12, 1993",Dallas Cowboys,Buffalo Bills,"0-2, 0-1 Home","2-0, 1-0 Away",10,13,,,Final,,10,6,0,0.625,314,12,4,0,0.75,420,,NFL
+3,130926002,1993,"September 26, 1993",Buffalo Bills,Miami Dolphins,"2-1, 1-1 Home","2-1, 2-0 Away",13,22,,,Final,,10,6,0,0.625,314,12,4,0,0.75,420,,NFL
+4,131003002,1993,"October 3, 1993",Buffalo Bills,New York Giants,"3-1, 2-1 Home","3-1, 1-1 Away",17,14,,,Final,,8,8,0,0.5,434,9,7,0,0.563,385,,NFL
+5,131011002,1993,"October 11, 1993",Buffalo Bills,Houston Oilers,"4-1, 3-1 Home","1-4, 0-3 Away",35,7,,,Final,,10,6,0,0.625,314,12,4,0,0.75,420,,NFL
+6,131024020,1993,"October 24, 1993",New York Jets,Buffalo Bills,"2-4, 1-3 Home","5-1, 2-0 Away",10,19,,,Final,,10,6,0,0.625,314,12,4,0,0.75,420,,NFL
+7,131101002,1993,"November 1, 1993",Buffalo Bills,Washington Redskins,"6-1, 4-1 Home","1-6, 0-4 Away",24,10,,,Final,,8,8,0,0.5,434,9,7,0,0.563,385,,NFL
+8,131107017,1993,"November 7, 1993",New England Patriots,Buffalo Bills,"1-8, 0-4 Home","7-1, 3-0 Away",10,13,,,Final/OT,,10,6,0,0.625,314,12,4,0,0.75,420,,NFL
+9,131115023,1993,"November 15, 1993",Pittsburgh Steelers,Buffalo Bills,"6-3, 4-1 Home","7-2, 3-1 Away",23,0,,,Final,,10,6,0,0.625,314,12,4,0,0.75,420,,NFL
+10,131121002,1993,"November 21, 1993",Buffalo Bills,Indianapolis Colts,"8-2, 5-1 Home","3-7, 1-4 Away",23,9,,,Final,,10,6,0,0.625,314,12,4,0,0.75,420,,NFL
+11,131128012,1993,"November 28, 1993",Kansas City Chiefs,Buffalo Bills,"8-3, 5-1 Home","8-3, 3-2 Away",23,7,,,Final,,10,6,0,0.625,314,12,4,0,0.75,420,,NFL
+12,131205002,1993,"December 5, 1993",Buffalo Bills,Los Angeles Raiders,"8-4, 5-2 Home","7-5, 5-2 Away",24,25,,,Final,,10,6,0,0.625,314,12,4,0,0.75,420,,NFL
+13,131212021,1993,"December 12, 1993",Philadelphia Eagles,Buffalo Bills,"5-8, 2-5 Home","9-4, 4-2 Away",7,10,,,Final,,10,6,0,0.625,314,12,4,0,0.75,420,,NFL
+14,131219015,1993,"December 19, 1993",Miami Dolphins,Buffalo Bills,"9-5, 4-4 Home","10-4, 5-2 Away",34,47,,,Final,,10,6,0,0.625,314,12,4,0,0.75,420,,NFL
+15,131226002,1993,"December 26, 1993",Buffalo Bills,New York Jets,"11-4, 6-2 Home","8-7, 5-2 Away",16,14,,,Final,,10,6,0,0.625,314,12,4,0,0.75,420,,NFL
+16,140115002,1993,"January 15, 1994",Buffalo Bills,Los Angeles Raiders,"12-4, 6-2 Home","10-6, 5-3 Away",29,23,,,Final,,10,6,0,0.625,314,12,4,0,0.75,420,,NFL
+17,140102011,1993,"January 2, 1994",Indianapolis Colts,Buffalo Bills,"4-12, 2-6 Home","12-4, 6-2 Away",10,30,,,Final,,10,6,0,0.625,314,12,4,0,0.75,420,,NFL
+18,140130002,1993,"January 30, 1994",Buffalo Bills,Dallas Cowboys,"12-4, 6-2 Home","12-4, 6-2 Away",13,30,,,Final,,8,8,0,0.5,434,9,7,0,0.563,385,,NFL

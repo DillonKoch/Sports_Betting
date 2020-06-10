@@ -1,0 +1,83 @@
+,Unnamed: 0,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,0,211102011,2001,"Fri, Nov 2",Indiana Pacers,Orlando Magic,"2-1, 1-0 Home","1-1, 0-1 Away",117,107,,,Final,,39,24,23,31,,32,23,22,30,,NBA
+1,1,211105019,2001,"Mon, Nov 5",Orlando Magic,Seattle SuperSonics,"2-2, 1-1 Home","2-2, 1-1 Away",119,123,,,Final,,29,25,17,29,19.0,33,33,13,21,23.0,NBA
+2,2,211109019,2001,"Fri, Nov 9",Orlando Magic,Sacramento Kings,"3-3, 2-1 Home","4-2, 2-2 Away",115,105,,,Final,,28,33,27,27,,35,18,28,24,,NBA
+3,3,211112026,2001,"Mon, Nov 12",Utah Jazz,Orlando Magic,"3-5, 2-3 Home","3-5, 1-4 Away",105,98,,,Final,,24,21,26,34,,18,25,24,31,,NBA
+4,4,211115007,2001,"Thu, Nov 15",Denver Nuggets,Orlando Magic,"4-5, 3-3 Home","5-5, 3-4 Away",82,101,,,Final,,21,25,18,18,,26,26,24,25,,NBA
+5,5,211121019,2001,"Wed, Nov 21",Orlando Magic,Minnesota Timberwolves,"6-6, 3-1 Home","9-2, 4-1 Away",117,106,,,Final,,36,31,26,24,,31,25,28,22,,NBA
+6,6,211124019,2001,"Sat, Nov 24",Orlando Magic,Charlotte Hornets,"7-7, 3-2 Home","6-7, 4-3 Away",101,103,,,Final,,39,20,19,23,,34,27,15,27,,NBA
+7,7,211129019,2001,"Thu, Nov 29",Orlando Magic,Boston Celtics,"7-9, 3-4 Home","7-6, 3-3 Away",89,99,,,Final,,23,24,24,18,,24,31,24,20,,NBA
+8,8,211203019,2001,"Mon, Dec 3",Orlando Magic,Memphis Grizzlies,"9-9, 4-4 Home","4-13, 1-8 Away",113,71,,,Final,,25,37,29,22,,19,26,15,11,,NBA
+9,9,211207019,2001,"Fri, Dec 7",Orlando Magic,Atlanta Hawks,"11-9, 6-4 Home","6-14, 2-10 Away",129,94,,,Final,,36,34,28,31,,29,15,28,22,,NBA
+10,10,211210012,2001,"Mon, Dec 10",LA Clippers,Orlando Magic,"11-10, 11-5 Home","11-11, 5-7 Away",100,92,,,Final,,18,33,24,25,,27,24,25,16,,NBA
+11,11,211213009,2001,"Thu, Dec 13",Golden State Warriors,Orlando Magic,"8-15, 4-6 Home","12-12, 6-8 Away",100,105,,,Final,,27,22,23,28,,25,35,20,25,,NBA
+12,12,211216025,2001,"Sun, Dec 16",Seattle SuperSonics,Orlando Magic,"11-15, 7-5 Home","12-14, 6-10 Away",114,91,,,Final,,34,21,28,31,,18,30,24,19,,NBA
+13,13,211221019,2001,"Fri, Dec 21",Orlando Magic,Washington Wizards,"13-15, 7-5 Home","13-12, 8-6 Away",75,93,,,Final,,18,42,0,15,,25,39,0,29,,NBA
+14,14,211226019,2001,"Wed, Dec 26",Orlando Magic,Indiana Pacers,"13-17, 7-6 Home","17-13, 7-9 Away",82,89,,,Final,,20,24,18,20,,25,17,22,25,,NBA
+15,15,211230018,2001,"Sun, Dec 30",New York Knicks,Orlando Magic,"13-17, 9-7 Home","15-17, 7-11 Away",90,94,,,Final,,26,23,26,15,,27,16,20,31,,NBA
+16,16,220104017,2001,"Fri, Jan 4",New Jersey Nets,Orlando Magic,"20-11, 11-4 Home","16-18, 8-12 Away",96,109,,,Final,,30,28,14,24,,35,18,29,27,,NBA
+17,17,220107019,2001,"Mon, Jan 7",Orlando Magic,Boston Celtics,"18-18, 10-6 Home","20-13, 9-9 Away",98,87,,,Final,,22,26,26,24,,22,29,16,20,,NBA
+18,18,220111019,2001,"Fri, Jan 11",Orlando Magic,Portland Trail Blazers,"19-19, 10-7 Home","17-19, 7-12 Away",84,92,,,Final,,24,25,15,20,,27,27,17,21,,NBA
+19,19,220114019,2001,"Mon, Jan 14",Orlando Magic,Dallas Mavericks,"20-20, 11-8 Home","25-12, 10-7 Away",113,87,,,Final,,25,36,33,19,,23,31,9,24,,NBA
+20,20,220119029,2001,"Sat, Jan 19",Memphis Grizzlies,Orlando Magic,"12-27, 7-13 Home","21-21, 10-13 Away",103,119,,,Final,,17,27,35,24,,41,28,27,23,,NBA
+21,21,220124019,2001,"Thu, Jan 24",Orlando Magic,Miami Heat,"23-21, 13-8 Home","14-27, 8-14 Away",92,87,,,Final,,25,19,24,24,,29,22,16,20,,NBA
+22,22,220130019,2001,"Wed, Jan 30",Orlando Magic,Los Angeles Lakers,"23-23, 13-9 Home","31-12, 13-8 Away",93,111,,,Final,,25,26,26,16,,21,26,28,36,,NBA
+23,23,220203019,2001,"Sun, Feb 3",Orlando Magic,San Antonio Spurs,"24-24, 13-10 Home","30-16, 14-8 Away",98,105,,,Final,,22,18,27,23,8.0,21,23,22,21,18.0,NBA
+24,24,220212019,2001,"Tue, Feb 12",Orlando Magic,New York Knicks,"26-24, 15-10 Home","19-29, 6-17 Away",122,114,,,Final,,33,27,38,24,,26,33,26,29,,NBA
+25,25,220216010,2001,"Sat, Feb 16",Houston Rockets,Orlando Magic,"17-34, 12-15 Home","27-25, 12-15 Away",100,109,,,Final,,25,23,29,23,,42,25,21,21,,NBA
+26,26,220223019,2001,"Sat, Feb 23",Orlando Magic,Philadelphia 76ers,"29-25, 17-10 Home","27-27, 13-17 Away",105,87,,,Final,,28,28,26,23,,20,20,20,27,,NBA
+27,27,220226004,2001,"Tue, Feb 26",Chicago Bulls,Orlando Magic,"15-41, 12-17 Home","30-26, 13-16 Away",97,112,,,Final,,28,23,17,29,,38,26,26,22,,NBA
+28,28,220301008,2001,"Fri, Mar 1",Detroit Pistons,Orlando Magic,"33-23, 20-8 Home","31-27, 14-17 Away",110,102,,,Final,,23,25,28,34,,31,20,22,29,,NBA
+29,29,220305011,2001,"Tue, Mar 5",Indiana Pacers,Orlando Magic,"30-30, 18-12 Home","31-29, 14-19 Away",111,98,,,Final,,26,30,26,29,,23,26,20,29,,NBA
+30,30,220308019,2001,"Fri, Mar 8",Orlando Magic,Washington Wizards,"32-30, 18-10 Home","29-32, 12-17 Away",99,96,,,Final,,32,27,19,21,,23,24,26,23,,NBA
+31,31,220313019,2001,"Wed, Mar 13",Orlando Magic,Phoenix Suns,"34-30, 20-10 Home","30-35, 11-20 Away",119,114,,,Final/OT,,28,34,24,23,10.0,22,31,29,27,5.0,NBA
+32,32,220317020,2001,"Sun, Mar 17",Philadelphia 76ers,Orlando Magic,"34-31, 18-14 Home","36-30, 15-20 Away",103,105,,,Final,,30,24,23,26,,29,26,26,24,,NBA
+33,33,220322019,2001,"Fri, Mar 22",Orlando Magic,Charlotte Hornets,"37-31, 22-11 Home","35-33, 19-15 Away",92,106,,,Final,,21,26,25,20,,31,20,32,23,,NBA
+34,34,220326019,2001,"Tue, Mar 26",Orlando Magic,Chicago Bulls,"38-32, 23-11 Home","17-54, 4-31 Away",96,82,,,Final,,24,26,22,24,,21,25,15,21,,NBA
+35,35,220329019,2001,"Fri, Mar 29",Orlando Magic,Indiana Pacers,"39-33, 24-11 Home","35-36, 15-22 Away",114,106,,,Final,,26,30,35,23,,27,24,18,37,,NBA
+36,36,220404019,2001,"Thu, Apr 4",Orlando Magic,Cleveland Cavaliers,"41-33, 26-11 Home","26-49, 8-29 Away",105,101,,,Final,,22,24,23,36,,22,30,25,24,,NBA
+37,37,220408019,2001,"Mon, Apr 8",Orlando Magic,Houston Rockets,"42-34, 27-11 Home","27-49, 9-28 Away",83,74,,,Final,,22,16,19,26,,12,17,22,23,,NBA
+38,38,220411019,2001,"Thu, Apr 11",Orlando Magic,New Jersey Nets,"43-35, 27-12 Home","51-28, 18-21 Away",99,101,,,Final/OT,,27,20,24,19,9.0,28,18,19,25,11.0,NBA
+39,39,220414019,2001,"Sun, Apr 14",Orlando Magic,Philadelphia 76ers,"43-37, 27-13 Home","43-37, 21-19 Away",89,95,,,Final,,22,19,28,20,,16,33,22,24,,NBA
+40,40,211030019,2001,"Tue, Oct 30",Orlando Magic,Toronto Raptors,"1-0, 1-0 Home","0-1, 0-1 Away",114,85,,,Final,,31,24,31,28,,22,25,15,23,,NBA
+41,41,211103005,2001,"Sat, Nov 3",Cleveland Cavaliers,Orlando Magic,"1-3, 0-2 Home","2-1, 1-1 Away",69,99,,,Final,,15,18,18,18,,24,31,19,25,,NBA
+42,42,211106024,2001,"Tue, Nov 6",San Antonio Spurs,Orlando Magic,"3-2, 2-0 Home","2-3, 1-2 Away",104,89,,,Final,,21,33,25,25,,17,31,20,21,,NBA
+43,43,211111013,2001,"Sun, Nov 11",Los Angeles Lakers,Orlando Magic,"6-0, 5-0 Home","3-4, 1-3 Away",108,95,,,Final,,27,32,22,27,,31,22,24,18,,NBA
+44,44,211114021,2001,"Wed, Nov 14",Phoenix Suns,Orlando Magic,"4-5, 2-3 Home","4-5, 2-4 Away",92,93,,,Final,,22,26,28,16,,28,23,24,18,,NBA
+45,45,211117016,2001,"Sat, Nov 17",Minnesota Timberwolves,Orlando Magic,"8-1, 5-1 Home","5-6, 3-5 Away",103,95,,,Final,,24,20,31,28,,22,27,12,34,,NBA
+46,46,211123003,2001,"Fri, Nov 23",Charlotte Hornets,Orlando Magic,"5-7, 2-4 Home","7-6, 4-5 Away",99,109,,,Final,,21,25,28,25,,34,31,26,18,,NBA
+47,47,211126019,2001,"Mon, Nov 26",Orlando Magic,Detroit Pistons,"7-8, 3-3 Home","9-4, 4-3 Away",100,105,,,Final,,22,27,20,31,,25,18,23,39,,NBA
+48,48,211201027,2001,"Sat, Dec 1",Washington Wizards,Orlando Magic,"5-11, 2-6 Home","8-9, 5-5 Away",87,96,,,Final,,18,21,22,26,,21,29,22,24,,NBA
+49,49,211205019,2001,"Wed, Dec 5",Orlando Magic,Chicago Bulls,"10-9, 5-4 Home","3-14, 0-10 Away",102,74,,,Final,,33,24,29,16,,17,23,18,16,,NBA
+50,50,211208001,2001,"Sat, Dec 8",Atlanta Hawks,Orlando Magic,"7-14, 5-4 Home","11-10, 5-6 Away",107,104,,,Final,,22,28,29,28,,34,25,22,23,,NBA
+51,51,211211023,2001,"Tue, Dec 11",Sacramento Kings,Orlando Magic,"17-5, 11-1 Home","11-12, 5-8 Away",112,100,,,Final,,25,30,30,27,,26,20,28,26,,NBA
+52,52,211215022,2001,"Sat, Dec 15",Portland Trail Blazers,Orlando Magic,"11-11, 8-4 Home","12-13, 6-9 Away",117,106,,,Final,,30,22,30,35,,16,28,32,30,,NBA
+53,53,211219019,2001,"Wed, Dec 19",Orlando Magic,Utah Jazz,"13-14, 7-4 Home","12-14, 4-7 Away",98,90,,,Final,,22,15,22,39,,19,13,29,29,,NBA
+54,54,211222006,2001,"Sat, Dec 22",Dallas Mavericks,Orlando Magic,"18-9, 10-4 Home","13-16, 6-11 Away",102,80,,,Final,,24,34,20,24,,21,20,17,22,,NBA
+55,55,211228019,2001,"Fri, Dec 28",Orlando Magic,Detroit Pistons,"14-17, 8-6 Home","14-13, 6-10 Away",87,78,,,Final,,20,22,20,25,,13,17,27,21,,NBA
+56,56,220102002,2001,"Wed, Jan 2",Boston Celtics,Orlando Magic,"19-11, 11-3 Home","15-18, 7-12 Away",110,94,,,Final,,24,42,17,27,,22,28,12,32,,NBA
+57,57,220105019,2001,"Sat, Jan 5",Orlando Magic,Golden State Warriors,"17-18, 9-6 Home","12-21, 5-13 Away",118,109,,,Final,,39,29,20,30,,23,34,27,25,,NBA
+58,58,220109020,2001,"Wed, Jan 9",Philadelphia 76ers,Orlando Magic,"15-20, 7-7 Home","19-18, 9-12 Away",91,102,,,Final,CSN,24,19,24,24,,27,22,24,29,,NBA
+59,59,220112019,2001,"Sat, Jan 12",Orlando Magic,New Jersey Nets,"19-20, 10-8 Home","24-11, 11-7 Away",85,91,,,Final,,17,25,22,21,,22,25,22,22,,NBA
+60,60,220118015,2001,"Fri, Jan 18",Milwaukee Bucks,Orlando Magic,"24-13, 13-2 Home","20-21, 9-13 Away",115,110,,,Final,,27,23,23,42,,27,28,28,27,,NBA
+61,61,220122019,2001,"Tue, Jan 22",Orlando Magic,Atlanta Hawks,"22-21, 12-8 Home","14-27, 4-17 Away",100,86,,,Final,,19,28,28,25,,24,17,20,25,,NBA
+62,62,220127028,2001,"Sun, Jan 27",Toronto Raptors,Orlando Magic,"26-19, 14-8 Home","23-22, 10-14 Away",106,97,,,Final,,34,27,20,25,,16,30,21,30,,NBA
+63,63,220201008,2001,"Fri, Feb 1",Detroit Pistons,Orlando Magic,"23-21, 14-7 Home","24-23, 11-14 Away",83,85,,,Final,,24,23,16,20,,22,17,26,20,,NBA
+64,64,220205019,2001,"Tue, Feb 5",Orlando Magic,Cleveland Cavaliers,"25-24, 14-10 Home","14-33, 4-20 Away",106,98,,,Final,,33,21,24,28,,26,18,26,28,,NBA
+65,65,220213014,2001,"Wed, Feb 13",Miami Heat,Orlando Magic,"19-29, 9-14 Home","26-25, 11-15 Away",112,95,,,Final,,31,25,24,32,,26,17,29,23,,NBA
+66,66,220221019,2001,"Thu, Feb 21",Orlando Magic,LA Clippers,"28-25, 16-10 Home","27-29, 7-19 Away",119,102,,,Final,,34,24,32,29,,27,19,23,33,,NBA
+67,67,220224005,2001,"Sun, Feb 24",Cleveland Cavaliers,Orlando Magic,"20-35, 13-15 Home","29-26, 12-16 Away",111,96,,,Final,,33,18,33,27,,27,28,19,22,,NBA
+68,68,220227028,2001,"Wed, Feb 27",Toronto Raptors,Orlando Magic,"29-30, 16-14 Home","31-26, 14-16 Away",85,90,,,Final,,20,27,26,12,,27,19,24,20,,NBA
+69,69,220303027,2001,"Sun, Mar 3",Washington Wizards,Orlando Magic,"28-30, 16-14 Home","31-28, 14-18 Away",107,102,,,Final/OT,,23,26,25,21,12.0,18,21,34,22,7.0,NBA
+70,70,220306002,2001,"Wed, Mar 6",Boston Celtics,Orlando Magic,"33-27, 17-11 Home","31-30, 14-20 Away",130,110,,,Final,,39,25,40,26,,25,29,28,28,,NBA
+71,71,220310019,2001,"Sun, Mar 10",Orlando Magic,Toronto Raptors,"33-30, 19-10 Home","30-35, 14-19 Away",92,79,,,Final,,24,25,28,15,,18,26,21,14,,NBA
+72,72,220315019,2001,"Fri, Mar 15",Orlando Magic,Denver Nuggets,"35-30, 21-10 Home","19-43, 5-24 Away",124,102,,,Final,,33,31,29,31,,26,32,25,19,,NBA
+73,73,220319019,2001,"Tue, Mar 19",Orlando Magic,Milwaukee Bucks,"37-30, 22-10 Home","36-30, 16-16 Away",101,91,,,Final,,33,21,26,21,,23,15,28,25,,NBA
+74,74,220324015,2001,"Sun, Mar 24",Milwaukee Bucks,Orlando Magic,"37-31, 21-14 Home","37-32, 15-21 Away",110,85,,,Final,,31,26,36,17,,19,25,25,16,,NBA
+75,75,220327003,2001,"Wed, Mar 27",Charlotte Hornets,Orlando Magic,"37-33, 17-18 Home","38-33, 15-22 Away",111,104,,,Final,,36,22,21,32,,27,25,21,31,,NBA
+76,76,220331019,2001,"Sun, Mar 31",Orlando Magic,New York Knicks,"40-33, 25-11 Home","27-45, 9-26 Away",97,90,,,Final,,23,18,33,23,,24,26,21,19,,NBA
+77,77,220405017,2001,"Fri, Apr 5",New Jersey Nets,Orlando Magic,"49-27, 32-6 Home","41-34, 15-23 Away",110,85,,,Final,,27,30,24,29,,19,19,22,25,,NBA
+78,78,220409018,2001,"Tue, Apr 9",New York Knicks,Orlando Magic,"29-48, 19-20 Home","43-34, 16-23 Away",97,108,,,Final,,24,25,22,26,,27,29,31,21,,NBA
+79,79,220412014,2001,"Fri, Apr 12",Miami Heat,Orlando Magic,"35-44, 18-21 Home","43-36, 16-24 Away",99,94,,,Final,,20,31,17,31,,30,22,20,22,,NBA
+80,80,220416001,2001,"Tue, Apr 16",Atlanta Hawks,Orlando Magic,"33-48, 23-18 Home","44-37, 17-24 Away",95,102,,,Final,,25,23,15,32,,28,22,24,28,,NBA
+81,81,220417019,2001,"Wed, Apr 17",Orlando Magic,Miami Heat,"44-38, 27-14 Home","36-46, 18-23 Away",89,103,,,Final,,31,15,21,22,,27,34,16,26,,NBA

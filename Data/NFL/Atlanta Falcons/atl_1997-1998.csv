@@ -1,17 +1,17 @@
-ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
-170831008,1997,"August 31, 1997",Detroit Lions,Atlanta Falcons,"1-0, 1-0 Home","0-1, 0-1 Away",28,17,NULL,NULL,Final,NULL,11,5,0,.688,405,13,3,0,.813,479,,NFL
-170907001,1997,"September 7, 1997",Atlanta Falcons,Carolina Panthers,"0-2, 0-1 Home","1-1, 1-0 Away",6,9,NULL,NULL,Final,NULL,11,5,0,.688,405,13,3,0,.813,479,,NFL
-170914001,1997,"September 14, 1997",Atlanta Falcons,Oakland Raiders,"0-3, 0-2 Home","1-2, 1-1 Away",31,36,NULL,NULL,Final,NULL,11,5,0,.688,405,13,3,0,.813,479,,NFL
-170921025,1997,"September 21, 1997",San Francisco 49ers,Atlanta Falcons,"3-1, 2-0 Home","0-4, 0-2 Away",34,7,NULL,NULL,Final,NULL,11,5,0,.688,405,13,3,0,.813,479,,NFL
-170928001,1997,"September 28, 1997",Atlanta Falcons,Denver Broncos,"0-5, 0-3 Home","5-0, 2-0 Away",21,29,NULL,NULL,Final,NULL,7,9,0,.438,282,12,4,0,.750,451,,NFL
-171012018,1997,"October 12, 1997",New Orleans Saints,Atlanta Falcons,"2-5, 1-2 Home","1-5, 1-2 Away",17,23,NULL,NULL,Final,NULL,11,5,0,.688,405,13,3,0,.813,479,,NFL
-171019001,1997,"October 19, 1997",Atlanta Falcons,San Francisco 49ers,"1-6, 0-4 Home","6-1, 3-1 Away",28,35,NULL,NULL,Final,NULL,11,5,0,.688,405,13,3,0,.813,479,,NFL
-171026029,1997,"October 26, 1997",Carolina Panthers,Atlanta Falcons,"4-4, 1-3 Home","1-7, 1-3 Away",21,12,NULL,NULL,Final,NULL,11,5,0,.688,405,13,3,0,.813,479,,NFL
-171102001,1997,"November 2, 1997",Atlanta Falcons,St. Louis Rams,"2-7, 1-4 Home","2-7, 0-4 Away",34,31,NULL,NULL,Final,NULL,11,5,0,.688,405,13,3,0,.813,479,,NFL
-171109001,1997,"November 9, 1997",Atlanta Falcons,Tampa Bay Buccaneers,"2-8, 1-5 Home","7-3, 4-1 Away",10,31,NULL,NULL,Final,NULL,11,5,0,.688,405,13,3,0,.813,479,,NFL
-171116014,1997,"November 16, 1997",St. Louis Rams,Atlanta Falcons,"2-9, 2-4 Home","3-8, 2-3 Away",21,27,NULL,NULL,Final,NULL,11,5,0,.688,405,13,3,0,.813,479,,NFL
-171123001,1997,"November 23, 1997",Atlanta Falcons,New Orleans Saints,"4-8, 2-5 Home","4-8, 2-4 Away",20,3,NULL,NULL,Final,NULL,11,5,0,.688,405,13,3,0,.813,479,,NFL
-171130026,1997,"November 30, 1997",Seattle Seahawks,Atlanta Falcons,"6-7, 3-4 Home","5-8, 3-3 Away",17,24,NULL,NULL,Final,NULL,11,5,0,.688,405,13,3,0,.813,479,,NFL
-171207024,1997,"December 7, 1997",San Diego Chargers,Atlanta Falcons,"4-10, 2-5 Home","6-8, 4-3 Away",3,14,NULL,NULL,Final,NULL,11,5,0,.688,405,13,3,0,.813,479,,NFL
-171214001,1997,"December 14, 1997",Atlanta Falcons,Philadelphia Eagles,"7-8, 3-5 Home","6-8-1, 0-6-1 Away",20,17,NULL,NULL,Final,NULL,8,8,0,.500,434,9,7,0,.563,385,,NFL
-171221022,1997,"December 21, 1997",Arizona Cardinals,Atlanta Falcons,"4-12, 3-5 Home","7-9, 4-4 Away",29,26,NULL,NULL,Final,NULL,11,5,0,.688,405,13,3,0,.813,479,,NFL
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
+0,170831008,1997,"August 31, 1997",Detroit Lions,Atlanta Falcons,"1-0, 1-0 Home","0-1, 0-1 Away",28,17,,,Final,,11,5,0,0.688,405,13,3,0,0.813,479,,NFL
+1,170907001,1997,"September 7, 1997",Atlanta Falcons,Carolina Panthers,"0-2, 0-1 Home","1-1, 1-0 Away",6,9,,,Final,,11,5,0,0.688,405,13,3,0,0.813,479,,NFL
+2,170914001,1997,"September 14, 1997",Atlanta Falcons,Oakland Raiders,"0-3, 0-2 Home","1-2, 1-1 Away",31,36,,,Final,,11,5,0,0.688,405,13,3,0,0.813,479,,NFL
+3,170921025,1997,"September 21, 1997",San Francisco 49ers,Atlanta Falcons,"3-1, 2-0 Home","0-4, 0-2 Away",34,7,,,Final,,11,5,0,0.688,405,13,3,0,0.813,479,,NFL
+4,170928001,1997,"September 28, 1997",Atlanta Falcons,Denver Broncos,"0-5, 0-3 Home","5-0, 2-0 Away",21,29,,,Final,,7,9,0,0.43799999999999994,282,12,4,0,0.75,451,,NFL
+5,171012018,1997,"October 12, 1997",New Orleans Saints,Atlanta Falcons,"2-5, 1-2 Home","1-5, 1-2 Away",17,23,,,Final,,11,5,0,0.688,405,13,3,0,0.813,479,,NFL
+6,171019001,1997,"October 19, 1997",Atlanta Falcons,San Francisco 49ers,"1-6, 0-4 Home","6-1, 3-1 Away",28,35,,,Final,,11,5,0,0.688,405,13,3,0,0.813,479,,NFL
+7,171026029,1997,"October 26, 1997",Carolina Panthers,Atlanta Falcons,"4-4, 1-3 Home","1-7, 1-3 Away",21,12,,,Final,,11,5,0,0.688,405,13,3,0,0.813,479,,NFL
+8,171102001,1997,"November 2, 1997",Atlanta Falcons,St. Louis Rams,"2-7, 1-4 Home","2-7, 0-4 Away",34,31,,,Final,,11,5,0,0.688,405,13,3,0,0.813,479,,NFL
+9,171109001,1997,"November 9, 1997",Atlanta Falcons,Tampa Bay Buccaneers,"2-8, 1-5 Home","7-3, 4-1 Away",10,31,,,Final,,11,5,0,0.688,405,13,3,0,0.813,479,,NFL
+10,171116014,1997,"November 16, 1997",St. Louis Rams,Atlanta Falcons,"2-9, 2-4 Home","3-8, 2-3 Away",21,27,,,Final,,11,5,0,0.688,405,13,3,0,0.813,479,,NFL
+11,171123001,1997,"November 23, 1997",Atlanta Falcons,New Orleans Saints,"4-8, 2-5 Home","4-8, 2-4 Away",20,3,,,Final,,11,5,0,0.688,405,13,3,0,0.813,479,,NFL
+12,171130026,1997,"November 30, 1997",Seattle Seahawks,Atlanta Falcons,"6-7, 3-4 Home","5-8, 3-3 Away",17,24,,,Final,,11,5,0,0.688,405,13,3,0,0.813,479,,NFL
+13,171207024,1997,"December 7, 1997",San Diego Chargers,Atlanta Falcons,"4-10, 2-5 Home","6-8, 4-3 Away",3,14,,,Final,,11,5,0,0.688,405,13,3,0,0.813,479,,NFL
+14,171214001,1997,"December 14, 1997",Atlanta Falcons,Philadelphia Eagles,"7-8, 3-5 Home","6-8-1, 0-6-1 Away",20,17,,,Final,,8,8,0,0.5,434,9,7,0,0.563,385,,NFL
+15,171221022,1997,"December 21, 1997",Arizona Cardinals,Atlanta Falcons,"4-12, 3-5 Home","7-9, 4-4 Away",29,26,,,Final,,11,5,0,0.688,405,13,3,0,0.813,479,,NFL

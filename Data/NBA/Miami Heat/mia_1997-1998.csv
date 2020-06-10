@@ -1,0 +1,83 @@
+,Unnamed: 0,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,0,171101027,1997,"Sat, Nov 1",Washington Wizards,Miami Heat,"0-2, 0-1 Home","2-0, 1-0 Away",108,109,,,Final,,24,30,26,28,,30,32,25,22,,NBA
+1,1,171105002,1997,"Wed, Nov 5",Boston Celtics,Miami Heat,"1-3, 1-2 Home","3-1, 2-0 Away",74,90,,,Final,,18,13,25,18,,22,25,21,22,,NBA
+2,2,171108014,1997,"Sat, Nov 8",Miami Heat,Washington Wizards,"4-2, 2-1 Home","2-4, 2-2 Away",114,106,,,Final,,31,23,31,29,,29,31,25,21,,NBA
+3,3,171114011,1997,"Fri, Nov 14",Indiana Pacers,Miami Heat,"3-5, 2-2 Home","5-3, 2-2 Away",82,78,,,Final,,28,15,22,17,,20,18,12,28,,NBA
+4,4,171119014,1997,"Wed, Nov 19",Miami Heat,Los Angeles Clippers,"7-3, 5-1 Home","1-10, 1-6 Away",122,113,,,Final,,45,30,29,18,,20,35,30,28,,NBA
+5,5,171122014,1997,"Sat, Nov 22",Miami Heat,Toronto Raptors,"8-4, 6-1 Home","1-11, 0-6 Away",108,104,,,Final,,26,20,24,38,,29,22,22,31,,NBA
+6,6,171126019,1997,"Wed, Nov 26",Orlando Magic,Miami Heat,"9-5, 4-3 Home","10-4, 3-3 Away",60,84,,,Final,,19,12,17,12,,23,33,16,12,,NBA
+7,7,171203014,1997,"Wed, Dec 3",Miami Heat,Philadelphia 76ers,"11-5, 8-2 Home","4-10, 2-4 Away",94,90,,,Final,,26,23,23,22,,17,26,29,18,,NBA
+8,8,171208014,1997,"Mon, Dec 8",Miami Heat,New Jersey Nets,"13-5, 10-2 Home","11-8, 5-6 Away",105,97,,,Final,,31,22,23,29,,17,31,18,31,,NBA
+9,9,171212011,1997,"Fri, Dec 12",Indiana Pacers,Miami Heat,"12-8, 6-3 Home","14-6, 4-4 Away",104,89,,,Final,,24,23,32,25,,29,17,24,19,,NBA
+10,10,171216014,1997,"Tue, Dec 16",Miami Heat,Utah Jazz,"15-7, 10-3 Home","14-9, 4-7 Away",95,103,,,Final,,27,24,17,27,,25,28,29,21,,NBA
+11,11,171219020,1997,"Fri, Dec 19",Philadelphia 76ers,Miami Heat,"6-17, 4-9 Home","16-8, 6-5 Away",84,91,,,Final,,24,21,19,20,,26,25,18,22,,NBA
+12,12,171225004,1997,"Thu, Dec 25",Chicago Bulls,Miami Heat,"18-9, 13-1 Home","17-9, 6-6 Away",90,80,,,Final,,14,28,27,21,,21,15,28,16,,NBA
+13,13,171228014,1997,"Sun, Dec 28",Miami Heat,Indiana Pacers,"19-9, 12-3 Home","18-10, 8-7 Away",101,90,,,Final,,18,31,28,24,,20,25,24,21,,NBA
+14,14,180102003,1997,"Fri, Jan 2",Charlotte Hornets,Miami Heat,"19-11, 13-3 Home","20-10, 8-7 Away",99,88,,,Final/OT,,20,17,26,21,15.0,23,21,18,22,4.0,NBA
+15,15,180107014,1997,"Wed, Jan 7",Miami Heat,Chicago Bulls,"21-11, 13-4 Home","23-11, 6-10 Away",99,72,,,Final,,20,32,28,19,,28,13,13,18,,NBA
+16,16,180111029,1997,"Sun, Jan 11",Vancouver Grizzlies,Miami Heat,"10-27, 8-12 Home","23-11, 10-7 Away",90,96,,,Final,,22,18,24,26,,23,32,24,17,,NBA
+17,17,180115025,1997,"Thu, Jan 15",Seattle SuperSonics,Miami Heat,"30-8, 15-2 Home","24-12, 11-8 Away",103,85,,,Final,,28,21,26,28,,21,20,23,21,,NBA
+18,18,180118021,1997,"Sun, Jan 18",Phoenix Suns,Miami Heat,"24-12, 15-5 Home","24-14, 11-10 Away",96,87,,,Final,,31,26,20,19,,15,23,21,28,,NBA
+19,19,180123014,1997,"Fri, Jan 23",Miami Heat,Orlando Magic,"26-14, 15-4 Home","20-23, 11-13 Away",102,90,,,Final,,28,25,17,32,,16,23,22,29,,NBA
+20,20,180128014,1997,"Wed, Jan 28",Miami Heat,New York Knicks,"27-15, 16-5 Home","24-18, 9-13 Away",86,82,,,Final,,23,20,20,23,,25,13,29,15,,NBA
+21,21,180201018,1997,"Sun, Feb 1",New York Knicks,Miami Heat,"25-19, 16-6 Home","27-17, 11-11 Away",89,83,,,Final,,22,23,21,23,,18,23,23,19,,NBA
+22,22,180204020,1997,"Wed, Feb 4",Philadelphia 76ers,Miami Heat,"14-31, 9-14 Home","29-17, 12-11 Away",84,98,,,Final,,19,20,28,17,,28,31,22,17,,NBA
+23,23,180210005,1997,"Tue, Feb 10",Cleveland Cavaliers,Miami Heat,"27-21, 14-11 Home","31-17, 14-11 Away",81,91,,,Final,,14,19,28,20,,23,24,25,19,,NBA
+24,24,180213014,1997,"Fri, Feb 13",Miami Heat,Detroit Pistons,"32-18, 18-7 Home","23-26, 7-16 Away",100,86,,,Final,,29,15,27,29,,17,22,22,25,,NBA
+25,25,180217014,1997,"Tue, Feb 17",Miami Heat,Minnesota Timberwolves,"34-18, 19-7 Home","28-22, 12-12 Away",110,84,,,Final,,24,29,27,30,,18,15,24,27,,NBA
+26,26,180220023,1997,"Fri, Feb 20",Sacramento Kings,Miami Heat,"24-30, 19-10 Home","36-18, 17-11 Away",77,91,,,Final,,21,18,16,22,,28,24,19,20,,NBA
+27,27,180224026,1997,"Tue, Feb 24",Utah Jazz,Miami Heat,"37-16, 24-5 Home","38-18, 19-11 Away",102,104,,,Final,,23,27,17,35,,27,26,24,27,,NBA
+28,28,180228017,1997,"Sat, Feb 28",New Jersey Nets,Miami Heat,"33-25, 21-9 Home","40-18, 20-11 Away",93,95,,,Final,TSNT,33,19,26,15,,23,17,23,32,,NBA
+29,29,180303014,1997,"Tue, Mar 3",Miami Heat,Seattle SuperSonics,"41-19, 21-8 Home","45-13, 21-9 Away",91,97,,,Final/OT,,28,25,17,13,8.0,25,25,16,17,14.0,NBA
+30,30,180307006,1997,"Sat, Mar 7",Dallas Mavericks,Miami Heat,"13-48, 8-22 Home","43-19, 22-11 Away",88,94,,,Final,,19,23,16,30,,22,27,24,21,,NBA
+31,31,180312014,1997,"Thu, Mar 12",Miami Heat,Cleveland Cavaliers,"44-20, 22-8 Home","33-30, 15-18 Away",97,74,,,Final,,30,23,18,26,,17,15,13,29,,NBA
+32,32,180316014,1997,"Mon, Mar 16",Miami Heat,Detroit Pistons,"45-21, 22-9 Home","30-35, 10-23 Away",90,103,,,Final,,20,22,24,24,,22,25,27,29,,NBA
+33,33,180320014,1997,"Fri, Mar 20",Miami Heat,Golden State Warriors,"47-21, 24-9 Home","14-53, 5-31 Away",93,87,,,Final,,30,14,23,26,,17,25,21,24,,NBA
+34,34,180325002,1997,"Wed, Mar 25",Boston Celtics,Miami Heat,"30-39, 21-14 Home","49-21, 24-12 Away",91,105,,,Final,,28,21,25,17,,22,32,27,24,,NBA
+35,35,180329014,1997,"Sun, Mar 29",Miami Heat,Houston Rockets,"51-21, 27-9 Home","37-34, 14-21 Away",109,77,,,Final,,28,14,26,41,,26,13,19,19,,NBA
+36,36,180402024,1997,"Thu, Apr 2",San Antonio Spurs,Miami Heat,"51-23, 28-8 Home","52-22, 24-13 Away",103,89,,,Final,,28,23,21,31,,25,20,19,25,,NBA
+37,37,180407016,1997,"Tue, Apr 7",Minnesota Timberwolves,Miami Heat,"40-36, 23-15 Home","53-23, 24-14 Away",92,89,,,Final,,28,25,19,20,,29,23,21,16,,NBA
+38,38,180410028,1997,"Fri, Apr 10",Toronto Raptors,Miami Heat,"15-62, 9-30 Home","54-24, 25-15 Away",105,111,,,Final/OT,,28,27,18,25,7.0,22,26,23,27,13.0,NBA
+39,39,180415014,1997,"Wed, Apr 15",Miami Heat,Orlando Magic,"55-25, 30-10 Home","40-40, 17-23 Away",87,99,,,Final,,24,29,19,15,,23,30,25,21,,NBA
+40,40,171031014,1997,"Fri, Oct 31",Miami Heat,Toronto Raptors,"1-0, 1-0 Home","0-1, 0-1 Away",114,101,,,Final,,33,25,26,30,,27,26,27,21,,NBA
+41,41,171103014,1997,"Mon, Nov 3",Miami Heat,Charlotte Hornets,"2-1, 1-1 Home","1-2, 1-1 Away",99,112,,,Final,,20,17,28,34,,32,22,22,36,,NBA
+42,42,171107017,1997,"Fri, Nov 7",New Jersey Nets,Miami Heat,"4-0, 3-0 Home","3-2, 2-1 Away",99,87,,,Final,,17,28,28,26,,28,21,16,22,,NBA
+43,43,171111014,1997,"Tue, Nov 11",Miami Heat,Sacramento Kings,"5-2, 3-1 Home","1-5, 0-2 Away",101,82,,,Final,,26,32,13,30,,17,22,19,24,,NBA
+44,44,171115014,1997,"Sat, Nov 15",Miami Heat,Denver Nuggets,"6-3, 4-1 Home","0-8, 0-5 Away",96,93,,,Final,,20,24,32,20,,21,23,20,29,,NBA
+45,45,171121003,1997,"Fri, Nov 21",Charlotte Hornets,Miami Heat,"7-3, 5-1 Home","7-4, 2-3 Away",119,102,,,Final,,28,26,25,40,,32,24,27,19,,NBA
+46,46,171125014,1997,"Tue, Nov 25",Miami Heat,Los Angeles Lakers,"9-4, 7-1 Home","11-1, 5-1 Away",103,86,,,Final,,23,26,25,29,,22,29,15,20,,NBA
+47,47,171129014,1997,"Sat, Nov 29",Miami Heat,Milwaukee Bucks,"10-5, 7-2 Home","9-6, 4-4 Away",87,93,,,Final,,38,20,16,13,,26,23,19,25,,NBA
+48,48,171205014,1997,"Fri, Dec 5",Miami Heat,Boston Celtics,"12-5, 9-2 Home","7-11, 2-5 Away",117,97,,,Final,,29,30,32,26,,24,17,28,28,,NBA
+49,49,171209001,1997,"Tue, Dec 9",Atlanta Hawks,Miami Heat,"15-4, 9-2 Home","14-5, 4-3 Away",81,97,,,Final,,17,20,29,15,,21,26,24,26,,NBA
+50,50,171213015,1997,"Sat, Dec 13",Milwaukee Bucks,Miami Heat,"11-11, 7-5 Home","15-6, 5-4 Away",84,87,,,Final,,28,13,25,18,,25,15,29,18,,NBA
+51,51,171217027,1997,"Wed, Dec 17",Washington Wizards,Miami Heat,"11-14, 6-5 Home","15-8, 5-5 Away",88,74,,,Final,,32,16,21,19,,12,20,21,21,,NBA
+52,52,171220014,1997,"Sat, Dec 20",Miami Heat,Atlanta Hawks,"17-8, 11-3 Home","19-7, 9-4 Away",99,92,,,Final,,27,22,29,21,,25,24,18,25,,NBA
+53,53,171226008,1997,"Fri, Dec 26",Detroit Pistons,Miami Heat,"13-16, 9-6 Home","18-9, 7-6 Away",74,88,,,Final,,21,17,15,21,,19,30,20,19,,NBA
+54,54,171230005,1997,"Tue, Dec 30",Cleveland Cavaliers,Miami Heat,"17-11, 8-6 Home","20-9, 8-6 Away",78,90,,,Final,,14,29,19,16,,18,31,22,19,,NBA
+55,55,180103014,1997,"Sat, Jan 3",Miami Heat,San Antonio Spurs,"20-11, 12-4 Home","20-11, 7-8 Away",77,84,,,Final,,24,15,25,13,,25,20,17,22,,NBA
+56,56,180109007,1997,"Fri, Jan 9",Denver Nuggets,Miami Heat,"2-32, 2-13 Home","22-11, 9-7 Away",79,98,,,Final,,16,25,17,21,,31,17,22,28,,NBA
+57,57,180113022,1997,"Tue, Jan 13",Portland Trail Blazers,Miami Heat,"19-16, 10-8 Home","24-11, 11-7 Away",68,76,,,Final,,22,16,17,13,,23,22,20,11,,NBA
+58,58,180117013,1997,"Sat, Jan 17",Los Angeles Lakers,Miami Heat,"29-9, 16-4 Home","24-13, 11-9 Away",108,99,,,Final,,26,23,31,28,,19,27,26,27,,NBA
+59,59,180121014,1997,"Wed, Jan 21",Miami Heat,Philadelphia 76ers,"25-14, 14-4 Home","13-24, 5-14 Away",92,87,,,Final,,25,24,25,18,,29,17,15,26,,NBA
+60,60,180126014,1997,"Mon, Jan 26",Miami Heat,Cleveland Cavaliers,"26-15, 15-5 Home","25-16, 13-7 Away",93,94,,,Final,,36,17,11,29,,23,23,23,25,,NBA
+61,61,180130014,1997,"Fri, Jan 30",Miami Heat,Phoenix Suns,"27-16, 16-6 Home","28-14, 12-8 Away",71,74,,,Final,,22,17,21,11,,22,15,18,19,,NBA
+62,62,180202014,1997,"Mon, Feb 2",Miami Heat,Atlanta Hawks,"28-17, 17-6 Home","28-19, 13-12 Away",90,83,,,Final,,28,24,26,12,,30,15,24,14,,NBA
+63,63,180205015,1997,"Thu, Feb 5",Milwaukee Bucks,Miami Heat,"24-23, 16-10 Home","30-17, 13-11 Away",87,91,,,Final,,13,28,21,25,,28,20,25,18,,NBA
+64,64,180211014,1997,"Wed, Feb 11",Miami Heat,Indiana Pacers,"31-18, 17-7 Home","35-13, 16-9 Away",101,110,,,Final,,26,16,26,33,,29,29,23,29,,NBA
+65,65,180215028,1997,"Sun, Feb 15",Toronto Raptors,Miami Heat,"11-40, 7-20 Home","33-18, 15-11 Away",95,116,,,Final,,23,28,22,22,,28,29,28,31,,NBA
+66,66,180219012,1997,"Thu, Feb 19",Los Angeles Clippers,Miami Heat,"11-42, 7-19 Home","35-18, 16-11 Away",80,89,,,Final,,22,23,9,26,,33,20,19,17,,NBA
+67,67,180222009,1997,"Sun, Feb 22",Golden State Warriors,Miami Heat,"11-42, 8-18 Home","37-18, 18-11 Away",82,90,,,Final,,25,22,18,17,,22,11,27,30,,NBA
+68,68,180226014,1997,"Thu, Feb 26",Miami Heat,Dallas Mavericks,"39-18, 20-7 Home","10-46, 3-25 Away",91,72,,,Final,,26,18,29,18,,15,15,27,15,,NBA
+69,69,180301014,1997,"Sun, Mar 1",Miami Heat,New Jersey Nets,"41-18, 21-7 Home","33-26, 12-17 Away",85,84,,,Final,,19,23,23,20,,26,24,15,19,,NBA
+70,70,180305010,1997,"Thu, Mar 5",Houston Rockets,Miami Heat,"29-30, 18-13 Home","42-19, 21-11 Away",93,117,,,Final,,23,30,20,20,,24,27,33,33,,NBA
+71,71,180310004,1997,"Tue, Mar 10",Chicago Bulls,Miami Heat,"46-16, 29-3 Home","43-20, 22-12 Away",106,91,,,Final,,27,26,28,25,,19,25,21,26,,NBA
+72,72,180315019,1997,"Sun, Mar 15",Orlando Magic,Miami Heat,"32-32, 17-15 Home","45-20, 23-12 Away",76,79,,,Final,,18,17,24,17,,17,21,17,24,,NBA
+73,73,180318014,1997,"Wed, Mar 18",Miami Heat,Vancouver Grizzlies,"46-21, 23-9 Home","15-50, 3-29 Away",94,91,,,Final,,24,27,25,18,,26,23,21,21,,NBA
+74,74,180322014,1997,"Sun, Mar 22",Miami Heat,Portland Trail Blazers,"48-21, 25-9 Home","37-30, 15-17 Away",112,80,,,Final,,28,29,27,28,,26,20,12,22,,NBA
+75,75,180327014,1997,"Fri, Mar 27",Miami Heat,Milwaukee Bucks,"50-21, 26-9 Home","30-40, 10-24 Away",102,77,,,Final,,23,22,30,27,,17,24,18,18,,NBA
+76,76,180331014,1997,"Tue, Mar 31",Miami Heat,Boston Celtics,"52-21, 28-9 Home","31-41, 10-27 Away",121,95,,,Final,,38,31,33,19,,24,26,13,32,,NBA
+77,77,180404014,1997,"Sat, Apr 4",Miami Heat,Charlotte Hornets,"53-22, 29-9 Home","47-27, 18-19 Away",101,88,,,Final,,25,35,26,15,,18,14,24,32,,NBA
+78,78,180408018,1997,"Wed, Apr 8",New York Knicks,Miami Heat,"42-36, 27-12 Home","53-24, 24-15 Away",83,80,,,Final,,19,25,24,15,,17,16,31,16,,NBA
+79,79,180412014,1997,"Sun, Apr 12",Miami Heat,New York Knicks,"55-24, 30-9 Home","42-37, 15-25 Away",82,81,,,Final,,19,27,14,22,,19,22,22,18,,NBA
+80,80,180417014,1997,"Fri, Apr 17",Miami Heat,Washington Wizards,"55-26, 30-11 Home","41-40, 18-23 Away",89,97,,,Final,,20,21,19,29,,24,24,27,22,,NBA
+81,81,180419001,1997,"Sun, Apr 19",Atlanta Hawks,Miami Heat,"50-32, 29-12 Home","55-27, 25-16 Away",101,89,,,Final,,33,19,17,32,,20,23,22,24,,NBA

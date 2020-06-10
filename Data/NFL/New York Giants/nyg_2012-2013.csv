@@ -1,21 +1,21 @@
-ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
-320916019,2012,"September 16, 2012",New York Giants,Tampa Bay Buccaneers,"1-1, 1-1 Home","1-1, 0-1 Away",41,34,NULL,NULL,Final,FOX,6,7,3,25,NULL,3,21,3,7,NULL,2,NFL
-320930021,2012,"September 30, 2012",Philadelphia Eagles,New York Giants,"3-1, 2-0 Home","2-2, 1-1 Away",19,17,NULL,NULL,Final,NBC,0,7,6,6,NULL,0,3,7,7,NULL,4,NFL
-321014025,2012,"October 14, 2012",San Francisco 49ers,New York Giants,"4-2, 2-1 Home","4-2, 2-1 Away",3,26,NULL,NULL,Final,FOX,3,0,0,0,NULL,0,10,13,3,NULL,6,NFL
-321028006,2012,"October 28, 2012",Dallas Cowboys,New York Giants,"3-4, 1-2 Home","6-2, 3-1 Away",24,29,NULL,NULL,Final,FOX,0,10,14,0,NULL,13,10,0,6,NULL,8,NFL
-321111004,2012,"November 11, 2012",Cincinnati Bengals,New York Giants,"4-5, 2-3 Home","6-4, 3-2 Away",31,13,NULL,NULL,Final,FOX,14,3,14,0,NULL,3,3,0,7,NULL,10,NFL
-321125019,2012,"November 25, 2012",New York Giants,Green Bay Packers,"7-4, 4-2 Home","7-4, 3-3 Away",38,10,NULL,NULL,Final,NBC,17,14,7,0,NULL,7,3,0,0,NULL,12,NFL
-321209019,2012,"December 9, 2012",New York Giants,New Orleans Saints,"8-5, 5-2 Home","5-8, 2-5 Away",52,27,NULL,NULL,Final,FOX,14,7,14,17,NULL,7,6,14,0,NULL,14,NFL
-321223033,2012,"December 23, 2012",Baltimore Ravens,New York Giants,"10-5, 6-2 Home","8-7, 3-5 Away",33,14,NULL,NULL,Final,FOX,14,10,3,6,NULL,7,0,0,7,NULL,16,NFL
-320818020,2012,"August 18, 2012",New York Jets,New York Giants,"0-2, 0-1 Home","1-1, 1-1 Away",3,26,NULL,NULL,Final,NFL,0,0,3,0,NULL,3,10,3,10,NULL,2,NFL
-320905019,2012,"September 5, 2012",New York Giants,Dallas Cowboys,"0-1, 0-1 Home","1-0, 1-0 Away",17,24,NULL,NULL,Final,NBC,0,3,7,7,NULL,0,7,10,7,NULL,1,NFL
-320920029,2012,"September 20, 2012",Carolina Panthers,New York Giants,"1-2, 1-1 Home","2-1, 1-0 Away",7,36,NULL,NULL,Final,NFL,0,0,7,0,NULL,10,10,6,10,NULL,3,NFL
-321007019,2012,"October 7, 2012",New York Giants,Cleveland Browns,"3-2, 2-1 Home","0-5, 0-3 Away",41,27,NULL,NULL,Final,CBS,7,20,7,7,NULL,14,3,3,7,NULL,5,NFL
-321021019,2012,"October 21, 2012",New York Giants,Washington Redskins,"5-2, 3-1 Home","3-4, 2-2 Away",27,23,NULL,NULL,Final,FOX,0,13,0,14,NULL,3,10,0,10,NULL,7,NFL
-321104019,2012,"November 4, 2012",New York Giants,Pittsburgh Steelers,"6-3, 3-2 Home","5-3, 2-3 Away",20,24,NULL,NULL,Final,CBS,0,14,6,0,NULL,0,10,0,14,NULL,9,NFL
-321203028,2012,"December 3, 2012",Washington Redskins,New York Giants,"6-6, 3-3 Home","7-5, 3-3 Away",17,16,NULL,NULL,Final,ESPN,7,3,0,7,NULL,3,10,3,0,NULL,13,NFL
-321216001,2012,"December 16, 2012",Atlanta Falcons,New York Giants,"12-2, 7-0 Home","8-6, 3-4 Away",34,0,NULL,NULL,Final,FOX,14,3,10,7,NULL,0,0,0,0,NULL,15,NFL
-320810030,2012,"August 10, 2012",Jacksonville Jaguars,New York Giants,"1-0, 1-0 Home","0-1, 0-1 Away",32,31,NULL,NULL,Final,NULL,7,7,7,11,NULL,10,14,0,7,NULL,1,NFL
-320824019,2012,"August 24, 2012",New York Giants,Chicago Bears,"1-2, 0-1 Home","2-1, 1-0 Away",17,20,NULL,NULL,Final,CBS,3,14,0,0,NULL,7,0,6,7,NULL,3,NFL
-320829019,2012,"August 29, 2012",New York Giants,New England Patriots,"2-2, 1-1 Home","1-3, 0-2 Away",6,3,NULL,NULL,Final,NFL,0,0,3,3,NULL,0,3,0,0,NULL,4,NFL
-321230019,2012,"December 30, 2012",New York Giants,Philadelphia Eagles,"9-7, 6-2 Home","4-12, 2-6 Away",42,7,NULL,NULL,Final,FOX,21,14,0,7,NULL,0,7,0,0,NULL,17,NFL
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
+0,320916019,2012,"September 16, 2012",New York Giants,Tampa Bay Buccaneers,"1-1, 1-1 Home","1-1, 0-1 Away",41,34,,,Final,FOX,6,7,3,25,,3,21,3,7,,2,NFL
+1,320930021,2012,"September 30, 2012",Philadelphia Eagles,New York Giants,"3-1, 2-0 Home","2-2, 1-1 Away",19,17,,,Final,NBC,0,7,6,6,,0,3,7,7,,4,NFL
+2,321014025,2012,"October 14, 2012",San Francisco 49ers,New York Giants,"4-2, 2-1 Home","4-2, 2-1 Away",3,26,,,Final,FOX,3,0,0,0,,0,10,13,3,,6,NFL
+3,321028006,2012,"October 28, 2012",Dallas Cowboys,New York Giants,"3-4, 1-2 Home","6-2, 3-1 Away",24,29,,,Final,FOX,0,10,14,0,,13,10,0,6,,8,NFL
+4,321111004,2012,"November 11, 2012",Cincinnati Bengals,New York Giants,"4-5, 2-3 Home","6-4, 3-2 Away",31,13,,,Final,FOX,14,3,14,0,,3,3,0,7,,10,NFL
+5,321125019,2012,"November 25, 2012",New York Giants,Green Bay Packers,"7-4, 4-2 Home","7-4, 3-3 Away",38,10,,,Final,NBC,17,14,7,0,,7,3,0,0,,12,NFL
+6,321209019,2012,"December 9, 2012",New York Giants,New Orleans Saints,"8-5, 5-2 Home","5-8, 2-5 Away",52,27,,,Final,FOX,14,7,14,17,,7,6,14,0,,14,NFL
+7,321223033,2012,"December 23, 2012",Baltimore Ravens,New York Giants,"10-5, 6-2 Home","8-7, 3-5 Away",33,14,,,Final,FOX,14,10,3,6,,7,0,0,7,,16,NFL
+8,320818020,2012,"August 18, 2012",New York Jets,New York Giants,"0-2, 0-1 Home","1-1, 1-1 Away",3,26,,,Final,NFL,0,0,3,0,,3,10,3,10,,2,NFL
+9,320905019,2012,"September 5, 2012",New York Giants,Dallas Cowboys,"0-1, 0-1 Home","1-0, 1-0 Away",17,24,,,Final,NBC,0,3,7,7,,0,7,10,7,,1,NFL
+10,320920029,2012,"September 20, 2012",Carolina Panthers,New York Giants,"1-2, 1-1 Home","2-1, 1-0 Away",7,36,,,Final,NFL,0,0,7,0,,10,10,6,10,,3,NFL
+11,321007019,2012,"October 7, 2012",New York Giants,Cleveland Browns,"3-2, 2-1 Home","0-5, 0-3 Away",41,27,,,Final,CBS,7,20,7,7,,14,3,3,7,,5,NFL
+12,321021019,2012,"October 21, 2012",New York Giants,Washington Redskins,"5-2, 3-1 Home","3-4, 2-2 Away",27,23,,,Final,FOX,0,13,0,14,,3,10,0,10,,7,NFL
+13,321104019,2012,"November 4, 2012",New York Giants,Pittsburgh Steelers,"6-3, 3-2 Home","5-3, 2-3 Away",20,24,,,Final,CBS,0,14,6,0,,0,10,0,14,,9,NFL
+14,321203028,2012,"December 3, 2012",Washington Redskins,New York Giants,"6-6, 3-3 Home","7-5, 3-3 Away",17,16,,,Final,ESPN,7,3,0,7,,3,10,3,0,,13,NFL
+15,321216001,2012,"December 16, 2012",Atlanta Falcons,New York Giants,"12-2, 7-0 Home","8-6, 3-4 Away",34,0,,,Final,FOX,14,3,10,7,,0,0,0,0,,15,NFL
+16,320810030,2012,"August 10, 2012",Jacksonville Jaguars,New York Giants,"1-0, 1-0 Home","0-1, 0-1 Away",32,31,,,Final,,7,7,7,11,,10,14,0,7,,1,NFL
+17,320824019,2012,"August 24, 2012",New York Giants,Chicago Bears,"1-2, 0-1 Home","2-1, 1-0 Away",17,20,,,Final,CBS,3,14,0,0,,7,0,6,7,,3,NFL
+18,320829019,2012,"August 29, 2012",New York Giants,New England Patriots,"2-2, 1-1 Home","1-3, 0-2 Away",6,3,,,Final,NFL,0,0,3,3,,0,3,0,0,,4,NFL
+19,321230019,2012,"December 30, 2012",New York Giants,Philadelphia Eagles,"9-7, 6-2 Home","4-12, 2-6 Away",42,7,,,Final,FOX,21,14,0,7,,0,7,0,0,,17,NFL

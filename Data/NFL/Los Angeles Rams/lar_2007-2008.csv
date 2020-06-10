@@ -1,21 +1,21 @@
-ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
-270916014,2007,"September 16, 2007",St. Louis Rams,San Francisco 49ers,"0-2, 0-2 Home","2-0, 1-0 Away",16,17,NULL,NULL,Final,FOX,7,6,0,3,NULL,0,7,7,3,NULL,2,NFL
-270930006,2007,"September 30, 2007",Dallas Cowboys,St. Louis Rams,"4-0, 2-0 Home","0-4, 0-2 Away",35,7,NULL,NULL,Final,FOX,0,14,21,0,NULL,0,7,0,0,NULL,4,NFL
-271014033,2007,"October 14, 2007",Baltimore Ravens,St. Louis Rams,"4-2, 3-0 Home","0-6, 0-3 Away",22,3,NULL,NULL,Final,FOX,3,10,3,6,NULL,0,0,3,0,NULL,6,NFL
-271028014,2007,"October 28, 2007",St. Louis Rams,Cleveland Browns,"0-8, 0-4 Home","4-3, 1-2 Away",20,27,NULL,NULL,Final,CBS,14,3,3,0,NULL,3,14,7,3,NULL,8,NFL
-271111018,2007,"November 11, 2007",New Orleans Saints,St. Louis Rams,"4-5, 2-3 Home","1-8, 1-4 Away",29,37,NULL,NULL,Final,FOX,7,0,0,22,NULL,7,10,10,10,NULL,10,NFL
-271125014,2007,"November 25, 2007",St. Louis Rams,Seattle Seahawks,"2-9, 0-5 Home","7-4, 2-3 Away",19,24,NULL,NULL,Final,FOX,16,3,0,0,NULL,7,0,10,7,NULL,12,NFL
-271209004,2007,"December 9, 2007",Cincinnati Bengals,St. Louis Rams,"5-8, 4-3 Home","3-10, 2-5 Away",19,10,NULL,NULL,Final,FOX,7,3,6,3,NULL,0,0,7,3,NULL,14,NFL
-271220014,2007,"December 20, 2007",St. Louis Rams,Pittsburgh Steelers,"3-12, 1-7 Home","10-5, 3-4 Away",24,41,NULL,NULL,Final,NFL,7,10,7,0,NULL,7,17,7,10,NULL,16,NFL
-270818014,2007,"August 18, 2007",St. Louis Rams,San Diego Chargers,"1-1, 0-1 Home","1-1, 1-0 Away",13,30,NULL,NULL,Final,CBS,0,3,3,7,NULL,7,7,0,16,NULL,1,NFL
-270909014,2007,"September 9, 2007",St. Louis Rams,Carolina Panthers,"0-1, 0-1 Home","1-0, 1-0 Away",13,27,NULL,NULL,Final,FOX,7,3,3,0,NULL,7,0,7,13,NULL,1,NFL
-270923027,2007,"September 23, 2007",Tampa Bay Buccaneers,St. Louis Rams,"2-1, 2-0 Home","0-3, 0-1 Away",24,3,NULL,NULL,Final,FOX,0,3,7,14,NULL,0,0,0,3,NULL,3,NFL
-271007014,2007,"October 7, 2007",St. Louis Rams,Arizona Cardinals,"0-5, 0-3 Home","3-2, 1-2 Away",31,34,NULL,NULL,Final,FOX,3,10,7,11,NULL,3,14,3,14,NULL,5,NFL
-271021026,2007,"October 21, 2007",Seattle Seahawks,St. Louis Rams,"4-3, 3-1 Home","0-7, 0-4 Away",33,6,NULL,NULL,Final,FOX,7,3,13,10,NULL,3,0,3,0,NULL,7,NFL
-271118025,2007,"November 18, 2007",San Francisco 49ers,St. Louis Rams,"2-8, 1-4 Home","2-8, 2-4 Away",9,13,NULL,NULL,Final,FOX,3,0,0,6,NULL,7,3,0,3,NULL,11,NFL
-271202014,2007,"December 2, 2007",St. Louis Rams,Atlanta Falcons,"3-9, 1-5 Home","3-9, 1-5 Away",28,16,NULL,NULL,Final,FOX,14,7,0,7,NULL,0,0,3,13,NULL,13,NFL
-271216014,2007,"December 16, 2007",St. Louis Rams,Green Bay Packers,"3-11, 1-6 Home","12-2, 6-1 Away",14,33,NULL,NULL,Final,FOX,7,7,0,0,NULL,7,10,10,6,NULL,15,NFL
-270810016,2007,"August 10, 2007",Minnesota Vikings,St. Louis Rams,"0-1, 0-1 Home","1-0, 1-0 Away",10,13,NULL,NULL,Final,NULL,0,3,7,0,NULL,0,7,0,6,NULL,HOF,NFL
-270824013,2007,"August 24, 2007",Oakland Raiders,St. Louis Rams,"2-1, 2-0 Home","1-2, 1-1 Away",20,10,NULL,NULL,Final,NULL,3,14,3,0,NULL,0,3,0,7,NULL,2,NFL
-270830014,2007,"August 30, 2007",St. Louis Rams,Kansas City Chiefs,"2-2, 1-1 Home","0-4, 0-2 Away",10,3,NULL,NULL,Final,NULL,3,0,7,0,NULL,0,0,0,3,NULL,3,NFL
-271230022,2007,"December 30, 2007",Arizona Cardinals,St. Louis Rams,"8-8, 6-2 Home","3-13, 2-6 Away",48,19,NULL,NULL,Final,FOX,3,21,7,17,NULL,3,3,13,0,NULL,17,NFL
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
+0,270916014,2007,"September 16, 2007",St. Louis Rams,San Francisco 49ers,"0-2, 0-2 Home","2-0, 1-0 Away",16,17,,,Final,FOX,7,6,0,3,,0,7,7,3,,2,NFL
+1,270930006,2007,"September 30, 2007",Dallas Cowboys,St. Louis Rams,"4-0, 2-0 Home","0-4, 0-2 Away",35,7,,,Final,FOX,0,14,21,0,,0,7,0,0,,4,NFL
+2,271014033,2007,"October 14, 2007",Baltimore Ravens,St. Louis Rams,"4-2, 3-0 Home","0-6, 0-3 Away",22,3,,,Final,FOX,3,10,3,6,,0,0,3,0,,6,NFL
+3,271028014,2007,"October 28, 2007",St. Louis Rams,Cleveland Browns,"0-8, 0-4 Home","4-3, 1-2 Away",20,27,,,Final,CBS,14,3,3,0,,3,14,7,3,,8,NFL
+4,271111018,2007,"November 11, 2007",New Orleans Saints,St. Louis Rams,"4-5, 2-3 Home","1-8, 1-4 Away",29,37,,,Final,FOX,7,0,0,22,,7,10,10,10,,10,NFL
+5,271125014,2007,"November 25, 2007",St. Louis Rams,Seattle Seahawks,"2-9, 0-5 Home","7-4, 2-3 Away",19,24,,,Final,FOX,16,3,0,0,,7,0,10,7,,12,NFL
+6,271209004,2007,"December 9, 2007",Cincinnati Bengals,St. Louis Rams,"5-8, 4-3 Home","3-10, 2-5 Away",19,10,,,Final,FOX,7,3,6,3,,0,0,7,3,,14,NFL
+7,271220014,2007,"December 20, 2007",St. Louis Rams,Pittsburgh Steelers,"3-12, 1-7 Home","10-5, 3-4 Away",24,41,,,Final,NFL,7,10,7,0,,7,17,7,10,,16,NFL
+8,270818014,2007,"August 18, 2007",St. Louis Rams,San Diego Chargers,"1-1, 0-1 Home","1-1, 1-0 Away",13,30,,,Final,CBS,0,3,3,7,,7,7,0,16,,1,NFL
+9,270909014,2007,"September 9, 2007",St. Louis Rams,Carolina Panthers,"0-1, 0-1 Home","1-0, 1-0 Away",13,27,,,Final,FOX,7,3,3,0,,7,0,7,13,,1,NFL
+10,270923027,2007,"September 23, 2007",Tampa Bay Buccaneers,St. Louis Rams,"2-1, 2-0 Home","0-3, 0-1 Away",24,3,,,Final,FOX,0,3,7,14,,0,0,0,3,,3,NFL
+11,271007014,2007,"October 7, 2007",St. Louis Rams,Arizona Cardinals,"0-5, 0-3 Home","3-2, 1-2 Away",31,34,,,Final,FOX,3,10,7,11,,3,14,3,14,,5,NFL
+12,271021026,2007,"October 21, 2007",Seattle Seahawks,St. Louis Rams,"4-3, 3-1 Home","0-7, 0-4 Away",33,6,,,Final,FOX,7,3,13,10,,3,0,3,0,,7,NFL
+13,271118025,2007,"November 18, 2007",San Francisco 49ers,St. Louis Rams,"2-8, 1-4 Home","2-8, 2-4 Away",9,13,,,Final,FOX,3,0,0,6,,7,3,0,3,,11,NFL
+14,271202014,2007,"December 2, 2007",St. Louis Rams,Atlanta Falcons,"3-9, 1-5 Home","3-9, 1-5 Away",28,16,,,Final,FOX,14,7,0,7,,0,0,3,13,,13,NFL
+15,271216014,2007,"December 16, 2007",St. Louis Rams,Green Bay Packers,"3-11, 1-6 Home","12-2, 6-1 Away",14,33,,,Final,FOX,7,7,0,0,,7,10,10,6,,15,NFL
+16,270810016,2007,"August 10, 2007",Minnesota Vikings,St. Louis Rams,"0-1, 0-1 Home","1-0, 1-0 Away",10,13,,,Final,,0,3,7,0,,0,7,0,6,,HOF,NFL
+17,270824013,2007,"August 24, 2007",Oakland Raiders,St. Louis Rams,"2-1, 2-0 Home","1-2, 1-1 Away",20,10,,,Final,,3,14,3,0,,0,3,0,7,,2,NFL
+18,270830014,2007,"August 30, 2007",St. Louis Rams,Kansas City Chiefs,"2-2, 1-1 Home","0-4, 0-2 Away",10,3,,,Final,,3,0,7,0,,0,0,0,3,,3,NFL
+19,271230022,2007,"December 30, 2007",Arizona Cardinals,St. Louis Rams,"8-8, 6-2 Home","3-13, 2-6 Away",48,19,,,Final,FOX,3,21,7,17,,3,3,13,0,,17,NFL

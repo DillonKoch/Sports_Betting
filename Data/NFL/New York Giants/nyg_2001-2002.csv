@@ -1,21 +1,21 @@
-ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
-210923012,2001,"September 23, 2001",Kansas City Chiefs,New York Giants,"0-2, 0-2 Home","1-1, 1-1 Away",3,13,NULL,NULL,Final,FOX,0,0,3,0,NULL,3,10,0,0,NULL,2,NFL
-211007019,2001,"October 7, 2001",New York Giants,Washington Redskins,"3-1, 2-0 Home","0-4, 0-3 Away",23,9,NULL,NULL,Final,FOX,3,6,0,14,NULL,3,3,3,0,NULL,4,NFL
-211022019,2001,"October 22, 2001",New York Giants,Philadelphia Eagles,"3-3, 2-1 Home","3-2, 2-0 Away",9,10,NULL,NULL,Final,ABC,3,6,0,0,NULL,0,0,3,7,NULL,6,NFL
-211104019,2001,"November 4, 2001",New York Giants,Dallas Cowboys,"4-4, 3-1 Home","2-5, 0-3 Away",27,24,NULL,NULL,Final/OT,FOX,0,7,7,10,3,10,14,0,0,0,8,NFL
-211119016,2001,"November 19, 2001",Minnesota Vikings,New York Giants,"4-5, 4-1 Home","5-5, 2-4 Away",28,16,NULL,NULL,Final,ABC,7,7,0,14,NULL,10,3,3,0,NULL,10,NFL
-211215019,2001,"December 15, 2001",New York Giants,Arizona Cardinals,"6-7, 4-2 Home","5-8, 3-3 Away",17,13,NULL,NULL,Final,FOX,7,0,0,10,NULL,3,3,0,7,NULL,14,NFL
-211230021,2001,"December 30, 2001",Philadelphia Eagles,New York Giants,"10-5, 4-4 Home","7-8, 2-6 Away",24,21,NULL,NULL,Final,FOX,7,0,0,17,NULL,0,0,10,11,NULL,16,NFL
-210816019,2001,"August 16, 2001",New York Giants,Jacksonville Jaguars,"1-1, 1-0 Home","1-1, 0-1 Away",27,5,NULL,NULL,Final,NULL,8,8,0,.500,434,9,7,0,.563,385,1,NFL
-210910007,2001,"September 10, 2001",Denver Broncos,New York Giants,"1-0, 1-0 Home","0-1, 0-1 Away",31,20,NULL,NULL,Final,ABC,7,7,7,10,NULL,0,7,7,6,NULL,1,NFL
-210930019,2001,"September 30, 2001",New York Giants,New Orleans Saints,"2-1, 1-0 Home","1-1, 1-1 Away",21,13,NULL,NULL,Final,FOX,0,14,0,7,NULL,0,3,0,10,NULL,3,NFL
-211014014,2001,"October 14, 2001",St. Louis Rams,New York Giants,"5-0, 2-0 Home","3-2, 1-2 Away",15,14,NULL,NULL,Final,FOX,6,3,0,6,NULL,7,0,0,7,NULL,5,NFL
-211028028,2001,"October 28, 2001",Washington Redskins,New York Giants,"2-5, 2-1 Home","3-4, 1-3 Away",35,21,NULL,NULL,Final,FOX,14,3,10,8,NULL,0,14,0,7,NULL,7,NFL
-211111022,2001,"November 11, 2001",Arizona Cardinals,New York Giants,"2-6, 1-4 Home","5-4, 2-3 Away",10,17,NULL,NULL,Final,FOX,0,7,3,0,NULL,7,7,0,3,NULL,9,NFL
-211125019,2001,"November 25, 2001",New York Giants,Oakland Raiders,"5-6, 3-2 Home","8-2, 4-2 Away",10,28,NULL,NULL,Final,CBS,3,0,7,0,NULL,7,14,0,7,NULL,11,NFL
-211209006,2001,"December 9, 2001",Dallas Cowboys,New York Giants,"4-8, 3-4 Home","5-7, 2-5 Away",20,13,NULL,NULL,Final,FOX,3,3,7,7,NULL,6,7,0,0,NULL,13,NFL
-211223019,2001,"December 23, 2001",New York Giants,Seattle Seahawks,"7-7, 5-2 Home","7-7, 2-5 Away",27,24,NULL,NULL,Final,CBS,7,10,0,10,NULL,7,10,7,0,NULL,15,NFL
-210810017,2001,"August 10, 2001",New England Patriots,New York Giants,"1-0, 1-0 Home","0-1, 0-1 Away",14,0,NULL,NULL,Final,NULL,8,8,0,.500,434,9,7,0,.563,385,HOF,NFL
-210825019,2001,"August 25, 2001",New York Giants,New York Jets,"1-2, 1-1 Home","2-1, 1-0 Away",14,17,NULL,NULL,Final,NULL,0,0,7,7,NULL,7,7,0,3,NULL,2,NFL
-210831033,2001,"August 31, 2001",Baltimore Ravens,New York Giants,"1-2, 1-1 Home","1-3, 0-2 Away",38,9,NULL,NULL,Final,NULL,8,8,0,.500,434,9,7,0,.563,385,3,NFL
-220106019,2001,"January 6, 2002",New York Giants,Green Bay Packers,"7-9, 5-3 Home","12-4, 5-3 Away",25,34,NULL,NULL,Final,FOX,7,3,0,15,NULL,14,3,17,0,NULL,17,NFL
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
+0,210923012,2001,"September 23, 2001",Kansas City Chiefs,New York Giants,"0-2, 0-2 Home","1-1, 1-1 Away",3,13,,,Final,FOX,0,0,3,0.0,,3,10,0,0.0,,2,NFL
+1,211007019,2001,"October 7, 2001",New York Giants,Washington Redskins,"3-1, 2-0 Home","0-4, 0-3 Away",23,9,,,Final,FOX,3,6,0,14.0,,3,3,3,0.0,,4,NFL
+2,211022019,2001,"October 22, 2001",New York Giants,Philadelphia Eagles,"3-3, 2-1 Home","3-2, 2-0 Away",9,10,,,Final,ABC,3,6,0,0.0,,0,0,3,7.0,,6,NFL
+3,211104019,2001,"November 4, 2001",New York Giants,Dallas Cowboys,"4-4, 3-1 Home","2-5, 0-3 Away",27,24,,,Final/OT,FOX,0,7,7,10.0,3.0,10,14,0,0.0,0.0,8,NFL
+4,211119016,2001,"November 19, 2001",Minnesota Vikings,New York Giants,"4-5, 4-1 Home","5-5, 2-4 Away",28,16,,,Final,ABC,7,7,0,14.0,,10,3,3,0.0,,10,NFL
+5,211215019,2001,"December 15, 2001",New York Giants,Arizona Cardinals,"6-7, 4-2 Home","5-8, 3-3 Away",17,13,,,Final,FOX,7,0,0,10.0,,3,3,0,7.0,,14,NFL
+6,211230021,2001,"December 30, 2001",Philadelphia Eagles,New York Giants,"10-5, 4-4 Home","7-8, 2-6 Away",24,21,,,Final,FOX,7,0,0,17.0,,0,0,10,11.0,,16,NFL
+7,210816019,2001,"August 16, 2001",New York Giants,Jacksonville Jaguars,"1-1, 1-0 Home","1-1, 0-1 Away",27,5,,,Final,,8,8,0,0.5,434.0,9,7,0,0.563,385.0,1,NFL
+8,210910007,2001,"September 10, 2001",Denver Broncos,New York Giants,"1-0, 1-0 Home","0-1, 0-1 Away",31,20,,,Final,ABC,7,7,7,10.0,,0,7,7,6.0,,1,NFL
+9,210930019,2001,"September 30, 2001",New York Giants,New Orleans Saints,"2-1, 1-0 Home","1-1, 1-1 Away",21,13,,,Final,FOX,0,14,0,7.0,,0,3,0,10.0,,3,NFL
+10,211014014,2001,"October 14, 2001",St. Louis Rams,New York Giants,"5-0, 2-0 Home","3-2, 1-2 Away",15,14,,,Final,FOX,6,3,0,6.0,,7,0,0,7.0,,5,NFL
+11,211028028,2001,"October 28, 2001",Washington Redskins,New York Giants,"2-5, 2-1 Home","3-4, 1-3 Away",35,21,,,Final,FOX,14,3,10,8.0,,0,14,0,7.0,,7,NFL
+12,211111022,2001,"November 11, 2001",Arizona Cardinals,New York Giants,"2-6, 1-4 Home","5-4, 2-3 Away",10,17,,,Final,FOX,0,7,3,0.0,,7,7,0,3.0,,9,NFL
+13,211125019,2001,"November 25, 2001",New York Giants,Oakland Raiders,"5-6, 3-2 Home","8-2, 4-2 Away",10,28,,,Final,CBS,3,0,7,0.0,,7,14,0,7.0,,11,NFL
+14,211209006,2001,"December 9, 2001",Dallas Cowboys,New York Giants,"4-8, 3-4 Home","5-7, 2-5 Away",20,13,,,Final,FOX,3,3,7,7.0,,6,7,0,0.0,,13,NFL
+15,211223019,2001,"December 23, 2001",New York Giants,Seattle Seahawks,"7-7, 5-2 Home","7-7, 2-5 Away",27,24,,,Final,CBS,7,10,0,10.0,,7,10,7,0.0,,15,NFL
+16,210810017,2001,"August 10, 2001",New England Patriots,New York Giants,"1-0, 1-0 Home","0-1, 0-1 Away",14,0,,,Final,,8,8,0,0.5,434.0,9,7,0,0.563,385.0,HOF,NFL
+17,210825019,2001,"August 25, 2001",New York Giants,New York Jets,"1-2, 1-1 Home","2-1, 1-0 Away",14,17,,,Final,,0,0,7,7.0,,7,7,0,3.0,,2,NFL
+18,210831033,2001,"August 31, 2001",Baltimore Ravens,New York Giants,"1-2, 1-1 Home","1-3, 0-2 Away",38,9,,,Final,,8,8,0,0.5,434.0,9,7,0,0.563,385.0,3,NFL
+19,220106019,2001,"January 6, 2002",New York Giants,Green Bay Packers,"7-9, 5-3 Home","12-4, 5-3 Away",25,34,,,Final,FOX,7,3,0,15.0,,14,3,17,0.0,,17,NFL

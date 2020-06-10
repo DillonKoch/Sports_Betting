@@ -1,0 +1,83 @@
+,Unnamed: 0,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,0,241105028,2004,"Fri, Nov 5",Toronto Raptors,Detroit Pistons,"2-0, 2-0 Home","1-1, 0-1 Away",101,89,,,Final,,21,28,27,25,,31,16,20,22,,NBA
+1,1,241108012,2004,"Mon, Nov 8",LA Clippers,Detroit Pistons,"2-2, 1-1 Home","3-1, 1-1 Away",96,99,,,Final/2OT,,21,22,16,24,13.0,18,24,23,18,16.0,NBA
+2,2,241113026,2004,"Sat, Nov 13",Utah Jazz,Detroit Pistons,"5-1, 3-1 Home","3-3, 1-3 Away",108,93,,,Final,,28,34,28,18,,23,19,27,24,,NBA
+3,3,241119008,2004,"Fri, Nov 19",Detroit Pistons,Indiana Pacers,"4-4, 3-1 Home","7-2, 4-1 Away",82,97,,,Final,,27,16,23,16,,34,25,21,17,,NBA
+4,4,241123030,2004,"Tue, Nov 23",Charlotte Bobcats,Detroit Pistons,"2-8, 2-4 Home","5-5, 1-4 Away",91,89,,,Final,,23,28,22,18,,22,13,19,35,,NBA
+5,5,241126008,2004,"Fri, Nov 26",Detroit Pistons,Miami Heat,"6-6, 5-1 Home","9-5, 4-3 Away",78,77,,,Final,,18,24,20,16,,24,16,16,21,,NBA
+6,6,241130010,2004,"Tue, Nov 30",Houston Rockets,Detroit Pistons,"6-10, 2-5 Home","7-7, 2-6 Away",72,93,,,Final,,18,15,26,13,,25,19,25,24,,NBA
+7,7,241204003,2004,"Sat, Dec 4",New Orleans Hornets,Detroit Pistons,"1-14, 0-8 Home","8-8, 3-7 Away",69,92,,,Final,,20,18,17,14,,32,19,23,18,,NBA
+8,8,241208008,2004,"Wed, Dec 8",Detroit Pistons,Toronto Raptors,"10-8, 6-1 Home","7-14, 2-12 Away",90,86,,,Final/OT,,17,21,31,11,10.0,20,17,21,22,6.0,NBA
+9,9,241211029,2004,"Sat, Dec 11",Memphis Grizzlies,Detroit Pistons,"9-13, 6-5 Home","10-10, 4-8 Away",72,68,,,Final,,16,19,23,14,,18,18,17,15,,NBA
+10,10,241216008,2004,"Thu, Dec 16",Detroit Pistons,Cleveland Cavaliers,"12-10, 7-2 Home","14-9, 5-8 Away",81,69,,,Final,,19,12,21,29,,23,18,6,22,,NBA
+11,11,241222008,2004,"Wed, Dec 22",Detroit Pistons,Chicago Bulls,"12-12, 7-4 Home","9-15, 3-8 Away",82,89,,,Final,,19,19,24,20,,19,27,18,25,,NBA
+12,12,241227008,2004,"Mon, Dec 27",Detroit Pistons,New Jersey Nets,"14-12, 8-4 Home","9-17, 3-10 Away",100,90,,,Final/OT,,24,14,23,26,13.0,21,27,18,21,3.0,NBA
+13,13,241230008,2004,"Thu, Dec 30",Detroit Pistons,Miami Heat,"15-13, 8-5 Home","24-7, 12-4 Away",78,89,,,Final,,20,27,22,9,,17,24,26,22,,NBA
+14,14,250103004,2004,"Mon, Jan 3",Chicago Bulls,Detroit Pistons,"10-18, 7-9 Home","17-13, 8-8 Away",80,87,,,Final,,21,23,16,20,,14,25,23,25,,NBA
+15,15,250107002,2004,"Fri, Jan 7",Boston Celtics,Detroit Pistons,"15-18, 10-6 Home","18-14, 9-8 Away",104,110,,,Final,,29,24,20,31,,30,33,19,28,,NBA
+16,16,250112008,2004,"Wed, Jan 12",Detroit Pistons,New Orleans Hornets,"20-14, 10-6 Home","4-30, 2-18 Away",90,76,,,Final,,25,21,26,18,,22,16,21,17,,NBA
+17,17,250115008,2004,"Sat, Jan 15",Detroit Pistons,Philadelphia 76ers,"22-14, 12-6 Home","16-20, 8-13 Away",99,95,,,Final,,24,27,25,23,,21,21,24,29,,NBA
+18,18,250118019,2004,"Tue, Jan 18",Orlando Magic,Detroit Pistons,"21-16, 13-4 Home","23-15, 10-9 Away",103,101,,,Final,,29,23,24,27,,33,17,30,21,,NBA
+19,19,250122008,2004,"Sat, Jan 22",Detroit Pistons,Chicago Bulls,"23-17, 13-7 Home","19-19, 6-10 Away",89,100,,,Final,,24,23,21,21,,24,20,28,28,,NBA
+20,20,250126008,2004,"Wed, Jan 26",Detroit Pistons,Denver Nuggets,"24-18, 14-7 Home","17-25, 5-16 Away",87,70,,,Final,,25,12,27,23,,12,22,17,19,,NBA
+21,21,250129008,2004,"Sat, Jan 29",Detroit Pistons,New York Knicks,"26-18, 15-7 Home","18-25, 6-14 Away",91,61,,,Final,,20,19,27,25,,18,17,13,13,,NBA
+22,22,250202008,2004,"Wed, Feb 2",Detroit Pistons,Atlanta Hawks,"28-18, 16-7 Home","9-35, 2-18 Away",99,84,,,Final,,23,26,22,28,,26,14,17,27,,NBA
+23,23,250210008,2004,"Thu, Feb 10",Detroit Pistons,Los Angeles Lakers,"29-19, 17-7 Home","25-23, 8-13 Away",103,81,,,Final,,30,21,29,23,,14,21,23,23,,NBA
+24,24,250214008,2004,"Mon, Feb 14",Detroit Pistons,Milwaukee Bucks,"31-19, 19-7 Home","20-29, 6-19 Away",107,83,,,Final,,26,32,27,22,,24,17,17,25,,NBA
+25,25,250222008,2004,"Tue, Feb 22",Detroit Pistons,New York Knicks,"33-19, 20-7 Home","21-33, 7-21 Away",97,88,,,Final,,31,20,20,26,,23,19,17,29,,NBA
+26,26,250227009,2004,"Sun, Feb 27",Golden State Warriors,Detroit Pistons,"16-39, 11-18 Home","35-19, 15-12 Away",88,94,,,Final,,29,16,21,22,,25,21,32,16,,NBA
+27,27,250303021,2004,"Thu, Mar 3",Phoenix Suns,Detroit Pistons,"44-14, 21-7 Home","36-20, 16-13 Away",100,97,,,Final,,24,26,16,34,,22,25,29,21,,NBA
+28,28,250306023,2004,"Sun, Mar 6",Sacramento Kings,Detroit Pistons,"37-24, 21-8 Home","36-22, 16-15 Away",100,85,,,Final,,20,35,19,26,,16,30,17,22,,NBA
+29,29,250311002,2004,"Fri, Mar 11",Boston Celtics,Detroit Pistons,"33-29, 23-10 Home","37-23, 16-16 Away",115,113,,,Final/2OT,,14,32,26,23,20.0,20,26,22,27,18.0,NBA
+30,30,250314001,2004,"Mon, Mar 14",Atlanta Hawks,Detroit Pistons,"11-52, 8-22 Home","39-23, 17-16 Away",108,114,,,Final/OT,,23,23,31,23,8.0,31,24,17,28,14.0,NBA
+31,31,250318008,2004,"Fri, Mar 18",Detroit Pistons,Toronto Raptors,"41-23, 24-7 Home","27-38, 7-26 Away",103,92,,,Final,,34,20,27,22,,23,23,21,25,,NBA
+32,32,250322005,2004,"Tue, Mar 22",Cleveland Cavaliers,Detroit Pistons,"35-30, 25-9 Home","42-24, 17-17 Away",91,76,,,Final,,23,22,20,26,,22,25,12,17,,NBA
+33,33,250325008,2004,"Fri, Mar 25",Detroit Pistons,Indiana Pacers,"42-26, 25-8 Home","35-33, 15-19 Away",81,94,,,Final,,20,17,24,20,,19,24,25,26,,NBA
+34,34,250328008,2004,"Mon, Mar 28",Detroit Pistons,Dallas Mavericks,"43-27, 26-9 Home","47-23, 23-11 Away",88,95,,,Final,,19,14,32,23,,30,12,28,25,,NBA
+35,35,250401008,2004,"Fri, Apr 1",Detroit Pistons,LA Clippers,"45-27, 28-9 Home","32-41, 7-28 Away",97,84,,,Final,,23,22,29,23,,19,23,23,19,,NBA
+36,36,250406008,2004,"Wed, Apr 6",Detroit Pistons,Washington Wizards,"47-27, 29-9 Home","41-33, 16-22 Away",105,93,,,Final,,29,30,15,31,,22,22,22,27,,NBA
+37,37,250410014,2004,"Sun, Apr 10",Miami Heat,Detroit Pistons,"56-21, 33-6 Home","49-27, 20-18 Away",72,80,,,Final,,20,10,19,23,,17,25,22,16,,NBA
+38,38,250413008,2004,"Wed, Apr 13",Detroit Pistons,Orlando Magic,"51-27, 30-9 Home","35-43, 12-27 Away",103,94,,,Final,,31,25,22,25,,17,21,24,32,,NBA
+39,39,250417008,2004,"Sun, Apr 17",Detroit Pistons,Cleveland Cavaliers,"53-27, 32-9 Home","40-40, 12-28 Away",90,87,,,Final,,23,17,25,25,,23,29,13,22,,NBA
+40,40,241102008,2004,"Tue, Nov 2",Detroit Pistons,Houston Rockets,"1-0, 1-0 Home","0-1, 0-1 Away",87,79,,,Final,,19,18,22,28,,18,20,21,20,,NBA
+41,41,241106008,2004,"Sat, Nov 6",Detroit Pistons,Philadelphia 76ers,"2-1, 2-0 Home","1-2, 1-1 Away",99,91,,,Final,,25,28,30,16,,26,20,21,24,,NBA
+42,42,241111007,2004,"Thu, Nov 11",Denver Nuggets,Detroit Pistons,"2-4, 2-2 Home","3-2, 1-2 Away",117,109,,,Final,,25,30,33,29,,19,28,26,36,,NBA
+43,43,241117008,2004,"Wed, Nov 17",Detroit Pistons,Minnesota Timberwolves,"4-3, 3-0 Home","4-3, 1-2 Away",93,85,,,Final,,20,21,33,19,,25,20,18,22,,NBA
+44,44,241121008,2004,"Sun, Nov 21",Detroit Pistons,Charlotte Bobcats,"5-4, 4-1 Home","1-8, 0-4 Away",117,116,,,Final/2OT,,26,24,23,30,14.0,31,25,21,26,13.0,NBA
+45,45,241124005,2004,"Wed, Nov 24",Cleveland Cavaliers,Detroit Pistons,"7-4, 5-1 Home","5-6, 1-5 Away",92,76,,,Final,,24,30,17,21,,17,20,22,17,,NBA
+46,46,241127015,2004,"Sat, Nov 27",Milwaukee Bucks,Detroit Pistons,"4-7, 4-1 Home","6-7, 1-6 Away",96,90,,,Final,,33,16,22,25,,22,26,17,25,,NBA
+47,47,241203024,2004,"Fri, Dec 3",San Antonio Spurs,Detroit Pistons,"14-3, 8-0 Home","7-8, 2-7 Away",80,77,,,Final,,22,24,17,17,,16,21,11,29,,NBA
+48,48,241206006,2004,"Mon, Dec 6",Dallas Mavericks,Detroit Pistons,"12-7, 7-4 Home","9-8, 4-7 Away",85,101,,,Final,,17,22,24,22,,23,26,32,20,,NBA
+49,49,241210008,2004,"Fri, Dec 10",Detroit Pistons,Atlanta Hawks,"10-9, 6-2 Home","4-15, 2-7 Away",72,88,,,Final,,20,18,16,18,,32,24,18,14,,NBA
+50,50,241215018,2004,"Wed, Dec 15",New York Knicks,Detroit Pistons,"11-11, 7-3 Home","11-10, 5-8 Away",93,94,,,Final,,28,28,17,20,,23,17,31,23,,NBA
+51,51,241218008,2004,"Sat, Dec 18",Detroit Pistons,Portland Trail Blazers,"12-11, 7-3 Home","12-11, 5-8 Away",74,75,,,Final,,19,17,15,23,,20,22,17,16,,NBA
+52,52,241225011,2004,"Sat, Dec 25",Indiana Pacers,Detroit Pistons,"12-13, 7-6 Home","13-12, 6-8 Away",93,98,,,Final,,21,24,16,32,,18,28,23,29,,NBA
+53,53,241229027,2004,"Wed, Dec 29",Washington Wizards,Detroit Pistons,"15-12, 8-5 Home","15-12, 7-8 Away",105,107,,,Final,,25,34,20,26,,23,19,32,33,,NBA
+54,54,250102008,2004,"Sun, Jan 2",Detroit Pistons,Boston Celtics,"16-13, 9-5 Home","13-17, 5-12 Away",100,88,,,Final,,30,23,32,15,,24,15,22,27,,NBA
+55,55,250106008,2004,"Thu, Jan 6",Detroit Pistons,Memphis Grizzlies,"17-14, 9-6 Home","17-17, 7-10 Away",79,101,,,Final,,23,21,16,19,,28,25,29,19,,NBA
+56,56,250111017,2004,"Tue, Jan 11",New Jersey Nets,Detroit Pistons,"12-22, 7-9 Home","19-14, 10-8 Away",80,89,,,Final,,16,21,22,21,,18,27,23,21,,NBA
+57,57,250114008,2004,"Fri, Jan 14",Detroit Pistons,Orlando Magic,"21-14, 11-6 Home","19-16, 7-12 Away",101,94,,,Final,,22,27,25,27,,24,17,23,30,,NBA
+58,58,250117008,2004,"Mon, Jan 17",Detroit Pistons,Phoenix Suns,"23-14, 13-6 Home","31-8, 15-6 Away",94,80,,,Final,,29,28,22,15,,20,24,16,20,,NBA
+59,59,250121015,2004,"Fri, Jan 21",Milwaukee Bucks,Detroit Pistons,"14-24, 10-8 Home","23-16, 10-10 Away",89,86,,,Final,,23,21,22,23,,22,26,18,20,,NBA
+60,60,250124016,2004,"Mon, Jan 24",Minnesota Timberwolves,Detroit Pistons,"22-19, 11-8 Home","23-18, 10-11 Away",86,83,,,Final,,22,26,18,20,,19,20,24,20,,NBA
+61,61,250127011,2004,"Thu, Jan 27",Indiana Pacers,Detroit Pistons,"20-21, 10-9 Home","25-18, 11-11 Away",76,88,,,Final,,20,20,17,19,,26,21,23,18,,NBA
+62,62,250201027,2004,"Tue, Feb 1",Washington Wizards,Detroit Pistons,"26-18, 16-7 Home","27-18, 12-11 Away",96,105,,,Final,,25,22,28,21,,25,27,18,35,,NBA
+63,63,250205017,2004,"Sat, Feb 5",New Jersey Nets,Detroit Pistons,"20-27, 11-9 Home","28-19, 12-12 Away",107,85,,,Final,,25,29,25,28,,22,30,11,22,,NBA
+64,64,250212008,2004,"Sat, Feb 12",Detroit Pistons,Washington Wizards,"30-19, 18-7 Home","30-20, 10-13 Away",107,86,,,Final,,29,27,30,21,,21,18,28,19,,NBA
+65,65,250216020,2004,"Wed, Feb 16",Philadelphia 76ers,Detroit Pistons,"26-27, 15-10 Home","32-19, 13-12 Away",75,93,,,Final,CSN,13,22,23,17,,28,20,20,25,,NBA
+66,66,250225013,2004,"Fri, Feb 25",Los Angeles Lakers,Detroit Pistons,"28-25, 19-11 Home","34-19, 14-12 Away",90,111,,,Final,,19,26,23,22,,28,30,25,28,,NBA
+67,67,250301022,2004,"Tue, Mar 1",Portland Trail Blazers,Detroit Pistons,"22-33, 14-13 Home","36-19, 16-12 Away",93,103,,,Final,,26,24,23,20,,34,26,23,20,,NBA
+68,68,250304025,2004,"Fri, Mar 4",Seattle SuperSonics,Detroit Pistons,"41-16, 21-8 Home","36-21, 16-14 Away",95,87,,,Final,,22,20,27,26,,23,22,22,20,,NBA
+69,69,250309008,2004,"Wed, Mar 9",Detroit Pistons,Golden State Warriors,"37-22, 21-7 Home","19-42, 8-24 Away",92,88,,,Final,,22,22,30,18,,19,23,28,18,,NBA
+70,70,250313008,2004,"Sun, Mar 13",Detroit Pistons,Utah Jazz,"38-23, 22-7 Home","20-42, 7-24 Away",64,62,,,Final,,19,19,20,6,,14,15,21,12,,NBA
+71,71,250316008,2004,"Wed, Mar 16",Detroit Pistons,Seattle SuperSonics,"40-23, 23-7 Home","43-20, 22-9 Away",102,95,,,Final,,27,15,36,24,,19,28,25,23,,NBA
+72,72,250320008,2004,"Sun, Mar 20",Detroit Pistons,San Antonio Spurs,"42-23, 25-7 Home","50-16, 19-13 Away",110,101,,,Final,,31,31,19,29,,31,21,24,25,,NBA
+73,73,250323020,2004,"Wed, Mar 23",Philadelphia 76ers,Detroit Pistons,"33-34, 19-14 Home","42-25, 17-18 Away",107,84,,,Final,CSN,31,29,24,23,,17,21,22,24,,NBA
+74,74,250326008,2004,"Sat, Mar 26",Detroit Pistons,Boston Celtics,"43-26, 26-8 Home","38-32, 13-21 Away",105,99,,,Final/OT,,28,22,18,20,17.0,23,25,25,15,11.0,NBA
+75,75,250330008,2004,"Wed, Mar 30",Detroit Pistons,Sacramento Kings,"44-27, 27-9 Home","44-29, 17-19 Away",99,82,,,Final,,25,21,29,24,,11,31,18,22,,NBA
+76,76,250403028,2004,"Sun, Apr 3",Toronto Raptors,Detroit Pistons,"30-43, 21-14 Home","46-27, 18-18 Away",103,113,,,Final,,25,26,32,20,,32,27,28,26,,NBA
+77,77,250408019,2004,"Fri, Apr 8",Orlando Magic,Detroit Pistons,"35-41, 23-15 Home","48-27, 19-18 Away",102,114,,,Final,,23,22,22,35,,29,22,33,30,,NBA
+78,78,250411004,2004,"Mon, Apr 11",Chicago Bulls,Detroit Pistons,"44-33, 25-14 Home","50-27, 21-18 Away",84,85,,,Final/OT,,20,21,11,21,11.0,22,19,17,15,12.0,NBA
+79,79,250415008,2004,"Fri, Apr 15",Detroit Pistons,Milwaukee Bucks,"52-27, 31-9 Home","29-50, 7-33 Away",99,73,,,Final,,20,26,26,27,,20,19,24,10,,NBA
+80,80,250419001,2004,"Tue, Apr 19",Atlanta Hawks,Detroit Pistons,"13-68, 9-32 Home","54-27, 22-18 Away",68,95,,,Final,,9,23,16,20,,25,20,31,19,,NBA
+81,81,250420030,2004,"Wed, Apr 20",Charlotte Bobcats,Detroit Pistons,"18-64, 14-27 Home","54-28, 22-19 Away",97,86,,,Final,,24,33,23,17,,25,24,21,16,,NBA

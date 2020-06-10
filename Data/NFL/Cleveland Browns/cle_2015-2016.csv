@@ -1,21 +1,21 @@
-ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
-400791669,2015,"September 20, 2015",Cleveland Browns,Tennessee Titans,"1-1, 1-0 Home","1-1, 1-1 Away",28,14,NULL,NULL,Final,CBS,14,7,0,7,NULL,0,0,7,7,NULL,2,NFL
-400791714,2015,"October 4, 2015",San Diego Chargers,Cleveland Browns,"2-2, 2-0 Home","1-3, 0-2 Away",30,27,NULL,NULL,Final,CBS,7,6,7,10,NULL,3,10,3,11,NULL,4,NFL
-400791633,2015,"October 18, 2015",Cleveland Browns,Denver Broncos,"2-4, 1-2 Home","6-0, 4-0 Away",23,26,NULL,NULL,Final/OT,CBS,0,0,7,16,0,3,7,3,10,3,6,NFL
-400791609,2015,"November 1, 2015",Cleveland Browns,Arizona Cardinals,"2-6, 1-3 Home","6-2, 3-1 Away",20,34,NULL,NULL,Final,FOX,7,13,0,0,NULL,7,3,14,10,NULL,8,NFL
-400791556,2015,"November 15, 2015",Pittsburgh Steelers,Cleveland Browns,"6-4, 4-2 Home","2-8, 1-5 Away",30,9,NULL,NULL,Final,CBS,6,15,3,6,NULL,3,0,0,6,NULL,10,NFL
-400791561,2015,"November 30, 2015",Cleveland Browns,Baltimore Ravens,"2-9, 1-4 Home","4-7, 2-4 Away",27,33,NULL,NULL,Final,ESPN,0,13,7,7,NULL,10,7,7,9,NULL,12,NFL
-400791530,2015,"December 13, 2015",Cleveland Browns,San Francisco 49ers,"3-10, 2-5 Home","4-9, 1-6 Away",24,10,NULL,NULL,Final,FOX,7,3,7,7,NULL,0,3,0,7,NULL,14,NFL
-400791521,2015,"December 27, 2015",Kansas City Chiefs,Cleveland Browns,"10-5, 5-2 Home","3-12, 1-7 Away",17,13,NULL,NULL,Final,CBS,10,7,0,0,NULL,0,3,7,3,NULL,16,NFL
-400790304,2015,"August 20, 2015",Cleveland Browns,Buffalo Bills,"0-2, 0-2 Home","1-1, 1-0 Away",10,11,NULL,NULL,Final,ESPN,0,3,0,7,NULL,0,3,0,8,NULL,2,NFL
-400791497,2015,"September 13, 2015",New York Jets,Cleveland Browns,"1-0, 1-0 Home","0-1, 0-1 Away",31,10,NULL,NULL,Final,CBS,0,14,10,7,NULL,0,10,0,0,NULL,1,NFL
-400791500,2015,"September 27, 2015",Cleveland Browns,Oakland Raiders,"1-2, 1-1 Home","2-1, 1-0 Away",20,27,NULL,NULL,Final,CBS,0,3,7,10,NULL,3,14,3,7,NULL,3,NFL
-400791545,2015,"October 11, 2015",Baltimore Ravens,Cleveland Browns,"1-4, 0-2 Home","2-3, 1-2 Away",30,33,NULL,NULL,Final/OT,CBS,14,0,7,9,0,3,6,7,14,3,5,NFL
-400791529,2015,"October 25, 2015",St. Louis Rams,Cleveland Browns,"3-3, 2-1 Home","2-5, 1-3 Away",24,6,NULL,NULL,Final,CBS,10,0,7,7,NULL,0,3,3,0,NULL,7,NFL
-400791698,2015,"November 5, 2015",Cincinnati Bengals,Cleveland Browns,"8-0, 4-0 Home","2-7, 1-4 Away",31,10,NULL,NULL,Final,NFL,7,7,3,14,NULL,3,7,0,0,NULL,9,NFL
-400791619,2015,"December 6, 2015",Cleveland Browns,Cincinnati Bengals,"2-10, 1-5 Home","10-2, 5-1 Away",3,37,NULL,NULL,Final,FOX,0,3,0,0,NULL,7,13,14,3,NULL,13,NFL
-400791697,2015,"December 20, 2015",Seattle Seahawks,Cleveland Browns,"9-5, 5-2 Home","3-11, 1-6 Away",30,13,NULL,NULL,Final,FOX,7,13,0,10,NULL,7,3,0,3,NULL,15,NFL
-400791771,2015,"August 13, 2015",Cleveland Browns,Washington Redskins,"0-1, 0-1 Home","1-0, 1-0 Away",17,20,NULL,NULL,Final,NULL,7,7,3,0,NULL,3,10,7,0,NULL,1,NFL
-400791772,2015,"August 29, 2015",Tampa Bay Buccaneers,Cleveland Browns,"1-2, 1-1 Home","1-2, 1-0 Away",7,31,NULL,NULL,Final,NULL,0,7,0,0,NULL,14,3,14,0,NULL,3,NFL
-400791105,2015,"September 3, 2015",Chicago Bears,Cleveland Browns,"3-1, 2-0 Home","1-3, 1-1 Away",24,0,NULL,NULL,Final,NULL,0,7,14,3,NULL,0,0,0,0,NULL,4,NFL
-400791620,2015,"January 3, 2016",Cleveland Browns,Pittsburgh Steelers,"3-13, 2-6 Home","10-6, 4-4 Away",12,28,NULL,NULL,Final,CBS,3,6,0,3,NULL,7,7,3,11,NULL,17,NFL
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
+0,400791669,2015,"September 20, 2015",Cleveland Browns,Tennessee Titans,"1-1, 1-0 Home","1-1, 1-1 Away",28,14,,,Final,CBS,14,7,0,7,,0,0,7,7,,2,NFL
+1,400791714,2015,"October 4, 2015",San Diego Chargers,Cleveland Browns,"2-2, 2-0 Home","1-3, 0-2 Away",30,27,,,Final,CBS,7,6,7,10,,3,10,3,11,,4,NFL
+2,400791633,2015,"October 18, 2015",Cleveland Browns,Denver Broncos,"2-4, 1-2 Home","6-0, 4-0 Away",23,26,,,Final/OT,CBS,0,0,7,16,0.0,3,7,3,10,3.0,6,NFL
+3,400791609,2015,"November 1, 2015",Cleveland Browns,Arizona Cardinals,"2-6, 1-3 Home","6-2, 3-1 Away",20,34,,,Final,FOX,7,13,0,0,,7,3,14,10,,8,NFL
+4,400791556,2015,"November 15, 2015",Pittsburgh Steelers,Cleveland Browns,"6-4, 4-2 Home","2-8, 1-5 Away",30,9,,,Final,CBS,6,15,3,6,,3,0,0,6,,10,NFL
+5,400791561,2015,"November 30, 2015",Cleveland Browns,Baltimore Ravens,"2-9, 1-4 Home","4-7, 2-4 Away",27,33,,,Final,ESPN,0,13,7,7,,10,7,7,9,,12,NFL
+6,400791530,2015,"December 13, 2015",Cleveland Browns,San Francisco 49ers,"3-10, 2-5 Home","4-9, 1-6 Away",24,10,,,Final,FOX,7,3,7,7,,0,3,0,7,,14,NFL
+7,400791521,2015,"December 27, 2015",Kansas City Chiefs,Cleveland Browns,"10-5, 5-2 Home","3-12, 1-7 Away",17,13,,,Final,CBS,10,7,0,0,,0,3,7,3,,16,NFL
+8,400790304,2015,"August 20, 2015",Cleveland Browns,Buffalo Bills,"0-2, 0-2 Home","1-1, 1-0 Away",10,11,,,Final,ESPN,0,3,0,7,,0,3,0,8,,2,NFL
+9,400791497,2015,"September 13, 2015",New York Jets,Cleveland Browns,"1-0, 1-0 Home","0-1, 0-1 Away",31,10,,,Final,CBS,0,14,10,7,,0,10,0,0,,1,NFL
+10,400791500,2015,"September 27, 2015",Cleveland Browns,Oakland Raiders,"1-2, 1-1 Home","2-1, 1-0 Away",20,27,,,Final,CBS,0,3,7,10,,3,14,3,7,,3,NFL
+11,400791545,2015,"October 11, 2015",Baltimore Ravens,Cleveland Browns,"1-4, 0-2 Home","2-3, 1-2 Away",30,33,,,Final/OT,CBS,14,0,7,9,0.0,3,6,7,14,3.0,5,NFL
+12,400791529,2015,"October 25, 2015",St. Louis Rams,Cleveland Browns,"3-3, 2-1 Home","2-5, 1-3 Away",24,6,,,Final,CBS,10,0,7,7,,0,3,3,0,,7,NFL
+13,400791698,2015,"November 5, 2015",Cincinnati Bengals,Cleveland Browns,"8-0, 4-0 Home","2-7, 1-4 Away",31,10,,,Final,NFL,7,7,3,14,,3,7,0,0,,9,NFL
+14,400791619,2015,"December 6, 2015",Cleveland Browns,Cincinnati Bengals,"2-10, 1-5 Home","10-2, 5-1 Away",3,37,,,Final,FOX,0,3,0,0,,7,13,14,3,,13,NFL
+15,400791697,2015,"December 20, 2015",Seattle Seahawks,Cleveland Browns,"9-5, 5-2 Home","3-11, 1-6 Away",30,13,,,Final,FOX,7,13,0,10,,7,3,0,3,,15,NFL
+16,400791771,2015,"August 13, 2015",Cleveland Browns,Washington Redskins,"0-1, 0-1 Home","1-0, 1-0 Away",17,20,,,Final,,7,7,3,0,,3,10,7,0,,1,NFL
+17,400791772,2015,"August 29, 2015",Tampa Bay Buccaneers,Cleveland Browns,"1-2, 1-1 Home","1-2, 1-0 Away",7,31,,,Final,,0,7,0,0,,14,3,14,0,,3,NFL
+18,400791105,2015,"September 3, 2015",Chicago Bears,Cleveland Browns,"3-1, 2-0 Home","1-3, 1-1 Away",24,0,,,Final,,0,7,14,3,,0,0,0,0,,4,NFL
+19,400791620,2015,"January 3, 2016",Cleveland Browns,Pittsburgh Steelers,"3-13, 2-6 Home","10-6, 4-4 Away",12,28,,,Final,CBS,3,6,0,3,,7,7,3,11,,17,NFL

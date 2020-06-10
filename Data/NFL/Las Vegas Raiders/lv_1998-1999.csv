@@ -1,17 +1,17 @@
-ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
-180906012,1998,"September 6, 1998",Kansas City Chiefs,Oakland Raiders,"1-0, 1-0 Home","0-1, 0-1 Away",28,8,NULL,NULL,Final,NULL,7,9,0,.438,282,12,4,0,.750,451,,NFL
-180913013,1998,"September 13, 1998",Oakland Raiders,New York Giants,"1-1, 1-0 Home","1-1, 0-1 Away",20,17,NULL,NULL,Final,NULL,8,8,0,.500,434,9,7,0,.563,385,,NFL
-180920013,1998,"September 20, 1998",Oakland Raiders,Denver Broncos,"1-2, 1-1 Home","3-0, 1-0 Away",17,34,NULL,NULL,Final,NULL,7,9,0,.438,282,12,4,0,.750,451,,NFL
-180927006,1998,"September 27, 1998",Dallas Cowboys,Oakland Raiders,"2-2, 1-1 Home","2-2, 1-1 Away",12,13,NULL,NULL,Final,NULL,8,8,0,.500,434,9,7,0,.563,385,,NFL
-181004022,1998,"October 4, 1998",Arizona Cardinals,Oakland Raiders,"2-3, 1-1 Home","3-2, 2-1 Away",20,23,NULL,NULL,Final,NULL,8,8,0,.500,434,9,7,0,.563,385,,NFL
-181011013,1998,"October 11, 1998",Oakland Raiders,San Diego Chargers,"4-2, 2-1 Home","2-4, 1-3 Away",7,6,NULL,NULL,Final,NULL,N,U,L,L,NULL,N,U,L,L,NULL,,NFL
-181025013,1998,"October 25, 1998",Oakland Raiders,Cincinnati Bengals,"5-2, 3-1 Home","2-5, 1-3 Away",27,10,NULL,NULL,Final,NULL,N,U,L,L,NULL,N,U,L,L,NULL,,NFL
-181101026,1998,"November 1, 1998",Seattle Seahawks,Oakland Raiders,"4-4, 2-2 Home","6-2, 3-1 Away",18,31,NULL,NULL,Final,NULL,7,9,0,.438,282,12,4,0,.750,451,,NFL
-181108033,1998,"November 8, 1998",Baltimore Ravens,Oakland Raiders,"3-6, 2-3 Home","6-3, 3-2 Away",13,10,NULL,NULL,Final,NULL,N,U,L,L,NULL,N,U,L,L,NULL,,NFL
-181115013,1998,"November 15, 1998",Oakland Raiders,Seattle Seahawks,"7-3, 4-1 Home","5-5, 2-3 Away",20,17,NULL,NULL,Final,NULL,7,9,0,.438,282,12,4,0,.750,451,,NFL
-181122007,1998,"November 22, 1998",Denver Broncos,Oakland Raiders,"11-0, 6-0 Home","7-4, 3-3 Away",40,14,NULL,NULL,Final,NULL,7,9,0,.438,282,12,4,0,.750,451,,NFL
-181129013,1998,"November 29, 1998",Oakland Raiders,Washington Redskins,"7-5, 4-2 Home","3-9, 1-5 Away",19,29,NULL,NULL,Final,NULL,8,8,0,.500,434,9,7,0,.563,385,,NFL
-181206013,1998,"December 6, 1998",Oakland Raiders,Miami Dolphins,"7-6, 4-3 Home","9-4, 3-4 Away",17,27,NULL,NULL,Final,NULL,10,6,0,.625,314,12,4,0,.750,420,,NFL
-181213002,1998,"December 13, 1998",Buffalo Bills,Oakland Raiders,"9-5, 6-1 Home","7-7, 3-4 Away",44,21,NULL,NULL,Final,NULL,10,6,0,.625,314,12,4,0,.750,420,,NFL
-181220024,1998,"December 20, 1998",San Diego Chargers,Oakland Raiders,"5-10, 4-4 Home","8-7, 4-4 Away",10,17,NULL,NULL,Final,NULL,N,U,L,L,NULL,N,U,L,L,NULL,,NFL
-181226013,1998,"December 26, 1998",Oakland Raiders,Kansas City Chiefs,"8-8, 4-4 Home","7-9, 2-6 Away",24,31,NULL,NULL,Final,NULL,7,9,0,.438,282,12,4,0,.750,451,,NFL
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
+0,180906012,1998,"September 6, 1998",Kansas City Chiefs,Oakland Raiders,"1-0, 1-0 Home","0-1, 0-1 Away",28,8,,,Final,,7,9,0,.438,282.0,12,4,0,.750,451.0,,NFL
+1,180913013,1998,"September 13, 1998",Oakland Raiders,New York Giants,"1-1, 1-0 Home","1-1, 0-1 Away",20,17,,,Final,,8,8,0,.500,434.0,9,7,0,.563,385.0,,NFL
+2,180920013,1998,"September 20, 1998",Oakland Raiders,Denver Broncos,"1-2, 1-1 Home","3-0, 1-0 Away",17,34,,,Final,,7,9,0,.438,282.0,12,4,0,.750,451.0,,NFL
+3,180927006,1998,"September 27, 1998",Dallas Cowboys,Oakland Raiders,"2-2, 1-1 Home","2-2, 1-1 Away",12,13,,,Final,,8,8,0,.500,434.0,9,7,0,.563,385.0,,NFL
+4,181004022,1998,"October 4, 1998",Arizona Cardinals,Oakland Raiders,"2-3, 1-1 Home","3-2, 2-1 Away",20,23,,,Final,,8,8,0,.500,434.0,9,7,0,.563,385.0,,NFL
+5,181011013,1998,"October 11, 1998",Oakland Raiders,San Diego Chargers,"4-2, 2-1 Home","2-4, 1-3 Away",7,6,,,Final,,N,U,L,L,,N,U,L,L,,,NFL
+6,181025013,1998,"October 25, 1998",Oakland Raiders,Cincinnati Bengals,"5-2, 3-1 Home","2-5, 1-3 Away",27,10,,,Final,,N,U,L,L,,N,U,L,L,,,NFL
+7,181101026,1998,"November 1, 1998",Seattle Seahawks,Oakland Raiders,"4-4, 2-2 Home","6-2, 3-1 Away",18,31,,,Final,,7,9,0,.438,282.0,12,4,0,.750,451.0,,NFL
+8,181108033,1998,"November 8, 1998",Baltimore Ravens,Oakland Raiders,"3-6, 2-3 Home","6-3, 3-2 Away",13,10,,,Final,,N,U,L,L,,N,U,L,L,,,NFL
+9,181115013,1998,"November 15, 1998",Oakland Raiders,Seattle Seahawks,"7-3, 4-1 Home","5-5, 2-3 Away",20,17,,,Final,,7,9,0,.438,282.0,12,4,0,.750,451.0,,NFL
+10,181122007,1998,"November 22, 1998",Denver Broncos,Oakland Raiders,"11-0, 6-0 Home","7-4, 3-3 Away",40,14,,,Final,,7,9,0,.438,282.0,12,4,0,.750,451.0,,NFL
+11,181129013,1998,"November 29, 1998",Oakland Raiders,Washington Redskins,"7-5, 4-2 Home","3-9, 1-5 Away",19,29,,,Final,,8,8,0,.500,434.0,9,7,0,.563,385.0,,NFL
+12,181206013,1998,"December 6, 1998",Oakland Raiders,Miami Dolphins,"7-6, 4-3 Home","9-4, 3-4 Away",17,27,,,Final,,10,6,0,.625,314.0,12,4,0,.750,420.0,,NFL
+13,181213002,1998,"December 13, 1998",Buffalo Bills,Oakland Raiders,"9-5, 6-1 Home","7-7, 3-4 Away",44,21,,,Final,,10,6,0,.625,314.0,12,4,0,.750,420.0,,NFL
+14,181220024,1998,"December 20, 1998",San Diego Chargers,Oakland Raiders,"5-10, 4-4 Home","8-7, 4-4 Away",10,17,,,Final,,N,U,L,L,,N,U,L,L,,,NFL
+15,181226013,1998,"December 26, 1998",Oakland Raiders,Kansas City Chiefs,"8-8, 4-4 Home","7-9, 2-6 Away",24,31,,,Final,,7,9,0,.438,282.0,12,4,0,.750,451.0,,NFL

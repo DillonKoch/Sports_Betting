@@ -1,24 +1,24 @@
-ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
-400927751,2016,"January 22, 2017",Atlanta Falcons,Green Bay Packers,"11-5, 5-3 Home","10-6, 4-4 Away",44,21,NULL,NULL,Final,FOX,10,14,13,7,NULL,0,0,15,6,NULL,CONF,NFL
-400874525,2016,"September 18, 2016",Oakland Raiders,Atlanta Falcons,"1-1, 0-1 Home","1-1, 1-0 Away",28,35,NULL,NULL,Final,CBS,0,7,7,14,NULL,0,13,8,14,NULL,2,NFL
-400874664,2016,"October 2, 2016",Atlanta Falcons,Carolina Panthers,"3-1, 1-1 Home","1-3, 0-2 Away",48,33,NULL,NULL,Final,FOX,14,3,14,17,NULL,0,10,0,23,NULL,4,NFL
-400874732,2016,"October 16, 2016",Seattle Seahawks,Atlanta Falcons,"4-1, 3-0 Home","4-2, 3-1 Away",26,24,NULL,NULL,Final,FOX,7,10,0,9,NULL,0,3,21,0,NULL,6,NFL
-400874616,2016,"October 30, 2016",Atlanta Falcons,Green Bay Packers,"5-3, 2-2 Home","4-3, 1-2 Away",33,32,NULL,NULL,Final,FOX,10,9,7,7,NULL,7,17,0,8,NULL,8,NFL
-400874582,2016,"November 13, 2016",Philadelphia Eagles,Atlanta Falcons,"5-4, 4-0 Home","6-4, 4-2 Away",24,15,NULL,NULL,Final,FOX,7,0,3,14,NULL,0,6,3,6,NULL,10,NFL
-400874566,2016,"November 27, 2016",Atlanta Falcons,Arizona Cardinals,"7-4, 3-2 Home","4-6-1, 1-4 Away",38,19,NULL,NULL,Final,FOX,7,10,7,14,NULL,7,6,0,6,NULL,12,NFL
-400874627,2016,"December 11, 2016",Los Angeles Rams,Atlanta Falcons,"4-9, 1-5 Home","8-5, 5-2 Away",14,42,NULL,NULL,Final,FOX,0,0,0,14,NULL,7,14,21,0,NULL,14,NFL
-400874540,2016,"December 24, 2016",Carolina Panthers,Atlanta Falcons,"6-9, 4-4 Home","10-5, 6-2 Away",16,33,NULL,NULL,Final,FOX,0,3,10,3,NULL,13,7,3,10,NULL,16,NFL
-400874765,2016,"August 18, 2016",Cleveland Browns,Atlanta Falcons,"0-2, 0-1 Home","2-0, 1-0 Away",13,24,NULL,NULL,Final,NULL,7,6,0,0,NULL,7,3,7,7,NULL,2,NFL
-400927747,2016,"January 14, 2017",Atlanta Falcons,Seattle Seahawks,"11-5, 5-3 Home","10-5-1, 3-4-1 Away",36,20,NULL,NULL,Final,FOX,0,19,7,10,NULL,7,3,3,7,NULL,DIV,NFL
-400874522,2016,"September 11, 2016",Atlanta Falcons,Tampa Bay Buccaneers,"0-1, 0-1 Home","1-0, 1-0 Away",24,31,NULL,NULL,Final,FOX,10,3,8,3,NULL,3,14,14,0,NULL,1,NFL
-400874653,2016,"September 26, 2016",New Orleans Saints,Atlanta Falcons,"0-3, 0-2 Home","2-1, 2-0 Away",32,45,NULL,NULL,Final,ESPN,7,10,8,7,NULL,7,21,10,7,NULL,3,NFL
-400874607,2016,"October 9, 2016",Denver Broncos,Atlanta Falcons,"4-1, 2-1 Home","4-1, 3-0 Away",16,23,NULL,NULL,Final,FOX,0,3,0,13,NULL,10,3,7,3,NULL,5,NFL
-400874505,2016,"October 23, 2016",Atlanta Falcons,San Diego Chargers,"4-3, 1-2 Home","3-4, 1-3 Away",30,33,NULL,NULL,Final/OT,FOX,6,21,0,3,0,7,10,3,10,3,7,NFL
-400874605,2016,"November 3, 2016",Tampa Bay Buccaneers,Atlanta Falcons,"3-5, 0-4 Home","6-3, 4-1 Away",28,43,NULL,NULL,Final,NFL,7,7,0,14,NULL,10,10,13,10,NULL,9,NFL
-400874715,2016,"December 4, 2016",Atlanta Falcons,Kansas City Chiefs,"7-5, 3-3 Home","9-3, 5-2 Away",28,29,NULL,NULL,Final,CBS,10,6,0,12,NULL,6,14,7,2,NULL,13,NFL
-400874710,2016,"December 18, 2016",Atlanta Falcons,San Francisco 49ers,"9-5, 4-3 Home","1-13, 0-7 Away",41,13,NULL,NULL,Final,FOX,21,7,10,3,NULL,0,13,0,0,NULL,15,NFL
-400874795,2016,"August 11, 2016",Atlanta Falcons,Washington Redskins,"1-0, 1-0 Home","0-1, 0-1 Away",23,17,NULL,NULL,Final,NULL,0,13,10,0,NULL,3,0,7,7,NULL,1,NFL
-400873868,2016,"August 25, 2016",Miami Dolphins,Atlanta Falcons,2-1,2-1,17,6,NULL,NULL,Final,NBC,0,7,10,0,NULL,0,3,3,0,NULL,3,NFL
-400879270,2016,"September 1, 2016",Atlanta Falcons,Jacksonville Jaguars,"3-1, 2-0 Home","1-3, 0-2 Away",17,15,NULL,NULL,Final,NULL,0,17,0,0,NULL,7,0,0,8,NULL,4,NFL
-400927752,2016,"February 5, 2017",Atlanta Falcons,New England Patriots,11-5,14-2,28,34,NULL,NULL,Final/OT,FOX,0,21,7,0,0,0,3,6,19,6,SB,NFL
-400874606,2016,"January 1, 2017",Atlanta Falcons,New Orleans Saints,"11-5, 5-3 Home","7-9, 3-5 Away",38,32,NULL,NULL,Final,FOX,14,21,3,0,NULL,10,3,0,19,NULL,17,NFL
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
+0,400927751,2016,"January 22, 2017",Atlanta Falcons,Green Bay Packers,"11-5, 5-3 Home","10-6, 4-4 Away",44,21,,,Final,FOX,10,14,13,7,,0,0,15,6,,CONF,NFL
+1,400874525,2016,"September 18, 2016",Oakland Raiders,Atlanta Falcons,"1-1, 0-1 Home","1-1, 1-0 Away",28,35,,,Final,CBS,0,7,7,14,,0,13,8,14,,2,NFL
+2,400874664,2016,"October 2, 2016",Atlanta Falcons,Carolina Panthers,"3-1, 1-1 Home","1-3, 0-2 Away",48,33,,,Final,FOX,14,3,14,17,,0,10,0,23,,4,NFL
+3,400874732,2016,"October 16, 2016",Seattle Seahawks,Atlanta Falcons,"4-1, 3-0 Home","4-2, 3-1 Away",26,24,,,Final,FOX,7,10,0,9,,0,3,21,0,,6,NFL
+4,400874616,2016,"October 30, 2016",Atlanta Falcons,Green Bay Packers,"5-3, 2-2 Home","4-3, 1-2 Away",33,32,,,Final,FOX,10,9,7,7,,7,17,0,8,,8,NFL
+5,400874582,2016,"November 13, 2016",Philadelphia Eagles,Atlanta Falcons,"5-4, 4-0 Home","6-4, 4-2 Away",24,15,,,Final,FOX,7,0,3,14,,0,6,3,6,,10,NFL
+6,400874566,2016,"November 27, 2016",Atlanta Falcons,Arizona Cardinals,"7-4, 3-2 Home","4-6-1, 1-4 Away",38,19,,,Final,FOX,7,10,7,14,,7,6,0,6,,12,NFL
+7,400874627,2016,"December 11, 2016",Los Angeles Rams,Atlanta Falcons,"4-9, 1-5 Home","8-5, 5-2 Away",14,42,,,Final,FOX,0,0,0,14,,7,14,21,0,,14,NFL
+8,400874540,2016,"December 24, 2016",Carolina Panthers,Atlanta Falcons,"6-9, 4-4 Home","10-5, 6-2 Away",16,33,,,Final,FOX,0,3,10,3,,13,7,3,10,,16,NFL
+9,400874765,2016,"August 18, 2016",Cleveland Browns,Atlanta Falcons,"0-2, 0-1 Home","2-0, 1-0 Away",13,24,,,Final,,7,6,0,0,,7,3,7,7,,2,NFL
+10,400927747,2016,"January 14, 2017",Atlanta Falcons,Seattle Seahawks,"11-5, 5-3 Home","10-5-1, 3-4-1 Away",36,20,,,Final,FOX,0,19,7,10,,7,3,3,7,,DIV,NFL
+11,400874522,2016,"September 11, 2016",Atlanta Falcons,Tampa Bay Buccaneers,"0-1, 0-1 Home","1-0, 1-0 Away",24,31,,,Final,FOX,10,3,8,3,,3,14,14,0,,1,NFL
+12,400874653,2016,"September 26, 2016",New Orleans Saints,Atlanta Falcons,"0-3, 0-2 Home","2-1, 2-0 Away",32,45,,,Final,ESPN,7,10,8,7,,7,21,10,7,,3,NFL
+13,400874607,2016,"October 9, 2016",Denver Broncos,Atlanta Falcons,"4-1, 2-1 Home","4-1, 3-0 Away",16,23,,,Final,FOX,0,3,0,13,,10,3,7,3,,5,NFL
+14,400874505,2016,"October 23, 2016",Atlanta Falcons,San Diego Chargers,"4-3, 1-2 Home","3-4, 1-3 Away",30,33,,,Final/OT,FOX,6,21,0,3,0.0,7,10,3,10,3.0,7,NFL
+15,400874605,2016,"November 3, 2016",Tampa Bay Buccaneers,Atlanta Falcons,"3-5, 0-4 Home","6-3, 4-1 Away",28,43,,,Final,NFL,7,7,0,14,,10,10,13,10,,9,NFL
+16,400874715,2016,"December 4, 2016",Atlanta Falcons,Kansas City Chiefs,"7-5, 3-3 Home","9-3, 5-2 Away",28,29,,,Final,CBS,10,6,0,12,,6,14,7,2,,13,NFL
+17,400874710,2016,"December 18, 2016",Atlanta Falcons,San Francisco 49ers,"9-5, 4-3 Home","1-13, 0-7 Away",41,13,,,Final,FOX,21,7,10,3,,0,13,0,0,,15,NFL
+18,400874795,2016,"August 11, 2016",Atlanta Falcons,Washington Redskins,"1-0, 1-0 Home","0-1, 0-1 Away",23,17,,,Final,,0,13,10,0,,3,0,7,7,,1,NFL
+19,400873868,2016,"August 25, 2016",Miami Dolphins,Atlanta Falcons,2-1,2-1,17,6,,,Final,NBC,0,7,10,0,,0,3,3,0,,3,NFL
+20,400879270,2016,"September 1, 2016",Atlanta Falcons,Jacksonville Jaguars,"3-1, 2-0 Home","1-3, 0-2 Away",17,15,,,Final,,0,17,0,0,,7,0,0,8,,4,NFL
+21,400927752,2016,"February 5, 2017",Atlanta Falcons,New England Patriots,11-5,14-2,28,34,,,Final/OT,FOX,0,21,7,0,0.0,0,3,6,19,6.0,SB,NFL
+22,400874606,2016,"January 1, 2017",Atlanta Falcons,New Orleans Saints,"11-5, 5-3 Home","7-9, 3-5 Away",38,32,,,Final,FOX,14,21,3,0,,10,3,0,19,,17,NFL

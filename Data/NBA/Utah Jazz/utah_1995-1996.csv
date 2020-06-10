@@ -1,0 +1,83 @@
+,Unnamed: 0,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,0,151105022,1995,"Sun, Nov 5",Portland Trail Blazers,Utah Jazz,"1-1, 1-1 Home","1-1, 0-1 Away",109,105,,,Final,,29,20,26,34,,23,31,22,29,,NBA
+1,1,151108026,1995,"Wed, Nov 8",Utah Jazz,Los Angeles Lakers,"3-1, 3-0 Home","1-3, 0-3 Away",108,98,,,Final,,29,29,24,26,,24,32,26,16,,NBA
+2,2,151112018,1995,"Sun, Nov 12",New York Knicks,Utah Jazz,"5-1, 2-1 Home","4-2, 0-2 Away",120,110,,,Final,,37,24,27,32,,18,25,26,41,,NBA
+3,3,151115002,1995,"Wed, Nov 15",Boston Celtics,Utah Jazz,"1-4, 1-3 Home","6-2, 2-2 Away",90,102,,,Final,,22,21,24,23,,29,23,21,29,,NBA
+4,4,151118016,1995,"Sat, Nov 18",Minnesota Timberwolves,Utah Jazz,"1-7, 1-3 Home","8-2, 4-2 Away",102,126,,,Final,,20,26,31,25,,21,35,40,30,,NBA
+5,5,151122026,1995,"Wed, Nov 22",Utah Jazz,Sacramento Kings,"10-2, 6-0 Home","7-4, 4-2 Away",116,95,,,Final,,31,28,29,28,,26,25,26,18,,NBA
+6,6,151125007,1995,"Sat, Nov 25",Denver Nuggets,Utah Jazz,"4-8, 2-3 Home","10-4, 4-3 Away",94,91,,,Final,,29,21,20,24,,22,27,21,21,,NBA
+7,7,151130010,1995,"Thu, Nov 30",Houston Rockets,Utah Jazz,"11-4, 5-1 Home","12-4, 6-3 Away",105,112,,,Final,,17,23,34,31,,24,29,33,26,,NBA
+8,8,151207026,1995,"Thu, Dec 7",Utah Jazz,Denver Nuggets,"12-6, 6-3 Home","7-9, 3-6 Away",119,124,,,Final,,29,21,27,42,,34,33,29,28,,NBA
+9,9,151211026,1995,"Mon, Dec 11",Utah Jazz,Charlotte Hornets,"14-6, 8-3 Home","9-12, 2-10 Away",110,100,,,Final,,29,24,31,26,,22,24,21,33,,NBA
+10,10,151216014,1995,"Sat, Dec 16",Miami Heat,Utah Jazz,"12-9, 8-3 Home","15-7, 7-4 Away",74,83,,,Final,,15,20,18,21,,21,13,22,27,,NBA
+11,11,151220020,1995,"Wed, Dec 20",Philadelphia 76ers,Utah Jazz,"5-17, 4-8 Home","16-8, 8-5 Away",108,104,,,Final,,21,32,31,24,,37,22,29,16,,NBA
+12,12,151223004,1995,"Sat, Dec 23",Chicago Bulls,Utah Jazz,"23-2, 13-0 Home","17-9, 9-6 Away",100,86,,,Final,,26,24,28,22,,26,16,20,24,,NBA
+13,13,151228026,1995,"Thu, Dec 28",Utah Jazz,Minnesota Timberwolves,"19-9, 10-3 Home","7-19, 2-11 Away",99,83,,,Final,,30,22,32,15,,21,20,15,27,,NBA
+14,14,160102006,1995,"Tue, Jan 2",Dallas Mavericks,Utah Jazz,"8-20, 5-8 Home","21-9, 10-6 Away",92,102,,,Final,,23,25,20,24,,29,15,26,32,,NBA
+15,15,160105013,1995,"Fri, Jan 5",Los Angeles Lakers,Utah Jazz,"17-16, 12-4 Home","21-11, 10-8 Away",116,100,,,Final,,31,30,34,21,,32,21,27,20,,NBA
+16,16,160112026,1995,"Fri, Jan 12",Utah Jazz,San Antonio Spurs,"22-12, 12-4 Home","23-9, 10-5 Away",94,101,,,Final,,24,22,21,27,,23,27,25,26,,NBA
+17,17,160119026,1995,"Fri, Jan 19",Utah Jazz,Orlando Magic,"23-13, 13-4 Home","28-10, 8-10 Away",111,99,,,Final,,26,24,32,29,,29,28,26,16,,NBA
+18,18,160123026,1995,"Tue, Jan 23",Utah Jazz,Portland Trail Blazers,"25-13, 14-4 Home","20-20, 6-14 Away",96,72,,,Final,,22,30,13,31,,24,8,23,17,,NBA
+19,19,160126025,1995,"Fri, Jan 26",Seattle SuperSonics,Utah Jazz,"29-11, 18-2 Home","26-14, 12-10 Away",94,93,,,Final,,29,19,26,20,,27,22,24,20,,NBA
+20,20,160129026,1995,"Mon, Jan 29",Utah Jazz,Detroit Pistons,"28-14, 16-4 Home","21-20, 8-13 Away",106,97,,,Final,,30,29,22,25,,12,24,35,26,,NBA
+21,21,160202026,1995,"Fri, Feb 2",Utah Jazz,Los Angeles Clippers,"30-14, 17-4 Home","16-28, 6-16 Away",122,113,,,Final,,32,24,36,30,,22,28,24,39,,NBA
+22,22,160205029,1995,"Mon, Feb 5",Vancouver Grizzlies,Utah Jazz,"10-36, 7-16 Home","31-15, 14-11 Away",83,92,,,Final,,25,20,22,16,,25,24,26,17,,NBA
+23,23,160208006,1995,"Thu, Feb 8",Dallas Mavericks,Utah Jazz,"16-30, 10-13 Home","32-16, 14-12 Away",136,133,,,Final/2OT,,29,30,33,21,23.0,27,24,32,30,20.0,NBA
+24,24,160215026,1995,"Thu, Feb 15",Utah Jazz,Dallas Mavericks,"34-16, 19-4 Home","16-32, 6-19 Away",106,103,,,Final,,27,19,23,37,,33,25,18,27,,NBA
+25,25,160222026,1995,"Thu, Feb 22",Utah Jazz,Toronto Raptors,"36-16, 21-4 Home","14-37, 4-21 Away",102,86,,,Final,,24,13,32,33,,16,22,25,23,,NBA
+26,26,160226026,1995,"Mon, Feb 26",Utah Jazz,Phoenix Suns,"37-17, 22-4 Home","27-27, 11-14 Away",110,87,,,Final,,26,34,25,25,,15,29,27,16,,NBA
+27,27,160301026,1995,"Fri, Mar 1",Utah Jazz,New York Knicks,"39-17, 24-4 Home","32-24, 13-14 Away",99,88,,,Final,,24,25,22,28,,27,27,22,12,,NBA
+28,28,160306026,1995,"Wed, Mar 6",Utah Jazz,Indiana Pacers,"41-17, 25-4 Home","38-22, 15-16 Away",101,94,,,Final,,30,24,24,23,,17,27,33,17,,NBA
+29,29,160310016,1995,"Sun, Mar 10",Minnesota Timberwolves,Utah Jazz,"19-42, 13-18 Home","43-17, 17-13 Away",96,104,,,Final,,21,30,23,22,,37,26,20,21,,NBA
+30,30,160313003,1995,"Wed, Mar 13",Charlotte Hornets,Utah Jazz,"30-31, 21-11 Home","43-19, 17-15 Away",91,85,,,Final,,28,26,18,19,,18,23,22,22,,NBA
+31,31,160316027,1995,"Sat, Mar 16",Washington Bullets,Utah Jazz,"30-35, 20-11 Home","44-20, 18-16 Away",120,115,,,Final/OT,,26,22,28,30,14.0,25,26,31,24,9.0,NBA
+32,32,160320026,1995,"Wed, Mar 20",Utah Jazz,Philadelphia 76ers,"46-20, 27-4 Home","13-53, 5-28 Away",107,84,,,Final,,18,31,36,22,,19,20,24,21,,NBA
+33,33,160325026,1995,"Mon, Mar 25",Utah Jazz,Dallas Mavericks,"48-20, 29-4 Home","21-48, 8-27 Away",103,86,,,Final,,30,19,30,24,,22,17,23,24,,NBA
+34,34,160329100,1995,"Fri, Mar 29",Utah Jazz,Vancouver Grizzlies,"50-20, 31-4 Home","11-58, 3-32 Away",105,91,,,Final,,N,U,L,L,,N,U,L,L,,NBA
+35,35,160402026,1995,"Tue, Apr 2",Utah Jazz,Seattle SuperSonics,"50-22, 31-5 Home","57-15, 24-12 Away",91,100,,,Final,,18,28,26,19,,33,21,21,25,,NBA
+36,36,160405026,1995,"Fri, Apr 5",Utah Jazz,Minnesota Timberwolves,"50-24, 31-6 Home","25-49, 9-28 Away",99,103,,,Final,,19,27,30,23,,30,31,16,26,,NBA
+37,37,160408026,1995,"Mon, Apr 8",Utah Jazz,San Antonio Spurs,"51-25, 31-7 Home","55-21, 25-14 Away",91,92,,,Final,,26,22,19,24,,21,22,32,17,,NBA
+38,38,160413012,1995,"Sat, Apr 13",Los Angeles Clippers,Utah Jazz,"29-49, 19-21 Home","52-26, 20-19 Away",91,81,,,Final,,26,22,20,23,,20,17,24,20,,NBA
+39,39,160416026,1995,"Tue, Apr 16",Utah Jazz,Los Angeles Clippers,"53-27, 33-7 Home","29-51, 10-30 Away",108,85,,,Final,,31,27,25,25,,26,19,22,18,,NBA
+40,40,151103026,1995,"Fri, Nov 3",Utah Jazz,Seattle SuperSonics,"1-0, 1-0 Home","0-1, 0-1 Away",112,94,,,Final,,24,37,22,29,,26,17,21,30,,NBA
+41,41,151106026,1995,"Mon, Nov 6",Utah Jazz,Atlanta Hawks,"2-1, 2-0 Home","1-2, 0-1 Away",105,96,,,Final,,29,26,28,22,,27,22,21,26,,NBA
+42,42,151110026,1995,"Fri, Nov 10",Utah Jazz,Denver Nuggets,"4-1, 4-0 Home","0-5, 0-3 Away",109,86,,,Final,,27,25,19,38,,20,21,21,24,,NBA
+43,43,151113028,1995,"Mon, Nov 13",Toronto Raptors,Utah Jazz,"1-6, 1-3 Home","5-2, 1-2 Away",100,103,,,Final,,29,20,22,29,,24,20,37,22,,NBA
+44,44,151117008,1995,"Fri, Nov 17",Detroit Pistons,Utah Jazz,"3-4, 3-2 Home","7-2, 3-2 Away",81,86,,,Final,,28,17,19,17,,27,17,21,21,,NBA
+45,45,151120026,1995,"Mon, Nov 20",Utah Jazz,New Jersey Nets,"9-2, 5-0 Home","4-5, 0-5 Away",105,79,,,Final,,32,24,23,26,,19,15,17,28,,NBA
+46,46,151124026,1995,"Fri, Nov 24",Utah Jazz,Chicago Bulls,"10-3, 6-1 Home","10-1, 4-1 Away",85,90,,,Final,,19,23,20,23,,25,22,20,23,,NBA
+47,47,151127021,1995,"Mon, Nov 27",Phoenix Suns,Utah Jazz,"6-6, 4-3 Home","11-4, 5-3 Away",105,114,,,Final,,30,20,28,27,,28,24,36,26,,NBA
+48,48,151205026,1995,"Tue, Dec 5",Utah Jazz,Houston Rockets,"12-5, 6-2 Home","13-4, 7-3 Away",100,103,,,Final,,30,20,32,18,,17,30,33,23,,NBA
+49,49,151209026,1995,"Sat, Dec 9",Utah Jazz,Golden State Warriors,"13-6, 7-3 Home","6-13, 2-7 Away",123,109,,,Final,,23,28,36,36,,25,37,25,22,,NBA
+50,50,151215019,1995,"Fri, Dec 15",Orlando Magic,Utah Jazz,"18-5, 12-0 Home","14-7, 6-4 Away",111,99,,,Final,,32,23,28,28,,23,22,27,27,,NBA
+51,51,151218017,1995,"Mon, Dec 18",New Jersey Nets,Utah Jazz,"9-12, 7-2 Home","16-7, 8-4 Away",103,110,,,Final,,31,27,17,28,,27,27,33,23,,NBA
+52,52,151221005,1995,"Thu, Dec 21",Cleveland Cavaliers,Utah Jazz,"12-12, 8-6 Home","17-8, 9-5 Away",87,89,,,Final,,24,14,24,25,,25,18,15,31,,NBA
+53,53,151226026,1995,"Tue, Dec 26",Utah Jazz,Portland Trail Blazers,"18-9, 9-3 Home","11-15, 3-9 Away",114,104,,,Final,,20,33,38,23,,27,15,34,28,,NBA
+54,54,151230026,1995,"Sat, Dec 30",Utah Jazz,Los Angeles Lakers,"20-9, 11-3 Home","16-15, 5-12 Away",99,82,,,Final,,20,24,34,21,,15,25,22,20,,NBA
+55,55,160103024,1995,"Wed, Jan 3",San Antonio Spurs,Utah Jazz,"20-8, 12-3 Home","21-10, 10-7 Away",111,97,,,Final,,24,34,23,30,,29,17,26,25,,NBA
+56,56,160108026,1995,"Mon, Jan 8",Utah Jazz,Miami Heat,"22-11, 12-3 Home","16-15, 6-10 Away",94,92,,,Final,,32,23,17,22,,22,31,19,20,,NBA
+57,57,160115010,1995,"Mon, Jan 15",Houston Rockets,Utah Jazz,"26-11, 14-3 Home","22-13, 10-9 Away",107,99,,,Final,,25,26,22,34,,31,16,23,29,,NBA
+58,58,160120012,1995,"Sat, Jan 20",Los Angeles Clippers,Utah Jazz,"15-24, 9-11 Home","24-13, 11-9 Away",82,106,,,Final,,15,23,21,23,,23,28,30,25,,NBA
+59,59,160124009,1995,"Wed, Jan 24",Golden State Warriors,Utah Jazz,"17-23, 10-9 Home","26-13, 12-9 Away",89,100,,,Final,,21,11,26,31,,16,32,37,15,,NBA
+60,60,160127026,1995,"Sat, Jan 27",Utah Jazz,Golden State Warriors,"27-14, 15-4 Home","18-24, 7-15 Away",108,91,,,Final,,19,28,37,24,,23,28,21,19,,NBA
+61,61,160131022,1995,"Wed, Jan 31",Portland Trail Blazers,Utah Jazz,"21-23, 14-8 Home","29-14, 13-10 Away",94,98,,,Final,,24,13,26,31,,24,30,29,15,,NBA
+62,62,160204013,1995,"Sun, Feb 4",Los Angeles Lakers,Utah Jazz,"26-19, 17-7 Home","30-15, 13-11 Away",110,103,,,Final,,26,22,30,32,,22,25,27,29,,NBA
+63,63,160207100,1995,"Wed, Feb 7",Utah Jazz,Vancouver Grizzlies,"32-15, 18-4 Home","10-37, 3-21 Away",102,79,,,Final,,N,U,L,L,,N,U,L,L,,NBA
+64,64,160213024,1995,"Tue, Feb 13",San Antonio Spurs,Utah Jazz,"31-15, 18-6 Home","33-16, 15-12 Away",111,114,,,Final/OT,,28,23,30,22,8.0,27,28,31,17,11.0,NBA
+65,65,160220026,1995,"Tue, Feb 20",Utah Jazz,Boston Celtics,"35-16, 20-4 Home","19-33, 9-18 Away",112,98,,,Final,,29,32,30,21,,24,19,16,39,,NBA
+66,66,160224007,1995,"Sat, Feb 24",Denver Nuggets,Utah Jazz,"22-31, 14-10 Home","36-17, 15-13 Away",99,90,,,Final,,26,23,15,35,,25,18,14,33,,NBA
+67,67,160228026,1995,"Wed, Feb 28",Utah Jazz,Washington Bullets,"38-17, 23-4 Home","24-32, 7-22 Away",115,93,,,Final,,33,27,33,22,,27,22,25,19,,NBA
+68,68,160305023,1995,"Tue, Mar 5",Sacramento Kings,Utah Jazz,"25-31, 16-12 Home","40-17, 16-13 Away",97,112,,,Final,,25,18,25,29,,20,33,21,38,,NBA
+69,69,160308026,1995,"Fri, Mar 8",Utah Jazz,Houston Rockets,"42-17, 26-4 Home","40-22, 19-15 Away",109,89,,,Final,,28,29,25,27,,27,23,18,21,,NBA
+70,70,160312001,1995,"Tue, Mar 12",Atlanta Hawks,Utah Jazz,"35-27, 21-11 Home","43-18, 17-14 Away",115,89,,,Final,,24,30,27,34,,21,22,30,16,,NBA
+71,71,160315011,1995,"Fri, Mar 15",Indiana Pacers,Utah Jazz,"39-24, 23-7 Home","44-19, 18-15 Away",86,95,,,Final,,24,8,26,28,,26,22,25,22,,NBA
+72,72,160318015,1995,"Mon, Mar 18",Milwaukee Bucks,Utah Jazz,"21-43, 12-20 Home","45-20, 19-16 Away",90,107,,,Final,,22,17,26,25,,20,29,32,26,,NBA
+73,73,160322026,1995,"Fri, Mar 22",Utah Jazz,Cleveland Cavaliers,"47-20, 28-4 Home","38-29, 16-17 Away",88,75,,,Final,,24,18,25,21,,16,27,13,19,,NBA
+74,74,160327026,1995,"Wed, Mar 27",Utah Jazz,Milwaukee Bucks,"49-20, 30-4 Home","21-48, 9-25 Away",98,82,,,Final,,28,26,21,23,,19,22,26,15,,NBA
+75,75,160330025,1995,"Sat, Mar 30",Seattle SuperSonics,Utah Jazz,"56-15, 33-3 Home","50-21, 19-17 Away",100,98,,,Final,,25,24,23,28,,24,23,23,28,,NBA
+76,76,160404021,1995,"Thu, Apr 4",Phoenix Suns,Utah Jazz,"38-35, 23-15 Home","50-23, 19-18 Away",107,100,,,Final,,31,30,24,22,,23,25,25,27,,NBA
+77,77,160407023,1995,"Sun, Apr 7",Sacramento Kings,Utah Jazz,"34-40, 22-15 Home","51-24, 20-18 Away",92,107,,,Final,,19,25,29,19,,19,29,25,34,,NBA
+78,78,160410026,1995,"Wed, Apr 10",Utah Jazz,Phoenix Suns,"52-25, 32-7 Home","39-38, 16-22 Away",103,79,,,Final,,29,26,20,28,,16,19,26,18,,NBA
+79,79,160414009,1995,"Sun, Apr 14",Golden State Warriors,Utah Jazz,"35-44, 23-17 Home","52-27, 20-20 Away",93,82,,,Final,,23,19,27,24,,20,25,17,20,,NBA
+80,80,160418029,1995,"Thu, Apr 18",Vancouver Grizzlies,Utah Jazz,"13-67, 10-31 Home","54-27, 21-20 Away",79,94,,,Final,,24,20,14,21,,27,20,27,20,,NBA
+81,81,160420026,1995,"Sat, Apr 20",Utah Jazz,Sacramento Kings,"55-27, 34-7 Home","38-43, 13-28 Away",104,92,,,Final,,24,30,30,20,,25,23,27,17,,NBA

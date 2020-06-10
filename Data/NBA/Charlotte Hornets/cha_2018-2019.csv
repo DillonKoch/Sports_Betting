@@ -1,0 +1,83 @@
+,Unnamed: 0,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,0,401070703,2018,"Fri, Oct 19",Orlando Magic,Charlotte Hornets,"1-1, 1-1 Home","1-1, 1-0 Away",88,120,CHA -1.5,216,Final,,10,21,23,34,,22,29,31,38,,NBA
+1,1,401070722,2018,"Mon, Oct 22",Toronto Raptors,Charlotte Hornets,"4-0, 3-0 Home","2-2, 2-1 Away",127,106,TOR -8.5,224,Final,,31,31,35,30,,22,25,32,27,,NBA
+2,2,401070748,2018,"Fri, Oct 26",Charlotte Hornets,Chicago Bulls,"3-3, 1-1 Home","1-4, 0-3 Away",135,106,CHA -10.5,224,Final,,23,45,34,33,,25,29,21,31,,NBA
+3,3,401070777,2018,"Tue, Oct 30",Charlotte Hornets,Miami Heat,"4-4, 2-1 Home","3-4, 1-2 Away",125,113,CHA -3.0,222,Final,,31,34,27,33,,29,26,18,40,,NBA
+4,4,401070807,2018,"Sat, Nov 3",Charlotte Hornets,Cleveland Cavaliers,"5-5, 3-2 Home","1-8, 0-4 Away",126,94,CHA -10.0,223,Final,,30,29,34,33,,22,30,21,21,,NBA
+5,5,401070849,2018,"Fri, Nov 9",Philadelphia 76ers,Charlotte Hornets,"8-5, 7-0 Home","6-6, 2-4 Away",133,132,PHI -6.0,228,Final/OT,NBATV,33,32,31,23,14.0,33,17,35,34,13.0,NBA
+6,6,401070880,2018,"Tue, Nov 13",Cleveland Cavaliers,Charlotte Hornets,"2-11, 2-5 Home","7-7, 3-5 Away",113,89,CHA -9.0,215,Final,NBATV,38,29,21,25,,23,28,18,20,,NBA
+7,7,401070920,2018,"Mon, Nov 19",Charlotte Hornets,Boston Celtics,"8-8, 5-3 Home","9-8, 4-6 Away",117,112,BOS -3.5,218,Final,,29,25,30,33,,24,32,31,25,,NBA
+8,8,401070955,2018,"Fri, Nov 23",Oklahoma City Thunder,Charlotte Hornets,"12-6, 7-2 Home","9-9, 3-6 Away",109,104,OKC -6.5,229,Final,,33,29,27,20,,31,26,23,24,,NBA
+9,9,401070975,2018,"Mon, Nov 26",Charlotte Hornets,Milwaukee Bucks,"10-10, 7-3 Home","14-6, 4-4 Away",110,107,MIL -4.5,234,Final,,32,33,28,17,,35,17,28,27,,NBA
+10,10,401071001,2018,"Fri, Nov 30",Charlotte Hornets,Utah Jazz,"11-11, 8-4 Home","11-12, 9-6 Away",111,119,CHA -2.0,219,Final,,19,34,30,28,,33,24,34,28,,NBA
+11,11,401071043,2018,"Wed, Dec 5",Minnesota Timberwolves,Charlotte Hornets,"13-12, 11-4 Home","11-13, 3-8 Away",121,104,MIN -4.5,222,Final,,31,31,24,35,,31,33,22,18,,NBA
+12,12,401071071,2018,"Sun, Dec 9",New York Knicks,Charlotte Hornets,"8-20, 4-9 Home","13-13, 4-8 Away",107,119,CHA -6.0,225,Final,,24,23,31,29,,27,34,38,20,,NBA
+13,13,401071102,2018,"Fri, Dec 14",Charlotte Hornets,New York Knicks,"14-14, 10-6 Home","9-21, 5-12 Away",124,126,CHA -10.0,225,Final/OT,,33,39,21,20,11.0,16,37,25,35,13.0,NBA
+14,14,401071136,2018,"Wed, Dec 19",Charlotte Hornets,Cleveland Cavaliers,"15-15, 11-7 Home","8-24, 3-12 Away",110,99,CHA -13.5,214,Final,,16,25,41,28,,25,21,29,24,,NBA
+15,15,401071169,2018,"Sun, Dec 23",Boston Celtics,Charlotte Hornets,"19-13, 10-5 Home","16-16, 4-9 Away",119,103,BOS -7.5,217,Final,,29,39,26,25,,26,21,20,36,,NBA
+16,16,401071193,2018,"Fri, Dec 28",Charlotte Hornets,Brooklyn Nets,"17-17, 13-7 Home","17-20, 8-9 Away",100,87,CHA -4.5,221,Final,,33,21,19,27,,17,25,23,22,,NBA
+17,17,401071219,2018,"Mon, Dec 31",Charlotte Hornets,Orlando Magic,"18-18, 14-7 Home","16-20, 6-9 Away",125,100,CHA -8.5,212,Final,,36,27,32,30,,23,30,24,23,,NBA
+18,18,401071252,2018,"Sat, Jan 5",Denver Nuggets,Charlotte Hornets,"26-11, 16-3 Home","18-20, 4-12 Away",123,110,DEN -9.0,219,Final,,31,27,31,34,,26,30,28,26,,NBA
+19,19,401071282,2018,"Tue, Jan 8",LA Clippers,Charlotte Hornets,"24-16, 14-6 Home","19-21, 5-13 Away",128,109,LAC -6.5,231,Final,,33,29,24,42,,24,33,20,32,,NBA
+20,20,401071313,2018,"Sat, Jan 12",Sacramento Kings,Charlotte Hornets,"22-21, 13-10 Home","19-23, 5-15 Away",104,97,SAC -6.0,234,Final,,35,22,25,22,,29,30,17,21,,NBA
+21,21,401071342,2018,"Thu, Jan 17",Charlotte Hornets,Sacramento Kings,"21-23, 15-8 Home","23-22, 9-12 Away",114,95,CHA -3.0,229,Final,,20,43,20,31,,25,25,23,22,,NBA
+22,22,401071364,2018,"Sun, Jan 20",Indiana Pacers,Charlotte Hornets,"31-15, 17-6 Home","22-24, 6-16 Away",120,95,IND -8.0,218,Final,,34,22,27,37,,26,15,30,24,,NBA
+23,23,401071400,2018,"Fri, Jan 25",Milwaukee Bucks,Charlotte Hornets,"35-12, 22-4 Home","23-25, 7-17 Away",108,99,MIL -11.5,231,Final,,22,30,24,32,,27,27,33,12,,NBA
+24,24,401071429,2018,"Wed, Jan 30",Boston Celtics,Charlotte Hornets,"32-19, 21-6 Home","24-26, 7-18 Away",126,94,BOS -7.0,215,Final,,35,28,35,28,,28,31,16,19,,NBA
+25,25,401071449,2018,"Sat, Feb 2",Charlotte Hornets,Chicago Bulls,"26-26, 19-8 Home","12-41, 7-21 Away",125,118,CHA -6.5,216,Final,,27,24,37,37,,26,34,26,32,,NBA
+26,26,401071480,2018,"Wed, Feb 6",Dallas Mavericks,Charlotte Hornets,"25-28, 19-7 Home","26-28, 7-19 Away",99,93,DAL -5.5,215,Final,,27,25,22,25,,20,26,25,22,,NBA
+27,27,401071514,2018,"Mon, Feb 11",Indiana Pacers,Charlotte Hornets,"38-19, 22-7 Home","27-29, 8-20 Away",99,90,IND -5.5,215,Final,,32,22,23,22,,19,19,33,19,,NBA
+28,28,401071546,2018,"Fri, Feb 22",Charlotte Hornets,Washington Wizards,"28-30, 20-9 Home","24-35, 7-24 Away",123,110,CHA -5.0,232,Final,,27,38,31,27,,38,22,27,23,,NBA
+29,29,401071570,2018,"Mon, Feb 25",Charlotte Hornets,Golden State Warriors,"28-32, 20-11 Home","43-17, 20-9 Away",110,121,GS -8.5,234,Final,,30,30,28,22,,34,34,30,23,,NBA
+30,30,401071602,2018,"Fri, Mar 1",Brooklyn Nets,Charlotte Hornets,"32-32, 18-16 Home","29-33, 9-21 Away",112,123,BKN -2.5,228,Final,,32,18,36,26,,31,37,30,25,,NBA
+31,31,401071638,2018,"Wed, Mar 6",Charlotte Hornets,Miami Heat,"29-35, 20-14 Home","30-34, 16-16 Away",84,91,CHA -3.5,216,Final,,18,25,15,26,,29,14,18,30,,NBA
+32,32,401071663,2018,"Sat, Mar 9",Milwaukee Bucks,Charlotte Hornets,"50-16, 27-5 Home","30-36, 9-22 Away",131,114,MIL -12.0,228,Final,,24,31,39,37,,32,27,28,27,,NBA
+33,33,401071701,2018,"Fri, Mar 15",Washington Wizards,Charlotte Hornets,"29-40, 21-13 Home","31-37, 10-23 Away",110,116,WSH -3.0,234,Final,,26,27,25,32,,40,26,29,21,,NBA
+34,34,401071732,2018,"Tue, Mar 19",Charlotte Hornets,Philadelphia 76ers,"31-39, 21-15 Home","46-25, 18-16 Away",114,118,CHA -1.5,223,Final,,30,29,30,25,,31,31,23,33,,NBA
+35,35,401071760,2018,"Sat, Mar 23",Charlotte Hornets,Boston Celtics,"33-39, 23-15 Home","43-30, 17-19 Away",124,117,BOS -4.0,223,Final,,29,34,26,35,,35,29,34,19,,NBA
+36,36,401071780,2018,"Tue, Mar 26",Charlotte Hornets,San Antonio Spurs,"35-39, 24-15 Home","43-32, 14-24 Away",125,116,SA -4.5,220,Final/OT,,29,26,27,24,19.0,23,36,21,26,10.0,NBA
+37,37,401071823,2018,"Sun, Mar 31",Golden State Warriors,Charlotte Hornets,"52-24, 27-11 Home","35-41, 11-26 Away",137,90,GS -11.5,231,Final,NBATV,35,36,34,32,,27,22,23,18,,NBA
+38,38,401071844,2018,"Wed, Apr 3",New Orleans Pelicans,Charlotte Hornets,"32-47, 19-21 Home","36-42, 12-27 Away",109,115,CHA -4.5,232,Final,,21,34,23,31,,24,35,24,32,,NBA
+39,39,401071871,2018,"Sun, Apr 7",Detroit Pistons,Charlotte Hornets,"39-41, 25-15 Home","38-42, 13-27 Away",91,104,DET -6.5,218,Final,,27,15,33,16,,32,28,23,21,,NBA
+40,40,401070693,2018,"Wed, Oct 17",Charlotte Hornets,Milwaukee Bucks,"0-1, 0-1 Home","1-0, 1-0 Away",112,113,MIL -3.5,222,Final,,23,31,29,29,,36,31,26,20,,NBA
+41,41,401070713,2018,"Sat, Oct 20",Miami Heat,Charlotte Hornets,"1-2, 0-1 Home","2-1, 2-0 Away",112,113,MIA -3.5,220,Final,,29,23,30,30,,34,38,20,21,,NBA
+42,42,401070737,2018,"Wed, Oct 24",Chicago Bulls,Charlotte Hornets,"1-3, 1-1 Home","2-3, 2-2 Away",112,110,CHA -4.5,229,Final,,24,30,34,24,,27,26,29,28,,NBA
+43,43,401070759,2018,"Sat, Oct 27",Philadelphia 76ers,Charlotte Hornets,"3-3, 3-0 Home","3-4, 2-3 Away",105,103,PHI -7.0,233,Final,,32,31,20,22,,28,34,23,18,,NBA
+44,44,401070792,2018,"Thu, Nov 1",Charlotte Hornets,Oklahoma City Thunder,"4-5, 2-2 Home","3-4, 1-2 Away",107,111,CHA -1.0,231,Final,,22,26,29,30,,24,20,29,38,,NBA
+45,45,401070830,2018,"Tue, Nov 6",Charlotte Hornets,Atlanta Hawks,"6-5, 4-2 Home","3-7, 1-5 Away",113,102,CHA -11.5,233,Final,,23,28,30,32,,25,29,23,25,,NBA
+46,46,401070865,2018,"Sun, Nov 11",Detroit Pistons,Charlotte Hornets,"6-6, 3-3 Home","7-6, 3-4 Away",103,113,DET -2.5,222,Final,,27,22,26,28,,24,27,32,30,,NBA
+47,47,401070906,2018,"Sat, Nov 17",Charlotte Hornets,Philadelphia 76ers,"7-8, 4-3 Home","11-7, 3-7 Away",119,122,CHA -2.5,226,Final/OT,,30,26,30,24,9.0,42,21,19,28,12.0,NBA
+48,48,401070933,2018,"Wed, Nov 21",Charlotte Hornets,Indiana Pacers,"9-8, 6-3 Home","11-7, 5-4 Away",127,109,CHA -4.0,217,Final,,35,33,37,22,,30,30,24,25,,NBA
+49,49,401070969,2018,"Sun, Nov 25",Atlanta Hawks,Charlotte Hornets,"4-16, 3-7 Home","9-10, 3-7 Away",124,123,CHA -6.5,229,Final,,32,33,35,24,,43,23,31,26,,NBA
+50,50,401070987,2018,"Wed, Nov 28",Charlotte Hornets,Atlanta Hawks,"11-10, 8-3 Home","5-17, 2-10 Away",108,94,CHA -12.0,232,Final,,24,31,31,22,,28,21,26,19,,NBA
+51,51,401071019,2018,"Sun, Dec 2",Charlotte Hornets,New Orleans Pelicans,"11-12, 8-5 Home","12-12, 3-10 Away",109,119,CHA -3.0,232,Final,,30,26,21,32,,29,36,22,32,,NBA
+52,52,401071049,2018,"Fri, Dec 7",Charlotte Hornets,Denver Nuggets,"12-13, 9-5 Home","17-8, 8-5 Away",113,107,CHA -1.0,218,Final,,24,40,23,26,,25,28,26,28,,NBA
+53,53,401071086,2018,"Wed, Dec 12",Charlotte Hornets,Detroit Pistons,"14-13, 10-5 Home","13-13, 4-7 Away",108,107,,217,Final,,37,23,22,26,,25,30,38,14,,NBA
+54,54,401071111,2018,"Sat, Dec 15",Charlotte Hornets,Los Angeles Lakers,"14-15, 10-7 Home","18-11, 7-7 Away",100,128,LAL -1.0,227,Final,,22,28,17,33,,32,25,40,31,,NBA
+55,55,401071150,2018,"Fri, Dec 21",Charlotte Hornets,Detroit Pistons,"16-15, 12-7 Home","15-15, 5-8 Away",98,86,CHA -4.0,220,Final,,25,20,30,23,,21,19,25,21,,NBA
+56,56,401071181,2018,"Wed, Dec 26",Brooklyn Nets,Charlotte Hornets,"17-19, 9-11 Home","16-17, 4-10 Away",134,132,BKN -1.5,221,Final/2OT,,22,34,23,35,20.0,29,22,26,37,18.0,NBA
+57,57,401071204,2018,"Sat, Dec 29",Washington Wizards,Charlotte Hornets,"14-23, 10-7 Home","17-18, 4-11 Away",130,126,CHA -3.5,218,Final,,27,40,27,36,,29,32,31,34,,NBA
+58,58,401071230,2018,"Wed, Jan 2",Charlotte Hornets,Dallas Mavericks,"18-19, 14-8 Home","18-19, 3-16 Away",84,122,CHA -1.0,223,Final,,26,15,24,19,,42,23,29,28,,NBA
+59,59,401071266,2018,"Sun, Jan 6",Phoenix Suns,Charlotte Hornets,"9-32, 5-17 Home","19-20, 5-12 Away",113,119,PHX -1.5,226,Final,,30,30,21,32,,29,28,28,34,,NBA
+60,60,401071304,2018,"Fri, Jan 11",Portland Trail Blazers,Charlotte Hornets,"26-17, 18-7 Home","19-22, 5-14 Away",127,96,POR -6.5,224,Final,,37,33,31,26,,27,22,19,28,,NBA
+61,61,401071323,2018,"Mon, Jan 14",San Antonio Spurs,Charlotte Hornets,"25-20, 18-6 Home","20-23, 6-15 Away",93,108,SA -7.0,220,Final,NBATV,24,19,29,21,,28,21,27,32,,NBA
+62,62,401071355,2018,"Sat, Jan 19",Charlotte Hornets,Phoenix Suns,"22-23, 16-8 Home","11-36, 4-19 Away",135,115,CHA -7.0,225,Final,,39,32,38,26,,26,34,26,29,,NBA
+63,63,401071386,2018,"Wed, Jan 23",Memphis Grizzlies,Charlotte Hornets,"19-29, 11-12 Home","23-24, 7-16 Away",107,118,MEM -1.5,209,Final,,22,32,22,31,,23,35,28,32,,NBA
+64,64,401071417,2018,"Mon, Jan 28",Charlotte Hornets,New York Knicks,"24-25, 17-8 Home","10-39, 6-22 Away",101,92,CHA -12.0,222,Final,,30,24,17,30,,24,29,18,21,,NBA
+65,65,401071443,2018,"Fri, Feb 1",Charlotte Hornets,Memphis Grizzlies,"25-26, 18-8 Home","20-33, 8-19 Away",100,92,CHA -8.0,203,Final,,17,28,25,30,,29,16,28,19,,NBA
+66,66,401071469,2018,"Tue, Feb 5",Charlotte Hornets,LA Clippers,"26-27, 19-9 Home","30-25, 15-13 Away",115,117,CHA -3.0,224,Final,,25,33,34,23,,26,27,31,33,,NBA
+67,67,401071500,2018,"Sat, Feb 9",Atlanta Hawks,Charlotte Hornets,"18-37, 8-15 Home","27-28, 8-19 Away",120,129,CHA -1.5,228,Final,,31,37,18,34,,46,27,33,23,,NBA
+68,68,401071537,2018,"Thu, Feb 14",Orlando Magic,Charlotte Hornets,"27-32, 16-15 Home","27-30, 8-21 Away",127,89,ORL -4.0,215,Final,,33,38,27,29,,18,18,31,22,,NBA
+69,69,401071557,2018,"Sat, Feb 23",Charlotte Hornets,Brooklyn Nets,"28-31, 20-10 Home","31-30, 14-16 Away",115,117,CHA -3.5,228,Final,,20,30,34,31,,34,29,27,27,,NBA
+70,70,401071584,2018,"Wed, Feb 27",Charlotte Hornets,Houston Rockets,"28-33, 20-12 Home","36-25, 15-16 Away",113,118,HOU -5.0,227,Final,,33,36,25,19,,41,21,28,28,,NBA
+71,71,401071617,2018,"Sun, Mar 3",Charlotte Hornets,Portland Trail Blazers,"29-34, 20-13 Home","39-24, 15-16 Away",108,118,POR -2.5,225,Final,,25,25,30,28,,32,24,25,37,,NBA
+72,72,401071650,2018,"Fri, Mar 8",Charlotte Hornets,Washington Wizards,"30-35, 21-14 Home","27-38, 8-26 Away",112,111,CHA -4.5,234,Final,,32,19,31,30,,22,30,31,28,,NBA
+73,73,401071677,2018,"Mon, Mar 11",Houston Rockets,Charlotte Hornets,"42-25, 24-9 Home","30-37, 9-23 Away",118,106,HOU -9.5,224,Final,NBATV,38,33,22,25,,19,25,36,26,,NBA
+74,74,401071716,2018,"Sun, Mar 17",Miami Heat,Charlotte Hornets,"33-36, 17-20 Home","31-38, 10-24 Away",93,75,MIA -3.0,210,Final,,19,20,22,32,,20,19,21,15,,NBA
+75,75,401071747,2018,"Thu, Mar 21",Charlotte Hornets,Minnesota Timberwolves,"32-39, 22-15 Home","32-40, 9-29 Away",113,106,CHA -5.5,223,Final,,25,29,27,32,,25,26,27,28,,NBA
+76,76,401071771,2018,"Sun, Mar 24",Toronto Raptors,Charlotte Hornets,"51-23, 29-9 Home","34-39, 11-24 Away",114,115,TOR -11.5,223,Final,,32,25,26,31,,27,31,37,20,,NBA
+77,77,401071808,2018,"Fri, Mar 29",Los Angeles Lakers,Charlotte Hornets,"34-42, 21-17 Home","35-40, 11-25 Away",129,115,CHA -2.0,229,Final,,33,36,32,28,,35,24,32,24,,NBA
+78,78,401071832,2018,"Mon, Apr 1",Utah Jazz,Charlotte Hornets,"47-30, 27-12 Home","35-42, 11-27 Away",111,102,UTAH -11.0,219,Final,,26,26,27,32,,23,16,25,38,,NBA
+79,79,401071853,2018,"Fri, Apr 5",Charlotte Hornets,Toronto Raptors,"37-42, 25-15 Home","56-24, 25-15 Away",113,111,TOR -6.0,224,Final,,33,24,33,23,,34,31,21,25,,NBA
+80,80,401071882,2018,"Tue, Apr 9",Cleveland Cavaliers,Charlotte Hornets,"19-63, 13-28 Home","39-42, 14-27 Away",97,124,CHA -8.5,220,Final,,31,25,19,22,,33,31,26,34,,NBA
+81,81,401071895,2018,"Wed, Apr 10",Charlotte Hornets,Orlando Magic,"39-43, 25-16 Home","42-40, 17-24 Away",114,122,CHA -4.5,218,Final,ESPN,25,33,30,26,,30,32,35,25,,NBA

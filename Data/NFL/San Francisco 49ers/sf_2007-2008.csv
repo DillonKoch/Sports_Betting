@@ -1,21 +1,21 @@
-ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
-270916014,2007,"September 16, 2007",St. Louis Rams,San Francisco 49ers,"0-2, 0-2 Home","2-0, 1-0 Away",16,17,NULL,NULL,Final,FOX,7,6,0,3,NULL,0,7,7,3,NULL,2,NFL
-270930025,2007,"September 30, 2007",San Francisco 49ers,Seattle Seahawks,"2-2, 1-1 Home","3-1, 1-1 Away",3,23,NULL,NULL,Final,FOX,0,0,3,0,NULL,0,13,7,3,NULL,4,NFL
-271028025,2007,"October 28, 2007",San Francisco 49ers,New Orleans Saints,"2-5, 1-3 Home","3-4, 2-2 Away",10,31,NULL,NULL,Final,FOX,0,0,3,7,NULL,10,14,0,7,NULL,8,NFL
-271112026,2007,"November 12, 2007",Seattle Seahawks,San Francisco 49ers,"5-4, 4-1 Home","2-7, 1-4 Away",24,0,NULL,NULL,Final,ESPN,10,7,0,7,NULL,0,0,0,0,NULL,10,NFL
-271125022,2007,"November 25, 2007",Arizona Cardinals,San Francisco 49ers,"5-6, 3-2 Home","3-8, 2-4 Away",31,37,NULL,NULL,Final/OT,FOX,7,14,0,10,0,7,10,7,7,6,12,NFL
-271209025,2007,"December 9, 2007",San Francisco 49ers,Minnesota Vikings,"3-10, 1-5 Home","7-6, 3-4 Away",7,27,NULL,NULL,Final,FOX,0,0,7,0,NULL,10,17,0,0,NULL,14,NFL
-271223025,2007,"December 23, 2007",San Francisco 49ers,Tampa Bay Buccaneers,"5-10, 3-5 Home","9-6, 3-5 Away",21,19,NULL,NULL,Final,FOX,0,7,7,7,NULL,6,7,0,6,NULL,16,NFL
-270818025,2007,"August 18, 2007",San Francisco 49ers,Oakland Raiders,"1-1, 1-1 Home","1-1, 0-1 Away",26,21,NULL,NULL,Final,NULL,13,0,7,6,NULL,0,14,7,0,NULL,1,NFL
-270910025,2007,"September 10, 2007",San Francisco 49ers,Arizona Cardinals,"1-0, 1-0 Home","0-1, 0-1 Away",20,17,NULL,NULL,Final,ESPN,7,3,3,7,NULL,0,10,0,7,NULL,1,NFL
-270923023,2007,"September 23, 2007",Pittsburgh Steelers,San Francisco 49ers,"3-0, 2-0 Home","2-1, 1-1 Away",37,16,NULL,NULL,Final,FOX,7,7,3,20,NULL,6,0,3,7,NULL,3,NFL
-271007025,2007,"October 7, 2007",San Francisco 49ers,Baltimore Ravens,"2-3, 1-2 Home","3-2, 1-2 Away",7,9,NULL,NULL,Final,CBS,0,0,7,0,NULL,0,6,3,0,NULL,5,NFL
-271021019,2007,"October 21, 2007",New York Giants,San Francisco 49ers,"5-2, 3-1 Home","2-4, 1-2 Away",33,15,NULL,NULL,Final,FOX,6,13,7,7,NULL,0,7,2,6,NULL,7,NFL
-271104001,2007,"November 4, 2007",Atlanta Falcons,San Francisco 49ers,"2-6, 2-2 Home","2-6, 1-3 Away",20,16,NULL,NULL,Final,FOX,7,7,0,6,NULL,7,0,6,3,NULL,9,NFL
-271118025,2007,"November 18, 2007",San Francisco 49ers,St. Louis Rams,"2-8, 1-4 Home","2-8, 2-4 Away",9,13,NULL,NULL,Final,FOX,3,0,0,6,NULL,7,3,0,3,NULL,11,NFL
-271202029,2007,"December 2, 2007",Carolina Panthers,San Francisco 49ers,"5-7, 1-5 Home","3-9, 2-5 Away",31,14,NULL,NULL,Final,FOX,3,14,7,7,NULL,0,0,14,0,NULL,13,NFL
-271215025,2007,"December 15, 2007",San Francisco 49ers,Cincinnati Bengals,"4-10, 2-5 Home","5-9, 1-6 Away",20,13,NULL,NULL,Final,NFL,0,14,6,0,NULL,0,10,0,3,NULL,15,NFL
-270813025,2007,"August 13, 2007",San Francisco 49ers,Denver Broncos,"0-1, 0-1 Home","1-0, 1-0 Away",13,17,NULL,NULL,Final,ESPN,10,3,0,0,NULL,7,7,3,0,NULL,HOF,NFL
-270825003,2007,"August 25, 2007",Chicago Bears,San Francisco 49ers,"3-0, 1-0 Home","1-2, 0-1 Away",31,28,NULL,NULL,Final,NULL,10,21,0,0,NULL,0,13,0,15,NULL,2,NFL
-270830024,2007,"August 30, 2007",San Diego Chargers,San Francisco 49ers,"3-1, 1-1 Home","1-3, 0-2 Away",16,13,NULL,NULL,Final,NULL,3,10,0,3,NULL,0,3,0,10,NULL,3,NFL
-271230005,2007,"December 30, 2007",Cleveland Browns,San Francisco 49ers,"10-6, 7-1 Home","5-11, 2-6 Away",20,7,NULL,NULL,Final,FOX,7,10,0,3,NULL,0,7,0,0,NULL,17,NFL
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
+0,270916014,2007,"September 16, 2007",St. Louis Rams,San Francisco 49ers,"0-2, 0-2 Home","2-0, 1-0 Away",16,17,,,Final,FOX,7,6,0,3,,0,7,7,3,,2,NFL
+1,270930025,2007,"September 30, 2007",San Francisco 49ers,Seattle Seahawks,"2-2, 1-1 Home","3-1, 1-1 Away",3,23,,,Final,FOX,0,0,3,0,,0,13,7,3,,4,NFL
+2,271028025,2007,"October 28, 2007",San Francisco 49ers,New Orleans Saints,"2-5, 1-3 Home","3-4, 2-2 Away",10,31,,,Final,FOX,0,0,3,7,,10,14,0,7,,8,NFL
+3,271112026,2007,"November 12, 2007",Seattle Seahawks,San Francisco 49ers,"5-4, 4-1 Home","2-7, 1-4 Away",24,0,,,Final,ESPN,10,7,0,7,,0,0,0,0,,10,NFL
+4,271125022,2007,"November 25, 2007",Arizona Cardinals,San Francisco 49ers,"5-6, 3-2 Home","3-8, 2-4 Away",31,37,,,Final/OT,FOX,7,14,0,10,0.0,7,10,7,7,6.0,12,NFL
+5,271209025,2007,"December 9, 2007",San Francisco 49ers,Minnesota Vikings,"3-10, 1-5 Home","7-6, 3-4 Away",7,27,,,Final,FOX,0,0,7,0,,10,17,0,0,,14,NFL
+6,271223025,2007,"December 23, 2007",San Francisco 49ers,Tampa Bay Buccaneers,"5-10, 3-5 Home","9-6, 3-5 Away",21,19,,,Final,FOX,0,7,7,7,,6,7,0,6,,16,NFL
+7,270818025,2007,"August 18, 2007",San Francisco 49ers,Oakland Raiders,"1-1, 1-1 Home","1-1, 0-1 Away",26,21,,,Final,,13,0,7,6,,0,14,7,0,,1,NFL
+8,270910025,2007,"September 10, 2007",San Francisco 49ers,Arizona Cardinals,"1-0, 1-0 Home","0-1, 0-1 Away",20,17,,,Final,ESPN,7,3,3,7,,0,10,0,7,,1,NFL
+9,270923023,2007,"September 23, 2007",Pittsburgh Steelers,San Francisco 49ers,"3-0, 2-0 Home","2-1, 1-1 Away",37,16,,,Final,FOX,7,7,3,20,,6,0,3,7,,3,NFL
+10,271007025,2007,"October 7, 2007",San Francisco 49ers,Baltimore Ravens,"2-3, 1-2 Home","3-2, 1-2 Away",7,9,,,Final,CBS,0,0,7,0,,0,6,3,0,,5,NFL
+11,271021019,2007,"October 21, 2007",New York Giants,San Francisco 49ers,"5-2, 3-1 Home","2-4, 1-2 Away",33,15,,,Final,FOX,6,13,7,7,,0,7,2,6,,7,NFL
+12,271104001,2007,"November 4, 2007",Atlanta Falcons,San Francisco 49ers,"2-6, 2-2 Home","2-6, 1-3 Away",20,16,,,Final,FOX,7,7,0,6,,7,0,6,3,,9,NFL
+13,271118025,2007,"November 18, 2007",San Francisco 49ers,St. Louis Rams,"2-8, 1-4 Home","2-8, 2-4 Away",9,13,,,Final,FOX,3,0,0,6,,7,3,0,3,,11,NFL
+14,271202029,2007,"December 2, 2007",Carolina Panthers,San Francisco 49ers,"5-7, 1-5 Home","3-9, 2-5 Away",31,14,,,Final,FOX,3,14,7,7,,0,0,14,0,,13,NFL
+15,271215025,2007,"December 15, 2007",San Francisco 49ers,Cincinnati Bengals,"4-10, 2-5 Home","5-9, 1-6 Away",20,13,,,Final,NFL,0,14,6,0,,0,10,0,3,,15,NFL
+16,270813025,2007,"August 13, 2007",San Francisco 49ers,Denver Broncos,"0-1, 0-1 Home","1-0, 1-0 Away",13,17,,,Final,ESPN,10,3,0,0,,7,7,3,0,,HOF,NFL
+17,270825003,2007,"August 25, 2007",Chicago Bears,San Francisco 49ers,"3-0, 1-0 Home","1-2, 0-1 Away",31,28,,,Final,,10,21,0,0,,0,13,0,15,,2,NFL
+18,270830024,2007,"August 30, 2007",San Diego Chargers,San Francisco 49ers,"3-1, 1-1 Home","1-3, 0-2 Away",16,13,,,Final,,3,10,0,3,,0,3,0,10,,3,NFL
+19,271230005,2007,"December 30, 2007",Cleveland Browns,San Francisco 49ers,"10-6, 7-1 Home","5-11, 2-6 Away",20,7,,,Final,FOX,7,10,0,3,,0,7,0,0,,17,NFL

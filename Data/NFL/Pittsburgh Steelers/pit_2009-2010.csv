@@ -1,21 +1,21 @@
-ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
-290920003,2009,"September 20, 2009",Chicago Bears,Pittsburgh Steelers,"1-1, 1-0 Home","1-1, 0-1 Away",17,14,NULL,NULL,Final,CBS,0,7,0,10,NULL,7,0,7,0,NULL,2,NFL
-291004023,2009,"October 4, 2009",Pittsburgh Steelers,San Diego Chargers,"2-2, 2-0 Home","2-2, 1-1 Away",38,28,NULL,NULL,Final,NBC,14,7,7,10,NULL,0,0,7,21,NULL,4,NFL
-291018023,2009,"October 18, 2009",Pittsburgh Steelers,Cleveland Browns,"4-2, 3-0 Home","1-5, 1-3 Away",27,14,NULL,NULL,Final,CBS,0,17,7,3,NULL,0,7,7,0,NULL,6,NFL
-291115023,2009,"November 15, 2009",Pittsburgh Steelers,Cincinnati Bengals,"6-3, 4-1 Home","7-2, 4-0 Away",12,18,NULL,NULL,Final,CBS,3,6,0,3,NULL,6,0,6,6,NULL,10,NFL
-291129033,2009,"November 29, 2009",Baltimore Ravens,Pittsburgh Steelers,"6-5, 4-2 Home","6-5, 2-4 Away",20,17,NULL,NULL,Final/OT,NBC,7,7,0,3,3,0,7,3,7,0,12,NFL
-291210005,2009,"December 10, 2009",Cleveland Browns,Pittsburgh Steelers,"2-11, 1-5 Home","6-7, 2-5 Away",13,6,NULL,NULL,Final,NFL,3,10,0,0,NULL,0,3,3,0,NULL,14,NFL
-291227023,2009,"December 27, 2009",Pittsburgh Steelers,Baltimore Ravens,"8-7, 6-2 Home","8-7, 2-5 Away",23,20,NULL,NULL,Final,CBS,6,14,0,3,NULL,3,7,10,0,NULL,16,NFL
-290822028,2009,"August 22, 2009",Washington Redskins,Pittsburgh Steelers,"1-1, 1-0 Home","1-1, 0-1 Away",17,13,NULL,NULL,Final,NFL,3,0,7,7,NULL,7,3,3,0,NULL,2,NFL
-290910023,2009,"September 10, 2009",Pittsburgh Steelers,Tennessee Titans,"1-0, 1-0 Home","0-1, 0-1 Away",13,10,NULL,NULL,Final/OT,NBC,0,7,0,3,3,0,7,0,3,0,1,NFL
-290927004,2009,"September 27, 2009",Cincinnati Bengals,Pittsburgh Steelers,"2-1, 1-1 Home","1-2, 0-2 Away",23,20,NULL,NULL,Final,CBS,0,3,6,14,NULL,10,3,7,0,NULL,3,NFL
-291011008,2009,"October 11, 2009",Detroit Lions,Pittsburgh Steelers,"1-4, 1-2 Home","3-2, 1-2 Away",20,28,NULL,NULL,Final,CBS,6,7,0,7,NULL,7,14,7,0,NULL,5,NFL
-291025023,2009,"October 25, 2009",Pittsburgh Steelers,Minnesota Vikings,"5-2, 4-0 Home","6-1, 3-1 Away",27,17,NULL,NULL,Final,FOX,3,7,3,14,NULL,0,7,3,7,NULL,7,NFL
-291109007,2009,"November 9, 2009",Denver Broncos,Pittsburgh Steelers,"6-2, 3-1 Home","6-2, 2-2 Away",10,28,NULL,NULL,Final,ESPN,3,0,7,0,NULL,0,7,7,14,NULL,9,NFL
-291122012,2009,"November 22, 2009",Kansas City Chiefs,Pittsburgh Steelers,"3-7, 1-4 Home","6-4, 2-3 Away",27,24,NULL,NULL,Final/OT,CBS,7,0,10,7,3,0,17,0,7,0,11,NFL
-291206023,2009,"December 6, 2009",Pittsburgh Steelers,Oakland Raiders,"6-6, 4-2 Home","4-8, 2-4 Away",24,27,NULL,NULL,Final,CBS,3,7,0,14,NULL,3,3,0,21,NULL,13,NFL
-291220023,2009,"December 20, 2009",Pittsburgh Steelers,Green Bay Packers,"7-7, 5-2 Home","9-5, 4-3 Away",37,36,NULL,NULL,Final,FOX,14,7,3,13,NULL,7,7,0,22,NULL,15,NFL
-290813023,2009,"August 13, 2009",Pittsburgh Steelers,Arizona Cardinals,"1-0, 1-0 Home","0-1, 0-1 Away",20,10,NULL,NULL,Final,ESPN,0,3,0,17,NULL,0,3,0,7,NULL,1,NFL
-290829023,2009,"August 29, 2009",Pittsburgh Steelers,Buffalo Bills,"2-1, 2-0 Home","1-3, 0-3 Away",17,0,NULL,NULL,Final,NULL,0,17,0,0,NULL,0,0,0,0,NULL,3,NFL
-290903029,2009,"September 3, 2009",Carolina Panthers,Pittsburgh Steelers,"0-4, 0-2 Home","3-1, 1-1 Away",10,21,NULL,NULL,Final,NULL,0,0,7,3,NULL,14,0,7,0,NULL,4,NFL
-300103015,2009,"January 3, 2010",Miami Dolphins,Pittsburgh Steelers,"7-9, 4-4 Home","9-7, 3-5 Away",24,30,NULL,NULL,Final,CBS,7,3,0,14,NULL,14,3,7,6,NULL,17,NFL
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
+0,290920003,2009,"September 20, 2009",Chicago Bears,Pittsburgh Steelers,"1-1, 1-0 Home","1-1, 0-1 Away",17,14,,,Final,CBS,0,7,0,10,,7,0,7,0,,2,NFL
+1,291004023,2009,"October 4, 2009",Pittsburgh Steelers,San Diego Chargers,"2-2, 2-0 Home","2-2, 1-1 Away",38,28,,,Final,NBC,14,7,7,10,,0,0,7,21,,4,NFL
+2,291018023,2009,"October 18, 2009",Pittsburgh Steelers,Cleveland Browns,"4-2, 3-0 Home","1-5, 1-3 Away",27,14,,,Final,CBS,0,17,7,3,,0,7,7,0,,6,NFL
+3,291115023,2009,"November 15, 2009",Pittsburgh Steelers,Cincinnati Bengals,"6-3, 4-1 Home","7-2, 4-0 Away",12,18,,,Final,CBS,3,6,0,3,,6,0,6,6,,10,NFL
+4,291129033,2009,"November 29, 2009",Baltimore Ravens,Pittsburgh Steelers,"6-5, 4-2 Home","6-5, 2-4 Away",20,17,,,Final/OT,NBC,7,7,0,3,3.0,0,7,3,7,0.0,12,NFL
+5,291210005,2009,"December 10, 2009",Cleveland Browns,Pittsburgh Steelers,"2-11, 1-5 Home","6-7, 2-5 Away",13,6,,,Final,NFL,3,10,0,0,,0,3,3,0,,14,NFL
+6,291227023,2009,"December 27, 2009",Pittsburgh Steelers,Baltimore Ravens,"8-7, 6-2 Home","8-7, 2-5 Away",23,20,,,Final,CBS,6,14,0,3,,3,7,10,0,,16,NFL
+7,290822028,2009,"August 22, 2009",Washington Redskins,Pittsburgh Steelers,"1-1, 1-0 Home","1-1, 0-1 Away",17,13,,,Final,NFL,3,0,7,7,,7,3,3,0,,2,NFL
+8,290910023,2009,"September 10, 2009",Pittsburgh Steelers,Tennessee Titans,"1-0, 1-0 Home","0-1, 0-1 Away",13,10,,,Final/OT,NBC,0,7,0,3,3.0,0,7,0,3,0.0,1,NFL
+9,290927004,2009,"September 27, 2009",Cincinnati Bengals,Pittsburgh Steelers,"2-1, 1-1 Home","1-2, 0-2 Away",23,20,,,Final,CBS,0,3,6,14,,10,3,7,0,,3,NFL
+10,291011008,2009,"October 11, 2009",Detroit Lions,Pittsburgh Steelers,"1-4, 1-2 Home","3-2, 1-2 Away",20,28,,,Final,CBS,6,7,0,7,,7,14,7,0,,5,NFL
+11,291025023,2009,"October 25, 2009",Pittsburgh Steelers,Minnesota Vikings,"5-2, 4-0 Home","6-1, 3-1 Away",27,17,,,Final,FOX,3,7,3,14,,0,7,3,7,,7,NFL
+12,291109007,2009,"November 9, 2009",Denver Broncos,Pittsburgh Steelers,"6-2, 3-1 Home","6-2, 2-2 Away",10,28,,,Final,ESPN,3,0,7,0,,0,7,7,14,,9,NFL
+13,291122012,2009,"November 22, 2009",Kansas City Chiefs,Pittsburgh Steelers,"3-7, 1-4 Home","6-4, 2-3 Away",27,24,,,Final/OT,CBS,7,0,10,7,3.0,0,17,0,7,0.0,11,NFL
+14,291206023,2009,"December 6, 2009",Pittsburgh Steelers,Oakland Raiders,"6-6, 4-2 Home","4-8, 2-4 Away",24,27,,,Final,CBS,3,7,0,14,,3,3,0,21,,13,NFL
+15,291220023,2009,"December 20, 2009",Pittsburgh Steelers,Green Bay Packers,"7-7, 5-2 Home","9-5, 4-3 Away",37,36,,,Final,FOX,14,7,3,13,,7,7,0,22,,15,NFL
+16,290813023,2009,"August 13, 2009",Pittsburgh Steelers,Arizona Cardinals,"1-0, 1-0 Home","0-1, 0-1 Away",20,10,,,Final,ESPN,0,3,0,17,,0,3,0,7,,1,NFL
+17,290829023,2009,"August 29, 2009",Pittsburgh Steelers,Buffalo Bills,"2-1, 2-0 Home","1-3, 0-3 Away",17,0,,,Final,,0,17,0,0,,0,0,0,0,,3,NFL
+18,290903029,2009,"September 3, 2009",Carolina Panthers,Pittsburgh Steelers,"0-4, 0-2 Home","3-1, 1-1 Away",10,21,,,Final,,0,0,7,3,,14,0,7,0,,4,NFL
+19,300103015,2009,"January 3, 2010",Miami Dolphins,Pittsburgh Steelers,"7-9, 4-4 Home","9-7, 3-5 Away",24,30,,,Final,CBS,7,3,0,14,,14,3,7,6,,17,NFL

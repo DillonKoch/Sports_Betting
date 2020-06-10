@@ -1,0 +1,83 @@
+,Unnamed: 0,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,0,301029003,2010,"Fri, Oct 29",New Orleans Hornets,Denver Nuggets,"2-0, 2-0 Home","1-1, 0-1 Away",101,95,,,Final,,27,32,13,29,,25,25,21,24,,NBA
+1,1,301103010,2010,"Wed, Nov 3",Houston Rockets,New Orleans Hornets,"0-4, 0-2 Home","4-0, 2-0 Away",99,107,,,Final,,28,21,22,28,,28,15,30,34,,NBA
+2,2,301106015,2010,"Sat, Nov 6",Milwaukee Bucks,New Orleans Hornets,"2-5, 1-2 Home","6-0, 3-0 Away",81,87,,,Final,,18,17,19,27,,23,18,24,22,,NBA
+3,3,301113003,2010,"Sat, Nov 13",New Orleans Hornets,Portland Trail Blazers,"8-0, 5-0 Home","6-5, 3-4 Away",107,87,,,Final,,26,22,27,32,,19,16,31,21,,NBA
+4,4,301117003,2010,"Wed, Nov 17",New Orleans Hornets,Dallas Mavericks,"9-1, 6-0 Home","7-3, 3-1 Away",99,97,,,Final,,23,19,33,24,,31,21,17,28,,NBA
+5,5,301121023,2010,"Sun, Nov 21",Sacramento Kings,New Orleans Hornets,"4-8, 2-6 Home","11-1, 4-1 Away",71,75,,,Final,NBATV,16,23,17,15,,14,25,20,16,,NBA
+6,6,301124026,2010,"Wed, Nov 24",Utah Jazz,New Orleans Hornets,"11-5, 5-3 Home","11-3, 4-3 Away",105,87,,,Final,,31,30,19,25,,30,21,21,15,,NBA
+7,7,301128003,2010,"Sun, Nov 28",New Orleans Hornets,San Antonio Spurs,"12-4, 7-1 Home","14-2, 7-0 Away",95,109,,,Final,,34,27,16,18,,26,18,28,37,,NBA
+8,8,301201003,2010,"Wed, Dec 1",New Orleans Hornets,Charlotte Bobcats,"13-5, 8-1 Home","6-12, 3-7 Away",89,73,,,Final,,28,15,22,24,,24,18,20,11,,NBA
+9,9,301205024,2010,"Sun, Dec 5",San Antonio Spurs,New Orleans Hornets,"17-3, 9-2 Home","13-7, 5-5 Away",109,84,,,Final,NBATV,34,34,22,19,,23,18,18,25,,NBA
+10,10,301210003,2010,"Fri, Dec 10",New Orleans Hornets,Oklahoma City Thunder,"14-8, 9-3 Home","16-8, 9-4 Away",92,97,,,Final,,32,27,12,21,,31,21,22,23,,NBA
+11,11,301213014,2010,"Mon, Dec 13",Miami Heat,New Orleans Hornets,"18-8, 11-3 Home","14-10, 5-7 Away",96,84,,,Final,,25,28,29,14,,23,31,21,9,,NBA
+12,12,301217003,2010,"Fri, Dec 17",New Orleans Hornets,Utah Jazz,"16-10, 11-3 Home","18-9, 7-4 Away",100,71,,,Final,,21,29,31,19,,14,19,21,17,,NBA
+13,13,301220011,2010,"Mon, Dec 20",Indiana Pacers,New Orleans Hornets,"13-14, 8-6 Home","16-12, 5-9 Away",94,93,,,Final,,24,28,16,26,,16,27,26,24,,NBA
+14,14,301226003,2010,"Sun, Dec 26",New Orleans Hornets,Atlanta Hawks,"18-12, 13-3 Home","19-13, 8-8 Away",93,86,,,Final,,25,21,28,19,,27,28,16,15,,NBA
+15,15,301229003,2010,"Wed, Dec 29",New Orleans Hornets,Los Angeles Lakers,"18-14, 13-4 Home","22-10, 12-6 Away",88,103,,,Final,,23,18,19,28,,26,33,24,20,,NBA
+16,16,310101027,2010,"Sat, Jan 1",Washington Wizards,New Orleans Hornets,"8-24, 8-8 Home","20-14, 7-10 Away",81,92,,,Final,,23,24,15,19,,24,18,26,24,,NBA
+17,17,310105003,2010,"Wed, Jan 5",New Orleans Hornets,Golden State Warriors,"21-15, 14-5 Home","14-21, 6-15 Away",103,110,,,Final,,34,24,24,21,,29,18,25,38,,NBA
+18,18,310109007,2010,"Sun, Jan 9",Denver Nuggets,New Orleans Hornets,"20-16, 15-4 Home","22-16, 8-11 Away",87,96,,,Final,,22,21,23,21,,23,31,24,18,,NBA
+19,19,310114010,2010,"Fri, Jan 14",Houston Rockets,New Orleans Hornets,"17-23, 10-9 Home","24-16, 9-11 Away",105,110,,,Final/OT,,28,19,29,19,10.0,21,29,14,31,15.0,NBA
+20,20,310117003,2010,"Mon, Jan 17",New Orleans Hornets,Toronto Raptors,"26-16, 16-5 Home","13-28, 5-16 Away",85,81,,,Final,,20,17,25,23,,16,28,21,16,,NBA
+21,21,310121001,2010,"Fri, Jan 21",Atlanta Hawks,New Orleans Hornets,"28-16, 14-7 Home","28-16, 11-11 Away",59,100,,,Final,,17,17,11,14,,19,30,21,30,,NBA
+22,22,310124003,2010,"Mon, Jan 24",New Orleans Hornets,Oklahoma City Thunder,"30-16, 19-5 Home","28-16, 12-10 Away",91,89,,,Final,,19,31,21,20,,33,12,26,18,,NBA
+23,23,310129023,2010,"Sat, Jan 29",Sacramento Kings,New Orleans Hornets,"12-33, 7-17 Home","31-17, 12-12 Away",102,96,,,Final,,24,32,20,26,,22,24,21,29,,NBA
+24,24,310201003,2010,"Tue, Feb 1",New Orleans Hornets,Washington Wizards,"32-18, 20-5 Home","13-35, 0-25 Away",97,89,,,Final,,29,26,25,17,,26,18,21,24,,NBA
+25,25,310205003,2010,"Sat, Feb 5",New Orleans Hornets,Los Angeles Lakers,"32-20, 20-6 Home","35-16, 16-8 Away",95,101,,,Final,,19,31,32,13,,27,29,25,20,,NBA
+26,26,310209017,2010,"Wed, Feb 9",New Jersey Nets,New Orleans Hornets,"16-37, 13-13 Home","32-22, 12-15 Away",103,101,,,Final/OT,,23,23,23,22,12.0,27,15,29,20,10.0,NBA
+27,27,310212003,2010,"Sat, Feb 12",New Orleans Hornets,Chicago Bulls,"33-23, 20-8 Home","36-16, 13-12 Away",88,97,,,Final,,22,31,21,14,,24,18,30,25,,NBA
+28,28,310216022,2010,"Wed, Feb 16",Portland Trail Blazers,New Orleans Hornets,"32-24, 19-7 Home","33-25, 13-17 Away",103,96,,,Final,,35,13,22,33,,26,23,27,20,,NBA
+29,29,310225016,2010,"Fri, Feb 25",Minnesota Timberwolves,New Orleans Hornets,"13-46, 9-21 Home","35-25, 14-17 Away",81,95,,,Final,,26,17,18,20,,35,20,24,16,,NBA
+30,30,310301028,2010,"Tue, Mar 1",Toronto Raptors,New Orleans Hornets,"17-44, 12-20 Home","35-27, 14-18 Away",96,90,,,Final,,27,30,15,24,,20,22,20,28,,NBA
+31,31,310304029,2010,"Fri, Mar 4",Memphis Grizzlies,New Orleans Hornets,"34-29, 21-9 Home","36-28, 15-19 Away",91,98,,,Final,,20,25,27,19,,20,25,27,26,,NBA
+32,32,310307004,2010,"Mon, Mar 7",Chicago Bulls,New Orleans Hornets,"44-18, 27-4 Home","37-29, 16-20 Away",85,77,,,Final,,26,17,23,19,,23,20,17,17,,NBA
+33,33,310312003,2010,"Sat, Mar 12",New Orleans Hornets,Sacramento Kings,"39-29, 23-9 Home","15-49, 7-24 Away",115,103,,,Final,,31,26,27,31,,24,33,28,18,,NBA
+34,34,310316003,2010,"Wed, Mar 16",New Orleans Hornets,Phoenix Suns,"40-30, 24-10 Home","33-33, 15-18 Away",100,95,,,Final,,31,25,21,23,,29,17,19,30,,NBA
+35,35,310324026,2010,"Thu, Mar 24",Utah Jazz,New Orleans Hornets,"36-37, 20-16 Home","41-31, 17-20 Away",117,121,,,Final/OT,,32,22,24,27,12.0,27,29,22,27,16.0,NBA
+36,36,310327013,2010,"Sun, Mar 27",Los Angeles Lakers,New Orleans Hornets,"53-20, 28-8 Home","42-32, 18-21 Away",102,84,,,Final,,30,27,17,28,,19,22,22,21,,NBA
+37,37,310401003,2010,"Fri, Apr 1",New Orleans Hornets,Memphis Grizzlies,"43-33, 25-12 Home","43-33, 16-23 Away",81,93,,,Final,,12,26,23,20,,23,28,20,22,,NBA
+38,38,310406003,2010,"Wed, Apr 6",New Orleans Hornets,Houston Rockets,"45-33, 27-12 Home","41-38, 17-23 Away",101,93,,,Final,,21,30,23,27,,38,17,16,22,,NBA
+39,39,310410029,2010,"Sun, Apr 10",Memphis Grizzlies,New Orleans Hornets,"46-34, 30-11 Home","46-34, 18-22 Away",111,89,,,Final,,30,22,30,29,,30,18,19,22,,NBA
+40,40,301027003,2010,"Wed, Oct 27",New Orleans Hornets,Milwaukee Bucks,"1-0, 1-0 Home","0-1, 0-1 Away",95,91,,,Final,,29,18,31,17,,30,17,25,19,,NBA
+41,41,301030024,2010,"Sat, Oct 30",San Antonio Spurs,New Orleans Hornets,"1-1, 1-1 Home","3-0, 1-0 Away",90,99,,,Final,,24,18,18,30,,17,26,33,23,,NBA
+42,42,301105003,2010,"Fri, Nov 5",New Orleans Hornets,Miami Heat,"5-0, 3-0 Home","4-2, 2-2 Away",96,93,,,Final,,29,21,22,24,,17,24,23,29,,NBA
+43,43,301109003,2010,"Tue, Nov 9",New Orleans Hornets,LA Clippers,"7-0, 4-0 Home","1-7, 0-4 Away",101,82,,,Final,,27,21,22,31,,18,23,19,22,,NBA
+44,44,301115006,2010,"Mon, Nov 15",Dallas Mavericks,New Orleans Hornets,"7-2, 4-2 Home","8-1, 3-1 Away",98,95,,,Final,,27,20,22,29,,24,28,24,19,,NBA
+45,45,301119003,2010,"Fri, Nov 19",New Orleans Hornets,Cleveland Cavaliers,"10-1, 7-0 Home","5-6, 3-2 Away",108,101,,,Final,NBATV,26,36,19,27,,28,15,25,33,,NBA
+46,46,301122012,2010,"Mon, Nov 22",LA Clippers,New Orleans Hornets,"2-13, 2-6 Home","11-2, 4-2 Away",99,95,,,Final,,33,22,22,22,,37,20,16,22,,NBA
+47,47,301126022,2010,"Fri, Nov 26",Portland Trail Blazers,New Orleans Hornets,"8-7, 4-3 Home","12-3, 5-3 Away",78,97,,,Final,,33,15,17,13,,26,28,21,22,,NBA
+48,48,301129025,2010,"Mon, Nov 29",Oklahoma City Thunder,New Orleans Hornets,"12-6, 6-4 Home","12-5, 5-4 Away",95,89,,,Final,,23,27,18,27,,19,29,22,19,,NBA
+49,49,301203003,2010,"Fri, Dec 3",New Orleans Hornets,New York Knicks,"13-6, 8-2 Home","11-9, 8-4 Away",92,100,,,Final,,26,27,20,19,,21,34,24,21,,NBA
+50,50,301208003,2010,"Wed, Dec 8",New Orleans Hornets,Detroit Pistons,"14-7, 9-2 Home","7-16, 2-11 Away",93,74,,,Final,,22,22,29,20,,15,19,23,17,,NBA
+51,51,301212020,2010,"Sun, Dec 12",Philadelphia 76ers,New Orleans Hornets,"8-15, 7-5 Home","14-9, 5-6 Away",88,70,,,Final,CSN,20,25,22,21,,13,10,23,24,,NBA
+52,52,301215003,2010,"Wed, Dec 15",New Orleans Hornets,Sacramento Kings,"15-10, 10-3 Home","5-18, 2-8 Away",94,91,,,Final,,23,18,28,25,,29,28,20,14,,NBA
+53,53,301219008,2010,"Sun, Dec 19",Detroit Pistons,New Orleans Hornets,"9-19, 7-7 Home","16-11, 5-8 Away",111,108,,,Final/OT,,20,21,31,28,11.0,20,31,27,22,8.0,NBA
+54,54,301222003,2010,"Wed, Dec 22",New Orleans Hornets,New Jersey Nets,"17-12, 12-3 Home","9-21, 3-13 Away",105,91,,,Final,,32,25,26,22,,29,21,13,28,,NBA
+55,55,301227016,2010,"Mon, Dec 27",Minnesota Timberwolves,New Orleans Hornets,"8-24, 6-7 Home","18-13, 5-10 Away",113,98,,,Final,,27,27,28,31,,35,22,20,21,,NBA
+56,56,301231002,2010,"Fri, Dec 31",Boston Celtics,New Orleans Hornets,"24-7, 13-2 Home","19-14, 6-10 Away",81,83,,,Final,,19,20,18,24,,23,14,29,17,,NBA
+57,57,310103003,2010,"Mon, Jan 3",New Orleans Hornets,Philadelphia 76ers,"21-14, 14-4 Home","13-21, 5-15 Away",84,77,,,Final,NBATV,23,20,25,16,,26,14,18,19,,NBA
+58,58,310107013,2010,"Fri, Jan 7",Los Angeles Lakers,New Orleans Hornets,"26-11, 13-5 Home","21-16, 7-11 Away",101,97,,,Final,,27,24,29,21,,24,22,25,26,,NBA
+59,59,310112003,2010,"Wed, Jan 12",New Orleans Hornets,Orlando Magic,"23-16, 15-5 Home","25-13, 10-8 Away",92,89,,,Final/OT,,17,23,27,14,11.0,21,18,22,20,8.0,NBA
+60,60,310115030,2010,"Sat, Jan 15",Charlotte Bobcats,New Orleans Hornets,"15-23, 11-10 Home","25-16, 10-11 Away",81,88,,,Final,,21,21,25,14,,25,23,21,19,,NBA
+61,61,310119003,2010,"Wed, Jan 19",New Orleans Hornets,Memphis Grizzlies,"27-16, 17-5 Home","19-23, 7-16 Away",103,102,,,Final/OT,,18,24,25,25,11.0,26,25,16,25,10.0,NBA
+62,62,310122003,2010,"Sat, Jan 22",New Orleans Hornets,San Antonio Spurs,"29-16, 18-5 Home","37-7, 13-5 Away",96,72,,,Final,,13,28,31,24,,12,26,10,24,,NBA
+63,63,310126009,2010,"Wed, Jan 26",Golden State Warriors,New Orleans Hornets,"19-26, 13-9 Home","31-16, 12-11 Away",103,112,,,Final,,21,28,27,27,,34,27,32,19,,NBA
+64,64,310130021,2010,"Sun, Jan 30",Phoenix Suns,New Orleans Hornets,"22-24, 13-10 Home","31-18, 12-13 Away",104,102,,,Final,,27,26,35,16,,25,28,27,22,,NBA
+65,65,310202025,2010,"Wed, Feb 2",Oklahoma City Thunder,New Orleans Hornets,"31-17, 18-7 Home","32-19, 12-14 Away",104,93,,,Final,NBATV,29,20,32,23,,25,30,17,21,,NBA
+66,66,310207003,2010,"Mon, Feb 7",New Orleans Hornets,Minnesota Timberwolves,"32-21, 20-7 Home","12-39, 3-23 Away",92,104,,,Final,NBATV,23,23,24,22,,23,37,22,22,,NBA
+67,67,310211019,2010,"Fri, Feb 11",Orlando Magic,New Orleans Hornets,"34-21, 19-8 Home","33-22, 13-15 Away",93,99,,,Final,,24,28,28,13,,28,33,19,19,,NBA
+68,68,310215009,2010,"Tue, Feb 15",Golden State Warriors,New Orleans Hornets,"25-29, 19-11 Home","33-24, 13-16 Away",102,89,,,Final,,22,36,25,19,,32,21,18,18,,NBA
+69,69,310223003,2010,"Wed, Feb 23",New Orleans Hornets,LA Clippers,"34-25, 21-8 Home","21-37, 5-23 Away",98,87,,,Final,ESPN,23,22,28,25,,16,22,24,25,,NBA
+70,70,310227003,2010,"Sun, Feb 27",New Orleans Hornets,Houston Rockets,"35-26, 21-9 Home","30-31, 14-18 Away",89,91,,,Final,,27,28,17,17,,21,19,22,29,,NBA
+71,71,310302018,2010,"Wed, Mar 2",New York Knicks,New Orleans Hornets,"31-28, 17-12 Home","35-28, 14-19 Away",107,88,,,Final,,27,25,30,25,,25,17,20,26,,NBA
+72,72,310306005,2010,"Sun, Mar 6",Cleveland Cavaliers,New Orleans Hornets,"12-50, 8-23 Home","37-28, 16-19 Away",81,96,,,Final,ESPN,24,24,18,15,,27,24,22,23,,NBA
+73,73,310309003,2010,"Wed, Mar 9",New Orleans Hornets,Dallas Mavericks,"38-29, 22-9 Home","46-18, 23-9 Away",93,92,,,Final,,16,27,17,33,,16,30,24,22,,NBA
+74,74,310314003,2010,"Mon, Mar 14",New Orleans Hornets,Denver Nuggets,"39-30, 23-10 Home","40-27, 13-20 Away",103,114,,,Final,,21,24,30,28,,23,35,36,20,,NBA
+75,75,310319003,2010,"Sat, Mar 19",New Orleans Hornets,Boston Celtics,"40-31, 24-11 Home","49-19, 20-13 Away",85,89,,,Final,,28,23,13,21,,14,26,27,22,,NBA
+76,76,310325021,2010,"Fri, Mar 25",Phoenix Suns,New Orleans Hornets,"36-35, 20-16 Home","42-31, 18-20 Away",100,106,,,Final,NBATV,27,29,22,22,,21,29,23,33,,NBA
+77,77,310330003,2010,"Wed, Mar 30",New Orleans Hornets,Portland Trail Blazers,"43-32, 25-11 Home","43-32, 17-22 Away",95,91,,,Final,,25,23,20,27,,31,19,20,21,,NBA
+78,78,310403003,2010,"Sun, Apr 3",New Orleans Hornets,Indiana Pacers,"44-33, 26-12 Home","35-43, 13-27 Away",108,96,,,Final,,29,28,32,19,,21,23,21,31,,NBA
+79,79,310408003,2010,"Fri, Apr 8",New Orleans Hornets,Phoenix Suns,"46-33, 28-12 Home","38-41, 17-23 Away",109,97,,,Final,NBATV,31,28,26,24,,30,23,26,18,,NBA
+80,80,310411003,2010,"Mon, Apr 11",New Orleans Hornets,Utah Jazz,"46-35, 28-13 Home","38-43, 18-23 Away",78,90,,,Final,,21,16,20,21,,29,18,23,20,,NBA
+81,81,310413006,2010,"Wed, Apr 13",Dallas Mavericks,New Orleans Hornets,"57-25, 29-12 Home","46-36, 18-23 Away",121,89,,,Final,ESPN,28,30,28,35,,27,34,13,15,,NBA

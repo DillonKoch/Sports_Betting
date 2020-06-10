@@ -1,21 +1,21 @@
-ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
-400951666,2017,"September 17, 2017",Los Angeles Chargers,Miami Dolphins,"0-2, 0-1 Home","1-0, 1-0 Away",17,19,NULL,NULL,Final,CBS,0,10,7,0,NULL,3,0,10,6,NULL,2,NFL
-400950241,2017,"October 1, 2017",Miami Dolphins,New Orleans Saints,1-2,2-2,0,20,NULL,NULL,Final,FOX,0,0,0,0,NULL,0,3,7,10,NULL,4,NFL
-400951697,2017,"October 15, 2017",Atlanta Falcons,Miami Dolphins,"3-2, 1-2 Home","3-2, 2-1 Away",17,20,NULL,NULL,Final,CBS,10,7,0,0,NULL,0,0,14,6,NULL,6,NFL
-400951670,2017,"October 26, 2017",Baltimore Ravens,Miami Dolphins,"4-4, 2-2 Home","4-3, 2-2 Away",40,0,NULL,NULL,Final,CBS,7,13,0,20,NULL,0,0,0,0,NULL,8,NFL
-400951693,2017,"November 13, 2017",Carolina Panthers,Miami Dolphins,"7-3, 3-2 Home","4-5, 2-3 Away",45,21,NULL,NULL,Final,ESPN,3,14,21,7,NULL,0,7,7,7,NULL,10,NFL
-400951600,2017,"November 26, 2017",New England Patriots,Miami Dolphins,"9-2, 4-2 Home","4-7, 2-4 Away",35,17,NULL,NULL,Final,CBS,14,7,7,7,NULL,0,10,0,7,NULL,12,NFL
-400951696,2017,"December 11, 2017",Miami Dolphins,New England Patriots,"6-7, 4-3 Home","10-3, 6-1 Away",27,20,NULL,NULL,Final,ESPN,6,7,14,0,NULL,0,10,0,10,NULL,14,NFL
-400951625,2017,"December 24, 2017",Kansas City Chiefs,Miami Dolphins,"9-6, 6-2 Home","6-9, 2-6 Away",29,13,NULL,NULL,Final,CBS,3,17,3,6,NULL,3,10,0,0,NULL,16,NFL
-400951802,2017,"August 17, 2017",Miami Dolphins,Baltimore Ravens,"1-1, 1-1 Home","2-0, 1-0 Away",7,31,NULL,NULL,Final,NULL,0,7,0,0,NULL,0,13,8,10,NULL,2,NFL
-400951611,2017,"September 24, 2017",New York Jets,Miami Dolphins,"1-2, 1-0 Home","1-1, 1-1 Away",20,6,NULL,NULL,Final,CBS,0,10,10,0,NULL,0,0,0,6,NULL,3,NFL
-400951646,2017,"October 8, 2017",Miami Dolphins,Tennessee Titans,"2-2, 1-1 Home","2-3, 1-2 Away",16,10,NULL,NULL,Final,CBS,10,0,0,6,NULL,0,3,7,0,NULL,5,NFL
-400951598,2017,"October 22, 2017",Miami Dolphins,New York Jets,"4-2, 2-1 Home","3-4, 1-3 Away",31,28,NULL,NULL,Final,FOX,7,7,0,17,NULL,14,7,7,0,NULL,7,NFL
-400951787,2017,"November 5, 2017",Miami Dolphins,Oakland Raiders,"4-4, 2-2 Home","4-5, 2-3 Away",24,27,NULL,NULL,Final,NBC,0,9,7,8,NULL,3,10,7,7,NULL,9,NFL
-400981391,2017,"November 19, 2017",Miami Dolphins,Tampa Bay Buccaneers,"4-6, 2-3 Home","4-6, 1-4 Away",20,30,NULL,NULL,Final,FOX,7,0,6,7,NULL,3,17,0,10,NULL,11,NFL
-400951718,2017,"December 3, 2017",Miami Dolphins,Denver Broncos,"5-7, 3-3 Home","3-9, 0-6 Away",35,9,NULL,NULL,Final,FOX,2,14,10,9,NULL,0,3,6,0,NULL,13,NFL
-400951774,2017,"December 17, 2017",Buffalo Bills,Miami Dolphins,"8-6, 6-2 Home","6-8, 2-5 Away",24,16,NULL,NULL,Final,CBS,7,14,3,0,NULL,3,3,0,10,NULL,15,NFL
-400951801,2017,"August 10, 2017",Miami Dolphins,Atlanta Falcons,"1-0, 1-0 Home","0-1, 0-1 Away",23,20,NULL,NULL,Final,NULL,3,7,0,13,NULL,7,7,6,0,NULL,1,NFL
-400951803,2017,"August 24, 2017",Philadelphia Eagles,Miami Dolphins,"2-1, 2-0 Home","1-2, 0-1 Away",38,31,NULL,NULL,Final,NFL,14,14,3,7,NULL,14,10,7,0,NULL,3,NFL
-400950237,2017,"August 31, 2017",Minnesota Vikings,Miami Dolphins,"2-2, 1-1 Home","2-2, 1-1 Away",9,30,NULL,NULL,Final,NULL,0,6,0,3,NULL,7,16,0,7,NULL,4,NFL
-400951748,2017,"December 31, 2017",Miami Dolphins,Buffalo Bills,"6-10, 4-4 Home","9-7, 3-5 Away",16,22,NULL,NULL,Final,CBS,0,0,3,13,NULL,7,3,9,3,NULL,17,NFL
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
+0,400951666,2017,"September 17, 2017",Los Angeles Chargers,Miami Dolphins,"0-2, 0-1 Home","1-0, 1-0 Away",17,19,,,Final,CBS,0,10,7,0,,3,0,10,6,,2,NFL
+1,400950241,2017,"October 1, 2017",Miami Dolphins,New Orleans Saints,1-2,2-2,0,20,,,Final,FOX,0,0,0,0,,0,3,7,10,,4,NFL
+2,400951697,2017,"October 15, 2017",Atlanta Falcons,Miami Dolphins,"3-2, 1-2 Home","3-2, 2-1 Away",17,20,,,Final,CBS,10,7,0,0,,0,0,14,6,,6,NFL
+3,400951670,2017,"October 26, 2017",Baltimore Ravens,Miami Dolphins,"4-4, 2-2 Home","4-3, 2-2 Away",40,0,,,Final,CBS,7,13,0,20,,0,0,0,0,,8,NFL
+4,400951693,2017,"November 13, 2017",Carolina Panthers,Miami Dolphins,"7-3, 3-2 Home","4-5, 2-3 Away",45,21,,,Final,ESPN,3,14,21,7,,0,7,7,7,,10,NFL
+5,400951600,2017,"November 26, 2017",New England Patriots,Miami Dolphins,"9-2, 4-2 Home","4-7, 2-4 Away",35,17,,,Final,CBS,14,7,7,7,,0,10,0,7,,12,NFL
+6,400951696,2017,"December 11, 2017",Miami Dolphins,New England Patriots,"6-7, 4-3 Home","10-3, 6-1 Away",27,20,,,Final,ESPN,6,7,14,0,,0,10,0,10,,14,NFL
+7,400951625,2017,"December 24, 2017",Kansas City Chiefs,Miami Dolphins,"9-6, 6-2 Home","6-9, 2-6 Away",29,13,,,Final,CBS,3,17,3,6,,3,10,0,0,,16,NFL
+8,400951802,2017,"August 17, 2017",Miami Dolphins,Baltimore Ravens,"1-1, 1-1 Home","2-0, 1-0 Away",7,31,,,Final,,0,7,0,0,,0,13,8,10,,2,NFL
+9,400951611,2017,"September 24, 2017",New York Jets,Miami Dolphins,"1-2, 1-0 Home","1-1, 1-1 Away",20,6,,,Final,CBS,0,10,10,0,,0,0,0,6,,3,NFL
+10,400951646,2017,"October 8, 2017",Miami Dolphins,Tennessee Titans,"2-2, 1-1 Home","2-3, 1-2 Away",16,10,,,Final,CBS,10,0,0,6,,0,3,7,0,,5,NFL
+11,400951598,2017,"October 22, 2017",Miami Dolphins,New York Jets,"4-2, 2-1 Home","3-4, 1-3 Away",31,28,,,Final,FOX,7,7,0,17,,14,7,7,0,,7,NFL
+12,400951787,2017,"November 5, 2017",Miami Dolphins,Oakland Raiders,"4-4, 2-2 Home","4-5, 2-3 Away",24,27,,,Final,NBC,0,9,7,8,,3,10,7,7,,9,NFL
+13,400981391,2017,"November 19, 2017",Miami Dolphins,Tampa Bay Buccaneers,"4-6, 2-3 Home","4-6, 1-4 Away",20,30,,,Final,FOX,7,0,6,7,,3,17,0,10,,11,NFL
+14,400951718,2017,"December 3, 2017",Miami Dolphins,Denver Broncos,"5-7, 3-3 Home","3-9, 0-6 Away",35,9,,,Final,FOX,2,14,10,9,,0,3,6,0,,13,NFL
+15,400951774,2017,"December 17, 2017",Buffalo Bills,Miami Dolphins,"8-6, 6-2 Home","6-8, 2-5 Away",24,16,,,Final,CBS,7,14,3,0,,3,3,0,10,,15,NFL
+16,400951801,2017,"August 10, 2017",Miami Dolphins,Atlanta Falcons,"1-0, 1-0 Home","0-1, 0-1 Away",23,20,,,Final,,3,7,0,13,,7,7,6,0,,1,NFL
+17,400951803,2017,"August 24, 2017",Philadelphia Eagles,Miami Dolphins,"2-1, 2-0 Home","1-2, 0-1 Away",38,31,,,Final,NFL,14,14,3,7,,14,10,7,0,,3,NFL
+18,400950237,2017,"August 31, 2017",Minnesota Vikings,Miami Dolphins,"2-2, 1-1 Home","2-2, 1-1 Away",9,30,,,Final,,0,6,0,3,,7,16,0,7,,4,NFL
+19,400951748,2017,"December 31, 2017",Miami Dolphins,Buffalo Bills,"6-10, 4-4 Home","9-7, 3-5 Away",16,22,,,Final,CBS,0,0,3,13,,7,3,9,3,,17,NFL

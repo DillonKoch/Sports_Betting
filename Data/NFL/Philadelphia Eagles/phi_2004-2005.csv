@@ -1,24 +1,24 @@
-ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
-250123021,2004,"January 23, 2005",Philadelphia Eagles,Atlanta Falcons,"13-3, 7-1 Home","11-5, 4-4 Away",27,10,NULL,NULL,Final,NULL,7,7,6,7,NULL,0,10,0,0,NULL,CONF,NFL
-240920021,2004,"September 20, 2004",Philadelphia Eagles,Minnesota Vikings,"2-0, 2-0 Home","1-1, 0-1 Away",27,16,NULL,NULL,Final,NULL,7,3,7,10,NULL,3,3,3,7,NULL,2,NFL
-241003003,2004,"October 3, 2004",Chicago Bears,Philadelphia Eagles,"1-3, 0-2 Home","4-0, 2-0 Away",9,19,NULL,NULL,Final,NULL,0,3,0,6,NULL,3,13,3,0,NULL,4,NFL
-241017021,2004,"October 17, 2004",Philadelphia Eagles,Carolina Panthers,"5-0, 3-0 Home","1-4, 1-2 Away",30,8,NULL,NULL,Final,NULL,10,3,10,7,NULL,0,0,0,8,NULL,6,NFL
-241031021,2004,"October 31, 2004",Philadelphia Eagles,Baltimore Ravens,"7-0, 4-0 Home","4-3, 2-2 Away",15,10,NULL,NULL,Final,NULL,3,3,0,9,NULL,3,0,0,7,NULL,8,NFL
-241115006,2004,"November 15, 2004",Dallas Cowboys,Philadelphia Eagles,"3-6, 2-3 Home","8-1, 4-1 Away",21,49,NULL,NULL,Final,NULL,0,14,7,0,NULL,7,28,7,7,NULL,10,NFL
-241128019,2004,"November 28, 2004",New York Giants,Philadelphia Eagles,"5-6, 2-4 Home","10-1, 5-1 Away",6,27,NULL,NULL,Final,NULL,3,3,0,0,NULL,0,7,13,7,NULL,12,NFL
-241212028,2004,"December 12, 2004",Washington Redskins,Philadelphia Eagles,"4-9, 2-5 Home","12-1, 6-1 Away",14,17,NULL,NULL,Final,NULL,7,0,0,7,NULL,7,0,10,0,NULL,14,NFL
-241227014,2004,"December 27, 2004",St. Louis Rams,Philadelphia Eagles,"7-8, 5-2 Home","13-2, 6-2 Away",20,7,NULL,NULL,Final,NULL,7,3,7,3,NULL,7,0,0,0,NULL,16,NFL
-240820021,2004,"August 20, 2004",Philadelphia Eagles,Baltimore Ravens,"1-1, 1-0 Home","1-1, 0-1 Away",26,17,NULL,NULL,Final,NULL,10,7,3,6,NULL,0,10,0,7,NULL,1,NFL
-250116021,2004,"January 16, 2005",Philadelphia Eagles,Minnesota Vikings,"13-3, 7-1 Home","8-8, 3-5 Away",27,14,NULL,NULL,Final,NULL,7,14,0,6,NULL,0,7,0,7,NULL,DIV,NFL
-240912021,2004,"September 12, 2004",Philadelphia Eagles,New York Giants,"1-0, 1-0 Home","0-1, 0-1 Away",31,17,NULL,NULL,Final,NULL,14,10,7,0,NULL,7,3,0,7,NULL,1,NFL
-240926008,2004,"September 26, 2004",Detroit Lions,Philadelphia Eagles,"2-1, 1-1 Home","3-0, 1-0 Away",13,30,NULL,NULL,Final,NULL,0,7,0,6,NULL,14,7,6,3,NULL,3,NFL
-241024005,2004,"October 24, 2004",Cleveland Browns,Philadelphia Eagles,"3-4, 3-1 Home","6-0, 3-0 Away",31,34,NULL,NULL,Final/OT,NULL,7,10,7,7,0,14,7,0,10,3,7,NFL
-241107023,2004,"November 7, 2004",Pittsburgh Steelers,Philadelphia Eagles,"7-1, 5-0 Home","7-1, 3-1 Away",27,3,NULL,NULL,Final,NULL,14,7,3,3,NULL,0,3,0,0,NULL,9,NFL
-241121021,2004,"November 21, 2004",Philadelphia Eagles,Washington Redskins,"9-1, 5-0 Home","3-7, 2-3 Away",28,6,NULL,NULL,Final,NULL,7,0,7,14,NULL,3,3,0,0,NULL,11,NFL
-241205021,2004,"December 5, 2004",Philadelphia Eagles,Green Bay Packers,"11-1, 6-0 Home","7-5, 4-2 Away",47,17,NULL,NULL,Final,NULL,7,28,9,3,NULL,0,3,0,14,NULL,13,NFL
-241219021,2004,"December 19, 2004",Philadelphia Eagles,Dallas Cowboys,"13-1, 7-0 Home","5-9, 2-5 Away",12,7,NULL,NULL,Final,NULL,0,6,0,6,NULL,0,7,0,0,NULL,15,NFL
-240813017,2004,"August 13, 2004",New England Patriots,Philadelphia Eagles,"1-0, 1-0 Home","0-1, 0-1 Away",24,6,NULL,NULL,Final,NULL,7,3,7,7,NULL,0,3,3,0,NULL,HOF,NFL
-240826021,2004,"August 26, 2004",Philadelphia Eagles,Pittsburgh Steelers,"1-2, 1-1 Home","2-1, 1-1 Away",21,27,NULL,NULL,Final,NULL,7,7,7,0,NULL,7,10,0,10,NULL,2,NFL
-240903020,2004,"September 3, 2004",New York Jets,Philadelphia Eagles,"3-1, 2-0 Home","1-3, 0-2 Away",28,27,NULL,NULL,Final,NULL,0,7,0,21,NULL,0,10,10,7,NULL,3,NFL
-250206021,2004,"February 6, 2005",Philadelphia Eagles,New England Patriots,"13-3, 7-1 Home","14-2, 6-2 Away",21,24,NULL,NULL,Final,NULL,0,7,7,7,NULL,0,7,7,10,NULL,SB,NFL
-250102021,2004,"January 2, 2005",Philadelphia Eagles,Cincinnati Bengals,"13-3, 7-1 Home","8-8, 3-5 Away",10,38,NULL,NULL,Final,NULL,0,3,0,7,NULL,0,17,14,7,NULL,17,NFL
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
+0,250123021,2004,"January 23, 2005",Philadelphia Eagles,Atlanta Falcons,"13-3, 7-1 Home","11-5, 4-4 Away",27,10,,,Final,,7,7,6,7,,0,10,0,0,,CONF,NFL
+1,240920021,2004,"September 20, 2004",Philadelphia Eagles,Minnesota Vikings,"2-0, 2-0 Home","1-1, 0-1 Away",27,16,,,Final,,7,3,7,10,,3,3,3,7,,2,NFL
+2,241003003,2004,"October 3, 2004",Chicago Bears,Philadelphia Eagles,"1-3, 0-2 Home","4-0, 2-0 Away",9,19,,,Final,,0,3,0,6,,3,13,3,0,,4,NFL
+3,241017021,2004,"October 17, 2004",Philadelphia Eagles,Carolina Panthers,"5-0, 3-0 Home","1-4, 1-2 Away",30,8,,,Final,,10,3,10,7,,0,0,0,8,,6,NFL
+4,241031021,2004,"October 31, 2004",Philadelphia Eagles,Baltimore Ravens,"7-0, 4-0 Home","4-3, 2-2 Away",15,10,,,Final,,3,3,0,9,,3,0,0,7,,8,NFL
+5,241115006,2004,"November 15, 2004",Dallas Cowboys,Philadelphia Eagles,"3-6, 2-3 Home","8-1, 4-1 Away",21,49,,,Final,,0,14,7,0,,7,28,7,7,,10,NFL
+6,241128019,2004,"November 28, 2004",New York Giants,Philadelphia Eagles,"5-6, 2-4 Home","10-1, 5-1 Away",6,27,,,Final,,3,3,0,0,,0,7,13,7,,12,NFL
+7,241212028,2004,"December 12, 2004",Washington Redskins,Philadelphia Eagles,"4-9, 2-5 Home","12-1, 6-1 Away",14,17,,,Final,,7,0,0,7,,7,0,10,0,,14,NFL
+8,241227014,2004,"December 27, 2004",St. Louis Rams,Philadelphia Eagles,"7-8, 5-2 Home","13-2, 6-2 Away",20,7,,,Final,,7,3,7,3,,7,0,0,0,,16,NFL
+9,240820021,2004,"August 20, 2004",Philadelphia Eagles,Baltimore Ravens,"1-1, 1-0 Home","1-1, 0-1 Away",26,17,,,Final,,10,7,3,6,,0,10,0,7,,1,NFL
+10,250116021,2004,"January 16, 2005",Philadelphia Eagles,Minnesota Vikings,"13-3, 7-1 Home","8-8, 3-5 Away",27,14,,,Final,,7,14,0,6,,0,7,0,7,,DIV,NFL
+11,240912021,2004,"September 12, 2004",Philadelphia Eagles,New York Giants,"1-0, 1-0 Home","0-1, 0-1 Away",31,17,,,Final,,14,10,7,0,,7,3,0,7,,1,NFL
+12,240926008,2004,"September 26, 2004",Detroit Lions,Philadelphia Eagles,"2-1, 1-1 Home","3-0, 1-0 Away",13,30,,,Final,,0,7,0,6,,14,7,6,3,,3,NFL
+13,241024005,2004,"October 24, 2004",Cleveland Browns,Philadelphia Eagles,"3-4, 3-1 Home","6-0, 3-0 Away",31,34,,,Final/OT,,7,10,7,7,0.0,14,7,0,10,3.0,7,NFL
+14,241107023,2004,"November 7, 2004",Pittsburgh Steelers,Philadelphia Eagles,"7-1, 5-0 Home","7-1, 3-1 Away",27,3,,,Final,,14,7,3,3,,0,3,0,0,,9,NFL
+15,241121021,2004,"November 21, 2004",Philadelphia Eagles,Washington Redskins,"9-1, 5-0 Home","3-7, 2-3 Away",28,6,,,Final,,7,0,7,14,,3,3,0,0,,11,NFL
+16,241205021,2004,"December 5, 2004",Philadelphia Eagles,Green Bay Packers,"11-1, 6-0 Home","7-5, 4-2 Away",47,17,,,Final,,7,28,9,3,,0,3,0,14,,13,NFL
+17,241219021,2004,"December 19, 2004",Philadelphia Eagles,Dallas Cowboys,"13-1, 7-0 Home","5-9, 2-5 Away",12,7,,,Final,,0,6,0,6,,0,7,0,0,,15,NFL
+18,240813017,2004,"August 13, 2004",New England Patriots,Philadelphia Eagles,"1-0, 1-0 Home","0-1, 0-1 Away",24,6,,,Final,,7,3,7,7,,0,3,3,0,,HOF,NFL
+19,240826021,2004,"August 26, 2004",Philadelphia Eagles,Pittsburgh Steelers,"1-2, 1-1 Home","2-1, 1-1 Away",21,27,,,Final,,7,7,7,0,,7,10,0,10,,2,NFL
+20,240903020,2004,"September 3, 2004",New York Jets,Philadelphia Eagles,"3-1, 2-0 Home","1-3, 0-2 Away",28,27,,,Final,,0,7,0,21,,0,10,10,7,,3,NFL
+21,250206021,2004,"February 6, 2005",Philadelphia Eagles,New England Patriots,"13-3, 7-1 Home","14-2, 6-2 Away",21,24,,,Final,,0,7,7,7,,0,7,7,10,,SB,NFL
+22,250102021,2004,"January 2, 2005",Philadelphia Eagles,Cincinnati Bengals,"13-3, 7-1 Home","8-8, 3-5 Away",10,38,,,Final,,0,3,0,7,,0,17,14,7,,17,NFL

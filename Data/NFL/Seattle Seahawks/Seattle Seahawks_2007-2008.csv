@@ -1,23 +1,23 @@
-ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
-270916022,2007,"September 16, 2007",Arizona Cardinals,Seattle Seahawks,"1-1, 1-0 Home","1-1, 0-1 Away",23,20,NULL,NULL,Final,FOX,3,14,0,6,NULL,0,7,10,3,NULL,2,NFL
-270930025,2007,"September 30, 2007",San Francisco 49ers,Seattle Seahawks,"2-2, 1-1 Home","3-1, 1-1 Away",3,23,NULL,NULL,Final,FOX,0,0,3,0,NULL,0,13,7,3,NULL,4,NFL
-271014026,2007,"October 14, 2007",Seattle Seahawks,New Orleans Saints,"3-3, 2-1 Home","1-4, 1-2 Away",17,28,NULL,NULL,Final,NBC,0,10,0,7,NULL,7,21,0,0,NULL,6,NFL
-271112026,2007,"November 12, 2007",Seattle Seahawks,San Francisco 49ers,"5-4, 4-1 Home","2-7, 1-4 Away",24,0,NULL,NULL,Final,ESPN,10,7,0,7,NULL,0,0,0,0,NULL,10,NFL
-271125014,2007,"November 25, 2007",St. Louis Rams,Seattle Seahawks,"2-9, 0-5 Home","7-4, 2-3 Away",19,24,NULL,NULL,Final,FOX,16,3,0,0,NULL,7,0,10,7,NULL,12,NFL
-271209026,2007,"December 9, 2007",Seattle Seahawks,Arizona Cardinals,"9-4, 6-1 Home","6-7, 2-5 Away",42,21,NULL,NULL,Final,FOX,10,17,0,15,NULL,0,7,7,7,NULL,14,NFL
-271223026,2007,"December 23, 2007",Seattle Seahawks,Baltimore Ravens,"10-5, 7-1 Home","4-11, 1-7 Away",27,6,NULL,NULL,Final,CBS,0,21,6,0,NULL,0,0,0,6,NULL,16,NFL
-270818009,2007,"August 18, 2007",Green Bay Packers,Seattle Seahawks,"2-0, 1-0 Home","1-1, 1-1 Away",48,13,NULL,NULL,Final,NULL,10,28,10,0,NULL,3,7,3,0,NULL,1,NFL
-280105026,2007,"January 5, 2008",Seattle Seahawks,Washington Redskins,"10-6, 7-1 Home","9-7, 4-4 Away",35,14,NULL,NULL,Final,NBC,7,3,3,22,NULL,0,0,0,14,NULL,WC,NFL
-270909026,2007,"September 9, 2007",Seattle Seahawks,Tampa Bay Buccaneers,"1-0, 1-0 Home","0-1, 0-1 Away",20,6,NULL,NULL,Final,FOX,0,10,0,10,NULL,6,0,0,0,NULL,1,NFL
-270923026,2007,"September 23, 2007",Seattle Seahawks,Cincinnati Bengals,"2-1, 2-0 Home","1-2, 0-2 Away",24,21,NULL,NULL,Final,CBS,7,7,0,10,NULL,7,3,2,9,NULL,3,NFL
-271007023,2007,"October 7, 2007",Pittsburgh Steelers,Seattle Seahawks,"4-1, 3-0 Home","3-2, 1-2 Away",21,0,NULL,NULL,Final,FOX,0,7,7,7,NULL,0,0,0,0,NULL,5,NFL
-271021026,2007,"October 21, 2007",Seattle Seahawks,St. Louis Rams,"4-3, 3-1 Home","0-7, 0-4 Away",33,6,NULL,NULL,Final,FOX,7,3,13,10,NULL,3,0,3,0,NULL,7,NFL
-271104005,2007,"November 4, 2007",Cleveland Browns,Seattle Seahawks,"5-3, 4-1 Home","4-4, 1-3 Away",33,30,NULL,NULL,Final/OT,FOX,0,9,7,14,3,7,14,3,6,0,9,NFL
-271118026,2007,"November 18, 2007",Seattle Seahawks,Chicago Bears,"6-4, 5-1 Home","4-6, 3-3 Away",30,23,NULL,NULL,Final,FOX,7,10,7,6,NULL,10,7,0,6,NULL,11,NFL
-271202021,2007,"December 2, 2007",Philadelphia Eagles,Seattle Seahawks,"5-7, 2-4 Home","8-4, 3-3 Away",24,28,NULL,NULL,Final,FOX,10,7,7,0,NULL,14,7,7,0,NULL,13,NFL
-271216029,2007,"December 16, 2007",Carolina Panthers,Seattle Seahawks,"6-8, 2-5 Home","9-5, 3-4 Away",13,10,NULL,NULL,Final,FOX,0,0,0,13,NULL,0,0,0,10,NULL,15,NFL
-270812024,2007,"August 12, 2007",San Diego Chargers,Seattle Seahawks,"0-1, 0-1 Home","1-0, 1-0 Away",16,24,NULL,NULL,Final,NBC,0,7,6,3,NULL,7,0,0,17,NULL,HOF,NFL
-270825026,2007,"August 25, 2007",Seattle Seahawks,Minnesota Vikings,"2-1, 1-0 Home","1-2, 1-1 Away",30,13,NULL,NULL,Final,NULL,6,10,7,7,NULL,0,10,3,0,NULL,2,NFL
-280112009,2007,"January 12, 2008",Green Bay Packers,Seattle Seahawks,"13-3, 7-1 Home","10-6, 3-5 Away",42,20,NULL,NULL,Final,FOX,14,14,7,7,NULL,14,3,3,0,NULL,DIV,NFL
-270830026,2007,"August 30, 2007",Seattle Seahawks,Oakland Raiders,"3-1, 2-0 Home","2-2, 0-2 Away",19,14,NULL,NULL,Final,NULL,3,9,0,7,NULL,7,0,7,0,NULL,3,NFL
-271230001,2007,"December 30, 2007",Atlanta Falcons,Seattle Seahawks,"4-12, 3-5 Home","10-6, 3-5 Away",44,41,NULL,NULL,Final,FOX,0,17,3,24,NULL,7,10,10,14,NULL,17,NFL
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
+0,270916022,2007,"September 16, 2007",Arizona Cardinals,Seattle Seahawks,"1-1, 1-0 Home","1-1, 0-1 Away",23,20,,,Final,FOX,3,14,0,6,,0,7,10,3,,2,NFL
+1,270930025,2007,"September 30, 2007",San Francisco 49ers,Seattle Seahawks,"2-2, 1-1 Home","3-1, 1-1 Away",3,23,,,Final,FOX,0,0,3,0,,0,13,7,3,,4,NFL
+2,271014026,2007,"October 14, 2007",Seattle Seahawks,New Orleans Saints,"3-3, 2-1 Home","1-4, 1-2 Away",17,28,,,Final,NBC,0,10,0,7,,7,21,0,0,,6,NFL
+3,271112026,2007,"November 12, 2007",Seattle Seahawks,San Francisco 49ers,"5-4, 4-1 Home","2-7, 1-4 Away",24,0,,,Final,ESPN,10,7,0,7,,0,0,0,0,,10,NFL
+4,271125014,2007,"November 25, 2007",St. Louis Rams,Seattle Seahawks,"2-9, 0-5 Home","7-4, 2-3 Away",19,24,,,Final,FOX,16,3,0,0,,7,0,10,7,,12,NFL
+5,271209026,2007,"December 9, 2007",Seattle Seahawks,Arizona Cardinals,"9-4, 6-1 Home","6-7, 2-5 Away",42,21,,,Final,FOX,10,17,0,15,,0,7,7,7,,14,NFL
+6,271223026,2007,"December 23, 2007",Seattle Seahawks,Baltimore Ravens,"10-5, 7-1 Home","4-11, 1-7 Away",27,6,,,Final,CBS,0,21,6,0,,0,0,0,6,,16,NFL
+7,270818009,2007,"August 18, 2007",Green Bay Packers,Seattle Seahawks,"2-0, 1-0 Home","1-1, 1-1 Away",48,13,,,Final,,10,28,10,0,,3,7,3,0,,1,NFL
+8,280105026,2007,"January 5, 2008",Seattle Seahawks,Washington Redskins,"10-6, 7-1 Home","9-7, 4-4 Away",35,14,,,Final,NBC,7,3,3,22,,0,0,0,14,,WC,NFL
+9,270909026,2007,"September 9, 2007",Seattle Seahawks,Tampa Bay Buccaneers,"1-0, 1-0 Home","0-1, 0-1 Away",20,6,,,Final,FOX,0,10,0,10,,6,0,0,0,,1,NFL
+10,270923026,2007,"September 23, 2007",Seattle Seahawks,Cincinnati Bengals,"2-1, 2-0 Home","1-2, 0-2 Away",24,21,,,Final,CBS,7,7,0,10,,7,3,2,9,,3,NFL
+11,271007023,2007,"October 7, 2007",Pittsburgh Steelers,Seattle Seahawks,"4-1, 3-0 Home","3-2, 1-2 Away",21,0,,,Final,FOX,0,7,7,7,,0,0,0,0,,5,NFL
+12,271021026,2007,"October 21, 2007",Seattle Seahawks,St. Louis Rams,"4-3, 3-1 Home","0-7, 0-4 Away",33,6,,,Final,FOX,7,3,13,10,,3,0,3,0,,7,NFL
+13,271104005,2007,"November 4, 2007",Cleveland Browns,Seattle Seahawks,"5-3, 4-1 Home","4-4, 1-3 Away",33,30,,,Final/OT,FOX,0,9,7,14,3.0,7,14,3,6,0.0,9,NFL
+14,271118026,2007,"November 18, 2007",Seattle Seahawks,Chicago Bears,"6-4, 5-1 Home","4-6, 3-3 Away",30,23,,,Final,FOX,7,10,7,6,,10,7,0,6,,11,NFL
+15,271202021,2007,"December 2, 2007",Philadelphia Eagles,Seattle Seahawks,"5-7, 2-4 Home","8-4, 3-3 Away",24,28,,,Final,FOX,10,7,7,0,,14,7,7,0,,13,NFL
+16,271216029,2007,"December 16, 2007",Carolina Panthers,Seattle Seahawks,"6-8, 2-5 Home","9-5, 3-4 Away",13,10,,,Final,FOX,0,0,0,13,,0,0,0,10,,15,NFL
+17,270812024,2007,"August 12, 2007",San Diego Chargers,Seattle Seahawks,"0-1, 0-1 Home","1-0, 1-0 Away",16,24,,,Final,NBC,0,7,6,3,,7,0,0,17,,HOF,NFL
+18,270825026,2007,"August 25, 2007",Seattle Seahawks,Minnesota Vikings,"2-1, 1-0 Home","1-2, 1-1 Away",30,13,,,Final,,6,10,7,7,,0,10,3,0,,2,NFL
+19,280112009,2007,"January 12, 2008",Green Bay Packers,Seattle Seahawks,"13-3, 7-1 Home","10-6, 3-5 Away",42,20,,,Final,FOX,14,14,7,7,,14,3,3,0,,DIV,NFL
+20,270830026,2007,"August 30, 2007",Seattle Seahawks,Oakland Raiders,"3-1, 2-0 Home","2-2, 0-2 Away",19,14,,,Final,,3,9,0,7,,7,0,7,0,,3,NFL
+21,271230001,2007,"December 30, 2007",Atlanta Falcons,Seattle Seahawks,"4-12, 3-5 Home","10-6, 3-5 Away",44,41,,,Final,FOX,0,17,3,24,,7,10,10,14,,17,NFL

@@ -1,24 +1,24 @@
-ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
-260122026,2005,"January 22, 2006",Seattle Seahawks,Carolina Panthers,"13-3, 8-0 Home","11-5, 6-2 Away",34,14,NULL,NULL,Final,NULL,10,10,7,7,NULL,0,7,0,7,NULL,CONF,NFL
-250918026,2005,"September 18, 2005",Seattle Seahawks,Atlanta Falcons,"1-1, 1-0 Home","1-1, 0-1 Away",21,18,NULL,NULL,Final,NULL,0,21,0,0,NULL,0,0,10,8,NULL,2,NFL
-251002028,2005,"October 2, 2005",Washington Redskins,Seattle Seahawks,"3-0, 2-0 Home","2-2, 0-2 Away",20,17,NULL,NULL,Final/OT,NULL,0,7,10,0,3,3,0,7,7,0,4,NFL
-251016026,2005,"October 16, 2005",Seattle Seahawks,Houston Texans,"4-2, 3-0 Home","0-5, 0-3 Away",42,10,NULL,NULL,Final,NULL,14,7,7,14,NULL,0,3,7,0,NULL,6,NFL
-251113026,2005,"November 13, 2005",Seattle Seahawks,St. Louis Rams,"7-2, 5-0 Home","4-5, 1-4 Away",31,16,NULL,NULL,Final,NULL,0,10,14,7,NULL,3,0,6,7,NULL,10,NFL
-251127026,2005,"November 27, 2005",Seattle Seahawks,New York Giants,"9-2, 6-0 Home","7-4, 2-3 Away",24,21,NULL,NULL,Final/OT,NULL,7,0,7,7,3,0,10,3,8,0,12,NFL
-251211026,2005,"December 11, 2005",Seattle Seahawks,San Francisco 49ers,"11-2, 7-0 Home","2-11, 0-6 Away",41,3,NULL,NULL,Final,NULL,7,17,14,3,NULL,3,0,0,0,NULL,14,NFL
-251224026,2005,"December 24, 2005",Seattle Seahawks,Indianapolis Colts,"13-2, 8-0 Home","13-2, 7-1 Away",28,13,NULL,NULL,Final,NULL,7,7,7,7,NULL,3,3,0,7,NULL,16,NFL
-250822026,2005,"August 22, 2005",Seattle Seahawks,Dallas Cowboys,"1-1, 0-1 Home","1-1, 1-1 Away",10,18,NULL,NULL,Final,NULL,7,0,0,3,NULL,3,7,6,2,NULL,1,NFL
-260114026,2005,"January 14, 2006",Seattle Seahawks,Washington Redskins,"13-3, 8-0 Home","10-6, 4-4 Away",20,10,NULL,NULL,Final,NULL,0,7,7,6,NULL,0,3,0,7,NULL,DIV,NFL
-250911030,2005,"September 11, 2005",Jacksonville Jaguars,Seattle Seahawks,"1-0, 1-0 Home","0-1, 0-1 Away",26,14,NULL,NULL,Final,NULL,6,7,7,6,NULL,0,14,0,0,NULL,1,NFL
-250925026,2005,"September 25, 2005",Seattle Seahawks,Arizona Cardinals,"2-1, 2-0 Home","0-3, 0-2 Away",37,12,NULL,NULL,Final,NULL,7,3,14,13,NULL,3,6,3,0,NULL,3,NFL
-251009014,2005,"October 9, 2005",St. Louis Rams,Seattle Seahawks,"2-3, 1-1 Home","3-2, 1-2 Away",31,37,NULL,NULL,Final,NULL,7,14,7,3,NULL,14,10,10,3,NULL,5,NFL
-251023026,2005,"October 23, 2005",Seattle Seahawks,Dallas Cowboys,"5-2, 4-0 Home","4-3, 2-2 Away",13,10,NULL,NULL,Final,NULL,0,3,0,10,NULL,7,0,0,3,NULL,7,NFL
-251106022,2005,"November 6, 2005",Arizona Cardinals,Seattle Seahawks,"2-6, 2-3 Home","6-2, 2-2 Away",19,33,NULL,NULL,Final,NULL,3,3,10,3,NULL,3,14,10,6,NULL,9,NFL
-251120025,2005,"November 20, 2005",San Francisco 49ers,Seattle Seahawks,"2-8, 2-4 Home","8-2, 3-2 Away",25,27,NULL,NULL,Final,NULL,3,6,3,13,NULL,3,14,10,0,NULL,11,NFL
-251205021,2005,"December 5, 2005",Philadelphia Eagles,Seattle Seahawks,"5-7, 4-2 Home","10-2, 4-2 Away",0,42,NULL,NULL,Final,NULL,0,0,0,0,NULL,14,21,7,0,NULL,13,NFL
-251218010,2005,"December 18, 2005",Tennessee Titans,Seattle Seahawks,"4-10, 3-5 Home","12-2, 5-2 Away",24,28,NULL,NULL,Final,NULL,0,14,10,0,NULL,14,0,7,7,NULL,15,NFL
-250812018,2005,"August 12, 2005",New Orleans Saints,Seattle Seahawks,"0-1, 0-1 Home","1-0, 1-0 Away",15,34,NULL,NULL,Final,NULL,3,0,7,5,NULL,7,17,3,7,NULL,HOF,NFL
-250827012,2005,"August 27, 2005",Kansas City Chiefs,Seattle Seahawks,"0-3, 0-2 Home","2-1, 2-0 Away",17,23,NULL,NULL,Final,NULL,7,7,0,3,NULL,7,3,10,3,NULL,2,NFL
-250902026,2005,"September 2, 2005",Seattle Seahawks,Minnesota Vikings,"2-2, 0-2 Home","3-1, 1-1 Away",21,23,NULL,NULL,Final,NULL,7,0,7,7,NULL,7,3,0,13,NULL,3,NFL
-260205023,2005,"February 5, 2006",Pittsburgh Steelers,Seattle Seahawks,"11-5, 5-3 Home","13-3, 5-3 Away",21,10,NULL,NULL,Final,NULL,0,7,7,7,NULL,3,0,7,0,NULL,SB,NFL
-260101009,2005,"January 1, 2006",Green Bay Packers,Seattle Seahawks,"4-12, 3-5 Home","13-3, 5-3 Away",23,17,NULL,NULL,Final,NULL,6,7,7,3,NULL,0,7,7,3,NULL,17,NFL
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
+0,260122026,2005,"January 22, 2006",Seattle Seahawks,Carolina Panthers,"13-3, 8-0 Home","11-5, 6-2 Away",34,14,,,Final,,10,10,7,7,,0,7,0,7,,CONF,NFL
+1,250918026,2005,"September 18, 2005",Seattle Seahawks,Atlanta Falcons,"1-1, 1-0 Home","1-1, 0-1 Away",21,18,,,Final,,0,21,0,0,,0,0,10,8,,2,NFL
+2,251002028,2005,"October 2, 2005",Washington Redskins,Seattle Seahawks,"3-0, 2-0 Home","2-2, 0-2 Away",20,17,,,Final/OT,,0,7,10,0,3.0,3,0,7,7,0.0,4,NFL
+3,251016026,2005,"October 16, 2005",Seattle Seahawks,Houston Texans,"4-2, 3-0 Home","0-5, 0-3 Away",42,10,,,Final,,14,7,7,14,,0,3,7,0,,6,NFL
+4,251113026,2005,"November 13, 2005",Seattle Seahawks,St. Louis Rams,"7-2, 5-0 Home","4-5, 1-4 Away",31,16,,,Final,,0,10,14,7,,3,0,6,7,,10,NFL
+5,251127026,2005,"November 27, 2005",Seattle Seahawks,New York Giants,"9-2, 6-0 Home","7-4, 2-3 Away",24,21,,,Final/OT,,7,0,7,7,3.0,0,10,3,8,0.0,12,NFL
+6,251211026,2005,"December 11, 2005",Seattle Seahawks,San Francisco 49ers,"11-2, 7-0 Home","2-11, 0-6 Away",41,3,,,Final,,7,17,14,3,,3,0,0,0,,14,NFL
+7,251224026,2005,"December 24, 2005",Seattle Seahawks,Indianapolis Colts,"13-2, 8-0 Home","13-2, 7-1 Away",28,13,,,Final,,7,7,7,7,,3,3,0,7,,16,NFL
+8,250822026,2005,"August 22, 2005",Seattle Seahawks,Dallas Cowboys,"1-1, 0-1 Home","1-1, 1-1 Away",10,18,,,Final,,7,0,0,3,,3,7,6,2,,1,NFL
+9,260114026,2005,"January 14, 2006",Seattle Seahawks,Washington Redskins,"13-3, 8-0 Home","10-6, 4-4 Away",20,10,,,Final,,0,7,7,6,,0,3,0,7,,DIV,NFL
+10,250911030,2005,"September 11, 2005",Jacksonville Jaguars,Seattle Seahawks,"1-0, 1-0 Home","0-1, 0-1 Away",26,14,,,Final,,6,7,7,6,,0,14,0,0,,1,NFL
+11,250925026,2005,"September 25, 2005",Seattle Seahawks,Arizona Cardinals,"2-1, 2-0 Home","0-3, 0-2 Away",37,12,,,Final,,7,3,14,13,,3,6,3,0,,3,NFL
+12,251009014,2005,"October 9, 2005",St. Louis Rams,Seattle Seahawks,"2-3, 1-1 Home","3-2, 1-2 Away",31,37,,,Final,,7,14,7,3,,14,10,10,3,,5,NFL
+13,251023026,2005,"October 23, 2005",Seattle Seahawks,Dallas Cowboys,"5-2, 4-0 Home","4-3, 2-2 Away",13,10,,,Final,,0,3,0,10,,7,0,0,3,,7,NFL
+14,251106022,2005,"November 6, 2005",Arizona Cardinals,Seattle Seahawks,"2-6, 2-3 Home","6-2, 2-2 Away",19,33,,,Final,,3,3,10,3,,3,14,10,6,,9,NFL
+15,251120025,2005,"November 20, 2005",San Francisco 49ers,Seattle Seahawks,"2-8, 2-4 Home","8-2, 3-2 Away",25,27,,,Final,,3,6,3,13,,3,14,10,0,,11,NFL
+16,251205021,2005,"December 5, 2005",Philadelphia Eagles,Seattle Seahawks,"5-7, 4-2 Home","10-2, 4-2 Away",0,42,,,Final,,0,0,0,0,,14,21,7,0,,13,NFL
+17,251218010,2005,"December 18, 2005",Tennessee Titans,Seattle Seahawks,"4-10, 3-5 Home","12-2, 5-2 Away",24,28,,,Final,,0,14,10,0,,14,0,7,7,,15,NFL
+18,250812018,2005,"August 12, 2005",New Orleans Saints,Seattle Seahawks,"0-1, 0-1 Home","1-0, 1-0 Away",15,34,,,Final,,3,0,7,5,,7,17,3,7,,HOF,NFL
+19,250827012,2005,"August 27, 2005",Kansas City Chiefs,Seattle Seahawks,"0-3, 0-2 Home","2-1, 2-0 Away",17,23,,,Final,,7,7,0,3,,7,3,10,3,,2,NFL
+20,250902026,2005,"September 2, 2005",Seattle Seahawks,Minnesota Vikings,"2-2, 0-2 Home","3-1, 1-1 Away",21,23,,,Final,,7,0,7,7,,7,3,0,13,,3,NFL
+21,260205023,2005,"February 5, 2006",Pittsburgh Steelers,Seattle Seahawks,"11-5, 5-3 Home","13-3, 5-3 Away",21,10,,,Final,,0,7,7,7,,3,0,7,0,,SB,NFL
+22,260101009,2005,"January 1, 2006",Green Bay Packers,Seattle Seahawks,"4-12, 3-5 Home","13-3, 5-3 Away",23,17,,,Final,,6,7,7,3,,0,7,7,3,,17,NFL

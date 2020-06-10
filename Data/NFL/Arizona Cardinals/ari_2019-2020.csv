@@ -1,21 +1,21 @@
-ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
-401128061,2019,"September 15, 2019",Baltimore Ravens,Arizona Cardinals,"2-0, 1-0 Home","0-1-1, 0-1 Away",23,17,BAL -13.0,46,Final,FOX,7,10,0,6,NULL,3,3,3,8,NULL,2,NFL
-401128064,2019,"September 29, 2019",Arizona Cardinals,Seattle Seahawks,"0-3-1, 0-2-1 Home","3-1, 2-0 Away",10,27,SEA -5.5,49,Final,FOX,0,3,0,7,NULL,10,10,0,7,NULL,4,NFL
-401128126,2019,"October 13, 2019",Arizona Cardinals,Atlanta Falcons,"2-3-1, 1-2-1 Home","1-5, 0-4 Away",34,33,ATL -3.0,53,Final,FOX,3,17,7,7,NULL,7,3,10,13,NULL,6,NFL
-401128046,2019,"October 27, 2019",New Orleans Saints,Arizona Cardinals,"7-1, 4-0 Home","3-4-1, 2-2 Away",31,9,NO -12.5,49,Final,CBS,0,10,7,14,NULL,3,3,3,0,NULL,8,NFL
-401127976,2019,"November 10, 2019",Tampa Bay Buccaneers,Arizona Cardinals,"3-6, 1-3 Home","3-6-1, 2-3 Away",30,27,TB -5.5,52,Final,FOX,7,10,3,10,NULL,3,10,7,7,NULL,10,NFL
-401128002,2019,"December 8, 2019",Arizona Cardinals,Pittsburgh Steelers,"3-9-1, 1-5-1 Home","8-5, 3-3 Away",17,23,PIT -2.0,44,Final,CBS,0,10,0,7,NULL,10,3,7,3,NULL,14,NFL
-401127941,2019,"December 22, 2019",Seattle Seahawks,Arizona Cardinals,"11-4, 4-3 Home","5-9-1, 3-4 Away",13,27,SEA -8.0,51,Final,FOX,7,0,0,6,NULL,7,10,3,7,NULL,16,NFL
-401126622,2019,"August 15, 2019",Arizona Cardinals,Oakland Raiders,"1-1, 1-1 Home","2-0, 1-0 Away",26,33,ARI -1.5,39,Final,ESPN,0,10,3,13,NULL,17,9,0,7,NULL,2,NFL
-401127999,2019,"September 8, 2019",Arizona Cardinals,Detroit Lions,"0-0-1, 0-0-1 Home","0-0-1, 0-0-1 Away",27,27,DET -3.0,45,Final/OT,FOX,0,3,3,18,3,0,17,0,7,3,1,NFL
-401127962,2019,"September 22, 2019",Arizona Cardinals,Carolina Panthers,"0-2-1, 0-1-1 Home","1-2, 1-0 Away",20,38,ARI -2.0,46,Final,FOX,7,3,10,0,NULL,0,14,14,10,NULL,3,NFL
-401127958,2019,"October 6, 2019",Cincinnati Bengals,Arizona Cardinals,"0-5, 0-2 Home","1-3-1, 1-1 Away",23,26,CIN -3.0,47,Final,FOX,3,3,3,14,NULL,7,6,0,13,NULL,5,NFL
-401127974,2019,"October 20, 2019",New York Giants,Arizona Cardinals,"2-5, 1-3 Home","3-3-1, 2-1 Away",21,27,NYG -3.5,50,Final,FOX,0,14,0,7,NULL,14,3,7,3,NULL,7,NFL
-401127908,2019,"October 31, 2019",Arizona Cardinals,San Francisco 49ers,"3-5-1, 1-3-1 Home","8-0, 5-0 Away",25,28,SF -10.0,43,Final,FOX/NFL,7,0,7,11,NULL,7,14,7,0,NULL,9,NFL
-401128089,2019,"November 17, 2019",San Francisco 49ers,Arizona Cardinals,"9-1, 4-1 Home","3-7-1, 2-4 Away",36,26,SF -10.0,44,Final,FOX,0,10,7,19,NULL,9,7,3,7,NULL,11,NFL
-401128100,2019,"December 1, 2019",Arizona Cardinals,Los Angeles Rams,"3-8-1, 1-4-1 Home","7-5, 4-2 Away",7,34,LAR -2.5,48,Final,FOX,0,0,0,7,NULL,3,17,14,0,NULL,13,NFL
-401128094,2019,"December 15, 2019",Arizona Cardinals,Cleveland Browns,"4-9-1, 2-5-1 Home","6-8, 2-5 Away",38,24,CLE -3.0,49,Final,CBS,7,14,7,10,NULL,0,10,7,7,NULL,15,NFL
-401128139,2019,"August 8, 2019",Arizona Cardinals,Los Angeles Chargers,"1-0, 1-0 Home","0-1, 0-1 Away",17,13,ARI -3.5,31,Final,NFL,0,7,3,7,NULL,0,7,0,6,NULL,1,NFL
-401128169,2019,"August 24, 2019",Minnesota Vikings,Arizona Cardinals,"3-0, 2-0 Home","1-2, 0-1 Away",20,9,MIN -6.0,42,Final,NFL,7,0,0,13,NULL,3,6,0,0,NULL,3,NFL
-401128175,2019,"August 29, 2019",Denver Broncos,Arizona Cardinals,"2-3, 1-1 Home","1-3, 0-2 Away",20,7,EVEN,34,Final,NULL,3,7,7,3,NULL,0,0,7,0,NULL,4,NFL
-401128038,2019,"December 29, 2019",Los Angeles Rams,Arizona Cardinals,"9-7, 5-3 Home","5-10-1, 3-5 Away",31,24,LAR -6.5,45,Final,FOX,3,14,0,14,NULL,7,3,7,7,NULL,17,NFL
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
+0,401128061,2019,"September 15, 2019",Baltimore Ravens,Arizona Cardinals,"2-0, 1-0 Home","0-1-1, 0-1 Away",23,17,BAL -13.0,46,Final,FOX,7,10,0,6,,3,3,3,8,,2,NFL
+1,401128064,2019,"September 29, 2019",Arizona Cardinals,Seattle Seahawks,"0-3-1, 0-2-1 Home","3-1, 2-0 Away",10,27,SEA -5.5,49,Final,FOX,0,3,0,7,,10,10,0,7,,4,NFL
+2,401128126,2019,"October 13, 2019",Arizona Cardinals,Atlanta Falcons,"2-3-1, 1-2-1 Home","1-5, 0-4 Away",34,33,ATL -3.0,53,Final,FOX,3,17,7,7,,7,3,10,13,,6,NFL
+3,401128046,2019,"October 27, 2019",New Orleans Saints,Arizona Cardinals,"7-1, 4-0 Home","3-4-1, 2-2 Away",31,9,NO -12.5,49,Final,CBS,0,10,7,14,,3,3,3,0,,8,NFL
+4,401127976,2019,"November 10, 2019",Tampa Bay Buccaneers,Arizona Cardinals,"3-6, 1-3 Home","3-6-1, 2-3 Away",30,27,TB -5.5,52,Final,FOX,7,10,3,10,,3,10,7,7,,10,NFL
+5,401128002,2019,"December 8, 2019",Arizona Cardinals,Pittsburgh Steelers,"3-9-1, 1-5-1 Home","8-5, 3-3 Away",17,23,PIT -2.0,44,Final,CBS,0,10,0,7,,10,3,7,3,,14,NFL
+6,401127941,2019,"December 22, 2019",Seattle Seahawks,Arizona Cardinals,"11-4, 4-3 Home","5-9-1, 3-4 Away",13,27,SEA -8.0,51,Final,FOX,7,0,0,6,,7,10,3,7,,16,NFL
+7,401126622,2019,"August 15, 2019",Arizona Cardinals,Oakland Raiders,"1-1, 1-1 Home","2-0, 1-0 Away",26,33,ARI -1.5,39,Final,ESPN,0,10,3,13,,17,9,0,7,,2,NFL
+8,401127999,2019,"September 8, 2019",Arizona Cardinals,Detroit Lions,"0-0-1, 0-0-1 Home","0-0-1, 0-0-1 Away",27,27,DET -3.0,45,Final/OT,FOX,0,3,3,18,3.0,0,17,0,7,3.0,1,NFL
+9,401127962,2019,"September 22, 2019",Arizona Cardinals,Carolina Panthers,"0-2-1, 0-1-1 Home","1-2, 1-0 Away",20,38,ARI -2.0,46,Final,FOX,7,3,10,0,,0,14,14,10,,3,NFL
+10,401127958,2019,"October 6, 2019",Cincinnati Bengals,Arizona Cardinals,"0-5, 0-2 Home","1-3-1, 1-1 Away",23,26,CIN -3.0,47,Final,FOX,3,3,3,14,,7,6,0,13,,5,NFL
+11,401127974,2019,"October 20, 2019",New York Giants,Arizona Cardinals,"2-5, 1-3 Home","3-3-1, 2-1 Away",21,27,NYG -3.5,50,Final,FOX,0,14,0,7,,14,3,7,3,,7,NFL
+12,401127908,2019,"October 31, 2019",Arizona Cardinals,San Francisco 49ers,"3-5-1, 1-3-1 Home","8-0, 5-0 Away",25,28,SF -10.0,43,Final,FOX/NFL,7,0,7,11,,7,14,7,0,,9,NFL
+13,401128089,2019,"November 17, 2019",San Francisco 49ers,Arizona Cardinals,"9-1, 4-1 Home","3-7-1, 2-4 Away",36,26,SF -10.0,44,Final,FOX,0,10,7,19,,9,7,3,7,,11,NFL
+14,401128100,2019,"December 1, 2019",Arizona Cardinals,Los Angeles Rams,"3-8-1, 1-4-1 Home","7-5, 4-2 Away",7,34,LAR -2.5,48,Final,FOX,0,0,0,7,,3,17,14,0,,13,NFL
+15,401128094,2019,"December 15, 2019",Arizona Cardinals,Cleveland Browns,"4-9-1, 2-5-1 Home","6-8, 2-5 Away",38,24,CLE -3.0,49,Final,CBS,7,14,7,10,,0,10,7,7,,15,NFL
+16,401128139,2019,"August 8, 2019",Arizona Cardinals,Los Angeles Chargers,"1-0, 1-0 Home","0-1, 0-1 Away",17,13,ARI -3.5,31,Final,NFL,0,7,3,7,,0,7,0,6,,1,NFL
+17,401128169,2019,"August 24, 2019",Minnesota Vikings,Arizona Cardinals,"3-0, 2-0 Home","1-2, 0-1 Away",20,9,MIN -6.0,42,Final,NFL,7,0,0,13,,3,6,0,0,,3,NFL
+18,401128175,2019,"August 29, 2019",Denver Broncos,Arizona Cardinals,"2-3, 1-1 Home","1-3, 0-2 Away",20,7,EVEN,34,Final,,3,7,7,3,,0,0,7,0,,4,NFL
+19,401128038,2019,"December 29, 2019",Los Angeles Rams,Arizona Cardinals,"9-7, 5-3 Home","5-10-1, 3-5 Away",31,24,LAR -6.5,45,Final,FOX,3,14,0,14,,7,3,7,7,,17,NFL

@@ -1,21 +1,21 @@
-ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
-260917025,2006,"September 17, 2006",San Francisco 49ers,St. Louis Rams,"1-1, 1-0 Home","1-1, 0-1 Away",20,13,NULL,NULL,Final,FOX,3,0,14,3,NULL,0,10,0,3,NULL,2,NFL
-261001012,2006,"October 1, 2006",Kansas City Chiefs,San Francisco 49ers,"1-2, 1-1 Home","1-3, 0-2 Away",41,0,NULL,NULL,Final,FOX,10,14,3,14,NULL,0,0,0,0,NULL,4,NFL
-261015025,2006,"October 15, 2006",San Francisco 49ers,San Diego Chargers,"2-4, 2-2 Home","4-1, 2-1 Away",19,48,NULL,NULL,Final,CBS,7,12,0,0,NULL,14,21,3,10,NULL,6,NFL
-261029003,2006,"October 29, 2006",Chicago Bears,San Francisco 49ers,"7-0, 4-0 Home","2-5, 0-3 Away",41,10,NULL,NULL,Final,FOX,24,17,0,0,NULL,0,0,0,10,NULL,8,NFL
-261112008,2006,"November 12, 2006",Detroit Lions,San Francisco 49ers,"2-7, 2-3 Home","4-5, 1-3 Away",13,19,NULL,NULL,Final,FOX,0,3,7,3,NULL,10,3,3,3,NULL,10,NFL
-261126014,2006,"November 26, 2006",St. Louis Rams,San Francisco 49ers,"5-6, 3-2 Home","5-6, 1-4 Away",20,17,NULL,NULL,Final,FOX,0,13,0,7,NULL,0,7,7,3,NULL,12,NFL
-261210025,2006,"December 10, 2006",San Francisco 49ers,Green Bay Packers,"5-8, 4-3 Home","5-8, 4-3 Away",19,30,NULL,NULL,Final,FOX,3,3,7,6,NULL,7,10,7,6,NULL,14,NFL
-261224025,2006,"December 24, 2006",San Francisco 49ers,Arizona Cardinals,"6-9, 4-4 Home","5-10, 2-5 Away",20,26,NULL,NULL,Final,FOX,3,3,7,7,NULL,10,10,0,6,NULL,16,NFL
-260820013,2006,"August 20, 2006",Oakland Raiders,San Francisco 49ers,"3-0, 1-0 Home","1-1, 0-1 Away",23,7,NULL,NULL,Final,NULL,7,3,7,6,NULL,0,0,0,7,NULL,1,NFL
-260910022,2006,"September 10, 2006",Arizona Cardinals,San Francisco 49ers,"1-0, 1-0 Home","0-1, 0-1 Away",34,27,NULL,NULL,Final,FOX,21,3,7,3,NULL,7,7,7,6,NULL,1,NFL
-260924025,2006,"September 24, 2006",San Francisco 49ers,Philadelphia Eagles,"1-2, 1-1 Home","2-1, 2-0 Away",24,38,NULL,NULL,Final,FOX,0,3,7,14,NULL,14,10,7,7,NULL,3,NFL
-261008025,2006,"October 8, 2006",San Francisco 49ers,Oakland Raiders,"2-3, 2-1 Home","0-4, 0-2 Away",34,20,NULL,NULL,Final,CBS,7,0,14,13,NULL,3,10,0,7,NULL,5,NFL
-261105025,2006,"November 5, 2006",San Francisco 49ers,Minnesota Vikings,"3-5, 3-2 Home","4-4, 2-2 Away",9,3,NULL,NULL,Final,FOX,0,6,0,3,NULL,3,0,0,0,NULL,9,NFL
-261119025,2006,"November 19, 2006",San Francisco 49ers,Seattle Seahawks,"5-5, 4-2 Home","6-4, 2-3 Away",20,14,NULL,NULL,Final,FOX,3,17,0,0,NULL,0,0,7,7,NULL,11,NFL
-261203018,2006,"December 3, 2006",New Orleans Saints,San Francisco 49ers,"8-4, 4-2 Home","5-7, 1-5 Away",34,10,NULL,NULL,Final,FOX,0,14,10,10,NULL,3,0,7,0,NULL,13,NFL
-261214026,2006,"December 14, 2006",Seattle Seahawks,San Francisco 49ers,"8-6, 5-2 Home","6-8, 2-5 Away",14,24,NULL,NULL,Final,NFL,7,0,0,7,NULL,0,3,0,21,NULL,15,NFL
-260811025,2006,"August 11, 2006",San Francisco 49ers,Chicago Bears,"1-0, 1-0 Home","0-1, 0-1 Away",28,14,NULL,NULL,Final,NULL,10,7,3,8,NULL,0,7,7,0,NULL,HOF,NFL
-260826006,2006,"August 26, 2006",Dallas Cowboys,San Francisco 49ers,"3-0, 1-0 Home","1-2, 0-2 Away",17,7,NULL,NULL,Final,NULL,10,7,0,0,NULL,0,0,7,0,NULL,2,NFL
-260901025,2006,"September 1, 2006",San Francisco 49ers,San Diego Chargers,"2-2, 2-0 Home","2-2, 0-2 Away",23,14,NULL,NULL,Final,NULL,0,17,6,0,NULL,7,0,7,0,NULL,3,NFL
-261231007,2006,"December 31, 2006",Denver Broncos,San Francisco 49ers,"9-7, 4-4 Home","7-9, 3-5 Away",23,26,NULL,NULL,Final/OT,FOX,3,10,3,7,0,0,3,14,6,3,17,NFL
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
+0,260917025,2006,"September 17, 2006",San Francisco 49ers,St. Louis Rams,"1-1, 1-0 Home","1-1, 0-1 Away",20,13,,,Final,FOX,3,0,14,3,,0,10,0,3,,2,NFL
+1,261001012,2006,"October 1, 2006",Kansas City Chiefs,San Francisco 49ers,"1-2, 1-1 Home","1-3, 0-2 Away",41,0,,,Final,FOX,10,14,3,14,,0,0,0,0,,4,NFL
+2,261015025,2006,"October 15, 2006",San Francisco 49ers,San Diego Chargers,"2-4, 2-2 Home","4-1, 2-1 Away",19,48,,,Final,CBS,7,12,0,0,,14,21,3,10,,6,NFL
+3,261029003,2006,"October 29, 2006",Chicago Bears,San Francisco 49ers,"7-0, 4-0 Home","2-5, 0-3 Away",41,10,,,Final,FOX,24,17,0,0,,0,0,0,10,,8,NFL
+4,261112008,2006,"November 12, 2006",Detroit Lions,San Francisco 49ers,"2-7, 2-3 Home","4-5, 1-3 Away",13,19,,,Final,FOX,0,3,7,3,,10,3,3,3,,10,NFL
+5,261126014,2006,"November 26, 2006",St. Louis Rams,San Francisco 49ers,"5-6, 3-2 Home","5-6, 1-4 Away",20,17,,,Final,FOX,0,13,0,7,,0,7,7,3,,12,NFL
+6,261210025,2006,"December 10, 2006",San Francisco 49ers,Green Bay Packers,"5-8, 4-3 Home","5-8, 4-3 Away",19,30,,,Final,FOX,3,3,7,6,,7,10,7,6,,14,NFL
+7,261224025,2006,"December 24, 2006",San Francisco 49ers,Arizona Cardinals,"6-9, 4-4 Home","5-10, 2-5 Away",20,26,,,Final,FOX,3,3,7,7,,10,10,0,6,,16,NFL
+8,260820013,2006,"August 20, 2006",Oakland Raiders,San Francisco 49ers,"3-0, 1-0 Home","1-1, 0-1 Away",23,7,,,Final,,7,3,7,6,,0,0,0,7,,1,NFL
+9,260910022,2006,"September 10, 2006",Arizona Cardinals,San Francisco 49ers,"1-0, 1-0 Home","0-1, 0-1 Away",34,27,,,Final,FOX,21,3,7,3,,7,7,7,6,,1,NFL
+10,260924025,2006,"September 24, 2006",San Francisco 49ers,Philadelphia Eagles,"1-2, 1-1 Home","2-1, 2-0 Away",24,38,,,Final,FOX,0,3,7,14,,14,10,7,7,,3,NFL
+11,261008025,2006,"October 8, 2006",San Francisco 49ers,Oakland Raiders,"2-3, 2-1 Home","0-4, 0-2 Away",34,20,,,Final,CBS,7,0,14,13,,3,10,0,7,,5,NFL
+12,261105025,2006,"November 5, 2006",San Francisco 49ers,Minnesota Vikings,"3-5, 3-2 Home","4-4, 2-2 Away",9,3,,,Final,FOX,0,6,0,3,,3,0,0,0,,9,NFL
+13,261119025,2006,"November 19, 2006",San Francisco 49ers,Seattle Seahawks,"5-5, 4-2 Home","6-4, 2-3 Away",20,14,,,Final,FOX,3,17,0,0,,0,0,7,7,,11,NFL
+14,261203018,2006,"December 3, 2006",New Orleans Saints,San Francisco 49ers,"8-4, 4-2 Home","5-7, 1-5 Away",34,10,,,Final,FOX,0,14,10,10,,3,0,7,0,,13,NFL
+15,261214026,2006,"December 14, 2006",Seattle Seahawks,San Francisco 49ers,"8-6, 5-2 Home","6-8, 2-5 Away",14,24,,,Final,NFL,7,0,0,7,,0,3,0,21,,15,NFL
+16,260811025,2006,"August 11, 2006",San Francisco 49ers,Chicago Bears,"1-0, 1-0 Home","0-1, 0-1 Away",28,14,,,Final,,10,7,3,8,,0,7,7,0,,HOF,NFL
+17,260826006,2006,"August 26, 2006",Dallas Cowboys,San Francisco 49ers,"3-0, 1-0 Home","1-2, 0-2 Away",17,7,,,Final,,10,7,0,0,,0,0,7,0,,2,NFL
+18,260901025,2006,"September 1, 2006",San Francisco 49ers,San Diego Chargers,"2-2, 2-0 Home","2-2, 0-2 Away",23,14,,,Final,,0,17,6,0,,7,0,7,0,,3,NFL
+19,261231007,2006,"December 31, 2006",Denver Broncos,San Francisco 49ers,"9-7, 4-4 Home","7-9, 3-5 Away",23,26,,,Final/OT,FOX,3,10,3,7,0.0,0,3,14,6,3.0,17,NFL

@@ -1,21 +1,21 @@
-ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
-300919011,2010,"September 19, 2010",Indianapolis Colts,New York Giants,"1-1, 1-0 Home","1-1, 0-1 Away",38,14,NULL,NULL,Final,NBC,7,17,7,7,NULL,0,0,7,7,NULL,2,NFL
-301003019,2010,"October 3, 2010",New York Giants,Chicago Bears,"2-2, 2-1 Home","3-1, 1-1 Away",17,3,NULL,NULL,Final,NBC,3,0,7,7,NULL,0,0,0,3,NULL,4,NFL
-301017019,2010,"October 17, 2010",New York Giants,Detroit Lions,"4-2, 3-1 Home","1-5, 0-4 Away",28,20,NULL,NULL,Final,FOX,7,7,7,7,NULL,7,3,0,10,NULL,6,NFL
-301114019,2010,"November 14, 2010",New York Giants,Dallas Cowboys,"6-3, 3-2 Home","2-7, 2-3 Away",20,33,NULL,NULL,Final,FOX,3,3,14,0,NULL,6,13,14,0,NULL,10,NFL
-301128019,2010,"November 28, 2010",New York Giants,Jacksonville Jaguars,"7-4, 4-2 Home","6-5, 2-3 Away",24,20,NULL,NULL,Final,CBS,3,3,3,15,NULL,7,10,0,3,NULL,12,NFL
-301213016,2010,"December 13, 2010",Minnesota Vikings,New York Giants,"5-8, 4-3 Home","9-4, 4-2 Away",3,21,NULL,NULL,Final,FOX,3,0,0,0,NULL,0,14,7,0,NULL,14,NFL
-301226009,2010,"December 26, 2010",Green Bay Packers,New York Giants,"9-6, 6-1 Home","9-6, 4-3 Away",45,17,NULL,NULL,Final,FOX,14,7,10,14,NULL,0,14,3,0,NULL,16,NFL
-300821019,2010,"August 21, 2010",New York Giants,Pittsburgh Steelers,"1-1, 0-1 Home","2-0, 1-0 Away",17,24,NULL,NULL,Final,NULL,0,7,0,10,NULL,0,10,14,0,NULL,2,NFL
-300912019,2010,"September 12, 2010",New York Giants,Carolina Panthers,"1-0, 1-0 Home","0-1, 0-1 Away",31,18,NULL,NULL,Final,FOX,7,7,10,7,NULL,3,13,0,2,NULL,1,NFL
-300926019,2010,"September 26, 2010",New York Giants,Tennessee Titans,"1-2, 1-1 Home","2-1, 1-0 Away",10,29,NULL,NULL,Final,CBS,0,10,0,0,NULL,3,7,9,10,NULL,3,NFL
-301010034,2010,"October 10, 2010",Houston Texans,New York Giants,"3-2, 1-2 Home","3-2, 1-1 Away",10,34,NULL,NULL,Final,FOX,0,3,7,0,NULL,14,10,3,7,NULL,5,NFL
-301025006,2010,"October 25, 2010",Dallas Cowboys,New York Giants,"1-5, 0-3 Home","5-2, 2-1 Away",35,41,NULL,NULL,Final,ESPN,10,10,0,15,NULL,7,17,14,3,NULL,7,NFL
-301107026,2010,"November 7, 2010",Seattle Seahawks,New York Giants,"4-4, 3-1 Home","6-2, 3-1 Away",7,41,NULL,NULL,Final,FOX,0,0,0,7,NULL,21,14,6,0,NULL,9,NFL
-301121021,2010,"November 21, 2010",Philadelphia Eagles,New York Giants,"7-3, 3-2 Home","6-4, 3-2 Away",27,17,NULL,NULL,Final,NBC,7,6,3,11,NULL,0,3,7,7,NULL,11,NFL
-301205019,2010,"December 5, 2010",New York Giants,Washington Redskins,"8-4, 5-2 Home","5-7, 3-3 Away",31,7,NULL,NULL,Final,FOX,14,7,7,3,NULL,0,0,7,0,NULL,13,NFL
-301219019,2010,"December 19, 2010",New York Giants,Philadelphia Eagles,"9-5, 5-3 Home","10-4, 6-2 Away",31,38,NULL,NULL,Final,FOX,7,17,0,7,NULL,0,3,7,28,NULL,15,NFL
-300816020,2010,"August 16, 2010",New York Jets,New York Giants,"0-1, 0-1 Home","1-0, 1-0 Away",16,31,NULL,NULL,Final,ESPN,10,3,3,0,NULL,7,3,7,14,NULL,1,NFL
-300828033,2010,"August 28, 2010",Baltimore Ravens,New York Giants,"3-0, 2-0 Home","1-2, 1-1 Away",24,10,NULL,NULL,Final,NULL,3,14,0,7,NULL,0,3,0,7,NULL,3,NFL
-300902019,2010,"September 2, 2010",New York Giants,New England Patriots,"2-2, 1-1 Home","2-2, 1-1 Away",20,17,NULL,NULL,Final,NULL,6,3,3,8,NULL,7,3,0,7,NULL,4,NFL
-310102028,2010,"January 2, 2011",Washington Redskins,New York Giants,"6-10, 2-6 Home","10-6, 5-3 Away",14,17,NULL,NULL,Final,FOX,0,7,0,7,NULL,3,7,7,0,NULL,17,NFL
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
+0,300919011,2010,"September 19, 2010",Indianapolis Colts,New York Giants,"1-1, 1-0 Home","1-1, 0-1 Away",38,14,,,Final,NBC,7,17,7,7,,0,0,7,7,,2,NFL
+1,301003019,2010,"October 3, 2010",New York Giants,Chicago Bears,"2-2, 2-1 Home","3-1, 1-1 Away",17,3,,,Final,NBC,3,0,7,7,,0,0,0,3,,4,NFL
+2,301017019,2010,"October 17, 2010",New York Giants,Detroit Lions,"4-2, 3-1 Home","1-5, 0-4 Away",28,20,,,Final,FOX,7,7,7,7,,7,3,0,10,,6,NFL
+3,301114019,2010,"November 14, 2010",New York Giants,Dallas Cowboys,"6-3, 3-2 Home","2-7, 2-3 Away",20,33,,,Final,FOX,3,3,14,0,,6,13,14,0,,10,NFL
+4,301128019,2010,"November 28, 2010",New York Giants,Jacksonville Jaguars,"7-4, 4-2 Home","6-5, 2-3 Away",24,20,,,Final,CBS,3,3,3,15,,7,10,0,3,,12,NFL
+5,301213016,2010,"December 13, 2010",Minnesota Vikings,New York Giants,"5-8, 4-3 Home","9-4, 4-2 Away",3,21,,,Final,FOX,3,0,0,0,,0,14,7,0,,14,NFL
+6,301226009,2010,"December 26, 2010",Green Bay Packers,New York Giants,"9-6, 6-1 Home","9-6, 4-3 Away",45,17,,,Final,FOX,14,7,10,14,,0,14,3,0,,16,NFL
+7,300821019,2010,"August 21, 2010",New York Giants,Pittsburgh Steelers,"1-1, 0-1 Home","2-0, 1-0 Away",17,24,,,Final,,0,7,0,10,,0,10,14,0,,2,NFL
+8,300912019,2010,"September 12, 2010",New York Giants,Carolina Panthers,"1-0, 1-0 Home","0-1, 0-1 Away",31,18,,,Final,FOX,7,7,10,7,,3,13,0,2,,1,NFL
+9,300926019,2010,"September 26, 2010",New York Giants,Tennessee Titans,"1-2, 1-1 Home","2-1, 1-0 Away",10,29,,,Final,CBS,0,10,0,0,,3,7,9,10,,3,NFL
+10,301010034,2010,"October 10, 2010",Houston Texans,New York Giants,"3-2, 1-2 Home","3-2, 1-1 Away",10,34,,,Final,FOX,0,3,7,0,,14,10,3,7,,5,NFL
+11,301025006,2010,"October 25, 2010",Dallas Cowboys,New York Giants,"1-5, 0-3 Home","5-2, 2-1 Away",35,41,,,Final,ESPN,10,10,0,15,,7,17,14,3,,7,NFL
+12,301107026,2010,"November 7, 2010",Seattle Seahawks,New York Giants,"4-4, 3-1 Home","6-2, 3-1 Away",7,41,,,Final,FOX,0,0,0,7,,21,14,6,0,,9,NFL
+13,301121021,2010,"November 21, 2010",Philadelphia Eagles,New York Giants,"7-3, 3-2 Home","6-4, 3-2 Away",27,17,,,Final,NBC,7,6,3,11,,0,3,7,7,,11,NFL
+14,301205019,2010,"December 5, 2010",New York Giants,Washington Redskins,"8-4, 5-2 Home","5-7, 3-3 Away",31,7,,,Final,FOX,14,7,7,3,,0,0,7,0,,13,NFL
+15,301219019,2010,"December 19, 2010",New York Giants,Philadelphia Eagles,"9-5, 5-3 Home","10-4, 6-2 Away",31,38,,,Final,FOX,7,17,0,7,,0,3,7,28,,15,NFL
+16,300816020,2010,"August 16, 2010",New York Jets,New York Giants,"0-1, 0-1 Home","1-0, 1-0 Away",16,31,,,Final,ESPN,10,3,3,0,,7,3,7,14,,1,NFL
+17,300828033,2010,"August 28, 2010",Baltimore Ravens,New York Giants,"3-0, 2-0 Home","1-2, 1-1 Away",24,10,,,Final,,3,14,0,7,,0,3,0,7,,3,NFL
+18,300902019,2010,"September 2, 2010",New York Giants,New England Patriots,"2-2, 1-1 Home","2-2, 1-1 Away",20,17,,,Final,,6,3,3,8,,7,3,0,7,,4,NFL
+19,310102028,2010,"January 2, 2011",Washington Redskins,New York Giants,"6-10, 2-6 Home","10-6, 5-3 Away",14,17,,,Final,FOX,0,7,0,7,,3,7,7,0,,17,NFL

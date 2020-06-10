@@ -1,21 +1,21 @@
-ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
-220915012,2002,"September 15, 2002",Kansas City Chiefs,Jacksonville Jaguars,"1-1, 0-1 Home","1-1, 1-0 Away",16,23,NULL,NULL,Final,CBS,3,3,0,10,NULL,0,9,0,14,NULL,2,NFL
-220929030,2002,"September 29, 2002",Jacksonville Jaguars,New York Jets,"2-1, 1-1 Home","1-3, 1-2 Away",28,3,NULL,NULL,Final,CBS,7,7,14,0,NULL,0,3,0,0,NULL,4,NFL
-221013010,2002,"October 13, 2002",Tennessee Titans,Jacksonville Jaguars,"2-4, 2-2 Home","3-2, 1-1 Away",23,14,NULL,NULL,Final,CBS,7,9,0,7,NULL,0,7,7,0,NULL,6,NFL
-221027030,2002,"October 27, 2002",Jacksonville Jaguars,Houston Texans,"3-4, 2-2 Home","2-5, 1-3 Away",19,21,NULL,NULL,Final,CBS,0,9,3,7,NULL,0,7,3,11,NULL,8,NFL
-221110030,2002,"November 10, 2002",Jacksonville Jaguars,Washington Redskins,"4-5, 3-2 Home","4-5, 2-3 Away",26,7,NULL,NULL,Final,FOX,0,10,13,3,NULL,7,0,0,0,NULL,10,NFL
-221124006,2002,"November 24, 2002",Dallas Cowboys,Jacksonville Jaguars,"4-7, 3-2 Home","5-6, 2-4 Away",21,19,NULL,NULL,Final,CBS,0,7,7,7,NULL,0,5,0,14,NULL,12,NFL
-221208030,2002,"December 8, 2002",Jacksonville Jaguars,Cleveland Browns,"5-8, 3-4 Home","7-6, 5-2 Away",20,21,NULL,NULL,Final,CBS,7,0,7,6,NULL,0,0,14,7,NULL,14,NFL
-221222030,2002,"December 22, 2002",Jacksonville Jaguars,Tennessee Titans,"6-9, 3-5 Home","10-5, 4-3 Away",10,28,NULL,NULL,Final,CBS,0,3,0,7,NULL,7,7,7,7,NULL,16,NFL
-220816030,2002,"August 16, 2002",Jacksonville Jaguars,Tampa Bay Buccaneers,"0-2, 0-1 Home","2-0, 1-0 Away",0,20,NULL,NULL,Final,NULL,0,0,0,0,NULL,0,13,0,7,NULL,1,NFL
-220908030,2002,"September 8, 2002",Jacksonville Jaguars,Indianapolis Colts,"0-1, 0-1 Home","1-0, 1-0 Away",25,28,NULL,NULL,Final,CBS,0,7,10,8,NULL,7,7,7,7,NULL,1,NFL
-221006030,2002,"October 6, 2002",Jacksonville Jaguars,Philadelphia Eagles,"3-1, 2-1 Home","3-2, 1-2 Away",28,25,NULL,NULL,Final,FOX,3,11,0,14,NULL,0,7,3,15,NULL,5,NFL
-221020033,2002,"October 20, 2002",Baltimore Ravens,Jacksonville Jaguars,"3-3, 2-1 Home","3-3, 1-2 Away",17,10,NULL,NULL,Final,CBS,0,7,10,0,NULL,0,7,0,3,NULL,7,NFL
-221103019,2002,"November 3, 2002",New York Giants,Jacksonville Jaguars,"4-4, 2-2 Home","3-5, 1-3 Away",24,17,NULL,NULL,Final,ESPN,7,7,10,0,NULL,0,0,3,14,NULL,9,NFL
-221117034,2002,"November 17, 2002",Houston Texans,Jacksonville Jaguars,"2-8, 1-4 Home","5-5, 2-3 Away",21,24,NULL,NULL,Final,CBS,0,7,7,7,NULL,7,10,7,0,NULL,11,NFL
-221201030,2002,"December 1, 2002",Jacksonville Jaguars,Pittsburgh Steelers,"5-7, 3-3 Home","7-4-1, 4-3 Away",23,25,NULL,NULL,Final,CBS,7,3,0,13,NULL,6,10,3,6,NULL,13,NFL
-221215004,2002,"December 15, 2002",Cincinnati Bengals,Jacksonville Jaguars,"1-13, 0-7 Home","6-8, 3-4 Away",15,29,NULL,NULL,Final,CBS,3,9,3,0,NULL,7,7,8,7,NULL,15,NFL
-220809001,2002,"August 9, 2002",Atlanta Falcons,Jacksonville Jaguars,"1-0, 1-0 Home","0-1, 0-1 Away",23,13,NULL,NULL,Final,NULL,3,3,7,10,NULL,0,6,0,7,NULL,HOF,NFL
-220823003,2002,"August 23, 2002",Chicago Bears,Jacksonville Jaguars,"1-2, 0-2 Home","1-2, 1-1 Away",16,24,NULL,NULL,Final,NULL,3,10,0,3,NULL,0,0,10,14,NULL,2,NFL
-220829030,2002,"August 29, 2002",Jacksonville Jaguars,Dallas Cowboys,"1-3, 0-2 Home","3-1, 2-0 Away",25,28,NULL,NULL,Final,NULL,2,0,14,9,NULL,0,21,0,7,NULL,3,NFL
-221229011,2002,"December 29, 2002",Indianapolis Colts,Jacksonville Jaguars,"10-6, 5-3 Home","6-10, 3-5 Away",20,13,NULL,NULL,Final,CBS,0,10,0,10,NULL,3,7,0,3,NULL,17,NFL
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
+0,220915012,2002,"September 15, 2002",Kansas City Chiefs,Jacksonville Jaguars,"1-1, 0-1 Home","1-1, 1-0 Away",16,23,,,Final,CBS,3,3,0,10,,0,9,0,14,,2,NFL
+1,220929030,2002,"September 29, 2002",Jacksonville Jaguars,New York Jets,"2-1, 1-1 Home","1-3, 1-2 Away",28,3,,,Final,CBS,7,7,14,0,,0,3,0,0,,4,NFL
+2,221013010,2002,"October 13, 2002",Tennessee Titans,Jacksonville Jaguars,"2-4, 2-2 Home","3-2, 1-1 Away",23,14,,,Final,CBS,7,9,0,7,,0,7,7,0,,6,NFL
+3,221027030,2002,"October 27, 2002",Jacksonville Jaguars,Houston Texans,"3-4, 2-2 Home","2-5, 1-3 Away",19,21,,,Final,CBS,0,9,3,7,,0,7,3,11,,8,NFL
+4,221110030,2002,"November 10, 2002",Jacksonville Jaguars,Washington Redskins,"4-5, 3-2 Home","4-5, 2-3 Away",26,7,,,Final,FOX,0,10,13,3,,7,0,0,0,,10,NFL
+5,221124006,2002,"November 24, 2002",Dallas Cowboys,Jacksonville Jaguars,"4-7, 3-2 Home","5-6, 2-4 Away",21,19,,,Final,CBS,0,7,7,7,,0,5,0,14,,12,NFL
+6,221208030,2002,"December 8, 2002",Jacksonville Jaguars,Cleveland Browns,"5-8, 3-4 Home","7-6, 5-2 Away",20,21,,,Final,CBS,7,0,7,6,,0,0,14,7,,14,NFL
+7,221222030,2002,"December 22, 2002",Jacksonville Jaguars,Tennessee Titans,"6-9, 3-5 Home","10-5, 4-3 Away",10,28,,,Final,CBS,0,3,0,7,,7,7,7,7,,16,NFL
+8,220816030,2002,"August 16, 2002",Jacksonville Jaguars,Tampa Bay Buccaneers,"0-2, 0-1 Home","2-0, 1-0 Away",0,20,,,Final,,0,0,0,0,,0,13,0,7,,1,NFL
+9,220908030,2002,"September 8, 2002",Jacksonville Jaguars,Indianapolis Colts,"0-1, 0-1 Home","1-0, 1-0 Away",25,28,,,Final,CBS,0,7,10,8,,7,7,7,7,,1,NFL
+10,221006030,2002,"October 6, 2002",Jacksonville Jaguars,Philadelphia Eagles,"3-1, 2-1 Home","3-2, 1-2 Away",28,25,,,Final,FOX,3,11,0,14,,0,7,3,15,,5,NFL
+11,221020033,2002,"October 20, 2002",Baltimore Ravens,Jacksonville Jaguars,"3-3, 2-1 Home","3-3, 1-2 Away",17,10,,,Final,CBS,0,7,10,0,,0,7,0,3,,7,NFL
+12,221103019,2002,"November 3, 2002",New York Giants,Jacksonville Jaguars,"4-4, 2-2 Home","3-5, 1-3 Away",24,17,,,Final,ESPN,7,7,10,0,,0,0,3,14,,9,NFL
+13,221117034,2002,"November 17, 2002",Houston Texans,Jacksonville Jaguars,"2-8, 1-4 Home","5-5, 2-3 Away",21,24,,,Final,CBS,0,7,7,7,,7,10,7,0,,11,NFL
+14,221201030,2002,"December 1, 2002",Jacksonville Jaguars,Pittsburgh Steelers,"5-7, 3-3 Home","7-4-1, 4-3 Away",23,25,,,Final,CBS,7,3,0,13,,6,10,3,6,,13,NFL
+15,221215004,2002,"December 15, 2002",Cincinnati Bengals,Jacksonville Jaguars,"1-13, 0-7 Home","6-8, 3-4 Away",15,29,,,Final,CBS,3,9,3,0,,7,7,8,7,,15,NFL
+16,220809001,2002,"August 9, 2002",Atlanta Falcons,Jacksonville Jaguars,"1-0, 1-0 Home","0-1, 0-1 Away",23,13,,,Final,,3,3,7,10,,0,6,0,7,,HOF,NFL
+17,220823003,2002,"August 23, 2002",Chicago Bears,Jacksonville Jaguars,"1-2, 0-2 Home","1-2, 1-1 Away",16,24,,,Final,,3,10,0,3,,0,0,10,14,,2,NFL
+18,220829030,2002,"August 29, 2002",Jacksonville Jaguars,Dallas Cowboys,"1-3, 0-2 Home","3-1, 2-0 Away",25,28,,,Final,,2,0,14,9,,0,21,0,7,,3,NFL
+19,221229011,2002,"December 29, 2002",Indianapolis Colts,Jacksonville Jaguars,"10-6, 5-3 Home","6-10, 3-5 Away",20,13,,,Final,CBS,0,10,0,10,,3,7,0,3,,17,NFL

@@ -1,23 +1,23 @@
-ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
-330915027,2013,"September 15, 2013",Tampa Bay Buccaneers,New Orleans Saints,"0-2, 0-1 Home","2-0, 1-0 Away",14,16,NULL,NULL,Final,FOX,7,0,0,7,NULL,10,0,3,3,NULL,2,NFL
-330930018,2013,"September 30, 2013",New Orleans Saints,Miami Dolphins,"4-0, 3-0 Home","3-1, 2-1 Away",38,17,NULL,NULL,Final,ESPN,7,14,14,3,NULL,3,7,0,7,NULL,4,NFL
-331013017,2013,"October 13, 2013",New England Patriots,New Orleans Saints,"5-1, 3-0 Home","5-1, 2-1 Away",30,27,NULL,NULL,Final,FOX,3,14,3,10,NULL,7,0,10,10,NULL,6,NFL
-331027018,2013,"October 27, 2013",New Orleans Saints,Buffalo Bills,"6-1, 4-0 Home","3-5, 1-3 Away",35,17,NULL,NULL,Final,CBS,7,14,7,7,NULL,0,10,0,7,NULL,8,NFL
-331110018,2013,"November 10, 2013",New Orleans Saints,Dallas Cowboys,"7-2, 5-0 Home","5-5, 1-4 Away",49,17,NULL,NULL,Final,NBC,7,21,7,14,NULL,3,7,7,0,NULL,10,NFL
-331121001,2013,"November 21, 2013",Atlanta Falcons,New Orleans Saints,"2-9, 2-4 Home","9-2, 3-2 Away",13,17,NULL,NULL,Final,NFL,7,6,0,0,NULL,7,7,3,0,NULL,12,NFL
-331208018,2013,"December 8, 2013",New Orleans Saints,Carolina Panthers,"10-3, 7-0 Home","9-4, 4-3 Away",31,13,NULL,NULL,Final,NBC,0,21,3,7,NULL,6,0,0,7,NULL,14,NFL
-331222029,2013,"December 22, 2013",Carolina Panthers,New Orleans Saints,"11-4, 7-1 Home","10-5, 3-5 Away",17,13,NULL,NULL,Final,FOX,0,7,3,7,NULL,0,6,0,7,NULL,16,NFL
-330816018,2013,"August 16, 2013",New Orleans Saints,Oakland Raiders,"2-0, 2-0 Home","1-1, 0-1 Away",28,20,NULL,NULL,Final,NULL,17,6,0,5,NULL,0,7,10,3,NULL,2,NFL
-340104021,2013,"January 4, 2014",Philadelphia Eagles,New Orleans Saints,"10-6, 4-4 Home","11-5, 3-5 Away",24,26,NULL,NULL,Final,NBC,0,7,7,10,NULL,0,6,14,6,NULL,WC,NFL
-330908018,2013,"September 8, 2013",New Orleans Saints,Atlanta Falcons,"1-0, 1-0 Home","0-1, 0-1 Away",23,17,NULL,NULL,Final,FOX,0,13,7,3,NULL,10,0,7,0,NULL,1,NFL
-330922018,2013,"September 22, 2013",New Orleans Saints,Arizona Cardinals,"3-0, 2-0 Home","1-2, 0-2 Away",31,7,NULL,NULL,Final,FOX,7,7,3,14,NULL,7,0,0,0,NULL,3,NFL
-331006003,2013,"October 6, 2013",Chicago Bears,New Orleans Saints,"3-2, 2-1 Home","5-0, 2-0 Away",18,26,NULL,NULL,Final,FOX,0,7,3,8,NULL,6,14,3,3,NULL,5,NFL
-331103020,2013,"November 3, 2013",New York Jets,New Orleans Saints,"5-4, 4-1 Home","6-2, 2-2 Away",26,20,NULL,NULL,Final,FOX,3,17,3,3,NULL,7,7,3,3,NULL,9,NFL
-331117018,2013,"November 17, 2013",New Orleans Saints,San Francisco 49ers,"8-2, 6-0 Home","6-4, 3-2 Away",23,20,NULL,NULL,Final,FOX,7,7,0,9,NULL,0,10,7,3,NULL,11,NFL
-331202026,2013,"December 2, 2013",Seattle Seahawks,New Orleans Saints,"11-1, 6-0 Home","9-3, 3-3 Away",34,7,NULL,NULL,Final,ESPN,17,10,7,0,NULL,0,7,0,0,NULL,13,NFL
-331215014,2013,"December 15, 2013",St. Louis Rams,New Orleans Saints,"6-8, 4-3 Home","10-4, 3-4 Away",27,16,NULL,NULL,Final,FOX,14,10,3,0,NULL,0,3,0,13,NULL,15,NFL
-330809018,2013,"August 9, 2013",New Orleans Saints,Kansas City Chiefs,"1-0, 1-0 Home","0-1, 0-1 Away",17,13,NULL,NULL,Final,NULL,0,3,14,0,NULL,10,0,0,3,NULL,1,NFL
-330825034,2013,"August 25, 2013",Houston Texans,New Orleans Saints,"2-1, 1-1 Home","3-0, 1-0 Away",23,31,NULL,NULL,Final,FOX,7,9,7,0,NULL,0,17,7,7,NULL,3,NFL
-340111026,2013,"January 11, 2014",Seattle Seahawks,New Orleans Saints,"13-3, 7-1 Home","11-5, 3-5 Away",23,15,NULL,NULL,Final,FOX,6,10,0,7,NULL,0,0,0,15,NULL,DIV,NFL
-330829015,2013,"August 29, 2013",Miami Dolphins,New Orleans Saints,"2-3, 1-1 Home","3-1, 1-1 Away",24,21,NULL,NULL,Final,NULL,10,3,3,8,NULL,7,0,0,14,NULL,4,NFL
-331229018,2013,"December 29, 2013",New Orleans Saints,Tampa Bay Buccaneers,"11-5, 8-0 Home","4-12, 1-7 Away",42,17,NULL,NULL,Final,FOX,14,14,7,7,NULL,7,7,3,0,NULL,17,NFL
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
+0,330915027,2013,"September 15, 2013",Tampa Bay Buccaneers,New Orleans Saints,"0-2, 0-1 Home","2-0, 1-0 Away",14,16,,,Final,FOX,7,0,0,7,,10,0,3,3,,2,NFL
+1,330930018,2013,"September 30, 2013",New Orleans Saints,Miami Dolphins,"4-0, 3-0 Home","3-1, 2-1 Away",38,17,,,Final,ESPN,7,14,14,3,,3,7,0,7,,4,NFL
+2,331013017,2013,"October 13, 2013",New England Patriots,New Orleans Saints,"5-1, 3-0 Home","5-1, 2-1 Away",30,27,,,Final,FOX,3,14,3,10,,7,0,10,10,,6,NFL
+3,331027018,2013,"October 27, 2013",New Orleans Saints,Buffalo Bills,"6-1, 4-0 Home","3-5, 1-3 Away",35,17,,,Final,CBS,7,14,7,7,,0,10,0,7,,8,NFL
+4,331110018,2013,"November 10, 2013",New Orleans Saints,Dallas Cowboys,"7-2, 5-0 Home","5-5, 1-4 Away",49,17,,,Final,NBC,7,21,7,14,,3,7,7,0,,10,NFL
+5,331121001,2013,"November 21, 2013",Atlanta Falcons,New Orleans Saints,"2-9, 2-4 Home","9-2, 3-2 Away",13,17,,,Final,NFL,7,6,0,0,,7,7,3,0,,12,NFL
+6,331208018,2013,"December 8, 2013",New Orleans Saints,Carolina Panthers,"10-3, 7-0 Home","9-4, 4-3 Away",31,13,,,Final,NBC,0,21,3,7,,6,0,0,7,,14,NFL
+7,331222029,2013,"December 22, 2013",Carolina Panthers,New Orleans Saints,"11-4, 7-1 Home","10-5, 3-5 Away",17,13,,,Final,FOX,0,7,3,7,,0,6,0,7,,16,NFL
+8,330816018,2013,"August 16, 2013",New Orleans Saints,Oakland Raiders,"2-0, 2-0 Home","1-1, 0-1 Away",28,20,,,Final,,17,6,0,5,,0,7,10,3,,2,NFL
+9,340104021,2013,"January 4, 2014",Philadelphia Eagles,New Orleans Saints,"10-6, 4-4 Home","11-5, 3-5 Away",24,26,,,Final,NBC,0,7,7,10,,0,6,14,6,,WC,NFL
+10,330908018,2013,"September 8, 2013",New Orleans Saints,Atlanta Falcons,"1-0, 1-0 Home","0-1, 0-1 Away",23,17,,,Final,FOX,0,13,7,3,,10,0,7,0,,1,NFL
+11,330922018,2013,"September 22, 2013",New Orleans Saints,Arizona Cardinals,"3-0, 2-0 Home","1-2, 0-2 Away",31,7,,,Final,FOX,7,7,3,14,,7,0,0,0,,3,NFL
+12,331006003,2013,"October 6, 2013",Chicago Bears,New Orleans Saints,"3-2, 2-1 Home","5-0, 2-0 Away",18,26,,,Final,FOX,0,7,3,8,,6,14,3,3,,5,NFL
+13,331103020,2013,"November 3, 2013",New York Jets,New Orleans Saints,"5-4, 4-1 Home","6-2, 2-2 Away",26,20,,,Final,FOX,3,17,3,3,,7,7,3,3,,9,NFL
+14,331117018,2013,"November 17, 2013",New Orleans Saints,San Francisco 49ers,"8-2, 6-0 Home","6-4, 3-2 Away",23,20,,,Final,FOX,7,7,0,9,,0,10,7,3,,11,NFL
+15,331202026,2013,"December 2, 2013",Seattle Seahawks,New Orleans Saints,"11-1, 6-0 Home","9-3, 3-3 Away",34,7,,,Final,ESPN,17,10,7,0,,0,7,0,0,,13,NFL
+16,331215014,2013,"December 15, 2013",St. Louis Rams,New Orleans Saints,"6-8, 4-3 Home","10-4, 3-4 Away",27,16,,,Final,FOX,14,10,3,0,,0,3,0,13,,15,NFL
+17,330809018,2013,"August 9, 2013",New Orleans Saints,Kansas City Chiefs,"1-0, 1-0 Home","0-1, 0-1 Away",17,13,,,Final,,0,3,14,0,,10,0,0,3,,1,NFL
+18,330825034,2013,"August 25, 2013",Houston Texans,New Orleans Saints,"2-1, 1-1 Home","3-0, 1-0 Away",23,31,,,Final,FOX,7,9,7,0,,0,17,7,7,,3,NFL
+19,340111026,2013,"January 11, 2014",Seattle Seahawks,New Orleans Saints,"13-3, 7-1 Home","11-5, 3-5 Away",23,15,,,Final,FOX,6,10,0,7,,0,0,0,15,,DIV,NFL
+20,330829015,2013,"August 29, 2013",Miami Dolphins,New Orleans Saints,"2-3, 1-1 Home","3-1, 1-1 Away",24,21,,,Final,,10,3,3,8,,7,0,0,14,,4,NFL
+21,331229018,2013,"December 29, 2013",New Orleans Saints,Tampa Bay Buccaneers,"11-5, 8-0 Home","4-12, 1-7 Away",42,17,,,Final,FOX,14,14,7,7,,7,7,3,0,,17,NFL

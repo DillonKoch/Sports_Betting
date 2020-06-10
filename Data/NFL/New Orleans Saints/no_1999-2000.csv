@@ -1,17 +1,17 @@
-ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
-190919025,1999,"September 19, 1999",San Francisco 49ers,New Orleans Saints,"1-1, 1-0 Home","1-1, 0-1 Away",28,21,NULL,NULL,Final,NULL,11,5,0,.688,405,13,3,0,.813,479,2,NFL
-191003003,1999,"October 3, 1999",Chicago Bears,New Orleans Saints,"2-2, 2-1 Home","1-2, 0-2 Away",14,10,NULL,NULL,Final,NULL,11,5,0,.688,405,13,3,0,.813,479,4,NFL
-191017018,1999,"October 17, 1999",New Orleans Saints,Tennessee Titans,"1-4, 1-2 Home","5-1, 2-1 Away",21,24,NULL,NULL,Final,NULL,11,5,0,.688,405,13,3,0,.813,479,6,NFL
-191031018,1999,"October 31, 1999",New Orleans Saints,Cleveland Browns,"1-6, 1-3 Home","1-7, 1-4 Away",16,21,NULL,NULL,Final,NULL,11,5,0,.688,405,13,3,0,.813,479,8,NFL
-191114018,1999,"November 14, 1999",New Orleans Saints,San Francisco 49ers,"2-7, 2-4 Home","3-6, 1-4 Away",24,6,NULL,NULL,Final,NULL,11,5,0,.688,405,13,3,0,.813,479,10,NFL
-191128014,1999,"November 28, 1999",St. Louis Rams,New Orleans Saints,"9-2, 6-0 Home","2-9, 0-5 Away",43,12,NULL,NULL,Final,NULL,11,5,0,.688,405,13,3,0,.813,479,12,NFL
-191212018,1999,"December 12, 1999",New Orleans Saints,St. Louis Rams,"2-11, 2-5 Home","11-2, 5-2 Away",14,30,NULL,NULL,Final,NULL,11,5,0,.688,405,13,3,0,.813,479,14,NFL
-191224018,1999,"December 24, 1999",New Orleans Saints,Dallas Cowboys,"3-12, 3-5 Home","7-8, 1-7 Away",31,24,NULL,NULL,Final,NULL,8,8,0,.500,434,9,7,0,.563,385,16,NFL
-190912018,1999,"September 12, 1999",New Orleans Saints,Carolina Panthers,"1-0, 1-0 Home","0-1, 0-1 Away",19,10,NULL,NULL,Final,NULL,11,5,0,.688,405,13,3,0,.813,479,1,NFL
-191010018,1999,"October 10, 1999",New Orleans Saints,Atlanta Falcons,"1-3, 1-1 Home","1-4, 1-2 Away",17,20,NULL,NULL,Final,NULL,11,5,0,.688,405,13,3,0,.813,479,5,NFL
-191024019,1999,"October 24, 1999",New York Giants,New Orleans Saints,"4-3, 3-1 Home","1-5, 0-3 Away",31,3,NULL,NULL,Final,NULL,11,5,0,.688,405,13,3,0,.813,479,7,NFL
-191107018,1999,"November 7, 1999",New Orleans Saints,Tampa Bay Buccaneers,"1-7, 1-4 Home","4-4, 2-3 Away",16,31,NULL,NULL,Final,NULL,11,5,0,.688,405,13,3,0,.813,479,9,NFL
-191121030,1999,"November 21, 1999",Jacksonville Jaguars,New Orleans Saints,"9-1, 4-1 Home","2-8, 0-4 Away",41,23,NULL,NULL,Final,NULL,11,5,0,.688,405,13,3,0,.813,479,11,NFL
-191205001,1999,"December 5, 1999",Atlanta Falcons,New Orleans Saints,"3-9, 2-4 Home","2-10, 0-6 Away",35,12,NULL,NULL,Final,NULL,11,5,0,.688,405,13,3,0,.813,479,13,NFL
-191219033,1999,"December 19, 1999",Baltimore Ravens,New Orleans Saints,"7-7, 3-4 Home","2-12, 0-7 Away",31,8,NULL,NULL,Final,NULL,11,5,0,.688,405,13,3,0,.813,479,15,NFL
-200102029,1999,"January 2, 2000",Carolina Panthers,New Orleans Saints,"8-8, 5-3 Home","3-13, 0-8 Away",45,13,NULL,NULL,Final,NULL,11,5,0,.688,405,13,3,0,.813,479,17,NFL
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
+0,190919025,1999,"September 19, 1999",San Francisco 49ers,New Orleans Saints,"1-1, 1-0 Home","1-1, 0-1 Away",28,21,,,Final,,11,5,0,0.688,405,13,3,0,0.813,479,2,NFL
+1,191003003,1999,"October 3, 1999",Chicago Bears,New Orleans Saints,"2-2, 2-1 Home","1-2, 0-2 Away",14,10,,,Final,,11,5,0,0.688,405,13,3,0,0.813,479,4,NFL
+2,191017018,1999,"October 17, 1999",New Orleans Saints,Tennessee Titans,"1-4, 1-2 Home","5-1, 2-1 Away",21,24,,,Final,,11,5,0,0.688,405,13,3,0,0.813,479,6,NFL
+3,191031018,1999,"October 31, 1999",New Orleans Saints,Cleveland Browns,"1-6, 1-3 Home","1-7, 1-4 Away",16,21,,,Final,,11,5,0,0.688,405,13,3,0,0.813,479,8,NFL
+4,191114018,1999,"November 14, 1999",New Orleans Saints,San Francisco 49ers,"2-7, 2-4 Home","3-6, 1-4 Away",24,6,,,Final,,11,5,0,0.688,405,13,3,0,0.813,479,10,NFL
+5,191128014,1999,"November 28, 1999",St. Louis Rams,New Orleans Saints,"9-2, 6-0 Home","2-9, 0-5 Away",43,12,,,Final,,11,5,0,0.688,405,13,3,0,0.813,479,12,NFL
+6,191212018,1999,"December 12, 1999",New Orleans Saints,St. Louis Rams,"2-11, 2-5 Home","11-2, 5-2 Away",14,30,,,Final,,11,5,0,0.688,405,13,3,0,0.813,479,14,NFL
+7,191224018,1999,"December 24, 1999",New Orleans Saints,Dallas Cowboys,"3-12, 3-5 Home","7-8, 1-7 Away",31,24,,,Final,,8,8,0,0.5,434,9,7,0,0.563,385,16,NFL
+8,190912018,1999,"September 12, 1999",New Orleans Saints,Carolina Panthers,"1-0, 1-0 Home","0-1, 0-1 Away",19,10,,,Final,,11,5,0,0.688,405,13,3,0,0.813,479,1,NFL
+9,191010018,1999,"October 10, 1999",New Orleans Saints,Atlanta Falcons,"1-3, 1-1 Home","1-4, 1-2 Away",17,20,,,Final,,11,5,0,0.688,405,13,3,0,0.813,479,5,NFL
+10,191024019,1999,"October 24, 1999",New York Giants,New Orleans Saints,"4-3, 3-1 Home","1-5, 0-3 Away",31,3,,,Final,,11,5,0,0.688,405,13,3,0,0.813,479,7,NFL
+11,191107018,1999,"November 7, 1999",New Orleans Saints,Tampa Bay Buccaneers,"1-7, 1-4 Home","4-4, 2-3 Away",16,31,,,Final,,11,5,0,0.688,405,13,3,0,0.813,479,9,NFL
+12,191121030,1999,"November 21, 1999",Jacksonville Jaguars,New Orleans Saints,"9-1, 4-1 Home","2-8, 0-4 Away",41,23,,,Final,,11,5,0,0.688,405,13,3,0,0.813,479,11,NFL
+13,191205001,1999,"December 5, 1999",Atlanta Falcons,New Orleans Saints,"3-9, 2-4 Home","2-10, 0-6 Away",35,12,,,Final,,11,5,0,0.688,405,13,3,0,0.813,479,13,NFL
+14,191219033,1999,"December 19, 1999",Baltimore Ravens,New Orleans Saints,"7-7, 3-4 Home","2-12, 0-7 Away",31,8,,,Final,,11,5,0,0.688,405,13,3,0,0.813,479,15,NFL
+15,200102029,1999,"January 2, 2000",Carolina Panthers,New Orleans Saints,"8-8, 5-3 Home","3-13, 0-8 Away",45,13,,,Final,,11,5,0,0.688,405,13,3,0,0.813,479,17,NFL

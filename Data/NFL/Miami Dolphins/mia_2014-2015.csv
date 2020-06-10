@@ -1,21 +1,21 @@
-ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
-400554198,2014,"September 14, 2014",Buffalo Bills,Miami Dolphins,"2-0, 1-0 Home","1-1, 0-1 Away",29,10,NULL,NULL,Final,CBS,6,3,14,6,NULL,0,0,10,0,NULL,2,NFL
-400554286,2014,"September 28, 2014",Oakland Raiders,Miami Dolphins,0-4,2-2,14,38,NULL,NULL,Final,CBS,7,0,0,7,NULL,3,21,14,0,NULL,4,NFL
-400554299,2014,"October 12, 2014",Miami Dolphins,Green Bay Packers,"2-3, 1-2 Home","4-2, 2-2 Away",24,27,NULL,NULL,Final,FOX,3,0,7,14,NULL,7,3,7,10,NULL,6,NFL
-400554267,2014,"October 26, 2014",Jacksonville Jaguars,Miami Dolphins,"1-7, 1-3 Home","4-3, 3-1 Away",13,27,NULL,NULL,Final,CBS,0,3,3,7,NULL,0,10,14,3,NULL,8,NFL
-400554355,2014,"November 9, 2014",Detroit Lions,Miami Dolphins,"7-2, 4-1 Home","5-4, 3-2 Away",20,16,NULL,NULL,Final,CBS,10,0,0,10,NULL,0,3,10,3,NULL,10,NFL
-400554364,2014,"November 23, 2014",Denver Broncos,Miami Dolphins,"8-3, 6-0 Home","6-5, 3-3 Away",39,36,NULL,NULL,Final,CBS,3,14,0,22,NULL,7,14,7,8,NULL,12,NFL
-400554419,2014,"December 7, 2014",Miami Dolphins,Baltimore Ravens,"7-6, 3-3 Home","8-5, 4-3 Away",13,28,NULL,NULL,Final,CBS,10,0,0,3,NULL,0,7,7,14,NULL,14,NFL
-400554373,2014,"December 21, 2014",Miami Dolphins,Minnesota Vikings,"8-7, 4-3 Home","6-9, 2-6 Away",37,35,NULL,NULL,Final,FOX,0,7,7,23,NULL,7,10,0,18,NULL,16,NFL
-400554695,2014,"August 16, 2014",Tampa Bay Buccaneers,Miami Dolphins,"0-2, 0-1 Home","1-1, 1-1 Away",14,20,NULL,NULL,Final,NULL,0,7,0,7,NULL,3,7,10,0,NULL,2,NFL
-400554262,2014,"September 7, 2014",Miami Dolphins,New England Patriots,"1-0, 1-0 Home","0-1, 0-1 Away",33,20,NULL,NULL,Final,CBS,7,3,13,10,NULL,10,10,0,0,NULL,1,NFL
-400554280,2014,"September 21, 2014",Miami Dolphins,Kansas City Chiefs,"1-2, 1-1 Home","1-2, 1-1 Away",15,34,NULL,NULL,Final,CBS,0,3,12,0,NULL,0,14,7,13,NULL,3,NFL
-400554270,2014,"October 19, 2014",Chicago Bears,Miami Dolphins,"3-4, 0-3 Home","3-3, 2-1 Away",14,27,NULL,NULL,Final,CBS,0,0,7,7,NULL,7,7,7,6,NULL,7,NFL
-400554347,2014,"November 2, 2014",Miami Dolphins,San Diego Chargers,"5-3, 2-2 Home","5-4, 2-3 Away",37,0,NULL,NULL,Final,CBS,7,13,17,0,NULL,0,0,0,0,NULL,9,NFL
-400554338,2014,"November 13, 2014",Miami Dolphins,Buffalo Bills,"6-4, 3-2 Home","5-5, 3-2 Away",22,9,NULL,NULL,Final,NFL,3,0,9,10,NULL,3,3,3,0,NULL,11,NFL
-400554399,2014,"December 1, 2014",New York Jets,Miami Dolphins,"2-10, 2-5 Home","7-5, 4-3 Away",13,16,NULL,NULL,Final,ESPN,7,3,3,0,NULL,0,3,3,10,NULL,13,NFL
-400554353,2014,"December 14, 2014",New England Patriots,Miami Dolphins,"11-3, 7-0 Home","7-7, 4-4 Away",41,13,NULL,NULL,Final,CBS,7,7,24,3,NULL,3,10,0,0,NULL,15,NFL
-400554694,2014,"August 8, 2014",Atlanta Falcons,Miami Dolphins,"1-0, 1-0 Home","0-1, 0-1 Away",16,10,NULL,NULL,Final,NULL,7,3,3,3,NULL,7,3,0,0,NULL,1,NFL
-400554696,2014,"August 23, 2014",Miami Dolphins,Dallas Cowboys,"2-1, 1-0 Home","0-3, 0-2 Away",25,20,NULL,NULL,Final,NULL,3,0,8,14,NULL,3,3,7,7,NULL,3,NFL
-400554697,2014,"August 28, 2014",Miami Dolphins,St. Louis Rams,"3-1, 2-0 Home","1-3, 1-1 Away",14,13,NULL,NULL,Final,NULL,0,0,0,14,NULL,0,10,3,0,NULL,4,NFL
-400554435,2014,"December 28, 2014",Miami Dolphins,New York Jets,"8-8, 4-4 Home","4-12, 2-6 Away",24,37,NULL,NULL,Final,CBS,3,14,7,0,NULL,7,7,10,13,NULL,17,NFL
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
+0,400554198,2014,"September 14, 2014",Buffalo Bills,Miami Dolphins,"2-0, 1-0 Home","1-1, 0-1 Away",29,10,,,Final,CBS,6,3,14,6,,0,0,10,0,,2,NFL
+1,400554286,2014,"September 28, 2014",Oakland Raiders,Miami Dolphins,0-4,2-2,14,38,,,Final,CBS,7,0,0,7,,3,21,14,0,,4,NFL
+2,400554299,2014,"October 12, 2014",Miami Dolphins,Green Bay Packers,"2-3, 1-2 Home","4-2, 2-2 Away",24,27,,,Final,FOX,3,0,7,14,,7,3,7,10,,6,NFL
+3,400554267,2014,"October 26, 2014",Jacksonville Jaguars,Miami Dolphins,"1-7, 1-3 Home","4-3, 3-1 Away",13,27,,,Final,CBS,0,3,3,7,,0,10,14,3,,8,NFL
+4,400554355,2014,"November 9, 2014",Detroit Lions,Miami Dolphins,"7-2, 4-1 Home","5-4, 3-2 Away",20,16,,,Final,CBS,10,0,0,10,,0,3,10,3,,10,NFL
+5,400554364,2014,"November 23, 2014",Denver Broncos,Miami Dolphins,"8-3, 6-0 Home","6-5, 3-3 Away",39,36,,,Final,CBS,3,14,0,22,,7,14,7,8,,12,NFL
+6,400554419,2014,"December 7, 2014",Miami Dolphins,Baltimore Ravens,"7-6, 3-3 Home","8-5, 4-3 Away",13,28,,,Final,CBS,10,0,0,3,,0,7,7,14,,14,NFL
+7,400554373,2014,"December 21, 2014",Miami Dolphins,Minnesota Vikings,"8-7, 4-3 Home","6-9, 2-6 Away",37,35,,,Final,FOX,0,7,7,23,,7,10,0,18,,16,NFL
+8,400554695,2014,"August 16, 2014",Tampa Bay Buccaneers,Miami Dolphins,"0-2, 0-1 Home","1-1, 1-1 Away",14,20,,,Final,,0,7,0,7,,3,7,10,0,,2,NFL
+9,400554262,2014,"September 7, 2014",Miami Dolphins,New England Patriots,"1-0, 1-0 Home","0-1, 0-1 Away",33,20,,,Final,CBS,7,3,13,10,,10,10,0,0,,1,NFL
+10,400554280,2014,"September 21, 2014",Miami Dolphins,Kansas City Chiefs,"1-2, 1-1 Home","1-2, 1-1 Away",15,34,,,Final,CBS,0,3,12,0,,0,14,7,13,,3,NFL
+11,400554270,2014,"October 19, 2014",Chicago Bears,Miami Dolphins,"3-4, 0-3 Home","3-3, 2-1 Away",14,27,,,Final,CBS,0,0,7,7,,7,7,7,6,,7,NFL
+12,400554347,2014,"November 2, 2014",Miami Dolphins,San Diego Chargers,"5-3, 2-2 Home","5-4, 2-3 Away",37,0,,,Final,CBS,7,13,17,0,,0,0,0,0,,9,NFL
+13,400554338,2014,"November 13, 2014",Miami Dolphins,Buffalo Bills,"6-4, 3-2 Home","5-5, 3-2 Away",22,9,,,Final,NFL,3,0,9,10,,3,3,3,0,,11,NFL
+14,400554399,2014,"December 1, 2014",New York Jets,Miami Dolphins,"2-10, 2-5 Home","7-5, 4-3 Away",13,16,,,Final,ESPN,7,3,3,0,,0,3,3,10,,13,NFL
+15,400554353,2014,"December 14, 2014",New England Patriots,Miami Dolphins,"11-3, 7-0 Home","7-7, 4-4 Away",41,13,,,Final,CBS,7,7,24,3,,3,10,0,0,,15,NFL
+16,400554694,2014,"August 8, 2014",Atlanta Falcons,Miami Dolphins,"1-0, 1-0 Home","0-1, 0-1 Away",16,10,,,Final,,7,3,3,3,,7,3,0,0,,1,NFL
+17,400554696,2014,"August 23, 2014",Miami Dolphins,Dallas Cowboys,"2-1, 1-0 Home","0-3, 0-2 Away",25,20,,,Final,,3,0,8,14,,3,3,7,7,,3,NFL
+18,400554697,2014,"August 28, 2014",Miami Dolphins,St. Louis Rams,"3-1, 2-0 Home","1-3, 1-1 Away",14,13,,,Final,,0,0,0,14,,0,10,3,0,,4,NFL
+19,400554435,2014,"December 28, 2014",Miami Dolphins,New York Jets,"8-8, 4-4 Home","4-12, 2-6 Away",24,37,,,Final,CBS,3,14,7,0,,7,7,10,13,,17,NFL

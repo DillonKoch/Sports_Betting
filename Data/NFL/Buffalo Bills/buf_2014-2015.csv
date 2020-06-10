@@ -1,22 +1,22 @@
-ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
-400554198,2014,"September 14, 2014",Buffalo Bills,Miami Dolphins,"2-0, 1-0 Home","1-1, 0-1 Away",29,10,NULL,NULL,Final,CBS,6,3,14,6,NULL,0,0,10,0,NULL,2,NFL
-400554212,2014,"September 28, 2014",Houston Texans,Buffalo Bills,"3-1, 2-0 Home","2-2, 1-1 Away",23,17,NULL,NULL,Final,CBS,0,7,10,6,NULL,0,10,0,7,NULL,4,NFL
-400554259,2014,"October 12, 2014",Buffalo Bills,New England Patriots,"3-3, 1-2 Home","4-2, 2-2 Away",22,37,NULL,NULL,Final,FOX,0,7,7,8,NULL,0,13,10,14,NULL,6,NFL
-400554298,2014,"October 26, 2014",New York Jets,Buffalo Bills,"1-7, 1-4 Home","5-3, 3-1 Away",23,43,NULL,NULL,Final,CBS,0,17,0,6,NULL,14,10,6,13,NULL,8,NFL
-400554332,2014,"November 9, 2014",Buffalo Bills,Kansas City Chiefs,"5-4, 2-3 Home","6-3, 3-2 Away",13,17,NULL,NULL,Final,CBS,7,3,3,0,NULL,3,0,0,14,NULL,10,NFL
-400607990,2014,"November 24, 2014",Buffalo Bills,New York Jets,6-5,2-9,38,3,NULL,NULL,Final,CBS,7,7,17,7,NULL,3,0,0,0,NULL,12,NFL
-400554321,2014,"November 30, 2014",Buffalo Bills,Cleveland Browns,"7-5, 4-3 Home","7-5, 3-3 Away",26,10,NULL,NULL,Final,CBS,0,0,14,12,NULL,3,0,0,7,NULL,13,NFL
-400554428,2014,"December 7, 2014",Denver Broncos,Buffalo Bills,"10-3, 7-0 Home","7-6, 3-3 Away",24,17,NULL,NULL,Final,CBS,7,7,10,0,NULL,0,3,0,14,NULL,14,NFL
-400554386,2014,"December 14, 2014",Buffalo Bills,Green Bay Packers,"8-6, 5-3 Home","10-4, 3-4 Away",21,13,NULL,NULL,Final,FOX,7,3,6,5,NULL,3,7,0,3,NULL,15,NFL
-400554442,2014,"December 21, 2014",Oakland Raiders,Buffalo Bills,"3-12, 3-5 Home","8-7, 3-4 Away",26,24,NULL,NULL,Final,CBS,0,13,6,7,NULL,7,3,0,14,NULL,16,NFL
-400552056,2014,"August 8, 2014",Carolina Panthers,Buffalo Bills,"0-1, 0-1 Home","1-1, 1-0 Away",18,20,NULL,NULL,Final,NULL,0,6,0,12,NULL,3,10,0,7,NULL,1,NFL
-400552057,2014,"August 23, 2014",Buffalo Bills,Tampa Bay Buccaneers,"1-3, 0-2 Home","1-2, 1-1 Away",14,27,NULL,NULL,Final,NFL,0,0,14,0,NULL,7,17,0,3,NULL,3,NFL
-400554232,2014,"September 7, 2014",Chicago Bears,Buffalo Bills,"0-1, 0-1 Home","1-0, 1-0 Away",20,23,NULL,NULL,Final/OT,FOX,7,0,10,3,0,7,10,0,3,3,1,NFL
-400554195,2014,"September 21, 2014",Buffalo Bills,San Diego Chargers,"2-1, 1-1 Home","2-1, 1-1 Away",10,22,NULL,NULL,Final,CBS,0,3,7,0,NULL,7,6,7,2,NULL,3,NFL
-400554236,2014,"October 5, 2014",Detroit Lions,Buffalo Bills,"3-2, 2-1 Home","3-2, 2-1 Away",14,17,NULL,NULL,Final,FOX,7,7,0,0,NULL,0,3,3,11,NULL,5,NFL
-400554268,2014,"October 19, 2014",Buffalo Bills,Minnesota Vikings,"4-3, 2-2 Home","2-5, 1-3 Away",17,16,NULL,NULL,Final,FOX,0,10,0,7,NULL,3,10,0,3,NULL,7,NFL
-400554338,2014,"November 13, 2014",Miami Dolphins,Buffalo Bills,"6-4, 3-2 Home","5-5, 3-2 Away",22,9,NULL,NULL,Final,NFL,3,0,9,10,NULL,3,3,3,0,NULL,11,NFL
-400541294,2014,"August 3, 2014",Buffalo Bills,New York Giants,0-1,1-0,13,17,NULL,NULL,Final,NBC,3,7,3,0,NULL,7,3,0,7,NULL,HOF,NFL
-400552054,2014,"August 16, 2014",Pittsburgh Steelers,Buffalo Bills,"1-1, 1-0 Home","1-2, 1-1 Away",19,16,NULL,NULL,Final,NULL,13,0,0,6,NULL,3,3,7,3,NULL,2,NFL
-400554438,2014,"December 28, 2014",New England Patriots,Buffalo Bills,"12-4, 7-1 Home","9-7, 4-4 Away",9,17,NULL,NULL,Final,CBS,3,3,3,0,NULL,7,10,0,0,NULL,17,NFL
-400552058,2014,"August 28, 2014",Buffalo Bills,Detroit Lions,"1-4, 0-3 Home","3-1, 1-1 Away",0,23,NULL,NULL,Final,NULL,0,0,0,0,NULL,0,17,3,3,NULL,4,NFL
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
+0,400554198,2014,"September 14, 2014",Buffalo Bills,Miami Dolphins,"2-0, 1-0 Home","1-1, 0-1 Away",29,10,,,Final,CBS,6,3,14,6,,0,0,10,0,,2,NFL
+1,400554212,2014,"September 28, 2014",Houston Texans,Buffalo Bills,"3-1, 2-0 Home","2-2, 1-1 Away",23,17,,,Final,CBS,0,7,10,6,,0,10,0,7,,4,NFL
+2,400554259,2014,"October 12, 2014",Buffalo Bills,New England Patriots,"3-3, 1-2 Home","4-2, 2-2 Away",22,37,,,Final,FOX,0,7,7,8,,0,13,10,14,,6,NFL
+3,400554298,2014,"October 26, 2014",New York Jets,Buffalo Bills,"1-7, 1-4 Home","5-3, 3-1 Away",23,43,,,Final,CBS,0,17,0,6,,14,10,6,13,,8,NFL
+4,400554332,2014,"November 9, 2014",Buffalo Bills,Kansas City Chiefs,"5-4, 2-3 Home","6-3, 3-2 Away",13,17,,,Final,CBS,7,3,3,0,,3,0,0,14,,10,NFL
+5,400607990,2014,"November 24, 2014",Buffalo Bills,New York Jets,6-5,2-9,38,3,,,Final,CBS,7,7,17,7,,3,0,0,0,,12,NFL
+6,400554321,2014,"November 30, 2014",Buffalo Bills,Cleveland Browns,"7-5, 4-3 Home","7-5, 3-3 Away",26,10,,,Final,CBS,0,0,14,12,,3,0,0,7,,13,NFL
+7,400554428,2014,"December 7, 2014",Denver Broncos,Buffalo Bills,"10-3, 7-0 Home","7-6, 3-3 Away",24,17,,,Final,CBS,7,7,10,0,,0,3,0,14,,14,NFL
+8,400554386,2014,"December 14, 2014",Buffalo Bills,Green Bay Packers,"8-6, 5-3 Home","10-4, 3-4 Away",21,13,,,Final,FOX,7,3,6,5,,3,7,0,3,,15,NFL
+9,400554442,2014,"December 21, 2014",Oakland Raiders,Buffalo Bills,"3-12, 3-5 Home","8-7, 3-4 Away",26,24,,,Final,CBS,0,13,6,7,,7,3,0,14,,16,NFL
+10,400552056,2014,"August 8, 2014",Carolina Panthers,Buffalo Bills,"0-1, 0-1 Home","1-1, 1-0 Away",18,20,,,Final,,0,6,0,12,,3,10,0,7,,1,NFL
+11,400552057,2014,"August 23, 2014",Buffalo Bills,Tampa Bay Buccaneers,"1-3, 0-2 Home","1-2, 1-1 Away",14,27,,,Final,NFL,0,0,14,0,,7,17,0,3,,3,NFL
+12,400554232,2014,"September 7, 2014",Chicago Bears,Buffalo Bills,"0-1, 0-1 Home","1-0, 1-0 Away",20,23,,,Final/OT,FOX,7,0,10,3,0.0,7,10,0,3,3.0,1,NFL
+13,400554195,2014,"September 21, 2014",Buffalo Bills,San Diego Chargers,"2-1, 1-1 Home","2-1, 1-1 Away",10,22,,,Final,CBS,0,3,7,0,,7,6,7,2,,3,NFL
+14,400554236,2014,"October 5, 2014",Detroit Lions,Buffalo Bills,"3-2, 2-1 Home","3-2, 2-1 Away",14,17,,,Final,FOX,7,7,0,0,,0,3,3,11,,5,NFL
+15,400554268,2014,"October 19, 2014",Buffalo Bills,Minnesota Vikings,"4-3, 2-2 Home","2-5, 1-3 Away",17,16,,,Final,FOX,0,10,0,7,,3,10,0,3,,7,NFL
+16,400554338,2014,"November 13, 2014",Miami Dolphins,Buffalo Bills,"6-4, 3-2 Home","5-5, 3-2 Away",22,9,,,Final,NFL,3,0,9,10,,3,3,3,0,,11,NFL
+17,400541294,2014,"August 3, 2014",Buffalo Bills,New York Giants,0-1,1-0,13,17,,,Final,NBC,3,7,3,0,,7,3,0,7,,HOF,NFL
+18,400552054,2014,"August 16, 2014",Pittsburgh Steelers,Buffalo Bills,"1-1, 1-0 Home","1-2, 1-1 Away",19,16,,,Final,,13,0,0,6,,3,3,7,3,,2,NFL
+19,400554438,2014,"December 28, 2014",New England Patriots,Buffalo Bills,"12-4, 7-1 Home","9-7, 4-4 Away",9,17,,,Final,CBS,3,3,3,0,,7,10,0,0,,17,NFL
+20,400552058,2014,"August 28, 2014",Buffalo Bills,Detroit Lions,"1-4, 0-3 Home","3-1, 1-1 Away",0,23,,,Final,,0,0,0,0,,0,17,3,3,,4,NFL

@@ -1,21 +1,21 @@
-ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
-290920030,2009,"September 20, 2009",Jacksonville Jaguars,Arizona Cardinals,"0-2, 0-1 Home","1-1, 1-0 Away",17,31,NULL,NULL,Final,FOX,3,0,7,7,NULL,10,14,7,0,NULL,2,NFL
-291004030,2009,"October 4, 2009",Jacksonville Jaguars,Tennessee Titans,"2-2, 1-1 Home","0-4, 0-3 Away",37,17,NULL,NULL,Final,CBS,10,17,3,7,NULL,0,3,6,8,NULL,4,NFL
-291018030,2009,"October 18, 2009",Jacksonville Jaguars,St. Louis Rams,"3-3, 2-1 Home","0-6, 0-4 Away",23,20,NULL,NULL,Final/OT,FOX,6,0,0,14,3,7,3,0,10,0,6,NFL
-291101010,2009,"November 1, 2009",Tennessee Titans,Jacksonville Jaguars,"1-6, 1-2 Home","3-4, 1-3 Away",30,13,NULL,NULL,Final,CBS,3,10,10,7,NULL,0,7,6,0,NULL,8,NFL
-291115020,2009,"November 15, 2009",New York Jets,Jacksonville Jaguars,"4-5, 2-3 Home","5-4, 2-3 Away",22,24,NULL,NULL,Final,CBS,10,3,0,9,NULL,7,14,0,3,NULL,10,NFL
-291129025,2009,"November 29, 2009",San Francisco 49ers,Jacksonville Jaguars,"5-6, 4-2 Home","6-5, 2-4 Away",20,3,NULL,NULL,Final,CBS,3,14,3,0,NULL,0,3,0,0,NULL,12,NFL
-291213030,2009,"December 13, 2009",Jacksonville Jaguars,Miami Dolphins,"7-6, 5-2 Home","7-6, 3-4 Away",10,14,NULL,NULL,Final,CBS,0,7,3,0,NULL,7,7,0,0,NULL,14,NFL
-291227017,2009,"December 27, 2009",New England Patriots,Jacksonville Jaguars,"10-5, 8-0 Home","7-8, 2-5 Away",35,7,NULL,NULL,Final,CBS,7,21,0,7,NULL,0,0,0,7,NULL,16,NFL
-290822030,2009,"August 22, 2009",Jacksonville Jaguars,Tampa Bay Buccaneers,"0-2, 0-1 Home","1-1, 1-1 Away",23,24,NULL,NULL,Final,NULL,7,7,3,6,NULL,3,14,7,0,NULL,2,NFL
-290913011,2009,"September 13, 2009",Indianapolis Colts,Jacksonville Jaguars,"1-0, 1-0 Home","0-1, 0-1 Away",14,12,NULL,NULL,Final,CBS,0,7,7,0,NULL,0,6,0,6,NULL,1,NFL
-290927034,2009,"September 27, 2009",Houston Texans,Jacksonville Jaguars,"1-2, 0-2 Home","1-2, 1-1 Away",24,31,NULL,NULL,Final,CBS,7,14,3,0,NULL,3,14,7,7,NULL,3,NFL
-291011026,2009,"October 11, 2009",Seattle Seahawks,Jacksonville Jaguars,"2-3, 2-1 Home","2-3, 1-2 Away",41,0,NULL,NULL,Final,CBS,3,17,14,7,NULL,0,0,0,0,NULL,5,NFL
-291108030,2009,"November 8, 2009",Jacksonville Jaguars,Kansas City Chiefs,"4-4, 3-1 Home","1-7, 1-3 Away",24,21,NULL,NULL,Final,CBS,7,7,3,7,NULL,3,3,0,15,NULL,9,NFL
-291122030,2009,"November 22, 2009",Jacksonville Jaguars,Buffalo Bills,"6-4, 4-1 Home","3-7, 2-4 Away",18,15,NULL,NULL,Final,CBS,3,7,0,8,NULL,6,3,6,0,NULL,11,NFL
-291206030,2009,"December 6, 2009",Jacksonville Jaguars,Houston Texans,"7-5, 5-1 Home","5-7, 3-3 Away",23,18,NULL,NULL,Final,CBS,3,17,3,0,NULL,0,7,5,6,NULL,13,NFL
-291217030,2009,"December 17, 2009",Jacksonville Jaguars,Indianapolis Colts,"7-7, 5-3 Home","14-0, 7-0 Away",31,35,NULL,NULL,Final,NFL,3,14,14,0,NULL,0,21,7,7,NULL,15,NFL
-290817015,2009,"August 17, 2009",Miami Dolphins,Jacksonville Jaguars,"1-0, 1-0 Home","0-1, 0-1 Away",12,9,NULL,NULL,Final,NULL,3,3,6,0,NULL,0,6,3,0,NULL,1,NFL
-290827021,2009,"August 27, 2009",Philadelphia Eagles,Jacksonville Jaguars,"1-2, 1-1 Home","0-3, 0-2 Away",33,32,NULL,NULL,Final,NULL,3,3,14,13,NULL,0,17,12,3,NULL,3,NFL
-290903030,2009,"September 3, 2009",Jacksonville Jaguars,Washington Redskins,"1-3, 1-1 Home","1-3, 0-2 Away",24,17,NULL,NULL,Final,NULL,10,11,0,3,NULL,0,0,3,14,NULL,4,NFL
-300103005,2009,"January 3, 2010",Cleveland Browns,Jacksonville Jaguars,"5-11, 3-5 Home","7-9, 2-6 Away",23,17,NULL,NULL,Final,CBS,3,10,7,3,NULL,3,0,0,14,NULL,17,NFL
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
+0,290920030,2009,"September 20, 2009",Jacksonville Jaguars,Arizona Cardinals,"0-2, 0-1 Home","1-1, 1-0 Away",17,31,,,Final,FOX,3,0,7,7,,10,14,7,0,,2,NFL
+1,291004030,2009,"October 4, 2009",Jacksonville Jaguars,Tennessee Titans,"2-2, 1-1 Home","0-4, 0-3 Away",37,17,,,Final,CBS,10,17,3,7,,0,3,6,8,,4,NFL
+2,291018030,2009,"October 18, 2009",Jacksonville Jaguars,St. Louis Rams,"3-3, 2-1 Home","0-6, 0-4 Away",23,20,,,Final/OT,FOX,6,0,0,14,3.0,7,3,0,10,0.0,6,NFL
+3,291101010,2009,"November 1, 2009",Tennessee Titans,Jacksonville Jaguars,"1-6, 1-2 Home","3-4, 1-3 Away",30,13,,,Final,CBS,3,10,10,7,,0,7,6,0,,8,NFL
+4,291115020,2009,"November 15, 2009",New York Jets,Jacksonville Jaguars,"4-5, 2-3 Home","5-4, 2-3 Away",22,24,,,Final,CBS,10,3,0,9,,7,14,0,3,,10,NFL
+5,291129025,2009,"November 29, 2009",San Francisco 49ers,Jacksonville Jaguars,"5-6, 4-2 Home","6-5, 2-4 Away",20,3,,,Final,CBS,3,14,3,0,,0,3,0,0,,12,NFL
+6,291213030,2009,"December 13, 2009",Jacksonville Jaguars,Miami Dolphins,"7-6, 5-2 Home","7-6, 3-4 Away",10,14,,,Final,CBS,0,7,3,0,,7,7,0,0,,14,NFL
+7,291227017,2009,"December 27, 2009",New England Patriots,Jacksonville Jaguars,"10-5, 8-0 Home","7-8, 2-5 Away",35,7,,,Final,CBS,7,21,0,7,,0,0,0,7,,16,NFL
+8,290822030,2009,"August 22, 2009",Jacksonville Jaguars,Tampa Bay Buccaneers,"0-2, 0-1 Home","1-1, 1-1 Away",23,24,,,Final,,7,7,3,6,,3,14,7,0,,2,NFL
+9,290913011,2009,"September 13, 2009",Indianapolis Colts,Jacksonville Jaguars,"1-0, 1-0 Home","0-1, 0-1 Away",14,12,,,Final,CBS,0,7,7,0,,0,6,0,6,,1,NFL
+10,290927034,2009,"September 27, 2009",Houston Texans,Jacksonville Jaguars,"1-2, 0-2 Home","1-2, 1-1 Away",24,31,,,Final,CBS,7,14,3,0,,3,14,7,7,,3,NFL
+11,291011026,2009,"October 11, 2009",Seattle Seahawks,Jacksonville Jaguars,"2-3, 2-1 Home","2-3, 1-2 Away",41,0,,,Final,CBS,3,17,14,7,,0,0,0,0,,5,NFL
+12,291108030,2009,"November 8, 2009",Jacksonville Jaguars,Kansas City Chiefs,"4-4, 3-1 Home","1-7, 1-3 Away",24,21,,,Final,CBS,7,7,3,7,,3,3,0,15,,9,NFL
+13,291122030,2009,"November 22, 2009",Jacksonville Jaguars,Buffalo Bills,"6-4, 4-1 Home","3-7, 2-4 Away",18,15,,,Final,CBS,3,7,0,8,,6,3,6,0,,11,NFL
+14,291206030,2009,"December 6, 2009",Jacksonville Jaguars,Houston Texans,"7-5, 5-1 Home","5-7, 3-3 Away",23,18,,,Final,CBS,3,17,3,0,,0,7,5,6,,13,NFL
+15,291217030,2009,"December 17, 2009",Jacksonville Jaguars,Indianapolis Colts,"7-7, 5-3 Home","14-0, 7-0 Away",31,35,,,Final,NFL,3,14,14,0,,0,21,7,7,,15,NFL
+16,290817015,2009,"August 17, 2009",Miami Dolphins,Jacksonville Jaguars,"1-0, 1-0 Home","0-1, 0-1 Away",12,9,,,Final,,3,3,6,0,,0,6,3,0,,1,NFL
+17,290827021,2009,"August 27, 2009",Philadelphia Eagles,Jacksonville Jaguars,"1-2, 1-1 Home","0-3, 0-2 Away",33,32,,,Final,,3,3,14,13,,0,17,12,3,,3,NFL
+18,290903030,2009,"September 3, 2009",Jacksonville Jaguars,Washington Redskins,"1-3, 1-1 Home","1-3, 0-2 Away",24,17,,,Final,,10,11,0,3,,0,0,3,14,,4,NFL
+19,300103005,2009,"January 3, 2010",Cleveland Browns,Jacksonville Jaguars,"5-11, 3-5 Home","7-9, 2-6 Away",23,17,,,Final,CBS,3,10,7,3,,3,0,0,14,,17,NFL

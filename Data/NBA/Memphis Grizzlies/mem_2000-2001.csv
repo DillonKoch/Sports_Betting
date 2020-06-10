@@ -1,0 +1,83 @@
+,Unnamed: 0,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,0,201102012,2000,"Thu, Nov 2",Los Angeles Clippers,Vancouver Grizzlies,"0-2, 0-1 Home","2-0, 1-0 Away",91,99,,,Final,,21,20,22,28,,28,26,23,22,,NBA
+1,1,201106029,2000,"Mon, Nov 6",Vancouver Grizzlies,Atlanta Hawks,"3-1, 2-1 Home","0-4, 0-2 Away",97,87,,,Final,,20,30,21,26,,19,17,19,32,,NBA
+2,2,201109010,2000,"Thu, Nov 9",Houston Rockets,Vancouver Grizzlies,"3-3, 3-1 Home","4-2, 2-1 Away",85,78,,,Final,,21,14,28,22,,24,16,23,15,,NBA
+3,3,201116029,2000,"Thu, Nov 16",Vancouver Grizzlies,Los Angeles Clippers,"4-4, 2-2 Home","4-6, 1-3 Away",72,76,,,Final,,22,16,21,13,,22,25,12,17,,NBA
+4,4,201120029,2000,"Mon, Nov 20",Vancouver Grizzlies,Denver Nuggets,"4-6, 2-4 Home","6-5, 1-3 Away",92,95,,,Final,,30,24,11,27,,32,23,20,20,,NBA
+5,5,201124008,2000,"Fri, Nov 24",Detroit Pistons,Vancouver Grizzlies,"5-8, 2-3 Home","4-8, 2-4 Away",118,96,,,Final,,37,33,18,30,,19,31,20,26,,NBA
+6,6,201127018,2000,"Mon, Nov 27",New York Knicks,Vancouver Grizzlies,"9-6, 4-3 Home","5-9, 3-5 Away",97,72,,,Final,,27,18,25,27,,19,20,13,20,,NBA
+7,7,201201029,2000,"Fri, Dec 1",Vancouver Grizzlies,Indiana Pacers,"6-10, 3-5 Home","7-8, 3-5 Away",76,86,,,Final/OT,,21,13,22,20,0.0,29,16,16,15,10.0,NBA
+8,8,201205029,2000,"Tue, Dec 5",Vancouver Grizzlies,Detroit Pistons,"7-11, 4-6 Home","8-10, 3-6 Away",91,83,,,Final,,22,20,22,27,,16,26,19,22,,NBA
+9,9,201209029,2000,"Sat, Dec 9",Vancouver Grizzlies,Philadelphia 76ers,"7-13, 4-7 Home","16-4, 9-4 Away",79,83,,,Final,CSN,13,30,27,9,,20,26,17,20,,NBA
+10,10,201213029,2000,"Wed, Dec 13",Vancouver Grizzlies,Seattle SuperSonics,"7-15, 4-9 Home","12-12, 6-8 Away",93,94,,,Final,,17,33,24,19,,25,31,23,15,,NBA
+11,11,201217029,2000,"Sun, Dec 17",Vancouver Grizzlies,Orlando Magic,"7-17, 4-10 Home","10-14, 4-8 Away",91,101,,,Final,,28,21,25,17,,24,28,30,19,,NBA
+12,12,201222029,2000,"Fri, Dec 22",Vancouver Grizzlies,Sacramento Kings,"8-18, 5-11 Home","18-7, 7-6 Away",93,95,,,Final,,23,21,29,20,,22,24,22,27,,NBA
+13,13,201226029,2000,"Tue, Dec 26",Vancouver Grizzlies,Phoenix Suns,"8-20, 5-12 Home","17-9, 6-6 Away",95,97,,,Final,,20,15,31,29,,19,30,19,29,,NBA
+14,14,201230029,2000,"Sat, Dec 30",Vancouver Grizzlies,Golden State Warriors,"8-22, 5-13 Home","10-20, 3-11 Away",101,102,,,Final,,21,35,25,20,,35,26,17,24,,NBA
+15,15,210105021,2000,"Fri, Jan 5",Phoenix Suns,Vancouver Grizzlies,"20-11, 14-4 Home","9-23, 3-10 Away",108,76,,,Final,,31,19,33,25,,19,19,18,20,,NBA
+16,16,210109029,2000,"Tue, Jan 9",Vancouver Grizzlies,Denver Nuggets,"10-24, 7-14 Home","20-15, 6-10 Away",105,112,,,Final,,28,23,33,21,,27,26,29,30,,NBA
+17,17,210113029,2000,"Sat, Jan 13",Vancouver Grizzlies,Cleveland Cavaliers,"11-25, 8-14 Home","17-18, 6-13 Away",119,107,,,Final,,30,26,32,31,,29,18,32,28,,NBA
+18,18,210117007,2000,"Wed, Jan 17",Denver Nuggets,Vancouver Grizzlies,"23-16, 17-5 Home","11-27, 3-13 Away",121,97,,,Final,,35,30,24,32,,14,30,27,26,,NBA
+19,19,210121029,2000,"Sun, Jan 21",Vancouver Grizzlies,Minnesota Timberwolves,"11-29, 8-16 Home","24-18, 11-11 Away",94,96,,,Final,,26,23,18,27,,22,25,18,31,,NBA
+20,20,210125006,2000,"Thu, Jan 25",Dallas Mavericks,Vancouver Grizzlies,"28-17, 13-9 Home","11-31, 3-15 Away",120,83,,,Final,,32,39,28,21,,23,20,21,19,,NBA
+21,21,210129029,2000,"Mon, Jan 29",Vancouver Grizzlies,New Jersey Nets,"12-32, 9-16 Home","14-32, 6-18 Away",97,86,,,Final,,14,26,25,32,,35,24,13,14,,NBA
+22,22,210202023,2000,"Fri, Feb 2",Sacramento Kings,Vancouver Grizzlies,"31-12, 20-4 Home","12-34, 3-18 Away",105,95,,,Final,,31,32,23,19,,15,21,28,31,,NBA
+23,23,210205025,2000,"Mon, Feb 5",Seattle SuperSonics,Vancouver Grizzlies,"28-23, 16-8 Home","13-35, 3-19 Away",95,82,,,Final,,26,25,16,28,,25,25,15,17,,NBA
+24,24,210213029,2000,"Tue, Feb 13",Vancouver Grizzlies,Boston Celtics,"14-36, 11-17 Home","22-28, 7-15 Away",99,98,,,Final,,24,21,24,30,,23,30,22,23,,NBA
+25,25,210216009,2000,"Fri, Feb 16",Golden State Warriors,Vancouver Grizzlies,"15-36, 10-16 Home","16-36, 4-19 Away",79,92,,,Final,,26,20,20,13,,27,23,25,17,,NBA
+26,26,210220027,2000,"Tue, Feb 20",Washington Wizards,Vancouver Grizzlies,"13-41, 8-18 Home","18-36, 6-19 Away",104,116,,,Final,,24,26,20,34,,26,33,24,33,,NBA
+27,27,210223015,2000,"Fri, Feb 23",Milwaukee Bucks,Vancouver Grizzlies,"33-20, 21-8 Home","18-38, 6-21 Away",93,81,,,Final,,27,27,19,20,,25,22,22,12,,NBA
+28,28,210227029,2000,"Tue, Feb 27",Vancouver Grizzlies,Dallas Mavericks,"18-40, 12-18 Home","36-22, 18-11 Away",112,116,,,Final,,24,33,26,29,,41,24,22,29,,NBA
+29,29,210303029,2000,"Sat, Mar 3",Vancouver Grizzlies,Los Angeles Lakers,"18-42, 12-19 Home","38-19, 16-13 Away",88,98,,,Final,,21,20,23,24,,21,30,22,25,,NBA
+30,30,210306022,2000,"Tue, Mar 6",Portland Trail Blazers,Vancouver Grizzlies,"42-19, 24-7 Home","19-43, 7-23 Away",97,105,,,Final,,29,21,26,21,,26,20,26,33,,NBA
+31,31,210311029,2000,"Sun, Mar 11",Vancouver Grizzlies,Toronto Raptors,"20-44, 13-21 Home","35-29, 16-17 Away",84,101,,,Final,,28,17,18,21,,28,23,30,20,,NBA
+32,32,210314003,2000,"Wed, Mar 14",Charlotte Hornets,Vancouver Grizzlies,"38-27, 23-10 Home","20-46, 7-25 Away",100,95,,,Final,,25,33,16,26,,28,24,16,27,,NBA
+33,33,210317014,2000,"Sat, Mar 17",Miami Heat,Vancouver Grizzlies,"40-27, 23-9 Home","20-48, 7-27 Away",95,81,,,Final,,29,18,28,20,,16,28,18,19,,NBA
+34,34,210322005,2000,"Thu, Mar 22",Cleveland Cavaliers,Vancouver Grizzlies,"25-43, 17-18 Home","20-50, 7-29 Away",109,95,,,Final,,31,31,23,24,,19,29,24,23,,NBA
+35,35,210325028,2000,"Sun, Mar 25",Toronto Raptors,Vancouver Grizzlies,"38-32, 22-13 Home","20-52, 7-31 Away",102,92,,,Final,,29,21,26,26,,26,26,23,17,,NBA
+36,36,210401029,2000,"Sun, Apr 1",Vancouver Grizzlies,Utah Jazz,"21-53, 14-22 Home","49-24, 23-13 Away",73,92,,,Final,,22,23,16,12,,25,20,28,19,,NBA
+37,37,210406029,2000,"Fri, Apr 6",Vancouver Grizzlies,Sacramento Kings,"22-54, 15-23 Home","51-24, 21-16 Away",90,118,,,Final,,28,21,15,26,,27,34,31,26,,NBA
+38,38,210410029,2000,"Tue, Apr 10",Vancouver Grizzlies,Minnesota Timberwolves,"22-56, 15-24 Home","46-31, 17-20 Away",91,104,,,Final,,20,23,16,32,,32,30,26,16,,NBA
+39,39,210414029,2000,"Sat, Apr 14",Vancouver Grizzlies,Houston Rockets,"22-58, 15-26 Home","44-37, 21-20 Away",95,100,,,Final,,21,30,18,26,,27,10,32,31,,NBA
+40,40,201031029,2000,"Tue, Oct 31",Vancouver Grizzlies,Seattle SuperSonics,"1-0, 1-0 Home","0-1, 0-1 Away",94,88,,,Final,,34,22,9,29,,18,18,28,24,,NBA
+41,41,201104029,2000,"Sat, Nov 4",Vancouver Grizzlies,Los Angeles Lakers,"2-1, 1-1 Home","2-1, 2-0 Away",89,98,,,Final,,18,22,20,29,,23,24,30,21,,NBA
+42,42,201108006,2000,"Wed, Nov 8",Dallas Mavericks,Vancouver Grizzlies,"3-2, 2-2 Home","4-1, 2-0 Away",74,101,,,Final,,23,15,10,26,,29,25,27,20,,NBA
+43,43,201111024,2000,"Sat, Nov 11",San Antonio Spurs,Vancouver Grizzlies,"5-2, 4-0 Home","4-3, 2-2 Away",91,78,,,Final,,19,23,20,29,,16,39,9,14,,NBA
+44,44,201118029,2000,"Sat, Nov 18",Vancouver Grizzlies,Dallas Mavericks,"4-5, 2-3 Home","7-4, 4-2 Away",88,91,,,Final,,25,24,19,20,,23,24,15,29,,NBA
+45,45,201122016,2000,"Wed, Nov 22",Minnesota Timberwolves,Vancouver Grizzlies,"7-4, 4-1 Home","4-7, 2-3 Away",101,100,,,Final,,23,24,32,22,,27,23,22,28,,NBA
+46,46,201126002,2000,"Sun, Nov 26",Boston Celtics,Vancouver Grizzlies,"6-7, 6-3 Home","5-8, 3-4 Away",87,98,,,Final,,27,28,12,20,,16,37,27,18,,NBA
+47,47,201129029,2000,"Wed, Nov 29",Vancouver Grizzlies,Phoenix Suns,"6-9, 3-4 Home","10-4, 2-3 Away",109,106,,,Final/2OT,,19,31,17,20,22.0,29,21,19,18,19.0,NBA
+48,48,201203029,2000,"Sun, Dec 3",Vancouver Grizzlies,San Antonio Spurs,"6-11, 3-6 Home","11-5, 3-5 Away",79,97,,,Final,,14,20,23,22,,21,14,35,27,,NBA
+49,49,201207026,2000,"Thu, Dec 7",Utah Jazz,Vancouver Grizzlies,"15-4, 8-2 Home","7-12, 3-6 Away",98,87,,,Final,,16,28,24,30,,20,21,19,27,,NBA
+50,50,201211029,2000,"Mon, Dec 11",Vancouver Grizzlies,Houston Rockets,"7-14, 4-8 Home","12-9, 5-6 Away",75,82,,,Final,,20,14,18,23,,15,24,15,28,,NBA
+51,51,201215013,2000,"Fri, Dec 15",Los Angeles Lakers,Vancouver Grizzlies,"16-9, 12-3 Home","7-16, 3-7 Away",98,76,,,Final,,22,26,26,24,,16,21,18,21,,NBA
+52,52,201220029,2000,"Wed, Dec 20",Vancouver Grizzlies,Washington Wizards,"8-17, 5-10 Home","5-21, 3-11 Away",118,104,,,Final,,34,30,26,28,,36,21,22,25,,NBA
+53,53,201223012,2000,"Sat, Dec 23",Los Angeles Clippers,Vancouver Grizzlies,"10-18, 7-9 Home","8-19, 3-8 Away",92,90,,,Final,,32,16,17,27,,16,21,32,21,,NBA
+54,54,201229022,2000,"Fri, Dec 29",Portland Trail Blazers,Vancouver Grizzlies,"21-10, 11-3 Home","8-21, 3-9 Away",104,81,,,Final,,21,25,33,25,,21,16,22,22,,NBA
+55,55,210103029,2000,"Wed, Jan 3",Vancouver Grizzlies,Charlotte Hornets,"9-22, 6-13 Home","20-13, 8-10 Away",99,89,,,Final,,28,25,26,20,,17,21,23,28,,NBA
+56,56,210107029,2000,"Sun, Jan 7",Vancouver Grizzlies,Milwaukee Bucks,"10-23, 7-13 Home","18-15, 7-10 Away",120,117,,,Final,,31,31,32,26,,36,27,31,23,,NBA
+57,57,210112025,2000,"Fri, Jan 12",Seattle SuperSonics,Vancouver Grizzlies,"20-18, 11-5 Home","10-25, 3-11 Away",115,102,,,Final,,27,33,27,28,,32,16,32,22,,NBA
+58,58,210115013,2000,"Mon, Jan 15",Los Angeles Lakers,Vancouver Grizzlies,"25-12, 15-5 Home","11-26, 3-12 Away",113,112,,,Final/OT,,31,26,23,20,13.0,21,28,30,21,12.0,NBA
+59,59,210119029,2000,"Fri, Jan 19",Vancouver Grizzlies,Miami Heat,"11-28, 8-15 Home","24-18, 10-12 Away",86,97,,,Final,,12,22,27,25,,22,28,20,27,,NBA
+60,60,210123024,2000,"Tue, Jan 23",San Antonio Spurs,Vancouver Grizzlies,"24-15, 16-4 Home","11-30, 3-14 Away",110,77,,,Final,,28,32,22,28,,22,16,17,22,,NBA
+61,61,210126010,2000,"Fri, Jan 26",Houston Rockets,Vancouver Grizzlies,"21-22, 10-11 Home","11-32, 3-16 Away",106,89,,,Final,,27,32,32,15,,27,22,19,21,,NBA
+62,62,210131021,2000,"Wed, Jan 31",Phoenix Suns,Vancouver Grizzlies,"26-18, 16-7 Home","12-33, 3-17 Away",101,92,,,Final,,30,29,20,22,,23,24,29,16,,NBA
+63,63,210203029,2000,"Sat, Feb 3",Vancouver Grizzlies,Chicago Bulls,"13-34, 10-16 Home","6-40, 2-23 Away",91,84,,,Final,,23,18,26,24,,16,21,25,22,,NBA
+64,64,210207029,2000,"Wed, Feb 7",Vancouver Grizzlies,Utah Jazz,"13-36, 10-17 Home","32-15, 15-7 Away",82,92,,,Final,,21,21,20,20,,27,17,22,26,,NBA
+65,65,210215029,2000,"Thu, Feb 15",Vancouver Grizzlies,Golden State Warriors,"15-36, 12-17 Home","15-35, 5-20 Away",99,89,,,Final,,22,33,18,26,,22,23,20,24,,NBA
+66,66,210218016,2000,"Sun, Feb 18",Minnesota Timberwolves,Vancouver Grizzlies,"32-22, 19-9 Home","17-36, 5-19 Away",102,110,,,Final,,26,26,22,28,,21,29,28,32,,NBA
+67,67,210221020,2000,"Wed, Feb 21",Philadelphia 76ers,Vancouver Grizzlies,"41-14, 19-8 Home","18-37, 6-20 Away",107,91,,,Final,CSN,22,29,29,27,,29,21,24,17,,NBA
+68,68,210224004,2000,"Sat, Feb 24",Chicago Bulls,Vancouver Grizzlies,"9-45, 7-19 Home","18-39, 6-22 Away",90,75,,,Final,,29,24,20,17,,22,16,25,12,,NBA
+69,69,210228026,2000,"Wed, Feb 28",Utah Jazz,Vancouver Grizzlies,"39-17, 21-9 Home","18-41, 6-23 Away",101,83,,,Final,,31,20,27,23,,25,24,17,17,,NBA
+70,70,210305029,2000,"Mon, Mar 5",Vancouver Grizzlies,San Antonio Spurs,"18-43, 12-20 Home","40-19, 16-13 Away",77,91,,,Final,,26,23,18,10,,23,24,20,24,,NBA
+71,71,210309029,2000,"Fri, Mar 9",Vancouver Grizzlies,Portland Trail Blazers,"20-43, 13-20 Home","42-21, 18-13 Away",95,85,,,Final,,22,23,27,23,,28,15,27,15,,NBA
+72,72,210313001,2000,"Tue, Mar 13",Atlanta Hawks,Vancouver Grizzlies,"20-45, 13-19 Home","20-45, 7-24 Away",109,99,,,Final,,23,31,24,31,,14,23,30,32,,NBA
+73,73,210316019,2000,"Fri, Mar 16",Orlando Magic,Vancouver Grizzlies,"36-29, 23-11 Home","20-47, 7-26 Away",103,99,,,Final,,23,28,23,29,,25,32,21,21,,NBA
+74,74,210320017,2000,"Tue, Mar 20",New Jersey Nets,Vancouver Grizzlies,"23-47, 16-18 Home","20-49, 7-28 Away",104,90,,,Final,,21,32,24,27,,16,23,21,30,,NBA
+75,75,210323011,2000,"Fri, Mar 23",Indiana Pacers,Vancouver Grizzlies,"31-37, 21-14 Home","20-51, 7-30 Away",95,75,,,Final,,27,29,27,12,,21,20,11,23,,NBA
+76,76,210329029,2000,"Thu, Mar 29",Vancouver Grizzlies,New York Knicks,"21-52, 14-21 Home","42-29, 17-18 Away",89,68,,,Final,,24,28,26,11,,13,24,13,18,,NBA
+77,77,210404029,2000,"Wed, Apr 4",Vancouver Grizzlies,Los Angeles Clippers,"22-53, 15-22 Home","27-48, 8-30 Away",86,78,,,Final,,19,17,27,23,,20,19,12,27,,NBA
+78,78,210407007,2000,"Sat, Apr 7",Denver Nuggets,Vancouver Grizzlies,"37-40, 27-12 Home","22-55, 7-32 Away",98,97,,,Final,,29,22,21,26,,26,19,23,29,,NBA
+79,79,210412029,2000,"Thu, Apr 12",Vancouver Grizzlies,Portland Trail Blazers,"22-57, 15-25 Home","50-29, 22-18 Away",87,100,,,Final,,21,18,17,31,,19,24,31,26,,NBA
+80,80,210416023,2000,"Mon, Apr 16",Sacramento Kings,Vancouver Grizzlies,"55-26, 33-8 Home","22-59, 7-33 Away",110,100,,,Final,,34,21,31,24,,25,29,25,21,,NBA
+81,81,210418009,2000,"Wed, Apr 18",Golden State Warriors,Vancouver Grizzlies,"17-65, 11-30 Home","23-59, 8-33 Away",81,95,,,Final,,27,20,18,16,,16,29,29,21,,NBA

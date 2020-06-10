@@ -1,21 +1,21 @@
-ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
-240919019,2004,"September 19, 2004",New York Giants,Washington Redskins,"1-1, 1-0 Home","1-1, 0-1 Away",20,14,NULL,NULL,Final,NULL,0,20,0,0,NULL,7,0,0,7,NULL,2,NFL
-241003009,2004,"October 3, 2004",Green Bay Packers,New York Giants,"1-3, 0-2 Home","3-1, 1-1 Away",7,14,NULL,NULL,Final,NULL,0,0,7,0,NULL,0,0,7,7,NULL,4,NFL
-241031016,2004,"October 31, 2004",Minnesota Vikings,New York Giants,"5-2, 3-1 Home","5-2, 3-1 Away",13,34,NULL,NULL,Final,NULL,0,0,0,13,NULL,10,10,7,7,NULL,8,NFL
-241114022,2004,"November 14, 2004",Arizona Cardinals,New York Giants,"4-5, 3-1 Home","5-4, 3-2 Away",17,14,NULL,NULL,Final,NULL,0,10,7,0,NULL,7,7,0,0,NULL,10,NFL
-241128019,2004,"November 28, 2004",New York Giants,Philadelphia Eagles,"5-6, 2-4 Home","10-1, 5-1 Away",6,27,NULL,NULL,Final,NULL,3,3,0,0,NULL,0,7,13,7,NULL,12,NFL
-241212033,2004,"December 12, 2004",Baltimore Ravens,New York Giants,"8-5, 5-2 Home","5-8, 3-4 Away",37,14,NULL,NULL,Final,NULL,10,17,10,0,NULL,0,7,0,7,NULL,14,NFL
-241226004,2004,"December 26, 2004",Cincinnati Bengals,New York Giants,"7-8, 5-3 Home","5-10, 3-5 Away",23,22,NULL,NULL,Final,NULL,7,3,7,6,NULL,0,13,3,6,NULL,16,NFL
-240819029,2004,"August 19, 2004",Carolina Panthers,New York Giants,"2-0, 1-0 Home","1-1, 0-1 Away",27,20,NULL,NULL,Final,NULL,10,7,0,10,NULL,3,3,7,7,NULL,1,NFL
-240912021,2004,"September 12, 2004",Philadelphia Eagles,New York Giants,"1-0, 1-0 Home","0-1, 0-1 Away",31,17,NULL,NULL,Final,NULL,14,10,7,0,NULL,7,3,0,7,NULL,1,NFL
-240926019,2004,"September 26, 2004",New York Giants,Cleveland Browns,"2-1, 2-0 Home","1-2, 0-2 Away",27,10,NULL,NULL,Final,NULL,7,3,7,10,NULL,0,0,0,10,NULL,3,NFL
-241010006,2004,"October 10, 2004",Dallas Cowboys,New York Giants,"2-2, 1-1 Home","4-1, 2-1 Away",10,26,NULL,NULL,Final,NULL,0,10,0,0,NULL,3,3,7,13,NULL,5,NFL
-241024019,2004,"October 24, 2004",New York Giants,Detroit Lions,"4-2, 2-1 Home","4-2, 3-0 Away",13,28,NULL,NULL,Final,NULL,7,3,0,3,NULL,7,0,7,14,NULL,7,NFL
-241107019,2004,"November 7, 2004",New York Giants,Chicago Bears,"5-3, 2-2 Home","3-5, 2-2 Away",21,28,NULL,NULL,Final,NULL,14,0,0,7,NULL,0,20,0,8,NULL,9,NFL
-241121019,2004,"November 21, 2004",New York Giants,Atlanta Falcons,"5-5, 2-3 Home","8-2, 4-1 Away",10,14,NULL,NULL,Final,NULL,0,0,7,3,NULL,7,7,0,0,NULL,11,NFL
-241205028,2004,"December 5, 2004",Washington Redskins,New York Giants,"4-8, 2-4 Home","5-7, 3-3 Away",31,7,NULL,NULL,Final,NULL,7,14,3,7,NULL,0,0,7,0,NULL,13,NFL
-241218019,2004,"December 18, 2004",New York Giants,Pittsburgh Steelers,"5-9, 2-5 Home","13-1, 6-1 Away",30,33,NULL,NULL,Final,NULL,14,0,10,6,NULL,10,10,3,10,NULL,15,NFL
-240813019,2004,"August 13, 2004",New York Giants,Kansas City Chiefs,"1-0, 1-0 Home","0-1, 0-1 Away",34,24,NULL,NULL,Final,NULL,0,17,0,17,NULL,14,10,0,0,NULL,HOF,NFL
-240827020,2004,"August 27, 2004",New York Jets,New York Giants,"2-1, 1-0 Home","1-2, 0-2 Away",17,10,NULL,NULL,Final,NULL,0,17,0,0,NULL,7,0,3,0,NULL,2,NFL
-240902019,2004,"September 2, 2004",New York Giants,Baltimore Ravens,"1-3, 1-1 Home","3-1, 1-1 Away",17,27,NULL,NULL,Final,NULL,3,0,7,7,NULL,14,10,0,3,NULL,3,NFL
-250102019,2004,"January 2, 2005",New York Giants,Dallas Cowboys,"6-10, 3-5 Home","6-10, 2-6 Away",28,24,NULL,NULL,Final,NULL,0,7,0,21,NULL,3,6,7,8,NULL,17,NFL
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
+0,240919019,2004,"September 19, 2004",New York Giants,Washington Redskins,"1-1, 1-0 Home","1-1, 0-1 Away",20,14,,,Final,,0,20,0,0,,7,0,0,7,,2,NFL
+1,241003009,2004,"October 3, 2004",Green Bay Packers,New York Giants,"1-3, 0-2 Home","3-1, 1-1 Away",7,14,,,Final,,0,0,7,0,,0,0,7,7,,4,NFL
+2,241031016,2004,"October 31, 2004",Minnesota Vikings,New York Giants,"5-2, 3-1 Home","5-2, 3-1 Away",13,34,,,Final,,0,0,0,13,,10,10,7,7,,8,NFL
+3,241114022,2004,"November 14, 2004",Arizona Cardinals,New York Giants,"4-5, 3-1 Home","5-4, 3-2 Away",17,14,,,Final,,0,10,7,0,,7,7,0,0,,10,NFL
+4,241128019,2004,"November 28, 2004",New York Giants,Philadelphia Eagles,"5-6, 2-4 Home","10-1, 5-1 Away",6,27,,,Final,,3,3,0,0,,0,7,13,7,,12,NFL
+5,241212033,2004,"December 12, 2004",Baltimore Ravens,New York Giants,"8-5, 5-2 Home","5-8, 3-4 Away",37,14,,,Final,,10,17,10,0,,0,7,0,7,,14,NFL
+6,241226004,2004,"December 26, 2004",Cincinnati Bengals,New York Giants,"7-8, 5-3 Home","5-10, 3-5 Away",23,22,,,Final,,7,3,7,6,,0,13,3,6,,16,NFL
+7,240819029,2004,"August 19, 2004",Carolina Panthers,New York Giants,"2-0, 1-0 Home","1-1, 0-1 Away",27,20,,,Final,,10,7,0,10,,3,3,7,7,,1,NFL
+8,240912021,2004,"September 12, 2004",Philadelphia Eagles,New York Giants,"1-0, 1-0 Home","0-1, 0-1 Away",31,17,,,Final,,14,10,7,0,,7,3,0,7,,1,NFL
+9,240926019,2004,"September 26, 2004",New York Giants,Cleveland Browns,"2-1, 2-0 Home","1-2, 0-2 Away",27,10,,,Final,,7,3,7,10,,0,0,0,10,,3,NFL
+10,241010006,2004,"October 10, 2004",Dallas Cowboys,New York Giants,"2-2, 1-1 Home","4-1, 2-1 Away",10,26,,,Final,,0,10,0,0,,3,3,7,13,,5,NFL
+11,241024019,2004,"October 24, 2004",New York Giants,Detroit Lions,"4-2, 2-1 Home","4-2, 3-0 Away",13,28,,,Final,,7,3,0,3,,7,0,7,14,,7,NFL
+12,241107019,2004,"November 7, 2004",New York Giants,Chicago Bears,"5-3, 2-2 Home","3-5, 2-2 Away",21,28,,,Final,,14,0,0,7,,0,20,0,8,,9,NFL
+13,241121019,2004,"November 21, 2004",New York Giants,Atlanta Falcons,"5-5, 2-3 Home","8-2, 4-1 Away",10,14,,,Final,,0,0,7,3,,7,7,0,0,,11,NFL
+14,241205028,2004,"December 5, 2004",Washington Redskins,New York Giants,"4-8, 2-4 Home","5-7, 3-3 Away",31,7,,,Final,,7,14,3,7,,0,0,7,0,,13,NFL
+15,241218019,2004,"December 18, 2004",New York Giants,Pittsburgh Steelers,"5-9, 2-5 Home","13-1, 6-1 Away",30,33,,,Final,,14,0,10,6,,10,10,3,10,,15,NFL
+16,240813019,2004,"August 13, 2004",New York Giants,Kansas City Chiefs,"1-0, 1-0 Home","0-1, 0-1 Away",34,24,,,Final,,0,17,0,17,,14,10,0,0,,HOF,NFL
+17,240827020,2004,"August 27, 2004",New York Jets,New York Giants,"2-1, 1-0 Home","1-2, 0-2 Away",17,10,,,Final,,0,17,0,0,,7,0,3,0,,2,NFL
+18,240902019,2004,"September 2, 2004",New York Giants,Baltimore Ravens,"1-3, 1-1 Home","3-1, 1-1 Away",17,27,,,Final,,3,0,7,7,,14,10,0,3,,3,NFL
+19,250102019,2004,"January 2, 2005",New York Giants,Dallas Cowboys,"6-10, 3-5 Home","6-10, 2-6 Away",28,24,,,Final,,0,7,0,21,,3,6,7,8,,17,NFL

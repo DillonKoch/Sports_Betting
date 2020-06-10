@@ -1,24 +1,24 @@
-ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
-290110010,2008,"January 10, 2009",Tennessee Titans,Baltimore Ravens,"13-3, 7-1 Home","11-5, 5-3 Away",10,13,NULL,NULL,Final,CBS,7,0,0,3,NULL,7,0,0,6,NULL,DIV,NFL
-280929023,2008,"September 29, 2008",Pittsburgh Steelers,Baltimore Ravens,"3-1, 2-0 Home","2-1, 0-1 Away",23,20,NULL,NULL,Final/OT,ESPN,3,0,14,3,3,3,10,0,7,0,4,NFL
-281012011,2008,"October 12, 2008",Indianapolis Colts,Baltimore Ravens,"3-2, 1-2 Home","2-3, 0-2 Away",31,3,NULL,NULL,Final,CBS,17,7,7,0,NULL,0,0,3,0,NULL,6,NFL
-281026033,2008,"October 26, 2008",Baltimore Ravens,Oakland Raiders,"4-3, 3-1 Home","2-5, 1-3 Away",29,10,NULL,NULL,Final,CBS,2,17,3,7,NULL,0,0,10,0,NULL,8,NFL
-281109034,2008,"November 9, 2008",Houston Texans,Baltimore Ravens,"3-6, 3-2 Home","6-3, 3-2 Away",13,41,NULL,NULL,Final,CBS,0,6,7,0,NULL,7,5,7,22,NULL,10,NFL
-281123033,2008,"November 23, 2008",Baltimore Ravens,Philadelphia Eagles,"7-4, 4-1 Home","5-5-1, 2-3-1 Away",36,7,NULL,NULL,Final,FOX,0,10,2,24,NULL,0,7,0,0,NULL,12,NFL
-281207033,2008,"December 7, 2008",Baltimore Ravens,Washington Redskins,"9-4, 5-1 Home","7-6, 4-2 Away",24,10,NULL,NULL,Final,NBC,14,0,3,7,NULL,0,0,0,10,NULL,14,NFL
-281220006,2008,"December 20, 2008",Dallas Cowboys,Baltimore Ravens,"9-6, 6-2 Home","10-5, 5-3 Away",24,33,NULL,NULL,Final,NFL,7,0,0,17,NULL,3,6,7,17,NULL,16,NFL
-280816033,2008,"August 16, 2008",Baltimore Ravens,Minnesota Vikings,"1-1, 0-1 Home","1-1, 1-0 Away",15,23,NULL,NULL,Final,NULL,7,0,0,8,NULL,7,13,3,0,NULL,2,NFL
-290104015,2008,"January 4, 2009",Miami Dolphins,Baltimore Ravens,"11-5, 5-3 Home","11-5, 5-3 Away",9,27,NULL,NULL,Final,CBS,3,0,0,6,NULL,3,10,7,7,NULL,WC,NFL
-280907033,2008,"September 7, 2008",Baltimore Ravens,Cincinnati Bengals,"1-0, 1-0 Home","0-1, 0-1 Away",17,10,NULL,NULL,Final,CBS,7,3,7,0,NULL,0,3,0,7,NULL,1,NFL
-280921033,2008,"September 21, 2008",Baltimore Ravens,Cleveland Browns,"2-0, 2-0 Home","0-3, 0-1 Away",28,10,NULL,NULL,Final,CBS,0,7,21,0,NULL,0,10,0,0,NULL,3,NFL
-281005033,2008,"October 5, 2008",Baltimore Ravens,Tennessee Titans,"2-2, 2-1 Home","5-0, 2-0 Away",10,13,NULL,NULL,Final,CBS,3,0,7,0,NULL,0,3,0,10,NULL,5,NFL
-281019015,2008,"October 19, 2008",Miami Dolphins,Baltimore Ravens,"2-4, 1-2 Home","3-3, 1-2 Away",13,27,NULL,NULL,Final,CBS,3,3,7,0,NULL,3,14,3,7,NULL,7,NFL
-281102005,2008,"November 2, 2008",Cleveland Browns,Baltimore Ravens,"3-5, 1-3 Home","5-3, 2-2 Away",27,37,NULL,NULL,Final,CBS,7,6,14,0,NULL,10,3,7,17,NULL,9,NFL
-281116019,2008,"November 16, 2008",New York Giants,Baltimore Ravens,"9-1, 6-0 Home","6-4, 3-3 Away",30,10,NULL,NULL,Final,CBS,13,7,7,3,NULL,0,3,7,0,NULL,11,NFL
-281130004,2008,"November 30, 2008",Cincinnati Bengals,Baltimore Ravens,"1-10-1, 1-4-1 Home","8-4, 4-3 Away",3,34,NULL,NULL,Final,CBS,0,3,0,0,NULL,3,10,14,7,NULL,13,NFL
-281214033,2008,"December 14, 2008",Baltimore Ravens,Pittsburgh Steelers,"9-5, 5-2 Home","11-3, 6-1 Away",9,13,NULL,NULL,Final,CBS,0,6,3,0,NULL,0,3,0,10,NULL,15,NFL
-280807017,2008,"August 7, 2008",New England Patriots,Baltimore Ravens,"0-1, 0-1 Home","1-0, 1-0 Away",15,16,NULL,NULL,Final,NULL,0,3,3,9,NULL,3,10,3,0,NULL,1,NFL
-280823014,2008,"August 23, 2008",St. Louis Rams,Baltimore Ravens,"2-1, 2-0 Home","1-2, 1-1 Away",24,10,NULL,NULL,Final,NULL,3,14,7,0,NULL,3,0,7,0,NULL,3,NFL
-280828033,2008,"August 28, 2008",Baltimore Ravens,Atlanta Falcons,"1-3, 0-2 Home","2-2, 1-1 Away",9,10,NULL,NULL,Final,NULL,0,6,3,0,NULL,0,7,3,0,NULL,4,NFL
-290118023,2008,"January 18, 2009",Pittsburgh Steelers,Baltimore Ravens,"12-4, 6-2 Home","11-5, 5-3 Away",23,14,NULL,NULL,Final,CBS,6,7,3,7,NULL,0,7,0,7,NULL,CONF,NFL
-281228033,2008,"December 28, 2008",Baltimore Ravens,Jacksonville Jaguars,"11-5, 6-2 Home","5-11, 3-5 Away",27,7,NULL,NULL,Final,CBS,3,21,3,0,NULL,7,0,0,0,NULL,17,NFL
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
+0,290110010,2008,"January 10, 2009",Tennessee Titans,Baltimore Ravens,"13-3, 7-1 Home","11-5, 5-3 Away",10,13,,,Final,CBS,7,0,0,3,,7,0,0,6,,DIV,NFL
+1,280929023,2008,"September 29, 2008",Pittsburgh Steelers,Baltimore Ravens,"3-1, 2-0 Home","2-1, 0-1 Away",23,20,,,Final/OT,ESPN,3,0,14,3,3.0,3,10,0,7,0.0,4,NFL
+2,281012011,2008,"October 12, 2008",Indianapolis Colts,Baltimore Ravens,"3-2, 1-2 Home","2-3, 0-2 Away",31,3,,,Final,CBS,17,7,7,0,,0,0,3,0,,6,NFL
+3,281026033,2008,"October 26, 2008",Baltimore Ravens,Oakland Raiders,"4-3, 3-1 Home","2-5, 1-3 Away",29,10,,,Final,CBS,2,17,3,7,,0,0,10,0,,8,NFL
+4,281109034,2008,"November 9, 2008",Houston Texans,Baltimore Ravens,"3-6, 3-2 Home","6-3, 3-2 Away",13,41,,,Final,CBS,0,6,7,0,,7,5,7,22,,10,NFL
+5,281123033,2008,"November 23, 2008",Baltimore Ravens,Philadelphia Eagles,"7-4, 4-1 Home","5-5-1, 2-3-1 Away",36,7,,,Final,FOX,0,10,2,24,,0,7,0,0,,12,NFL
+6,281207033,2008,"December 7, 2008",Baltimore Ravens,Washington Redskins,"9-4, 5-1 Home","7-6, 4-2 Away",24,10,,,Final,NBC,14,0,3,7,,0,0,0,10,,14,NFL
+7,281220006,2008,"December 20, 2008",Dallas Cowboys,Baltimore Ravens,"9-6, 6-2 Home","10-5, 5-3 Away",24,33,,,Final,NFL,7,0,0,17,,3,6,7,17,,16,NFL
+8,280816033,2008,"August 16, 2008",Baltimore Ravens,Minnesota Vikings,"1-1, 0-1 Home","1-1, 1-0 Away",15,23,,,Final,,7,0,0,8,,7,13,3,0,,2,NFL
+9,290104015,2008,"January 4, 2009",Miami Dolphins,Baltimore Ravens,"11-5, 5-3 Home","11-5, 5-3 Away",9,27,,,Final,CBS,3,0,0,6,,3,10,7,7,,WC,NFL
+10,280907033,2008,"September 7, 2008",Baltimore Ravens,Cincinnati Bengals,"1-0, 1-0 Home","0-1, 0-1 Away",17,10,,,Final,CBS,7,3,7,0,,0,3,0,7,,1,NFL
+11,280921033,2008,"September 21, 2008",Baltimore Ravens,Cleveland Browns,"2-0, 2-0 Home","0-3, 0-1 Away",28,10,,,Final,CBS,0,7,21,0,,0,10,0,0,,3,NFL
+12,281005033,2008,"October 5, 2008",Baltimore Ravens,Tennessee Titans,"2-2, 2-1 Home","5-0, 2-0 Away",10,13,,,Final,CBS,3,0,7,0,,0,3,0,10,,5,NFL
+13,281019015,2008,"October 19, 2008",Miami Dolphins,Baltimore Ravens,"2-4, 1-2 Home","3-3, 1-2 Away",13,27,,,Final,CBS,3,3,7,0,,3,14,3,7,,7,NFL
+14,281102005,2008,"November 2, 2008",Cleveland Browns,Baltimore Ravens,"3-5, 1-3 Home","5-3, 2-2 Away",27,37,,,Final,CBS,7,6,14,0,,10,3,7,17,,9,NFL
+15,281116019,2008,"November 16, 2008",New York Giants,Baltimore Ravens,"9-1, 6-0 Home","6-4, 3-3 Away",30,10,,,Final,CBS,13,7,7,3,,0,3,7,0,,11,NFL
+16,281130004,2008,"November 30, 2008",Cincinnati Bengals,Baltimore Ravens,"1-10-1, 1-4-1 Home","8-4, 4-3 Away",3,34,,,Final,CBS,0,3,0,0,,3,10,14,7,,13,NFL
+17,281214033,2008,"December 14, 2008",Baltimore Ravens,Pittsburgh Steelers,"9-5, 5-2 Home","11-3, 6-1 Away",9,13,,,Final,CBS,0,6,3,0,,0,3,0,10,,15,NFL
+18,280807017,2008,"August 7, 2008",New England Patriots,Baltimore Ravens,"0-1, 0-1 Home","1-0, 1-0 Away",15,16,,,Final,,0,3,3,9,,3,10,3,0,,1,NFL
+19,280823014,2008,"August 23, 2008",St. Louis Rams,Baltimore Ravens,"2-1, 2-0 Home","1-2, 1-1 Away",24,10,,,Final,,3,14,7,0,,3,0,7,0,,3,NFL
+20,280828033,2008,"August 28, 2008",Baltimore Ravens,Atlanta Falcons,"1-3, 0-2 Home","2-2, 1-1 Away",9,10,,,Final,,0,6,3,0,,0,7,3,0,,4,NFL
+21,290118023,2008,"January 18, 2009",Pittsburgh Steelers,Baltimore Ravens,"12-4, 6-2 Home","11-5, 5-3 Away",23,14,,,Final,CBS,6,7,3,7,,0,7,0,7,,CONF,NFL
+22,281228033,2008,"December 28, 2008",Baltimore Ravens,Jacksonville Jaguars,"11-5, 6-2 Home","5-11, 3-5 Away",27,7,,,Final,CBS,3,21,3,0,,7,0,0,0,,17,NFL

@@ -1,22 +1,22 @@
-ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
-400951674,2017,"September 17, 2017",Los Angeles Rams,Washington Redskins,"1-1, 1-1 Home","1-1, 1-0 Away",20,27,NULL,NULL,Final,FOX,0,10,7,3,NULL,3,17,0,7,NULL,2,NFL
-400951716,2017,"October 1, 2017",Dallas Cowboys,Los Angeles Rams,"2-2, 1-1 Home","3-1, 2-0 Away",30,35,NULL,NULL,Final,FOX,3,21,0,6,NULL,3,13,10,9,NULL,4,NFL
-400951773,2017,"October 15, 2017",Jacksonville Jaguars,Los Angeles Rams,"3-3, 1-2 Home","4-2, 3-0 Away",17,27,NULL,NULL,Final,FOX,14,0,3,0,NULL,17,7,0,3,NULL,6,NFL
-400951663,2017,"November 12, 2017",Los Angeles Rams,Houston Texans,"7-2, 3-2 Home","3-6, 1-3 Away",33,7,NULL,NULL,Final,CBS,3,6,21,3,NULL,0,7,0,0,NULL,10,NFL
-400951614,2017,"November 26, 2017",Los Angeles Rams,New Orleans Saints,"8-3, 4-2 Home","8-3, 4-2 Away",26,20,NULL,NULL,Final,CBS,10,7,3,6,NULL,7,3,0,10,NULL,12,NFL
-400951689,2017,"December 10, 2017",Los Angeles Rams,Philadelphia Eagles,"9-4, 4-3 Home","11-2, 5-2 Away",35,43,NULL,NULL,Final,FOX,7,7,14,7,NULL,14,10,7,12,NULL,14,NFL
-400951667,2017,"December 24, 2017",Tennessee Titans,Los Angeles Rams,"8-7, 5-2 Home","11-4, 7-1 Away",23,27,NULL,NULL,Final,FOX,3,10,7,3,NULL,6,7,7,7,NULL,16,NFL
-400953265,2017,"August 19, 2017",Oakland Raiders,Los Angeles Rams,"0-2, 0-1 Home","2-0, 1-0 Away",21,24,NULL,NULL,Final,NULL,7,7,0,7,NULL,14,3,0,7,NULL,2,NFL
-400951597,2017,"September 10, 2017",Los Angeles Rams,Indianapolis Colts,"1-0, 1-0 Home","0-1, 0-1 Away",46,9,NULL,NULL,Final,CBS,10,17,10,9,NULL,3,0,0,6,NULL,1,NFL
-400951568,2017,"September 21, 2017",San Francisco 49ers,Los Angeles Rams,"0-3, 0-2 Home","2-1, 1-0 Away",39,41,NULL,NULL,Final,NFL,7,6,7,19,NULL,14,10,10,7,NULL,3,NFL
-400951657,2017,"October 8, 2017",Los Angeles Rams,Seattle Seahawks,"3-2, 1-2 Home","3-2, 1-2 Away",10,16,NULL,NULL,Final,CBS,0,10,0,0,NULL,0,10,3,3,NULL,5,NFL
-400951593,2017,"October 22, 2017",Los Angeles Rams,Arizona Cardinals,5-2,3-4,33,0,NULL,NULL,Final,FOX,3,20,3,7,NULL,0,0,0,0,NULL,7,NFL
-400951758,2017,"November 5, 2017",New York Giants,Los Angeles Rams,"1-7, 0-4 Home","6-2, 4-0 Away",17,51,NULL,NULL,Final,FOX,7,3,0,7,NULL,7,20,21,3,NULL,9,NFL
-400951775,2017,"November 19, 2017",Minnesota Vikings,Los Angeles Rams,"8-2, 5-1 Home","7-3, 4-1 Away",24,7,NULL,NULL,Final,FOX,0,7,0,17,NULL,7,0,0,0,NULL,11,NFL
-400951733,2017,"December 3, 2017",Arizona Cardinals,Los Angeles Rams,"5-7, 3-3 Home","9-3, 5-1 Away",16,32,NULL,NULL,Final,FOX,0,13,0,3,NULL,16,3,7,6,NULL,13,NFL
-400951811,2017,"December 17, 2017",Seattle Seahawks,Los Angeles Rams,"8-6, 4-3 Home","10-4, 6-1 Away",7,42,NULL,NULL,Final,FOX,0,0,7,0,NULL,13,21,6,2,NULL,15,NFL
-400951838,2017,"August 12, 2017",Los Angeles Rams,Dallas Cowboys,"1-0, 1-0 Home","1-1, 0-1 Away",13,10,NULL,NULL,Final,NFL,7,0,3,3,NULL,0,3,7,0,NULL,1,NFL
-400950232,2017,"August 26, 2017",Los Angeles Rams,Los Angeles Chargers,"2-1, 1-1 Home","1-2, 1-0 Away",19,21,NULL,NULL,Final,CBS,0,9,7,3,NULL,21,0,0,0,NULL,3,NFL
-400950239,2017,"August 31, 2017",Green Bay Packers,Los Angeles Rams,"3-1, 2-0 Home","2-2, 1-1 Away",24,10,NULL,NULL,Final,NFL,7,7,3,7,NULL,0,3,0,7,NULL,4,NFL
-400999171,2017,"January 6, 2018",Los Angeles Rams,Atlanta Falcons,"11-5, 4-4 Home","10-6, 5-3 Away",13,26,NULL,NULL,Final,NBC,0,10,0,3,NULL,6,7,6,7,NULL,WC,NFL
-400951792,2017,"December 31, 2017",Los Angeles Rams,San Francisco 49ers,"11-5, 4-4 Home","6-10, 3-5 Away",13,34,NULL,NULL,Final,FOX,3,3,0,7,NULL,10,10,7,7,NULL,17,NFL
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
+0,400951674,2017,"September 17, 2017",Los Angeles Rams,Washington Redskins,"1-1, 1-1 Home","1-1, 1-0 Away",20,27,,,Final,FOX,0,10,7,3,,3,17,0,7,,2,NFL
+1,400951716,2017,"October 1, 2017",Dallas Cowboys,Los Angeles Rams,"2-2, 1-1 Home","3-1, 2-0 Away",30,35,,,Final,FOX,3,21,0,6,,3,13,10,9,,4,NFL
+2,400951773,2017,"October 15, 2017",Jacksonville Jaguars,Los Angeles Rams,"3-3, 1-2 Home","4-2, 3-0 Away",17,27,,,Final,FOX,14,0,3,0,,17,7,0,3,,6,NFL
+3,400951663,2017,"November 12, 2017",Los Angeles Rams,Houston Texans,"7-2, 3-2 Home","3-6, 1-3 Away",33,7,,,Final,CBS,3,6,21,3,,0,7,0,0,,10,NFL
+4,400951614,2017,"November 26, 2017",Los Angeles Rams,New Orleans Saints,"8-3, 4-2 Home","8-3, 4-2 Away",26,20,,,Final,CBS,10,7,3,6,,7,3,0,10,,12,NFL
+5,400951689,2017,"December 10, 2017",Los Angeles Rams,Philadelphia Eagles,"9-4, 4-3 Home","11-2, 5-2 Away",35,43,,,Final,FOX,7,7,14,7,,14,10,7,12,,14,NFL
+6,400951667,2017,"December 24, 2017",Tennessee Titans,Los Angeles Rams,"8-7, 5-2 Home","11-4, 7-1 Away",23,27,,,Final,FOX,3,10,7,3,,6,7,7,7,,16,NFL
+7,400953265,2017,"August 19, 2017",Oakland Raiders,Los Angeles Rams,"0-2, 0-1 Home","2-0, 1-0 Away",21,24,,,Final,,7,7,0,7,,14,3,0,7,,2,NFL
+8,400951597,2017,"September 10, 2017",Los Angeles Rams,Indianapolis Colts,"1-0, 1-0 Home","0-1, 0-1 Away",46,9,,,Final,CBS,10,17,10,9,,3,0,0,6,,1,NFL
+9,400951568,2017,"September 21, 2017",San Francisco 49ers,Los Angeles Rams,"0-3, 0-2 Home","2-1, 1-0 Away",39,41,,,Final,NFL,7,6,7,19,,14,10,10,7,,3,NFL
+10,400951657,2017,"October 8, 2017",Los Angeles Rams,Seattle Seahawks,"3-2, 1-2 Home","3-2, 1-2 Away",10,16,,,Final,CBS,0,10,0,0,,0,10,3,3,,5,NFL
+11,400951593,2017,"October 22, 2017",Los Angeles Rams,Arizona Cardinals,5-2,3-4,33,0,,,Final,FOX,3,20,3,7,,0,0,0,0,,7,NFL
+12,400951758,2017,"November 5, 2017",New York Giants,Los Angeles Rams,"1-7, 0-4 Home","6-2, 4-0 Away",17,51,,,Final,FOX,7,3,0,7,,7,20,21,3,,9,NFL
+13,400951775,2017,"November 19, 2017",Minnesota Vikings,Los Angeles Rams,"8-2, 5-1 Home","7-3, 4-1 Away",24,7,,,Final,FOX,0,7,0,17,,7,0,0,0,,11,NFL
+14,400951733,2017,"December 3, 2017",Arizona Cardinals,Los Angeles Rams,"5-7, 3-3 Home","9-3, 5-1 Away",16,32,,,Final,FOX,0,13,0,3,,16,3,7,6,,13,NFL
+15,400951811,2017,"December 17, 2017",Seattle Seahawks,Los Angeles Rams,"8-6, 4-3 Home","10-4, 6-1 Away",7,42,,,Final,FOX,0,0,7,0,,13,21,6,2,,15,NFL
+16,400951838,2017,"August 12, 2017",Los Angeles Rams,Dallas Cowboys,"1-0, 1-0 Home","1-1, 0-1 Away",13,10,,,Final,NFL,7,0,3,3,,0,3,7,0,,1,NFL
+17,400950232,2017,"August 26, 2017",Los Angeles Rams,Los Angeles Chargers,"2-1, 1-1 Home","1-2, 1-0 Away",19,21,,,Final,CBS,0,9,7,3,,21,0,0,0,,3,NFL
+18,400950239,2017,"August 31, 2017",Green Bay Packers,Los Angeles Rams,"3-1, 2-0 Home","2-2, 1-1 Away",24,10,,,Final,NFL,7,7,3,7,,0,3,0,7,,4,NFL
+19,400999171,2017,"January 6, 2018",Los Angeles Rams,Atlanta Falcons,"11-5, 4-4 Home","10-6, 5-3 Away",13,26,,,Final,NBC,0,10,0,3,,6,7,6,7,,WC,NFL
+20,400951792,2017,"December 31, 2017",Los Angeles Rams,San Francisco 49ers,"11-5, 4-4 Home","6-10, 3-5 Away",13,34,,,Final,FOX,3,3,0,7,,10,10,7,7,,17,NFL

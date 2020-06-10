@@ -1,0 +1,83 @@
+,Unnamed: 0,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,0,271104018,2007,"Sun, Nov 4",New York Knicks,Minnesota Timberwolves,"1-1, 1-0 Home","0-2, 0-1 Away",97,93,,,Final,,21,33,21,22,,28,22,23,20,,NBA
+1,1,271109018,2007,"Fri, Nov 9",New York Knicks,Orlando Magic,"2-2, 2-1 Home","5-1, 4-0 Away",102,112,,,Final,,28,21,24,29,,28,20,29,35,,NBA
+2,2,271113021,2007,"Tue, Nov 13",Phoenix Suns,New York Knicks,"6-2, 2-1 Home","2-4, 0-2 Away",113,102,,,Final,,34,29,24,26,,29,22,21,30,,NBA
+3,3,271116023,2007,"Fri, Nov 16",Sacramento Kings,New York Knicks,"3-6, 3-1 Home","2-6, 0-4 Away",123,118,,,Final/2OT,,28,29,25,15,26.0,31,16,26,24,21.0,NBA
+4,4,271120018,2007,"Tue, Nov 20",New York Knicks,Golden State Warriors,"2-8, 2-3 Home","3-6, 2-2 Away",82,108,,,Final,,24,23,15,20,,31,29,17,31,,NBA
+5,5,271124018,2007,"Sat, Nov 24",New York Knicks,Chicago Bulls,"3-9, 3-3 Home","2-9, 1-6 Away",85,78,,,Final,,18,25,24,18,,19,12,26,21,,NBA
+6,6,271129002,2007,"Thu, Nov 29",Boston Celtics,New York Knicks,"12-2, 8-0 Home","4-10, 0-7 Away",104,59,,,Final,TNT,27,27,28,22,,16,15,10,18,,NBA
+7,7,271202018,2007,"Sun, Dec 2",New York Knicks,Phoenix Suns,"5-11, 5-4 Home","13-4, 7-2 Away",104,115,,,Final,,29,28,27,20,,37,24,24,30,,NBA
+8,8,271207020,2007,"Fri, Dec 7",Philadelphia 76ers,New York Knicks,"6-13, 4-7 Home","6-12, 1-8 Away",101,90,,,Final,,26,27,19,29,,27,22,18,23,,NBA
+9,9,271210018,2007,"Mon, Dec 10",New York Knicks,Dallas Mavericks,"6-14, 5-6 Home","14-8, 5-6 Away",89,99,,,Final,,19,17,27,26,,28,21,30,20,,NBA
+10,10,271214004,2007,"Fri, Dec 14",Chicago Bulls,New York Knicks,"8-13, 5-5 Home","6-16, 1-9 Away",101,96,,,Final,,23,25,25,28,,19,26,19,32,,NBA
+11,11,271217018,2007,"Mon, Dec 17",New York Knicks,Indiana Pacers,"7-17, 6-8 Home","13-12, 8-5 Away",92,119,,,Final,,27,19,26,20,,26,27,31,35,,NBA
+12,12,271221030,2007,"Fri, Dec 21",Charlotte Bobcats,New York Knicks,"10-14, 9-6 Home","8-18, 1-10 Away",105,95,,,Final,,34,33,18,20,,24,20,22,29,,NBA
+13,13,271226019,2007,"Wed, Dec 26",Orlando Magic,New York Knicks,"19-11, 6-6 Home","8-20, 1-11 Away",110,96,,,Final,,26,24,29,31,,31,20,25,20,,NBA
+14,14,280102018,2007,"Wed, Jan 2",New York Knicks,Sacramento Kings,"8-22, 7-11 Home","12-18, 4-10 Away",97,107,,,Final,,23,17,30,27,,28,26,35,18,,NBA
+15,15,280105010,2007,"Sat, Jan 5",Houston Rockets,New York Knicks,"17-17, 8-6 Home","8-24, 1-13 Away",103,91,,,Final,,27,28,24,24,,13,29,27,22,,NBA
+16,16,280109018,2007,"Wed, Jan 9",New York Knicks,Houston Rockets,"9-25, 7-12 Home","19-17, 11-11 Away",92,101,,,Final,,19,34,21,18,,25,25,25,26,,NBA
+17,17,280113018,2007,"Sun, Jan 13",New York Knicks,Detroit Pistons,"10-26, 8-13 Home","28-10, 15-7 Away",89,65,,,Final,NBATV,18,25,28,18,,18,14,10,23,,NBA
+18,18,280116017,2007,"Wed, Jan 16",New Jersey Nets,New York Knicks,"18-20, 9-14 Home","12-26, 3-13 Away",105,111,,,Final,YES,33,22,23,27,,18,34,34,25,,NBA
+19,19,280119014,2007,"Sat, Jan 19",Miami Heat,New York Knicks,"8-32, 4-14 Home","13-27, 4-14 Away",84,88,,,Final,,30,18,21,15,,21,22,22,23,,NBA
+20,20,280125018,2007,"Fri, Jan 25",New York Knicks,Philadelphia 76ers,"14-28, 10-14 Home","16-28, 8-15 Away",89,81,,,Final,CSN,28,22,22,17,,23,23,20,15,,NBA
+21,21,280129013,2007,"Tue, Jan 29",Los Angeles Lakers,New York Knicks,"28-15, 17-7 Home","14-30, 4-16 Away",120,109,,,Final,,28,30,27,35,,29,32,26,22,,NBA
+22,22,280201022,2007,"Fri, Feb 1",Portland Trail Blazers,New York Knicks,"27-19, 19-5 Home","14-32, 4-18 Away",94,88,,,Final/OT,ESPN,24,14,25,18,13.0,28,21,20,12,7.0,NBA
+23,23,280204018,2007,"Mon, Feb 4",New York Knicks,LA Clippers,"14-34, 10-15 Home","15-30, 6-15 Away",94,103,,,Final,,30,30,14,20,,31,20,28,24,,NBA
+24,24,280208018,2007,"Fri, Feb 8",New York Knicks,San Antonio Spurs,"14-36, 10-17 Home","32-16, 12-11 Away",93,99,,,Final/OT,,17,31,14,26,5.0,18,14,27,29,11.0,NBA
+25,25,280213002,2007,"Wed, Feb 13",Boston Celtics,New York Knicks,"41-9, 23-4 Home","15-37, 5-20 Away",111,103,,,Final,,21,32,32,26,,24,16,32,31,,NBA
+26,26,280220020,2007,"Wed, Feb 20",Philadelphia 76ers,New York Knicks,"24-31, 15-14 Home","16-38, 6-21 Away",124,84,,,Final,,37,35,30,22,,17,19,21,27,,NBA
+27,27,280224028,2007,"Sun, Feb 24",Toronto Raptors,New York Knicks,"30-24, 17-11 Home","17-39, 6-22 Away",115,92,,,Final,TSNT,27,27,30,31,,23,29,15,25,,NBA
+28,28,280229001,2007,"Fri, Feb 29",Atlanta Hawks,New York Knicks,"25-32, 18-11 Home","18-40, 6-23 Away",99,93,,,Final,,26,22,33,18,,22,28,28,15,,NBA
+29,29,280303018,2007,"Mon, Mar 3",New York Knicks,New Orleans Hornets,"18-42, 12-18 Home","40-19, 20-9 Away",88,100,,,Final,,31,18,24,15,,27,22,26,25,,NBA
+30,30,280307018,2007,"Fri, Mar 7",New York Knicks,Detroit Pistons,"18-44, 12-20 Home","45-17, 22-12 Away",97,101,,,Final,,25,28,17,27,,28,25,23,25,,NBA
+31,31,280310006,2007,"Mon, Mar 10",Dallas Mavericks,New York Knicks,"41-23, 27-4 Home","18-46, 6-25 Away",108,79,,,Final,,32,22,26,28,,15,16,27,21,,NBA
+32,32,280316018,2007,"Sun, Mar 16",New York Knicks,Atlanta Hawks,"19-47, 12-22 Home","28-38, 8-25 Away",98,109,,,Final,,20,29,30,19,,21,32,32,24,,NBA
+33,33,280321018,2007,"Fri, Mar 21",New York Knicks,Memphis Grizzlies,"19-49, 12-23 Home","17-51, 5-29 Away",106,120,,,Final,,28,22,40,16,,35,34,23,28,,NBA
+34,34,280324018,2007,"Mon, Mar 24",New York Knicks,New Jersey Nets,"19-51, 12-24 Home","30-41, 12-23 Away",91,106,,,Final,,22,23,18,28,,30,26,26,24,,NBA
+35,35,280328028,2007,"Fri, Mar 28",Toronto Raptors,New York Knicks,"37-35, 22-14 Home","20-52, 7-28 Away",103,95,,,Final,,32,17,27,27,,23,21,24,27,,NBA
+36,36,280401015,2007,"Tue, Apr 1",Milwaukee Bucks,New York Knicks,"25-48, 19-18 Home","20-54, 7-30 Away",119,115,,,Final/OT,,27,32,18,32,10.0,31,30,27,21,6.0,NBA
+37,37,280404003,2007,"Fri, Apr 4",New Orleans Hornets,New York Knicks,"53-22, 28-10 Home","20-56, 7-32 Away",118,110,,,Final,,29,31,27,31,,29,27,31,23,,NBA
+38,38,280408008,2007,"Tue, Apr 8",Detroit Pistons,New York Knicks,"55-22, 31-7 Home","22-56, 8-32 Away",94,98,,,Final,,16,18,26,34,,28,29,22,19,,NBA
+39,39,280411018,2007,"Fri, Apr 11",New York Knicks,Atlanta Hawks,"23-57, 15-25 Home","37-42, 12-28 Away",104,116,,,Final,,23,20,28,33,,34,28,23,31,,NBA
+40,40,271102005,2007,"Fri, Nov 2",Cleveland Cavaliers,New York Knicks,"1-1, 1-1 Home","0-1, 0-1 Away",110,106,,,Final,,32,23,20,35,,34,20,26,26,,NBA
+41,41,271106018,2007,"Tue, Nov 6",New York Knicks,Denver Nuggets,"2-1, 2-0 Home","2-2, 1-1 Away",119,112,,,Final,NBATV,32,28,22,37,,37,29,26,20,,NBA
+42,42,271111018,2007,"Sun, Nov 11",New York Knicks,Miami Heat,"2-3, 2-2 Home","1-5, 1-2 Away",72,75,,,Final,,20,19,19,14,,25,12,15,23,,NBA
+43,43,271114012,2007,"Wed, Nov 14",LA Clippers,New York Knicks,"5-2, 3-1 Home","2-5, 0-3 Away",84,81,,,Final,,18,23,22,21,,17,27,9,28,,NBA
+44,44,271117007,2007,"Sat, Nov 17",Denver Nuggets,New York Knicks,"7-3, 4-1 Home","2-7, 0-5 Away",115,83,,,Final,,30,28,26,31,,22,18,16,27,,NBA
+45,45,271121008,2007,"Wed, Nov 21",Detroit Pistons,New York Knicks,"7-4, 3-0 Home","2-9, 0-6 Away",98,86,,,Final,,36,19,23,20,,23,22,16,25,,NBA
+46,46,271126018,2007,"Mon, Nov 26",New York Knicks,Utah Jazz,"4-9, 4-3 Home","10-5, 4-4 Away",113,109,,,Final,,31,27,31,24,,27,25,28,29,,NBA
+47,47,271130018,2007,"Fri, Nov 30",New York Knicks,Milwaukee Bucks,"5-10, 5-3 Home","7-7, 1-6 Away",91,88,,,Final,,19,25,21,26,,29,26,22,11,,NBA
+48,48,271205017,2007,"Wed, Dec 5",New Jersey Nets,New York Knicks,"9-10, 4-7 Home","6-11, 1-7 Away",93,100,,,Final,YES,18,24,24,27,,26,25,23,26,,NBA
+49,49,271208018,2007,"Sat, Dec 8",New York Knicks,Philadelphia 76ers,"6-13, 5-5 Home","7-13, 3-6 Away",77,105,,,Final,CSN,19,18,20,20,,24,25,26,30,,NBA
+50,50,271212018,2007,"Wed, Dec 12",New York Knicks,Seattle SuperSonics,"6-15, 5-7 Home","6-17, 3-9 Away",110,117,,,Final,,31,25,23,31,,27,26,30,34,,NBA
+51,51,271215018,2007,"Sat, Dec 15",New York Knicks,New Jersey Nets,"7-16, 6-7 Home","10-14, 5-5 Away",94,86,,,Final,NBATV,18,22,30,24,,24,14,24,24,,NBA
+52,52,271219018,2007,"Wed, Dec 19",New York Knicks,Cleveland Cavaliers,"8-17, 7-8 Home","11-15, 5-10 Away",108,90,,,Final,,31,32,24,21,,30,20,20,20,,NBA
+53,53,271223018,2007,"Sun, Dec 23",New York Knicks,Los Angeles Lakers,"8-19, 7-9 Home","17-10, 8-6 Away",90,95,,,Final,NBATV,21,16,24,29,,31,24,20,20,,NBA
+54,54,271230018,2007,"Sun, Dec 30",New York Knicks,Chicago Bulls,"8-21, 7-10 Home","11-17, 5-10 Away",83,100,,,Final,,22,21,14,26,,30,20,23,27,,NBA
+55,55,280104024,2007,"Fri, Jan 4",San Antonio Spurs,New York Knicks,"22-9, 17-2 Home","8-23, 1-12 Away",97,93,,,Final,,27,24,25,21,,24,20,27,22,,NBA
+56,56,280108004,2007,"Tue, Jan 8",Chicago Bulls,New York Knicks,"13-20, 7-10 Home","9-24, 2-13 Away",100,105,,,Final,,27,25,36,12,,24,29,25,27,,NBA
+57,57,280111018,2007,"Fri, Jan 11",New York Knicks,Toronto Raptors,"9-26, 7-13 Home","19-17, 10-9 Away",90,99,,,Final,TSNT,17,29,18,26,,27,28,26,18,,NBA
+58,58,280115018,2007,"Tue, Jan 15",New York Knicks,Washington Wizards,"11-26, 9-13 Home","20-17, 9-9 Away",105,93,,,Final,,30,21,26,28,,14,27,31,21,,NBA
+59,59,280118027,2007,"Fri, Jan 18",Washington Wizards,New York Knicks,"21-17, 12-8 Home","12-27, 3-14 Away",111,98,,,Final,,28,33,31,19,,32,25,23,18,,NBA
+60,60,280121018,2007,"Mon, Jan 21",New York Knicks,Boston Celtics,"13-28, 9-14 Home","33-6, 15-3 Away",93,109,,,Final,NBATV/NBC,23,22,25,23,,29,30,23,27,,NBA
+61,61,280127009,2007,"Sun, Jan 27",Golden State Warriors,New York Knicks,"27-18, 13-8 Home","14-29, 4-15 Away",106,104,,,Final,TNT,29,18,29,30,,20,32,27,25,,NBA
+62,62,280130026,2007,"Wed, Jan 30",Utah Jazz,New York Knicks,"28-18, 20-3 Home","14-31, 4-17 Away",100,89,,,Final,,26,25,29,20,,18,22,28,21,,NBA
+63,63,280202025,2007,"Sat, Feb 2",Seattle SuperSonics,New York Knicks,"12-35, 8-16 Home","14-33, 4-19 Away",86,85,,,Final,,17,17,29,23,,15,23,23,24,,NBA
+64,64,280206018,2007,"Wed, Feb 6",New York Knicks,Indiana Pacers,"14-35, 10-16 Home","20-30, 11-16 Away",100,103,,,Final,,26,29,22,23,,29,26,20,28,,NBA
+65,65,280209015,2007,"Sat, Feb 9",Milwaukee Bucks,New York Knicks,"19-32, 13-9 Home","15-36, 5-19 Away",98,99,,,Final,,25,25,31,17,,26,22,26,25,,NBA
+66,66,280219027,2007,"Tue, Feb 19",Washington Wizards,New York Knicks,"25-28, 15-12 Home","16-37, 6-20 Away",100,113,,,Final/OT,,20,30,20,20,10.0,23,23,21,23,23.0,NBA
+67,67,280222018,2007,"Fri, Feb 22",New York Knicks,Toronto Raptors,"17-38, 11-17 Home","29-24, 13-13 Away",103,99,,,Final,,12,40,29,22,,21,32,22,24,,NBA
+68,68,280227018,2007,"Wed, Feb 27",New York Knicks,Charlotte Bobcats,"18-39, 12-17 Home","19-38, 4-21 Away",113,89,,,Final,,20,34,29,30,,25,16,21,27,,NBA
+69,69,280301019,2007,"Sat, Mar 1",Orlando Magic,New York Knicks,"38-23, 17-11 Home","18-41, 6-24 Away",118,92,,,Final,,31,37,26,24,,29,25,20,18,,NBA
+70,70,280305018,2007,"Wed, Mar 5",New York Knicks,Cleveland Cavaliers,"18-43, 12-19 Home","35-26, 16-16 Away",105,119,,,Final,,27,27,28,23,,27,31,26,35,,NBA
+71,71,280308018,2007,"Sat, Mar 8",New York Knicks,Portland Trail Blazers,"18-45, 12-21 Home","33-30, 11-21 Away",114,120,,,Final/OT,,24,27,33,24,6.0,36,20,32,20,12.0,NBA
+72,72,280312014,2007,"Wed, Mar 12",Miami Heat,New York Knicks,"11-52, 6-26 Home","19-46, 7-25 Away",88,91,,,Final,,24,21,20,23,,24,20,28,19,,NBA
+73,73,280317011,2007,"Mon, Mar 17",Indiana Pacers,New York Knicks,"26-41, 14-18 Home","19-48, 7-26 Away",110,98,,,Final,,38,22,21,29,,32,24,23,19,,NBA
+74,74,280322016,2007,"Sat, Mar 22",Minnesota Timberwolves,New York Knicks,"18-51, 13-23 Home","19-50, 7-27 Away",114,93,,,Final,,42,27,25,20,,24,32,21,16,,NBA
+75,75,280326018,2007,"Wed, Mar 26",New York Knicks,Miami Heat,"20-51, 13-24 Home","13-58, 6-29 Away",103,96,,,Final/OT,,26,22,15,29,11.0,20,20,25,27,4.0,NBA
+76,76,280330001,2007,"Sun, Mar 30",Atlanta Hawks,New York Knicks,"33-40, 24-13 Home","20-53, 7-29 Away",114,109,,,Final,,26,29,29,30,,23,31,26,29,,NBA
+77,77,280402029,2007,"Wed, Apr 2",Memphis Grizzlies,New York Knicks,"20-55, 14-24 Home","20-55, 7-31 Away",130,114,,,Final,,34,40,27,29,,23,37,29,25,,NBA
+78,78,280406018,2007,"Sun, Apr 6",New York Knicks,Orlando Magic,"21-56, 14-24 Home","48-29, 25-14 Away",100,90,,,Final,,26,15,24,35,,12,28,21,29,,NBA
+79,79,280409018,2007,"Wed, Apr 9",New York Knicks,Charlotte Bobcats,"23-56, 15-24 Home","30-49, 10-29 Away",109,107,,,Final,,27,37,22,23,,26,24,33,24,,NBA
+80,80,280414018,2007,"Mon, Apr 14",New York Knicks,Boston Celtics,"23-58, 15-26 Home","65-16, 31-10 Away",93,99,,,Final,,20,34,21,18,,21,28,24,26,,NBA
+81,81,280416011,2007,"Wed, Apr 16",Indiana Pacers,New York Knicks,"36-46, 21-20 Home","23-59, 8-33 Away",132,123,,,Final,,29,37,37,29,,29,31,36,27,,NBA

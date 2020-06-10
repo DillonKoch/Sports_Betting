@@ -1,0 +1,83 @@
+,Unnamed: 0,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,0,221030012,2002,"Wed, Oct 30",LA Clippers,Cleveland Cavaliers,"0-1, 0-1 Home","1-1, 1-1 Away",96,98,,,Final,,22,26,22,26,,17,28,25,28,,NBA
+1,1,221105005,2002,"Tue, Nov 5",Cleveland Cavaliers,Los Angeles Lakers,"2-2, 1-0 Home","2-3, 1-2 Away",89,70,,,Final,,17,26,24,22,,17,22,21,10,,NBA
+2,2,221108020,2002,"Fri, Nov 8",Philadelphia 76ers,Cleveland Cavaliers,"4-1, 4-0 Home","2-4, 1-4 Away",108,84,,,Final,CSN,22,31,40,15,,15,22,35,12,,NBA
+3,3,221112011,2002,"Tue, Nov 12",Indiana Pacers,Cleveland Cavaliers,"6-1, 5-0 Home","2-6, 1-5 Away",95,75,,,Final,,26,22,19,28,,17,18,14,26,,NBA
+4,4,221116005,2002,"Sat, Nov 16",Cleveland Cavaliers,San Antonio Spurs,"2-8, 1-3 Home","6-4, 3-3 Away",77,90,,,Final,,16,16,19,26,,22,21,23,24,,NBA
+5,5,221119010,2002,"Tue, Nov 19",Houston Rockets,Cleveland Cavaliers,"6-3, 4-1 Home","2-10, 1-7 Away",97,80,,,Final,,27,18,24,28,,18,20,25,17,,NBA
+6,6,221123005,2002,"Sat, Nov 23",Cleveland Cavaliers,New Orleans Hornets,"2-12, 1-4 Home","10-3, 2-3 Away",84,97,,,Final,,24,21,20,19,,25,22,27,23,,NBA
+7,7,221127015,2002,"Wed, Nov 27",Milwaukee Bucks,Cleveland Cavaliers,"7-7, 5-2 Home","2-14, 1-9 Away",112,80,,,Final,,21,29,33,29,,24,18,21,17,,NBA
+8,8,221130014,2002,"Sat, Nov 30",Miami Heat,Cleveland Cavaliers,"4-12, 3-6 Home","2-16, 1-10 Away",85,79,,,Final,,21,21,21,22,,17,24,14,24,,NBA
+9,9,221204005,2002,"Wed, Dec 4",Cleveland Cavaliers,Chicago Bulls,"3-17, 2-6 Home","4-14, 1-11 Away",111,101,,,Final,,26,34,27,24,,24,21,31,25,,NBA
+10,10,221209005,2002,"Mon, Dec 9",Cleveland Cavaliers,Milwaukee Bucks,"3-19, 2-7 Home","9-11, 3-8 Away",133,140,,,Final/2OT,,27,20,28,28,30.0,28,28,34,13,37.0,NBA
+11,11,221213002,2002,"Fri, Dec 13",Boston Celtics,Cleveland Cavaliers,"15-7, 10-4 Home","4-20, 1-13 Away",115,100,,,Final,,40,23,30,22,,23,30,31,16,,NBA
+12,12,221216005,2002,"Mon, Dec 16",Cleveland Cavaliers,Seattle SuperSonics,"5-21, 4-8 Home","14-11, 9-7 Away",98,111,,,Final,,26,21,23,28,,36,27,21,27,,NBA
+13,13,221220008,2002,"Fri, Dec 20",Detroit Pistons,Cleveland Cavaliers,"18-7, 11-2 Home","5-23, 1-14 Away",109,107,,,Final/OT,,18,30,26,26,9.0,18,31,26,25,7.0,NBA
+14,14,221223005,2002,"Mon, Dec 23",Cleveland Cavaliers,Miami Heat,"6-24, 5-10 Home","9-19, 5-10 Away",74,72,,,Final,,23,11,21,19,,22,13,21,16,,NBA
+15,15,221229005,2002,"Sun, Dec 29",Cleveland Cavaliers,Phoenix Suns,"6-26, 5-12 Home","19-11, 6-8 Away",84,103,,,Final,,25,19,23,17,,38,20,21,24,,NBA
+16,16,230103028,2002,"Fri, Jan 3",Toronto Raptors,Cleveland Cavaliers,"8-25, 4-11 Home","7-27, 2-15 Away",80,81,,,Final,,24,21,16,19,,26,21,15,19,,NBA
+17,17,230106005,2002,"Mon, Jan 6",Cleveland Cavaliers,Milwaukee Bucks,"7-29, 5-13 Home","14-19, 6-12 Away",94,106,,,Final,,30,19,26,19,,28,24,29,25,,NBA
+18,18,230112025,2002,"Sun, Jan 12",Seattle SuperSonics,Cleveland Cavaliers,"16-20, 6-10 Home","8-30, 3-17 Away",79,87,,,Final,,23,23,25,8,,24,18,24,21,,NBA
+19,19,230115009,2002,"Wed, Jan 15",Golden State Warriors,Cleveland Cavaliers,"16-22, 11-9 Home","8-32, 3-19 Away",108,80,,,Final,,32,22,22,32,,24,25,17,14,,NBA
+20,20,230118026,2002,"Sat, Jan 18",Utah Jazz,Cleveland Cavaliers,"24-15, 14-4 Home","8-34, 3-21 Away",95,78,,,Final,,28,20,26,21,,25,22,16,15,,NBA
+21,21,230125005,2002,"Sat, Jan 25",Cleveland Cavaliers,Atlanta Hawks,"8-36, 5-15 Home","16-28, 3-17 Away",101,102,,,Final/OT,,24,28,22,19,8.0,25,21,25,22,9.0,NBA
+22,22,230129019,2002,"Wed, Jan 29",Orlando Magic,Cleveland Cavaliers,"24-23, 14-9 Home","9-37, 3-22 Away",113,108,,,Final,,22,32,30,29,,24,33,25,26,,NBA
+23,23,230202005,2002,"Sun, Feb 2",Cleveland Cavaliers,Portland Trail Blazers,"9-39, 6-16 Home","30-16, 16-10 Away",95,114,,,Final,,16,27,29,23,,34,26,31,23,,NBA
+24,24,230205005,2002,"Wed, Feb 5",Cleveland Cavaliers,Houston Rockets,"10-40, 7-16 Home","26-22, 7-15 Away",105,102,,,Final,,28,26,27,24,,22,23,26,31,,NBA
+25,25,230212005,2002,"Wed, Feb 12",Cleveland Cavaliers,Minnesota Timberwolves,"10-42, 7-17 Home","31-20, 11-15 Away",91,102,,,Final,,32,22,12,25,,32,25,23,22,,NBA
+26,26,230218005,2002,"Tue, Feb 18",Cleveland Cavaliers,Chicago Bulls,"10-44, 7-19 Home","19-35, 3-27 Away",101,107,,,Final,,27,22,27,25,,39,18,29,21,,NBA
+27,27,230223020,2002,"Sun, Feb 23",Philadelphia 76ers,Cleveland Cavaliers,"31-24, 18-11 Home","10-46, 3-26 Away",116,103,,,Final,CSN,35,34,25,22,,31,23,23,26,,NBA
+28,28,230228016,2002,"Fri, Feb 28",Minnesota Timberwolves,Cleveland Cavaliers,"39-21, 26-5 Home","11-47, 3-27 Away",118,95,,,Final,,35,32,27,24,,28,22,21,24,,NBA
+29,29,230304018,2002,"Tue, Mar 4",New York Knicks,Cleveland Cavaliers,"26-34, 18-14 Home","11-49, 3-28 Away",89,80,,,Final,,34,15,20,20,,21,20,23,16,,NBA
+30,30,230307003,2002,"Fri, Mar 7",New Orleans Hornets,Cleveland Cavaliers,"36-27, 23-9 Home","11-51, 3-29 Away",102,76,,,Final,,31,30,18,23,,17,27,9,23,,NBA
+31,31,230311005,2002,"Tue, Mar 11",Cleveland Cavaliers,Miami Heat,"11-53, 8-24 Home","21-43, 8-24 Away",75,77,,,Final,,24,18,19,14,,25,22,20,10,,NBA
+32,32,230318006,2002,"Tue, Mar 18",Dallas Mavericks,Cleveland Cavaliers,"51-16, 28-6 Home","12-54, 3-30 Away",114,93,,,Final,,28,25,33,28,,26,26,21,20,,NBA
+33,33,230321019,2002,"Fri, Mar 21",Orlando Magic,Cleveland Cavaliers,"36-33, 23-13 Home","12-56, 3-32 Away",109,85,,,Final,,25,27,32,25,,22,18,24,21,,NBA
+34,34,230325005,2002,"Tue, Mar 25",Cleveland Cavaliers,Golden State Warriors,"14-56, 11-24 Home","34-37, 12-23 Away",124,103,,,Final,,36,24,31,33,,27,32,19,25,,NBA
+35,35,230328002,2002,"Fri, Mar 28",Boston Celtics,Cleveland Cavaliers,"39-34, 23-13 Home","14-58, 3-34 Away",104,95,,,Final,,37,13,25,29,,25,22,26,22,,NBA
+36,36,230402005,2002,"Wed, Apr 2",Cleveland Cavaliers,Indiana Pacers,"14-60, 11-26 Home","44-31, 14-23 Away",82,103,,,Final,,18,26,19,19,,25,29,30,19,,NBA
+37,37,230405005,2002,"Sat, Apr 5",Cleveland Cavaliers,New Orleans Hornets,"15-61, 12-26 Home","42-35, 16-23 Away",79,76,,,Final,,21,22,17,19,,25,14,17,20,,NBA
+38,38,230409003,2002,"Wed, Apr 9",New Orleans Hornets,Cleveland Cavaliers,"43-35, 27-12 Home","15-63, 3-36 Away",100,81,,,Final,,28,29,30,13,,17,25,17,22,,NBA
+39,39,230412005,2002,"Sat, Apr 12",Cleveland Cavaliers,New York Knicks,"16-64, 13-27 Home","36-44, 12-28 Away",104,99,,,Final/OT,,22,23,24,23,12.0,23,27,29,13,7.0,NBA
+40,40,221029023,2002,"Tue, Oct 29",Sacramento Kings,Cleveland Cavaliers,"1-0, 1-0 Home","0-1, 0-1 Away",94,67,,,Final,,19,25,22,28,,14,18,10,25,,NBA
+41,41,221101021,2002,"Fri, Nov 1",Phoenix Suns,Cleveland Cavaliers,"1-1, 1-0 Home","1-2, 1-2 Away",78,74,,,Final,,18,22,12,26,,26,18,15,15,,NBA
+42,42,221106027,2002,"Wed, Nov 6",Washington Wizards,Cleveland Cavaliers,"2-3, 2-1 Home","2-3, 1-3 Away",107,100,,,Final,,28,18,27,34,,13,30,23,34,,NBA
+43,43,221109005,2002,"Sat, Nov 9",Cleveland Cavaliers,Washington Wizards,"2-5, 1-1 Home","4-3, 1-2 Away",79,93,,,Final,,15,25,15,24,,17,26,22,28,,NBA
+44,44,221113005,2002,"Wed, Nov 13",Cleveland Cavaliers,Dallas Mavericks,"2-7, 1-2 Home","8-0, 4-0 Away",99,103,,,Final,,31,21,19,28,,23,25,22,33,,NBA
+45,45,221118024,2002,"Mon, Nov 18",San Antonio Spurs,Cleveland Cavaliers,"7-4, 4-1 Home","2-9, 1-6 Away",104,78,,,Final,,23,25,21,35,,23,14,21,20,,NBA
+46,46,221122017,2002,"Fri, Nov 22",New Jersey Nets,Cleveland Cavaliers,"9-4, 7-1 Home","2-11, 1-8 Away",120,79,,,Final,,37,23,20,40,,22,19,22,16,,NBA
+47,47,221126005,2002,"Tue, Nov 26",Cleveland Cavaliers,Sacramento Kings,"2-13, 1-5 Home","12-4, 5-4 Away",85,91,,,Final,,21,29,19,16,,17,27,25,22,,NBA
+48,48,221129005,2002,"Fri, Nov 29",Cleveland Cavaliers,Philadelphia 76ers,"2-15, 1-6 Home","13-4, 4-4 Away",99,106,,,Final,CSN,26,25,21,27,,21,26,37,22,,NBA
+49,49,221202018,2002,"Mon, Dec 2",New York Knicks,Cleveland Cavaliers,"5-10, 4-6 Home","2-17, 1-11 Away",125,93,,,Final,,28,37,34,26,,19,19,33,22,,NBA
+50,50,221207004,2002,"Sat, Dec 7",Chicago Bulls,Cleveland Cavaliers,"5-15, 4-3 Home","3-18, 1-12 Away",112,104,,,Final,,34,25,31,22,,26,23,27,28,,NBA
+51,51,221211005,2002,"Wed, Dec 11",Cleveland Cavaliers,Toronto Raptors,"4-19, 3-7 Home","7-14, 3-8 Away",96,83,,,Final,,23,21,30,22,,24,22,21,16,,NBA
+52,52,221214005,2002,"Sat, Dec 14",Cleveland Cavaliers,Denver Nuggets,"5-20, 4-7 Home","6-18, 2-10 Away",111,104,,,Final,,31,30,28,22,,35,24,27,18,,NBA
+53,53,221218005,2002,"Wed, Dec 18",Cleveland Cavaliers,Detroit Pistons,"5-22, 4-9 Home","17-7, 7-5 Away",106,111,,,Final/OT,,21,29,22,29,5.0,22,34,18,27,10.0,NBA
+54,54,221221005,2002,"Sat, Dec 21",Cleveland Cavaliers,Boston Celtics,"5-24, 4-10 Home","18-9, 7-4 Away",82,89,,,Final,,18,35,20,9,,25,17,21,26,,NBA
+55,55,221227005,2002,"Fri, Dec 27",Cleveland Cavaliers,Indiana Pacers,"6-25, 5-11 Home","21-8, 8-7 Away",89,113,,,Final,,21,20,25,23,,31,29,32,21,,NBA
+56,56,221230017,2002,"Mon, Dec 30",New Jersey Nets,Cleveland Cavaliers,"23-9, 18-1 Home","6-27, 1-15 Away",102,88,,,Final,,26,27,30,19,,20,21,25,22,,NBA
+57,57,230104004,2002,"Sat, Jan 4",Chicago Bulls,Cleveland Cavaliers,"12-21, 11-7 Home","7-28, 2-16 Away",85,79,,,Final,,24,25,17,19,,12,21,18,28,,NBA
+58,58,230110013,2002,"Fri, Jan 10",Los Angeles Lakers,Cleveland Cavaliers,"16-20, 12-6 Home","7-30, 2-17 Away",115,99,,,Final,,27,38,32,18,,26,23,25,25,,NBA
+59,59,230113022,2002,"Mon, Jan 13",Portland Trail Blazers,Cleveland Cavaliers,"22-14, 11-5 Home","8-31, 3-18 Away",118,94,,,Final,,31,34,29,24,,22,20,24,28,,NBA
+60,60,230117007,2002,"Fri, Jan 17",Denver Nuggets,Cleveland Cavaliers,"10-29, 7-14 Home","8-33, 3-20 Away",97,80,,,Final,,25,29,28,15,,23,26,12,19,,NBA
+61,61,230121005,2002,"Tue, Jan 21",Cleveland Cavaliers,Orlando Magic,"8-35, 5-14 Home","22-21, 10-13 Away",94,103,,,Final,,19,29,18,28,,34,27,26,16,,NBA
+62,62,230127005,2002,"Mon, Jan 27",Cleveland Cavaliers,LA Clippers,"9-36, 6-15 Home","16-28, 7-14 Away",104,100,,,Final,,23,24,28,29,,30,21,29,20,,NBA
+63,63,230131001,2002,"Fri, Jan 31",Atlanta Hawks,Cleveland Cavaliers,"18-29, 14-11 Home","9-38, 3-23 Away",96,91,,,Final,,30,22,21,23,,27,18,21,25,,NBA
+64,64,230204027,2002,"Tue, Feb 4",Washington Wizards,Cleveland Cavaliers,"24-25, 17-10 Home","9-40, 3-24 Away",93,84,,,Final,,31,21,18,23,,29,16,21,18,,NBA
+65,65,230211011,2002,"Tue, Feb 11",Indiana Pacers,Cleveland Cavaliers,"35-15, 23-3 Home","10-41, 3-25 Away",107,96,,,Final,,33,23,28,23,,20,24,30,22,,NBA
+66,66,230216005,2002,"Sun, Feb 16",Cleveland Cavaliers,Detroit Pistons,"10-43, 7-18 Home","35-16, 16-11 Away",75,90,,,Final,,20,18,14,23,,25,26,22,17,,NBA
+67,67,230221005,2002,"Fri, Feb 21",Cleveland Cavaliers,Philadelphia 76ers,"10-45, 7-20 Home","30-24, 13-13 Away",99,119,,,Final,CSN,17,24,30,28,,37,28,25,29,,NBA
+68,68,230225005,2002,"Tue, Feb 25",Cleveland Cavaliers,New Jersey Nets,"11-46, 8-20 Home","37-21, 12-17 Away",93,90,,,Final,,25,20,22,26,,12,19,33,26,,NBA
+69,69,230302005,2002,"Sun, Mar 2",Cleveland Cavaliers,Orlando Magic,"11-48, 8-21 Home","30-30, 12-19 Away",76,102,,,Final,,20,25,12,19,,24,25,39,14,,NBA
+70,70,230305005,2002,"Wed, Mar 5",Cleveland Cavaliers,Atlanta Hawks,"11-50, 8-22 Home","24-38, 7-26 Away",105,111,,,Final,,36,19,34,16,,29,30,31,21,,NBA
+71,71,230308005,2002,"Sat, Mar 8",Cleveland Cavaliers,Memphis Grizzlies,"11-52, 8-23 Home","20-41, 5-25 Away",89,115,,,Final,,30,25,18,16,,28,33,30,24,,NBA
+72,72,230316005,2002,"Sun, Mar 16",Cleveland Cavaliers,Utah Jazz,"12-53, 9-24 Home","37-29, 15-19 Away",122,95,,,Final,,27,30,30,35,,28,18,23,26,,NBA
+73,73,230319029,2002,"Wed, Mar 19",Memphis Grizzlies,Cleveland Cavaliers,"25-42, 18-16 Home","12-55, 3-31 Away",128,101,,,Final,,40,2,53,33,,24,0,57,20,,NBA
+74,74,230323005,2002,"Sun, Mar 23",Cleveland Cavaliers,New Jersey Nets,"13-56, 10-24 Home","42-28, 14-21 Away",93,88,,,Final,,25,26,20,22,,36,17,19,16,,NBA
+75,75,230326028,2002,"Wed, Mar 26",Toronto Raptors,Cleveland Cavaliers,"22-48, 14-20 Home","14-57, 3-33 Away",89,83,,,Final,,27,15,25,22,,20,14,19,30,,NBA
+76,76,230329005,2002,"Sat, Mar 29",Cleveland Cavaliers,Boston Celtics,"14-59, 11-25 Home","40-34, 17-21 Away",106,110,,,Final,,26,21,23,36,,23,30,33,24,,NBA
+77,77,230404015,2002,"Fri, Apr 4",Milwaukee Bucks,Cleveland Cavaliers,"38-39, 22-16 Home","14-61, 3-35 Away",95,93,,,Final,,22,23,22,28,,21,22,24,26,,NBA
+78,78,230408005,2002,"Tue, Apr 8",Cleveland Cavaliers,Washington Wizards,"15-62, 12-27 Home","36-41, 13-26 Away",91,100,,,Final,,25,26,20,20,,29,23,24,24,,NBA
+79,79,230411001,2002,"Fri, Apr 11",Atlanta Hawks,Cleveland Cavaliers,"33-46, 25-15 Home","15-64, 3-37 Away",109,89,,,Final,,28,24,30,27,,12,23,23,31,,NBA
+80,80,230414008,2002,"Mon, Apr 14",Detroit Pistons,Cleveland Cavaliers,"50-31, 30-11 Home","16-65, 3-38 Away",89,88,,,Final,,22,29,20,18,,28,24,16,20,,NBA
+81,81,230416005,2002,"Wed, Apr 16",Cleveland Cavaliers,Toronto Raptors,"17-65, 14-27 Home","24-58, 9-32 Away",96,86,,,Final,,21,29,22,24,,21,22,22,21,,NBA

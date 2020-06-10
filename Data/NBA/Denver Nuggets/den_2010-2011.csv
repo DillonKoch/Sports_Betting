@@ -1,0 +1,83 @@
+,Unnamed: 0,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,0,301029003,2010,"Fri, Oct 29",New Orleans Hornets,Denver Nuggets,"2-0, 2-0 Home","1-1, 0-1 Away",101,95,,,Final,,27,32,13,29,,25,25,21,24,,NBA
+1,1,301103007,2010,"Wed, Nov 3",Denver Nuggets,Dallas Mavericks,"2-2, 1-1 Home","3-1, 2-0 Away",101,102,,,Final,TNT,27,25,28,21,,23,27,34,18,,NBA
+2,2,301106006,2010,"Sat, Nov 6",Dallas Mavericks,Denver Nuggets,"3-2, 1-2 Home","4-2, 2-1 Away",92,103,,,Final,NBATV,24,28,27,13,,26,27,26,24,,NBA
+3,3,301109011,2010,"Tue, Nov 9",Indiana Pacers,Denver Nuggets,"3-3, 2-1 Home","4-4, 2-3 Away",144,113,,,Final,,27,32,54,31,,25,24,27,37,,NBA
+4,4,301115021,2010,"Mon, Nov 15",Phoenix Suns,Denver Nuggets,"6-4, 3-2 Home","5-5, 2-4 Away",100,94,,,Final,,20,26,23,31,,22,36,18,18,,NBA
+5,5,301118022,2010,"Thu, Nov 18",Portland Trail Blazers,Denver Nuggets,"8-5, 4-1 Home","6-6, 2-5 Away",86,83,,,Final,TNT,16,27,26,17,,28,17,26,12,,NBA
+6,6,301122009,2010,"Mon, Nov 22",Golden State Warriors,Denver Nuggets,"7-7, 5-2 Home","8-6, 3-5 Away",89,106,,,Final,,24,28,19,18,,21,30,28,27,,NBA
+7,7,301128007,2010,"Sun, Nov 28",Denver Nuggets,Phoenix Suns,"10-6, 7-1 Home","8-9, 4-6 Away",138,133,,,Final,,31,37,37,33,,18,39,32,44,,NBA
+8,8,301203007,2010,"Fri, Dec 3",Denver Nuggets,LA Clippers,"12-6, 9-1 Home","4-16, 0-9 Away",109,104,,,Final,,25,24,32,28,,29,19,29,27,,NBA
+9,9,301207030,2010,"Tue, Dec 7",Charlotte Bobcats,Denver Nuggets,"8-13, 5-5 Home","13-7, 3-6 Away",100,98,,,Final,,21,31,24,24,,16,31,29,22,,NBA
+10,10,301210028,2010,"Fri, Dec 10",Toronto Raptors,Denver Nuggets,"8-15, 6-6 Home","14-8, 4-7 Away",116,123,,,Final,TSNT,33,32,21,30,,39,35,24,25,,NBA
+11,11,301214007,2010,"Tue, Dec 14",Denver Nuggets,Orlando Magic,"15-9, 11-1 Home","16-9, 7-6 Away",111,94,,,Final,NBATV,29,32,18,32,,31,24,23,16,,NBA
+12,12,301218007,2010,"Sat, Dec 18",Denver Nuggets,Minnesota Timberwolves,"16-10, 12-2 Home","6-22, 1-16 Away",115,113,,,Final,,35,27,26,27,,27,23,25,38,,NBA
+13,13,301225025,2010,"Sat, Dec 25",Oklahoma City Thunder,Denver Nuggets,"21-10, 11-5 Home","16-12, 4-10 Away",114,106,,,Final,ESPN,26,30,32,26,,34,24,27,21,,NBA
+14,14,301228007,2010,"Tue, Dec 28",Denver Nuggets,Portland Trail Blazers,"17-13, 13-3 Home","16-16, 6-13 Away",95,77,,,Final,,25,23,30,17,,21,20,17,19,,NBA
+15,15,310101007,2010,"Sat, Jan 1",Denver Nuggets,Sacramento Kings,"19-13, 14-3 Home","6-24, 2-10 Away",104,86,,,Final,,23,28,18,35,,23,16,21,26,,NBA
+16,16,310105012,2010,"Wed, Jan 5",LA Clippers,Denver Nuggets,"11-24, 8-13 Home","20-14, 5-11 Away",106,93,,,Final,,30,21,31,24,,23,20,31,19,,NBA
+17,17,310109007,2010,"Sun, Jan 9",Denver Nuggets,New Orleans Hornets,"20-16, 15-4 Home","22-16, 8-11 Away",87,96,,,Final,,22,21,23,21,,23,31,24,18,,NBA
+18,18,310113007,2010,"Thu, Jan 13",Denver Nuggets,Miami Heat,"22-16, 17-4 Home","30-11, 15-7 Away",130,102,,,Final,TNT,26,34,38,32,,23,20,25,34,,NBA
+19,19,310116024,2010,"Sun, Jan 16",San Antonio Spurs,Denver Nuggets,"35-6, 22-2 Home","23-17, 5-13 Away",110,97,,,Final,ESPN,20,37,25,28,,24,21,22,30,,NBA
+20,20,310121007,2010,"Fri, Jan 21",Denver Nuggets,Los Angeles Lakers,"24-18, 19-5 Home","32-13, 15-8 Away",97,107,,,Final,ESPN,25,27,20,25,,22,27,33,25,,NBA
+21,21,310125027,2010,"Tue, Jan 25",Washington Wizards,Denver Nuggets,"13-31, 13-10 Home","26-18, 6-13 Away",109,120,,,Final,,26,30,23,30,,33,35,28,24,,NBA
+22,22,310128005,2010,"Fri, Jan 28",Cleveland Cavaliers,Denver Nuggets,"8-38, 5-15 Home","28-18, 8-13 Away",103,117,,,Final,,24,26,33,20,,31,39,23,24,,NBA
+23,23,310131017,2010,"Mon, Jan 31",New Jersey Nets,Denver Nuggets,"15-34, 12-11 Home","28-20, 8-15 Away",115,99,,,Final,NBATV,31,32,22,30,,21,29,28,21,,NBA
+24,24,310204007,2010,"Fri, Feb 4",Denver Nuggets,Utah Jazz,"29-21, 21-6 Home","30-21, 13-12 Away",106,113,,,Final,ESPN,24,23,30,29,,23,27,32,31,,NBA
+25,25,310207007,2010,"Mon, Feb 7",Denver Nuggets,Houston Rockets,"30-22, 21-7 Home","25-28, 11-18 Away",103,108,,,Final,,26,24,16,37,,25,27,29,27,,NBA
+26,26,310210007,2010,"Thu, Feb 10",Denver Nuggets,Dallas Mavericks,"31-23, 22-7 Home","37-16, 17-8 Away",121,120,,,Final,TNT,33,26,29,33,,19,39,34,28,,NBA
+27,27,310214010,2010,"Mon, Feb 14",Houston Rockets,Denver Nuggets,"26-30, 15-12 Home","31-25, 9-18 Away",121,102,,,Final,,19,39,30,33,,32,22,14,34,,NBA
+28,28,310222007,2010,"Tue, Feb 22",Denver Nuggets,Memphis Grizzlies,"33-25, 23-7 Home","31-27, 12-19 Away",120,107,,,Final,,32,29,41,18,,23,19,34,31,,NBA
+29,29,310225022,2010,"Fri, Feb 25",Portland Trail Blazers,Denver Nuggets,"33-25, 20-8 Home","34-26, 10-19 Away",107,106,,,Final/OT,ESPN,25,24,16,32,10.0,19,20,33,25,9.0,NBA
+30,30,310302007,2010,"Wed, Mar 2",Denver Nuggets,Charlotte Bobcats,"36-26, 26-7 Home","26-34, 10-20 Away",120,80,,,Final,,31,31,29,29,,23,23,21,13,,NBA
+31,31,310305012,2010,"Sat, Mar 5",LA Clippers,Denver Nuggets,"23-40, 18-15 Home","37-27, 11-20 Away",100,94,,,Final,,30,18,23,29,,23,15,27,29,,NBA
+32,32,310312007,2010,"Sat, Mar 12",Denver Nuggets,Detroit Pistons,"39-27, 27-7 Home","23-44, 7-27 Away",131,101,,,Final,,33,33,27,38,,28,32,14,27,,NBA
+33,33,310316001,2010,"Wed, Mar 16",Atlanta Hawks,Denver Nuggets,"39-29, 20-13 Home","41-27, 14-20 Away",87,102,,,Final,,20,22,21,24,,17,29,26,30,,NBA
+34,34,310319014,2010,"Sat, Mar 19",Miami Heat,Denver Nuggets,"48-22, 26-10 Home","41-29, 14-22 Away",103,98,,,Final,NBATV,29,27,23,24,,21,26,24,27,,NBA
+35,35,310323007,2010,"Wed, Mar 23",Denver Nuggets,San Antonio Spurs,"43-29, 29-7 Home","57-14, 24-11 Away",115,112,,,Final,ESPN,24,40,26,25,,34,35,24,19,,NBA
+36,36,310330007,2010,"Wed, Mar 30",Denver Nuggets,Sacramento Kings,"45-29, 31-7 Home","21-53, 11-26 Away",104,90,,,Final,,20,21,33,30,,28,23,20,19,,NBA
+37,37,310403013,2010,"Sun, Apr 3",Los Angeles Lakers,Denver Nuggets,"55-21, 29-9 Home","47-29, 16-22 Away",90,95,,,Final,ABC,20,27,22,21,,21,19,29,26,,NBA
+38,38,310406006,2010,"Wed, Apr 6",Dallas Mavericks,Denver Nuggets,"53-25, 26-12 Home","48-30, 17-22 Away",96,104,,,Final,ESPN,17,26,26,27,,23,30,19,32,,NBA
+39,39,310409007,2010,"Sat, Apr 9",Denver Nuggets,Minnesota Timberwolves,"49-31, 32-8 Home","17-63, 5-35 Away",130,106,,,Final,,25,40,36,29,,23,28,18,37,,NBA
+40,40,301027007,2010,"Wed, Oct 27",Denver Nuggets,Utah Jazz,"1-0, 1-0 Home","0-1, 0-1 Away",110,88,,,Final,,29,31,26,24,,20,20,25,23,,NBA
+41,41,301030010,2010,"Sat, Oct 30",Houston Rockets,Denver Nuggets,"0-3, 0-1 Home","2-1, 1-1 Away",94,107,,,Final,NBATV,27,24,18,25,,24,24,24,35,,NBA
+42,42,301105007,2010,"Fri, Nov 5",Denver Nuggets,LA Clippers,"3-2, 2-1 Home","1-5, 0-2 Away",111,104,,,Final,ESPN,24,29,29,29,,28,26,17,33,,NBA
+43,43,301108004,2010,"Mon, Nov 8",Chicago Bulls,Denver Nuggets,"3-3, 3-1 Home","4-3, 2-2 Away",94,92,,,Final,,23,27,18,26,,28,15,27,22,,NBA
+44,44,301111007,2010,"Thu, Nov 11",Denver Nuggets,Los Angeles Lakers,"5-4, 3-1 Home","8-1, 2-1 Away",118,112,,,Final,ESPN,24,35,26,33,,26,38,29,19,,NBA
+45,45,301116007,2010,"Tue, Nov 16",Denver Nuggets,New York Knicks,"6-5, 4-1 Home","3-8, 2-4 Away",120,118,,,Final,ESPN,26,35,33,26,,26,28,28,36,,NBA
+46,46,301120007,2010,"Sat, Nov 20",Denver Nuggets,New Jersey Nets,"7-6, 5-1 Home","4-9, 2-5 Away",107,103,,,Final,,28,31,24,24,,25,29,21,28,,NBA
+47,47,301126007,2010,"Fri, Nov 26",Denver Nuggets,Chicago Bulls,"9-6, 6-1 Home","8-6, 3-5 Away",98,97,,,Final,,25,23,28,22,,20,18,35,24,,NBA
+48,48,301201007,2010,"Wed, Dec 1",Denver Nuggets,Milwaukee Bucks,"11-6, 8-1 Home","6-12, 2-8 Away",105,94,,,Final,TNT,19,26,31,29,,22,28,21,23,,NBA
+49,49,301205007,2010,"Sun, Dec 5",Denver Nuggets,Memphis Grizzlies,"13-6, 10-1 Home","8-13, 2-8 Away",108,107,,,Final,,33,29,14,32,,16,31,30,30,,NBA
+50,50,301208002,2010,"Wed, Dec 8",Boston Celtics,Denver Nuggets,"17-4, 10-1 Home","13-8, 3-7 Away",105,89,,,Final,TNT,35,24,21,25,,21,31,17,20,,NBA
+51,51,301212018,2010,"Sun, Dec 12",New York Knicks,Denver Nuggets,"16-9, 6-5 Home","14-9, 4-8 Away",129,125,,,Final,,35,31,31,32,,24,41,24,36,,NBA
+52,52,301216007,2010,"Thu, Dec 16",Denver Nuggets,San Antonio Spurs,"15-10, 11-2 Home","22-3, 9-1 Away",112,113,,,Final,TNT,37,23,24,28,,28,29,28,28,,NBA
+53,53,301222024,2010,"Wed, Dec 22",San Antonio Spurs,Denver Nuggets,"25-3, 16-2 Home","16-11, 4-9 Away",109,103,,,Final,,26,33,21,29,,27,29,33,14,,NBA
+54,54,301226007,2010,"Sun, Dec 26",Denver Nuggets,Philadelphia 76ers,"16-13, 12-3 Home","12-18, 4-12 Away",89,95,,,Final,CSN,25,21,25,18,,13,30,23,29,,NBA
+55,55,301229016,2010,"Wed, Dec 29",Minnesota Timberwolves,Denver Nuggets,"8-25, 6-8 Home","18-13, 5-10 Away",113,119,,,Final,,30,29,24,30,,23,30,29,37,,NBA
+56,56,310103007,2010,"Mon, Jan 3",Denver Nuggets,Houston Rockets,"20-13, 15-3 Home","16-18, 6-13 Away",113,106,,,Final,,25,27,29,32,,21,31,29,25,,NBA
+57,57,310106023,2010,"Thu, Jan 6",Sacramento Kings,Denver Nuggets,"8-25, 6-15 Home","20-15, 5-12 Away",122,102,,,Final,TNT,29,40,22,31,,27,28,26,21,,NBA
+58,58,310111007,2010,"Tue, Jan 11",Denver Nuggets,Phoenix Suns,"21-16, 16-4 Home","15-21, 6-12 Away",132,98,,,Final,NBATV,20,44,38,30,,32,23,17,26,,NBA
+59,59,310115007,2010,"Sat, Jan 15",Denver Nuggets,Cleveland Cavaliers,"23-16, 18-4 Home","8-32, 3-20 Away",127,99,,,Final,,34,46,25,22,,22,27,21,29,,NBA
+60,60,310119007,2010,"Wed, Jan 19",Denver Nuggets,Oklahoma City Thunder,"24-17, 19-4 Home","27-15, 12-9 Away",112,107,,,Final,,27,28,30,27,,24,31,31,21,,NBA
+61,61,310123007,2010,"Sun, Jan 23",Denver Nuggets,Indiana Pacers,"25-18, 20-5 Home","16-25, 6-15 Away",121,107,,,Final,,27,32,34,28,,30,21,27,29,,NBA
+62,62,310126008,2010,"Wed, Jan 26",Detroit Pistons,Denver Nuggets,"17-29, 12-10 Home","27-18, 7-13 Away",100,109,,,Final,,24,26,24,26,,29,27,24,29,,NBA
+63,63,310130020,2010,"Sun, Jan 30",Philadelphia 76ers,Denver Nuggets,"21-26, 15-8 Home","28-19, 8-14 Away",110,99,,,Final,CSN,32,22,28,28,,34,17,21,27,,NBA
+64,64,310202007,2010,"Wed, Feb 2",Denver Nuggets,Portland Trail Blazers,"29-20, 21-5 Home","26-23, 9-16 Away",109,90,,,Final,,22,23,32,32,,23,23,24,20,,NBA
+65,65,310205016,2010,"Sat, Feb 5",Minnesota Timberwolves,Denver Nuggets,"11-39, 9-16 Home","30-21, 9-15 Away",100,113,,,Final,,23,23,38,16,,25,34,28,26,,NBA
+66,66,310209009,2010,"Wed, Feb 9",Golden State Warriors,Denver Nuggets,"23-28, 17-11 Home","30-23, 9-16 Away",116,114,,,Final,NBATV,34,36,30,16,,35,33,24,22,,NBA
+67,67,310213029,2010,"Sun, Feb 13",Memphis Grizzlies,Denver Nuggets,"30-26, 18-8 Home","31-24, 9-17 Away",116,108,,,Final,,31,24,27,34,,26,41,23,18,,NBA
+68,68,310216015,2010,"Wed, Feb 16",Milwaukee Bucks,Denver Nuggets,"21-34, 13-13 Home","32-25, 10-18 Away",87,94,,,Final,ESPN,16,27,28,16,,27,19,25,23,,NBA
+69,69,310224007,2010,"Thu, Feb 24",Denver Nuggets,Boston Celtics,"34-25, 24-7 Home","41-15, 16-10 Away",89,75,,,Final,TNT,18,19,24,28,,23,13,24,15,,NBA
+70,70,310228007,2010,"Mon, Feb 28",Denver Nuggets,Atlanta Hawks,"35-26, 25-7 Home","36-24, 19-15 Away",100,90,,,Final,,21,25,25,29,,25,22,23,20,,NBA
+71,71,310303026,2010,"Thu, Mar 3",Utah Jazz,Denver Nuggets,"32-30, 17-15 Home","37-26, 11-19 Away",101,103,,,Final,TNT,23,28,25,25,,30,28,16,29,,NBA
+72,72,310310021,2010,"Thu, Mar 10",Phoenix Suns,Denver Nuggets,"33-30, 18-14 Home","38-27, 12-20 Away",97,116,,,Final,TNT,25,24,17,31,,30,29,31,26,,NBA
+73,73,310314003,2010,"Mon, Mar 14",New Orleans Hornets,Denver Nuggets,"39-30, 23-10 Home","40-27, 13-20 Away",103,114,,,Final,,21,24,30,28,,23,35,36,20,,NBA
+74,74,310318019,2010,"Fri, Mar 18",Orlando Magic,Denver Nuggets,"44-26, 25-11 Home","41-28, 14-21 Away",85,82,,,Final,,18,29,17,21,,21,21,18,22,,NBA
+75,75,310321007,2010,"Mon, Mar 21",Denver Nuggets,Toronto Raptors,"42-29, 28-7 Home","20-50, 6-28 Away",123,90,,,Final,TSNT,36,36,29,22,,23,21,28,18,,NBA
+76,76,310325007,2010,"Fri, Mar 25",Denver Nuggets,Washington Wizards,"44-29, 30-7 Home","17-54, 1-34 Away",114,94,,,Final,,30,34,18,32,,16,29,22,27,,NBA
+77,77,310401023,2010,"Fri, Apr 1",Sacramento Kings,Denver Nuggets,"21-54, 10-28 Home","46-29, 15-22 Away",90,99,,,Final,,28,23,16,23,,21,27,31,20,,NBA
+78,78,310405007,2010,"Tue, Apr 5",Denver Nuggets,Oklahoma City Thunder,"47-30, 31-8 Home","51-26, 23-16 Away",94,101,,,Final,,16,31,20,27,,27,21,21,32,,NBA
+79,79,310408025,2010,"Fri, Apr 8",Oklahoma City Thunder,Denver Nuggets,"53-26, 30-10 Home","48-31, 17-23 Away",104,89,,,Final,,17,31,27,29,,17,25,22,25,,NBA
+80,80,310411007,2010,"Mon, Apr 11",Denver Nuggets,Golden State Warriors,"50-31, 33-8 Home","35-46, 10-31 Away",134,111,,,Final,,31,23,44,36,,32,22,37,20,,NBA
+81,81,310413026,2010,"Wed, Apr 13",Utah Jazz,Denver Nuggets,"39-43, 21-20 Home","50-32, 17-24 Away",107,103,,,Final,,29,32,21,25,,31,27,20,25,,NBA

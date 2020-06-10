@@ -1,0 +1,81 @@
+,Unnamed: 0,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,0,191104025,1999,"Thu, Nov 4",Seattle SuperSonics,Dallas Mavericks,"2-0, 1-0 Home","1-1, 0-1 Away",106,96,,,Final,,26,30,25,25,,25,21,28,22,,NBA
+1,1,191108020,1999,"Mon, Nov 8",Philadelphia 76ers,Seattle SuperSonics,"1-3, 1-0 Home","3-1, 1-1 Away",117,98,,,Final,CSN,27,21,30,39,,25,26,28,19,,NBA
+2,2,191111005,1999,"Thu, Nov 11",Cleveland Cavaliers,Seattle SuperSonics,"3-2, 2-1 Home","5-1, 3-1 Away",103,109,,,Final,,28,32,13,30,,36,20,29,24,,NBA
+3,3,191115017,1999,"Mon, Nov 15",New Jersey Nets,Seattle SuperSonics,"1-6, 1-4 Home","6-2, 4-2 Away",92,100,,,Final,,27,16,24,25,,28,29,24,19,,NBA
+4,4,191118029,1999,"Thu, Nov 18",Vancouver Grizzlies,Seattle SuperSonics,"3-5, 3-3 Home","8-2, 5-2 Away",108,110,,,Final,,28,27,29,24,,31,20,27,32,,NBA
+5,5,191121021,1999,"Sun, Nov 21",Phoenix Suns,Seattle SuperSonics,"7-4, 5-1 Home","9-3, 5-3 Away",99,86,,,Final,,17,30,27,25,,23,23,19,21,,NBA
+6,6,191128025,1999,"Sun, Nov 28",Seattle SuperSonics,Indiana Pacers,"11-3, 6-0 Home","7-7, 3-5 Away",102,91,,,Final,,33,21,31,17,,16,26,23,26,,NBA
+7,7,191202009,1999,"Thu, Dec 2",Golden State Warriors,Seattle SuperSonics,"2-13, 1-7 Home","12-4, 6-3 Away",108,117,,,Final,,28,23,27,30,,36,28,26,27,,NBA
+8,8,191205025,1999,"Sun, Dec 5",Seattle SuperSonics,Charlotte Hornets,"13-5, 6-2 Home","10-7, 3-6 Away",81,103,,,Final,,20,24,21,16,,25,24,26,28,,NBA
+9,9,191210026,1999,"Fri, Dec 10",Utah Jazz,Seattle SuperSonics,"12-7, 9-3 Home","14-6, 7-4 Away",101,83,,,Final,,23,32,20,26,,21,18,24,20,,NBA
+10,10,191214025,1999,"Tue, Dec 14",Seattle SuperSonics,Denver Nuggets,"16-6, 9-2 Home","10-11, 3-8 Away",109,84,,,Final,,22,28,35,24,,22,18,19,25,,NBA
+11,11,191218025,1999,"Sat, Dec 18",Seattle SuperSonics,Vancouver Grizzlies,"17-7, 10-3 Home","4-19, 1-10 Away",112,89,,,Final,,23,23,28,38,,17,29,17,26,,NBA
+12,12,191221011,1999,"Tue, Dec 21",Indiana Pacers,Seattle SuperSonics,"16-9, 10-2 Home","18-8, 8-5 Away",113,103,,,Final,,26,29,30,28,,24,22,24,33,,NBA
+13,13,191226025,1999,"Sun, Dec 26",Seattle SuperSonics,Philadelphia 76ers,"18-10, 10-4 Home","15-14, 6-8 Away",86,92,,,Final,CSN,21,26,19,20,,24,26,20,22,,NBA
+14,14,191229025,1999,"Wed, Dec 29",Seattle SuperSonics,Sacramento Kings,"18-12, 10-5 Home","17-10, 6-8 Away",104,113,,,Final,,22,25,33,24,,33,18,29,33,,NBA
+15,15,200105024,1999,"Wed, Jan 5",San Antonio Spurs,Seattle SuperSonics,"21-12, 12-3 Home","20-12, 10-7 Away",96,99,,,Final,,23,21,27,25,,31,20,22,26,,NBA
+16,16,200109009,1999,"Sun, Jan 9",Golden State Warriors,Seattle SuperSonics,"6-27, 3-13 Home","21-13, 11-7 Away",95,100,,,Final/OT,,26,27,18,20,4.0,19,33,20,19,9.0,NBA
+17,17,200112007,1999,"Wed, Jan 12",Denver Nuggets,Seattle SuperSonics,"17-17, 14-6 Home","23-13, 12-7 Away",93,103,,,Final,,23,32,21,17,,29,21,28,25,,NBA
+18,18,200117013,1999,"Mon, Jan 17",Los Angeles Lakers,Seattle SuperSonics,"32-7, 18-3 Home","25-13, 13-7 Away",81,82,,,Final,,25,20,17,19,,28,18,20,16,,NBA
+19,19,200120015,1999,"Thu, Jan 20",Milwaukee Bucks,Seattle SuperSonics,"22-19, 13-7 Home","27-13, 14-7 Away",96,104,,,Final,,19,24,28,25,,29,24,24,27,,NBA
+20,20,200123028,1999,"Sun, Jan 23",Toronto Raptors,Seattle SuperSonics,"21-19, 13-8 Home","27-15, 14-9 Away",94,77,,,Final,,24,32,14,24,,18,25,18,16,,NBA
+21,21,200126025,1999,"Wed, Jan 26",Seattle SuperSonics,New Jersey Nets,"28-16, 14-6 Home","17-25, 4-15 Away",95,92,,,Final,,23,20,25,27,,31,21,14,26,,NBA
+22,22,200201026,1999,"Tue, Feb 1",Utah Jazz,Seattle SuperSonics,"27-16, 16-6 Home","29-17, 15-10 Away",96,104,,,Final,,28,18,25,25,,19,30,26,29,,NBA
+23,23,200204025,1999,"Fri, Feb 4",Seattle SuperSonics,Phoenix Suns,"30-18, 15-8 Home","26-19, 8-14 Away",94,86,,,Final,,33,21,15,25,,21,24,21,20,,NBA
+24,24,200208024,1999,"Tue, Feb 8",San Antonio Spurs,Seattle SuperSonics,"31-17, 20-4 Home","30-20, 15-12 Away",79,77,,,Final,,27,19,15,18,,22,23,11,21,,NBA
+25,25,200215025,1999,"Tue, Feb 15",Seattle SuperSonics,Washington Wizards,"32-20, 16-8 Home","15-35, 5-21 Away",114,85,,,Final,,37,27,33,17,,19,19,27,20,,NBA
+26,26,200219025,1999,"Sat, Feb 19",Seattle SuperSonics,Boston Celtics,"33-21, 17-8 Home","22-30, 5-21 Away",94,91,,,Final,,23,21,25,25,,28,21,22,20,,NBA
+27,27,200225025,1999,"Fri, Feb 25",Seattle SuperSonics,Atlanta Hawks,"34-22, 18-9 Home","22-30, 7-20 Away",87,95,,,Final,,24,26,24,13,,24,21,21,29,,NBA
+28,28,200229019,1999,"Tue, Feb 29",Orlando Magic,Seattle SuperSonics,"26-31, 14-13 Home","35-23, 17-14 Away",103,94,,,Final,,30,27,28,18,,22,23,26,23,,NBA
+29,29,200304001,1999,"Sat, Mar 4",Atlanta Hawks,Seattle SuperSonics,"23-34, 16-12 Home","36-24, 18-15 Away",81,93,,,Final,,21,17,18,25,,18,31,21,23,,NBA
+30,30,200307025,1999,"Tue, Mar 7",Seattle SuperSonics,Dallas Mavericks,"37-25, 19-9 Home","24-36, 11-21 Away",101,86,,,Final,,25,32,17,27,,18,20,26,22,,NBA
+31,31,200312025,1999,"Sun, Mar 12",Seattle SuperSonics,Toronto Raptors,"38-26, 20-10 Home","36-26, 16-15 Away",97,99,,,Final,,17,30,25,25,,31,19,28,21,,NBA
+32,32,200316025,1999,"Thu, Mar 16",Seattle SuperSonics,Vancouver Grizzlies,"40-26, 21-10 Home","18-47, 9-26 Away",117,103,,,Final,,40,24,24,29,,26,31,17,29,,NBA
+33,33,200321025,1999,"Tue, Mar 21",Seattle SuperSonics,Detroit Pistons,"40-28, 21-12 Home","34-32, 10-21 Away",90,100,,,Final,,28,23,18,21,,23,28,20,29,,NBA
+34,34,200327025,1999,"Mon, Mar 27",Seattle SuperSonics,San Antonio Spurs,"40-30, 21-14 Home","45-25, 18-17 Away",82,90,,,Final,,22,22,22,16,,18,24,19,29,,NBA
+35,35,200331025,1999,"Fri, Mar 31",Seattle SuperSonics,Sacramento Kings,"41-31, 22-15 Home","41-30, 13-23 Away",123,108,,,Final,,36,33,26,28,,22,27,30,29,,NBA
+36,36,200404025,1999,"Tue, Apr 4",Seattle SuperSonics,Denver Nuggets,"42-32, 23-15 Home","30-44, 8-30 Away",106,93,,,Final,,31,29,25,21,,24,27,25,17,,NBA
+37,37,200408007,1999,"Sat, Apr 8",Denver Nuggets,Seattle SuperSonics,"31-45, 23-15 Home","42-34, 19-18 Away",105,97,,,Final,,18,27,32,28,,30,18,26,23,,NBA
+38,38,200412025,1999,"Wed, Apr 12",Seattle SuperSonics,Minnesota Timberwolves,"43-35, 24-16 Home","48-30, 22-16 Away",110,83,,,Final,,27,27,20,36,,16,23,24,20,,NBA
+39,39,200416010,1999,"Sun, Apr 16",Houston Rockets,Seattle SuperSonics,"33-47, 22-18 Home","44-36, 20-20 Away",112,121,,,Final,,19,35,21,37,,38,22,28,33,,NBA
+40,40,191102012,1999,"Tue, Nov 2",Los Angeles Clippers,Seattle SuperSonics,"0-1, 0-1 Home","1-0, 1-0 Away",92,104,,,Final,,22,26,27,17,,25,37,26,16,,NBA
+41,41,191106025,1999,"Sat, Nov 6",Seattle SuperSonics,Utah Jazz,"3-0, 2-0 Home","1-2, 0-1 Away",99,94,,,Final,,23,21,30,25,,26,30,15,23,,NBA
+42,42,191110027,1999,"Wed, Nov 10",Washington Wizards,Seattle SuperSonics,"1-4, 1-2 Home","4-1, 2-1 Away",95,109,,,Final,,27,31,20,17,,35,30,24,20,,NBA
+43,43,191113008,1999,"Sat, Nov 13",Detroit Pistons,Seattle SuperSonics,"2-5, 1-2 Home","5-2, 3-2 Away",107,99,,,Final,,33,21,28,25,,30,22,23,24,,NBA
+44,44,191117025,1999,"Wed, Nov 17",Seattle SuperSonics,Golden State Warriors,"7-2, 3-0 Home","2-6, 1-3 Away",111,108,,,Final,,36,21,32,22,,32,26,25,25,,NBA
+45,45,191120025,1999,"Sat, Nov 20",Seattle SuperSonics,Houston Rockets,"9-2, 4-0 Home","2-9, 2-3 Away",110,107,,,Final,,28,24,26,32,,25,19,29,34,,NBA
+46,46,191126025,1999,"Fri, Nov 26",Seattle SuperSonics,Los Angeles Clippers,"10-3, 5-0 Home","4-8, 2-5 Away",98,93,,,Final,,27,20,33,18,,21,30,27,15,,NBA
+47,47,191130025,1999,"Tue, Nov 30",Seattle SuperSonics,Los Angeles Lakers,"11-4, 6-1 Home","11-4, 5-2 Away",77,101,,,Final,,23,16,20,18,,23,29,23,26,,NBA
+48,48,191204012,1999,"Sat, Dec 4",Los Angeles Clippers,Seattle SuperSonics,"4-12, 2-7 Home","13-4, 7-3 Away",89,102,,,Final,,31,22,16,20,,31,27,27,17,,NBA
+49,49,191208025,1999,"Wed, Dec 8",Seattle SuperSonics,Minnesota Timberwolves,"14-5, 7-2 Home","7-8, 1-4 Away",110,94,,,Final,,34,23,27,26,,28,24,17,25,,NBA
+50,50,191211025,1999,"Sat, Dec 11",Seattle SuperSonics,Miami Heat,"15-6, 8-2 Home","15-5, 7-4 Away",92,88,,,Final,,23,19,21,29,,18,20,19,31,,NBA
+51,51,191216025,1999,"Thu, Dec 16",Seattle SuperSonics,Portland Trail Blazers,"16-7, 9-3 Home","18-5, 11-3 Away",81,107,,,Final,,26,18,20,17,,28,21,30,28,,NBA
+52,52,191220004,1999,"Mon, Dec 20",Chicago Bulls,Seattle SuperSonics,"2-20, 2-7 Home","18-7, 8-4 Away",84,93,,,Final,,23,30,19,12,,30,27,14,22,,NBA
+53,53,191223016,1999,"Thu, Dec 23",Minnesota Timberwolves,Seattle SuperSonics,"11-13, 7-6 Home","18-9, 8-6 Away",109,102,,,Final,,26,26,27,30,,27,33,18,24,,NBA
+54,54,191228022,1999,"Tue, Dec 28",Portland Trail Blazers,Seattle SuperSonics,"21-7, 9-3 Home","18-11, 8-7 Away",94,89,,,Final,,27,24,20,23,,22,31,16,20,,NBA
+55,55,200104010,1999,"Tue, Jan 4",Houston Rockets,Seattle SuperSonics,"10-21, 6-10 Home","19-12, 9-7 Away",96,103,,,Final,,31,22,23,20,,34,20,28,21,,NBA
+56,56,200108025,1999,"Sat, Jan 8",Seattle SuperSonics,Los Angeles Lakers,"20-13, 10-6 Home","29-5, 12-3 Away",100,110,,,Final,,31,35,12,22,,28,21,34,27,,NBA
+57,57,200111025,1999,"Tue, Jan 11",Seattle SuperSonics,Phoenix Suns,"22-13, 11-6 Home","19-14, 4-10 Away",101,88,,,Final,,19,32,22,28,,25,20,17,26,,NBA
+58,58,200114025,1999,"Fri, Jan 14",Seattle SuperSonics,San Antonio Spurs,"24-13, 12-6 Home","24-14, 10-11 Away",91,85,,,Final,,32,17,24,18,,15,27,27,16,,NBA
+59,59,200118025,1999,"Tue, Jan 18",Seattle SuperSonics,Cleveland Cavaliers,"26-13, 13-6 Home","16-22, 4-14 Away",99,80,,,Final,,29,17,26,27,,15,25,27,13,,NBA
+60,60,200121002,1999,"Fri, Jan 21",Boston Celtics,Seattle SuperSonics,"19-20, 15-6 Home","27-14, 14-8 Away",111,86,,,Final,,28,33,25,25,,18,23,14,31,,NBA
+61,61,200124018,1999,"Mon, Jan 24",New York Knicks,Seattle SuperSonics,"25-15, 15-4 Home","27-16, 14-10 Away",112,106,,,Final,,28,28,22,34,,28,23,28,27,,NBA
+62,62,200129025,1999,"Sat, Jan 29",Seattle SuperSonics,Milwaukee Bucks,"28-17, 14-7 Home","24-20, 10-13 Away",99,101,,,Final,,26,31,27,15,,29,29,26,17,,NBA
+63,63,200202025,1999,"Wed, Feb 2",Seattle SuperSonics,Chicago Bulls,"29-18, 14-8 Home","9-34, 3-18 Away",81,88,,,Final,,25,15,22,19,,23,17,17,31,,NBA
+64,64,200206021,1999,"Sun, Feb 6",Phoenix Suns,Seattle SuperSonics,"27-19, 19-5 Home","30-19, 15-11 Away",105,93,,,Final,,20,26,31,28,,22,23,17,31,,NBA
+65,65,200209006,1999,"Wed, Feb 9",Dallas Mavericks,Seattle SuperSonics,"20-28, 11-12 Home","31-20, 16-12 Away",106,117,,,Final,,25,26,28,27,,36,23,28,30,,NBA
+66,66,200218023,1999,"Fri, Feb 18",Sacramento Kings,Seattle SuperSonics,"31-20, 20-4 Home","32-21, 16-13 Away",118,85,,,Final,,29,33,20,36,,23,21,20,21,,NBA
+67,67,200222025,1999,"Tue, Feb 22",Seattle SuperSonics,Orlando Magic,"34-21, 18-8 Home","25-28, 12-15 Away",127,91,,,Final,,25,37,37,28,,24,11,25,31,,NBA
+68,68,200228003,1999,"Mon, Feb 28",Charlotte Hornets,Seattle SuperSonics,"30-25, 22-7 Home","35-22, 17-13 Away",81,84,,,Final,,27,20,18,16,,21,21,22,20,,NBA
+69,69,200302014,1999,"Thu, Mar 2",Miami Heat,Seattle SuperSonics,"37-21, 22-6 Home","35-24, 17-15 Away",101,83,,,Final,,31,20,23,27,,13,28,25,17,,NBA
+70,70,200305016,1999,"Sun, Mar 5",Minnesota Timberwolves,Seattle SuperSonics,"35-24, 20-11 Home","36-25, 18-16 Away",105,100,,,Final/OT,,27,25,25,17,11.0,14,21,26,33,6.0,NBA
+71,71,200310025,1999,"Fri, Mar 10",Seattle SuperSonics,Golden State Warriors,"38-25, 20-9 Home","16-45, 6-24 Away",99,85,,,Final,,21,24,23,31,,30,13,20,22,,NBA
+72,72,200313029,1999,"Mon, Mar 13",Vancouver Grizzlies,Seattle SuperSonics,"18-46, 9-21 Home","39-26, 19-16 Away",103,113,,,Final,,28,30,22,23,,29,31,32,21,,NBA
+73,73,200318025,1999,"Sat, Mar 18",Seattle SuperSonics,Portland Trail Blazers,"40-27, 21-11 Home","50-16, 25-10 Away",96,97,,,Final,,19,39,17,21,,26,28,23,20,,NBA
+74,74,200324025,1999,"Fri, Mar 24",Seattle SuperSonics,Utah Jazz,"40-29, 21-13 Home","46-21, 20-13 Away",95,98,,,Final,,20,25,28,22,,26,16,23,33,,NBA
+75,75,200329025,1999,"Wed, Mar 29",Seattle SuperSonics,New York Knicks,"40-31, 21-15 Home","44-27, 15-19 Away",95,110,,,Final,,30,19,22,24,,30,29,25,26,,NBA
+76,76,200402022,1999,"Sun, Apr 2",Portland Trail Blazers,Seattle SuperSonics,"54-19, 28-9 Home","41-32, 19-17 Away",95,82,,,Final,,19,26,22,28,,18,25,18,21,,NBA
+77,77,200407025,1999,"Fri, Apr 7",Seattle SuperSonics,Houston Rockets,"42-33, 23-16 Home","30-46, 10-29 Away",116,119,,,Final,,32,28,30,26,,32,22,37,28,,NBA
+78,78,200410013,1999,"Mon, Apr 10",Los Angeles Lakers,Seattle SuperSonics,"65-13, 34-5 Home","42-35, 19-19 Away",106,103,,,Final/OT,,23,16,34,21,12.0,22,18,20,34,9.0,NBA
+79,79,200414006,1999,"Fri, Apr 14",Dallas Mavericks,Seattle SuperSonics,"37-42, 20-19 Home","43-36, 19-20 Away",117,103,,,Final,,35,38,32,12,,23,27,23,30,,NBA

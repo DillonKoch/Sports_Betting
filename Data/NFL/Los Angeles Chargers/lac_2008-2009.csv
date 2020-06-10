@@ -1,23 +1,23 @@
-ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
-280914007,2008,"September 14, 2008",Denver Broncos,San Diego Chargers,"2-0, 1-0 Home","0-2, 0-1 Away",39,38,NULL,NULL,Final,CBS,7,24,0,8,NULL,3,14,10,11,NULL,2,NFL
-280928013,2008,"September 28, 2008",Oakland Raiders,San Diego Chargers,"1-3, 0-2 Home","2-2, 1-1 Away",18,28,NULL,NULL,Final,CBS,5,10,0,3,NULL,0,0,3,25,NULL,4,NFL
-281012024,2008,"October 12, 2008",San Diego Chargers,New England Patriots,"3-3, 2-1 Home","3-2, 2-1 Away",30,10,NULL,NULL,Final,NBC,10,7,10,3,NULL,0,3,0,7,NULL,6,NFL
-281026018,2008,"October 26, 2008",New Orleans Saints,San Diego Chargers,"4-4, 4-1 Home","3-5, 1-4 Away",37,32,NULL,NULL,Final,CBS,3,20,7,7,NULL,3,14,3,12,NULL,8,NFL
-281109024,2008,"November 9, 2008",San Diego Chargers,Kansas City Chiefs,"4-5, 3-1 Home","1-8, 0-5 Away",20,19,NULL,NULL,Final,CBS,0,6,7,7,NULL,7,6,0,6,NULL,10,NFL
-281123024,2008,"November 23, 2008",San Diego Chargers,Indianapolis Colts,"4-7, 3-2 Home","7-4, 4-2 Away",20,23,NULL,NULL,Final,NBC,0,10,0,10,NULL,3,7,7,6,NULL,12,NFL
-281204024,2008,"December 4, 2008",San Diego Chargers,Oakland Raiders,"5-8, 4-3 Home","3-10, 2-5 Away",34,7,NULL,NULL,Final,NFL,10,17,0,7,NULL,0,7,0,0,NULL,14,NFL
-281221027,2008,"December 21, 2008",Tampa Bay Buccaneers,San Diego Chargers,"9-6, 6-1 Home","7-8, 3-5 Away",24,41,NULL,NULL,Final,CBS,7,3,14,0,NULL,7,13,0,21,NULL,16,NFL
-280816014,2008,"August 16, 2008",St. Louis Rams,San Diego Chargers,"1-1, 1-0 Home","1-1, 0-1 Away",7,6,NULL,NULL,Final,NULL,0,0,7,0,NULL,6,0,0,0,NULL,2,NFL
-290103024,2008,"January 3, 2009",San Diego Chargers,Indianapolis Colts,"8-8, 5-3 Home","12-4, 6-2 Away",23,17,NULL,NULL,Final/OT,NBC,0,14,0,3,6,7,3,7,0,0,WC,NFL
-280907024,2008,"September 7, 2008",San Diego Chargers,Carolina Panthers,"0-1, 0-1 Home","1-0, 1-0 Away",24,26,NULL,NULL,Final,FOX,0,7,3,14,NULL,0,9,7,10,NULL,1,NFL
-280922024,2008,"September 22, 2008",San Diego Chargers,New York Jets,"1-2, 1-1 Home","1-2, 1-1 Away",48,29,NULL,NULL,Final,ESPN,10,21,7,10,NULL,7,7,0,15,NULL,3,NFL
-281005015,2008,"October 5, 2008",Miami Dolphins,San Diego Chargers,"2-2, 1-1 Home","2-3, 1-2 Away",17,10,NULL,NULL,Final,CBS,3,14,0,0,NULL,3,0,7,0,NULL,5,NFL
-281019002,2008,"October 19, 2008",Buffalo Bills,San Diego Chargers,"5-1, 3-0 Home","3-4, 1-3 Away",23,14,NULL,NULL,Final,CBS,3,10,7,3,NULL,7,0,7,0,NULL,7,NFL
-281116023,2008,"November 16, 2008",Pittsburgh Steelers,San Diego Chargers,"7-3, 3-2 Home","4-6, 1-5 Away",11,10,NULL,NULL,Final,CBS,0,5,3,3,NULL,7,0,0,3,NULL,11,NFL
-281130024,2008,"November 30, 2008",San Diego Chargers,Atlanta Falcons,"4-8, 3-3 Home","8-4, 3-3 Away",16,22,NULL,NULL,Final,FOX,7,0,6,3,NULL,6,9,0,7,NULL,13,NFL
-281214012,2008,"December 14, 2008",Kansas City Chiefs,San Diego Chargers,"2-12, 1-6 Home","6-8, 2-5 Away",21,22,NULL,NULL,Final,CBS,7,7,7,0,NULL,0,3,7,12,NULL,15,NFL
-280809024,2008,"August 9, 2008",San Diego Chargers,Dallas Cowboys,"1-0, 1-0 Home","0-1, 0-1 Away",31,17,NULL,NULL,Final,NULL,7,17,7,0,NULL,7,3,7,0,NULL,1,NFL
-280825024,2008,"August 25, 2008",San Diego Chargers,Seattle Seahawks,"2-1, 2-0 Home","2-1, 1-1 Away",18,17,NULL,NULL,Final,ESPN,0,10,0,8,NULL,7,0,3,7,NULL,3,NFL
-290111023,2008,"January 11, 2009",Pittsburgh Steelers,San Diego Chargers,"12-4, 6-2 Home","8-8, 3-5 Away",35,24,NULL,NULL,Final,CBS,7,7,7,14,NULL,7,3,0,14,NULL,DIV,NFL
-280829025,2008,"August 29, 2008",San Francisco 49ers,San Diego Chargers,"2-2, 1-1 Home","3-1, 1-1 Away",17,20,NULL,NULL,Final,NULL,3,7,7,0,NULL,7,6,0,7,NULL,4,NFL
-281228024,2008,"December 28, 2008",San Diego Chargers,Denver Broncos,"8-8, 5-3 Home","8-8, 4-4 Away",52,21,NULL,NULL,Final,NBC,10,14,14,14,NULL,6,0,7,8,NULL,17,NFL
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
+0,280914007,2008,"September 14, 2008",Denver Broncos,San Diego Chargers,"2-0, 1-0 Home","0-2, 0-1 Away",39,38,,,Final,CBS,7,24,0,8,,3,14,10,11,,2,NFL
+1,280928013,2008,"September 28, 2008",Oakland Raiders,San Diego Chargers,"1-3, 0-2 Home","2-2, 1-1 Away",18,28,,,Final,CBS,5,10,0,3,,0,0,3,25,,4,NFL
+2,281012024,2008,"October 12, 2008",San Diego Chargers,New England Patriots,"3-3, 2-1 Home","3-2, 2-1 Away",30,10,,,Final,NBC,10,7,10,3,,0,3,0,7,,6,NFL
+3,281026018,2008,"October 26, 2008",New Orleans Saints,San Diego Chargers,"4-4, 4-1 Home","3-5, 1-4 Away",37,32,,,Final,CBS,3,20,7,7,,3,14,3,12,,8,NFL
+4,281109024,2008,"November 9, 2008",San Diego Chargers,Kansas City Chiefs,"4-5, 3-1 Home","1-8, 0-5 Away",20,19,,,Final,CBS,0,6,7,7,,7,6,0,6,,10,NFL
+5,281123024,2008,"November 23, 2008",San Diego Chargers,Indianapolis Colts,"4-7, 3-2 Home","7-4, 4-2 Away",20,23,,,Final,NBC,0,10,0,10,,3,7,7,6,,12,NFL
+6,281204024,2008,"December 4, 2008",San Diego Chargers,Oakland Raiders,"5-8, 4-3 Home","3-10, 2-5 Away",34,7,,,Final,NFL,10,17,0,7,,0,7,0,0,,14,NFL
+7,281221027,2008,"December 21, 2008",Tampa Bay Buccaneers,San Diego Chargers,"9-6, 6-1 Home","7-8, 3-5 Away",24,41,,,Final,CBS,7,3,14,0,,7,13,0,21,,16,NFL
+8,280816014,2008,"August 16, 2008",St. Louis Rams,San Diego Chargers,"1-1, 1-0 Home","1-1, 0-1 Away",7,6,,,Final,,0,0,7,0,,6,0,0,0,,2,NFL
+9,290103024,2008,"January 3, 2009",San Diego Chargers,Indianapolis Colts,"8-8, 5-3 Home","12-4, 6-2 Away",23,17,,,Final/OT,NBC,0,14,0,3,6.0,7,3,7,0,0.0,WC,NFL
+10,280907024,2008,"September 7, 2008",San Diego Chargers,Carolina Panthers,"0-1, 0-1 Home","1-0, 1-0 Away",24,26,,,Final,FOX,0,7,3,14,,0,9,7,10,,1,NFL
+11,280922024,2008,"September 22, 2008",San Diego Chargers,New York Jets,"1-2, 1-1 Home","1-2, 1-1 Away",48,29,,,Final,ESPN,10,21,7,10,,7,7,0,15,,3,NFL
+12,281005015,2008,"October 5, 2008",Miami Dolphins,San Diego Chargers,"2-2, 1-1 Home","2-3, 1-2 Away",17,10,,,Final,CBS,3,14,0,0,,3,0,7,0,,5,NFL
+13,281019002,2008,"October 19, 2008",Buffalo Bills,San Diego Chargers,"5-1, 3-0 Home","3-4, 1-3 Away",23,14,,,Final,CBS,3,10,7,3,,7,0,7,0,,7,NFL
+14,281116023,2008,"November 16, 2008",Pittsburgh Steelers,San Diego Chargers,"7-3, 3-2 Home","4-6, 1-5 Away",11,10,,,Final,CBS,0,5,3,3,,7,0,0,3,,11,NFL
+15,281130024,2008,"November 30, 2008",San Diego Chargers,Atlanta Falcons,"4-8, 3-3 Home","8-4, 3-3 Away",16,22,,,Final,FOX,7,0,6,3,,6,9,0,7,,13,NFL
+16,281214012,2008,"December 14, 2008",Kansas City Chiefs,San Diego Chargers,"2-12, 1-6 Home","6-8, 2-5 Away",21,22,,,Final,CBS,7,7,7,0,,0,3,7,12,,15,NFL
+17,280809024,2008,"August 9, 2008",San Diego Chargers,Dallas Cowboys,"1-0, 1-0 Home","0-1, 0-1 Away",31,17,,,Final,,7,17,7,0,,7,3,7,0,,1,NFL
+18,280825024,2008,"August 25, 2008",San Diego Chargers,Seattle Seahawks,"2-1, 2-0 Home","2-1, 1-1 Away",18,17,,,Final,ESPN,0,10,0,8,,7,0,3,7,,3,NFL
+19,290111023,2008,"January 11, 2009",Pittsburgh Steelers,San Diego Chargers,"12-4, 6-2 Home","8-8, 3-5 Away",35,24,,,Final,CBS,7,7,7,14,,7,3,0,14,,DIV,NFL
+20,280829025,2008,"August 29, 2008",San Francisco 49ers,San Diego Chargers,"2-2, 1-1 Home","3-1, 1-1 Away",17,20,,,Final,,3,7,7,0,,7,6,0,7,,4,NFL
+21,281228024,2008,"December 28, 2008",San Diego Chargers,Denver Broncos,"8-8, 5-3 Home","8-8, 4-4 Away",52,21,,,Final,NBC,10,14,14,14,,6,0,7,8,,17,NFL

@@ -1,22 +1,22 @@
-ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
-400554249,2014,"September 14, 2014",Carolina Panthers,Detroit Lions,"2-0, 1-0 Home","1-1, 0-1 Away",24,7,NULL,NULL,Final,FOX,0,6,7,11,NULL,0,0,7,0,NULL,2,NFL
-400554252,2014,"September 28, 2014",New York Jets,Detroit Lions,"1-3, 1-2 Home","3-1, 1-1 Away",17,24,NULL,NULL,Final,FOX,3,0,7,7,NULL,3,14,0,7,NULL,4,NFL
-400554255,2014,"October 12, 2014",Minnesota Vikings,Detroit Lions,"2-4, 1-2 Home","4-2, 2-1 Away",3,17,NULL,NULL,Final,FOX,0,0,0,3,NULL,7,3,0,7,NULL,6,NFL
-400554224,2014,"October 26, 2014",Atlanta Falcons,Detroit Lions,2-6,6-2,21,22,NULL,NULL,Final,FOX,14,7,0,0,NULL,0,0,10,12,NULL,8,NFL
-400554355,2014,"November 9, 2014",Detroit Lions,Miami Dolphins,"7-2, 4-1 Home","5-4, 3-2 Away",20,16,NULL,NULL,Final,CBS,10,0,0,10,NULL,0,3,10,3,NULL,10,NFL
-400554322,2014,"November 23, 2014",New England Patriots,Detroit Lions,"9-2, 6-0 Home","7-4, 3-3 Away",34,9,NULL,NULL,Final,FOX,7,17,3,7,NULL,3,3,0,3,NULL,12,NFL
-400554424,2014,"December 7, 2014",Detroit Lions,Tampa Bay Buccaneers,"9-4, 6-1 Home","2-11, 2-5 Away",34,17,NULL,NULL,Final,FOX,7,10,10,7,NULL,0,10,0,7,NULL,14,NFL
-400554401,2014,"December 21, 2014",Chicago Bears,Detroit Lions,"5-10, 2-6 Home","11-4, 4-3 Away",14,20,NULL,NULL,Final,FOX,0,7,7,0,NULL,7,0,3,10,NULL,16,NFL
-400554717,2014,"August 15, 2014",Oakland Raiders,Detroit Lions,"1-1, 1-0 Home","1-1, 0-1 Away",27,26,NULL,NULL,Final,NULL,0,10,7,10,NULL,13,3,7,3,NULL,2,NFL
-400554296,2014,"September 8, 2014",Detroit Lions,New York Giants,"1-0, 1-0 Home","0-1, 0-1 Away",35,14,NULL,NULL,Final,ESPN,14,0,13,8,NULL,0,7,0,7,NULL,1,NFL
-400554244,2014,"September 21, 2014",Detroit Lions,Green Bay Packers,"2-1, 2-0 Home","1-2, 0-2 Away",19,7,NULL,NULL,Final,FOX,7,5,0,7,NULL,7,0,0,0,NULL,3,NFL
-400554236,2014,"October 5, 2014",Detroit Lions,Buffalo Bills,"3-2, 2-1 Home","3-2, 2-1 Away",14,17,NULL,NULL,Final,FOX,7,7,0,0,NULL,0,3,3,11,NULL,5,NFL
-400554271,2014,"October 19, 2014",Detroit Lions,New Orleans Saints,"5-2, 3-1 Home","2-4, 0-4 Away",24,23,NULL,NULL,Final,FOX,0,3,7,14,NULL,0,10,7,6,NULL,7,NFL
-400554414,2014,"November 16, 2014",Arizona Cardinals,Detroit Lions,"9-1, 6-0 Home","7-3, 3-2 Away",14,6,NULL,NULL,Final,FOX,14,0,0,0,NULL,3,3,0,0,NULL,11,NFL
-400554281,2014,"November 27, 2014",Detroit Lions,Chicago Bears,"8-4, 5-1 Home","5-7, 3-4 Away",34,17,NULL,NULL,Final,CBS,3,21,0,10,NULL,14,0,3,0,NULL,13,NFL
-400554415,2014,"December 14, 2014",Detroit Lions,Minnesota Vikings,"10-4, 7-1 Home","6-8, 2-5 Away",16,14,NULL,NULL,Final,FOX,0,10,3,3,NULL,7,7,0,0,NULL,15,NFL
-400554691,2014,"August 9, 2014",Detroit Lions,Cleveland Browns,"1-0, 1-0 Home","0-1, 0-1 Away",13,12,NULL,NULL,Final,NFL,3,3,0,7,NULL,3,3,3,3,NULL,1,NFL
-400554705,2014,"August 22, 2014",Detroit Lions,Jacksonville Jaguars,"2-1, 2-0 Home","1-2, 0-2 Away",13,12,NULL,NULL,Final,NULL,7,0,0,6,NULL,3,3,6,0,NULL,3,NFL
-400552058,2014,"August 28, 2014",Buffalo Bills,Detroit Lions,"1-4, 0-3 Home","3-1, 1-1 Away",0,23,NULL,NULL,Final,NULL,0,0,0,0,NULL,0,17,3,3,NULL,4,NFL
-400749514,2014,"January 4, 2015",Dallas Cowboys,Detroit Lions,"12-4, 4-4 Home","11-5, 4-4 Away",24,20,NULL,NULL,Final,FOX,0,7,7,10,NULL,14,3,3,0,NULL,WC,NFL
-400554411,2014,"December 28, 2014",Green Bay Packers,Detroit Lions,"12-4, 8-0 Home","11-5, 4-4 Away",30,20,NULL,NULL,Final,FOX,7,7,7,9,NULL,0,7,7,6,NULL,17,NFL
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
+0,400554249,2014,"September 14, 2014",Carolina Panthers,Detroit Lions,"2-0, 1-0 Home","1-1, 0-1 Away",24,7,,,Final,FOX,0,6,7,11,,0,0,7,0,,2,NFL
+1,400554252,2014,"September 28, 2014",New York Jets,Detroit Lions,"1-3, 1-2 Home","3-1, 1-1 Away",17,24,,,Final,FOX,3,0,7,7,,3,14,0,7,,4,NFL
+2,400554255,2014,"October 12, 2014",Minnesota Vikings,Detroit Lions,"2-4, 1-2 Home","4-2, 2-1 Away",3,17,,,Final,FOX,0,0,0,3,,7,3,0,7,,6,NFL
+3,400554224,2014,"October 26, 2014",Atlanta Falcons,Detroit Lions,2-6,6-2,21,22,,,Final,FOX,14,7,0,0,,0,0,10,12,,8,NFL
+4,400554355,2014,"November 9, 2014",Detroit Lions,Miami Dolphins,"7-2, 4-1 Home","5-4, 3-2 Away",20,16,,,Final,CBS,10,0,0,10,,0,3,10,3,,10,NFL
+5,400554322,2014,"November 23, 2014",New England Patriots,Detroit Lions,"9-2, 6-0 Home","7-4, 3-3 Away",34,9,,,Final,FOX,7,17,3,7,,3,3,0,3,,12,NFL
+6,400554424,2014,"December 7, 2014",Detroit Lions,Tampa Bay Buccaneers,"9-4, 6-1 Home","2-11, 2-5 Away",34,17,,,Final,FOX,7,10,10,7,,0,10,0,7,,14,NFL
+7,400554401,2014,"December 21, 2014",Chicago Bears,Detroit Lions,"5-10, 2-6 Home","11-4, 4-3 Away",14,20,,,Final,FOX,0,7,7,0,,7,0,3,10,,16,NFL
+8,400554717,2014,"August 15, 2014",Oakland Raiders,Detroit Lions,"1-1, 1-0 Home","1-1, 0-1 Away",27,26,,,Final,,0,10,7,10,,13,3,7,3,,2,NFL
+9,400554296,2014,"September 8, 2014",Detroit Lions,New York Giants,"1-0, 1-0 Home","0-1, 0-1 Away",35,14,,,Final,ESPN,14,0,13,8,,0,7,0,7,,1,NFL
+10,400554244,2014,"September 21, 2014",Detroit Lions,Green Bay Packers,"2-1, 2-0 Home","1-2, 0-2 Away",19,7,,,Final,FOX,7,5,0,7,,7,0,0,0,,3,NFL
+11,400554236,2014,"October 5, 2014",Detroit Lions,Buffalo Bills,"3-2, 2-1 Home","3-2, 2-1 Away",14,17,,,Final,FOX,7,7,0,0,,0,3,3,11,,5,NFL
+12,400554271,2014,"October 19, 2014",Detroit Lions,New Orleans Saints,"5-2, 3-1 Home","2-4, 0-4 Away",24,23,,,Final,FOX,0,3,7,14,,0,10,7,6,,7,NFL
+13,400554414,2014,"November 16, 2014",Arizona Cardinals,Detroit Lions,"9-1, 6-0 Home","7-3, 3-2 Away",14,6,,,Final,FOX,14,0,0,0,,3,3,0,0,,11,NFL
+14,400554281,2014,"November 27, 2014",Detroit Lions,Chicago Bears,"8-4, 5-1 Home","5-7, 3-4 Away",34,17,,,Final,CBS,3,21,0,10,,14,0,3,0,,13,NFL
+15,400554415,2014,"December 14, 2014",Detroit Lions,Minnesota Vikings,"10-4, 7-1 Home","6-8, 2-5 Away",16,14,,,Final,FOX,0,10,3,3,,7,7,0,0,,15,NFL
+16,400554691,2014,"August 9, 2014",Detroit Lions,Cleveland Browns,"1-0, 1-0 Home","0-1, 0-1 Away",13,12,,,Final,NFL,3,3,0,7,,3,3,3,3,,1,NFL
+17,400554705,2014,"August 22, 2014",Detroit Lions,Jacksonville Jaguars,"2-1, 2-0 Home","1-2, 0-2 Away",13,12,,,Final,,7,0,0,6,,3,3,6,0,,3,NFL
+18,400552058,2014,"August 28, 2014",Buffalo Bills,Detroit Lions,"1-4, 0-3 Home","3-1, 1-1 Away",0,23,,,Final,,0,0,0,0,,0,17,3,3,,4,NFL
+19,400749514,2014,"January 4, 2015",Dallas Cowboys,Detroit Lions,"12-4, 4-4 Home","11-5, 4-4 Away",24,20,,,Final,FOX,0,7,7,10,,14,3,3,0,,WC,NFL
+20,400554411,2014,"December 28, 2014",Green Bay Packers,Detroit Lions,"12-4, 8-0 Home","11-5, 4-4 Away",30,20,,,Final,FOX,7,7,7,9,,0,7,7,6,,17,NFL

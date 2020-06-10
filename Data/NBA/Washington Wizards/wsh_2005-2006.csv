@@ -1,0 +1,83 @@
+,Unnamed: 0,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,0,251104018,2005,"Fri, Nov 4",New York Knicks,Washington Wizards,"0-2, 0-1 Home","2-0, 2-0 Away",75,86,,,Final,,16,19,26,14,,32,11,18,25,,NBA
+1,1,251109027,2005,"Wed, Nov 9",Washington Wizards,LA Clippers,"3-1, 1-1 Home","4-1, 2-1 Away",97,102,,,Final,,25,29,20,23,,28,26,19,29,,NBA
+2,2,251112027,2005,"Sat, Nov 12",Washington Wizards,San Antonio Spurs,"5-1, 3-1 Home","5-2, 3-2 Away",110,95,,,Final,,24,28,33,25,,27,26,25,17,,NBA
+3,3,251117016,2005,"Thu, Nov 17",Minnesota Timberwolves,Washington Wizards,"4-4, 4-1 Home","5-3, 2-2 Away",109,98,,,Final,,26,31,22,30,,26,21,31,20,,NBA
+4,4,251122027,2005,"Tue, Nov 22",Washington Wizards,Denver Nuggets,"5-5, 3-2 Home","7-5, 2-4 Away",105,108,,,Final,,21,30,26,28,,27,28,19,34,,NBA
+5,5,251125008,2005,"Fri, Nov 25",Detroit Pistons,Washington Wizards,"9-2, 4-1 Home","6-6, 3-4 Away",114,120,,,Final/2OT,,13,30,30,22,19.0,26,22,26,21,25.0,NBA
+6,6,251130027,2005,"Wed, Nov 30",Washington Wizards,Portland Trail Blazers,"7-7, 4-2 Home","5-9, 2-7 Away",96,89,,,Final,,23,30,22,21,,28,23,25,13,,NBA
+7,7,251206027,2005,"Tue, Dec 6",Washington Wizards,Toronto Raptors,"8-8, 5-3 Home","3-16, 2-8 Away",119,111,,,Final/OT,,35,24,24,22,14.0,32,29,18,26,6.0,NBA
+8,8,251210027,2005,"Sat, Dec 10",Washington Wizards,Chicago Bulls,"8-10, 5-4 Home","10-9, 6-5 Away",111,118,,,Final,,27,20,37,27,,22,34,28,34,,NBA
+9,9,251213027,2005,"Tue, Dec 13",Washington Wizards,New Jersey Nets,"9-11, 6-4 Home","9-11, 5-6 Away",94,74,,,Final,,29,13,31,21,,14,21,17,22,,NBA
+10,10,251218022,2005,"Sun, Dec 18",Portland Trail Blazers,Washington Wizards,"7-16, 5-7 Home","9-13, 3-9 Away",97,92,,,Final,,19,29,22,27,,19,21,18,34,,NBA
+11,11,251221007,2005,"Wed, Dec 21",Denver Nuggets,Washington Wizards,"12-14, 8-4 Home","10-14, 4-10 Away",110,116,,,Final,,25,29,23,33,,27,25,32,32,,NBA
+12,12,251226027,2005,"Mon, Dec 26",Washington Wizards,Los Angeles Lakers,"12-14, 7-4 Home","15-13, 9-7 Away",94,91,,,Final,,20,23,29,22,,29,23,14,25,,NBA
+13,13,251230027,2005,"Fri, Dec 30",Washington Wizards,Miami Heat,"12-16, 7-6 Home","18-13, 7-9 Away",113,128,,,Final,,28,27,38,20,,34,27,30,37,,NBA
+14,14,260106018,2005,"Fri, Jan 6",New York Knicks,Washington Wizards,"9-21, 6-8 Home","12-18, 5-11 Away",113,92,,,Final,,25,27,28,33,,30,21,17,24,,NBA
+15,15,260109027,2005,"Mon, Jan 9",Washington Wizards,Utah Jazz,"13-19, 8-8 Home","18-17, 10-9 Away",89,97,,,Final,,18,15,20,36,,24,23,22,28,,NBA
+16,16,260113011,2005,"Fri, Jan 13",Indiana Pacers,Washington Wizards,"19-15, 11-5 Home","15-19, 6-11 Away",85,94,,,Final,,18,21,24,22,,16,24,25,29,,NBA
+17,17,260116027,2005,"Mon, Jan 16",Washington Wizards,Philadelphia 76ers,"17-19, 10-8 Home","18-19, 6-13 Away",104,76,,,Final,CSN,31,16,35,22,,24,21,17,14,,NBA
+18,18,260120027,2005,"Fri, Jan 20",Washington Wizards,NO/Oklahoma City Hornets,"18-20, 11-8 Home","19-20, 7-13 Away",110,99,,,Final,,32,26,26,26,,21,33,20,25,,NBA
+19,19,260125002,2005,"Wed, Jan 25",Boston Celtics,Washington Wizards,"17-25, 13-9 Home","19-21, 8-12 Away",87,89,,,Final,,29,10,23,25,,19,18,23,29,,NBA
+20,20,260128027,2005,"Sat, Jan 28",Washington Wizards,Charlotte Bobcats,"20-22, 12-9 Home","11-34, 4-21 Away",107,97,,,Final,,31,26,25,25,,30,22,21,24,,NBA
+21,21,260201028,2005,"Wed, Feb 1",Toronto Raptors,Washington Wizards,"16-30, 8-14 Home","21-23, 8-14 Away",117,112,,,Final,,25,25,31,36,,22,26,21,43,,NBA
+22,22,260206027,2005,"Mon, Feb 6",Washington Wizards,Orlando Magic,"23-23, 15-9 Home","19-27, 6-16 Away",94,82,,,Final,,27,23,18,26,,15,24,23,20,,NBA
+23,23,260210027,2005,"Fri, Feb 10",Washington Wizards,Cleveland Cavaliers,"25-23, 17-9 Home","29-20, 11-14 Away",101,89,,,Final,,28,21,25,27,,32,19,20,18,,NBA
+24,24,260213003,2005,"Mon, Feb 13",NO/Oklahoma City Hornets,Washington Wizards,"28-23, 18-8 Home","26-24, 8-15 Away",97,96,,,Final,,18,18,35,26,,30,23,21,22,,NBA
+25,25,260221027,2005,"Tue, Feb 21",Washington Wizards,Minnesota Timberwolves,"27-25, 19-9 Home","23-30, 8-18 Away",90,78,,,Final,,15,31,24,20,,32,9,22,15,,NBA
+26,26,260225027,2005,"Sat, Feb 25",Washington Wizards,New York Knicks,"29-25, 20-9 Home","15-40, 4-23 Away",110,89,,,Final,,38,33,22,17,,27,18,21,23,,NBA
+27,27,260301027,2005,"Wed, Mar 1",Washington Wizards,Indiana Pacers,"29-27, 20-10 Home","29-25, 11-16 Away",93,99,,,Final,,30,23,19,21,,22,22,22,33,,NBA
+28,28,260305027,2005,"Sun, Mar 5",Washington Wizards,Sacramento Kings,"30-28, 21-10 Home","28-31, 9-20 Away",117,107,,,Final,,33,25,28,31,,28,18,31,30,,NBA
+29,29,260308014,2005,"Wed, Mar 8",Miami Heat,Washington Wizards,"40-20, 23-6 Home","30-30, 9-19 Away",118,112,,,Final,,26,26,34,32,,22,35,34,21,,NBA
+30,30,260314030,2005,"Tue, Mar 14",Charlotte Bobcats,Washington Wizards,"18-47, 12-20 Home","32-30, 10-19 Away",114,119,,,Final,,24,25,34,31,,26,33,31,29,,NBA
+31,31,260317027,2005,"Fri, Mar 17",Washington Wizards,Dallas Mavericks,"33-31, 23-12 Home","52-14, 23-9 Away",94,104,,,Final,,24,26,19,25,,27,25,29,23,,NBA
+32,32,260321027,2005,"Tue, Mar 21",Washington Wizards,New Jersey Nets,"34-32, 24-13 Home","38-28, 16-19 Away",100,112,,,Final,,22,23,25,30,,27,20,24,41,,NBA
+33,33,260325012,2005,"Sat, Mar 25",LA Clippers,Washington Wizards,"40-28, 24-10 Home","35-33, 11-20 Away",116,101,,,Final,,32,31,31,22,,20,27,24,30,,NBA
+34,34,260328023,2005,"Tue, Mar 28",Sacramento Kings,Washington Wizards,"35-36, 23-13 Home","37-33, 13-20 Away",84,97,,,Final,,20,31,14,19,,27,25,24,21,,NBA
+35,35,260401024,2005,"Sat, Apr 1",San Antonio Spurs,Washington Wizards,"57-16, 31-4 Home","37-35, 13-22 Away",106,99,,,Final,,19,21,27,39,,17,16,39,27,,NBA
+36,36,260405002,2005,"Wed, Apr 5",Boston Celtics,Washington Wizards,"31-44, 20-17 Home","39-35, 14-22 Away",91,108,,,Final,,26,24,28,13,,32,22,25,29,,NBA
+37,37,260408027,2005,"Sat, Apr 8",Washington Wizards,Miami Heat,"39-37, 25-14 Home","50-26, 21-18 Away",86,99,,,Final,,29,22,12,23,,19,37,19,24,,NBA
+38,38,260412015,2005,"Wed, Apr 12",Milwaukee Bucks,Washington Wizards,"38-40, 24-15 Home","39-39, 14-25 Away",100,97,,,Final,,24,23,25,28,,23,22,23,29,,NBA
+39,39,260416027,2005,"Sun, Apr 16",Washington Wizards,Cleveland Cavaliers,"40-40, 26-14 Home","48-32, 18-22 Away",104,92,,,Final,,25,28,35,16,,17,24,21,30,,NBA
+40,40,251102028,2005,"Wed, Nov 2",Toronto Raptors,Washington Wizards,"0-1, 0-1 Home","1-0, 1-0 Away",96,99,,,Final,,24,33,25,14,,29,25,25,20,,NBA
+41,41,251105027,2005,"Sat, Nov 5",Washington Wizards,Orlando Magic,"3-0, 1-0 Home","0-3, 0-1 Away",87,79,,,Final,,22,18,25,22,,22,20,19,18,,NBA
+42,42,251111027,2005,"Fri, Nov 11",Washington Wizards,Seattle SuperSonics,"4-1, 2-1 Home","1-4, 0-3 Away",137,96,,,Final,,29,42,35,31,,25,24,24,23,,NBA
+43,43,251115005,2005,"Tue, Nov 15",Cleveland Cavaliers,Washington Wizards,"6-2, 4-0 Home","5-2, 2-1 Away",114,99,,,Final,,18,29,35,32,,22,22,26,29,,NBA
+44,44,251119017,2005,"Sat, Nov 19",New Jersey Nets,Washington Wizards,"5-4, 4-2 Home","5-4, 2-3 Away",89,83,,,Final,,19,27,23,20,,27,12,21,23,,NBA
+45,45,251123019,2005,"Wed, Nov 23",Orlando Magic,Washington Wizards,"4-6, 2-4 Home","5-6, 2-4 Away",91,83,,,Final,,22,22,24,23,,13,18,27,25,,NBA
+46,46,251126030,2005,"Sat, Nov 26",Charlotte Bobcats,Washington Wizards,"5-9, 4-3 Home","6-7, 3-5 Away",100,82,,,Final,,28,17,24,31,,20,21,20,21,,NBA
+47,47,251202027,2005,"Fri, Dec 2",Washington Wizards,Milwaukee Bucks,"7-8, 4-3 Home","8-6, 4-4 Away",102,105,,,Final,,27,29,17,29,,33,22,22,28,,NBA
+48,48,251208011,2005,"Thu, Dec 8",Indiana Pacers,Washington Wizards,"11-7, 6-3 Home","8-9, 3-6 Away",111,87,,,Final,,18,32,37,24,,30,21,20,16,,NBA
+49,49,251211014,2005,"Sun, Dec 11",Miami Heat,Washington Wizards,"11-10, 8-3 Home","8-11, 3-7 Away",104,101,,,Final/OT,,21,21,35,18,9.0,18,30,24,23,6.0,NBA
+50,50,251216013,2005,"Fri, Dec 16",Los Angeles Lakers,Washington Wizards,"13-10, 5-5 Home","9-12, 3-8 Away",97,91,,,Final,,19,23,28,27,,22,25,19,25,,NBA
+51,51,251219025,2005,"Mon, Dec 19",Seattle SuperSonics,Washington Wizards,"11-12, 7-7 Home","9-14, 3-10 Away",111,101,,,Final,,31,28,22,30,,21,26,27,27,,NBA
+52,52,251223021,2005,"Fri, Dec 23",Phoenix Suns,Washington Wizards,"15-10, 10-6 Home","11-14, 5-10 Away",111,112,,,Final,,31,24,30,26,,33,24,30,25,,NBA
+53,53,251228027,2005,"Wed, Dec 28",Washington Wizards,Phoenix Suns,"12-15, 7-5 Home","17-10, 7-4 Away",99,104,,,Final,,24,26,26,23,,28,22,28,26,,NBA
+54,54,260103027,2005,"Tue, Jan 3",Washington Wizards,Houston Rockets,"12-17, 7-7 Home","11-18, 8-9 Away",111,123,,,Final,,21,25,24,41,,27,30,32,34,,NBA
+55,55,260107027,2005,"Sat, Jan 7",Washington Wizards,Boston Celtics,"13-18, 8-7 Home","13-20, 3-13 Away",103,102,,,Final,,26,19,37,21,,28,23,25,26,,NBA
+56,56,260111027,2005,"Wed, Jan 11",Washington Wizards,Atlanta Hawks,"14-19, 9-8 Home","9-24, 3-15 Away",103,72,,,Final,,26,25,21,31,,15,21,17,19,,NBA
+57,57,260114001,2005,"Sat, Jan 14",Atlanta Hawks,Washington Wizards,"9-26, 6-10 Home","16-19, 7-11 Away",106,114,,,Final/OT,,17,23,35,24,7.0,20,21,35,23,15.0,NBA
+58,58,260118019,2005,"Wed, Jan 18",Orlando Magic,Washington Wizards,"14-22, 10-9 Home","17-20, 7-12 Away",106,98,,,Final,,23,21,29,33,,27,24,18,29,,NBA
+59,59,260122027,2005,"Sun, Jan 22",Washington Wizards,Memphis Grizzlies,"18-21, 11-9 Home","24-15, 11-9 Away",82,93,,,Final,,27,17,20,18,,19,22,30,22,,NBA
+60,60,260127004,2005,"Fri, Jan 27",Chicago Bulls,Washington Wizards,"19-23, 9-13 Home","19-22, 8-13 Away",90,79,,,Final,,28,19,20,23,,16,26,15,22,,NBA
+61,61,260131027,2005,"Tue, Jan 31",Washington Wizards,Indiana Pacers,"21-22, 13-9 Home","21-22, 9-15 Away",84,79,,,Final,,22,26,15,21,,14,27,13,25,,NBA
+62,62,260204027,2005,"Sat, Feb 4",Washington Wizards,Atlanta Hawks,"22-23, 14-9 Home","14-32, 4-18 Away",98,85,,,Final,,24,22,32,20,,15,18,38,14,,NBA
+63,63,260208027,2005,"Wed, Feb 8",Washington Wizards,Golden State Warriors,"24-23, 16-9 Home","22-26, 8-13 Away",129,124,,,Final,,32,30,29,38,,35,27,26,36,,NBA
+64,64,260212027,2005,"Sun, Feb 12",Washington Wizards,Philadelphia 76ers,"26-23, 18-9 Home","24-26, 9-15 Away",107,97,,,Final,,22,30,32,23,,24,22,19,32,,NBA
+65,65,260215006,2005,"Wed, Feb 15",Dallas Mavericks,Washington Wizards,"41-11, 22-4 Home","26-25, 8-16 Away",103,97,,,Final,,29,27,20,27,,29,20,23,25,,NBA
+66,66,260224005,2005,"Fri, Feb 24",Cleveland Cavaliers,Washington Wizards,"32-23, 20-8 Home","28-25, 9-16 Away",94,102,,,Final,,22,32,18,22,,31,20,25,26,,NBA
+67,67,260227029,2005,"Mon, Feb 27",Memphis Grizzlies,Washington Wizards,"31-26, 18-9 Home","29-26, 9-17 Away",108,98,,,Final,,23,18,38,29,,32,20,22,24,,NBA
+68,68,260303020,2005,"Fri, Mar 3",Philadelphia 76ers,Washington Wizards,"30-28, 19-11 Home","29-28, 9-18 Away",119,113,,,Final,CSN,29,28,31,31,,23,31,32,27,,NBA
+69,69,260307027,2005,"Tue, Mar 7",Washington Wizards,Boston Celtics,"30-29, 21-11 Home","25-35, 8-22 Away",115,116,,,Final/OT,,25,29,36,14,11.0,26,31,23,24,12.0,NBA
+70,70,260311027,2005,"Sat, Mar 11",Washington Wizards,Detroit Pistons,"31-30, 22-11 Home","49-12, 22-10 Away",110,92,,,Final,,28,31,33,18,,28,25,23,16,,NBA
+71,71,260315027,2005,"Wed, Mar 15",Washington Wizards,Charlotte Bobcats,"33-30, 23-11 Home","18-48, 6-28 Away",107,99,,,Final,,27,23,30,27,,11,31,30,27,,NBA
+72,72,260319027,2005,"Sun, Mar 19",Washington Wizards,Chicago Bulls,"34-31, 24-12 Home","29-38, 14-20 Away",113,104,,,Final,,29,31,29,24,,19,21,32,32,,NBA
+73,73,260323026,2005,"Thu, Mar 23",Utah Jazz,Washington Wizards,"32-36, 17-17 Home","35-32, 11-19 Away",97,109,,,Final,,23,18,26,30,,24,26,28,31,,NBA
+74,74,260327009,2005,"Mon, Mar 27",Golden State Warriors,Washington Wizards,"30-39, 18-17 Home","36-33, 12-20 Away",98,116,,,Final,,20,19,30,29,,27,28,25,36,,NBA
+75,75,260331010,2005,"Fri, Mar 31",Houston Rockets,Washington Wizards,"32-40, 15-23 Home","37-34, 13-21 Away",105,103,,,Final,,30,32,21,22,,28,22,24,29,,NBA
+76,76,260404027,2005,"Tue, Apr 4",Washington Wizards,New York Knicks,"38-35, 25-13 Home","19-54, 6-30 Away",105,90,,,Final,,30,31,24,20,,19,20,24,27,,NBA
+77,77,260407001,2005,"Fri, Apr 7",Atlanta Hawks,Washington Wizards,"24-51, 17-21 Home","39-36, 14-23 Away",114,101,,,Final,,28,27,25,34,,32,21,22,26,,NBA
+78,78,260410020,2005,"Mon, Apr 10",Philadelphia 76ers,Washington Wizards,"36-41, 22-18 Home","39-38, 14-24 Away",105,97,,,Final,CSN,27,23,27,28,,19,35,24,19,,NBA
+79,79,260414004,2005,"Fri, Apr 14",Chicago Bulls,Washington Wizards,"38-41, 20-20 Home","39-40, 14-26 Away",103,101,,,Final,,26,22,27,28,,28,28,23,22,,NBA
+80,80,260418027,2005,"Tue, Apr 18",Washington Wizards,Milwaukee Bucks,"41-40, 27-14 Home","40-42, 15-26 Away",116,103,,,Final,,20,34,33,29,,23,20,39,21,,NBA
+81,81,260419008,2005,"Wed, Apr 19",Detroit Pistons,Washington Wizards,"64-18, 37-4 Home","42-40, 15-26 Away",80,96,,,Final,,24,17,21,18,,19,30,23,24,,NBA

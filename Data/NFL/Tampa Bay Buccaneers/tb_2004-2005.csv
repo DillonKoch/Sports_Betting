@@ -1,21 +1,21 @@
-ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
-240919027,2004,"September 19, 2004",Tampa Bay Buccaneers,Seattle Seahawks,"0-2, 0-1 Home","2-0, 2-0 Away",6,10,NULL,NULL,Final,NULL,0,3,0,3,NULL,3,7,0,0,NULL,2,NFL
-241003027,2004,"October 3, 2004",Tampa Bay Buccaneers,Denver Broncos,"0-4, 0-2 Home","3-1, 1-1 Away",13,16,NULL,NULL,Final,NULL,0,10,3,0,NULL,7,6,0,3,NULL,4,NFL
-241018014,2004,"October 18, 2004",St. Louis Rams,Tampa Bay Buccaneers,"4-2, 2-1 Home","1-5, 1-3 Away",28,21,NULL,NULL,Final,NULL,7,7,7,7,NULL,7,7,7,0,NULL,6,NFL
-241114001,2004,"November 14, 2004",Atlanta Falcons,Tampa Bay Buccaneers,"7-2, 4-1 Home","3-6, 1-4 Away",24,14,NULL,NULL,Final,NULL,10,7,0,7,NULL,0,7,7,0,NULL,10,NFL
-241128029,2004,"November 28, 2004",Carolina Panthers,Tampa Bay Buccaneers,"4-7, 2-4 Home","4-7, 1-5 Away",21,14,NULL,NULL,Final,NULL,7,0,7,7,NULL,0,7,0,7,NULL,12,NFL
-241212024,2004,"December 12, 2004",San Diego Chargers,Tampa Bay Buccaneers,"10-3, 6-1 Home","5-8, 1-6 Away",31,24,NULL,NULL,Final,NULL,0,14,7,10,NULL,0,7,7,10,NULL,14,NFL
-241226027,2004,"December 26, 2004",Tampa Bay Buccaneers,Carolina Panthers,"5-10, 4-4 Home","7-8, 4-4 Away",20,37,NULL,NULL,Final,NULL,7,0,7,6,NULL,7,10,7,13,NULL,16,NFL
-240816027,2004,"August 16, 2004",Tampa Bay Buccaneers,Cincinnati Bengals,"1-0, 1-0 Home","0-1, 0-1 Away",20,6,NULL,NULL,Final,NULL,3,10,0,7,NULL,3,3,0,0,NULL,HOF,NFL
-240828027,2004,"August 28, 2004",Tampa Bay Buccaneers,Miami Dolphins,"2-1, 2-0 Home","1-2, 0-1 Away",17,10,NULL,NULL,Final,NULL,0,3,7,7,NULL,0,3,7,0,NULL,2,NFL
-240912028,2004,"September 12, 2004",Washington Redskins,Tampa Bay Buccaneers,"1-0, 1-0 Home","0-1, 0-1 Away",16,10,NULL,NULL,Final,NULL,7,3,0,6,NULL,0,3,7,0,NULL,1,NFL
-240926013,2004,"September 26, 2004",Oakland Raiders,Tampa Bay Buccaneers,"2-1, 2-0 Home","0-3, 0-2 Away",30,20,NULL,NULL,Final,NULL,3,10,17,0,NULL,3,3,0,14,NULL,3,NFL
-241010018,2004,"October 10, 2004",New Orleans Saints,Tampa Bay Buccaneers,"2-3, 1-2 Home","1-4, 1-2 Away",17,20,NULL,NULL,Final,NULL,0,7,7,3,NULL,3,10,7,0,NULL,5,NFL
-241024027,2004,"October 24, 2004",Tampa Bay Buccaneers,Chicago Bears,"2-5, 1-2 Home","1-5, 1-2 Away",19,7,NULL,NULL,Final,NULL,0,10,3,6,NULL,0,0,7,0,NULL,7,NFL
-241107027,2004,"November 7, 2004",Tampa Bay Buccaneers,Kansas City Chiefs,"3-5, 2-2 Home","3-5, 1-3 Away",34,31,NULL,NULL,Final,NULL,7,14,7,6,NULL,7,17,7,0,NULL,9,NFL
-241121027,2004,"November 21, 2004",Tampa Bay Buccaneers,San Francisco 49ers,"4-6, 3-2 Home","1-9, 0-5 Away",35,3,NULL,NULL,Final,NULL,7,14,7,7,NULL,0,0,3,0,NULL,11,NFL
-241205027,2004,"December 5, 2004",Tampa Bay Buccaneers,Atlanta Falcons,"5-7, 4-2 Home","9-3, 4-2 Away",27,0,NULL,NULL,Final,NULL,7,6,7,7,NULL,0,0,0,0,NULL,13,NFL
-241219027,2004,"December 19, 2004",Tampa Bay Buccaneers,New Orleans Saints,"5-9, 4-3 Home","6-8, 4-3 Away",17,21,NULL,NULL,Final,NULL,7,0,7,3,NULL,7,0,0,14,NULL,15,NFL
-240820030,2004,"August 20, 2004",Jacksonville Jaguars,Tampa Bay Buccaneers,"1-1, 1-0 Home","1-1, 0-1 Away",14,6,NULL,NULL,Final,NULL,0,7,7,0,NULL,0,0,3,3,NULL,1,NFL
-250102022,2004,"January 2, 2005",Arizona Cardinals,Tampa Bay Buccaneers,"6-10, 5-3 Home","5-11, 1-7 Away",12,7,NULL,NULL,Final,NULL,3,3,0,6,NULL,0,0,7,0,NULL,17,NFL
-240902034,2004,"September 2, 2004",Houston Texans,Tampa Bay Buccaneers,"1-3, 1-1 Home","3-1, 1-1 Away",9,17,NULL,NULL,Final,NULL,0,3,3,3,NULL,0,10,7,0,NULL,3,NFL
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
+0,240919027,2004,"September 19, 2004",Tampa Bay Buccaneers,Seattle Seahawks,"0-2, 0-1 Home","2-0, 2-0 Away",6,10,,,Final,,0,3,0,3,,3,7,0,0,,2,NFL
+1,241003027,2004,"October 3, 2004",Tampa Bay Buccaneers,Denver Broncos,"0-4, 0-2 Home","3-1, 1-1 Away",13,16,,,Final,,0,10,3,0,,7,6,0,3,,4,NFL
+2,241018014,2004,"October 18, 2004",St. Louis Rams,Tampa Bay Buccaneers,"4-2, 2-1 Home","1-5, 1-3 Away",28,21,,,Final,,7,7,7,7,,7,7,7,0,,6,NFL
+3,241114001,2004,"November 14, 2004",Atlanta Falcons,Tampa Bay Buccaneers,"7-2, 4-1 Home","3-6, 1-4 Away",24,14,,,Final,,10,7,0,7,,0,7,7,0,,10,NFL
+4,241128029,2004,"November 28, 2004",Carolina Panthers,Tampa Bay Buccaneers,"4-7, 2-4 Home","4-7, 1-5 Away",21,14,,,Final,,7,0,7,7,,0,7,0,7,,12,NFL
+5,241212024,2004,"December 12, 2004",San Diego Chargers,Tampa Bay Buccaneers,"10-3, 6-1 Home","5-8, 1-6 Away",31,24,,,Final,,0,14,7,10,,0,7,7,10,,14,NFL
+6,241226027,2004,"December 26, 2004",Tampa Bay Buccaneers,Carolina Panthers,"5-10, 4-4 Home","7-8, 4-4 Away",20,37,,,Final,,7,0,7,6,,7,10,7,13,,16,NFL
+7,240816027,2004,"August 16, 2004",Tampa Bay Buccaneers,Cincinnati Bengals,"1-0, 1-0 Home","0-1, 0-1 Away",20,6,,,Final,,3,10,0,7,,3,3,0,0,,HOF,NFL
+8,240828027,2004,"August 28, 2004",Tampa Bay Buccaneers,Miami Dolphins,"2-1, 2-0 Home","1-2, 0-1 Away",17,10,,,Final,,0,3,7,7,,0,3,7,0,,2,NFL
+9,240912028,2004,"September 12, 2004",Washington Redskins,Tampa Bay Buccaneers,"1-0, 1-0 Home","0-1, 0-1 Away",16,10,,,Final,,7,3,0,6,,0,3,7,0,,1,NFL
+10,240926013,2004,"September 26, 2004",Oakland Raiders,Tampa Bay Buccaneers,"2-1, 2-0 Home","0-3, 0-2 Away",30,20,,,Final,,3,10,17,0,,3,3,0,14,,3,NFL
+11,241010018,2004,"October 10, 2004",New Orleans Saints,Tampa Bay Buccaneers,"2-3, 1-2 Home","1-4, 1-2 Away",17,20,,,Final,,0,7,7,3,,3,10,7,0,,5,NFL
+12,241024027,2004,"October 24, 2004",Tampa Bay Buccaneers,Chicago Bears,"2-5, 1-2 Home","1-5, 1-2 Away",19,7,,,Final,,0,10,3,6,,0,0,7,0,,7,NFL
+13,241107027,2004,"November 7, 2004",Tampa Bay Buccaneers,Kansas City Chiefs,"3-5, 2-2 Home","3-5, 1-3 Away",34,31,,,Final,,7,14,7,6,,7,17,7,0,,9,NFL
+14,241121027,2004,"November 21, 2004",Tampa Bay Buccaneers,San Francisco 49ers,"4-6, 3-2 Home","1-9, 0-5 Away",35,3,,,Final,,7,14,7,7,,0,0,3,0,,11,NFL
+15,241205027,2004,"December 5, 2004",Tampa Bay Buccaneers,Atlanta Falcons,"5-7, 4-2 Home","9-3, 4-2 Away",27,0,,,Final,,7,6,7,7,,0,0,0,0,,13,NFL
+16,241219027,2004,"December 19, 2004",Tampa Bay Buccaneers,New Orleans Saints,"5-9, 4-3 Home","6-8, 4-3 Away",17,21,,,Final,,7,0,7,3,,7,0,0,14,,15,NFL
+17,240820030,2004,"August 20, 2004",Jacksonville Jaguars,Tampa Bay Buccaneers,"1-1, 1-0 Home","1-1, 0-1 Away",14,6,,,Final,,0,7,7,0,,0,0,3,3,,1,NFL
+18,250102022,2004,"January 2, 2005",Arizona Cardinals,Tampa Bay Buccaneers,"6-10, 5-3 Home","5-11, 1-7 Away",12,7,,,Final,,3,3,0,6,,0,0,7,0,,17,NFL
+19,240902034,2004,"September 2, 2004",Houston Texans,Tampa Bay Buccaneers,"1-3, 1-1 Home","3-1, 1-1 Away",9,17,,,Final,,0,3,3,3,,0,10,7,0,,3,NFL

@@ -1,0 +1,83 @@
+,Unnamed: 0,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,0,151104004,1995,"Sat, Nov 4",Chicago Bulls,Boston Celtics,"2-0, 2-0 Home","0-2, 0-1 Away",107,85,,,Final,,25,21,35,26,,12,28,19,26,,NBA
+1,1,151109005,1995,"Thu, Nov 9",Cleveland Cavaliers,Chicago Bulls,"0-4, 0-2 Home","4-0, 1-0 Away",88,106,,,Final,,24,23,22,19,,28,23,23,32,,NBA
+2,2,151114019,1995,"Tue, Nov 14",Orlando Magic,Chicago Bulls,"6-1, 5-0 Home","5-1, 1-1 Away",94,88,,,Final,,19,26,23,26,,29,19,14,26,,NBA
+3,3,151117004,1995,"Fri, Nov 17",Chicago Bulls,New Jersey Nets,"7-1, 6-0 Home","3-4, 0-4 Away",109,94,,,Final,,36,25,24,24,,25,27,20,22,,NBA
+4,4,151122024,1995,"Wed, Nov 22",San Antonio Spurs,Chicago Bulls,"6-3, 3-2 Home","9-1, 3-1 Away",94,103,,,Final,,20,30,21,23,,27,27,31,18,,NBA
+5,5,151126025,1995,"Sun, Nov 26",Seattle SuperSonics,Chicago Bulls,"9-5, 5-0 Home","10-2, 4-2 Away",97,92,,,Final,,24,27,26,20,,35,29,11,17,,NBA
+6,6,151130029,1995,"Thu, Nov 30",Vancouver Grizzlies,Chicago Bulls,"2-13, 1-4 Home","12-2, 6-2 Away",88,94,,,Final,,23,19,22,24,,25,19,18,32,,NBA
+7,7,151206004,1995,"Wed, Dec 6",Chicago Bulls,New York Knicks,"14-2, 7-0 Home","13-5, 7-3 Away",101,94,,,Final,,23,20,29,29,,30,26,17,21,,NBA
+8,8,151209015,1995,"Sat, Dec 9",Milwaukee Bucks,Chicago Bulls,"6-11, 3-6 Home","16-2, 8-2 Away",106,118,,,Final,,29,27,27,23,,33,32,25,28,,NBA
+9,9,151214001,1995,"Thu, Dec 14",Atlanta Hawks,Chicago Bulls,"10-12, 4-7 Home","18-2, 9-2 Away",108,127,,,Final,,27,28,20,33,,35,30,28,34,,NBA
+10,10,151218002,1995,"Mon, Dec 18",Boston Celtics,Chicago Bulls,"11-11, 6-9 Home","20-2, 10-2 Away",114,123,,,Final,,31,33,22,28,,29,24,36,34,,NBA
+11,11,151222004,1995,"Fri, Dec 22",Chicago Bulls,Toronto Raptors,"22-2, 12-0 Home","8-19, 2-11 Away",113,104,,,Final,,31,23,23,36,,22,22,30,30,,NBA
+12,12,151226011,1995,"Tue, Dec 26",Indiana Pacers,Chicago Bulls,"14-11, 9-3 Home","23-3, 10-3 Away",103,97,,,Final,,30,29,20,24,,18,22,25,32,,NBA
+13,13,151230004,1995,"Sat, Dec 30",Chicago Bulls,Atlanta Hawks,"25-3, 15-0 Home","13-15, 6-7 Away",95,93,,,Final,,22,17,35,21,,19,25,18,31,,NBA
+14,14,160104003,1995,"Thu, Jan 4",Charlotte Hornets,Chicago Bulls,"14-17, 10-4 Home","27-3, 11-3 Away",93,117,,,Final,,25,22,21,25,,27,25,35,30,,NBA
+15,15,160110004,1995,"Wed, Jan 10",Chicago Bulls,Seattle SuperSonics,"29-3, 18-0 Home","23-10, 10-9 Away",113,87,,,Final,,26,25,31,31,,28,17,20,22,,NBA
+16,16,160115027,1995,"Mon, Jan 15",Washington Bullets,Chicago Bulls,"18-18, 12-6 Home","31-3, 13-3 Away",109,116,,,Final,,25,33,31,20,,32,32,23,29,,NBA
+17,17,160118028,1995,"Thu, Jan 18",Toronto Raptors,Chicago Bulls,"10-28, 8-12 Home","33-3, 14-3 Away",89,92,,,Final,,20,25,19,25,,21,17,29,25,,NBA
+18,18,160123018,1995,"Tue, Jan 23",New York Knicks,Chicago Bulls,"24-15, 13-8 Home","35-3, 16-3 Away",79,99,,,Final,,20,19,17,23,,28,20,28,23,,NBA
+19,19,160126004,1995,"Fri, Jan 26",Chicago Bulls,Miami Heat,"37-3, 21-0 Home","18-23, 6-16 Away",102,80,,,Final,,22,26,29,25,,12,17,24,27,,NBA
+20,20,160130010,1995,"Tue, Jan 30",Houston Rockets,Chicago Bulls,"29-16, 15-6 Home","39-3, 17-3 Away",87,98,,,Final,,28,16,27,16,,22,32,19,25,,NBA
+21,21,160202013,1995,"Fri, Feb 2",Los Angeles Lakers,Chicago Bulls,"25-19, 16-7 Home","41-3, 19-3 Away",84,99,,,Final,,28,13,18,25,,28,26,26,19,,NBA
+22,22,160206021,1995,"Tue, Feb 6",Phoenix Suns,Chicago Bulls,"21-24, 11-12 Home","41-5, 19-5 Away",106,96,,,Final,,20,30,26,30,,33,17,21,25,,NBA
+23,23,160213004,1995,"Tue, Feb 13",Chicago Bulls,Washington Bullets,"43-5, 23-0 Home","22-25, 6-18 Away",111,98,,,Final,,33,27,24,27,,28,29,19,22,,NBA
+24,24,160216016,1995,"Fri, Feb 16",Minnesota Timberwolves,Chicago Bulls,"14-34, 9-13 Home","45-5, 22-5 Away",100,103,,,Final,,26,21,30,23,,32,23,31,17,,NBA
+25,25,160220004,1995,"Tue, Feb 20",Chicago Bulls,Cleveland Cavaliers,"47-5, 24-0 Home","30-21, 12-13 Away",102,76,,,Final,,21,22,26,33,,19,15,24,18,,NBA
+26,26,160223014,1995,"Fri, Feb 23",Miami Heat,Chicago Bulls,"25-29, 17-11 Home","48-6, 24-6 Away",113,104,,,Final,,31,31,29,22,,21,23,24,36,,NBA
+27,27,160227004,1995,"Tue, Feb 27",Chicago Bulls,Minnesota Timberwolves,"50-6, 26-0 Home","16-38, 5-23 Away",120,99,,,Final,,29,29,24,38,,25,30,21,23,,NBA
+28,28,160302004,1995,"Sat, Mar 2",Chicago Bulls,Boston Celtics,"52-6, 28-0 Home","20-38, 9-21 Away",107,75,,,Final,,25,32,19,31,,21,18,16,20,,NBA
+29,29,160307004,1995,"Thu, Mar 7",Chicago Bulls,Detroit Pistons,"54-6, 30-0 Home","32-27, 14-17 Away",102,81,,,Final,,23,21,32,26,,15,25,28,13,,NBA
+30,30,160313004,1995,"Wed, Mar 13",Chicago Bulls,Washington Bullets,"55-7, 31-0 Home","28-35, 9-24 Away",103,86,,,Final,,29,22,34,18,,21,24,22,19,,NBA
+31,31,160316017,1995,"Sat, Mar 16",New Jersey Nets,Chicago Bulls,"25-38, 16-14 Home","57-7, 25-7 Away",93,97,,,Final,,26,26,18,23,,26,20,25,26,,NBA
+32,32,160319004,1995,"Tue, Mar 19",Chicago Bulls,Sacramento Kings,"59-7, 33-0 Home","28-36, 10-23 Away",89,67,,,Final,,22,24,18,25,,18,15,27,7,,NBA
+33,33,160324028,1995,"Sun, Mar 24",Toronto Raptors,Chicago Bulls,"18-49, 13-20 Home","60-8, 26-8 Away",109,108,,,Final,,28,28,23,30,,23,31,29,25,,NBA
+34,34,160330004,1995,"Sat, Mar 30",Chicago Bulls,Los Angeles Clippers,"62-8, 36-0 Home","26-45, 9-25 Away",106,85,,,Final,,28,34,24,20,,16,26,19,24,,NBA
+35,35,160404004,1995,"Thu, Apr 4",Chicago Bulls,Miami Heat,"64-8, 37-0 Home","37-36, 14-22 Away",100,92,,,Final,,24,21,34,21,,25,23,25,19,,NBA
+36,36,160407019,1995,"Sun, Apr 7",Orlando Magic,Chicago Bulls,"55-20, 34-3 Home","66-8, 29-8 Away",86,90,,,Final,,21,21,26,18,,28,22,25,15,,NBA
+37,37,160411017,1995,"Thu, Apr 11",New Jersey Nets,Chicago Bulls,"29-48, 19-19 Home","67-9, 30-8 Away",100,113,,,Final,,20,18,34,28,,29,25,31,28,,NBA
+38,38,160414005,1995,"Sun, Apr 14",Cleveland Cavaliers,Chicago Bulls,"44-34, 24-15 Home","69-9, 31-8 Away",72,98,,,Final,,17,18,14,23,,24,22,25,27,,NBA
+39,39,160418004,1995,"Thu, Apr 18",Chicago Bulls,Detroit Pistons,"71-9, 39-1 Home","45-35, 16-24 Away",110,79,,,Final,,30,29,23,28,,17,26,21,15,,NBA
+40,40,151103004,1995,"Fri, Nov 3",Chicago Bulls,Charlotte Hornets,"1-0, 1-0 Home","0-1, 0-1 Away",105,91,,,Final,,26,14,40,25,,27,21,18,25,,NBA
+41,41,151107004,1995,"Tue, Nov 7",Chicago Bulls,Toronto Raptors,"3-0, 3-0 Home","1-2, 0-2 Away",117,108,,,Final,,30,29,30,28,,30,32,25,21,,NBA
+42,42,151111004,1995,"Sat, Nov 11",Chicago Bulls,Portland Trail Blazers,"5-0, 4-0 Home","2-4, 1-3 Away",110,106,,,Final,,31,23,29,27,,21,31,32,22,,NBA
+43,43,151115004,1995,"Wed, Nov 15",Chicago Bulls,Cleveland Cavaliers,"6-1, 5-0 Home","0-7, 0-4 Away",113,94,,,Final,,31,27,33,22,,15,20,31,28,,NBA
+44,44,151121006,1995,"Tue, Nov 21",Dallas Mavericks,Chicago Bulls,"5-5, 3-2 Home","8-1, 2-1 Away",102,108,,,Final/OT,,20,25,28,21,8.0,19,25,20,30,14.0,NBA
+45,45,151124026,1995,"Fri, Nov 24",Utah Jazz,Chicago Bulls,"10-3, 6-1 Home","10-1, 4-1 Away",85,90,,,Final,,19,23,20,23,,25,22,20,23,,NBA
+46,46,151127022,1995,"Mon, Nov 27",Portland Trail Blazers,Chicago Bulls,"6-7, 4-3 Home","11-2, 5-2 Away",104,107,,,Final,,19,29,20,36,,20,26,35,26,,NBA
+47,47,151202012,1995,"Sat, Dec 2",Los Angeles Clippers,Chicago Bulls,"7-9, 5-3 Home","13-2, 7-2 Away",98,104,,,Final,,12,29,38,19,,30,26,26,22,,NBA
+48,48,151208004,1995,"Fri, Dec 8",Chicago Bulls,San Antonio Spurs,"15-2, 8-0 Home","11-5, 5-3 Away",106,87,,,Final,,28,25,26,27,,19,27,23,18,,NBA
+49,49,151213004,1995,"Wed, Dec 13",Chicago Bulls,Orlando Magic,"17-2, 9-0 Home","17-5, 6-5 Away",112,103,,,Final,,29,32,19,32,,26,23,16,38,,NBA
+50,50,151216004,1995,"Sat, Dec 16",Chicago Bulls,Los Angeles Lakers,"19-2, 10-0 Home","12-12, 3-10 Away",108,88,,,Final,,28,30,23,27,,18,27,25,18,,NBA
+51,51,151219004,1995,"Tue, Dec 19",Chicago Bulls,Dallas Mavericks,"21-2, 11-0 Home","7-15, 3-9 Away",114,101,,,Final,,21,38,28,27,,26,26,22,27,,NBA
+52,52,151223004,1995,"Sat, Dec 23",Chicago Bulls,Utah Jazz,"23-2, 13-0 Home","17-9, 9-6 Away",100,86,,,Final,,26,24,28,22,,26,16,20,24,,NBA
+53,53,151229004,1995,"Fri, Dec 29",Chicago Bulls,Indiana Pacers,"24-3, 14-0 Home","15-12, 5-9 Away",120,93,,,Final,,30,29,29,32,,21,33,17,22,,NBA
+54,54,160103004,1995,"Wed, Jan 3",Chicago Bulls,Houston Rockets,"26-3, 16-0 Home","23-9, 11-7 Away",100,86,,,Final,,15,32,28,25,,18,12,24,32,,NBA
+55,55,160106004,1995,"Sat, Jan 6",Chicago Bulls,Milwaukee Bucks,"28-3, 17-0 Home","12-19, 5-11 Away",113,84,,,Final,,31,18,27,37,,17,23,21,23,,NBA
+56,56,160113020,1995,"Sat, Jan 13",Philadelphia 76ers,Chicago Bulls,"7-26, 4-12 Home","30-3, 12-3 Away",93,120,,,Final,,20,27,21,25,,29,25,44,22,,NBA
+57,57,160116004,1995,"Tue, Jan 16",Chicago Bulls,Philadelphia 76ers,"32-3, 19-0 Home","7-27, 3-15 Away",116,104,,,Final,,35,34,29,18,,22,25,32,25,,NBA
+58,58,160121008,1995,"Sun, Jan 21",Detroit Pistons,Chicago Bulls,"19-18, 13-7 Home","34-3, 15-3 Away",96,111,,,Final,,24,15,26,31,,31,23,31,26,,NBA
+59,59,160124004,1995,"Wed, Jan 24",Chicago Bulls,Vancouver Grizzlies,"36-3, 20-0 Home","9-31, 2-17 Away",104,84,,,Final,,32,22,26,24,,17,23,27,17,,NBA
+60,60,160128004,1995,"Sun, Jan 28",Chicago Bulls,Phoenix Suns,"38-3, 22-0 Home","17-23, 7-11 Away",93,82,,,Final,,21,26,24,22,,19,33,16,14,,NBA
+61,61,160201023,1995,"Thu, Feb 1",Sacramento Kings,Chicago Bulls,"23-17, 15-6 Home","40-3, 18-3 Away",85,105,,,Final,,25,19,25,16,,33,19,28,25,,NBA
+62,62,160204007,1995,"Sun, Feb 4",Denver Nuggets,Chicago Bulls,"19-26, 11-9 Home","41-4, 19-4 Away",105,99,,,Final,,34,34,16,21,,20,23,39,17,,NBA
+63,63,160207009,1995,"Wed, Feb 7",Golden State Warriors,Chicago Bulls,"21-26, 13-10 Home","42-5, 20-5 Away",95,99,,,Final,,24,28,20,23,,20,26,22,31,,NBA
+64,64,160215008,1995,"Thu, Feb 15",Detroit Pistons,Chicago Bulls,"24-23, 15-9 Home","44-5, 21-5 Away",109,112,,,Final/OT,,28,18,24,31,8.0,33,22,24,22,11.0,NBA
+65,65,160218011,1995,"Sun, Feb 18",Indiana Pacers,Chicago Bulls,"32-19, 19-5 Home","46-5, 23-5 Away",102,110,,,Final,,29,22,23,28,,25,28,30,27,,NBA
+66,66,160222001,1995,"Thu, Feb 22",Atlanta Hawks,Chicago Bulls,"28-24, 17-11 Home","48-5, 24-5 Away",91,96,,,Final,,29,25,17,20,,25,16,33,22,,NBA
+67,67,160225004,1995,"Sun, Feb 25",Chicago Bulls,Orlando Magic,"49-6, 25-0 Home","40-15, 12-15 Away",111,91,,,Final,,28,25,21,37,,30,23,17,21,,NBA
+68,68,160301004,1995,"Fri, Mar 1",Chicago Bulls,Golden State Warriors,"51-6, 27-0 Home","26-31, 10-21 Away",110,87,,,Final,,22,29,27,32,,19,27,19,22,,NBA
+69,69,160305004,1995,"Tue, Mar 5",Chicago Bulls,Milwaukee Bucks,"53-6, 29-0 Home","21-37, 9-19 Away",115,106,,,Final,,34,22,38,21,,17,27,27,35,,NBA
+70,70,160310018,1995,"Sun, Mar 10",New York Knicks,Chicago Bulls,"35-26, 21-11 Home","54-7, 24-7 Away",104,72,,,Final,,31,19,26,28,,19,23,18,12,,NBA
+71,71,160315004,1995,"Fri, Mar 15",Chicago Bulls,Denver Nuggets,"56-7, 32-0 Home","27-36, 8-23 Away",108,87,,,Final,,32,21,30,25,,20,24,22,21,,NBA
+72,72,160318020,1995,"Mon, Mar 18",Philadelphia 76ers,Chicago Bulls,"13-52, 8-25 Home","58-7, 26-7 Away",94,98,,,Final,,21,25,24,24,,22,26,20,30,,NBA
+73,73,160321004,1995,"Thu, Mar 21",Chicago Bulls,New York Knicks,"60-7, 34-0 Home","38-27, 15-16 Away",107,86,,,Final,,29,32,18,28,,25,16,19,26,,NBA
+74,74,160328004,1995,"Thu, Mar 28",Chicago Bulls,Atlanta Hawks,"61-8, 35-0 Home","39-30, 16-19 Away",111,80,,,Final,,31,31,24,25,,18,19,17,26,,NBA
+75,75,160402014,1995,"Tue, Apr 2",Miami Heat,Chicago Bulls,"37-35, 23-14 Home","63-8, 27-8 Away",92,110,,,Final,,23,19,24,26,,26,28,24,32,,NBA
+76,76,160405003,1995,"Fri, Apr 5",Charlotte Hornets,Chicago Bulls,"37-37, 25-13 Home","65-8, 28-8 Away",92,126,,,Final,,15,19,31,27,,42,31,25,28,,NBA
+77,77,160408004,1995,"Mon, Apr 8",Chicago Bulls,Charlotte Hornets,"66-9, 37-1 Home","39-37, 14-24 Away",97,98,,,Final,,21,29,22,25,,17,23,35,23,,NBA
+78,78,160412004,1995,"Fri, Apr 12",Chicago Bulls,Philadelphia 76ers,"68-9, 38-1 Home","16-62, 6-34 Away",112,82,,,Final,,20,29,35,28,,21,16,22,23,,NBA
+79,79,160416015,1995,"Tue, Apr 16",Milwaukee Bucks,Chicago Bulls,"24-55, 14-26 Home","70-9, 32-8 Away",80,86,,,Final,,25,24,19,12,,28,12,22,24,,NBA
+80,80,160420004,1995,"Sat, Apr 20",Chicago Bulls,Indiana Pacers,"71-10, 39-2 Home","51-30, 20-21 Away",99,100,,,Final,,30,20,27,22,,27,25,25,23,,NBA
+81,81,160421027,1995,"Sun, Apr 21",Washington Bullets,Chicago Bulls,"39-43, 25-16 Home","72-10, 33-8 Away",93,103,,,Final,,22,30,23,18,,31,20,29,23,,NBA

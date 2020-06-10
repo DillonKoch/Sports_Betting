@@ -1,21 +1,21 @@
-ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
-401127862,2019,"September 15, 2019",Miami Dolphins,New England Patriots,"0-2, 0-2 Home","2-0, 1-0 Away",0,43,NE -18.0,49,Final,CBS,0,0,0,0,NULL,7,6,10,20,NULL,2,NFL
-401128055,2019,"September 29, 2019",Miami Dolphins,Los Angeles Chargers,"0-4, 0-3 Home","2-2, 1-1 Away",10,30,LAC -14.5,44,Final,CBS,7,3,0,0,NULL,10,7,3,10,NULL,4,NFL
-401128121,2019,"October 13, 2019",Miami Dolphins,Washington Redskins,"0-5, 0-4 Home","1-5, 1-2 Away",16,17,WSH -6.0,43,Final,FOX,0,3,0,13,NULL,0,7,10,0,NULL,6,NFL
-401128074,2019,"October 28, 2019",Pittsburgh Steelers,Miami Dolphins,"3-4, 2-2 Home","0-7, 0-3 Away",27,14,PIT -14.0,44,Final,ESPN,0,10,7,10,NULL,14,0,0,0,NULL,8,NFL
-401127986,2019,"November 10, 2019",Indianapolis Colts,Miami Dolphins,"5-4, 3-2 Home","2-7, 1-3 Away",12,16,IND -11.0,44,Final,CBS,0,0,6,6,NULL,3,7,0,6,NULL,10,NFL
-401127919,2019,"November 24, 2019",Cleveland Browns,Miami Dolphins,"5-6, 3-3 Home","2-9, 1-4 Away",41,24,CLE -10.5,47,Final,FOX,14,14,0,13,NULL,0,3,14,7,NULL,12,NFL
-401127969,2019,"December 8, 2019",New York Jets,Miami Dolphins,"5-8, 4-3 Home","3-10, 1-5 Away",22,21,NYJ -5.0,48,Final,CBS,0,16,0,6,NULL,3,6,3,9,NULL,14,NFL
-401127910,2019,"December 22, 2019",Miami Dolphins,Cincinnati Bengals,"4-11, 3-5 Home","1-14, 0-8 Away",38,35,CIN -2.0,46,Final/OT,CBS,14,7,7,7,3,0,6,6,23,0,16,NFL
-401128184,2019,"August 16, 2019",Tampa Bay Buccaneers,Miami Dolphins,"1-1, 1-0 Home","1-1, 0-1 Away",16,14,TB -3.0,42,Final,NULL,0,3,0,13,NULL,0,6,0,8,NULL,2,NFL
-401127954,2019,"September 8, 2019",Miami Dolphins,Baltimore Ravens,"0-1, 0-1 Home","1-0, 1-0 Away",10,59,BAL -7.0,41,Final,CBS,0,10,0,0,NULL,21,21,10,7,NULL,1,NFL
-401127921,2019,"September 22, 2019",Dallas Cowboys,Miami Dolphins,"3-0, 2-0 Home","0-3, 0-1 Away",31,6,DAL -22.5,47,Final,FOX,10,0,14,7,NULL,3,3,0,0,NULL,3,NFL
-401127942,2019,"October 20, 2019",Buffalo Bills,Miami Dolphins,"5-1, 2-1 Home","0-6, 0-2 Away",31,21,BUF -17.0,43,Final,CBS,6,3,0,22,NULL,0,14,0,7,NULL,7,NFL
-401128080,2019,"November 3, 2019",Miami Dolphins,New York Jets,"1-7, 1-4 Home","1-7, 0-4 Away",26,18,NYJ -3.5,43,Final,CBS,0,21,3,2,NULL,7,5,3,3,NULL,9,NFL
-401128077,2019,"November 17, 2019",Miami Dolphins,Buffalo Bills,"2-8, 1-5 Home","7-3, 4-1 Away",20,37,BUF -7.0,42,Final,CBS,0,14,0,6,NULL,6,17,7,7,NULL,11,NFL
-401128070,2019,"December 1, 2019",Miami Dolphins,Philadelphia Eagles,"3-9, 2-5 Home","5-7, 2-4 Away",37,31,PHI -10.0,45,Final,FOX,7,7,12,11,NULL,10,11,7,3,NULL,13,NFL
-401128060,2019,"December 15, 2019",New York Giants,Miami Dolphins,"3-11, 2-5 Home","3-11, 1-6 Away",36,20,NYG -3.5,47,Final,CBS,0,7,16,13,NULL,0,10,3,7,NULL,15,NFL
-401128192,2019,"August 8, 2019",Miami Dolphins,Atlanta Falcons,"1-0, 1-0 Home","0-2, 0-1 Away",34,27,MIA -4.0,35,Final,NULL,3,10,7,14,NULL,6,13,0,8,NULL,1,NFL
-401126626,2019,"August 22, 2019",Miami Dolphins,Jacksonville Jaguars,"2-1, 2-0 Home","0-3, 0-2 Away",22,7,EVEN,39,Final,FOX,0,6,6,10,NULL,7,0,0,0,NULL,3,NFL
-401128191,2019,"August 29, 2019",New Orleans Saints,Miami Dolphins,"2-2, 0-2 Home","3-1, 1-1 Away",13,16,NO -4.0,37,Final,NULL,0,7,0,6,NULL,3,10,3,0,NULL,4,NFL
-401127909,2019,"December 29, 2019",New England Patriots,Miami Dolphins,"12-4, 6-2 Home","5-11, 2-6 Away",24,27,NE -17.0,45,Final,CBS,0,10,7,7,NULL,3,7,7,10,NULL,17,NFL
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
+0,401127862,2019,"September 15, 2019",Miami Dolphins,New England Patriots,"0-2, 0-2 Home","2-0, 1-0 Away",0,43,NE -18.0,49,Final,CBS,0,0,0,0,,7,6,10,20,,2,NFL
+1,401128055,2019,"September 29, 2019",Miami Dolphins,Los Angeles Chargers,"0-4, 0-3 Home","2-2, 1-1 Away",10,30,LAC -14.5,44,Final,CBS,7,3,0,0,,10,7,3,10,,4,NFL
+2,401128121,2019,"October 13, 2019",Miami Dolphins,Washington Redskins,"0-5, 0-4 Home","1-5, 1-2 Away",16,17,WSH -6.0,43,Final,FOX,0,3,0,13,,0,7,10,0,,6,NFL
+3,401128074,2019,"October 28, 2019",Pittsburgh Steelers,Miami Dolphins,"3-4, 2-2 Home","0-7, 0-3 Away",27,14,PIT -14.0,44,Final,ESPN,0,10,7,10,,14,0,0,0,,8,NFL
+4,401127986,2019,"November 10, 2019",Indianapolis Colts,Miami Dolphins,"5-4, 3-2 Home","2-7, 1-3 Away",12,16,IND -11.0,44,Final,CBS,0,0,6,6,,3,7,0,6,,10,NFL
+5,401127919,2019,"November 24, 2019",Cleveland Browns,Miami Dolphins,"5-6, 3-3 Home","2-9, 1-4 Away",41,24,CLE -10.5,47,Final,FOX,14,14,0,13,,0,3,14,7,,12,NFL
+6,401127969,2019,"December 8, 2019",New York Jets,Miami Dolphins,"5-8, 4-3 Home","3-10, 1-5 Away",22,21,NYJ -5.0,48,Final,CBS,0,16,0,6,,3,6,3,9,,14,NFL
+7,401127910,2019,"December 22, 2019",Miami Dolphins,Cincinnati Bengals,"4-11, 3-5 Home","1-14, 0-8 Away",38,35,CIN -2.0,46,Final/OT,CBS,14,7,7,7,3.0,0,6,6,23,0.0,16,NFL
+8,401128184,2019,"August 16, 2019",Tampa Bay Buccaneers,Miami Dolphins,"1-1, 1-0 Home","1-1, 0-1 Away",16,14,TB -3.0,42,Final,,0,3,0,13,,0,6,0,8,,2,NFL
+9,401127954,2019,"September 8, 2019",Miami Dolphins,Baltimore Ravens,"0-1, 0-1 Home","1-0, 1-0 Away",10,59,BAL -7.0,41,Final,CBS,0,10,0,0,,21,21,10,7,,1,NFL
+10,401127921,2019,"September 22, 2019",Dallas Cowboys,Miami Dolphins,"3-0, 2-0 Home","0-3, 0-1 Away",31,6,DAL -22.5,47,Final,FOX,10,0,14,7,,3,3,0,0,,3,NFL
+11,401127942,2019,"October 20, 2019",Buffalo Bills,Miami Dolphins,"5-1, 2-1 Home","0-6, 0-2 Away",31,21,BUF -17.0,43,Final,CBS,6,3,0,22,,0,14,0,7,,7,NFL
+12,401128080,2019,"November 3, 2019",Miami Dolphins,New York Jets,"1-7, 1-4 Home","1-7, 0-4 Away",26,18,NYJ -3.5,43,Final,CBS,0,21,3,2,,7,5,3,3,,9,NFL
+13,401128077,2019,"November 17, 2019",Miami Dolphins,Buffalo Bills,"2-8, 1-5 Home","7-3, 4-1 Away",20,37,BUF -7.0,42,Final,CBS,0,14,0,6,,6,17,7,7,,11,NFL
+14,401128070,2019,"December 1, 2019",Miami Dolphins,Philadelphia Eagles,"3-9, 2-5 Home","5-7, 2-4 Away",37,31,PHI -10.0,45,Final,FOX,7,7,12,11,,10,11,7,3,,13,NFL
+15,401128060,2019,"December 15, 2019",New York Giants,Miami Dolphins,"3-11, 2-5 Home","3-11, 1-6 Away",36,20,NYG -3.5,47,Final,CBS,0,7,16,13,,0,10,3,7,,15,NFL
+16,401128192,2019,"August 8, 2019",Miami Dolphins,Atlanta Falcons,"1-0, 1-0 Home","0-2, 0-1 Away",34,27,MIA -4.0,35,Final,,3,10,7,14,,6,13,0,8,,1,NFL
+17,401126626,2019,"August 22, 2019",Miami Dolphins,Jacksonville Jaguars,"2-1, 2-0 Home","0-3, 0-2 Away",22,7,EVEN,39,Final,FOX,0,6,6,10,,7,0,0,0,,3,NFL
+18,401128191,2019,"August 29, 2019",New Orleans Saints,Miami Dolphins,"2-2, 0-2 Home","3-1, 1-1 Away",13,16,NO -4.0,37,Final,,0,7,0,6,,3,10,3,0,,4,NFL
+19,401127909,2019,"December 29, 2019",New England Patriots,Miami Dolphins,"12-4, 6-2 Home","5-11, 2-6 Away",24,27,NE -17.0,45,Final,CBS,0,10,7,7,,3,7,7,10,,17,NFL

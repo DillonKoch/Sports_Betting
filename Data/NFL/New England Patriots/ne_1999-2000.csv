@@ -1,17 +1,17 @@
-ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
-190919017,1999,"September 19, 1999",New England Patriots,Indianapolis Colts,"2-0, 1-0 Home","1-1, 0-1 Away",31,28,NULL,NULL,Final,NULL,10,6,0,.625,314,12,4,0,.750,420,2,NFL
-191003005,1999,"October 3, 1999",Cleveland Browns,New England Patriots,"0-4, 0-2 Home","4-0, 2-0 Away",7,19,NULL,NULL,Final,NULL,10,6,0,.625,314,12,4,0,.750,420,4,NFL
-191017017,1999,"October 17, 1999",New England Patriots,Miami Dolphins,"4-2, 2-1 Home","4-1, 3-0 Away",30,31,NULL,NULL,Final,NULL,10,6,0,.625,314,12,4,0,.750,420,6,NFL
-191031022,1999,"October 31, 1999",Arizona Cardinals,New England Patriots,"2-5, 1-3 Home","6-2, 3-1 Away",3,27,NULL,NULL,Final,NULL,10,6,0,.625,314,12,4,0,.750,420,8,NFL
-191115017,1999,"November 15, 1999",New England Patriots,New York Jets,"6-3, 3-2 Home","3-6, 2-2 Away",17,24,NULL,NULL,Final,NULL,10,6,0,.625,314,12,4,0,.750,420,10,NFL
-191128002,1999,"November 28, 1999",Buffalo Bills,New England Patriots,"8-4, 5-1 Home","6-5, 3-3 Away",17,7,NULL,NULL,Final,NULL,10,6,0,.625,314,12,4,0,.750,420,12,NFL
-191212011,1999,"December 12, 1999",Indianapolis Colts,New England Patriots,"11-2, 6-1 Home","7-6, 3-4 Away",20,15,NULL,NULL,Final,NULL,10,6,0,.625,314,12,4,0,.750,420,14,NFL
-191226017,1999,"December 26, 1999",New England Patriots,Buffalo Bills,"7-8, 4-3 Home","10-5, 5-3 Away",10,13,NULL,NULL,Final/OT,NULL,10,6,0,.625,314,12,4,0,.750,420,16,NFL
-190912020,1999,"September 12, 1999",New York Jets,New England Patriots,"0-1, 0-1 Home","1-0, 1-0 Away",28,30,NULL,NULL,Final,NULL,10,6,0,.625,314,12,4,0,.750,420,1,NFL
-190926017,1999,"September 26, 1999",New England Patriots,New York Giants,"3-0, 2-0 Home","1-2, 1-1 Away",16,14,NULL,NULL,Final,NULL,8,8,0,.500,434,9,7,0,.563,385,3,NFL
-191010012,1999,"October 10, 1999",Kansas City Chiefs,New England Patriots,"3-2, 3-0 Home","4-1, 2-1 Away",16,14,NULL,NULL,Final,NULL,10,6,0,.625,314,12,4,0,.750,420,5,NFL
-191024017,1999,"October 24, 1999",New England Patriots,Denver Broncos,"5-2, 3-1 Home","2-5, 1-3 Away",24,23,NULL,NULL,Final,NULL,7,9,0,.438,282,12,4,0,.750,451,7,NFL
-191121015,1999,"November 21, 1999",Miami Dolphins,New England Patriots,"8-2, 4-1 Home","6-4, 3-2 Away",27,17,NULL,NULL,Final,NULL,10,6,0,.625,314,12,4,0,.750,420,11,NFL
-191205017,1999,"December 5, 1999",New England Patriots,Dallas Cowboys,"7-5, 4-2 Home","6-6, 1-6 Away",13,6,NULL,NULL,Final,NULL,8,8,0,.500,434,9,7,0,.563,385,13,NFL
-191219021,1999,"December 19, 1999",Philadelphia Eagles,New England Patriots,"4-11, 3-4 Home","7-7, 3-5 Away",24,9,NULL,NULL,Final,NULL,10,6,0,.625,314,12,4,0,.750,420,15,NFL
-200102017,1999,"January 2, 2000",New England Patriots,Baltimore Ravens,"8-8, 5-3 Home","8-8, 4-4 Away",20,3,NULL,NULL,Final,NULL,10,6,0,.625,314,12,4,0,.750,420,17,NFL
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
+0,190919017,1999,"September 19, 1999",New England Patriots,Indianapolis Colts,"2-0, 1-0 Home","1-1, 0-1 Away",31,28,,,Final,,10,6,0,0.625,314,12,4,0,0.75,420,2,NFL
+1,191003005,1999,"October 3, 1999",Cleveland Browns,New England Patriots,"0-4, 0-2 Home","4-0, 2-0 Away",7,19,,,Final,,10,6,0,0.625,314,12,4,0,0.75,420,4,NFL
+2,191017017,1999,"October 17, 1999",New England Patriots,Miami Dolphins,"4-2, 2-1 Home","4-1, 3-0 Away",30,31,,,Final,,10,6,0,0.625,314,12,4,0,0.75,420,6,NFL
+3,191031022,1999,"October 31, 1999",Arizona Cardinals,New England Patriots,"2-5, 1-3 Home","6-2, 3-1 Away",3,27,,,Final,,10,6,0,0.625,314,12,4,0,0.75,420,8,NFL
+4,191115017,1999,"November 15, 1999",New England Patriots,New York Jets,"6-3, 3-2 Home","3-6, 2-2 Away",17,24,,,Final,,10,6,0,0.625,314,12,4,0,0.75,420,10,NFL
+5,191128002,1999,"November 28, 1999",Buffalo Bills,New England Patriots,"8-4, 5-1 Home","6-5, 3-3 Away",17,7,,,Final,,10,6,0,0.625,314,12,4,0,0.75,420,12,NFL
+6,191212011,1999,"December 12, 1999",Indianapolis Colts,New England Patriots,"11-2, 6-1 Home","7-6, 3-4 Away",20,15,,,Final,,10,6,0,0.625,314,12,4,0,0.75,420,14,NFL
+7,191226017,1999,"December 26, 1999",New England Patriots,Buffalo Bills,"7-8, 4-3 Home","10-5, 5-3 Away",10,13,,,Final/OT,,10,6,0,0.625,314,12,4,0,0.75,420,16,NFL
+8,190912020,1999,"September 12, 1999",New York Jets,New England Patriots,"0-1, 0-1 Home","1-0, 1-0 Away",28,30,,,Final,,10,6,0,0.625,314,12,4,0,0.75,420,1,NFL
+9,190926017,1999,"September 26, 1999",New England Patriots,New York Giants,"3-0, 2-0 Home","1-2, 1-1 Away",16,14,,,Final,,8,8,0,0.5,434,9,7,0,0.563,385,3,NFL
+10,191010012,1999,"October 10, 1999",Kansas City Chiefs,New England Patriots,"3-2, 3-0 Home","4-1, 2-1 Away",16,14,,,Final,,10,6,0,0.625,314,12,4,0,0.75,420,5,NFL
+11,191024017,1999,"October 24, 1999",New England Patriots,Denver Broncos,"5-2, 3-1 Home","2-5, 1-3 Away",24,23,,,Final,,7,9,0,0.43799999999999994,282,12,4,0,0.75,451,7,NFL
+12,191121015,1999,"November 21, 1999",Miami Dolphins,New England Patriots,"8-2, 4-1 Home","6-4, 3-2 Away",27,17,,,Final,,10,6,0,0.625,314,12,4,0,0.75,420,11,NFL
+13,191205017,1999,"December 5, 1999",New England Patriots,Dallas Cowboys,"7-5, 4-2 Home","6-6, 1-6 Away",13,6,,,Final,,8,8,0,0.5,434,9,7,0,0.563,385,13,NFL
+14,191219021,1999,"December 19, 1999",Philadelphia Eagles,New England Patriots,"4-11, 3-4 Home","7-7, 3-5 Away",24,9,,,Final,,10,6,0,0.625,314,12,4,0,0.75,420,15,NFL
+15,200102017,1999,"January 2, 2000",New England Patriots,Baltimore Ravens,"8-8, 5-3 Home","8-8, 4-4 Away",20,3,,,Final,,10,6,0,0.625,314,12,4,0,0.75,420,17,NFL

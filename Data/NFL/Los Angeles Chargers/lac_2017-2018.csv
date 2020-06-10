@@ -1,21 +1,21 @@
-ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
-400951666,2017,"September 17, 2017",Los Angeles Chargers,Miami Dolphins,"0-2, 0-1 Home","1-0, 1-0 Away",17,19,NULL,NULL,Final,CBS,0,10,7,0,NULL,3,0,10,6,NULL,2,NFL
-400951738,2017,"October 1, 2017",Los Angeles Chargers,Philadelphia Eagles,"0-4, 0-3 Home","3-1, 2-1 Away",24,26,NULL,NULL,Final,FOX,0,10,0,14,NULL,10,6,3,7,NULL,4,NFL
-400951779,2017,"October 15, 2017",Oakland Raiders,Los Angeles Chargers,"2-4, 1-2 Home","2-4, 2-1 Away",16,17,NULL,NULL,Final,CBS,7,3,0,6,NULL,0,7,0,10,NULL,6,NFL
-400951715,2017,"October 29, 2017",New England Patriots,Los Angeles Chargers,"6-2, 3-2 Home","3-5, 2-2 Away",21,13,NULL,NULL,Final,CBS,0,15,3,3,NULL,7,0,0,6,NULL,8,NFL
-400951648,2017,"November 12, 2017",Jacksonville Jaguars,Los Angeles Chargers,"6-3, 3-2 Home","3-6, 2-3 Away",20,17,NULL,NULL,Final/OT,CBS,6,0,8,3,3,0,7,7,3,0,10,NFL
-400951573,2017,"November 23, 2017",Dallas Cowboys,Los Angeles Chargers,"5-6, 2-4 Home","5-6, 3-3 Away",6,28,NULL,NULL,Final,CBS,0,0,0,6,NULL,0,3,13,12,NULL,12,NFL
-400951687,2017,"December 10, 2017",Los Angeles Chargers,Washington Redskins,"7-6, 4-3 Home","5-8, 2-5 Away",30,13,NULL,NULL,Final,CBS,13,10,7,0,NULL,0,6,0,7,NULL,14,NFL
-400951642,2017,"December 24, 2017",New York Jets,Los Angeles Chargers,"5-10, 4-4 Home","8-7, 4-4 Away",7,14,NULL,NULL,Final,CBS,0,0,7,0,NULL,0,7,7,0,NULL,16,NFL
-400951840,2017,"August 20, 2017",Los Angeles Chargers,New Orleans Saints,"0-2, 0-2 Home","1-1, 1-1 Away",7,13,NULL,NULL,Final,NFL,0,0,0,7,NULL,10,0,0,3,NULL,2,NFL
-400951615,2017,"September 11, 2017",Denver Broncos,Los Angeles Chargers,"1-0, 1-0 Home","0-1, 0-1 Away",24,21,NULL,NULL,Final,ESPN,7,7,10,0,NULL,0,7,0,14,NULL,1,NFL
-400951634,2017,"September 24, 2017",Los Angeles Chargers,Kansas City Chiefs,"0-3, 0-2 Home","3-0, 2-0 Away",10,24,NULL,NULL,Final,CBS,7,3,0,0,NULL,14,3,0,7,NULL,3,NFL
-400951650,2017,"October 8, 2017",New York Giants,Los Angeles Chargers,"0-5, 0-2 Home","1-4, 1-1 Away",22,27,NULL,NULL,Final,CBS,9,0,7,6,NULL,0,10,7,10,NULL,5,NFL
-400951624,2017,"October 22, 2017",Los Angeles Chargers,Denver Broncos,"3-4, 1-3 Home","3-3, 0-2 Away",21,0,NULL,NULL,Final,CBS,7,7,0,7,NULL,0,0,0,0,NULL,7,NFL
-400951807,2017,"November 19, 2017",Los Angeles Chargers,Buffalo Bills,"4-6, 2-3 Home","5-5, 1-4 Away",54,24,NULL,NULL,Final,FOX,10,27,10,7,NULL,7,0,3,14,NULL,11,NFL
-400951731,2017,"December 3, 2017",Los Angeles Chargers,Cleveland Browns,"6-6, 3-3 Home","0-12, 0-6 Away",19,10,NULL,NULL,Final,CBS,0,9,10,0,NULL,0,7,0,3,NULL,13,NFL
-400951772,2017,"December 16, 2017",Kansas City Chiefs,Los Angeles Chargers,"8-6, 5-2 Home","7-7, 3-4 Away",30,13,NULL,NULL,Final,NFL,3,7,10,10,NULL,0,6,7,0,NULL,15,NFL
-400951839,2017,"August 13, 2017",Los Angeles Chargers,Seattle Seahawks,"0-1, 0-1 Home","1-0, 1-0 Away",17,48,NULL,NULL,Final,NFL,14,3,0,0,NULL,10,24,7,7,NULL,1,NFL
-400950232,2017,"August 26, 2017",Los Angeles Rams,Los Angeles Chargers,"2-1, 1-1 Home","1-2, 1-0 Away",19,21,NULL,NULL,Final,CBS,0,9,7,3,NULL,21,0,0,0,NULL,3,NFL
-400950240,2017,"August 31, 2017",San Francisco 49ers,Los Angeles Chargers,"2-2, 1-1 Home","1-3, 1-1 Away",23,13,NULL,NULL,Final,NULL,3,20,0,0,NULL,0,3,3,7,NULL,4,NFL
-400951791,2017,"December 31, 2017",Los Angeles Chargers,Oakland Raiders,"9-7, 5-3 Home","6-10, 2-6 Away",30,10,NULL,NULL,Final,CBS,0,20,10,0,NULL,0,10,0,0,NULL,17,NFL
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
+0,400951666,2017,"September 17, 2017",Los Angeles Chargers,Miami Dolphins,"0-2, 0-1 Home","1-0, 1-0 Away",17,19,,,Final,CBS,0,10,7,0,,3,0,10,6,,2,NFL
+1,400951738,2017,"October 1, 2017",Los Angeles Chargers,Philadelphia Eagles,"0-4, 0-3 Home","3-1, 2-1 Away",24,26,,,Final,FOX,0,10,0,14,,10,6,3,7,,4,NFL
+2,400951779,2017,"October 15, 2017",Oakland Raiders,Los Angeles Chargers,"2-4, 1-2 Home","2-4, 2-1 Away",16,17,,,Final,CBS,7,3,0,6,,0,7,0,10,,6,NFL
+3,400951715,2017,"October 29, 2017",New England Patriots,Los Angeles Chargers,"6-2, 3-2 Home","3-5, 2-2 Away",21,13,,,Final,CBS,0,15,3,3,,7,0,0,6,,8,NFL
+4,400951648,2017,"November 12, 2017",Jacksonville Jaguars,Los Angeles Chargers,"6-3, 3-2 Home","3-6, 2-3 Away",20,17,,,Final/OT,CBS,6,0,8,3,3.0,0,7,7,3,0.0,10,NFL
+5,400951573,2017,"November 23, 2017",Dallas Cowboys,Los Angeles Chargers,"5-6, 2-4 Home","5-6, 3-3 Away",6,28,,,Final,CBS,0,0,0,6,,0,3,13,12,,12,NFL
+6,400951687,2017,"December 10, 2017",Los Angeles Chargers,Washington Redskins,"7-6, 4-3 Home","5-8, 2-5 Away",30,13,,,Final,CBS,13,10,7,0,,0,6,0,7,,14,NFL
+7,400951642,2017,"December 24, 2017",New York Jets,Los Angeles Chargers,"5-10, 4-4 Home","8-7, 4-4 Away",7,14,,,Final,CBS,0,0,7,0,,0,7,7,0,,16,NFL
+8,400951840,2017,"August 20, 2017",Los Angeles Chargers,New Orleans Saints,"0-2, 0-2 Home","1-1, 1-1 Away",7,13,,,Final,NFL,0,0,0,7,,10,0,0,3,,2,NFL
+9,400951615,2017,"September 11, 2017",Denver Broncos,Los Angeles Chargers,"1-0, 1-0 Home","0-1, 0-1 Away",24,21,,,Final,ESPN,7,7,10,0,,0,7,0,14,,1,NFL
+10,400951634,2017,"September 24, 2017",Los Angeles Chargers,Kansas City Chiefs,"0-3, 0-2 Home","3-0, 2-0 Away",10,24,,,Final,CBS,7,3,0,0,,14,3,0,7,,3,NFL
+11,400951650,2017,"October 8, 2017",New York Giants,Los Angeles Chargers,"0-5, 0-2 Home","1-4, 1-1 Away",22,27,,,Final,CBS,9,0,7,6,,0,10,7,10,,5,NFL
+12,400951624,2017,"October 22, 2017",Los Angeles Chargers,Denver Broncos,"3-4, 1-3 Home","3-3, 0-2 Away",21,0,,,Final,CBS,7,7,0,7,,0,0,0,0,,7,NFL
+13,400951807,2017,"November 19, 2017",Los Angeles Chargers,Buffalo Bills,"4-6, 2-3 Home","5-5, 1-4 Away",54,24,,,Final,FOX,10,27,10,7,,7,0,3,14,,11,NFL
+14,400951731,2017,"December 3, 2017",Los Angeles Chargers,Cleveland Browns,"6-6, 3-3 Home","0-12, 0-6 Away",19,10,,,Final,CBS,0,9,10,0,,0,7,0,3,,13,NFL
+15,400951772,2017,"December 16, 2017",Kansas City Chiefs,Los Angeles Chargers,"8-6, 5-2 Home","7-7, 3-4 Away",30,13,,,Final,NFL,3,7,10,10,,0,6,7,0,,15,NFL
+16,400951839,2017,"August 13, 2017",Los Angeles Chargers,Seattle Seahawks,"0-1, 0-1 Home","1-0, 1-0 Away",17,48,,,Final,NFL,14,3,0,0,,10,24,7,7,,1,NFL
+17,400950232,2017,"August 26, 2017",Los Angeles Rams,Los Angeles Chargers,"2-1, 1-1 Home","1-2, 1-0 Away",19,21,,,Final,CBS,0,9,7,3,,21,0,0,0,,3,NFL
+18,400950240,2017,"August 31, 2017",San Francisco 49ers,Los Angeles Chargers,"2-2, 1-1 Home","1-3, 1-1 Away",23,13,,,Final,,3,20,0,0,,0,3,3,7,,4,NFL
+19,400951791,2017,"December 31, 2017",Los Angeles Chargers,Oakland Raiders,"9-7, 5-3 Home","6-10, 2-6 Away",30,10,,,Final,CBS,0,20,10,0,,0,10,0,0,,17,NFL

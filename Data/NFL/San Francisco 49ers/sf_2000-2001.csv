@@ -1,22 +1,22 @@
-ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
-200910025,2000,"September 10, 2000",San Francisco 49ers,Carolina Panthers,"0-2, 0-1 Home","1-1, 1-1 Away",22,38,NULL,NULL,Final,NULL,0,0,7,15,NULL,14,14,10,0,NULL,2,NFL
-200924006,2000,"September 24, 2000",Dallas Cowboys,San Francisco 49ers,"1-3, 0-2 Home","1-3, 1-2 Away",24,41,NULL,NULL,Final,NULL,0,10,0,14,NULL,3,14,10,14,NULL,4,NFL
-201008025,2000,"October 8, 2000",San Francisco 49ers,Oakland Raiders,"2-4, 1-2 Home","4-1, 2-0 Away",28,34,NULL,NULL,Final/OT,NULL,0,14,0,14,0,3,3,15,7,6,6,NFL
-201022029,2000,"October 22, 2000",Carolina Panthers,San Francisco 49ers,"3-4, 2-2 Home","2-6, 1-4 Away",34,16,NULL,NULL,Final,NULL,7,17,7,3,NULL,0,13,3,0,NULL,8,NFL
-201105018,2000,"November 5, 2000",New Orleans Saints,San Francisco 49ers,"6-3, 2-2 Home","2-8, 1-5 Away",31,15,NULL,NULL,Final,NULL,7,21,3,0,NULL,0,0,7,8,NULL,10,NFL
-201119025,2000,"November 19, 2000",San Francisco 49ers,Atlanta Falcons,"4-8, 3-3 Home","3-9, 1-5 Away",16,6,NULL,NULL,Final,NULL,3,3,7,3,NULL,0,3,3,0,NULL,12,NFL
-201203024,2000,"December 3, 2000",San Diego Chargers,San Francisco 49ers,"1-12, 1-6 Home","5-8, 2-5 Away",17,45,NULL,NULL,Final,NULL,7,3,0,7,NULL,0,17,10,18,NULL,14,NFL
-201217025,2000,"December 17, 2000",San Francisco 49ers,Chicago Bears,"6-9, 4-4 Home","4-11, 1-6 Away",17,0,NULL,NULL,Final,NULL,7,3,7,0,NULL,0,0,0,0,NULL,16,NFL
-200805025,2000,"August 5, 2000",San Francisco 49ers,San Diego Chargers,"0-2, 0-2 Home","1-0, 1-0 Away",20,23,NULL,NULL,Final,NULL,0,6,7,7,NULL,10,13,0,0,NULL,HOF,NFL
-200819026,2000,"August 19, 2000",Seattle Seahawks,San Francisco 49ers,"2-1, 2-0 Home","1-3, 1-1 Away",25,21,NULL,NULL,Final,NULL,10,8,0,7,NULL,7,14,0,0,NULL,2,NFL
-200903001,2000,"September 3, 2000",Atlanta Falcons,San Francisco 49ers,"1-0, 1-0 Home","0-1, 0-1 Away",36,28,NULL,NULL,Final,NULL,6,16,14,0,NULL,7,7,7,7,NULL,1,NFL
-200917014,2000,"September 17, 2000",St. Louis Rams,San Francisco 49ers,"3-0, 2-0 Home","0-3, 0-2 Away",41,24,NULL,NULL,Final,NULL,3,14,7,17,NULL,7,10,0,7,NULL,3,NFL
-201001025,2000,"October 1, 2000",San Francisco 49ers,Arizona Cardinals,"2-3, 1-1 Home","1-3, 0-2 Away",27,20,NULL,NULL,Final,NULL,7,10,7,3,NULL,0,10,0,10,NULL,5,NFL
-201015009,2000,"October 15, 2000",Green Bay Packers,San Francisco 49ers,"3-4, 2-2 Home","2-5, 1-3 Away",31,28,NULL,NULL,Final,NULL,7,7,7,10,NULL,0,7,7,14,NULL,7,NFL
-201029025,2000,"October 29, 2000",San Francisco 49ers,St. Louis Rams,"2-7, 1-3 Home","7-1, 3-1 Away",24,34,NULL,NULL,Final,NULL,7,10,7,0,NULL,7,7,10,10,NULL,9,NFL
-201112025,2000,"November 12, 2000",San Francisco 49ers,Kansas City Chiefs,"3-8, 2-3 Home","5-5, 2-3 Away",21,7,NULL,NULL,Final,NULL,0,21,0,0,NULL,0,0,0,7,NULL,11,NFL
-201210025,2000,"December 10, 2000",San Francisco 49ers,New Orleans Saints,"5-9, 3-4 Home","9-5, 7-1 Away",27,31,NULL,NULL,Final,NULL,7,7,0,13,NULL,3,0,11,17,NULL,15,NFL
-200731025,2000,"July 31, 2000",San Francisco 49ers,New England Patriots,"0-1, 0-1 Home","1-0, 1-0 Away",0,20,NULL,NULL,Final,NULL,0,0,0,0,NULL,3,10,7,0,NULL,,NFL
-200813012,2000,"August 13, 2000",Kansas City Chiefs,San Francisco 49ers,"0-2, 0-1 Home","1-2, 1-0 Away",10,33,NULL,NULL,Final,NULL,0,0,7,3,NULL,14,16,0,3,NULL,1,NFL
-201223007,2000,"December 23, 2000",Denver Broncos,San Francisco 49ers,"11-5, 6-2 Home","6-10, 2-6 Away",38,9,NULL,NULL,Final,NULL,0,17,21,0,NULL,0,0,0,9,NULL,17,NFL
-200825025,2000,"August 25, 2000",San Francisco 49ers,Denver Broncos,"1-4, 0-3 Home","4-0, 2-0 Away",24,28,NULL,NULL,Final,NULL,3,7,7,7,NULL,7,0,7,14,NULL,3,NFL
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
+0,200910025,2000,"September 10, 2000",San Francisco 49ers,Carolina Panthers,"0-2, 0-1 Home","1-1, 1-1 Away",22,38,,,Final,,0,0,7,15,,14,14,10,0,,2,NFL
+1,200924006,2000,"September 24, 2000",Dallas Cowboys,San Francisco 49ers,"1-3, 0-2 Home","1-3, 1-2 Away",24,41,,,Final,,0,10,0,14,,3,14,10,14,,4,NFL
+2,201008025,2000,"October 8, 2000",San Francisco 49ers,Oakland Raiders,"2-4, 1-2 Home","4-1, 2-0 Away",28,34,,,Final/OT,,0,14,0,14,0.0,3,3,15,7,6.0,6,NFL
+3,201022029,2000,"October 22, 2000",Carolina Panthers,San Francisco 49ers,"3-4, 2-2 Home","2-6, 1-4 Away",34,16,,,Final,,7,17,7,3,,0,13,3,0,,8,NFL
+4,201105018,2000,"November 5, 2000",New Orleans Saints,San Francisco 49ers,"6-3, 2-2 Home","2-8, 1-5 Away",31,15,,,Final,,7,21,3,0,,0,0,7,8,,10,NFL
+5,201119025,2000,"November 19, 2000",San Francisco 49ers,Atlanta Falcons,"4-8, 3-3 Home","3-9, 1-5 Away",16,6,,,Final,,3,3,7,3,,0,3,3,0,,12,NFL
+6,201203024,2000,"December 3, 2000",San Diego Chargers,San Francisco 49ers,"1-12, 1-6 Home","5-8, 2-5 Away",17,45,,,Final,,7,3,0,7,,0,17,10,18,,14,NFL
+7,201217025,2000,"December 17, 2000",San Francisco 49ers,Chicago Bears,"6-9, 4-4 Home","4-11, 1-6 Away",17,0,,,Final,,7,3,7,0,,0,0,0,0,,16,NFL
+8,200805025,2000,"August 5, 2000",San Francisco 49ers,San Diego Chargers,"0-2, 0-2 Home","1-0, 1-0 Away",20,23,,,Final,,0,6,7,7,,10,13,0,0,,HOF,NFL
+9,200819026,2000,"August 19, 2000",Seattle Seahawks,San Francisco 49ers,"2-1, 2-0 Home","1-3, 1-1 Away",25,21,,,Final,,10,8,0,7,,7,14,0,0,,2,NFL
+10,200903001,2000,"September 3, 2000",Atlanta Falcons,San Francisco 49ers,"1-0, 1-0 Home","0-1, 0-1 Away",36,28,,,Final,,6,16,14,0,,7,7,7,7,,1,NFL
+11,200917014,2000,"September 17, 2000",St. Louis Rams,San Francisco 49ers,"3-0, 2-0 Home","0-3, 0-2 Away",41,24,,,Final,,3,14,7,17,,7,10,0,7,,3,NFL
+12,201001025,2000,"October 1, 2000",San Francisco 49ers,Arizona Cardinals,"2-3, 1-1 Home","1-3, 0-2 Away",27,20,,,Final,,7,10,7,3,,0,10,0,10,,5,NFL
+13,201015009,2000,"October 15, 2000",Green Bay Packers,San Francisco 49ers,"3-4, 2-2 Home","2-5, 1-3 Away",31,28,,,Final,,7,7,7,10,,0,7,7,14,,7,NFL
+14,201029025,2000,"October 29, 2000",San Francisco 49ers,St. Louis Rams,"2-7, 1-3 Home","7-1, 3-1 Away",24,34,,,Final,,7,10,7,0,,7,7,10,10,,9,NFL
+15,201112025,2000,"November 12, 2000",San Francisco 49ers,Kansas City Chiefs,"3-8, 2-3 Home","5-5, 2-3 Away",21,7,,,Final,,0,21,0,0,,0,0,0,7,,11,NFL
+16,201210025,2000,"December 10, 2000",San Francisco 49ers,New Orleans Saints,"5-9, 3-4 Home","9-5, 7-1 Away",27,31,,,Final,,7,7,0,13,,3,0,11,17,,15,NFL
+17,200731025,2000,"July 31, 2000",San Francisco 49ers,New England Patriots,"0-1, 0-1 Home","1-0, 1-0 Away",0,20,,,Final,,0,0,0,0,,3,10,7,0,,,NFL
+18,200813012,2000,"August 13, 2000",Kansas City Chiefs,San Francisco 49ers,"0-2, 0-1 Home","1-2, 1-0 Away",10,33,,,Final,,0,0,7,3,,14,16,0,3,,1,NFL
+19,201223007,2000,"December 23, 2000",Denver Broncos,San Francisco 49ers,"11-5, 6-2 Home","6-10, 2-6 Away",38,9,,,Final,,0,17,21,0,,0,0,0,9,,17,NFL
+20,200825025,2000,"August 25, 2000",San Francisco 49ers,Denver Broncos,"1-4, 0-3 Home","4-0, 2-0 Away",24,28,,,Final,,3,7,7,7,,7,0,7,14,,3,NFL

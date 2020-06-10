@@ -1,21 +1,21 @@
-ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
-300919028,2010,"September 19, 2010",Washington Redskins,Houston Texans,"1-1, 1-1 Home","2-0, 1-0 Away",27,30,NULL,NULL,Final/OT,CBS,6,14,7,0,0,0,7,10,10,3,2,NFL
-301003021,2010,"October 3, 2010",Philadelphia Eagles,Washington Redskins,"2-2, 0-2 Home","2-2, 1-1 Away",12,17,NULL,NULL,Final,FOX,0,6,0,6,NULL,14,3,0,0,NULL,4,NFL
-301017028,2010,"October 17, 2010",Washington Redskins,Indianapolis Colts,"3-3, 2-2 Home","4-2, 2-2 Away",24,27,NULL,NULL,Final,NBC,7,0,10,7,NULL,7,10,7,3,NULL,6,NFL
-301031008,2010,"October 31, 2010",Detroit Lions,Washington Redskins,"2-5, 2-1 Home","4-4, 2-2 Away",37,25,NULL,NULL,Final,FOX,0,7,7,23,NULL,0,13,0,12,NULL,8,NFL
-301115028,2010,"November 15, 2010",Washington Redskins,Philadelphia Eagles,"4-5, 2-3 Home","6-3, 4-1 Away",28,59,NULL,NULL,Final,ESPN,0,14,7,7,NULL,28,17,14,0,NULL,10,NFL
-301128028,2010,"November 28, 2010",Washington Redskins,Minnesota Vikings,"5-6, 2-4 Home","4-7, 1-5 Away",13,17,NULL,NULL,Final,FOX,7,0,0,6,NULL,7,0,10,0,NULL,12,NFL
-301212028,2010,"December 12, 2010",Washington Redskins,Tampa Bay Buccaneers,"5-8, 2-5 Home","8-5, 5-2 Away",16,17,NULL,NULL,Final,FOX,0,10,0,6,NULL,0,3,6,8,NULL,14,NFL
-301226030,2010,"December 26, 2010",Jacksonville Jaguars,Washington Redskins,"8-7, 5-3 Home","6-9, 4-4 Away",17,20,NULL,NULL,Final/OT,FOX,0,7,3,7,0,10,0,0,7,3,16,NFL
-300821028,2010,"August 21, 2010",Washington Redskins,Baltimore Ravens,"1-1, 1-1 Home","2-0, 1-0 Away",3,23,NULL,NULL,Final,NULL,3,0,0,0,NULL,0,13,7,3,NULL,2,NFL
-300912028,2010,"September 12, 2010",Washington Redskins,Dallas Cowboys,"1-0, 1-0 Home","0-1, 0-1 Away",13,7,NULL,NULL,Final,NBC,3,7,0,3,NULL,0,0,7,0,NULL,1,NFL
-300926014,2010,"September 26, 2010",St. Louis Rams,Washington Redskins,"1-2, 1-1 Home","1-2, 0-1 Away",30,16,NULL,NULL,Final,FOX,14,0,7,9,NULL,0,13,3,0,NULL,3,NFL
-301010028,2010,"October 10, 2010",Washington Redskins,Green Bay Packers,"3-2, 2-1 Home","3-2, 1-2 Away",16,13,NULL,NULL,Final/OT,FOX,0,3,0,10,3,7,3,3,0,0,5,NFL
-301024003,2010,"October 24, 2010",Chicago Bears,Washington Redskins,"4-3, 2-2 Home","4-3, 2-1 Away",14,17,NULL,NULL,Final,FOX,7,7,0,0,NULL,7,3,7,0,NULL,7,NFL
-301121010,2010,"November 21, 2010",Tennessee Titans,Washington Redskins,"5-5, 2-3 Home","5-5, 3-2 Away",16,19,NULL,NULL,Final/OT,FOX,7,3,3,3,0,7,3,3,3,3,11,NFL
-301205019,2010,"December 5, 2010",New York Giants,Washington Redskins,"8-4, 5-2 Home","5-7, 3-3 Away",31,7,NULL,NULL,Final,FOX,14,7,7,3,NULL,0,0,7,0,NULL,13,NFL
-301219006,2010,"December 19, 2010",Dallas Cowboys,Washington Redskins,"5-9, 2-6 Home","5-9, 3-4 Away",33,30,NULL,NULL,Final,FOX,10,10,10,3,NULL,0,7,7,16,NULL,15,NFL
-300813028,2010,"August 13, 2010",Washington Redskins,Buffalo Bills,"1-0, 1-0 Home","0-1, 0-1 Away",42,17,NULL,NULL,Final,NULL,7,14,14,7,NULL,3,0,7,7,NULL,1,NFL
-300827020,2010,"August 27, 2010",New York Jets,Washington Redskins,"1-2, 0-2 Home","2-1, 1-0 Away",11,16,NULL,NULL,Final,NULL,3,2,0,6,NULL,3,3,3,7,NULL,3,NFL
-300902022,2010,"September 2, 2010",Arizona Cardinals,Washington Redskins,"3-1, 2-0 Home","2-2, 1-1 Away",20,10,NULL,NULL,Final,NULL,3,7,10,0,NULL,3,0,0,7,NULL,4,NFL
-310102028,2010,"January 2, 2011",Washington Redskins,New York Giants,"6-10, 2-6 Home","10-6, 5-3 Away",14,17,NULL,NULL,Final,FOX,0,7,0,7,NULL,3,7,7,0,NULL,17,NFL
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
+0,300919028,2010,"September 19, 2010",Washington Redskins,Houston Texans,"1-1, 1-1 Home","2-0, 1-0 Away",27,30,,,Final/OT,CBS,6,14,7,0,0.0,0,7,10,10,3.0,2,NFL
+1,301003021,2010,"October 3, 2010",Philadelphia Eagles,Washington Redskins,"2-2, 0-2 Home","2-2, 1-1 Away",12,17,,,Final,FOX,0,6,0,6,,14,3,0,0,,4,NFL
+2,301017028,2010,"October 17, 2010",Washington Redskins,Indianapolis Colts,"3-3, 2-2 Home","4-2, 2-2 Away",24,27,,,Final,NBC,7,0,10,7,,7,10,7,3,,6,NFL
+3,301031008,2010,"October 31, 2010",Detroit Lions,Washington Redskins,"2-5, 2-1 Home","4-4, 2-2 Away",37,25,,,Final,FOX,0,7,7,23,,0,13,0,12,,8,NFL
+4,301115028,2010,"November 15, 2010",Washington Redskins,Philadelphia Eagles,"4-5, 2-3 Home","6-3, 4-1 Away",28,59,,,Final,ESPN,0,14,7,7,,28,17,14,0,,10,NFL
+5,301128028,2010,"November 28, 2010",Washington Redskins,Minnesota Vikings,"5-6, 2-4 Home","4-7, 1-5 Away",13,17,,,Final,FOX,7,0,0,6,,7,0,10,0,,12,NFL
+6,301212028,2010,"December 12, 2010",Washington Redskins,Tampa Bay Buccaneers,"5-8, 2-5 Home","8-5, 5-2 Away",16,17,,,Final,FOX,0,10,0,6,,0,3,6,8,,14,NFL
+7,301226030,2010,"December 26, 2010",Jacksonville Jaguars,Washington Redskins,"8-7, 5-3 Home","6-9, 4-4 Away",17,20,,,Final/OT,FOX,0,7,3,7,0.0,10,0,0,7,3.0,16,NFL
+8,300821028,2010,"August 21, 2010",Washington Redskins,Baltimore Ravens,"1-1, 1-1 Home","2-0, 1-0 Away",3,23,,,Final,,3,0,0,0,,0,13,7,3,,2,NFL
+9,300912028,2010,"September 12, 2010",Washington Redskins,Dallas Cowboys,"1-0, 1-0 Home","0-1, 0-1 Away",13,7,,,Final,NBC,3,7,0,3,,0,0,7,0,,1,NFL
+10,300926014,2010,"September 26, 2010",St. Louis Rams,Washington Redskins,"1-2, 1-1 Home","1-2, 0-1 Away",30,16,,,Final,FOX,14,0,7,9,,0,13,3,0,,3,NFL
+11,301010028,2010,"October 10, 2010",Washington Redskins,Green Bay Packers,"3-2, 2-1 Home","3-2, 1-2 Away",16,13,,,Final/OT,FOX,0,3,0,10,3.0,7,3,3,0,0.0,5,NFL
+12,301024003,2010,"October 24, 2010",Chicago Bears,Washington Redskins,"4-3, 2-2 Home","4-3, 2-1 Away",14,17,,,Final,FOX,7,7,0,0,,7,3,7,0,,7,NFL
+13,301121010,2010,"November 21, 2010",Tennessee Titans,Washington Redskins,"5-5, 2-3 Home","5-5, 3-2 Away",16,19,,,Final/OT,FOX,7,3,3,3,0.0,7,3,3,3,3.0,11,NFL
+14,301205019,2010,"December 5, 2010",New York Giants,Washington Redskins,"8-4, 5-2 Home","5-7, 3-3 Away",31,7,,,Final,FOX,14,7,7,3,,0,0,7,0,,13,NFL
+15,301219006,2010,"December 19, 2010",Dallas Cowboys,Washington Redskins,"5-9, 2-6 Home","5-9, 3-4 Away",33,30,,,Final,FOX,10,10,10,3,,0,7,7,16,,15,NFL
+16,300813028,2010,"August 13, 2010",Washington Redskins,Buffalo Bills,"1-0, 1-0 Home","0-1, 0-1 Away",42,17,,,Final,,7,14,14,7,,3,0,7,7,,1,NFL
+17,300827020,2010,"August 27, 2010",New York Jets,Washington Redskins,"1-2, 0-2 Home","2-1, 1-0 Away",11,16,,,Final,,3,2,0,6,,3,3,3,7,,3,NFL
+18,300902022,2010,"September 2, 2010",Arizona Cardinals,Washington Redskins,"3-1, 2-0 Home","2-2, 1-1 Away",20,10,,,Final,,3,7,10,0,,3,0,0,7,,4,NFL
+19,310102028,2010,"January 2, 2011",Washington Redskins,New York Giants,"6-10, 2-6 Home","10-6, 5-3 Away",14,17,,,Final,FOX,0,7,0,7,,3,7,7,0,,17,NFL

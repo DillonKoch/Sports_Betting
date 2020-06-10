@@ -1,21 +1,21 @@
-ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
-300919009,2010,"September 19, 2010",Green Bay Packers,Buffalo Bills,"2-0, 1-0 Home","0-2, 0-1 Away",34,7,NULL,NULL,Final,CBS,13,0,14,7,NULL,0,7,0,0,NULL,2,NFL
-301003002,2010,"October 3, 2010",Buffalo Bills,New York Jets,"0-4, 0-2 Home","3-1, 2-0 Away",14,38,NULL,NULL,Final,CBS,0,7,0,7,NULL,7,10,21,0,NULL,4,NFL
-301031012,2010,"October 31, 2010",Kansas City Chiefs,Buffalo Bills,"5-2, 4-0 Home","0-7, 0-4 Away",13,10,NULL,NULL,Final/OT,CBS,0,7,0,3,3,0,0,3,7,0,8,NFL
-301114002,2010,"November 14, 2010",Buffalo Bills,Detroit Lions,"1-8, 1-4 Home","2-7, 0-5 Away",14,12,NULL,NULL,Final,FOX,0,7,7,0,NULL,0,3,0,9,NULL,10,NFL
-301128002,2010,"November 28, 2010",Buffalo Bills,Pittsburgh Steelers,"2-9, 1-5 Home","8-3, 5-1 Away",16,19,NULL,NULL,Final/OT,CBS,0,0,7,9,0,7,6,0,3,3,12,NFL
-301212002,2010,"December 12, 2010",Buffalo Bills,Cleveland Browns,"3-10, 2-5 Home","5-8, 2-5 Away",13,6,NULL,NULL,Final,CBS,0,10,0,3,NULL,3,3,0,0,NULL,14,NFL
-301226002,2010,"December 26, 2010",Buffalo Bills,New England Patriots,"4-11, 2-6 Home","13-2, 6-2 Away",3,34,NULL,NULL,Final,CBS,3,0,0,0,NULL,7,17,7,3,NULL,16,NFL
-300819002,2010,"August 19, 2010",Buffalo Bills,Indianapolis Colts,1-1,0-2,34,21,NULL,NULL,Final,NULL,21,3,0,10,NULL,14,7,0,0,NULL,2,NFL
-300912002,2010,"September 12, 2010",Buffalo Bills,Miami Dolphins,"0-1, 0-1 Home","1-0, 1-0 Away",10,15,NULL,NULL,Final,CBS,0,3,0,7,NULL,3,7,0,5,NULL,1,NFL
-300926017,2010,"September 26, 2010",New England Patriots,Buffalo Bills,"2-1, 2-0 Home","0-3, 0-2 Away",38,30,NULL,NULL,Final,CBS,7,10,14,7,NULL,3,13,7,7,NULL,3,NFL
-301010002,2010,"October 10, 2010",Buffalo Bills,Jacksonville Jaguars,"0-5, 0-3 Home","3-2, 1-1 Away",26,36,NULL,NULL,Final,CBS,10,3,7,6,NULL,3,10,14,9,NULL,5,NFL
-301024033,2010,"October 24, 2010",Baltimore Ravens,Buffalo Bills,"5-2, 3-0 Home","0-6, 0-3 Away",37,34,NULL,NULL,Final/OT,CBS,3,17,14,0,3,10,14,0,10,0,7,NFL
-301107002,2010,"November 7, 2010",Buffalo Bills,Chicago Bears,"0-8, 0-4 Home","5-3, 3-1 Away",19,22,NULL,NULL,Final,FOX,0,7,6,6,NULL,0,7,7,8,NULL,9,NFL
-301121004,2010,"November 21, 2010",Cincinnati Bengals,Buffalo Bills,"2-8, 1-4 Home","2-8, 1-4 Away",31,49,NULL,NULL,Final,CBS,7,24,0,0,NULL,7,7,14,21,NULL,11,NFL
-301205016,2010,"December 5, 2010",Minnesota Vikings,Buffalo Bills,"5-7, 4-2 Home","2-10, 1-5 Away",38,14,NULL,NULL,Final,CBS,7,24,0,7,NULL,7,0,0,7,NULL,13,NFL
-301219015,2010,"December 19, 2010",Miami Dolphins,Buffalo Bills,"7-7, 1-6 Home","4-10, 2-5 Away",14,17,NULL,NULL,Final,CBS,0,7,0,7,NULL,0,10,7,0,NULL,15,NFL
-300813028,2010,"August 13, 2010",Washington Redskins,Buffalo Bills,"1-0, 1-0 Home","0-1, 0-1 Away",42,17,NULL,NULL,Final,NULL,7,14,14,7,NULL,3,0,7,7,NULL,1,NFL
-300828002,2010,"August 28, 2010",Buffalo Bills,Cincinnati Bengals,"2-1, 2-0 Home","2-2, 0-1 Away",35,20,NULL,NULL,Final,NULL,7,14,7,7,NULL,7,7,6,0,NULL,3,NFL
-300902008,2010,"September 2, 2010",Detroit Lions,Buffalo Bills,"3-1, 2-0 Home","2-2, 0-2 Away",28,23,NULL,NULL,Final,NULL,0,7,7,14,NULL,10,6,0,7,NULL,4,NFL
-310102020,2010,"January 2, 2011",New York Jets,Buffalo Bills,"11-5, 5-3 Home","4-12, 2-6 Away",38,7,NULL,NULL,Final,CBS,3,14,7,14,NULL,0,0,7,0,NULL,17,NFL
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
+0,300919009,2010,"September 19, 2010",Green Bay Packers,Buffalo Bills,"2-0, 1-0 Home","0-2, 0-1 Away",34,7,,,Final,CBS,13,0,14,7,,0,7,0,0,,2,NFL
+1,301003002,2010,"October 3, 2010",Buffalo Bills,New York Jets,"0-4, 0-2 Home","3-1, 2-0 Away",14,38,,,Final,CBS,0,7,0,7,,7,10,21,0,,4,NFL
+2,301031012,2010,"October 31, 2010",Kansas City Chiefs,Buffalo Bills,"5-2, 4-0 Home","0-7, 0-4 Away",13,10,,,Final/OT,CBS,0,7,0,3,3.0,0,0,3,7,0.0,8,NFL
+3,301114002,2010,"November 14, 2010",Buffalo Bills,Detroit Lions,"1-8, 1-4 Home","2-7, 0-5 Away",14,12,,,Final,FOX,0,7,7,0,,0,3,0,9,,10,NFL
+4,301128002,2010,"November 28, 2010",Buffalo Bills,Pittsburgh Steelers,"2-9, 1-5 Home","8-3, 5-1 Away",16,19,,,Final/OT,CBS,0,0,7,9,0.0,7,6,0,3,3.0,12,NFL
+5,301212002,2010,"December 12, 2010",Buffalo Bills,Cleveland Browns,"3-10, 2-5 Home","5-8, 2-5 Away",13,6,,,Final,CBS,0,10,0,3,,3,3,0,0,,14,NFL
+6,301226002,2010,"December 26, 2010",Buffalo Bills,New England Patriots,"4-11, 2-6 Home","13-2, 6-2 Away",3,34,,,Final,CBS,3,0,0,0,,7,17,7,3,,16,NFL
+7,300819002,2010,"August 19, 2010",Buffalo Bills,Indianapolis Colts,1-1,0-2,34,21,,,Final,,21,3,0,10,,14,7,0,0,,2,NFL
+8,300912002,2010,"September 12, 2010",Buffalo Bills,Miami Dolphins,"0-1, 0-1 Home","1-0, 1-0 Away",10,15,,,Final,CBS,0,3,0,7,,3,7,0,5,,1,NFL
+9,300926017,2010,"September 26, 2010",New England Patriots,Buffalo Bills,"2-1, 2-0 Home","0-3, 0-2 Away",38,30,,,Final,CBS,7,10,14,7,,3,13,7,7,,3,NFL
+10,301010002,2010,"October 10, 2010",Buffalo Bills,Jacksonville Jaguars,"0-5, 0-3 Home","3-2, 1-1 Away",26,36,,,Final,CBS,10,3,7,6,,3,10,14,9,,5,NFL
+11,301024033,2010,"October 24, 2010",Baltimore Ravens,Buffalo Bills,"5-2, 3-0 Home","0-6, 0-3 Away",37,34,,,Final/OT,CBS,3,17,14,0,3.0,10,14,0,10,0.0,7,NFL
+12,301107002,2010,"November 7, 2010",Buffalo Bills,Chicago Bears,"0-8, 0-4 Home","5-3, 3-1 Away",19,22,,,Final,FOX,0,7,6,6,,0,7,7,8,,9,NFL
+13,301121004,2010,"November 21, 2010",Cincinnati Bengals,Buffalo Bills,"2-8, 1-4 Home","2-8, 1-4 Away",31,49,,,Final,CBS,7,24,0,0,,7,7,14,21,,11,NFL
+14,301205016,2010,"December 5, 2010",Minnesota Vikings,Buffalo Bills,"5-7, 4-2 Home","2-10, 1-5 Away",38,14,,,Final,CBS,7,24,0,7,,7,0,0,7,,13,NFL
+15,301219015,2010,"December 19, 2010",Miami Dolphins,Buffalo Bills,"7-7, 1-6 Home","4-10, 2-5 Away",14,17,,,Final,CBS,0,7,0,7,,0,10,7,0,,15,NFL
+16,300813028,2010,"August 13, 2010",Washington Redskins,Buffalo Bills,"1-0, 1-0 Home","0-1, 0-1 Away",42,17,,,Final,,7,14,14,7,,3,0,7,7,,1,NFL
+17,300828002,2010,"August 28, 2010",Buffalo Bills,Cincinnati Bengals,"2-1, 2-0 Home","2-2, 0-1 Away",35,20,,,Final,,7,14,7,7,,7,7,6,0,,3,NFL
+18,300902008,2010,"September 2, 2010",Detroit Lions,Buffalo Bills,"3-1, 2-0 Home","2-2, 0-2 Away",28,23,,,Final,,0,7,7,14,,10,6,0,7,,4,NFL
+19,310102020,2010,"January 2, 2011",New York Jets,Buffalo Bills,"11-5, 5-3 Home","4-12, 2-6 Away",38,7,,,Final,CBS,3,14,7,14,,0,0,7,0,,17,NFL

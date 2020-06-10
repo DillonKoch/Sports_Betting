@@ -1,0 +1,83 @@
+,Unnamed: 0,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,0,400827911,2015,"Fri, Oct 30",Boston Celtics,Toronto Raptors,"1-1, 1-1 Home","2-0, 1-0 Away",103,113,,,Final,,26,28,21,28,,26,28,30,29,,NBA
+1,1,400827944,2015,"Tue, Nov 3",Dallas Mavericks,Toronto Raptors,"2-2, 0-1 Home","4-0, 2-0 Away",91,102,,,Final,,25,26,22,18,,31,18,25,28,,NBA
+2,2,400827962,2015,"Fri, Nov 6",Orlando Magic,Toronto Raptors,"2-4, 1-2 Home","5-1, 3-1 Away",92,87,,,Final,,21,24,19,28,,15,21,33,18,,NBA
+3,3,400827996,2015,"Tue, Nov 10",Toronto Raptors,New York Knicks,"5-3, 2-1 Home","4-4, 3-1 Away",109,111,,,Final,,17,35,33,24,,24,36,25,26,,NBA
+4,4,400828018,2015,"Fri, Nov 13",Toronto Raptors,New Orleans Pelicans,"7-3, 3-1 Home","1-8, 0-5 Away",100,81,,,Final,,17,23,32,28,,21,19,21,20,,NBA
+5,5,400828051,2015,"Tue, Nov 17",Golden State Warriors,Toronto Raptors,"12-0, 7-0 Home","7-5, 4-4 Away",115,110,,,Final,NBATV,29,34,27,25,,25,22,36,27,,NBA
+6,6,400828075,2015,"Fri, Nov 20",Los Angeles Lakers,Toronto Raptors,"2-10, 1-4 Home","8-6, 5-5 Away",91,102,,,Final,,21,29,18,23,,27,22,27,26,,NBA
+7,7,400828106,2015,"Wed, Nov 25",Toronto Raptors,Cleveland Cavaliers,"10-6, 4-1 Home","11-4, 3-4 Away",103,99,,,Final,,25,24,33,21,,25,24,31,19,,NBA
+8,8,400828137,2015,"Sun, Nov 29",Toronto Raptors,Phoenix Suns,"11-7, 4-2 Home","8-9, 3-4 Away",102,107,,,Final,,18,31,23,30,,21,32,28,26,,NBA
+9,9,400828165,2015,"Thu, Dec 3",Toronto Raptors,Denver Nuggets,"12-8, 4-3 Home","7-13, 4-7 Away",105,106,,,Final,,19,23,29,34,,29,27,25,25,,NBA
+10,10,400828195,2015,"Mon, Dec 7",Toronto Raptors,Los Angeles Lakers,"13-9, 5-4 Home","3-18, 2-12 Away",102,93,,,Final,,25,27,19,31,,22,20,29,22,,NBA
+11,11,400828224,2015,"Fri, Dec 11",Toronto Raptors,Milwaukee Bucks,"15-9, 7-4 Home","9-15, 2-10 Away",90,83,,,Final,,24,25,21,20,,17,14,29,23,,NBA
+12,12,400828244,2015,"Mon, Dec 14",Indiana Pacers,Toronto Raptors,"14-9, 8-3 Home","16-10, 8-6 Away",106,90,,,Final,,27,25,21,33,,28,13,23,26,,NBA
+13,13,400828277,2015,"Fri, Dec 18",Miami Heat,Toronto Raptors,"15-10, 11-5 Home","17-11, 9-7 Away",94,108,,,Final,,25,30,22,17,,27,23,31,27,,NBA
+14,14,400828308,2015,"Tue, Dec 22",Toronto Raptors,Dallas Mavericks,"18-12, 9-5 Home","15-13, 8-8 Away",103,99,,,Final,NBATV,32,17,23,31,,16,20,31,32,,NBA
+15,15,400828350,2015,"Mon, Dec 28",Chicago Bulls,Toronto Raptors,"17-12, 12-5 Home","19-13, 10-8 Away",104,97,,,Final,NBATV,23,26,29,26,,32,20,21,24,,NBA
+16,16,400828379,2015,"Fri, Jan 1",Toronto Raptors,Charlotte Hornets,"21-13, 11-5 Home","17-15, 4-9 Away",104,94,,,Final,,29,26,19,30,,28,27,27,12,,NBA
+17,17,400828398,2015,"Mon, Jan 4",Cleveland Cavaliers,Toronto Raptors,"23-9, 15-1 Home","21-15, 10-9 Away",122,100,,,Final,,33,25,32,32,,29,27,22,22,,NBA
+18,18,400828427,2015,"Fri, Jan 8",Washington Wizards,Toronto Raptors,"15-19, 8-11 Home","23-15, 12-9 Away",88,97,,,Final,,26,21,14,27,,18,29,26,24,,NBA
+19,19,400828475,2015,"Thu, Jan 14",Orlando Magic,Toronto Raptors,20-19,25-15,103,106,,,Final/OT,NBATV,18,36,19,23,7.0,31,30,16,19,10.0,NBA
+20,20,400828520,2015,"Wed, Jan 20",Toronto Raptors,Boston Celtics,"27-15, 13-6 Home","22-21, 11-11 Away",115,109,,,Final,,35,21,40,19,,27,35,28,19,,NBA
+21,21,400828553,2015,"Sun, Jan 24",Toronto Raptors,LA Clippers,"29-15, 15-6 Home","28-16, 13-9 Away",112,94,,,Final,,27,35,21,29,,34,15,22,23,,NBA
+22,22,400828581,2015,"Thu, Jan 28",Toronto Raptors,New York Knicks,"31-15, 17-6 Home","22-26, 9-16 Away",103,93,,,Final,TNT,27,26,20,30,,21,22,20,30,,NBA
+23,23,400828614,2015,"Mon, Feb 1",Denver Nuggets,Toronto Raptors,"19-30, 10-15 Home","32-16, 14-10 Away",112,93,,,Final,,28,32,20,32,,28,21,16,28,,NBA
+24,24,400828635,2015,"Thu, Feb 4",Portland Trail Blazers,Toronto Raptors,"24-27, 15-11 Home","34-16, 16-10 Away",103,110,,,Final,,25,26,24,28,,37,22,23,28,,NBA
+25,25,400828684,2015,"Wed, Feb 10",Minnesota Timberwolves,Toronto Raptors,"17-37, 9-19 Home","35-17, 17-11 Away",117,112,,,Final,,26,29,33,29,,32,36,21,23,,NBA
+26,26,400828716,2015,"Sun, Feb 21",Toronto Raptors,Memphis Grizzlies,"36-18, 19-6 Home","32-23, 12-14 Away",98,85,,,Final,,22,24,28,24,,20,23,21,21,,NBA
+27,27,400828736,2015,"Wed, Feb 24",Toronto Raptors,Minnesota Timberwolves,"38-18, 20-6 Home","18-40, 8-20 Away",114,105,,,Final,,37,24,26,27,,28,30,28,19,,NBA
+28,28,400828766,2015,"Sun, Feb 28",Detroit Pistons,Toronto Raptors,"31-29, 18-11 Home","39-19, 18-13 Away",114,101,,,Final,,23,29,37,25,,25,27,20,29,,NBA
+29,29,400828803,2015,"Fri, Mar 4",Toronto Raptors,Portland Trail Blazers,"41-19, 23-6 Home","33-30, 14-18 Away",117,115,,,Final,,31,27,32,27,,30,22,25,38,,NBA
+30,30,400828831,2015,"Tue, Mar 8",Toronto Raptors,Brooklyn Nets,"42-20, 24-7 Home","18-46, 7-24 Away",104,99,,,Final,,28,14,36,26,,23,35,22,19,,NBA
+31,31,400828864,2015,"Sat, Mar 12",Toronto Raptors,Miami Heat,"44-20, 26-7 Home","38-28, 17-16 Away",112,104,,,Final/OT,,28,25,17,27,15.0,24,22,25,26,7.0,NBA
+32,32,400828887,2015,"Tue, Mar 15",Milwaukee Bucks,Toronto Raptors,"29-39, 20-13 Home","45-21, 19-13 Away",89,107,,,Final,,28,21,17,23,,22,30,29,26,,NBA
+33,33,400828910,2015,"Fri, Mar 18",Toronto Raptors,Boston Celtics,"47-21, 27-8 Home","39-30, 16-18 Away",105,91,,,Final,NBATV,30,25,24,26,,14,27,33,17,,NBA
+34,34,400828944,2015,"Wed, Mar 23",Boston Celtics,Toronto Raptors,"42-30, 25-12 Home","48-22, 20-14 Away",91,79,,,Final,,25,21,23,22,,25,21,16,17,,NBA
+35,35,400828971,2015,"Sat, Mar 26",New Orleans Pelicans,Toronto Raptors,"26-46, 18-18 Home","49-23, 21-15 Away",91,115,,,Final,,15,21,25,30,,20,28,37,30,,NBA
+36,36,400829000,2015,"Wed, Mar 30",Toronto Raptors,Atlanta Hawks,"50-24, 29-9 Home","45-31, 21-18 Away",105,97,,,Final,NBATV,25,29,35,16,,20,21,26,30,,NBA
+37,37,400829027,2015,"Sat, Apr 2",San Antonio Spurs,Toronto Raptors,"64-12, 39-0 Home","51-25, 22-16 Away",102,95,,,Final,,26,29,16,31,,18,28,20,29,,NBA
+38,38,400829060,2015,"Thu, Apr 7",Atlanta Hawks,Toronto Raptors,"47-32, 26-14 Home","52-26, 22-17 Away",95,87,,,Final,,28,19,23,25,,20,23,20,24,,NBA
+39,39,400829089,2015,"Sun, Apr 10",New York Knicks,Toronto Raptors,"32-49, 18-23 Home","54-26, 23-17 Away",89,93,,,Final,,25,26,18,20,,20,34,21,18,,NBA
+40,40,400827896,2015,"Wed, Oct 28",Toronto Raptors,Indiana Pacers,"1-0, 1-0 Home","0-1, 0-1 Away",106,99,,,Final,,20,17,35,34,,30,15,23,31,,NBA
+41,41,400827929,2015,"Sun, Nov 1",Toronto Raptors,Milwaukee Bucks,"3-0, 2-0 Home","0-3, 0-1 Away",106,87,,,Final,NBATV,24,31,26,25,,19,22,30,16,,NBA
+42,42,400827953,2015,"Wed, Nov 4",Oklahoma City Thunder,Toronto Raptors,"3-2, 2-1 Home","5-0, 3-0 Away",98,103,,,Final,,23,16,42,17,,13,27,33,30,,NBA
+43,43,400827983,2015,"Sun, Nov 8",Miami Heat,Toronto Raptors,"4-3, 3-1 Home","5-2, 3-2 Away",96,76,,,Final,,22,22,30,22,,24,23,16,13,,NBA
+44,44,400828002,2015,"Wed, Nov 11",Philadelphia 76ers,Toronto Raptors,"0-8, 0-5 Home","6-3, 4-2 Away",103,119,,,Final,,34,23,20,26,,29,34,33,23,,NBA
+45,45,400828037,2015,"Sun, Nov 15",Sacramento Kings,Toronto Raptors,"4-7, 4-5 Home","7-4, 4-3 Away",107,101,,,Final,,22,31,26,28,,23,28,31,19,,NBA
+46,46,400828060,2015,"Wed, Nov 18",Utah Jazz,Toronto Raptors,"6-5, 2-1 Home","7-6, 4-5 Away",93,89,,,Final,,24,18,17,34,,19,26,19,25,,NBA
+47,47,400828083,2015,"Sun, Nov 22",LA Clippers,Toronto Raptors,"6-7, 5-3 Home","9-6, 6-5 Away",80,91,,,Final,,23,11,21,25,,33,30,8,20,,NBA
+48,48,400828126,2015,"Sat, Nov 28",Washington Wizards,Toronto Raptors,"6-8, 3-4 Home","11-6, 7-5 Away",82,84,,,Final,,23,22,23,14,,16,23,23,22,,NBA
+49,49,400828159,2015,"Wed, Dec 2",Atlanta Hawks,Toronto Raptors,"12-9, 7-4 Home","12-7, 8-5 Away",86,96,,,Final,,18,28,20,20,,16,16,25,39,,NBA
+50,50,400828177,2015,"Sat, Dec 5",Toronto Raptors,Golden State Warriors,"12-9, 4-4 Home","21-0, 11-0 Away",109,112,,,Final,,21,28,30,30,,32,27,24,29,,NBA
+51,51,400828210,2015,"Wed, Dec 9",Toronto Raptors,San Antonio Spurs,"14-9, 6-4 Home","18-5, 7-5 Away",97,94,,,Final,,27,26,20,24,,21,25,16,32,,NBA
+52,52,400828242,2015,"Sun, Dec 13",Toronto Raptors,Philadelphia 76ers,"16-9, 8-4 Home","1-24, 0-14 Away",96,76,,,Final,,32,20,17,27,,24,20,14,18,,NBA
+53,53,400828270,2015,"Thu, Dec 17",Charlotte Hornets,Toronto Raptors,"15-10, 11-4 Home","16-11, 8-7 Away",109,99,,,Final/OT,,25,31,21,13,19.0,20,24,21,25,9.0,NBA
+54,54,400828295,2015,"Sun, Dec 20",Toronto Raptors,Sacramento Kings,"17-12, 8-5 Home","11-16, 3-9 Away",94,104,,,Final,,18,30,22,24,,37,18,23,26,,NBA
+55,55,400828328,2015,"Sat, Dec 26",Milwaukee Bucks,Toronto Raptors,"12-19, 9-6 Home","19-12, 10-7 Away",90,111,,,Final,,17,35,27,11,,22,34,20,35,,NBA
+56,56,400828364,2015,"Wed, Dec 30",Toronto Raptors,Washington Wizards,"20-13, 10-5 Home","14-16, 7-8 Away",94,91,,,Final,NBATV,28,24,25,17,,27,14,24,26,,NBA
+57,57,400828394,2015,"Sun, Jan 3",Toronto Raptors,Chicago Bulls,"21-14, 11-6 Home","20-12, 6-7 Away",113,115,,,Final,,26,34,27,26,,26,22,33,34,,NBA
+58,58,400828416,2015,"Wed, Jan 6",Brooklyn Nets,Toronto Raptors,"10-25, 6-12 Home","22-15, 11-9 Away",74,91,,,Final,,17,19,20,18,,24,21,25,21,,NBA
+59,59,400828441,2015,"Sat, Jan 9",Philadelphia 76ers,Toronto Raptors,"4-35, 2-14 Home","24-15, 13-9 Away",95,108,,,Final,,26,18,25,26,,25,32,18,33,,NBA
+60,60,400828508,2015,"Mon, Jan 18",Toronto Raptors,Brooklyn Nets,"26-15, 12-6 Home","11-31, 4-16 Away",112,100,,,Final,,19,33,29,31,,29,20,35,16,,NBA
+61,61,400828536,2015,"Fri, Jan 22",Toronto Raptors,Miami Heat,"28-15, 14-6 Home","23-21, 8-12 Away",101,81,,,Final,ESPN,31,29,20,21,,20,24,23,14,,NBA
+62,62,400828567,2015,"Tue, Jan 26",Toronto Raptors,Washington Wizards,"30-15, 16-6 Home","20-23, 10-9 Away",106,89,,,Final,,24,29,24,29,,18,32,20,19,,NBA
+63,63,400828595,2015,"Sat, Jan 30",Toronto Raptors,Detroit Pistons,"32-15, 18-6 Home","25-23, 10-15 Away",111,107,,,Final,,26,29,26,30,,17,30,25,35,,NBA
+64,64,400828619,2015,"Tue, Feb 2",Phoenix Suns,Toronto Raptors,"14-36, 10-14 Home","33-16, 15-10 Away",97,104,,,Final,,32,13,26,26,,28,24,26,26,,NBA
+65,65,400828666,2015,"Mon, Feb 8",Detroit Pistons,Toronto Raptors,"27-26, 16-9 Home","35-16, 17-10 Away",89,103,,,Final,,24,19,22,24,,19,30,21,33,,NBA
+66,66,400828696,2015,"Fri, Feb 19",Chicago Bulls,Toronto Raptors,"28-26, 17-10 Home","35-18, 17-12 Away",116,106,,,Final,,24,28,37,27,,35,23,23,25,,NBA
+67,67,400828722,2015,"Mon, Feb 22",New York Knicks,Toronto Raptors,"24-34, 14-16 Home","37-18, 18-12 Away",95,122,,,Final,,28,15,25,27,,26,31,29,36,,NBA
+68,68,400828751,2015,"Fri, Feb 26",Toronto Raptors,Cleveland Cavaliers,"39-18, 21-6 Home","41-16, 17-11 Away",99,97,,,Final,,21,24,23,31,,31,18,28,20,,NBA
+69,69,400828787,2015,"Wed, Mar 2",Toronto Raptors,Utah Jazz,"40-19, 22-6 Home","28-32, 9-20 Away",104,94,,,Final,,24,28,33,19,,26,23,25,20,,NBA
+70,70,400828823,2015,"Sun, Mar 6",Toronto Raptors,Houston Rockets,"41-20, 23-7 Home","31-32, 14-18 Away",107,113,,,Final,,30,31,24,22,,26,25,26,36,,NBA
+71,71,400828846,2015,"Thu, Mar 10",Toronto Raptors,Atlanta Hawks,"43-20, 25-7 Home","36-29, 17-17 Away",104,96,,,Final,,20,32,30,22,,21,27,27,21,,NBA
+72,72,400828878,2015,"Mon, Mar 14",Toronto Raptors,Chicago Bulls,"44-21, 26-8 Home","33-32, 12-20 Away",107,109,,,Final,,29,23,25,30,,34,24,26,25,,NBA
+73,73,400828899,2015,"Thu, Mar 17",Indiana Pacers,Toronto Raptors,"36-32, 20-12 Home","46-21, 20-13 Away",94,101,,,Final/OT,,25,21,14,25,9.0,27,16,20,22,16.0,NBA
+74,74,400828925,2015,"Sun, Mar 20",Toronto Raptors,Orlando Magic,"48-21, 28-8 Home","29-40, 11-23 Away",105,100,,,Final,,30,23,27,25,,25,30,27,18,,NBA
+75,75,400828964,2015,"Fri, Mar 25",Houston Rockets,Toronto Raptors,"36-37, 20-16 Home","48-23, 20-15 Away",112,109,,,Final,,29,25,25,33,,21,37,20,31,,NBA
+76,76,400828985,2015,"Mon, Mar 28",Toronto Raptors,Oklahoma City Thunder,"49-24, 28-9 Home","52-22, 22-13 Away",100,119,,,Final,,21,27,26,26,,27,34,36,22,,NBA
+77,77,400829019,2015,"Fri, Apr 1",Memphis Grizzlies,Toronto Raptors,"41-35, 25-14 Home","51-24, 22-15 Away",95,99,,,Final,,23,30,19,23,,27,18,29,25,,NBA
+78,78,400829043,2015,"Tue, Apr 5",Toronto Raptors,Charlotte Hornets,"52-25, 30-9 Home","44-33, 16-22 Away",96,90,,,Final,,26,30,19,21,,16,26,17,31,,NBA
+79,79,400829070,2015,"Fri, Apr 8",Toronto Raptors,Indiana Pacers,"53-26, 31-9 Home","42-37, 18-22 Away",111,98,,,Final,,20,30,32,29,,15,31,20,32,,NBA
+80,80,400829101,2015,"Tue, Apr 12",Toronto Raptors,Philadelphia 76ers,"55-26, 32-9 Home","10-71, 3-37 Away",122,98,,,Final,,32,23,32,35,,23,38,13,24,,NBA
+81,81,400829105,2015,"Wed, Apr 13",Brooklyn Nets,Toronto Raptors,"21-61, 14-27 Home","56-26, 24-17 Away",96,103,,,Final,,26,21,19,30,,16,33,29,25,,NBA

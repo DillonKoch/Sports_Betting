@@ -1,21 +1,21 @@
-ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
-400791680,2015,"September 20, 2015",Jacksonville Jaguars,Miami Dolphins,"1-1, 1-1 Home","1-1, 1-1 Away",23,20,NULL,NULL,Final,CBS,10,10,0,3,NULL,3,10,7,0,NULL,2,NFL
-400791671,2015,"October 4, 2015",Indianapolis Colts,Jacksonville Jaguars,"2-2, 1-1 Home","1-3, 0-2 Away",16,13,NULL,NULL,Final/OT,CBS,3,7,0,3,3,3,10,0,0,0,4,NFL
-400791637,2015,"October 18, 2015",Jacksonville Jaguars,Houston Texans,"1-5, 1-2 Home","2-4, 1-2 Away",20,31,NULL,NULL,Final,CBS,0,7,7,6,NULL,7,3,0,21,NULL,6,NFL
-400791581,2015,"November 15, 2015",Baltimore Ravens,Jacksonville Jaguars,"2-7, 1-3 Home","3-6, 1-4 Away",20,22,NULL,NULL,Final,CBS,0,14,0,6,NULL,7,3,3,9,NULL,10,NFL
-400791519,2015,"November 29, 2015",Jacksonville Jaguars,San Diego Chargers,"4-7, 3-3 Home","3-8, 1-4 Away",25,31,NULL,NULL,Final,CBS,6,3,3,13,NULL,0,21,3,7,NULL,12,NFL
-400791573,2015,"December 13, 2015",Jacksonville Jaguars,Indianapolis Colts,"5-8, 4-3 Home","6-7, 3-4 Away",51,16,NULL,NULL,Final,CBS,3,6,21,21,NULL,3,10,3,0,NULL,14,NFL
-400791528,2015,"December 27, 2015",New Orleans Saints,Jacksonville Jaguars,"6-9, 4-4 Home","5-10, 1-6 Away",38,27,NULL,NULL,Final,CBS,14,10,7,7,NULL,0,6,13,8,NULL,16,NFL
-400791770,2015,"August 22, 2015",New York Giants,Jacksonville Jaguars,"1-1, 1-0 Home","1-1, 0-1 Away",22,12,NULL,NULL,Final,NULL,3,3,6,10,NULL,6,3,0,3,NULL,2,NFL
-400791547,2015,"September 13, 2015",Jacksonville Jaguars,Carolina Panthers,"0-1, 0-1 Home","1-0, 1-0 Away",9,20,NULL,NULL,Final,FOX,3,6,0,0,NULL,3,7,7,3,NULL,1,NFL
-400791553,2015,"September 27, 2015",New England Patriots,Jacksonville Jaguars,"3-0, 2-0 Home","1-2, 0-1 Away",51,17,NULL,NULL,Final,CBS,10,10,17,14,NULL,0,3,7,7,NULL,3,NFL
-400791498,2015,"October 11, 2015",Tampa Bay Buccaneers,Jacksonville Jaguars,"2-3, 1-2 Home","1-4, 0-3 Away",38,31,NULL,NULL,Final,CBS,3,17,11,7,NULL,0,14,10,7,NULL,5,NFL
-400761515,2015,"October 25, 2015",Jacksonville Jaguars,Buffalo Bills,2-5,3-4,34,31,NULL,NULL,Final,Yahoo,0,27,0,7,NULL,3,10,0,18,NULL,7,NFL
-400791728,2015,"November 8, 2015",New York Jets,Jacksonville Jaguars,"5-3, 3-1 Home","2-6, 0-4 Away",28,23,NULL,NULL,Final,CBS,14,0,7,7,NULL,3,7,3,10,NULL,9,NFL
-400791632,2015,"November 19, 2015",Jacksonville Jaguars,Tennessee Titans,"4-6, 3-2 Home","2-8, 2-3 Away",19,13,NULL,NULL,Final,NFL,0,6,3,10,NULL,3,3,7,0,NULL,11,NFL
-400791643,2015,"December 6, 2015",Tennessee Titans,Jacksonville Jaguars,"3-9, 1-6 Home","4-8, 1-5 Away",42,39,NULL,NULL,Final,CBS,7,14,0,21,NULL,0,12,7,20,NULL,13,NFL
-400791685,2015,"December 20, 2015",Jacksonville Jaguars,Atlanta Falcons,"5-9, 4-4 Home","7-7, 4-4 Away",17,23,NULL,NULL,Final,FOX,0,3,14,0,NULL,7,10,0,6,NULL,15,NFL
-400791141,2015,"August 14, 2015",Jacksonville Jaguars,Pittsburgh Steelers,"1-0, 1-0 Home","0-2, 0-2 Away",23,21,NULL,NULL,Final,NULL,3,14,0,6,NULL,8,0,3,10,NULL,1,NFL
-400790307,2015,"August 28, 2015",Jacksonville Jaguars,Detroit Lions,"1-2, 1-1 Home","2-1, 1-1 Away",17,22,NULL,NULL,Final,CBS,7,7,3,0,NULL,0,13,0,9,NULL,3,NFL
-400790314,2015,"September 3, 2015",Washington Redskins,Jacksonville Jaguars,"3-1, 1-1 Home","2-2, 1-1 Away",16,17,NULL,NULL,Final,NULL,7,3,0,6,NULL,0,7,7,3,NULL,4,NFL
-400791644,2015,"January 3, 2016",Houston Texans,Jacksonville Jaguars,"9-7, 5-3 Home","5-11, 1-7 Away",30,6,NULL,NULL,Final,CBS,3,17,0,10,NULL,0,3,3,0,NULL,17,NFL
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
+0,400791680,2015,"September 20, 2015",Jacksonville Jaguars,Miami Dolphins,"1-1, 1-1 Home","1-1, 1-1 Away",23,20,,,Final,CBS,10,10,0,3,,3,10,7,0,,2,NFL
+1,400791671,2015,"October 4, 2015",Indianapolis Colts,Jacksonville Jaguars,"2-2, 1-1 Home","1-3, 0-2 Away",16,13,,,Final/OT,CBS,3,7,0,3,3.0,3,10,0,0,0.0,4,NFL
+2,400791637,2015,"October 18, 2015",Jacksonville Jaguars,Houston Texans,"1-5, 1-2 Home","2-4, 1-2 Away",20,31,,,Final,CBS,0,7,7,6,,7,3,0,21,,6,NFL
+3,400791581,2015,"November 15, 2015",Baltimore Ravens,Jacksonville Jaguars,"2-7, 1-3 Home","3-6, 1-4 Away",20,22,,,Final,CBS,0,14,0,6,,7,3,3,9,,10,NFL
+4,400791519,2015,"November 29, 2015",Jacksonville Jaguars,San Diego Chargers,"4-7, 3-3 Home","3-8, 1-4 Away",25,31,,,Final,CBS,6,3,3,13,,0,21,3,7,,12,NFL
+5,400791573,2015,"December 13, 2015",Jacksonville Jaguars,Indianapolis Colts,"5-8, 4-3 Home","6-7, 3-4 Away",51,16,,,Final,CBS,3,6,21,21,,3,10,3,0,,14,NFL
+6,400791528,2015,"December 27, 2015",New Orleans Saints,Jacksonville Jaguars,"6-9, 4-4 Home","5-10, 1-6 Away",38,27,,,Final,CBS,14,10,7,7,,0,6,13,8,,16,NFL
+7,400791770,2015,"August 22, 2015",New York Giants,Jacksonville Jaguars,"1-1, 1-0 Home","1-1, 0-1 Away",22,12,,,Final,,3,3,6,10,,6,3,0,3,,2,NFL
+8,400791547,2015,"September 13, 2015",Jacksonville Jaguars,Carolina Panthers,"0-1, 0-1 Home","1-0, 1-0 Away",9,20,,,Final,FOX,3,6,0,0,,3,7,7,3,,1,NFL
+9,400791553,2015,"September 27, 2015",New England Patriots,Jacksonville Jaguars,"3-0, 2-0 Home","1-2, 0-1 Away",51,17,,,Final,CBS,10,10,17,14,,0,3,7,7,,3,NFL
+10,400791498,2015,"October 11, 2015",Tampa Bay Buccaneers,Jacksonville Jaguars,"2-3, 1-2 Home","1-4, 0-3 Away",38,31,,,Final,CBS,3,17,11,7,,0,14,10,7,,5,NFL
+11,400761515,2015,"October 25, 2015",Jacksonville Jaguars,Buffalo Bills,2-5,3-4,34,31,,,Final,Yahoo,0,27,0,7,,3,10,0,18,,7,NFL
+12,400791728,2015,"November 8, 2015",New York Jets,Jacksonville Jaguars,"5-3, 3-1 Home","2-6, 0-4 Away",28,23,,,Final,CBS,14,0,7,7,,3,7,3,10,,9,NFL
+13,400791632,2015,"November 19, 2015",Jacksonville Jaguars,Tennessee Titans,"4-6, 3-2 Home","2-8, 2-3 Away",19,13,,,Final,NFL,0,6,3,10,,3,3,7,0,,11,NFL
+14,400791643,2015,"December 6, 2015",Tennessee Titans,Jacksonville Jaguars,"3-9, 1-6 Home","4-8, 1-5 Away",42,39,,,Final,CBS,7,14,0,21,,0,12,7,20,,13,NFL
+15,400791685,2015,"December 20, 2015",Jacksonville Jaguars,Atlanta Falcons,"5-9, 4-4 Home","7-7, 4-4 Away",17,23,,,Final,FOX,0,3,14,0,,7,10,0,6,,15,NFL
+16,400791141,2015,"August 14, 2015",Jacksonville Jaguars,Pittsburgh Steelers,"1-0, 1-0 Home","0-2, 0-2 Away",23,21,,,Final,,3,14,0,6,,8,0,3,10,,1,NFL
+17,400790307,2015,"August 28, 2015",Jacksonville Jaguars,Detroit Lions,"1-2, 1-1 Home","2-1, 1-1 Away",17,22,,,Final,CBS,7,7,3,0,,0,13,0,9,,3,NFL
+18,400790314,2015,"September 3, 2015",Washington Redskins,Jacksonville Jaguars,"3-1, 1-1 Home","2-2, 1-1 Away",16,17,,,Final,,7,3,0,6,,0,7,7,3,,4,NFL
+19,400791644,2015,"January 3, 2016",Houston Texans,Jacksonville Jaguars,"9-7, 5-3 Home","5-11, 1-7 Away",30,6,,,Final,CBS,3,17,0,10,,0,3,3,0,,17,NFL

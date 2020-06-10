@@ -1,21 +1,21 @@
-ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
-310918028,2011,"September 18, 2011",Washington Redskins,Arizona Cardinals,"2-0, 2-0 Home","1-1, 0-1 Away",22,21,NULL,NULL,Final,FOX,0,10,0,12,NULL,7,0,7,7,NULL,2,NFL
-311002022,2011,"October 2, 2011",Arizona Cardinals,New York Giants,"1-3, 1-1 Home","3-1, 2-1 Away",27,31,NULL,NULL,Final,FOX,3,3,14,7,NULL,0,10,0,21,NULL,4,NFL
-311030033,2011,"October 30, 2011",Baltimore Ravens,Arizona Cardinals,"5-2, 4-0 Home","1-6, 0-4 Away",30,27,NULL,NULL,Final,FOX,0,6,14,10,NULL,3,21,0,3,NULL,8,NFL
-311113021,2011,"November 13, 2011",Philadelphia Eagles,Arizona Cardinals,"3-6, 1-4 Home","3-6, 1-4 Away",17,21,NULL,NULL,Final,FOX,0,14,0,3,NULL,0,7,0,14,NULL,10,NFL
-311127014,2011,"November 27, 2011",St. Louis Rams,Arizona Cardinals,"2-9, 1-5 Home","4-7, 2-5 Away",20,23,NULL,NULL,Final,FOX,7,3,0,10,NULL,3,0,17,3,NULL,12,NFL
-311211022,2011,"December 11, 2011",Arizona Cardinals,San Francisco 49ers,"6-7, 4-2 Home","10-3, 4-2 Away",21,19,NULL,NULL,Final,FOX,0,7,7,7,NULL,3,9,7,0,NULL,14,NFL
-311224004,2011,"December 24, 2011",Cincinnati Bengals,Arizona Cardinals,"9-6, 4-3 Home","7-8, 2-6 Away",23,16,NULL,NULL,Final,FOX,10,10,3,0,NULL,0,0,0,16,NULL,16,NFL
-310819009,2011,"August 19, 2011",Green Bay Packers,Arizona Cardinals,"1-1, 1-0 Home","1-1, 1-1 Away",28,20,NULL,NULL,Final,NULL,0,14,0,14,NULL,3,3,14,0,NULL,2,NFL
-310911022,2011,"September 11, 2011",Arizona Cardinals,Carolina Panthers,"1-0, 1-0 Home","0-1, 0-1 Away",28,21,NULL,NULL,Final,FOX,7,0,7,14,NULL,7,7,7,0,NULL,1,NFL
-310925026,2011,"September 25, 2011",Seattle Seahawks,Arizona Cardinals,"1-2, 1-0 Home","1-2, 0-2 Away",13,10,NULL,NULL,Final,FOX,3,3,7,0,NULL,0,10,0,0,NULL,3,NFL
-311009016,2011,"October 9, 2011",Minnesota Vikings,Arizona Cardinals,"1-4, 1-2 Home","1-4, 0-3 Away",34,10,NULL,NULL,Final,FOX,28,0,3,3,NULL,0,3,7,0,NULL,5,NFL
-311023022,2011,"October 23, 2011",Arizona Cardinals,Pittsburgh Steelers,"1-5, 1-2 Home","5-2, 2-2 Away",20,32,NULL,NULL,Final,CBS,0,7,7,6,NULL,7,10,9,6,NULL,7,NFL
-311106022,2011,"November 6, 2011",Arizona Cardinals,St. Louis Rams,"2-6, 2-2 Home","1-7, 0-4 Away",19,13,NULL,NULL,Final/OT,FOX,3,0,3,7,6,3,6,4,0,0,9,NFL
-311120025,2011,"November 20, 2011",San Francisco 49ers,Arizona Cardinals,"9-1, 5-1 Home","3-7, 1-5 Away",23,7,NULL,NULL,Final,FOX,6,3,14,0,NULL,0,0,0,7,NULL,11,NFL
-311204022,2011,"December 4, 2011",Arizona Cardinals,Dallas Cowboys,"5-7, 3-2 Home","7-5, 2-4 Away",19,13,NULL,NULL,Final/OT,FOX,3,0,3,7,6,0,10,3,0,0,13,NFL
-311218022,2011,"December 18, 2011",Arizona Cardinals,Cleveland Browns,"7-7, 5-2 Home","4-10, 1-6 Away",20,17,NULL,NULL,Final/OT,CBS,0,7,0,10,3,7,3,7,0,0,15,NFL
-310811013,2011,"August 11, 2011",Oakland Raiders,Arizona Cardinals,"0-1, 0-1 Home","1-0, 1-0 Away",18,24,NULL,NULL,Final,NULL,3,3,9,3,NULL,0,7,10,7,NULL,1,NFL
-310827022,2011,"August 27, 2011",Arizona Cardinals,San Diego Chargers,"1-2, 0-1 Home","2-1, 2-0 Away",31,34,NULL,NULL,Final,NULL,17,7,0,7,NULL,3,14,3,14,NULL,3,NFL
-310901022,2011,"September 1, 2011",Arizona Cardinals,Denver Broncos,"2-2, 1-1 Home","2-2, 0-2 Away",26,7,NULL,NULL,Final,NFL,14,6,3,3,NULL,0,0,0,7,NULL,4,NFL
-320101022,2011,"January 1, 2012",Arizona Cardinals,Seattle Seahawks,"8-8, 6-2 Home","7-9, 3-5 Away",23,20,NULL,NULL,Final/OT,FOX,7,3,7,3,3,0,3,7,10,0,17,NFL
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
+0,310918028,2011,"September 18, 2011",Washington Redskins,Arizona Cardinals,"2-0, 2-0 Home","1-1, 0-1 Away",22,21,,,Final,FOX,0,10,0,12,,7,0,7,7,,2,NFL
+1,311002022,2011,"October 2, 2011",Arizona Cardinals,New York Giants,"1-3, 1-1 Home","3-1, 2-1 Away",27,31,,,Final,FOX,3,3,14,7,,0,10,0,21,,4,NFL
+2,311030033,2011,"October 30, 2011",Baltimore Ravens,Arizona Cardinals,"5-2, 4-0 Home","1-6, 0-4 Away",30,27,,,Final,FOX,0,6,14,10,,3,21,0,3,,8,NFL
+3,311113021,2011,"November 13, 2011",Philadelphia Eagles,Arizona Cardinals,"3-6, 1-4 Home","3-6, 1-4 Away",17,21,,,Final,FOX,0,14,0,3,,0,7,0,14,,10,NFL
+4,311127014,2011,"November 27, 2011",St. Louis Rams,Arizona Cardinals,"2-9, 1-5 Home","4-7, 2-5 Away",20,23,,,Final,FOX,7,3,0,10,,3,0,17,3,,12,NFL
+5,311211022,2011,"December 11, 2011",Arizona Cardinals,San Francisco 49ers,"6-7, 4-2 Home","10-3, 4-2 Away",21,19,,,Final,FOX,0,7,7,7,,3,9,7,0,,14,NFL
+6,311224004,2011,"December 24, 2011",Cincinnati Bengals,Arizona Cardinals,"9-6, 4-3 Home","7-8, 2-6 Away",23,16,,,Final,FOX,10,10,3,0,,0,0,0,16,,16,NFL
+7,310819009,2011,"August 19, 2011",Green Bay Packers,Arizona Cardinals,"1-1, 1-0 Home","1-1, 1-1 Away",28,20,,,Final,,0,14,0,14,,3,3,14,0,,2,NFL
+8,310911022,2011,"September 11, 2011",Arizona Cardinals,Carolina Panthers,"1-0, 1-0 Home","0-1, 0-1 Away",28,21,,,Final,FOX,7,0,7,14,,7,7,7,0,,1,NFL
+9,310925026,2011,"September 25, 2011",Seattle Seahawks,Arizona Cardinals,"1-2, 1-0 Home","1-2, 0-2 Away",13,10,,,Final,FOX,3,3,7,0,,0,10,0,0,,3,NFL
+10,311009016,2011,"October 9, 2011",Minnesota Vikings,Arizona Cardinals,"1-4, 1-2 Home","1-4, 0-3 Away",34,10,,,Final,FOX,28,0,3,3,,0,3,7,0,,5,NFL
+11,311023022,2011,"October 23, 2011",Arizona Cardinals,Pittsburgh Steelers,"1-5, 1-2 Home","5-2, 2-2 Away",20,32,,,Final,CBS,0,7,7,6,,7,10,9,6,,7,NFL
+12,311106022,2011,"November 6, 2011",Arizona Cardinals,St. Louis Rams,"2-6, 2-2 Home","1-7, 0-4 Away",19,13,,,Final/OT,FOX,3,0,3,7,6.0,3,6,4,0,0.0,9,NFL
+13,311120025,2011,"November 20, 2011",San Francisco 49ers,Arizona Cardinals,"9-1, 5-1 Home","3-7, 1-5 Away",23,7,,,Final,FOX,6,3,14,0,,0,0,0,7,,11,NFL
+14,311204022,2011,"December 4, 2011",Arizona Cardinals,Dallas Cowboys,"5-7, 3-2 Home","7-5, 2-4 Away",19,13,,,Final/OT,FOX,3,0,3,7,6.0,0,10,3,0,0.0,13,NFL
+15,311218022,2011,"December 18, 2011",Arizona Cardinals,Cleveland Browns,"7-7, 5-2 Home","4-10, 1-6 Away",20,17,,,Final/OT,CBS,0,7,0,10,3.0,7,3,7,0,0.0,15,NFL
+16,310811013,2011,"August 11, 2011",Oakland Raiders,Arizona Cardinals,"0-1, 0-1 Home","1-0, 1-0 Away",18,24,,,Final,,3,3,9,3,,0,7,10,7,,1,NFL
+17,310827022,2011,"August 27, 2011",Arizona Cardinals,San Diego Chargers,"1-2, 0-1 Home","2-1, 2-0 Away",31,34,,,Final,,17,7,0,7,,3,14,3,14,,3,NFL
+18,310901022,2011,"September 1, 2011",Arizona Cardinals,Denver Broncos,"2-2, 1-1 Home","2-2, 0-2 Away",26,7,,,Final,NFL,14,6,3,3,,0,0,0,7,,4,NFL
+19,320101022,2011,"January 1, 2012",Arizona Cardinals,Seattle Seahawks,"8-8, 6-2 Home","7-9, 3-5 Away",23,20,,,Final/OT,FOX,7,3,7,3,3.0,0,3,7,10,0.0,17,NFL

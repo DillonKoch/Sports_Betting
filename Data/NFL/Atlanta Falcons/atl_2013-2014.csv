@@ -1,21 +1,21 @@
-ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
-330915001,2013,"September 15, 2013",Atlanta Falcons,St. Louis Rams,"1-1, 1-0 Home","1-1, 0-1 Away",31,24,NULL,NULL,Final,FOX,14,10,0,7,NULL,0,3,7,14,NULL,2,NFL
-330929001,2013,"September 29, 2013",Atlanta Falcons,New England Patriots,"1-3, 1-1 Home","4-0, 2-0 Away",23,30,NULL,NULL,Final,NBC,3,7,0,13,NULL,0,10,3,17,NULL,4,NFL
-331027022,2013,"October 27, 2013",Arizona Cardinals,Atlanta Falcons,"4-4, 3-1 Home","2-5, 0-3 Away",27,13,NULL,NULL,Final,FOX,0,21,3,3,NULL,3,3,0,7,NULL,8,NFL
-331110001,2013,"November 10, 2013",Atlanta Falcons,Seattle Seahawks,"2-7, 2-3 Home","9-1, 5-1 Away",10,33,NULL,NULL,Final,FOX,0,3,7,0,NULL,3,20,3,7,NULL,10,NFL
-331121001,2013,"November 21, 2013",Atlanta Falcons,New Orleans Saints,"2-9, 2-4 Home","9-2, 3-2 Away",13,17,NULL,NULL,Final,NFL,7,6,0,0,NULL,7,7,3,0,NULL,12,NFL
-331208009,2013,"December 8, 2013",Green Bay Packers,Atlanta Falcons,"6-6-1, 4-2-1 Home","3-10, 1-6 Away",22,21,NULL,NULL,Final,FOX,7,3,6,6,NULL,0,21,0,0,NULL,14,NFL
-331223025,2013,"December 23, 2013",San Francisco 49ers,Atlanta Falcons,"11-4, 6-2 Home","4-11, 1-7 Away",34,24,NULL,NULL,Final,ESPN,3,0,10,21,NULL,0,10,0,14,NULL,16,NFL
-330815033,2013,"August 15, 2013",Baltimore Ravens,Atlanta Falcons,"2-0, 1-0 Home","0-2, 0-1 Away",27,23,NULL,NULL,Final,NULL,7,0,0,20,NULL,10,10,3,0,NULL,2,NFL
-330908018,2013,"September 8, 2013",New Orleans Saints,Atlanta Falcons,"1-0, 1-0 Home","0-1, 0-1 Away",23,17,NULL,NULL,Final,FOX,0,13,7,3,NULL,10,0,7,0,NULL,1,NFL
-330922015,2013,"September 22, 2013",Miami Dolphins,Atlanta Falcons,"3-0, 1-0 Home","1-2, 0-2 Away",27,23,NULL,NULL,Final,FOX,0,10,10,7,NULL,7,6,7,3,NULL,3,NFL
-331007001,2013,"October 7, 2013",Atlanta Falcons,New York Jets,"1-4, 1-2 Home","3-2, 1-2 Away",28,30,NULL,NULL,Final,ESPN,0,7,7,14,NULL,3,14,3,10,NULL,5,NFL
-331020001,2013,"October 20, 2013",Atlanta Falcons,Tampa Bay Buccaneers,"2-4, 2-2 Home","0-6, 0-3 Away",31,23,NULL,NULL,Final,FOX,7,17,0,7,NULL,0,10,7,6,NULL,7,NFL
-331103029,2013,"November 3, 2013",Carolina Panthers,Atlanta Falcons,"5-3, 3-1 Home","2-6, 0-4 Away",34,10,NULL,NULL,Final,FOX,7,7,3,17,NULL,0,10,0,0,NULL,9,NFL
-331117027,2013,"November 17, 2013",Tampa Bay Buccaneers,Atlanta Falcons,"2-8, 2-4 Home","2-8, 0-5 Away",41,28,NULL,NULL,Final,FOX,3,21,14,3,NULL,0,6,7,15,NULL,11,NFL
-331201002,2013,"December 1, 2013",Buffalo Bills,Atlanta Falcons,"4-8, 3-4 Home","3-9, 1-5 Away",31,34,NULL,NULL,Final/OT,FOX,14,3,7,7,0,7,10,7,7,3,13,NFL
-331215001,2013,"December 15, 2013",Atlanta Falcons,Washington Redskins,"4-10, 3-4 Home","3-11, 1-6 Away",27,26,NULL,NULL,Final,FOX,14,3,7,3,NULL,7,13,0,6,NULL,15,NFL
-330808001,2013,"August 8, 2013",Atlanta Falcons,Cincinnati Bengals,"0-1, 0-1 Home","1-0, 1-0 Away",10,34,NULL,NULL,Final,ESPN,3,0,7,0,NULL,0,17,10,7,NULL,1,NFL
-330824010,2013,"August 24, 2013",Tennessee Titans,Atlanta Falcons,"1-2, 1-1 Home","0-3, 0-2 Away",27,16,NULL,NULL,Final,NULL,0,13,7,7,NULL,6,0,10,0,NULL,3,NFL
-330829001,2013,"August 29, 2013",Atlanta Falcons,Jacksonville Jaguars,"0-4, 0-2 Home","1-3, 1-1 Away",16,20,NULL,NULL,Final,NULL,0,9,7,0,NULL,7,3,3,7,NULL,4,NFL
-331229001,2013,"December 29, 2013",Atlanta Falcons,Carolina Panthers,"4-12, 3-5 Home","12-4, 5-3 Away",20,21,NULL,NULL,Final,FOX,7,3,7,3,NULL,0,14,7,0,NULL,17,NFL
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
+0,330915001,2013,"September 15, 2013",Atlanta Falcons,St. Louis Rams,"1-1, 1-0 Home","1-1, 0-1 Away",31,24,,,Final,FOX,14,10,0,7,,0,3,7,14,,2,NFL
+1,330929001,2013,"September 29, 2013",Atlanta Falcons,New England Patriots,"1-3, 1-1 Home","4-0, 2-0 Away",23,30,,,Final,NBC,3,7,0,13,,0,10,3,17,,4,NFL
+2,331027022,2013,"October 27, 2013",Arizona Cardinals,Atlanta Falcons,"4-4, 3-1 Home","2-5, 0-3 Away",27,13,,,Final,FOX,0,21,3,3,,3,3,0,7,,8,NFL
+3,331110001,2013,"November 10, 2013",Atlanta Falcons,Seattle Seahawks,"2-7, 2-3 Home","9-1, 5-1 Away",10,33,,,Final,FOX,0,3,7,0,,3,20,3,7,,10,NFL
+4,331121001,2013,"November 21, 2013",Atlanta Falcons,New Orleans Saints,"2-9, 2-4 Home","9-2, 3-2 Away",13,17,,,Final,NFL,7,6,0,0,,7,7,3,0,,12,NFL
+5,331208009,2013,"December 8, 2013",Green Bay Packers,Atlanta Falcons,"6-6-1, 4-2-1 Home","3-10, 1-6 Away",22,21,,,Final,FOX,7,3,6,6,,0,21,0,0,,14,NFL
+6,331223025,2013,"December 23, 2013",San Francisco 49ers,Atlanta Falcons,"11-4, 6-2 Home","4-11, 1-7 Away",34,24,,,Final,ESPN,3,0,10,21,,0,10,0,14,,16,NFL
+7,330815033,2013,"August 15, 2013",Baltimore Ravens,Atlanta Falcons,"2-0, 1-0 Home","0-2, 0-1 Away",27,23,,,Final,,7,0,0,20,,10,10,3,0,,2,NFL
+8,330908018,2013,"September 8, 2013",New Orleans Saints,Atlanta Falcons,"1-0, 1-0 Home","0-1, 0-1 Away",23,17,,,Final,FOX,0,13,7,3,,10,0,7,0,,1,NFL
+9,330922015,2013,"September 22, 2013",Miami Dolphins,Atlanta Falcons,"3-0, 1-0 Home","1-2, 0-2 Away",27,23,,,Final,FOX,0,10,10,7,,7,6,7,3,,3,NFL
+10,331007001,2013,"October 7, 2013",Atlanta Falcons,New York Jets,"1-4, 1-2 Home","3-2, 1-2 Away",28,30,,,Final,ESPN,0,7,7,14,,3,14,3,10,,5,NFL
+11,331020001,2013,"October 20, 2013",Atlanta Falcons,Tampa Bay Buccaneers,"2-4, 2-2 Home","0-6, 0-3 Away",31,23,,,Final,FOX,7,17,0,7,,0,10,7,6,,7,NFL
+12,331103029,2013,"November 3, 2013",Carolina Panthers,Atlanta Falcons,"5-3, 3-1 Home","2-6, 0-4 Away",34,10,,,Final,FOX,7,7,3,17,,0,10,0,0,,9,NFL
+13,331117027,2013,"November 17, 2013",Tampa Bay Buccaneers,Atlanta Falcons,"2-8, 2-4 Home","2-8, 0-5 Away",41,28,,,Final,FOX,3,21,14,3,,0,6,7,15,,11,NFL
+14,331201002,2013,"December 1, 2013",Buffalo Bills,Atlanta Falcons,"4-8, 3-4 Home","3-9, 1-5 Away",31,34,,,Final/OT,FOX,14,3,7,7,0.0,7,10,7,7,3.0,13,NFL
+15,331215001,2013,"December 15, 2013",Atlanta Falcons,Washington Redskins,"4-10, 3-4 Home","3-11, 1-6 Away",27,26,,,Final,FOX,14,3,7,3,,7,13,0,6,,15,NFL
+16,330808001,2013,"August 8, 2013",Atlanta Falcons,Cincinnati Bengals,"0-1, 0-1 Home","1-0, 1-0 Away",10,34,,,Final,ESPN,3,0,7,0,,0,17,10,7,,1,NFL
+17,330824010,2013,"August 24, 2013",Tennessee Titans,Atlanta Falcons,"1-2, 1-1 Home","0-3, 0-2 Away",27,16,,,Final,,0,13,7,7,,6,0,10,0,,3,NFL
+18,330829001,2013,"August 29, 2013",Atlanta Falcons,Jacksonville Jaguars,"0-4, 0-2 Home","1-3, 1-1 Away",16,20,,,Final,,0,9,7,0,,7,3,3,7,,4,NFL
+19,331229001,2013,"December 29, 2013",Atlanta Falcons,Carolina Panthers,"4-12, 3-5 Home","12-4, 5-3 Away",20,21,,,Final,FOX,7,3,7,3,,0,14,7,0,,17,NFL

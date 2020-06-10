@@ -1,21 +1,21 @@
-ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
-401128122,2019,"September 15, 2019",Los Angeles Rams,New Orleans Saints,"2-0, 1-0 Home","1-1, 0-1 Away",27,9,LAR -1.5,53,Final,FOX,3,3,14,7,NULL,0,3,3,3,NULL,2,NFL
-401128069,2019,"September 29, 2019",Los Angeles Rams,Tampa Bay Buccaneers,"3-1, 1-1 Home","2-2, 2-0 Away",40,55,LAR -9.5,49,Final,FOX,0,17,3,20,NULL,7,21,3,24,NULL,4,NFL
-401128128,2019,"October 13, 2019",Los Angeles Rams,San Francisco 49ers,"3-3, 1-2 Home","5-0, 3-0 Away",7,20,LAR -3.0,50,Final,FOX,7,0,0,0,NULL,7,0,10,3,NULL,6,NFL
-401127912,2019,"October 27, 2019",Los Angeles Rams,Cincinnati Bengals,5-3,0-8,24,10,LAR -11.5,49,Final,CBS,3,14,7,0,NULL,0,10,0,0,NULL,8,NFL
-401127989,2019,"November 10, 2019",Pittsburgh Steelers,Los Angeles Rams,"5-4, 4-2 Home","5-4, 3-2 Away",17,12,LAR -4.5,43,Final,FOX,7,7,0,3,NULL,7,0,3,2,NULL,10,NFL
-401128012,2019,"November 25, 2019",Los Angeles Rams,Baltimore Ravens,"6-5, 3-3 Home","9-2, 5-1 Away",6,45,BAL -3.0,47,Final,ESPN,0,6,0,0,NULL,14,14,7,10,NULL,12,NFL
-401128009,2019,"December 8, 2019",Los Angeles Rams,Seattle Seahawks,"8-5, 4-3 Home","10-3, 6-1 Away",28,12,LAR -1.0,48,Final,NBC,7,14,0,7,NULL,3,0,6,3,NULL,14,NFL
-401127900,2019,"December 21, 2019",San Francisco 49ers,Los Angeles Rams,"12-3, 6-2 Home","8-7, 4-4 Away",34,31,SF -7.0,46,Final,NFL,3,21,0,10,NULL,7,14,7,3,NULL,16,NFL
-401128953,2019,"August 17, 2019",Los Angeles Rams,Dallas Cowboys,0-2,1-1,10,14,DAL -4.0,37,Final,NFL,7,3,0,0,NULL,7,0,7,0,NULL,2,NFL
-401127923,2019,"September 8, 2019",Carolina Panthers,Los Angeles Rams,"0-1, 0-1 Home","1-0, 1-0 Away",27,30,LAR -1.5,50,Final,FOX,0,3,10,14,NULL,0,13,10,7,NULL,1,NFL
-401128125,2019,"September 22, 2019",Cleveland Browns,Los Angeles Rams,"1-2, 0-2 Home","3-0, 2-0 Away",13,20,LAR -4.0,49,Final,NBC,0,6,7,0,NULL,3,0,7,10,NULL,3,NFL
-401127927,2019,"October 3, 2019",Seattle Seahawks,Los Angeles Rams,"4-1, 2-1 Home","3-2, 2-1 Away",30,29,SEA -1.5,49,Final,FOX,7,7,7,9,NULL,6,7,13,3,NULL,5,NFL
-401127940,2019,"October 20, 2019",Atlanta Falcons,Los Angeles Rams,"1-6, 1-2 Home","4-3, 3-1 Away",10,37,LAR -3.0,55,Final,FOX,3,0,0,7,NULL,3,10,14,10,NULL,7,NFL
-401128133,2019,"November 17, 2019",Los Angeles Rams,Chicago Bears,"6-4, 3-2 Home","4-6, 2-3 Away",17,7,LAR -5.5,40,Final,NBC,0,10,0,7,NULL,0,0,7,0,NULL,11,NFL
-401128100,2019,"December 1, 2019",Arizona Cardinals,Los Angeles Rams,"3-8-1, 1-4-1 Home","7-5, 4-2 Away",7,34,LAR -2.5,48,Final,FOX,0,0,0,7,NULL,3,17,14,0,NULL,13,NFL
-401128103,2019,"December 15, 2019",Dallas Cowboys,Los Angeles Rams,"7-7, 4-3 Home","8-6, 4-3 Away",44,21,LAR -1.0,49,Final,FOX,7,21,3,13,NULL,0,7,0,14,NULL,15,NFL
-401129055,2019,"August 10, 2019",Oakland Raiders,Los Angeles Rams,"1-0, 1-0 Home","0-1, 0-1 Away",14,3,LV -4.5,37,Final,NULL,7,0,7,0,NULL,0,3,0,0,NULL,1,NFL
-401129054,2019,"August 24, 2019",Los Angeles Rams,Denver Broncos,"1-2, 1-1 Home","1-3, 1-2 Away",10,6,LAR -1.5,36,Final,NULL,0,3,0,7,NULL,0,6,0,0,NULL,3,NFL
-401128166,2019,"August 29, 2019",Houston Texans,Los Angeles Rams,"1-3, 1-1 Home","2-2, 1-1 Away",10,22,HOU -3.0,33,Final,NULL,7,3,0,0,NULL,7,0,8,7,NULL,4,NFL
-401128038,2019,"December 29, 2019",Los Angeles Rams,Arizona Cardinals,"9-7, 5-3 Home","5-10-1, 3-5 Away",31,24,LAR -6.5,45,Final,FOX,3,14,0,14,NULL,7,3,7,7,NULL,17,NFL
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
+0,401128122,2019,"September 15, 2019",Los Angeles Rams,New Orleans Saints,"2-0, 1-0 Home","1-1, 0-1 Away",27,9,LAR -1.5,53,Final,FOX,3,3,14,7,,0,3,3,3,,2,NFL
+1,401128069,2019,"September 29, 2019",Los Angeles Rams,Tampa Bay Buccaneers,"3-1, 1-1 Home","2-2, 2-0 Away",40,55,LAR -9.5,49,Final,FOX,0,17,3,20,,7,21,3,24,,4,NFL
+2,401128128,2019,"October 13, 2019",Los Angeles Rams,San Francisco 49ers,"3-3, 1-2 Home","5-0, 3-0 Away",7,20,LAR -3.0,50,Final,FOX,7,0,0,0,,7,0,10,3,,6,NFL
+3,401127912,2019,"October 27, 2019",Los Angeles Rams,Cincinnati Bengals,5-3,0-8,24,10,LAR -11.5,49,Final,CBS,3,14,7,0,,0,10,0,0,,8,NFL
+4,401127989,2019,"November 10, 2019",Pittsburgh Steelers,Los Angeles Rams,"5-4, 4-2 Home","5-4, 3-2 Away",17,12,LAR -4.5,43,Final,FOX,7,7,0,3,,7,0,3,2,,10,NFL
+5,401128012,2019,"November 25, 2019",Los Angeles Rams,Baltimore Ravens,"6-5, 3-3 Home","9-2, 5-1 Away",6,45,BAL -3.0,47,Final,ESPN,0,6,0,0,,14,14,7,10,,12,NFL
+6,401128009,2019,"December 8, 2019",Los Angeles Rams,Seattle Seahawks,"8-5, 4-3 Home","10-3, 6-1 Away",28,12,LAR -1.0,48,Final,NBC,7,14,0,7,,3,0,6,3,,14,NFL
+7,401127900,2019,"December 21, 2019",San Francisco 49ers,Los Angeles Rams,"12-3, 6-2 Home","8-7, 4-4 Away",34,31,SF -7.0,46,Final,NFL,3,21,0,10,,7,14,7,3,,16,NFL
+8,401128953,2019,"August 17, 2019",Los Angeles Rams,Dallas Cowboys,0-2,1-1,10,14,DAL -4.0,37,Final,NFL,7,3,0,0,,7,0,7,0,,2,NFL
+9,401127923,2019,"September 8, 2019",Carolina Panthers,Los Angeles Rams,"0-1, 0-1 Home","1-0, 1-0 Away",27,30,LAR -1.5,50,Final,FOX,0,3,10,14,,0,13,10,7,,1,NFL
+10,401128125,2019,"September 22, 2019",Cleveland Browns,Los Angeles Rams,"1-2, 0-2 Home","3-0, 2-0 Away",13,20,LAR -4.0,49,Final,NBC,0,6,7,0,,3,0,7,10,,3,NFL
+11,401127927,2019,"October 3, 2019",Seattle Seahawks,Los Angeles Rams,"4-1, 2-1 Home","3-2, 2-1 Away",30,29,SEA -1.5,49,Final,FOX,7,7,7,9,,6,7,13,3,,5,NFL
+12,401127940,2019,"October 20, 2019",Atlanta Falcons,Los Angeles Rams,"1-6, 1-2 Home","4-3, 3-1 Away",10,37,LAR -3.0,55,Final,FOX,3,0,0,7,,3,10,14,10,,7,NFL
+13,401128133,2019,"November 17, 2019",Los Angeles Rams,Chicago Bears,"6-4, 3-2 Home","4-6, 2-3 Away",17,7,LAR -5.5,40,Final,NBC,0,10,0,7,,0,0,7,0,,11,NFL
+14,401128100,2019,"December 1, 2019",Arizona Cardinals,Los Angeles Rams,"3-8-1, 1-4-1 Home","7-5, 4-2 Away",7,34,LAR -2.5,48,Final,FOX,0,0,0,7,,3,17,14,0,,13,NFL
+15,401128103,2019,"December 15, 2019",Dallas Cowboys,Los Angeles Rams,"7-7, 4-3 Home","8-6, 4-3 Away",44,21,LAR -1.0,49,Final,FOX,7,21,3,13,,0,7,0,14,,15,NFL
+16,401129055,2019,"August 10, 2019",Oakland Raiders,Los Angeles Rams,"1-0, 1-0 Home","0-1, 0-1 Away",14,3,LV -4.5,37,Final,,7,0,7,0,,0,3,0,0,,1,NFL
+17,401129054,2019,"August 24, 2019",Los Angeles Rams,Denver Broncos,"1-2, 1-1 Home","1-3, 1-2 Away",10,6,LAR -1.5,36,Final,,0,3,0,7,,0,6,0,0,,3,NFL
+18,401128166,2019,"August 29, 2019",Houston Texans,Los Angeles Rams,"1-3, 1-1 Home","2-2, 1-1 Away",10,22,HOU -3.0,33,Final,,7,3,0,0,,7,0,8,7,,4,NFL
+19,401128038,2019,"December 29, 2019",Los Angeles Rams,Arizona Cardinals,"9-7, 5-3 Home","5-10-1, 3-5 Away",31,24,LAR -6.5,45,Final,FOX,3,14,0,14,,7,3,7,7,,17,NFL

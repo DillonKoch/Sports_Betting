@@ -1,0 +1,83 @@
+,Unnamed: 0,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,0,271104012,2007,"Sun, Nov 4",LA Clippers,Seattle SuperSonics,"2-0, 2-0 Home","0-3, 0-2 Away",115,101,,,Final,,25,27,26,37,,21,31,24,25,,NBA
+1,1,271107011,2007,"Wed, Nov 7",Indiana Pacers,LA Clippers,"3-1, 2-1 Home","4-0, 2-0 Away",89,104,,,Final,,25,33,14,17,,24,31,32,17,,NBA
+2,2,271111012,2007,"Sun, Nov 11",LA Clippers,Cleveland Cavaliers,"4-2, 2-1 Home","4-3, 3-2 Away",95,103,,,Final,,19,25,31,20,,23,27,22,31,,NBA
+3,3,271116009,2007,"Fri, Nov 16",Golden State Warriors,LA Clippers,"1-6, 1-4 Home","5-3, 2-2 Away",122,105,,,Final,TNT,34,30,32,26,,26,29,32,18,,NBA
+4,4,271121012,2007,"Wed, Nov 21",LA Clippers,Denver Nuggets,"6-4, 4-2 Home","8-4, 3-3 Away",101,90,,,Final,,24,29,24,24,,27,19,20,24,,NBA
+5,5,271124012,2007,"Sat, Nov 24",LA Clippers,New Orleans Hornets,"6-6, 4-3 Home","10-5, 7-2 Away",89,98,,,Final,NBATV,25,23,22,19,,19,36,25,18,,NBA
+6,6,271130007,2007,"Fri, Nov 30",Denver Nuggets,LA Clippers,"10-7, 7-2 Home","6-8, 2-4 Away",123,107,,,Final,,30,33,27,33,,24,26,22,35,,NBA
+7,7,271204012,2007,"Tue, Dec 4",LA Clippers,Milwaukee Bucks,"6-10, 4-6 Home","8-8, 2-6 Away",78,87,,,Final,,26,23,15,14,,18,18,28,23,,NBA
+8,8,271207023,2007,"Fri, Dec 7",Sacramento Kings,LA Clippers,"7-11, 7-4 Home","7-11, 3-5 Away",87,97,,,Final,,28,24,18,17,,22,19,30,26,,NBA
+9,9,271211017,2007,"Tue, Dec 11",New Jersey Nets,LA Clippers,"9-13, 4-9 Home","8-12, 4-5 Away",82,91,,,Final,YES,21,25,17,19,,23,23,21,24,,NBA
+10,10,271214029,2007,"Fri, Dec 14",Memphis Grizzlies,LA Clippers,"6-16, 4-7 Home","9-13, 5-6 Away",91,98,,,Final,,19,25,22,25,,24,22,22,30,,NBA
+11,11,271218012,2007,"Tue, Dec 18",LA Clippers,Toronto Raptors,"9-15, 4-8 Home","15-11, 7-5 Away",77,80,,,Final,,23,26,11,17,,19,22,24,15,,NBA
+12,12,271222024,2007,"Sat, Dec 22",San Antonio Spurs,LA Clippers,"19-7, 14-1 Home","9-17, 5-9 Away",99,90,,,Final,,24,36,17,22,,16,23,24,27,,NBA
+13,13,271228021,2007,"Fri, Dec 28",Phoenix Suns,LA Clippers,"21-9, 9-3 Home","9-19, 5-10 Away",94,88,,,Final,,27,24,15,28,,19,28,18,23,,NBA
+14,14,280102012,2007,"Wed, Jan 2",LA Clippers,New Orleans Hornets,"10-20, 5-10 Home","21-11, 12-5 Away",81,95,,,Final,,16,25,17,23,,23,18,30,24,,NBA
+15,15,280109012,2007,"Wed, Jan 9",LA Clippers,Orlando Magic,"10-22, 5-12 Home","23-14, 16-6 Away",106,113,,,Final,,20,34,25,27,,35,24,29,25,,NBA
+16,16,280115012,2007,"Tue, Jan 15",LA Clippers,Phoenix Suns,"11-23, 6-13 Home","26-12, 13-8 Away",97,90,,,Final,,28,21,25,23,,27,21,17,25,,NBA
+17,17,280119012,2007,"Sat, Jan 19",LA Clippers,New Jersey Nets,"12-24, 7-13 Home","18-21, 9-7 Away",120,107,,,Final/OT,,21,21,29,30,19.0,19,26,27,29,6.0,NBA
+18,18,280123012,2007,"Wed, Jan 23",LA Clippers,Sacramento Kings,"13-25, 8-14 Home","18-23, 6-14 Away",111,85,,,Final,,22,28,26,35,,19,30,15,21,,NBA
+19,19,280126029,2007,"Sat, Jan 26",Memphis Grizzlies,LA Clippers,"13-31, 9-14 Home","13-27, 5-13 Away",125,120,,,Final/OT,,36,25,29,18,17.0,28,31,23,26,12.0,NBA
+20,20,280130012,2007,"Wed, Jan 30",LA Clippers,Atlanta Hawks,"14-28, 9-15 Home","19-24, 6-15 Away",95,88,,,Final,,20,28,26,21,,21,20,20,27,,NBA
+21,21,280202005,2007,"Sat, Feb 2",Cleveland Cavaliers,LA Clippers,"26-20, 14-7 Home","14-30, 5-15 Away",98,84,,,Final,,19,26,28,25,,23,24,22,15,,NBA
+22,22,280206002,2007,"Wed, Feb 6",Boston Celtics,LA Clippers,"37-9, 21-4 Home","15-31, 6-16 Away",111,100,,,Final,,25,34,25,27,,29,19,33,19,,NBA
+23,23,280209020,2007,"Sat, Feb 9",Philadelphia 76ers,LA Clippers,"21-30, 12-14 Home","16-32, 7-17 Away",101,80,,,Final,,29,30,23,19,,25,15,26,14,,NBA
+24,24,280213012,2007,"Wed, Feb 13",LA Clippers,Washington Wizards,"17-33, 9-16 Home","25-27, 10-16 Away",89,91,,,Final,,17,15,28,29,,25,20,16,30,,NBA
+25,25,280222012,2007,"Fri, Feb 22",LA Clippers,Utah Jazz,"19-33, 11-16 Home","35-20, 12-17 Away",114,104,,,Final,,25,30,37,22,,29,20,23,32,,NBA
+26,26,280225012,2007,"Mon, Feb 25",LA Clippers,Boston Celtics,"19-35, 11-18 Home","43-12, 20-8 Away",76,104,,,Final,,17,19,21,19,,23,22,32,27,,NBA
+27,27,280229007,2007,"Fri, Feb 29",Denver Nuggets,LA Clippers,"35-23, 23-7 Home","19-37, 8-18 Away",110,104,,,Final,ESPN,31,30,27,22,,22,35,23,24,,NBA
+28,28,280303012,2007,"Mon, Mar 3",LA Clippers,Philadelphia 76ers,"19-39, 11-21 Home","28-33, 12-19 Away",80,106,,,Final,CSN,21,21,17,21,,25,29,19,33,,NBA
+29,29,280307013,2007,"Fri, Mar 7",Los Angeles Lakers,LA Clippers,"44-18, 22-7 Home","20-40, 8-19 Away",119,82,,,Final,,26,23,35,35,,24,17,16,25,,NBA
+30,30,280310014,2007,"Mon, Mar 10",Miami Heat,LA Clippers,"11-51, 6-25 Home","21-41, 9-19 Away",98,99,,,Final,,23,24,33,18,,29,29,15,26,,NBA
+31,31,280314001,2007,"Fri, Mar 14",Atlanta Hawks,LA Clippers,"27-38, 20-13 Home","21-43, 9-21 Away",117,93,,,Final,,36,27,33,21,,22,26,23,22,,NBA
+32,32,280317016,2007,"Mon, Mar 17",Minnesota Timberwolves,LA Clippers,"16-50, 11-23 Home","21-45, 9-23 Away",99,90,,,Final,,23,24,21,31,,23,21,22,24,,NBA
+33,33,280321022,2007,"Fri, Mar 21",Portland Trail Blazers,LA Clippers,"36-33, 24-10 Home","21-47, 9-24 Away",107,102,,,Final,,32,25,30,20,,24,33,18,27,,NBA
+34,34,280325006,2007,"Tue, Mar 25",Dallas Mavericks,LA Clippers,"45-26, 30-7 Home","21-49, 9-25 Away",103,90,,,Final,,28,23,31,21,,24,20,24,22,,NBA
+35,35,280328026,2007,"Fri, Mar 28",Utah Jazz,LA Clippers,"48-25, 32-4 Home","21-51, 9-27 Away",121,101,,,Final,,31,25,34,31,,24,19,28,30,,NBA
+36,36,280331012,2007,"Mon, Mar 31",LA Clippers,Dallas Mavericks,"22-52, 13-25 Home","46-28, 16-21 Away",86,93,,,Final,,24,16,20,26,,29,23,17,24,,NBA
+37,37,280403023,2007,"Thu, Apr 3",Sacramento Kings,LA Clippers,"35-40, 24-13 Home","23-53, 10-28 Away",110,98,,,Final,,20,30,34,26,,25,18,27,28,,NBA
+38,38,280408012,2007,"Tue, Apr 8",LA Clippers,Denver Nuggets,"23-55, 13-27 Home","47-31, 16-23 Away",99,117,,,Final,,23,24,27,25,,23,40,28,26,,NBA
+39,39,280412009,2007,"Sat, Apr 12",Golden State Warriors,LA Clippers,"48-32, 27-13 Home","23-57, 10-29 Away",122,116,,,Final,TNT,42,26,25,29,,26,35,23,32,,NBA
+40,40,271102012,2007,"Fri, Nov 2",LA Clippers,Golden State Warriors,"1-0, 1-0 Home","0-2, 0-1 Away",120,114,,,Final,TNT,35,26,31,28,,27,34,29,24,,NBA
+41,41,271106004,2007,"Tue, Nov 6",Chicago Bulls,LA Clippers,"0-4, 0-2 Home","3-0, 1-0 Away",91,97,,,Final,,26,26,22,17,,26,31,18,22,,NBA
+42,42,271109008,2007,"Fri, Nov 9",Detroit Pistons,LA Clippers,"4-1, 2-0 Home","4-1, 2-1 Away",103,79,,,Final,,31,28,24,20,,21,21,14,23,,NBA
+43,43,271114012,2007,"Wed, Nov 14",LA Clippers,New York Knicks,"5-2, 3-1 Home","2-5, 0-3 Away",84,81,,,Final,,18,23,22,21,,17,27,9,28,,NBA
+44,44,271117012,2007,"Sat, Nov 17",LA Clippers,Chicago Bulls,"5-4, 3-2 Home","2-6, 1-3 Away",73,92,,,Final,NBATV,16,24,19,14,,29,22,19,22,,NBA
+45,45,271123021,2007,"Fri, Nov 23",Phoenix Suns,LA Clippers,"11-2, 5-1 Home","6-5, 2-3 Away",113,94,,,Final,,22,29,35,27,,27,25,22,20,,NBA
+46,46,271126012,2007,"Mon, Nov 26",LA Clippers,Houston Rockets,"6-7, 4-4 Home","8-7, 4-4 Away",71,88,,,Final,,24,15,19,13,,21,19,19,29,,NBA
+47,47,271202012,2007,"Sun, Dec 2",LA Clippers,Indiana Pacers,"6-9, 4-5 Home","9-9, 5-4 Away",95,101,,,Final,,19,32,25,19,,32,18,27,24,,NBA
+48,48,271205025,2007,"Wed, Dec 5",Seattle SuperSonics,LA Clippers,"4-15, 2-8 Home","6-11, 2-5 Away",95,88,,,Final,,18,25,30,22,,17,18,26,27,,NBA
+49,49,271209012,2007,"Sun, Dec 9",LA Clippers,Miami Heat,"7-12, 4-7 Home","5-15, 3-9 Away",94,100,,,Final,,26,25,20,23,,30,21,26,23,,NBA
+50,50,271212030,2007,"Wed, Dec 12",Charlotte Bobcats,LA Clippers,"8-12, 7-5 Home","8-13, 4-6 Away",108,103,,,Final,,20,23,36,29,,21,34,17,31,,NBA
+51,51,271216013,2007,"Sun, Dec 16",Los Angeles Lakers,LA Clippers,"14-9, 9-4 Home","9-14, 5-7 Away",113,92,,,Final,,29,28,25,31,,15,29,32,16,,NBA
+52,52,271221006,2007,"Fri, Dec 21",Dallas Mavericks,LA Clippers,"19-9, 13-2 Home","9-16, 5-8 Away",102,89,,,Final,ESPN,23,31,19,29,,22,20,21,26,,NBA
+53,53,271227012,2007,"Thu, Dec 27",LA Clippers,Phoenix Suns,"9-18, 4-9 Home","20-9, 12-6 Away",88,108,,,Final,,20,20,19,29,,27,32,30,19,,NBA
+54,54,271231012,2007,"Mon, Dec 31",LA Clippers,Minnesota Timberwolves,"10-19, 5-9 Home","4-26, 1-16 Away",91,82,,,Final,,21,20,18,32,,23,23,24,12,,NBA
+55,55,280106012,2007,"Sun, Jan 6",LA Clippers,San Antonio Spurs,"10-21, 5-11 Home","23-9, 6-7 Away",82,88,,,Final,,24,18,20,20,,21,21,22,24,,NBA
+56,56,280112012,2007,"Sat, Jan 12",LA Clippers,Dallas Mavericks,"10-23, 5-13 Home","26-11, 9-8 Away",94,95,,,Final,,29,22,24,19,,21,26,24,24,,NBA
+57,57,280118026,2007,"Fri, Jan 18",Utah Jazz,LA Clippers,"23-18, 17-3 Home","11-24, 5-11 Away",106,88,,,Final,,34,25,29,18,,23,22,26,17,,NBA
+58,58,280121012,2007,"Mon, Jan 21",LA Clippers,Utah Jazz,"12-25, 7-14 Home","24-18, 7-15 Away",93,109,,,Final,,20,23,24,26,,23,31,25,30,,NBA
+59,59,280125003,2007,"Fri, Jan 25",New Orleans Hornets,LA Clippers,"30-12, 15-7 Home","13-26, 5-12 Away",111,92,,,Final,,28,22,31,30,,22,15,26,29,,NBA
+60,60,280128012,2007,"Mon, Jan 28",LA Clippers,Charlotte Bobcats,"13-28, 8-15 Home","18-27, 4-13 Away",100,107,,,Final,,22,27,22,29,,29,30,24,24,,NBA
+61,61,280201016,2007,"Fri, Feb 1",Minnesota Timberwolves,LA Clippers,"10-36, 8-14 Home","14-29, 5-14 Away",104,83,,,Final,,20,32,31,21,,27,29,15,12,,NBA
+62,62,280204018,2007,"Mon, Feb 4",New York Knicks,LA Clippers,"14-34, 10-15 Home","15-30, 6-15 Away",94,103,,,Final,,30,30,14,20,,31,20,28,24,,NBA
+63,63,280208028,2007,"Fri, Feb 8",Toronto Raptors,LA Clippers,"26-22, 14-10 Home","16-31, 7-16 Away",98,102,,,Final,,26,32,19,21,,21,29,28,24,,NBA
+64,64,280211015,2007,"Mon, Feb 11",Milwaukee Bucks,LA Clippers,"19-33, 13-10 Home","17-32, 8-17 Away",89,96,,,Final,,29,21,24,15,,31,20,25,20,,NBA
+65,65,280220012,2007,"Wed, Feb 20",LA Clippers,Memphis Grizzlies,"18-33, 10-16 Home","14-40, 4-22 Away",100,86,,,Final,,21,30,31,18,,31,16,20,19,,NBA
+66,66,280223012,2007,"Sat, Feb 23",LA Clippers,Los Angeles Lakers,"19-34, 11-17 Home","38-17, 20-10 Away",95,113,,,Final,,21,27,24,23,,29,27,34,23,,NBA
+67,67,280227012,2007,"Wed, Feb 27",LA Clippers,Portland Trail Blazers,"19-36, 11-19 Home","30-28, 9-20 Away",80,82,,,Final,,15,14,28,23,,26,16,16,24,,NBA
+68,68,280301012,2007,"Sat, Mar 1",LA Clippers,Detroit Pistons,"19-38, 11-20 Home","43-16, 21-11 Away",73,103,,,Final,NBATV,25,17,21,10,,31,24,21,27,,NBA
+69,69,280305012,2007,"Wed, Mar 5",LA Clippers,Sacramento Kings,"20-39, 12-21 Home","27-34, 9-23 Away",116,109,,,Final/2OT,,24,19,23,25,25.0,25,29,20,17,18.0,NBA
+70,70,280308012,2007,"Sat, Mar 8",LA Clippers,Minnesota Timberwolves,"20-41, 12-22 Home","14-48, 4-26 Away",96,99,,,Final,,23,24,31,18,,25,14,34,26,,NBA
+71,71,280312019,2007,"Wed, Mar 12",Orlando Magic,LA Clippers,"42-24, 20-12 Home","21-42, 9-20 Away",110,88,,,Final,,32,31,27,20,,19,29,28,12,,NBA
+72,72,280315027,2007,"Sat, Mar 15",Washington Wizards,LA Clippers,"33-32, 20-14 Home","21-44, 9-22 Away",119,109,,,Final/OT,NBATV,25,30,20,25,19.0,25,30,23,22,9.0,NBA
+73,73,280319012,2007,"Wed, Mar 19",LA Clippers,Golden State Warriors,"21-46, 12-23 Home","42-25, 19-15 Away",100,116,,,Final,ESPN,26,20,28,26,,37,27,28,24,,NBA
+74,74,280322012,2007,"Sat, Mar 22",LA Clippers,Portland Trail Blazers,"21-48, 12-24 Home","37-33, 13-23 Away",72,83,,,Final,,17,17,22,16,,22,22,22,17,,NBA
+75,75,280326024,2007,"Wed, Mar 26",San Antonio Spurs,LA Clippers,"49-23, 29-6 Home","21-50, 9-26 Away",97,88,,,Final,,27,21,26,23,,18,26,27,17,,NBA
+76,76,280329012,2007,"Sat, Mar 29",LA Clippers,Memphis Grizzlies,"22-51, 13-24 Home","19-54, 6-31 Away",110,97,,,Final,,20,27,28,35,,17,26,28,26,,NBA
+77,77,280402025,2007,"Wed, Apr 2",Seattle SuperSonics,LA Clippers,"17-58, 11-27 Home","23-52, 10-27 Away",84,102,,,Final,,22,28,20,14,,27,21,21,33,,NBA
+78,78,280406012,2007,"Sun, Apr 6",LA Clippers,Houston Rockets,"23-54, 13-26 Home","52-25, 24-15 Away",79,105,,,Final,,22,20,25,12,,30,32,18,25,,NBA
+79,79,280410012,2007,"Thu, Apr 10",LA Clippers,Los Angeles Lakers,"23-56, 13-28 Home","54-25, 27-14 Away",78,106,,,Final,TNT,25,17,19,17,,27,24,22,33,,NBA
+80,80,280415003,2007,"Tue, Apr 15",New Orleans Hornets,LA Clippers,"56-25, 30-11 Home","23-58, 10-30 Away",114,92,,,Final,,26,23,34,31,,26,25,17,24,,NBA
+81,81,280416010,2007,"Wed, Apr 16",Houston Rockets,LA Clippers,"55-27, 31-10 Home","23-59, 10-31 Away",93,75,,,Final,,35,23,20,15,,17,25,18,15,,NBA
