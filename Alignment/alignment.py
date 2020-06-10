@@ -4,7 +4,7 @@
 # File Created: Wednesday, 3rd June 2020 3:50:36 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Tuesday, 9th June 2020 8:23:34 pm
+# Last Modified: Tuesday, 9th June 2020 8:36:15 pm
 # Modified By: Dillon Koch
 # -----
 # Collins Aerospace
@@ -69,13 +69,6 @@ class Alignment:
             all_team_dfs.append(current_df)
         return all_team_dfs
 
-    def _add_nfl_datetime(self, df):  # Specific Helper load_espn_data  Tested
-        def add_dt(row):
-            return datetime.datetime.strptime(row['Date'], "%B %d, %Y")
-        df['datetime'] = df.apply(lambda row: add_dt(row), axis=1)
-        df['datetime'] = pd.to_datetime(df['datetime']).apply(lambda x: x.date())
-        return df
-
     def _add_datetime(self, df):  # Top Level
         def add_month(row):
             months = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
@@ -104,9 +97,16 @@ class Alignment:
         df['datetime'] = df.apply(lambda row: add_dt(row), axis=1)
         return df
 
+    def _add_nfl_datetime(self, df):  # Specific Helper load_espn_data  Tested
+        def add_dt(row):
+            return datetime.datetime.strptime(row['Date'], "%B %d, %Y")
+        df['datetime'] = df.apply(lambda row: add_dt(row), axis=1)
+        df['datetime'] = pd.to_datetime(df['datetime']).apply(lambda x: x.date())
+        return df
+
     def _remove_preseason(self, df):  # Specific Helper load_espn_data  Tested
         if self.league == "NFL":
-            df = df.loc[df.Week != "HOF"]
+            df = self._add_nfl_datetime(df)
             year = str(int(df.Season[0]))
             start_date = self.season_start_dict[year]
             df = df.loc[df.datetime >= start_date]
