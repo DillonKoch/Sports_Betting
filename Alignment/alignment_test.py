@@ -33,7 +33,7 @@ class Test_Alignment(TestCase):
     nba = Alignment("NBA")
     ncaaf = Alignment("NCAAF")
     ncaab = Alignment("NCAAB")
-    league_obs = [nfl, nba]
+    league_obs = [nfl, nba, ncaaf, ncaab]
 
     def setUp(self):
         pass
@@ -64,39 +64,39 @@ class Test_Alignment(TestCase):
         for league_ob in self.league_obs:
             self._season_start_test(league_ob)
 
-    # def _get_df_paths_test(self, league_ob):  # Specific Helper
-    #     df_paths = league_ob._get_df_paths()
-    #     for item in df_paths:
-    #         self.assertTrue('.csv' in item)
-    #         self.assertTrue(int(item[-8:-4]) > 2006)
+    def _get_df_paths_test(self, league_ob):  # Specific Helper
+        df_paths = league_ob._get_df_paths()
+        for item in df_paths:
+            self.assertTrue('.csv' in item)
+            self.assertTrue(int(item[-8:-4]) > 2007)
 
-    # def test_get_df_paths(self):  # Top Level
-    #     for league_ob in self.league_obs:
-    #         self._get_df_paths_test(league_ob)
+    def test_get_df_paths(self):  # Top Level
+        for league_ob in self.league_obs:
+            self._get_df_paths_test(league_ob)
 
-    # def _load_all_team_dfs_test(self, league_ob):  # Specific Helper
-    #     df_paths = league_ob._get_df_paths()
-    #     all_team_dfs = league_ob._load_all_team_dfs(df_paths)
-    #     for df in all_team_dfs:
-    #         self.assertIsInstance(df, pd.DataFrame)
-    #     self.assertEqual(len(df_paths), len(all_team_dfs))
+    def _load_all_team_dfs_test(self, league_ob):  # Specific Helper
+        df_paths = league_ob._get_df_paths()
+        all_team_dfs = league_ob._load_all_team_dfs(df_paths)
+        for df in all_team_dfs:
+            self.assertIsInstance(df, pd.DataFrame)
+        self.assertEqual(len(df_paths), len(all_team_dfs))
 
-    # def test_load_all_team_dfs(self):  # Top Level
-    #     for league_ob in self.league_obs:
-    #         self._load_all_team_dfs_test(league_ob)
+    def test_load_all_team_dfs(self):  # Top Level
+        for league_ob in self.league_obs:
+            self._load_all_team_dfs_test(league_ob)
 
-    # def _add_datetime_test(self, league_ob):  # Specific Helper
-    #     df_paths = league_ob._get_df_paths()
-    #     all_team_dfs = league_ob._load_all_team_dfs(df_paths)
-    #     test_df = all_team_dfs[0]
-    #     test_df = league_ob._add_nfl_datetime(test_df) if league_ob.league == "NFL" else league_ob._add_datetime(test_df)
-    #     self.assertTrue("datetime" in list(test_df.columns))
-    #     for item in list(test_df.datetime):
-    #         self.assertIsInstance(item, datetime.date)
+    def _add_datetime_test(self, league_ob):  # Specific Helper
+        df_paths = league_ob._get_df_paths()
+        all_team_dfs = league_ob._load_all_team_dfs(df_paths)
+        test_df = all_team_dfs[0]
+        test_df = league_ob._add_nfl_datetime(test_df) if league_ob.league == "NFL" else league_ob._add_datetime(test_df)
+        self.assertTrue("datetime" in list(test_df.columns))
+        for item in list(test_df.datetime):
+            self.assertIsInstance(item, datetime.date)
 
-    # def test_add_datetime(self):  # Top Level
-    #     for league_ob in self.league_obs:
-    #         self._add_datetime_test(league_ob)
+    def test_add_datetime(self):  # Top Level
+        for league_ob in self.league_obs:
+            self._add_datetime_test(league_ob)
 
     # Decorator
 

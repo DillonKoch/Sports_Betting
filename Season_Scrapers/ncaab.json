@@ -1088,7 +1088,7 @@
     ],
     "Season Base Link": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/{team_abbrev}/season/{year}",
     "DF Columns": [
-        "ESPN ID",
+        "ESPN_ID",
         "Season",
         "Date",
         "Home",

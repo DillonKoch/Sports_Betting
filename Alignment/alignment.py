@@ -4,7 +4,7 @@
 # File Created: Wednesday, 3rd June 2020 3:50:36 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Tuesday, 9th June 2020 8:36:15 pm
+# Last Modified: Thursday, 11th June 2020 4:45:13 pm
 # Modified By: Dillon Koch
 # -----
 # Collins Aerospace
@@ -17,7 +17,6 @@ import copy
 import datetime
 import json
 import os
-import string
 import sys
 from os.path import abspath, dirname
 
@@ -66,10 +65,26 @@ class Alignment:
         all_team_dfs = []
         for path in tqdm(df_paths):
             current_df = pd.read_csv(path)
-            all_team_dfs.append(current_df)
+            if len(current_df) > 0:
+                all_team_dfs.append(current_df)
         return all_team_dfs
 
-    def _add_datetime(self, df):  # Top Level
+    def _add_nfl_datetime(self, df):  # Helping Helper _remove_preseason
+        def add_dt(row):
+            return datetime.datetime.strptime(row['Date'], "%B %d, %Y")
+        df['datetime'] = df.apply(lambda row: add_dt(row), axis=1)
+        df['datetime'] = pd.to_datetime(df['datetime']).apply(lambda x: x.date())
+        return df
+
+    def _remove_preseason(self, df):  # Specific Helper load_espn_data  Tested
+        if self.league == "NFL":
+            df = self._add_nfl_datetime(df)
+            year = str(int(df.Season[0]))
+            start_date = self.season_start_dict[year]
+            df = df.loc[df.datetime >= start_date]
+        return df
+
+    def _add_datetime(self, df):  # Specific Helper load_espn_data
         def add_month(row):
             months = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
             month_to_num = {item: i + 1 for i, item in enumerate(months)}
@@ -97,22 +112,10 @@ class Alignment:
         df['datetime'] = df.apply(lambda row: add_dt(row), axis=1)
         return df
 
-    def _add_nfl_datetime(self, df):  # Specific Helper load_espn_data  Tested
-        def add_dt(row):
-            return datetime.datetime.strptime(row['Date'], "%B %d, %Y")
-        df['datetime'] = df.apply(lambda row: add_dt(row), axis=1)
-        df['datetime'] = pd.to_datetime(df['datetime']).apply(lambda x: x.date())
-        return df
-
-    def _remove_preseason(self, df):  # Specific Helper load_espn_data  Tested
-        if self.league == "NFL":
-            df = self._add_nfl_datetime(df)
-            year = str(int(df.Season[0]))
-            start_date = self.season_start_dict[year]
-            df = df.loc[df.datetime >= start_date]
-        return df
-
     def _clean_concat_team_dfs(self, all_team_dfs):  # Specific Helper load_espn_data  Tested
+        if self.league in ["NCAAB", "NCAAF"]:
+            for df in all_team_dfs:
+                df.columns = [item if item != "ESPN ID" else "ESPN_ID" for item in list(df.columns)]
         full_df = pd.concat(all_team_dfs)
         full_df.drop_duplicates(subset="ESPN_ID", inplace=True)
         full_df.sort_values(by="datetime", inplace=True)
