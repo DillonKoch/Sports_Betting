@@ -4,7 +4,7 @@
 # File Created: Wednesday, 3rd June 2020 3:50:36 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Monday, 15th June 2020 8:09:21 pm
+# Last Modified: Tuesday, 16th June 2020 10:56:31 am
 # Modified By: Dillon Koch
 # -----
 # Collins Aerospace
@@ -272,13 +272,14 @@ class Alignment:
         if no_line_count == 2:
             return "nl", "nl", "nl"
         elif no_line_count == 1:
-            cutoff_val = self.config["{}_cutoff".format(col)]
+            # cutoff_val = self.config["{}_cutoff".format(col)]
             non_nl_val = [item for item in [home_val, away_val] if item != "nl"][0]
             if self.league == "NCAAF":
                 home_line = "nl"
                 away_line = "nl"
                 over_under = "nl"
-            elif float(non_nl_val) < cutoff_val:
+            # elif float(non_nl_val) < cutoff_val:
+            elif float(non_nl_val) < self.config["{}_cutoff".format(col)]:
                 home_is_favorite = True if home_val == non_nl_val else False
                 if home_is_favorite:
                     home_line = "-" + str(float(home_val))
@@ -322,15 +323,7 @@ class Alignment:
             "datetime": home_row['datetime'],
             "Home": home_row['Team'],
             "Away": away_row['Team'],
-            "HQ1": int(home_row['1st']),
-            "HQ2": int(home_row['2nd']),
-            "HQ3": int(home_row['3rd']),
-            "HQ4": int(home_row['4th']),
             "Home_Score": int(home_row['Final']),
-            "AQ1": int(away_row['1st']),
-            "AQ2": int(away_row['2nd']),
-            "AQ3": int(away_row['3rd']),
-            "AQ4": int(away_row['4th']),
             "Away_Score": int(away_row['Final']),
             "Home_ML": home_row['ML'],
             "Away_ML": away_row['ML'],
@@ -344,6 +337,25 @@ class Alignment:
             "2H_Home_Line": second_half_home,
             "2H_Away_Line": second_half_away
         }
+        if self.league != "NCAAB":
+            quarters_dict = {
+                "HQ1": int(home_row['1st']),
+                "HQ2": int(home_row['2nd']),
+                "HQ3": int(home_row['3rd']),
+                "HQ4": int(home_row['4th']),
+                "AQ1": int(away_row['1st']),
+                "AQ2": int(away_row['2nd']),
+                "AQ3": int(away_row['3rd']),
+                "AQ4": int(away_row['4th'])}
+            result = dict(list(result.items()) + list(quarters_dict.items()))
+        else:
+            halves_dict = {
+                "H1H": int(home_row['1st']),
+                "H2H": int(home_row['2nd']),
+                "A1H": int(away_row['1st']),
+                "A2H": int(away_row['2nd'])}
+            result = dict(list(result.items()) + list(halves_dict.items()))
+
         return result
 
     def _find_odds_match(self, espn_row, odds_df):  # Specific Helper join_odds_match
@@ -392,7 +404,7 @@ class Alignment:
         if self.league != "NCAAB":
             final_cols += ['HQ1_x', 'HQ2_x', 'HQ3_x', 'HQ4_x', "HOT", "AQ1_x", "AQ2_x", "AQ3_x", "AQ4_x", "AOT"]
         else:
-            pass  # add halves
+            final_cols += ["H1H_x", "H2H_x", "HOT", "A1H_x", "A2H_x", "AOT"]
         return df.loc[:, final_cols]
 
     def run(self):  # Run
