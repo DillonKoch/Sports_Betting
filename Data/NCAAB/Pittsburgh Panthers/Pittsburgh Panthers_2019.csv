@@ -1,0 +1,34 @@
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,H1H,H2H,HOT,A1H,A2H,AOT,League
+401082801,2019,"Fri, Nov 9",Pittsburgh Panthers,VMI Keydets,"2-0, 2-0 Home","1-1, 0-1 Away",94,55,PITT -14.0,NULL,Final,ACCNX,42,52,NULL,24,31,NULL,NCAAB
+401082803,2019,"Thu, Nov 15",Pittsburgh Panthers,Central Arkansas Bears,"4-0, 4-0 Home","2-2, 0-2 Away",97,71,NULL,NULL,Final,ACCNX,48,49,NULL,37,34,NULL,NCAAB
+401082805,2019,"Wed, Nov 21",Pittsburgh Panthers,Saint Louis Billikens,6-0,4-1,75,73,SLU -4.0,133,Final,ACCNX,38,37,NULL,33,40,NULL,NCAAB
+401082806,2019,"Fri, Nov 30",Pittsburgh Panthers,Duquesne Dukes,7-1,4-2,74,53,PITT -3.5,142,Final,ACCNX,32,42,NULL,29,24,NULL,NCAAB
+401082808,2019,"Sat, Dec 8",West Virginia Mountaineers,Pittsburgh Panthers,"6-3, 4-1 Home","7-3, 0-2 Away",69,59,WVU -9.0,148,Final,ESPN2,39,30,NULL,27,32,NULL,NCAAB
+401082810,2019,"Thu, Dec 20",Pittsburgh Panthers,New Orleans Privateers,"9-3, 7-1 Home","5-5, 0-4 Away",99,57,NULL,NULL,Final,ACCNX,52,47,NULL,26,31,NULL,NCAAB
+401082812,2019,"Sat, Jan 5",Pittsburgh Panthers,North Carolina Tar Heels,"10-4, 0-1 Conf","11-3, 1-0 Conf",60,85,UNC -9.5,157,Final,ACCNX,23,37,NULL,45,40,NULL,NCAAB
+401082814,2019,"Sat, Jan 12",NC State Wolfpack,Pittsburgh Panthers,"14-2, 2-1 Conf","11-5, 1-2 Conf",86,80,NCST -11.0,156,Final,ACCNX,41,45,NULL,40,40,NULL,NCAAB
+401082794,2019,"Sat, Jan 19",Syracuse Orange,Pittsburgh Panthers,"13-5, 4-1 Conf","12-6, 2-3 Conf",74,63,SYR -8.0,136,Final,ACCNX,28,46,NULL,25,38,NULL,NCAAB
+401082815,2019,"Sat, Jan 26",Louisville Cardinals,Pittsburgh Panthers,"15-5, 6-1 Conf","12-8, 2-5 Conf",66,51,LOU -10.0,144,Final,ACCNX,29,37,NULL,33,18,NULL,NCAAB
+401082796,2019,"Sat, Feb 2",Pittsburgh Panthers,Syracuse Orange,"12-10, 2-7 Conf","16-6, 7-2 Conf",56,65,SYR -3.5,136,Final,ESPN2,22,34,NULL,35,30,NULL,NCAAB
+401082816,2019,"Sat, Feb 9",Pittsburgh Panthers,NC State Wolfpack,"12-12, 2-9 Conf","17-7, 5-6 Conf",76,79,NCST -3.0,149,Final,ACCNX,38,38,NULL,41,38,NULL,NCAAB
+401082758,2019,"Sat, Feb 16",Pittsburgh Panthers,Virginia Tech Hokies,"12-14, 2-11 Conf","20-5, 9-4 Conf",64,70,VT -6.0,130,Final,ACCNX,26,38,NULL,31,39,NULL,NCAAB
+401082665,2019,"Wed, Feb 27",Pittsburgh Panthers,Clemson Tigers,"12-16, 2-13 Conf","17-11, 7-8 Conf",48,62,CLEM -4.5,130,Final,ACCNX,16,32,NULL,38,24,NULL,NCAAB
+401082818,2019,"Tue, Mar 5",Miami Hurricanes,Pittsburgh Panthers,"13-16, 5-12 Conf","12-18, 2-15 Conf",76,63,MIA -6.0,136,Final,ACCNX,36,40,NULL,31,32,NULL,NCAAB
+401120695,2019,"Tue, Mar 12",Boston College Eagles,Pittsburgh Panthers,"14-17, 5-13 Conf","14-18, 3-15 Conf",70,80,PITT -1.0,135,Final,ESPNU,21,49,NULL,36,44,NULL,NCAAB
+401082800,2019,"Tue, Nov 6",Pittsburgh Panthers,Youngstown St Penguins,"1-0, 1-0 Home","0-1, 0-1 Away",69,53,PITT -13.5,154,Final,ACCNX,27,42,NULL,24,29,NULL,NCAAB
+401082802,2019,"Mon, Nov 12",Pittsburgh Panthers,Troy Trojans,"3-0, 3-0 Home","1-2, 0-2 Away",84,75,PITT -5.5,140,Final,ACCNX,40,44,NULL,35,40,NULL,NCAAB
+401082804,2019,"Sat, Nov 17",Pittsburgh Panthers,North Alabama Lions,"5-0, 5-0 Home","1-3, 0-3 Away",71,66,NULL,NULL,Final,ACCNX,29,42,NULL,33,33,NULL,NCAAB
+401082395,2019,"Tue, Nov 27",Iowa Hawkeyes,Pittsburgh Panthers,"6-0, 4-0 Home","6-1, 0-1 Away",69,68,IOWA -10.5,158,Final,ESPNU,40,29,NULL,46,22,NULL,NCAAB
+401082807,2019,"Mon, Dec 3",Pittsburgh Panthers,Niagara Purple Eagles,"7-2, 5-1 Home","3-4, 2-2 Away",70,71,PITT -17.0,NULL,Final,ACCNX,33,37,NULL,34,37,NULL,NCAAB
+401082809,2019,"Sat, Dec 15",Pittsburgh Panthers,Maryland-Eastern Shore Hawks,"8-3, 6-1 Home","1-10, 0-8 Away",78,43,NULL,NULL,Final,ACCNX,38,40,NULL,17,26,NULL,NCAAB
+401082811,2019,"Sat, Dec 29",Pittsburgh Panthers,Colgate Raiders,"10-3, 8-1 Home","8-5, 4-5 Away",68,54,NULL,NULL,Final,ACCNX,42,26,NULL,23,31,NULL,NCAAB
+401082813,2019,"Wed, Jan 9",Pittsburgh Panthers,Louisville Cardinals,"11-4, 1-1 Conf","10-5, 1-1 Conf",89,86,LOU -3.5,140,Final/OT,ACCNX,38,41,10,28,51,7,NCAAB
+401082706,2019,"Mon, Jan 14",Pittsburgh Panthers,Florida State Seminoles,"12-5, 2-2 Conf","13-4, 1-3 Conf",75,62,FSU -5.0,146,Final,ESPNU,36,39,NULL,34,28,NULL,NCAAB
+401082682,2019,"Tue, Jan 22",Pittsburgh Panthers,Duke Blue Devils,"12-7, 2-4 Conf","16-2, 5-1 Conf",64,79,DUKE -12.0,157,Final,ESPN,25,39,NULL,44,35,NULL,NCAAB
+401082658,2019,"Tue, Jan 29",Clemson Tigers,Pittsburgh Panthers,"12-8, 2-5 Conf","12-9, 2-6 Conf",82,69,CLEM -9.5,134,Final,ESPNU,51,31,NULL,23,46,NULL,NCAAB
+401082734,2019,"Tue, Feb 5",Wake Forest Demon Deacons,Pittsburgh Panthers,"9-13, 2-8 Conf","12-11, 2-8 Conf",78,76,PITT -3.0,141,Final/OT,ESPNU,26,41,11,28,39,9,NCAAB
+401082634,2019,"Tue, Feb 12",Boston College Eagles,Pittsburgh Panthers,"12-11, 3-8 Conf","12-13, 2-10 Conf",66,57,BC -1.5,138,Final,ESPNU,36,30,NULL,32,25,NULL,NCAAB
+401082817,2019,"Wed, Feb 20",Georgia Tech Yellow Jackets,Pittsburgh Panthers,"12-15, 4-10 Conf","12-15, 2-12 Conf",73,65,GT -2.0,126,Final,ACCNX,34,39,NULL,27,38,NULL,NCAAB
+401082778,2019,"Sat, Mar 2",Virginia Cavaliers,Pittsburgh Panthers,"26-2, 14-2 Conf","12-17, 2-14 Conf",73,49,UVA -17.5,126,Final,ACCNX,39,34,NULL,19,30,NULL,NCAAB
+401082819,2019,"Sat, Mar 9",Pittsburgh Panthers,Notre Dame Fighting Irish,"13-18, 3-15 Conf","13-18, 3-15 Conf",56,53,PITT -3.0,136,Final,ACCNX,25,31,NULL,26,27,NULL,NCAAB
+401120699,2019,"Wed, Mar 13",Syracuse Orange,Pittsburgh Panthers,"20-12, 10-8 Conf","14-19, 3-15 Conf",73,59,SYR -5.5,127,Final,ESPN2,30,43,NULL,36,23,NULL,NCAAB

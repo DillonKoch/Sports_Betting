@@ -1,0 +1,34 @@
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,H1H,H2H,HOT,A1H,A2H,AOT,League
+400911021,2017,"Mon, Nov 14",Texas Longhorns,UL Monroe Warhawks,"2-0, 2-0 Home","1-1, 0-1 Away",80,59,NULL,NULL,Final,LHN,37,43,NULL,28,31,NULL,NCAAB
+400911023,2017,"Mon, Nov 21",Northwestern Wildcats,Texas Longhorns,3-1,3-1,77,58,NULL,NULL,Final,LHN,34,43,NULL,26,32,NULL,NCAAB
+400911024,2017,"Tue, Nov 29",Texas Longhorns,UT Arlington Mavericks,"3-3, 3-1 Home","5-3, 2-3 Away",61,72,NULL,NULL,Final,LHN,27,34,NULL,30,42,NULL,NCAAB
+400911025,2017,"Tue, Dec 6",Michigan Wolverines,Texas Longhorns,"7-2, 5-1 Home","4-4, 0-1 Away",53,50,NULL,NULL,Final,ESPN2,31,22,NULL,28,22,NULL,NCAAB
+400910584,2017,"Sat, Dec 17",Texas Longhorns,Arkansas Razorbacks,5-5,9-1,74,77,NULL,NULL,Final,ESPNU,35,39,NULL,30,47,NULL,NCAAB
+400911028,2017,"Tue, Dec 27",Texas Longhorns,Kent State Golden Flashes,"6-6, 6-2 Home","8-5, 1-2 Away",58,63,NULL,NULL,Final,ESPNU,29,29,NULL,25,38,NULL,NCAAB
+400911030,2017,"Wed, Jan 4",Texas Longhorns,Oklahoma State Cowboys,"7-7, 1-1 Conf","10-4, 0-2 Conf",82,79,NULL,NULL,Final,LHN,37,45,NULL,39,40,NULL,NCAAB
+400911032,2017,"Wed, Jan 11",Texas Longhorns,TCU Horned Frogs,"7-9, 1-3 Conf","13-3, 2-2 Conf",61,64,NULL,NULL,Final,LHN,36,25,NULL,38,26,NULL,NCAAB
+400911034,2017,"Tue, Jan 17",Baylor Bears,Texas Longhorns,"17-1, 5-1 Conf","7-11, 1-5 Conf",74,64,NULL,NULL,Final,ESPN2,38,36,NULL,31,33,NULL,NCAAB
+400911036,2017,"Mon, Jan 23",Texas Longhorns,Oklahoma Sooners,"8-12, 2-6 Conf","8-11, 2-6 Conf",84,83,NULL,NULL,Final,ESPN,41,43,NULL,39,44,NULL,NCAAB
+400911037,2017,"Wed, Feb 1",Texas Longhorns,Texas Tech Red Raiders,"9-13, 3-6 Conf","15-7, 3-6 Conf",62,58,NULL,NULL,Final,ESPNU,28,34,NULL,26,32,NULL,NCAAB
+400911039,2017,"Tue, Feb 7",Texas Longhorns,Iowa State Cyclones,"10-14, 4-7 Conf","14-9, 6-5 Conf",67,65,NULL,NULL,Final,ESPN2,35,32,NULL,29,36,NULL,NCAAB
+400911041,2017,"Tue, Feb 14",Oklahoma Sooners,Texas Longhorns,"9-16, 3-10 Conf","10-16, 4-9 Conf",70,66,NULL,NULL,Final,ESPN2,38,32,NULL,39,27,NULL,NCAAB
+400911043,2017,"Mon, Feb 20",West Virginia Mountaineers,Texas Longhorns,"22-6, 10-5 Conf","10-18, 4-11 Conf",77,62,NULL,NULL,Final,ESPN,46,31,NULL,32,30,NULL,NCAAB
+400911045,2017,"Wed, Mar 1",Texas Tech Red Raiders,Texas Longhorns,"18-12, 6-11 Conf","10-20, 4-13 Conf",67,57,NULL,NULL,Final,ESPN2,34,33,NULL,29,28,NULL,NCAAB
+400945527,2017,"Wed, Mar 8",Texas Tech Red Raiders,Texas Longhorns,"18-14, 6-12 Conf","11-21, 4-14 Conf",52,61,NULL,NULL,Final,ESPNU,26,26,NULL,20,41,NULL,NCAAB
+400911020,2017,"Fri, Nov 11",Texas Longhorns,Incarnate Word Cardinals,"1-0, 1-0 Home","0-1, 0-1 Away",78,73,NULL,NULL,Final,LHN,44,34,NULL,31,42,NULL,NCAAB
+400911022,2017,"Thu, Nov 17",Texas Longhorns,Eastern Washington Eagles,"3-0, 3-0 Home","1-2, 0-2 Away",85,52,NULL,NULL,Final,LHN,39,46,NULL,24,28,NULL,NCAAB
+400926735,2017,"Tue, Nov 22",Colorado Buffaloes,Texas Longhorns,4-1,3-2,68,54,NULL,NULL,Final,ESPNU,33,35,NULL,24,30,NULL,NCAAB
+400910545,2017,"Fri, Dec 2",Texas Longhorns,Alabama Crimson Tide,"4-3, 4-1 Home","4-3, 0-1 Away",77,68,NULL,NULL,Final,ESPNU,26,51,NULL,38,30,NULL,NCAAB
+400911026,2017,"Sat, Dec 10",Texas Longhorns,Long Beach State 49ers,"5-4, 5-1 Home","2-10, 0-9 Away",71,65,NULL,NULL,Final,ESPN2,28,43,NULL,34,31,NULL,NCAAB
+400911027,2017,"Wed, Dec 21",Texas Longhorns,UAB Blazers,"6-5, 6-1 Home","6-6, 1-2 Away",96,60,NULL,NULL,Final,LHN,43,53,NULL,27,33,NULL,NCAAB
+400911029,2017,"Fri, Dec 30",Kansas State Wildcats,Texas Longhorns,"12-1, 1-0 Conf","6-7, 0-1 Conf",65,62,NULL,NULL,Final,ESPNN,32,33,NULL,29,33,NULL,NCAAB
+400911031,2017,"Sat, Jan 7",Iowa State Cyclones,Texas Longhorns,"10-4, 2-1 Conf","7-8, 1-2 Conf",79,70,NULL,NULL,Final,ESPN2,40,39,NULL,31,39,NULL,NCAAB
+400911033,2017,"Sat, Jan 14",Texas Longhorns,West Virginia Mountaineers,"7-10, 1-4 Conf","15-2, 4-1 Conf",72,74,NULL,NULL,Final,ESPN2,34,38,NULL,39,35,NULL,NCAAB
+400911035,2017,"Sat, Jan 21",Kansas Jayhawks,Texas Longhorns,"18-1, 7-0 Conf","7-12, 1-6 Conf",79,67,NULL,NULL,Final,CBS,41,38,NULL,33,34,NULL,NCAAB
+400910672,2017,"Sat, Jan 28",Georgia Bulldogs,Texas Longhorns,"13-8, 9-3 Home","8-13, 0-6 Away",59,57,NULL,NULL,Final,ESPN,23,36,NULL,32,25,NULL,NCAAB
+400911038,2017,"Sat, Feb 4",TCU Horned Frogs,Texas Longhorns,"16-7, 5-5 Conf","9-14, 3-7 Conf",78,63,NULL,NULL,Final,ESPNN,38,40,NULL,35,28,NULL,NCAAB
+400911040,2017,"Sat, Feb 11",Oklahoma State Cowboys,Texas Longhorns,"16-9, 5-7 Conf","10-15, 4-8 Conf",84,71,NULL,NULL,Final,ESPN2,38,46,NULL,33,38,NULL,NCAAB
+400911042,2017,"Sat, Feb 18",Texas Longhorns,Kansas State Wildcats,"10-17, 4-10 Conf","17-10, 6-8 Conf",61,64,NULL,NULL,Final,LHN,36,25,NULL,39,25,NULL,NCAAB
+400911044,2017,"Sat, Feb 25",Texas Longhorns,Kansas Jayhawks,"10-19, 4-12 Conf","26-3, 14-2 Conf",67,77,NULL,NULL,Final,ESPN,31,36,NULL,40,37,NULL,NCAAB
+400911046,2017,"Sat, Mar 4",Texas Longhorns,Baylor Bears,"10-21, 4-14 Conf","25-6, 12-6 Conf",64,75,NULL,NULL,Final,ESPN,29,35,NULL,40,35,NULL,NCAAB
+400945797,2017,"Thu, Mar 9",West Virginia Mountaineers,Texas Longhorns,"25-7, 12-6 Conf","11-22, 4-14 Conf",63,53,NULL,NULL,Final,ESPNU,39,24,NULL,30,23,NULL,NCAAB

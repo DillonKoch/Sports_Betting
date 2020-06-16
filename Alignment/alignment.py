@@ -4,7 +4,7 @@
 # File Created: Wednesday, 3rd June 2020 3:50:36 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Thursday, 11th June 2020 4:45:13 pm
+# Last Modified: Monday, 15th June 2020 8:09:21 pm
 # Modified By: Dillon Koch
 # -----
 # Collins Aerospace
@@ -142,7 +142,13 @@ class Alignment:
 
     def convert_odds_teams(self, odds_df):  # Top Level  Tested
         def change_name(row):
-            return self.odds_name_conversions[row['Team']]
+            # if row['Team'] in self.odds_name_conversions.keys():
+            if self.odds_name_conversions[row['Team']] != "":
+                name = self.odds_name_conversions[row['Team']]
+            else:
+                name = row['Team']
+            return name
+            # return self.odds_name_conversions[row['Team']]
         odds_df['Team'] = odds_df.apply(lambda row: change_name(row), axis=1)
         return odds_df
 
@@ -165,14 +171,20 @@ class Alignment:
         row1, row2 = pair
         col_names = ["Season", "Date", "datetime", "month", "day"]
         for name in col_names:
-            assert row1[name] == row2[name]
+            try:
+                assert row1[name] == row2[name]
+            except BaseException:
+                print(row1, row2)
 
         row1_vh = row1['VH']
         row2_vh = row2['VH']
         if not ((row1_vh == "N") and (row2_vh == "N")):
-            assert row1_vh != row2_vh
-            assert row1_vh in ["V", "H"]
-            assert row2_vh in ["V", "H"]
+            try:
+                assert row1_vh != row2_vh
+                assert row1_vh in ["V", "H"]
+                assert row2_vh in ["V", "H"]
+            except BaseException:
+                print(row1, row2)
 
     def game_pairs_from_odds(self, odds_df):  # Top Level Tested
         game_pairs = []
@@ -189,15 +201,108 @@ class Alignment:
             self._test_row_pair(pair)
         return game_pairs
 
-    def _get_line_ou_from_2rows(self, home_row, away_row, col):  # Specific Helper odds_pair_to_dict Tested
-        home_row.loc[col] = float(home_row[col]) if home_row[col] != 'pk' else 0.0
-        away_row.loc[col] = float(away_row[col]) if away_row[col] != 'pk' else 0.0
-        vals = [home_row[col], away_row[col]]
-        over_under = max(vals)
-        line_val = min(vals)
-        home_is_favorite = True if home_row[col] == line_val else False
-        home_line = "-" + str(line_val) if home_is_favorite else "+" + str(line_val)
-        away_line = "+" + str(line_val) if home_is_favorite else "-" + str(line_val)
+    # def _ncaab_vals(self, vals):  # Helping Helper
+    #     over_under = None
+    #     line = None
+    #     if vals.count("NL") == 2:
+    #         over_under = "NL"
+    #         line = "NL"
+    #     elif vals.count("NL") == 1:
+    #         numeric_val = [i for i in vals if i != "NL"][0]
+    #         if numeric_val > 80:
+    #             over_under = numeric_val
+    #             line = "NL"
+    #         else:
+    #             over_under = "NL"
+    #             line = numeric_val
+    #     else:
+    #         raise ValueError("Should not get here - no NL values found")
+
+    #     return line, over_under
+
+    # def _get_line_ou_from_2rows(self, home_row, away_row, col):  # Specific Helper odds_pair_to_dict Tested
+    #     home_row.loc[col] = float(home_row[col]) if home_row[col] != 'pk' else 0.0
+    #     away_row.loc[col] = float(away_row[col]) if away_row[col] != 'pk' else 0.0
+    #     vals = [home_row[col], away_row[col]]
+    #     if self.league == "NCAAB":
+    #         line, over_under = self._ncaab_vals(vals)
+    #     elif self.league == "NCAAF":
+    #         line, over_under = self._ncaaf_vals(vals)
+    #     else:
+    #         over_under = max(vals)
+    #         line_val = min(vals)
+    #     home_is_favorite = True if home_row[col] == line_val else False
+    #     home_line = "-" + str(line_val) if home_is_favorite else "+" + str(line_val)
+    #     away_line = "+" + str(line_val) if home_is_favorite else "-" + str(line_val)
+    #     return over_under, home_line, away_line
+
+    # def _get_line_ou_from_2rows(self, home_row, away_row, col):  # Specific Helper
+    #     vals = [home_row[col].lower(), away_row[col].lower()]
+    #     vals = [val if val != "pk" else 0.0 for val in vals]
+    #     no_line_count = vals.count("nl")
+    #     if no_line_count == 2:
+    #         line = "nl"
+    #         over_under = "nl"
+    #     elif no_line_count == 1:
+    #         cutoff_val = self.config["{}_cutoff".format(col)]
+    #         one_val = [item for item in vals if item != "nl"][0]
+    #         if self.league == "NCAAF":
+    #             line = "nl"
+    #             over_under = "nl"
+    #         elif one_val < cutoff_val:
+    #             line = one_val
+    #             over_under = "nl"
+    #         else:
+    #             line = "nl"
+    #             over_under = one_val
+    #     else:
+    #         vals = [float(item) for item in vals]
+    #         over_under = max(vals)
+    #         line = min(vals)
+
+    #     home_is_favorite = True if home_row[col] == str(line) else False
+    #     home_line = "-" + str(line) if home_is_favorite else "+" + str(line)
+    #     away_line = "+" + str(line) if home_is_favorite else "-" + str(line)
+    #     return over_under, home_line, away_line
+
+    def _get_line_ou_from_2rows(self, home_row, away_row, col):  # Specific Helper odds_pair_to_dict
+        home_val = "nl" if isinstance(home_row[col], float) else home_row[col].lower() if home_row[col].lower() != "pk" else '0.0'
+        away_val = "nl" if isinstance(away_row[col], float) else away_row[col].lower() if away_row[col].lower() != "pk" else '0.0'
+        no_line_count = [home_val, away_val].count("nl")
+        if no_line_count == 2:
+            return "nl", "nl", "nl"
+        elif no_line_count == 1:
+            cutoff_val = self.config["{}_cutoff".format(col)]
+            non_nl_val = [item for item in [home_val, away_val] if item != "nl"][0]
+            if self.league == "NCAAF":
+                home_line = "nl"
+                away_line = "nl"
+                over_under = "nl"
+            elif float(non_nl_val) < cutoff_val:
+                home_is_favorite = True if home_val == non_nl_val else False
+                if home_is_favorite:
+                    home_line = "-" + str(float(home_val))
+                    away_line = "+" + str(float(home_val))
+                    over_under = "nl"
+                else:
+                    home_line = "+" + str(float(away_val))
+                    away_line = "-" + str(float(away_val))
+                    over_under = "nl"
+            else:
+                home_line = "nl"
+                away_line = "nl"
+                over_under = non_nl_val
+
+        else:
+            home_is_favorite = True if float(home_val) < float(away_val) else False
+            if home_is_favorite:
+                home_line = "-" + str(float(home_val))
+                away_line = "+" + str(float(home_val))
+                over_under = away_val
+            else:
+                home_line = "+" + str(float(away_val))
+                away_line = "-" + str(float(away_val))
+                over_under = home_val
         return over_under, home_line, away_line
 
     def odds_pair_to_dict(self, pair):  # Top Level
@@ -227,8 +332,8 @@ class Alignment:
             "AQ3": int(away_row['3rd']),
             "AQ4": int(away_row['4th']),
             "Away_Score": int(away_row['Final']),
-            "Home_ML": int(home_row['ML']),
-            "Away_ML": int(away_row['ML']),
+            "Home_ML": home_row['ML'],
+            "Away_ML": away_row['ML'],
             "Open_OU": open_ou,
             "Close_OU": close_ou,
             "2H_OU": second_half_ou,
@@ -257,8 +362,8 @@ class Alignment:
                       'Season_x',
                       'Date',
                       'datetime',
-                      'month',
-                      'day',
+                      'month_x',
+                      'day_x',
                       'Home',
                       'Away',
                       'Home_Record',
@@ -269,17 +374,6 @@ class Alignment:
                       'Over_Under',
                       'Final_Status',
                       'Network',
-                      'HQ1_x',
-                      'HQ2_x',
-                      'HQ3_x',
-                      'HQ4_x',
-                      'HOT',
-                      'AQ1_x',
-                      'AQ2_x',
-                      'AQ3_x',
-                      'AQ4_x',
-                      'AOT',
-                      'Week',
                       'League',
                       'Home_ML',
                       'Away_ML',
@@ -292,6 +386,13 @@ class Alignment:
                       'Close_Away_Line',
                       '2H_Home_Line',
                       '2H_Away_Line']
+        if self.league == "NFL":
+            final_cols.append("Week")
+
+        if self.league != "NCAAB":
+            final_cols += ['HQ1_x', 'HQ2_x', 'HQ3_x', 'HQ4_x', "HOT", "AQ1_x", "AQ2_x", "AQ3_x", "AQ4_x", "AOT"]
+        else:
+            pass  # add halves
         return df.loc[:, final_cols]
 
     def run(self):  # Run
@@ -300,7 +401,7 @@ class Alignment:
         odds_df = self.convert_odds_teams(odds_df)
         odds_df = self.convert_odds_date(odds_df)
         odds_game_pairs = self.game_pairs_from_odds(odds_df)
-        odds_df = pd.DataFrame([self.odds_pair_to_dict(pair) for pair in odds_game_pairs])
+        odds_df = pd.DataFrame([self.odds_pair_to_dict(pair) for pair in tqdm(odds_game_pairs)])
         df = self.merge_espn_odds(espn_df, odds_df)
         return df
 
@@ -310,3 +411,7 @@ if __name__ == "__main__":
     nba = Alignment("NBA")
     ncaaf = Alignment("NCAAF")
     ncaab = Alignment("NCAAB")
+
+    # for item in [nfl, nba, ncaaf, ncaab]:
+    #     espn_df = item.load_espn_data()
+    #     espn_df.to_csv("{}_espn_df.csv".format(item.league))

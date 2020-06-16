@@ -163,7 +163,7 @@ def parse_league():  # Parse
 
 
 if __name__ == "__main__":
-    x = ESPN_Season_Scraper("NFL")
+    x = ESPN_Season_Scraper("NCAAB")
     # team_abbrev = 2294
     # name = "Iowa Hawkeyes"
     # year = 2019

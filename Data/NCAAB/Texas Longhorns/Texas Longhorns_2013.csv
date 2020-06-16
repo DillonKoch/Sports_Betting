@@ -1,0 +1,35 @@
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,H1H,H2H,HOT,A1H,A2H,AOT,League
+323170251,2013,"Mon, Nov 12",Texas Longhorns,Coppin State Eagles,"2-0, 2-0 Home","0-2, 0-2 Away",69,46,NULL,NULL,Final,LHN,33,36,NULL,19,27,NULL,NCAAB
+323250030,2013,"Tue, Nov 20",USC Trojans,Texas Longhorns,3-1,2-2,59,53,NULL,NULL,Final/OT,ESPN2,26,21,12,26,21,6,NCAAB
+323320251,2013,"Tue, Nov 27",Texas Longhorns,Sam Houston State Bearkats,"4-2, 3-0 Home","3-4, 0-3 Away",65,37,NULL,NULL,Final,LHN,32,33,NULL,18,19,NULL,NCAAB
+323390046,2013,"Tue, Dec 4",Georgetown Hoyas,Texas Longhorns,6-1,5-3,64,41,NULL,NULL,Final,ESPN,30,34,NULL,17,24,NULL,NCAAB
+323500251,2013,"Sat, Dec 15",Texas Longhorns,Texas State Bobcats,"6-4, 5-0 Home","4-6, 0-1 Away",75,63,NULL,NULL,Final,LHN,36,39,NULL,25,38,NULL,NCAAB
+323570127,2013,"Sat, Dec 22",Michigan State Spartans,Texas Longhorns,"11-2, 9-0 Home","7-5, 0-2 Away",67,56,NULL,NULL,Final,ESPN2,28,39,NULL,33,23,NULL,NCAAB
+330050239,2013,"Sat, Jan 5",Baylor Bears,Texas Longhorns,"9-4, 1-0 Conf","8-6, 0-1 Conf",86,79,NULL,NULL,Final/OT,ESPNU,40,28,18,31,37,11,NCAAB
+330120066,2013,"Sat, Jan 12",Iowa State Cyclones,Texas Longhorns,"11-4, 1-1 Conf","8-8, 0-3 Conf",82,62,NULL,NULL,Final,ESPNU,42,40,NULL,31,31,NULL,NCAAB
+330210201,2013,"Mon, Jan 21",Oklahoma Sooners,Texas Longhorns,"13-4, 4-1 Conf","8-10, 0-5 Conf",73,67,NULL,NULL,Final,ESPN,30,43,NULL,26,41,NULL,NCAAB
+330302306,2013,"Wed, Jan 30",Kansas State Wildcats,Texas Longhorns,"16-4, 5-2 Conf","9-11, 1-6 Conf",83,57,NULL,NULL,Final,ESPN2,38,45,NULL,19,38,NULL,NCAAB
+330350277,2013,"Mon, Feb 4",West Virginia Mountaineers,Texas Longhorns,"11-11, 4-5 Conf","10-12, 2-7 Conf",60,58,NULL,NULL,Final,ESPN,32,28,NULL,25,33,NULL,NCAAB
+330440251,2013,"Wed, Feb 13",Texas Longhorns,Iowa State Cyclones,"11-13, 3-8 Conf","16-8, 6-5 Conf",89,86,NULL,NULL,Final/2OT,ESPN3,33,38,18,37,34,15,NCAAB
+330502628,2013,"Tue, Feb 19",TCU Horned Frogs,Texas Longhorns,"10-16, 1-12 Conf","12-14, 4-9 Conf",59,68,NULL,NULL,Final,ESPN3,25,34,NULL,33,35,NULL,NCAAB
+330580251,2013,"Wed, Feb 27",Texas Longhorns,Oklahoma Sooners,"13-15, 5-10 Conf","18-9, 9-6 Conf",92,86,NULL,NULL,Final/OT,ESPN2,28,49,15,43,34,9,NCAAB
+330630251,2013,"Mon, Mar 4",Texas Longhorns,Baylor Bears,"14-16, 6-11 Conf","17-13, 8-9 Conf",79,70,NULL,NULL,Final,ESPN,36,43,NULL,34,36,NULL,NCAAB
+330720251,2013,"Wed, Mar 13",Texas Longhorns,TCU Horned Frogs,"16-16, 7-11 Conf","11-21, 2-16 Conf",70,57,NULL,NULL,Final,ESPN3,28,42,NULL,26,31,NULL,NCAAB
+323140251,2013,"Fri, Nov 9",Texas Longhorns,Fresno State Bulldogs,"1-0, 1-0 Home","0-1, 0-1 Away",55,53,NULL,NULL,Final,LHN,25,30,NULL,25,28,NULL,NCAAB
+323242124,2013,"Mon, Nov 19",Chaminade Silverswords,Texas Longhorns,,"2-1, 0-1 Away",86,73,NULL,NULL,Final,ESPNU,31,55,NULL,27,46,NULL,NCAAB
+323260251,2013,"Wed, Nov 21",Texas Longhorns,Mississippi State Bulldogs,3-2,1-4,69,55,NULL,NULL,Final,ESPNU,38,31,NULL,20,35,NULL,NCAAB
+323360251,2013,"Sat, Dec 1",Texas Longhorns,UT Arlington Mavericks,"5-2, 4-0 Home","3-2, 3-1 Away",70,54,NULL,NULL,Final,LHN,38,32,NULL,18,36,NULL,NCAAB
+323430251,2013,"Sat, Dec 8",Texas Longhorns,Ucla Bruins,5-4,6-3,63,65,NULL,NULL,Final,ESPN,30,33,NULL,32,33,NULL,NCAAB
+323540251,2013,"Wed, Dec 19",Texas Longhorns,North Carolina Tar Heels,"7-4, 6-0 Home","8-3, 2-2 Away",85,67,NULL,NULL,Final,ESPN2,46,39,NULL,33,34,NULL,NCAAB
+323640251,2013,"Sat, Dec 29",Texas Longhorns,Rice Owls,"8-5, 7-0 Home","3-9, 0-2 Away",57,41,NULL,NULL,Final,LHN,26,31,NULL,26,15,NULL,NCAAB
+330090251,2013,"Wed, Jan 9",Texas Longhorns,West Virginia Mountaineers,"8-7, 0-2 Conf","8-6, 1-1 Conf",53,57,NULL,NULL,Final/OT,ESPN2,24,26,3,21,29,7,NCAAB
+330190251,2013,"Sat, Jan 19",Texas Longhorns,Kansas Jayhawks,"8-9, 0-4 Conf","16-1, 4-0 Conf",59,64,NULL,NULL,Final,CBS,28,31,NULL,26,38,NULL,NCAAB
+330260251,2013,"Sat, Jan 26",Texas Longhorns,Texas Tech Red Raiders,"9-10, 1-5 Conf","9-9, 2-5 Conf",73,57,NULL,NULL,Final,LHN,35,38,NULL,24,33,NULL,NCAAB
+330330251,2013,"Sat, Feb 2",Texas Longhorns,TCU Horned Frogs,"10-11, 2-6 Conf","9-12, 0-8 Conf",60,43,NULL,NULL,Final,LHN,32,28,NULL,20,23,NULL,NCAAB
+330400251,2013,"Sat, Feb 9",Texas Longhorns,Oklahoma State Cowboys,"10-13, 2-8 Conf","17-5, 7-3 Conf",59,72,NULL,NULL,Final,ESPN3,22,37,NULL,29,43,NULL,NCAAB
+330472305,2013,"Sat, Feb 16",Kansas Jayhawks,Texas Longhorns,"21-4, 9-3 Conf","11-14, 3-9 Conf",73,47,NULL,NULL,Final,ESPN,28,45,NULL,15,32,NULL,NCAAB
+330540251,2013,"Sat, Feb 23",Texas Longhorns,Kansas State Wildcats,"12-15, 4-10 Conf","22-5, 11-3 Conf",69,81,NULL,NULL,Final,LHN,32,37,NULL,40,41,NULL,NCAAB
+330610197,2013,"Sat, Mar 2",Oklahoma State Cowboys,Texas Longhorns,"22-6, 12-4 Conf","13-16, 5-11 Conf",78,65,NULL,NULL,Final,ESPN,37,41,NULL,31,34,NULL,NCAAB
+330682641,2013,"Sat, Mar 9",Texas Tech Red Raiders,Texas Longhorns,"10-19, 3-15 Conf","15-16, 7-11 Conf",69,71,NULL,NULL,Final/OT,NULL,37,28,4,30,35,6,NCAAB
+330790248,2013,"Wed, Mar 20",Houston Cougars,Texas Longhorns,"20-12, 13-4 Home","16-18, 2-9 Away",73,72,NULL,NULL,Final,NULL,37,36,NULL,31,41,NULL,NCAAB
+330732306,2013,"Thu, Mar 14",Kansas State Wildcats,Texas Longhorns,"26-6, 14-4 Conf","16-17, 7-11 Conf",66,49,NULL,NULL,Final,ESPN3,34,32,NULL,28,21,NULL,NCAAB

@@ -1,0 +1,30 @@
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,H1H,H2H,HOT,A1H,A2H,AOT,League
+233290259,2004,"Tue, Nov 25",Virginia Tech Hokies,Western Carolina Catamounts,"2-0, 2-0 Home","0-2, 0-2 Away",61,59,NULL,NULL,Final,NULL,22,39,NULL,27,32,NULL,NCAAB
+233350259,2004,"Mon, Dec 1",Virginia Tech Hokies,Morgan State Bears,"3-1, 3-0 Home","1-2, 0-2 Away",76,66,NULL,NULL,Final,NULL,36,40,NULL,37,29,NULL,NCAAB
+233400194,2004,"Sat, Dec 6",Ohio State Buckeyes,Virginia Tech Hokies,"3-3, 3-2 Home","3-3, 0-2 Away",62,57,NULL,NULL,Final,NULL,40,22,NULL,24,33,NULL,NCAAB
+233470259,2004,"Sat, Dec 13",Virginia Tech Hokies,Radford Highlanders,"5-3, 5-1 Home","4-4, 2-1 Away",73,60,NULL,NULL,Final,NULL,31,42,NULL,22,38,NULL,NCAAB
+233570259,2004,"Tue, Dec 23",Virginia Tech Hokies,William & Mary Tribe,"7-3, 6-1 Home","3-5, 1-4 Away",80,54,NULL,NULL,Final,NULL,46,34,NULL,21,33,NULL,NCAAB
+240060221,2004,"Tue, Jan 6",Pittsburgh Panthers,Virginia Tech Hokies,"15-0, 1-0 Conf","7-5, 0-1 Conf",78,59,NULL,NULL,Final,NULL,39,39,NULL,33,26,NULL,NCAAB
+240170259,2004,"Sat, Jan 17",Virginia Tech Hokies,Miami Hurricanes,"8-6, 1-2 Conf","12-5, 2-1 Conf",59,65,NULL,NULL,Final,NULL,26,33,NULL,34,31,NULL,NCAAB
+240242550,2004,"Sat, Jan 24",Seton Hall Pirates,Virginia Tech Hokies,"13-4, 3-2 Conf","8-8, 1-4 Conf",83,76,NULL,NULL,Final,NULL,43,40,NULL,36,40,NULL,NCAAB
+240310183,2004,"Sat, Jan 31",Syracuse Orange,Virginia Tech Hokies,"14-3, 4-2 Conf","8-10, 1-6 Conf",76,64,NULL,NULL,Final,NULL,44,32,NULL,26,38,NULL,NCAAB
+240420259,2004,"Wed, Feb 11",Virginia Tech Hokies,Georgetown Hoyas,"10-10, 3-6 Conf","13-7, 4-6 Conf",80,65,NULL,NULL,Final,NULL,36,44,NULL,27,36,NULL,NCAAB
+240490222,2004,"Wed, Feb 18",Villanova Wildcats,Virginia Tech Hokies,"14-10, 6-5 Conf","10-12, 3-8 Conf",80,68,NULL,NULL,Final,NULL,46,34,NULL,36,32,NULL,NCAAB
+240560103,2004,"Wed, Feb 25",Boston College Eagles,Virginia Tech Hokies,"19-8, 8-6 Conf","11-13, 4-9 Conf",56,48,NULL,NULL,Final,NULL,20,36,NULL,25,23,NULL,NCAAB
+240630259,2004,"Wed, Mar 3",Virginia Tech Hokies,Rutgers Scarlet Knights,"13-13, 6-9 Conf","16-10, 7-8 Conf",71,70,NULL,NULL,Final,NULL,28,43,NULL,36,34,NULL,NCAAB
+240700259,2004,"Wed, Mar 10",Virginia Tech Hokies,Rutgers Scarlet Knights,"15-13, 7-9 Conf","16-12, 7-9 Conf",61,58,NULL,NULL,Final,NULL,27,34,NULL,35,23,NULL,NCAAB
+233260259,2004,"Sat, Nov 22",Virginia Tech Hokies,New Hampshire Wildcats,"1-0, 1-0 Home","1-2, 0-2 Away",79,49,NULL,NULL,Final,NULL,44,35,NULL,32,17,NULL,NCAAB
+233320258,2004,"Fri, Nov 28",Virginia Cavaliers,Virginia Tech Hokies,"2-0, 2-0 Home","2-1, 0-1 Away",80,65,NULL,NULL,Final,NULL,35,45,NULL,30,35,NULL,NCAAB
+233380259,2004,"Thu, Dec 4",Virginia Tech Hokies,Old Dominion Monarchs,"3-2, 3-1 Home","1-2, 1-1 Away",92,94,NULL,NULL,Final/OT,NULL,37,48,7,42,43,9,NCAAB
+233440259,2004,"Wed, Dec 10",Virginia Tech Hokies,VMI Keydets,"4-3, 4-1 Home","1-5, 0-3 Away",80,56,NULL,NULL,Final,NULL,44,36,NULL,23,33,NULL,NCAAB
+233540119,2004,"Sat, Dec 20",Towson Tigers,Virginia Tech Hokies,"2-6, 1-3 Home","6-3, 1-2 Away",67,74,NULL,NULL,Final,NULL,24,43,NULL,33,41,NULL,NCAAB
+233610151,2004,"Sat, Dec 27",East Carolina Pirates,Virginia Tech Hokies,"7-1, 7-0 Home","7-4, 1-3 Away",74,67,NULL,NULL,Final,NULL,34,40,NULL,28,39,NULL,NCAAB
+240140277,2004,"Wed, Jan 14",West Virginia Mountaineers,Virginia Tech Hokies,"8-5, 1-2 Conf","8-5, 1-1 Conf",67,69,NULL,NULL,Final,NULL,32,35,NULL,31,38,NULL,NCAAB
+240200259,2004,"Tue, Jan 20",Virginia Tech Hokies,Notre Dame Fighting Irish,"8-7, 1-3 Conf","9-5, 3-2 Conf",63,74,NULL,NULL,Final,NULL,22,41,NULL,30,44,NULL,NCAAB
+240280259,2004,"Wed, Jan 28",Virginia Tech Hokies,UConn Huskies,"8-9, 1-5 Conf","16-3, 4-1 Conf",60,96,NULL,NULL,Final,NULL,27,33,NULL,44,52,NULL,NCAAB
+240350259,2004,"Wed, Feb 4",Virginia Tech Hokies,Providence Friars,"9-10, 2-6 Conf","14-5, 5-3 Conf",69,57,NULL,NULL,Final,NULL,27,42,NULL,26,31,NULL,NCAAB
+240460164,2004,"Sun, Feb 15",Rutgers Scarlet Knights,Virginia Tech Hokies,"14-8, 6-6 Conf","10-11, 3-7 Conf",85,52,NULL,NULL,Final,NULL,45,40,NULL,19,33,NULL,NCAAB
+240520259,2004,"Sat, Feb 21",Virginia Tech Hokies,St. John's Red Storm,"11-12, 4-8 Conf","6-17, 1-11 Conf",54,53,NULL,NULL,Final,NULL,21,33,NULL,29,24,NULL,NCAAB
+240590259,2004,"Sat, Feb 28",Virginia Tech Hokies,West Virginia Mountaineers,"12-13, 5-9 Conf","14-11, 6-8 Conf",53,49,NULL,NULL,Final,NULL,20,33,NULL,24,25,NULL,NCAAB
+240660046,2004,"Sat, Mar 6",Georgetown Hoyas,Virginia Tech Hokies,"13-14, 4-12 Conf","14-13, 7-9 Conf",55,60,NULL,NULL,Final,NULL,32,23,NULL,29,31,NULL,NCAAB
+240710221,2004,"Thu, Mar 11",Pittsburgh Panthers,Virginia Tech Hokies,"28-3, 13-3 Conf","15-14, 7-9 Conf",74,61,NULL,NULL,Final,NULL,34,40,NULL,24,37,NULL,NCAAB

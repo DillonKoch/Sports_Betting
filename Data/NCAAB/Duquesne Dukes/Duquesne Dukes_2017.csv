@@ -1,0 +1,33 @@
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,H1H,H2H,HOT,A1H,A2H,AOT,League
+400915165,2017,"Sun, Nov 13",Penn State Nittany Lions,Duquesne Dukes,"1-1, 1-1 Home","1-1, 0-1 Away",82,74,NULL,NULL,Final,BTN,33,49,NULL,29,45,NULL,NCAAB
+400917397,2017,"Fri, Nov 18",Duquesne Dukes,Canisius Golden Griffins,"2-2, 2-1 Home","1-2, 1-2 Away",77,78,NULL,NULL,Final,NULL,41,36,NULL,43,35,NULL,NCAAB
+400917695,2017,"Wed, Nov 23",Duquesne Dukes,UT Martin Skyhawks,"2-4, 2-2 Home","5-1, 2-1 Away",63,66,NULL,NULL,Final,NULL,38,25,NULL,28,38,NULL,NCAAB
+400918321,2017,"Wed, Nov 30",Duquesne Dukes,UMBC Retrievers,"3-5, 3-3 Home","5-1, 2-1 Away",72,81,NULL,NULL,Final,NULL,43,29,NULL,52,29,NULL,NCAAB
+400918322,2017,"Tue, Dec 6",Robert Morris Colonials,Duquesne Dukes,"3-7, 1-2 Home","4-6, 0-3 Away",64,60,NULL,NULL,Final,NULL,37,27,NULL,33,27,NULL,NCAAB
+400918324,2017,"Mon, Dec 19",Duquesne Dukes,Jackson State Tigers,"6-6, 5-3 Home","3-9, 1-6 Away",74,62,NULL,NULL,Final,NULL,38,36,NULL,26,36,NULL,NCAAB
+400918326,2017,"Fri, Dec 30",Fordham Rams,Duquesne Dukes,"6-8, 0-1 Conf","8-6, 1-0 Conf",72,75,NULL,NULL,Final,NULL,28,44,NULL,40,35,NULL,NCAAB
+400918328,2017,"Sat, Jan 7",La Salle Explorers,Duquesne Dukes,"8-5, 2-1 Conf","8-8, 1-2 Conf",88,81,NULL,NULL,Final,NULL,36,52,NULL,36,45,NULL,NCAAB
+400918306,2017,"Sat, Jan 14",Duquesne Dukes,Dayton Flyers,"9-9, 2-3 Conf","13-4, 4-1 Conf",57,76,NULL,NULL,Final,CBSSN,26,31,NULL,39,37,NULL,NCAAB
+400918331,2017,"Sat, Jan 21",Duquesne Dukes,Rhode Island Rams,"9-11, 2-5 Conf","12-6, 4-2 Conf",69,90,NULL,NULL,Final,NBCSN,31,38,NULL,41,49,NULL,NCAAB
+400918332,2017,"Sat, Jan 28",Richmond Spiders,Duquesne Dukes,"13-8, 7-2 Conf","9-13, 2-7 Conf",101,90,NULL,NULL,Final,NULL,46,55,NULL,44,46,NULL,NCAAB
+400918311,2017,"Sat, Feb 4",Dayton Flyers,Duquesne Dukes,"17-5, 8-2 Conf","9-15, 2-9 Conf",90,53,NULL,NULL,Final,NBCSN,44,46,NULL,25,28,NULL,NCAAB
+400918335,2017,"Wed, Feb 15",Duquesne Dukes,Massachusetts Minutemen,"10-16, 3-10 Conf","13-13, 3-10 Conf",96,66,NULL,NULL,Final,NULL,51,45,NULL,34,32,NULL,NCAAB
+400918337,2017,"Wed, Feb 22",Duquesne Dukes,Fordham Rams,"10-18, 3-12 Conf","13-15, 7-8 Conf",52,70,NULL,NULL,Final,NULL,26,26,NULL,32,38,NULL,NCAAB
+400918339,2017,"Wed, Mar 1",George Mason Patriots,Duquesne Dukes,"19-11, 9-8 Conf","10-20, 3-14 Conf",63,62,NULL,NULL,Final,NULL,30,33,NULL,27,35,NULL,NCAAB
+400918292,2017,"Fri, Nov 11",Duquesne Dukes,Loyola (MD) Greyhounds,"1-0, 1-0 Home","0-1, 0-1 Away",65,60,NULL,NULL,Final,NULL,36,29,NULL,32,28,NULL,NCAAB
+400918319,2017,"Wed, Nov 16",Duquesne Dukes,St. Francis (PA) Red Flash,"2-1, 2-0 Home","0-2, 0-2 Away",89,75,NULL,NULL,Final,NULL,38,51,NULL,36,39,NULL,NCAAB
+400910682,2017,"Sun, Nov 20",Kentucky Wildcats,Duquesne Dukes,"4-0, 3-0 Home","2-3, 0-2 Away",93,59,NULL,NULL,Final,ESPNU,50,43,NULL,23,36,NULL,NCAAB
+400918320,2017,"Sun, Nov 27",Duquesne Dukes,Cleveland State Vikings,"3-4, 3-2 Home","1-4, 0-3 Away",78,71,NULL,NULL,Final,NULL,33,45,NULL,30,41,NULL,NCAAB
+400915274,2017,"Fri, Dec 2",Pittsburgh Panthers,Duquesne Dukes,6-2,4-5,55,64,NULL,NULL,Final,ACCNX,30,25,NULL,29,35,NULL,NCAAB
+400918323,2017,"Sat, Dec 10",Duquesne Dukes,Central Connecticut Blue Devils,"5-6, 4-3 Home","2-6, 1-4 Away",70,67,NULL,NULL,Final,NULL,27,43,NULL,27,40,NULL,NCAAB
+400918325,2017,"Thu, Dec 22",Duquesne Dukes,Colgate Raiders,"7-6, 6-3 Home","2-11, 1-7 Away",70,57,NULL,NULL,Final,NULL,35,35,NULL,24,33,NULL,NCAAB
+400918327,2017,"Wed, Jan 4",Duquesne Dukes,VCU Rams,"8-7, 1-1 Conf","12-3, 2-0 Conf",87,94,NULL,NULL,Final,NULL,33,54,NULL,37,57,NULL,NCAAB
+400918329,2017,"Wed, Jan 11",Duquesne Dukes,Saint Louis Billikens,"9-8, 2-2 Conf","4-12, 0-4 Conf",73,66,NULL,NULL,Final,NULL,34,39,NULL,36,30,NULL,NCAAB
+400918330,2017,"Wed, Jan 18",George Washington Colonials,Duquesne Dukes,"10-9, 2-4 Conf","9-10, 2-4 Conf",65,63,NULL,NULL,Final,NULL,38,27,NULL,29,34,NULL,NCAAB
+400918271,2017,"Tue, Jan 24",Davidson Wildcats,Duquesne Dukes,"10-8, 3-4 Conf","9-12, 2-6 Conf",74,60,NULL,NULL,Final,NULL,39,35,NULL,16,44,NULL,NCAAB
+400918333,2017,"Wed, Feb 1",Duquesne Dukes,St. Bonaventure Bonnies,"9-14, 2-8 Conf","14-7, 6-3 Conf",64,71,NULL,NULL,Final,NULL,34,30,NULL,33,38,NULL,NCAAB
+400918334,2017,"Sat, Feb 11",Saint Louis Billikens,Duquesne Dukes,"9-16, 4-8 Conf","9-16, 2-10 Conf",87,81,NULL,NULL,Final,NULL,43,44,NULL,37,44,NULL,NCAAB
+400918336,2017,"Sun, Feb 19",Duquesne Dukes,George Washington Colonials,"10-17, 3-11 Conf","14-13, 6-8 Conf",70,77,NULL,NULL,Final,NBCSN,33,37,NULL,38,39,NULL,NCAAB
+400918338,2017,"Sat, Feb 25",St. Bonaventure Bonnies,Duquesne Dukes,"18-10, 10-6 Conf","10-19, 3-13 Conf",80,77,NULL,NULL,Final,NULL,38,42,NULL,41,36,NULL,NCAAB
+400918340,2017,"Sat, Mar 4",Duquesne Dukes,Saint Joseph's Hawks,"10-21, 3-15 Conf","11-19, 4-14 Conf",60,63,NULL,NULL,Final,NULL,35,25,NULL,28,35,NULL,NCAAB
+400945585,2017,"Wed, Mar 8",Saint Louis Billikens,Duquesne Dukes,"12-20, 6-12 Conf","10-22, 3-15 Conf",72,71,NULL,NULL,Final,NULL,32,40,NULL,42,29,NULL,NCAAB
