@@ -1,35 +1,35 @@
 ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,H1H,H2H,HOT,A1H,A2H,AOT,League
-401082782,2018,"Sat, Nov 10",Syracuse Orange,Morehead State Eagles,"2-0, 2-0 Home","1-2, 0-2 Away",84,70,SYR -22.5,,Final,ACCNX,36,48,,30,40,,NCAAB
-401096917,2018,"Fri, Nov 16",Oregon Ducks,Syracuse Orange,3-1,2-2,80,65,SYR -2.0,137.0,Final,ESPN2,35,45,,22,43,,NCAAB
-401082553,2018,"Wed, Nov 28",Ohio State Buckeyes,Syracuse Orange,"6-1, 4-1 Home","4-2, 1-0 Away",62,72,OSU -4.5,138.0,Final,ESPN2,31,31,,29,43,,NCAAB
-401082786,2018,"Tue, Dec 4",Syracuse Orange,Northeastern Huskies,"6-2, 5-0 Home","4-5, 2-2 Away",72,49,SYR -12.5,138.0,Final,ACCNX,35,37,,23,26,,NCAAB
-401082788,2018,"Sat, Dec 15",Syracuse Orange,Old Dominion Monarchs,"7-3, 6-1 Home","8-3, 1-1 Away",62,68,SYR -9.0,124.0,Final,ACCNX,33,29,,23,45,,NCAAB
-401082790,2018,"Sat, Dec 22",Syracuse Orange,Arkansas St Red Wolves,"8-4, 7-2 Home","5-7, 0-5 Away",82,52,SYR -20.5,,Final,ACCNX,38,44,,36,16,,NCAAB
-401082792,2018,"Sat, Jan 5",Notre Dame Fighting Irish,Syracuse Orange,"10-5, 0-2 Conf","10-4, 1-0 Conf",62,72,SYR -1.5,132.0,Final,ACCNX,38,24,,37,35,,NCAAB
-401082793,2018,"Sat, Jan 12",Syracuse Orange,Georgia Tech Yellow Jackets,"11-5, 2-1 Conf","10-6, 2-1 Conf",59,73,SYR -9.0,129.0,Final,ESPN2,26,33,,27,46,,NCAAB
-401082794,2018,"Sat, Jan 19",Syracuse Orange,Pittsburgh Panthers,"13-5, 4-1 Conf","12-6, 2-3 Conf",74,63,SYR -8.0,136.0,Final,ACCNX,28,46,,25,38,,NCAAB
-401082753,2018,"Sat, Jan 26",Virginia Tech Hokies,Syracuse Orange,"16-3, 5-2 Conf","14-6, 5-2 Conf",78,56,VT -7.0,136.0,Final,ESPN,43,35,,24,32,,NCAAB
-401082796,2018,"Sat, Feb 2",Pittsburgh Panthers,Syracuse Orange,"12-10, 2-7 Conf","16-6, 7-2 Conf",56,65,SYR -3.5,136.0,Final,ESPN2,22,34,,35,30,,NCAAB
-401082633,2018,"Sat, Feb 9",Syracuse Orange,Boston College Eagles,"17-7, 8-3 Conf","11-11, 2-8 Conf",67,56,SYR -10.0,138.0,Final,ACCNX,31,36,,24,32,,NCAAB
-401082798,2018,"Wed, Feb 20",Syracuse Orange,Louisville Cardinals,"18-8, 9-4 Conf","18-9, 9-5 Conf",69,49,SYR -2.0,132.0,Final,ESPN,35,34,,23,26,,NCAAB
-401082799,2018,"Tue, Feb 26",North Carolina Tar Heels,Syracuse Orange,"23-5, 13-2 Conf","18-10, 9-6 Conf",93,85,UNC -11.0,149.0,Final,ACCNX,43,50,,46,39,,NCAAB
-401082779,2018,"Mon, Mar 4",Syracuse Orange,Virginia Cavaliers,"19-11, 10-7 Conf","27-2, 15-2 Conf",53,79,UVA -6.0,121.0,Final,ESPN,34,19,,32,47,,NCAAB
-401120699,2018,"Wed, Mar 13",Syracuse Orange,Pittsburgh Panthers,"20-12, 10-8 Conf","14-19, 3-15 Conf",73,59,SYR -5.5,127.0,Final,ESPN2,30,43,,36,23,,NCAAB
-401082781,2018,"Tue, Nov 6",Syracuse Orange,Eastern Washington Eagles,"1-0, 1-0 Home","0-1, 0-1 Away",66,34,SYR -17.5,,Final,ACCNX,28,38,,10,24,,NCAAB
-401082783,2018,"Thu, Nov 15",UConn Huskies,Syracuse Orange,3-0,2-1,83,76,SYR -7.5,137.0,Final,ESPN2,38,45,,32,44,,NCAAB
-401082784,2018,"Wed, Nov 21",Syracuse Orange,Colgate Raiders,"3-2, 3-0 Home","4-2, 1-2 Away",77,56,,,Final,ACCNX,35,42,,32,24,,NCAAB
-401082785,2018,"Sat, Dec 1",Syracuse Orange,Cornell Big Red,"5-2, 4-0 Home","4-4, 3-2 Away",63,55,SYR -22.0,138.0,Final,ESPNU,33,30,,24,31,,NCAAB
-401082787,2018,"Sat, Dec 8",Syracuse Orange,Georgetown Hoyas,"7-2, 6-0 Home","7-2, 1-1 Away",72,71,SYR -10.0,151.0,Final,ESPN,22,50,,35,36,,NCAAB
-401082789,2018,"Tue, Dec 18",Syracuse Orange,Buffalo Bulls,"7-4, 6-2 Home","11-0, 4-0 Away",59,71,SYR -3.5,147.0,Final,ESPN2,36,23,,32,39,,NCAAB
-401082791,2018,"Sat, Dec 29",Syracuse Orange,St. Bonaventure Bonnies,"9-4, 8-2 Home","4-9, 0-4 Away",81,48,SYR -11.5,135.0,Final,ESPNU,46,35,,25,23,,NCAAB
-401082653,2018,"Wed, Jan 9",Syracuse Orange,Clemson Tigers,"11-4, 2-0 Conf","10-5, 0-2 Conf",61,53,SYR -3.0,131.0,Final,ACCNX,30,31,,22,31,,NCAAB
-401082680,2018,"Mon, Jan 14",Duke Blue Devils,Syracuse Orange,"14-2, 3-1 Conf","12-5, 3-1 Conf",91,95,DUKE -17.0,146.0,Final/OT,ESPN,49,36,6.0,48,37,10.0,NCAAB
-401082795,2018,"Thu, Jan 24",Syracuse Orange,Miami Hurricanes,"14-5, 5-1 Conf","9-9, 1-5 Conf",73,53,SYR -8.5,139.0,Final,ACCNX,32,41,,29,24,,NCAAB
-401082630,2018,"Wed, Jan 30",Boston College Eagles,Syracuse Orange,"11-8, 2-5 Conf","15-6, 6-2 Conf",71,77,SYR -3.0,139.0,Final,ACCNX,35,36,,42,35,,NCAAB
-401082709,2018,"Tue, Feb 5",Syracuse Orange,Florida State Seminoles,"16-7, 7-3 Conf","17-5, 5-4 Conf",62,80,SYR -3.0,136.0,Final,ACCNX,31,31,,39,41,,NCAAB
-401082797,2018,"Wed, Feb 13",NC State Wolfpack,Syracuse Orange,"18-7, 6-6 Conf","17-8, 8-4 Conf",73,58,NCST -3.0,144.0,Final,ACCNX,30,43,,27,31,,NCAAB
-401082690,2018,"Sat, Feb 23",Syracuse Orange,Duke Blue Devils,"18-9, 9-5 Conf","24-3, 12-2 Conf",65,75,DUKE -6.0,145.0,Final,ESPN,34,31,,29,46,,NCAAB
-401082739,2018,"Sat, Mar 2",Wake Forest Demon Deacons,Syracuse Orange,"11-17, 4-12 Conf","19-10, 10-6 Conf",54,79,SYR -7.5,137.0,Final,ACCNX,30,24,,38,41,,NCAAB
-401082668,2018,"Sat, Mar 9",Clemson Tigers,Syracuse Orange,"19-12, 9-9 Conf","19-12, 10-8 Conf",67,55,CLEM -5.0,127.0,Final,,24,43,,31,24,,NCAAB
-401123395,2018,"Thu, Mar 21",Syracuse Orange,Baylor Bears,20-14,20-13,69,78,SYR -2.5,129.0,Final,truTV,37,32,,38,40,,NCAAB
-401120703,2018,"Thu, Mar 14",Duke Blue Devils,Syracuse Orange,"27-5, 14-4 Conf","20-13, 10-8 Conf",84,72,DUKE -13.0,146.0,Final,ESPN,34,50,,28,44,,NCAAB
+401082782,2018,"Sat, Nov 10",Syracuse Orange,Morehead State Eagles,"2-0, 2-0 Home","1-2, 0-2 Away",84,70,SYR -22.5,NULL,Final,ACCNX,36,48,NULL,30,40,NULL,NCAAB
+401096917,2018,"Fri, Nov 16",Oregon Ducks,Syracuse Orange,3-1,2-2,80,65,SYR -2.0,137,Final,ESPN2,35,45,NULL,22,43,NULL,NCAAB
+401082553,2018,"Wed, Nov 28",Ohio State Buckeyes,Syracuse Orange,"6-1, 4-1 Home","4-2, 1-0 Away",62,72,OSU -4.5,138,Final,ESPN2,31,31,NULL,29,43,NULL,NCAAB
+401082786,2018,"Tue, Dec 4",Syracuse Orange,Northeastern Huskies,"6-2, 5-0 Home","4-5, 2-2 Away",72,49,SYR -12.5,138,Final,ACCNX,35,37,NULL,23,26,NULL,NCAAB
+401082788,2018,"Sat, Dec 15",Syracuse Orange,Old Dominion Monarchs,"7-3, 6-1 Home","8-3, 1-1 Away",62,68,SYR -9.0,124,Final,ACCNX,33,29,NULL,23,45,NULL,NCAAB
+401082790,2018,"Sat, Dec 22",Syracuse Orange,Arkansas St Red Wolves,"8-4, 7-2 Home","5-7, 0-5 Away",82,52,SYR -20.5,NULL,Final,ACCNX,38,44,NULL,36,16,NULL,NCAAB
+401082792,2018,"Sat, Jan 5",Notre Dame Fighting Irish,Syracuse Orange,"10-5, 0-2 Conf","10-4, 1-0 Conf",62,72,SYR -1.5,132,Final,ACCNX,38,24,NULL,37,35,NULL,NCAAB
+401082793,2018,"Sat, Jan 12",Syracuse Orange,Georgia Tech Yellow Jackets,"11-5, 2-1 Conf","10-6, 2-1 Conf",59,73,SYR -9.0,129,Final,ESPN2,26,33,NULL,27,46,NULL,NCAAB
+401082794,2018,"Sat, Jan 19",Syracuse Orange,Pittsburgh Panthers,"13-5, 4-1 Conf","12-6, 2-3 Conf",74,63,SYR -8.0,136,Final,ACCNX,28,46,NULL,25,38,NULL,NCAAB
+401082753,2018,"Sat, Jan 26",Virginia Tech Hokies,Syracuse Orange,"16-3, 5-2 Conf","14-6, 5-2 Conf",78,56,VT -7.0,136,Final,ESPN,43,35,NULL,24,32,NULL,NCAAB
+401082796,2018,"Sat, Feb 2",Pittsburgh Panthers,Syracuse Orange,"12-10, 2-7 Conf","16-6, 7-2 Conf",56,65,SYR -3.5,136,Final,ESPN2,22,34,NULL,35,30,NULL,NCAAB
+401082633,2018,"Sat, Feb 9",Syracuse Orange,Boston College Eagles,"17-7, 8-3 Conf","11-11, 2-8 Conf",67,56,SYR -10.0,138,Final,ACCNX,31,36,NULL,24,32,NULL,NCAAB
+401082798,2018,"Wed, Feb 20",Syracuse Orange,Louisville Cardinals,"18-8, 9-4 Conf","18-9, 9-5 Conf",69,49,SYR -2.0,132,Final,ESPN,35,34,NULL,23,26,NULL,NCAAB
+401082799,2018,"Tue, Feb 26",North Carolina Tar Heels,Syracuse Orange,"23-5, 13-2 Conf","18-10, 9-6 Conf",93,85,UNC -11.0,149,Final,ACCNX,43,50,NULL,46,39,NULL,NCAAB
+401082779,2018,"Mon, Mar 4",Syracuse Orange,Virginia Cavaliers,"19-11, 10-7 Conf","27-2, 15-2 Conf",53,79,UVA -6.0,121,Final,ESPN,34,19,NULL,32,47,NULL,NCAAB
+401120699,2018,"Wed, Mar 13",Syracuse Orange,Pittsburgh Panthers,"20-12, 10-8 Conf","14-19, 3-15 Conf",73,59,SYR -5.5,127,Final,ESPN2,30,43,NULL,36,23,NULL,NCAAB
+401082781,2018,"Tue, Nov 6",Syracuse Orange,Eastern Washington Eagles,"1-0, 1-0 Home","0-1, 0-1 Away",66,34,SYR -17.5,NULL,Final,ACCNX,28,38,NULL,10,24,NULL,NCAAB
+401082783,2018,"Thu, Nov 15",UConn Huskies,Syracuse Orange,3-0,2-1,83,76,SYR -7.5,137,Final,ESPN2,38,45,NULL,32,44,NULL,NCAAB
+401082784,2018,"Wed, Nov 21",Syracuse Orange,Colgate Raiders,"3-2, 3-0 Home","4-2, 1-2 Away",77,56,NULL,NULL,Final,ACCNX,35,42,NULL,32,24,NULL,NCAAB
+401082785,2018,"Sat, Dec 1",Syracuse Orange,Cornell Big Red,"5-2, 4-0 Home","4-4, 3-2 Away",63,55,SYR -22.0,138,Final,ESPNU,33,30,NULL,24,31,NULL,NCAAB
+401082787,2018,"Sat, Dec 8",Syracuse Orange,Georgetown Hoyas,"7-2, 6-0 Home","7-2, 1-1 Away",72,71,SYR -10.0,151,Final,ESPN,22,50,NULL,35,36,NULL,NCAAB
+401082789,2018,"Tue, Dec 18",Syracuse Orange,Buffalo Bulls,"7-4, 6-2 Home","11-0, 4-0 Away",59,71,SYR -3.5,147,Final,ESPN2,36,23,NULL,32,39,NULL,NCAAB
+401082791,2018,"Sat, Dec 29",Syracuse Orange,St. Bonaventure Bonnies,"9-4, 8-2 Home","4-9, 0-4 Away",81,48,SYR -11.5,135,Final,ESPNU,46,35,NULL,25,23,NULL,NCAAB
+401082653,2018,"Wed, Jan 9",Syracuse Orange,Clemson Tigers,"11-4, 2-0 Conf","10-5, 0-2 Conf",61,53,SYR -3.0,131,Final,ACCNX,30,31,NULL,22,31,NULL,NCAAB
+401082680,2018,"Mon, Jan 14",Duke Blue Devils,Syracuse Orange,"14-2, 3-1 Conf","12-5, 3-1 Conf",91,95,DUKE -17.0,146,Final/OT,ESPN,49,36,6,48,37,10,NCAAB
+401082795,2018,"Thu, Jan 24",Syracuse Orange,Miami Hurricanes,"14-5, 5-1 Conf","9-9, 1-5 Conf",73,53,SYR -8.5,139,Final,ACCNX,32,41,NULL,29,24,NULL,NCAAB
+401082630,2018,"Wed, Jan 30",Boston College Eagles,Syracuse Orange,"11-8, 2-5 Conf","15-6, 6-2 Conf",71,77,SYR -3.0,139,Final,ACCNX,35,36,NULL,42,35,NULL,NCAAB
+401082709,2018,"Tue, Feb 5",Syracuse Orange,Florida State Seminoles,"16-7, 7-3 Conf","17-5, 5-4 Conf",62,80,SYR -3.0,136,Final,ACCNX,31,31,NULL,39,41,NULL,NCAAB
+401082797,2018,"Wed, Feb 13",NC State Wolfpack,Syracuse Orange,"18-7, 6-6 Conf","17-8, 8-4 Conf",73,58,NCST -3.0,144,Final,ACCNX,30,43,NULL,27,31,NULL,NCAAB
+401082690,2018,"Sat, Feb 23",Syracuse Orange,Duke Blue Devils,"18-9, 9-5 Conf","24-3, 12-2 Conf",65,75,DUKE -6.0,145,Final,ESPN,34,31,NULL,29,46,NULL,NCAAB
+401082739,2018,"Sat, Mar 2",Wake Forest Demon Deacons,Syracuse Orange,"11-17, 4-12 Conf","19-10, 10-6 Conf",54,79,SYR -7.5,137,Final,ACCNX,30,24,NULL,38,41,NULL,NCAAB
+401082668,2018,"Sat, Mar 9",Clemson Tigers,Syracuse Orange,"19-12, 9-9 Conf","19-12, 10-8 Conf",67,55,CLEM -5.0,127,Final,NULL,24,43,NULL,31,24,NULL,NCAAB
+401123395,2018,"Thu, Mar 21",Syracuse Orange,Baylor Bears,20-14,20-13,69,78,SYR -2.5,129,Final,truTV,37,32,NULL,38,40,NULL,NCAAB
+401120703,2018,"Thu, Mar 14",Duke Blue Devils,Syracuse Orange,"27-5, 14-4 Conf","20-13, 10-8 Conf",84,72,DUKE -13.0,146,Final,ESPN,34,50,NULL,28,44,NULL,NCAAB
