@@ -90,7 +90,8 @@ class ESPN_Season_Scraper:
         if self.league in ["NCAAB", "NCAAF"]:
             game.game_date = week
 
-        row = [game.ESPN_ID, year, game.game_date, game.home_name, game.away_name,
+        season = year if self.league in ["NFL", "NCAAF"] else str(int(year) - 1)
+        row = [game.ESPN_ID, season, game.game_date, game.home_name, game.away_name,
                game.home_record, game.away_record,
                game.home_score, game.away_score, game.line, game.over_under,
                game.final_status, game.network]
@@ -137,6 +138,16 @@ class ESPN_Season_Scraper:
                 years_found.append(year)
         return [item for item in all_years if item not in years_found]
 
+    def _get_years(self, year):  # Specific Helper scrape_team_history
+        year = int(year)
+        if self.league in ["NFL", "NCAAF"]:
+            year1 = year
+            year2 = year + 1
+        else:
+            year1 = year - 1
+            year2 = year
+        return year1, year2
+
     def scrape_team_history(self, team_abbrev, name=None):  # Run
         if name is None:
             name = team_abbrev
@@ -144,7 +155,8 @@ class ESPN_Season_Scraper:
         for year in years_unscraped:
             print("Scraping data for {} {}".format(name, year))
             df = self.scrape_season(team_abbrev, year)
-            path = "../Data/{}/{}/{}_{}.csv".format(self.league, name, name, year)
+            year1, year2 = self._get_years(year)
+            path = "../Data/{}/{}/{}_{}-{}.csv".format(self.league, name, name, year1, year2)
             df.to_csv(path, index=False)
 
     def scrape_all_leauge_history(self):  # Run
@@ -153,9 +165,10 @@ class ESPN_Season_Scraper:
         for team_abbrev, name in zip(team_abbrevs, names):
             try:
                 self.scrape_team_history(team_abbrev, name)
-            except BaseException:
+            except Exception as e:
+                print(e)
                 print("Error scraping, moving on to the next team")
-                time.sleep(30)
+                time.sleep(1)
 
 
 def parse_league():  # Parse
