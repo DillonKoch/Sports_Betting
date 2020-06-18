@@ -946,26 +946,6 @@
             "Mid-American"
         ],
         [
-            "Bethune-Cookman Wildcats",
-            "2065",
-            "MEAC"
-        ],
-        [
-            "Bethune-Cookman Wildcats",
-            "2065",
-            "MEAC"
-        ],
-        [
-            "Bethune-Cookman Wildcats",
-            "2065",
-            "MEAC"
-        ],
-        [
-            "Bethune-Cookman Wildcats",
-            "2065",
-            "MEAC"
-        ],
-        [
             "Air Force Falcons",
             "2005",
             "Mountain West"
@@ -1776,45 +1756,45 @@
             "WAC"
         ],
         [
-            "California Baptist Lancers",
-            "2856",
+            "Chicago State Cougars",
+            "2130",
             "WAC"
         ],
         [
-            "California Baptist Lancers",
-            "2856",
+            "Csu Bakersfield Roadrunners",
+            "2934",
             "WAC"
         ],
         [
-            "California Baptist Lancers",
-            "2856",
+            "Grand Canyon Antelopes",
+            "2253",
             "WAC"
         ],
         [
-            "California Baptist Lancers",
-            "2856",
+            "New Mexico State Aggies",
+            "166",
             "WAC"
         ],
         [
-            "California Baptist Lancers",
-            "2856",
+            "Seattle Redhawks",
+            "2547",
             "WAC"
         ],
         [
-            "California Baptist Lancers",
-            "2856",
+            "UT Rio Grande Valley Vaqueros",
+            "292",
             "WAC"
         ],
         [
-            "California Baptist Lancers",
-            "2856",
+            "Umkc Kangaroos",
+            "140",
             "WAC"
         ],
         [
-            "California Baptist Lancers",
+            "Utah Valley Wolverines",
             "2856",
             "WAC"
-        ],  # FIXME last conference!
+        ]
     ],
     "Season Base Link": "https://www.espn.com/mens-college-basketball/team/schedule/_/id/{team_abbrev}/season/{year}",
     "DF Columns": [
