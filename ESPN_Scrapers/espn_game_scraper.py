@@ -4,7 +4,7 @@
 # File Created: Tuesday, 7th April 2020 7:34:33 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Friday, 19th June 2020 8:53:51 am
+# Last Modified: Friday, 19th June 2020 4:15:23 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -147,8 +147,8 @@ class ESPN_Game_Scraper:
 
         line_comp = re.compile(r"^Line: (.+)$")
         ou_comp = re.compile(r"\s+Over/Under: (\d+)\s+$")
-        line = "NULL"
-        over_under = "NULL"
+        line = None
+        over_under = None
 
         for html in li_htmls:
             line_match = re.match(line_comp, html)

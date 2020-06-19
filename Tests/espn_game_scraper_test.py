@@ -4,7 +4,7 @@
 # File Created: Friday, 10th April 2020 11:25:21 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Friday, 19th June 2020 10:39:53 am
+# Last Modified: Friday, 19th June 2020 4:16:56 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -107,8 +107,8 @@ class Test_ESPN_Game_Scraper(TestCase):
         self.assertEqual("42", over_under)
 
         line, over_under = self.espn._line_ou("NFL", "298374930")
-        self.assertEqual("NULL", line)
-        self.assertEqual("NULL", over_under)
+        self.assertEqual(None, line)
+        self.assertEqual(None, over_under)
 
     def test_nfl_game_date(self):
         game_date = self.espn._game_date("NFL", self.nfl_game_id, sp=self.nfl_sp)
@@ -196,8 +196,8 @@ class Test_ESPN_Game_Scraper(TestCase):
         self.assertEqual("223", over_under)
 
         line, over_under = self.espn._line_ou("NFL", "298374930")
-        self.assertEqual("NULL", line)
-        self.assertEqual("NULL", over_under)
+        self.assertEqual(None, line)
+        self.assertEqual(None, over_under)
 
     def test_nba_game_date(self):
         date = self.espn._game_date("NBA", self.nba_game_id, self.nba_sp)
@@ -288,8 +288,8 @@ class Test_ESPN_Game_Scraper(TestCase):
         self.assertEqual("45", over_under)
 
         line, over_under = self.espn._line_ou("NCAAF", "298374930")
-        self.assertEqual("NULL", line)
-        self.assertEqual("NULL", over_under)
+        self.assertEqual(None, line)
+        self.assertEqual(None, over_under)
 
     def test_ncaaf_game_date(self):
         date = self.espn._game_date("NCAAF", self.ncaaf_game_id, self.ncaaf_sp)
@@ -380,8 +380,8 @@ class Test_ESPN_Game_Scraper(TestCase):
         self.assertEqual("135", over_under)
 
         line, over_under = self.espn._line_ou("NCAAB", "298374930")
-        self.assertEqual("NULL", line)
-        self.assertEqual("NULL", over_under)
+        self.assertEqual(None, line)
+        self.assertEqual(None, over_under)
 
     def test_ncaab_game_date(self):
         date = self.espn._game_date("NCAAB", self.ncaab_game_id, self.ncaab_sp)

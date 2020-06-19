@@ -4,7 +4,7 @@
 # File Created: Saturday, 23rd May 2020 11:04:56 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Friday, 19th June 2020 2:26:10 pm
+# Last Modified: Friday, 19th June 2020 4:14:44 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -106,21 +106,33 @@ class ESPN_Season_Scraper:
                game.home_record, game.away_record,
                game.home_score, game.away_score, game.line, game.over_under,
                game.final_status, game.network]
+        print(len(row))
 
         if self.league != "NCAAB":
             for scores in [game.home_qscores, game.away_qscores]:
                 row += [item for item in scores]
                 if len(scores) == self.q_amount:
-                    row += ["NULL"]
+                    row += [None]
         else:
             for scores in [game.home_half_scores, game.away_half_scores]:
-                row += [item for item in scores]
-                if len(scores) == self.q_amount:
-                    row += ['NULL']
+                print("Scores: ", scores)
+                if ((self.league == "NCAAB") and (len(scores) == 4)):
+                    first_half = int(scores[0]) + int(scores[1])
+                    second_half = int(scores[2]) + int(scores[3])
+                    row += [first_half, second_half, None]
+                elif ((self.league == "NCAAB") and (len(scores) == 5)):
+                    first_half = int(scores[0]) + int(scores[1])
+                    second_half = int(scores[2]) + int(scores[3])
+                    overtime = int(scores[4])
+                    row += [first_half, second_half, overtime]
+                else:
+                    row += [item for item in scores]
+                    if len(scores) == self.q_amount:
+                        row += [None]
+                        print("added none")
 
         if self.league == "NFL":
             row.append(week)
-
         row.append(self.league)
         df.loc[len(df)] = row
         return df
@@ -134,7 +146,7 @@ class ESPN_Season_Scraper:
             if link is None:
                 continue
             df = self._link_week_to_row(df, link, week, year)
-            time.sleep(5)
+            time.sleep(1)
         return df
 
     def scrape_playoffs(self, team_abbrev, team_name, year):  # Run
@@ -149,7 +161,7 @@ class ESPN_Season_Scraper:
         beginning_year = 1999 if self.league == "NCAAF" else 2002 if self.league == 'NCAAB' else 1993
         all_years = [str(item) for item in list(range(beginning_year, 2020, 1))]
         years_found = []
-        year_comp = re.compile(r"\d{4}")
+        year_comp = re.compile(r"(\d{4}).csv")
         for filename in os.listdir(path):
             match = re.search(year_comp, filename)
             if match:
@@ -199,6 +211,6 @@ if __name__ == "__main__":
     # name = "Iowa Hawkeyes"
     # year = 2019
     # season_type = 2
-    name = "Atlanta Hawks"
-    # x = ESPN_Season_Scraper("NBA")
-    # x.scrape_all_leauge_history()
+    # name = "Atlanta Hawks"
+    x = ESPN_Season_Scraper("NCAAB")
+    x.scrape_all_leauge_history()
