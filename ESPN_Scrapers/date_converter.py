@@ -4,7 +4,7 @@
 # File Created: Friday, 19th June 2020 8:59:03 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Friday, 19th June 2020 9:26:23 am
+# Last Modified: Friday, 19th June 2020 9:30:43 am
 # Modified By: Dillon Koch
 # -----
 #
@@ -63,3 +63,11 @@ df['Date'] = df.apply(lambda row: change_date(row), axis=1)
 
 for df, path in tqdm(zip(all_dfs, df_paths)):
     df['Date'] = df.apply(lambda row: change_date(row), axis=1)
+    df.to_csv(path, index=False)
+
+
+# Getting rid of "Unnamed" nonsense in the df column names
+
+for df, path in tqdm(zip(all_dfs, df_paths)):
+    df = df.loc[:, [col for col in list(df.columns) if "Unnamed" not in col]]
+    df.to_csv(path, index=False)
