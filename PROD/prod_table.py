@@ -4,7 +4,7 @@
 # File Created: Thursday, 18th June 2020 12:48:04 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Thursday, 18th June 2020 5:11:22 pm
+# Last Modified: Thursday, 18th June 2020 6:03:10 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -47,6 +47,16 @@ class Prod_Table:
         dic = {year: datetime.date(config_dict[year][0], config_dict[year][1], config_dict[year][2]) for year in years}
         return dic
 
+    def _show_team_dfs_dict(self):  # Global Helper not used in run(), but helpful
+        team_dict = {team: 0 for team in self.teams}
+        df_paths = self._get_espn_paths()
+        for item in df_paths:
+            for team in self.teams:
+                if team in item:
+                    team_dict[team] += 1
+        print(team_dict)
+        return team_dict
+
     def check_table_exists(self):  # Top Level  Tested
         path = ROOT_PATH + "/PROD/"
         exists = True if self.prod_table in os.listdir(path) else False
@@ -61,17 +71,7 @@ class Prod_Table:
         df = pd.read_csv(self.prod_table)
         return df
 
-    def _show_team_dfs_dict(self):  # Global Helper not used in run(), but helpful
-        team_dict = {team: 0 for team in self.teams}
-        df_paths = self._get_espn_paths()
-        for item in df_paths:
-            for team in self.teams:
-                if team in item:
-                    team_dict[team] += 1
-        print(team_dict)
-        return team_dict
-
-    def _get_espn_paths(self):  # Specific Helper load_espn_data
+    def _get_df_paths(self):  # Specific Helper load_espn_data Tested
         df_paths = []
         for team in self.teams:
             team_paths = [item for item in os.listdir(ROOT_PATH + "/ESPN_Data/{}/{}/".format(self.league, team))]
@@ -80,15 +80,13 @@ class Prod_Table:
             df_paths += team_paths
         return df_paths
 
-    def _load_concat_espn_paths(self, df_paths):  # Specific Helper load_espn_data
+    def _load_all_team_dfs(self, df_paths):  # Specific Helper load_espn_data Tested
         all_team_dfs = []
         for path in tqdm(df_paths):
             current_df = pd.read_csv(path)
             if len(current_df) > 0:
                 all_team_dfs.append(current_df)
-        df = pd.concat(all_team_dfs)
-        df = df.loc[:, self.config["ESPN_cols"]]
-        return df
+        return all_team_dfs
 
     def _add_nfl_datetime(self, df):  # Helping Helper _remove_preseason
         def add_dt(row):
@@ -131,17 +129,27 @@ class Prod_Table:
         def add_dt(row):
             return datetime.date(row['year'], row['month'], row['day'])
         df['datetime'] = df.apply(lambda row: add_dt(row), axis=1)
-        df['datetime'] = pd.to_datetime(df['datetime']).apply(lambda x: x.date())
         return df
 
-    def load_espn_data(self):  # Top Level
-        df_paths = self._get_espn_paths()
-        df = self._load_concat_espn_paths(df_paths)
-        df = self._remove_preseason(df)
-        df = self._add_datetime(df)
-        return df
+    def _clean_concat_team_dfs(self, all_team_dfs):  # Specific Helper load_espn_data  Tested
+        if self.league in ["NCAAB", "NCAAF"]:
+            for df in all_team_dfs:
+                df.columns = [item if item != "ESPN ID" else "ESPN_ID" for item in list(df.columns)]
+        full_df = pd.concat(all_team_dfs)
+        full_df.drop_duplicates(subset="ESPN_ID", inplace=True)
+        full_df.sort_values(by="datetime", inplace=True)
+        return full_df
 
-    def add_espn_data(self):  # Top Level
+    def load_espn_data(self):  # Top Level  Tested
+        df_paths = self._get_df_paths()
+        all_team_dfs = self._load_all_team_dfs(df_paths)
+        all_team_dfs = [self._remove_preseason(df) for df in all_team_dfs]
+        all_team_dfs = [self._add_datetime(df) for df in all_team_dfs]
+        espn_df = self._clean_concat_team_dfs(all_team_dfs)
+        espn_df = espn_df.loc[:, self.config["ESPN_cols"]]
+        return espn_df
+
+    def add_espn_stats_data(self):  # Top Level
         pass
 
     def add_odds_data(self):  # Top Level
