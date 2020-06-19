@@ -1,14 +1,14 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-401013352,2018,"Sat, Sep 8",Purdue Boilermakers,Eastern Michigan Eagles,"0-2, 0-2 Home","2-0, 1-0 Away",19,20,PUR -15.5,51,Final,BTN,6,6,0,7,NULL,7,3,0,10,NULL,NCAAF
-401013119,2018,"Sat, Sep 22",Purdue Boilermakers,Boston College Eagles,"1-3, 1-3 Home","3-1, 1-1 Away",30,13,BC -6.5,63,Final,ESPN2,7,16,7,0,NULL,7,0,0,6,NULL,NCAAF
-401012809,2018,"Sat, Oct 13",Illinois Fighting Illini,Purdue Boilermakers,"3-3, 1-2 Conf","3-3, 2-1 Conf",7,46,PUR -10.5,63,Final,FS1,7,0,0,0,NULL,14,15,7,10,NULL,NCAAF
-401012885,2018,"Sat, Oct 27",Michigan State Spartans,Purdue Boilermakers,"5-3, 3-2 Conf","4-4, 3-2 Conf",23,13,PUR -2.5,49,Final,ESPN,6,7,3,7,NULL,3,3,7,0,NULL,NCAAF
-401013333,2018,"Sat, Nov 10",Minnesota Golden Gophers,Purdue Boilermakers,"5-5, 2-5 Conf","5-5, 4-3 Conf",41,10,PUR -10.0,59,Final,ESPN2,3,10,21,7,NULL,3,0,0,7,NULL,NCAAF
-401013342,2018,"Thu, Aug 30",Purdue Boilermakers,Northwestern Wildcats,"0-1, 0-1 Conf","1-0, 1-0 Conf",27,31,PUR -1.0,51,Final,ESPN,14,3,7,3,NULL,14,17,0,0,NULL,NCAAF
-401012279,2018,"Sat, Sep 15",Purdue Boilermakers,Missouri Tigers,"0-3, 0-3 Home","3-0, 1-0 Away",37,40,MIZ -5.5,67,Final,BTN,7,17,3,10,NULL,13,14,10,3,NULL,NCAAF
-401013338,2018,"Sat, Sep 29",Nebraska Cornhuskers,Purdue Boilermakers,"0-4, 0-2 Conf","2-3, 1-1 Conf",28,42,PUR -3.5,58,Final,BTN,7,0,14,7,NULL,10,10,15,7,NULL,NCAAF
-401013348,2018,"Sat, Oct 20",Purdue Boilermakers,Ohio State Buckeyes,"4-3, 3-1 Conf","7-1, 4-1 Conf",49,20,OSU -12.5,65,Final,ABC,7,7,7,28,NULL,0,3,3,14,NULL,NCAAF
-401012869,2018,"Sat, Nov 3",Purdue Boilermakers,Iowa Hawkeyes,"5-4, 4-2 Conf","6-3, 3-3 Conf",38,36,PUR -1.0,53,Final,ESPN2,14,7,14,3,NULL,7,10,6,13,NULL,NCAAF
-401013353,2018,"Sat, Nov 17",Purdue Boilermakers,Wisconsin Badgers,"5-6, 4-4 Conf","7-4, 5-3 Conf",44,47,PUR -3.5,55,Final/3OT,BTN,0,10,14,3,17,0,3,10,14,20,NCAAF
-401012861,2018,"Sat, Nov 24",Indiana Hoosiers,Purdue Boilermakers,"5-7, 2-7 Conf","6-6, 5-4 Conf",21,28,PUR -3.0,65,Final,ESPN2,0,7,0,14,NULL,7,7,7,7,NULL,NCAAF
-401032073,2018,"Fri, Dec 28",Auburn Tigers,Purdue Boilermakers,8-5,6-7,63,14,AUB -3.5,57,Final,ESPN,28,28,7,0,NULL,7,0,7,0,NULL,NCAAF
+401013352,2018,"September 08, 2018",Purdue Boilermakers,Eastern Michigan Eagles,"0-2, 0-2 Home","2-0, 1-0 Away",19,20,PUR -15.5,51,Final,BTN,6,6,0,7,,7,3,0,10,,NCAAF
+401013119,2018,"September 22, 2018",Purdue Boilermakers,Boston College Eagles,"1-3, 1-3 Home","3-1, 1-1 Away",30,13,BC -6.5,63,Final,ESPN2,7,16,7,0,,7,0,0,6,,NCAAF
+401012809,2018,"October 13, 2018",Illinois Fighting Illini,Purdue Boilermakers,"3-3, 1-2 Conf","3-3, 2-1 Conf",7,46,PUR -10.5,63,Final,FS1,7,0,0,0,,14,15,7,10,,NCAAF
+401012885,2018,"October 27, 2018",Michigan State Spartans,Purdue Boilermakers,"5-3, 3-2 Conf","4-4, 3-2 Conf",23,13,PUR -2.5,49,Final,ESPN,6,7,3,7,,3,3,7,0,,NCAAF
+401013333,2018,"November 10, 2018",Minnesota Golden Gophers,Purdue Boilermakers,"5-5, 2-5 Conf","5-5, 4-3 Conf",41,10,PUR -10.0,59,Final,ESPN2,3,10,21,7,,3,0,0,7,,NCAAF
+401013342,2018,"August 30, 2018",Purdue Boilermakers,Northwestern Wildcats,"0-1, 0-1 Conf","1-0, 1-0 Conf",27,31,PUR -1.0,51,Final,ESPN,14,3,7,3,,14,17,0,0,,NCAAF
+401012279,2018,"September 15, 2018",Purdue Boilermakers,Missouri Tigers,"0-3, 0-3 Home","3-0, 1-0 Away",37,40,MIZ -5.5,67,Final,BTN,7,17,3,10,,13,14,10,3,,NCAAF
+401013338,2018,"September 29, 2018",Nebraska Cornhuskers,Purdue Boilermakers,"0-4, 0-2 Conf","2-3, 1-1 Conf",28,42,PUR -3.5,58,Final,BTN,7,0,14,7,,10,10,15,7,,NCAAF
+401013348,2018,"October 20, 2018",Purdue Boilermakers,Ohio State Buckeyes,"4-3, 3-1 Conf","7-1, 4-1 Conf",49,20,OSU -12.5,65,Final,ABC,7,7,7,28,,0,3,3,14,,NCAAF
+401012869,2018,"November 03, 2018",Purdue Boilermakers,Iowa Hawkeyes,"5-4, 4-2 Conf","6-3, 3-3 Conf",38,36,PUR -1.0,53,Final,ESPN2,14,7,14,3,,7,10,6,13,,NCAAF
+401013353,2018,"November 17, 2018",Purdue Boilermakers,Wisconsin Badgers,"5-6, 4-4 Conf","7-4, 5-3 Conf",44,47,PUR -3.5,55,Final/3OT,BTN,0,10,14,3,17.0,0,3,10,14,20.0,NCAAF
+401012861,2018,"November 24, 2018",Indiana Hoosiers,Purdue Boilermakers,"5-7, 2-7 Conf","6-6, 5-4 Conf",21,28,PUR -3.0,65,Final,ESPN2,0,7,0,14,,7,7,7,7,,NCAAF
+401032073,2018,"December 28, 2018",Auburn Tigers,Purdue Boilermakers,8-5,6-7,63,14,AUB -3.5,57,Final,ESPN,28,28,7,0,,7,0,7,0,,NCAAF

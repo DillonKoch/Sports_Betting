@@ -1,14 +1,14 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-401112442,2019,"Sat, Sep 7",Louisville Cardinals,Eastern Kentucky Colonels,"1-1, 1-1 Home","1-1, 0-1 Away",42,0,NULL,NULL,Final,ACCNX,14,0,14,14,NULL,0,0,0,0,NULL,NCAAF
-401112457,2019,"Sat, Sep 21",Florida State Seminoles,Louisville Cardinals,"2-2, 1-1 Conf","2-2, 0-1 Conf",35,24,FSU -6.5,61,Final,ESPN,21,0,0,14,NULL,0,7,10,7,NULL,NCAAF
-401112481,2019,"Sat, Oct 12",Wake Forest Demon Deacons,Louisville Cardinals,"5-1, 1-1 Conf","4-2, 2-1 Conf",59,62,WAKE -7.0,66,Final,ACCN,7,14,10,28,NULL,21,10,14,17,NULL,NCAAF
-401112493,2019,"Sat, Oct 26",Louisville Cardinals,Virginia Cavaliers,"5-3, 3-2 Conf","5-3, 3-2 Conf",28,21,UVA -3.5,52,Final,ACCN,7,0,7,14,NULL,7,7,0,7,NULL,NCAAF
-401112512,2019,"Sat, Nov 16",NC State Wolfpack,Louisville Cardinals,"4-6, 1-5 Conf","6-4, 4-3 Conf",20,34,LOU -4.5,52,Final,ACCN,0,10,0,10,NULL,0,7,20,7,NULL,NCAAF
-401112436,2019,"Mon, Sep 2",Louisville Cardinals,Notre Dame Fighting Irish,"0-1, 0-1 Home","1-0, 1-0 Away",17,35,ND -19.5,55,Final,ESPN,14,0,0,3,NULL,14,7,7,7,NULL,NCAAF
-401112453,2019,"Sat, Sep 14",Western Kentucky Hilltoppers,Louisville Cardinals,1-2,2-1,21,38,LOU -10.5,49,Final,NULL,0,7,7,7,NULL,7,24,7,0,NULL,NCAAF
-401112473,2019,"Sat, Oct 5",Louisville Cardinals,Boston College Eagles,"3-2, 1-1 Conf","3-3, 1-2 Conf",41,39,LOU -4.0,61,Final,ACCNX,14,14,3,10,NULL,7,15,7,10,NULL,NCAAF
-401112485,2019,"Sat, Oct 19",Louisville Cardinals,Clemson Tigers,"4-3, 2-2 Conf","7-0, 5-0 Conf",10,45,CLEM -24.5,63,Final,ABC,0,3,0,7,NULL,3,14,7,21,NULL,NCAAF
-401112505,2019,"Sat, Nov 9",Miami Hurricanes,Louisville Cardinals,"6-4, 4-3 Conf","5-4, 3-3 Conf",52,27,MIA -6.5,49,Final,ESPN2,21,14,17,0,NULL,7,7,7,6,NULL,NCAAF
-401112516,2019,"Sat, Nov 23",Louisville Cardinals,Syracuse Orange,"7-4, 5-3 Conf","4-7, 1-6 Conf",56,34,LOU -7.5,64,Final,ACCN,21,7,21,7,NULL,3,7,17,7,NULL,NCAAF
-401110868,2019,"Sat, Nov 30",Kentucky Wildcats,Louisville Cardinals,"7-5, 6-2 Home","7-5, 2-3 Away",45,13,UK -3.5,52,Final,SECN,7,10,14,14,NULL,6,7,0,0,NULL,NCAAF
-401135281,2019,"Mon, Dec 30",Louisville Cardinals,Mississippi State Bulldogs,8-5,6-7,38,28,MSST -4.5,65,Final,ESPN,0,10,14,14,NULL,7,7,0,14,NULL,NCAAF
+401112442,2019,"September 07, 2019",Louisville Cardinals,Eastern Kentucky Colonels,"1-1, 1-1 Home","1-1, 0-1 Away",42,0,,,Final,ACCNX,14,0,14,14,,0,0,0,0,,NCAAF
+401112457,2019,"September 21, 2019",Florida State Seminoles,Louisville Cardinals,"2-2, 1-1 Conf","2-2, 0-1 Conf",35,24,FSU -6.5,61.0,Final,ESPN,21,0,0,14,,0,7,10,7,,NCAAF
+401112481,2019,"October 12, 2019",Wake Forest Demon Deacons,Louisville Cardinals,"5-1, 1-1 Conf","4-2, 2-1 Conf",59,62,WAKE -7.0,66.0,Final,ACCN,7,14,10,28,,21,10,14,17,,NCAAF
+401112493,2019,"October 26, 2019",Louisville Cardinals,Virginia Cavaliers,"5-3, 3-2 Conf","5-3, 3-2 Conf",28,21,UVA -3.5,52.0,Final,ACCN,7,0,7,14,,7,7,0,7,,NCAAF
+401112512,2019,"November 16, 2019",NC State Wolfpack,Louisville Cardinals,"4-6, 1-5 Conf","6-4, 4-3 Conf",20,34,LOU -4.5,52.0,Final,ACCN,0,10,0,10,,0,7,20,7,,NCAAF
+401112436,2019,"September 02, 2019",Louisville Cardinals,Notre Dame Fighting Irish,"0-1, 0-1 Home","1-0, 1-0 Away",17,35,ND -19.5,55.0,Final,ESPN,14,0,0,3,,14,7,7,7,,NCAAF
+401112453,2019,"September 14, 2019",Western Kentucky Hilltoppers,Louisville Cardinals,1-2,2-1,21,38,LOU -10.5,49.0,Final,,0,7,7,7,,7,24,7,0,,NCAAF
+401112473,2019,"October 05, 2019",Louisville Cardinals,Boston College Eagles,"3-2, 1-1 Conf","3-3, 1-2 Conf",41,39,LOU -4.0,61.0,Final,ACCNX,14,14,3,10,,7,15,7,10,,NCAAF
+401112485,2019,"October 19, 2019",Louisville Cardinals,Clemson Tigers,"4-3, 2-2 Conf","7-0, 5-0 Conf",10,45,CLEM -24.5,63.0,Final,ABC,0,3,0,7,,3,14,7,21,,NCAAF
+401112505,2019,"November 09, 2019",Miami Hurricanes,Louisville Cardinals,"6-4, 4-3 Conf","5-4, 3-3 Conf",52,27,MIA -6.5,49.0,Final,ESPN2,21,14,17,0,,7,7,7,6,,NCAAF
+401112516,2019,"November 23, 2019",Louisville Cardinals,Syracuse Orange,"7-4, 5-3 Conf","4-7, 1-6 Conf",56,34,LOU -7.5,64.0,Final,ACCN,21,7,21,7,,3,7,17,7,,NCAAF
+401110868,2019,"November 30, 2019",Kentucky Wildcats,Louisville Cardinals,"7-5, 6-2 Home","7-5, 2-3 Away",45,13,UK -3.5,52.0,Final,SECN,7,10,14,14,,6,7,0,0,,NCAAF
+401135281,2019,"December 30, 2019",Louisville Cardinals,Mississippi State Bulldogs,8-5,6-7,38,28,MSST -4.5,65.0,Final,ESPN,0,10,14,14,,7,7,0,14,,NCAAF

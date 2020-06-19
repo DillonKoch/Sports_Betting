@@ -1,14 +1,14 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-400787308,2015,"Sat, Sep 12",Georgia Southern Eagles,Western Michigan Broncos,"1-1, 1-0 Home","0-2, 0-1 Away",43,17,NULL,NULL,Final,ESPN3,7,16,10,10,NULL,3,6,0,8,NULL,NCAAF
-400787443,2015,"Sat, Sep 26",Idaho Vandals,Georgia Southern Eagles,"1-3, 0-1 Conf","3-1, 1-0 Conf",20,44,NULL,NULL,Final,ESPN3,3,10,7,0,NULL,10,6,14,14,NULL,NCAAF
-400787452,2015,"Sat, Oct 17",Georgia Southern Eagles,New Mexico State Aggies,"5-1, 3-0 Conf","0-6, 0-2 Conf",56,26,NULL,NULL,Final,ESPN3,14,21,14,7,NULL,0,7,7,12,NULL,NCAAF
-400787459,2015,"Thu, Oct 29",Georgia Southern Eagles,Texas State Bobcats,"6-2, 4-1 Conf","2-5, 1-2 Conf",37,13,NULL,NULL,Final,ESPNU,7,7,10,13,NULL,0,6,7,0,NULL,NCAAF
-400603925,2015,"Sat, Nov 21",Georgia Bulldogs,Georgia Southern Eagles,"8-3, 6-1 Home","7-3, 3-3 Away",23,17,NULL,NULL,Final/OT,ESPNU,7,0,7,3,6,0,7,7,3,0,NCAAF
-400763407,2015,"Sat, Sep 5",West Virginia Mountaineers,Georgia Southern Eagles,"1-0, 1-0 Home","0-1, 0-1 Away",44,0,NULL,NULL,Final,NULL,10,6,14,14,NULL,0,0,0,0,NULL,NCAAF
-400787441,2015,"Sat, Sep 19",Georgia Southern Eagles,The Citadel Bulldogs,"2-1, 2-0 Home","2-1, 0-1 Away",48,13,NULL,NULL,Final,ESPN3,10,21,10,7,NULL,0,0,7,6,NULL,NCAAF
-400787445,2015,"Sat, Oct 3",Louisiana Monroe Warhawks,Georgia Southern Eagles,"1-3, 0-1 Conf","4-1, 2-0 Conf",31,51,NULL,NULL,Final,ESPN3,0,10,7,14,NULL,10,21,0,20,NULL,NCAAF
-400787455,2015,"Thu, Oct 22",Appalachian State Mountaineers,Georgia Southern Eagles,"6-1, 3-0 Conf","5-2, 3-1 Conf",31,13,NULL,NULL,Final,ESPNU,3,14,7,7,NULL,7,0,0,6,NULL,NCAAF
-400787472,2015,"Sat, Nov 14",Troy Trojans,Georgia Southern Eagles,"3-7, 2-4 Conf","7-2, 5-1 Conf",10,45,NULL,NULL,Final,ESPN3,10,0,0,0,NULL,10,14,7,14,NULL,NCAAF
-400787480,2015,"Sat, Nov 28",Georgia Southern Eagles,South Alabama Jaguars,"8-3, 6-1 Conf","5-6, 3-4 Conf",55,17,NULL,NULL,Final,ESPN3,7,21,17,10,NULL,7,7,3,0,NULL,NCAAF
-400787484,2015,"Sat, Dec 5",Georgia Southern Eagles,Georgia State Panthers,"8-4, 6-2 Conf","6-6, 5-3 Conf",7,34,NULL,NULL,Final,ESPN3,0,7,0,0,NULL,0,7,13,14,NULL,NCAAF
-400852711,2015,"Wed, Dec 23",Bowling Green Falcons,Georgia Southern Eagles,10-4,9-4,27,58,NULL,NULL,Final,ESPN,13,14,0,0,NULL,9,14,21,14,NULL,NCAAF
+400787308,2015,"September 12, 2015",Georgia Southern Eagles,Western Michigan Broncos,"1-1, 1-0 Home","0-2, 0-1 Away",43,17,,,Final,ESPN3,7,16,10,10,,3,6,0,8,,NCAAF
+400787443,2015,"September 26, 2015",Idaho Vandals,Georgia Southern Eagles,"1-3, 0-1 Conf","3-1, 1-0 Conf",20,44,,,Final,ESPN3,3,10,7,0,,10,6,14,14,,NCAAF
+400787452,2015,"October 17, 2015",Georgia Southern Eagles,New Mexico State Aggies,"5-1, 3-0 Conf","0-6, 0-2 Conf",56,26,,,Final,ESPN3,14,21,14,7,,0,7,7,12,,NCAAF
+400787459,2015,"October 29, 2015",Georgia Southern Eagles,Texas State Bobcats,"6-2, 4-1 Conf","2-5, 1-2 Conf",37,13,,,Final,ESPNU,7,7,10,13,,0,6,7,0,,NCAAF
+400603925,2015,"November 21, 2015",Georgia Bulldogs,Georgia Southern Eagles,"8-3, 6-1 Home","7-3, 3-3 Away",23,17,,,Final/OT,ESPNU,7,0,7,3,6.0,0,7,7,3,0.0,NCAAF
+400763407,2015,"September 05, 2015",West Virginia Mountaineers,Georgia Southern Eagles,"1-0, 1-0 Home","0-1, 0-1 Away",44,0,,,Final,,10,6,14,14,,0,0,0,0,,NCAAF
+400787441,2015,"September 19, 2015",Georgia Southern Eagles,The Citadel Bulldogs,"2-1, 2-0 Home","2-1, 0-1 Away",48,13,,,Final,ESPN3,10,21,10,7,,0,0,7,6,,NCAAF
+400787445,2015,"October 03, 2015",Louisiana Monroe Warhawks,Georgia Southern Eagles,"1-3, 0-1 Conf","4-1, 2-0 Conf",31,51,,,Final,ESPN3,0,10,7,14,,10,21,0,20,,NCAAF
+400787455,2015,"October 22, 2015",Appalachian State Mountaineers,Georgia Southern Eagles,"6-1, 3-0 Conf","5-2, 3-1 Conf",31,13,,,Final,ESPNU,3,14,7,7,,7,0,0,6,,NCAAF
+400787472,2015,"November 14, 2015",Troy Trojans,Georgia Southern Eagles,"3-7, 2-4 Conf","7-2, 5-1 Conf",10,45,,,Final,ESPN3,10,0,0,0,,10,14,7,14,,NCAAF
+400787480,2015,"November 28, 2015",Georgia Southern Eagles,South Alabama Jaguars,"8-3, 6-1 Conf","5-6, 3-4 Conf",55,17,,,Final,ESPN3,7,21,17,10,,7,7,3,0,,NCAAF
+400787484,2015,"December 05, 2015",Georgia Southern Eagles,Georgia State Panthers,"8-4, 6-2 Conf","6-6, 5-3 Conf",7,34,,,Final,ESPN3,0,7,0,0,,0,7,13,14,,NCAAF
+400852711,2015,"December 23, 2015",Bowling Green Falcons,Georgia Southern Eagles,10-4,9-4,27,58,,,Final,ESPN,13,14,0,0,,9,14,21,14,,NCAAF

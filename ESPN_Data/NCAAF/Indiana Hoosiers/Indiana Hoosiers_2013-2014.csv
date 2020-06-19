@@ -1,13 +1,13 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-332500084,2013,"Sat, Sep 7",Indiana Hoosiers,Navy Midshipmen,"1-1, 1-1 Home","1-0, 1-0 Away",35,41,NULL,NULL,Final,BTN,0,14,7,14,NULL,14,10,14,3,NULL,NCAAF
-332640084,2013,"Sat, Sep 21",Indiana Hoosiers,Missouri Tigers,"2-2, 2-2 Home","3-0, 1-0 Away",28,45,NULL,NULL,Final,BTN,0,14,0,14,NULL,14,14,3,14,NULL,NCAAF
-332850127,2013,"Sat, Oct 12",Michigan State Spartans,Indiana Hoosiers,"5-1, 2-0 Conf","3-3, 1-1 Conf",42,28,NULL,NULL,Final,ESPN2,0,21,14,7,NULL,7,7,7,7,NULL,NCAAF
-333060084,2013,"Sat, Nov 2",Indiana Hoosiers,Minnesota Golden Gophers,"3-5, 1-3 Conf","7-2, 3-2 Conf",39,42,NULL,NULL,Final,BTN,10,3,7,19,NULL,7,21,7,7,NULL,NCAAF
-333200275,2013,"Sat, Nov 16",Wisconsin Badgers,Indiana Hoosiers,"8-2, 5-1 Conf","4-6, 2-4 Conf",51,3,NULL,NULL,Final,ESPN2,20,7,10,14,NULL,0,0,3,0,NULL,NCAAF
-332410084,2013,"Thu, Aug 29",Indiana Hoosiers,Indiana State Sycamores,"1-0, 1-0 Home","0-1, 0-1 Away",73,35,NULL,NULL,Final,BTN,21,24,21,7,NULL,7,14,7,7,NULL,NCAAF
-332570084,2013,"Sat, Sep 14",Indiana Hoosiers,Bowling Green Falcons,"2-1, 2-1 Home","2-1, 1-1 Away",42,10,NULL,NULL,Final,ESPNU,7,14,7,14,NULL,7,3,0,0,NULL,NCAAF
-332780084,2013,"Sat, Oct 5",Indiana Hoosiers,Penn State Nittany Lions,"3-2, 1-0 Conf","3-2, 0-1 Conf",44,24,NULL,NULL,Final,BTN,7,6,8,23,NULL,0,7,10,7,NULL,NCAAF
-332920130,2013,"Sat, Oct 19",Michigan Wolverines,Indiana Hoosiers,"6-1, 2-1 Conf","3-4, 1-2 Conf",63,47,NULL,NULL,Final,BTN,14,14,14,21,NULL,7,10,23,7,NULL,NCAAF
-333130084,2013,"Sat, Nov 9",Indiana Hoosiers,Illinois Fighting Illini,"4-5, 2-3 Conf","3-6, 0-5 Conf",52,35,NULL,NULL,Final,BTN,14,7,14,17,NULL,14,0,14,7,NULL,NCAAF
-333270194,2013,"Sat, Nov 23",Ohio State Buckeyes,Indiana Hoosiers,"11-0, 7-0 Conf","4-7, 2-5 Conf",42,14,NULL,NULL,Final,ABC/ESPN2,14,14,7,7,NULL,0,0,0,14,NULL,NCAAF
-333340084,2013,"Sat, Nov 30",Indiana Hoosiers,Purdue Boilermakers,"5-7, 3-5 Conf","1-11, 0-8 Conf",56,36,NULL,NULL,Final,BTN,14,21,14,7,NULL,0,9,7,20,NULL,NCAAF
+332500084,2013,"September 07, 2013",Indiana Hoosiers,Navy Midshipmen,"1-1, 1-1 Home","1-0, 1-0 Away",35,41,,,Final,BTN,0,14,7,14,,14,10,14,3,,NCAAF
+332640084,2013,"September 21, 2013",Indiana Hoosiers,Missouri Tigers,"2-2, 2-2 Home","3-0, 1-0 Away",28,45,,,Final,BTN,0,14,0,14,,14,14,3,14,,NCAAF
+332850127,2013,"October 12, 2013",Michigan State Spartans,Indiana Hoosiers,"5-1, 2-0 Conf","3-3, 1-1 Conf",42,28,,,Final,ESPN2,0,21,14,7,,7,7,7,7,,NCAAF
+333060084,2013,"November 02, 2013",Indiana Hoosiers,Minnesota Golden Gophers,"3-5, 1-3 Conf","7-2, 3-2 Conf",39,42,,,Final,BTN,10,3,7,19,,7,21,7,7,,NCAAF
+333200275,2013,"November 16, 2013",Wisconsin Badgers,Indiana Hoosiers,"8-2, 5-1 Conf","4-6, 2-4 Conf",51,3,,,Final,ESPN2,20,7,10,14,,0,0,3,0,,NCAAF
+332410084,2013,"August 29, 2013",Indiana Hoosiers,Indiana State Sycamores,"1-0, 1-0 Home","0-1, 0-1 Away",73,35,,,Final,BTN,21,24,21,7,,7,14,7,7,,NCAAF
+332570084,2013,"September 14, 2013",Indiana Hoosiers,Bowling Green Falcons,"2-1, 2-1 Home","2-1, 1-1 Away",42,10,,,Final,ESPNU,7,14,7,14,,7,3,0,0,,NCAAF
+332780084,2013,"October 05, 2013",Indiana Hoosiers,Penn State Nittany Lions,"3-2, 1-0 Conf","3-2, 0-1 Conf",44,24,,,Final,BTN,7,6,8,23,,0,7,10,7,,NCAAF
+332920130,2013,"October 19, 2013",Michigan Wolverines,Indiana Hoosiers,"6-1, 2-1 Conf","3-4, 1-2 Conf",63,47,,,Final,BTN,14,14,14,21,,7,10,23,7,,NCAAF
+333130084,2013,"November 09, 2013",Indiana Hoosiers,Illinois Fighting Illini,"4-5, 2-3 Conf","3-6, 0-5 Conf",52,35,,,Final,BTN,14,7,14,17,,14,0,14,7,,NCAAF
+333270194,2013,"November 23, 2013",Ohio State Buckeyes,Indiana Hoosiers,"11-0, 7-0 Conf","4-7, 2-5 Conf",42,14,,,Final,ABC/ESPN2,14,14,7,7,,0,0,0,14,,NCAAF
+333340084,2013,"November 30, 2013",Indiana Hoosiers,Purdue Boilermakers,"5-7, 3-5 Conf","1-11, 0-8 Conf",56,36,,,Final,BTN,14,21,14,7,,0,9,7,20,,NCAAF

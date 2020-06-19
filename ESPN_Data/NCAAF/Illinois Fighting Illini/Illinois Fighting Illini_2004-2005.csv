@@ -1,12 +1,12 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-242550356,2004,"Sat, Sep 11",Illinois Fighting Illini,UCLA Bruins,"1-1, 0-0 Conf","1-1, 0-0 Conf",17,35,NULL,NULL,Final,ABC,0,7,7,3,NULL,14,7,7,7,NULL,NCAAF
-242690356,2004,"Sat, Sep 25",Illinois Fighting Illini,Purdue Boilermakers,"2-2, 0-1 Conf","3-0, 1-0 Conf",30,38,NULL,NULL,Final,NULL,10,10,3,7,NULL,10,14,7,7,NULL,NCAAF
-242830127,2004,"Sat, Oct 9",Michigan State Spartans,Illinois Fighting Illini,"3-3, 2-1 Conf","2-4, 0-3 Conf",38,25,NULL,NULL,Final,ESPN2,13,10,7,8,NULL,2,7,10,6,NULL,NCAAF
-242970135,2004,"Sat, Oct 23",Minnesota Golden Gophers,Illinois Fighting Illini,"6-2, 3-2 Conf","2-6, 0-5 Conf",45,0,NULL,NULL,Final,NULL,3,14,21,7,NULL,0,0,0,0,NULL,NCAAF
-243110356,2004,"Sat, Nov 6",Illinois Fighting Illini,Indiana Hoosiers,"3-7, 1-6 Conf","3-6, 1-5 Conf",26,22,NULL,NULL,Final,NULL,14,0,0,12,NULL,19,0,3,0,NULL,NCAAF
-242480356,2004,"Sat, Sep 4",Illinois Fighting Illini,Florida A&M Rattlers,"1-0, 1-0 Home","0-1, 0-1 Away",52,13,NULL,NULL,Final,NULL,7,24,21,0,NULL,0,0,0,13,NULL,NCAAF
-242620356,2004,"Sat, Sep 18",Illinois Fighting Illini,Western Michigan Broncos,"2-1, 2-1 Home","1-2, 0-2 Away",30,27,NULL,NULL,Final,NULL,14,6,3,7,NULL,7,6,7,7,NULL,NCAAF
-242760275,2004,"Sat, Oct 2",Wisconsin Badgers,Illinois Fighting Illini,"5-0, 2-0 Conf","2-3, 0-2 Conf",24,7,NULL,NULL,Final,NULL,0,10,7,7,NULL,0,0,0,7,NULL,NCAAF
-242900356,2004,"Sat, Oct 16",Illinois Fighting Illini,Michigan Wolverines,"2-5, 0-4 Conf","6-1, 4-0 Conf",19,30,NULL,NULL,Final,NULL,0,17,0,2,NULL,10,0,12,8,NULL,NCAAF
-243040356,2004,"Sat, Oct 30",Illinois Fighting Illini,Iowa Hawkeyes,"2-7, 0-6 Conf","6-2, 4-1 Conf",13,23,NULL,NULL,Final,NULL,7,0,0,6,NULL,0,7,16,0,NULL,NCAAF
-243250077,2004,"Sat, Nov 20",Northwestern Wildcats,Illinois Fighting Illini,"6-5, 5-3 Conf","3-8, 1-7 Conf",28,21,NULL,NULL,Final/OT,NULL,0,7,7,7,7,0,14,0,7,0,NCAAF
+242550356,2004,"September 11, 2004",Illinois Fighting Illini,UCLA Bruins,"1-1, 0-0 Conf","1-1, 0-0 Conf",17,35,,,Final,ABC,0,7,7,3,,14,7,7,7,,NCAAF
+242690356,2004,"September 25, 2004",Illinois Fighting Illini,Purdue Boilermakers,"2-2, 0-1 Conf","3-0, 1-0 Conf",30,38,,,Final,,10,10,3,7,,10,14,7,7,,NCAAF
+242830127,2004,"October 09, 2004",Michigan State Spartans,Illinois Fighting Illini,"3-3, 2-1 Conf","2-4, 0-3 Conf",38,25,,,Final,ESPN2,13,10,7,8,,2,7,10,6,,NCAAF
+242970135,2004,"October 23, 2004",Minnesota Golden Gophers,Illinois Fighting Illini,"6-2, 3-2 Conf","2-6, 0-5 Conf",45,0,,,Final,,3,14,21,7,,0,0,0,0,,NCAAF
+243110356,2004,"November 06, 2004",Illinois Fighting Illini,Indiana Hoosiers,"3-7, 1-6 Conf","3-6, 1-5 Conf",26,22,,,Final,,14,0,0,12,,19,0,3,0,,NCAAF
+242480356,2004,"September 04, 2004",Illinois Fighting Illini,Florida A&M Rattlers,"1-0, 1-0 Home","0-1, 0-1 Away",52,13,,,Final,,7,24,21,0,,0,0,0,13,,NCAAF
+242620356,2004,"September 18, 2004",Illinois Fighting Illini,Western Michigan Broncos,"2-1, 2-1 Home","1-2, 0-2 Away",30,27,,,Final,,14,6,3,7,,7,6,7,7,,NCAAF
+242760275,2004,"October 02, 2004",Wisconsin Badgers,Illinois Fighting Illini,"5-0, 2-0 Conf","2-3, 0-2 Conf",24,7,,,Final,,0,10,7,7,,0,0,0,7,,NCAAF
+242900356,2004,"October 16, 2004",Illinois Fighting Illini,Michigan Wolverines,"2-5, 0-4 Conf","6-1, 4-0 Conf",19,30,,,Final,,0,17,0,2,,10,0,12,8,,NCAAF
+243040356,2004,"October 30, 2004",Illinois Fighting Illini,Iowa Hawkeyes,"2-7, 0-6 Conf","6-2, 4-1 Conf",13,23,,,Final,,7,0,0,6,,0,7,16,0,,NCAAF
+243250077,2004,"November 20, 2004",Northwestern Wildcats,Illinois Fighting Illini,"6-5, 5-3 Conf","3-8, 1-7 Conf",28,21,,,Final/OT,,0,7,7,7,7.0,0,14,0,7,0.0,NCAAF

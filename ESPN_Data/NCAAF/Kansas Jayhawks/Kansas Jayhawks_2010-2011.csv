@@ -1,13 +1,13 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-302542305,2010,"Sat, Sep 11",Kansas Jayhawks,Georgia Tech Yellow Jackets,"1-1, 1-1 Home","1-1, 0-1 Away",28,25,NULL,NULL,Final,NULL,7,7,7,7,NULL,7,10,0,8,NULL,NCAAF
-302682305,2010,"Sat, Sep 25",Kansas Jayhawks,New Mexico State Aggies,"2-2, 2-1 Home","0-3, 0-2 Away",42,16,NULL,NULL,Final,NULL,7,14,14,7,NULL,0,7,0,9,NULL,NCAAF
-302872305,2010,"Thu, Oct 14",Kansas Jayhawks,Kansas State Wildcats,"2-4, 0-2 Conf","5-1, 2-1 Conf",7,59,NULL,NULL,Final,NULL,0,0,0,7,NULL,3,28,21,7,NULL,NCAAF
-303030066,2010,"Sat, Oct 30",Iowa State Cyclones,Kansas Jayhawks,"5-4, 3-2 Conf","2-6, 0-4 Conf",28,16,NULL,NULL,Final,NULL,0,7,21,0,NULL,6,3,0,7,NULL,NCAAF
-303170158,2010,"Sat, Nov 13",Nebraska Cornhuskers,Kansas Jayhawks,"9-1, 5-1 Conf","3-7, 1-5 Conf",20,3,NULL,NULL,Final,NULL,7,7,3,3,NULL,0,0,3,0,NULL,NCAAF
-302472305,2010,"Sat, Sep 4",Kansas Jayhawks,North Dakota State Bison,"0-1, 0-1 Home","1-0, 1-0 Away",3,6,NULL,NULL,Final,NULL,3,0,0,0,NULL,0,3,3,0,NULL,NCAAF
-302602572,2010,"Fri, Sep 17",Southern Mississippi Golden Eagles,Kansas Jayhawks,"2-1, 2-0 Home","1-2, 0-1 Away",31,16,NULL,NULL,Final,ESPN,7,14,7,3,NULL,0,3,7,6,NULL,NCAAF
-302750239,2010,"Sat, Oct 2",Baylor Bears,Kansas Jayhawks,"4-1, 1-0 Conf","2-3, 0-1 Conf",55,7,NULL,NULL,Final,NULL,10,17,21,7,NULL,0,7,0,0,NULL,NCAAF
-302962305,2010,"Sat, Oct 23",Kansas Jayhawks,Texas A&M Aggies,"2-5, 0-3 Conf","4-3, 1-2 Conf",10,45,NULL,NULL,Final,NULL,3,7,0,0,NULL,14,17,7,7,NULL,NCAAF
-303102305,2010,"Sat, Nov 6",Kansas Jayhawks,Colorado Buffaloes,"3-6, 1-4 Conf","3-6, 0-5 Conf",52,45,NULL,NULL,Final,NULL,3,7,7,35,NULL,14,21,3,7,NULL,NCAAF
-303242305,2010,"Sat, Nov 20",Kansas Jayhawks,Oklahoma State Cowboys,"3-8, 1-6 Conf","10-1, 6-1 Conf",14,48,NULL,NULL,Final,NULL,14,0,0,0,NULL,10,10,14,14,NULL,NCAAF
-303310142,2010,"Sat, Nov 27",Missouri Tigers,Kansas Jayhawks,"10-2, 6-2 Conf","3-9, 1-7 Conf",35,7,NULL,NULL,Final,NULL,14,7,7,7,NULL,0,0,7,0,NULL,NCAAF
+302542305,2010,"September 11, 2010",Kansas Jayhawks,Georgia Tech Yellow Jackets,"1-1, 1-1 Home","1-1, 0-1 Away",28,25,,,Final,,7,7,7,7,,7,10,0,8,,NCAAF
+302682305,2010,"September 25, 2010",Kansas Jayhawks,New Mexico State Aggies,"2-2, 2-1 Home","0-3, 0-2 Away",42,16,,,Final,,7,14,14,7,,0,7,0,9,,NCAAF
+302872305,2010,"October 14, 2010",Kansas Jayhawks,Kansas State Wildcats,"2-4, 0-2 Conf","5-1, 2-1 Conf",7,59,,,Final,,0,0,0,7,,3,28,21,7,,NCAAF
+303030066,2010,"October 30, 2010",Iowa State Cyclones,Kansas Jayhawks,"5-4, 3-2 Conf","2-6, 0-4 Conf",28,16,,,Final,,0,7,21,0,,6,3,0,7,,NCAAF
+303170158,2010,"November 13, 2010",Nebraska Cornhuskers,Kansas Jayhawks,"9-1, 5-1 Conf","3-7, 1-5 Conf",20,3,,,Final,,7,7,3,3,,0,0,3,0,,NCAAF
+302472305,2010,"September 04, 2010",Kansas Jayhawks,North Dakota State Bison,"0-1, 0-1 Home","1-0, 1-0 Away",3,6,,,Final,,3,0,0,0,,0,3,3,0,,NCAAF
+302602572,2010,"September 17, 2010",Southern Mississippi Golden Eagles,Kansas Jayhawks,"2-1, 2-0 Home","1-2, 0-1 Away",31,16,,,Final,ESPN,7,14,7,3,,0,3,7,6,,NCAAF
+302750239,2010,"October 02, 2010",Baylor Bears,Kansas Jayhawks,"4-1, 1-0 Conf","2-3, 0-1 Conf",55,7,,,Final,,10,17,21,7,,0,7,0,0,,NCAAF
+302962305,2010,"October 23, 2010",Kansas Jayhawks,Texas A&M Aggies,"2-5, 0-3 Conf","4-3, 1-2 Conf",10,45,,,Final,,3,7,0,0,,14,17,7,7,,NCAAF
+303102305,2010,"November 06, 2010",Kansas Jayhawks,Colorado Buffaloes,"3-6, 1-4 Conf","3-6, 0-5 Conf",52,45,,,Final,,3,7,7,35,,14,21,3,7,,NCAAF
+303242305,2010,"November 20, 2010",Kansas Jayhawks,Oklahoma State Cowboys,"3-8, 1-6 Conf","10-1, 6-1 Conf",14,48,,,Final,,14,0,0,0,,10,10,14,14,,NCAAF
+303310142,2010,"November 27, 2010",Missouri Tigers,Kansas Jayhawks,"10-2, 6-2 Conf","3-9, 1-7 Conf",35,7,,,Final,,14,7,7,7,,0,0,7,0,,NCAAF

@@ -1,13 +1,13 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-400938605,2017,"Sat, Sep 9",Ball State Cardinals,UAB Blazers,"1-1, 1-0 Home","1-1, 0-1 Away",51,31,NULL,NULL,Final,ESPN3,7,14,17,13,NULL,3,14,7,7,NULL,NCAAF
-400938621,2017,"Sat, Sep 23",Western Kentucky Hilltoppers,Ball State Cardinals,"2-2, 2-1 Home","2-2, 0-2 Away",33,21,NULL,NULL,Final,NULL,7,10,0,16,NULL,7,0,7,7,NULL,NCAAF
-400944988,2017,"Sat, Oct 7",Akron Zips,Ball State Cardinals,"3-3, 2-0 Conf","2-4, 0-2 Conf",31,3,NULL,NULL,Final,ESPN3,7,10,0,14,NULL,3,0,0,0,NULL,NCAAF
-400945006,2017,"Thu, Oct 26",Ball State Cardinals,Toledo Rockets,"2-6, 0-4 Conf","7-1, 4-0 Conf",17,58,NULL,NULL,Final,ESPN3,7,3,7,0,NULL,3,21,27,7,NULL,NCAAF
-400945018,2017,"Thu, Nov 9",Northern Illinois Huskies,Ball State Cardinals,"7-3, 5-1 Conf","2-8, 0-6 Conf",63,17,NULL,NULL,Final,CBSSN,21,14,14,14,NULL,7,0,10,0,NULL,NCAAF
-400935232,2017,"Sat, Sep 2",Illinois Fighting Illini,Ball State Cardinals,"1-0, 1-0 Home","0-1, 0-1 Away",24,21,NULL,NULL,Final,BTN,6,10,0,8,NULL,7,0,14,0,NULL,NCAAF
-400944900,2017,"Sat, Sep 16",Ball State Cardinals,Tennessee Tech Golden Eagles,"2-1, 2-0 Home","0-3, 0-2 Away",28,13,NULL,NULL,Final,ESPN3,7,14,7,0,NULL,0,7,6,0,NULL,NCAAF
-400944905,2017,"Sat, Sep 30",Western Michigan Broncos,Ball State Cardinals,"3-2, 1-0 Conf","2-3, 0-1 Conf",55,3,NULL,NULL,Final,ESPN3,14,17,17,7,NULL,0,0,3,0,NULL,NCAAF
-400945001,2017,"Sat, Oct 21",Ball State Cardinals,Central Michigan Chippewas,"2-5, 0-3 Conf","4-4, 2-2 Conf",9,56,NULL,NULL,Final,ESPN3,3,3,3,0,NULL,7,21,7,21,NULL,NCAAF
-400945011,2017,"Thu, Nov 2",Eastern Michigan Eagles,Ball State Cardinals,"3-6, 1-4 Conf","2-7, 0-5 Conf",56,14,NULL,NULL,Final,CBSSN,14,21,14,7,NULL,7,7,0,0,NULL,NCAAF
-400945024,2017,"Thu, Nov 16",Ball State Cardinals,Buffalo Bulls,"2-9, 0-7 Conf","5-6, 3-4 Conf",24,40,NULL,NULL,Final,CBSSN,0,10,7,7,NULL,10,13,14,3,NULL,NCAAF
-400945027,2017,"Tue, Nov 21",Ball State Cardinals,Miami (OH) RedHawks,"2-10, 0-8 Conf","5-7, 4-4 Conf",7,28,NULL,NULL,Final,ESPN3,0,0,0,7,NULL,14,14,0,0,NULL,NCAAF
+400938605,2017,"September 09, 2017",Ball State Cardinals,UAB Blazers,"1-1, 1-0 Home","1-1, 0-1 Away",51,31,,,Final,ESPN3,7,14,17,13,,3,14,7,7,,NCAAF
+400938621,2017,"September 23, 2017",Western Kentucky Hilltoppers,Ball State Cardinals,"2-2, 2-1 Home","2-2, 0-2 Away",33,21,,,Final,,7,10,0,16,,7,0,7,7,,NCAAF
+400944988,2017,"October 07, 2017",Akron Zips,Ball State Cardinals,"3-3, 2-0 Conf","2-4, 0-2 Conf",31,3,,,Final,ESPN3,7,10,0,14,,3,0,0,0,,NCAAF
+400945006,2017,"October 26, 2017",Ball State Cardinals,Toledo Rockets,"2-6, 0-4 Conf","7-1, 4-0 Conf",17,58,,,Final,ESPN3,7,3,7,0,,3,21,27,7,,NCAAF
+400945018,2017,"November 09, 2017",Northern Illinois Huskies,Ball State Cardinals,"7-3, 5-1 Conf","2-8, 0-6 Conf",63,17,,,Final,CBSSN,21,14,14,14,,7,0,10,0,,NCAAF
+400935232,2017,"September 02, 2017",Illinois Fighting Illini,Ball State Cardinals,"1-0, 1-0 Home","0-1, 0-1 Away",24,21,,,Final,BTN,6,10,0,8,,7,0,14,0,,NCAAF
+400944900,2017,"September 16, 2017",Ball State Cardinals,Tennessee Tech Golden Eagles,"2-1, 2-0 Home","0-3, 0-2 Away",28,13,,,Final,ESPN3,7,14,7,0,,0,7,6,0,,NCAAF
+400944905,2017,"September 30, 2017",Western Michigan Broncos,Ball State Cardinals,"3-2, 1-0 Conf","2-3, 0-1 Conf",55,3,,,Final,ESPN3,14,17,17,7,,0,0,3,0,,NCAAF
+400945001,2017,"October 21, 2017",Ball State Cardinals,Central Michigan Chippewas,"2-5, 0-3 Conf","4-4, 2-2 Conf",9,56,,,Final,ESPN3,3,3,3,0,,7,21,7,21,,NCAAF
+400945011,2017,"November 02, 2017",Eastern Michigan Eagles,Ball State Cardinals,"3-6, 1-4 Conf","2-7, 0-5 Conf",56,14,,,Final,CBSSN,14,21,14,7,,7,7,0,0,,NCAAF
+400945024,2017,"November 16, 2017",Ball State Cardinals,Buffalo Bulls,"2-9, 0-7 Conf","5-6, 3-4 Conf",24,40,,,Final,CBSSN,0,10,7,7,,10,13,14,3,,NCAAF
+400945027,2017,"November 21, 2017",Ball State Cardinals,Miami (OH) RedHawks,"2-10, 0-8 Conf","5-7, 4-4 Conf",7,28,,,Final,ESPN3,0,0,0,7,,14,14,0,0,,NCAAF

@@ -1,14 +1,14 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-302542633,2010,"Sat, Sep 11",Tennessee Volunteers,Oregon Ducks,"1-1, 1-1 Home","2-0, 1-0 Away",13,48,NULL,NULL,Final,ESPN2,6,7,0,0,NULL,3,10,14,21,NULL,NCAAF
-302680009,2010,"Sat, Sep 25",Arizona State Sun Devils,Oregon Ducks,"2-2, 0-1 Conf","4-0, 1-0 Conf",31,42,NULL,NULL,Final,NULL,7,17,7,0,NULL,14,14,14,0,NULL,NCAAF
-302820265,2010,"Sat, Oct 9",Washington State Cougars,Oregon Ducks,"1-5, 0-3 Conf","6-0, 3-0 Conf",23,43,NULL,NULL,Final,NULL,14,3,6,0,NULL,15,14,7,7,NULL,NCAAF
-303030030,2010,"Sat, Oct 30",USC Trojans,Oregon Ducks,"5-3, 2-3 Conf","8-0, 5-0 Conf",32,53,NULL,NULL,Final,ABC,10,7,15,0,NULL,8,21,14,10,NULL,NCAAF
-303170025,2010,"Sat, Nov 13",California Golden Bears,Oregon Ducks,"5-5, 3-4 Conf","10-0, 7-0 Conf",13,15,NULL,NULL,Final,NBCSN,7,0,6,0,NULL,0,8,7,0,NULL,NCAAF
-302472483,2010,"Sat, Sep 4",Oregon Ducks,New Mexico Lobos,"1-0, 0-0 Conf","0-1, 0-0 Conf",72,0,NULL,NULL,Final,NULL,28,31,6,7,NULL,0,0,0,0,NULL,NCAAF
-302612483,2010,"Sat, Sep 18",Oregon Ducks,Portland State Vikings,"3-0, 2-0 Home","1-2, 1-2 Away",69,0,NULL,NULL,Final,NULL,21,24,24,0,NULL,0,0,0,0,NULL,NCAAF
-302752483,2010,"Sat, Oct 2",Oregon Ducks,Stanford Cardinal,"5-0, 2-0 Conf","4-1, 1-1 Conf",52,31,NULL,NULL,Final,ABC,3,21,14,14,NULL,21,10,0,0,NULL,NCAAF
-302942483,2010,"Thu, Oct 21",Oregon Ducks,UCLA Bruins,"7-0, 4-0 Conf","3-4, 1-3 Conf",60,13,NULL,NULL,Final,ESPN,15,17,14,14,NULL,0,3,3,7,NULL,NCAAF
-303102483,2010,"Sat, Nov 6",Oregon Ducks,Washington Huskies,"9-0, 6-0 Conf","3-6, 2-4 Conf",53,16,NULL,NULL,Final,ABC/ESPN2,0,18,21,14,NULL,0,6,10,0,NULL,NCAAF
-303302483,2010,"Fri, Nov 26",Oregon Ducks,Arizona Wildcats,"11-0, 8-0 Conf","7-4, 4-4 Conf",48,29,NULL,NULL,Final,ESPN,7,7,20,14,NULL,14,5,3,7,NULL,NCAAF
-303380204,2010,"Sat, Dec 4",Oregon State Beavers,Oregon Ducks,"5-7, 4-5 Conf","12-0, 9-0 Conf",20,37,NULL,NULL,Final,ABC,7,0,3,10,NULL,6,10,7,14,NULL,NCAAF
-310102483,2010,"Mon, Jan 10",Oregon Ducks,Auburn Tigers,12-1,14-0,19,22,NULL,NULL,Final,ESPN,0,11,0,8,NULL,0,16,3,3,NULL,NCAAF
+302542633,2010,"September 11, 2010",Tennessee Volunteers,Oregon Ducks,"1-1, 1-1 Home","2-0, 1-0 Away",13,48,,,Final,ESPN2,6,7,0,0,,3,10,14,21,,NCAAF
+302680009,2010,"September 25, 2010",Arizona State Sun Devils,Oregon Ducks,"2-2, 0-1 Conf","4-0, 1-0 Conf",31,42,,,Final,,7,17,7,0,,14,14,14,0,,NCAAF
+302820265,2010,"October 09, 2010",Washington State Cougars,Oregon Ducks,"1-5, 0-3 Conf","6-0, 3-0 Conf",23,43,,,Final,,14,3,6,0,,15,14,7,7,,NCAAF
+303030030,2010,"October 30, 2010",USC Trojans,Oregon Ducks,"5-3, 2-3 Conf","8-0, 5-0 Conf",32,53,,,Final,ABC,10,7,15,0,,8,21,14,10,,NCAAF
+303170025,2010,"November 13, 2010",California Golden Bears,Oregon Ducks,"5-5, 3-4 Conf","10-0, 7-0 Conf",13,15,,,Final,NBCSN,7,0,6,0,,0,8,7,0,,NCAAF
+302472483,2010,"September 04, 2010",Oregon Ducks,New Mexico Lobos,"1-0, 0-0 Conf","0-1, 0-0 Conf",72,0,,,Final,,28,31,6,7,,0,0,0,0,,NCAAF
+302612483,2010,"September 18, 2010",Oregon Ducks,Portland State Vikings,"3-0, 2-0 Home","1-2, 1-2 Away",69,0,,,Final,,21,24,24,0,,0,0,0,0,,NCAAF
+302752483,2010,"October 02, 2010",Oregon Ducks,Stanford Cardinal,"5-0, 2-0 Conf","4-1, 1-1 Conf",52,31,,,Final,ABC,3,21,14,14,,21,10,0,0,,NCAAF
+302942483,2010,"October 21, 2010",Oregon Ducks,UCLA Bruins,"7-0, 4-0 Conf","3-4, 1-3 Conf",60,13,,,Final,ESPN,15,17,14,14,,0,3,3,7,,NCAAF
+303102483,2010,"November 06, 2010",Oregon Ducks,Washington Huskies,"9-0, 6-0 Conf","3-6, 2-4 Conf",53,16,,,Final,ABC/ESPN2,0,18,21,14,,0,6,10,0,,NCAAF
+303302483,2010,"November 26, 2010",Oregon Ducks,Arizona Wildcats,"11-0, 8-0 Conf","7-4, 4-4 Conf",48,29,,,Final,ESPN,7,7,20,14,,14,5,3,7,,NCAAF
+303380204,2010,"December 04, 2010",Oregon State Beavers,Oregon Ducks,"5-7, 4-5 Conf","12-0, 9-0 Conf",20,37,,,Final,ABC,7,0,3,10,,6,10,7,14,,NCAAF
+310102483,2010,"January 10, 2011",Oregon Ducks,Auburn Tigers,12-1,14-0,19,22,,,Final,ESPN,0,11,0,8,,0,16,3,3,,NCAAF

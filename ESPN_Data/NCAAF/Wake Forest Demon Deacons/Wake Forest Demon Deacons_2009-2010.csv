@@ -1,13 +1,13 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-292550154,2009,"Sat, Sep 12",Wake Forest Demon Deacons,Stanford Cardinal,"1-1, 1-1 Home","1-1, 1-1 Away",24,17,NULL,NULL,Final,NULL,3,0,7,14,NULL,7,10,0,0,NULL,NCAAF
-292690103,2009,"Sat, Sep 26",Boston College Eagles,Wake Forest Demon Deacons,"3-1, 1-1 Conf","2-2, 0-1 Conf",27,24,NULL,NULL,Final/OT,ESPN3,10,7,0,7,3,0,10,0,14,0,NCAAF
-292830154,2009,"Sat, Oct 10",Wake Forest Demon Deacons,Maryland Terrapins,"4-2, 2-1 Conf","2-4, 1-1 Conf",42,32,NULL,NULL,Final,ESPN3,21,14,7,0,NULL,7,3,7,15,NULL,NCAAF
-292972426,2009,"Sat, Oct 24",Navy Midshipmen,Wake Forest Demon Deacons,"6-2, 4-0 Home","4-4, 0-3 Away",13,10,NULL,NULL,Final,NULL,3,3,7,0,NULL,0,3,0,7,NULL,NCAAF
-293110059,2009,"Sat, Nov 7",Georgia Tech Yellow Jackets,Wake Forest Demon Deacons,"9-1, 6-1 Conf","4-6, 2-4 Conf",30,27,NULL,NULL,Final/OT,ABC,10,0,7,7,6,0,17,0,7,3,NCAAF
-292480154,2009,"Sat, Sep 5",Wake Forest Demon Deacons,Baylor Bears,"0-1, 0-1 Home","1-0, 1-0 Away",21,24,NULL,NULL,Final,BTN,0,7,7,7,NULL,10,0,14,0,NULL,NCAAF
-292620154,2009,"Sat, Sep 19",Wake Forest Demon Deacons,Elon Phoenix,"2-1, 2-1 Home","2-1, 1-1 Away",35,7,NULL,NULL,Final,NULL,14,7,14,0,NULL,0,0,0,7,NULL,NCAAF
-292760154,2009,"Sat, Oct 3",Wake Forest Demon Deacons,NC State Wolfpack,"3-2, 1-1 Conf","3-2, 0-1 Conf",30,24,NULL,NULL,Final,ESPNU,3,10,7,10,NULL,10,0,7,7,NULL,NCAAF
-292900228,2009,"Sat, Oct 17",Clemson Tigers,Wake Forest Demon Deacons,"3-3, 2-2 Conf","4-3, 2-2 Conf",38,3,NULL,NULL,Final,NULL,10,21,7,0,NULL,0,3,0,0,NULL,NCAAF
-293040154,2009,"Sat, Oct 31",Wake Forest Demon Deacons,Miami Hurricanes,"4-5, 2-3 Conf","6-2, 3-2 Conf",27,28,NULL,NULL,Final,ABC,10,10,7,0,NULL,0,14,0,14,NULL,NCAAF
-293180154,2009,"Sat, Nov 14",Wake Forest Demon Deacons,Florida State Seminoles,"4-7, 2-5 Conf","5-5, 3-4 Conf",28,41,NULL,NULL,Final,ESPNU,7,7,7,7,NULL,14,17,3,7,NULL,NCAAF
-293320150,2009,"Sat, Nov 28",Duke Blue Devils,Wake Forest Demon Deacons,"5-7, 3-5 Conf","5-7, 3-5 Conf",34,45,NULL,NULL,Final,NULL,14,3,3,14,NULL,14,7,14,10,NULL,NCAAF
+292550154,2009,"September 12, 2009",Wake Forest Demon Deacons,Stanford Cardinal,"1-1, 1-1 Home","1-1, 1-1 Away",24,17,,,Final,,3,0,7,14,,7,10,0,0,,NCAAF
+292690103,2009,"September 26, 2009",Boston College Eagles,Wake Forest Demon Deacons,"3-1, 1-1 Conf","2-2, 0-1 Conf",27,24,,,Final/OT,ESPN3,10,7,0,7,3.0,0,10,0,14,0.0,NCAAF
+292830154,2009,"October 10, 2009",Wake Forest Demon Deacons,Maryland Terrapins,"4-2, 2-1 Conf","2-4, 1-1 Conf",42,32,,,Final,ESPN3,21,14,7,0,,7,3,7,15,,NCAAF
+292972426,2009,"October 24, 2009",Navy Midshipmen,Wake Forest Demon Deacons,"6-2, 4-0 Home","4-4, 0-3 Away",13,10,,,Final,,3,3,7,0,,0,3,0,7,,NCAAF
+293110059,2009,"November 07, 2009",Georgia Tech Yellow Jackets,Wake Forest Demon Deacons,"9-1, 6-1 Conf","4-6, 2-4 Conf",30,27,,,Final/OT,ABC,10,0,7,7,6.0,0,17,0,7,3.0,NCAAF
+292480154,2009,"September 05, 2009",Wake Forest Demon Deacons,Baylor Bears,"0-1, 0-1 Home","1-0, 1-0 Away",21,24,,,Final,BTN,0,7,7,7,,10,0,14,0,,NCAAF
+292620154,2009,"September 19, 2009",Wake Forest Demon Deacons,Elon Phoenix,"2-1, 2-1 Home","2-1, 1-1 Away",35,7,,,Final,,14,7,14,0,,0,0,0,7,,NCAAF
+292760154,2009,"October 03, 2009",Wake Forest Demon Deacons,NC State Wolfpack,"3-2, 1-1 Conf","3-2, 0-1 Conf",30,24,,,Final,ESPNU,3,10,7,10,,10,0,7,7,,NCAAF
+292900228,2009,"October 17, 2009",Clemson Tigers,Wake Forest Demon Deacons,"3-3, 2-2 Conf","4-3, 2-2 Conf",38,3,,,Final,,10,21,7,0,,0,3,0,0,,NCAAF
+293040154,2009,"October 31, 2009",Wake Forest Demon Deacons,Miami Hurricanes,"4-5, 2-3 Conf","6-2, 3-2 Conf",27,28,,,Final,ABC,10,10,7,0,,0,14,0,14,,NCAAF
+293180154,2009,"November 14, 2009",Wake Forest Demon Deacons,Florida State Seminoles,"4-7, 2-5 Conf","5-5, 3-4 Conf",28,41,,,Final,ESPNU,7,7,7,7,,14,17,3,7,,NCAAF
+293320150,2009,"November 28, 2009",Duke Blue Devils,Wake Forest Demon Deacons,"5-7, 3-5 Conf","5-7, 3-5 Conf",34,45,,,Final,,14,3,3,14,,14,7,14,10,,NCAAF

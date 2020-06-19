@@ -1,13 +1,13 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-332502509,2013,"Sat, Sep 7",Purdue Boilermakers,Indiana State Sycamores,"1-1, 1-0 Home","0-2, 0-2 Away",20,14,NULL,NULL,Final,BTN,7,3,7,3,NULL,0,0,7,7,NULL,NCAAF
-332640275,2013,"Sat, Sep 21",Wisconsin Badgers,Purdue Boilermakers,"3-1, 1-0 Conf","1-3, 0-1 Conf",41,10,NULL,NULL,Final,ABC/ESPN2,14,10,10,7,NULL,0,10,0,0,NULL,NCAAF
-332852509,2013,"Sat, Oct 12",Purdue Boilermakers,Nebraska Cornhuskers,"1-5, 0-2 Conf","5-1, 2-0 Conf",7,44,NULL,NULL,Final,BTN,0,0,0,7,NULL,14,7,9,14,NULL,NCAAF
-333062509,2013,"Sat, Nov 2",Purdue Boilermakers,Ohio State Buckeyes,"1-7, 0-4 Conf","9-0, 5-0 Conf",0,56,NULL,NULL,Final,BTN,0,0,0,0,NULL,28,14,7,7,NULL,NCAAF
-333200213,2013,"Sat, Nov 16",Penn State Nittany Lions,Purdue Boilermakers,"6-4, 3-3 Conf","1-9, 0-6 Conf",45,21,NULL,NULL,Final,BTN,14,14,10,7,NULL,0,14,7,0,NULL,NCAAF
-332432132,2013,"Sat, Aug 31",Cincinnati Bearcats,Purdue Boilermakers,"1-0, 1-0 Home","0-1, 0-1 Away",42,7,NULL,NULL,Final,ESPNU,0,14,14,14,NULL,0,7,0,0,NULL,NCAAF
-332572509,2013,"Sat, Sep 14",Purdue Boilermakers,Notre Dame Fighting Irish,"1-2, 1-1 Home","2-1, 1-1 Away",24,31,NULL,NULL,Final,ABC,7,3,7,7,NULL,0,3,7,21,NULL,NCAAF
-332712509,2013,"Sat, Sep 28",Purdue Boilermakers,Northern Illinois Huskies,"1-4, 1-2 Home","4-0, 3-0 Away",24,55,NULL,NULL,Final,ESPN2,7,3,7,7,NULL,10,17,21,7,NULL,NCAAF
-332920127,2013,"Sat, Oct 19",Michigan State Spartans,Purdue Boilermakers,"6-1, 3-0 Conf","1-6, 0-3 Conf",14,0,NULL,NULL,Final,BTN,0,7,0,7,NULL,0,0,0,0,NULL,NCAAF
-333132509,2013,"Sat, Nov 9",Purdue Boilermakers,Iowa Hawkeyes,"1-8, 0-5 Conf","6-4, 3-3 Conf",14,38,NULL,NULL,Final,BTN,0,7,0,7,NULL,0,14,7,17,NULL,NCAAF
-333272509,2013,"Sat, Nov 23",Purdue Boilermakers,Illinois Fighting Illini,"1-10, 0-7 Conf","4-7, 1-6 Conf",16,20,NULL,NULL,Final,BTN,14,0,0,2,NULL,7,7,0,6,NULL,NCAAF
-333340084,2013,"Sat, Nov 30",Indiana Hoosiers,Purdue Boilermakers,"5-7, 3-5 Conf","1-11, 0-8 Conf",56,36,NULL,NULL,Final,BTN,14,21,14,7,NULL,0,9,7,20,NULL,NCAAF
+332502509,2013,"September 07, 2013",Purdue Boilermakers,Indiana State Sycamores,"1-1, 1-0 Home","0-2, 0-2 Away",20,14,,,Final,BTN,7,3,7,3,,0,0,7,7,,NCAAF
+332640275,2013,"September 21, 2013",Wisconsin Badgers,Purdue Boilermakers,"3-1, 1-0 Conf","1-3, 0-1 Conf",41,10,,,Final,ABC/ESPN2,14,10,10,7,,0,10,0,0,,NCAAF
+332852509,2013,"October 12, 2013",Purdue Boilermakers,Nebraska Cornhuskers,"1-5, 0-2 Conf","5-1, 2-0 Conf",7,44,,,Final,BTN,0,0,0,7,,14,7,9,14,,NCAAF
+333062509,2013,"November 02, 2013",Purdue Boilermakers,Ohio State Buckeyes,"1-7, 0-4 Conf","9-0, 5-0 Conf",0,56,,,Final,BTN,0,0,0,0,,28,14,7,7,,NCAAF
+333200213,2013,"November 16, 2013",Penn State Nittany Lions,Purdue Boilermakers,"6-4, 3-3 Conf","1-9, 0-6 Conf",45,21,,,Final,BTN,14,14,10,7,,0,14,7,0,,NCAAF
+332432132,2013,"August 31, 2013",Cincinnati Bearcats,Purdue Boilermakers,"1-0, 1-0 Home","0-1, 0-1 Away",42,7,,,Final,ESPNU,0,14,14,14,,0,7,0,0,,NCAAF
+332572509,2013,"September 14, 2013",Purdue Boilermakers,Notre Dame Fighting Irish,"1-2, 1-1 Home","2-1, 1-1 Away",24,31,,,Final,ABC,7,3,7,7,,0,3,7,21,,NCAAF
+332712509,2013,"September 28, 2013",Purdue Boilermakers,Northern Illinois Huskies,"1-4, 1-2 Home","4-0, 3-0 Away",24,55,,,Final,ESPN2,7,3,7,7,,10,17,21,7,,NCAAF
+332920127,2013,"October 19, 2013",Michigan State Spartans,Purdue Boilermakers,"6-1, 3-0 Conf","1-6, 0-3 Conf",14,0,,,Final,BTN,0,7,0,7,,0,0,0,0,,NCAAF
+333132509,2013,"November 09, 2013",Purdue Boilermakers,Iowa Hawkeyes,"1-8, 0-5 Conf","6-4, 3-3 Conf",14,38,,,Final,BTN,0,7,0,7,,0,14,7,17,,NCAAF
+333272509,2013,"November 23, 2013",Purdue Boilermakers,Illinois Fighting Illini,"1-10, 0-7 Conf","4-7, 1-6 Conf",16,20,,,Final,BTN,14,0,0,2,,7,7,0,6,,NCAAF
+333340084,2013,"November 30, 2013",Indiana Hoosiers,Purdue Boilermakers,"5-7, 3-5 Conf","1-11, 0-8 Conf",56,36,,,Final,BTN,14,21,14,7,,0,9,7,20,,NCAAF

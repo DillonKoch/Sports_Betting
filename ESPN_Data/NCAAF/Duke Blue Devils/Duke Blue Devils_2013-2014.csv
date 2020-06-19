@@ -1,15 +1,15 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-332500235,2013,"Sat, Sep 7",Memphis Tigers,Duke Blue Devils,"0-1, 0-1 Home","2-0, 1-0 Away",14,28,NULL,NULL,Final,ESPN3,0,7,0,7,NULL,7,0,7,14,NULL,NCAAF
-332640150,2013,"Sat, Sep 21",Duke Blue Devils,Pittsburgh Panthers,"2-2, 0-2 Conf","2-1, 1-1 Conf",55,58,NULL,NULL,Final,NULL,7,21,7,20,NULL,20,17,14,7,NULL,NCAAF
-332850150,2013,"Sat, Oct 12",Duke Blue Devils,Navy Midshipmen,"4-2, 3-2 Home","3-2, 1-2 Away",35,7,NULL,NULL,Final,NULL,0,14,14,7,NULL,0,7,0,0,NULL,NCAAF
-332990259,2013,"Sat, Oct 26",Virginia Tech Hokies,Duke Blue Devils,"6-2, 3-1 Conf","6-2, 2-2 Conf",10,13,NULL,NULL,Final,ESPNU,0,0,7,3,NULL,0,6,7,0,NULL,NCAAF
-333200150,2013,"Sat, Nov 16",Duke Blue Devils,Miami Hurricanes,"8-2, 4-2 Conf","7-3, 3-3 Conf",48,30,NULL,NULL,Final,ESPNU,7,14,10,17,NULL,17,3,10,0,NULL,NCAAF
-333340153,2013,"Sat, Nov 30",North Carolina Tar Heels,Duke Blue Devils,"6-6, 4-4 Conf","10-2, 6-2 Conf",25,27,NULL,NULL,Final,ESPN2,7,8,7,3,NULL,7,10,7,3,NULL,NCAAF
-332430150,2013,"Sat, Aug 31",Duke Blue Devils,North Carolina Central Eagles,"1-0, 1-0 Home","0-1, 0-1 Away",45,0,NULL,NULL,Final,ESPN3,14,14,14,3,NULL,0,0,0,0,NULL,NCAAF
-332570150,2013,"Sat, Sep 14",Duke Blue Devils,Georgia Tech Yellow Jackets,"2-1, 0-1 Conf","2-0, 1-0 Conf",14,38,NULL,NULL,Final,ESPNU,7,0,0,7,NULL,10,14,7,7,NULL,NCAAF
-332710150,2013,"Sat, Sep 28",Duke Blue Devils,Troy Trojans,"3-2, 2-2 Home","2-3, 0-3 Away",38,31,NULL,NULL,Final,ESPN3,14,14,7,3,NULL,7,14,7,3,NULL,NCAAF
-332920258,2013,"Sat, Oct 19",Virginia Cavaliers,Duke Blue Devils,"2-5, 0-3 Conf","5-2, 1-2 Conf",22,35,NULL,NULL,Final,NULL,14,8,0,0,NULL,0,7,10,18,NULL,NCAAF
-333130150,2013,"Sat, Nov 9",Duke Blue Devils,NC State Wolfpack,"7-2, 3-2 Conf","3-6, 0-6 Conf",38,20,NULL,NULL,Final,ESPNU,7,3,7,21,NULL,0,0,13,7,NULL,NCAAF
-333270154,2013,"Sat, Nov 23",Wake Forest Demon Deacons,Duke Blue Devils,"4-7, 2-6 Conf","9-2, 5-2 Conf",21,28,NULL,NULL,Final,ESPN2,7,7,7,0,NULL,0,14,14,0,NULL,NCAAF
-333650245,2013,"Tue, Dec 31",Texas A&M Aggies,Duke Blue Devils,9-4,10-4,52,48,NULL,NULL,Final,ESPN,3,14,14,21,NULL,14,24,3,7,NULL,NCAAF
-333410052,2013,"Sat, Dec 7",Florida State Seminoles,Duke Blue Devils,"13-0, 8-0 Conf","10-3, 6-2 Conf",45,7,NULL,NULL,Final,ABC,0,17,21,7,NULL,0,0,0,7,NULL,NCAAF
+332500235,2013,"September 07, 2013",Memphis Tigers,Duke Blue Devils,"0-1, 0-1 Home","2-0, 1-0 Away",14,28,,,Final,ESPN3,0,7,0,7,,7,0,7,14,,NCAAF
+332640150,2013,"September 21, 2013",Duke Blue Devils,Pittsburgh Panthers,"2-2, 0-2 Conf","2-1, 1-1 Conf",55,58,,,Final,,7,21,7,20,,20,17,14,7,,NCAAF
+332850150,2013,"October 12, 2013",Duke Blue Devils,Navy Midshipmen,"4-2, 3-2 Home","3-2, 1-2 Away",35,7,,,Final,,0,14,14,7,,0,7,0,0,,NCAAF
+332990259,2013,"October 26, 2013",Virginia Tech Hokies,Duke Blue Devils,"6-2, 3-1 Conf","6-2, 2-2 Conf",10,13,,,Final,ESPNU,0,0,7,3,,0,6,7,0,,NCAAF
+333200150,2013,"November 16, 2013",Duke Blue Devils,Miami Hurricanes,"8-2, 4-2 Conf","7-3, 3-3 Conf",48,30,,,Final,ESPNU,7,14,10,17,,17,3,10,0,,NCAAF
+333340153,2013,"November 30, 2013",North Carolina Tar Heels,Duke Blue Devils,"6-6, 4-4 Conf","10-2, 6-2 Conf",25,27,,,Final,ESPN2,7,8,7,3,,7,10,7,3,,NCAAF
+332430150,2013,"August 31, 2013",Duke Blue Devils,North Carolina Central Eagles,"1-0, 1-0 Home","0-1, 0-1 Away",45,0,,,Final,ESPN3,14,14,14,3,,0,0,0,0,,NCAAF
+332570150,2013,"September 14, 2013",Duke Blue Devils,Georgia Tech Yellow Jackets,"2-1, 0-1 Conf","2-0, 1-0 Conf",14,38,,,Final,ESPNU,7,0,0,7,,10,14,7,7,,NCAAF
+332710150,2013,"September 28, 2013",Duke Blue Devils,Troy Trojans,"3-2, 2-2 Home","2-3, 0-3 Away",38,31,,,Final,ESPN3,14,14,7,3,,7,14,7,3,,NCAAF
+332920258,2013,"October 19, 2013",Virginia Cavaliers,Duke Blue Devils,"2-5, 0-3 Conf","5-2, 1-2 Conf",22,35,,,Final,,14,8,0,0,,0,7,10,18,,NCAAF
+333130150,2013,"November 09, 2013",Duke Blue Devils,NC State Wolfpack,"7-2, 3-2 Conf","3-6, 0-6 Conf",38,20,,,Final,ESPNU,7,3,7,21,,0,0,13,7,,NCAAF
+333270154,2013,"November 23, 2013",Wake Forest Demon Deacons,Duke Blue Devils,"4-7, 2-6 Conf","9-2, 5-2 Conf",21,28,,,Final,ESPN2,7,7,7,0,,0,14,14,0,,NCAAF
+333650245,2013,"December 31, 2013",Texas A&M Aggies,Duke Blue Devils,9-4,10-4,52,48,,,Final,ESPN,3,14,14,21,,14,24,3,7,,NCAAF
+333410052,2013,"December 07, 2013",Florida State Seminoles,Duke Blue Devils,"13-0, 8-0 Conf","10-3, 6-2 Conf",45,7,,,Final,ABC,0,17,21,7,,0,0,0,7,,NCAAF

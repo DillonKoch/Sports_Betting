@@ -1,12 +1,12 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-252530239,2005,"Sat, Sep 10",Baylor Bears,Samford Bulldogs,"2-0, 1-0 Home","1-1, 0-1 Away",48,14,NULL,NULL,Final,NULL,10,14,7,17,NULL,0,7,7,0,NULL,NCAAF
-252740245,2005,"Sat, Oct 1",Texas A&M Aggies,Baylor Bears,"3-1, 1-0 Conf","3-1, 0-1 Conf",16,13,NULL,NULL,Final/OT,NULL,7,0,0,3,6,3,0,7,0,3,NCAAF
-252880239,2005,"Sat, Oct 15",Baylor Bears,Nebraska Cornhuskers,"4-2, 1-2 Conf","5-1, 2-1 Conf",14,23,NULL,NULL,Final,NULL,7,0,7,0,NULL,3,10,7,3,NULL,NCAAF
-253020239,2005,"Sat, Oct 29",Baylor Bears,Texas Tech Red Raiders,"4-4, 1-4 Conf","7-1, 4-1 Conf",0,28,NULL,NULL,Final,FSN,0,0,0,0,NULL,3,3,0,22,NULL,NCAAF
-253160142,2005,"Sat, Nov 12",Missouri Tigers,Baylor Bears,"6-4, 4-3 Conf","4-6, 1-6 Conf",31,16,NULL,NULL,Final,NULL,7,14,3,7,NULL,0,0,6,10,NULL,NCAAF
-252462567,2005,"Sat, Sep 3",SMU Mustangs,Baylor Bears,"0-1, 0-1 Home","1-0, 1-0 Away",23,28,NULL,NULL,Final,NULL,7,0,7,9,NULL,3,3,8,14,NULL,NCAAF
-252600349,2005,"Sat, Sep 17",Army Black Knights,Baylor Bears,"0-2, 0-1 Home","3-0, 2-0 Away",10,20,NULL,NULL,Final,NULL,0,3,0,7,NULL,6,7,0,7,NULL,NCAAF
-252810066,2005,"Sat, Oct 8",Iowa State Cyclones,Baylor Bears,"3-2, 0-2 Conf","4-1, 1-1 Conf",13,23,NULL,NULL,Final,NULL,3,10,0,0,NULL,10,0,3,10,NULL,NCAAF
-252950201,2005,"Sat, Oct 22",Oklahoma Sooners,Baylor Bears,"4-3, 3-1 Conf","4-3, 1-3 Conf",37,30,NULL,NULL,Final/OT,FSN,0,24,0,3,10,6,7,6,8,3,NCAAF
-253090239,2005,"Sat, Nov 5",Baylor Bears,Texas Longhorns,"4-5, 1-5 Conf","9-0, 6-0 Conf",0,62,NULL,NULL,Final,FSN,0,0,0,0,NULL,6,21,21,14,NULL,NCAAF
-253230239,2005,"Sat, Nov 19",Baylor Bears,Oklahoma State Cowboys,"5-6, 2-6 Conf","4-6, 1-6 Conf",44,34,NULL,NULL,Final,NULL,14,24,0,6,NULL,0,7,14,13,NULL,NCAAF
+252530239,2005,"September 10, 2005",Baylor Bears,Samford Bulldogs,"2-0, 1-0 Home","1-1, 0-1 Away",48,14,,,Final,,10,14,7,17,,0,7,7,0,,NCAAF
+252740245,2005,"October 01, 2005",Texas A&M Aggies,Baylor Bears,"3-1, 1-0 Conf","3-1, 0-1 Conf",16,13,,,Final/OT,,7,0,0,3,6.0,3,0,7,0,3.0,NCAAF
+252880239,2005,"October 15, 2005",Baylor Bears,Nebraska Cornhuskers,"4-2, 1-2 Conf","5-1, 2-1 Conf",14,23,,,Final,,7,0,7,0,,3,10,7,3,,NCAAF
+253020239,2005,"October 29, 2005",Baylor Bears,Texas Tech Red Raiders,"4-4, 1-4 Conf","7-1, 4-1 Conf",0,28,,,Final,FSN,0,0,0,0,,3,3,0,22,,NCAAF
+253160142,2005,"November 12, 2005",Missouri Tigers,Baylor Bears,"6-4, 4-3 Conf","4-6, 1-6 Conf",31,16,,,Final,,7,14,3,7,,0,0,6,10,,NCAAF
+252462567,2005,"September 03, 2005",SMU Mustangs,Baylor Bears,"0-1, 0-1 Home","1-0, 1-0 Away",23,28,,,Final,,7,0,7,9,,3,3,8,14,,NCAAF
+252600349,2005,"September 17, 2005",Army Black Knights,Baylor Bears,"0-2, 0-1 Home","3-0, 2-0 Away",10,20,,,Final,,0,3,0,7,,6,7,0,7,,NCAAF
+252810066,2005,"October 08, 2005",Iowa State Cyclones,Baylor Bears,"3-2, 0-2 Conf","4-1, 1-1 Conf",13,23,,,Final,,3,10,0,0,,10,0,3,10,,NCAAF
+252950201,2005,"October 22, 2005",Oklahoma Sooners,Baylor Bears,"4-3, 3-1 Conf","4-3, 1-3 Conf",37,30,,,Final/OT,FSN,0,24,0,3,10.0,6,7,6,8,3.0,NCAAF
+253090239,2005,"November 05, 2005",Baylor Bears,Texas Longhorns,"4-5, 1-5 Conf","9-0, 6-0 Conf",0,62,,,Final,FSN,0,0,0,0,,6,21,21,14,,NCAAF
+253230239,2005,"November 19, 2005",Baylor Bears,Oklahoma State Cowboys,"5-6, 2-6 Conf","4-6, 1-6 Conf",44,34,,,Final,,14,24,0,6,,0,7,14,13,,NCAAF

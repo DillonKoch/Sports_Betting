@@ -1,15 +1,15 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-401014986,2018,"Sat, Sep 8",Middle Tennessee Blue Raiders,UT Martin Skyhawks,"1-1, 1-0 Home","0-2, 0-2 Away",61,37,NULL,NULL,Final,ESPN+,14,12,21,14,NULL,7,10,7,13,NULL,NCAAF
-401015003,2018,"Sat, Sep 29",Middle Tennessee Blue Raiders,Florida Atlantic Owls,"2-2, 1-0 Conf","2-3, 0-1 Conf",25,24,FAU -2.5,64,Final,NULL,0,10,7,8,NULL,14,7,3,0,NULL,NCAAF
-401015014,2018,"Sat, Oct 13",Florida International Panthers,Middle Tennessee Blue Raiders,"4-2, 2-0 Conf","3-3, 2-1 Conf",24,21,FIU -2.0,61,Final,NULL,3,10,0,11,NULL,0,14,7,0,NULL,NCAAF
-401015029,2018,"Sat, Oct 27",Old Dominion Monarchs,Middle Tennessee Blue Raiders,"2-7, 1-5 Conf","5-3, 4-1 Conf",17,51,MTSU -4.0,63,Final,ESPN+,7,3,7,0,NULL,17,14,14,6,NULL,NCAAF
-401015041,2018,"Sat, Nov 10",UTEP Miners,Middle Tennessee Blue Raiders,"1-9, 1-5 Conf","7-3, 6-1 Conf",32,48,MTSU -13.5,48,Final,ESPN+,0,10,0,22,NULL,14,13,7,14,NULL,NCAAF
-401015053,2018,"Sat, Nov 24",Middle Tennessee Blue Raiders,UAB Blazers,"8-4, 7-1 Conf","9-3, 7-1 Conf",27,3,UAB -3.0,52,Final,ESPN3,0,13,7,7,NULL,3,0,0,0,NULL,NCAAF
-401012259,2018,"Sat, Sep 1",Vanderbilt Commodores,Middle Tennessee Blue Raiders,"1-0, 1-0 Home","0-1, 0-1 Away",35,7,VAN -3.0,57,Final,SECN,7,7,7,14,NULL,7,0,0,0,NULL,NCAAF
-401012275,2018,"Sat, Sep 15",Georgia Bulldogs,Middle Tennessee Blue Raiders,"3-0, 2-0 Home","1-2, 0-2 Away",49,7,UGA -34.0,60,Final,ESPNN,14,28,7,0,NULL,0,7,0,0,NULL,NCAAF
-401015010,2018,"Fri, Oct 5",Marshall Thundering Herd,Middle Tennessee Blue Raiders,"3-2, 1-1 Conf","3-2, 2-0 Conf",24,34,MRSH -3.0,51,Final,CBSSN,3,14,0,7,NULL,3,7,14,10,NULL,NCAAF
-401015019,2018,"Sat, Oct 20",Middle Tennessee Blue Raiders,Charlotte 49ers,"4-3, 3-1 Conf","3-4, 2-2 Conf",21,13,MTSU -15.0,50,Final,ESPN3,0,14,0,7,NULL,6,0,0,7,NULL,NCAAF
-401015034,2018,"Fri, Nov 2",Middle Tennessee Blue Raiders,Western Kentucky Hilltoppers,"6-3, 5-1 Conf","1-8, 0-5 Conf",29,10,MTSU -13.5,54,Final,CBSSN,10,10,3,6,NULL,3,0,7,0,NULL,NCAAF
-401012342,2018,"Sat, Nov 17",Kentucky Wildcats,Middle Tennessee Blue Raiders,"8-3, 6-1 Home","7-4, 3-4 Away",34,23,UK -16.5,49,Final,SECN,17,7,7,3,NULL,0,10,6,7,NULL,NCAAF
-401032057,2018,"Sat, Dec 15",Appalachian State Mountaineers,Middle Tennessee Blue Raiders,11-2,8-6,45,13,APP -6.5,50,Final,ESPN,0,24,14,7,NULL,3,3,7,0,NULL,NCAAF
-401056703,2018,"Sat, Dec 1",Middle Tennessee Blue Raiders,UAB Blazers,"8-5, 7-1 Conf","10-3, 7-1 Conf",25,27,MTSU -1.0,44,Final,CBSSN,13,3,6,3,NULL,3,21,0,3,NULL,NCAAF
+401014986,2018,"September 08, 2018",Middle Tennessee Blue Raiders,UT Martin Skyhawks,"1-1, 1-0 Home","0-2, 0-2 Away",61,37,,,Final,ESPN+,14,12,21,14,,7,10,7,13,,NCAAF
+401015003,2018,"September 29, 2018",Middle Tennessee Blue Raiders,Florida Atlantic Owls,"2-2, 1-0 Conf","2-3, 0-1 Conf",25,24,FAU -2.5,64.0,Final,,0,10,7,8,,14,7,3,0,,NCAAF
+401015014,2018,"October 13, 2018",Florida International Panthers,Middle Tennessee Blue Raiders,"4-2, 2-0 Conf","3-3, 2-1 Conf",24,21,FIU -2.0,61.0,Final,,3,10,0,11,,0,14,7,0,,NCAAF
+401015029,2018,"October 27, 2018",Old Dominion Monarchs,Middle Tennessee Blue Raiders,"2-7, 1-5 Conf","5-3, 4-1 Conf",17,51,MTSU -4.0,63.0,Final,ESPN+,7,3,7,0,,17,14,14,6,,NCAAF
+401015041,2018,"November 10, 2018",UTEP Miners,Middle Tennessee Blue Raiders,"1-9, 1-5 Conf","7-3, 6-1 Conf",32,48,MTSU -13.5,48.0,Final,ESPN+,0,10,0,22,,14,13,7,14,,NCAAF
+401015053,2018,"November 24, 2018",Middle Tennessee Blue Raiders,UAB Blazers,"8-4, 7-1 Conf","9-3, 7-1 Conf",27,3,UAB -3.0,52.0,Final,ESPN3,0,13,7,7,,3,0,0,0,,NCAAF
+401012259,2018,"September 01, 2018",Vanderbilt Commodores,Middle Tennessee Blue Raiders,"1-0, 1-0 Home","0-1, 0-1 Away",35,7,VAN -3.0,57.0,Final,SECN,7,7,7,14,,7,0,0,0,,NCAAF
+401012275,2018,"September 15, 2018",Georgia Bulldogs,Middle Tennessee Blue Raiders,"3-0, 2-0 Home","1-2, 0-2 Away",49,7,UGA -34.0,60.0,Final,ESPNN,14,28,7,0,,0,7,0,0,,NCAAF
+401015010,2018,"October 05, 2018",Marshall Thundering Herd,Middle Tennessee Blue Raiders,"3-2, 1-1 Conf","3-2, 2-0 Conf",24,34,MRSH -3.0,51.0,Final,CBSSN,3,14,0,7,,3,7,14,10,,NCAAF
+401015019,2018,"October 20, 2018",Middle Tennessee Blue Raiders,Charlotte 49ers,"4-3, 3-1 Conf","3-4, 2-2 Conf",21,13,MTSU -15.0,50.0,Final,ESPN3,0,14,0,7,,6,0,0,7,,NCAAF
+401015034,2018,"November 02, 2018",Middle Tennessee Blue Raiders,Western Kentucky Hilltoppers,"6-3, 5-1 Conf","1-8, 0-5 Conf",29,10,MTSU -13.5,54.0,Final,CBSSN,10,10,3,6,,3,0,7,0,,NCAAF
+401012342,2018,"November 17, 2018",Kentucky Wildcats,Middle Tennessee Blue Raiders,"8-3, 6-1 Home","7-4, 3-4 Away",34,23,UK -16.5,49.0,Final,SECN,17,7,7,3,,0,10,6,7,,NCAAF
+401032057,2018,"December 15, 2018",Appalachian State Mountaineers,Middle Tennessee Blue Raiders,11-2,8-6,45,13,APP -6.5,50.0,Final,ESPN,0,24,14,7,,3,3,7,0,,NCAAF
+401056703,2018,"December 01, 2018",Middle Tennessee Blue Raiders,UAB Blazers,"8-5, 7-1 Conf","10-3, 7-1 Conf",25,27,MTSU -1.0,44.0,Final,CBSSN,13,3,6,3,,3,21,0,3,,NCAAF

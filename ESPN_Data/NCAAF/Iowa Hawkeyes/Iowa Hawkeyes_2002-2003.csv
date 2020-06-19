@@ -1,14 +1,14 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-222500193,2002,"Sat, Sep 7",Miami (OH) RedHawks,Iowa Hawkeyes,"1-1, 0-1 Home","2-0, 1-0 Away",24,29,NULL,NULL,Final,NULL,0,10,7,7,NULL,7,6,9,7,NULL,NCAAF
-222642294,2002,"Sat, Sep 21",Iowa Hawkeyes,Utah State Aggies,"3-1, 2-1 Home","1-3, 0-2 Away",48,7,NULL,NULL,Final,NULL,14,10,24,0,NULL,0,7,0,0,NULL,NCAAF
-222782294,2002,"Sat, Oct 5",Iowa Hawkeyes,Purdue Boilermakers,"5-1, 2-0 Conf","3-3, 1-1 Conf",31,28,NULL,NULL,Final,NULL,3,7,14,7,NULL,7,7,0,14,NULL,NCAAF
-222920084,2002,"Sat, Oct 19",Indiana Hoosiers,Iowa Hawkeyes,"3-4, 1-2 Conf","7-1, 4-0 Conf",8,24,NULL,NULL,Final,NULL,0,0,3,5,NULL,17,0,0,7,NULL,NCAAF
-223062294,2002,"Sat, Nov 2",Iowa Hawkeyes,Wisconsin Badgers,"9-1, 6-0 Conf","6-4, 1-4 Conf",20,3,NULL,NULL,Final,ESPN,0,10,10,0,NULL,0,3,0,0,NULL,NCAAF
-222432294,2002,"Sat, Aug 31",Iowa Hawkeyes,Akron Zips,"1-0, 1-0 Home","0-1, 0-1 Away",57,21,NULL,NULL,Final,NULL,37,14,3,3,NULL,0,14,7,0,NULL,NCAAF
-222572294,2002,"Sat, Sep 14",Iowa Hawkeyes,Iowa State Cyclones,"2-1, 1-1 Home","3-1, 1-0 Away",31,36,NULL,NULL,Final,NULL,7,17,0,7,NULL,7,0,23,6,NULL,NCAAF
-222710213,2002,"Sat, Sep 28",Penn State Nittany Lions,Iowa Hawkeyes,"3-1, 0-1 Conf","4-1, 1-0 Conf",35,42,NULL,NULL,Final/OT,NULL,0,7,6,22,0,17,9,9,0,7,NCAAF
-222852294,2002,"Sat, Oct 12",Iowa Hawkeyes,Michigan State Spartans,"6-1, 3-0 Conf","3-3, 1-1 Conf",44,16,NULL,NULL,Final,NULL,17,10,17,0,NULL,7,0,0,9,NULL,NCAAF
-222990130,2002,"Sat, Oct 26",Michigan Wolverines,Iowa Hawkeyes,"6-2, 3-1 Conf","8-1, 5-0 Conf",9,34,NULL,NULL,Final,ESPN,0,6,3,0,NULL,10,0,14,10,NULL,NCAAF
-223132294,2002,"Sat, Nov 9",Iowa Hawkeyes,Northwestern Wildcats,"10-1, 7-0 Conf","3-8, 1-6 Conf",62,10,NULL,NULL,Final,ESPN2,14,21,21,6,NULL,7,3,0,0,NULL,NCAAF
-223200135,2002,"Sat, Nov 16",Minnesota Golden Gophers,Iowa Hawkeyes,"7-4, 3-4 Conf","11-1, 8-0 Conf",21,45,NULL,NULL,Final,ESPN,7,7,7,0,NULL,14,14,7,10,NULL,NCAAF
-230020030,2002,"Thu, Jan 2",USC Trojans,Iowa Hawkeyes,"11-2, 7-0 Home","11-2, 5-1 Away",38,17,NULL,NULL,Final,NULL,7,3,14,14,NULL,10,0,0,7,NULL,NCAAF
+222500193,2002,"September 07, 2002",Miami (OH) RedHawks,Iowa Hawkeyes,"1-1, 0-1 Home","2-0, 1-0 Away",24,29,,,Final,,0,10,7,7,,7,6,9,7,,NCAAF
+222642294,2002,"September 21, 2002",Iowa Hawkeyes,Utah State Aggies,"3-1, 2-1 Home","1-3, 0-2 Away",48,7,,,Final,,14,10,24,0,,0,7,0,0,,NCAAF
+222782294,2002,"October 05, 2002",Iowa Hawkeyes,Purdue Boilermakers,"5-1, 2-0 Conf","3-3, 1-1 Conf",31,28,,,Final,,3,7,14,7,,7,7,0,14,,NCAAF
+222920084,2002,"October 19, 2002",Indiana Hoosiers,Iowa Hawkeyes,"3-4, 1-2 Conf","7-1, 4-0 Conf",8,24,,,Final,,0,0,3,5,,17,0,0,7,,NCAAF
+223062294,2002,"November 02, 2002",Iowa Hawkeyes,Wisconsin Badgers,"9-1, 6-0 Conf","6-4, 1-4 Conf",20,3,,,Final,ESPN,0,10,10,0,,0,3,0,0,,NCAAF
+222432294,2002,"August 31, 2002",Iowa Hawkeyes,Akron Zips,"1-0, 1-0 Home","0-1, 0-1 Away",57,21,,,Final,,37,14,3,3,,0,14,7,0,,NCAAF
+222572294,2002,"September 14, 2002",Iowa Hawkeyes,Iowa State Cyclones,"2-1, 1-1 Home","3-1, 1-0 Away",31,36,,,Final,,7,17,0,7,,7,0,23,6,,NCAAF
+222710213,2002,"September 28, 2002",Penn State Nittany Lions,Iowa Hawkeyes,"3-1, 0-1 Conf","4-1, 1-0 Conf",35,42,,,Final/OT,,0,7,6,22,0.0,17,9,9,0,7.0,NCAAF
+222852294,2002,"October 12, 2002",Iowa Hawkeyes,Michigan State Spartans,"6-1, 3-0 Conf","3-3, 1-1 Conf",44,16,,,Final,,17,10,17,0,,7,0,0,9,,NCAAF
+222990130,2002,"October 26, 2002",Michigan Wolverines,Iowa Hawkeyes,"6-2, 3-1 Conf","8-1, 5-0 Conf",9,34,,,Final,ESPN,0,6,3,0,,10,0,14,10,,NCAAF
+223132294,2002,"November 09, 2002",Iowa Hawkeyes,Northwestern Wildcats,"10-1, 7-0 Conf","3-8, 1-6 Conf",62,10,,,Final,ESPN2,14,21,21,6,,7,3,0,0,,NCAAF
+223200135,2002,"November 16, 2002",Minnesota Golden Gophers,Iowa Hawkeyes,"7-4, 3-4 Conf","11-1, 8-0 Conf",21,45,,,Final,ESPN,7,7,7,0,,14,14,7,10,,NCAAF
+230020030,2002,"January 02, 2003",USC Trojans,Iowa Hawkeyes,"11-2, 7-0 Home","11-2, 5-1 Away",38,17,,,Final,,7,3,14,14,,10,0,0,7,,NCAAF

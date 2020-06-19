@@ -1,14 +1,14 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-400547652,2014,"Sat, Sep 6",UCLA Bruins,Memphis Tigers,"2-0, 1-0 Home","1-1, 0-1 Away",42,35,NULL,NULL,Final,PAC12,13,15,7,7,NULL,7,14,0,14,NULL,NCAAF
-400547676,2014,"Sat, Sep 27",Ole Miss Rebels,Memphis Tigers,"4-0, 2-0 Home","2-2, 0-2 Away",24,3,NULL,NULL,Final,NULL,7,0,0,17,NULL,3,0,0,0,NULL,NCAAF
-400547690,2014,"Sat, Oct 11",Memphis Tigers,Houston Cougars,"3-3, 1-1 Conf","3-3, 1-1 Conf",24,28,NULL,NULL,Final,CBSSN,7,14,0,3,NULL,0,14,7,7,NULL,NCAAF
-400547701,2014,"Fri, Oct 31",Memphis Tigers,Tulsa Golden Hurricane,"5-3, 3-1 Conf","1-7, 1-3 Conf",40,20,NULL,NULL,Final,ESPNU,0,20,6,14,NULL,7,7,0,6,NULL,NCAAF
-400547711,2014,"Sat, Nov 15",Tulane Green Wave,Memphis Tigers,"3-7, 2-4 Conf","7-3, 5-1 Conf",7,38,NULL,NULL,Final,ESPNU,0,0,0,7,NULL,7,3,21,7,NULL,NCAAF
-400547645,2014,"Sat, Aug 30",Memphis Tigers,Austin Peay Governors,"1-0, 1-0 Home","0-1, 0-1 Away",63,0,NULL,NULL,Final,ESPN3,21,21,14,7,NULL,0,0,0,0,NULL,NCAAF
-400547670,2014,"Sat, Sep 20",Memphis Tigers,Middle Tennessee Blue Raiders,"2-1, 2-0 Home","2-2, 0-2 Away",36,17,NULL,NULL,Final,ESPN3,9,10,3,14,NULL,7,0,3,7,NULL,NCAAF
-400547683,2014,"Sat, Oct 4",Cincinnati Bearcats,Memphis Tigers,"2-2, 0-1 Conf","3-2, 1-0 Conf",14,41,NULL,NULL,Final,CBSSN,7,0,7,0,NULL,24,3,14,0,NULL,NCAAF
-400547699,2014,"Sat, Oct 25",SMU Mustangs,Memphis Tigers,"0-7, 0-3 Conf","4-3, 2-1 Conf",10,48,NULL,NULL,Final,ESPNN,0,7,3,0,NULL,7,24,10,7,NULL,NCAAF
-400550749,2014,"Fri, Nov 7",Temple Owls,Memphis Tigers,"5-4, 3-3 Conf","6-3, 4-1 Conf",13,16,NULL,NULL,Final,ESPNU,10,0,0,3,NULL,0,10,3,3,NULL,NCAAF
-400547718,2014,"Sat, Nov 22",Memphis Tigers,South Florida Bulls,"8-3, 6-1 Conf","4-7, 3-4 Conf",31,20,NULL,NULL,Final,ESPNN,14,7,7,3,NULL,3,10,0,7,NULL,NCAAF
-400547723,2014,"Sat, Nov 29",Memphis Tigers,Connecticut Huskies,"9-3, 7-1 Conf","2-9, 1-6 Conf",41,10,NULL,NULL,Final,ESPNN,6,7,21,7,NULL,0,3,0,7,NULL,NCAAF
-400610225,2014,"Mon, Dec 22",Memphis Tigers,BYU Cougars,10-3,8-5,55,48,NULL,NULL,Final/2OT,ESPN,17,7,14,7,10,14,14,0,17,3,NCAAF
+400547652,2014,"September 06, 2014",UCLA Bruins,Memphis Tigers,"2-0, 1-0 Home","1-1, 0-1 Away",42,35,,,Final,PAC12,13,15,7,7,,7,14,0,14,,NCAAF
+400547676,2014,"September 27, 2014",Ole Miss Rebels,Memphis Tigers,"4-0, 2-0 Home","2-2, 0-2 Away",24,3,,,Final,,7,0,0,17,,3,0,0,0,,NCAAF
+400547690,2014,"October 11, 2014",Memphis Tigers,Houston Cougars,"3-3, 1-1 Conf","3-3, 1-1 Conf",24,28,,,Final,CBSSN,7,14,0,3,,0,14,7,7,,NCAAF
+400547701,2014,"October 31, 2014",Memphis Tigers,Tulsa Golden Hurricane,"5-3, 3-1 Conf","1-7, 1-3 Conf",40,20,,,Final,ESPNU,0,20,6,14,,7,7,0,6,,NCAAF
+400547711,2014,"November 15, 2014",Tulane Green Wave,Memphis Tigers,"3-7, 2-4 Conf","7-3, 5-1 Conf",7,38,,,Final,ESPNU,0,0,0,7,,7,3,21,7,,NCAAF
+400547645,2014,"August 30, 2014",Memphis Tigers,Austin Peay Governors,"1-0, 1-0 Home","0-1, 0-1 Away",63,0,,,Final,ESPN3,21,21,14,7,,0,0,0,0,,NCAAF
+400547670,2014,"September 20, 2014",Memphis Tigers,Middle Tennessee Blue Raiders,"2-1, 2-0 Home","2-2, 0-2 Away",36,17,,,Final,ESPN3,9,10,3,14,,7,0,3,7,,NCAAF
+400547683,2014,"October 04, 2014",Cincinnati Bearcats,Memphis Tigers,"2-2, 0-1 Conf","3-2, 1-0 Conf",14,41,,,Final,CBSSN,7,0,7,0,,24,3,14,0,,NCAAF
+400547699,2014,"October 25, 2014",SMU Mustangs,Memphis Tigers,"0-7, 0-3 Conf","4-3, 2-1 Conf",10,48,,,Final,ESPNN,0,7,3,0,,7,24,10,7,,NCAAF
+400550749,2014,"November 07, 2014",Temple Owls,Memphis Tigers,"5-4, 3-3 Conf","6-3, 4-1 Conf",13,16,,,Final,ESPNU,10,0,0,3,,0,10,3,3,,NCAAF
+400547718,2014,"November 22, 2014",Memphis Tigers,South Florida Bulls,"8-3, 6-1 Conf","4-7, 3-4 Conf",31,20,,,Final,ESPNN,14,7,7,3,,3,10,0,7,,NCAAF
+400547723,2014,"November 29, 2014",Memphis Tigers,Connecticut Huskies,"9-3, 7-1 Conf","2-9, 1-6 Conf",41,10,,,Final,ESPNN,6,7,21,7,,0,3,0,7,,NCAAF
+400610225,2014,"December 22, 2014",Memphis Tigers,BYU Cougars,10-3,8-5,55,48,,,Final/2OT,ESPN,17,7,14,7,10.0,14,14,0,17,3.0,NCAAF

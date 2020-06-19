@@ -1,14 +1,14 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-262520087,2006,"Sat, Sep 9",Notre Dame Fighting Irish,Penn State Nittany Lions,"2-0, 1-0 Home","1-1, 0-1 Away",41,17,NULL,NULL,Final,NBC,3,17,14,7,NULL,0,0,3,14,NULL,NCAAF
-262660127,2006,"Sat, Sep 23",Michigan State Spartans,Notre Dame Fighting Irish,"3-1, 2-1 Home","3-1, 2-0 Away",37,40,NULL,NULL,Final,ABC,17,14,6,0,NULL,0,14,7,19,NULL,NCAAF
-262800087,2006,"Sat, Oct 7",Notre Dame Fighting Irish,Stanford Cardinal,"5-1, 3-1 Home","0-6, 0-4 Away",31,10,NULL,NULL,Final,NBC,7,7,10,7,NULL,3,0,0,7,NULL,NCAAF
-263012426,2006,"Sat, Oct 28",Navy Midshipmen,Notre Dame Fighting Irish,"5-3, 2-3 Home","7-1, 3-0 Away",14,38,NULL,NULL,Final,CBS,0,14,0,0,NULL,10,14,7,7,NULL,NCAAF
-263152005,2006,"Sat, Nov 11",Air Force Falcons,Notre Dame Fighting Irish,"4-5, 2-3 Home","9-1, 4-0 Away",17,39,NULL,NULL,Final,CBSSN,3,0,7,7,NULL,20,7,6,6,NULL,NCAAF
-262450059,2006,"Sat, Sep 2",Georgia Tech Yellow Jackets,Notre Dame Fighting Irish,"0-1, 0-1 Home","1-0, 1-0 Away",10,14,NULL,NULL,Final,ABC,7,3,0,0,NULL,0,7,7,0,NULL,NCAAF
-262590087,2006,"Sat, Sep 16",Notre Dame Fighting Irish,Michigan Wolverines,"2-1, 1-1 Home","3-0, 1-0 Away",21,47,NULL,NULL,Final,NBC,7,7,0,7,NULL,20,14,6,7,NULL,NCAAF
-262730087,2006,"Sat, Sep 30",Notre Dame Fighting Irish,Purdue Boilermakers,"4-1, 2-1 Home","4-1, 0-1 Away",35,21,NULL,NULL,Final,NBC,14,14,7,0,NULL,7,7,0,7,NULL,NCAAF
-262940087,2006,"Sat, Oct 21",Notre Dame Fighting Irish,UCLA Bruins,"6-1, 4-1 Home","4-3, 0-3 Away",20,17,NULL,NULL,Final,NBC,7,3,3,7,NULL,0,14,0,3,NULL,NCAAF
-263080087,2006,"Sat, Nov 4",Notre Dame Fighting Irish,North Carolina Tar Heels,"8-1, 5-1 Home","1-8, 0-4 Away",45,26,NULL,NULL,Final,NBC,14,17,7,7,NULL,7,6,13,0,NULL,NCAAF
-263220087,2006,"Sat, Nov 18",Notre Dame Fighting Irish,Army Black Knights,"10-1, 6-1 Home","3-8, 1-5 Away",41,9,NULL,NULL,Final,NBC,0,20,14,7,NULL,3,0,0,6,NULL,NCAAF
-263290030,2006,"Sat, Nov 25",USC Trojans,Notre Dame Fighting Irish,"10-1, 6-0 Home","10-2, 4-1 Away",44,24,NULL,NULL,Final,ABC,14,7,7,16,NULL,3,7,7,7,NULL,NCAAF
-270030099,2006,"Wed, Jan 3",LSU Tigers,Notre Dame Fighting Irish,"11-2, 9-0 Home","10-3, 4-2 Away",41,14,NULL,NULL,Final,FOX,14,7,13,7,NULL,7,7,0,0,NULL,NCAAF
+262520087,2006,"September 09, 2006",Notre Dame Fighting Irish,Penn State Nittany Lions,"2-0, 1-0 Home","1-1, 0-1 Away",41,17,,,Final,NBC,3,17,14,7,,0,0,3,14,,NCAAF
+262660127,2006,"September 23, 2006",Michigan State Spartans,Notre Dame Fighting Irish,"3-1, 2-1 Home","3-1, 2-0 Away",37,40,,,Final,ABC,17,14,6,0,,0,14,7,19,,NCAAF
+262800087,2006,"October 07, 2006",Notre Dame Fighting Irish,Stanford Cardinal,"5-1, 3-1 Home","0-6, 0-4 Away",31,10,,,Final,NBC,7,7,10,7,,3,0,0,7,,NCAAF
+263012426,2006,"October 28, 2006",Navy Midshipmen,Notre Dame Fighting Irish,"5-3, 2-3 Home","7-1, 3-0 Away",14,38,,,Final,CBS,0,14,0,0,,10,14,7,7,,NCAAF
+263152005,2006,"November 11, 2006",Air Force Falcons,Notre Dame Fighting Irish,"4-5, 2-3 Home","9-1, 4-0 Away",17,39,,,Final,CBSSN,3,0,7,7,,20,7,6,6,,NCAAF
+262450059,2006,"September 02, 2006",Georgia Tech Yellow Jackets,Notre Dame Fighting Irish,"0-1, 0-1 Home","1-0, 1-0 Away",10,14,,,Final,ABC,7,3,0,0,,0,7,7,0,,NCAAF
+262590087,2006,"September 16, 2006",Notre Dame Fighting Irish,Michigan Wolverines,"2-1, 1-1 Home","3-0, 1-0 Away",21,47,,,Final,NBC,7,7,0,7,,20,14,6,7,,NCAAF
+262730087,2006,"September 30, 2006",Notre Dame Fighting Irish,Purdue Boilermakers,"4-1, 2-1 Home","4-1, 0-1 Away",35,21,,,Final,NBC,14,14,7,0,,7,7,0,7,,NCAAF
+262940087,2006,"October 21, 2006",Notre Dame Fighting Irish,UCLA Bruins,"6-1, 4-1 Home","4-3, 0-3 Away",20,17,,,Final,NBC,7,3,3,7,,0,14,0,3,,NCAAF
+263080087,2006,"November 04, 2006",Notre Dame Fighting Irish,North Carolina Tar Heels,"8-1, 5-1 Home","1-8, 0-4 Away",45,26,,,Final,NBC,14,17,7,7,,7,6,13,0,,NCAAF
+263220087,2006,"November 18, 2006",Notre Dame Fighting Irish,Army Black Knights,"10-1, 6-1 Home","3-8, 1-5 Away",41,9,,,Final,NBC,0,20,14,7,,3,0,0,6,,NCAAF
+263290030,2006,"November 25, 2006",USC Trojans,Notre Dame Fighting Irish,"10-1, 6-0 Home","10-2, 4-1 Away",44,24,,,Final,ABC,14,7,7,16,,3,7,7,7,,NCAAF
+270030099,2006,"January 03, 2007",LSU Tigers,Notre Dame Fighting Irish,"11-2, 9-0 Home","10-3, 4-2 Away",41,14,,,Final,FOX,14,7,13,7,,7,7,0,0,,NCAAF

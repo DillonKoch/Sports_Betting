@@ -1,13 +1,13 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-332500077,2013,"Sat, Sep 7",Northwestern Wildcats,Syracuse Orange,"2-0, 1-0 Home","0-2, 0-2 Away",48,27,NULL,NULL,Final,BTN,10,24,0,14,NULL,0,7,6,14,NULL,NCAAF
-332640077,2013,"Sat, Sep 21",Northwestern Wildcats,Maine Black Bears,"4-0, 3-0 Home","3-1, 2-1 Away",35,21,NULL,NULL,Final,BTN,7,7,7,14,NULL,0,0,7,14,NULL,NCAAF
-332850275,2013,"Sat, Oct 12",Wisconsin Badgers,Northwestern Wildcats,"4-2, 2-1 Conf","4-2, 0-2 Conf",35,6,NULL,NULL,Final,ABC/ESPN2,7,14,7,7,NULL,3,3,0,0,NULL,NCAAF
-332992294,2013,"Sat, Oct 26",Iowa Hawkeyes,Northwestern Wildcats,"5-3, 2-2 Conf","4-4, 0-4 Conf",17,10,NULL,NULL,Final/OT,BTN,7,3,0,0,7,0,0,7,3,0,NCAAF
-333200077,2013,"Sat, Nov 16",Northwestern Wildcats,Michigan Wolverines,"4-6, 0-6 Conf","7-3, 3-3 Conf",19,27,NULL,NULL,Final/3OT,BTN,3,3,3,0,10,3,0,0,6,18,NCAAF
-332430025,2013,"Sat, Aug 31",California Golden Bears,Northwestern Wildcats,"0-1, 0-1 Home","1-0, 1-0 Away",30,44,NULL,NULL,Final,ESPN2,7,3,14,6,NULL,7,10,10,17,NULL,NCAAF
-332570077,2013,"Sat, Sep 14",Northwestern Wildcats,Western Michigan Broncos,"3-0, 2-0 Home","0-3, 0-2 Away",38,17,NULL,NULL,Final,BTN,0,24,7,7,NULL,3,7,7,0,NULL,NCAAF
-332780077,2013,"Sat, Oct 5",Northwestern Wildcats,Ohio State Buckeyes,"4-1, 0-1 Conf","6-0, 2-0 Conf",30,40,NULL,NULL,Final,ABC,7,13,3,7,NULL,10,3,7,20,NULL,NCAAF
-332920077,2013,"Sat, Oct 19",Northwestern Wildcats,Minnesota Golden Gophers,"4-3, 0-3 Conf","5-2, 1-2 Conf",17,20,NULL,NULL,Final,ESPN2,7,0,0,10,NULL,0,7,7,6,NULL,NCAAF
-333060158,2013,"Sat, Nov 2",Nebraska Cornhuskers,Northwestern Wildcats,"6-2, 3-1 Conf","4-5, 0-5 Conf",27,24,NULL,NULL,Final,BTN,7,7,7,6,NULL,14,7,0,3,NULL,NCAAF
-333270077,2013,"Sat, Nov 23",Northwestern Wildcats,Michigan State Spartans,"4-7, 0-7 Conf","10-1, 7-0 Conf",6,30,NULL,NULL,Final,ESPN,3,3,0,0,NULL,0,14,9,7,NULL,NCAAF
-333340356,2013,"Sat, Nov 30",Illinois Fighting Illini,Northwestern Wildcats,"4-8, 1-7 Conf","5-7, 1-7 Conf",34,37,NULL,NULL,Final,BTN,0,17,10,7,NULL,10,10,3,14,NULL,NCAAF
+332500077,2013,"September 07, 2013",Northwestern Wildcats,Syracuse Orange,"2-0, 1-0 Home","0-2, 0-2 Away",48,27,,,Final,BTN,10,24,0,14,,0,7,6,14,,NCAAF
+332640077,2013,"September 21, 2013",Northwestern Wildcats,Maine Black Bears,"4-0, 3-0 Home","3-1, 2-1 Away",35,21,,,Final,BTN,7,7,7,14,,0,0,7,14,,NCAAF
+332850275,2013,"October 12, 2013",Wisconsin Badgers,Northwestern Wildcats,"4-2, 2-1 Conf","4-2, 0-2 Conf",35,6,,,Final,ABC/ESPN2,7,14,7,7,,3,3,0,0,,NCAAF
+332992294,2013,"October 26, 2013",Iowa Hawkeyes,Northwestern Wildcats,"5-3, 2-2 Conf","4-4, 0-4 Conf",17,10,,,Final/OT,BTN,7,3,0,0,7.0,0,0,7,3,0.0,NCAAF
+333200077,2013,"November 16, 2013",Northwestern Wildcats,Michigan Wolverines,"4-6, 0-6 Conf","7-3, 3-3 Conf",19,27,,,Final/3OT,BTN,3,3,3,0,10.0,3,0,0,6,18.0,NCAAF
+332430025,2013,"August 31, 2013",California Golden Bears,Northwestern Wildcats,"0-1, 0-1 Home","1-0, 1-0 Away",30,44,,,Final,ESPN2,7,3,14,6,,7,10,10,17,,NCAAF
+332570077,2013,"September 14, 2013",Northwestern Wildcats,Western Michigan Broncos,"3-0, 2-0 Home","0-3, 0-2 Away",38,17,,,Final,BTN,0,24,7,7,,3,7,7,0,,NCAAF
+332780077,2013,"October 05, 2013",Northwestern Wildcats,Ohio State Buckeyes,"4-1, 0-1 Conf","6-0, 2-0 Conf",30,40,,,Final,ABC,7,13,3,7,,10,3,7,20,,NCAAF
+332920077,2013,"October 19, 2013",Northwestern Wildcats,Minnesota Golden Gophers,"4-3, 0-3 Conf","5-2, 1-2 Conf",17,20,,,Final,ESPN2,7,0,0,10,,0,7,7,6,,NCAAF
+333060158,2013,"November 02, 2013",Nebraska Cornhuskers,Northwestern Wildcats,"6-2, 3-1 Conf","4-5, 0-5 Conf",27,24,,,Final,BTN,7,7,7,6,,14,7,0,3,,NCAAF
+333270077,2013,"November 23, 2013",Northwestern Wildcats,Michigan State Spartans,"4-7, 0-7 Conf","10-1, 7-0 Conf",6,30,,,Final,ESPN,3,3,0,0,,0,14,9,7,,NCAAF
+333340356,2013,"November 30, 2013",Illinois Fighting Illini,Northwestern Wildcats,"4-8, 1-7 Conf","5-7, 1-7 Conf",34,37,,,Final,BTN,0,17,10,7,,10,10,3,14,,NCAAF

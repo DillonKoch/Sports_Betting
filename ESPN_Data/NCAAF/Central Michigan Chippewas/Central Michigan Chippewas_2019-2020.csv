@@ -1,15 +1,15 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-401112268,2019,"Sat, Sep 7",Wisconsin Badgers,Central Michigan Chippewas,"2-0, 1-0 Home","1-1, 0-1 Away",61,0,WIS -35.0,54,Final,BTN,16,28,10,7,NULL,0,0,0,0,NULL,NCAAF
-401112458,2019,"Sat, Sep 21",Miami Hurricanes,Central Michigan Chippewas,"2-2, 2-0 Home","2-2, 0-2 Away",17,12,MIA -30.5,48,Final,ACCN,7,0,7,3,NULL,0,2,3,7,NULL,NCAAF
-401119273,2019,"Sat, Oct 5",Central Michigan Chippewas,Eastern Michigan Eagles,"3-3, 2-1 Conf","3-2, 0-1 Conf",42,16,EMU -4.0,54,Final,ESPN+,7,14,14,7,NULL,3,0,7,6,NULL,NCAAF
-401119282,2019,"Sat, Oct 19",Bowling Green Falcons,Central Michigan Chippewas,"2-5, 1-2 Conf","5-3, 3-1 Conf",20,38,CMU -12.0,55,Final,ESPN3,7,0,7,6,NULL,7,14,7,10,NULL,NCAAF
-401119295,2019,"Sat, Nov 2",Central Michigan Chippewas,Northern Illinois Huskies,"6-4, 4-2 Conf","3-6, 2-3 Conf",48,10,NIU -1.5,49,Final,CBSSN,21,17,0,10,NULL,3,7,0,0,NULL,NCAAF
-401119315,2019,"Fri, Nov 29",Central Michigan Chippewas,Toledo Rockets,"8-4, 6-2 Conf","6-6, 3-5 Conf",49,7,CMU -14.5,64,Final,ESPNU,14,21,7,7,NULL,0,7,0,0,NULL,NCAAF
-401119253,2019,"Thu, Aug 29",Central Michigan Chippewas,Albany Great Danes,"1-0, 1-0 Home","0-1, 0-1 Away",38,21,NULL,NULL,Final,ESPN3,7,17,7,7,NULL,0,7,7,7,NULL,NCAAF
-401119263,2019,"Sat, Sep 14",Central Michigan Chippewas,Akron Zips,"2-1, 1-0 Conf","0-3, 0-1 Conf",45,24,CMU -2.5,46,Final,ESPN+,3,24,3,15,NULL,0,10,0,14,NULL,NCAAF
-401119271,2019,"Sat, Sep 28",Western Michigan Broncos,Central Michigan Chippewas,"3-2, 1-0 Conf","2-3, 1-1 Conf",31,15,WMU -16.5,62,Final,CBSSN,10,7,7,7,NULL,0,0,0,15,NULL,NCAAF
-401114343,2019,"Sat, Oct 12",Central Michigan Chippewas,New Mexico State Aggies,"4-3, 4-0 Home","0-7, 0-4 Away",42,28,CMU -11.0,57,Final,ESPN3,14,14,6,8,NULL,7,14,0,7,NULL,NCAAF
-401119289,2019,"Sat, Oct 26",Buffalo Bulls,Central Michigan Chippewas,"4-4, 2-2 Conf","5-4, 3-2 Conf",43,20,BUFF -2.5,46,Final,ESPN+,3,27,3,10,NULL,7,7,0,6,NULL,NCAAF
-401119304,2019,"Sat, Nov 16",Ball State Cardinals,Central Michigan Chippewas,"4-6, 3-3 Conf","7-4, 5-2 Conf",44,45,BALL -1.0,60,Final,CBSSN,3,24,14,3,NULL,3,8,20,14,NULL,NCAAF
-401135263,2019,"Sat, Dec 21",San Diego State Aztecs,Central Michigan Chippewas,10-3,8-6,48,11,SDSU -3.5,41,Final,ESPN,7,13,21,7,NULL,3,0,8,0,NULL,NCAAF
-401132982,2019,"Sat, Dec 7",Central Michigan Chippewas,Miami (OH) RedHawks,"8-5, 6-2 Conf","8-5, 6-2 Conf",21,26,CMU -6.0,56,Final,ESPN2,0,14,0,7,NULL,7,3,7,9,NULL,NCAAF
+401112268,2019,"September 07, 2019",Wisconsin Badgers,Central Michigan Chippewas,"2-0, 1-0 Home","1-1, 0-1 Away",61,0,WIS -35.0,54.0,Final,BTN,16,28,10,7,,0,0,0,0,,NCAAF
+401112458,2019,"September 21, 2019",Miami Hurricanes,Central Michigan Chippewas,"2-2, 2-0 Home","2-2, 0-2 Away",17,12,MIA -30.5,48.0,Final,ACCN,7,0,7,3,,0,2,3,7,,NCAAF
+401119273,2019,"October 05, 2019",Central Michigan Chippewas,Eastern Michigan Eagles,"3-3, 2-1 Conf","3-2, 0-1 Conf",42,16,EMU -4.0,54.0,Final,ESPN+,7,14,14,7,,3,0,7,6,,NCAAF
+401119282,2019,"October 19, 2019",Bowling Green Falcons,Central Michigan Chippewas,"2-5, 1-2 Conf","5-3, 3-1 Conf",20,38,CMU -12.0,55.0,Final,ESPN3,7,0,7,6,,7,14,7,10,,NCAAF
+401119295,2019,"November 02, 2019",Central Michigan Chippewas,Northern Illinois Huskies,"6-4, 4-2 Conf","3-6, 2-3 Conf",48,10,NIU -1.5,49.0,Final,CBSSN,21,17,0,10,,3,7,0,0,,NCAAF
+401119315,2019,"November 29, 2019",Central Michigan Chippewas,Toledo Rockets,"8-4, 6-2 Conf","6-6, 3-5 Conf",49,7,CMU -14.5,64.0,Final,ESPNU,14,21,7,7,,0,7,0,0,,NCAAF
+401119253,2019,"August 29, 2019",Central Michigan Chippewas,Albany Great Danes,"1-0, 1-0 Home","0-1, 0-1 Away",38,21,,,Final,ESPN3,7,17,7,7,,0,7,7,7,,NCAAF
+401119263,2019,"September 14, 2019",Central Michigan Chippewas,Akron Zips,"2-1, 1-0 Conf","0-3, 0-1 Conf",45,24,CMU -2.5,46.0,Final,ESPN+,3,24,3,15,,0,10,0,14,,NCAAF
+401119271,2019,"September 28, 2019",Western Michigan Broncos,Central Michigan Chippewas,"3-2, 1-0 Conf","2-3, 1-1 Conf",31,15,WMU -16.5,62.0,Final,CBSSN,10,7,7,7,,0,0,0,15,,NCAAF
+401114343,2019,"October 12, 2019",Central Michigan Chippewas,New Mexico State Aggies,"4-3, 4-0 Home","0-7, 0-4 Away",42,28,CMU -11.0,57.0,Final,ESPN3,14,14,6,8,,7,14,0,7,,NCAAF
+401119289,2019,"October 26, 2019",Buffalo Bulls,Central Michigan Chippewas,"4-4, 2-2 Conf","5-4, 3-2 Conf",43,20,BUFF -2.5,46.0,Final,ESPN+,3,27,3,10,,7,7,0,6,,NCAAF
+401119304,2019,"November 16, 2019",Ball State Cardinals,Central Michigan Chippewas,"4-6, 3-3 Conf","7-4, 5-2 Conf",44,45,BALL -1.0,60.0,Final,CBSSN,3,24,14,3,,3,8,20,14,,NCAAF
+401135263,2019,"December 21, 2019",San Diego State Aztecs,Central Michigan Chippewas,10-3,8-6,48,11,SDSU -3.5,41.0,Final,ESPN,7,13,21,7,,3,0,8,0,,NCAAF
+401132982,2019,"December 07, 2019",Central Michigan Chippewas,Miami (OH) RedHawks,"8-5, 6-2 Conf","8-5, 6-2 Conf",21,26,CMU -6.0,56.0,Final,ESPN2,0,14,0,7,,7,3,7,9,,NCAAF

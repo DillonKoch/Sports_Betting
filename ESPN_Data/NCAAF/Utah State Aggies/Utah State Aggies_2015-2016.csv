@@ -1,14 +1,14 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-400787981,2015,"Fri, Sep 11",Utah Utes,Utah State Aggies,"2-0, 2-0 Home","1-1, 0-1 Away",24,14,NULL,NULL,Final,ESPN2,7,7,7,3,NULL,0,14,0,0,NULL,NCAAF
-400787249,2015,"Sat, Oct 3",Utah State Aggies,Colorado State Rams,"2-2, 1-0 Conf","2-3, 0-1 Conf",33,18,NULL,NULL,Final,ESPN3,3,14,6,10,NULL,3,7,0,8,NULL,NCAAF
-400790882,2015,"Fri, Oct 16",Utah State Aggies,Boise State Broncos,"4-2, 3-0 Conf","5-2, 2-1 Conf",52,26,NULL,NULL,Final,CBSSN,17,28,7,0,NULL,3,7,7,9,NULL,NCAAF
-400790885,2015,"Fri, Oct 30",Utah State Aggies,Wyoming Cowboys,"5-3, 4-1 Conf","1-8, 1-4 Conf",58,27,NULL,NULL,Final,ESPN2,14,16,7,21,NULL,7,7,7,6,NULL,NCAAF
-400787280,2015,"Sat, Nov 14",Air Force Falcons,Utah State Aggies,"7-3, 5-1 Conf","5-5, 4-3 Conf",35,28,NULL,NULL,Final,ESPN3,14,7,14,0,NULL,14,0,14,0,NULL,NCAAF
-400787110,2015,"Thu, Sep 3",Utah State Aggies,Southern Utah Thunderbirds,"1-0, 1-0 Home","0-1, 0-1 Away",12,9,NULL,NULL,Final,NULL,5,0,0,7,NULL,6,3,0,0,NULL,NCAAF
-400757032,2015,"Sat, Sep 19",Washington Huskies,Utah State Aggies,"2-1, 2-0 Home","1-2, 0-2 Away",31,17,NULL,NULL,Final,PAC12,3,14,14,0,NULL,0,10,0,7,NULL,NCAAF
-400787256,2015,"Sat, Oct 10",Fresno State Bulldogs,Utah State Aggies,"1-5, 0-3 Conf","3-2, 2-0 Conf",14,56,NULL,NULL,Final,CBSSN,7,0,0,7,NULL,7,22,14,13,NULL,NCAAF
-400790884,2015,"Fri, Oct 23",San Diego State Aztecs,Utah State Aggies,"5-3, 4-0 Conf","4-3, 3-1 Conf",48,14,NULL,NULL,Final,ESPN2,17,17,0,14,NULL,0,7,7,0,NULL,NCAAF
-400787278,2015,"Sat, Nov 7",New Mexico Lobos,Utah State Aggies,"5-4, 3-2 Conf","5-4, 4-2 Conf",14,13,NULL,NULL,Final,CBSSN,0,7,7,0,NULL,0,3,7,3,NULL,NCAAF
-400787290,2015,"Sat, Nov 21",Utah State Aggies,Nevada Wolf Pack,"6-5, 5-3 Conf","6-5, 4-3 Conf",31,27,NULL,NULL,Final,ESPN3,0,7,14,10,NULL,7,14,6,0,NULL,NCAAF
-400787297,2015,"Sat, Nov 28",Utah State Aggies,BYU Cougars,"6-6, 5-1 Home","9-3, 3-2 Away",28,51,NULL,NULL,Final,CBSSN,7,14,0,7,NULL,10,14,14,13,NULL,NCAAF
-400852708,2015,"Tue, Dec 22",Utah State Aggies,Akron Zips,6-7,8-5,21,23,NULL,NULL,Final,ESPN,0,7,7,7,NULL,7,6,7,3,NULL,NCAAF
+400787981,2015,"September 11, 2015",Utah Utes,Utah State Aggies,"2-0, 2-0 Home","1-1, 0-1 Away",24,14,,,Final,ESPN2,7,7,7,3,,0,14,0,0,,NCAAF
+400787249,2015,"October 03, 2015",Utah State Aggies,Colorado State Rams,"2-2, 1-0 Conf","2-3, 0-1 Conf",33,18,,,Final,ESPN3,3,14,6,10,,3,7,0,8,,NCAAF
+400790882,2015,"October 16, 2015",Utah State Aggies,Boise State Broncos,"4-2, 3-0 Conf","5-2, 2-1 Conf",52,26,,,Final,CBSSN,17,28,7,0,,3,7,7,9,,NCAAF
+400790885,2015,"October 30, 2015",Utah State Aggies,Wyoming Cowboys,"5-3, 4-1 Conf","1-8, 1-4 Conf",58,27,,,Final,ESPN2,14,16,7,21,,7,7,7,6,,NCAAF
+400787280,2015,"November 14, 2015",Air Force Falcons,Utah State Aggies,"7-3, 5-1 Conf","5-5, 4-3 Conf",35,28,,,Final,ESPN3,14,7,14,0,,14,0,14,0,,NCAAF
+400787110,2015,"September 03, 2015",Utah State Aggies,Southern Utah Thunderbirds,"1-0, 1-0 Home","0-1, 0-1 Away",12,9,,,Final,,5,0,0,7,,6,3,0,0,,NCAAF
+400757032,2015,"September 19, 2015",Washington Huskies,Utah State Aggies,"2-1, 2-0 Home","1-2, 0-2 Away",31,17,,,Final,PAC12,3,14,14,0,,0,10,0,7,,NCAAF
+400787256,2015,"October 10, 2015",Fresno State Bulldogs,Utah State Aggies,"1-5, 0-3 Conf","3-2, 2-0 Conf",14,56,,,Final,CBSSN,7,0,0,7,,7,22,14,13,,NCAAF
+400790884,2015,"October 23, 2015",San Diego State Aztecs,Utah State Aggies,"5-3, 4-0 Conf","4-3, 3-1 Conf",48,14,,,Final,ESPN2,17,17,0,14,,0,7,7,0,,NCAAF
+400787278,2015,"November 07, 2015",New Mexico Lobos,Utah State Aggies,"5-4, 3-2 Conf","5-4, 4-2 Conf",14,13,,,Final,CBSSN,0,7,7,0,,0,3,7,3,,NCAAF
+400787290,2015,"November 21, 2015",Utah State Aggies,Nevada Wolf Pack,"6-5, 5-3 Conf","6-5, 4-3 Conf",31,27,,,Final,ESPN3,0,7,14,10,,7,14,6,0,,NCAAF
+400787297,2015,"November 28, 2015",Utah State Aggies,BYU Cougars,"6-6, 5-1 Home","9-3, 3-2 Away",28,51,,,Final,CBSSN,7,14,0,7,,10,14,14,13,,NCAAF
+400852708,2015,"December 22, 2015",Utah State Aggies,Akron Zips,6-7,8-5,21,23,,,Final,ESPN,0,7,7,7,,7,6,7,3,,NCAAF

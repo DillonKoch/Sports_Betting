@@ -1,15 +1,15 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-400763502,2015,"Sat, Sep 12",Maryland Terrapins,Bowling Green Falcons,"1-1, 1-1 Home","1-1, 1-0 Away",27,48,NULL,NULL,Final,BTN,10,3,7,7,NULL,0,6,14,28,NULL,NCAAF
-400763526,2015,"Sat, Sep 26",Purdue Boilermakers,Bowling Green Falcons,"1-3, 1-2 Home","2-2, 2-0 Away",28,35,NULL,NULL,Final,BTN,7,7,7,7,NULL,7,14,0,14,NULL,NCAAF
-400787321,2015,"Sat, Oct 10",Bowling Green Falcons,UMass Minutemen,"4-2, 2-0 Conf","1-4, 0-1 Conf",62,38,NULL,NULL,Final,ESPN3,14,14,24,10,NULL,10,7,14,7,NULL,NCAAF
-400787334,2015,"Sat, Oct 24",Kent State Golden Flashes,Bowling Green Falcons,"3-5, 2-2 Conf","6-2, 4-0 Conf",0,48,NULL,NULL,Final,ESPN3,0,0,0,0,NULL,14,17,10,7,NULL,NCAAF
-400787352,2015,"Wed, Nov 11",Western Michigan Broncos,Bowling Green Falcons,"6-4, 5-1 Conf","8-2, 6-0 Conf",27,41,NULL,NULL,Final,ESPN2,10,10,7,0,NULL,14,13,14,0,NULL,NCAAF
-400787361,2015,"Tue, Nov 24",Ball State Cardinals,Bowling Green Falcons,"3-9, 2-6 Conf","9-3, 7-1 Conf",10,48,NULL,NULL,Final,ESPN3,0,0,7,3,NULL,13,14,7,14,NULL,NCAAF
-400834350,2015,"Sat, Sep 5",Tennessee Volunteers,Bowling Green Falcons,1-0,0-1,59,30,NULL,NULL,Final,SECN,21,14,14,10,NULL,10,10,10,0,NULL,NCAAF
-400764864,2015,"Sat, Sep 19",Bowling Green Falcons,Memphis Tigers,"1-2, 0-1 Home","3-0, 2-0 Away",41,44,NULL,NULL,Final,ESPN3,14,13,7,7,NULL,10,7,17,10,NULL,NCAAF
-400787318,2015,"Sat, Oct 3",Buffalo Bulls,Bowling Green Falcons,"2-3, 0-1 Conf","3-2, 1-0 Conf",22,28,NULL,NULL,Final,ESPN3,3,3,3,13,NULL,7,14,0,7,NULL,NCAAF
-400787331,2015,"Sat, Oct 17",Bowling Green Falcons,Akron Zips,"5-2, 3-0 Conf","3-4, 1-2 Conf",59,10,NULL,NULL,Final,ESPN3,7,21,21,10,NULL,7,3,0,0,NULL,NCAAF
-400787344,2015,"Wed, Nov 4",Bowling Green Falcons,Ohio Bobcats,"7-2, 5-0 Conf","5-4, 2-3 Conf",62,24,NULL,NULL,Final,ESPN2,14,13,21,14,NULL,7,7,3,7,NULL,NCAAF
-400787356,2015,"Tue, Nov 17",Bowling Green Falcons,Toledo Rockets,"8-3, 6-1 Conf","9-1, 6-1 Conf",28,44,NULL,NULL,Final,ESPN2,0,14,14,0,NULL,17,13,7,7,NULL,NCAAF
-400852711,2015,"Wed, Dec 23",Bowling Green Falcons,Georgia Southern Eagles,10-4,9-4,27,58,NULL,NULL,Final,ESPN,13,14,0,0,NULL,9,14,21,14,NULL,NCAAF
-400852680,2015,"Fri, Dec 4",Northern Illinois Huskies,Bowling Green Falcons,"8-5, 6-2 Conf","10-3, 7-1 Conf",14,34,NULL,NULL,Final,ESPN2,0,0,14,0,NULL,7,14,7,6,NULL,NCAAF
+400763502,2015,"September 12, 2015",Maryland Terrapins,Bowling Green Falcons,"1-1, 1-1 Home","1-1, 1-0 Away",27,48,,,Final,BTN,10,3,7,7,,0,6,14,28,,NCAAF
+400763526,2015,"September 26, 2015",Purdue Boilermakers,Bowling Green Falcons,"1-3, 1-2 Home","2-2, 2-0 Away",28,35,,,Final,BTN,7,7,7,7,,7,14,0,14,,NCAAF
+400787321,2015,"October 10, 2015",Bowling Green Falcons,UMass Minutemen,"4-2, 2-0 Conf","1-4, 0-1 Conf",62,38,,,Final,ESPN3,14,14,24,10,,10,7,14,7,,NCAAF
+400787334,2015,"October 24, 2015",Kent State Golden Flashes,Bowling Green Falcons,"3-5, 2-2 Conf","6-2, 4-0 Conf",0,48,,,Final,ESPN3,0,0,0,0,,14,17,10,7,,NCAAF
+400787352,2015,"November 11, 2015",Western Michigan Broncos,Bowling Green Falcons,"6-4, 5-1 Conf","8-2, 6-0 Conf",27,41,,,Final,ESPN2,10,10,7,0,,14,13,14,0,,NCAAF
+400787361,2015,"November 24, 2015",Ball State Cardinals,Bowling Green Falcons,"3-9, 2-6 Conf","9-3, 7-1 Conf",10,48,,,Final,ESPN3,0,0,7,3,,13,14,7,14,,NCAAF
+400834350,2015,"September 05, 2015",Tennessee Volunteers,Bowling Green Falcons,1-0,0-1,59,30,,,Final,SECN,21,14,14,10,,10,10,10,0,,NCAAF
+400764864,2015,"September 19, 2015",Bowling Green Falcons,Memphis Tigers,"1-2, 0-1 Home","3-0, 2-0 Away",41,44,,,Final,ESPN3,14,13,7,7,,10,7,17,10,,NCAAF
+400787318,2015,"October 03, 2015",Buffalo Bulls,Bowling Green Falcons,"2-3, 0-1 Conf","3-2, 1-0 Conf",22,28,,,Final,ESPN3,3,3,3,13,,7,14,0,7,,NCAAF
+400787331,2015,"October 17, 2015",Bowling Green Falcons,Akron Zips,"5-2, 3-0 Conf","3-4, 1-2 Conf",59,10,,,Final,ESPN3,7,21,21,10,,7,3,0,0,,NCAAF
+400787344,2015,"November 04, 2015",Bowling Green Falcons,Ohio Bobcats,"7-2, 5-0 Conf","5-4, 2-3 Conf",62,24,,,Final,ESPN2,14,13,21,14,,7,7,3,7,,NCAAF
+400787356,2015,"November 17, 2015",Bowling Green Falcons,Toledo Rockets,"8-3, 6-1 Conf","9-1, 6-1 Conf",28,44,,,Final,ESPN2,0,14,14,0,,17,13,7,7,,NCAAF
+400852711,2015,"December 23, 2015",Bowling Green Falcons,Georgia Southern Eagles,10-4,9-4,27,58,,,Final,ESPN,13,14,0,0,,9,14,21,14,,NCAAF
+400852680,2015,"December 04, 2015",Northern Illinois Huskies,Bowling Green Falcons,"8-5, 6-2 Conf","10-3, 7-1 Conf",14,34,,,Final,ESPN2,0,0,14,0,,7,14,7,6,,NCAAF

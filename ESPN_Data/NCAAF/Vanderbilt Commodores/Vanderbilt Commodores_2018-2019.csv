@@ -1,14 +1,14 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-401012271,2018,"Sat, Sep 8",Vanderbilt Commodores,Nevada Wolf Pack,"2-0, 2-0 Home","1-1, 0-1 Away",41,10,VAN -10.0,60,Final,SECN,0,17,17,7,NULL,0,10,0,0,NULL,NCAAF
-401012291,2018,"Sat, Sep 22",Vanderbilt Commodores,South Carolina Gamecocks,"2-2, 0-1 Conf","2-1, 1-1 Conf",14,37,SC -1.5,53,Final,SECN,0,14,0,0,NULL,10,10,10,7,NULL,NCAAF
-401012302,2018,"Sat, Oct 6",Georgia Bulldogs,Vanderbilt Commodores,"6-0, 4-0 Conf","3-3, 0-2 Conf",41,13,UGA -26.5,56,Final,SECN,7,14,17,3,NULL,3,3,0,7,NULL,NCAAF
-401012314,2018,"Sat, Oct 20",Kentucky Wildcats,Vanderbilt Commodores,"6-1, 4-1 Conf","3-5, 0-4 Conf",14,7,UK -10.5,46,Final,SECN,0,7,0,7,NULL,7,0,0,0,NULL,NCAAF
-401012335,2018,"Sat, Nov 10",Missouri Tigers,Vanderbilt Commodores,"6-4, 2-4 Conf","4-6, 1-5 Conf",33,28,MIZ -15.0,66,Final,SECN,7,6,13,7,NULL,14,7,7,0,NULL,NCAAF
-401012259,2018,"Sat, Sep 1",Vanderbilt Commodores,Middle Tennessee Blue Raiders,"1-0, 1-0 Home","0-1, 0-1 Away",35,7,VAN -3.0,57,Final,SECN,7,7,7,14,NULL,7,0,0,0,NULL,NCAAF
-401012283,2018,"Sat, Sep 15",Notre Dame Fighting Irish,Vanderbilt Commodores,"3-0, 3-0 Home","2-1, 0-1 Away",22,17,ND -14.0,52,Final,NBC,10,6,0,6,NULL,0,3,7,7,NULL,NCAAF
-401012299,2018,"Sat, Sep 29",Vanderbilt Commodores,Tennessee State Tigers,"3-2, 3-1 Home","2-1, 1-1 Away",31,27,NULL,NULL,Final,SECN,0,10,14,7,NULL,0,13,7,7,NULL,NCAAF
-401012312,2018,"Sat, Oct 13",Vanderbilt Commodores,Florida Gators,"3-4, 0-3 Conf","6-1, 4-1 Conf",27,37,FLA -9.5,52,Final,ESPN,7,14,0,6,NULL,0,13,7,17,NULL,NCAAF
-401012319,2018,"Sat, Oct 27",Arkansas Razorbacks,Vanderbilt Commodores,"2-7, 0-5 Conf","4-5, 1-4 Conf",31,45,ARK -1.0,52,Final,SECN,7,7,3,14,NULL,7,14,3,21,NULL,NCAAF
-401012348,2018,"Sat, Nov 17",Vanderbilt Commodores,Ole Miss Rebels,"5-6, 2-5 Conf","5-6, 1-6 Conf",36,29,VAN -3.0,73,Final/OT,SECN,0,12,14,3,7,3,10,6,10,0,NCAAF
-401012357,2018,"Sat, Nov 24",Vanderbilt Commodores,Tennessee Volunteers,"6-6, 3-5 Conf","5-7, 2-6 Conf",38,13,VAN -3.0,52,Final,SECN,7,10,0,21,NULL,0,0,7,6,NULL,NCAAF
-401032072,2018,"Thu, Dec 27",Vanderbilt Commodores,Baylor Bears,6-7,7-6,38,45,VAN -4.5,57,Final,ESPN,14,7,7,10,NULL,10,7,14,14,NULL,NCAAF
+401012271,2018,"September 08, 2018",Vanderbilt Commodores,Nevada Wolf Pack,"2-0, 2-0 Home","1-1, 0-1 Away",41,10,VAN -10.0,60.0,Final,SECN,0,17,17,7,,0,10,0,0,,NCAAF
+401012291,2018,"September 22, 2018",Vanderbilt Commodores,South Carolina Gamecocks,"2-2, 0-1 Conf","2-1, 1-1 Conf",14,37,SC -1.5,53.0,Final,SECN,0,14,0,0,,10,10,10,7,,NCAAF
+401012302,2018,"October 06, 2018",Georgia Bulldogs,Vanderbilt Commodores,"6-0, 4-0 Conf","3-3, 0-2 Conf",41,13,UGA -26.5,56.0,Final,SECN,7,14,17,3,,3,3,0,7,,NCAAF
+401012314,2018,"October 20, 2018",Kentucky Wildcats,Vanderbilt Commodores,"6-1, 4-1 Conf","3-5, 0-4 Conf",14,7,UK -10.5,46.0,Final,SECN,0,7,0,7,,7,0,0,0,,NCAAF
+401012335,2018,"November 10, 2018",Missouri Tigers,Vanderbilt Commodores,"6-4, 2-4 Conf","4-6, 1-5 Conf",33,28,MIZ -15.0,66.0,Final,SECN,7,6,13,7,,14,7,7,0,,NCAAF
+401012259,2018,"September 01, 2018",Vanderbilt Commodores,Middle Tennessee Blue Raiders,"1-0, 1-0 Home","0-1, 0-1 Away",35,7,VAN -3.0,57.0,Final,SECN,7,7,7,14,,7,0,0,0,,NCAAF
+401012283,2018,"September 15, 2018",Notre Dame Fighting Irish,Vanderbilt Commodores,"3-0, 3-0 Home","2-1, 0-1 Away",22,17,ND -14.0,52.0,Final,NBC,10,6,0,6,,0,3,7,7,,NCAAF
+401012299,2018,"September 29, 2018",Vanderbilt Commodores,Tennessee State Tigers,"3-2, 3-1 Home","2-1, 1-1 Away",31,27,,,Final,SECN,0,10,14,7,,0,13,7,7,,NCAAF
+401012312,2018,"October 13, 2018",Vanderbilt Commodores,Florida Gators,"3-4, 0-3 Conf","6-1, 4-1 Conf",27,37,FLA -9.5,52.0,Final,ESPN,7,14,0,6,,0,13,7,17,,NCAAF
+401012319,2018,"October 27, 2018",Arkansas Razorbacks,Vanderbilt Commodores,"2-7, 0-5 Conf","4-5, 1-4 Conf",31,45,ARK -1.0,52.0,Final,SECN,7,7,3,14,,7,14,3,21,,NCAAF
+401012348,2018,"November 17, 2018",Vanderbilt Commodores,Ole Miss Rebels,"5-6, 2-5 Conf","5-6, 1-6 Conf",36,29,VAN -3.0,73.0,Final/OT,SECN,0,12,14,3,7.0,3,10,6,10,0.0,NCAAF
+401012357,2018,"November 24, 2018",Vanderbilt Commodores,Tennessee Volunteers,"6-6, 3-5 Conf","5-7, 2-6 Conf",38,13,VAN -3.0,52.0,Final,SECN,7,10,0,21,,0,0,7,6,,NCAAF
+401032072,2018,"December 27, 2018",Vanderbilt Commodores,Baylor Bears,6-7,7-6,38,45,VAN -4.5,57.0,Final,ESPN,14,7,7,10,,10,7,14,14,,NCAAF

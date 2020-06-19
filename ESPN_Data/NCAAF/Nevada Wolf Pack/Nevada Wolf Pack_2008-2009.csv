@@ -1,14 +1,14 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-282502440,2008,"Sat, Sep 6",Nevada Wolf Pack,Texas Tech Red Raiders,"1-1, 1-1 Home","2-0, 1-0 Away",19,35,NULL,NULL,Final,NULL,3,6,3,7,NULL,7,7,7,14,NULL,NCAAF
-282712439,2008,"Sat, Sep 27",Unlv Rebels,Nevada Wolf Pack,"3-2, 2-1 Home","2-2, 1-1 Away",27,49,NULL,NULL,Final,NULL,17,3,7,0,NULL,7,21,7,14,NULL,NCAAF
-282852440,2008,"Sat, Oct 11",Nevada Wolf Pack,New Mexico State Aggies,"3-3, 1-1 Conf","3-2, 1-0 Conf",45,48,NULL,NULL,Final,NULL,10,14,14,7,NULL,7,14,17,10,NULL,NCAAF
-282990062,2008,"Sun, Oct 26",Hawai'i Rainbow Warriors,Nevada Wolf Pack,"4-4, 3-2 Conf","4-4, 2-2 Conf",38,31,NULL,NULL,Final,NULL,7,7,10,14,NULL,7,3,7,14,NULL,NCAAF
-283202440,2008,"Sat, Nov 15",Nevada Wolf Pack,San Jose State Spartans,"6-4, 4-2 Conf","6-5, 4-3 Conf",41,17,NULL,NULL,Final,NULL,3,14,14,10,NULL,0,3,14,0,NULL,NCAAF
-282432440,2008,"Sat, Aug 30",Nevada Wolf Pack,Grambling State Tigers,"1-0, 1-0 Home","0-1, 0-1 Away",49,13,NULL,NULL,Final,NULL,14,7,14,14,NULL,0,0,7,6,NULL,NCAAF
-282570142,2008,"Sat, Sep 13",Missouri Tigers,Nevada Wolf Pack,"3-0, 3-0 Home","1-2, 0-1 Away",69,17,NULL,NULL,Final,NULL,17,21,21,10,NULL,7,10,0,0,NULL,NCAAF
-282780070,2008,"Sat, Oct 4",Idaho Vandals,Nevada Wolf Pack,"1-5, 0-2 Conf","3-2, 1-0 Conf",14,49,NULL,NULL,Final,NULL,0,0,7,7,NULL,7,14,7,21,NULL,NCAAF
-282922440,2008,"Sat, Oct 18",Nevada Wolf Pack,Utah State Aggies,"4-3, 2-1 Conf","1-6, 1-2 Conf",44,17,NULL,NULL,Final,NULL,6,14,10,14,NULL,0,7,3,7,NULL,NCAAF
-283120278,2008,"Fri, Nov 7",Fresno State Bulldogs,Nevada Wolf Pack,"5-4, 2-3 Conf","5-4, 3-2 Conf",28,41,NULL,NULL,Final,ESPN2,7,0,14,7,NULL,7,10,14,10,NULL,NCAAF
-283272440,2008,"Sat, Nov 22",Nevada Wolf Pack,Boise State Broncos,"6-5, 4-3 Conf","11-0, 7-0 Conf",34,41,NULL,NULL,Final,ESPN2,0,3,21,10,NULL,14,10,7,10,NULL,NCAAF
-283342348,2008,"Sat, Nov 29",Louisiana Tech Bulldogs,Nevada Wolf Pack,"7-5, 5-3 Conf","7-5, 5-3 Conf",31,35,NULL,NULL,Final,NULL,7,10,14,0,NULL,0,7,14,14,NULL,NCAAF
-283652440,2008,"Tue, Dec 30",Nevada Wolf Pack,Maryland Terrapins,7-6,8-5,35,42,NULL,NULL,Final,ESPN,14,0,7,14,NULL,13,15,0,14,NULL,NCAAF
+282502440,2008,"September 06, 2008",Nevada Wolf Pack,Texas Tech Red Raiders,"1-1, 1-1 Home","2-0, 1-0 Away",19,35,,,Final,,3,6,3,7,,7,7,7,14,,NCAAF
+282712439,2008,"September 27, 2008",Unlv Rebels,Nevada Wolf Pack,"3-2, 2-1 Home","2-2, 1-1 Away",27,49,,,Final,,17,3,7,0,,7,21,7,14,,NCAAF
+282852440,2008,"October 11, 2008",Nevada Wolf Pack,New Mexico State Aggies,"3-3, 1-1 Conf","3-2, 1-0 Conf",45,48,,,Final,,10,14,14,7,,7,14,17,10,,NCAAF
+282990062,2008,"October 26, 2008",Hawai'i Rainbow Warriors,Nevada Wolf Pack,"4-4, 3-2 Conf","4-4, 2-2 Conf",38,31,,,Final,,7,7,10,14,,7,3,7,14,,NCAAF
+283202440,2008,"November 15, 2008",Nevada Wolf Pack,San Jose State Spartans,"6-4, 4-2 Conf","6-5, 4-3 Conf",41,17,,,Final,,3,14,14,10,,0,3,14,0,,NCAAF
+282432440,2008,"August 30, 2008",Nevada Wolf Pack,Grambling State Tigers,"1-0, 1-0 Home","0-1, 0-1 Away",49,13,,,Final,,14,7,14,14,,0,0,7,6,,NCAAF
+282570142,2008,"September 13, 2008",Missouri Tigers,Nevada Wolf Pack,"3-0, 3-0 Home","1-2, 0-1 Away",69,17,,,Final,,17,21,21,10,,7,10,0,0,,NCAAF
+282780070,2008,"October 04, 2008",Idaho Vandals,Nevada Wolf Pack,"1-5, 0-2 Conf","3-2, 1-0 Conf",14,49,,,Final,,0,0,7,7,,7,14,7,21,,NCAAF
+282922440,2008,"October 18, 2008",Nevada Wolf Pack,Utah State Aggies,"4-3, 2-1 Conf","1-6, 1-2 Conf",44,17,,,Final,,6,14,10,14,,0,7,3,7,,NCAAF
+283120278,2008,"November 07, 2008",Fresno State Bulldogs,Nevada Wolf Pack,"5-4, 2-3 Conf","5-4, 3-2 Conf",28,41,,,Final,ESPN2,7,0,14,7,,7,10,14,10,,NCAAF
+283272440,2008,"November 22, 2008",Nevada Wolf Pack,Boise State Broncos,"6-5, 4-3 Conf","11-0, 7-0 Conf",34,41,,,Final,ESPN2,0,3,21,10,,14,10,7,10,,NCAAF
+283342348,2008,"November 29, 2008",Louisiana Tech Bulldogs,Nevada Wolf Pack,"7-5, 5-3 Conf","7-5, 5-3 Conf",31,35,,,Final,,7,10,14,0,,0,7,14,14,,NCAAF
+283652440,2008,"December 30, 2008",Nevada Wolf Pack,Maryland Terrapins,7-6,8-5,35,42,,,Final,ESPN,14,0,7,14,,13,15,0,14,,NCAAF

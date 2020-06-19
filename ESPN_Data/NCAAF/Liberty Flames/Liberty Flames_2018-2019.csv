@@ -1,13 +1,13 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-401013367,2018,"Sat, Sep 8",Army Black Knights,Liberty Flames,"1-1, 1-0 Home","1-1, 0-1 Away",38,14,ARMY -7.5,58,Final,CBSSN,14,3,7,14,NULL,0,0,14,0,NULL,NCAAF
-401013450,2018,"Sat, Sep 22",Liberty Flames,North Texas Mean Green,"1-2, 1-1 Home","4-0, 2-0 Away",7,47,UNT -11.0,69,Final,ESPN3,0,7,0,0,NULL,14,7,6,20,NULL,NCAAF
-401013441,2018,"Sat, Oct 6",New Mexico State Aggies,Liberty Flames,"2-4, 1-2 Home","2-3, 1-2 Away",49,41,NULL,NULL,Final,NULL,7,14,14,14,NULL,7,7,14,13,NULL,NCAAF
-401013453,2018,"Sat, Oct 20",Liberty Flames,Idaho State Bengals,"4-3, 3-1 Home","4-3, 1-3 Away",48,41,NULL,NULL,Final,ESPN3,7,13,14,14,NULL,0,17,14,10,NULL,NCAAF
-401013174,2018,"Sat, Nov 10",Virginia Cavaliers,Liberty Flames,"7-3, 6-1 Home","4-5, 1-4 Away",45,24,UVA -24.0,58,Final,ACCNX,14,10,14,7,NULL,7,10,7,0,NULL,NCAAF
-401013447,2018,"Sat, Nov 24",Liberty Flames,New Mexico State Aggies,"5-6, 4-1 Home","3-9, 1-6 Away",28,21,NULL,NULL,Final,ESPN3,17,11,0,0,NULL,14,0,0,7,NULL,NCAAF
-401013448,2018,"Sat, Sep 1",Liberty Flames,Old Dominion Monarchs,"1-0, 1-0 Home","0-1, 0-1 Away",52,10,ODU -5.5,58,Final,ESPN3,14,0,10,28,NULL,3,7,0,0,NULL,NCAAF
-401013451,2018,"Sat, Sep 29",New Mexico Lobos,Liberty Flames,"2-2, 1-1 Home","2-2, 1-1 Away",43,52,UNM -7.0,66,Final,NULL,7,3,13,20,NULL,21,21,0,10,NULL,NCAAF
-401013452,2018,"Sat, Oct 13",Liberty Flames,Troy Trojans,"3-3, 2-1 Home","5-2, 2-1 Away",22,16,TROY -11.5,64,Final,ESPN3,0,14,0,8,NULL,7,3,3,3,NULL,NCAAF
-401013365,2018,"Sat, Nov 3",UMass Minutemen,Liberty Flames,"4-6, 3-2 Home","4-4, 1-3 Away",62,59,EVEN,67,Final/3OT,NULL,14,10,7,14,17,14,10,0,21,14,NCAAF
-401012339,2018,"Sat, Nov 17",Auburn Tigers,Liberty Flames,"7-4, 5-2 Home","4-6, 1-5 Away",53,0,AUB -29.5,65,Final,SECN,15,17,21,0,NULL,0,0,0,0,NULL,NCAAF
-401081953,2018,"Sat, Dec 1",Liberty Flames,Norfolk State Spartans,"6-6, 5-1 Home","4-7, 1-4 Away",52,17,NULL,NULL,Final,ESPN3,10,28,7,7,NULL,3,7,0,7,NULL,NCAAF
+401013367,2018,"September 08, 2018",Army Black Knights,Liberty Flames,"1-1, 1-0 Home","1-1, 0-1 Away",38,14,ARMY -7.5,58.0,Final,CBSSN,14,3,7,14,,0,0,14,0,,NCAAF
+401013450,2018,"September 22, 2018",Liberty Flames,North Texas Mean Green,"1-2, 1-1 Home","4-0, 2-0 Away",7,47,UNT -11.0,69.0,Final,ESPN3,0,7,0,0,,14,7,6,20,,NCAAF
+401013441,2018,"October 06, 2018",New Mexico State Aggies,Liberty Flames,"2-4, 1-2 Home","2-3, 1-2 Away",49,41,,,Final,,7,14,14,14,,7,7,14,13,,NCAAF
+401013453,2018,"October 20, 2018",Liberty Flames,Idaho State Bengals,"4-3, 3-1 Home","4-3, 1-3 Away",48,41,,,Final,ESPN3,7,13,14,14,,0,17,14,10,,NCAAF
+401013174,2018,"November 10, 2018",Virginia Cavaliers,Liberty Flames,"7-3, 6-1 Home","4-5, 1-4 Away",45,24,UVA -24.0,58.0,Final,ACCNX,14,10,14,7,,7,10,7,0,,NCAAF
+401013447,2018,"November 24, 2018",Liberty Flames,New Mexico State Aggies,"5-6, 4-1 Home","3-9, 1-6 Away",28,21,,,Final,ESPN3,17,11,0,0,,14,0,0,7,,NCAAF
+401013448,2018,"September 01, 2018",Liberty Flames,Old Dominion Monarchs,"1-0, 1-0 Home","0-1, 0-1 Away",52,10,ODU -5.5,58.0,Final,ESPN3,14,0,10,28,,3,7,0,0,,NCAAF
+401013451,2018,"September 29, 2018",New Mexico Lobos,Liberty Flames,"2-2, 1-1 Home","2-2, 1-1 Away",43,52,UNM -7.0,66.0,Final,,7,3,13,20,,21,21,0,10,,NCAAF
+401013452,2018,"October 13, 2018",Liberty Flames,Troy Trojans,"3-3, 2-1 Home","5-2, 2-1 Away",22,16,TROY -11.5,64.0,Final,ESPN3,0,14,0,8,,7,3,3,3,,NCAAF
+401013365,2018,"November 03, 2018",UMass Minutemen,Liberty Flames,"4-6, 3-2 Home","4-4, 1-3 Away",62,59,EVEN,67.0,Final/3OT,,14,10,7,14,17.0,14,10,0,21,14.0,NCAAF
+401012339,2018,"November 17, 2018",Auburn Tigers,Liberty Flames,"7-4, 5-2 Home","4-6, 1-5 Away",53,0,AUB -29.5,65.0,Final,SECN,15,17,21,0,,0,0,0,0,,NCAAF
+401081953,2018,"December 01, 2018",Liberty Flames,Norfolk State Spartans,"6-6, 5-1 Home","4-7, 1-4 Away",52,17,,,Final,ESPN3,10,28,7,7,,3,7,0,7,,NCAAF

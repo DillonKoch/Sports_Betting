@@ -1,14 +1,14 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-400787417,2015,"Sat, Sep 12",Louisiana Monroe Warhawks,Nicholls State Colonels,"1-1, 1-0 Home","0-1, 0-1 Away",47,0,NULL,NULL,Final,ESPN3,10,30,0,7,NULL,0,0,0,0,NULL,NCAAF
-400787445,2015,"Sat, Oct 3",Louisiana Monroe Warhawks,Georgia Southern Eagles,"1-3, 0-1 Conf","4-1, 2-0 Conf",31,51,NULL,NULL,Final,ESPN3,0,10,7,14,NULL,10,21,0,20,NULL,NCAAF
-400787451,2015,"Sat, Oct 17",Louisiana Monroe Warhawks,Appalachian State Mountaineers,"1-5, 0-2 Conf","5-1, 2-0 Conf",14,59,NULL,NULL,Final,ESPN3,7,7,0,0,NULL,10,14,21,14,NULL,NCAAF
-400787463,2015,"Sat, Oct 31",Louisiana Ragin' Cajuns,Louisiana Monroe Warhawks,"3-4, 2-1 Conf","1-7, 0-4 Conf",30,24,NULL,NULL,Final,ESPN3,3,6,7,14,NULL,14,10,0,0,NULL,NCAAF
-400787471,2015,"Sat, Nov 14",Louisiana Monroe Warhawks,Arkansas State Red Wolves,"1-9, 0-6 Conf","7-3, 6-0 Conf",21,59,NULL,NULL,Final,ESPN3,0,21,0,0,NULL,7,28,10,14,NULL,NCAAF
-400787295,2015,"Sat, Nov 28",Hawai'i Rainbow Warriors,Louisiana Monroe Warhawks,"3-10, 3-4 Home","1-11, 0-8 Away",28,26,NULL,NULL,Final,NULL,7,14,7,0,NULL,3,7,10,6,NULL,NCAAF
-400603831,2015,"Sat, Sep 5",Georgia Bulldogs,Louisiana Monroe Warhawks,"1-0, 1-0 Home","0-1, 0-1 Away",51,14,NULL,NULL,Final,SECN,14,21,9,7,NULL,0,7,7,0,NULL,NCAAF
-400603841,2015,"Sat, Sep 26",Alabama Crimson Tide,Louisiana Monroe Warhawks,"3-1, 2-1 Home","1-2, 0-2 Away",34,0,NULL,NULL,Final,SECN,7,7,10,10,NULL,0,0,0,0,NULL,NCAAF
-400764883,2015,"Sat, Oct 10",Tulsa Golden Hurricane,Louisiana Monroe Warhawks,"3-2, 2-1 Home","1-4, 0-3 Away",34,24,NULL,NULL,Final,ESPN3,10,10,0,14,NULL,0,7,17,0,NULL,NCAAF
-400787456,2015,"Sat, Oct 24",Idaho Vandals,Louisiana Monroe Warhawks,"3-4, 2-2 Conf","1-6, 0-3 Conf",27,13,NULL,NULL,Final,ESPN3,3,10,7,7,NULL,7,3,3,0,NULL,NCAAF
-400787467,2015,"Sat, Nov 7",Troy Trojans,Louisiana Monroe Warhawks,"3-6, 2-3 Conf","1-8, 0-5 Conf",51,14,NULL,NULL,Final,ESPN3,27,21,3,0,NULL,14,0,0,0,NULL,NCAAF
-400787474,2015,"Thu, Nov 19",Texas State Bobcats,Louisiana Monroe Warhawks,"3-7, 2-4 Conf","1-10, 0-7 Conf",16,3,NULL,NULL,Final,ESPNU,3,7,0,6,NULL,3,0,0,0,NULL,NCAAF
-400787486,2015,"Sat, Dec 5",Louisiana Monroe Warhawks,New Mexico State Aggies,"2-11, 1-7 Conf","3-9, 3-5 Conf",42,35,NULL,NULL,Final,ESPN3,7,7,21,7,NULL,14,7,14,0,NULL,NCAAF
+400787417,2015,"September 12, 2015",Louisiana Monroe Warhawks,Nicholls State Colonels,"1-1, 1-0 Home","0-1, 0-1 Away",47,0,,,Final,ESPN3,10,30,0,7,,0,0,0,0,,NCAAF
+400787445,2015,"October 03, 2015",Louisiana Monroe Warhawks,Georgia Southern Eagles,"1-3, 0-1 Conf","4-1, 2-0 Conf",31,51,,,Final,ESPN3,0,10,7,14,,10,21,0,20,,NCAAF
+400787451,2015,"October 17, 2015",Louisiana Monroe Warhawks,Appalachian State Mountaineers,"1-5, 0-2 Conf","5-1, 2-0 Conf",14,59,,,Final,ESPN3,7,7,0,0,,10,14,21,14,,NCAAF
+400787463,2015,"October 31, 2015",Louisiana Ragin' Cajuns,Louisiana Monroe Warhawks,"3-4, 2-1 Conf","1-7, 0-4 Conf",30,24,,,Final,ESPN3,3,6,7,14,,14,10,0,0,,NCAAF
+400787471,2015,"November 14, 2015",Louisiana Monroe Warhawks,Arkansas State Red Wolves,"1-9, 0-6 Conf","7-3, 6-0 Conf",21,59,,,Final,ESPN3,0,21,0,0,,7,28,10,14,,NCAAF
+400787295,2015,"November 28, 2015",Hawai'i Rainbow Warriors,Louisiana Monroe Warhawks,"3-10, 3-4 Home","1-11, 0-8 Away",28,26,,,Final,,7,14,7,0,,3,7,10,6,,NCAAF
+400603831,2015,"September 05, 2015",Georgia Bulldogs,Louisiana Monroe Warhawks,"1-0, 1-0 Home","0-1, 0-1 Away",51,14,,,Final,SECN,14,21,9,7,,0,7,7,0,,NCAAF
+400603841,2015,"September 26, 2015",Alabama Crimson Tide,Louisiana Monroe Warhawks,"3-1, 2-1 Home","1-2, 0-2 Away",34,0,,,Final,SECN,7,7,10,10,,0,0,0,0,,NCAAF
+400764883,2015,"October 10, 2015",Tulsa Golden Hurricane,Louisiana Monroe Warhawks,"3-2, 2-1 Home","1-4, 0-3 Away",34,24,,,Final,ESPN3,10,10,0,14,,0,7,17,0,,NCAAF
+400787456,2015,"October 24, 2015",Idaho Vandals,Louisiana Monroe Warhawks,"3-4, 2-2 Conf","1-6, 0-3 Conf",27,13,,,Final,ESPN3,3,10,7,7,,7,3,3,0,,NCAAF
+400787467,2015,"November 07, 2015",Troy Trojans,Louisiana Monroe Warhawks,"3-6, 2-3 Conf","1-8, 0-5 Conf",51,14,,,Final,ESPN3,27,21,3,0,,14,0,0,0,,NCAAF
+400787474,2015,"November 19, 2015",Texas State Bobcats,Louisiana Monroe Warhawks,"3-7, 2-4 Conf","1-10, 0-7 Conf",16,3,,,Final,ESPNU,3,7,0,6,,3,0,0,0,,NCAAF
+400787486,2015,"December 05, 2015",Louisiana Monroe Warhawks,New Mexico State Aggies,"2-11, 1-7 Conf","3-9, 3-5 Conf",42,35,,,Final,ESPN3,7,7,21,7,,14,7,14,0,,NCAAF

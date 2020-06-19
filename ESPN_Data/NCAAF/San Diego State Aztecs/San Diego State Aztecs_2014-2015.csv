@@ -1,14 +1,14 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-400547796,2014,"Sat, Sep 6",North Carolina Tar Heels,San Diego State Aztecs,"2-0, 2-0 Home","1-1, 0-1 Away",31,27,NULL,NULL,Final,ESPNN,0,7,7,17,NULL,0,14,7,6,NULL,NCAAF
-400548202,2014,"Sat, Sep 27",San Diego State Aztecs,UNLV Rebels,"2-2, 1-0 Conf","1-4, 0-1 Conf",34,17,NULL,NULL,Final,ESPN3,7,21,0,6,NULL,10,0,0,7,NULL,NCAAF
-400548214,2014,"Fri, Oct 10",New Mexico Lobos,San Diego State Aztecs,"2-4, 0-2 Conf","3-3, 2-1 Conf",14,24,NULL,NULL,Final,ESPNU,0,7,7,0,NULL,3,7,14,0,NULL,NCAAF
-400548230,2014,"Sat, Nov 1",Nevada Wolf Pack,San Diego State Aztecs,"6-3, 3-2 Conf","4-4, 3-2 Conf",30,14,NULL,NULL,Final,CBSSN,3,7,3,17,NULL,7,7,0,0,NULL,NCAAF
-400548239,2014,"Sat, Nov 15",Boise State Broncos,San Diego State Aztecs,"8-2, 5-1 Conf","5-5, 3-3 Conf",38,29,NULL,NULL,Final,ESPNU,0,10,7,21,NULL,10,10,3,6,NULL,NCAAF
-400548175,2014,"Sat, Aug 30",San Diego State Aztecs,Northern Arizona Lumberjacks,"1-0, 1-0 Home","0-1, 0-1 Away",38,7,NULL,NULL,Final,CBSSN,14,10,7,7,NULL,0,0,7,0,NULL,NCAAF
-400548198,2014,"Sat, Sep 20",Oregon State Beavers,San Diego State Aztecs,"3-0, 2-0 Home","1-2, 0-2 Away",28,7,NULL,NULL,Final,FS1,7,7,14,0,NULL,7,0,0,0,NULL,NCAAF
-400548207,2014,"Fri, Oct 3",Fresno State Bulldogs,San Diego State Aztecs,"3-3, 2-0 Conf","2-3, 1-1 Conf",24,13,NULL,NULL,Final,CBSSN,10,0,7,7,NULL,0,3,3,7,NULL,NCAAF
-400548218,2014,"Sat, Oct 18",San Diego State Aztecs,Hawai'i Rainbow Warriors,"4-3, 3-1 Conf","2-5, 1-1 Conf",20,10,NULL,NULL,Final,CBSSN,10,0,7,3,NULL,0,7,3,0,NULL,NCAAF
-400548236,2014,"Sat, Nov 8",San Diego State Aztecs,Idaho Vandals,"5-4, 4-0 Home","1-8, 0-5 Away",35,21,NULL,NULL,Final,NULL,14,0,14,7,NULL,7,7,7,0,NULL,NCAAF
-400548243,2014,"Fri, Nov 21",San Diego State Aztecs,Air Force Falcons,"6-5, 4-3 Conf","8-3, 4-3 Conf",30,14,NULL,NULL,Final,CBSSN,10,3,10,7,NULL,0,14,0,0,NULL,NCAAF
-400548254,2014,"Sat, Nov 29",San Diego State Aztecs,San Jose State Spartans,"7-5, 5-3 Conf","3-9, 2-6 Conf",38,7,NULL,NULL,Final,CBSSN,7,14,7,10,NULL,0,0,0,7,NULL,NCAAF
-400610199,2014,"Tue, Dec 23",San Diego State Aztecs,Navy Midshipmen,7-6,8-5,16,17,NULL,NULL,Final,ESPN,10,3,3,0,NULL,7,0,7,3,NULL,NCAAF
+400547796,2014,"September 06, 2014",North Carolina Tar Heels,San Diego State Aztecs,"2-0, 2-0 Home","1-1, 0-1 Away",31,27,,,Final,ESPNN,0,7,7,17,,0,14,7,6,,NCAAF
+400548202,2014,"September 27, 2014",San Diego State Aztecs,UNLV Rebels,"2-2, 1-0 Conf","1-4, 0-1 Conf",34,17,,,Final,ESPN3,7,21,0,6,,10,0,0,7,,NCAAF
+400548214,2014,"October 10, 2014",New Mexico Lobos,San Diego State Aztecs,"2-4, 0-2 Conf","3-3, 2-1 Conf",14,24,,,Final,ESPNU,0,7,7,0,,3,7,14,0,,NCAAF
+400548230,2014,"November 01, 2014",Nevada Wolf Pack,San Diego State Aztecs,"6-3, 3-2 Conf","4-4, 3-2 Conf",30,14,,,Final,CBSSN,3,7,3,17,,7,7,0,0,,NCAAF
+400548239,2014,"November 15, 2014",Boise State Broncos,San Diego State Aztecs,"8-2, 5-1 Conf","5-5, 3-3 Conf",38,29,,,Final,ESPNU,0,10,7,21,,10,10,3,6,,NCAAF
+400548175,2014,"August 30, 2014",San Diego State Aztecs,Northern Arizona Lumberjacks,"1-0, 1-0 Home","0-1, 0-1 Away",38,7,,,Final,CBSSN,14,10,7,7,,0,0,7,0,,NCAAF
+400548198,2014,"September 20, 2014",Oregon State Beavers,San Diego State Aztecs,"3-0, 2-0 Home","1-2, 0-2 Away",28,7,,,Final,FS1,7,7,14,0,,7,0,0,0,,NCAAF
+400548207,2014,"October 03, 2014",Fresno State Bulldogs,San Diego State Aztecs,"3-3, 2-0 Conf","2-3, 1-1 Conf",24,13,,,Final,CBSSN,10,0,7,7,,0,3,3,7,,NCAAF
+400548218,2014,"October 18, 2014",San Diego State Aztecs,Hawai'i Rainbow Warriors,"4-3, 3-1 Conf","2-5, 1-1 Conf",20,10,,,Final,CBSSN,10,0,7,3,,0,7,3,0,,NCAAF
+400548236,2014,"November 08, 2014",San Diego State Aztecs,Idaho Vandals,"5-4, 4-0 Home","1-8, 0-5 Away",35,21,,,Final,,14,0,14,7,,7,7,7,0,,NCAAF
+400548243,2014,"November 21, 2014",San Diego State Aztecs,Air Force Falcons,"6-5, 4-3 Conf","8-3, 4-3 Conf",30,14,,,Final,CBSSN,10,3,10,7,,0,14,0,0,,NCAAF
+400548254,2014,"November 29, 2014",San Diego State Aztecs,San Jose State Spartans,"7-5, 5-3 Conf","3-9, 2-6 Conf",38,7,,,Final,CBSSN,7,14,7,10,,0,0,0,7,,NCAAF
+400610199,2014,"December 23, 2014",San Diego State Aztecs,Navy Midshipmen,7-6,8-5,16,17,,,Final,ESPN,10,3,3,0,,7,0,7,3,,NCAAF

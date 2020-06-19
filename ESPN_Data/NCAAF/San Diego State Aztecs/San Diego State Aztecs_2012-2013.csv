@@ -1,14 +1,14 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-322520021,2012,"Sat, Sep 8",San Diego State Aztecs,Army Black Knights,"1-1, 1-0 Home","0-1, 0-1 Away",42,7,NULL,NULL,Final,NBCSN,14,7,21,0,NULL,0,0,7,0,NULL,NCAAF
-322660021,2012,"Sat, Sep 22",San Diego State Aztecs,San Jose State Spartans,"2-2, 2-1 Home","3-1, 1-1 Away",34,38,NULL,NULL,Final,NULL,0,17,7,10,NULL,3,14,0,21,NULL,NCAAF
-322800021,2012,"Sat, Oct 6",San Diego State Aztecs,Hawai'i Rainbow Warriors,"3-3, 1-1 Conf","1-4, 0-2 Conf",52,14,NULL,NULL,Final,CBSSN,14,21,3,14,NULL,0,7,7,0,NULL,NCAAF
-322942440,2012,"Sat, Oct 20",Nevada Wolf Pack,San Diego State Aztecs,"6-2, 3-1 Conf","5-3, 3-1 Conf",38,39,NULL,NULL,Final/OT,CBSSN,3,7,14,7,7,0,6,8,17,8,NCAAF
-323080068,2012,"Sat, Nov 3",Boise State Broncos,San Diego State Aztecs,"7-2, 4-1 Conf","7-3, 5-1 Conf",19,21,NULL,NULL,Final,CBSSN,6,7,0,6,NULL,7,0,7,7,NULL,NCAAF
-322450264,2012,"Sat, Sep 1",Washington Huskies,San Diego State Aztecs,"1-0, 1-0 Home","0-1, 0-1 Away",21,12,NULL,NULL,Final,PAC12,14,0,7,0,NULL,0,6,0,6,NULL,NCAAF
-322590021,2012,"Sat, Sep 15",San Diego State Aztecs,North Dakota ,"2-1, 2-0 Home","2-1, 0-1 Away",49,41,NULL,NULL,Final,NULL,21,14,7,7,NULL,14,6,7,14,NULL,NCAAF
-322730278,2012,"Sat, Sep 29",Fresno State Bulldogs,San Diego State Aztecs,"3-2, 1-0 Conf","2-3, 0-1 Conf",52,40,NULL,NULL,Final,NULL,7,29,10,6,NULL,21,6,13,0,NULL,NCAAF
-322870021,2012,"Sat, Oct 13",San Diego State Aztecs,Colorado State Rams,"4-3, 2-1 Conf","1-6, 0-3 Conf",38,14,NULL,NULL,Final,NULL,7,10,14,7,NULL,7,0,0,7,NULL,NCAAF
-323010021,2012,"Sat, Oct 27",San Diego State Aztecs,Unlv Rebels,"6-3, 4-1 Conf","1-8, 1-3 Conf",24,13,NULL,NULL,Final,NULL,7,7,7,3,NULL,6,0,7,0,NULL,NCAAF
-323150021,2012,"Sat, Nov 10",San Diego State Aztecs,Air Force Falcons,"8-3, 6-1 Conf","5-5, 4-2 Conf",28,9,NULL,NULL,Final,NBCSN,7,7,14,0,NULL,3,0,6,0,NULL,NCAAF
-323292751,2012,"Sat, Nov 24",Wyoming Cowboys,San Diego State Aztecs,"4-8, 3-5 Conf","9-3, 7-1 Conf",28,42,NULL,NULL,Final,NULL,7,21,0,0,NULL,7,14,14,7,NULL,NCAAF
-323550021,2012,"Thu, Dec 20",San Diego State Aztecs,BYU Cougars,9-4,8-5,6,23,NULL,NULL,Final,ESPN/ESPN3D,3,3,0,0,NULL,0,3,0,20,NULL,NCAAF
+322520021,2012,"September 08, 2012",San Diego State Aztecs,Army Black Knights,"1-1, 1-0 Home","0-1, 0-1 Away",42,7,,,Final,NBCSN,14,7,21,0,,0,0,7,0,,NCAAF
+322660021,2012,"September 22, 2012",San Diego State Aztecs,San Jose State Spartans,"2-2, 2-1 Home","3-1, 1-1 Away",34,38,,,Final,,0,17,7,10,,3,14,0,21,,NCAAF
+322800021,2012,"October 06, 2012",San Diego State Aztecs,Hawai'i Rainbow Warriors,"3-3, 1-1 Conf","1-4, 0-2 Conf",52,14,,,Final,CBSSN,14,21,3,14,,0,7,7,0,,NCAAF
+322942440,2012,"October 20, 2012",Nevada Wolf Pack,San Diego State Aztecs,"6-2, 3-1 Conf","5-3, 3-1 Conf",38,39,,,Final/OT,CBSSN,3,7,14,7,7.0,0,6,8,17,8.0,NCAAF
+323080068,2012,"November 03, 2012",Boise State Broncos,San Diego State Aztecs,"7-2, 4-1 Conf","7-3, 5-1 Conf",19,21,,,Final,CBSSN,6,7,0,6,,7,0,7,7,,NCAAF
+322450264,2012,"September 01, 2012",Washington Huskies,San Diego State Aztecs,"1-0, 1-0 Home","0-1, 0-1 Away",21,12,,,Final,PAC12,14,0,7,0,,0,6,0,6,,NCAAF
+322590021,2012,"September 15, 2012",San Diego State Aztecs,North Dakota ,"2-1, 2-0 Home","2-1, 0-1 Away",49,41,,,Final,,21,14,7,7,,14,6,7,14,,NCAAF
+322730278,2012,"September 29, 2012",Fresno State Bulldogs,San Diego State Aztecs,"3-2, 1-0 Conf","2-3, 0-1 Conf",52,40,,,Final,,7,29,10,6,,21,6,13,0,,NCAAF
+322870021,2012,"October 13, 2012",San Diego State Aztecs,Colorado State Rams,"4-3, 2-1 Conf","1-6, 0-3 Conf",38,14,,,Final,,7,10,14,7,,7,0,0,7,,NCAAF
+323010021,2012,"October 27, 2012",San Diego State Aztecs,Unlv Rebels,"6-3, 4-1 Conf","1-8, 1-3 Conf",24,13,,,Final,,7,7,7,3,,6,0,7,0,,NCAAF
+323150021,2012,"November 10, 2012",San Diego State Aztecs,Air Force Falcons,"8-3, 6-1 Conf","5-5, 4-2 Conf",28,9,,,Final,NBCSN,7,7,14,0,,3,0,6,0,,NCAAF
+323292751,2012,"November 24, 2012",Wyoming Cowboys,San Diego State Aztecs,"4-8, 3-5 Conf","9-3, 7-1 Conf",28,42,,,Final,,7,21,0,0,,7,14,14,7,,NCAAF
+323550021,2012,"December 20, 2012",San Diego State Aztecs,BYU Cougars,9-4,8-5,6,23,,,Final,ESPN/ESPN3D,3,3,0,0,,0,3,0,20,,NCAAF

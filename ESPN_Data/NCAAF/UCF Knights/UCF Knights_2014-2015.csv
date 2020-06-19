@@ -1,14 +1,14 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-400547660,2014,"Sat, Sep 13",Missouri Tigers,UCF Knights,"3-0, 2-0 Home","0-2, 0-1 Away",38,10,NULL,NULL,Final,SECN,7,7,7,17,NULL,3,7,0,0,NULL,NCAAF
-400547682,2014,"Thu, Oct 2",Houston Cougars,UCF Knights,"2-3, 0-1 Conf","2-2, 1-0 Conf",12,17,NULL,NULL,Final,ESPN,3,3,0,6,NULL,0,7,10,0,NULL,NCAAF
-400547692,2014,"Sat, Oct 18",UCF Knights,Tulane Green Wave,"4-2, 2-0 Conf","2-5, 1-2 Conf",20,13,NULL,NULL,Final,ESPNU,0,13,7,0,NULL,3,0,3,7,NULL,NCAAF
-400547702,2014,"Sat, Nov 1",Connecticut Huskies,UCF Knights,"2-6, 1-4 Conf","5-3, 3-1 Conf",37,29,NULL,NULL,Final,CBSSN,0,17,14,6,NULL,7,7,7,8,NULL,NCAAF
-400547714,2014,"Sat, Nov 22",UCF Knights,SMU Mustangs,"7-3, 5-1 Conf","0-10, 0-6 Conf",53,7,NULL,NULL,Final,ESPNN,27,10,6,10,NULL,0,7,0,0,NULL,NCAAF
-400547642,2014,"Sat, Aug 30",UCF Knights,Penn State Nittany Lions,0-1,1-0,24,26,NULL,NULL,Final,ESPN2,0,3,7,14,NULL,7,3,10,6,NULL,NCAAF
-400547667,2014,"Sat, Sep 20",UCF Knights,Bethune-Cookman Wildcats,"1-2, 1-0 Home","2-1, 1-1 Away",41,7,NULL,NULL,Final,ESPN3,3,17,14,7,NULL,7,0,0,0,NULL,NCAAF
-400547686,2014,"Thu, Oct 9",UCF Knights,BYU Cougars,"3-2, 2-0 Home","4-2, 2-1 Away",31,24,NULL,NULL,Final/OT,ESPN,10,0,7,7,7,0,3,21,0,0,NCAAF
-400547698,2014,"Sat, Oct 25",UCF Knights,Temple Owls,"5-2, 3-0 Conf","4-3, 2-2 Conf",34,14,NULL,NULL,Final,NULL,17,10,7,0,NULL,0,14,0,0,NULL,NCAAF
-400547709,2014,"Fri, Nov 14",UCF Knights,Tulsa Golden Hurricane,"6-3, 4-1 Conf","2-8, 2-4 Conf",31,7,NULL,NULL,Final,ESPN2,3,14,14,0,NULL,0,7,0,0,NULL,NCAAF
-400547719,2014,"Fri, Nov 28",South Florida Bulls,UCF Knights,"4-8, 3-5 Conf","8-3, 6-1 Conf",0,16,NULL,NULL,Final,ESPN2,0,0,0,0,NULL,0,14,2,0,NULL,NCAAF
-400547724,2014,"Thu, Dec 4",East Carolina Pirates,UCF Knights,"8-4, 5-3 Conf","9-3, 7-1 Conf",30,32,NULL,NULL,Final,ESPN,6,3,0,21,NULL,6,17,3,6,NULL,NCAAF
-400610209,2014,"Fri, Dec 26",UCF Knights,NC State Wolfpack,9-4,8-5,27,34,NULL,NULL,Final,ESPN,3,7,3,14,NULL,7,10,14,3,NULL,NCAAF
+400547660,2014,"September 13, 2014",Missouri Tigers,UCF Knights,"3-0, 2-0 Home","0-2, 0-1 Away",38,10,,,Final,SECN,7,7,7,17,,3,7,0,0,,NCAAF
+400547682,2014,"October 02, 2014",Houston Cougars,UCF Knights,"2-3, 0-1 Conf","2-2, 1-0 Conf",12,17,,,Final,ESPN,3,3,0,6,,0,7,10,0,,NCAAF
+400547692,2014,"October 18, 2014",UCF Knights,Tulane Green Wave,"4-2, 2-0 Conf","2-5, 1-2 Conf",20,13,,,Final,ESPNU,0,13,7,0,,3,0,3,7,,NCAAF
+400547702,2014,"November 01, 2014",Connecticut Huskies,UCF Knights,"2-6, 1-4 Conf","5-3, 3-1 Conf",37,29,,,Final,CBSSN,0,17,14,6,,7,7,7,8,,NCAAF
+400547714,2014,"November 22, 2014",UCF Knights,SMU Mustangs,"7-3, 5-1 Conf","0-10, 0-6 Conf",53,7,,,Final,ESPNN,27,10,6,10,,0,7,0,0,,NCAAF
+400547642,2014,"August 30, 2014",UCF Knights,Penn State Nittany Lions,0-1,1-0,24,26,,,Final,ESPN2,0,3,7,14,,7,3,10,6,,NCAAF
+400547667,2014,"September 20, 2014",UCF Knights,Bethune-Cookman Wildcats,"1-2, 1-0 Home","2-1, 1-1 Away",41,7,,,Final,ESPN3,3,17,14,7,,7,0,0,0,,NCAAF
+400547686,2014,"October 09, 2014",UCF Knights,BYU Cougars,"3-2, 2-0 Home","4-2, 2-1 Away",31,24,,,Final/OT,ESPN,10,0,7,7,7.0,0,3,21,0,0.0,NCAAF
+400547698,2014,"October 25, 2014",UCF Knights,Temple Owls,"5-2, 3-0 Conf","4-3, 2-2 Conf",34,14,,,Final,,17,10,7,0,,0,14,0,0,,NCAAF
+400547709,2014,"November 14, 2014",UCF Knights,Tulsa Golden Hurricane,"6-3, 4-1 Conf","2-8, 2-4 Conf",31,7,,,Final,ESPN2,3,14,14,0,,0,7,0,0,,NCAAF
+400547719,2014,"November 28, 2014",South Florida Bulls,UCF Knights,"4-8, 3-5 Conf","8-3, 6-1 Conf",0,16,,,Final,ESPN2,0,0,0,0,,0,14,2,0,,NCAAF
+400547724,2014,"December 04, 2014",East Carolina Pirates,UCF Knights,"8-4, 5-3 Conf","9-3, 7-1 Conf",30,32,,,Final,ESPN,6,3,0,21,,6,17,3,6,,NCAAF
+400610209,2014,"December 26, 2014",UCF Knights,NC State Wolfpack,9-4,8-5,27,34,,,Final,ESPN,3,7,3,14,,7,10,14,3,,NCAAF

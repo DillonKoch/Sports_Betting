@@ -1,13 +1,13 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-400934498,2017,"Sat, Sep 9",Baylor Bears,UT San Antonio Roadrunners,"0-2, 0-2 Home","1-0, 1-0 Away",10,17,NULL,NULL,Final,NULL,0,7,0,3,NULL,0,7,7,3,NULL,NCAAF
-400934515,2017,"Sat, Sep 23",Baylor Bears,Oklahoma Sooners,"0-4, 0-1 Conf","4-0, 1-0 Conf",41,49,NULL,NULL,Final,FS1,7,10,14,10,NULL,21,7,7,14,NULL,NCAAF
-400934526,2017,"Sat, Oct 14",Oklahoma State Cowboys,Baylor Bears,"5-1, 2-1 Conf","0-6, 0-3 Conf",59,16,NULL,NULL,Final,FS1,7,28,10,14,NULL,7,3,6,0,NULL,NCAAF
-400934538,2017,"Sat, Oct 28",Baylor Bears,Texas Longhorns,"0-8, 0-5 Conf","4-4, 3-2 Conf",7,38,NULL,NULL,Final,ESPNU,0,7,0,0,NULL,7,14,3,14,NULL,NCAAF
-400934549,2017,"Sat, Nov 11",Baylor Bears,Texas Tech Red Raiders,"1-9, 1-6 Conf","5-5, 2-5 Conf",24,38,NULL,NULL,Final,NULL,7,0,7,10,NULL,14,7,10,7,NULL,NCAAF
-400934489,2017,"Sat, Sep 2",Baylor Bears,Liberty Flames,"0-1, 0-1 Home","1-0, 1-0 Away",45,48,NULL,NULL,Final,FS2,0,17,14,14,NULL,6,11,17,14,NULL,NCAAF
-400934506,2017,"Sat, Sep 16",Duke Blue Devils,Baylor Bears,"3-0, 3-0 Home","0-3, 0-1 Away",34,20,NULL,NULL,Final,ACCNX,7,7,10,10,NULL,7,0,13,0,NULL,NCAAF
-400934519,2017,"Sat, Sep 30",Kansas State Wildcats,Baylor Bears,"3-1, 1-0 Conf","0-5, 0-2 Conf",33,20,NULL,NULL,Final,ESPN2,7,13,0,13,NULL,3,0,10,7,NULL,NCAAF
-400934533,2017,"Sat, Oct 21",Baylor Bears,West Virginia Mountaineers,"0-7, 0-4 Conf","5-2, 3-1 Conf",36,38,NULL,NULL,Final,NULL,0,6,7,23,NULL,10,7,21,0,NULL,NCAAF
-400934541,2017,"Sat, Nov 4",Kansas Jayhawks,Baylor Bears,"1-8, 0-6 Conf","1-8, 1-5 Conf",9,38,NULL,NULL,Final,NULL,0,6,3,0,NULL,0,21,7,10,NULL,NCAAF
-400934551,2017,"Sat, Nov 18",Baylor Bears,Iowa State Cyclones,"1-10, 1-7 Conf","7-4, 5-3 Conf",13,23,NULL,NULL,Final,NULL,7,3,3,0,NULL,7,10,3,3,NULL,NCAAF
-400934556,2017,"Fri, Nov 24",TCU Horned Frogs,Baylor Bears,"10-2, 7-2 Conf","1-11, 1-8 Conf",45,22,NULL,NULL,Final,FS1,14,7,14,10,NULL,9,10,3,0,NULL,NCAAF
+400934498,2017,"September 09, 2017",Baylor Bears,UT San Antonio Roadrunners,"0-2, 0-2 Home","1-0, 1-0 Away",10,17,,,Final,,0,7,0,3,,0,7,7,3,,NCAAF
+400934515,2017,"September 23, 2017",Baylor Bears,Oklahoma Sooners,"0-4, 0-1 Conf","4-0, 1-0 Conf",41,49,,,Final,FS1,7,10,14,10,,21,7,7,14,,NCAAF
+400934526,2017,"October 14, 2017",Oklahoma State Cowboys,Baylor Bears,"5-1, 2-1 Conf","0-6, 0-3 Conf",59,16,,,Final,FS1,7,28,10,14,,7,3,6,0,,NCAAF
+400934538,2017,"October 28, 2017",Baylor Bears,Texas Longhorns,"0-8, 0-5 Conf","4-4, 3-2 Conf",7,38,,,Final,ESPNU,0,7,0,0,,7,14,3,14,,NCAAF
+400934549,2017,"November 11, 2017",Baylor Bears,Texas Tech Red Raiders,"1-9, 1-6 Conf","5-5, 2-5 Conf",24,38,,,Final,,7,0,7,10,,14,7,10,7,,NCAAF
+400934489,2017,"September 02, 2017",Baylor Bears,Liberty Flames,"0-1, 0-1 Home","1-0, 1-0 Away",45,48,,,Final,FS2,0,17,14,14,,6,11,17,14,,NCAAF
+400934506,2017,"September 16, 2017",Duke Blue Devils,Baylor Bears,"3-0, 3-0 Home","0-3, 0-1 Away",34,20,,,Final,ACCNX,7,7,10,10,,7,0,13,0,,NCAAF
+400934519,2017,"September 30, 2017",Kansas State Wildcats,Baylor Bears,"3-1, 1-0 Conf","0-5, 0-2 Conf",33,20,,,Final,ESPN2,7,13,0,13,,3,0,10,7,,NCAAF
+400934533,2017,"October 21, 2017",Baylor Bears,West Virginia Mountaineers,"0-7, 0-4 Conf","5-2, 3-1 Conf",36,38,,,Final,,0,6,7,23,,10,7,21,0,,NCAAF
+400934541,2017,"November 04, 2017",Kansas Jayhawks,Baylor Bears,"1-8, 0-6 Conf","1-8, 1-5 Conf",9,38,,,Final,,0,6,3,0,,0,21,7,10,,NCAAF
+400934551,2017,"November 18, 2017",Baylor Bears,Iowa State Cyclones,"1-10, 1-7 Conf","7-4, 5-3 Conf",13,23,,,Final,,7,3,3,0,,7,10,3,3,,NCAAF
+400934556,2017,"November 24, 2017",TCU Horned Frogs,Baylor Bears,"10-2, 7-2 Conf","1-11, 1-8 Conf",45,22,,,Final,FS1,14,7,14,10,,9,10,3,0,,NCAAF

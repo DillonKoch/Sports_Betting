@@ -1,13 +1,13 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-400763502,2015,"Sat, Sep 12",Maryland Terrapins,Bowling Green Falcons,"1-1, 1-1 Home","1-1, 1-0 Away",27,48,NULL,NULL,Final,BTN,10,3,7,7,NULL,0,6,14,28,NULL,NCAAF
-400763426,2015,"Sat, Sep 26",West Virginia Mountaineers,Maryland Terrapins,"3-0, 3-0 Home","2-2, 0-1 Away",45,6,NULL,NULL,Final,FS1,21,17,0,7,NULL,0,0,0,6,NULL,NCAAF
-400763537,2015,"Sat, Oct 10",Ohio State Buckeyes,Maryland Terrapins,"6-0, 2-0 Conf","2-4, 0-2 Conf",49,28,NULL,NULL,Final,BTN,7,14,14,14,NULL,7,7,7,7,NULL,NCAAF
-400763552,2015,"Sat, Oct 31",Iowa Hawkeyes,Maryland Terrapins,"8-0, 4-0 Conf","2-6, 0-4 Conf",31,15,NULL,NULL,Final,ABC/ESPN2,7,14,0,10,NULL,0,0,0,15,NULL,NCAAF
-400763567,2015,"Sat, Nov 14",Michigan State Spartans,Maryland Terrapins,"9-1, 5-1 Conf","2-8, 0-6 Conf",24,7,NULL,NULL,Final,ESPN2,7,10,7,0,NULL,7,0,0,0,NULL,NCAAF
-400763494,2015,"Sat, Sep 5",Maryland Terrapins,Richmond Spiders,"1-0, 1-0 Home","0-1, 0-1 Away",50,21,NULL,NULL,Final,ESPNU,10,12,7,21,NULL,7,7,0,7,NULL,NCAAF
-400763510,2015,"Sat, Sep 19",Maryland Terrapins,South Florida Bulls,"2-1, 2-1 Home","1-2, 0-2 Away",35,17,NULL,NULL,Final,ESPNU,14,7,7,7,NULL,7,3,7,0,NULL,NCAAF
-400763530,2015,"Sat, Oct 3",Maryland Terrapins,Michigan Wolverines,"2-3, 0-1 Conf","4-1, 1-0 Conf",0,28,NULL,NULL,Final,BTN,0,0,0,0,NULL,0,6,15,7,NULL,NCAAF
-400763548,2015,"Sat, Oct 24",Maryland Terrapins,Penn State Nittany Lions,"2-5, 0-3 Conf","6-2, 3-1 Conf",30,31,NULL,NULL,Final,ESPN,7,6,14,3,NULL,7,10,7,7,NULL,NCAAF
-400763558,2015,"Sat, Nov 7",Maryland Terrapins,Wisconsin Badgers,"2-7, 0-5 Conf","8-2, 5-1 Conf",24,31,NULL,NULL,Final,BTN,7,10,0,7,NULL,14,3,7,7,NULL,NCAAF
-400763571,2015,"Sat, Nov 21",Maryland Terrapins,Indiana Hoosiers,"2-9, 0-7 Conf","5-6, 1-6 Conf",28,47,NULL,NULL,Final,NULL,21,0,7,0,NULL,10,20,17,0,NULL,NCAAF
-400763582,2015,"Sat, Nov 28",Rutgers Scarlet Knights,Maryland Terrapins,"4-8, 1-7 Conf","3-9, 1-7 Conf",41,46,NULL,NULL,Final,BTN,7,24,7,3,NULL,0,13,14,19,NULL,NCAAF
+400763502,2015,"September 12, 2015",Maryland Terrapins,Bowling Green Falcons,"1-1, 1-1 Home","1-1, 1-0 Away",27,48,,,Final,BTN,10,3,7,7,,0,6,14,28,,NCAAF
+400763426,2015,"September 26, 2015",West Virginia Mountaineers,Maryland Terrapins,"3-0, 3-0 Home","2-2, 0-1 Away",45,6,,,Final,FS1,21,17,0,7,,0,0,0,6,,NCAAF
+400763537,2015,"October 10, 2015",Ohio State Buckeyes,Maryland Terrapins,"6-0, 2-0 Conf","2-4, 0-2 Conf",49,28,,,Final,BTN,7,14,14,14,,7,7,7,7,,NCAAF
+400763552,2015,"October 31, 2015",Iowa Hawkeyes,Maryland Terrapins,"8-0, 4-0 Conf","2-6, 0-4 Conf",31,15,,,Final,ABC/ESPN2,7,14,0,10,,0,0,0,15,,NCAAF
+400763567,2015,"November 14, 2015",Michigan State Spartans,Maryland Terrapins,"9-1, 5-1 Conf","2-8, 0-6 Conf",24,7,,,Final,ESPN2,7,10,7,0,,7,0,0,0,,NCAAF
+400763494,2015,"September 05, 2015",Maryland Terrapins,Richmond Spiders,"1-0, 1-0 Home","0-1, 0-1 Away",50,21,,,Final,ESPNU,10,12,7,21,,7,7,0,7,,NCAAF
+400763510,2015,"September 19, 2015",Maryland Terrapins,South Florida Bulls,"2-1, 2-1 Home","1-2, 0-2 Away",35,17,,,Final,ESPNU,14,7,7,7,,7,3,7,0,,NCAAF
+400763530,2015,"October 03, 2015",Maryland Terrapins,Michigan Wolverines,"2-3, 0-1 Conf","4-1, 1-0 Conf",0,28,,,Final,BTN,0,0,0,0,,0,6,15,7,,NCAAF
+400763548,2015,"October 24, 2015",Maryland Terrapins,Penn State Nittany Lions,"2-5, 0-3 Conf","6-2, 3-1 Conf",30,31,,,Final,ESPN,7,6,14,3,,7,10,7,7,,NCAAF
+400763558,2015,"November 07, 2015",Maryland Terrapins,Wisconsin Badgers,"2-7, 0-5 Conf","8-2, 5-1 Conf",24,31,,,Final,BTN,7,10,0,7,,14,3,7,7,,NCAAF
+400763571,2015,"November 21, 2015",Maryland Terrapins,Indiana Hoosiers,"2-9, 0-7 Conf","5-6, 1-6 Conf",28,47,,,Final,,21,0,7,0,,10,20,17,0,,NCAAF
+400763582,2015,"November 28, 2015",Rutgers Scarlet Knights,Maryland Terrapins,"4-8, 1-7 Conf","3-9, 1-7 Conf",41,46,,,Final,BTN,7,24,7,3,,0,13,14,19,,NCAAF

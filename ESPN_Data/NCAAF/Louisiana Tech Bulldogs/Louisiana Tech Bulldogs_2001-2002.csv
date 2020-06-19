@@ -1,13 +1,13 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-212510197,2001,"Sat, Sep 8",Oklahoma State Cowboys,Louisiana Tech Bulldogs,"1-1, 1-0 Home","1-1, 0-1 Away",30,23,NULL,NULL,Final,NULL,14,6,3,7,NULL,0,13,7,3,NULL,NCAAF
-212720278,2001,"Sat, Sep 29",Fresno State Bulldogs,Louisiana Tech Bulldogs,"5-0, 2-0 Conf","1-2, 1-1 Conf",38,28,NULL,NULL,Final,NULL,0,21,10,7,NULL,7,14,0,7,NULL,NCAAF
-212862440,2001,"Sat, Oct 13",Nevada Wolf Pack,Louisiana Tech Bulldogs,"1-4, 1-1 Conf","3-2, 3-1 Conf",42,45,NULL,NULL,Final,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NCAAF
-213002348,2001,"Sat, Oct 27",Louisiana Tech Bulldogs,Rice Owls,"4-3, 4-1 Conf","6-2, 3-1 Conf",41,38,NULL,NULL,Final/OT,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NCAAF
-213142638,2001,"Sat, Nov 10",UTEP Miners,Louisiana Tech Bulldogs,"2-7, 1-5 Conf","6-3, 6-1 Conf",30,53,NULL,NULL,Final,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NCAAF
-212442348,2001,"Sat, Sep 1",Louisiana Tech Bulldogs,Southern Methodist Mustangs,"1-0, 1-0 Conf","0-1, 0-1 Conf",36,6,NULL,NULL,Final,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NCAAF
-212792348,2001,"Sat, Oct 6",Louisiana Tech Bulldogs,San Jose State Spartans,"2-2, 2-1 Conf","0-4, 0-1 Conf",41,20,NULL,NULL,Final,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NCAAF
-212930002,2001,"Sat, Oct 20",Auburn Tigers,Louisiana Tech Bulldogs,"6-1, 5-0 Home","3-3, 1-3 Away",48,41,NULL,NULL,Final/OT,NULL,7,24,3,7,7,3,10,7,21,0,NCAAF
-213072348,2001,"Sat, Nov 3",Louisiana Tech Bulldogs,Boise State Broncos,"5-3, 5-1 Conf","5-4, 4-2 Conf",48,42,NULL,NULL,Final,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NCAAF
-213212306,2001,"Sat, Nov 17",Kansas State Wildcats,Louisiana Tech Bulldogs,"5-5, 3-2 Home","6-4, 2-4 Away",40,7,NULL,NULL,Final,NULL,0,12,14,14,NULL,7,0,0,0,NULL,NCAAF
-213280202,2001,"Sat, Nov 24",Tulsa Golden Hurricane,Louisiana Tech Bulldogs,"1-10, 0-8 Conf","7-4, 7-1 Conf",7,19,NULL,NULL,Final,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NCAAF
-213652348,2001,"Mon, Dec 31",Louisiana Tech Bulldogs,Clemson Tigers,"7-5, 4-1 Home","7-5, 4-2 Away",24,49,NULL,NULL,Final,NULL,3,7,0,14,NULL,7,7,28,7,NULL,NCAAF
+212510197,2001,"September 08, 2001",Oklahoma State Cowboys,Louisiana Tech Bulldogs,"1-1, 1-0 Home","1-1, 0-1 Away",30,23,,,Final,,14,6,3,7,,0,13,7,3,,NCAAF
+212720278,2001,"September 29, 2001",Fresno State Bulldogs,Louisiana Tech Bulldogs,"5-0, 2-0 Conf","1-2, 1-1 Conf",38,28,,,Final,,0,21,10,7,,7,14,0,7,,NCAAF
+212862440,2001,"October 13, 2001",Nevada Wolf Pack,Louisiana Tech Bulldogs,"1-4, 1-1 Conf","3-2, 3-1 Conf",42,45,,,Final,,N,U,L,L,,N,U,L,L,,NCAAF
+213002348,2001,"October 27, 2001",Louisiana Tech Bulldogs,Rice Owls,"4-3, 4-1 Conf","6-2, 3-1 Conf",41,38,,,Final/OT,,N,U,L,L,,N,U,L,L,,NCAAF
+213142638,2001,"November 10, 2001",UTEP Miners,Louisiana Tech Bulldogs,"2-7, 1-5 Conf","6-3, 6-1 Conf",30,53,,,Final,,N,U,L,L,,N,U,L,L,,NCAAF
+212442348,2001,"September 01, 2001",Louisiana Tech Bulldogs,Southern Methodist Mustangs,"1-0, 1-0 Conf","0-1, 0-1 Conf",36,6,,,Final,,N,U,L,L,,N,U,L,L,,NCAAF
+212792348,2001,"October 06, 2001",Louisiana Tech Bulldogs,San Jose State Spartans,"2-2, 2-1 Conf","0-4, 0-1 Conf",41,20,,,Final,,N,U,L,L,,N,U,L,L,,NCAAF
+212930002,2001,"October 20, 2001",Auburn Tigers,Louisiana Tech Bulldogs,"6-1, 5-0 Home","3-3, 1-3 Away",48,41,,,Final/OT,,7,24,3,7,7.0,3,10,7,21,0.0,NCAAF
+213072348,2001,"November 03, 2001",Louisiana Tech Bulldogs,Boise State Broncos,"5-3, 5-1 Conf","5-4, 4-2 Conf",48,42,,,Final,,N,U,L,L,,N,U,L,L,,NCAAF
+213212306,2001,"November 17, 2001",Kansas State Wildcats,Louisiana Tech Bulldogs,"5-5, 3-2 Home","6-4, 2-4 Away",40,7,,,Final,,0,12,14,14,,7,0,0,0,,NCAAF
+213280202,2001,"November 24, 2001",Tulsa Golden Hurricane,Louisiana Tech Bulldogs,"1-10, 0-8 Conf","7-4, 7-1 Conf",7,19,,,Final,,N,U,L,L,,N,U,L,L,,NCAAF
+213652348,2001,"December 31, 2001",Louisiana Tech Bulldogs,Clemson Tigers,"7-5, 4-1 Home","7-5, 4-2 Away",24,49,,,Final,,3,7,0,14,,7,7,28,7,,NCAAF

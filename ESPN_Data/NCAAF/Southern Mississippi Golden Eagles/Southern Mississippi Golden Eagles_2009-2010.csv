@@ -1,14 +1,14 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-292552572,2009,"Sat, Sep 12",Southern Mississippi Golden Eagles,UCF Knights,"2-0, 1-0 Conf","1-1, 0-1 Conf",26,19,NULL,NULL,Final,NULL,14,6,0,6,NULL,0,10,0,9,NULL,NCAAF
-292692305,2009,"Sat, Sep 26",Kansas Jayhawks,Southern Mississippi Golden Eagles,"4-0, 3-0 Home","3-1, 0-1 Away",35,28,NULL,NULL,Final,NULL,14,7,7,7,NULL,7,7,14,0,NULL,NCAAF
-292830097,2009,"Sat, Oct 10",Louisville Cardinals,Southern Mississippi Golden Eagles,"2-3, 2-1 Home","3-3, 0-3 Away",25,23,NULL,NULL,Final,ESPNU,7,0,15,3,NULL,6,10,0,7,NULL,NCAAF
-292972572,2009,"Sat, Oct 24",Southern Mississippi Golden Eagles,Tulane Green Wave,"5-3, 3-1 Conf","2-5, 0-4 Conf",43,6,NULL,NULL,Final,NULL,7,13,6,17,NULL,0,0,6,0,NULL,NCAAF
-293180276,2009,"Sat, Nov 14",Marshall Thundering Herd,Southern Mississippi Golden Eagles,"5-5, 3-3 Conf","6-4, 4-2 Conf",20,27,NULL,NULL,Final,NULL,0,13,0,7,NULL,7,7,6,7,NULL,NCAAF
-292482572,2009,"Sat, Sep 5",Southern Mississippi Golden Eagles,Alcorn State Braves,"1-0, 1-0 Home","0-1, 0-1 Away",52,0,NULL,NULL,Final,NULL,14,21,7,10,NULL,0,0,0,0,NULL,NCAAF
-292622572,2009,"Sat, Sep 19",Southern Mississippi Golden Eagles,Virginia Cavaliers,"3-0, 3-0 Home","0-3, 0-1 Away",37,34,NULL,NULL,Final,NULL,0,10,14,13,NULL,13,14,7,0,NULL,NCAAF
-292740005,2009,"Thu, Oct 1",UAB Blazers,Southern Mississippi Golden Eagles,"2-3, 2-1 Conf","3-2, 1-1 Conf",30,17,NULL,NULL,Final,NULL,10,0,7,13,NULL,0,10,0,7,NULL,NCAAF
-292902572,2009,"Sat, Oct 17",Southern Mississippi Golden Eagles,Memphis Tigers,"4-3, 2-1 Conf","2-5, 1-3 Conf",36,16,NULL,NULL,Final,NULL,0,10,14,12,NULL,3,3,3,7,NULL,NCAAF
-293040248,2009,"Sat, Oct 31",Houston Cougars,Southern Mississippi Golden Eagles,"7-1, 3-1 Conf","5-4, 3-2 Conf",50,43,NULL,NULL,Final,NULL,7,23,3,17,NULL,13,9,0,21,NULL,NCAAF
-293252572,2009,"Sat, Nov 21",Southern Mississippi Golden Eagles,Tulsa Golden Hurricane,"7-4, 5-2 Conf","4-7, 2-5 Conf",44,34,NULL,NULL,Final,NULL,6,28,10,0,NULL,14,14,0,6,NULL,NCAAF
-293320151,2009,"Sat, Nov 28",East Carolina Pirates,Southern Mississippi Golden Eagles,"8-4, 7-1 Conf","7-5, 5-3 Conf",25,20,NULL,NULL,Final,NULL,3,14,0,8,NULL,7,0,7,6,NULL,NCAAF
-293542393,2009,"Sun, Dec 20",Middle Tennessee Blue Raiders,Southern Mississippi Golden Eagles,10-3,7-6,42,32,NULL,NULL,Final,ESPN,0,14,14,14,NULL,14,3,3,12,NULL,NCAAF
+292552572,2009,"September 12, 2009",Southern Mississippi Golden Eagles,UCF Knights,"2-0, 1-0 Conf","1-1, 0-1 Conf",26,19,,,Final,,14,6,0,6,,0,10,0,9,,NCAAF
+292692305,2009,"September 26, 2009",Kansas Jayhawks,Southern Mississippi Golden Eagles,"4-0, 3-0 Home","3-1, 0-1 Away",35,28,,,Final,,14,7,7,7,,7,7,14,0,,NCAAF
+292830097,2009,"October 10, 2009",Louisville Cardinals,Southern Mississippi Golden Eagles,"2-3, 2-1 Home","3-3, 0-3 Away",25,23,,,Final,ESPNU,7,0,15,3,,6,10,0,7,,NCAAF
+292972572,2009,"October 24, 2009",Southern Mississippi Golden Eagles,Tulane Green Wave,"5-3, 3-1 Conf","2-5, 0-4 Conf",43,6,,,Final,,7,13,6,17,,0,0,6,0,,NCAAF
+293180276,2009,"November 14, 2009",Marshall Thundering Herd,Southern Mississippi Golden Eagles,"5-5, 3-3 Conf","6-4, 4-2 Conf",20,27,,,Final,,0,13,0,7,,7,7,6,7,,NCAAF
+292482572,2009,"September 05, 2009",Southern Mississippi Golden Eagles,Alcorn State Braves,"1-0, 1-0 Home","0-1, 0-1 Away",52,0,,,Final,,14,21,7,10,,0,0,0,0,,NCAAF
+292622572,2009,"September 19, 2009",Southern Mississippi Golden Eagles,Virginia Cavaliers,"3-0, 3-0 Home","0-3, 0-1 Away",37,34,,,Final,,0,10,14,13,,13,14,7,0,,NCAAF
+292740005,2009,"October 01, 2009",UAB Blazers,Southern Mississippi Golden Eagles,"2-3, 2-1 Conf","3-2, 1-1 Conf",30,17,,,Final,,10,0,7,13,,0,10,0,7,,NCAAF
+292902572,2009,"October 17, 2009",Southern Mississippi Golden Eagles,Memphis Tigers,"4-3, 2-1 Conf","2-5, 1-3 Conf",36,16,,,Final,,0,10,14,12,,3,3,3,7,,NCAAF
+293040248,2009,"October 31, 2009",Houston Cougars,Southern Mississippi Golden Eagles,"7-1, 3-1 Conf","5-4, 3-2 Conf",50,43,,,Final,,7,23,3,17,,13,9,0,21,,NCAAF
+293252572,2009,"November 21, 2009",Southern Mississippi Golden Eagles,Tulsa Golden Hurricane,"7-4, 5-2 Conf","4-7, 2-5 Conf",44,34,,,Final,,6,28,10,0,,14,14,0,6,,NCAAF
+293320151,2009,"November 28, 2009",East Carolina Pirates,Southern Mississippi Golden Eagles,"8-4, 7-1 Conf","7-5, 5-3 Conf",25,20,,,Final,,3,14,0,8,,7,0,7,6,,NCAAF
+293542393,2009,"December 20, 2009",Middle Tennessee Blue Raiders,Southern Mississippi Golden Eagles,10-3,7-6,42,32,,,Final,ESPN,0,14,14,14,,14,3,3,12,,NCAAF

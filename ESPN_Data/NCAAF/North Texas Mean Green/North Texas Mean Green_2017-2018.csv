@@ -1,15 +1,15 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-400938601,2017,"Sat, Sep 9",SMU Mustangs,North Texas Mean Green,"2-0, 2-0 Home","1-1, 0-1 Away",54,32,NULL,NULL,Final,ESPN3,10,14,16,14,NULL,10,0,7,15,NULL,NCAAF
-400938618,2017,"Sat, Sep 23",North Texas Mean Green,UAB Blazers,"2-2, 1-0 Conf","2-2, 0-1 Conf",46,43,NULL,NULL,Final,NULL,10,20,7,9,NULL,7,7,15,14,NULL,NCAAF
-400938636,2017,"Sat, Oct 14",North Texas Mean Green,UT San Antonio Roadrunners,"4-2, 3-0 Conf","3-2, 0-2 Conf",29,26,NULL,NULL,Final,ESPN3,16,0,0,13,NULL,7,10,3,6,NULL,NCAAF
-400938646,2017,"Sat, Oct 28",North Texas Mean Green,Old Dominion Monarchs,"5-3, 4-1 Conf","2-6, 0-4 Conf",45,38,NULL,NULL,Final,ESPN3,14,21,0,10,NULL,10,13,15,0,NULL,NCAAF
-400938658,2017,"Sat, Nov 11",North Texas Mean Green,UTEP Miners,"7-3, 6-1 Conf","0-10, 0-6 Conf",45,10,NULL,NULL,Final,ESPN3,7,7,14,17,NULL,7,0,3,0,NULL,NCAAF
-400938672,2017,"Sat, Nov 25",Rice Owls,North Texas Mean Green,"1-11, 1-7 Conf","9-3, 7-1 Conf",14,30,NULL,NULL,Final,ESPN3,7,7,0,0,NULL,7,17,3,3,NULL,NCAAF
-400938595,2017,"Sat, Sep 2",North Texas Mean Green,Lamar Cardinals,"1-0, 1-0 Home","0-1, 0-1 Away",59,14,NULL,NULL,Final,ESPN3,17,21,14,7,NULL,7,7,0,0,NULL,NCAAF
-400935351,2017,"Sat, Sep 16",Iowa Hawkeyes,North Texas Mean Green,"3-0, 2-0 Home","1-2, 0-2 Away",31,14,NULL,NULL,Final,ESPN2,7,3,7,14,NULL,7,7,0,0,NULL,NCAAF
-400938626,2017,"Sat, Sep 30",Southern Mississippi Golden Eagles,North Texas Mean Green,"2-2, 0-1 Conf","3-2, 2-0 Conf",28,43,NULL,NULL,Final,NULL,14,7,7,0,NULL,7,10,16,10,NULL,NCAAF
-400938639,2017,"Sat, Oct 21",Florida Atlantic Owls,North Texas Mean Green,"4-3, 3-0 Conf","4-3, 3-1 Conf",69,31,NULL,NULL,Final,ESPN3,24,17,21,7,NULL,0,7,10,14,NULL,NCAAF
-400938651,2017,"Sat, Nov 4",Louisiana Tech Bulldogs,North Texas Mean Green,"4-5, 2-3 Conf","6-3, 5-1 Conf",23,24,NULL,NULL,Final,NULL,3,14,3,3,NULL,7,3,7,7,NULL,NCAAF
-400934571,2017,"Sat, Nov 18",North Texas Mean Green,Army Black Knights,"8-3, 6-0 Home","8-3, 2-3 Away",52,49,NULL,NULL,Final,NULL,14,14,7,17,NULL,7,13,8,21,NULL,NCAAF
-400953322,2017,"Sat, Dec 16",North Texas Mean Green,Troy Trojans,9-5,11-2,30,50,NULL,NULL,Final,ESPN,7,13,3,7,NULL,15,7,21,7,NULL,NCAAF
-400955152,2017,"Sat, Dec 2",Florida Atlantic Owls,North Texas Mean Green,"10-3, 8-0 Conf","9-4, 7-1 Conf",41,17,NULL,NULL,Final,ESPN2,10,17,7,7,NULL,0,0,9,8,NULL,NCAAF
+400938601,2017,"September 09, 2017",SMU Mustangs,North Texas Mean Green,"2-0, 2-0 Home","1-1, 0-1 Away",54,32,,,Final,ESPN3,10,14,16,14,,10,0,7,15,,NCAAF
+400938618,2017,"September 23, 2017",North Texas Mean Green,UAB Blazers,"2-2, 1-0 Conf","2-2, 0-1 Conf",46,43,,,Final,,10,20,7,9,,7,7,15,14,,NCAAF
+400938636,2017,"October 14, 2017",North Texas Mean Green,UT San Antonio Roadrunners,"4-2, 3-0 Conf","3-2, 0-2 Conf",29,26,,,Final,ESPN3,16,0,0,13,,7,10,3,6,,NCAAF
+400938646,2017,"October 28, 2017",North Texas Mean Green,Old Dominion Monarchs,"5-3, 4-1 Conf","2-6, 0-4 Conf",45,38,,,Final,ESPN3,14,21,0,10,,10,13,15,0,,NCAAF
+400938658,2017,"November 11, 2017",North Texas Mean Green,UTEP Miners,"7-3, 6-1 Conf","0-10, 0-6 Conf",45,10,,,Final,ESPN3,7,7,14,17,,7,0,3,0,,NCAAF
+400938672,2017,"November 25, 2017",Rice Owls,North Texas Mean Green,"1-11, 1-7 Conf","9-3, 7-1 Conf",14,30,,,Final,ESPN3,7,7,0,0,,7,17,3,3,,NCAAF
+400938595,2017,"September 02, 2017",North Texas Mean Green,Lamar Cardinals,"1-0, 1-0 Home","0-1, 0-1 Away",59,14,,,Final,ESPN3,17,21,14,7,,7,7,0,0,,NCAAF
+400935351,2017,"September 16, 2017",Iowa Hawkeyes,North Texas Mean Green,"3-0, 2-0 Home","1-2, 0-2 Away",31,14,,,Final,ESPN2,7,3,7,14,,7,7,0,0,,NCAAF
+400938626,2017,"September 30, 2017",Southern Mississippi Golden Eagles,North Texas Mean Green,"2-2, 0-1 Conf","3-2, 2-0 Conf",28,43,,,Final,,14,7,7,0,,7,10,16,10,,NCAAF
+400938639,2017,"October 21, 2017",Florida Atlantic Owls,North Texas Mean Green,"4-3, 3-0 Conf","4-3, 3-1 Conf",69,31,,,Final,ESPN3,24,17,21,7,,0,7,10,14,,NCAAF
+400938651,2017,"November 04, 2017",Louisiana Tech Bulldogs,North Texas Mean Green,"4-5, 2-3 Conf","6-3, 5-1 Conf",23,24,,,Final,,3,14,3,3,,7,3,7,7,,NCAAF
+400934571,2017,"November 18, 2017",North Texas Mean Green,Army Black Knights,"8-3, 6-0 Home","8-3, 2-3 Away",52,49,,,Final,,14,14,7,17,,7,13,8,21,,NCAAF
+400953322,2017,"December 16, 2017",North Texas Mean Green,Troy Trojans,9-5,11-2,30,50,,,Final,ESPN,7,13,3,7,,15,7,21,7,,NCAAF
+400955152,2017,"December 02, 2017",Florida Atlantic Owls,North Texas Mean Green,"10-3, 8-0 Conf","9-4, 7-1 Conf",41,17,,,Final,ESPN2,10,17,7,7,,0,0,9,8,,NCAAF

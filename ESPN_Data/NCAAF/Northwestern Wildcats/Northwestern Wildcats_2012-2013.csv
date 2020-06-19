@@ -1,14 +1,14 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-322520077,2012,"Sat, Sep 8",Northwestern Wildcats,Vanderbilt Commodores,"2-0, 1-0 Home","0-2, 0-1 Away",23,13,NULL,NULL,Final,BTN,3,0,3,17,NULL,7,3,0,3,NULL,NCAAF
-322660077,2012,"Sat, Sep 22",Northwestern Wildcats,South Dakota Coyotes,"4-0, 3-0 Home","1-2, 0-2 Away",38,7,NULL,NULL,Final,BTN,14,14,7,3,NULL,0,0,7,0,NULL,NCAAF
-322800213,2012,"Sat, Oct 6",Penn State Nittany Lions,Northwestern Wildcats,"4-2, 2-0 Conf","5-1, 1-1 Conf",39,28,NULL,NULL,Final,ESPN/ESPN3D,3,7,7,22,NULL,0,14,14,0,NULL,NCAAF
-322940077,2012,"Sat, Oct 20",Northwestern Wildcats,Nebraska Cornhuskers,"6-2, 2-2 Conf","5-2, 2-1 Conf",28,29,NULL,NULL,Final,ESPN2/ABCR,7,7,7,7,NULL,3,7,6,13,NULL,NCAAF
-323150130,2012,"Sat, Nov 10",Michigan Wolverines,Northwestern Wildcats,"7-3, 5-1 Conf","7-3, 3-3 Conf",38,31,NULL,NULL,Final/OT,ESPN/ESPN3D,7,7,7,10,7,7,7,10,7,0,NCAAF
-322450183,2012,"Sat, Sep 1",Syracuse Orange,Northwestern Wildcats,"0-1, 0-1 Home","1-0, 1-0 Away",41,42,NULL,NULL,Final,ESPN2,6,7,14,14,NULL,7,14,14,7,NULL,NCAAF
-322590077,2012,"Sat, Sep 15",Northwestern Wildcats,Boston College Eagles,"3-0, 2-0 Home","1-2, 0-1 Away",22,13,NULL,NULL,Final,BTN,6,6,3,7,NULL,3,7,0,3,NULL,NCAAF
-322730077,2012,"Sat, Sep 29",Northwestern Wildcats,Indiana Hoosiers,"5-0, 1-0 Conf","2-2, 0-1 Conf",44,29,NULL,NULL,Final,BTN,7,13,17,7,NULL,0,0,21,8,NULL,NCAAF
-322870135,2012,"Sat, Oct 13",Minnesota Golden Gophers,Northwestern Wildcats,"4-2, 0-2 Conf","6-1, 2-1 Conf",13,21,NULL,NULL,Final,ESPN2,3,7,3,0,NULL,14,7,0,0,NULL,NCAAF
-323010077,2012,"Sat, Oct 27",Northwestern Wildcats,Iowa Hawkeyes,"7-2, 3-2 Conf","4-4, 2-2 Conf",28,17,NULL,NULL,Final,ESPN2,7,7,14,0,NULL,3,0,7,7,NULL,NCAAF
-323220127,2012,"Sat, Nov 17",Michigan State Spartans,Northwestern Wildcats,"5-6, 2-5 Conf","8-3, 4-3 Conf",20,23,NULL,NULL,Final,ESPN2,2,3,8,7,NULL,3,3,14,3,NULL,NCAAF
-323290077,2012,"Sat, Nov 24",Northwestern Wildcats,Illinois Fighting Illini,"9-3, 5-3 Conf","2-10, 0-8 Conf",50,14,NULL,NULL,Final,BTN,10,17,21,2,NULL,7,7,0,0,NULL,NCAAF
-330010077,2012,"Tue, Jan 1",Northwestern Wildcats,Mississippi State Bulldogs,10-3,8-5,34,20,NULL,NULL,Final,ESPN2,10,3,14,7,NULL,0,10,3,7,NULL,NCAAF
+322520077,2012,"September 08, 2012",Northwestern Wildcats,Vanderbilt Commodores,"2-0, 1-0 Home","0-2, 0-1 Away",23,13,,,Final,BTN,3,0,3,17,,7,3,0,3,,NCAAF
+322660077,2012,"September 22, 2012",Northwestern Wildcats,South Dakota Coyotes,"4-0, 3-0 Home","1-2, 0-2 Away",38,7,,,Final,BTN,14,14,7,3,,0,0,7,0,,NCAAF
+322800213,2012,"October 06, 2012",Penn State Nittany Lions,Northwestern Wildcats,"4-2, 2-0 Conf","5-1, 1-1 Conf",39,28,,,Final,ESPN/ESPN3D,3,7,7,22,,0,14,14,0,,NCAAF
+322940077,2012,"October 20, 2012",Northwestern Wildcats,Nebraska Cornhuskers,"6-2, 2-2 Conf","5-2, 2-1 Conf",28,29,,,Final,ESPN2/ABCR,7,7,7,7,,3,7,6,13,,NCAAF
+323150130,2012,"November 10, 2012",Michigan Wolverines,Northwestern Wildcats,"7-3, 5-1 Conf","7-3, 3-3 Conf",38,31,,,Final/OT,ESPN/ESPN3D,7,7,7,10,7.0,7,7,10,7,0.0,NCAAF
+322450183,2012,"September 01, 2012",Syracuse Orange,Northwestern Wildcats,"0-1, 0-1 Home","1-0, 1-0 Away",41,42,,,Final,ESPN2,6,7,14,14,,7,14,14,7,,NCAAF
+322590077,2012,"September 15, 2012",Northwestern Wildcats,Boston College Eagles,"3-0, 2-0 Home","1-2, 0-1 Away",22,13,,,Final,BTN,6,6,3,7,,3,7,0,3,,NCAAF
+322730077,2012,"September 29, 2012",Northwestern Wildcats,Indiana Hoosiers,"5-0, 1-0 Conf","2-2, 0-1 Conf",44,29,,,Final,BTN,7,13,17,7,,0,0,21,8,,NCAAF
+322870135,2012,"October 13, 2012",Minnesota Golden Gophers,Northwestern Wildcats,"4-2, 0-2 Conf","6-1, 2-1 Conf",13,21,,,Final,ESPN2,3,7,3,0,,14,7,0,0,,NCAAF
+323010077,2012,"October 27, 2012",Northwestern Wildcats,Iowa Hawkeyes,"7-2, 3-2 Conf","4-4, 2-2 Conf",28,17,,,Final,ESPN2,7,7,14,0,,3,0,7,7,,NCAAF
+323220127,2012,"November 17, 2012",Michigan State Spartans,Northwestern Wildcats,"5-6, 2-5 Conf","8-3, 4-3 Conf",20,23,,,Final,ESPN2,2,3,8,7,,3,3,14,3,,NCAAF
+323290077,2012,"November 24, 2012",Northwestern Wildcats,Illinois Fighting Illini,"9-3, 5-3 Conf","2-10, 0-8 Conf",50,14,,,Final,BTN,10,17,21,2,,7,7,0,0,,NCAAF
+330010077,2012,"January 01, 2013",Northwestern Wildcats,Mississippi State Bulldogs,10-3,8-5,34,20,,,Final,ESPN2,10,3,14,7,,0,10,3,7,,NCAAF

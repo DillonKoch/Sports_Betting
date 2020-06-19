@@ -1,14 +1,14 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-400869355,2016,"Sat, Sep 10",Appalachian State Mountaineers,Old Dominion Monarchs,"1-1, 1-0 Home","1-1, 0-1 Away",31,7,NULL,NULL,Final,ESPN3,14,10,0,7,NULL,0,7,0,0,NULL,NCAAF
-400869285,2016,"Sat, Sep 24",Akron Zips,Appalachian State Mountaineers,"2-2, 1-1 Home","2-2, 1-1 Away",38,45,NULL,NULL,Final,ESPN3,0,14,10,14,NULL,10,21,7,7,NULL,NCAAF
-400869825,2016,"Wed, Oct 12",Louisiana Ragin' Cajuns,Appalachian State Mountaineers,"2-4, 1-2 Conf","4-2, 2-0 Conf",0,24,NULL,NULL,Final,ESPN2,0,0,0,0,NULL,10,14,0,0,NULL,NCAAF
-400869835,2016,"Thu, Oct 27",Georgia Southern Eagles,Appalachian State Mountaineers,"4-4, 3-2 Conf","6-2, 4-0 Conf",10,34,NULL,NULL,Final,ESPNU,10,0,0,0,NULL,0,10,10,14,NULL,NCAAF
-400869842,2016,"Sat, Nov 12",Troy Trojans,Appalachian State Mountaineers,"8-1, 5-0 Conf","7-3, 5-1 Conf",28,24,NULL,NULL,Final,ESPN3,14,0,7,7,NULL,0,14,3,7,NULL,NCAAF
-400868977,2016,"Thu, Sep 1",Tennessee Volunteers,Appalachian State Mountaineers,"1-0, 1-0 Home","0-1, 0-1 Away",20,13,NULL,NULL,Final/OT,SECN,3,0,3,7,7,7,6,0,0,0,NCAAF
-400869720,2016,"Sat, Sep 17",Appalachian State Mountaineers,Miami Hurricanes,"1-2, 1-1 Home","3-0, 1-0 Away",10,45,NULL,NULL,Final,ESPN,0,3,7,0,NULL,21,3,14,7,NULL,NCAAF
-400869818,2016,"Sat, Oct 1",Appalachian State Mountaineers,Georgia State Panthers,"3-2, 1-0 Conf","0-4, 0-1 Conf",17,3,NULL,NULL,Final,ESPN3,0,0,7,10,NULL,0,0,0,3,NULL,NCAAF
-400869831,2016,"Sat, Oct 22",Appalachian State Mountaineers,Idaho Vandals,"5-2, 3-0 Conf","4-4, 2-2 Conf",37,19,NULL,NULL,Final,ESPN3,10,0,13,14,NULL,0,6,3,10,NULL,NCAAF
-400869839,2016,"Sat, Nov 5",Appalachian State Mountaineers,Texas State Bobcats,"7-2, 5-0 Conf","2-6, 0-4 Conf",35,10,NULL,NULL,Final,ESPN3,7,21,7,0,NULL,3,0,7,0,NULL,NCAAF
-400869848,2016,"Sat, Nov 19",Appalachian State Mountaineers,Louisiana Monroe Warhawks,"8-3, 6-1 Conf","4-7, 3-4 Conf",42,17,NULL,NULL,Final,ESPN3,14,7,14,7,NULL,3,7,0,7,NULL,NCAAF
-400869851,2016,"Sat, Nov 26",New Mexico State Aggies,Appalachian State Mountaineers,"3-8, 2-5 Conf","9-3, 7-1 Conf",7,37,NULL,NULL,Final,ESPN3,0,7,0,0,NULL,17,3,10,7,NULL,NCAAF
-400876040,2016,"Sat, Dec 17",Toledo Rockets,Appalachian State Mountaineers,9-4,10-3,28,31,NULL,NULL,Final,ESPN,7,7,14,0,NULL,7,7,14,3,NULL,NCAAF
+400869355,2016,"September 10, 2016",Appalachian State Mountaineers,Old Dominion Monarchs,"1-1, 1-0 Home","1-1, 0-1 Away",31,7,,,Final,ESPN3,14,10,0,7,,0,7,0,0,,NCAAF
+400869285,2016,"September 24, 2016",Akron Zips,Appalachian State Mountaineers,"2-2, 1-1 Home","2-2, 1-1 Away",38,45,,,Final,ESPN3,0,14,10,14,,10,21,7,7,,NCAAF
+400869825,2016,"October 12, 2016",Louisiana Ragin' Cajuns,Appalachian State Mountaineers,"2-4, 1-2 Conf","4-2, 2-0 Conf",0,24,,,Final,ESPN2,0,0,0,0,,10,14,0,0,,NCAAF
+400869835,2016,"October 27, 2016",Georgia Southern Eagles,Appalachian State Mountaineers,"4-4, 3-2 Conf","6-2, 4-0 Conf",10,34,,,Final,ESPNU,10,0,0,0,,0,10,10,14,,NCAAF
+400869842,2016,"November 12, 2016",Troy Trojans,Appalachian State Mountaineers,"8-1, 5-0 Conf","7-3, 5-1 Conf",28,24,,,Final,ESPN3,14,0,7,7,,0,14,3,7,,NCAAF
+400868977,2016,"September 01, 2016",Tennessee Volunteers,Appalachian State Mountaineers,"1-0, 1-0 Home","0-1, 0-1 Away",20,13,,,Final/OT,SECN,3,0,3,7,7.0,7,6,0,0,0.0,NCAAF
+400869720,2016,"September 17, 2016",Appalachian State Mountaineers,Miami Hurricanes,"1-2, 1-1 Home","3-0, 1-0 Away",10,45,,,Final,ESPN,0,3,7,0,,21,3,14,7,,NCAAF
+400869818,2016,"October 01, 2016",Appalachian State Mountaineers,Georgia State Panthers,"3-2, 1-0 Conf","0-4, 0-1 Conf",17,3,,,Final,ESPN3,0,0,7,10,,0,0,0,3,,NCAAF
+400869831,2016,"October 22, 2016",Appalachian State Mountaineers,Idaho Vandals,"5-2, 3-0 Conf","4-4, 2-2 Conf",37,19,,,Final,ESPN3,10,0,13,14,,0,6,3,10,,NCAAF
+400869839,2016,"November 05, 2016",Appalachian State Mountaineers,Texas State Bobcats,"7-2, 5-0 Conf","2-6, 0-4 Conf",35,10,,,Final,ESPN3,7,21,7,0,,3,0,7,0,,NCAAF
+400869848,2016,"November 19, 2016",Appalachian State Mountaineers,Louisiana Monroe Warhawks,"8-3, 6-1 Conf","4-7, 3-4 Conf",42,17,,,Final,ESPN3,14,7,14,7,,3,7,0,7,,NCAAF
+400869851,2016,"November 26, 2016",New Mexico State Aggies,Appalachian State Mountaineers,"3-8, 2-5 Conf","9-3, 7-1 Conf",7,37,,,Final,ESPN3,0,7,0,0,,17,3,10,7,,NCAAF
+400876040,2016,"December 17, 2016",Toledo Rockets,Appalachian State Mountaineers,9-4,10-3,28,31,,,Final,ESPN,7,7,14,0,,7,7,14,3,,NCAAF

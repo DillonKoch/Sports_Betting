@@ -1,13 +1,13 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-401014981,2018,"Sat, Sep 8",Charlotte 49ers,Appalachian State Mountaineers,"1-1, 1-1 Home","1-1, 1-1 Away",9,45,APP -15.5,49,Final,ESPN+,0,9,0,0,NULL,10,14,7,14,NULL,NCAAF
-401013360,2018,"Sat, Sep 22",UMass Minutemen,Charlotte 49ers,"2-3, 2-0 Home","2-2, 0-1 Away",49,31,MASS -6.0,56,Final,NULL,28,7,7,7,NULL,0,10,7,14,NULL,NCAAF
-401015013,2018,"Sat, Oct 13",Charlotte 49ers,Western Kentucky Hilltoppers,"3-3, 2-1 Conf","1-5, 0-2 Conf",40,14,WKU -9.5,43,Final,ESPN+,6,3,21,10,NULL,7,0,0,7,NULL,NCAAF
-401015026,2018,"Sat, Oct 27",Charlotte 49ers,Southern Mississippi Golden Eagles,"4-4, 3-2 Conf","3-4, 2-2 Conf",20,17,USM -6.5,45,Final,ESPN3,14,0,3,3,NULL,0,0,3,14,NULL,NCAAF
-401015037,2018,"Sat, Nov 10",Marshall Thundering Herd,Charlotte 49ers,"6-3, 4-2 Conf","4-6, 3-3 Conf",30,13,MRSH -12.5,42,Final,ESPN+,10,3,17,0,NULL,7,3,3,0,NULL,NCAAF
-401014973,2018,"Sat, Sep 1",Charlotte 49ers,Fordham Rams,"1-0, 1-0 Home","0-1, 0-1 Away",34,10,NULL,NULL,Final,ESPN+,3,10,7,14,NULL,0,7,3,0,NULL,NCAAF
-401014993,2018,"Thu, Sep 13",Charlotte 49ers,Old Dominion Monarchs,"2-1, 1-0 Conf","0-3, 0-2 Conf",28,25,CLT -1.0,NULL,Final,ESPN3,7,6,8,7,NULL,6,6,6,7,NULL,NCAAF
-401015001,2018,"Sat, Sep 29",UAB Blazers,Charlotte 49ers,"3-1, 1-0 Conf","2-3, 1-1 Conf",28,7,UAB -15.0,53,Final,ESPN3,14,7,0,7,NULL,0,0,0,7,NULL,NCAAF
-401015019,2018,"Sat, Oct 20",Middle Tennessee Blue Raiders,Charlotte 49ers,"4-3, 3-1 Conf","3-4, 2-2 Conf",21,13,MTSU -15.0,50,Final,ESPN3,0,14,0,7,NULL,6,0,0,7,NULL,NCAAF
-401012330,2018,"Sat, Nov 3",Tennessee Volunteers,Charlotte 49ers,"4-5, 3-2 Home","4-5, 0-4 Away",14,3,TENN -21.5,46,Final,SECN,14,0,0,0,NULL,0,3,0,0,NULL,NCAAF
-401015044,2018,"Sat, Nov 17",Charlotte 49ers,Florida International Panthers,"4-7, 3-4 Conf","8-3, 6-1 Conf",35,42,FIU -4.0,46,Final,ESPN3,7,7,7,14,NULL,10,10,7,15,NULL,NCAAF
-401015050,2018,"Sat, Nov 24",Florida Atlantic Owls,Charlotte 49ers,"5-7, 3-5 Conf","5-7, 4-4 Conf",24,27,FAU -16.5,54,Final,NULL,7,14,0,3,NULL,10,0,7,10,NULL,NCAAF
+401014981,2018,"September 08, 2018",Charlotte 49ers,Appalachian State Mountaineers,"1-1, 1-1 Home","1-1, 1-1 Away",9,45,APP -15.5,49.0,Final,ESPN+,0,9,0,0,,10,14,7,14,,NCAAF
+401013360,2018,"September 22, 2018",UMass Minutemen,Charlotte 49ers,"2-3, 2-0 Home","2-2, 0-1 Away",49,31,MASS -6.0,56.0,Final,,28,7,7,7,,0,10,7,14,,NCAAF
+401015013,2018,"October 13, 2018",Charlotte 49ers,Western Kentucky Hilltoppers,"3-3, 2-1 Conf","1-5, 0-2 Conf",40,14,WKU -9.5,43.0,Final,ESPN+,6,3,21,10,,7,0,0,7,,NCAAF
+401015026,2018,"October 27, 2018",Charlotte 49ers,Southern Mississippi Golden Eagles,"4-4, 3-2 Conf","3-4, 2-2 Conf",20,17,USM -6.5,45.0,Final,ESPN3,14,0,3,3,,0,0,3,14,,NCAAF
+401015037,2018,"November 10, 2018",Marshall Thundering Herd,Charlotte 49ers,"6-3, 4-2 Conf","4-6, 3-3 Conf",30,13,MRSH -12.5,42.0,Final,ESPN+,10,3,17,0,,7,3,3,0,,NCAAF
+401014973,2018,"September 01, 2018",Charlotte 49ers,Fordham Rams,"1-0, 1-0 Home","0-1, 0-1 Away",34,10,,,Final,ESPN+,3,10,7,14,,0,7,3,0,,NCAAF
+401014993,2018,"September 13, 2018",Charlotte 49ers,Old Dominion Monarchs,"2-1, 1-0 Conf","0-3, 0-2 Conf",28,25,CLT -1.0,,Final,ESPN3,7,6,8,7,,6,6,6,7,,NCAAF
+401015001,2018,"September 29, 2018",UAB Blazers,Charlotte 49ers,"3-1, 1-0 Conf","2-3, 1-1 Conf",28,7,UAB -15.0,53.0,Final,ESPN3,14,7,0,7,,0,0,0,7,,NCAAF
+401015019,2018,"October 20, 2018",Middle Tennessee Blue Raiders,Charlotte 49ers,"4-3, 3-1 Conf","3-4, 2-2 Conf",21,13,MTSU -15.0,50.0,Final,ESPN3,0,14,0,7,,6,0,0,7,,NCAAF
+401012330,2018,"November 03, 2018",Tennessee Volunteers,Charlotte 49ers,"4-5, 3-2 Home","4-5, 0-4 Away",14,3,TENN -21.5,46.0,Final,SECN,14,0,0,0,,0,3,0,0,,NCAAF
+401015044,2018,"November 17, 2018",Charlotte 49ers,Florida International Panthers,"4-7, 3-4 Conf","8-3, 6-1 Conf",35,42,FIU -4.0,46.0,Final,ESPN3,7,7,7,14,,10,10,7,15,,NCAAF
+401015050,2018,"November 24, 2018",Florida Atlantic Owls,Charlotte 49ers,"5-7, 3-5 Conf","5-7, 4-4 Conf",24,27,FAU -16.5,54.0,Final,,7,14,0,3,,10,0,7,10,,NCAAF

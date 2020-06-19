@@ -1,13 +1,13 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-282500084,2008,"Sat, Sep 6",Indiana Hoosiers,Murray State Racers,"2-0, 2-0 Home","1-1, 0-1 Away",45,3,NULL,NULL,Final,BTN,14,10,21,0,NULL,3,0,0,0,NULL,NCAAF
-282710084,2008,"Sat, Sep 27",Indiana Hoosiers,Michigan State Spartans,"2-2, 0-1 Conf","4-1, 1-0 Conf",29,42,NULL,NULL,Final,ESPN,7,15,7,0,NULL,13,14,9,6,NULL,NCAAF
-282850084,2008,"Sat, Oct 11",Indiana Hoosiers,Iowa Hawkeyes,"2-4, 0-3 Conf","4-3, 1-2 Conf",9,45,NULL,NULL,Final,BTN,3,6,0,0,NULL,10,7,14,14,NULL,NCAAF
-282990084,2008,"Sat, Oct 25",Indiana Hoosiers,Northwestern Wildcats,"3-5, 1-4 Conf","6-2, 2-2 Conf",21,19,NULL,NULL,Final,BTN,7,7,7,0,NULL,3,6,10,0,NULL,NCAAF
-283130084,2008,"Sat, Nov 8",Indiana Hoosiers,Wisconsin Badgers,"3-7, 1-5 Conf","5-5, 2-5 Conf",20,55,NULL,NULL,Final,BTN,13,7,0,0,NULL,14,10,17,14,NULL,NCAAF
-282430084,2008,"Sat, Aug 30",Indiana Hoosiers,Western Kentucky Hilltoppers,"1-0, 1-0 Home","0-1, 0-1 Away",31,13,NULL,NULL,Final,BTN,10,7,7,7,NULL,0,0,6,7,NULL,NCAAF
-282640084,2008,"Sat, Sep 20",Indiana Hoosiers,Ball State Cardinals,"2-1, 2-1 Home","4-0, 2-0 Away",20,42,NULL,NULL,Final,BTN,6,14,0,0,NULL,14,14,0,14,NULL,NCAAF
-282780135,2008,"Sat, Oct 4",Minnesota Golden Gophers,Indiana Hoosiers,"5-1, 1-1 Conf","2-3, 0-2 Conf",16,7,NULL,NULL,Final,BTN,0,7,6,3,NULL,0,7,0,0,NULL,NCAAF
-282920356,2008,"Sat, Oct 18",Illinois Fighting Illini,Indiana Hoosiers,"4-3, 2-2 Conf","2-5, 0-4 Conf",55,13,NULL,NULL,Final,BTN,14,14,13,14,NULL,7,0,3,3,NULL,NCAAF
-283060084,2008,"Sat, Nov 1",Indiana Hoosiers,Central Michigan Chippewas,"3-6, 3-4 Home","7-2, 3-2 Away",34,37,NULL,NULL,Final,BTN,14,7,13,0,NULL,7,14,7,9,NULL,NCAAF
-283200213,2008,"Sat, Nov 15",Penn State Nittany Lions,Indiana Hoosiers,"10-1, 6-1 Conf","3-8, 1-6 Conf",34,7,NULL,NULL,Final,BTN,0,10,17,7,NULL,0,7,0,0,NULL,NCAAF
-283272509,2008,"Sat, Nov 22",Purdue Boilermakers,Indiana Hoosiers,"4-8, 2-6 Conf","3-9, 1-7 Conf",62,10,NULL,NULL,Final,ESPN2,24,17,14,7,NULL,0,3,0,7,NULL,NCAAF
+282500084,2008,"September 06, 2008",Indiana Hoosiers,Murray State Racers,"2-0, 2-0 Home","1-1, 0-1 Away",45,3,,,Final,BTN,14,10,21,0,,3,0,0,0,,NCAAF
+282710084,2008,"September 27, 2008",Indiana Hoosiers,Michigan State Spartans,"2-2, 0-1 Conf","4-1, 1-0 Conf",29,42,,,Final,ESPN,7,15,7,0,,13,14,9,6,,NCAAF
+282850084,2008,"October 11, 2008",Indiana Hoosiers,Iowa Hawkeyes,"2-4, 0-3 Conf","4-3, 1-2 Conf",9,45,,,Final,BTN,3,6,0,0,,10,7,14,14,,NCAAF
+282990084,2008,"October 25, 2008",Indiana Hoosiers,Northwestern Wildcats,"3-5, 1-4 Conf","6-2, 2-2 Conf",21,19,,,Final,BTN,7,7,7,0,,3,6,10,0,,NCAAF
+283130084,2008,"November 08, 2008",Indiana Hoosiers,Wisconsin Badgers,"3-7, 1-5 Conf","5-5, 2-5 Conf",20,55,,,Final,BTN,13,7,0,0,,14,10,17,14,,NCAAF
+282430084,2008,"August 30, 2008",Indiana Hoosiers,Western Kentucky Hilltoppers,"1-0, 1-0 Home","0-1, 0-1 Away",31,13,,,Final,BTN,10,7,7,7,,0,0,6,7,,NCAAF
+282640084,2008,"September 20, 2008",Indiana Hoosiers,Ball State Cardinals,"2-1, 2-1 Home","4-0, 2-0 Away",20,42,,,Final,BTN,6,14,0,0,,14,14,0,14,,NCAAF
+282780135,2008,"October 04, 2008",Minnesota Golden Gophers,Indiana Hoosiers,"5-1, 1-1 Conf","2-3, 0-2 Conf",16,7,,,Final,BTN,0,7,6,3,,0,7,0,0,,NCAAF
+282920356,2008,"October 18, 2008",Illinois Fighting Illini,Indiana Hoosiers,"4-3, 2-2 Conf","2-5, 0-4 Conf",55,13,,,Final,BTN,14,14,13,14,,7,0,3,3,,NCAAF
+283060084,2008,"November 01, 2008",Indiana Hoosiers,Central Michigan Chippewas,"3-6, 3-4 Home","7-2, 3-2 Away",34,37,,,Final,BTN,14,7,13,0,,7,14,7,9,,NCAAF
+283200213,2008,"November 15, 2008",Penn State Nittany Lions,Indiana Hoosiers,"10-1, 6-1 Conf","3-8, 1-6 Conf",34,7,,,Final,BTN,0,10,17,7,,0,7,0,0,,NCAAF
+283272509,2008,"November 22, 2008",Purdue Boilermakers,Indiana Hoosiers,"4-8, 2-6 Conf","3-9, 1-7 Conf",62,10,,,Final,ESPN2,24,17,14,7,,0,3,0,7,,NCAAF

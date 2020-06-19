@@ -1,14 +1,14 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-401012270,2018,"Sat, Sep 8",Texas A&M Aggies,Clemson Tigers,"1-1, 1-1 Home","2-0, 1-0 Away",26,28,CLEM -12.5,51,Final,ESPN,3,0,10,13,NULL,7,7,14,0,NULL,NCAAF
-401012284,2018,"Sat, Sep 22",Alabama Crimson Tide,Texas A&M Aggies,"4-0, 2-0 Conf","2-2, 0-1 Conf",45,23,ALA -24.5,59,Final,CBS,14,17,14,0,NULL,7,6,3,7,NULL,NCAAF
-401012306,2018,"Sat, Oct 6",Texas A&M Aggies,Kentucky Wildcats,"4-2, 2-1 Conf","5-1, 3-1 Conf",20,14,TA&M -5.5,50,Final/OT,ESPN,0,7,0,7,6,7,0,0,7,0,NCAAF
-401012321,2018,"Sat, Oct 27",Mississippi State Bulldogs,Texas A&M Aggies,"5-3, 2-3 Conf","5-3, 3-2 Conf",28,13,TA&M -1.0,43,Final,ESPN,7,0,7,14,NULL,0,10,3,0,NULL,NCAAF
-401012337,2018,"Sat, Nov 10",Texas A&M Aggies,Ole Miss Rebels,"6-4, 4-3 Conf","5-5, 1-5 Conf",38,24,TA&M -13.0,69,Final,CBS,7,7,7,17,NULL,0,14,7,3,NULL,NCAAF
-401012258,2018,"Thu, Aug 30",Texas A&M Aggies,Northwestern State Demons,"1-0, 1-0 Home","0-1, 0-1 Away",59,7,NULL,NULL,Final,SECN,7,28,17,7,NULL,0,0,0,7,NULL,NCAAF
-401012282,2018,"Sat, Sep 15",Texas A&M Aggies,UL Monroe Warhawks,"2-1, 2-1 Home","2-1, 1-1 Away",48,10,TA&M -27.5,67,Final,SECN,7,17,10,14,NULL,3,7,0,0,NULL,NCAAF
-401012293,2018,"Sat, Sep 29",Texas A&M Aggies,Arkansas Razorbacks,"3-2, 1-1 Conf","1-4, 0-2 Conf",24,17,TA&M -19.5,56,Final,ESPN,14,3,0,7,NULL,0,7,3,7,NULL,NCAAF
-401012311,2018,"Sat, Oct 13",South Carolina Gamecocks,Texas A&M Aggies,"3-3, 2-3 Conf","5-2, 3-1 Conf",23,26,TA&M -2.5,51,Final,SECN,0,0,16,7,NULL,3,10,3,10,NULL,NCAAF
-401012324,2018,"Sat, Nov 3",Auburn Tigers,Texas A&M Aggies,"6-3, 3-3 Conf","5-4, 3-3 Conf",28,24,AUB -3.5,48,Final,ESPN,7,7,0,14,NULL,3,14,7,0,NULL,NCAAF
-401012347,2018,"Sat, Nov 17",Texas A&M Aggies,UAB Blazers,"7-4, 5-1 Home","9-2, 3-2 Away",41,20,TA&M -17.0,46,Final,ESPN2,14,10,10,7,NULL,7,0,0,13,NULL,NCAAF
-401012356,2018,"Sat, Nov 24",Texas A&M Aggies,LSU Tigers,"8-4, 5-3 Conf","9-3, 5-3 Conf",74,72,TA&M -3.0,46,Final/7OT,SECN,7,10,7,7,43,7,3,7,14,41,NCAAF
-401032082,2018,"Mon, Dec 31",Texas A&M Aggies,NC State Wolfpack,9-4,9-4,52,13,TA&M -7.5,58,Final,ESPN,7,14,14,17,NULL,3,10,0,0,NULL,NCAAF
+401012270,2018,"September 08, 2018",Texas A&M Aggies,Clemson Tigers,"1-1, 1-1 Home","2-0, 1-0 Away",26,28,CLEM -12.5,51.0,Final,ESPN,3,0,10,13,,7,7,14,0,,NCAAF
+401012284,2018,"September 22, 2018",Alabama Crimson Tide,Texas A&M Aggies,"4-0, 2-0 Conf","2-2, 0-1 Conf",45,23,ALA -24.5,59.0,Final,CBS,14,17,14,0,,7,6,3,7,,NCAAF
+401012306,2018,"October 06, 2018",Texas A&M Aggies,Kentucky Wildcats,"4-2, 2-1 Conf","5-1, 3-1 Conf",20,14,TA&M -5.5,50.0,Final/OT,ESPN,0,7,0,7,6.0,7,0,0,7,0.0,NCAAF
+401012321,2018,"October 27, 2018",Mississippi State Bulldogs,Texas A&M Aggies,"5-3, 2-3 Conf","5-3, 3-2 Conf",28,13,TA&M -1.0,43.0,Final,ESPN,7,0,7,14,,0,10,3,0,,NCAAF
+401012337,2018,"November 10, 2018",Texas A&M Aggies,Ole Miss Rebels,"6-4, 4-3 Conf","5-5, 1-5 Conf",38,24,TA&M -13.0,69.0,Final,CBS,7,7,7,17,,0,14,7,3,,NCAAF
+401012258,2018,"August 30, 2018",Texas A&M Aggies,Northwestern State Demons,"1-0, 1-0 Home","0-1, 0-1 Away",59,7,,,Final,SECN,7,28,17,7,,0,0,0,7,,NCAAF
+401012282,2018,"September 15, 2018",Texas A&M Aggies,UL Monroe Warhawks,"2-1, 2-1 Home","2-1, 1-1 Away",48,10,TA&M -27.5,67.0,Final,SECN,7,17,10,14,,3,7,0,0,,NCAAF
+401012293,2018,"September 29, 2018",Texas A&M Aggies,Arkansas Razorbacks,"3-2, 1-1 Conf","1-4, 0-2 Conf",24,17,TA&M -19.5,56.0,Final,ESPN,14,3,0,7,,0,7,3,7,,NCAAF
+401012311,2018,"October 13, 2018",South Carolina Gamecocks,Texas A&M Aggies,"3-3, 2-3 Conf","5-2, 3-1 Conf",23,26,TA&M -2.5,51.0,Final,SECN,0,0,16,7,,3,10,3,10,,NCAAF
+401012324,2018,"November 03, 2018",Auburn Tigers,Texas A&M Aggies,"6-3, 3-3 Conf","5-4, 3-3 Conf",28,24,AUB -3.5,48.0,Final,ESPN,7,7,0,14,,3,14,7,0,,NCAAF
+401012347,2018,"November 17, 2018",Texas A&M Aggies,UAB Blazers,"7-4, 5-1 Home","9-2, 3-2 Away",41,20,TA&M -17.0,46.0,Final,ESPN2,14,10,10,7,,7,0,0,13,,NCAAF
+401012356,2018,"November 24, 2018",Texas A&M Aggies,LSU Tigers,"8-4, 5-3 Conf","9-3, 5-3 Conf",74,72,TA&M -3.0,46.0,Final/7OT,SECN,7,10,7,7,43.0,7,3,7,14,41.0,NCAAF
+401032082,2018,"December 31, 2018",Texas A&M Aggies,NC State Wolfpack,9-4,9-4,52,13,TA&M -7.5,58.0,Final,ESPN,7,14,14,17,,3,10,0,0,,NCAAF

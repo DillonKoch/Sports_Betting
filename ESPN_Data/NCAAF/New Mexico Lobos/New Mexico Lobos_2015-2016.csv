@@ -1,14 +1,14 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-400764863,2015,"Sat, Sep 12",New Mexico Lobos,Tulsa Golden Hurricane,"1-1, 1-1 Home","2-0, 1-0 Away",21,40,NULL,NULL,Final,ESPN3,14,0,7,0,NULL,10,10,10,10,NULL,NCAAF
-400787246,2015,"Sat, Sep 26",Wyoming Cowboys,New Mexico Lobos,"0-4, 0-1 Conf","2-2, 1-0 Conf",28,38,NULL,NULL,Final,NULL,0,14,7,7,NULL,14,14,7,3,NULL,NCAAF
-400787258,2015,"Sat, Oct 10",Nevada Wolf Pack,New Mexico Lobos,"3-3, 1-1 Conf","3-3, 1-1 Conf",35,17,NULL,NULL,Final,NULL,0,14,7,14,NULL,3,7,0,7,NULL,NCAAF
-400787269,2015,"Sat, Oct 24",San Jose State Spartans,New Mexico Lobos,"4-4, 3-2 Conf","4-4, 2-2 Conf",31,21,NULL,NULL,Final,NULL,7,14,7,3,NULL,7,7,0,7,NULL,NCAAF
-400787281,2015,"Sat, Nov 14",Boise State Broncos,New Mexico Lobos,"7-3, 4-2 Conf","6-4, 4-2 Conf",24,31,NULL,NULL,Final,ESPNU,0,3,7,14,NULL,7,7,3,14,NULL,NCAAF
-400787114,2015,"Sat, Sep 5",New Mexico Lobos,Mississippi Valley State Delta Devils,"1-0, 1-0 Home","0-1, 0-1 Away",66,0,NULL,NULL,Final,NULL,21,17,21,7,NULL,0,0,0,0,NULL,NCAAF
-400787241,2015,"Fri, Sep 18",Arizona State Sun Devils,New Mexico Lobos,"2-1, 2-0 Home","1-2, 0-1 Away",34,10,NULL,NULL,Final,PAC12,0,10,14,10,NULL,0,0,10,0,NULL,NCAAF
-400787252,2015,"Sat, Oct 3",New Mexico Lobos,New Mexico State Aggies,"3-2, 2-1 Home","0-4, 0-2 Away",38,29,NULL,NULL,Final,NULL,14,0,15,9,NULL,17,9,3,0,NULL,NCAAF
-400787262,2015,"Sat, Oct 17",New Mexico Lobos,Hawai'i Rainbow Warriors,"4-3, 2-1 Conf","2-5, 0-3 Conf",28,27,NULL,NULL,Final,NULL,7,7,7,7,NULL,10,14,0,3,NULL,NCAAF
-400787278,2015,"Sat, Nov 7",New Mexico Lobos,Utah State Aggies,"5-4, 3-2 Conf","5-4, 4-2 Conf",14,13,NULL,NULL,Final,CBSSN,0,7,7,0,NULL,0,3,7,3,NULL,NCAAF
-400787287,2015,"Sat, Nov 21",New Mexico Lobos,Colorado State Rams,"6-5, 4-3 Conf","6-5, 4-3 Conf",21,28,NULL,NULL,Final,NULL,7,7,7,0,NULL,14,3,3,8,NULL,NCAAF
-400787292,2015,"Sat, Nov 28",New Mexico Lobos,Air Force Falcons,"7-5, 5-3 Conf","8-4, 6-2 Conf",47,35,NULL,NULL,Final,ESPNU,14,17,3,13,NULL,7,7,7,14,NULL,NCAAF
-400852668,2015,"Sat, Dec 19",New Mexico Lobos,Arizona Wildcats,7-6,7-6,37,45,NULL,NULL,Final,ESPN,3,14,14,6,NULL,7,21,14,3,NULL,NCAAF
+400764863,2015,"September 12, 2015",New Mexico Lobos,Tulsa Golden Hurricane,"1-1, 1-1 Home","2-0, 1-0 Away",21,40,,,Final,ESPN3,14,0,7,0,,10,10,10,10,,NCAAF
+400787246,2015,"September 26, 2015",Wyoming Cowboys,New Mexico Lobos,"0-4, 0-1 Conf","2-2, 1-0 Conf",28,38,,,Final,,0,14,7,7,,14,14,7,3,,NCAAF
+400787258,2015,"October 10, 2015",Nevada Wolf Pack,New Mexico Lobos,"3-3, 1-1 Conf","3-3, 1-1 Conf",35,17,,,Final,,0,14,7,14,,3,7,0,7,,NCAAF
+400787269,2015,"October 24, 2015",San Jose State Spartans,New Mexico Lobos,"4-4, 3-2 Conf","4-4, 2-2 Conf",31,21,,,Final,,7,14,7,3,,7,7,0,7,,NCAAF
+400787281,2015,"November 14, 2015",Boise State Broncos,New Mexico Lobos,"7-3, 4-2 Conf","6-4, 4-2 Conf",24,31,,,Final,ESPNU,0,3,7,14,,7,7,3,14,,NCAAF
+400787114,2015,"September 05, 2015",New Mexico Lobos,Mississippi Valley State Delta Devils,"1-0, 1-0 Home","0-1, 0-1 Away",66,0,,,Final,,21,17,21,7,,0,0,0,0,,NCAAF
+400787241,2015,"September 18, 2015",Arizona State Sun Devils,New Mexico Lobos,"2-1, 2-0 Home","1-2, 0-1 Away",34,10,,,Final,PAC12,0,10,14,10,,0,0,10,0,,NCAAF
+400787252,2015,"October 03, 2015",New Mexico Lobos,New Mexico State Aggies,"3-2, 2-1 Home","0-4, 0-2 Away",38,29,,,Final,,14,0,15,9,,17,9,3,0,,NCAAF
+400787262,2015,"October 17, 2015",New Mexico Lobos,Hawai'i Rainbow Warriors,"4-3, 2-1 Conf","2-5, 0-3 Conf",28,27,,,Final,,7,7,7,7,,10,14,0,3,,NCAAF
+400787278,2015,"November 07, 2015",New Mexico Lobos,Utah State Aggies,"5-4, 3-2 Conf","5-4, 4-2 Conf",14,13,,,Final,CBSSN,0,7,7,0,,0,3,7,3,,NCAAF
+400787287,2015,"November 21, 2015",New Mexico Lobos,Colorado State Rams,"6-5, 4-3 Conf","6-5, 4-3 Conf",21,28,,,Final,,7,7,7,0,,14,3,3,8,,NCAAF
+400787292,2015,"November 28, 2015",New Mexico Lobos,Air Force Falcons,"7-5, 5-3 Conf","8-4, 6-2 Conf",47,35,,,Final,ESPNU,14,17,3,13,,7,7,7,14,,NCAAF
+400852668,2015,"December 19, 2015",New Mexico Lobos,Arizona Wildcats,7-6,7-6,37,45,,,Final,ESPN,3,14,14,6,,7,21,14,3,,NCAAF

@@ -1,12 +1,12 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-212720248,2001,"Sat, Sep 29",Houston Cougars,TCU Horned Frogs,"0-3, 0-1 Conf","3-1, 1-0 Conf",17,34,NULL,NULL,Final,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NCAAF
-212860248,2001,"Sat, Oct 13",Houston Cougars,Memphis Tigers,"0-5, 0-3 Conf","4-2, 2-1 Conf",33,52,NULL,NULL,Final,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NCAAF
-213002572,2001,"Sat, Oct 27",Southern Mississippi Golden Eagles,Houston Cougars,"4-2, 2-2 Conf","0-7, 0-5 Conf",58,14,NULL,NULL,Final,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NCAAF
-213140097,2001,"Sat, Nov 10",Louisville Cardinals,Houston Cougars,"9-1, 5-0 Conf","0-9, 0-6 Conf",34,10,NULL,NULL,Final,NULL,10,17,7,0,NULL,7,0,0,3,NULL,NCAAF
-212440248,2001,"Sat, Sep 1",Houston Cougars,Rice Owls,"0-1, 0-1 Home","1-0, 1-0 Away",14,21,NULL,NULL,Final,NULL,0,0,7,7,NULL,0,7,7,7,NULL,NCAAF
-212650248,2001,"Sat, Sep 22",Houston Cougars,Texas Longhorns,"0-2, 0-2 Home","3-0, 1-0 Away",26,53,NULL,NULL,Final,NULL,7,7,0,12,NULL,10,10,13,20,NULL,NCAAF
-212790349,2001,"Sat, Oct 6",Army Black Knights,Houston Cougars,"1-3, 1-2 Conf","0-4, 0-2 Conf",28,14,NULL,NULL,Final,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NCAAF
-212930248,2001,"Sat, Oct 20",Houston Cougars,Cincinnati Bearcats,"0-6, 0-4 Conf","4-2, 4-0 Conf",28,29,NULL,NULL,Final,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NCAAF
-213070058,2001,"Sat, Nov 3",South Florida Bulls,Houston Cougars,"6-3, 5-0 Home","0-8, 0-3 Away",45,6,NULL,NULL,Final,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NCAAF
-213210248,2001,"Sat, Nov 17",Houston Cougars,UAB Blazers,"0-10, 0-7 Conf","6-4, 5-2 Conf",21,43,NULL,NULL,Final,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NCAAF
-213350061,2001,"Sat, Dec 1",Georgia Bulldogs,Houston Cougars,"8-3, 4-2 Home","0-11, 0-5 Away",35,7,NULL,NULL,Final,NULL,0,14,21,0,NULL,0,0,7,0,NULL,NCAAF
+212720248,2001,"September 29, 2001",Houston Cougars,TCU Horned Frogs,"0-3, 0-1 Conf","3-1, 1-0 Conf",17,34,,,Final,,N,U,L,L,,N,U,L,L,,NCAAF
+212860248,2001,"October 13, 2001",Houston Cougars,Memphis Tigers,"0-5, 0-3 Conf","4-2, 2-1 Conf",33,52,,,Final,,N,U,L,L,,N,U,L,L,,NCAAF
+213002572,2001,"October 27, 2001",Southern Mississippi Golden Eagles,Houston Cougars,"4-2, 2-2 Conf","0-7, 0-5 Conf",58,14,,,Final,,N,U,L,L,,N,U,L,L,,NCAAF
+213140097,2001,"November 10, 2001",Louisville Cardinals,Houston Cougars,"9-1, 5-0 Conf","0-9, 0-6 Conf",34,10,,,Final,,10,17,7,0,,7,0,0,3,,NCAAF
+212440248,2001,"September 01, 2001",Houston Cougars,Rice Owls,"0-1, 0-1 Home","1-0, 1-0 Away",14,21,,,Final,,0,0,7,7,,0,7,7,7,,NCAAF
+212650248,2001,"September 22, 2001",Houston Cougars,Texas Longhorns,"0-2, 0-2 Home","3-0, 1-0 Away",26,53,,,Final,,7,7,0,12,,10,10,13,20,,NCAAF
+212790349,2001,"October 06, 2001",Army Black Knights,Houston Cougars,"1-3, 1-2 Conf","0-4, 0-2 Conf",28,14,,,Final,,N,U,L,L,,N,U,L,L,,NCAAF
+212930248,2001,"October 20, 2001",Houston Cougars,Cincinnati Bearcats,"0-6, 0-4 Conf","4-2, 4-0 Conf",28,29,,,Final,,N,U,L,L,,N,U,L,L,,NCAAF
+213070058,2001,"November 03, 2001",South Florida Bulls,Houston Cougars,"6-3, 5-0 Home","0-8, 0-3 Away",45,6,,,Final,,N,U,L,L,,N,U,L,L,,NCAAF
+213210248,2001,"November 17, 2001",Houston Cougars,UAB Blazers,"0-10, 0-7 Conf","6-4, 5-2 Conf",21,43,,,Final,,N,U,L,L,,N,U,L,L,,NCAAF
+213350061,2001,"December 01, 2001",Georgia Bulldogs,Houston Cougars,"8-3, 4-2 Home","0-11, 0-5 Away",35,7,,,Final,,0,14,21,0,,0,0,7,0,,NCAAF

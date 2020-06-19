@@ -1,14 +1,14 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-400547655,2014,"Sat, Sep 6",Temple Owls,Navy Midshipmen,"1-1, 0-1 Home","1-1, 1-0 Away",24,31,NULL,NULL,Final,ESPN3,7,7,3,7,NULL,10,7,14,0,NULL,NCAAF
-400547996,2014,"Sat, Sep 20",Navy Midshipmen,Rutgers Scarlet Knights,"2-2, 0-2 Home","3-1, 2-0 Away",24,31,NULL,NULL,Final,CBSSN,7,7,3,7,NULL,7,17,7,0,NULL,NCAAF
-400548205,2014,"Sat, Oct 4",Air Force Falcons,Navy Midshipmen,"4-1, 3-0 Home","2-4, 2-1 Away",30,21,NULL,NULL,Final,CBSSN,14,0,7,9,NULL,7,7,0,7,NULL,NCAAF
-400548224,2014,"Sat, Oct 25",Navy Midshipmen,San Jose State Spartans,"4-4, 2-3 Home","3-4, 1-3 Away",41,31,NULL,NULL,Final,CBSSN,0,24,7,10,NULL,3,14,0,14,NULL,NCAAF
-400548446,2014,"Sat, Nov 15",Navy Midshipmen,Georgia Southern Eagles,"5-5, 3-4 Home","8-3, 4-3 Away",52,19,NULL,NULL,Final,CBSSN,7,10,14,21,NULL,7,0,6,6,NULL,NCAAF
-400547982,2014,"Sat, Aug 30",Navy Midshipmen,Ohio State Buckeyes,0-1,1-0,17,34,NULL,NULL,Final,CBSSN,0,7,7,3,NULL,3,3,14,14,NULL,NCAAF
-400548412,2014,"Sat, Sep 13",Texas State Bobcats,Navy Midshipmen,"1-1, 1-1 Home","2-1, 2-0 Away",21,35,NULL,NULL,Final,ESPNN,0,7,0,14,NULL,14,14,0,7,NULL,NCAAF
-400548038,2014,"Sat, Sep 27",Navy Midshipmen,Western Kentucky Hilltoppers,"2-3, 0-3 Home","2-2, 1-2 Away",27,36,NULL,NULL,Final,CBSSN,7,7,7,6,NULL,3,10,9,14,NULL,NCAAF
-400548464,2014,"Sat, Oct 11",Navy Midshipmen,VMI Keydets,"3-4, 1-3 Home","1-6, 0-5 Away",51,14,NULL,NULL,Final,CBSSN,14,23,7,7,NULL,0,7,0,7,NULL,NCAAF
-400548465,2014,"Sat, Nov 1",Navy Midshipmen,Notre Dame Fighting Irish,4-5,7-1,39,49,NULL,NULL,Final,CBS,7,10,14,8,NULL,14,14,0,21,NULL,NCAAF
-400548453,2014,"Fri, Nov 28",South Alabama Jaguars,Navy Midshipmen,"6-6, 3-3 Home","6-5, 3-1 Away",40,42,NULL,NULL,Final,ESPN3,17,0,3,20,NULL,7,14,14,7,NULL,NCAAF
-400548461,2014,"Sat, Dec 13",Army Black Knights,Navy Midshipmen,4-8,7-5,10,17,NULL,NULL,Final,CBS,7,0,0,3,NULL,0,7,3,7,NULL,NCAAF
-400610199,2014,"Tue, Dec 23",San Diego State Aztecs,Navy Midshipmen,7-6,8-5,16,17,NULL,NULL,Final,ESPN,10,3,3,0,NULL,7,0,7,3,NULL,NCAAF
+400547655,2014,"September 06, 2014",Temple Owls,Navy Midshipmen,"1-1, 0-1 Home","1-1, 1-0 Away",24,31,,,Final,ESPN3,7,7,3,7,,10,7,14,0,,NCAAF
+400547996,2014,"September 20, 2014",Navy Midshipmen,Rutgers Scarlet Knights,"2-2, 0-2 Home","3-1, 2-0 Away",24,31,,,Final,CBSSN,7,7,3,7,,7,17,7,0,,NCAAF
+400548205,2014,"October 04, 2014",Air Force Falcons,Navy Midshipmen,"4-1, 3-0 Home","2-4, 2-1 Away",30,21,,,Final,CBSSN,14,0,7,9,,7,7,0,7,,NCAAF
+400548224,2014,"October 25, 2014",Navy Midshipmen,San Jose State Spartans,"4-4, 2-3 Home","3-4, 1-3 Away",41,31,,,Final,CBSSN,0,24,7,10,,3,14,0,14,,NCAAF
+400548446,2014,"November 15, 2014",Navy Midshipmen,Georgia Southern Eagles,"5-5, 3-4 Home","8-3, 4-3 Away",52,19,,,Final,CBSSN,7,10,14,21,,7,0,6,6,,NCAAF
+400547982,2014,"August 30, 2014",Navy Midshipmen,Ohio State Buckeyes,0-1,1-0,17,34,,,Final,CBSSN,0,7,7,3,,3,3,14,14,,NCAAF
+400548412,2014,"September 13, 2014",Texas State Bobcats,Navy Midshipmen,"1-1, 1-1 Home","2-1, 2-0 Away",21,35,,,Final,ESPNN,0,7,0,14,,14,14,0,7,,NCAAF
+400548038,2014,"September 27, 2014",Navy Midshipmen,Western Kentucky Hilltoppers,"2-3, 0-3 Home","2-2, 1-2 Away",27,36,,,Final,CBSSN,7,7,7,6,,3,10,9,14,,NCAAF
+400548464,2014,"October 11, 2014",Navy Midshipmen,VMI Keydets,"3-4, 1-3 Home","1-6, 0-5 Away",51,14,,,Final,CBSSN,14,23,7,7,,0,7,0,7,,NCAAF
+400548465,2014,"November 01, 2014",Navy Midshipmen,Notre Dame Fighting Irish,4-5,7-1,39,49,,,Final,CBS,7,10,14,8,,14,14,0,21,,NCAAF
+400548453,2014,"November 28, 2014",South Alabama Jaguars,Navy Midshipmen,"6-6, 3-3 Home","6-5, 3-1 Away",40,42,,,Final,ESPN3,17,0,3,20,,7,14,14,7,,NCAAF
+400548461,2014,"December 13, 2014",Army Black Knights,Navy Midshipmen,4-8,7-5,10,17,,,Final,CBS,7,0,0,3,,0,7,3,7,,NCAAF
+400610199,2014,"December 23, 2014",San Diego State Aztecs,Navy Midshipmen,7-6,8-5,16,17,,,Final,ESPN,10,3,3,0,,7,0,7,3,,NCAAF

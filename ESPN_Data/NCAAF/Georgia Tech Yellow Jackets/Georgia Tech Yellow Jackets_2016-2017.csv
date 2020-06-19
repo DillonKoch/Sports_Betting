@@ -1,14 +1,14 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-400869433,2016,"Sat, Sep 10",Georgia Tech Yellow Jackets,Mercer Bears,"2-0, 1-0 Home","0-2, 0-1 Away",35,10,NULL,NULL,Final,ACCNX,7,14,7,7,NULL,7,0,3,0,NULL,NCAAF
-400869446,2016,"Thu, Sep 22",Georgia Tech Yellow Jackets,Clemson Tigers,"3-1, 1-1 Conf","4-0, 1-0 Conf",7,26,NULL,NULL,Final,ESPN,0,0,0,7,NULL,14,9,0,3,NULL,NCAAF
-400869458,2016,"Sat, Oct 8",Pittsburgh Panthers,Georgia Tech Yellow Jackets,"4-2, 1-1 Conf","3-3, 1-3 Conf",37,34,NULL,NULL,Final,ACCN,7,14,3,13,NULL,3,17,0,14,NULL,NCAAF
-400869474,2016,"Sat, Oct 29",Georgia Tech Yellow Jackets,Duke Blue Devils,"5-3, 2-3 Conf","3-5, 0-4 Conf",38,35,NULL,NULL,Final,ACCNX,14,14,3,7,NULL,0,7,21,7,NULL,NCAAF
-400869486,2016,"Sat, Nov 12",Virginia Tech Hokies,Georgia Tech Yellow Jackets,"7-3, 5-2 Conf","6-4, 3-4 Conf",20,30,NULL,NULL,Final,ESPNU,0,0,7,13,NULL,6,14,0,10,NULL,NCAAF
-400869424,2016,"Sat, Sep 3",Boston College Eagles,Georgia Tech Yellow Jackets,"0-1, 0-1 Conf","1-0, 1-0 Conf",14,17,NULL,NULL,Final,ESPN2,0,0,7,7,NULL,7,0,0,10,NULL,NCAAF
-400869001,2016,"Sat, Sep 17",Georgia Tech Yellow Jackets,Vanderbilt Commodores,"3-0, 2-0 Home","1-2, 0-1 Away",38,7,NULL,NULL,Final,ACCNX,14,3,14,7,NULL,7,0,0,0,NULL,NCAAF
-400869721,2016,"Sat, Oct 1",Georgia Tech Yellow Jackets,Miami Hurricanes,"3-2, 1-2 Conf","4-0, 1-0 Conf",21,35,NULL,NULL,Final,ESPN2,0,14,7,0,NULL,7,21,7,0,NULL,NCAAF
-400869464,2016,"Sat, Oct 15",Georgia Tech Yellow Jackets,Georgia Southern Eagles,"4-3, 3-2 Home","3-3, 1-3 Away",35,24,NULL,NULL,Final,ACCNX,21,0,0,14,NULL,7,3,0,14,NULL,NCAAF
-400869480,2016,"Sat, Nov 5",North Carolina Tar Heels,Georgia Tech Yellow Jackets,"7-2, 5-1 Conf","5-4, 2-4 Conf",48,20,NULL,NULL,Final,ACCNX,17,10,14,7,NULL,7,10,3,0,NULL,NCAAF
-400869494,2016,"Sat, Nov 19",Georgia Tech Yellow Jackets,Virginia Cavaliers,"7-4, 4-4 Conf","2-9, 1-6 Conf",31,17,NULL,NULL,Final,ACCNX,0,7,14,10,NULL,0,10,0,7,NULL,NCAAF
-400869070,2016,"Sat, Nov 26",Georgia Bulldogs,Georgia Tech Yellow Jackets,"7-5, 3-3 Home","8-4, 2-2 Away",27,28,NULL,NULL,Final,SECN,7,7,13,0,NULL,7,7,0,14,NULL,NCAAF
-400876113,2016,"Sat, Dec 31",Kentucky Wildcats,Georgia Tech Yellow Jackets,7-6,9-4,18,33,NULL,NULL,Final,ESPN,0,3,0,15,NULL,10,10,3,10,NULL,NCAAF
+400869433,2016,"September 10, 2016",Georgia Tech Yellow Jackets,Mercer Bears,"2-0, 1-0 Home","0-2, 0-1 Away",35,10,,,Final,ACCNX,7,14,7,7,,7,0,3,0,,NCAAF
+400869446,2016,"September 22, 2016",Georgia Tech Yellow Jackets,Clemson Tigers,"3-1, 1-1 Conf","4-0, 1-0 Conf",7,26,,,Final,ESPN,0,0,0,7,,14,9,0,3,,NCAAF
+400869458,2016,"October 08, 2016",Pittsburgh Panthers,Georgia Tech Yellow Jackets,"4-2, 1-1 Conf","3-3, 1-3 Conf",37,34,,,Final,ACCN,7,14,3,13,,3,17,0,14,,NCAAF
+400869474,2016,"October 29, 2016",Georgia Tech Yellow Jackets,Duke Blue Devils,"5-3, 2-3 Conf","3-5, 0-4 Conf",38,35,,,Final,ACCNX,14,14,3,7,,0,7,21,7,,NCAAF
+400869486,2016,"November 12, 2016",Virginia Tech Hokies,Georgia Tech Yellow Jackets,"7-3, 5-2 Conf","6-4, 3-4 Conf",20,30,,,Final,ESPNU,0,0,7,13,,6,14,0,10,,NCAAF
+400869424,2016,"September 03, 2016",Boston College Eagles,Georgia Tech Yellow Jackets,"0-1, 0-1 Conf","1-0, 1-0 Conf",14,17,,,Final,ESPN2,0,0,7,7,,7,0,0,10,,NCAAF
+400869001,2016,"September 17, 2016",Georgia Tech Yellow Jackets,Vanderbilt Commodores,"3-0, 2-0 Home","1-2, 0-1 Away",38,7,,,Final,ACCNX,14,3,14,7,,7,0,0,0,,NCAAF
+400869721,2016,"October 01, 2016",Georgia Tech Yellow Jackets,Miami Hurricanes,"3-2, 1-2 Conf","4-0, 1-0 Conf",21,35,,,Final,ESPN2,0,14,7,0,,7,21,7,0,,NCAAF
+400869464,2016,"October 15, 2016",Georgia Tech Yellow Jackets,Georgia Southern Eagles,"4-3, 3-2 Home","3-3, 1-3 Away",35,24,,,Final,ACCNX,21,0,0,14,,7,3,0,14,,NCAAF
+400869480,2016,"November 05, 2016",North Carolina Tar Heels,Georgia Tech Yellow Jackets,"7-2, 5-1 Conf","5-4, 2-4 Conf",48,20,,,Final,ACCNX,17,10,14,7,,7,10,3,0,,NCAAF
+400869494,2016,"November 19, 2016",Georgia Tech Yellow Jackets,Virginia Cavaliers,"7-4, 4-4 Conf","2-9, 1-6 Conf",31,17,,,Final,ACCNX,0,7,14,10,,0,10,0,7,,NCAAF
+400869070,2016,"November 26, 2016",Georgia Bulldogs,Georgia Tech Yellow Jackets,"7-5, 3-3 Home","8-4, 2-2 Away",27,28,,,Final,SECN,7,7,13,0,,7,7,0,14,,NCAAF
+400876113,2016,"December 31, 2016",Kentucky Wildcats,Georgia Tech Yellow Jackets,7-6,9-4,18,33,,,Final,ESPN,0,3,0,15,,10,10,3,10,,NCAAF

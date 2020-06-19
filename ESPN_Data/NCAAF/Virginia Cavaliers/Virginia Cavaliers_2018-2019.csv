@@ -1,14 +1,14 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-401012852,2018,"Sat, Sep 8",Indiana Hoosiers,Virginia Cavaliers,"2-0, 1-0 Home","1-1, 0-1 Away",20,16,IND -5.0,50,Final,BTN,13,7,0,0,NULL,9,0,7,0,NULL,NCAAF
-401013123,2018,"Sat, Sep 22",Virginia Cavaliers,Louisville Cardinals,"3-1, 1-0 Conf","2-2, 0-1 Conf",27,3,UVA -4.5,52,Final,ACCNX,0,6,7,14,NULL,0,0,3,0,NULL,NCAAF
-401013146,2018,"Sat, Oct 13",Virginia Cavaliers,Miami Hurricanes,"4-2, 2-1 Conf","5-2, 2-1 Conf",16,13,MIA -7.0,47,Final,ESPN2,0,13,0,3,NULL,0,6,0,7,NULL,NCAAF
-401013158,2018,"Sat, Oct 27",Virginia Cavaliers,North Carolina Tar Heels,"6-2, 4-1 Conf","1-6, 1-4 Conf",31,21,UVA -7.5,51,Final,ACCNX,14,3,7,7,NULL,7,7,0,7,NULL,NCAAF
-401013174,2018,"Sat, Nov 10",Virginia Cavaliers,Liberty Flames,"7-3, 6-1 Home","4-5, 1-4 Away",45,24,UVA -24.0,58,Final,ACCNX,14,10,14,7,NULL,7,10,7,0,NULL,NCAAF
-401013094,2018,"Sat, Sep 1",Virginia Cavaliers,Richmond Spiders,"1-0, 1-0 Home","0-1, 0-1 Away",42,13,NULL,NULL,Final,ACCNX,14,14,7,7,NULL,10,0,3,0,NULL,NCAAF
-401013117,2018,"Sat, Sep 15",Virginia Cavaliers,Ohio Bobcats,"2-1, 2-0 Home","1-1, 0-1 Away",45,31,UVA -4.5,55,Final,ESPN2,21,17,0,7,NULL,7,14,7,3,NULL,NCAAF
-401013135,2018,"Sat, Sep 29",NC State Wolfpack,Virginia Cavaliers,"4-0, 1-0 Conf","3-2, 1-1 Conf",35,21,NCST -6.5,53,Final,ACCNX,3,17,7,8,NULL,7,0,7,7,NULL,NCAAF
-401013150,2018,"Sat, Oct 20",Duke Blue Devils,Virginia Cavaliers,"5-2, 1-2 Conf","5-2, 3-1 Conf",14,28,DUKE -6.5,46,Final,ACCNX,0,0,7,7,NULL,7,7,6,8,NULL,NCAAF
-401013160,2018,"Fri, Nov 2",Virginia Cavaliers,Pittsburgh Panthers,"6-3, 4-2 Conf","5-4, 4-1 Conf",13,23,UVA -7.0,47,Final,ESPN2,7,3,0,3,NULL,7,0,7,9,NULL,NCAAF
-401013177,2018,"Sat, Nov 17",Georgia Tech Yellow Jackets,Virginia Cavaliers,"7-4, 5-3 Conf","7-4, 4-3 Conf",30,27,GT -6.5,52,Final/OT,ACCNX,13,3,0,11,3,14,7,0,6,0,NCAAF
-401013183,2018,"Fri, Nov 23",Virginia Tech Hokies,Virginia Cavaliers,"5-6, 4-4 Conf","7-5, 4-4 Conf",34,31,UVA -5.5,50,Final/OT,ABC,0,14,3,14,3,0,0,14,17,0,NCAAF
-401032077,2018,"Sat, Dec 29",Virginia Cavaliers,South Carolina Gamecocks,8-5,7-6,28,0,SC -3.5,54,Final,ABC,7,7,7,7,NULL,0,0,0,0,NULL,NCAAF
+401012852,2018,"September 08, 2018",Indiana Hoosiers,Virginia Cavaliers,"2-0, 1-0 Home","1-1, 0-1 Away",20,16,IND -5.0,50.0,Final,BTN,13,7,0,0,,9,0,7,0,,NCAAF
+401013123,2018,"September 22, 2018",Virginia Cavaliers,Louisville Cardinals,"3-1, 1-0 Conf","2-2, 0-1 Conf",27,3,UVA -4.5,52.0,Final,ACCNX,0,6,7,14,,0,0,3,0,,NCAAF
+401013146,2018,"October 13, 2018",Virginia Cavaliers,Miami Hurricanes,"4-2, 2-1 Conf","5-2, 2-1 Conf",16,13,MIA -7.0,47.0,Final,ESPN2,0,13,0,3,,0,6,0,7,,NCAAF
+401013158,2018,"October 27, 2018",Virginia Cavaliers,North Carolina Tar Heels,"6-2, 4-1 Conf","1-6, 1-4 Conf",31,21,UVA -7.5,51.0,Final,ACCNX,14,3,7,7,,7,7,0,7,,NCAAF
+401013174,2018,"November 10, 2018",Virginia Cavaliers,Liberty Flames,"7-3, 6-1 Home","4-5, 1-4 Away",45,24,UVA -24.0,58.0,Final,ACCNX,14,10,14,7,,7,10,7,0,,NCAAF
+401013094,2018,"September 01, 2018",Virginia Cavaliers,Richmond Spiders,"1-0, 1-0 Home","0-1, 0-1 Away",42,13,,,Final,ACCNX,14,14,7,7,,10,0,3,0,,NCAAF
+401013117,2018,"September 15, 2018",Virginia Cavaliers,Ohio Bobcats,"2-1, 2-0 Home","1-1, 0-1 Away",45,31,UVA -4.5,55.0,Final,ESPN2,21,17,0,7,,7,14,7,3,,NCAAF
+401013135,2018,"September 29, 2018",NC State Wolfpack,Virginia Cavaliers,"4-0, 1-0 Conf","3-2, 1-1 Conf",35,21,NCST -6.5,53.0,Final,ACCNX,3,17,7,8,,7,0,7,7,,NCAAF
+401013150,2018,"October 20, 2018",Duke Blue Devils,Virginia Cavaliers,"5-2, 1-2 Conf","5-2, 3-1 Conf",14,28,DUKE -6.5,46.0,Final,ACCNX,0,0,7,7,,7,7,6,8,,NCAAF
+401013160,2018,"November 02, 2018",Virginia Cavaliers,Pittsburgh Panthers,"6-3, 4-2 Conf","5-4, 4-1 Conf",13,23,UVA -7.0,47.0,Final,ESPN2,7,3,0,3,,7,0,7,9,,NCAAF
+401013177,2018,"November 17, 2018",Georgia Tech Yellow Jackets,Virginia Cavaliers,"7-4, 5-3 Conf","7-4, 4-3 Conf",30,27,GT -6.5,52.0,Final/OT,ACCNX,13,3,0,11,3.0,14,7,0,6,0.0,NCAAF
+401013183,2018,"November 23, 2018",Virginia Tech Hokies,Virginia Cavaliers,"5-6, 4-4 Conf","7-5, 4-4 Conf",34,31,UVA -5.5,50.0,Final/OT,ABC,0,14,3,14,3.0,0,0,14,17,0.0,NCAAF
+401032077,2018,"December 29, 2018",Virginia Cavaliers,South Carolina Gamecocks,8-5,7-6,28,0,SC -3.5,54.0,Final,ABC,7,7,7,7,,0,0,0,0,,NCAAF

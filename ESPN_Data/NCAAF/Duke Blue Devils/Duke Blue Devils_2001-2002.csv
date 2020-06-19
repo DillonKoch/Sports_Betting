@@ -1,12 +1,12 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-212510242,2001,"Sat, Sep 8",Rice Owls,Duke Blue Devils,"2-0, 1-0 Home","0-2, 0-1 Away",15,13,NULL,NULL,Final,NULL,6,3,6,0,NULL,0,7,0,6,NULL,NCAAF
-212650150,2001,"Sat, Sep 22",Duke Blue Devils,Northwestern Wildcats,"0-3, 0-1 Conf","2-0, 0-0 Conf",7,44,NULL,NULL,Final,NULL,7,0,0,0,NULL,14,6,17,7,NULL,NCAAF
-212790150,2001,"Sat, Oct 6",Duke Blue Devils,Georgia Tech Yellow Jackets,"0-5, 0-3 Conf","4-1, 1-1 Conf",10,37,NULL,NULL,Final,NULL,0,10,0,0,NULL,7,10,17,3,NULL,NCAAF
-212930120,2001,"Sat, Oct 20",Maryland Terrapins,Duke Blue Devils,"7-0, 5-0 Conf","0-7, 0-5 Conf",59,17,NULL,NULL,Final,NULL,21,21,10,7,NULL,7,3,0,7,NULL,NCAAF
-213070150,2001,"Sat, Nov 3",Duke Blue Devils,NC State Wolfpack,"0-9, 0-6 Conf","5-3, 3-3 Conf",31,55,NULL,NULL,Final,NULL,0,7,10,14,NULL,28,21,0,6,NULL,NCAAF
-212440150,2001,"Sat, Sep 1",Duke Blue Devils,Florida State Seminoles,"0-1, 0-1 Conf","1-0, 1-0 Conf",13,55,NULL,NULL,Final,NULL,6,0,7,0,NULL,0,31,14,10,NULL,NCAAF
-212720258,2001,"Sat, Sep 29",Virginia Cavaliers,Duke Blue Devils,"3-1, 2-0 Conf","0-4, 0-2 Conf",31,10,NULL,NULL,Final,NULL,7,10,0,14,NULL,0,3,0,7,NULL,NCAAF
-212860150,2001,"Sat, Oct 13",Duke Blue Devils,Wake Forest Demon Deacons,"0-6, 0-4 Conf","3-3, 1-3 Conf",35,42,NULL,NULL,Final,NULL,0,0,28,7,NULL,21,7,7,7,NULL,NCAAF
-213000150,2001,"Sat, Oct 27",Duke Blue Devils,Vanderbilt Commodores,"0-8, 0-5 Home","2-5, 1-1 Away",28,42,NULL,NULL,Final,NULL,7,7,0,14,NULL,0,14,21,7,NULL,NCAAF
-213210153,2001,"Sat, Nov 17",North Carolina Tar Heels,Duke Blue Devils,"6-5, 5-3 Conf","0-10, 0-7 Conf",52,17,NULL,NULL,Final,NULL,14,10,21,7,NULL,7,3,7,0,NULL,NCAAF
-213350228,2001,"Sat, Dec 1",Clemson Tigers,Duke Blue Devils,"6-5, 4-4 Conf","0-11, 0-8 Conf",59,31,NULL,NULL,Final,NULL,24,7,21,7,NULL,10,0,0,21,NULL,NCAAF
+212510242,2001,"September 08, 2001",Rice Owls,Duke Blue Devils,"2-0, 1-0 Home","0-2, 0-1 Away",15,13,,,Final,,6,3,6,0,,0,7,0,6,,NCAAF
+212650150,2001,"September 22, 2001",Duke Blue Devils,Northwestern Wildcats,"0-3, 0-1 Conf","2-0, 0-0 Conf",7,44,,,Final,,7,0,0,0,,14,6,17,7,,NCAAF
+212790150,2001,"October 06, 2001",Duke Blue Devils,Georgia Tech Yellow Jackets,"0-5, 0-3 Conf","4-1, 1-1 Conf",10,37,,,Final,,0,10,0,0,,7,10,17,3,,NCAAF
+212930120,2001,"October 20, 2001",Maryland Terrapins,Duke Blue Devils,"7-0, 5-0 Conf","0-7, 0-5 Conf",59,17,,,Final,,21,21,10,7,,7,3,0,7,,NCAAF
+213070150,2001,"November 03, 2001",Duke Blue Devils,NC State Wolfpack,"0-9, 0-6 Conf","5-3, 3-3 Conf",31,55,,,Final,,0,7,10,14,,28,21,0,6,,NCAAF
+212440150,2001,"September 01, 2001",Duke Blue Devils,Florida State Seminoles,"0-1, 0-1 Conf","1-0, 1-0 Conf",13,55,,,Final,,6,0,7,0,,0,31,14,10,,NCAAF
+212720258,2001,"September 29, 2001",Virginia Cavaliers,Duke Blue Devils,"3-1, 2-0 Conf","0-4, 0-2 Conf",31,10,,,Final,,7,10,0,14,,0,3,0,7,,NCAAF
+212860150,2001,"October 13, 2001",Duke Blue Devils,Wake Forest Demon Deacons,"0-6, 0-4 Conf","3-3, 1-3 Conf",35,42,,,Final,,0,0,28,7,,21,7,7,7,,NCAAF
+213000150,2001,"October 27, 2001",Duke Blue Devils,Vanderbilt Commodores,"0-8, 0-5 Home","2-5, 1-1 Away",28,42,,,Final,,7,7,0,14,,0,14,21,7,,NCAAF
+213210153,2001,"November 17, 2001",North Carolina Tar Heels,Duke Blue Devils,"6-5, 5-3 Conf","0-10, 0-7 Conf",52,17,,,Final,,14,10,21,7,,7,3,7,0,,NCAAF
+213350228,2001,"December 01, 2001",Clemson Tigers,Duke Blue Devils,"6-5, 4-4 Conf","0-11, 0-8 Conf",59,31,,,Final,,24,7,21,7,,10,0,0,21,,NCAAF

@@ -1,14 +1,14 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-400937460,2017,"Sat, Sep 9",Virginia Tech Hokies,Delaware Blue Hens,"2-0, 1-0 Home","1-1, 0-1 Away",27,0,NULL,NULL,Final,ACCNX,7,10,0,10,NULL,0,0,0,0,NULL,NCAAF
-400937477,2017,"Sat, Sep 23",Virginia Tech Hokies,Old Dominion Monarchs,"4-0, 2-0 Home","2-2, 1-1 Away",38,0,NULL,NULL,Final,ACCNX,3,14,14,7,NULL,0,0,0,0,NULL,NCAAF
-400937488,2017,"Sat, Oct 7",Boston College Eagles,Virginia Tech Hokies,"2-4, 0-3 Conf","5-1, 1-1 Conf",10,23,NULL,NULL,Final,ESPN2,3,0,0,7,NULL,7,10,3,3,NULL,NCAAF
-400937506,2017,"Sat, Oct 28",Virginia Tech Hokies,Duke Blue Devils,"7-1, 3-1 Conf","4-5, 1-5 Conf",24,3,NULL,NULL,Final,ACCNX,7,10,7,0,NULL,0,3,0,0,NULL,NCAAF
-400937517,2017,"Sat, Nov 11",Georgia Tech Yellow Jackets,Virginia Tech Hokies,"5-4, 4-3 Conf","7-3, 3-3 Conf",28,22,NULL,NULL,Final,ACCNX,7,7,7,7,NULL,3,6,7,6,NULL,NCAAF
-400934497,2017,"Sun, Sep 3",Virginia Tech Hokies,West Virginia Mountaineers,1-0,0-1,31,24,NULL,NULL,Final,ABC,3,7,14,7,NULL,0,7,10,7,NULL,NCAAF
-400937468,2017,"Sat, Sep 16",East Carolina Pirates,Virginia Tech Hokies,"0-3, 0-2 Home","3-0, 1-0 Away",17,64,NULL,NULL,Final,CBSSN,17,0,0,0,NULL,7,16,34,7,NULL,NCAAF
-400937481,2017,"Sat, Sep 30",Virginia Tech Hokies,Clemson Tigers,"4-1, 0-1 Conf","5-0, 3-0 Conf",17,31,NULL,NULL,Final,ABC,0,3,0,14,NULL,10,7,7,7,NULL,NCAAF
-400937503,2017,"Sat, Oct 21",Virginia Tech Hokies,North Carolina Tar Heels,"6-1, 2-1 Conf","1-7, 0-5 Conf",59,7,NULL,NULL,Final,ESPN2,14,21,17,7,NULL,0,0,0,7,NULL,NCAAF
-400937513,2017,"Sat, Nov 4",Miami Hurricanes,Virginia Tech Hokies,"8-0, 6-0 Conf","7-2, 3-2 Conf",28,10,NULL,NULL,Final,ABC,0,14,7,7,NULL,0,3,7,0,NULL,NCAAF
-400937528,2017,"Sat, Nov 18",Virginia Tech Hokies,Pittsburgh Panthers,"8-3, 4-3 Conf","4-7, 2-5 Conf",20,14,NULL,NULL,Final,ACCNX,7,3,0,10,NULL,7,0,0,7,NULL,NCAAF
-400937530,2017,"Fri, Nov 24",Virginia Cavaliers,Virginia Tech Hokies,"6-6, 3-5 Conf","9-3, 5-3 Conf",0,10,NULL,NULL,Final,ESPN,0,0,0,0,NULL,0,3,7,0,NULL,NCAAF
-400953416,2017,"Thu, Dec 28",Oklahoma State Cowboys,Virginia Tech Hokies,10-3,9-4,30,21,NULL,NULL,Final,ESPN,3,10,14,3,NULL,7,0,7,7,NULL,NCAAF
+400937460,2017,"September 09, 2017",Virginia Tech Hokies,Delaware Blue Hens,"2-0, 1-0 Home","1-1, 0-1 Away",27,0,,,Final,ACCNX,7,10,0,10,,0,0,0,0,,NCAAF
+400937477,2017,"September 23, 2017",Virginia Tech Hokies,Old Dominion Monarchs,"4-0, 2-0 Home","2-2, 1-1 Away",38,0,,,Final,ACCNX,3,14,14,7,,0,0,0,0,,NCAAF
+400937488,2017,"October 07, 2017",Boston College Eagles,Virginia Tech Hokies,"2-4, 0-3 Conf","5-1, 1-1 Conf",10,23,,,Final,ESPN2,3,0,0,7,,7,10,3,3,,NCAAF
+400937506,2017,"October 28, 2017",Virginia Tech Hokies,Duke Blue Devils,"7-1, 3-1 Conf","4-5, 1-5 Conf",24,3,,,Final,ACCNX,7,10,7,0,,0,3,0,0,,NCAAF
+400937517,2017,"November 11, 2017",Georgia Tech Yellow Jackets,Virginia Tech Hokies,"5-4, 4-3 Conf","7-3, 3-3 Conf",28,22,,,Final,ACCNX,7,7,7,7,,3,6,7,6,,NCAAF
+400934497,2017,"September 03, 2017",Virginia Tech Hokies,West Virginia Mountaineers,1-0,0-1,31,24,,,Final,ABC,3,7,14,7,,0,7,10,7,,NCAAF
+400937468,2017,"September 16, 2017",East Carolina Pirates,Virginia Tech Hokies,"0-3, 0-2 Home","3-0, 1-0 Away",17,64,,,Final,CBSSN,17,0,0,0,,7,16,34,7,,NCAAF
+400937481,2017,"September 30, 2017",Virginia Tech Hokies,Clemson Tigers,"4-1, 0-1 Conf","5-0, 3-0 Conf",17,31,,,Final,ABC,0,3,0,14,,10,7,7,7,,NCAAF
+400937503,2017,"October 21, 2017",Virginia Tech Hokies,North Carolina Tar Heels,"6-1, 2-1 Conf","1-7, 0-5 Conf",59,7,,,Final,ESPN2,14,21,17,7,,0,0,0,7,,NCAAF
+400937513,2017,"November 04, 2017",Miami Hurricanes,Virginia Tech Hokies,"8-0, 6-0 Conf","7-2, 3-2 Conf",28,10,,,Final,ABC,0,14,7,7,,0,3,7,0,,NCAAF
+400937528,2017,"November 18, 2017",Virginia Tech Hokies,Pittsburgh Panthers,"8-3, 4-3 Conf","4-7, 2-5 Conf",20,14,,,Final,ACCNX,7,3,0,10,,7,0,0,7,,NCAAF
+400937530,2017,"November 24, 2017",Virginia Cavaliers,Virginia Tech Hokies,"6-6, 3-5 Conf","9-3, 5-3 Conf",0,10,,,Final,ESPN,0,0,0,0,,0,3,7,0,,NCAAF
+400953416,2017,"December 28, 2017",Oklahoma State Cowboys,Virginia Tech Hokies,10-3,9-4,30,21,,,Final,ESPN,3,10,14,3,,7,0,7,7,,NCAAF

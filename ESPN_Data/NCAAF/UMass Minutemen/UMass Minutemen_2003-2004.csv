@@ -1,14 +1,14 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-232562306,2003,"Sat, Sep 13",Kansas State Wildcats,UMass Minutemen,"4-0, 4-0 Home","1-1, 0-1 Away",38,7,NULL,NULL,Final,NULL,3,21,7,7,NULL,7,0,0,0,NULL,NCAAF
-232700113,2003,"Sat, Sep 27",UMass Minutemen,James Madison Dukes,"3-1, 2-0 Conf","2-2, 1-1 Conf",31,26,NULL,NULL,Final,NULL,7,10,7,7,NULL,0,6,7,13,NULL,NCAAF
-232842729,2003,"Sat, Oct 11",William & Mary Tribe,UMass Minutemen,"1-4, 0-3 Conf","5-1, 4-0 Conf",14,24,NULL,NULL,Final,NULL,0,0,0,14,NULL,10,0,7,7,NULL,NCAAF
-232980222,2003,"Sat, Oct 25",Villanova Wildcats,UMass Minutemen,"6-1, 4-1 Conf","7-1, 5-0 Conf",14,19,NULL,NULL,Final,NULL,0,7,0,7,NULL,0,10,3,6,NULL,NCAAF
-233120113,2003,"Sat, Nov 8",UMass Minutemen,Richmond Spiders,"9-1, 7-0 Conf","2-7, 1-6 Conf",30,17,NULL,NULL,Final,NULL,0,7,10,13,NULL,3,14,0,0,NULL,NCAAF
-233260113,2003,"Sat, Nov 22",UMass Minutemen,Rhode Island Rams,"10-2, 8-1 Conf","4-8, 3-6 Conf",31,17,NULL,NULL,Final,NULL,21,10,0,0,NULL,7,7,3,0,NULL,NCAAF
-232490113,2003,"Sat, Sep 6",UMass Minutemen,Central Connecticut Blue Devils,"1-0, 1-0 Home","0-2, 0-2 Away",51,7,NULL,NULL,Final,NULL,7,14,16,14,NULL,7,0,0,0,NULL,NCAAF
-232630311,2003,"Sat, Sep 20",Maine Black Bears,UMass Minutemen,"2-2, 1-1 Conf","2-1, 1-0 Conf",16,24,NULL,NULL,Final,NULL,2,7,7,0,NULL,0,21,0,3,NULL,NCAAF
-232770113,2003,"Sat, Oct 4",UMass Minutemen,New Hampshire Wildcats,"4-1, 3-0 Conf","2-4, 0-3 Conf",44,30,NULL,NULL,Final,NULL,16,14,0,14,NULL,14,0,8,8,NULL,NCAAF
-232910113,2003,"Sat, Oct 18",UMass Minutemen,Hofstra Pride,"6-1, 4-0 Conf","1-6, 1-3 Conf",27,22,NULL,NULL,Final,NULL,20,7,0,,NULL,12,3,7,,NULL,NCAAF
-233050113,2003,"Sat, Nov 1",UMass Minutemen,Northeastern Huskies,"8-1, 6-0 Conf","5-4, 3-3 Conf",28,24,NULL,NULL,Final,NULL,0,13,15,0,NULL,14,7,0,3,NULL,NCAAF
-233190048,2003,"Sat, Nov 15",Delaware Blue Hens,UMass Minutemen,"10-1, 7-1 Conf","9-2, 7-1 Conf",51,45,NULL,NULL,Final/3OT,NULL,3,14,7,7,20,0,14,7,10,14,NCAAF
-233332142,2003,"Sat, Nov 29",Colgate Raiders,UMass Minutemen,"13-0, 6-0 Home","10-3, 3-3 Away",19,7,NULL,NULL,Final,NULL,0,13,0,6,NULL,7,0,0,0,NULL,NCAAF
+232562306,2003,"September 13, 2003",Kansas State Wildcats,UMass Minutemen,"4-0, 4-0 Home","1-1, 0-1 Away",38,7,,,Final,,3,21,7,7.0,,7,0,0,0.0,,NCAAF
+232700113,2003,"September 27, 2003",UMass Minutemen,James Madison Dukes,"3-1, 2-0 Conf","2-2, 1-1 Conf",31,26,,,Final,,7,10,7,7.0,,0,6,7,13.0,,NCAAF
+232842729,2003,"October 11, 2003",William & Mary Tribe,UMass Minutemen,"1-4, 0-3 Conf","5-1, 4-0 Conf",14,24,,,Final,,0,0,0,14.0,,10,0,7,7.0,,NCAAF
+232980222,2003,"October 25, 2003",Villanova Wildcats,UMass Minutemen,"6-1, 4-1 Conf","7-1, 5-0 Conf",14,19,,,Final,,0,7,0,7.0,,0,10,3,6.0,,NCAAF
+233120113,2003,"November 08, 2003",UMass Minutemen,Richmond Spiders,"9-1, 7-0 Conf","2-7, 1-6 Conf",30,17,,,Final,,0,7,10,13.0,,3,14,0,0.0,,NCAAF
+233260113,2003,"November 22, 2003",UMass Minutemen,Rhode Island Rams,"10-2, 8-1 Conf","4-8, 3-6 Conf",31,17,,,Final,,21,10,0,0.0,,7,7,3,0.0,,NCAAF
+232490113,2003,"September 06, 2003",UMass Minutemen,Central Connecticut Blue Devils,"1-0, 1-0 Home","0-2, 0-2 Away",51,7,,,Final,,7,14,16,14.0,,7,0,0,0.0,,NCAAF
+232630311,2003,"September 20, 2003",Maine Black Bears,UMass Minutemen,"2-2, 1-1 Conf","2-1, 1-0 Conf",16,24,,,Final,,2,7,7,0.0,,0,21,0,3.0,,NCAAF
+232770113,2003,"October 04, 2003",UMass Minutemen,New Hampshire Wildcats,"4-1, 3-0 Conf","2-4, 0-3 Conf",44,30,,,Final,,16,14,0,14.0,,14,0,8,8.0,,NCAAF
+232910113,2003,"October 18, 2003",UMass Minutemen,Hofstra Pride,"6-1, 4-0 Conf","1-6, 1-3 Conf",27,22,,,Final,,20,7,0,,,12,3,7,,,NCAAF
+233050113,2003,"November 01, 2003",UMass Minutemen,Northeastern Huskies,"8-1, 6-0 Conf","5-4, 3-3 Conf",28,24,,,Final,,0,13,15,0.0,,14,7,0,3.0,,NCAAF
+233190048,2003,"November 15, 2003",Delaware Blue Hens,UMass Minutemen,"10-1, 7-1 Conf","9-2, 7-1 Conf",51,45,,,Final/3OT,,3,14,7,7.0,20.0,0,14,7,10.0,14.0,NCAAF
+233332142,2003,"November 29, 2003",Colgate Raiders,UMass Minutemen,"13-0, 6-0 Home","10-3, 3-3 Away",19,7,,,Final,,0,13,0,6.0,,7,0,0,0.0,,NCAAF

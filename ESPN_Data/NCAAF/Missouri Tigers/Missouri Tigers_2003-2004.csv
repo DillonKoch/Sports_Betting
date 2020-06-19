@@ -1,14 +1,14 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-232492050,2003,"Sat, Sep 6",Ball State Cardinals,Missouri Tigers,"2-1, 2-1 Home","2-0, 1-0 Away",7,35,NULL,NULL,Final,NULL,7,0,0,0,NULL,7,14,7,7,NULL,NCAAF
-232630142,2003,"Sat, Sep 20",Missouri Tigers,Middle Tennessee Blue Raiders,"4-0, 3-0 Home","0-4, 0-3 Away",41,40,NULL,NULL,Final/OT,NULL,7,16,0,11,7,7,14,10,3,6,NCAAF
-232840142,2003,"Sat, Oct 11",Missouri Tigers,Nebraska Cornhuskers,"5-1, 1-1 Conf","5-1, 1-1 Conf",41,24,NULL,NULL,Final,TBS,7,7,0,27,NULL,7,3,14,0,NULL,NCAAF
-232980142,2003,"Sat, Oct 25",Missouri Tigers,Texas Tech Red Raiders,"6-2, 2-2 Conf","5-3, 2-2 Conf",62,31,NULL,NULL,Final,NULL,17,17,0,28,NULL,3,7,14,7,NULL,NCAAF
-233190142,2003,"Sat, Nov 15",Missouri Tigers,Texas A&M Aggies,"7-3, 3-3 Conf","4-7, 2-5 Conf",45,22,NULL,NULL,Final,NULL,16,6,9,14,NULL,0,6,3,13,NULL,NCAAF
-232420142,2003,"Sat, Aug 30",Missouri Tigers,Illinois Fighting Illini,"1-0, 1-0 Home","0-1, 0-1 Away",22,15,NULL,NULL,Final,NULL,7,7,0,8,NULL,3,3,3,6,NULL,NCAAF
-232560142,2003,"Sat, Sep 13",Missouri Tigers,Eastern Illinois Panthers,"3-0, 2-0 Home","1-1, 0-1 Away",37,0,NULL,NULL,Final,NULL,0,14,13,10,NULL,0,0,0,0,NULL,NCAAF
-232702305,2003,"Sat, Sep 27",Kansas Jayhawks,Missouri Tigers,"4-1, 1-0 Conf","4-1, 0-1 Conf",35,14,NULL,NULL,Final,NULL,6,7,0,22,NULL,7,0,7,0,NULL,NCAAF
-232910201,2003,"Sat, Oct 18",Oklahoma Sooners,Missouri Tigers,"7-0, 3-0 Conf","5-2, 1-2 Conf",34,13,NULL,NULL,Final,NULL,7,24,3,0,NULL,3,7,0,3,NULL,NCAAF
-233120038,2003,"Sat, Nov 8",Colorado Buffaloes,Missouri Tigers,"4-6, 2-4 Conf","6-3, 2-3 Conf",21,16,NULL,NULL,Final,NULL,7,7,7,0,NULL,3,6,0,7,NULL,NCAAF
-233262306,2003,"Sat, Nov 22",Kansas State Wildcats,Missouri Tigers,"10-3, 6-2 Conf","7-4, 3-4 Conf",24,14,NULL,NULL,Final,TBS,7,14,3,0,NULL,0,7,0,7,NULL,NCAAF
-233330142,2003,"Sat, Nov 29",Missouri Tigers,Iowa State Cyclones,"8-4, 4-4 Conf","2-10, 0-8 Conf",45,7,NULL,NULL,Final,ABCR,0,14,17,14,NULL,0,7,0,0,NULL,NCAAF
-233650008,2003,"Wed, Dec 31",Arkansas Razorbacks,Missouri Tigers,"9-4, 6-2 Home","8-5, 1-5 Away",27,14,NULL,NULL,Final,ESPN,3,18,3,3,NULL,7,0,7,0,NULL,NCAAF
+232492050,2003,"September 06, 2003",Ball State Cardinals,Missouri Tigers,"2-1, 2-1 Home","2-0, 1-0 Away",7,35,,,Final,,7,0,0,0,,7,14,7,7,,NCAAF
+232630142,2003,"September 20, 2003",Missouri Tigers,Middle Tennessee Blue Raiders,"4-0, 3-0 Home","0-4, 0-3 Away",41,40,,,Final/OT,,7,16,0,11,7.0,7,14,10,3,6.0,NCAAF
+232840142,2003,"October 11, 2003",Missouri Tigers,Nebraska Cornhuskers,"5-1, 1-1 Conf","5-1, 1-1 Conf",41,24,,,Final,TBS,7,7,0,27,,7,3,14,0,,NCAAF
+232980142,2003,"October 25, 2003",Missouri Tigers,Texas Tech Red Raiders,"6-2, 2-2 Conf","5-3, 2-2 Conf",62,31,,,Final,,17,17,0,28,,3,7,14,7,,NCAAF
+233190142,2003,"November 15, 2003",Missouri Tigers,Texas A&M Aggies,"7-3, 3-3 Conf","4-7, 2-5 Conf",45,22,,,Final,,16,6,9,14,,0,6,3,13,,NCAAF
+232420142,2003,"August 30, 2003",Missouri Tigers,Illinois Fighting Illini,"1-0, 1-0 Home","0-1, 0-1 Away",22,15,,,Final,,7,7,0,8,,3,3,3,6,,NCAAF
+232560142,2003,"September 13, 2003",Missouri Tigers,Eastern Illinois Panthers,"3-0, 2-0 Home","1-1, 0-1 Away",37,0,,,Final,,0,14,13,10,,0,0,0,0,,NCAAF
+232702305,2003,"September 27, 2003",Kansas Jayhawks,Missouri Tigers,"4-1, 1-0 Conf","4-1, 0-1 Conf",35,14,,,Final,,6,7,0,22,,7,0,7,0,,NCAAF
+232910201,2003,"October 18, 2003",Oklahoma Sooners,Missouri Tigers,"7-0, 3-0 Conf","5-2, 1-2 Conf",34,13,,,Final,,7,24,3,0,,3,7,0,3,,NCAAF
+233120038,2003,"November 08, 2003",Colorado Buffaloes,Missouri Tigers,"4-6, 2-4 Conf","6-3, 2-3 Conf",21,16,,,Final,,7,7,7,0,,3,6,0,7,,NCAAF
+233262306,2003,"November 22, 2003",Kansas State Wildcats,Missouri Tigers,"10-3, 6-2 Conf","7-4, 3-4 Conf",24,14,,,Final,TBS,7,14,3,0,,0,7,0,7,,NCAAF
+233330142,2003,"November 29, 2003",Missouri Tigers,Iowa State Cyclones,"8-4, 4-4 Conf","2-10, 0-8 Conf",45,7,,,Final,ABCR,0,14,17,14,,0,7,0,0,,NCAAF
+233650008,2003,"December 31, 2003",Arkansas Razorbacks,Missouri Tigers,"9-4, 6-2 Home","8-5, 1-5 Away",27,14,,,Final,ESPN,3,18,3,3,,7,0,7,0,,NCAAF

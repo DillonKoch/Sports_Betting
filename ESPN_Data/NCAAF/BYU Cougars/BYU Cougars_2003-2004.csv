@@ -1,13 +1,13 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-232490030,2003,"Sat, Sep 6",USC Trojans,BYU Cougars,"2-0, 0-0 Conf","1-1, 0-0 Conf",35,18,NULL,NULL,Final,ABCR,21,0,0,14,NULL,0,5,7,6,NULL,NCAAF
-232630252,2003,"Sat, Sep 20",BYU Cougars,Stanford Cardinal,"2-2, 1-0 Conf","2-0, 0-0 Conf",14,18,NULL,NULL,Final,NULL,7,0,7,0,NULL,6,0,3,9,NULL,NCAAF
-232770021,2003,"Sat, Oct 4",San Diego State Aztecs,BYU Cougars,"3-3, 0-1 Conf","3-3, 2-1 Conf",36,44,NULL,NULL,Final,NULL,14,7,3,12,NULL,7,24,10,3,NULL,NCAAF
-232912751,2003,"Sat, Oct 18",Wyoming Cowboys,BYU Cougars,"3-4, 1-1 Conf","3-5, 2-3 Conf",13,10,NULL,NULL,Final,NULL,3,10,0,0,NULL,0,0,3,7,NULL,NCAAF
-233040252,2003,"Thu, Oct 30",BYU Cougars,Boise State Broncos,"4-6, 1-4 Home","8-1, 4-1 Away",12,50,NULL,NULL,Final,ESPN,2,0,10,0,NULL,14,14,8,14,NULL,NCAAF
-232400252,2003,"Thu, Aug 28",BYU Cougars,Georgia Tech Yellow Jackets,"1-0, 0-0 Conf","0-1, 0-0 Conf",24,13,NULL,NULL,Final,ESPN2,7,0,14,3,NULL,6,7,0,0,NULL,NCAAF
-232560167,2003,"Sat, Sep 13",New Mexico Lobos,BYU Cougars,"1-2, 0-1 Conf","2-1, 1-0 Conf",7,10,NULL,NULL,Final,ESPN+,0,0,7,0,NULL,3,7,0,0,NULL,NCAAF
-232700252,2003,"Sat, Sep 27",BYU Cougars,Air Force Falcons,"2-3, 1-1 Conf","5-0, 2-0 Conf",10,24,NULL,NULL,Final,NULL,3,0,7,0,NULL,0,3,7,14,NULL,NCAAF
-232820252,2003,"Thu, Oct 9",BYU Cougars,Colorado State Rams,"3-4, 2-2 Conf","4-3, 1-1 Conf",13,58,NULL,NULL,Final,ESPN2,3,10,0,0,NULL,27,14,10,7,NULL,NCAAF
-232982439,2003,"Sat, Oct 25",Unlv Rebels,BYU Cougars,"4-4, 0-3 Conf","4-5, 3-3 Conf",20,27,NULL,NULL,Final/OT,ABCR,6,7,0,7,0,0,13,0,7,7,NCAAF
-233190087,2003,"Sat, Nov 15",Notre Dame Fighting Irish,BYU Cougars,"4-6, 3-3 Home","4-7, 3-3 Away",33,14,NULL,NULL,Final,NULL,6,10,7,10,NULL,7,0,0,7,NULL,NCAAF
-233260252,2003,"Sat, Nov 22",BYU Cougars,Utah Utes,"4-8, 3-4 Conf","9-2, 6-1 Conf",0,3,NULL,NULL,Final,NULL,0,0,0,0,NULL,0,3,0,0,NULL,NCAAF
+232490030,2003,"September 06, 2003",USC Trojans,BYU Cougars,"2-0, 0-0 Conf","1-1, 0-0 Conf",35,18,,,Final,ABCR,21,0,0,14,,0,5,7,6,,NCAAF
+232630252,2003,"September 20, 2003",BYU Cougars,Stanford Cardinal,"2-2, 1-0 Conf","2-0, 0-0 Conf",14,18,,,Final,,7,0,7,0,,6,0,3,9,,NCAAF
+232770021,2003,"October 04, 2003",San Diego State Aztecs,BYU Cougars,"3-3, 0-1 Conf","3-3, 2-1 Conf",36,44,,,Final,,14,7,3,12,,7,24,10,3,,NCAAF
+232912751,2003,"October 18, 2003",Wyoming Cowboys,BYU Cougars,"3-4, 1-1 Conf","3-5, 2-3 Conf",13,10,,,Final,,3,10,0,0,,0,0,3,7,,NCAAF
+233040252,2003,"October 30, 2003",BYU Cougars,Boise State Broncos,"4-6, 1-4 Home","8-1, 4-1 Away",12,50,,,Final,ESPN,2,0,10,0,,14,14,8,14,,NCAAF
+232400252,2003,"August 28, 2003",BYU Cougars,Georgia Tech Yellow Jackets,"1-0, 0-0 Conf","0-1, 0-0 Conf",24,13,,,Final,ESPN2,7,0,14,3,,6,7,0,0,,NCAAF
+232560167,2003,"September 13, 2003",New Mexico Lobos,BYU Cougars,"1-2, 0-1 Conf","2-1, 1-0 Conf",7,10,,,Final,ESPN+,0,0,7,0,,3,7,0,0,,NCAAF
+232700252,2003,"September 27, 2003",BYU Cougars,Air Force Falcons,"2-3, 1-1 Conf","5-0, 2-0 Conf",10,24,,,Final,,3,0,7,0,,0,3,7,14,,NCAAF
+232820252,2003,"October 09, 2003",BYU Cougars,Colorado State Rams,"3-4, 2-2 Conf","4-3, 1-1 Conf",13,58,,,Final,ESPN2,3,10,0,0,,27,14,10,7,,NCAAF
+232982439,2003,"October 25, 2003",Unlv Rebels,BYU Cougars,"4-4, 0-3 Conf","4-5, 3-3 Conf",20,27,,,Final/OT,ABCR,6,7,0,7,0.0,0,13,0,7,7.0,NCAAF
+233190087,2003,"November 15, 2003",Notre Dame Fighting Irish,BYU Cougars,"4-6, 3-3 Home","4-7, 3-3 Away",33,14,,,Final,,6,10,7,10,,7,0,0,7,,NCAAF
+233260252,2003,"November 22, 2003",BYU Cougars,Utah Utes,"4-8, 3-4 Conf","9-2, 6-1 Conf",0,3,,,Final,,0,0,0,0,,0,3,0,0,,NCAAF

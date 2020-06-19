@@ -1,16 +1,16 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-401110784,2019,"Sat, Sep 7",Clemson Tigers,Texas A&M Aggies,"2-0, 2-0 Home","1-1, 0-1 Away",24,10,CLEM -16.0,62,Final,ABC,0,17,7,0,NULL,0,3,0,7,NULL,NCAAF
-401112456,2019,"Sat, Sep 21",Clemson Tigers,Charlotte 49ers,"4-0, 3-0 Home","2-2, 0-2 Away",52,10,CLEM -41.5,62,Final,ACCN,17,21,7,7,NULL,0,3,7,0,NULL,NCAAF
-401112479,2019,"Sat, Oct 12",Clemson Tigers,Florida State Seminoles,"6-0, 4-0 Conf","3-3, 2-2 Conf",45,14,CLEM -26.5,61,Final,ABC,14,14,14,3,NULL,0,0,7,7,NULL,NCAAF
-401112490,2019,"Sat, Oct 26",Clemson Tigers,Boston College Eagles,"8-0, 6-0 Conf","4-4, 2-3 Conf",59,7,CLEM -35.0,60,Final,ACCN,17,21,14,7,NULL,0,7,0,0,NULL,NCAAF
-401112503,2019,"Sat, Nov 9",NC State Wolfpack,Clemson Tigers,"4-5, 1-4 Conf","10-0, 7-0 Conf",10,55,CLEM -35.0,55,Final,ABC,0,0,7,3,NULL,28,14,7,6,NULL,NCAAF
-401110870,2019,"Sat, Nov 30",South Carolina Gamecocks,Clemson Tigers,"4-8, 3-4 Home","12-0, 5-0 Away",3,38,CLEM -27.5,50,Final,ESPN,0,3,0,0,NULL,14,10,7,7,NULL,NCAAF
-401135279,2019,"Sat, Dec 28",Ohio State Buckeyes,Clemson Tigers,13-1,14-0,23,29,CLEM -2.5,62,Final,ESPN,10,6,0,7,NULL,0,14,7,8,NULL,NCAAF
-401111653,2019,"Thu, Aug 29",Clemson Tigers,Georgia Tech Yellow Jackets,"1-0, 1-0 Conf","0-1, 0-1 Conf",52,14,CLEM -36.0,61,Final,ACCN,14,14,14,10,NULL,0,0,7,7,NULL,NCAAF
-401112449,2019,"Sat, Sep 14",Syracuse Orange,Clemson Tigers,"1-2, 0-1 Conf","3-0, 2-0 Conf",6,41,CLEM -28.0,64,Final,ABC,0,6,0,0,NULL,14,3,10,14,NULL,NCAAF
-401112467,2019,"Sat, Sep 28",North Carolina Tar Heels,Clemson Tigers,"2-3, 1-1 Conf","5-0, 3-0 Conf",20,21,CLEM -27.5,61,Final,ABC,7,7,0,6,NULL,0,14,0,7,NULL,NCAAF
-401112485,2019,"Sat, Oct 19",Louisville Cardinals,Clemson Tigers,"4-3, 2-2 Conf","7-0, 5-0 Conf",10,45,CLEM -24.5,63,Final,ABC,0,3,0,7,NULL,3,14,7,21,NULL,NCAAF
-401112496,2019,"Sat, Nov 2",Clemson Tigers,Wofford Terriers,"9-0, 6-0 Home","5-3, 2-2 Away",59,14,NULL,NULL,Final,ACCN,21,21,14,3,NULL,0,0,14,0,NULL,NCAAF
-401112508,2019,"Sat, Nov 16",Clemson Tigers,Wake Forest Demon Deacons,"11-0, 8-0 Conf","7-3, 3-3 Conf",52,3,CLEM -34.5,59,Final,ABC,14,17,14,7,NULL,3,0,0,0,NULL,NCAAF
-401135295,2019,"Mon, Jan 13",LSU Tigers,Clemson Tigers,15-0,14-1,42,25,LSU -4.5,67,Final,ESPN,7,21,7,7,NULL,7,10,8,0,NULL,NCAAF
-401132975,2019,"Sat, Dec 7",Clemson Tigers,Virginia Cavaliers,"13-0, 8-0 Conf","9-4, 6-2 Conf",62,17,CLEM -29.5,58,Final,ABC,14,17,14,17,NULL,7,0,7,3,NULL,NCAAF
+401110784,2019,"September 07, 2019",Clemson Tigers,Texas A&M Aggies,"2-0, 2-0 Home","1-1, 0-1 Away",24,10,CLEM -16.0,62.0,Final,ABC,0,17,7,0,,0,3,0,7,,NCAAF
+401112456,2019,"September 21, 2019",Clemson Tigers,Charlotte 49ers,"4-0, 3-0 Home","2-2, 0-2 Away",52,10,CLEM -41.5,62.0,Final,ACCN,17,21,7,7,,0,3,7,0,,NCAAF
+401112479,2019,"October 12, 2019",Clemson Tigers,Florida State Seminoles,"6-0, 4-0 Conf","3-3, 2-2 Conf",45,14,CLEM -26.5,61.0,Final,ABC,14,14,14,3,,0,0,7,7,,NCAAF
+401112490,2019,"October 26, 2019",Clemson Tigers,Boston College Eagles,"8-0, 6-0 Conf","4-4, 2-3 Conf",59,7,CLEM -35.0,60.0,Final,ACCN,17,21,14,7,,0,7,0,0,,NCAAF
+401112503,2019,"November 09, 2019",NC State Wolfpack,Clemson Tigers,"4-5, 1-4 Conf","10-0, 7-0 Conf",10,55,CLEM -35.0,55.0,Final,ABC,0,0,7,3,,28,14,7,6,,NCAAF
+401110870,2019,"November 30, 2019",South Carolina Gamecocks,Clemson Tigers,"4-8, 3-4 Home","12-0, 5-0 Away",3,38,CLEM -27.5,50.0,Final,ESPN,0,3,0,0,,14,10,7,7,,NCAAF
+401135279,2019,"December 28, 2019",Ohio State Buckeyes,Clemson Tigers,13-1,14-0,23,29,CLEM -2.5,62.0,Final,ESPN,10,6,0,7,,0,14,7,8,,NCAAF
+401111653,2019,"August 29, 2019",Clemson Tigers,Georgia Tech Yellow Jackets,"1-0, 1-0 Conf","0-1, 0-1 Conf",52,14,CLEM -36.0,61.0,Final,ACCN,14,14,14,10,,0,0,7,7,,NCAAF
+401112449,2019,"September 14, 2019",Syracuse Orange,Clemson Tigers,"1-2, 0-1 Conf","3-0, 2-0 Conf",6,41,CLEM -28.0,64.0,Final,ABC,0,6,0,0,,14,3,10,14,,NCAAF
+401112467,2019,"September 28, 2019",North Carolina Tar Heels,Clemson Tigers,"2-3, 1-1 Conf","5-0, 3-0 Conf",20,21,CLEM -27.5,61.0,Final,ABC,7,7,0,6,,0,14,0,7,,NCAAF
+401112485,2019,"October 19, 2019",Louisville Cardinals,Clemson Tigers,"4-3, 2-2 Conf","7-0, 5-0 Conf",10,45,CLEM -24.5,63.0,Final,ABC,0,3,0,7,,3,14,7,21,,NCAAF
+401112496,2019,"November 02, 2019",Clemson Tigers,Wofford Terriers,"9-0, 6-0 Home","5-3, 2-2 Away",59,14,,,Final,ACCN,21,21,14,3,,0,0,14,0,,NCAAF
+401112508,2019,"November 16, 2019",Clemson Tigers,Wake Forest Demon Deacons,"11-0, 8-0 Conf","7-3, 3-3 Conf",52,3,CLEM -34.5,59.0,Final,ABC,14,17,14,7,,3,0,0,0,,NCAAF
+401135295,2019,"January 13, 2020",LSU Tigers,Clemson Tigers,15-0,14-1,42,25,LSU -4.5,67.0,Final,ESPN,7,21,7,7,,7,10,8,0,,NCAAF
+401132975,2019,"December 07, 2019",Clemson Tigers,Virginia Cavaliers,"13-0, 8-0 Conf","9-4, 6-2 Conf",62,17,CLEM -29.5,58.0,Final,ABC,14,17,14,17,,7,0,7,3,,NCAAF

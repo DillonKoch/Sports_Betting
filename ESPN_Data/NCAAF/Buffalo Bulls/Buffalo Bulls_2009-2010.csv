@@ -1,13 +1,13 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-292552084,2009,"Sat, Sep 12",Buffalo Bulls,Pittsburgh Panthers,"1-1, 0-1 Home","2-0, 1-0 Away",27,54,NULL,NULL,Final,NULL,7,13,0,7,NULL,20,14,6,14,NULL,NCAAF
-292690218,2009,"Sat, Sep 26",Temple Owls,Buffalo Bulls,"1-2, 1-0 Conf","1-3, 0-1 Conf",37,13,NULL,NULL,Final,NULL,3,17,10,7,NULL,0,6,0,7,NULL,NCAAF
-292832084,2009,"Sat, Oct 10",Buffalo Bulls,Gardner-Webb Bulldogs,"2-4, 1-2 Home","3-2, 2-2 Away",40,3,NULL,NULL,Final,NULL,13,20,7,0,NULL,3,0,0,0,NULL,NCAAF
-292972711,2009,"Sat, Oct 24",Western Michigan Broncos,Buffalo Bulls,"4-4, 3-2 Conf","3-5, 1-3 Conf",34,31,NULL,NULL,Final/OT,NULL,14,3,7,7,3,7,0,14,10,0,NCAAF
-293142084,2009,"Tue, Nov 10",Buffalo Bulls,Ohio Bobcats,"3-7, 1-5 Conf","7-3, 5-1 Conf",24,27,NULL,NULL,Final,ESPN2,7,7,7,3,NULL,14,7,3,3,NULL,NCAAF
-292482638,2009,"Sat, Sep 5",UTEP Miners,Buffalo Bulls,"0-1, 0-1 Home","1-0, 1-0 Away",17,23,NULL,NULL,Final,NULL,7,0,7,3,NULL,0,16,7,0,NULL,NCAAF
-292622116,2009,"Sat, Sep 19",UCF Knights,Buffalo Bulls,"2-1, 2-0 Home","1-2, 1-1 Away",23,17,NULL,NULL,Final,NULL,7,0,10,6,NULL,0,17,0,0,NULL,NCAAF
-292762084,2009,"Sat, Oct 3",Buffalo Bulls,Central Michigan Chippewas,"1-4, 0-2 Conf","4-1, 2-0 Conf",13,20,NULL,NULL,Final,NULL,0,10,3,0,NULL,7,6,7,0,NULL,NCAAF
-292902084,2009,"Sat, Oct 17",Buffalo Bulls,Akron Zips,"3-4, 1-2 Conf","1-5, 0-3 Conf",21,17,NULL,NULL,Final,NULL,0,7,7,7,NULL,0,7,0,10,NULL,NCAAF
-293072084,2009,"Tue, Nov 3",Buffalo Bulls,Bowling Green Falcons,"3-6, 1-4 Conf","4-5, 3-2 Conf",29,30,NULL,NULL,Final,ESPN2,7,14,8,0,NULL,7,6,3,14,NULL,NCAAF
-293220193,2009,"Wed, Nov 18",Miami (OH) RedHawks,Buffalo Bulls,"1-11, 1-7 Conf","4-7, 2-5 Conf",17,42,NULL,NULL,Final,ESPNU,0,3,7,7,NULL,0,21,7,14,NULL,NCAAF
-293312309,2009,"Fri, Nov 27",Kent State Golden Flashes,Buffalo Bulls,"5-7, 4-4 Conf","5-7, 3-5 Conf",6,9,NULL,NULL,Final,NULL,0,0,3,3,NULL,0,3,0,6,NULL,NCAAF
+292552084,2009,"September 12, 2009",Buffalo Bulls,Pittsburgh Panthers,"1-1, 0-1 Home","2-0, 1-0 Away",27,54,,,Final,,7,13,0,7,,20,14,6,14,,NCAAF
+292690218,2009,"September 26, 2009",Temple Owls,Buffalo Bulls,"1-2, 1-0 Conf","1-3, 0-1 Conf",37,13,,,Final,,3,17,10,7,,0,6,0,7,,NCAAF
+292832084,2009,"October 10, 2009",Buffalo Bulls,Gardner-Webb Bulldogs,"2-4, 1-2 Home","3-2, 2-2 Away",40,3,,,Final,,13,20,7,0,,3,0,0,0,,NCAAF
+292972711,2009,"October 24, 2009",Western Michigan Broncos,Buffalo Bulls,"4-4, 3-2 Conf","3-5, 1-3 Conf",34,31,,,Final/OT,,14,3,7,7,3.0,7,0,14,10,0.0,NCAAF
+293142084,2009,"November 10, 2009",Buffalo Bulls,Ohio Bobcats,"3-7, 1-5 Conf","7-3, 5-1 Conf",24,27,,,Final,ESPN2,7,7,7,3,,14,7,3,3,,NCAAF
+292482638,2009,"September 05, 2009",UTEP Miners,Buffalo Bulls,"0-1, 0-1 Home","1-0, 1-0 Away",17,23,,,Final,,7,0,7,3,,0,16,7,0,,NCAAF
+292622116,2009,"September 19, 2009",UCF Knights,Buffalo Bulls,"2-1, 2-0 Home","1-2, 1-1 Away",23,17,,,Final,,7,0,10,6,,0,17,0,0,,NCAAF
+292762084,2009,"October 03, 2009",Buffalo Bulls,Central Michigan Chippewas,"1-4, 0-2 Conf","4-1, 2-0 Conf",13,20,,,Final,,0,10,3,0,,7,6,7,0,,NCAAF
+292902084,2009,"October 17, 2009",Buffalo Bulls,Akron Zips,"3-4, 1-2 Conf","1-5, 0-3 Conf",21,17,,,Final,,0,7,7,7,,0,7,0,10,,NCAAF
+293072084,2009,"November 03, 2009",Buffalo Bulls,Bowling Green Falcons,"3-6, 1-4 Conf","4-5, 3-2 Conf",29,30,,,Final,ESPN2,7,14,8,0,,7,6,3,14,,NCAAF
+293220193,2009,"November 18, 2009",Miami (OH) RedHawks,Buffalo Bulls,"1-11, 1-7 Conf","4-7, 2-5 Conf",17,42,,,Final,ESPNU,0,3,7,7,,0,21,7,14,,NCAAF
+293312309,2009,"November 27, 2009",Kent State Golden Flashes,Buffalo Bulls,"5-7, 4-4 Conf","5-7, 3-5 Conf",6,9,,,Final,,0,0,3,3,,0,3,0,6,,NCAAF

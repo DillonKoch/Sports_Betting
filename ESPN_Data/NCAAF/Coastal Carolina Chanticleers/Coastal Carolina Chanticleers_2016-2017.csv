@@ -1,13 +1,13 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-400868935,2016,"Sat, Sep 10",Coastal Carolina Chanticleers,Florida A&M Rattlers,"2-0, 1-0 Home","0-2, 0-2 Away",49,10,NULL,NULL,Final,NULL,22,14,6,7,NULL,0,7,0,3,NULL,NCAAF
-400868937,2016,"Sat, Sep 24",Coastal Carolina Chanticleers,Furman Paladins,"3-1, 2-0 Home","0-4, 0-3 Away",41,21,NULL,NULL,Final,NULL,7,20,7,7,NULL,0,7,7,7,NULL,NCAAF
-400868939,2016,"Sat, Oct 15",Gardner-Webb Bulldogs,Coastal Carolina Chanticleers,"3-4, 2-2 Home","4-2, 2-1 Away",7,17,NULL,NULL,Final,NULL,0,7,0,0,NULL,0,3,0,14,NULL,NCAAF
-400868941,2016,"Sat, Oct 29",Presbyterian College Blue Hose,Coastal Carolina Chanticleers,"2-6, 1-2 Home","6-2, 3-1 Away",17,48,NULL,NULL,Final,NULL,7,10,0,0,NULL,23,7,11,7,NULL,NCAAF
-400868943,2016,"Sat, Nov 12",Coastal Carolina Chanticleers,Bryant Bulldogs,"8-2, 5-1 Home","4-6, 0-5 Away",31,21,NULL,NULL,Final,NULL,6,3,7,15,NULL,7,7,7,0,NULL,NCAAF
-400868934,2016,"Sat, Sep 3",Lamar Cardinals,Coastal Carolina Chanticleers,"0-1, 0-1 Home","1-0, 1-0 Away",14,38,NULL,NULL,Final,ESPN3,7,7,0,0,NULL,3,0,25,10,NULL,NCAAF
-400868936,2016,"Sat, Sep 17",Jacksonville State Gamecocks,Coastal Carolina Chanticleers,"2-1, 2-0 Home","2-1, 1-1 Away",27,26,NULL,NULL,Final,NULL,7,6,7,7,NULL,3,9,6,8,NULL,NCAAF
-400868938,2016,"Sat, Oct 1",Coastal Carolina Chanticleers,Charleston Southern Buccaneers,"3-2, 2-1 Home","3-2, 2-2 Away",58,59,NULL,NULL,Final/2OT,NULL,21,0,14,10,13,7,16,7,15,14,NCAAF
-400868940,2016,"Sat, Oct 22",Coastal Carolina Chanticleers,Central Connecticut Blue Devils,"5-2, 3-1 Home","1-6, 0-4 Away",33,25,NULL,NULL,Final,NULL,7,16,3,7,NULL,0,3,7,15,NULL,NCAAF
-400868942,2016,"Sat, Nov 5",Coastal Carolina Chanticleers,Monmouth Hawks,"7-2, 4-1 Home","4-6, 3-4 Away",38,17,NULL,NULL,Final,NULL,3,7,14,14,NULL,10,7,0,0,NULL,NCAAF
-400868944,2016,"Thu, Nov 17",Coastal Carolina Chanticleers,Liberty Flames,"9-2, 6-1 Home","6-5, 2-3 Away",42,7,NULL,NULL,Final,ESPNN,7,21,7,7,NULL,0,7,0,0,NULL,NCAAF
-400868945,2016,"Sat, Nov 26",Coastal Carolina Chanticleers,Hampton Pirates,"10-2, 7-1 Home","5-6, 1-4 Away",26,7,NULL,NULL,Final,NULL,10,6,0,10,NULL,0,0,0,7,NULL,NCAAF
+400868935,2016,"September 10, 2016",Coastal Carolina Chanticleers,Florida A&M Rattlers,"2-0, 1-0 Home","0-2, 0-2 Away",49,10,,,Final,,22,14,6,7,,0,7,0,3,,NCAAF
+400868937,2016,"September 24, 2016",Coastal Carolina Chanticleers,Furman Paladins,"3-1, 2-0 Home","0-4, 0-3 Away",41,21,,,Final,,7,20,7,7,,0,7,7,7,,NCAAF
+400868939,2016,"October 15, 2016",Gardner-Webb Bulldogs,Coastal Carolina Chanticleers,"3-4, 2-2 Home","4-2, 2-1 Away",7,17,,,Final,,0,7,0,0,,0,3,0,14,,NCAAF
+400868941,2016,"October 29, 2016",Presbyterian College Blue Hose,Coastal Carolina Chanticleers,"2-6, 1-2 Home","6-2, 3-1 Away",17,48,,,Final,,7,10,0,0,,23,7,11,7,,NCAAF
+400868943,2016,"November 12, 2016",Coastal Carolina Chanticleers,Bryant Bulldogs,"8-2, 5-1 Home","4-6, 0-5 Away",31,21,,,Final,,6,3,7,15,,7,7,7,0,,NCAAF
+400868934,2016,"September 03, 2016",Lamar Cardinals,Coastal Carolina Chanticleers,"0-1, 0-1 Home","1-0, 1-0 Away",14,38,,,Final,ESPN3,7,7,0,0,,3,0,25,10,,NCAAF
+400868936,2016,"September 17, 2016",Jacksonville State Gamecocks,Coastal Carolina Chanticleers,"2-1, 2-0 Home","2-1, 1-1 Away",27,26,,,Final,,7,6,7,7,,3,9,6,8,,NCAAF
+400868938,2016,"October 01, 2016",Coastal Carolina Chanticleers,Charleston Southern Buccaneers,"3-2, 2-1 Home","3-2, 2-2 Away",58,59,,,Final/2OT,,21,0,14,10,13.0,7,16,7,15,14.0,NCAAF
+400868940,2016,"October 22, 2016",Coastal Carolina Chanticleers,Central Connecticut Blue Devils,"5-2, 3-1 Home","1-6, 0-4 Away",33,25,,,Final,,7,16,3,7,,0,3,7,15,,NCAAF
+400868942,2016,"November 05, 2016",Coastal Carolina Chanticleers,Monmouth Hawks,"7-2, 4-1 Home","4-6, 3-4 Away",38,17,,,Final,,3,7,14,14,,10,7,0,0,,NCAAF
+400868944,2016,"November 17, 2016",Coastal Carolina Chanticleers,Liberty Flames,"9-2, 6-1 Home","6-5, 2-3 Away",42,7,,,Final,ESPNN,7,21,7,7,,0,7,0,0,,NCAAF
+400868945,2016,"November 26, 2016",Coastal Carolina Chanticleers,Hampton Pirates,"10-2, 7-1 Home","5-6, 1-4 Away",26,7,,,Final,,10,6,0,10,,0,0,0,7,,NCAAF

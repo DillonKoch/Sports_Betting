@@ -1,14 +1,14 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-292550166,2009,"Sat, Sep 12",New Mexico State Aggies,Prairie View A&M Panthers,"1-1, 1-1 Home","1-1, 0-1 Away",21,18,NULL,NULL,Final,NULL,7,7,0,7,NULL,3,0,0,15,NULL,NCAAF
-292690167,2009,"Sat, Sep 26",New Mexico Lobos,New Mexico State Aggies,"0-4, 0-3 Home","2-2, 1-0 Away",17,20,NULL,NULL,Final,NULL,7,7,3,0,NULL,3,10,0,7,NULL,NCAAF
-292830166,2009,"Sat, Oct 10",New Mexico State Aggies,Utah State Aggies,"3-3, 1-1 Conf","1-4, 0-1 Conf",20,17,NULL,NULL,Final,NULL,7,3,7,3,NULL,0,10,7,0,NULL,NCAAF
-292970166,2009,"Sat, Oct 24",New Mexico State Aggies,Fresno State Bulldogs,"3-5, 1-3 Conf","4-3, 3-1 Conf",3,34,NULL,NULL,Final,ESPNU,3,0,0,0,NULL,0,13,14,7,NULL,NCAAF
-293180062,2009,"Sat, Nov 14",Hawai'i Rainbow Warriors,New Mexico State Aggies,"4-6, 2-5 Conf","3-7, 1-4 Conf",24,6,NULL,NULL,Final,NULL,14,3,0,7,NULL,0,0,6,0,NULL,NCAAF
-293320023,2009,"Sat, Nov 28",San Jose State Spartans,New Mexico State Aggies,"2-9, 1-6 Conf","3-9, 1-6 Conf",13,10,NULL,NULL,Final,NULL,7,3,0,3,NULL,0,7,3,0,NULL,NCAAF
-292480166,2009,"Sat, Sep 5",New Mexico State Aggies,Idaho Vandals,"0-1, 0-1 Conf","1-0, 1-0 Conf",6,21,NULL,NULL,Final,NULL,0,0,6,0,NULL,14,7,0,0,NULL,NCAAF
-292620166,2009,"Sat, Sep 19",New Mexico State Aggies,UTEP Miners,"1-2, 1-2 Home","1-2, 1-0 Away",12,38,NULL,NULL,Final,NULL,0,0,0,12,NULL,7,7,17,7,NULL,NCAAF
-292760021,2009,"Sat, Oct 3",San Diego State Aztecs,New Mexico State Aggies,"2-3, 2-0 Home","2-3, 1-1 Away",34,17,NULL,NULL,Final,NULL,0,10,7,17,NULL,0,7,3,7,NULL,NCAAF
-292902348,2009,"Sat, Oct 17",Louisiana Tech Bulldogs,New Mexico State Aggies,"3-3, 2-1 Conf","3-4, 1-2 Conf",45,7,NULL,NULL,Final,NULL,10,14,14,7,NULL,0,0,0,7,NULL,NCAAF
-293040194,2009,"Sat, Oct 31",Ohio State Buckeyes,New Mexico State Aggies,"7-2, 5-1 Home","3-6, 1-3 Away",45,0,NULL,NULL,Final,BTN,0,28,17,0,NULL,0,0,0,0,NULL,NCAAF
-293250166,2009,"Sat, Nov 21",New Mexico State Aggies,Nevada Wolf Pack,"3-8, 1-5 Conf","8-3, 7-0 Conf",20,63,NULL,NULL,Final,ESPNU,3,3,0,14,NULL,28,14,14,7,NULL,NCAAF
-293390068,2009,"Sat, Dec 5",Boise State Broncos,New Mexico State Aggies,"13-0, 8-0 Conf","3-10, 1-7 Conf",42,7,NULL,NULL,Final,NULL,7,21,14,0,NULL,0,0,0,7,NULL,NCAAF
+292550166,2009,"September 12, 2009",New Mexico State Aggies,Prairie View A&M Panthers,"1-1, 1-1 Home","1-1, 0-1 Away",21,18,,,Final,,7,7,0,7,,3,0,0,15,,NCAAF
+292690167,2009,"September 26, 2009",New Mexico Lobos,New Mexico State Aggies,"0-4, 0-3 Home","2-2, 1-0 Away",17,20,,,Final,,7,7,3,0,,3,10,0,7,,NCAAF
+292830166,2009,"October 10, 2009",New Mexico State Aggies,Utah State Aggies,"3-3, 1-1 Conf","1-4, 0-1 Conf",20,17,,,Final,,7,3,7,3,,0,10,7,0,,NCAAF
+292970166,2009,"October 24, 2009",New Mexico State Aggies,Fresno State Bulldogs,"3-5, 1-3 Conf","4-3, 3-1 Conf",3,34,,,Final,ESPNU,3,0,0,0,,0,13,14,7,,NCAAF
+293180062,2009,"November 14, 2009",Hawai'i Rainbow Warriors,New Mexico State Aggies,"4-6, 2-5 Conf","3-7, 1-4 Conf",24,6,,,Final,,14,3,0,7,,0,0,6,0,,NCAAF
+293320023,2009,"November 28, 2009",San Jose State Spartans,New Mexico State Aggies,"2-9, 1-6 Conf","3-9, 1-6 Conf",13,10,,,Final,,7,3,0,3,,0,7,3,0,,NCAAF
+292480166,2009,"September 05, 2009",New Mexico State Aggies,Idaho Vandals,"0-1, 0-1 Conf","1-0, 1-0 Conf",6,21,,,Final,,0,0,6,0,,14,7,0,0,,NCAAF
+292620166,2009,"September 19, 2009",New Mexico State Aggies,UTEP Miners,"1-2, 1-2 Home","1-2, 1-0 Away",12,38,,,Final,,0,0,0,12,,7,7,17,7,,NCAAF
+292760021,2009,"October 03, 2009",San Diego State Aztecs,New Mexico State Aggies,"2-3, 2-0 Home","2-3, 1-1 Away",34,17,,,Final,,0,10,7,17,,0,7,3,7,,NCAAF
+292902348,2009,"October 17, 2009",Louisiana Tech Bulldogs,New Mexico State Aggies,"3-3, 2-1 Conf","3-4, 1-2 Conf",45,7,,,Final,,10,14,14,7,,0,0,0,7,,NCAAF
+293040194,2009,"October 31, 2009",Ohio State Buckeyes,New Mexico State Aggies,"7-2, 5-1 Home","3-6, 1-3 Away",45,0,,,Final,BTN,0,28,17,0,,0,0,0,0,,NCAAF
+293250166,2009,"November 21, 2009",New Mexico State Aggies,Nevada Wolf Pack,"3-8, 1-5 Conf","8-3, 7-0 Conf",20,63,,,Final,ESPNU,3,3,0,14,,28,14,14,7,,NCAAF
+293390068,2009,"December 05, 2009",Boise State Broncos,New Mexico State Aggies,"13-0, 8-0 Conf","3-10, 1-7 Conf",42,7,,,Final,,7,21,14,0,,0,0,0,7,,NCAAF

@@ -1,14 +1,14 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-400547729,2014,"Fri, Sep 5",Boston College Eagles,Pittsburgh Panthers,"1-1, 0-1 Conf","2-0, 1-0 Conf",20,30,NULL,NULL,Final,ESPN,7,0,7,6,NULL,3,17,7,3,NULL,NCAAF
-400547731,2014,"Sat, Sep 20",Boston College Eagles,Maine Black Bears,"3-1, 2-1 Home","1-2, 0-2 Away",40,10,NULL,NULL,Final,ESPN3,10,9,14,7,NULL,7,3,0,0,NULL,NCAAF
-400547733,2014,"Sat, Oct 11",NC State Wolfpack,Boston College Eagles,"4-3, 0-3 Conf","4-2, 1-1 Conf",14,30,NULL,NULL,Final,NULL,14,0,0,0,NULL,14,7,3,6,NULL,NCAAF
-400547735,2014,"Sat, Oct 25",Wake Forest Demon Deacons,Boston College Eagles,"2-6, 0-4 Conf","5-3, 2-2 Conf",17,23,NULL,NULL,Final,NULL,0,0,3,14,NULL,10,7,0,6,NULL,NCAAF
-400547737,2014,"Sat, Nov 8",Boston College Eagles,Louisville Cardinals,"6-4, 3-3 Conf","7-3, 5-3 Conf",19,38,NULL,NULL,Final,ESPN2,7,6,6,0,NULL,3,14,7,14,NULL,NCAAF
-400547728,2014,"Sat, Aug 30",UMass Minutemen,Boston College Eagles,"0-1, 0-1 Home","1-0, 1-0 Away",7,30,NULL,NULL,Final,ESPN3,0,0,7,0,NULL,0,6,14,10,NULL,NCAAF
-400547730,2014,"Sat, Sep 13",Boston College Eagles,USC Trojans,"2-1, 1-1 Home","2-1, 1-1 Away",37,31,NULL,NULL,Final,ESPN,0,20,7,10,NULL,10,7,0,14,NULL,NCAAF
-400547732,2014,"Sat, Sep 27",Boston College Eagles,Colorado State Rams,"3-2, 2-2 Home","3-1, 1-1 Away",21,24,NULL,NULL,Final,NULL,0,14,7,0,NULL,0,7,7,10,NULL,NCAAF
-400547734,2014,"Sat, Oct 18",Boston College Eagles,Clemson Tigers,"4-3, 1-2 Conf","5-2, 4-1 Conf",13,17,NULL,NULL,Final,ESPNU,0,7,0,6,NULL,0,10,0,7,NULL,NCAAF
-400547736,2014,"Sat, Nov 1",Virginia Tech Hokies,Boston College Eagles,"4-5, 1-4 Conf","6-3, 3-2 Conf",31,33,NULL,NULL,Final,NULL,7,3,0,21,NULL,0,14,9,10,NULL,NCAAF
-400547738,2014,"Sat, Nov 22",Florida State Seminoles,Boston College Eagles,"11-0, 8-0 Conf","6-5, 3-4 Conf",20,17,NULL,NULL,Final,ABC/ESPN2,7,10,0,3,NULL,3,7,7,0,NULL,NCAAF
-400547739,2014,"Sat, Nov 29",Boston College Eagles,Syracuse Orange,"7-5, 4-4 Conf","3-9, 1-7 Conf",28,7,NULL,NULL,Final,NULL,7,7,7,7,NULL,7,0,0,0,NULL,NCAAF
-400610210,2014,"Sat, Dec 27",Penn State Nittany Lions,Boston College Eagles,7-6,7-6,31,30,NULL,NULL,Final/OT,ESPN,7,0,7,10,7,7,0,14,3,6,NCAAF
+400547729,2014,"September 05, 2014",Boston College Eagles,Pittsburgh Panthers,"1-1, 0-1 Conf","2-0, 1-0 Conf",20,30,,,Final,ESPN,7,0,7,6,,3,17,7,3,,NCAAF
+400547731,2014,"September 20, 2014",Boston College Eagles,Maine Black Bears,"3-1, 2-1 Home","1-2, 0-2 Away",40,10,,,Final,ESPN3,10,9,14,7,,7,3,0,0,,NCAAF
+400547733,2014,"October 11, 2014",NC State Wolfpack,Boston College Eagles,"4-3, 0-3 Conf","4-2, 1-1 Conf",14,30,,,Final,,14,0,0,0,,14,7,3,6,,NCAAF
+400547735,2014,"October 25, 2014",Wake Forest Demon Deacons,Boston College Eagles,"2-6, 0-4 Conf","5-3, 2-2 Conf",17,23,,,Final,,0,0,3,14,,10,7,0,6,,NCAAF
+400547737,2014,"November 08, 2014",Boston College Eagles,Louisville Cardinals,"6-4, 3-3 Conf","7-3, 5-3 Conf",19,38,,,Final,ESPN2,7,6,6,0,,3,14,7,14,,NCAAF
+400547728,2014,"August 30, 2014",UMass Minutemen,Boston College Eagles,"0-1, 0-1 Home","1-0, 1-0 Away",7,30,,,Final,ESPN3,0,0,7,0,,0,6,14,10,,NCAAF
+400547730,2014,"September 13, 2014",Boston College Eagles,USC Trojans,"2-1, 1-1 Home","2-1, 1-1 Away",37,31,,,Final,ESPN,0,20,7,10,,10,7,0,14,,NCAAF
+400547732,2014,"September 27, 2014",Boston College Eagles,Colorado State Rams,"3-2, 2-2 Home","3-1, 1-1 Away",21,24,,,Final,,0,14,7,0,,0,7,7,10,,NCAAF
+400547734,2014,"October 18, 2014",Boston College Eagles,Clemson Tigers,"4-3, 1-2 Conf","5-2, 4-1 Conf",13,17,,,Final,ESPNU,0,7,0,6,,0,10,0,7,,NCAAF
+400547736,2014,"November 01, 2014",Virginia Tech Hokies,Boston College Eagles,"4-5, 1-4 Conf","6-3, 3-2 Conf",31,33,,,Final,,7,3,0,21,,0,14,9,10,,NCAAF
+400547738,2014,"November 22, 2014",Florida State Seminoles,Boston College Eagles,"11-0, 8-0 Conf","6-5, 3-4 Conf",20,17,,,Final,ABC/ESPN2,7,10,0,3,,3,7,7,0,,NCAAF
+400547739,2014,"November 29, 2014",Boston College Eagles,Syracuse Orange,"7-5, 4-4 Conf","3-9, 1-7 Conf",28,7,,,Final,,7,7,7,7,,7,0,0,0,,NCAAF
+400610210,2014,"December 27, 2014",Penn State Nittany Lions,Boston College Eagles,7-6,7-6,31,30,,,Final/OT,ESPN,7,0,7,10,7.0,7,0,14,3,6.0,NCAAF

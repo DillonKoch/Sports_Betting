@@ -1,14 +1,14 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-401012267,2018,"Sat, Sep 8",Missouri Tigers,Wyoming Cowboys,"2-0, 2-0 Home","1-2, 1-1 Away",40,13,MIZ -20.0,53,Final,ESPNU,3,13,14,10,NULL,0,0,10,3,NULL,NCAAF
-401012289,2018,"Sat, Sep 22",Missouri Tigers,Georgia Bulldogs,"3-1, 0-1 Conf","4-0, 2-0 Conf",29,43,UGA -15.0,69,Final,ESPN,7,0,15,7,NULL,7,13,13,10,NULL,NCAAF
-401012307,2018,"Sat, Oct 13",Alabama Crimson Tide,Missouri Tigers,"7-0, 4-0 Conf","3-3, 0-3 Conf",39,10,ALA -28.5,74,Final,ESPN,13,17,2,7,NULL,10,0,0,0,NULL,NCAAF
-401012322,2018,"Sat, Oct 27",Missouri Tigers,Kentucky Wildcats,"4-4, 0-4 Conf","7-1, 5-1 Conf",14,15,MIZ -7.5,55,Final,SECN,0,14,0,0,NULL,3,0,0,12,NULL,NCAAF
-401012335,2018,"Sat, Nov 10",Missouri Tigers,Vanderbilt Commodores,"6-4, 2-4 Conf","4-6, 1-5 Conf",33,28,MIZ -15.0,66,Final,SECN,7,6,13,7,NULL,14,7,7,0,NULL,NCAAF
-401012255,2018,"Sat, Sep 1",Missouri Tigers,UT Martin Skyhawks,"1-0, 1-0 Home","0-1, 0-1 Away",51,14,NULL,NULL,Final,SECN,14,24,10,3,NULL,0,7,7,0,NULL,NCAAF
-401012279,2018,"Sat, Sep 15",Purdue Boilermakers,Missouri Tigers,"0-3, 0-3 Home","3-0, 1-0 Away",37,40,MIZ -5.5,67,Final,BTN,7,17,3,10,NULL,13,14,10,3,NULL,NCAAF
-401012305,2018,"Sat, Oct 6",South Carolina Gamecocks,Missouri Tigers,"3-2, 2-2 Conf","3-2, 0-2 Conf",37,35,MIZ -1.0,64,Final,SECN,7,7,17,6,NULL,14,9,0,12,NULL,NCAAF
-401012317,2018,"Sat, Oct 20",Missouri Tigers,Memphis Tigers,"4-3, 3-1 Home","4-4, 0-3 Away",65,33,MIZ -9.5,NULL,Final,SECN,21,27,14,3,NULL,3,17,7,6,NULL,NCAAF
-401012325,2018,"Sat, Nov 3",Florida Gators,Missouri Tigers,"6-3, 4-3 Conf","5-4, 1-4 Conf",17,38,FLA -6.0,59,Final,SECN,3,7,7,0,NULL,7,14,14,3,NULL,NCAAF
-401012346,2018,"Sat, Nov 17",Tennessee Volunteers,Missouri Tigers,"5-6, 2-5 Conf","7-4, 3-4 Conf",17,50,MIZ -6.0,57,Final,CBS,0,10,7,0,NULL,6,20,14,10,NULL,NCAAF
-401012354,2018,"Fri, Nov 23",Missouri Tigers,Arkansas Razorbacks,"8-4, 4-4 Conf","2-10, 0-8 Conf",38,0,MIZ -24.5,60,Final,CBS,7,21,10,0,NULL,0,0,0,0,NULL,NCAAF
-401032081,2018,"Mon, Dec 31",Oklahoma State Cowboys,Missouri Tigers,7-6,8-5,38,33,MIZ -9.0,73,Final,ESPN,7,7,21,3,NULL,3,13,3,14,NULL,NCAAF
+401012267,2018,"September 08, 2018",Missouri Tigers,Wyoming Cowboys,"2-0, 2-0 Home","1-2, 1-1 Away",40,13,MIZ -20.0,53.0,Final,ESPNU,3,13,14,10,,0,0,10,3,,NCAAF
+401012289,2018,"September 22, 2018",Missouri Tigers,Georgia Bulldogs,"3-1, 0-1 Conf","4-0, 2-0 Conf",29,43,UGA -15.0,69.0,Final,ESPN,7,0,15,7,,7,13,13,10,,NCAAF
+401012307,2018,"October 13, 2018",Alabama Crimson Tide,Missouri Tigers,"7-0, 4-0 Conf","3-3, 0-3 Conf",39,10,ALA -28.5,74.0,Final,ESPN,13,17,2,7,,10,0,0,0,,NCAAF
+401012322,2018,"October 27, 2018",Missouri Tigers,Kentucky Wildcats,"4-4, 0-4 Conf","7-1, 5-1 Conf",14,15,MIZ -7.5,55.0,Final,SECN,0,14,0,0,,3,0,0,12,,NCAAF
+401012335,2018,"November 10, 2018",Missouri Tigers,Vanderbilt Commodores,"6-4, 2-4 Conf","4-6, 1-5 Conf",33,28,MIZ -15.0,66.0,Final,SECN,7,6,13,7,,14,7,7,0,,NCAAF
+401012255,2018,"September 01, 2018",Missouri Tigers,UT Martin Skyhawks,"1-0, 1-0 Home","0-1, 0-1 Away",51,14,,,Final,SECN,14,24,10,3,,0,7,7,0,,NCAAF
+401012279,2018,"September 15, 2018",Purdue Boilermakers,Missouri Tigers,"0-3, 0-3 Home","3-0, 1-0 Away",37,40,MIZ -5.5,67.0,Final,BTN,7,17,3,10,,13,14,10,3,,NCAAF
+401012305,2018,"October 06, 2018",South Carolina Gamecocks,Missouri Tigers,"3-2, 2-2 Conf","3-2, 0-2 Conf",37,35,MIZ -1.0,64.0,Final,SECN,7,7,17,6,,14,9,0,12,,NCAAF
+401012317,2018,"October 20, 2018",Missouri Tigers,Memphis Tigers,"4-3, 3-1 Home","4-4, 0-3 Away",65,33,MIZ -9.5,,Final,SECN,21,27,14,3,,3,17,7,6,,NCAAF
+401012325,2018,"November 03, 2018",Florida Gators,Missouri Tigers,"6-3, 4-3 Conf","5-4, 1-4 Conf",17,38,FLA -6.0,59.0,Final,SECN,3,7,7,0,,7,14,14,3,,NCAAF
+401012346,2018,"November 17, 2018",Tennessee Volunteers,Missouri Tigers,"5-6, 2-5 Conf","7-4, 3-4 Conf",17,50,MIZ -6.0,57.0,Final,CBS,0,10,7,0,,6,20,14,10,,NCAAF
+401012354,2018,"November 23, 2018",Missouri Tigers,Arkansas Razorbacks,"8-4, 4-4 Conf","2-10, 0-8 Conf",38,0,MIZ -24.5,60.0,Final,CBS,7,21,10,0,,0,0,0,0,,NCAAF
+401032081,2018,"December 31, 2018",Oklahoma State Cowboys,Missouri Tigers,7-6,8-5,38,33,MIZ -9.0,73.0,Final,ESPN,7,7,21,3,,3,13,3,14,,NCAAF

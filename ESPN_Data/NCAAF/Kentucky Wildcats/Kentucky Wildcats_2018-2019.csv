@@ -1,14 +1,14 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-401012263,2018,"Sat, Sep 8",Florida Gators,Kentucky Wildcats,"1-1, 0-1 Conf","2-0, 1-0 Conf",16,27,FLA -13.5,53,Final,SECN,0,10,0,6,NULL,7,0,14,6,NULL,NCAAF
-401012286,2018,"Sat, Sep 22",Kentucky Wildcats,Mississippi State Bulldogs,"4-0, 2-0 Conf","3-1, 0-1 Conf",28,7,MSST -10.0,56,Final,ESPN2,0,7,7,14,NULL,0,7,0,0,NULL,NCAAF
-401012306,2018,"Sat, Oct 6",Texas A&M Aggies,Kentucky Wildcats,"4-2, 2-1 Conf","5-1, 3-1 Conf",20,14,TA&M -5.5,50,Final/OT,ESPN,0,7,0,7,6,7,0,0,7,0,NCAAF
-401012322,2018,"Sat, Oct 27",Missouri Tigers,Kentucky Wildcats,"4-4, 0-4 Conf","7-1, 5-1 Conf",14,15,MIZ -7.5,55,Final,SECN,0,14,0,0,NULL,3,0,0,12,NULL,NCAAF
-401012336,2018,"Sat, Nov 10",Tennessee Volunteers,Kentucky Wildcats,"5-5, 2-4 Conf","7-3, 5-3 Conf",24,7,UK -5.0,43,Final,SECN,3,14,7,0,NULL,0,0,7,0,NULL,NCAAF
-401012251,2018,"Sat, Sep 1",Kentucky Wildcats,Central Michigan Chippewas,"1-0, 1-0 Home","0-1, 0-1 Away",35,20,NULL,NULL,Final,ESPNU,7,14,7,7,NULL,3,17,0,0,NULL,NCAAF
-401012276,2018,"Sat, Sep 15",Kentucky Wildcats,Murray State Racers,"3-0, 2-0 Home","0-3, 0-2 Away",48,10,NULL,NULL,Final,SECN,7,10,17,14,NULL,0,3,0,7,NULL,NCAAF
-401012296,2018,"Sat, Sep 29",Kentucky Wildcats,South Carolina Gamecocks,"5-0, 3-0 Conf","2-2, 1-2 Conf",24,10,SC -1.0,52,Final,SECN,3,21,0,0,NULL,3,0,7,0,NULL,NCAAF
-401012314,2018,"Sat, Oct 20",Kentucky Wildcats,Vanderbilt Commodores,"6-1, 4-1 Conf","3-5, 0-4 Conf",14,7,UK -10.5,46,Final,SECN,0,7,0,7,NULL,7,0,0,0,NULL,NCAAF
-401012326,2018,"Sat, Nov 3",Kentucky Wildcats,Georgia Bulldogs,"7-2, 5-2 Conf","8-1, 6-1 Conf",17,34,UGA -9.0,47,Final,CBS,0,3,7,7,NULL,7,7,14,6,NULL,NCAAF
-401012342,2018,"Sat, Nov 17",Kentucky Wildcats,Middle Tennessee Blue Raiders,"8-3, 6-1 Home","7-4, 3-4 Away",34,23,UK -16.5,49,Final,SECN,17,7,7,3,NULL,0,10,6,7,NULL,NCAAF
-401012353,2018,"Sat, Nov 24",Louisville Cardinals,Kentucky Wildcats,"2-10, 2-5 Home","9-3, 3-2 Away",10,56,UK -17.0,54,Final,ESPN2,7,3,0,0,NULL,14,21,0,21,NULL,NCAAF
-401032088,2018,"Tue, Jan 1",Penn State Nittany Lions,Kentucky Wildcats,9-4,10-3,24,27,PSU -4.5,48,Final,ABC,0,7,0,17,NULL,10,0,17,0,NULL,NCAAF
+401012263,2018,"September 08, 2018",Florida Gators,Kentucky Wildcats,"1-1, 0-1 Conf","2-0, 1-0 Conf",16,27,FLA -13.5,53.0,Final,SECN,0,10,0,6,,7,0,14,6,,NCAAF
+401012286,2018,"September 22, 2018",Kentucky Wildcats,Mississippi State Bulldogs,"4-0, 2-0 Conf","3-1, 0-1 Conf",28,7,MSST -10.0,56.0,Final,ESPN2,0,7,7,14,,0,7,0,0,,NCAAF
+401012306,2018,"October 06, 2018",Texas A&M Aggies,Kentucky Wildcats,"4-2, 2-1 Conf","5-1, 3-1 Conf",20,14,TA&M -5.5,50.0,Final/OT,ESPN,0,7,0,7,6.0,7,0,0,7,0.0,NCAAF
+401012322,2018,"October 27, 2018",Missouri Tigers,Kentucky Wildcats,"4-4, 0-4 Conf","7-1, 5-1 Conf",14,15,MIZ -7.5,55.0,Final,SECN,0,14,0,0,,3,0,0,12,,NCAAF
+401012336,2018,"November 10, 2018",Tennessee Volunteers,Kentucky Wildcats,"5-5, 2-4 Conf","7-3, 5-3 Conf",24,7,UK -5.0,43.0,Final,SECN,3,14,7,0,,0,0,7,0,,NCAAF
+401012251,2018,"September 01, 2018",Kentucky Wildcats,Central Michigan Chippewas,"1-0, 1-0 Home","0-1, 0-1 Away",35,20,,,Final,ESPNU,7,14,7,7,,3,17,0,0,,NCAAF
+401012276,2018,"September 15, 2018",Kentucky Wildcats,Murray State Racers,"3-0, 2-0 Home","0-3, 0-2 Away",48,10,,,Final,SECN,7,10,17,14,,0,3,0,7,,NCAAF
+401012296,2018,"September 29, 2018",Kentucky Wildcats,South Carolina Gamecocks,"5-0, 3-0 Conf","2-2, 1-2 Conf",24,10,SC -1.0,52.0,Final,SECN,3,21,0,0,,3,0,7,0,,NCAAF
+401012314,2018,"October 20, 2018",Kentucky Wildcats,Vanderbilt Commodores,"6-1, 4-1 Conf","3-5, 0-4 Conf",14,7,UK -10.5,46.0,Final,SECN,0,7,0,7,,7,0,0,0,,NCAAF
+401012326,2018,"November 03, 2018",Kentucky Wildcats,Georgia Bulldogs,"7-2, 5-2 Conf","8-1, 6-1 Conf",17,34,UGA -9.0,47.0,Final,CBS,0,3,7,7,,7,7,14,6,,NCAAF
+401012342,2018,"November 17, 2018",Kentucky Wildcats,Middle Tennessee Blue Raiders,"8-3, 6-1 Home","7-4, 3-4 Away",34,23,UK -16.5,49.0,Final,SECN,17,7,7,3,,0,10,6,7,,NCAAF
+401012353,2018,"November 24, 2018",Louisville Cardinals,Kentucky Wildcats,"2-10, 2-5 Home","9-3, 3-2 Away",10,56,UK -17.0,54.0,Final,ESPN2,7,3,0,0,,14,21,0,21,,NCAAF
+401032088,2018,"January 01, 2019",Penn State Nittany Lions,Kentucky Wildcats,9-4,10-3,24,27,PSU -4.5,48.0,Final,ABC,0,7,0,17,,10,0,17,0,,NCAAF

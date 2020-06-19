@@ -1,14 +1,14 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-262522459,2006,"Sat, Sep 9",Northern Illinois Huskies,Ohio Bobcats,"0-2, 0-1 Conf","2-0, 1-0 Conf",23,35,NULL,NULL,Final,NULL,14,3,0,6,NULL,7,7,14,7,NULL,NCAAF
-262662459,2006,"Sat, Sep 23",Northern Illinois Huskies,Indiana State Sycamores,"2-2, 2-1 Home","0-4, 0-3 Away",48,14,NULL,NULL,Final,NULL,28,10,10,0,NULL,0,0,0,14,NULL,NCAAF
-262810193,2006,"Sun, Oct 8",Miami (OH) RedHawks,Northern Illinois Huskies,"0-6, 0-2 Conf","4-2, 3-1 Conf",25,28,NULL,NULL,Final,ESPN,3,9,6,7,NULL,7,10,0,11,NULL,NCAAF
-262942459,2006,"Sat, Oct 21",Northern Illinois Huskies,Temple Owls,"5-3, 3-1 Home","0-8, 0-5 Away",43,21,NULL,NULL,Final,NULL,10,9,21,3,NULL,0,0,14,7,NULL,NCAAF
-263112459,2006,"Tue, Nov 7",Northern Illinois Huskies,Toledo Rockets,"5-5, 3-3 Conf","4-6, 2-4 Conf",13,17,NULL,NULL,Final,ESPN2,7,3,0,3,NULL,10,7,0,0,NULL,NCAAF
-262450194,2006,"Sat, Sep 2",Ohio State Buckeyes,Northern Illinois Huskies,"1-0, 1-0 Home","0-1, 0-1 Away",35,12,NULL,NULL,Final,ABC,21,7,0,7,NULL,0,3,3,6,NULL,NCAAF
-262592459,2006,"Sat, Sep 16",Northern Illinois Huskies,Buffalo Bulls,"1-2, 1-1 Conf","1-2, 0-2 Conf",31,13,NULL,NULL,Final,NULL,14,3,0,14,NULL,0,0,7,6,NULL,NCAAF
-262732050,2006,"Sat, Sep 30",Ball State Cardinals,Northern Illinois Huskies,"1-4, 1-1 Conf","3-2, 2-1 Conf",28,40,NULL,NULL,Final,NULL,7,7,0,14,NULL,7,7,16,10,NULL,NCAAF
-262872711,2006,"Sat, Oct 14",Western Michigan Broncos,Northern Illinois Huskies,"4-2, 2-1 Conf","4-3, 3-2 Conf",16,14,NULL,NULL,Final,NULL,0,10,3,3,NULL,7,0,0,7,NULL,NCAAF
-263012294,2006,"Sat, Oct 28",Iowa Hawkeyes,Northern Illinois Huskies,"6-3, 4-1 Home","5-4, 2-3 Away",24,14,NULL,NULL,Final,ESPNU,7,10,0,7,NULL,0,0,0,14,NULL,NCAAF
-263212459,2006,"Fri, Nov 17",Northern Illinois Huskies,Central Michigan Chippewas,"6-5, 4-3 Conf","7-4, 6-1 Conf",31,10,NULL,NULL,Final,ESPNU,14,7,0,10,NULL,0,0,0,10,NULL,NCAAF
-263282199,2006,"Fri, Nov 24",Eastern Michigan Eagles,Northern Illinois Huskies,"1-11, 1-7 Conf","7-5, 5-3 Conf",0,27,NULL,NULL,Final,NULL,0,0,0,0,NULL,7,14,3,3,NULL,NCAAF
-263532628,2006,"Tue, Dec 19",TCU Horned Frogs,Northern Illinois Huskies,"11-2, 6-1 Home","7-6, 3-4 Away",37,7,NULL,NULL,Final,ESPN2,6,10,14,7,NULL,0,0,0,7,NULL,NCAAF
+262522459,2006,"September 09, 2006",Northern Illinois Huskies,Ohio Bobcats,"0-2, 0-1 Conf","2-0, 1-0 Conf",23,35,,,Final,,14,3,0,6,,7,7,14,7,,NCAAF
+262662459,2006,"September 23, 2006",Northern Illinois Huskies,Indiana State Sycamores,"2-2, 2-1 Home","0-4, 0-3 Away",48,14,,,Final,,28,10,10,0,,0,0,0,14,,NCAAF
+262810193,2006,"October 08, 2006",Miami (OH) RedHawks,Northern Illinois Huskies,"0-6, 0-2 Conf","4-2, 3-1 Conf",25,28,,,Final,ESPN,3,9,6,7,,7,10,0,11,,NCAAF
+262942459,2006,"October 21, 2006",Northern Illinois Huskies,Temple Owls,"5-3, 3-1 Home","0-8, 0-5 Away",43,21,,,Final,,10,9,21,3,,0,0,14,7,,NCAAF
+263112459,2006,"November 07, 2006",Northern Illinois Huskies,Toledo Rockets,"5-5, 3-3 Conf","4-6, 2-4 Conf",13,17,,,Final,ESPN2,7,3,0,3,,10,7,0,0,,NCAAF
+262450194,2006,"September 02, 2006",Ohio State Buckeyes,Northern Illinois Huskies,"1-0, 1-0 Home","0-1, 0-1 Away",35,12,,,Final,ABC,21,7,0,7,,0,3,3,6,,NCAAF
+262592459,2006,"September 16, 2006",Northern Illinois Huskies,Buffalo Bulls,"1-2, 1-1 Conf","1-2, 0-2 Conf",31,13,,,Final,,14,3,0,14,,0,0,7,6,,NCAAF
+262732050,2006,"September 30, 2006",Ball State Cardinals,Northern Illinois Huskies,"1-4, 1-1 Conf","3-2, 2-1 Conf",28,40,,,Final,,7,7,0,14,,7,7,16,10,,NCAAF
+262872711,2006,"October 14, 2006",Western Michigan Broncos,Northern Illinois Huskies,"4-2, 2-1 Conf","4-3, 3-2 Conf",16,14,,,Final,,0,10,3,3,,7,0,0,7,,NCAAF
+263012294,2006,"October 28, 2006",Iowa Hawkeyes,Northern Illinois Huskies,"6-3, 4-1 Home","5-4, 2-3 Away",24,14,,,Final,ESPNU,7,10,0,7,,0,0,0,14,,NCAAF
+263212459,2006,"November 17, 2006",Northern Illinois Huskies,Central Michigan Chippewas,"6-5, 4-3 Conf","7-4, 6-1 Conf",31,10,,,Final,ESPNU,14,7,0,10,,0,0,0,10,,NCAAF
+263282199,2006,"November 24, 2006",Eastern Michigan Eagles,Northern Illinois Huskies,"1-11, 1-7 Conf","7-5, 5-3 Conf",0,27,,,Final,,0,0,0,0,,7,14,3,3,,NCAAF
+263532628,2006,"December 19, 2006",TCU Horned Frogs,Northern Illinois Huskies,"11-2, 6-1 Home","7-6, 3-4 Away",37,7,,,Final,ESPN2,6,10,14,7,,0,0,0,7,,NCAAF

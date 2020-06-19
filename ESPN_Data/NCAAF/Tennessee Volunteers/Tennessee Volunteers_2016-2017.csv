@@ -1,14 +1,14 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-400868989,2016,"Sat, Sep 10",Tennessee Volunteers,Virginia Tech Hokies,2-0,1-1,45,24,NULL,NULL,Final,ABC,0,24,7,14,NULL,14,0,3,7,NULL,NCAAF
-400869007,2016,"Sat, Sep 24",Tennessee Volunteers,Florida Gators,"4-0, 1-0 Conf","3-1, 1-1 Conf",38,28,NULL,NULL,Final,CBS,0,3,14,21,NULL,7,14,0,7,NULL,NCAAF
-400869023,2016,"Sat, Oct 8",Texas A&M Aggies,Tennessee Volunteers,"6-0, 4-0 Conf","5-1, 2-1 Conf",45,38,NULL,NULL,Final/2OT,CBS,21,0,7,7,10,7,0,7,21,3,NCAAF
-400869039,2016,"Sat, Oct 29",South Carolina Gamecocks,Tennessee Volunteers,"4-4, 2-4 Conf","5-3, 2-3 Conf",24,21,NULL,NULL,Final,ESPN2,7,7,3,7,NULL,7,0,7,7,NULL,NCAAF
-400869054,2016,"Sat, Nov 12",Tennessee Volunteers,Kentucky Wildcats,"7-3, 3-3 Conf","5-5, 4-4 Conf",49,36,NULL,NULL,Final,SECN,14,7,14,14,NULL,10,3,3,20,NULL,NCAAF
-400868977,2016,"Thu, Sep 1",Tennessee Volunteers,Appalachian State Mountaineers,"1-0, 1-0 Home","0-1, 0-1 Away",20,13,NULL,NULL,Final/OT,SECN,3,0,3,7,7,7,6,0,0,0,NCAAF
-400869000,2016,"Sat, Sep 17",Tennessee Volunteers,Ohio Bobcats,"3-0, 2-0 Home","1-2, 1-1 Away",28,19,NULL,NULL,Final,SECN,7,7,7,7,NULL,6,6,7,0,NULL,NCAAF
-400869013,2016,"Sat, Oct 1",Georgia Bulldogs,Tennessee Volunteers,"3-2, 1-2 Conf","5-0, 2-0 Conf",31,34,NULL,NULL,Final,CBS,7,10,7,7,NULL,0,7,7,20,NULL,NCAAF
-400869028,2016,"Sat, Oct 15",Tennessee Volunteers,Alabama Crimson Tide,"5-2, 2-2 Conf","7-0, 4-0 Conf",10,49,NULL,NULL,Final,CBS,0,7,3,0,NULL,14,7,14,14,NULL,NCAAF
-400869048,2016,"Sat, Nov 5",Tennessee Volunteers,Tennessee Tech Golden Eagles,"6-3, 4-1 Home","3-6, 1-4 Away",55,0,NULL,NULL,Final,SECN,21,17,7,10,NULL,0,0,0,0,NULL,NCAAF
-400869064,2016,"Sat, Nov 19",Tennessee Volunteers,Missouri Tigers,"8-3, 4-3 Conf","3-8, 1-6 Conf",63,37,NULL,NULL,Final,CBS,7,14,14,28,NULL,6,14,7,10,NULL,NCAAF
-400869075,2016,"Sat, Nov 26",Vanderbilt Commodores,Tennessee Volunteers,"6-6, 3-5 Conf","8-4, 4-4 Conf",45,34,NULL,NULL,Final,SECN,7,17,7,14,NULL,14,17,3,0,NULL,NCAAF
-400876104,2016,"Fri, Dec 30",Tennessee Volunteers,Nebraska Cornhuskers,9-4,9-4,38,24,NULL,NULL,Final,ESPN,0,21,3,14,NULL,0,7,7,10,NULL,NCAAF
+400868989,2016,"September 10, 2016",Tennessee Volunteers,Virginia Tech Hokies,2-0,1-1,45,24,,,Final,ABC,0,24,7,14,,14,0,3,7,,NCAAF
+400869007,2016,"September 24, 2016",Tennessee Volunteers,Florida Gators,"4-0, 1-0 Conf","3-1, 1-1 Conf",38,28,,,Final,CBS,0,3,14,21,,7,14,0,7,,NCAAF
+400869023,2016,"October 08, 2016",Texas A&M Aggies,Tennessee Volunteers,"6-0, 4-0 Conf","5-1, 2-1 Conf",45,38,,,Final/2OT,CBS,21,0,7,7,10.0,7,0,7,21,3.0,NCAAF
+400869039,2016,"October 29, 2016",South Carolina Gamecocks,Tennessee Volunteers,"4-4, 2-4 Conf","5-3, 2-3 Conf",24,21,,,Final,ESPN2,7,7,3,7,,7,0,7,7,,NCAAF
+400869054,2016,"November 12, 2016",Tennessee Volunteers,Kentucky Wildcats,"7-3, 3-3 Conf","5-5, 4-4 Conf",49,36,,,Final,SECN,14,7,14,14,,10,3,3,20,,NCAAF
+400868977,2016,"September 01, 2016",Tennessee Volunteers,Appalachian State Mountaineers,"1-0, 1-0 Home","0-1, 0-1 Away",20,13,,,Final/OT,SECN,3,0,3,7,7.0,7,6,0,0,0.0,NCAAF
+400869000,2016,"September 17, 2016",Tennessee Volunteers,Ohio Bobcats,"3-0, 2-0 Home","1-2, 1-1 Away",28,19,,,Final,SECN,7,7,7,7,,6,6,7,0,,NCAAF
+400869013,2016,"October 01, 2016",Georgia Bulldogs,Tennessee Volunteers,"3-2, 1-2 Conf","5-0, 2-0 Conf",31,34,,,Final,CBS,7,10,7,7,,0,7,7,20,,NCAAF
+400869028,2016,"October 15, 2016",Tennessee Volunteers,Alabama Crimson Tide,"5-2, 2-2 Conf","7-0, 4-0 Conf",10,49,,,Final,CBS,0,7,3,0,,14,7,14,14,,NCAAF
+400869048,2016,"November 05, 2016",Tennessee Volunteers,Tennessee Tech Golden Eagles,"6-3, 4-1 Home","3-6, 1-4 Away",55,0,,,Final,SECN,21,17,7,10,,0,0,0,0,,NCAAF
+400869064,2016,"November 19, 2016",Tennessee Volunteers,Missouri Tigers,"8-3, 4-3 Conf","3-8, 1-6 Conf",63,37,,,Final,CBS,7,14,14,28,,6,14,7,10,,NCAAF
+400869075,2016,"November 26, 2016",Vanderbilt Commodores,Tennessee Volunteers,"6-6, 3-5 Conf","8-4, 4-4 Conf",45,34,,,Final,SECN,7,17,7,14,,14,17,3,0,,NCAAF
+400876104,2016,"December 30, 2016",Tennessee Volunteers,Nebraska Cornhuskers,9-4,9-4,38,24,,,Final,ESPN,0,21,3,14,,0,7,7,10,,NCAAF

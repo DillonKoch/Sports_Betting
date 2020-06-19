@@ -1,14 +1,14 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-302540057,2010,"Sat, Sep 11",Florida Gators,South Florida Bulls,"2-0, 2-0 Home","1-1, 0-1 Away",38,14,NULL,NULL,Final,NULL,0,7,21,10,NULL,7,0,7,0,NULL,NCAAF
-302680057,2010,"Sat, Sep 25",Florida Gators,Kentucky Wildcats,"4-0, 2-0 Conf","3-1, 0-1 Conf",48,14,NULL,NULL,Final,ESPNU,14,7,13,14,NULL,0,7,7,0,NULL,NCAAF
-302820057,2010,"Sat, Oct 9",Florida Gators,LSU Tigers,"4-2, 2-2 Conf","6-0, 4-0 Conf",29,33,NULL,NULL,Final,ESPN,0,14,0,15,NULL,3,17,0,13,NULL,NCAAF
-303030061,2010,"Sat, Oct 30",Georgia Bulldogs,Florida Gators,"4-5, 3-4 Conf","5-3, 3-3 Conf",31,34,NULL,NULL,Final/OT,CBS,0,7,3,21,0,0,21,0,10,3,NCAAF
-303170057,2010,"Sat, Nov 13",Florida Gators,South Carolina Gamecocks,"6-4, 4-4 Conf","7-3, 5-3 Conf",14,36,NULL,NULL,Final,ESPN,7,0,0,7,NULL,9,6,7,14,NULL,NCAAF
-302470057,2010,"Sat, Sep 4",Florida Gators,Miami (OH) RedHawks,"1-0, 1-0 Home","0-1, 0-1 Away",34,12,NULL,NULL,Final,ESPN,0,21,0,13,NULL,3,3,3,3,NULL,NCAAF
-302612633,2010,"Sat, Sep 18",Tennessee Volunteers,Florida Gators,"1-2, 0-1 Conf","3-0, 1-0 Conf",17,31,NULL,NULL,Final,CBS,3,0,7,7,NULL,0,7,17,7,NULL,NCAAF
-302750333,2010,"Sat, Oct 2",Alabama Crimson Tide,Florida Gators,"5-0, 2-0 Conf","4-1, 2-1 Conf",31,6,NULL,NULL,Final,CBS,3,21,7,0,NULL,0,3,3,0,NULL,NCAAF
-302890057,2010,"Sat, Oct 16",Florida Gators,Mississippi State Bulldogs,"4-3, 2-3 Conf","5-2, 2-2 Conf",7,10,NULL,NULL,Final,ESPNU,0,0,7,0,NULL,10,0,0,0,NULL,NCAAF
-303100238,2010,"Sat, Nov 6",Vanderbilt Commodores,Florida Gators,"2-7, 1-5 Conf","6-3, 4-3 Conf",14,55,NULL,NULL,Final,NULL,0,0,7,7,NULL,7,34,14,0,NULL,NCAAF
-303240057,2010,"Sat, Nov 20",Florida Gators,Appalachian State Mountaineers,"7-4, 4-3 Home","9-2, 3-2 Away",48,10,NULL,NULL,Final,NULL,21,7,14,6,NULL,0,0,3,7,NULL,NCAAF
-303310052,2010,"Sat, Nov 27",Florida State Seminoles,Florida Gators,"9-3, 6-1 Home","7-5, 3-2 Away",31,7,NULL,NULL,Final,ABC/ESPN,3,21,7,0,NULL,7,0,0,0,NULL,NCAAF
-310010213,2010,"Sat, Jan 1",Penn State Nittany Lions,Florida Gators,7-6,8-5,24,37,NULL,NULL,Final,ABC,7,10,7,0,NULL,0,14,6,17,NULL,NCAAF
+302540057,2010,"September 11, 2010",Florida Gators,South Florida Bulls,"2-0, 2-0 Home","1-1, 0-1 Away",38,14,,,Final,,0,7,21,10,,7,0,7,0,,NCAAF
+302680057,2010,"September 25, 2010",Florida Gators,Kentucky Wildcats,"4-0, 2-0 Conf","3-1, 0-1 Conf",48,14,,,Final,ESPNU,14,7,13,14,,0,7,7,0,,NCAAF
+302820057,2010,"October 09, 2010",Florida Gators,LSU Tigers,"4-2, 2-2 Conf","6-0, 4-0 Conf",29,33,,,Final,ESPN,0,14,0,15,,3,17,0,13,,NCAAF
+303030061,2010,"October 30, 2010",Georgia Bulldogs,Florida Gators,"4-5, 3-4 Conf","5-3, 3-3 Conf",31,34,,,Final/OT,CBS,0,7,3,21,0.0,0,21,0,10,3.0,NCAAF
+303170057,2010,"November 13, 2010",Florida Gators,South Carolina Gamecocks,"6-4, 4-4 Conf","7-3, 5-3 Conf",14,36,,,Final,ESPN,7,0,0,7,,9,6,7,14,,NCAAF
+302470057,2010,"September 04, 2010",Florida Gators,Miami (OH) RedHawks,"1-0, 1-0 Home","0-1, 0-1 Away",34,12,,,Final,ESPN,0,21,0,13,,3,3,3,3,,NCAAF
+302612633,2010,"September 18, 2010",Tennessee Volunteers,Florida Gators,"1-2, 0-1 Conf","3-0, 1-0 Conf",17,31,,,Final,CBS,3,0,7,7,,0,7,17,7,,NCAAF
+302750333,2010,"October 02, 2010",Alabama Crimson Tide,Florida Gators,"5-0, 2-0 Conf","4-1, 2-1 Conf",31,6,,,Final,CBS,3,21,7,0,,0,3,3,0,,NCAAF
+302890057,2010,"October 16, 2010",Florida Gators,Mississippi State Bulldogs,"4-3, 2-3 Conf","5-2, 2-2 Conf",7,10,,,Final,ESPNU,0,0,7,0,,10,0,0,0,,NCAAF
+303100238,2010,"November 06, 2010",Vanderbilt Commodores,Florida Gators,"2-7, 1-5 Conf","6-3, 4-3 Conf",14,55,,,Final,,0,0,7,7,,7,34,14,0,,NCAAF
+303240057,2010,"November 20, 2010",Florida Gators,Appalachian State Mountaineers,"7-4, 4-3 Home","9-2, 3-2 Away",48,10,,,Final,,21,7,14,6,,0,0,3,7,,NCAAF
+303310052,2010,"November 27, 2010",Florida State Seminoles,Florida Gators,"9-3, 6-1 Home","7-5, 3-2 Away",31,7,,,Final,ABC/ESPN,3,21,7,0,,7,0,0,0,,NCAAF
+310010213,2010,"January 01, 2011",Penn State Nittany Lions,Florida Gators,7-6,8-5,24,37,,,Final,ABC,7,10,7,0,,0,14,6,17,,NCAAF

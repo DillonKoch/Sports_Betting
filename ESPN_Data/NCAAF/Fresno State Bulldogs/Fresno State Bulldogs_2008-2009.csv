@@ -1,14 +1,14 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-282570278,2008,"Sat, Sep 13",Fresno State Bulldogs,Wisconsin Badgers,"1-1, 0-1 Home","3-0, 1-0 Away",10,13,NULL,NULL,Final,ESPN2,0,0,10,0,NULL,7,3,3,0,NULL,NCAAF
-282710026,2008,"Sat, Sep 27",UCLA Bruins,Fresno State Bulldogs,"1-3, 1-2 Home","3-1, 3-0 Away",31,36,NULL,NULL,Final,ABC,7,12,5,7,NULL,7,13,16,0,NULL,NCAAF
-282850278,2008,"Sat, Oct 11",Fresno State Bulldogs,Idaho Vandals,"4-2, 1-1 Conf","1-6, 0-3 Conf",45,32,NULL,NULL,Final,NULL,7,14,14,10,NULL,3,7,7,15,NULL,NCAAF
-283062348,2008,"Sat, Nov 1",Louisiana Tech Bulldogs,Fresno State Bulldogs,"4-4, 2-2 Conf","5-3, 2-2 Conf",38,35,NULL,NULL,Final,NULL,7,7,10,14,NULL,7,14,7,7,NULL,NCAAF
-283200278,2008,"Sat, Nov 15",Fresno State Bulldogs,New Mexico State Aggies,"6-4, 3-3 Conf","3-7, 1-5 Conf",24,17,NULL,NULL,Final,NULL,3,14,0,7,NULL,10,7,0,0,NULL,NCAAF
-282450164,2008,"Mon, Sep 1",Rutgers Scarlet Knights,Fresno State Bulldogs,"0-1, 0-1 Home","1-0, 1-0 Away",7,24,NULL,NULL,Final,ESPN,0,0,0,7,NULL,0,0,10,14,NULL,NCAAF
-282642649,2008,"Sat, Sep 20",Toledo Rockets,Fresno State Bulldogs,"1-2, 0-1 Home","2-1, 2-0 Away",54,55,NULL,NULL,Final/OT,ESPNU,7,14,3,17,13,14,3,17,7,14,NCAAF
-282780278,2008,"Sat, Oct 4",Fresno State Bulldogs,Hawai'i Rainbow Warriors,"3-2, 0-1 Conf","2-3, 1-1 Conf",29,32,NULL,NULL,Final/OT,NULL,3,6,13,7,0,9,10,10,0,3,NCAAF
-282990328,2008,"Sat, Oct 25",Utah State Aggies,Fresno State Bulldogs,"1-7, 1-3 Conf","5-2, 2-1 Conf",28,30,NULL,NULL,Final,NULL,7,6,0,15,NULL,7,7,7,9,NULL,NCAAF
-283120278,2008,"Fri, Nov 7",Fresno State Bulldogs,Nevada Wolf Pack,"5-4, 2-3 Conf","5-4, 3-2 Conf",28,41,NULL,NULL,Final,ESPN2,7,0,14,7,NULL,7,10,14,10,NULL,NCAAF
-283260023,2008,"Fri, Nov 21",San Jose State Spartans,Fresno State Bulldogs,"6-6, 4-4 Conf","7-4, 4-3 Conf",10,24,NULL,NULL,Final,ESPN2,7,3,0,0,NULL,3,0,7,14,NULL,NCAAF
-283330068,2008,"Fri, Nov 28",Boise State Broncos,Fresno State Bulldogs,"12-0, 8-0 Conf","7-5, 4-4 Conf",61,10,NULL,NULL,Final,ESPN2,7,6,28,20,NULL,7,3,0,0,NULL,NCAAF
-283550278,2008,"Sat, Dec 20",Fresno State Bulldogs,Colorado State Rams,7-6,7-6,35,40,NULL,NULL,Final,ESPN,14,7,7,7,NULL,10,10,0,20,NULL,NCAAF
+282570278,2008,"September 13, 2008",Fresno State Bulldogs,Wisconsin Badgers,"1-1, 0-1 Home","3-0, 1-0 Away",10,13,,,Final,ESPN2,0,0,10,0,,7,3,3,0,,NCAAF
+282710026,2008,"September 27, 2008",UCLA Bruins,Fresno State Bulldogs,"1-3, 1-2 Home","3-1, 3-0 Away",31,36,,,Final,ABC,7,12,5,7,,7,13,16,0,,NCAAF
+282850278,2008,"October 11, 2008",Fresno State Bulldogs,Idaho Vandals,"4-2, 1-1 Conf","1-6, 0-3 Conf",45,32,,,Final,,7,14,14,10,,3,7,7,15,,NCAAF
+283062348,2008,"November 01, 2008",Louisiana Tech Bulldogs,Fresno State Bulldogs,"4-4, 2-2 Conf","5-3, 2-2 Conf",38,35,,,Final,,7,7,10,14,,7,14,7,7,,NCAAF
+283200278,2008,"November 15, 2008",Fresno State Bulldogs,New Mexico State Aggies,"6-4, 3-3 Conf","3-7, 1-5 Conf",24,17,,,Final,,3,14,0,7,,10,7,0,0,,NCAAF
+282450164,2008,"September 01, 2008",Rutgers Scarlet Knights,Fresno State Bulldogs,"0-1, 0-1 Home","1-0, 1-0 Away",7,24,,,Final,ESPN,0,0,0,7,,0,0,10,14,,NCAAF
+282642649,2008,"September 20, 2008",Toledo Rockets,Fresno State Bulldogs,"1-2, 0-1 Home","2-1, 2-0 Away",54,55,,,Final/OT,ESPNU,7,14,3,17,13.0,14,3,17,7,14.0,NCAAF
+282780278,2008,"October 04, 2008",Fresno State Bulldogs,Hawai'i Rainbow Warriors,"3-2, 0-1 Conf","2-3, 1-1 Conf",29,32,,,Final/OT,,3,6,13,7,0.0,9,10,10,0,3.0,NCAAF
+282990328,2008,"October 25, 2008",Utah State Aggies,Fresno State Bulldogs,"1-7, 1-3 Conf","5-2, 2-1 Conf",28,30,,,Final,,7,6,0,15,,7,7,7,9,,NCAAF
+283120278,2008,"November 07, 2008",Fresno State Bulldogs,Nevada Wolf Pack,"5-4, 2-3 Conf","5-4, 3-2 Conf",28,41,,,Final,ESPN2,7,0,14,7,,7,10,14,10,,NCAAF
+283260023,2008,"November 21, 2008",San Jose State Spartans,Fresno State Bulldogs,"6-6, 4-4 Conf","7-4, 4-3 Conf",10,24,,,Final,ESPN2,7,3,0,0,,3,0,7,14,,NCAAF
+283330068,2008,"November 28, 2008",Boise State Broncos,Fresno State Bulldogs,"12-0, 8-0 Conf","7-5, 4-4 Conf",61,10,,,Final,ESPN2,7,6,28,20,,7,3,0,0,,NCAAF
+283550278,2008,"December 20, 2008",Fresno State Bulldogs,Colorado State Rams,7-6,7-6,35,40,,,Final,ESPN,14,7,7,7,,10,10,0,20,,NCAAF

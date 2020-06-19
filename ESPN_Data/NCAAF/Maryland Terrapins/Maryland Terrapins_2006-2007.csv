@@ -1,14 +1,14 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-262520120,2006,"Sat, Sep 9",Maryland Terrapins,Middle Tennessee Blue Raiders,"2-0, 2-0 Home","1-1, 0-1 Away",24,10,NULL,NULL,Final,NULL,10,7,7,0,NULL,3,0,7,0,NULL,NCAAF
-262660120,2006,"Sat, Sep 23",Maryland Terrapins,Florida Intl Golden Panthers,"3-1, 3-0 Home","0-4, 0-3 Away",14,10,NULL,NULL,Final,ESPN3,7,7,0,0,NULL,0,7,0,3,NULL,NCAAF
-262870258,2006,"Sat, Oct 14",Virginia Cavaliers,Maryland Terrapins,"2-5, 1-2 Conf","4-2, 1-1 Conf",26,28,NULL,NULL,Final,ESPN3,10,10,0,6,NULL,0,0,7,21,NULL,NCAAF
-263010120,2006,"Sat, Oct 28",Maryland Terrapins,Florida State Seminoles,"6-2, 3-1 Conf","4-4, 2-4 Conf",27,24,NULL,NULL,Final,ESPN2,10,10,7,0,NULL,7,7,7,3,NULL,NCAAF
-263150120,2006,"Sat, Nov 11",Maryland Terrapins,Miami Hurricanes,"8-2, 5-1 Conf","5-5, 3-4 Conf",14,13,NULL,NULL,Final,ABC,7,7,0,0,NULL,0,10,0,3,NULL,NCAAF
-262450120,2006,"Sat, Sep 2",Maryland Terrapins,William & Mary Tribe,"1-0, 1-0 Home","0-1, 0-1 Away",27,14,NULL,NULL,Final,ESPN3,14,10,3,0,NULL,0,7,0,7,NULL,NCAAF
-262570277,2006,"Thu, Sep 14",West Virginia Mountaineers,Maryland Terrapins,"3-0, 3-0 Home","2-1, 0-1 Away",45,24,NULL,NULL,Final,ESPN,28,10,7,0,NULL,0,10,7,7,NULL,NCAAF
-262800059,2006,"Sat, Oct 7",Georgia Tech Yellow Jackets,Maryland Terrapins,"5-1, 3-0 Conf","3-2, 0-1 Conf",27,23,NULL,NULL,Final,ESPNU,7,7,0,13,NULL,10,10,3,0,NULL,NCAAF
-262940120,2006,"Sat, Oct 21",Maryland Terrapins,NC State Wolfpack,"5-2, 2-1 Conf","3-4, 2-2 Conf",26,20,NULL,NULL,Final,NULL,0,6,17,3,NULL,0,0,6,14,NULL,NCAAF
-263080228,2006,"Sat, Nov 4",Clemson Tigers,Maryland Terrapins,"7-3, 4-3 Conf","7-2, 4-1 Conf",12,13,NULL,NULL,Final,ESPN2,3,3,0,6,NULL,0,7,3,3,NULL,NCAAF
-263220103,2006,"Sat, Nov 18",Boston College Eagles,Maryland Terrapins,"9-2, 5-2 Conf","8-3, 5-2 Conf",38,16,NULL,NULL,Final,ESPN,14,14,7,3,NULL,0,6,10,0,NULL,NCAAF
-263290120,2006,"Sat, Nov 25",Maryland Terrapins,Wake Forest Demon Deacons,"8-4, 5-3 Conf","10-2, 6-2 Conf",24,38,NULL,NULL,Final,NULL,7,7,3,7,NULL,7,14,10,7,NULL,NCAAF
-263630120,2006,"Fri, Dec 29",Maryland Terrapins,Purdue Boilermakers,"9-4, 7-1 Home","8-6, 3-4 Away",24,7,NULL,NULL,Final,ESPN,7,14,3,0,NULL,0,7,0,0,NULL,NCAAF
+262520120,2006,"September 09, 2006",Maryland Terrapins,Middle Tennessee Blue Raiders,"2-0, 2-0 Home","1-1, 0-1 Away",24,10,,,Final,,10,7,7,0,,3,0,7,0,,NCAAF
+262660120,2006,"September 23, 2006",Maryland Terrapins,Florida Intl Golden Panthers,"3-1, 3-0 Home","0-4, 0-3 Away",14,10,,,Final,ESPN3,7,7,0,0,,0,7,0,3,,NCAAF
+262870258,2006,"October 14, 2006",Virginia Cavaliers,Maryland Terrapins,"2-5, 1-2 Conf","4-2, 1-1 Conf",26,28,,,Final,ESPN3,10,10,0,6,,0,0,7,21,,NCAAF
+263010120,2006,"October 28, 2006",Maryland Terrapins,Florida State Seminoles,"6-2, 3-1 Conf","4-4, 2-4 Conf",27,24,,,Final,ESPN2,10,10,7,0,,7,7,7,3,,NCAAF
+263150120,2006,"November 11, 2006",Maryland Terrapins,Miami Hurricanes,"8-2, 5-1 Conf","5-5, 3-4 Conf",14,13,,,Final,ABC,7,7,0,0,,0,10,0,3,,NCAAF
+262450120,2006,"September 02, 2006",Maryland Terrapins,William & Mary Tribe,"1-0, 1-0 Home","0-1, 0-1 Away",27,14,,,Final,ESPN3,14,10,3,0,,0,7,0,7,,NCAAF
+262570277,2006,"September 14, 2006",West Virginia Mountaineers,Maryland Terrapins,"3-0, 3-0 Home","2-1, 0-1 Away",45,24,,,Final,ESPN,28,10,7,0,,0,10,7,7,,NCAAF
+262800059,2006,"October 07, 2006",Georgia Tech Yellow Jackets,Maryland Terrapins,"5-1, 3-0 Conf","3-2, 0-1 Conf",27,23,,,Final,ESPNU,7,7,0,13,,10,10,3,0,,NCAAF
+262940120,2006,"October 21, 2006",Maryland Terrapins,NC State Wolfpack,"5-2, 2-1 Conf","3-4, 2-2 Conf",26,20,,,Final,,0,6,17,3,,0,0,6,14,,NCAAF
+263080228,2006,"November 04, 2006",Clemson Tigers,Maryland Terrapins,"7-3, 4-3 Conf","7-2, 4-1 Conf",12,13,,,Final,ESPN2,3,3,0,6,,0,7,3,3,,NCAAF
+263220103,2006,"November 18, 2006",Boston College Eagles,Maryland Terrapins,"9-2, 5-2 Conf","8-3, 5-2 Conf",38,16,,,Final,ESPN,14,14,7,3,,0,6,10,0,,NCAAF
+263290120,2006,"November 25, 2006",Maryland Terrapins,Wake Forest Demon Deacons,"8-4, 5-3 Conf","10-2, 6-2 Conf",24,38,,,Final,,7,7,3,7,,7,14,10,7,,NCAAF
+263630120,2006,"December 29, 2006",Maryland Terrapins,Purdue Boilermakers,"9-4, 7-1 Home","8-6, 3-4 Away",24,7,,,Final,ESPN,7,14,3,0,,0,7,0,0,,NCAAF

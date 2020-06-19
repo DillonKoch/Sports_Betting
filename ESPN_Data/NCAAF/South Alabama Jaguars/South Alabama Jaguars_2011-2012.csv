@@ -1,11 +1,11 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-312530006,2011,"Sat, Sep 10",South Alabama Jaguars,Lamar Cardinals,"2-0, 2-0 Home","1-1, 0-1 Away",30,8,NULL,NULL,Final,NULL,0,20,7,3,NULL,0,0,2,6,NULL,NCAAF
-312672309,2011,"Sat, Sep 24",Kent State Golden Flashes,South Alabama Jaguars,"1-3, 1-1 Home","2-2, 0-2 Away",33,25,NULL,NULL,Final,NULL,7,19,7,0,NULL,0,0,17,8,NULL,NCAAF
-312880006,2011,"Sat, Oct 15",South Alabama Jaguars,Tennessee-Martin Skyhawks,"4-2, 3-0 Home","3-3, 0-2 Away",33,30,NULL,NULL,Final,ESPN3,6,10,17,0,NULL,7,0,6,17,NULL,NCAAF
-313020006,2011,"Sat, Oct 29",South Alabama Jaguars,Henderson State Reddies,"5-3, 4-0 Home",,28,3,NULL,NULL,Final,NULL,16,12,0,0,NULL,0,0,3,0,NULL,NCAAF
-312440006,2011,"Thu, Sep 1",South Alabama Jaguars,West Alabama Tigers,"1-0, 1-0 Home",,20,10,NULL,NULL,Final,ESPN3,7,0,6,7,NULL,7,0,0,3,NULL,NCAAF
-312600152,2011,"Sat, Sep 17",NC State Wolfpack,South Alabama Jaguars,"2-1, 2-0 Home","2-1, 0-1 Away",35,13,NULL,NULL,Final,ESPN3,7,7,14,7,NULL,3,0,7,3,NULL,NCAAF
-312812636,2011,"Sat, Oct 8",UT San Antonio Roadrunners,South Alabama Jaguars,"2-4, 2-2 Home","3-2, 1-2 Away",27,30,NULL,NULL,Final/OT,LHN,0,17,0,0,10,7,3,7,0,13,NCAAF
-312952247,2011,"Sat, Oct 22",Georgia State Panthers,South Alabama Jaguars,"2-5, 2-2 Home","4-3, 1-3 Away",27,20,NULL,NULL,Final/OT,NULL,7,7,3,3,7,0,7,6,7,0,NCAAF
-313070006,2011,"Thu, Nov 3",South Alabama Jaguars,Mississippi Valley State Delta Devils,"6-3, 5-0 Home","1-9, 0-5 Away",35,3,NULL,NULL,Final,NULL,14,7,14,0,NULL,0,0,3,0,NULL,NCAAF
-313230006,2011,"Sat, Nov 19",South Alabama Jaguars,Cal Poly Mustangs,"6-4, 5-1 Home","6-5, 2-4 Away",10,41,NULL,NULL,Final,NULL,3,0,0,7,NULL,7,10,17,7,NULL,NCAAF
+312530006,2011,"September 10, 2011",South Alabama Jaguars,Lamar Cardinals,"2-0, 2-0 Home","1-1, 0-1 Away",30,8,,,Final,,0,20,7,3,,0,0,2,6,,NCAAF
+312672309,2011,"September 24, 2011",Kent State Golden Flashes,South Alabama Jaguars,"1-3, 1-1 Home","2-2, 0-2 Away",33,25,,,Final,,7,19,7,0,,0,0,17,8,,NCAAF
+312880006,2011,"October 15, 2011",South Alabama Jaguars,Tennessee-Martin Skyhawks,"4-2, 3-0 Home","3-3, 0-2 Away",33,30,,,Final,ESPN3,6,10,17,0,,7,0,6,17,,NCAAF
+313020006,2011,"October 29, 2011",South Alabama Jaguars,Henderson State Reddies,"5-3, 4-0 Home",,28,3,,,Final,,16,12,0,0,,0,0,3,0,,NCAAF
+312440006,2011,"September 01, 2011",South Alabama Jaguars,West Alabama Tigers,"1-0, 1-0 Home",,20,10,,,Final,ESPN3,7,0,6,7,,7,0,0,3,,NCAAF
+312600152,2011,"September 17, 2011",NC State Wolfpack,South Alabama Jaguars,"2-1, 2-0 Home","2-1, 0-1 Away",35,13,,,Final,ESPN3,7,7,14,7,,3,0,7,3,,NCAAF
+312812636,2011,"October 08, 2011",UT San Antonio Roadrunners,South Alabama Jaguars,"2-4, 2-2 Home","3-2, 1-2 Away",27,30,,,Final/OT,LHN,0,17,0,0,10.0,7,3,7,0,13.0,NCAAF
+312952247,2011,"October 22, 2011",Georgia State Panthers,South Alabama Jaguars,"2-5, 2-2 Home","4-3, 1-3 Away",27,20,,,Final/OT,,7,7,3,3,7.0,0,7,6,7,0.0,NCAAF
+313070006,2011,"November 03, 2011",South Alabama Jaguars,Mississippi Valley State Delta Devils,"6-3, 5-0 Home","1-9, 0-5 Away",35,3,,,Final,,14,7,14,0,,0,0,3,0,,NCAAF
+313230006,2011,"November 19, 2011",South Alabama Jaguars,Cal Poly Mustangs,"6-4, 5-1 Home","6-5, 2-4 Away",10,41,,,Final,,3,0,0,7,,7,10,17,7,,NCAAF

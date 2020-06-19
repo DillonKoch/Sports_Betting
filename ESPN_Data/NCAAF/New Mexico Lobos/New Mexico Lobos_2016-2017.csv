@@ -1,14 +1,14 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-400869186,2016,"Sat, Sep 10",New Mexico State Aggies,New Mexico Lobos,"1-1, 1-0 Home","1-1, 0-1 Away",32,31,NULL,NULL,Final,ESPN3,3,12,7,10,NULL,14,3,7,7,NULL,NCAAF
-400869209,2016,"Sat, Oct 1",New Mexico Lobos,San Jose State Spartans,"2-2, 1-0 Conf","1-4, 0-1 Conf",48,41,NULL,NULL,Final,NULL,14,17,10,7,NULL,13,7,0,21,NULL,NCAAF
-400869219,2016,"Sat, Oct 15",Air Force Falcons,New Mexico Lobos,"4-2, 1-2 Conf","3-3, 2-1 Conf",40,45,NULL,NULL,Final,ESPNN,10,17,7,6,NULL,14,21,10,0,NULL,NCAAF
-400869233,2016,"Sat, Oct 29",Hawai'i Rainbow Warriors,New Mexico Lobos,"4-5, 3-2 Conf","5-3, 3-1 Conf",21,28,NULL,NULL,Final,NULL,0,14,0,7,NULL,14,0,7,7,NULL,NCAAF
-400869243,2016,"Sat, Nov 12",Utah State Aggies,New Mexico Lobos,"3-7, 1-6 Conf","7-3, 5-1 Conf",21,24,NULL,NULL,Final,ESPN2,14,0,7,0,NULL,0,6,15,3,NULL,NCAAF
-400869177,2016,"Thu, Sep 1",New Mexico Lobos,South Dakota Coyotes,"1-0, 1-0 Home","0-1, 0-1 Away",48,21,NULL,NULL,Final,NULL,14,21,6,7,NULL,14,0,7,0,NULL,NCAAF
-400869192,2016,"Sat, Sep 17",Rutgers Scarlet Knights,New Mexico Lobos,"2-1, 2-0 Home","1-2, 0-2 Away",37,28,NULL,NULL,Final,ESPNN,7,21,3,6,NULL,21,0,0,7,NULL,NCAAF
-400869214,2016,"Fri, Oct 7",New Mexico Lobos,Boise State Broncos,"2-3, 1-1 Conf","5-0, 2-0 Conf",21,49,NULL,NULL,Final,CBSSN,7,0,0,14,NULL,14,28,7,0,NULL,NCAAF
-400869227,2016,"Sat, Oct 22",New Mexico Lobos,Louisiana Monroe Warhawks,"4-3, 3-1 Home","2-5, 0-4 Away",59,17,NULL,NULL,Final,NULL,28,7,17,7,NULL,0,3,0,14,NULL,NCAAF
-400869238,2016,"Sat, Nov 5",New Mexico Lobos,Nevada Wolf Pack,"6-3, 4-1 Conf","3-6, 1-4 Conf",35,26,NULL,NULL,Final,ESPNU,7,7,14,7,NULL,0,14,0,12,NULL,NCAAF
-400869248,2016,"Sat, Nov 19",Colorado State Rams,New Mexico Lobos,"6-5, 4-3 Conf","7-4, 5-2 Conf",49,31,NULL,NULL,Final,ESPN2,14,14,21,0,NULL,7,3,7,14,NULL,NCAAF
-400869254,2016,"Sat, Nov 26",New Mexico Lobos,Wyoming Cowboys,"8-4, 6-2 Conf","8-4, 6-2 Conf",56,35,NULL,NULL,Final,ESPN2,21,14,7,14,NULL,0,7,14,14,NULL,NCAAF
-400876038,2016,"Sat, Dec 17",New Mexico Lobos,UT San Antonio Roadrunners,"9-4, 5-1 Home","6-7, 2-4 Away",23,20,NULL,NULL,Final,ESPN,7,3,6,7,NULL,3,3,0,14,NULL,NCAAF
+400869186,2016,"September 10, 2016",New Mexico State Aggies,New Mexico Lobos,"1-1, 1-0 Home","1-1, 0-1 Away",32,31,,,Final,ESPN3,3,12,7,10,,14,3,7,7,,NCAAF
+400869209,2016,"October 01, 2016",New Mexico Lobos,San Jose State Spartans,"2-2, 1-0 Conf","1-4, 0-1 Conf",48,41,,,Final,,14,17,10,7,,13,7,0,21,,NCAAF
+400869219,2016,"October 15, 2016",Air Force Falcons,New Mexico Lobos,"4-2, 1-2 Conf","3-3, 2-1 Conf",40,45,,,Final,ESPNN,10,17,7,6,,14,21,10,0,,NCAAF
+400869233,2016,"October 29, 2016",Hawai'i Rainbow Warriors,New Mexico Lobos,"4-5, 3-2 Conf","5-3, 3-1 Conf",21,28,,,Final,,0,14,0,7,,14,0,7,7,,NCAAF
+400869243,2016,"November 12, 2016",Utah State Aggies,New Mexico Lobos,"3-7, 1-6 Conf","7-3, 5-1 Conf",21,24,,,Final,ESPN2,14,0,7,0,,0,6,15,3,,NCAAF
+400869177,2016,"September 01, 2016",New Mexico Lobos,South Dakota Coyotes,"1-0, 1-0 Home","0-1, 0-1 Away",48,21,,,Final,,14,21,6,7,,14,0,7,0,,NCAAF
+400869192,2016,"September 17, 2016",Rutgers Scarlet Knights,New Mexico Lobos,"2-1, 2-0 Home","1-2, 0-2 Away",37,28,,,Final,ESPNN,7,21,3,6,,21,0,0,7,,NCAAF
+400869214,2016,"October 07, 2016",New Mexico Lobos,Boise State Broncos,"2-3, 1-1 Conf","5-0, 2-0 Conf",21,49,,,Final,CBSSN,7,0,0,14,,14,28,7,0,,NCAAF
+400869227,2016,"October 22, 2016",New Mexico Lobos,Louisiana Monroe Warhawks,"4-3, 3-1 Home","2-5, 0-4 Away",59,17,,,Final,,28,7,17,7,,0,3,0,14,,NCAAF
+400869238,2016,"November 05, 2016",New Mexico Lobos,Nevada Wolf Pack,"6-3, 4-1 Conf","3-6, 1-4 Conf",35,26,,,Final,ESPNU,7,7,14,7,,0,14,0,12,,NCAAF
+400869248,2016,"November 19, 2016",Colorado State Rams,New Mexico Lobos,"6-5, 4-3 Conf","7-4, 5-2 Conf",49,31,,,Final,ESPN2,14,14,21,0,,7,3,7,14,,NCAAF
+400869254,2016,"November 26, 2016",New Mexico Lobos,Wyoming Cowboys,"8-4, 6-2 Conf","8-4, 6-2 Conf",56,35,,,Final,ESPN2,21,14,7,14,,0,7,14,14,,NCAAF
+400876038,2016,"December 17, 2016",New Mexico Lobos,UT San Antonio Roadrunners,"9-4, 5-1 Home","6-7, 2-4 Away",23,20,,,Final,ESPN,7,3,6,7,,3,3,0,14,,NCAAF

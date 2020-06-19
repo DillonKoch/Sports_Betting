@@ -1,14 +1,14 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-262520252,2006,"Sat, Sep 9",BYU Cougars,Tulsa Golden Hurricane,"1-1, 1-0 Home","1-1, 0-1 Away",49,24,NULL,NULL,Final,NULL,7,14,14,14,NULL,0,10,7,7,NULL,NCAAF
-262660252,2006,"Sat, Sep 23",BYU Cougars,Utah State Aggies,"2-2, 2-0 Home","0-4, 0-3 Away",38,0,NULL,NULL,Final,NULL,10,14,7,7,NULL,0,0,0,0,NULL,NCAAF
-262800252,2006,"Sat, Oct 7",BYU Cougars,San Diego State Aztecs,"4-2, 2-0 Conf","0-5, 0-2 Conf",47,17,NULL,NULL,Final,NULL,20,20,7,0,NULL,3,0,14,0,NULL,NCAAF
-263012005,2006,"Sat, Oct 28",Air Force Falcons,BYU Cougars,"3-4, 3-2 Conf","6-2, 4-0 Conf",14,33,NULL,NULL,Final,NBCSN,0,0,7,7,NULL,7,14,3,9,NULL,NCAAF
-263130252,2006,"Thu, Nov 9",BYU Cougars,Wyoming Cowboys,"8-2, 6-0 Conf","5-6, 4-3 Conf",55,7,NULL,NULL,Final,CBSSN,21,10,10,14,NULL,0,0,0,7,NULL,NCAAF
-262450012,2006,"Sat, Sep 2",Arizona Wildcats,BYU Cougars,"1-0, 0-0 Conf","0-1, 0-0 Conf",16,13,NULL,NULL,Final,TBS,3,3,7,3,NULL,7,0,3,3,NULL,NCAAF
-262590103,2006,"Sat, Sep 16",Boston College Eagles,BYU Cougars,"3-0, 2-0 Home","1-2, 0-2 Away",30,23,NULL,NULL,Final/OT,ESPN2,6,6,8,3,7,7,6,0,10,0,NCAAF
-262712628,2006,"Thu, Sep 28",TCU Horned Frogs,BYU Cougars,"3-1, 0-1 Conf","3-2, 1-0 Conf",17,31,NULL,NULL,Final,CBSSN,0,3,7,7,NULL,3,7,7,14,NULL,NCAAF
-262940252,2006,"Sat, Oct 21",BYU Cougars,Unlv Rebels,"5-2, 3-0 Conf","1-6, 0-3 Conf",52,7,NULL,NULL,Final,NULL,21,7,14,10,NULL,0,7,0,0,NULL,NCAAF
-263080036,2006,"Sat, Nov 4",Colorado State Rams,BYU Cougars,"4-5, 1-4 Conf","7-2, 5-0 Conf",3,24,NULL,NULL,Final,NULL,0,3,0,0,NULL,7,7,7,3,NULL,NCAAF
-263220252,2006,"Sat, Nov 18",BYU Cougars,New Mexico Lobos,"9-2, 7-0 Conf","5-6, 3-4 Conf",42,17,NULL,NULL,Final,NULL,14,14,7,7,NULL,3,0,14,0,NULL,NCAAF
-263290254,2006,"Sat, Nov 25",Utah Utes,BYU Cougars,"7-5, 5-3 Conf","10-2, 8-0 Conf",31,33,NULL,NULL,Final,CBSSN,0,10,14,7,NULL,14,0,0,19,NULL,NCAAF
-263552483,2006,"Thu, Dec 21",Oregon Ducks,BYU Cougars,"7-6, 5-2 Home","11-2, 5-2 Away",8,38,NULL,NULL,Final,ESPN,0,0,0,8,NULL,0,17,7,14,NULL,NCAAF
+262520252,2006,"September 09, 2006",BYU Cougars,Tulsa Golden Hurricane,"1-1, 1-0 Home","1-1, 0-1 Away",49,24,,,Final,,7,14,14,14,,0,10,7,7,,NCAAF
+262660252,2006,"September 23, 2006",BYU Cougars,Utah State Aggies,"2-2, 2-0 Home","0-4, 0-3 Away",38,0,,,Final,,10,14,7,7,,0,0,0,0,,NCAAF
+262800252,2006,"October 07, 2006",BYU Cougars,San Diego State Aztecs,"4-2, 2-0 Conf","0-5, 0-2 Conf",47,17,,,Final,,20,20,7,0,,3,0,14,0,,NCAAF
+263012005,2006,"October 28, 2006",Air Force Falcons,BYU Cougars,"3-4, 3-2 Conf","6-2, 4-0 Conf",14,33,,,Final,NBCSN,0,0,7,7,,7,14,3,9,,NCAAF
+263130252,2006,"November 09, 2006",BYU Cougars,Wyoming Cowboys,"8-2, 6-0 Conf","5-6, 4-3 Conf",55,7,,,Final,CBSSN,21,10,10,14,,0,0,0,7,,NCAAF
+262450012,2006,"September 02, 2006",Arizona Wildcats,BYU Cougars,"1-0, 0-0 Conf","0-1, 0-0 Conf",16,13,,,Final,TBS,3,3,7,3,,7,0,3,3,,NCAAF
+262590103,2006,"September 16, 2006",Boston College Eagles,BYU Cougars,"3-0, 2-0 Home","1-2, 0-2 Away",30,23,,,Final/OT,ESPN2,6,6,8,3,7.0,7,6,0,10,0.0,NCAAF
+262712628,2006,"September 28, 2006",TCU Horned Frogs,BYU Cougars,"3-1, 0-1 Conf","3-2, 1-0 Conf",17,31,,,Final,CBSSN,0,3,7,7,,3,7,7,14,,NCAAF
+262940252,2006,"October 21, 2006",BYU Cougars,Unlv Rebels,"5-2, 3-0 Conf","1-6, 0-3 Conf",52,7,,,Final,,21,7,14,10,,0,7,0,0,,NCAAF
+263080036,2006,"November 04, 2006",Colorado State Rams,BYU Cougars,"4-5, 1-4 Conf","7-2, 5-0 Conf",3,24,,,Final,,0,3,0,0,,7,7,7,3,,NCAAF
+263220252,2006,"November 18, 2006",BYU Cougars,New Mexico Lobos,"9-2, 7-0 Conf","5-6, 3-4 Conf",42,17,,,Final,,14,14,7,7,,3,0,14,0,,NCAAF
+263290254,2006,"November 25, 2006",Utah Utes,BYU Cougars,"7-5, 5-3 Conf","10-2, 8-0 Conf",31,33,,,Final,CBSSN,0,10,14,7,,14,0,0,19,,NCAAF
+263552483,2006,"December 21, 2006",Oregon Ducks,BYU Cougars,"7-6, 5-2 Home","11-2, 5-2 Away",8,38,,,Final,ESPN,0,0,0,8,,0,17,7,14,,NCAAF

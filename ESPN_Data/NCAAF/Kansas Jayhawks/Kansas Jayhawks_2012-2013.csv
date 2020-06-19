@@ -1,13 +1,13 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-322522305,2012,"Sat, Sep 8",Kansas Jayhawks,Rice Owls,"1-1, 1-1 Home","1-1, 1-0 Away",24,25,NULL,NULL,Final,NULL,10,7,7,0,NULL,3,10,3,9,NULL,NCAAF
-322662459,2012,"Sat, Sep 22",Northern Illinois Huskies,Kansas Jayhawks,"3-1, 2-1 Home","1-3, 0-1 Away",30,23,NULL,NULL,Final,ESPN3,6,7,0,17,NULL,3,7,7,6,NULL,NCAAF
-322872305,2012,"Sat, Oct 13",Kansas Jayhawks,Oklahoma State Cowboys,"1-5, 0-3 Conf","3-2, 1-1 Conf",14,20,NULL,NULL,Final,NULL,0,0,0,14,NULL,0,10,7,3,NULL,NCAAF
-323012305,2012,"Sat, Oct 27",Kansas Jayhawks,Texas Longhorns,"1-7, 0-5 Conf","6-2, 3-2 Conf",17,21,NULL,NULL,Final,NULL,0,14,0,3,NULL,7,0,0,14,NULL,NCAAF
-323152641,2012,"Sat, Nov 10",Texas Tech Red Raiders,Kansas Jayhawks,"7-3, 4-3 Conf","1-9, 0-7 Conf",41,34,NULL,NULL,Final/OT,NULL,7,14,3,3,14,7,10,0,10,7,NCAAF
-322452305,2012,"Sat, Sep 1",Kansas Jayhawks,South Dakota State Jackrabbits,"1-0, 1-0 Home","0-1, 0-1 Away",31,17,NULL,NULL,Final,NULL,7,3,14,7,NULL,7,0,0,10,NULL,NCAAF
-322592305,2012,"Sat, Sep 15",Kansas Jayhawks,TCU Horned Frogs,"1-2, 0-1 Conf","2-0, 1-0 Conf",6,20,NULL,NULL,Final,FX,3,3,0,0,NULL,7,3,10,0,NULL,NCAAF
-322802306,2012,"Sat, Oct 6",Kansas State Wildcats,Kansas Jayhawks,"5-0, 2-0 Conf","1-4, 0-2 Conf",56,16,NULL,NULL,Final,FX,7,14,28,7,NULL,7,7,2,0,NULL,NCAAF
-322940201,2012,"Sat, Oct 20",Oklahoma Sooners,Kansas Jayhawks,"5-1, 3-1 Conf","1-6, 0-4 Conf",52,7,NULL,NULL,Final,NULL,10,28,14,0,NULL,0,0,0,7,NULL,NCAAF
-323080239,2012,"Sat, Nov 3",Baylor Bears,Kansas Jayhawks,"4-4, 1-4 Conf","1-8, 0-6 Conf",41,14,NULL,NULL,Final,NULL,17,3,14,7,NULL,7,7,0,0,NULL,NCAAF
-323222305,2012,"Sat, Nov 17",Kansas Jayhawks,Iowa State Cyclones,"1-10, 0-8 Conf","6-5, 3-5 Conf",23,51,NULL,NULL,Final,NULL,7,10,0,6,NULL,10,28,3,10,NULL,NCAAF
-323360277,2012,"Sat, Dec 1",West Virginia Mountaineers,Kansas Jayhawks,"7-5, 4-5 Conf","1-11, 0-9 Conf",59,10,NULL,NULL,Final,NULL,14,21,17,7,NULL,0,7,0,3,NULL,NCAAF
+322522305,2012,"September 08, 2012",Kansas Jayhawks,Rice Owls,"1-1, 1-1 Home","1-1, 1-0 Away",24,25,,,Final,,10,7,7,0,,3,10,3,9,,NCAAF
+322662459,2012,"September 22, 2012",Northern Illinois Huskies,Kansas Jayhawks,"3-1, 2-1 Home","1-3, 0-1 Away",30,23,,,Final,ESPN3,6,7,0,17,,3,7,7,6,,NCAAF
+322872305,2012,"October 13, 2012",Kansas Jayhawks,Oklahoma State Cowboys,"1-5, 0-3 Conf","3-2, 1-1 Conf",14,20,,,Final,,0,0,0,14,,0,10,7,3,,NCAAF
+323012305,2012,"October 27, 2012",Kansas Jayhawks,Texas Longhorns,"1-7, 0-5 Conf","6-2, 3-2 Conf",17,21,,,Final,,0,14,0,3,,7,0,0,14,,NCAAF
+323152641,2012,"November 10, 2012",Texas Tech Red Raiders,Kansas Jayhawks,"7-3, 4-3 Conf","1-9, 0-7 Conf",41,34,,,Final/OT,,7,14,3,3,14.0,7,10,0,10,7.0,NCAAF
+322452305,2012,"September 01, 2012",Kansas Jayhawks,South Dakota State Jackrabbits,"1-0, 1-0 Home","0-1, 0-1 Away",31,17,,,Final,,7,3,14,7,,7,0,0,10,,NCAAF
+322592305,2012,"September 15, 2012",Kansas Jayhawks,TCU Horned Frogs,"1-2, 0-1 Conf","2-0, 1-0 Conf",6,20,,,Final,FX,3,3,0,0,,7,3,10,0,,NCAAF
+322802306,2012,"October 06, 2012",Kansas State Wildcats,Kansas Jayhawks,"5-0, 2-0 Conf","1-4, 0-2 Conf",56,16,,,Final,FX,7,14,28,7,,7,7,2,0,,NCAAF
+322940201,2012,"October 20, 2012",Oklahoma Sooners,Kansas Jayhawks,"5-1, 3-1 Conf","1-6, 0-4 Conf",52,7,,,Final,,10,28,14,0,,0,0,0,7,,NCAAF
+323080239,2012,"November 03, 2012",Baylor Bears,Kansas Jayhawks,"4-4, 1-4 Conf","1-8, 0-6 Conf",41,14,,,Final,,17,3,14,7,,7,7,0,0,,NCAAF
+323222305,2012,"November 17, 2012",Kansas Jayhawks,Iowa State Cyclones,"1-10, 0-8 Conf","6-5, 3-5 Conf",23,51,,,Final,,7,10,0,6,,10,28,3,10,,NCAAF
+323360277,2012,"December 01, 2012",West Virginia Mountaineers,Kansas Jayhawks,"7-5, 4-5 Conf","1-11, 0-9 Conf",59,10,,,Final,,14,21,17,7,,0,7,0,3,,NCAAF

@@ -1,14 +1,14 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-400868983,2016,"Sat, Sep 10",Florida Gators,Kentucky Wildcats,"2-0, 1-0 Conf","0-2, 0-1 Conf",45,7,NULL,NULL,Final,CBS,14,10,14,7,NULL,0,0,0,7,NULL,NCAAF
-400869004,2016,"Sat, Sep 24",Kentucky Wildcats,South Carolina Gamecocks,"2-2, 1-1 Conf","2-2, 1-2 Conf",17,10,NULL,NULL,Final,SECN,0,3,7,7,NULL,0,7,3,0,NULL,NCAAF
-400869020,2016,"Sat, Oct 8",Kentucky Wildcats,Vanderbilt Commodores,"3-3, 2-2 Conf","2-4, 0-3 Conf",20,13,NULL,NULL,Final,SECN,7,10,0,3,NULL,3,0,7,3,NULL,NCAAF
-400869038,2016,"Sat, Oct 29",Missouri Tigers,Kentucky Wildcats,"2-6, 0-4 Conf","5-3, 4-2 Conf",21,35,NULL,NULL,Final,SECN,0,7,0,14,NULL,7,14,7,7,NULL,NCAAF
-400869054,2016,"Sat, Nov 12",Tennessee Volunteers,Kentucky Wildcats,"7-3, 3-3 Conf","5-5, 4-4 Conf",49,36,NULL,NULL,Final,SECN,14,7,14,14,NULL,10,3,3,20,NULL,NCAAF
-400868973,2016,"Sat, Sep 3",Kentucky Wildcats,Southern Mississippi Golden Eagles,"0-1, 0-1 Home","1-0, 1-0 Away",35,44,NULL,NULL,Final,ESPNU,21,14,0,0,NULL,7,10,21,6,NULL,NCAAF
-400868995,2016,"Sat, Sep 17",Kentucky Wildcats,New Mexico State Aggies,"1-2, 1-1 Home","1-2, 0-2 Away",62,42,NULL,NULL,Final,SECN,14,21,14,13,NULL,21,14,7,0,NULL,NCAAF
-400869010,2016,"Sat, Oct 1",Alabama Crimson Tide,Kentucky Wildcats,"5-0, 2-0 Conf","2-3, 1-2 Conf",34,6,NULL,NULL,Final,ESPN,3,14,14,3,NULL,3,0,0,3,NULL,NCAAF
-400869031,2016,"Sat, Oct 22",Kentucky Wildcats,Mississippi State Bulldogs,"4-3, 3-2 Conf","2-5, 1-3 Conf",40,38,NULL,NULL,Final,SECN,0,6,21,13,NULL,0,14,10,14,NULL,NCAAF
-400869043,2016,"Sat, Nov 5",Kentucky Wildcats,Georgia Bulldogs,"5-4, 4-3 Conf","5-4, 3-4 Conf",24,27,NULL,NULL,Final,SECN,7,7,7,3,NULL,7,6,3,11,NULL,NCAAF
-400869060,2016,"Sat, Nov 19",Kentucky Wildcats,Austin Peay Governors,"6-5, 5-2 Home","0-11, 0-6 Away",49,13,NULL,NULL,Final,SECN,0,21,21,7,NULL,7,6,0,0,NULL,NCAAF
-400869071,2016,"Sat, Nov 26",Louisville Cardinals,Kentucky Wildcats,"9-3, 5-1 Home","7-5, 2-3 Away",38,41,NULL,NULL,Final,ESPN,7,17,7,7,NULL,14,7,10,10,NULL,NCAAF
-400876113,2016,"Sat, Dec 31",Kentucky Wildcats,Georgia Tech Yellow Jackets,7-6,9-4,18,33,NULL,NULL,Final,ESPN,0,3,0,15,NULL,10,10,3,10,NULL,NCAAF
+400868983,2016,"September 10, 2016",Florida Gators,Kentucky Wildcats,"2-0, 1-0 Conf","0-2, 0-1 Conf",45,7,,,Final,CBS,14,10,14,7,,0,0,0,7,,NCAAF
+400869004,2016,"September 24, 2016",Kentucky Wildcats,South Carolina Gamecocks,"2-2, 1-1 Conf","2-2, 1-2 Conf",17,10,,,Final,SECN,0,3,7,7,,0,7,3,0,,NCAAF
+400869020,2016,"October 08, 2016",Kentucky Wildcats,Vanderbilt Commodores,"3-3, 2-2 Conf","2-4, 0-3 Conf",20,13,,,Final,SECN,7,10,0,3,,3,0,7,3,,NCAAF
+400869038,2016,"October 29, 2016",Missouri Tigers,Kentucky Wildcats,"2-6, 0-4 Conf","5-3, 4-2 Conf",21,35,,,Final,SECN,0,7,0,14,,7,14,7,7,,NCAAF
+400869054,2016,"November 12, 2016",Tennessee Volunteers,Kentucky Wildcats,"7-3, 3-3 Conf","5-5, 4-4 Conf",49,36,,,Final,SECN,14,7,14,14,,10,3,3,20,,NCAAF
+400868973,2016,"September 03, 2016",Kentucky Wildcats,Southern Mississippi Golden Eagles,"0-1, 0-1 Home","1-0, 1-0 Away",35,44,,,Final,ESPNU,21,14,0,0,,7,10,21,6,,NCAAF
+400868995,2016,"September 17, 2016",Kentucky Wildcats,New Mexico State Aggies,"1-2, 1-1 Home","1-2, 0-2 Away",62,42,,,Final,SECN,14,21,14,13,,21,14,7,0,,NCAAF
+400869010,2016,"October 01, 2016",Alabama Crimson Tide,Kentucky Wildcats,"5-0, 2-0 Conf","2-3, 1-2 Conf",34,6,,,Final,ESPN,3,14,14,3,,3,0,0,3,,NCAAF
+400869031,2016,"October 22, 2016",Kentucky Wildcats,Mississippi State Bulldogs,"4-3, 3-2 Conf","2-5, 1-3 Conf",40,38,,,Final,SECN,0,6,21,13,,0,14,10,14,,NCAAF
+400869043,2016,"November 05, 2016",Kentucky Wildcats,Georgia Bulldogs,"5-4, 4-3 Conf","5-4, 3-4 Conf",24,27,,,Final,SECN,7,7,7,3,,7,6,3,11,,NCAAF
+400869060,2016,"November 19, 2016",Kentucky Wildcats,Austin Peay Governors,"6-5, 5-2 Home","0-11, 0-6 Away",49,13,,,Final,SECN,0,21,21,7,,7,6,0,0,,NCAAF
+400869071,2016,"November 26, 2016",Louisville Cardinals,Kentucky Wildcats,"9-3, 5-1 Home","7-5, 2-3 Away",38,41,,,Final,ESPN,7,17,7,7,,14,7,10,10,,NCAAF
+400876113,2016,"December 31, 2016",Kentucky Wildcats,Georgia Tech Yellow Jackets,7-6,9-4,18,33,,,Final,ESPN,0,3,0,15,,10,10,3,10,,NCAAF

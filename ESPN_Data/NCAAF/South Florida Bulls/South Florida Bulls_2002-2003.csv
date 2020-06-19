@@ -1,12 +1,12 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-222500058,2002,"Sat, Sep 7",South Florida Bulls,Northern Illinois Huskies,"2-0, 2-0 Home","1-1, 0-1 Away",37,6,NULL,NULL,Final,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NCAAF
-222710201,2002,"Sat, Sep 28",Oklahoma Sooners,South Florida Bulls,"4-0, 3-0 Home","2-2, 0-2 Away",31,14,NULL,NULL,Final,NULL,0,21,7,3,NULL,0,0,0,14,NULL,NCAAF
-222850058,2002,"Sat, Oct 12",South Florida Bulls,Southern Mississippi Golden Eagles,"4-2, 0-0 Conf","4-2, 2-0 Conf",16,13,NULL,NULL,Final,NULL,3,3,3,7,NULL,7,3,3,0,NULL,NCAAF
-223060058,2002,"Sat, Nov 2",South Florida Bulls,Charleston Southern Buccaneers,"6-2, 4-0 Home","4-5, 2-3 Away",56,6,NULL,NULL,Final,NULL,14,14,22,6,NULL,0,0,6,0,NULL,NCAAF
-223200058,2002,"Sat, Nov 16",South Florida Bulls,Bowling Green Falcons,"8-2, 6-0 Home","8-2, 3-2 Away",29,7,NULL,NULL,Final,NULL,9,14,0,6,NULL,7,0,0,0,NULL,NCAAF
-222410058,2002,"Thu, Aug 29",South Florida Bulls,Florida Atlantic Owls,"1-0, 1-0 Home","0-1, 0-1 Away",51,10,NULL,NULL,Final,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NCAAF
-222570008,2002,"Sat, Sep 14",Arkansas Razorbacks,South Florida Bulls,"2-0, 2-0 Home","2-1, 0-1 Away",42,3,NULL,NULL,Final,NULL,21,14,7,0,NULL,0,0,0,3,NULL,NCAAF
-222780249,2002,"Sat, Oct 5",North Texas Mean Green,South Florida Bulls,"1-5, 1-1 Home","3-2, 1-2 Away",17,24,NULL,NULL,Final,NULL,0,7,3,7,NULL,7,3,0,14,NULL,NCAAF
-222920151,2002,"Sat, Oct 19",East Carolina Pirates,South Florida Bulls,"2-4, 2-0 Conf","5-2, 0-0 Conf",30,46,NULL,NULL,Final,NULL,7,3,7,13,NULL,3,12,21,10,NULL,NCAAF
-223130058,2002,"Sat, Nov 9",South Florida Bulls,Memphis Tigers,"7-2, 0-0 Conf","2-8, 1-5 Conf",31,28,NULL,NULL,Final,NULL,0,28,3,0,NULL,0,7,13,8,NULL,NCAAF
-223270248,2002,"Sat, Nov 23",Houston Cougars,South Florida Bulls,"4-7, 2-5 Conf","9-2, 0-0 Conf",14,32,NULL,NULL,Final,NULL,0,0,6,8,NULL,14,0,18,0,NULL,NCAAF
+222500058,2002,"September 07, 2002",South Florida Bulls,Northern Illinois Huskies,"2-0, 2-0 Home","1-1, 0-1 Away",37,6,,,Final,,N,U,L,L,,N,U,L,L,,NCAAF
+222710201,2002,"September 28, 2002",Oklahoma Sooners,South Florida Bulls,"4-0, 3-0 Home","2-2, 0-2 Away",31,14,,,Final,,0,21,7,3,,0,0,0,14,,NCAAF
+222850058,2002,"October 12, 2002",South Florida Bulls,Southern Mississippi Golden Eagles,"4-2, 0-0 Conf","4-2, 2-0 Conf",16,13,,,Final,,3,3,3,7,,7,3,3,0,,NCAAF
+223060058,2002,"November 02, 2002",South Florida Bulls,Charleston Southern Buccaneers,"6-2, 4-0 Home","4-5, 2-3 Away",56,6,,,Final,,14,14,22,6,,0,0,6,0,,NCAAF
+223200058,2002,"November 16, 2002",South Florida Bulls,Bowling Green Falcons,"8-2, 6-0 Home","8-2, 3-2 Away",29,7,,,Final,,9,14,0,6,,7,0,0,0,,NCAAF
+222410058,2002,"August 29, 2002",South Florida Bulls,Florida Atlantic Owls,"1-0, 1-0 Home","0-1, 0-1 Away",51,10,,,Final,,N,U,L,L,,N,U,L,L,,NCAAF
+222570008,2002,"September 14, 2002",Arkansas Razorbacks,South Florida Bulls,"2-0, 2-0 Home","2-1, 0-1 Away",42,3,,,Final,,21,14,7,0,,0,0,0,3,,NCAAF
+222780249,2002,"October 05, 2002",North Texas Mean Green,South Florida Bulls,"1-5, 1-1 Home","3-2, 1-2 Away",17,24,,,Final,,0,7,3,7,,7,3,0,14,,NCAAF
+222920151,2002,"October 19, 2002",East Carolina Pirates,South Florida Bulls,"2-4, 2-0 Conf","5-2, 0-0 Conf",30,46,,,Final,,7,3,7,13,,3,12,21,10,,NCAAF
+223130058,2002,"November 09, 2002",South Florida Bulls,Memphis Tigers,"7-2, 0-0 Conf","2-8, 1-5 Conf",31,28,,,Final,,0,28,3,0,,0,7,13,8,,NCAAF
+223270248,2002,"November 23, 2002",Houston Cougars,South Florida Bulls,"4-7, 2-5 Conf","9-2, 0-0 Conf",14,32,,,Final,,0,0,6,8,,14,0,18,0,,NCAAF

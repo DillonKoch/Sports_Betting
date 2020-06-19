@@ -1,13 +1,13 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-302540026,2010,"Sat, Sep 11",UCLA Bruins,Stanford Cardinal,"0-2, 0-1 Conf","2-0, 1-0 Conf",0,35,NULL,NULL,Final,ESPN,0,0,0,0,NULL,10,3,15,7,NULL,NCAAF
-302680251,2010,"Sat, Sep 25",Texas Longhorns,UCLA Bruins,"3-1, 1-1 Home","2-2, 1-1 Away",12,34,NULL,NULL,Final,ABC,3,0,3,6,NULL,0,13,14,7,NULL,NCAAF
-302820025,2010,"Sat, Oct 9",California Golden Bears,UCLA Bruins,"3-2, 1-1 Conf","3-3, 1-2 Conf",35,7,NULL,NULL,Final,NULL,14,14,0,7,NULL,0,0,7,0,NULL,NCAAF
-303030026,2010,"Sat, Oct 30",UCLA Bruins,Arizona Wildcats,"3-5, 1-4 Conf","7-1, 4-1 Conf",21,29,NULL,NULL,Final,NULL,7,0,7,7,NULL,7,12,7,3,NULL,NCAAF
-303220264,2010,"Thu, Nov 18",Washington Huskies,UCLA Bruins,"4-6, 3-4 Conf","4-6, 2-5 Conf",24,7,NULL,NULL,Final,ESPN,0,7,3,14,NULL,7,0,0,0,NULL,NCAAF
-302472306,2010,"Sat, Sep 4",Kansas State Wildcats,UCLA Bruins,"1-0, 1-0 Home","0-1, 0-1 Away",31,22,NULL,NULL,Final,ABC,7,0,10,14,NULL,0,10,3,9,NULL,NCAAF
-302610026,2010,"Sat, Sep 18",UCLA Bruins,Houston Cougars,"1-2, 1-1 Home","2-1, 0-1 Away",31,13,NULL,NULL,Final,NULL,7,14,10,0,NULL,3,0,0,10,NULL,NCAAF
-302750026,2010,"Sat, Oct 2",UCLA Bruins,Washington State Cougars,"3-2, 1-1 Conf","1-4, 0-2 Conf",42,28,NULL,NULL,Final,NULL,7,13,8,14,NULL,0,14,14,0,NULL,NCAAF
-302942483,2010,"Thu, Oct 21",Oregon Ducks,UCLA Bruins,"7-0, 4-0 Conf","3-4, 1-3 Conf",60,13,NULL,NULL,Final,ESPN,15,17,14,14,NULL,0,3,3,7,NULL,NCAAF
-303100026,2010,"Sat, Nov 6",UCLA Bruins,Oregon State Beavers,"4-5, 2-4 Conf","4-4, 3-2 Conf",17,14,NULL,NULL,Final,NBCSN,7,0,7,3,NULL,7,0,7,0,NULL,NCAAF
-303300009,2010,"Fri, Nov 26",Arizona State Sun Devils,UCLA Bruins,"5-6, 3-5 Conf","4-7, 2-6 Conf",55,34,NULL,NULL,Final,NULL,7,14,17,17,NULL,17,3,7,7,NULL,NCAAF
-303380026,2010,"Sat, Dec 4",UCLA Bruins,USC Trojans,"4-8, 2-7 Conf","8-5, 5-4 Conf",14,28,NULL,NULL,Final,NULL,7,0,0,7,NULL,7,7,0,14,NULL,NCAAF
+302540026,2010,"September 11, 2010",UCLA Bruins,Stanford Cardinal,"0-2, 0-1 Conf","2-0, 1-0 Conf",0,35,,,Final,ESPN,0,0,0,0,,10,3,15,7,,NCAAF
+302680251,2010,"September 25, 2010",Texas Longhorns,UCLA Bruins,"3-1, 1-1 Home","2-2, 1-1 Away",12,34,,,Final,ABC,3,0,3,6,,0,13,14,7,,NCAAF
+302820025,2010,"October 09, 2010",California Golden Bears,UCLA Bruins,"3-2, 1-1 Conf","3-3, 1-2 Conf",35,7,,,Final,,14,14,0,7,,0,0,7,0,,NCAAF
+303030026,2010,"October 30, 2010",UCLA Bruins,Arizona Wildcats,"3-5, 1-4 Conf","7-1, 4-1 Conf",21,29,,,Final,,7,0,7,7,,7,12,7,3,,NCAAF
+303220264,2010,"November 18, 2010",Washington Huskies,UCLA Bruins,"4-6, 3-4 Conf","4-6, 2-5 Conf",24,7,,,Final,ESPN,0,7,3,14,,7,0,0,0,,NCAAF
+302472306,2010,"September 04, 2010",Kansas State Wildcats,UCLA Bruins,"1-0, 1-0 Home","0-1, 0-1 Away",31,22,,,Final,ABC,7,0,10,14,,0,10,3,9,,NCAAF
+302610026,2010,"September 18, 2010",UCLA Bruins,Houston Cougars,"1-2, 1-1 Home","2-1, 0-1 Away",31,13,,,Final,,7,14,10,0,,3,0,0,10,,NCAAF
+302750026,2010,"October 02, 2010",UCLA Bruins,Washington State Cougars,"3-2, 1-1 Conf","1-4, 0-2 Conf",42,28,,,Final,,7,13,8,14,,0,14,14,0,,NCAAF
+302942483,2010,"October 21, 2010",Oregon Ducks,UCLA Bruins,"7-0, 4-0 Conf","3-4, 1-3 Conf",60,13,,,Final,ESPN,15,17,14,14,,0,3,3,7,,NCAAF
+303100026,2010,"November 06, 2010",UCLA Bruins,Oregon State Beavers,"4-5, 2-4 Conf","4-4, 3-2 Conf",17,14,,,Final,NBCSN,7,0,7,3,,7,0,7,0,,NCAAF
+303300009,2010,"November 26, 2010",Arizona State Sun Devils,UCLA Bruins,"5-6, 3-5 Conf","4-7, 2-6 Conf",55,34,,,Final,,7,14,17,17,,17,3,7,7,,NCAAF
+303380026,2010,"December 04, 2010",UCLA Bruins,USC Trojans,"4-8, 2-7 Conf","8-5, 5-4 Conf",14,28,,,Final,,7,0,0,7,,7,7,0,14,,NCAAF

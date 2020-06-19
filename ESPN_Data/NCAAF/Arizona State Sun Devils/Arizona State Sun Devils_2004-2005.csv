@@ -1,13 +1,13 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-242550077,2004,"Sat, Sep 11",Northwestern Wildcats,Arizona State Sun Devils,"0-2, 0-0 Conf","2-0, 0-0 Conf",21,30,NULL,NULL,Final,ESPN2,0,7,14,0,NULL,3,14,7,6,NULL,NCAAF
-242690009,2004,"Sat, Sep 25",Arizona State Sun Devils,Oregon State Beavers,"4-0, 1-0 Conf","1-3, 0-1 Conf",27,14,NULL,NULL,Final,NULL,7,10,7,3,NULL,7,0,0,7,NULL,NCAAF
-242900030,2004,"Sat, Oct 16",USC Trojans,Arizona State Sun Devils,"6-0, 3-0 Conf","5-1, 2-1 Conf",45,7,NULL,NULL,Final,ABC,14,28,0,3,NULL,0,7,0,0,NULL,NCAAF
-243040025,2004,"Sat, Oct 30",California Golden Bears,Arizona State Sun Devils,"6-1, 4-1 Conf","6-2, 3-2 Conf",27,0,NULL,NULL,Final,NULL,10,3,7,7,NULL,0,0,0,0,NULL,NCAAF
-243180009,2004,"Sat, Nov 13",Arizona State Sun Devils,Washington State Cougars,"8-2, 5-2 Conf","4-6, 2-5 Conf",45,28,NULL,NULL,Final,NULL,21,10,7,7,NULL,14,0,0,14,NULL,NCAAF
-242460009,2004,"Thu, Sep 2",Arizona State Sun Devils,UTEP Miners,"1-0, 1-0 Home","0-1, 0-1 Away",41,9,NULL,NULL,Final,NULL,3,21,10,7,NULL,0,6,0,3,NULL,NCAAF
-242620009,2004,"Sat, Sep 18",Arizona State Sun Devils,Iowa Hawkeyes,"3-0, 0-0 Conf","2-1, 0-0 Conf",44,7,NULL,NULL,Final,NULL,10,17,10,7,NULL,0,0,0,7,NULL,NCAAF
-242762483,2004,"Sat, Oct 2",Oregon Ducks,Arizona State Sun Devils,"1-3, 0-1 Conf","5-0, 2-0 Conf",13,28,NULL,NULL,Final,NULL,0,6,7,0,NULL,0,14,7,7,NULL,NCAAF
-242970009,2004,"Sat, Oct 23",Arizona State Sun Devils,UCLA Bruins,"6-1, 3-1 Conf","4-3, 2-2 Conf",48,42,NULL,NULL,Final,ABC/ETV,14,7,10,17,NULL,3,17,15,7,NULL,NCAAF
-243110009,2004,"Sat, Nov 6",Arizona State Sun Devils,Stanford Cardinal,"7-2, 4-2 Conf","4-5, 2-4 Conf",34,31,NULL,NULL,Final,NULL,0,17,9,8,NULL,7,7,0,17,NULL,NCAAF
-243662509,2004,"Fri, Dec 31",Purdue Boilermakers,Arizona State Sun Devils,"7-5, 4-3 Home","9-3, 3-3 Away",23,27,NULL,NULL,Final,CBS,0,2,7,14,NULL,3,0,7,17,NULL,NCAAF
-243310012,2004,"Fri, Nov 26",Arizona Wildcats,Arizona State Sun Devils,"3-8, 2-6 Conf","8-3, 5-3 Conf",34,27,NULL,NULL,Final,NULL,3,17,7,7,NULL,10,7,0,10,NULL,NCAAF
+242550077,2004,"September 11, 2004",Northwestern Wildcats,Arizona State Sun Devils,"0-2, 0-0 Conf","2-0, 0-0 Conf",21,30,,,Final,ESPN2,0,7,14,0,,3,14,7,6,,NCAAF
+242690009,2004,"September 25, 2004",Arizona State Sun Devils,Oregon State Beavers,"4-0, 1-0 Conf","1-3, 0-1 Conf",27,14,,,Final,,7,10,7,3,,7,0,0,7,,NCAAF
+242900030,2004,"October 16, 2004",USC Trojans,Arizona State Sun Devils,"6-0, 3-0 Conf","5-1, 2-1 Conf",45,7,,,Final,ABC,14,28,0,3,,0,7,0,0,,NCAAF
+243040025,2004,"October 30, 2004",California Golden Bears,Arizona State Sun Devils,"6-1, 4-1 Conf","6-2, 3-2 Conf",27,0,,,Final,,10,3,7,7,,0,0,0,0,,NCAAF
+243180009,2004,"November 13, 2004",Arizona State Sun Devils,Washington State Cougars,"8-2, 5-2 Conf","4-6, 2-5 Conf",45,28,,,Final,,21,10,7,7,,14,0,0,14,,NCAAF
+242460009,2004,"September 02, 2004",Arizona State Sun Devils,UTEP Miners,"1-0, 1-0 Home","0-1, 0-1 Away",41,9,,,Final,,3,21,10,7,,0,6,0,3,,NCAAF
+242620009,2004,"September 18, 2004",Arizona State Sun Devils,Iowa Hawkeyes,"3-0, 0-0 Conf","2-1, 0-0 Conf",44,7,,,Final,,10,17,10,7,,0,0,0,7,,NCAAF
+242762483,2004,"October 02, 2004",Oregon Ducks,Arizona State Sun Devils,"1-3, 0-1 Conf","5-0, 2-0 Conf",13,28,,,Final,,0,6,7,0,,0,14,7,7,,NCAAF
+242970009,2004,"October 23, 2004",Arizona State Sun Devils,UCLA Bruins,"6-1, 3-1 Conf","4-3, 2-2 Conf",48,42,,,Final,ABC/ETV,14,7,10,17,,3,17,15,7,,NCAAF
+243110009,2004,"November 06, 2004",Arizona State Sun Devils,Stanford Cardinal,"7-2, 4-2 Conf","4-5, 2-4 Conf",34,31,,,Final,,0,17,9,8,,7,7,0,17,,NCAAF
+243662509,2004,"December 31, 2004",Purdue Boilermakers,Arizona State Sun Devils,"7-5, 4-3 Home","9-3, 3-3 Away",23,27,,,Final,CBS,0,2,7,14,,3,0,7,17,,NCAAF
+243310012,2004,"November 26, 2004",Arizona Wildcats,Arizona State Sun Devils,"3-8, 2-6 Conf","8-3, 5-3 Conf",34,27,,,Final,,3,17,7,7,,10,7,0,10,,NCAAF

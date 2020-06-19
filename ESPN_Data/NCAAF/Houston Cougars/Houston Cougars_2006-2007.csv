@@ -1,15 +1,15 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-262520248,2006,"Sat, Sep 9",Houston Cougars,Tulane Green Wave,"2-0, 2-0 Conf","0-1, 0-1 Conf",45,7,NULL,NULL,Final,NULL,14,17,7,7,NULL,0,7,0,0,NULL,NCAAF
-262660248,2006,"Sat, Sep 23",Houston Cougars,Oklahoma State Cowboys,"4-0, 3-0 Home","3-1, 1-1 Away",34,25,NULL,NULL,Final,CBSSN,10,14,3,7,NULL,10,7,8,0,NULL,NCAAF
-262800248,2006,"Sat, Oct 7",Houston Cougars,Louisiana Ragin' Cajuns,"4-2, 3-1 Home","3-2, 1-2 Away",28,31,NULL,NULL,Final,NULL,14,7,7,0,NULL,0,10,6,15,NULL,NCAAF
-262940248,2006,"Sat, Oct 21",Houston Cougars,UTEP Miners,"5-3, 3-1 Conf","4-3, 2-1 Conf",34,17,NULL,NULL,Final,NULL,3,7,14,10,NULL,7,10,0,0,NULL,NCAAF
-263080248,2006,"Sat, Nov 4",Houston Cougars,Tulsa Golden Hurricane,"7-3, 5-1 Conf","7-2, 4-1 Conf",27,10,NULL,NULL,Final,CBSSN,7,10,7,3,NULL,7,3,0,0,NULL,NCAAF
-263220235,2006,"Sat, Nov 18",Memphis Tigers,Houston Cougars,"1-10, 0-7 Conf","9-3, 7-1 Conf",20,23,NULL,NULL,Final/OT,NULL,3,3,0,14,0,0,17,0,3,3,NCAAF
-262450242,2006,"Sat, Sep 2",Rice Owls,Houston Cougars,"0-1, 0-1 Conf","1-0, 1-0 Conf",30,31,NULL,NULL,Final,CBSSN,0,27,3,0,NULL,14,0,3,14,NULL,NCAAF
-262590248,2006,"Sat, Sep 16",Houston Cougars,Grambling State Tigers,"3-0, 2-0 Home","0-3, 0-2 Away",42,22,NULL,NULL,Final,NULL,7,28,7,0,NULL,7,0,3,12,NULL,NCAAF
-262732390,2006,"Sat, Sep 30",Miami Hurricanes,Houston Cougars,"2-2, 2-1 Home","4-1, 1-1 Away",14,13,NULL,NULL,Final,ESPN2,7,0,7,0,NULL,0,10,3,0,NULL,NCAAF
-262872572,2006,"Sat, Oct 14",Southern Mississippi Golden Eagles,Houston Cougars,"4-2, 2-1 Conf","4-3, 2-1 Conf",31,27,NULL,NULL,Final,NULL,7,7,3,14,NULL,7,0,7,13,NULL,NCAAF
-263010248,2006,"Sat, Oct 28",Houston Cougars,UCF Knights,"6-3, 4-1 Conf","2-6, 1-3 Conf",51,31,NULL,NULL,Final,CBSSN,10,7,14,20,NULL,7,14,3,7,NULL,NCAAF
-263152567,2006,"Sat, Nov 11",SMU Mustangs,Houston Cougars,"5-5, 3-3 Conf","8-3, 6-1 Conf",27,37,NULL,NULL,Final,NULL,14,10,0,3,NULL,14,0,10,13,NULL,NCAAF
-263632579,2006,"Fri, Dec 29",South Carolina Gamecocks,Houston Cougars,"8-5, 4-4 Home","10-4, 3-3 Away",44,36,NULL,NULL,Final,ESPN,7,20,3,14,NULL,7,21,0,8,NULL,NCAAF
-263350248,2006,"Fri, Dec 1",Houston Cougars,Southern Mississippi Golden Eagles,"10-3, 8-1 Conf","8-5, 6-3 Conf",34,20,NULL,NULL,Final,ESPN2,7,6,14,7,NULL,10,7,0,3,NULL,NCAAF
+262520248,2006,"September 09, 2006",Houston Cougars,Tulane Green Wave,"2-0, 2-0 Conf","0-1, 0-1 Conf",45,7,,,Final,,14,17,7,7,,0,7,0,0,,NCAAF
+262660248,2006,"September 23, 2006",Houston Cougars,Oklahoma State Cowboys,"4-0, 3-0 Home","3-1, 1-1 Away",34,25,,,Final,CBSSN,10,14,3,7,,10,7,8,0,,NCAAF
+262800248,2006,"October 07, 2006",Houston Cougars,Louisiana Ragin' Cajuns,"4-2, 3-1 Home","3-2, 1-2 Away",28,31,,,Final,,14,7,7,0,,0,10,6,15,,NCAAF
+262940248,2006,"October 21, 2006",Houston Cougars,UTEP Miners,"5-3, 3-1 Conf","4-3, 2-1 Conf",34,17,,,Final,,3,7,14,10,,7,10,0,0,,NCAAF
+263080248,2006,"November 04, 2006",Houston Cougars,Tulsa Golden Hurricane,"7-3, 5-1 Conf","7-2, 4-1 Conf",27,10,,,Final,CBSSN,7,10,7,3,,7,3,0,0,,NCAAF
+263220235,2006,"November 18, 2006",Memphis Tigers,Houston Cougars,"1-10, 0-7 Conf","9-3, 7-1 Conf",20,23,,,Final/OT,,3,3,0,14,0.0,0,17,0,3,3.0,NCAAF
+262450242,2006,"September 02, 2006",Rice Owls,Houston Cougars,"0-1, 0-1 Conf","1-0, 1-0 Conf",30,31,,,Final,CBSSN,0,27,3,0,,14,0,3,14,,NCAAF
+262590248,2006,"September 16, 2006",Houston Cougars,Grambling State Tigers,"3-0, 2-0 Home","0-3, 0-2 Away",42,22,,,Final,,7,28,7,0,,7,0,3,12,,NCAAF
+262732390,2006,"September 30, 2006",Miami Hurricanes,Houston Cougars,"2-2, 2-1 Home","4-1, 1-1 Away",14,13,,,Final,ESPN2,7,0,7,0,,0,10,3,0,,NCAAF
+262872572,2006,"October 14, 2006",Southern Mississippi Golden Eagles,Houston Cougars,"4-2, 2-1 Conf","4-3, 2-1 Conf",31,27,,,Final,,7,7,3,14,,7,0,7,13,,NCAAF
+263010248,2006,"October 28, 2006",Houston Cougars,UCF Knights,"6-3, 4-1 Conf","2-6, 1-3 Conf",51,31,,,Final,CBSSN,10,7,14,20,,7,14,3,7,,NCAAF
+263152567,2006,"November 11, 2006",SMU Mustangs,Houston Cougars,"5-5, 3-3 Conf","8-3, 6-1 Conf",27,37,,,Final,,14,10,0,3,,14,0,10,13,,NCAAF
+263632579,2006,"December 29, 2006",South Carolina Gamecocks,Houston Cougars,"8-5, 4-4 Home","10-4, 3-3 Away",44,36,,,Final,ESPN,7,20,3,14,,7,21,0,8,,NCAAF
+263350248,2006,"December 01, 2006",Houston Cougars,Southern Mississippi Golden Eagles,"10-3, 8-1 Conf","8-5, 6-3 Conf",34,20,,,Final,ESPN2,7,6,14,7,,10,7,0,3,,NCAAF

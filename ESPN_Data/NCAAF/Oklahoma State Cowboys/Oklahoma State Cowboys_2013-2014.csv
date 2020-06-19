@@ -1,14 +1,14 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-332502636,2013,"Sat, Sep 7",UT San Antonio Roadrunners,Oklahoma State Cowboys,"1-1, 0-1 Home","2-0, 1-0 Away",35,56,NULL,NULL,Final,FS1,7,0,0,28,NULL,14,21,7,14,NULL,NCAAF
-332710277,2013,"Sat, Sep 28",West Virginia Mountaineers,Oklahoma State Cowboys,"3-2, 1-1 Conf","3-1, 0-1 Conf",30,21,NULL,NULL,Final,ESPN,14,10,0,6,NULL,7,7,7,0,NULL,NCAAF
-332920197,2013,"Sat, Oct 19",Oklahoma State Cowboys,TCU Horned Frogs,"5-1, 2-1 Conf","3-4, 1-3 Conf",24,10,NULL,NULL,Final,FOX,7,10,0,7,NULL,0,0,3,7,NULL,NCAAF
-333062641,2013,"Sat, Nov 2",Texas Tech Red Raiders,Oklahoma State Cowboys,"7-2, 4-2 Conf","7-1, 4-1 Conf",34,52,NULL,NULL,Final,FOX,3,21,7,3,NULL,21,7,21,3,NULL,NCAAF
-333200251,2013,"Sat, Nov 16",Texas Longhorns,Oklahoma State Cowboys,"7-3, 6-1 Conf","9-1, 6-1 Conf",13,38,NULL,NULL,Final,FOX,3,7,3,0,NULL,7,21,10,0,NULL,NCAAF
-332430197,2013,"Sat, Aug 31",Oklahoma State Cowboys,Mississippi State Bulldogs,1-0,0-1,21,3,NULL,NULL,Final,ABC/ESPN2,0,7,7,7,NULL,3,0,0,0,NULL,NCAAF
-332570197,2013,"Sat, Sep 14",Oklahoma State Cowboys,Lamar Cardinals,"3-0, 2-0 Home","1-2, 0-2 Away",59,3,NULL,NULL,Final,NULL,21,10,21,7,NULL,0,3,0,0,NULL,NCAAF
-332780197,2013,"Sat, Oct 5",Oklahoma State Cowboys,Kansas State Wildcats,"4-1, 1-1 Conf","2-3, 0-2 Conf",33,29,NULL,NULL,Final,ABC,7,10,6,10,NULL,7,7,7,8,NULL,NCAAF
-332990066,2013,"Sat, Oct 26",Iowa State Cyclones,Oklahoma State Cowboys,"1-6, 0-4 Conf","6-1, 3-1 Conf",27,58,NULL,NULL,Final,NULL,7,13,0,7,NULL,21,7,17,13,NULL,NCAAF
-333130197,2013,"Sat, Nov 9",Oklahoma State Cowboys,Kansas Jayhawks,"8-1, 5-1 Conf","2-7, 0-6 Conf",42,6,NULL,NULL,Final,FS1,14,14,0,14,NULL,0,0,3,3,NULL,NCAAF
-333270197,2013,"Sat, Nov 23",Oklahoma State Cowboys,Baylor Bears,"10-1, 7-1 Conf","9-1, 6-1 Conf",49,17,NULL,NULL,Final,ABC,7,7,21,14,NULL,0,3,0,14,NULL,NCAAF
-333410197,2013,"Sat, Dec 7",Oklahoma State Cowboys,Oklahoma Sooners,"10-2, 7-2 Conf","10-2, 7-2 Conf",24,33,NULL,NULL,Final,ABC,7,3,7,7,NULL,7,3,7,16,NULL,NCAAF
-340030142,2013,"Fri, Jan 3",Missouri Tigers,Oklahoma State Cowboys,12-2,10-3,41,31,NULL,NULL,Final,FOX,7,10,0,24,NULL,7,0,7,17,NULL,NCAAF
+332502636,2013,"September 07, 2013",UT San Antonio Roadrunners,Oklahoma State Cowboys,"1-1, 0-1 Home","2-0, 1-0 Away",35,56,,,Final,FS1,7,0,0,28,,14,21,7,14,,NCAAF
+332710277,2013,"September 28, 2013",West Virginia Mountaineers,Oklahoma State Cowboys,"3-2, 1-1 Conf","3-1, 0-1 Conf",30,21,,,Final,ESPN,14,10,0,6,,7,7,7,0,,NCAAF
+332920197,2013,"October 19, 2013",Oklahoma State Cowboys,TCU Horned Frogs,"5-1, 2-1 Conf","3-4, 1-3 Conf",24,10,,,Final,FOX,7,10,0,7,,0,0,3,7,,NCAAF
+333062641,2013,"November 02, 2013",Texas Tech Red Raiders,Oklahoma State Cowboys,"7-2, 4-2 Conf","7-1, 4-1 Conf",34,52,,,Final,FOX,3,21,7,3,,21,7,21,3,,NCAAF
+333200251,2013,"November 16, 2013",Texas Longhorns,Oklahoma State Cowboys,"7-3, 6-1 Conf","9-1, 6-1 Conf",13,38,,,Final,FOX,3,7,3,0,,7,21,10,0,,NCAAF
+332430197,2013,"August 31, 2013",Oklahoma State Cowboys,Mississippi State Bulldogs,1-0,0-1,21,3,,,Final,ABC/ESPN2,0,7,7,7,,3,0,0,0,,NCAAF
+332570197,2013,"September 14, 2013",Oklahoma State Cowboys,Lamar Cardinals,"3-0, 2-0 Home","1-2, 0-2 Away",59,3,,,Final,,21,10,21,7,,0,3,0,0,,NCAAF
+332780197,2013,"October 05, 2013",Oklahoma State Cowboys,Kansas State Wildcats,"4-1, 1-1 Conf","2-3, 0-2 Conf",33,29,,,Final,ABC,7,10,6,10,,7,7,7,8,,NCAAF
+332990066,2013,"October 26, 2013",Iowa State Cyclones,Oklahoma State Cowboys,"1-6, 0-4 Conf","6-1, 3-1 Conf",27,58,,,Final,,7,13,0,7,,21,7,17,13,,NCAAF
+333130197,2013,"November 09, 2013",Oklahoma State Cowboys,Kansas Jayhawks,"8-1, 5-1 Conf","2-7, 0-6 Conf",42,6,,,Final,FS1,14,14,0,14,,0,0,3,3,,NCAAF
+333270197,2013,"November 23, 2013",Oklahoma State Cowboys,Baylor Bears,"10-1, 7-1 Conf","9-1, 6-1 Conf",49,17,,,Final,ABC,7,7,21,14,,0,3,0,14,,NCAAF
+333410197,2013,"December 07, 2013",Oklahoma State Cowboys,Oklahoma Sooners,"10-2, 7-2 Conf","10-2, 7-2 Conf",24,33,,,Final,ABC,7,3,7,7,,7,3,7,16,,NCAAF
+340030142,2013,"January 03, 2014",Missouri Tigers,Oklahoma State Cowboys,12-2,10-3,41,31,,,Final,FOX,7,10,0,24,,7,0,7,17,,NCAAF

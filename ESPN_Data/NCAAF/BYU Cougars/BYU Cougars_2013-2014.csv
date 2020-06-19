@@ -1,14 +1,14 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-332500252,2013,"Sat, Sep 7",BYU Cougars,Texas Longhorns,"1-1, 1-0 Home","1-1, 0-1 Away",40,21,NULL,NULL,Final,ESPN2,10,17,13,0,NULL,7,7,7,0,NULL,NCAAF
-332700252,2013,"Fri, Sep 27",BYU Cougars,Middle Tennessee Blue Raiders,"2-2, 2-1 Home","3-2, 1-2 Away",37,10,NULL,NULL,Final,ESPNU,7,16,14,0,NULL,10,0,0,0,NULL,NCAAF
-332850252,2013,"Sat, Oct 12",BYU Cougars,Georgia Tech Yellow Jackets,"4-2, 3-1 Home","3-3, 1-2 Away",38,20,NULL,NULL,Final,ESPNU,14,10,0,14,NULL,7,6,0,7,NULL,NCAAF
-332980252,2013,"Fri, Oct 25",BYU Cougars,Boise State Broncos,"6-2, 4-1 Home","5-3, 1-3 Away",37,20,NULL,NULL,Final,ESPN,7,17,10,3,NULL,0,3,10,7,NULL,NCAAF
-333200252,2013,"Sat, Nov 16",BYU Cougars,Idaho State Bengals,"7-3, 5-1 Home","3-8, 0-5 Away",59,13,NULL,NULL,Final,NULL,14,35,10,0,NULL,3,0,7,3,NULL,NCAAF
-332430258,2013,"Sat, Aug 31",Virginia Cavaliers,BYU Cougars,"1-0, 1-0 Home","0-1, 0-1 Away",19,16,NULL,NULL,Final,ESPNU,0,3,9,7,NULL,0,7,0,9,NULL,NCAAF
-332640252,2013,"Sat, Sep 21",BYU Cougars,Utah Utes,"1-2, 1-1 Home","3-1, 1-0 Away",13,20,NULL,NULL,Final,ESPN2,0,0,6,7,NULL,3,10,0,7,NULL,NCAAF
-332770328,2013,"Fri, Oct 4",Utah State Aggies,BYU Cougars,"3-3, 1-1 Home","3-2, 1-1 Away",14,31,NULL,NULL,Final,CBSSN,7,0,0,7,NULL,10,7,14,0,NULL,NCAAF
-332920248,2013,"Sat, Oct 19",Houston Cougars,BYU Cougars,"5-1, 2-1 Home","5-2, 2-1 Away",46,47,NULL,NULL,Final,NULL,21,17,2,6,NULL,24,10,0,13,NULL,NCAAF
-333130275,2013,"Sat, Nov 9",Wisconsin Badgers,BYU Cougars,"7-2, 5-0 Home","6-3, 2-2 Away",27,17,NULL,NULL,Final,ESPN,7,10,3,7,NULL,3,0,7,7,NULL,NCAAF
-333270087,2013,"Sat, Nov 23",Notre Dame Fighting Irish,BYU Cougars,"8-3, 6-1 Home","7-4, 2-3 Away",23,13,NULL,NULL,Final,NBC,14,3,3,3,NULL,7,0,6,0,NULL,NCAAF
-333342440,2013,"Sat, Nov 30",Nevada Wolf Pack,BYU Cougars,"4-8, 4-2 Home","8-4, 3-3 Away",23,28,NULL,NULL,Final,CBSSN,7,0,7,9,NULL,0,0,14,14,NULL,NCAAF
-333610264,2013,"Fri, Dec 27",Washington Huskies,BYU Cougars,9-4,8-5,31,16,NULL,NULL,Final,ESPN,7,14,7,3,NULL,0,16,0,0,NULL,NCAAF
+332500252,2013,"September 07, 2013",BYU Cougars,Texas Longhorns,"1-1, 1-0 Home","1-1, 0-1 Away",40,21,,,Final,ESPN2,10,17,13,0,,7,7,7,0,,NCAAF
+332700252,2013,"September 27, 2013",BYU Cougars,Middle Tennessee Blue Raiders,"2-2, 2-1 Home","3-2, 1-2 Away",37,10,,,Final,ESPNU,7,16,14,0,,10,0,0,0,,NCAAF
+332850252,2013,"October 12, 2013",BYU Cougars,Georgia Tech Yellow Jackets,"4-2, 3-1 Home","3-3, 1-2 Away",38,20,,,Final,ESPNU,14,10,0,14,,7,6,0,7,,NCAAF
+332980252,2013,"October 25, 2013",BYU Cougars,Boise State Broncos,"6-2, 4-1 Home","5-3, 1-3 Away",37,20,,,Final,ESPN,7,17,10,3,,0,3,10,7,,NCAAF
+333200252,2013,"November 16, 2013",BYU Cougars,Idaho State Bengals,"7-3, 5-1 Home","3-8, 0-5 Away",59,13,,,Final,,14,35,10,0,,3,0,7,3,,NCAAF
+332430258,2013,"August 31, 2013",Virginia Cavaliers,BYU Cougars,"1-0, 1-0 Home","0-1, 0-1 Away",19,16,,,Final,ESPNU,0,3,9,7,,0,7,0,9,,NCAAF
+332640252,2013,"September 21, 2013",BYU Cougars,Utah Utes,"1-2, 1-1 Home","3-1, 1-0 Away",13,20,,,Final,ESPN2,0,0,6,7,,3,10,0,7,,NCAAF
+332770328,2013,"October 04, 2013",Utah State Aggies,BYU Cougars,"3-3, 1-1 Home","3-2, 1-1 Away",14,31,,,Final,CBSSN,7,0,0,7,,10,7,14,0,,NCAAF
+332920248,2013,"October 19, 2013",Houston Cougars,BYU Cougars,"5-1, 2-1 Home","5-2, 2-1 Away",46,47,,,Final,,21,17,2,6,,24,10,0,13,,NCAAF
+333130275,2013,"November 09, 2013",Wisconsin Badgers,BYU Cougars,"7-2, 5-0 Home","6-3, 2-2 Away",27,17,,,Final,ESPN,7,10,3,7,,3,0,7,7,,NCAAF
+333270087,2013,"November 23, 2013",Notre Dame Fighting Irish,BYU Cougars,"8-3, 6-1 Home","7-4, 2-3 Away",23,13,,,Final,NBC,14,3,3,3,,7,0,6,0,,NCAAF
+333342440,2013,"November 30, 2013",Nevada Wolf Pack,BYU Cougars,"4-8, 4-2 Home","8-4, 3-3 Away",23,28,,,Final,CBSSN,7,0,7,9,,0,0,14,14,,NCAAF
+333610264,2013,"December 27, 2013",Washington Huskies,BYU Cougars,9-4,8-5,31,16,,,Final,ESPN,7,14,7,3,,0,16,0,0,,NCAAF

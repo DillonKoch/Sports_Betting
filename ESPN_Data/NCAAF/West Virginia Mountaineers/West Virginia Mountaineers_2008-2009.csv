@@ -1,14 +1,14 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-282500151,2008,"Sat, Sep 6",East Carolina Pirates,West Virginia Mountaineers,"2-0, 2-0 Home","1-1, 0-1 Away",24,3,NULL,NULL,Final,ESPN,7,10,7,0,NULL,0,3,0,0,NULL,NCAAF
-282710277,2008,"Sat, Sep 27",West Virginia Mountaineers,Marshall Thundering Herd,"2-2, 2-0 Home","3-2, 1-2 Away",27,3,NULL,NULL,Final,NULL,7,7,10,3,NULL,3,0,0,0,NULL,NCAAF
-282850277,2008,"Sat, Oct 11",West Virginia Mountaineers,Syracuse Orange,"4-2, 2-0 Conf","1-5, 0-2 Conf",17,6,NULL,NULL,Final,ESPNU,0,7,0,10,NULL,3,3,0,0,NULL,NCAAF
-283060041,2008,"Sat, Nov 1",Connecticut Huskies,West Virginia Mountaineers,"6-3, 2-2 Conf","6-2, 3-0 Conf",13,35,NULL,NULL,Final,NULL,10,3,0,0,NULL,0,7,21,7,NULL,NCAAF
-283270097,2008,"Sat, Nov 22",Louisville Cardinals,West Virginia Mountaineers,"5-6, 1-5 Conf","7-3, 4-1 Conf",21,35,NULL,NULL,Final,ESPN,7,0,7,7,NULL,7,0,21,7,NULL,NCAAF
-282430277,2008,"Sat, Aug 30",West Virginia Mountaineers,Villanova Wildcats,"1-0, 1-0 Home","0-1, 0-1 Away",48,21,NULL,NULL,Final,NULL,7,17,10,14,NULL,0,7,0,14,NULL,NCAAF
-282620038,2008,"Thu, Sep 18",Colorado Buffaloes,West Virginia Mountaineers,"3-0, 3-0 Home","1-2, 0-2 Away",17,14,NULL,NULL,Final/OT,ESPN,14,0,0,0,3,7,0,7,0,0,NCAAF
-282780277,2008,"Sat, Oct 4",West Virginia Mountaineers,Rutgers Scarlet Knights,"3-2, 1-0 Conf","1-4, 0-1 Conf",24,17,NULL,NULL,Final,NULL,7,10,7,0,NULL,0,10,0,7,NULL,NCAAF
-282970277,2008,"Thu, Oct 23",West Virginia Mountaineers,Auburn Tigers,"5-2, 5-0 Home","4-4, 1-2 Away",34,17,NULL,NULL,Final,ESPN,0,10,10,14,NULL,3,14,0,0,NULL,NCAAF
-283130277,2008,"Sat, Nov 8",West Virginia Mountaineers,Cincinnati Bearcats,"6-3, 3-1 Conf","7-2, 3-1 Conf",23,26,NULL,NULL,Final/OT,ESPNU,7,0,0,13,3,13,7,0,0,6,NCAAF
-283330221,2008,"Fri, Nov 28",Pittsburgh Panthers,West Virginia Mountaineers,"8-3, 4-2 Conf","7-4, 4-2 Conf",19,15,NULL,NULL,Final,ABC,7,0,0,12,NULL,0,3,9,3,NULL,NCAAF
-283410277,2008,"Sat, Dec 6",West Virginia Mountaineers,South Florida Bulls,"8-4, 5-2 Conf","7-5, 2-5 Conf",13,7,NULL,NULL,Final,ESPN2,7,3,3,0,NULL,0,7,0,0,NULL,NCAAF
-283620153,2008,"Sat, Dec 27",North Carolina Tar Heels,West Virginia Mountaineers,8-5,9-4,30,31,NULL,NULL,Final,ESPN,14,9,7,0,NULL,21,0,3,7,NULL,NCAAF
+282500151,2008,"September 06, 2008",East Carolina Pirates,West Virginia Mountaineers,"2-0, 2-0 Home","1-1, 0-1 Away",24,3,,,Final,ESPN,7,10,7,0,,0,3,0,0,,NCAAF
+282710277,2008,"September 27, 2008",West Virginia Mountaineers,Marshall Thundering Herd,"2-2, 2-0 Home","3-2, 1-2 Away",27,3,,,Final,,7,7,10,3,,3,0,0,0,,NCAAF
+282850277,2008,"October 11, 2008",West Virginia Mountaineers,Syracuse Orange,"4-2, 2-0 Conf","1-5, 0-2 Conf",17,6,,,Final,ESPNU,0,7,0,10,,3,3,0,0,,NCAAF
+283060041,2008,"November 01, 2008",Connecticut Huskies,West Virginia Mountaineers,"6-3, 2-2 Conf","6-2, 3-0 Conf",13,35,,,Final,,10,3,0,0,,0,7,21,7,,NCAAF
+283270097,2008,"November 22, 2008",Louisville Cardinals,West Virginia Mountaineers,"5-6, 1-5 Conf","7-3, 4-1 Conf",21,35,,,Final,ESPN,7,0,7,7,,7,0,21,7,,NCAAF
+282430277,2008,"August 30, 2008",West Virginia Mountaineers,Villanova Wildcats,"1-0, 1-0 Home","0-1, 0-1 Away",48,21,,,Final,,7,17,10,14,,0,7,0,14,,NCAAF
+282620038,2008,"September 18, 2008",Colorado Buffaloes,West Virginia Mountaineers,"3-0, 3-0 Home","1-2, 0-2 Away",17,14,,,Final/OT,ESPN,14,0,0,0,3.0,7,0,7,0,0.0,NCAAF
+282780277,2008,"October 04, 2008",West Virginia Mountaineers,Rutgers Scarlet Knights,"3-2, 1-0 Conf","1-4, 0-1 Conf",24,17,,,Final,,7,10,7,0,,0,10,0,7,,NCAAF
+282970277,2008,"October 23, 2008",West Virginia Mountaineers,Auburn Tigers,"5-2, 5-0 Home","4-4, 1-2 Away",34,17,,,Final,ESPN,0,10,10,14,,3,14,0,0,,NCAAF
+283130277,2008,"November 08, 2008",West Virginia Mountaineers,Cincinnati Bearcats,"6-3, 3-1 Conf","7-2, 3-1 Conf",23,26,,,Final/OT,ESPNU,7,0,0,13,3.0,13,7,0,0,6.0,NCAAF
+283330221,2008,"November 28, 2008",Pittsburgh Panthers,West Virginia Mountaineers,"8-3, 4-2 Conf","7-4, 4-2 Conf",19,15,,,Final,ABC,7,0,0,12,,0,3,9,3,,NCAAF
+283410277,2008,"December 06, 2008",West Virginia Mountaineers,South Florida Bulls,"8-4, 5-2 Conf","7-5, 2-5 Conf",13,7,,,Final,ESPN2,7,3,3,0,,0,7,0,0,,NCAAF
+283620153,2008,"December 27, 2008",North Carolina Tar Heels,West Virginia Mountaineers,8-5,9-4,30,31,,,Final,ESPN,14,9,7,0,,21,0,3,7,,NCAAF

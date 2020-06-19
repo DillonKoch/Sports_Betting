@@ -1,13 +1,13 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-400869511,2016,"Sat, Sep 10",Purdue Boilermakers,Cincinnati Bearcats,"1-1, 1-1 Home","2-0, 1-0 Away",20,38,NULL,NULL,Final,BTN,0,7,0,13,NULL,7,14,3,14,NULL,NCAAF
-400869291,2016,"Sat, Sep 24",Cincinnati Bearcats,Miami (OH) RedHawks,"3-1, 2-1 Home","0-4, 0-2 Away",27,20,NULL,NULL,Final,ESPNN,3,7,7,10,NULL,7,3,10,0,NULL,NCAAF
-400869534,2016,"Sat, Oct 8",Connecticut Huskies,Cincinnati Bearcats,"3-3, 1-2 Conf","3-3, 0-3 Conf",20,9,NULL,NULL,Final,CBSSN,0,7,10,3,NULL,0,9,0,0,NULL,NCAAF
-400869550,2016,"Sat, Oct 29",Temple Owls,Cincinnati Bearcats,"6-3, 4-1 Conf","4-4, 1-4 Conf",34,13,NULL,NULL,Final,CBSSN,10,7,3,14,NULL,0,13,0,0,NULL,NCAAF
-400869557,2016,"Sat, Nov 12",UCF Knights,Cincinnati Bearcats,"6-4, 4-2 Conf","4-6, 1-5 Conf",24,3,NULL,NULL,Final,ESPNU,10,0,7,7,NULL,0,3,0,0,NULL,NCAAF
-400869502,2016,"Thu, Sep 1",Cincinnati Bearcats,UT Martin Skyhawks,"1-0, 1-0 Home","0-1, 0-1 Away",28,7,NULL,NULL,Final,ESPN3,0,6,8,14,NULL,7,0,0,0,NULL,NCAAF
-400869517,2016,"Thu, Sep 15",Cincinnati Bearcats,Houston Cougars,"2-1, 0-1 Conf","3-0, 1-0 Conf",16,40,NULL,NULL,Final,ESPN,7,3,0,6,NULL,7,3,2,28,NULL,NCAAF
-400869529,2016,"Sat, Oct 1",Cincinnati Bearcats,South Florida Bulls,"3-2, 0-2 Conf","4-1, 1-0 Conf",20,45,NULL,NULL,Final,ESPNU,6,14,0,0,NULL,10,14,14,7,NULL,NCAAF
-400869544,2016,"Sat, Oct 22",Cincinnati Bearcats,East Carolina Pirates,"4-3, 1-3 Conf","2-5, 0-3 Conf",31,19,NULL,NULL,Final,CBSSN,7,7,10,7,NULL,3,0,10,6,NULL,NCAAF
-400868930,2016,"Sat, Nov 5",Cincinnati Bearcats,BYU Cougars,"4-5, 3-3 Home","5-4, 2-2 Away",3,20,NULL,NULL,Final,CBSSN,3,0,0,0,NULL,3,7,7,3,NULL,NCAAF
-400869563,2016,"Fri, Nov 18",Cincinnati Bearcats,Memphis Tigers,"4-7, 1-6 Conf","7-4, 4-3 Conf",7,34,NULL,NULL,Final,CBSSN,0,0,0,7,NULL,13,14,7,0,NULL,NCAAF
-400869567,2016,"Fri, Nov 25",Tulsa Golden Hurricane,Cincinnati Bearcats,"9-3, 6-2 Conf","4-8, 1-7 Conf",40,37,NULL,NULL,Final/OT,ESPN2,7,7,7,13,6,17,7,7,3,3,NCAAF
+400869511,2016,"September 10, 2016",Purdue Boilermakers,Cincinnati Bearcats,"1-1, 1-1 Home","2-0, 1-0 Away",20,38,,,Final,BTN,0,7,0,13,,7,14,3,14,,NCAAF
+400869291,2016,"September 24, 2016",Cincinnati Bearcats,Miami (OH) RedHawks,"3-1, 2-1 Home","0-4, 0-2 Away",27,20,,,Final,ESPNN,3,7,7,10,,7,3,10,0,,NCAAF
+400869534,2016,"October 08, 2016",Connecticut Huskies,Cincinnati Bearcats,"3-3, 1-2 Conf","3-3, 0-3 Conf",20,9,,,Final,CBSSN,0,7,10,3,,0,9,0,0,,NCAAF
+400869550,2016,"October 29, 2016",Temple Owls,Cincinnati Bearcats,"6-3, 4-1 Conf","4-4, 1-4 Conf",34,13,,,Final,CBSSN,10,7,3,14,,0,13,0,0,,NCAAF
+400869557,2016,"November 12, 2016",UCF Knights,Cincinnati Bearcats,"6-4, 4-2 Conf","4-6, 1-5 Conf",24,3,,,Final,ESPNU,10,0,7,7,,0,3,0,0,,NCAAF
+400869502,2016,"September 01, 2016",Cincinnati Bearcats,UT Martin Skyhawks,"1-0, 1-0 Home","0-1, 0-1 Away",28,7,,,Final,ESPN3,0,6,8,14,,7,0,0,0,,NCAAF
+400869517,2016,"September 15, 2016",Cincinnati Bearcats,Houston Cougars,"2-1, 0-1 Conf","3-0, 1-0 Conf",16,40,,,Final,ESPN,7,3,0,6,,7,3,2,28,,NCAAF
+400869529,2016,"October 01, 2016",Cincinnati Bearcats,South Florida Bulls,"3-2, 0-2 Conf","4-1, 1-0 Conf",20,45,,,Final,ESPNU,6,14,0,0,,10,14,14,7,,NCAAF
+400869544,2016,"October 22, 2016",Cincinnati Bearcats,East Carolina Pirates,"4-3, 1-3 Conf","2-5, 0-3 Conf",31,19,,,Final,CBSSN,7,7,10,7,,3,0,10,6,,NCAAF
+400868930,2016,"November 05, 2016",Cincinnati Bearcats,BYU Cougars,"4-5, 3-3 Home","5-4, 2-2 Away",3,20,,,Final,CBSSN,3,0,0,0,,3,7,7,3,,NCAAF
+400869563,2016,"November 18, 2016",Cincinnati Bearcats,Memphis Tigers,"4-7, 1-6 Conf","7-4, 4-3 Conf",7,34,,,Final,CBSSN,0,0,0,7,,13,14,7,0,,NCAAF
+400869567,2016,"November 25, 2016",Tulsa Golden Hurricane,Cincinnati Bearcats,"9-3, 6-2 Conf","4-8, 1-7 Conf",40,37,,,Final/OT,ESPN2,7,7,7,13,6.0,17,7,7,3,3.0,NCAAF

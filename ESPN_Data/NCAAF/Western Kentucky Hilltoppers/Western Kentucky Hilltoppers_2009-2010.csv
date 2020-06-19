@@ -1,13 +1,13 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-292550098,2009,"Sat, Sep 12",Western Kentucky Hilltoppers,South Florida Bulls,"0-2, 0-1 Home","2-0, 1-0 Away",13,35,NULL,NULL,Final,NULL,3,3,7,0,NULL,7,7,7,14,NULL,NCAAF
-292692426,2009,"Sat, Sep 26",Navy Midshipmen,Western Kentucky Hilltoppers,"2-2, 2-0 Home","0-4, 0-2 Away",38,22,NULL,NULL,Final,NULL,7,10,7,14,NULL,0,14,0,8,NULL,NCAAF
-292900098,2009,"Sat, Oct 17",Western Kentucky Hilltoppers,Louisiana Ragin' Cajuns,"0-6, 0-2 Conf","4-2, 2-0 Conf",22,30,NULL,NULL,Final,NULL,7,7,0,8,NULL,10,10,7,3,NULL,NCAAF
-293040249,2009,"Sat, Oct 31",North Texas Mean Green,Western Kentucky Hilltoppers,"2-6, 1-4 Conf","0-8, 0-4 Conf",68,49,NULL,NULL,Final,ESPN3,14,14,21,19,NULL,14,21,14,0,NULL,NCAAF
-293182433,2009,"Sat, Nov 14",Louisiana Monroe Warhawks,Western Kentucky Hilltoppers,"6-4, 5-1 Conf","0-10, 0-6 Conf",21,18,NULL,NULL,Final,NULL,0,7,0,14,NULL,0,12,0,6,NULL,NCAAF
-292482633,2009,"Sat, Sep 5",Tennessee Volunteers,Western Kentucky Hilltoppers,"1-0, 1-0 Home","0-1, 0-1 Away",63,7,NULL,NULL,Final,NULL,0,28,7,28,NULL,0,0,7,0,NULL,NCAAF
-292620098,2009,"Sat, Sep 19",Western Kentucky Hilltoppers,Central Arkansas Bears,"0-3, 0-2 Home","1-1, 1-1 Away",7,28,NULL,NULL,Final,NULL,0,7,0,0,NULL,0,14,7,7,NULL,NCAAF
-292830098,2009,"Sat, Oct 10",Western Kentucky Hilltoppers,Florida Intl Golden Panthers,"0-5, 0-1 Conf","1-4, 1-1 Conf",20,37,NULL,NULL,Final,NULL,0,7,7,6,NULL,10,7,13,7,NULL,NCAAF
-292972393,2009,"Sat, Oct 24",Middle Tennessee Blue Raiders,Western Kentucky Hilltoppers,"4-3, 2-1 Conf","0-7, 0-3 Conf",62,24,NULL,NULL,Final,ESPN3,3,28,17,14,NULL,3,7,7,7,NULL,NCAAF
-293110098,2009,"Sat, Nov 7",Western Kentucky Hilltoppers,Troy Trojans,"0-9, 0-5 Conf","7-2, 6-0 Conf",20,40,NULL,NULL,Final,NULL,7,13,0,0,NULL,7,14,13,6,NULL,NCAAF
-293322226,2009,"Sat, Nov 28",Florida Atlantic Owls,Western Kentucky Hilltoppers,"4-7, 4-3 Conf","0-11, 0-7 Conf",29,23,NULL,NULL,Final,NULL,9,7,6,7,NULL,0,14,3,6,NULL,NCAAF
-293370098,2009,"Thu, Dec 3",Western Kentucky Hilltoppers,Arkansas State Red Wolves,"0-12, 0-8 Conf","4-8, 3-5 Conf",20,24,NULL,NULL,Final,ESPN3,14,3,3,0,NULL,0,3,7,14,NULL,NCAAF
+292550098,2009,"September 12, 2009",Western Kentucky Hilltoppers,South Florida Bulls,"0-2, 0-1 Home","2-0, 1-0 Away",13,35,,,Final,,3,3,7,0,,7,7,7,14,,NCAAF
+292692426,2009,"September 26, 2009",Navy Midshipmen,Western Kentucky Hilltoppers,"2-2, 2-0 Home","0-4, 0-2 Away",38,22,,,Final,,7,10,7,14,,0,14,0,8,,NCAAF
+292900098,2009,"October 17, 2009",Western Kentucky Hilltoppers,Louisiana Ragin' Cajuns,"0-6, 0-2 Conf","4-2, 2-0 Conf",22,30,,,Final,,7,7,0,8,,10,10,7,3,,NCAAF
+293040249,2009,"October 31, 2009",North Texas Mean Green,Western Kentucky Hilltoppers,"2-6, 1-4 Conf","0-8, 0-4 Conf",68,49,,,Final,ESPN3,14,14,21,19,,14,21,14,0,,NCAAF
+293182433,2009,"November 14, 2009",Louisiana Monroe Warhawks,Western Kentucky Hilltoppers,"6-4, 5-1 Conf","0-10, 0-6 Conf",21,18,,,Final,,0,7,0,14,,0,12,0,6,,NCAAF
+292482633,2009,"September 05, 2009",Tennessee Volunteers,Western Kentucky Hilltoppers,"1-0, 1-0 Home","0-1, 0-1 Away",63,7,,,Final,,0,28,7,28,,0,0,7,0,,NCAAF
+292620098,2009,"September 19, 2009",Western Kentucky Hilltoppers,Central Arkansas Bears,"0-3, 0-2 Home","1-1, 1-1 Away",7,28,,,Final,,0,7,0,0,,0,14,7,7,,NCAAF
+292830098,2009,"October 10, 2009",Western Kentucky Hilltoppers,Florida Intl Golden Panthers,"0-5, 0-1 Conf","1-4, 1-1 Conf",20,37,,,Final,,0,7,7,6,,10,7,13,7,,NCAAF
+292972393,2009,"October 24, 2009",Middle Tennessee Blue Raiders,Western Kentucky Hilltoppers,"4-3, 2-1 Conf","0-7, 0-3 Conf",62,24,,,Final,ESPN3,3,28,17,14,,3,7,7,7,,NCAAF
+293110098,2009,"November 07, 2009",Western Kentucky Hilltoppers,Troy Trojans,"0-9, 0-5 Conf","7-2, 6-0 Conf",20,40,,,Final,,7,13,0,0,,7,14,13,6,,NCAAF
+293322226,2009,"November 28, 2009",Florida Atlantic Owls,Western Kentucky Hilltoppers,"4-7, 4-3 Conf","0-11, 0-7 Conf",29,23,,,Final,,9,7,6,7,,0,14,3,6,,NCAAF
+293370098,2009,"December 03, 2009",Western Kentucky Hilltoppers,Arkansas State Red Wolves,"0-12, 0-8 Conf","4-8, 3-5 Conf",20,24,,,Final,ESPN3,14,3,3,0,,0,3,7,14,,NCAAF

@@ -1,14 +1,14 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-302540097,2010,"Sat, Sep 11",Louisville Cardinals,Eastern Kentucky Colonels,"1-1, 1-1 Home","0-2, 0-2 Away",23,13,NULL,NULL,Final,NULL,0,23,0,0,NULL,0,0,7,6,NULL,NCAAF
-302752032,2010,"Sat, Oct 2",Arkansas State Red Wolves,Louisville Cardinals,"1-4, 1-1 Home","2-2, 1-1 Away",24,34,NULL,NULL,Final,ESPN3,0,7,14,3,NULL,10,21,0,3,NULL,NCAAF
-302880097,2010,"Fri, Oct 15",Louisville Cardinals,Cincinnati Bearcats,"3-3, 0-1 Conf","3-3, 1-0 Conf",27,35,NULL,NULL,Final,ESPN,14,10,0,3,NULL,14,7,7,7,NULL,NCAAF
-303030221,2010,"Sat, Oct 30",Pittsburgh Panthers,Louisville Cardinals,"5-3, 3-0 Conf","4-4, 1-2 Conf",20,3,NULL,NULL,Final,NULL,3,3,7,7,NULL,3,0,0,0,NULL,NCAAF
-303170097,2010,"Sat, Nov 13",Louisville Cardinals,South Florida Bulls,"5-5, 2-3 Conf","6-3, 3-2 Conf",21,24,NULL,NULL,Final/OT,ESPNU,7,7,0,7,0,0,10,3,8,3,NCAAF
-302470097,2010,"Sat, Sep 4",Louisville Cardinals,Kentucky Wildcats,"0-1, 0-1 Home","1-0, 1-0 Away",16,23,NULL,NULL,Final,ABC,0,6,7,3,NULL,13,7,3,0,NULL,NCAAF
-302610204,2010,"Sat, Sep 18",Oregon State Beavers,Louisville Cardinals,"1-1, 1-0 Home","1-2, 0-1 Away",35,28,NULL,NULL,Final,NULL,7,14,14,0,NULL,0,14,7,7,NULL,NCAAF
-302820097,2010,"Sat, Oct 9",Louisville Cardinals,Memphis Tigers,"3-2, 2-1 Home","1-5, 0-4 Away",56,0,NULL,NULL,Final,ESPN3,7,28,14,7,NULL,0,0,0,0,NULL,NCAAF
-302960097,2010,"Sat, Oct 23",Louisville Cardinals,Connecticut Huskies,"4-3, 1-1 Conf","3-4, 0-2 Conf",26,0,NULL,NULL,Final,ESPNU,0,13,10,3,NULL,0,0,0,0,NULL,NCAAF
-303100183,2010,"Sat, Nov 6",Syracuse Orange,Louisville Cardinals,"6-3, 3-2 Conf","5-4, 2-2 Conf",20,28,NULL,NULL,Final,NULL,7,10,3,0,NULL,14,0,7,7,NULL,NCAAF
-303240097,2010,"Sat, Nov 20",Louisville Cardinals,West Virginia Mountaineers,"5-6, 2-4 Conf","7-3, 3-2 Conf",10,17,NULL,NULL,Final,NULL,3,7,0,0,NULL,7,7,3,0,NULL,NCAAF
-303300164,2010,"Fri, Nov 26",Rutgers Scarlet Knights,Louisville Cardinals,"4-7, 1-5 Conf","6-6, 3-4 Conf",13,40,NULL,NULL,Final,ESPN2,0,7,6,0,NULL,14,14,6,6,NULL,NCAAF
-303550097,2010,"Tue, Dec 21",Louisville Cardinals,Southern Mississippi Golden Eagles,7-6,8-5,31,28,NULL,NULL,Final,ESPN,0,21,0,10,NULL,14,7,0,7,NULL,NCAAF
+302540097,2010,"September 11, 2010",Louisville Cardinals,Eastern Kentucky Colonels,"1-1, 1-1 Home","0-2, 0-2 Away",23,13,,,Final,,0,23,0,0,,0,0,7,6,,NCAAF
+302752032,2010,"October 02, 2010",Arkansas State Red Wolves,Louisville Cardinals,"1-4, 1-1 Home","2-2, 1-1 Away",24,34,,,Final,ESPN3,0,7,14,3,,10,21,0,3,,NCAAF
+302880097,2010,"October 15, 2010",Louisville Cardinals,Cincinnati Bearcats,"3-3, 0-1 Conf","3-3, 1-0 Conf",27,35,,,Final,ESPN,14,10,0,3,,14,7,7,7,,NCAAF
+303030221,2010,"October 30, 2010",Pittsburgh Panthers,Louisville Cardinals,"5-3, 3-0 Conf","4-4, 1-2 Conf",20,3,,,Final,,3,3,7,7,,3,0,0,0,,NCAAF
+303170097,2010,"November 13, 2010",Louisville Cardinals,South Florida Bulls,"5-5, 2-3 Conf","6-3, 3-2 Conf",21,24,,,Final/OT,ESPNU,7,7,0,7,0.0,0,10,3,8,3.0,NCAAF
+302470097,2010,"September 04, 2010",Louisville Cardinals,Kentucky Wildcats,"0-1, 0-1 Home","1-0, 1-0 Away",16,23,,,Final,ABC,0,6,7,3,,13,7,3,0,,NCAAF
+302610204,2010,"September 18, 2010",Oregon State Beavers,Louisville Cardinals,"1-1, 1-0 Home","1-2, 0-1 Away",35,28,,,Final,,7,14,14,0,,0,14,7,7,,NCAAF
+302820097,2010,"October 09, 2010",Louisville Cardinals,Memphis Tigers,"3-2, 2-1 Home","1-5, 0-4 Away",56,0,,,Final,ESPN3,7,28,14,7,,0,0,0,0,,NCAAF
+302960097,2010,"October 23, 2010",Louisville Cardinals,Connecticut Huskies,"4-3, 1-1 Conf","3-4, 0-2 Conf",26,0,,,Final,ESPNU,0,13,10,3,,0,0,0,0,,NCAAF
+303100183,2010,"November 06, 2010",Syracuse Orange,Louisville Cardinals,"6-3, 3-2 Conf","5-4, 2-2 Conf",20,28,,,Final,,7,10,3,0,,14,0,7,7,,NCAAF
+303240097,2010,"November 20, 2010",Louisville Cardinals,West Virginia Mountaineers,"5-6, 2-4 Conf","7-3, 3-2 Conf",10,17,,,Final,,3,7,0,0,,7,7,3,0,,NCAAF
+303300164,2010,"November 26, 2010",Rutgers Scarlet Knights,Louisville Cardinals,"4-7, 1-5 Conf","6-6, 3-4 Conf",13,40,,,Final,ESPN2,0,7,6,0,,14,14,6,6,,NCAAF
+303550097,2010,"December 21, 2010",Louisville Cardinals,Southern Mississippi Golden Eagles,7-6,8-5,31,28,,,Final,ESPN,0,21,0,10,,14,7,0,7,,NCAAF

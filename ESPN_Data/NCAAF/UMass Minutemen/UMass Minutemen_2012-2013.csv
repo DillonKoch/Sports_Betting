@@ -1,13 +1,13 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-322520113,2012,"Sat, Sep 8",UMass Minutemen,Indiana Hoosiers,"0-2, 0-1 Home","2-0, 1-0 Away",6,45,NULL,NULL,Final,ESPN3,6,0,0,0,NULL,21,17,0,7,NULL,NCAAF
-322660193,2012,"Sat, Sep 22",Miami (OH) RedHawks,UMass Minutemen,"2-2, 1-0 Conf","0-4, 0-1 Conf",27,16,NULL,NULL,Final,NULL,0,14,7,6,NULL,0,3,7,6,NULL,NCAAF
-322802711,2012,"Sat, Oct 6",Western Michigan Broncos,UMass Minutemen,"3-3, 1-1 Conf","0-6, 0-3 Conf",52,14,NULL,NULL,Final,NULL,7,21,21,3,NULL,0,7,0,7,NULL,NCAAF
-323010238,2012,"Sat, Oct 27",Vanderbilt Commodores,UMass Minutemen,"4-4, 3-2 Home","0-8, 0-5 Away",49,7,NULL,NULL,Final,NULL,7,14,28,0,NULL,0,0,0,7,NULL,NCAAF
-323152006,2012,"Sat, Nov 10",Akron Zips,UMass Minutemen,"1-10, 0-7 Conf","1-9, 1-5 Conf",14,22,NULL,NULL,Final,NULL,0,0,7,7,NULL,3,12,0,7,NULL,NCAAF
-322430041,2012,"Thu, Aug 30",Connecticut Huskies,UMass Minutemen,"1-0, 1-0 Home","0-1, 0-1 Away",37,0,NULL,NULL,Final,ESPN3,7,13,7,10,NULL,0,0,0,0,NULL,NCAAF
-322590130,2012,"Sat, Sep 15",Michigan Wolverines,UMass Minutemen,"2-1, 2-0 Home","0-3, 0-2 Away",63,13,NULL,NULL,Final,BTN,14,28,14,7,NULL,0,13,0,0,NULL,NCAAF
-322730113,2012,"Sat, Sep 29",UMass Minutemen,Ohio Bobcats,"0-5, 0-2 Conf","5-0, 1-0 Conf",34,37,NULL,NULL,Final,ESPN3,10,7,10,7,NULL,3,17,0,17,NULL,NCAAF
-322940113,2012,"Sat, Oct 20",UMass Minutemen,Bowling Green Falcons,"0-7, 0-4 Conf","5-3, 3-1 Conf",0,24,NULL,NULL,Final,NULL,0,0,0,0,NULL,7,0,14,3,NULL,NCAAF
-323082459,2012,"Sat, Nov 3",Northern Illinois Huskies,UMass Minutemen,"9-1, 6-0 Conf","0-9, 0-5 Conf",63,0,NULL,NULL,Final,NULL,14,21,21,7,NULL,0,0,0,0,NULL,NCAAF
-323220113,2012,"Sat, Nov 17",UMass Minutemen,Buffalo Bulls,"1-10, 1-6 Conf","4-7, 3-4 Conf",19,29,NULL,NULL,Final,NULL,3,10,6,0,NULL,0,0,14,15,NULL,NCAAF
-323280113,2012,"Fri, Nov 23",UMass Minutemen,Central Michigan Chippewas,"1-11, 1-7 Conf","6-6, 4-4 Conf",21,42,NULL,NULL,Final,NULL,0,14,7,0,NULL,7,7,14,14,NULL,NCAAF
+322520113,2012,"September 08, 2012",UMass Minutemen,Indiana Hoosiers,"0-2, 0-1 Home","2-0, 1-0 Away",6,45,,,Final,ESPN3,6,0,0,0,,21,17,0,7,,NCAAF
+322660193,2012,"September 22, 2012",Miami (OH) RedHawks,UMass Minutemen,"2-2, 1-0 Conf","0-4, 0-1 Conf",27,16,,,Final,,0,14,7,6,,0,3,7,6,,NCAAF
+322802711,2012,"October 06, 2012",Western Michigan Broncos,UMass Minutemen,"3-3, 1-1 Conf","0-6, 0-3 Conf",52,14,,,Final,,7,21,21,3,,0,7,0,7,,NCAAF
+323010238,2012,"October 27, 2012",Vanderbilt Commodores,UMass Minutemen,"4-4, 3-2 Home","0-8, 0-5 Away",49,7,,,Final,,7,14,28,0,,0,0,0,7,,NCAAF
+323152006,2012,"November 10, 2012",Akron Zips,UMass Minutemen,"1-10, 0-7 Conf","1-9, 1-5 Conf",14,22,,,Final,,0,0,7,7,,3,12,0,7,,NCAAF
+322430041,2012,"August 30, 2012",Connecticut Huskies,UMass Minutemen,"1-0, 1-0 Home","0-1, 0-1 Away",37,0,,,Final,ESPN3,7,13,7,10,,0,0,0,0,,NCAAF
+322590130,2012,"September 15, 2012",Michigan Wolverines,UMass Minutemen,"2-1, 2-0 Home","0-3, 0-2 Away",63,13,,,Final,BTN,14,28,14,7,,0,13,0,0,,NCAAF
+322730113,2012,"September 29, 2012",UMass Minutemen,Ohio Bobcats,"0-5, 0-2 Conf","5-0, 1-0 Conf",34,37,,,Final,ESPN3,10,7,10,7,,3,17,0,17,,NCAAF
+322940113,2012,"October 20, 2012",UMass Minutemen,Bowling Green Falcons,"0-7, 0-4 Conf","5-3, 3-1 Conf",0,24,,,Final,,0,0,0,0,,7,0,14,3,,NCAAF
+323082459,2012,"November 03, 2012",Northern Illinois Huskies,UMass Minutemen,"9-1, 6-0 Conf","0-9, 0-5 Conf",63,0,,,Final,,14,21,21,7,,0,0,0,0,,NCAAF
+323220113,2012,"November 17, 2012",UMass Minutemen,Buffalo Bulls,"1-10, 1-6 Conf","4-7, 3-4 Conf",19,29,,,Final,,3,10,6,0,,0,0,14,15,,NCAAF
+323280113,2012,"November 23, 2012",UMass Minutemen,Central Michigan Chippewas,"1-11, 1-7 Conf","6-6, 4-4 Conf",21,42,,,Final,,0,14,7,0,,7,7,14,14,,NCAAF

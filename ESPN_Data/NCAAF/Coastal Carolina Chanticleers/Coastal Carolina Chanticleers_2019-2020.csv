@@ -1,13 +1,13 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-401112097,2019,"Sat, Sep 7",Kansas Jayhawks,Coastal Carolina Chanticleers,"1-1, 1-1 Home","1-1, 1-0 Away",7,12,KU -7.0,54,Final,ESPN+,7,0,0,0,NULL,0,6,6,0,NULL,NCAAF
-401114355,2019,"Sat, Sep 21",UMass Minutemen,Coastal Carolina Chanticleers,"0-4, 0-2 Home","3-1, 2-0 Away",28,62,CCU -17.0,63,Final,NULL,7,7,7,7,NULL,14,28,14,6,NULL,NCAAF
-401121952,2019,"Sat, Oct 12",Coastal Carolina Chanticleers,Georgia State Panthers,"3-3, 0-2 Conf","4-2, 2-1 Conf",21,31,CCU -3.5,65,Final,ESPN+,3,3,7,8,NULL,3,14,14,0,NULL,NCAAF
-401121962,2019,"Sat, Nov 2",Coastal Carolina Chanticleers,Troy Trojans,"4-4, 1-3 Conf","3-5, 1-3 Conf",36,35,TROY -2.0,60,Final,ESPN3,14,3,11,8,NULL,21,0,7,7,NULL,NCAAF
-401121969,2019,"Sat, Nov 16",Arkansas State Red Wolves,Coastal Carolina Chanticleers,"6-4, 4-2 Conf","4-6, 1-5 Conf",28,27,ARST -14.0,60,Final,ESPN+,7,0,14,7,NULL,3,10,0,14,NULL,NCAAF
-401119256,2019,"Sat, Aug 31",Coastal Carolina Chanticleers,Eastern Michigan Eagles,"0-1, 0-1 Home","1-0, 1-0 Away",23,30,EMU -5.0,56,Final,ESPN+,10,3,0,10,NULL,0,7,16,7,NULL,NCAAF
-401121939,2019,"Sat, Sep 14",Coastal Carolina Chanticleers,Norfolk State Spartans,"2-1, 1-1 Home","1-2, 0-2 Away",46,7,NULL,NULL,Final,ESPN3,12,7,14,13,NULL,0,7,0,0,NULL,NCAAF
-401121943,2019,"Sat, Sep 28",Appalachian State Mountaineers,Coastal Carolina Chanticleers,"4-0, 1-0 Conf","3-2, 0-1 Conf",56,37,APP -15.5,58,Final,ESPN+,14,21,7,14,NULL,14,7,9,7,NULL,NCAAF
-401121956,2019,"Sat, Oct 19",Georgia Southern Eagles,Coastal Carolina Chanticleers,"3-3, 2-1 Conf","3-4, 0-3 Conf",30,27,GASO -7.0,43,Final/3OT,ESPN3,3,7,0,0,20,0,7,0,3,17,NCAAF
-401121964,2019,"Thu, Nov 7",Coastal Carolina Chanticleers,Louisiana Ragin' Cajuns,"4-5, 1-4 Conf","7-2, 4-1 Conf",7,48,UL -14.0,58,Final,ESPNU,0,0,0,7,NULL,14,10,21,3,NULL,NCAAF
-401121975,2019,"Sat, Nov 23",UL Monroe Warhawks,Coastal Carolina Chanticleers,"5-6, 4-3 Conf","4-7, 1-6 Conf",45,42,ULM -6.0,64,Final,ESPN3,14,7,10,14,NULL,14,0,14,14,NULL,NCAAF
-401121980,2019,"Sat, Nov 30",Coastal Carolina Chanticleers,Texas State Bobcats,"5-7, 2-6 Conf","3-9, 2-6 Conf",24,21,CCU -7.0,51,Final,ESPN+,0,7,7,10,NULL,0,7,0,14,NULL,NCAAF
+401112097,2019,"September 07, 2019",Kansas Jayhawks,Coastal Carolina Chanticleers,"1-1, 1-1 Home","1-1, 1-0 Away",7,12,KU -7.0,54.0,Final,ESPN+,7,0,0,0,,0,6,6,0,,NCAAF
+401114355,2019,"September 21, 2019",UMass Minutemen,Coastal Carolina Chanticleers,"0-4, 0-2 Home","3-1, 2-0 Away",28,62,CCU -17.0,63.0,Final,,7,7,7,7,,14,28,14,6,,NCAAF
+401121952,2019,"October 12, 2019",Coastal Carolina Chanticleers,Georgia State Panthers,"3-3, 0-2 Conf","4-2, 2-1 Conf",21,31,CCU -3.5,65.0,Final,ESPN+,3,3,7,8,,3,14,14,0,,NCAAF
+401121962,2019,"November 02, 2019",Coastal Carolina Chanticleers,Troy Trojans,"4-4, 1-3 Conf","3-5, 1-3 Conf",36,35,TROY -2.0,60.0,Final,ESPN3,14,3,11,8,,21,0,7,7,,NCAAF
+401121969,2019,"November 16, 2019",Arkansas State Red Wolves,Coastal Carolina Chanticleers,"6-4, 4-2 Conf","4-6, 1-5 Conf",28,27,ARST -14.0,60.0,Final,ESPN+,7,0,14,7,,3,10,0,14,,NCAAF
+401119256,2019,"August 31, 2019",Coastal Carolina Chanticleers,Eastern Michigan Eagles,"0-1, 0-1 Home","1-0, 1-0 Away",23,30,EMU -5.0,56.0,Final,ESPN+,10,3,0,10,,0,7,16,7,,NCAAF
+401121939,2019,"September 14, 2019",Coastal Carolina Chanticleers,Norfolk State Spartans,"2-1, 1-1 Home","1-2, 0-2 Away",46,7,,,Final,ESPN3,12,7,14,13,,0,7,0,0,,NCAAF
+401121943,2019,"September 28, 2019",Appalachian State Mountaineers,Coastal Carolina Chanticleers,"4-0, 1-0 Conf","3-2, 0-1 Conf",56,37,APP -15.5,58.0,Final,ESPN+,14,21,7,14,,14,7,9,7,,NCAAF
+401121956,2019,"October 19, 2019",Georgia Southern Eagles,Coastal Carolina Chanticleers,"3-3, 2-1 Conf","3-4, 0-3 Conf",30,27,GASO -7.0,43.0,Final/3OT,ESPN3,3,7,0,0,20.0,0,7,0,3,17.0,NCAAF
+401121964,2019,"November 07, 2019",Coastal Carolina Chanticleers,Louisiana Ragin' Cajuns,"4-5, 1-4 Conf","7-2, 4-1 Conf",7,48,UL -14.0,58.0,Final,ESPNU,0,0,0,7,,14,10,21,3,,NCAAF
+401121975,2019,"November 23, 2019",UL Monroe Warhawks,Coastal Carolina Chanticleers,"5-6, 4-3 Conf","4-7, 1-6 Conf",45,42,ULM -6.0,64.0,Final,ESPN3,14,7,10,14,,14,0,14,14,,NCAAF
+401121980,2019,"November 30, 2019",Coastal Carolina Chanticleers,Texas State Bobcats,"5-7, 2-6 Conf","3-9, 2-6 Conf",24,21,CCU -7.0,51.0,Final,ESPN+,0,7,7,10,,0,7,0,14,,NCAAF

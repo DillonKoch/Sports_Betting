@@ -1,13 +1,13 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-262520166,2006,"Sat, Sep 9",New Mexico State Aggies,New Mexico Lobos,"1-1, 1-1 Home","1-1, 1-0 Away",28,34,NULL,NULL,Final,NULL,7,7,0,14,NULL,7,17,0,10,NULL,NCAAF
-262732638,2006,"Sat, Sep 30",UTEP Miners,New Mexico State Aggies,"2-2, 1-1 Home","2-2, 0-1 Away",44,38,NULL,NULL,Final,NULL,17,14,0,13,NULL,0,20,11,7,NULL,NCAAF
-262880166,2006,"Sun, Oct 15",New Mexico State Aggies,Boise State Broncos,"2-4, 0-2 Conf","7-0, 3-0 Conf",28,40,NULL,NULL,Final,ESPN,0,14,7,7,NULL,21,6,6,7,NULL,NCAAF
-263012440,2006,"Sat, Oct 28",Nevada Wolf Pack,New Mexico State Aggies,"5-3, 2-2 Conf","2-6, 0-4 Conf",48,21,NULL,NULL,Final,NULL,0,28,14,6,NULL,7,0,7,7,NULL,NCAAF
-263150278,2006,"Sat, Nov 11",Fresno State Bulldogs,New Mexico State Aggies,"2-7, 2-4 Conf","2-8, 0-6 Conf",23,18,NULL,NULL,Final,NULL,7,3,6,7,NULL,0,12,6,0,NULL,NCAAF
-262430166,2006,"Thu, Aug 31",New Mexico State Aggies,Southeastern Louisiana Lions,"1-0, 1-0 Home","0-1, 0-1 Away",30,15,NULL,NULL,Final,NULL,14,9,7,0,NULL,12,3,0,0,NULL,NCAAF
-262590166,2006,"Sat, Sep 16",New Mexico State Aggies,Texas Southern Tigers,"2-1, 2-1 Home","2-1, 2-1 Away",48,14,NULL,NULL,Final,NULL,7,14,14,13,NULL,0,7,0,7,NULL,NCAAF
-262800070,2006,"Sat, Oct 7",Idaho Vandals,New Mexico State Aggies,"3-3, 2-0 Conf","2-3, 0-1 Conf",28,20,NULL,NULL,Final,NULL,7,21,0,0,NULL,7,6,0,7,NULL,NCAAF
-262940166,2006,"Sat, Oct 21",New Mexico State Aggies,Hawai'i Rainbow Warriors,"2-5, 0-3 Conf","5-2, 3-1 Conf",30,49,NULL,NULL,Final,NULL,14,3,7,6,NULL,14,14,0,21,NULL,NCAAF
-263080166,2006,"Sat, Nov 4",New Mexico State Aggies,San Jose State Spartans,"2-7, 0-5 Conf","6-2, 3-1 Conf",21,31,NULL,NULL,Final,NULL,14,7,0,0,NULL,8,7,3,13,NULL,NCAAF
-263290328,2006,"Sat, Nov 25",Utah State Aggies,New Mexico State Aggies,"1-11, 1-7 Conf","3-8, 1-6 Conf",20,42,NULL,NULL,Final,NULL,0,12,8,0,NULL,28,7,0,7,NULL,NCAAF
-263360166,2006,"Sat, Dec 2",New Mexico State Aggies,Louisiana Tech Bulldogs,"4-8, 2-6 Conf","3-10, 1-7 Conf",50,23,NULL,NULL,Final,NULL,7,7,17,19,NULL,7,0,0,16,NULL,NCAAF
+262520166,2006,"September 09, 2006",New Mexico State Aggies,New Mexico Lobos,"1-1, 1-1 Home","1-1, 1-0 Away",28,34,,,Final,,7,7,0,14,,7,17,0,10,,NCAAF
+262732638,2006,"September 30, 2006",UTEP Miners,New Mexico State Aggies,"2-2, 1-1 Home","2-2, 0-1 Away",44,38,,,Final,,17,14,0,13,,0,20,11,7,,NCAAF
+262880166,2006,"October 15, 2006",New Mexico State Aggies,Boise State Broncos,"2-4, 0-2 Conf","7-0, 3-0 Conf",28,40,,,Final,ESPN,0,14,7,7,,21,6,6,7,,NCAAF
+263012440,2006,"October 28, 2006",Nevada Wolf Pack,New Mexico State Aggies,"5-3, 2-2 Conf","2-6, 0-4 Conf",48,21,,,Final,,0,28,14,6,,7,0,7,7,,NCAAF
+263150278,2006,"November 11, 2006",Fresno State Bulldogs,New Mexico State Aggies,"2-7, 2-4 Conf","2-8, 0-6 Conf",23,18,,,Final,,7,3,6,7,,0,12,6,0,,NCAAF
+262430166,2006,"August 31, 2006",New Mexico State Aggies,Southeastern Louisiana Lions,"1-0, 1-0 Home","0-1, 0-1 Away",30,15,,,Final,,14,9,7,0,,12,3,0,0,,NCAAF
+262590166,2006,"September 16, 2006",New Mexico State Aggies,Texas Southern Tigers,"2-1, 2-1 Home","2-1, 2-1 Away",48,14,,,Final,,7,14,14,13,,0,7,0,7,,NCAAF
+262800070,2006,"October 07, 2006",Idaho Vandals,New Mexico State Aggies,"3-3, 2-0 Conf","2-3, 0-1 Conf",28,20,,,Final,,7,21,0,0,,7,6,0,7,,NCAAF
+262940166,2006,"October 21, 2006",New Mexico State Aggies,Hawai'i Rainbow Warriors,"2-5, 0-3 Conf","5-2, 3-1 Conf",30,49,,,Final,,14,3,7,6,,14,14,0,21,,NCAAF
+263080166,2006,"November 04, 2006",New Mexico State Aggies,San Jose State Spartans,"2-7, 0-5 Conf","6-2, 3-1 Conf",21,31,,,Final,,14,7,0,0,,8,7,3,13,,NCAAF
+263290328,2006,"November 25, 2006",Utah State Aggies,New Mexico State Aggies,"1-11, 1-7 Conf","3-8, 1-6 Conf",20,42,,,Final,,0,12,8,0,,28,7,0,7,,NCAAF
+263360166,2006,"December 02, 2006",New Mexico State Aggies,Louisiana Tech Bulldogs,"4-8, 2-6 Conf","3-10, 1-7 Conf",50,23,,,Final,,7,7,17,19,,7,0,0,16,,NCAAF

@@ -1,15 +1,15 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-401114247,2019,"Sat, Sep 7",Appalachian State Mountaineers,Charlotte 49ers,"2-0, 2-0 Home","1-1, 0-1 Away",56,41,APP -23.5,54,Final,ESPN+,14,14,14,14,NULL,6,7,15,13,NULL,NCAAF
-401121943,2019,"Sat, Sep 28",Appalachian State Mountaineers,Coastal Carolina Chanticleers,"4-0, 1-0 Conf","3-2, 0-1 Conf",56,37,APP -15.5,58,Final,ESPN+,14,21,7,14,NULL,14,7,9,7,NULL,NCAAF
-401121955,2019,"Sat, Oct 19",Appalachian State Mountaineers,UL Monroe Warhawks,"6-0, 3-0 Conf","3-4, 2-1 Conf",52,7,APP -15.5,66,Final,ESPN+,21,10,7,14,NULL,7,0,0,0,NULL,NCAAF
-401121960,2019,"Thu, Oct 31",Appalachian State Mountaineers,Georgia Southern Eagles,"7-1, 4-1 Conf","5-3, 3-1 Conf",21,24,APP -13.5,42,Final,ESPNU,0,7,0,14,NULL,7,3,14,0,NULL,NCAAF
-401121968,2019,"Sat, Nov 16",Georgia State Panthers,Appalachian State Mountaineers,"6-4, 3-3 Conf","9-1, 5-1 Conf",27,56,APP -15.0,61,Final,ESPNU,21,0,0,6,NULL,14,21,7,14,NULL,NCAAF
-401121978,2019,"Fri, Nov 29",Troy Trojans,Appalachian State Mountaineers,"5-7, 3-5 Conf","11-1, 7-1 Conf",13,48,APP -11.0,64,Final,ESPN+,10,3,0,0,NULL,20,14,7,7,NULL,NCAAF
-401121934,2019,"Sat, Aug 31",Appalachian State Mountaineers,East Tennessee State Buccaneers,"1-0, 1-0 Home","0-1, 0-1 Away",42,7,NULL,NULL,Final,ESPN+,7,7,14,14,NULL,0,0,7,0,NULL,NCAAF
-401112459,2019,"Sat, Sep 21",North Carolina Tar Heels,Appalachian State Mountaineers,"2-2, 1-1 Home","3-0, 1-0 Away",31,34,UNC -2.5,58,Final,ACCNX,7,10,7,7,NULL,13,14,7,0,NULL,NCAAF
-401121950,2019,"Wed, Oct 9",Louisiana Ragin' Cajuns,Appalachian State Mountaineers,"4-2, 1-1 Conf","5-0, 2-0 Conf",7,17,UL -3.0,70,Final,ESPN2,0,7,0,0,NULL,7,0,3,7,NULL,NCAAF
-401121957,2019,"Sat, Oct 26",South Alabama Jaguars,Appalachian State Mountaineers,"1-7, 0-4 Conf","7-0, 4-0 Conf",3,30,APP -27.5,51,Final,ESPNU,0,0,0,3,NULL,7,6,10,7,NULL,NCAAF
-401110848,2019,"Sat, Nov 9",South Carolina Gamecocks,Appalachian State Mountaineers,"4-6, 3-3 Home","8-1, 4-0 Away",15,20,SC -6.5,51,Final,ESPN2,6,0,3,6,NULL,3,10,7,0,NULL,NCAAF
-401121973,2019,"Sat, Nov 23",Appalachian State Mountaineers,Texas State Bobcats,"10-1, 6-1 Conf","3-8, 2-5 Conf",35,13,APP -28.5,49,Final,ESPN+,7,7,14,7,NULL,0,10,3,0,NULL,NCAAF
-401135267,2019,"Sat, Dec 21",UAB Blazers,Appalachian State Mountaineers,9-5,13-1,17,31,APP -17.0,48,Final,ESPN,14,0,3,0,NULL,0,10,21,0,NULL,NCAAF
-401132984,2019,"Sat, Dec 7",Appalachian State Mountaineers,Louisiana Ragin' Cajuns,"12-1, 7-1 Conf","10-3, 7-1 Conf",45,38,APP -5.5,57,Final,ESPN,21,14,7,3,NULL,7,10,7,14,NULL,NCAAF
+401114247,2019,"September 07, 2019",Appalachian State Mountaineers,Charlotte 49ers,"2-0, 2-0 Home","1-1, 0-1 Away",56,41,APP -23.5,54.0,Final,ESPN+,14,14,14,14,,6,7,15,13,,NCAAF
+401121943,2019,"September 28, 2019",Appalachian State Mountaineers,Coastal Carolina Chanticleers,"4-0, 1-0 Conf","3-2, 0-1 Conf",56,37,APP -15.5,58.0,Final,ESPN+,14,21,7,14,,14,7,9,7,,NCAAF
+401121955,2019,"October 19, 2019",Appalachian State Mountaineers,UL Monroe Warhawks,"6-0, 3-0 Conf","3-4, 2-1 Conf",52,7,APP -15.5,66.0,Final,ESPN+,21,10,7,14,,7,0,0,0,,NCAAF
+401121960,2019,"October 31, 2019",Appalachian State Mountaineers,Georgia Southern Eagles,"7-1, 4-1 Conf","5-3, 3-1 Conf",21,24,APP -13.5,42.0,Final,ESPNU,0,7,0,14,,7,3,14,0,,NCAAF
+401121968,2019,"November 16, 2019",Georgia State Panthers,Appalachian State Mountaineers,"6-4, 3-3 Conf","9-1, 5-1 Conf",27,56,APP -15.0,61.0,Final,ESPNU,21,0,0,6,,14,21,7,14,,NCAAF
+401121978,2019,"November 29, 2019",Troy Trojans,Appalachian State Mountaineers,"5-7, 3-5 Conf","11-1, 7-1 Conf",13,48,APP -11.0,64.0,Final,ESPN+,10,3,0,0,,20,14,7,7,,NCAAF
+401121934,2019,"August 31, 2019",Appalachian State Mountaineers,East Tennessee State Buccaneers,"1-0, 1-0 Home","0-1, 0-1 Away",42,7,,,Final,ESPN+,7,7,14,14,,0,0,7,0,,NCAAF
+401112459,2019,"September 21, 2019",North Carolina Tar Heels,Appalachian State Mountaineers,"2-2, 1-1 Home","3-0, 1-0 Away",31,34,UNC -2.5,58.0,Final,ACCNX,7,10,7,7,,13,14,7,0,,NCAAF
+401121950,2019,"October 09, 2019",Louisiana Ragin' Cajuns,Appalachian State Mountaineers,"4-2, 1-1 Conf","5-0, 2-0 Conf",7,17,UL -3.0,70.0,Final,ESPN2,0,7,0,0,,7,0,3,7,,NCAAF
+401121957,2019,"October 26, 2019",South Alabama Jaguars,Appalachian State Mountaineers,"1-7, 0-4 Conf","7-0, 4-0 Conf",3,30,APP -27.5,51.0,Final,ESPNU,0,0,0,3,,7,6,10,7,,NCAAF
+401110848,2019,"November 09, 2019",South Carolina Gamecocks,Appalachian State Mountaineers,"4-6, 3-3 Home","8-1, 4-0 Away",15,20,SC -6.5,51.0,Final,ESPN2,6,0,3,6,,3,10,7,0,,NCAAF
+401121973,2019,"November 23, 2019",Appalachian State Mountaineers,Texas State Bobcats,"10-1, 6-1 Conf","3-8, 2-5 Conf",35,13,APP -28.5,49.0,Final,ESPN+,7,7,14,7,,0,10,3,0,,NCAAF
+401135267,2019,"December 21, 2019",UAB Blazers,Appalachian State Mountaineers,9-5,13-1,17,31,APP -17.0,48.0,Final,ESPN,14,0,3,0,,0,10,21,0,,NCAAF
+401132984,2019,"December 07, 2019",Appalachian State Mountaineers,Louisiana Ragin' Cajuns,"12-1, 7-1 Conf","10-3, 7-1 Conf",45,38,APP -5.5,57.0,Final,ESPN,21,14,7,3,,7,10,7,14,,NCAAF

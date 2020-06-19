@@ -1,14 +1,14 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-401110773,2019,"Sat, Sep 7",Alabama Crimson Tide,New Mexico State Aggies,"2-0, 1-0 Home","0-2, 0-2 Away",62,10,ALA -55.0,65,Final,SECN,21,17,24,0,NULL,0,0,7,3,NULL,NCAAF
-401110797,2019,"Sat, Sep 21",Alabama Crimson Tide,Southern Mississippi Golden Eagles,"4-0, 2-0 Home","2-2, 1-2 Away",49,7,ALA -37.5,65,Final,ESPN2,14,14,14,7,NULL,0,7,0,0,NULL,NCAAF
-401110822,2019,"Sat, Oct 12",Texas A&M Aggies,Alabama Crimson Tide,"3-3, 1-2 Conf","6-0, 3-0 Conf",28,47,ALA -17.0,62,Final,CBS,7,6,7,8,NULL,14,10,10,13,NULL,NCAAF
-401110831,2019,"Sat, Oct 26",Alabama Crimson Tide,Arkansas Razorbacks,"8-0, 5-0 Conf","2-6, 0-5 Conf",48,7,ALA -32.0,57,Final,ESPN,17,24,7,0,NULL,0,0,0,7,NULL,NCAAF
-401110851,2019,"Sat, Nov 16",Mississippi State Bulldogs,Alabama Crimson Tide,"4-6, 2-5 Conf","9-1, 6-1 Conf",7,38,ALA -20.0,62,Final,ESPN,7,0,0,0,NULL,21,14,3,0,NULL,NCAAF
-401110720,2019,"Sat, Aug 31",Alabama Crimson Tide,Duke Blue Devils,1-0,0-1,42,3,ALA -34.5,57,Final,ABC,0,14,21,7,NULL,0,3,0,0,NULL,NCAAF
-401110794,2019,"Sat, Sep 14",South Carolina Gamecocks,Alabama Crimson Tide,"1-2, 0-1 Conf","3-0, 1-0 Conf",23,47,ALA -26.5,59,Final,CBS,10,0,3,10,NULL,14,10,10,13,NULL,NCAAF
-401110806,2019,"Sat, Sep 28",Alabama Crimson Tide,Ole Miss Rebels,"5-0, 2-0 Conf","2-3, 1-1 Conf",59,31,ALA -37.5,64,Final,CBS,7,31,14,7,NULL,10,0,7,14,NULL,NCAAF
-401110824,2019,"Sat, Oct 19",Alabama Crimson Tide,Tennessee Volunteers,"7-0, 4-0 Conf","2-5, 1-3 Conf",35,13,ALA -35.0,62,Final,ESPN,14,7,7,7,NULL,7,3,3,0,NULL,NCAAF
-401110842,2019,"Sat, Nov 9",Alabama Crimson Tide,LSU Tigers,"8-1, 5-1 Conf","9-0, 5-0 Conf",41,46,ALA -5.0,66,Final,CBS,7,6,7,21,NULL,10,23,0,13,NULL,NCAAF
-401110855,2019,"Sat, Nov 23",Alabama Crimson Tide,Western Carolina Catamounts,"10-1, 6-1 Home","3-9, 1-5 Away",66,3,NULL,NULL,Final,ESPN,17,21,21,7,NULL,0,0,0,3,NULL,NCAAF
-401110865,2019,"Sat, Nov 30",Auburn Tigers,Alabama Crimson Tide,"9-3, 5-3 Conf","10-2, 6-2 Conf",48,45,ALA -3.5,50,Final,CBS,7,20,13,8,NULL,3,28,7,7,NULL,NCAAF
-401135286,2019,"Wed, Jan 1",Alabama Crimson Tide,Michigan Wolverines,11-2,9-4,35,16,ALA -7.5,61,Final,ABC,7,7,7,14,NULL,10,6,0,0,NULL,NCAAF
+401110773,2019,"September 07, 2019",Alabama Crimson Tide,New Mexico State Aggies,"2-0, 1-0 Home","0-2, 0-2 Away",62,10,ALA -55.0,65.0,Final,SECN,21,17,24,0,,0,0,7,3,,NCAAF
+401110797,2019,"September 21, 2019",Alabama Crimson Tide,Southern Mississippi Golden Eagles,"4-0, 2-0 Home","2-2, 1-2 Away",49,7,ALA -37.5,65.0,Final,ESPN2,14,14,14,7,,0,7,0,0,,NCAAF
+401110822,2019,"October 12, 2019",Texas A&M Aggies,Alabama Crimson Tide,"3-3, 1-2 Conf","6-0, 3-0 Conf",28,47,ALA -17.0,62.0,Final,CBS,7,6,7,8,,14,10,10,13,,NCAAF
+401110831,2019,"October 26, 2019",Alabama Crimson Tide,Arkansas Razorbacks,"8-0, 5-0 Conf","2-6, 0-5 Conf",48,7,ALA -32.0,57.0,Final,ESPN,17,24,7,0,,0,0,0,7,,NCAAF
+401110851,2019,"November 16, 2019",Mississippi State Bulldogs,Alabama Crimson Tide,"4-6, 2-5 Conf","9-1, 6-1 Conf",7,38,ALA -20.0,62.0,Final,ESPN,7,0,0,0,,21,14,3,0,,NCAAF
+401110720,2019,"August 31, 2019",Alabama Crimson Tide,Duke Blue Devils,1-0,0-1,42,3,ALA -34.5,57.0,Final,ABC,0,14,21,7,,0,3,0,0,,NCAAF
+401110794,2019,"September 14, 2019",South Carolina Gamecocks,Alabama Crimson Tide,"1-2, 0-1 Conf","3-0, 1-0 Conf",23,47,ALA -26.5,59.0,Final,CBS,10,0,3,10,,14,10,10,13,,NCAAF
+401110806,2019,"September 28, 2019",Alabama Crimson Tide,Ole Miss Rebels,"5-0, 2-0 Conf","2-3, 1-1 Conf",59,31,ALA -37.5,64.0,Final,CBS,7,31,14,7,,10,0,7,14,,NCAAF
+401110824,2019,"October 19, 2019",Alabama Crimson Tide,Tennessee Volunteers,"7-0, 4-0 Conf","2-5, 1-3 Conf",35,13,ALA -35.0,62.0,Final,ESPN,14,7,7,7,,7,3,3,0,,NCAAF
+401110842,2019,"November 09, 2019",Alabama Crimson Tide,LSU Tigers,"8-1, 5-1 Conf","9-0, 5-0 Conf",41,46,ALA -5.0,66.0,Final,CBS,7,6,7,21,,10,23,0,13,,NCAAF
+401110855,2019,"November 23, 2019",Alabama Crimson Tide,Western Carolina Catamounts,"10-1, 6-1 Home","3-9, 1-5 Away",66,3,,,Final,ESPN,17,21,21,7,,0,0,0,3,,NCAAF
+401110865,2019,"November 30, 2019",Auburn Tigers,Alabama Crimson Tide,"9-3, 5-3 Conf","10-2, 6-2 Conf",48,45,ALA -3.5,50.0,Final,CBS,7,20,13,8,,3,28,7,7,,NCAAF
+401135286,2019,"January 01, 2020",Alabama Crimson Tide,Michigan Wolverines,11-2,9-4,35,16,ALA -7.5,61.0,Final,ABC,7,7,7,14,,10,6,0,0,,NCAAF

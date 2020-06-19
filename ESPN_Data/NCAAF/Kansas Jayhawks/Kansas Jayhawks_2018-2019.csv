@@ -1,13 +1,13 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-401013049,2018,"Sat, Sep 8",Central Michigan Chippewas,Kansas Jayhawks,"0-2, 0-1 Home","1-1, 1-0 Away",7,31,NULL,NULL,Final,ESPN+,0,0,7,0,NULL,0,7,14,10,NULL,NCAAF
-401013029,2018,"Sat, Sep 22",Baylor Bears,Kansas Jayhawks,"3-1, 1-0 Conf","2-2, 0-1 Conf",26,7,BAY -7.5,55,Final,FS1,7,16,3,0,NULL,0,0,7,0,NULL,NCAAF
-401013051,2018,"Sat, Oct 6",West Virginia Mountaineers,Kansas Jayhawks,"5-0, 3-0 Conf","2-4, 0-3 Conf",38,22,WVU -28.0,63,Final,ESPN2,14,7,7,10,NULL,7,0,7,8,NULL,NCAAF
-401013053,2018,"Sat, Oct 27",Kansas Jayhawks,TCU Horned Frogs,"3-5, 1-4 Conf","3-5, 1-4 Conf",27,26,TCU -13.0,47,Final,FS1,7,0,10,10,NULL,0,10,7,9,NULL,NCAAF
-401013054,2018,"Sat, Nov 10",Kansas State Wildcats,Kansas Jayhawks,"4-6, 2-5 Conf","3-7, 1-6 Conf",21,17,KSU -9.0,45,Final,NULL,0,0,14,7,NULL,0,3,7,7,NULL,NCAAF
-401013048,2018,"Sat, Sep 1",Kansas Jayhawks,Nicholls Colonels,"0-1, 0-1 Home","1-0, 1-0 Away",23,26,NULL,NULL,Final/OT,ESPN+,7,3,0,10,3,7,3,7,3,6,NCAAF
-401012822,2018,"Sat, Sep 15",Kansas Jayhawks,Rutgers Scarlet Knights,"2-1, 1-1 Home","1-2, 0-2 Away",55,14,KU -1.5,44,Final,NULL,17,14,10,14,NULL,7,7,0,0,NULL,NCAAF
-401013050,2018,"Sat, Sep 29",Kansas Jayhawks,Oklahoma State Cowboys,"2-3, 0-2 Conf","4-1, 1-1 Conf",28,48,OKST -17.5,56,Final,NULL,0,7,7,14,NULL,14,10,10,14,NULL,NCAAF
-401013052,2018,"Sat, Oct 20",Texas Tech Red Raiders,Kansas Jayhawks,"5-2, 3-1 Conf","2-5, 0-4 Conf",48,16,TTU -18.0,60,Final,FS1,3,21,3,21,NULL,3,0,6,7,NULL,NCAAF
-401013045,2018,"Sat, Nov 3",Kansas Jayhawks,Iowa State Cyclones,"3-6, 1-5 Conf","5-3, 4-2 Conf",3,27,ISU -18.0,47,Final,NULL,0,3,0,0,NULL,14,6,7,0,NULL,NCAAF
-401013055,2018,"Sat, Nov 17",Oklahoma Sooners,Kansas Jayhawks,"10-1, 7-1 Conf","3-8, 1-7 Conf",55,40,OKLA -35.0,69,Final,FOX,7,14,14,20,NULL,7,3,7,23,NULL,NCAAF
-401013056,2018,"Fri, Nov 23",Kansas Jayhawks,Texas Longhorns,"3-9, 1-8 Conf","9-3, 7-2 Conf",17,24,TEX -15.5,51,Final,FS1,0,0,0,17,NULL,7,0,14,3,NULL,NCAAF
+401013049,2018,"September 08, 2018",Central Michigan Chippewas,Kansas Jayhawks,"0-2, 0-1 Home","1-1, 1-0 Away",7,31,,,Final,ESPN+,0,0,7,0,,0,7,14,10,,NCAAF
+401013029,2018,"September 22, 2018",Baylor Bears,Kansas Jayhawks,"3-1, 1-0 Conf","2-2, 0-1 Conf",26,7,BAY -7.5,55.0,Final,FS1,7,16,3,0,,0,0,7,0,,NCAAF
+401013051,2018,"October 06, 2018",West Virginia Mountaineers,Kansas Jayhawks,"5-0, 3-0 Conf","2-4, 0-3 Conf",38,22,WVU -28.0,63.0,Final,ESPN2,14,7,7,10,,7,0,7,8,,NCAAF
+401013053,2018,"October 27, 2018",Kansas Jayhawks,TCU Horned Frogs,"3-5, 1-4 Conf","3-5, 1-4 Conf",27,26,TCU -13.0,47.0,Final,FS1,7,0,10,10,,0,10,7,9,,NCAAF
+401013054,2018,"November 10, 2018",Kansas State Wildcats,Kansas Jayhawks,"4-6, 2-5 Conf","3-7, 1-6 Conf",21,17,KSU -9.0,45.0,Final,,0,0,14,7,,0,3,7,7,,NCAAF
+401013048,2018,"September 01, 2018",Kansas Jayhawks,Nicholls Colonels,"0-1, 0-1 Home","1-0, 1-0 Away",23,26,,,Final/OT,ESPN+,7,3,0,10,3.0,7,3,7,3,6.0,NCAAF
+401012822,2018,"September 15, 2018",Kansas Jayhawks,Rutgers Scarlet Knights,"2-1, 1-1 Home","1-2, 0-2 Away",55,14,KU -1.5,44.0,Final,,17,14,10,14,,7,7,0,0,,NCAAF
+401013050,2018,"September 29, 2018",Kansas Jayhawks,Oklahoma State Cowboys,"2-3, 0-2 Conf","4-1, 1-1 Conf",28,48,OKST -17.5,56.0,Final,,0,7,7,14,,14,10,10,14,,NCAAF
+401013052,2018,"October 20, 2018",Texas Tech Red Raiders,Kansas Jayhawks,"5-2, 3-1 Conf","2-5, 0-4 Conf",48,16,TTU -18.0,60.0,Final,FS1,3,21,3,21,,3,0,6,7,,NCAAF
+401013045,2018,"November 03, 2018",Kansas Jayhawks,Iowa State Cyclones,"3-6, 1-5 Conf","5-3, 4-2 Conf",3,27,ISU -18.0,47.0,Final,,0,3,0,0,,14,6,7,0,,NCAAF
+401013055,2018,"November 17, 2018",Oklahoma Sooners,Kansas Jayhawks,"10-1, 7-1 Conf","3-8, 1-7 Conf",55,40,OKLA -35.0,69.0,Final,FOX,7,14,14,20,,7,3,7,23,,NCAAF
+401013056,2018,"November 23, 2018",Kansas Jayhawks,Texas Longhorns,"3-9, 1-8 Conf","9-3, 7-2 Conf",17,24,TEX -15.5,51.0,Final,FS1,0,0,0,17,,7,0,14,3,,NCAAF

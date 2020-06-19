@@ -1,14 +1,14 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-401012734,2018,"Sat, Sep 8",Washington State Cougars,San Jose State Spartans,"2-0, 1-0 Home","0-2, 0-1 Away",31,0,NULL,NULL,Final,PAC12,14,10,0,7,NULL,0,0,0,0,NULL,NCAAF
-401012748,2018,"Fri, Sep 21",USC Trojans,Washington State Cougars,"2-2, 1-1 Conf","3-1, 0-1 Conf",39,36,USC -4.5,51,Final,ESPN,7,10,7,15,NULL,3,21,6,6,NULL,NCAAF
-401012762,2018,"Sat, Oct 6",Oregon State Beavers,Washington State Cougars,"1-5, 0-3 Conf","5-1, 2-1 Conf",37,56,WSU -18.5,65,Final,PAC12,14,10,6,7,NULL,14,14,7,21,NULL,NCAAF
-401012779,2018,"Sat, Oct 27",Stanford Cardinal,Washington State Cougars,"5-3, 3-2 Conf","7-1, 4-1 Conf",38,41,STAN -2.5,56,Final,PAC12,14,14,3,7,NULL,14,3,7,17,NULL,NCAAF
-401012788,2018,"Sat, Nov 10",Colorado Buffaloes,Washington State Cougars,"5-5, 2-5 Conf","9-1, 6-1 Conf",7,31,WSU -5.5,60,Final,ESPN,7,0,0,0,NULL,0,10,7,14,NULL,NCAAF
-401012683,2018,"Sat, Sep 1",Wyoming Cowboys,Washington State Cougars,"1-1, 0-1 Home","1-0, 1-0 Away",19,41,WSU -3.0,45,Final,CBSSN,2,14,3,0,NULL,10,3,7,21,NULL,NCAAF
-401012745,2018,"Sat, Sep 15",Washington State Cougars,Eastern Washington Eagles,"3-0, 2-0 Home","2-1, 1-1 Away",59,24,NULL,NULL,Final,PAC12,14,14,7,24,NULL,0,10,14,0,NULL,NCAAF
-401012756,2018,"Sat, Sep 29",Washington State Cougars,Utah Utes,"4-1, 1-1 Conf","2-2, 0-2 Conf",28,24,UTAH -1.5,50,Final,PAC12,7,14,0,7,NULL,14,7,3,0,NULL,NCAAF
-401012773,2018,"Sat, Oct 20",Washington State Cougars,Oregon Ducks,"6-1, 3-1 Conf","5-2, 2-2 Conf",34,20,WSU -3.0,70,Final,FOX,7,20,0,7,NULL,0,0,17,3,NULL,NCAAF
-401012785,2018,"Sat, Nov 3",Washington State Cougars,California Golden Bears,"8-1, 5-1 Conf","5-4, 2-4 Conf",19,13,WSU -7.5,52,Final,ESPN,3,10,0,6,NULL,0,10,3,0,NULL,NCAAF
-401012795,2018,"Sat, Nov 17",Washington State Cougars,Arizona Wildcats,"10-1, 7-1 Conf","5-6, 4-4 Conf",69,28,WSU -10.5,65,Final,ESPN,21,34,0,14,NULL,7,7,14,0,NULL,NCAAF
-401012798,2018,"Fri, Nov 23",Washington State Cougars,Washington Huskies,"10-2, 7-2 Conf","9-3, 7-2 Conf",15,28,WSU -3.0,51,Final,FOX,0,7,8,0,NULL,7,7,6,8,NULL,NCAAF
-401032075,2018,"Fri, Dec 28",Washington State Cougars,Iowa State Cyclones,11-2,8-5,28,26,WSU -2.0,57,Final,ESPN,7,14,0,7,NULL,0,10,10,6,NULL,NCAAF
+401012734,2018,"September 08, 2018",Washington State Cougars,San Jose State Spartans,"2-0, 1-0 Home","0-2, 0-1 Away",31,0,,,Final,PAC12,14,10,0,7,,0,0,0,0,,NCAAF
+401012748,2018,"September 21, 2018",USC Trojans,Washington State Cougars,"2-2, 1-1 Conf","3-1, 0-1 Conf",39,36,USC -4.5,51.0,Final,ESPN,7,10,7,15,,3,21,6,6,,NCAAF
+401012762,2018,"October 06, 2018",Oregon State Beavers,Washington State Cougars,"1-5, 0-3 Conf","5-1, 2-1 Conf",37,56,WSU -18.5,65.0,Final,PAC12,14,10,6,7,,14,14,7,21,,NCAAF
+401012779,2018,"October 27, 2018",Stanford Cardinal,Washington State Cougars,"5-3, 3-2 Conf","7-1, 4-1 Conf",38,41,STAN -2.5,56.0,Final,PAC12,14,14,3,7,,14,3,7,17,,NCAAF
+401012788,2018,"November 10, 2018",Colorado Buffaloes,Washington State Cougars,"5-5, 2-5 Conf","9-1, 6-1 Conf",7,31,WSU -5.5,60.0,Final,ESPN,7,0,0,0,,0,10,7,14,,NCAAF
+401012683,2018,"September 01, 2018",Wyoming Cowboys,Washington State Cougars,"1-1, 0-1 Home","1-0, 1-0 Away",19,41,WSU -3.0,45.0,Final,CBSSN,2,14,3,0,,10,3,7,21,,NCAAF
+401012745,2018,"September 15, 2018",Washington State Cougars,Eastern Washington Eagles,"3-0, 2-0 Home","2-1, 1-1 Away",59,24,,,Final,PAC12,14,14,7,24,,0,10,14,0,,NCAAF
+401012756,2018,"September 29, 2018",Washington State Cougars,Utah Utes,"4-1, 1-1 Conf","2-2, 0-2 Conf",28,24,UTAH -1.5,50.0,Final,PAC12,7,14,0,7,,14,7,3,0,,NCAAF
+401012773,2018,"October 20, 2018",Washington State Cougars,Oregon Ducks,"6-1, 3-1 Conf","5-2, 2-2 Conf",34,20,WSU -3.0,70.0,Final,FOX,7,20,0,7,,0,0,17,3,,NCAAF
+401012785,2018,"November 03, 2018",Washington State Cougars,California Golden Bears,"8-1, 5-1 Conf","5-4, 2-4 Conf",19,13,WSU -7.5,52.0,Final,ESPN,3,10,0,6,,0,10,3,0,,NCAAF
+401012795,2018,"November 17, 2018",Washington State Cougars,Arizona Wildcats,"10-1, 7-1 Conf","5-6, 4-4 Conf",69,28,WSU -10.5,65.0,Final,ESPN,21,34,0,14,,7,7,14,0,,NCAAF
+401012798,2018,"November 23, 2018",Washington State Cougars,Washington Huskies,"10-2, 7-2 Conf","9-3, 7-2 Conf",15,28,WSU -3.0,51.0,Final,FOX,0,7,8,0,,7,7,6,8,,NCAAF
+401032075,2018,"December 28, 2018",Washington State Cougars,Iowa State Cyclones,11-2,8-5,28,26,WSU -2.0,57.0,Final,ESPN,7,14,0,7,,0,10,10,6,,NCAAF

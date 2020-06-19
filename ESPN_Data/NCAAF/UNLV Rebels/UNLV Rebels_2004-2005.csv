@@ -1,12 +1,12 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-242550275,2004,"Sat, Sep 11",Wisconsin Badgers,Unlv Rebels,"2-0, 0-0 Conf","0-2, 0-0 Conf",18,3,NULL,NULL,Final,ESPN,2,7,2,7,NULL,0,0,3,0,NULL,NCAAF
-242692439,2004,"Sat, Sep 25",Unlv Rebels,Utah State Aggies,"0-4, 0-2 Home","2-2, 1-1 Away",21,31,NULL,NULL,Final,NULL,7,7,7,0,NULL,6,7,8,10,NULL,NCAAF
-242820252,2004,"Fri, Oct 8",BYU Cougars,Unlv Rebels,"2-4, 1-1 Conf","2-4, 1-1 Conf",20,24,NULL,NULL,Final,ESPN2,0,10,10,0,NULL,0,7,14,3,NULL,NCAAF
-242970254,2004,"Sat, Oct 23",Utah Utes,Unlv Rebels,"7-0, 3-0 Conf","2-6, 1-3 Conf",63,28,NULL,NULL,Final,NULL,28,14,21,0,NULL,7,7,7,7,NULL,NCAAF
-243180036,2004,"Sat, Nov 13",Colorado State Rams,Unlv Rebels,"4-6, 3-3 Conf","2-8, 1-5 Conf",45,10,NULL,NULL,Final,NULL,24,14,7,0,NULL,0,3,0,7,NULL,NCAAF
-242492633,2004,"Sun, Sep 5",Tennessee Volunteers,Unlv Rebels,"1-0, 1-0 Home","0-1, 0-1 Away",42,17,NULL,NULL,Final,ESPN2,14,7,7,14,NULL,3,0,7,7,NULL,NCAAF
-242622439,2004,"Sat, Sep 18",Unlv Rebels,Air Force Falcons,"0-3, 0-1 Conf","2-1, 1-0 Conf",10,27,NULL,NULL,Final,NULL,0,7,3,0,NULL,3,14,7,3,NULL,NCAAF
-242762439,2004,"Sat, Oct 2",Unlv Rebels,Nevada Wolf Pack,"1-4, 1-2 Home","2-3, 0-3 Away",48,13,NULL,NULL,Final,NULL,3,10,7,28,NULL,3,3,0,7,NULL,NCAAF
-242902439,2004,"Sat, Oct 16",Unlv Rebels,New Mexico Lobos,"2-5, 1-2 Conf","3-4, 1-2 Conf",20,24,NULL,NULL,Final,NULL,10,7,0,3,NULL,7,3,14,0,NULL,NCAAF
-243112439,2004,"Sat, Nov 6",Unlv Rebels,Wyoming Cowboys,"2-7, 1-4 Conf","6-3, 3-2 Conf",45,53,NULL,NULL,Final/OT,NULL,7,7,0,17,14,10,0,14,7,22,NCAAF
-243250021,2004,"Sat, Nov 20",San Diego State Aztecs,Unlv Rebels,"4-7, 2-5 Conf","2-9, 1-6 Conf",21,3,NULL,NULL,Final,NULL,0,14,7,0,NULL,0,3,0,0,NULL,NCAAF
+242550275,2004,"September 11, 2004",Wisconsin Badgers,Unlv Rebels,"2-0, 0-0 Conf","0-2, 0-0 Conf",18,3,,,Final,ESPN,2,7,2,7,,0,0,3,0,,NCAAF
+242692439,2004,"September 25, 2004",Unlv Rebels,Utah State Aggies,"0-4, 0-2 Home","2-2, 1-1 Away",21,31,,,Final,,7,7,7,0,,6,7,8,10,,NCAAF
+242820252,2004,"October 08, 2004",BYU Cougars,Unlv Rebels,"2-4, 1-1 Conf","2-4, 1-1 Conf",20,24,,,Final,ESPN2,0,10,10,0,,0,7,14,3,,NCAAF
+242970254,2004,"October 23, 2004",Utah Utes,Unlv Rebels,"7-0, 3-0 Conf","2-6, 1-3 Conf",63,28,,,Final,,28,14,21,0,,7,7,7,7,,NCAAF
+243180036,2004,"November 13, 2004",Colorado State Rams,Unlv Rebels,"4-6, 3-3 Conf","2-8, 1-5 Conf",45,10,,,Final,,24,14,7,0,,0,3,0,7,,NCAAF
+242492633,2004,"September 05, 2004",Tennessee Volunteers,Unlv Rebels,"1-0, 1-0 Home","0-1, 0-1 Away",42,17,,,Final,ESPN2,14,7,7,14,,3,0,7,7,,NCAAF
+242622439,2004,"September 18, 2004",Unlv Rebels,Air Force Falcons,"0-3, 0-1 Conf","2-1, 1-0 Conf",10,27,,,Final,,0,7,3,0,,3,14,7,3,,NCAAF
+242762439,2004,"October 02, 2004",Unlv Rebels,Nevada Wolf Pack,"1-4, 1-2 Home","2-3, 0-3 Away",48,13,,,Final,,3,10,7,28,,3,3,0,7,,NCAAF
+242902439,2004,"October 16, 2004",Unlv Rebels,New Mexico Lobos,"2-5, 1-2 Conf","3-4, 1-2 Conf",20,24,,,Final,,10,7,0,3,,7,3,14,0,,NCAAF
+243112439,2004,"November 06, 2004",Unlv Rebels,Wyoming Cowboys,"2-7, 1-4 Conf","6-3, 3-2 Conf",45,53,,,Final/OT,,7,7,0,17,14.0,10,0,14,7,22.0,NCAAF
+243250021,2004,"November 20, 2004",San Diego State Aztecs,Unlv Rebels,"4-7, 2-5 Conf","2-9, 1-6 Conf",21,3,,,Final,,0,14,7,0,,0,3,0,0,,NCAAF

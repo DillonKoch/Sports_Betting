@@ -1,15 +1,15 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-322520026,2012,"Sat, Sep 8",UCLA Bruins,Nebraska Cornhuskers,"2-0, 1-0 Home","1-1, 0-1 Away",36,30,NULL,NULL,Final,FOX,7,17,3,9,NULL,14,10,3,3,NULL,NCAAF
-322660026,2012,"Sat, Sep 22",UCLA Bruins,Oregon State Beavers,"3-1, 0-1 Conf","2-0, 1-0 Conf",20,27,NULL,NULL,Final,ABC/ESPN2,0,10,0,10,NULL,3,14,7,3,NULL,NCAAF
-322800025,2012,"Sat, Oct 6",California Golden Bears,UCLA Bruins,"2-4, 1-2 Conf","4-2, 1-2 Conf",43,17,NULL,NULL,Final,PAC12,3,13,13,14,NULL,7,0,7,3,NULL,NCAAF
-323010009,2012,"Sat, Oct 27",Arizona State Sun Devils,UCLA Bruins,"5-3, 3-2 Conf","6-2, 3-2 Conf",43,45,NULL,NULL,Final,FX,14,3,9,17,NULL,14,7,14,10,NULL,NCAAF
-323150265,2012,"Sat, Nov 10",Washington State Cougars,UCLA Bruins,"2-8, 0-7 Conf","8-2, 5-2 Conf",36,44,NULL,NULL,Final,ESPN2,7,0,14,15,NULL,7,30,7,0,NULL,NCAAF
-323290026,2012,"Sat, Nov 24",UCLA Bruins,Stanford Cardinal,"9-3, 6-3 Conf","10-2, 8-1 Conf",17,35,NULL,NULL,Final,FOX,7,3,7,0,NULL,7,14,14,0,NULL,NCAAF
-322430242,2012,"Thu, Aug 30",Rice Owls,UCLA Bruins,"0-1, 0-1 Home","1-0, 1-0 Away",24,49,NULL,NULL,Final,CBSSN,10,14,0,0,NULL,19,16,0,14,NULL,NCAAF
-322590026,2012,"Sat, Sep 15",UCLA Bruins,Houston Cougars,"3-0, 2-0 Home","0-3, 0-1 Away",37,6,NULL,NULL,Final,PAC12,14,3,13,7,NULL,0,0,0,6,NULL,NCAAF
-322730038,2012,"Sat, Sep 29",Colorado Buffaloes,UCLA Bruins,"1-4, 1-1 Conf","4-1, 1-1 Conf",14,42,NULL,NULL,Final,PAC12,0,7,0,7,NULL,7,14,7,14,NULL,NCAAF
-322870026,2012,"Sat, Oct 13",UCLA Bruins,Utah Utes,"5-2, 2-2 Conf","2-4, 0-3 Conf",21,14,NULL,NULL,Final,FOX,14,0,7,0,NULL,7,0,0,7,NULL,NCAAF
-323080026,2012,"Sat, Nov 3",UCLA Bruins,Arizona Wildcats,"7-2, 4-2 Conf","5-4, 2-4 Conf",66,10,NULL,NULL,Final,PAC12,21,21,10,14,NULL,0,3,7,0,NULL,NCAAF
-323220026,2012,"Sat, Nov 17",UCLA Bruins,USC Trojans,"9-2, 6-2 Conf","7-4, 5-4 Conf",38,28,NULL,NULL,Final,FOX,17,7,7,7,NULL,0,14,6,8,NULL,NCAAF
-323620026,2012,"Thu, Dec 27",UCLA Bruins,Baylor Bears,9-5,8-5,26,49,NULL,NULL,Final,ESPN/ESPN3D,0,10,3,13,NULL,14,21,7,7,NULL,NCAAF
-323350024,2012,"Fri, Nov 30",Stanford Cardinal,UCLA Bruins,"11-2, 8-1 Conf","9-4, 6-3 Conf",27,24,NULL,NULL,Final,FOX,7,10,0,10,NULL,14,0,10,0,NULL,NCAAF
+322520026,2012,"September 08, 2012",UCLA Bruins,Nebraska Cornhuskers,"2-0, 1-0 Home","1-1, 0-1 Away",36,30,,,Final,FOX,7,17,3,9,,14,10,3,3,,NCAAF
+322660026,2012,"September 22, 2012",UCLA Bruins,Oregon State Beavers,"3-1, 0-1 Conf","2-0, 1-0 Conf",20,27,,,Final,ABC/ESPN2,0,10,0,10,,3,14,7,3,,NCAAF
+322800025,2012,"October 06, 2012",California Golden Bears,UCLA Bruins,"2-4, 1-2 Conf","4-2, 1-2 Conf",43,17,,,Final,PAC12,3,13,13,14,,7,0,7,3,,NCAAF
+323010009,2012,"October 27, 2012",Arizona State Sun Devils,UCLA Bruins,"5-3, 3-2 Conf","6-2, 3-2 Conf",43,45,,,Final,FX,14,3,9,17,,14,7,14,10,,NCAAF
+323150265,2012,"November 10, 2012",Washington State Cougars,UCLA Bruins,"2-8, 0-7 Conf","8-2, 5-2 Conf",36,44,,,Final,ESPN2,7,0,14,15,,7,30,7,0,,NCAAF
+323290026,2012,"November 24, 2012",UCLA Bruins,Stanford Cardinal,"9-3, 6-3 Conf","10-2, 8-1 Conf",17,35,,,Final,FOX,7,3,7,0,,7,14,14,0,,NCAAF
+322430242,2012,"August 30, 2012",Rice Owls,UCLA Bruins,"0-1, 0-1 Home","1-0, 1-0 Away",24,49,,,Final,CBSSN,10,14,0,0,,19,16,0,14,,NCAAF
+322590026,2012,"September 15, 2012",UCLA Bruins,Houston Cougars,"3-0, 2-0 Home","0-3, 0-1 Away",37,6,,,Final,PAC12,14,3,13,7,,0,0,0,6,,NCAAF
+322730038,2012,"September 29, 2012",Colorado Buffaloes,UCLA Bruins,"1-4, 1-1 Conf","4-1, 1-1 Conf",14,42,,,Final,PAC12,0,7,0,7,,7,14,7,14,,NCAAF
+322870026,2012,"October 13, 2012",UCLA Bruins,Utah Utes,"5-2, 2-2 Conf","2-4, 0-3 Conf",21,14,,,Final,FOX,14,0,7,0,,7,0,0,7,,NCAAF
+323080026,2012,"November 03, 2012",UCLA Bruins,Arizona Wildcats,"7-2, 4-2 Conf","5-4, 2-4 Conf",66,10,,,Final,PAC12,21,21,10,14,,0,3,7,0,,NCAAF
+323220026,2012,"November 17, 2012",UCLA Bruins,USC Trojans,"9-2, 6-2 Conf","7-4, 5-4 Conf",38,28,,,Final,FOX,17,7,7,7,,0,14,6,8,,NCAAF
+323620026,2012,"December 27, 2012",UCLA Bruins,Baylor Bears,9-5,8-5,26,49,,,Final,ESPN/ESPN3D,0,10,3,13,,14,21,7,7,,NCAAF
+323350024,2012,"November 30, 2012",Stanford Cardinal,UCLA Bruins,"11-2, 8-1 Conf","9-4, 6-3 Conf",27,24,,,Final,FOX,7,10,0,10,,14,0,10,0,,NCAAF

@@ -1,14 +1,14 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-400548396,2014,"Sat, Sep 6",Tennessee Volunteers,Arkansas State Red Wolves,"2-0, 2-0 Home","1-1, 0-1 Away",34,19,NULL,NULL,Final,SECN,10,14,7,3,NULL,6,6,0,7,NULL,NCAAF
-400548381,2014,"Sat, Sep 27",Georgia Bulldogs,Tennessee Volunteers,"3-1, 1-1 Conf","2-2, 0-1 Conf",35,32,NULL,NULL,Final,ESPN,7,14,0,14,NULL,10,7,0,15,NULL,NCAAF
-400548371,2014,"Sat, Oct 11",Tennessee Volunteers,Chattanooga Mocs,"3-3, 3-1 Home","3-3, 1-2 Away",45,10,NULL,NULL,Final,SECN,7,17,14,7,NULL,0,3,0,7,NULL,NCAAF
-400548357,2014,"Sat, Oct 25",Tennessee Volunteers,Alabama Crimson Tide,"3-5, 0-4 Conf","7-1, 4-1 Conf",20,34,NULL,NULL,Final,ESPN2,0,10,7,3,NULL,20,7,7,0,NULL,NCAAF
-400548340,2014,"Sat, Nov 15",Tennessee Volunteers,Kentucky Wildcats,"5-5, 2-4 Conf","5-6, 2-6 Conf",50,16,NULL,NULL,Final,SECN,14,19,17,0,NULL,3,10,3,0,NULL,NCAAF
-400548178,2014,"Sun, Aug 31",Tennessee Volunteers,Utah State Aggies,"1-0, 1-0 Home","0-1, 0-1 Away",38,7,NULL,NULL,Final,SECN,14,3,7,14,NULL,0,0,0,7,NULL,NCAAF
-400547850,2014,"Sat, Sep 13",Oklahoma Sooners,Tennessee Volunteers,"3-0, 2-0 Home","2-1, 0-1 Away",34,10,NULL,NULL,Final,ABC,13,7,7,7,NULL,0,7,3,0,NULL,NCAAF
-400548376,2014,"Sat, Oct 4",Tennessee Volunteers,Florida Gators,"2-3, 0-2 Conf","3-1, 2-1 Conf",9,10,NULL,NULL,Final,SECN,0,3,6,0,NULL,0,0,0,10,NULL,NCAAF
-400548361,2014,"Sat, Oct 18",Ole Miss Rebels,Tennessee Volunteers,"7-0, 4-0 Conf","3-4, 0-3 Conf",34,3,NULL,NULL,Final,ESPN,0,14,10,10,NULL,0,3,0,0,NULL,NCAAF
-400548352,2014,"Sat, Nov 1",South Carolina Gamecocks,Tennessee Volunteers,"4-5, 2-5 Conf","4-5, 1-4 Conf",42,45,NULL,NULL,Final/OT,SECN,7,7,14,14,0,7,14,0,21,3,NCAAF
-400548334,2014,"Sat, Nov 22",Tennessee Volunteers,Missouri Tigers,"5-6, 2-5 Conf","9-2, 6-1 Conf",21,29,NULL,NULL,Final,ESPN,3,10,0,8,NULL,7,6,3,13,NULL,NCAAF
-400548326,2014,"Sat, Nov 29",Vanderbilt Commodores,Tennessee Volunteers,"3-9, 0-8 Conf","6-6, 3-5 Conf",17,24,NULL,NULL,Final,SECN,0,10,7,0,NULL,10,7,7,0,NULL,NCAAF
-400610224,2014,"Fri, Jan 2",Tennessee Volunteers,Iowa Hawkeyes,7-6,7-6,45,28,NULL,NULL,Final,ESPN,21,14,7,3,NULL,0,7,0,21,NULL,NCAAF
+400548396,2014,"September 06, 2014",Tennessee Volunteers,Arkansas State Red Wolves,"2-0, 2-0 Home","1-1, 0-1 Away",34,19,,,Final,SECN,10,14,7,3,,6,6,0,7,,NCAAF
+400548381,2014,"September 27, 2014",Georgia Bulldogs,Tennessee Volunteers,"3-1, 1-1 Conf","2-2, 0-1 Conf",35,32,,,Final,ESPN,7,14,0,14,,10,7,0,15,,NCAAF
+400548371,2014,"October 11, 2014",Tennessee Volunteers,Chattanooga Mocs,"3-3, 3-1 Home","3-3, 1-2 Away",45,10,,,Final,SECN,7,17,14,7,,0,3,0,7,,NCAAF
+400548357,2014,"October 25, 2014",Tennessee Volunteers,Alabama Crimson Tide,"3-5, 0-4 Conf","7-1, 4-1 Conf",20,34,,,Final,ESPN2,0,10,7,3,,20,7,7,0,,NCAAF
+400548340,2014,"November 15, 2014",Tennessee Volunteers,Kentucky Wildcats,"5-5, 2-4 Conf","5-6, 2-6 Conf",50,16,,,Final,SECN,14,19,17,0,,3,10,3,0,,NCAAF
+400548178,2014,"August 31, 2014",Tennessee Volunteers,Utah State Aggies,"1-0, 1-0 Home","0-1, 0-1 Away",38,7,,,Final,SECN,14,3,7,14,,0,0,0,7,,NCAAF
+400547850,2014,"September 13, 2014",Oklahoma Sooners,Tennessee Volunteers,"3-0, 2-0 Home","2-1, 0-1 Away",34,10,,,Final,ABC,13,7,7,7,,0,7,3,0,,NCAAF
+400548376,2014,"October 04, 2014",Tennessee Volunteers,Florida Gators,"2-3, 0-2 Conf","3-1, 2-1 Conf",9,10,,,Final,SECN,0,3,6,0,,0,0,0,10,,NCAAF
+400548361,2014,"October 18, 2014",Ole Miss Rebels,Tennessee Volunteers,"7-0, 4-0 Conf","3-4, 0-3 Conf",34,3,,,Final,ESPN,0,14,10,10,,0,3,0,0,,NCAAF
+400548352,2014,"November 01, 2014",South Carolina Gamecocks,Tennessee Volunteers,"4-5, 2-5 Conf","4-5, 1-4 Conf",42,45,,,Final/OT,SECN,7,7,14,14,0.0,7,14,0,21,3.0,NCAAF
+400548334,2014,"November 22, 2014",Tennessee Volunteers,Missouri Tigers,"5-6, 2-5 Conf","9-2, 6-1 Conf",21,29,,,Final,ESPN,3,10,0,8,,7,6,3,13,,NCAAF
+400548326,2014,"November 29, 2014",Vanderbilt Commodores,Tennessee Volunteers,"3-9, 0-8 Conf","6-6, 3-5 Conf",17,24,,,Final,SECN,0,10,7,0,,10,7,7,0,,NCAAF
+400610224,2014,"January 02, 2015",Tennessee Volunteers,Iowa Hawkeyes,7-6,7-6,45,28,,,Final,ESPN,21,14,7,3,,0,7,0,21,,NCAAF

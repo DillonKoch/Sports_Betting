@@ -1,13 +1,13 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-400547653,2014,"Sat, Sep 6",North Texas Mean Green,SMU Mustangs,"1-1, 1-0 Home","0-2, 0-2 Away",43,6,NULL,NULL,Final,NULL,3,20,6,14,NULL,0,0,0,6,NULL,NCAAF
-400547677,2014,"Sat, Sep 27",SMU Mustangs,TCU Horned Frogs,"0-4, 0-2 Home","3-0, 1-0 Away",0,56,NULL,NULL,Final,CBSSN,0,0,0,0,NULL,7,21,21,7,NULL,NCAAF
-400547693,2014,"Sat, Oct 18",SMU Mustangs,Cincinnati Bearcats,"0-6, 0-2 Conf","3-3, 1-1 Conf",3,41,NULL,NULL,Final,CBSSN,3,0,0,0,NULL,6,22,3,10,NULL,NCAAF
-400547708,2014,"Sat, Nov 8",Tulsa Golden Hurricane,SMU Mustangs,"2-7, 2-3 Conf","0-8, 0-4 Conf",38,28,NULL,NULL,Final,CBSSN,14,14,7,3,NULL,13,0,0,15,NULL,NCAAF
-400547714,2014,"Sat, Nov 22",UCF Knights,SMU Mustangs,"7-3, 5-1 Conf","0-10, 0-6 Conf",53,7,NULL,NULL,Final,ESPNN,27,10,6,10,NULL,0,7,0,0,NULL,NCAAF
-400547648,2014,"Sun, Aug 31",Baylor Bears,SMU Mustangs,"1-0, 1-0 Home","0-1, 0-1 Away",45,0,NULL,NULL,Final,FS1,24,7,7,7,NULL,0,0,0,0,NULL,NCAAF
-400547671,2014,"Sat, Sep 20",SMU Mustangs,Texas A&M Aggies,"0-3, 0-1 Home","4-0, 2-0 Away",6,58,NULL,NULL,Final,ABC/ESPN2,0,3,0,3,NULL,17,21,10,10,NULL,NCAAF
-400547684,2014,"Sat, Oct 4",East Carolina Pirates,SMU Mustangs,"4-1, 1-0 Conf","0-5, 0-1 Conf",45,24,NULL,NULL,Final,ESPNU,14,14,7,10,NULL,0,7,17,0,NULL,NCAAF
-400547699,2014,"Sat, Oct 25",SMU Mustangs,Memphis Tigers,"0-7, 0-3 Conf","4-3, 2-1 Conf",10,48,NULL,NULL,Final,ESPNN,0,7,3,0,NULL,7,24,10,7,NULL,NCAAF
-400547712,2014,"Sat, Nov 15",SMU Mustangs,South Florida Bulls,"0-9, 0-5 Conf","4-6, 3-3 Conf",13,14,NULL,NULL,Final,CBSSN,0,13,0,0,NULL,0,0,0,14,NULL,NCAAF
-400547721,2014,"Fri, Nov 28",SMU Mustangs,Houston Cougars,"0-11, 0-7 Conf","7-4, 5-2 Conf",9,35,NULL,NULL,Final,CBSSN,0,9,0,0,NULL,7,0,21,7,NULL,NCAAF
-400547726,2014,"Sat, Dec 6",Connecticut Huskies,SMU Mustangs,"2-10, 1-7 Conf","1-11, 1-7 Conf",20,27,NULL,NULL,Final,CBSSN,6,14,0,0,NULL,6,0,14,7,NULL,NCAAF
+400547653,2014,"September 06, 2014",North Texas Mean Green,SMU Mustangs,"1-1, 1-0 Home","0-2, 0-2 Away",43,6,,,Final,,3,20,6,14,,0,0,0,6,,NCAAF
+400547677,2014,"September 27, 2014",SMU Mustangs,TCU Horned Frogs,"0-4, 0-2 Home","3-0, 1-0 Away",0,56,,,Final,CBSSN,0,0,0,0,,7,21,21,7,,NCAAF
+400547693,2014,"October 18, 2014",SMU Mustangs,Cincinnati Bearcats,"0-6, 0-2 Conf","3-3, 1-1 Conf",3,41,,,Final,CBSSN,3,0,0,0,,6,22,3,10,,NCAAF
+400547708,2014,"November 08, 2014",Tulsa Golden Hurricane,SMU Mustangs,"2-7, 2-3 Conf","0-8, 0-4 Conf",38,28,,,Final,CBSSN,14,14,7,3,,13,0,0,15,,NCAAF
+400547714,2014,"November 22, 2014",UCF Knights,SMU Mustangs,"7-3, 5-1 Conf","0-10, 0-6 Conf",53,7,,,Final,ESPNN,27,10,6,10,,0,7,0,0,,NCAAF
+400547648,2014,"August 31, 2014",Baylor Bears,SMU Mustangs,"1-0, 1-0 Home","0-1, 0-1 Away",45,0,,,Final,FS1,24,7,7,7,,0,0,0,0,,NCAAF
+400547671,2014,"September 20, 2014",SMU Mustangs,Texas A&M Aggies,"0-3, 0-1 Home","4-0, 2-0 Away",6,58,,,Final,ABC/ESPN2,0,3,0,3,,17,21,10,10,,NCAAF
+400547684,2014,"October 04, 2014",East Carolina Pirates,SMU Mustangs,"4-1, 1-0 Conf","0-5, 0-1 Conf",45,24,,,Final,ESPNU,14,14,7,10,,0,7,17,0,,NCAAF
+400547699,2014,"October 25, 2014",SMU Mustangs,Memphis Tigers,"0-7, 0-3 Conf","4-3, 2-1 Conf",10,48,,,Final,ESPNN,0,7,3,0,,7,24,10,7,,NCAAF
+400547712,2014,"November 15, 2014",SMU Mustangs,South Florida Bulls,"0-9, 0-5 Conf","4-6, 3-3 Conf",13,14,,,Final,CBSSN,0,13,0,0,,0,0,0,14,,NCAAF
+400547721,2014,"November 28, 2014",SMU Mustangs,Houston Cougars,"0-11, 0-7 Conf","7-4, 5-2 Conf",9,35,,,Final,CBSSN,0,9,0,0,,7,0,21,7,,NCAAF
+400547726,2014,"December 06, 2014",Connecticut Huskies,SMU Mustangs,"2-10, 1-7 Conf","1-11, 1-7 Conf",20,27,,,Final,CBSSN,6,14,0,0,,6,0,14,7,,NCAAF

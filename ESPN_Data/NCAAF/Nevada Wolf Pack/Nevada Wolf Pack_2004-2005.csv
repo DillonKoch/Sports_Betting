@@ -1,13 +1,13 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-242552440,2004,"Sat, Sep 11",Nevada Wolf Pack,Sacramento State Hornets,"1-1, 1-0 Home","0-1, 0-1 Away",59,7,NULL,NULL,Final,NULL,7,21,17,14,NULL,0,0,0,7,NULL,NCAAF
-242690021,2004,"Sat, Sep 25",San Diego State Aztecs,Nevada Wolf Pack,"2-1, 2-0 Home","2-2, 0-2 Away",27,10,NULL,NULL,Final,NULL,14,3,0,10,NULL,0,3,0,7,NULL,NCAAF
-242830062,2004,"Sun, Oct 10",Hawai'i Rainbow Warriors,Nevada Wolf Pack,"2-2, 2-1 Conf","2-4, 0-2 Conf",48,26,NULL,NULL,Final,NULL,14,10,17,7,NULL,10,3,0,13,NULL,NCAAF
-242972440,2004,"Sat, Oct 23",Nevada Wolf Pack,Tulsa Golden Hurricane,"4-4, 2-2 Conf","1-6, 0-3 Conf",54,48,NULL,NULL,Final/3OT,NULL,0,13,14,14,13,6,7,7,21,7,NCAAF
-243182567,2004,"Sat, Nov 13",SMU Mustangs,Nevada Wolf Pack,"3-7, 3-4 Conf","5-5, 3-3 Conf",38,20,NULL,NULL,Final,NULL,10,0,28,0,NULL,3,3,14,0,NULL,NCAAF
-242502348,2004,"Mon, Sep 6",Louisiana Tech Bulldogs,Nevada Wolf Pack,"1-0, 1-0 Conf","0-1, 0-1 Conf",38,21,NULL,NULL,Final,ESPN2,7,14,10,7,NULL,0,0,7,14,NULL,NCAAF
-242622440,2004,"Sat, Sep 18",Nevada Wolf Pack,Buffalo Bulls,"2-1, 2-0 Home","0-3, 0-2 Away",38,13,NULL,NULL,Final,NULL,0,14,7,17,NULL,7,0,6,0,NULL,NCAAF
-242762439,2004,"Sat, Oct 2",Unlv Rebels,Nevada Wolf Pack,"1-4, 1-2 Home","2-3, 0-3 Away",48,13,NULL,NULL,Final,NULL,3,10,7,28,NULL,3,3,0,7,NULL,NCAAF
-242902440,2004,"Sat, Oct 16",Nevada Wolf Pack,Rice Owls,"3-4, 1-2 Conf","3-3, 2-2 Conf",35,10,NULL,NULL,Final,NULL,14,7,0,14,NULL,3,0,0,7,NULL,NCAAF
-243112440,2004,"Sat, Nov 6",Nevada Wolf Pack,San Jose State Spartans,"5-4, 3-2 Conf","2-6, 1-4 Conf",42,24,NULL,NULL,Final,NULL,7,7,14,14,NULL,0,0,10,14,NULL,NCAAF
-243250278,2004,"Sat, Nov 20",Fresno State Bulldogs,Nevada Wolf Pack,"7-3, 4-3 Conf","5-6, 3-4 Conf",54,17,NULL,NULL,Final,NULL,13,20,14,7,NULL,7,3,7,0,NULL,NCAAF
-243322440,2004,"Sat, Nov 27",Nevada Wolf Pack,Boise State Broncos,"5-7, 3-5 Conf","11-0, 8-0 Conf",21,58,NULL,NULL,Final,NULL,0,7,7,7,NULL,14,14,20,10,NULL,NCAAF
+242552440,2004,"September 11, 2004",Nevada Wolf Pack,Sacramento State Hornets,"1-1, 1-0 Home","0-1, 0-1 Away",59,7,,,Final,,7,21,17,14,,0,0,0,7,,NCAAF
+242690021,2004,"September 25, 2004",San Diego State Aztecs,Nevada Wolf Pack,"2-1, 2-0 Home","2-2, 0-2 Away",27,10,,,Final,,14,3,0,10,,0,3,0,7,,NCAAF
+242830062,2004,"October 10, 2004",Hawai'i Rainbow Warriors,Nevada Wolf Pack,"2-2, 2-1 Conf","2-4, 0-2 Conf",48,26,,,Final,,14,10,17,7,,10,3,0,13,,NCAAF
+242972440,2004,"October 23, 2004",Nevada Wolf Pack,Tulsa Golden Hurricane,"4-4, 2-2 Conf","1-6, 0-3 Conf",54,48,,,Final/3OT,,0,13,14,14,13.0,6,7,7,21,7.0,NCAAF
+243182567,2004,"November 13, 2004",SMU Mustangs,Nevada Wolf Pack,"3-7, 3-4 Conf","5-5, 3-3 Conf",38,20,,,Final,,10,0,28,0,,3,3,14,0,,NCAAF
+242502348,2004,"September 06, 2004",Louisiana Tech Bulldogs,Nevada Wolf Pack,"1-0, 1-0 Conf","0-1, 0-1 Conf",38,21,,,Final,ESPN2,7,14,10,7,,0,0,7,14,,NCAAF
+242622440,2004,"September 18, 2004",Nevada Wolf Pack,Buffalo Bulls,"2-1, 2-0 Home","0-3, 0-2 Away",38,13,,,Final,,0,14,7,17,,7,0,6,0,,NCAAF
+242762439,2004,"October 02, 2004",Unlv Rebels,Nevada Wolf Pack,"1-4, 1-2 Home","2-3, 0-3 Away",48,13,,,Final,,3,10,7,28,,3,3,0,7,,NCAAF
+242902440,2004,"October 16, 2004",Nevada Wolf Pack,Rice Owls,"3-4, 1-2 Conf","3-3, 2-2 Conf",35,10,,,Final,,14,7,0,14,,3,0,0,7,,NCAAF
+243112440,2004,"November 06, 2004",Nevada Wolf Pack,San Jose State Spartans,"5-4, 3-2 Conf","2-6, 1-4 Conf",42,24,,,Final,,7,7,14,14,,0,0,10,14,,NCAAF
+243250278,2004,"November 20, 2004",Fresno State Bulldogs,Nevada Wolf Pack,"7-3, 4-3 Conf","5-6, 3-4 Conf",54,17,,,Final,,13,20,14,7,,7,3,7,0,,NCAAF
+243322440,2004,"November 27, 2004",Nevada Wolf Pack,Boise State Broncos,"5-7, 3-5 Conf","11-0, 8-0 Conf",21,58,,,Final,,0,7,7,7,,14,14,20,10,,NCAAF

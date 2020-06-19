@@ -1,13 +1,13 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-401012729,2018,"Sat, Sep 8",Nebraska Cornhuskers,Colorado Buffaloes,"0-1, 0-1 Home","2-0, 1-0 Away",28,33,NEB -3.0,63,Final,ABC,7,14,7,0,NULL,14,3,10,6,NULL,NCAAF
-401012891,2018,"Sat, Sep 22",Michigan Wolverines,Nebraska Cornhuskers,"3-1, 1-0 Conf","0-3, 0-1 Conf",56,10,MICH -18.0,53,Final,FS1,20,19,10,7,NULL,0,0,3,7,NULL,NCAAF
-401013339,2018,"Sat, Oct 6",Wisconsin Badgers,Nebraska Cornhuskers,"4-1, 2-0 Conf","0-5, 0-3 Conf",41,24,WIS -18.5,61,Final,BTN,3,17,14,7,NULL,0,3,14,7,NULL,NCAAF
-401013332,2018,"Sat, Oct 20",Nebraska Cornhuskers,Minnesota Golden Gophers,"1-6, 1-4 Conf","3-4, 0-4 Conf",53,28,NEB -5.0,56,Final,BTN,14,14,8,17,NULL,0,8,14,6,NULL,NCAAF
-401013341,2018,"Sat, Nov 3",Ohio State Buckeyes,Nebraska Cornhuskers,"8-1, 5-1 Conf","2-7, 1-5 Conf",36,31,OSU -17.5,76,Final,FOX,16,0,14,6,NULL,7,14,0,10,NULL,NCAAF
-401012887,2018,"Sat, Nov 17",Nebraska Cornhuskers,Michigan State Spartans,"4-7, 3-5 Conf","6-5, 4-4 Conf",9,6,EVEN,48,Final,FOX,0,0,0,9,NULL,3,0,0,3,NULL,NCAAF
-401013337,2018,"Sat, Sep 15",Nebraska Cornhuskers,Troy Trojans,"0-2, 0-2 Home","2-1, 1-0 Away",19,24,NEB -10.0,57,Final,BTN,0,7,6,6,NULL,3,14,0,7,NULL,NCAAF
-401013338,2018,"Sat, Sep 29",Nebraska Cornhuskers,Purdue Boilermakers,"0-4, 0-2 Conf","2-3, 1-1 Conf",28,42,PUR -3.5,58,Final,BTN,7,0,14,7,NULL,10,10,15,7,NULL,NCAAF
-401013340,2018,"Sat, Oct 13",Northwestern Wildcats,Nebraska Cornhuskers,"3-3, 3-1 Conf","0-6, 0-4 Conf",34,31,NW -3.0,59,Final/OT,ABC,0,14,0,17,3,7,6,7,11,0,NCAAF
-401085385,2018,"Sat, Oct 27",Nebraska Cornhuskers,Bethune-Cookman Wildcats,"2-6, 2-3 Home","4-5, 2-3 Away",45,9,NULL,NULL,Final,BTN,28,10,0,7,NULL,3,0,0,6,NULL,NCAAF
-401012813,2018,"Sat, Nov 10",Nebraska Cornhuskers,Illinois Fighting Illini,"3-7, 2-5 Conf","4-6, 2-5 Conf",54,35,NEB -17.5,73,Final,BTN,21,17,7,9,NULL,14,7,0,14,NULL,NCAAF
-401012871,2018,"Fri, Nov 23",Iowa Hawkeyes,Nebraska Cornhuskers,"8-4, 5-4 Conf","4-8, 3-6 Conf",31,28,IOWA -9.5,53,Final,FOX,7,14,7,3,NULL,7,6,0,15,NULL,NCAAF
+401012729,2018,"September 08, 2018",Nebraska Cornhuskers,Colorado Buffaloes,"0-1, 0-1 Home","2-0, 1-0 Away",28,33,NEB -3.0,63.0,Final,ABC,7,14,7,0,,14,3,10,6,,NCAAF
+401012891,2018,"September 22, 2018",Michigan Wolverines,Nebraska Cornhuskers,"3-1, 1-0 Conf","0-3, 0-1 Conf",56,10,MICH -18.0,53.0,Final,FS1,20,19,10,7,,0,0,3,7,,NCAAF
+401013339,2018,"October 06, 2018",Wisconsin Badgers,Nebraska Cornhuskers,"4-1, 2-0 Conf","0-5, 0-3 Conf",41,24,WIS -18.5,61.0,Final,BTN,3,17,14,7,,0,3,14,7,,NCAAF
+401013332,2018,"October 20, 2018",Nebraska Cornhuskers,Minnesota Golden Gophers,"1-6, 1-4 Conf","3-4, 0-4 Conf",53,28,NEB -5.0,56.0,Final,BTN,14,14,8,17,,0,8,14,6,,NCAAF
+401013341,2018,"November 03, 2018",Ohio State Buckeyes,Nebraska Cornhuskers,"8-1, 5-1 Conf","2-7, 1-5 Conf",36,31,OSU -17.5,76.0,Final,FOX,16,0,14,6,,7,14,0,10,,NCAAF
+401012887,2018,"November 17, 2018",Nebraska Cornhuskers,Michigan State Spartans,"4-7, 3-5 Conf","6-5, 4-4 Conf",9,6,EVEN,48.0,Final,FOX,0,0,0,9,,3,0,0,3,,NCAAF
+401013337,2018,"September 15, 2018",Nebraska Cornhuskers,Troy Trojans,"0-2, 0-2 Home","2-1, 1-0 Away",19,24,NEB -10.0,57.0,Final,BTN,0,7,6,6,,3,14,0,7,,NCAAF
+401013338,2018,"September 29, 2018",Nebraska Cornhuskers,Purdue Boilermakers,"0-4, 0-2 Conf","2-3, 1-1 Conf",28,42,PUR -3.5,58.0,Final,BTN,7,0,14,7,,10,10,15,7,,NCAAF
+401013340,2018,"October 13, 2018",Northwestern Wildcats,Nebraska Cornhuskers,"3-3, 3-1 Conf","0-6, 0-4 Conf",34,31,NW -3.0,59.0,Final/OT,ABC,0,14,0,17,3.0,7,6,7,11,0.0,NCAAF
+401085385,2018,"October 27, 2018",Nebraska Cornhuskers,Bethune-Cookman Wildcats,"2-6, 2-3 Home","4-5, 2-3 Away",45,9,,,Final,BTN,28,10,0,7,,3,0,0,6,,NCAAF
+401012813,2018,"November 10, 2018",Nebraska Cornhuskers,Illinois Fighting Illini,"3-7, 2-5 Conf","4-6, 2-5 Conf",54,35,NEB -17.5,73.0,Final,BTN,21,17,7,9,,14,7,0,14,,NCAAF
+401012871,2018,"November 23, 2018",Iowa Hawkeyes,Nebraska Cornhuskers,"8-4, 5-4 Conf","4-8, 3-6 Conf",31,28,IOWA -9.5,53.0,Final,FOX,7,14,7,3,,7,6,0,15,,NCAAF

@@ -1,13 +1,13 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-400548265,2014,"Sat, Sep 13",Stanford Cardinal,Army Black Knights,"2-1, 2-1 Home","1-1, 0-1 Away",35,0,NULL,NULL,Final,PAC12,7,7,7,14,NULL,0,0,0,0,NULL,NCAAF
-400548459,2014,"Sat, Sep 27",Yale Bulldogs,Army Black Knights,"2-0, 2-0 Home","1-3, 0-3 Away",49,43,NULL,NULL,Final/OT,NULL,7,7,22,7,6,7,14,15,7,0,NCAAF
-400548049,2014,"Sat, Oct 11",Army Black Knights,Rice Owls,"2-4, 2-1 Home","3-3, 2-2 Away",21,41,NULL,NULL,Final,CBSSN,7,7,7,0,NULL,7,17,14,3,NULL,NCAAF
-400548226,2014,"Sat, Nov 1",Army Black Knights,Air Force Falcons,"2-6, 2-2 Home","6-2, 2-2 Away",6,23,NULL,NULL,Final,CBS,3,0,3,0,NULL,0,6,10,7,NULL,NCAAF
-400548077,2014,"Sat, Nov 15",Western Kentucky Hilltoppers,Army Black Knights,"5-5, 4-1 Home","3-7, 0-5 Away",52,24,NULL,NULL,Final,CBSSN,14,10,14,14,NULL,7,3,14,0,NULL,NCAAF
-400548098,2014,"Sat, Sep 6",Army Black Knights,Buffalo Bulls,"1-0, 1-0 Home","1-1, 0-1 Away",47,39,NULL,NULL,Final,CBSSN,7,14,13,13,NULL,3,0,14,22,NULL,NCAAF
-400547832,2014,"Sat, Sep 20",Wake Forest Demon Deacons,Army Black Knights,"2-2, 2-0 Home","1-2, 0-2 Away",24,21,NULL,NULL,Final,ESPN3,7,7,0,10,NULL,7,14,0,0,NULL,NCAAF
-400548120,2014,"Sat, Oct 4",Army Black Knights,Ball State Cardinals,"2-3, 2-0 Home","1-4, 0-3 Away",33,24,NULL,NULL,Final,CBSSN,14,6,7,6,NULL,7,3,0,14,NULL,NCAAF
-400548134,2014,"Sat, Oct 18",Kent State Golden Flashes,Army Black Knights,"1-6, 1-3 Home","2-5, 0-4 Away",39,17,NULL,NULL,Final,ESPN3,3,10,10,16,NULL,3,7,7,0,NULL,NCAAF
-400547705,2014,"Sat, Nov 8",Army Black Knights,Connecticut Huskies,3-6,2-7,35,21,NULL,NULL,Final,CBSSN,7,7,7,14,NULL,0,7,0,14,NULL,NCAAF
-400548460,2014,"Sat, Nov 22",Army Black Knights,Fordham Rams,"4-7, 3-2 Home","10-2, 4-2 Away",42,31,NULL,NULL,Final,CBSSN,0,14,7,21,NULL,3,7,0,21,NULL,NCAAF
-400548461,2014,"Sat, Dec 13",Army Black Knights,Navy Midshipmen,4-8,7-5,10,17,NULL,NULL,Final,CBS,7,0,0,3,NULL,0,7,3,7,NULL,NCAAF
+400548265,2014,"September 13, 2014",Stanford Cardinal,Army Black Knights,"2-1, 2-1 Home","1-1, 0-1 Away",35,0,,,Final,PAC12,7,7,7,14,,0,0,0,0,,NCAAF
+400548459,2014,"September 27, 2014",Yale Bulldogs,Army Black Knights,"2-0, 2-0 Home","1-3, 0-3 Away",49,43,,,Final/OT,,7,7,22,7,6.0,7,14,15,7,0.0,NCAAF
+400548049,2014,"October 11, 2014",Army Black Knights,Rice Owls,"2-4, 2-1 Home","3-3, 2-2 Away",21,41,,,Final,CBSSN,7,7,7,0,,7,17,14,3,,NCAAF
+400548226,2014,"November 01, 2014",Army Black Knights,Air Force Falcons,"2-6, 2-2 Home","6-2, 2-2 Away",6,23,,,Final,CBS,3,0,3,0,,0,6,10,7,,NCAAF
+400548077,2014,"November 15, 2014",Western Kentucky Hilltoppers,Army Black Knights,"5-5, 4-1 Home","3-7, 0-5 Away",52,24,,,Final,CBSSN,14,10,14,14,,7,3,14,0,,NCAAF
+400548098,2014,"September 06, 2014",Army Black Knights,Buffalo Bulls,"1-0, 1-0 Home","1-1, 0-1 Away",47,39,,,Final,CBSSN,7,14,13,13,,3,0,14,22,,NCAAF
+400547832,2014,"September 20, 2014",Wake Forest Demon Deacons,Army Black Knights,"2-2, 2-0 Home","1-2, 0-2 Away",24,21,,,Final,ESPN3,7,7,0,10,,7,14,0,0,,NCAAF
+400548120,2014,"October 04, 2014",Army Black Knights,Ball State Cardinals,"2-3, 2-0 Home","1-4, 0-3 Away",33,24,,,Final,CBSSN,14,6,7,6,,7,3,0,14,,NCAAF
+400548134,2014,"October 18, 2014",Kent State Golden Flashes,Army Black Knights,"1-6, 1-3 Home","2-5, 0-4 Away",39,17,,,Final,ESPN3,3,10,10,16,,3,7,7,0,,NCAAF
+400547705,2014,"November 08, 2014",Army Black Knights,Connecticut Huskies,3-6,2-7,35,21,,,Final,CBSSN,7,7,7,14,,0,7,0,14,,NCAAF
+400548460,2014,"November 22, 2014",Army Black Knights,Fordham Rams,"4-7, 3-2 Home","10-2, 4-2 Away",42,31,,,Final,CBSSN,0,14,7,21,,3,7,0,21,,NCAAF
+400548461,2014,"December 13, 2014",Army Black Knights,Navy Midshipmen,4-8,7-5,10,17,,,Final,CBS,7,0,0,3,,0,7,3,7,,NCAAF

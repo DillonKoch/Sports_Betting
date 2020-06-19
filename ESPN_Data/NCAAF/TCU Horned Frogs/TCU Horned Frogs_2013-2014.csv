@@ -1,13 +1,13 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-332502628,2013,"Sat, Sep 7",TCU Horned Frogs,Southeastern Louisiana Lions,"1-1, 1-1 Home","1-1, 0-1 Away",38,17,NULL,NULL,Final,NULL,7,10,14,7,NULL,0,14,0,3,NULL,NCAAF
-332712628,2013,"Sat, Sep 28",TCU Horned Frogs,SMU Mustangs,"2-2, 2-1 Home","1-3, 0-2 Away",48,17,NULL,NULL,Final,FS1,0,7,10,31,NULL,7,3,0,7,NULL,NCAAF
-332852628,2013,"Sat, Oct 12",TCU Horned Frogs,Kansas Jayhawks,"3-3, 1-2 Conf","2-3, 0-2 Conf",27,17,NULL,NULL,Final,FS1,7,3,14,3,NULL,3,7,7,0,NULL,NCAAF
-332992628,2013,"Sat, Oct 26",TCU Horned Frogs,Texas Longhorns,"3-5, 1-4 Conf","5-2, 4-0 Conf",7,30,NULL,NULL,Final,FS1,7,0,0,0,NULL,10,10,7,3,NULL,NCAAF
-333130066,2013,"Sat, Nov 9",Iowa State Cyclones,TCU Horned Frogs,"1-8, 0-6 Conf","4-6, 2-5 Conf",17,21,NULL,NULL,Final,FS1,0,7,10,0,NULL,7,7,0,7,NULL,NCAAF
-332432628,2013,"Sat, Aug 31",TCU Horned Frogs,LSU Tigers,0-1,1-0,27,37,NULL,NULL,Final,ESPN,3,7,7,10,NULL,6,10,14,7,NULL,NCAAF
-332552641,2013,"Thu, Sep 12",Texas Tech Red Raiders,TCU Horned Frogs,"3-0, 1-0 Conf","1-2, 0-1 Conf",20,10,NULL,NULL,Final,ESPN,10,0,0,10,NULL,0,0,3,7,NULL,NCAAF
-332780201,2013,"Sat, Oct 5",Oklahoma Sooners,TCU Horned Frogs,"5-0, 2-0 Conf","2-3, 0-2 Conf",20,17,NULL,NULL,Final,FOX,3,10,0,7,NULL,0,0,10,7,NULL,NCAAF
-332920197,2013,"Sat, Oct 19",Oklahoma State Cowboys,TCU Horned Frogs,"5-1, 2-1 Conf","3-4, 1-3 Conf",24,10,NULL,NULL,Final,FOX,7,10,0,7,NULL,0,0,3,7,NULL,NCAAF
-333062628,2013,"Sat, Nov 2",TCU Horned Frogs,West Virginia Mountaineers,"3-6, 1-5 Conf","4-5, 2-4 Conf",27,30,NULL,NULL,Final/OT,ESPNU,10,7,0,10,0,3,7,0,17,3,NCAAF
-333202306,2013,"Sat, Nov 16",Kansas State Wildcats,TCU Horned Frogs,"6-4, 4-3 Conf","4-7, 2-6 Conf",33,31,NULL,NULL,Final,NULL,14,3,10,6,NULL,0,7,21,3,NULL,NCAAF
-333342628,2013,"Sat, Nov 30",TCU Horned Frogs,Baylor Bears,"4-8, 2-7 Conf","10-1, 7-1 Conf",38,41,NULL,NULL,Final,ESPN2,3,14,14,7,NULL,10,17,14,0,NULL,NCAAF
+332502628,2013,"September 07, 2013",TCU Horned Frogs,Southeastern Louisiana Lions,"1-1, 1-1 Home","1-1, 0-1 Away",38,17,,,Final,,7,10,14,7,,0,14,0,3,,NCAAF
+332712628,2013,"September 28, 2013",TCU Horned Frogs,SMU Mustangs,"2-2, 2-1 Home","1-3, 0-2 Away",48,17,,,Final,FS1,0,7,10,31,,7,3,0,7,,NCAAF
+332852628,2013,"October 12, 2013",TCU Horned Frogs,Kansas Jayhawks,"3-3, 1-2 Conf","2-3, 0-2 Conf",27,17,,,Final,FS1,7,3,14,3,,3,7,7,0,,NCAAF
+332992628,2013,"October 26, 2013",TCU Horned Frogs,Texas Longhorns,"3-5, 1-4 Conf","5-2, 4-0 Conf",7,30,,,Final,FS1,7,0,0,0,,10,10,7,3,,NCAAF
+333130066,2013,"November 09, 2013",Iowa State Cyclones,TCU Horned Frogs,"1-8, 0-6 Conf","4-6, 2-5 Conf",17,21,,,Final,FS1,0,7,10,0,,7,7,0,7,,NCAAF
+332432628,2013,"August 31, 2013",TCU Horned Frogs,LSU Tigers,0-1,1-0,27,37,,,Final,ESPN,3,7,7,10,,6,10,14,7,,NCAAF
+332552641,2013,"September 12, 2013",Texas Tech Red Raiders,TCU Horned Frogs,"3-0, 1-0 Conf","1-2, 0-1 Conf",20,10,,,Final,ESPN,10,0,0,10,,0,0,3,7,,NCAAF
+332780201,2013,"October 05, 2013",Oklahoma Sooners,TCU Horned Frogs,"5-0, 2-0 Conf","2-3, 0-2 Conf",20,17,,,Final,FOX,3,10,0,7,,0,0,10,7,,NCAAF
+332920197,2013,"October 19, 2013",Oklahoma State Cowboys,TCU Horned Frogs,"5-1, 2-1 Conf","3-4, 1-3 Conf",24,10,,,Final,FOX,7,10,0,7,,0,0,3,7,,NCAAF
+333062628,2013,"November 02, 2013",TCU Horned Frogs,West Virginia Mountaineers,"3-6, 1-5 Conf","4-5, 2-4 Conf",27,30,,,Final/OT,ESPNU,10,7,0,10,0.0,3,7,0,17,3.0,NCAAF
+333202306,2013,"November 16, 2013",Kansas State Wildcats,TCU Horned Frogs,"6-4, 4-3 Conf","4-7, 2-6 Conf",33,31,,,Final,,14,3,10,6,,0,7,21,3,,NCAAF
+333342628,2013,"November 30, 2013",TCU Horned Frogs,Baylor Bears,"4-8, 2-7 Conf","10-1, 7-1 Conf",38,41,,,Final,ESPN2,3,14,14,7,,10,17,14,0,,NCAAF

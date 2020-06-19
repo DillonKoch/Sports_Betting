@@ -1,14 +1,14 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-401013367,2018,"Sat, Sep 8",Army Black Knights,Liberty Flames,"1-1, 1-0 Home","1-1, 0-1 Away",38,14,ARMY -7.5,58,Final,CBSSN,14,3,7,14,NULL,0,0,14,0,NULL,NCAAF
-401013066,2018,"Sat, Sep 22",Oklahoma Sooners,Army Black Knights,"4-0, 3-0 Home","2-2, 0-2 Away",28,21,OKLA -28.5,60,Final/OT,NULL,14,7,0,0,7,7,7,7,0,0,NCAAF
-401013370,2018,"Sat, Oct 13",San Jose State Spartans,Army Black Knights,0-6,4-2,3,52,NULL,NULL,Final,ESPNU,3,0,0,0,NULL,0,14,24,14,NULL,NCAAF
-401013372,2018,"Sat, Oct 27",Eastern Michigan Eagles,Army Black Knights,"4-5, 2-2 Home","6-2, 2-2 Away",22,37,ARMY -1.5,48,Final,CBSSN,0,0,14,8,NULL,3,13,7,14,NULL,NCAAF
-401013374,2018,"Sat, Nov 10",Army Black Knights,Lafayette Leopards,"8-2, 5-0 Home","3-7, 2-4 Away",31,13,NULL,NULL,Final,CBSSN,3,14,14,0,NULL,3,3,0,7,NULL,NCAAF
-401013089,2018,"Fri, Aug 31",Duke Blue Devils,Army Black Knights,"1-0, 1-0 Home","0-1, 0-1 Away",34,14,DUKE -14.0,46,Final,ESPNU,3,14,7,10,NULL,0,0,14,0,NULL,NCAAF
-401013368,2018,"Sat, Sep 15",Army Black Knights,Hawai'i Rainbow Warriors,"2-1, 2-0 Home","3-1, 1-1 Away",28,21,ARMY -7.0,63,Final,CBSSN,7,14,0,7,NULL,7,7,0,7,NULL,NCAAF
-401013369,2018,"Sat, Sep 29",Buffalo Bulls,Army Black Knights,"4-1, 2-1 Home","3-2, 1-2 Away",13,42,NULL,NULL,Final,CBSSN,7,0,6,0,NULL,7,14,7,14,NULL,NCAAF
-401013371,2018,"Sat, Oct 20",Army Black Knights,Miami (OH) RedHawks,"5-2, 3-0 Home","3-5, 2-2 Away",31,30,ARMY -6.5,48,Final/2OT,CBSSN,7,7,7,0,10,0,7,0,14,9,NCAAF
-401013373,2018,"Sat, Nov 3",Army Black Knights,Air Force Falcons,"7-2, 4-0 Home","3-6, 1-4 Away",17,14,ARMY -5.5,42,Final,CBSSN,7,7,0,3,NULL,0,0,6,8,NULL,NCAAF
-401013375,2018,"Sat, Nov 17",Army Black Knights,Colgate Raiders,"9-2, 6-0 Home","9-1, 5-1 Away",28,14,NULL,NULL,Final,CBSSN,7,7,0,14,NULL,0,0,7,7,NULL,NCAAF
-401013376,2018,"Sat, Dec 8",Army Black Knights,Navy Midshipmen,10-2,3-10,17,10,ARMY -7.5,39,Final,CBS,7,0,3,7,NULL,0,0,0,10,NULL,NCAAF
-401032064,2018,"Sat, Dec 22",Army Black Knights,Houston Cougars,11-2,8-5,70,14,ARMY -6.5,57,Final,ESPN,14,28,14,14,NULL,0,7,0,7,NULL,NCAAF
+401013367,2018,"September 08, 2018",Army Black Knights,Liberty Flames,"1-1, 1-0 Home","1-1, 0-1 Away",38,14,ARMY -7.5,58.0,Final,CBSSN,14,3,7,14,,0,0,14,0,,NCAAF
+401013066,2018,"September 22, 2018",Oklahoma Sooners,Army Black Knights,"4-0, 3-0 Home","2-2, 0-2 Away",28,21,OKLA -28.5,60.0,Final/OT,,14,7,0,0,7.0,7,7,7,0,0.0,NCAAF
+401013370,2018,"October 13, 2018",San Jose State Spartans,Army Black Knights,0-6,4-2,3,52,,,Final,ESPNU,3,0,0,0,,0,14,24,14,,NCAAF
+401013372,2018,"October 27, 2018",Eastern Michigan Eagles,Army Black Knights,"4-5, 2-2 Home","6-2, 2-2 Away",22,37,ARMY -1.5,48.0,Final,CBSSN,0,0,14,8,,3,13,7,14,,NCAAF
+401013374,2018,"November 10, 2018",Army Black Knights,Lafayette Leopards,"8-2, 5-0 Home","3-7, 2-4 Away",31,13,,,Final,CBSSN,3,14,14,0,,3,3,0,7,,NCAAF
+401013089,2018,"August 31, 2018",Duke Blue Devils,Army Black Knights,"1-0, 1-0 Home","0-1, 0-1 Away",34,14,DUKE -14.0,46.0,Final,ESPNU,3,14,7,10,,0,0,14,0,,NCAAF
+401013368,2018,"September 15, 2018",Army Black Knights,Hawai'i Rainbow Warriors,"2-1, 2-0 Home","3-1, 1-1 Away",28,21,ARMY -7.0,63.0,Final,CBSSN,7,14,0,7,,7,7,0,7,,NCAAF
+401013369,2018,"September 29, 2018",Buffalo Bulls,Army Black Knights,"4-1, 2-1 Home","3-2, 1-2 Away",13,42,,,Final,CBSSN,7,0,6,0,,7,14,7,14,,NCAAF
+401013371,2018,"October 20, 2018",Army Black Knights,Miami (OH) RedHawks,"5-2, 3-0 Home","3-5, 2-2 Away",31,30,ARMY -6.5,48.0,Final/2OT,CBSSN,7,7,7,0,10.0,0,7,0,14,9.0,NCAAF
+401013373,2018,"November 03, 2018",Army Black Knights,Air Force Falcons,"7-2, 4-0 Home","3-6, 1-4 Away",17,14,ARMY -5.5,42.0,Final,CBSSN,7,7,0,3,,0,0,6,8,,NCAAF
+401013375,2018,"November 17, 2018",Army Black Knights,Colgate Raiders,"9-2, 6-0 Home","9-1, 5-1 Away",28,14,,,Final,CBSSN,7,7,0,14,,0,0,7,7,,NCAAF
+401013376,2018,"December 08, 2018",Army Black Knights,Navy Midshipmen,10-2,3-10,17,10,ARMY -7.5,39.0,Final,CBS,7,0,3,7,,0,0,0,10,,NCAAF
+401032064,2018,"December 22, 2018",Army Black Knights,Houston Cougars,11-2,8-5,70,14,ARMY -6.5,57.0,Final,ESPN,14,28,14,14,,0,7,0,7,,NCAAF

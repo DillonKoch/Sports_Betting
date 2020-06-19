@@ -1,14 +1,14 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-400868911,2016,"Sat, Sep 10",Army Black Knights,Rice Owls,"2-0, 1-0 Home","0-2, 0-2 Away",31,14,NULL,NULL,Final,CBSSN,14,7,7,3,NULL,7,0,7,0,NULL,NCAAF
-400868913,2016,"Sat, Sep 24",Buffalo Bulls,Army Black Knights,"1-2, 1-1 Home","3-1, 2-1 Away",23,20,NULL,NULL,Final/OT,ESPN3,0,0,6,14,3,7,3,10,0,0,NCAAF
-400868915,2016,"Sat, Oct 15",Army Black Knights,Lafayette Leopards,"4-2, 2-0 Home","1-6, 1-3 Away",62,7,NULL,NULL,Final,CBSSN,14,21,14,13,NULL,0,7,0,0,NULL,NCAAF
-400868917,2016,"Sat, Oct 29",Wake Forest Demon Deacons,Army Black Knights,"5-3, 3-1 Home","5-3, 3-2 Away",13,21,NULL,NULL,Final,ACCNX,0,7,3,3,NULL,7,0,0,14,NULL,NCAAF
-400868919,2016,"Sat, Nov 12",Notre Dame Fighting Irish,Army Black Knights,4-6,5-5,44,6,NULL,NULL,Final,NBC,21,17,6,0,NULL,0,6,0,0,NULL,NCAAF
-400868910,2016,"Fri, Sep 2",Temple Owls,Army Black Knights,"0-1, 0-1 Home","1-0, 1-0 Away",13,28,NULL,NULL,Final,CBSSN,0,10,3,0,NULL,0,7,7,14,NULL,NCAAF
-400868912,2016,"Sat, Sep 17",UTEP Miners,Army Black Knights,"1-2, 1-1 Home","3-0, 2-0 Away",14,66,NULL,NULL,Final,NULL,0,0,14,0,NULL,3,21,28,14,NULL,NCAAF
-400868914,2016,"Sat, Oct 8",Duke Blue Devils,Army Black Knights,"3-3, 2-2 Home","3-2, 2-2 Away",13,6,NULL,NULL,Final,ACCNX,7,6,0,0,NULL,0,6,0,0,NULL,NCAAF
-400868916,2016,"Sat, Oct 22",Army Black Knights,North Texas Mean Green,"4-3, 2-1 Home","4-3, 2-1 Away",18,35,NULL,NULL,Final,CBSSN,7,3,8,0,NULL,14,0,14,7,NULL,NCAAF
-400868918,2016,"Sat, Nov 5",Army Black Knights,Air Force Falcons,"5-4, 2-2 Home","6-3, 3-1 Away",12,31,NULL,NULL,Final,CBSSN,0,6,6,0,NULL,0,10,14,7,NULL,NCAAF
-400868920,2016,"Sat, Nov 19",Army Black Knights,Morgan State Bears,"6-5, 3-2 Home","2-8, 0-5 Away",60,3,NULL,NULL,Final,CBSSN,13,16,10,21,NULL,0,3,0,0,NULL,NCAAF
-400868921,2016,"Sat, Dec 10",Army Black Knights,Navy Midshipmen,7-5,9-4,21,17,NULL,NULL,Final,CBS,7,7,0,7,NULL,0,0,10,7,NULL,NCAAF
-400876093,2016,"Tue, Dec 27",North Texas Mean Green,Army Black Knights,5-8,8-5,31,38,NULL,NULL,Final/OT,ESPN,7,14,7,3,0,12,12,7,0,7,NCAAF
+400868911,2016,"September 10, 2016",Army Black Knights,Rice Owls,"2-0, 1-0 Home","0-2, 0-2 Away",31,14,,,Final,CBSSN,14,7,7,3,,7,0,7,0,,NCAAF
+400868913,2016,"September 24, 2016",Buffalo Bulls,Army Black Knights,"1-2, 1-1 Home","3-1, 2-1 Away",23,20,,,Final/OT,ESPN3,0,0,6,14,3.0,7,3,10,0,0.0,NCAAF
+400868915,2016,"October 15, 2016",Army Black Knights,Lafayette Leopards,"4-2, 2-0 Home","1-6, 1-3 Away",62,7,,,Final,CBSSN,14,21,14,13,,0,7,0,0,,NCAAF
+400868917,2016,"October 29, 2016",Wake Forest Demon Deacons,Army Black Knights,"5-3, 3-1 Home","5-3, 3-2 Away",13,21,,,Final,ACCNX,0,7,3,3,,7,0,0,14,,NCAAF
+400868919,2016,"November 12, 2016",Notre Dame Fighting Irish,Army Black Knights,4-6,5-5,44,6,,,Final,NBC,21,17,6,0,,0,6,0,0,,NCAAF
+400868910,2016,"September 02, 2016",Temple Owls,Army Black Knights,"0-1, 0-1 Home","1-0, 1-0 Away",13,28,,,Final,CBSSN,0,10,3,0,,0,7,7,14,,NCAAF
+400868912,2016,"September 17, 2016",UTEP Miners,Army Black Knights,"1-2, 1-1 Home","3-0, 2-0 Away",14,66,,,Final,,0,0,14,0,,3,21,28,14,,NCAAF
+400868914,2016,"October 08, 2016",Duke Blue Devils,Army Black Knights,"3-3, 2-2 Home","3-2, 2-2 Away",13,6,,,Final,ACCNX,7,6,0,0,,0,6,0,0,,NCAAF
+400868916,2016,"October 22, 2016",Army Black Knights,North Texas Mean Green,"4-3, 2-1 Home","4-3, 2-1 Away",18,35,,,Final,CBSSN,7,3,8,0,,14,0,14,7,,NCAAF
+400868918,2016,"November 05, 2016",Army Black Knights,Air Force Falcons,"5-4, 2-2 Home","6-3, 3-1 Away",12,31,,,Final,CBSSN,0,6,6,0,,0,10,14,7,,NCAAF
+400868920,2016,"November 19, 2016",Army Black Knights,Morgan State Bears,"6-5, 3-2 Home","2-8, 0-5 Away",60,3,,,Final,CBSSN,13,16,10,21,,0,3,0,0,,NCAAF
+400868921,2016,"December 10, 2016",Army Black Knights,Navy Midshipmen,7-5,9-4,21,17,,,Final,CBS,7,7,0,7,,0,0,10,7,,NCAAF
+400876093,2016,"December 27, 2016",North Texas Mean Green,Army Black Knights,5-8,8-5,31,38,,,Final/OT,ESPN,7,14,7,3,0.0,12,12,7,0,7.0,NCAAF

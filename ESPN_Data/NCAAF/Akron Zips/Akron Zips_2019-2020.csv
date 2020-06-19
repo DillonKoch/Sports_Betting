@@ -1,13 +1,13 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-401114254,2019,"Sat, Sep 7",Akron Zips,UAB Blazers,"0-2, 0-1 Home","2-0, 1-0 Away",20,31,UAB -7.0,47,Final,CBSSN,6,0,0,14,NULL,7,10,14,0,NULL,NCAAF
-401119269,2019,"Sat, Sep 21",Akron Zips,Troy Trojans,"0-4, 0-2 Home","2-1, 1-0 Away",7,35,TROY -19.5,58,Final,ESPN+,7,0,0,0,NULL,7,14,14,0,NULL,NCAAF
-401119277,2019,"Sat, Oct 12",Akron Zips,Kent State Golden Flashes,"0-6, 0-2 Conf","3-3, 2-0 Conf",3,26,KENT -14.0,57,Final,ESPN3,0,3,0,0,NULL,7,10,0,9,NULL,NCAAF
-401119287,2019,"Sat, Oct 26",Northern Illinois Huskies,Akron Zips,"3-5, 2-2 Conf","0-8, 0-4 Conf",49,0,NIU -23.0,43,Final,ESPN3,7,14,14,14,NULL,0,0,0,0,NULL,NCAAF
-401119299,2019,"Tue, Nov 12",Akron Zips,Eastern Michigan Eagles,"0-10, 0-6 Conf","5-5, 2-4 Conf",14,42,EMU -17.0,46,Final,ESPNN,0,0,7,7,NULL,7,14,14,7,NULL,NCAAF
-401112145,2019,"Sat, Aug 31",Illinois Fighting Illini,Akron Zips,"1-0, 1-0 Home","0-1, 0-1 Away",42,3,ILL -18.0,60,Final,BTN,14,14,14,0,NULL,3,0,0,0,NULL,NCAAF
-401119263,2019,"Sat, Sep 14",Central Michigan Chippewas,Akron Zips,"2-1, 1-0 Conf","0-3, 0-1 Conf",45,24,CMU -2.5,46,Final,ESPN+,3,24,3,15,NULL,0,10,0,14,NULL,NCAAF
-401114356,2019,"Sat, Sep 28",UMass Minutemen,Akron Zips,"1-4, 1-2 Home","0-5, 0-3 Away",37,29,AKR -8.5,61,Final,NULL,7,13,14,3,NULL,7,7,7,8,NULL,NCAAF
-401119281,2019,"Sat, Oct 19",Akron Zips,Buffalo Bulls,"0-7, 0-3 Conf","3-4, 1-2 Conf",0,21,BUFF -17.5,48,Final,ESPN3,0,0,0,0,NULL,7,0,7,7,NULL,NCAAF
-401119293,2019,"Sat, Nov 2",Bowling Green Falcons,Akron Zips,"3-6, 2-3 Conf","0-9, 0-5 Conf",35,6,BGSU -4.0,50,Final,ESPN+,7,14,7,7,NULL,6,0,0,0,NULL,NCAAF
-401119307,2019,"Wed, Nov 20",Miami (OH) RedHawks,Akron Zips,"7-4, 6-1 Conf","0-11, 0-7 Conf",20,17,M-OH -28.5,45,Final,ESPNU,3,14,3,0,NULL,0,3,7,7,NULL,NCAAF
-401119310,2019,"Tue, Nov 26",Akron Zips,Ohio Bobcats,"0-12, 0-8 Conf","6-6, 5-3 Conf",3,52,OHIO -27.5,54,Final,ESPN+,3,0,0,0,NULL,14,17,7,14,NULL,NCAAF
+401114254,2019,"September 07, 2019",Akron Zips,UAB Blazers,"0-2, 0-1 Home","2-0, 1-0 Away",20,31,UAB -7.0,47,Final,CBSSN,6,0,0,14,,7,10,14,0,,NCAAF
+401119269,2019,"September 21, 2019",Akron Zips,Troy Trojans,"0-4, 0-2 Home","2-1, 1-0 Away",7,35,TROY -19.5,58,Final,ESPN+,7,0,0,0,,7,14,14,0,,NCAAF
+401119277,2019,"October 12, 2019",Akron Zips,Kent State Golden Flashes,"0-6, 0-2 Conf","3-3, 2-0 Conf",3,26,KENT -14.0,57,Final,ESPN3,0,3,0,0,,7,10,0,9,,NCAAF
+401119287,2019,"October 26, 2019",Northern Illinois Huskies,Akron Zips,"3-5, 2-2 Conf","0-8, 0-4 Conf",49,0,NIU -23.0,43,Final,ESPN3,7,14,14,14,,0,0,0,0,,NCAAF
+401119299,2019,"November 12, 2019",Akron Zips,Eastern Michigan Eagles,"0-10, 0-6 Conf","5-5, 2-4 Conf",14,42,EMU -17.0,46,Final,ESPNN,0,0,7,7,,7,14,14,7,,NCAAF
+401112145,2019,"August 31, 2019",Illinois Fighting Illini,Akron Zips,"1-0, 1-0 Home","0-1, 0-1 Away",42,3,ILL -18.0,60,Final,BTN,14,14,14,0,,3,0,0,0,,NCAAF
+401119263,2019,"September 14, 2019",Central Michigan Chippewas,Akron Zips,"2-1, 1-0 Conf","0-3, 0-1 Conf",45,24,CMU -2.5,46,Final,ESPN+,3,24,3,15,,0,10,0,14,,NCAAF
+401114356,2019,"September 28, 2019",UMass Minutemen,Akron Zips,"1-4, 1-2 Home","0-5, 0-3 Away",37,29,AKR -8.5,61,Final,,7,13,14,3,,7,7,7,8,,NCAAF
+401119281,2019,"October 19, 2019",Akron Zips,Buffalo Bulls,"0-7, 0-3 Conf","3-4, 1-2 Conf",0,21,BUFF -17.5,48,Final,ESPN3,0,0,0,0,,7,0,7,7,,NCAAF
+401119293,2019,"November 02, 2019",Bowling Green Falcons,Akron Zips,"3-6, 2-3 Conf","0-9, 0-5 Conf",35,6,BGSU -4.0,50,Final,ESPN+,7,14,7,7,,6,0,0,0,,NCAAF
+401119307,2019,"November 20, 2019",Miami (OH) RedHawks,Akron Zips,"7-4, 6-1 Conf","0-11, 0-7 Conf",20,17,M-OH -28.5,45,Final,ESPNU,3,14,3,0,,0,3,7,7,,NCAAF
+401119310,2019,"November 26, 2019",Akron Zips,Ohio Bobcats,"0-12, 0-8 Conf","6-6, 5-3 Conf",3,52,OHIO -27.5,54,Final,ESPN+,3,0,0,0,,14,17,7,14,,NCAAF

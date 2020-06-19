@@ -1,14 +1,14 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-400937459,2017,"Sat, Sep 9",Syracuse Orange,Middle Tennessee Blue Raiders,"1-1, 1-1 Home","1-1, 1-0 Away",23,30,NULL,NULL,Final,ACCNX,3,10,3,7,NULL,2,7,7,14,NULL,NCAAF
-400938617,2017,"Sat, Sep 23",Middle Tennessee Blue Raiders,Bowling Green Falcons,"2-2, 1-1 Home","0-4, 0-3 Away",24,13,NULL,NULL,Final,ESPN3,7,14,0,3,NULL,7,3,3,0,NULL,NCAAF
-400938628,2017,"Sat, Oct 7",Middle Tennessee Blue Raiders,Florida Intl Golden Panthers,"3-3, 1-1 Conf","3-2, 2-1 Conf",37,17,NULL,NULL,Final,ESPN3,3,14,10,10,NULL,3,0,7,7,NULL,NCAAF
-400938674,2017,"Fri, Oct 20",Middle Tennessee Blue Raiders,Marshall Thundering Herd,"3-5, 1-3 Conf","6-1, 3-0 Conf",10,38,NULL,NULL,Final,ESPN2,3,7,0,0,NULL,7,24,0,7,NULL,NCAAF
-400938654,2017,"Sat, Nov 11",Charlotte 49ers,Middle Tennessee Blue Raiders,"1-9, 1-5 Conf","5-5, 3-3 Conf",21,35,NULL,NULL,Final,ESPN3,7,0,7,7,NULL,14,14,0,7,NULL,NCAAF
-400933839,2017,"Sat, Sep 2",Middle Tennessee Blue Raiders,Vanderbilt Commodores,"0-1, 0-1 Home","1-0, 1-0 Away",6,28,NULL,NULL,Final,CBSSN,0,0,0,6,NULL,14,7,7,0,NULL,NCAAF
-400935353,2017,"Sat, Sep 16",Minnesota Golden Gophers,Middle Tennessee Blue Raiders,"3-0, 2-0 Home","1-2, 1-1 Away",34,3,NULL,NULL,Final,BTN,3,17,7,7,NULL,0,3,0,0,NULL,NCAAF
-400938623,2017,"Sat, Sep 30",Florida Atlantic Owls,Middle Tennessee Blue Raiders,"2-3, 1-0 Conf","2-3, 0-1 Conf",38,20,NULL,NULL,Final,NULL,14,10,0,14,NULL,6,0,7,7,NULL,NCAAF
-400938635,2017,"Sat, Oct 14",UAB Blazers,Middle Tennessee Blue Raiders,"4-2, 2-1 Conf","3-4, 1-2 Conf",25,23,NULL,NULL,Final,NULL,9,13,0,3,NULL,10,10,3,0,NULL,NCAAF
-400938652,2017,"Sat, Nov 4",Middle Tennessee Blue Raiders,UTEP Miners,"4-5, 2-3 Conf","0-9, 0-5 Conf",30,3,NULL,NULL,Final,NULL,10,7,7,6,NULL,0,0,3,0,NULL,NCAAF
-400938665,2017,"Fri, Nov 17",Western Kentucky Hilltoppers,Middle Tennessee Blue Raiders,"6-5, 4-3 Conf","5-6, 3-4 Conf",41,38,NULL,NULL,Final/3OT,CBSSN,7,0,3,14,17,0,3,0,21,14,NCAAF
-400938671,2017,"Sat, Nov 25",Middle Tennessee Blue Raiders,Old Dominion Monarchs,"6-6, 4-4 Conf","5-7, 3-5 Conf",41,10,NULL,NULL,Final,ESPN3,3,21,7,10,NULL,3,0,0,7,NULL,NCAAF
-400953325,2017,"Sat, Dec 16",Arkansas State Red Wolves,Middle Tennessee Blue Raiders,7-5,7-6,30,35,NULL,NULL,Final,ESPN,3,7,7,13,NULL,7,14,7,7,NULL,NCAAF
+400937459,2017,"September 09, 2017",Syracuse Orange,Middle Tennessee Blue Raiders,"1-1, 1-1 Home","1-1, 1-0 Away",23,30,,,Final,ACCNX,3,10,3,7,,2,7,7,14,,NCAAF
+400938617,2017,"September 23, 2017",Middle Tennessee Blue Raiders,Bowling Green Falcons,"2-2, 1-1 Home","0-4, 0-3 Away",24,13,,,Final,ESPN3,7,14,0,3,,7,3,3,0,,NCAAF
+400938628,2017,"October 07, 2017",Middle Tennessee Blue Raiders,Florida Intl Golden Panthers,"3-3, 1-1 Conf","3-2, 2-1 Conf",37,17,,,Final,ESPN3,3,14,10,10,,3,0,7,7,,NCAAF
+400938674,2017,"October 20, 2017",Middle Tennessee Blue Raiders,Marshall Thundering Herd,"3-5, 1-3 Conf","6-1, 3-0 Conf",10,38,,,Final,ESPN2,3,7,0,0,,7,24,0,7,,NCAAF
+400938654,2017,"November 11, 2017",Charlotte 49ers,Middle Tennessee Blue Raiders,"1-9, 1-5 Conf","5-5, 3-3 Conf",21,35,,,Final,ESPN3,7,0,7,7,,14,14,0,7,,NCAAF
+400933839,2017,"September 02, 2017",Middle Tennessee Blue Raiders,Vanderbilt Commodores,"0-1, 0-1 Home","1-0, 1-0 Away",6,28,,,Final,CBSSN,0,0,0,6,,14,7,7,0,,NCAAF
+400935353,2017,"September 16, 2017",Minnesota Golden Gophers,Middle Tennessee Blue Raiders,"3-0, 2-0 Home","1-2, 1-1 Away",34,3,,,Final,BTN,3,17,7,7,,0,3,0,0,,NCAAF
+400938623,2017,"September 30, 2017",Florida Atlantic Owls,Middle Tennessee Blue Raiders,"2-3, 1-0 Conf","2-3, 0-1 Conf",38,20,,,Final,,14,10,0,14,,6,0,7,7,,NCAAF
+400938635,2017,"October 14, 2017",UAB Blazers,Middle Tennessee Blue Raiders,"4-2, 2-1 Conf","3-4, 1-2 Conf",25,23,,,Final,,9,13,0,3,,10,10,3,0,,NCAAF
+400938652,2017,"November 04, 2017",Middle Tennessee Blue Raiders,UTEP Miners,"4-5, 2-3 Conf","0-9, 0-5 Conf",30,3,,,Final,,10,7,7,6,,0,0,3,0,,NCAAF
+400938665,2017,"November 17, 2017",Western Kentucky Hilltoppers,Middle Tennessee Blue Raiders,"6-5, 4-3 Conf","5-6, 3-4 Conf",41,38,,,Final/3OT,CBSSN,7,0,3,14,17.0,0,3,0,21,14.0,NCAAF
+400938671,2017,"November 25, 2017",Middle Tennessee Blue Raiders,Old Dominion Monarchs,"6-6, 4-4 Conf","5-7, 3-5 Conf",41,10,,,Final,ESPN3,3,21,7,10,,3,0,0,7,,NCAAF
+400953325,2017,"December 16, 2017",Arkansas State Red Wolves,Middle Tennessee Blue Raiders,7-5,7-6,30,35,,,Final,ESPN,3,7,7,13,,7,14,7,7,,NCAAF

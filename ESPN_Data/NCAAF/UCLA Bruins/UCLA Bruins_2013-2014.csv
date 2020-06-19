@@ -1,14 +1,14 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-332570158,2013,"Sat, Sep 14",Nebraska Cornhuskers,UCLA Bruins,"2-1, 2-1 Home","2-0, 1-0 Away",21,41,NULL,NULL,Final,ABC,14,7,0,0,NULL,3,7,28,3,NULL,NCAAF
-332760254,2013,"Thu, Oct 3",Utah Utes,UCLA Bruins,"3-2, 0-2 Conf","4-0, 1-0 Conf",27,34,NULL,NULL,Final,FS1,14,3,0,10,NULL,7,14,3,10,NULL,NCAAF
-332920024,2013,"Sat, Oct 19",Stanford Cardinal,UCLA Bruins,"6-1, 4-1 Conf","5-1, 2-1 Conf",24,10,NULL,NULL,Final,ABC/ESPN2,3,0,14,7,NULL,0,0,3,7,NULL,NCAAF
-333060026,2013,"Sat, Nov 2",UCLA Bruins,Colorado Buffaloes,"6-2, 3-2 Conf","3-5, 0-5 Conf",45,23,NULL,NULL,Final,FS1,7,14,14,10,NULL,3,10,0,10,NULL,NCAAF
-333190026,2013,"Fri, Nov 15",UCLA Bruins,Washington Huskies,"8-2, 5-2 Conf","6-4, 3-4 Conf",41,31,NULL,NULL,Final,ESPN2,20,7,7,7,NULL,7,10,7,7,NULL,NCAAF
-332430026,2013,"Sat, Aug 31",UCLA Bruins,Nevada Wolf Pack,"1-0, 1-0 Home","0-1, 0-1 Away",58,20,NULL,NULL,Final,PAC12,7,10,20,21,NULL,3,10,0,7,NULL,NCAAF
-332640026,2013,"Sat, Sep 21",UCLA Bruins,New Mexico State Aggies,"3-0, 2-0 Home","0-4, 0-2 Away",59,13,NULL,NULL,Final,PAC12,7,24,14,14,NULL,0,0,0,13,NULL,NCAAF
-332850026,2013,"Sat, Oct 12",UCLA Bruins,California Golden Bears,"5-0, 2-0 Conf","1-5, 0-3 Conf",37,10,NULL,NULL,Final,ESPN2,10,14,6,7,NULL,0,10,0,0,NULL,NCAAF
-332992483,2013,"Sat, Oct 26",Oregon Ducks,UCLA Bruins,"8-0, 5-0 Conf","5-2, 2-2 Conf",42,14,NULL,NULL,Final,ESPN,7,7,7,21,NULL,7,7,0,0,NULL,NCAAF
-333130012,2013,"Sat, Nov 9",Arizona Wildcats,UCLA Bruins,"6-3, 3-3 Conf","7-2, 4-2 Conf",26,31,NULL,NULL,Final,ESPN,3,7,3,13,NULL,14,7,3,7,NULL,NCAAF
-333270026,2013,"Sat, Nov 23",UCLA Bruins,Arizona State Sun Devils,"8-3, 5-3 Conf","9-2, 7-1 Conf",33,38,NULL,NULL,Final,FOX,10,3,14,6,NULL,14,21,3,0,NULL,NCAAF
-333340030,2013,"Sat, Nov 30",USC Trojans,UCLA Bruins,"9-4, 6-3 Conf","9-3, 6-3 Conf",14,35,NULL,NULL,Final,ABC,0,7,7,0,NULL,7,7,14,7,NULL,NCAAF
-333650026,2013,"Tue, Dec 31",UCLA Bruins,Virginia Tech Hokies,10-3,8-5,42,12,NULL,NULL,Final,CBS,7,7,0,28,NULL,7,0,3,2,NULL,NCAAF
+332570158,2013,"September 14, 2013",Nebraska Cornhuskers,UCLA Bruins,"2-1, 2-1 Home","2-0, 1-0 Away",21,41,,,Final,ABC,14,7,0,0,,3,7,28,3,,NCAAF
+332760254,2013,"October 03, 2013",Utah Utes,UCLA Bruins,"3-2, 0-2 Conf","4-0, 1-0 Conf",27,34,,,Final,FS1,14,3,0,10,,7,14,3,10,,NCAAF
+332920024,2013,"October 19, 2013",Stanford Cardinal,UCLA Bruins,"6-1, 4-1 Conf","5-1, 2-1 Conf",24,10,,,Final,ABC/ESPN2,3,0,14,7,,0,0,3,7,,NCAAF
+333060026,2013,"November 02, 2013",UCLA Bruins,Colorado Buffaloes,"6-2, 3-2 Conf","3-5, 0-5 Conf",45,23,,,Final,FS1,7,14,14,10,,3,10,0,10,,NCAAF
+333190026,2013,"November 15, 2013",UCLA Bruins,Washington Huskies,"8-2, 5-2 Conf","6-4, 3-4 Conf",41,31,,,Final,ESPN2,20,7,7,7,,7,10,7,7,,NCAAF
+332430026,2013,"August 31, 2013",UCLA Bruins,Nevada Wolf Pack,"1-0, 1-0 Home","0-1, 0-1 Away",58,20,,,Final,PAC12,7,10,20,21,,3,10,0,7,,NCAAF
+332640026,2013,"September 21, 2013",UCLA Bruins,New Mexico State Aggies,"3-0, 2-0 Home","0-4, 0-2 Away",59,13,,,Final,PAC12,7,24,14,14,,0,0,0,13,,NCAAF
+332850026,2013,"October 12, 2013",UCLA Bruins,California Golden Bears,"5-0, 2-0 Conf","1-5, 0-3 Conf",37,10,,,Final,ESPN2,10,14,6,7,,0,10,0,0,,NCAAF
+332992483,2013,"October 26, 2013",Oregon Ducks,UCLA Bruins,"8-0, 5-0 Conf","5-2, 2-2 Conf",42,14,,,Final,ESPN,7,7,7,21,,7,7,0,0,,NCAAF
+333130012,2013,"November 09, 2013",Arizona Wildcats,UCLA Bruins,"6-3, 3-3 Conf","7-2, 4-2 Conf",26,31,,,Final,ESPN,3,7,3,13,,14,7,3,7,,NCAAF
+333270026,2013,"November 23, 2013",UCLA Bruins,Arizona State Sun Devils,"8-3, 5-3 Conf","9-2, 7-1 Conf",33,38,,,Final,FOX,10,3,14,6,,14,21,3,0,,NCAAF
+333340030,2013,"November 30, 2013",USC Trojans,UCLA Bruins,"9-4, 6-3 Conf","9-3, 6-3 Conf",14,35,,,Final,ABC,0,7,7,0,,7,7,14,7,,NCAAF
+333650026,2013,"December 31, 2013",UCLA Bruins,Virginia Tech Hokies,10-3,8-5,42,12,,,Final,CBS,7,7,0,28,,7,0,3,2,,NCAAF

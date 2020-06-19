@@ -1,14 +1,14 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-292550098,2009,"Sat, Sep 12",Western Kentucky Hilltoppers,South Florida Bulls,"0-2, 0-1 Home","2-0, 1-0 Away",13,35,NULL,NULL,Final,NULL,3,3,7,0,NULL,7,7,7,14,NULL,NCAAF
-292690052,2009,"Sat, Sep 26",Florida State Seminoles,South Florida Bulls,"2-2, 1-2 Home","4-0, 2-0 Away",7,17,NULL,NULL,Final,ESPNU,0,0,0,7,NULL,0,14,0,3,NULL,NCAAF
-292880058,2009,"Thu, Oct 15",South Florida Bulls,Cincinnati Bearcats,"5-1, 1-1 Conf","6-0, 2-0 Conf",17,34,NULL,NULL,Final,ESPN,7,3,7,0,NULL,3,14,7,10,NULL,NCAAF
-293030058,2009,"Fri, Oct 30",South Florida Bulls,West Virginia Mountaineers,"6-2, 2-2 Conf","6-2, 2-1 Conf",30,19,NULL,NULL,Final,ESPN2,10,10,7,3,NULL,9,3,7,0,NULL,NCAAF
-293250058,2009,"Sat, Nov 21",South Florida Bulls,Louisville Cardinals,"7-3, 3-3 Conf","4-7, 1-5 Conf",34,22,NULL,NULL,Final,NULL,14,3,10,7,NULL,0,16,0,6,NULL,NCAAF
-292480058,2009,"Sat, Sep 5",South Florida Bulls,Wofford Terriers,"1-0, 1-0 Home","0-1, 0-1 Away",40,7,NULL,NULL,Final,NULL,7,9,10,14,NULL,7,0,0,0,NULL,NCAAF
-292620058,2009,"Sat, Sep 19",South Florida Bulls,Charleston Southern Buccaneers,"3-0, 2-0 Home","0-3, 0-3 Away",59,0,NULL,NULL,Final,NULL,21,14,14,10,NULL,0,0,0,0,NULL,NCAAF
-292760183,2009,"Sat, Oct 3",Syracuse Orange,South Florida Bulls,"2-3, 0-1 Conf","5-0, 1-0 Conf",20,34,NULL,NULL,Final,NULL,3,10,0,7,NULL,7,7,20,0,NULL,NCAAF
-292970221,2009,"Sat, Oct 24",Pittsburgh Panthers,South Florida Bulls,"7-1, 4-0 Conf","5-2, 1-2 Conf",41,14,NULL,NULL,Final,NULL,7,24,3,7,NULL,0,7,0,7,NULL,NCAAF
-293160164,2009,"Thu, Nov 12",Rutgers Scarlet Knights,South Florida Bulls,"7-2, 2-2 Conf","6-3, 2-3 Conf",31,0,NULL,NULL,Final,ESPN,10,3,8,10,NULL,0,0,0,0,NULL,NCAAF
-293320058,2009,"Sat, Nov 28",South Florida Bulls,Miami Hurricanes,"7-4, 4-2 Home","9-3, 4-2 Away",10,31,NULL,NULL,Final,ABC,0,3,7,0,NULL,14,7,7,3,NULL,NCAAF
-293390041,2009,"Sat, Dec 5",Connecticut Huskies,South Florida Bulls,"7-5, 3-4 Conf","7-5, 3-4 Conf",29,27,NULL,NULL,Final,ESPN2,6,7,7,9,NULL,0,7,7,13,NULL,NCAAF
-300022459,2009,"Sat, Jan 2",Northern Illinois Huskies,South Florida Bulls,7-6,8-5,3,27,NULL,NULL,Final,ESPN2,0,3,0,0,NULL,3,0,10,14,NULL,NCAAF
+292550098,2009,"September 12, 2009",Western Kentucky Hilltoppers,South Florida Bulls,"0-2, 0-1 Home","2-0, 1-0 Away",13,35,,,Final,,3,3,7,0,,7,7,7,14,,NCAAF
+292690052,2009,"September 26, 2009",Florida State Seminoles,South Florida Bulls,"2-2, 1-2 Home","4-0, 2-0 Away",7,17,,,Final,ESPNU,0,0,0,7,,0,14,0,3,,NCAAF
+292880058,2009,"October 15, 2009",South Florida Bulls,Cincinnati Bearcats,"5-1, 1-1 Conf","6-0, 2-0 Conf",17,34,,,Final,ESPN,7,3,7,0,,3,14,7,10,,NCAAF
+293030058,2009,"October 30, 2009",South Florida Bulls,West Virginia Mountaineers,"6-2, 2-2 Conf","6-2, 2-1 Conf",30,19,,,Final,ESPN2,10,10,7,3,,9,3,7,0,,NCAAF
+293250058,2009,"November 21, 2009",South Florida Bulls,Louisville Cardinals,"7-3, 3-3 Conf","4-7, 1-5 Conf",34,22,,,Final,,14,3,10,7,,0,16,0,6,,NCAAF
+292480058,2009,"September 05, 2009",South Florida Bulls,Wofford Terriers,"1-0, 1-0 Home","0-1, 0-1 Away",40,7,,,Final,,7,9,10,14,,7,0,0,0,,NCAAF
+292620058,2009,"September 19, 2009",South Florida Bulls,Charleston Southern Buccaneers,"3-0, 2-0 Home","0-3, 0-3 Away",59,0,,,Final,,21,14,14,10,,0,0,0,0,,NCAAF
+292760183,2009,"October 03, 2009",Syracuse Orange,South Florida Bulls,"2-3, 0-1 Conf","5-0, 1-0 Conf",20,34,,,Final,,3,10,0,7,,7,7,20,0,,NCAAF
+292970221,2009,"October 24, 2009",Pittsburgh Panthers,South Florida Bulls,"7-1, 4-0 Conf","5-2, 1-2 Conf",41,14,,,Final,,7,24,3,7,,0,7,0,7,,NCAAF
+293160164,2009,"November 12, 2009",Rutgers Scarlet Knights,South Florida Bulls,"7-2, 2-2 Conf","6-3, 2-3 Conf",31,0,,,Final,ESPN,10,3,8,10,,0,0,0,0,,NCAAF
+293320058,2009,"November 28, 2009",South Florida Bulls,Miami Hurricanes,"7-4, 4-2 Home","9-3, 4-2 Away",10,31,,,Final,ABC,0,3,7,0,,14,7,7,3,,NCAAF
+293390041,2009,"December 05, 2009",Connecticut Huskies,South Florida Bulls,"7-5, 3-4 Conf","7-5, 3-4 Conf",29,27,,,Final,ESPN2,6,7,7,9,,0,7,7,13,,NCAAF
+300022459,2009,"January 02, 2010",Northern Illinois Huskies,South Florida Bulls,7-6,8-5,3,27,,,Final,ESPN2,0,3,0,0,,3,0,10,14,,NCAAF

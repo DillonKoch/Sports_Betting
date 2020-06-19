@@ -1,14 +1,14 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-400756892,2015,"Sat, Sep 12",Nevada Wolf Pack,Arizona Wildcats,"1-1, 1-1 Home","2-0, 1-0 Away",20,44,NULL,NULL,Final,CBSSN,3,10,0,7,NULL,14,7,13,10,NULL,NCAAF
-400787245,2015,"Sat, Sep 26",Buffalo Bulls,Nevada Wolf Pack,"2-2, 1-1 Home","2-2, 1-1 Away",21,24,NULL,NULL,Final,ESPN3,7,3,3,8,NULL,14,3,0,7,NULL,NCAAF
-400787258,2015,"Sat, Oct 10",Nevada Wolf Pack,New Mexico Lobos,"3-3, 1-1 Conf","3-3, 1-1 Conf",35,17,NULL,NULL,Final,NULL,0,14,7,14,NULL,3,7,0,7,NULL,NCAAF
-400787268,2015,"Sat, Oct 24",Nevada Wolf Pack,Hawai'i Rainbow Warriors,"4-4, 2-2 Conf","2-6, 0-4 Conf",30,20,NULL,NULL,Final,NULL,0,10,3,17,NULL,3,14,3,0,NULL,NCAAF
-400787284,2015,"Sat, Nov 14",Nevada Wolf Pack,San Jose State Spartans,"6-4, 4-2 Conf","4-6, 3-3 Conf",37,34,NULL,NULL,Final/OT,NULL,7,3,7,14,6,0,14,7,10,3,NCAAF
-400787108,2015,"Thu, Sep 3",Nevada Wolf Pack,UC Davis Aggies,"1-0, 1-0 Home","0-1, 0-1 Away",31,17,NULL,NULL,Final,NULL,7,14,3,7,NULL,0,3,0,14,NULL,NCAAF
-400603858,2015,"Sat, Sep 19",Texas A&M Aggies,Nevada Wolf Pack,"3-0, 2-0 Home","1-2, 0-1 Away",44,27,NULL,NULL,Final,SECN,14,10,14,6,NULL,7,3,10,7,NULL,NCAAF
-400787251,2015,"Sat, Oct 3",Nevada Wolf Pack,UNLV Rebels,"2-3, 0-1 Conf","2-3, 1-0 Conf",17,23,NULL,NULL,Final,NULL,0,0,3,14,NULL,7,6,0,10,NULL,NCAAF
-400787264,2015,"Sat, Oct 17",Wyoming Cowboys,Nevada Wolf Pack,"1-6, 1-2 Conf","3-4, 1-2 Conf",28,21,NULL,NULL,Final,ESPN3,0,21,7,0,NULL,0,7,7,7,NULL,NCAAF
-400790886,2015,"Thu, Nov 5",Fresno State Bulldogs,Nevada Wolf Pack,"2-7, 1-5 Conf","5-4, 3-2 Conf",16,30,NULL,NULL,Final,ESPN2,0,16,0,0,NULL,7,10,6,7,NULL,NCAAF
-400787290,2015,"Sat, Nov 21",Utah State Aggies,Nevada Wolf Pack,"6-5, 5-3 Conf","6-5, 4-3 Conf",31,27,NULL,NULL,Final,ESPN3,0,7,14,10,NULL,7,14,6,0,NULL,NCAAF
-400787296,2015,"Sat, Nov 28",San Diego State Aztecs,Nevada Wolf Pack,"9-3, 8-0 Conf","6-6, 4-4 Conf",31,14,NULL,NULL,Final,ESPN2,14,7,3,7,NULL,7,7,0,0,NULL,NCAAF
-400852725,2015,"Tue, Dec 29",Colorado State Rams,Nevada Wolf Pack,7-6,7-6,23,28,NULL,NULL,Final,NULL,0,13,7,3,NULL,3,16,3,6,NULL,NCAAF
+400756892,2015,"September 12, 2015",Nevada Wolf Pack,Arizona Wildcats,"1-1, 1-1 Home","2-0, 1-0 Away",20,44,,,Final,CBSSN,3,10,0,7,,14,7,13,10,,NCAAF
+400787245,2015,"September 26, 2015",Buffalo Bulls,Nevada Wolf Pack,"2-2, 1-1 Home","2-2, 1-1 Away",21,24,,,Final,ESPN3,7,3,3,8,,14,3,0,7,,NCAAF
+400787258,2015,"October 10, 2015",Nevada Wolf Pack,New Mexico Lobos,"3-3, 1-1 Conf","3-3, 1-1 Conf",35,17,,,Final,,0,14,7,14,,3,7,0,7,,NCAAF
+400787268,2015,"October 24, 2015",Nevada Wolf Pack,Hawai'i Rainbow Warriors,"4-4, 2-2 Conf","2-6, 0-4 Conf",30,20,,,Final,,0,10,3,17,,3,14,3,0,,NCAAF
+400787284,2015,"November 14, 2015",Nevada Wolf Pack,San Jose State Spartans,"6-4, 4-2 Conf","4-6, 3-3 Conf",37,34,,,Final/OT,,7,3,7,14,6.0,0,14,7,10,3.0,NCAAF
+400787108,2015,"September 03, 2015",Nevada Wolf Pack,UC Davis Aggies,"1-0, 1-0 Home","0-1, 0-1 Away",31,17,,,Final,,7,14,3,7,,0,3,0,14,,NCAAF
+400603858,2015,"September 19, 2015",Texas A&M Aggies,Nevada Wolf Pack,"3-0, 2-0 Home","1-2, 0-1 Away",44,27,,,Final,SECN,14,10,14,6,,7,3,10,7,,NCAAF
+400787251,2015,"October 03, 2015",Nevada Wolf Pack,UNLV Rebels,"2-3, 0-1 Conf","2-3, 1-0 Conf",17,23,,,Final,,0,0,3,14,,7,6,0,10,,NCAAF
+400787264,2015,"October 17, 2015",Wyoming Cowboys,Nevada Wolf Pack,"1-6, 1-2 Conf","3-4, 1-2 Conf",28,21,,,Final,ESPN3,0,21,7,0,,0,7,7,7,,NCAAF
+400790886,2015,"November 05, 2015",Fresno State Bulldogs,Nevada Wolf Pack,"2-7, 1-5 Conf","5-4, 3-2 Conf",16,30,,,Final,ESPN2,0,16,0,0,,7,10,6,7,,NCAAF
+400787290,2015,"November 21, 2015",Utah State Aggies,Nevada Wolf Pack,"6-5, 5-3 Conf","6-5, 4-3 Conf",31,27,,,Final,ESPN3,0,7,14,10,,7,14,6,0,,NCAAF
+400787296,2015,"November 28, 2015",San Diego State Aztecs,Nevada Wolf Pack,"9-3, 8-0 Conf","6-6, 4-4 Conf",31,14,,,Final,ESPN2,14,7,3,7,,7,7,0,0,,NCAAF
+400852725,2015,"December 29, 2015",Colorado State Rams,Nevada Wolf Pack,7-6,7-6,23,28,,,Final,,0,13,7,3,,3,16,3,6,,NCAAF

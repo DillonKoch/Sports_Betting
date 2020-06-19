@@ -4,7 +4,7 @@
 # File Created: Friday, 19th June 2020 8:59:03 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Friday, 19th June 2020 9:35:24 am
+# Last Modified: Friday, 19th June 2020 10:21:22 am
 # Modified By: Dillon Koch
 # -----
 #
@@ -25,7 +25,7 @@ if ROOT_PATH not in sys.path:
     sys.path.append(ROOT_PATH)
 
 
-league = "NBA"
+league = "NCAAF"
 teams = os.listdir(ROOT_PATH + "/ESPN_Data/{}/".format(league))
 print("{} {} teams".format(len(teams), league))
 

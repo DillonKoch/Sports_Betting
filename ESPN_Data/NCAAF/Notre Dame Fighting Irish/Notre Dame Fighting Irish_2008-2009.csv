@@ -1,14 +1,14 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-282570087,2008,"Sat, Sep 13",Notre Dame Fighting Irish,Michigan Wolverines,"2-0, 2-0 Home","1-2, 0-1 Away",35,17,NULL,NULL,Final,NBC,21,7,0,7,NULL,7,10,0,0,NULL,NCAAF
-282710087,2008,"Sat, Sep 27",Notre Dame Fighting Irish,Purdue Boilermakers,"3-1, 3-0 Home","2-2, 0-1 Away",38,21,NULL,NULL,Final,NBC,0,14,21,3,NULL,7,7,7,0,NULL,NCAAF
-282850153,2008,"Sat, Oct 11",North Carolina Tar Heels,Notre Dame Fighting Irish,"5-1, 3-1 Home","4-2, 0-2 Away",29,24,NULL,NULL,Final,ABCR,3,6,13,7,NULL,7,10,7,0,NULL,NCAAF
-283060087,2008,"Sat, Nov 1",Notre Dame Fighting Irish,Pittsburgh Panthers,"5-3, 4-1 Home","6-2, 4-0 Away",33,36,NULL,NULL,Final/OT,NBC,3,14,0,7,9,3,0,7,14,12,NCAAF
-283202426,2008,"Sat, Nov 15",Navy Midshipmen,Notre Dame Fighting Irish,"6-4, 4-2 Home","6-4, 2-3 Away",21,27,NULL,NULL,Final,CBS,0,7,0,14,NULL,7,3,14,3,NULL,NCAAF
-282500087,2008,"Sat, Sep 6",Notre Dame Fighting Irish,San Diego State Aztecs,"1-0, 1-0 Home","0-2, 0-1 Away",21,13,NULL,NULL,Final,NBC,0,7,0,14,NULL,0,7,6,0,NULL,NCAAF
-282640127,2008,"Sat, Sep 20",Michigan State Spartans,Notre Dame Fighting Irish,"3-1, 3-0 Home","2-1, 0-1 Away",23,7,NULL,NULL,Final,ABC,3,7,3,10,NULL,0,0,0,7,NULL,NCAAF
-282780087,2008,"Sat, Oct 4",Notre Dame Fighting Irish,Stanford Cardinal,"4-1, 4-0 Home","3-3, 1-3 Away",28,21,NULL,NULL,Final,NBC,7,14,7,0,NULL,0,7,0,14,NULL,NCAAF
-282990264,2008,"Sat, Oct 25",Washington Huskies,Notre Dame Fighting Irish,"0-7, 0-5 Home","5-2, 1-2 Away",7,33,NULL,NULL,Final,ESPN2,0,0,0,7,NULL,14,3,10,6,NULL,NCAAF
-283130103,2008,"Sat, Nov 8",Boston College Eagles,Notre Dame Fighting Irish,"6-3, 4-2 Home","5-4, 1-3 Away",17,0,NULL,NULL,Final,ESPN,3,7,7,0,NULL,0,0,0,0,NULL,NCAAF
-283270087,2008,"Sat, Nov 22",Notre Dame Fighting Irish,Syracuse Orange,"6-5, 4-2 Home","3-8, 1-4 Away",23,24,NULL,NULL,Final,NBC,3,10,10,0,NULL,3,7,0,14,NULL,NCAAF
-283340030,2008,"Sat, Nov 29",USC Trojans,Notre Dame Fighting Irish,"10-1, 6-0 Home","6-6, 2-4 Away",38,3,NULL,NULL,Final,ESPN,7,17,7,7,NULL,0,0,0,3,NULL,NCAAF
-283590087,2008,"Wed, Dec 24",Notre Dame Fighting Irish,Hawai'i Rainbow Warriors,7-6,7-7,49,21,NULL,NULL,Final,ESPN,7,21,21,0,NULL,0,7,7,7,NULL,NCAAF
+282570087,2008,"September 13, 2008",Notre Dame Fighting Irish,Michigan Wolverines,"2-0, 2-0 Home","1-2, 0-1 Away",35,17,,,Final,NBC,21,7,0,7,,7,10,0,0,,NCAAF
+282710087,2008,"September 27, 2008",Notre Dame Fighting Irish,Purdue Boilermakers,"3-1, 3-0 Home","2-2, 0-1 Away",38,21,,,Final,NBC,0,14,21,3,,7,7,7,0,,NCAAF
+282850153,2008,"October 11, 2008",North Carolina Tar Heels,Notre Dame Fighting Irish,"5-1, 3-1 Home","4-2, 0-2 Away",29,24,,,Final,ABCR,3,6,13,7,,7,10,7,0,,NCAAF
+283060087,2008,"November 01, 2008",Notre Dame Fighting Irish,Pittsburgh Panthers,"5-3, 4-1 Home","6-2, 4-0 Away",33,36,,,Final/OT,NBC,3,14,0,7,9.0,3,0,7,14,12.0,NCAAF
+283202426,2008,"November 15, 2008",Navy Midshipmen,Notre Dame Fighting Irish,"6-4, 4-2 Home","6-4, 2-3 Away",21,27,,,Final,CBS,0,7,0,14,,7,3,14,3,,NCAAF
+282500087,2008,"September 06, 2008",Notre Dame Fighting Irish,San Diego State Aztecs,"1-0, 1-0 Home","0-2, 0-1 Away",21,13,,,Final,NBC,0,7,0,14,,0,7,6,0,,NCAAF
+282640127,2008,"September 20, 2008",Michigan State Spartans,Notre Dame Fighting Irish,"3-1, 3-0 Home","2-1, 0-1 Away",23,7,,,Final,ABC,3,7,3,10,,0,0,0,7,,NCAAF
+282780087,2008,"October 04, 2008",Notre Dame Fighting Irish,Stanford Cardinal,"4-1, 4-0 Home","3-3, 1-3 Away",28,21,,,Final,NBC,7,14,7,0,,0,7,0,14,,NCAAF
+282990264,2008,"October 25, 2008",Washington Huskies,Notre Dame Fighting Irish,"0-7, 0-5 Home","5-2, 1-2 Away",7,33,,,Final,ESPN2,0,0,0,7,,14,3,10,6,,NCAAF
+283130103,2008,"November 08, 2008",Boston College Eagles,Notre Dame Fighting Irish,"6-3, 4-2 Home","5-4, 1-3 Away",17,0,,,Final,ESPN,3,7,7,0,,0,0,0,0,,NCAAF
+283270087,2008,"November 22, 2008",Notre Dame Fighting Irish,Syracuse Orange,"6-5, 4-2 Home","3-8, 1-4 Away",23,24,,,Final,NBC,3,10,10,0,,3,7,0,14,,NCAAF
+283340030,2008,"November 29, 2008",USC Trojans,Notre Dame Fighting Irish,"10-1, 6-0 Home","6-6, 2-4 Away",38,3,,,Final,ESPN,7,17,7,7,,0,0,0,3,,NCAAF
+283590087,2008,"December 24, 2008",Notre Dame Fighting Irish,Hawai'i Rainbow Warriors,7-6,7-7,49,21,,,Final,ESPN,7,21,21,0,,0,7,7,7,,NCAAF

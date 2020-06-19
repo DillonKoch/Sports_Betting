@@ -1,13 +1,13 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-242552426,2004,"Sat, Sep 11",Navy Midshipmen,Northeastern Huskies,"2-0, 2-0 Home","1-1, 0-1 Away",28,24,NULL,NULL,Final,NULL,7,7,14,0,NULL,7,10,7,0,NULL,NCAAF
-242692426,2004,"Sat, Sep 25",Navy Midshipmen,Vanderbilt Commodores,"4-0, 3-0 Home","0-3, 0-2 Away",29,26,NULL,NULL,Final,NULL,0,14,8,7,NULL,0,14,5,7,NULL,NCAAF
-242902426,2004,"Sat, Oct 16",Navy Midshipmen,Notre Dame Fighting Irish,"5-1, 3-1 Home","5-2, 2-1 Away",9,27,NULL,NULL,Final,NULL,0,0,3,6,NULL,14,3,7,3,NULL,NCAAF
-243042426,2004,"Sat, Oct 30",Navy Midshipmen,Delaware Blue Hens,"7-1, 5-1 Home","6-2, 2-1 Away",34,20,NULL,NULL,Final,NULL,7,7,13,7,NULL,7,3,0,10,NULL,NCAAF
-243252426,2004,"Sat, Nov 20",Navy Midshipmen,Rutgers Scarlet Knights,"8-2, 6-1 Home","4-6, 1-4 Away",54,21,NULL,NULL,Final,NULL,21,19,14,0,NULL,7,0,0,14,NULL,NCAAF
-242482426,2004,"Sat, Sep 4",Navy Midshipmen,Duke Blue Devils,"1-0, 1-0 Home","0-1, 0-1 Away",27,12,NULL,NULL,Final,NULL,0,6,14,7,NULL,3,3,6,0,NULL,NCAAF
-242620202,2004,"Sat, Sep 18",Tulsa Golden Hurricane,Navy Midshipmen,"0-3, 0-1 Home","3-0, 1-0 Away",0,29,NULL,NULL,Final,NULL,0,0,0,0,NULL,7,7,8,7,NULL,NCAAF
-242742005,2004,"Thu, Sep 30",Air Force Falcons,Navy Midshipmen,"2-3, 1-2 Home","5-0, 2-0 Away",21,24,NULL,NULL,Final,ESPN,3,3,0,15,NULL,0,14,0,10,NULL,NCAAF
-242972426,2004,"Sat, Oct 23",Navy Midshipmen,Rice Owls,"6-1, 4-1 Home","3-4, 0-4 Away",14,13,NULL,NULL,Final,NULL,0,7,7,0,NULL,0,0,0,13,NULL,NCAAF
-243112655,2004,"Sat, Nov 6",Tulane Green Wave,Navy Midshipmen,"3-5, 3-1 Home","7-2, 2-1 Away",42,10,NULL,NULL,Final,NULL,7,14,14,7,NULL,0,10,0,0,NULL,NCAAF
-243652426,2004,"Thu, Dec 30",Navy Midshipmen,New Mexico Lobos,"10-2, 8-1 Home","7-5, 4-3 Away",34,19,NULL,NULL,Final,ESPN2,14,10,7,3,NULL,7,12,0,0,NULL,NCAAF
-243392426,2004,"Sat, Dec 4",Navy Midshipmen,Army Black Knights,"9-2, 7-1 Home","2-9, 1-5 Away",42,13,NULL,NULL,Final,NULL,0,28,7,7,NULL,0,7,0,6,NULL,NCAAF
+242552426,2004,"September 11, 2004",Navy Midshipmen,Northeastern Huskies,"2-0, 2-0 Home","1-1, 0-1 Away",28,24,,,Final,,7,7,14,0,,7,10,7,0,,NCAAF
+242692426,2004,"September 25, 2004",Navy Midshipmen,Vanderbilt Commodores,"4-0, 3-0 Home","0-3, 0-2 Away",29,26,,,Final,,0,14,8,7,,0,14,5,7,,NCAAF
+242902426,2004,"October 16, 2004",Navy Midshipmen,Notre Dame Fighting Irish,"5-1, 3-1 Home","5-2, 2-1 Away",9,27,,,Final,,0,0,3,6,,14,3,7,3,,NCAAF
+243042426,2004,"October 30, 2004",Navy Midshipmen,Delaware Blue Hens,"7-1, 5-1 Home","6-2, 2-1 Away",34,20,,,Final,,7,7,13,7,,7,3,0,10,,NCAAF
+243252426,2004,"November 20, 2004",Navy Midshipmen,Rutgers Scarlet Knights,"8-2, 6-1 Home","4-6, 1-4 Away",54,21,,,Final,,21,19,14,0,,7,0,0,14,,NCAAF
+242482426,2004,"September 04, 2004",Navy Midshipmen,Duke Blue Devils,"1-0, 1-0 Home","0-1, 0-1 Away",27,12,,,Final,,0,6,14,7,,3,3,6,0,,NCAAF
+242620202,2004,"September 18, 2004",Tulsa Golden Hurricane,Navy Midshipmen,"0-3, 0-1 Home","3-0, 1-0 Away",0,29,,,Final,,0,0,0,0,,7,7,8,7,,NCAAF
+242742005,2004,"September 30, 2004",Air Force Falcons,Navy Midshipmen,"2-3, 1-2 Home","5-0, 2-0 Away",21,24,,,Final,ESPN,3,3,0,15,,0,14,0,10,,NCAAF
+242972426,2004,"October 23, 2004",Navy Midshipmen,Rice Owls,"6-1, 4-1 Home","3-4, 0-4 Away",14,13,,,Final,,0,7,7,0,,0,0,0,13,,NCAAF
+243112655,2004,"November 06, 2004",Tulane Green Wave,Navy Midshipmen,"3-5, 3-1 Home","7-2, 2-1 Away",42,10,,,Final,,7,14,14,7,,0,10,0,0,,NCAAF
+243652426,2004,"December 30, 2004",Navy Midshipmen,New Mexico Lobos,"10-2, 8-1 Home","7-5, 4-3 Away",34,19,,,Final,ESPN2,14,10,7,3,,7,12,0,0,,NCAAF
+243392426,2004,"December 04, 2004",Navy Midshipmen,Army Black Knights,"9-2, 7-1 Home","2-9, 1-5 Away",42,13,,,Final,,0,28,7,7,,0,7,0,6,,NCAAF

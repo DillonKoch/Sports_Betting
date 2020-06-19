@@ -1,12 +1,12 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-202532132,2000,"Sat, Sep 9",Cincinnati Bearcats,Syracuse Orange,,,12,10,NULL,NULL,Final,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NCAAF
-202740183,2000,"Sat, Sep 30",Syracuse Orange,BYU Cougars,,,16,15,NULL,NULL,Final,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NCAAF
-202880103,2000,"Sat, Oct 14",Boston College Eagles,Syracuse Orange,,,20,13,NULL,NULL,Final,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NCAAF
-203090277,2000,"Sat, Nov 4",West Virginia Mountaineers,Syracuse Orange,,,27,31,NULL,NULL,Final,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NCAAF
-203230183,2000,"Sat, Nov 18",Syracuse Orange,Miami Hurricanes,,"9-3, 0-0 Conf",0,26,NULL,NULL,Final,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NCAAF
-202460183,2000,"Sat, Sep 2",Syracuse Orange,Buffalo Bulls,,,63,7,NULL,NULL,Final,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NCAAF
-202670151,2000,"Sat, Sep 23",East Carolina Pirates,Syracuse Orange,,,34,17,NULL,NULL,Final,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NCAAF
-202810183,2000,"Sat, Oct 7",Syracuse Orange,Pittsburgh Panthers,,,17,24,NULL,NULL,Final,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NCAAF
-202950183,2000,"Sat, Oct 21",Syracuse Orange,Virginia Tech Hokies,,"7-0, 0-0 Conf",14,22,NULL,NULL,Final,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NCAAF
-203160218,2000,"Sat, Nov 11",Temple Owls,Syracuse Orange,,,12,31,NULL,NULL,Final,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NCAAF
-203300183,2000,"Sat, Nov 25",Syracuse Orange,Rutgers Scarlet Knights,,,49,21,NULL,NULL,Final,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NCAAF
+202532132,2000,"September 09, 2000",Cincinnati Bearcats,Syracuse Orange,,,12,10,,,Final,,N,U,L,L,,N,U,L,L,,NCAAF
+202740183,2000,"September 30, 2000",Syracuse Orange,BYU Cougars,,,16,15,,,Final,,N,U,L,L,,N,U,L,L,,NCAAF
+202880103,2000,"October 14, 2000",Boston College Eagles,Syracuse Orange,,,20,13,,,Final,,N,U,L,L,,N,U,L,L,,NCAAF
+203090277,2000,"November 04, 2000",West Virginia Mountaineers,Syracuse Orange,,,27,31,,,Final,,N,U,L,L,,N,U,L,L,,NCAAF
+203230183,2000,"November 18, 2000",Syracuse Orange,Miami Hurricanes,,"9-3, 0-0 Conf",0,26,,,Final,,N,U,L,L,,N,U,L,L,,NCAAF
+202460183,2000,"September 02, 2000",Syracuse Orange,Buffalo Bulls,,,63,7,,,Final,,N,U,L,L,,N,U,L,L,,NCAAF
+202670151,2000,"September 23, 2000",East Carolina Pirates,Syracuse Orange,,,34,17,,,Final,,N,U,L,L,,N,U,L,L,,NCAAF
+202810183,2000,"October 07, 2000",Syracuse Orange,Pittsburgh Panthers,,,17,24,,,Final,,N,U,L,L,,N,U,L,L,,NCAAF
+202950183,2000,"October 21, 2000",Syracuse Orange,Virginia Tech Hokies,,"7-0, 0-0 Conf",14,22,,,Final,,N,U,L,L,,N,U,L,L,,NCAAF
+203160218,2000,"November 11, 2000",Temple Owls,Syracuse Orange,,,12,31,,,Final,,N,U,L,L,,N,U,L,L,,NCAAF
+203300183,2000,"November 25, 2000",Syracuse Orange,Rutgers Scarlet Knights,,,49,21,,,Final,,N,U,L,L,,N,U,L,L,,NCAAF

@@ -1,14 +1,14 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-332572426,2013,"Sat, Sep 14",Navy Midshipmen,Delaware Blue Hens,"2-0, 1-0 Home","2-1, 0-1 Away",51,7,NULL,NULL,Final,CBSSN,10,13,14,14,NULL,0,7,0,0,NULL,NCAAF
-332782426,2013,"Sat, Oct 5",Navy Midshipmen,Air Force Falcons,"3-1, 2-0 Home","1-5, 0-3 Away",28,10,NULL,NULL,Final,CBS,0,7,7,14,NULL,3,7,0,0,NULL,NCAAF
-332922649,2013,"Sat, Oct 19",Toledo Rockets,Navy Midshipmen,"4-3, 3-0 Home","3-3, 1-3 Away",45,44,NULL,NULL,Final/2OT,NULL,3,7,14,7,14,7,7,7,10,13,NCAAF
-333060087,2013,"Sat, Nov 2",Notre Dame Fighting Irish,Navy Midshipmen,"7-2, 5-1 Home","4-4, 1-4 Away",38,34,NULL,NULL,Final,NBC,10,7,7,14,NULL,7,13,0,14,NULL,NCAAF
-333202426,2013,"Sat, Nov 16",Navy Midshipmen,South Alabama Jaguars,"6-4, 5-0 Home","3-6, 1-4 Away",42,14,NULL,NULL,Final,CBSSN,3,17,7,15,NULL,7,7,0,0,NULL,NCAAF
-332500084,2013,"Sat, Sep 7",Indiana Hoosiers,Navy Midshipmen,"1-1, 1-1 Home","1-0, 1-0 Away",35,41,NULL,NULL,Final,BTN,0,14,7,14,NULL,14,10,14,3,NULL,NCAAF
-332710098,2013,"Sat, Sep 28",Western Kentucky Hilltoppers,Navy Midshipmen,"3-2, 3-0 Home","2-1, 1-1 Away",19,7,NULL,NULL,Final,NULL,0,3,7,9,NULL,7,0,0,0,NULL,NCAAF
-332850150,2013,"Sat, Oct 12",Duke Blue Devils,Navy Midshipmen,"4-2, 3-2 Home","3-2, 1-2 Away",35,7,NULL,NULL,Final,NULL,0,14,14,7,NULL,0,7,0,0,NULL,NCAAF
-332992426,2013,"Sat, Oct 26",Navy Midshipmen,Pittsburgh Panthers,"4-3, 3-0 Home","4-3, 1-2 Away",24,21,NULL,NULL,Final,CBSSN,0,7,0,17,NULL,3,10,0,8,NULL,NCAAF
-333132426,2013,"Sat, Nov 9",Navy Midshipmen,Hawai'i Rainbow Warriors,"5-4, 4-0 Home","0-9, 0-5 Away",42,28,NULL,NULL,Final,CBSSN,7,7,14,14,NULL,0,14,0,14,NULL,NCAAF
-333260023,2013,"Fri, Nov 22",San Jose State Spartans,Navy Midshipmen,"5-6, 2-3 Home","7-4, 2-4 Away",52,58,NULL,NULL,Final/3OT,ESPN2,3,13,6,16,14,0,10,14,14,20,NCAAF
-333482426,2013,"Sat, Dec 14",Navy Midshipmen,Army Black Knights,8-4,3-9,34,7,NULL,NULL,Final,CBS,3,14,3,14,NULL,0,0,7,0,NULL,NCAAF
-333642426,2013,"Mon, Dec 30",Navy Midshipmen,Middle Tennessee Blue Raiders,9-4,8-5,24,6,NULL,NULL,Final,ESPN,7,3,0,14,NULL,3,3,0,0,NULL,NCAAF
+332572426,2013,"September 14, 2013",Navy Midshipmen,Delaware Blue Hens,"2-0, 1-0 Home","2-1, 0-1 Away",51,7,,,Final,CBSSN,10,13,14,14,,0,7,0,0,,NCAAF
+332782426,2013,"October 05, 2013",Navy Midshipmen,Air Force Falcons,"3-1, 2-0 Home","1-5, 0-3 Away",28,10,,,Final,CBS,0,7,7,14,,3,7,0,0,,NCAAF
+332922649,2013,"October 19, 2013",Toledo Rockets,Navy Midshipmen,"4-3, 3-0 Home","3-3, 1-3 Away",45,44,,,Final/2OT,,3,7,14,7,14.0,7,7,7,10,13.0,NCAAF
+333060087,2013,"November 02, 2013",Notre Dame Fighting Irish,Navy Midshipmen,"7-2, 5-1 Home","4-4, 1-4 Away",38,34,,,Final,NBC,10,7,7,14,,7,13,0,14,,NCAAF
+333202426,2013,"November 16, 2013",Navy Midshipmen,South Alabama Jaguars,"6-4, 5-0 Home","3-6, 1-4 Away",42,14,,,Final,CBSSN,3,17,7,15,,7,7,0,0,,NCAAF
+332500084,2013,"September 07, 2013",Indiana Hoosiers,Navy Midshipmen,"1-1, 1-1 Home","1-0, 1-0 Away",35,41,,,Final,BTN,0,14,7,14,,14,10,14,3,,NCAAF
+332710098,2013,"September 28, 2013",Western Kentucky Hilltoppers,Navy Midshipmen,"3-2, 3-0 Home","2-1, 1-1 Away",19,7,,,Final,,0,3,7,9,,7,0,0,0,,NCAAF
+332850150,2013,"October 12, 2013",Duke Blue Devils,Navy Midshipmen,"4-2, 3-2 Home","3-2, 1-2 Away",35,7,,,Final,,0,14,14,7,,0,7,0,0,,NCAAF
+332992426,2013,"October 26, 2013",Navy Midshipmen,Pittsburgh Panthers,"4-3, 3-0 Home","4-3, 1-2 Away",24,21,,,Final,CBSSN,0,7,0,17,,3,10,0,8,,NCAAF
+333132426,2013,"November 09, 2013",Navy Midshipmen,Hawai'i Rainbow Warriors,"5-4, 4-0 Home","0-9, 0-5 Away",42,28,,,Final,CBSSN,7,7,14,14,,0,14,0,14,,NCAAF
+333260023,2013,"November 22, 2013",San Jose State Spartans,Navy Midshipmen,"5-6, 2-3 Home","7-4, 2-4 Away",52,58,,,Final/3OT,ESPN2,3,13,6,16,14.0,0,10,14,14,20.0,NCAAF
+333482426,2013,"December 14, 2013",Navy Midshipmen,Army Black Knights,8-4,3-9,34,7,,,Final,CBS,3,14,3,14,,0,0,7,0,,NCAAF
+333642426,2013,"December 30, 2013",Navy Midshipmen,Middle Tennessee Blue Raiders,9-4,8-5,24,6,,,Final,ESPN,7,3,0,14,,3,3,0,0,,NCAAF

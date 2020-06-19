@@ -1,14 +1,14 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-322520087,2012,"Sat, Sep 8",Notre Dame Fighting Irish,Purdue Boilermakers,"2-0, 1-0 Home","1-1, 0-1 Away",20,17,NULL,NULL,Final,NBC,0,7,10,3,NULL,0,7,0,10,NULL,NCAAF
-322732509,2012,"Sat, Sep 29",Purdue Boilermakers,Marshall Thundering Herd,"3-1, 3-0 Home","2-3, 1-2 Away",51,41,NULL,NULL,Final,BTN,14,28,3,6,NULL,7,7,14,13,NULL,NCAAF
-322872509,2012,"Sat, Oct 13",Purdue Boilermakers,Wisconsin Badgers,"3-3, 0-2 Conf","5-2, 2-1 Conf",14,38,NULL,NULL,Final,BTN,7,0,0,7,NULL,7,10,7,14,NULL,NCAAF
-323010135,2012,"Sat, Oct 27",Minnesota Golden Gophers,Purdue Boilermakers,"5-3, 1-3 Conf","3-5, 0-4 Conf",44,28,NULL,NULL,Final,BTN,14,20,10,0,NULL,7,0,14,7,NULL,NCAAF
-323152294,2012,"Sat, Nov 10",Iowa Hawkeyes,Purdue Boilermakers,"4-6, 2-4 Conf","4-6, 1-5 Conf",24,27,NULL,NULL,Final,BTN,0,7,14,3,NULL,7,7,10,3,NULL,NCAAF
-322452509,2012,"Sat, Sep 1",Purdue Boilermakers,Eastern Kentucky Colonels,"1-0, 1-0 Home","0-1, 0-1 Away",48,6,NULL,NULL,Final,BTN,13,21,7,7,NULL,0,6,0,0,NULL,NCAAF
-322592509,2012,"Sat, Sep 15",Purdue Boilermakers,Eastern Michigan Eagles,"2-1, 2-0 Home","0-3, 0-2 Away",54,16,NULL,NULL,Final,BTN,13,20,7,14,NULL,0,9,0,7,NULL,NCAAF
-322802509,2012,"Sat, Oct 6",Purdue Boilermakers,Michigan Wolverines,"3-2, 0-1 Conf","3-2, 1-0 Conf",13,44,NULL,NULL,Final,BTN,0,10,0,3,NULL,7,21,3,13,NULL,NCAAF
-322940194,2012,"Sat, Oct 20",Ohio State Buckeyes,Purdue Boilermakers,"8-0, 4-0 Conf","3-4, 0-3 Conf",29,22,NULL,NULL,Final/OT,ABC/ESPN2,7,0,7,8,7,13,0,7,2,0,NCAAF
-323082509,2012,"Sat, Nov 3",Purdue Boilermakers,Penn State Nittany Lions,"3-6, 0-5 Conf","6-3, 4-1 Conf",9,34,NULL,NULL,Final,ESPNU,3,0,0,6,NULL,10,10,14,0,NULL,NCAAF
-323220356,2012,"Sat, Nov 17",Illinois Fighting Illini,Purdue Boilermakers,"2-9, 0-7 Conf","5-6, 2-5 Conf",17,20,NULL,NULL,Final,BTN,0,3,7,7,NULL,0,6,14,0,NULL,NCAAF
-323292509,2012,"Sat, Nov 24",Purdue Boilermakers,Indiana Hoosiers,"6-6, 3-5 Conf","4-8, 2-6 Conf",56,35,NULL,NULL,Final,BTN,14,0,21,21,NULL,7,14,7,7,NULL,NCAAF
-330010197,2012,"Tue, Jan 1",Oklahoma State Cowboys,Purdue Boilermakers,8-5,6-7,58,14,NULL,NULL,Final,ESPNU,14,14,17,13,NULL,0,0,7,7,NULL,NCAAF
+322520087,2012,"September 08, 2012",Notre Dame Fighting Irish,Purdue Boilermakers,"2-0, 1-0 Home","1-1, 0-1 Away",20,17,,,Final,NBC,0,7,10,3,,0,7,0,10,,NCAAF
+322732509,2012,"September 29, 2012",Purdue Boilermakers,Marshall Thundering Herd,"3-1, 3-0 Home","2-3, 1-2 Away",51,41,,,Final,BTN,14,28,3,6,,7,7,14,13,,NCAAF
+322872509,2012,"October 13, 2012",Purdue Boilermakers,Wisconsin Badgers,"3-3, 0-2 Conf","5-2, 2-1 Conf",14,38,,,Final,BTN,7,0,0,7,,7,10,7,14,,NCAAF
+323010135,2012,"October 27, 2012",Minnesota Golden Gophers,Purdue Boilermakers,"5-3, 1-3 Conf","3-5, 0-4 Conf",44,28,,,Final,BTN,14,20,10,0,,7,0,14,7,,NCAAF
+323152294,2012,"November 10, 2012",Iowa Hawkeyes,Purdue Boilermakers,"4-6, 2-4 Conf","4-6, 1-5 Conf",24,27,,,Final,BTN,0,7,14,3,,7,7,10,3,,NCAAF
+322452509,2012,"September 01, 2012",Purdue Boilermakers,Eastern Kentucky Colonels,"1-0, 1-0 Home","0-1, 0-1 Away",48,6,,,Final,BTN,13,21,7,7,,0,6,0,0,,NCAAF
+322592509,2012,"September 15, 2012",Purdue Boilermakers,Eastern Michigan Eagles,"2-1, 2-0 Home","0-3, 0-2 Away",54,16,,,Final,BTN,13,20,7,14,,0,9,0,7,,NCAAF
+322802509,2012,"October 06, 2012",Purdue Boilermakers,Michigan Wolverines,"3-2, 0-1 Conf","3-2, 1-0 Conf",13,44,,,Final,BTN,0,10,0,3,,7,21,3,13,,NCAAF
+322940194,2012,"October 20, 2012",Ohio State Buckeyes,Purdue Boilermakers,"8-0, 4-0 Conf","3-4, 0-3 Conf",29,22,,,Final/OT,ABC/ESPN2,7,0,7,8,7.0,13,0,7,2,0.0,NCAAF
+323082509,2012,"November 03, 2012",Purdue Boilermakers,Penn State Nittany Lions,"3-6, 0-5 Conf","6-3, 4-1 Conf",9,34,,,Final,ESPNU,3,0,0,6,,10,10,14,0,,NCAAF
+323220356,2012,"November 17, 2012",Illinois Fighting Illini,Purdue Boilermakers,"2-9, 0-7 Conf","5-6, 2-5 Conf",17,20,,,Final,BTN,0,3,7,7,,0,6,14,0,,NCAAF
+323292509,2012,"November 24, 2012",Purdue Boilermakers,Indiana Hoosiers,"6-6, 3-5 Conf","4-8, 2-6 Conf",56,35,,,Final,BTN,14,0,21,21,,7,14,7,7,,NCAAF
+330010197,2012,"January 01, 2013",Oklahoma State Cowboys,Purdue Boilermakers,8-5,6-7,58,14,,,Final,ESPNU,14,14,17,13,,0,0,7,7,,NCAAF

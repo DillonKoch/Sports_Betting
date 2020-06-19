@@ -1,14 +1,14 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-262520218,2006,"Sat, Sep 9",Temple Owls,Louisville Cardinals,"0-2, 0-1 Home","2-0, 1-0 Away",0,62,NULL,NULL,Final,NULL,0,0,0,0,NULL,14,28,7,13,NULL,NCAAF
-262662306,2006,"Sat, Sep 23",Kansas State Wildcats,Louisville Cardinals,"3-1, 3-1 Home","4-0, 2-0 Away",6,24,NULL,NULL,Final,FSN,0,0,0,6,NULL,7,3,7,7,NULL,NCAAF
-262870097,2006,"Sat, Oct 14",Louisville Cardinals,Cincinnati Bearcats,"6-0, 1-0 Conf","3-4, 0-2 Conf",23,17,NULL,NULL,Final,ESPNU,0,13,7,3,NULL,3,7,0,7,NULL,NCAAF
-263060097,2006,"Thu, Nov 2",Louisville Cardinals,West Virginia Mountaineers,"8-0, 3-0 Conf","7-1, 2-1 Conf",44,34,NULL,NULL,Final,NULL,3,13,14,14,NULL,7,7,7,13,NULL,NCAAF
-263220097,2006,"Sat, Nov 18",Louisville Cardinals,South Florida Bulls,"9-1, 4-1 Conf","7-4, 3-3 Conf",31,8,NULL,NULL,Final,ESPNU,0,10,14,7,NULL,0,0,0,8,NULL,NCAAF
-262450097,2006,"Sun, Sep 3",Louisville Cardinals,Kentucky Wildcats,"1-0, 1-0 Home","0-1, 0-1 Away",59,28,NULL,NULL,Final,ESPN,14,17,14,14,NULL,0,14,7,7,NULL,NCAAF
-262590097,2006,"Sat, Sep 16",Louisville Cardinals,Miami Hurricanes,"3-0, 2-0 Home","1-2, 0-1 Away",31,7,NULL,NULL,Final,ABC,0,10,14,7,NULL,7,0,0,0,NULL,NCAAF
-262792393,2006,"Fri, Oct 6",Middle Tennessee Blue Raiders,Louisville Cardinals,"3-3, 2-1 Home","5-0, 3-0 Away",17,44,NULL,NULL,Final,ESPN2,10,0,0,7,NULL,10,13,7,14,NULL,NCAAF
-262940183,2006,"Sat, Oct 21",Syracuse Orange,Louisville Cardinals,"3-5, 0-3 Conf","7-0, 2-0 Conf",13,28,NULL,NULL,Final,NULL,0,6,0,7,NULL,0,7,7,14,NULL,NCAAF
-263130164,2006,"Thu, Nov 9",Rutgers Scarlet Knights,Louisville Cardinals,"9-0, 4-0 Conf","8-1, 3-1 Conf",28,25,NULL,NULL,Final,ESPN,7,7,8,6,NULL,15,10,0,0,NULL,NCAAF
-263290221,2006,"Sat, Nov 25",Pittsburgh Panthers,Louisville Cardinals,"6-6, 2-5 Conf","10-1, 5-1 Conf",24,48,NULL,NULL,Final,ESPN,14,3,0,7,NULL,10,14,14,10,NULL,NCAAF
-263360097,2006,"Sat, Dec 2",Louisville Cardinals,Connecticut Huskies,"11-1, 6-1 Conf","4-8, 1-6 Conf",48,17,NULL,NULL,Final,ESPN,10,17,7,14,NULL,3,7,0,7,NULL,NCAAF
-270020154,2006,"Tue, Jan 2",Wake Forest Demon Deacons,Louisville Cardinals,"11-3, 4-3 Home","12-1, 6-1 Away",13,24,NULL,NULL,Final,FOX,0,3,7,3,NULL,0,10,0,14,NULL,NCAAF
+262520218,2006,"September 09, 2006",Temple Owls,Louisville Cardinals,"0-2, 0-1 Home","2-0, 1-0 Away",0,62,,,Final,,0,0,0,0,,14,28,7,13,,NCAAF
+262662306,2006,"September 23, 2006",Kansas State Wildcats,Louisville Cardinals,"3-1, 3-1 Home","4-0, 2-0 Away",6,24,,,Final,FSN,0,0,0,6,,7,3,7,7,,NCAAF
+262870097,2006,"October 14, 2006",Louisville Cardinals,Cincinnati Bearcats,"6-0, 1-0 Conf","3-4, 0-2 Conf",23,17,,,Final,ESPNU,0,13,7,3,,3,7,0,7,,NCAAF
+263060097,2006,"November 02, 2006",Louisville Cardinals,West Virginia Mountaineers,"8-0, 3-0 Conf","7-1, 2-1 Conf",44,34,,,Final,,3,13,14,14,,7,7,7,13,,NCAAF
+263220097,2006,"November 18, 2006",Louisville Cardinals,South Florida Bulls,"9-1, 4-1 Conf","7-4, 3-3 Conf",31,8,,,Final,ESPNU,0,10,14,7,,0,0,0,8,,NCAAF
+262450097,2006,"September 03, 2006",Louisville Cardinals,Kentucky Wildcats,"1-0, 1-0 Home","0-1, 0-1 Away",59,28,,,Final,ESPN,14,17,14,14,,0,14,7,7,,NCAAF
+262590097,2006,"September 16, 2006",Louisville Cardinals,Miami Hurricanes,"3-0, 2-0 Home","1-2, 0-1 Away",31,7,,,Final,ABC,0,10,14,7,,7,0,0,0,,NCAAF
+262792393,2006,"October 06, 2006",Middle Tennessee Blue Raiders,Louisville Cardinals,"3-3, 2-1 Home","5-0, 3-0 Away",17,44,,,Final,ESPN2,10,0,0,7,,10,13,7,14,,NCAAF
+262940183,2006,"October 21, 2006",Syracuse Orange,Louisville Cardinals,"3-5, 0-3 Conf","7-0, 2-0 Conf",13,28,,,Final,,0,6,0,7,,0,7,7,14,,NCAAF
+263130164,2006,"November 09, 2006",Rutgers Scarlet Knights,Louisville Cardinals,"9-0, 4-0 Conf","8-1, 3-1 Conf",28,25,,,Final,ESPN,7,7,8,6,,15,10,0,0,,NCAAF
+263290221,2006,"November 25, 2006",Pittsburgh Panthers,Louisville Cardinals,"6-6, 2-5 Conf","10-1, 5-1 Conf",24,48,,,Final,ESPN,14,3,0,7,,10,14,14,10,,NCAAF
+263360097,2006,"December 02, 2006",Louisville Cardinals,Connecticut Huskies,"11-1, 6-1 Conf","4-8, 1-6 Conf",48,17,,,Final,ESPN,10,17,7,14,,3,7,0,7,,NCAAF
+270020154,2006,"January 02, 2007",Wake Forest Demon Deacons,Louisville Cardinals,"11-3, 4-3 Home","12-1, 6-1 Away",13,24,,,Final,FOX,0,3,7,3,,0,10,0,14,,NCAAF

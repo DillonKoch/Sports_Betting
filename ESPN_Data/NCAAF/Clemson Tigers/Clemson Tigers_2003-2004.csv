@@ -1,14 +1,14 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-232490228,2003,"Sat, Sep 6",Clemson Tigers,Furman Paladins,"1-1, 1-1 Home","1-1, 0-1 Away",28,17,NULL,NULL,Final,NULL,14,14,0,0,NULL,0,7,0,10,NULL,NCAAF
-232630059,2003,"Sat, Sep 20",Georgia Tech Yellow Jackets,Clemson Tigers,"1-3, 0-2 Conf","3-1, 1-0 Conf",3,39,NULL,NULL,Final,NULL,0,3,0,0,NULL,3,20,2,14,NULL,NCAAF
-232840228,2003,"Sat, Oct 11",Clemson Tigers,Virginia Cavaliers,"4-2, 2-1 Conf","4-2, 3-1 Conf",30,27,NULL,NULL,Final/OT,NULL,3,7,0,14,6,0,0,17,7,3,NCAAF
-232980228,2003,"Sat, Oct 25",Clemson Tigers,North Carolina Tar Heels,"5-3, 3-2 Conf","1-7, 0-4 Conf",36,28,NULL,NULL,Final,NULL,13,3,14,6,NULL,0,14,14,0,NULL,NCAAF
-233120228,2003,"Sat, Nov 8",Clemson Tigers,Florida State Seminoles,"6-4, 4-3 Conf","8-2, 6-1 Conf",26,10,NULL,NULL,Final,ESPN,3,10,10,3,NULL,0,0,3,7,NULL,NCAAF
-232420228,2003,"Sat, Aug 30",Clemson Tigers,Georgia Bulldogs,"0-1, 0-1 Home","1-0, 1-0 Away",0,30,NULL,NULL,Final,NULL,0,0,0,0,NULL,10,3,3,14,NULL,NCAAF
-232560228,2003,"Sat, Sep 13",Clemson Tigers,Middle Tennessee Blue Raiders,"2-1, 2-1 Home","0-3, 0-2 Away",37,14,NULL,NULL,Final,NULL,6,21,7,3,NULL,0,7,0,7,NULL,NCAAF
-232770120,2003,"Sat, Oct 4",Maryland Terrapins,Clemson Tigers,"4-2, 1-1 Conf","3-2, 1-1 Conf",21,7,NULL,NULL,Final,ABCR,7,7,7,0,NULL,0,7,0,0,NULL,NCAAF
-232890152,2003,"Thu, Oct 16",NC State Wolfpack,Clemson Tigers,"5-3, 2-2 Conf","4-3, 2-2 Conf",17,15,NULL,NULL,Final,ESPN,7,0,7,3,NULL,0,6,0,9,NULL,NCAAF
-233050154,2003,"Sat, Nov 1",Wake Forest Demon Deacons,Clemson Tigers,"5-4, 3-3 Conf","5-4, 3-3 Conf",45,17,NULL,NULL,Final,NULL,7,28,10,0,NULL,0,0,0,17,NULL,NCAAF
-233190228,2003,"Sat, Nov 15",Clemson Tigers,Duke Blue Devils,"7-4, 5-3 Conf","3-8, 1-6 Conf",40,7,NULL,NULL,Final,NULL,14,10,10,6,NULL,0,0,0,7,NULL,NCAAF
-233262579,2003,"Sat, Nov 22",South Carolina Gamecocks,Clemson Tigers,"5-7, 5-3 Home","8-4, 2-3 Away",17,63,NULL,NULL,Final,ESPN2,0,10,7,0,NULL,21,14,21,7,NULL,NCAAF
-240020228,2003,"Fri, Jan 2",Clemson Tigers,Tennessee Volunteers,"9-4, 7-1 Home","10-3, 4-2 Away",27,14,NULL,NULL,Final,ESPN,10,14,0,3,NULL,7,7,0,0,NULL,NCAAF
+232490228,2003,"September 06, 2003",Clemson Tigers,Furman Paladins,"1-1, 1-1 Home","1-1, 0-1 Away",28,17,,,Final,,14,14,0,0,,0,7,0,10,,NCAAF
+232630059,2003,"September 20, 2003",Georgia Tech Yellow Jackets,Clemson Tigers,"1-3, 0-2 Conf","3-1, 1-0 Conf",3,39,,,Final,,0,3,0,0,,3,20,2,14,,NCAAF
+232840228,2003,"October 11, 2003",Clemson Tigers,Virginia Cavaliers,"4-2, 2-1 Conf","4-2, 3-1 Conf",30,27,,,Final/OT,,3,7,0,14,6.0,0,0,17,7,3.0,NCAAF
+232980228,2003,"October 25, 2003",Clemson Tigers,North Carolina Tar Heels,"5-3, 3-2 Conf","1-7, 0-4 Conf",36,28,,,Final,,13,3,14,6,,0,14,14,0,,NCAAF
+233120228,2003,"November 08, 2003",Clemson Tigers,Florida State Seminoles,"6-4, 4-3 Conf","8-2, 6-1 Conf",26,10,,,Final,ESPN,3,10,10,3,,0,0,3,7,,NCAAF
+232420228,2003,"August 30, 2003",Clemson Tigers,Georgia Bulldogs,"0-1, 0-1 Home","1-0, 1-0 Away",0,30,,,Final,,0,0,0,0,,10,3,3,14,,NCAAF
+232560228,2003,"September 13, 2003",Clemson Tigers,Middle Tennessee Blue Raiders,"2-1, 2-1 Home","0-3, 0-2 Away",37,14,,,Final,,6,21,7,3,,0,7,0,7,,NCAAF
+232770120,2003,"October 04, 2003",Maryland Terrapins,Clemson Tigers,"4-2, 1-1 Conf","3-2, 1-1 Conf",21,7,,,Final,ABCR,7,7,7,0,,0,7,0,0,,NCAAF
+232890152,2003,"October 16, 2003",NC State Wolfpack,Clemson Tigers,"5-3, 2-2 Conf","4-3, 2-2 Conf",17,15,,,Final,ESPN,7,0,7,3,,0,6,0,9,,NCAAF
+233050154,2003,"November 01, 2003",Wake Forest Demon Deacons,Clemson Tigers,"5-4, 3-3 Conf","5-4, 3-3 Conf",45,17,,,Final,,7,28,10,0,,0,0,0,17,,NCAAF
+233190228,2003,"November 15, 2003",Clemson Tigers,Duke Blue Devils,"7-4, 5-3 Conf","3-8, 1-6 Conf",40,7,,,Final,,14,10,10,6,,0,0,0,7,,NCAAF
+233262579,2003,"November 22, 2003",South Carolina Gamecocks,Clemson Tigers,"5-7, 5-3 Home","8-4, 2-3 Away",17,63,,,Final,ESPN2,0,10,7,0,,21,14,21,7,,NCAAF
+240020228,2003,"January 02, 2004",Clemson Tigers,Tennessee Volunteers,"9-4, 7-1 Home","10-3, 4-2 Away",27,14,,,Final,ESPN,10,14,0,3,,7,7,0,0,,NCAAF

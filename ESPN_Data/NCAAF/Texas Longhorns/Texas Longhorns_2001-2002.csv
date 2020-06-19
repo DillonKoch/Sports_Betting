@@ -1,14 +1,14 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-212510251,2001,"Sat, Sep 8",Texas Longhorns,North Carolina Tar Heels,"2-0, 2-0 Home","0-3, 0-3 Away",44,14,NULL,NULL,Final,NULL,14,6,6,18,NULL,7,7,0,0,NULL,NCAAF
-212720251,2001,"Sat, Sep 29",Texas Longhorns,Texas Tech Red Raiders,"4-0, 1-0 Conf","2-1, 0-1 Conf",42,7,NULL,NULL,Final,NULL,14,7,14,7,NULL,0,7,0,0,NULL,NCAAF
-212860197,2001,"Sat, Oct 13",Oklahoma State Cowboys,Texas Longhorns,"2-4, 0-3 Conf","5-1, 2-1 Conf",17,45,NULL,NULL,Final,NULL,10,0,0,7,NULL,0,31,7,7,NULL,NCAAF
-213000142,2001,"Sat, Oct 27",Missouri Tigers,Texas Longhorns,"3-4, 2-3 Conf","7-1, 4-1 Conf",16,35,NULL,NULL,Final,NULL,0,10,0,6,NULL,0,14,7,14,NULL,NCAAF
-213140251,2001,"Sat, Nov 10",Texas Longhorns,Kansas Jayhawks,"9-1, 6-1 Conf","2-7, 1-6 Conf",59,0,NULL,NULL,Final,NULL,21,12,12,14,NULL,0,0,0,0,NULL,NCAAF
-212440251,2001,"Sat, Sep 1",Texas Longhorns,New Mexico State Aggies,"1-0, 1-0 Home","0-2, 0-2 Away",41,7,NULL,NULL,Final,NULL,14,10,3,14,NULL,0,0,7,0,NULL,NCAAF
-212650248,2001,"Sat, Sep 22",Houston Cougars,Texas Longhorns,"0-2, 0-2 Home","3-0, 1-0 Away",26,53,NULL,NULL,Final,NULL,7,7,0,12,NULL,10,10,13,20,NULL,NCAAF
-212790251,2001,"Sat, Oct 6",Texas Longhorns,Oklahoma Sooners,"4-1, 1-1 Conf","5-0, 2-0 Conf",3,14,NULL,NULL,Final,NULL,0,3,0,0,NULL,0,7,0,7,NULL,NCAAF
-212930251,2001,"Sat, Oct 20",Texas Longhorns,Colorado Buffaloes,"6-1, 3-1 Conf","5-2, 3-1 Conf",41,7,NULL,NULL,Final,NULL,7,17,10,7,NULL,0,7,0,0,NULL,NCAAF
-213070239,2001,"Sat, Nov 3",Baylor Bears,Texas Longhorns,"2-6, 0-6 Conf","8-1, 5-1 Conf",10,49,NULL,NULL,Final,NULL,0,10,0,0,NULL,14,14,7,14,NULL,NCAAF
-213270245,2001,"Fri, Nov 23",Texas A&M Aggies,Texas Longhorns,"7-4, 4-4 Conf","10-1, 7-1 Conf",7,21,NULL,NULL,Final,NULL,0,0,7,0,NULL,7,0,0,14,NULL,NCAAF
-213350251,2001,"Sat, Dec 1",Texas Longhorns,Colorado Buffaloes,"10-2, 7-1 Conf","10-2, 7-1 Conf",37,39,NULL,NULL,Final,NULL,7,10,3,17,NULL,7,22,7,3,NULL,NCAAF
-213620251,2001,"Fri, Dec 28",Texas Longhorns,Washington Huskies,"11-2, 6-2 Home","8-4, 2-4 Away",47,43,NULL,NULL,Final,NULL,0,14,6,27,NULL,0,23,13,7,NULL,NCAAF
+212510251,2001,"September 08, 2001",Texas Longhorns,North Carolina Tar Heels,"2-0, 2-0 Home","0-3, 0-3 Away",44,14,,,Final,,14,6,6,18,,7,7,0,0,,NCAAF
+212720251,2001,"September 29, 2001",Texas Longhorns,Texas Tech Red Raiders,"4-0, 1-0 Conf","2-1, 0-1 Conf",42,7,,,Final,,14,7,14,7,,0,7,0,0,,NCAAF
+212860197,2001,"October 13, 2001",Oklahoma State Cowboys,Texas Longhorns,"2-4, 0-3 Conf","5-1, 2-1 Conf",17,45,,,Final,,10,0,0,7,,0,31,7,7,,NCAAF
+213000142,2001,"October 27, 2001",Missouri Tigers,Texas Longhorns,"3-4, 2-3 Conf","7-1, 4-1 Conf",16,35,,,Final,,0,10,0,6,,0,14,7,14,,NCAAF
+213140251,2001,"November 10, 2001",Texas Longhorns,Kansas Jayhawks,"9-1, 6-1 Conf","2-7, 1-6 Conf",59,0,,,Final,,21,12,12,14,,0,0,0,0,,NCAAF
+212440251,2001,"September 01, 2001",Texas Longhorns,New Mexico State Aggies,"1-0, 1-0 Home","0-2, 0-2 Away",41,7,,,Final,,14,10,3,14,,0,0,7,0,,NCAAF
+212650248,2001,"September 22, 2001",Houston Cougars,Texas Longhorns,"0-2, 0-2 Home","3-0, 1-0 Away",26,53,,,Final,,7,7,0,12,,10,10,13,20,,NCAAF
+212790251,2001,"October 06, 2001",Texas Longhorns,Oklahoma Sooners,"4-1, 1-1 Conf","5-0, 2-0 Conf",3,14,,,Final,,0,3,0,0,,0,7,0,7,,NCAAF
+212930251,2001,"October 20, 2001",Texas Longhorns,Colorado Buffaloes,"6-1, 3-1 Conf","5-2, 3-1 Conf",41,7,,,Final,,7,17,10,7,,0,7,0,0,,NCAAF
+213070239,2001,"November 03, 2001",Baylor Bears,Texas Longhorns,"2-6, 0-6 Conf","8-1, 5-1 Conf",10,49,,,Final,,0,10,0,0,,14,14,7,14,,NCAAF
+213270245,2001,"November 23, 2001",Texas A&M Aggies,Texas Longhorns,"7-4, 4-4 Conf","10-1, 7-1 Conf",7,21,,,Final,,0,0,7,0,,7,0,0,14,,NCAAF
+213350251,2001,"December 01, 2001",Texas Longhorns,Colorado Buffaloes,"10-2, 7-1 Conf","10-2, 7-1 Conf",37,39,,,Final,,7,10,3,17,,7,22,7,3,,NCAAF
+213620251,2001,"December 28, 2001",Texas Longhorns,Washington Huskies,"11-2, 6-2 Home","8-4, 2-4 Away",47,43,,,Final,,0,14,6,27,,0,23,13,7,,NCAAF

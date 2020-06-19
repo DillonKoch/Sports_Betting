@@ -1,13 +1,13 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-400547821,2014,"Sat, Sep 6",Virginia Cavaliers,Richmond Spiders,"1-1, 1-1 Home","1-1, 0-1 Away",45,13,NULL,NULL,Final,ESPN3,7,7,17,14,NULL,3,0,10,0,NULL,NCAAF
-400547822,2014,"Sat, Sep 20",BYU Cougars,Virginia Cavaliers,"4-0, 2-0 Home","2-2, 0-1 Away",41,33,NULL,NULL,Final,ESPN,3,10,14,14,NULL,7,9,0,17,NULL,NCAAF
-400547812,2014,"Sat, Oct 4",Virginia Cavaliers,Pittsburgh Panthers,"4-2, 2-0 Conf","3-3, 1-1 Conf",24,19,NULL,NULL,Final,NULL,3,21,0,0,NULL,3,0,10,6,NULL,NCAAF
-400547799,2014,"Sat, Oct 25",Virginia Cavaliers,North Carolina Tar Heels,"4-4, 2-2 Conf","4-4, 2-2 Conf",27,28,NULL,NULL,Final,NULL,14,10,3,0,NULL,14,7,0,7,NULL,NCAAF
-400547769,2014,"Sat, Nov 8",Florida State Seminoles,Virginia Cavaliers,"9-0, 6-0 Conf","4-6, 2-4 Conf",34,20,NULL,NULL,Final,ESPN,7,21,6,0,NULL,13,0,7,0,NULL,NCAAF
-400547820,2014,"Sat, Aug 30",Virginia Cavaliers,UCLA Bruins,"0-1, 0-1 Home","1-0, 1-0 Away",20,28,NULL,NULL,Final,ESPN,0,10,7,3,NULL,0,21,7,0,NULL,NCAAF
-400547781,2014,"Sat, Sep 13",Virginia Cavaliers,Louisville Cardinals,"2-1, 1-0 Conf","2-1, 1-1 Conf",23,21,NULL,NULL,Final,NULL,7,3,10,3,NULL,7,0,0,14,NULL,NCAAF
-400547823,2014,"Sat, Sep 27",Virginia Cavaliers,Kent State Golden Flashes,"3-2, 3-1 Home","0-4, 0-2 Away",45,13,NULL,NULL,Final,ESPN3,7,7,17,14,NULL,10,0,0,3,NULL,NCAAF
-400547756,2014,"Sat, Oct 18",Duke Blue Devils,Virginia Cavaliers,"6-1, 2-1 Conf","4-3, 2-1 Conf",20,13,NULL,NULL,Final,NULL,7,3,3,7,NULL,0,10,3,0,NULL,NCAAF
-400547777,2014,"Sat, Nov 1",Georgia Tech Yellow Jackets,Virginia Cavaliers,"7-2, 4-2 Conf","4-5, 2-3 Conf",35,10,NULL,NULL,Final,ESPNU,14,7,7,7,NULL,7,3,0,0,NULL,NCAAF
-400547793,2014,"Sat, Nov 22",Virginia Cavaliers,Miami Hurricanes,"5-6, 3-4 Conf","6-5, 3-4 Conf",30,13,NULL,NULL,Final,ESPN2,0,13,7,10,NULL,7,0,0,6,NULL,NCAAF
-400547824,2014,"Fri, Nov 28",Virginia Tech Hokies,Virginia Cavaliers,"6-6, 3-5 Conf","5-7, 3-5 Conf",24,20,NULL,NULL,Final,ESPN,3,7,7,7,NULL,3,10,0,7,NULL,NCAAF
+400547821,2014,"September 06, 2014",Virginia Cavaliers,Richmond Spiders,"1-1, 1-1 Home","1-1, 0-1 Away",45,13,,,Final,ESPN3,7,7,17,14,,3,0,10,0,,NCAAF
+400547822,2014,"September 20, 2014",BYU Cougars,Virginia Cavaliers,"4-0, 2-0 Home","2-2, 0-1 Away",41,33,,,Final,ESPN,3,10,14,14,,7,9,0,17,,NCAAF
+400547812,2014,"October 04, 2014",Virginia Cavaliers,Pittsburgh Panthers,"4-2, 2-0 Conf","3-3, 1-1 Conf",24,19,,,Final,,3,21,0,0,,3,0,10,6,,NCAAF
+400547799,2014,"October 25, 2014",Virginia Cavaliers,North Carolina Tar Heels,"4-4, 2-2 Conf","4-4, 2-2 Conf",27,28,,,Final,,14,10,3,0,,14,7,0,7,,NCAAF
+400547769,2014,"November 08, 2014",Florida State Seminoles,Virginia Cavaliers,"9-0, 6-0 Conf","4-6, 2-4 Conf",34,20,,,Final,ESPN,7,21,6,0,,13,0,7,0,,NCAAF
+400547820,2014,"August 30, 2014",Virginia Cavaliers,UCLA Bruins,"0-1, 0-1 Home","1-0, 1-0 Away",20,28,,,Final,ESPN,0,10,7,3,,0,21,7,0,,NCAAF
+400547781,2014,"September 13, 2014",Virginia Cavaliers,Louisville Cardinals,"2-1, 1-0 Conf","2-1, 1-1 Conf",23,21,,,Final,,7,3,10,3,,7,0,0,14,,NCAAF
+400547823,2014,"September 27, 2014",Virginia Cavaliers,Kent State Golden Flashes,"3-2, 3-1 Home","0-4, 0-2 Away",45,13,,,Final,ESPN3,7,7,17,14,,10,0,0,3,,NCAAF
+400547756,2014,"October 18, 2014",Duke Blue Devils,Virginia Cavaliers,"6-1, 2-1 Conf","4-3, 2-1 Conf",20,13,,,Final,,7,3,3,7,,0,10,3,0,,NCAAF
+400547777,2014,"November 01, 2014",Georgia Tech Yellow Jackets,Virginia Cavaliers,"7-2, 4-2 Conf","4-5, 2-3 Conf",35,10,,,Final,ESPNU,14,7,7,7,,7,3,0,0,,NCAAF
+400547793,2014,"November 22, 2014",Virginia Cavaliers,Miami Hurricanes,"5-6, 3-4 Conf","6-5, 3-4 Conf",30,13,,,Final,ESPN2,0,13,7,10,,7,0,0,6,,NCAAF
+400547824,2014,"November 28, 2014",Virginia Tech Hokies,Virginia Cavaliers,"6-6, 3-5 Conf","5-7, 3-5 Conf",24,20,,,Final,ESPN,3,7,7,7,,3,10,0,7,,NCAAF

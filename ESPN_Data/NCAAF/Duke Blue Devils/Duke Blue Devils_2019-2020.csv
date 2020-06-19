@@ -1,13 +1,13 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-401112439,2019,"Sat, Sep 7",Duke Blue Devils,North Carolina A&T Aggies,"1-1, 1-0 Home","1-1, 0-1 Away",45,13,NULL,NULL,Final,ACCNX,7,21,10,7,NULL,3,7,3,0,NULL,NCAAF
-401112465,2019,"Fri, Sep 27",Virginia Tech Hokies,Duke Blue Devils,"2-2, 0-2 Conf","3-1, 1-0 Conf",10,45,VT -2.5,52,Final,ESPN,3,0,7,0,NULL,0,21,10,14,NULL,NCAAF
-401112480,2019,"Sat, Oct 12",Duke Blue Devils,Georgia Tech Yellow Jackets,"4-2, 2-1 Conf","1-5, 0-3 Conf",41,23,DUKE -17.5,48,Final,ACCNX,10,28,3,0,NULL,7,7,3,6,NULL,NCAAF
-401112491,2019,"Sat, Oct 26",North Carolina Tar Heels,Duke Blue Devils,"4-4, 3-2 Conf","4-4, 2-3 Conf",20,17,UNC -3.0,54,Final,ACCNX,7,0,10,3,NULL,3,0,14,0,NULL,NCAAF
-401112509,2019,"Sat, Nov 16",Duke Blue Devils,Syracuse Orange,"4-6, 2-4 Conf","4-6, 1-5 Conf",6,49,DUKE -9.0,49,Final,ACCN,0,6,0,0,NULL,14,0,21,14,NULL,NCAAF
-401110720,2019,"Sat, Aug 31",Alabama Crimson Tide,Duke Blue Devils,1-0,0-1,42,3,ALA -34.5,57,Final,ABC,0,14,21,7,NULL,0,3,0,0,NULL,NCAAF
-401112450,2019,"Sat, Sep 14",Middle Tennessee Blue Raiders,Duke Blue Devils,"1-2, 1-1 Home","2-1, 1-0 Away",18,41,DUKE -6.5,51,Final,NULL,3,0,8,7,NULL,14,17,10,0,NULL,NCAAF
-401112474,2019,"Sat, Oct 5",Duke Blue Devils,Pittsburgh Panthers,"3-2, 1-1 Conf","4-2, 1-1 Conf",30,33,DUKE -3.5,47,Final,ACCN,3,0,7,20,NULL,10,9,7,7,NULL,NCAAF
-401112486,2019,"Sat, Oct 19",Virginia Cavaliers,Duke Blue Devils,"5-2, 3-1 Conf","4-3, 2-2 Conf",48,14,UVA -3.5,46,Final,ACCN,0,17,24,7,NULL,0,0,7,7,NULL,NCAAF
-401111654,2019,"Sat, Nov 9",Duke Blue Devils,Notre Dame Fighting Irish,"4-5, 2-2 Home","7-2, 2-2 Away",7,38,ND -7.0,50,Final,ACCN,0,7,0,0,NULL,14,7,7,10,NULL,NCAAF
-401112515,2019,"Sat, Nov 23",Wake Forest Demon Deacons,Duke Blue Devils,"8-3, 4-3 Conf","4-7, 2-5 Conf",39,27,WAKE -6.5,51,Final,ACCN,3,10,10,16,NULL,7,3,3,14,NULL,NCAAF
-401112523,2019,"Sat, Nov 30",Duke Blue Devils,Miami Hurricanes,"5-7, 3-5 Conf","6-6, 4-4 Conf",27,17,MIA -8.5,45,Final,ESPN2,3,10,0,14,NULL,0,14,3,0,NULL,NCAAF
+401112439,2019,"September 07, 2019",Duke Blue Devils,North Carolina A&T Aggies,"1-1, 1-0 Home","1-1, 0-1 Away",45,13,,,Final,ACCNX,7,21,10,7,,3,7,3,0,,NCAAF
+401112465,2019,"September 27, 2019",Virginia Tech Hokies,Duke Blue Devils,"2-2, 0-2 Conf","3-1, 1-0 Conf",10,45,VT -2.5,52.0,Final,ESPN,3,0,7,0,,0,21,10,14,,NCAAF
+401112480,2019,"October 12, 2019",Duke Blue Devils,Georgia Tech Yellow Jackets,"4-2, 2-1 Conf","1-5, 0-3 Conf",41,23,DUKE -17.5,48.0,Final,ACCNX,10,28,3,0,,7,7,3,6,,NCAAF
+401112491,2019,"October 26, 2019",North Carolina Tar Heels,Duke Blue Devils,"4-4, 3-2 Conf","4-4, 2-3 Conf",20,17,UNC -3.0,54.0,Final,ACCNX,7,0,10,3,,3,0,14,0,,NCAAF
+401112509,2019,"November 16, 2019",Duke Blue Devils,Syracuse Orange,"4-6, 2-4 Conf","4-6, 1-5 Conf",6,49,DUKE -9.0,49.0,Final,ACCN,0,6,0,0,,14,0,21,14,,NCAAF
+401110720,2019,"August 31, 2019",Alabama Crimson Tide,Duke Blue Devils,1-0,0-1,42,3,ALA -34.5,57.0,Final,ABC,0,14,21,7,,0,3,0,0,,NCAAF
+401112450,2019,"September 14, 2019",Middle Tennessee Blue Raiders,Duke Blue Devils,"1-2, 1-1 Home","2-1, 1-0 Away",18,41,DUKE -6.5,51.0,Final,,3,0,8,7,,14,17,10,0,,NCAAF
+401112474,2019,"October 05, 2019",Duke Blue Devils,Pittsburgh Panthers,"3-2, 1-1 Conf","4-2, 1-1 Conf",30,33,DUKE -3.5,47.0,Final,ACCN,3,0,7,20,,10,9,7,7,,NCAAF
+401112486,2019,"October 19, 2019",Virginia Cavaliers,Duke Blue Devils,"5-2, 3-1 Conf","4-3, 2-2 Conf",48,14,UVA -3.5,46.0,Final,ACCN,0,17,24,7,,0,0,7,7,,NCAAF
+401111654,2019,"November 09, 2019",Duke Blue Devils,Notre Dame Fighting Irish,"4-5, 2-2 Home","7-2, 2-2 Away",7,38,ND -7.0,50.0,Final,ACCN,0,7,0,0,,14,7,7,10,,NCAAF
+401112515,2019,"November 23, 2019",Wake Forest Demon Deacons,Duke Blue Devils,"8-3, 4-3 Conf","4-7, 2-5 Conf",39,27,WAKE -6.5,51.0,Final,ACCN,3,10,10,16,,7,3,3,14,,NCAAF
+401112523,2019,"November 30, 2019",Duke Blue Devils,Miami Hurricanes,"5-7, 3-5 Conf","6-6, 4-4 Conf",27,17,MIA -8.5,45.0,Final,ESPN2,3,10,0,14,,0,14,3,0,,NCAAF

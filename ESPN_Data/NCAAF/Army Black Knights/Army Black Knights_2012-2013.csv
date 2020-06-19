@@ -1,14 +1,14 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-322590349,2012,"Sat, Sep 15",Army Black Knights,Northern Illinois Huskies,"0-2, 0-1 Home","2-1, 1-0 Away",40,41,NULL,NULL,Final,CBSSN,7,12,15,6,NULL,14,14,0,13,NULL,NCAAF
-322730349,2012,"Sat, Sep 29",Army Black Knights,Stony Brook Seawolves,"0-4, 0-2 Home","4-1, 1-1 Away",3,23,NULL,NULL,Final,CBSSN,0,0,3,0,NULL,7,6,7,3,NULL,NCAAF
-322870349,2012,"Sat, Oct 13",Army Black Knights,Kent State Golden Flashes,"1-5, 1-3 Home","5-1, 3-1 Away",17,31,NULL,NULL,Final,CBSSN,0,0,3,14,NULL,0,14,10,7,NULL,NCAAF
-323010349,2012,"Sat, Oct 27",Army Black Knights,Ball State Cardinals,"1-7, 1-4 Home","6-3, 3-2 Away",22,30,NULL,NULL,Final,CBSSN,7,3,3,9,NULL,14,3,3,10,NULL,NCAAF
-323150164,2012,"Sat, Nov 10",Rutgers Scarlet Knights,Army Black Knights,"8-1, 4-1 Home","2-8, 0-4 Away",28,7,NULL,NULL,Final,ESPNU,0,7,0,21,NULL,7,0,0,0,NULL,NCAAF
-400368353,2012,"Sat, Nov 17",Army Black Knights,Temple Owls,2-10,4-7,32,63,NULL,NULL,Final,NULL,0,10,14,8,NULL,14,14,14,21,NULL,NCAAF
-322520021,2012,"Sat, Sep 8",San Diego State Aztecs,Army Black Knights,"1-1, 1-0 Home","0-1, 0-1 Away",42,7,NULL,NULL,Final,NBCSN,14,7,21,0,NULL,0,0,7,0,NULL,NCAAF
-322660154,2012,"Sat, Sep 22",Wake Forest Demon Deacons,Army Black Knights,"3-1, 3-0 Home","0-3, 0-2 Away",49,37,NULL,NULL,Final,NULL,14,7,21,7,NULL,13,10,14,0,NULL,NCAAF
-322800349,2012,"Sat, Oct 6",Army Black Knights,Boston College Eagles,"1-4, 1-2 Home","1-4, 0-2 Away",34,31,NULL,NULL,Final,CBSSN,14,3,7,10,NULL,7,17,0,7,NULL,NCAAF
-322942199,2012,"Sat, Oct 20",Eastern Michigan Eagles,Army Black Knights,"1-6, 1-3 Home","1-6, 0-3 Away",48,38,NULL,NULL,Final,ESPN3,14,14,3,17,NULL,10,7,7,14,NULL,NCAAF
-323080349,2012,"Sat, Nov 3",Army Black Knights,Air Force Falcons,"2-7, 2-4 Home","5-4, 1-3 Away",41,21,NULL,NULL,Final,CBSSN,7,13,15,6,NULL,7,0,0,14,NULL,NCAAF
-323220349,2012,"Sat, Nov 17",Army Black Knights,Temple Owls,"2-9, 2-5 Home","4-6, 2-3 Away",32,63,NULL,NULL,Final,CBSSN,0,10,14,8,NULL,14,14,14,21,NULL,NCAAF
-323430349,2012,"Sat, Dec 8",Army Black Knights,Navy Midshipmen,2-10,8-4,13,17,NULL,NULL,Final,CBS,0,10,3,0,NULL,0,10,0,7,NULL,NCAAF
+322590349,2012,"September 15, 2012",Army Black Knights,Northern Illinois Huskies,"0-2, 0-1 Home","2-1, 1-0 Away",40,41,,,Final,CBSSN,7,12,15,6,,14,14,0,13,,NCAAF
+322730349,2012,"September 29, 2012",Army Black Knights,Stony Brook Seawolves,"0-4, 0-2 Home","4-1, 1-1 Away",3,23,,,Final,CBSSN,0,0,3,0,,7,6,7,3,,NCAAF
+322870349,2012,"October 13, 2012",Army Black Knights,Kent State Golden Flashes,"1-5, 1-3 Home","5-1, 3-1 Away",17,31,,,Final,CBSSN,0,0,3,14,,0,14,10,7,,NCAAF
+323010349,2012,"October 27, 2012",Army Black Knights,Ball State Cardinals,"1-7, 1-4 Home","6-3, 3-2 Away",22,30,,,Final,CBSSN,7,3,3,9,,14,3,3,10,,NCAAF
+323150164,2012,"November 10, 2012",Rutgers Scarlet Knights,Army Black Knights,"8-1, 4-1 Home","2-8, 0-4 Away",28,7,,,Final,ESPNU,0,7,0,21,,7,0,0,0,,NCAAF
+400368353,2012,"November 17, 2012",Army Black Knights,Temple Owls,2-10,4-7,32,63,,,Final,,0,10,14,8,,14,14,14,21,,NCAAF
+322520021,2012,"September 08, 2012",San Diego State Aztecs,Army Black Knights,"1-1, 1-0 Home","0-1, 0-1 Away",42,7,,,Final,NBCSN,14,7,21,0,,0,0,7,0,,NCAAF
+322660154,2012,"September 22, 2012",Wake Forest Demon Deacons,Army Black Knights,"3-1, 3-0 Home","0-3, 0-2 Away",49,37,,,Final,,14,7,21,7,,13,10,14,0,,NCAAF
+322800349,2012,"October 06, 2012",Army Black Knights,Boston College Eagles,"1-4, 1-2 Home","1-4, 0-2 Away",34,31,,,Final,CBSSN,14,3,7,10,,7,17,0,7,,NCAAF
+322942199,2012,"October 20, 2012",Eastern Michigan Eagles,Army Black Knights,"1-6, 1-3 Home","1-6, 0-3 Away",48,38,,,Final,ESPN3,14,14,3,17,,10,7,7,14,,NCAAF
+323080349,2012,"November 03, 2012",Army Black Knights,Air Force Falcons,"2-7, 2-4 Home","5-4, 1-3 Away",41,21,,,Final,CBSSN,7,13,15,6,,7,0,0,14,,NCAAF
+323220349,2012,"November 17, 2012",Army Black Knights,Temple Owls,"2-9, 2-5 Home","4-6, 2-3 Away",32,63,,,Final,CBSSN,0,10,14,8,,14,14,14,21,,NCAAF
+323430349,2012,"December 08, 2012",Army Black Knights,Navy Midshipmen,2-10,8-4,13,17,,,Final,CBS,0,10,3,0,,0,10,0,7,,NCAAF

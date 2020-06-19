@@ -1,13 +1,13 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-400548101,2014,"Sat, Sep 6",Florida Gators,Eastern Michigan Eagles,"1-0, 1-0 Home","1-1, 0-1 Away",65,0,NULL,NULL,Final,SECN,17,13,21,14,NULL,0,0,0,0,NULL,NCAAF
-400548384,2014,"Sat, Sep 20",Alabama Crimson Tide,Florida Gators,"4-0, 1-0 Conf","2-1, 1-1 Conf",42,21,NULL,NULL,Final,CBS,14,7,14,7,NULL,14,0,7,0,NULL,NCAAF
-400548366,2014,"Sat, Oct 11",Florida Gators,LSU Tigers,"3-2, 2-2 Conf","5-2, 1-2 Conf",27,30,NULL,NULL,Final,SECN,14,3,0,10,NULL,7,7,6,10,NULL,NCAAF
-400548348,2014,"Sat, Nov 1",Georgia Bulldogs,Florida Gators,"6-2, 4-2 Conf","4-3, 3-3 Conf",20,38,NULL,NULL,Final,CBS,7,0,0,13,NULL,0,14,10,14,NULL,NCAAF
-400548339,2014,"Sat, Nov 15",Florida Gators,South Carolina Gamecocks,"5-4, 4-4 Conf","5-5, 3-5 Conf",20,23,NULL,NULL,Final/OT,SECN,0,10,7,0,3,10,0,0,7,6,NCAAF
-400548388,2014,"Sat, Sep 13",Florida Gators,Kentucky Wildcats,"2-0, 1-0 Conf","2-1, 0-1 Conf",36,30,NULL,NULL,Final/3OT,SECN,0,3,17,0,16,0,3,14,3,10,NCAAF
-400548376,2014,"Sat, Oct 4",Tennessee Volunteers,Florida Gators,"2-3, 0-2 Conf","3-1, 2-1 Conf",9,10,NULL,NULL,Final,SECN,0,3,6,0,NULL,0,0,0,10,NULL,NCAAF
-400548362,2014,"Sat, Oct 18",Florida Gators,Missouri Tigers,"3-3, 2-3 Conf","5-2, 2-1 Conf",13,42,NULL,NULL,Final,ESPN2,0,0,7,6,NULL,14,6,22,0,NULL,NCAAF
-400548347,2014,"Sat, Nov 8",Vanderbilt Commodores,Florida Gators,"3-7, 0-6 Conf","5-3, 4-3 Conf",10,34,NULL,NULL,Final,SECN,7,0,0,3,NULL,7,10,0,17,NULL,NCAAF
-400548330,2014,"Sat, Nov 22",Florida Gators,Eastern Kentucky Colonels,"6-4, 3-3 Home","9-3, 5-2 Away",52,3,NULL,NULL,Final,SECN,17,14,7,14,NULL,3,0,0,0,NULL,NCAAF
-400547771,2014,"Sat, Nov 29",Florida State Seminoles,Florida Gators,"12-0, 7-0 Home","6-5, 2-2 Away",24,19,NULL,NULL,Final,ESPN,7,14,0,3,NULL,9,7,3,0,NULL,NCAAF
-400610228,2014,"Sat, Jan 3",Florida Gators,East Carolina Pirates,7-5,8-5,28,20,NULL,NULL,Final,ESPN,7,14,7,0,NULL,7,0,10,3,NULL,NCAAF
+400548101,2014,"September 06, 2014",Florida Gators,Eastern Michigan Eagles,"1-0, 1-0 Home","1-1, 0-1 Away",65,0,,,Final,SECN,17,13,21,14,,0,0,0,0,,NCAAF
+400548384,2014,"September 20, 2014",Alabama Crimson Tide,Florida Gators,"4-0, 1-0 Conf","2-1, 1-1 Conf",42,21,,,Final,CBS,14,7,14,7,,14,0,7,0,,NCAAF
+400548366,2014,"October 11, 2014",Florida Gators,LSU Tigers,"3-2, 2-2 Conf","5-2, 1-2 Conf",27,30,,,Final,SECN,14,3,0,10,,7,7,6,10,,NCAAF
+400548348,2014,"November 01, 2014",Georgia Bulldogs,Florida Gators,"6-2, 4-2 Conf","4-3, 3-3 Conf",20,38,,,Final,CBS,7,0,0,13,,0,14,10,14,,NCAAF
+400548339,2014,"November 15, 2014",Florida Gators,South Carolina Gamecocks,"5-4, 4-4 Conf","5-5, 3-5 Conf",20,23,,,Final/OT,SECN,0,10,7,0,3.0,10,0,0,7,6.0,NCAAF
+400548388,2014,"September 13, 2014",Florida Gators,Kentucky Wildcats,"2-0, 1-0 Conf","2-1, 0-1 Conf",36,30,,,Final/3OT,SECN,0,3,17,0,16.0,0,3,14,3,10.0,NCAAF
+400548376,2014,"October 04, 2014",Tennessee Volunteers,Florida Gators,"2-3, 0-2 Conf","3-1, 2-1 Conf",9,10,,,Final,SECN,0,3,6,0,,0,0,0,10,,NCAAF
+400548362,2014,"October 18, 2014",Florida Gators,Missouri Tigers,"3-3, 2-3 Conf","5-2, 2-1 Conf",13,42,,,Final,ESPN2,0,0,7,6,,14,6,22,0,,NCAAF
+400548347,2014,"November 08, 2014",Vanderbilt Commodores,Florida Gators,"3-7, 0-6 Conf","5-3, 4-3 Conf",10,34,,,Final,SECN,7,0,0,3,,7,10,0,17,,NCAAF
+400548330,2014,"November 22, 2014",Florida Gators,Eastern Kentucky Colonels,"6-4, 3-3 Home","9-3, 5-2 Away",52,3,,,Final,SECN,17,14,7,14,,3,0,0,0,,NCAAF
+400547771,2014,"November 29, 2014",Florida State Seminoles,Florida Gators,"12-0, 7-0 Home","6-5, 2-2 Away",24,19,,,Final,ESPN,7,14,0,3,,9,7,3,0,,NCAAF
+400610228,2014,"January 03, 2015",Florida Gators,East Carolina Pirates,7-5,8-5,28,20,,,Final,ESPN,7,14,7,0,,7,0,10,3,,NCAAF

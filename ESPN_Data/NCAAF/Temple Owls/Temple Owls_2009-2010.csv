@@ -1,14 +1,14 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-292620213,2009,"Sat, Sep 19",Penn State Nittany Lions,Temple Owls,"3-0, 3-0 Home","0-2, 0-1 Away",31,6,NULL,NULL,Final,BTN,7,14,3,7,NULL,3,0,3,0,NULL,NCAAF
-292762199,2009,"Sat, Oct 3",Eastern Michigan Eagles,Temple Owls,"0-4, 0-1 Conf","2-2, 2-0 Conf",12,24,NULL,NULL,Final,NULL,0,6,0,6,NULL,14,7,0,3,NULL,NCAAF
-292900218,2009,"Sat, Oct 17",Temple Owls,Army Black Knights,"4-2, 3-1 Home","3-4, 1-2 Away",27,13,NULL,NULL,Final,NULL,7,6,0,14,NULL,0,3,10,0,NULL,NCAAF
-293042426,2009,"Sat, Oct 31",Navy Midshipmen,Temple Owls,"6-3, 4-1 Home","6-2, 3-1 Away",24,27,NULL,NULL,Final,NULL,3,7,7,7,NULL,0,14,3,10,NULL,NCAAF
-293172006,2009,"Fri, Nov 13",Akron Zips,Temple Owls,"2-8, 1-5 Conf","8-2, 6-0 Conf",17,56,NULL,NULL,Final,ESPNU,17,0,0,0,NULL,14,21,7,14,NULL,NCAAF
-292460218,2009,"Thu, Sep 3",Temple Owls,Villanova Wildcats,"0-1, 0-1 Home","1-0, 1-0 Away",24,27,NULL,NULL,Final,NULL,0,10,7,7,NULL,0,0,14,13,NULL,NCAAF
-292690218,2009,"Sat, Sep 26",Temple Owls,Buffalo Bulls,"1-2, 1-0 Conf","1-3, 0-1 Conf",37,13,NULL,NULL,Final,NULL,3,17,10,7,NULL,0,6,0,7,NULL,NCAAF
-292830218,2009,"Sat, Oct 10",Temple Owls,Ball State Cardinals,"3-2, 3-0 Conf","0-6, 0-2 Conf",24,19,NULL,NULL,Final,NULL,10,0,7,7,NULL,0,0,13,6,NULL,NCAAF
-292972649,2009,"Sat, Oct 24",Toledo Rockets,Temple Owls,"4-4, 2-2 Conf","5-2, 4-0 Conf",24,40,NULL,NULL,Final,NULL,7,10,0,7,NULL,13,10,10,7,NULL,NCAAF
-293090218,2009,"Thu, Nov 5",Temple Owls,Miami (OH) RedHawks,"7-2, 5-0 Conf","1-9, 1-5 Conf",34,32,NULL,NULL,Final,NULL,14,7,10,3,NULL,3,10,0,19,NULL,NCAAF
-293250218,2009,"Sat, Nov 21",Temple Owls,Kent State Golden Flashes,"9-2, 7-0 Conf","5-6, 4-3 Conf",47,13,NULL,NULL,Final,NULL,0,9,24,14,NULL,3,7,0,3,NULL,NCAAF
-293310195,2009,"Fri, Nov 27",Ohio Bobcats,Temple Owls,"9-3, 7-1 Conf","9-3, 7-1 Conf",35,17,NULL,NULL,Final,ESPNU,7,6,13,9,NULL,0,10,7,0,NULL,NCAAF
-293630218,2009,"Tue, Dec 29",Temple Owls,UCLA Bruins,9-4,7-6,21,30,NULL,NULL,Final,ESPN,7,14,0,0,NULL,7,3,7,13,NULL,NCAAF
+292620213,2009,"September 19, 2009",Penn State Nittany Lions,Temple Owls,"3-0, 3-0 Home","0-2, 0-1 Away",31,6,,,Final,BTN,7,14,3,7,,3,0,3,0,,NCAAF
+292762199,2009,"October 03, 2009",Eastern Michigan Eagles,Temple Owls,"0-4, 0-1 Conf","2-2, 2-0 Conf",12,24,,,Final,,0,6,0,6,,14,7,0,3,,NCAAF
+292900218,2009,"October 17, 2009",Temple Owls,Army Black Knights,"4-2, 3-1 Home","3-4, 1-2 Away",27,13,,,Final,,7,6,0,14,,0,3,10,0,,NCAAF
+293042426,2009,"October 31, 2009",Navy Midshipmen,Temple Owls,"6-3, 4-1 Home","6-2, 3-1 Away",24,27,,,Final,,3,7,7,7,,0,14,3,10,,NCAAF
+293172006,2009,"November 13, 2009",Akron Zips,Temple Owls,"2-8, 1-5 Conf","8-2, 6-0 Conf",17,56,,,Final,ESPNU,17,0,0,0,,14,21,7,14,,NCAAF
+292460218,2009,"September 03, 2009",Temple Owls,Villanova Wildcats,"0-1, 0-1 Home","1-0, 1-0 Away",24,27,,,Final,,0,10,7,7,,0,0,14,13,,NCAAF
+292690218,2009,"September 26, 2009",Temple Owls,Buffalo Bulls,"1-2, 1-0 Conf","1-3, 0-1 Conf",37,13,,,Final,,3,17,10,7,,0,6,0,7,,NCAAF
+292830218,2009,"October 10, 2009",Temple Owls,Ball State Cardinals,"3-2, 3-0 Conf","0-6, 0-2 Conf",24,19,,,Final,,10,0,7,7,,0,0,13,6,,NCAAF
+292972649,2009,"October 24, 2009",Toledo Rockets,Temple Owls,"4-4, 2-2 Conf","5-2, 4-0 Conf",24,40,,,Final,,7,10,0,7,,13,10,10,7,,NCAAF
+293090218,2009,"November 05, 2009",Temple Owls,Miami (OH) RedHawks,"7-2, 5-0 Conf","1-9, 1-5 Conf",34,32,,,Final,,14,7,10,3,,3,10,0,19,,NCAAF
+293250218,2009,"November 21, 2009",Temple Owls,Kent State Golden Flashes,"9-2, 7-0 Conf","5-6, 4-3 Conf",47,13,,,Final,,0,9,24,14,,3,7,0,3,,NCAAF
+293310195,2009,"November 27, 2009",Ohio Bobcats,Temple Owls,"9-3, 7-1 Conf","9-3, 7-1 Conf",35,17,,,Final,ESPNU,7,6,13,9,,0,10,7,0,,NCAAF
+293630218,2009,"December 29, 2009",Temple Owls,UCLA Bruins,9-4,7-6,21,30,,,Final,ESPN,7,14,0,0,,7,3,7,13,,NCAAF

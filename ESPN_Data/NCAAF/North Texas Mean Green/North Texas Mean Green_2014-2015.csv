@@ -1,13 +1,13 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-400547653,2014,"Sat, Sep 6",North Texas Mean Green,SMU Mustangs,"1-1, 1-0 Home","0-2, 0-2 Away",43,6,NULL,NULL,Final,NULL,3,20,6,14,NULL,0,0,0,6,NULL,NCAAF
-400548030,2014,"Sat, Sep 20",North Texas Mean Green,Nicholls State Colonels,"2-2, 2-1 Home","0-4, 0-3 Away",77,3,NULL,NULL,Final,NULL,21,28,21,7,NULL,3,0,0,0,NULL,NCAAF
-400548047,2014,"Sat, Oct 11",UAB Blazers,North Texas Mean Green,"4-2, 2-1 Conf","2-4, 0-2 Conf",56,21,NULL,NULL,Final,NULL,14,21,21,0,NULL,0,14,0,7,NULL,NCAAF
-400548057,2014,"Sat, Oct 25",Rice Owls,North Texas Mean Green,"4-3, 2-1 Conf","2-6, 0-4 Conf",41,21,NULL,NULL,Final,NULL,14,0,10,17,NULL,14,7,0,0,NULL,NCAAF
-400548075,2014,"Sat, Nov 15",UTEP Miners,North Texas Mean Green,"6-4, 4-2 Conf","3-7, 1-5 Conf",35,17,NULL,NULL,Final,FS1,14,14,7,0,NULL,0,0,3,14,NULL,NCAAF
-400547836,2014,"Sat, Aug 30",Texas Longhorns,North Texas Mean Green,"1-0, 1-0 Home","0-1, 0-1 Away",38,7,NULL,NULL,Final,LHN,7,14,7,10,NULL,0,0,0,7,NULL,NCAAF
-400548021,2014,"Thu, Sep 11",North Texas Mean Green,Louisiana Tech Bulldogs,"1-2, 0-1 Conf","2-1, 1-0 Conf",21,42,NULL,NULL,Final,CBSSN,0,0,7,14,NULL,0,21,14,7,NULL,NCAAF
-400547920,2014,"Sat, Oct 4",Indiana Hoosiers,North Texas Mean Green,"3-2, 2-1 Home","2-3, 0-2 Away",49,24,NULL,NULL,Final,BTN,21,0,21,7,NULL,0,7,3,14,NULL,NCAAF
-400548054,2014,"Sat, Oct 18",North Texas Mean Green,Southern Mississippi Golden Eagles,"2-5, 0-3 Conf","3-4, 1-2 Conf",20,30,NULL,NULL,Final,NULL,0,13,7,0,NULL,10,3,14,3,NULL,NCAAF
-400548068,2014,"Sat, Nov 8",North Texas Mean Green,Florida Atlantic Owls,"3-6, 1-4 Conf","3-7, 2-4 Conf",31,10,NULL,NULL,Final,NULL,7,14,0,10,NULL,3,0,7,0,NULL,NCAAF
-400548079,2014,"Sat, Nov 22",North Texas Mean Green,Florida Intl Golden Panthers,"4-7, 2-5 Conf","4-8, 3-5 Conf",17,14,NULL,NULL,Final,NULL,14,0,3,0,NULL,7,7,0,0,NULL,NCAAF
-400548088,2014,"Sat, Nov 29",UT San Antonio Roadrunners,North Texas Mean Green,"4-8, 3-5 Conf","4-8, 2-6 Conf",34,27,NULL,NULL,Final,NULL,7,13,7,7,NULL,3,9,7,8,NULL,NCAAF
+400547653,2014,"September 06, 2014",North Texas Mean Green,SMU Mustangs,"1-1, 1-0 Home","0-2, 0-2 Away",43,6,,,Final,,3,20,6,14,,0,0,0,6,,NCAAF
+400548030,2014,"September 20, 2014",North Texas Mean Green,Nicholls State Colonels,"2-2, 2-1 Home","0-4, 0-3 Away",77,3,,,Final,,21,28,21,7,,3,0,0,0,,NCAAF
+400548047,2014,"October 11, 2014",UAB Blazers,North Texas Mean Green,"4-2, 2-1 Conf","2-4, 0-2 Conf",56,21,,,Final,,14,21,21,0,,0,14,0,7,,NCAAF
+400548057,2014,"October 25, 2014",Rice Owls,North Texas Mean Green,"4-3, 2-1 Conf","2-6, 0-4 Conf",41,21,,,Final,,14,0,10,17,,14,7,0,0,,NCAAF
+400548075,2014,"November 15, 2014",UTEP Miners,North Texas Mean Green,"6-4, 4-2 Conf","3-7, 1-5 Conf",35,17,,,Final,FS1,14,14,7,0,,0,0,3,14,,NCAAF
+400547836,2014,"August 30, 2014",Texas Longhorns,North Texas Mean Green,"1-0, 1-0 Home","0-1, 0-1 Away",38,7,,,Final,LHN,7,14,7,10,,0,0,0,7,,NCAAF
+400548021,2014,"September 11, 2014",North Texas Mean Green,Louisiana Tech Bulldogs,"1-2, 0-1 Conf","2-1, 1-0 Conf",21,42,,,Final,CBSSN,0,0,7,14,,0,21,14,7,,NCAAF
+400547920,2014,"October 04, 2014",Indiana Hoosiers,North Texas Mean Green,"3-2, 2-1 Home","2-3, 0-2 Away",49,24,,,Final,BTN,21,0,21,7,,0,7,3,14,,NCAAF
+400548054,2014,"October 18, 2014",North Texas Mean Green,Southern Mississippi Golden Eagles,"2-5, 0-3 Conf","3-4, 1-2 Conf",20,30,,,Final,,0,13,7,0,,10,3,14,3,,NCAAF
+400548068,2014,"November 08, 2014",North Texas Mean Green,Florida Atlantic Owls,"3-6, 1-4 Conf","3-7, 2-4 Conf",31,10,,,Final,,7,14,0,10,,3,0,7,0,,NCAAF
+400548079,2014,"November 22, 2014",North Texas Mean Green,Florida Intl Golden Panthers,"4-7, 2-5 Conf","4-8, 3-5 Conf",17,14,,,Final,,14,0,3,0,,7,7,0,0,,NCAAF
+400548088,2014,"November 29, 2014",UT San Antonio Roadrunners,North Texas Mean Green,"4-8, 3-5 Conf","4-8, 2-6 Conf",34,27,,,Final,,7,13,7,7,,3,9,7,8,,NCAAF

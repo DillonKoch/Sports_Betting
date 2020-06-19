@@ -1,14 +1,14 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-282500213,2008,"Sat, Sep 6",Penn State Nittany Lions,Oregon State Beavers,"2-0, 0-0 Conf","0-2, 0-1 Conf",45,14,NULL,NULL,Final,ABC,14,21,10,0,NULL,0,7,0,7,NULL,NCAAF
-282690204,2008,"Thu, Sep 25",Oregon State Beavers,USC Trojans,"2-2, 1-1 Conf","2-1, 0-1 Conf",27,21,NULL,NULL,Final,ESPN,7,14,0,6,NULL,0,0,14,7,NULL,NCAAF
-282850204,2008,"Sat, Oct 11",Oregon State Beavers,Washington State Cougars,"3-3, 2-1 Conf","1-6, 0-4 Conf",66,13,NULL,NULL,Final,NULL,21,3,21,21,NULL,0,13,0,0,NULL,NCAAF
-283060204,2008,"Sat, Nov 1",Oregon State Beavers,Arizona State Sun Devils,"5-3, 4-1 Conf","2-6, 1-4 Conf",27,25,NULL,NULL,Final,NULL,7,0,10,10,NULL,3,3,10,9,NULL,NCAAF
-283200204,2008,"Sat, Nov 15",Oregon State Beavers,California Golden Bears,"7-3, 6-1 Conf","6-4, 4-3 Conf",34,21,NULL,NULL,Final,ABCR,14,3,10,7,NULL,7,7,7,0,NULL,NCAAF
-282410024,2008,"Thu, Aug 28",Stanford Cardinal,Oregon State Beavers,"1-0, 1-0 Conf","0-1, 0-1 Conf",36,28,NULL,NULL,Final,ESPN2,0,17,5,14,NULL,0,17,3,8,NULL,NCAAF
-282570204,2008,"Sat, Sep 13",Oregon State Beavers,Hawai'i Rainbow Warriors,"1-2, 1-0 Home","1-2, 0-2 Away",45,7,NULL,NULL,Final,NULL,7,14,17,7,NULL,7,0,0,0,NULL,NCAAF
-282760254,2008,"Thu, Oct 2",Utah Utes,Oregon State Beavers,"6-0, 2-0 Conf","2-3, 1-1 Conf",31,28,NULL,NULL,Final,NULL,3,17,0,11,NULL,3,12,6,7,NULL,NCAAF
-282920264,2008,"Sat, Oct 18",Washington Huskies,Oregon State Beavers,"0-6, 0-4 Conf","4-3, 3-1 Conf",13,34,NULL,NULL,Final,NULL,3,3,0,7,NULL,7,10,7,10,NULL,NCAAF
-283130026,2008,"Sat, Nov 8",UCLA Bruins,Oregon State Beavers,"3-6, 2-4 Conf","6-3, 5-1 Conf",6,34,NULL,NULL,Final,NULL,3,0,3,0,NULL,3,0,14,17,NULL,NCAAF
-283270012,2008,"Sat, Nov 22",Arizona Wildcats,Oregon State Beavers,"6-5, 4-4 Conf","8-3, 7-1 Conf",17,19,NULL,NULL,Final,NULL,0,3,7,7,NULL,0,3,7,9,NULL,NCAAF
-283340204,2008,"Sat, Nov 29",Oregon State Beavers,Oregon Ducks,"8-4, 7-2 Conf","9-3, 7-2 Conf",38,65,NULL,NULL,Final,NULL,7,10,14,7,NULL,17,20,7,21,NULL,NCAAF
-283660221,2008,"Wed, Dec 31",Pittsburgh Panthers,Oregon State Beavers,9-4,9-4,0,3,NULL,NULL,Final,CBS,0,0,0,0,NULL,0,3,0,0,NULL,NCAAF
+282500213,2008,"September 06, 2008",Penn State Nittany Lions,Oregon State Beavers,"2-0, 0-0 Conf","0-2, 0-1 Conf",45,14,,,Final,ABC,14,21,10,0,,0,7,0,7,,NCAAF
+282690204,2008,"September 25, 2008",Oregon State Beavers,USC Trojans,"2-2, 1-1 Conf","2-1, 0-1 Conf",27,21,,,Final,ESPN,7,14,0,6,,0,0,14,7,,NCAAF
+282850204,2008,"October 11, 2008",Oregon State Beavers,Washington State Cougars,"3-3, 2-1 Conf","1-6, 0-4 Conf",66,13,,,Final,,21,3,21,21,,0,13,0,0,,NCAAF
+283060204,2008,"November 01, 2008",Oregon State Beavers,Arizona State Sun Devils,"5-3, 4-1 Conf","2-6, 1-4 Conf",27,25,,,Final,,7,0,10,10,,3,3,10,9,,NCAAF
+283200204,2008,"November 15, 2008",Oregon State Beavers,California Golden Bears,"7-3, 6-1 Conf","6-4, 4-3 Conf",34,21,,,Final,ABCR,14,3,10,7,,7,7,7,0,,NCAAF
+282410024,2008,"August 28, 2008",Stanford Cardinal,Oregon State Beavers,"1-0, 1-0 Conf","0-1, 0-1 Conf",36,28,,,Final,ESPN2,0,17,5,14,,0,17,3,8,,NCAAF
+282570204,2008,"September 13, 2008",Oregon State Beavers,Hawai'i Rainbow Warriors,"1-2, 1-0 Home","1-2, 0-2 Away",45,7,,,Final,,7,14,17,7,,7,0,0,0,,NCAAF
+282760254,2008,"October 02, 2008",Utah Utes,Oregon State Beavers,"6-0, 2-0 Conf","2-3, 1-1 Conf",31,28,,,Final,,3,17,0,11,,3,12,6,7,,NCAAF
+282920264,2008,"October 18, 2008",Washington Huskies,Oregon State Beavers,"0-6, 0-4 Conf","4-3, 3-1 Conf",13,34,,,Final,,3,3,0,7,,7,10,7,10,,NCAAF
+283130026,2008,"November 08, 2008",UCLA Bruins,Oregon State Beavers,"3-6, 2-4 Conf","6-3, 5-1 Conf",6,34,,,Final,,3,0,3,0,,3,0,14,17,,NCAAF
+283270012,2008,"November 22, 2008",Arizona Wildcats,Oregon State Beavers,"6-5, 4-4 Conf","8-3, 7-1 Conf",17,19,,,Final,,0,3,7,7,,0,3,7,9,,NCAAF
+283340204,2008,"November 29, 2008",Oregon State Beavers,Oregon Ducks,"8-4, 7-2 Conf","9-3, 7-2 Conf",38,65,,,Final,,7,10,14,7,,17,20,7,21,,NCAAF
+283660221,2008,"December 31, 2008",Pittsburgh Panthers,Oregon State Beavers,9-4,9-4,0,3,,,Final,CBS,0,0,0,0,,0,3,0,0,,NCAAF

@@ -1,15 +1,15 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-332502655,2013,"Sat, Sep 7",Tulane Green Wave,South Alabama Jaguars,"1-1, 1-1 Home","1-1, 1-0 Away",39,41,NULL,NULL,Final,NULL,7,12,14,6,NULL,21,10,7,3,NULL,NCAAF
-332640183,2013,"Sat, Sep 21",Syracuse Orange,Tulane Green Wave,"2-2, 2-0 Home","2-2, 1-1 Away",52,17,NULL,NULL,Final,NULL,21,21,7,3,NULL,10,7,0,0,NULL,NCAAF
-332782655,2013,"Sat, Oct 5",Tulane Green Wave,North Texas Mean Green,"4-2, 2-0 Conf","2-3, 0-1 Conf",24,21,NULL,NULL,Final,NULL,0,7,14,3,NULL,0,0,7,14,NULL,NCAAF
-332992655,2013,"Sat, Oct 26",Tulane Green Wave,Tulsa Golden Hurricane,"6-2, 4-0 Conf","2-5, 1-2 Conf",14,7,NULL,NULL,Final,NULL,0,7,7,0,NULL,0,7,0,0,NULL,NCAAF
-333132636,2013,"Sat, Nov 9",UT San Antonio Roadrunners,Tulane Green Wave,"5-5, 4-2 Conf","6-4, 4-2 Conf",10,7,NULL,NULL,Final,NULL,0,0,7,3,NULL,0,7,0,0,NULL,NCAAF
-333550309,2013,"Sat, Dec 21",Louisiana Ragin' Cajuns,Tulane Green Wave,9-4,7-6,24,21,NULL,NULL,Final,ESPN,14,7,0,3,NULL,0,14,7,0,NULL,NCAAF
-332412655,2013,"Thu, Aug 29",Tulane Green Wave,Jackson State Tigers,"1-0, 1-0 Home","0-1, 0-1 Away",34,7,NULL,NULL,Final,NULL,13,7,7,7,NULL,0,0,0,7,NULL,NCAAF
-332552348,2013,"Thu, Sep 12",Louisiana Tech Bulldogs,Tulane Green Wave,"1-2, 0-1 Conf","2-1, 1-0 Conf",15,24,NULL,NULL,Final,FS1,6,3,0,6,NULL,7,0,10,7,NULL,NCAAF
-332712433,2013,"Sat, Sep 28",Louisiana Monroe Warhawks,Tulane Green Wave,"2-3, 1-1 Home","3-2, 2-1 Away",14,31,NULL,NULL,Final,ESPN3,0,0,7,7,NULL,3,7,21,0,NULL,NCAAF
-332852655,2013,"Sat, Oct 12",Tulane Green Wave,East Carolina Pirates,"5-2, 3-0 Conf","4-2, 2-1 Conf",36,33,NULL,NULL,Final/OT,NULL,3,3,10,3,17,3,3,0,13,14,NCAAF
-333062226,2013,"Sat, Nov 2",Florida Atlantic Owls,Tulane Green Wave,"3-6, 2-4 Conf","6-3, 4-1 Conf",34,17,NULL,NULL,Final,NULL,7,0,10,17,NULL,7,10,0,0,NULL,NCAAF
-333272655,2013,"Sat, Nov 23",Tulane Green Wave,UTEP Miners,"7-4, 5-2 Conf","2-9, 1-6 Conf",45,3,NULL,NULL,Final,NULL,14,24,7,0,NULL,0,3,0,0,NULL,NCAAF
-333340242,2013,"Sat, Nov 30",Rice Owls,Tulane Green Wave,"9-3, 7-1 Conf","7-5, 5-3 Conf",17,13,NULL,NULL,Final,NULL,7,10,0,0,NULL,3,0,7,3,NULL,NCAAF
-400520954,2013,"Sat, Dec 21",Tulane Green Wave,Louisiana Ragin' Cajuns,7-6,9-4,21,24,NULL,NULL,Final,NULL,0,14,7,0,NULL,14,7,0,3,NULL,NCAAF
+332502655,2013,"September 07, 2013",Tulane Green Wave,South Alabama Jaguars,"1-1, 1-1 Home","1-1, 1-0 Away",39,41,,,Final,,7,12,14,6,,21,10,7,3,,NCAAF
+332640183,2013,"September 21, 2013",Syracuse Orange,Tulane Green Wave,"2-2, 2-0 Home","2-2, 1-1 Away",52,17,,,Final,,21,21,7,3,,10,7,0,0,,NCAAF
+332782655,2013,"October 05, 2013",Tulane Green Wave,North Texas Mean Green,"4-2, 2-0 Conf","2-3, 0-1 Conf",24,21,,,Final,,0,7,14,3,,0,0,7,14,,NCAAF
+332992655,2013,"October 26, 2013",Tulane Green Wave,Tulsa Golden Hurricane,"6-2, 4-0 Conf","2-5, 1-2 Conf",14,7,,,Final,,0,7,7,0,,0,7,0,0,,NCAAF
+333132636,2013,"November 09, 2013",UT San Antonio Roadrunners,Tulane Green Wave,"5-5, 4-2 Conf","6-4, 4-2 Conf",10,7,,,Final,,0,0,7,3,,0,7,0,0,,NCAAF
+333550309,2013,"December 21, 2013",Louisiana Ragin' Cajuns,Tulane Green Wave,9-4,7-6,24,21,,,Final,ESPN,14,7,0,3,,0,14,7,0,,NCAAF
+332412655,2013,"August 29, 2013",Tulane Green Wave,Jackson State Tigers,"1-0, 1-0 Home","0-1, 0-1 Away",34,7,,,Final,,13,7,7,7,,0,0,0,7,,NCAAF
+332552348,2013,"September 12, 2013",Louisiana Tech Bulldogs,Tulane Green Wave,"1-2, 0-1 Conf","2-1, 1-0 Conf",15,24,,,Final,FS1,6,3,0,6,,7,0,10,7,,NCAAF
+332712433,2013,"September 28, 2013",Louisiana Monroe Warhawks,Tulane Green Wave,"2-3, 1-1 Home","3-2, 2-1 Away",14,31,,,Final,ESPN3,0,0,7,7,,3,7,21,0,,NCAAF
+332852655,2013,"October 12, 2013",Tulane Green Wave,East Carolina Pirates,"5-2, 3-0 Conf","4-2, 2-1 Conf",36,33,,,Final/OT,,3,3,10,3,17.0,3,3,0,13,14.0,NCAAF
+333062226,2013,"November 02, 2013",Florida Atlantic Owls,Tulane Green Wave,"3-6, 2-4 Conf","6-3, 4-1 Conf",34,17,,,Final,,7,0,10,17,,7,10,0,0,,NCAAF
+333272655,2013,"November 23, 2013",Tulane Green Wave,UTEP Miners,"7-4, 5-2 Conf","2-9, 1-6 Conf",45,3,,,Final,,14,24,7,0,,0,3,0,0,,NCAAF
+333340242,2013,"November 30, 2013",Rice Owls,Tulane Green Wave,"9-3, 7-1 Conf","7-5, 5-3 Conf",17,13,,,Final,,7,10,0,0,,3,0,7,3,,NCAAF
+400520954,2013,"December 21, 2013",Tulane Green Wave,Louisiana Ragin' Cajuns,7-6,9-4,21,24,,,Final,,0,14,7,0,,14,7,0,3,,NCAAF

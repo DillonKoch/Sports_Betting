@@ -1,13 +1,13 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-282572199,2008,"Sat, Sep 13",Eastern Michigan Eagles,Toledo Rockets,"1-2, 0-1 Conf","1-1, 1-0 Conf",17,41,NULL,NULL,Final,NULL,0,7,0,10,NULL,14,0,27,0,NULL,NCAAF
-282712649,2008,"Sat, Sep 27",Toledo Rockets,Florida Intl Golden Panthers,"1-3, 0-2 Home","1-3, 1-2 Away",16,35,NULL,NULL,Final,NULL,13,3,0,0,NULL,0,14,21,0,NULL,NCAAF
-282850130,2008,"Sat, Oct 11",Michigan Wolverines,Toledo Rockets,"2-4, 2-3 Home","2-4, 2-1 Away",10,13,NULL,NULL,Final,BTN,7,3,0,0,NULL,7,0,3,3,NULL,NCAAF
-282992649,2008,"Sat, Oct 25",Toledo Rockets,Central Michigan Chippewas,"2-6, 1-3 Conf","6-2, 5-0 Conf",23,24,NULL,NULL,Final,NULL,6,7,10,0,NULL,7,10,0,7,NULL,NCAAF
-283202711,2008,"Sat, Nov 15",Western Michigan Broncos,Toledo Rockets,"9-2, 6-1 Conf","2-8, 1-5 Conf",27,17,NULL,NULL,Final,NULL,0,10,10,7,NULL,7,0,0,10,NULL,NCAAF
-282500012,2008,"Sat, Sep 6",Arizona Wildcats,Toledo Rockets,"2-0, 2-0 Home","0-1, 0-1 Away",41,16,NULL,NULL,Final,NULL,10,14,3,14,NULL,0,6,3,7,NULL,NCAAF
-282642649,2008,"Sat, Sep 20",Toledo Rockets,Fresno State Bulldogs,"1-2, 0-1 Home","2-1, 2-0 Away",54,55,NULL,NULL,Final/OT,ESPNU,7,14,3,17,13,14,3,17,7,14,NCAAF
-282782649,2008,"Sat, Oct 4",Toledo Rockets,Ball State Cardinals,"1-4, 1-1 Conf","6-0, 3-0 Conf",0,31,NULL,NULL,Final,NULL,0,0,0,0,NULL,3,0,14,14,NULL,NCAAF
-282922459,2008,"Sat, Oct 18",Northern Illinois Huskies,Toledo Rockets,"4-3, 3-1 Conf","2-5, 1-2 Conf",38,7,NULL,NULL,Final,NULL,14,7,3,14,NULL,0,0,7,0,NULL,NCAAF
-283102006,2008,"Wed, Nov 5",Akron Zips,Toledo Rockets,"5-4, 3-2 Conf","2-7, 1-4 Conf",47,30,NULL,NULL,Final,ESPNU,21,3,9,14,NULL,3,7,13,7,NULL,NCAAF
-283262649,2008,"Fri, Nov 21",Toledo Rockets,Miami (OH) RedHawks,"3-8, 2-5 Conf","2-9, 1-6 Conf",42,14,NULL,NULL,Final,NULL,7,14,7,14,NULL,0,7,7,0,NULL,NCAAF
-283332649,2008,"Fri, Nov 28",Toledo Rockets,Bowling Green Falcons,"3-9, 2-6 Conf","6-6, 4-4 Conf",10,38,NULL,NULL,Final,ESPNC,0,0,3,7,NULL,14,3,14,7,NULL,NCAAF
+282572199,2008,"September 13, 2008",Eastern Michigan Eagles,Toledo Rockets,"1-2, 0-1 Conf","1-1, 1-0 Conf",17,41,,,Final,,0,7,0,10,,14,0,27,0,,NCAAF
+282712649,2008,"September 27, 2008",Toledo Rockets,Florida Intl Golden Panthers,"1-3, 0-2 Home","1-3, 1-2 Away",16,35,,,Final,,13,3,0,0,,0,14,21,0,,NCAAF
+282850130,2008,"October 11, 2008",Michigan Wolverines,Toledo Rockets,"2-4, 2-3 Home","2-4, 2-1 Away",10,13,,,Final,BTN,7,3,0,0,,7,0,3,3,,NCAAF
+282992649,2008,"October 25, 2008",Toledo Rockets,Central Michigan Chippewas,"2-6, 1-3 Conf","6-2, 5-0 Conf",23,24,,,Final,,6,7,10,0,,7,10,0,7,,NCAAF
+283202711,2008,"November 15, 2008",Western Michigan Broncos,Toledo Rockets,"9-2, 6-1 Conf","2-8, 1-5 Conf",27,17,,,Final,,0,10,10,7,,7,0,0,10,,NCAAF
+282500012,2008,"September 06, 2008",Arizona Wildcats,Toledo Rockets,"2-0, 2-0 Home","0-1, 0-1 Away",41,16,,,Final,,10,14,3,14,,0,6,3,7,,NCAAF
+282642649,2008,"September 20, 2008",Toledo Rockets,Fresno State Bulldogs,"1-2, 0-1 Home","2-1, 2-0 Away",54,55,,,Final/OT,ESPNU,7,14,3,17,13.0,14,3,17,7,14.0,NCAAF
+282782649,2008,"October 04, 2008",Toledo Rockets,Ball State Cardinals,"1-4, 1-1 Conf","6-0, 3-0 Conf",0,31,,,Final,,0,0,0,0,,3,0,14,14,,NCAAF
+282922459,2008,"October 18, 2008",Northern Illinois Huskies,Toledo Rockets,"4-3, 3-1 Conf","2-5, 1-2 Conf",38,7,,,Final,,14,7,3,14,,0,0,7,0,,NCAAF
+283102006,2008,"November 05, 2008",Akron Zips,Toledo Rockets,"5-4, 3-2 Conf","2-7, 1-4 Conf",47,30,,,Final,ESPNU,21,3,9,14,,3,7,13,7,,NCAAF
+283262649,2008,"November 21, 2008",Toledo Rockets,Miami (OH) RedHawks,"3-8, 2-5 Conf","2-9, 1-6 Conf",42,14,,,Final,,7,14,7,14,,0,7,7,0,,NCAAF
+283332649,2008,"November 28, 2008",Toledo Rockets,Bowling Green Falcons,"3-9, 2-6 Conf","6-6, 4-4 Conf",10,38,,,Final,ESPNC,0,0,3,7,,14,3,14,7,,NCAAF

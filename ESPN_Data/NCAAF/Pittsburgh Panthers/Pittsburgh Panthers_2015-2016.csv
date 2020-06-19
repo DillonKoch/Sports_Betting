@@ -1,14 +1,14 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-400756915,2015,"Sat, Sep 12",Akron Zips,Pittsburgh Panthers,"0-2, 0-1 Home","2-0, 1-0 Away",7,24,NULL,NULL,Final,ESPN3,0,7,0,0,NULL,3,7,7,7,NULL,NCAAF
-400756945,2015,"Sat, Oct 3",Virginia Tech Hokies,Pittsburgh Panthers,"2-3, 0-1 Conf","3-1, 1-0 Conf",13,17,NULL,NULL,Final,ESPN3,0,7,3,3,NULL,10,0,7,0,NULL,NCAAF
-400756955,2015,"Sat, Oct 17",Georgia Tech Yellow Jackets,Pittsburgh Panthers,"2-5, 0-4 Conf","5-1, 3-0 Conf",28,31,NULL,NULL,Final,ESPN3,7,14,0,7,NULL,7,14,7,3,NULL,NCAAF
-400756966,2015,"Thu, Oct 29",Pittsburgh Panthers,North Carolina Tar Heels,"6-2, 4-1 Conf","7-1, 4-0 Conf",19,26,NULL,NULL,Final,ESPN,3,0,10,6,NULL,3,17,3,3,NULL,NCAAF
-400756981,2015,"Sat, Nov 14",Duke Blue Devils,Pittsburgh Panthers,"6-4, 3-3 Conf","7-3, 5-1 Conf",13,31,NULL,NULL,Final,ESPNN,7,3,3,0,NULL,7,3,14,7,NULL,NCAAF
-400756902,2015,"Sat, Sep 5",Pittsburgh Panthers,Youngstown State Penguins,"1-0, 1-0 Home","0-1, 0-1 Away",45,37,NULL,NULL,Final,ESPN3,14,10,7,14,NULL,3,10,10,14,NULL,NCAAF
-400756926,2015,"Sat, Sep 19",Iowa Hawkeyes,Pittsburgh Panthers,"3-0, 2-0 Home","2-1, 1-1 Away",27,24,NULL,NULL,Final,BTN,3,14,0,10,NULL,0,7,10,7,NULL,NCAAF
-400756951,2015,"Sat, Oct 10",Pittsburgh Panthers,Virginia Cavaliers,"4-1, 2-0 Conf","1-4, 0-1 Conf",26,19,NULL,NULL,Final,ESPN3,17,0,7,2,NULL,3,7,3,6,NULL,NCAAF
-400756965,2015,"Sat, Oct 24",Syracuse Orange,Pittsburgh Panthers,"3-4, 1-2 Conf","6-1, 4-0 Conf",20,23,NULL,NULL,Final,ESPNU,7,10,0,3,NULL,3,10,0,10,NULL,NCAAF
-400756978,2015,"Sat, Nov 7",Pittsburgh Panthers,Notre Dame Fighting Irish,"6-3, 2-2 Home","8-1, 3-1 Away",30,42,NULL,NULL,Final,ABC,3,0,14,13,NULL,7,14,7,14,NULL,NCAAF
-400756991,2015,"Sat, Nov 21",Pittsburgh Panthers,Louisville Cardinals,"8-3, 6-1 Conf","6-5, 5-3 Conf",45,34,NULL,NULL,Final,ESPNN,7,35,0,3,NULL,10,14,3,7,NULL,NCAAF
-400756994,2015,"Fri, Nov 27",Pittsburgh Panthers,Miami Hurricanes,"8-4, 6-2 Conf","8-4, 5-3 Conf",24,29,NULL,NULL,Final,ESPN2,0,3,7,14,NULL,17,6,0,6,NULL,NCAAF
-400852721,2015,"Mon, Dec 28",Navy Midshipmen,Pittsburgh Panthers,11-2,8-5,44,28,NULL,NULL,Final,ESPN,14,7,10,13,NULL,7,0,14,7,NULL,NCAAF
+400756915,2015,"September 12, 2015",Akron Zips,Pittsburgh Panthers,"0-2, 0-1 Home","2-0, 1-0 Away",7,24,,,Final,ESPN3,0,7,0,0,,3,7,7,7,,NCAAF
+400756945,2015,"October 03, 2015",Virginia Tech Hokies,Pittsburgh Panthers,"2-3, 0-1 Conf","3-1, 1-0 Conf",13,17,,,Final,ESPN3,0,7,3,3,,10,0,7,0,,NCAAF
+400756955,2015,"October 17, 2015",Georgia Tech Yellow Jackets,Pittsburgh Panthers,"2-5, 0-4 Conf","5-1, 3-0 Conf",28,31,,,Final,ESPN3,7,14,0,7,,7,14,7,3,,NCAAF
+400756966,2015,"October 29, 2015",Pittsburgh Panthers,North Carolina Tar Heels,"6-2, 4-1 Conf","7-1, 4-0 Conf",19,26,,,Final,ESPN,3,0,10,6,,3,17,3,3,,NCAAF
+400756981,2015,"November 14, 2015",Duke Blue Devils,Pittsburgh Panthers,"6-4, 3-3 Conf","7-3, 5-1 Conf",13,31,,,Final,ESPNN,7,3,3,0,,7,3,14,7,,NCAAF
+400756902,2015,"September 05, 2015",Pittsburgh Panthers,Youngstown State Penguins,"1-0, 1-0 Home","0-1, 0-1 Away",45,37,,,Final,ESPN3,14,10,7,14,,3,10,10,14,,NCAAF
+400756926,2015,"September 19, 2015",Iowa Hawkeyes,Pittsburgh Panthers,"3-0, 2-0 Home","2-1, 1-1 Away",27,24,,,Final,BTN,3,14,0,10,,0,7,10,7,,NCAAF
+400756951,2015,"October 10, 2015",Pittsburgh Panthers,Virginia Cavaliers,"4-1, 2-0 Conf","1-4, 0-1 Conf",26,19,,,Final,ESPN3,17,0,7,2,,3,7,3,6,,NCAAF
+400756965,2015,"October 24, 2015",Syracuse Orange,Pittsburgh Panthers,"3-4, 1-2 Conf","6-1, 4-0 Conf",20,23,,,Final,ESPNU,7,10,0,3,,3,10,0,10,,NCAAF
+400756978,2015,"November 07, 2015",Pittsburgh Panthers,Notre Dame Fighting Irish,"6-3, 2-2 Home","8-1, 3-1 Away",30,42,,,Final,ABC,3,0,14,13,,7,14,7,14,,NCAAF
+400756991,2015,"November 21, 2015",Pittsburgh Panthers,Louisville Cardinals,"8-3, 6-1 Conf","6-5, 5-3 Conf",45,34,,,Final,ESPNN,7,35,0,3,,10,14,3,7,,NCAAF
+400756994,2015,"November 27, 2015",Pittsburgh Panthers,Miami Hurricanes,"8-4, 6-2 Conf","8-4, 5-3 Conf",24,29,,,Final,ESPN2,0,3,7,14,,17,6,0,6,,NCAAF
+400852721,2015,"December 28, 2015",Navy Midshipmen,Pittsburgh Panthers,11-2,8-5,44,28,,,Final,ESPN,14,7,10,13,,7,0,14,7,,NCAAF

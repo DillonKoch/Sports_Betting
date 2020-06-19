@@ -1,14 +1,14 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-400757022,2015,"Sat, Sep 12",California Golden Bears,San Diego State Aztecs,"2-0, 2-0 Home","1-1, 0-1 Away",35,7,NULL,NULL,Final,PAC12,0,14,14,7,NULL,7,0,0,0,NULL,NCAAF
-400757040,2015,"Sat, Sep 26",Washington Huskies,California Golden Bears,"2-2, 0-1 Conf","4-0, 1-0 Conf",24,30,NULL,NULL,Final,PAC12,7,0,14,3,NULL,3,17,7,3,NULL,NCAAF
-400757048,2015,"Sat, Oct 10",Utah Utes,California Golden Bears,"5-0, 2-0 Conf","5-1, 2-1 Conf",30,24,NULL,NULL,Final,ESPN,10,14,3,3,NULL,7,10,7,0,NULL,NCAAF
-400757063,2015,"Sat, Oct 31",California Golden Bears,USC Trojans,"5-3, 2-3 Conf","5-3, 3-2 Conf",21,27,NULL,NULL,Final,FOX,7,0,7,7,NULL,0,10,17,0,NULL,NCAAF
-400757078,2015,"Sat, Nov 14",California Golden Bears,Oregon State Beavers,"6-4, 3-4 Conf","2-8, 0-7 Conf",54,24,NULL,NULL,Final,PAC12,7,17,20,10,NULL,0,10,14,0,NULL,NCAAF
-400756890,2015,"Sat, Sep 5",California Golden Bears,Grambling State Tigers,"1-0, 1-0 Home","0-1, 0-1 Away",73,14,NULL,NULL,Final,PAC12,35,17,14,7,NULL,0,0,0,14,NULL,NCAAF
-400757034,2015,"Sat, Sep 19",Texas Longhorns,California Golden Bears,"1-2, 1-1 Home","3-0, 1-0 Away",44,45,NULL,NULL,Final,FOX,7,17,0,20,NULL,7,17,21,0,NULL,NCAAF
-400757044,2015,"Sat, Oct 3",California Golden Bears,Washington State Cougars,"5-0, 2-0 Conf","2-2, 0-1 Conf",34,28,NULL,NULL,Final,PAC12,7,6,21,0,NULL,7,14,7,0,NULL,NCAAF
-400757056,2015,"Thu, Oct 22",UCLA Bruins,California Golden Bears,"5-2, 2-2 Conf","5-2, 2-2 Conf",40,24,NULL,NULL,Final,ESPN,10,16,14,0,NULL,3,7,6,8,NULL,NCAAF
-400757072,2015,"Sat, Nov 7",Oregon Ducks,California Golden Bears,"6-3, 4-2 Conf","5-4, 2-4 Conf",44,28,NULL,NULL,Final,ESPN2,3,28,3,10,NULL,10,0,11,7,NULL,NCAAF
-400757084,2015,"Sat, Nov 21",Stanford Cardinal,California Golden Bears,"9-2, 8-1 Conf","6-5, 3-5 Conf",35,22,NULL,NULL,Final,ESPN,7,14,0,14,NULL,3,3,10,6,NULL,NCAAF
-400757087,2015,"Sat, Nov 28",California Golden Bears,Arizona State Sun Devils,"7-5, 4-5 Conf","6-6, 4-5 Conf",48,46,NULL,NULL,Final,FS1,3,7,21,17,NULL,10,17,6,13,NULL,NCAAF
-400852723,2015,"Tue, Dec 29",Air Force Falcons,California Golden Bears,8-6,8-5,36,55,NULL,NULL,Final,ESPN,7,14,8,7,NULL,14,21,17,3,NULL,NCAAF
+400757022,2015,"September 12, 2015",California Golden Bears,San Diego State Aztecs,"2-0, 2-0 Home","1-1, 0-1 Away",35,7,,,Final,PAC12,0,14,14,7,,7,0,0,0,,NCAAF
+400757040,2015,"September 26, 2015",Washington Huskies,California Golden Bears,"2-2, 0-1 Conf","4-0, 1-0 Conf",24,30,,,Final,PAC12,7,0,14,3,,3,17,7,3,,NCAAF
+400757048,2015,"October 10, 2015",Utah Utes,California Golden Bears,"5-0, 2-0 Conf","5-1, 2-1 Conf",30,24,,,Final,ESPN,10,14,3,3,,7,10,7,0,,NCAAF
+400757063,2015,"October 31, 2015",California Golden Bears,USC Trojans,"5-3, 2-3 Conf","5-3, 3-2 Conf",21,27,,,Final,FOX,7,0,7,7,,0,10,17,0,,NCAAF
+400757078,2015,"November 14, 2015",California Golden Bears,Oregon State Beavers,"6-4, 3-4 Conf","2-8, 0-7 Conf",54,24,,,Final,PAC12,7,17,20,10,,0,10,14,0,,NCAAF
+400756890,2015,"September 05, 2015",California Golden Bears,Grambling State Tigers,"1-0, 1-0 Home","0-1, 0-1 Away",73,14,,,Final,PAC12,35,17,14,7,,0,0,0,14,,NCAAF
+400757034,2015,"September 19, 2015",Texas Longhorns,California Golden Bears,"1-2, 1-1 Home","3-0, 1-0 Away",44,45,,,Final,FOX,7,17,0,20,,7,17,21,0,,NCAAF
+400757044,2015,"October 03, 2015",California Golden Bears,Washington State Cougars,"5-0, 2-0 Conf","2-2, 0-1 Conf",34,28,,,Final,PAC12,7,6,21,0,,7,14,7,0,,NCAAF
+400757056,2015,"October 22, 2015",UCLA Bruins,California Golden Bears,"5-2, 2-2 Conf","5-2, 2-2 Conf",40,24,,,Final,ESPN,10,16,14,0,,3,7,6,8,,NCAAF
+400757072,2015,"November 07, 2015",Oregon Ducks,California Golden Bears,"6-3, 4-2 Conf","5-4, 2-4 Conf",44,28,,,Final,ESPN2,3,28,3,10,,10,0,11,7,,NCAAF
+400757084,2015,"November 21, 2015",Stanford Cardinal,California Golden Bears,"9-2, 8-1 Conf","6-5, 3-5 Conf",35,22,,,Final,ESPN,7,14,0,14,,3,3,10,6,,NCAAF
+400757087,2015,"November 28, 2015",California Golden Bears,Arizona State Sun Devils,"7-5, 4-5 Conf","6-6, 4-5 Conf",48,46,,,Final,FS1,3,7,21,17,,10,17,6,13,,NCAAF
+400852723,2015,"December 29, 2015",Air Force Falcons,California Golden Bears,8-6,8-5,36,55,,,Final,ESPN,7,14,8,7,,14,21,17,3,,NCAAF

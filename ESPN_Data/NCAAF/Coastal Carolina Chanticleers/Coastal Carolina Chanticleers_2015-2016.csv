@@ -1,13 +1,13 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-400795591,2015,"Sat, Sep 12",South Carolina State Bulldogs,Coastal Carolina Chanticleers,"1-1, 0-1 Home","2-0, 2-0 Away",14,41,NULL,NULL,Final,NULL,0,0,7,7,NULL,22,10,9,0,NULL,NCAAF
-400795600,2015,"Sat, Sep 26",Coastal Carolina Chanticleers,Bryant Bulldogs,"4-0, 2-0 Home","2-1, 1-1 Away",31,17,NULL,NULL,Final,NULL,7,10,7,7,NULL,10,7,0,0,NULL,NCAAF
-400795610,2015,"Sat, Oct 10",Coastal Carolina Chanticleers,Presbyterian College Blue Hose,"6-0, 1-0 Conf","1-5, 0-1 Conf",24,17,NULL,NULL,Final,ESPN3,0,12,5,7,NULL,3,0,7,7,NULL,NCAAF
-400795619,2015,"Sat, Oct 31",Charleston Southern Buccaneers,Coastal Carolina Chanticleers,"7-1, 4-0 Conf","7-1, 2-1 Conf",33,25,NULL,NULL,Final,NULL,13,14,3,3,NULL,15,0,3,7,NULL,NCAAF
-400795626,2015,"Sat, Nov 14",Coastal Carolina Chanticleers,Kennesaw State Owls,"9-1, 4-1 Conf","6-4, 2-3 Conf",45,13,NULL,NULL,Final,NULL,13,18,7,7,NULL,6,0,7,0,NULL,NCAAF
-400795588,2015,"Sat, Sep 5",Furman Paladins,Coastal Carolina Chanticleers,"0-1, 0-1 Home","1-0, 1-0 Away",35,38,NULL,NULL,Final,ESPN3,7,14,0,14,NULL,15,6,7,10,NULL,NCAAF
-400795594,2015,"Sat, Sep 19",Coastal Carolina Chanticleers,Western Illinois Leathernecks,"3-0, 1-0 Home","1-2, 0-2 Away",34,27,NULL,NULL,Final,NULL,3,7,10,14,NULL,0,7,14,6,NULL,NCAAF
-400795606,2015,"Sat, Oct 3",Coastal Carolina Chanticleers,Alabama A&M Bulldogs,"5-0, 3-0 Home","1-3, 0-3 Away",55,0,NULL,NULL,Final,NULL,6,32,14,3,NULL,0,0,0,0,NULL,NCAAF
-400795617,2015,"Sat, Oct 24",Monmouth Hawks,Coastal Carolina Chanticleers,"3-5, 1-2 Conf","7-0, 2-0 Conf",20,23,NULL,NULL,Final,ESPN3,7,6,7,0,NULL,3,14,3,3,NULL,NCAAF
-400795623,2015,"Sat, Nov 7",Coastal Carolina Chanticleers,Gardner-Webb Bulldogs,"8-1, 3-1 Conf","3-6, 2-3 Conf",46,0,NULL,NULL,Final,NULL,15,14,14,3,NULL,0,0,0,0,NULL,NCAAF
-400795628,2015,"Thu, Nov 19",Liberty Flames,Coastal Carolina Chanticleers,"6-5, 3-3 Conf","9-2, 4-2 Conf",24,21,NULL,NULL,Final,ESPNN,7,0,7,10,NULL,0,14,0,7,NULL,NCAAF
-400853509,2015,"Sat, Nov 28",Coastal Carolina Chanticleers,The Citadel Bulldogs,"9-3, 6-1 Home","9-3, 4-2 Away",38,41,NULL,NULL,Final,ESPN3,7,14,7,10,NULL,14,0,14,13,NULL,NCAAF
+400795591,2015,"September 12, 2015",South Carolina State Bulldogs,Coastal Carolina Chanticleers,"1-1, 0-1 Home","2-0, 2-0 Away",14,41,,,Final,,0,0,7,7,,22,10,9,0,,NCAAF
+400795600,2015,"September 26, 2015",Coastal Carolina Chanticleers,Bryant Bulldogs,"4-0, 2-0 Home","2-1, 1-1 Away",31,17,,,Final,,7,10,7,7,,10,7,0,0,,NCAAF
+400795610,2015,"October 10, 2015",Coastal Carolina Chanticleers,Presbyterian College Blue Hose,"6-0, 1-0 Conf","1-5, 0-1 Conf",24,17,,,Final,ESPN3,0,12,5,7,,3,0,7,7,,NCAAF
+400795619,2015,"October 31, 2015",Charleston Southern Buccaneers,Coastal Carolina Chanticleers,"7-1, 4-0 Conf","7-1, 2-1 Conf",33,25,,,Final,,13,14,3,3,,15,0,3,7,,NCAAF
+400795626,2015,"November 14, 2015",Coastal Carolina Chanticleers,Kennesaw State Owls,"9-1, 4-1 Conf","6-4, 2-3 Conf",45,13,,,Final,,13,18,7,7,,6,0,7,0,,NCAAF
+400795588,2015,"September 05, 2015",Furman Paladins,Coastal Carolina Chanticleers,"0-1, 0-1 Home","1-0, 1-0 Away",35,38,,,Final,ESPN3,7,14,0,14,,15,6,7,10,,NCAAF
+400795594,2015,"September 19, 2015",Coastal Carolina Chanticleers,Western Illinois Leathernecks,"3-0, 1-0 Home","1-2, 0-2 Away",34,27,,,Final,,3,7,10,14,,0,7,14,6,,NCAAF
+400795606,2015,"October 03, 2015",Coastal Carolina Chanticleers,Alabama A&M Bulldogs,"5-0, 3-0 Home","1-3, 0-3 Away",55,0,,,Final,,6,32,14,3,,0,0,0,0,,NCAAF
+400795617,2015,"October 24, 2015",Monmouth Hawks,Coastal Carolina Chanticleers,"3-5, 1-2 Conf","7-0, 2-0 Conf",20,23,,,Final,ESPN3,7,6,7,0,,3,14,3,3,,NCAAF
+400795623,2015,"November 07, 2015",Coastal Carolina Chanticleers,Gardner-Webb Bulldogs,"8-1, 3-1 Conf","3-6, 2-3 Conf",46,0,,,Final,,15,14,14,3,,0,0,0,0,,NCAAF
+400795628,2015,"November 19, 2015",Liberty Flames,Coastal Carolina Chanticleers,"6-5, 3-3 Conf","9-2, 4-2 Conf",24,21,,,Final,ESPNN,7,0,7,10,,0,14,0,7,,NCAAF
+400853509,2015,"November 28, 2015",Coastal Carolina Chanticleers,The Citadel Bulldogs,"9-3, 6-1 Home","9-3, 4-2 Away",38,41,,,Final,ESPN3,7,14,7,10,,14,0,14,13,,NCAAF

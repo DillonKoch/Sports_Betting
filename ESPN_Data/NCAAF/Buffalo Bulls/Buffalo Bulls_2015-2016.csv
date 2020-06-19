@@ -1,13 +1,13 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-400763506,2015,"Sat, Sep 12",Penn State Nittany Lions,Buffalo Bulls,"1-1, 1-0 Home","1-1, 0-1 Away",27,14,NULL,NULL,Final,ESPN2,0,10,3,14,NULL,0,0,7,7,NULL,NCAAF
-400787245,2015,"Sat, Sep 26",Buffalo Bulls,Nevada Wolf Pack,"2-2, 1-1 Home","2-2, 1-1 Away",21,24,NULL,NULL,Final,ESPN3,7,3,3,8,NULL,14,3,0,7,NULL,NCAAF
-400787332,2015,"Sat, Oct 17",Central Michigan Chippewas,Buffalo Bulls,"3-4, 2-1 Conf","2-4, 0-2 Conf",51,14,NULL,NULL,Final,ESPN3,14,23,7,7,NULL,7,0,0,7,NULL,NCAAF
-400787340,2015,"Thu, Oct 29",Miami (OH) RedHawks,Buffalo Bulls,"1-8, 0-5 Conf","4-4, 2-2 Conf",24,29,NULL,NULL,Final,ESPN3,7,10,0,7,NULL,10,7,12,0,NULL,NCAAF
-400787351,2015,"Wed, Nov 11",Buffalo Bulls,Northern Illinois Huskies,"5-5, 3-3 Conf","7-3, 5-1 Conf",30,41,NULL,NULL,Final,ESPNU,3,0,13,14,NULL,14,14,3,10,NULL,NCAAF
-400787303,2015,"Sat, Sep 5",Buffalo Bulls,Albany Great Danes,"1-0, 1-0 Home","0-1, 0-1 Away",51,14,NULL,NULL,Final,ESPN3,7,17,14,13,NULL,7,0,0,7,NULL,NCAAF
-400763600,2015,"Sat, Sep 19",Florida Atlantic Owls,Buffalo Bulls,"0-3, 0-2 Home","2-1, 1-1 Away",15,33,NULL,NULL,Final,NULL,2,7,0,6,NULL,0,7,19,7,NULL,NCAAF
-400787318,2015,"Sat, Oct 3",Buffalo Bulls,Bowling Green Falcons,"2-3, 0-1 Conf","3-2, 1-0 Conf",22,28,NULL,NULL,Final,ESPN3,3,3,3,13,NULL,7,14,0,7,NULL,NCAAF
-400787333,2015,"Sat, Oct 24",Buffalo Bulls,Ohio Bobcats,"3-4, 1-2 Conf","5-3, 2-2 Conf",41,17,NULL,NULL,Final,ESPN3,14,17,0,10,NULL,7,3,7,0,NULL,NCAAF
-400787345,2015,"Thu, Nov 5",Kent State Golden Flashes,Buffalo Bulls,"3-6, 2-3 Conf","5-4, 3-2 Conf",17,18,NULL,NULL,Final,ESPN3,0,10,7,0,NULL,6,0,0,12,NULL,NCAAF
-400787360,2015,"Sat, Nov 21",Akron Zips,Buffalo Bulls,"6-5, 4-3 Conf","5-6, 3-4 Conf",42,21,NULL,NULL,Final,CBSSN,14,14,7,7,NULL,0,14,0,7,NULL,NCAAF
-400787365,2015,"Fri, Nov 27",Buffalo Bulls,UMass Minutemen,"5-7, 3-5 Conf","3-9, 2-6 Conf",26,31,NULL,NULL,Final,ESPNU,10,7,3,6,NULL,14,14,0,3,NULL,NCAAF
+400763506,2015,"September 12, 2015",Penn State Nittany Lions,Buffalo Bulls,"1-1, 1-0 Home","1-1, 0-1 Away",27,14,,,Final,ESPN2,0,10,3,14,,0,0,7,7,,NCAAF
+400787245,2015,"September 26, 2015",Buffalo Bulls,Nevada Wolf Pack,"2-2, 1-1 Home","2-2, 1-1 Away",21,24,,,Final,ESPN3,7,3,3,8,,14,3,0,7,,NCAAF
+400787332,2015,"October 17, 2015",Central Michigan Chippewas,Buffalo Bulls,"3-4, 2-1 Conf","2-4, 0-2 Conf",51,14,,,Final,ESPN3,14,23,7,7,,7,0,0,7,,NCAAF
+400787340,2015,"October 29, 2015",Miami (OH) RedHawks,Buffalo Bulls,"1-8, 0-5 Conf","4-4, 2-2 Conf",24,29,,,Final,ESPN3,7,10,0,7,,10,7,12,0,,NCAAF
+400787351,2015,"November 11, 2015",Buffalo Bulls,Northern Illinois Huskies,"5-5, 3-3 Conf","7-3, 5-1 Conf",30,41,,,Final,ESPNU,3,0,13,14,,14,14,3,10,,NCAAF
+400787303,2015,"September 05, 2015",Buffalo Bulls,Albany Great Danes,"1-0, 1-0 Home","0-1, 0-1 Away",51,14,,,Final,ESPN3,7,17,14,13,,7,0,0,7,,NCAAF
+400763600,2015,"September 19, 2015",Florida Atlantic Owls,Buffalo Bulls,"0-3, 0-2 Home","2-1, 1-1 Away",15,33,,,Final,,2,7,0,6,,0,7,19,7,,NCAAF
+400787318,2015,"October 03, 2015",Buffalo Bulls,Bowling Green Falcons,"2-3, 0-1 Conf","3-2, 1-0 Conf",22,28,,,Final,ESPN3,3,3,3,13,,7,14,0,7,,NCAAF
+400787333,2015,"October 24, 2015",Buffalo Bulls,Ohio Bobcats,"3-4, 1-2 Conf","5-3, 2-2 Conf",41,17,,,Final,ESPN3,14,17,0,10,,7,3,7,0,,NCAAF
+400787345,2015,"November 05, 2015",Kent State Golden Flashes,Buffalo Bulls,"3-6, 2-3 Conf","5-4, 3-2 Conf",17,18,,,Final,ESPN3,0,10,7,0,,6,0,0,12,,NCAAF
+400787360,2015,"November 21, 2015",Akron Zips,Buffalo Bulls,"6-5, 4-3 Conf","5-6, 3-4 Conf",42,21,,,Final,CBSSN,14,14,7,7,,0,14,0,7,,NCAAF
+400787365,2015,"November 27, 2015",Buffalo Bulls,UMass Minutemen,"5-7, 3-5 Conf","3-9, 2-6 Conf",26,31,,,Final,ESPNU,10,7,3,6,,14,14,0,3,,NCAAF

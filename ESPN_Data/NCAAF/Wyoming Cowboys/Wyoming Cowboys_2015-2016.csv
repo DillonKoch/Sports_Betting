@@ -1,13 +1,13 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-400787119,2015,"Sat, Sep 12",Wyoming Cowboys,Eastern Michigan Eagles,"0-2, 0-2 Home","1-1, 1-0 Away",29,48,NULL,NULL,Final,NULL,7,7,15,0,NULL,14,24,7,3,NULL,NCAAF
-400787246,2015,"Sat, Sep 26",Wyoming Cowboys,New Mexico Lobos,"0-4, 0-1 Conf","2-2, 1-0 Conf",28,38,NULL,NULL,Final,NULL,0,14,7,7,NULL,14,14,7,3,NULL,NCAAF
-400787254,2015,"Sat, Oct 10",Air Force Falcons,Wyoming Cowboys,"3-2, 2-0 Conf","0-6, 0-2 Conf",31,17,NULL,NULL,Final,ESPN2,0,7,7,17,NULL,0,3,0,14,NULL,NCAAF
-400787267,2015,"Sat, Oct 24",Boise State Broncos,Wyoming Cowboys,"6-2, 3-1 Conf","1-7, 1-3 Conf",34,14,NULL,NULL,Final,ESPN2,17,7,10,0,NULL,0,7,0,7,NULL,NCAAF
-400787275,2015,"Sat, Nov 7",Wyoming Cowboys,Colorado State Rams,"1-9, 1-5 Conf","4-5, 2-3 Conf",7,26,NULL,NULL,Final,ESPN3,0,0,0,7,NULL,17,6,3,0,NULL,NCAAF
-400787116,2015,"Sat, Sep 5",Wyoming Cowboys,North Dakota Fighting Hawks,"0-1, 0-1 Home","1-0, 1-0 Away",13,24,NULL,NULL,Final,NULL,0,0,0,13,NULL,7,7,0,10,NULL,NCAAF
-400757033,2015,"Sat, Sep 19",Washington State Cougars,Wyoming Cowboys,"2-1, 1-1 Home","0-3, 0-1 Away",31,14,NULL,NULL,Final,PAC12,7,14,0,10,NULL,14,0,0,0,NULL,NCAAF
-400787253,2015,"Sat, Oct 3",Appalachian State Mountaineers,Wyoming Cowboys,"3-1, 2-0 Home","0-5, 0-2 Away",31,13,NULL,NULL,Final,ESPN3,14,7,7,3,NULL,0,7,0,6,NULL,NCAAF
-400787264,2015,"Sat, Oct 17",Wyoming Cowboys,Nevada Wolf Pack,"1-6, 1-2 Conf","3-4, 1-2 Conf",28,21,NULL,NULL,Final,ESPN3,0,21,7,0,NULL,0,7,7,7,NULL,NCAAF
-400790885,2015,"Fri, Oct 30",Utah State Aggies,Wyoming Cowboys,"5-3, 4-1 Conf","1-8, 1-4 Conf",58,27,NULL,NULL,Final,ESPN2,14,16,7,21,NULL,7,7,7,6,NULL,NCAAF
-400787285,2015,"Sat, Nov 14",San Diego State Aztecs,Wyoming Cowboys,"7-3, 6-0 Conf","1-10, 1-6 Conf",38,3,NULL,NULL,Final,CBSSN,14,7,3,14,NULL,0,0,0,3,NULL,NCAAF
-400787298,2015,"Sat, Nov 28",Wyoming Cowboys,UNLV Rebels,"2-10, 2-6 Conf","3-9, 2-6 Conf",35,28,NULL,NULL,Final,NULL,0,14,7,14,NULL,7,0,7,14,NULL,NCAAF
+400787119,2015,"September 12, 2015",Wyoming Cowboys,Eastern Michigan Eagles,"0-2, 0-2 Home","1-1, 1-0 Away",29,48,,,Final,,7,7,15,0,,14,24,7,3,,NCAAF
+400787246,2015,"September 26, 2015",Wyoming Cowboys,New Mexico Lobos,"0-4, 0-1 Conf","2-2, 1-0 Conf",28,38,,,Final,,0,14,7,7,,14,14,7,3,,NCAAF
+400787254,2015,"October 10, 2015",Air Force Falcons,Wyoming Cowboys,"3-2, 2-0 Conf","0-6, 0-2 Conf",31,17,,,Final,ESPN2,0,7,7,17,,0,3,0,14,,NCAAF
+400787267,2015,"October 24, 2015",Boise State Broncos,Wyoming Cowboys,"6-2, 3-1 Conf","1-7, 1-3 Conf",34,14,,,Final,ESPN2,17,7,10,0,,0,7,0,7,,NCAAF
+400787275,2015,"November 07, 2015",Wyoming Cowboys,Colorado State Rams,"1-9, 1-5 Conf","4-5, 2-3 Conf",7,26,,,Final,ESPN3,0,0,0,7,,17,6,3,0,,NCAAF
+400787116,2015,"September 05, 2015",Wyoming Cowboys,North Dakota Fighting Hawks,"0-1, 0-1 Home","1-0, 1-0 Away",13,24,,,Final,,0,0,0,13,,7,7,0,10,,NCAAF
+400757033,2015,"September 19, 2015",Washington State Cougars,Wyoming Cowboys,"2-1, 1-1 Home","0-3, 0-1 Away",31,14,,,Final,PAC12,7,14,0,10,,14,0,0,0,,NCAAF
+400787253,2015,"October 03, 2015",Appalachian State Mountaineers,Wyoming Cowboys,"3-1, 2-0 Home","0-5, 0-2 Away",31,13,,,Final,ESPN3,14,7,7,3,,0,7,0,6,,NCAAF
+400787264,2015,"October 17, 2015",Wyoming Cowboys,Nevada Wolf Pack,"1-6, 1-2 Conf","3-4, 1-2 Conf",28,21,,,Final,ESPN3,0,21,7,0,,0,7,7,7,,NCAAF
+400790885,2015,"October 30, 2015",Utah State Aggies,Wyoming Cowboys,"5-3, 4-1 Conf","1-8, 1-4 Conf",58,27,,,Final,ESPN2,14,16,7,21,,7,7,7,6,,NCAAF
+400787285,2015,"November 14, 2015",San Diego State Aztecs,Wyoming Cowboys,"7-3, 6-0 Conf","1-10, 1-6 Conf",38,3,,,Final,CBSSN,14,7,3,14,,0,0,0,3,,NCAAF
+400787298,2015,"November 28, 2015",Wyoming Cowboys,UNLV Rebels,"2-10, 2-6 Conf","3-9, 2-6 Conf",35,28,,,Final,,0,14,7,14,,7,0,7,14,,NCAAF

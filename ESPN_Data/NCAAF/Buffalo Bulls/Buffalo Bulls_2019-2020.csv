@@ -1,14 +1,14 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-401112258,2019,"Sat, Sep 7",Penn State Nittany Lions,Buffalo Bulls,"2-0, 2-0 Home","1-1, 0-1 Away",45,13,PSU -32.0,57,Final,FOX,7,0,28,10,NULL,0,10,3,0,NULL,NCAAF
-401117870,2019,"Sat, Sep 21",Buffalo Bulls,Temple Owls,"2-2, 2-0 Home","2-1, 0-1 Away",38,22,TEM -13.5,51,Final,ESPNU,0,24,7,7,NULL,7,0,3,12,NULL,NCAAF
-401119274,2019,"Sat, Oct 5",Buffalo Bulls,Ohio Bobcats,"2-4, 0-2 Conf","2-3, 1-0 Conf",20,21,OHIO -3.0,52,Final/OT,ESPN+,0,7,0,7,6,0,0,7,7,7,NCAAF
-401119289,2019,"Sat, Oct 26",Buffalo Bulls,Central Michigan Chippewas,"4-4, 2-2 Conf","5-4, 3-2 Conf",43,20,BUFF -2.5,46,Final,ESPN+,3,27,3,10,NULL,7,7,0,6,NULL,NCAAF
-401119303,2019,"Thu, Nov 14",Kent State Golden Flashes,Buffalo Bulls,"4-6, 3-3 Conf","5-5, 3-3 Conf",30,27,BUFF -6.0,55,Final,CBSSN,0,6,0,24,NULL,7,10,7,3,NULL,NCAAF
-401119255,2019,"Thu, Aug 29",Buffalo Bulls,Robert Morris Colonials,"1-0, 1-0 Home","0-1, 0-1 Away",38,10,NULL,NULL,Final,ESPN+,21,7,10,0,NULL,7,3,0,0,NULL,NCAAF
-401114348,2019,"Sat, Sep 14",Liberty Flames,Buffalo Bulls,"1-2, 1-1 Home","1-2, 0-2 Away",35,17,BUFF -6.0,55,Final,ESPN+,7,21,7,0,NULL,0,7,3,7,NULL,NCAAF
-401119270,2019,"Sat, Sep 28",Miami (OH) RedHawks,Buffalo Bulls,"2-3, 1-0 Conf","2-3, 0-1 Conf",34,20,BUFF -2.5,49,Final,ESPNU,0,13,21,0,NULL,7,7,0,6,NULL,NCAAF
-401119281,2019,"Sat, Oct 19",Akron Zips,Buffalo Bulls,"0-7, 0-3 Conf","3-4, 1-2 Conf",0,21,BUFF -17.5,48,Final,ESPN3,0,0,0,0,NULL,7,0,7,7,NULL,NCAAF
-401119294,2019,"Sat, Nov 2",Eastern Michigan Eagles,Buffalo Bulls,"4-5, 1-4 Conf","5-4, 3-2 Conf",14,43,BUFF -1.5,50,Final,ESPNU,7,0,0,7,NULL,2,27,7,7,NULL,NCAAF
-401119308,2019,"Wed, Nov 20",Buffalo Bulls,Toledo Rockets,"6-5, 4-3 Conf","6-5, 3-4 Conf",49,30,BUFF -10.5,54,Final,ESPN2,14,14,7,14,NULL,7,13,3,7,NULL,NCAAF
-401119312,2019,"Fri, Nov 29",Buffalo Bulls,Bowling Green Falcons,"7-5, 5-3 Conf","3-9, 2-6 Conf",49,7,BUFF -27.5,54,Final,ESPN+,21,14,0,14,NULL,0,7,0,0,NULL,NCAAF
-401135260,2019,"Fri, Dec 20",Charlotte 49ers,Buffalo Bulls,7-6,8-5,9,31,BUFF -7.0,52,Final,ESPN,0,0,6,3,NULL,7,10,7,7,NULL,NCAAF
+401112258,2019,"September 07, 2019",Penn State Nittany Lions,Buffalo Bulls,"2-0, 2-0 Home","1-1, 0-1 Away",45,13,PSU -32.0,57.0,Final,FOX,7,0,28,10,,0,10,3,0,,NCAAF
+401117870,2019,"September 21, 2019",Buffalo Bulls,Temple Owls,"2-2, 2-0 Home","2-1, 0-1 Away",38,22,TEM -13.5,51.0,Final,ESPNU,0,24,7,7,,7,0,3,12,,NCAAF
+401119274,2019,"October 05, 2019",Buffalo Bulls,Ohio Bobcats,"2-4, 0-2 Conf","2-3, 1-0 Conf",20,21,OHIO -3.0,52.0,Final/OT,ESPN+,0,7,0,7,6.0,0,0,7,7,7.0,NCAAF
+401119289,2019,"October 26, 2019",Buffalo Bulls,Central Michigan Chippewas,"4-4, 2-2 Conf","5-4, 3-2 Conf",43,20,BUFF -2.5,46.0,Final,ESPN+,3,27,3,10,,7,7,0,6,,NCAAF
+401119303,2019,"November 14, 2019",Kent State Golden Flashes,Buffalo Bulls,"4-6, 3-3 Conf","5-5, 3-3 Conf",30,27,BUFF -6.0,55.0,Final,CBSSN,0,6,0,24,,7,10,7,3,,NCAAF
+401119255,2019,"August 29, 2019",Buffalo Bulls,Robert Morris Colonials,"1-0, 1-0 Home","0-1, 0-1 Away",38,10,,,Final,ESPN+,21,7,10,0,,7,3,0,0,,NCAAF
+401114348,2019,"September 14, 2019",Liberty Flames,Buffalo Bulls,"1-2, 1-1 Home","1-2, 0-2 Away",35,17,BUFF -6.0,55.0,Final,ESPN+,7,21,7,0,,0,7,3,7,,NCAAF
+401119270,2019,"September 28, 2019",Miami (OH) RedHawks,Buffalo Bulls,"2-3, 1-0 Conf","2-3, 0-1 Conf",34,20,BUFF -2.5,49.0,Final,ESPNU,0,13,21,0,,7,7,0,6,,NCAAF
+401119281,2019,"October 19, 2019",Akron Zips,Buffalo Bulls,"0-7, 0-3 Conf","3-4, 1-2 Conf",0,21,BUFF -17.5,48.0,Final,ESPN3,0,0,0,0,,7,0,7,7,,NCAAF
+401119294,2019,"November 02, 2019",Eastern Michigan Eagles,Buffalo Bulls,"4-5, 1-4 Conf","5-4, 3-2 Conf",14,43,BUFF -1.5,50.0,Final,ESPNU,7,0,0,7,,2,27,7,7,,NCAAF
+401119308,2019,"November 20, 2019",Buffalo Bulls,Toledo Rockets,"6-5, 4-3 Conf","6-5, 3-4 Conf",49,30,BUFF -10.5,54.0,Final,ESPN2,14,14,7,14,,7,13,3,7,,NCAAF
+401119312,2019,"November 29, 2019",Buffalo Bulls,Bowling Green Falcons,"7-5, 5-3 Conf","3-9, 2-6 Conf",49,7,BUFF -27.5,54.0,Final,ESPN+,21,14,0,14,,0,7,0,0,,NCAAF
+401135260,2019,"December 20, 2019",Charlotte 49ers,Buffalo Bulls,7-6,8-5,9,31,BUFF -7.0,52.0,Final,ESPN,0,0,6,3,,7,10,7,7,,NCAAF

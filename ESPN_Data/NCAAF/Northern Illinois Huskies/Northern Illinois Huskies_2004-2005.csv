@@ -1,13 +1,13 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-242552459,2004,"Sat, Sep 11",Northern Illinois Huskies,Southern Illinois Salukis,"1-1, 1-0 Home","1-1, 0-1 Away",23,22,NULL,NULL,Final,NULL,0,10,10,3,NULL,3,3,3,13,NULL,NCAAF
-242682459,2004,"Fri, Sep 24",Northern Illinois Huskies,Bowling Green Falcons,"2-2, 1-0 Conf","1-2, 0-1 Conf",34,17,NULL,NULL,Final,ESPN2,0,7,17,10,NULL,7,0,3,7,NULL,NCAAF
-242832116,2004,"Sat, Oct 9",UCF Knights,Northern Illinois Huskies,"0-5, 0-2 Conf","4-2, 3-0 Conf",28,30,NULL,NULL,Final,NULL,0,0,7,21,NULL,14,7,3,6,NULL,NCAAF
-242972711,2004,"Sat, Oct 23",Western Michigan Broncos,Northern Illinois Huskies,"1-6, 0-4 Conf","6-2, 5-0 Conf",38,59,NULL,NULL,Final,NULL,7,10,7,14,NULL,14,28,14,3,NULL,NCAAF
-243142459,2004,"Tue, Nov 9",Northern Illinois Huskies,Toledo Rockets,"7-3, 6-1 Conf","7-3, 6-1 Conf",17,31,NULL,NULL,Final,ESPN2,10,7,0,0,NULL,0,14,10,7,NULL,NCAAF
-242480120,2004,"Sat, Sep 4",Maryland Terrapins,Northern Illinois Huskies,"1-0, 1-0 Home","0-1, 0-1 Away",23,20,NULL,NULL,Final,NULL,0,10,10,3,NULL,2,0,7,11,NULL,NCAAF
-242620066,2004,"Sat, Sep 18",Iowa State Cyclones,Northern Illinois Huskies,"2-1, 2-0 Home","1-2, 0-2 Away",48,41,NULL,NULL,Final,NULL,13,7,6,22,NULL,7,21,6,7,NULL,NCAAF
-242762459,2004,"Sat, Oct 2",Northern Illinois Huskies,Akron Zips,"3-2, 2-0 Conf","1-4, 1-1 Conf",49,19,NULL,NULL,Final,NULL,21,14,14,0,NULL,0,12,7,0,NULL,NCAAF
-242902459,2004,"Sat, Oct 16",Northern Illinois Huskies,Central Michigan Chippewas,"5-2, 4-0 Conf","2-4, 1-2 Conf",42,10,NULL,NULL,Final,NULL,7,0,28,7,NULL,3,0,0,7,NULL,NCAAF
-243042050,2004,"Sat, Oct 30",Ball State Cardinals,Northern Illinois Huskies,"1-8, 1-5 Conf","7-2, 6-0 Conf",31,38,NULL,NULL,Final/OT,NULL,3,7,7,14,0,7,14,7,3,7,NCAAF
-243652653,2004,"Thu, Dec 30",Northern Illinois Huskies,Troy Trojans,"9-3, 5-1 Home","7-5, 2-5 Away",34,21,NULL,NULL,Final,ESPN2,14,10,3,7,NULL,14,0,0,7,NULL,NCAAF
-243252199,2004,"Sat, Nov 20",Eastern Michigan Eagles,Northern Illinois Huskies,"4-7, 4-4 Conf","8-3, 7-1 Conf",16,34,NULL,NULL,Final,NULL,7,6,0,3,NULL,6,14,14,0,NULL,NCAAF
+242552459,2004,"September 11, 2004",Northern Illinois Huskies,Southern Illinois Salukis,"1-1, 1-0 Home","1-1, 0-1 Away",23,22,,,Final,,0,10,10,3,,3,3,3,13,,NCAAF
+242682459,2004,"September 24, 2004",Northern Illinois Huskies,Bowling Green Falcons,"2-2, 1-0 Conf","1-2, 0-1 Conf",34,17,,,Final,ESPN2,0,7,17,10,,7,0,3,7,,NCAAF
+242832116,2004,"October 09, 2004",UCF Knights,Northern Illinois Huskies,"0-5, 0-2 Conf","4-2, 3-0 Conf",28,30,,,Final,,0,0,7,21,,14,7,3,6,,NCAAF
+242972711,2004,"October 23, 2004",Western Michigan Broncos,Northern Illinois Huskies,"1-6, 0-4 Conf","6-2, 5-0 Conf",38,59,,,Final,,7,10,7,14,,14,28,14,3,,NCAAF
+243142459,2004,"November 09, 2004",Northern Illinois Huskies,Toledo Rockets,"7-3, 6-1 Conf","7-3, 6-1 Conf",17,31,,,Final,ESPN2,10,7,0,0,,0,14,10,7,,NCAAF
+242480120,2004,"September 04, 2004",Maryland Terrapins,Northern Illinois Huskies,"1-0, 1-0 Home","0-1, 0-1 Away",23,20,,,Final,,0,10,10,3,,2,0,7,11,,NCAAF
+242620066,2004,"September 18, 2004",Iowa State Cyclones,Northern Illinois Huskies,"2-1, 2-0 Home","1-2, 0-2 Away",48,41,,,Final,,13,7,6,22,,7,21,6,7,,NCAAF
+242762459,2004,"October 02, 2004",Northern Illinois Huskies,Akron Zips,"3-2, 2-0 Conf","1-4, 1-1 Conf",49,19,,,Final,,21,14,14,0,,0,12,7,0,,NCAAF
+242902459,2004,"October 16, 2004",Northern Illinois Huskies,Central Michigan Chippewas,"5-2, 4-0 Conf","2-4, 1-2 Conf",42,10,,,Final,,7,0,28,7,,3,0,0,7,,NCAAF
+243042050,2004,"October 30, 2004",Ball State Cardinals,Northern Illinois Huskies,"1-8, 1-5 Conf","7-2, 6-0 Conf",31,38,,,Final/OT,,3,7,7,14,0.0,7,14,7,3,7.0,NCAAF
+243652653,2004,"December 30, 2004",Northern Illinois Huskies,Troy Trojans,"9-3, 5-1 Home","7-5, 2-5 Away",34,21,,,Final,ESPN2,14,10,3,7,,14,0,0,7,,NCAAF
+243252199,2004,"November 20, 2004",Eastern Michigan Eagles,Northern Illinois Huskies,"4-7, 4-4 Conf","8-3, 7-1 Conf",16,34,,,Final,,7,6,0,3,,6,14,14,0,,NCAAF

@@ -1,14 +1,14 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-400935243,2017,"Sat, Sep 9",Michigan Wolverines,Cincinnati Bearcats,"2-0, 1-0 Home","1-1, 0-1 Away",36,14,NULL,NULL,Final,ABC,14,3,7,12,NULL,7,0,7,0,NULL,NCAAF
-400935364,2017,"Sat, Sep 23",Purdue Boilermakers,Michigan Wolverines,"2-2, 0-1 Conf","4-0, 1-0 Conf",10,28,NULL,NULL,Final,FOX,0,10,0,0,NULL,0,7,7,14,NULL,NCAAF
-400935379,2017,"Sat, Oct 14",Indiana Hoosiers,Michigan Wolverines,"3-3, 0-3 Conf","5-1, 2-1 Conf",20,27,NULL,NULL,Final/OT,ABC,0,3,7,10,0,3,10,0,7,7,NCAAF
-400935393,2017,"Sat, Oct 28",Michigan Wolverines,Rutgers Scarlet Knights,"6-2, 3-2 Conf","3-5, 2-3 Conf",35,14,NULL,NULL,Final,BTN,0,21,7,7,NULL,0,7,7,0,NULL,NCAAF
-400935404,2017,"Sat, Nov 11",Maryland Terrapins,Michigan Wolverines,"4-6, 2-5 Conf","8-2, 5-2 Conf",10,35,NULL,NULL,Final,BTN,0,0,3,7,NULL,7,21,0,7,NULL,NCAAF
-400933830,2017,"Sat, Sep 2",Florida Gators,Michigan Wolverines,0-1,1-0,17,33,NULL,NULL,Final,ABC,3,14,0,0,NULL,10,3,13,7,NULL,NCAAF
-400935352,2017,"Sat, Sep 16",Michigan Wolverines,Air Force Falcons,"3-0, 2-0 Home","1-1, 0-1 Away",29,13,NULL,NULL,Final,BTN,3,6,10,10,NULL,3,3,7,0,NULL,NCAAF
-400935372,2017,"Sat, Oct 7",Michigan Wolverines,Michigan State Spartans,"4-1, 1-1 Conf","4-1, 2-0 Conf",10,14,NULL,NULL,Final,ABC,3,0,7,0,NULL,7,7,0,0,NULL,NCAAF
-400935386,2017,"Sat, Oct 21",Penn State Nittany Lions,Michigan Wolverines,"7-0, 4-0 Conf","5-2, 2-2 Conf",42,13,NULL,NULL,Final,ABC,14,7,7,14,NULL,0,13,0,0,NULL,NCAAF
-400935398,2017,"Sat, Nov 4",Michigan Wolverines,Minnesota Golden Gophers,"7-2, 4-2 Conf","4-5, 1-5 Conf",33,10,NULL,NULL,Final,FOX,13,7,13,0,NULL,7,0,0,3,NULL,NCAAF
-400935416,2017,"Sat, Nov 18",Wisconsin Badgers,Michigan Wolverines,"11-0, 8-0 Conf","8-3, 5-3 Conf",24,10,NULL,NULL,Final,FOX,7,0,14,3,NULL,0,7,3,0,NULL,NCAAF
-400935420,2017,"Sat, Nov 25",Michigan Wolverines,Ohio State Buckeyes,"8-4, 5-4 Conf","10-2, 8-1 Conf",20,31,NULL,NULL,Final,FOX,7,7,6,0,NULL,0,14,7,10,NULL,NCAAF
-400953410,2017,"Mon, Jan 1",South Carolina Gamecocks,Michigan Wolverines,9-4,8-5,26,19,NULL,NULL,Final,ESPN2,0,3,13,10,NULL,6,3,10,0,NULL,NCAAF
+400935243,2017,"September 09, 2017",Michigan Wolverines,Cincinnati Bearcats,"2-0, 1-0 Home","1-1, 0-1 Away",36,14,,,Final,ABC,14,3,7,12,,7,0,7,0,,NCAAF
+400935364,2017,"September 23, 2017",Purdue Boilermakers,Michigan Wolverines,"2-2, 0-1 Conf","4-0, 1-0 Conf",10,28,,,Final,FOX,0,10,0,0,,0,7,7,14,,NCAAF
+400935379,2017,"October 14, 2017",Indiana Hoosiers,Michigan Wolverines,"3-3, 0-3 Conf","5-1, 2-1 Conf",20,27,,,Final/OT,ABC,0,3,7,10,0.0,3,10,0,7,7.0,NCAAF
+400935393,2017,"October 28, 2017",Michigan Wolverines,Rutgers Scarlet Knights,"6-2, 3-2 Conf","3-5, 2-3 Conf",35,14,,,Final,BTN,0,21,7,7,,0,7,7,0,,NCAAF
+400935404,2017,"November 11, 2017",Maryland Terrapins,Michigan Wolverines,"4-6, 2-5 Conf","8-2, 5-2 Conf",10,35,,,Final,BTN,0,0,3,7,,7,21,0,7,,NCAAF
+400933830,2017,"September 02, 2017",Florida Gators,Michigan Wolverines,0-1,1-0,17,33,,,Final,ABC,3,14,0,0,,10,3,13,7,,NCAAF
+400935352,2017,"September 16, 2017",Michigan Wolverines,Air Force Falcons,"3-0, 2-0 Home","1-1, 0-1 Away",29,13,,,Final,BTN,3,6,10,10,,3,3,7,0,,NCAAF
+400935372,2017,"October 07, 2017",Michigan Wolverines,Michigan State Spartans,"4-1, 1-1 Conf","4-1, 2-0 Conf",10,14,,,Final,ABC,3,0,7,0,,7,7,0,0,,NCAAF
+400935386,2017,"October 21, 2017",Penn State Nittany Lions,Michigan Wolverines,"7-0, 4-0 Conf","5-2, 2-2 Conf",42,13,,,Final,ABC,14,7,7,14,,0,13,0,0,,NCAAF
+400935398,2017,"November 04, 2017",Michigan Wolverines,Minnesota Golden Gophers,"7-2, 4-2 Conf","4-5, 1-5 Conf",33,10,,,Final,FOX,13,7,13,0,,7,0,0,3,,NCAAF
+400935416,2017,"November 18, 2017",Wisconsin Badgers,Michigan Wolverines,"11-0, 8-0 Conf","8-3, 5-3 Conf",24,10,,,Final,FOX,7,0,14,3,,0,7,3,0,,NCAAF
+400935420,2017,"November 25, 2017",Michigan Wolverines,Ohio State Buckeyes,"8-4, 5-4 Conf","10-2, 8-1 Conf",20,31,,,Final,FOX,7,7,6,0,,0,14,7,10,,NCAAF
+400953410,2017,"January 01, 2018",South Carolina Gamecocks,Michigan Wolverines,9-4,8-5,26,19,,,Final,ESPN2,0,3,13,10,,6,3,10,0,,NCAAF

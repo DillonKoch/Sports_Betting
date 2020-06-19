@@ -1,13 +1,13 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-400935268,2017,"Sat, Sep 9",California Golden Bears,Weber State Wildcats,"2-0, 1-0 Home","1-1, 0-1 Away",33,20,NULL,NULL,Final,PAC12,7,10,0,16,NULL,10,10,0,0,NULL,NCAAF
-400935279,2017,"Sat, Sep 23",California Golden Bears,USC Trojans,"3-1, 0-1 Conf","4-0, 2-0 Conf",20,30,NULL,NULL,Final,ABC,3,10,0,7,NULL,3,10,0,17,NULL,NCAAF
-400935293,2017,"Sat, Oct 7",Washington Huskies,California Golden Bears,"6-0, 3-0 Conf","3-3, 0-3 Conf",38,7,NULL,NULL,Final,ESPN,7,17,7,7,NULL,0,0,7,0,NULL,NCAAF
-400935300,2017,"Sat, Oct 21",California Golden Bears,Arizona Wildcats,"4-4, 1-4 Conf","5-2, 3-1 Conf",44,45,NULL,NULL,Final/2OT,NULL,7,0,14,10,13,14,7,7,3,14,NCAAF
-400935314,2017,"Sat, Nov 4",California Golden Bears,Oregon State Beavers,"5-5, 2-5 Conf","1-8, 0-6 Conf",37,23,NULL,NULL,Final,NULL,14,6,10,7,NULL,7,6,7,3,NULL,NCAAF
-400935256,2017,"Sat, Sep 2",North Carolina Tar Heels,California Golden Bears,"0-1, 0-1 Home","1-0, 1-0 Away",30,35,NULL,NULL,Final,ACCNX,7,10,7,6,NULL,7,7,7,14,NULL,NCAAF
-400933858,2017,"Sat, Sep 16",California Golden Bears,Ole Miss Rebels,"3-0, 2-0 Home","2-1, 0-1 Away",27,16,NULL,NULL,Final,ESPN,7,0,10,10,NULL,10,6,0,0,NULL,NCAAF
-400935287,2017,"Sat, Sep 30",Oregon Ducks,California Golden Bears,"4-1, 1-1 Conf","3-2, 0-2 Conf",45,24,NULL,NULL,Final,FS1,17,0,7,21,NULL,0,7,7,10,NULL,NCAAF
-400935294,2017,"Fri, Oct 13",California Golden Bears,Washington State Cougars,"4-3, 1-3 Conf","6-1, 3-1 Conf",37,3,NULL,NULL,Final,ESPN,10,7,3,17,NULL,0,3,0,0,NULL,NCAAF
-400935308,2017,"Sat, Oct 28",Colorado Buffaloes,California Golden Bears,"5-4, 2-4 Conf","4-5, 1-5 Conf",44,28,NULL,NULL,Final,PAC12,14,13,0,17,NULL,7,7,0,14,NULL,NCAAF
-400935325,2017,"Sat, Nov 18",Stanford Cardinal,California Golden Bears,"8-3, 7-2 Conf","5-6, 2-6 Conf",17,14,NULL,NULL,Final,FOX,3,7,7,0,NULL,3,3,8,0,NULL,NCAAF
-400935326,2017,"Fri, Nov 24",UCLA Bruins,California Golden Bears,"6-6, 4-5 Conf","5-7, 2-7 Conf",30,27,NULL,NULL,Final,FS1,7,10,7,6,NULL,3,6,8,10,NULL,NCAAF
+400935268,2017,"September 09, 2017",California Golden Bears,Weber State Wildcats,"2-0, 1-0 Home","1-1, 0-1 Away",33,20,,,Final,PAC12,7,10,0,16,,10,10,0,0,,NCAAF
+400935279,2017,"September 23, 2017",California Golden Bears,USC Trojans,"3-1, 0-1 Conf","4-0, 2-0 Conf",20,30,,,Final,ABC,3,10,0,7,,3,10,0,17,,NCAAF
+400935293,2017,"October 07, 2017",Washington Huskies,California Golden Bears,"6-0, 3-0 Conf","3-3, 0-3 Conf",38,7,,,Final,ESPN,7,17,7,7,,0,0,7,0,,NCAAF
+400935300,2017,"October 21, 2017",California Golden Bears,Arizona Wildcats,"4-4, 1-4 Conf","5-2, 3-1 Conf",44,45,,,Final/2OT,,7,0,14,10,13.0,14,7,7,3,14.0,NCAAF
+400935314,2017,"November 04, 2017",California Golden Bears,Oregon State Beavers,"5-5, 2-5 Conf","1-8, 0-6 Conf",37,23,,,Final,,14,6,10,7,,7,6,7,3,,NCAAF
+400935256,2017,"September 02, 2017",North Carolina Tar Heels,California Golden Bears,"0-1, 0-1 Home","1-0, 1-0 Away",30,35,,,Final,ACCNX,7,10,7,6,,7,7,7,14,,NCAAF
+400933858,2017,"September 16, 2017",California Golden Bears,Ole Miss Rebels,"3-0, 2-0 Home","2-1, 0-1 Away",27,16,,,Final,ESPN,7,0,10,10,,10,6,0,0,,NCAAF
+400935287,2017,"September 30, 2017",Oregon Ducks,California Golden Bears,"4-1, 1-1 Conf","3-2, 0-2 Conf",45,24,,,Final,FS1,17,0,7,21,,0,7,7,10,,NCAAF
+400935294,2017,"October 13, 2017",California Golden Bears,Washington State Cougars,"4-3, 1-3 Conf","6-1, 3-1 Conf",37,3,,,Final,ESPN,10,7,3,17,,0,3,0,0,,NCAAF
+400935308,2017,"October 28, 2017",Colorado Buffaloes,California Golden Bears,"5-4, 2-4 Conf","4-5, 1-5 Conf",44,28,,,Final,PAC12,14,13,0,17,,7,7,0,14,,NCAAF
+400935325,2017,"November 18, 2017",Stanford Cardinal,California Golden Bears,"8-3, 7-2 Conf","5-6, 2-6 Conf",17,14,,,Final,FOX,3,7,7,0,,3,3,8,0,,NCAAF
+400935326,2017,"November 24, 2017",UCLA Bruins,California Golden Bears,"6-6, 4-5 Conf","5-7, 2-7 Conf",30,27,,,Final,FS1,7,10,7,6,,3,6,8,10,,NCAAF

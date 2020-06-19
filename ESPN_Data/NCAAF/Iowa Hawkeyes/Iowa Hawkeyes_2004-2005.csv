@@ -1,13 +1,13 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-242552294,2004,"Sat, Sep 11",Iowa Hawkeyes,Iowa State Cyclones,"2-0, 2-0 Home","1-1, 0-1 Away",17,10,NULL,NULL,Final,NULL,7,7,3,0,NULL,3,0,7,0,NULL,NCAAF
-242690130,2004,"Sat, Sep 25",Michigan Wolverines,Iowa Hawkeyes,"3-1, 1-0 Conf","2-2, 0-1 Conf",30,17,NULL,NULL,Final,NULL,0,16,7,7,NULL,7,0,3,7,NULL,NCAAF
-242902294,2004,"Sat, Oct 16",Iowa Hawkeyes,Ohio State Buckeyes,"4-2, 2-1 Conf","3-3, 0-3 Conf",33,7,NULL,NULL,Final,ABC,7,3,14,9,NULL,0,0,0,7,NULL,NCAAF
-243040356,2004,"Sat, Oct 30",Illinois Fighting Illini,Iowa Hawkeyes,"2-7, 0-6 Conf","6-2, 4-1 Conf",13,23,NULL,NULL,Final,NULL,7,0,0,6,NULL,0,7,16,0,NULL,NCAAF
-243180135,2004,"Sat, Nov 13",Minnesota Golden Gophers,Iowa Hawkeyes,"6-5, 3-5 Conf","8-2, 6-1 Conf",27,29,NULL,NULL,Final,ESPN,3,7,10,7,NULL,10,13,3,3,NULL,NCAAF
-242482294,2004,"Sat, Sep 4",Iowa Hawkeyes,Kent State Golden Flashes,"1-0, 1-0 Home","0-1, 0-1 Away",39,7,NULL,NULL,Final,NULL,10,13,10,6,NULL,0,7,0,0,NULL,NCAAF
-242620009,2004,"Sat, Sep 18",Arizona State Sun Devils,Iowa Hawkeyes,"3-0, 0-0 Conf","2-1, 0-0 Conf",44,7,NULL,NULL,Final,NULL,10,17,10,7,NULL,0,0,0,7,NULL,NCAAF
-242762294,2004,"Sat, Oct 2",Iowa Hawkeyes,Michigan State Spartans,"3-2, 1-1 Conf","2-3, 1-1 Conf",38,16,NULL,NULL,Final,NULL,14,3,7,14,NULL,0,6,0,10,NULL,NCAAF
-242970213,2004,"Sat, Oct 23",Penn State Nittany Lions,Iowa Hawkeyes,"2-5, 0-4 Conf","5-2, 3-1 Conf",4,6,NULL,NULL,Final,ESPN2,2,0,0,2,NULL,3,3,0,0,NULL,NCAAF
-243112294,2004,"Sat, Nov 6",Iowa Hawkeyes,Purdue Boilermakers,"7-2, 5-1 Conf","5-4, 2-4 Conf",23,21,NULL,NULL,Final,ESPN,17,0,0,6,NULL,0,7,7,7,NULL,NCAAF
-250012294,2004,"Sat, Jan 1",Iowa Hawkeyes,LSU Tigers,"10-2, 7-0 Home","9-3, 2-3 Away",30,25,NULL,NULL,Final,ABC,7,7,3,13,NULL,0,12,0,13,NULL,NCAAF
-243252294,2004,"Sat, Nov 20",Iowa Hawkeyes,Wisconsin Badgers,"9-2, 7-1 Conf","9-2, 6-2 Conf",30,7,NULL,NULL,Final,ESPN,7,7,10,6,NULL,0,7,0,0,NULL,NCAAF
+242552294,2004,"September 11, 2004",Iowa Hawkeyes,Iowa State Cyclones,"2-0, 2-0 Home","1-1, 0-1 Away",17,10,,,Final,,7,7,3,0,,3,0,7,0,,NCAAF
+242690130,2004,"September 25, 2004",Michigan Wolverines,Iowa Hawkeyes,"3-1, 1-0 Conf","2-2, 0-1 Conf",30,17,,,Final,,0,16,7,7,,7,0,3,7,,NCAAF
+242902294,2004,"October 16, 2004",Iowa Hawkeyes,Ohio State Buckeyes,"4-2, 2-1 Conf","3-3, 0-3 Conf",33,7,,,Final,ABC,7,3,14,9,,0,0,0,7,,NCAAF
+243040356,2004,"October 30, 2004",Illinois Fighting Illini,Iowa Hawkeyes,"2-7, 0-6 Conf","6-2, 4-1 Conf",13,23,,,Final,,7,0,0,6,,0,7,16,0,,NCAAF
+243180135,2004,"November 13, 2004",Minnesota Golden Gophers,Iowa Hawkeyes,"6-5, 3-5 Conf","8-2, 6-1 Conf",27,29,,,Final,ESPN,3,7,10,7,,10,13,3,3,,NCAAF
+242482294,2004,"September 04, 2004",Iowa Hawkeyes,Kent State Golden Flashes,"1-0, 1-0 Home","0-1, 0-1 Away",39,7,,,Final,,10,13,10,6,,0,7,0,0,,NCAAF
+242620009,2004,"September 18, 2004",Arizona State Sun Devils,Iowa Hawkeyes,"3-0, 0-0 Conf","2-1, 0-0 Conf",44,7,,,Final,,10,17,10,7,,0,0,0,7,,NCAAF
+242762294,2004,"October 02, 2004",Iowa Hawkeyes,Michigan State Spartans,"3-2, 1-1 Conf","2-3, 1-1 Conf",38,16,,,Final,,14,3,7,14,,0,6,0,10,,NCAAF
+242970213,2004,"October 23, 2004",Penn State Nittany Lions,Iowa Hawkeyes,"2-5, 0-4 Conf","5-2, 3-1 Conf",4,6,,,Final,ESPN2,2,0,0,2,,3,3,0,0,,NCAAF
+243112294,2004,"November 06, 2004",Iowa Hawkeyes,Purdue Boilermakers,"7-2, 5-1 Conf","5-4, 2-4 Conf",23,21,,,Final,ESPN,17,0,0,6,,0,7,7,7,,NCAAF
+250012294,2004,"January 01, 2005",Iowa Hawkeyes,LSU Tigers,"10-2, 7-0 Home","9-3, 2-3 Away",30,25,,,Final,ABC,7,7,3,13,,0,12,0,13,,NCAAF
+243252294,2004,"November 20, 2004",Iowa Hawkeyes,Wisconsin Badgers,"9-2, 7-1 Conf","9-2, 6-2 Conf",30,7,,,Final,ESPN,7,7,10,6,,0,7,0,0,,NCAAF

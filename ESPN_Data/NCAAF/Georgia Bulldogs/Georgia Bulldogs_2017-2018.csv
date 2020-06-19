@@ -1,16 +1,16 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-400933845,2017,"Sat, Sep 9",Notre Dame Fighting Irish,Georgia Bulldogs,"1-1, 1-1 Home","2-0, 1-0 Away",19,20,NULL,NULL,Final,NBC,3,10,3,3,NULL,3,7,7,3,NULL,NCAAF
-400933865,2017,"Sat, Sep 23",Georgia Bulldogs,Mississippi State Bulldogs,"4-0, 1-0 Conf","3-1, 1-1 Conf",31,3,NULL,NULL,Final,ESPN,14,0,17,0,NULL,0,3,0,0,NULL,NCAAF
-400933885,2017,"Sat, Oct 7",Vanderbilt Commodores,Georgia Bulldogs,"3-3, 0-3 Conf","6-0, 3-0 Conf",14,45,NULL,NULL,Final,ESPN,0,7,0,7,NULL,7,14,17,7,NULL,NCAAF
-400933898,2017,"Sat, Oct 28",Florida Gators,Georgia Bulldogs,"3-4, 3-3 Conf","8-0, 5-0 Conf",7,42,NULL,NULL,Final,CBS,0,0,0,7,NULL,21,0,14,7,NULL,NCAAF
-400933913,2017,"Sat, Nov 11",Auburn Tigers,Georgia Bulldogs,"8-2, 6-1 Conf","9-1, 6-1 Conf",40,17,NULL,NULL,Final,CBS,6,10,14,10,NULL,7,0,3,7,NULL,NCAAF
-400933934,2017,"Sat, Nov 25",Georgia Tech Yellow Jackets,Georgia Bulldogs,"5-6, 5-1 Home","11-1, 4-1 Away",7,38,NULL,NULL,Final,ABC,0,7,0,0,NULL,7,10,14,7,NULL,NCAAF
-400953412,2017,"Mon, Jan 1",Oklahoma Sooners,Georgia Bulldogs,12-2,13-1,48,54,NULL,NULL,Final/2OT,ESPN,14,17,0,14,3,7,10,14,14,9,NCAAF
-400933831,2017,"Sat, Sep 2",Georgia Bulldogs,Appalachian State Mountaineers,"1-0, 1-0 Home","0-1, 0-1 Away",31,10,NULL,NULL,Final,ESPN,7,14,10,0,NULL,0,0,0,10,NULL,NCAAF
-400933857,2017,"Sat, Sep 16",Georgia Bulldogs,Samford Bulldogs,"3-0, 2-0 Home","2-1, 0-1 Away",42,14,NULL,NULL,Final,SECN,14,7,21,0,NULL,0,7,0,7,NULL,NCAAF
-400933878,2017,"Sat, Sep 30",Tennessee Volunteers,Georgia Bulldogs,"3-2, 0-2 Conf","5-0, 2-0 Conf",0,41,NULL,NULL,Final,CBS,0,0,0,0,NULL,10,14,7,10,NULL,NCAAF
-400933888,2017,"Sat, Oct 14",Georgia Bulldogs,Missouri Tigers,"7-0, 4-0 Conf","1-5, 0-4 Conf",53,28,NULL,NULL,Final,SECN,14,20,13,6,NULL,14,7,0,7,NULL,NCAAF
-400933906,2017,"Sat, Nov 4",Georgia Bulldogs,South Carolina Gamecocks,"9-0, 6-0 Conf","6-3, 4-3 Conf",24,10,NULL,NULL,Final,CBS,7,7,7,3,NULL,0,7,3,0,NULL,NCAAF
-400933925,2017,"Sat, Nov 18",Georgia Bulldogs,Kentucky Wildcats,"10-1, 7-1 Conf","7-4, 4-4 Conf",42,13,NULL,NULL,Final,CBS,7,14,7,14,NULL,6,0,7,0,NULL,NCAAF
-400953415,2017,"Mon, Jan 8",Georgia Bulldogs,Alabama Crimson Tide,13-2,13-1,23,26,NULL,NULL,Final/OT,ESPN,0,13,7,0,3,0,0,10,10,6,NCAAF
-400955153,2017,"Sat, Dec 2",Auburn Tigers,Georgia Bulldogs,"10-3, 7-1 Conf","12-1, 7-1 Conf",7,28,NULL,NULL,Final,CBS,7,0,0,0,NULL,0,10,3,15,NULL,NCAAF
+400933845,2017,"September 09, 2017",Notre Dame Fighting Irish,Georgia Bulldogs,"1-1, 1-1 Home","2-0, 1-0 Away",19,20,,,Final,NBC,3,10,3,3,,3,7,7,3,,NCAAF
+400933865,2017,"September 23, 2017",Georgia Bulldogs,Mississippi State Bulldogs,"4-0, 1-0 Conf","3-1, 1-1 Conf",31,3,,,Final,ESPN,14,0,17,0,,0,3,0,0,,NCAAF
+400933885,2017,"October 07, 2017",Vanderbilt Commodores,Georgia Bulldogs,"3-3, 0-3 Conf","6-0, 3-0 Conf",14,45,,,Final,ESPN,0,7,0,7,,7,14,17,7,,NCAAF
+400933898,2017,"October 28, 2017",Florida Gators,Georgia Bulldogs,"3-4, 3-3 Conf","8-0, 5-0 Conf",7,42,,,Final,CBS,0,0,0,7,,21,0,14,7,,NCAAF
+400933913,2017,"November 11, 2017",Auburn Tigers,Georgia Bulldogs,"8-2, 6-1 Conf","9-1, 6-1 Conf",40,17,,,Final,CBS,6,10,14,10,,7,0,3,7,,NCAAF
+400933934,2017,"November 25, 2017",Georgia Tech Yellow Jackets,Georgia Bulldogs,"5-6, 5-1 Home","11-1, 4-1 Away",7,38,,,Final,ABC,0,7,0,0,,7,10,14,7,,NCAAF
+400953412,2017,"January 01, 2018",Oklahoma Sooners,Georgia Bulldogs,12-2,13-1,48,54,,,Final/2OT,ESPN,14,17,0,14,3.0,7,10,14,14,9.0,NCAAF
+400933831,2017,"September 02, 2017",Georgia Bulldogs,Appalachian State Mountaineers,"1-0, 1-0 Home","0-1, 0-1 Away",31,10,,,Final,ESPN,7,14,10,0,,0,0,0,10,,NCAAF
+400933857,2017,"September 16, 2017",Georgia Bulldogs,Samford Bulldogs,"3-0, 2-0 Home","2-1, 0-1 Away",42,14,,,Final,SECN,14,7,21,0,,0,7,0,7,,NCAAF
+400933878,2017,"September 30, 2017",Tennessee Volunteers,Georgia Bulldogs,"3-2, 0-2 Conf","5-0, 2-0 Conf",0,41,,,Final,CBS,0,0,0,0,,10,14,7,10,,NCAAF
+400933888,2017,"October 14, 2017",Georgia Bulldogs,Missouri Tigers,"7-0, 4-0 Conf","1-5, 0-4 Conf",53,28,,,Final,SECN,14,20,13,6,,14,7,0,7,,NCAAF
+400933906,2017,"November 04, 2017",Georgia Bulldogs,South Carolina Gamecocks,"9-0, 6-0 Conf","6-3, 4-3 Conf",24,10,,,Final,CBS,7,7,7,3,,0,7,3,0,,NCAAF
+400933925,2017,"November 18, 2017",Georgia Bulldogs,Kentucky Wildcats,"10-1, 7-1 Conf","7-4, 4-4 Conf",42,13,,,Final,CBS,7,14,7,14,,6,0,7,0,,NCAAF
+400953415,2017,"January 08, 2018",Georgia Bulldogs,Alabama Crimson Tide,13-2,13-1,23,26,,,Final/OT,ESPN,0,13,7,0,3.0,0,0,10,10,6.0,NCAAF
+400955153,2017,"December 02, 2017",Auburn Tigers,Georgia Bulldogs,"10-3, 7-1 Conf","12-1, 7-1 Conf",7,28,,,Final,CBS,7,0,0,0,,0,10,3,15,,NCAAF

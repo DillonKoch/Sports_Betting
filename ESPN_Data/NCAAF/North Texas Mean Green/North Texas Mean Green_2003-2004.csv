@@ -1,14 +1,14 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-232490249,2003,"Sat, Sep 6",North Texas Mean Green,Baylor Bears,"1-1, 1-0 Home","0-2, 0-1 Away",52,14,NULL,NULL,Final,NULL,14,3,21,14,NULL,0,0,7,7,NULL,NCAAF
-232630008,2003,"Sat, Sep 20",Arkansas Razorbacks,North Texas Mean Green,"3-0, 2-0 Home","1-3, 0-3 Away",31,7,NULL,NULL,Final,NULL,7,24,0,0,NULL,7,0,0,0,NULL,NCAAF
-232840070,2003,"Sat, Oct 11",Idaho Vandals,North Texas Mean Green,"1-6, 1-1 Conf","3-3, 2-0 Conf",14,24,NULL,NULL,Final,NULL,7,7,0,0,NULL,0,10,7,7,NULL,NCAAF
-232982393,2003,"Sat, Oct 25",Middle Tennessee Blue Raiders,North Texas Mean Green,"2-6, 2-1 Conf","5-3, 4-0 Conf",28,33,NULL,NULL,Final,NULL,0,7,7,14,NULL,14,6,6,7,NULL,NCAAF
-233122433,2003,"Sat, Nov 8",Louisiana Monroe Warhawks,North Texas Mean Green,"1-9, 1-4 Conf","7-3, 5-0 Conf",26,28,NULL,NULL,Final,NULL,7,3,3,13,NULL,0,14,7,7,NULL,NCAAF
-232420201,2003,"Sat, Aug 30",Oklahoma Sooners,North Texas Mean Green,"1-0, 1-0 Home","0-1, 0-1 Away",37,3,NULL,NULL,Final,NULL,10,13,7,7,NULL,0,0,0,3,NULL,NCAAF
-232562005,2003,"Sat, Sep 13",Air Force Falcons,North Texas Mean Green,"3-0, 2-0 Home","1-2, 0-2 Away",34,21,NULL,NULL,Final,NULL,6,22,3,3,NULL,7,0,0,14,NULL,NCAAF
-232700249,2003,"Sat, Sep 27",North Texas Mean Green,Louisiana Ragin' Cajuns,"2-3, 1-0 Conf","0-5, 0-2 Conf",44,23,NULL,NULL,Final,NULL,16,10,4,14,NULL,7,6,10,0,NULL,NCAAF
-232910249,2003,"Sat, Oct 18",North Texas Mean Green,Utah State Aggies,"4-3, 3-0 Conf","1-6, 1-1 Conf",37,27,NULL,NULL,Final,NULL,21,13,3,0,NULL,14,7,0,6,NULL,NCAAF
-233030249,2003,"Thu, Oct 30",North Texas Mean Green,Troy Trojans,"6-3, 4-0 Home","4-5, 1-5 Away",21,0,NULL,NULL,Final,ESPN+,14,0,7,0,NULL,0,0,0,0,NULL,NCAAF
-233190249,2003,"Sat, Nov 15",North Texas Mean Green,Arkansas State Red Wolves,"8-3, 6-0 Conf","5-6, 3-2 Conf",58,14,NULL,NULL,Final,NULL,21,9,21,7,NULL,0,0,7,7,NULL,NCAAF
-233290166,2003,"Tue, Nov 25",New Mexico State Aggies,North Texas Mean Green,"3-9, 2-5 Conf","9-3, 7-0 Conf",10,13,NULL,NULL,Final,ESPN2,7,0,0,3,NULL,7,0,3,3,NULL,NCAAF
-233500249,2003,"Tue, Dec 16",North Texas Mean Green,Memphis Tigers,"9-4, 5-1 Home","9-4, 4-2 Away",17,27,NULL,NULL,Final,CBS,3,0,7,7,NULL,7,10,0,10,NULL,NCAAF
+232490249,2003,"September 06, 2003",North Texas Mean Green,Baylor Bears,"1-1, 1-0 Home","0-2, 0-1 Away",52,14,,,Final,,14,3,21,14,,0,0,7,7,,NCAAF
+232630008,2003,"September 20, 2003",Arkansas Razorbacks,North Texas Mean Green,"3-0, 2-0 Home","1-3, 0-3 Away",31,7,,,Final,,7,24,0,0,,7,0,0,0,,NCAAF
+232840070,2003,"October 11, 2003",Idaho Vandals,North Texas Mean Green,"1-6, 1-1 Conf","3-3, 2-0 Conf",14,24,,,Final,,7,7,0,0,,0,10,7,7,,NCAAF
+232982393,2003,"October 25, 2003",Middle Tennessee Blue Raiders,North Texas Mean Green,"2-6, 2-1 Conf","5-3, 4-0 Conf",28,33,,,Final,,0,7,7,14,,14,6,6,7,,NCAAF
+233122433,2003,"November 08, 2003",Louisiana Monroe Warhawks,North Texas Mean Green,"1-9, 1-4 Conf","7-3, 5-0 Conf",26,28,,,Final,,7,3,3,13,,0,14,7,7,,NCAAF
+232420201,2003,"August 30, 2003",Oklahoma Sooners,North Texas Mean Green,"1-0, 1-0 Home","0-1, 0-1 Away",37,3,,,Final,,10,13,7,7,,0,0,0,3,,NCAAF
+232562005,2003,"September 13, 2003",Air Force Falcons,North Texas Mean Green,"3-0, 2-0 Home","1-2, 0-2 Away",34,21,,,Final,,6,22,3,3,,7,0,0,14,,NCAAF
+232700249,2003,"September 27, 2003",North Texas Mean Green,Louisiana Ragin' Cajuns,"2-3, 1-0 Conf","0-5, 0-2 Conf",44,23,,,Final,,16,10,4,14,,7,6,10,0,,NCAAF
+232910249,2003,"October 18, 2003",North Texas Mean Green,Utah State Aggies,"4-3, 3-0 Conf","1-6, 1-1 Conf",37,27,,,Final,,21,13,3,0,,14,7,0,6,,NCAAF
+233030249,2003,"October 30, 2003",North Texas Mean Green,Troy Trojans,"6-3, 4-0 Home","4-5, 1-5 Away",21,0,,,Final,ESPN+,14,0,7,0,,0,0,0,0,,NCAAF
+233190249,2003,"November 15, 2003",North Texas Mean Green,Arkansas State Red Wolves,"8-3, 6-0 Conf","5-6, 3-2 Conf",58,14,,,Final,,21,9,21,7,,0,0,7,7,,NCAAF
+233290166,2003,"November 25, 2003",New Mexico State Aggies,North Texas Mean Green,"3-9, 2-5 Conf","9-3, 7-0 Conf",10,13,,,Final,ESPN2,7,0,0,3,,7,0,3,3,,NCAAF
+233500249,2003,"December 16, 2003",North Texas Mean Green,Memphis Tigers,"9-4, 5-1 Home","9-4, 4-2 Away",17,27,,,Final,CBS,3,0,7,7,,7,10,0,10,,NCAAF

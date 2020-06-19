@@ -1,14 +1,14 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-242550259,2004,"Sat, Sep 11",Virginia Tech Hokies,Western Michigan Broncos,"1-1, 1-1 Home","1-1, 0-1 Away",63,0,NULL,NULL,Final,NULL,7,21,21,14,NULL,0,0,0,0,NULL,NCAAF
-242690259,2004,"Sat, Sep 25",Virginia Tech Hokies,NC State Wolfpack,"2-2, 1-1 Conf","2-1, 1-0 Conf",16,17,NULL,NULL,Final,NULL,0,10,0,6,NULL,3,7,7,0,NULL,NCAAF
-242830154,2004,"Sat, Oct 9",Wake Forest Demon Deacons,Virginia Tech Hokies,"3-3, 0-3 Conf","4-2, 2-1 Conf",10,17,NULL,NULL,Final,NULL,0,7,0,3,NULL,7,3,0,7,NULL,NCAAF
-243020059,2004,"Thu, Oct 28",Georgia Tech Yellow Jackets,Virginia Tech Hokies,"4-3, 3-3 Conf","6-2, 3-1 Conf",20,34,NULL,NULL,Final,ESPN,0,17,0,3,NULL,0,7,2,25,NULL,NCAAF
-243230259,2004,"Thu, Nov 18",Virginia Tech Hokies,Maryland Terrapins,"8-2, 5-1 Conf","4-6, 2-5 Conf",55,6,NULL,NULL,Final,ESPN,21,20,14,0,NULL,3,0,0,3,NULL,NCAAF
-242410259,2004,"Sat, Aug 28",Virginia Tech Hokies,USC Trojans,"0-1, 0-0 Conf","1-0, 0-0 Conf",13,24,NULL,NULL,Final,ESPN,3,7,0,3,NULL,7,0,7,10,NULL,NCAAF
-242620259,2004,"Sat, Sep 18",Virginia Tech Hokies,Duke Blue Devils,"2-1, 1-0 Conf","0-3, 0-1 Conf",41,17,NULL,NULL,Final,NULL,0,24,10,7,NULL,7,0,0,10,NULL,NCAAF
-242760259,2004,"Sat, Oct 2",Virginia Tech Hokies,West Virginia Mountaineers,"3-2, 3-2 Home","4-1, 1-1 Away",19,13,NULL,NULL,Final,ESPN,3,10,3,3,NULL,0,0,6,7,NULL,NCAAF
-242900259,2004,"Sat, Oct 16",Virginia Tech Hokies,Florida A&M Rattlers,"5-2, 4-2 Home","2-5, 0-4 Away",62,0,NULL,NULL,Final,NULL,24,24,14,0,NULL,0,0,0,0,NULL,NCAAF
-243110153,2004,"Sat, Nov 6",North Carolina Tar Heels,Virginia Tech Hokies,"4-5, 3-3 Conf","7-2, 4-1 Conf",24,27,NULL,NULL,Final,NULL,7,7,3,7,NULL,7,10,10,0,NULL,NCAAF
-243320259,2004,"Sat, Nov 27",Virginia Tech Hokies,Virginia Cavaliers,"9-2, 6-1 Conf","8-3, 5-3 Conf",24,10,NULL,NULL,Final,NULL,0,0,10,14,NULL,0,0,7,3,NULL,NCAAF
-243392390,2004,"Sat, Dec 4",Miami Hurricanes,Virginia Tech Hokies,"8-3, 5-3 Conf","10-2, 7-1 Conf",10,16,NULL,NULL,Final,ABC,0,7,3,0,NULL,0,10,0,6,NULL,NCAAF
-250030259,2004,"Mon, Jan 3",Auburn Tigers,Virginia Tech Hokies,"13-0, 8-0 Home","10-3, 4-1 Away",16,13,NULL,NULL,Final,ETV/ABCR,6,3,7,0,NULL,0,0,0,13,NULL,NCAAF
+242550259,2004,"September 11, 2004",Virginia Tech Hokies,Western Michigan Broncos,"1-1, 1-1 Home","1-1, 0-1 Away",63,0,,,Final,,7,21,21,14,,0,0,0,0,,NCAAF
+242690259,2004,"September 25, 2004",Virginia Tech Hokies,NC State Wolfpack,"2-2, 1-1 Conf","2-1, 1-0 Conf",16,17,,,Final,,0,10,0,6,,3,7,7,0,,NCAAF
+242830154,2004,"October 09, 2004",Wake Forest Demon Deacons,Virginia Tech Hokies,"3-3, 0-3 Conf","4-2, 2-1 Conf",10,17,,,Final,,0,7,0,3,,7,3,0,7,,NCAAF
+243020059,2004,"October 28, 2004",Georgia Tech Yellow Jackets,Virginia Tech Hokies,"4-3, 3-3 Conf","6-2, 3-1 Conf",20,34,,,Final,ESPN,0,17,0,3,,0,7,2,25,,NCAAF
+243230259,2004,"November 18, 2004",Virginia Tech Hokies,Maryland Terrapins,"8-2, 5-1 Conf","4-6, 2-5 Conf",55,6,,,Final,ESPN,21,20,14,0,,3,0,0,3,,NCAAF
+242410259,2004,"August 28, 2004",Virginia Tech Hokies,USC Trojans,"0-1, 0-0 Conf","1-0, 0-0 Conf",13,24,,,Final,ESPN,3,7,0,3,,7,0,7,10,,NCAAF
+242620259,2004,"September 18, 2004",Virginia Tech Hokies,Duke Blue Devils,"2-1, 1-0 Conf","0-3, 0-1 Conf",41,17,,,Final,,0,24,10,7,,7,0,0,10,,NCAAF
+242760259,2004,"October 02, 2004",Virginia Tech Hokies,West Virginia Mountaineers,"3-2, 3-2 Home","4-1, 1-1 Away",19,13,,,Final,ESPN,3,10,3,3,,0,0,6,7,,NCAAF
+242900259,2004,"October 16, 2004",Virginia Tech Hokies,Florida A&M Rattlers,"5-2, 4-2 Home","2-5, 0-4 Away",62,0,,,Final,,24,24,14,0,,0,0,0,0,,NCAAF
+243110153,2004,"November 06, 2004",North Carolina Tar Heels,Virginia Tech Hokies,"4-5, 3-3 Conf","7-2, 4-1 Conf",24,27,,,Final,,7,7,3,7,,7,10,10,0,,NCAAF
+243320259,2004,"November 27, 2004",Virginia Tech Hokies,Virginia Cavaliers,"9-2, 6-1 Conf","8-3, 5-3 Conf",24,10,,,Final,,0,0,10,14,,0,0,7,3,,NCAAF
+243392390,2004,"December 04, 2004",Miami Hurricanes,Virginia Tech Hokies,"8-3, 5-3 Conf","10-2, 7-1 Conf",10,16,,,Final,ABC,0,7,3,0,,0,10,0,6,,NCAAF
+250030259,2004,"January 03, 2005",Auburn Tigers,Virginia Tech Hokies,"13-0, 8-0 Home","10-3, 4-1 Away",16,13,,,Final,ETV/ABCR,6,3,7,0,,0,0,0,13,,NCAAF

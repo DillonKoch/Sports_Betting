@@ -1,15 +1,15 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-272510099,2007,"Sat, Sep 8",LSU Tigers,Virginia Tech Hokies,"2-0, 1-0 Home","1-1, 0-1 Away",48,7,NULL,NULL,Final,ESPN,14,10,10,14,NULL,0,0,7,0,NULL,NCAAF
-272650259,2007,"Sat, Sep 22",Virginia Tech Hokies,William & Mary Tribe,"3-1, 3-0 Home","2-2, 1-1 Away",44,3,NULL,NULL,Final,NULL,27,14,3,0,NULL,0,3,0,0,NULL,NCAAF
-272790228,2007,"Sat, Oct 6",Clemson Tigers,Virginia Tech Hokies,"4-2, 2-2 Conf","5-1, 2-0 Conf",23,41,NULL,NULL,Final,NULL,0,8,0,15,NULL,17,14,0,10,NULL,NCAAF
-272980259,2007,"Thu, Oct 25",Virginia Tech Hokies,Boston College Eagles,"6-2, 3-1 Conf","8-0, 4-0 Conf",10,14,NULL,NULL,Final,ESPN,0,7,3,0,NULL,0,0,0,14,NULL,NCAAF
-273140259,2007,"Sat, Nov 10",Virginia Tech Hokies,Florida State Seminoles,"8-2, 5-1 Conf","6-4, 3-4 Conf",40,21,NULL,NULL,Final,ABC,6,14,0,20,NULL,6,0,15,0,NULL,NCAAF
-273280258,2007,"Sat, Nov 24",Virginia Cavaliers,Virginia Tech Hokies,"9-3, 6-2 Conf","10-2, 7-1 Conf",21,33,NULL,NULL,Final,NULL,7,7,7,0,NULL,13,7,3,10,NULL,NCAAF
-272440259,2007,"Sat, Sep 1",Virginia Tech Hokies,East Carolina Pirates,"1-0, 1-0 Home","0-1, 0-1 Away",17,7,NULL,NULL,Final,NULL,3,7,0,7,NULL,0,7,0,0,NULL,NCAAF
-272580259,2007,"Sat, Sep 15",Virginia Tech Hokies,Ohio Bobcats,"2-1, 2-0 Home","2-1, 1-1 Away",28,7,NULL,NULL,Final,ESPN3,0,7,7,14,NULL,0,7,0,0,NULL,NCAAF
-272720259,2007,"Sat, Sep 29",Virginia Tech Hokies,North Carolina Tar Heels,"4-1, 1-0 Conf","1-4, 0-2 Conf",17,10,NULL,NULL,Final,NULL,7,0,10,0,NULL,0,3,0,7,NULL,NCAAF
-272860150,2007,"Sat, Oct 13",Duke Blue Devils,Virginia Tech Hokies,"1-6, 0-4 Conf","6-1, 3-0 Conf",14,43,NULL,NULL,Final,NULL,7,0,0,7,NULL,13,21,9,0,NULL,NCAAF
-273050059,2007,"Thu, Nov 1",Georgia Tech Yellow Jackets,Virginia Tech Hokies,"5-4, 2-4 Conf","7-2, 4-1 Conf",3,27,NULL,NULL,Final,ESPN,3,0,0,0,NULL,3,14,7,3,NULL,NCAAF
-273210259,2007,"Sat, Nov 17",Virginia Tech Hokies,Miami Hurricanes,"9-2, 6-1 Conf","5-6, 2-5 Conf",44,14,NULL,NULL,Final,ABC,14,3,13,14,NULL,0,7,7,0,NULL,NCAAF
-280030259,2007,"Thu, Jan 3",Virginia Tech Hokies,Kansas Jayhawks,"11-3, 6-2 Home","12-1, 5-0 Away",21,24,NULL,NULL,Final,NULL,0,7,7,7,NULL,7,10,0,7,NULL,NCAAF
-273350103,2007,"Sat, Dec 1",Boston College Eagles,Virginia Tech Hokies,"10-3, 6-2 Conf","11-2, 7-1 Conf",16,30,NULL,NULL,Final,NULL,7,9,0,0,NULL,0,16,0,14,NULL,NCAAF
+272510099,2007,"September 08, 2007",LSU Tigers,Virginia Tech Hokies,"2-0, 1-0 Home","1-1, 0-1 Away",48,7,,,Final,ESPN,14,10,10,14,,0,0,7,0,,NCAAF
+272650259,2007,"September 22, 2007",Virginia Tech Hokies,William & Mary Tribe,"3-1, 3-0 Home","2-2, 1-1 Away",44,3,,,Final,,27,14,3,0,,0,3,0,0,,NCAAF
+272790228,2007,"October 06, 2007",Clemson Tigers,Virginia Tech Hokies,"4-2, 2-2 Conf","5-1, 2-0 Conf",23,41,,,Final,,0,8,0,15,,17,14,0,10,,NCAAF
+272980259,2007,"October 25, 2007",Virginia Tech Hokies,Boston College Eagles,"6-2, 3-1 Conf","8-0, 4-0 Conf",10,14,,,Final,ESPN,0,7,3,0,,0,0,0,14,,NCAAF
+273140259,2007,"November 10, 2007",Virginia Tech Hokies,Florida State Seminoles,"8-2, 5-1 Conf","6-4, 3-4 Conf",40,21,,,Final,ABC,6,14,0,20,,6,0,15,0,,NCAAF
+273280258,2007,"November 24, 2007",Virginia Cavaliers,Virginia Tech Hokies,"9-3, 6-2 Conf","10-2, 7-1 Conf",21,33,,,Final,,7,7,7,0,,13,7,3,10,,NCAAF
+272440259,2007,"September 01, 2007",Virginia Tech Hokies,East Carolina Pirates,"1-0, 1-0 Home","0-1, 0-1 Away",17,7,,,Final,,3,7,0,7,,0,7,0,0,,NCAAF
+272580259,2007,"September 15, 2007",Virginia Tech Hokies,Ohio Bobcats,"2-1, 2-0 Home","2-1, 1-1 Away",28,7,,,Final,ESPN3,0,7,7,14,,0,7,0,0,,NCAAF
+272720259,2007,"September 29, 2007",Virginia Tech Hokies,North Carolina Tar Heels,"4-1, 1-0 Conf","1-4, 0-2 Conf",17,10,,,Final,,7,0,10,0,,0,3,0,7,,NCAAF
+272860150,2007,"October 13, 2007",Duke Blue Devils,Virginia Tech Hokies,"1-6, 0-4 Conf","6-1, 3-0 Conf",14,43,,,Final,,7,0,0,7,,13,21,9,0,,NCAAF
+273050059,2007,"November 01, 2007",Georgia Tech Yellow Jackets,Virginia Tech Hokies,"5-4, 2-4 Conf","7-2, 4-1 Conf",3,27,,,Final,ESPN,3,0,0,0,,3,14,7,3,,NCAAF
+273210259,2007,"November 17, 2007",Virginia Tech Hokies,Miami Hurricanes,"9-2, 6-1 Conf","5-6, 2-5 Conf",44,14,,,Final,ABC,14,3,13,14,,0,7,7,0,,NCAAF
+280030259,2007,"January 03, 2008",Virginia Tech Hokies,Kansas Jayhawks,"11-3, 6-2 Home","12-1, 5-0 Away",21,24,,,Final,,0,7,7,7,,7,10,0,7,,NCAAF
+273350103,2007,"December 01, 2007",Boston College Eagles,Virginia Tech Hokies,"10-3, 6-2 Conf","11-2, 7-1 Conf",16,30,,,Final,,7,9,0,0,,0,16,0,14,,NCAAF

@@ -1,16 +1,16 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-400603860,2015,"Sat, Sep 12",Alabama Crimson Tide,Middle Tennessee Blue Raiders,"2-0, 1-0 Home","1-1, 0-1 Away",37,10,NULL,NULL,Final,SECN,7,16,14,0,NULL,0,3,0,7,NULL,NCAAF
-400603841,2015,"Sat, Sep 26",Alabama Crimson Tide,Louisiana Monroe Warhawks,"3-1, 2-1 Home","1-2, 0-2 Away",34,0,NULL,NULL,Final,SECN,7,7,10,10,NULL,0,0,0,0,NULL,NCAAF
-400603899,2015,"Sat, Oct 10",Alabama Crimson Tide,Arkansas Razorbacks,"5-1, 2-1 Conf","2-4, 1-2 Conf",27,14,NULL,NULL,Final,ESPN,3,0,7,17,NULL,0,7,0,7,NULL,NCAAF
-400603886,2015,"Sat, Oct 24",Alabama Crimson Tide,Tennessee Volunteers,"7-1, 4-1 Conf","3-4, 1-3 Conf",19,14,NULL,NULL,Final,CBS,7,0,3,9,NULL,7,0,0,7,NULL,NCAAF
-400603933,2015,"Sat, Nov 14",Mississippi State Bulldogs,Alabama Crimson Tide,"7-3, 3-3 Conf","9-1, 6-1 Conf",6,31,NULL,NULL,Final,CBS,0,3,3,0,NULL,0,21,3,7,NULL,NCAAF
-400603913,2015,"Sat, Nov 28",Auburn Tigers,Alabama Crimson Tide,"6-6, 2-6 Conf","11-1, 7-1 Conf",13,29,NULL,NULL,Final,CBS,6,0,7,0,NULL,3,9,7,10,NULL,NCAAF
-400852732,2015,"Thu, Dec 31",Alabama Crimson Tide,Michigan State Spartans,13-1,12-2,38,0,NULL,NULL,Final,ESPN,0,10,21,7,NULL,0,0,0,0,NULL,NCAAF
-400603827,2015,"Sat, Sep 5",Alabama Crimson Tide,Wisconsin Badgers,1-0,0-1,35,17,NULL,NULL,Final,ABC,7,7,14,7,NULL,0,7,3,7,NULL,NCAAF
-400603850,2015,"Sat, Sep 19",Alabama Crimson Tide,Ole Miss Rebels,"2-1, 0-1 Conf","3-0, 1-0 Conf",37,43,NULL,NULL,Final,ESPN,0,10,7,20,NULL,3,14,13,13,NULL,NCAAF
-400603879,2015,"Sat, Oct 3",Georgia Bulldogs,Alabama Crimson Tide,"4-1, 2-1 Conf","4-1, 1-1 Conf",10,38,NULL,NULL,Final,CBS,0,3,7,0,NULL,3,21,14,0,NULL,NCAAF
-400603897,2015,"Sat, Oct 17",Texas A&M Aggies,Alabama Crimson Tide,"5-1, 2-1 Conf","6-1, 3-1 Conf",23,41,NULL,NULL,Final,CBS,3,10,7,3,NULL,14,14,3,10,NULL,NCAAF
-400603905,2015,"Sat, Nov 7",Alabama Crimson Tide,LSU Tigers,"8-1, 5-1 Conf","7-1, 4-1 Conf",30,16,NULL,NULL,Final,CBS,0,13,14,3,NULL,0,10,0,6,NULL,NCAAF
-400603921,2015,"Sat, Nov 21",Alabama Crimson Tide,Charleston Southern Buccaneers,"10-1, 6-1 Home","9-2, 4-2 Away",56,6,NULL,NULL,Final,SECN,28,21,0,7,NULL,0,0,0,6,NULL,NCAAF
-400852743,2015,"Mon, Jan 11",Clemson Tigers,Alabama Crimson Tide,14-1,14-1,40,45,NULL,NULL,Final,ESPN,14,0,10,16,NULL,7,7,7,24,NULL,NCAAF
-400852681,2015,"Sat, Dec 5",Alabama Crimson Tide,Florida Gators,"12-1, 7-1 Conf","10-3, 7-1 Conf",29,15,NULL,NULL,Final,CBS,2,10,10,7,NULL,0,7,0,8,NULL,NCAAF
+400603860,2015,"September 12, 2015",Alabama Crimson Tide,Middle Tennessee Blue Raiders,"2-0, 1-0 Home","1-1, 0-1 Away",37,10,,,Final,SECN,7,16,14,0,,0,3,0,7,,NCAAF
+400603841,2015,"September 26, 2015",Alabama Crimson Tide,Louisiana Monroe Warhawks,"3-1, 2-1 Home","1-2, 0-2 Away",34,0,,,Final,SECN,7,7,10,10,,0,0,0,0,,NCAAF
+400603899,2015,"October 10, 2015",Alabama Crimson Tide,Arkansas Razorbacks,"5-1, 2-1 Conf","2-4, 1-2 Conf",27,14,,,Final,ESPN,3,0,7,17,,0,7,0,7,,NCAAF
+400603886,2015,"October 24, 2015",Alabama Crimson Tide,Tennessee Volunteers,"7-1, 4-1 Conf","3-4, 1-3 Conf",19,14,,,Final,CBS,7,0,3,9,,7,0,0,7,,NCAAF
+400603933,2015,"November 14, 2015",Mississippi State Bulldogs,Alabama Crimson Tide,"7-3, 3-3 Conf","9-1, 6-1 Conf",6,31,,,Final,CBS,0,3,3,0,,0,21,3,7,,NCAAF
+400603913,2015,"November 28, 2015",Auburn Tigers,Alabama Crimson Tide,"6-6, 2-6 Conf","11-1, 7-1 Conf",13,29,,,Final,CBS,6,0,7,0,,3,9,7,10,,NCAAF
+400852732,2015,"December 31, 2015",Alabama Crimson Tide,Michigan State Spartans,13-1,12-2,38,0,,,Final,ESPN,0,10,21,7,,0,0,0,0,,NCAAF
+400603827,2015,"September 05, 2015",Alabama Crimson Tide,Wisconsin Badgers,1-0,0-1,35,17,,,Final,ABC,7,7,14,7,,0,7,3,7,,NCAAF
+400603850,2015,"September 19, 2015",Alabama Crimson Tide,Ole Miss Rebels,"2-1, 0-1 Conf","3-0, 1-0 Conf",37,43,,,Final,ESPN,0,10,7,20,,3,14,13,13,,NCAAF
+400603879,2015,"October 03, 2015",Georgia Bulldogs,Alabama Crimson Tide,"4-1, 2-1 Conf","4-1, 1-1 Conf",10,38,,,Final,CBS,0,3,7,0,,3,21,14,0,,NCAAF
+400603897,2015,"October 17, 2015",Texas A&M Aggies,Alabama Crimson Tide,"5-1, 2-1 Conf","6-1, 3-1 Conf",23,41,,,Final,CBS,3,10,7,3,,14,14,3,10,,NCAAF
+400603905,2015,"November 07, 2015",Alabama Crimson Tide,LSU Tigers,"8-1, 5-1 Conf","7-1, 4-1 Conf",30,16,,,Final,CBS,0,13,14,3,,0,10,0,6,,NCAAF
+400603921,2015,"November 21, 2015",Alabama Crimson Tide,Charleston Southern Buccaneers,"10-1, 6-1 Home","9-2, 4-2 Away",56,6,,,Final,SECN,28,21,0,7,,0,0,0,6,,NCAAF
+400852743,2015,"January 11, 2016",Clemson Tigers,Alabama Crimson Tide,14-1,14-1,40,45,,,Final,ESPN,14,0,10,16,,7,7,7,24,,NCAAF
+400852681,2015,"December 05, 2015",Alabama Crimson Tide,Florida Gators,"12-1, 7-1 Conf","10-3, 7-1 Conf",29,15,,,Final,CBS,2,10,10,7,,0,7,0,8,,NCAAF

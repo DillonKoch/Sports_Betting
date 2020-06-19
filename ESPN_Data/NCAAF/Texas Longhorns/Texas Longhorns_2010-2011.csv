@@ -1,13 +1,13 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-302540251,2010,"Sat, Sep 11",Texas Longhorns,Wyoming Cowboys,"2-0, 1-0 Home","1-1, 0-1 Away",34,7,NULL,NULL,Final,NULL,3,17,7,7,NULL,0,7,0,0,NULL,NCAAF
-302680251,2010,"Sat, Sep 25",Texas Longhorns,UCLA Bruins,"3-1, 1-1 Home","2-2, 1-1 Away",12,34,NULL,NULL,Final,ABC,3,0,3,6,NULL,0,13,14,7,NULL,NCAAF
-302890158,2010,"Sat, Oct 16",Nebraska Cornhuskers,Texas Longhorns,"5-1, 1-1 Conf","4-2, 2-1 Conf",13,20,NULL,NULL,Final,ABC,0,3,3,7,NULL,10,7,3,0,NULL,NCAAF
-303030251,2010,"Sat, Oct 30",Texas Longhorns,Baylor Bears,"4-4, 2-3 Conf","7-2, 4-1 Conf",22,30,NULL,NULL,Final,NULL,3,9,7,3,NULL,3,7,7,13,NULL,NCAAF
-303170251,2010,"Sat, Nov 13",Texas Longhorns,Oklahoma State Cowboys,"4-6, 2-5 Conf","9-1, 5-1 Conf",16,33,NULL,NULL,Final,ABC,3,0,0,13,NULL,3,23,7,0,NULL,NCAAF
-302470242,2010,"Sat, Sep 4",Rice Owls,Texas Longhorns,0-1,1-0,17,34,NULL,NULL,Final,ESPN,3,7,0,7,NULL,0,24,7,3,NULL,NCAAF
-302612641,2010,"Sat, Sep 18",Texas Tech Red Raiders,Texas Longhorns,"2-1, 0-1 Conf","3-0, 1-0 Conf",14,24,NULL,NULL,Final,ABC,7,7,0,0,NULL,14,0,3,7,NULL,NCAAF
-302750201,2010,"Sat, Oct 2",Oklahoma Sooners,Texas Longhorns,"5-0, 1-0 Conf","3-2, 1-1 Conf",28,20,NULL,NULL,Final,ABC,14,7,0,7,NULL,7,0,3,10,NULL,NCAAF
-302960251,2010,"Sat, Oct 23",Texas Longhorns,Iowa State Cyclones,"4-3, 2-2 Conf","4-4, 2-2 Conf",21,28,NULL,NULL,Final,NULL,0,3,3,15,NULL,7,7,7,7,NULL,NCAAF
-303102306,2010,"Sat, Nov 6",Kansas State Wildcats,Texas Longhorns,"6-3, 3-3 Conf","4-5, 2-4 Conf",39,14,NULL,NULL,Final,ESPN2,10,14,15,0,NULL,0,0,0,14,NULL,NCAAF
-303240251,2010,"Sat, Nov 20",Texas Longhorns,Florida Atlantic Owls,"5-6, 2-4 Home","4-6, 2-4 Away",51,17,NULL,NULL,Final,NULL,7,17,6,21,NULL,7,0,10,0,NULL,NCAAF
-303290251,2010,"Thu, Nov 25",Texas Longhorns,Texas A&M Aggies,"5-7, 2-6 Conf","9-3, 6-2 Conf",17,24,NULL,NULL,Final,ESPN,7,0,7,3,NULL,0,7,17,0,NULL,NCAAF
+302540251,2010,"September 11, 2010",Texas Longhorns,Wyoming Cowboys,"2-0, 1-0 Home","1-1, 0-1 Away",34,7,,,Final,,3,17,7,7,,0,7,0,0,,NCAAF
+302680251,2010,"September 25, 2010",Texas Longhorns,UCLA Bruins,"3-1, 1-1 Home","2-2, 1-1 Away",12,34,,,Final,ABC,3,0,3,6,,0,13,14,7,,NCAAF
+302890158,2010,"October 16, 2010",Nebraska Cornhuskers,Texas Longhorns,"5-1, 1-1 Conf","4-2, 2-1 Conf",13,20,,,Final,ABC,0,3,3,7,,10,7,3,0,,NCAAF
+303030251,2010,"October 30, 2010",Texas Longhorns,Baylor Bears,"4-4, 2-3 Conf","7-2, 4-1 Conf",22,30,,,Final,,3,9,7,3,,3,7,7,13,,NCAAF
+303170251,2010,"November 13, 2010",Texas Longhorns,Oklahoma State Cowboys,"4-6, 2-5 Conf","9-1, 5-1 Conf",16,33,,,Final,ABC,3,0,0,13,,3,23,7,0,,NCAAF
+302470242,2010,"September 04, 2010",Rice Owls,Texas Longhorns,0-1,1-0,17,34,,,Final,ESPN,3,7,0,7,,0,24,7,3,,NCAAF
+302612641,2010,"September 18, 2010",Texas Tech Red Raiders,Texas Longhorns,"2-1, 0-1 Conf","3-0, 1-0 Conf",14,24,,,Final,ABC,7,7,0,0,,14,0,3,7,,NCAAF
+302750201,2010,"October 02, 2010",Oklahoma Sooners,Texas Longhorns,"5-0, 1-0 Conf","3-2, 1-1 Conf",28,20,,,Final,ABC,14,7,0,7,,7,0,3,10,,NCAAF
+302960251,2010,"October 23, 2010",Texas Longhorns,Iowa State Cyclones,"4-3, 2-2 Conf","4-4, 2-2 Conf",21,28,,,Final,,0,3,3,15,,7,7,7,7,,NCAAF
+303102306,2010,"November 06, 2010",Kansas State Wildcats,Texas Longhorns,"6-3, 3-3 Conf","4-5, 2-4 Conf",39,14,,,Final,ESPN2,10,14,15,0,,0,0,0,14,,NCAAF
+303240251,2010,"November 20, 2010",Texas Longhorns,Florida Atlantic Owls,"5-6, 2-4 Home","4-6, 2-4 Away",51,17,,,Final,,7,17,6,21,,7,0,10,0,,NCAAF
+303290251,2010,"November 25, 2010",Texas Longhorns,Texas A&M Aggies,"5-7, 2-6 Conf","9-3, 6-2 Conf",17,24,,,Final,ESPN,7,0,7,3,,0,7,17,0,,NCAAF

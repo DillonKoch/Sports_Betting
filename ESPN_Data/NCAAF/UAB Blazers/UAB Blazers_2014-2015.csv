@@ -1,13 +1,13 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-400548017,2014,"Sat, Sep 6",Mississippi State Bulldogs,UAB Blazers,"2-0, 2-0 Home","1-1, 0-1 Away",47,34,NULL,NULL,Final,NULL,13,13,21,0,NULL,3,17,7,7,NULL,NCAAF
-400548033,2014,"Sat, Sep 27",UAB Blazers,Florida Intl Golden Panthers,"2-2, 0-1 Conf","2-3, 1-0 Conf",20,34,NULL,NULL,Final,NULL,7,6,0,7,NULL,0,14,10,10,NULL,NCAAF
-400548047,2014,"Sat, Oct 11",UAB Blazers,North Texas Mean Green,"4-2, 2-1 Conf","2-4, 0-2 Conf",56,21,NULL,NULL,Final,NULL,14,21,21,0,NULL,0,14,0,7,NULL,NCAAF
-400548059,2014,"Sat, Oct 25",Arkansas Razorbacks,UAB Blazers,"4-4, 3-2 Home","4-4, 1-3 Away",45,17,NULL,NULL,Final,SECN,14,21,10,0,NULL,0,0,10,7,NULL,NCAAF
-400548069,2014,"Sat, Nov 8",UAB Blazers,Louisiana Tech Bulldogs,"5-5, 3-3 Conf","7-3, 6-0 Conf",24,40,NULL,NULL,Final,NULL,3,7,7,7,NULL,14,10,6,10,NULL,NCAAF
-400548010,2014,"Sat, Aug 30",UAB Blazers,Troy Trojans,"1-0, 1-0 Home","0-1, 0-1 Away",48,10,NULL,NULL,Final,NULL,17,7,14,10,NULL,7,3,0,0,NULL,NCAAF
-400548025,2014,"Sat, Sep 13",UAB Blazers,Alabama A&M Bulldogs,"2-1, 2-0 Home","1-2, 1-1 Away",41,14,NULL,NULL,Final,NULL,0,21,20,0,NULL,7,7,0,0,NULL,NCAAF
-400548043,2014,"Sat, Oct 4",Western Kentucky Hilltoppers,UAB Blazers,"2-3, 0-2 Conf","3-2, 1-1 Conf",39,42,NULL,NULL,Final,NULL,20,7,12,0,NULL,14,0,21,7,NULL,NCAAF
-400548053,2014,"Sat, Oct 18",Middle Tennessee Blue Raiders,UAB Blazers,"5-3, 4-1 Conf","4-3, 2-2 Conf",34,22,NULL,NULL,Final,NULL,14,7,0,13,NULL,6,9,7,0,NULL,NCAAF
-400548062,2014,"Sat, Nov 1",Florida Atlantic Owls,UAB Blazers,"3-6, 2-3 Conf","5-4, 3-2 Conf",28,31,NULL,NULL,Final,NULL,0,7,0,21,NULL,7,14,7,3,NULL,NCAAF
-400548082,2014,"Sat, Nov 22",UAB Blazers,Marshall Thundering Herd,"5-6, 3-4 Conf","11-0, 7-0 Conf",18,23,NULL,NULL,Final,NULL,3,3,6,6,NULL,7,10,0,6,NULL,NCAAF
-400548089,2014,"Sat, Nov 29",Southern Mississippi Golden Eagles,UAB Blazers,"3-9, 1-7 Conf","6-6, 4-4 Conf",24,45,NULL,NULL,Final,NULL,0,7,10,7,NULL,14,7,14,10,NULL,NCAAF
+400548017,2014,"September 06, 2014",Mississippi State Bulldogs,UAB Blazers,"2-0, 2-0 Home","1-1, 0-1 Away",47,34,,,Final,,13,13,21,0,,3,17,7,7,,NCAAF
+400548033,2014,"September 27, 2014",UAB Blazers,Florida Intl Golden Panthers,"2-2, 0-1 Conf","2-3, 1-0 Conf",20,34,,,Final,,7,6,0,7,,0,14,10,10,,NCAAF
+400548047,2014,"October 11, 2014",UAB Blazers,North Texas Mean Green,"4-2, 2-1 Conf","2-4, 0-2 Conf",56,21,,,Final,,14,21,21,0,,0,14,0,7,,NCAAF
+400548059,2014,"October 25, 2014",Arkansas Razorbacks,UAB Blazers,"4-4, 3-2 Home","4-4, 1-3 Away",45,17,,,Final,SECN,14,21,10,0,,0,0,10,7,,NCAAF
+400548069,2014,"November 08, 2014",UAB Blazers,Louisiana Tech Bulldogs,"5-5, 3-3 Conf","7-3, 6-0 Conf",24,40,,,Final,,3,7,7,7,,14,10,6,10,,NCAAF
+400548010,2014,"August 30, 2014",UAB Blazers,Troy Trojans,"1-0, 1-0 Home","0-1, 0-1 Away",48,10,,,Final,,17,7,14,10,,7,3,0,0,,NCAAF
+400548025,2014,"September 13, 2014",UAB Blazers,Alabama A&M Bulldogs,"2-1, 2-0 Home","1-2, 1-1 Away",41,14,,,Final,,0,21,20,0,,7,7,0,0,,NCAAF
+400548043,2014,"October 04, 2014",Western Kentucky Hilltoppers,UAB Blazers,"2-3, 0-2 Conf","3-2, 1-1 Conf",39,42,,,Final,,20,7,12,0,,14,0,21,7,,NCAAF
+400548053,2014,"October 18, 2014",Middle Tennessee Blue Raiders,UAB Blazers,"5-3, 4-1 Conf","4-3, 2-2 Conf",34,22,,,Final,,14,7,0,13,,6,9,7,0,,NCAAF
+400548062,2014,"November 01, 2014",Florida Atlantic Owls,UAB Blazers,"3-6, 2-3 Conf","5-4, 3-2 Conf",28,31,,,Final,,0,7,0,21,,7,14,7,3,,NCAAF
+400548082,2014,"November 22, 2014",UAB Blazers,Marshall Thundering Herd,"5-6, 3-4 Conf","11-0, 7-0 Conf",18,23,,,Final,,3,3,6,6,,7,10,0,6,,NCAAF
+400548089,2014,"November 29, 2014",Southern Mississippi Golden Eagles,UAB Blazers,"3-9, 1-7 Conf","6-6, 4-4 Conf",24,45,,,Final,,0,7,10,7,,14,7,14,10,,NCAAF

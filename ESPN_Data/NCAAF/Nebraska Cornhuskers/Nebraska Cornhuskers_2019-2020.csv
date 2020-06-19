@@ -1,13 +1,13 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-401112239,2019,"Sat, Sep 7",Colorado Buffaloes,Nebraska Cornhuskers,"2-0, 1-0 Home","1-1, 0-1 Away",34,31,NEB -4.5,64,Final/OT,FOX,0,0,7,24,3,7,10,0,14,0,NCAAF
-401112148,2019,"Sat, Sep 21",Illinois Fighting Illini,Nebraska Cornhuskers,"2-2, 0-1 Conf","3-1, 1-0 Conf",38,42,NEB -13.5,62,Final,BTN,14,7,14,3,NULL,7,7,13,15,NULL,NCAAF
-401112242,2019,"Sat, Oct 5",Nebraska Cornhuskers,Northwestern Wildcats,"4-2, 2-1 Conf","1-4, 0-3 Conf",13,10,NEB -7.5,49,Final,NULL,7,3,0,3,NULL,0,3,7,0,NULL,NCAAF
-401112164,2019,"Sat, Oct 26",Nebraska Cornhuskers,Indiana Hoosiers,"4-4, 2-3 Conf","6-2, 3-2 Conf",31,38,NEB -2.5,55,Final,BTN,14,7,3,7,NULL,9,7,15,7,NULL,NCAAF
-401112244,2019,"Sat, Nov 16",Nebraska Cornhuskers,Wisconsin Badgers,"4-6, 2-5 Conf","8-2, 5-2 Conf",21,37,WIS -14.0,50,Final,BTN,7,7,7,0,NULL,7,20,7,3,NULL,NCAAF
-401112238,2019,"Sat, Aug 31",Nebraska Cornhuskers,South Alabama Jaguars,"1-0, 1-0 Home","0-1, 0-1 Away",35,21,NEB -35.5,66,Final,ESPN,7,7,14,7,NULL,7,0,14,0,NULL,NCAAF
-401112240,2019,"Sat, Sep 14",Nebraska Cornhuskers,Northern Illinois Huskies,"2-1, 2-0 Home","1-2, 0-2 Away",44,8,NEB -14.0,54,Final,FS1,10,20,7,7,NULL,0,5,3,0,NULL,NCAAF
-401112241,2019,"Sat, Sep 28",Nebraska Cornhuskers,Ohio State Buckeyes,"3-2, 1-1 Conf","5-0, 2-0 Conf",7,48,OSU -17.0,66,Final,ABC,0,0,7,0,NULL,14,24,10,0,NULL,NCAAF
-401112233,2019,"Sat, Oct 12",Minnesota Golden Gophers,Nebraska Cornhuskers,"6-0, 3-0 Conf","4-3, 2-2 Conf",34,7,MINN -7.5,47,Final,NULL,7,7,20,0,NULL,0,0,0,7,NULL,NCAAF
-401112243,2019,"Sat, Nov 2",Purdue Boilermakers,Nebraska Cornhuskers,"3-6, 2-4 Conf","4-5, 2-4 Conf",31,27,NEB -4.0,58,Final,FOX,0,14,3,14,NULL,10,0,3,14,NULL,NCAAF
-401112210,2019,"Sat, Nov 23",Maryland Terrapins,Nebraska Cornhuskers,"3-8, 1-7 Conf","5-6, 3-5 Conf",7,54,NEB -6.5,64,Final,BTN,0,0,0,7,NULL,17,17,10,10,NULL,NCAAF
-401112200,2019,"Fri, Nov 29",Nebraska Cornhuskers,Iowa Hawkeyes,"5-7, 3-6 Conf","9-3, 6-3 Conf",24,27,IOWA -3.5,46,Final,BTN,3,7,14,0,NULL,14,10,0,3,NULL,NCAAF
+401112239,2019,"September 07, 2019",Colorado Buffaloes,Nebraska Cornhuskers,"2-0, 1-0 Home","1-1, 0-1 Away",34,31,NEB -4.5,64,Final/OT,FOX,0,0,7,24,3.0,7,10,0,14,0.0,NCAAF
+401112148,2019,"September 21, 2019",Illinois Fighting Illini,Nebraska Cornhuskers,"2-2, 0-1 Conf","3-1, 1-0 Conf",38,42,NEB -13.5,62,Final,BTN,14,7,14,3,,7,7,13,15,,NCAAF
+401112242,2019,"October 05, 2019",Nebraska Cornhuskers,Northwestern Wildcats,"4-2, 2-1 Conf","1-4, 0-3 Conf",13,10,NEB -7.5,49,Final,,7,3,0,3,,0,3,7,0,,NCAAF
+401112164,2019,"October 26, 2019",Nebraska Cornhuskers,Indiana Hoosiers,"4-4, 2-3 Conf","6-2, 3-2 Conf",31,38,NEB -2.5,55,Final,BTN,14,7,3,7,,9,7,15,7,,NCAAF
+401112244,2019,"November 16, 2019",Nebraska Cornhuskers,Wisconsin Badgers,"4-6, 2-5 Conf","8-2, 5-2 Conf",21,37,WIS -14.0,50,Final,BTN,7,7,7,0,,7,20,7,3,,NCAAF
+401112238,2019,"August 31, 2019",Nebraska Cornhuskers,South Alabama Jaguars,"1-0, 1-0 Home","0-1, 0-1 Away",35,21,NEB -35.5,66,Final,ESPN,7,7,14,7,,7,0,14,0,,NCAAF
+401112240,2019,"September 14, 2019",Nebraska Cornhuskers,Northern Illinois Huskies,"2-1, 2-0 Home","1-2, 0-2 Away",44,8,NEB -14.0,54,Final,FS1,10,20,7,7,,0,5,3,0,,NCAAF
+401112241,2019,"September 28, 2019",Nebraska Cornhuskers,Ohio State Buckeyes,"3-2, 1-1 Conf","5-0, 2-0 Conf",7,48,OSU -17.0,66,Final,ABC,0,0,7,0,,14,24,10,0,,NCAAF
+401112233,2019,"October 12, 2019",Minnesota Golden Gophers,Nebraska Cornhuskers,"6-0, 3-0 Conf","4-3, 2-2 Conf",34,7,MINN -7.5,47,Final,,7,7,20,0,,0,0,0,7,,NCAAF
+401112243,2019,"November 02, 2019",Purdue Boilermakers,Nebraska Cornhuskers,"3-6, 2-4 Conf","4-5, 2-4 Conf",31,27,NEB -4.0,58,Final,FOX,0,14,3,14,,10,0,3,14,,NCAAF
+401112210,2019,"November 23, 2019",Maryland Terrapins,Nebraska Cornhuskers,"3-8, 1-7 Conf","5-6, 3-5 Conf",7,54,NEB -6.5,64,Final,BTN,0,0,0,7,,17,17,10,10,,NCAAF
+401112200,2019,"November 29, 2019",Nebraska Cornhuskers,Iowa Hawkeyes,"5-7, 3-6 Conf","9-3, 6-3 Conf",24,27,IOWA -3.5,46,Final,BTN,3,7,14,0,,14,10,0,3,,NCAAF

@@ -1,14 +1,14 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-401117502,2019,"Sat, Sep 7",UNLV Rebels,Arkansas State Red Wolves,"1-1, 1-1 Home","1-1, 1-0 Away",17,43,ARST -1.0,65,Final,NULL,0,3,7,7,NULL,10,13,10,10,NULL,NCAAF
-401121941,2019,"Sat, Sep 21",Arkansas State Red Wolves,Southern Illinois Salukis,"2-2, 1-1 Home","2-2, 1-2 Away",41,28,NULL,NULL,Final,ESPN3,14,17,7,3,NULL,14,0,14,0,NULL,NCAAF
-401121949,2019,"Sat, Oct 5",Georgia State Panthers,Arkansas State Red Wolves,"3-2, 1-1 Conf","3-3, 1-1 Conf",52,38,ARST -6.5,70,Final,ESPN+,7,24,7,14,NULL,0,21,7,10,NULL,NCAAF
-401121958,2019,"Sat, Oct 26",Arkansas State Red Wolves,Texas State Bobcats,"4-4, 2-2 Conf","2-5, 1-2 Conf",38,14,ARST -11.0,60,Final,ESPN+,7,10,14,7,NULL,0,14,0,0,NULL,NCAAF
-401121969,2019,"Sat, Nov 16",Arkansas State Red Wolves,Coastal Carolina Chanticleers,"6-4, 4-2 Conf","4-6, 1-5 Conf",28,27,ARST -14.0,60,Final,ESPN+,7,0,14,7,NULL,3,10,0,14,NULL,NCAAF
-401117858,2019,"Sat, Aug 31",Arkansas State Red Wolves,SMU Mustangs,"0-1, 0-1 Home","1-0, 1-0 Away",30,37,ARST -1.5,58,Final,ESPN+,7,2,14,7,NULL,3,13,14,7,NULL,NCAAF
-401110788,2019,"Sat, Sep 14",Georgia Bulldogs,Arkansas State Red Wolves,"3-0, 2-0 Home","1-2, 1-1 Away",55,0,UGA -33.0,60,Final,ESPN2,13,21,14,7,NULL,0,0,0,0,NULL,NCAAF
-401121944,2019,"Sat, Sep 28",Troy Trojans,Arkansas State Red Wolves,"2-2, 0-1 Conf","3-2, 1-0 Conf",43,50,TROY -7.0,60,Final,ESPN+,10,21,6,6,NULL,21,10,14,5,NULL,NCAAF
-401121954,2019,"Thu, Oct 17",Arkansas State Red Wolves,Louisiana Ragin' Cajuns,"3-4, 1-2 Conf","5-2, 2-1 Conf",20,37,UL -5.0,70,Final,ESPNU,7,3,3,7,NULL,7,17,0,13,NULL,NCAAF
-401121961,2019,"Sat, Nov 2",UL Monroe Warhawks,Arkansas State Red Wolves,"3-5, 2-2 Conf","5-4, 3-2 Conf",41,48,EVEN,68,Final,ESPNU,14,14,6,7,NULL,3,28,3,14,NULL,NCAAF
-401121974,2019,"Sat, Nov 23",Arkansas State Red Wolves,Georgia Southern Eagles,"7-4, 5-2 Conf","6-5, 4-3 Conf",38,33,ARST -1.5,52,Final,ESPN+,14,21,3,0,NULL,3,16,8,6,NULL,NCAAF
-401121979,2019,"Fri, Nov 29",South Alabama Jaguars,Arkansas State Red Wolves,"2-10, 1-7 Conf","7-5, 5-3 Conf",34,30,ARST -10.0,53,Final,ESPN+,14,0,6,14,NULL,7,0,10,13,NULL,NCAAF
-401135265,2019,"Sat, Dec 21",Arkansas State Red Wolves,Florida International Panthers,8-5,6-7,34,26,FIU -1.0,61,Final,ESPN,14,6,7,7,NULL,0,13,10,3,NULL,NCAAF
+401117502,2019,"September 07, 2019",UNLV Rebels,Arkansas State Red Wolves,"1-1, 1-1 Home","1-1, 1-0 Away",17,43,ARST -1.0,65.0,Final,,0,3,7,7,,10,13,10,10,,NCAAF
+401121941,2019,"September 21, 2019",Arkansas State Red Wolves,Southern Illinois Salukis,"2-2, 1-1 Home","2-2, 1-2 Away",41,28,,,Final,ESPN3,14,17,7,3,,14,0,14,0,,NCAAF
+401121949,2019,"October 05, 2019",Georgia State Panthers,Arkansas State Red Wolves,"3-2, 1-1 Conf","3-3, 1-1 Conf",52,38,ARST -6.5,70.0,Final,ESPN+,7,24,7,14,,0,21,7,10,,NCAAF
+401121958,2019,"October 26, 2019",Arkansas State Red Wolves,Texas State Bobcats,"4-4, 2-2 Conf","2-5, 1-2 Conf",38,14,ARST -11.0,60.0,Final,ESPN+,7,10,14,7,,0,14,0,0,,NCAAF
+401121969,2019,"November 16, 2019",Arkansas State Red Wolves,Coastal Carolina Chanticleers,"6-4, 4-2 Conf","4-6, 1-5 Conf",28,27,ARST -14.0,60.0,Final,ESPN+,7,0,14,7,,3,10,0,14,,NCAAF
+401117858,2019,"August 31, 2019",Arkansas State Red Wolves,SMU Mustangs,"0-1, 0-1 Home","1-0, 1-0 Away",30,37,ARST -1.5,58.0,Final,ESPN+,7,2,14,7,,3,13,14,7,,NCAAF
+401110788,2019,"September 14, 2019",Georgia Bulldogs,Arkansas State Red Wolves,"3-0, 2-0 Home","1-2, 1-1 Away",55,0,UGA -33.0,60.0,Final,ESPN2,13,21,14,7,,0,0,0,0,,NCAAF
+401121944,2019,"September 28, 2019",Troy Trojans,Arkansas State Red Wolves,"2-2, 0-1 Conf","3-2, 1-0 Conf",43,50,TROY -7.0,60.0,Final,ESPN+,10,21,6,6,,21,10,14,5,,NCAAF
+401121954,2019,"October 17, 2019",Arkansas State Red Wolves,Louisiana Ragin' Cajuns,"3-4, 1-2 Conf","5-2, 2-1 Conf",20,37,UL -5.0,70.0,Final,ESPNU,7,3,3,7,,7,17,0,13,,NCAAF
+401121961,2019,"November 02, 2019",UL Monroe Warhawks,Arkansas State Red Wolves,"3-5, 2-2 Conf","5-4, 3-2 Conf",41,48,EVEN,68.0,Final,ESPNU,14,14,6,7,,3,28,3,14,,NCAAF
+401121974,2019,"November 23, 2019",Arkansas State Red Wolves,Georgia Southern Eagles,"7-4, 5-2 Conf","6-5, 4-3 Conf",38,33,ARST -1.5,52.0,Final,ESPN+,14,21,3,0,,3,16,8,6,,NCAAF
+401121979,2019,"November 29, 2019",South Alabama Jaguars,Arkansas State Red Wolves,"2-10, 1-7 Conf","7-5, 5-3 Conf",34,30,ARST -10.0,53.0,Final,ESPN+,14,0,6,14,,7,0,10,13,,NCAAF
+401135265,2019,"December 21, 2019",Arkansas State Red Wolves,Florida International Panthers,8-5,6-7,34,26,FIU -1.0,61.0,Final,ESPN,14,6,7,7,,0,13,10,3,,NCAAF

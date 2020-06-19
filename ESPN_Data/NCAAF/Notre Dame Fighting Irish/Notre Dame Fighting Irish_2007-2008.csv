@@ -1,13 +1,13 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-272510213,2007,"Sat, Sep 8",Penn State Nittany Lions,Notre Dame Fighting Irish,"2-0, 2-0 Home","0-2, 0-1 Away",31,10,NULL,NULL,Final,ESPN,7,7,10,7,NULL,7,0,3,0,NULL,NCAAF
-272650087,2007,"Sat, Sep 22",Notre Dame Fighting Irish,Michigan State Spartans,"0-4, 0-2 Home","4-0, 1-0 Away",14,31,NULL,NULL,Final,NBC,7,7,0,0,NULL,14,3,14,0,NULL,NCAAF
-272790026,2007,"Sat, Oct 6",UCLA Bruins,Notre Dame Fighting Irish,"4-2, 2-1 Home","1-5, 1-3 Away",6,20,NULL,NULL,Final,ABC,3,3,0,0,NULL,3,0,17,0,NULL,NCAAF
-272930087,2007,"Sat, Oct 20",Notre Dame Fighting Irish,USC Trojans,"1-7, 0-4 Home","6-1, 3-0 Away",0,38,NULL,NULL,Final,NULL,0,0,0,0,NULL,7,10,14,7,NULL,NCAAF
-273140087,2007,"Sat, Nov 10",Notre Dame Fighting Irish,Air Force Falcons,"1-9, 0-6 Home","8-3, 3-3 Away",24,41,NULL,NULL,Final,NULL,0,10,0,14,NULL,10,7,14,10,NULL,NCAAF
-272440087,2007,"Sat, Sep 1",Notre Dame Fighting Irish,Georgia Tech Yellow Jackets,"0-1, 0-1 Home","1-0, 1-0 Away",3,33,NULL,NULL,Final,NULL,0,0,3,0,NULL,6,10,3,14,NULL,NCAAF
-272580130,2007,"Sat, Sep 15",Michigan Wolverines,Notre Dame Fighting Irish,"1-2, 1-2 Home","0-3, 0-2 Away",38,0,NULL,NULL,Final,ABC,10,21,7,0,NULL,0,0,0,0,NULL,NCAAF
-272722509,2007,"Sat, Sep 29",Purdue Boilermakers,Notre Dame Fighting Irish,"5-0, 3-0 Home","0-5, 0-3 Away",33,19,NULL,NULL,Final,ESPN,10,13,3,7,NULL,0,0,6,13,NULL,NCAAF
-272860087,2007,"Sat, Oct 13",Notre Dame Fighting Irish,Boston College Eagles,"1-6, 0-3 Home","7-0, 2-0 Away",14,27,NULL,NULL,Final,NULL,0,0,14,0,NULL,6,7,14,0,NULL,NCAAF
-273070087,2007,"Sat, Nov 3",Notre Dame Fighting Irish,Navy Midshipmen,"1-8, 0-5 Home","5-4, 3-1 Away",44,46,NULL,NULL,Final/OT,NULL,7,14,0,7,16,0,14,6,8,18,NCAAF
-273210087,2007,"Sat, Nov 17",Notre Dame Fighting Irish,Duke Blue Devils,"2-9, 1-6 Home","1-10, 1-5 Away",28,7,NULL,NULL,Final,NULL,0,14,7,7,NULL,0,0,0,7,NULL,NCAAF
-273280024,2007,"Sat, Nov 24",Stanford Cardinal,Notre Dame Fighting Irish,"3-8, 1-6 Home","3-9, 2-3 Away",14,21,NULL,NULL,Final,NULL,7,7,0,0,NULL,7,7,0,7,NULL,NCAAF
+272510213,2007,"September 08, 2007",Penn State Nittany Lions,Notre Dame Fighting Irish,"2-0, 2-0 Home","0-2, 0-1 Away",31,10,,,Final,ESPN,7,7,10,7,,7,0,3,0,,NCAAF
+272650087,2007,"September 22, 2007",Notre Dame Fighting Irish,Michigan State Spartans,"0-4, 0-2 Home","4-0, 1-0 Away",14,31,,,Final,NBC,7,7,0,0,,14,3,14,0,,NCAAF
+272790026,2007,"October 06, 2007",UCLA Bruins,Notre Dame Fighting Irish,"4-2, 2-1 Home","1-5, 1-3 Away",6,20,,,Final,ABC,3,3,0,0,,3,0,17,0,,NCAAF
+272930087,2007,"October 20, 2007",Notre Dame Fighting Irish,USC Trojans,"1-7, 0-4 Home","6-1, 3-0 Away",0,38,,,Final,,0,0,0,0,,7,10,14,7,,NCAAF
+273140087,2007,"November 10, 2007",Notre Dame Fighting Irish,Air Force Falcons,"1-9, 0-6 Home","8-3, 3-3 Away",24,41,,,Final,,0,10,0,14,,10,7,14,10,,NCAAF
+272440087,2007,"September 01, 2007",Notre Dame Fighting Irish,Georgia Tech Yellow Jackets,"0-1, 0-1 Home","1-0, 1-0 Away",3,33,,,Final,,0,0,3,0,,6,10,3,14,,NCAAF
+272580130,2007,"September 15, 2007",Michigan Wolverines,Notre Dame Fighting Irish,"1-2, 1-2 Home","0-3, 0-2 Away",38,0,,,Final,ABC,10,21,7,0,,0,0,0,0,,NCAAF
+272722509,2007,"September 29, 2007",Purdue Boilermakers,Notre Dame Fighting Irish,"5-0, 3-0 Home","0-5, 0-3 Away",33,19,,,Final,ESPN,10,13,3,7,,0,0,6,13,,NCAAF
+272860087,2007,"October 13, 2007",Notre Dame Fighting Irish,Boston College Eagles,"1-6, 0-3 Home","7-0, 2-0 Away",14,27,,,Final,,0,0,14,0,,6,7,14,0,,NCAAF
+273070087,2007,"November 03, 2007",Notre Dame Fighting Irish,Navy Midshipmen,"1-8, 0-5 Home","5-4, 3-1 Away",44,46,,,Final/OT,,7,14,0,7,16.0,0,14,6,8,18.0,NCAAF
+273210087,2007,"November 17, 2007",Notre Dame Fighting Irish,Duke Blue Devils,"2-9, 1-6 Home","1-10, 1-5 Away",28,7,,,Final,,0,14,7,7,,0,0,0,7,,NCAAF
+273280024,2007,"November 24, 2007",Stanford Cardinal,Notre Dame Fighting Irish,"3-8, 1-6 Home","3-9, 2-3 Away",14,21,,,Final,,7,7,0,0,,7,7,0,7,,NCAAF

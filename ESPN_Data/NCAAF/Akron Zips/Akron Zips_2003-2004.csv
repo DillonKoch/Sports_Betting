@@ -1,13 +1,13 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-232490275,2003,"Sat, Sep 6",Wisconsin Badgers,Akron Zips,"2-0, 1-0 Home","0-2, 0-1 Away",48,31,NULL,NULL,Final,NULL,17,14,3,14,NULL,3,7,14,7,NULL,NCAAF
-232632006,2003,"Sat, Sep 20",Akron Zips,Howard Bison,"2-2, 2-1 Home","0-3, 0-2 Away",65,7,NULL,NULL,Final,NULL,35,13,7,10,NULL,0,0,7,0,NULL,NCAAF
-232770193,2003,"Sat, Oct 4",Miami (OH) RedHawks,Akron Zips,"4-1, 1-0 Conf","3-3, 2-2 Conf",45,20,NULL,NULL,Final,NULL,7,14,3,21,NULL,7,3,10,0,NULL,NCAAF
-232912006,2003,"Sat, Oct 18",Akron Zips,UCF Knights,"5-3, 3-2 Conf","2-5, 1-3 Conf",38,24,NULL,NULL,Final,NULL,7,14,7,10,NULL,3,0,14,7,NULL,NCAAF
-233050276,2003,"Sat, Nov 1",Marshall Thundering Herd,Akron Zips,"6-3, 4-1 Conf","5-5, 3-3 Conf",42,24,NULL,NULL,Final,NULL,14,21,0,7,NULL,14,3,0,7,NULL,NCAAF
-232402006,2003,"Thu, Aug 28",Akron Zips,Kent State Golden Flashes,"0-1, 0-1 Conf","1-0, 1-0 Conf",38,41,NULL,NULL,Final,NULL,14,10,0,14,NULL,17,7,0,17,NULL,NCAAF
-232562006,2003,"Sat, Sep 13",Akron Zips,Eastern Michigan Eagles,"1-2, 1-1 Conf","1-2, 0-1 Conf",24,17,NULL,NULL,Final,NULL,7,14,0,3,NULL,0,10,7,0,NULL,NCAAF
-232702084,2003,"Sat, Sep 27",Buffalo Bulls,Akron Zips,"0-5, 0-1 Conf","3-2, 2-1 Conf",21,38,NULL,NULL,Final,NULL,0,14,0,7,NULL,10,7,21,0,NULL,NCAAF
-232842006,2003,"Sat, Oct 11",Akron Zips,Cal Poly Mustangs,"4-3, 3-1 Home","3-3, 1-3 Away",45,14,NULL,NULL,Final,NULL,7,28,7,3,NULL,0,14,0,0,NULL,NCAAF
-232980041,2003,"Sat, Oct 25",Connecticut Huskies,Akron Zips,"6-3, 3-1 Home","5-4, 1-3 Away",38,37,NULL,NULL,Final,NULL,7,14,7,10,NULL,14,14,3,6,NULL,NCAAF
-233122117,2003,"Sat, Nov 8",Central Michigan Chippewas,Akron Zips,"3-7, 1-6 Conf","6-5, 4-3 Conf",28,40,NULL,NULL,Final,NULL,14,7,7,0,NULL,0,24,9,7,NULL,NCAAF
-233192006,2003,"Sat, Nov 15",Akron Zips,Ohio Bobcats,"7-5, 5-3 Conf","2-8, 1-5 Conf",35,28,NULL,NULL,Final,NULL,0,14,21,0,NULL,7,14,7,0,NULL,NCAAF
+232490275,2003,"September 06, 2003",Wisconsin Badgers,Akron Zips,"2-0, 1-0 Home","0-2, 0-1 Away",48,31,,,Final,,17,14,3,14,,3,7,14,7,,NCAAF
+232632006,2003,"September 20, 2003",Akron Zips,Howard Bison,"2-2, 2-1 Home","0-3, 0-2 Away",65,7,,,Final,,35,13,7,10,,0,0,7,0,,NCAAF
+232770193,2003,"October 04, 2003",Miami (OH) RedHawks,Akron Zips,"4-1, 1-0 Conf","3-3, 2-2 Conf",45,20,,,Final,,7,14,3,21,,7,3,10,0,,NCAAF
+232912006,2003,"October 18, 2003",Akron Zips,UCF Knights,"5-3, 3-2 Conf","2-5, 1-3 Conf",38,24,,,Final,,7,14,7,10,,3,0,14,7,,NCAAF
+233050276,2003,"November 01, 2003",Marshall Thundering Herd,Akron Zips,"6-3, 4-1 Conf","5-5, 3-3 Conf",42,24,,,Final,,14,21,0,7,,14,3,0,7,,NCAAF
+232402006,2003,"August 28, 2003",Akron Zips,Kent State Golden Flashes,"0-1, 0-1 Conf","1-0, 1-0 Conf",38,41,,,Final,,14,10,0,14,,17,7,0,17,,NCAAF
+232562006,2003,"September 13, 2003",Akron Zips,Eastern Michigan Eagles,"1-2, 1-1 Conf","1-2, 0-1 Conf",24,17,,,Final,,7,14,0,3,,0,10,7,0,,NCAAF
+232702084,2003,"September 27, 2003",Buffalo Bulls,Akron Zips,"0-5, 0-1 Conf","3-2, 2-1 Conf",21,38,,,Final,,0,14,0,7,,10,7,21,0,,NCAAF
+232842006,2003,"October 11, 2003",Akron Zips,Cal Poly Mustangs,"4-3, 3-1 Home","3-3, 1-3 Away",45,14,,,Final,,7,28,7,3,,0,14,0,0,,NCAAF
+232980041,2003,"October 25, 2003",Connecticut Huskies,Akron Zips,"6-3, 3-1 Home","5-4, 1-3 Away",38,37,,,Final,,7,14,7,10,,14,14,3,6,,NCAAF
+233122117,2003,"November 08, 2003",Central Michigan Chippewas,Akron Zips,"3-7, 1-6 Conf","6-5, 4-3 Conf",28,40,,,Final,,14,7,7,0,,0,24,9,7,,NCAAF
+233192006,2003,"November 15, 2003",Akron Zips,Ohio Bobcats,"7-5, 5-3 Conf","2-8, 1-5 Conf",35,28,,,Final,,0,14,21,0,,7,14,7,0,,NCAAF

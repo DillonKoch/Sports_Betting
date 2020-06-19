@@ -1,14 +1,14 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-262520251,2006,"Sat, Sep 9",Texas Longhorns,Ohio State Buckeyes,"1-1, 1-1 Home","2-0, 1-0 Away",7,24,NULL,NULL,Final,ABC,0,7,0,0,NULL,7,7,3,7,NULL,NCAAF
-262660194,2006,"Sat, Sep 23",Ohio State Buckeyes,Penn State Nittany Lions,"4-0, 1-0 Conf","2-2, 0-1 Conf",28,6,NULL,NULL,Final,ABC,0,0,7,21,NULL,0,3,0,3,NULL,NCAAF
-262800194,2006,"Sat, Oct 7",Ohio State Buckeyes,Bowling Green Falcons,"6-0, 4-0 Home","3-3, 2-1 Away",35,7,NULL,NULL,Final,NULL,14,7,0,14,NULL,0,0,7,0,NULL,NCAAF
-262940194,2006,"Sat, Oct 21",Ohio State Buckeyes,Indiana Hoosiers,"8-0, 4-0 Conf","4-4, 2-2 Conf",44,3,NULL,NULL,Final,ESPNU,7,21,10,6,NULL,3,0,0,0,NULL,NCAAF
-263080356,2006,"Sat, Nov 4",Illinois Fighting Illini,Ohio State Buckeyes,"2-8, 1-5 Conf","10-0, 6-0 Conf",10,17,NULL,NULL,Final,ESPN2,0,0,0,10,NULL,7,10,0,0,NULL,NCAAF
-262450194,2006,"Sat, Sep 2",Ohio State Buckeyes,Northern Illinois Huskies,"1-0, 1-0 Home","0-1, 0-1 Away",35,12,NULL,NULL,Final,ABC,21,7,0,7,NULL,0,3,3,6,NULL,NCAAF
-262590194,2006,"Sat, Sep 16",Ohio State Buckeyes,Cincinnati Bearcats,"3-0, 2-0 Home","1-2, 0-1 Away",37,7,NULL,NULL,Final,NULL,3,10,7,17,NULL,7,0,0,0,NULL,NCAAF
-262732294,2006,"Sat, Sep 30",Iowa Hawkeyes,Ohio State Buckeyes,"4-1, 1-1 Conf","5-0, 2-0 Conf",17,38,NULL,NULL,Final,ABC,3,7,0,7,NULL,7,14,7,10,NULL,NCAAF
-262870127,2006,"Sat, Oct 14",Michigan State Spartans,Ohio State Buckeyes,"3-4, 0-3 Conf","7-0, 3-0 Conf",7,38,NULL,NULL,Final,ABC,0,0,0,7,NULL,7,17,7,7,NULL,NCAAF
-263010194,2006,"Sat, Oct 28",Ohio State Buckeyes,Minnesota Golden Gophers,"9-0, 5-0 Conf","3-6, 0-5 Conf",44,0,NULL,NULL,Final,ABC,10,7,13,14,NULL,0,0,0,0,NULL,NCAAF
-263150077,2006,"Sat, Nov 11",Northwestern Wildcats,Ohio State Buckeyes,"3-8, 1-6 Conf","11-0, 7-0 Conf",10,54,NULL,NULL,Final,ABC,0,10,0,0,NULL,21,12,14,7,NULL,NCAAF
-263220194,2006,"Sat, Nov 18",Ohio State Buckeyes,Michigan Wolverines,"12-0, 8-0 Conf","11-1, 7-1 Conf",42,39,NULL,NULL,Final,ABC,7,21,7,7,NULL,7,7,10,15,NULL,NCAAF
-270080194,2006,"Mon, Jan 8",Ohio State Buckeyes,Florida Gators,"12-1, 7-1 Home","13-1, 5-1 Away",14,41,NULL,NULL,Final,FOX,7,7,0,0,NULL,14,20,0,7,NULL,NCAAF
+262520251,2006,"September 09, 2006",Texas Longhorns,Ohio State Buckeyes,"1-1, 1-1 Home","2-0, 1-0 Away",7,24,,,Final,ABC,0,7,0,0,,7,7,3,7,,NCAAF
+262660194,2006,"September 23, 2006",Ohio State Buckeyes,Penn State Nittany Lions,"4-0, 1-0 Conf","2-2, 0-1 Conf",28,6,,,Final,ABC,0,0,7,21,,0,3,0,3,,NCAAF
+262800194,2006,"October 07, 2006",Ohio State Buckeyes,Bowling Green Falcons,"6-0, 4-0 Home","3-3, 2-1 Away",35,7,,,Final,,14,7,0,14,,0,0,7,0,,NCAAF
+262940194,2006,"October 21, 2006",Ohio State Buckeyes,Indiana Hoosiers,"8-0, 4-0 Conf","4-4, 2-2 Conf",44,3,,,Final,ESPNU,7,21,10,6,,3,0,0,0,,NCAAF
+263080356,2006,"November 04, 2006",Illinois Fighting Illini,Ohio State Buckeyes,"2-8, 1-5 Conf","10-0, 6-0 Conf",10,17,,,Final,ESPN2,0,0,0,10,,7,10,0,0,,NCAAF
+262450194,2006,"September 02, 2006",Ohio State Buckeyes,Northern Illinois Huskies,"1-0, 1-0 Home","0-1, 0-1 Away",35,12,,,Final,ABC,21,7,0,7,,0,3,3,6,,NCAAF
+262590194,2006,"September 16, 2006",Ohio State Buckeyes,Cincinnati Bearcats,"3-0, 2-0 Home","1-2, 0-1 Away",37,7,,,Final,,3,10,7,17,,7,0,0,0,,NCAAF
+262732294,2006,"September 30, 2006",Iowa Hawkeyes,Ohio State Buckeyes,"4-1, 1-1 Conf","5-0, 2-0 Conf",17,38,,,Final,ABC,3,7,0,7,,7,14,7,10,,NCAAF
+262870127,2006,"October 14, 2006",Michigan State Spartans,Ohio State Buckeyes,"3-4, 0-3 Conf","7-0, 3-0 Conf",7,38,,,Final,ABC,0,0,0,7,,7,17,7,7,,NCAAF
+263010194,2006,"October 28, 2006",Ohio State Buckeyes,Minnesota Golden Gophers,"9-0, 5-0 Conf","3-6, 0-5 Conf",44,0,,,Final,ABC,10,7,13,14,,0,0,0,0,,NCAAF
+263150077,2006,"November 11, 2006",Northwestern Wildcats,Ohio State Buckeyes,"3-8, 1-6 Conf","11-0, 7-0 Conf",10,54,,,Final,ABC,0,10,0,0,,21,12,14,7,,NCAAF
+263220194,2006,"November 18, 2006",Ohio State Buckeyes,Michigan Wolverines,"12-0, 8-0 Conf","11-1, 7-1 Conf",42,39,,,Final,ABC,7,21,7,7,,7,7,10,15,,NCAAF
+270080194,2006,"January 08, 2007",Ohio State Buckeyes,Florida Gators,"12-1, 7-1 Home","13-1, 5-1 Away",14,41,,,Final,FOX,7,7,0,0,,14,20,0,7,,NCAAF

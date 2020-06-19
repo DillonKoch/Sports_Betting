@@ -1,13 +1,13 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-192610030,1999,"Sat, Sep 18",USC Trojans,San Diego State Aztecs,,,24,21,NULL,NULL,Final,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NCAAF
-192750030,1999,"Sat, Oct 2",USC Trojans,Oregon State Beavers,,,37,29,NULL,NULL,Final,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NCAAF
-192890087,1999,"Sat, Oct 16",Notre Dame Fighting Irish,USC Trojans,,,25,24,NULL,NULL,Final,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NCAAF
-193030025,1999,"Sat, Oct 30",California Golden Bears,USC Trojans,,,17,7,NULL,NULL,Final,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NCAAF
-193170265,1999,"Sat, Nov 13",Washington State Cougars,USC Trojans,,,28,31,NULL,NULL,Final,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NCAAF
-192470062,1999,"Sat, Sep 4",Hawai'i Rainbow Warriors,USC Trojans,,,7,62,NULL,NULL,Final,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NCAAF
-192682483,1999,"Sat, Sep 25",Oregon Ducks,USC Trojans,,,33,30,NULL,NULL,Final/3OT,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NCAAF
-192820012,1999,"Sat, Oct 9",Arizona Wildcats,USC Trojans,,,31,24,NULL,NULL,Final,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NCAAF
-192960030,1999,"Sat, Oct 23",USC Trojans,Stanford Cardinal,,,31,35,NULL,NULL,Final,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NCAAF
-193100030,1999,"Sat, Nov 6",USC Trojans,Arizona State Sun Devils,,,16,26,NULL,NULL,Final,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NCAAF
-193240030,1999,"Sat, Nov 20",USC Trojans,UCLA Bruins,,,17,7,NULL,NULL,Final,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NCAAF
-193300030,1999,"Fri, Nov 26",USC Trojans,Louisiana Tech Bulldogs,,,45,19,NULL,NULL,Final,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NCAAF
+192610030,1999,"September 18, 1999",USC Trojans,San Diego State Aztecs,,,24,21,,,Final,,N,U,L,L,,N,U,L,L,,NCAAF
+192750030,1999,"October 02, 1999",USC Trojans,Oregon State Beavers,,,37,29,,,Final,,N,U,L,L,,N,U,L,L,,NCAAF
+192890087,1999,"October 16, 1999",Notre Dame Fighting Irish,USC Trojans,,,25,24,,,Final,,N,U,L,L,,N,U,L,L,,NCAAF
+193030025,1999,"October 30, 1999",California Golden Bears,USC Trojans,,,17,7,,,Final,,N,U,L,L,,N,U,L,L,,NCAAF
+193170265,1999,"November 13, 1999",Washington State Cougars,USC Trojans,,,28,31,,,Final,,N,U,L,L,,N,U,L,L,,NCAAF
+192470062,1999,"September 04, 1999",Hawai'i Rainbow Warriors,USC Trojans,,,7,62,,,Final,,N,U,L,L,,N,U,L,L,,NCAAF
+192682483,1999,"September 25, 1999",Oregon Ducks,USC Trojans,,,33,30,,,Final/3OT,,N,U,L,L,,N,U,L,L,,NCAAF
+192820012,1999,"October 09, 1999",Arizona Wildcats,USC Trojans,,,31,24,,,Final,,N,U,L,L,,N,U,L,L,,NCAAF
+192960030,1999,"October 23, 1999",USC Trojans,Stanford Cardinal,,,31,35,,,Final,,N,U,L,L,,N,U,L,L,,NCAAF
+193100030,1999,"November 06, 1999",USC Trojans,Arizona State Sun Devils,,,16,26,,,Final,,N,U,L,L,,N,U,L,L,,NCAAF
+193240030,1999,"November 20, 1999",USC Trojans,UCLA Bruins,,,17,7,,,Final,,N,U,L,L,,N,U,L,L,,NCAAF
+193300030,1999,"November 26, 1999",USC Trojans,Louisiana Tech Bulldogs,,,45,19,,,Final,,N,U,L,L,,N,U,L,L,,NCAAF

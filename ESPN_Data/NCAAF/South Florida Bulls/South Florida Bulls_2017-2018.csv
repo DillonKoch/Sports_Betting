@@ -1,13 +1,13 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-400941791,2017,"Sat, Sep 2",South Florida Bulls,Stony Brook Seawolves,"2-0, 1-0 Home","0-1, 0-1 Away",31,17,NULL,NULL,Final,ESPN3,7,0,10,14,NULL,7,3,0,7,NULL,NCAAF
-400941799,2017,"Fri, Sep 15",South Florida Bulls,Illinois Fighting Illini,"3-0, 2-0 Home","2-1, 0-1 Away",47,23,NULL,NULL,Final,ESPN,9,14,14,10,NULL,2,7,0,14,NULL,NCAAF
-400941810,2017,"Sat, Sep 30",East Carolina Pirates,South Florida Bulls,"1-4, 1-1 Conf","5-0, 2-0 Conf",31,61,NULL,NULL,Final,CBSSN,10,14,7,0,NULL,21,10,17,13,NULL,NCAAF
-400941832,2017,"Sat, Oct 14",South Florida Bulls,Cincinnati Bearcats,"6-0, 3-0 Conf","2-5, 0-3 Conf",33,3,NULL,NULL,Final,ESPNU,3,20,7,3,NULL,3,0,0,0,NULL,NCAAF
-400941839,2017,"Sat, Oct 28",South Florida Bulls,Houston Cougars,"7-1, 4-1 Conf","5-3, 3-2 Conf",24,28,NULL,NULL,Final,ESPNU,0,7,7,10,NULL,0,0,14,14,NULL,NCAAF
-400941848,2017,"Thu, Nov 16",South Florida Bulls,Tulsa Golden Hurricane,"9-1, 6-1 Conf","2-9, 1-6 Conf",27,20,NULL,NULL,Final,ESPN,21,3,3,0,NULL,7,10,0,3,NULL,NCAAF
-400941786,2017,"Sat, Aug 26",San Jose State Spartans,South Florida Bulls,"0-1, 0-1 Home","1-0, 1-0 Away",22,42,NULL,NULL,Final,CBSSN,16,0,0,6,NULL,0,28,7,7,NULL,NCAAF
-400941803,2017,"Thu, Sep 21",South Florida Bulls,Temple Owls,"4-0, 1-0 Conf","2-2, 0-1 Conf",43,7,NULL,NULL,Final,ESPN,3,17,13,10,NULL,0,7,0,0,NULL,NCAAF
-400941829,2017,"Sat, Oct 21",Tulane Green Wave,South Florida Bulls,"3-4, 1-2 Conf","7-0, 4-0 Conf",28,34,NULL,NULL,Final,ESPN2,0,7,7,14,NULL,7,13,14,0,NULL,NCAAF
-400985386,2017,"Sat, Nov 4",UConn Huskies,South Florida Bulls,"3-6, 2-4 Conf","8-1, 5-1 Conf",20,37,NULL,NULL,Final,ESPNU,0,7,0,13,NULL,7,10,17,3,NULL,NCAAF
-400953390,2017,"Sat, Dec 23",South Florida Bulls,Texas Tech Red Raiders,10-2,6-7,38,34,NULL,NULL,Final,ESPN,3,7,7,21,NULL,10,0,14,10,NULL,NCAAF
-400941849,2017,"Fri, Nov 24",UCF Knights,South Florida Bulls,"11-0, 8-0 Conf","9-2, 6-2 Conf",49,42,NULL,NULL,Final,ABC,21,0,7,21,NULL,7,13,14,8,NULL,NCAAF
+400941791,2017,"September 02, 2017",South Florida Bulls,Stony Brook Seawolves,"2-0, 1-0 Home","0-1, 0-1 Away",31,17,,,Final,ESPN3,7,0,10,14,,7,3,0,7,,NCAAF
+400941799,2017,"September 15, 2017",South Florida Bulls,Illinois Fighting Illini,"3-0, 2-0 Home","2-1, 0-1 Away",47,23,,,Final,ESPN,9,14,14,10,,2,7,0,14,,NCAAF
+400941810,2017,"September 30, 2017",East Carolina Pirates,South Florida Bulls,"1-4, 1-1 Conf","5-0, 2-0 Conf",31,61,,,Final,CBSSN,10,14,7,0,,21,10,17,13,,NCAAF
+400941832,2017,"October 14, 2017",South Florida Bulls,Cincinnati Bearcats,"6-0, 3-0 Conf","2-5, 0-3 Conf",33,3,,,Final,ESPNU,3,20,7,3,,3,0,0,0,,NCAAF
+400941839,2017,"October 28, 2017",South Florida Bulls,Houston Cougars,"7-1, 4-1 Conf","5-3, 3-2 Conf",24,28,,,Final,ESPNU,0,7,7,10,,0,0,14,14,,NCAAF
+400941848,2017,"November 16, 2017",South Florida Bulls,Tulsa Golden Hurricane,"9-1, 6-1 Conf","2-9, 1-6 Conf",27,20,,,Final,ESPN,21,3,3,0,,7,10,0,3,,NCAAF
+400941786,2017,"August 26, 2017",San Jose State Spartans,South Florida Bulls,"0-1, 0-1 Home","1-0, 1-0 Away",22,42,,,Final,CBSSN,16,0,0,6,,0,28,7,7,,NCAAF
+400941803,2017,"September 21, 2017",South Florida Bulls,Temple Owls,"4-0, 1-0 Conf","2-2, 0-1 Conf",43,7,,,Final,ESPN,3,17,13,10,,0,7,0,0,,NCAAF
+400941829,2017,"October 21, 2017",Tulane Green Wave,South Florida Bulls,"3-4, 1-2 Conf","7-0, 4-0 Conf",28,34,,,Final,ESPN2,0,7,7,14,,7,13,14,0,,NCAAF
+400985386,2017,"November 04, 2017",UConn Huskies,South Florida Bulls,"3-6, 2-4 Conf","8-1, 5-1 Conf",20,37,,,Final,ESPNU,0,7,0,13,,7,10,17,3,,NCAAF
+400953390,2017,"December 23, 2017",South Florida Bulls,Texas Tech Red Raiders,10-2,6-7,38,34,,,Final,ESPN,3,7,7,21,,10,0,14,10,,NCAAF
+400941849,2017,"November 24, 2017",UCF Knights,South Florida Bulls,"11-0, 8-0 Conf","9-2, 6-2 Conf",49,42,,,Final,ABC,21,0,7,21,,7,13,14,8,,NCAAF

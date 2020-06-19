@@ -1,13 +1,13 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-400935356,2017,"Sat, Sep 16",Penn State Nittany Lions,Georgia State Panthers,"3-0, 3-0 Home","0-2, 0-1 Away",56,0,NULL,NULL,Final,BTN,14,21,14,7,NULL,0,0,0,0,NULL,NCAAF
-400944856,2017,"Sat, Oct 14",Louisiana Monroe Warhawks,Georgia State Panthers,"3-3, 3-1 Conf","3-2, 2-0 Conf",37,47,NULL,NULL,Final,ESPN3,10,0,14,13,NULL,13,13,14,7,NULL,NCAAF
-400944861,2017,"Thu, Oct 26",Georgia State Panthers,South Alabama Jaguars,"4-3, 3-1 Conf","3-5, 2-2 Conf",21,13,NULL,NULL,Final,ESPNU,7,7,0,7,NULL,0,3,3,7,NULL,NCAAF
-400944873,2017,"Sat, Nov 11",Texas State Bobcats,Georgia State Panthers,"2-8, 1-5 Conf","6-3, 5-1 Conf",30,33,NULL,NULL,Final,ESPN3,7,7,3,13,NULL,10,3,10,10,NULL,NCAAF
-400944826,2017,"Thu, Aug 31",Georgia State Panthers,Tennessee State Tigers,"0-1, 0-1 Home","1-0, 1-0 Away",10,17,NULL,NULL,Final,ESPN3,0,3,0,7,NULL,3,7,7,0,NULL,NCAAF
-400938614,2017,"Sat, Sep 23",Charlotte 49ers,Georgia State Panthers,"0-4, 0-2 Home","1-2, 1-1 Away",0,28,NULL,NULL,Final,NULL,0,0,0,0,NULL,0,14,0,14,NULL,NCAAF
-400944847,2017,"Sat, Oct 7",Coastal Carolina Chanticleers,Georgia State Panthers,"1-4, 0-2 Conf","2-2, 1-0 Conf",21,27,NULL,NULL,Final,ESPN3,0,7,0,14,NULL,14,7,0,6,NULL,NCAAF
-400944860,2017,"Sat, Oct 21",Georgia State Panthers,Troy Trojans,"3-3, 2-1 Conf","5-2, 2-1 Conf",10,34,NULL,NULL,Final,ESPN3,3,0,0,7,NULL,7,14,10,3,NULL,NCAAF
-400944868,2017,"Sat, Nov 4",Georgia Southern Eagles,Georgia State Panthers,"0-8, 0-4 Conf","5-3, 4-1 Conf",17,21,NULL,NULL,Final,ESPN3,7,3,7,0,NULL,7,0,7,7,NULL,NCAAF
-400944879,2017,"Sat, Nov 25",Georgia State Panthers,Appalachian State Mountaineers,"6-4, 5-2 Conf","7-4, 6-1 Conf",10,31,NULL,NULL,Final,ESPN3,0,7,0,3,NULL,0,10,14,7,NULL,NCAAF
-400944887,2017,"Sat, Dec 2",Georgia State Panthers,Idaho Vandals,"6-5, 5-3 Conf","4-8, 3-5 Conf",10,24,NULL,NULL,Final,ESPN3,7,3,0,0,NULL,7,7,3,7,NULL,NCAAF
-400953409,2017,"Sat, Dec 16",Georgia State Panthers,Western Kentucky Hilltoppers,7-5,6-7,27,17,NULL,NULL,Final,CBSSN,10,3,7,7,NULL,7,3,0,7,NULL,NCAAF
+400935356,2017,"September 16, 2017",Penn State Nittany Lions,Georgia State Panthers,"3-0, 3-0 Home","0-2, 0-1 Away",56,0,,,Final,BTN,14,21,14,7,,0,0,0,0,,NCAAF
+400944856,2017,"October 14, 2017",Louisiana Monroe Warhawks,Georgia State Panthers,"3-3, 3-1 Conf","3-2, 2-0 Conf",37,47,,,Final,ESPN3,10,0,14,13,,13,13,14,7,,NCAAF
+400944861,2017,"October 26, 2017",Georgia State Panthers,South Alabama Jaguars,"4-3, 3-1 Conf","3-5, 2-2 Conf",21,13,,,Final,ESPNU,7,7,0,7,,0,3,3,7,,NCAAF
+400944873,2017,"November 11, 2017",Texas State Bobcats,Georgia State Panthers,"2-8, 1-5 Conf","6-3, 5-1 Conf",30,33,,,Final,ESPN3,7,7,3,13,,10,3,10,10,,NCAAF
+400944826,2017,"August 31, 2017",Georgia State Panthers,Tennessee State Tigers,"0-1, 0-1 Home","1-0, 1-0 Away",10,17,,,Final,ESPN3,0,3,0,7,,3,7,7,0,,NCAAF
+400938614,2017,"September 23, 2017",Charlotte 49ers,Georgia State Panthers,"0-4, 0-2 Home","1-2, 1-1 Away",0,28,,,Final,,0,0,0,0,,0,14,0,14,,NCAAF
+400944847,2017,"October 07, 2017",Coastal Carolina Chanticleers,Georgia State Panthers,"1-4, 0-2 Conf","2-2, 1-0 Conf",21,27,,,Final,ESPN3,0,7,0,14,,14,7,0,6,,NCAAF
+400944860,2017,"October 21, 2017",Georgia State Panthers,Troy Trojans,"3-3, 2-1 Conf","5-2, 2-1 Conf",10,34,,,Final,ESPN3,3,0,0,7,,7,14,10,3,,NCAAF
+400944868,2017,"November 04, 2017",Georgia Southern Eagles,Georgia State Panthers,"0-8, 0-4 Conf","5-3, 4-1 Conf",17,21,,,Final,ESPN3,7,3,7,0,,7,0,7,7,,NCAAF
+400944879,2017,"November 25, 2017",Georgia State Panthers,Appalachian State Mountaineers,"6-4, 5-2 Conf","7-4, 6-1 Conf",10,31,,,Final,ESPN3,0,7,0,3,,0,10,14,7,,NCAAF
+400944887,2017,"December 02, 2017",Georgia State Panthers,Idaho Vandals,"6-5, 5-3 Conf","4-8, 3-5 Conf",10,24,,,Final,ESPN3,7,3,0,0,,7,7,3,7,,NCAAF
+400953409,2017,"December 16, 2017",Georgia State Panthers,Western Kentucky Hilltoppers,7-5,6-7,27,17,,,Final,CBSSN,10,3,7,7,,7,3,0,7,,NCAAF

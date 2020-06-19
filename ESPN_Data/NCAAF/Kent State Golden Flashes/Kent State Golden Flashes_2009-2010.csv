@@ -1,13 +1,13 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-292550103,2009,"Sat, Sep 12",Boston College Eagles,Kent State Golden Flashes,"2-0, 2-0 Home","1-1, 0-1 Away",34,7,NULL,NULL,Final,ESPN3,14,10,10,0,NULL,0,0,0,7,NULL,NCAAF
-292692309,2009,"Sat, Sep 26",Kent State Golden Flashes,Miami (OH) RedHawks,"2-2, 1-0 Conf","0-4, 0-2 Conf",29,19,NULL,NULL,Final,NULL,6,13,7,3,NULL,3,7,6,3,NULL,NCAAF
-292832309,2009,"Sat, Oct 10",Kent State Golden Flashes,Bowling Green Falcons,"2-4, 1-1 Conf","2-4, 1-1 Conf",35,36,NULL,NULL,Final,NULL,14,0,14,7,NULL,0,17,0,19,NULL,NCAAF
-292970195,2009,"Sat, Oct 24",Ohio Bobcats,Kent State Golden Flashes,"5-3, 3-1 Conf","4-4, 3-1 Conf",11,20,NULL,NULL,Final,NULL,3,0,0,8,NULL,0,3,3,14,NULL,NCAAF
-293112006,2009,"Sat, Nov 7",Akron Zips,Kent State Golden Flashes,"2-7, 1-4 Conf","5-5, 4-2 Conf",28,20,NULL,NULL,Final,NULL,7,7,7,7,NULL,3,10,0,7,NULL,NCAAF
-292462309,2009,"Thu, Sep 3",Kent State Golden Flashes,Coastal Carolina Chanticleers,"1-0, 1-0 Home","0-1, 0-1 Away",18,0,NULL,NULL,Final,NULL,2,0,7,9,NULL,0,0,0,0,NULL,NCAAF
-292622309,2009,"Sat, Sep 19",Kent State Golden Flashes,Iowa State Cyclones,"1-2, 1-1 Home","2-1, 1-0 Away",14,34,NULL,NULL,Final,ESPN3,7,0,0,7,NULL,17,10,7,0,NULL,NCAAF
-292760239,2009,"Sat, Oct 3",Baylor Bears,Kent State Golden Flashes,"3-1, 2-1 Home","2-3, 0-2 Away",31,15,NULL,NULL,Final,NULL,7,14,7,3,NULL,7,0,6,2,NULL,NCAAF
-292902199,2009,"Sat, Oct 17",Eastern Michigan Eagles,Kent State Golden Flashes,"0-6, 0-3 Conf","3-4, 2-1 Conf",6,28,NULL,NULL,Final,NULL,6,0,0,0,NULL,14,0,7,7,NULL,NCAAF
-293042309,2009,"Sat, Oct 31",Kent State Golden Flashes,Western Michigan Broncos,"5-4, 4-1 Conf","4-5, 3-3 Conf",26,14,NULL,NULL,Final,NULL,3,10,7,6,NULL,0,7,0,7,NULL,NCAAF
-293250218,2009,"Sat, Nov 21",Temple Owls,Kent State Golden Flashes,"9-2, 7-0 Conf","5-6, 4-3 Conf",47,13,NULL,NULL,Final,NULL,0,9,24,14,NULL,3,7,0,3,NULL,NCAAF
-293312309,2009,"Fri, Nov 27",Kent State Golden Flashes,Buffalo Bulls,"5-7, 4-4 Conf","5-7, 3-5 Conf",6,9,NULL,NULL,Final,NULL,0,0,3,3,NULL,0,3,0,6,NULL,NCAAF
+292550103,2009,"September 12, 2009",Boston College Eagles,Kent State Golden Flashes,"2-0, 2-0 Home","1-1, 0-1 Away",34,7,,,Final,ESPN3,14,10,10,0,,0,0,0,7,,NCAAF
+292692309,2009,"September 26, 2009",Kent State Golden Flashes,Miami (OH) RedHawks,"2-2, 1-0 Conf","0-4, 0-2 Conf",29,19,,,Final,,6,13,7,3,,3,7,6,3,,NCAAF
+292832309,2009,"October 10, 2009",Kent State Golden Flashes,Bowling Green Falcons,"2-4, 1-1 Conf","2-4, 1-1 Conf",35,36,,,Final,,14,0,14,7,,0,17,0,19,,NCAAF
+292970195,2009,"October 24, 2009",Ohio Bobcats,Kent State Golden Flashes,"5-3, 3-1 Conf","4-4, 3-1 Conf",11,20,,,Final,,3,0,0,8,,0,3,3,14,,NCAAF
+293112006,2009,"November 07, 2009",Akron Zips,Kent State Golden Flashes,"2-7, 1-4 Conf","5-5, 4-2 Conf",28,20,,,Final,,7,7,7,7,,3,10,0,7,,NCAAF
+292462309,2009,"September 03, 2009",Kent State Golden Flashes,Coastal Carolina Chanticleers,"1-0, 1-0 Home","0-1, 0-1 Away",18,0,,,Final,,2,0,7,9,,0,0,0,0,,NCAAF
+292622309,2009,"September 19, 2009",Kent State Golden Flashes,Iowa State Cyclones,"1-2, 1-1 Home","2-1, 1-0 Away",14,34,,,Final,ESPN3,7,0,0,7,,17,10,7,0,,NCAAF
+292760239,2009,"October 03, 2009",Baylor Bears,Kent State Golden Flashes,"3-1, 2-1 Home","2-3, 0-2 Away",31,15,,,Final,,7,14,7,3,,7,0,6,2,,NCAAF
+292902199,2009,"October 17, 2009",Eastern Michigan Eagles,Kent State Golden Flashes,"0-6, 0-3 Conf","3-4, 2-1 Conf",6,28,,,Final,,6,0,0,0,,14,0,7,7,,NCAAF
+293042309,2009,"October 31, 2009",Kent State Golden Flashes,Western Michigan Broncos,"5-4, 4-1 Conf","4-5, 3-3 Conf",26,14,,,Final,,3,10,7,6,,0,7,0,7,,NCAAF
+293250218,2009,"November 21, 2009",Temple Owls,Kent State Golden Flashes,"9-2, 7-0 Conf","5-6, 4-3 Conf",47,13,,,Final,,0,9,24,14,,3,7,0,3,,NCAAF
+293312309,2009,"November 27, 2009",Kent State Golden Flashes,Buffalo Bulls,"5-7, 4-4 Conf","5-7, 3-5 Conf",6,9,,,Final,,0,0,3,3,,0,3,0,6,,NCAAF

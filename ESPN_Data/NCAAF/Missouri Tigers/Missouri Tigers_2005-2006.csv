@@ -1,13 +1,13 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-252530142,2005,"Sat, Sep 10",Missouri Tigers,New Mexico Lobos,"1-1, 0-1 Home","2-0, 1-0 Away",35,45,NULL,NULL,Final,NULL,3,18,7,7,NULL,7,14,7,17,NULL,NCAAF
-252740142,2005,"Sat, Oct 1",Missouri Tigers,Texas Longhorns,"2-2, 0-1 Conf","4-0, 1-0 Conf",20,51,NULL,NULL,Final,ABC,13,0,0,7,NULL,14,10,13,14,NULL,NCAAF
-252880142,2005,"Sat, Oct 15",Missouri Tigers,Iowa State Cyclones,"4-2, 2-1 Conf","3-3, 0-3 Conf",27,24,NULL,NULL,Final/OT,NULL,14,0,0,10,3,0,10,0,14,0,NCAAF
-253022305,2005,"Sat, Oct 29",Kansas Jayhawks,Missouri Tigers,"4-4, 1-4 Conf","5-3, 3-2 Conf",13,3,NULL,NULL,Final,NULL,0,6,0,7,NULL,3,0,0,0,NULL,NCAAF
-253160142,2005,"Sat, Nov 12",Missouri Tigers,Baylor Bears,"6-4, 4-3 Conf","4-6, 1-6 Conf",31,16,NULL,NULL,Final,NULL,7,14,3,7,NULL,0,0,6,10,NULL,NCAAF
-252462032,2005,"Sat, Sep 3",Arkansas State Red Wolves,Missouri Tigers,"0-1, 0-1 Home","1-0, 1-0 Away",17,44,NULL,NULL,Final,NULL,0,0,3,14,NULL,13,17,7,7,NULL,NCAAF
-252600142,2005,"Sat, Sep 17",Missouri Tigers,Troy Trojans,"2-1, 1-1 Home","1-2, 0-1 Away",52,21,NULL,NULL,Final,NULL,10,10,25,7,NULL,7,0,7,7,NULL,NCAAF
-252810197,2005,"Sat, Oct 8",Oklahoma State Cowboys,Missouri Tigers,"3-2, 0-2 Conf","3-2, 1-1 Conf",31,38,NULL,NULL,Final,NULL,6,3,15,7,NULL,7,14,10,7,NULL,NCAAF
-252950142,2005,"Sat, Oct 22",Missouri Tigers,Nebraska Cornhuskers,"5-2, 3-1 Conf","5-2, 2-2 Conf",41,24,NULL,NULL,Final,FSN,21,3,7,10,NULL,10,14,0,0,NULL,NCAAF
-253090038,2005,"Sat, Nov 5",Colorado Buffaloes,Missouri Tigers,"7-2, 5-1 Conf","5-4, 3-3 Conf",41,12,NULL,NULL,Final,NULL,7,17,7,10,NULL,6,0,6,0,NULL,NCAAF
-253640142,2005,"Fri, Dec 30",Missouri Tigers,South Carolina Gamecocks,"7-5, 5-2 Home","7-5, 2-3 Away",38,31,NULL,NULL,Final,ESPN,0,14,7,17,NULL,21,7,0,3,NULL,NCAAF
-253232306,2005,"Sat, Nov 19",Kansas State Wildcats,Missouri Tigers,"5-6, 2-6 Conf","6-5, 4-4 Conf",36,28,NULL,NULL,Final,NULL,14,0,7,15,NULL,7,14,7,0,NULL,NCAAF
+252530142,2005,"September 10, 2005",Missouri Tigers,New Mexico Lobos,"1-1, 0-1 Home","2-0, 1-0 Away",35,45,,,Final,,3,18,7,7,,7,14,7,17,,NCAAF
+252740142,2005,"October 01, 2005",Missouri Tigers,Texas Longhorns,"2-2, 0-1 Conf","4-0, 1-0 Conf",20,51,,,Final,ABC,13,0,0,7,,14,10,13,14,,NCAAF
+252880142,2005,"October 15, 2005",Missouri Tigers,Iowa State Cyclones,"4-2, 2-1 Conf","3-3, 0-3 Conf",27,24,,,Final/OT,,14,0,0,10,3.0,0,10,0,14,0.0,NCAAF
+253022305,2005,"October 29, 2005",Kansas Jayhawks,Missouri Tigers,"4-4, 1-4 Conf","5-3, 3-2 Conf",13,3,,,Final,,0,6,0,7,,3,0,0,0,,NCAAF
+253160142,2005,"November 12, 2005",Missouri Tigers,Baylor Bears,"6-4, 4-3 Conf","4-6, 1-6 Conf",31,16,,,Final,,7,14,3,7,,0,0,6,10,,NCAAF
+252462032,2005,"September 03, 2005",Arkansas State Red Wolves,Missouri Tigers,"0-1, 0-1 Home","1-0, 1-0 Away",17,44,,,Final,,0,0,3,14,,13,17,7,7,,NCAAF
+252600142,2005,"September 17, 2005",Missouri Tigers,Troy Trojans,"2-1, 1-1 Home","1-2, 0-1 Away",52,21,,,Final,,10,10,25,7,,7,0,7,7,,NCAAF
+252810197,2005,"October 08, 2005",Oklahoma State Cowboys,Missouri Tigers,"3-2, 0-2 Conf","3-2, 1-1 Conf",31,38,,,Final,,6,3,15,7,,7,14,10,7,,NCAAF
+252950142,2005,"October 22, 2005",Missouri Tigers,Nebraska Cornhuskers,"5-2, 3-1 Conf","5-2, 2-2 Conf",41,24,,,Final,FSN,21,3,7,10,,10,14,0,0,,NCAAF
+253090038,2005,"November 05, 2005",Colorado Buffaloes,Missouri Tigers,"7-2, 5-1 Conf","5-4, 3-3 Conf",41,12,,,Final,,7,17,7,10,,6,0,6,0,,NCAAF
+253640142,2005,"December 30, 2005",Missouri Tigers,South Carolina Gamecocks,"7-5, 5-2 Home","7-5, 2-3 Away",38,31,,,Final,ESPN,0,14,7,17,,21,7,0,3,,NCAAF
+253232306,2005,"November 19, 2005",Kansas State Wildcats,Missouri Tigers,"5-6, 2-6 Conf","6-5, 4-4 Conf",36,28,,,Final,,14,0,7,15,,7,14,7,0,,NCAAF

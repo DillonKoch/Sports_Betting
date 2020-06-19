@@ -1,14 +1,14 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-400548017,2014,"Sat, Sep 6",Mississippi State Bulldogs,UAB Blazers,"2-0, 2-0 Home","1-1, 0-1 Away",47,34,NULL,NULL,Final,NULL,13,13,21,0,NULL,3,17,7,7,NULL,NCAAF
-400548386,2014,"Sat, Sep 20",LSU Tigers,Mississippi State Bulldogs,"3-1, 0-1 Conf","4-0, 1-0 Conf",29,34,NULL,NULL,Final,ESPN,0,3,7,19,NULL,14,3,14,3,NULL,NCAAF
-400548369,2014,"Sat, Oct 11",Mississippi State Bulldogs,Auburn Tigers,"6-0, 3-0 Conf","5-1, 2-1 Conf",38,23,NULL,NULL,Final,CBS,21,7,0,10,NULL,0,13,7,3,NULL,NCAAF
-400548350,2014,"Sat, Nov 1",Mississippi State Bulldogs,Arkansas Razorbacks,"8-0, 5-0 Conf","4-5, 0-5 Conf",17,10,NULL,NULL,Final,ESPN2,0,7,3,7,NULL,3,7,0,0,NULL,NCAAF
-400548338,2014,"Sat, Nov 15",Alabama Crimson Tide,Mississippi State Bulldogs,"9-1, 6-1 Conf","9-1, 5-1 Conf",25,20,NULL,NULL,Final,CBS,5,14,0,6,NULL,0,3,3,14,NULL,NCAAF
-400548009,2014,"Sat, Aug 30",Mississippi State Bulldogs,Southern Mississippi Golden Eagles,"1-0, 1-0 Home","0-1, 0-1 Away",49,0,NULL,NULL,Final,SECN,7,21,14,7,NULL,0,0,0,0,NULL,NCAAF
-400548391,2014,"Sat, Sep 13",South Alabama Jaguars,Mississippi State Bulldogs,"1-1, 0-1 Home","3-0, 1-0 Away",3,35,NULL,NULL,Final,ESPNN,0,3,0,0,NULL,7,21,7,0,NULL,NCAAF
-400548377,2014,"Sat, Oct 4",Mississippi State Bulldogs,Texas A&M Aggies,"5-0, 2-0 Conf","5-1, 2-1 Conf",48,31,NULL,NULL,Final,ESPN,14,14,13,7,NULL,7,3,7,14,NULL,NCAAF
-400548355,2014,"Sat, Oct 25",Kentucky Wildcats,Mississippi State Bulldogs,"5-3, 2-3 Conf","7-0, 4-0 Conf",31,45,NULL,NULL,Final,CBS,7,3,14,7,NULL,10,7,14,14,NULL,NCAAF
-400548345,2014,"Sat, Nov 8",Mississippi State Bulldogs,Tennessee-Martin Skyhawks,"9-0, 6-0 Home","5-6, 2-4 Away",45,16,NULL,NULL,Final,SECN,7,17,14,7,NULL,3,0,0,13,NULL,NCAAF
-400548335,2014,"Sat, Nov 22",Mississippi State Bulldogs,Vanderbilt Commodores,"10-1, 6-1 Conf","3-8, 0-7 Conf",51,0,NULL,NULL,Final,SECN,13,24,7,7,NULL,0,0,0,0,NULL,NCAAF
-400548324,2014,"Sat, Nov 29",Ole Miss Rebels,Mississippi State Bulldogs,"9-3, 5-3 Conf","10-2, 6-2 Conf",31,17,NULL,NULL,Final,CBS,7,0,17,7,NULL,0,3,7,7,NULL,NCAAF
-400610180,2014,"Wed, Dec 31",Georgia Tech Yellow Jackets,Mississippi State Bulldogs,11-3,10-3,49,34,NULL,NULL,Final,ESPN,14,7,21,7,NULL,0,20,0,14,NULL,NCAAF
+400548017,2014,"September 06, 2014",Mississippi State Bulldogs,UAB Blazers,"2-0, 2-0 Home","1-1, 0-1 Away",47,34,,,Final,,13,13,21,0,,3,17,7,7,,NCAAF
+400548386,2014,"September 20, 2014",LSU Tigers,Mississippi State Bulldogs,"3-1, 0-1 Conf","4-0, 1-0 Conf",29,34,,,Final,ESPN,0,3,7,19,,14,3,14,3,,NCAAF
+400548369,2014,"October 11, 2014",Mississippi State Bulldogs,Auburn Tigers,"6-0, 3-0 Conf","5-1, 2-1 Conf",38,23,,,Final,CBS,21,7,0,10,,0,13,7,3,,NCAAF
+400548350,2014,"November 01, 2014",Mississippi State Bulldogs,Arkansas Razorbacks,"8-0, 5-0 Conf","4-5, 0-5 Conf",17,10,,,Final,ESPN2,0,7,3,7,,3,7,0,0,,NCAAF
+400548338,2014,"November 15, 2014",Alabama Crimson Tide,Mississippi State Bulldogs,"9-1, 6-1 Conf","9-1, 5-1 Conf",25,20,,,Final,CBS,5,14,0,6,,0,3,3,14,,NCAAF
+400548009,2014,"August 30, 2014",Mississippi State Bulldogs,Southern Mississippi Golden Eagles,"1-0, 1-0 Home","0-1, 0-1 Away",49,0,,,Final,SECN,7,21,14,7,,0,0,0,0,,NCAAF
+400548391,2014,"September 13, 2014",South Alabama Jaguars,Mississippi State Bulldogs,"1-1, 0-1 Home","3-0, 1-0 Away",3,35,,,Final,ESPNN,0,3,0,0,,7,21,7,0,,NCAAF
+400548377,2014,"October 04, 2014",Mississippi State Bulldogs,Texas A&M Aggies,"5-0, 2-0 Conf","5-1, 2-1 Conf",48,31,,,Final,ESPN,14,14,13,7,,7,3,7,14,,NCAAF
+400548355,2014,"October 25, 2014",Kentucky Wildcats,Mississippi State Bulldogs,"5-3, 2-3 Conf","7-0, 4-0 Conf",31,45,,,Final,CBS,7,3,14,7,,10,7,14,14,,NCAAF
+400548345,2014,"November 08, 2014",Mississippi State Bulldogs,Tennessee-Martin Skyhawks,"9-0, 6-0 Home","5-6, 2-4 Away",45,16,,,Final,SECN,7,17,14,7,,3,0,0,13,,NCAAF
+400548335,2014,"November 22, 2014",Mississippi State Bulldogs,Vanderbilt Commodores,"10-1, 6-1 Conf","3-8, 0-7 Conf",51,0,,,Final,SECN,13,24,7,7,,0,0,0,0,,NCAAF
+400548324,2014,"November 29, 2014",Ole Miss Rebels,Mississippi State Bulldogs,"9-3, 5-3 Conf","10-2, 6-2 Conf",31,17,,,Final,CBS,7,0,17,7,,0,3,7,7,,NCAAF
+400610180,2014,"December 31, 2014",Georgia Tech Yellow Jackets,Mississippi State Bulldogs,11-3,10-3,49,34,,,Final,ESPN,14,7,21,7,,0,20,0,14,,NCAAF

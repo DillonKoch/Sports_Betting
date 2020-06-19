@@ -1,13 +1,13 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-212512294,2001,"Sat, Sep 8",Iowa Hawkeyes,Miami (OH) RedHawks,"2-0, 2-0 Home","0-2, 0-2 Away",44,19,NULL,NULL,Final,NULL,17,7,20,0,NULL,0,0,13,6,NULL,NCAAF
-212650193,2001,"Sat, Sep 22",Miami (OH) RedHawks,Cincinnati Bearcats,"1-2, 1-0 Home","1-2, 1-1 Away",21,14,NULL,NULL,Final,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NCAAF
-212790193,2001,"Sat, Oct 6",Miami (OH) RedHawks,Buffalo Bulls,"3-2, 2-0 Conf","1-4, 0-3 Conf",31,14,NULL,NULL,Final,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NCAAF
-212930195,2001,"Sat, Oct 20",Ohio Bobcats,Miami (OH) RedHawks,"1-5, 1-3 Conf","5-2, 4-0 Conf",24,36,NULL,NULL,Final,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NCAAF
-213070189,2001,"Sat, Nov 3",Bowling Green Falcons,Miami (OH) RedHawks,"5-3, 3-3 Conf","7-2, 6-0 Conf",21,24,NULL,NULL,Final,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NCAAF
-213210062,2001,"Sat, Nov 17",Hawaii Warriors,Miami (OH) RedHawks,"7-3, 5-2 Home","7-4, 3-3 Away",52,51,NULL,NULL,Final,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NCAAF
-212440130,2001,"Sat, Sep 1",Michigan Wolverines,Miami (OH) RedHawks,"1-0, 1-0 Home","0-1, 0-1 Away",31,13,NULL,NULL,Final,NULL,10,7,0,14,NULL,0,6,0,7,NULL,NCAAF
-212722050,2001,"Sat, Sep 29",Ball State Cardinals,Miami (OH) RedHawks,"0-4, 0-1 Conf","2-2, 1-0 Conf",20,28,NULL,NULL,Final,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NCAAF
-212860193,2001,"Sat, Oct 13",Miami (OH) RedHawks,Akron Zips,"4-2, 3-0 Conf","2-4, 2-2 Conf",30,27,NULL,NULL,Final,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NCAAF
-213000193,2001,"Sat, Oct 27",Miami (OH) RedHawks,Western Michigan Broncos,"6-2, 5-0 Conf","4-4, 3-2 Conf",25,11,NULL,NULL,Final,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NCAAF
-213140193,2001,"Sat, Nov 10",Miami (OH) RedHawks,Marshall Thundering Herd,"7-3, 6-1 Conf","8-1, 7-0 Conf",21,27,NULL,NULL,Final,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NCAAF
-213282309,2001,"Sat, Nov 24",Kent State Golden Flashes,Miami (OH) RedHawks,"6-5, 5-3 Conf","7-5, 6-2 Conf",24,20,NULL,NULL,Final,NULL,N,U,L,L,NULL,N,U,L,L,NULL,NCAAF
+212512294,2001,"September 08, 2001",Iowa Hawkeyes,Miami (OH) RedHawks,"2-0, 2-0 Home","0-2, 0-2 Away",44,19,,,Final,,17,7,20,0,,0,0,13,6,,NCAAF
+212650193,2001,"September 22, 2001",Miami (OH) RedHawks,Cincinnati Bearcats,"1-2, 1-0 Home","1-2, 1-1 Away",21,14,,,Final,,N,U,L,L,,N,U,L,L,,NCAAF
+212790193,2001,"October 06, 2001",Miami (OH) RedHawks,Buffalo Bulls,"3-2, 2-0 Conf","1-4, 0-3 Conf",31,14,,,Final,,N,U,L,L,,N,U,L,L,,NCAAF
+212930195,2001,"October 20, 2001",Ohio Bobcats,Miami (OH) RedHawks,"1-5, 1-3 Conf","5-2, 4-0 Conf",24,36,,,Final,,N,U,L,L,,N,U,L,L,,NCAAF
+213070189,2001,"November 03, 2001",Bowling Green Falcons,Miami (OH) RedHawks,"5-3, 3-3 Conf","7-2, 6-0 Conf",21,24,,,Final,,N,U,L,L,,N,U,L,L,,NCAAF
+213210062,2001,"November 17, 2001",Hawaii Warriors,Miami (OH) RedHawks,"7-3, 5-2 Home","7-4, 3-3 Away",52,51,,,Final,,N,U,L,L,,N,U,L,L,,NCAAF
+212440130,2001,"September 01, 2001",Michigan Wolverines,Miami (OH) RedHawks,"1-0, 1-0 Home","0-1, 0-1 Away",31,13,,,Final,,10,7,0,14,,0,6,0,7,,NCAAF
+212722050,2001,"September 29, 2001",Ball State Cardinals,Miami (OH) RedHawks,"0-4, 0-1 Conf","2-2, 1-0 Conf",20,28,,,Final,,N,U,L,L,,N,U,L,L,,NCAAF
+212860193,2001,"October 13, 2001",Miami (OH) RedHawks,Akron Zips,"4-2, 3-0 Conf","2-4, 2-2 Conf",30,27,,,Final,,N,U,L,L,,N,U,L,L,,NCAAF
+213000193,2001,"October 27, 2001",Miami (OH) RedHawks,Western Michigan Broncos,"6-2, 5-0 Conf","4-4, 3-2 Conf",25,11,,,Final,,N,U,L,L,,N,U,L,L,,NCAAF
+213140193,2001,"November 10, 2001",Miami (OH) RedHawks,Marshall Thundering Herd,"7-3, 6-1 Conf","8-1, 7-0 Conf",21,27,,,Final,,N,U,L,L,,N,U,L,L,,NCAAF
+213282309,2001,"November 24, 2001",Kent State Golden Flashes,Miami (OH) RedHawks,"6-5, 5-3 Conf","7-5, 6-2 Conf",24,20,,,Final,,N,U,L,L,,N,U,L,L,,NCAAF

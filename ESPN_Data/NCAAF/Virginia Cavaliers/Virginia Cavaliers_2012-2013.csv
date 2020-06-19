@@ -1,13 +1,13 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-322520258,2012,"Sat, Sep 8",Virginia Cavaliers,Penn State Nittany Lions,"2-0, 2-0 Home","0-2, 0-1 Away",17,16,NULL,NULL,Final,ABC,0,3,7,7,NULL,7,0,0,9,NULL,NCAAF
-322662628,2012,"Sat, Sep 22",TCU Horned Frogs,Virginia Cavaliers,"3-0, 2-0 Home","2-2, 0-2 Away",27,7,NULL,NULL,Final,ESPN/ESPN3D,7,7,6,7,NULL,0,0,0,7,NULL,NCAAF
-322800150,2012,"Sat, Oct 6",Duke Blue Devils,Virginia Cavaliers,"5-1, 2-0 Conf","2-4, 0-2 Conf",42,17,NULL,NULL,Final,NULL,14,0,14,14,NULL,14,3,0,0,NULL,NCAAF
-322940258,2012,"Sat, Oct 20",Virginia Cavaliers,Wake Forest Demon Deacons,"2-6, 0-4 Conf","4-3, 2-3 Conf",10,16,NULL,NULL,Final,NULL,0,7,3,0,NULL,7,3,6,0,NULL,NCAAF
-323150258,2012,"Sat, Nov 10",Virginia Cavaliers,Miami Hurricanes,"4-6, 2-4 Conf","5-5, 4-3 Conf",41,40,NULL,NULL,Final,ABC,21,7,0,13,NULL,14,10,7,9,NULL,NCAAF
-322450258,2012,"Sat, Sep 1",Virginia Cavaliers,Richmond Spiders,"1-0, 1-0 Home","0-1, 0-1 Away",43,19,NULL,NULL,Final,NULL,16,6,7,14,NULL,0,6,6,7,NULL,NCAAF
-322590059,2012,"Sat, Sep 15",Georgia Tech Yellow Jackets,Virginia Cavaliers,"2-1, 1-1 Conf","2-1, 0-1 Conf",56,20,NULL,NULL,Final,ESPNU,21,14,7,14,NULL,7,0,0,13,NULL,NCAAF
-322730258,2012,"Sat, Sep 29",Virginia Cavaliers,Louisiana Tech Bulldogs,"2-3, 2-1 Home","4-0, 3-0 Away",38,44,NULL,NULL,Final,ESPN3,14,10,0,14,NULL,10,10,21,3,NULL,NCAAF
-322870258,2012,"Sat, Oct 13",Virginia Cavaliers,Maryland Terrapins,"2-5, 0-3 Conf","4-2, 2-0 Conf",20,27,NULL,NULL,Final,NULL,0,3,10,7,NULL,17,0,0,10,NULL,NCAAF
-323080152,2012,"Sat, Nov 3",NC State Wolfpack,Virginia Cavaliers,"5-4, 2-3 Conf","3-6, 1-4 Conf",6,33,NULL,NULL,Final,NULL,0,0,0,6,NULL,14,2,7,10,NULL,NCAAF
-323200258,2012,"Thu, Nov 15",Virginia Cavaliers,North Carolina Tar Heels,"4-7, 2-5 Conf","7-4, 4-3 Conf",13,37,NULL,NULL,Final,ESPN,3,7,3,0,NULL,7,13,0,17,NULL,NCAAF
-323290259,2012,"Sat, Nov 24",Virginia Tech Hokies,Virginia Cavaliers,"6-6, 4-4 Conf","4-8, 2-6 Conf",17,14,NULL,NULL,Final,ESPNU,0,7,7,3,NULL,0,7,7,0,NULL,NCAAF
+322520258,2012,"September 08, 2012",Virginia Cavaliers,Penn State Nittany Lions,"2-0, 2-0 Home","0-2, 0-1 Away",17,16,,,Final,ABC,0,3,7,7,,7,0,0,9,,NCAAF
+322662628,2012,"September 22, 2012",TCU Horned Frogs,Virginia Cavaliers,"3-0, 2-0 Home","2-2, 0-2 Away",27,7,,,Final,ESPN/ESPN3D,7,7,6,7,,0,0,0,7,,NCAAF
+322800150,2012,"October 06, 2012",Duke Blue Devils,Virginia Cavaliers,"5-1, 2-0 Conf","2-4, 0-2 Conf",42,17,,,Final,,14,0,14,14,,14,3,0,0,,NCAAF
+322940258,2012,"October 20, 2012",Virginia Cavaliers,Wake Forest Demon Deacons,"2-6, 0-4 Conf","4-3, 2-3 Conf",10,16,,,Final,,0,7,3,0,,7,3,6,0,,NCAAF
+323150258,2012,"November 10, 2012",Virginia Cavaliers,Miami Hurricanes,"4-6, 2-4 Conf","5-5, 4-3 Conf",41,40,,,Final,ABC,21,7,0,13,,14,10,7,9,,NCAAF
+322450258,2012,"September 01, 2012",Virginia Cavaliers,Richmond Spiders,"1-0, 1-0 Home","0-1, 0-1 Away",43,19,,,Final,,16,6,7,14,,0,6,6,7,,NCAAF
+322590059,2012,"September 15, 2012",Georgia Tech Yellow Jackets,Virginia Cavaliers,"2-1, 1-1 Conf","2-1, 0-1 Conf",56,20,,,Final,ESPNU,21,14,7,14,,7,0,0,13,,NCAAF
+322730258,2012,"September 29, 2012",Virginia Cavaliers,Louisiana Tech Bulldogs,"2-3, 2-1 Home","4-0, 3-0 Away",38,44,,,Final,ESPN3,14,10,0,14,,10,10,21,3,,NCAAF
+322870258,2012,"October 13, 2012",Virginia Cavaliers,Maryland Terrapins,"2-5, 0-3 Conf","4-2, 2-0 Conf",20,27,,,Final,,0,3,10,7,,17,0,0,10,,NCAAF
+323080152,2012,"November 03, 2012",NC State Wolfpack,Virginia Cavaliers,"5-4, 2-3 Conf","3-6, 1-4 Conf",6,33,,,Final,,0,0,0,6,,14,2,7,10,,NCAAF
+323200258,2012,"November 15, 2012",Virginia Cavaliers,North Carolina Tar Heels,"4-7, 2-5 Conf","7-4, 4-3 Conf",13,37,,,Final,ESPN,3,7,3,0,,7,13,0,17,,NCAAF
+323290259,2012,"November 24, 2012",Virginia Tech Hokies,Virginia Cavaliers,"6-6, 4-4 Conf","4-8, 2-6 Conf",17,14,,,Final,ESPNU,0,7,7,3,,0,7,7,0,,NCAAF

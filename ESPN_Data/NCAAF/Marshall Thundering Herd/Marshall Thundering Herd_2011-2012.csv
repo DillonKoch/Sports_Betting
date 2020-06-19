@@ -1,14 +1,14 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-312530276,2011,"Sat, Sep 10",Marshall Thundering Herd,Southern Mississippi Golden Eagles,"1-1, 1-0 Conf","1-1, 0-1 Conf",26,20,NULL,NULL,Final,NULL,3,7,14,2,NULL,7,10,0,3,NULL,NCAAF
-312670276,2011,"Sat, Sep 24",Marshall Thundering Herd,Virginia Tech Hokies,"1-3, 1-1 Home","4-0, 2-0 Away",10,30,NULL,NULL,Final,NULL,0,10,0,0,NULL,13,10,0,7,NULL,NCAAF
-312812116,2011,"Sat, Oct 8",UCF Knights,Marshall Thundering Herd,"3-2, 1-0 Conf","2-4, 1-1 Conf",16,6,NULL,NULL,Final,NULL,14,2,0,0,NULL,0,0,6,0,NULL,NCAAF
-312950248,2011,"Sat, Oct 22",Houston Cougars,Marshall Thundering Herd,"7-0, 3-0 Conf","3-5, 2-2 Conf",63,28,NULL,NULL,Final,NULL,14,21,14,14,NULL,7,7,7,7,NULL,NCAAF
-313160202,2011,"Sat, Nov 12",Tulsa Golden Hurricane,Marshall Thundering Herd,"7-3, 6-0 Conf","4-6, 3-3 Conf",59,17,NULL,NULL,Final,NULL,14,28,7,10,NULL,3,0,14,0,NULL,NCAAF
-312470277,2011,"Sun, Sep 4",West Virginia Mountaineers,Marshall Thundering Herd,"1-0, 1-0 Home","0-1, 0-1 Away",34,13,NULL,NULL,Final,ESPN,3,17,7,7,NULL,7,3,3,0,NULL,NCAAF
-312600195,2011,"Sat, Sep 17",Ohio Bobcats,Marshall Thundering Herd,"3-0, 2-0 Home","1-2, 0-2 Away",44,7,NULL,NULL,Final,ESPN3,10,24,3,7,NULL,7,0,0,0,NULL,NCAAF
-312740097,2011,"Sat, Oct 1",Louisville Cardinals,Marshall Thundering Herd,"2-2, 1-2 Home","2-3, 1-2 Away",13,17,NULL,NULL,Final,NULL,0,13,0,0,NULL,7,0,3,7,NULL,NCAAF
-312880276,2011,"Sat, Oct 15",Marshall Thundering Herd,Rice Owls,"3-4, 2-1 Conf","2-4, 1-2 Conf",24,20,NULL,NULL,Final,NULL,7,10,0,7,NULL,0,6,14,0,NULL,NCAAF
-313020276,2011,"Sat, Oct 29",Marshall Thundering Herd,UAB Blazers,"4-5, 3-2 Conf","1-7, 1-4 Conf",59,14,NULL,NULL,Final,NULL,10,28,14,7,NULL,0,0,7,7,NULL,NCAAF
-313210235,2011,"Thu, Nov 17",Memphis Tigers,Marshall Thundering Herd,"2-9, 1-6 Conf","5-6, 4-3 Conf",22,23,NULL,NULL,Final,NULL,7,6,3,6,NULL,7,3,0,13,NULL,NCAAF
-313300276,2011,"Sat, Nov 26",Marshall Thundering Herd,East Carolina Pirates,"6-6, 5-3 Conf","5-7, 4-4 Conf",34,27,NULL,NULL,Final/OT,NULL,10,7,3,7,7,14,6,0,7,0,NCAAF
-313540276,2011,"Tue, Dec 20",Marshall Thundering Herd,Florida Intl Golden Panthers,7-6,8-5,20,10,NULL,NULL,Final,ESPN/ESPN3D,3,7,0,10,NULL,7,3,0,0,NULL,NCAAF
+312530276,2011,"September 10, 2011",Marshall Thundering Herd,Southern Mississippi Golden Eagles,"1-1, 1-0 Conf","1-1, 0-1 Conf",26,20,,,Final,,3,7,14,2,,7,10,0,3,,NCAAF
+312670276,2011,"September 24, 2011",Marshall Thundering Herd,Virginia Tech Hokies,"1-3, 1-1 Home","4-0, 2-0 Away",10,30,,,Final,,0,10,0,0,,13,10,0,7,,NCAAF
+312812116,2011,"October 08, 2011",UCF Knights,Marshall Thundering Herd,"3-2, 1-0 Conf","2-4, 1-1 Conf",16,6,,,Final,,14,2,0,0,,0,0,6,0,,NCAAF
+312950248,2011,"October 22, 2011",Houston Cougars,Marshall Thundering Herd,"7-0, 3-0 Conf","3-5, 2-2 Conf",63,28,,,Final,,14,21,14,14,,7,7,7,7,,NCAAF
+313160202,2011,"November 12, 2011",Tulsa Golden Hurricane,Marshall Thundering Herd,"7-3, 6-0 Conf","4-6, 3-3 Conf",59,17,,,Final,,14,28,7,10,,3,0,14,0,,NCAAF
+312470277,2011,"September 04, 2011",West Virginia Mountaineers,Marshall Thundering Herd,"1-0, 1-0 Home","0-1, 0-1 Away",34,13,,,Final,ESPN,3,17,7,7,,7,3,3,0,,NCAAF
+312600195,2011,"September 17, 2011",Ohio Bobcats,Marshall Thundering Herd,"3-0, 2-0 Home","1-2, 0-2 Away",44,7,,,Final,ESPN3,10,24,3,7,,7,0,0,0,,NCAAF
+312740097,2011,"October 01, 2011",Louisville Cardinals,Marshall Thundering Herd,"2-2, 1-2 Home","2-3, 1-2 Away",13,17,,,Final,,0,13,0,0,,7,0,3,7,,NCAAF
+312880276,2011,"October 15, 2011",Marshall Thundering Herd,Rice Owls,"3-4, 2-1 Conf","2-4, 1-2 Conf",24,20,,,Final,,7,10,0,7,,0,6,14,0,,NCAAF
+313020276,2011,"October 29, 2011",Marshall Thundering Herd,UAB Blazers,"4-5, 3-2 Conf","1-7, 1-4 Conf",59,14,,,Final,,10,28,14,7,,0,0,7,7,,NCAAF
+313210235,2011,"November 17, 2011",Memphis Tigers,Marshall Thundering Herd,"2-9, 1-6 Conf","5-6, 4-3 Conf",22,23,,,Final,,7,6,3,6,,7,3,0,13,,NCAAF
+313300276,2011,"November 26, 2011",Marshall Thundering Herd,East Carolina Pirates,"6-6, 5-3 Conf","5-7, 4-4 Conf",34,27,,,Final/OT,,10,7,3,7,7.0,14,6,0,7,0.0,NCAAF
+313540276,2011,"December 20, 2011",Marshall Thundering Herd,Florida Intl Golden Panthers,7-6,8-5,20,10,,,Final,ESPN/ESPN3D,3,7,0,10,,7,3,0,0,,NCAAF

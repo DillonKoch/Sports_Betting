@@ -1,15 +1,15 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-312530195,2011,"Sat, Sep 10",Ohio Bobcats,Gardner-Webb Bulldogs,"2-0, 1-0 Home","1-1, 0-1 Away",30,3,NULL,NULL,Final,NULL,0,24,3,3,NULL,0,0,3,0,NULL,NCAAF
-312670164,2011,"Sat, Sep 24",Rutgers Scarlet Knights,Ohio Bobcats,"2-1, 2-0 Home","3-1, 1-1 Away",38,26,NULL,NULL,Final,ESPN3,7,14,7,10,NULL,7,3,10,6,NULL,NCAAF
-312812084,2011,"Sat, Oct 8",Buffalo Bulls,Ohio Bobcats,"2-4, 1-1 Conf","4-2, 1-1 Conf",38,37,NULL,NULL,Final,NULL,14,10,7,7,NULL,7,10,14,6,NULL,NCAAF
-312952006,2011,"Sat, Oct 22",Akron Zips,Ohio Bobcats,"1-6, 0-3 Conf","5-3, 2-2 Conf",20,37,NULL,NULL,Final,NULL,0,3,7,10,NULL,3,10,10,14,NULL,NCAAF
-313142117,2011,"Thu, Nov 10",Central Michigan Chippewas,Ohio Bobcats,"3-8, 2-5 Conf","7-3, 4-2 Conf",28,43,NULL,NULL,Final,ESPNU,7,7,0,14,NULL,14,3,12,14,NULL,NCAAF
-313260195,2011,"Tue, Nov 22",Ohio Bobcats,Miami (OH) RedHawks,"9-3, 6-2 Conf","4-8, 3-5 Conf",21,14,NULL,NULL,Final,ESPN2,0,0,7,14,NULL,7,0,0,7,NULL,NCAAF
-312460166,2011,"Sat, Sep 3",New Mexico State Aggies,Ohio Bobcats,"0-1, 0-1 Home","1-0, 1-0 Away",24,44,NULL,NULL,Final,NULL,7,0,10,7,NULL,7,16,21,0,NULL,NCAAF
-312600195,2011,"Sat, Sep 17",Ohio Bobcats,Marshall Thundering Herd,"3-0, 2-0 Home","1-2, 0-2 Away",44,7,NULL,NULL,Final,ESPN3,10,24,3,7,NULL,7,0,0,0,NULL,NCAAF
-312740195,2011,"Sat, Oct 1",Ohio Bobcats,Kent State Golden Flashes,"4-1, 1-0 Conf","1-4, 0-1 Conf",17,10,NULL,NULL,Final,NULL,0,10,7,0,NULL,0,7,0,3,NULL,NCAAF
-312880195,2011,"Sat, Oct 15",Ohio Bobcats,Ball State Cardinals,"4-3, 1-2 Conf","4-3, 2-1 Conf",20,23,NULL,NULL,Final,NULL,0,7,13,0,NULL,0,13,7,3,NULL,NCAAF
-313060195,2011,"Wed, Nov 2",Ohio Bobcats,Temple Owls,"6-3, 3-2 Conf","5-4, 3-3 Conf",35,31,NULL,NULL,Final,ESPN,7,7,7,14,NULL,0,14,7,10,NULL,NCAAF
-313200189,2011,"Wed, Nov 16",Bowling Green Falcons,Ohio Bobcats,"4-7, 2-5 Conf","8-3, 5-2 Conf",28,29,NULL,NULL,Final,ESPN,7,7,7,7,NULL,3,13,3,10,NULL,NCAAF
-313510328,2011,"Sat, Dec 17",Utah State Aggies,Ohio Bobcats,7-6,10-4,23,24,NULL,NULL,Final,ESPN,9,0,14,0,NULL,0,7,10,7,NULL,NCAAF
-313362459,2011,"Fri, Dec 2",Northern Illinois Huskies,Ohio Bobcats,"10-3, 7-1 Conf","9-4, 6-2 Conf",23,20,NULL,NULL,Final,ESPN2,0,0,7,16,NULL,10,10,0,0,NULL,NCAAF
+312530195,2011,"September 10, 2011",Ohio Bobcats,Gardner-Webb Bulldogs,"2-0, 1-0 Home","1-1, 0-1 Away",30,3,,,Final,,0,24,3,3,,0,0,3,0,,NCAAF
+312670164,2011,"September 24, 2011",Rutgers Scarlet Knights,Ohio Bobcats,"2-1, 2-0 Home","3-1, 1-1 Away",38,26,,,Final,ESPN3,7,14,7,10,,7,3,10,6,,NCAAF
+312812084,2011,"October 08, 2011",Buffalo Bulls,Ohio Bobcats,"2-4, 1-1 Conf","4-2, 1-1 Conf",38,37,,,Final,,14,10,7,7,,7,10,14,6,,NCAAF
+312952006,2011,"October 22, 2011",Akron Zips,Ohio Bobcats,"1-6, 0-3 Conf","5-3, 2-2 Conf",20,37,,,Final,,0,3,7,10,,3,10,10,14,,NCAAF
+313142117,2011,"November 10, 2011",Central Michigan Chippewas,Ohio Bobcats,"3-8, 2-5 Conf","7-3, 4-2 Conf",28,43,,,Final,ESPNU,7,7,0,14,,14,3,12,14,,NCAAF
+313260195,2011,"November 22, 2011",Ohio Bobcats,Miami (OH) RedHawks,"9-3, 6-2 Conf","4-8, 3-5 Conf",21,14,,,Final,ESPN2,0,0,7,14,,7,0,0,7,,NCAAF
+312460166,2011,"September 03, 2011",New Mexico State Aggies,Ohio Bobcats,"0-1, 0-1 Home","1-0, 1-0 Away",24,44,,,Final,,7,0,10,7,,7,16,21,0,,NCAAF
+312600195,2011,"September 17, 2011",Ohio Bobcats,Marshall Thundering Herd,"3-0, 2-0 Home","1-2, 0-2 Away",44,7,,,Final,ESPN3,10,24,3,7,,7,0,0,0,,NCAAF
+312740195,2011,"October 01, 2011",Ohio Bobcats,Kent State Golden Flashes,"4-1, 1-0 Conf","1-4, 0-1 Conf",17,10,,,Final,,0,10,7,0,,0,7,0,3,,NCAAF
+312880195,2011,"October 15, 2011",Ohio Bobcats,Ball State Cardinals,"4-3, 1-2 Conf","4-3, 2-1 Conf",20,23,,,Final,,0,7,13,0,,0,13,7,3,,NCAAF
+313060195,2011,"November 02, 2011",Ohio Bobcats,Temple Owls,"6-3, 3-2 Conf","5-4, 3-3 Conf",35,31,,,Final,ESPN,7,7,7,14,,0,14,7,10,,NCAAF
+313200189,2011,"November 16, 2011",Bowling Green Falcons,Ohio Bobcats,"4-7, 2-5 Conf","8-3, 5-2 Conf",28,29,,,Final,ESPN,7,7,7,7,,3,13,3,10,,NCAAF
+313510328,2011,"December 17, 2011",Utah State Aggies,Ohio Bobcats,7-6,10-4,23,24,,,Final,ESPN,9,0,14,0,,0,7,10,7,,NCAAF
+313362459,2011,"December 02, 2011",Northern Illinois Huskies,Ohio Bobcats,"10-3, 7-1 Conf","9-4, 6-2 Conf",23,20,,,Final,ESPN2,0,0,7,16,,10,10,0,0,,NCAAF

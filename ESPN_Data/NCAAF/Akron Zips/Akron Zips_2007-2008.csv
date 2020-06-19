@@ -1,13 +1,13 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-272510194,2007,"Sat, Sep 8",Ohio State Buckeyes,Akron Zips,"2-0, 2-0 Home","1-1, 0-1 Away",20,2,NULL,NULL,Final,NULL,0,3,10,7,NULL,2,0,0,0,NULL,NCAAF
-272652006,2007,"Sat, Sep 22",Akron Zips,Kent State Golden Flashes,"2-2, 1-0 Conf","2-2, 0-1 Conf",27,20,NULL,NULL,Final,NULL,0,7,3,17,NULL,7,0,10,3,NULL,NCAAF
-272792711,2007,"Sat, Oct 6",Western Michigan Broncos,Akron Zips,"2-4, 1-1 Conf","3-3, 2-0 Conf",38,39,NULL,NULL,Final,NULL,10,7,14,7,NULL,10,14,0,15,NULL,NCAAF
-273002084,2007,"Sat, Oct 27",Buffalo Bulls,Akron Zips,"4-5, 4-1 Conf","3-5, 2-2 Conf",26,10,NULL,NULL,Final,NULL,13,0,3,10,NULL,7,3,0,0,NULL,NCAAF
-273112006,2007,"Wed, Nov 7",Akron Zips,Ohio Bobcats,"4-6, 3-3 Conf","5-6, 3-4 Conf",48,37,NULL,NULL,Final,ESPN2,10,10,14,14,NULL,10,3,11,13,NULL,NCAAF
-272442006,2007,"Sat, Sep 1",Akron Zips,Army Black Knights,"1-0, 1-0 Home","0-1, 0-1 Away",22,14,NULL,NULL,Final,NULL,9,10,0,3,NULL,0,7,0,7,NULL,NCAAF
-272580084,2007,"Sat, Sep 15",Indiana Hoosiers,Akron Zips,"3-0, 2-0 Home","1-2, 0-2 Away",41,24,NULL,NULL,Final,NULL,10,7,10,14,NULL,0,17,0,7,NULL,NCAAF
-272720041,2007,"Sat, Sep 29",Connecticut Huskies,Akron Zips,"5-0, 3-0 Home","2-3, 0-3 Away",44,10,NULL,NULL,Final,NULL,0,16,21,7,NULL,0,10,0,0,NULL,NCAAF
-272862006,2007,"Sat, Oct 13",Akron Zips,Temple Owls,"3-4, 2-1 Conf","2-5, 2-2 Conf",20,24,NULL,NULL,Final,NULL,3,10,7,0,NULL,0,3,0,21,NULL,NCAAF
-273060189,2007,"Fri, Nov 2",Bowling Green Falcons,Akron Zips,"5-4, 3-2 Conf","3-6, 2-3 Conf",44,20,NULL,NULL,Final,ESPNU,14,10,17,3,NULL,3,3,0,14,NULL,NCAAF
-273180193,2007,"Wed, Nov 14",Miami (OH) RedHawks,Akron Zips,"6-5, 5-1 Conf","4-7, 3-4 Conf",7,0,NULL,NULL,Final,ESPN2,0,0,0,7,NULL,0,0,0,0,NULL,NCAAF
-273272006,2007,"Fri, Nov 23",Akron Zips,Central Michigan Chippewas,"4-8, 3-5 Conf","7-5, 6-1 Conf",32,35,NULL,NULL,Final,ESPNU,7,6,13,6,NULL,0,14,6,15,NULL,NCAAF
+272510194,2007,"September 08, 2007",Ohio State Buckeyes,Akron Zips,"2-0, 2-0 Home","1-1, 0-1 Away",20,2,,,Final,,0,3,10,7,,2,0,0,0,,NCAAF
+272652006,2007,"September 22, 2007",Akron Zips,Kent State Golden Flashes,"2-2, 1-0 Conf","2-2, 0-1 Conf",27,20,,,Final,,0,7,3,17,,7,0,10,3,,NCAAF
+272792711,2007,"October 06, 2007",Western Michigan Broncos,Akron Zips,"2-4, 1-1 Conf","3-3, 2-0 Conf",38,39,,,Final,,10,7,14,7,,10,14,0,15,,NCAAF
+273002084,2007,"October 27, 2007",Buffalo Bulls,Akron Zips,"4-5, 4-1 Conf","3-5, 2-2 Conf",26,10,,,Final,,13,0,3,10,,7,3,0,0,,NCAAF
+273112006,2007,"November 07, 2007",Akron Zips,Ohio Bobcats,"4-6, 3-3 Conf","5-6, 3-4 Conf",48,37,,,Final,ESPN2,10,10,14,14,,10,3,11,13,,NCAAF
+272442006,2007,"September 01, 2007",Akron Zips,Army Black Knights,"1-0, 1-0 Home","0-1, 0-1 Away",22,14,,,Final,,9,10,0,3,,0,7,0,7,,NCAAF
+272580084,2007,"September 15, 2007",Indiana Hoosiers,Akron Zips,"3-0, 2-0 Home","1-2, 0-2 Away",41,24,,,Final,,10,7,10,14,,0,17,0,7,,NCAAF
+272720041,2007,"September 29, 2007",Connecticut Huskies,Akron Zips,"5-0, 3-0 Home","2-3, 0-3 Away",44,10,,,Final,,0,16,21,7,,0,10,0,0,,NCAAF
+272862006,2007,"October 13, 2007",Akron Zips,Temple Owls,"3-4, 2-1 Conf","2-5, 2-2 Conf",20,24,,,Final,,3,10,7,0,,0,3,0,21,,NCAAF
+273060189,2007,"November 02, 2007",Bowling Green Falcons,Akron Zips,"5-4, 3-2 Conf","3-6, 2-3 Conf",44,20,,,Final,ESPNU,14,10,17,3,,3,3,0,14,,NCAAF
+273180193,2007,"November 14, 2007",Miami (OH) RedHawks,Akron Zips,"6-5, 5-1 Conf","4-7, 3-4 Conf",7,0,,,Final,ESPN2,0,0,0,7,,0,0,0,0,,NCAAF
+273272006,2007,"November 23, 2007",Akron Zips,Central Michigan Chippewas,"4-8, 3-5 Conf","7-5, 6-1 Conf",32,35,,,Final,ESPNU,7,6,13,6,,0,14,6,15,,NCAAF

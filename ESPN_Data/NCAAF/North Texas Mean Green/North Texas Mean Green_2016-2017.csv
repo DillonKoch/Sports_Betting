@@ -1,14 +1,14 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-400869354,2016,"Sat, Sep 10",North Texas Mean Green,Bethune-Cookman Wildcats,"1-1, 1-1 Home","0-1, 0-1 Away",41,20,NULL,NULL,Final,NULL,7,17,10,7,NULL,7,0,6,7,NULL,NCAAF
-400869367,2016,"Sat, Sep 24",Rice Owls,North Texas Mean Green,"0-4, 0-2 Conf","2-2, 1-0 Conf",35,42,NULL,NULL,Final/2OT,NULL,10,7,3,8,7,0,14,7,7,14,NCAAF
-400869380,2016,"Sat, Oct 8",North Texas Mean Green,Marshall Thundering Herd,"3-3, 2-1 Conf","1-4, 0-1 Conf",38,21,NULL,NULL,Final,NULL,7,7,14,10,NULL,7,0,14,0,NULL,NCAAF
-400869395,2016,"Sat, Oct 29",UT San Antonio Roadrunners,North Texas Mean Green,"4-4, 3-2 Conf","4-4, 2-2 Conf",31,17,NULL,NULL,Final,NULL,7,7,10,7,NULL,0,0,7,10,NULL,NCAAF
-400869408,2016,"Sat, Nov 12",Western Kentucky Hilltoppers,North Texas Mean Green,"8-3, 6-1 Conf","4-6, 2-4 Conf",45,7,NULL,NULL,Final,ESPN3,17,14,14,0,NULL,0,0,7,0,NULL,NCAAF
-400869345,2016,"Sat, Sep 3",North Texas Mean Green,SMU Mustangs,"0-1, 0-1 Home","1-0, 1-0 Away",21,34,NULL,NULL,Final,NULL,0,14,0,7,NULL,17,7,10,0,NULL,NCAAF
-400868994,2016,"Sat, Sep 17",Florida Gators,North Texas Mean Green,"3-0, 3-0 Home","1-2, 0-1 Away",32,0,NULL,NULL,Final,ESPNU,5,14,0,13,NULL,0,0,0,0,NULL,NCAAF
-400869374,2016,"Sat, Oct 1",North Texas Mean Green,Middle Tennessee Blue Raiders,"2-3, 1-1 Conf","4-1, 2-0 Conf",13,30,NULL,NULL,Final,NULL,7,0,0,6,NULL,0,13,7,10,NULL,NCAAF
-400868916,2016,"Sat, Oct 22",Army Black Knights,North Texas Mean Green,"4-3, 2-1 Home","4-3, 2-1 Away",18,35,NULL,NULL,Final,CBSSN,7,3,8,0,NULL,14,0,14,7,NULL,NCAAF
-400869400,2016,"Sat, Nov 5",North Texas Mean Green,Louisiana Tech Bulldogs,"4-5, 2-3 Conf","7-3, 5-1 Conf",24,45,NULL,NULL,Final,ESPN3,7,14,3,0,NULL,14,17,7,7,NULL,NCAAF
-400869413,2016,"Sat, Nov 19",North Texas Mean Green,Southern Mississippi Golden Eagles,"5-6, 3-4 Conf","5-6, 3-4 Conf",29,23,NULL,NULL,Final,NULL,17,3,0,9,NULL,0,7,13,3,NULL,NCAAF
-400869420,2016,"Sat, Nov 26",UTEP Miners,North Texas Mean Green,"4-8, 2-6 Conf","5-7, 3-5 Conf",52,24,NULL,NULL,Final,NULL,10,21,14,7,NULL,7,10,0,7,NULL,NCAAF
-400876093,2016,"Tue, Dec 27",North Texas Mean Green,Army Black Knights,5-8,8-5,31,38,NULL,NULL,Final/OT,ESPN,7,14,7,3,0,12,12,7,0,7,NCAAF
+400869354,2016,"September 10, 2016",North Texas Mean Green,Bethune-Cookman Wildcats,"1-1, 1-1 Home","0-1, 0-1 Away",41,20,,,Final,,7,17,10,7,,7,0,6,7,,NCAAF
+400869367,2016,"September 24, 2016",Rice Owls,North Texas Mean Green,"0-4, 0-2 Conf","2-2, 1-0 Conf",35,42,,,Final/2OT,,10,7,3,8,7.0,0,14,7,7,14.0,NCAAF
+400869380,2016,"October 08, 2016",North Texas Mean Green,Marshall Thundering Herd,"3-3, 2-1 Conf","1-4, 0-1 Conf",38,21,,,Final,,7,7,14,10,,7,0,14,0,,NCAAF
+400869395,2016,"October 29, 2016",UT San Antonio Roadrunners,North Texas Mean Green,"4-4, 3-2 Conf","4-4, 2-2 Conf",31,17,,,Final,,7,7,10,7,,0,0,7,10,,NCAAF
+400869408,2016,"November 12, 2016",Western Kentucky Hilltoppers,North Texas Mean Green,"8-3, 6-1 Conf","4-6, 2-4 Conf",45,7,,,Final,ESPN3,17,14,14,0,,0,0,7,0,,NCAAF
+400869345,2016,"September 03, 2016",North Texas Mean Green,SMU Mustangs,"0-1, 0-1 Home","1-0, 1-0 Away",21,34,,,Final,,0,14,0,7,,17,7,10,0,,NCAAF
+400868994,2016,"September 17, 2016",Florida Gators,North Texas Mean Green,"3-0, 3-0 Home","1-2, 0-1 Away",32,0,,,Final,ESPNU,5,14,0,13,,0,0,0,0,,NCAAF
+400869374,2016,"October 01, 2016",North Texas Mean Green,Middle Tennessee Blue Raiders,"2-3, 1-1 Conf","4-1, 2-0 Conf",13,30,,,Final,,7,0,0,6,,0,13,7,10,,NCAAF
+400868916,2016,"October 22, 2016",Army Black Knights,North Texas Mean Green,"4-3, 2-1 Home","4-3, 2-1 Away",18,35,,,Final,CBSSN,7,3,8,0,,14,0,14,7,,NCAAF
+400869400,2016,"November 05, 2016",North Texas Mean Green,Louisiana Tech Bulldogs,"4-5, 2-3 Conf","7-3, 5-1 Conf",24,45,,,Final,ESPN3,7,14,3,0,,14,17,7,7,,NCAAF
+400869413,2016,"November 19, 2016",North Texas Mean Green,Southern Mississippi Golden Eagles,"5-6, 3-4 Conf","5-6, 3-4 Conf",29,23,,,Final,,17,3,0,9,,0,7,13,3,,NCAAF
+400869420,2016,"November 26, 2016",UTEP Miners,North Texas Mean Green,"4-8, 2-6 Conf","5-7, 3-5 Conf",52,24,,,Final,,10,21,14,7,,7,10,0,7,,NCAAF
+400876093,2016,"December 27, 2016",North Texas Mean Green,Army Black Knights,5-8,8-5,31,38,,,Final/OT,ESPN,7,14,7,3,0.0,12,12,7,0,7.0,NCAAF

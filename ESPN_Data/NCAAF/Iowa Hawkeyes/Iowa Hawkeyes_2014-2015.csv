@@ -1,14 +1,14 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-400547929,2014,"Sat, Sep 6",Iowa Hawkeyes,Ball State Cardinals,"2-0, 2-0 Home","1-1, 0-1 Away",17,13,NULL,NULL,Final,ESPN2,0,3,0,14,NULL,0,7,6,0,NULL,NCAAF
-400547810,2014,"Sat, Sep 20",Pittsburgh Panthers,Iowa Hawkeyes,"3-1, 1-1 Home","3-1, 1-0 Away",20,24,NULL,NULL,Final,ESPNU,7,10,3,0,NULL,7,0,10,7,NULL,NCAAF
-400547921,2014,"Sat, Oct 11",Iowa Hawkeyes,Indiana Hoosiers,"5-1, 2-0 Conf","3-3, 0-2 Conf",45,29,NULL,NULL,Final,ESPNU,28,10,0,7,NULL,7,14,0,8,NULL,NCAAF
-400547932,2014,"Sat, Nov 1",Iowa Hawkeyes,Northwestern Wildcats,"6-2, 3-1 Conf","3-5, 2-3 Conf",48,7,NULL,NULL,Final,BTN,24,14,0,10,NULL,0,7,0,0,NULL,NCAAF
-400547913,2014,"Sat, Nov 15",Illinois Fighting Illini,Iowa Hawkeyes,"4-6, 1-5 Conf","7-3, 4-2 Conf",14,30,NULL,NULL,Final,BTN,7,0,0,7,NULL,2,7,7,14,NULL,NCAAF
-400547928,2014,"Sat, Aug 30",Iowa Hawkeyes,Northern Iowa Panthers,"1-0, 1-0 Home","0-1, 0-1 Away",31,23,NULL,NULL,Final,BTN,7,10,7,7,NULL,3,10,7,3,NULL,NCAAF
-400547852,2014,"Sat, Sep 13",Iowa Hawkeyes,Iowa State Cyclones,"2-1, 2-1 Home","1-2, 1-0 Away",17,20,NULL,NULL,Final,ESPN,7,7,0,3,NULL,0,3,7,10,NULL,NCAAF
-400547930,2014,"Sat, Sep 27",Purdue Boilermakers,Iowa Hawkeyes,"2-3, 0-1 Conf","4-1, 1-0 Conf",10,24,NULL,NULL,Final,BTN,7,3,0,0,NULL,0,10,7,7,NULL,NCAAF
-400547931,2014,"Sat, Oct 18",Maryland Terrapins,Iowa Hawkeyes,"5-2, 2-1 Conf","5-2, 2-1 Conf",38,31,NULL,NULL,Final,ESPN2,7,10,7,14,NULL,14,0,7,10,NULL,NCAAF
-400547933,2014,"Sat, Nov 8",Minnesota Golden Gophers,Iowa Hawkeyes,"7-2, 4-1 Conf","6-3, 3-2 Conf",51,14,NULL,NULL,Final,ESPN2,7,28,7,9,NULL,7,0,0,7,NULL,NCAAF
-400547934,2014,"Sat, Nov 22",Iowa Hawkeyes,Wisconsin Badgers,"7-4, 4-3 Conf","9-2, 6-1 Conf",24,26,NULL,NULL,Final,ABC/ESPN2,3,0,8,13,NULL,3,13,3,7,NULL,NCAAF
-400547935,2014,"Fri, Nov 28",Iowa Hawkeyes,Nebraska Cornhuskers,"7-5, 4-4 Conf","9-3, 5-3 Conf",34,37,NULL,NULL,Final/OT,ABC,0,10,14,7,3,0,7,7,17,6,NCAAF
-400610224,2014,"Fri, Jan 2",Tennessee Volunteers,Iowa Hawkeyes,7-6,7-6,45,28,NULL,NULL,Final,ESPN,21,14,7,3,NULL,0,7,0,21,NULL,NCAAF
+400547929,2014,"September 06, 2014",Iowa Hawkeyes,Ball State Cardinals,"2-0, 2-0 Home","1-1, 0-1 Away",17,13,,,Final,ESPN2,0,3,0,14,,0,7,6,0,,NCAAF
+400547810,2014,"September 20, 2014",Pittsburgh Panthers,Iowa Hawkeyes,"3-1, 1-1 Home","3-1, 1-0 Away",20,24,,,Final,ESPNU,7,10,3,0,,7,0,10,7,,NCAAF
+400547921,2014,"October 11, 2014",Iowa Hawkeyes,Indiana Hoosiers,"5-1, 2-0 Conf","3-3, 0-2 Conf",45,29,,,Final,ESPNU,28,10,0,7,,7,14,0,8,,NCAAF
+400547932,2014,"November 01, 2014",Iowa Hawkeyes,Northwestern Wildcats,"6-2, 3-1 Conf","3-5, 2-3 Conf",48,7,,,Final,BTN,24,14,0,10,,0,7,0,0,,NCAAF
+400547913,2014,"November 15, 2014",Illinois Fighting Illini,Iowa Hawkeyes,"4-6, 1-5 Conf","7-3, 4-2 Conf",14,30,,,Final,BTN,7,0,0,7,,2,7,7,14,,NCAAF
+400547928,2014,"August 30, 2014",Iowa Hawkeyes,Northern Iowa Panthers,"1-0, 1-0 Home","0-1, 0-1 Away",31,23,,,Final,BTN,7,10,7,7,,3,10,7,3,,NCAAF
+400547852,2014,"September 13, 2014",Iowa Hawkeyes,Iowa State Cyclones,"2-1, 2-1 Home","1-2, 1-0 Away",17,20,,,Final,ESPN,7,7,0,3,,0,3,7,10,,NCAAF
+400547930,2014,"September 27, 2014",Purdue Boilermakers,Iowa Hawkeyes,"2-3, 0-1 Conf","4-1, 1-0 Conf",10,24,,,Final,BTN,7,3,0,0,,0,10,7,7,,NCAAF
+400547931,2014,"October 18, 2014",Maryland Terrapins,Iowa Hawkeyes,"5-2, 2-1 Conf","5-2, 2-1 Conf",38,31,,,Final,ESPN2,7,10,7,14,,14,0,7,10,,NCAAF
+400547933,2014,"November 08, 2014",Minnesota Golden Gophers,Iowa Hawkeyes,"7-2, 4-1 Conf","6-3, 3-2 Conf",51,14,,,Final,ESPN2,7,28,7,9,,7,0,0,7,,NCAAF
+400547934,2014,"November 22, 2014",Iowa Hawkeyes,Wisconsin Badgers,"7-4, 4-3 Conf","9-2, 6-1 Conf",24,26,,,Final,ABC/ESPN2,3,0,8,13,,3,13,3,7,,NCAAF
+400547935,2014,"November 28, 2014",Iowa Hawkeyes,Nebraska Cornhuskers,"7-5, 4-4 Conf","9-3, 5-3 Conf",34,37,,,Final/OT,ABC,0,10,14,7,3.0,0,7,7,17,6.0,NCAAF
+400610224,2014,"January 02, 2015",Tennessee Volunteers,Iowa Hawkeyes,7-6,7-6,45,28,,,Final,ESPN,21,14,7,3,,0,7,0,21,,NCAAF

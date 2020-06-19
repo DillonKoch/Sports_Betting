@@ -1,12 +1,12 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-242552026,2004,"Sat, Sep 11",Appalachian State Mountaineers,Eastern Kentucky Colonels,"1-1, 1-0 Home","0-1, 0-1 Away",49,21,NULL,NULL,Final,NULL,0,14,21,14,NULL,0,14,0,7,NULL,NCAAF
-242692466,2004,"Sat, Sep 25",Northwestern State Demons,Appalachian State Mountaineers,"3-1, 2-0 Home","2-2, 0-2 Away",40,35,NULL,NULL,Final,NULL,6,25,9,0,NULL,0,7,14,14,NULL,NCAAF
-242832026,2004,"Sat, Oct 9",Appalachian State Mountaineers,Furman Paladins,"4-2, 2-0 Conf","4-2, 1-1 Conf",30,29,NULL,NULL,Final,NULL,3,0,13,14,NULL,0,7,0,22,NULL,NCAAF
-242972026,2004,"Sat, Oct 23",Appalachian State Mountaineers,Wofford Terriers,"5-3, 3-1 Conf","5-2, 3-2 Conf",38,17,NULL,NULL,Final,NULL,14,10,7,7,NULL,0,10,0,7,NULL,NCAAF
-243112026,2004,"Sat, Nov 6",Appalachian State Mountaineers,Elon Phoenix,"6-4, 4-2 Conf","2-7, 1-5 Conf",48,7,NULL,NULL,Final,NULL,7,20,7,14,NULL,0,0,0,7,NULL,NCAAF
-242482751,2004,"Sat, Sep 4",Wyoming Cowboys,Appalachian State Mountaineers,"1-0, 1-0 Home","0-1, 0-1 Away",53,7,NULL,NULL,Final,NULL,30,3,9,,NULL,6,9,0,,NULL,NCAAF
-242622026,2004,"Sat, Sep 18",Appalachian State Mountaineers,The Citadel Bulldogs,"2-1, 1-0 Conf","0-1, 0-1 Conf",28,14,NULL,NULL,Final,NULL,14,7,0,7,NULL,7,7,0,0,NULL,NCAAF
-242762026,2004,"Sat, Oct 2",Appalachian State Mountaineers,Texas State Bobcats,"3-2, 3-0 Home","2-2, 0-2 Away",41,34,NULL,NULL,Final,NULL,7,14,13,7,NULL,7,3,7,17,NULL,NCAAF
-242900290,2004,"Sat, Oct 16",Georgia Southern Eagles,Appalachian State Mountaineers,"6-1, 5-0 Conf","4-3, 2-1 Conf",54,7,NULL,NULL,Final,NULL,14,16,17,7,NULL,0,0,0,7,NULL,NCAAF
-243040236,2004,"Sat, Oct 30",Chattanooga Mocs,Appalachian State Mountaineers,"2-6, 2-3 Conf","5-4, 3-2 Conf",59,56,NULL,NULL,Final,NULL,7,10,28,14,NULL,14,14,7,21,NULL,NCAAF
-243182717,2004,"Sat, Nov 13",Western Carolina Catamounts,Appalachian State Mountaineers,"4-6, 2-4 Conf","6-5, 4-3 Conf",30,27,NULL,NULL,Final,NULL,6,0,3,21,NULL,0,3,10,14,NULL,NCAAF
+242552026,2004,"September 11, 2004",Appalachian State Mountaineers,Eastern Kentucky Colonels,"1-1, 1-0 Home","0-1, 0-1 Away",49,21,,,Final,,0,14,21,14.0,,0,14,0,7.0,,NCAAF
+242692466,2004,"September 25, 2004",Northwestern State Demons,Appalachian State Mountaineers,"3-1, 2-0 Home","2-2, 0-2 Away",40,35,,,Final,,6,25,9,0.0,,0,7,14,14.0,,NCAAF
+242832026,2004,"October 09, 2004",Appalachian State Mountaineers,Furman Paladins,"4-2, 2-0 Conf","4-2, 1-1 Conf",30,29,,,Final,,3,0,13,14.0,,0,7,0,22.0,,NCAAF
+242972026,2004,"October 23, 2004",Appalachian State Mountaineers,Wofford Terriers,"5-3, 3-1 Conf","5-2, 3-2 Conf",38,17,,,Final,,14,10,7,7.0,,0,10,0,7.0,,NCAAF
+243112026,2004,"November 06, 2004",Appalachian State Mountaineers,Elon Phoenix,"6-4, 4-2 Conf","2-7, 1-5 Conf",48,7,,,Final,,7,20,7,14.0,,0,0,0,7.0,,NCAAF
+242482751,2004,"September 04, 2004",Wyoming Cowboys,Appalachian State Mountaineers,"1-0, 1-0 Home","0-1, 0-1 Away",53,7,,,Final,,30,3,9,,,6,9,0,,,NCAAF
+242622026,2004,"September 18, 2004",Appalachian State Mountaineers,The Citadel Bulldogs,"2-1, 1-0 Conf","0-1, 0-1 Conf",28,14,,,Final,,14,7,0,7.0,,7,7,0,0.0,,NCAAF
+242762026,2004,"October 02, 2004",Appalachian State Mountaineers,Texas State Bobcats,"3-2, 3-0 Home","2-2, 0-2 Away",41,34,,,Final,,7,14,13,7.0,,7,3,7,17.0,,NCAAF
+242900290,2004,"October 16, 2004",Georgia Southern Eagles,Appalachian State Mountaineers,"6-1, 5-0 Conf","4-3, 2-1 Conf",54,7,,,Final,,14,16,17,7.0,,0,0,0,7.0,,NCAAF
+243040236,2004,"October 30, 2004",Chattanooga Mocs,Appalachian State Mountaineers,"2-6, 2-3 Conf","5-4, 3-2 Conf",59,56,,,Final,,7,10,28,14.0,,14,14,7,21.0,,NCAAF
+243182717,2004,"November 13, 2004",Western Carolina Catamounts,Appalachian State Mountaineers,"4-6, 2-4 Conf","6-5, 4-3 Conf",30,27,,,Final,,6,0,3,21.0,,0,3,10,14.0,,NCAAF

@@ -1,14 +1,14 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-400868988,2016,"Sat, Sep 10",Missouri Tigers,Eastern Michigan Eagles,"1-1, 1-0 Home","1-1, 0-1 Away",61,21,NULL,NULL,Final,SECN,14,19,14,14,NULL,0,7,14,0,NULL,NCAAF
-400869201,2016,"Fri, Sep 23",Eastern Michigan Eagles,Wyoming Cowboys,"3-1, 2-0 Home","2-2, 0-2 Away",27,24,NULL,NULL,Final,CBSSN,3,14,3,7,NULL,10,7,0,7,NULL,NCAAF
-400869304,2016,"Sat, Oct 8",Eastern Michigan Eagles,Toledo Rockets,"4-2, 1-1 Conf","4-1, 1-0 Conf",20,35,NULL,NULL,Final,ESPN3,0,3,10,7,NULL,0,7,14,14,NULL,NCAAF
-400869314,2016,"Sat, Oct 22",Western Michigan Broncos,Eastern Michigan Eagles,"8-0, 4-0 Conf","5-3, 2-2 Conf",45,31,NULL,NULL,Final,ESPN3,7,17,14,7,NULL,7,10,7,7,NULL,NCAAF
-400869325,2016,"Tue, Nov 8",Ball State Cardinals,Eastern Michigan Eagles,"4-6, 1-5 Conf","6-4, 3-3 Conf",41,48,NULL,NULL,Final,CBSSN,21,7,0,13,NULL,3,16,14,15,NULL,NCAAF
-400869263,2016,"Fri, Sep 2",Eastern Michigan Eagles,Mississippi Valley State Delta Devils,"1-0, 1-0 Home","0-1, 0-1 Away",61,14,NULL,NULL,Final,ESPN3,21,7,26,7,NULL,0,0,0,14,NULL,NCAAF
-400869280,2016,"Sat, Sep 17",Charlotte 49ers,Eastern Michigan Eagles,"1-2, 1-1 Home","2-1, 1-1 Away",19,37,NULL,NULL,Final,NULL,0,3,3,13,NULL,7,10,17,3,NULL,NCAAF
-400869295,2016,"Sat, Oct 1",Bowling Green Falcons,Eastern Michigan Eagles,"1-4, 0-1 Conf","4-1, 1-0 Conf",25,28,NULL,NULL,Final,ESPN3,7,0,3,15,NULL,7,0,14,7,NULL,NCAAF
-400869308,2016,"Sat, Oct 15",Ohio Bobcats,Eastern Michigan Eagles,"4-3, 2-1 Conf","5-2, 2-1 Conf",20,27,NULL,NULL,Final,ESPN3,0,3,7,10,NULL,3,0,10,14,NULL,NCAAF
-400869717,2016,"Sat, Oct 29",Eastern Michigan Eagles,Miami (OH) RedHawks,"5-4, 2-3 Conf","3-6, 3-2 Conf",15,28,NULL,NULL,Final,ESPN3,0,3,0,12,NULL,14,0,7,7,NULL,NCAAF
-400869333,2016,"Wed, Nov 16",Eastern Michigan Eagles,Northern Illinois Huskies,"6-5, 3-4 Conf","4-7, 4-3 Conf",24,31,NULL,NULL,Final/OT,ESPNU,14,7,0,3,0,0,0,17,7,7,NCAAF
-400869337,2016,"Tue, Nov 22",Eastern Michigan Eagles,Central Michigan Chippewas,"7-5, 4-4 Conf","6-6, 3-5 Conf",26,21,NULL,NULL,Final,ESPN3,7,7,6,6,NULL,0,7,0,14,NULL,NCAAF
-400876046,2016,"Fri, Dec 23",Old Dominion Monarchs,Eastern Michigan Eagles,10-3,7-6,24,20,NULL,NULL,Final,ESPN,3,7,7,7,NULL,0,0,17,3,NULL,NCAAF
+400868988,2016,"September 10, 2016",Missouri Tigers,Eastern Michigan Eagles,"1-1, 1-0 Home","1-1, 0-1 Away",61,21,,,Final,SECN,14,19,14,14,,0,7,14,0,,NCAAF
+400869201,2016,"September 23, 2016",Eastern Michigan Eagles,Wyoming Cowboys,"3-1, 2-0 Home","2-2, 0-2 Away",27,24,,,Final,CBSSN,3,14,3,7,,10,7,0,7,,NCAAF
+400869304,2016,"October 08, 2016",Eastern Michigan Eagles,Toledo Rockets,"4-2, 1-1 Conf","4-1, 1-0 Conf",20,35,,,Final,ESPN3,0,3,10,7,,0,7,14,14,,NCAAF
+400869314,2016,"October 22, 2016",Western Michigan Broncos,Eastern Michigan Eagles,"8-0, 4-0 Conf","5-3, 2-2 Conf",45,31,,,Final,ESPN3,7,17,14,7,,7,10,7,7,,NCAAF
+400869325,2016,"November 08, 2016",Ball State Cardinals,Eastern Michigan Eagles,"4-6, 1-5 Conf","6-4, 3-3 Conf",41,48,,,Final,CBSSN,21,7,0,13,,3,16,14,15,,NCAAF
+400869263,2016,"September 02, 2016",Eastern Michigan Eagles,Mississippi Valley State Delta Devils,"1-0, 1-0 Home","0-1, 0-1 Away",61,14,,,Final,ESPN3,21,7,26,7,,0,0,0,14,,NCAAF
+400869280,2016,"September 17, 2016",Charlotte 49ers,Eastern Michigan Eagles,"1-2, 1-1 Home","2-1, 1-1 Away",19,37,,,Final,,0,3,3,13,,7,10,17,3,,NCAAF
+400869295,2016,"October 01, 2016",Bowling Green Falcons,Eastern Michigan Eagles,"1-4, 0-1 Conf","4-1, 1-0 Conf",25,28,,,Final,ESPN3,7,0,3,15,,7,0,14,7,,NCAAF
+400869308,2016,"October 15, 2016",Ohio Bobcats,Eastern Michigan Eagles,"4-3, 2-1 Conf","5-2, 2-1 Conf",20,27,,,Final,ESPN3,0,3,7,10,,3,0,10,14,,NCAAF
+400869717,2016,"October 29, 2016",Eastern Michigan Eagles,Miami (OH) RedHawks,"5-4, 2-3 Conf","3-6, 3-2 Conf",15,28,,,Final,ESPN3,0,3,0,12,,14,0,7,7,,NCAAF
+400869333,2016,"November 16, 2016",Eastern Michigan Eagles,Northern Illinois Huskies,"6-5, 3-4 Conf","4-7, 4-3 Conf",24,31,,,Final/OT,ESPNU,14,7,0,3,0.0,0,0,17,7,7.0,NCAAF
+400869337,2016,"November 22, 2016",Eastern Michigan Eagles,Central Michigan Chippewas,"7-5, 4-4 Conf","6-6, 3-5 Conf",26,21,,,Final,ESPN3,7,7,6,6,,0,7,0,14,,NCAAF
+400876046,2016,"December 23, 2016",Old Dominion Monarchs,Eastern Michigan Eagles,10-3,7-6,24,20,,,Final,ESPN,3,7,7,7,,0,0,17,3,,NCAAF

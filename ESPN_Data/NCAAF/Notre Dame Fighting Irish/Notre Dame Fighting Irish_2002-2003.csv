@@ -1,14 +1,14 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-222500087,2002,"Sat, Sep 7",Notre Dame Fighting Irish,Purdue Boilermakers,"2-0, 1-0 Home","1-1, 0-1 Away",24,17,NULL,NULL,Final,NULL,0,17,0,7,NULL,0,7,7,3,NULL,NCAAF
-222640127,2002,"Sat, Sep 21",Michigan State Spartans,Notre Dame Fighting Irish,"2-2, 2-2 Home","4-0, 2-0 Away",17,21,NULL,NULL,Final,NULL,3,0,0,14,NULL,7,7,0,7,NULL,NCAAF
-222850087,2002,"Sat, Oct 12",Notre Dame Fighting Irish,Pittsburgh Panthers,"6-0, 4-0 Home","5-2, 2-1 Away",14,6,NULL,NULL,Final,NULL,0,7,0,7,NULL,3,3,0,0,NULL,NCAAF
-222990052,2002,"Sat, Oct 26",Florida State Seminoles,Notre Dame Fighting Irish,"5-3, 3-1 Home","8-0, 4-0 Away",24,34,NULL,NULL,Final,ABC,3,7,0,14,NULL,10,0,17,7,NULL,NCAAF
-223132426,2002,"Sat, Nov 9",Navy Midshipmen,Notre Dame Fighting Irish,"1-8, 0-5 Home","9-1, 5-0 Away",23,30,NULL,NULL,Final,NULL,7,0,16,0,NULL,2,7,6,15,NULL,NCAAF
-222430120,2002,"Sat, Aug 31",Maryland Terrapins,Notre Dame Fighting Irish,"0-1, 0-1 Home","1-0, 1-0 Away",0,22,NULL,NULL,Final,NULL,0,0,0,0,NULL,3,6,10,3,NULL,NCAAF
-222570087,2002,"Sat, Sep 14",Notre Dame Fighting Irish,Michigan Wolverines,"3-0, 2-0 Home","2-1, 0-1 Away",25,23,NULL,NULL,Final,NULL,7,9,0,9,NULL,7,0,10,6,NULL,NCAAF
-222780087,2002,"Sat, Oct 5",Notre Dame Fighting Irish,Stanford Cardinal,"5-0, 3-0 Home","1-3, 0-3 Away",31,7,NULL,NULL,Final,NULL,0,3,21,7,NULL,7,0,0,0,NULL,NCAAF
-222922005,2002,"Sat, Oct 19",Air Force Falcons,Notre Dame Fighting Irish,"6-1, 4-1 Home","7-0, 3-0 Away",14,21,NULL,NULL,Final,ESPN,7,0,7,0,NULL,7,7,7,0,NULL,NCAAF
-223060087,2002,"Sat, Nov 2",Notre Dame Fighting Irish,Boston College Eagles,"8-1, 4-1 Home","5-3, 1-2 Away",7,14,NULL,NULL,Final,NULL,0,0,0,7,NULL,6,8,0,0,NULL,NCAAF
-223270087,2002,"Sat, Nov 23",Notre Dame Fighting Irish,Rutgers Scarlet Knights,"10-1, 5-1 Home","1-10, 0-5 Away",42,0,NULL,NULL,Final,NULL,0,14,28,0,NULL,0,0,0,0,NULL,NCAAF
-223340030,2002,"Sat, Nov 30",USC Trojans,Notre Dame Fighting Irish,"10-2, 6-0 Home","10-2, 5-1 Away",44,13,NULL,NULL,Final,ABC,0,17,13,14,NULL,6,7,0,0,NULL,NCAAF
-230010087,2002,"Wed, Jan 1",Notre Dame Fighting Irish,NC State Wolfpack,"10-3, 5-2 Home","11-3, 5-2 Away",6,28,NULL,NULL,Final,NULL,3,0,3,0,NULL,0,21,0,7,NULL,NCAAF
+222500087,2002,"September 07, 2002",Notre Dame Fighting Irish,Purdue Boilermakers,"2-0, 1-0 Home","1-1, 0-1 Away",24,17,,,Final,,0,17,0,7,,0,7,7,3,,NCAAF
+222640127,2002,"September 21, 2002",Michigan State Spartans,Notre Dame Fighting Irish,"2-2, 2-2 Home","4-0, 2-0 Away",17,21,,,Final,,3,0,0,14,,7,7,0,7,,NCAAF
+222850087,2002,"October 12, 2002",Notre Dame Fighting Irish,Pittsburgh Panthers,"6-0, 4-0 Home","5-2, 2-1 Away",14,6,,,Final,,0,7,0,7,,3,3,0,0,,NCAAF
+222990052,2002,"October 26, 2002",Florida State Seminoles,Notre Dame Fighting Irish,"5-3, 3-1 Home","8-0, 4-0 Away",24,34,,,Final,ABC,3,7,0,14,,10,0,17,7,,NCAAF
+223132426,2002,"November 09, 2002",Navy Midshipmen,Notre Dame Fighting Irish,"1-8, 0-5 Home","9-1, 5-0 Away",23,30,,,Final,,7,0,16,0,,2,7,6,15,,NCAAF
+222430120,2002,"August 31, 2002",Maryland Terrapins,Notre Dame Fighting Irish,"0-1, 0-1 Home","1-0, 1-0 Away",0,22,,,Final,,0,0,0,0,,3,6,10,3,,NCAAF
+222570087,2002,"September 14, 2002",Notre Dame Fighting Irish,Michigan Wolverines,"3-0, 2-0 Home","2-1, 0-1 Away",25,23,,,Final,,7,9,0,9,,7,0,10,6,,NCAAF
+222780087,2002,"October 05, 2002",Notre Dame Fighting Irish,Stanford Cardinal,"5-0, 3-0 Home","1-3, 0-3 Away",31,7,,,Final,,0,3,21,7,,7,0,0,0,,NCAAF
+222922005,2002,"October 19, 2002",Air Force Falcons,Notre Dame Fighting Irish,"6-1, 4-1 Home","7-0, 3-0 Away",14,21,,,Final,ESPN,7,0,7,0,,7,7,7,0,,NCAAF
+223060087,2002,"November 02, 2002",Notre Dame Fighting Irish,Boston College Eagles,"8-1, 4-1 Home","5-3, 1-2 Away",7,14,,,Final,,0,0,0,7,,6,8,0,0,,NCAAF
+223270087,2002,"November 23, 2002",Notre Dame Fighting Irish,Rutgers Scarlet Knights,"10-1, 5-1 Home","1-10, 0-5 Away",42,0,,,Final,,0,14,28,0,,0,0,0,0,,NCAAF
+223340030,2002,"November 30, 2002",USC Trojans,Notre Dame Fighting Irish,"10-2, 6-0 Home","10-2, 5-1 Away",44,13,,,Final,ABC,0,17,13,14,,6,7,0,0,,NCAAF
+230010087,2002,"January 01, 2003",Notre Dame Fighting Irish,NC State Wolfpack,"10-3, 5-2 Home","11-3, 5-2 Away",6,28,,,Final,,3,0,3,0,,0,21,0,7,,NCAAF

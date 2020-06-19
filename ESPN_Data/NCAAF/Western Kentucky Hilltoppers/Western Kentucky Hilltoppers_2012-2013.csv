@@ -1,14 +1,14 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-322520333,2012,"Sat, Sep 8",Alabama Crimson Tide,Western Kentucky Hilltoppers,"2-0, 2-0 Home","1-1, 0-1 Away",35,0,NULL,NULL,Final,SECN,14,7,7,7,NULL,0,0,0,0,NULL,NCAAF
-322660098,2012,"Sat, Sep 22",Western Kentucky Hilltoppers,Southern Mississippi Golden Eagles,"3-1, 2-0 Home","0-3, 0-2 Away",42,17,NULL,NULL,Final,ESPN3,14,7,21,0,NULL,0,3,7,7,NULL,NCAAF
-322852653,2012,"Thu, Oct 11",Troy Trojans,Western Kentucky Hilltoppers,"3-3, 2-2 Conf","5-1, 2-0 Conf",26,31,NULL,NULL,Final,ESPNU,10,7,9,0,NULL,7,7,14,3,NULL,NCAAF
-323012229,2012,"Sat, Oct 27",Florida Intl Golden Panthers,Western Kentucky Hilltoppers,"1-8, 0-5 Conf","6-2, 3-1 Conf",6,14,NULL,NULL,Final,ESPN3,3,0,0,3,NULL,7,0,0,7,NULL,NCAAF
-323150098,2012,"Sat, Nov 10",Western Kentucky Hilltoppers,Florida Atlantic Owls,"6-4, 3-3 Conf","3-7, 2-4 Conf",28,37,NULL,NULL,Final,ESPN3,7,7,0,14,NULL,0,14,7,16,NULL,NCAAF
-322450098,2012,"Sat, Sep 1",Western Kentucky Hilltoppers,Austin Peay Governors,"1-0, 1-0 Home","0-1, 0-1 Away",49,10,NULL,NULL,Final,ESPN3,14,21,7,7,NULL,0,0,7,3,NULL,NCAAF
-322590096,2012,"Sat, Sep 15",Kentucky Wildcats,Western Kentucky Hilltoppers,"1-2, 1-1 Home","2-1, 1-1 Away",31,32,NULL,NULL,Final/OT,ESPNU,0,10,7,7,7,3,14,7,0,8,NCAAF
-322732032,2012,"Sat, Sep 29",Arkansas State Red Wolves,Western Kentucky Hilltoppers,"2-3, 0-1 Conf","4-1, 1-0 Conf",13,26,NULL,NULL,Final,ESPN3,3,10,0,0,NULL,0,0,14,12,NULL,NCAAF
-322940098,2012,"Sat, Oct 20",Western Kentucky Hilltoppers,Louisiana Monroe Warhawks,"5-2, 2-1 Conf","5-2, 3-0 Conf",42,43,NULL,NULL,Final/OT,ESPN3,7,21,0,7,7,0,21,0,14,8,NCAAF
-323060098,2012,"Thu, Nov 1",Western Kentucky Hilltoppers,Middle Tennessee Blue Raiders,"6-3, 3-2 Conf","6-3, 4-1 Conf",29,34,NULL,NULL,Final,ESPNU,7,10,7,5,NULL,10,7,7,10,NULL,NCAAF
-323220309,2012,"Sat, Nov 17",Louisiana Ragin' Cajuns,Western Kentucky Hilltoppers,"6-4, 4-2 Conf","6-5, 3-4 Conf",31,27,NULL,NULL,Final,ESPN3,0,10,7,14,NULL,0,10,3,14,NULL,NCAAF
-323290098,2012,"Sat, Nov 24",Western Kentucky Hilltoppers,North Texas Mean Green,"7-5, 4-4 Conf","4-8, 3-5 Conf",25,24,NULL,NULL,Final,NULL,7,3,0,15,NULL,7,10,7,0,NULL,NCAAF
-323612117,2012,"Wed, Dec 26",Central Michigan Chippewas,Western Kentucky Hilltoppers,7-6,7-6,24,21,NULL,NULL,Final,ESPN,14,3,0,7,NULL,7,7,7,0,NULL,NCAAF
+322520333,2012,"September 08, 2012",Alabama Crimson Tide,Western Kentucky Hilltoppers,"2-0, 2-0 Home","1-1, 0-1 Away",35,0,,,Final,SECN,14,7,7,7,,0,0,0,0,,NCAAF
+322660098,2012,"September 22, 2012",Western Kentucky Hilltoppers,Southern Mississippi Golden Eagles,"3-1, 2-0 Home","0-3, 0-2 Away",42,17,,,Final,ESPN3,14,7,21,0,,0,3,7,7,,NCAAF
+322852653,2012,"October 11, 2012",Troy Trojans,Western Kentucky Hilltoppers,"3-3, 2-2 Conf","5-1, 2-0 Conf",26,31,,,Final,ESPNU,10,7,9,0,,7,7,14,3,,NCAAF
+323012229,2012,"October 27, 2012",Florida Intl Golden Panthers,Western Kentucky Hilltoppers,"1-8, 0-5 Conf","6-2, 3-1 Conf",6,14,,,Final,ESPN3,3,0,0,3,,7,0,0,7,,NCAAF
+323150098,2012,"November 10, 2012",Western Kentucky Hilltoppers,Florida Atlantic Owls,"6-4, 3-3 Conf","3-7, 2-4 Conf",28,37,,,Final,ESPN3,7,7,0,14,,0,14,7,16,,NCAAF
+322450098,2012,"September 01, 2012",Western Kentucky Hilltoppers,Austin Peay Governors,"1-0, 1-0 Home","0-1, 0-1 Away",49,10,,,Final,ESPN3,14,21,7,7,,0,0,7,3,,NCAAF
+322590096,2012,"September 15, 2012",Kentucky Wildcats,Western Kentucky Hilltoppers,"1-2, 1-1 Home","2-1, 1-1 Away",31,32,,,Final/OT,ESPNU,0,10,7,7,7.0,3,14,7,0,8.0,NCAAF
+322732032,2012,"September 29, 2012",Arkansas State Red Wolves,Western Kentucky Hilltoppers,"2-3, 0-1 Conf","4-1, 1-0 Conf",13,26,,,Final,ESPN3,3,10,0,0,,0,0,14,12,,NCAAF
+322940098,2012,"October 20, 2012",Western Kentucky Hilltoppers,Louisiana Monroe Warhawks,"5-2, 2-1 Conf","5-2, 3-0 Conf",42,43,,,Final/OT,ESPN3,7,21,0,7,7.0,0,21,0,14,8.0,NCAAF
+323060098,2012,"November 01, 2012",Western Kentucky Hilltoppers,Middle Tennessee Blue Raiders,"6-3, 3-2 Conf","6-3, 4-1 Conf",29,34,,,Final,ESPNU,7,10,7,5,,10,7,7,10,,NCAAF
+323220309,2012,"November 17, 2012",Louisiana Ragin' Cajuns,Western Kentucky Hilltoppers,"6-4, 4-2 Conf","6-5, 3-4 Conf",31,27,,,Final,ESPN3,0,10,7,14,,0,10,3,14,,NCAAF
+323290098,2012,"November 24, 2012",Western Kentucky Hilltoppers,North Texas Mean Green,"7-5, 4-4 Conf","4-8, 3-5 Conf",25,24,,,Final,,7,3,0,15,,7,10,7,0,,NCAAF
+323612117,2012,"December 26, 2012",Central Michigan Chippewas,Western Kentucky Hilltoppers,7-6,7-6,24,21,,,Final,ESPN,14,3,0,7,,7,7,7,0,,NCAAF

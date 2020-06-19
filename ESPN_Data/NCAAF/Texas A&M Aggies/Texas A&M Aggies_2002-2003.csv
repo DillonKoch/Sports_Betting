@@ -1,13 +1,13 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-222500221,2002,"Sat, Sep 7",Pittsburgh Panthers,Texas A&M Aggies,"1-1, 1-1 Home","2-0, 1-0 Away",12,14,NULL,NULL,Final,NULL,0,0,0,12,NULL,0,7,7,0,NULL,NCAAF
-222710245,2002,"Sat, Sep 28",Texas A&M Aggies,Louisiana Tech Bulldogs,"3-1, 2-1 Home","2-3, 0-3 Away",31,3,NULL,NULL,Final,NULL,10,7,0,14,NULL,0,3,0,0,NULL,NCAAF
-222850239,2002,"Sat, Oct 12",Baylor Bears,Texas A&M Aggies,"3-3, 1-1 Conf","4-2, 1-1 Conf",0,41,NULL,NULL,Final,NULL,0,0,0,0,NULL,7,3,14,17,NULL,NCAAF
-222990245,2002,"Sat, Oct 26",Texas A&M Aggies,Nebraska Cornhuskers,"5-3, 2-2 Conf","6-3, 2-2 Conf",31,38,NULL,NULL,Final,NULL,14,7,10,0,NULL,7,7,7,17,NULL,NCAAF
-223130245,2002,"Sat, Nov 9",Texas A&M Aggies,Oklahoma Sooners,"6-4, 3-3 Conf","8-1, 4-1 Conf",30,26,NULL,NULL,Final,ABC,0,13,14,3,NULL,7,6,10,3,NULL,NCAAF
-222430245,2002,"Sat, Aug 31",Texas A&M Aggies,Louisiana Ragin' Cajuns,"1-0, 1-0 Home","0-1, 0-1 Away",31,7,NULL,NULL,Final,NULL,0,3,14,14,NULL,0,0,0,7,NULL,NCAAF
-222640245,2002,"Sat, Sep 21",Texas A&M Aggies,Virginia Tech Hokies,"2-1, 1-1 Home","4-0, 1-0 Away",3,13,NULL,NULL,Final,NULL,3,0,0,0,NULL,0,3,3,7,NULL,NCAAF
-222780245,2002,"Sat, Oct 5",Texas A&M Aggies,Texas Tech Red Raiders,"3-2, 0-1 Conf","4-2, 1-0 Conf",47,48,NULL,NULL,Final/OT,NULL,14,14,7,6,6,7,10,0,24,7,NCAAF
-222922305,2002,"Sat, Oct 19",Kansas Jayhawks,Texas A&M Aggies,"2-6, 0-4 Conf","5-2, 2-1 Conf",22,47,NULL,NULL,Final,NULL,0,0,7,15,NULL,0,24,7,16,NULL,NCAAF
-223060197,2002,"Sat, Nov 2",Oklahoma State Cowboys,Texas A&M Aggies,"4-4, 2-2 Conf","5-4, 2-3 Conf",28,23,NULL,NULL,Final,NULL,7,21,0,0,NULL,7,7,9,0,NULL,NCAAF
-223200245,2002,"Sat, Nov 16",Texas A&M Aggies,Missouri Tigers,"6-5, 3-4 Conf","5-6, 2-5 Conf",27,33,NULL,NULL,Final/2OT,NULL,3,0,7,14,3,3,14,0,7,9,NCAAF
-223330251,2002,"Fri, Nov 29",Texas Longhorns,Texas A&M Aggies,"10-2, 6-2 Conf","6-6, 3-5 Conf",50,20,NULL,NULL,Final,NULL,9,14,7,20,NULL,7,0,7,6,NULL,NCAAF
+222500221,2002,"September 07, 2002",Pittsburgh Panthers,Texas A&M Aggies,"1-1, 1-1 Home","2-0, 1-0 Away",12,14,,,Final,,0,0,0,12,,0,7,7,0,,NCAAF
+222710245,2002,"September 28, 2002",Texas A&M Aggies,Louisiana Tech Bulldogs,"3-1, 2-1 Home","2-3, 0-3 Away",31,3,,,Final,,10,7,0,14,,0,3,0,0,,NCAAF
+222850239,2002,"October 12, 2002",Baylor Bears,Texas A&M Aggies,"3-3, 1-1 Conf","4-2, 1-1 Conf",0,41,,,Final,,0,0,0,0,,7,3,14,17,,NCAAF
+222990245,2002,"October 26, 2002",Texas A&M Aggies,Nebraska Cornhuskers,"5-3, 2-2 Conf","6-3, 2-2 Conf",31,38,,,Final,,14,7,10,0,,7,7,7,17,,NCAAF
+223130245,2002,"November 09, 2002",Texas A&M Aggies,Oklahoma Sooners,"6-4, 3-3 Conf","8-1, 4-1 Conf",30,26,,,Final,ABC,0,13,14,3,,7,6,10,3,,NCAAF
+222430245,2002,"August 31, 2002",Texas A&M Aggies,Louisiana Ragin' Cajuns,"1-0, 1-0 Home","0-1, 0-1 Away",31,7,,,Final,,0,3,14,14,,0,0,0,7,,NCAAF
+222640245,2002,"September 21, 2002",Texas A&M Aggies,Virginia Tech Hokies,"2-1, 1-1 Home","4-0, 1-0 Away",3,13,,,Final,,3,0,0,0,,0,3,3,7,,NCAAF
+222780245,2002,"October 05, 2002",Texas A&M Aggies,Texas Tech Red Raiders,"3-2, 0-1 Conf","4-2, 1-0 Conf",47,48,,,Final/OT,,14,14,7,6,6.0,7,10,0,24,7.0,NCAAF
+222922305,2002,"October 19, 2002",Kansas Jayhawks,Texas A&M Aggies,"2-6, 0-4 Conf","5-2, 2-1 Conf",22,47,,,Final,,0,0,7,15,,0,24,7,16,,NCAAF
+223060197,2002,"November 02, 2002",Oklahoma State Cowboys,Texas A&M Aggies,"4-4, 2-2 Conf","5-4, 2-3 Conf",28,23,,,Final,,7,21,0,0,,7,7,9,0,,NCAAF
+223200245,2002,"November 16, 2002",Texas A&M Aggies,Missouri Tigers,"6-5, 3-4 Conf","5-6, 2-5 Conf",27,33,,,Final/2OT,,3,0,7,14,3.0,3,14,0,7,9.0,NCAAF
+223330251,2002,"November 29, 2002",Texas Longhorns,Texas A&M Aggies,"10-2, 6-2 Conf","6-6, 3-5 Conf",50,20,,,Final,,9,14,7,20,,7,0,7,6,,NCAAF

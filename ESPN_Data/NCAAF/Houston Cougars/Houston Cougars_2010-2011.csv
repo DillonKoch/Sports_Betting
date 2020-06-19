@@ -1,13 +1,13 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-302530248,2010,"Fri, Sep 10",Houston Cougars,UTEP Miners,"2-0, 1-0 Conf","1-1, 0-1 Conf",54,24,NULL,NULL,Final,ESPN,14,17,6,17,NULL,7,3,7,7,NULL,NCAAF
-302680248,2010,"Sat, Sep 25",Houston Cougars,Tulane Green Wave,"3-1, 2-0 Conf","1-2, 0-1 Conf",42,23,NULL,NULL,Final,NULL,7,21,0,14,NULL,0,14,3,6,NULL,NCAAF
-302890242,2010,"Sat, Oct 16",Rice Owls,Houston Cougars,"2-5, 1-2 Conf","3-3, 2-1 Conf",34,31,NULL,NULL,Final,NULL,13,14,0,7,NULL,7,7,14,3,NULL,NCAAF
-303030235,2010,"Sat, Oct 30",Memphis Tigers,Houston Cougars,"1-7, 0-5 Conf","5-3, 4-1 Conf",17,56,NULL,NULL,Final,NULL,3,0,0,14,NULL,7,28,14,7,NULL,NCAAF
-303170248,2010,"Sat, Nov 13",Houston Cougars,Tulsa Golden Hurricane,"5-5, 4-3 Conf","7-3, 4-2 Conf",25,28,NULL,NULL,Final,NULL,0,7,10,8,NULL,7,14,7,0,NULL,NCAAF
-302470248,2010,"Sat, Sep 4",Houston Cougars,Texas State Bobcats,"1-0, 1-0 Home","0-1, 0-1 Away",68,28,NULL,NULL,Final,NULL,20,34,14,0,NULL,7,0,7,14,NULL,NCAAF
-302610026,2010,"Sat, Sep 18",UCLA Bruins,Houston Cougars,"1-2, 1-1 Home","2-1, 0-1 Away",31,13,NULL,NULL,Final,NULL,7,14,10,0,NULL,3,0,0,10,NULL,NCAAF
-302820248,2010,"Sat, Oct 9",Houston Cougars,Mississippi State Bulldogs,"3-2, 3-1 Home","4-2, 1-1 Away",24,47,NULL,NULL,Final,NULL,7,3,7,7,NULL,23,10,7,7,NULL,NCAAF
-302962567,2010,"Sat, Oct 23",SMU Mustangs,Houston Cougars,"4-4, 3-1 Conf","4-3, 3-1 Conf",20,45,NULL,NULL,Final,NULL,7,3,7,3,NULL,7,17,7,14,NULL,NCAAF
-303090248,2010,"Fri, Nov 5",Houston Cougars,UCF Knights,"5-4, 4-2 Conf","7-2, 5-0 Conf",33,40,NULL,NULL,Final,ESPN2,3,7,14,9,NULL,7,16,7,10,NULL,NCAAF
-303242572,2010,"Sat, Nov 20",Southern Mississippi Golden Eagles,Houston Cougars,"8-3, 5-2 Conf","5-6, 4-4 Conf",59,41,NULL,NULL,Final,NULL,14,10,14,21,NULL,13,7,0,21,NULL,NCAAF
-303312641,2010,"Sat, Nov 27",Texas Tech Red Raiders,Houston Cougars,"7-5, 5-2 Home","5-7, 2-4 Away",35,20,NULL,NULL,Final,NULL,14,7,7,7,NULL,10,3,0,7,NULL,NCAAF
+302530248,2010,"September 10, 2010",Houston Cougars,UTEP Miners,"2-0, 1-0 Conf","1-1, 0-1 Conf",54,24,,,Final,ESPN,14,17,6,17,,7,3,7,7,,NCAAF
+302680248,2010,"September 25, 2010",Houston Cougars,Tulane Green Wave,"3-1, 2-0 Conf","1-2, 0-1 Conf",42,23,,,Final,,7,21,0,14,,0,14,3,6,,NCAAF
+302890242,2010,"October 16, 2010",Rice Owls,Houston Cougars,"2-5, 1-2 Conf","3-3, 2-1 Conf",34,31,,,Final,,13,14,0,7,,7,7,14,3,,NCAAF
+303030235,2010,"October 30, 2010",Memphis Tigers,Houston Cougars,"1-7, 0-5 Conf","5-3, 4-1 Conf",17,56,,,Final,,3,0,0,14,,7,28,14,7,,NCAAF
+303170248,2010,"November 13, 2010",Houston Cougars,Tulsa Golden Hurricane,"5-5, 4-3 Conf","7-3, 4-2 Conf",25,28,,,Final,,0,7,10,8,,7,14,7,0,,NCAAF
+302470248,2010,"September 04, 2010",Houston Cougars,Texas State Bobcats,"1-0, 1-0 Home","0-1, 0-1 Away",68,28,,,Final,,20,34,14,0,,7,0,7,14,,NCAAF
+302610026,2010,"September 18, 2010",UCLA Bruins,Houston Cougars,"1-2, 1-1 Home","2-1, 0-1 Away",31,13,,,Final,,7,14,10,0,,3,0,0,10,,NCAAF
+302820248,2010,"October 09, 2010",Houston Cougars,Mississippi State Bulldogs,"3-2, 3-1 Home","4-2, 1-1 Away",24,47,,,Final,,7,3,7,7,,23,10,7,7,,NCAAF
+302962567,2010,"October 23, 2010",SMU Mustangs,Houston Cougars,"4-4, 3-1 Conf","4-3, 3-1 Conf",20,45,,,Final,,7,3,7,3,,7,17,7,14,,NCAAF
+303090248,2010,"November 05, 2010",Houston Cougars,UCF Knights,"5-4, 4-2 Conf","7-2, 5-0 Conf",33,40,,,Final,ESPN2,3,7,14,9,,7,16,7,10,,NCAAF
+303242572,2010,"November 20, 2010",Southern Mississippi Golden Eagles,Houston Cougars,"8-3, 5-2 Conf","5-6, 4-4 Conf",59,41,,,Final,,14,10,14,21,,13,7,0,21,,NCAAF
+303312641,2010,"November 27, 2010",Texas Tech Red Raiders,Houston Cougars,"7-5, 5-2 Home","5-7, 2-4 Away",35,20,,,Final,,14,7,7,7,,10,3,0,7,,NCAAF

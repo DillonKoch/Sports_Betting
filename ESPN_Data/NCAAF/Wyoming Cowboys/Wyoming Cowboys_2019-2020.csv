@@ -1,14 +1,14 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-401117500,2019,"Sat, Sep 7",Texas State Bobcats,Wyoming Cowboys,"0-2, 0-1 Home","2-0, 1-0 Away",14,23,WYO -7.5,47,Final,ESPN+,7,7,0,0,NULL,0,10,10,3,NULL,NCAAF
-401117509,2019,"Sat, Sep 21",Tulsa Golden Hurricane,Wyoming Cowboys,"2-2, 1-1 Home","3-1, 1-1 Away",24,21,TLSA -4.5,46,Final,CBSSN,0,14,3,7,NULL,7,0,0,14,NULL,NCAAF
-401117523,2019,"Sat, Oct 12",San Diego State Aztecs,Wyoming Cowboys,"5-1, 2-1 Conf","4-2, 1-1 Conf",26,22,SDSU -3.5,38,Final,CBSSN,3,3,13,7,NULL,0,14,0,8,NULL,NCAAF
-401117533,2019,"Sat, Oct 26",Wyoming Cowboys,Nevada Wolf Pack,"6-2, 3-1 Conf","4-4, 1-3 Conf",31,3,WYO -13.5,45,Final,NULL,14,10,7,0,NULL,3,0,0,0,NULL,NCAAF
-401117546,2019,"Sat, Nov 16",Utah State Aggies,Wyoming Cowboys,"6-4, 5-1 Conf","6-4, 3-3 Conf",26,21,USU -4.5,51,Final,ESPNU,0,20,3,3,NULL,0,14,0,7,NULL,NCAAF
-401110728,2019,"Sat, Aug 31",Wyoming Cowboys,Missouri Tigers,"1-0, 1-0 Home","0-1, 0-1 Away",37,31,MIZ -16.5,54,Final,CBSSN,0,27,7,3,NULL,14,3,0,14,NULL,NCAAF
-401117504,2019,"Sat, Sep 14",Wyoming Cowboys,Idaho Vandals,"3-0, 2-0 Home","1-2, 0-2 Away",21,16,NULL,NULL,Final,ESPN3,0,14,0,7,NULL,3,7,3,3,NULL,NCAAF
-401117514,2019,"Sat, Sep 28",Wyoming Cowboys,UNLV Rebels,"4-1, 1-0 Conf","1-3, 0-1 Conf",53,17,WYO -8.5,45,Final,ESPNU,7,26,0,20,NULL,10,0,0,7,NULL,NCAAF
-401117526,2019,"Sat, Oct 19",Wyoming Cowboys,New Mexico Lobos,"5-2, 2-1 Conf","2-5, 0-3 Conf",23,10,WYO -17.0,51,Final,NULL,7,0,6,10,NULL,0,0,0,10,NULL,NCAAF
-401117541,2019,"Sat, Nov 9",Boise State Broncos,Wyoming Cowboys,"8-1, 5-0 Conf","6-3, 3-2 Conf",20,17,BSU -16.0,48,Final/OT,ESPN,7,0,3,7,3,0,10,7,0,0,NCAAF
-401117550,2019,"Fri, Nov 22",Wyoming Cowboys,Colorado State Rams,"7-4, 4-3 Conf","4-7, 3-4 Conf",17,7,WYO -4.5,51,Final,ESPN2,0,7,7,3,NULL,0,7,0,0,NULL,NCAAF
-401117556,2019,"Sat, Nov 30",Air Force Falcons,Wyoming Cowboys,"10-2, 7-1 Conf","7-5, 4-4 Conf",20,6,AFA -13.0,41,Final,NULL,0,7,3,10,NULL,0,0,0,6,NULL,NCAAF
-401147695,2019,"Tue, Dec 31",Georgia State Panthers,Wyoming Cowboys,7-6,8-5,17,38,WYO -7.5,49,Final,CBSSN,7,3,7,0,NULL,17,7,14,0,NULL,NCAAF
+401117500,2019,"September 07, 2019",Texas State Bobcats,Wyoming Cowboys,"0-2, 0-1 Home","2-0, 1-0 Away",14,23,WYO -7.5,47.0,Final,ESPN+,7,7,0,0,,0,10,10,3,,NCAAF
+401117509,2019,"September 21, 2019",Tulsa Golden Hurricane,Wyoming Cowboys,"2-2, 1-1 Home","3-1, 1-1 Away",24,21,TLSA -4.5,46.0,Final,CBSSN,0,14,3,7,,7,0,0,14,,NCAAF
+401117523,2019,"October 12, 2019",San Diego State Aztecs,Wyoming Cowboys,"5-1, 2-1 Conf","4-2, 1-1 Conf",26,22,SDSU -3.5,38.0,Final,CBSSN,3,3,13,7,,0,14,0,8,,NCAAF
+401117533,2019,"October 26, 2019",Wyoming Cowboys,Nevada Wolf Pack,"6-2, 3-1 Conf","4-4, 1-3 Conf",31,3,WYO -13.5,45.0,Final,,14,10,7,0,,3,0,0,0,,NCAAF
+401117546,2019,"November 16, 2019",Utah State Aggies,Wyoming Cowboys,"6-4, 5-1 Conf","6-4, 3-3 Conf",26,21,USU -4.5,51.0,Final,ESPNU,0,20,3,3,,0,14,0,7,,NCAAF
+401110728,2019,"August 31, 2019",Wyoming Cowboys,Missouri Tigers,"1-0, 1-0 Home","0-1, 0-1 Away",37,31,MIZ -16.5,54.0,Final,CBSSN,0,27,7,3,,14,3,0,14,,NCAAF
+401117504,2019,"September 14, 2019",Wyoming Cowboys,Idaho Vandals,"3-0, 2-0 Home","1-2, 0-2 Away",21,16,,,Final,ESPN3,0,14,0,7,,3,7,3,3,,NCAAF
+401117514,2019,"September 28, 2019",Wyoming Cowboys,UNLV Rebels,"4-1, 1-0 Conf","1-3, 0-1 Conf",53,17,WYO -8.5,45.0,Final,ESPNU,7,26,0,20,,10,0,0,7,,NCAAF
+401117526,2019,"October 19, 2019",Wyoming Cowboys,New Mexico Lobos,"5-2, 2-1 Conf","2-5, 0-3 Conf",23,10,WYO -17.0,51.0,Final,,7,0,6,10,,0,0,0,10,,NCAAF
+401117541,2019,"November 09, 2019",Boise State Broncos,Wyoming Cowboys,"8-1, 5-0 Conf","6-3, 3-2 Conf",20,17,BSU -16.0,48.0,Final/OT,ESPN,7,0,3,7,3.0,0,10,7,0,0.0,NCAAF
+401117550,2019,"November 22, 2019",Wyoming Cowboys,Colorado State Rams,"7-4, 4-3 Conf","4-7, 3-4 Conf",17,7,WYO -4.5,51.0,Final,ESPN2,0,7,7,3,,0,7,0,0,,NCAAF
+401117556,2019,"November 30, 2019",Air Force Falcons,Wyoming Cowboys,"10-2, 7-1 Conf","7-5, 4-4 Conf",20,6,AFA -13.0,41.0,Final,,0,7,3,10,,0,0,0,6,,NCAAF
+401147695,2019,"December 31, 2019",Georgia State Panthers,Wyoming Cowboys,7-6,8-5,17,38,WYO -7.5,49.0,Final,CBSSN,7,3,7,0,,17,7,14,0,,NCAAF

@@ -1,14 +1,14 @@
 ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-400756893,2015,"Sat, Sep 12",Arizona State Sun Devils,Cal Poly Mustangs,"1-1, 1-0 Home","1-1, 1-1 Away",35,21,NULL,NULL,Final,PAC12,7,14,0,14,NULL,0,14,7,0,NULL,NCAAF
-400757037,2015,"Sat, Sep 26",Arizona State Sun Devils,USC Trojans,"2-2, 0-1 Conf","3-1, 1-1 Conf",14,42,NULL,NULL,Final,ESPN,0,0,7,7,NULL,7,28,0,7,NULL,NCAAF
-400757047,2015,"Sat, Oct 10",Arizona State Sun Devils,Colorado Buffaloes,"4-2, 2-1 Conf","3-3, 0-2 Conf",48,23,NULL,NULL,Final,PAC12,17,7,14,10,NULL,7,3,7,6,NULL,NCAAF
-400757061,2015,"Thu, Oct 29",Arizona State Sun Devils,Oregon Ducks,"4-4, 2-3 Conf","5-3, 3-2 Conf",55,61,NULL,NULL,Final/3OT,ESPN,0,14,17,10,14,10,7,17,7,20,NCAAF
-400757075,2015,"Sat, Nov 14",Arizona State Sun Devils,Washington Huskies,"5-5, 3-4 Conf","4-6, 2-5 Conf",27,17,NULL,NULL,Final,PAC12,0,3,7,17,NULL,10,7,0,0,NULL,NCAAF
-400603838,2015,"Sat, Sep 5",Texas A&M Aggies,Arizona State Sun Devils,1-0,0-1,38,17,NULL,NULL,Final,ESPN,7,7,3,21,NULL,0,7,7,3,NULL,NCAAF
-400787241,2015,"Fri, Sep 18",Arizona State Sun Devils,New Mexico Lobos,"2-1, 2-0 Home","1-2, 0-1 Away",34,10,NULL,NULL,Final,PAC12,0,10,14,10,NULL,0,0,10,0,NULL,NCAAF
-400757042,2015,"Sat, Oct 3",UCLA Bruins,Arizona State Sun Devils,"4-1, 1-1 Conf","3-2, 1-1 Conf",23,38,NULL,NULL,Final,FOX,0,10,0,13,NULL,9,6,14,9,NULL,NCAAF
-400757052,2015,"Sat, Oct 17",Utah Utes,Arizona State Sun Devils,"6-0, 3-0 Conf","4-3, 2-2 Conf",34,18,NULL,NULL,Final,ESPN,7,7,0,20,NULL,10,0,8,0,NULL,NCAAF
-400757068,2015,"Sat, Nov 7",Washington State Cougars,Arizona State Sun Devils,"6-3, 4-2 Conf","4-5, 2-4 Conf",38,24,NULL,NULL,Final,FS1,0,10,7,21,NULL,14,0,7,3,NULL,NCAAF
-400757079,2015,"Sat, Nov 21",Arizona State Sun Devils,Arizona Wildcats,"6-5, 4-4 Conf","6-6, 3-6 Conf",52,37,NULL,NULL,Final,NULL,14,17,0,21,NULL,0,10,13,14,NULL,NCAAF
-400757087,2015,"Sat, Nov 28",California Golden Bears,Arizona State Sun Devils,"7-5, 4-5 Conf","6-6, 4-5 Conf",48,46,NULL,NULL,Final,FS1,3,7,21,17,NULL,10,17,6,13,NULL,NCAAF
-400852742,2015,"Sat, Jan 2",Arizona State Sun Devils,West Virginia Mountaineers,6-7,8-5,42,43,NULL,NULL,Final,ESPN,3,15,14,10,NULL,9,13,14,7,NULL,NCAAF
+400756893,2015,"September 12, 2015",Arizona State Sun Devils,Cal Poly Mustangs,"1-1, 1-0 Home","1-1, 1-1 Away",35,21,,,Final,PAC12,7,14,0,14,,0,14,7,0,,NCAAF
+400757037,2015,"September 26, 2015",Arizona State Sun Devils,USC Trojans,"2-2, 0-1 Conf","3-1, 1-1 Conf",14,42,,,Final,ESPN,0,0,7,7,,7,28,0,7,,NCAAF
+400757047,2015,"October 10, 2015",Arizona State Sun Devils,Colorado Buffaloes,"4-2, 2-1 Conf","3-3, 0-2 Conf",48,23,,,Final,PAC12,17,7,14,10,,7,3,7,6,,NCAAF
+400757061,2015,"October 29, 2015",Arizona State Sun Devils,Oregon Ducks,"4-4, 2-3 Conf","5-3, 3-2 Conf",55,61,,,Final/3OT,ESPN,0,14,17,10,14.0,10,7,17,7,20.0,NCAAF
+400757075,2015,"November 14, 2015",Arizona State Sun Devils,Washington Huskies,"5-5, 3-4 Conf","4-6, 2-5 Conf",27,17,,,Final,PAC12,0,3,7,17,,10,7,0,0,,NCAAF
+400603838,2015,"September 05, 2015",Texas A&M Aggies,Arizona State Sun Devils,1-0,0-1,38,17,,,Final,ESPN,7,7,3,21,,0,7,7,3,,NCAAF
+400787241,2015,"September 18, 2015",Arizona State Sun Devils,New Mexico Lobos,"2-1, 2-0 Home","1-2, 0-1 Away",34,10,,,Final,PAC12,0,10,14,10,,0,0,10,0,,NCAAF
+400757042,2015,"October 03, 2015",UCLA Bruins,Arizona State Sun Devils,"4-1, 1-1 Conf","3-2, 1-1 Conf",23,38,,,Final,FOX,0,10,0,13,,9,6,14,9,,NCAAF
+400757052,2015,"October 17, 2015",Utah Utes,Arizona State Sun Devils,"6-0, 3-0 Conf","4-3, 2-2 Conf",34,18,,,Final,ESPN,7,7,0,20,,10,0,8,0,,NCAAF
+400757068,2015,"November 07, 2015",Washington State Cougars,Arizona State Sun Devils,"6-3, 4-2 Conf","4-5, 2-4 Conf",38,24,,,Final,FS1,0,10,7,21,,14,0,7,3,,NCAAF
+400757079,2015,"November 21, 2015",Arizona State Sun Devils,Arizona Wildcats,"6-5, 4-4 Conf","6-6, 3-6 Conf",52,37,,,Final,,14,17,0,21,,0,10,13,14,,NCAAF
+400757087,2015,"November 28, 2015",California Golden Bears,Arizona State Sun Devils,"7-5, 4-5 Conf","6-6, 4-5 Conf",48,46,,,Final,FS1,3,7,21,17,,10,17,6,13,,NCAAF
+400852742,2015,"January 02, 2016",Arizona State Sun Devils,West Virginia Mountaineers,6-7,8-5,42,43,,,Final,ESPN,3,15,14,10,,9,13,14,7,,NCAAF
