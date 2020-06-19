@@ -4,7 +4,7 @@
 # File Created: Saturday, 23rd May 2020 11:04:56 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Friday, 19th June 2020 2:06:01 pm
+# Last Modified: Friday, 19th June 2020 2:26:10 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -125,7 +125,7 @@ class ESPN_Season_Scraper:
         df.loc[len(df)] = row
         return df
 
-    def scrape_season(self, team_abbrev, year, season_type=2):
+    def scrape_season(self, team_abbrev, year, season_type=2):  # Top Level
         df = self._make_season_df()
         game_sections = self._get_game_sections(team_abbrev, year, season_type)
         for section in tqdm(game_sections):
@@ -137,8 +137,15 @@ class ESPN_Season_Scraper:
             time.sleep(5)
         return df
 
-    def find_years_unscraped(self, team_abbrev):  # Top Level
-        path = self.root_path + "ESPN_Data/{}/{}/".format(self.league, team_abbrev)
+    def scrape_playoffs(self, team_abbrev, team_name, year):  # Run
+        """
+        ONLY USED FOR NBA SINCE THEIR PLAYOFF GAMES ARE ON A SEPARATE PAGE
+        """
+        df_path = ROOT_PATH + "/ESPN_Data/NBA/{}/"
+        df = pd.read_csv(df_path)
+
+    def find_years_unscraped(self, team_name):  # Top Level
+        path = self.root_path + "ESPN_Data/{}/{}/".format(self.league, team_name)
         beginning_year = 1999 if self.league == "NCAAF" else 2002 if self.league == 'NCAAB' else 1993
         all_years = [str(item) for item in list(range(beginning_year, 2020, 1))]
         years_found = []
@@ -146,7 +153,7 @@ class ESPN_Season_Scraper:
         for filename in os.listdir(path):
             match = re.search(year_comp, filename)
             if match:
-                year = match.group(0)
+                year = match.group(1)
                 years_found.append(year)
         return [item for item in all_years if item not in years_found]
 
@@ -160,9 +167,7 @@ class ESPN_Season_Scraper:
             year2 = year
         return year1, year2
 
-    def scrape_team_history(self, team_abbrev, name=None):  # Run
-        if name is None:
-            name = team_abbrev
+    def scrape_team_history(self, team_abbrev, name):  # Run
         years_unscraped = self.find_years_unscraped(name)
         for year in years_unscraped:
             print("Scraping data for {} {}".format(name, year))
@@ -183,20 +188,17 @@ class ESPN_Season_Scraper:
                 time.sleep(1)
 
 
-def parse_league():  # Parse
-    return None
-
-
 if __name__ == "__main__":
 
-    # nfl = ESPN_Season_Scraper("NFL")
-    # nba = ESPN_Season_Scraper("NBA")
-    # ncaaf = ESPN_Season_Scraper("NCAAF")
-    # ncaab = ESPN_Season_Scraper("NCAAB")
+    nfl = ESPN_Season_Scraper("NFL")
+    nba = ESPN_Season_Scraper("NBA")
+    ncaaf = ESPN_Season_Scraper("NCAAF")
+    ncaab = ESPN_Season_Scraper("NCAAB")
 
     # team_abbrev = 2294
     # name = "Iowa Hawkeyes"
     # year = 2019
     # season_type = 2
-    x = ESPN_Season_Scraper("NFL")
-    x.scrape_all_leauge_history()
+    name = "Atlanta Hawks"
+    # x = ESPN_Season_Scraper("NBA")
+    # x.scrape_all_leauge_history()
