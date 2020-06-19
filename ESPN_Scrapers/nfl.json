@@ -1,4 +1,32 @@
 {
+    "DF Columns": [
+        "ESPN_ID",
+        "Season",
+        "Date",
+        "Home",
+        "Away",
+        "Home_Record",
+        "Away_Record",
+        "Home_Score",
+        "Away_Score",
+        "Line",
+        "Over_Under",
+        "Final_Status",
+        "Network",
+        "HQ1",
+        "HQ2",
+        "HQ3",
+        "HQ4",
+        "HOT",
+        "AQ1",
+        "AQ2",
+        "AQ3",
+        "AQ4",
+        "AOT",
+        "Week",
+        "League"
+    ],
+    "Season Base Link": "https://www.espn.com/nfl/team/schedule/_/name/{team_abbrev}/season/{year}",
     "Teams": [
         [
             "Arizona Cardinals",
@@ -128,33 +156,5 @@
             "Washington Redskins",
             "wsh"
         ]
-    ],
-    "Season Base Link": "https://www.espn.com/nfl/team/schedule/_/name/{team_abbrev}/season/{year}",
-    "DF Columns": [
-        "ESPN_ID",
-        "Season",
-        "Date",
-        "Home",
-        "Away",
-        "Home_Record",
-        "Away_Record",
-        "Home_Score",
-        "Away_Score",
-        "Line",
-        "Over_Under",
-        "Final_Status",
-        "Network",
-        "HQ1",
-        "HQ2",
-        "HQ3",
-        "HQ4",
-        "HOT",
-        "AQ1",
-        "AQ2",
-        "AQ3",
-        "AQ4",
-        "AOT",
-        "Week",
-        "League"
     ]
 }

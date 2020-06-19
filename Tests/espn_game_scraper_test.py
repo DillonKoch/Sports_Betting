@@ -4,7 +4,7 @@
 # File Created: Friday, 10th April 2020 11:25:21 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Friday, 19th June 2020 8:54:49 am
+# Last Modified: Friday, 19th June 2020 10:39:53 am
 # Modified By: Dillon Koch
 # -----
 #
@@ -129,6 +129,7 @@ class Test_ESPN_Game_Scraper(TestCase):
         self.assertEqual("FOX/NFL", game.network)
         self.assertEqual("CLE -3.0", game.line)
         self.assertEqual("42", game.over_under)
+        self.assertEqual("November 14, 2019", game.game_date)
 
     def test_nba_team_names(self):
         home_name, away_name = self.espn._team_names("NBA", self.nba_game_id, sp=self.nba_sp)
@@ -220,6 +221,7 @@ class Test_ESPN_Game_Scraper(TestCase):
         self.assertEqual("NULL", game.network)
         self.assertEqual("DET -4.0", game.line)
         self.assertEqual("223", game.over_under)
+        self.assertEqual("November 11, 2019", game.game_date)
 
     def test_ncaaf_team_names(self):
         home_name, away_name = self.espn._team_names("NCAAF", self.ncaaf_game_id, self.ncaaf_sp)
@@ -311,6 +313,7 @@ class Test_ESPN_Game_Scraper(TestCase):
         self.assertEqual("FOX", game.network)
         self.assertEqual("IOWA -3.0", game.line)
         self.assertEqual("45", game.over_under)
+        self.assertEqual("November 16, 2019", game.game_date)
 
     def test_ncaab_team_names(self):
         home_name, away_name = self.espn._team_names("NCAAB", self.ncaab_game_id, self.ncaab_sp)
@@ -401,6 +404,7 @@ class Test_ESPN_Game_Scraper(TestCase):
         self.assertEqual("51", game.away_score)
         self.assertEqual("ILL -6.0", game.line)
         self.assertEqual("135", game.over_under)
+        self.assertEqual("January 30, 2020", game.game_date)
 
     def test_hockey_team_names(self):
         home_name, away_name = self.espn._hockey_team_names(self.hockey_game_id, sp=self.hockey_sp)

@@ -1,4 +1,31 @@
 {
+    "DF Columns": [
+        "ESPN_ID",
+        "Season",
+        "Date",
+        "Home",
+        "Away",
+        "Home_Record",
+        "Away_Record",
+        "Home_Score",
+        "Away_Score",
+        "Line",
+        "Over_Under",
+        "Final_Status",
+        "Network",
+        "HQ1",
+        "HQ2",
+        "HQ3",
+        "HQ4",
+        "HOT",
+        "AQ1",
+        "AQ2",
+        "AQ3",
+        "AQ4",
+        "AOT",
+        "League"
+    ],
+    "Season Base Link": "https://www.espn.com/nba/team/schedule/_/name/{team_abbrev}/season/{year}/seasontype/{season_type}",
     "Teams": [
         [
             "Atlanta Hawks",
@@ -120,32 +147,5 @@
             "Washington Wizards",
             "wsh"
         ]
-    ],
-    "Season Base Link": "https://www.espn.com/nba/team/schedule/_/name/{team_abbrev}/season/{year}/seasontype/{season_type}",
-    "DF Columns": [
-        "ESPN_ID",
-        "Season",
-        "Date",
-        "Home",
-        "Away",
-        "Home_Record",
-        "Away_Record",
-        "Home_Score",
-        "Away_Score",
-        "Line",
-        "Over_Under",
-        "Final_Status",
-        "Network",
-        "HQ1",
-        "HQ2",
-        "HQ3",
-        "HQ4",
-        "HOT",
-        "AQ1",
-        "AQ2",
-        "AQ3",
-        "AQ4",
-        "AOT",
-        "League"
     ]
 }
