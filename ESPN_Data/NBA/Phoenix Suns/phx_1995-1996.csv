@@ -1,83 +1,83 @@
-,Unnamed: 0,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-0,0,151105021,1995,"Sun, Nov 5",Phoenix Suns,Houston Rockets,"0-2, 0-1 Home","2-0, 1-0 Away",104,106,,,Final,,22,30,31,21,,22,29,31,24,,NBA
-1,1,151108002,1995,"Wed, Nov 8",Boston Celtics,Phoenix Suns,"1-2, 1-1 Home","1-3, 1-2 Away",113,109,,,Final,,33,29,22,29,,39,18,31,21,,NBA
-2,2,151112021,1995,"Sun, Nov 12",Phoenix Suns,Golden State Warriors,"3-3, 1-1 Home","2-4, 0-3 Away",112,109,,,Final,,25,32,21,34,,33,30,23,23,,NBA
-3,3,151117023,1995,"Fri, Nov 17",Sacramento Kings,Phoenix Suns,"7-2, 3-1 Home","3-5, 2-3 Away",105,96,,,Final,,20,36,18,31,,23,29,25,19,,NBA
-4,4,151122021,1995,"Wed, Nov 22",Phoenix Suns,Atlanta Hawks,"5-5, 3-2 Home","6-5, 4-3 Away",117,112,,,Final,,27,31,33,26,,28,25,33,26,,NBA
-5,5,151127021,1995,"Mon, Nov 27",Phoenix Suns,Utah Jazz,"6-6, 4-3 Home","11-4, 5-3 Away",105,114,,,Final,,30,20,28,27,,28,24,36,26,,NBA
-6,6,151201021,1995,"Fri, Dec 1",Phoenix Suns,Minnesota Timberwolves,"7-7, 5-3 Home","3-10, 1-5 Away",111,105,,,Final,,27,32,24,28,,34,21,23,27,,NBA
-7,7,151205021,1995,"Tue, Dec 5",Phoenix Suns,Vancouver Grizzlies,"8-8, 6-3 Home","2-16, 1-11 Away",112,108,,,Final,,32,23,32,25,,19,22,31,36,,NBA
-8,8,151209021,1995,"Sat, Dec 9",Phoenix Suns,Miami Heat,"8-10, 6-4 Home","12-5, 4-3 Away",92,94,,,Final,,16,27,22,27,,22,29,18,25,,NBA
-9,9,151216006,1995,"Sat, Dec 16",Dallas Mavericks,Phoenix Suns,"7-14, 4-6 Home","9-11, 3-6 Away",108,111,,,Final/OT,,19,21,39,21,8.0,32,26,23,19,11.0,NBA
-10,10,151220021,1995,"Wed, Dec 20",Phoenix Suns,Washington Bullets,"10-12, 7-5 Home","12-11, 4-7 Away",106,104,,,Final/OT,,22,26,28,20,10.0,29,29,21,17,8.0,NBA
-11,11,151225021,1995,"Mon, Dec 25",Phoenix Suns,San Antonio Spurs,"11-13, 7-6 Home","17-7, 7-4 Away",100,105,,,Final,,21,36,27,16,,31,21,24,29,,NBA
-12,12,151229021,1995,"Fri, Dec 29",Phoenix Suns,Denver Nuggets,"13-13, 9-6 Home","12-16, 5-12 Away",103,92,,,Final,,23,23,29,28,,24,18,16,34,,NBA
-13,13,160104021,1995,"Thu, Jan 4",Phoenix Suns,Minnesota Timberwolves,"13-15, 9-8 Home","8-21, 3-12 Away",93,98,,,Final,,19,27,28,19,,26,17,29,26,,NBA
-14,14,160109021,1995,"Tue, Jan 9",Phoenix Suns,Los Angeles Clippers,"13-17, 9-9 Home","14-20, 6-13 Away",100,105,,,Final,,19,28,28,25,,27,24,28,26,,NBA
-15,15,160112021,1995,"Fri, Jan 12",Phoenix Suns,Dallas Mavericks,"14-18, 9-10 Home","10-23, 5-14 Away",130,140,,,Final/OT,,28,29,43,24,6.0,31,32,26,35,16.0,NBA
-16,16,160117021,1995,"Wed, Jan 17",Phoenix Suns,Orlando Magic,"14-20, 9-12 Home","28-9, 8-9 Away",95,113,,,Final,,26,19,22,28,,25,36,24,28,,NBA
-17,17,160121021,1995,"Sun, Jan 21",Phoenix Suns,Sacramento Kings,"15-21, 10-12 Home","22-14, 8-10 Away",111,97,,,Final,,30,30,26,25,,19,30,22,26,,NBA
-18,18,160124016,1995,"Wed, Jan 24",Minnesota Timberwolves,Phoenix Suns,"11-28, 8-10 Home","16-22, 6-10 Away",91,101,,,Final,,30,21,14,26,,27,19,31,24,,NBA
-19,19,160128004,1995,"Sun, Jan 28",Chicago Bulls,Phoenix Suns,"38-3, 22-0 Home","17-23, 7-11 Away",93,82,,,Final,,21,26,24,22,,19,33,16,14,,NBA
-20,20,160131001,1995,"Wed, Jan 31",Atlanta Hawks,Phoenix Suns,"24-19, 15-10 Home","19-23, 9-11 Away",84,120,,,Final,,23,16,25,20,,28,33,29,30,,NBA
-21,21,160204027,1995,"Sun, Feb 4",Washington Bullets,Phoenix Suns,"22-22, 16-7 Home","20-24, 10-12 Away",115,123,,,Final/OT,,31,22,33,22,7.0,23,30,30,25,15.0,NBA
-22,22,160208021,1995,"Thu, Feb 8",Phoenix Suns,New Jersey Nets,"22-24, 12-12 Home","18-29, 5-21 Away",107,102,,,Final,,34,23,25,25,,24,26,27,25,,NBA
-23,23,160215022,1995,"Thu, Feb 15",Portland Trail Blazers,Phoenix Suns,"24-26, 14-10 Home","23-25, 11-12 Away",84,96,,,Final,,28,19,18,19,,24,24,25,23,,NBA
-24,24,160219021,1995,"Mon, Feb 19",Phoenix Suns,Vancouver Grizzlies,"24-26, 13-13 Home","11-40, 3-22 Away",98,94,,,Final/OT,,24,21,24,16,13.0,21,20,30,14,9.0,NBA
-25,25,160223021,1995,"Fri, Feb 23",Phoenix Suns,Toronto Raptors,"26-26, 15-13 Home","14-38, 4-22 Away",110,105,,,Final,,32,22,32,24,,25,22,28,30,,NBA
-26,26,160226026,1995,"Mon, Feb 26",Utah Jazz,Phoenix Suns,"37-17, 22-4 Home","27-27, 11-14 Away",110,87,,,Final,,26,34,25,25,,15,29,27,16,,NBA
-27,27,160301021,1995,"Fri, Mar 1",Phoenix Suns,Detroit Pistons,"28-28, 16-14 Home","29-26, 12-16 Away",97,102,,,Final,,23,23,24,27,,24,27,17,34,,NBA
-28,28,160305021,1995,"Tue, Mar 5",Phoenix Suns,Indiana Pacers,"30-28, 17-14 Home","38-21, 15-15 Away",108,95,,,Final,,39,26,17,26,,29,20,25,21,,NBA
-29,29,160308021,1995,"Fri, Mar 8",Phoenix Suns,Los Angeles Lakers,"30-30, 17-15 Home","38-21, 15-13 Away",97,119,,,Final,,21,25,24,27,,38,28,21,32,,NBA
-30,30,160312017,1995,"Tue, Mar 12",New Jersey Nets,Phoenix Suns,"25-36, 16-12 Home","31-31, 14-16 Away",88,98,,,Final,,18,23,24,23,,23,13,30,32,,NBA
-31,31,160315020,1995,"Fri, Mar 15",Philadelphia 76ers,Phoenix Suns,"13-50, 8-24 Home","32-32, 15-17 Away",102,128,,,Final,,23,24,19,36,,27,28,37,36,,NBA
-32,32,160321021,1995,"Thu, Mar 21",Phoenix Suns,Golden State Warriors,"33-33, 18-15 Home","30-38, 11-25 Away",104,96,,,Final,,29,32,23,20,,25,11,35,25,,NBA
-33,33,160324021,1995,"Sun, Mar 24",Phoenix Suns,Los Angeles Clippers,"34-34, 19-15 Home","25-43, 9-24 Away",103,92,,,Final,,32,22,25,24,,14,31,22,25,,NBA
-34,34,160329021,1995,"Fri, Mar 29",Phoenix Suns,Milwaukee Bucks,"36-34, 21-15 Home","21-49, 9-26 Away",108,85,,,Final,,29,27,30,22,,15,23,20,27,,NBA
-35,35,160402021,1995,"Tue, Apr 2",Phoenix Suns,San Antonio Spurs,"37-35, 22-15 Home","53-19, 24-13 Away",111,104,,,Final,,27,24,28,32,,26,27,27,24,,NBA
-36,36,160405025,1995,"Fri, Apr 5",Seattle SuperSonics,Phoenix Suns,"59-15, 35-3 Home","38-36, 15-21 Away",130,121,,,Final/2OT,,30,24,31,19,26.0,35,27,20,22,17.0,NBA
-37,37,160409021,1995,"Tue, Apr 9",Phoenix Suns,Portland Trail Blazers,"39-37, 23-16 Home","40-36, 16-22 Away",91,98,,,Final,,22,18,26,25,,27,18,28,25,,NBA
-38,38,160414013,1995,"Sun, Apr 14",Los Angeles Lakers,Phoenix Suns,"50-28, 29-11 Home","39-39, 16-23 Away",118,114,,,Final,,33,31,27,27,,31,27,27,29,,NBA
-39,39,160417023,1995,"Wed, Apr 17",Sacramento Kings,Phoenix Suns,"38-42, 25-15 Home","40-40, 16-24 Away",103,102,,,Final,,28,17,30,28,,32,22,23,25,,NBA
-40,40,151103012,1995,"Fri, Nov 3",Los Angeles Clippers,Phoenix Suns,"1-0, 1-0 Home","0-1, 0-1 Away",112,106,,,Final,,19,31,25,37,,32,21,19,34,,NBA
-41,41,151107018,1995,"Tue, Nov 7",New York Knicks,Phoenix Suns,"2-1, 0-1 Home","1-2, 1-1 Away",94,102,,,Final,,26,33,21,14,,25,24,21,32,,NBA
-42,42,151110028,1995,"Fri, Nov 10",Toronto Raptors,Phoenix Suns,"1-4, 1-2 Home","2-3, 2-2 Away",108,112,,,Final,,23,26,28,31,,29,34,27,22,,NBA
-43,43,151115021,1995,"Wed, Nov 15",Phoenix Suns,Denver Nuggets,"3-4, 1-2 Home","1-6, 1-4 Away",127,137,,,Final/3OT,,23,23,30,27,24.0,29,25,23,26,34.0,NBA
-44,44,151118021,1995,"Sat, Nov 18",Phoenix Suns,Portland Trail Blazers,"4-5, 2-2 Home","3-6, 1-4 Away",107,102,,,Final,,22,29,31,25,,29,26,24,23,,NBA
-45,45,151125021,1995,"Sat, Nov 25",Phoenix Suns,Los Angeles Lakers,"6-5, 4-2 Home","6-7, 2-5 Away",114,113,,,Final,,23,29,21,41,,30,26,30,27,,NBA
-46,46,151129013,1995,"Wed, Nov 29",Los Angeles Lakers,Phoenix Suns,"7-7, 5-2 Home","6-7, 2-4 Away",107,96,,,Final,,21,35,28,23,,20,18,27,31,,NBA
-47,47,151202024,1995,"Sat, Dec 2",San Antonio Spurs,Phoenix Suns,"9-4, 5-2 Home","7-8, 2-5 Away",101,93,,,Final,,22,31,22,26,,20,22,25,26,,NBA
-48,48,151208007,1995,"Fri, Dec 8",Denver Nuggets,Phoenix Suns,"8-9, 5-3 Home","8-9, 2-6 Away",103,98,,,Final,,22,29,25,27,,27,21,25,25,,NBA
-49,49,151212021,1995,"Tue, Dec 12",Phoenix Suns,Charlotte Hornets,"8-11, 6-5 Home","10-12, 3-10 Away",100,115,,,Final,,28,30,17,25,,29,30,29,27,,NBA
-50,50,151219010,1995,"Tue, Dec 19",Houston Rockets,Phoenix Suns,"18-6, 9-2 Home","9-12, 3-7 Away",103,96,,,Final,,28,24,18,33,,29,23,21,23,,NBA
-51,51,151222029,1995,"Fri, Dec 22",Vancouver Grizzlies,Phoenix Suns,"4-23, 3-10 Home","11-12, 4-7 Away",80,101,,,Final,,19,17,14,30,,23,34,28,16,,NBA
-52,52,151227021,1995,"Wed, Dec 27",Phoenix Suns,Philadelphia 76ers,"12-13, 8-6 Home","5-20, 1-10 Away",105,90,,,Final,,29,31,23,22,,27,25,14,24,,NBA
-53,53,151230021,1995,"Sat, Dec 30",Phoenix Suns,Seattle SuperSonics,"13-14, 9-7 Home","20-8, 7-7 Away",112,123,,,Final/OT,,23,28,27,27,7.0,34,24,26,21,18.0,NBA
-54,54,160105012,1995,"Fri, Jan 5",Los Angeles Clippers,Phoenix Suns,"12-20, 8-7 Home","13-16, 4-8 Away",94,88,,,Final,,24,18,27,25,,23,24,21,20,,NBA
-55,55,160111009,1995,"Thu, Jan 11",Golden State Warriors,Phoenix Suns,"15-19, 10-7 Home","14-17, 5-8 Away",106,111,,,Final,,22,25,28,31,,29,24,24,34,,NBA
-56,56,160114021,1995,"Sun, Jan 14",Phoenix Suns,Cleveland Cavaliers,"14-19, 9-11 Home","19-15, 7-9 Away",74,89,,,Final,,19,11,20,24,,19,26,17,27,,NBA
-57,57,160119022,1995,"Fri, Jan 19",Portland Trail Blazers,Phoenix Suns,"19-19, 13-6 Home","14-21, 5-9 Away",101,84,,,Final,,22,32,28,19,,29,19,22,14,,NBA
-58,58,160123011,1995,"Tue, Jan 23",Indiana Pacers,Phoenix Suns,"25-14, 15-3 Home","15-22, 5-10 Away",117,102,,,Final,,31,33,31,22,,26,21,26,29,,NBA
-59,59,160126015,1995,"Fri, Jan 26",Milwaukee Bucks,Phoenix Suns,"15-25, 8-12 Home","17-22, 7-10 Away",97,107,,,Final,,33,11,26,27,,37,23,24,23,,NBA
-60,60,160130014,1995,"Tue, Jan 30",Miami Heat,Phoenix Suns,"19-25, 12-8 Home","18-23, 8-11 Away",99,114,,,Final,,26,23,18,32,,33,26,32,23,,NBA
-61,61,160202005,1995,"Fri, Feb 2",Cleveland Cavaliers,Phoenix Suns,"24-20, 14-8 Home","19-24, 9-12 Away",107,85,,,Final,,29,29,27,22,,25,16,19,25,,NBA
-62,62,160206021,1995,"Tue, Feb 6",Phoenix Suns,Chicago Bulls,"21-24, 11-12 Home","41-5, 19-5 Away",106,96,,,Final,,20,30,26,30,,33,17,21,25,,NBA
-63,63,160213021,1995,"Tue, Feb 13",Phoenix Suns,Seattle SuperSonics,"22-25, 12-13 Home","35-12, 15-10 Away",98,102,,,Final,,30,25,22,21,,20,26,34,22,,NBA
-64,64,160216025,1995,"Fri, Feb 16",Seattle SuperSonics,Phoenix Suns,"37-12, 22-2 Home","23-26, 11-13 Away",117,99,,,Final,,23,33,27,34,,24,25,26,24,,NBA
-65,65,160221021,1995,"Wed, Feb 21",Phoenix Suns,Boston Celtics,"25-26, 14-13 Home","19-34, 9-19 Away",120,107,,,Final,,40,27,27,26,,29,29,26,23,,NBA
-66,66,160225021,1995,"Sun, Feb 25",Phoenix Suns,New York Knicks,"27-26, 16-13 Home","32-21, 13-11 Away",113,105,,,Final,,36,25,24,28,,26,34,17,28,,NBA
-67,67,160228016,1995,"Wed, Feb 28",Minnesota Timberwolves,Phoenix Suns,"16-39, 11-16 Home","28-27, 12-14 Away",93,117,,,Final,,30,25,14,24,,25,27,34,31,,NBA
-68,68,160303006,1995,"Sun, Mar 3",Dallas Mavericks,Phoenix Suns,"20-37, 12-17 Home","29-28, 13-14 Away",114,121,,,Final,,33,26,25,30,,39,29,27,26,,NBA
-69,69,160307007,1995,"Thu, Mar 7",Denver Nuggets,Phoenix Suns,"25-34, 17-12 Home","30-29, 13-15 Away",103,92,,,Final,,24,25,28,26,,23,27,27,15,,NBA
-70,70,160310019,1995,"Sun, Mar 10",Orlando Magic,Phoenix Suns,"47-15, 32-0 Home","30-31, 13-16 Away",122,106,,,Final,,28,31,27,36,,26,26,32,22,,NBA
-71,71,160313008,1995,"Wed, Mar 13",Detroit Pistons,Phoenix Suns,"35-27, 21-10 Home","31-32, 14-17 Away",118,115,,,Final,,29,30,21,38,,28,31,23,33,,NBA
-72,72,160317003,1995,"Sun, Mar 17",Charlotte Hornets,Phoenix Suns,"32-31, 23-11 Home","32-33, 15-18 Away",103,102,,,Final,,34,22,21,26,,22,27,28,25,,NBA
-73,73,160323009,1995,"Sat, Mar 23",Golden State Warriors,Phoenix Suns,"31-38, 20-13 Home","33-34, 15-19 Away",98,89,,,Final,,23,21,21,33,,25,24,22,18,,NBA
-74,74,160326021,1995,"Tue, Mar 26",Phoenix Suns,Sacramento Kings,"35-34, 20-15 Home","30-38, 11-24 Away",102,98,,,Final,,13,38,21,30,,20,27,26,25,,NBA
-75,75,160331024,1995,"Sun, Mar 31",San Antonio Spurs,Phoenix Suns,"53-18, 29-6 Home","36-35, 15-20 Away",97,83,,,Final,,25,25,21,26,,16,22,20,25,,NBA
-76,76,160404021,1995,"Thu, Apr 4",Phoenix Suns,Utah Jazz,"38-35, 23-15 Home","50-23, 19-18 Away",107,100,,,Final,,31,30,24,22,,23,25,25,27,,NBA
-77,77,160407029,1995,"Sun, Apr 7",Vancouver Grizzlies,Phoenix Suns,"12-62, 9-28 Home","39-36, 16-21 Away",92,112,,,Final,,24,22,22,24,,33,28,27,24,,NBA
-78,78,160410026,1995,"Wed, Apr 10",Utah Jazz,Phoenix Suns,"52-25, 32-7 Home","39-38, 16-22 Away",103,79,,,Final,,29,26,20,28,,16,19,26,18,,NBA
-79,79,160416021,1995,"Tue, Apr 16",Phoenix Suns,Houston Rockets,"40-39, 24-16 Home","46-34, 21-20 Away",111,100,,,Final,,20,25,38,28,,21,25,23,31,,NBA
-80,80,160419021,1995,"Fri, Apr 19",Phoenix Suns,Dallas Mavericks,"41-40, 25-16 Home","25-56, 9-31 Away",123,103,,,Final,,34,32,25,32,,24,25,31,23,,NBA
-81,81,160421010,1995,"Sun, Apr 21",Houston Rockets,Phoenix Suns,"48-34, 27-14 Home","41-41, 16-25 Away",118,110,,,Final,,33,26,27,32,,23,29,32,26,,NBA
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+151105021,1995,"November 05, 1995",Phoenix Suns,Houston Rockets,"0-2, 0-1 Home","2-0, 1-0 Away",104,106,,,Final,,22,30,31,21,,22,29,31,24,,NBA
+151108002,1995,"November 08, 1995",Boston Celtics,Phoenix Suns,"1-2, 1-1 Home","1-3, 1-2 Away",113,109,,,Final,,33,29,22,29,,39,18,31,21,,NBA
+151112021,1995,"November 12, 1995",Phoenix Suns,Golden State Warriors,"3-3, 1-1 Home","2-4, 0-3 Away",112,109,,,Final,,25,32,21,34,,33,30,23,23,,NBA
+151117023,1995,"November 17, 1995",Sacramento Kings,Phoenix Suns,"7-2, 3-1 Home","3-5, 2-3 Away",105,96,,,Final,,20,36,18,31,,23,29,25,19,,NBA
+151122021,1995,"November 22, 1995",Phoenix Suns,Atlanta Hawks,"5-5, 3-2 Home","6-5, 4-3 Away",117,112,,,Final,,27,31,33,26,,28,25,33,26,,NBA
+151127021,1995,"November 27, 1995",Phoenix Suns,Utah Jazz,"6-6, 4-3 Home","11-4, 5-3 Away",105,114,,,Final,,30,20,28,27,,28,24,36,26,,NBA
+151201021,1995,"December 01, 1995",Phoenix Suns,Minnesota Timberwolves,"7-7, 5-3 Home","3-10, 1-5 Away",111,105,,,Final,,27,32,24,28,,34,21,23,27,,NBA
+151205021,1995,"December 05, 1995",Phoenix Suns,Vancouver Grizzlies,"8-8, 6-3 Home","2-16, 1-11 Away",112,108,,,Final,,32,23,32,25,,19,22,31,36,,NBA
+151209021,1995,"December 09, 1995",Phoenix Suns,Miami Heat,"8-10, 6-4 Home","12-5, 4-3 Away",92,94,,,Final,,16,27,22,27,,22,29,18,25,,NBA
+151216006,1995,"December 16, 1995",Dallas Mavericks,Phoenix Suns,"7-14, 4-6 Home","9-11, 3-6 Away",108,111,,,Final/OT,,19,21,39,21,8.0,32,26,23,19,11.0,NBA
+151220021,1995,"December 20, 1995",Phoenix Suns,Washington Bullets,"10-12, 7-5 Home","12-11, 4-7 Away",106,104,,,Final/OT,,22,26,28,20,10.0,29,29,21,17,8.0,NBA
+151225021,1995,"December 25, 1995",Phoenix Suns,San Antonio Spurs,"11-13, 7-6 Home","17-7, 7-4 Away",100,105,,,Final,,21,36,27,16,,31,21,24,29,,NBA
+151229021,1995,"December 29, 1995",Phoenix Suns,Denver Nuggets,"13-13, 9-6 Home","12-16, 5-12 Away",103,92,,,Final,,23,23,29,28,,24,18,16,34,,NBA
+160104021,1995,"January 04, 1996",Phoenix Suns,Minnesota Timberwolves,"13-15, 9-8 Home","8-21, 3-12 Away",93,98,,,Final,,19,27,28,19,,26,17,29,26,,NBA
+160109021,1995,"January 09, 1996",Phoenix Suns,Los Angeles Clippers,"13-17, 9-9 Home","14-20, 6-13 Away",100,105,,,Final,,19,28,28,25,,27,24,28,26,,NBA
+160112021,1995,"January 12, 1996",Phoenix Suns,Dallas Mavericks,"14-18, 9-10 Home","10-23, 5-14 Away",130,140,,,Final/OT,,28,29,43,24,6.0,31,32,26,35,16.0,NBA
+160117021,1995,"January 17, 1996",Phoenix Suns,Orlando Magic,"14-20, 9-12 Home","28-9, 8-9 Away",95,113,,,Final,,26,19,22,28,,25,36,24,28,,NBA
+160121021,1995,"January 21, 1996",Phoenix Suns,Sacramento Kings,"15-21, 10-12 Home","22-14, 8-10 Away",111,97,,,Final,,30,30,26,25,,19,30,22,26,,NBA
+160124016,1995,"January 24, 1996",Minnesota Timberwolves,Phoenix Suns,"11-28, 8-10 Home","16-22, 6-10 Away",91,101,,,Final,,30,21,14,26,,27,19,31,24,,NBA
+160128004,1995,"January 28, 1996",Chicago Bulls,Phoenix Suns,"38-3, 22-0 Home","17-23, 7-11 Away",93,82,,,Final,,21,26,24,22,,19,33,16,14,,NBA
+160131001,1995,"January 31, 1996",Atlanta Hawks,Phoenix Suns,"24-19, 15-10 Home","19-23, 9-11 Away",84,120,,,Final,,23,16,25,20,,28,33,29,30,,NBA
+160204027,1995,"February 04, 1996",Washington Bullets,Phoenix Suns,"22-22, 16-7 Home","20-24, 10-12 Away",115,123,,,Final/OT,,31,22,33,22,7.0,23,30,30,25,15.0,NBA
+160208021,1995,"February 08, 1996",Phoenix Suns,New Jersey Nets,"22-24, 12-12 Home","18-29, 5-21 Away",107,102,,,Final,,34,23,25,25,,24,26,27,25,,NBA
+160215022,1995,"February 15, 1996",Portland Trail Blazers,Phoenix Suns,"24-26, 14-10 Home","23-25, 11-12 Away",84,96,,,Final,,28,19,18,19,,24,24,25,23,,NBA
+160219021,1995,"February 19, 1996",Phoenix Suns,Vancouver Grizzlies,"24-26, 13-13 Home","11-40, 3-22 Away",98,94,,,Final/OT,,24,21,24,16,13.0,21,20,30,14,9.0,NBA
+160223021,1995,"February 23, 1996",Phoenix Suns,Toronto Raptors,"26-26, 15-13 Home","14-38, 4-22 Away",110,105,,,Final,,32,22,32,24,,25,22,28,30,,NBA
+160226026,1995,"February 26, 1996",Utah Jazz,Phoenix Suns,"37-17, 22-4 Home","27-27, 11-14 Away",110,87,,,Final,,26,34,25,25,,15,29,27,16,,NBA
+160301021,1995,"March 01, 1996",Phoenix Suns,Detroit Pistons,"28-28, 16-14 Home","29-26, 12-16 Away",97,102,,,Final,,23,23,24,27,,24,27,17,34,,NBA
+160305021,1995,"March 05, 1996",Phoenix Suns,Indiana Pacers,"30-28, 17-14 Home","38-21, 15-15 Away",108,95,,,Final,,39,26,17,26,,29,20,25,21,,NBA
+160308021,1995,"March 08, 1996",Phoenix Suns,Los Angeles Lakers,"30-30, 17-15 Home","38-21, 15-13 Away",97,119,,,Final,,21,25,24,27,,38,28,21,32,,NBA
+160312017,1995,"March 12, 1996",New Jersey Nets,Phoenix Suns,"25-36, 16-12 Home","31-31, 14-16 Away",88,98,,,Final,,18,23,24,23,,23,13,30,32,,NBA
+160315020,1995,"March 15, 1996",Philadelphia 76ers,Phoenix Suns,"13-50, 8-24 Home","32-32, 15-17 Away",102,128,,,Final,,23,24,19,36,,27,28,37,36,,NBA
+160321021,1995,"March 21, 1996",Phoenix Suns,Golden State Warriors,"33-33, 18-15 Home","30-38, 11-25 Away",104,96,,,Final,,29,32,23,20,,25,11,35,25,,NBA
+160324021,1995,"March 24, 1996",Phoenix Suns,Los Angeles Clippers,"34-34, 19-15 Home","25-43, 9-24 Away",103,92,,,Final,,32,22,25,24,,14,31,22,25,,NBA
+160329021,1995,"March 29, 1996",Phoenix Suns,Milwaukee Bucks,"36-34, 21-15 Home","21-49, 9-26 Away",108,85,,,Final,,29,27,30,22,,15,23,20,27,,NBA
+160402021,1995,"April 02, 1996",Phoenix Suns,San Antonio Spurs,"37-35, 22-15 Home","53-19, 24-13 Away",111,104,,,Final,,27,24,28,32,,26,27,27,24,,NBA
+160405025,1995,"April 05, 1996",Seattle SuperSonics,Phoenix Suns,"59-15, 35-3 Home","38-36, 15-21 Away",130,121,,,Final/2OT,,30,24,31,19,26.0,35,27,20,22,17.0,NBA
+160409021,1995,"April 09, 1996",Phoenix Suns,Portland Trail Blazers,"39-37, 23-16 Home","40-36, 16-22 Away",91,98,,,Final,,22,18,26,25,,27,18,28,25,,NBA
+160414013,1995,"April 14, 1996",Los Angeles Lakers,Phoenix Suns,"50-28, 29-11 Home","39-39, 16-23 Away",118,114,,,Final,,33,31,27,27,,31,27,27,29,,NBA
+160417023,1995,"April 17, 1996",Sacramento Kings,Phoenix Suns,"38-42, 25-15 Home","40-40, 16-24 Away",103,102,,,Final,,28,17,30,28,,32,22,23,25,,NBA
+151103012,1995,"November 03, 1995",Los Angeles Clippers,Phoenix Suns,"1-0, 1-0 Home","0-1, 0-1 Away",112,106,,,Final,,19,31,25,37,,32,21,19,34,,NBA
+151107018,1995,"November 07, 1995",New York Knicks,Phoenix Suns,"2-1, 0-1 Home","1-2, 1-1 Away",94,102,,,Final,,26,33,21,14,,25,24,21,32,,NBA
+151110028,1995,"November 10, 1995",Toronto Raptors,Phoenix Suns,"1-4, 1-2 Home","2-3, 2-2 Away",108,112,,,Final,,23,26,28,31,,29,34,27,22,,NBA
+151115021,1995,"November 15, 1995",Phoenix Suns,Denver Nuggets,"3-4, 1-2 Home","1-6, 1-4 Away",127,137,,,Final/3OT,,23,23,30,27,24.0,29,25,23,26,34.0,NBA
+151118021,1995,"November 18, 1995",Phoenix Suns,Portland Trail Blazers,"4-5, 2-2 Home","3-6, 1-4 Away",107,102,,,Final,,22,29,31,25,,29,26,24,23,,NBA
+151125021,1995,"November 25, 1995",Phoenix Suns,Los Angeles Lakers,"6-5, 4-2 Home","6-7, 2-5 Away",114,113,,,Final,,23,29,21,41,,30,26,30,27,,NBA
+151129013,1995,"November 29, 1995",Los Angeles Lakers,Phoenix Suns,"7-7, 5-2 Home","6-7, 2-4 Away",107,96,,,Final,,21,35,28,23,,20,18,27,31,,NBA
+151202024,1995,"December 02, 1995",San Antonio Spurs,Phoenix Suns,"9-4, 5-2 Home","7-8, 2-5 Away",101,93,,,Final,,22,31,22,26,,20,22,25,26,,NBA
+151208007,1995,"December 08, 1995",Denver Nuggets,Phoenix Suns,"8-9, 5-3 Home","8-9, 2-6 Away",103,98,,,Final,,22,29,25,27,,27,21,25,25,,NBA
+151212021,1995,"December 12, 1995",Phoenix Suns,Charlotte Hornets,"8-11, 6-5 Home","10-12, 3-10 Away",100,115,,,Final,,28,30,17,25,,29,30,29,27,,NBA
+151219010,1995,"December 19, 1995",Houston Rockets,Phoenix Suns,"18-6, 9-2 Home","9-12, 3-7 Away",103,96,,,Final,,28,24,18,33,,29,23,21,23,,NBA
+151222029,1995,"December 22, 1995",Vancouver Grizzlies,Phoenix Suns,"4-23, 3-10 Home","11-12, 4-7 Away",80,101,,,Final,,19,17,14,30,,23,34,28,16,,NBA
+151227021,1995,"December 27, 1995",Phoenix Suns,Philadelphia 76ers,"12-13, 8-6 Home","5-20, 1-10 Away",105,90,,,Final,,29,31,23,22,,27,25,14,24,,NBA
+151230021,1995,"December 30, 1995",Phoenix Suns,Seattle SuperSonics,"13-14, 9-7 Home","20-8, 7-7 Away",112,123,,,Final/OT,,23,28,27,27,7.0,34,24,26,21,18.0,NBA
+160105012,1995,"January 05, 1996",Los Angeles Clippers,Phoenix Suns,"12-20, 8-7 Home","13-16, 4-8 Away",94,88,,,Final,,24,18,27,25,,23,24,21,20,,NBA
+160111009,1995,"January 11, 1996",Golden State Warriors,Phoenix Suns,"15-19, 10-7 Home","14-17, 5-8 Away",106,111,,,Final,,22,25,28,31,,29,24,24,34,,NBA
+160114021,1995,"January 14, 1996",Phoenix Suns,Cleveland Cavaliers,"14-19, 9-11 Home","19-15, 7-9 Away",74,89,,,Final,,19,11,20,24,,19,26,17,27,,NBA
+160119022,1995,"January 19, 1996",Portland Trail Blazers,Phoenix Suns,"19-19, 13-6 Home","14-21, 5-9 Away",101,84,,,Final,,22,32,28,19,,29,19,22,14,,NBA
+160123011,1995,"January 23, 1996",Indiana Pacers,Phoenix Suns,"25-14, 15-3 Home","15-22, 5-10 Away",117,102,,,Final,,31,33,31,22,,26,21,26,29,,NBA
+160126015,1995,"January 26, 1996",Milwaukee Bucks,Phoenix Suns,"15-25, 8-12 Home","17-22, 7-10 Away",97,107,,,Final,,33,11,26,27,,37,23,24,23,,NBA
+160130014,1995,"January 30, 1996",Miami Heat,Phoenix Suns,"19-25, 12-8 Home","18-23, 8-11 Away",99,114,,,Final,,26,23,18,32,,33,26,32,23,,NBA
+160202005,1995,"February 02, 1996",Cleveland Cavaliers,Phoenix Suns,"24-20, 14-8 Home","19-24, 9-12 Away",107,85,,,Final,,29,29,27,22,,25,16,19,25,,NBA
+160206021,1995,"February 06, 1996",Phoenix Suns,Chicago Bulls,"21-24, 11-12 Home","41-5, 19-5 Away",106,96,,,Final,,20,30,26,30,,33,17,21,25,,NBA
+160213021,1995,"February 13, 1996",Phoenix Suns,Seattle SuperSonics,"22-25, 12-13 Home","35-12, 15-10 Away",98,102,,,Final,,30,25,22,21,,20,26,34,22,,NBA
+160216025,1995,"February 16, 1996",Seattle SuperSonics,Phoenix Suns,"37-12, 22-2 Home","23-26, 11-13 Away",117,99,,,Final,,23,33,27,34,,24,25,26,24,,NBA
+160221021,1995,"February 21, 1996",Phoenix Suns,Boston Celtics,"25-26, 14-13 Home","19-34, 9-19 Away",120,107,,,Final,,40,27,27,26,,29,29,26,23,,NBA
+160225021,1995,"February 25, 1996",Phoenix Suns,New York Knicks,"27-26, 16-13 Home","32-21, 13-11 Away",113,105,,,Final,,36,25,24,28,,26,34,17,28,,NBA
+160228016,1995,"February 28, 1996",Minnesota Timberwolves,Phoenix Suns,"16-39, 11-16 Home","28-27, 12-14 Away",93,117,,,Final,,30,25,14,24,,25,27,34,31,,NBA
+160303006,1995,"March 03, 1996",Dallas Mavericks,Phoenix Suns,"20-37, 12-17 Home","29-28, 13-14 Away",114,121,,,Final,,33,26,25,30,,39,29,27,26,,NBA
+160307007,1995,"March 07, 1996",Denver Nuggets,Phoenix Suns,"25-34, 17-12 Home","30-29, 13-15 Away",103,92,,,Final,,24,25,28,26,,23,27,27,15,,NBA
+160310019,1995,"March 10, 1996",Orlando Magic,Phoenix Suns,"47-15, 32-0 Home","30-31, 13-16 Away",122,106,,,Final,,28,31,27,36,,26,26,32,22,,NBA
+160313008,1995,"March 13, 1996",Detroit Pistons,Phoenix Suns,"35-27, 21-10 Home","31-32, 14-17 Away",118,115,,,Final,,29,30,21,38,,28,31,23,33,,NBA
+160317003,1995,"March 17, 1996",Charlotte Hornets,Phoenix Suns,"32-31, 23-11 Home","32-33, 15-18 Away",103,102,,,Final,,34,22,21,26,,22,27,28,25,,NBA
+160323009,1995,"March 23, 1996",Golden State Warriors,Phoenix Suns,"31-38, 20-13 Home","33-34, 15-19 Away",98,89,,,Final,,23,21,21,33,,25,24,22,18,,NBA
+160326021,1995,"March 26, 1996",Phoenix Suns,Sacramento Kings,"35-34, 20-15 Home","30-38, 11-24 Away",102,98,,,Final,,13,38,21,30,,20,27,26,25,,NBA
+160331024,1995,"March 31, 1996",San Antonio Spurs,Phoenix Suns,"53-18, 29-6 Home","36-35, 15-20 Away",97,83,,,Final,,25,25,21,26,,16,22,20,25,,NBA
+160404021,1995,"April 04, 1996",Phoenix Suns,Utah Jazz,"38-35, 23-15 Home","50-23, 19-18 Away",107,100,,,Final,,31,30,24,22,,23,25,25,27,,NBA
+160407029,1995,"April 07, 1996",Vancouver Grizzlies,Phoenix Suns,"12-62, 9-28 Home","39-36, 16-21 Away",92,112,,,Final,,24,22,22,24,,33,28,27,24,,NBA
+160410026,1995,"April 10, 1996",Utah Jazz,Phoenix Suns,"52-25, 32-7 Home","39-38, 16-22 Away",103,79,,,Final,,29,26,20,28,,16,19,26,18,,NBA
+160416021,1995,"April 16, 1996",Phoenix Suns,Houston Rockets,"40-39, 24-16 Home","46-34, 21-20 Away",111,100,,,Final,,20,25,38,28,,21,25,23,31,,NBA
+160419021,1995,"April 19, 1996",Phoenix Suns,Dallas Mavericks,"41-40, 25-16 Home","25-56, 9-31 Away",123,103,,,Final,,34,32,25,32,,24,25,31,23,,NBA
+160421010,1995,"April 21, 1996",Houston Rockets,Phoenix Suns,"48-34, 27-14 Home","41-41, 16-25 Away",118,110,,,Final,,33,26,27,32,,23,29,32,26,,NBA

@@ -1,83 +1,83 @@
-,Unnamed: 0,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-0,0,400827906,2015,"Thu, Oct 29",New York Knicks,Atlanta Hawks,"1-1, 0-1 Home","1-1, 1-0 Away",101,112,,,Final,TNT,20,25,27,29,,30,31,23,28,,NBA
-1,1,400827926,2015,"Sun, Nov 1",Charlotte Hornets,Atlanta Hawks,"0-3, 0-1 Home","3-1, 2-0 Away",92,94,,,Final,,18,21,37,16,,28,18,24,24,,NBA
-2,2,400827949,2015,"Wed, Nov 4",Atlanta Hawks,Brooklyn Nets,"5-1, 2-1 Home","0-5, 0-3 Away",101,87,,,Final,,23,18,31,29,,17,26,27,17,,NBA
-3,3,400827973,2015,"Sat, Nov 7",Atlanta Hawks,Washington Wizards,"7-1, 3-1 Home","3-3, 2-2 Away",114,99,,,Final,,19,22,34,39,,19,26,33,21,,NBA
-4,4,400828004,2015,"Wed, Nov 11",Atlanta Hawks,New Orleans Pelicans,"8-2, 4-2 Home","1-7, 0-4 Away",106,98,,,Final,,24,23,29,30,,26,30,19,23,,NBA
-5,5,400828035,2015,"Sun, Nov 15",Atlanta Hawks,Utah Jazz,"8-4, 4-3 Home","5-5, 4-4 Away",96,97,,,Final,,24,28,22,22,,27,20,27,23,,NBA
-6,6,400828056,2015,"Wed, Nov 18",Atlanta Hawks,Sacramento Kings,"9-5, 5-3 Home","4-8, 0-3 Away",103,97,,,Final,,27,35,19,22,,30,22,27,18,,NBA
-7,7,400828097,2015,"Tue, Nov 24",Atlanta Hawks,Boston Celtics,"10-6, 6-3 Home","7-7, 3-3 Away",121,97,,,Final,TNT,33,24,24,40,,28,20,25,24,,NBA
-8,8,400828120,2015,"Fri, Nov 27",Memphis Grizzlies,Atlanta Hawks,"9-8, 5-3 Home","11-7, 5-4 Away",101,116,,,Final,,36,22,24,19,,29,24,32,31,,NBA
-9,9,400828143,2015,"Mon, Nov 30",Atlanta Hawks,Oklahoma City Thunder,"12-8, 7-3 Home","11-7, 3-4 Away",106,100,,,Final,,31,22,26,27,,21,31,22,26,,NBA
-10,10,400828173,2015,"Fri, Dec 4",Atlanta Hawks,Los Angeles Lakers,"13-9, 8-4 Home","3-16, 2-10 Away",100,87,,,Final,,23,29,20,28,,19,17,30,21,,NBA
-11,11,400828218,2015,"Thu, Dec 10",Oklahoma City Thunder,Atlanta Hawks,"14-8, 10-3 Home","14-10, 6-6 Away",107,94,,,Final,,35,25,23,24,,28,21,26,19,,NBA
-12,12,400828247,2015,"Mon, Dec 14",Atlanta Hawks,Miami Heat,"14-12, 8-6 Home","14-9, 3-5 Away",88,100,,,Final,,20,18,23,27,,22,25,27,26,,NBA
-13,13,400828276,2015,"Fri, Dec 18",Boston Celtics,Atlanta Hawks,"14-13, 7-7 Home","16-12, 7-6 Away",101,109,,,Final,,25,18,30,28,,19,23,29,38,,NBA
-14,14,400828300,2015,"Mon, Dec 21",Atlanta Hawks,Portland Trail Blazers,"18-12, 10-6 Home","11-19, 5-13 Away",106,97,,,Final,,26,29,22,29,,17,26,15,39,,NBA
-15,15,400828329,2015,"Sat, Dec 26",Atlanta Hawks,New York Knicks,"20-12, 12-6 Home","14-17, 7-9 Away",117,98,,,Final,,22,38,27,30,,32,31,12,23,,NBA
-16,16,400828357,2015,"Tue, Dec 29",Houston Rockets,Atlanta Hawks,"16-17, 10-8 Home","21-13, 9-7 Away",115,121,,,Final,,41,30,21,23,,25,31,29,36,,NBA
-17,17,400828408,2015,"Tue, Jan 5",Atlanta Hawks,New York Knicks,"21-15, 12-7 Home","17-19, 8-11 Away",101,107,,,Final,,20,29,22,30,,29,25,30,23,,NBA
-18,18,400828438,2015,"Sat, Jan 9",Atlanta Hawks,Chicago Bulls,"23-15, 13-7 Home","22-13, 6-8 Away",120,105,,,Final,,30,34,25,31,,19,32,32,22,,NBA
-19,19,400828486,2015,"Fri, Jan 15",Milwaukee Bucks,Atlanta Hawks,"17-25, 12-7 Home","23-17, 10-10 Away",108,101,,,Final/OT,,22,24,27,22,13.0,28,23,25,19,6.0,NBA
-20,20,400828507,2015,"Mon, Jan 18",Atlanta Hawks,Orlando Magic,"25-17, 15-7 Home","20-20, 8-11 Away",98,81,,,Final,NBATV,24,27,21,26,,17,21,21,22,,NBA
-21,21,400828530,2015,"Thu, Jan 21",Sacramento Kings,Atlanta Hawks,"19-23, 11-11 Home","26-18, 11-11 Away",91,88,,,Final,,27,20,25,19,,20,24,19,25,,NBA
-22,22,400828559,2015,"Mon, Jan 25",Denver Nuggets,Atlanta Hawks,"17-28, 9-15 Home","27-19, 12-12 Away",105,119,,,Final,,30,20,26,29,,31,35,24,29,,NBA
-23,23,400828579,2015,"Thu, Jan 28",Indiana Pacers,Atlanta Hawks,"24-22, 14-7 Home","27-21, 12-13 Away",111,92,,,Final,,27,24,31,29,,24,20,31,17,,NBA
-24,24,400828610,2015,"Mon, Feb 1",Atlanta Hawks,Dallas Mavericks,"28-22, 16-8 Home","28-23, 13-15 Away",112,97,,,Final,,27,26,33,26,,15,31,27,24,,NBA
-25,25,400828637,2015,"Fri, Feb 5",Atlanta Hawks,Indiana Pacers,"30-22, 17-8 Home","26-24, 11-16 Away",102,96,,,Final,ESPN,26,24,23,29,,29,22,21,24,,NBA
-26,26,400828667,2015,"Mon, Feb 8",Atlanta Hawks,Orlando Magic,"30-24, 17-9 Home","23-28, 9-16 Away",110,117,,,Final/OT,NBATV,30,24,29,18,9.0,18,23,31,29,16.0,NBA
-27,27,400828695,2015,"Fri, Feb 19",Atlanta Hawks,Miami Heat,"31-25, 17-10 Home","30-24, 14-13 Away",111,115,,,Final,,19,33,29,30,,22,30,27,36,,NBA
-28,28,400828723,2015,"Mon, Feb 22",Atlanta Hawks,Golden State Warriors,"31-27, 17-12 Home","50-5, 26-5 Away",92,102,,,Final,NBATV,15,24,36,17,,30,28,18,26,,NBA
-29,29,400828765,2015,"Sun, Feb 28",Atlanta Hawks,Charlotte Hornets,"33-27, 19-12 Home","30-28, 11-19 Away",87,76,,,Final,,25,21,22,19,,9,23,25,19,,NBA
-30,30,400828808,2015,"Fri, Mar 4",Los Angeles Lakers,Atlanta Hawks,"12-51, 7-21 Home","34-28, 15-16 Away",77,106,,,Final,ESPN,19,17,23,18,,26,28,20,32,,NBA
-31,31,400828834,2015,"Tue, Mar 8",Utah Jazz,Atlanta Hawks,"29-34, 19-13 Home","36-28, 17-16 Away",84,91,,,Final,,27,15,15,27,,16,25,25,25,,NBA
-32,32,400828861,2015,"Sat, Mar 12",Atlanta Hawks,Memphis Grizzlies,"37-29, 20-12 Home","39-27, 15-17 Away",95,83,,,Final,,18,31,22,24,,22,19,17,25,,NBA
-33,33,400828894,2015,"Wed, Mar 16",Detroit Pistons,Atlanta Hawks,"34-34, 19-12 Home","39-29, 18-17 Away",114,118,,,Final,,32,30,26,26,,30,31,26,31,,NBA
-34,34,400828916,2015,"Sat, Mar 19",Atlanta Hawks,Houston Rockets,"41-29, 23-12 Home","35-35, 16-20 Away",109,97,,,Final,,30,22,30,27,,16,42,25,14,,NBA
-35,35,400828943,2015,"Wed, Mar 23",Washington Wizards,Atlanta Hawks,"35-36, 19-18 Home","42-30, 19-17 Away",101,122,,,Final,,25,31,19,26,,22,30,29,41,,NBA
-36,36,400828972,2015,"Sat, Mar 26",Detroit Pistons,Atlanta Hawks,"39-35, 24-13 Home","44-30, 20-17 Away",95,112,,,Final,,15,27,32,21,,27,29,27,29,,NBA
-37,37,400829000,2015,"Wed, Mar 30",Toronto Raptors,Atlanta Hawks,"50-24, 29-9 Home","45-31, 21-18 Away",105,97,,,Final,NBATV,25,29,35,16,,20,21,26,30,,NBA
-38,38,400829044,2015,"Tue, Apr 5",Atlanta Hawks,Phoenix Suns,"46-32, 25-14 Home","20-58, 7-32 Away",103,90,,,Final,,28,16,26,33,,38,18,17,17,,NBA
-39,39,400829075,2015,"Sat, Apr 9",Atlanta Hawks,Boston Celtics,"48-32, 27-14 Home","47-33, 20-21 Away",118,107,,,Final,,34,33,26,25,,32,39,20,16,,NBA
-40,40,400827888,2015,"Tue, Oct 27",Atlanta Hawks,Detroit Pistons,"0-1, 0-1 Home","1-0, 1-0 Away",94,106,,,Final,,25,18,23,28,,25,23,34,24,,NBA
-41,41,400827913,2015,"Fri, Oct 30",Atlanta Hawks,Charlotte Hornets,"2-1, 1-1 Home","0-2, 0-2 Away",97,94,,,Final,,29,24,23,21,,22,30,17,25,,NBA
-42,42,400827942,2015,"Tue, Nov 3",Miami Heat,Atlanta Hawks,"2-2, 2-1 Home","4-1, 3-0 Away",92,98,,,Final,NBATV,24,16,25,27,,25,26,28,19,,NBA
-43,43,400827968,2015,"Fri, Nov 6",New Orleans Pelicans,Atlanta Hawks,"0-5, 0-3 Home","6-1, 4-0 Away",115,121,,,Final,,28,19,32,36,,26,32,31,32,,NBA
-44,44,400827988,2015,"Mon, Nov 9",Atlanta Hawks,Minnesota Timberwolves,"7-2, 3-2 Home","4-2, 4-0 Away",107,117,,,Final,,19,23,42,23,,30,42,21,24,,NBA
-45,45,400828016,2015,"Fri, Nov 13",Boston Celtics,Atlanta Hawks,"4-4, 3-3 Home","8-3, 4-1 Away",106,93,,,Final,,23,22,35,26,,26,19,24,24,,NBA
-46,46,400828046,2015,"Tue, Nov 17",Brooklyn Nets,Atlanta Hawks,"2-9, 1-3 Home","8-5, 4-2 Away",90,88,,,Final,,17,28,27,18,,19,27,22,20,,NBA
-47,47,400828078,2015,"Sat, Nov 21",Cleveland Cavaliers,Atlanta Hawks,"10-3, 7-0 Home","9-6, 4-3 Away",109,97,,,Final,,27,30,20,32,,19,23,22,33,,NBA
-48,48,400828109,2015,"Wed, Nov 25",Minnesota Timberwolves,Atlanta Hawks,"7-8, 2-6 Home","10-7, 4-4 Away",99,95,,,Final,,27,23,20,29,,23,25,26,21,,NBA
-49,49,400828129,2015,"Sat, Nov 28",San Antonio Spurs,Atlanta Hawks,"14-3, 9-0 Home","11-8, 5-5 Away",108,88,,,Final,,23,31,26,28,,25,12,22,29,,NBA
-50,50,400828159,2015,"Wed, Dec 2",Atlanta Hawks,Toronto Raptors,"12-9, 7-4 Home","12-7, 8-5 Away",86,96,,,Final,,18,28,20,20,,16,16,25,39,,NBA
-51,51,400828215,2015,"Wed, Dec 9",Dallas Mavericks,Atlanta Hawks,"13-10, 5-4 Home","14-9, 6-5 Away",95,98,,,Final,ESPN,23,21,28,23,,22,27,27,22,,NBA
-52,52,400828234,2015,"Sat, Dec 12",Atlanta Hawks,San Antonio Spurs,"14-11, 8-5 Home","20-5, 8-5 Away",78,103,,,Final,,13,12,30,23,,22,25,32,24,,NBA
-53,53,400828263,2015,"Wed, Dec 16",Atlanta Hawks,Philadelphia 76ers,"15-12, 9-6 Home","1-26, 0-16 Away",127,106,,,Final,,32,34,36,25,,23,32,21,30,,NBA
-54,54,400828294,2015,"Sun, Dec 20",Orlando Magic,Atlanta Hawks,"15-12, 9-5 Home","17-12, 8-6 Away",100,103,,,Final,,29,13,36,22,,25,27,25,26,,NBA
-55,55,400828316,2015,"Wed, Dec 23",Atlanta Hawks,Detroit Pistons,"19-12, 11-6 Home","17-13, 7-9 Away",107,100,,,Final,,27,34,21,25,,26,19,22,33,,NBA
-56,56,400828346,2015,"Mon, Dec 28",Indiana Pacers,Atlanta Hawks,"18-12, 11-4 Home","20-13, 8-7 Away",93,87,,,Final,,21,31,22,19,,27,13,28,19,,NBA
-57,57,400828393,2015,"Sun, Jan 3",New York Knicks,Atlanta Hawks,"16-19, 9-8 Home","21-14, 9-8 Away",111,97,,,Final,,22,33,31,25,,21,24,31,21,,NBA
-58,58,400828423,2015,"Thu, Jan 7",Philadelphia 76ers,Atlanta Hawks,"4-34, 2-13 Home","22-15, 10-8 Away",98,126,,,Final,,21,23,32,22,,22,39,36,29,,NBA
-59,59,400828464,2015,"Wed, Jan 13",Charlotte Hornets,Atlanta Hawks,"18-20, 14-7 Home","23-16, 10-9 Away",107,84,,,Final,,20,25,35,27,,19,17,22,26,,NBA
-60,60,400828489,2015,"Sat, Jan 16",Atlanta Hawks,Brooklyn Nets,"24-17, 14-7 Home","11-30, 4-15 Away",114,86,,,Final,,27,28,29,30,,23,25,20,18,,NBA
-61,61,400828526,2015,"Wed, Jan 20",Portland Trail Blazers,Atlanta Hawks,"19-26, 10-10 Home","26-17, 11-10 Away",98,104,,,Final,ESPN,18,25,29,26,,29,19,26,30,,NBA
-62,62,400828547,2015,"Sat, Jan 23",Phoenix Suns,Atlanta Hawks,"14-31, 10-13 Home","26-19, 11-12 Away",98,95,,,Final,,29,19,26,24,,23,16,25,31,,NBA
-63,63,400828574,2015,"Wed, Jan 27",Atlanta Hawks,LA Clippers,"27-20, 15-8 Home","30-16, 15-9 Away",83,85,,,Final,,23,22,21,17,,17,26,21,21,,NBA
-64,64,400828602,2015,"Sun, Jan 31",Miami Heat,Atlanta Hawks,"27-21, 16-9 Home","27-22, 12-14 Away",105,87,,,Final,,27,20,28,30,,17,17,28,25,,NBA
-65,65,400828623,2015,"Wed, Feb 3",Philadelphia 76ers,Atlanta Hawks,"7-42, 4-19 Home","29-22, 13-14 Away",86,124,,,Final,,17,25,20,24,,27,31,30,36,,NBA
-66,66,400828658,2015,"Sun, Feb 7",Orlando Magic,Atlanta Hawks,"22-28, 14-12 Home","30-23, 13-15 Away",96,94,,,Final,,30,18,23,25,,19,22,19,34,,NBA
-67,67,400828683,2015,"Wed, Feb 10",Chicago Bulls,Atlanta Hawks,"27-25, 16-10 Home","31-24, 14-15 Away",90,113,,,Final,,29,19,25,17,,28,25,38,22,,NBA
-68,68,400828706,2015,"Sat, Feb 20",Atlanta Hawks,Milwaukee Bucks,"31-26, 17-11 Home","23-33, 8-24 Away",109,117,,,Final/2OT,,29,21,18,26,15.0,31,23,21,19,23.0,NBA
-69,69,400828752,2015,"Fri, Feb 26",Atlanta Hawks,Chicago Bulls,"32-27, 18-12 Home","30-27, 11-17 Away",103,88,,,Final,ESPN,26,25,28,24,,21,23,23,21,,NBA
-70,70,400828782,2015,"Tue, Mar 1",Golden State Warriors,Atlanta Hawks,"54-5, 25-0 Home","33-28, 14-16 Away",109,105,,,Final/OT,NBATV,32,27,16,22,12.0,26,22,22,27,8.0,NBA
-71,71,400828816,2015,"Sat, Mar 5",LA Clippers,Atlanta Hawks,"40-21, 21-11 Home","35-28, 16-16 Away",97,107,,,Final,,37,18,24,18,,25,25,30,27,,NBA
-72,72,400828846,2015,"Thu, Mar 10",Toronto Raptors,Atlanta Hawks,"43-20, 25-7 Home","36-29, 17-17 Away",104,96,,,Final,,20,32,30,22,,21,27,27,21,,NBA
-73,73,400828871,2015,"Sun, Mar 13",Atlanta Hawks,Indiana Pacers,"38-29, 21-12 Home","35-31, 16-20 Away",104,75,,,Final,NBATV,30,22,37,15,,17,21,18,19,,NBA
-74,74,400828902,2015,"Thu, Mar 17",Atlanta Hawks,Denver Nuggets,"40-29, 22-12 Home","28-41, 12-22 Away",116,98,,,Final,,33,21,33,29,,23,25,28,22,,NBA
-75,75,400828935,2015,"Mon, Mar 21",Atlanta Hawks,Washington Wizards,"41-30, 23-13 Home","35-35, 16-18 Away",102,117,,,Final,,30,29,27,16,,27,34,28,28,,NBA
-76,76,400828963,2015,"Fri, Mar 25",Atlanta Hawks,Milwaukee Bucks,"43-30, 24-13 Home","30-43, 9-29 Away",101,90,,,Final,,29,22,24,26,,21,25,25,19,,NBA
-77,77,400828986,2015,"Mon, Mar 28",Chicago Bulls,Atlanta Hawks,"36-37, 24-14 Home","45-30, 21-17 Away",100,102,,,Final,NBATV,31,14,26,29,,22,30,28,22,,NBA
-78,78,400829018,2015,"Fri, Apr 1",Atlanta Hawks,Cleveland Cavaliers,"45-32, 24-14 Home","54-22, 23-15 Away",108,110,,,Final/OT,ESPN,23,18,30,25,12.0,32,23,22,19,14.0,NBA
-79,79,400829060,2015,"Thu, Apr 7",Atlanta Hawks,Toronto Raptors,"47-32, 26-14 Home","52-26, 22-17 Away",95,87,,,Final,,28,19,23,25,,20,23,20,24,,NBA
-80,80,400829090,2015,"Mon, Apr 11",Cleveland Cavaliers,Atlanta Hawks,"57-24, 33-7 Home","48-33, 21-19 Away",109,94,,,Final,NBATV,22,29,39,19,,26,19,30,19,,NBA
-81,81,400829108,2015,"Wed, Apr 13",Washington Wizards,Atlanta Hawks,"41-41, 22-19 Home","48-34, 21-20 Away",109,98,,,Final,,33,24,27,25,,33,26,17,22,,NBA
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+400827906,2015,"October 29, 2015",New York Knicks,Atlanta Hawks,"1-1, 0-1 Home","1-1, 1-0 Away",101,112,,,Final,TNT,20,25,27,29,,30,31,23,28,,NBA
+400827926,2015,"November 01, 2015",Charlotte Hornets,Atlanta Hawks,"0-3, 0-1 Home","3-1, 2-0 Away",92,94,,,Final,,18,21,37,16,,28,18,24,24,,NBA
+400827949,2015,"November 04, 2015",Atlanta Hawks,Brooklyn Nets,"5-1, 2-1 Home","0-5, 0-3 Away",101,87,,,Final,,23,18,31,29,,17,26,27,17,,NBA
+400827973,2015,"November 07, 2015",Atlanta Hawks,Washington Wizards,"7-1, 3-1 Home","3-3, 2-2 Away",114,99,,,Final,,19,22,34,39,,19,26,33,21,,NBA
+400828004,2015,"November 11, 2015",Atlanta Hawks,New Orleans Pelicans,"8-2, 4-2 Home","1-7, 0-4 Away",106,98,,,Final,,24,23,29,30,,26,30,19,23,,NBA
+400828035,2015,"November 15, 2015",Atlanta Hawks,Utah Jazz,"8-4, 4-3 Home","5-5, 4-4 Away",96,97,,,Final,,24,28,22,22,,27,20,27,23,,NBA
+400828056,2015,"November 18, 2015",Atlanta Hawks,Sacramento Kings,"9-5, 5-3 Home","4-8, 0-3 Away",103,97,,,Final,,27,35,19,22,,30,22,27,18,,NBA
+400828097,2015,"November 24, 2015",Atlanta Hawks,Boston Celtics,"10-6, 6-3 Home","7-7, 3-3 Away",121,97,,,Final,TNT,33,24,24,40,,28,20,25,24,,NBA
+400828120,2015,"November 27, 2015",Memphis Grizzlies,Atlanta Hawks,"9-8, 5-3 Home","11-7, 5-4 Away",101,116,,,Final,,36,22,24,19,,29,24,32,31,,NBA
+400828143,2015,"November 30, 2015",Atlanta Hawks,Oklahoma City Thunder,"12-8, 7-3 Home","11-7, 3-4 Away",106,100,,,Final,,31,22,26,27,,21,31,22,26,,NBA
+400828173,2015,"December 04, 2015",Atlanta Hawks,Los Angeles Lakers,"13-9, 8-4 Home","3-16, 2-10 Away",100,87,,,Final,,23,29,20,28,,19,17,30,21,,NBA
+400828218,2015,"December 10, 2015",Oklahoma City Thunder,Atlanta Hawks,"14-8, 10-3 Home","14-10, 6-6 Away",107,94,,,Final,,35,25,23,24,,28,21,26,19,,NBA
+400828247,2015,"December 14, 2015",Atlanta Hawks,Miami Heat,"14-12, 8-6 Home","14-9, 3-5 Away",88,100,,,Final,,20,18,23,27,,22,25,27,26,,NBA
+400828276,2015,"December 18, 2015",Boston Celtics,Atlanta Hawks,"14-13, 7-7 Home","16-12, 7-6 Away",101,109,,,Final,,25,18,30,28,,19,23,29,38,,NBA
+400828300,2015,"December 21, 2015",Atlanta Hawks,Portland Trail Blazers,"18-12, 10-6 Home","11-19, 5-13 Away",106,97,,,Final,,26,29,22,29,,17,26,15,39,,NBA
+400828329,2015,"December 26, 2015",Atlanta Hawks,New York Knicks,"20-12, 12-6 Home","14-17, 7-9 Away",117,98,,,Final,,22,38,27,30,,32,31,12,23,,NBA
+400828357,2015,"December 29, 2015",Houston Rockets,Atlanta Hawks,"16-17, 10-8 Home","21-13, 9-7 Away",115,121,,,Final,,41,30,21,23,,25,31,29,36,,NBA
+400828408,2015,"January 05, 2016",Atlanta Hawks,New York Knicks,"21-15, 12-7 Home","17-19, 8-11 Away",101,107,,,Final,,20,29,22,30,,29,25,30,23,,NBA
+400828438,2015,"January 09, 2016",Atlanta Hawks,Chicago Bulls,"23-15, 13-7 Home","22-13, 6-8 Away",120,105,,,Final,,30,34,25,31,,19,32,32,22,,NBA
+400828486,2015,"January 15, 2016",Milwaukee Bucks,Atlanta Hawks,"17-25, 12-7 Home","23-17, 10-10 Away",108,101,,,Final/OT,,22,24,27,22,13.0,28,23,25,19,6.0,NBA
+400828507,2015,"January 18, 2016",Atlanta Hawks,Orlando Magic,"25-17, 15-7 Home","20-20, 8-11 Away",98,81,,,Final,NBATV,24,27,21,26,,17,21,21,22,,NBA
+400828530,2015,"January 21, 2016",Sacramento Kings,Atlanta Hawks,"19-23, 11-11 Home","26-18, 11-11 Away",91,88,,,Final,,27,20,25,19,,20,24,19,25,,NBA
+400828559,2015,"January 25, 2016",Denver Nuggets,Atlanta Hawks,"17-28, 9-15 Home","27-19, 12-12 Away",105,119,,,Final,,30,20,26,29,,31,35,24,29,,NBA
+400828579,2015,"January 28, 2016",Indiana Pacers,Atlanta Hawks,"24-22, 14-7 Home","27-21, 12-13 Away",111,92,,,Final,,27,24,31,29,,24,20,31,17,,NBA
+400828610,2015,"February 01, 2016",Atlanta Hawks,Dallas Mavericks,"28-22, 16-8 Home","28-23, 13-15 Away",112,97,,,Final,,27,26,33,26,,15,31,27,24,,NBA
+400828637,2015,"February 05, 2016",Atlanta Hawks,Indiana Pacers,"30-22, 17-8 Home","26-24, 11-16 Away",102,96,,,Final,ESPN,26,24,23,29,,29,22,21,24,,NBA
+400828667,2015,"February 08, 2016",Atlanta Hawks,Orlando Magic,"30-24, 17-9 Home","23-28, 9-16 Away",110,117,,,Final/OT,NBATV,30,24,29,18,9.0,18,23,31,29,16.0,NBA
+400828695,2015,"February 19, 2016",Atlanta Hawks,Miami Heat,"31-25, 17-10 Home","30-24, 14-13 Away",111,115,,,Final,,19,33,29,30,,22,30,27,36,,NBA
+400828723,2015,"February 22, 2016",Atlanta Hawks,Golden State Warriors,"31-27, 17-12 Home","50-5, 26-5 Away",92,102,,,Final,NBATV,15,24,36,17,,30,28,18,26,,NBA
+400828765,2015,"February 28, 2016",Atlanta Hawks,Charlotte Hornets,"33-27, 19-12 Home","30-28, 11-19 Away",87,76,,,Final,,25,21,22,19,,9,23,25,19,,NBA
+400828808,2015,"March 04, 2016",Los Angeles Lakers,Atlanta Hawks,"12-51, 7-21 Home","34-28, 15-16 Away",77,106,,,Final,ESPN,19,17,23,18,,26,28,20,32,,NBA
+400828834,2015,"March 08, 2016",Utah Jazz,Atlanta Hawks,"29-34, 19-13 Home","36-28, 17-16 Away",84,91,,,Final,,27,15,15,27,,16,25,25,25,,NBA
+400828861,2015,"March 12, 2016",Atlanta Hawks,Memphis Grizzlies,"37-29, 20-12 Home","39-27, 15-17 Away",95,83,,,Final,,18,31,22,24,,22,19,17,25,,NBA
+400828894,2015,"March 16, 2016",Detroit Pistons,Atlanta Hawks,"34-34, 19-12 Home","39-29, 18-17 Away",114,118,,,Final,,32,30,26,26,,30,31,26,31,,NBA
+400828916,2015,"March 19, 2016",Atlanta Hawks,Houston Rockets,"41-29, 23-12 Home","35-35, 16-20 Away",109,97,,,Final,,30,22,30,27,,16,42,25,14,,NBA
+400828943,2015,"March 23, 2016",Washington Wizards,Atlanta Hawks,"35-36, 19-18 Home","42-30, 19-17 Away",101,122,,,Final,,25,31,19,26,,22,30,29,41,,NBA
+400828972,2015,"March 26, 2016",Detroit Pistons,Atlanta Hawks,"39-35, 24-13 Home","44-30, 20-17 Away",95,112,,,Final,,15,27,32,21,,27,29,27,29,,NBA
+400829000,2015,"March 30, 2016",Toronto Raptors,Atlanta Hawks,"50-24, 29-9 Home","45-31, 21-18 Away",105,97,,,Final,NBATV,25,29,35,16,,20,21,26,30,,NBA
+400829044,2015,"April 05, 2016",Atlanta Hawks,Phoenix Suns,"46-32, 25-14 Home","20-58, 7-32 Away",103,90,,,Final,,28,16,26,33,,38,18,17,17,,NBA
+400829075,2015,"April 09, 2016",Atlanta Hawks,Boston Celtics,"48-32, 27-14 Home","47-33, 20-21 Away",118,107,,,Final,,34,33,26,25,,32,39,20,16,,NBA
+400827888,2015,"October 27, 2015",Atlanta Hawks,Detroit Pistons,"0-1, 0-1 Home","1-0, 1-0 Away",94,106,,,Final,,25,18,23,28,,25,23,34,24,,NBA
+400827913,2015,"October 30, 2015",Atlanta Hawks,Charlotte Hornets,"2-1, 1-1 Home","0-2, 0-2 Away",97,94,,,Final,,29,24,23,21,,22,30,17,25,,NBA
+400827942,2015,"November 03, 2015",Miami Heat,Atlanta Hawks,"2-2, 2-1 Home","4-1, 3-0 Away",92,98,,,Final,NBATV,24,16,25,27,,25,26,28,19,,NBA
+400827968,2015,"November 06, 2015",New Orleans Pelicans,Atlanta Hawks,"0-5, 0-3 Home","6-1, 4-0 Away",115,121,,,Final,,28,19,32,36,,26,32,31,32,,NBA
+400827988,2015,"November 09, 2015",Atlanta Hawks,Minnesota Timberwolves,"7-2, 3-2 Home","4-2, 4-0 Away",107,117,,,Final,,19,23,42,23,,30,42,21,24,,NBA
+400828016,2015,"November 13, 2015",Boston Celtics,Atlanta Hawks,"4-4, 3-3 Home","8-3, 4-1 Away",106,93,,,Final,,23,22,35,26,,26,19,24,24,,NBA
+400828046,2015,"November 17, 2015",Brooklyn Nets,Atlanta Hawks,"2-9, 1-3 Home","8-5, 4-2 Away",90,88,,,Final,,17,28,27,18,,19,27,22,20,,NBA
+400828078,2015,"November 21, 2015",Cleveland Cavaliers,Atlanta Hawks,"10-3, 7-0 Home","9-6, 4-3 Away",109,97,,,Final,,27,30,20,32,,19,23,22,33,,NBA
+400828109,2015,"November 25, 2015",Minnesota Timberwolves,Atlanta Hawks,"7-8, 2-6 Home","10-7, 4-4 Away",99,95,,,Final,,27,23,20,29,,23,25,26,21,,NBA
+400828129,2015,"November 28, 2015",San Antonio Spurs,Atlanta Hawks,"14-3, 9-0 Home","11-8, 5-5 Away",108,88,,,Final,,23,31,26,28,,25,12,22,29,,NBA
+400828159,2015,"December 02, 2015",Atlanta Hawks,Toronto Raptors,"12-9, 7-4 Home","12-7, 8-5 Away",86,96,,,Final,,18,28,20,20,,16,16,25,39,,NBA
+400828215,2015,"December 09, 2015",Dallas Mavericks,Atlanta Hawks,"13-10, 5-4 Home","14-9, 6-5 Away",95,98,,,Final,ESPN,23,21,28,23,,22,27,27,22,,NBA
+400828234,2015,"December 12, 2015",Atlanta Hawks,San Antonio Spurs,"14-11, 8-5 Home","20-5, 8-5 Away",78,103,,,Final,,13,12,30,23,,22,25,32,24,,NBA
+400828263,2015,"December 16, 2015",Atlanta Hawks,Philadelphia 76ers,"15-12, 9-6 Home","1-26, 0-16 Away",127,106,,,Final,,32,34,36,25,,23,32,21,30,,NBA
+400828294,2015,"December 20, 2015",Orlando Magic,Atlanta Hawks,"15-12, 9-5 Home","17-12, 8-6 Away",100,103,,,Final,,29,13,36,22,,25,27,25,26,,NBA
+400828316,2015,"December 23, 2015",Atlanta Hawks,Detroit Pistons,"19-12, 11-6 Home","17-13, 7-9 Away",107,100,,,Final,,27,34,21,25,,26,19,22,33,,NBA
+400828346,2015,"December 28, 2015",Indiana Pacers,Atlanta Hawks,"18-12, 11-4 Home","20-13, 8-7 Away",93,87,,,Final,,21,31,22,19,,27,13,28,19,,NBA
+400828393,2015,"January 03, 2016",New York Knicks,Atlanta Hawks,"16-19, 9-8 Home","21-14, 9-8 Away",111,97,,,Final,,22,33,31,25,,21,24,31,21,,NBA
+400828423,2015,"January 07, 2016",Philadelphia 76ers,Atlanta Hawks,"4-34, 2-13 Home","22-15, 10-8 Away",98,126,,,Final,,21,23,32,22,,22,39,36,29,,NBA
+400828464,2015,"January 13, 2016",Charlotte Hornets,Atlanta Hawks,"18-20, 14-7 Home","23-16, 10-9 Away",107,84,,,Final,,20,25,35,27,,19,17,22,26,,NBA
+400828489,2015,"January 16, 2016",Atlanta Hawks,Brooklyn Nets,"24-17, 14-7 Home","11-30, 4-15 Away",114,86,,,Final,,27,28,29,30,,23,25,20,18,,NBA
+400828526,2015,"January 20, 2016",Portland Trail Blazers,Atlanta Hawks,"19-26, 10-10 Home","26-17, 11-10 Away",98,104,,,Final,ESPN,18,25,29,26,,29,19,26,30,,NBA
+400828547,2015,"January 23, 2016",Phoenix Suns,Atlanta Hawks,"14-31, 10-13 Home","26-19, 11-12 Away",98,95,,,Final,,29,19,26,24,,23,16,25,31,,NBA
+400828574,2015,"January 27, 2016",Atlanta Hawks,LA Clippers,"27-20, 15-8 Home","30-16, 15-9 Away",83,85,,,Final,,23,22,21,17,,17,26,21,21,,NBA
+400828602,2015,"January 31, 2016",Miami Heat,Atlanta Hawks,"27-21, 16-9 Home","27-22, 12-14 Away",105,87,,,Final,,27,20,28,30,,17,17,28,25,,NBA
+400828623,2015,"February 03, 2016",Philadelphia 76ers,Atlanta Hawks,"7-42, 4-19 Home","29-22, 13-14 Away",86,124,,,Final,,17,25,20,24,,27,31,30,36,,NBA
+400828658,2015,"February 07, 2016",Orlando Magic,Atlanta Hawks,"22-28, 14-12 Home","30-23, 13-15 Away",96,94,,,Final,,30,18,23,25,,19,22,19,34,,NBA
+400828683,2015,"February 10, 2016",Chicago Bulls,Atlanta Hawks,"27-25, 16-10 Home","31-24, 14-15 Away",90,113,,,Final,,29,19,25,17,,28,25,38,22,,NBA
+400828706,2015,"February 20, 2016",Atlanta Hawks,Milwaukee Bucks,"31-26, 17-11 Home","23-33, 8-24 Away",109,117,,,Final/2OT,,29,21,18,26,15.0,31,23,21,19,23.0,NBA
+400828752,2015,"February 26, 2016",Atlanta Hawks,Chicago Bulls,"32-27, 18-12 Home","30-27, 11-17 Away",103,88,,,Final,ESPN,26,25,28,24,,21,23,23,21,,NBA
+400828782,2015,"March 01, 2016",Golden State Warriors,Atlanta Hawks,"54-5, 25-0 Home","33-28, 14-16 Away",109,105,,,Final/OT,NBATV,32,27,16,22,12.0,26,22,22,27,8.0,NBA
+400828816,2015,"March 05, 2016",LA Clippers,Atlanta Hawks,"40-21, 21-11 Home","35-28, 16-16 Away",97,107,,,Final,,37,18,24,18,,25,25,30,27,,NBA
+400828846,2015,"March 10, 2016",Toronto Raptors,Atlanta Hawks,"43-20, 25-7 Home","36-29, 17-17 Away",104,96,,,Final,,20,32,30,22,,21,27,27,21,,NBA
+400828871,2015,"March 13, 2016",Atlanta Hawks,Indiana Pacers,"38-29, 21-12 Home","35-31, 16-20 Away",104,75,,,Final,NBATV,30,22,37,15,,17,21,18,19,,NBA
+400828902,2015,"March 17, 2016",Atlanta Hawks,Denver Nuggets,"40-29, 22-12 Home","28-41, 12-22 Away",116,98,,,Final,,33,21,33,29,,23,25,28,22,,NBA
+400828935,2015,"March 21, 2016",Atlanta Hawks,Washington Wizards,"41-30, 23-13 Home","35-35, 16-18 Away",102,117,,,Final,,30,29,27,16,,27,34,28,28,,NBA
+400828963,2015,"March 25, 2016",Atlanta Hawks,Milwaukee Bucks,"43-30, 24-13 Home","30-43, 9-29 Away",101,90,,,Final,,29,22,24,26,,21,25,25,19,,NBA
+400828986,2015,"March 28, 2016",Chicago Bulls,Atlanta Hawks,"36-37, 24-14 Home","45-30, 21-17 Away",100,102,,,Final,NBATV,31,14,26,29,,22,30,28,22,,NBA
+400829018,2015,"April 01, 2016",Atlanta Hawks,Cleveland Cavaliers,"45-32, 24-14 Home","54-22, 23-15 Away",108,110,,,Final/OT,ESPN,23,18,30,25,12.0,32,23,22,19,14.0,NBA
+400829060,2015,"April 07, 2016",Atlanta Hawks,Toronto Raptors,"47-32, 26-14 Home","52-26, 22-17 Away",95,87,,,Final,,28,19,23,25,,20,23,20,24,,NBA
+400829090,2015,"April 11, 2016",Cleveland Cavaliers,Atlanta Hawks,"57-24, 33-7 Home","48-33, 21-19 Away",109,94,,,Final,NBATV,22,29,39,19,,26,19,30,19,,NBA
+400829108,2015,"April 13, 2016",Washington Wizards,Atlanta Hawks,"41-41, 22-19 Home","48-34, 21-20 Away",109,98,,,Final,,33,24,27,25,,33,26,17,22,,NBA

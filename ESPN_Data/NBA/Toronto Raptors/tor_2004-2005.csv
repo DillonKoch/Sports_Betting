@@ -1,83 +1,83 @@
-,Unnamed: 0,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-0,0,241105028,2004,"Fri, Nov 5",Toronto Raptors,Detroit Pistons,"2-0, 2-0 Home","1-1, 0-1 Away",101,89,,,Final,,21,28,27,25,,31,16,20,22,,NBA
-1,1,241109023,2004,"Tue, Nov 9",Sacramento Kings,Toronto Raptors,"1-3, 1-0 Home","3-1, 0-1 Away",108,92,,,Final,,27,25,35,21,,20,25,21,26,,NBA
-2,2,241112025,2004,"Fri, Nov 12",Seattle SuperSonics,Toronto Raptors,"5-1, 4-0 Home","4-2, 1-2 Away",88,87,,,Final,,31,17,18,22,,24,10,28,25,,NBA
-3,3,241116012,2004,"Tue, Nov 16",LA Clippers,Toronto Raptors,"5-3, 2-1 Home","4-4, 1-4 Away",101,89,,,Final,,33,20,29,19,,27,20,12,30,,NBA
-4,4,241119028,2004,"Fri, Nov 19",Toronto Raptors,Seattle SuperSonics,"4-6, 3-1 Home","9-1, 4-1 Away",94,101,,,Final,,24,23,24,23,,19,23,31,28,,NBA
-5,5,241123027,2004,"Tue, Nov 23",Washington Wizards,Toronto Raptors,"6-4, 3-2 Home","5-7, 1-6 Away",102,86,,,Final,,24,25,34,19,,24,22,18,22,,NBA
-6,6,241127018,2004,"Sat, Nov 27",New York Knicks,Toronto Raptors,"6-6, 5-1 Home","6-8, 1-7 Away",108,102,,,Final,,29,21,25,33,,16,27,23,36,,NBA
-7,7,241130014,2004,"Tue, Nov 30",Miami Heat,Toronto Raptors,"10-6, 6-3 Home","7-9, 2-7 Away",92,94,,,Final,,17,25,23,27,,21,27,20,26,,NBA
-8,8,241203002,2004,"Fri, Dec 3",Boston Celtics,Toronto Raptors,"7-8, 5-4 Home","7-11, 2-9 Away",91,89,,,Final,,18,25,23,25,,25,27,16,21,,NBA
-9,9,241206017,2004,"Mon, Dec 6",New Jersey Nets,Toronto Raptors,"5-12, 4-6 Home","7-13, 2-11 Away",88,86,,,Final,,16,26,25,21,,22,25,23,16,,NBA
-10,10,241210028,2004,"Fri, Dec 10",Toronto Raptors,Denver Nuggets,"7-15, 5-3 Home","12-7, 3-3 Away",87,101,,,Final,,18,19,23,27,,29,27,27,18,,NBA
-11,11,241215028,2004,"Wed, Dec 15",Toronto Raptors,Minnesota Timberwolves,"8-16, 6-4 Home","14-8, 8-5 Away",96,90,,,Final,,25,22,24,25,,27,25,22,16,,NBA
-12,12,241219028,2004,"Sun, Dec 19",Toronto Raptors,New Jersey Nets,"9-17, 7-4 Home","7-16, 2-9 Away",110,99,,,Final,,22,28,29,31,,22,27,24,26,,NBA
-13,13,241222028,2004,"Wed, Dec 22",Toronto Raptors,Utah Jazz,"10-18, 8-4 Home","11-16, 5-10 Away",98,86,,,Final,,28,22,20,28,,19,18,29,20,,NBA
-14,14,241228013,2004,"Tue, Dec 28",Los Angeles Lakers,Toronto Raptors,"15-12, 10-6 Home","10-20, 2-16 Away",117,99,,,Final,,24,35,22,36,,26,29,27,17,,NBA
-15,15,250103028,2004,"Mon, Jan 3",Toronto Raptors,Orlando Magic,"11-21, 9-4 Home","15-14, 6-10 Away",105,94,,,Final,,34,24,25,22,,23,22,23,26,,NBA
-16,16,250107028,2004,"Fri, Jan 7",Toronto Raptors,Milwaukee Bucks,"12-22, 10-5 Home","11-19, 3-12 Away",105,107,,,Final/OT,,25,27,29,15,9.0,32,15,27,22,11.0,NBA
-17,17,250112028,2004,"Wed, Jan 12",Toronto Raptors,Boston Celtics,"14-22, 12-5 Home","16-20, 5-14 Away",104,93,,,Final,,29,30,25,20,,25,24,26,18,,NBA
-18,18,250116028,2004,"Sun, Jan 16",Toronto Raptors,New Orleans Hornets,"15-23, 13-5 Home","5-31, 2-19 Away",102,99,,,Final,,26,21,19,36,,26,35,16,22,,NBA
-19,19,250119028,2004,"Wed, Jan 19",Toronto Raptors,New York Knicks,"17-23, 14-5 Home","17-21, 6-13 Away",98,81,,,Final,,19,25,16,38,,20,23,18,20,,NBA
-20,20,250123028,2004,"Sun, Jan 23",Toronto Raptors,Charlotte Bobcats,"18-24, 15-5 Home","8-29, 1-17 Away",103,92,,,Final,,29,24,24,26,,29,30,21,12,,NBA
-21,21,250128030,2004,"Fri, Jan 28",Charlotte Bobcats,Toronto Raptors,"9-31, 8-13 Home","18-26, 3-20 Away",101,94,,,Final,,22,26,20,33,,22,27,22,23,,NBA
-22,22,250202011,2004,"Wed, Feb 2",Indiana Pacers,Toronto Raptors,"20-24, 10-11 Home","19-27, 4-20 Away",97,98,,,Final,,32,21,18,26,,18,18,30,32,,NBA
-23,23,250206028,2004,"Sun, Feb 6",Toronto Raptors,Dallas Mavericks,"20-28, 16-8 Home","31-15, 14-7 Away",113,122,,,Final,,24,28,29,32,,32,33,28,29,,NBA
-24,24,250209028,2004,"Wed, Feb 9",Toronto Raptors,Milwaukee Bucks,"20-30, 16-9 Home","19-28, 6-18 Away",107,110,,,Final,,34,27,27,19,,32,25,24,29,,NBA
-25,25,250213028,2004,"Sun, Feb 13",Toronto Raptors,LA Clippers,"21-31, 17-10 Home","23-28, 6-18 Away",109,106,,,Final,,33,30,12,34,,22,27,30,27,,NBA
-26,26,250222017,2004,"Tue, Feb 22",New Jersey Nets,Toronto Raptors,"23-31, 14-12 Home","22-32, 5-21 Away",82,100,,,Final,,21,22,21,18,,19,24,28,29,,NBA
-27,27,250227028,2004,"Sun, Feb 27",Toronto Raptors,Los Angeles Lakers,"24-32, 18-11 Home","28-26, 9-15 Away",108,102,,,Final,,28,37,21,22,,29,26,29,18,,NBA
-28,28,250304029,2004,"Fri, Mar 4",Memphis Grizzlies,Toronto Raptors,"33-25, 20-10 Home","24-34, 6-23 Away",86,75,,,Final,,25,17,21,23,,16,24,27,8,,NBA
-29,29,250307006,2004,"Mon, Mar 7",Dallas Mavericks,Toronto Raptors,"39-20, 20-10 Home","25-35, 7-24 Away",113,105,,,Final,,32,25,27,29,,28,25,23,29,,NBA
-30,30,250311028,2004,"Fri, Mar 11",Toronto Raptors,Atlanta Hawks,"26-36, 19-12 Home","11-50, 3-30 Away",112,116,,,Final/OT,,28,29,18,26,11.0,34,23,20,24,15.0,NBA
-31,31,250316002,2004,"Wed, Mar 16",Boston Celtics,Toronto Raptors,"36-29, 25-10 Home","27-37, 7-25 Away",110,109,,,Final,,29,24,37,20,,30,24,25,30,,NBA
-32,32,250320028,2004,"Sun, Mar 20",Toronto Raptors,Cleveland Cavaliers,"28-38, 21-12 Home","34-30, 10-21 Away",105,98,,,Final,,30,25,20,30,,27,26,21,24,,NBA
-33,33,250325020,2004,"Fri, Mar 25",Philadelphia 76ers,Toronto Raptors,"34-34, 20-14 Home","28-40, 7-27 Away",103,101,,,Final,CSN,34,27,24,18,,32,29,21,19,,NBA
-34,34,250329014,2004,"Tue, Mar 29",Miami Heat,Toronto Raptors,"54-18, 32-5 Home","29-41, 8-28 Away",103,91,,,Final,,25,26,28,24,,29,22,25,15,,NBA
-35,35,250401030,2004,"Fri, Apr 1",Charlotte Bobcats,Toronto Raptors,"15-56, 12-25 Home","30-42, 9-29 Away",107,119,,,Final,,18,34,28,27,,31,30,27,31,,NBA
-36,36,250406028,2004,"Wed, Apr 6",Toronto Raptors,Memphis Grizzlies,"30-44, 21-15 Home","42-32, 19-18 Away",74,104,,,Final,,19,13,22,20,,32,28,27,17,,NBA
-37,37,250409004,2004,"Sat, Apr 9",Chicago Bulls,Toronto Raptors,"44-32, 25-13 Home","31-45, 9-30 Away",110,97,,,Final,,35,27,23,25,,26,24,27,20,,NBA
-38,38,250412018,2004,"Tue, Apr 12",New York Knicks,Toronto Raptors,"30-47, 21-18 Home","32-46, 10-30 Away",93,105,,,Final,,22,32,14,25,,20,18,32,35,,NBA
-39,39,250417028,2004,"Sun, Apr 17",Toronto Raptors,Boston Celtics,"32-48, 22-18 Home","45-35, 18-22 Away",98,103,,,Final,,32,18,23,25,,26,23,33,21,,NBA
-40,40,241103028,2004,"Wed, Nov 3",Toronto Raptors,Houston Rockets,"1-0, 1-0 Home","0-2, 0-2 Away",95,88,,,Final,,19,33,19,24,,18,21,29,20,,NBA
-41,41,241107028,2004,"Sun, Nov 7",Toronto Raptors,Portland Trail Blazers,"3-0, 3-0 Home","2-1, 1-1 Away",101,97,,,Final,,20,31,23,27,,24,18,28,27,,NBA
-42,42,241110026,2004,"Wed, Nov 10",Utah Jazz,Toronto Raptors,"4-1, 2-1 Home","4-1, 1-1 Away",95,104,,,Final,,29,23,27,16,,28,26,22,28,,NBA
-43,43,241113022,2004,"Sat, Nov 13",Portland Trail Blazers,Toronto Raptors,"3-3, 2-0 Home","4-3, 1-3 Away",105,102,,,Final,,20,28,35,22,,23,22,20,37,,NBA
-44,44,241117007,2004,"Wed, Nov 17",Denver Nuggets,Toronto Raptors,"3-5, 3-2 Home","4-5, 1-5 Away",112,106,,,Final,,26,30,30,26,,29,32,25,20,,NBA
-45,45,241121028,2004,"Sun, Nov 21",Toronto Raptors,San Antonio Spurs,"5-6, 4-1 Home","8-2, 4-2 Away",96,91,,,Final,,27,17,19,33,,23,29,30,9,,NBA
-46,46,241124028,2004,"Wed, Nov 24",Toronto Raptors,New York Knicks,"6-7, 5-1 Home","5-6, 1-5 Away",114,91,,,Final,,33,30,32,19,,28,20,27,16,,NBA
-47,47,241128028,2004,"Sun, Nov 28",Toronto Raptors,Washington Wizards,"6-9, 5-2 Home","7-5, 4-3 Away",109,114,,,Final/OT,,23,23,26,28,9.0,20,25,21,34,14.0,NBA
-48,48,241201019,2004,"Wed, Dec 1",Orlando Magic,Toronto Raptors,"9-5, 6-2 Home","7-10, 2-8 Away",129,108,,,Final,,34,34,34,27,,34,26,15,33,,NBA
-49,49,241204005,2004,"Sat, Dec 4",Cleveland Cavaliers,Toronto Raptors,"11-6, 7-1 Home","7-12, 2-10 Away",105,97,,,Final,,39,18,25,23,,18,30,26,23,,NBA
-50,50,241208008,2004,"Wed, Dec 8",Detroit Pistons,Toronto Raptors,"10-8, 6-1 Home","7-14, 2-12 Away",90,86,,,Final/OT,,17,21,31,11,10.0,20,17,21,22,6.0,NBA
-51,51,241212028,2004,"Sun, Dec 12",Toronto Raptors,Miami Heat,"7-16, 5-4 Home","15-7, 8-4 Away",98,106,,,Final,,27,30,23,18,,18,36,23,29,,NBA
-52,52,241217011,2004,"Fri, Dec 17",Indiana Pacers,Toronto Raptors,"12-10, 7-4 Home","8-17, 2-13 Away",89,86,,,Final,,14,31,27,17,,21,26,24,15,,NBA
-53,53,241220010,2004,"Mon, Dec 20",Houston Rockets,Toronto Raptors,"12-13, 8-6 Home","9-18, 2-14 Away",114,102,,,Final,,24,27,29,34,,24,22,27,29,,NBA
-54,54,241226021,2004,"Sun, Dec 26",Phoenix Suns,Toronto Raptors,"24-3, 13-2 Home","10-19, 2-15 Away",106,94,,,Final,,32,24,19,31,,14,25,30,25,,NBA
-55,55,241229009,2004,"Wed, Dec 29",Golden State Warriors,Toronto Raptors,"11-18, 8-8 Home","10-21, 2-17 Away",111,105,,,Final,,26,29,23,33,,30,26,26,23,,NBA
-56,56,250105028,2004,"Wed, Jan 5",Toronto Raptors,Sacramento Kings,"12-21, 10-4 Home","20-10, 8-6 Away",96,93,,,Final,,29,20,22,25,,23,17,16,37,,NBA
-57,57,250109028,2004,"Sun, Jan 9",Toronto Raptors,Golden State Warriors,"13-22, 11-5 Home","11-23, 3-14 Away",109,87,,,Final,,18,24,36,31,,23,21,17,26,,NBA
-58,58,250114020,2004,"Fri, Jan 14",Philadelphia 76ers,Toronto Raptors,"16-19, 8-7 Home","14-23, 2-18 Away",106,96,,,Final,CSN,33,24,19,30,,26,24,26,20,,NBA
-59,59,250117016,2004,"Mon, Jan 17",Minnesota Timberwolves,Toronto Raptors,"19-18, 10-8 Home","16-23, 3-18 Away",91,100,,,Final,,24,21,23,23,,30,28,16,26,,NBA
-60,60,250121027,2004,"Fri, Jan 21",Washington Wizards,Toronto Raptors,"23-15, 15-5 Home","17-24, 3-19 Away",118,109,,,Final,,35,30,28,25,,20,22,35,32,,NBA
-61,61,250126028,2004,"Wed, Jan 26",Toronto Raptors,Miami Heat,"18-25, 15-6 Home","31-13, 15-8 Away",96,111,,,Final,,26,20,26,24,,32,29,27,23,,NBA
-62,62,250130028,2004,"Sun, Jan 30",Toronto Raptors,Phoenix Suns,"18-27, 15-7 Home","36-10, 19-6 Away",105,123,,,Final,,21,25,26,33,,30,28,46,19,,NBA
-63,63,250204028,2004,"Fri, Feb 4",Toronto Raptors,Washington Wizards,"20-27, 16-7 Home","26-19, 10-12 Away",103,100,,,Final,,27,16,26,34,,36,22,22,20,,NBA
-64,64,250208005,2004,"Tue, Feb 8",Cleveland Cavaliers,Toronto Raptors,"28-19, 18-4 Home","20-29, 4-21 Away",104,91,,,Final,,32,25,26,21,,23,20,19,29,,NBA
-65,65,250211028,2004,"Fri, Feb 11",Toronto Raptors,Philadelphia 76ers,"20-31, 16-10 Home","24-26, 11-17 Away",91,106,,,Final,CSN,24,21,25,21,,28,23,31,24,,NBA
-66,66,250216028,2004,"Wed, Feb 16",Toronto Raptors,Chicago Bulls,"21-32, 17-11 Home","26-23, 10-13 Away",115,121,,,Final,,34,24,32,25,,37,25,31,28,,NBA
-67,67,250225015,2004,"Fri, Feb 25",Milwaukee Bucks,Toronto Raptors,"22-31, 15-11 Home","23-32, 6-21 Away",102,106,,,Final,,24,25,23,30,,27,27,21,31,,NBA
-68,68,250302024,2004,"Wed, Mar 2",San Antonio Spurs,Toronto Raptors,"44-13, 25-2 Home","24-33, 6-22 Away",92,86,,,Final,,21,21,28,22,,18,18,20,30,,NBA
-69,69,250306003,2004,"Sun, Mar 6",New Orleans Hornets,Toronto Raptors,"13-46, 10-19 Home","25-34, 7-23 Away",84,95,,,Final,,24,12,19,29,,24,29,24,18,,NBA
-70,70,250309028,2004,"Wed, Mar 9",Toronto Raptors,Orlando Magic,"26-35, 19-11 Home","31-29, 10-21 Away",106,96,,,Final,,29,29,22,26,,24,25,24,23,,NBA
-71,71,250313028,2004,"Sun, Mar 13",Toronto Raptors,Philadelphia 76ers,"27-36, 20-12 Home","30-33, 13-20 Away",128,110,,,Final,CSN,28,35,36,29,,31,29,17,33,,NBA
-72,72,250318008,2004,"Fri, Mar 18",Detroit Pistons,Toronto Raptors,"41-23, 24-7 Home","27-38, 7-26 Away",103,92,,,Final,,34,20,27,22,,23,23,21,25,,NBA
-73,73,250323028,2004,"Wed, Mar 23",Toronto Raptors,Chicago Bulls,"28-39, 21-13 Home","35-31, 15-18 Away",85,94,,,Final,,21,20,21,23,,20,40,22,12,,NBA
-74,74,250326001,2004,"Sat, Mar 26",Atlanta Hawks,Toronto Raptors,"11-58, 8-26 Home","29-40, 8-27 Away",104,109,,,Final,,26,33,20,25,,23,30,25,31,,NBA
-75,75,250330019,2004,"Wed, Mar 30",Orlando Magic,Toronto Raptors,"34-37, 23-12 Home","29-42, 8-29 Away",108,96,,,Final,,21,34,30,23,,21,24,24,27,,NBA
-76,76,250403028,2004,"Sun, Apr 3",Toronto Raptors,Detroit Pistons,"30-43, 21-14 Home","46-27, 18-18 Away",103,113,,,Final,,25,26,32,20,,32,27,28,26,,NBA
-77,77,250408028,2004,"Fri, Apr 8",Toronto Raptors,Atlanta Hawks,"31-44, 22-15 Home","11-64, 3-35 Away",109,101,,,Final/OT,,14,19,36,27,13.0,31,16,26,23,5.0,NBA
-78,78,250411028,2004,"Mon, Apr 11",Toronto Raptors,Indiana Pacers,"31-46, 22-16 Home","42-35, 19-20 Away",90,94,,,Final,,23,24,26,17,,18,29,22,25,,NBA
-79,79,250415028,2004,"Fri, Apr 15",Toronto Raptors,New Jersey Nets,"32-47, 22-17 Home","39-40, 17-23 Away",90,101,,,Final,,29,26,19,16,,19,22,32,28,,NBA
-80,80,250419015,2004,"Tue, Apr 19",Milwaukee Bucks,Toronto Raptors,"30-52, 23-18 Home","33-48, 11-30 Away",109,127,,,Final,,29,30,30,20,,33,27,33,34,,NBA
-81,81,250420028,2004,"Wed, Apr 20",Toronto Raptors,Cleveland Cavaliers,"33-49, 22-19 Home","42-40, 13-28 Away",95,104,,,Final,,22,25,21,27,,26,36,29,13,,NBA
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+241105028,2004,"November 05, 2004",Toronto Raptors,Detroit Pistons,"2-0, 2-0 Home","1-1, 0-1 Away",101,89,,,Final,,21,28,27,25,,31,16,20,22,,NBA
+241109023,2004,"November 09, 2004",Sacramento Kings,Toronto Raptors,"1-3, 1-0 Home","3-1, 0-1 Away",108,92,,,Final,,27,25,35,21,,20,25,21,26,,NBA
+241112025,2004,"November 12, 2004",Seattle SuperSonics,Toronto Raptors,"5-1, 4-0 Home","4-2, 1-2 Away",88,87,,,Final,,31,17,18,22,,24,10,28,25,,NBA
+241116012,2004,"November 16, 2004",LA Clippers,Toronto Raptors,"5-3, 2-1 Home","4-4, 1-4 Away",101,89,,,Final,,33,20,29,19,,27,20,12,30,,NBA
+241119028,2004,"November 19, 2004",Toronto Raptors,Seattle SuperSonics,"4-6, 3-1 Home","9-1, 4-1 Away",94,101,,,Final,,24,23,24,23,,19,23,31,28,,NBA
+241123027,2004,"November 23, 2004",Washington Wizards,Toronto Raptors,"6-4, 3-2 Home","5-7, 1-6 Away",102,86,,,Final,,24,25,34,19,,24,22,18,22,,NBA
+241127018,2004,"November 27, 2004",New York Knicks,Toronto Raptors,"6-6, 5-1 Home","6-8, 1-7 Away",108,102,,,Final,,29,21,25,33,,16,27,23,36,,NBA
+241130014,2004,"November 30, 2004",Miami Heat,Toronto Raptors,"10-6, 6-3 Home","7-9, 2-7 Away",92,94,,,Final,,17,25,23,27,,21,27,20,26,,NBA
+241203002,2004,"December 03, 2004",Boston Celtics,Toronto Raptors,"7-8, 5-4 Home","7-11, 2-9 Away",91,89,,,Final,,18,25,23,25,,25,27,16,21,,NBA
+241206017,2004,"December 06, 2004",New Jersey Nets,Toronto Raptors,"5-12, 4-6 Home","7-13, 2-11 Away",88,86,,,Final,,16,26,25,21,,22,25,23,16,,NBA
+241210028,2004,"December 10, 2004",Toronto Raptors,Denver Nuggets,"7-15, 5-3 Home","12-7, 3-3 Away",87,101,,,Final,,18,19,23,27,,29,27,27,18,,NBA
+241215028,2004,"December 15, 2004",Toronto Raptors,Minnesota Timberwolves,"8-16, 6-4 Home","14-8, 8-5 Away",96,90,,,Final,,25,22,24,25,,27,25,22,16,,NBA
+241219028,2004,"December 19, 2004",Toronto Raptors,New Jersey Nets,"9-17, 7-4 Home","7-16, 2-9 Away",110,99,,,Final,,22,28,29,31,,22,27,24,26,,NBA
+241222028,2004,"December 22, 2004",Toronto Raptors,Utah Jazz,"10-18, 8-4 Home","11-16, 5-10 Away",98,86,,,Final,,28,22,20,28,,19,18,29,20,,NBA
+241228013,2004,"December 28, 2004",Los Angeles Lakers,Toronto Raptors,"15-12, 10-6 Home","10-20, 2-16 Away",117,99,,,Final,,24,35,22,36,,26,29,27,17,,NBA
+250103028,2004,"January 03, 2005",Toronto Raptors,Orlando Magic,"11-21, 9-4 Home","15-14, 6-10 Away",105,94,,,Final,,34,24,25,22,,23,22,23,26,,NBA
+250107028,2004,"January 07, 2005",Toronto Raptors,Milwaukee Bucks,"12-22, 10-5 Home","11-19, 3-12 Away",105,107,,,Final/OT,,25,27,29,15,9.0,32,15,27,22,11.0,NBA
+250112028,2004,"January 12, 2005",Toronto Raptors,Boston Celtics,"14-22, 12-5 Home","16-20, 5-14 Away",104,93,,,Final,,29,30,25,20,,25,24,26,18,,NBA
+250116028,2004,"January 16, 2005",Toronto Raptors,New Orleans Hornets,"15-23, 13-5 Home","5-31, 2-19 Away",102,99,,,Final,,26,21,19,36,,26,35,16,22,,NBA
+250119028,2004,"January 19, 2005",Toronto Raptors,New York Knicks,"17-23, 14-5 Home","17-21, 6-13 Away",98,81,,,Final,,19,25,16,38,,20,23,18,20,,NBA
+250123028,2004,"January 23, 2005",Toronto Raptors,Charlotte Bobcats,"18-24, 15-5 Home","8-29, 1-17 Away",103,92,,,Final,,29,24,24,26,,29,30,21,12,,NBA
+250128030,2004,"January 28, 2005",Charlotte Bobcats,Toronto Raptors,"9-31, 8-13 Home","18-26, 3-20 Away",101,94,,,Final,,22,26,20,33,,22,27,22,23,,NBA
+250202011,2004,"February 02, 2005",Indiana Pacers,Toronto Raptors,"20-24, 10-11 Home","19-27, 4-20 Away",97,98,,,Final,,32,21,18,26,,18,18,30,32,,NBA
+250206028,2004,"February 06, 2005",Toronto Raptors,Dallas Mavericks,"20-28, 16-8 Home","31-15, 14-7 Away",113,122,,,Final,,24,28,29,32,,32,33,28,29,,NBA
+250209028,2004,"February 09, 2005",Toronto Raptors,Milwaukee Bucks,"20-30, 16-9 Home","19-28, 6-18 Away",107,110,,,Final,,34,27,27,19,,32,25,24,29,,NBA
+250213028,2004,"February 13, 2005",Toronto Raptors,LA Clippers,"21-31, 17-10 Home","23-28, 6-18 Away",109,106,,,Final,,33,30,12,34,,22,27,30,27,,NBA
+250222017,2004,"February 22, 2005",New Jersey Nets,Toronto Raptors,"23-31, 14-12 Home","22-32, 5-21 Away",82,100,,,Final,,21,22,21,18,,19,24,28,29,,NBA
+250227028,2004,"February 27, 2005",Toronto Raptors,Los Angeles Lakers,"24-32, 18-11 Home","28-26, 9-15 Away",108,102,,,Final,,28,37,21,22,,29,26,29,18,,NBA
+250304029,2004,"March 04, 2005",Memphis Grizzlies,Toronto Raptors,"33-25, 20-10 Home","24-34, 6-23 Away",86,75,,,Final,,25,17,21,23,,16,24,27,8,,NBA
+250307006,2004,"March 07, 2005",Dallas Mavericks,Toronto Raptors,"39-20, 20-10 Home","25-35, 7-24 Away",113,105,,,Final,,32,25,27,29,,28,25,23,29,,NBA
+250311028,2004,"March 11, 2005",Toronto Raptors,Atlanta Hawks,"26-36, 19-12 Home","11-50, 3-30 Away",112,116,,,Final/OT,,28,29,18,26,11.0,34,23,20,24,15.0,NBA
+250316002,2004,"March 16, 2005",Boston Celtics,Toronto Raptors,"36-29, 25-10 Home","27-37, 7-25 Away",110,109,,,Final,,29,24,37,20,,30,24,25,30,,NBA
+250320028,2004,"March 20, 2005",Toronto Raptors,Cleveland Cavaliers,"28-38, 21-12 Home","34-30, 10-21 Away",105,98,,,Final,,30,25,20,30,,27,26,21,24,,NBA
+250325020,2004,"March 25, 2005",Philadelphia 76ers,Toronto Raptors,"34-34, 20-14 Home","28-40, 7-27 Away",103,101,,,Final,CSN,34,27,24,18,,32,29,21,19,,NBA
+250329014,2004,"March 29, 2005",Miami Heat,Toronto Raptors,"54-18, 32-5 Home","29-41, 8-28 Away",103,91,,,Final,,25,26,28,24,,29,22,25,15,,NBA
+250401030,2004,"April 01, 2005",Charlotte Bobcats,Toronto Raptors,"15-56, 12-25 Home","30-42, 9-29 Away",107,119,,,Final,,18,34,28,27,,31,30,27,31,,NBA
+250406028,2004,"April 06, 2005",Toronto Raptors,Memphis Grizzlies,"30-44, 21-15 Home","42-32, 19-18 Away",74,104,,,Final,,19,13,22,20,,32,28,27,17,,NBA
+250409004,2004,"April 09, 2005",Chicago Bulls,Toronto Raptors,"44-32, 25-13 Home","31-45, 9-30 Away",110,97,,,Final,,35,27,23,25,,26,24,27,20,,NBA
+250412018,2004,"April 12, 2005",New York Knicks,Toronto Raptors,"30-47, 21-18 Home","32-46, 10-30 Away",93,105,,,Final,,22,32,14,25,,20,18,32,35,,NBA
+250417028,2004,"April 17, 2005",Toronto Raptors,Boston Celtics,"32-48, 22-18 Home","45-35, 18-22 Away",98,103,,,Final,,32,18,23,25,,26,23,33,21,,NBA
+241103028,2004,"November 03, 2004",Toronto Raptors,Houston Rockets,"1-0, 1-0 Home","0-2, 0-2 Away",95,88,,,Final,,19,33,19,24,,18,21,29,20,,NBA
+241107028,2004,"November 07, 2004",Toronto Raptors,Portland Trail Blazers,"3-0, 3-0 Home","2-1, 1-1 Away",101,97,,,Final,,20,31,23,27,,24,18,28,27,,NBA
+241110026,2004,"November 10, 2004",Utah Jazz,Toronto Raptors,"4-1, 2-1 Home","4-1, 1-1 Away",95,104,,,Final,,29,23,27,16,,28,26,22,28,,NBA
+241113022,2004,"November 13, 2004",Portland Trail Blazers,Toronto Raptors,"3-3, 2-0 Home","4-3, 1-3 Away",105,102,,,Final,,20,28,35,22,,23,22,20,37,,NBA
+241117007,2004,"November 17, 2004",Denver Nuggets,Toronto Raptors,"3-5, 3-2 Home","4-5, 1-5 Away",112,106,,,Final,,26,30,30,26,,29,32,25,20,,NBA
+241121028,2004,"November 21, 2004",Toronto Raptors,San Antonio Spurs,"5-6, 4-1 Home","8-2, 4-2 Away",96,91,,,Final,,27,17,19,33,,23,29,30,9,,NBA
+241124028,2004,"November 24, 2004",Toronto Raptors,New York Knicks,"6-7, 5-1 Home","5-6, 1-5 Away",114,91,,,Final,,33,30,32,19,,28,20,27,16,,NBA
+241128028,2004,"November 28, 2004",Toronto Raptors,Washington Wizards,"6-9, 5-2 Home","7-5, 4-3 Away",109,114,,,Final/OT,,23,23,26,28,9.0,20,25,21,34,14.0,NBA
+241201019,2004,"December 01, 2004",Orlando Magic,Toronto Raptors,"9-5, 6-2 Home","7-10, 2-8 Away",129,108,,,Final,,34,34,34,27,,34,26,15,33,,NBA
+241204005,2004,"December 04, 2004",Cleveland Cavaliers,Toronto Raptors,"11-6, 7-1 Home","7-12, 2-10 Away",105,97,,,Final,,39,18,25,23,,18,30,26,23,,NBA
+241208008,2004,"December 08, 2004",Detroit Pistons,Toronto Raptors,"10-8, 6-1 Home","7-14, 2-12 Away",90,86,,,Final/OT,,17,21,31,11,10.0,20,17,21,22,6.0,NBA
+241212028,2004,"December 12, 2004",Toronto Raptors,Miami Heat,"7-16, 5-4 Home","15-7, 8-4 Away",98,106,,,Final,,27,30,23,18,,18,36,23,29,,NBA
+241217011,2004,"December 17, 2004",Indiana Pacers,Toronto Raptors,"12-10, 7-4 Home","8-17, 2-13 Away",89,86,,,Final,,14,31,27,17,,21,26,24,15,,NBA
+241220010,2004,"December 20, 2004",Houston Rockets,Toronto Raptors,"12-13, 8-6 Home","9-18, 2-14 Away",114,102,,,Final,,24,27,29,34,,24,22,27,29,,NBA
+241226021,2004,"December 26, 2004",Phoenix Suns,Toronto Raptors,"24-3, 13-2 Home","10-19, 2-15 Away",106,94,,,Final,,32,24,19,31,,14,25,30,25,,NBA
+241229009,2004,"December 29, 2004",Golden State Warriors,Toronto Raptors,"11-18, 8-8 Home","10-21, 2-17 Away",111,105,,,Final,,26,29,23,33,,30,26,26,23,,NBA
+250105028,2004,"January 05, 2005",Toronto Raptors,Sacramento Kings,"12-21, 10-4 Home","20-10, 8-6 Away",96,93,,,Final,,29,20,22,25,,23,17,16,37,,NBA
+250109028,2004,"January 09, 2005",Toronto Raptors,Golden State Warriors,"13-22, 11-5 Home","11-23, 3-14 Away",109,87,,,Final,,18,24,36,31,,23,21,17,26,,NBA
+250114020,2004,"January 14, 2005",Philadelphia 76ers,Toronto Raptors,"16-19, 8-7 Home","14-23, 2-18 Away",106,96,,,Final,CSN,33,24,19,30,,26,24,26,20,,NBA
+250117016,2004,"January 17, 2005",Minnesota Timberwolves,Toronto Raptors,"19-18, 10-8 Home","16-23, 3-18 Away",91,100,,,Final,,24,21,23,23,,30,28,16,26,,NBA
+250121027,2004,"January 21, 2005",Washington Wizards,Toronto Raptors,"23-15, 15-5 Home","17-24, 3-19 Away",118,109,,,Final,,35,30,28,25,,20,22,35,32,,NBA
+250126028,2004,"January 26, 2005",Toronto Raptors,Miami Heat,"18-25, 15-6 Home","31-13, 15-8 Away",96,111,,,Final,,26,20,26,24,,32,29,27,23,,NBA
+250130028,2004,"January 30, 2005",Toronto Raptors,Phoenix Suns,"18-27, 15-7 Home","36-10, 19-6 Away",105,123,,,Final,,21,25,26,33,,30,28,46,19,,NBA
+250204028,2004,"February 04, 2005",Toronto Raptors,Washington Wizards,"20-27, 16-7 Home","26-19, 10-12 Away",103,100,,,Final,,27,16,26,34,,36,22,22,20,,NBA
+250208005,2004,"February 08, 2005",Cleveland Cavaliers,Toronto Raptors,"28-19, 18-4 Home","20-29, 4-21 Away",104,91,,,Final,,32,25,26,21,,23,20,19,29,,NBA
+250211028,2004,"February 11, 2005",Toronto Raptors,Philadelphia 76ers,"20-31, 16-10 Home","24-26, 11-17 Away",91,106,,,Final,CSN,24,21,25,21,,28,23,31,24,,NBA
+250216028,2004,"February 16, 2005",Toronto Raptors,Chicago Bulls,"21-32, 17-11 Home","26-23, 10-13 Away",115,121,,,Final,,34,24,32,25,,37,25,31,28,,NBA
+250225015,2004,"February 25, 2005",Milwaukee Bucks,Toronto Raptors,"22-31, 15-11 Home","23-32, 6-21 Away",102,106,,,Final,,24,25,23,30,,27,27,21,31,,NBA
+250302024,2004,"March 02, 2005",San Antonio Spurs,Toronto Raptors,"44-13, 25-2 Home","24-33, 6-22 Away",92,86,,,Final,,21,21,28,22,,18,18,20,30,,NBA
+250306003,2004,"March 06, 2005",New Orleans Hornets,Toronto Raptors,"13-46, 10-19 Home","25-34, 7-23 Away",84,95,,,Final,,24,12,19,29,,24,29,24,18,,NBA
+250309028,2004,"March 09, 2005",Toronto Raptors,Orlando Magic,"26-35, 19-11 Home","31-29, 10-21 Away",106,96,,,Final,,29,29,22,26,,24,25,24,23,,NBA
+250313028,2004,"March 13, 2005",Toronto Raptors,Philadelphia 76ers,"27-36, 20-12 Home","30-33, 13-20 Away",128,110,,,Final,CSN,28,35,36,29,,31,29,17,33,,NBA
+250318008,2004,"March 18, 2005",Detroit Pistons,Toronto Raptors,"41-23, 24-7 Home","27-38, 7-26 Away",103,92,,,Final,,34,20,27,22,,23,23,21,25,,NBA
+250323028,2004,"March 23, 2005",Toronto Raptors,Chicago Bulls,"28-39, 21-13 Home","35-31, 15-18 Away",85,94,,,Final,,21,20,21,23,,20,40,22,12,,NBA
+250326001,2004,"March 26, 2005",Atlanta Hawks,Toronto Raptors,"11-58, 8-26 Home","29-40, 8-27 Away",104,109,,,Final,,26,33,20,25,,23,30,25,31,,NBA
+250330019,2004,"March 30, 2005",Orlando Magic,Toronto Raptors,"34-37, 23-12 Home","29-42, 8-29 Away",108,96,,,Final,,21,34,30,23,,21,24,24,27,,NBA
+250403028,2004,"April 03, 2005",Toronto Raptors,Detroit Pistons,"30-43, 21-14 Home","46-27, 18-18 Away",103,113,,,Final,,25,26,32,20,,32,27,28,26,,NBA
+250408028,2004,"April 08, 2005",Toronto Raptors,Atlanta Hawks,"31-44, 22-15 Home","11-64, 3-35 Away",109,101,,,Final/OT,,14,19,36,27,13.0,31,16,26,23,5.0,NBA
+250411028,2004,"April 11, 2005",Toronto Raptors,Indiana Pacers,"31-46, 22-16 Home","42-35, 19-20 Away",90,94,,,Final,,23,24,26,17,,18,29,22,25,,NBA
+250415028,2004,"April 15, 2005",Toronto Raptors,New Jersey Nets,"32-47, 22-17 Home","39-40, 17-23 Away",90,101,,,Final,,29,26,19,16,,19,22,32,28,,NBA
+250419015,2004,"April 19, 2005",Milwaukee Bucks,Toronto Raptors,"30-52, 23-18 Home","33-48, 11-30 Away",109,127,,,Final,,29,30,30,20,,33,27,33,34,,NBA
+250420028,2004,"April 20, 2005",Toronto Raptors,Cleveland Cavaliers,"33-49, 22-19 Home","42-40, 13-28 Away",95,104,,,Final,,22,25,21,27,,26,36,29,13,,NBA

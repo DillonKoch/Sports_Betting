@@ -1,83 +1,83 @@
-,Unnamed: 0,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-0,0,271102002,2007,"Fri, Nov 2",Boston Celtics,Washington Wizards,"1-0, 1-0 Home","0-2, 0-2 Away",103,83,,,Final,ESPN,21,37,21,24,,18,18,21,26,,NBA
-1,1,271108017,2007,"Thu, Nov 8",New Jersey Nets,Washington Wizards,"4-1, 3-1 Home","0-4, 0-3 Away",87,85,,,Final,YES,15,21,21,30,,27,14,17,27,,NBA
-2,2,271111001,2007,"Sun, Nov 11",Atlanta Hawks,Washington Wizards,"2-4, 2-1 Home","1-5, 1-3 Away",90,101,,,Final,,23,17,25,25,,26,25,27,23,,NBA
-3,3,271116016,2007,"Fri, Nov 16",Minnesota Timberwolves,Washington Wizards,"1-6, 1-3 Home","3-5, 2-3 Away",89,105,,,Final,,24,27,23,15,,32,15,24,34,,NBA
-4,4,271120027,2007,"Tue, Nov 20",Washington Wizards,Philadelphia 76ers,"5-5, 3-2 Home","3-7, 1-4 Away",116,101,,,Final,CSN,24,36,38,18,,26,18,24,33,,NBA
-5,5,271123027,2007,"Fri, Nov 23",Washington Wizards,Golden State Warriors,"6-6, 3-3 Home","4-7, 3-3 Away",115,123,,,Final,,33,28,28,26,,30,30,30,33,,NBA
-6,6,271126006,2007,"Mon, Nov 26",Dallas Mavericks,Washington Wizards,"9-5, 6-1 Home","7-7, 4-4 Away",98,110,,,Final,,28,17,27,26,,26,21,38,25,,NBA
-7,7,271130020,2007,"Fri, Nov 30",Philadelphia 76ers,Washington Wizards,"5-10, 3-5 Home","7-9, 4-6 Away",85,84,,,Final,,25,17,26,17,,20,23,25,16,,NBA
-8,8,271205027,2007,"Wed, Dec 5",Washington Wizards,Cleveland Cavaliers,"9-9, 5-3 Home","9-11, 5-7 Away",105,86,,,Final,,22,31,26,26,,21,13,28,24,,NBA
-9,9,271209027,2007,"Sun, Dec 9",Washington Wizards,New Jersey Nets,"10-10, 6-4 Home","9-12, 5-4 Away",104,89,,,Final,,27,15,36,26,,23,25,24,17,,NBA
-10,10,271213014,2007,"Thu, Dec 13",Miami Heat,Washington Wizards,"6-16, 2-7 Home","12-10, 5-6 Away",91,104,,,Final,TNT,16,33,21,21,,28,31,23,22,,NBA
-11,11,271219027,2007,"Wed, Dec 19",Washington Wizards,Chicago Bulls,"13-11, 8-5 Home","9-14, 4-8 Away",84,95,,,Final,,27,13,23,21,,20,25,20,30,,NBA
-12,12,271222011,2007,"Sat, Dec 22",Indiana Pacers,Washington Wizards,"15-13, 7-7 Home","13-13, 5-7 Away",93,85,,,Final,NBATV,22,23,23,25,,18,16,27,24,,NBA
-13,13,271228017,2007,"Fri, Dec 28",New Jersey Nets,Washington Wizards,"13-16, 7-11 Home","14-14, 6-8 Away",109,106,,,Final,YES,30,23,34,22,,27,32,27,20,,NBA
-14,14,280102027,2007,"Wed, Jan 2",Washington Wizards,Detroit Pistons,"15-15, 9-7 Home","25-7, 12-5 Away",93,106,,,Final,,27,20,25,21,,26,31,27,22,,NBA
-15,15,280106027,2007,"Sun, Jan 6",Washington Wizards,Seattle SuperSonics,"17-15, 10-7 Home","9-24, 4-13 Away",108,86,,,Final,,31,21,26,30,,17,29,23,17,,NBA
-16,16,280111001,2007,"Fri, Jan 11",Atlanta Hawks,Washington Wizards,"16-17, 11-8 Home","18-16, 8-8 Away",98,102,,,Final/OT,,17,16,35,19,11.0,23,16,23,25,15.0,NBA
-17,17,280114002,2007,"Mon, Jan 14",Boston Celtics,Washington Wizards,"30-6, 16-3 Home","20-16, 9-8 Away",83,88,,,Final,,18,19,26,20,,18,17,24,29,,NBA
-18,18,280118027,2007,"Fri, Jan 18",Washington Wizards,New York Knicks,"21-17, 12-8 Home","12-27, 3-14 Away",111,98,,,Final,,28,33,31,19,,32,25,23,18,,NBA
-19,19,280123005,2007,"Wed, Jan 23",Cleveland Cavaliers,Washington Wizards,"23-18, 13-6 Home","22-18, 9-10 Away",121,85,,,Final,,34,18,43,26,,26,20,17,22,,NBA
-20,20,280127015,2007,"Sun, Jan 27",Milwaukee Bucks,Washington Wizards,"18-27, 13-7 Home","23-19, 9-11 Away",105,102,,,Final/OT,,15,25,26,24,15.0,17,20,29,24,12.0,NBA
-21,21,280130028,2007,"Wed, Jan 30",Toronto Raptors,Washington Wizards,"25-20, 14-8 Home","24-20, 9-12 Away",122,83,,,Final,,28,33,34,27,,23,18,23,19,,NBA
-22,22,280203027,2007,"Sun, Feb 3",Washington Wizards,Los Angeles Lakers,"24-22, 15-10 Home","30-16, 13-9 Away",91,103,,,Final,NBATV,15,26,21,29,,30,33,23,17,,NBA
-23,23,280206027,2007,"Wed, Feb 6",Washington Wizards,San Antonio Spurs,"24-24, 15-11 Home","31-16, 11-11 Away",77,85,,,Final,,15,22,21,19,,20,18,19,28,,NBA
-24,24,280210021,2007,"Sun, Feb 10",Phoenix Suns,Washington Wizards,"36-15, 19-6 Home","24-26, 9-15 Away",108,107,,,Final,ESPN,27,24,34,23,,21,25,35,26,,NBA
-25,25,280213012,2007,"Wed, Feb 13",LA Clippers,Washington Wizards,"17-33, 9-16 Home","25-27, 10-16 Away",89,91,,,Final,,17,15,28,29,,25,20,16,30,,NBA
-26,26,280222005,2007,"Fri, Feb 22",Cleveland Cavaliers,Washington Wizards,"31-24, 16-10 Home","25-29, 10-17 Away",90,89,,,Final,ESPN,23,20,24,23,,24,18,23,24,,NBA
-27,27,280225003,2007,"Mon, Feb 25",New Orleans Hornets,Washington Wizards,"37-18, 18-10 Home","27-29, 11-17 Away",92,95,,,Final,,28,24,22,18,,20,21,27,27,,NBA
-28,28,280229004,2007,"Fri, Feb 29",Chicago Bulls,Washington Wizards,"23-35, 12-15 Home","28-30, 12-18 Away",91,97,,,Final,,30,22,14,25,,23,11,35,28,,NBA
-29,29,280305027,2007,"Wed, Mar 5",Washington Wizards,Orlando Magic,"29-31, 17-13 Home","40-23, 22-12 Away",92,122,,,Final,,20,24,23,25,,34,25,30,33,,NBA
-30,30,280308027,2007,"Sat, Mar 8",Washington Wizards,Charlotte Bobcats,"30-32, 17-14 Home","24-39, 6-22 Away",97,100,,,Final,,21,26,23,27,,35,19,26,20,,NBA
-31,31,280313027,2007,"Thu, Mar 13",Washington Wizards,Cleveland Cavaliers,"32-32, 19-14 Home","37-29, 16-19 Away",101,99,,,Final,TNT,27,19,34,21,,24,30,25,20,,NBA
-32,32,280317027,2007,"Mon, Mar 17",Washington Wizards,Atlanta Hawks,"33-33, 20-15 Home","29-38, 9-25 Away",96,105,,,Final,,24,29,24,19,,29,25,30,21,,NBA
-33,33,280321014,2007,"Fri, Mar 21",Miami Heat,Washington Wizards,"12-56, 6-29 Home","35-33, 15-18 Away",86,103,,,Final,,20,19,23,24,,26,26,35,16,,NBA
-34,34,280325022,2007,"Tue, Mar 25",Portland Trail Blazers,Washington Wizards,"38-34, 25-10 Home","36-34, 15-19 Away",102,82,,,Final,NBATV,31,28,23,20,,22,21,23,16,,NBA
-35,35,280328023,2007,"Fri, Mar 28",Sacramento Kings,Washington Wizards,"32-40, 22-13 Home","38-34, 17-19 Away",108,114,,,Final,,31,27,21,29,,27,20,35,32,,NBA
-36,36,280331026,2007,"Mon, Mar 31",Utah Jazz,Washington Wizards,"49-26, 33-4 Home","38-36, 17-21 Away",129,87,,,Final,,31,42,32,24,,22,19,25,21,,NBA
-37,37,280404027,2007,"Fri, Apr 4",Washington Wizards,Miami Heat,"39-37, 22-16 Home","13-63, 6-33 Away",109,95,,,Final,,29,31,28,21,,23,21,28,23,,NBA
-38,38,280409027,2007,"Wed, Apr 9",Washington Wizards,Boston Celtics,"41-37, 23-16 Home","62-16, 29-10 Away",109,95,,,Final,ESPN,30,25,27,27,,25,28,18,24,,NBA
-39,39,280412027,2007,"Sat, Apr 12",Washington Wizards,Philadelphia 76ers,"42-38, 24-16 Home","40-40, 18-22 Away",109,93,,,Final,NBATV,23,34,21,31,,30,23,31,9,,NBA
-40,40,271031011,2007,"Wed, Oct 31",Indiana Pacers,Washington Wizards,"1-0, 1-0 Home","0-1, 0-1 Away",119,110,,,Final/OT,,28,20,22,33,16.0,23,22,25,33,7.0,NBA
-41,41,271103027,2007,"Sat, Nov 3",Washington Wizards,Orlando Magic,"0-3, 0-1 Home","2-1, 1-0 Away",82,94,,,Final,,18,24,25,15,,19,31,14,30,,NBA
-42,42,271109027,2007,"Fri, Nov 9",Washington Wizards,Denver Nuggets,"0-5, 0-2 Home","3-3, 2-2 Away",92,118,,,Final,ESPN,26,25,11,30,,28,32,33,25,,NBA
-43,43,271114027,2007,"Wed, Nov 14",Washington Wizards,Indiana Pacers,"2-5, 1-2 Home","3-5, 1-2 Away",103,90,,,Final,,28,28,27,20,,15,26,25,24,,NBA
-44,44,271117027,2007,"Sat, Nov 17",Washington Wizards,Portland Trail Blazers,"4-5, 2-2 Home","4-6, 0-6 Away",109,90,,,Final,,22,25,31,31,,15,23,25,27,,NBA
-45,45,271121030,2007,"Wed, Nov 21",Charlotte Bobcats,Washington Wizards,"6-5, 5-3 Home","6-5, 3-3 Away",111,114,,,Final/OT,,20,26,32,26,7.0,26,18,35,25,10.0,NBA
-46,46,271124029,2007,"Sat, Nov 24",Memphis Grizzlies,Washington Wizards,"4-9, 3-4 Home","6-7, 3-4 Away",124,118,,,Final,,26,24,32,42,,26,27,25,40,,NBA
-47,47,271128024,2007,"Wed, Nov 28",San Antonio Spurs,Washington Wizards,"13-3, 9-0 Home","7-8, 4-5 Away",109,94,,,Final,,24,25,30,30,,23,23,24,24,,NBA
-48,48,271201027,2007,"Sat, Dec 1",Washington Wizards,Toronto Raptors,"8-9, 4-3 Home","9-8, 4-4 Away",101,97,,,Final,NBATV,23,30,25,23,,23,22,30,22,,NBA
-49,49,271207027,2007,"Fri, Dec 7",Washington Wizards,Phoenix Suns,"9-10, 5-4 Home","16-4, 10-2 Away",107,122,,,Final,,26,29,21,31,,30,30,40,22,,NBA
-50,50,271211027,2007,"Tue, Dec 11",Washington Wizards,Minnesota Timberwolves,"11-10, 7-4 Home","3-16, 1-8 Away",102,88,,,Final,,26,30,27,19,,26,20,23,19,,NBA
-51,51,271215027,2007,"Sat, Dec 15",Washington Wizards,Sacramento Kings,"13-10, 8-4 Home","9-14, 1-10 Away",92,79,,,Final,,33,19,28,12,,24,27,16,12,,NBA
-52,52,271221027,2007,"Fri, Dec 21",Washington Wizards,Atlanta Hawks,"13-12, 8-6 Home","14-12, 5-6 Away",92,97,,,Final,,21,26,20,25,,25,20,23,29,,NBA
-53,53,271226030,2007,"Wed, Dec 26",Charlotte Bobcats,Washington Wizards,"10-16, 9-7 Home","14-13, 6-7 Away",104,108,,,Final,,30,25,19,30,,41,17,23,27,,NBA
-54,54,271229027,2007,"Sat, Dec 29",Washington Wizards,Miami Heat,"15-14, 9-6 Home","8-23, 4-13 Away",96,74,,,Final,NBATV,26,32,24,14,,18,21,16,19,,NBA
-55,55,280104015,2007,"Fri, Jan 4",Milwaukee Bucks,Washington Wizards,"12-20, 9-5 Home","16-15, 7-8 Away",77,101,,,Final,,10,21,18,28,,23,29,27,22,,NBA
-56,56,280108027,2007,"Tue, Jan 8",Washington Wizards,Houston Rockets,"17-16, 10-8 Home","18-17, 10-11 Away",84,92,,,Final,NBATV,24,19,20,21,,31,21,22,18,,NBA
-57,57,280112027,2007,"Sat, Jan 12",Washington Wizards,Boston Celtics,"19-16, 11-8 Home","30-5, 14-3 Away",85,78,,,Final,,23,18,19,25,,19,21,25,13,,NBA
-58,58,280115018,2007,"Tue, Jan 15",New York Knicks,Washington Wizards,"11-26, 9-13 Home","20-17, 9-9 Away",105,93,,,Final,,30,21,26,28,,14,27,31,21,,NBA
-59,59,280121027,2007,"Mon, Jan 21",Washington Wizards,Dallas Mavericks,"22-17, 13-8 Home","27-13, 9-10 Away",102,84,,,Final,,23,23,27,29,,21,20,19,24,,NBA
-60,60,280125027,2007,"Fri, Jan 25",Washington Wizards,Memphis Grizzlies,"23-18, 14-8 Home","12-31, 4-17 Away",104,93,,,Final,,30,29,25,20,,9,29,33,22,,NBA
-61,61,280129027,2007,"Tue, Jan 29",Washington Wizards,Toronto Raptors,"24-19, 15-8 Home","24-20, 11-12 Away",108,104,,,Final/OT,TSNT,23,23,25,24,13.0,20,30,15,30,9.0,NBA
-62,62,280201027,2007,"Fri, Feb 1",Washington Wizards,Utah Jazz,"24-21, 15-9 Home","29-18, 9-15 Away",87,96,,,Final,ESPN,21,18,27,21,,11,27,29,29,,NBA
-63,63,280205020,2007,"Tue, Feb 5",Philadelphia 76ers,Washington Wizards,"19-30, 10-14 Home","24-23, 9-13 Away",101,96,,,Final,,23,26,24,28,,25,31,27,13,,NBA
-64,64,280208007,2007,"Fri, Feb 8",Denver Nuggets,Washington Wizards,"30-19, 21-6 Home","24-25, 9-14 Away",111,100,,,Final,ESPN,30,26,32,23,,16,31,25,28,,NBA
-65,65,280211009,2007,"Mon, Feb 11",Golden State Warriors,Washington Wizards,"31-20, 16-9 Home","24-27, 9-16 Away",120,117,,,Final,NBATV/TNT,22,33,29,36,,37,35,23,22,,NBA
-66,66,280219027,2007,"Tue, Feb 19",Washington Wizards,New York Knicks,"25-28, 15-12 Home","16-37, 6-20 Away",100,113,,,Final/OT,,20,30,20,20,10.0,23,23,21,23,23.0,NBA
-67,67,280223027,2007,"Sat, Feb 23",Washington Wizards,Charlotte Bobcats,"26-29, 16-12 Home","19-37, 4-20 Away",110,95,,,Final,,28,23,27,32,,27,25,19,24,,NBA
-68,68,280226010,2007,"Tue, Feb 26",Houston Rockets,Washington Wizards,"37-20, 19-9 Home","27-30, 11-18 Away",94,69,,,Final,,24,27,17,26,,12,11,26,20,,NBA
-69,69,280302027,2007,"Sun, Mar 2",Washington Wizards,New Orleans Hornets,"29-30, 17-12 Home","39-19, 19-9 Away",101,84,,,Final,,18,35,21,27,,20,20,29,15,,NBA
-70,70,280307028,2007,"Fri, Mar 7",Toronto Raptors,Washington Wizards,"33-28, 18-13 Home","30-31, 13-18 Away",106,110,,,Final/OT,TSNT,20,25,29,24,8.0,29,24,15,30,12.0,NBA
-71,71,280311027,2007,"Tue, Mar 11",Washington Wizards,Milwaukee Bucks,"31-32, 18-14 Home","23-41, 6-27 Away",105,97,,,Final,,26,31,22,26,,22,22,33,20,,NBA
-72,72,280315027,2007,"Sat, Mar 15",Washington Wizards,LA Clippers,"33-32, 20-14 Home","21-44, 9-22 Away",119,109,,,Final/OT,NBATV,25,30,20,25,19.0,25,30,23,22,9.0,NBA
-73,73,280319019,2007,"Wed, Mar 19",Orlando Magic,Washington Wizards,"45-25, 22-13 Home","34-33, 14-18 Away",86,87,,,Final,,26,17,22,21,,20,16,31,20,,NBA
-74,74,280323027,2007,"Sun, Mar 23",Washington Wizards,Detroit Pistons,"36-33, 21-15 Home","49-20, 22-14 Away",95,83,,,Final,ESPN,28,19,24,24,,20,20,25,18,,NBA
-75,75,280326025,2007,"Wed, Mar 26",Seattle SuperSonics,Washington Wizards,"17-55, 11-24 Home","37-34, 16-19 Away",99,104,,,Final,,23,33,19,24,,29,21,18,36,,NBA
-76,76,280330013,2007,"Sun, Mar 30",Los Angeles Lakers,Washington Wizards,"50-24, 25-11 Home","38-35, 17-20 Away",126,120,,,Final/OT,,27,31,28,25,15.0,25,22,39,25,9.0,NBA
-77,77,280402027,2007,"Wed, Apr 2",Washington Wizards,Milwaukee Bucks,"38-37, 21-16 Home","26-48, 7-30 Away",109,110,,,Final,,33,28,25,23,,30,24,24,32,,NBA
-78,78,280405004,2007,"Sat, Apr 5",Chicago Bulls,Washington Wizards,"30-46, 18-20 Home","40-37, 18-21 Away",87,99,,,Final,,22,21,21,23,,25,17,34,23,,NBA
-79,79,280411008,2007,"Fri, Apr 11",Detroit Pistons,Washington Wizards,"56-23, 32-7 Home","41-38, 18-22 Away",102,74,,,Final,,23,24,34,21,,19,23,13,19,,NBA
-80,80,280414027,2007,"Mon, Apr 14",Washington Wizards,Indiana Pacers,"43-38, 25-16 Home","35-46, 15-26 Away",117,110,,,Final,,35,31,32,19,,28,26,27,29,,NBA
-81,81,280416019,2007,"Wed, Apr 16",Orlando Magic,Washington Wizards,"52-30, 25-16 Home","43-39, 18-23 Away",103,83,,,Final,,24,23,23,33,,19,22,19,23,,NBA
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+271102002,2007,"November 02, 2007",Boston Celtics,Washington Wizards,"1-0, 1-0 Home","0-2, 0-2 Away",103,83,,,Final,ESPN,21,37,21,24,,18,18,21,26,,NBA
+271108017,2007,"November 08, 2007",New Jersey Nets,Washington Wizards,"4-1, 3-1 Home","0-4, 0-3 Away",87,85,,,Final,YES,15,21,21,30,,27,14,17,27,,NBA
+271111001,2007,"November 11, 2007",Atlanta Hawks,Washington Wizards,"2-4, 2-1 Home","1-5, 1-3 Away",90,101,,,Final,,23,17,25,25,,26,25,27,23,,NBA
+271116016,2007,"November 16, 2007",Minnesota Timberwolves,Washington Wizards,"1-6, 1-3 Home","3-5, 2-3 Away",89,105,,,Final,,24,27,23,15,,32,15,24,34,,NBA
+271120027,2007,"November 20, 2007",Washington Wizards,Philadelphia 76ers,"5-5, 3-2 Home","3-7, 1-4 Away",116,101,,,Final,CSN,24,36,38,18,,26,18,24,33,,NBA
+271123027,2007,"November 23, 2007",Washington Wizards,Golden State Warriors,"6-6, 3-3 Home","4-7, 3-3 Away",115,123,,,Final,,33,28,28,26,,30,30,30,33,,NBA
+271126006,2007,"November 26, 2007",Dallas Mavericks,Washington Wizards,"9-5, 6-1 Home","7-7, 4-4 Away",98,110,,,Final,,28,17,27,26,,26,21,38,25,,NBA
+271130020,2007,"November 30, 2007",Philadelphia 76ers,Washington Wizards,"5-10, 3-5 Home","7-9, 4-6 Away",85,84,,,Final,,25,17,26,17,,20,23,25,16,,NBA
+271205027,2007,"December 05, 2007",Washington Wizards,Cleveland Cavaliers,"9-9, 5-3 Home","9-11, 5-7 Away",105,86,,,Final,,22,31,26,26,,21,13,28,24,,NBA
+271209027,2007,"December 09, 2007",Washington Wizards,New Jersey Nets,"10-10, 6-4 Home","9-12, 5-4 Away",104,89,,,Final,,27,15,36,26,,23,25,24,17,,NBA
+271213014,2007,"December 13, 2007",Miami Heat,Washington Wizards,"6-16, 2-7 Home","12-10, 5-6 Away",91,104,,,Final,TNT,16,33,21,21,,28,31,23,22,,NBA
+271219027,2007,"December 19, 2007",Washington Wizards,Chicago Bulls,"13-11, 8-5 Home","9-14, 4-8 Away",84,95,,,Final,,27,13,23,21,,20,25,20,30,,NBA
+271222011,2007,"December 22, 2007",Indiana Pacers,Washington Wizards,"15-13, 7-7 Home","13-13, 5-7 Away",93,85,,,Final,NBATV,22,23,23,25,,18,16,27,24,,NBA
+271228017,2007,"December 28, 2007",New Jersey Nets,Washington Wizards,"13-16, 7-11 Home","14-14, 6-8 Away",109,106,,,Final,YES,30,23,34,22,,27,32,27,20,,NBA
+280102027,2007,"January 02, 2008",Washington Wizards,Detroit Pistons,"15-15, 9-7 Home","25-7, 12-5 Away",93,106,,,Final,,27,20,25,21,,26,31,27,22,,NBA
+280106027,2007,"January 06, 2008",Washington Wizards,Seattle SuperSonics,"17-15, 10-7 Home","9-24, 4-13 Away",108,86,,,Final,,31,21,26,30,,17,29,23,17,,NBA
+280111001,2007,"January 11, 2008",Atlanta Hawks,Washington Wizards,"16-17, 11-8 Home","18-16, 8-8 Away",98,102,,,Final/OT,,17,16,35,19,11.0,23,16,23,25,15.0,NBA
+280114002,2007,"January 14, 2008",Boston Celtics,Washington Wizards,"30-6, 16-3 Home","20-16, 9-8 Away",83,88,,,Final,,18,19,26,20,,18,17,24,29,,NBA
+280118027,2007,"January 18, 2008",Washington Wizards,New York Knicks,"21-17, 12-8 Home","12-27, 3-14 Away",111,98,,,Final,,28,33,31,19,,32,25,23,18,,NBA
+280123005,2007,"January 23, 2008",Cleveland Cavaliers,Washington Wizards,"23-18, 13-6 Home","22-18, 9-10 Away",121,85,,,Final,,34,18,43,26,,26,20,17,22,,NBA
+280127015,2007,"January 27, 2008",Milwaukee Bucks,Washington Wizards,"18-27, 13-7 Home","23-19, 9-11 Away",105,102,,,Final/OT,,15,25,26,24,15.0,17,20,29,24,12.0,NBA
+280130028,2007,"January 30, 2008",Toronto Raptors,Washington Wizards,"25-20, 14-8 Home","24-20, 9-12 Away",122,83,,,Final,,28,33,34,27,,23,18,23,19,,NBA
+280203027,2007,"February 03, 2008",Washington Wizards,Los Angeles Lakers,"24-22, 15-10 Home","30-16, 13-9 Away",91,103,,,Final,NBATV,15,26,21,29,,30,33,23,17,,NBA
+280206027,2007,"February 06, 2008",Washington Wizards,San Antonio Spurs,"24-24, 15-11 Home","31-16, 11-11 Away",77,85,,,Final,,15,22,21,19,,20,18,19,28,,NBA
+280210021,2007,"February 10, 2008",Phoenix Suns,Washington Wizards,"36-15, 19-6 Home","24-26, 9-15 Away",108,107,,,Final,ESPN,27,24,34,23,,21,25,35,26,,NBA
+280213012,2007,"February 13, 2008",LA Clippers,Washington Wizards,"17-33, 9-16 Home","25-27, 10-16 Away",89,91,,,Final,,17,15,28,29,,25,20,16,30,,NBA
+280222005,2007,"February 22, 2008",Cleveland Cavaliers,Washington Wizards,"31-24, 16-10 Home","25-29, 10-17 Away",90,89,,,Final,ESPN,23,20,24,23,,24,18,23,24,,NBA
+280225003,2007,"February 25, 2008",New Orleans Hornets,Washington Wizards,"37-18, 18-10 Home","27-29, 11-17 Away",92,95,,,Final,,28,24,22,18,,20,21,27,27,,NBA
+280229004,2007,"February 29, 2008",Chicago Bulls,Washington Wizards,"23-35, 12-15 Home","28-30, 12-18 Away",91,97,,,Final,,30,22,14,25,,23,11,35,28,,NBA
+280305027,2007,"March 05, 2008",Washington Wizards,Orlando Magic,"29-31, 17-13 Home","40-23, 22-12 Away",92,122,,,Final,,20,24,23,25,,34,25,30,33,,NBA
+280308027,2007,"March 08, 2008",Washington Wizards,Charlotte Bobcats,"30-32, 17-14 Home","24-39, 6-22 Away",97,100,,,Final,,21,26,23,27,,35,19,26,20,,NBA
+280313027,2007,"March 13, 2008",Washington Wizards,Cleveland Cavaliers,"32-32, 19-14 Home","37-29, 16-19 Away",101,99,,,Final,TNT,27,19,34,21,,24,30,25,20,,NBA
+280317027,2007,"March 17, 2008",Washington Wizards,Atlanta Hawks,"33-33, 20-15 Home","29-38, 9-25 Away",96,105,,,Final,,24,29,24,19,,29,25,30,21,,NBA
+280321014,2007,"March 21, 2008",Miami Heat,Washington Wizards,"12-56, 6-29 Home","35-33, 15-18 Away",86,103,,,Final,,20,19,23,24,,26,26,35,16,,NBA
+280325022,2007,"March 25, 2008",Portland Trail Blazers,Washington Wizards,"38-34, 25-10 Home","36-34, 15-19 Away",102,82,,,Final,NBATV,31,28,23,20,,22,21,23,16,,NBA
+280328023,2007,"March 28, 2008",Sacramento Kings,Washington Wizards,"32-40, 22-13 Home","38-34, 17-19 Away",108,114,,,Final,,31,27,21,29,,27,20,35,32,,NBA
+280331026,2007,"March 31, 2008",Utah Jazz,Washington Wizards,"49-26, 33-4 Home","38-36, 17-21 Away",129,87,,,Final,,31,42,32,24,,22,19,25,21,,NBA
+280404027,2007,"April 04, 2008",Washington Wizards,Miami Heat,"39-37, 22-16 Home","13-63, 6-33 Away",109,95,,,Final,,29,31,28,21,,23,21,28,23,,NBA
+280409027,2007,"April 09, 2008",Washington Wizards,Boston Celtics,"41-37, 23-16 Home","62-16, 29-10 Away",109,95,,,Final,ESPN,30,25,27,27,,25,28,18,24,,NBA
+280412027,2007,"April 12, 2008",Washington Wizards,Philadelphia 76ers,"42-38, 24-16 Home","40-40, 18-22 Away",109,93,,,Final,NBATV,23,34,21,31,,30,23,31,9,,NBA
+271031011,2007,"October 31, 2007",Indiana Pacers,Washington Wizards,"1-0, 1-0 Home","0-1, 0-1 Away",119,110,,,Final/OT,,28,20,22,33,16.0,23,22,25,33,7.0,NBA
+271103027,2007,"November 03, 2007",Washington Wizards,Orlando Magic,"0-3, 0-1 Home","2-1, 1-0 Away",82,94,,,Final,,18,24,25,15,,19,31,14,30,,NBA
+271109027,2007,"November 09, 2007",Washington Wizards,Denver Nuggets,"0-5, 0-2 Home","3-3, 2-2 Away",92,118,,,Final,ESPN,26,25,11,30,,28,32,33,25,,NBA
+271114027,2007,"November 14, 2007",Washington Wizards,Indiana Pacers,"2-5, 1-2 Home","3-5, 1-2 Away",103,90,,,Final,,28,28,27,20,,15,26,25,24,,NBA
+271117027,2007,"November 17, 2007",Washington Wizards,Portland Trail Blazers,"4-5, 2-2 Home","4-6, 0-6 Away",109,90,,,Final,,22,25,31,31,,15,23,25,27,,NBA
+271121030,2007,"November 21, 2007",Charlotte Bobcats,Washington Wizards,"6-5, 5-3 Home","6-5, 3-3 Away",111,114,,,Final/OT,,20,26,32,26,7.0,26,18,35,25,10.0,NBA
+271124029,2007,"November 24, 2007",Memphis Grizzlies,Washington Wizards,"4-9, 3-4 Home","6-7, 3-4 Away",124,118,,,Final,,26,24,32,42,,26,27,25,40,,NBA
+271128024,2007,"November 28, 2007",San Antonio Spurs,Washington Wizards,"13-3, 9-0 Home","7-8, 4-5 Away",109,94,,,Final,,24,25,30,30,,23,23,24,24,,NBA
+271201027,2007,"December 01, 2007",Washington Wizards,Toronto Raptors,"8-9, 4-3 Home","9-8, 4-4 Away",101,97,,,Final,NBATV,23,30,25,23,,23,22,30,22,,NBA
+271207027,2007,"December 07, 2007",Washington Wizards,Phoenix Suns,"9-10, 5-4 Home","16-4, 10-2 Away",107,122,,,Final,,26,29,21,31,,30,30,40,22,,NBA
+271211027,2007,"December 11, 2007",Washington Wizards,Minnesota Timberwolves,"11-10, 7-4 Home","3-16, 1-8 Away",102,88,,,Final,,26,30,27,19,,26,20,23,19,,NBA
+271215027,2007,"December 15, 2007",Washington Wizards,Sacramento Kings,"13-10, 8-4 Home","9-14, 1-10 Away",92,79,,,Final,,33,19,28,12,,24,27,16,12,,NBA
+271221027,2007,"December 21, 2007",Washington Wizards,Atlanta Hawks,"13-12, 8-6 Home","14-12, 5-6 Away",92,97,,,Final,,21,26,20,25,,25,20,23,29,,NBA
+271226030,2007,"December 26, 2007",Charlotte Bobcats,Washington Wizards,"10-16, 9-7 Home","14-13, 6-7 Away",104,108,,,Final,,30,25,19,30,,41,17,23,27,,NBA
+271229027,2007,"December 29, 2007",Washington Wizards,Miami Heat,"15-14, 9-6 Home","8-23, 4-13 Away",96,74,,,Final,NBATV,26,32,24,14,,18,21,16,19,,NBA
+280104015,2007,"January 04, 2008",Milwaukee Bucks,Washington Wizards,"12-20, 9-5 Home","16-15, 7-8 Away",77,101,,,Final,,10,21,18,28,,23,29,27,22,,NBA
+280108027,2007,"January 08, 2008",Washington Wizards,Houston Rockets,"17-16, 10-8 Home","18-17, 10-11 Away",84,92,,,Final,NBATV,24,19,20,21,,31,21,22,18,,NBA
+280112027,2007,"January 12, 2008",Washington Wizards,Boston Celtics,"19-16, 11-8 Home","30-5, 14-3 Away",85,78,,,Final,,23,18,19,25,,19,21,25,13,,NBA
+280115018,2007,"January 15, 2008",New York Knicks,Washington Wizards,"11-26, 9-13 Home","20-17, 9-9 Away",105,93,,,Final,,30,21,26,28,,14,27,31,21,,NBA
+280121027,2007,"January 21, 2008",Washington Wizards,Dallas Mavericks,"22-17, 13-8 Home","27-13, 9-10 Away",102,84,,,Final,,23,23,27,29,,21,20,19,24,,NBA
+280125027,2007,"January 25, 2008",Washington Wizards,Memphis Grizzlies,"23-18, 14-8 Home","12-31, 4-17 Away",104,93,,,Final,,30,29,25,20,,9,29,33,22,,NBA
+280129027,2007,"January 29, 2008",Washington Wizards,Toronto Raptors,"24-19, 15-8 Home","24-20, 11-12 Away",108,104,,,Final/OT,TSNT,23,23,25,24,13.0,20,30,15,30,9.0,NBA
+280201027,2007,"February 01, 2008",Washington Wizards,Utah Jazz,"24-21, 15-9 Home","29-18, 9-15 Away",87,96,,,Final,ESPN,21,18,27,21,,11,27,29,29,,NBA
+280205020,2007,"February 05, 2008",Philadelphia 76ers,Washington Wizards,"19-30, 10-14 Home","24-23, 9-13 Away",101,96,,,Final,,23,26,24,28,,25,31,27,13,,NBA
+280208007,2007,"February 08, 2008",Denver Nuggets,Washington Wizards,"30-19, 21-6 Home","24-25, 9-14 Away",111,100,,,Final,ESPN,30,26,32,23,,16,31,25,28,,NBA
+280211009,2007,"February 11, 2008",Golden State Warriors,Washington Wizards,"31-20, 16-9 Home","24-27, 9-16 Away",120,117,,,Final,NBATV/TNT,22,33,29,36,,37,35,23,22,,NBA
+280219027,2007,"February 19, 2008",Washington Wizards,New York Knicks,"25-28, 15-12 Home","16-37, 6-20 Away",100,113,,,Final/OT,,20,30,20,20,10.0,23,23,21,23,23.0,NBA
+280223027,2007,"February 23, 2008",Washington Wizards,Charlotte Bobcats,"26-29, 16-12 Home","19-37, 4-20 Away",110,95,,,Final,,28,23,27,32,,27,25,19,24,,NBA
+280226010,2007,"February 26, 2008",Houston Rockets,Washington Wizards,"37-20, 19-9 Home","27-30, 11-18 Away",94,69,,,Final,,24,27,17,26,,12,11,26,20,,NBA
+280302027,2007,"March 02, 2008",Washington Wizards,New Orleans Hornets,"29-30, 17-12 Home","39-19, 19-9 Away",101,84,,,Final,,18,35,21,27,,20,20,29,15,,NBA
+280307028,2007,"March 07, 2008",Toronto Raptors,Washington Wizards,"33-28, 18-13 Home","30-31, 13-18 Away",106,110,,,Final/OT,TSNT,20,25,29,24,8.0,29,24,15,30,12.0,NBA
+280311027,2007,"March 11, 2008",Washington Wizards,Milwaukee Bucks,"31-32, 18-14 Home","23-41, 6-27 Away",105,97,,,Final,,26,31,22,26,,22,22,33,20,,NBA
+280315027,2007,"March 15, 2008",Washington Wizards,LA Clippers,"33-32, 20-14 Home","21-44, 9-22 Away",119,109,,,Final/OT,NBATV,25,30,20,25,19.0,25,30,23,22,9.0,NBA
+280319019,2007,"March 19, 2008",Orlando Magic,Washington Wizards,"45-25, 22-13 Home","34-33, 14-18 Away",86,87,,,Final,,26,17,22,21,,20,16,31,20,,NBA
+280323027,2007,"March 23, 2008",Washington Wizards,Detroit Pistons,"36-33, 21-15 Home","49-20, 22-14 Away",95,83,,,Final,ESPN,28,19,24,24,,20,20,25,18,,NBA
+280326025,2007,"March 26, 2008",Seattle SuperSonics,Washington Wizards,"17-55, 11-24 Home","37-34, 16-19 Away",99,104,,,Final,,23,33,19,24,,29,21,18,36,,NBA
+280330013,2007,"March 30, 2008",Los Angeles Lakers,Washington Wizards,"50-24, 25-11 Home","38-35, 17-20 Away",126,120,,,Final/OT,,27,31,28,25,15.0,25,22,39,25,9.0,NBA
+280402027,2007,"April 02, 2008",Washington Wizards,Milwaukee Bucks,"38-37, 21-16 Home","26-48, 7-30 Away",109,110,,,Final,,33,28,25,23,,30,24,24,32,,NBA
+280405004,2007,"April 05, 2008",Chicago Bulls,Washington Wizards,"30-46, 18-20 Home","40-37, 18-21 Away",87,99,,,Final,,22,21,21,23,,25,17,34,23,,NBA
+280411008,2007,"April 11, 2008",Detroit Pistons,Washington Wizards,"56-23, 32-7 Home","41-38, 18-22 Away",102,74,,,Final,,23,24,34,21,,19,23,13,19,,NBA
+280414027,2007,"April 14, 2008",Washington Wizards,Indiana Pacers,"43-38, 25-16 Home","35-46, 15-26 Away",117,110,,,Final,,35,31,32,19,,28,26,27,29,,NBA
+280416019,2007,"April 16, 2008",Orlando Magic,Washington Wizards,"52-30, 25-16 Home","43-39, 18-23 Away",103,83,,,Final,,24,23,23,33,,19,22,19,23,,NBA

@@ -1,83 +1,83 @@
-,Unnamed: 0,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-0,0,301028026,2010,"Thu, Oct 28",Utah Jazz,Phoenix Suns,"0-2, 0-1 Home","1-1, 1-1 Away",94,110,,,Final,TNT,22,20,30,22,,27,31,26,26,,NBA
-1,1,301103021,2010,"Wed, Nov 3",Phoenix Suns,San Antonio Spurs,"1-3, 0-2 Home","3-1, 2-0 Away",110,112,,,Final,,22,28,29,31,,23,27,31,31,,NBA
-2,2,301107001,2010,"Sun, Nov 7",Atlanta Hawks,Phoenix Suns,"6-1, 2-1 Home","3-3, 2-1 Away",114,118,,,Final,,28,22,38,26,,30,31,29,28,,NBA
-3,3,301112021,2010,"Fri, Nov 12",Phoenix Suns,Sacramento Kings,"4-4, 2-2 Home","3-5, 2-2 Away",103,89,,,Final,,30,22,25,26,,24,19,25,21,,NBA
-4,4,301115021,2010,"Mon, Nov 15",Phoenix Suns,Denver Nuggets,"6-4, 3-2 Home","5-5, 2-4 Away",100,94,,,Final,,20,26,23,31,,22,36,18,18,,NBA
-5,5,301118019,2010,"Thu, Nov 18",Orlando Magic,Phoenix Suns,"8-3, 6-2 Home","6-6, 3-4 Away",105,89,,,Final,TNT,31,31,29,14,,15,19,25,30,,NBA
-6,6,301122010,2010,"Mon, Nov 22",Houston Rockets,Phoenix Suns,"3-10, 1-4 Home","7-7, 4-5 Away",116,123,,,Final,,25,20,31,40,,26,33,31,33,,NBA
-7,7,301126021,2010,"Fri, Nov 26",Phoenix Suns,LA Clippers,"8-8, 4-3 Home","3-14, 0-8 Away",116,108,,,Final,,42,25,31,18,,21,30,30,27,,NBA
-8,8,301202009,2010,"Thu, Dec 2",Golden State Warriors,Phoenix Suns,"8-11, 5-4 Home","9-9, 5-6 Away",101,107,,,Final,TNT,20,29,23,29,,31,21,23,32,,NBA
-9,9,301205021,2010,"Sun, Dec 5",Phoenix Suns,Washington Wizards,"11-9, 6-3 Home","6-13, 0-10 Away",125,108,,,Final,,28,36,31,30,,31,30,17,30,,NBA
-10,10,301208021,2010,"Wed, Dec 8",Phoenix Suns,Memphis Grizzlies,"11-11, 6-4 Home","9-14, 3-9 Away",98,104,,,Final/OT,,22,19,23,28,6.0,25,28,25,14,12.0,NBA
-11,11,301215021,2010,"Wed, Dec 15",Phoenix Suns,Minnesota Timberwolves,"12-12, 7-5 Home","6-20, 1-14 Away",128,122,,,Final,,31,25,35,37,,30,26,30,36,,NBA
-12,12,301219025,2010,"Sun, Dec 19",Oklahoma City Thunder,Phoenix Suns,"19-9, 10-5 Home","13-13, 6-8 Away",110,113,,,Final,NBATV,23,22,40,25,,25,29,28,31,,NBA
-13,13,301223021,2010,"Thu, Dec 23",Phoenix Suns,Miami Heat,"13-15, 7-6 Home","22-9, 10-5 Away",83,95,,,Final,TNT,22,17,20,24,,19,26,27,23,,NBA
-14,14,301229021,2010,"Wed, Dec 29",Phoenix Suns,Philadelphia 76ers,"13-17, 7-7 Home","13-19, 5-13 Away",110,123,,,Final,CSN,35,30,21,24,,33,33,26,31,,NBA
-15,15,310102023,2010,"Sun, Jan 2",Sacramento Kings,Phoenix Suns,"7-24, 5-14 Home","14-18, 6-11 Away",94,89,,,Final,,17,22,26,29,,27,21,25,16,,NBA
-16,16,310107021,2010,"Fri, Jan 7",Phoenix Suns,New York Knicks,"14-20, 8-9 Home","21-14, 11-7 Away",96,121,,,Final,ESPN,22,23,26,25,,30,25,38,28,,NBA
-17,17,310111007,2010,"Tue, Jan 11",Denver Nuggets,Phoenix Suns,"21-16, 16-4 Home","15-21, 6-12 Away",132,98,,,Final,NBATV,20,44,38,30,,32,23,17,26,,NBA
-18,18,310114021,2010,"Fri, Jan 14",Phoenix Suns,Portland Trail Blazers,"17-21, 11-9 Home","20-20, 8-15 Away",115,111,,,Final,ESPN,28,28,29,30,,36,23,27,25,,NBA
-19,19,310119005,2010,"Wed, Jan 19",Cleveland Cavaliers,Phoenix Suns,"8-33, 5-13 Home","19-21, 8-12 Away",98,106,,,Final,,28,21,28,21,,36,26,28,16,,NBA
-20,20,310122008,2010,"Sat, Jan 22",Detroit Pistons,Phoenix Suns,"16-28, 12-9 Home","20-22, 9-13 Away",75,74,,,Final,,21,15,11,28,,17,21,23,13,,NBA
-21,21,310126021,2010,"Wed, Jan 26",Phoenix Suns,Charlotte Bobcats,"20-24, 11-10 Home","19-25, 7-14 Away",107,114,,,Final,,26,31,30,20,,31,28,33,22,,NBA
-22,22,310130021,2010,"Sun, Jan 30",Phoenix Suns,New Orleans Hornets,"22-24, 13-10 Home","31-18, 12-13 Away",104,102,,,Final,,27,26,35,16,,25,28,27,22,,NBA
-23,23,310204021,2010,"Fri, Feb 4",Phoenix Suns,Oklahoma City Thunder,"23-25, 14-11 Home","32-17, 14-10 Away",107,111,,,Final,,36,24,27,20,,31,32,17,31,,NBA
-24,24,310210021,2010,"Thu, Feb 10",Phoenix Suns,Golden State Warriors,"25-25, 15-11 Home","23-29, 6-18 Away",112,88,,,Final,,32,33,22,25,,22,20,19,27,,NBA
-25,25,310213021,2010,"Sun, Feb 13",Phoenix Suns,Sacramento Kings,"26-26, 15-12 Home","13-38, 6-16 Away",108,113,,,Final,,32,25,24,27,,30,20,28,35,,NBA
-26,26,310217021,2010,"Thu, Feb 17",Phoenix Suns,Dallas Mavericks,"27-27, 16-13 Home","40-16, 19-8 Away",106,112,,,Final,TNT,25,26,29,26,,28,26,31,27,,NBA
-27,27,310225028,2010,"Fri, Feb 25",Toronto Raptors,Phoenix Suns,"16-43, 11-19 Home","29-27, 12-14 Away",92,110,,,Final,TSN2,14,28,20,30,,35,25,26,24,,NBA
-28,28,310228017,2010,"Mon, Feb 28",New Jersey Nets,Phoenix Suns,"17-43, 13-16 Home","31-27, 14-14 Away",103,104,,,Final/OT,,23,28,15,30,7.0,26,26,17,27,8.0,NBA
-29,29,310304015,2010,"Fri, Mar 4",Milwaukee Bucks,Phoenix Suns,"23-37, 15-15 Home","32-28, 15-15 Away",88,102,,,Final,,26,22,15,25,,22,23,31,26,,NBA
-30,30,310308021,2010,"Tue, Mar 8",Phoenix Suns,Houston Rockets,"33-29, 18-13 Home","33-33, 16-20 Away",113,110,,,Final,,24,24,31,34,,26,24,32,28,,NBA
-31,31,310313021,2010,"Sun, Mar 13",Phoenix Suns,Orlando Magic,"33-31, 18-15 Home","42-25, 18-14 Away",88,111,,,Final,ABC,26,26,13,23,,32,29,26,24,,NBA
-32,32,310316003,2010,"Wed, Mar 16",New Orleans Hornets,Phoenix Suns,"40-30, 24-10 Home","33-33, 15-18 Away",100,95,,,Final,,31,25,21,23,,29,17,19,30,,NBA
-33,33,310320012,2010,"Sun, Mar 20",LA Clippers,Phoenix Suns,"27-44, 19-17 Home","35-33, 16-18 Away",99,108,,,Final,,23,26,29,21,,27,27,27,27,,NBA
-34,34,310323021,2010,"Wed, Mar 23",Phoenix Suns,Toronto Raptors,"36-34, 20-15 Home","20-51, 6-29 Away",114,106,,,Final,TSNT,26,29,31,28,,32,29,25,20,,NBA
-35,35,310327021,2010,"Sun, Mar 27",Phoenix Suns,Dallas Mavericks,"36-36, 20-17 Home","52-21, 26-10 Away",83,91,,,Final,ESPN,26,23,18,16,,17,27,21,26,,NBA
-36,36,310330021,2010,"Wed, Mar 30",Phoenix Suns,Oklahoma City Thunder,"36-38, 20-18 Home","50-24, 22-14 Away",98,116,,,Final,,28,23,22,25,,33,22,24,37,,NBA
-37,37,310403024,2010,"Sun, Apr 3",San Antonio Spurs,Phoenix Suns,"58-19, 34-5 Home","37-39, 16-21 Away",114,97,,,Final,ABC,35,35,21,23,,20,26,25,26,,NBA
-38,38,310406016,2010,"Wed, Apr 6",Minnesota Timberwolves,Phoenix Suns,"17-62, 12-28 Home","38-40, 17-22 Away",98,108,,,Final,,23,30,24,21,,26,30,26,26,,NBA
-39,39,310410006,2010,"Sun, Apr 10",Dallas Mavericks,Phoenix Suns,"55-25, 28-12 Home","38-42, 17-24 Away",115,90,,,Final,,36,29,15,35,,17,22,21,30,,NBA
-40,40,301026022,2010,"Tue, Oct 26",Portland Trail Blazers,Phoenix Suns,"1-0, 1-0 Home","0-1, 0-1 Away",106,92,,,Final,,28,22,25,31,,26,20,35,11,,NBA
-41,41,301029021,2010,"Fri, Oct 29",Phoenix Suns,Los Angeles Lakers,"1-2, 0-1 Home","2-0, 1-0 Away",106,114,,,Final,ESPN,27,23,29,27,,28,29,30,27,,NBA
-42,42,301105021,2010,"Fri, Nov 5",Phoenix Suns,Memphis Grizzlies,"2-3, 1-2 Home","2-4, 1-3 Away",123,118,,,Final/2OT,,20,25,25,29,24.0,35,20,21,23,19.0,NBA
-43,43,301108029,2010,"Mon, Nov 8",Memphis Grizzlies,Phoenix Suns,"4-4, 2-1 Home","3-4, 2-2 Away",109,99,,,Final,,28,27,33,21,,26,26,23,24,,NBA
-44,44,301114013,2010,"Sun, Nov 14",Los Angeles Lakers,Phoenix Suns,"8-2, 6-1 Home","5-4, 3-2 Away",116,121,,,Final,,25,28,31,32,,23,33,36,29,,NBA
-45,45,301117014,2010,"Wed, Nov 17",Miami Heat,Phoenix Suns,"7-4, 5-2 Home","6-5, 3-3 Away",123,96,,,Final,ESPN,27,37,36,23,,24,19,30,23,,NBA
-46,46,301120030,2010,"Sat, Nov 20",Charlotte Bobcats,Phoenix Suns,"5-8, 2-4 Home","6-7, 3-5 Away",123,105,,,Final,,30,25,34,34,,25,26,23,31,,NBA
-47,47,301124021,2010,"Wed, Nov 24",Phoenix Suns,Chicago Bulls,"7-8, 3-3 Home","8-5, 3-4 Away",115,123,,,Final/2OT,,36,26,22,17,14.0,17,33,22,29,22.0,NBA
-48,48,301128007,2010,"Sun, Nov 28",Denver Nuggets,Phoenix Suns,"10-6, 7-1 Home","8-9, 4-6 Away",138,133,,,Final,,31,37,37,33,,18,39,32,44,,NBA
-49,49,301203021,2010,"Fri, Dec 3",Phoenix Suns,Indiana Pacers,"10-9, 5-3 Home","9-9, 5-4 Away",105,97,,,Final,,20,32,22,31,,28,31,17,21,,NBA
-50,50,301207022,2010,"Tue, Dec 7",Portland Trail Blazers,Phoenix Suns,"10-11, 6-3 Home","11-10, 5-7 Away",106,99,,,Final,,29,22,18,37,,23,24,28,24,,NBA
-51,51,301210021,2010,"Fri, Dec 10",Phoenix Suns,Portland Trail Blazers,"11-12, 6-5 Home","12-11, 5-8 Away",94,101,,,Final,,22,31,20,21,,28,33,26,14,,NBA
-52,52,301217006,2010,"Fri, Dec 17",Dallas Mavericks,Phoenix Suns,"21-5, 13-4 Home","12-13, 5-8 Away",106,91,,,Final,ESPN,22,32,26,26,,25,17,17,32,,NBA
-53,53,301220024,2010,"Mon, Dec 20",San Antonio Spurs,Phoenix Suns,"24-3, 15-2 Home","13-14, 6-9 Away",118,110,,,Final,,27,26,40,25,,26,28,24,32,,NBA
-54,54,301226012,2010,"Sun, Dec 26",LA Clippers,Phoenix Suns,"9-22, 7-11 Home","13-16, 6-10 Away",108,103,,,Final,,33,28,18,29,,18,31,29,25,,NBA
-55,55,301231021,2010,"Fri, Dec 31",Phoenix Suns,Detroit Pistons,"14-17, 8-7 Home","11-22, 3-14 Away",92,75,,,Final,,24,26,18,24,,14,18,26,17,,NBA
-56,56,310105021,2010,"Wed, Jan 5",Phoenix Suns,Los Angeles Lakers,"14-19, 8-8 Home","25-11, 13-6 Away",95,99,,,Final,ESPN,24,26,23,22,,31,18,31,19,,NBA
-57,57,310109021,2010,"Sun, Jan 9",Phoenix Suns,Cleveland Cavaliers,"15-20, 9-9 Home","8-29, 3-17 Away",108,100,,,Final,NBATV,26,25,30,27,,26,26,29,19,,NBA
-58,58,310112021,2010,"Wed, Jan 12",Phoenix Suns,New Jersey Nets,"16-21, 10-9 Home","10-28, 3-18 Away",118,109,,,Final/OT,,28,27,18,30,15.0,28,29,27,19,6.0,NBA
-59,59,310117018,2010,"Mon, Jan 17",New York Knicks,Phoenix Suns,"22-18, 10-9 Home","18-21, 7-12 Away",121,129,,,Final,,30,34,27,30,,39,22,36,32,,NBA
-60,60,310121027,2010,"Fri, Jan 21",Washington Wizards,Phoenix Suns,"12-29, 12-9 Home","20-21, 9-12 Away",91,109,,,Final,ESPN,33,20,18,20,,22,30,31,26,,NBA
-61,61,310124020,2010,"Mon, Jan 24",Philadelphia 76ers,Phoenix Suns,"19-25, 14-7 Home","20-23, 9-14 Away",105,95,,,Final,CSN,26,35,26,18,,25,22,23,25,,NBA
-62,62,310128021,2010,"Fri, Jan 28",Phoenix Suns,Boston Celtics,"21-24, 12-10 Home","35-11, 13-8 Away",88,71,,,Final,ESPN,30,19,26,13,,16,19,23,13,,NBA
-63,63,310202021,2010,"Wed, Feb 2",Phoenix Suns,Milwaukee Bucks,"23-24, 14-10 Home","19-28, 8-18 Away",92,77,,,Final,,25,27,19,21,,17,14,22,24,,NBA
-64,64,310207009,2010,"Mon, Feb 7",Golden State Warriors,Phoenix Suns,"22-28, 16-11 Home","24-25, 10-14 Away",92,104,,,Final,NBATV,17,28,30,17,,33,29,27,15,,NBA
-65,65,310211026,2010,"Fri, Feb 11",Utah Jazz,Phoenix Suns,"31-24, 17-12 Home","26-25, 11-14 Away",83,95,,,Final,ESPN,31,25,13,14,,19,25,27,24,,NBA
-66,66,310215021,2010,"Tue, Feb 15",Phoenix Suns,Utah Jazz,"27-26, 16-12 Home","31-25, 14-13 Away",102,101,,,Final,,29,21,26,26,,27,26,20,28,,NBA
-67,67,310223021,2010,"Wed, Feb 23",Phoenix Suns,Atlanta Hawks,"28-27, 17-13 Home","34-23, 17-14 Away",105,97,,,Final,,33,28,19,25,,31,16,24,26,,NBA
-68,68,310227011,2010,"Sun, Feb 27",Indiana Pacers,Phoenix Suns,"26-32, 16-14 Home","30-27, 13-14 Away",108,110,,,Final/OT,,29,22,21,27,9.0,33,27,22,17,11.0,NBA
-69,69,310302002,2010,"Wed, Mar 2",Boston Celtics,Phoenix Suns,"44-15, 26-5 Home","31-28, 14-15 Away",115,103,,,Final,NBATV,32,30,29,24,,21,21,30,31,,NBA
-70,70,310306025,2010,"Sun, Mar 6",Oklahoma City Thunder,Phoenix Suns,"39-22, 22-9 Home","32-29, 15-16 Away",122,118,,,Final/OT,,25,32,29,23,13.0,28,33,30,18,9.0,NBA
-71,71,310310021,2010,"Thu, Mar 10",Phoenix Suns,Denver Nuggets,"33-30, 18-14 Home","38-27, 12-20 Away",97,116,,,Final,TNT,25,24,17,31,,30,29,31,26,,NBA
-72,72,310314010,2010,"Mon, Mar 14",Houston Rockets,Phoenix Suns,"34-34, 18-14 Home","33-32, 15-17 Away",95,93,,,Final,,27,23,24,21,,16,26,22,29,,NBA
-73,73,310318021,2010,"Fri, Mar 18",Phoenix Suns,Golden State Warriors,"34-33, 19-15 Home","30-39, 9-25 Away",108,97,,,Final,,27,23,34,24,,20,18,27,32,,NBA
-74,74,310322013,2010,"Tue, Mar 22",Los Angeles Lakers,Phoenix Suns,"51-20, 26-8 Home","35-34, 16-19 Away",139,137,,,Final/3OT,TNT,27,39,29,17,27.0,31,29,26,26,25.0,NBA
-75,75,310325021,2010,"Fri, Mar 25",Phoenix Suns,New Orleans Hornets,"36-35, 20-16 Home","42-31, 18-20 Away",100,106,,,Final,NBATV,27,29,22,22,,21,29,23,33,,NBA
-76,76,310329023,2010,"Tue, Mar 29",Sacramento Kings,Phoenix Suns,"21-52, 10-27 Home","36-37, 16-20 Away",116,113,,,Final,,30,29,26,31,,34,27,32,20,,NBA
-77,77,310401021,2010,"Fri, Apr 1",Phoenix Suns,LA Clippers,"37-38, 21-18 Home","29-47, 8-29 Away",111,98,,,Final,,25,32,31,23,,23,21,26,28,,NBA
-78,78,310405004,2010,"Tue, Apr 5",Chicago Bulls,Phoenix Suns,"57-20, 34-5 Home","37-40, 16-22 Away",97,94,,,Final,,25,28,28,16,,24,16,30,24,,NBA
-79,79,310408003,2010,"Fri, Apr 8",New Orleans Hornets,Phoenix Suns,"46-33, 28-12 Home","38-41, 17-23 Away",109,97,,,Final,NBATV,31,28,26,24,,30,23,26,18,,NBA
-80,80,310411021,2010,"Mon, Apr 11",Phoenix Suns,Minnesota Timberwolves,"39-42, 22-18 Home","17-64, 5-36 Away",135,127,,,Final/OT,,24,34,34,29,14.0,33,32,27,29,6.0,NBA
-81,81,310413021,2010,"Wed, Apr 13",Phoenix Suns,San Antonio Spurs,"40-42, 23-18 Home","61-21, 25-16 Away",106,103,,,Final,,43,18,24,21,,27,26,21,29,,NBA
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+301028026,2010,"October 28, 2010",Utah Jazz,Phoenix Suns,"0-2, 0-1 Home","1-1, 1-1 Away",94,110,,,Final,TNT,22,20,30,22,,27,31,26,26,,NBA
+301103021,2010,"November 03, 2010",Phoenix Suns,San Antonio Spurs,"1-3, 0-2 Home","3-1, 2-0 Away",110,112,,,Final,,22,28,29,31,,23,27,31,31,,NBA
+301107001,2010,"November 07, 2010",Atlanta Hawks,Phoenix Suns,"6-1, 2-1 Home","3-3, 2-1 Away",114,118,,,Final,,28,22,38,26,,30,31,29,28,,NBA
+301112021,2010,"November 12, 2010",Phoenix Suns,Sacramento Kings,"4-4, 2-2 Home","3-5, 2-2 Away",103,89,,,Final,,30,22,25,26,,24,19,25,21,,NBA
+301115021,2010,"November 15, 2010",Phoenix Suns,Denver Nuggets,"6-4, 3-2 Home","5-5, 2-4 Away",100,94,,,Final,,20,26,23,31,,22,36,18,18,,NBA
+301118019,2010,"November 18, 2010",Orlando Magic,Phoenix Suns,"8-3, 6-2 Home","6-6, 3-4 Away",105,89,,,Final,TNT,31,31,29,14,,15,19,25,30,,NBA
+301122010,2010,"November 22, 2010",Houston Rockets,Phoenix Suns,"3-10, 1-4 Home","7-7, 4-5 Away",116,123,,,Final,,25,20,31,40,,26,33,31,33,,NBA
+301126021,2010,"November 26, 2010",Phoenix Suns,LA Clippers,"8-8, 4-3 Home","3-14, 0-8 Away",116,108,,,Final,,42,25,31,18,,21,30,30,27,,NBA
+301202009,2010,"December 02, 2010",Golden State Warriors,Phoenix Suns,"8-11, 5-4 Home","9-9, 5-6 Away",101,107,,,Final,TNT,20,29,23,29,,31,21,23,32,,NBA
+301205021,2010,"December 05, 2010",Phoenix Suns,Washington Wizards,"11-9, 6-3 Home","6-13, 0-10 Away",125,108,,,Final,,28,36,31,30,,31,30,17,30,,NBA
+301208021,2010,"December 08, 2010",Phoenix Suns,Memphis Grizzlies,"11-11, 6-4 Home","9-14, 3-9 Away",98,104,,,Final/OT,,22,19,23,28,6.0,25,28,25,14,12.0,NBA
+301215021,2010,"December 15, 2010",Phoenix Suns,Minnesota Timberwolves,"12-12, 7-5 Home","6-20, 1-14 Away",128,122,,,Final,,31,25,35,37,,30,26,30,36,,NBA
+301219025,2010,"December 19, 2010",Oklahoma City Thunder,Phoenix Suns,"19-9, 10-5 Home","13-13, 6-8 Away",110,113,,,Final,NBATV,23,22,40,25,,25,29,28,31,,NBA
+301223021,2010,"December 23, 2010",Phoenix Suns,Miami Heat,"13-15, 7-6 Home","22-9, 10-5 Away",83,95,,,Final,TNT,22,17,20,24,,19,26,27,23,,NBA
+301229021,2010,"December 29, 2010",Phoenix Suns,Philadelphia 76ers,"13-17, 7-7 Home","13-19, 5-13 Away",110,123,,,Final,CSN,35,30,21,24,,33,33,26,31,,NBA
+310102023,2010,"January 02, 2011",Sacramento Kings,Phoenix Suns,"7-24, 5-14 Home","14-18, 6-11 Away",94,89,,,Final,,17,22,26,29,,27,21,25,16,,NBA
+310107021,2010,"January 07, 2011",Phoenix Suns,New York Knicks,"14-20, 8-9 Home","21-14, 11-7 Away",96,121,,,Final,ESPN,22,23,26,25,,30,25,38,28,,NBA
+310111007,2010,"January 11, 2011",Denver Nuggets,Phoenix Suns,"21-16, 16-4 Home","15-21, 6-12 Away",132,98,,,Final,NBATV,20,44,38,30,,32,23,17,26,,NBA
+310114021,2010,"January 14, 2011",Phoenix Suns,Portland Trail Blazers,"17-21, 11-9 Home","20-20, 8-15 Away",115,111,,,Final,ESPN,28,28,29,30,,36,23,27,25,,NBA
+310119005,2010,"January 19, 2011",Cleveland Cavaliers,Phoenix Suns,"8-33, 5-13 Home","19-21, 8-12 Away",98,106,,,Final,,28,21,28,21,,36,26,28,16,,NBA
+310122008,2010,"January 22, 2011",Detroit Pistons,Phoenix Suns,"16-28, 12-9 Home","20-22, 9-13 Away",75,74,,,Final,,21,15,11,28,,17,21,23,13,,NBA
+310126021,2010,"January 26, 2011",Phoenix Suns,Charlotte Bobcats,"20-24, 11-10 Home","19-25, 7-14 Away",107,114,,,Final,,26,31,30,20,,31,28,33,22,,NBA
+310130021,2010,"January 30, 2011",Phoenix Suns,New Orleans Hornets,"22-24, 13-10 Home","31-18, 12-13 Away",104,102,,,Final,,27,26,35,16,,25,28,27,22,,NBA
+310204021,2010,"February 04, 2011",Phoenix Suns,Oklahoma City Thunder,"23-25, 14-11 Home","32-17, 14-10 Away",107,111,,,Final,,36,24,27,20,,31,32,17,31,,NBA
+310210021,2010,"February 10, 2011",Phoenix Suns,Golden State Warriors,"25-25, 15-11 Home","23-29, 6-18 Away",112,88,,,Final,,32,33,22,25,,22,20,19,27,,NBA
+310213021,2010,"February 13, 2011",Phoenix Suns,Sacramento Kings,"26-26, 15-12 Home","13-38, 6-16 Away",108,113,,,Final,,32,25,24,27,,30,20,28,35,,NBA
+310217021,2010,"February 17, 2011",Phoenix Suns,Dallas Mavericks,"27-27, 16-13 Home","40-16, 19-8 Away",106,112,,,Final,TNT,25,26,29,26,,28,26,31,27,,NBA
+310225028,2010,"February 25, 2011",Toronto Raptors,Phoenix Suns,"16-43, 11-19 Home","29-27, 12-14 Away",92,110,,,Final,TSN2,14,28,20,30,,35,25,26,24,,NBA
+310228017,2010,"February 28, 2011",New Jersey Nets,Phoenix Suns,"17-43, 13-16 Home","31-27, 14-14 Away",103,104,,,Final/OT,,23,28,15,30,7.0,26,26,17,27,8.0,NBA
+310304015,2010,"March 04, 2011",Milwaukee Bucks,Phoenix Suns,"23-37, 15-15 Home","32-28, 15-15 Away",88,102,,,Final,,26,22,15,25,,22,23,31,26,,NBA
+310308021,2010,"March 08, 2011",Phoenix Suns,Houston Rockets,"33-29, 18-13 Home","33-33, 16-20 Away",113,110,,,Final,,24,24,31,34,,26,24,32,28,,NBA
+310313021,2010,"March 13, 2011",Phoenix Suns,Orlando Magic,"33-31, 18-15 Home","42-25, 18-14 Away",88,111,,,Final,ABC,26,26,13,23,,32,29,26,24,,NBA
+310316003,2010,"March 16, 2011",New Orleans Hornets,Phoenix Suns,"40-30, 24-10 Home","33-33, 15-18 Away",100,95,,,Final,,31,25,21,23,,29,17,19,30,,NBA
+310320012,2010,"March 20, 2011",LA Clippers,Phoenix Suns,"27-44, 19-17 Home","35-33, 16-18 Away",99,108,,,Final,,23,26,29,21,,27,27,27,27,,NBA
+310323021,2010,"March 23, 2011",Phoenix Suns,Toronto Raptors,"36-34, 20-15 Home","20-51, 6-29 Away",114,106,,,Final,TSNT,26,29,31,28,,32,29,25,20,,NBA
+310327021,2010,"March 27, 2011",Phoenix Suns,Dallas Mavericks,"36-36, 20-17 Home","52-21, 26-10 Away",83,91,,,Final,ESPN,26,23,18,16,,17,27,21,26,,NBA
+310330021,2010,"March 30, 2011",Phoenix Suns,Oklahoma City Thunder,"36-38, 20-18 Home","50-24, 22-14 Away",98,116,,,Final,,28,23,22,25,,33,22,24,37,,NBA
+310403024,2010,"April 03, 2011",San Antonio Spurs,Phoenix Suns,"58-19, 34-5 Home","37-39, 16-21 Away",114,97,,,Final,ABC,35,35,21,23,,20,26,25,26,,NBA
+310406016,2010,"April 06, 2011",Minnesota Timberwolves,Phoenix Suns,"17-62, 12-28 Home","38-40, 17-22 Away",98,108,,,Final,,23,30,24,21,,26,30,26,26,,NBA
+310410006,2010,"April 10, 2011",Dallas Mavericks,Phoenix Suns,"55-25, 28-12 Home","38-42, 17-24 Away",115,90,,,Final,,36,29,15,35,,17,22,21,30,,NBA
+301026022,2010,"October 26, 2010",Portland Trail Blazers,Phoenix Suns,"1-0, 1-0 Home","0-1, 0-1 Away",106,92,,,Final,,28,22,25,31,,26,20,35,11,,NBA
+301029021,2010,"October 29, 2010",Phoenix Suns,Los Angeles Lakers,"1-2, 0-1 Home","2-0, 1-0 Away",106,114,,,Final,ESPN,27,23,29,27,,28,29,30,27,,NBA
+301105021,2010,"November 05, 2010",Phoenix Suns,Memphis Grizzlies,"2-3, 1-2 Home","2-4, 1-3 Away",123,118,,,Final/2OT,,20,25,25,29,24.0,35,20,21,23,19.0,NBA
+301108029,2010,"November 08, 2010",Memphis Grizzlies,Phoenix Suns,"4-4, 2-1 Home","3-4, 2-2 Away",109,99,,,Final,,28,27,33,21,,26,26,23,24,,NBA
+301114013,2010,"November 14, 2010",Los Angeles Lakers,Phoenix Suns,"8-2, 6-1 Home","5-4, 3-2 Away",116,121,,,Final,,25,28,31,32,,23,33,36,29,,NBA
+301117014,2010,"November 17, 2010",Miami Heat,Phoenix Suns,"7-4, 5-2 Home","6-5, 3-3 Away",123,96,,,Final,ESPN,27,37,36,23,,24,19,30,23,,NBA
+301120030,2010,"November 20, 2010",Charlotte Bobcats,Phoenix Suns,"5-8, 2-4 Home","6-7, 3-5 Away",123,105,,,Final,,30,25,34,34,,25,26,23,31,,NBA
+301124021,2010,"November 24, 2010",Phoenix Suns,Chicago Bulls,"7-8, 3-3 Home","8-5, 3-4 Away",115,123,,,Final/2OT,,36,26,22,17,14.0,17,33,22,29,22.0,NBA
+301128007,2010,"November 28, 2010",Denver Nuggets,Phoenix Suns,"10-6, 7-1 Home","8-9, 4-6 Away",138,133,,,Final,,31,37,37,33,,18,39,32,44,,NBA
+301203021,2010,"December 03, 2010",Phoenix Suns,Indiana Pacers,"10-9, 5-3 Home","9-9, 5-4 Away",105,97,,,Final,,20,32,22,31,,28,31,17,21,,NBA
+301207022,2010,"December 07, 2010",Portland Trail Blazers,Phoenix Suns,"10-11, 6-3 Home","11-10, 5-7 Away",106,99,,,Final,,29,22,18,37,,23,24,28,24,,NBA
+301210021,2010,"December 10, 2010",Phoenix Suns,Portland Trail Blazers,"11-12, 6-5 Home","12-11, 5-8 Away",94,101,,,Final,,22,31,20,21,,28,33,26,14,,NBA
+301217006,2010,"December 17, 2010",Dallas Mavericks,Phoenix Suns,"21-5, 13-4 Home","12-13, 5-8 Away",106,91,,,Final,ESPN,22,32,26,26,,25,17,17,32,,NBA
+301220024,2010,"December 20, 2010",San Antonio Spurs,Phoenix Suns,"24-3, 15-2 Home","13-14, 6-9 Away",118,110,,,Final,,27,26,40,25,,26,28,24,32,,NBA
+301226012,2010,"December 26, 2010",LA Clippers,Phoenix Suns,"9-22, 7-11 Home","13-16, 6-10 Away",108,103,,,Final,,33,28,18,29,,18,31,29,25,,NBA
+301231021,2010,"December 31, 2010",Phoenix Suns,Detroit Pistons,"14-17, 8-7 Home","11-22, 3-14 Away",92,75,,,Final,,24,26,18,24,,14,18,26,17,,NBA
+310105021,2010,"January 05, 2011",Phoenix Suns,Los Angeles Lakers,"14-19, 8-8 Home","25-11, 13-6 Away",95,99,,,Final,ESPN,24,26,23,22,,31,18,31,19,,NBA
+310109021,2010,"January 09, 2011",Phoenix Suns,Cleveland Cavaliers,"15-20, 9-9 Home","8-29, 3-17 Away",108,100,,,Final,NBATV,26,25,30,27,,26,26,29,19,,NBA
+310112021,2010,"January 12, 2011",Phoenix Suns,New Jersey Nets,"16-21, 10-9 Home","10-28, 3-18 Away",118,109,,,Final/OT,,28,27,18,30,15.0,28,29,27,19,6.0,NBA
+310117018,2010,"January 17, 2011",New York Knicks,Phoenix Suns,"22-18, 10-9 Home","18-21, 7-12 Away",121,129,,,Final,,30,34,27,30,,39,22,36,32,,NBA
+310121027,2010,"January 21, 2011",Washington Wizards,Phoenix Suns,"12-29, 12-9 Home","20-21, 9-12 Away",91,109,,,Final,ESPN,33,20,18,20,,22,30,31,26,,NBA
+310124020,2010,"January 24, 2011",Philadelphia 76ers,Phoenix Suns,"19-25, 14-7 Home","20-23, 9-14 Away",105,95,,,Final,CSN,26,35,26,18,,25,22,23,25,,NBA
+310128021,2010,"January 28, 2011",Phoenix Suns,Boston Celtics,"21-24, 12-10 Home","35-11, 13-8 Away",88,71,,,Final,ESPN,30,19,26,13,,16,19,23,13,,NBA
+310202021,2010,"February 02, 2011",Phoenix Suns,Milwaukee Bucks,"23-24, 14-10 Home","19-28, 8-18 Away",92,77,,,Final,,25,27,19,21,,17,14,22,24,,NBA
+310207009,2010,"February 07, 2011",Golden State Warriors,Phoenix Suns,"22-28, 16-11 Home","24-25, 10-14 Away",92,104,,,Final,NBATV,17,28,30,17,,33,29,27,15,,NBA
+310211026,2010,"February 11, 2011",Utah Jazz,Phoenix Suns,"31-24, 17-12 Home","26-25, 11-14 Away",83,95,,,Final,ESPN,31,25,13,14,,19,25,27,24,,NBA
+310215021,2010,"February 15, 2011",Phoenix Suns,Utah Jazz,"27-26, 16-12 Home","31-25, 14-13 Away",102,101,,,Final,,29,21,26,26,,27,26,20,28,,NBA
+310223021,2010,"February 23, 2011",Phoenix Suns,Atlanta Hawks,"28-27, 17-13 Home","34-23, 17-14 Away",105,97,,,Final,,33,28,19,25,,31,16,24,26,,NBA
+310227011,2010,"February 27, 2011",Indiana Pacers,Phoenix Suns,"26-32, 16-14 Home","30-27, 13-14 Away",108,110,,,Final/OT,,29,22,21,27,9.0,33,27,22,17,11.0,NBA
+310302002,2010,"March 02, 2011",Boston Celtics,Phoenix Suns,"44-15, 26-5 Home","31-28, 14-15 Away",115,103,,,Final,NBATV,32,30,29,24,,21,21,30,31,,NBA
+310306025,2010,"March 06, 2011",Oklahoma City Thunder,Phoenix Suns,"39-22, 22-9 Home","32-29, 15-16 Away",122,118,,,Final/OT,,25,32,29,23,13.0,28,33,30,18,9.0,NBA
+310310021,2010,"March 10, 2011",Phoenix Suns,Denver Nuggets,"33-30, 18-14 Home","38-27, 12-20 Away",97,116,,,Final,TNT,25,24,17,31,,30,29,31,26,,NBA
+310314010,2010,"March 14, 2011",Houston Rockets,Phoenix Suns,"34-34, 18-14 Home","33-32, 15-17 Away",95,93,,,Final,,27,23,24,21,,16,26,22,29,,NBA
+310318021,2010,"March 18, 2011",Phoenix Suns,Golden State Warriors,"34-33, 19-15 Home","30-39, 9-25 Away",108,97,,,Final,,27,23,34,24,,20,18,27,32,,NBA
+310322013,2010,"March 22, 2011",Los Angeles Lakers,Phoenix Suns,"51-20, 26-8 Home","35-34, 16-19 Away",139,137,,,Final/3OT,TNT,27,39,29,17,27.0,31,29,26,26,25.0,NBA
+310325021,2010,"March 25, 2011",Phoenix Suns,New Orleans Hornets,"36-35, 20-16 Home","42-31, 18-20 Away",100,106,,,Final,NBATV,27,29,22,22,,21,29,23,33,,NBA
+310329023,2010,"March 29, 2011",Sacramento Kings,Phoenix Suns,"21-52, 10-27 Home","36-37, 16-20 Away",116,113,,,Final,,30,29,26,31,,34,27,32,20,,NBA
+310401021,2010,"April 01, 2011",Phoenix Suns,LA Clippers,"37-38, 21-18 Home","29-47, 8-29 Away",111,98,,,Final,,25,32,31,23,,23,21,26,28,,NBA
+310405004,2010,"April 05, 2011",Chicago Bulls,Phoenix Suns,"57-20, 34-5 Home","37-40, 16-22 Away",97,94,,,Final,,25,28,28,16,,24,16,30,24,,NBA
+310408003,2010,"April 08, 2011",New Orleans Hornets,Phoenix Suns,"46-33, 28-12 Home","38-41, 17-23 Away",109,97,,,Final,NBATV,31,28,26,24,,30,23,26,18,,NBA
+310411021,2010,"April 11, 2011",Phoenix Suns,Minnesota Timberwolves,"39-42, 22-18 Home","17-64, 5-36 Away",135,127,,,Final/OT,,24,34,34,29,14.0,33,32,27,29,6.0,NBA
+310413021,2010,"April 13, 2011",Phoenix Suns,San Antonio Spurs,"40-42, 23-18 Home","61-21, 25-16 Away",106,103,,,Final,,43,18,24,21,,27,26,21,29,,NBA

@@ -1,67 +1,67 @@
-,Unnamed: 0,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-0,0,311228007,2011,"Wed, Dec 28",Denver Nuggets,Utah Jazz,"2-0, 1-0 Home","0-2, 0-2 Away",117,100,,,Final,,28,35,25,29,,23,23,20,34,,NBA
-1,1,311231013,2011,"Sat, Dec 31",Los Angeles Lakers,Denver Nuggets,"3-2, 3-1 Home","2-2, 1-2 Away",92,89,,,Final,,22,24,23,23,,23,22,26,18,,NBA
-2,2,320102007,2011,"Mon, Jan 2",Denver Nuggets,Milwaukee Bucks,"4-2, 3-0 Home","2-2, 0-2 Away",91,86,,,Final,,24,24,20,23,,30,18,26,12,,NBA
-3,3,320106003,2011,"Fri, Jan 6",New Orleans Hornets,Denver Nuggets,"2-5, 1-3 Home","6-2, 2-2 Away",88,96,,,Final,,32,15,16,25,,24,17,21,34,,NBA
-4,4,320109007,2011,"Mon, Jan 9",Denver Nuggets,New Orleans Hornets,"6-4, 4-1 Home","3-6, 2-3 Away",81,94,,,Final,,27,19,18,17,,26,28,24,16,,NBA
-5,5,320113007,2011,"Fri, Jan 13",Denver Nuggets,Miami Heat,"8-4, 6-1 Home","8-4, 5-3 Away",117,104,,,Final,ESPN,30,25,31,31,,21,32,28,23,,NBA
-6,6,320117015,2011,"Tue, Jan 17",Milwaukee Bucks,Denver Nuggets,"4-9, 4-1 Home","9-5, 3-3 Away",95,105,,,Final,,21,23,23,28,,26,37,22,20,,NBA
-7,7,320120027,2011,"Fri, Jan 20",Washington Wizards,Denver Nuggets,"2-13, 2-7 Home","11-5, 5-3 Away",104,108,,,Final,,37,26,18,23,,27,34,25,22,,NBA
-8,8,320125023,2011,"Wed, Jan 25",Sacramento Kings,Denver Nuggets,"6-13, 4-4 Home","13-5, 7-3 Away",93,122,,,Final,NBATV,26,17,22,28,,32,34,28,28,,NBA
-9,9,320129007,2011,"Sun, Jan 29",Denver Nuggets,LA Clippers,"14-6, 7-3 Home","11-6, 2-4 Away",105,109,,,Final,,26,27,30,22,,23,25,29,32,,NBA
-10,10,320202012,2011,"Thu, Feb 2",LA Clippers,Denver Nuggets,"13-7, 10-3 Home","15-7, 8-4 Away",91,112,,,Final,TNT,32,19,16,24,,19,35,32,26,,NBA
-11,11,320204022,2011,"Sat, Feb 4",Portland Trail Blazers,Denver Nuggets,"14-10, 11-1 Home","15-9, 8-5 Away",117,97,,,Final,NBATV,33,26,26,32,,26,27,18,26,,NBA
-12,12,320208007,2011,"Wed, Feb 8",Denver Nuggets,Dallas Mavericks,"15-11, 7-6 Home","15-11, 6-6 Away",95,105,,,Final,,25,28,25,17,,33,31,23,18,,NBA
-13,13,320211011,2011,"Sat, Feb 11",Indiana Pacers,Denver Nuggets,"17-10, 7-3 Home","16-12, 9-5 Away",109,113,,,Final,NBATV,35,25,24,25,,26,34,27,26,,NBA
-14,14,320215006,2011,"Wed, Feb 15",Dallas Mavericks,Denver Nuggets,"19-11, 12-5 Home","17-13, 9-6 Away",102,84,,,Final,ESPN,27,24,32,19,,17,22,15,30,,NBA
-15,15,320219025,2011,"Sun, Feb 19",Oklahoma City Thunder,Denver Nuggets,"24-7, 12-1 Home","17-15, 9-8 Away",124,118,,,Final/OT,ESPN,25,28,30,28,13.0,27,31,25,28,7.0,NBA
-16,16,320222012,2011,"Wed, Feb 22",LA Clippers,Denver Nuggets,"20-11, 12-4 Home","18-16, 9-9 Away",103,95,,,Final,,27,25,28,23,,27,27,25,16,,NBA
-17,17,320229007,2011,"Wed, Feb 29",Denver Nuggets,Portland Trail Blazers,"19-17, 10-8 Home","18-17, 5-12 Away",104,95,,,Final,ESPN,29,33,23,19,,22,23,26,24,,NBA
-18,18,320304024,2011,"Sun, Mar 4",San Antonio Spurs,Denver Nuggets,"25-12, 14-3 Home","21-17, 11-9 Away",94,99,,,Final,ESPN,17,28,26,23,,25,24,26,24,,NBA
-19,19,320307007,2011,"Wed, Mar 7",Denver Nuggets,Cleveland Cavaliers,"22-18, 11-9 Home","14-23, 6-11 Away",99,100,,,Final,,27,28,17,27,,26,31,19,24,,NBA
-20,20,320311007,2011,"Sun, Mar 11",Denver Nuggets,Memphis Grizzlies,"23-19, 12-10 Home","24-16, 9-11 Away",91,94,,,Final,NBATV,25,28,17,21,,23,27,23,21,,NBA
-21,21,320315007,2011,"Thu, Mar 15",Denver Nuggets,Oklahoma City Thunder,"24-20, 13-11 Home","33-10, 15-7 Away",90,103,,,Final,,25,26,14,25,,29,21,28,25,,NBA
-22,22,320319007,2011,"Mon, Mar 19",Denver Nuggets,Dallas Mavericks,"25-21, 14-12 Home","27-20, 9-13 Away",95,112,,,Final,TNT,29,27,22,17,,33,30,29,20,,NBA
-23,23,320323026,2011,"Fri, Mar 23",Utah Jazz,Denver Nuggets,"26-22, 19-6 Home","26-22, 11-10 Away",121,102,,,Final,ESPN,30,33,31,27,,32,23,21,26,,NBA
-24,24,320326004,2011,"Mon, Mar 26",Chicago Bulls,Denver Nuggets,"40-11, 20-5 Home","27-23, 12-11 Away",91,108,,,Final,NBATV,27,25,16,23,,25,29,27,27,,NBA
-25,25,320330030,2011,"Fri, Mar 30",Charlotte Bobcats,Denver Nuggets,"7-42, 4-20 Home","28-24, 13-12 Away",88,99,,,Final,,28,23,15,22,,23,29,22,25,,NBA
-26,26,320404003,2011,"Wed, Apr 4",New Orleans Hornets,Denver Nuggets,"14-40, 6-21 Home","29-25, 14-13 Away",94,92,,,Final,,20,25,30,19,,18,28,21,25,,NBA
-27,27,320407009,2011,"Sat, Apr 7",Golden State Warriors,Denver Nuggets,"22-33, 12-16 Home","30-26, 14-14 Away",112,97,,,Final,ESPN,26,30,29,27,,27,22,26,22,,NBA
-28,28,320411007,2011,"Wed, Apr 11",Denver Nuggets,Minnesota Timberwolves,"32-26, 18-12 Home","25-34, 12-19 Away",113,107,,,Final,,37,31,21,24,,24,23,33,27,,NBA
-29,29,320415007,2011,"Sun, Apr 15",Denver Nuggets,Houston Rockets,"33-27, 19-12 Home","32-28, 12-18 Away",101,86,,,Final,,22,21,37,21,,27,22,19,18,,NBA
-30,30,320418007,2011,"Wed, Apr 18",Denver Nuggets,LA Clippers,"34-28, 19-13 Home","39-23, 16-14 Away",98,104,,,Final,,34,19,23,22,,22,25,29,28,,NBA
-31,31,320422007,2011,"Sun, Apr 22",Denver Nuggets,Orlando Magic,"36-28, 20-13 Home","36-28, 16-16 Away",101,74,,,Final,,24,20,29,28,,19,25,18,12,,NBA
-32,32,311226006,2011,"Mon, Dec 26",Dallas Mavericks,Denver Nuggets,"0-2, 0-2 Home","1-0, 1-0 Away",93,115,,,Final,,23,19,26,25,,32,37,28,18,,NBA
-33,33,311229022,2011,"Thu, Dec 29",Portland Trail Blazers,Denver Nuggets,"3-0, 3-0 Home","2-1, 1-1 Away",111,102,,,Final,,30,23,30,28,,17,36,26,23,,NBA
-34,34,320101007,2011,"Sun, Jan 1",Denver Nuggets,Los Angeles Lakers,"3-2, 2-0 Home","3-3, 0-2 Away",99,90,,,Final,,26,21,25,27,,21,15,35,19,,NBA
-35,35,320104007,2011,"Wed, Jan 4",Denver Nuggets,Sacramento Kings,"5-2, 4-0 Home","2-5, 0-3 Away",110,83,,,Final,,27,29,29,25,,17,22,25,19,,NBA
-36,36,320107024,2011,"Sat, Jan 7",San Antonio Spurs,Denver Nuggets,"6-2, 6-0 Home","6-3, 2-3 Away",121,117,,,Final,,37,25,32,27,,25,30,30,32,,NBA
-37,37,320111007,2011,"Wed, Jan 11",Denver Nuggets,New Jersey Nets,"7-4, 5-1 Home","2-9, 2-5 Away",123,115,,,Final,,35,33,32,23,,28,24,28,35,,NBA
-38,38,320115007,2011,"Sun, Jan 15",Denver Nuggets,Utah Jazz,"8-5, 6-2 Home","8-4, 2-3 Away",96,106,,,Final,,26,22,25,23,,25,23,29,29,,NBA
-39,39,320118020,2011,"Wed, Jan 18",Philadelphia 76ers,Denver Nuggets,"10-4, 6-1 Home","10-5, 4-3 Away",104,108,,,Final/OT,CSN,28,17,27,24,8.0,19,32,27,18,12.0,NBA
-40,40,320121018,2011,"Sat, Jan 21",New York Knicks,Denver Nuggets,"6-10, 3-6 Home","12-5, 6-3 Away",114,119,,,Final/2OT,NBATV,24,30,18,26,16.0,25,21,26,26,21.0,NBA
-41,41,320127007,2011,"Fri, Jan 27",Denver Nuggets,Toronto Raptors,"14-5, 7-2 Home","6-14, 4-9 Away",96,81,,,Final,TSN2,28,26,24,18,,12,20,32,17,,NBA
-42,42,320131029,2011,"Tue, Jan 31",Memphis Grizzlies,Denver Nuggets,"11-10, 7-3 Home","14-7, 7-4 Away",100,97,,,Final/OT,,19,18,23,31,9.0,23,26,18,24,6.0,NBA
-43,43,320203007,2011,"Fri, Feb 3",Denver Nuggets,Los Angeles Lakers,"15-8, 7-4 Home","14-9, 3-7 Away",89,93,,,Final,ESPN,21,20,27,21,,23,21,28,21,,NBA
-44,44,320206007,2011,"Mon, Feb 6",Denver Nuggets,Houston Rockets,"15-10, 7-5 Home","14-11, 4-8 Away",90,99,,,Final,,28,17,26,19,,26,21,26,26,,NBA
-45,45,320209007,2011,"Thu, Feb 9",Denver Nuggets,Golden State Warriors,"15-12, 7-7 Home","9-14, 3-6 Away",101,109,,,Final,,28,23,20,30,,27,20,37,25,,NBA
-46,46,320214007,2011,"Tue, Feb 14",Denver Nuggets,Phoenix Suns,"17-12, 8-7 Home","12-17, 7-10 Away",109,92,,,Final,,33,25,28,23,,21,30,19,22,,NBA
-47,47,320217029,2011,"Fri, Feb 17",Memphis Grizzlies,Denver Nuggets,"17-14, 11-5 Home","17-14, 9-7 Away",103,102,,,Final,,34,26,23,20,,15,28,30,29,,NBA
-48,48,320220007,2011,"Mon, Feb 20",Denver Nuggets,Minnesota Timberwolves,"18-15, 9-7 Home","16-17, 7-7 Away",103,101,,,Final/OT,,18,33,25,17,10.0,30,16,27,20,8.0,NBA
-49,49,320223007,2011,"Thu, Feb 23",Denver Nuggets,San Antonio Spurs,"18-17, 9-8 Home","24-10, 11-9 Away",99,114,,,Final,TNT,15,24,33,27,,31,34,27,22,,NBA
-50,50,320302010,2011,"Fri, Mar 2",Houston Rockets,Denver Nuggets,"21-16, 15-5 Home","20-17, 10-9 Away",105,117,,,Final,,25,29,24,27,,26,25,31,35,,NBA
-51,51,320305007,2011,"Mon, Mar 5",Denver Nuggets,Sacramento Kings,"22-17, 11-8 Home","12-26, 4-20 Away",119,116,,,Final/OT,,24,29,32,23,11.0,26,27,26,29,8.0,NBA
-52,52,320309007,2011,"Fri, Mar 9",Denver Nuggets,New Orleans Hornets,"23-18, 12-9 Home","9-31, 5-15 Away",110,97,,,Final,,32,18,29,31,,26,20,25,26,,NBA
-53,53,320313007,2011,"Tue, Mar 13",Denver Nuggets,Atlanta Hawks,"24-19, 13-10 Home","24-18, 12-12 Away",118,117,,,Final/OT,,30,34,18,23,13.0,26,29,25,25,12.0,NBA
-54,54,320317007,2011,"Sat, Mar 17",Denver Nuggets,Boston Celtics,"25-20, 14-11 Home","23-21, 7-13 Away",98,91,,,Final,,29,26,25,18,,22,20,26,23,,NBA
-55,55,320321007,2011,"Wed, Mar 21",Denver Nuggets,Detroit Pistons,"26-21, 15-12 Home","16-30, 4-19 Away",116,115,,,Final,,40,22,29,25,,18,39,34,24,,NBA
-56,56,320325016,2011,"Sun, Mar 25",Minnesota Timberwolves,Denver Nuggets,"24-26, 13-12 Home","26-23, 11-11 Away",117,100,,,Final,,33,35,25,24,,20,23,32,25,,NBA
-57,57,320328028,2011,"Wed, Mar 28",Toronto Raptors,Denver Nuggets,"17-34, 9-16 Home","27-24, 12-12 Away",105,96,,,Final,TSN2,27,28,30,20,,22,31,32,11,,NBA
-58,58,320401019,2011,"Sun, Apr 1",Orlando Magic,Denver Nuggets,"32-21, 18-10 Home","29-24, 14-12 Away",101,104,,,Final,NBATV,19,23,32,27,,27,21,28,28,,NBA
-59,59,320406007,2011,"Fri, Apr 6",Denver Nuggets,Phoenix Suns,"30-25, 16-12 Home","28-27, 12-16 Away",105,99,,,Final,,21,31,26,27,,29,23,23,24,,NBA
-60,60,320409007,2011,"Mon, Apr 9",Denver Nuggets,Golden State Warriors,"31-26, 17-12 Home","22-34, 10-18 Away",123,84,,,Final,,37,28,25,33,,13,25,20,26,,NBA
-61,61,320413013,2011,"Fri, Apr 13",Los Angeles Lakers,Denver Nuggets,"38-22, 24-6 Home","32-27, 14-15 Away",103,97,,,Final,,30,24,25,24,,19,29,23,26,,NBA
-62,62,320416010,2011,"Mon, Apr 16",Houston Rockets,Denver Nuggets,"32-29, 20-11 Home","34-27, 15-15 Away",102,105,,,Final,,32,19,23,28,,21,23,31,30,,NBA
-63,63,320421021,2011,"Sat, Apr 21",Phoenix Suns,Denver Nuggets,"33-31, 19-13 Home","35-28, 16-15 Away",107,118,,,Final,ESPN,34,24,22,27,,30,30,33,25,,NBA
-64,64,320425025,2011,"Wed, Apr 25",Oklahoma City Thunder,Denver Nuggets,"47-19, 26-7 Home","37-28, 17-15 Away",101,106,,,Final,,30,28,24,19,,36,28,16,26,,NBA
-65,65,320426016,2011,"Thu, Apr 26",Minnesota Timberwolves,Denver Nuggets,"26-40, 13-20 Home","38-28, 18-15 Away",102,131,,,Final,,25,17,27,33,,29,32,32,38,,NBA
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+311228007,2011,"December 28, 2011",Denver Nuggets,Utah Jazz,"2-0, 1-0 Home","0-2, 0-2 Away",117,100,,,Final,,28,35,25,29,,23,23,20,34,,NBA
+311231013,2011,"December 31, 2011",Los Angeles Lakers,Denver Nuggets,"3-2, 3-1 Home","2-2, 1-2 Away",92,89,,,Final,,22,24,23,23,,23,22,26,18,,NBA
+320102007,2011,"January 02, 2012",Denver Nuggets,Milwaukee Bucks,"4-2, 3-0 Home","2-2, 0-2 Away",91,86,,,Final,,24,24,20,23,,30,18,26,12,,NBA
+320106003,2011,"January 06, 2012",New Orleans Hornets,Denver Nuggets,"2-5, 1-3 Home","6-2, 2-2 Away",88,96,,,Final,,32,15,16,25,,24,17,21,34,,NBA
+320109007,2011,"January 09, 2012",Denver Nuggets,New Orleans Hornets,"6-4, 4-1 Home","3-6, 2-3 Away",81,94,,,Final,,27,19,18,17,,26,28,24,16,,NBA
+320113007,2011,"January 13, 2012",Denver Nuggets,Miami Heat,"8-4, 6-1 Home","8-4, 5-3 Away",117,104,,,Final,ESPN,30,25,31,31,,21,32,28,23,,NBA
+320117015,2011,"January 17, 2012",Milwaukee Bucks,Denver Nuggets,"4-9, 4-1 Home","9-5, 3-3 Away",95,105,,,Final,,21,23,23,28,,26,37,22,20,,NBA
+320120027,2011,"January 20, 2012",Washington Wizards,Denver Nuggets,"2-13, 2-7 Home","11-5, 5-3 Away",104,108,,,Final,,37,26,18,23,,27,34,25,22,,NBA
+320125023,2011,"January 25, 2012",Sacramento Kings,Denver Nuggets,"6-13, 4-4 Home","13-5, 7-3 Away",93,122,,,Final,NBATV,26,17,22,28,,32,34,28,28,,NBA
+320129007,2011,"January 29, 2012",Denver Nuggets,LA Clippers,"14-6, 7-3 Home","11-6, 2-4 Away",105,109,,,Final,,26,27,30,22,,23,25,29,32,,NBA
+320202012,2011,"February 02, 2012",LA Clippers,Denver Nuggets,"13-7, 10-3 Home","15-7, 8-4 Away",91,112,,,Final,TNT,32,19,16,24,,19,35,32,26,,NBA
+320204022,2011,"February 04, 2012",Portland Trail Blazers,Denver Nuggets,"14-10, 11-1 Home","15-9, 8-5 Away",117,97,,,Final,NBATV,33,26,26,32,,26,27,18,26,,NBA
+320208007,2011,"February 08, 2012",Denver Nuggets,Dallas Mavericks,"15-11, 7-6 Home","15-11, 6-6 Away",95,105,,,Final,,25,28,25,17,,33,31,23,18,,NBA
+320211011,2011,"February 11, 2012",Indiana Pacers,Denver Nuggets,"17-10, 7-3 Home","16-12, 9-5 Away",109,113,,,Final,NBATV,35,25,24,25,,26,34,27,26,,NBA
+320215006,2011,"February 15, 2012",Dallas Mavericks,Denver Nuggets,"19-11, 12-5 Home","17-13, 9-6 Away",102,84,,,Final,ESPN,27,24,32,19,,17,22,15,30,,NBA
+320219025,2011,"February 19, 2012",Oklahoma City Thunder,Denver Nuggets,"24-7, 12-1 Home","17-15, 9-8 Away",124,118,,,Final/OT,ESPN,25,28,30,28,13.0,27,31,25,28,7.0,NBA
+320222012,2011,"February 22, 2012",LA Clippers,Denver Nuggets,"20-11, 12-4 Home","18-16, 9-9 Away",103,95,,,Final,,27,25,28,23,,27,27,25,16,,NBA
+320229007,2011,"February 29, 2012",Denver Nuggets,Portland Trail Blazers,"19-17, 10-8 Home","18-17, 5-12 Away",104,95,,,Final,ESPN,29,33,23,19,,22,23,26,24,,NBA
+320304024,2011,"March 04, 2012",San Antonio Spurs,Denver Nuggets,"25-12, 14-3 Home","21-17, 11-9 Away",94,99,,,Final,ESPN,17,28,26,23,,25,24,26,24,,NBA
+320307007,2011,"March 07, 2012",Denver Nuggets,Cleveland Cavaliers,"22-18, 11-9 Home","14-23, 6-11 Away",99,100,,,Final,,27,28,17,27,,26,31,19,24,,NBA
+320311007,2011,"March 11, 2012",Denver Nuggets,Memphis Grizzlies,"23-19, 12-10 Home","24-16, 9-11 Away",91,94,,,Final,NBATV,25,28,17,21,,23,27,23,21,,NBA
+320315007,2011,"March 15, 2012",Denver Nuggets,Oklahoma City Thunder,"24-20, 13-11 Home","33-10, 15-7 Away",90,103,,,Final,,25,26,14,25,,29,21,28,25,,NBA
+320319007,2011,"March 19, 2012",Denver Nuggets,Dallas Mavericks,"25-21, 14-12 Home","27-20, 9-13 Away",95,112,,,Final,TNT,29,27,22,17,,33,30,29,20,,NBA
+320323026,2011,"March 23, 2012",Utah Jazz,Denver Nuggets,"26-22, 19-6 Home","26-22, 11-10 Away",121,102,,,Final,ESPN,30,33,31,27,,32,23,21,26,,NBA
+320326004,2011,"March 26, 2012",Chicago Bulls,Denver Nuggets,"40-11, 20-5 Home","27-23, 12-11 Away",91,108,,,Final,NBATV,27,25,16,23,,25,29,27,27,,NBA
+320330030,2011,"March 30, 2012",Charlotte Bobcats,Denver Nuggets,"7-42, 4-20 Home","28-24, 13-12 Away",88,99,,,Final,,28,23,15,22,,23,29,22,25,,NBA
+320404003,2011,"April 04, 2012",New Orleans Hornets,Denver Nuggets,"14-40, 6-21 Home","29-25, 14-13 Away",94,92,,,Final,,20,25,30,19,,18,28,21,25,,NBA
+320407009,2011,"April 07, 2012",Golden State Warriors,Denver Nuggets,"22-33, 12-16 Home","30-26, 14-14 Away",112,97,,,Final,ESPN,26,30,29,27,,27,22,26,22,,NBA
+320411007,2011,"April 11, 2012",Denver Nuggets,Minnesota Timberwolves,"32-26, 18-12 Home","25-34, 12-19 Away",113,107,,,Final,,37,31,21,24,,24,23,33,27,,NBA
+320415007,2011,"April 15, 2012",Denver Nuggets,Houston Rockets,"33-27, 19-12 Home","32-28, 12-18 Away",101,86,,,Final,,22,21,37,21,,27,22,19,18,,NBA
+320418007,2011,"April 18, 2012",Denver Nuggets,LA Clippers,"34-28, 19-13 Home","39-23, 16-14 Away",98,104,,,Final,,34,19,23,22,,22,25,29,28,,NBA
+320422007,2011,"April 22, 2012",Denver Nuggets,Orlando Magic,"36-28, 20-13 Home","36-28, 16-16 Away",101,74,,,Final,,24,20,29,28,,19,25,18,12,,NBA
+311226006,2011,"December 26, 2011",Dallas Mavericks,Denver Nuggets,"0-2, 0-2 Home","1-0, 1-0 Away",93,115,,,Final,,23,19,26,25,,32,37,28,18,,NBA
+311229022,2011,"December 29, 2011",Portland Trail Blazers,Denver Nuggets,"3-0, 3-0 Home","2-1, 1-1 Away",111,102,,,Final,,30,23,30,28,,17,36,26,23,,NBA
+320101007,2011,"January 01, 2012",Denver Nuggets,Los Angeles Lakers,"3-2, 2-0 Home","3-3, 0-2 Away",99,90,,,Final,,26,21,25,27,,21,15,35,19,,NBA
+320104007,2011,"January 04, 2012",Denver Nuggets,Sacramento Kings,"5-2, 4-0 Home","2-5, 0-3 Away",110,83,,,Final,,27,29,29,25,,17,22,25,19,,NBA
+320107024,2011,"January 07, 2012",San Antonio Spurs,Denver Nuggets,"6-2, 6-0 Home","6-3, 2-3 Away",121,117,,,Final,,37,25,32,27,,25,30,30,32,,NBA
+320111007,2011,"January 11, 2012",Denver Nuggets,New Jersey Nets,"7-4, 5-1 Home","2-9, 2-5 Away",123,115,,,Final,,35,33,32,23,,28,24,28,35,,NBA
+320115007,2011,"January 15, 2012",Denver Nuggets,Utah Jazz,"8-5, 6-2 Home","8-4, 2-3 Away",96,106,,,Final,,26,22,25,23,,25,23,29,29,,NBA
+320118020,2011,"January 18, 2012",Philadelphia 76ers,Denver Nuggets,"10-4, 6-1 Home","10-5, 4-3 Away",104,108,,,Final/OT,CSN,28,17,27,24,8.0,19,32,27,18,12.0,NBA
+320121018,2011,"January 21, 2012",New York Knicks,Denver Nuggets,"6-10, 3-6 Home","12-5, 6-3 Away",114,119,,,Final/2OT,NBATV,24,30,18,26,16.0,25,21,26,26,21.0,NBA
+320127007,2011,"January 27, 2012",Denver Nuggets,Toronto Raptors,"14-5, 7-2 Home","6-14, 4-9 Away",96,81,,,Final,TSN2,28,26,24,18,,12,20,32,17,,NBA
+320131029,2011,"January 31, 2012",Memphis Grizzlies,Denver Nuggets,"11-10, 7-3 Home","14-7, 7-4 Away",100,97,,,Final/OT,,19,18,23,31,9.0,23,26,18,24,6.0,NBA
+320203007,2011,"February 03, 2012",Denver Nuggets,Los Angeles Lakers,"15-8, 7-4 Home","14-9, 3-7 Away",89,93,,,Final,ESPN,21,20,27,21,,23,21,28,21,,NBA
+320206007,2011,"February 06, 2012",Denver Nuggets,Houston Rockets,"15-10, 7-5 Home","14-11, 4-8 Away",90,99,,,Final,,28,17,26,19,,26,21,26,26,,NBA
+320209007,2011,"February 09, 2012",Denver Nuggets,Golden State Warriors,"15-12, 7-7 Home","9-14, 3-6 Away",101,109,,,Final,,28,23,20,30,,27,20,37,25,,NBA
+320214007,2011,"February 14, 2012",Denver Nuggets,Phoenix Suns,"17-12, 8-7 Home","12-17, 7-10 Away",109,92,,,Final,,33,25,28,23,,21,30,19,22,,NBA
+320217029,2011,"February 17, 2012",Memphis Grizzlies,Denver Nuggets,"17-14, 11-5 Home","17-14, 9-7 Away",103,102,,,Final,,34,26,23,20,,15,28,30,29,,NBA
+320220007,2011,"February 20, 2012",Denver Nuggets,Minnesota Timberwolves,"18-15, 9-7 Home","16-17, 7-7 Away",103,101,,,Final/OT,,18,33,25,17,10.0,30,16,27,20,8.0,NBA
+320223007,2011,"February 23, 2012",Denver Nuggets,San Antonio Spurs,"18-17, 9-8 Home","24-10, 11-9 Away",99,114,,,Final,TNT,15,24,33,27,,31,34,27,22,,NBA
+320302010,2011,"March 02, 2012",Houston Rockets,Denver Nuggets,"21-16, 15-5 Home","20-17, 10-9 Away",105,117,,,Final,,25,29,24,27,,26,25,31,35,,NBA
+320305007,2011,"March 05, 2012",Denver Nuggets,Sacramento Kings,"22-17, 11-8 Home","12-26, 4-20 Away",119,116,,,Final/OT,,24,29,32,23,11.0,26,27,26,29,8.0,NBA
+320309007,2011,"March 09, 2012",Denver Nuggets,New Orleans Hornets,"23-18, 12-9 Home","9-31, 5-15 Away",110,97,,,Final,,32,18,29,31,,26,20,25,26,,NBA
+320313007,2011,"March 13, 2012",Denver Nuggets,Atlanta Hawks,"24-19, 13-10 Home","24-18, 12-12 Away",118,117,,,Final/OT,,30,34,18,23,13.0,26,29,25,25,12.0,NBA
+320317007,2011,"March 17, 2012",Denver Nuggets,Boston Celtics,"25-20, 14-11 Home","23-21, 7-13 Away",98,91,,,Final,,29,26,25,18,,22,20,26,23,,NBA
+320321007,2011,"March 21, 2012",Denver Nuggets,Detroit Pistons,"26-21, 15-12 Home","16-30, 4-19 Away",116,115,,,Final,,40,22,29,25,,18,39,34,24,,NBA
+320325016,2011,"March 25, 2012",Minnesota Timberwolves,Denver Nuggets,"24-26, 13-12 Home","26-23, 11-11 Away",117,100,,,Final,,33,35,25,24,,20,23,32,25,,NBA
+320328028,2011,"March 28, 2012",Toronto Raptors,Denver Nuggets,"17-34, 9-16 Home","27-24, 12-12 Away",105,96,,,Final,TSN2,27,28,30,20,,22,31,32,11,,NBA
+320401019,2011,"April 01, 2012",Orlando Magic,Denver Nuggets,"32-21, 18-10 Home","29-24, 14-12 Away",101,104,,,Final,NBATV,19,23,32,27,,27,21,28,28,,NBA
+320406007,2011,"April 06, 2012",Denver Nuggets,Phoenix Suns,"30-25, 16-12 Home","28-27, 12-16 Away",105,99,,,Final,,21,31,26,27,,29,23,23,24,,NBA
+320409007,2011,"April 09, 2012",Denver Nuggets,Golden State Warriors,"31-26, 17-12 Home","22-34, 10-18 Away",123,84,,,Final,,37,28,25,33,,13,25,20,26,,NBA
+320413013,2011,"April 13, 2012",Los Angeles Lakers,Denver Nuggets,"38-22, 24-6 Home","32-27, 14-15 Away",103,97,,,Final,,30,24,25,24,,19,29,23,26,,NBA
+320416010,2011,"April 16, 2012",Houston Rockets,Denver Nuggets,"32-29, 20-11 Home","34-27, 15-15 Away",102,105,,,Final,,32,19,23,28,,21,23,31,30,,NBA
+320421021,2011,"April 21, 2012",Phoenix Suns,Denver Nuggets,"33-31, 19-13 Home","35-28, 16-15 Away",107,118,,,Final,ESPN,34,24,22,27,,30,30,33,25,,NBA
+320425025,2011,"April 25, 2012",Oklahoma City Thunder,Denver Nuggets,"47-19, 26-7 Home","37-28, 17-15 Away",101,106,,,Final,,30,28,24,19,,36,28,16,26,,NBA
+320426016,2011,"April 26, 2012",Minnesota Timberwolves,Denver Nuggets,"26-40, 13-20 Home","38-28, 18-15 Away",102,131,,,Final,,25,17,27,33,,29,32,32,38,,NBA

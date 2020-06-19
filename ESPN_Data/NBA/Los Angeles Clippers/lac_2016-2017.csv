@@ -1,83 +1,83 @@
-,Unnamed: 0,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-0,0,400899485,2016,"Sun, Oct 30",LA Clippers,Utah Jazz,"2-0, 1-0 Home","1-2, 0-2 Away",88,75,,,Final,,19,23,27,19,,22,13,21,19,,NBA
-1,1,400899514,2016,"Wed, Nov 2",LA Clippers,Oklahoma City Thunder,"3-1, 2-1 Home","4-0, 2-0 Away",83,85,,,Final,ESPN,24,17,25,17,,23,26,16,20,,NBA
-2,2,400899536,2016,"Sat, Nov 5",San Antonio Spurs,LA Clippers,"5-2, 1-2 Home","5-1, 3-0 Away",92,116,,,Final,NBATV,24,31,17,20,,39,34,16,27,,NBA
-3,3,400899565,2016,"Wed, Nov 9",LA Clippers,Portland Trail Blazers,"7-1, 4-1 Home","5-4, 3-2 Away",111,80,,,Final,,36,25,32,18,,16,16,18,30,,NBA
-4,4,400899585,2016,"Sat, Nov 12",Minnesota Timberwolves,LA Clippers,"2-6, 1-2 Home","9-1, 5-0 Away",105,119,,,Final,,21,30,22,32,,34,26,28,31,,NBA
-5,5,400899617,2016,"Wed, Nov 16",LA Clippers,Memphis Grizzlies,"10-2, 5-2 Home","6-5, 2-3 Away",107,111,,,Final,ESPN,28,18,30,31,,26,35,22,28,,NBA
-6,6,400899642,2016,"Sat, Nov 19",LA Clippers,Chicago Bulls,"12-2, 6-2 Home","8-5, 4-4 Away",102,95,,,Final,NBATV,23,24,25,30,,33,19,25,18,,NBA
-7,7,400899670,2016,"Wed, Nov 23",Dallas Mavericks,LA Clippers,"2-12, 1-4 Home","14-2, 7-0 Away",104,124,,,Final,,26,19,25,34,,32,36,25,31,,NBA
-8,8,400899699,2016,"Sun, Nov 27",Indiana Pacers,LA Clippers,"9-9, 8-4 Home","14-4, 7-2 Away",91,70,,,Final,,23,27,26,15,,20,20,18,12,,NBA
-9,9,400899395,2016,"Thu, Dec 1",Cleveland Cavaliers,LA Clippers,"13-4, 9-2 Home","15-5, 8-3 Away",94,113,,,Final,TNT,28,22,15,29,,24,34,27,28,,NBA
-10,10,400899745,2016,"Sun, Dec 4",LA Clippers,Indiana Pacers,"16-6, 7-3 Home","10-10, 2-6 Away",102,111,,,Final,,28,24,17,33,,17,31,35,28,,NBA
-11,11,400899797,2016,"Sat, Dec 10",LA Clippers,New Orleans Pelicans,"17-7, 8-4 Home","7-17, 2-9 Away",133,105,,,Final,NBATV,35,26,37,35,,31,24,25,25,,NBA
-12,12,400899818,2016,"Wed, Dec 14",Orlando Magic,LA Clippers,"11-16, 4-9 Home","19-7, 10-3 Away",108,113,,,Final,,25,26,36,21,,30,30,27,26,,NBA
-13,13,400899848,2016,"Sun, Dec 18",Washington Wizards,LA Clippers,"12-14, 10-6 Home","20-8, 11-4 Away",117,110,,,Final,,28,24,33,32,,27,28,32,23,,NBA
-14,14,400899883,2016,"Thu, Dec 22",LA Clippers,San Antonio Spurs,"22-8, 11-4 Home","23-6, 15-2 Away",106,101,,,Final,TNT,27,30,24,25,,22,23,28,28,,NBA
-15,15,400899902,2016,"Sun, Dec 25",Los Angeles Lakers,LA Clippers,"12-22, 7-7 Home","22-10, 11-5 Away",111,102,,,Final,ESPN,27,28,34,22,,31,27,16,28,,NBA
-16,16,400899923,2016,"Wed, Dec 28",New Orleans Pelicans,LA Clippers,"13-21, 9-10 Home","22-12, 11-6 Away",102,98,,,Final,NBATV,19,30,27,26,,27,29,21,21,,NBA
-17,17,400899949,2016,"Sat, Dec 31",Oklahoma City Thunder,LA Clippers,"21-13, 13-6 Home","22-14, 11-8 Away",114,88,,,Final,,33,36,27,18,,12,28,28,20,,NBA
-18,18,400899954,2016,"Wed, Jan 4",LA Clippers,Memphis Grizzlies,"24-14, 13-6 Home","22-16, 9-9 Away",115,106,,,Final,,30,23,36,26,,29,34,22,21,,NBA
-19,19,400899982,2016,"Sun, Jan 8",LA Clippers,Miami Heat,"26-14, 14-6 Home","11-28, 6-15 Away",98,86,,,Final,,20,32,28,18,,19,20,27,20,,NBA
-20,20,400900022,2016,"Sat, Jan 14",LA Clippers,Los Angeles Lakers,"28-14, 16-6 Home","15-29, 5-18 Away",113,97,,,Final,,26,32,26,29,,15,24,29,29,,NBA
-21,21,400900061,2016,"Thu, Jan 19",LA Clippers,Minnesota Timberwolves,"29-15, 17-7 Home","15-28, 6-15 Away",101,104,,,Final,TNT,22,29,28,22,,25,19,33,27,,NBA
-22,22,400900088,2016,"Mon, Jan 23",Atlanta Hawks,LA Clippers,"26-19, 13-9 Home","30-16, 13-9 Away",105,115,,,Final,,21,19,35,30,,30,28,27,30,,NBA
-23,23,400900128,2016,"Sat, Jan 28",Golden State Warriors,LA Clippers,"40-7, 21-3 Home","30-18, 13-11 Away",144,98,,,Final,ABC,31,41,45,27,,22,29,23,24,,NBA
-24,24,400899472,2016,"Thu, Feb 2",LA Clippers,Golden State Warriors,"31-19, 17-8 Home","43-7, 21-4 Away",120,133,,,Final,TNT,22,33,32,33,,33,32,39,29,,NBA
-25,25,400900176,2016,"Mon, Feb 6",Toronto Raptors,LA Clippers,"32-21, 18-9 Home","31-21, 14-13 Away",118,109,,,Final,,35,35,27,21,,31,29,22,27,,NBA
-26,26,400900213,2016,"Sat, Feb 11",Charlotte Hornets,LA Clippers,"24-30, 16-12 Home","33-21, 16-13 Away",102,107,,,Final,,27,24,19,32,,29,24,24,30,,NBA
-27,27,400900252,2016,"Wed, Feb 15",LA Clippers,Atlanta Hawks,"35-21, 18-8 Home","32-24, 16-13 Away",99,84,,,Final,,21,33,29,16,,22,18,24,20,,NBA
-28,28,400900271,2016,"Fri, Feb 24",LA Clippers,San Antonio Spurs,"35-23, 18-9 Home","44-13, 25-7 Away",97,105,,,Final,ESPN,13,29,31,24,,18,29,30,28,,NBA
-29,29,400899445,2016,"Wed, Mar 1",LA Clippers,Houston Rockets,"36-24, 19-10 Home","43-19, 21-11 Away",103,122,,,Final,ESPN,37,21,20,25,,34,36,38,14,,NBA
-30,30,400900317,2016,"Sat, Mar 4",Chicago Bulls,LA Clippers,"31-31, 19-13 Home","37-25, 18-15 Away",91,101,,,Final,ABC,29,32,12,18,,23,32,27,19,,NBA
-31,31,400900350,2016,"Wed, Mar 8",Minnesota Timberwolves,LA Clippers,"26-37, 16-18 Home","38-26, 18-16 Away",107,91,,,Final,,31,27,24,25,,19,36,13,23,,NBA
-32,32,400900369,2016,"Sat, Mar 11",LA Clippers,Philadelphia 76ers,"40-26, 21-10 Home","23-42, 8-23 Away",112,100,,,Final,,32,24,19,37,,30,27,22,21,,NBA
-33,33,400900408,2016,"Wed, Mar 15",LA Clippers,Milwaukee Bucks,"40-28, 21-11 Home","33-34, 13-18 Away",96,97,,,Final,ESPN,20,26,23,27,,28,18,21,30,,NBA
-34,34,400900426,2016,"Sat, Mar 18",LA Clippers,Cleveland Cavaliers,"41-29, 22-11 Home","45-23, 17-16 Away",108,78,,,Final,ABC,14,33,29,32,,16,15,27,20,,NBA
-35,35,400900453,2016,"Tue, Mar 21",Los Angeles Lakers,LA Clippers,"20-51, 12-22 Home","43-29, 20-18 Away",109,133,,,Final,,24,16,34,35,,33,37,38,25,,NBA
-36,36,400900477,2016,"Sat, Mar 25",LA Clippers,Utah Jazz,"44-30, 24-11 Home","44-29, 20-17 Away",108,95,,,Final,,28,21,23,36,,14,27,29,25,,NBA
-37,37,400900514,2016,"Wed, Mar 29",LA Clippers,Washington Wizards,"45-31, 25-12 Home","46-29, 17-19 Away",133,124,,,Final,,39,35,36,23,,31,32,35,26,,NBA
-38,38,400899368,2016,"Sat, Apr 1",LA Clippers,Los Angeles Lakers,"47-31, 26-12 Home","21-55, 8-31 Away",115,104,,,Final,,28,27,38,22,,22,28,22,32,,NBA
-39,39,400900571,2016,"Sat, Apr 8",San Antonio Spurs,LA Clippers,"61-19, 31-10 Home","49-31, 22-19 Away",87,98,,,Final,ABC,23,20,27,17,,22,30,30,16,,NBA
-40,40,400899426,2016,"Thu, Oct 27",Portland Trail Blazers,LA Clippers,"1-1, 1-1 Home","1-0, 1-0 Away",106,114,,,Final,TNT,27,22,33,24,,28,30,24,32,,NBA
-41,41,400899495,2016,"Mon, Oct 31",LA Clippers,Phoenix Suns,"3-0, 2-0 Home","0-4, 0-2 Away",116,98,,,Final,,24,24,34,34,,24,12,34,28,,NBA
-42,42,400899524,2016,"Fri, Nov 4",Memphis Grizzlies,LA Clippers,"3-3, 3-1 Home","4-1, 2-0 Away",88,99,,,Final,,20,15,22,31,,23,30,23,23,,NBA
-43,43,400899548,2016,"Mon, Nov 7",LA Clippers,Detroit Pistons,"6-1, 3-1 Home","4-3, 0-3 Away",114,82,,,Final,,33,29,29,23,,15,17,21,29,,NBA
-44,44,400899576,2016,"Fri, Nov 11",Oklahoma City Thunder,LA Clippers,"6-3, 4-2 Home","8-1, 4-0 Away",108,110,,,Final,NBATV,24,26,24,34,,16,34,32,28,,NBA
-45,45,400899602,2016,"Mon, Nov 14",LA Clippers,Brooklyn Nets,"10-1, 5-1 Home","4-6, 1-4 Away",127,95,,,Final,,39,32,28,28,,14,33,18,30,,NBA
-46,46,400899633,2016,"Fri, Nov 18",Sacramento Kings,LA Clippers,"4-9, 2-4 Home","11-2, 6-0 Away",115,121,,,Final,ESPN,24,30,31,30,,40,33,31,17,,NBA
-47,47,400899657,2016,"Mon, Nov 21",LA Clippers,Toronto Raptors,"13-2, 7-2 Home","8-6, 4-3 Away",123,115,,,Final,,23,31,34,35,,19,26,34,36,,NBA
-48,48,400899680,2016,"Fri, Nov 25",Detroit Pistons,LA Clippers,"8-9, 7-2 Home","14-3, 7-1 Away",108,97,,,Final,,35,22,25,26,,23,25,32,17,,NBA
-49,49,400899711,2016,"Tue, Nov 29",Brooklyn Nets,LA Clippers,"5-12, 4-5 Home","14-5, 7-3 Away",127,122,,,Final/2OT,,24,29,20,34,20.0,28,37,21,21,15.0,NBA
-50,50,400899729,2016,"Fri, Dec 2",New Orleans Pelicans,LA Clippers,"7-13, 5-6 Home","16-5, 9-3 Away",96,114,,,Final,,30,27,19,20,,25,35,29,25,,NBA
-51,51,400899772,2016,"Wed, Dec 7",LA Clippers,Golden State Warriors,"16-7, 7-4 Home","19-3, 10-1 Away",98,115,,,Final,ESPN,19,30,26,23,,37,25,29,24,,NBA
-52,52,400899808,2016,"Mon, Dec 12",LA Clippers,Portland Trail Blazers,"18-7, 9-4 Home","12-14, 5-10 Away",121,120,,,Final,NBATV,38,18,33,32,,27,33,26,34,,NBA
-53,53,400899839,2016,"Fri, Dec 16",Miami Heat,LA Clippers,"9-18, 4-9 Home","20-7, 11-3 Away",98,102,,,Final,,27,19,23,29,,31,29,19,23,,NBA
-54,54,400899868,2016,"Tue, Dec 20",LA Clippers,Denver Nuggets,"21-8, 10-4 Home","12-17, 6-10 Away",119,102,,,Final,,36,32,27,24,,26,27,19,30,,NBA
-55,55,400899897,2016,"Fri, Dec 23",LA Clippers,Dallas Mavericks,"22-9, 11-5 Home","9-21, 3-13 Away",88,90,,,Final,NBATV,24,27,21,16,,21,29,18,22,,NBA
-56,56,400899912,2016,"Mon, Dec 26",LA Clippers,Denver Nuggets,"22-11, 11-6 Home","13-18, 7-10 Away",102,106,,,Final,NBATV,23,23,31,25,,23,40,16,27,,NBA
-57,57,400899938,2016,"Fri, Dec 30",Houston Rockets,LA Clippers,"25-9, 12-3 Home","22-13, 11-7 Away",140,116,,,Final,,37,37,34,32,,23,34,41,18,,NBA
-58,58,400899418,2016,"Mon, Jan 2",LA Clippers,Phoenix Suns,"23-14, 12-6 Home","10-25, 4-16 Away",109,98,,,Final,,27,37,25,20,,26,32,18,22,,NBA
-59,59,400899972,2016,"Fri, Jan 6",Sacramento Kings,LA Clippers,"15-21, 7-9 Home","25-14, 12-8 Away",98,106,,,Final,,29,12,32,25,,19,34,22,31,,NBA
-60,60,400900005,2016,"Wed, Jan 11",LA Clippers,Orlando Magic,"27-14, 15-6 Home","16-24, 9-11 Away",105,96,,,Final,,28,28,17,32,,33,18,24,21,,NBA
-61,61,400900042,2016,"Mon, Jan 16",LA Clippers,Oklahoma City Thunder,"29-14, 17-6 Home","25-18, 10-12 Away",120,98,,,Final,TNT,34,30,32,24,,25,22,28,23,,NBA
-62,62,400900079,2016,"Sat, Jan 21",Denver Nuggets,LA Clippers,"18-24, 10-11 Home","29-16, 12-9 Away",123,98,,,Final,,27,32,36,28,,18,27,26,27,,NBA
-63,63,400900096,2016,"Tue, Jan 24",Philadelphia 76ers,LA Clippers,"16-27, 11-14 Home","30-17, 13-10 Away",121,110,,,Final,,27,32,30,32,,29,39,21,21,,NBA
-64,64,400899430,2016,"Wed, Feb 1",Phoenix Suns,LA Clippers,"15-34, 8-16 Home","31-18, 14-11 Away",114,124,,,Final,,31,28,29,26,,38,24,30,32,,NBA
-65,65,400900171,2016,"Sun, Feb 5",Boston Celtics,LA Clippers,"33-18, 19-8 Home","31-20, 14-12 Away",107,102,,,Final,ABC,29,27,25,26,,19,28,20,35,,NBA
-66,66,400900196,2016,"Wed, Feb 8",New York Knicks,LA Clippers,"22-32, 13-14 Home","32-21, 15-13 Away",115,119,,,Final,ESPN,36,31,28,20,,36,32,20,31,,NBA
-67,67,400900233,2016,"Mon, Feb 13",Utah Jazz,LA Clippers,"34-22, 19-11 Home","34-21, 17-13 Away",72,88,,,Final,,19,15,15,23,,18,27,31,12,,NBA
-68,68,400900260,2016,"Thu, Feb 23",Golden State Warriors,LA Clippers,"48-9, 25-3 Home","35-22, 17-14 Away",123,113,,,Final,TNT,31,18,50,24,,24,37,26,26,,NBA
-69,69,400900287,2016,"Sun, Feb 26",LA Clippers,Charlotte Hornets,"36-23, 19-9 Home","25-34, 9-21 Away",124,121,,,Final/OT,NBATV,32,27,25,29,11.0,24,27,29,33,8.0,NBA
-70,70,400900307,2016,"Fri, Mar 3",Milwaukee Bucks,LA Clippers,"27-33, 16-16 Home","36-25, 17-15 Away",112,101,,,Final,,34,32,19,27,,19,28,29,25,,NBA
-71,71,400900340,2016,"Mon, Mar 6",LA Clippers,Boston Celtics,"38-25, 20-10 Home","40-24, 19-15 Away",116,102,,,Final,TNT,22,21,32,41,,25,21,25,31,,NBA
-72,72,400900356,2016,"Thu, Mar 9",Memphis Grizzlies,LA Clippers,"36-29, 19-13 Home","39-26, 19-16 Away",98,114,,,Final,,21,24,20,33,,26,28,31,29,,NBA
-73,73,400900391,2016,"Mon, Mar 13",Utah Jazz,LA Clippers,"42-25, 23-12 Home","40-27, 19-17 Away",114,108,,,Final,,23,26,40,25,,28,28,30,22,,NBA
-74,74,400900413,2016,"Thu, Mar 16",Denver Nuggets,LA Clippers,"33-35, 20-16 Home","40-29, 19-18 Away",129,114,,,Final,,27,32,44,26,,19,27,34,34,,NBA
-75,75,400900445,2016,"Mon, Mar 20",LA Clippers,New York Knicks,"42-29, 23-11 Home","27-43, 11-25 Away",114,105,,,Final,TNT,29,34,34,17,,23,30,19,33,,NBA
-76,76,400900464,2016,"Thu, Mar 23",Dallas Mavericks,LA Clippers,"31-40, 21-16 Home","43-30, 20-19 Away",97,95,,,Final,,29,19,29,20,,24,30,21,20,,NBA
-77,77,400900484,2016,"Sun, Mar 26",LA Clippers,Sacramento Kings,"44-31, 24-12 Home","28-45, 14-23 Away",97,98,,,Final,,24,20,32,21,,24,18,23,33,,NBA
-78,78,400900519,2016,"Thu, Mar 30",Phoenix Suns,LA Clippers,"22-54, 13-24 Home","46-31, 21-19 Away",118,124,,,Final,,35,24,33,26,,31,36,26,31,,NBA
-79,79,400900550,2016,"Wed, Apr 5",LA Clippers,Dallas Mavericks,"48-31, 27-12 Home","32-46, 11-28 Away",112,101,,,Final,ESPN,35,27,28,22,,24,25,24,28,,NBA
-80,80,400900588,2016,"Mon, Apr 10",LA Clippers,Houston Rockets,"50-31, 28-12 Home","54-27, 25-16 Away",125,96,,,Final,TNT,35,26,36,28,,35,22,12,27,,NBA
-81,81,400900606,2016,"Wed, Apr 12",LA Clippers,Sacramento Kings,"51-31, 29-12 Home","32-50, 15-26 Away",115,95,,,Final,,30,23,34,28,,23,24,26,22,,NBA
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+400899485,2016,"October 30, 2016",LA Clippers,Utah Jazz,"2-0, 1-0 Home","1-2, 0-2 Away",88,75,,,Final,,19,23,27,19,,22,13,21,19,,NBA
+400899514,2016,"November 02, 2016",LA Clippers,Oklahoma City Thunder,"3-1, 2-1 Home","4-0, 2-0 Away",83,85,,,Final,ESPN,24,17,25,17,,23,26,16,20,,NBA
+400899536,2016,"November 05, 2016",San Antonio Spurs,LA Clippers,"5-2, 1-2 Home","5-1, 3-0 Away",92,116,,,Final,NBATV,24,31,17,20,,39,34,16,27,,NBA
+400899565,2016,"November 09, 2016",LA Clippers,Portland Trail Blazers,"7-1, 4-1 Home","5-4, 3-2 Away",111,80,,,Final,,36,25,32,18,,16,16,18,30,,NBA
+400899585,2016,"November 12, 2016",Minnesota Timberwolves,LA Clippers,"2-6, 1-2 Home","9-1, 5-0 Away",105,119,,,Final,,21,30,22,32,,34,26,28,31,,NBA
+400899617,2016,"November 16, 2016",LA Clippers,Memphis Grizzlies,"10-2, 5-2 Home","6-5, 2-3 Away",107,111,,,Final,ESPN,28,18,30,31,,26,35,22,28,,NBA
+400899642,2016,"November 19, 2016",LA Clippers,Chicago Bulls,"12-2, 6-2 Home","8-5, 4-4 Away",102,95,,,Final,NBATV,23,24,25,30,,33,19,25,18,,NBA
+400899670,2016,"November 23, 2016",Dallas Mavericks,LA Clippers,"2-12, 1-4 Home","14-2, 7-0 Away",104,124,,,Final,,26,19,25,34,,32,36,25,31,,NBA
+400899699,2016,"November 27, 2016",Indiana Pacers,LA Clippers,"9-9, 8-4 Home","14-4, 7-2 Away",91,70,,,Final,,23,27,26,15,,20,20,18,12,,NBA
+400899395,2016,"December 01, 2016",Cleveland Cavaliers,LA Clippers,"13-4, 9-2 Home","15-5, 8-3 Away",94,113,,,Final,TNT,28,22,15,29,,24,34,27,28,,NBA
+400899745,2016,"December 04, 2016",LA Clippers,Indiana Pacers,"16-6, 7-3 Home","10-10, 2-6 Away",102,111,,,Final,,28,24,17,33,,17,31,35,28,,NBA
+400899797,2016,"December 10, 2016",LA Clippers,New Orleans Pelicans,"17-7, 8-4 Home","7-17, 2-9 Away",133,105,,,Final,NBATV,35,26,37,35,,31,24,25,25,,NBA
+400899818,2016,"December 14, 2016",Orlando Magic,LA Clippers,"11-16, 4-9 Home","19-7, 10-3 Away",108,113,,,Final,,25,26,36,21,,30,30,27,26,,NBA
+400899848,2016,"December 18, 2016",Washington Wizards,LA Clippers,"12-14, 10-6 Home","20-8, 11-4 Away",117,110,,,Final,,28,24,33,32,,27,28,32,23,,NBA
+400899883,2016,"December 22, 2016",LA Clippers,San Antonio Spurs,"22-8, 11-4 Home","23-6, 15-2 Away",106,101,,,Final,TNT,27,30,24,25,,22,23,28,28,,NBA
+400899902,2016,"December 25, 2016",Los Angeles Lakers,LA Clippers,"12-22, 7-7 Home","22-10, 11-5 Away",111,102,,,Final,ESPN,27,28,34,22,,31,27,16,28,,NBA
+400899923,2016,"December 28, 2016",New Orleans Pelicans,LA Clippers,"13-21, 9-10 Home","22-12, 11-6 Away",102,98,,,Final,NBATV,19,30,27,26,,27,29,21,21,,NBA
+400899949,2016,"December 31, 2016",Oklahoma City Thunder,LA Clippers,"21-13, 13-6 Home","22-14, 11-8 Away",114,88,,,Final,,33,36,27,18,,12,28,28,20,,NBA
+400899954,2016,"January 04, 2017",LA Clippers,Memphis Grizzlies,"24-14, 13-6 Home","22-16, 9-9 Away",115,106,,,Final,,30,23,36,26,,29,34,22,21,,NBA
+400899982,2016,"January 08, 2017",LA Clippers,Miami Heat,"26-14, 14-6 Home","11-28, 6-15 Away",98,86,,,Final,,20,32,28,18,,19,20,27,20,,NBA
+400900022,2016,"January 14, 2017",LA Clippers,Los Angeles Lakers,"28-14, 16-6 Home","15-29, 5-18 Away",113,97,,,Final,,26,32,26,29,,15,24,29,29,,NBA
+400900061,2016,"January 19, 2017",LA Clippers,Minnesota Timberwolves,"29-15, 17-7 Home","15-28, 6-15 Away",101,104,,,Final,TNT,22,29,28,22,,25,19,33,27,,NBA
+400900088,2016,"January 23, 2017",Atlanta Hawks,LA Clippers,"26-19, 13-9 Home","30-16, 13-9 Away",105,115,,,Final,,21,19,35,30,,30,28,27,30,,NBA
+400900128,2016,"January 28, 2017",Golden State Warriors,LA Clippers,"40-7, 21-3 Home","30-18, 13-11 Away",144,98,,,Final,ABC,31,41,45,27,,22,29,23,24,,NBA
+400899472,2016,"February 02, 2017",LA Clippers,Golden State Warriors,"31-19, 17-8 Home","43-7, 21-4 Away",120,133,,,Final,TNT,22,33,32,33,,33,32,39,29,,NBA
+400900176,2016,"February 06, 2017",Toronto Raptors,LA Clippers,"32-21, 18-9 Home","31-21, 14-13 Away",118,109,,,Final,,35,35,27,21,,31,29,22,27,,NBA
+400900213,2016,"February 11, 2017",Charlotte Hornets,LA Clippers,"24-30, 16-12 Home","33-21, 16-13 Away",102,107,,,Final,,27,24,19,32,,29,24,24,30,,NBA
+400900252,2016,"February 15, 2017",LA Clippers,Atlanta Hawks,"35-21, 18-8 Home","32-24, 16-13 Away",99,84,,,Final,,21,33,29,16,,22,18,24,20,,NBA
+400900271,2016,"February 24, 2017",LA Clippers,San Antonio Spurs,"35-23, 18-9 Home","44-13, 25-7 Away",97,105,,,Final,ESPN,13,29,31,24,,18,29,30,28,,NBA
+400899445,2016,"March 01, 2017",LA Clippers,Houston Rockets,"36-24, 19-10 Home","43-19, 21-11 Away",103,122,,,Final,ESPN,37,21,20,25,,34,36,38,14,,NBA
+400900317,2016,"March 04, 2017",Chicago Bulls,LA Clippers,"31-31, 19-13 Home","37-25, 18-15 Away",91,101,,,Final,ABC,29,32,12,18,,23,32,27,19,,NBA
+400900350,2016,"March 08, 2017",Minnesota Timberwolves,LA Clippers,"26-37, 16-18 Home","38-26, 18-16 Away",107,91,,,Final,,31,27,24,25,,19,36,13,23,,NBA
+400900369,2016,"March 11, 2017",LA Clippers,Philadelphia 76ers,"40-26, 21-10 Home","23-42, 8-23 Away",112,100,,,Final,,32,24,19,37,,30,27,22,21,,NBA
+400900408,2016,"March 15, 2017",LA Clippers,Milwaukee Bucks,"40-28, 21-11 Home","33-34, 13-18 Away",96,97,,,Final,ESPN,20,26,23,27,,28,18,21,30,,NBA
+400900426,2016,"March 18, 2017",LA Clippers,Cleveland Cavaliers,"41-29, 22-11 Home","45-23, 17-16 Away",108,78,,,Final,ABC,14,33,29,32,,16,15,27,20,,NBA
+400900453,2016,"March 21, 2017",Los Angeles Lakers,LA Clippers,"20-51, 12-22 Home","43-29, 20-18 Away",109,133,,,Final,,24,16,34,35,,33,37,38,25,,NBA
+400900477,2016,"March 25, 2017",LA Clippers,Utah Jazz,"44-30, 24-11 Home","44-29, 20-17 Away",108,95,,,Final,,28,21,23,36,,14,27,29,25,,NBA
+400900514,2016,"March 29, 2017",LA Clippers,Washington Wizards,"45-31, 25-12 Home","46-29, 17-19 Away",133,124,,,Final,,39,35,36,23,,31,32,35,26,,NBA
+400899368,2016,"April 01, 2017",LA Clippers,Los Angeles Lakers,"47-31, 26-12 Home","21-55, 8-31 Away",115,104,,,Final,,28,27,38,22,,22,28,22,32,,NBA
+400900571,2016,"April 08, 2017",San Antonio Spurs,LA Clippers,"61-19, 31-10 Home","49-31, 22-19 Away",87,98,,,Final,ABC,23,20,27,17,,22,30,30,16,,NBA
+400899426,2016,"October 27, 2016",Portland Trail Blazers,LA Clippers,"1-1, 1-1 Home","1-0, 1-0 Away",106,114,,,Final,TNT,27,22,33,24,,28,30,24,32,,NBA
+400899495,2016,"October 31, 2016",LA Clippers,Phoenix Suns,"3-0, 2-0 Home","0-4, 0-2 Away",116,98,,,Final,,24,24,34,34,,24,12,34,28,,NBA
+400899524,2016,"November 04, 2016",Memphis Grizzlies,LA Clippers,"3-3, 3-1 Home","4-1, 2-0 Away",88,99,,,Final,,20,15,22,31,,23,30,23,23,,NBA
+400899548,2016,"November 07, 2016",LA Clippers,Detroit Pistons,"6-1, 3-1 Home","4-3, 0-3 Away",114,82,,,Final,,33,29,29,23,,15,17,21,29,,NBA
+400899576,2016,"November 11, 2016",Oklahoma City Thunder,LA Clippers,"6-3, 4-2 Home","8-1, 4-0 Away",108,110,,,Final,NBATV,24,26,24,34,,16,34,32,28,,NBA
+400899602,2016,"November 14, 2016",LA Clippers,Brooklyn Nets,"10-1, 5-1 Home","4-6, 1-4 Away",127,95,,,Final,,39,32,28,28,,14,33,18,30,,NBA
+400899633,2016,"November 18, 2016",Sacramento Kings,LA Clippers,"4-9, 2-4 Home","11-2, 6-0 Away",115,121,,,Final,ESPN,24,30,31,30,,40,33,31,17,,NBA
+400899657,2016,"November 21, 2016",LA Clippers,Toronto Raptors,"13-2, 7-2 Home","8-6, 4-3 Away",123,115,,,Final,,23,31,34,35,,19,26,34,36,,NBA
+400899680,2016,"November 25, 2016",Detroit Pistons,LA Clippers,"8-9, 7-2 Home","14-3, 7-1 Away",108,97,,,Final,,35,22,25,26,,23,25,32,17,,NBA
+400899711,2016,"November 29, 2016",Brooklyn Nets,LA Clippers,"5-12, 4-5 Home","14-5, 7-3 Away",127,122,,,Final/2OT,,24,29,20,34,20.0,28,37,21,21,15.0,NBA
+400899729,2016,"December 02, 2016",New Orleans Pelicans,LA Clippers,"7-13, 5-6 Home","16-5, 9-3 Away",96,114,,,Final,,30,27,19,20,,25,35,29,25,,NBA
+400899772,2016,"December 07, 2016",LA Clippers,Golden State Warriors,"16-7, 7-4 Home","19-3, 10-1 Away",98,115,,,Final,ESPN,19,30,26,23,,37,25,29,24,,NBA
+400899808,2016,"December 12, 2016",LA Clippers,Portland Trail Blazers,"18-7, 9-4 Home","12-14, 5-10 Away",121,120,,,Final,NBATV,38,18,33,32,,27,33,26,34,,NBA
+400899839,2016,"December 16, 2016",Miami Heat,LA Clippers,"9-18, 4-9 Home","20-7, 11-3 Away",98,102,,,Final,,27,19,23,29,,31,29,19,23,,NBA
+400899868,2016,"December 20, 2016",LA Clippers,Denver Nuggets,"21-8, 10-4 Home","12-17, 6-10 Away",119,102,,,Final,,36,32,27,24,,26,27,19,30,,NBA
+400899897,2016,"December 23, 2016",LA Clippers,Dallas Mavericks,"22-9, 11-5 Home","9-21, 3-13 Away",88,90,,,Final,NBATV,24,27,21,16,,21,29,18,22,,NBA
+400899912,2016,"December 26, 2016",LA Clippers,Denver Nuggets,"22-11, 11-6 Home","13-18, 7-10 Away",102,106,,,Final,NBATV,23,23,31,25,,23,40,16,27,,NBA
+400899938,2016,"December 30, 2016",Houston Rockets,LA Clippers,"25-9, 12-3 Home","22-13, 11-7 Away",140,116,,,Final,,37,37,34,32,,23,34,41,18,,NBA
+400899418,2016,"January 02, 2017",LA Clippers,Phoenix Suns,"23-14, 12-6 Home","10-25, 4-16 Away",109,98,,,Final,,27,37,25,20,,26,32,18,22,,NBA
+400899972,2016,"January 06, 2017",Sacramento Kings,LA Clippers,"15-21, 7-9 Home","25-14, 12-8 Away",98,106,,,Final,,29,12,32,25,,19,34,22,31,,NBA
+400900005,2016,"January 11, 2017",LA Clippers,Orlando Magic,"27-14, 15-6 Home","16-24, 9-11 Away",105,96,,,Final,,28,28,17,32,,33,18,24,21,,NBA
+400900042,2016,"January 16, 2017",LA Clippers,Oklahoma City Thunder,"29-14, 17-6 Home","25-18, 10-12 Away",120,98,,,Final,TNT,34,30,32,24,,25,22,28,23,,NBA
+400900079,2016,"January 21, 2017",Denver Nuggets,LA Clippers,"18-24, 10-11 Home","29-16, 12-9 Away",123,98,,,Final,,27,32,36,28,,18,27,26,27,,NBA
+400900096,2016,"January 24, 2017",Philadelphia 76ers,LA Clippers,"16-27, 11-14 Home","30-17, 13-10 Away",121,110,,,Final,,27,32,30,32,,29,39,21,21,,NBA
+400899430,2016,"February 01, 2017",Phoenix Suns,LA Clippers,"15-34, 8-16 Home","31-18, 14-11 Away",114,124,,,Final,,31,28,29,26,,38,24,30,32,,NBA
+400900171,2016,"February 05, 2017",Boston Celtics,LA Clippers,"33-18, 19-8 Home","31-20, 14-12 Away",107,102,,,Final,ABC,29,27,25,26,,19,28,20,35,,NBA
+400900196,2016,"February 08, 2017",New York Knicks,LA Clippers,"22-32, 13-14 Home","32-21, 15-13 Away",115,119,,,Final,ESPN,36,31,28,20,,36,32,20,31,,NBA
+400900233,2016,"February 13, 2017",Utah Jazz,LA Clippers,"34-22, 19-11 Home","34-21, 17-13 Away",72,88,,,Final,,19,15,15,23,,18,27,31,12,,NBA
+400900260,2016,"February 23, 2017",Golden State Warriors,LA Clippers,"48-9, 25-3 Home","35-22, 17-14 Away",123,113,,,Final,TNT,31,18,50,24,,24,37,26,26,,NBA
+400900287,2016,"February 26, 2017",LA Clippers,Charlotte Hornets,"36-23, 19-9 Home","25-34, 9-21 Away",124,121,,,Final/OT,NBATV,32,27,25,29,11.0,24,27,29,33,8.0,NBA
+400900307,2016,"March 03, 2017",Milwaukee Bucks,LA Clippers,"27-33, 16-16 Home","36-25, 17-15 Away",112,101,,,Final,,34,32,19,27,,19,28,29,25,,NBA
+400900340,2016,"March 06, 2017",LA Clippers,Boston Celtics,"38-25, 20-10 Home","40-24, 19-15 Away",116,102,,,Final,TNT,22,21,32,41,,25,21,25,31,,NBA
+400900356,2016,"March 09, 2017",Memphis Grizzlies,LA Clippers,"36-29, 19-13 Home","39-26, 19-16 Away",98,114,,,Final,,21,24,20,33,,26,28,31,29,,NBA
+400900391,2016,"March 13, 2017",Utah Jazz,LA Clippers,"42-25, 23-12 Home","40-27, 19-17 Away",114,108,,,Final,,23,26,40,25,,28,28,30,22,,NBA
+400900413,2016,"March 16, 2017",Denver Nuggets,LA Clippers,"33-35, 20-16 Home","40-29, 19-18 Away",129,114,,,Final,,27,32,44,26,,19,27,34,34,,NBA
+400900445,2016,"March 20, 2017",LA Clippers,New York Knicks,"42-29, 23-11 Home","27-43, 11-25 Away",114,105,,,Final,TNT,29,34,34,17,,23,30,19,33,,NBA
+400900464,2016,"March 23, 2017",Dallas Mavericks,LA Clippers,"31-40, 21-16 Home","43-30, 20-19 Away",97,95,,,Final,,29,19,29,20,,24,30,21,20,,NBA
+400900484,2016,"March 26, 2017",LA Clippers,Sacramento Kings,"44-31, 24-12 Home","28-45, 14-23 Away",97,98,,,Final,,24,20,32,21,,24,18,23,33,,NBA
+400900519,2016,"March 30, 2017",Phoenix Suns,LA Clippers,"22-54, 13-24 Home","46-31, 21-19 Away",118,124,,,Final,,35,24,33,26,,31,36,26,31,,NBA
+400900550,2016,"April 05, 2017",LA Clippers,Dallas Mavericks,"48-31, 27-12 Home","32-46, 11-28 Away",112,101,,,Final,ESPN,35,27,28,22,,24,25,24,28,,NBA
+400900588,2016,"April 10, 2017",LA Clippers,Houston Rockets,"50-31, 28-12 Home","54-27, 25-16 Away",125,96,,,Final,TNT,35,26,36,28,,35,22,12,27,,NBA
+400900606,2016,"April 12, 2017",LA Clippers,Sacramento Kings,"51-31, 29-12 Home","32-50, 15-26 Away",115,95,,,Final,,30,23,34,28,,23,24,26,22,,NBA

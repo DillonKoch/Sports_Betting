@@ -1,83 +1,83 @@
-,Unnamed: 0,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-0,0,161102025,1996,"Sat, Nov 2",Seattle SuperSonics,Portland Trail Blazers,"1-1, 1-0 Home","1-1, 1-1 Away",104,93,,,Final,,27,27,28,22,,26,11,27,29,,NBA
-1,1,161107021,1996,"Thu, Nov 7",Phoenix Suns,Seattle SuperSonics,"0-4, 0-3 Home","2-2, 1-1 Away",98,103,,,Final,,23,14,28,33,,30,22,29,22,,NBA
-2,2,161111023,1996,"Mon, Nov 11",Sacramento Kings,Seattle SuperSonics,"2-4, 1-3 Home","4-2, 3-1 Away",94,110,,,Final,,22,22,24,26,,27,28,29,26,,NBA
-3,3,161114012,1996,"Thu, Nov 14",Los Angeles Clippers,Seattle SuperSonics,"4-3, 1-3 Home","6-2, 4-1 Away",78,94,,,Final,,19,17,25,17,,29,20,23,22,,NBA
-4,4,161117025,1996,"Sun, Nov 17",Seattle SuperSonics,Vancouver Grizzlies,"8-2, 4-1 Home","1-9, 0-5 Away",91,81,,,Final,,24,18,23,26,,21,17,18,25,,NBA
-5,5,161120027,1996,"Wed, Nov 20",Washington Bullets,Seattle SuperSonics,"4-6, 2-4 Home","10-2, 6-1 Away",110,115,,,Final/2OT,,28,20,19,30,13.0,23,28,24,22,18.0,NBA
-6,6,161124018,1996,"Sun, Nov 24",New York Knicks,Seattle SuperSonics,"8-5, 3-3 Home","12-2, 8-1 Away",92,102,,,Final,,23,24,23,22,,24,25,36,17,,NBA
-7,7,161127016,1996,"Wed, Nov 27",Minnesota Timberwolves,Seattle SuperSonics,"5-8, 4-1 Home","13-3, 9-2 Away",98,106,,,Final,,24,22,23,29,,33,28,18,27,,NBA
-8,8,161201025,1996,"Sun, Dec 1",Seattle SuperSonics,Utah Jazz,"14-4, 5-2 Home","12-2, 4-1 Away",90,96,,,Final,,15,23,25,27,,18,31,19,28,,NBA
-9,9,161205025,1996,"Thu, Dec 5",Seattle SuperSonics,Minnesota Timberwolves,"15-5, 6-2 Home","7-10, 2-8 Away",117,86,,,Final,,26,32,30,29,,19,17,18,32,,NBA
-10,10,161209020,1996,"Mon, Dec 9",Philadelphia 76ers,Seattle SuperSonics,"7-12, 4-6 Home","16-6, 10-3 Away",94,118,,,Final,,25,28,24,17,,31,26,32,29,,NBA
-11,11,161212015,1996,"Thu, Dec 12",Milwaukee Bucks,Seattle SuperSonics,"11-9, 7-5 Home","16-8, 10-5 Away",100,97,,,Final,,27,17,28,28,,23,28,18,28,,NBA
-12,12,161217025,1996,"Tue, Dec 17",Seattle SuperSonics,Golden State Warriors,"17-9, 7-4 Home","8-17, 3-9 Away",123,83,,,Final,,34,36,27,26,,17,20,29,17,,NBA
-13,13,161220025,1996,"Fri, Dec 20",Seattle SuperSonics,Los Angeles Clippers,"19-9, 8-4 Home","10-16, 4-8 Away",102,86,,,Final,,29,19,38,16,,26,25,11,24,,NBA
-14,14,161226025,1996,"Thu, Dec 26",Seattle SuperSonics,San Antonio Spurs,"21-9, 10-4 Home","6-19, 2-10 Away",94,86,,,Final,,29,23,19,23,,22,20,20,24,,NBA
-15,15,161230010,1996,"Mon, Dec 30",Houston Rockets,Seattle SuperSonics,"24-6, 12-4 Home","21-11, 11-7 Away",99,91,,,Final,,28,29,22,20,,35,18,20,18,,NBA
-16,16,170103029,1996,"Fri, Jan 3",Vancouver Grizzlies,Seattle SuperSonics,"6-26, 5-12 Home","23-11, 12-7 Away",94,108,,,Final,,20,27,24,23,,24,28,32,24,,NBA
-17,17,170108007,1996,"Wed, Jan 8",Denver Nuggets,Seattle SuperSonics,"9-24, 4-12 Home","25-11, 13-7 Away",99,109,,,Final,,22,34,25,18,,27,34,26,22,,NBA
-18,18,170115025,1996,"Wed, Jan 15",Seattle SuperSonics,Toronto Raptors,"27-11, 14-4 Home","12-24, 2-14 Away",122,78,,,Final,,29,33,33,27,,17,18,26,17,,NBA
-19,19,170120025,1996,"Mon, Jan 20",Seattle SuperSonics,Vancouver Grizzlies,"29-11, 16-4 Home","8-33, 2-16 Away",112,96,,,Final,,35,30,25,22,,24,29,25,18,,NBA
-20,20,170123012,1996,"Thu, Jan 23",Los Angeles Clippers,Seattle SuperSonics,"15-24, 8-11 Home","30-12, 13-8 Away",102,100,,,Final,,24,31,23,24,,29,20,30,21,,NBA
-21,21,170129009,1996,"Wed, Jan 29",Golden State Warriors,Seattle SuperSonics,"17-26, 10-12 Home","31-13, 14-8 Away",86,111,,,Final,,15,25,20,26,,33,24,31,23,,NBA
-22,22,170202025,1996,"Sun, Feb 2",Seattle SuperSonics,Chicago Bulls,"32-14, 18-6 Home","41-5, 20-4 Away",84,91,,,Final,,15,24,23,22,,27,23,20,21,,NBA
-23,23,170211025,1996,"Tue, Feb 11",Seattle SuperSonics,Denver Nuggets,"33-15, 19-7 Home","16-33, 7-17 Away",108,81,,,Final,,23,34,27,24,,23,18,18,22,,NBA
-24,24,170216013,1996,"Sun, Feb 16",Los Angeles Lakers,Seattle SuperSonics,"37-14, 21-5 Home","35-15, 15-8 Away",91,102,,,Final,,26,18,31,16,,23,27,19,33,,NBA
-25,25,170221025,1996,"Fri, Feb 21",Seattle SuperSonics,New York Knicks,"37-15, 22-7 Home","39-15, 15-10 Away",84,64,,,Final,,19,29,16,20,,17,18,18,11,,NBA
-26,26,170225005,1996,"Tue, Feb 25",Cleveland Cavaliers,Seattle SuperSonics,"30-24, 18-11 Home","39-15, 17-8 Away",66,72,,,Final,,18,17,15,16,,15,22,16,19,,NBA
-27,27,170228014,1996,"Fri, Feb 28",Miami Heat,Seattle SuperSonics,"42-15, 18-8 Home","40-16, 18-9 Away",95,96,,,Final,,25,22,30,18,,29,24,20,23,,NBA
-28,28,170304025,1996,"Tue, Mar 4",Seattle SuperSonics,Orlando Magic,"41-17, 22-8 Home","31-26, 12-16 Away",89,101,,,Final,,21,27,16,25,,16,25,32,28,,NBA
-29,29,170309022,1996,"Sun, Mar 9",Portland Trail Blazers,Seattle SuperSonics,"35-28, 22-10 Home","42-18, 19-10 Away",103,93,,,Final,,29,26,24,24,,26,24,19,24,,NBA
-30,30,170313016,1996,"Thu, Mar 13",Minnesota Timberwolves,Seattle SuperSonics,"31-31, 20-12 Home","44-18, 20-10 Away",92,108,,,Final,,24,25,25,18,,27,24,26,31,,NBA
-31,31,170316008,1996,"Sun, Mar 16",Detroit Pistons,Seattle SuperSonics,"47-17, 26-6 Home","45-19, 21-11 Away",86,83,,,Final,,20,26,18,22,,21,23,20,19,,NBA
-32,32,170320025,1996,"Thu, Mar 20",Seattle SuperSonics,Denver Nuggets,"46-20, 25-8 Home","19-47, 8-25 Away",123,97,,,Final,,32,25,30,36,,12,23,23,39,,NBA
-33,33,170323029,1996,"Sun, Mar 23",Vancouver Grizzlies,Seattle SuperSonics,"12-59, 8-29 Home","48-20, 22-12 Away",92,106,,,Final,,19,23,23,27,,34,22,21,29,,NBA
-34,34,170326025,1996,"Wed, Mar 26",Seattle SuperSonics,Phoenix Suns,"49-21, 26-9 Home","31-39, 10-25 Away",107,109,,,Final,,24,35,24,24,,34,23,26,26,,NBA
-35,35,170330021,1996,"Sun, Mar 30",Phoenix Suns,Seattle SuperSonics,"33-39, 23-14 Home","50-22, 23-13 Away",107,106,,,Final,,26,30,29,22,,32,25,20,29,,NBA
-36,36,170403025,1996,"Thu, Apr 3",Seattle SuperSonics,Milwaukee Bucks,"51-23, 28-10 Home","29-44, 13-24 Away",103,80,,,Final,,30,25,22,26,,12,31,13,24,,NBA
-37,37,170406023,1996,"Sun, Apr 6",Sacramento Kings,Seattle SuperSonics,"30-45, 19-17 Home","52-24, 23-14 Away",113,101,,,Final,,26,24,31,32,,23,29,18,31,,NBA
-38,38,170412024,1996,"Sat, Apr 12",San Antonio Spurs,Seattle SuperSonics,"20-58, 12-27 Home","54-24, 25-14 Away",91,96,,,Final,,24,22,21,24,,32,26,19,19,,NBA
-39,39,170415025,1996,"Tue, Apr 15",Seattle SuperSonics,San Antonio Spurs,"55-25, 30-10 Home","20-60, 8-33 Away",108,88,,,Final,,28,29,30,21,,19,18,27,24,,NBA
-40,40,161101026,1996,"Fri, Nov 1",Utah Jazz,Seattle SuperSonics,"1-0, 1-0 Home","0-1, 0-1 Away",99,91,,,Final,,28,25,22,24,,23,23,25,20,,NBA
-41,41,161105025,1996,"Tue, Nov 5",Seattle SuperSonics,Atlanta Hawks,"1-2, 1-1 Home","2-2, 2-1 Away",95,117,,,Final,,29,29,18,19,,34,21,36,26,,NBA
-42,42,161108024,1996,"Fri, Nov 8",San Antonio Spurs,Seattle SuperSonics,"1-4, 0-2 Home","3-2, 2-1 Away",75,87,,,Final,,15,22,15,23,,24,21,19,23,,NBA
-43,43,161112025,1996,"Tue, Nov 12",Seattle SuperSonics,Golden State Warriors,"5-2, 2-1 Home","1-5, 1-2 Away",121,102,,,Final,,29,28,27,37,,38,19,24,21,,NBA
-44,44,161116025,1996,"Sat, Nov 16",Seattle SuperSonics,Sacramento Kings,"7-2, 3-1 Home","3-6, 1-3 Away",108,96,,,Final,,27,27,26,28,,18,29,25,24,,NBA
-45,45,161119028,1996,"Tue, Nov 19",Toronto Raptors,Seattle SuperSonics,"3-6, 3-3 Home","9-2, 5-1 Away",98,106,,,Final,,24,12,32,30,,29,32,21,24,,NBA
-46,46,161122002,1996,"Fri, Nov 22",Boston Celtics,Seattle SuperSonics,"2-8, 2-5 Home","11-2, 7-1 Away",91,118,,,Final,,28,17,26,20,,26,36,25,31,,NBA
-47,47,161126003,1996,"Tue, Nov 26",Charlotte Hornets,Seattle SuperSonics,"7-5, 5-2 Home","12-3, 8-2 Away",97,89,,,Final,,23,25,24,25,,28,26,13,22,,NBA
-48,48,161129025,1996,"Fri, Nov 29",Seattle SuperSonics,Phoenix Suns,"14-3, 5-1 Home","1-14, 0-8 Away",105,92,,,Final,,25,24,21,35,,19,28,19,26,,NBA
-49,49,161203013,1996,"Tue, Dec 3",Los Angeles Lakers,Seattle SuperSonics,"13-6, 7-2 Home","14-5, 9-3 Away",110,106,,,Final,,26,29,35,20,,28,30,26,22,,NBA
-50,50,161207025,1996,"Sat, Dec 7",Seattle SuperSonics,Charlotte Hornets,"15-6, 6-3 Home","9-9, 4-7 Away",92,94,,,Final,,27,31,24,10,,29,29,20,16,,NBA
-51,51,161211017,1996,"Wed, Dec 11",New Jersey Nets,Seattle SuperSonics,"5-11, 3-6 Home","16-7, 10-4 Away",110,101,,,Final,,26,35,20,29,,27,17,33,24,,NBA
-52,52,161214025,1996,"Sat, Dec 14",Seattle SuperSonics,Houston Rockets,"16-9, 6-4 Home","20-2, 10-1 Away",100,109,,,Final,,22,25,23,30,,32,25,20,32,,NBA
-53,53,161218022,1996,"Wed, Dec 18",Portland Trail Blazers,Seattle SuperSonics,"13-12, 7-5 Home","18-9, 11-5 Away",102,106,,,Final,,26,27,22,27,,23,30,23,30,,NBA
-54,54,161222025,1996,"Sun, Dec 22",Seattle SuperSonics,Dallas Mavericks,"20-9, 9-4 Home","9-16, 4-11 Away",93,79,,,Final,,28,22,20,23,,21,24,18,16,,NBA
-55,55,161228006,1996,"Sat, Dec 28",Dallas Mavericks,Seattle SuperSonics,"10-17, 6-6 Home","21-10, 11-6 Away",95,90,,,Final,,26,34,15,20,,25,17,21,27,,NBA
-56,56,170102025,1996,"Thu, Jan 2",Seattle SuperSonics,Philadelphia 76ers,"22-11, 11-4 Home","8-21, 4-11 Away",96,82,,,Final,,29,10,22,35,,16,26,18,22,,NBA
-57,57,170107025,1996,"Tue, Jan 7",Seattle SuperSonics,Miami Heat,"24-11, 12-4 Home","24-9, 16-4 Away",94,85,,,Final,,23,23,21,27,,22,14,29,20,,NBA
-58,58,170111025,1996,"Sat, Jan 11",Seattle SuperSonics,Indiana Pacers,"26-11, 13-4 Home","16-17, 9-11 Away",92,82,,,Final,,25,31,16,20,,20,19,24,19,,NBA
-59,59,170117025,1996,"Fri, Jan 17",Seattle SuperSonics,Cleveland Cavaliers,"28-11, 15-4 Home","21-16, 6-9 Away",96,84,,,Final,,27,26,22,21,,16,28,23,17,,NBA
-60,60,170122025,1996,"Wed, Jan 22",Seattle SuperSonics,Portland Trail Blazers,"30-11, 17-4 Home","23-18, 10-10 Away",98,97,,,Final,,29,21,25,23,,23,28,26,20,,NBA
-61,61,170126025,1996,"Sun, Jan 26",Seattle SuperSonics,Los Angeles Lakers,"30-13, 17-5 Home","31-12, 12-8 Away",103,104,,,Final,,22,29,29,23,,32,30,21,21,,NBA
-62,62,170131025,1996,"Fri, Jan 31",Seattle SuperSonics,Washington Bullets,"32-13, 18-5 Home","22-22, 10-13 Away",97,95,,,Final,,25,20,30,22,,22,22,24,27,,NBA
-63,63,170205025,1996,"Wed, Feb 5",Seattle SuperSonics,Utah Jazz,"32-15, 18-7 Home","33-14, 12-12 Away",95,99,,,Final,,15,21,26,33,,18,16,35,30,,NBA
-64,64,170214025,1996,"Fri, Feb 14",Seattle SuperSonics,Houston Rockets,"34-15, 20-7 Home","33-17, 16-9 Away",105,85,,,Final,,24,29,27,25,,23,22,19,21,,NBA
-65,65,170217025,1996,"Mon, Feb 17",Seattle SuperSonics,Boston Celtics,"36-15, 21-7 Home","11-40, 2-23 Away",113,108,,,Final,,27,28,27,31,,29,25,26,28,,NBA
-66,66,170223026,1996,"Sun, Feb 23",Utah Jazz,Seattle SuperSonics,"38-15, 25-3 Home","38-15, 16-8 Away",87,89,,,Final/OT,,16,25,22,15,9.0,24,19,18,17,11.0,NBA
-67,67,170226011,1996,"Wed, Feb 26",Indiana Pacers,Seattle SuperSonics,"26-29, 13-12 Home","39-16, 17-9 Away",92,78,,,Final,,20,30,20,22,,21,25,19,13,,NBA
-68,68,170302019,1996,"Sun, Mar 2",Orlando Magic,Seattle SuperSonics,"30-26, 19-10 Home","41-16, 19-9 Away",101,109,,,Final,,30,23,27,21,,25,29,27,28,,NBA
-69,69,170307025,1996,"Fri, Mar 7",Seattle SuperSonics,New Jersey Nets,"42-17, 23-8 Home","18-42, 7-24 Away",109,90,,,Final,,31,29,29,20,,21,20,28,21,,NBA
-70,70,170311025,1996,"Tue, Mar 11",Seattle SuperSonics,Detroit Pistons,"43-18, 24-8 Home","45-17, 20-11 Away",93,80,,,Final,,21,16,34,22,,14,19,24,23,,NBA
-71,71,170314001,1996,"Fri, Mar 14",Atlanta Hawks,Seattle SuperSonics,"43-21, 27-4 Home","45-18, 21-10 Away",91,97,,,Final,,23,24,13,31,,21,22,20,34,,NBA
-72,72,170318004,1996,"Tue, Mar 18",Chicago Bulls,Seattle SuperSonics,"57-9, 32-1 Home","45-20, 21-12 Away",89,87,,,Final/OT,,20,23,16,19,11.0,22,24,14,18,9.0,NBA
-73,73,170322025,1996,"Sat, Mar 22",Seattle SuperSonics,Sacramento Kings,"47-20, 26-8 Home","29-40, 11-24 Away",113,99,,,Final,,27,34,24,28,,18,29,27,25,,NBA
-74,74,170325009,1996,"Tue, Mar 25",Golden State Warriors,Seattle SuperSonics,"25-44, 15-18 Home","49-20, 23-12 Away",89,126,,,Final,,20,19,22,28,,38,35,28,25,,NBA
-75,75,170328025,1996,"Fri, Mar 28",Seattle SuperSonics,Minnesota Timberwolves,"50-21, 27-9 Home","34-37, 12-24 Away",92,81,,,Final,,19,20,29,24,,16,25,23,17,,NBA
-76,76,170401025,1996,"Tue, Apr 1",Seattle SuperSonics,Los Angeles Lakers,"50-23, 27-10 Home","49-23, 23-14 Away",97,99,,,Final,,18,21,34,24,,26,24,28,21,,NBA
-77,77,170405025,1996,"Sat, Apr 5",Seattle SuperSonics,Dallas Mavericks,"52-23, 29-10 Home","22-52, 9-29 Away",103,84,,,Final,,27,22,21,33,,19,24,16,25,,NBA
-78,78,170410006,1996,"Thu, Apr 10",Dallas Mavericks,Seattle SuperSonics,"23-54, 14-24 Home","53-24, 24-14 Away",82,90,,,Final,,18,22,25,17,,18,26,18,28,,NBA
-79,79,170413010,1996,"Sun, Apr 13",Houston Rockets,Seattle SuperSonics,"54-25, 28-11 Home","54-25, 25-15 Away",113,73,,,Final,,31,25,23,34,,20,18,17,18,,NBA
-80,80,170417007,1996,"Thu, Apr 17",Denver Nuggets,Seattle SuperSonics,"20-61, 12-29 Home","56-25, 26-15 Away",104,108,,,Final,,26,28,28,22,,33,29,25,21,,NBA
-81,81,170419025,1996,"Sat, Apr 19",Seattle SuperSonics,Los Angeles Clippers,"57-25, 31-10 Home","36-46, 15-26 Away",125,100,,,Final,,34,26,35,30,,14,27,27,32,,NBA
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+161102025,1996,"November 02, 1996",Seattle SuperSonics,Portland Trail Blazers,"1-1, 1-0 Home","1-1, 1-1 Away",104,93,,,Final,,27,27,28,22,,26,11,27,29,,NBA
+161107021,1996,"November 07, 1996",Phoenix Suns,Seattle SuperSonics,"0-4, 0-3 Home","2-2, 1-1 Away",98,103,,,Final,,23,14,28,33,,30,22,29,22,,NBA
+161111023,1996,"November 11, 1996",Sacramento Kings,Seattle SuperSonics,"2-4, 1-3 Home","4-2, 3-1 Away",94,110,,,Final,,22,22,24,26,,27,28,29,26,,NBA
+161114012,1996,"November 14, 1996",Los Angeles Clippers,Seattle SuperSonics,"4-3, 1-3 Home","6-2, 4-1 Away",78,94,,,Final,,19,17,25,17,,29,20,23,22,,NBA
+161117025,1996,"November 17, 1996",Seattle SuperSonics,Vancouver Grizzlies,"8-2, 4-1 Home","1-9, 0-5 Away",91,81,,,Final,,24,18,23,26,,21,17,18,25,,NBA
+161120027,1996,"November 20, 1996",Washington Bullets,Seattle SuperSonics,"4-6, 2-4 Home","10-2, 6-1 Away",110,115,,,Final/2OT,,28,20,19,30,13.0,23,28,24,22,18.0,NBA
+161124018,1996,"November 24, 1996",New York Knicks,Seattle SuperSonics,"8-5, 3-3 Home","12-2, 8-1 Away",92,102,,,Final,,23,24,23,22,,24,25,36,17,,NBA
+161127016,1996,"November 27, 1996",Minnesota Timberwolves,Seattle SuperSonics,"5-8, 4-1 Home","13-3, 9-2 Away",98,106,,,Final,,24,22,23,29,,33,28,18,27,,NBA
+161201025,1996,"December 01, 1996",Seattle SuperSonics,Utah Jazz,"14-4, 5-2 Home","12-2, 4-1 Away",90,96,,,Final,,15,23,25,27,,18,31,19,28,,NBA
+161205025,1996,"December 05, 1996",Seattle SuperSonics,Minnesota Timberwolves,"15-5, 6-2 Home","7-10, 2-8 Away",117,86,,,Final,,26,32,30,29,,19,17,18,32,,NBA
+161209020,1996,"December 09, 1996",Philadelphia 76ers,Seattle SuperSonics,"7-12, 4-6 Home","16-6, 10-3 Away",94,118,,,Final,,25,28,24,17,,31,26,32,29,,NBA
+161212015,1996,"December 12, 1996",Milwaukee Bucks,Seattle SuperSonics,"11-9, 7-5 Home","16-8, 10-5 Away",100,97,,,Final,,27,17,28,28,,23,28,18,28,,NBA
+161217025,1996,"December 17, 1996",Seattle SuperSonics,Golden State Warriors,"17-9, 7-4 Home","8-17, 3-9 Away",123,83,,,Final,,34,36,27,26,,17,20,29,17,,NBA
+161220025,1996,"December 20, 1996",Seattle SuperSonics,Los Angeles Clippers,"19-9, 8-4 Home","10-16, 4-8 Away",102,86,,,Final,,29,19,38,16,,26,25,11,24,,NBA
+161226025,1996,"December 26, 1996",Seattle SuperSonics,San Antonio Spurs,"21-9, 10-4 Home","6-19, 2-10 Away",94,86,,,Final,,29,23,19,23,,22,20,20,24,,NBA
+161230010,1996,"December 30, 1996",Houston Rockets,Seattle SuperSonics,"24-6, 12-4 Home","21-11, 11-7 Away",99,91,,,Final,,28,29,22,20,,35,18,20,18,,NBA
+170103029,1996,"January 03, 1997",Vancouver Grizzlies,Seattle SuperSonics,"6-26, 5-12 Home","23-11, 12-7 Away",94,108,,,Final,,20,27,24,23,,24,28,32,24,,NBA
+170108007,1996,"January 08, 1997",Denver Nuggets,Seattle SuperSonics,"9-24, 4-12 Home","25-11, 13-7 Away",99,109,,,Final,,22,34,25,18,,27,34,26,22,,NBA
+170115025,1996,"January 15, 1997",Seattle SuperSonics,Toronto Raptors,"27-11, 14-4 Home","12-24, 2-14 Away",122,78,,,Final,,29,33,33,27,,17,18,26,17,,NBA
+170120025,1996,"January 20, 1997",Seattle SuperSonics,Vancouver Grizzlies,"29-11, 16-4 Home","8-33, 2-16 Away",112,96,,,Final,,35,30,25,22,,24,29,25,18,,NBA
+170123012,1996,"January 23, 1997",Los Angeles Clippers,Seattle SuperSonics,"15-24, 8-11 Home","30-12, 13-8 Away",102,100,,,Final,,24,31,23,24,,29,20,30,21,,NBA
+170129009,1996,"January 29, 1997",Golden State Warriors,Seattle SuperSonics,"17-26, 10-12 Home","31-13, 14-8 Away",86,111,,,Final,,15,25,20,26,,33,24,31,23,,NBA
+170202025,1996,"February 02, 1997",Seattle SuperSonics,Chicago Bulls,"32-14, 18-6 Home","41-5, 20-4 Away",84,91,,,Final,,15,24,23,22,,27,23,20,21,,NBA
+170211025,1996,"February 11, 1997",Seattle SuperSonics,Denver Nuggets,"33-15, 19-7 Home","16-33, 7-17 Away",108,81,,,Final,,23,34,27,24,,23,18,18,22,,NBA
+170216013,1996,"February 16, 1997",Los Angeles Lakers,Seattle SuperSonics,"37-14, 21-5 Home","35-15, 15-8 Away",91,102,,,Final,,26,18,31,16,,23,27,19,33,,NBA
+170221025,1996,"February 21, 1997",Seattle SuperSonics,New York Knicks,"37-15, 22-7 Home","39-15, 15-10 Away",84,64,,,Final,,19,29,16,20,,17,18,18,11,,NBA
+170225005,1996,"February 25, 1997",Cleveland Cavaliers,Seattle SuperSonics,"30-24, 18-11 Home","39-15, 17-8 Away",66,72,,,Final,,18,17,15,16,,15,22,16,19,,NBA
+170228014,1996,"February 28, 1997",Miami Heat,Seattle SuperSonics,"42-15, 18-8 Home","40-16, 18-9 Away",95,96,,,Final,,25,22,30,18,,29,24,20,23,,NBA
+170304025,1996,"March 04, 1997",Seattle SuperSonics,Orlando Magic,"41-17, 22-8 Home","31-26, 12-16 Away",89,101,,,Final,,21,27,16,25,,16,25,32,28,,NBA
+170309022,1996,"March 09, 1997",Portland Trail Blazers,Seattle SuperSonics,"35-28, 22-10 Home","42-18, 19-10 Away",103,93,,,Final,,29,26,24,24,,26,24,19,24,,NBA
+170313016,1996,"March 13, 1997",Minnesota Timberwolves,Seattle SuperSonics,"31-31, 20-12 Home","44-18, 20-10 Away",92,108,,,Final,,24,25,25,18,,27,24,26,31,,NBA
+170316008,1996,"March 16, 1997",Detroit Pistons,Seattle SuperSonics,"47-17, 26-6 Home","45-19, 21-11 Away",86,83,,,Final,,20,26,18,22,,21,23,20,19,,NBA
+170320025,1996,"March 20, 1997",Seattle SuperSonics,Denver Nuggets,"46-20, 25-8 Home","19-47, 8-25 Away",123,97,,,Final,,32,25,30,36,,12,23,23,39,,NBA
+170323029,1996,"March 23, 1997",Vancouver Grizzlies,Seattle SuperSonics,"12-59, 8-29 Home","48-20, 22-12 Away",92,106,,,Final,,19,23,23,27,,34,22,21,29,,NBA
+170326025,1996,"March 26, 1997",Seattle SuperSonics,Phoenix Suns,"49-21, 26-9 Home","31-39, 10-25 Away",107,109,,,Final,,24,35,24,24,,34,23,26,26,,NBA
+170330021,1996,"March 30, 1997",Phoenix Suns,Seattle SuperSonics,"33-39, 23-14 Home","50-22, 23-13 Away",107,106,,,Final,,26,30,29,22,,32,25,20,29,,NBA
+170403025,1996,"April 03, 1997",Seattle SuperSonics,Milwaukee Bucks,"51-23, 28-10 Home","29-44, 13-24 Away",103,80,,,Final,,30,25,22,26,,12,31,13,24,,NBA
+170406023,1996,"April 06, 1997",Sacramento Kings,Seattle SuperSonics,"30-45, 19-17 Home","52-24, 23-14 Away",113,101,,,Final,,26,24,31,32,,23,29,18,31,,NBA
+170412024,1996,"April 12, 1997",San Antonio Spurs,Seattle SuperSonics,"20-58, 12-27 Home","54-24, 25-14 Away",91,96,,,Final,,24,22,21,24,,32,26,19,19,,NBA
+170415025,1996,"April 15, 1997",Seattle SuperSonics,San Antonio Spurs,"55-25, 30-10 Home","20-60, 8-33 Away",108,88,,,Final,,28,29,30,21,,19,18,27,24,,NBA
+161101026,1996,"November 01, 1996",Utah Jazz,Seattle SuperSonics,"1-0, 1-0 Home","0-1, 0-1 Away",99,91,,,Final,,28,25,22,24,,23,23,25,20,,NBA
+161105025,1996,"November 05, 1996",Seattle SuperSonics,Atlanta Hawks,"1-2, 1-1 Home","2-2, 2-1 Away",95,117,,,Final,,29,29,18,19,,34,21,36,26,,NBA
+161108024,1996,"November 08, 1996",San Antonio Spurs,Seattle SuperSonics,"1-4, 0-2 Home","3-2, 2-1 Away",75,87,,,Final,,15,22,15,23,,24,21,19,23,,NBA
+161112025,1996,"November 12, 1996",Seattle SuperSonics,Golden State Warriors,"5-2, 2-1 Home","1-5, 1-2 Away",121,102,,,Final,,29,28,27,37,,38,19,24,21,,NBA
+161116025,1996,"November 16, 1996",Seattle SuperSonics,Sacramento Kings,"7-2, 3-1 Home","3-6, 1-3 Away",108,96,,,Final,,27,27,26,28,,18,29,25,24,,NBA
+161119028,1996,"November 19, 1996",Toronto Raptors,Seattle SuperSonics,"3-6, 3-3 Home","9-2, 5-1 Away",98,106,,,Final,,24,12,32,30,,29,32,21,24,,NBA
+161122002,1996,"November 22, 1996",Boston Celtics,Seattle SuperSonics,"2-8, 2-5 Home","11-2, 7-1 Away",91,118,,,Final,,28,17,26,20,,26,36,25,31,,NBA
+161126003,1996,"November 26, 1996",Charlotte Hornets,Seattle SuperSonics,"7-5, 5-2 Home","12-3, 8-2 Away",97,89,,,Final,,23,25,24,25,,28,26,13,22,,NBA
+161129025,1996,"November 29, 1996",Seattle SuperSonics,Phoenix Suns,"14-3, 5-1 Home","1-14, 0-8 Away",105,92,,,Final,,25,24,21,35,,19,28,19,26,,NBA
+161203013,1996,"December 03, 1996",Los Angeles Lakers,Seattle SuperSonics,"13-6, 7-2 Home","14-5, 9-3 Away",110,106,,,Final,,26,29,35,20,,28,30,26,22,,NBA
+161207025,1996,"December 07, 1996",Seattle SuperSonics,Charlotte Hornets,"15-6, 6-3 Home","9-9, 4-7 Away",92,94,,,Final,,27,31,24,10,,29,29,20,16,,NBA
+161211017,1996,"December 11, 1996",New Jersey Nets,Seattle SuperSonics,"5-11, 3-6 Home","16-7, 10-4 Away",110,101,,,Final,,26,35,20,29,,27,17,33,24,,NBA
+161214025,1996,"December 14, 1996",Seattle SuperSonics,Houston Rockets,"16-9, 6-4 Home","20-2, 10-1 Away",100,109,,,Final,,22,25,23,30,,32,25,20,32,,NBA
+161218022,1996,"December 18, 1996",Portland Trail Blazers,Seattle SuperSonics,"13-12, 7-5 Home","18-9, 11-5 Away",102,106,,,Final,,26,27,22,27,,23,30,23,30,,NBA
+161222025,1996,"December 22, 1996",Seattle SuperSonics,Dallas Mavericks,"20-9, 9-4 Home","9-16, 4-11 Away",93,79,,,Final,,28,22,20,23,,21,24,18,16,,NBA
+161228006,1996,"December 28, 1996",Dallas Mavericks,Seattle SuperSonics,"10-17, 6-6 Home","21-10, 11-6 Away",95,90,,,Final,,26,34,15,20,,25,17,21,27,,NBA
+170102025,1996,"January 02, 1997",Seattle SuperSonics,Philadelphia 76ers,"22-11, 11-4 Home","8-21, 4-11 Away",96,82,,,Final,,29,10,22,35,,16,26,18,22,,NBA
+170107025,1996,"January 07, 1997",Seattle SuperSonics,Miami Heat,"24-11, 12-4 Home","24-9, 16-4 Away",94,85,,,Final,,23,23,21,27,,22,14,29,20,,NBA
+170111025,1996,"January 11, 1997",Seattle SuperSonics,Indiana Pacers,"26-11, 13-4 Home","16-17, 9-11 Away",92,82,,,Final,,25,31,16,20,,20,19,24,19,,NBA
+170117025,1996,"January 17, 1997",Seattle SuperSonics,Cleveland Cavaliers,"28-11, 15-4 Home","21-16, 6-9 Away",96,84,,,Final,,27,26,22,21,,16,28,23,17,,NBA
+170122025,1996,"January 22, 1997",Seattle SuperSonics,Portland Trail Blazers,"30-11, 17-4 Home","23-18, 10-10 Away",98,97,,,Final,,29,21,25,23,,23,28,26,20,,NBA
+170126025,1996,"January 26, 1997",Seattle SuperSonics,Los Angeles Lakers,"30-13, 17-5 Home","31-12, 12-8 Away",103,104,,,Final,,22,29,29,23,,32,30,21,21,,NBA
+170131025,1996,"January 31, 1997",Seattle SuperSonics,Washington Bullets,"32-13, 18-5 Home","22-22, 10-13 Away",97,95,,,Final,,25,20,30,22,,22,22,24,27,,NBA
+170205025,1996,"February 05, 1997",Seattle SuperSonics,Utah Jazz,"32-15, 18-7 Home","33-14, 12-12 Away",95,99,,,Final,,15,21,26,33,,18,16,35,30,,NBA
+170214025,1996,"February 14, 1997",Seattle SuperSonics,Houston Rockets,"34-15, 20-7 Home","33-17, 16-9 Away",105,85,,,Final,,24,29,27,25,,23,22,19,21,,NBA
+170217025,1996,"February 17, 1997",Seattle SuperSonics,Boston Celtics,"36-15, 21-7 Home","11-40, 2-23 Away",113,108,,,Final,,27,28,27,31,,29,25,26,28,,NBA
+170223026,1996,"February 23, 1997",Utah Jazz,Seattle SuperSonics,"38-15, 25-3 Home","38-15, 16-8 Away",87,89,,,Final/OT,,16,25,22,15,9.0,24,19,18,17,11.0,NBA
+170226011,1996,"February 26, 1997",Indiana Pacers,Seattle SuperSonics,"26-29, 13-12 Home","39-16, 17-9 Away",92,78,,,Final,,20,30,20,22,,21,25,19,13,,NBA
+170302019,1996,"March 02, 1997",Orlando Magic,Seattle SuperSonics,"30-26, 19-10 Home","41-16, 19-9 Away",101,109,,,Final,,30,23,27,21,,25,29,27,28,,NBA
+170307025,1996,"March 07, 1997",Seattle SuperSonics,New Jersey Nets,"42-17, 23-8 Home","18-42, 7-24 Away",109,90,,,Final,,31,29,29,20,,21,20,28,21,,NBA
+170311025,1996,"March 11, 1997",Seattle SuperSonics,Detroit Pistons,"43-18, 24-8 Home","45-17, 20-11 Away",93,80,,,Final,,21,16,34,22,,14,19,24,23,,NBA
+170314001,1996,"March 14, 1997",Atlanta Hawks,Seattle SuperSonics,"43-21, 27-4 Home","45-18, 21-10 Away",91,97,,,Final,,23,24,13,31,,21,22,20,34,,NBA
+170318004,1996,"March 18, 1997",Chicago Bulls,Seattle SuperSonics,"57-9, 32-1 Home","45-20, 21-12 Away",89,87,,,Final/OT,,20,23,16,19,11.0,22,24,14,18,9.0,NBA
+170322025,1996,"March 22, 1997",Seattle SuperSonics,Sacramento Kings,"47-20, 26-8 Home","29-40, 11-24 Away",113,99,,,Final,,27,34,24,28,,18,29,27,25,,NBA
+170325009,1996,"March 25, 1997",Golden State Warriors,Seattle SuperSonics,"25-44, 15-18 Home","49-20, 23-12 Away",89,126,,,Final,,20,19,22,28,,38,35,28,25,,NBA
+170328025,1996,"March 28, 1997",Seattle SuperSonics,Minnesota Timberwolves,"50-21, 27-9 Home","34-37, 12-24 Away",92,81,,,Final,,19,20,29,24,,16,25,23,17,,NBA
+170401025,1996,"April 01, 1997",Seattle SuperSonics,Los Angeles Lakers,"50-23, 27-10 Home","49-23, 23-14 Away",97,99,,,Final,,18,21,34,24,,26,24,28,21,,NBA
+170405025,1996,"April 05, 1997",Seattle SuperSonics,Dallas Mavericks,"52-23, 29-10 Home","22-52, 9-29 Away",103,84,,,Final,,27,22,21,33,,19,24,16,25,,NBA
+170410006,1996,"April 10, 1997",Dallas Mavericks,Seattle SuperSonics,"23-54, 14-24 Home","53-24, 24-14 Away",82,90,,,Final,,18,22,25,17,,18,26,18,28,,NBA
+170413010,1996,"April 13, 1997",Houston Rockets,Seattle SuperSonics,"54-25, 28-11 Home","54-25, 25-15 Away",113,73,,,Final,,31,25,23,34,,20,18,17,18,,NBA
+170417007,1996,"April 17, 1997",Denver Nuggets,Seattle SuperSonics,"20-61, 12-29 Home","56-25, 26-15 Away",104,108,,,Final,,26,28,28,22,,33,29,25,21,,NBA
+170419025,1996,"April 19, 1997",Seattle SuperSonics,Los Angeles Clippers,"57-25, 31-10 Home","36-46, 15-26 Away",125,100,,,Final,,34,26,35,30,,14,27,27,32,,NBA

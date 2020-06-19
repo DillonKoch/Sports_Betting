@@ -1,83 +1,83 @@
-,Unnamed: 0,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-0,0,141105004,1994,"Sat, Nov 5",Chicago Bulls,Washington Bullets,"1-1, 1-1 Home","2-0, 1-0 Away",99,100,,,Final/OT,,25,15,26,26,7.0,21,25,27,19,8.0,NBA
-1,1,141109017,1994,"Wed, Nov 9",New Jersey Nets,Chicago Bulls,"1-3, 1-0 Home","2-2, 0-1 Away",110,109,,,Final,,30,26,28,26,,28,21,22,38,,NBA
-2,2,141112004,1994,"Sat, Nov 12",Chicago Bulls,Dallas Mavericks,"3-3, 2-2 Home","3-1, 2-0 Away",120,124,,,Final/OT,,34,20,27,28,11.0,31,21,31,26,15.0,NBA
-3,3,141117010,1994,"Thu, Nov 17",Houston Rockets,Chicago Bulls,"8-0, 3-0 Home","4-4, 2-2 Away",106,83,,,Final,,36,22,14,34,,24,25,18,16,,NBA
-4,4,141122012,1994,"Tue, Nov 22",Los Angeles Clippers,Chicago Bulls,"0-10, 0-5 Home","6-4, 4-2 Away",93,105,,,Final,,23,32,27,11,,30,28,20,27,,NBA
-5,5,141125026,1994,"Fri, Nov 25",Utah Jazz,Chicago Bulls,"7-5, 7-1 Home","6-6, 4-4 Away",124,94,,,Final,,30,34,29,31,,30,20,18,26,,NBA
-6,6,141202004,1994,"Fri, Dec 2",Chicago Bulls,Atlanta Hawks,"7-7, 3-3 Home","5-9, 3-4 Away",81,92,,,Final,,19,24,16,22,,14,26,23,29,,NBA
-7,7,141205004,1994,"Mon, Dec 5",Chicago Bulls,New Jersey Nets,"8-8, 4-4 Home","7-11, 3-8 Away",94,99,,,Final,,34,29,19,12,,20,24,32,23,,NBA
-8,8,141210015,1994,"Sat, Dec 10",Milwaukee Bucks,Chicago Bulls,"6-12, 3-5 Home","9-9, 5-5 Away",106,103,,,Final,,33,31,24,18,,26,22,31,24,,NBA
-9,9,141216001,1994,"Fri, Dec 16",Atlanta Hawks,Chicago Bulls,"9-13, 5-6 Home","11-9, 6-5 Away",80,85,,,Final,,13,30,24,13,,19,22,20,24,,NBA
-10,10,141219004,1994,"Mon, Dec 19",Chicago Bulls,Cleveland Cavaliers,"11-11, 5-6 Home","15-8, 8-4 Away",63,77,,,Final,,16,15,15,17,,15,22,25,15,,NBA
-11,11,141223004,1994,"Fri, Dec 23",Chicago Bulls,Indiana Pacers,"12-12, 6-6 Home","15-8, 6-7 Away",116,92,,,Final,,23,35,28,30,,25,22,12,33,,NBA
-12,12,141227004,1994,"Tue, Dec 27",Chicago Bulls,Los Angeles Clippers,"13-13, 7-7 Home","4-23, 2-10 Away",92,95,,,Final,,32,22,24,14,,26,24,25,20,,NBA
-13,13,141230004,1994,"Fri, Dec 30",Chicago Bulls,Miami Heat,"15-13, 8-7 Home","9-18, 2-11 Away",133,88,,,Final,,32,27,35,39,,19,24,21,24,,NBA
-14,14,150106004,1994,"Fri, Jan 6",Chicago Bulls,Seattle SuperSonics,"16-14, 9-8 Home","21-9, 7-8 Away",101,108,,,Final,,30,21,22,28,,27,31,22,28,,NBA
-15,15,150110004,1994,"Tue, Jan 10",Chicago Bulls,Orlando Magic,"17-15, 10-8 Home","26-7, 11-7 Away",109,77,,,Final,,35,24,30,20,,15,31,13,18,,NBA
-16,16,150113004,1994,"Fri, Jan 13",Chicago Bulls,Sacramento Kings,"18-16, 10-9 Home","19-14, 6-9 Away",79,89,,,Final,,22,26,19,12,,33,14,18,24,,NBA
-17,17,150116027,1994,"Mon, Jan 16",Washington Bullets,Chicago Bulls,"8-26, 4-12 Home","18-18, 8-9 Away",109,101,,,Final,,24,29,28,28,,29,23,27,22,,NBA
-18,18,150120004,1994,"Fri, Jan 20",Chicago Bulls,Minnesota Timberwolves,"19-19, 11-10 Home","8-29, 4-15 Away",93,86,,,Final,,20,23,26,24,,16,25,18,27,,NBA
-19,19,150124004,1994,"Tue, Jan 24",Chicago Bulls,San Antonio Spurs,"20-20, 12-11 Home","23-14, 11-8 Away",102,104,,,Final/OT,,19,21,26,27,9.0,28,12,34,19,11.0,NBA
-20,20,150129004,1994,"Sun, Jan 29",Chicago Bulls,Golden State Warriors,"21-21, 13-11 Home","12-27, 4-16 Away",116,94,,,Final,,35,34,33,14,,13,26,26,29,,NBA
-21,21,150202023,1994,"Thu, Feb 2",Sacramento Kings,Chicago Bulls,"25-18, 17-6 Home","22-22, 9-11 Away",88,68,,,Final,,22,24,17,25,,22,22,11,13,,NBA
-22,22,150205009,1994,"Sun, Feb 5",Golden State Warriors,Chicago Bulls,"13-30, 9-12 Home","23-23, 10-12 Away",93,97,,,Final,,17,31,23,22,,38,21,22,16,,NBA
-23,23,150209025,1994,"Thu, Feb 9",Seattle SuperSonics,Chicago Bulls,"33-12, 19-4 Home","23-25, 10-14 Away",126,118,,,Final/OT,,40,27,26,18,15.0,38,16,30,27,7.0,NBA
-24,24,150217004,1994,"Fri, Feb 17",Chicago Bulls,Detroit Pistons,"25-25, 15-11 Home","18-31, 4-19 Away",117,102,,,Final,,32,32,29,24,,25,14,32,31,,NBA
-25,25,150220003,1994,"Mon, Feb 20",Charlotte Hornets,Chicago Bulls,"33-19, 20-7 Home","25-27, 10-16 Away",115,104,,,Final,,22,21,35,37,,33,27,9,35,,NBA
-26,26,150224014,1994,"Fri, Feb 24",Miami Heat,Chicago Bulls,"20-32, 14-12 Home","26-28, 11-17 Away",91,83,,,Final,,26,19,24,22,,27,22,15,19,,NBA
-27,27,150227004,1994,"Mon, Feb 27",Chicago Bulls,New Jersey Nets,"27-29, 16-11 Home","22-35, 7-23 Away",108,86,,,Final,,31,26,23,28,,21,20,23,22,,NBA
-28,28,150302018,1994,"Thu, Mar 2",New York Knicks,Chicago Bulls,"36-19, 21-7 Home","28-30, 11-19 Away",93,89,,,Final,,17,24,23,29,,29,28,20,12,,NBA
-29,29,150306004,1994,"Mon, Mar 6",Chicago Bulls,Portland Trail Blazers,"30-30, 18-11 Home","30-26, 11-16 Away",103,83,,,Final,,20,31,24,28,,23,17,21,22,,NBA
-30,30,150311004,1994,"Sat, Mar 11",Chicago Bulls,Los Angeles Lakers,"31-31, 19-12 Home","37-23, 17-15 Away",105,108,,,Final,,30,23,34,18,,27,26,20,35,,NBA
-31,31,150315004,1994,"Wed, Mar 15",Chicago Bulls,Atlanta Hawks,"33-31, 20-12 Home","31-32, 13-17 Away",99,86,,,Final,,31,27,21,20,,26,20,20,20,,NBA
-32,32,150319011,1994,"Sun, Mar 19",Indiana Pacers,Chicago Bulls,"40-24, 23-6 Home","34-32, 13-20 Away",103,96,,,Final/OT,,21,26,26,19,11.0,15,22,26,29,4.0,NBA
-33,33,150324004,1994,"Fri, Mar 24",Chicago Bulls,Orlando Magic,"35-33, 21-13 Home","51-17, 17-15 Away",99,106,,,Final,,32,22,26,19,,32,25,20,29,,NBA
-34,34,150328018,1994,"Tue, Mar 28",New York Knicks,Chicago Bulls,"44-24, 24-10 Home","37-33, 16-20 Away",111,113,,,Final,,34,22,26,29,,31,19,32,31,,NBA
-35,35,150401004,1994,"Sat, Apr 1",Chicago Bulls,Philadelphia 76ers,"39-33, 23-13 Home","20-51, 9-26 Away",91,84,,,Final,,29,22,18,22,,17,25,28,14,,NBA
-36,36,150407004,1994,"Fri, Apr 7",Chicago Bulls,Cleveland Cavaliers,"41-33, 24-13 Home","39-35, 17-20 Away",97,88,,,Final,,30,19,32,16,,20,19,28,21,,NBA
-37,37,150411004,1994,"Tue, Apr 11",Chicago Bulls,Indiana Pacers,"42-34, 25-13 Home","49-28, 19-21 Away",96,89,,,Final,,29,31,11,25,,19,24,19,27,,NBA
-38,38,150416004,1994,"Sun, Apr 16",Chicago Bulls,New York Knicks,"44-34, 26-13 Home","52-26, 24-15 Away",111,90,,,Final,,35,32,19,25,,33,14,21,22,,NBA
-39,39,150420004,1994,"Thu, Apr 20",Chicago Bulls,Detroit Pistons,"46-34, 27-13 Home","28-52, 6-33 Away",120,105,,,Final,,28,30,33,29,,24,21,31,29,,NBA
-40,40,141104004,1994,"Fri, Nov 4",Chicago Bulls,Charlotte Hornets,"1-0, 1-0 Home","0-1, 0-1 Away",89,83,,,Final,,23,23,17,26,,24,23,18,18,,NBA
-41,41,141107004,1994,"Mon, Nov 7",Chicago Bulls,Philadelphia 76ers,"2-1, 2-1 Home","0-3, 0-2 Away",98,83,,,Final,,21,21,20,36,,30,20,19,14,,NBA
-42,42,141111016,1994,"Fri, Nov 11",Minnesota Timberwolves,Chicago Bulls,"0-5, 0-3 Home","3-2, 1-1 Away",100,112,,,Final,,26,17,24,33,,26,29,27,30,,NBA
-43,43,141116024,1994,"Wed, Nov 16",San Antonio Spurs,Chicago Bulls,"3-3, 3-2 Home","4-3, 2-1 Away",92,94,,,Final,,27,22,20,23,,20,24,25,25,,NBA
-44,44,141119006,1994,"Sat, Nov 19",Dallas Mavericks,Chicago Bulls,"4-3, 2-2 Home","5-4, 3-2 Away",85,111,,,Final,,31,17,15,22,,34,24,34,19,,NBA
-45,45,141123007,1994,"Wed, Nov 23",Denver Nuggets,Chicago Bulls,"6-3, 4-3 Home","6-5, 4-3 Away",113,111,,,Final,,22,40,19,32,,32,24,28,27,,NBA
-46,46,141130004,1994,"Wed, Nov 30",Chicago Bulls,Phoenix Suns,"7-6, 3-2 Home","10-4, 3-4 Away",118,105,,,Final,,37,28,23,30,,35,20,30,20,,NBA
-47,47,141203004,1994,"Sat, Dec 3",Chicago Bulls,Boston Celtics,"8-7, 4-3 Home","7-8, 4-3 Away",125,109,,,Final,,34,32,28,31,,28,26,19,36,,NBA
-48,48,141209008,1994,"Fri, Dec 9",Detroit Pistons,Chicago Bulls,"8-9, 6-3 Home","9-8, 5-4 Away",96,117,,,Final,,23,23,25,25,,27,31,30,29,,NBA
-49,49,141213004,1994,"Tue, Dec 13",Chicago Bulls,Detroit Pistons,"10-9, 5-4 Home","8-11, 2-8 Away",98,78,,,Final,,29,16,21,32,,17,14,28,19,,NBA
-50,50,141217004,1994,"Sat, Dec 17",Chicago Bulls,Utah Jazz,"11-10, 5-5 Home","15-8, 7-4 Away",89,97,,,Final,,19,24,27,19,,24,21,27,25,,NBA
-51,51,141221011,1994,"Wed, Dec 21",Indiana Pacers,Chicago Bulls,"15-7, 9-1 Home","11-12, 6-6 Away",107,99,,,Final,,25,26,32,24,,33,19,25,22,,NBA
-52,52,141225004,1994,"Sun, Dec 25",Chicago Bulls,New York Knicks,"13-12, 7-6 Home","12-12, 5-8 Away",107,104,,,Final/OT,,22,33,22,23,7.0,31,24,18,27,4.0,NBA
-53,53,141228002,1994,"Wed, Dec 28",Boston Celtics,Chicago Bulls,"10-17, 5-8 Home","14-13, 7-6 Away",97,105,,,Final,,33,21,22,21,,33,34,19,19,,NBA
-54,54,150104004,1994,"Wed, Jan 4",Chicago Bulls,Denver Nuggets,"16-13, 9-7 Home","15-14, 6-8 Away",86,80,,,Final,,31,25,12,18,,19,20,25,16,,NBA
-55,55,150107005,1994,"Sat, Jan 7",Cleveland Cavaliers,Chicago Bulls,"21-10, 12-6 Home","16-15, 7-7 Away",92,78,,,Final,,26,21,23,22,,20,14,25,19,,NBA
-56,56,150111020,1994,"Wed, Jan 11",Philadelphia 76ers,Chicago Bulls,"10-22, 5-10 Home","18-15, 8-7 Away",77,115,,,Final,,19,29,8,21,,34,21,35,25,,NBA
-57,57,150114003,1994,"Sat, Jan 14",Charlotte Hornets,Chicago Bulls,"22-12, 13-3 Home","18-17, 8-8 Away",96,85,,,Final,,29,25,23,19,,28,25,13,19,,NBA
-58,58,150118004,1994,"Wed, Jan 18",Chicago Bulls,Milwaukee Bucks,"18-19, 10-10 Home","13-23, 7-15 Away",93,97,,,Final,,30,27,18,18,,25,27,22,23,,NBA
-59,59,150122004,1994,"Sun, Jan 22",Chicago Bulls,Houston Rockets,"20-19, 12-10 Home","23-14, 11-7 Away",100,81,,,Final,,28,19,26,27,,27,13,24,17,,NBA
-60,60,150126019,1994,"Thu, Jan 26",Orlando Magic,Chicago Bulls,"34-8, 20-0 Home","20-21, 8-10 Away",102,99,,,Final,,23,23,27,29,,28,21,26,24,,NBA
-61,61,150131013,1994,"Tue, Jan 31",Los Angeles Lakers,Chicago Bulls,"26-14, 13-5 Home","22-21, 9-10 Away",115,119,,,Final,,36,26,23,30,,31,23,37,28,,NBA
-62,62,150203021,1994,"Fri, Feb 3",Phoenix Suns,Chicago Bulls,"36-9, 20-2 Home","22-23, 9-12 Away",110,100,,,Final,,25,28,30,27,,29,28,21,22,,NBA
-63,63,150208022,1994,"Wed, Feb 8",Portland Trail Blazers,Chicago Bulls,"25-20, 15-9 Home","23-24, 10-13 Away",116,103,,,Final,,25,34,29,28,,29,22,27,25,,NBA
-64,64,150215004,1994,"Wed, Feb 15",Chicago Bulls,Washington Bullets,"24-25, 14-11 Home","12-35, 6-20 Away",107,92,,,Final,,33,28,24,22,,20,24,26,22,,NBA
-65,65,150218015,1994,"Sat, Feb 18",Milwaukee Bucks,Chicago Bulls,"20-31, 11-12 Home","25-26, 10-15 Away",118,111,,,Final,,31,22,31,34,,25,26,21,39,,NBA
-66,66,150221001,1994,"Tue, Feb 21",Atlanta Hawks,Chicago Bulls,"24-28, 13-14 Home","26-27, 11-16 Away",88,105,,,Final,,21,24,25,18,,25,34,21,25,,NBA
-67,67,150226019,1994,"Sun, Feb 26",Orlando Magic,Chicago Bulls,"42-13, 27-1 Home","26-29, 11-18 Away",105,103,,,Final,,27,23,28,27,,31,22,32,18,,NBA
-68,68,150301004,1994,"Wed, Mar 1",Chicago Bulls,Miami Heat,"28-29, 17-11 Home","21-34, 7-22 Away",111,85,,,Final,,29,31,32,19,,21,16,20,28,,NBA
-69,69,150304020,1994,"Sat, Mar 4",Philadelphia 76ers,Chicago Bulls,"17-41, 8-19 Home","29-30, 12-19 Away",94,106,,,Final,,23,32,13,26,,34,31,23,18,,NBA
-70,70,150310004,1994,"Fri, Mar 10",Chicago Bulls,Cleveland Cavaliers,"31-30, 19-11 Home","34-26, 16-14 Away",99,76,,,Final,,25,25,28,21,,13,19,27,17,,NBA
-71,71,150314027,1994,"Tue, Mar 14",Washington Bullets,Chicago Bulls,"17-45, 9-23 Home","32-31, 13-19 Away",93,106,,,Final,,21,27,21,24,,25,29,31,21,,NBA
-72,72,150317004,1994,"Fri, Mar 17",Chicago Bulls,Milwaukee Bucks,"34-31, 21-12 Home","24-41, 10-24 Away",87,86,,,Final,,22,21,17,27,,16,26,29,15,,NBA
-73,73,150322002,1994,"Wed, Mar 22",Boston Celtics,Chicago Bulls,"25-41, 14-20 Home","35-32, 14-20 Away",107,124,,,Final,,27,27,31,22,,37,32,31,24,,NBA
-74,74,150325001,1994,"Sat, Mar 25",Atlanta Hawks,Chicago Bulls,"33-35, 20-17 Home","36-33, 15-20 Away",98,99,,,Final,,26,34,18,20,,28,23,29,19,,NBA
-75,75,150330004,1994,"Thu, Mar 30",Chicago Bulls,Boston Celtics,"38-33, 22-13 Home","27-43, 13-23 Away",100,82,,,Final,,24,29,20,27,,19,22,22,19,,NBA
-76,76,150405017,1994,"Wed, Apr 5",New Jersey Nets,Chicago Bulls,"27-46, 17-19 Home","40-33, 17-20 Away",101,108,,,Final,,27,29,27,18,,25,29,31,23,,NBA
-77,77,150409005,1994,"Sun, Apr 9",Cleveland Cavaliers,Chicago Bulls,"40-35, 23-15 Home","41-34, 17-21 Away",79,78,,,Final,,18,26,20,15,,24,20,9,25,,NBA
-78,78,150412008,1994,"Wed, Apr 12",Detroit Pistons,Chicago Bulls,"27-49, 21-18 Home","43-34, 18-21 Away",113,124,,,Final,,29,28,28,28,,30,32,32,30,,NBA
-79,79,150417014,1994,"Mon, Apr 17",Miami Heat,Chicago Bulls,"31-48, 21-19 Home","45-34, 19-21 Away",93,98,,,Final,,22,26,21,24,,21,24,29,24,,NBA
-80,80,150422004,1994,"Sat, Apr 22",Chicago Bulls,Charlotte Hornets,"47-34, 28-13 Home","49-32, 21-20 Away",116,100,,,Final,,26,36,28,26,,29,23,24,24,,NBA
-81,81,150423015,1994,"Sun, Apr 23",Milwaukee Bucks,Chicago Bulls,"34-48, 22-19 Home","47-35, 19-22 Away",104,100,,,Final,,28,25,37,14,,23,31,27,19,,NBA
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+141105004,1994,"November 05, 1994",Chicago Bulls,Washington Bullets,"1-1, 1-1 Home","2-0, 1-0 Away",99,100,,,Final/OT,,25,15,26,26,7.0,21,25,27,19,8.0,NBA
+141109017,1994,"November 09, 1994",New Jersey Nets,Chicago Bulls,"1-3, 1-0 Home","2-2, 0-1 Away",110,109,,,Final,,30,26,28,26,,28,21,22,38,,NBA
+141112004,1994,"November 12, 1994",Chicago Bulls,Dallas Mavericks,"3-3, 2-2 Home","3-1, 2-0 Away",120,124,,,Final/OT,,34,20,27,28,11.0,31,21,31,26,15.0,NBA
+141117010,1994,"November 17, 1994",Houston Rockets,Chicago Bulls,"8-0, 3-0 Home","4-4, 2-2 Away",106,83,,,Final,,36,22,14,34,,24,25,18,16,,NBA
+141122012,1994,"November 22, 1994",Los Angeles Clippers,Chicago Bulls,"0-10, 0-5 Home","6-4, 4-2 Away",93,105,,,Final,,23,32,27,11,,30,28,20,27,,NBA
+141125026,1994,"November 25, 1994",Utah Jazz,Chicago Bulls,"7-5, 7-1 Home","6-6, 4-4 Away",124,94,,,Final,,30,34,29,31,,30,20,18,26,,NBA
+141202004,1994,"December 02, 1994",Chicago Bulls,Atlanta Hawks,"7-7, 3-3 Home","5-9, 3-4 Away",81,92,,,Final,,19,24,16,22,,14,26,23,29,,NBA
+141205004,1994,"December 05, 1994",Chicago Bulls,New Jersey Nets,"8-8, 4-4 Home","7-11, 3-8 Away",94,99,,,Final,,34,29,19,12,,20,24,32,23,,NBA
+141210015,1994,"December 10, 1994",Milwaukee Bucks,Chicago Bulls,"6-12, 3-5 Home","9-9, 5-5 Away",106,103,,,Final,,33,31,24,18,,26,22,31,24,,NBA
+141216001,1994,"December 16, 1994",Atlanta Hawks,Chicago Bulls,"9-13, 5-6 Home","11-9, 6-5 Away",80,85,,,Final,,13,30,24,13,,19,22,20,24,,NBA
+141219004,1994,"December 19, 1994",Chicago Bulls,Cleveland Cavaliers,"11-11, 5-6 Home","15-8, 8-4 Away",63,77,,,Final,,16,15,15,17,,15,22,25,15,,NBA
+141223004,1994,"December 23, 1994",Chicago Bulls,Indiana Pacers,"12-12, 6-6 Home","15-8, 6-7 Away",116,92,,,Final,,23,35,28,30,,25,22,12,33,,NBA
+141227004,1994,"December 27, 1994",Chicago Bulls,Los Angeles Clippers,"13-13, 7-7 Home","4-23, 2-10 Away",92,95,,,Final,,32,22,24,14,,26,24,25,20,,NBA
+141230004,1994,"December 30, 1994",Chicago Bulls,Miami Heat,"15-13, 8-7 Home","9-18, 2-11 Away",133,88,,,Final,,32,27,35,39,,19,24,21,24,,NBA
+150106004,1994,"January 06, 1995",Chicago Bulls,Seattle SuperSonics,"16-14, 9-8 Home","21-9, 7-8 Away",101,108,,,Final,,30,21,22,28,,27,31,22,28,,NBA
+150110004,1994,"January 10, 1995",Chicago Bulls,Orlando Magic,"17-15, 10-8 Home","26-7, 11-7 Away",109,77,,,Final,,35,24,30,20,,15,31,13,18,,NBA
+150113004,1994,"January 13, 1995",Chicago Bulls,Sacramento Kings,"18-16, 10-9 Home","19-14, 6-9 Away",79,89,,,Final,,22,26,19,12,,33,14,18,24,,NBA
+150116027,1994,"January 16, 1995",Washington Bullets,Chicago Bulls,"8-26, 4-12 Home","18-18, 8-9 Away",109,101,,,Final,,24,29,28,28,,29,23,27,22,,NBA
+150120004,1994,"January 20, 1995",Chicago Bulls,Minnesota Timberwolves,"19-19, 11-10 Home","8-29, 4-15 Away",93,86,,,Final,,20,23,26,24,,16,25,18,27,,NBA
+150124004,1994,"January 24, 1995",Chicago Bulls,San Antonio Spurs,"20-20, 12-11 Home","23-14, 11-8 Away",102,104,,,Final/OT,,19,21,26,27,9.0,28,12,34,19,11.0,NBA
+150129004,1994,"January 29, 1995",Chicago Bulls,Golden State Warriors,"21-21, 13-11 Home","12-27, 4-16 Away",116,94,,,Final,,35,34,33,14,,13,26,26,29,,NBA
+150202023,1994,"February 02, 1995",Sacramento Kings,Chicago Bulls,"25-18, 17-6 Home","22-22, 9-11 Away",88,68,,,Final,,22,24,17,25,,22,22,11,13,,NBA
+150205009,1994,"February 05, 1995",Golden State Warriors,Chicago Bulls,"13-30, 9-12 Home","23-23, 10-12 Away",93,97,,,Final,,17,31,23,22,,38,21,22,16,,NBA
+150209025,1994,"February 09, 1995",Seattle SuperSonics,Chicago Bulls,"33-12, 19-4 Home","23-25, 10-14 Away",126,118,,,Final/OT,,40,27,26,18,15.0,38,16,30,27,7.0,NBA
+150217004,1994,"February 17, 1995",Chicago Bulls,Detroit Pistons,"25-25, 15-11 Home","18-31, 4-19 Away",117,102,,,Final,,32,32,29,24,,25,14,32,31,,NBA
+150220003,1994,"February 20, 1995",Charlotte Hornets,Chicago Bulls,"33-19, 20-7 Home","25-27, 10-16 Away",115,104,,,Final,,22,21,35,37,,33,27,9,35,,NBA
+150224014,1994,"February 24, 1995",Miami Heat,Chicago Bulls,"20-32, 14-12 Home","26-28, 11-17 Away",91,83,,,Final,,26,19,24,22,,27,22,15,19,,NBA
+150227004,1994,"February 27, 1995",Chicago Bulls,New Jersey Nets,"27-29, 16-11 Home","22-35, 7-23 Away",108,86,,,Final,,31,26,23,28,,21,20,23,22,,NBA
+150302018,1994,"March 02, 1995",New York Knicks,Chicago Bulls,"36-19, 21-7 Home","28-30, 11-19 Away",93,89,,,Final,,17,24,23,29,,29,28,20,12,,NBA
+150306004,1994,"March 06, 1995",Chicago Bulls,Portland Trail Blazers,"30-30, 18-11 Home","30-26, 11-16 Away",103,83,,,Final,,20,31,24,28,,23,17,21,22,,NBA
+150311004,1994,"March 11, 1995",Chicago Bulls,Los Angeles Lakers,"31-31, 19-12 Home","37-23, 17-15 Away",105,108,,,Final,,30,23,34,18,,27,26,20,35,,NBA
+150315004,1994,"March 15, 1995",Chicago Bulls,Atlanta Hawks,"33-31, 20-12 Home","31-32, 13-17 Away",99,86,,,Final,,31,27,21,20,,26,20,20,20,,NBA
+150319011,1994,"March 19, 1995",Indiana Pacers,Chicago Bulls,"40-24, 23-6 Home","34-32, 13-20 Away",103,96,,,Final/OT,,21,26,26,19,11.0,15,22,26,29,4.0,NBA
+150324004,1994,"March 24, 1995",Chicago Bulls,Orlando Magic,"35-33, 21-13 Home","51-17, 17-15 Away",99,106,,,Final,,32,22,26,19,,32,25,20,29,,NBA
+150328018,1994,"March 28, 1995",New York Knicks,Chicago Bulls,"44-24, 24-10 Home","37-33, 16-20 Away",111,113,,,Final,,34,22,26,29,,31,19,32,31,,NBA
+150401004,1994,"April 01, 1995",Chicago Bulls,Philadelphia 76ers,"39-33, 23-13 Home","20-51, 9-26 Away",91,84,,,Final,,29,22,18,22,,17,25,28,14,,NBA
+150407004,1994,"April 07, 1995",Chicago Bulls,Cleveland Cavaliers,"41-33, 24-13 Home","39-35, 17-20 Away",97,88,,,Final,,30,19,32,16,,20,19,28,21,,NBA
+150411004,1994,"April 11, 1995",Chicago Bulls,Indiana Pacers,"42-34, 25-13 Home","49-28, 19-21 Away",96,89,,,Final,,29,31,11,25,,19,24,19,27,,NBA
+150416004,1994,"April 16, 1995",Chicago Bulls,New York Knicks,"44-34, 26-13 Home","52-26, 24-15 Away",111,90,,,Final,,35,32,19,25,,33,14,21,22,,NBA
+150420004,1994,"April 20, 1995",Chicago Bulls,Detroit Pistons,"46-34, 27-13 Home","28-52, 6-33 Away",120,105,,,Final,,28,30,33,29,,24,21,31,29,,NBA
+141104004,1994,"November 04, 1994",Chicago Bulls,Charlotte Hornets,"1-0, 1-0 Home","0-1, 0-1 Away",89,83,,,Final,,23,23,17,26,,24,23,18,18,,NBA
+141107004,1994,"November 07, 1994",Chicago Bulls,Philadelphia 76ers,"2-1, 2-1 Home","0-3, 0-2 Away",98,83,,,Final,,21,21,20,36,,30,20,19,14,,NBA
+141111016,1994,"November 11, 1994",Minnesota Timberwolves,Chicago Bulls,"0-5, 0-3 Home","3-2, 1-1 Away",100,112,,,Final,,26,17,24,33,,26,29,27,30,,NBA
+141116024,1994,"November 16, 1994",San Antonio Spurs,Chicago Bulls,"3-3, 3-2 Home","4-3, 2-1 Away",92,94,,,Final,,27,22,20,23,,20,24,25,25,,NBA
+141119006,1994,"November 19, 1994",Dallas Mavericks,Chicago Bulls,"4-3, 2-2 Home","5-4, 3-2 Away",85,111,,,Final,,31,17,15,22,,34,24,34,19,,NBA
+141123007,1994,"November 23, 1994",Denver Nuggets,Chicago Bulls,"6-3, 4-3 Home","6-5, 4-3 Away",113,111,,,Final,,22,40,19,32,,32,24,28,27,,NBA
+141130004,1994,"November 30, 1994",Chicago Bulls,Phoenix Suns,"7-6, 3-2 Home","10-4, 3-4 Away",118,105,,,Final,,37,28,23,30,,35,20,30,20,,NBA
+141203004,1994,"December 03, 1994",Chicago Bulls,Boston Celtics,"8-7, 4-3 Home","7-8, 4-3 Away",125,109,,,Final,,34,32,28,31,,28,26,19,36,,NBA
+141209008,1994,"December 09, 1994",Detroit Pistons,Chicago Bulls,"8-9, 6-3 Home","9-8, 5-4 Away",96,117,,,Final,,23,23,25,25,,27,31,30,29,,NBA
+141213004,1994,"December 13, 1994",Chicago Bulls,Detroit Pistons,"10-9, 5-4 Home","8-11, 2-8 Away",98,78,,,Final,,29,16,21,32,,17,14,28,19,,NBA
+141217004,1994,"December 17, 1994",Chicago Bulls,Utah Jazz,"11-10, 5-5 Home","15-8, 7-4 Away",89,97,,,Final,,19,24,27,19,,24,21,27,25,,NBA
+141221011,1994,"December 21, 1994",Indiana Pacers,Chicago Bulls,"15-7, 9-1 Home","11-12, 6-6 Away",107,99,,,Final,,25,26,32,24,,33,19,25,22,,NBA
+141225004,1994,"December 25, 1994",Chicago Bulls,New York Knicks,"13-12, 7-6 Home","12-12, 5-8 Away",107,104,,,Final/OT,,22,33,22,23,7.0,31,24,18,27,4.0,NBA
+141228002,1994,"December 28, 1994",Boston Celtics,Chicago Bulls,"10-17, 5-8 Home","14-13, 7-6 Away",97,105,,,Final,,33,21,22,21,,33,34,19,19,,NBA
+150104004,1994,"January 04, 1995",Chicago Bulls,Denver Nuggets,"16-13, 9-7 Home","15-14, 6-8 Away",86,80,,,Final,,31,25,12,18,,19,20,25,16,,NBA
+150107005,1994,"January 07, 1995",Cleveland Cavaliers,Chicago Bulls,"21-10, 12-6 Home","16-15, 7-7 Away",92,78,,,Final,,26,21,23,22,,20,14,25,19,,NBA
+150111020,1994,"January 11, 1995",Philadelphia 76ers,Chicago Bulls,"10-22, 5-10 Home","18-15, 8-7 Away",77,115,,,Final,,19,29,8,21,,34,21,35,25,,NBA
+150114003,1994,"January 14, 1995",Charlotte Hornets,Chicago Bulls,"22-12, 13-3 Home","18-17, 8-8 Away",96,85,,,Final,,29,25,23,19,,28,25,13,19,,NBA
+150118004,1994,"January 18, 1995",Chicago Bulls,Milwaukee Bucks,"18-19, 10-10 Home","13-23, 7-15 Away",93,97,,,Final,,30,27,18,18,,25,27,22,23,,NBA
+150122004,1994,"January 22, 1995",Chicago Bulls,Houston Rockets,"20-19, 12-10 Home","23-14, 11-7 Away",100,81,,,Final,,28,19,26,27,,27,13,24,17,,NBA
+150126019,1994,"January 26, 1995",Orlando Magic,Chicago Bulls,"34-8, 20-0 Home","20-21, 8-10 Away",102,99,,,Final,,23,23,27,29,,28,21,26,24,,NBA
+150131013,1994,"January 31, 1995",Los Angeles Lakers,Chicago Bulls,"26-14, 13-5 Home","22-21, 9-10 Away",115,119,,,Final,,36,26,23,30,,31,23,37,28,,NBA
+150203021,1994,"February 03, 1995",Phoenix Suns,Chicago Bulls,"36-9, 20-2 Home","22-23, 9-12 Away",110,100,,,Final,,25,28,30,27,,29,28,21,22,,NBA
+150208022,1994,"February 08, 1995",Portland Trail Blazers,Chicago Bulls,"25-20, 15-9 Home","23-24, 10-13 Away",116,103,,,Final,,25,34,29,28,,29,22,27,25,,NBA
+150215004,1994,"February 15, 1995",Chicago Bulls,Washington Bullets,"24-25, 14-11 Home","12-35, 6-20 Away",107,92,,,Final,,33,28,24,22,,20,24,26,22,,NBA
+150218015,1994,"February 18, 1995",Milwaukee Bucks,Chicago Bulls,"20-31, 11-12 Home","25-26, 10-15 Away",118,111,,,Final,,31,22,31,34,,25,26,21,39,,NBA
+150221001,1994,"February 21, 1995",Atlanta Hawks,Chicago Bulls,"24-28, 13-14 Home","26-27, 11-16 Away",88,105,,,Final,,21,24,25,18,,25,34,21,25,,NBA
+150226019,1994,"February 26, 1995",Orlando Magic,Chicago Bulls,"42-13, 27-1 Home","26-29, 11-18 Away",105,103,,,Final,,27,23,28,27,,31,22,32,18,,NBA
+150301004,1994,"March 01, 1995",Chicago Bulls,Miami Heat,"28-29, 17-11 Home","21-34, 7-22 Away",111,85,,,Final,,29,31,32,19,,21,16,20,28,,NBA
+150304020,1994,"March 04, 1995",Philadelphia 76ers,Chicago Bulls,"17-41, 8-19 Home","29-30, 12-19 Away",94,106,,,Final,,23,32,13,26,,34,31,23,18,,NBA
+150310004,1994,"March 10, 1995",Chicago Bulls,Cleveland Cavaliers,"31-30, 19-11 Home","34-26, 16-14 Away",99,76,,,Final,,25,25,28,21,,13,19,27,17,,NBA
+150314027,1994,"March 14, 1995",Washington Bullets,Chicago Bulls,"17-45, 9-23 Home","32-31, 13-19 Away",93,106,,,Final,,21,27,21,24,,25,29,31,21,,NBA
+150317004,1994,"March 17, 1995",Chicago Bulls,Milwaukee Bucks,"34-31, 21-12 Home","24-41, 10-24 Away",87,86,,,Final,,22,21,17,27,,16,26,29,15,,NBA
+150322002,1994,"March 22, 1995",Boston Celtics,Chicago Bulls,"25-41, 14-20 Home","35-32, 14-20 Away",107,124,,,Final,,27,27,31,22,,37,32,31,24,,NBA
+150325001,1994,"March 25, 1995",Atlanta Hawks,Chicago Bulls,"33-35, 20-17 Home","36-33, 15-20 Away",98,99,,,Final,,26,34,18,20,,28,23,29,19,,NBA
+150330004,1994,"March 30, 1995",Chicago Bulls,Boston Celtics,"38-33, 22-13 Home","27-43, 13-23 Away",100,82,,,Final,,24,29,20,27,,19,22,22,19,,NBA
+150405017,1994,"April 05, 1995",New Jersey Nets,Chicago Bulls,"27-46, 17-19 Home","40-33, 17-20 Away",101,108,,,Final,,27,29,27,18,,25,29,31,23,,NBA
+150409005,1994,"April 09, 1995",Cleveland Cavaliers,Chicago Bulls,"40-35, 23-15 Home","41-34, 17-21 Away",79,78,,,Final,,18,26,20,15,,24,20,9,25,,NBA
+150412008,1994,"April 12, 1995",Detroit Pistons,Chicago Bulls,"27-49, 21-18 Home","43-34, 18-21 Away",113,124,,,Final,,29,28,28,28,,30,32,32,30,,NBA
+150417014,1994,"April 17, 1995",Miami Heat,Chicago Bulls,"31-48, 21-19 Home","45-34, 19-21 Away",93,98,,,Final,,22,26,21,24,,21,24,29,24,,NBA
+150422004,1994,"April 22, 1995",Chicago Bulls,Charlotte Hornets,"47-34, 28-13 Home","49-32, 21-20 Away",116,100,,,Final,,26,36,28,26,,29,23,24,24,,NBA
+150423015,1994,"April 23, 1995",Milwaukee Bucks,Chicago Bulls,"34-48, 22-19 Home","47-35, 19-22 Away",104,100,,,Final,,28,25,37,14,,23,31,27,19,,NBA

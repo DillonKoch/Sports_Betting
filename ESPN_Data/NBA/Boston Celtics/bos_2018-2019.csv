@@ -1,83 +1,83 @@
-,Unnamed: 0,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-0,0,401070219,2018,"Fri, Oct 19",Toronto Raptors,Boston Celtics,"2-0, 2-0 Home","1-1, 0-1 Away",113,101,TOR -2.5,210,Final,ESPN,18,31,33,31,,25,28,26,22,,NBA
-1,1,401070721,2018,"Mon, Oct 22",Boston Celtics,Orlando Magic,"2-2, 1-1 Home","2-2, 1-1 Away",90,93,BOS -11.0,211,Final,NBATV,19,26,25,20,,28,20,27,18,,NBA
-2,2,401070755,2018,"Sat, Oct 27",Detroit Pistons,Boston Celtics,"4-1, 3-1 Home","4-2, 3-1 Away",89,109,BOS -3.5,212,Final,,21,20,26,22,,30,33,21,25,,NBA
-3,3,401070796,2018,"Thu, Nov 1",Boston Celtics,Milwaukee Bucks,"6-2, 3-1 Home","7-1, 2-1 Away",117,113,BOS -2.5,221,Final,TNT,23,32,38,24,,16,37,25,35,,NBA
-4,4,401070826,2018,"Mon, Nov 5",Denver Nuggets,Boston Celtics,"9-1, 6-0 Home","6-4, 3-3 Away",115,107,DEN -1.5,210,Final,,19,35,34,27,,34,22,25,26,,NBA
-5,5,401070853,2018,"Fri, Nov 9",Utah Jazz,Boston Celtics,"6-6, 2-4 Home","7-5, 4-4 Away",123,115,UTAH -5.5,205,Final,ESPN,27,31,35,30,,25,26,29,35,,NBA
-6,6,401070885,2018,"Wed, Nov 14",Boston Celtics,Chicago Bulls,"8-6, 4-1 Home","4-11, 2-5 Away",111,82,BOS -12.5,212,Final,,19,32,26,34,,24,11,24,23,,NBA
-7,7,401070910,2018,"Sat, Nov 17",Boston Celtics,Utah Jazz,"9-7, 5-2 Home","8-8, 6-4 Away",86,98,BOS -4.0,208,Final,NBATV,20,25,17,24,,29,21,27,21,,NBA
-8,8,401070936,2018,"Wed, Nov 21",Boston Celtics,New York Knicks,"9-9, 5-3 Home","5-14, 3-8 Away",109,117,BOS -14.0,217,Final,,18,31,20,40,,26,39,19,33,,NBA
-9,9,401070964,2018,"Sat, Nov 24",Dallas Mavericks,Boston Celtics,"9-9, 8-2 Home","10-10, 5-7 Away",113,104,BOS -2.5,213,Final,,32,27,28,26,,26,30,26,22,,NBA
-10,10,401071000,2018,"Fri, Nov 30",Boston Celtics,Cleveland Cavaliers,"12-10, 6-3 Home","4-17, 1-10 Away",128,95,BOS -12.5,206,Final,,30,32,39,27,,26,26,20,23,,NBA
-11,11,401071046,2018,"Thu, Dec 6",Boston Celtics,New York Knicks,"14-10, 7-3 Home","8-18, 4-11 Away",128,100,BOS -13.0,218,Final,TNT,38,31,30,29,,30,28,26,16,,NBA
-12,12,401071074,2018,"Mon, Dec 10",Boston Celtics,New Orleans Pelicans,"16-10, 8-3 Home","14-15, 4-11 Away",113,100,BOS -2.5,223,Final,NBATV,28,31,24,30,,21,32,19,28,,NBA
-13,13,401071101,2018,"Fri, Dec 14",Boston Celtics,Atlanta Hawks,"18-10, 9-3 Home","6-22, 2-13 Away",129,108,BOS -12.0,222,Final,,42,25,41,21,,19,37,26,26,,NBA
-14,14,401071139,2018,"Wed, Dec 19",Boston Celtics,Phoenix Suns,"18-12, 9-4 Home","8-24, 3-13 Away",103,111,BOS -11.5,223,Final,NBATV,37,25,18,23,,26,33,27,25,,NBA
-15,15,401071169,2018,"Sun, Dec 23",Boston Celtics,Charlotte Hornets,"19-13, 10-5 Home","16-16, 4-9 Away",119,103,BOS -7.5,217,Final,,29,39,26,25,,26,21,20,36,,NBA
-16,16,401071188,2018,"Thu, Dec 27",Houston Rockets,Boston Celtics,"19-15, 12-5 Home","20-14, 9-9 Away",127,113,BOS -2.5,215,Final,TNT,35,22,35,35,,24,31,31,27,,NBA
-17,17,401071221,2018,"Mon, Dec 31",San Antonio Spurs,Boston Celtics,"21-17, 15-5 Home","21-15, 10-10 Away",120,111,BOS -1.5,218,Final,NBATV,17,29,46,28,,23,29,30,29,,NBA
-18,18,401071242,2018,"Fri, Jan 4",Boston Celtics,Dallas Mavericks,"23-15, 13-5 Home","18-20, 3-17 Away",114,93,BOS -4.0,213,Final,ESPN,34,24,26,30,,23,28,17,25,,NBA
-19,19,401071283,2018,"Wed, Jan 9",Boston Celtics,Indiana Pacers,"25-15, 15-5 Home","27-14, 13-9 Away",135,108,BOS -7.5,217,Final,,29,39,37,30,,23,30,27,28,,NBA
-20,20,401071308,2018,"Sat, Jan 12",Orlando Magic,Boston Celtics,"18-24, 11-11 Home","25-17, 10-12 Away",105,103,BOS -7.5,214,Final,,19,22,31,33,,19,32,26,26,,NBA
-21,21,401071334,2018,"Wed, Jan 16",Boston Celtics,Toronto Raptors,"26-18, 16-5 Home","33-13, 15-9 Away",117,108,BOS -2.5,223,Final,ESPN,30,34,23,30,,36,17,30,25,,NBA
-22,22,401071359,2018,"Sat, Jan 19",Atlanta Hawks,Boston Celtics,"14-31, 8-12 Home","28-18, 11-13 Away",105,113,BOS -6.5,227,Final,,36,31,22,16,,28,32,23,30,,NBA
-23,23,401071380,2018,"Wed, Jan 23",Boston Celtics,Cleveland Cavaliers,"30-18, 19-5 Home","9-40, 4-22 Away",123,103,BOS -15.0,213,Final,,27,38,27,31,,30,20,30,23,,NBA
-24,24,401071419,2018,"Mon, Jan 28",Boston Celtics,Brooklyn Nets,"31-19, 20-6 Home","27-24, 12-13 Away",112,104,BOS -9.0,220,Final,,32,28,29,23,,26,24,38,16,,NBA
-25,25,401071444,2018,"Fri, Feb 1",New York Knicks,Boston Celtics,"10-41, 4-19 Home","33-19, 12-13 Away",99,113,BOS -13.5,214,Final,ESPN,20,27,26,26,,25,31,24,33,,NBA
-26,26,401071470,2018,"Tue, Feb 5",Cleveland Cavaliers,Boston Celtics,"11-43, 6-21 Home","35-19, 13-13 Away",96,103,BOS -10.5,210,Final,,30,21,28,17,,28,31,26,18,,NBA
-27,27,401071502,2018,"Sat, Feb 9",Boston Celtics,LA Clippers,"35-21, 22-8 Home","31-26, 16-14 Away",112,123,BOS -11.5,229,Final,,43,31,12,26,,20,33,28,42,,NBA
-28,28,401071528,2018,"Wed, Feb 13",Boston Celtics,Detroit Pistons,"37-21, 23-8 Home","26-30, 9-17 Away",118,110,BOS -3.5,210,Final,,28,29,34,27,,29,23,20,38,,NBA
-29,29,401071562,2018,"Sat, Feb 23",Chicago Bulls,Boston Celtics,"16-44, 7-23 Home","37-23, 14-15 Away",126,116,BOS -10.5,221,Final,,28,36,30,32,,33,18,30,35,,NBA
-30,30,401071586,2018,"Wed, Feb 27",Boston Celtics,Portland Trail Blazers,"37-25, 23-9 Home","38-23, 14-15 Away",92,97,BOS -2.5,228,Final,ESPN,24,18,22,28,,25,18,31,23,,NBA
-31,31,401071618,2018,"Sun, Mar 3",Boston Celtics,Houston Rockets,"38-26, 24-10 Home","38-25, 16-16 Away",104,115,BOS -2.0,226,Final,ABC,23,20,35,26,,33,32,35,15,,NBA
-32,32,401071646,2018,"Wed, Mar 6",Sacramento Kings,Boston Celtics,"32-32, 20-14 Home","40-26, 16-16 Away",109,111,BOS -2.0,227,Final,,32,17,28,32,,26,23,33,29,,NBA
-33,33,401071679,2018,"Mon, Mar 11",LA Clippers,Boston Celtics,"39-29, 20-12 Home","41-27, 17-17 Away",140,115,BOS -2.0,228,Final,NBATV,25,37,39,39,,19,30,36,30,,NBA
-34,34,401071707,2018,"Sat, Mar 16",Boston Celtics,Atlanta Hawks,"43-27, 26-10 Home","24-46, 11-25 Away",129,120,BOS -10.5,233,Final,,43,31,31,24,,36,26,30,28,,NBA
-35,35,401071740,2018,"Wed, Mar 20",Philadelphia 76ers,Boston Celtics,"47-25, 29-9 Home","43-29, 17-18 Away",118,115,PHI -3.0,225,Final,ESPN,30,28,27,33,,39,30,21,25,,NBA
-36,36,401071773,2018,"Sun, Mar 24",Boston Celtics,San Antonio Spurs,"43-31, 26-12 Home","43-31, 14-23 Away",96,115,SA -1.5,222,Final,NBATV,24,23,25,24,,31,23,30,31,,NBA
-37,37,401071803,2018,"Fri, Mar 29",Boston Celtics,Indiana Pacers,"45-31, 27-12 Home","45-31, 17-22 Away",114,112,BOS -7.0,213,Final,NBATV,35,28,26,25,,25,35,31,21,,NBA
-38,38,401071826,2018,"Mon, Apr 1",Boston Celtics,Miami Heat,"46-32, 28-12 Home","38-39, 20-18 Away",110,105,BOS -7.0,213,Final,NBATV,36,25,27,22,,17,30,30,28,,NBA
-39,39,401071856,2018,"Fri, Apr 5",Indiana Pacers,Boston Celtics,"47-33, 29-11 Home","48-32, 20-20 Away",97,117,BOS -1.0,214,Final,ESPN,27,20,27,23,,24,34,33,26,,NBA
-40,40,401070213,2018,"Tue, Oct 16",Boston Celtics,Philadelphia 76ers,"1-0, 1-0 Home","0-1, 0-1 Away",105,87,BOS -5.0,211,Final,TNT,21,26,30,28,,21,21,24,21,,NBA
-41,41,401070711,2018,"Sat, Oct 20",New York Knicks,Boston Celtics,"1-2, 1-1 Home","2-1, 1-1 Away",101,103,BOS -9.0,210,Final,,18,30,22,31,,31,19,27,26,,NBA
-42,42,401070746,2018,"Thu, Oct 25",Oklahoma City Thunder,Boston Celtics,"0-4, 0-2 Home","3-2, 2-1 Away",95,101,OKC -1.0,219,Final,TNT,22,28,23,22,,16,18,40,27,,NBA
-43,43,401070780,2018,"Tue, Oct 30",Boston Celtics,Detroit Pistons,"5-2, 2-1 Home","4-2, 1-1 Away",108,105,BOS -8.5,212,Final,,31,25,25,27,,28,30,13,34,,NBA
-44,44,401070808,2018,"Sat, Nov 3",Indiana Pacers,Boston Celtics,"7-3, 3-1 Home","6-3, 3-2 Away",102,101,BOS -3.5,206,Final,NBATV,18,27,27,30,,28,17,27,29,,NBA
-45,45,401070845,2018,"Thu, Nov 8",Phoenix Suns,Boston Celtics,"2-9, 2-5 Home","7-4, 4-3 Away",109,116,BOS -9.5,215,Final/OT,,32,23,25,20,9.0,13,22,30,35,16.0,NBA
-46,46,401070869,2018,"Sun, Nov 11",Portland Trail Blazers,Boston Celtics,"10-3, 7-2 Home","7-6, 4-5 Away",100,94,POR -2.0,215,Final,,26,28,29,17,,21,16,33,24,,NBA
-47,47,401070897,2018,"Fri, Nov 16",Boston Celtics,Toronto Raptors,"9-6, 5-1 Home","12-4, 5-2 Away",123,116,BOS -1.5,219,Final/OT,ESPN,30,24,24,29,16.0,27,25,30,25,9.0,NBA
-48,48,401070920,2018,"Mon, Nov 19",Charlotte Hornets,Boston Celtics,"8-8, 5-3 Home","9-8, 4-6 Away",117,112,BOS -3.5,218,Final,,29,25,30,33,,24,32,31,25,,NBA
-49,49,401070949,2018,"Fri, Nov 23",Atlanta Hawks,Boston Celtics,"3-16, 2-7 Home","10-9, 5-6 Away",96,114,BOS -7.5,223,Final,,23,22,19,32,,45,16,21,32,,NBA
-50,50,401070979,2018,"Mon, Nov 26",New Orleans Pelicans,Boston Celtics,"10-11, 8-2 Home","11-10, 6-7 Away",107,124,NO -2.0,229,Final,,21,27,31,28,,34,23,32,35,,NBA
-51,51,401071016,2018,"Sat, Dec 1",Minnesota Timberwolves,Boston Celtics,"11-12, 9-4 Home","13-10, 7-7 Away",109,118,MIN -1.5,217,Final,NBATV,26,22,29,32,,29,28,27,34,,NBA
-52,52,401071064,2018,"Sat, Dec 8",Chicago Bulls,Boston Celtics,"6-21, 4-10 Home","15-10, 8-7 Away",77,133,BOS -8.0,214,Final,,17,26,17,17,,35,29,29,40,,NBA
-53,53,401071090,2018,"Wed, Dec 12",Washington Wizards,Boston Celtics,"11-17, 7-6 Home","17-10, 9-7 Away",125,130,BOS -3.5,220,Final/OT,,28,27,22,36,12.0,24,22,38,29,17.0,NBA
-54,54,401071112,2018,"Sat, Dec 15",Detroit Pistons,Boston Celtics,"14-13, 10-6 Home","18-11, 9-8 Away",113,104,BOS -2.0,216,Final,,33,24,28,28,,33,23,22,26,,NBA
-55,55,401071154,2018,"Fri, Dec 21",Boston Celtics,Milwaukee Bucks,"18-13, 9-5 Home","22-9, 8-6 Away",107,120,MIL -1.5,224,Final,ESPN,22,26,30,29,,35,30,28,27,,NBA
-56,56,401070235,2018,"Tue, Dec 25",Boston Celtics,Philadelphia 76ers,"20-13, 11-5 Home","22-13, 6-10 Away",121,114,BOS -5.5,224,Final/OT,ABC,32,25,29,22,13.0,25,26,38,19,6.0,NBA
-57,57,401071207,2018,"Sat, Dec 29",Memphis Grizzlies,Boston Celtics,"18-17, 10-7 Home","21-14, 10-9 Away",103,112,BOS -3.5,202,Final,,26,38,23,16,,29,18,32,33,,NBA
-58,58,401071234,2018,"Wed, Jan 2",Boston Celtics,Minnesota Timberwolves,"22-15, 12-5 Home","17-21, 5-15 Away",115,102,,215,Final,ESPN,25,35,27,28,,21,21,39,21,,NBA
-59,59,401071268,2018,"Mon, Jan 7",Boston Celtics,Brooklyn Nets,"24-15, 14-5 Home","20-22, 10-11 Away",116,95,BOS -10.5,220,Final,,34,22,30,30,,22,23,29,21,,NBA
-60,60,401071293,2018,"Thu, Jan 10",Miami Heat,Boston Celtics,"20-20, 10-12 Home","25-16, 10-11 Away",115,99,BOS -3.0,212,Final,TNT,28,33,22,32,,24,19,29,27,,NBA
-61,61,401071321,2018,"Mon, Jan 14",Brooklyn Nets,Boston Celtics,"22-23, 12-11 Home","25-18, 10-13 Away",109,102,BOS -2.0,218,Final,,27,19,44,19,,25,20,21,36,,NBA
-62,62,401071347,2018,"Fri, Jan 18",Boston Celtics,Memphis Grizzlies,"27-18, 17-5 Home","19-26, 8-16 Away",122,116,BOS -10.0,208,Final,,35,23,38,26,,24,38,29,25,,NBA
-63,63,401071373,2018,"Mon, Jan 21",Boston Celtics,Miami Heat,"29-18, 18-5 Home","22-23, 11-11 Away",107,99,BOS -8.5,213,Final,,33,17,37,20,,23,27,18,31,,NBA
-64,64,401071405,2018,"Sat, Jan 26",Boston Celtics,Golden State Warriors,"30-19, 19-6 Home","35-14, 17-8 Away",111,115,GS -3.5,233,Final,ABC,26,33,25,27,,29,32,29,25,,NBA
-65,65,401071429,2018,"Wed, Jan 30",Boston Celtics,Charlotte Hornets,"32-19, 21-6 Home","24-26, 7-18 Away",126,94,BOS -7.0,215,Final,,35,28,35,28,,28,31,16,19,,NBA
-66,66,401071461,2018,"Sun, Feb 3",Boston Celtics,Oklahoma City Thunder,"34-19, 22-6 Home","33-19, 16-12 Away",134,129,BOS -4.0,228,Final,ABC,31,35,33,35,,29,29,35,36,,NBA
-67,67,401071487,2018,"Thu, Feb 7",Boston Celtics,Los Angeles Lakers,"35-20, 22-7 Home","28-27, 12-15 Away",128,129,BOS -9.0,228,Final,TNT,30,36,27,35,,24,33,42,30,,NBA
-68,68,401071522,2018,"Tue, Feb 12",Philadelphia 76ers,Boston Celtics,"36-21, 23-7 Home","36-21, 14-13 Away",109,112,PHI -7.0,225,Final,TNT,23,23,28,35,,28,24,25,35,,NBA
-69,69,401071543,2018,"Thu, Feb 21",Milwaukee Bucks,Boston Celtics,"44-14, 24-5 Home","37-22, 14-14 Away",98,97,MIL -6.0,227,Final,TNT,20,33,19,26,,22,25,21,29,,NBA
-70,70,401071582,2018,"Tue, Feb 26",Toronto Raptors,Boston Celtics,"45-17, 26-6 Home","37-24, 14-16 Away",118,95,TOR -3.5,227,Final,TNT,30,36,29,23,,32,13,23,27,,NBA
-71,71,401071604,2018,"Fri, Mar 1",Boston Celtics,Washington Wizards,"38-25, 24-9 Home","25-37, 8-25 Away",107,96,BOS -10.0,235,Final,,30,19,33,25,,20,25,36,15,,NBA
-72,72,401071637,2018,"Tue, Mar 5",Golden State Warriors,Boston Celtics,"44-20, 23-9 Home","39-26, 15-16 Away",95,128,GS -6.5,228,Final,TNT,24,24,28,19,,32,41,32,23,,NBA
-73,73,401071662,2018,"Sat, Mar 9",Los Angeles Lakers,Boston Celtics,"30-36, 18-16 Home","41-26, 17-16 Away",107,120,BOS -7.0,221,Final,ABC,24,23,29,31,,25,32,36,27,,NBA
-74,74,401071695,2018,"Thu, Mar 14",Boston Celtics,Sacramento Kings,"42-27, 25-10 Home","33-34, 13-20 Away",126,120,BOS -7.5,228,Final,,25,31,37,33,,38,24,29,29,,NBA
-75,75,401071725,2018,"Mon, Mar 18",Boston Celtics,Denver Nuggets,"43-28, 26-11 Home","47-22, 17-16 Away",105,114,BOS -4.5,221,Final,,22,30,28,25,,24,31,25,34,,NBA
-76,76,401071760,2018,"Sat, Mar 23",Charlotte Hornets,Boston Celtics,"33-39, 23-15 Home","43-30, 17-19 Away",124,117,BOS -4.0,223,Final,,29,34,26,35,,35,29,34,19,,NBA
-77,77,401071781,2018,"Tue, Mar 26",Cleveland Cavaliers,Boston Celtics,"19-56, 13-26 Home","44-31, 18-19 Away",106,116,BOS -6.0,217,Final,,27,24,30,25,,32,25,31,28,,NBA
-78,78,401071810,2018,"Sat, Mar 30",Brooklyn Nets,Boston Celtics,"39-38, 22-16 Home","45-32, 18-20 Away",110,96,BKN -4.0,223,Final,,17,32,33,28,,21,27,22,26,,NBA
-79,79,401071843,2018,"Wed, Apr 3",Miami Heat,Boston Celtics,"38-40, 18-22 Home","47-32, 19-20 Away",102,112,MIA -1.0,214,Final,NBATV,31,18,32,21,,29,24,30,29,,NBA
-80,80,401071876,2018,"Sun, Apr 7",Boston Celtics,Orlando Magic,"48-33, 28-13 Home","41-40, 16-24 Away",108,116,BOS -4.0,218,Final,,27,25,26,30,,27,21,35,33,,NBA
-81,81,401071884,2018,"Tue, Apr 9",Washington Wizards,Boston Celtics,"32-50, 22-19 Home","49-33, 21-20 Away",110,116,WSH -4.5,224,Final,TNT,39,25,31,15,,25,38,26,27,,NBA
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+401070219,2018,"October 19, 2018",Toronto Raptors,Boston Celtics,"2-0, 2-0 Home","1-1, 0-1 Away",113,101,TOR -2.5,210,Final,ESPN,18,31,33,31,,25,28,26,22,,NBA
+401070721,2018,"October 22, 2018",Boston Celtics,Orlando Magic,"2-2, 1-1 Home","2-2, 1-1 Away",90,93,BOS -11.0,211,Final,NBATV,19,26,25,20,,28,20,27,18,,NBA
+401070755,2018,"October 27, 2018",Detroit Pistons,Boston Celtics,"4-1, 3-1 Home","4-2, 3-1 Away",89,109,BOS -3.5,212,Final,,21,20,26,22,,30,33,21,25,,NBA
+401070796,2018,"November 01, 2018",Boston Celtics,Milwaukee Bucks,"6-2, 3-1 Home","7-1, 2-1 Away",117,113,BOS -2.5,221,Final,TNT,23,32,38,24,,16,37,25,35,,NBA
+401070826,2018,"November 05, 2018",Denver Nuggets,Boston Celtics,"9-1, 6-0 Home","6-4, 3-3 Away",115,107,DEN -1.5,210,Final,,19,35,34,27,,34,22,25,26,,NBA
+401070853,2018,"November 09, 2018",Utah Jazz,Boston Celtics,"6-6, 2-4 Home","7-5, 4-4 Away",123,115,UTAH -5.5,205,Final,ESPN,27,31,35,30,,25,26,29,35,,NBA
+401070885,2018,"November 14, 2018",Boston Celtics,Chicago Bulls,"8-6, 4-1 Home","4-11, 2-5 Away",111,82,BOS -12.5,212,Final,,19,32,26,34,,24,11,24,23,,NBA
+401070910,2018,"November 17, 2018",Boston Celtics,Utah Jazz,"9-7, 5-2 Home","8-8, 6-4 Away",86,98,BOS -4.0,208,Final,NBATV,20,25,17,24,,29,21,27,21,,NBA
+401070936,2018,"November 21, 2018",Boston Celtics,New York Knicks,"9-9, 5-3 Home","5-14, 3-8 Away",109,117,BOS -14.0,217,Final,,18,31,20,40,,26,39,19,33,,NBA
+401070964,2018,"November 24, 2018",Dallas Mavericks,Boston Celtics,"9-9, 8-2 Home","10-10, 5-7 Away",113,104,BOS -2.5,213,Final,,32,27,28,26,,26,30,26,22,,NBA
+401071000,2018,"November 30, 2018",Boston Celtics,Cleveland Cavaliers,"12-10, 6-3 Home","4-17, 1-10 Away",128,95,BOS -12.5,206,Final,,30,32,39,27,,26,26,20,23,,NBA
+401071046,2018,"December 06, 2018",Boston Celtics,New York Knicks,"14-10, 7-3 Home","8-18, 4-11 Away",128,100,BOS -13.0,218,Final,TNT,38,31,30,29,,30,28,26,16,,NBA
+401071074,2018,"December 10, 2018",Boston Celtics,New Orleans Pelicans,"16-10, 8-3 Home","14-15, 4-11 Away",113,100,BOS -2.5,223,Final,NBATV,28,31,24,30,,21,32,19,28,,NBA
+401071101,2018,"December 14, 2018",Boston Celtics,Atlanta Hawks,"18-10, 9-3 Home","6-22, 2-13 Away",129,108,BOS -12.0,222,Final,,42,25,41,21,,19,37,26,26,,NBA
+401071139,2018,"December 19, 2018",Boston Celtics,Phoenix Suns,"18-12, 9-4 Home","8-24, 3-13 Away",103,111,BOS -11.5,223,Final,NBATV,37,25,18,23,,26,33,27,25,,NBA
+401071169,2018,"December 23, 2018",Boston Celtics,Charlotte Hornets,"19-13, 10-5 Home","16-16, 4-9 Away",119,103,BOS -7.5,217,Final,,29,39,26,25,,26,21,20,36,,NBA
+401071188,2018,"December 27, 2018",Houston Rockets,Boston Celtics,"19-15, 12-5 Home","20-14, 9-9 Away",127,113,BOS -2.5,215,Final,TNT,35,22,35,35,,24,31,31,27,,NBA
+401071221,2018,"December 31, 2018",San Antonio Spurs,Boston Celtics,"21-17, 15-5 Home","21-15, 10-10 Away",120,111,BOS -1.5,218,Final,NBATV,17,29,46,28,,23,29,30,29,,NBA
+401071242,2018,"January 04, 2019",Boston Celtics,Dallas Mavericks,"23-15, 13-5 Home","18-20, 3-17 Away",114,93,BOS -4.0,213,Final,ESPN,34,24,26,30,,23,28,17,25,,NBA
+401071283,2018,"January 09, 2019",Boston Celtics,Indiana Pacers,"25-15, 15-5 Home","27-14, 13-9 Away",135,108,BOS -7.5,217,Final,,29,39,37,30,,23,30,27,28,,NBA
+401071308,2018,"January 12, 2019",Orlando Magic,Boston Celtics,"18-24, 11-11 Home","25-17, 10-12 Away",105,103,BOS -7.5,214,Final,,19,22,31,33,,19,32,26,26,,NBA
+401071334,2018,"January 16, 2019",Boston Celtics,Toronto Raptors,"26-18, 16-5 Home","33-13, 15-9 Away",117,108,BOS -2.5,223,Final,ESPN,30,34,23,30,,36,17,30,25,,NBA
+401071359,2018,"January 19, 2019",Atlanta Hawks,Boston Celtics,"14-31, 8-12 Home","28-18, 11-13 Away",105,113,BOS -6.5,227,Final,,36,31,22,16,,28,32,23,30,,NBA
+401071380,2018,"January 23, 2019",Boston Celtics,Cleveland Cavaliers,"30-18, 19-5 Home","9-40, 4-22 Away",123,103,BOS -15.0,213,Final,,27,38,27,31,,30,20,30,23,,NBA
+401071419,2018,"January 28, 2019",Boston Celtics,Brooklyn Nets,"31-19, 20-6 Home","27-24, 12-13 Away",112,104,BOS -9.0,220,Final,,32,28,29,23,,26,24,38,16,,NBA
+401071444,2018,"February 01, 2019",New York Knicks,Boston Celtics,"10-41, 4-19 Home","33-19, 12-13 Away",99,113,BOS -13.5,214,Final,ESPN,20,27,26,26,,25,31,24,33,,NBA
+401071470,2018,"February 05, 2019",Cleveland Cavaliers,Boston Celtics,"11-43, 6-21 Home","35-19, 13-13 Away",96,103,BOS -10.5,210,Final,,30,21,28,17,,28,31,26,18,,NBA
+401071502,2018,"February 09, 2019",Boston Celtics,LA Clippers,"35-21, 22-8 Home","31-26, 16-14 Away",112,123,BOS -11.5,229,Final,,43,31,12,26,,20,33,28,42,,NBA
+401071528,2018,"February 13, 2019",Boston Celtics,Detroit Pistons,"37-21, 23-8 Home","26-30, 9-17 Away",118,110,BOS -3.5,210,Final,,28,29,34,27,,29,23,20,38,,NBA
+401071562,2018,"February 23, 2019",Chicago Bulls,Boston Celtics,"16-44, 7-23 Home","37-23, 14-15 Away",126,116,BOS -10.5,221,Final,,28,36,30,32,,33,18,30,35,,NBA
+401071586,2018,"February 27, 2019",Boston Celtics,Portland Trail Blazers,"37-25, 23-9 Home","38-23, 14-15 Away",92,97,BOS -2.5,228,Final,ESPN,24,18,22,28,,25,18,31,23,,NBA
+401071618,2018,"March 03, 2019",Boston Celtics,Houston Rockets,"38-26, 24-10 Home","38-25, 16-16 Away",104,115,BOS -2.0,226,Final,ABC,23,20,35,26,,33,32,35,15,,NBA
+401071646,2018,"March 06, 2019",Sacramento Kings,Boston Celtics,"32-32, 20-14 Home","40-26, 16-16 Away",109,111,BOS -2.0,227,Final,,32,17,28,32,,26,23,33,29,,NBA
+401071679,2018,"March 11, 2019",LA Clippers,Boston Celtics,"39-29, 20-12 Home","41-27, 17-17 Away",140,115,BOS -2.0,228,Final,NBATV,25,37,39,39,,19,30,36,30,,NBA
+401071707,2018,"March 16, 2019",Boston Celtics,Atlanta Hawks,"43-27, 26-10 Home","24-46, 11-25 Away",129,120,BOS -10.5,233,Final,,43,31,31,24,,36,26,30,28,,NBA
+401071740,2018,"March 20, 2019",Philadelphia 76ers,Boston Celtics,"47-25, 29-9 Home","43-29, 17-18 Away",118,115,PHI -3.0,225,Final,ESPN,30,28,27,33,,39,30,21,25,,NBA
+401071773,2018,"March 24, 2019",Boston Celtics,San Antonio Spurs,"43-31, 26-12 Home","43-31, 14-23 Away",96,115,SA -1.5,222,Final,NBATV,24,23,25,24,,31,23,30,31,,NBA
+401071803,2018,"March 29, 2019",Boston Celtics,Indiana Pacers,"45-31, 27-12 Home","45-31, 17-22 Away",114,112,BOS -7.0,213,Final,NBATV,35,28,26,25,,25,35,31,21,,NBA
+401071826,2018,"April 01, 2019",Boston Celtics,Miami Heat,"46-32, 28-12 Home","38-39, 20-18 Away",110,105,BOS -7.0,213,Final,NBATV,36,25,27,22,,17,30,30,28,,NBA
+401071856,2018,"April 05, 2019",Indiana Pacers,Boston Celtics,"47-33, 29-11 Home","48-32, 20-20 Away",97,117,BOS -1.0,214,Final,ESPN,27,20,27,23,,24,34,33,26,,NBA
+401070213,2018,"October 16, 2018",Boston Celtics,Philadelphia 76ers,"1-0, 1-0 Home","0-1, 0-1 Away",105,87,BOS -5.0,211,Final,TNT,21,26,30,28,,21,21,24,21,,NBA
+401070711,2018,"October 20, 2018",New York Knicks,Boston Celtics,"1-2, 1-1 Home","2-1, 1-1 Away",101,103,BOS -9.0,210,Final,,18,30,22,31,,31,19,27,26,,NBA
+401070746,2018,"October 25, 2018",Oklahoma City Thunder,Boston Celtics,"0-4, 0-2 Home","3-2, 2-1 Away",95,101,OKC -1.0,219,Final,TNT,22,28,23,22,,16,18,40,27,,NBA
+401070780,2018,"October 30, 2018",Boston Celtics,Detroit Pistons,"5-2, 2-1 Home","4-2, 1-1 Away",108,105,BOS -8.5,212,Final,,31,25,25,27,,28,30,13,34,,NBA
+401070808,2018,"November 03, 2018",Indiana Pacers,Boston Celtics,"7-3, 3-1 Home","6-3, 3-2 Away",102,101,BOS -3.5,206,Final,NBATV,18,27,27,30,,28,17,27,29,,NBA
+401070845,2018,"November 08, 2018",Phoenix Suns,Boston Celtics,"2-9, 2-5 Home","7-4, 4-3 Away",109,116,BOS -9.5,215,Final/OT,,32,23,25,20,9.0,13,22,30,35,16.0,NBA
+401070869,2018,"November 11, 2018",Portland Trail Blazers,Boston Celtics,"10-3, 7-2 Home","7-6, 4-5 Away",100,94,POR -2.0,215,Final,,26,28,29,17,,21,16,33,24,,NBA
+401070897,2018,"November 16, 2018",Boston Celtics,Toronto Raptors,"9-6, 5-1 Home","12-4, 5-2 Away",123,116,BOS -1.5,219,Final/OT,ESPN,30,24,24,29,16.0,27,25,30,25,9.0,NBA
+401070920,2018,"November 19, 2018",Charlotte Hornets,Boston Celtics,"8-8, 5-3 Home","9-8, 4-6 Away",117,112,BOS -3.5,218,Final,,29,25,30,33,,24,32,31,25,,NBA
+401070949,2018,"November 23, 2018",Atlanta Hawks,Boston Celtics,"3-16, 2-7 Home","10-9, 5-6 Away",96,114,BOS -7.5,223,Final,,23,22,19,32,,45,16,21,32,,NBA
+401070979,2018,"November 26, 2018",New Orleans Pelicans,Boston Celtics,"10-11, 8-2 Home","11-10, 6-7 Away",107,124,NO -2.0,229,Final,,21,27,31,28,,34,23,32,35,,NBA
+401071016,2018,"December 01, 2018",Minnesota Timberwolves,Boston Celtics,"11-12, 9-4 Home","13-10, 7-7 Away",109,118,MIN -1.5,217,Final,NBATV,26,22,29,32,,29,28,27,34,,NBA
+401071064,2018,"December 08, 2018",Chicago Bulls,Boston Celtics,"6-21, 4-10 Home","15-10, 8-7 Away",77,133,BOS -8.0,214,Final,,17,26,17,17,,35,29,29,40,,NBA
+401071090,2018,"December 12, 2018",Washington Wizards,Boston Celtics,"11-17, 7-6 Home","17-10, 9-7 Away",125,130,BOS -3.5,220,Final/OT,,28,27,22,36,12.0,24,22,38,29,17.0,NBA
+401071112,2018,"December 15, 2018",Detroit Pistons,Boston Celtics,"14-13, 10-6 Home","18-11, 9-8 Away",113,104,BOS -2.0,216,Final,,33,24,28,28,,33,23,22,26,,NBA
+401071154,2018,"December 21, 2018",Boston Celtics,Milwaukee Bucks,"18-13, 9-5 Home","22-9, 8-6 Away",107,120,MIL -1.5,224,Final,ESPN,22,26,30,29,,35,30,28,27,,NBA
+401070235,2018,"December 25, 2018",Boston Celtics,Philadelphia 76ers,"20-13, 11-5 Home","22-13, 6-10 Away",121,114,BOS -5.5,224,Final/OT,ABC,32,25,29,22,13.0,25,26,38,19,6.0,NBA
+401071207,2018,"December 29, 2018",Memphis Grizzlies,Boston Celtics,"18-17, 10-7 Home","21-14, 10-9 Away",103,112,BOS -3.5,202,Final,,26,38,23,16,,29,18,32,33,,NBA
+401071234,2018,"January 02, 2019",Boston Celtics,Minnesota Timberwolves,"22-15, 12-5 Home","17-21, 5-15 Away",115,102,,215,Final,ESPN,25,35,27,28,,21,21,39,21,,NBA
+401071268,2018,"January 07, 2019",Boston Celtics,Brooklyn Nets,"24-15, 14-5 Home","20-22, 10-11 Away",116,95,BOS -10.5,220,Final,,34,22,30,30,,22,23,29,21,,NBA
+401071293,2018,"January 10, 2019",Miami Heat,Boston Celtics,"20-20, 10-12 Home","25-16, 10-11 Away",115,99,BOS -3.0,212,Final,TNT,28,33,22,32,,24,19,29,27,,NBA
+401071321,2018,"January 14, 2019",Brooklyn Nets,Boston Celtics,"22-23, 12-11 Home","25-18, 10-13 Away",109,102,BOS -2.0,218,Final,,27,19,44,19,,25,20,21,36,,NBA
+401071347,2018,"January 18, 2019",Boston Celtics,Memphis Grizzlies,"27-18, 17-5 Home","19-26, 8-16 Away",122,116,BOS -10.0,208,Final,,35,23,38,26,,24,38,29,25,,NBA
+401071373,2018,"January 21, 2019",Boston Celtics,Miami Heat,"29-18, 18-5 Home","22-23, 11-11 Away",107,99,BOS -8.5,213,Final,,33,17,37,20,,23,27,18,31,,NBA
+401071405,2018,"January 26, 2019",Boston Celtics,Golden State Warriors,"30-19, 19-6 Home","35-14, 17-8 Away",111,115,GS -3.5,233,Final,ABC,26,33,25,27,,29,32,29,25,,NBA
+401071429,2018,"January 30, 2019",Boston Celtics,Charlotte Hornets,"32-19, 21-6 Home","24-26, 7-18 Away",126,94,BOS -7.0,215,Final,,35,28,35,28,,28,31,16,19,,NBA
+401071461,2018,"February 03, 2019",Boston Celtics,Oklahoma City Thunder,"34-19, 22-6 Home","33-19, 16-12 Away",134,129,BOS -4.0,228,Final,ABC,31,35,33,35,,29,29,35,36,,NBA
+401071487,2018,"February 07, 2019",Boston Celtics,Los Angeles Lakers,"35-20, 22-7 Home","28-27, 12-15 Away",128,129,BOS -9.0,228,Final,TNT,30,36,27,35,,24,33,42,30,,NBA
+401071522,2018,"February 12, 2019",Philadelphia 76ers,Boston Celtics,"36-21, 23-7 Home","36-21, 14-13 Away",109,112,PHI -7.0,225,Final,TNT,23,23,28,35,,28,24,25,35,,NBA
+401071543,2018,"February 21, 2019",Milwaukee Bucks,Boston Celtics,"44-14, 24-5 Home","37-22, 14-14 Away",98,97,MIL -6.0,227,Final,TNT,20,33,19,26,,22,25,21,29,,NBA
+401071582,2018,"February 26, 2019",Toronto Raptors,Boston Celtics,"45-17, 26-6 Home","37-24, 14-16 Away",118,95,TOR -3.5,227,Final,TNT,30,36,29,23,,32,13,23,27,,NBA
+401071604,2018,"March 01, 2019",Boston Celtics,Washington Wizards,"38-25, 24-9 Home","25-37, 8-25 Away",107,96,BOS -10.0,235,Final,,30,19,33,25,,20,25,36,15,,NBA
+401071637,2018,"March 05, 2019",Golden State Warriors,Boston Celtics,"44-20, 23-9 Home","39-26, 15-16 Away",95,128,GS -6.5,228,Final,TNT,24,24,28,19,,32,41,32,23,,NBA
+401071662,2018,"March 09, 2019",Los Angeles Lakers,Boston Celtics,"30-36, 18-16 Home","41-26, 17-16 Away",107,120,BOS -7.0,221,Final,ABC,24,23,29,31,,25,32,36,27,,NBA
+401071695,2018,"March 14, 2019",Boston Celtics,Sacramento Kings,"42-27, 25-10 Home","33-34, 13-20 Away",126,120,BOS -7.5,228,Final,,25,31,37,33,,38,24,29,29,,NBA
+401071725,2018,"March 18, 2019",Boston Celtics,Denver Nuggets,"43-28, 26-11 Home","47-22, 17-16 Away",105,114,BOS -4.5,221,Final,,22,30,28,25,,24,31,25,34,,NBA
+401071760,2018,"March 23, 2019",Charlotte Hornets,Boston Celtics,"33-39, 23-15 Home","43-30, 17-19 Away",124,117,BOS -4.0,223,Final,,29,34,26,35,,35,29,34,19,,NBA
+401071781,2018,"March 26, 2019",Cleveland Cavaliers,Boston Celtics,"19-56, 13-26 Home","44-31, 18-19 Away",106,116,BOS -6.0,217,Final,,27,24,30,25,,32,25,31,28,,NBA
+401071810,2018,"March 30, 2019",Brooklyn Nets,Boston Celtics,"39-38, 22-16 Home","45-32, 18-20 Away",110,96,BKN -4.0,223,Final,,17,32,33,28,,21,27,22,26,,NBA
+401071843,2018,"April 03, 2019",Miami Heat,Boston Celtics,"38-40, 18-22 Home","47-32, 19-20 Away",102,112,MIA -1.0,214,Final,NBATV,31,18,32,21,,29,24,30,29,,NBA
+401071876,2018,"April 07, 2019",Boston Celtics,Orlando Magic,"48-33, 28-13 Home","41-40, 16-24 Away",108,116,BOS -4.0,218,Final,,27,25,26,30,,27,21,35,33,,NBA
+401071884,2018,"April 09, 2019",Washington Wizards,Boston Celtics,"32-50, 22-19 Home","49-33, 21-20 Away",110,116,WSH -4.5,224,Final,TNT,39,25,31,15,,25,38,26,27,,NBA

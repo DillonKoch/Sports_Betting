@@ -1,83 +1,83 @@
-,Unnamed: 0,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-0,0,131107024,1992,"Sun, Nov 7",San Antonio Spurs,New Jersey Nets,"1-1, 1-1 Home","1-1, 1-1 Away",73,99,,,Final,,15,17,20,21,,23,23,22,31,,NBA
-1,1,131111017,1992,"Thu, Nov 11",New Jersey Nets,Indiana Pacers,"2-2, 0-1 Home","1-3, 1-2 Away",105,108,,,Final/OT,,31,19,27,20,8.0,17,30,23,27,11.0,NBA
-2,2,131114017,1992,"Sun, Nov 14",New Jersey Nets,Sacramento Kings,"3-3, 1-2 Home","3-2, 0-2 Away",132,102,,,Final,,34,30,34,34,,32,24,23,23,,NBA
-3,3,131117002,1992,"Wed, Nov 17",Boston Celtics,New Jersey Nets,"5-2, 2-2 Home","3-5, 2-2 Away",105,100,,,Final,,27,20,31,27,,23,20,25,32,,NBA
-4,4,131121017,1992,"Sun, Nov 21",New Jersey Nets,Los Angeles Lakers,"4-6, 2-4 Home","3-7, 0-4 Away",105,102,,,Final,,29,22,26,28,,29,26,29,18,,NBA
-5,5,131126026,1992,"Fri, Nov 26",Utah Jazz,New Jersey Nets,"8-4, 4-2 Home","4-8, 2-4 Away",100,97,,,Final,,33,16,28,23,,26,23,23,25,,NBA
-6,6,131129012,1992,"Mon, Nov 29",Los Angeles Clippers,New Jersey Nets,"6-6, 5-2 Home","4-10, 2-6 Away",118,94,,,Final,,36,25,27,30,,19,33,24,18,,NBA
-7,7,131203017,1992,"Fri, Dec 3",New Jersey Nets,Phoenix Suns,"5-11, 3-5 Home","10-3, 4-3 Away",103,104,,,Final,,28,23,23,29,,34,18,25,27,,NBA
-8,8,131210017,1992,"Fri, Dec 10",New Jersey Nets,Chicago Bulls,"6-12, 4-6 Home","9-8, 6-6 Away",105,109,,,Final,,22,25,28,30,,27,28,29,25,,NBA
-9,9,131213017,1992,"Mon, Dec 13",New Jersey Nets,Miami Heat,"7-13, 5-6 Home","7-10, 4-4 Away",110,105,,,Final/2OT,,27,26,13,19,25.0,26,16,28,15,20.0,NBA
-10,10,131218011,1992,"Sat, Dec 18",Indiana Pacers,New Jersey Nets,"10-11, 5-6 Home","8-14, 2-8 Away",108,98,,,Final,,22,26,29,31,,23,26,26,23,,NBA
-11,11,131223019,1992,"Thu, Dec 23",Orlando Magic,New Jersey Nets,"14-10, 8-3 Home","9-15, 2-9 Away",122,112,,,Final,,37,29,28,28,,27,19,35,31,,NBA
-12,12,131228018,1992,"Tue, Dec 28",New York Knicks,New Jersey Nets,"17-7, 10-3 Home","11-15, 3-9 Away",95,97,,,Final,,28,18,27,22,,20,19,23,35,,NBA
-13,13,140102002,1992,"Sun, Jan 2",Boston Celtics,New Jersey Nets,"12-18, 7-8 Home","12-16, 4-10 Away",97,101,,,Final,,25,30,16,26,,28,24,25,24,,NBA
-14,14,140105017,1992,"Wed, Jan 5",New Jersey Nets,Milwaukee Bucks,"12-18, 8-7 Home","9-20, 6-11 Away",91,100,,,Final,,23,24,18,26,,35,18,21,26,,NBA
-15,15,140111017,1992,"Tue, Jan 11",New Jersey Nets,Washington Bullets,"13-19, 8-8 Home","10-22, 4-13 Away",100,115,,,Final,,27,25,15,33,,30,38,19,28,,NBA
-16,16,140114017,1992,"Fri, Jan 14",New Jersey Nets,Denver Nuggets,"14-20, 9-8 Home","16-19, 5-14 Away",103,96,,,Final,,30,25,25,23,,24,25,26,21,,NBA
-17,17,140119017,1992,"Wed, Jan 19",New Jersey Nets,Minnesota Timberwolves,"16-20, 11-8 Home","12-24, 6-12 Away",112,91,,,Final,,27,28,30,27,,29,15,18,29,,NBA
-18,18,140122017,1992,"Sat, Jan 22",New Jersey Nets,Golden State Warriors,"18-20, 12-8 Home","21-16, 10-8 Away",124,98,,,Final,,21,21,36,46,,19,25,29,25,,NBA
-19,19,140127025,1992,"Thu, Jan 27",Seattle SuperSonics,New Jersey Nets,"31-8, 18-2 Home","18-22, 6-14 Away",102,92,,,Final,,30,22,22,28,,19,25,25,23,,NBA
-20,20,140201017,1992,"Tue, Feb 1",New Jersey Nets,Seattle SuperSonics,"20-22, 13-8 Home","31-10, 13-7 Away",104,103,,,Final,,31,26,30,17,,34,22,26,21,,NBA
-21,21,140206017,1992,"Sun, Feb 6",New Jersey Nets,San Antonio Spurs,"21-23, 13-9 Home","33-14, 15-10 Away",102,104,,,Final/OT,,26,18,26,23,9.0,18,26,28,21,11.0,NBA
-22,22,140209017,1992,"Wed, Feb 9",New Jersey Nets,Cleveland Cavaliers,"22-24, 14-9 Home","24-23, 8-15 Away",106,95,,,Final,,24,30,25,27,,23,24,17,31,,NBA
-23,23,140217002,1992,"Thu, Feb 17",Boston Celtics,New Jersey Nets,"20-29, 12-15 Home","24-24, 9-15 Away",98,117,,,Final,,23,17,27,31,,27,33,34,23,,NBA
-24,24,140220017,1992,"Sun, Feb 20",New Jersey Nets,Washington Bullets,"26-24, 16-9 Home","16-35, 5-21 Away",122,101,,,Final,,30,34,31,27,,22,22,21,36,,NBA
-25,25,140223020,1992,"Wed, Feb 23",Philadelphia 76ers,New Jersey Nets,"20-33, 12-14 Home","27-25, 11-15 Away",102,106,,,Final,,26,24,29,23,,21,25,32,28,,NBA
-26,26,140227017,1992,"Sun, Feb 27",New Jersey Nets,Dallas Mavericks,"28-26, 17-10 Home","8-49, 5-25 Away",117,90,,,Final,,23,29,32,33,,22,12,23,33,,NBA
-27,27,140303018,1992,"Thu, Mar 3",New York Knicks,New Jersey Nets,"38-19, 22-7 Home","29-27, 11-17 Away",97,86,,,Final,,25,27,19,26,,22,22,28,14,,NBA
-28,28,140306017,1992,"Sun, Mar 6",New Jersey Nets,Philadelphia 76ers,"30-28, 19-10 Home","20-39, 8-22 Away",126,99,,,Final,,35,25,37,29,,25,27,23,24,,NBA
-29,29,140311017,1992,"Fri, Mar 11",New Jersey Nets,Indiana Pacers,"31-29, 20-10 Home","31-27, 13-18 Away",87,73,,,Final,,27,18,19,23,,24,16,20,13,,NBA
-30,30,140316023,1992,"Wed, Mar 16",Sacramento Kings,New Jersey Nets,"22-41, 16-15 Home","32-30, 11-20 Away",132,111,,,Final,,28,28,30,46,,27,19,24,41,,NBA
-31,31,140319021,1992,"Sat, Mar 19",Phoenix Suns,New Jersey Nets,"42-22, 26-5 Home","33-31, 12-21 Away",105,93,,,Final,,27,27,29,22,,23,16,32,22,,NBA
-32,32,140325017,1992,"Fri, Mar 25",New Jersey Nets,Chicago Bulls,"35-31, 23-10 Home","44-24, 20-16 Away",110,87,,,Final,,28,26,25,31,,20,24,24,19,,NBA
-33,33,140329001,1992,"Tue, Mar 29",Atlanta Hawks,New Jersey Nets,"49-20, 31-5 Home","36-32, 13-22 Away",101,98,,,Final,,25,24,25,27,,20,34,17,27,,NBA
-34,34,140401017,1992,"Fri, Apr 1",New Jersey Nets,Orlando Magic,"37-33, 24-11 Home","42-28, 16-19 Away",96,98,,,Final,,24,21,20,31,,25,20,30,23,,NBA
-35,35,140405017,1992,"Tue, Apr 5",New Jersey Nets,Boston Celtics,"38-34, 25-12 Home","26-45, 12-23 Away",120,94,,,Final,,34,32,25,29,,27,24,21,22,,NBA
-36,36,140408003,1992,"Fri, Apr 8",Charlotte Hornets,New Jersey Nets,"34-39, 24-12 Home","39-35, 13-23 Away",99,78,,,Final,,30,28,20,21,,20,22,16,20,,NBA
-37,37,140412004,1992,"Tue, Apr 12",Chicago Bulls,New Jersey Nets,"52-24, 30-8 Home","40-36, 13-24 Away",111,105,,,Final,,35,27,32,17,,22,26,27,30,,NBA
-38,38,140415017,1992,"Fri, Apr 15",New Jersey Nets,Detroit Pistons,"42-36, 28-12 Home","20-57, 10-28 Away",119,114,,,Final/OT,,36,23,26,18,16.0,21,22,29,31,11.0,NBA
-39,39,140419020,1992,"Tue, Apr 19",Philadelphia 76ers,New Jersey Nets,"24-55, 14-26 Home","44-36, 16-24 Away",110,115,,,Final,,30,25,25,30,,35,26,23,31,,NBA
-40,40,131105010,1992,"Fri, Nov 5",Houston Rockets,New Jersey Nets,"1-0, 1-0 Home","0-1, 0-1 Away",110,88,,,Final,,26,25,35,24,,25,17,22,24,,NBA
-41,41,131109006,1992,"Tue, Nov 9",Dallas Mavericks,New Jersey Nets,"0-3, 0-2 Home","2-1, 2-1 Away",80,86,,,Final,,17,16,28,19,,23,23,24,16,,NBA
-42,42,131113017,1992,"Sat, Nov 13",New Jersey Nets,Philadelphia 76ers,"2-3, 0-2 Home","2-4, 1-3 Away",97,98,,,Final,,34,24,27,12,,16,30,23,29,,NBA
-43,43,131116017,1992,"Tue, Nov 16",New Jersey Nets,Houston Rockets,"3-4, 1-3 Home","7-0, 4-0 Away",84,90,,,Final,,27,23,21,13,,21,26,26,17,,NBA
-44,44,131120017,1992,"Sat, Nov 20",New Jersey Nets,Orlando Magic,"3-6, 1-4 Home","5-4, 2-3 Away",85,87,,,Final,,18,27,24,16,,16,23,29,19,,NBA
-45,45,131124016,1992,"Wed, Nov 24",Minnesota Timberwolves,New Jersey Nets,"3-6, 2-3 Home","4-7, 2-3 Away",107,106,,,Final,,28,28,28,23,,35,23,28,20,,NBA
-46,46,131127007,1992,"Sat, Nov 27",Denver Nuggets,New Jersey Nets,"6-6, 4-2 Home","4-9, 2-5 Away",111,89,,,Final,,38,23,30,20,,19,19,23,28,,NBA
-47,47,131201017,1992,"Wed, Dec 1",New Jersey Nets,Cleveland Cavaliers,"5-10, 3-4 Home","6-7, 2-5 Away",97,82,,,Final,,21,20,20,36,,28,25,17,12,,NBA
-48,48,131207017,1992,"Tue, Dec 7",New Jersey Nets,Boston Celtics,"6-11, 4-5 Home","9-8, 4-4 Away",117,90,,,Final,,31,32,26,28,,22,19,25,24,,NBA
-49,49,131211003,1992,"Sat, Dec 11",Charlotte Hornets,New Jersey Nets,"10-9, 7-2 Home","6-13, 2-7 Away",105,99,,,Final,,31,27,26,21,,21,26,29,23,,NBA
-50,50,131216017,1992,"Thu, Dec 16",New Jersey Nets,Charlotte Hornets,"8-13, 6-6 Home","11-10, 3-8 Away",111,95,,,Final,,25,26,33,27,,18,36,18,23,,NBA
-51,51,131221017,1992,"Tue, Dec 21",New Jersey Nets,New York Knicks,"9-14, 7-6 Home","16-6, 7-4 Away",85,81,,,Final,,21,24,13,27,,23,17,19,22,,NBA
-52,52,131226017,1992,"Sun, Dec 26",New Jersey Nets,Atlanta Hawks,"10-15, 8-6 Home","17-7, 7-6 Away",91,87,,,Final,,19,28,29,15,,25,19,27,16,,NBA
-53,53,131229004,1992,"Wed, Dec 29",Chicago Bulls,New Jersey Nets,"18-8, 10-2 Home","11-16, 3-10 Away",94,86,,,Final,,24,22,19,29,,21,26,19,20,,NBA
-54,54,140104014,1992,"Tue, Jan 4",Miami Heat,New Jersey Nets,"14-13, 8-9 Home","12-17, 4-11 Away",100,83,,,Final,,23,24,27,26,,16,25,18,24,,NBA
-55,55,140108015,1992,"Sat, Jan 8",Milwaukee Bucks,New Jersey Nets,"9-22, 3-11 Home","13-18, 5-11 Away",87,90,,,Final,,30,20,17,20,,24,28,20,18,,NBA
-56,56,140113005,1992,"Thu, Jan 13",Cleveland Cavaliers,New Jersey Nets,"15-18, 11-6 Home","13-20, 5-12 Away",104,93,,,Final,,27,32,22,23,,38,19,19,17,,NBA
-57,57,140116017,1992,"Sun, Jan 16",New Jersey Nets,Utah Jazz,"15-20, 10-8 Home","23-13, 10-9 Away",99,94,,,Final,,20,24,29,26,,31,21,18,24,,NBA
-58,58,140121001,1992,"Fri, Jan 21",Atlanta Hawks,New Jersey Nets,"25-10, 17-3 Home","17-20, 6-12 Away",111,113,,,Final/OT,,34,26,25,20,6.0,30,21,32,22,8.0,NBA
-59,59,140125022,1992,"Tue, Jan 25",Portland Trail Blazers,New Jersey Nets,"24-16, 16-5 Home","18-21, 6-13 Away",122,117,,,Final,,31,28,29,34,,31,26,31,29,,NBA
-60,60,140129009,1992,"Sat, Jan 29",Golden State Warriors,New Jersey Nets,"22-18, 12-9 Home","19-22, 7-14 Away",106,120,,,Final,,32,22,26,26,,29,31,28,32,,NBA
-61,61,140205008,1992,"Sat, Feb 5",Detroit Pistons,New Jersey Nets,"10-35, 6-19 Home","21-22, 8-14 Away",100,107,,,Final,,30,27,16,27,,15,28,33,31,,NBA
-62,62,140208005,1992,"Tue, Feb 8",Cleveland Cavaliers,New Jersey Nets,"24-22, 16-8 Home","21-24, 8-15 Away",112,104,,,Final,,27,36,25,24,,23,28,28,25,,NBA
-63,63,140215017,1992,"Tue, Feb 15",New Jersey Nets,New York Knicks,"23-24, 15-9 Home","34-15, 14-9 Away",103,83,,,Final,,32,23,24,24,,25,13,28,17,,NBA
-64,64,140218027,1992,"Fri, Feb 18",Washington Bullets,New Jersey Nets,"16-34, 11-14 Home","25-24, 10-15 Away",110,113,,,Final,,30,28,25,27,,25,22,33,33,,NBA
-65,65,140222017,1992,"Tue, Feb 22",New Jersey Nets,Miami Heat,"26-25, 16-10 Home","27-25, 14-12 Away",97,123,,,Final,,22,19,18,38,,33,34,26,30,,NBA
-66,66,140225019,1992,"Fri, Feb 25",Orlando Magic,New Jersey Nets,"32-20, 20-7 Home","27-26, 11-16 Away",114,102,,,Final,,24,22,33,35,,20,21,28,33,,NBA
-67,67,140301017,1992,"Tue, Mar 1",New Jersey Nets,Detroit Pistons,"29-26, 18-10 Home","13-42, 6-20 Away",108,98,,,Final,,20,37,27,24,,28,23,19,28,,NBA
-68,68,140304011,1992,"Fri, Mar 4",Indiana Pacers,New Jersey Nets,"30-25, 18-9 Home","29-28, 11-18 Away",126,110,,,Final,,33,32,31,30,,26,29,23,32,,NBA
-69,69,140309008,1992,"Wed, Mar 9",Detroit Pistons,New Jersey Nets,"14-45, 8-24 Home","30-29, 11-19 Away",114,97,,,Final,,29,30,24,31,,28,25,25,19,,NBA
-70,70,140312017,1992,"Sat, Mar 12",New Jersey Nets,Charlotte Hornets,"32-29, 21-10 Home","25-34, 8-23 Away",117,92,,,Final,,33,23,27,34,,27,16,21,28,,NBA
-71,71,140318013,1992,"Fri, Mar 18",Los Angeles Lakers,New Jersey Nets,"25-37, 14-15 Home","33-30, 12-20 Away",90,102,,,Final,,22,22,21,25,,25,28,22,27,,NBA
-72,72,140322017,1992,"Tue, Mar 22",New Jersey Nets,Los Angeles Clippers,"34-31, 22-10 Home","24-40, 8-22 Away",105,102,,,Final,,31,20,25,29,,24,25,30,23,,NBA
-73,73,140326027,1992,"Sat, Mar 26",Washington Bullets,New Jersey Nets,"19-49, 13-21 Home","36-31, 13-21 Away",100,103,,,Final,,35,25,26,14,,26,26,27,24,,NBA
-74,74,140330017,1992,"Wed, Mar 30",New Jersey Nets,Miami Heat,"37-32, 24-10 Home","37-33, 19-17 Away",111,101,,,Final,,23,28,31,29,,28,26,21,26,,NBA
-75,75,140403017,1992,"Sun, Apr 3",New Jersey Nets,Portland Trail Blazers,"37-34, 24-12 Home","43-30, 15-22 Away",105,109,,,Final,,31,21,25,28,,19,23,32,35,,NBA
-76,76,140407017,1992,"Thu, Apr 7",New Jersey Nets,Atlanta Hawks,"39-34, 26-12 Home","51-23, 19-18 Away",93,87,,,Final,,19,32,19,23,,21,30,16,20,,NBA
-77,77,140410017,1992,"Sun, Apr 10",New Jersey Nets,New York Knicks,"40-35, 27-12 Home","52-22, 22-15 Away",107,88,,,Final,,33,20,29,25,,23,18,23,24,,NBA
-78,78,140413015,1992,"Wed, Apr 13",Milwaukee Bucks,New Jersey Nets,"19-57, 10-27 Home","41-36, 14-24 Away",105,107,,,Final,,31,19,28,27,,23,29,27,28,,NBA
-79,79,140417014,1992,"Sun, Apr 17",Miami Heat,New Jersey Nets,"40-39, 20-19 Home","43-36, 15-24 Away",103,110,,,Final,,28,32,23,20,,28,20,36,26,,NBA
-80,80,140423017,1992,"Sat, Apr 23",New Jersey Nets,Milwaukee Bucks,"45-36, 29-12 Home","20-62, 9-32 Away",135,100,,,Final,,32,33,31,39,,18,25,27,30,,NBA
-81,81,140424019,1992,"Sun, Apr 24",Orlando Magic,New Jersey Nets,"50-32, 31-10 Home","45-37, 16-25 Away",120,91,,,Final,,36,22,28,34,,27,20,23,21,,NBA
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+131107024,1992,"November 07, 1992",San Antonio Spurs,New Jersey Nets,"1-1, 1-1 Home","1-1, 1-1 Away",73,99,,,Final,,15,17,20,21,,23,23,22,31,,NBA
+131111017,1992,"November 11, 1992",New Jersey Nets,Indiana Pacers,"2-2, 0-1 Home","1-3, 1-2 Away",105,108,,,Final/OT,,31,19,27,20,8.0,17,30,23,27,11.0,NBA
+131114017,1992,"November 14, 1992",New Jersey Nets,Sacramento Kings,"3-3, 1-2 Home","3-2, 0-2 Away",132,102,,,Final,,34,30,34,34,,32,24,23,23,,NBA
+131117002,1992,"November 17, 1992",Boston Celtics,New Jersey Nets,"5-2, 2-2 Home","3-5, 2-2 Away",105,100,,,Final,,27,20,31,27,,23,20,25,32,,NBA
+131121017,1992,"November 21, 1992",New Jersey Nets,Los Angeles Lakers,"4-6, 2-4 Home","3-7, 0-4 Away",105,102,,,Final,,29,22,26,28,,29,26,29,18,,NBA
+131126026,1992,"November 26, 1992",Utah Jazz,New Jersey Nets,"8-4, 4-2 Home","4-8, 2-4 Away",100,97,,,Final,,33,16,28,23,,26,23,23,25,,NBA
+131129012,1992,"November 29, 1992",Los Angeles Clippers,New Jersey Nets,"6-6, 5-2 Home","4-10, 2-6 Away",118,94,,,Final,,36,25,27,30,,19,33,24,18,,NBA
+131203017,1992,"December 03, 1992",New Jersey Nets,Phoenix Suns,"5-11, 3-5 Home","10-3, 4-3 Away",103,104,,,Final,,28,23,23,29,,34,18,25,27,,NBA
+131210017,1992,"December 10, 1992",New Jersey Nets,Chicago Bulls,"6-12, 4-6 Home","9-8, 6-6 Away",105,109,,,Final,,22,25,28,30,,27,28,29,25,,NBA
+131213017,1992,"December 13, 1992",New Jersey Nets,Miami Heat,"7-13, 5-6 Home","7-10, 4-4 Away",110,105,,,Final/2OT,,27,26,13,19,25.0,26,16,28,15,20.0,NBA
+131218011,1992,"December 18, 1992",Indiana Pacers,New Jersey Nets,"10-11, 5-6 Home","8-14, 2-8 Away",108,98,,,Final,,22,26,29,31,,23,26,26,23,,NBA
+131223019,1992,"December 23, 1992",Orlando Magic,New Jersey Nets,"14-10, 8-3 Home","9-15, 2-9 Away",122,112,,,Final,,37,29,28,28,,27,19,35,31,,NBA
+131228018,1992,"December 28, 1992",New York Knicks,New Jersey Nets,"17-7, 10-3 Home","11-15, 3-9 Away",95,97,,,Final,,28,18,27,22,,20,19,23,35,,NBA
+140102002,1992,"January 02, 1993",Boston Celtics,New Jersey Nets,"12-18, 7-8 Home","12-16, 4-10 Away",97,101,,,Final,,25,30,16,26,,28,24,25,24,,NBA
+140105017,1992,"January 05, 1993",New Jersey Nets,Milwaukee Bucks,"12-18, 8-7 Home","9-20, 6-11 Away",91,100,,,Final,,23,24,18,26,,35,18,21,26,,NBA
+140111017,1992,"January 11, 1993",New Jersey Nets,Washington Bullets,"13-19, 8-8 Home","10-22, 4-13 Away",100,115,,,Final,,27,25,15,33,,30,38,19,28,,NBA
+140114017,1992,"January 14, 1993",New Jersey Nets,Denver Nuggets,"14-20, 9-8 Home","16-19, 5-14 Away",103,96,,,Final,,30,25,25,23,,24,25,26,21,,NBA
+140119017,1992,"January 19, 1993",New Jersey Nets,Minnesota Timberwolves,"16-20, 11-8 Home","12-24, 6-12 Away",112,91,,,Final,,27,28,30,27,,29,15,18,29,,NBA
+140122017,1992,"January 22, 1993",New Jersey Nets,Golden State Warriors,"18-20, 12-8 Home","21-16, 10-8 Away",124,98,,,Final,,21,21,36,46,,19,25,29,25,,NBA
+140127025,1992,"January 27, 1993",Seattle SuperSonics,New Jersey Nets,"31-8, 18-2 Home","18-22, 6-14 Away",102,92,,,Final,,30,22,22,28,,19,25,25,23,,NBA
+140201017,1992,"February 01, 1993",New Jersey Nets,Seattle SuperSonics,"20-22, 13-8 Home","31-10, 13-7 Away",104,103,,,Final,,31,26,30,17,,34,22,26,21,,NBA
+140206017,1992,"February 06, 1993",New Jersey Nets,San Antonio Spurs,"21-23, 13-9 Home","33-14, 15-10 Away",102,104,,,Final/OT,,26,18,26,23,9.0,18,26,28,21,11.0,NBA
+140209017,1992,"February 09, 1993",New Jersey Nets,Cleveland Cavaliers,"22-24, 14-9 Home","24-23, 8-15 Away",106,95,,,Final,,24,30,25,27,,23,24,17,31,,NBA
+140217002,1992,"February 17, 1993",Boston Celtics,New Jersey Nets,"20-29, 12-15 Home","24-24, 9-15 Away",98,117,,,Final,,23,17,27,31,,27,33,34,23,,NBA
+140220017,1992,"February 20, 1993",New Jersey Nets,Washington Bullets,"26-24, 16-9 Home","16-35, 5-21 Away",122,101,,,Final,,30,34,31,27,,22,22,21,36,,NBA
+140223020,1992,"February 23, 1993",Philadelphia 76ers,New Jersey Nets,"20-33, 12-14 Home","27-25, 11-15 Away",102,106,,,Final,,26,24,29,23,,21,25,32,28,,NBA
+140227017,1992,"February 27, 1993",New Jersey Nets,Dallas Mavericks,"28-26, 17-10 Home","8-49, 5-25 Away",117,90,,,Final,,23,29,32,33,,22,12,23,33,,NBA
+140303018,1992,"March 03, 1993",New York Knicks,New Jersey Nets,"38-19, 22-7 Home","29-27, 11-17 Away",97,86,,,Final,,25,27,19,26,,22,22,28,14,,NBA
+140306017,1992,"March 06, 1993",New Jersey Nets,Philadelphia 76ers,"30-28, 19-10 Home","20-39, 8-22 Away",126,99,,,Final,,35,25,37,29,,25,27,23,24,,NBA
+140311017,1992,"March 11, 1993",New Jersey Nets,Indiana Pacers,"31-29, 20-10 Home","31-27, 13-18 Away",87,73,,,Final,,27,18,19,23,,24,16,20,13,,NBA
+140316023,1992,"March 16, 1993",Sacramento Kings,New Jersey Nets,"22-41, 16-15 Home","32-30, 11-20 Away",132,111,,,Final,,28,28,30,46,,27,19,24,41,,NBA
+140319021,1992,"March 19, 1993",Phoenix Suns,New Jersey Nets,"42-22, 26-5 Home","33-31, 12-21 Away",105,93,,,Final,,27,27,29,22,,23,16,32,22,,NBA
+140325017,1992,"March 25, 1993",New Jersey Nets,Chicago Bulls,"35-31, 23-10 Home","44-24, 20-16 Away",110,87,,,Final,,28,26,25,31,,20,24,24,19,,NBA
+140329001,1992,"March 29, 1993",Atlanta Hawks,New Jersey Nets,"49-20, 31-5 Home","36-32, 13-22 Away",101,98,,,Final,,25,24,25,27,,20,34,17,27,,NBA
+140401017,1992,"April 01, 1993",New Jersey Nets,Orlando Magic,"37-33, 24-11 Home","42-28, 16-19 Away",96,98,,,Final,,24,21,20,31,,25,20,30,23,,NBA
+140405017,1992,"April 05, 1993",New Jersey Nets,Boston Celtics,"38-34, 25-12 Home","26-45, 12-23 Away",120,94,,,Final,,34,32,25,29,,27,24,21,22,,NBA
+140408003,1992,"April 08, 1993",Charlotte Hornets,New Jersey Nets,"34-39, 24-12 Home","39-35, 13-23 Away",99,78,,,Final,,30,28,20,21,,20,22,16,20,,NBA
+140412004,1992,"April 12, 1993",Chicago Bulls,New Jersey Nets,"52-24, 30-8 Home","40-36, 13-24 Away",111,105,,,Final,,35,27,32,17,,22,26,27,30,,NBA
+140415017,1992,"April 15, 1993",New Jersey Nets,Detroit Pistons,"42-36, 28-12 Home","20-57, 10-28 Away",119,114,,,Final/OT,,36,23,26,18,16.0,21,22,29,31,11.0,NBA
+140419020,1992,"April 19, 1993",Philadelphia 76ers,New Jersey Nets,"24-55, 14-26 Home","44-36, 16-24 Away",110,115,,,Final,,30,25,25,30,,35,26,23,31,,NBA
+131105010,1992,"November 05, 1992",Houston Rockets,New Jersey Nets,"1-0, 1-0 Home","0-1, 0-1 Away",110,88,,,Final,,26,25,35,24,,25,17,22,24,,NBA
+131109006,1992,"November 09, 1992",Dallas Mavericks,New Jersey Nets,"0-3, 0-2 Home","2-1, 2-1 Away",80,86,,,Final,,17,16,28,19,,23,23,24,16,,NBA
+131113017,1992,"November 13, 1992",New Jersey Nets,Philadelphia 76ers,"2-3, 0-2 Home","2-4, 1-3 Away",97,98,,,Final,,34,24,27,12,,16,30,23,29,,NBA
+131116017,1992,"November 16, 1992",New Jersey Nets,Houston Rockets,"3-4, 1-3 Home","7-0, 4-0 Away",84,90,,,Final,,27,23,21,13,,21,26,26,17,,NBA
+131120017,1992,"November 20, 1992",New Jersey Nets,Orlando Magic,"3-6, 1-4 Home","5-4, 2-3 Away",85,87,,,Final,,18,27,24,16,,16,23,29,19,,NBA
+131124016,1992,"November 24, 1992",Minnesota Timberwolves,New Jersey Nets,"3-6, 2-3 Home","4-7, 2-3 Away",107,106,,,Final,,28,28,28,23,,35,23,28,20,,NBA
+131127007,1992,"November 27, 1992",Denver Nuggets,New Jersey Nets,"6-6, 4-2 Home","4-9, 2-5 Away",111,89,,,Final,,38,23,30,20,,19,19,23,28,,NBA
+131201017,1992,"December 01, 1992",New Jersey Nets,Cleveland Cavaliers,"5-10, 3-4 Home","6-7, 2-5 Away",97,82,,,Final,,21,20,20,36,,28,25,17,12,,NBA
+131207017,1992,"December 07, 1992",New Jersey Nets,Boston Celtics,"6-11, 4-5 Home","9-8, 4-4 Away",117,90,,,Final,,31,32,26,28,,22,19,25,24,,NBA
+131211003,1992,"December 11, 1992",Charlotte Hornets,New Jersey Nets,"10-9, 7-2 Home","6-13, 2-7 Away",105,99,,,Final,,31,27,26,21,,21,26,29,23,,NBA
+131216017,1992,"December 16, 1992",New Jersey Nets,Charlotte Hornets,"8-13, 6-6 Home","11-10, 3-8 Away",111,95,,,Final,,25,26,33,27,,18,36,18,23,,NBA
+131221017,1992,"December 21, 1992",New Jersey Nets,New York Knicks,"9-14, 7-6 Home","16-6, 7-4 Away",85,81,,,Final,,21,24,13,27,,23,17,19,22,,NBA
+131226017,1992,"December 26, 1992",New Jersey Nets,Atlanta Hawks,"10-15, 8-6 Home","17-7, 7-6 Away",91,87,,,Final,,19,28,29,15,,25,19,27,16,,NBA
+131229004,1992,"December 29, 1992",Chicago Bulls,New Jersey Nets,"18-8, 10-2 Home","11-16, 3-10 Away",94,86,,,Final,,24,22,19,29,,21,26,19,20,,NBA
+140104014,1992,"January 04, 1993",Miami Heat,New Jersey Nets,"14-13, 8-9 Home","12-17, 4-11 Away",100,83,,,Final,,23,24,27,26,,16,25,18,24,,NBA
+140108015,1992,"January 08, 1993",Milwaukee Bucks,New Jersey Nets,"9-22, 3-11 Home","13-18, 5-11 Away",87,90,,,Final,,30,20,17,20,,24,28,20,18,,NBA
+140113005,1992,"January 13, 1993",Cleveland Cavaliers,New Jersey Nets,"15-18, 11-6 Home","13-20, 5-12 Away",104,93,,,Final,,27,32,22,23,,38,19,19,17,,NBA
+140116017,1992,"January 16, 1993",New Jersey Nets,Utah Jazz,"15-20, 10-8 Home","23-13, 10-9 Away",99,94,,,Final,,20,24,29,26,,31,21,18,24,,NBA
+140121001,1992,"January 21, 1993",Atlanta Hawks,New Jersey Nets,"25-10, 17-3 Home","17-20, 6-12 Away",111,113,,,Final/OT,,34,26,25,20,6.0,30,21,32,22,8.0,NBA
+140125022,1992,"January 25, 1993",Portland Trail Blazers,New Jersey Nets,"24-16, 16-5 Home","18-21, 6-13 Away",122,117,,,Final,,31,28,29,34,,31,26,31,29,,NBA
+140129009,1992,"January 29, 1993",Golden State Warriors,New Jersey Nets,"22-18, 12-9 Home","19-22, 7-14 Away",106,120,,,Final,,32,22,26,26,,29,31,28,32,,NBA
+140205008,1992,"February 05, 1993",Detroit Pistons,New Jersey Nets,"10-35, 6-19 Home","21-22, 8-14 Away",100,107,,,Final,,30,27,16,27,,15,28,33,31,,NBA
+140208005,1992,"February 08, 1993",Cleveland Cavaliers,New Jersey Nets,"24-22, 16-8 Home","21-24, 8-15 Away",112,104,,,Final,,27,36,25,24,,23,28,28,25,,NBA
+140215017,1992,"February 15, 1993",New Jersey Nets,New York Knicks,"23-24, 15-9 Home","34-15, 14-9 Away",103,83,,,Final,,32,23,24,24,,25,13,28,17,,NBA
+140218027,1992,"February 18, 1993",Washington Bullets,New Jersey Nets,"16-34, 11-14 Home","25-24, 10-15 Away",110,113,,,Final,,30,28,25,27,,25,22,33,33,,NBA
+140222017,1992,"February 22, 1993",New Jersey Nets,Miami Heat,"26-25, 16-10 Home","27-25, 14-12 Away",97,123,,,Final,,22,19,18,38,,33,34,26,30,,NBA
+140225019,1992,"February 25, 1993",Orlando Magic,New Jersey Nets,"32-20, 20-7 Home","27-26, 11-16 Away",114,102,,,Final,,24,22,33,35,,20,21,28,33,,NBA
+140301017,1992,"March 01, 1993",New Jersey Nets,Detroit Pistons,"29-26, 18-10 Home","13-42, 6-20 Away",108,98,,,Final,,20,37,27,24,,28,23,19,28,,NBA
+140304011,1992,"March 04, 1993",Indiana Pacers,New Jersey Nets,"30-25, 18-9 Home","29-28, 11-18 Away",126,110,,,Final,,33,32,31,30,,26,29,23,32,,NBA
+140309008,1992,"March 09, 1993",Detroit Pistons,New Jersey Nets,"14-45, 8-24 Home","30-29, 11-19 Away",114,97,,,Final,,29,30,24,31,,28,25,25,19,,NBA
+140312017,1992,"March 12, 1993",New Jersey Nets,Charlotte Hornets,"32-29, 21-10 Home","25-34, 8-23 Away",117,92,,,Final,,33,23,27,34,,27,16,21,28,,NBA
+140318013,1992,"March 18, 1993",Los Angeles Lakers,New Jersey Nets,"25-37, 14-15 Home","33-30, 12-20 Away",90,102,,,Final,,22,22,21,25,,25,28,22,27,,NBA
+140322017,1992,"March 22, 1993",New Jersey Nets,Los Angeles Clippers,"34-31, 22-10 Home","24-40, 8-22 Away",105,102,,,Final,,31,20,25,29,,24,25,30,23,,NBA
+140326027,1992,"March 26, 1993",Washington Bullets,New Jersey Nets,"19-49, 13-21 Home","36-31, 13-21 Away",100,103,,,Final,,35,25,26,14,,26,26,27,24,,NBA
+140330017,1992,"March 30, 1993",New Jersey Nets,Miami Heat,"37-32, 24-10 Home","37-33, 19-17 Away",111,101,,,Final,,23,28,31,29,,28,26,21,26,,NBA
+140403017,1992,"April 03, 1993",New Jersey Nets,Portland Trail Blazers,"37-34, 24-12 Home","43-30, 15-22 Away",105,109,,,Final,,31,21,25,28,,19,23,32,35,,NBA
+140407017,1992,"April 07, 1993",New Jersey Nets,Atlanta Hawks,"39-34, 26-12 Home","51-23, 19-18 Away",93,87,,,Final,,19,32,19,23,,21,30,16,20,,NBA
+140410017,1992,"April 10, 1993",New Jersey Nets,New York Knicks,"40-35, 27-12 Home","52-22, 22-15 Away",107,88,,,Final,,33,20,29,25,,23,18,23,24,,NBA
+140413015,1992,"April 13, 1993",Milwaukee Bucks,New Jersey Nets,"19-57, 10-27 Home","41-36, 14-24 Away",105,107,,,Final,,31,19,28,27,,23,29,27,28,,NBA
+140417014,1992,"April 17, 1993",Miami Heat,New Jersey Nets,"40-39, 20-19 Home","43-36, 15-24 Away",103,110,,,Final,,28,32,23,20,,28,20,36,26,,NBA
+140423017,1992,"April 23, 1993",New Jersey Nets,Milwaukee Bucks,"45-36, 29-12 Home","20-62, 9-32 Away",135,100,,,Final,,32,33,31,39,,18,25,27,30,,NBA
+140424019,1992,"April 24, 1993",Orlando Magic,New Jersey Nets,"50-32, 31-10 Home","45-37, 16-25 Away",120,91,,,Final,,36,22,28,34,,27,20,23,21,,NBA

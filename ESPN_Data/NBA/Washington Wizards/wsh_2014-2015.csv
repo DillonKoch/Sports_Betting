@@ -1,83 +1,83 @@
-,Unnamed: 0,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-0,0,400578308,2014,"Thu, Oct 30",Orlando Magic,Washington Wizards,"0-2, 0-1 Home","1-1, 1-1 Away",98,105,,,Final,,23,28,15,32,,28,26,28,23,,NBA
-1,1,400578343,2014,"Tue, Nov 4",New York Knicks,Washington Wizards,"2-2, 1-2 Home","3-1, 2-1 Away",83,98,,,Final,,23,22,15,23,,17,23,32,26,,NBA
-2,2,400578369,2014,"Fri, Nov 7",Toronto Raptors,Washington Wizards,"5-1, 3-0 Home","4-2, 2-2 Away",103,84,,,Final,,28,31,23,21,,18,17,23,26,,NBA
-3,3,400578401,2014,"Wed, Nov 12",Washington Wizards,Detroit Pistons,"6-2, 3-0 Home","2-6, 0-4 Away",107,103,,,Final,,24,33,25,25,,34,25,26,18,,NBA
-4,4,400578455,2014,"Wed, Nov 19",Washington Wizards,Dallas Mavericks,"7-3, 4-1 Home","9-3, 4-2 Away",102,105,,,Final,,29,24,20,29,,23,31,22,29,,NBA
-5,5,400578482,2014,"Sat, Nov 22",Milwaukee Bucks,Washington Wizards,"7-7, 4-2 Home","9-3, 4-2 Away",100,111,,,Final,,28,24,18,30,,21,26,27,37,,NBA
-6,6,400578503,2014,"Wed, Nov 26",Cleveland Cavaliers,Washington Wizards,"7-7, 4-4 Home","9-5, 4-3 Away",113,87,,,Final,,31,27,23,32,,18,28,21,20,,NBA
-7,7,400578542,2014,"Mon, Dec 1",Washington Wizards,Miami Heat,"11-5, 7-2 Home","9-8, 5-3 Away",107,86,,,Final,,30,34,17,26,,22,27,17,20,,NBA
-8,8,400578570,2014,"Fri, Dec 5",Washington Wizards,Denver Nuggets,"13-5, 9-2 Home","9-10, 4-6 Away",119,89,,,Final,NBATV,30,35,25,29,,28,18,23,20,,NBA
-9,9,400578594,2014,"Mon, Dec 8",Washington Wizards,Boston Celtics,"14-6, 10-2 Home","7-12, 2-5 Away",133,132,,,Final/2OT,,30,28,34,18,23.0,29,16,31,34,22.0,NBA
-10,10,400578621,2014,"Fri, Dec 12",Washington Wizards,LA Clippers,"16-6, 11-2 Home","16-6, 8-3 Away",104,96,,,Final,,30,27,23,24,,21,21,25,29,,NBA
-11,11,400578655,2014,"Tue, Dec 16",Washington Wizards,Minnesota Timberwolves,"18-6, 13-2 Home","5-19, 2-9 Away",109,95,,,Final,,27,19,28,35,,16,20,33,26,,NBA
-12,12,400578698,2014,"Sun, Dec 21",Washington Wizards,Phoenix Suns,"19-7, 13-3 Home","15-14, 9-7 Away",92,104,,,Final,,23,27,21,21,,22,28,29,25,,NBA
-13,13,400578719,2014,"Thu, Dec 25",New York Knicks,Washington Wizards,"5-26, 3-13 Home","20-8, 7-4 Away",91,102,,,Final,ESPN,23,21,26,21,,34,26,24,18,,NBA
-14,14,400578755,2014,"Mon, Dec 29",Houston Rockets,Washington Wizards,"21-9, 10-6 Home","22-8, 8-4 Away",103,104,,,Final,,27,18,22,36,,24,22,32,26,,NBA
-15,15,400578781,2014,"Fri, Jan 2",Oklahoma City Thunder,Washington Wizards,"17-17, 10-7 Home","22-10, 8-6 Away",109,102,,,Final,,28,27,27,27,,29,28,25,20,,NBA
-16,16,400578807,2014,"Mon, Jan 5",New Orleans Pelicans,Washington Wizards,"17-17, 11-5 Home","23-11, 9-7 Away",85,92,,,Final,NBATV,23,21,20,21,,27,25,17,23,,NBA
-17,17,400578835,2014,"Fri, Jan 9",Washington Wizards,Chicago Bulls,"25-11, 16-4 Home","25-12, 14-5 Away",102,86,,,Final,ESPN,30,30,20,22,,13,29,26,18,,NBA
-18,18,400578861,2014,"Tue, Jan 13",Washington Wizards,San Antonio Spurs,"26-12, 17-4 Home","23-16, 10-10 Away",101,93,,,Final,NBATV,31,20,24,26,,24,24,24,21,,NBA
-19,19,400578882,2014,"Fri, Jan 16",Washington Wizards,Brooklyn Nets,"27-13, 17-5 Home","17-23, 9-10 Away",80,102,,,Final,,24,16,18,22,,18,25,28,31,,NBA
-20,20,400578904,2014,"Mon, Jan 19",Washington Wizards,Philadelphia 76ers,"29-13, 18-5 Home","8-33, 5-17 Away",111,76,,,Final,,27,28,30,26,,14,18,26,18,,NBA
-21,21,400578948,2014,"Sat, Jan 24",Portland Trail Blazers,Washington Wizards,"32-13, 20-5 Home","29-15, 11-9 Away",103,96,,,Final,NBATV,20,25,24,34,,32,23,15,26,,NBA
-22,22,400578972,2014,"Tue, Jan 27",Los Angeles Lakers,Washington Wizards,"12-34, 6-17 Home","31-15, 13-9 Away",92,98,,,Final,,31,26,19,16,,24,22,29,23,,NBA
-23,23,400578999,2014,"Sat, Jan 31",Washington Wizards,Toronto Raptors,"31-17, 18-7 Home","33-15, 15-8 Away",116,120,,,Final/OT,,30,20,28,31,7.0,33,32,29,15,11.0,NBA
-24,24,400579024,2014,"Wed, Feb 4",Atlanta Hawks,Washington Wizards,"41-9, 24-3 Home","31-19, 13-11 Away",105,96,,,Final,,29,30,18,28,,18,28,28,22,,NBA
-25,25,400579051,2014,"Sat, Feb 7",Washington Wizards,Brooklyn Nets,"32-20, 19-8 Home","21-29, 11-14 Away",114,77,,,Final,,28,30,31,25,,19,19,23,16,,NBA
-26,26,400579083,2014,"Wed, Feb 11",Toronto Raptors,Washington Wizards,"36-17, 21-9 Home","33-21, 13-13 Away",95,93,,,Final,,27,22,26,20,,25,22,29,17,,NBA
-27,27,400579115,2014,"Sun, Feb 22",Detroit Pistons,Washington Wizards,"23-33, 12-18 Home","33-23, 13-14 Away",106,89,,,Final,,27,20,35,24,,22,30,19,18,,NBA
-28,28,400579140,2014,"Wed, Feb 25",Minnesota Timberwolves,Washington Wizards,"13-43, 8-21 Home","33-25, 13-15 Away",97,77,,,Final,,11,31,32,23,,20,22,18,17,,NBA
-29,29,400579162,2014,"Sat, Feb 28",Washington Wizards,Detroit Pistons,"34-26, 21-10 Home","23-36, 11-16 Away",99,95,,,Final,,37,23,20,19,,27,17,26,25,,NBA
-30,30,400579212,2014,"Fri, Mar 6",Washington Wizards,Miami Heat,"35-27, 22-10 Home","27-34, 15-17 Away",99,97,,,Final,,40,27,21,11,,18,21,34,24,,NBA
-31,31,400579230,2014,"Mon, Mar 9",Charlotte Hornets,Washington Wizards,"28-34, 15-17 Home","36-28, 14-18 Away",69,95,,,Final,,21,25,14,9,,36,20,21,18,,NBA
-32,32,400579269,2014,"Sat, Mar 14",Washington Wizards,Sacramento Kings,"38-28, 24-10 Home","22-43, 9-24 Away",113,97,,,Final,,21,25,38,29,,25,39,21,12,,NBA
-33,33,400579307,2014,"Wed, Mar 18",Utah Jazz,Washington Wizards,"30-37, 17-17 Home","40-28, 15-18 Away",84,88,,,Final,,21,19,21,23,,26,16,25,21,,NBA
-34,34,400579334,2014,"Sun, Mar 22",Sacramento Kings,Washington Wizards,"24-45, 15-21 Home","40-30, 15-20 Away",109,86,,,Final,,34,23,33,19,,29,21,20,16,,NBA
-35,35,400579355,2014,"Wed, Mar 25",Washington Wizards,Indiana Pacers,"40-32, 25-11 Home","31-40, 13-22 Away",101,103,,,Final,,20,24,32,25,,14,28,28,33,,NBA
-36,36,400579389,2014,"Sun, Mar 29",Washington Wizards,Houston Rockets,"41-33, 26-12 Home","50-23, 23-13 Away",91,99,,,Final,ABC,20,26,21,24,,28,31,17,23,,NBA
-37,37,400579420,2014,"Fri, Apr 3",Washington Wizards,New York Knicks,"43-33, 28-12 Home","14-62, 5-34 Away",101,87,,,Final,,30,24,29,18,,10,36,21,20,,NBA
-38,38,400579454,2014,"Wed, Apr 8",Philadelphia 76ers,Washington Wizards,"18-61, 12-27 Home","45-33, 17-21 Away",90,119,,,Final,,24,30,23,13,,35,35,25,24,,NBA
-39,39,400579490,2014,"Sun, Apr 12",Washington Wizards,Atlanta Hawks,"46-34, 29-12 Home","60-20, 25-15 Away",108,99,,,Final,NBATV,38,28,24,18,,22,23,30,24,,NBA
-40,40,400578299,2014,"Wed, Oct 29",Miami Heat,Washington Wizards,"1-0, 1-0 Home","0-1, 0-1 Away",107,95,,,Final,,22,31,19,35,,28,24,18,25,,NBA
-41,41,400578323,2014,"Sat, Nov 1",Washington Wizards,Milwaukee Bucks,"2-1, 1-0 Home","1-2, 0-2 Away",108,97,,,Final,,29,20,34,25,,17,27,24,29,,NBA
-42,42,400578355,2014,"Wed, Nov 5",Washington Wizards,Indiana Pacers,"4-1, 2-0 Home","1-4, 0-2 Away",96,94,,,Final/OT,ESPN,24,22,20,18,12.0,24,17,20,23,10.0,NBA
-43,43,400578375,2014,"Sat, Nov 8",Indiana Pacers,Washington Wizards,"1-6, 1-3 Home","5-2, 3-2 Away",90,97,,,Final,,14,21,30,25,,32,22,19,24,,NBA
-44,44,400578424,2014,"Sat, Nov 15",Washington Wizards,Orlando Magic,"7-2, 4-0 Home","4-7, 2-5 Away",98,93,,,Final,,24,24,21,29,,17,21,24,31,,NBA
-45,45,400578471,2014,"Fri, Nov 21",Washington Wizards,Cleveland Cavaliers,"8-3, 5-1 Home","5-6, 3-3 Away",91,78,,,Final,ESPN,26,29,25,11,,21,21,23,13,,NBA
-46,46,400578497,2014,"Tue, Nov 25",Washington Wizards,Atlanta Hawks,"9-4, 5-2 Home","7-5, 2-4 Away",102,106,,,Final,,19,20,28,35,,22,19,27,38,,NBA
-47,47,400578528,2014,"Sat, Nov 29",Washington Wizards,New Orleans Pelicans,"10-5, 6-2 Home","7-8, 3-6 Away",83,80,,,Final,NBATV,23,17,25,18,,18,18,21,23,,NBA
-48,48,400578556,2014,"Wed, Dec 3",Washington Wizards,Los Angeles Lakers,"12-5, 8-2 Home","5-14, 3-6 Away",111,95,,,Final,,27,27,24,33,,33,19,17,26,,NBA
-49,49,400578586,2014,"Sun, Dec 7",Boston Celtics,Washington Wizards,"7-11, 5-7 Home","13-6, 4-4 Away",101,93,,,Final,,24,29,24,24,,15,21,23,34,,NBA
-50,50,400578610,2014,"Wed, Dec 10",Orlando Magic,Washington Wizards,"9-15, 2-6 Home","15-6, 5-4 Away",89,91,,,Final,,21,23,31,14,,26,19,22,24,,NBA
-51,51,400578642,2014,"Sun, Dec 14",Washington Wizards,Utah Jazz,"17-6, 12-2 Home","6-18, 2-9 Away",93,84,,,Final,,22,15,30,26,,24,18,16,26,,NBA
-52,52,400578680,2014,"Fri, Dec 19",Miami Heat,Washington Wizards,"12-15, 4-9 Home","19-6, 6-4 Away",103,105,,,Final,,25,30,24,24,,29,25,22,29,,NBA
-53,53,400578711,2014,"Tue, Dec 23",Washington Wizards,Chicago Bulls,"19-8, 13-4 Home","19-9, 13-4 Away",91,99,,,Final,,20,20,25,26,,21,25,24,29,,NBA
-54,54,400578737,2014,"Sat, Dec 27",Washington Wizards,Boston Celtics,"21-8, 14-4 Home","10-18, 3-9 Away",101,88,,,Final,,30,26,24,21,,12,27,24,25,,NBA
-55,55,400578762,2014,"Tue, Dec 30",Dallas Mavericks,Washington Wizards,"23-10, 13-5 Home","22-9, 8-5 Away",114,87,,,Final,,27,36,26,25,,24,21,19,23,,NBA
-56,56,400578791,2014,"Sat, Jan 3",San Antonio Spurs,Washington Wizards,"21-14, 12-5 Home","22-11, 8-7 Away",101,92,,,Final,,31,27,20,23,,35,23,19,15,,NBA
-57,57,400578817,2014,"Wed, Jan 7",Washington Wizards,New York Knicks,"24-11, 15-4 Home","5-33, 2-18 Away",101,91,,,Final,,30,23,24,24,,21,20,26,24,,NBA
-58,58,400578850,2014,"Sun, Jan 11",Atlanta Hawks,Washington Wizards,"29-8, 16-3 Home","25-12, 9-8 Away",120,89,,,Final,,34,21,32,33,,22,28,27,12,,NBA
-59,59,400578871,2014,"Wed, Jan 14",Chicago Bulls,Washington Wizards,"26-14, 12-9 Home","27-12, 10-8 Away",99,105,,,Final,ESPN,32,18,19,30,,26,18,32,29,,NBA
-60,60,400578897,2014,"Sat, Jan 17",Brooklyn Nets,Washington Wizards,"17-24, 8-14 Home","28-13, 11-8 Away",90,99,,,Final,,26,25,19,20,,23,27,27,22,,NBA
-61,61,400578925,2014,"Wed, Jan 21",Washington Wizards,Oklahoma City Thunder,"29-14, 18-6 Home","22-20, 10-13 Away",103,105,,,Final/OT,ESPN,31,19,20,22,11.0,26,12,28,26,13.0,NBA
-62,62,400578958,2014,"Sun, Jan 25",Denver Nuggets,Washington Wizards,"18-26, 12-12 Home","30-15, 12-9 Away",115,117,,,Final/OT,NBATV,26,33,25,21,10.0,28,31,24,22,12.0,NBA
-63,63,400578983,2014,"Wed, Jan 28",Phoenix Suns,Washington Wizards,"27-20, 14-9 Home","31-16, 13-10 Away",106,98,,,Final,ESPN,29,27,24,26,,17,22,27,32,,NBA
-64,64,400579011,2014,"Mon, Feb 2",Washington Wizards,Charlotte Hornets,"31-18, 18-8 Home","21-27, 9-14 Away",88,92,,,Final,,24,27,15,22,,28,25,17,22,,NBA
-65,65,400579034,2014,"Thu, Feb 5",Charlotte Hornets,Washington Wizards,"22-27, 13-13 Home","31-20, 13-12 Away",94,87,,,Final,,34,15,20,25,,30,24,20,13,,NBA
-66,66,400579068,2014,"Mon, Feb 9",Washington Wizards,Orlando Magic,"33-20, 20-8 Home","16-39, 10-21 Away",96,80,,,Final,,24,19,31,22,,16,19,19,26,,NBA
-67,67,400579101,2014,"Fri, Feb 20",Washington Wizards,Cleveland Cavaliers,"33-22, 20-9 Home","34-22, 13-13 Away",89,127,,,Final,ESPN,26,25,20,18,,35,30,29,33,,NBA
-68,68,400579130,2014,"Tue, Feb 24",Washington Wizards,Golden State Warriors,"33-24, 20-10 Home","44-10, 20-8 Away",107,114,,,Final,,28,23,32,24,,30,24,32,28,,NBA
-69,69,400579149,2014,"Fri, Feb 27",Philadelphia 76ers,Washington Wizards,"13-45, 8-20 Home","33-26, 13-16 Away",89,81,,,Final,,28,19,16,26,,25,17,19,20,,NBA
-70,70,400579185,2014,"Tue, Mar 3",Chicago Bulls,Washington Wizards,"38-23, 19-13 Home","34-27, 13-17 Away",97,92,,,Final,,24,27,23,23,,22,22,23,25,,NBA
-71,71,400579221,2014,"Sat, Mar 7",Milwaukee Bucks,Washington Wizards,"33-29, 18-11 Home","35-28, 13-18 Away",91,85,,,Final,,30,21,14,26,,19,20,24,22,,NBA
-72,72,400579255,2014,"Thu, Mar 12",Washington Wizards,Memphis Grizzlies,"37-28, 23-10 Home","45-20, 21-13 Away",107,87,,,Final,TNT,26,34,29,18,,33,14,24,16,,NBA
-73,73,400579283,2014,"Mon, Mar 16",Washington Wizards,Portland Trail Blazers,"39-28, 25-10 Home","44-21, 16-15 Away",105,97,,,Final,,27,33,21,24,,20,20,34,23,,NBA
-74,74,400579323,2014,"Fri, Mar 20",LA Clippers,Washington Wizards,"45-25, 26-10 Home","40-29, 15-19 Away",113,99,,,Final,,35,31,24,23,,21,33,23,22,,NBA
-75,75,400579345,2014,"Mon, Mar 23",Golden State Warriors,Washington Wizards,"57-13, 34-2 Home","40-31, 15-21 Away",107,76,,,Final,NBATV,27,25,29,26,,24,25,8,19,,NBA
-76,76,400579368,2014,"Fri, Mar 27",Washington Wizards,Charlotte Hornets,"41-32, 26-11 Home","30-41, 14-22 Away",110,107,,,Final/2OT,,28,31,16,21,14.0,19,35,25,17,11.0,NBA
-77,77,400579406,2014,"Wed, Apr 1",Washington Wizards,Philadelphia 76ers,"42-33, 27-12 Home","18-58, 6-32 Away",106,93,,,Final,,31,34,28,13,,21,21,20,31,,NBA
-78,78,400579433,2014,"Sat, Apr 4",Memphis Grizzlies,Washington Wizards,"52-25, 29-10 Home","44-33, 16-21 Away",83,92,,,Final,,18,20,21,24,,29,20,22,21,,NBA
-79,79,400579469,2014,"Fri, Apr 10",Brooklyn Nets,Washington Wizards,"37-42, 18-21 Home","45-34, 17-22 Away",117,80,,,Final,,31,23,21,42,,14,24,24,18,,NBA
-80,80,400579507,2014,"Tue, Apr 14",Indiana Pacers,Washington Wizards,"38-43, 23-18 Home","46-35, 17-23 Away",99,95,,,Final/2OT,TNT,16,17,23,25,18.0,16,25,18,22,14.0,NBA
-81,81,400579517,2014,"Wed, Apr 15",Cleveland Cavaliers,Washington Wizards,"53-29, 31-10 Home","46-36, 17-24 Away",113,108,,,Final/OT,,20,33,21,27,12.0,28,28,23,22,7.0,NBA
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+400578308,2014,"October 30, 2014",Orlando Magic,Washington Wizards,"0-2, 0-1 Home","1-1, 1-1 Away",98,105,,,Final,,23,28,15,32,,28,26,28,23,,NBA
+400578343,2014,"November 04, 2014",New York Knicks,Washington Wizards,"2-2, 1-2 Home","3-1, 2-1 Away",83,98,,,Final,,23,22,15,23,,17,23,32,26,,NBA
+400578369,2014,"November 07, 2014",Toronto Raptors,Washington Wizards,"5-1, 3-0 Home","4-2, 2-2 Away",103,84,,,Final,,28,31,23,21,,18,17,23,26,,NBA
+400578401,2014,"November 12, 2014",Washington Wizards,Detroit Pistons,"6-2, 3-0 Home","2-6, 0-4 Away",107,103,,,Final,,24,33,25,25,,34,25,26,18,,NBA
+400578455,2014,"November 19, 2014",Washington Wizards,Dallas Mavericks,"7-3, 4-1 Home","9-3, 4-2 Away",102,105,,,Final,,29,24,20,29,,23,31,22,29,,NBA
+400578482,2014,"November 22, 2014",Milwaukee Bucks,Washington Wizards,"7-7, 4-2 Home","9-3, 4-2 Away",100,111,,,Final,,28,24,18,30,,21,26,27,37,,NBA
+400578503,2014,"November 26, 2014",Cleveland Cavaliers,Washington Wizards,"7-7, 4-4 Home","9-5, 4-3 Away",113,87,,,Final,,31,27,23,32,,18,28,21,20,,NBA
+400578542,2014,"December 01, 2014",Washington Wizards,Miami Heat,"11-5, 7-2 Home","9-8, 5-3 Away",107,86,,,Final,,30,34,17,26,,22,27,17,20,,NBA
+400578570,2014,"December 05, 2014",Washington Wizards,Denver Nuggets,"13-5, 9-2 Home","9-10, 4-6 Away",119,89,,,Final,NBATV,30,35,25,29,,28,18,23,20,,NBA
+400578594,2014,"December 08, 2014",Washington Wizards,Boston Celtics,"14-6, 10-2 Home","7-12, 2-5 Away",133,132,,,Final/2OT,,30,28,34,18,23.0,29,16,31,34,22.0,NBA
+400578621,2014,"December 12, 2014",Washington Wizards,LA Clippers,"16-6, 11-2 Home","16-6, 8-3 Away",104,96,,,Final,,30,27,23,24,,21,21,25,29,,NBA
+400578655,2014,"December 16, 2014",Washington Wizards,Minnesota Timberwolves,"18-6, 13-2 Home","5-19, 2-9 Away",109,95,,,Final,,27,19,28,35,,16,20,33,26,,NBA
+400578698,2014,"December 21, 2014",Washington Wizards,Phoenix Suns,"19-7, 13-3 Home","15-14, 9-7 Away",92,104,,,Final,,23,27,21,21,,22,28,29,25,,NBA
+400578719,2014,"December 25, 2014",New York Knicks,Washington Wizards,"5-26, 3-13 Home","20-8, 7-4 Away",91,102,,,Final,ESPN,23,21,26,21,,34,26,24,18,,NBA
+400578755,2014,"December 29, 2014",Houston Rockets,Washington Wizards,"21-9, 10-6 Home","22-8, 8-4 Away",103,104,,,Final,,27,18,22,36,,24,22,32,26,,NBA
+400578781,2014,"January 02, 2015",Oklahoma City Thunder,Washington Wizards,"17-17, 10-7 Home","22-10, 8-6 Away",109,102,,,Final,,28,27,27,27,,29,28,25,20,,NBA
+400578807,2014,"January 05, 2015",New Orleans Pelicans,Washington Wizards,"17-17, 11-5 Home","23-11, 9-7 Away",85,92,,,Final,NBATV,23,21,20,21,,27,25,17,23,,NBA
+400578835,2014,"January 09, 2015",Washington Wizards,Chicago Bulls,"25-11, 16-4 Home","25-12, 14-5 Away",102,86,,,Final,ESPN,30,30,20,22,,13,29,26,18,,NBA
+400578861,2014,"January 13, 2015",Washington Wizards,San Antonio Spurs,"26-12, 17-4 Home","23-16, 10-10 Away",101,93,,,Final,NBATV,31,20,24,26,,24,24,24,21,,NBA
+400578882,2014,"January 16, 2015",Washington Wizards,Brooklyn Nets,"27-13, 17-5 Home","17-23, 9-10 Away",80,102,,,Final,,24,16,18,22,,18,25,28,31,,NBA
+400578904,2014,"January 19, 2015",Washington Wizards,Philadelphia 76ers,"29-13, 18-5 Home","8-33, 5-17 Away",111,76,,,Final,,27,28,30,26,,14,18,26,18,,NBA
+400578948,2014,"January 24, 2015",Portland Trail Blazers,Washington Wizards,"32-13, 20-5 Home","29-15, 11-9 Away",103,96,,,Final,NBATV,20,25,24,34,,32,23,15,26,,NBA
+400578972,2014,"January 27, 2015",Los Angeles Lakers,Washington Wizards,"12-34, 6-17 Home","31-15, 13-9 Away",92,98,,,Final,,31,26,19,16,,24,22,29,23,,NBA
+400578999,2014,"January 31, 2015",Washington Wizards,Toronto Raptors,"31-17, 18-7 Home","33-15, 15-8 Away",116,120,,,Final/OT,,30,20,28,31,7.0,33,32,29,15,11.0,NBA
+400579024,2014,"February 04, 2015",Atlanta Hawks,Washington Wizards,"41-9, 24-3 Home","31-19, 13-11 Away",105,96,,,Final,,29,30,18,28,,18,28,28,22,,NBA
+400579051,2014,"February 07, 2015",Washington Wizards,Brooklyn Nets,"32-20, 19-8 Home","21-29, 11-14 Away",114,77,,,Final,,28,30,31,25,,19,19,23,16,,NBA
+400579083,2014,"February 11, 2015",Toronto Raptors,Washington Wizards,"36-17, 21-9 Home","33-21, 13-13 Away",95,93,,,Final,,27,22,26,20,,25,22,29,17,,NBA
+400579115,2014,"February 22, 2015",Detroit Pistons,Washington Wizards,"23-33, 12-18 Home","33-23, 13-14 Away",106,89,,,Final,,27,20,35,24,,22,30,19,18,,NBA
+400579140,2014,"February 25, 2015",Minnesota Timberwolves,Washington Wizards,"13-43, 8-21 Home","33-25, 13-15 Away",97,77,,,Final,,11,31,32,23,,20,22,18,17,,NBA
+400579162,2014,"February 28, 2015",Washington Wizards,Detroit Pistons,"34-26, 21-10 Home","23-36, 11-16 Away",99,95,,,Final,,37,23,20,19,,27,17,26,25,,NBA
+400579212,2014,"March 06, 2015",Washington Wizards,Miami Heat,"35-27, 22-10 Home","27-34, 15-17 Away",99,97,,,Final,,40,27,21,11,,18,21,34,24,,NBA
+400579230,2014,"March 09, 2015",Charlotte Hornets,Washington Wizards,"28-34, 15-17 Home","36-28, 14-18 Away",69,95,,,Final,,21,25,14,9,,36,20,21,18,,NBA
+400579269,2014,"March 14, 2015",Washington Wizards,Sacramento Kings,"38-28, 24-10 Home","22-43, 9-24 Away",113,97,,,Final,,21,25,38,29,,25,39,21,12,,NBA
+400579307,2014,"March 18, 2015",Utah Jazz,Washington Wizards,"30-37, 17-17 Home","40-28, 15-18 Away",84,88,,,Final,,21,19,21,23,,26,16,25,21,,NBA
+400579334,2014,"March 22, 2015",Sacramento Kings,Washington Wizards,"24-45, 15-21 Home","40-30, 15-20 Away",109,86,,,Final,,34,23,33,19,,29,21,20,16,,NBA
+400579355,2014,"March 25, 2015",Washington Wizards,Indiana Pacers,"40-32, 25-11 Home","31-40, 13-22 Away",101,103,,,Final,,20,24,32,25,,14,28,28,33,,NBA
+400579389,2014,"March 29, 2015",Washington Wizards,Houston Rockets,"41-33, 26-12 Home","50-23, 23-13 Away",91,99,,,Final,ABC,20,26,21,24,,28,31,17,23,,NBA
+400579420,2014,"April 03, 2015",Washington Wizards,New York Knicks,"43-33, 28-12 Home","14-62, 5-34 Away",101,87,,,Final,,30,24,29,18,,10,36,21,20,,NBA
+400579454,2014,"April 08, 2015",Philadelphia 76ers,Washington Wizards,"18-61, 12-27 Home","45-33, 17-21 Away",90,119,,,Final,,24,30,23,13,,35,35,25,24,,NBA
+400579490,2014,"April 12, 2015",Washington Wizards,Atlanta Hawks,"46-34, 29-12 Home","60-20, 25-15 Away",108,99,,,Final,NBATV,38,28,24,18,,22,23,30,24,,NBA
+400578299,2014,"October 29, 2014",Miami Heat,Washington Wizards,"1-0, 1-0 Home","0-1, 0-1 Away",107,95,,,Final,,22,31,19,35,,28,24,18,25,,NBA
+400578323,2014,"November 01, 2014",Washington Wizards,Milwaukee Bucks,"2-1, 1-0 Home","1-2, 0-2 Away",108,97,,,Final,,29,20,34,25,,17,27,24,29,,NBA
+400578355,2014,"November 05, 2014",Washington Wizards,Indiana Pacers,"4-1, 2-0 Home","1-4, 0-2 Away",96,94,,,Final/OT,ESPN,24,22,20,18,12.0,24,17,20,23,10.0,NBA
+400578375,2014,"November 08, 2014",Indiana Pacers,Washington Wizards,"1-6, 1-3 Home","5-2, 3-2 Away",90,97,,,Final,,14,21,30,25,,32,22,19,24,,NBA
+400578424,2014,"November 15, 2014",Washington Wizards,Orlando Magic,"7-2, 4-0 Home","4-7, 2-5 Away",98,93,,,Final,,24,24,21,29,,17,21,24,31,,NBA
+400578471,2014,"November 21, 2014",Washington Wizards,Cleveland Cavaliers,"8-3, 5-1 Home","5-6, 3-3 Away",91,78,,,Final,ESPN,26,29,25,11,,21,21,23,13,,NBA
+400578497,2014,"November 25, 2014",Washington Wizards,Atlanta Hawks,"9-4, 5-2 Home","7-5, 2-4 Away",102,106,,,Final,,19,20,28,35,,22,19,27,38,,NBA
+400578528,2014,"November 29, 2014",Washington Wizards,New Orleans Pelicans,"10-5, 6-2 Home","7-8, 3-6 Away",83,80,,,Final,NBATV,23,17,25,18,,18,18,21,23,,NBA
+400578556,2014,"December 03, 2014",Washington Wizards,Los Angeles Lakers,"12-5, 8-2 Home","5-14, 3-6 Away",111,95,,,Final,,27,27,24,33,,33,19,17,26,,NBA
+400578586,2014,"December 07, 2014",Boston Celtics,Washington Wizards,"7-11, 5-7 Home","13-6, 4-4 Away",101,93,,,Final,,24,29,24,24,,15,21,23,34,,NBA
+400578610,2014,"December 10, 2014",Orlando Magic,Washington Wizards,"9-15, 2-6 Home","15-6, 5-4 Away",89,91,,,Final,,21,23,31,14,,26,19,22,24,,NBA
+400578642,2014,"December 14, 2014",Washington Wizards,Utah Jazz,"17-6, 12-2 Home","6-18, 2-9 Away",93,84,,,Final,,22,15,30,26,,24,18,16,26,,NBA
+400578680,2014,"December 19, 2014",Miami Heat,Washington Wizards,"12-15, 4-9 Home","19-6, 6-4 Away",103,105,,,Final,,25,30,24,24,,29,25,22,29,,NBA
+400578711,2014,"December 23, 2014",Washington Wizards,Chicago Bulls,"19-8, 13-4 Home","19-9, 13-4 Away",91,99,,,Final,,20,20,25,26,,21,25,24,29,,NBA
+400578737,2014,"December 27, 2014",Washington Wizards,Boston Celtics,"21-8, 14-4 Home","10-18, 3-9 Away",101,88,,,Final,,30,26,24,21,,12,27,24,25,,NBA
+400578762,2014,"December 30, 2014",Dallas Mavericks,Washington Wizards,"23-10, 13-5 Home","22-9, 8-5 Away",114,87,,,Final,,27,36,26,25,,24,21,19,23,,NBA
+400578791,2014,"January 03, 2015",San Antonio Spurs,Washington Wizards,"21-14, 12-5 Home","22-11, 8-7 Away",101,92,,,Final,,31,27,20,23,,35,23,19,15,,NBA
+400578817,2014,"January 07, 2015",Washington Wizards,New York Knicks,"24-11, 15-4 Home","5-33, 2-18 Away",101,91,,,Final,,30,23,24,24,,21,20,26,24,,NBA
+400578850,2014,"January 11, 2015",Atlanta Hawks,Washington Wizards,"29-8, 16-3 Home","25-12, 9-8 Away",120,89,,,Final,,34,21,32,33,,22,28,27,12,,NBA
+400578871,2014,"January 14, 2015",Chicago Bulls,Washington Wizards,"26-14, 12-9 Home","27-12, 10-8 Away",99,105,,,Final,ESPN,32,18,19,30,,26,18,32,29,,NBA
+400578897,2014,"January 17, 2015",Brooklyn Nets,Washington Wizards,"17-24, 8-14 Home","28-13, 11-8 Away",90,99,,,Final,,26,25,19,20,,23,27,27,22,,NBA
+400578925,2014,"January 21, 2015",Washington Wizards,Oklahoma City Thunder,"29-14, 18-6 Home","22-20, 10-13 Away",103,105,,,Final/OT,ESPN,31,19,20,22,11.0,26,12,28,26,13.0,NBA
+400578958,2014,"January 25, 2015",Denver Nuggets,Washington Wizards,"18-26, 12-12 Home","30-15, 12-9 Away",115,117,,,Final/OT,NBATV,26,33,25,21,10.0,28,31,24,22,12.0,NBA
+400578983,2014,"January 28, 2015",Phoenix Suns,Washington Wizards,"27-20, 14-9 Home","31-16, 13-10 Away",106,98,,,Final,ESPN,29,27,24,26,,17,22,27,32,,NBA
+400579011,2014,"February 02, 2015",Washington Wizards,Charlotte Hornets,"31-18, 18-8 Home","21-27, 9-14 Away",88,92,,,Final,,24,27,15,22,,28,25,17,22,,NBA
+400579034,2014,"February 05, 2015",Charlotte Hornets,Washington Wizards,"22-27, 13-13 Home","31-20, 13-12 Away",94,87,,,Final,,34,15,20,25,,30,24,20,13,,NBA
+400579068,2014,"February 09, 2015",Washington Wizards,Orlando Magic,"33-20, 20-8 Home","16-39, 10-21 Away",96,80,,,Final,,24,19,31,22,,16,19,19,26,,NBA
+400579101,2014,"February 20, 2015",Washington Wizards,Cleveland Cavaliers,"33-22, 20-9 Home","34-22, 13-13 Away",89,127,,,Final,ESPN,26,25,20,18,,35,30,29,33,,NBA
+400579130,2014,"February 24, 2015",Washington Wizards,Golden State Warriors,"33-24, 20-10 Home","44-10, 20-8 Away",107,114,,,Final,,28,23,32,24,,30,24,32,28,,NBA
+400579149,2014,"February 27, 2015",Philadelphia 76ers,Washington Wizards,"13-45, 8-20 Home","33-26, 13-16 Away",89,81,,,Final,,28,19,16,26,,25,17,19,20,,NBA
+400579185,2014,"March 03, 2015",Chicago Bulls,Washington Wizards,"38-23, 19-13 Home","34-27, 13-17 Away",97,92,,,Final,,24,27,23,23,,22,22,23,25,,NBA
+400579221,2014,"March 07, 2015",Milwaukee Bucks,Washington Wizards,"33-29, 18-11 Home","35-28, 13-18 Away",91,85,,,Final,,30,21,14,26,,19,20,24,22,,NBA
+400579255,2014,"March 12, 2015",Washington Wizards,Memphis Grizzlies,"37-28, 23-10 Home","45-20, 21-13 Away",107,87,,,Final,TNT,26,34,29,18,,33,14,24,16,,NBA
+400579283,2014,"March 16, 2015",Washington Wizards,Portland Trail Blazers,"39-28, 25-10 Home","44-21, 16-15 Away",105,97,,,Final,,27,33,21,24,,20,20,34,23,,NBA
+400579323,2014,"March 20, 2015",LA Clippers,Washington Wizards,"45-25, 26-10 Home","40-29, 15-19 Away",113,99,,,Final,,35,31,24,23,,21,33,23,22,,NBA
+400579345,2014,"March 23, 2015",Golden State Warriors,Washington Wizards,"57-13, 34-2 Home","40-31, 15-21 Away",107,76,,,Final,NBATV,27,25,29,26,,24,25,8,19,,NBA
+400579368,2014,"March 27, 2015",Washington Wizards,Charlotte Hornets,"41-32, 26-11 Home","30-41, 14-22 Away",110,107,,,Final/2OT,,28,31,16,21,14.0,19,35,25,17,11.0,NBA
+400579406,2014,"April 01, 2015",Washington Wizards,Philadelphia 76ers,"42-33, 27-12 Home","18-58, 6-32 Away",106,93,,,Final,,31,34,28,13,,21,21,20,31,,NBA
+400579433,2014,"April 04, 2015",Memphis Grizzlies,Washington Wizards,"52-25, 29-10 Home","44-33, 16-21 Away",83,92,,,Final,,18,20,21,24,,29,20,22,21,,NBA
+400579469,2014,"April 10, 2015",Brooklyn Nets,Washington Wizards,"37-42, 18-21 Home","45-34, 17-22 Away",117,80,,,Final,,31,23,21,42,,14,24,24,18,,NBA
+400579507,2014,"April 14, 2015",Indiana Pacers,Washington Wizards,"38-43, 23-18 Home","46-35, 17-23 Away",99,95,,,Final/2OT,TNT,16,17,23,25,18.0,16,25,18,22,14.0,NBA
+400579517,2014,"April 15, 2015",Cleveland Cavaliers,Washington Wizards,"53-29, 31-10 Home","46-36, 17-24 Away",113,108,,,Final/OT,,20,33,21,27,12.0,28,28,23,22,7.0,NBA

@@ -1,83 +1,83 @@
-,Unnamed: 0,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-0,0,131107005,1993,"Sun, Nov 7",Cleveland Cavaliers,New York Knicks,"0-2, 0-2 Home","2-0, 2-0 Away",107,115,,,Final/OT,,30,31,21,21,4.0,25,26,30,22,12.0,NBA
-1,1,131110027,1993,"Wed, Nov 10",Washington Bullets,New York Knicks,"1-3, 0-2 Home","4-0, 3-0 Away",84,92,,,Final,,20,19,23,22,,26,23,30,13,,NBA
-2,2,131113018,1993,"Sat, Nov 13",New York Knicks,Milwaukee Bucks,"6-0, 2-0 Home","1-5, 1-3 Away",99,86,,,Final,,32,18,28,21,,16,27,16,27,,NBA
-3,3,131117024,1993,"Wed, Nov 17",San Antonio Spurs,New York Knicks,"4-4, 3-1 Home","7-1, 5-1 Away",95,90,,,Final,,22,20,24,29,,29,18,25,18,,NBA
-4,4,131122018,1993,"Mon, Nov 22",New York Knicks,Miami Heat,"8-2, 3-1 Home","3-5, 2-2 Away",119,87,,,Final,,35,29,24,31,,19,20,29,19,,NBA
-5,5,131202018,1993,"Thu, Dec 2",New York Knicks,Houston Rockets,"9-3, 4-2 Home","15-0, 9-0 Away",85,94,,,Final,,28,13,20,24,,28,23,29,14,,NBA
-6,6,131206026,1993,"Mon, Dec 6",Utah Jazz,New York Knicks,"12-5, 8-2 Home","10-4, 5-2 Away",103,96,,,Final,,25,24,30,24,,29,30,12,25,,NBA
-7,7,131209009,1993,"Thu, Dec 9",Golden State Warriors,New York Knicks,"9-8, 4-6 Home","12-4, 7-2 Away",81,94,,,Final,,26,24,16,15,,28,27,16,23,,NBA
-8,8,131214018,1993,"Tue, Dec 14",New York Knicks,Denver Nuggets,"14-4, 7-2 Home","9-10, 2-8 Away",93,84,,,Final,,32,18,21,22,,26,21,16,21,,NBA
-9,9,131217004,1993,"Fri, Dec 17",Chicago Bulls,New York Knicks,"12-8, 5-2 Home","15-5, 7-3 Away",98,86,,,Final,,27,23,21,27,,21,18,24,23,,NBA
-10,10,131221017,1993,"Tue, Dec 21",New Jersey Nets,New York Knicks,"9-14, 7-6 Home","16-6, 7-4 Away",85,81,,,Final,,21,24,13,27,,23,17,19,22,,NBA
-11,11,131228018,1993,"Tue, Dec 28",New York Knicks,New Jersey Nets,"17-7, 10-3 Home","11-15, 3-9 Away",95,97,,,Final,,28,18,27,22,,20,19,23,35,,NBA
-12,12,140102018,1993,"Sun, Jan 2",New York Knicks,Charlotte Hornets,"18-8, 11-4 Home","17-12, 5-10 Away",123,124,,,Final/OT,,22,30,30,28,13.0,19,38,28,25,14.0,NBA
-13,13,140106015,1993,"Thu, Jan 6",Milwaukee Bucks,New York Knicks,"9-21, 3-10 Home","20-8, 8-4 Away",86,92,,,Final,,13,18,24,31,,28,20,21,23,,NBA
-14,14,140109018,1993,"Sun, Jan 9",New York Knicks,Portland Trail Blazers,"21-9, 13-4 Home","18-15, 7-10 Away",99,85,,,Final,,29,22,17,31,,23,22,15,25,,NBA
-15,15,140113008,1993,"Thu, Jan 13",Detroit Pistons,New York Knicks,"8-24, 5-14 Home","23-9, 9-5 Away",80,94,,,Final,,17,24,25,14,,23,26,22,23,,NBA
-16,16,140117018,1993,"Mon, Jan 17",New York Knicks,Minnesota Timberwolves,"25-9, 16-4 Home","12-23, 6-11 Away",106,94,,,Final,,32,24,18,32,,20,16,31,27,,NBA
-17,17,140121019,1993,"Fri, Jan 21",Orlando Magic,New York Knicks,"22-16, 14-5 Home","26-10, 9-6 Away",106,103,,,Final,,28,35,20,23,,30,30,27,16,,NBA
-18,18,140125018,1993,"Tue, Jan 25",New York Knicks,Phoenix Suns,"27-11, 18-5 Home","27-11, 10-8 Away",98,96,,,Final,,24,20,29,25,,24,26,26,20,,NBA
-19,19,140129025,1993,"Sat, Jan 29",Seattle SuperSonics,New York Knicks,"31-9, 18-3 Home","29-11, 11-6 Away",92,106,,,Final,,28,30,13,21,,26,25,32,23,,NBA
-20,20,140201018,1993,"Tue, Feb 1",New York Knicks,Boston Celtics,"31-11, 19-5 Home","20-24, 8-13 Away",114,79,,,Final,,31,29,29,25,,20,22,14,23,,NBA
-21,21,140204001,1993,"Fri, Feb 4",Atlanta Hawks,New York Knicks,"32-11, 20-3 Home","32-12, 13-7 Away",114,102,,,Final,,31,25,28,30,,21,27,21,33,,NBA
-22,22,140207014,1993,"Mon, Feb 7",Miami Heat,New York Knicks,"23-22, 11-12 Home","33-13, 13-8 Away",96,85,,,Final,,20,21,33,22,,34,18,12,21,,NBA
-23,23,140210018,1993,"Thu, Feb 10",New York Knicks,Golden State Warriors,"34-14, 20-6 Home","27-20, 14-10 Away",105,113,,,Final,,34,15,31,25,,29,25,28,31,,NBA
-24,24,140217005,1993,"Thu, Feb 17",Cleveland Cavaliers,New York Knicks,"25-24, 17-9 Home","35-15, 15-9 Away",95,102,,,Final,,26,20,29,20,,19,25,30,28,,NBA
-25,25,140222018,1993,"Tue, Feb 22",New York Knicks,Seattle SuperSonics,"36-16, 21-7 Home","37-13, 17-10 Away",82,93,,,Final,,17,16,17,32,,23,23,19,28,,NBA
-26,26,140225007,1993,"Fri, Feb 25",Denver Nuggets,New York Knicks,"27-27, 19-8 Home","36-18, 15-11 Away",102,94,,,Final,,26,21,28,27,,24,25,24,21,,NBA
-27,27,140301023,1993,"Tue, Mar 1",Sacramento Kings,New York Knicks,"19-36, 15-13 Home","37-19, 16-12 Away",88,100,,,Final,,21,21,23,23,,19,30,22,29,,NBA
-28,28,140307008,1993,"Mon, Mar 7",Detroit Pistons,New York Knicks,"13-45, 7-24 Home","39-19, 17-12 Away",85,99,,,Final,,24,21,28,12,,22,15,23,39,,NBA
-29,29,140311002,1993,"Fri, Mar 11",Boston Celtics,New York Knicks,"22-37, 13-17 Home","41-19, 19-12 Away",83,90,,,Final,,19,15,25,24,,26,18,19,27,,NBA
-30,30,140315018,1993,"Tue, Mar 15",New York Knicks,Indiana Pacers,"43-19, 24-7 Home","32-28, 13-19 Away",88,82,,,Final,,27,21,22,18,,27,17,17,21,,NBA
-31,31,140319018,1993,"Sat, Mar 19",New York Knicks,Boston Celtics,"45-19, 26-7 Home","22-41, 9-22 Away",105,91,,,Final,,33,23,24,25,,32,21,26,12,,NBA
-32,32,140324016,1993,"Thu, Mar 24",Minnesota Timberwolves,New York Knicks,"19-48, 12-24 Home","47-19, 20-12 Away",106,123,,,Final,,25,24,34,23,,39,29,31,24,,NBA
-33,33,140327019,1993,"Sun, Mar 27",Orlando Magic,New York Knicks,"40-28, 25-9 Home","49-19, 22-12 Away",90,111,,,Final,,22,20,31,17,,28,29,24,30,,NBA
-34,34,140402018,1993,"Sat, Apr 2",New York Knicks,Miami Heat,"51-19, 29-7 Home","38-34, 19-18 Away",110,87,,,Final,,25,31,28,26,,25,22,17,23,,NBA
-35,35,140407018,1993,"Thu, Apr 7",New York Knicks,Cleveland Cavaliers,"52-20, 30-7 Home","42-32, 15-22 Away",97,94,,,Final/OT,,22,24,28,15,8.0,27,21,26,15,5.0,NBA
-36,36,140410017,1993,"Sun, Apr 10",New Jersey Nets,New York Knicks,"40-35, 27-12 Home","52-22, 22-15 Away",107,88,,,Final,,33,20,29,25,,23,18,23,24,,NBA
-37,37,140414027,1993,"Thu, Apr 14",Washington Bullets,New York Knicks,"22-54, 15-23 Home","53-23, 23-15 Away",106,111,,,Final,,25,26,33,22,,31,22,30,28,,NBA
-38,38,140417003,1993,"Sun, Apr 17",Charlotte Hornets,New York Knicks,"38-40, 26-13 Home","54-24, 23-16 Away",107,91,,,Final,,27,30,30,20,,21,26,30,14,,NBA
-39,39,140421018,1993,"Thu, Apr 21",New York Knicks,Philadelphia 76ers,"55-25, 32-9 Home","24-56, 10-30 Away",130,82,,,Final,,32,23,41,34,,22,23,18,19,,NBA
-40,40,131105002,1993,"Fri, Nov 5",Boston Celtics,New York Knicks,"0-1, 0-1 Home","1-0, 1-0 Away",108,111,,,Final,,30,18,22,38,,27,30,29,25,,NBA
-41,41,131109018,1993,"Tue, Nov 9",New York Knicks,Philadelphia 76ers,"3-0, 1-0 Home","1-2, 0-2 Away",95,86,,,Final,,18,24,30,23,,21,10,22,33,,NBA
-42,42,131112011,1993,"Fri, Nov 12",Indiana Pacers,New York Knicks,"1-4, 0-2 Home","5-0, 4-0 Away",84,103,,,Final,,32,18,16,18,,25,26,21,31,,NBA
-43,43,131116006,1993,"Tue, Nov 16",Dallas Mavericks,New York Knicks,"1-5, 0-4 Home","7-0, 5-0 Away",90,103,,,Final,,23,17,17,33,,33,22,27,21,,NBA
-44,44,131120018,1993,"Sat, Nov 20",New York Knicks,Utah Jazz,"7-2, 2-1 Home","7-3, 4-2 Away",72,86,,,Final,,18,18,22,14,,16,22,16,32,,NBA
-45,45,131127018,1993,"Sat, Nov 27",New York Knicks,Detroit Pistons,"9-2, 4-1 Home","5-6, 1-4 Away",112,85,,,Final,,28,25,33,26,,22,21,21,21,,NBA
-46,46,131204018,1993,"Sat, Dec 4",New York Knicks,Sacramento Kings,"10-3, 5-2 Home","4-11, 0-7 Away",123,101,,,Final,,32,33,30,28,,28,23,26,24,,NBA
-47,47,131207013,1993,"Tue, Dec 7",Los Angeles Lakers,New York Knicks,"7-11, 4-5 Home","11-4, 6-2 Away",78,92,,,Final,,18,13,23,24,,25,24,10,33,,NBA
-48,48,131211018,1993,"Sat, Dec 11",New York Knicks,Indiana Pacers,"13-4, 6-2 Home","7-11, 4-5 Away",98,91,,,Final,,22,27,23,26,,13,31,22,25,,NBA
-49,49,131216018,1993,"Thu, Dec 16",New York Knicks,Los Angeles Lakers,"15-4, 8-2 Home","8-14, 4-8 Away",108,85,,,Final,,32,25,30,21,,20,22,28,15,,NBA
-50,50,131220018,1993,"Mon, Dec 20",New York Knicks,Dallas Mavericks,"16-5, 9-2 Home","1-23, 1-11 Away",101,92,,,Final,,29,19,38,15,,19,20,21,32,,NBA
-51,51,131223018,1993,"Thu, Dec 23",New York Knicks,Atlanta Hawks,"17-6, 10-2 Home","17-6, 7-5 Away",84,75,,,Final,,27,18,8,31,,20,10,25,20,,NBA
-52,52,131230018,1993,"Thu, Dec 30",New York Knicks,Washington Bullets,"18-7, 11-3 Home","8-20, 3-12 Away",102,84,,,Final,,26,26,22,28,,21,18,25,20,,NBA
-53,53,140104018,1993,"Tue, Jan 4",New York Knicks,Orlando Magic,"19-8, 12-4 Home","16-13, 7-9 Away",100,95,,,Final,,26,19,26,29,,20,19,26,30,,NBA
-54,54,140108003,1993,"Sat, Jan 8",Charlotte Hornets,New York Knicks,"18-14, 13-3 Home","20-9, 8-5 Away",102,99,,,Final,,17,32,26,27,,35,18,21,25,,NBA
-55,55,140111018,1993,"Tue, Jan 11",New York Knicks,Los Angeles Clippers,"22-9, 14-4 Home","11-20, 3-11 Away",98,77,,,Final,,23,21,29,25,,18,26,15,18,,NBA
-56,56,140115018,1993,"Sat, Jan 15",New York Knicks,Detroit Pistons,"24-9, 15-4 Home","8-25, 3-11 Away",97,88,,,Final,,34,18,12,33,,21,24,24,19,,NBA
-57,57,140119018,1993,"Wed, Jan 19",New York Knicks,San Antonio Spurs,"26-9, 17-4 Home","26-13, 12-9 Away",120,108,,,Final,,33,30,26,31,,23,20,27,38,,NBA
-58,58,140123018,1993,"Sun, Jan 23",New York Knicks,Philadelphia 76ers,"26-11, 17-5 Home","16-23, 7-14 Away",92,99,,,Final,,25,26,26,15,,18,25,30,26,,NBA
-59,59,140127012,1993,"Thu, Jan 27",Los Angeles Clippers,New York Knicks,"14-25, 8-11 Home","28-11, 10-6 Away",101,103,,,Final,,30,27,24,20,,25,23,27,28,,NBA
-60,60,140130022,1993,"Sun, Jan 30",Portland Trail Blazers,New York Knicks,"25-17, 17-6 Home","30-11, 12-6 Away",93,103,,,Final,,21,25,26,21,,20,33,24,26,,NBA
-61,61,140202027,1993,"Wed, Feb 2",Washington Bullets,New York Knicks,"14-29, 10-12 Home","32-11, 13-6 Away",80,85,,,Final,,22,19,20,19,,22,17,22,24,,NBA
-62,62,140206018,1993,"Sun, Feb 6",New York Knicks,Orlando Magic,"33-12, 20-5 Home","26-20, 11-13 Away",95,77,,,Final,,21,21,25,28,,17,26,19,15,,NBA
-63,63,140209020,1993,"Wed, Feb 9",Philadelphia 76ers,New York Knicks,"20-27, 12-13 Home","34-13, 14-8 Away",79,114,,,Final,,26,17,21,15,,37,24,20,33,,NBA
-64,64,140215017,1993,"Tue, Feb 15",New Jersey Nets,New York Knicks,"23-24, 15-9 Home","34-15, 14-9 Away",103,83,,,Final,,32,23,24,24,,25,13,28,17,,NBA
-65,65,140220018,1993,"Sun, Feb 20",New York Knicks,Chicago Bulls,"36-15, 21-6 Home","34-16, 16-12 Away",86,68,,,Final,,19,31,20,16,,15,13,24,16,,NBA
-66,66,140224010,1993,"Thu, Feb 24",Houston Rockets,New York Knicks,"38-13, 21-3 Home","36-17, 15-10 Away",93,73,,,Final,,32,17,21,23,,21,23,13,16,,NBA
-67,67,140227021,1993,"Sun, Feb 27",Phoenix Suns,New York Knicks,"36-17, 24-3 Home","36-19, 15-12 Away",92,78,,,Final,,26,19,20,27,,26,12,22,18,,NBA
-68,68,140303018,1993,"Thu, Mar 3",New York Knicks,New Jersey Nets,"38-19, 22-7 Home","29-27, 11-17 Away",97,86,,,Final,,25,27,19,26,,22,22,28,14,,NBA
-69,69,140309001,1993,"Wed, Mar 9",Atlanta Hawks,New York Knicks,"41-18, 26-4 Home","40-19, 18-12 Away",83,90,,,Final,,23,22,21,17,,26,18,16,30,,NBA
-70,70,140312018,1993,"Sat, Mar 12",New York Knicks,Cleveland Cavaliers,"42-19, 23-7 Home","36-26, 13-17 Away",96,86,,,Final,,28,18,25,25,,18,21,18,29,,NBA
-71,71,140317018,1993,"Thu, Mar 17",New York Knicks,Milwaukee Bucks,"44-19, 25-7 Home","17-46, 9-21 Away",105,83,,,Final,,23,30,26,26,,20,20,28,15,,NBA
-72,72,140322018,1993,"Tue, Mar 22",New York Knicks,Chicago Bulls,"46-19, 27-7 Home","43-23, 19-15 Away",87,78,,,Final,,24,18,26,19,,23,21,18,16,,NBA
-73,73,140325011,1993,"Fri, Mar 25",Indiana Pacers,New York Knicks,"35-31, 22-11 Home","48-19, 21-12 Away",82,85,,,Final,,14,24,19,25,,22,23,21,19,,NBA
-74,74,140329018,1993,"Tue, Mar 29",New York Knicks,Charlotte Hornets,"50-19, 28-7 Home","31-37, 9-25 Away",106,95,,,Final,,25,26,25,30,,32,18,20,25,,NBA
-75,75,140405014,1993,"Tue, Apr 5",Miami Heat,New York Knicks,"39-34, 20-16 Home","51-20, 22-13 Away",100,86,,,Final,,22,34,19,25,,24,21,21,20,,NBA
-76,76,140408020,1993,"Fri, Apr 8",Philadelphia 76ers,New York Knicks,"23-51, 14-23 Home","52-21, 22-14 Away",100,97,,,Final,,29,34,17,20,,13,32,29,23,,NBA
-77,77,140411018,1993,"Mon, Apr 11",New York Knicks,Orlando Magic,"52-23, 30-8 Home","46-29, 18-20 Away",100,108,,,Final,,28,21,25,26,,26,25,29,28,,NBA
-78,78,140415018,1993,"Fri, Apr 15",New York Knicks,Washington Bullets,"54-23, 31-8 Home","22-55, 7-32 Away",103,90,,,Final,,31,24,22,26,,29,25,22,14,,NBA
-79,79,140419018,1993,"Tue, Apr 19",New York Knicks,Atlanta Hawks,"54-25, 31-9 Home","56-24, 21-19 Away",84,87,,,Final,,24,14,21,25,,13,27,22,25,,NBA
-80,80,140422015,1993,"Fri, Apr 22",Milwaukee Bucks,New York Knicks,"20-61, 11-30 Home","56-25, 24-16 Away",85,125,,,Final,,29,17,19,20,,32,29,31,33,,NBA
-81,81,140424004,1993,"Sun, Apr 24",Chicago Bulls,New York Knicks,"55-27, 31-10 Home","57-25, 25-16 Away",76,92,,,Final,,19,22,17,18,,25,19,23,25,,NBA
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+131107005,1993,"November 07, 1993",Cleveland Cavaliers,New York Knicks,"0-2, 0-2 Home","2-0, 2-0 Away",107,115,,,Final/OT,,30,31,21,21,4.0,25,26,30,22,12.0,NBA
+131110027,1993,"November 10, 1993",Washington Bullets,New York Knicks,"1-3, 0-2 Home","4-0, 3-0 Away",84,92,,,Final,,20,19,23,22,,26,23,30,13,,NBA
+131113018,1993,"November 13, 1993",New York Knicks,Milwaukee Bucks,"6-0, 2-0 Home","1-5, 1-3 Away",99,86,,,Final,,32,18,28,21,,16,27,16,27,,NBA
+131117024,1993,"November 17, 1993",San Antonio Spurs,New York Knicks,"4-4, 3-1 Home","7-1, 5-1 Away",95,90,,,Final,,22,20,24,29,,29,18,25,18,,NBA
+131122018,1993,"November 22, 1993",New York Knicks,Miami Heat,"8-2, 3-1 Home","3-5, 2-2 Away",119,87,,,Final,,35,29,24,31,,19,20,29,19,,NBA
+131202018,1993,"December 02, 1993",New York Knicks,Houston Rockets,"9-3, 4-2 Home","15-0, 9-0 Away",85,94,,,Final,,28,13,20,24,,28,23,29,14,,NBA
+131206026,1993,"December 06, 1993",Utah Jazz,New York Knicks,"12-5, 8-2 Home","10-4, 5-2 Away",103,96,,,Final,,25,24,30,24,,29,30,12,25,,NBA
+131209009,1993,"December 09, 1993",Golden State Warriors,New York Knicks,"9-8, 4-6 Home","12-4, 7-2 Away",81,94,,,Final,,26,24,16,15,,28,27,16,23,,NBA
+131214018,1993,"December 14, 1993",New York Knicks,Denver Nuggets,"14-4, 7-2 Home","9-10, 2-8 Away",93,84,,,Final,,32,18,21,22,,26,21,16,21,,NBA
+131217004,1993,"December 17, 1993",Chicago Bulls,New York Knicks,"12-8, 5-2 Home","15-5, 7-3 Away",98,86,,,Final,,27,23,21,27,,21,18,24,23,,NBA
+131221017,1993,"December 21, 1993",New Jersey Nets,New York Knicks,"9-14, 7-6 Home","16-6, 7-4 Away",85,81,,,Final,,21,24,13,27,,23,17,19,22,,NBA
+131228018,1993,"December 28, 1993",New York Knicks,New Jersey Nets,"17-7, 10-3 Home","11-15, 3-9 Away",95,97,,,Final,,28,18,27,22,,20,19,23,35,,NBA
+140102018,1993,"January 02, 1994",New York Knicks,Charlotte Hornets,"18-8, 11-4 Home","17-12, 5-10 Away",123,124,,,Final/OT,,22,30,30,28,13.0,19,38,28,25,14.0,NBA
+140106015,1993,"January 06, 1994",Milwaukee Bucks,New York Knicks,"9-21, 3-10 Home","20-8, 8-4 Away",86,92,,,Final,,13,18,24,31,,28,20,21,23,,NBA
+140109018,1993,"January 09, 1994",New York Knicks,Portland Trail Blazers,"21-9, 13-4 Home","18-15, 7-10 Away",99,85,,,Final,,29,22,17,31,,23,22,15,25,,NBA
+140113008,1993,"January 13, 1994",Detroit Pistons,New York Knicks,"8-24, 5-14 Home","23-9, 9-5 Away",80,94,,,Final,,17,24,25,14,,23,26,22,23,,NBA
+140117018,1993,"January 17, 1994",New York Knicks,Minnesota Timberwolves,"25-9, 16-4 Home","12-23, 6-11 Away",106,94,,,Final,,32,24,18,32,,20,16,31,27,,NBA
+140121019,1993,"January 21, 1994",Orlando Magic,New York Knicks,"22-16, 14-5 Home","26-10, 9-6 Away",106,103,,,Final,,28,35,20,23,,30,30,27,16,,NBA
+140125018,1993,"January 25, 1994",New York Knicks,Phoenix Suns,"27-11, 18-5 Home","27-11, 10-8 Away",98,96,,,Final,,24,20,29,25,,24,26,26,20,,NBA
+140129025,1993,"January 29, 1994",Seattle SuperSonics,New York Knicks,"31-9, 18-3 Home","29-11, 11-6 Away",92,106,,,Final,,28,30,13,21,,26,25,32,23,,NBA
+140201018,1993,"February 01, 1994",New York Knicks,Boston Celtics,"31-11, 19-5 Home","20-24, 8-13 Away",114,79,,,Final,,31,29,29,25,,20,22,14,23,,NBA
+140204001,1993,"February 04, 1994",Atlanta Hawks,New York Knicks,"32-11, 20-3 Home","32-12, 13-7 Away",114,102,,,Final,,31,25,28,30,,21,27,21,33,,NBA
+140207014,1993,"February 07, 1994",Miami Heat,New York Knicks,"23-22, 11-12 Home","33-13, 13-8 Away",96,85,,,Final,,20,21,33,22,,34,18,12,21,,NBA
+140210018,1993,"February 10, 1994",New York Knicks,Golden State Warriors,"34-14, 20-6 Home","27-20, 14-10 Away",105,113,,,Final,,34,15,31,25,,29,25,28,31,,NBA
+140217005,1993,"February 17, 1994",Cleveland Cavaliers,New York Knicks,"25-24, 17-9 Home","35-15, 15-9 Away",95,102,,,Final,,26,20,29,20,,19,25,30,28,,NBA
+140222018,1993,"February 22, 1994",New York Knicks,Seattle SuperSonics,"36-16, 21-7 Home","37-13, 17-10 Away",82,93,,,Final,,17,16,17,32,,23,23,19,28,,NBA
+140225007,1993,"February 25, 1994",Denver Nuggets,New York Knicks,"27-27, 19-8 Home","36-18, 15-11 Away",102,94,,,Final,,26,21,28,27,,24,25,24,21,,NBA
+140301023,1993,"March 01, 1994",Sacramento Kings,New York Knicks,"19-36, 15-13 Home","37-19, 16-12 Away",88,100,,,Final,,21,21,23,23,,19,30,22,29,,NBA
+140307008,1993,"March 07, 1994",Detroit Pistons,New York Knicks,"13-45, 7-24 Home","39-19, 17-12 Away",85,99,,,Final,,24,21,28,12,,22,15,23,39,,NBA
+140311002,1993,"March 11, 1994",Boston Celtics,New York Knicks,"22-37, 13-17 Home","41-19, 19-12 Away",83,90,,,Final,,19,15,25,24,,26,18,19,27,,NBA
+140315018,1993,"March 15, 1994",New York Knicks,Indiana Pacers,"43-19, 24-7 Home","32-28, 13-19 Away",88,82,,,Final,,27,21,22,18,,27,17,17,21,,NBA
+140319018,1993,"March 19, 1994",New York Knicks,Boston Celtics,"45-19, 26-7 Home","22-41, 9-22 Away",105,91,,,Final,,33,23,24,25,,32,21,26,12,,NBA
+140324016,1993,"March 24, 1994",Minnesota Timberwolves,New York Knicks,"19-48, 12-24 Home","47-19, 20-12 Away",106,123,,,Final,,25,24,34,23,,39,29,31,24,,NBA
+140327019,1993,"March 27, 1994",Orlando Magic,New York Knicks,"40-28, 25-9 Home","49-19, 22-12 Away",90,111,,,Final,,22,20,31,17,,28,29,24,30,,NBA
+140402018,1993,"April 02, 1994",New York Knicks,Miami Heat,"51-19, 29-7 Home","38-34, 19-18 Away",110,87,,,Final,,25,31,28,26,,25,22,17,23,,NBA
+140407018,1993,"April 07, 1994",New York Knicks,Cleveland Cavaliers,"52-20, 30-7 Home","42-32, 15-22 Away",97,94,,,Final/OT,,22,24,28,15,8.0,27,21,26,15,5.0,NBA
+140410017,1993,"April 10, 1994",New Jersey Nets,New York Knicks,"40-35, 27-12 Home","52-22, 22-15 Away",107,88,,,Final,,33,20,29,25,,23,18,23,24,,NBA
+140414027,1993,"April 14, 1994",Washington Bullets,New York Knicks,"22-54, 15-23 Home","53-23, 23-15 Away",106,111,,,Final,,25,26,33,22,,31,22,30,28,,NBA
+140417003,1993,"April 17, 1994",Charlotte Hornets,New York Knicks,"38-40, 26-13 Home","54-24, 23-16 Away",107,91,,,Final,,27,30,30,20,,21,26,30,14,,NBA
+140421018,1993,"April 21, 1994",New York Knicks,Philadelphia 76ers,"55-25, 32-9 Home","24-56, 10-30 Away",130,82,,,Final,,32,23,41,34,,22,23,18,19,,NBA
+131105002,1993,"November 05, 1993",Boston Celtics,New York Knicks,"0-1, 0-1 Home","1-0, 1-0 Away",108,111,,,Final,,30,18,22,38,,27,30,29,25,,NBA
+131109018,1993,"November 09, 1993",New York Knicks,Philadelphia 76ers,"3-0, 1-0 Home","1-2, 0-2 Away",95,86,,,Final,,18,24,30,23,,21,10,22,33,,NBA
+131112011,1993,"November 12, 1993",Indiana Pacers,New York Knicks,"1-4, 0-2 Home","5-0, 4-0 Away",84,103,,,Final,,32,18,16,18,,25,26,21,31,,NBA
+131116006,1993,"November 16, 1993",Dallas Mavericks,New York Knicks,"1-5, 0-4 Home","7-0, 5-0 Away",90,103,,,Final,,23,17,17,33,,33,22,27,21,,NBA
+131120018,1993,"November 20, 1993",New York Knicks,Utah Jazz,"7-2, 2-1 Home","7-3, 4-2 Away",72,86,,,Final,,18,18,22,14,,16,22,16,32,,NBA
+131127018,1993,"November 27, 1993",New York Knicks,Detroit Pistons,"9-2, 4-1 Home","5-6, 1-4 Away",112,85,,,Final,,28,25,33,26,,22,21,21,21,,NBA
+131204018,1993,"December 04, 1993",New York Knicks,Sacramento Kings,"10-3, 5-2 Home","4-11, 0-7 Away",123,101,,,Final,,32,33,30,28,,28,23,26,24,,NBA
+131207013,1993,"December 07, 1993",Los Angeles Lakers,New York Knicks,"7-11, 4-5 Home","11-4, 6-2 Away",78,92,,,Final,,18,13,23,24,,25,24,10,33,,NBA
+131211018,1993,"December 11, 1993",New York Knicks,Indiana Pacers,"13-4, 6-2 Home","7-11, 4-5 Away",98,91,,,Final,,22,27,23,26,,13,31,22,25,,NBA
+131216018,1993,"December 16, 1993",New York Knicks,Los Angeles Lakers,"15-4, 8-2 Home","8-14, 4-8 Away",108,85,,,Final,,32,25,30,21,,20,22,28,15,,NBA
+131220018,1993,"December 20, 1993",New York Knicks,Dallas Mavericks,"16-5, 9-2 Home","1-23, 1-11 Away",101,92,,,Final,,29,19,38,15,,19,20,21,32,,NBA
+131223018,1993,"December 23, 1993",New York Knicks,Atlanta Hawks,"17-6, 10-2 Home","17-6, 7-5 Away",84,75,,,Final,,27,18,8,31,,20,10,25,20,,NBA
+131230018,1993,"December 30, 1993",New York Knicks,Washington Bullets,"18-7, 11-3 Home","8-20, 3-12 Away",102,84,,,Final,,26,26,22,28,,21,18,25,20,,NBA
+140104018,1993,"January 04, 1994",New York Knicks,Orlando Magic,"19-8, 12-4 Home","16-13, 7-9 Away",100,95,,,Final,,26,19,26,29,,20,19,26,30,,NBA
+140108003,1993,"January 08, 1994",Charlotte Hornets,New York Knicks,"18-14, 13-3 Home","20-9, 8-5 Away",102,99,,,Final,,17,32,26,27,,35,18,21,25,,NBA
+140111018,1993,"January 11, 1994",New York Knicks,Los Angeles Clippers,"22-9, 14-4 Home","11-20, 3-11 Away",98,77,,,Final,,23,21,29,25,,18,26,15,18,,NBA
+140115018,1993,"January 15, 1994",New York Knicks,Detroit Pistons,"24-9, 15-4 Home","8-25, 3-11 Away",97,88,,,Final,,34,18,12,33,,21,24,24,19,,NBA
+140119018,1993,"January 19, 1994",New York Knicks,San Antonio Spurs,"26-9, 17-4 Home","26-13, 12-9 Away",120,108,,,Final,,33,30,26,31,,23,20,27,38,,NBA
+140123018,1993,"January 23, 1994",New York Knicks,Philadelphia 76ers,"26-11, 17-5 Home","16-23, 7-14 Away",92,99,,,Final,,25,26,26,15,,18,25,30,26,,NBA
+140127012,1993,"January 27, 1994",Los Angeles Clippers,New York Knicks,"14-25, 8-11 Home","28-11, 10-6 Away",101,103,,,Final,,30,27,24,20,,25,23,27,28,,NBA
+140130022,1993,"January 30, 1994",Portland Trail Blazers,New York Knicks,"25-17, 17-6 Home","30-11, 12-6 Away",93,103,,,Final,,21,25,26,21,,20,33,24,26,,NBA
+140202027,1993,"February 02, 1994",Washington Bullets,New York Knicks,"14-29, 10-12 Home","32-11, 13-6 Away",80,85,,,Final,,22,19,20,19,,22,17,22,24,,NBA
+140206018,1993,"February 06, 1994",New York Knicks,Orlando Magic,"33-12, 20-5 Home","26-20, 11-13 Away",95,77,,,Final,,21,21,25,28,,17,26,19,15,,NBA
+140209020,1993,"February 09, 1994",Philadelphia 76ers,New York Knicks,"20-27, 12-13 Home","34-13, 14-8 Away",79,114,,,Final,,26,17,21,15,,37,24,20,33,,NBA
+140215017,1993,"February 15, 1994",New Jersey Nets,New York Knicks,"23-24, 15-9 Home","34-15, 14-9 Away",103,83,,,Final,,32,23,24,24,,25,13,28,17,,NBA
+140220018,1993,"February 20, 1994",New York Knicks,Chicago Bulls,"36-15, 21-6 Home","34-16, 16-12 Away",86,68,,,Final,,19,31,20,16,,15,13,24,16,,NBA
+140224010,1993,"February 24, 1994",Houston Rockets,New York Knicks,"38-13, 21-3 Home","36-17, 15-10 Away",93,73,,,Final,,32,17,21,23,,21,23,13,16,,NBA
+140227021,1993,"February 27, 1994",Phoenix Suns,New York Knicks,"36-17, 24-3 Home","36-19, 15-12 Away",92,78,,,Final,,26,19,20,27,,26,12,22,18,,NBA
+140303018,1993,"March 03, 1994",New York Knicks,New Jersey Nets,"38-19, 22-7 Home","29-27, 11-17 Away",97,86,,,Final,,25,27,19,26,,22,22,28,14,,NBA
+140309001,1993,"March 09, 1994",Atlanta Hawks,New York Knicks,"41-18, 26-4 Home","40-19, 18-12 Away",83,90,,,Final,,23,22,21,17,,26,18,16,30,,NBA
+140312018,1993,"March 12, 1994",New York Knicks,Cleveland Cavaliers,"42-19, 23-7 Home","36-26, 13-17 Away",96,86,,,Final,,28,18,25,25,,18,21,18,29,,NBA
+140317018,1993,"March 17, 1994",New York Knicks,Milwaukee Bucks,"44-19, 25-7 Home","17-46, 9-21 Away",105,83,,,Final,,23,30,26,26,,20,20,28,15,,NBA
+140322018,1993,"March 22, 1994",New York Knicks,Chicago Bulls,"46-19, 27-7 Home","43-23, 19-15 Away",87,78,,,Final,,24,18,26,19,,23,21,18,16,,NBA
+140325011,1993,"March 25, 1994",Indiana Pacers,New York Knicks,"35-31, 22-11 Home","48-19, 21-12 Away",82,85,,,Final,,14,24,19,25,,22,23,21,19,,NBA
+140329018,1993,"March 29, 1994",New York Knicks,Charlotte Hornets,"50-19, 28-7 Home","31-37, 9-25 Away",106,95,,,Final,,25,26,25,30,,32,18,20,25,,NBA
+140405014,1993,"April 05, 1994",Miami Heat,New York Knicks,"39-34, 20-16 Home","51-20, 22-13 Away",100,86,,,Final,,22,34,19,25,,24,21,21,20,,NBA
+140408020,1993,"April 08, 1994",Philadelphia 76ers,New York Knicks,"23-51, 14-23 Home","52-21, 22-14 Away",100,97,,,Final,,29,34,17,20,,13,32,29,23,,NBA
+140411018,1993,"April 11, 1994",New York Knicks,Orlando Magic,"52-23, 30-8 Home","46-29, 18-20 Away",100,108,,,Final,,28,21,25,26,,26,25,29,28,,NBA
+140415018,1993,"April 15, 1994",New York Knicks,Washington Bullets,"54-23, 31-8 Home","22-55, 7-32 Away",103,90,,,Final,,31,24,22,26,,29,25,22,14,,NBA
+140419018,1993,"April 19, 1994",New York Knicks,Atlanta Hawks,"54-25, 31-9 Home","56-24, 21-19 Away",84,87,,,Final,,24,14,21,25,,13,27,22,25,,NBA
+140422015,1993,"April 22, 1994",Milwaukee Bucks,New York Knicks,"20-61, 11-30 Home","56-25, 24-16 Away",85,125,,,Final,,29,17,19,20,,32,29,31,33,,NBA
+140424004,1993,"April 24, 1994",Chicago Bulls,New York Knicks,"55-27, 31-10 Home","57-25, 25-16 Away",76,92,,,Final,,19,22,17,18,,25,19,23,25,,NBA

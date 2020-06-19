@@ -1,83 +1,83 @@
-,Unnamed: 0,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-0,0,400277741,2012,"Fri, Nov 2",New Orleans Hornets,Utah Jazz,"1-1, 1-1 Home","1-1, 0-1 Away",88,86,,,Final,,19,21,27,21,,19,22,22,23,,NBA
-1,1,400277778,2012,"Wed, Nov 7",New Orleans Hornets,Philadelphia 76ers,"2-2, 1-2 Home","2-2, 1-1 Away",62,77,,,Final,,19,18,10,15,,16,20,21,20,,NBA
-2,2,400277832,2012,"Wed, Nov 14",Houston Rockets,New Orleans Hornets,"4-4, 2-3 Home","3-3, 1-1 Away",100,96,,,Final,,25,39,21,15,,27,18,31,20,,NBA
-3,3,400277856,2012,"Sat, Nov 17",Milwaukee Bucks,New Orleans Hornets,"6-2, 3-2 Home","3-5, 1-2 Away",117,113,,,Final,,25,35,31,26,,27,31,33,22,,NBA
-4,4,400277880,2012,"Wed, Nov 21",Indiana Pacers,New Orleans Hornets,"6-7, 4-1 Home","3-7, 1-3 Away",115,107,,,Final/OT,,21,22,32,22,18.0,29,18,27,23,10.0,NBA
-5,5,400277916,2012,"Sun, Nov 25",Denver Nuggets,New Orleans Hornets,"8-6, 4-1 Home","3-9, 1-5 Away",102,84,,,Final,,26,25,32,19,,23,18,20,23,,NBA
-6,6,400277937,2012,"Wed, Nov 28",New Orleans Hornets,Utah Jazz,"4-10, 2-5 Home","9-7, 3-7 Away",84,96,,,Final,,20,19,17,28,,20,21,31,24,,NBA
-7,7,400277967,2012,"Mon, Dec 3",New Orleans Hornets,Milwaukee Bucks,"5-11, 3-6 Home","8-8, 4-4 Away",102,81,,,Final,,30,23,24,25,,28,22,17,14,,NBA
-8,8,400277995,2012,"Fri, Dec 7",New Orleans Hornets,Memphis Grizzlies,"5-13, 3-8 Home","14-3, 5-2 Away",89,96,,,Final,,17,22,27,23,,22,29,20,25,,NBA
-9,9,400278027,2012,"Tue, Dec 11",New Orleans Hornets,Washington Wizards,"5-15, 3-9 Home","3-15, 1-8 Away",70,77,,,Final,,22,20,18,10,,11,25,20,21,,NBA
-10,10,400278051,2012,"Fri, Dec 14",New Orleans Hornets,Minnesota Timberwolves,"5-17, 3-10 Home","11-9, 5-6 Away",102,113,,,Final,,23,27,23,29,,28,22,32,31,,NBA
-11,11,400278085,2012,"Tue, Dec 18",Golden State Warriors,New Orleans Hornets,"17-8, 7-3 Home","5-19, 2-9 Away",103,96,,,Final,,31,28,23,21,,21,29,22,24,,NBA
-12,12,400278107,2012,"Fri, Dec 21",San Antonio Spurs,New Orleans Hornets,"20-8, 9-2 Home","5-21, 2-11 Away",99,94,,,Final,,26,28,18,27,,21,21,19,33,,NBA
-13,13,400278132,2012,"Wed, Dec 26",Orlando Magic,New Orleans Hornets,"12-16, 7-8 Home","6-22, 3-11 Away",94,97,,,Final,,24,29,23,18,,26,23,29,19,,NBA
-14,14,400278157,2012,"Sat, Dec 29",Charlotte Bobcats,New Orleans Hornets,"7-23, 5-12 Home","7-23, 4-11 Away",95,98,,,Final,NBATV,25,32,16,22,,22,18,33,25,,NBA
-15,15,400278191,2012,"Wed, Jan 2",Houston Rockets,New Orleans Hornets,"18-14, 13-6 Home","7-25, 4-12 Away",104,92,,,Final,,21,28,25,30,,23,21,22,26,,NBA
-16,16,400278227,2012,"Mon, Jan 7",New Orleans Hornets,San Antonio Spurs,"9-25, 4-13 Home","27-10, 13-8 Away",95,88,,,Final,,24,25,21,25,,19,22,24,23,,NBA
-17,17,400278256,2012,"Fri, Jan 11",New Orleans Hornets,Minnesota Timberwolves,"11-25, 6-13 Home","16-17, 6-12 Away",104,92,,,Final,,14,26,30,34,,29,17,15,31,,NBA
-18,18,400278284,2012,"Tue, Jan 15",Philadelphia 76ers,New Orleans Hornets,"16-23, 10-9 Home","12-26, 6-13 Away",99,111,,,Final,,28,19,21,31,,35,18,33,25,,NBA
-19,19,400278316,2012,"Sat, Jan 19",New Orleans Hornets,Golden State Warriors,"13-27, 6-14 Home","24-15, 12-9 Away",112,116,,,Final,,27,30,32,23,,33,34,18,31,,NBA
-20,20,400278344,2012,"Wed, Jan 23",San Antonio Spurs,New Orleans Hornets,"34-11, 19-2 Home","14-28, 7-14 Away",106,102,,,Final,,32,28,18,28,,35,29,15,23,,NBA
-21,21,400278375,2012,"Sun, Jan 27",Memphis Grizzlies,New Orleans Hornets,"28-15, 17-7 Home","15-29, 8-14 Away",83,91,,,Final,,23,22,23,15,,24,19,21,27,,NBA
-22,22,400278400,2012,"Wed, Jan 30",Utah Jazz,New Orleans Hornets,"25-21, 16-5 Home","15-31, 8-16 Away",104,99,,,Final,,19,32,27,26,,29,18,28,24,,NBA
-23,23,400278420,2012,"Sat, Feb 2",Minnesota Timberwolves,New Orleans Hornets,"18-26, 12-9 Home","15-33, 8-18 Away",115,86,,,Final,,33,25,23,34,,14,17,24,31,,NBA
-24,24,400278458,2012,"Fri, Feb 8",Atlanta Hawks,New Orleans Hornets,"27-22, 17-9 Home","17-33, 9-18 Away",100,111,,,Final,,26,29,16,29,,25,25,29,32,,NBA
-25,25,400278485,2012,"Mon, Feb 11",Detroit Pistons,New Orleans Hornets,"20-33, 14-15 Home","18-34, 10-19 Away",86,105,,,Final,,23,18,20,25,,27,28,22,28,,NBA
-26,26,400278513,2012,"Tue, Feb 19",New Orleans Hornets,Chicago Bulls,"19-35, 9-16 Home","31-22, 16-10 Away",87,96,,,Final,,21,22,25,19,,26,21,27,22,,NBA
-27,27,400278538,2012,"Fri, Feb 22",New Orleans Hornets,Dallas Mavericks,"19-37, 9-17 Home","25-29, 9-19 Away",100,104,,,Final,,29,29,21,21,,35,18,30,21,,NBA
-28,28,400278567,2012,"Tue, Feb 26",New Orleans Hornets,Brooklyn Nets,"20-38, 10-18 Home","34-24, 14-12 Away",97,101,,,Final,,20,21,24,32,,31,26,16,28,,NBA
-29,29,400278591,2012,"Fri, Mar 1",New Orleans Hornets,Detroit Pistons,"21-39, 11-18 Home","23-38, 8-20 Away",100,95,,,Final,,23,24,27,26,,27,22,20,26,,NBA
-30,30,400278626,2012,"Wed, Mar 6",New Orleans Hornets,Los Angeles Lakers,"21-41, 11-20 Home","31-31, 11-20 Away",102,108,,,Final,,28,39,26,9,,28,20,27,33,,NBA
-31,31,400278659,2012,"Sun, Mar 10",New Orleans Hornets,Portland Trail Blazers,"22-42, 12-20 Home","29-33, 9-23 Away",98,96,,,Final,,22,31,23,22,,22,22,25,27,,NBA
-32,32,400278690,2012,"Fri, Mar 15",Washington Wizards,New Orleans Hornets,"22-42, 17-17 Home","22-44, 10-24 Away",96,87,,,Final,,26,24,24,22,,30,20,14,23,,NBA
-33,33,400278721,2012,"Mon, Mar 18",New Orleans Hornets,Golden State Warriors,"22-46, 12-21 Home","39-30, 17-20 Away",72,93,,,Final,,22,14,25,11,,19,26,24,24,,NBA
-34,34,400278747,2012,"Fri, Mar 22",New Orleans Hornets,Memphis Grizzlies,"24-46, 14-21 Home","46-22, 19-14 Away",90,83,,,Final,,14,34,19,23,,21,22,15,25,,NBA
-35,35,400278783,2012,"Wed, Mar 27",New Orleans Hornets,LA Clippers,"25-47, 15-22 Home","49-23, 21-15 Away",91,105,,,Final,,26,22,29,14,,27,29,23,26,,NBA
-36,36,400278816,2012,"Sun, Mar 31",New Orleans Hornets,Cleveland Cavaliers,"26-48, 16-23 Home","22-50, 9-27 Away",112,92,,,Final,,23,25,36,28,,21,28,24,19,,NBA
-37,37,400278853,2012,"Fri, Apr 5",Utah Jazz,New Orleans Hornets,"40-37, 29-10 Home","26-50, 10-27 Away",95,83,,,Final,,17,28,26,24,,24,19,24,16,,NBA
-38,38,400278882,2012,"Tue, Apr 9",Los Angeles Lakers,New Orleans Hornets,"41-37, 26-12 Home","27-51, 11-28 Away",104,96,,,Final,NBATV,27,18,25,34,,22,28,20,26,,NBA
-39,39,400278903,2012,"Fri, Apr 12",New Orleans Hornets,LA Clippers,"27-53, 16-24 Home","53-26, 22-17 Away",93,96,,,Final,,25,15,23,30,,24,19,14,39,,NBA
-40,40,400277728,2012,"Wed, Oct 31",New Orleans Hornets,San Antonio Spurs,"0-1, 0-1 Home","1-0, 1-0 Away",95,99,,,Final,,31,19,21,24,,28,15,28,28,,NBA
-41,41,400277751,2012,"Sat, Nov 3",Chicago Bulls,New Orleans Hornets,"2-1, 1-1 Home","2-1, 1-0 Away",82,89,,,Final,,18,26,16,22,,21,25,20,23,,NBA
-42,42,400277794,2012,"Fri, Nov 9",New Orleans Hornets,Charlotte Bobcats,"3-2, 2-2 Home","1-3, 0-2 Away",107,99,,,Final,,24,35,19,29,,21,28,20,30,,NBA
-43,43,400277845,2012,"Fri, Nov 16",New Orleans Hornets,Oklahoma City Thunder,"3-4, 2-3 Home","7-3, 3-1 Away",95,110,,,Final,,18,19,30,28,,36,30,28,16,,NBA
-44,44,400277875,2012,"Tue, Nov 20",New Orleans Hornets,New York Knicks,"3-6, 2-4 Home","8-1, 4-1 Away",80,102,,,Final,,17,31,16,16,,29,24,30,19,,NBA
-45,45,400277901,2012,"Fri, Nov 23",Phoenix Suns,New Orleans Hornets,"6-7, 5-3 Home","3-8, 1-4 Away",111,108,,,Final/OT,,23,24,30,26,8.0,31,22,28,22,5.0,NBA
-46,46,400277923,2012,"Mon, Nov 26",LA Clippers,New Orleans Hornets,"8-6, 5-3 Home","4-9, 2-5 Away",98,105,,,Final,,19,25,26,28,,22,29,30,24,,NBA
-47,47,400277956,2012,"Sat, Dec 1",New Orleans Hornets,Oklahoma City Thunder,"4-11, 2-6 Home","14-4, 5-2 Away",79,100,,,Final,,21,23,13,22,,30,24,30,16,,NBA
-48,48,400277983,2012,"Wed, Dec 5",New Orleans Hornets,Los Angeles Lakers,"5-12, 3-7 Home","9-10, 2-5 Away",87,103,,,Final,,23,25,16,23,,20,27,30,26,,NBA
-49,49,400278006,2012,"Sat, Dec 8",Miami Heat,New Orleans Hornets,"13-5, 9-1 Home","5-14, 2-6 Away",106,90,,,Final,,31,33,22,20,,32,15,25,18,,NBA
-50,50,400278038,2012,"Wed, Dec 12",Oklahoma City Thunder,New Orleans Hornets,"18-4, 12-2 Home","5-16, 2-7 Away",92,88,,,Final,,17,19,22,34,,19,25,18,26,,NBA
-51,51,400278069,2012,"Sun, Dec 16",Portland Trail Blazers,New Orleans Hornets,"11-12, 7-4 Home","5-18, 2-8 Away",95,94,,,Final,,25,29,21,20,,19,24,20,31,,NBA
-52,52,400278096,2012,"Wed, Dec 19",LA Clippers,New Orleans Hornets,"19-6, 11-3 Home","5-20, 2-10 Away",93,77,,,Final,,22,26,27,18,,16,22,18,21,,NBA
-53,53,400278113,2012,"Sat, Dec 22",New Orleans Hornets,Indiana Pacers,"5-22, 3-11 Home","16-12, 8-9 Away",75,81,,,Final,,18,28,7,22,,11,18,24,28,,NBA
-54,54,400278150,2012,"Fri, Dec 28",New Orleans Hornets,Toronto Raptors,"6-23, 3-12 Home","10-20, 3-15 Away",97,104,,,Final/OT,,23,19,22,27,6.0,21,27,22,21,13.0,NBA
-55,55,400278181,2012,"Tue, Jan 1",New Orleans Hornets,Atlanta Hawks,"7-24, 3-13 Home","20-10, 9-5 Away",86,95,,,Final,,26,24,14,22,,22,22,28,23,,NBA
-56,56,400278215,2012,"Sat, Jan 5",Dallas Mavericks,New Orleans Hornets,"13-21, 8-7 Home","8-25, 5-12 Away",96,99,,,Final/OT,,23,24,20,22,7.0,25,15,23,26,10.0,NBA
-57,57,400278241,2012,"Wed, Jan 9",New Orleans Hornets,Houston Rockets,"10-25, 5-13 Home","21-15, 7-9 Away",88,79,,,Final,,18,16,25,29,,22,14,33,10,,NBA
-58,58,400278269,2012,"Sun, Jan 13",New York Knicks,New Orleans Hornets,"24-13, 14-5 Home","11-26, 5-13 Away",100,87,,,Final,,22,27,22,29,,29,12,25,21,,NBA
-59,59,400278293,2012,"Wed, Jan 16",Boston Celtics,New Orleans Hornets,"20-18, 13-7 Home","13-26, 7-13 Away",78,90,,,Final,,25,18,20,15,,20,24,24,22,,NBA
-60,60,400278326,2012,"Mon, Jan 21",New Orleans Hornets,Sacramento Kings,"14-27, 7-14 Home","16-26, 4-16 Away",114,105,,,Final,,30,34,23,27,,18,21,37,29,,NBA
-61,61,400278358,2012,"Fri, Jan 25",New Orleans Hornets,Houston Rockets,"14-29, 7-15 Home","23-22, 9-14 Away",82,100,,,Final,,18,22,25,17,,27,21,32,20,,NBA
-62,62,400278389,2012,"Tue, Jan 29",Los Angeles Lakers,New Orleans Hornets,"20-25, 15-10 Home","15-30, 8-15 Away",111,106,,,Final,NBATV,25,29,29,28,,24,18,31,33,,NBA
-63,63,400278412,2012,"Fri, Feb 1",Denver Nuggets,New Orleans Hornets,"30-18, 20-3 Home","15-32, 8-17 Away",113,98,,,Final,,26,25,34,28,,26,22,30,20,,NBA
-64,64,400278448,2012,"Wed, Feb 6",New Orleans Hornets,Phoenix Suns,"16-33, 8-15 Home","17-33, 5-21 Away",93,84,,,Final,,26,28,24,15,,27,26,18,13,,NBA
-65,65,400278475,2012,"Sun, Feb 10",Toronto Raptors,New Orleans Hornets,"19-32, 13-13 Home","17-34, 9-19 Away",102,89,,,Final,,32,18,19,33,,21,26,19,23,,NBA
-66,66,400278503,2012,"Wed, Feb 13",New Orleans Hornets,Portland Trail Blazers,"19-34, 9-15 Home","25-28, 8-20 Away",99,63,,,Final,,19,19,29,32,,14,12,18,19,,NBA
-67,67,400278520,2012,"Wed, Feb 20",Cleveland Cavaliers,New Orleans Hornets,"17-37, 10-16 Home","19-36, 10-20 Away",105,100,,,Final,ESPN,20,23,25,37,,20,21,28,31,,NBA
-68,68,400278554,2012,"Sun, Feb 24",New Orleans Hornets,Sacramento Kings,"20-37, 10-17 Home","19-38, 5-25 Away",110,95,,,Final,,30,23,26,31,,27,20,26,22,,NBA
-69,69,400278577,2012,"Wed, Feb 27",Oklahoma City Thunder,New Orleans Hornets,"42-15, 26-4 Home","20-39, 10-21 Away",119,74,,,Final,,30,32,34,23,,21,24,15,14,,NBA
-70,70,400278611,2012,"Mon, Mar 4",New Orleans Hornets,Orlando Magic,"21-40, 11-19 Home","17-44, 8-21 Away",102,105,,,Final,,23,23,30,26,,20,16,34,35,,NBA
-71,71,400278650,2012,"Sat, Mar 9",Memphis Grizzlies,New Orleans Hornets,"42-19, 25-8 Home","21-42, 10-22 Away",96,85,,,Final,,25,22,31,18,,19,22,19,25,,NBA
-72,72,400278671,2012,"Tue, Mar 12",Brooklyn Nets,New Orleans Hornets,"38-27, 22-13 Home","22-43, 10-23 Away",108,98,,,Final,,28,29,23,28,,19,29,30,20,,NBA
-73,73,400278709,2012,"Sun, Mar 17",Minnesota Timberwolves,New Orleans Hornets,"23-41, 16-16 Home","22-45, 10-25 Away",97,95,,,Final,,28,22,26,21,,27,25,21,22,,NBA
-74,74,400278733,2012,"Wed, Mar 20",New Orleans Hornets,Boston Celtics,"23-46, 13-21 Home","36-31, 12-21 Away",87,86,,,Final,,22,23,22,20,,31,24,12,19,,NBA
-75,75,400278771,2012,"Mon, Mar 25",New Orleans Hornets,Denver Nuggets,"25-46, 15-21 Home","49-23, 17-20 Away",110,86,,,Final,,27,32,27,24,,18,20,30,18,,NBA
-76,76,400278800,2012,"Fri, Mar 29",New Orleans Hornets,Miami Heat,"25-48, 15-23 Home","57-15, 25-12 Away",89,108,,,Final,NBATV,22,21,17,29,,32,28,21,27,,NBA
-77,77,400278842,2012,"Wed, Apr 3",Golden State Warriors,New Orleans Hornets,"43-32, 26-11 Home","26-49, 10-26 Away",98,88,,,Final,,19,32,23,24,,28,14,28,18,,NBA
-78,78,400278872,2012,"Sun, Apr 7",Phoenix Suns,New Orleans Hornets,"23-54, 16-24 Home","27-50, 11-27 Away",92,95,,,Final,,26,17,19,30,,17,22,35,21,,NBA
-79,79,400278890,2012,"Wed, Apr 10",Sacramento Kings,New Orleans Hornets,"28-50, 20-20 Home","27-52, 11-29 Away",121,110,,,Final,,35,30,30,26,,28,20,25,37,,NBA
-80,80,400278919,2012,"Sun, Apr 14",New Orleans Hornets,Dallas Mavericks,"27-54, 16-25 Home","40-40, 17-24 Away",89,107,,,Final,NBATV,19,21,27,22,,33,29,19,26,,NBA
-81,81,400278944,2012,"Wed, Apr 17",Dallas Mavericks,New Orleans Hornets,"41-41, 24-17 Home","27-55, 11-30 Away",99,87,,,Final,,19,28,28,24,,18,21,25,23,,NBA
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+400277741,2012,"November 02, 2012",New Orleans Hornets,Utah Jazz,"1-1, 1-1 Home","1-1, 0-1 Away",88,86,,,Final,,19,21,27,21,,19,22,22,23,,NBA
+400277778,2012,"November 07, 2012",New Orleans Hornets,Philadelphia 76ers,"2-2, 1-2 Home","2-2, 1-1 Away",62,77,,,Final,,19,18,10,15,,16,20,21,20,,NBA
+400277832,2012,"November 14, 2012",Houston Rockets,New Orleans Hornets,"4-4, 2-3 Home","3-3, 1-1 Away",100,96,,,Final,,25,39,21,15,,27,18,31,20,,NBA
+400277856,2012,"November 17, 2012",Milwaukee Bucks,New Orleans Hornets,"6-2, 3-2 Home","3-5, 1-2 Away",117,113,,,Final,,25,35,31,26,,27,31,33,22,,NBA
+400277880,2012,"November 21, 2012",Indiana Pacers,New Orleans Hornets,"6-7, 4-1 Home","3-7, 1-3 Away",115,107,,,Final/OT,,21,22,32,22,18.0,29,18,27,23,10.0,NBA
+400277916,2012,"November 25, 2012",Denver Nuggets,New Orleans Hornets,"8-6, 4-1 Home","3-9, 1-5 Away",102,84,,,Final,,26,25,32,19,,23,18,20,23,,NBA
+400277937,2012,"November 28, 2012",New Orleans Hornets,Utah Jazz,"4-10, 2-5 Home","9-7, 3-7 Away",84,96,,,Final,,20,19,17,28,,20,21,31,24,,NBA
+400277967,2012,"December 03, 2012",New Orleans Hornets,Milwaukee Bucks,"5-11, 3-6 Home","8-8, 4-4 Away",102,81,,,Final,,30,23,24,25,,28,22,17,14,,NBA
+400277995,2012,"December 07, 2012",New Orleans Hornets,Memphis Grizzlies,"5-13, 3-8 Home","14-3, 5-2 Away",89,96,,,Final,,17,22,27,23,,22,29,20,25,,NBA
+400278027,2012,"December 11, 2012",New Orleans Hornets,Washington Wizards,"5-15, 3-9 Home","3-15, 1-8 Away",70,77,,,Final,,22,20,18,10,,11,25,20,21,,NBA
+400278051,2012,"December 14, 2012",New Orleans Hornets,Minnesota Timberwolves,"5-17, 3-10 Home","11-9, 5-6 Away",102,113,,,Final,,23,27,23,29,,28,22,32,31,,NBA
+400278085,2012,"December 18, 2012",Golden State Warriors,New Orleans Hornets,"17-8, 7-3 Home","5-19, 2-9 Away",103,96,,,Final,,31,28,23,21,,21,29,22,24,,NBA
+400278107,2012,"December 21, 2012",San Antonio Spurs,New Orleans Hornets,"20-8, 9-2 Home","5-21, 2-11 Away",99,94,,,Final,,26,28,18,27,,21,21,19,33,,NBA
+400278132,2012,"December 26, 2012",Orlando Magic,New Orleans Hornets,"12-16, 7-8 Home","6-22, 3-11 Away",94,97,,,Final,,24,29,23,18,,26,23,29,19,,NBA
+400278157,2012,"December 29, 2012",Charlotte Bobcats,New Orleans Hornets,"7-23, 5-12 Home","7-23, 4-11 Away",95,98,,,Final,NBATV,25,32,16,22,,22,18,33,25,,NBA
+400278191,2012,"January 02, 2013",Houston Rockets,New Orleans Hornets,"18-14, 13-6 Home","7-25, 4-12 Away",104,92,,,Final,,21,28,25,30,,23,21,22,26,,NBA
+400278227,2012,"January 07, 2013",New Orleans Hornets,San Antonio Spurs,"9-25, 4-13 Home","27-10, 13-8 Away",95,88,,,Final,,24,25,21,25,,19,22,24,23,,NBA
+400278256,2012,"January 11, 2013",New Orleans Hornets,Minnesota Timberwolves,"11-25, 6-13 Home","16-17, 6-12 Away",104,92,,,Final,,14,26,30,34,,29,17,15,31,,NBA
+400278284,2012,"January 15, 2013",Philadelphia 76ers,New Orleans Hornets,"16-23, 10-9 Home","12-26, 6-13 Away",99,111,,,Final,,28,19,21,31,,35,18,33,25,,NBA
+400278316,2012,"January 19, 2013",New Orleans Hornets,Golden State Warriors,"13-27, 6-14 Home","24-15, 12-9 Away",112,116,,,Final,,27,30,32,23,,33,34,18,31,,NBA
+400278344,2012,"January 23, 2013",San Antonio Spurs,New Orleans Hornets,"34-11, 19-2 Home","14-28, 7-14 Away",106,102,,,Final,,32,28,18,28,,35,29,15,23,,NBA
+400278375,2012,"January 27, 2013",Memphis Grizzlies,New Orleans Hornets,"28-15, 17-7 Home","15-29, 8-14 Away",83,91,,,Final,,23,22,23,15,,24,19,21,27,,NBA
+400278400,2012,"January 30, 2013",Utah Jazz,New Orleans Hornets,"25-21, 16-5 Home","15-31, 8-16 Away",104,99,,,Final,,19,32,27,26,,29,18,28,24,,NBA
+400278420,2012,"February 02, 2013",Minnesota Timberwolves,New Orleans Hornets,"18-26, 12-9 Home","15-33, 8-18 Away",115,86,,,Final,,33,25,23,34,,14,17,24,31,,NBA
+400278458,2012,"February 08, 2013",Atlanta Hawks,New Orleans Hornets,"27-22, 17-9 Home","17-33, 9-18 Away",100,111,,,Final,,26,29,16,29,,25,25,29,32,,NBA
+400278485,2012,"February 11, 2013",Detroit Pistons,New Orleans Hornets,"20-33, 14-15 Home","18-34, 10-19 Away",86,105,,,Final,,23,18,20,25,,27,28,22,28,,NBA
+400278513,2012,"February 19, 2013",New Orleans Hornets,Chicago Bulls,"19-35, 9-16 Home","31-22, 16-10 Away",87,96,,,Final,,21,22,25,19,,26,21,27,22,,NBA
+400278538,2012,"February 22, 2013",New Orleans Hornets,Dallas Mavericks,"19-37, 9-17 Home","25-29, 9-19 Away",100,104,,,Final,,29,29,21,21,,35,18,30,21,,NBA
+400278567,2012,"February 26, 2013",New Orleans Hornets,Brooklyn Nets,"20-38, 10-18 Home","34-24, 14-12 Away",97,101,,,Final,,20,21,24,32,,31,26,16,28,,NBA
+400278591,2012,"March 01, 2013",New Orleans Hornets,Detroit Pistons,"21-39, 11-18 Home","23-38, 8-20 Away",100,95,,,Final,,23,24,27,26,,27,22,20,26,,NBA
+400278626,2012,"March 06, 2013",New Orleans Hornets,Los Angeles Lakers,"21-41, 11-20 Home","31-31, 11-20 Away",102,108,,,Final,,28,39,26,9,,28,20,27,33,,NBA
+400278659,2012,"March 10, 2013",New Orleans Hornets,Portland Trail Blazers,"22-42, 12-20 Home","29-33, 9-23 Away",98,96,,,Final,,22,31,23,22,,22,22,25,27,,NBA
+400278690,2012,"March 15, 2013",Washington Wizards,New Orleans Hornets,"22-42, 17-17 Home","22-44, 10-24 Away",96,87,,,Final,,26,24,24,22,,30,20,14,23,,NBA
+400278721,2012,"March 18, 2013",New Orleans Hornets,Golden State Warriors,"22-46, 12-21 Home","39-30, 17-20 Away",72,93,,,Final,,22,14,25,11,,19,26,24,24,,NBA
+400278747,2012,"March 22, 2013",New Orleans Hornets,Memphis Grizzlies,"24-46, 14-21 Home","46-22, 19-14 Away",90,83,,,Final,,14,34,19,23,,21,22,15,25,,NBA
+400278783,2012,"March 27, 2013",New Orleans Hornets,LA Clippers,"25-47, 15-22 Home","49-23, 21-15 Away",91,105,,,Final,,26,22,29,14,,27,29,23,26,,NBA
+400278816,2012,"March 31, 2013",New Orleans Hornets,Cleveland Cavaliers,"26-48, 16-23 Home","22-50, 9-27 Away",112,92,,,Final,,23,25,36,28,,21,28,24,19,,NBA
+400278853,2012,"April 05, 2013",Utah Jazz,New Orleans Hornets,"40-37, 29-10 Home","26-50, 10-27 Away",95,83,,,Final,,17,28,26,24,,24,19,24,16,,NBA
+400278882,2012,"April 09, 2013",Los Angeles Lakers,New Orleans Hornets,"41-37, 26-12 Home","27-51, 11-28 Away",104,96,,,Final,NBATV,27,18,25,34,,22,28,20,26,,NBA
+400278903,2012,"April 12, 2013",New Orleans Hornets,LA Clippers,"27-53, 16-24 Home","53-26, 22-17 Away",93,96,,,Final,,25,15,23,30,,24,19,14,39,,NBA
+400277728,2012,"October 31, 2012",New Orleans Hornets,San Antonio Spurs,"0-1, 0-1 Home","1-0, 1-0 Away",95,99,,,Final,,31,19,21,24,,28,15,28,28,,NBA
+400277751,2012,"November 03, 2012",Chicago Bulls,New Orleans Hornets,"2-1, 1-1 Home","2-1, 1-0 Away",82,89,,,Final,,18,26,16,22,,21,25,20,23,,NBA
+400277794,2012,"November 09, 2012",New Orleans Hornets,Charlotte Bobcats,"3-2, 2-2 Home","1-3, 0-2 Away",107,99,,,Final,,24,35,19,29,,21,28,20,30,,NBA
+400277845,2012,"November 16, 2012",New Orleans Hornets,Oklahoma City Thunder,"3-4, 2-3 Home","7-3, 3-1 Away",95,110,,,Final,,18,19,30,28,,36,30,28,16,,NBA
+400277875,2012,"November 20, 2012",New Orleans Hornets,New York Knicks,"3-6, 2-4 Home","8-1, 4-1 Away",80,102,,,Final,,17,31,16,16,,29,24,30,19,,NBA
+400277901,2012,"November 23, 2012",Phoenix Suns,New Orleans Hornets,"6-7, 5-3 Home","3-8, 1-4 Away",111,108,,,Final/OT,,23,24,30,26,8.0,31,22,28,22,5.0,NBA
+400277923,2012,"November 26, 2012",LA Clippers,New Orleans Hornets,"8-6, 5-3 Home","4-9, 2-5 Away",98,105,,,Final,,19,25,26,28,,22,29,30,24,,NBA
+400277956,2012,"December 01, 2012",New Orleans Hornets,Oklahoma City Thunder,"4-11, 2-6 Home","14-4, 5-2 Away",79,100,,,Final,,21,23,13,22,,30,24,30,16,,NBA
+400277983,2012,"December 05, 2012",New Orleans Hornets,Los Angeles Lakers,"5-12, 3-7 Home","9-10, 2-5 Away",87,103,,,Final,,23,25,16,23,,20,27,30,26,,NBA
+400278006,2012,"December 08, 2012",Miami Heat,New Orleans Hornets,"13-5, 9-1 Home","5-14, 2-6 Away",106,90,,,Final,,31,33,22,20,,32,15,25,18,,NBA
+400278038,2012,"December 12, 2012",Oklahoma City Thunder,New Orleans Hornets,"18-4, 12-2 Home","5-16, 2-7 Away",92,88,,,Final,,17,19,22,34,,19,25,18,26,,NBA
+400278069,2012,"December 16, 2012",Portland Trail Blazers,New Orleans Hornets,"11-12, 7-4 Home","5-18, 2-8 Away",95,94,,,Final,,25,29,21,20,,19,24,20,31,,NBA
+400278096,2012,"December 19, 2012",LA Clippers,New Orleans Hornets,"19-6, 11-3 Home","5-20, 2-10 Away",93,77,,,Final,,22,26,27,18,,16,22,18,21,,NBA
+400278113,2012,"December 22, 2012",New Orleans Hornets,Indiana Pacers,"5-22, 3-11 Home","16-12, 8-9 Away",75,81,,,Final,,18,28,7,22,,11,18,24,28,,NBA
+400278150,2012,"December 28, 2012",New Orleans Hornets,Toronto Raptors,"6-23, 3-12 Home","10-20, 3-15 Away",97,104,,,Final/OT,,23,19,22,27,6.0,21,27,22,21,13.0,NBA
+400278181,2012,"January 01, 2013",New Orleans Hornets,Atlanta Hawks,"7-24, 3-13 Home","20-10, 9-5 Away",86,95,,,Final,,26,24,14,22,,22,22,28,23,,NBA
+400278215,2012,"January 05, 2013",Dallas Mavericks,New Orleans Hornets,"13-21, 8-7 Home","8-25, 5-12 Away",96,99,,,Final/OT,,23,24,20,22,7.0,25,15,23,26,10.0,NBA
+400278241,2012,"January 09, 2013",New Orleans Hornets,Houston Rockets,"10-25, 5-13 Home","21-15, 7-9 Away",88,79,,,Final,,18,16,25,29,,22,14,33,10,,NBA
+400278269,2012,"January 13, 2013",New York Knicks,New Orleans Hornets,"24-13, 14-5 Home","11-26, 5-13 Away",100,87,,,Final,,22,27,22,29,,29,12,25,21,,NBA
+400278293,2012,"January 16, 2013",Boston Celtics,New Orleans Hornets,"20-18, 13-7 Home","13-26, 7-13 Away",78,90,,,Final,,25,18,20,15,,20,24,24,22,,NBA
+400278326,2012,"January 21, 2013",New Orleans Hornets,Sacramento Kings,"14-27, 7-14 Home","16-26, 4-16 Away",114,105,,,Final,,30,34,23,27,,18,21,37,29,,NBA
+400278358,2012,"January 25, 2013",New Orleans Hornets,Houston Rockets,"14-29, 7-15 Home","23-22, 9-14 Away",82,100,,,Final,,18,22,25,17,,27,21,32,20,,NBA
+400278389,2012,"January 29, 2013",Los Angeles Lakers,New Orleans Hornets,"20-25, 15-10 Home","15-30, 8-15 Away",111,106,,,Final,NBATV,25,29,29,28,,24,18,31,33,,NBA
+400278412,2012,"February 01, 2013",Denver Nuggets,New Orleans Hornets,"30-18, 20-3 Home","15-32, 8-17 Away",113,98,,,Final,,26,25,34,28,,26,22,30,20,,NBA
+400278448,2012,"February 06, 2013",New Orleans Hornets,Phoenix Suns,"16-33, 8-15 Home","17-33, 5-21 Away",93,84,,,Final,,26,28,24,15,,27,26,18,13,,NBA
+400278475,2012,"February 10, 2013",Toronto Raptors,New Orleans Hornets,"19-32, 13-13 Home","17-34, 9-19 Away",102,89,,,Final,,32,18,19,33,,21,26,19,23,,NBA
+400278503,2012,"February 13, 2013",New Orleans Hornets,Portland Trail Blazers,"19-34, 9-15 Home","25-28, 8-20 Away",99,63,,,Final,,19,19,29,32,,14,12,18,19,,NBA
+400278520,2012,"February 20, 2013",Cleveland Cavaliers,New Orleans Hornets,"17-37, 10-16 Home","19-36, 10-20 Away",105,100,,,Final,ESPN,20,23,25,37,,20,21,28,31,,NBA
+400278554,2012,"February 24, 2013",New Orleans Hornets,Sacramento Kings,"20-37, 10-17 Home","19-38, 5-25 Away",110,95,,,Final,,30,23,26,31,,27,20,26,22,,NBA
+400278577,2012,"February 27, 2013",Oklahoma City Thunder,New Orleans Hornets,"42-15, 26-4 Home","20-39, 10-21 Away",119,74,,,Final,,30,32,34,23,,21,24,15,14,,NBA
+400278611,2012,"March 04, 2013",New Orleans Hornets,Orlando Magic,"21-40, 11-19 Home","17-44, 8-21 Away",102,105,,,Final,,23,23,30,26,,20,16,34,35,,NBA
+400278650,2012,"March 09, 2013",Memphis Grizzlies,New Orleans Hornets,"42-19, 25-8 Home","21-42, 10-22 Away",96,85,,,Final,,25,22,31,18,,19,22,19,25,,NBA
+400278671,2012,"March 12, 2013",Brooklyn Nets,New Orleans Hornets,"38-27, 22-13 Home","22-43, 10-23 Away",108,98,,,Final,,28,29,23,28,,19,29,30,20,,NBA
+400278709,2012,"March 17, 2013",Minnesota Timberwolves,New Orleans Hornets,"23-41, 16-16 Home","22-45, 10-25 Away",97,95,,,Final,,28,22,26,21,,27,25,21,22,,NBA
+400278733,2012,"March 20, 2013",New Orleans Hornets,Boston Celtics,"23-46, 13-21 Home","36-31, 12-21 Away",87,86,,,Final,,22,23,22,20,,31,24,12,19,,NBA
+400278771,2012,"March 25, 2013",New Orleans Hornets,Denver Nuggets,"25-46, 15-21 Home","49-23, 17-20 Away",110,86,,,Final,,27,32,27,24,,18,20,30,18,,NBA
+400278800,2012,"March 29, 2013",New Orleans Hornets,Miami Heat,"25-48, 15-23 Home","57-15, 25-12 Away",89,108,,,Final,NBATV,22,21,17,29,,32,28,21,27,,NBA
+400278842,2012,"April 03, 2013",Golden State Warriors,New Orleans Hornets,"43-32, 26-11 Home","26-49, 10-26 Away",98,88,,,Final,,19,32,23,24,,28,14,28,18,,NBA
+400278872,2012,"April 07, 2013",Phoenix Suns,New Orleans Hornets,"23-54, 16-24 Home","27-50, 11-27 Away",92,95,,,Final,,26,17,19,30,,17,22,35,21,,NBA
+400278890,2012,"April 10, 2013",Sacramento Kings,New Orleans Hornets,"28-50, 20-20 Home","27-52, 11-29 Away",121,110,,,Final,,35,30,30,26,,28,20,25,37,,NBA
+400278919,2012,"April 14, 2013",New Orleans Hornets,Dallas Mavericks,"27-54, 16-25 Home","40-40, 17-24 Away",89,107,,,Final,NBATV,19,21,27,22,,33,29,19,26,,NBA
+400278944,2012,"April 17, 2013",Dallas Mavericks,New Orleans Hornets,"41-41, 24-17 Home","27-55, 11-30 Away",99,87,,,Final,,19,28,28,24,,18,21,25,23,,NBA

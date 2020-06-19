@@ -1,83 +1,83 @@
-,Unnamed: 0,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-0,0,151107017,1995,"Tue, Nov 7",New Jersey Nets,Portland Trail Blazers,"1-1, 1-0 Home","1-2, 0-1 Away",104,84,,,Final,,27,28,22,27,,20,19,17,28,,NBA
-1,1,151110014,1995,"Fri, Nov 10",Miami Heat,New Jersey Nets,"3-0, 3-0 Home","1-3, 0-3 Away",106,80,,,Final,,32,28,27,19,,16,23,25,16,,NBA
-2,2,151115017,1995,"Wed, Nov 15",New Jersey Nets,Charlotte Hornets,"3-3, 3-0 Home","3-5, 0-5 Away",90,79,,,Final,,19,19,31,21,,26,26,9,18,,NBA
-3,3,151118017,1995,"Sat, Nov 18",New Jersey Nets,Philadelphia 76ers,"4-4, 4-0 Home","2-6, 0-3 Away",95,79,,,Final,,29,21,20,25,,17,16,23,23,,NBA
-4,4,151122012,1995,"Wed, Nov 22",Los Angeles Clippers,New Jersey Nets,"7-5, 5-1 Home","4-6, 0-6 Away",125,92,,,Final,,32,25,27,41,,30,22,24,16,,NBA
-5,5,151126023,1995,"Sun, Nov 26",Sacramento Kings,New Jersey Nets,"9-4, 4-2 Home","4-8, 0-8 Away",99,92,,,Final,,22,30,19,28,,33,14,25,20,,NBA
-6,6,151201002,1995,"Fri, Dec 1",Boston Celtics,New Jersey Nets,"5-8, 3-7 Home","6-8, 1-8 Away",123,131,,,Final/OT,,32,22,23,36,10.0,34,28,30,21,18.0,NBA
-7,7,151206016,1995,"Wed, Dec 6",Minnesota Timberwolves,New Jersey Nets,"4-11, 3-5 Home","7-9, 1-9 Away",108,97,,,Final,,28,22,38,20,,25,23,25,24,,NBA
-8,8,151209005,1995,"Sat, Dec 9",Cleveland Cavaliers,New Jersey Nets,"8-11, 5-5 Home","9-9, 2-9 Away",73,85,,,Final,,28,14,22,9,,26,18,20,21,,NBA
-9,9,151215008,1995,"Fri, Dec 15",Detroit Pistons,New Jersey Nets,"9-12, 7-5 Home","9-11, 2-10 Away",105,98,,,Final,,23,29,30,23,,25,26,30,17,,NBA
-10,10,151220017,1995,"Wed, Dec 20",New Jersey Nets,Miami Heat,"9-13, 7-3 Home","13-10, 5-7 Away",104,112,,,Final/OT,,27,25,20,30,2.0,33,15,26,28,10.0,NBA
-11,11,151223020,1995,"Sat, Dec 23",Philadelphia 76ers,New Jersey Nets,"5-19, 4-10 Home","10-14, 3-11 Away",85,98,,,Final,,16,20,32,17,,27,17,28,26,,NBA
-12,12,151228010,1995,"Thu, Dec 28",Houston Rockets,New Jersey Nets,"21-8, 12-2 Home","10-16, 3-13 Away",97,82,,,Final,,22,24,21,30,,25,23,10,24,,NBA
-13,13,160102017,1995,"Tue, Jan 2",New Jersey Nets,Milwaukee Bucks,"11-17, 8-4 Home","10-18, 5-10 Away",81,72,,,Final,,19,20,22,20,,25,21,15,11,,NBA
-14,14,160105017,1995,"Fri, Jan 5",New Jersey Nets,Dallas Mavericks,"12-18, 9-4 Home","8-22, 3-14 Away",107,99,,,Final,,33,27,25,22,,20,32,24,23,,NBA
-15,15,160110017,1995,"Wed, Jan 10",New Jersey Nets,New York Knicks,"13-19, 10-4 Home","21-11, 8-6 Away",92,79,,,Final,,31,19,16,26,,22,20,23,14,,NBA
-16,16,160113017,1995,"Sat, Jan 13",New Jersey Nets,Detroit Pistons,"13-21, 10-6 Home","18-15, 6-9 Away",80,91,,,Final,,20,19,21,20,,22,22,22,25,,NBA
-17,17,160117003,1995,"Wed, Jan 17",Charlotte Hornets,New Jersey Nets,"17-19, 11-6 Home","15-21, 4-15 Away",93,97,,,Final,,20,29,27,17,,32,24,19,22,,NBA
-18,18,160120017,1995,"Sat, Jan 20",New Jersey Nets,Minnesota Timberwolves,"16-22, 12-6 Home","11-27, 3-18 Away",103,97,,,Final/OT,,26,22,22,22,11.0,21,25,25,21,5.0,NBA
-19,19,160124017,1995,"Wed, Jan 24",New Jersey Nets,Houston Rockets,"16-24, 12-7 Home","28-14, 14-9 Away",89,98,,,Final,,26,17,12,34,,25,27,19,27,,NBA
-20,20,160127017,1995,"Sat, Jan 27",New Jersey Nets,Los Angeles Lakers,"17-25, 13-8 Home","24-18, 9-12 Away",98,100,,,Final,,22,16,28,32,,31,18,27,24,,NBA
-21,21,160202029,1995,"Fri, Feb 2",Vancouver Grizzlies,New Jersey Nets,"10-35, 7-15 Home","18-26, 5-18 Away",84,93,,,Final,,20,22,16,26,,18,23,28,24,,NBA
-22,22,160207013,1995,"Wed, Feb 7",Los Angeles Lakers,New Jersey Nets,"28-19, 18-7 Home","18-28, 5-20 Away",106,96,,,Final,,26,25,27,28,,15,28,26,27,,NBA
-23,23,160213011,1995,"Tue, Feb 13",Indiana Pacers,New Jersey Nets,"31-17, 19-4 Home","19-29, 6-21 Away",92,101,,,Final,,21,21,26,24,,20,21,24,36,,NBA
-24,24,160217017,1995,"Sat, Feb 17",New Jersey Nets,New York Knicks,"21-29, 15-8 Home","31-18, 12-10 Away",82,77,,,Final,,21,24,14,23,,22,24,17,14,,NBA
-25,25,160221015,1995,"Wed, Feb 21",Milwaukee Bucks,New Jersey Nets,"20-31, 11-15 Home","23-29, 8-21 Away",92,94,,,Final/OT,,22,17,23,25,5.0,22,19,26,20,7.0,NBA
-26,26,160225017,1995,"Sun, Feb 25",New Jersey Nets,Boston Celtics,"24-30, 16-8 Home","19-35, 9-20 Away",111,105,,,Final,,26,35,28,22,,26,27,28,24,,NBA
-27,27,160229017,1995,"Thu, Feb 29",New Jersey Nets,Orlando Magic,"24-32, 16-10 Home","42-15, 13-15 Away",98,114,,,Final,,20,25,20,33,,29,25,32,28,,NBA
-28,28,160305006,1995,"Tue, Mar 5",Dallas Mavericks,New Jersey Nets,"21-37, 13-17 Home","24-34, 8-23 Away",127,117,,,Final,,35,26,34,32,,35,31,22,29,,NBA
-29,29,160310007,1995,"Sun, Mar 10",Denver Nuggets,New Jersey Nets,"26-35, 18-13 Home","25-35, 9-24 Away",88,99,,,Final,,22,23,13,30,,22,27,26,24,,NBA
-30,30,160314017,1995,"Thu, Mar 14",New Jersey Nets,Washington Bullets,"25-37, 16-13 Home","29-35, 10-24 Away",92,100,,,Final,,27,20,17,28,,25,20,27,28,,NBA
-31,31,160317002,1995,"Sun, Mar 17",Boston Celtics,New Jersey Nets,"25-40, 15-18 Home","25-39, 9-25 Away",107,106,,,Final/2OT,,32,13,23,22,17.0,24,28,14,24,16.0,NBA
-32,32,160321017,1995,"Thu, Mar 21",New Jersey Nets,Denver Nuggets,"27-39, 18-14 Home","28-38, 9-25 Away",97,89,,,Final,,27,26,18,26,,21,18,30,20,,NBA
-33,33,160324015,1995,"Sun, Mar 24",Milwaukee Bucks,New Jersey Nets,"21-46, 12-23 Home","28-40, 10-26 Away",80,84,,,Final,,21,19,28,12,,25,21,14,24,,NBA
-34,34,160329018,1995,"Fri, Mar 29",New York Knicks,New Jersey Nets,"41-28, 24-11 Home","28-42, 10-27 Away",94,78,,,Final,,27,19,28,20,,26,26,11,15,,NBA
-35,35,160403017,1995,"Wed, Apr 3",New Jersey Nets,Los Angeles Clippers,"29-43, 19-15 Home","27-47, 10-27 Away",100,94,,,Final,,30,26,20,24,,33,26,17,18,,NBA
-36,36,160406017,1995,"Sat, Apr 6",New Jersey Nets,Milwaukee Bucks,"29-45, 19-17 Home","23-51, 10-27 Away",88,109,,,Final,,26,18,25,19,,28,29,18,34,,NBA
-37,37,160409017,1995,"Tue, Apr 9",New Jersey Nets,Detroit Pistons,"29-47, 19-18 Home","42-33, 16-22 Away",94,111,,,Final,,24,22,18,30,,28,29,33,21,,NBA
-38,38,160414017,1995,"Sun, Apr 14",New Jersey Nets,Atlanta Hawks,"29-49, 19-20 Home","44-34, 19-20 Away",90,99,,,Final,,15,26,22,27,,30,23,23,23,,NBA
-39,39,160417017,1995,"Wed, Apr 17",New Jersey Nets,Toronto Raptors,"30-50, 20-20 Home","20-60, 6-35 Away",107,95,,,Final,,31,25,23,28,,29,25,26,15,,NBA
-40,40,151103028,1995,"Fri, Nov 3",Toronto Raptors,New Jersey Nets,"1-0, 1-0 Home","0-1, 0-1 Away",94,79,,,Final,,21,25,20,28,,17,16,20,26,,NBA
-41,41,151108019,1995,"Wed, Nov 8",Orlando Magic,New Jersey Nets,"3-1, 3-0 Home","1-2, 0-2 Away",130,122,,,Final/3OT,,20,25,32,21,32.0,27,27,22,22,24.0,NBA
-42,42,151111017,1995,"Sat, Nov 11",New Jersey Nets,Sacramento Kings,"2-3, 2-0 Home","5-1, 3-1 Away",86,84,,,Final,,21,20,24,21,,22,23,23,16,,NBA
-43,43,151117004,1995,"Fri, Nov 17",Chicago Bulls,New Jersey Nets,"7-1, 6-0 Home","3-4, 0-4 Away",109,94,,,Final,,36,25,24,24,,25,27,20,22,,NBA
-44,44,151120026,1995,"Mon, Nov 20",Utah Jazz,New Jersey Nets,"9-2, 5-0 Home","4-5, 0-5 Away",105,79,,,Final,,32,24,23,26,,19,15,17,28,,NBA
-45,45,151124022,1995,"Fri, Nov 24",Portland Trail Blazers,New Jersey Nets,"6-6, 4-2 Home","4-7, 0-7 Away",99,87,,,Final,,29,25,27,18,,19,18,27,23,,NBA
-46,46,151128017,1995,"Tue, Nov 28",New Jersey Nets,Washington Bullets,"5-8, 5-0 Home","5-7, 1-4 Away",89,84,,,Final,,29,20,20,20,,16,26,24,18,,NBA
-47,47,151202017,1995,"Sat, Dec 2",New Jersey Nets,Cleveland Cavaliers,"7-8, 6-0 Home","6-9, 3-5 Away",79,78,,,Final,,18,17,23,21,,26,24,15,13,,NBA
-48,48,151208017,1995,"Fri, Dec 8",New Jersey Nets,Indiana Pacers,"8-9, 7-0 Home","7-9, 4-6 Away",91,89,,,Final,,24,26,22,19,,28,17,18,26,,NBA
-49,49,151212017,1995,"Tue, Dec 12",New Jersey Nets,Orlando Magic,"9-10, 7-1 Home","17-4, 6-4 Away",97,101,,,Final,,24,30,23,20,,24,30,21,26,,NBA
-50,50,151218017,1995,"Mon, Dec 18",New Jersey Nets,Utah Jazz,"9-12, 7-2 Home","16-7, 8-4 Away",103,110,,,Final,,31,27,17,28,,27,27,33,23,,NBA
-51,51,151222001,1995,"Fri, Dec 22",Atlanta Hawks,New Jersey Nets,"12-12, 6-7 Home","9-14, 2-11 Away",94,91,,,Final,,21,24,28,21,,20,25,19,27,,NBA
-52,52,151226014,1995,"Tue, Dec 26",Miami Heat,New Jersey Nets,"14-12, 9-4 Home","10-15, 3-12 Away",96,93,,,Final,,20,30,25,21,,21,21,24,27,,NBA
-53,53,151230017,1995,"Sat, Dec 30",New Jersey Nets,Golden State Warriors,"10-17, 7-4 Home","12-17, 5-11 Away",110,120,,,Final,,26,32,24,28,,35,33,25,27,,NBA
-54,54,160104018,1995,"Thu, Jan 4",New York Knicks,New Jersey Nets,"20-10, 12-5 Home","11-18, 3-14 Away",105,93,,,Final,,27,22,26,30,,29,26,20,18,,NBA
-55,55,160109019,1995,"Tue, Jan 9",Orlando Magic,New Jersey Nets,"26-7, 19-0 Home","12-19, 3-15 Away",92,84,,,Final,,17,28,21,26,,26,21,28,9,,NBA
-56,56,160112017,1995,"Fri, Jan 12",New Jersey Nets,Philadelphia 76ers,"13-20, 10-5 Home","7-25, 3-14 Away",80,107,,,Final,,14,13,27,26,,23,25,21,38,,NBA
-57,57,160115017,1995,"Mon, Jan 15",New Jersey Nets,Toronto Raptors,"14-21, 11-6 Home","10-26, 2-16 Away",108,83,,,Final,,27,24,32,25,,17,18,25,23,,NBA
-58,58,160119027,1995,"Fri, Jan 19",Washington Bullets,New Jersey Nets,"19-19, 13-6 Home","15-22, 4-16 Away",93,87,,,Final,,30,16,20,27,,24,21,18,24,,NBA
-59,59,160123028,1995,"Tue, Jan 23",Toronto Raptors,New Jersey Nets,"12-28, 10-12 Home","16-23, 4-17 Away",86,79,,,Final,,28,16,26,16,,24,24,19,12,,NBA
-60,60,160126017,1995,"Fri, Jan 26",New Jersey Nets,Charlotte Hornets,"17-24, 13-7 Home","19-21, 7-14 Away",115,107,,,Final,,27,40,29,19,,35,28,13,31,,NBA
-61,61,160130025,1995,"Tue, Jan 30",Seattle SuperSonics,New Jersey Nets,"32-11, 19-2 Home","17-26, 4-18 Away",97,88,,,Final,,23,22,25,27,,25,16,22,25,,NBA
-62,62,160204009,1995,"Sun, Feb 4",Golden State Warriors,New Jersey Nets,"20-25, 13-9 Home","18-27, 5-19 Away",96,92,,,Final,,18,28,24,26,,25,23,13,31,,NBA
-63,63,160208021,1995,"Thu, Feb 8",Phoenix Suns,New Jersey Nets,"22-24, 12-12 Home","18-29, 5-21 Away",107,102,,,Final,,34,23,25,25,,24,26,27,25,,NBA
-64,64,160214017,1995,"Wed, Feb 14",New Jersey Nets,Indiana Pacers,"20-29, 14-8 Home","31-18, 12-14 Away",88,87,,,Final,,18,28,21,21,,22,20,24,21,,NBA
-65,65,160219027,1995,"Mon, Feb 19",Washington Bullets,New Jersey Nets,"23-28, 16-9 Home","22-29, 7-21 Away",81,99,,,Final,,24,18,22,17,,21,24,25,29,,NBA
-66,66,160224005,1995,"Sat, Feb 24",Cleveland Cavaliers,New Jersey Nets,"31-22, 19-9 Home","23-30, 8-22 Away",103,74,,,Final,,25,25,25,28,,16,15,23,20,,NBA
-67,67,160227017,1995,"Tue, Feb 27",New Jersey Nets,Miami Heat,"24-31, 16-9 Home","27-29, 9-18 Away",90,93,,,Final,,26,24,23,17,,22,21,29,21,,NBA
-68,68,160302017,1995,"Sat, Mar 2",New Jersey Nets,Seattle SuperSonics,"24-33, 16-11 Home","45-12, 19-10 Away",92,103,,,Final,,25,25,16,26,,29,22,26,26,,NBA
-69,69,160308024,1995,"Fri, Mar 8",San Antonio Spurs,New Jersey Nets,"41-18, 24-6 Home","24-35, 8-24 Away",115,100,,,Final,,22,24,29,40,,24,22,25,29,,NBA
-70,70,160312017,1995,"Tue, Mar 12",New Jersey Nets,Phoenix Suns,"25-36, 16-12 Home","31-31, 14-16 Away",88,98,,,Final,,18,23,24,23,,23,13,30,32,,NBA
-71,71,160316017,1995,"Sat, Mar 16",New Jersey Nets,Chicago Bulls,"25-38, 16-14 Home","57-7, 25-7 Away",93,97,,,Final,,26,26,18,23,,26,20,25,26,,NBA
-72,72,160319017,1995,"Tue, Mar 19",New Jersey Nets,Vancouver Grizzlies,"26-39, 17-14 Home","11-52, 3-27 Away",82,77,,,Final,,22,23,14,23,,18,23,21,15,,NBA
-73,73,160322008,1995,"Fri, Mar 22",Detroit Pistons,New Jersey Nets,"38-29, 24-10 Home","27-40, 9-26 Away",111,96,,,Final,,32,29,22,28,,26,25,20,25,,NBA
-74,74,160325017,1995,"Mon, Mar 25",New Jersey Nets,San Antonio Spurs,"28-41, 18-15 Home","50-18, 23-12 Away",88,95,,,Final,,26,18,24,20,,28,18,31,18,,NBA
-75,75,160331011,1995,"Sun, Mar 31",Indiana Pacers,New Jersey Nets,"44-28, 27-8 Home","28-43, 10-28 Away",118,100,,,Final,,36,33,25,24,,16,26,30,28,,NBA
-76,76,160405017,1995,"Fri, Apr 5",New Jersey Nets,Atlanta Hawks,"29-44, 19-16 Home","42-32, 18-19 Away",70,82,,,Final,,11,17,23,19,,24,17,25,16,,NBA
-77,77,160408020,1995,"Mon, Apr 8",Philadelphia 76ers,New Jersey Nets,"16-60, 10-28 Home","29-46, 10-29 Away",82,79,,,Final,,21,11,27,23,,15,27,20,17,,NBA
-78,78,160411017,1995,"Thu, Apr 11",New Jersey Nets,Chicago Bulls,"29-48, 19-19 Home","67-9, 30-8 Away",100,113,,,Final,,20,18,34,28,,29,25,31,28,,NBA
-79,79,160415014,1995,"Mon, Apr 15",Miami Heat,New Jersey Nets,"41-38, 26-14 Home","29-50, 10-30 Away",110,90,,,Final,,23,26,27,34,,34,19,11,26,,NBA
-80,80,160419017,1995,"Fri, Apr 19",New Jersey Nets,Boston Celtics,"30-51, 20-21 Home","33-48, 15-26 Away",106,112,,,Final,,32,26,18,30,,30,27,26,29,,NBA
-81,81,160420001,1995,"Sat, Apr 20",Atlanta Hawks,New Jersey Nets,"45-36, 26-15 Home","30-52, 10-31 Away",121,99,,,Final,,32,26,34,29,,23,32,15,29,,NBA
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+151107017,1995,"November 07, 1995",New Jersey Nets,Portland Trail Blazers,"1-1, 1-0 Home","1-2, 0-1 Away",104,84,,,Final,,27,28,22,27,,20,19,17,28,,NBA
+151110014,1995,"November 10, 1995",Miami Heat,New Jersey Nets,"3-0, 3-0 Home","1-3, 0-3 Away",106,80,,,Final,,32,28,27,19,,16,23,25,16,,NBA
+151115017,1995,"November 15, 1995",New Jersey Nets,Charlotte Hornets,"3-3, 3-0 Home","3-5, 0-5 Away",90,79,,,Final,,19,19,31,21,,26,26,9,18,,NBA
+151118017,1995,"November 18, 1995",New Jersey Nets,Philadelphia 76ers,"4-4, 4-0 Home","2-6, 0-3 Away",95,79,,,Final,,29,21,20,25,,17,16,23,23,,NBA
+151122012,1995,"November 22, 1995",Los Angeles Clippers,New Jersey Nets,"7-5, 5-1 Home","4-6, 0-6 Away",125,92,,,Final,,32,25,27,41,,30,22,24,16,,NBA
+151126023,1995,"November 26, 1995",Sacramento Kings,New Jersey Nets,"9-4, 4-2 Home","4-8, 0-8 Away",99,92,,,Final,,22,30,19,28,,33,14,25,20,,NBA
+151201002,1995,"December 01, 1995",Boston Celtics,New Jersey Nets,"5-8, 3-7 Home","6-8, 1-8 Away",123,131,,,Final/OT,,32,22,23,36,10.0,34,28,30,21,18.0,NBA
+151206016,1995,"December 06, 1995",Minnesota Timberwolves,New Jersey Nets,"4-11, 3-5 Home","7-9, 1-9 Away",108,97,,,Final,,28,22,38,20,,25,23,25,24,,NBA
+151209005,1995,"December 09, 1995",Cleveland Cavaliers,New Jersey Nets,"8-11, 5-5 Home","9-9, 2-9 Away",73,85,,,Final,,28,14,22,9,,26,18,20,21,,NBA
+151215008,1995,"December 15, 1995",Detroit Pistons,New Jersey Nets,"9-12, 7-5 Home","9-11, 2-10 Away",105,98,,,Final,,23,29,30,23,,25,26,30,17,,NBA
+151220017,1995,"December 20, 1995",New Jersey Nets,Miami Heat,"9-13, 7-3 Home","13-10, 5-7 Away",104,112,,,Final/OT,,27,25,20,30,2.0,33,15,26,28,10.0,NBA
+151223020,1995,"December 23, 1995",Philadelphia 76ers,New Jersey Nets,"5-19, 4-10 Home","10-14, 3-11 Away",85,98,,,Final,,16,20,32,17,,27,17,28,26,,NBA
+151228010,1995,"December 28, 1995",Houston Rockets,New Jersey Nets,"21-8, 12-2 Home","10-16, 3-13 Away",97,82,,,Final,,22,24,21,30,,25,23,10,24,,NBA
+160102017,1995,"January 02, 1996",New Jersey Nets,Milwaukee Bucks,"11-17, 8-4 Home","10-18, 5-10 Away",81,72,,,Final,,19,20,22,20,,25,21,15,11,,NBA
+160105017,1995,"January 05, 1996",New Jersey Nets,Dallas Mavericks,"12-18, 9-4 Home","8-22, 3-14 Away",107,99,,,Final,,33,27,25,22,,20,32,24,23,,NBA
+160110017,1995,"January 10, 1996",New Jersey Nets,New York Knicks,"13-19, 10-4 Home","21-11, 8-6 Away",92,79,,,Final,,31,19,16,26,,22,20,23,14,,NBA
+160113017,1995,"January 13, 1996",New Jersey Nets,Detroit Pistons,"13-21, 10-6 Home","18-15, 6-9 Away",80,91,,,Final,,20,19,21,20,,22,22,22,25,,NBA
+160117003,1995,"January 17, 1996",Charlotte Hornets,New Jersey Nets,"17-19, 11-6 Home","15-21, 4-15 Away",93,97,,,Final,,20,29,27,17,,32,24,19,22,,NBA
+160120017,1995,"January 20, 1996",New Jersey Nets,Minnesota Timberwolves,"16-22, 12-6 Home","11-27, 3-18 Away",103,97,,,Final/OT,,26,22,22,22,11.0,21,25,25,21,5.0,NBA
+160124017,1995,"January 24, 1996",New Jersey Nets,Houston Rockets,"16-24, 12-7 Home","28-14, 14-9 Away",89,98,,,Final,,26,17,12,34,,25,27,19,27,,NBA
+160127017,1995,"January 27, 1996",New Jersey Nets,Los Angeles Lakers,"17-25, 13-8 Home","24-18, 9-12 Away",98,100,,,Final,,22,16,28,32,,31,18,27,24,,NBA
+160202029,1995,"February 02, 1996",Vancouver Grizzlies,New Jersey Nets,"10-35, 7-15 Home","18-26, 5-18 Away",84,93,,,Final,,20,22,16,26,,18,23,28,24,,NBA
+160207013,1995,"February 07, 1996",Los Angeles Lakers,New Jersey Nets,"28-19, 18-7 Home","18-28, 5-20 Away",106,96,,,Final,,26,25,27,28,,15,28,26,27,,NBA
+160213011,1995,"February 13, 1996",Indiana Pacers,New Jersey Nets,"31-17, 19-4 Home","19-29, 6-21 Away",92,101,,,Final,,21,21,26,24,,20,21,24,36,,NBA
+160217017,1995,"February 17, 1996",New Jersey Nets,New York Knicks,"21-29, 15-8 Home","31-18, 12-10 Away",82,77,,,Final,,21,24,14,23,,22,24,17,14,,NBA
+160221015,1995,"February 21, 1996",Milwaukee Bucks,New Jersey Nets,"20-31, 11-15 Home","23-29, 8-21 Away",92,94,,,Final/OT,,22,17,23,25,5.0,22,19,26,20,7.0,NBA
+160225017,1995,"February 25, 1996",New Jersey Nets,Boston Celtics,"24-30, 16-8 Home","19-35, 9-20 Away",111,105,,,Final,,26,35,28,22,,26,27,28,24,,NBA
+160229017,1995,"February 29, 1996",New Jersey Nets,Orlando Magic,"24-32, 16-10 Home","42-15, 13-15 Away",98,114,,,Final,,20,25,20,33,,29,25,32,28,,NBA
+160305006,1995,"March 05, 1996",Dallas Mavericks,New Jersey Nets,"21-37, 13-17 Home","24-34, 8-23 Away",127,117,,,Final,,35,26,34,32,,35,31,22,29,,NBA
+160310007,1995,"March 10, 1996",Denver Nuggets,New Jersey Nets,"26-35, 18-13 Home","25-35, 9-24 Away",88,99,,,Final,,22,23,13,30,,22,27,26,24,,NBA
+160314017,1995,"March 14, 1996",New Jersey Nets,Washington Bullets,"25-37, 16-13 Home","29-35, 10-24 Away",92,100,,,Final,,27,20,17,28,,25,20,27,28,,NBA
+160317002,1995,"March 17, 1996",Boston Celtics,New Jersey Nets,"25-40, 15-18 Home","25-39, 9-25 Away",107,106,,,Final/2OT,,32,13,23,22,17.0,24,28,14,24,16.0,NBA
+160321017,1995,"March 21, 1996",New Jersey Nets,Denver Nuggets,"27-39, 18-14 Home","28-38, 9-25 Away",97,89,,,Final,,27,26,18,26,,21,18,30,20,,NBA
+160324015,1995,"March 24, 1996",Milwaukee Bucks,New Jersey Nets,"21-46, 12-23 Home","28-40, 10-26 Away",80,84,,,Final,,21,19,28,12,,25,21,14,24,,NBA
+160329018,1995,"March 29, 1996",New York Knicks,New Jersey Nets,"41-28, 24-11 Home","28-42, 10-27 Away",94,78,,,Final,,27,19,28,20,,26,26,11,15,,NBA
+160403017,1995,"April 03, 1996",New Jersey Nets,Los Angeles Clippers,"29-43, 19-15 Home","27-47, 10-27 Away",100,94,,,Final,,30,26,20,24,,33,26,17,18,,NBA
+160406017,1995,"April 06, 1996",New Jersey Nets,Milwaukee Bucks,"29-45, 19-17 Home","23-51, 10-27 Away",88,109,,,Final,,26,18,25,19,,28,29,18,34,,NBA
+160409017,1995,"April 09, 1996",New Jersey Nets,Detroit Pistons,"29-47, 19-18 Home","42-33, 16-22 Away",94,111,,,Final,,24,22,18,30,,28,29,33,21,,NBA
+160414017,1995,"April 14, 1996",New Jersey Nets,Atlanta Hawks,"29-49, 19-20 Home","44-34, 19-20 Away",90,99,,,Final,,15,26,22,27,,30,23,23,23,,NBA
+160417017,1995,"April 17, 1996",New Jersey Nets,Toronto Raptors,"30-50, 20-20 Home","20-60, 6-35 Away",107,95,,,Final,,31,25,23,28,,29,25,26,15,,NBA
+151103028,1995,"November 03, 1995",Toronto Raptors,New Jersey Nets,"1-0, 1-0 Home","0-1, 0-1 Away",94,79,,,Final,,21,25,20,28,,17,16,20,26,,NBA
+151108019,1995,"November 08, 1995",Orlando Magic,New Jersey Nets,"3-1, 3-0 Home","1-2, 0-2 Away",130,122,,,Final/3OT,,20,25,32,21,32.0,27,27,22,22,24.0,NBA
+151111017,1995,"November 11, 1995",New Jersey Nets,Sacramento Kings,"2-3, 2-0 Home","5-1, 3-1 Away",86,84,,,Final,,21,20,24,21,,22,23,23,16,,NBA
+151117004,1995,"November 17, 1995",Chicago Bulls,New Jersey Nets,"7-1, 6-0 Home","3-4, 0-4 Away",109,94,,,Final,,36,25,24,24,,25,27,20,22,,NBA
+151120026,1995,"November 20, 1995",Utah Jazz,New Jersey Nets,"9-2, 5-0 Home","4-5, 0-5 Away",105,79,,,Final,,32,24,23,26,,19,15,17,28,,NBA
+151124022,1995,"November 24, 1995",Portland Trail Blazers,New Jersey Nets,"6-6, 4-2 Home","4-7, 0-7 Away",99,87,,,Final,,29,25,27,18,,19,18,27,23,,NBA
+151128017,1995,"November 28, 1995",New Jersey Nets,Washington Bullets,"5-8, 5-0 Home","5-7, 1-4 Away",89,84,,,Final,,29,20,20,20,,16,26,24,18,,NBA
+151202017,1995,"December 02, 1995",New Jersey Nets,Cleveland Cavaliers,"7-8, 6-0 Home","6-9, 3-5 Away",79,78,,,Final,,18,17,23,21,,26,24,15,13,,NBA
+151208017,1995,"December 08, 1995",New Jersey Nets,Indiana Pacers,"8-9, 7-0 Home","7-9, 4-6 Away",91,89,,,Final,,24,26,22,19,,28,17,18,26,,NBA
+151212017,1995,"December 12, 1995",New Jersey Nets,Orlando Magic,"9-10, 7-1 Home","17-4, 6-4 Away",97,101,,,Final,,24,30,23,20,,24,30,21,26,,NBA
+151218017,1995,"December 18, 1995",New Jersey Nets,Utah Jazz,"9-12, 7-2 Home","16-7, 8-4 Away",103,110,,,Final,,31,27,17,28,,27,27,33,23,,NBA
+151222001,1995,"December 22, 1995",Atlanta Hawks,New Jersey Nets,"12-12, 6-7 Home","9-14, 2-11 Away",94,91,,,Final,,21,24,28,21,,20,25,19,27,,NBA
+151226014,1995,"December 26, 1995",Miami Heat,New Jersey Nets,"14-12, 9-4 Home","10-15, 3-12 Away",96,93,,,Final,,20,30,25,21,,21,21,24,27,,NBA
+151230017,1995,"December 30, 1995",New Jersey Nets,Golden State Warriors,"10-17, 7-4 Home","12-17, 5-11 Away",110,120,,,Final,,26,32,24,28,,35,33,25,27,,NBA
+160104018,1995,"January 04, 1996",New York Knicks,New Jersey Nets,"20-10, 12-5 Home","11-18, 3-14 Away",105,93,,,Final,,27,22,26,30,,29,26,20,18,,NBA
+160109019,1995,"January 09, 1996",Orlando Magic,New Jersey Nets,"26-7, 19-0 Home","12-19, 3-15 Away",92,84,,,Final,,17,28,21,26,,26,21,28,9,,NBA
+160112017,1995,"January 12, 1996",New Jersey Nets,Philadelphia 76ers,"13-20, 10-5 Home","7-25, 3-14 Away",80,107,,,Final,,14,13,27,26,,23,25,21,38,,NBA
+160115017,1995,"January 15, 1996",New Jersey Nets,Toronto Raptors,"14-21, 11-6 Home","10-26, 2-16 Away",108,83,,,Final,,27,24,32,25,,17,18,25,23,,NBA
+160119027,1995,"January 19, 1996",Washington Bullets,New Jersey Nets,"19-19, 13-6 Home","15-22, 4-16 Away",93,87,,,Final,,30,16,20,27,,24,21,18,24,,NBA
+160123028,1995,"January 23, 1996",Toronto Raptors,New Jersey Nets,"12-28, 10-12 Home","16-23, 4-17 Away",86,79,,,Final,,28,16,26,16,,24,24,19,12,,NBA
+160126017,1995,"January 26, 1996",New Jersey Nets,Charlotte Hornets,"17-24, 13-7 Home","19-21, 7-14 Away",115,107,,,Final,,27,40,29,19,,35,28,13,31,,NBA
+160130025,1995,"January 30, 1996",Seattle SuperSonics,New Jersey Nets,"32-11, 19-2 Home","17-26, 4-18 Away",97,88,,,Final,,23,22,25,27,,25,16,22,25,,NBA
+160204009,1995,"February 04, 1996",Golden State Warriors,New Jersey Nets,"20-25, 13-9 Home","18-27, 5-19 Away",96,92,,,Final,,18,28,24,26,,25,23,13,31,,NBA
+160208021,1995,"February 08, 1996",Phoenix Suns,New Jersey Nets,"22-24, 12-12 Home","18-29, 5-21 Away",107,102,,,Final,,34,23,25,25,,24,26,27,25,,NBA
+160214017,1995,"February 14, 1996",New Jersey Nets,Indiana Pacers,"20-29, 14-8 Home","31-18, 12-14 Away",88,87,,,Final,,18,28,21,21,,22,20,24,21,,NBA
+160219027,1995,"February 19, 1996",Washington Bullets,New Jersey Nets,"23-28, 16-9 Home","22-29, 7-21 Away",81,99,,,Final,,24,18,22,17,,21,24,25,29,,NBA
+160224005,1995,"February 24, 1996",Cleveland Cavaliers,New Jersey Nets,"31-22, 19-9 Home","23-30, 8-22 Away",103,74,,,Final,,25,25,25,28,,16,15,23,20,,NBA
+160227017,1995,"February 27, 1996",New Jersey Nets,Miami Heat,"24-31, 16-9 Home","27-29, 9-18 Away",90,93,,,Final,,26,24,23,17,,22,21,29,21,,NBA
+160302017,1995,"March 02, 1996",New Jersey Nets,Seattle SuperSonics,"24-33, 16-11 Home","45-12, 19-10 Away",92,103,,,Final,,25,25,16,26,,29,22,26,26,,NBA
+160308024,1995,"March 08, 1996",San Antonio Spurs,New Jersey Nets,"41-18, 24-6 Home","24-35, 8-24 Away",115,100,,,Final,,22,24,29,40,,24,22,25,29,,NBA
+160312017,1995,"March 12, 1996",New Jersey Nets,Phoenix Suns,"25-36, 16-12 Home","31-31, 14-16 Away",88,98,,,Final,,18,23,24,23,,23,13,30,32,,NBA
+160316017,1995,"March 16, 1996",New Jersey Nets,Chicago Bulls,"25-38, 16-14 Home","57-7, 25-7 Away",93,97,,,Final,,26,26,18,23,,26,20,25,26,,NBA
+160319017,1995,"March 19, 1996",New Jersey Nets,Vancouver Grizzlies,"26-39, 17-14 Home","11-52, 3-27 Away",82,77,,,Final,,22,23,14,23,,18,23,21,15,,NBA
+160322008,1995,"March 22, 1996",Detroit Pistons,New Jersey Nets,"38-29, 24-10 Home","27-40, 9-26 Away",111,96,,,Final,,32,29,22,28,,26,25,20,25,,NBA
+160325017,1995,"March 25, 1996",New Jersey Nets,San Antonio Spurs,"28-41, 18-15 Home","50-18, 23-12 Away",88,95,,,Final,,26,18,24,20,,28,18,31,18,,NBA
+160331011,1995,"March 31, 1996",Indiana Pacers,New Jersey Nets,"44-28, 27-8 Home","28-43, 10-28 Away",118,100,,,Final,,36,33,25,24,,16,26,30,28,,NBA
+160405017,1995,"April 05, 1996",New Jersey Nets,Atlanta Hawks,"29-44, 19-16 Home","42-32, 18-19 Away",70,82,,,Final,,11,17,23,19,,24,17,25,16,,NBA
+160408020,1995,"April 08, 1996",Philadelphia 76ers,New Jersey Nets,"16-60, 10-28 Home","29-46, 10-29 Away",82,79,,,Final,,21,11,27,23,,15,27,20,17,,NBA
+160411017,1995,"April 11, 1996",New Jersey Nets,Chicago Bulls,"29-48, 19-19 Home","67-9, 30-8 Away",100,113,,,Final,,20,18,34,28,,29,25,31,28,,NBA
+160415014,1995,"April 15, 1996",Miami Heat,New Jersey Nets,"41-38, 26-14 Home","29-50, 10-30 Away",110,90,,,Final,,23,26,27,34,,34,19,11,26,,NBA
+160419017,1995,"April 19, 1996",New Jersey Nets,Boston Celtics,"30-51, 20-21 Home","33-48, 15-26 Away",106,112,,,Final,,32,26,18,30,,30,27,26,29,,NBA
+160420001,1995,"April 20, 1996",Atlanta Hawks,New Jersey Nets,"45-36, 26-15 Home","30-52, 10-31 Away",121,99,,,Final,,32,26,34,29,,23,32,15,29,,NBA

@@ -1,83 +1,83 @@
-,Unnamed: 0,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-0,0,151104015,1995,"Sat, Nov 4",Milwaukee Bucks,New York Knicks,"1-1, 0-1 Home","2-0, 2-0 Away",71,84,,,Final,,20,19,19,13,,23,23,16,22,,NBA
-1,1,151109018,1995,"Thu, Nov 9",New York Knicks,Indiana Pacers,"3-1, 1-1 Home","3-1, 2-1 Away",103,95,,,Final,,20,21,26,36,,24,18,16,37,,NBA
-2,2,151112018,1995,"Sun, Nov 12",New York Knicks,Utah Jazz,"5-1, 2-1 Home","4-2, 0-2 Away",120,110,,,Final,,37,24,27,32,,18,25,26,41,,NBA
-3,3,151116009,1995,"Thu, Nov 16",Golden State Warriors,New York Knicks,"2-6, 2-3 Home","6-2, 4-1 Away",97,120,,,Final,,27,24,27,19,,30,17,40,33,,NBA
-4,4,151119018,1995,"Sun, Nov 19",New York Knicks,Vancouver Grizzlies,"8-2, 3-1 Home","2-8, 1-5 Away",98,93,,,Final,,29,26,22,21,,31,23,19,20,,NBA
-5,5,151125018,1995,"Sat, Nov 25",New York Knicks,Houston Rockets,"10-2, 4-1 Home","10-2, 6-2 Away",103,88,,,Final,,28,20,26,29,,27,20,25,16,,NBA
-6,6,151129003,1995,"Wed, Nov 29",Charlotte Hornets,New York Knicks,"7-8, 5-2 Home","10-4, 6-2 Away",115,105,,,Final,,27,29,24,35,,24,26,27,28,,NBA
-7,7,151203018,1995,"Sun, Dec 3",New York Knicks,Washington Bullets,"12-4, 5-2 Home","6-9, 1-5 Away",107,83,,,Final,,27,25,29,26,,16,18,21,28,,NBA
-8,8,151206004,1995,"Wed, Dec 6",Chicago Bulls,New York Knicks,"14-2, 7-0 Home","13-5, 7-3 Away",101,94,,,Final,,23,20,29,29,,30,26,17,21,,NBA
-9,9,151210018,1995,"Sun, Dec 10",New York Knicks,San Antonio Spurs,"15-5, 7-2 Home","11-6, 5-4 Away",118,112,,,Final/2OT,,27,28,20,28,15.0,28,21,29,25,9.0,NBA
-10,10,151214018,1995,"Thu, Dec 14",New York Knicks,Denver Nuggets,"16-6, 8-3 Home","10-10, 5-7 Away",94,103,,,Final,,30,28,18,18,,34,21,21,27,,NBA
-11,11,151219018,1995,"Tue, Dec 19",New York Knicks,Miami Heat,"18-6, 10-3 Home","12-10, 4-7 Away",89,70,,,Final,,11,28,25,25,,17,16,19,18,,NBA
-12,12,151223018,1995,"Sat, Dec 23",New York Knicks,Toronto Raptors,"19-7, 11-3 Home","8-20, 2-12 Away",103,91,,,Final,,26,22,28,27,,26,31,14,20,,NBA
-13,13,151229027,1995,"Fri, Dec 29",Washington Bullets,New York Knicks,"14-13, 10-4 Home","19-9, 8-5 Away",127,120,,,Final/OT,,35,31,26,18,17.0,28,27,24,31,10.0,NBA
-14,14,160104018,1995,"Thu, Jan 4",New York Knicks,New Jersey Nets,"20-10, 12-5 Home","11-18, 3-14 Away",105,93,,,Final,,27,22,26,30,,29,26,20,18,,NBA
-15,15,160110017,1995,"Wed, Jan 10",New Jersey Nets,New York Knicks,"13-19, 10-4 Home","21-11, 8-6 Away",92,79,,,Final,,31,19,16,26,,22,20,23,14,,NBA
-16,16,160113018,1995,"Sat, Jan 13",New York Knicks,Sacramento Kings,"22-12, 13-6 Home","20-12, 7-8 Away",111,119,,,Final,,23,31,28,29,,27,31,31,30,,NBA
-17,17,160117012,1995,"Wed, Jan 17",Los Angeles Clippers,New York Knicks,"15-22, 9-9 Home","23-13, 10-6 Away",81,92,,,Final,,17,18,23,23,,22,18,28,24,,NBA
-18,18,160120029,1995,"Sat, Jan 20",Vancouver Grizzlies,New York Knicks,"8-30, 7-14 Home","24-14, 11-7 Away",84,80,,,Final,,22,27,21,14,,29,16,15,20,,NBA
-19,19,160124014,1995,"Wed, Jan 24",Miami Heat,New York Knicks,"18-22, 12-7 Home","25-15, 12-7 Away",79,88,,,Final,,22,19,22,16,,20,24,17,27,,NBA
-20,20,160129018,1995,"Mon, Jan 29",New York Knicks,Miami Heat,"27-15, 15-8 Home","19-24, 7-17 Away",94,85,,,Final,,22,24,18,30,,19,21,24,21,,NBA
-21,21,160204011,1995,"Sun, Feb 4",Indiana Pacers,New York Knicks,"31-15, 19-3 Home","28-16, 12-8 Away",90,83,,,Final,,26,20,23,21,,21,15,20,27,,NBA
-22,22,160207018,1995,"Wed, Feb 7",New York Knicks,Washington Bullets,"30-16, 18-8 Home","22-23, 6-16 Away",87,82,,,Final,,24,20,26,17,,15,21,25,21,,NBA
-23,23,160216018,1995,"Fri, Feb 16",New York Knicks,Philadelphia 76ers,"31-17, 19-8 Home","10-38, 4-19 Away",116,84,,,Final,,40,21,25,30,,16,25,23,20,,NBA
-24,24,160220018,1995,"Tue, Feb 20",New York Knicks,Milwaukee Bucks,"31-19, 19-9 Home","20-30, 9-16 Away",87,92,,,Final,,18,28,18,23,,24,25,25,18,,NBA
-25,25,160223018,1995,"Fri, Feb 23",New York Knicks,Atlanta Hawks,"32-20, 19-10 Home","29-24, 12-13 Away",97,108,,,Final,,25,27,22,23,,35,28,27,18,,NBA
-26,26,160226013,1995,"Mon, Feb 26",Los Angeles Lakers,New York Knicks,"34-20, 22-7 Home","32-22, 13-12 Away",114,96,,,Final,,36,25,29,24,,22,31,22,21,,NBA
-27,27,160301026,1995,"Fri, Mar 1",Utah Jazz,New York Knicks,"39-17, 24-4 Home","32-24, 13-14 Away",99,88,,,Final,,24,25,22,28,,27,27,22,12,,NBA
-28,28,160305018,1995,"Tue, Mar 5",New York Knicks,Los Angeles Clippers,"33-25, 20-11 Home","20-38, 7-19 Away",88,105,,,Final,,22,19,27,20,,22,22,28,33,,NBA
-29,29,160308020,1995,"Fri, Mar 8",Philadelphia 76ers,New York Knicks,"12-47, 7-22 Home","34-26, 14-15 Away",100,92,,,Final,,29,22,25,24,,28,29,14,21,,NBA
-30,30,160313016,1995,"Wed, Mar 13",Minnesota Timberwolves,New York Knicks,"19-43, 13-19 Home","36-26, 15-15 Away",82,106,,,Final,,16,31,19,16,,25,32,28,21,,NBA
-31,31,160320018,1995,"Wed, Mar 20",New York Knicks,Indiana Pacers,"38-26, 23-11 Home","40-26, 16-19 Away",102,99,,,Final,,19,23,26,34,,27,16,22,34,,NBA
-32,32,160324006,1995,"Sun, Mar 24",Dallas Mavericks,New York Knicks,"21-47, 13-21 Home","39-27, 16-16 Away",79,85,,,Final,,26,11,20,22,,26,22,24,13,,NBA
-33,33,160327024,1995,"Wed, Mar 27",San Antonio Spurs,New York Knicks,"51-18, 28-6 Home","40-28, 17-17 Away",90,84,,,Final,,23,16,29,22,,23,19,22,20,,NBA
-34,34,160331019,1995,"Sun, Mar 31",Orlando Magic,New York Knicks,"54-18, 34-1 Home","41-29, 17-18 Away",98,79,,,Final,,27,25,29,17,,21,22,22,14,,NBA
-35,35,160403018,1995,"Wed, Apr 3",New York Knicks,Orlando Magic,"42-30, 24-12 Home","55-18, 21-17 Away",85,98,,,Final,,19,25,18,23,,25,24,24,25,,NBA
-36,36,160406028,1995,"Sat, Apr 6",Toronto Raptors,New York Knicks,"19-55, 14-25 Home","44-30, 20-18 Away",106,139,,,Final,,23,36,24,23,,33,34,27,45,,NBA
-37,37,160409018,1995,"Tue, Apr 9",New York Knicks,Boston Celtics,"45-31, 25-13 Home","30-46, 13-25 Away",97,93,,,Final,,30,31,18,18,,27,28,21,17,,NBA
-38,38,160413014,1995,"Sat, Apr 13",Miami Heat,New York Knicks,"40-38, 25-14 Home","45-33, 20-19 Away",103,95,,,Final,,19,30,30,24,,21,26,22,26,,NBA
-39,39,160418005,1995,"Thu, Apr 18",Cleveland Cavaliers,New York Knicks,"46-34, 25-15 Home","46-34, 20-20 Away",92,77,,,Final,,22,21,28,21,,13,15,19,30,,NBA
-40,40,151103008,1995,"Fri, Nov 3",Detroit Pistons,New York Knicks,"0-1, 0-1 Home","1-0, 1-0 Away",100,106,,,Final,,26,23,27,24,,33,29,20,24,,NBA
-41,41,151107018,1995,"Tue, Nov 7",New York Knicks,Phoenix Suns,"2-1, 0-1 Home","1-2, 1-1 Away",94,102,,,Final,,26,33,21,14,,25,24,21,32,,NBA
-42,42,151110027,1995,"Fri, Nov 10",Washington Bullets,New York Knicks,"2-3, 2-1 Home","4-1, 3-0 Away",109,110,,,Final,,40,23,31,15,,37,18,31,24,,NBA
-43,43,151114022,1995,"Tue, Nov 14",Portland Trail Blazers,New York Knicks,"3-4, 2-1 Home","5-2, 3-1 Away",105,99,,,Final,,19,36,26,24,,29,25,26,19,,NBA
-44,44,151117007,1995,"Fri, Nov 17",Denver Nuggets,New York Knicks,"1-7, 0-3 Home","7-2, 5-1 Away",94,103,,,Final,,26,18,20,30,,31,27,24,21,,NBA
-45,45,151122005,1995,"Wed, Nov 22",Cleveland Cavaliers,New York Knicks,"2-8, 1-4 Home","9-2, 6-1 Away",84,94,,,Final,,25,25,14,20,,20,22,23,29,,NBA
-46,46,151128018,1995,"Tue, Nov 28",New York Knicks,Atlanta Hawks,"10-3, 4-2 Home","8-5, 5-3 Away",97,102,,,Final/OT,,22,23,25,25,2.0,19,29,25,22,7.0,NBA
-47,47,151202020,1995,"Sat, Dec 2",Philadelphia 76ers,New York Knicks,"2-12, 2-6 Home","11-4, 7-2 Away",85,94,,,Final,,24,15,23,23,,15,20,26,33,,NBA
-48,48,151205018,1995,"Tue, Dec 5",New York Knicks,Dallas Mavericks,"13-4, 6-2 Home","6-10, 3-7 Away",92,87,,,Final,,31,21,24,16,,26,19,18,24,,NBA
-49,49,151209001,1995,"Sat, Dec 9",Atlanta Hawks,New York Knicks,"9-10, 4-5 Home","14-5, 8-3 Away",92,101,,,Final,,29,27,26,10,,28,29,20,24,,NBA
-50,50,151212018,1995,"Tue, Dec 12",New York Knicks,Los Angeles Lakers,"16-5, 8-2 Home","11-10, 2-8 Away",97,82,,,Final,,21,30,27,19,,20,21,20,21,,NBA
-51,51,151216018,1995,"Sat, Dec 16",New York Knicks,Detroit Pistons,"17-6, 9-3 Home","9-13, 2-8 Away",86,82,,,Final,,22,17,21,26,,9,24,25,24,,NBA
-52,52,151222019,1995,"Fri, Dec 22",Orlando Magic,New York Knicks,"20-6, 14-0 Home","18-7, 8-4 Away",111,90,,,Final,,37,28,17,29,,18,28,20,24,,NBA
-53,53,151228018,1995,"Thu, Dec 28",New York Knicks,Cleveland Cavaliers,"19-8, 11-4 Home","14-12, 5-6 Away",76,86,,,Final,,18,15,22,21,,23,16,29,18,,NBA
-54,54,160102018,1995,"Tue, Jan 2",New York Knicks,Portland Trail Blazers,"19-10, 11-5 Home","13-17, 4-11 Away",92,101,,,Final,,18,27,26,21,,28,27,18,28,,NBA
-55,55,160109018,1995,"Tue, Jan 9",New York Knicks,Boston Celtics,"21-10, 13-5 Home","13-19, 5-8 Away",98,93,,,Final,,18,24,25,31,,21,15,23,34,,NBA
-56,56,160112002,1995,"Fri, Jan 12",Boston Celtics,New York Knicks,"14-20, 9-12 Home","22-11, 9-6 Away",92,105,,,Final,,23,28,26,15,,30,26,28,21,,NBA
-57,57,160115018,1995,"Mon, Jan 15",New York Knicks,Milwaukee Bucks,"22-13, 13-7 Home","13-22, 6-13 Away",92,98,,,Final,,26,29,20,17,,20,27,22,29,,NBA
-58,58,160119025,1995,"Fri, Jan 19",Seattle SuperSonics,New York Knicks,"26-11, 15-2 Home","24-13, 11-6 Away",97,100,,,Final/OT,,26,20,19,22,10.0,23,25,21,18,13.0,NBA
-59,59,160123018,1995,"Tue, Jan 23",New York Knicks,Chicago Bulls,"24-15, 13-8 Home","35-3, 16-3 Away",79,99,,,Final,,20,19,17,23,,28,20,28,23,,NBA
-60,60,160127018,1995,"Sat, Jan 27",New York Knicks,Minnesota Timberwolves,"26-15, 14-8 Home","11-29, 3-19 Away",104,95,,,Final,,30,25,27,22,,23,25,26,21,,NBA
-61,61,160201018,1995,"Thu, Feb 1",New York Knicks,Orlando Magic,"28-15, 16-8 Home","31-13, 9-13 Away",110,102,,,Final,,24,32,28,26,,25,30,26,21,,NBA
-62,62,160205018,1995,"Mon, Feb 5",New York Knicks,Detroit Pistons,"29-16, 17-8 Home","22-22, 8-14 Away",97,91,,,Final,,19,24,31,23,,19,21,18,33,,NBA
-63,63,160214003,1995,"Wed, Feb 14",Charlotte Hornets,New York Knicks,"23-25, 16-9 Home","30-17, 12-9 Away",120,100,,,Final,,33,35,27,25,,26,21,25,28,,NBA
-64,64,160217017,1995,"Sat, Feb 17",New Jersey Nets,New York Knicks,"21-29, 15-8 Home","31-18, 12-10 Away",82,77,,,Final,,21,24,14,23,,22,24,17,14,,NBA
-65,65,160221008,1995,"Wed, Feb 21",Detroit Pistons,New York Knicks,"26-24, 17-10 Home","32-19, 13-10 Away",110,113,,,Final/OT,,29,29,29,18,5.0,21,35,23,26,8.0,NBA
-66,66,160225021,1995,"Sun, Feb 25",Phoenix Suns,New York Knicks,"27-26, 16-13 Home","32-21, 13-11 Away",113,105,,,Final,,36,25,24,28,,26,34,17,28,,NBA
-67,67,160228023,1995,"Wed, Feb 28",Sacramento Kings,New York Knicks,"25-28, 16-10 Home","32-23, 13-13 Away",90,85,,,Final,,16,22,20,32,,25,22,24,14,,NBA
-68,68,160303018,1995,"Sun, Mar 3",New York Knicks,Golden State Warriors,"33-24, 20-10 Home","26-32, 10-22 Away",109,94,,,Final,,28,24,38,19,,16,23,30,25,,NBA
-69,69,160306028,1995,"Wed, Mar 6",Toronto Raptors,New York Knicks,"15-43, 10-18 Home","34-25, 14-14 Away",82,89,,,Final,,23,15,20,24,,28,27,17,17,,NBA
-70,70,160310018,1995,"Sun, Mar 10",New York Knicks,Chicago Bulls,"35-26, 21-11 Home","54-7, 24-7 Away",104,72,,,Final,,31,19,26,28,,19,23,18,12,,NBA
-71,71,160316018,1995,"Sat, Mar 16",New York Knicks,Philadelphia 76ers,"37-26, 22-11 Home","13-51, 5-27 Away",94,88,,,Final,,32,15,17,30,,23,16,23,26,,NBA
-72,72,160321004,1995,"Thu, Mar 21",Chicago Bulls,New York Knicks,"60-7, 34-0 Home","38-27, 15-16 Away",107,86,,,Final,,29,32,18,28,,25,16,19,26,,NBA
-73,73,160326010,1995,"Tue, Mar 26",Houston Rockets,New York Knicks,"42-27, 22-12 Home","40-27, 17-16 Away",74,83,,,Final,,17,13,29,15,,24,28,13,18,,NBA
-74,74,160329018,1995,"Fri, Mar 29",New York Knicks,New Jersey Nets,"41-28, 24-11 Home","28-42, 10-27 Away",94,78,,,Final,,27,19,28,20,,26,26,11,15,,NBA
-75,75,160402011,1995,"Tue, Apr 2",Indiana Pacers,New York Knicks,"44-29, 27-9 Home","42-29, 18-18 Away",86,90,,,Final,,22,20,23,21,,25,15,26,24,,NBA
-76,76,160405015,1995,"Fri, Apr 5",Milwaukee Bucks,New York Knicks,"22-51, 13-24 Home","43-30, 19-18 Away",79,86,,,Final,,22,24,18,15,,28,16,26,16,,NBA
-77,77,160408018,1995,"Mon, Apr 8",New York Knicks,Seattle SuperSonics,"44-31, 24-13 Home","60-16, 25-13 Away",98,108,,,Final,,27,26,29,16,,32,33,23,20,,NBA
-78,78,160411018,1995,"Thu, Apr 11",New York Knicks,Cleveland Cavaliers,"45-32, 25-14 Home","44-33, 20-19 Away",97,101,,,Final,,18,27,31,21,,20,22,34,25,,NBA
-79,79,160415018,1995,"Mon, Apr 15",New York Knicks,Toronto Raptors,"46-33, 26-14 Home","20-59, 6-34 Away",125,79,,,Final,,29,26,32,38,,17,18,25,19,,NBA
-80,80,160419018,1995,"Fri, Apr 19",New York Knicks,Charlotte Hornets,"46-35, 26-15 Home","41-40, 16-25 Away",108,115,,,Final,,33,20,31,24,,27,31,24,33,,NBA
-81,81,160421002,1995,"Sun, Apr 21",Boston Celtics,New York Knicks,"33-49, 18-23 Home","47-35, 21-20 Away",111,122,,,Final,,32,30,25,24,,39,30,33,20,,NBA
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+151104015,1995,"November 04, 1995",Milwaukee Bucks,New York Knicks,"1-1, 0-1 Home","2-0, 2-0 Away",71,84,,,Final,,20,19,19,13,,23,23,16,22,,NBA
+151109018,1995,"November 09, 1995",New York Knicks,Indiana Pacers,"3-1, 1-1 Home","3-1, 2-1 Away",103,95,,,Final,,20,21,26,36,,24,18,16,37,,NBA
+151112018,1995,"November 12, 1995",New York Knicks,Utah Jazz,"5-1, 2-1 Home","4-2, 0-2 Away",120,110,,,Final,,37,24,27,32,,18,25,26,41,,NBA
+151116009,1995,"November 16, 1995",Golden State Warriors,New York Knicks,"2-6, 2-3 Home","6-2, 4-1 Away",97,120,,,Final,,27,24,27,19,,30,17,40,33,,NBA
+151119018,1995,"November 19, 1995",New York Knicks,Vancouver Grizzlies,"8-2, 3-1 Home","2-8, 1-5 Away",98,93,,,Final,,29,26,22,21,,31,23,19,20,,NBA
+151125018,1995,"November 25, 1995",New York Knicks,Houston Rockets,"10-2, 4-1 Home","10-2, 6-2 Away",103,88,,,Final,,28,20,26,29,,27,20,25,16,,NBA
+151129003,1995,"November 29, 1995",Charlotte Hornets,New York Knicks,"7-8, 5-2 Home","10-4, 6-2 Away",115,105,,,Final,,27,29,24,35,,24,26,27,28,,NBA
+151203018,1995,"December 03, 1995",New York Knicks,Washington Bullets,"12-4, 5-2 Home","6-9, 1-5 Away",107,83,,,Final,,27,25,29,26,,16,18,21,28,,NBA
+151206004,1995,"December 06, 1995",Chicago Bulls,New York Knicks,"14-2, 7-0 Home","13-5, 7-3 Away",101,94,,,Final,,23,20,29,29,,30,26,17,21,,NBA
+151210018,1995,"December 10, 1995",New York Knicks,San Antonio Spurs,"15-5, 7-2 Home","11-6, 5-4 Away",118,112,,,Final/2OT,,27,28,20,28,15.0,28,21,29,25,9.0,NBA
+151214018,1995,"December 14, 1995",New York Knicks,Denver Nuggets,"16-6, 8-3 Home","10-10, 5-7 Away",94,103,,,Final,,30,28,18,18,,34,21,21,27,,NBA
+151219018,1995,"December 19, 1995",New York Knicks,Miami Heat,"18-6, 10-3 Home","12-10, 4-7 Away",89,70,,,Final,,11,28,25,25,,17,16,19,18,,NBA
+151223018,1995,"December 23, 1995",New York Knicks,Toronto Raptors,"19-7, 11-3 Home","8-20, 2-12 Away",103,91,,,Final,,26,22,28,27,,26,31,14,20,,NBA
+151229027,1995,"December 29, 1995",Washington Bullets,New York Knicks,"14-13, 10-4 Home","19-9, 8-5 Away",127,120,,,Final/OT,,35,31,26,18,17.0,28,27,24,31,10.0,NBA
+160104018,1995,"January 04, 1996",New York Knicks,New Jersey Nets,"20-10, 12-5 Home","11-18, 3-14 Away",105,93,,,Final,,27,22,26,30,,29,26,20,18,,NBA
+160110017,1995,"January 10, 1996",New Jersey Nets,New York Knicks,"13-19, 10-4 Home","21-11, 8-6 Away",92,79,,,Final,,31,19,16,26,,22,20,23,14,,NBA
+160113018,1995,"January 13, 1996",New York Knicks,Sacramento Kings,"22-12, 13-6 Home","20-12, 7-8 Away",111,119,,,Final,,23,31,28,29,,27,31,31,30,,NBA
+160117012,1995,"January 17, 1996",Los Angeles Clippers,New York Knicks,"15-22, 9-9 Home","23-13, 10-6 Away",81,92,,,Final,,17,18,23,23,,22,18,28,24,,NBA
+160120029,1995,"January 20, 1996",Vancouver Grizzlies,New York Knicks,"8-30, 7-14 Home","24-14, 11-7 Away",84,80,,,Final,,22,27,21,14,,29,16,15,20,,NBA
+160124014,1995,"January 24, 1996",Miami Heat,New York Knicks,"18-22, 12-7 Home","25-15, 12-7 Away",79,88,,,Final,,22,19,22,16,,20,24,17,27,,NBA
+160129018,1995,"January 29, 1996",New York Knicks,Miami Heat,"27-15, 15-8 Home","19-24, 7-17 Away",94,85,,,Final,,22,24,18,30,,19,21,24,21,,NBA
+160204011,1995,"February 04, 1996",Indiana Pacers,New York Knicks,"31-15, 19-3 Home","28-16, 12-8 Away",90,83,,,Final,,26,20,23,21,,21,15,20,27,,NBA
+160207018,1995,"February 07, 1996",New York Knicks,Washington Bullets,"30-16, 18-8 Home","22-23, 6-16 Away",87,82,,,Final,,24,20,26,17,,15,21,25,21,,NBA
+160216018,1995,"February 16, 1996",New York Knicks,Philadelphia 76ers,"31-17, 19-8 Home","10-38, 4-19 Away",116,84,,,Final,,40,21,25,30,,16,25,23,20,,NBA
+160220018,1995,"February 20, 1996",New York Knicks,Milwaukee Bucks,"31-19, 19-9 Home","20-30, 9-16 Away",87,92,,,Final,,18,28,18,23,,24,25,25,18,,NBA
+160223018,1995,"February 23, 1996",New York Knicks,Atlanta Hawks,"32-20, 19-10 Home","29-24, 12-13 Away",97,108,,,Final,,25,27,22,23,,35,28,27,18,,NBA
+160226013,1995,"February 26, 1996",Los Angeles Lakers,New York Knicks,"34-20, 22-7 Home","32-22, 13-12 Away",114,96,,,Final,,36,25,29,24,,22,31,22,21,,NBA
+160301026,1995,"March 01, 1996",Utah Jazz,New York Knicks,"39-17, 24-4 Home","32-24, 13-14 Away",99,88,,,Final,,24,25,22,28,,27,27,22,12,,NBA
+160305018,1995,"March 05, 1996",New York Knicks,Los Angeles Clippers,"33-25, 20-11 Home","20-38, 7-19 Away",88,105,,,Final,,22,19,27,20,,22,22,28,33,,NBA
+160308020,1995,"March 08, 1996",Philadelphia 76ers,New York Knicks,"12-47, 7-22 Home","34-26, 14-15 Away",100,92,,,Final,,29,22,25,24,,28,29,14,21,,NBA
+160313016,1995,"March 13, 1996",Minnesota Timberwolves,New York Knicks,"19-43, 13-19 Home","36-26, 15-15 Away",82,106,,,Final,,16,31,19,16,,25,32,28,21,,NBA
+160320018,1995,"March 20, 1996",New York Knicks,Indiana Pacers,"38-26, 23-11 Home","40-26, 16-19 Away",102,99,,,Final,,19,23,26,34,,27,16,22,34,,NBA
+160324006,1995,"March 24, 1996",Dallas Mavericks,New York Knicks,"21-47, 13-21 Home","39-27, 16-16 Away",79,85,,,Final,,26,11,20,22,,26,22,24,13,,NBA
+160327024,1995,"March 27, 1996",San Antonio Spurs,New York Knicks,"51-18, 28-6 Home","40-28, 17-17 Away",90,84,,,Final,,23,16,29,22,,23,19,22,20,,NBA
+160331019,1995,"March 31, 1996",Orlando Magic,New York Knicks,"54-18, 34-1 Home","41-29, 17-18 Away",98,79,,,Final,,27,25,29,17,,21,22,22,14,,NBA
+160403018,1995,"April 03, 1996",New York Knicks,Orlando Magic,"42-30, 24-12 Home","55-18, 21-17 Away",85,98,,,Final,,19,25,18,23,,25,24,24,25,,NBA
+160406028,1995,"April 06, 1996",Toronto Raptors,New York Knicks,"19-55, 14-25 Home","44-30, 20-18 Away",106,139,,,Final,,23,36,24,23,,33,34,27,45,,NBA
+160409018,1995,"April 09, 1996",New York Knicks,Boston Celtics,"45-31, 25-13 Home","30-46, 13-25 Away",97,93,,,Final,,30,31,18,18,,27,28,21,17,,NBA
+160413014,1995,"April 13, 1996",Miami Heat,New York Knicks,"40-38, 25-14 Home","45-33, 20-19 Away",103,95,,,Final,,19,30,30,24,,21,26,22,26,,NBA
+160418005,1995,"April 18, 1996",Cleveland Cavaliers,New York Knicks,"46-34, 25-15 Home","46-34, 20-20 Away",92,77,,,Final,,22,21,28,21,,13,15,19,30,,NBA
+151103008,1995,"November 03, 1995",Detroit Pistons,New York Knicks,"0-1, 0-1 Home","1-0, 1-0 Away",100,106,,,Final,,26,23,27,24,,33,29,20,24,,NBA
+151107018,1995,"November 07, 1995",New York Knicks,Phoenix Suns,"2-1, 0-1 Home","1-2, 1-1 Away",94,102,,,Final,,26,33,21,14,,25,24,21,32,,NBA
+151110027,1995,"November 10, 1995",Washington Bullets,New York Knicks,"2-3, 2-1 Home","4-1, 3-0 Away",109,110,,,Final,,40,23,31,15,,37,18,31,24,,NBA
+151114022,1995,"November 14, 1995",Portland Trail Blazers,New York Knicks,"3-4, 2-1 Home","5-2, 3-1 Away",105,99,,,Final,,19,36,26,24,,29,25,26,19,,NBA
+151117007,1995,"November 17, 1995",Denver Nuggets,New York Knicks,"1-7, 0-3 Home","7-2, 5-1 Away",94,103,,,Final,,26,18,20,30,,31,27,24,21,,NBA
+151122005,1995,"November 22, 1995",Cleveland Cavaliers,New York Knicks,"2-8, 1-4 Home","9-2, 6-1 Away",84,94,,,Final,,25,25,14,20,,20,22,23,29,,NBA
+151128018,1995,"November 28, 1995",New York Knicks,Atlanta Hawks,"10-3, 4-2 Home","8-5, 5-3 Away",97,102,,,Final/OT,,22,23,25,25,2.0,19,29,25,22,7.0,NBA
+151202020,1995,"December 02, 1995",Philadelphia 76ers,New York Knicks,"2-12, 2-6 Home","11-4, 7-2 Away",85,94,,,Final,,24,15,23,23,,15,20,26,33,,NBA
+151205018,1995,"December 05, 1995",New York Knicks,Dallas Mavericks,"13-4, 6-2 Home","6-10, 3-7 Away",92,87,,,Final,,31,21,24,16,,26,19,18,24,,NBA
+151209001,1995,"December 09, 1995",Atlanta Hawks,New York Knicks,"9-10, 4-5 Home","14-5, 8-3 Away",92,101,,,Final,,29,27,26,10,,28,29,20,24,,NBA
+151212018,1995,"December 12, 1995",New York Knicks,Los Angeles Lakers,"16-5, 8-2 Home","11-10, 2-8 Away",97,82,,,Final,,21,30,27,19,,20,21,20,21,,NBA
+151216018,1995,"December 16, 1995",New York Knicks,Detroit Pistons,"17-6, 9-3 Home","9-13, 2-8 Away",86,82,,,Final,,22,17,21,26,,9,24,25,24,,NBA
+151222019,1995,"December 22, 1995",Orlando Magic,New York Knicks,"20-6, 14-0 Home","18-7, 8-4 Away",111,90,,,Final,,37,28,17,29,,18,28,20,24,,NBA
+151228018,1995,"December 28, 1995",New York Knicks,Cleveland Cavaliers,"19-8, 11-4 Home","14-12, 5-6 Away",76,86,,,Final,,18,15,22,21,,23,16,29,18,,NBA
+160102018,1995,"January 02, 1996",New York Knicks,Portland Trail Blazers,"19-10, 11-5 Home","13-17, 4-11 Away",92,101,,,Final,,18,27,26,21,,28,27,18,28,,NBA
+160109018,1995,"January 09, 1996",New York Knicks,Boston Celtics,"21-10, 13-5 Home","13-19, 5-8 Away",98,93,,,Final,,18,24,25,31,,21,15,23,34,,NBA
+160112002,1995,"January 12, 1996",Boston Celtics,New York Knicks,"14-20, 9-12 Home","22-11, 9-6 Away",92,105,,,Final,,23,28,26,15,,30,26,28,21,,NBA
+160115018,1995,"January 15, 1996",New York Knicks,Milwaukee Bucks,"22-13, 13-7 Home","13-22, 6-13 Away",92,98,,,Final,,26,29,20,17,,20,27,22,29,,NBA
+160119025,1995,"January 19, 1996",Seattle SuperSonics,New York Knicks,"26-11, 15-2 Home","24-13, 11-6 Away",97,100,,,Final/OT,,26,20,19,22,10.0,23,25,21,18,13.0,NBA
+160123018,1995,"January 23, 1996",New York Knicks,Chicago Bulls,"24-15, 13-8 Home","35-3, 16-3 Away",79,99,,,Final,,20,19,17,23,,28,20,28,23,,NBA
+160127018,1995,"January 27, 1996",New York Knicks,Minnesota Timberwolves,"26-15, 14-8 Home","11-29, 3-19 Away",104,95,,,Final,,30,25,27,22,,23,25,26,21,,NBA
+160201018,1995,"February 01, 1996",New York Knicks,Orlando Magic,"28-15, 16-8 Home","31-13, 9-13 Away",110,102,,,Final,,24,32,28,26,,25,30,26,21,,NBA
+160205018,1995,"February 05, 1996",New York Knicks,Detroit Pistons,"29-16, 17-8 Home","22-22, 8-14 Away",97,91,,,Final,,19,24,31,23,,19,21,18,33,,NBA
+160214003,1995,"February 14, 1996",Charlotte Hornets,New York Knicks,"23-25, 16-9 Home","30-17, 12-9 Away",120,100,,,Final,,33,35,27,25,,26,21,25,28,,NBA
+160217017,1995,"February 17, 1996",New Jersey Nets,New York Knicks,"21-29, 15-8 Home","31-18, 12-10 Away",82,77,,,Final,,21,24,14,23,,22,24,17,14,,NBA
+160221008,1995,"February 21, 1996",Detroit Pistons,New York Knicks,"26-24, 17-10 Home","32-19, 13-10 Away",110,113,,,Final/OT,,29,29,29,18,5.0,21,35,23,26,8.0,NBA
+160225021,1995,"February 25, 1996",Phoenix Suns,New York Knicks,"27-26, 16-13 Home","32-21, 13-11 Away",113,105,,,Final,,36,25,24,28,,26,34,17,28,,NBA
+160228023,1995,"February 28, 1996",Sacramento Kings,New York Knicks,"25-28, 16-10 Home","32-23, 13-13 Away",90,85,,,Final,,16,22,20,32,,25,22,24,14,,NBA
+160303018,1995,"March 03, 1996",New York Knicks,Golden State Warriors,"33-24, 20-10 Home","26-32, 10-22 Away",109,94,,,Final,,28,24,38,19,,16,23,30,25,,NBA
+160306028,1995,"March 06, 1996",Toronto Raptors,New York Knicks,"15-43, 10-18 Home","34-25, 14-14 Away",82,89,,,Final,,23,15,20,24,,28,27,17,17,,NBA
+160310018,1995,"March 10, 1996",New York Knicks,Chicago Bulls,"35-26, 21-11 Home","54-7, 24-7 Away",104,72,,,Final,,31,19,26,28,,19,23,18,12,,NBA
+160316018,1995,"March 16, 1996",New York Knicks,Philadelphia 76ers,"37-26, 22-11 Home","13-51, 5-27 Away",94,88,,,Final,,32,15,17,30,,23,16,23,26,,NBA
+160321004,1995,"March 21, 1996",Chicago Bulls,New York Knicks,"60-7, 34-0 Home","38-27, 15-16 Away",107,86,,,Final,,29,32,18,28,,25,16,19,26,,NBA
+160326010,1995,"March 26, 1996",Houston Rockets,New York Knicks,"42-27, 22-12 Home","40-27, 17-16 Away",74,83,,,Final,,17,13,29,15,,24,28,13,18,,NBA
+160329018,1995,"March 29, 1996",New York Knicks,New Jersey Nets,"41-28, 24-11 Home","28-42, 10-27 Away",94,78,,,Final,,27,19,28,20,,26,26,11,15,,NBA
+160402011,1995,"April 02, 1996",Indiana Pacers,New York Knicks,"44-29, 27-9 Home","42-29, 18-18 Away",86,90,,,Final,,22,20,23,21,,25,15,26,24,,NBA
+160405015,1995,"April 05, 1996",Milwaukee Bucks,New York Knicks,"22-51, 13-24 Home","43-30, 19-18 Away",79,86,,,Final,,22,24,18,15,,28,16,26,16,,NBA
+160408018,1995,"April 08, 1996",New York Knicks,Seattle SuperSonics,"44-31, 24-13 Home","60-16, 25-13 Away",98,108,,,Final,,27,26,29,16,,32,33,23,20,,NBA
+160411018,1995,"April 11, 1996",New York Knicks,Cleveland Cavaliers,"45-32, 25-14 Home","44-33, 20-19 Away",97,101,,,Final,,18,27,31,21,,20,22,34,25,,NBA
+160415018,1995,"April 15, 1996",New York Knicks,Toronto Raptors,"46-33, 26-14 Home","20-59, 6-34 Away",125,79,,,Final,,29,26,32,38,,17,18,25,19,,NBA
+160419018,1995,"April 19, 1996",New York Knicks,Charlotte Hornets,"46-35, 26-15 Home","41-40, 16-25 Away",108,115,,,Final,,33,20,31,24,,27,31,24,33,,NBA
+160421002,1995,"April 21, 1996",Boston Celtics,New York Knicks,"33-49, 18-23 Home","47-35, 21-20 Away",111,122,,,Final,,32,30,25,24,,39,30,33,20,,NBA

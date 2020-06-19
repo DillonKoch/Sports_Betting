@@ -1,83 +1,83 @@
-,Unnamed: 0,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-0,0,291030001.0,2009,"Fri, Oct 30",Atlanta Hawks,Washington Wizards,"2-0, 2-0 Home","1-1, 1-1 Away",100.0,89.0,,,Final,,29,29,17,25,,24,20,22,23,,NBA
-1,1,291103022.0,2009,"Tue, Nov 3",Portland Trail Blazers,Atlanta Hawks,"2-3, 1-2 Home","3-1, 1-1 Away",91.0,97.0,,,Final,,25,23,21,22,,15,32,25,25,,NBA
-2,2,291106030.0,2009,"Fri, Nov 6",Charlotte Bobcats,Atlanta Hawks,"3-2, 3-0 Home","4-2, 2-2 Away",103.0,83.0,,,Final,,28,33,23,19,,24,24,21,14,,NBA
-3,3,291111018.0,2009,"Wed, Nov 11",New York Knicks,Atlanta Hawks,"1-8, 1-5 Home","6-2, 3-2 Away",101.0,114.0,,,Final,,25,29,23,24,,23,24,37,30,,NBA
-4,4,291114001.0,2009,"Sat, Nov 14",Atlanta Hawks,New Orleans Hornets,"8-2, 4-0 Home","3-8, 1-6 Away",121.0,98.0,,,Final,,37,28,26,30,,28,27,23,20,,NBA
-5,5,291118001.0,2009,"Wed, Nov 18",Atlanta Hawks,Miami Heat,"10-2, 6-0 Home","7-4, 2-1 Away",105.0,90.0,,,Final,,26,34,19,26,,23,20,29,18,,NBA
-6,6,291121003.0,2009,"Sat, Nov 21",New Orleans Hornets,Atlanta Hawks,"6-8, 5-2 Home","11-3, 4-3 Away",96.0,88.0,,,Final,,22,27,22,25,,19,23,18,28,,NBA
-7,7,291127020.0,2009,"Fri, Nov 27",Philadelphia 76ers,Atlanta Hawks,"5-11, 3-5 Home","12-4, 5-3 Away",86.0,100.0,,,Final,CSN,23,18,25,20,,26,20,29,25,,NBA
-8,8,291202001.0,2009,"Wed, Dec 2",Atlanta Hawks,Toronto Raptors,"13-5, 8-1 Home","7-13, 2-9 Away",146.0,115.0,,,Final,,33,42,39,32,,26,28,30,31,,NBA
-9,9,291205006.0,2009,"Sat, Dec 5",Dallas Mavericks,Atlanta Hawks,"14-7, 6-3 Home","14-6, 6-4 Away",75.0,80.0,,,Final,,19,21,20,15,,27,14,23,16,,NBA
-10,10,291211028.0,2009,"Fri, Dec 11",Toronto Raptors,Atlanta Hawks,"10-15, 6-5 Home","16-6, 7-4 Away",89.0,111.0,,,Final,TSN2,27,21,23,18,,29,32,28,22,,NBA
-11,11,291216001.0,2009,"Wed, Dec 16",Atlanta Hawks,Memphis Grizzlies,"18-6, 11-2 Home","10-15, 4-10 Away",110.0,97.0,,,Final,,22,29,32,27,,24,18,24,31,,NBA
-12,12,291219004.0,2009,"Sat, Dec 19",Chicago Bulls,Atlanta Hawks,"10-15, 8-5 Home","19-7, 7-5 Away",101.0,98.0,,,Final/OT,,16,24,23,29,9.0,29,17,23,23,6.0,NBA
-13,13,291223007.0,2009,"Wed, Dec 23",Denver Nuggets,Atlanta Hawks,"20-9, 13-1 Home","20-8, 8-6 Away",124.0,104.0,,,Final,,34,29,29,32,,24,27,31,22,,NBA
-14,14,291229001.0,2009,"Tue, Dec 29",Atlanta Hawks,Cleveland Cavaliers,"21-9, 12-3 Home","25-8, 13-6 Away",84.0,95.0,,,Final,,26,25,23,10,,23,33,19,20,,NBA
-15,15,300101001.0,2009,"Fri, Jan 1",Atlanta Hawks,New York Knicks,"21-11, 12-4 Home","13-20, 6-10 Away",108.0,112.0,,,Final/OT,NBATV,26,28,26,19,9.0,22,33,12,32,13.0,NBA
-16,16,300106001.0,2009,"Wed, Jan 6",Atlanta Hawks,New Jersey Nets,"22-12, 13-4 Home","3-32, 1-17 Away",119.0,89.0,,,Final,,32,29,28,30,,15,30,25,19,,NBA
-17,17,300109019.0,2009,"Sat, Jan 9",Orlando Magic,Atlanta Hawks,"25-12, 14-4 Home","23-13, 9-9 Away",113.0,81.0,,,Final,,29,37,25,22,,21,16,22,22,,NBA
-18,18,300113001.0,2009,"Wed, Jan 13",Atlanta Hawks,Washington Wizards,"25-13, 15-4 Home","12-25, 6-14 Away",94.0,82.0,,,Final,,17,28,21,28,,13,20,29,20,,NBA
-19,19,300118001.0,2009,"Mon, Jan 18",Atlanta Hawks,Oklahoma City Thunder,"26-14, 16-5 Home","23-18, 11-9 Away",91.0,94.0,,,Final,,22,27,26,16,,29,23,27,15,,NBA
-20,20,300122001.0,2009,"Fri, Jan 22",Atlanta Hawks,Charlotte Bobcats,"28-14, 18-5 Home","21-20, 3-16 Away",103.0,89.0,,,Final,,31,16,36,20,,17,26,22,24,,NBA
-21,21,300127024.0,2009,"Wed, Jan 27",San Antonio Spurs,Atlanta Hawks,"26-18, 18-9 Home","29-15, 11-10 Away",105.0,90.0,,,Final,,36,30,21,18,,21,23,30,16,,NBA
-22,22,300130019.0,2009,"Sat, Jan 30",Orlando Magic,Atlanta Hawks,"31-16, 18-4 Home","30-16, 11-11 Away",104.0,86.0,,,Final,NBATV,21,28,28,27,,18,26,19,23,,NBA
-23,23,300203001.0,2009,"Wed, Feb 3",Atlanta Hawks,LA Clippers,"31-17, 20-5 Home","21-28, 7-19 Away",103.0,97.0,,,Final,,17,24,28,34,,23,23,26,25,,NBA
-24,24,,2009,"Sat, Feb 6",,,,,,,,,,,N,U,L,L,,N,U,L,L,,NBA
-25,25,300210001.0,2009,"Wed, Feb 10",Atlanta Hawks,Miami Heat,"33-18, 21-6 Home","26-27, 12-15 Away",76.0,94.0,,,Final,,27,15,22,12,,20,23,24,27,,NBA
-26,26,300219021.0,2009,"Fri, Feb 19",Phoenix Suns,Atlanta Hawks,"33-23, 19-7 Home","34-19, 13-13 Away",88.0,80.0,,,Final,,26,23,21,18,,23,27,16,14,,NBA
-27,27,300222026.0,2009,"Mon, Feb 22",Utah Jazz,Atlanta Hawks,"36-20, 22-8 Home","35-20, 14-14 Away",100.0,105.0,,,Final,NBATV,24,27,24,25,,28,26,20,31,,NBA
-28,28,300226001.0,2009,"Fri, Feb 26",Atlanta Hawks,Dallas Mavericks,"36-21, 22-7 Home","38-21, 19-12 Away",103.0,111.0,,,Final/OT,ESPN,19,31,26,23,4.0,29,21,15,34,12.0,NBA
-29,29,300301004.0,2009,"Mon, Mar 1",Chicago Bulls,Atlanta Hawks,"31-29, 19-10 Home","38-21, 15-14 Away",92.0,116.0,,,Final,,23,20,25,24,,34,25,16,41,,NBA
-30,30,300305001.0,2009,"Fri, Mar 5",Atlanta Hawks,Golden State Warriors,"40-21, 25-7 Home","17-44, 4-26 Away",127.0,122.0,,,Final,,35,28,29,35,,35,28,25,34,,NBA
-31,31,300308018.0,2009,"Mon, Mar 8",New York Knicks,Atlanta Hawks,"22-41, 14-21 Home","40-23, 15-16 Away",99.0,98.0,,,Final,,27,17,32,23,,27,19,24,28,,NBA
-32,32,300313001.0,2009,"Sat, Mar 13",Atlanta Hawks,Detroit Pistons,"42-23, 26-7 Home","23-43, 7-25 Away",112.0,99.0,,,Final,,30,39,23,20,,12,29,36,22,,NBA
-33,33,300317028.0,2009,"Wed, Mar 17",Toronto Raptors,Atlanta Hawks,"33-33, 23-10 Home","43-24, 17-17 Away",106.0,105.0,,,Final,TSN2,30,29,16,31,,25,31,30,19,,NBA
-34,34,300321001.0,2009,"Sun, Mar 21",Atlanta Hawks,San Antonio Spurs,"45-24, 28-7 Home","41-27, 16-17 Away",119.0,114.0,,,Final/OT,ESPN,22,31,28,24,14.0,33,18,27,27,9.0,NBA
-35,35,300324001.0,2009,"Wed, Mar 24",Atlanta Hawks,Orlando Magic,"46-25, 29-7 Home","50-22, 22-15 Away",86.0,84.0,,,Final,,16,30,22,18,,22,20,20,22,,NBA
-36,36,300328001.0,2009,"Sun, Mar 28",Atlanta Hawks,Indiana Pacers,"47-26, 30-7 Home","27-47, 8-31 Away",94.0,84.0,,,Final,,26,22,24,22,,31,19,13,21,,NBA
-37,37,300402005.0,2009,"Fri, Apr 2",Cleveland Cavaliers,Atlanta Hawks,"60-16, 34-4 Home","48-27, 17-20 Away",93.0,88.0,,,Final,ESPN,23,26,20,24,,23,23,20,22,,NBA
-38,38,300406030.0,2009,"Tue, Apr 6",Charlotte Bobcats,Atlanta Hawks,"41-36, 30-9 Home","49-28, 17-21 Away",109.0,100.0,,,Final,,34,25,25,25,,14,22,36,28,,NBA
-39,39,300409001.0,2009,"Fri, Apr 9",Atlanta Hawks,Toronto Raptors,"50-29, 33-7 Home","38-41, 14-26 Away",107.0,101.0,,,Final,TSNT,14,45,22,26,,25,22,26,28,,NBA
-40,40,300412015.0,2009,"Mon, Apr 12",Milwaukee Bucks,Atlanta Hawks,"45-36, 28-13 Home","52-29, 19-22 Away",96.0,104.0,,,Final,,21,27,22,26,,30,25,23,26,,NBA
-41,41,291028001.0,2009,"Wed, Oct 28",Atlanta Hawks,Indiana Pacers,"1-0, 1-0 Home","0-1, 0-1 Away",120.0,109.0,,,Final,,29,37,29,25,,32,33,29,15,,NBA
-42,42,291101013.0,2009,"Sun, Nov 1",Los Angeles Lakers,Atlanta Hawks,"2-1, 2-1 Home","2-1, 0-1 Away",118.0,110.0,,,Final,,27,37,34,20,,25,33,18,34,,NBA
-43,43,291104023.0,2009,"Wed, Nov 4",Sacramento Kings,Atlanta Hawks,"1-4, 1-1 Home","4-1, 2-1 Away",105.0,113.0,,,Final,,24,31,32,18,,26,30,27,30,,NBA
-44,44,291107001.0,2009,"Sat, Nov 7",Atlanta Hawks,Denver Nuggets,"5-2, 3-0 Home","5-2, 3-2 Away",125.0,100.0,,,Final,NBATV,33,27,30,35,,25,25,24,26,,NBA
-45,45,291113002.0,2009,"Fri, Nov 13",Boston Celtics,Atlanta Hawks,"8-2, 4-2 Home","7-2, 4-2 Away",86.0,97.0,,,Final,ESPN,22,20,28,16,,24,17,31,25,,NBA
-46,46,291116001.0,2009,"Mon, Nov 16",Atlanta Hawks,Portland Trail Blazers,"9-2, 5-0 Home","8-4, 5-2 Away",99.0,95.0,,,Final/OT,,20,23,15,27,14.0,28,20,19,18,10.0,NBA
-47,47,291120001.0,2009,"Fri, Nov 20",Atlanta Hawks,Houston Rockets,"11-2, 7-0 Home","7-6, 4-4 Away",105.0,103.0,,,Final,,28,27,22,28,,26,25,21,31,,NBA
-48,48,291126001.0,2009,"Thu, Nov 26",Atlanta Hawks,Orlando Magic,"11-4, 7-1 Home","12-4, 6-2 Away",76.0,93.0,,,Final,TNT,25,26,14,11,,23,16,28,26,,NBA
-49,49,291129008.0,2009,"Sun, Nov 29",Detroit Pistons,Atlanta Hawks,"6-11, 4-4 Home","12-5, 5-4 Away",94.0,88.0,,,Final,,27,28,12,27,,25,22,18,23,,NBA
-50,50,291204001.0,2009,"Fri, Dec 4",Atlanta Hawks,New York Knicks,"13-6, 8-2 Home","5-15, 3-7 Away",107.0,114.0,,,Final,,34,17,33,23,,35,29,19,31,,NBA
-51,51,291209001.0,2009,"Wed, Dec 9",Atlanta Hawks,Chicago Bulls,"15-6, 9-2 Home","7-13, 2-10 Away",118.0,83.0,,,Final,ESPN,22,34,31,31,,21,21,15,26,,NBA
-52,52,291213001.0,2009,"Sun, Dec 13",Atlanta Hawks,New Jersey Nets,"17-6, 10-2 Home","2-22, 1-14 Away",130.0,107.0,,,Final,,31,31,39,29,,29,21,32,25,,NBA
-53,53,291218001.0,2009,"Fri, Dec 18",Atlanta Hawks,Utah Jazz,"19-6, 12-2 Home","15-11, 4-7 Away",96.0,83.0,,,Final,,22,22,37,15,,18,16,17,32,,NBA
-54,54,291222016.0,2009,"Tue, Dec 22",Minnesota Timberwolves,Atlanta Hawks,"5-24, 3-12 Home","20-7, 8-5 Away",87.0,112.0,,,Final,,17,24,28,18,,26,28,27,31,,NBA
-55,55,291226011.0,2009,"Sat, Dec 26",Indiana Pacers,Atlanta Hawks,"9-19, 6-8 Home","21-8, 9-6 Away",98.0,110.0,,,Final,,20,20,26,32,,33,18,33,26,,NBA
-56,56,291230005.0,2009,"Wed, Dec 30",Cleveland Cavaliers,Atlanta Hawks,"26-8, 13-2 Home","21-10, 9-7 Away",106.0,101.0,,,Final,,23,29,25,29,,30,34,21,16,,NBA
-57,57,300104014.0,2009,"Mon, Jan 4",Miami Heat,Atlanta Hawks,"17-15, 11-9 Home","21-12, 9-8 Away",92.0,75.0,,,Final,NBATV,30,21,22,19,,14,20,24,17,,NBA
-58,58,300108001.0,2009,"Fri, Jan 8",Atlanta Hawks,Boston Celtics,"23-12, 14-4 Home","25-9, 14-5 Away",93.0,85.0,,,Final,ESPN,19,20,29,25,,17,28,15,25,,NBA
-59,59,300111002.0,2009,"Mon, Jan 11",Boston Celtics,Atlanta Hawks,"26-10, 11-5 Home","24-13, 10-9 Away",96.0,102.0,,,Final,NBATV,31,24,25,16,,21,25,31,25,,NBA
-60,60,300115001.0,2009,"Fri, Jan 15",Atlanta Hawks,Phoenix Suns,"26-13, 16-4 Home","24-16, 9-12 Away",102.0,101.0,,,Final,ESPN,17,33,28,24,,25,30,20,26,,NBA
-61,61,300120001.0,2009,"Wed, Jan 20",Atlanta Hawks,Sacramento Kings,"27-14, 17-5 Home","15-26, 3-17 Away",108.0,97.0,,,Final,,23,31,27,27,,23,29,16,29,,NBA
-62,62,300125010.0,2009,"Mon, Jan 25",Houston Rockets,Atlanta Hawks,"24-20, 13-7 Home","29-14, 11-9 Away",95.0,102.0,,,Final,,25,19,23,28,,23,32,22,25,,NBA
-63,63,300129001.0,2009,"Fri, Jan 29",Atlanta Hawks,Boston Celtics,"30-15, 19-5 Home","29-15, 16-8 Away",100.0,91.0,,,Final,NBATV,23,30,21,26,,22,19,32,18,,NBA
-64,64,300202025.0,2009,"Tue, Feb 2",Oklahoma City Thunder,Atlanta Hawks,"27-21, 15-10 Home","30-17, 11-12 Away",106.0,99.0,,,Final,,22,27,30,27,,22,27,23,27,,NBA
-65,65,300205001.0,2009,"Fri, Feb 5",Atlanta Hawks,Chicago Bulls,"32-17, 21-5 Home","23-25, 9-17 Away",91.0,81.0,,,Final,ESPN,27,23,14,27,,20,26,24,11,,NBA
-66,66,300209029.0,2009,"Tue, Feb 9",Memphis Grizzlies,Atlanta Hawks,"26-25, 18-8 Home","33-17, 12-12 Away",94.0,108.0,,,Final,,30,25,20,19,,27,26,29,26,,NBA
-67,67,300217012.0,2009,"Wed, Feb 17",LA Clippers,Atlanta Hawks,"21-33, 14-12 Home","34-18, 13-12 Away",92.0,110.0,,,Final,,26,18,31,17,,29,27,25,29,,NBA
-68,68,300221009.0,2009,"Sun, Feb 21",Golden State Warriors,Atlanta Hawks,"16-39, 12-16 Home","34-20, 13-14 Away",108.0,104.0,,,Final,ESPN,21,30,22,35,,24,28,38,14,,NBA
-69,69,300224001.0,2009,"Wed, Feb 24",Atlanta Hawks,Minnesota Timberwolves,"36-20, 22-6 Home","14-45, 5-25 Away",98.0,92.0,,,Final,,23,27,28,20,,21,21,24,26,,NBA
-70,70,300228001.0,2009,"Sun, Feb 28",Atlanta Hawks,Milwaukee Bucks,"37-21, 23-7 Home","30-29, 12-20 Away",106.0,102.0,,,Final/OT,,24,20,30,18,14.0,24,22,27,19,10.0,NBA
-71,71,300303001.0,2009,"Wed, Mar 3",Atlanta Hawks,Philadelphia 76ers,"39-21, 24-7 Home","22-38, 12-20 Away",112.0,93.0,,,Final,,32,29,26,25,,22,29,17,25,,NBA
-72,72,300306014.0,2009,"Sat, Mar 6",Miami Heat,Atlanta Hawks,"32-31, 17-14 Home","40-22, 15-15 Away",100.0,94.0,,,Final,,22,30,24,24,,27,29,21,17,,NBA
-73,73,300311027.0,2009,"Thu, Mar 11",Washington Wizards,Atlanta Hawks,"21-41, 12-21 Home","41-23, 16-16 Away",99.0,105.0,,,Final,,22,29,22,26,,27,27,25,26,,NBA
-74,74,300316017.0,2009,"Tue, Mar 16",New Jersey Nets,Atlanta Hawks,"7-60, 3-29 Home","43-23, 17-16 Away",84.0,108.0,,,Final,,22,17,19,26,,22,33,23,30,,NBA
-75,75,300319001.0,2009,"Fri, Mar 19",Atlanta Hawks,Charlotte Bobcats,"44-24, 27-7 Home","35-33, 10-25 Away",93.0,92.0,,,Final/OT,,20,26,18,20,9.0,26,18,25,15,8.0,NBA
-76,76,300322015.0,2009,"Mon, Mar 22",Milwaukee Bucks,Atlanta Hawks,"39-30, 24-9 Home","45-25, 17-18 Away",98.0,95.0,,,Final,,23,22,22,31,,20,34,20,21,,NBA
-77,77,300326020.0,2009,"Fri, Mar 26",Philadelphia 76ers,Atlanta Hawks,"26-47, 12-24 Home","46-26, 17-19 Away",105.0,98.0,,,Final,CSN,26,23,31,25,,27,24,24,23,,NBA
-78,78,300331001.0,2009,"Wed, Mar 31",Atlanta Hawks,Los Angeles Lakers,"48-26, 31-7 Home","54-21, 22-16 Away",109.0,92.0,,,Final,,29,26,25,29,,25,20,19,28,,NBA
-79,79,300403001.0,2009,"Sat, Apr 3",Atlanta Hawks,Detroit Pistons,"49-27, 32-7 Home","23-53, 7-30 Away",91.0,85.0,,,Final,,23,31,20,17,,21,24,29,11,,NBA
-80,80,300407008.0,2009,"Wed, Apr 7",Detroit Pistons,Atlanta Hawks,"25-53, 17-23 Home","49-29, 17-22 Away",90.0,88.0,,,Final,,25,23,17,25,,20,28,24,16,,NBA
-81,81,300410027.0,2009,"Sat, Apr 10",Washington Wizards,Atlanta Hawks,"25-55, 14-26 Home","51-29, 18-22 Away",95.0,105.0,,,Final,,30,20,28,17,,30,22,26,27,,NBA
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+291030001.0,2009,"October 30, 2009",Atlanta Hawks,Washington Wizards,"2-0, 2-0 Home","1-1, 1-1 Away",100.0,89.0,,,Final,,29,29,17,25,,24,20,22,23,,NBA
+291103022.0,2009,"November 03, 2009",Portland Trail Blazers,Atlanta Hawks,"2-3, 1-2 Home","3-1, 1-1 Away",91.0,97.0,,,Final,,25,23,21,22,,15,32,25,25,,NBA
+291106030.0,2009,"November 06, 2009",Charlotte Bobcats,Atlanta Hawks,"3-2, 3-0 Home","4-2, 2-2 Away",103.0,83.0,,,Final,,28,33,23,19,,24,24,21,14,,NBA
+291111018.0,2009,"November 11, 2009",New York Knicks,Atlanta Hawks,"1-8, 1-5 Home","6-2, 3-2 Away",101.0,114.0,,,Final,,25,29,23,24,,23,24,37,30,,NBA
+291114001.0,2009,"November 14, 2009",Atlanta Hawks,New Orleans Hornets,"8-2, 4-0 Home","3-8, 1-6 Away",121.0,98.0,,,Final,,37,28,26,30,,28,27,23,20,,NBA
+291118001.0,2009,"November 18, 2009",Atlanta Hawks,Miami Heat,"10-2, 6-0 Home","7-4, 2-1 Away",105.0,90.0,,,Final,,26,34,19,26,,23,20,29,18,,NBA
+291121003.0,2009,"November 21, 2009",New Orleans Hornets,Atlanta Hawks,"6-8, 5-2 Home","11-3, 4-3 Away",96.0,88.0,,,Final,,22,27,22,25,,19,23,18,28,,NBA
+291127020.0,2009,"November 27, 2009",Philadelphia 76ers,Atlanta Hawks,"5-11, 3-5 Home","12-4, 5-3 Away",86.0,100.0,,,Final,CSN,23,18,25,20,,26,20,29,25,,NBA
+291202001.0,2009,"December 02, 2009",Atlanta Hawks,Toronto Raptors,"13-5, 8-1 Home","7-13, 2-9 Away",146.0,115.0,,,Final,,33,42,39,32,,26,28,30,31,,NBA
+291205006.0,2009,"December 05, 2009",Dallas Mavericks,Atlanta Hawks,"14-7, 6-3 Home","14-6, 6-4 Away",75.0,80.0,,,Final,,19,21,20,15,,27,14,23,16,,NBA
+291211028.0,2009,"December 11, 2009",Toronto Raptors,Atlanta Hawks,"10-15, 6-5 Home","16-6, 7-4 Away",89.0,111.0,,,Final,TSN2,27,21,23,18,,29,32,28,22,,NBA
+291216001.0,2009,"December 16, 2009",Atlanta Hawks,Memphis Grizzlies,"18-6, 11-2 Home","10-15, 4-10 Away",110.0,97.0,,,Final,,22,29,32,27,,24,18,24,31,,NBA
+291219004.0,2009,"December 19, 2009",Chicago Bulls,Atlanta Hawks,"10-15, 8-5 Home","19-7, 7-5 Away",101.0,98.0,,,Final/OT,,16,24,23,29,9.0,29,17,23,23,6.0,NBA
+291223007.0,2009,"December 23, 2009",Denver Nuggets,Atlanta Hawks,"20-9, 13-1 Home","20-8, 8-6 Away",124.0,104.0,,,Final,,34,29,29,32,,24,27,31,22,,NBA
+291229001.0,2009,"December 29, 2009",Atlanta Hawks,Cleveland Cavaliers,"21-9, 12-3 Home","25-8, 13-6 Away",84.0,95.0,,,Final,,26,25,23,10,,23,33,19,20,,NBA
+300101001.0,2009,"January 01, 2010",Atlanta Hawks,New York Knicks,"21-11, 12-4 Home","13-20, 6-10 Away",108.0,112.0,,,Final/OT,NBATV,26,28,26,19,9.0,22,33,12,32,13.0,NBA
+300106001.0,2009,"January 06, 2010",Atlanta Hawks,New Jersey Nets,"22-12, 13-4 Home","3-32, 1-17 Away",119.0,89.0,,,Final,,32,29,28,30,,15,30,25,19,,NBA
+300109019.0,2009,"January 09, 2010",Orlando Magic,Atlanta Hawks,"25-12, 14-4 Home","23-13, 9-9 Away",113.0,81.0,,,Final,,29,37,25,22,,21,16,22,22,,NBA
+300113001.0,2009,"January 13, 2010",Atlanta Hawks,Washington Wizards,"25-13, 15-4 Home","12-25, 6-14 Away",94.0,82.0,,,Final,,17,28,21,28,,13,20,29,20,,NBA
+300118001.0,2009,"January 18, 2010",Atlanta Hawks,Oklahoma City Thunder,"26-14, 16-5 Home","23-18, 11-9 Away",91.0,94.0,,,Final,,22,27,26,16,,29,23,27,15,,NBA
+300122001.0,2009,"January 22, 2010",Atlanta Hawks,Charlotte Bobcats,"28-14, 18-5 Home","21-20, 3-16 Away",103.0,89.0,,,Final,,31,16,36,20,,17,26,22,24,,NBA
+300127024.0,2009,"January 27, 2010",San Antonio Spurs,Atlanta Hawks,"26-18, 18-9 Home","29-15, 11-10 Away",105.0,90.0,,,Final,,36,30,21,18,,21,23,30,16,,NBA
+300130019.0,2009,"January 30, 2010",Orlando Magic,Atlanta Hawks,"31-16, 18-4 Home","30-16, 11-11 Away",104.0,86.0,,,Final,NBATV,21,28,28,27,,18,26,19,23,,NBA
+300203001.0,2009,"February 03, 2010",Atlanta Hawks,LA Clippers,"31-17, 20-5 Home","21-28, 7-19 Away",103.0,97.0,,,Final,,17,24,28,34,,23,23,26,25,,NBA
+,2009,"February 06, 2010",,,,,,,,,,,N,U,L,L,,N,U,L,L,,NBA
+300210001.0,2009,"February 10, 2010",Atlanta Hawks,Miami Heat,"33-18, 21-6 Home","26-27, 12-15 Away",76.0,94.0,,,Final,,27,15,22,12,,20,23,24,27,,NBA
+300219021.0,2009,"February 19, 2010",Phoenix Suns,Atlanta Hawks,"33-23, 19-7 Home","34-19, 13-13 Away",88.0,80.0,,,Final,,26,23,21,18,,23,27,16,14,,NBA
+300222026.0,2009,"February 22, 2010",Utah Jazz,Atlanta Hawks,"36-20, 22-8 Home","35-20, 14-14 Away",100.0,105.0,,,Final,NBATV,24,27,24,25,,28,26,20,31,,NBA
+300226001.0,2009,"February 26, 2010",Atlanta Hawks,Dallas Mavericks,"36-21, 22-7 Home","38-21, 19-12 Away",103.0,111.0,,,Final/OT,ESPN,19,31,26,23,4.0,29,21,15,34,12.0,NBA
+300301004.0,2009,"March 01, 2010",Chicago Bulls,Atlanta Hawks,"31-29, 19-10 Home","38-21, 15-14 Away",92.0,116.0,,,Final,,23,20,25,24,,34,25,16,41,,NBA
+300305001.0,2009,"March 05, 2010",Atlanta Hawks,Golden State Warriors,"40-21, 25-7 Home","17-44, 4-26 Away",127.0,122.0,,,Final,,35,28,29,35,,35,28,25,34,,NBA
+300308018.0,2009,"March 08, 2010",New York Knicks,Atlanta Hawks,"22-41, 14-21 Home","40-23, 15-16 Away",99.0,98.0,,,Final,,27,17,32,23,,27,19,24,28,,NBA
+300313001.0,2009,"March 13, 2010",Atlanta Hawks,Detroit Pistons,"42-23, 26-7 Home","23-43, 7-25 Away",112.0,99.0,,,Final,,30,39,23,20,,12,29,36,22,,NBA
+300317028.0,2009,"March 17, 2010",Toronto Raptors,Atlanta Hawks,"33-33, 23-10 Home","43-24, 17-17 Away",106.0,105.0,,,Final,TSN2,30,29,16,31,,25,31,30,19,,NBA
+300321001.0,2009,"March 21, 2010",Atlanta Hawks,San Antonio Spurs,"45-24, 28-7 Home","41-27, 16-17 Away",119.0,114.0,,,Final/OT,ESPN,22,31,28,24,14.0,33,18,27,27,9.0,NBA
+300324001.0,2009,"March 24, 2010",Atlanta Hawks,Orlando Magic,"46-25, 29-7 Home","50-22, 22-15 Away",86.0,84.0,,,Final,,16,30,22,18,,22,20,20,22,,NBA
+300328001.0,2009,"March 28, 2010",Atlanta Hawks,Indiana Pacers,"47-26, 30-7 Home","27-47, 8-31 Away",94.0,84.0,,,Final,,26,22,24,22,,31,19,13,21,,NBA
+300402005.0,2009,"April 02, 2010",Cleveland Cavaliers,Atlanta Hawks,"60-16, 34-4 Home","48-27, 17-20 Away",93.0,88.0,,,Final,ESPN,23,26,20,24,,23,23,20,22,,NBA
+300406030.0,2009,"April 06, 2010",Charlotte Bobcats,Atlanta Hawks,"41-36, 30-9 Home","49-28, 17-21 Away",109.0,100.0,,,Final,,34,25,25,25,,14,22,36,28,,NBA
+300409001.0,2009,"April 09, 2010",Atlanta Hawks,Toronto Raptors,"50-29, 33-7 Home","38-41, 14-26 Away",107.0,101.0,,,Final,TSNT,14,45,22,26,,25,22,26,28,,NBA
+300412015.0,2009,"April 12, 2010",Milwaukee Bucks,Atlanta Hawks,"45-36, 28-13 Home","52-29, 19-22 Away",96.0,104.0,,,Final,,21,27,22,26,,30,25,23,26,,NBA
+291028001.0,2009,"October 28, 2009",Atlanta Hawks,Indiana Pacers,"1-0, 1-0 Home","0-1, 0-1 Away",120.0,109.0,,,Final,,29,37,29,25,,32,33,29,15,,NBA
+291101013.0,2009,"November 01, 2009",Los Angeles Lakers,Atlanta Hawks,"2-1, 2-1 Home","2-1, 0-1 Away",118.0,110.0,,,Final,,27,37,34,20,,25,33,18,34,,NBA
+291104023.0,2009,"November 04, 2009",Sacramento Kings,Atlanta Hawks,"1-4, 1-1 Home","4-1, 2-1 Away",105.0,113.0,,,Final,,24,31,32,18,,26,30,27,30,,NBA
+291107001.0,2009,"November 07, 2009",Atlanta Hawks,Denver Nuggets,"5-2, 3-0 Home","5-2, 3-2 Away",125.0,100.0,,,Final,NBATV,33,27,30,35,,25,25,24,26,,NBA
+291113002.0,2009,"November 13, 2009",Boston Celtics,Atlanta Hawks,"8-2, 4-2 Home","7-2, 4-2 Away",86.0,97.0,,,Final,ESPN,22,20,28,16,,24,17,31,25,,NBA
+291116001.0,2009,"November 16, 2009",Atlanta Hawks,Portland Trail Blazers,"9-2, 5-0 Home","8-4, 5-2 Away",99.0,95.0,,,Final/OT,,20,23,15,27,14.0,28,20,19,18,10.0,NBA
+291120001.0,2009,"November 20, 2009",Atlanta Hawks,Houston Rockets,"11-2, 7-0 Home","7-6, 4-4 Away",105.0,103.0,,,Final,,28,27,22,28,,26,25,21,31,,NBA
+291126001.0,2009,"November 26, 2009",Atlanta Hawks,Orlando Magic,"11-4, 7-1 Home","12-4, 6-2 Away",76.0,93.0,,,Final,TNT,25,26,14,11,,23,16,28,26,,NBA
+291129008.0,2009,"November 29, 2009",Detroit Pistons,Atlanta Hawks,"6-11, 4-4 Home","12-5, 5-4 Away",94.0,88.0,,,Final,,27,28,12,27,,25,22,18,23,,NBA
+291204001.0,2009,"December 04, 2009",Atlanta Hawks,New York Knicks,"13-6, 8-2 Home","5-15, 3-7 Away",107.0,114.0,,,Final,,34,17,33,23,,35,29,19,31,,NBA
+291209001.0,2009,"December 09, 2009",Atlanta Hawks,Chicago Bulls,"15-6, 9-2 Home","7-13, 2-10 Away",118.0,83.0,,,Final,ESPN,22,34,31,31,,21,21,15,26,,NBA
+291213001.0,2009,"December 13, 2009",Atlanta Hawks,New Jersey Nets,"17-6, 10-2 Home","2-22, 1-14 Away",130.0,107.0,,,Final,,31,31,39,29,,29,21,32,25,,NBA
+291218001.0,2009,"December 18, 2009",Atlanta Hawks,Utah Jazz,"19-6, 12-2 Home","15-11, 4-7 Away",96.0,83.0,,,Final,,22,22,37,15,,18,16,17,32,,NBA
+291222016.0,2009,"December 22, 2009",Minnesota Timberwolves,Atlanta Hawks,"5-24, 3-12 Home","20-7, 8-5 Away",87.0,112.0,,,Final,,17,24,28,18,,26,28,27,31,,NBA
+291226011.0,2009,"December 26, 2009",Indiana Pacers,Atlanta Hawks,"9-19, 6-8 Home","21-8, 9-6 Away",98.0,110.0,,,Final,,20,20,26,32,,33,18,33,26,,NBA
+291230005.0,2009,"December 30, 2009",Cleveland Cavaliers,Atlanta Hawks,"26-8, 13-2 Home","21-10, 9-7 Away",106.0,101.0,,,Final,,23,29,25,29,,30,34,21,16,,NBA
+300104014.0,2009,"January 04, 2010",Miami Heat,Atlanta Hawks,"17-15, 11-9 Home","21-12, 9-8 Away",92.0,75.0,,,Final,NBATV,30,21,22,19,,14,20,24,17,,NBA
+300108001.0,2009,"January 08, 2010",Atlanta Hawks,Boston Celtics,"23-12, 14-4 Home","25-9, 14-5 Away",93.0,85.0,,,Final,ESPN,19,20,29,25,,17,28,15,25,,NBA
+300111002.0,2009,"January 11, 2010",Boston Celtics,Atlanta Hawks,"26-10, 11-5 Home","24-13, 10-9 Away",96.0,102.0,,,Final,NBATV,31,24,25,16,,21,25,31,25,,NBA
+300115001.0,2009,"January 15, 2010",Atlanta Hawks,Phoenix Suns,"26-13, 16-4 Home","24-16, 9-12 Away",102.0,101.0,,,Final,ESPN,17,33,28,24,,25,30,20,26,,NBA
+300120001.0,2009,"January 20, 2010",Atlanta Hawks,Sacramento Kings,"27-14, 17-5 Home","15-26, 3-17 Away",108.0,97.0,,,Final,,23,31,27,27,,23,29,16,29,,NBA
+300125010.0,2009,"January 25, 2010",Houston Rockets,Atlanta Hawks,"24-20, 13-7 Home","29-14, 11-9 Away",95.0,102.0,,,Final,,25,19,23,28,,23,32,22,25,,NBA
+300129001.0,2009,"January 29, 2010",Atlanta Hawks,Boston Celtics,"30-15, 19-5 Home","29-15, 16-8 Away",100.0,91.0,,,Final,NBATV,23,30,21,26,,22,19,32,18,,NBA
+300202025.0,2009,"February 02, 2010",Oklahoma City Thunder,Atlanta Hawks,"27-21, 15-10 Home","30-17, 11-12 Away",106.0,99.0,,,Final,,22,27,30,27,,22,27,23,27,,NBA
+300205001.0,2009,"February 05, 2010",Atlanta Hawks,Chicago Bulls,"32-17, 21-5 Home","23-25, 9-17 Away",91.0,81.0,,,Final,ESPN,27,23,14,27,,20,26,24,11,,NBA
+300209029.0,2009,"February 09, 2010",Memphis Grizzlies,Atlanta Hawks,"26-25, 18-8 Home","33-17, 12-12 Away",94.0,108.0,,,Final,,30,25,20,19,,27,26,29,26,,NBA
+300217012.0,2009,"February 17, 2010",LA Clippers,Atlanta Hawks,"21-33, 14-12 Home","34-18, 13-12 Away",92.0,110.0,,,Final,,26,18,31,17,,29,27,25,29,,NBA
+300221009.0,2009,"February 21, 2010",Golden State Warriors,Atlanta Hawks,"16-39, 12-16 Home","34-20, 13-14 Away",108.0,104.0,,,Final,ESPN,21,30,22,35,,24,28,38,14,,NBA
+300224001.0,2009,"February 24, 2010",Atlanta Hawks,Minnesota Timberwolves,"36-20, 22-6 Home","14-45, 5-25 Away",98.0,92.0,,,Final,,23,27,28,20,,21,21,24,26,,NBA
+300228001.0,2009,"February 28, 2010",Atlanta Hawks,Milwaukee Bucks,"37-21, 23-7 Home","30-29, 12-20 Away",106.0,102.0,,,Final/OT,,24,20,30,18,14.0,24,22,27,19,10.0,NBA
+300303001.0,2009,"March 03, 2010",Atlanta Hawks,Philadelphia 76ers,"39-21, 24-7 Home","22-38, 12-20 Away",112.0,93.0,,,Final,,32,29,26,25,,22,29,17,25,,NBA
+300306014.0,2009,"March 06, 2010",Miami Heat,Atlanta Hawks,"32-31, 17-14 Home","40-22, 15-15 Away",100.0,94.0,,,Final,,22,30,24,24,,27,29,21,17,,NBA
+300311027.0,2009,"March 11, 2010",Washington Wizards,Atlanta Hawks,"21-41, 12-21 Home","41-23, 16-16 Away",99.0,105.0,,,Final,,22,29,22,26,,27,27,25,26,,NBA
+300316017.0,2009,"March 16, 2010",New Jersey Nets,Atlanta Hawks,"7-60, 3-29 Home","43-23, 17-16 Away",84.0,108.0,,,Final,,22,17,19,26,,22,33,23,30,,NBA
+300319001.0,2009,"March 19, 2010",Atlanta Hawks,Charlotte Bobcats,"44-24, 27-7 Home","35-33, 10-25 Away",93.0,92.0,,,Final/OT,,20,26,18,20,9.0,26,18,25,15,8.0,NBA
+300322015.0,2009,"March 22, 2010",Milwaukee Bucks,Atlanta Hawks,"39-30, 24-9 Home","45-25, 17-18 Away",98.0,95.0,,,Final,,23,22,22,31,,20,34,20,21,,NBA
+300326020.0,2009,"March 26, 2010",Philadelphia 76ers,Atlanta Hawks,"26-47, 12-24 Home","46-26, 17-19 Away",105.0,98.0,,,Final,CSN,26,23,31,25,,27,24,24,23,,NBA
+300331001.0,2009,"March 31, 2010",Atlanta Hawks,Los Angeles Lakers,"48-26, 31-7 Home","54-21, 22-16 Away",109.0,92.0,,,Final,,29,26,25,29,,25,20,19,28,,NBA
+300403001.0,2009,"April 03, 2010",Atlanta Hawks,Detroit Pistons,"49-27, 32-7 Home","23-53, 7-30 Away",91.0,85.0,,,Final,,23,31,20,17,,21,24,29,11,,NBA
+300407008.0,2009,"April 07, 2010",Detroit Pistons,Atlanta Hawks,"25-53, 17-23 Home","49-29, 17-22 Away",90.0,88.0,,,Final,,25,23,17,25,,20,28,24,16,,NBA
+300410027.0,2009,"April 10, 2010",Washington Wizards,Atlanta Hawks,"25-55, 14-26 Home","51-29, 18-22 Away",95.0,105.0,,,Final,,30,20,28,17,,30,22,26,27,,NBA

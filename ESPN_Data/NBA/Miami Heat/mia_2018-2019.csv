@@ -1,83 +1,83 @@
-,Unnamed: 0,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-0,0,401070702,2018,"Thu, Oct 18",Washington Wizards,Miami Heat,"0-1, 0-1 Home","1-1, 1-1 Away",112,113,WSH -6.0,216,Final,,25,34,30,23,,24,34,27,28,,NBA
-1,1,401070735,2018,"Wed, Oct 24",Miami Heat,New York Knicks,"2-2, 1-1 Home","1-4, 0-3 Away",110,87,MIA -8.0,218,Final,,16,31,45,18,,27,18,20,22,,NBA
-2,2,401070770,2018,"Mon, Oct 29",Miami Heat,Sacramento Kings,"3-3, 2-2 Home","4-3, 2-2 Away",113,123,MIA -9.5,227,Final,,28,23,32,30,,17,34,43,29,,NBA
-3,3,401070809,2018,"Sat, Nov 3",Atlanta Hawks,Miami Heat,"3-6, 2-2 Home","3-5, 1-3 Away",123,118,MIA -5.5,226,Final,,41,33,28,21,,31,37,25,25,,NBA
-4,4,401070837,2018,"Wed, Nov 7",Miami Heat,San Antonio Spurs,"5-5, 3-2 Home","6-4, 2-2 Away",95,88,MIA -1.0,216,Final,,27,23,25,20,,20,22,22,24,,NBA
-5,5,401070858,2018,"Sat, Nov 10",Miami Heat,Washington Wizards,"5-7, 3-4 Home","3-9, 2-6 Away",110,116,MIA -3.5,225,Final,,35,26,24,25,,25,33,25,33,,NBA
-6,6,401070886,2018,"Wed, Nov 14",Brooklyn Nets,Miami Heat,"6-9, 3-3 Home","6-8, 3-3 Away",107,120,MIA -2.0,214,Final,,21,28,23,35,,37,24,29,30,,NBA
-7,7,401070916,2018,"Sun, Nov 18",Miami Heat,Los Angeles Lakers,"6-10, 3-6 Home","9-7, 4-4 Away",97,113,LAL -1.5,225,Final,,21,31,24,21,,34,33,25,21,,NBA
-8,8,401070954,2018,"Fri, Nov 23",Chicago Bulls,Miami Heat,"5-14, 3-8 Home","7-11, 4-4 Away",96,103,MIA -3.5,213,Final,,26,13,30,27,,28,32,18,25,,NBA
-9,9,401070983,2018,"Tue, Nov 27",Miami Heat,Atlanta Hawks,"7-13, 3-8 Home","5-16, 2-9 Away",113,115,MIA -7.5,225,Final,,38,14,34,27,,35,33,32,15,,NBA
-10,10,401071020,2018,"Sun, Dec 2",Miami Heat,Utah Jazz,"9-13, 5-8 Home","11-13, 9-7 Away",102,100,UTAH -4.0,208,Final,,27,26,27,22,,35,20,22,23,,NBA
-11,11,401071057,2018,"Fri, Dec 7",Phoenix Suns,Miami Heat,"4-22, 3-10 Home","10-14, 5-5 Away",98,115,MIA -8.5,210,Final,,36,14,23,25,,34,26,29,26,,NBA
-12,12,401071082,2018,"Mon, Dec 10",Los Angeles Lakers,Miami Heat,"17-10, 11-4 Home","11-15, 6-6 Away",108,105,LAL -5.0,222,Final,NBATV,27,28,29,24,,23,35,25,22,,NBA
-13,13,401071106,2018,"Fri, Dec 14",Memphis Grizzlies,Miami Heat,"16-12, 9-5 Home","12-16, 7-7 Away",97,100,MEM -4.0,196,Final,,28,21,24,24,,29,22,20,29,,NBA
-14,14,401071148,2018,"Thu, Dec 20",Miami Heat,Houston Rockets,"14-16, 6-9 Home","16-15, 7-10 Away",101,99,HOU -3.0,211,Final,TNT,21,32,29,19,,33,25,18,23,,NBA
-15,15,401071172,2018,"Sun, Dec 23",Orlando Magic,Miami Heat,"14-18, 8-10 Home","16-16, 9-7 Away",91,115,ORL -2.5,201,Final,,17,27,27,20,,28,25,37,25,,NBA
-16,16,401071197,2018,"Fri, Dec 28",Miami Heat,Cleveland Cavaliers,"17-17, 8-10 Home","8-28, 3-15 Away",118,94,MIA -10.0,202,Final,,29,27,26,36,,30,22,17,25,,NBA
-17,17,401071231,2018,"Wed, Jan 2",Cleveland Cavaliers,Miami Heat,"8-30, 5-14 Home","18-18, 10-7 Away",92,117,MIA -5.5,202,Final,,23,20,30,19,,22,36,35,24,,NBA
-18,18,401071263,2018,"Sun, Jan 6",Atlanta Hawks,Miami Heat,"12-27, 7-10 Home","19-19, 10-8 Away",106,82,MIA -6.5,219,Final,,23,15,41,27,,16,21,21,24,,NBA
-19,19,401071293,2018,"Thu, Jan 10",Miami Heat,Boston Celtics,"20-20, 10-12 Home","25-16, 10-11 Away",115,99,BOS -3.0,212,Final,TNT,28,33,22,32,,24,19,29,27,,NBA
-20,20,401071330,2018,"Tue, Jan 15",Milwaukee Bucks,Miami Heat,"31-12, 20-4 Home","21-21, 10-9 Away",124,86,MIL -9.0,218,Final,,30,39,24,31,,23,22,18,23,,NBA
-21,21,401071361,2018,"Sat, Jan 19",Chicago Bulls,Miami Heat,"10-36, 5-17 Home","22-22, 11-10 Away",103,117,MIA -4.0,209,Final,,30,27,19,27,,31,24,28,34,,NBA
-22,22,401071382,2018,"Wed, Jan 23",Miami Heat,LA Clippers,"22-24, 11-13 Home","26-22, 12-12 Away",99,111,MIA -5.5,216,Final,,31,23,18,27,,27,27,23,34,,NBA
-23,23,401071415,2018,"Sun, Jan 27",New York Knicks,Miami Heat,"10-38, 4-17 Home","24-24, 13-11 Away",97,106,MIA -5.0,210,Final,,26,32,12,27,,25,27,29,25,,NBA
-24,24,401071445,2018,"Fri, Feb 1",Miami Heat,Oklahoma City Thunder,"24-26, 11-15 Home","33-18, 16-11 Away",102,118,OKC -3.5,219,Final,,24,29,21,28,,31,41,22,24,,NBA
-25,25,401071476,2018,"Tue, Feb 5",Portland Trail Blazers,Miami Heat,"32-21, 22-8 Home","25-27, 14-11 Away",108,118,POR -7.5,213,Final,TNT,30,25,24,29,,34,28,32,24,,NBA
-26,26,401071511,2018,"Sun, Feb 10",Golden State Warriors,Miami Heat,"40-15, 21-7 Home","25-29, 14-13 Away",120,118,GS -14.0,222,Final,NBATV,24,30,36,30,,34,25,23,36,,NBA
-27,27,401071532,2018,"Wed, Feb 13",Dallas Mavericks,Miami Heat,"26-31, 20-9 Home","26-30, 15-14 Away",101,112,DAL -3.0,208,Final,,25,33,16,27,,29,28,32,23,,NBA
-28,28,401071561,2018,"Sat, Feb 23",Miami Heat,Detroit Pistons,"26-32, 11-17 Home","28-30, 11-17 Away",96,119,MIA -3.5,210,Final,,29,17,30,20,,20,34,30,35,,NBA
-29,29,401071588,2018,"Wed, Feb 27",Miami Heat,Golden State Warriors,"27-33, 12-18 Home","43-18, 20-10 Away",126,125,GS -9.5,226,Final,,32,42,26,26,,22,37,33,33,,NBA
-30,30,401071610,2018,"Sat, Mar 2",Miami Heat,Brooklyn Nets,"28-34, 13-18 Home","32-33, 14-17 Away",117,88,MIA -2.5,222,Final,,28,26,30,33,,23,21,20,24,,NBA
-31,31,401071638,2018,"Wed, Mar 6",Charlotte Hornets,Miami Heat,"29-35, 20-14 Home","30-34, 16-16 Away",84,91,CHA -3.5,216,Final,,18,25,15,26,,29,14,18,30,,NBA
-32,32,401071666,2018,"Sun, Mar 10",Miami Heat,Toronto Raptors,"31-35, 15-19 Home","48-19, 21-12 Away",104,125,MIA -2.0,214,Final,,27,27,25,25,,32,36,23,34,,NBA
-33,33,401071702,2018,"Fri, Mar 15",Miami Heat,Milwaukee Bucks,"32-36, 16-20 Home","52-17, 25-12 Away",98,113,MIL -4.5,220,Final,NBATV,37,25,18,18,,19,23,37,34,,NBA
-34,34,401071727,2018,"Mon, Mar 18",Oklahoma City Thunder,Miami Heat,"42-29, 23-11 Home","34-36, 17-16 Away",107,116,OKC -5.5,210,Final,,25,30,20,32,,27,31,28,30,,NBA
-35,35,401071758,2018,"Fri, Mar 22",Milwaukee Bucks,Miami Heat,"54-19, 29-6 Home","35-37, 18-17 Away",116,87,MIL -7.5,217,Final,,33,30,31,22,,32,19,18,18,,NBA
-36,36,401071782,2018,"Tue, Mar 26",Miami Heat,Orlando Magic,"36-38, 17-21 Home","37-38, 14-22 Away",99,104,MIA -3.5,205,Final,,32,19,19,29,,18,24,34,28,,NBA
-37,37,401071814,2018,"Sat, Mar 30",New York Knicks,Miami Heat,"14-62, 7-31 Home","38-38, 20-17 Away",92,100,MIA -7.0,209,Final,,33,28,18,13,,29,26,24,21,,NBA
-38,38,401071843,2018,"Wed, Apr 3",Miami Heat,Boston Celtics,"38-40, 18-22 Home","47-32, 19-20 Away",102,112,MIA -1.0,214,Final,NBATV,31,18,32,21,,29,24,30,29,,NBA
-39,39,401071868,2018,"Sun, Apr 7",Toronto Raptors,Miami Heat,"57-24, 32-9 Home","38-42, 20-20 Away",117,109,TOR -5.5,216,Final/OT,NBATV,25,25,28,25,14.0,26,31,22,24,6.0,NBA
-40,40,401070696,2018,"Wed, Oct 17",Orlando Magic,Miami Heat,"1-0, 1-0 Home","0-1, 0-1 Away",104,101,MIA -2.5,209,Final,,25,29,25,25,,31,20,27,23,,NBA
-41,41,401070713,2018,"Sat, Oct 20",Miami Heat,Charlotte Hornets,"1-2, 0-1 Home","2-1, 2-0 Away",112,113,MIA -3.5,220,Final,,29,23,30,30,,34,38,20,21,,NBA
-42,42,401070760,2018,"Sat, Oct 27",Miami Heat,Portland Trail Blazers,"3-2, 2-1 Home","3-2, 1-1 Away",120,111,MIA -1.5,220,Final,,33,24,32,31,,22,20,37,32,,NBA
-43,43,401070777,2018,"Tue, Oct 30",Charlotte Hornets,Miami Heat,"4-4, 2-1 Home","3-4, 1-2 Away",125,113,CHA -3.0,222,Final,,31,34,27,33,,29,26,18,40,,NBA
-44,44,401070821,2018,"Mon, Nov 5",Detroit Pistons,Miami Heat,"4-5, 3-2 Home","4-5, 2-3 Away",115,120,DET -3.0,220,Final/OT,,27,26,27,25,10.0,28,25,34,18,15.0,NBA
-45,45,401070851,2018,"Fri, Nov 9",Miami Heat,Indiana Pacers,"5-6, 3-3 Home","8-5, 5-2 Away",102,110,IND -2.0,207,Final,,26,33,21,22,,24,27,33,26,,NBA
-46,46,401070872,2018,"Mon, Nov 12",Miami Heat,Philadelphia 76ers,"5-8, 3-5 Home","9-6, 2-6 Away",114,124,MIA -2.5,225,Final,,26,36,28,24,,32,32,32,28,,NBA
-47,47,401070898,2018,"Fri, Nov 16",Indiana Pacers,Miami Heat,"9-6, 4-3 Home","6-9, 3-4 Away",99,91,IND -5.0,215,Final,,18,32,22,27,,27,16,24,24,,NBA
-48,48,401070931,2018,"Tue, Nov 20",Miami Heat,Brooklyn Nets,"6-11, 3-7 Home","8-10, 5-6 Away",92,104,MIA -2.5,215,Final,,13,29,35,15,,20,19,35,30,,NBA
-49,49,401070971,2018,"Sun, Nov 25",Toronto Raptors,Miami Heat,"17-4, 9-2 Home","7-12, 4-5 Away",125,115,TOR -12.0,215,Final,,36,27,38,24,,29,25,35,26,,NBA
-50,50,401071005,2018,"Fri, Nov 30",Miami Heat,New Orleans Pelicans,"8-13, 4-8 Home","11-12, 2-10 Away",106,101,NO -3.0,229,Final,,37,24,20,25,,17,24,34,26,,NBA
-51,51,401071032,2018,"Tue, Dec 4",Miami Heat,Orlando Magic,"9-14, 5-9 Home","12-12, 6-6 Away",90,105,MIA -2.5,207,Final,,25,25,12,28,,27,19,30,29,,NBA
-52,52,401071067,2018,"Sat, Dec 8",LA Clippers,Miami Heat,"16-9, 9-2 Home","11-14, 6-5 Away",98,121,LAC -9.5,219,Final,,30,32,28,8,,34,31,26,30,,NBA
-53,53,401071094,2018,"Wed, Dec 12",Utah Jazz,Miami Heat,"14-15, 5-6 Home","11-16, 6-7 Away",111,84,UTAH -8.5,212,Final,,40,20,32,19,,15,18,20,31,,NBA
-54,54,401071122,2018,"Sun, Dec 16",New Orleans Pelicans,Miami Heat,"15-16, 11-5 Home","13-16, 8-7 Away",96,102,NO -5.5,222,Final,,28,23,22,23,,33,24,28,17,,NBA
-55,55,401071163,2018,"Sat, Dec 22",Miami Heat,Milwaukee Bucks,"15-16, 7-9 Home","22-10, 8-7 Away",94,87,MIL -2.0,216,Final,,21,16,35,22,,8,30,20,29,,NBA
-56,56,401071182,2018,"Wed, Dec 26",Miami Heat,Toronto Raptors,"16-17, 7-10 Home","26-10, 13-6 Away",104,106,TOR -2.5,207,Final,NBATV,31,27,21,25,,23,21,37,25,,NBA
-57,57,401071213,2018,"Sun, Dec 30",Miami Heat,Minnesota Timberwolves,"17-18, 8-11 Home","17-19, 5-13 Away",104,113,MIA -4.0,207,Final,,19,35,23,27,,30,25,31,27,,NBA
-58,58,401071244,2018,"Fri, Jan 4",Miami Heat,Washington Wizards,"19-18, 9-11 Home","15-24, 4-17 Away",115,109,MIA -6.5,213,Final,,31,30,34,20,,24,34,28,23,,NBA
-59,59,401071277,2018,"Tue, Jan 8",Miami Heat,Denver Nuggets,"19-20, 9-12 Home","27-12, 11-9 Away",99,103,MIA -2.0,210,Final,,18,34,24,23,,24,25,27,27,,NBA
-60,60,401071307,2018,"Sat, Jan 12",Miami Heat,Memphis Grizzlies,"21-20, 11-12 Home","19-23, 8-14 Away",112,108,MIA -3.0,196,Final,,30,33,28,21,,34,27,22,25,,NBA
-61,61,401071348,2018,"Fri, Jan 18",Detroit Pistons,Miami Heat,"20-24, 13-10 Home","21-22, 10-10 Away",98,93,DET -2.0,207,Final,,30,23,12,33,,17,22,30,24,,NBA
-62,62,401071373,2018,"Mon, Jan 21",Boston Celtics,Miami Heat,"29-18, 18-5 Home","22-23, 11-11 Away",107,99,BOS -8.5,213,Final,,33,17,37,20,,23,27,18,31,,NBA
-63,63,401071395,2018,"Fri, Jan 25",Cleveland Cavaliers,Miami Heat,"9-41, 5-19 Home","23-24, 12-11 Away",94,100,MIA -8.5,207,Final,,23,30,17,24,,27,21,32,20,,NBA
-64,64,401071430,2018,"Wed, Jan 30",Miami Heat,Chicago Bulls,"24-25, 11-14 Home","12-40, 7-20 Away",89,105,MIA -10.5,207,Final,,21,27,20,21,,31,19,28,27,,NBA
-65,65,401071453,2018,"Sat, Feb 2",Miami Heat,Indiana Pacers,"24-27, 11-16 Home","33-19, 15-12 Away",88,95,MIA -2.0,204,Final,,27,27,23,11,,21,32,31,11,,NBA
-66,66,401071497,2018,"Fri, Feb 8",Sacramento Kings,Miami Heat,"29-26, 18-11 Home","25-28, 14-12 Away",102,96,SAC -4.0,221,Final,,17,33,25,27,,28,31,24,13,,NBA
-67,67,401071520,2018,"Mon, Feb 11",Denver Nuggets,Miami Heat,"38-18, 24-4 Home","25-30, 14-14 Away",103,87,DEN -9.5,213,Final,,35,19,29,20,,27,22,21,17,,NBA
-68,68,401071541,2018,"Thu, Feb 21",Philadelphia 76ers,Miami Heat,"38-21, 24-7 Home","26-31, 15-15 Away",106,102,PHI -5.5,220,Final,,29,28,16,33,,21,29,25,27,,NBA
-69,69,401071574,2018,"Mon, Feb 25",Miami Heat,Phoenix Suns,"26-33, 11-18 Home","12-50, 5-28 Away",121,124,MIA -8.0,217,Final,,29,34,24,34,,23,29,32,40,,NBA
-70,70,401071598,2018,"Thu, Feb 28",Houston Rockets,Miami Heat,"37-25, 22-9 Home","27-34, 15-16 Away",121,118,HOU -9.5,219,Final,,33,22,31,35,,32,37,29,20,,NBA
-71,71,401071626,2018,"Mon, Mar 4",Miami Heat,Atlanta Hawks,"29-34, 14-18 Home","22-43, 11-24 Away",114,113,MIA -10.0,222,Final,,32,29,24,29,,31,30,24,28,,NBA
-72,72,401071652,2018,"Fri, Mar 8",Miami Heat,Cleveland Cavaliers,"31-34, 15-18 Home","16-50, 6-26 Away",126,110,MIA -9.0,214,Final,,28,29,37,32,,29,28,26,27,,NBA
-73,73,401071687,2018,"Wed, Mar 13",Miami Heat,Detroit Pistons,"32-35, 16-19 Home","34-33, 13-20 Away",108,74,MIA -2.0,209,Final,,30,24,33,21,,18,31,8,17,,NBA
-74,74,401071716,2018,"Sun, Mar 17",Miami Heat,Charlotte Hornets,"33-36, 17-20 Home","31-38, 10-24 Away",93,75,MIA -3.0,210,Final,,19,20,22,32,,20,19,21,15,,NBA
-75,75,401071744,2018,"Wed, Mar 20",San Antonio Spurs,Miami Heat,"42-30, 29-8 Home","35-36, 18-16 Away",105,110,SA -6.0,211,Final,,22,25,31,27,,24,38,28,20,,NBA
-76,76,401071761,2018,"Sat, Mar 23",Washington Wizards,Miami Heat,"30-44, 22-16 Home","36-37, 19-17 Away",108,113,WSH -1.0,221,Final,,27,26,26,29,,25,27,26,35,,NBA
-77,77,401071797,2018,"Thu, Mar 28",Miami Heat,Dallas Mavericks,"37-38, 18-21 Home","29-46, 7-31 Away",105,99,MIA -6.0,212,Final,,26,23,26,30,,29,30,23,17,,NBA
-78,78,401071826,2018,"Mon, Apr 1",Boston Celtics,Miami Heat,"46-32, 28-12 Home","38-39, 20-18 Away",110,105,BOS -7.0,213,Final,NBATV,36,25,27,22,,17,30,30,28,,NBA
-79,79,401071858,2018,"Fri, Apr 5",Minnesota Timberwolves,Miami Heat,"36-43, 25-14 Home","38-41, 20-19 Away",111,109,MIA -4.5,218,Final,,36,25,29,21,,35,34,22,18,,NBA
-80,80,401071885,2018,"Tue, Apr 9",Miami Heat,Philadelphia 76ers,"39-42, 19-22 Home","50-31, 20-21 Away",122,99,MIA -6.0,219,Final,,34,27,30,31,,20,22,18,39,,NBA
-81,81,401071894,2018,"Wed, Apr 10",Brooklyn Nets,Miami Heat,"42-40, 23-18 Home","39-43, 20-21 Away",113,94,BKN -5.0,219,Final,,32,31,29,21,,23,24,24,23,,NBA
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+401070702,2018,"October 18, 2018",Washington Wizards,Miami Heat,"0-1, 0-1 Home","1-1, 1-1 Away",112,113,WSH -6.0,216,Final,,25,34,30,23,,24,34,27,28,,NBA
+401070735,2018,"October 24, 2018",Miami Heat,New York Knicks,"2-2, 1-1 Home","1-4, 0-3 Away",110,87,MIA -8.0,218,Final,,16,31,45,18,,27,18,20,22,,NBA
+401070770,2018,"October 29, 2018",Miami Heat,Sacramento Kings,"3-3, 2-2 Home","4-3, 2-2 Away",113,123,MIA -9.5,227,Final,,28,23,32,30,,17,34,43,29,,NBA
+401070809,2018,"November 03, 2018",Atlanta Hawks,Miami Heat,"3-6, 2-2 Home","3-5, 1-3 Away",123,118,MIA -5.5,226,Final,,41,33,28,21,,31,37,25,25,,NBA
+401070837,2018,"November 07, 2018",Miami Heat,San Antonio Spurs,"5-5, 3-2 Home","6-4, 2-2 Away",95,88,MIA -1.0,216,Final,,27,23,25,20,,20,22,22,24,,NBA
+401070858,2018,"November 10, 2018",Miami Heat,Washington Wizards,"5-7, 3-4 Home","3-9, 2-6 Away",110,116,MIA -3.5,225,Final,,35,26,24,25,,25,33,25,33,,NBA
+401070886,2018,"November 14, 2018",Brooklyn Nets,Miami Heat,"6-9, 3-3 Home","6-8, 3-3 Away",107,120,MIA -2.0,214,Final,,21,28,23,35,,37,24,29,30,,NBA
+401070916,2018,"November 18, 2018",Miami Heat,Los Angeles Lakers,"6-10, 3-6 Home","9-7, 4-4 Away",97,113,LAL -1.5,225,Final,,21,31,24,21,,34,33,25,21,,NBA
+401070954,2018,"November 23, 2018",Chicago Bulls,Miami Heat,"5-14, 3-8 Home","7-11, 4-4 Away",96,103,MIA -3.5,213,Final,,26,13,30,27,,28,32,18,25,,NBA
+401070983,2018,"November 27, 2018",Miami Heat,Atlanta Hawks,"7-13, 3-8 Home","5-16, 2-9 Away",113,115,MIA -7.5,225,Final,,38,14,34,27,,35,33,32,15,,NBA
+401071020,2018,"December 02, 2018",Miami Heat,Utah Jazz,"9-13, 5-8 Home","11-13, 9-7 Away",102,100,UTAH -4.0,208,Final,,27,26,27,22,,35,20,22,23,,NBA
+401071057,2018,"December 07, 2018",Phoenix Suns,Miami Heat,"4-22, 3-10 Home","10-14, 5-5 Away",98,115,MIA -8.5,210,Final,,36,14,23,25,,34,26,29,26,,NBA
+401071082,2018,"December 10, 2018",Los Angeles Lakers,Miami Heat,"17-10, 11-4 Home","11-15, 6-6 Away",108,105,LAL -5.0,222,Final,NBATV,27,28,29,24,,23,35,25,22,,NBA
+401071106,2018,"December 14, 2018",Memphis Grizzlies,Miami Heat,"16-12, 9-5 Home","12-16, 7-7 Away",97,100,MEM -4.0,196,Final,,28,21,24,24,,29,22,20,29,,NBA
+401071148,2018,"December 20, 2018",Miami Heat,Houston Rockets,"14-16, 6-9 Home","16-15, 7-10 Away",101,99,HOU -3.0,211,Final,TNT,21,32,29,19,,33,25,18,23,,NBA
+401071172,2018,"December 23, 2018",Orlando Magic,Miami Heat,"14-18, 8-10 Home","16-16, 9-7 Away",91,115,ORL -2.5,201,Final,,17,27,27,20,,28,25,37,25,,NBA
+401071197,2018,"December 28, 2018",Miami Heat,Cleveland Cavaliers,"17-17, 8-10 Home","8-28, 3-15 Away",118,94,MIA -10.0,202,Final,,29,27,26,36,,30,22,17,25,,NBA
+401071231,2018,"January 02, 2019",Cleveland Cavaliers,Miami Heat,"8-30, 5-14 Home","18-18, 10-7 Away",92,117,MIA -5.5,202,Final,,23,20,30,19,,22,36,35,24,,NBA
+401071263,2018,"January 06, 2019",Atlanta Hawks,Miami Heat,"12-27, 7-10 Home","19-19, 10-8 Away",106,82,MIA -6.5,219,Final,,23,15,41,27,,16,21,21,24,,NBA
+401071293,2018,"January 10, 2019",Miami Heat,Boston Celtics,"20-20, 10-12 Home","25-16, 10-11 Away",115,99,BOS -3.0,212,Final,TNT,28,33,22,32,,24,19,29,27,,NBA
+401071330,2018,"January 15, 2019",Milwaukee Bucks,Miami Heat,"31-12, 20-4 Home","21-21, 10-9 Away",124,86,MIL -9.0,218,Final,,30,39,24,31,,23,22,18,23,,NBA
+401071361,2018,"January 19, 2019",Chicago Bulls,Miami Heat,"10-36, 5-17 Home","22-22, 11-10 Away",103,117,MIA -4.0,209,Final,,30,27,19,27,,31,24,28,34,,NBA
+401071382,2018,"January 23, 2019",Miami Heat,LA Clippers,"22-24, 11-13 Home","26-22, 12-12 Away",99,111,MIA -5.5,216,Final,,31,23,18,27,,27,27,23,34,,NBA
+401071415,2018,"January 27, 2019",New York Knicks,Miami Heat,"10-38, 4-17 Home","24-24, 13-11 Away",97,106,MIA -5.0,210,Final,,26,32,12,27,,25,27,29,25,,NBA
+401071445,2018,"February 01, 2019",Miami Heat,Oklahoma City Thunder,"24-26, 11-15 Home","33-18, 16-11 Away",102,118,OKC -3.5,219,Final,,24,29,21,28,,31,41,22,24,,NBA
+401071476,2018,"February 05, 2019",Portland Trail Blazers,Miami Heat,"32-21, 22-8 Home","25-27, 14-11 Away",108,118,POR -7.5,213,Final,TNT,30,25,24,29,,34,28,32,24,,NBA
+401071511,2018,"February 10, 2019",Golden State Warriors,Miami Heat,"40-15, 21-7 Home","25-29, 14-13 Away",120,118,GS -14.0,222,Final,NBATV,24,30,36,30,,34,25,23,36,,NBA
+401071532,2018,"February 13, 2019",Dallas Mavericks,Miami Heat,"26-31, 20-9 Home","26-30, 15-14 Away",101,112,DAL -3.0,208,Final,,25,33,16,27,,29,28,32,23,,NBA
+401071561,2018,"February 23, 2019",Miami Heat,Detroit Pistons,"26-32, 11-17 Home","28-30, 11-17 Away",96,119,MIA -3.5,210,Final,,29,17,30,20,,20,34,30,35,,NBA
+401071588,2018,"February 27, 2019",Miami Heat,Golden State Warriors,"27-33, 12-18 Home","43-18, 20-10 Away",126,125,GS -9.5,226,Final,,32,42,26,26,,22,37,33,33,,NBA
+401071610,2018,"March 02, 2019",Miami Heat,Brooklyn Nets,"28-34, 13-18 Home","32-33, 14-17 Away",117,88,MIA -2.5,222,Final,,28,26,30,33,,23,21,20,24,,NBA
+401071638,2018,"March 06, 2019",Charlotte Hornets,Miami Heat,"29-35, 20-14 Home","30-34, 16-16 Away",84,91,CHA -3.5,216,Final,,18,25,15,26,,29,14,18,30,,NBA
+401071666,2018,"March 10, 2019",Miami Heat,Toronto Raptors,"31-35, 15-19 Home","48-19, 21-12 Away",104,125,MIA -2.0,214,Final,,27,27,25,25,,32,36,23,34,,NBA
+401071702,2018,"March 15, 2019",Miami Heat,Milwaukee Bucks,"32-36, 16-20 Home","52-17, 25-12 Away",98,113,MIL -4.5,220,Final,NBATV,37,25,18,18,,19,23,37,34,,NBA
+401071727,2018,"March 18, 2019",Oklahoma City Thunder,Miami Heat,"42-29, 23-11 Home","34-36, 17-16 Away",107,116,OKC -5.5,210,Final,,25,30,20,32,,27,31,28,30,,NBA
+401071758,2018,"March 22, 2019",Milwaukee Bucks,Miami Heat,"54-19, 29-6 Home","35-37, 18-17 Away",116,87,MIL -7.5,217,Final,,33,30,31,22,,32,19,18,18,,NBA
+401071782,2018,"March 26, 2019",Miami Heat,Orlando Magic,"36-38, 17-21 Home","37-38, 14-22 Away",99,104,MIA -3.5,205,Final,,32,19,19,29,,18,24,34,28,,NBA
+401071814,2018,"March 30, 2019",New York Knicks,Miami Heat,"14-62, 7-31 Home","38-38, 20-17 Away",92,100,MIA -7.0,209,Final,,33,28,18,13,,29,26,24,21,,NBA
+401071843,2018,"April 03, 2019",Miami Heat,Boston Celtics,"38-40, 18-22 Home","47-32, 19-20 Away",102,112,MIA -1.0,214,Final,NBATV,31,18,32,21,,29,24,30,29,,NBA
+401071868,2018,"April 07, 2019",Toronto Raptors,Miami Heat,"57-24, 32-9 Home","38-42, 20-20 Away",117,109,TOR -5.5,216,Final/OT,NBATV,25,25,28,25,14.0,26,31,22,24,6.0,NBA
+401070696,2018,"October 17, 2018",Orlando Magic,Miami Heat,"1-0, 1-0 Home","0-1, 0-1 Away",104,101,MIA -2.5,209,Final,,25,29,25,25,,31,20,27,23,,NBA
+401070713,2018,"October 20, 2018",Miami Heat,Charlotte Hornets,"1-2, 0-1 Home","2-1, 2-0 Away",112,113,MIA -3.5,220,Final,,29,23,30,30,,34,38,20,21,,NBA
+401070760,2018,"October 27, 2018",Miami Heat,Portland Trail Blazers,"3-2, 2-1 Home","3-2, 1-1 Away",120,111,MIA -1.5,220,Final,,33,24,32,31,,22,20,37,32,,NBA
+401070777,2018,"October 30, 2018",Charlotte Hornets,Miami Heat,"4-4, 2-1 Home","3-4, 1-2 Away",125,113,CHA -3.0,222,Final,,31,34,27,33,,29,26,18,40,,NBA
+401070821,2018,"November 05, 2018",Detroit Pistons,Miami Heat,"4-5, 3-2 Home","4-5, 2-3 Away",115,120,DET -3.0,220,Final/OT,,27,26,27,25,10.0,28,25,34,18,15.0,NBA
+401070851,2018,"November 09, 2018",Miami Heat,Indiana Pacers,"5-6, 3-3 Home","8-5, 5-2 Away",102,110,IND -2.0,207,Final,,26,33,21,22,,24,27,33,26,,NBA
+401070872,2018,"November 12, 2018",Miami Heat,Philadelphia 76ers,"5-8, 3-5 Home","9-6, 2-6 Away",114,124,MIA -2.5,225,Final,,26,36,28,24,,32,32,32,28,,NBA
+401070898,2018,"November 16, 2018",Indiana Pacers,Miami Heat,"9-6, 4-3 Home","6-9, 3-4 Away",99,91,IND -5.0,215,Final,,18,32,22,27,,27,16,24,24,,NBA
+401070931,2018,"November 20, 2018",Miami Heat,Brooklyn Nets,"6-11, 3-7 Home","8-10, 5-6 Away",92,104,MIA -2.5,215,Final,,13,29,35,15,,20,19,35,30,,NBA
+401070971,2018,"November 25, 2018",Toronto Raptors,Miami Heat,"17-4, 9-2 Home","7-12, 4-5 Away",125,115,TOR -12.0,215,Final,,36,27,38,24,,29,25,35,26,,NBA
+401071005,2018,"November 30, 2018",Miami Heat,New Orleans Pelicans,"8-13, 4-8 Home","11-12, 2-10 Away",106,101,NO -3.0,229,Final,,37,24,20,25,,17,24,34,26,,NBA
+401071032,2018,"December 04, 2018",Miami Heat,Orlando Magic,"9-14, 5-9 Home","12-12, 6-6 Away",90,105,MIA -2.5,207,Final,,25,25,12,28,,27,19,30,29,,NBA
+401071067,2018,"December 08, 2018",LA Clippers,Miami Heat,"16-9, 9-2 Home","11-14, 6-5 Away",98,121,LAC -9.5,219,Final,,30,32,28,8,,34,31,26,30,,NBA
+401071094,2018,"December 12, 2018",Utah Jazz,Miami Heat,"14-15, 5-6 Home","11-16, 6-7 Away",111,84,UTAH -8.5,212,Final,,40,20,32,19,,15,18,20,31,,NBA
+401071122,2018,"December 16, 2018",New Orleans Pelicans,Miami Heat,"15-16, 11-5 Home","13-16, 8-7 Away",96,102,NO -5.5,222,Final,,28,23,22,23,,33,24,28,17,,NBA
+401071163,2018,"December 22, 2018",Miami Heat,Milwaukee Bucks,"15-16, 7-9 Home","22-10, 8-7 Away",94,87,MIL -2.0,216,Final,,21,16,35,22,,8,30,20,29,,NBA
+401071182,2018,"December 26, 2018",Miami Heat,Toronto Raptors,"16-17, 7-10 Home","26-10, 13-6 Away",104,106,TOR -2.5,207,Final,NBATV,31,27,21,25,,23,21,37,25,,NBA
+401071213,2018,"December 30, 2018",Miami Heat,Minnesota Timberwolves,"17-18, 8-11 Home","17-19, 5-13 Away",104,113,MIA -4.0,207,Final,,19,35,23,27,,30,25,31,27,,NBA
+401071244,2018,"January 04, 2019",Miami Heat,Washington Wizards,"19-18, 9-11 Home","15-24, 4-17 Away",115,109,MIA -6.5,213,Final,,31,30,34,20,,24,34,28,23,,NBA
+401071277,2018,"January 08, 2019",Miami Heat,Denver Nuggets,"19-20, 9-12 Home","27-12, 11-9 Away",99,103,MIA -2.0,210,Final,,18,34,24,23,,24,25,27,27,,NBA
+401071307,2018,"January 12, 2019",Miami Heat,Memphis Grizzlies,"21-20, 11-12 Home","19-23, 8-14 Away",112,108,MIA -3.0,196,Final,,30,33,28,21,,34,27,22,25,,NBA
+401071348,2018,"January 18, 2019",Detroit Pistons,Miami Heat,"20-24, 13-10 Home","21-22, 10-10 Away",98,93,DET -2.0,207,Final,,30,23,12,33,,17,22,30,24,,NBA
+401071373,2018,"January 21, 2019",Boston Celtics,Miami Heat,"29-18, 18-5 Home","22-23, 11-11 Away",107,99,BOS -8.5,213,Final,,33,17,37,20,,23,27,18,31,,NBA
+401071395,2018,"January 25, 2019",Cleveland Cavaliers,Miami Heat,"9-41, 5-19 Home","23-24, 12-11 Away",94,100,MIA -8.5,207,Final,,23,30,17,24,,27,21,32,20,,NBA
+401071430,2018,"January 30, 2019",Miami Heat,Chicago Bulls,"24-25, 11-14 Home","12-40, 7-20 Away",89,105,MIA -10.5,207,Final,,21,27,20,21,,31,19,28,27,,NBA
+401071453,2018,"February 02, 2019",Miami Heat,Indiana Pacers,"24-27, 11-16 Home","33-19, 15-12 Away",88,95,MIA -2.0,204,Final,,27,27,23,11,,21,32,31,11,,NBA
+401071497,2018,"February 08, 2019",Sacramento Kings,Miami Heat,"29-26, 18-11 Home","25-28, 14-12 Away",102,96,SAC -4.0,221,Final,,17,33,25,27,,28,31,24,13,,NBA
+401071520,2018,"February 11, 2019",Denver Nuggets,Miami Heat,"38-18, 24-4 Home","25-30, 14-14 Away",103,87,DEN -9.5,213,Final,,35,19,29,20,,27,22,21,17,,NBA
+401071541,2018,"February 21, 2019",Philadelphia 76ers,Miami Heat,"38-21, 24-7 Home","26-31, 15-15 Away",106,102,PHI -5.5,220,Final,,29,28,16,33,,21,29,25,27,,NBA
+401071574,2018,"February 25, 2019",Miami Heat,Phoenix Suns,"26-33, 11-18 Home","12-50, 5-28 Away",121,124,MIA -8.0,217,Final,,29,34,24,34,,23,29,32,40,,NBA
+401071598,2018,"February 28, 2019",Houston Rockets,Miami Heat,"37-25, 22-9 Home","27-34, 15-16 Away",121,118,HOU -9.5,219,Final,,33,22,31,35,,32,37,29,20,,NBA
+401071626,2018,"March 04, 2019",Miami Heat,Atlanta Hawks,"29-34, 14-18 Home","22-43, 11-24 Away",114,113,MIA -10.0,222,Final,,32,29,24,29,,31,30,24,28,,NBA
+401071652,2018,"March 08, 2019",Miami Heat,Cleveland Cavaliers,"31-34, 15-18 Home","16-50, 6-26 Away",126,110,MIA -9.0,214,Final,,28,29,37,32,,29,28,26,27,,NBA
+401071687,2018,"March 13, 2019",Miami Heat,Detroit Pistons,"32-35, 16-19 Home","34-33, 13-20 Away",108,74,MIA -2.0,209,Final,,30,24,33,21,,18,31,8,17,,NBA
+401071716,2018,"March 17, 2019",Miami Heat,Charlotte Hornets,"33-36, 17-20 Home","31-38, 10-24 Away",93,75,MIA -3.0,210,Final,,19,20,22,32,,20,19,21,15,,NBA
+401071744,2018,"March 20, 2019",San Antonio Spurs,Miami Heat,"42-30, 29-8 Home","35-36, 18-16 Away",105,110,SA -6.0,211,Final,,22,25,31,27,,24,38,28,20,,NBA
+401071761,2018,"March 23, 2019",Washington Wizards,Miami Heat,"30-44, 22-16 Home","36-37, 19-17 Away",108,113,WSH -1.0,221,Final,,27,26,26,29,,25,27,26,35,,NBA
+401071797,2018,"March 28, 2019",Miami Heat,Dallas Mavericks,"37-38, 18-21 Home","29-46, 7-31 Away",105,99,MIA -6.0,212,Final,,26,23,26,30,,29,30,23,17,,NBA
+401071826,2018,"April 01, 2019",Boston Celtics,Miami Heat,"46-32, 28-12 Home","38-39, 20-18 Away",110,105,BOS -7.0,213,Final,NBATV,36,25,27,22,,17,30,30,28,,NBA
+401071858,2018,"April 05, 2019",Minnesota Timberwolves,Miami Heat,"36-43, 25-14 Home","38-41, 20-19 Away",111,109,MIA -4.5,218,Final,,36,25,29,21,,35,34,22,18,,NBA
+401071885,2018,"April 09, 2019",Miami Heat,Philadelphia 76ers,"39-42, 19-22 Home","50-31, 20-21 Away",122,99,MIA -6.0,219,Final,,34,27,30,31,,20,22,18,39,,NBA
+401071894,2018,"April 10, 2019",Brooklyn Nets,Miami Heat,"42-40, 23-18 Home","39-43, 20-21 Away",113,94,BKN -5.0,219,Final,,32,31,29,21,,23,24,24,23,,NBA

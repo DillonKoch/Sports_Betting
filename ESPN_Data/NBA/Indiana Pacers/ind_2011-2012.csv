@@ -1,67 +1,67 @@
-,Unnamed: 0,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-0,0,311228028,2011,"Wed, Dec 28",Toronto Raptors,Indiana Pacers,"1-1, 0-1 Home","2-0, 1-0 Away",85,90,,,Final,NBATV,11,23,21,30,,18,20,25,27,,NBA
-1,1,311231008,2011,"Sat, Dec 31",Detroit Pistons,Indiana Pacers,"1-3, 1-1 Home","3-1, 1-1 Away",96,88,,,Final,,21,31,30,14,,18,26,20,24,,NBA
-2,2,320104014,2011,"Wed, Jan 4",Miami Heat,Indiana Pacers,"6-1, 3-1 Home","4-2, 2-2 Away",118,83,,,Final,,29,33,26,30,,27,12,27,17,,NBA
-3,3,320107011,2011,"Sat, Jan 7",Indiana Pacers,Charlotte Bobcats,"6-2, 3-0 Home","2-6, 1-3 Away",99,77,,,Final,NBATV,22,21,28,28,,30,19,14,14,,NBA
-4,4,320111011,2011,"Wed, Jan 11",Indiana Pacers,Atlanta Hawks,"7-3, 4-0 Home","7-4, 4-3 Away",96,84,,,Final,,28,25,27,16,,20,30,9,25,,NBA
-5,5,320114011,2011,"Sat, Jan 14",Indiana Pacers,Boston Celtics,"9-3, 5-0 Home","4-7, 1-4 Away",97,83,,,Final,,29,27,26,15,,24,24,19,16,,NBA
-6,6,320120009,2011,"Fri, Jan 20",Golden State Warriors,Indiana Pacers,"5-10, 3-5 Home","10-4, 5-4 Away",91,94,,,Final,,23,20,26,22,,27,16,24,27,,NBA
-7,7,320124011,2011,"Tue, Jan 24",Indiana Pacers,Orlando Magic,"11-5, 5-1 Home","12-5, 6-3 Away",83,102,,,Final,,29,16,17,21,,22,23,29,28,,NBA
-8,8,320127002,2011,"Fri, Jan 27",Boston Celtics,Indiana Pacers,"9-9, 6-5 Home","12-6, 7-5 Away",94,87,,,Final,,23,19,29,23,,17,17,27,26,,NBA
-9,9,320131011,2011,"Tue, Jan 31",Indiana Pacers,New Jersey Nets,"14-6, 6-1 Home","7-15, 5-9 Away",106,99,,,Final,,28,27,29,22,,24,29,19,27,,NBA
-10,10,320203006,2011,"Fri, Feb 3",Dallas Mavericks,Indiana Pacers,"14-10, 9-5 Home","16-6, 10-5 Away",87,98,,,Final,,28,25,16,18,,29,23,24,22,,NBA
-11,11,320207011,2011,"Tue, Feb 7",Indiana Pacers,Utah Jazz,"17-7, 7-2 Home","13-11, 2-7 Away",104,99,,,Final,,27,30,27,20,,23,23,31,22,,NBA
-12,12,320210029,2011,"Fri, Feb 10",Memphis Grizzlies,Indiana Pacers,"14-13, 9-4 Home","17-9, 10-7 Away",98,92,,,Final,,22,25,26,25,,22,25,26,19,,NBA
-13,13,320214011,2011,"Tue, Feb 14",Indiana Pacers,Miami Heat,"17-11, 7-4 Home","23-7, 11-5 Away",90,105,,,Final,NBATV,16,23,19,32,,33,35,22,15,,NBA
-14,14,320216011,2011,"Thu, Feb 16",Indiana Pacers,New Jersey Nets,"18-12, 8-4 Home","8-23, 5-12 Away",93,88,,,Final,,21,29,14,29,,29,21,15,23,,NBA
-15,15,320221011,2011,"Tue, Feb 21",Indiana Pacers,New Orleans Hornets,"20-12, 10-4 Home","7-25, 4-11 Away",117,108,,,Final/OT,,24,29,27,20,17.0,31,25,20,24,8.0,NBA
-16,16,320228011,2011,"Tue, Feb 28",Indiana Pacers,Golden State Warriors,"22-12, 11-4 Home","13-18, 4-9 Away",102,78,,,Final,,24,28,33,17,,21,17,16,24,,NBA
-17,17,320305004,2011,"Mon, Mar 5",Chicago Bulls,Indiana Pacers,"32-8, 15-2 Home","23-13, 12-9 Away",92,72,,,Final,,22,20,33,17,,20,23,13,16,,NBA
-18,18,320310014,2011,"Sat, Mar 10",Miami Heat,Indiana Pacers,"31-9, 18-2 Home","23-15, 12-10 Away",93,91,,,Final/OT,,17,22,21,25,8.0,26,17,18,24,6.0,NBA
-19,19,320313011,2011,"Tue, Mar 13",Indiana Pacers,Portland Trail Blazers,"24-16, 12-5 Home","20-22, 6-15 Away",92,75,,,Final,,19,29,27,17,,15,23,14,23,,NBA
-20,20,320316018,2011,"Fri, Mar 16",New York Knicks,Indiana Pacers,"20-24, 13-10 Home","25-17, 12-12 Away",115,100,,,Final,,24,26,38,27,,14,17,27,42,,NBA
-21,21,320320011,2011,"Tue, Mar 20",Indiana Pacers,LA Clippers,"26-18, 14-6 Home","26-19, 11-11 Away",102,89,,,Final,,31,23,24,24,,31,15,20,23,,NBA
-22,22,320323011,2011,"Fri, Mar 23",Indiana Pacers,Phoenix Suns,"27-19, 14-7 Home","24-24, 9-14 Away",111,113,,,Final,,31,30,18,32,,28,26,32,27,,NBA
-23,23,320326011,2011,"Mon, Mar 26",Indiana Pacers,Miami Heat,"29-19, 15-7 Home","35-13, 15-11 Away",105,90,,,Final,,24,25,29,27,,24,22,19,25,,NBA
-24,24,320329011,2011,"Thu, Mar 29",Indiana Pacers,Washington Wizards,"30-20, 16-7 Home","11-39, 5-20 Away",93,89,,,Final,,30,22,20,21,,26,23,20,20,,NBA
-25,25,320401010,2011,"Sun, Apr 1",Houston Rockets,Indiana Pacers,"28-25, 20-8 Home","31-21, 15-14 Away",102,104,,,Final/OT,,23,19,31,20,9.0,27,17,19,30,11.0,NBA
-26,26,320404027,2011,"Wed, Apr 4",Washington Wizards,Indiana Pacers,"12-42, 7-21 Home","33-21, 16-14 Away",96,109,,,Final,,28,23,23,22,,37,15,34,23,,NBA
-27,27,320407011,2011,"Sat, Apr 7",Indiana Pacers,Boston Celtics,"34-22, 18-8 Home","31-24, 12-15 Away",72,86,,,Final,,19,14,18,21,,24,19,16,27,,NBA
-28,28,320411005,2011,"Wed, Apr 11",Cleveland Cavaliers,Indiana Pacers,"19-37, 10-19 Home","36-22, 17-14 Away",98,104,,,Final/OT,,25,21,20,28,4.0,28,18,27,21,10.0,NBA
-29,29,320414015,2011,"Sat, Apr 14",Milwaukee Bucks,Indiana Pacers,"29-31, 15-15 Home","38-22, 18-14 Away",99,105,,,Final,,27,21,30,21,,27,32,21,25,,NBA
-30,30,320417020,2011,"Tue, Apr 17",Philadelphia 76ers,Indiana Pacers,"31-30, 19-14 Home","40-22, 19-14 Away",97,102,,,Final,CSN,21,21,28,27,,23,24,23,32,,NBA
-31,31,320421011,2011,"Sat, Apr 21",Indiana Pacers,Philadelphia 76ers,"41-23, 22-9 Home","33-30, 14-16 Away",106,109,,,Final/OT,CSN,23,31,20,24,8.0,34,19,28,17,11.0,NBA
-32,32,311226011,2011,"Mon, Dec 26",Indiana Pacers,Detroit Pistons,"1-0, 1-0 Home","0-1, 0-1 Away",91,79,,,Final,,26,26,24,15,,17,21,20,21,,NBA
-33,33,311230011,2011,"Fri, Dec 30",Indiana Pacers,Cleveland Cavaliers,"3-0, 2-0 Home","1-2, 1-1 Away",98,91,,,Final/OT,,22,23,25,14,14.0,24,23,14,23,7.0,NBA
-34,34,320102017,2011,"Mon, Jan 2",New Jersey Nets,Indiana Pacers,"1-5, 0-2 Home","4-1, 2-1 Away",94,108,,,Final,,21,21,22,30,,29,19,29,31,,NBA
-35,35,320106002,2011,"Fri, Jan 6",Boston Celtics,Indiana Pacers,"4-4, 3-1 Home","5-2, 3-2 Away",74,87,,,Final,,14,11,30,19,,14,19,30,24,,NBA
-36,36,320109020,2011,"Mon, Jan 9",Philadelphia 76ers,Indiana Pacers,"6-2, 3-0 Home","6-3, 3-3 Away",96,86,,,Final,CSN,25,20,28,23,,20,20,24,22,,NBA
-37,37,320113028,2011,"Fri, Jan 13",Toronto Raptors,Indiana Pacers,"4-8, 2-4 Home","8-3, 4-3 Away",90,95,,,Final,TSN2,27,18,20,25,,15,25,25,30,,NBA
-38,38,320118023,2011,"Wed, Jan 18",Sacramento Kings,Indiana Pacers,"5-10, 4-3 Home","9-4, 4-4 Away",92,88,,,Final,,19,26,21,26,,23,27,30,8,,NBA
-39,39,320122013,2011,"Sun, Jan 22",Los Angeles Lakers,Indiana Pacers,"10-8, 9-2 Home","11-4, 6-4 Away",96,98,,,Final,,27,25,26,18,,14,35,28,21,,NBA
-40,40,320125004,2011,"Wed, Jan 25",Chicago Bulls,Indiana Pacers,"16-4, 8-1 Home","12-5, 7-4 Away",90,95,,,Final,NBATV,23,31,20,16,,24,20,31,20,,NBA
-41,41,320129019,2011,"Sun, Jan 29",Orlando Magic,Indiana Pacers,"12-8, 6-4 Home","13-6, 8-5 Away",85,106,,,Final,,22,29,17,17,,29,19,32,26,,NBA
-42,42,320201016,2011,"Wed, Feb 1",Minnesota Timberwolves,Indiana Pacers,"10-12, 5-8 Home","15-6, 9-5 Away",99,109,,,Final,,25,16,29,29,,20,25,31,33,,NBA
-43,43,320204011,2011,"Sat, Feb 4",Indiana Pacers,Orlando Magic,"16-7, 6-2 Home","15-9, 7-5 Away",81,85,,,Final,NBATV,21,18,14,28,,23,16,23,23,,NBA
-44,44,320208001,2011,"Wed, Feb 8",Atlanta Hawks,Indiana Pacers,"17-9, 9-4 Home","17-8, 10-6 Away",97,87,,,Final,,32,27,21,17,,21,20,31,15,,NBA
-45,45,320211011,2011,"Sat, Feb 11",Indiana Pacers,Denver Nuggets,"17-10, 7-3 Home","16-12, 9-5 Away",109,113,,,Final,NBATV,35,25,24,25,,26,34,27,26,,NBA
-46,46,320215005,2011,"Wed, Feb 15",Cleveland Cavaliers,Indiana Pacers,"11-16, 6-7 Home","17-12, 10-8 Away",98,87,,,Final,,32,24,23,19,,20,18,23,26,,NBA
-47,47,320219011,2011,"Sun, Feb 19",Indiana Pacers,Charlotte Bobcats,"19-12, 9-4 Home","4-27, 2-16 Away",108,73,,,Final,,24,29,35,20,,12,21,15,25,,NBA
-48,48,320222030,2011,"Wed, Feb 22",Charlotte Bobcats,Indiana Pacers,"4-28, 2-12 Home","21-12, 11-8 Away",88,102,,,Final,,28,14,26,20,,23,27,28,24,,NBA
-49,49,320303003,2011,"Sat, Mar 3",New Orleans Hornets,Indiana Pacers,"9-28, 4-16 Home","23-12, 12-8 Away",84,102,,,Final,,23,14,17,30,,25,29,25,23,,NBA
-50,50,320306011,2011,"Tue, Mar 6",Indiana Pacers,Atlanta Hawks,"23-14, 11-5 Home","23-15, 11-9 Away",96,101,,,Final,,22,32,17,25,,29,29,18,25,,NBA
-51,51,320311019,2011,"Sun, Mar 11",Orlando Magic,Indiana Pacers,"27-15, 14-7 Home","23-16, 12-11 Away",107,94,,,Final,,36,20,35,16,,22,23,21,28,,NBA
-52,52,320314011,2011,"Wed, Mar 14",Indiana Pacers,Philadelphia 76ers,"25-16, 13-5 Home","25-18, 9-10 Away",111,94,,,Final,CSN/ESPN,24,30,29,28,,29,22,24,19,,NBA
-53,53,320317011,2011,"Sat, Mar 17",Indiana Pacers,New York Knicks,"25-18, 13-6 Home","21-24, 8-14 Away",88,102,,,Final,,35,16,23,14,,33,27,17,25,,NBA
-54,54,320322027,2011,"Thu, Mar 22",Washington Wizards,Indiana Pacers,"11-35, 6-17 Home","27-18, 13-12 Away",83,85,,,Final,,34,17,15,17,,18,13,26,28,,NBA
-55,55,320324015,2011,"Sat, Mar 24",Milwaukee Bucks,Indiana Pacers,"22-26, 11-11 Home","28-19, 14-12 Away",104,125,,,Final,,26,22,28,28,,29,28,35,33,,NBA
-56,56,320328017,2011,"Wed, Mar 28",New Jersey Nets,Indiana Pacers,"17-35, 7-19 Home","29-20, 14-13 Away",100,84,,,Final,,25,24,20,31,,22,21,24,17,,NBA
-57,57,320331024,2011,"Sat, Mar 31",San Antonio Spurs,Indiana Pacers,"36-14, 21-4 Home","30-21, 14-14 Away",112,103,,,Final,,25,39,26,22,,18,30,30,25,,NBA
-58,58,320403011,2011,"Tue, Apr 3",Indiana Pacers,New York Knicks,"32-21, 17-7 Home","27-27, 9-17 Away",112,104,,,Final,,31,20,21,40,,31,28,28,17,,NBA
-59,59,320406011,2011,"Fri, Apr 6",Indiana Pacers,Oklahoma City Thunder,"34-21, 18-7 Home","40-15, 17-10 Away",103,98,,,Final,,32,24,19,28,,20,21,20,37,,NBA
-60,60,320409011,2011,"Mon, Apr 9",Indiana Pacers,Toronto Raptors,"35-22, 19-8 Home","20-38, 9-20 Away",103,98,,,Final,TSNT,21,30,26,26,,16,21,25,36,,NBA
-61,61,320413011,2011,"Fri, Apr 13",Indiana Pacers,Cleveland Cavaliers,"37-22, 20-8 Home","19-38, 9-19 Away",102,83,,,Final,,16,25,34,27,,19,24,13,27,,NBA
-62,62,320416011,2011,"Mon, Apr 16",Indiana Pacers,Minnesota Timberwolves,"39-22, 21-8 Home","25-37, 12-20 Away",111,88,,,Final,,32,32,29,18,,13,17,33,25,,NBA
-63,63,320419011,2011,"Thu, Apr 19",Indiana Pacers,Milwaukee Bucks,"41-22, 22-8 Home","29-33, 14-18 Away",118,109,,,Final,,34,22,33,29,,29,21,28,31,,NBA
-64,64,320423011,2011,"Mon, Apr 23",Indiana Pacers,Detroit Pistons,"42-23, 23-9 Home","24-41, 7-26 Away",103,97,,,Final,,26,28,22,27,,26,26,23,22,,NBA
-65,65,320425011,2011,"Wed, Apr 25",Indiana Pacers,Chicago Bulls,"42-24, 23-10 Home","49-16, 24-9 Away",87,92,,,Final,,24,12,23,28,,32,17,18,25,,NBA
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+311228028,2011,"December 28, 2011",Toronto Raptors,Indiana Pacers,"1-1, 0-1 Home","2-0, 1-0 Away",85,90,,,Final,NBATV,11,23,21,30,,18,20,25,27,,NBA
+311231008,2011,"December 31, 2011",Detroit Pistons,Indiana Pacers,"1-3, 1-1 Home","3-1, 1-1 Away",96,88,,,Final,,21,31,30,14,,18,26,20,24,,NBA
+320104014,2011,"January 04, 2012",Miami Heat,Indiana Pacers,"6-1, 3-1 Home","4-2, 2-2 Away",118,83,,,Final,,29,33,26,30,,27,12,27,17,,NBA
+320107011,2011,"January 07, 2012",Indiana Pacers,Charlotte Bobcats,"6-2, 3-0 Home","2-6, 1-3 Away",99,77,,,Final,NBATV,22,21,28,28,,30,19,14,14,,NBA
+320111011,2011,"January 11, 2012",Indiana Pacers,Atlanta Hawks,"7-3, 4-0 Home","7-4, 4-3 Away",96,84,,,Final,,28,25,27,16,,20,30,9,25,,NBA
+320114011,2011,"January 14, 2012",Indiana Pacers,Boston Celtics,"9-3, 5-0 Home","4-7, 1-4 Away",97,83,,,Final,,29,27,26,15,,24,24,19,16,,NBA
+320120009,2011,"January 20, 2012",Golden State Warriors,Indiana Pacers,"5-10, 3-5 Home","10-4, 5-4 Away",91,94,,,Final,,23,20,26,22,,27,16,24,27,,NBA
+320124011,2011,"January 24, 2012",Indiana Pacers,Orlando Magic,"11-5, 5-1 Home","12-5, 6-3 Away",83,102,,,Final,,29,16,17,21,,22,23,29,28,,NBA
+320127002,2011,"January 27, 2012",Boston Celtics,Indiana Pacers,"9-9, 6-5 Home","12-6, 7-5 Away",94,87,,,Final,,23,19,29,23,,17,17,27,26,,NBA
+320131011,2011,"January 31, 2012",Indiana Pacers,New Jersey Nets,"14-6, 6-1 Home","7-15, 5-9 Away",106,99,,,Final,,28,27,29,22,,24,29,19,27,,NBA
+320203006,2011,"February 03, 2012",Dallas Mavericks,Indiana Pacers,"14-10, 9-5 Home","16-6, 10-5 Away",87,98,,,Final,,28,25,16,18,,29,23,24,22,,NBA
+320207011,2011,"February 07, 2012",Indiana Pacers,Utah Jazz,"17-7, 7-2 Home","13-11, 2-7 Away",104,99,,,Final,,27,30,27,20,,23,23,31,22,,NBA
+320210029,2011,"February 10, 2012",Memphis Grizzlies,Indiana Pacers,"14-13, 9-4 Home","17-9, 10-7 Away",98,92,,,Final,,22,25,26,25,,22,25,26,19,,NBA
+320214011,2011,"February 14, 2012",Indiana Pacers,Miami Heat,"17-11, 7-4 Home","23-7, 11-5 Away",90,105,,,Final,NBATV,16,23,19,32,,33,35,22,15,,NBA
+320216011,2011,"February 16, 2012",Indiana Pacers,New Jersey Nets,"18-12, 8-4 Home","8-23, 5-12 Away",93,88,,,Final,,21,29,14,29,,29,21,15,23,,NBA
+320221011,2011,"February 21, 2012",Indiana Pacers,New Orleans Hornets,"20-12, 10-4 Home","7-25, 4-11 Away",117,108,,,Final/OT,,24,29,27,20,17.0,31,25,20,24,8.0,NBA
+320228011,2011,"February 28, 2012",Indiana Pacers,Golden State Warriors,"22-12, 11-4 Home","13-18, 4-9 Away",102,78,,,Final,,24,28,33,17,,21,17,16,24,,NBA
+320305004,2011,"March 05, 2012",Chicago Bulls,Indiana Pacers,"32-8, 15-2 Home","23-13, 12-9 Away",92,72,,,Final,,22,20,33,17,,20,23,13,16,,NBA
+320310014,2011,"March 10, 2012",Miami Heat,Indiana Pacers,"31-9, 18-2 Home","23-15, 12-10 Away",93,91,,,Final/OT,,17,22,21,25,8.0,26,17,18,24,6.0,NBA
+320313011,2011,"March 13, 2012",Indiana Pacers,Portland Trail Blazers,"24-16, 12-5 Home","20-22, 6-15 Away",92,75,,,Final,,19,29,27,17,,15,23,14,23,,NBA
+320316018,2011,"March 16, 2012",New York Knicks,Indiana Pacers,"20-24, 13-10 Home","25-17, 12-12 Away",115,100,,,Final,,24,26,38,27,,14,17,27,42,,NBA
+320320011,2011,"March 20, 2012",Indiana Pacers,LA Clippers,"26-18, 14-6 Home","26-19, 11-11 Away",102,89,,,Final,,31,23,24,24,,31,15,20,23,,NBA
+320323011,2011,"March 23, 2012",Indiana Pacers,Phoenix Suns,"27-19, 14-7 Home","24-24, 9-14 Away",111,113,,,Final,,31,30,18,32,,28,26,32,27,,NBA
+320326011,2011,"March 26, 2012",Indiana Pacers,Miami Heat,"29-19, 15-7 Home","35-13, 15-11 Away",105,90,,,Final,,24,25,29,27,,24,22,19,25,,NBA
+320329011,2011,"March 29, 2012",Indiana Pacers,Washington Wizards,"30-20, 16-7 Home","11-39, 5-20 Away",93,89,,,Final,,30,22,20,21,,26,23,20,20,,NBA
+320401010,2011,"April 01, 2012",Houston Rockets,Indiana Pacers,"28-25, 20-8 Home","31-21, 15-14 Away",102,104,,,Final/OT,,23,19,31,20,9.0,27,17,19,30,11.0,NBA
+320404027,2011,"April 04, 2012",Washington Wizards,Indiana Pacers,"12-42, 7-21 Home","33-21, 16-14 Away",96,109,,,Final,,28,23,23,22,,37,15,34,23,,NBA
+320407011,2011,"April 07, 2012",Indiana Pacers,Boston Celtics,"34-22, 18-8 Home","31-24, 12-15 Away",72,86,,,Final,,19,14,18,21,,24,19,16,27,,NBA
+320411005,2011,"April 11, 2012",Cleveland Cavaliers,Indiana Pacers,"19-37, 10-19 Home","36-22, 17-14 Away",98,104,,,Final/OT,,25,21,20,28,4.0,28,18,27,21,10.0,NBA
+320414015,2011,"April 14, 2012",Milwaukee Bucks,Indiana Pacers,"29-31, 15-15 Home","38-22, 18-14 Away",99,105,,,Final,,27,21,30,21,,27,32,21,25,,NBA
+320417020,2011,"April 17, 2012",Philadelphia 76ers,Indiana Pacers,"31-30, 19-14 Home","40-22, 19-14 Away",97,102,,,Final,CSN,21,21,28,27,,23,24,23,32,,NBA
+320421011,2011,"April 21, 2012",Indiana Pacers,Philadelphia 76ers,"41-23, 22-9 Home","33-30, 14-16 Away",106,109,,,Final/OT,CSN,23,31,20,24,8.0,34,19,28,17,11.0,NBA
+311226011,2011,"December 26, 2011",Indiana Pacers,Detroit Pistons,"1-0, 1-0 Home","0-1, 0-1 Away",91,79,,,Final,,26,26,24,15,,17,21,20,21,,NBA
+311230011,2011,"December 30, 2011",Indiana Pacers,Cleveland Cavaliers,"3-0, 2-0 Home","1-2, 1-1 Away",98,91,,,Final/OT,,22,23,25,14,14.0,24,23,14,23,7.0,NBA
+320102017,2011,"January 02, 2012",New Jersey Nets,Indiana Pacers,"1-5, 0-2 Home","4-1, 2-1 Away",94,108,,,Final,,21,21,22,30,,29,19,29,31,,NBA
+320106002,2011,"January 06, 2012",Boston Celtics,Indiana Pacers,"4-4, 3-1 Home","5-2, 3-2 Away",74,87,,,Final,,14,11,30,19,,14,19,30,24,,NBA
+320109020,2011,"January 09, 2012",Philadelphia 76ers,Indiana Pacers,"6-2, 3-0 Home","6-3, 3-3 Away",96,86,,,Final,CSN,25,20,28,23,,20,20,24,22,,NBA
+320113028,2011,"January 13, 2012",Toronto Raptors,Indiana Pacers,"4-8, 2-4 Home","8-3, 4-3 Away",90,95,,,Final,TSN2,27,18,20,25,,15,25,25,30,,NBA
+320118023,2011,"January 18, 2012",Sacramento Kings,Indiana Pacers,"5-10, 4-3 Home","9-4, 4-4 Away",92,88,,,Final,,19,26,21,26,,23,27,30,8,,NBA
+320122013,2011,"January 22, 2012",Los Angeles Lakers,Indiana Pacers,"10-8, 9-2 Home","11-4, 6-4 Away",96,98,,,Final,,27,25,26,18,,14,35,28,21,,NBA
+320125004,2011,"January 25, 2012",Chicago Bulls,Indiana Pacers,"16-4, 8-1 Home","12-5, 7-4 Away",90,95,,,Final,NBATV,23,31,20,16,,24,20,31,20,,NBA
+320129019,2011,"January 29, 2012",Orlando Magic,Indiana Pacers,"12-8, 6-4 Home","13-6, 8-5 Away",85,106,,,Final,,22,29,17,17,,29,19,32,26,,NBA
+320201016,2011,"February 01, 2012",Minnesota Timberwolves,Indiana Pacers,"10-12, 5-8 Home","15-6, 9-5 Away",99,109,,,Final,,25,16,29,29,,20,25,31,33,,NBA
+320204011,2011,"February 04, 2012",Indiana Pacers,Orlando Magic,"16-7, 6-2 Home","15-9, 7-5 Away",81,85,,,Final,NBATV,21,18,14,28,,23,16,23,23,,NBA
+320208001,2011,"February 08, 2012",Atlanta Hawks,Indiana Pacers,"17-9, 9-4 Home","17-8, 10-6 Away",97,87,,,Final,,32,27,21,17,,21,20,31,15,,NBA
+320211011,2011,"February 11, 2012",Indiana Pacers,Denver Nuggets,"17-10, 7-3 Home","16-12, 9-5 Away",109,113,,,Final,NBATV,35,25,24,25,,26,34,27,26,,NBA
+320215005,2011,"February 15, 2012",Cleveland Cavaliers,Indiana Pacers,"11-16, 6-7 Home","17-12, 10-8 Away",98,87,,,Final,,32,24,23,19,,20,18,23,26,,NBA
+320219011,2011,"February 19, 2012",Indiana Pacers,Charlotte Bobcats,"19-12, 9-4 Home","4-27, 2-16 Away",108,73,,,Final,,24,29,35,20,,12,21,15,25,,NBA
+320222030,2011,"February 22, 2012",Charlotte Bobcats,Indiana Pacers,"4-28, 2-12 Home","21-12, 11-8 Away",88,102,,,Final,,28,14,26,20,,23,27,28,24,,NBA
+320303003,2011,"March 03, 2012",New Orleans Hornets,Indiana Pacers,"9-28, 4-16 Home","23-12, 12-8 Away",84,102,,,Final,,23,14,17,30,,25,29,25,23,,NBA
+320306011,2011,"March 06, 2012",Indiana Pacers,Atlanta Hawks,"23-14, 11-5 Home","23-15, 11-9 Away",96,101,,,Final,,22,32,17,25,,29,29,18,25,,NBA
+320311019,2011,"March 11, 2012",Orlando Magic,Indiana Pacers,"27-15, 14-7 Home","23-16, 12-11 Away",107,94,,,Final,,36,20,35,16,,22,23,21,28,,NBA
+320314011,2011,"March 14, 2012",Indiana Pacers,Philadelphia 76ers,"25-16, 13-5 Home","25-18, 9-10 Away",111,94,,,Final,CSN/ESPN,24,30,29,28,,29,22,24,19,,NBA
+320317011,2011,"March 17, 2012",Indiana Pacers,New York Knicks,"25-18, 13-6 Home","21-24, 8-14 Away",88,102,,,Final,,35,16,23,14,,33,27,17,25,,NBA
+320322027,2011,"March 22, 2012",Washington Wizards,Indiana Pacers,"11-35, 6-17 Home","27-18, 13-12 Away",83,85,,,Final,,34,17,15,17,,18,13,26,28,,NBA
+320324015,2011,"March 24, 2012",Milwaukee Bucks,Indiana Pacers,"22-26, 11-11 Home","28-19, 14-12 Away",104,125,,,Final,,26,22,28,28,,29,28,35,33,,NBA
+320328017,2011,"March 28, 2012",New Jersey Nets,Indiana Pacers,"17-35, 7-19 Home","29-20, 14-13 Away",100,84,,,Final,,25,24,20,31,,22,21,24,17,,NBA
+320331024,2011,"March 31, 2012",San Antonio Spurs,Indiana Pacers,"36-14, 21-4 Home","30-21, 14-14 Away",112,103,,,Final,,25,39,26,22,,18,30,30,25,,NBA
+320403011,2011,"April 03, 2012",Indiana Pacers,New York Knicks,"32-21, 17-7 Home","27-27, 9-17 Away",112,104,,,Final,,31,20,21,40,,31,28,28,17,,NBA
+320406011,2011,"April 06, 2012",Indiana Pacers,Oklahoma City Thunder,"34-21, 18-7 Home","40-15, 17-10 Away",103,98,,,Final,,32,24,19,28,,20,21,20,37,,NBA
+320409011,2011,"April 09, 2012",Indiana Pacers,Toronto Raptors,"35-22, 19-8 Home","20-38, 9-20 Away",103,98,,,Final,TSNT,21,30,26,26,,16,21,25,36,,NBA
+320413011,2011,"April 13, 2012",Indiana Pacers,Cleveland Cavaliers,"37-22, 20-8 Home","19-38, 9-19 Away",102,83,,,Final,,16,25,34,27,,19,24,13,27,,NBA
+320416011,2011,"April 16, 2012",Indiana Pacers,Minnesota Timberwolves,"39-22, 21-8 Home","25-37, 12-20 Away",111,88,,,Final,,32,32,29,18,,13,17,33,25,,NBA
+320419011,2011,"April 19, 2012",Indiana Pacers,Milwaukee Bucks,"41-22, 22-8 Home","29-33, 14-18 Away",118,109,,,Final,,34,22,33,29,,29,21,28,31,,NBA
+320423011,2011,"April 23, 2012",Indiana Pacers,Detroit Pistons,"42-23, 23-9 Home","24-41, 7-26 Away",103,97,,,Final,,26,28,22,27,,26,26,23,22,,NBA
+320425011,2011,"April 25, 2012",Indiana Pacers,Chicago Bulls,"42-24, 23-10 Home","49-16, 24-9 Away",87,92,,,Final,,24,12,23,28,,32,17,18,25,,NBA

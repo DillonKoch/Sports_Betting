@@ -1,83 +1,83 @@
-,Unnamed: 0,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-0,0,221101017,2002,"Fri, Nov 1",New Jersey Nets,Indiana Pacers,"2-0, 2-0 Home","1-1, 0-1 Away",102,91,,,Final,,21,27,28,26,,20,21,20,30,,NBA
-1,1,221105014,2002,"Tue, Nov 5",Miami Heat,Indiana Pacers,"1-3, 1-2 Home","3-1, 1-1 Away",79,83,,,Final,,21,18,22,18,,18,23,22,20,,NBA
-2,2,221109011,2002,"Sat, Nov 9",Indiana Pacers,Toronto Raptors,"5-1, 4-0 Home","2-4, 0-3 Away",108,84,,,Final,,19,25,30,34,,27,30,11,16,,NBA
-3,3,221115011,2002,"Fri, Nov 15",Indiana Pacers,Milwaukee Bucks,"7-1, 6-0 Home","4-4, 1-3 Away",103,100,,,Final/OT,,28,27,25,12,11.0,28,20,14,30,8.0,NBA
-4,4,221120028,2002,"Wed, Nov 20",Toronto Raptors,Indiana Pacers,"4-7, 3-3 Home","9-1, 3-1 Away",95,97,,,Final,,29,27,21,18,,25,24,23,25,,NBA
-5,5,221123011,2002,"Sat, Nov 23",Indiana Pacers,Detroit Pistons,"10-2, 7-1 Home","11-3, 5-3 Away",91,106,,,Final,,23,28,21,19,,19,32,26,29,,NBA
-6,6,221128011,2002,"Thu, Nov 28",Indiana Pacers,Dallas Mavericks,"12-2, 8-1 Home","14-1, 7-1 Away",110,98,,,Final,,29,30,25,26,,29,20,20,29,,NBA
-7,7,221201012,2002,"Sun, Dec 1",LA Clippers,Indiana Pacers,"6-12, 3-7 Home","14-2, 5-1 Away",87,92,,,Final,,17,20,26,24,,20,23,21,28,,NBA
-8,8,221204025,2002,"Wed, Dec 4",Seattle SuperSonics,Indiana Pacers,"10-9, 4-4 Home","15-3, 6-2 Away",111,114,,,Final/OT,,32,20,26,24,9.0,22,28,29,23,12.0,NBA
-9,9,221207007,2002,"Sat, Dec 7",Denver Nuggets,Indiana Pacers,"6-14, 4-7 Home","15-5, 6-4 Away",92,81,,,Final,,23,26,18,25,,17,20,27,17,,NBA
-10,10,221213011,2002,"Fri, Dec 13",Indiana Pacers,Denver Nuggets,"17-5, 10-1 Home","6-17, 2-9 Away",94,72,,,Final,,22,31,24,17,,15,13,24,20,,NBA
-11,11,221217006,2002,"Tue, Dec 17",Dallas Mavericks,Indiana Pacers,"21-3, 12-0 Home","18-6, 7-5 Away",118,97,,,Final,,35,27,37,19,,26,24,28,19,,NBA
-12,12,221220011,2002,"Fri, Dec 20",Indiana Pacers,Chicago Bulls,"19-7, 12-1 Home","9-17, 1-13 Away",101,86,,,Final,,34,34,16,17,,24,20,20,22,,NBA
-13,13,221223011,2002,"Mon, Dec 23",Indiana Pacers,Atlanta Hawks,"20-8, 13-1 Home","11-16, 2-12 Away",112,97,,,Final,,32,32,28,20,,28,26,22,21,,NBA
-14,14,221228011,2002,"Sat, Dec 28",Indiana Pacers,New Orleans Hornets,"22-8, 14-1 Home","18-13, 7-11 Away",91,84,,,Final,,24,21,17,29,,21,14,24,25,,NBA
-15,15,230103018,2002,"Fri, Jan 3",New York Knicks,Indiana Pacers,"12-17, 9-9 Home","23-9, 9-8 Away",98,96,,,Final,,22,19,27,30,,29,29,21,17,,NBA
-16,16,230106020,2002,"Mon, Jan 6",Philadelphia 76ers,Indiana Pacers,"19-15, 13-3 Home","24-10, 10-9 Away",104,105,,,Final/OT,CSN,20,25,32,19,8.0,33,25,27,11,9.0,NBA
-17,17,230110019,2002,"Fri, Jan 10",Orlando Magic,Indiana Pacers,"19-19, 12-7 Home","26-10, 11-9 Away",97,101,,,Final/OT,,29,18,31,17,2.0,22,23,27,23,6.0,NBA
-18,18,230115011,2002,"Wed, Jan 15",Indiana Pacers,Miami Heat,"28-10, 17-1 Home","13-26, 6-16 Away",104,81,,,Final,,32,19,32,21,,24,18,18,21,,NBA
-19,19,230118011,2002,"Sat, Jan 18",Indiana Pacers,Detroit Pistons,"29-11, 18-1 Home","26-13, 12-9 Away",88,86,,,Final,,26,14,28,20,,16,27,22,21,,NBA
-20,20,230122011,2002,"Wed, Jan 22",Indiana Pacers,Toronto Raptors,"30-12, 19-1 Home","10-33, 5-18 Away",101,98,,,Final,,19,23,26,33,,28,24,19,27,,NBA
-21,21,230126011,2002,"Sun, Jan 26",Indiana Pacers,LA Clippers,"32-12, 21-1 Home","16-27, 7-13 Away",108,101,,,Final,,32,26,25,25,,29,29,20,23,,NBA
-22,22,230129011,2002,"Wed, Jan 29",Indiana Pacers,San Antonio Spurs,"33-13, 21-2 Home","29-16, 10-12 Away",97,106,,,Final,,26,19,24,28,,23,34,25,24,,NBA
-23,23,230201011,2002,"Sat, Feb 1",Indiana Pacers,Boston Celtics,"34-14, 22-2 Home","26-21, 10-12 Away",109,100,,,Final,,30,28,30,21,,23,29,26,22,,NBA
-24,24,230211011,2002,"Tue, Feb 11",Indiana Pacers,Cleveland Cavaliers,"35-15, 23-3 Home","10-41, 3-25 Away",107,96,,,Final,,33,23,28,23,,20,24,30,22,,NBA
-25,25,230214011,2002,"Fri, Feb 14",Indiana Pacers,Atlanta Hawks,"37-15, 24-3 Home","19-33, 4-21 Away",98,97,,,Final/OT,,24,31,17,15,11.0,26,18,19,24,10.0,NBA
-26,26,230218029,2002,"Tue, Feb 18",Memphis Grizzlies,Indiana Pacers,"16-36, 12-15 Home","37-17, 13-14 Away",108,103,,,Final/OT,,19,29,30,20,10.0,25,20,27,26,5.0,NBA
-27,27,230222024,2002,"Sat, Feb 22",San Antonio Spurs,Indiana Pacers,"38-17, 21-4 Home","37-19, 13-16 Away",105,96,,,Final,,26,24,33,22,,21,18,20,37,,NBA
-28,28,230226002,2002,"Wed, Feb 26",Boston Celtics,Indiana Pacers,"32-25, 18-10 Home","37-21, 13-17 Away",71,69,,,Final,,21,19,15,16,,14,19,21,15,,NBA
-29,29,230304009,2002,"Tue, Mar 4",Golden State Warriors,Indiana Pacers,"30-30, 19-12 Home","38-22, 13-18 Away",107,100,,,Final,,34,24,22,27,,31,20,22,27,,NBA
-30,30,230308022,2002,"Sat, Mar 8",Portland Trail Blazers,Indiana Pacers,"40-22, 21-10 Home","38-24, 13-20 Away",94,80,,,Final,,30,22,22,20,,24,17,21,18,,NBA
-31,31,230311011,2002,"Tue, Mar 11",Indiana Pacers,New Orleans Hornets,"38-26, 25-5 Home","37-28, 14-18 Away",71,81,,,Final,,21,15,23,12,,22,20,17,22,,NBA
-32,32,230314011,2002,"Fri, Mar 14",Indiana Pacers,Utah Jazz,"39-27, 26-5 Home","37-28, 15-18 Away",101,81,,,Final,,20,29,25,27,,11,18,24,28,,NBA
-33,33,230319011,2002,"Wed, Mar 19",Indiana Pacers,Boston Celtics,"40-28, 27-6 Home","38-30, 16-18 Away",102,72,,,Final,,29,24,26,23,,13,14,26,19,,NBA
-34,34,230322001,2002,"Sat, Mar 22",Atlanta Hawks,Indiana Pacers,"29-42, 21-13 Home","41-29, 13-23 Away",92,89,,,Final,,22,26,25,19,,28,20,18,23,,NBA
-35,35,230328011,2002,"Fri, Mar 28",Indiana Pacers,Chicago Bulls,"42-30, 29-7 Home","26-47, 3-35 Away",140,89,,,Final,,39,35,31,35,,28,18,22,21,,NBA
-36,36,230401011,2002,"Tue, Apr 1",Indiana Pacers,Sacramento Kings,"43-31, 30-8 Home","53-22, 21-16 Away",98,103,,,Final,,23,29,14,32,,17,26,23,37,,NBA
-37,37,230404008,2002,"Fri, Apr 4",Detroit Pistons,Indiana Pacers,"47-28, 28-10 Home","45-31, 15-23 Away",92,98,,,Final,,31,23,24,14,,25,21,34,18,,NBA
-38,38,230408004,2002,"Tue, Apr 8",Chicago Bulls,Indiana Pacers,"28-50, 25-14 Home","46-32, 15-24 Away",115,103,,,Final,,34,20,31,30,,28,28,29,18,,NBA
-39,39,230413015,2002,"Sun, Apr 13",Milwaukee Bucks,Indiana Pacers,"41-40, 24-16 Home","46-34, 15-25 Away",107,98,,,Final,,28,21,29,29,,24,25,21,28,,NBA
-40,40,221030011,2002,"Wed, Oct 30",Indiana Pacers,Houston Rockets,"1-0, 1-0 Home","0-1, 0-1 Away",91,82,,,Final,,24,20,27,20,,22,21,19,20,,NBA
-41,41,221102011,2002,"Sat, Nov 2",Indiana Pacers,Minnesota Timberwolves,"2-1, 2-0 Home","2-1, 0-1 Away",87,80,,,Final,,17,26,23,21,,24,20,18,18,,NBA
-42,42,221108011,2002,"Fri, Nov 8",Indiana Pacers,New York Knicks,"4-1, 3-0 Home","1-5, 0-3 Away",107,94,,,Final,,38,21,18,30,,25,21,25,23,,NBA
-43,43,221112011,2002,"Tue, Nov 12",Indiana Pacers,Cleveland Cavaliers,"6-1, 5-0 Home","2-6, 1-5 Away",95,75,,,Final,,26,22,19,28,,17,18,14,26,,NBA
-44,44,221116016,2002,"Sat, Nov 16",Minnesota Timberwolves,Indiana Pacers,"5-6, 4-2 Home","8-1, 2-1 Away",101,107,,,Final,,25,19,17,40,,31,20,24,32,,NBA
-45,45,221122011,2002,"Fri, Nov 22",Indiana Pacers,Orlando Magic,"10-1, 7-0 Home","7-7, 4-5 Away",106,70,,,Final,,29,22,29,26,,12,17,25,16,,NBA
-46,46,221126027,2002,"Tue, Nov 26",Washington Wizards,Indiana Pacers,"6-8, 5-3 Home","11-2, 4-1 Away",84,88,,,Final,,18,14,21,31,,25,20,20,23,,NBA
-47,47,221129011,2002,"Fri, Nov 29",Indiana Pacers,Washington Wizards,"13-2, 9-1 Home","6-9, 1-6 Away",100,84,,,Final,,26,21,31,22,,27,28,18,11,,NBA
-48,48,221202026,2002,"Mon, Dec 2",Utah Jazz,Indiana Pacers,"10-8, 6-1 Home","14-3, 5-2 Away",102,91,,,Final,,27,26,26,23,,27,23,17,24,,NBA
-49,49,221206021,2002,"Fri, Dec 6",Phoenix Suns,Indiana Pacers,"10-8, 9-3 Home","15-4, 6-3 Away",102,92,,,Final,,29,29,15,29,,36,16,18,22,,NBA
-50,50,221211015,2002,"Wed, Dec 11",Milwaukee Bucks,Indiana Pacers,"9-12, 6-4 Home","16-5, 7-4 Away",119,126,,,Final/OT,,26,25,30,33,5.0,28,28,33,25,12.0,NBA
-51,51,221215011,2002,"Sun, Dec 15",Indiana Pacers,Philadelphia 76ers,"18-5, 11-1 Home","15-9, 5-7 Away",107,97,,,Final,CSN,32,33,24,18,,33,17,24,23,,NBA
-52,52,221218010,2002,"Wed, Dec 18",Houston Rockets,Indiana Pacers,"14-10, 9-2 Home","18-7, 7-6 Away",95,83,,,Final,,25,19,14,37,,20,14,22,27,,NBA
-53,53,221221004,2002,"Sat, Dec 21",Chicago Bulls,Indiana Pacers,"10-17, 9-4 Home","19-8, 7-7 Away",110,103,,,Final,,26,20,25,39,,19,25,28,31,,NBA
-54,54,221227005,2002,"Fri, Dec 27",Cleveland Cavaliers,Indiana Pacers,"6-25, 5-11 Home","21-8, 8-7 Away",89,113,,,Final,,21,20,25,23,,31,29,32,21,,NBA
-55,55,221231003,2002,"Tue, Dec 31",New Orleans Hornets,Indiana Pacers,"18-15, 11-3 Home","23-8, 9-7 Away",86,89,,,Final,,27,22,22,15,,18,21,33,17,,NBA
-56,56,230104027,2002,"Sat, Jan 4",Washington Wizards,Indiana Pacers,"16-17, 11-6 Home","23-10, 9-9 Away",107,104,,,Final/2OT,,31,22,21,23,10.0,22,31,23,21,7.0,NBA
-57,57,230108011,2002,"Wed, Jan 8",Indiana Pacers,New York Knicks,"25-10, 15-1 Home","12-20, 3-10 Away",89,87,,,Final,,26,17,26,20,,32,18,17,20,,NBA
-58,58,230111011,2002,"Sat, Jan 11",Indiana Pacers,Golden State Warriors,"27-10, 16-1 Home","15-21, 5-13 Away",116,104,,,Final,,38,30,21,27,,30,32,21,21,,NBA
-59,59,230117002,2002,"Fri, Jan 17",Boston Celtics,Indiana Pacers,"22-17, 14-7 Home","28-11, 11-10 Away",98,93,,,Final,,29,28,22,19,,23,28,21,21,,NBA
-60,60,230120008,2002,"Mon, Jan 20",Detroit Pistons,Indiana Pacers,"27-13, 15-4 Home","29-12, 11-11 Away",88,78,,,Final,,21,16,25,26,,25,19,18,16,,NBA
-61,61,230124011,2002,"Fri, Jan 24",Indiana Pacers,Seattle SuperSonics,"31-12, 20-1 Home","18-23, 10-13 Away",93,80,,,Final,,28,19,27,19,,22,27,21,10,,NBA
-62,62,230127014,2002,"Mon, Jan 27",Miami Heat,Indiana Pacers,"15-29, 9-12 Home","33-12, 12-11 Away",95,102,,,Final,,27,21,24,23,,25,21,24,32,,NBA
-63,63,230131028,2002,"Fri, Jan 31",Toronto Raptors,Indiana Pacers,"12-34, 7-15 Home","33-14, 12-12 Away",102,90,,,Final,,21,24,24,33,,25,21,18,26,,NBA
-64,64,230204011,2002,"Tue, Feb 4",Indiana Pacers,Los Angeles Lakers,"34-15, 22-3 Home","23-23, 8-15 Away",94,97,,,Final,,28,20,22,24,,26,20,28,23,,NBA
-65,65,230212003,2002,"Wed, Feb 12",New Orleans Hornets,Indiana Pacers,"27-25, 18-9 Home","36-15, 13-12 Away",72,83,,,Final,,15,16,18,23,,19,24,22,18,,NBA
-66,66,230216001,2002,"Sun, Feb 16",Atlanta Hawks,Indiana Pacers,"20-33, 16-12 Home","37-16, 13-13 Away",99,86,,,Final,,29,20,23,27,,20,25,20,21,,NBA
-67,67,230220017,2002,"Thu, Feb 20",New Jersey Nets,Indiana Pacers,"37-18, 25-3 Home","37-18, 13-15 Away",98,91,,,Final,,20,25,25,28,,23,32,14,22,,NBA
-68,68,230225011,2002,"Tue, Feb 25",Indiana Pacers,Washington Wizards,"37-20, 24-4 Home","27-29, 9-18 Away",78,83,,,Final,,20,16,20,22,,19,19,28,17,,NBA
-69,69,230228011,2002,"Fri, Feb 28",Indiana Pacers,Milwaukee Bucks,"38-21, 25-4 Home","28-30, 12-16 Away",107,98,,,Final,,26,28,32,21,,27,19,20,32,,NBA
-70,70,230305013,2002,"Wed, Mar 5",Los Angeles Lakers,Indiana Pacers,"33-26, 22-10 Home","38-23, 13-19 Away",97,95,,,Final,,18,36,20,23,,16,21,32,26,,NBA
-71,71,230309023,2002,"Sun, Mar 9",Sacramento Kings,Indiana Pacers,"45-19, 27-5 Home","38-25, 13-21 Away",107,88,,,Final,,34,20,30,23,,22,27,24,15,,NBA
-72,72,230312020,2002,"Wed, Mar 12",Philadelphia 76ers,Indiana Pacers,"37-26, 21-11 Home","38-27, 13-22 Away",96,93,,,Final,CSN,22,17,23,34,,25,19,23,26,,NBA
-73,73,230317011,2002,"Mon, Mar 17",Indiana Pacers,Portland Trail Blazers,"39-28, 26-6 Home","43-24, 21-14 Away",88,95,,,Final,,15,24,19,30,,25,28,14,28,,NBA
-74,74,230321011,2002,"Fri, Mar 21",Indiana Pacers,Memphis Grizzlies,"41-28, 28-6 Home","25-43, 7-27 Away",101,92,,,Final,,16,27,32,26,,26,29,21,16,,NBA
-75,75,230326011,2002,"Wed, Mar 26",Indiana Pacers,Philadelphia 76ers,"41-30, 28-7 Home","42-28, 20-16 Away",85,91,,,Final,CSN,26,18,19,22,,20,18,20,33,,NBA
-76,76,230330011,2002,"Sun, Mar 30",Indiana Pacers,Phoenix Suns,"43-30, 30-7 Home","38-35, 13-24 Away",92,81,,,Final,,29,21,24,18,,26,18,19,18,,NBA
-77,77,230402005,2002,"Wed, Apr 2",Cleveland Cavaliers,Indiana Pacers,"14-60, 11-26 Home","44-31, 14-23 Away",82,103,,,Final,,18,26,19,19,,25,29,30,19,,NBA
-78,78,230406011,2002,"Sun, Apr 6",Indiana Pacers,Miami Heat,"46-31, 31-8 Home","23-55, 8-32 Away",90,69,,,Final,,26,18,29,17,,17,20,11,21,,NBA
-79,79,230411011,2002,"Fri, Apr 11",Indiana Pacers,Orlando Magic,"46-33, 31-9 Home","41-38, 16-23 Away",86,98,,,Final,,27,19,19,21,,17,28,27,26,,NBA
-80,80,230415018,2002,"Tue, Apr 15",New York Knicks,Indiana Pacers,"37-45, 24-17 Home","47-34, 16-25 Away",93,109,,,Final,,26,28,14,25,,23,33,23,30,,NBA
-81,81,230416011,2002,"Wed, Apr 16",Indiana Pacers,New Jersey Nets,"48-34, 32-9 Home","49-33, 16-25 Away",90,83,,,Final,,19,17,27,27,,19,18,23,23,,NBA
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+221101017,2002,"November 01, 2002",New Jersey Nets,Indiana Pacers,"2-0, 2-0 Home","1-1, 0-1 Away",102,91,,,Final,,21,27,28,26,,20,21,20,30,,NBA
+221105014,2002,"November 05, 2002",Miami Heat,Indiana Pacers,"1-3, 1-2 Home","3-1, 1-1 Away",79,83,,,Final,,21,18,22,18,,18,23,22,20,,NBA
+221109011,2002,"November 09, 2002",Indiana Pacers,Toronto Raptors,"5-1, 4-0 Home","2-4, 0-3 Away",108,84,,,Final,,19,25,30,34,,27,30,11,16,,NBA
+221115011,2002,"November 15, 2002",Indiana Pacers,Milwaukee Bucks,"7-1, 6-0 Home","4-4, 1-3 Away",103,100,,,Final/OT,,28,27,25,12,11.0,28,20,14,30,8.0,NBA
+221120028,2002,"November 20, 2002",Toronto Raptors,Indiana Pacers,"4-7, 3-3 Home","9-1, 3-1 Away",95,97,,,Final,,29,27,21,18,,25,24,23,25,,NBA
+221123011,2002,"November 23, 2002",Indiana Pacers,Detroit Pistons,"10-2, 7-1 Home","11-3, 5-3 Away",91,106,,,Final,,23,28,21,19,,19,32,26,29,,NBA
+221128011,2002,"November 28, 2002",Indiana Pacers,Dallas Mavericks,"12-2, 8-1 Home","14-1, 7-1 Away",110,98,,,Final,,29,30,25,26,,29,20,20,29,,NBA
+221201012,2002,"December 01, 2002",LA Clippers,Indiana Pacers,"6-12, 3-7 Home","14-2, 5-1 Away",87,92,,,Final,,17,20,26,24,,20,23,21,28,,NBA
+221204025,2002,"December 04, 2002",Seattle SuperSonics,Indiana Pacers,"10-9, 4-4 Home","15-3, 6-2 Away",111,114,,,Final/OT,,32,20,26,24,9.0,22,28,29,23,12.0,NBA
+221207007,2002,"December 07, 2002",Denver Nuggets,Indiana Pacers,"6-14, 4-7 Home","15-5, 6-4 Away",92,81,,,Final,,23,26,18,25,,17,20,27,17,,NBA
+221213011,2002,"December 13, 2002",Indiana Pacers,Denver Nuggets,"17-5, 10-1 Home","6-17, 2-9 Away",94,72,,,Final,,22,31,24,17,,15,13,24,20,,NBA
+221217006,2002,"December 17, 2002",Dallas Mavericks,Indiana Pacers,"21-3, 12-0 Home","18-6, 7-5 Away",118,97,,,Final,,35,27,37,19,,26,24,28,19,,NBA
+221220011,2002,"December 20, 2002",Indiana Pacers,Chicago Bulls,"19-7, 12-1 Home","9-17, 1-13 Away",101,86,,,Final,,34,34,16,17,,24,20,20,22,,NBA
+221223011,2002,"December 23, 2002",Indiana Pacers,Atlanta Hawks,"20-8, 13-1 Home","11-16, 2-12 Away",112,97,,,Final,,32,32,28,20,,28,26,22,21,,NBA
+221228011,2002,"December 28, 2002",Indiana Pacers,New Orleans Hornets,"22-8, 14-1 Home","18-13, 7-11 Away",91,84,,,Final,,24,21,17,29,,21,14,24,25,,NBA
+230103018,2002,"January 03, 2003",New York Knicks,Indiana Pacers,"12-17, 9-9 Home","23-9, 9-8 Away",98,96,,,Final,,22,19,27,30,,29,29,21,17,,NBA
+230106020,2002,"January 06, 2003",Philadelphia 76ers,Indiana Pacers,"19-15, 13-3 Home","24-10, 10-9 Away",104,105,,,Final/OT,CSN,20,25,32,19,8.0,33,25,27,11,9.0,NBA
+230110019,2002,"January 10, 2003",Orlando Magic,Indiana Pacers,"19-19, 12-7 Home","26-10, 11-9 Away",97,101,,,Final/OT,,29,18,31,17,2.0,22,23,27,23,6.0,NBA
+230115011,2002,"January 15, 2003",Indiana Pacers,Miami Heat,"28-10, 17-1 Home","13-26, 6-16 Away",104,81,,,Final,,32,19,32,21,,24,18,18,21,,NBA
+230118011,2002,"January 18, 2003",Indiana Pacers,Detroit Pistons,"29-11, 18-1 Home","26-13, 12-9 Away",88,86,,,Final,,26,14,28,20,,16,27,22,21,,NBA
+230122011,2002,"January 22, 2003",Indiana Pacers,Toronto Raptors,"30-12, 19-1 Home","10-33, 5-18 Away",101,98,,,Final,,19,23,26,33,,28,24,19,27,,NBA
+230126011,2002,"January 26, 2003",Indiana Pacers,LA Clippers,"32-12, 21-1 Home","16-27, 7-13 Away",108,101,,,Final,,32,26,25,25,,29,29,20,23,,NBA
+230129011,2002,"January 29, 2003",Indiana Pacers,San Antonio Spurs,"33-13, 21-2 Home","29-16, 10-12 Away",97,106,,,Final,,26,19,24,28,,23,34,25,24,,NBA
+230201011,2002,"February 01, 2003",Indiana Pacers,Boston Celtics,"34-14, 22-2 Home","26-21, 10-12 Away",109,100,,,Final,,30,28,30,21,,23,29,26,22,,NBA
+230211011,2002,"February 11, 2003",Indiana Pacers,Cleveland Cavaliers,"35-15, 23-3 Home","10-41, 3-25 Away",107,96,,,Final,,33,23,28,23,,20,24,30,22,,NBA
+230214011,2002,"February 14, 2003",Indiana Pacers,Atlanta Hawks,"37-15, 24-3 Home","19-33, 4-21 Away",98,97,,,Final/OT,,24,31,17,15,11.0,26,18,19,24,10.0,NBA
+230218029,2002,"February 18, 2003",Memphis Grizzlies,Indiana Pacers,"16-36, 12-15 Home","37-17, 13-14 Away",108,103,,,Final/OT,,19,29,30,20,10.0,25,20,27,26,5.0,NBA
+230222024,2002,"February 22, 2003",San Antonio Spurs,Indiana Pacers,"38-17, 21-4 Home","37-19, 13-16 Away",105,96,,,Final,,26,24,33,22,,21,18,20,37,,NBA
+230226002,2002,"February 26, 2003",Boston Celtics,Indiana Pacers,"32-25, 18-10 Home","37-21, 13-17 Away",71,69,,,Final,,21,19,15,16,,14,19,21,15,,NBA
+230304009,2002,"March 04, 2003",Golden State Warriors,Indiana Pacers,"30-30, 19-12 Home","38-22, 13-18 Away",107,100,,,Final,,34,24,22,27,,31,20,22,27,,NBA
+230308022,2002,"March 08, 2003",Portland Trail Blazers,Indiana Pacers,"40-22, 21-10 Home","38-24, 13-20 Away",94,80,,,Final,,30,22,22,20,,24,17,21,18,,NBA
+230311011,2002,"March 11, 2003",Indiana Pacers,New Orleans Hornets,"38-26, 25-5 Home","37-28, 14-18 Away",71,81,,,Final,,21,15,23,12,,22,20,17,22,,NBA
+230314011,2002,"March 14, 2003",Indiana Pacers,Utah Jazz,"39-27, 26-5 Home","37-28, 15-18 Away",101,81,,,Final,,20,29,25,27,,11,18,24,28,,NBA
+230319011,2002,"March 19, 2003",Indiana Pacers,Boston Celtics,"40-28, 27-6 Home","38-30, 16-18 Away",102,72,,,Final,,29,24,26,23,,13,14,26,19,,NBA
+230322001,2002,"March 22, 2003",Atlanta Hawks,Indiana Pacers,"29-42, 21-13 Home","41-29, 13-23 Away",92,89,,,Final,,22,26,25,19,,28,20,18,23,,NBA
+230328011,2002,"March 28, 2003",Indiana Pacers,Chicago Bulls,"42-30, 29-7 Home","26-47, 3-35 Away",140,89,,,Final,,39,35,31,35,,28,18,22,21,,NBA
+230401011,2002,"April 01, 2003",Indiana Pacers,Sacramento Kings,"43-31, 30-8 Home","53-22, 21-16 Away",98,103,,,Final,,23,29,14,32,,17,26,23,37,,NBA
+230404008,2002,"April 04, 2003",Detroit Pistons,Indiana Pacers,"47-28, 28-10 Home","45-31, 15-23 Away",92,98,,,Final,,31,23,24,14,,25,21,34,18,,NBA
+230408004,2002,"April 08, 2003",Chicago Bulls,Indiana Pacers,"28-50, 25-14 Home","46-32, 15-24 Away",115,103,,,Final,,34,20,31,30,,28,28,29,18,,NBA
+230413015,2002,"April 13, 2003",Milwaukee Bucks,Indiana Pacers,"41-40, 24-16 Home","46-34, 15-25 Away",107,98,,,Final,,28,21,29,29,,24,25,21,28,,NBA
+221030011,2002,"October 30, 2002",Indiana Pacers,Houston Rockets,"1-0, 1-0 Home","0-1, 0-1 Away",91,82,,,Final,,24,20,27,20,,22,21,19,20,,NBA
+221102011,2002,"November 02, 2002",Indiana Pacers,Minnesota Timberwolves,"2-1, 2-0 Home","2-1, 0-1 Away",87,80,,,Final,,17,26,23,21,,24,20,18,18,,NBA
+221108011,2002,"November 08, 2002",Indiana Pacers,New York Knicks,"4-1, 3-0 Home","1-5, 0-3 Away",107,94,,,Final,,38,21,18,30,,25,21,25,23,,NBA
+221112011,2002,"November 12, 2002",Indiana Pacers,Cleveland Cavaliers,"6-1, 5-0 Home","2-6, 1-5 Away",95,75,,,Final,,26,22,19,28,,17,18,14,26,,NBA
+221116016,2002,"November 16, 2002",Minnesota Timberwolves,Indiana Pacers,"5-6, 4-2 Home","8-1, 2-1 Away",101,107,,,Final,,25,19,17,40,,31,20,24,32,,NBA
+221122011,2002,"November 22, 2002",Indiana Pacers,Orlando Magic,"10-1, 7-0 Home","7-7, 4-5 Away",106,70,,,Final,,29,22,29,26,,12,17,25,16,,NBA
+221126027,2002,"November 26, 2002",Washington Wizards,Indiana Pacers,"6-8, 5-3 Home","11-2, 4-1 Away",84,88,,,Final,,18,14,21,31,,25,20,20,23,,NBA
+221129011,2002,"November 29, 2002",Indiana Pacers,Washington Wizards,"13-2, 9-1 Home","6-9, 1-6 Away",100,84,,,Final,,26,21,31,22,,27,28,18,11,,NBA
+221202026,2002,"December 02, 2002",Utah Jazz,Indiana Pacers,"10-8, 6-1 Home","14-3, 5-2 Away",102,91,,,Final,,27,26,26,23,,27,23,17,24,,NBA
+221206021,2002,"December 06, 2002",Phoenix Suns,Indiana Pacers,"10-8, 9-3 Home","15-4, 6-3 Away",102,92,,,Final,,29,29,15,29,,36,16,18,22,,NBA
+221211015,2002,"December 11, 2002",Milwaukee Bucks,Indiana Pacers,"9-12, 6-4 Home","16-5, 7-4 Away",119,126,,,Final/OT,,26,25,30,33,5.0,28,28,33,25,12.0,NBA
+221215011,2002,"December 15, 2002",Indiana Pacers,Philadelphia 76ers,"18-5, 11-1 Home","15-9, 5-7 Away",107,97,,,Final,CSN,32,33,24,18,,33,17,24,23,,NBA
+221218010,2002,"December 18, 2002",Houston Rockets,Indiana Pacers,"14-10, 9-2 Home","18-7, 7-6 Away",95,83,,,Final,,25,19,14,37,,20,14,22,27,,NBA
+221221004,2002,"December 21, 2002",Chicago Bulls,Indiana Pacers,"10-17, 9-4 Home","19-8, 7-7 Away",110,103,,,Final,,26,20,25,39,,19,25,28,31,,NBA
+221227005,2002,"December 27, 2002",Cleveland Cavaliers,Indiana Pacers,"6-25, 5-11 Home","21-8, 8-7 Away",89,113,,,Final,,21,20,25,23,,31,29,32,21,,NBA
+221231003,2002,"December 31, 2002",New Orleans Hornets,Indiana Pacers,"18-15, 11-3 Home","23-8, 9-7 Away",86,89,,,Final,,27,22,22,15,,18,21,33,17,,NBA
+230104027,2002,"January 04, 2003",Washington Wizards,Indiana Pacers,"16-17, 11-6 Home","23-10, 9-9 Away",107,104,,,Final/2OT,,31,22,21,23,10.0,22,31,23,21,7.0,NBA
+230108011,2002,"January 08, 2003",Indiana Pacers,New York Knicks,"25-10, 15-1 Home","12-20, 3-10 Away",89,87,,,Final,,26,17,26,20,,32,18,17,20,,NBA
+230111011,2002,"January 11, 2003",Indiana Pacers,Golden State Warriors,"27-10, 16-1 Home","15-21, 5-13 Away",116,104,,,Final,,38,30,21,27,,30,32,21,21,,NBA
+230117002,2002,"January 17, 2003",Boston Celtics,Indiana Pacers,"22-17, 14-7 Home","28-11, 11-10 Away",98,93,,,Final,,29,28,22,19,,23,28,21,21,,NBA
+230120008,2002,"January 20, 2003",Detroit Pistons,Indiana Pacers,"27-13, 15-4 Home","29-12, 11-11 Away",88,78,,,Final,,21,16,25,26,,25,19,18,16,,NBA
+230124011,2002,"January 24, 2003",Indiana Pacers,Seattle SuperSonics,"31-12, 20-1 Home","18-23, 10-13 Away",93,80,,,Final,,28,19,27,19,,22,27,21,10,,NBA
+230127014,2002,"January 27, 2003",Miami Heat,Indiana Pacers,"15-29, 9-12 Home","33-12, 12-11 Away",95,102,,,Final,,27,21,24,23,,25,21,24,32,,NBA
+230131028,2002,"January 31, 2003",Toronto Raptors,Indiana Pacers,"12-34, 7-15 Home","33-14, 12-12 Away",102,90,,,Final,,21,24,24,33,,25,21,18,26,,NBA
+230204011,2002,"February 04, 2003",Indiana Pacers,Los Angeles Lakers,"34-15, 22-3 Home","23-23, 8-15 Away",94,97,,,Final,,28,20,22,24,,26,20,28,23,,NBA
+230212003,2002,"February 12, 2003",New Orleans Hornets,Indiana Pacers,"27-25, 18-9 Home","36-15, 13-12 Away",72,83,,,Final,,15,16,18,23,,19,24,22,18,,NBA
+230216001,2002,"February 16, 2003",Atlanta Hawks,Indiana Pacers,"20-33, 16-12 Home","37-16, 13-13 Away",99,86,,,Final,,29,20,23,27,,20,25,20,21,,NBA
+230220017,2002,"February 20, 2003",New Jersey Nets,Indiana Pacers,"37-18, 25-3 Home","37-18, 13-15 Away",98,91,,,Final,,20,25,25,28,,23,32,14,22,,NBA
+230225011,2002,"February 25, 2003",Indiana Pacers,Washington Wizards,"37-20, 24-4 Home","27-29, 9-18 Away",78,83,,,Final,,20,16,20,22,,19,19,28,17,,NBA
+230228011,2002,"February 28, 2003",Indiana Pacers,Milwaukee Bucks,"38-21, 25-4 Home","28-30, 12-16 Away",107,98,,,Final,,26,28,32,21,,27,19,20,32,,NBA
+230305013,2002,"March 05, 2003",Los Angeles Lakers,Indiana Pacers,"33-26, 22-10 Home","38-23, 13-19 Away",97,95,,,Final,,18,36,20,23,,16,21,32,26,,NBA
+230309023,2002,"March 09, 2003",Sacramento Kings,Indiana Pacers,"45-19, 27-5 Home","38-25, 13-21 Away",107,88,,,Final,,34,20,30,23,,22,27,24,15,,NBA
+230312020,2002,"March 12, 2003",Philadelphia 76ers,Indiana Pacers,"37-26, 21-11 Home","38-27, 13-22 Away",96,93,,,Final,CSN,22,17,23,34,,25,19,23,26,,NBA
+230317011,2002,"March 17, 2003",Indiana Pacers,Portland Trail Blazers,"39-28, 26-6 Home","43-24, 21-14 Away",88,95,,,Final,,15,24,19,30,,25,28,14,28,,NBA
+230321011,2002,"March 21, 2003",Indiana Pacers,Memphis Grizzlies,"41-28, 28-6 Home","25-43, 7-27 Away",101,92,,,Final,,16,27,32,26,,26,29,21,16,,NBA
+230326011,2002,"March 26, 2003",Indiana Pacers,Philadelphia 76ers,"41-30, 28-7 Home","42-28, 20-16 Away",85,91,,,Final,CSN,26,18,19,22,,20,18,20,33,,NBA
+230330011,2002,"March 30, 2003",Indiana Pacers,Phoenix Suns,"43-30, 30-7 Home","38-35, 13-24 Away",92,81,,,Final,,29,21,24,18,,26,18,19,18,,NBA
+230402005,2002,"April 02, 2003",Cleveland Cavaliers,Indiana Pacers,"14-60, 11-26 Home","44-31, 14-23 Away",82,103,,,Final,,18,26,19,19,,25,29,30,19,,NBA
+230406011,2002,"April 06, 2003",Indiana Pacers,Miami Heat,"46-31, 31-8 Home","23-55, 8-32 Away",90,69,,,Final,,26,18,29,17,,17,20,11,21,,NBA
+230411011,2002,"April 11, 2003",Indiana Pacers,Orlando Magic,"46-33, 31-9 Home","41-38, 16-23 Away",86,98,,,Final,,27,19,19,21,,17,28,27,26,,NBA
+230415018,2002,"April 15, 2003",New York Knicks,Indiana Pacers,"37-45, 24-17 Home","47-34, 16-25 Away",93,109,,,Final,,26,28,14,25,,23,33,23,30,,NBA
+230416011,2002,"April 16, 2003",Indiana Pacers,New Jersey Nets,"48-34, 32-9 Home","49-33, 16-25 Away",90,83,,,Final,,19,17,27,27,,19,18,23,23,,NBA

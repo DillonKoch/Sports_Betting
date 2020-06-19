@@ -1,83 +1,83 @@
-,Unnamed: 0,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-0,0,241105002,2004,"Fri, Nov 5",Boston Celtics,Indiana Pacers,"0-2, 0-2 Home","2-0, 2-0 Away",94,100,,,Final,,28,24,9,33.0,,26,25,11,38.0,,NBA
-1,1,241109016,2004,"Tue, Nov 9",Minnesota Timberwolves,Indiana Pacers,"2-2, 2-1 Home","4-0, 3-0 Away",101,102,,,Final,,26,19,23,33.0,,32,22,26,22.0,,NBA
-2,2,241112020,2004,"Fri, Nov 12",Philadelphia 76ers,Indiana Pacers,"3-3, 2-1 Home","4-2, 3-1 Away",106,104,,,Final/OT,CSN,23,26,19,32.0,6.0,30,27,21,22.0,4.0,NBA
-3,3,241117011,2004,"Wed, Nov 17",Indiana Pacers,Atlanta Hawks,"6-2, 3-1 Home","2-6, 1-4 Away",93,86,,,Final,,16,26,22,29.0,,31,18,13,24.0,,NBA
-4,4,241120011,2004,"Sat, Nov 20",Indiana Pacers,Orlando Magic,"7-3, 3-2 Home","6-3, 2-3 Away",83,86,,,Final,,20,24,21,18.0,,26,20,19,21.0,,NBA
-5,5,241125011,2004,"Thu, Nov 25",Indiana Pacers,Minnesota Timberwolves,"9-3, 5-2 Home","6-5, 3-3 Away",106,102,,,Final,,26,21,30,29.0,,26,19,22,35.0,,NBA
-6,6,241128025,2004,"Sun, Nov 28",Seattle SuperSonics,Indiana Pacers,"13-2, 7-0 Home","10-4, 4-2 Away",103,95,,,Final,,24,31,22,26.0,,21,25,22,27.0,,NBA
-7,7,241203023,2004,"Fri, Dec 3",Sacramento Kings,Indiana Pacers,"11-5, 7-1 Home","10-6, 4-4 Away",113,87,,,Final,,30,30,31,22.0,,22,25,20,20.0,,NBA
-8,8,241207011,2004,"Tue, Dec 7",Indiana Pacers,Milwaukee Bucks,"10-8, 6-3 Home","5-10, 1-7 Away",86,89,,,Final,,19,16,19,32.0,,21,20,20,28.0,,NBA
-9,9,241211011,2004,"Sat, Dec 11",Indiana Pacers,Sacramento Kings,"10-10, 6-4 Home","14-6, 5-5 Away",92,97,,,Final/OT,,19,27,19,20.0,7.0,25,15,22,23.0,12.0,NBA
-10,10,241217011,2004,"Fri, Dec 17",Indiana Pacers,Toronto Raptors,"12-10, 7-4 Home","8-17, 2-13 Away",89,86,,,Final,,14,31,27,17.0,,21,26,24,15.0,,NBA
-11,11,241222011,2004,"Wed, Dec 22",Indiana Pacers,Philadelphia 76ers,"12-12, 7-5 Home","11-14, 4-8 Away",90,102,,,Final,CSN,25,25,21,19.0,,20,22,24,36.0,,NBA
-12,12,241227011,2004,"Mon, Dec 27",Indiana Pacers,New Orleans Hornets,"13-13, 8-6 Home","2-25, 1-15 Away",100,82,,,Final,,27,28,9,36.0,,19,22,24,17.0,,NBA
-13,13,241230017,2004,"Thu, Dec 30",New Jersey Nets,Indiana Pacers,"10-18, 6-8 Home","15-13, 7-7 Away",83,96,,,Final,,17,17,29,20.0,,26,18,22,30.0,,NBA
-14,14,250106024,2004,"Thu, Jan 6",San Antonio Spurs,Indiana Pacers,"27-7, 16-1 Home","16-14, 7-8 Away",111,98,,,Final,,31,26,27,27.0,,24,27,27,20.0,,NBA
-15,15,250109021,2004,"Sun, Jan 9",Phoenix Suns,Indiana Pacers,"30-4, 15-2 Home","16-16, 7-10 Away",124,89,,,Final,,35,30,32,27.0,,17,25,17,30.0,,NBA
-16,16,250114011,2004,"Fri, Jan 14",Indiana Pacers,Phoenix Suns,"18-16, 10-6 Home","31-6, 15-4 Away",101,83,,,Final,,32,21,24,24.0,,23,25,15,20.0,,NBA
-17,17,250118010,2004,"Tue, Jan 18",Houston Rockets,Indiana Pacers,"20-19, 13-9 Home","19-17, 9-10 Away",74,87,,,Final,,13,25,21,15.0,,21,21,19,26.0,,NBA
-18,18,250121014,2004,"Fri, Jan 21",Miami Heat,Indiana Pacers,"29-12, 15-5 Home","20-18, 10-11 Away",100,106,,,Final/OT,,23,23,23,24.0,7.0,30,17,26,20.0,13.0,NBA
-19,19,250126002,2004,"Wed, Jan 26",Boston Celtics,Indiana Pacers,"20-22, 14-6 Home","20-20, 10-12 Away",100,86,,,Final,,26,23,28,23.0,,28,20,20,18.0,,NBA
-20,20,250129011,2004,"Sat, Jan 29",Indiana Pacers,Denver Nuggets,"20-22, 10-10 Home","19-25, 7-16 Away",88,95,,,Final,,19,28,26,15.0,,25,30,24,16.0,,NBA
-21,21,250202011,2004,"Wed, Feb 2",Indiana Pacers,Toronto Raptors,"20-24, 10-11 Home","19-27, 4-20 Away",97,98,,,Final,,32,21,18,26.0,,18,18,30,32.0,,NBA
-22,22,250205001,2004,"Sat, Feb 5",Atlanta Hawks,Indiana Pacers,"9-37, 7-18 Home","22-24, 11-13 Away",79,84,,,Final,,18,23,20,18.0,,19,22,20,23.0,,NBA
-23,23,250209011,2004,"Wed, Feb 9",Indiana Pacers,Charlotte Bobcats,"23-25, 12-11 Home","10-36, 2-22 Away",94,87,,,Final,,26,28,18,22.0,,17,19,26,25.0,,NBA
-24,24,250213011,2004,"Sun, Feb 13",Indiana Pacers,Memphis Grizzlies,"24-26, 13-12 Home","30-22, 12-13 Away",76,73,,,Final,,21,23,20,12.0,,16,23,13,21.0,,NBA
-25,25,250222019,2004,"Tue, Feb 22",Orlando Magic,Indiana Pacers,"28-25, 19-7 Home","26-26, 12-14 Away",84,108,,,Final,,18,18,21,27.0,,20,32,29,27.0,,NBA
-26,26,250225011,2004,"Fri, Feb 25",Indiana Pacers,Cleveland Cavaliers,"28-26, 16-12 Home","31-22, 10-17 Away",106,82,,,Final,,27,31,20,28.0,,27,14,20,21.0,,NBA
-27,27,250301011,2004,"Tue, Mar 1",Indiana Pacers,Seattle SuperSonics,"28-28, 16-13 Home","39-16, 19-8 Away",93,101,,,Final,,20,28,25,20.0,,32,21,19,29.0,,NBA
-28,28,250304022,2004,"Fri, Mar 4",Portland Trail Blazers,Indiana Pacers,"22-34, 14-14 Home","29-29, 13-16 Away",97,106,,,Final,,24,30,24,19.0,,24,24,28,30.0,,NBA
-29,29,250308026,2004,"Tue, Mar 8",Utah Jazz,Indiana Pacers,"20-40, 13-17 Home","30-30, 14-17 Away",83,89,,,Final,,16,26,22,19.0,,33,22,14,20.0,,NBA
-30,30,250313005,2004,"Sun, Mar 13",Cleveland Cavaliers,Indiana Pacers,"33-27, 23-8 Home","31-31, 14-18 Away",98,86,,,Final,,20,30,26,22.0,,26,27,18,15.0,,NBA
-31,31,250318011,2004,"Fri, Mar 18",Indiana Pacers,Los Angeles Lakers,"33-31, 19-13 Home","32-33, 11-21 Away",103,97,,,Final,,30,20,28,25.0,,22,24,23,28.0,,NBA
-32,32,250322017,2004,"Tue, Mar 22",New Jersey Nets,Indiana Pacers,"32-36, 19-14 Home","33-33, 14-19 Away",98,91,,,Final,,26,19,23,30.0,,34,19,17,21.0,,NBA
-33,33,250325008,2004,"Fri, Mar 25",Detroit Pistons,Indiana Pacers,"42-26, 25-8 Home","35-33, 15-19 Away",81,94,,,Final,,20,17,24,20.0,,19,24,25,26.0,,NBA
-34,34,250328015,2004,"Mon, Mar 28",Milwaukee Bucks,Indiana Pacers,"27-43, 20-14 Home","36-34, 16-20 Away",76,90,,,Final,,19,15,16,26.0,,27,18,29,16.0,,NBA
-35,35,250403027,2004,"Sun, Apr 3",Washington Wizards,Indiana Pacers,"41-31, 25-10 Home","38-34, 17-20 Away",76,79,,,Final,,11,18,30,17.0,,16,13,24,26.0,,NBA
-36,36,250406011,2004,"Wed, Apr 6",Indiana Pacers,Cleveland Cavaliers,"40-34, 22-14 Home","38-36, 11-25 Away",98,77,,,Final,,26,23,28,21.0,,22,10,25,20.0,,NBA
-37,37,250410011,2004,"Sun, Apr 10",Indiana Pacers,New York Knicks,"41-35, 23-15 Home","30-46, 9-29 Away",112,113,,,Final/OT,,23,25,26,30.0,8.0,31,20,30,23.0,9.0,NBA
-38,38,250413011,2004,"Wed, Apr 13",Indiana Pacers,New Jersey Nets,"43-35, 24-15 Home","38-40, 16-23 Away",90,86,,,Final,,18,20,31,21.0,,30,19,18,19.0,,NBA
-39,39,250417014,2004,"Sun, Apr 17",Miami Heat,Indiana Pacers,"57-23, 34-6 Home","43-37, 19-21 Away",84,80,,,Final,,24,23,17,20.0,,15,22,25,18.0,,NBA
-40,40,241103005,2004,"Wed, Nov 3",Cleveland Cavaliers,Indiana Pacers,"0-1, 0-1 Home","1-0, 1-0 Away",104,109,,,Final/2OT,,21,19,27,18.0,19.0,26,20,17,22.0,24.0,NBA
-41,41,241106011,2004,"Sat, Nov 6",Indiana Pacers,Chicago Bulls,"3-0, 1-0 Home","0-2, 0-1 Away",100,90,,,Final,,27,27,28,18.0,,24,25,18,23.0,,NBA
-42,42,241110011,2004,"Wed, Nov 10",Indiana Pacers,LA Clippers,"4-1, 1-1 Home","3-2, 2-1 Away",68,102,,,Final,,20,7,23,18.0,,24,31,26,21.0,,NBA
-43,43,241113011,2004,"Sat, Nov 13",Indiana Pacers,New York Knicks,"5-2, 2-1 Home","2-3, 0-2 Away",103,97,,,Final,,37,26,20,20.0,,32,17,18,30.0,,NBA
-44,44,241119008,2004,"Fri, Nov 19",Detroit Pistons,Indiana Pacers,"4-4, 3-1 Home","7-2, 4-1 Away",82,97,,,Final,,27,16,23,16.0,,34,25,21,17.0,,NBA
-45,45,241123011,2004,"Tue, Nov 23",Indiana Pacers,Boston Celtics,"8-3, 4-2 Home","4-5, 1-2 Away",106,96,,,Final,,23,27,22,34.0,,28,19,25,24.0,,NBA
-46,46,241126011,2004,"Fri, Nov 26",Indiana Pacers,Charlotte Bobcats,"10-3, 6-2 Home","2-9, 0-5 Away",82,77,,,Final,,14,24,19,25.0,,27,16,18,16.0,,NBA
-47,47,241201012,2004,"Wed, Dec 1",LA Clippers,Indiana Pacers,"10-6, 6-3 Home","10-5, 4-3 Away",88,76,,,Final,,24,16,24,24.0,,21,17,20,18.0,,NBA
-48,48,241204009,2004,"Sat, Dec 4",Golden State Warriors,Indiana Pacers,"4-12, 3-6 Home","10-7, 4-5 Away",104,96,,,Final,,28,28,21,27.0,,29,18,23,26.0,,NBA
-49,49,241210015,2004,"Fri, Dec 10",Milwaukee Bucks,Indiana Pacers,"6-11, 5-4 Home","10-9, 4-6 Away",95,86,,,Final,,21,21,34,19.0,,28,20,16,22.0,,NBA
-50,50,241214001,2004,"Tue, Dec 14",Atlanta Hawks,Indiana Pacers,"4-17, 2-10 Home","11-10, 5-6 Away",97,108,,,Final/OT,,22,27,28,14.0,6.0,27,16,24,24.0,17.0,NBA
-51,51,241218004,2004,"Sat, Dec 18",Chicago Bulls,Indiana Pacers,"7-15, 5-7 Home","12-11, 5-7 Away",85,71,,,Final,,29,19,22,15.0,,21,21,20,9.0,,NBA
-52,52,241225011,2004,"Sat, Dec 25",Indiana Pacers,Detroit Pistons,"12-13, 7-6 Home","13-12, 6-8 Away",93,98,,,Final,,21,24,16,32.0,,18,28,23,29.0,,NBA
-53,53,241229030,2004,"Wed, Dec 29",Charlotte Bobcats,Indiana Pacers,"7-18, 6-6 Home","14-13, 6-7 Away",71,74,,,Final,,15,19,19,18.0,,14,19,22,19.0,,NBA
-54,54,250104011,2004,"Tue, Jan 4",Indiana Pacers,Milwaukee Bucks,"16-13, 9-6 Home","9-19, 2-12 Away",116,99,,,Final,,27,28,28,33.0,,24,28,27,20.0,,NBA
-55,55,250108006,2004,"Sat, Jan 8",Dallas Mavericks,Indiana Pacers,"22-10, 12-6 Home","16-15, 7-9 Away",121,101,,,Final,,34,43,28,16.0,,22,33,31,15.0,,NBA
-56,56,250111029,2004,"Tue, Jan 11",Memphis Grizzlies,Indiana Pacers,"18-18, 11-8 Home","17-16, 8-10 Away",85,86,,,Final,,28,29,10,18.0,,22,26,13,25.0,,NBA
-57,57,250115011,2004,"Sat, Jan 15",Indiana Pacers,Orlando Magic,"18-17, 10-7 Home","20-16, 8-12 Away",84,85,,,Final,,22,20,15,27.0,,27,26,12,20.0,,NBA
-58,58,250119003,2004,"Wed, Jan 19",New Orleans Hornets,Indiana Pacers,"6-32, 4-12 Home","19-18, 9-11 Away",90,87,,,Final,,25,22,14,29.0,,24,24,13,26.0,,NBA
-59,59,250122011,2004,"Sat, Jan 22",Indiana Pacers,Washington Wizards,"20-19, 10-8 Home","24-15, 9-10 Away",93,95,,,Final,,21,23,23,26.0,,22,20,23,30.0,,NBA
-60,60,250127011,2004,"Thu, Jan 27",Indiana Pacers,Detroit Pistons,"20-21, 10-9 Home","25-18, 11-11 Away",76,88,,,Final,,20,20,17,19.0,,26,21,23,18.0,,NBA
-61,61,250131020,2004,"Mon, Jan 31",Philadelphia 76ers,Indiana Pacers,"21-23, 11-7 Home","20-23, 10-13 Away",89,88,,,Final,CSN,28,24,13,24.0,,24,21,23,20.0,,NBA
-62,62,250204011,2004,"Fri, Feb 4",Indiana Pacers,Dallas Mavericks,"21-24, 11-11 Home","30-15, 13-7 Away",95,94,,,Final,,32,27,19,17.0,,26,26,18,24.0,,NBA
-63,63,250207027,2004,"Mon, Feb 7",Washington Wizards,Indiana Pacers,"28-19, 18-7 Home","22-25, 11-14 Away",108,104,,,Final,,27,29,22,30.0,,34,19,29,22.0,,NBA
-64,64,250211011,2004,"Fri, Feb 11",Indiana Pacers,Houston Rockets,"23-26, 12-12 Home","30-21, 14-11 Away",83,91,,,Final,,28,18,24,13.0,,29,24,27,11.0,,NBA
-65,65,250216011,2004,"Wed, Feb 16",Indiana Pacers,Portland Trail Blazers,"25-26, 14-12 Home","21-30, 8-20 Away",95,87,,,Final,,19,24,28,24.0,,18,22,22,25.0,,NBA
-66,66,250223011,2004,"Wed, Feb 23",Indiana Pacers,Miami Heat,"27-26, 15-12 Home","40-16, 18-11 Away",93,91,,,Final/OT,,27,20,19,21.0,6.0,21,20,22,24.0,4.0,NBA
-67,67,250226018,2004,"Sat, Feb 26",New York Knicks,Indiana Pacers,"23-33, 16-12 Home","28-27, 12-15 Away",90,79,,,Final,,27,20,24,19.0,,24,13,23,19.0,,NBA
-68,68,250303007,2004,"Thu, Mar 3",Denver Nuggets,Indiana Pacers,"29-29, 18-9 Home","28-29, 12-16 Away",96,87,,,Final,,28,30,21,17.0,,25,18,18,26.0,,NBA
-69,69,250306013,2004,"Sun, Mar 6",Los Angeles Lakers,Indiana Pacers,"30-28, 21-11 Home","29-30, 13-17 Away",103,94,,,Final,,23,27,27,26.0,,19,18,28,29.0,,NBA
-70,70,250311011,2004,"Fri, Mar 11",Indiana Pacers,Golden State Warriors,"31-30, 17-13 Home","19-43, 8-25 Away",101,83,,,Final,,60,24,17,,,40,19,24,,,NBA
-71,71,250316011,2004,"Wed, Mar 16",Indiana Pacers,Utah Jazz,"32-31, 18-13 Home","20-44, 7-26 Away",103,84,,,Final,,23,21,31,28.0,,15,22,22,25.0,,NBA
-72,72,250320011,2004,"Sun, Mar 20",Indiana Pacers,New Jersey Nets,"33-32, 19-14 Home","31-36, 13-22 Away",85,94,,,Final,,14,20,25,26.0,,16,24,31,23.0,,NBA
-73,73,250323011,2004,"Wed, Mar 23",Indiana Pacers,San Antonio Spurs,"34-33, 20-14 Home","50-18, 19-15 Away",100,93,,,Final,,31,18,31,20.0,,25,19,23,26.0,,NBA
-74,74,250326004,2004,"Sat, Mar 26",Chicago Bulls,Indiana Pacers,"37-31, 21-13 Home","35-34, 15-20 Away",100,96,,,Final,,33,22,20,25.0,,23,22,23,28.0,,NBA
-75,75,250331011,2004,"Thu, Mar 31",Indiana Pacers,Miami Heat,"37-34, 21-14 Home","54-19, 22-14 Away",114,108,,,Final/OT,,23,23,30,18.0,20.0,29,18,28,19.0,14.0,NBA
-76,76,250405018,2004,"Tue, Apr 5",New York Knicks,Indiana Pacers,"29-44, 21-16 Home","39-34, 18-20 Away",79,97,,,Final,,28,22,16,13.0,,28,28,23,18.0,,NBA
-77,77,250408011,2004,"Fri, Apr 8",Indiana Pacers,Washington Wizards,"41-34, 23-14 Home","41-34, 16-23 Away",93,83,,,Final,,29,15,23,26.0,,21,23,15,24.0,,NBA
-78,78,250411028,2004,"Mon, Apr 11",Toronto Raptors,Indiana Pacers,"31-46, 22-16 Home","42-35, 19-20 Away",90,94,,,Final,,23,24,26,17.0,,18,29,22,25.0,,NBA
-79,79,250415011,2004,"Fri, Apr 15",Indiana Pacers,Philadelphia 76ers,"43-36, 24-16 Home","41-38, 18-22 Away",86,90,,,Final,CSN,26,21,22,17.0,,24,22,20,24.0,,NBA
-80,80,250418019,2004,"Mon, Apr 18",Orlando Magic,Indiana Pacers,"36-45, 24-16 Home","43-38, 19-22 Away",92,88,,,Final,,28,23,24,17.0,,24,20,27,17.0,,NBA
-81,81,250420011,2004,"Wed, Apr 20",Indiana Pacers,Chicago Bulls,"44-38, 25-16 Home","47-35, 20-21 Away",85,83,,,Final,,16,22,22,25.0,,28,20,16,19.0,,NBA
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+241105002,2004,"November 05, 2004",Boston Celtics,Indiana Pacers,"0-2, 0-2 Home","2-0, 2-0 Away",94,100,,,Final,,28,24,9,33.0,,26,25,11,38.0,,NBA
+241109016,2004,"November 09, 2004",Minnesota Timberwolves,Indiana Pacers,"2-2, 2-1 Home","4-0, 3-0 Away",101,102,,,Final,,26,19,23,33.0,,32,22,26,22.0,,NBA
+241112020,2004,"November 12, 2004",Philadelphia 76ers,Indiana Pacers,"3-3, 2-1 Home","4-2, 3-1 Away",106,104,,,Final/OT,CSN,23,26,19,32.0,6.0,30,27,21,22.0,4.0,NBA
+241117011,2004,"November 17, 2004",Indiana Pacers,Atlanta Hawks,"6-2, 3-1 Home","2-6, 1-4 Away",93,86,,,Final,,16,26,22,29.0,,31,18,13,24.0,,NBA
+241120011,2004,"November 20, 2004",Indiana Pacers,Orlando Magic,"7-3, 3-2 Home","6-3, 2-3 Away",83,86,,,Final,,20,24,21,18.0,,26,20,19,21.0,,NBA
+241125011,2004,"November 25, 2004",Indiana Pacers,Minnesota Timberwolves,"9-3, 5-2 Home","6-5, 3-3 Away",106,102,,,Final,,26,21,30,29.0,,26,19,22,35.0,,NBA
+241128025,2004,"November 28, 2004",Seattle SuperSonics,Indiana Pacers,"13-2, 7-0 Home","10-4, 4-2 Away",103,95,,,Final,,24,31,22,26.0,,21,25,22,27.0,,NBA
+241203023,2004,"December 03, 2004",Sacramento Kings,Indiana Pacers,"11-5, 7-1 Home","10-6, 4-4 Away",113,87,,,Final,,30,30,31,22.0,,22,25,20,20.0,,NBA
+241207011,2004,"December 07, 2004",Indiana Pacers,Milwaukee Bucks,"10-8, 6-3 Home","5-10, 1-7 Away",86,89,,,Final,,19,16,19,32.0,,21,20,20,28.0,,NBA
+241211011,2004,"December 11, 2004",Indiana Pacers,Sacramento Kings,"10-10, 6-4 Home","14-6, 5-5 Away",92,97,,,Final/OT,,19,27,19,20.0,7.0,25,15,22,23.0,12.0,NBA
+241217011,2004,"December 17, 2004",Indiana Pacers,Toronto Raptors,"12-10, 7-4 Home","8-17, 2-13 Away",89,86,,,Final,,14,31,27,17.0,,21,26,24,15.0,,NBA
+241222011,2004,"December 22, 2004",Indiana Pacers,Philadelphia 76ers,"12-12, 7-5 Home","11-14, 4-8 Away",90,102,,,Final,CSN,25,25,21,19.0,,20,22,24,36.0,,NBA
+241227011,2004,"December 27, 2004",Indiana Pacers,New Orleans Hornets,"13-13, 8-6 Home","2-25, 1-15 Away",100,82,,,Final,,27,28,9,36.0,,19,22,24,17.0,,NBA
+241230017,2004,"December 30, 2004",New Jersey Nets,Indiana Pacers,"10-18, 6-8 Home","15-13, 7-7 Away",83,96,,,Final,,17,17,29,20.0,,26,18,22,30.0,,NBA
+250106024,2004,"January 06, 2005",San Antonio Spurs,Indiana Pacers,"27-7, 16-1 Home","16-14, 7-8 Away",111,98,,,Final,,31,26,27,27.0,,24,27,27,20.0,,NBA
+250109021,2004,"January 09, 2005",Phoenix Suns,Indiana Pacers,"30-4, 15-2 Home","16-16, 7-10 Away",124,89,,,Final,,35,30,32,27.0,,17,25,17,30.0,,NBA
+250114011,2004,"January 14, 2005",Indiana Pacers,Phoenix Suns,"18-16, 10-6 Home","31-6, 15-4 Away",101,83,,,Final,,32,21,24,24.0,,23,25,15,20.0,,NBA
+250118010,2004,"January 18, 2005",Houston Rockets,Indiana Pacers,"20-19, 13-9 Home","19-17, 9-10 Away",74,87,,,Final,,13,25,21,15.0,,21,21,19,26.0,,NBA
+250121014,2004,"January 21, 2005",Miami Heat,Indiana Pacers,"29-12, 15-5 Home","20-18, 10-11 Away",100,106,,,Final/OT,,23,23,23,24.0,7.0,30,17,26,20.0,13.0,NBA
+250126002,2004,"January 26, 2005",Boston Celtics,Indiana Pacers,"20-22, 14-6 Home","20-20, 10-12 Away",100,86,,,Final,,26,23,28,23.0,,28,20,20,18.0,,NBA
+250129011,2004,"January 29, 2005",Indiana Pacers,Denver Nuggets,"20-22, 10-10 Home","19-25, 7-16 Away",88,95,,,Final,,19,28,26,15.0,,25,30,24,16.0,,NBA
+250202011,2004,"February 02, 2005",Indiana Pacers,Toronto Raptors,"20-24, 10-11 Home","19-27, 4-20 Away",97,98,,,Final,,32,21,18,26.0,,18,18,30,32.0,,NBA
+250205001,2004,"February 05, 2005",Atlanta Hawks,Indiana Pacers,"9-37, 7-18 Home","22-24, 11-13 Away",79,84,,,Final,,18,23,20,18.0,,19,22,20,23.0,,NBA
+250209011,2004,"February 09, 2005",Indiana Pacers,Charlotte Bobcats,"23-25, 12-11 Home","10-36, 2-22 Away",94,87,,,Final,,26,28,18,22.0,,17,19,26,25.0,,NBA
+250213011,2004,"February 13, 2005",Indiana Pacers,Memphis Grizzlies,"24-26, 13-12 Home","30-22, 12-13 Away",76,73,,,Final,,21,23,20,12.0,,16,23,13,21.0,,NBA
+250222019,2004,"February 22, 2005",Orlando Magic,Indiana Pacers,"28-25, 19-7 Home","26-26, 12-14 Away",84,108,,,Final,,18,18,21,27.0,,20,32,29,27.0,,NBA
+250225011,2004,"February 25, 2005",Indiana Pacers,Cleveland Cavaliers,"28-26, 16-12 Home","31-22, 10-17 Away",106,82,,,Final,,27,31,20,28.0,,27,14,20,21.0,,NBA
+250301011,2004,"March 01, 2005",Indiana Pacers,Seattle SuperSonics,"28-28, 16-13 Home","39-16, 19-8 Away",93,101,,,Final,,20,28,25,20.0,,32,21,19,29.0,,NBA
+250304022,2004,"March 04, 2005",Portland Trail Blazers,Indiana Pacers,"22-34, 14-14 Home","29-29, 13-16 Away",97,106,,,Final,,24,30,24,19.0,,24,24,28,30.0,,NBA
+250308026,2004,"March 08, 2005",Utah Jazz,Indiana Pacers,"20-40, 13-17 Home","30-30, 14-17 Away",83,89,,,Final,,16,26,22,19.0,,33,22,14,20.0,,NBA
+250313005,2004,"March 13, 2005",Cleveland Cavaliers,Indiana Pacers,"33-27, 23-8 Home","31-31, 14-18 Away",98,86,,,Final,,20,30,26,22.0,,26,27,18,15.0,,NBA
+250318011,2004,"March 18, 2005",Indiana Pacers,Los Angeles Lakers,"33-31, 19-13 Home","32-33, 11-21 Away",103,97,,,Final,,30,20,28,25.0,,22,24,23,28.0,,NBA
+250322017,2004,"March 22, 2005",New Jersey Nets,Indiana Pacers,"32-36, 19-14 Home","33-33, 14-19 Away",98,91,,,Final,,26,19,23,30.0,,34,19,17,21.0,,NBA
+250325008,2004,"March 25, 2005",Detroit Pistons,Indiana Pacers,"42-26, 25-8 Home","35-33, 15-19 Away",81,94,,,Final,,20,17,24,20.0,,19,24,25,26.0,,NBA
+250328015,2004,"March 28, 2005",Milwaukee Bucks,Indiana Pacers,"27-43, 20-14 Home","36-34, 16-20 Away",76,90,,,Final,,19,15,16,26.0,,27,18,29,16.0,,NBA
+250403027,2004,"April 03, 2005",Washington Wizards,Indiana Pacers,"41-31, 25-10 Home","38-34, 17-20 Away",76,79,,,Final,,11,18,30,17.0,,16,13,24,26.0,,NBA
+250406011,2004,"April 06, 2005",Indiana Pacers,Cleveland Cavaliers,"40-34, 22-14 Home","38-36, 11-25 Away",98,77,,,Final,,26,23,28,21.0,,22,10,25,20.0,,NBA
+250410011,2004,"April 10, 2005",Indiana Pacers,New York Knicks,"41-35, 23-15 Home","30-46, 9-29 Away",112,113,,,Final/OT,,23,25,26,30.0,8.0,31,20,30,23.0,9.0,NBA
+250413011,2004,"April 13, 2005",Indiana Pacers,New Jersey Nets,"43-35, 24-15 Home","38-40, 16-23 Away",90,86,,,Final,,18,20,31,21.0,,30,19,18,19.0,,NBA
+250417014,2004,"April 17, 2005",Miami Heat,Indiana Pacers,"57-23, 34-6 Home","43-37, 19-21 Away",84,80,,,Final,,24,23,17,20.0,,15,22,25,18.0,,NBA
+241103005,2004,"November 03, 2004",Cleveland Cavaliers,Indiana Pacers,"0-1, 0-1 Home","1-0, 1-0 Away",104,109,,,Final/2OT,,21,19,27,18.0,19.0,26,20,17,22.0,24.0,NBA
+241106011,2004,"November 06, 2004",Indiana Pacers,Chicago Bulls,"3-0, 1-0 Home","0-2, 0-1 Away",100,90,,,Final,,27,27,28,18.0,,24,25,18,23.0,,NBA
+241110011,2004,"November 10, 2004",Indiana Pacers,LA Clippers,"4-1, 1-1 Home","3-2, 2-1 Away",68,102,,,Final,,20,7,23,18.0,,24,31,26,21.0,,NBA
+241113011,2004,"November 13, 2004",Indiana Pacers,New York Knicks,"5-2, 2-1 Home","2-3, 0-2 Away",103,97,,,Final,,37,26,20,20.0,,32,17,18,30.0,,NBA
+241119008,2004,"November 19, 2004",Detroit Pistons,Indiana Pacers,"4-4, 3-1 Home","7-2, 4-1 Away",82,97,,,Final,,27,16,23,16.0,,34,25,21,17.0,,NBA
+241123011,2004,"November 23, 2004",Indiana Pacers,Boston Celtics,"8-3, 4-2 Home","4-5, 1-2 Away",106,96,,,Final,,23,27,22,34.0,,28,19,25,24.0,,NBA
+241126011,2004,"November 26, 2004",Indiana Pacers,Charlotte Bobcats,"10-3, 6-2 Home","2-9, 0-5 Away",82,77,,,Final,,14,24,19,25.0,,27,16,18,16.0,,NBA
+241201012,2004,"December 01, 2004",LA Clippers,Indiana Pacers,"10-6, 6-3 Home","10-5, 4-3 Away",88,76,,,Final,,24,16,24,24.0,,21,17,20,18.0,,NBA
+241204009,2004,"December 04, 2004",Golden State Warriors,Indiana Pacers,"4-12, 3-6 Home","10-7, 4-5 Away",104,96,,,Final,,28,28,21,27.0,,29,18,23,26.0,,NBA
+241210015,2004,"December 10, 2004",Milwaukee Bucks,Indiana Pacers,"6-11, 5-4 Home","10-9, 4-6 Away",95,86,,,Final,,21,21,34,19.0,,28,20,16,22.0,,NBA
+241214001,2004,"December 14, 2004",Atlanta Hawks,Indiana Pacers,"4-17, 2-10 Home","11-10, 5-6 Away",97,108,,,Final/OT,,22,27,28,14.0,6.0,27,16,24,24.0,17.0,NBA
+241218004,2004,"December 18, 2004",Chicago Bulls,Indiana Pacers,"7-15, 5-7 Home","12-11, 5-7 Away",85,71,,,Final,,29,19,22,15.0,,21,21,20,9.0,,NBA
+241225011,2004,"December 25, 2004",Indiana Pacers,Detroit Pistons,"12-13, 7-6 Home","13-12, 6-8 Away",93,98,,,Final,,21,24,16,32.0,,18,28,23,29.0,,NBA
+241229030,2004,"December 29, 2004",Charlotte Bobcats,Indiana Pacers,"7-18, 6-6 Home","14-13, 6-7 Away",71,74,,,Final,,15,19,19,18.0,,14,19,22,19.0,,NBA
+250104011,2004,"January 04, 2005",Indiana Pacers,Milwaukee Bucks,"16-13, 9-6 Home","9-19, 2-12 Away",116,99,,,Final,,27,28,28,33.0,,24,28,27,20.0,,NBA
+250108006,2004,"January 08, 2005",Dallas Mavericks,Indiana Pacers,"22-10, 12-6 Home","16-15, 7-9 Away",121,101,,,Final,,34,43,28,16.0,,22,33,31,15.0,,NBA
+250111029,2004,"January 11, 2005",Memphis Grizzlies,Indiana Pacers,"18-18, 11-8 Home","17-16, 8-10 Away",85,86,,,Final,,28,29,10,18.0,,22,26,13,25.0,,NBA
+250115011,2004,"January 15, 2005",Indiana Pacers,Orlando Magic,"18-17, 10-7 Home","20-16, 8-12 Away",84,85,,,Final,,22,20,15,27.0,,27,26,12,20.0,,NBA
+250119003,2004,"January 19, 2005",New Orleans Hornets,Indiana Pacers,"6-32, 4-12 Home","19-18, 9-11 Away",90,87,,,Final,,25,22,14,29.0,,24,24,13,26.0,,NBA
+250122011,2004,"January 22, 2005",Indiana Pacers,Washington Wizards,"20-19, 10-8 Home","24-15, 9-10 Away",93,95,,,Final,,21,23,23,26.0,,22,20,23,30.0,,NBA
+250127011,2004,"January 27, 2005",Indiana Pacers,Detroit Pistons,"20-21, 10-9 Home","25-18, 11-11 Away",76,88,,,Final,,20,20,17,19.0,,26,21,23,18.0,,NBA
+250131020,2004,"January 31, 2005",Philadelphia 76ers,Indiana Pacers,"21-23, 11-7 Home","20-23, 10-13 Away",89,88,,,Final,CSN,28,24,13,24.0,,24,21,23,20.0,,NBA
+250204011,2004,"February 04, 2005",Indiana Pacers,Dallas Mavericks,"21-24, 11-11 Home","30-15, 13-7 Away",95,94,,,Final,,32,27,19,17.0,,26,26,18,24.0,,NBA
+250207027,2004,"February 07, 2005",Washington Wizards,Indiana Pacers,"28-19, 18-7 Home","22-25, 11-14 Away",108,104,,,Final,,27,29,22,30.0,,34,19,29,22.0,,NBA
+250211011,2004,"February 11, 2005",Indiana Pacers,Houston Rockets,"23-26, 12-12 Home","30-21, 14-11 Away",83,91,,,Final,,28,18,24,13.0,,29,24,27,11.0,,NBA
+250216011,2004,"February 16, 2005",Indiana Pacers,Portland Trail Blazers,"25-26, 14-12 Home","21-30, 8-20 Away",95,87,,,Final,,19,24,28,24.0,,18,22,22,25.0,,NBA
+250223011,2004,"February 23, 2005",Indiana Pacers,Miami Heat,"27-26, 15-12 Home","40-16, 18-11 Away",93,91,,,Final/OT,,27,20,19,21.0,6.0,21,20,22,24.0,4.0,NBA
+250226018,2004,"February 26, 2005",New York Knicks,Indiana Pacers,"23-33, 16-12 Home","28-27, 12-15 Away",90,79,,,Final,,27,20,24,19.0,,24,13,23,19.0,,NBA
+250303007,2004,"March 03, 2005",Denver Nuggets,Indiana Pacers,"29-29, 18-9 Home","28-29, 12-16 Away",96,87,,,Final,,28,30,21,17.0,,25,18,18,26.0,,NBA
+250306013,2004,"March 06, 2005",Los Angeles Lakers,Indiana Pacers,"30-28, 21-11 Home","29-30, 13-17 Away",103,94,,,Final,,23,27,27,26.0,,19,18,28,29.0,,NBA
+250311011,2004,"March 11, 2005",Indiana Pacers,Golden State Warriors,"31-30, 17-13 Home","19-43, 8-25 Away",101,83,,,Final,,60,24,17,,,40,19,24,,,NBA
+250316011,2004,"March 16, 2005",Indiana Pacers,Utah Jazz,"32-31, 18-13 Home","20-44, 7-26 Away",103,84,,,Final,,23,21,31,28.0,,15,22,22,25.0,,NBA
+250320011,2004,"March 20, 2005",Indiana Pacers,New Jersey Nets,"33-32, 19-14 Home","31-36, 13-22 Away",85,94,,,Final,,14,20,25,26.0,,16,24,31,23.0,,NBA
+250323011,2004,"March 23, 2005",Indiana Pacers,San Antonio Spurs,"34-33, 20-14 Home","50-18, 19-15 Away",100,93,,,Final,,31,18,31,20.0,,25,19,23,26.0,,NBA
+250326004,2004,"March 26, 2005",Chicago Bulls,Indiana Pacers,"37-31, 21-13 Home","35-34, 15-20 Away",100,96,,,Final,,33,22,20,25.0,,23,22,23,28.0,,NBA
+250331011,2004,"March 31, 2005",Indiana Pacers,Miami Heat,"37-34, 21-14 Home","54-19, 22-14 Away",114,108,,,Final/OT,,23,23,30,18.0,20.0,29,18,28,19.0,14.0,NBA
+250405018,2004,"April 05, 2005",New York Knicks,Indiana Pacers,"29-44, 21-16 Home","39-34, 18-20 Away",79,97,,,Final,,28,22,16,13.0,,28,28,23,18.0,,NBA
+250408011,2004,"April 08, 2005",Indiana Pacers,Washington Wizards,"41-34, 23-14 Home","41-34, 16-23 Away",93,83,,,Final,,29,15,23,26.0,,21,23,15,24.0,,NBA
+250411028,2004,"April 11, 2005",Toronto Raptors,Indiana Pacers,"31-46, 22-16 Home","42-35, 19-20 Away",90,94,,,Final,,23,24,26,17.0,,18,29,22,25.0,,NBA
+250415011,2004,"April 15, 2005",Indiana Pacers,Philadelphia 76ers,"43-36, 24-16 Home","41-38, 18-22 Away",86,90,,,Final,CSN,26,21,22,17.0,,24,22,20,24.0,,NBA
+250418019,2004,"April 18, 2005",Orlando Magic,Indiana Pacers,"36-45, 24-16 Home","43-38, 19-22 Away",92,88,,,Final,,28,23,24,17.0,,24,20,27,17.0,,NBA
+250420011,2004,"April 20, 2005",Indiana Pacers,Chicago Bulls,"44-38, 25-16 Home","47-35, 20-21 Away",85,83,,,Final,,16,22,22,25.0,,28,20,16,19.0,,NBA

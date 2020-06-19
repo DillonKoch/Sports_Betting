@@ -1,83 +1,83 @@
-,Unnamed: 0,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-0,0,271102011,2007,"Fri, Nov 2",Indiana Pacers,Miami Heat,"2-0, 2-0 Home","0-2, 0-1 Away",87,85,,,Final,,24,24,20,19,,22,25,18,20,,NBA
-1,1,271107024,2007,"Wed, Nov 7",San Antonio Spurs,Miami Heat,"4-1, 3-0 Home","0-4, 0-2 Away",88,78,,,Final,ESPN,23,16,26,23,,21,17,20,20,,NBA
-2,2,271111018,2007,"Sun, Nov 11",New York Knicks,Miami Heat,"2-3, 2-2 Home","1-5, 1-2 Away",72,75,,,Final,,20,19,19,14,,25,12,15,23,,NBA
-3,3,271114014,2007,"Wed, Nov 14",Miami Heat,Seattle SuperSonics,"1-7, 0-4 Home","1-8, 1-4 Away",95,104,,,Final,,25,16,27,27,,30,31,19,24,,NBA
-4,4,271117017,2007,"Sat, Nov 17",New Jersey Nets,Miami Heat,"4-6, 3-5 Home","2-8, 2-4 Away",87,91,,,Final,YES,23,12,26,26,,18,27,18,28,,NBA
-5,5,271123014,2007,"Fri, Nov 23",Miami Heat,Houston Rockets,"3-9, 1-5 Home","6-7, 3-4 Away",98,91,,,Final,ESPN,26,24,24,24,,24,25,18,24,,NBA
-6,6,271127014,2007,"Tue, Nov 27",Miami Heat,Charlotte Bobcats,"4-10, 2-5 Home","6-8, 1-4 Away",110,90,,,Final,,23,32,31,24,,15,28,19,28,,NBA
-7,7,271202007,2007,"Sun, Dec 2",Denver Nuggets,Miami Heat,"11-7, 8-2 Home","4-12, 2-6 Away",115,89,,,Final,NBATV,37,22,33,23,,17,25,22,25,,NBA
-8,8,271206022,2007,"Thu, Dec 6",Portland Trail Blazers,Miami Heat,"7-12, 6-3 Home","4-14, 2-8 Away",112,106,,,Final,TNT,30,26,21,35,,25,17,31,33,,NBA
-9,9,271209012,2007,"Sun, Dec 9",LA Clippers,Miami Heat,"7-12, 4-7 Home","5-15, 3-9 Away",94,100,,,Final,,26,25,20,23,,30,21,26,23,,NBA
-10,10,271213014,2007,"Thu, Dec 13",Miami Heat,Washington Wizards,"6-16, 2-7 Home","12-10, 5-6 Away",91,104,,,Final,TNT,16,33,21,21,,28,31,23,22,,NBA
-11,11,271217014,2007,"Mon, Dec 17",Miami Heat,Minnesota Timberwolves,"7-17, 3-8 Home","3-20, 1-11 Away",91,87,,,Final,,27,14,19,31,,24,23,17,23,,NBA
-12,12,271220014,2007,"Thu, Dec 20",Miami Heat,New Jersey Nets,"7-19, 3-9 Home","11-15, 6-5 Away",103,107,,,Final/OT,YES,21,23,26,24,9.0,21,20,25,28,13.0,NBA
-13,13,271225005,2007,"Tue, Dec 25",Cleveland Cavaliers,Miami Heat,"13-16, 8-6 Home","8-20, 4-11 Away",96,82,,,Final,ABC,25,18,24,29,,17,30,14,21,,NBA
-14,14,271228014,2007,"Fri, Dec 28",Miami Heat,Orlando Magic,"8-22, 4-10 Home","20-11, 14-5 Away",114,121,,,Final/OT,,26,28,21,32,7.0,28,22,28,29,14.0,NBA
-15,15,280102014,2007,"Wed, Jan 2",Miami Heat,Milwaukee Bucks,"8-24, 4-11 Home","12-19, 3-15 Away",98,103,,,Final,,26,21,20,31,,22,23,26,32,,NBA
-16,16,280106029,2007,"Sun, Jan 6",Memphis Grizzlies,Miami Heat,"10-23, 6-11 Home","8-26, 4-15 Away",101,94,,,Final,,28,15,27,31,,22,24,20,28,,NBA
-17,17,280109015,2007,"Wed, Jan 9",Milwaukee Bucks,Miami Heat,"15-20, 10-5 Home","8-28, 4-17 Away",98,92,,,Final,,25,30,13,30,,23,27,16,26,,NBA
-18,18,280116014,2007,"Wed, Jan 16",Miami Heat,Chicago Bulls,"8-30, 4-12 Home","15-22, 8-12 Away",96,126,,,Final,ESPN2,23,30,26,17,,34,24,35,33,,NBA
-19,19,280119014,2007,"Sat, Jan 19",Miami Heat,New York Knicks,"8-32, 4-14 Home","13-27, 4-14 Away",84,88,,,Final,,30,18,21,15,,21,22,22,23,,NBA
-20,20,280124014,2007,"Thu, Jan 24",Miami Heat,San Antonio Spurs,"8-34, 4-16 Home","28-13, 8-9 Away",89,90,,,Final,TNT,28,18,26,17,,24,21,20,25,,NBA
-21,21,280129014,2007,"Tue, Jan 29",Miami Heat,Boston Celtics,"9-35, 5-17 Home","35-8, 16-4 Away",87,117,,,Final,NBATV,14,28,19,26,,31,33,30,23,,NBA
-22,22,280201014,2007,"Fri, Feb 1",Miami Heat,New Jersey Nets,"9-37, 5-18 Home","20-26, 10-12 Away",85,94,,,Final,,21,10,29,25,,23,20,27,24,,NBA
-23,23,280206008,2007,"Wed, Feb 6",Detroit Pistons,Miami Heat,"35-13, 18-4 Home","9-39, 4-20 Away",100,95,,,Final,,18,30,27,25,,22,26,16,31,,NBA
-24,24,280210014,2007,"Sun, Feb 10",Miami Heat,Los Angeles Lakers,"9-41, 5-20 Home","33-17, 16-10 Away",94,104,,,Final,ABC,24,23,26,21,,25,26,31,22,,NBA
-25,25,280214004,2007,"Thu, Feb 14",Chicago Bulls,Miami Heat,"21-31, 11-14 Home","9-43, 4-22 Away",99,92,,,Final,TNT,28,20,22,29,,28,15,20,29,,NBA
-26,26,280223014,2007,"Sat, Feb 23",Miami Heat,Philadelphia 76ers,"9-45, 5-22 Home","25-32, 10-18 Away",96,101,,,Final/OT,,19,30,24,18,5.0,24,27,22,18,10.0,NBA
-27,27,280228013,2007,"Thu, Feb 28",Los Angeles Lakers,Miami Heat,"41-17, 20-7 Home","10-46, 4-24 Away",106,88,,,Final,TNT,26,27,20,33,,19,22,17,30,,NBA
-28,28,280302023,2007,"Sun, Mar 2",Sacramento Kings,Miami Heat,"27-32, 18-10 Home","11-47, 5-25 Away",120,109,,,Final,,27,22,41,30,,34,35,20,20,,NBA
-29,29,280307014,2007,"Fri, Mar 7",Miami Heat,Golden State Warriors,"11-49, 6-24 Home","38-23, 17-13 Away",99,134,,,Final,,31,20,22,26,,32,31,37,34,,NBA
-30,30,280310014,2007,"Mon, Mar 10",Miami Heat,LA Clippers,"11-51, 6-25 Home","21-41, 9-19 Away",98,99,,,Final,,23,24,33,18,,29,29,15,26,,NBA
-31,31,280314014,2007,"Fri, Mar 14",Miami Heat,Orlando Magic,"11-53, 6-27 Home","43-24, 23-12 Away",94,103,,,Final,,25,26,23,20,,25,25,27,26,,NBA
-32,32,280318015,2007,"Tue, Mar 18",Milwaukee Bucks,Miami Heat,"23-44, 17-17 Home","12-54, 6-26 Away",106,112,,,Final,,26,24,27,29,,24,20,28,40,,NBA
-33,33,280321014,2007,"Fri, Mar 21",Miami Heat,Washington Wizards,"12-56, 6-29 Home","35-33, 15-18 Away",86,103,,,Final,,20,19,23,24,,26,26,35,16,,NBA
-34,34,280324014,2007,"Mon, Mar 24",Miami Heat,Milwaukee Bucks,"13-57, 7-29 Home","24-45, 6-28 Away",78,73,,,Final,,17,15,22,24,,25,12,13,23,,NBA
-35,35,280327008,2007,"Thu, Mar 27",Detroit Pistons,Miami Heat,"51-21, 29-6 Home","13-59, 6-30 Away",85,69,,,Final,,18,25,23,19,,23,22,10,14,,NBA
-36,36,280331011,2007,"Mon, Mar 31",Indiana Pacers,Miami Heat,"31-43, 18-19 Home","13-61, 6-32 Away",105,85,,,Final,,27,24,27,27,,25,18,22,20,,NBA
-37,37,280404027,2007,"Fri, Apr 4",Washington Wizards,Miami Heat,"39-37, 22-16 Home","13-63, 6-33 Away",109,95,,,Final,,29,31,28,21,,23,21,28,23,,NBA
-38,38,280408014,2007,"Tue, Apr 8",Miami Heat,Chicago Bulls,"14-64, 8-31 Home","30-47, 12-27 Away",95,88,,,Final,,18,25,26,26,,21,28,18,21,,NBA
-39,39,280413005,2007,"Sun, Apr 13",Cleveland Cavaliers,Miami Heat,"44-36, 27-13 Home","14-66, 6-34 Away",84,76,,,Final,,19,21,17,27,,21,17,21,17,,NBA
-40,40,271101014,2007,"Thu, Nov 1",Miami Heat,Detroit Pistons,"0-1, 0-1 Home","1-0, 1-0 Away",80,91,,,Final,TNT,22,20,20,18,,26,22,18,25,,NBA
-41,41,271104014,2007,"Sun, Nov 4",Miami Heat,Charlotte Bobcats,"0-3, 0-2 Home","2-0, 1-0 Away",88,90,,,Final,,27,21,15,25,,27,28,20,15,,NBA
-42,42,271109014,2007,"Fri, Nov 9",Miami Heat,Phoenix Suns,"0-5, 0-3 Home","4-2, 3-1 Away",101,106,,,Final,,37,23,24,17,,29,26,24,27,,NBA
-43,43,271113030,2007,"Tue, Nov 13",Charlotte Bobcats,Miami Heat,"4-3, 3-2 Home","1-6, 1-3 Away",91,76,,,Final,,17,23,31,20,,12,23,12,29,,NBA
-44,44,271116002,2007,"Fri, Nov 16",Boston Celtics,Miami Heat,"8-0, 5-0 Home","1-8, 1-4 Away",92,91,,,Final,,24,28,24,16,,24,22,19,26,,NBA
-45,45,271121014,2007,"Wed, Nov 21",Miami Heat,Atlanta Hawks,"2-9, 0-5 Home","4-7, 1-4 Away",79,82,,,Final,,24,19,23,13,,21,16,19,26,,NBA
-46,46,271124019,2007,"Sat, Nov 24",Orlando Magic,Miami Heat,"12-3, 5-2 Home","3-10, 2-5 Away",120,99,,,Final,,34,25,32,29,,28,21,27,23,,NBA
-47,47,271130014,2007,"Fri, Nov 30",Miami Heat,Boston Celtics,"4-11, 2-6 Home","13-2, 5-2 Away",85,95,,,Final,ESPN,25,16,20,24,,31,28,24,12,,NBA
-48,48,271203026,2007,"Mon, Dec 3",Utah Jazz,Miami Heat,"13-5, 8-1 Home","4-13, 2-7 Away",110,101,,,Final,,31,21,22,36,,32,21,18,30,,NBA
-49,49,271207009,2007,"Fri, Dec 7",Golden State Warriors,Miami Heat,"11-8, 5-5 Home","4-15, 2-9 Away",120,113,,,Final,TNT,30,26,26,38,,39,27,25,22,,NBA
-50,50,271210021,2007,"Mon, Dec 10",Phoenix Suns,Miami Heat,"16-6, 6-3 Home","6-15, 4-9 Away",113,117,,,Final,NBATV,29,34,17,33,,40,27,22,28,,NBA
-51,51,271215014,2007,"Sat, Dec 15",Miami Heat,Indiana Pacers,"6-17, 2-8 Home","12-12, 7-5 Away",103,106,,,Final,,27,28,24,24,,25,27,26,28,,NBA
-52,52,271219001,2007,"Wed, Dec 19",Atlanta Hawks,Miami Heat,"13-12, 9-6 Home","7-18, 4-10 Away",114,111,,,Final/OT,,25,26,31,22,10.0,22,25,30,27,7.0,NBA
-53,53,271222014,2007,"Sat, Dec 22",Miami Heat,Utah Jazz,"8-19, 4-9 Home","15-14, 6-12 Away",104,102,,,Final,,21,29,24,30,,23,19,21,39,,NBA
-54,54,271226020,2007,"Wed, Dec 26",Philadelphia 76ers,Miami Heat,"12-16, 7-9 Home","8-21, 4-12 Away",96,85,,,Final,NBATV,25,30,19,22,,17,21,26,21,,NBA
-55,55,271229027,2007,"Sat, Dec 29",Washington Wizards,Miami Heat,"15-14, 9-6 Home","8-23, 4-13 Away",96,74,,,Final,NBATV,26,32,24,14,,18,21,16,19,,NBA
-56,56,280104006,2007,"Fri, Jan 4",Dallas Mavericks,Miami Heat,"22-11, 16-3 Home","8-25, 4-14 Away",94,89,,,Final,ESPN,24,24,23,23,,24,32,18,15,,NBA
-57,57,280108016,2007,"Tue, Jan 8",Minnesota Timberwolves,Miami Heat,"5-29, 4-13 Home","8-27, 4-16 Away",101,91,,,Final,,29,30,23,19,,18,29,24,20,,NBA
-58,58,280111003,2007,"Fri, Jan 11",New Orleans Hornets,Miami Heat,"24-12, 10-7 Home","8-29, 4-18 Away",114,88,,,Final,ESPN,32,23,31,28,,24,17,25,22,,NBA
-59,59,280118014,2007,"Fri, Jan 18",Miami Heat,Portland Trail Blazers,"8-31, 4-13 Home","24-15, 7-12 Away",91,98,,,Final,ESPN,16,25,35,15,,22,28,19,29,,NBA
-60,60,280121014,2007,"Mon, Jan 21",Miami Heat,Cleveland Cavaliers,"8-33, 4-15 Home","22-18, 10-12 Away",90,97,,,Final,TNT,28,24,18,20,,27,22,23,25,,NBA
-61,61,280126014,2007,"Sat, Jan 26",Miami Heat,Indiana Pacers,"9-34, 5-16 Home","19-26, 10-16 Away",98,96,,,Final,,23,25,29,21,,28,29,20,19,,NBA
-62,62,280130019,2007,"Wed, Jan 30",Orlando Magic,Miami Heat,"29-18, 12-8 Home","9-36, 4-19 Away",107,91,,,Final,,30,33,20,24,,25,27,24,15,,NBA
-63,63,280204014,2007,"Mon, Feb 4",Miami Heat,Toronto Raptors,"9-38, 5-19 Home","26-21, 12-12 Away",82,114,,,Final,,12,29,21,20,,33,26,30,25,,NBA
-64,64,280207020,2007,"Thu, Feb 7",Philadelphia 76ers,Miami Heat,"20-30, 11-14 Home","9-40, 4-21 Away",101,84,,,Final,,30,24,21,26,,24,26,22,12,,NBA
-65,65,280212014,2007,"Tue, Feb 12",Miami Heat,Denver Nuggets,"9-42, 5-21 Home","32-19, 11-13 Away",113,114,,,Final/OT,,32,31,15,24,11.0,23,34,27,18,12.0,NBA
-66,66,280221010,2007,"Thu, Feb 21",Houston Rockets,Miami Heat,"34-20, 17-9 Home","9-44, 4-23 Away",112,100,,,Final,TNT,41,21,25,25,,26,22,27,25,,NBA
-67,67,280226014,2007,"Tue, Feb 26",Miami Heat,Sacramento Kings,"10-45, 6-22 Home","26-30, 9-20 Away",107,86,,,Final,,30,28,31,18,,32,20,11,23,,NBA
-68,68,280229025,2007,"Fri, Feb 29",Seattle SuperSonics,Miami Heat,"15-43, 10-21 Home","11-46, 5-24 Away",93,103,,,Final,,26,21,29,17,,25,19,33,26,,NBA
-69,69,280305014,2007,"Wed, Mar 5",Miami Heat,Toronto Raptors,"11-48, 6-23 Home","33-27, 15-15 Away",83,108,,,Final,,17,25,16,25,,29,24,27,28,,NBA
-70,70,280308001,2007,"Sat, Mar 8",Atlanta Hawks,Miami Heat,"26-36, 19-12 Home","11-50, 5-26 Away",97,94,,,Final,,26,30,21,20,,33,26,11,24,,NBA
-71,71,280312014,2007,"Wed, Mar 12",Miami Heat,New York Knicks,"11-52, 6-26 Home","19-46, 7-25 Away",88,91,,,Final,,24,21,20,23,,24,20,28,19,,NBA
-72,72,280316014,2007,"Sun, Mar 16",Miami Heat,Dallas Mavericks,"11-54, 6-28 Home","44-23, 15-19 Away",73,98,,,Final,,12,18,23,20,,35,17,32,14,,NBA
-73,73,280319028,2007,"Wed, Mar 19",Toronto Raptors,Miami Heat,"35-33, 20-13 Home","12-55, 6-27 Away",96,54,,,Final,,29,29,20,18,,16,10,19,9,,NBA
-74,74,280322030,2007,"Sat, Mar 22",Charlotte Bobcats,Miami Heat,"25-44, 19-17 Home","12-57, 6-28 Away",94,82,,,Final,,16,30,27,21,,17,22,25,18,,NBA
-75,75,280326018,2007,"Wed, Mar 26",New York Knicks,Miami Heat,"20-51, 13-24 Home","13-58, 6-29 Away",103,96,,,Final/OT,,26,22,15,29,11.0,20,20,25,27,4.0,NBA
-76,76,280330002,2007,"Sun, Mar 30",Boston Celtics,Miami Heat,"58-15, 32-6 Home","13-60, 6-31 Away",88,62,,,Final,,32,18,18,20,,13,17,18,14,,NBA
-77,77,280402014,2007,"Wed, Apr 2",Miami Heat,New Orleans Hornets,"13-62, 7-30 Home","52-22, 25-12 Away",77,106,,,Final,,14,27,25,11,,26,28,20,32,,NBA
-78,78,280406014,2007,"Sun, Apr 6",Miami Heat,Detroit Pistons,"13-64, 7-31 Home","55-21, 24-15 Away",75,91,,,Final,,16,11,27,21,,19,20,29,23,,NBA
-79,79,280411014,2007,"Fri, Apr 11",Miami Heat,Memphis Grizzlies,"14-65, 8-32 Home","22-57, 8-31 Away",91,96,,,Final,,23,20,26,22,,31,27,16,22,,NBA
-80,80,280414028,2007,"Mon, Apr 14",Toronto Raptors,Miami Heat,"41-40, 25-16 Home","14-67, 6-35 Away",91,75,,,Final,,25,18,27,21,,28,19,17,11,,NBA
-81,81,280416014,2007,"Wed, Apr 16",Miami Heat,Atlanta Hawks,"15-67, 9-32 Home","37-45, 12-29 Away",113,99,,,Final,,24,31,34,24,,30,31,22,16,,NBA
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+271102011,2007,"November 02, 2007",Indiana Pacers,Miami Heat,"2-0, 2-0 Home","0-2, 0-1 Away",87,85,,,Final,,24,24,20,19,,22,25,18,20,,NBA
+271107024,2007,"November 07, 2007",San Antonio Spurs,Miami Heat,"4-1, 3-0 Home","0-4, 0-2 Away",88,78,,,Final,ESPN,23,16,26,23,,21,17,20,20,,NBA
+271111018,2007,"November 11, 2007",New York Knicks,Miami Heat,"2-3, 2-2 Home","1-5, 1-2 Away",72,75,,,Final,,20,19,19,14,,25,12,15,23,,NBA
+271114014,2007,"November 14, 2007",Miami Heat,Seattle SuperSonics,"1-7, 0-4 Home","1-8, 1-4 Away",95,104,,,Final,,25,16,27,27,,30,31,19,24,,NBA
+271117017,2007,"November 17, 2007",New Jersey Nets,Miami Heat,"4-6, 3-5 Home","2-8, 2-4 Away",87,91,,,Final,YES,23,12,26,26,,18,27,18,28,,NBA
+271123014,2007,"November 23, 2007",Miami Heat,Houston Rockets,"3-9, 1-5 Home","6-7, 3-4 Away",98,91,,,Final,ESPN,26,24,24,24,,24,25,18,24,,NBA
+271127014,2007,"November 27, 2007",Miami Heat,Charlotte Bobcats,"4-10, 2-5 Home","6-8, 1-4 Away",110,90,,,Final,,23,32,31,24,,15,28,19,28,,NBA
+271202007,2007,"December 02, 2007",Denver Nuggets,Miami Heat,"11-7, 8-2 Home","4-12, 2-6 Away",115,89,,,Final,NBATV,37,22,33,23,,17,25,22,25,,NBA
+271206022,2007,"December 06, 2007",Portland Trail Blazers,Miami Heat,"7-12, 6-3 Home","4-14, 2-8 Away",112,106,,,Final,TNT,30,26,21,35,,25,17,31,33,,NBA
+271209012,2007,"December 09, 2007",LA Clippers,Miami Heat,"7-12, 4-7 Home","5-15, 3-9 Away",94,100,,,Final,,26,25,20,23,,30,21,26,23,,NBA
+271213014,2007,"December 13, 2007",Miami Heat,Washington Wizards,"6-16, 2-7 Home","12-10, 5-6 Away",91,104,,,Final,TNT,16,33,21,21,,28,31,23,22,,NBA
+271217014,2007,"December 17, 2007",Miami Heat,Minnesota Timberwolves,"7-17, 3-8 Home","3-20, 1-11 Away",91,87,,,Final,,27,14,19,31,,24,23,17,23,,NBA
+271220014,2007,"December 20, 2007",Miami Heat,New Jersey Nets,"7-19, 3-9 Home","11-15, 6-5 Away",103,107,,,Final/OT,YES,21,23,26,24,9.0,21,20,25,28,13.0,NBA
+271225005,2007,"December 25, 2007",Cleveland Cavaliers,Miami Heat,"13-16, 8-6 Home","8-20, 4-11 Away",96,82,,,Final,ABC,25,18,24,29,,17,30,14,21,,NBA
+271228014,2007,"December 28, 2007",Miami Heat,Orlando Magic,"8-22, 4-10 Home","20-11, 14-5 Away",114,121,,,Final/OT,,26,28,21,32,7.0,28,22,28,29,14.0,NBA
+280102014,2007,"January 02, 2008",Miami Heat,Milwaukee Bucks,"8-24, 4-11 Home","12-19, 3-15 Away",98,103,,,Final,,26,21,20,31,,22,23,26,32,,NBA
+280106029,2007,"January 06, 2008",Memphis Grizzlies,Miami Heat,"10-23, 6-11 Home","8-26, 4-15 Away",101,94,,,Final,,28,15,27,31,,22,24,20,28,,NBA
+280109015,2007,"January 09, 2008",Milwaukee Bucks,Miami Heat,"15-20, 10-5 Home","8-28, 4-17 Away",98,92,,,Final,,25,30,13,30,,23,27,16,26,,NBA
+280116014,2007,"January 16, 2008",Miami Heat,Chicago Bulls,"8-30, 4-12 Home","15-22, 8-12 Away",96,126,,,Final,ESPN2,23,30,26,17,,34,24,35,33,,NBA
+280119014,2007,"January 19, 2008",Miami Heat,New York Knicks,"8-32, 4-14 Home","13-27, 4-14 Away",84,88,,,Final,,30,18,21,15,,21,22,22,23,,NBA
+280124014,2007,"January 24, 2008",Miami Heat,San Antonio Spurs,"8-34, 4-16 Home","28-13, 8-9 Away",89,90,,,Final,TNT,28,18,26,17,,24,21,20,25,,NBA
+280129014,2007,"January 29, 2008",Miami Heat,Boston Celtics,"9-35, 5-17 Home","35-8, 16-4 Away",87,117,,,Final,NBATV,14,28,19,26,,31,33,30,23,,NBA
+280201014,2007,"February 01, 2008",Miami Heat,New Jersey Nets,"9-37, 5-18 Home","20-26, 10-12 Away",85,94,,,Final,,21,10,29,25,,23,20,27,24,,NBA
+280206008,2007,"February 06, 2008",Detroit Pistons,Miami Heat,"35-13, 18-4 Home","9-39, 4-20 Away",100,95,,,Final,,18,30,27,25,,22,26,16,31,,NBA
+280210014,2007,"February 10, 2008",Miami Heat,Los Angeles Lakers,"9-41, 5-20 Home","33-17, 16-10 Away",94,104,,,Final,ABC,24,23,26,21,,25,26,31,22,,NBA
+280214004,2007,"February 14, 2008",Chicago Bulls,Miami Heat,"21-31, 11-14 Home","9-43, 4-22 Away",99,92,,,Final,TNT,28,20,22,29,,28,15,20,29,,NBA
+280223014,2007,"February 23, 2008",Miami Heat,Philadelphia 76ers,"9-45, 5-22 Home","25-32, 10-18 Away",96,101,,,Final/OT,,19,30,24,18,5.0,24,27,22,18,10.0,NBA
+280228013,2007,"February 28, 2008",Los Angeles Lakers,Miami Heat,"41-17, 20-7 Home","10-46, 4-24 Away",106,88,,,Final,TNT,26,27,20,33,,19,22,17,30,,NBA
+280302023,2007,"March 02, 2008",Sacramento Kings,Miami Heat,"27-32, 18-10 Home","11-47, 5-25 Away",120,109,,,Final,,27,22,41,30,,34,35,20,20,,NBA
+280307014,2007,"March 07, 2008",Miami Heat,Golden State Warriors,"11-49, 6-24 Home","38-23, 17-13 Away",99,134,,,Final,,31,20,22,26,,32,31,37,34,,NBA
+280310014,2007,"March 10, 2008",Miami Heat,LA Clippers,"11-51, 6-25 Home","21-41, 9-19 Away",98,99,,,Final,,23,24,33,18,,29,29,15,26,,NBA
+280314014,2007,"March 14, 2008",Miami Heat,Orlando Magic,"11-53, 6-27 Home","43-24, 23-12 Away",94,103,,,Final,,25,26,23,20,,25,25,27,26,,NBA
+280318015,2007,"March 18, 2008",Milwaukee Bucks,Miami Heat,"23-44, 17-17 Home","12-54, 6-26 Away",106,112,,,Final,,26,24,27,29,,24,20,28,40,,NBA
+280321014,2007,"March 21, 2008",Miami Heat,Washington Wizards,"12-56, 6-29 Home","35-33, 15-18 Away",86,103,,,Final,,20,19,23,24,,26,26,35,16,,NBA
+280324014,2007,"March 24, 2008",Miami Heat,Milwaukee Bucks,"13-57, 7-29 Home","24-45, 6-28 Away",78,73,,,Final,,17,15,22,24,,25,12,13,23,,NBA
+280327008,2007,"March 27, 2008",Detroit Pistons,Miami Heat,"51-21, 29-6 Home","13-59, 6-30 Away",85,69,,,Final,,18,25,23,19,,23,22,10,14,,NBA
+280331011,2007,"March 31, 2008",Indiana Pacers,Miami Heat,"31-43, 18-19 Home","13-61, 6-32 Away",105,85,,,Final,,27,24,27,27,,25,18,22,20,,NBA
+280404027,2007,"April 04, 2008",Washington Wizards,Miami Heat,"39-37, 22-16 Home","13-63, 6-33 Away",109,95,,,Final,,29,31,28,21,,23,21,28,23,,NBA
+280408014,2007,"April 08, 2008",Miami Heat,Chicago Bulls,"14-64, 8-31 Home","30-47, 12-27 Away",95,88,,,Final,,18,25,26,26,,21,28,18,21,,NBA
+280413005,2007,"April 13, 2008",Cleveland Cavaliers,Miami Heat,"44-36, 27-13 Home","14-66, 6-34 Away",84,76,,,Final,,19,21,17,27,,21,17,21,17,,NBA
+271101014,2007,"November 01, 2007",Miami Heat,Detroit Pistons,"0-1, 0-1 Home","1-0, 1-0 Away",80,91,,,Final,TNT,22,20,20,18,,26,22,18,25,,NBA
+271104014,2007,"November 04, 2007",Miami Heat,Charlotte Bobcats,"0-3, 0-2 Home","2-0, 1-0 Away",88,90,,,Final,,27,21,15,25,,27,28,20,15,,NBA
+271109014,2007,"November 09, 2007",Miami Heat,Phoenix Suns,"0-5, 0-3 Home","4-2, 3-1 Away",101,106,,,Final,,37,23,24,17,,29,26,24,27,,NBA
+271113030,2007,"November 13, 2007",Charlotte Bobcats,Miami Heat,"4-3, 3-2 Home","1-6, 1-3 Away",91,76,,,Final,,17,23,31,20,,12,23,12,29,,NBA
+271116002,2007,"November 16, 2007",Boston Celtics,Miami Heat,"8-0, 5-0 Home","1-8, 1-4 Away",92,91,,,Final,,24,28,24,16,,24,22,19,26,,NBA
+271121014,2007,"November 21, 2007",Miami Heat,Atlanta Hawks,"2-9, 0-5 Home","4-7, 1-4 Away",79,82,,,Final,,24,19,23,13,,21,16,19,26,,NBA
+271124019,2007,"November 24, 2007",Orlando Magic,Miami Heat,"12-3, 5-2 Home","3-10, 2-5 Away",120,99,,,Final,,34,25,32,29,,28,21,27,23,,NBA
+271130014,2007,"November 30, 2007",Miami Heat,Boston Celtics,"4-11, 2-6 Home","13-2, 5-2 Away",85,95,,,Final,ESPN,25,16,20,24,,31,28,24,12,,NBA
+271203026,2007,"December 03, 2007",Utah Jazz,Miami Heat,"13-5, 8-1 Home","4-13, 2-7 Away",110,101,,,Final,,31,21,22,36,,32,21,18,30,,NBA
+271207009,2007,"December 07, 2007",Golden State Warriors,Miami Heat,"11-8, 5-5 Home","4-15, 2-9 Away",120,113,,,Final,TNT,30,26,26,38,,39,27,25,22,,NBA
+271210021,2007,"December 10, 2007",Phoenix Suns,Miami Heat,"16-6, 6-3 Home","6-15, 4-9 Away",113,117,,,Final,NBATV,29,34,17,33,,40,27,22,28,,NBA
+271215014,2007,"December 15, 2007",Miami Heat,Indiana Pacers,"6-17, 2-8 Home","12-12, 7-5 Away",103,106,,,Final,,27,28,24,24,,25,27,26,28,,NBA
+271219001,2007,"December 19, 2007",Atlanta Hawks,Miami Heat,"13-12, 9-6 Home","7-18, 4-10 Away",114,111,,,Final/OT,,25,26,31,22,10.0,22,25,30,27,7.0,NBA
+271222014,2007,"December 22, 2007",Miami Heat,Utah Jazz,"8-19, 4-9 Home","15-14, 6-12 Away",104,102,,,Final,,21,29,24,30,,23,19,21,39,,NBA
+271226020,2007,"December 26, 2007",Philadelphia 76ers,Miami Heat,"12-16, 7-9 Home","8-21, 4-12 Away",96,85,,,Final,NBATV,25,30,19,22,,17,21,26,21,,NBA
+271229027,2007,"December 29, 2007",Washington Wizards,Miami Heat,"15-14, 9-6 Home","8-23, 4-13 Away",96,74,,,Final,NBATV,26,32,24,14,,18,21,16,19,,NBA
+280104006,2007,"January 04, 2008",Dallas Mavericks,Miami Heat,"22-11, 16-3 Home","8-25, 4-14 Away",94,89,,,Final,ESPN,24,24,23,23,,24,32,18,15,,NBA
+280108016,2007,"January 08, 2008",Minnesota Timberwolves,Miami Heat,"5-29, 4-13 Home","8-27, 4-16 Away",101,91,,,Final,,29,30,23,19,,18,29,24,20,,NBA
+280111003,2007,"January 11, 2008",New Orleans Hornets,Miami Heat,"24-12, 10-7 Home","8-29, 4-18 Away",114,88,,,Final,ESPN,32,23,31,28,,24,17,25,22,,NBA
+280118014,2007,"January 18, 2008",Miami Heat,Portland Trail Blazers,"8-31, 4-13 Home","24-15, 7-12 Away",91,98,,,Final,ESPN,16,25,35,15,,22,28,19,29,,NBA
+280121014,2007,"January 21, 2008",Miami Heat,Cleveland Cavaliers,"8-33, 4-15 Home","22-18, 10-12 Away",90,97,,,Final,TNT,28,24,18,20,,27,22,23,25,,NBA
+280126014,2007,"January 26, 2008",Miami Heat,Indiana Pacers,"9-34, 5-16 Home","19-26, 10-16 Away",98,96,,,Final,,23,25,29,21,,28,29,20,19,,NBA
+280130019,2007,"January 30, 2008",Orlando Magic,Miami Heat,"29-18, 12-8 Home","9-36, 4-19 Away",107,91,,,Final,,30,33,20,24,,25,27,24,15,,NBA
+280204014,2007,"February 04, 2008",Miami Heat,Toronto Raptors,"9-38, 5-19 Home","26-21, 12-12 Away",82,114,,,Final,,12,29,21,20,,33,26,30,25,,NBA
+280207020,2007,"February 07, 2008",Philadelphia 76ers,Miami Heat,"20-30, 11-14 Home","9-40, 4-21 Away",101,84,,,Final,,30,24,21,26,,24,26,22,12,,NBA
+280212014,2007,"February 12, 2008",Miami Heat,Denver Nuggets,"9-42, 5-21 Home","32-19, 11-13 Away",113,114,,,Final/OT,,32,31,15,24,11.0,23,34,27,18,12.0,NBA
+280221010,2007,"February 21, 2008",Houston Rockets,Miami Heat,"34-20, 17-9 Home","9-44, 4-23 Away",112,100,,,Final,TNT,41,21,25,25,,26,22,27,25,,NBA
+280226014,2007,"February 26, 2008",Miami Heat,Sacramento Kings,"10-45, 6-22 Home","26-30, 9-20 Away",107,86,,,Final,,30,28,31,18,,32,20,11,23,,NBA
+280229025,2007,"February 29, 2008",Seattle SuperSonics,Miami Heat,"15-43, 10-21 Home","11-46, 5-24 Away",93,103,,,Final,,26,21,29,17,,25,19,33,26,,NBA
+280305014,2007,"March 05, 2008",Miami Heat,Toronto Raptors,"11-48, 6-23 Home","33-27, 15-15 Away",83,108,,,Final,,17,25,16,25,,29,24,27,28,,NBA
+280308001,2007,"March 08, 2008",Atlanta Hawks,Miami Heat,"26-36, 19-12 Home","11-50, 5-26 Away",97,94,,,Final,,26,30,21,20,,33,26,11,24,,NBA
+280312014,2007,"March 12, 2008",Miami Heat,New York Knicks,"11-52, 6-26 Home","19-46, 7-25 Away",88,91,,,Final,,24,21,20,23,,24,20,28,19,,NBA
+280316014,2007,"March 16, 2008",Miami Heat,Dallas Mavericks,"11-54, 6-28 Home","44-23, 15-19 Away",73,98,,,Final,,12,18,23,20,,35,17,32,14,,NBA
+280319028,2007,"March 19, 2008",Toronto Raptors,Miami Heat,"35-33, 20-13 Home","12-55, 6-27 Away",96,54,,,Final,,29,29,20,18,,16,10,19,9,,NBA
+280322030,2007,"March 22, 2008",Charlotte Bobcats,Miami Heat,"25-44, 19-17 Home","12-57, 6-28 Away",94,82,,,Final,,16,30,27,21,,17,22,25,18,,NBA
+280326018,2007,"March 26, 2008",New York Knicks,Miami Heat,"20-51, 13-24 Home","13-58, 6-29 Away",103,96,,,Final/OT,,26,22,15,29,11.0,20,20,25,27,4.0,NBA
+280330002,2007,"March 30, 2008",Boston Celtics,Miami Heat,"58-15, 32-6 Home","13-60, 6-31 Away",88,62,,,Final,,32,18,18,20,,13,17,18,14,,NBA
+280402014,2007,"April 02, 2008",Miami Heat,New Orleans Hornets,"13-62, 7-30 Home","52-22, 25-12 Away",77,106,,,Final,,14,27,25,11,,26,28,20,32,,NBA
+280406014,2007,"April 06, 2008",Miami Heat,Detroit Pistons,"13-64, 7-31 Home","55-21, 24-15 Away",75,91,,,Final,,16,11,27,21,,19,20,29,23,,NBA
+280411014,2007,"April 11, 2008",Miami Heat,Memphis Grizzlies,"14-65, 8-32 Home","22-57, 8-31 Away",91,96,,,Final,,23,20,26,22,,31,27,16,22,,NBA
+280414028,2007,"April 14, 2008",Toronto Raptors,Miami Heat,"41-40, 25-16 Home","14-67, 6-35 Away",91,75,,,Final,,25,18,27,21,,28,19,17,11,,NBA
+280416014,2007,"April 16, 2008",Miami Heat,Atlanta Hawks,"15-67, 9-32 Home","37-45, 12-29 Away",113,99,,,Final,,24,31,34,24,,30,31,22,16,,NBA

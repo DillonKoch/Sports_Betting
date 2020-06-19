@@ -1,51 +1,51 @@
-,Unnamed: 0,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-0,0,190207018,1998,"Sun, Feb 7",New York Knicks,Miami Heat,"0-2, 0-1 Home","1-1, 1-0 Away",79,83,,,Final,,21,16,24,18,,26,18,23,16,,NBA
-1,1,190209014,1998,"Tue, Feb 9",Miami Heat,Boston Celtics,"1-3, 0-2 Home","2-2, 1-1 Away",101,108,,,Final,,24,22,20,35,,17,28,26,37,,NBA
-2,2,190215014,1998,"Mon, Feb 15",Miami Heat,New Jersey Nets,"3-3, 2-2 Home","1-4, 0-3 Away",95,72,,,Final,,16,31,22,26,,24,17,14,17,,NBA
-3,3,190217008,1998,"Wed, Feb 17",Detroit Pistons,Miami Heat,"3-5, 2-2 Home","5-3, 3-1 Away",80,91,,,Final,,21,18,19,22,,26,20,24,21,,NBA
-4,4,190223027,1998,"Tue, Feb 23",Washington Wizards,Miami Heat,"4-5, 3-1 Home","7-3, 4-1 Away",80,96,,,Final,,18,29,16,17,,20,22,28,26,,NBA
-5,5,190226008,1998,"Fri, Feb 26",Detroit Pistons,Miami Heat,"7-6, 5-2 Home","8-4, 5-2 Away",95,93,,,Final,,31,28,15,21,,30,19,19,25,,NBA
-6,6,190302014,1998,"Tue, Mar 2",Miami Heat,New York Knicks,"10-4, 5-2 Home","9-6, 2-5 Away",85,84,,,Final/OT,,22,14,26,16,7.0,25,22,18,13,6.0,NBA
-7,7,190305020,1998,"Fri, Mar 5",Philadelphia 76ers,Miami Heat,"10-6, 5-5 Home","12-4, 6-2 Away",78,89,,,Final,CSN,19,22,21,16,,16,24,26,23,,NBA
-8,8,190308014,1998,"Mon, Mar 8",Miami Heat,Philadelphia 76ers,"13-5, 7-2 Home","10-8, 5-2 Away",91,89,,,Final,,28,21,17,25,,23,25,24,17,,NBA
-9,9,190311014,1998,"Thu, Mar 11",Miami Heat,Toronto Raptors,"15-5, 9-2 Home","6-11, 2-7 Away",83,73,,,Final,,14,23,28,18,,22,20,8,23,,NBA
-10,10,190316014,1998,"Tue, Mar 16",Miami Heat,Washington Wizards,"17-5, 11-2 Home","9-13, 3-7 Away",94,85,,,Final,,26,23,24,21,,19,19,25,22,,NBA
-11,11,190320014,1998,"Sat, Mar 20",Miami Heat,Indiana Pacers,"18-6, 11-3 Home","17-7, 7-4 Away",89,94,,,Final,,19,16,26,28,,18,25,30,21,,NBA
-12,12,190324015,1998,"Wed, Mar 24",Milwaukee Bucks,Miami Heat,"15-11, 8-6 Home","19-7, 8-4 Away",76,84,,,Final,,20,27,14,15,,17,24,21,22,,NBA
-13,13,190328019,1998,"Sun, Mar 28",Orlando Magic,Miami Heat,"21-9, 15-2 Home","19-9, 8-6 Away",94,87,,,Final,,20,23,22,29,,31,16,20,20,,NBA
-14,14,190403017,1998,"Sat, Apr 3",New Jersey Nets,Miami Heat,"7-24, 6-9 Home","19-11, 8-7 Away",88,77,,,Final,,16,28,17,27,,24,14,14,25,,NBA
-15,15,190406028,1998,"Tue, Apr 6",Toronto Raptors,Miami Heat,"18-15, 12-5 Home","21-11, 10-7 Away",70,92,,,Final,,14,21,11,24,,23,18,25,26,,NBA
-16,16,190410004,1998,"Sat, Apr 10",Chicago Bulls,Miami Heat,"10-26, 6-13 Home","23-11, 11-7 Away",49,82,,,Final,,8,15,10,16,,23,22,22,15,,NBA
-17,17,190413014,1998,"Tue, Apr 13",Miami Heat,Chicago Bulls,"25-11, 14-4 Home","10-28, 4-15 Away",90,74,,,Final,,20,34,15,21,,18,16,20,20,,NBA
-18,18,190416002,1998,"Fri, Apr 16",Boston Celtics,Miami Heat,"15-24, 9-10 Home","25-13, 11-9 Away",82,81,,,Final,,21,12,20,29,,29,17,18,17,,NBA
-19,19,190419005,1998,"Mon, Apr 19",Cleveland Cavaliers,Miami Heat,"21-20, 14-8 Home","27-13, 12-9 Away",87,94,,,Final,,24,17,25,21,,25,21,26,22,,NBA
-20,20,190422019,1998,"Thu, Apr 22",Orlando Magic,Miami Heat,"29-15, 19-3 Home","29-13, 13-9 Away",70,75,,,Final,,16,20,13,21,,8,15,33,19,,NBA
-21,21,190426005,1998,"Mon, Apr 26",Cleveland Cavaliers,Miami Heat,"21-23, 14-9 Home","30-14, 14-9 Away",65,90,,,Final,,11,22,21,11,,18,29,24,19,,NBA
-22,22,190429014,1998,"Thu, Apr 29",Miami Heat,Boston Celtics,"31-15, 16-6 Home","19-28, 9-15 Away",96,107,,,Final,,25,27,21,23,,31,20,40,16,,NBA
-23,23,190502014,1998,"Sun, May 2",Miami Heat,Charlotte Hornets,"32-16, 17-7 Home","24-24, 9-15 Away",100,93,,,Final,,22,25,23,30,,26,23,25,19,,NBA
-24,24,190205014,1998,"Fri, Feb 5",Miami Heat,Detroit Pistons,"0-1, 0-1 Home","1-0, 1-0 Away",81,95,,,Final,,22,22,23,14,,30,28,17,20,,NBA
-25,25,190208003,1998,"Mon, Feb 8",Charlotte Hornets,Miami Heat,"1-2, 1-2 Home","1-2, 1-1 Away",94,91,,,Final,,28,23,24,19,,27,30,18,16,,NBA
-26,26,190211014,1998,"Thu, Feb 11",Miami Heat,Toronto Raptors,"2-3, 1-2 Home","1-3, 1-2 Away",102,84,,,Final,,23,19,32,28,,24,21,16,23,,NBA
-27,27,190216011,1998,"Tue, Feb 16",Indiana Pacers,Miami Heat,"4-3, 1-1 Home","4-3, 2-1 Away",78,89,,,Final,,19,25,18,16,,25,19,21,24,,NBA
-28,28,190220014,1998,"Sat, Feb 20",Miami Heat,Houston Rockets,"6-3, 3-2 Home","6-3, 3-3 Away",81,71,,,Final,,19,18,23,21,,15,22,9,25,,NBA
-29,29,190224003,1998,"Wed, Feb 24",Charlotte Hornets,Miami Heat,"1-8, 1-4 Home","8-3, 5-1 Away",83,91,,,Final,,25,16,23,19,,29,16,23,23,,NBA
-30,30,190228014,1998,"Sun, Feb 28",Miami Heat,Orlando Magic,"9-4, 4-2 Home","10-4, 3-4 Away",84,78,,,Final,,17,22,19,26,,35,11,21,11,,NBA
-31,31,190304014,1998,"Thu, Mar 4",Miami Heat,Denver Nuggets,"11-4, 6-2 Home","5-11, 0-8 Away",95,87,,,Final,,22,24,28,21,,21,29,25,12,,NBA
-32,32,190307011,1998,"Sun, Mar 7",Indiana Pacers,Miami Heat,"12-5, 6-2 Home","12-5, 6-3 Away",85,72,,,Final,,21,20,21,23,,19,13,17,23,,NBA
-33,33,190310014,1998,"Wed, Mar 10",Miami Heat,Atlanta Hawks,"14-5, 8-2 Home","9-9, 6-5 Away",88,78,,,Final,,23,19,24,22,,18,22,10,28,,NBA
-34,34,190314014,1998,"Sun, Mar 14",Miami Heat,New Jersey Nets,"16-5, 10-2 Home","3-17, 1-11 Away",102,76,,,Final,,25,25,29,23,,20,15,25,16,,NBA
-35,35,190317001,1998,"Wed, Mar 17",Atlanta Hawks,Miami Heat,"13-10, 5-5 Home","18-5, 7-3 Away",85,86,,,Final,,20,18,21,26,,25,19,24,18,,NBA
-36,36,190323026,1998,"Tue, Mar 23",Utah Jazz,Miami Heat,"20-6, 12-1 Home","18-7, 7-4 Away",84,81,,,Final,,18,24,15,27,,14,27,22,18,,NBA
-37,37,190326016,1998,"Fri, Mar 26",Minnesota Timberwolves,Miami Heat,"16-12, 9-4 Home","19-8, 8-5 Away",100,93,,,Final,,29,26,25,20,,23,17,30,23,,NBA
-38,38,190401014,1998,"Thu, Apr 1",Miami Heat,Philadelphia 76ers,"19-10, 11-4 Home","16-14, 7-7 Away",84,88,,,Final,CSN,21,18,21,24,,24,25,14,25,,NBA
-39,39,190404027,1998,"Sun, Apr 4",Washington Wizards,Miami Heat,"13-19, 8-8 Home","20-11, 9-7 Away",79,90,,,Final,,16,23,25,15,,21,22,27,20,,NBA
-40,40,190407014,1998,"Wed, Apr 7",Miami Heat,Dallas Mavericks,"22-11, 12-4 Home","11-24, 2-16 Away",93,87,,,Final,,25,22,24,22,,30,16,14,27,,NBA
-41,41,190411014,1998,"Sun, Apr 11",Miami Heat,Milwaukee Bucks,"24-11, 13-4 Home","20-16, 10-10 Away",95,92,,,Final,,27,27,22,19,,26,23,16,27,,NBA
-42,42,190414015,1998,"Wed, Apr 14",Milwaukee Bucks,Miami Heat,"22-16, 12-6 Home","25-12, 11-8 Away",98,86,,,Final,,23,26,32,17,,22,13,30,21,,NBA
-43,43,190418014,1998,"Sun, Apr 18",Miami Heat,Indiana Pacers,"26-13, 15-4 Home","26-15, 13-9 Away",92,88,,,Final,,18,25,24,25,,25,25,18,20,,NBA
-44,44,190421014,1998,"Wed, Apr 21",Miami Heat,Cleveland Cavaliers,"28-13, 16-4 Home","21-21, 7-13 Away",93,80,,,Final,,27,22,23,21,,18,15,21,26,,NBA
-45,45,190425014,1998,"Sun, Apr 25",Miami Heat,New York Knicks,"29-14, 16-5 Home","23-21, 7-15 Away",80,82,,,Final,,27,16,21,16,,20,13,15,34,,NBA
-46,46,190427017,1998,"Tue, Apr 27",New Jersey Nets,Miami Heat,"14-31, 10-13 Home","31-14, 15-9 Away",76,95,,,Final,,15,17,13,31,,33,16,20,26,,NBA
-47,47,190501014,1998,"Sat, May 1",Miami Heat,Chicago Bulls,"31-16, 16-7 Home","13-35, 5-20 Away",86,101,,,Final,,26,19,14,27,,24,24,30,23,,NBA
-48,48,190504014,1998,"Tue, May 4",Miami Heat,Atlanta Hawks,"33-16, 18-7 Home","30-19, 15-10 Away",93,79,,,Final,,22,23,24,24,,26,19,16,18,,NBA
-49,49,190505018,1998,"Wed, May 5",New York Knicks,Miami Heat,"27-23, 19-6 Home","33-17, 15-10 Away",101,88,,,Final,,29,21,25,26,,25,17,30,16,,NBA
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+190207018,1998,"February 07, 1999",New York Knicks,Miami Heat,"0-2, 0-1 Home","1-1, 1-0 Away",79,83,,,Final,,21,16,24,18,,26,18,23,16,,NBA
+190209014,1998,"February 09, 1999",Miami Heat,Boston Celtics,"1-3, 0-2 Home","2-2, 1-1 Away",101,108,,,Final,,24,22,20,35,,17,28,26,37,,NBA
+190215014,1998,"February 15, 1999",Miami Heat,New Jersey Nets,"3-3, 2-2 Home","1-4, 0-3 Away",95,72,,,Final,,16,31,22,26,,24,17,14,17,,NBA
+190217008,1998,"February 17, 1999",Detroit Pistons,Miami Heat,"3-5, 2-2 Home","5-3, 3-1 Away",80,91,,,Final,,21,18,19,22,,26,20,24,21,,NBA
+190223027,1998,"February 23, 1999",Washington Wizards,Miami Heat,"4-5, 3-1 Home","7-3, 4-1 Away",80,96,,,Final,,18,29,16,17,,20,22,28,26,,NBA
+190226008,1998,"February 26, 1999",Detroit Pistons,Miami Heat,"7-6, 5-2 Home","8-4, 5-2 Away",95,93,,,Final,,31,28,15,21,,30,19,19,25,,NBA
+190302014,1998,"March 02, 1999",Miami Heat,New York Knicks,"10-4, 5-2 Home","9-6, 2-5 Away",85,84,,,Final/OT,,22,14,26,16,7.0,25,22,18,13,6.0,NBA
+190305020,1998,"March 05, 1999",Philadelphia 76ers,Miami Heat,"10-6, 5-5 Home","12-4, 6-2 Away",78,89,,,Final,CSN,19,22,21,16,,16,24,26,23,,NBA
+190308014,1998,"March 08, 1999",Miami Heat,Philadelphia 76ers,"13-5, 7-2 Home","10-8, 5-2 Away",91,89,,,Final,,28,21,17,25,,23,25,24,17,,NBA
+190311014,1998,"March 11, 1999",Miami Heat,Toronto Raptors,"15-5, 9-2 Home","6-11, 2-7 Away",83,73,,,Final,,14,23,28,18,,22,20,8,23,,NBA
+190316014,1998,"March 16, 1999",Miami Heat,Washington Wizards,"17-5, 11-2 Home","9-13, 3-7 Away",94,85,,,Final,,26,23,24,21,,19,19,25,22,,NBA
+190320014,1998,"March 20, 1999",Miami Heat,Indiana Pacers,"18-6, 11-3 Home","17-7, 7-4 Away",89,94,,,Final,,19,16,26,28,,18,25,30,21,,NBA
+190324015,1998,"March 24, 1999",Milwaukee Bucks,Miami Heat,"15-11, 8-6 Home","19-7, 8-4 Away",76,84,,,Final,,20,27,14,15,,17,24,21,22,,NBA
+190328019,1998,"March 28, 1999",Orlando Magic,Miami Heat,"21-9, 15-2 Home","19-9, 8-6 Away",94,87,,,Final,,20,23,22,29,,31,16,20,20,,NBA
+190403017,1998,"April 03, 1999",New Jersey Nets,Miami Heat,"7-24, 6-9 Home","19-11, 8-7 Away",88,77,,,Final,,16,28,17,27,,24,14,14,25,,NBA
+190406028,1998,"April 06, 1999",Toronto Raptors,Miami Heat,"18-15, 12-5 Home","21-11, 10-7 Away",70,92,,,Final,,14,21,11,24,,23,18,25,26,,NBA
+190410004,1998,"April 10, 1999",Chicago Bulls,Miami Heat,"10-26, 6-13 Home","23-11, 11-7 Away",49,82,,,Final,,8,15,10,16,,23,22,22,15,,NBA
+190413014,1998,"April 13, 1999",Miami Heat,Chicago Bulls,"25-11, 14-4 Home","10-28, 4-15 Away",90,74,,,Final,,20,34,15,21,,18,16,20,20,,NBA
+190416002,1998,"April 16, 1999",Boston Celtics,Miami Heat,"15-24, 9-10 Home","25-13, 11-9 Away",82,81,,,Final,,21,12,20,29,,29,17,18,17,,NBA
+190419005,1998,"April 19, 1999",Cleveland Cavaliers,Miami Heat,"21-20, 14-8 Home","27-13, 12-9 Away",87,94,,,Final,,24,17,25,21,,25,21,26,22,,NBA
+190422019,1998,"April 22, 1999",Orlando Magic,Miami Heat,"29-15, 19-3 Home","29-13, 13-9 Away",70,75,,,Final,,16,20,13,21,,8,15,33,19,,NBA
+190426005,1998,"April 26, 1999",Cleveland Cavaliers,Miami Heat,"21-23, 14-9 Home","30-14, 14-9 Away",65,90,,,Final,,11,22,21,11,,18,29,24,19,,NBA
+190429014,1998,"April 29, 1999",Miami Heat,Boston Celtics,"31-15, 16-6 Home","19-28, 9-15 Away",96,107,,,Final,,25,27,21,23,,31,20,40,16,,NBA
+190502014,1998,"May 02, 1999",Miami Heat,Charlotte Hornets,"32-16, 17-7 Home","24-24, 9-15 Away",100,93,,,Final,,22,25,23,30,,26,23,25,19,,NBA
+190205014,1998,"February 05, 1999",Miami Heat,Detroit Pistons,"0-1, 0-1 Home","1-0, 1-0 Away",81,95,,,Final,,22,22,23,14,,30,28,17,20,,NBA
+190208003,1998,"February 08, 1999",Charlotte Hornets,Miami Heat,"1-2, 1-2 Home","1-2, 1-1 Away",94,91,,,Final,,28,23,24,19,,27,30,18,16,,NBA
+190211014,1998,"February 11, 1999",Miami Heat,Toronto Raptors,"2-3, 1-2 Home","1-3, 1-2 Away",102,84,,,Final,,23,19,32,28,,24,21,16,23,,NBA
+190216011,1998,"February 16, 1999",Indiana Pacers,Miami Heat,"4-3, 1-1 Home","4-3, 2-1 Away",78,89,,,Final,,19,25,18,16,,25,19,21,24,,NBA
+190220014,1998,"February 20, 1999",Miami Heat,Houston Rockets,"6-3, 3-2 Home","6-3, 3-3 Away",81,71,,,Final,,19,18,23,21,,15,22,9,25,,NBA
+190224003,1998,"February 24, 1999",Charlotte Hornets,Miami Heat,"1-8, 1-4 Home","8-3, 5-1 Away",83,91,,,Final,,25,16,23,19,,29,16,23,23,,NBA
+190228014,1998,"February 28, 1999",Miami Heat,Orlando Magic,"9-4, 4-2 Home","10-4, 3-4 Away",84,78,,,Final,,17,22,19,26,,35,11,21,11,,NBA
+190304014,1998,"March 04, 1999",Miami Heat,Denver Nuggets,"11-4, 6-2 Home","5-11, 0-8 Away",95,87,,,Final,,22,24,28,21,,21,29,25,12,,NBA
+190307011,1998,"March 07, 1999",Indiana Pacers,Miami Heat,"12-5, 6-2 Home","12-5, 6-3 Away",85,72,,,Final,,21,20,21,23,,19,13,17,23,,NBA
+190310014,1998,"March 10, 1999",Miami Heat,Atlanta Hawks,"14-5, 8-2 Home","9-9, 6-5 Away",88,78,,,Final,,23,19,24,22,,18,22,10,28,,NBA
+190314014,1998,"March 14, 1999",Miami Heat,New Jersey Nets,"16-5, 10-2 Home","3-17, 1-11 Away",102,76,,,Final,,25,25,29,23,,20,15,25,16,,NBA
+190317001,1998,"March 17, 1999",Atlanta Hawks,Miami Heat,"13-10, 5-5 Home","18-5, 7-3 Away",85,86,,,Final,,20,18,21,26,,25,19,24,18,,NBA
+190323026,1998,"March 23, 1999",Utah Jazz,Miami Heat,"20-6, 12-1 Home","18-7, 7-4 Away",84,81,,,Final,,18,24,15,27,,14,27,22,18,,NBA
+190326016,1998,"March 26, 1999",Minnesota Timberwolves,Miami Heat,"16-12, 9-4 Home","19-8, 8-5 Away",100,93,,,Final,,29,26,25,20,,23,17,30,23,,NBA
+190401014,1998,"April 01, 1999",Miami Heat,Philadelphia 76ers,"19-10, 11-4 Home","16-14, 7-7 Away",84,88,,,Final,CSN,21,18,21,24,,24,25,14,25,,NBA
+190404027,1998,"April 04, 1999",Washington Wizards,Miami Heat,"13-19, 8-8 Home","20-11, 9-7 Away",79,90,,,Final,,16,23,25,15,,21,22,27,20,,NBA
+190407014,1998,"April 07, 1999",Miami Heat,Dallas Mavericks,"22-11, 12-4 Home","11-24, 2-16 Away",93,87,,,Final,,25,22,24,22,,30,16,14,27,,NBA
+190411014,1998,"April 11, 1999",Miami Heat,Milwaukee Bucks,"24-11, 13-4 Home","20-16, 10-10 Away",95,92,,,Final,,27,27,22,19,,26,23,16,27,,NBA
+190414015,1998,"April 14, 1999",Milwaukee Bucks,Miami Heat,"22-16, 12-6 Home","25-12, 11-8 Away",98,86,,,Final,,23,26,32,17,,22,13,30,21,,NBA
+190418014,1998,"April 18, 1999",Miami Heat,Indiana Pacers,"26-13, 15-4 Home","26-15, 13-9 Away",92,88,,,Final,,18,25,24,25,,25,25,18,20,,NBA
+190421014,1998,"April 21, 1999",Miami Heat,Cleveland Cavaliers,"28-13, 16-4 Home","21-21, 7-13 Away",93,80,,,Final,,27,22,23,21,,18,15,21,26,,NBA
+190425014,1998,"April 25, 1999",Miami Heat,New York Knicks,"29-14, 16-5 Home","23-21, 7-15 Away",80,82,,,Final,,27,16,21,16,,20,13,15,34,,NBA
+190427017,1998,"April 27, 1999",New Jersey Nets,Miami Heat,"14-31, 10-13 Home","31-14, 15-9 Away",76,95,,,Final,,15,17,13,31,,33,16,20,26,,NBA
+190501014,1998,"May 01, 1999",Miami Heat,Chicago Bulls,"31-16, 16-7 Home","13-35, 5-20 Away",86,101,,,Final,,26,19,14,27,,24,24,30,23,,NBA
+190504014,1998,"May 04, 1999",Miami Heat,Atlanta Hawks,"33-16, 18-7 Home","30-19, 15-10 Away",93,79,,,Final,,22,23,24,24,,26,19,16,18,,NBA
+190505018,1998,"May 05, 1999",New York Knicks,Miami Heat,"27-23, 19-6 Home","33-17, 15-10 Away",101,88,,,Final,,29,21,25,26,,25,17,30,16,,NBA

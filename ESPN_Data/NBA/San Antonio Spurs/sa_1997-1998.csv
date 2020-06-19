@@ -1,83 +1,83 @@
-,Unnamed: 0,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-0,0,171101024,1997,"Sat, Nov 1",San Antonio Spurs,Cleveland Cavaliers,"2-0, 1-0 Home","0-2, 0-2 Away",83,80,,,Final,,23,16,19,25,,15,23,20,22,,NBA
-1,1,171105024,1997,"Wed, Nov 5",San Antonio Spurs,Vancouver Grizzlies,"3-1, 2-0 Home","1-3, 0-2 Away",87,79,,,Final,,21,23,22,21,,20,17,23,19,,NBA
-2,2,171110028,1997,"Mon, Nov 10",Toronto Raptors,San Antonio Spurs,"1-5, 1-2 Home","5-1, 2-1 Away",98,100,,,Final,,36,22,29,11,,26,29,26,19,,NBA
-3,3,171113024,1997,"Thu, Nov 13",San Antonio Spurs,Los Angeles Lakers,"6-2, 3-1 Home","6-0, 3-0 Away",100,109,,,Final/OT,,24,26,28,18,4.0,28,23,20,25,13.0,NBA
-4,4,171119024,1997,"Wed, Nov 19",San Antonio Spurs,Golden State Warriors,"7-3, 4-2 Home","0-9, 0-6 Away",108,87,,,Final,,28,25,29,26,,20,20,23,24,,NBA
-5,5,171122026,1997,"Sat, Nov 22",Utah Jazz,San Antonio Spurs,"6-6, 4-2 Home","7-5, 3-3 Away",103,74,,,Final,,32,26,24,21,,12,23,18,21,,NBA
-6,6,171126024,1997,"Wed, Nov 26",San Antonio Spurs,Washington Wizards,"8-6, 4-3 Home","5-10, 5-6 Away",94,98,,,Final,,16,23,24,31,,25,23,27,23,,NBA
-7,7,171130001,1997,"Sun, Nov 30",Atlanta Hawks,San Antonio Spurs,"14-2, 9-1 Home","9-7, 4-4 Away",108,96,,,Final,,26,34,29,19,,18,27,22,29,,NBA
-8,8,171204012,1997,"Thu, Dec 4",Los Angeles Clippers,San Antonio Spurs,"3-14, 2-7 Home","10-8, 4-5 Away",100,96,,,Final/OT,,28,20,21,18,13.0,29,25,22,11,9.0,NBA
-9,9,171209010,1997,"Tue, Dec 9",Houston Rockets,San Antonio Spurs,"12-5, 7-3 Home","10-10, 4-7 Away",108,78,,,Final,,33,27,28,20,,28,14,21,15,,NBA
-10,10,171213024,1997,"Sat, Dec 13",San Antonio Spurs,Orlando Magic,"12-10, 8-3 Home","16-8, 9-5 Away",107,78,,,Final,,34,18,31,24,,18,18,20,22,,NBA
-11,11,171217024,1997,"Wed, Dec 17",San Antonio Spurs,Vancouver Grizzlies,"14-10, 9-3 Home","9-16, 2-12 Away",98,87,,,Final,,28,19,27,24,,20,32,17,18,,NBA
-12,12,171223024,1997,"Tue, Dec 23",San Antonio Spurs,Indiana Pacers,"16-10, 11-3 Home","17-9, 8-6 Away",91,79,,,Final,,26,14,26,25,,19,28,15,17,,NBA
-13,13,171228022,1997,"Sun, Dec 28",Portland Trail Blazers,San Antonio Spurs,"17-10, 9-5 Home","17-11, 5-8 Away",82,79,,,Final,,10,26,29,17,,23,22,14,20,,NBA
-14,14,180102024,1997,"Fri, Jan 2",San Antonio Spurs,Portland Trail Blazers,"19-11, 13-3 Home","18-11, 8-6 Away",85,69,,,Final,,26,21,25,13,,12,18,20,19,,NBA
-15,15,180105019,1997,"Mon, Jan 5",Orlando Magic,San Antonio Spurs,"17-16, 8-9 Home","21-11, 8-8 Away",69,74,,,Final,,21,21,16,11,,16,23,17,18,,NBA
-16,16,180109021,1997,"Fri, Jan 9",Phoenix Suns,San Antonio Spurs,"22-10, 13-4 Home","22-12, 8-9 Away",100,79,,,Final,,25,28,28,19,,24,21,16,18,,NBA
-17,17,180113002,1997,"Tue, Jan 13",Boston Celtics,San Antonio Spurs,"16-19, 11-8 Home","24-12, 9-9 Away",88,97,,,Final,,15,23,28,22,,28,21,26,22,,NBA
-18,18,180116003,1997,"Fri, Jan 16",Charlotte Hornets,San Antonio Spurs,"22-16, 13-5 Home","26-12, 11-9 Away",71,76,,,Final,,18,19,17,17,,21,22,16,17,,NBA
-19,19,180119017,1997,"Mon, Jan 19",New Jersey Nets,San Antonio Spurs,"22-17, 14-5 Home","27-13, 12-10 Away",95,84,,,Final,,21,26,22,26,,17,21,20,26,,NBA
-20,20,180123024,1997,"Fri, Jan 23",San Antonio Spurs,Dallas Mavericks,"29-13, 17-3 Home","7-33, 2-16 Away",81,75,,,Final,,19,24,22,16,,13,22,17,23,,NBA
-21,21,180126024,1997,"Mon, Jan 26",San Antonio Spurs,Houston Rockets,"30-14, 18-3 Home","19-21, 7-11 Away",115,90,,,Final,,27,25,33,30,,21,27,21,21,,NBA
-22,22,180130012,1997,"Fri, Jan 30",Los Angeles Clippers,San Antonio Spurs,"10-36, 6-14 Home","32-14, 13-11 Away",87,97,,,Final,,24,22,29,12,,27,17,20,33,,NBA
-23,23,180203009,1997,"Tue, Feb 3",Golden State Warriors,San Antonio Spurs,"8-37, 5-15 Home","34-14, 15-11 Away",96,105,,,Final,,25,35,26,10,,29,28,20,28,,NBA
-24,24,180214024,1997,"Sat, Feb 14",San Antonio Spurs,Phoenix Suns,"34-16, 19-5 Home","33-16, 16-9 Away",81,94,,,Final,,27,19,21,14,,25,29,16,24,,NBA
-25,25,180219006,1997,"Thu, Feb 19",Dallas Mavericks,San Antonio Spurs,"10-43, 7-20 Home","36-16, 16-11 Away",81,87,,,Final,,14,30,13,24,,14,24,26,23,,NBA
-26,26,180222021,1997,"Sun, Feb 22",Phoenix Suns,San Antonio Spurs,"37-16, 20-7 Home","36-18, 16-12 Away",97,79,,,Final,,22,24,22,29,,29,17,23,10,,NBA
-27,27,180226024,1997,"Thu, Feb 26",San Antonio Spurs,Toronto Raptors,"38-18, 22-6 Home","12-43, 4-22 Away",97,86,,,Final,,29,20,31,17,,27,18,19,22,,NBA
-28,28,180302023,1997,"Mon, Mar 2",Sacramento Kings,San Antonio Spurs,"24-36, 19-11 Home","40-18, 17-12 Away",95,116,,,Final,,18,22,26,29,,26,22,34,34,,NBA
-29,29,180306013,1997,"Fri, Mar 6",Los Angeles Lakers,San Antonio Spurs,"41-18, 24-7 Home","40-20, 17-14 Away",91,84,,,Final,,22,22,17,30,,23,13,24,24,,NBA
-30,30,180310024,1997,"Tue, Mar 10",San Antonio Spurs,New Jersey Nets,"42-20, 24-6 Home","33-30, 12-19 Away",79,78,,,Final,,22,26,13,18,,15,24,24,15,,NBA
-31,31,180314024,1997,"Sat, Mar 14",San Antonio Spurs,Chicago Bulls,"43-21, 25-7 Home","47-17, 18-14 Away",86,96,,,Final,,17,22,20,27,,27,13,28,28,,NBA
-32,32,180318016,1997,"Wed, Mar 18",Minnesota Timberwolves,San Antonio Spurs,"33-33, 20-15 Home","45-21, 19-14 Away",76,92,,,Final,,25,17,20,14,,23,24,21,24,,NBA
-33,33,180322024,1997,"Sun, Mar 22",San Antonio Spurs,Phoenix Suns,"46-22, 27-8 Home","45-23, 19-14 Away",93,83,,,Final,,21,21,31,20,,21,23,19,20,,NBA
-34,34,180325008,1997,"Wed, Mar 25",Detroit Pistons,San Antonio Spurs,"34-36, 23-13 Home","47-23, 20-15 Away",103,94,,,Final,,27,26,27,23,,29,14,24,27,,NBA
-35,35,180329011,1997,"Sun, Mar 29",Indiana Pacers,San Antonio Spurs,"49-22, 26-9 Home","49-23, 22-15 Away",55,74,,,Final,,14,20,12,9,,23,19,14,18,,NBA
-36,36,180402024,1997,"Thu, Apr 2",San Antonio Spurs,Miami Heat,"51-23, 28-8 Home","52-22, 24-13 Away",103,89,,,Final,,28,23,21,31,,25,20,19,25,,NBA
-37,37,180406024,1997,"Mon, Apr 6",San Antonio Spurs,Portland Trail Blazers,"52-24, 29-9 Home","42-33, 18-19 Away",75,79,,,Final,,18,22,15,20,,24,27,15,13,,NBA
-38,38,180410024,1997,"Fri, Apr 10",San Antonio Spurs,Seattle SuperSonics,"53-25, 30-9 Home","58-20, 25-15 Away",99,84,,,Final,,24,22,23,30,,21,30,13,20,,NBA
-39,39,180416029,1997,"Thu, Apr 16",Vancouver Grizzlies,San Antonio Spurs,"18-62, 14-27 Home","54-26, 24-16 Away",97,110,,,Final,,18,29,33,17,,30,28,25,27,,NBA
-40,40,171031007,1997,"Fri, Oct 31",Denver Nuggets,San Antonio Spurs,"0-1, 0-1 Home","1-0, 1-0 Away",96,107,,,Final,,26,24,21,25,,21,22,30,34,,NBA
-41,41,171103004,1997,"Mon, Nov 3",Chicago Bulls,San Antonio Spurs,"2-1, 2-0 Home","2-1, 1-1 Away",87,83,,,Final/2OT,,15,20,18,20,14.0,29,16,12,16,10.0,NBA
-42,42,171108024,1997,"Sat, Nov 8",San Antonio Spurs,Utah Jazz,"4-1, 3-0 Home","2-4, 1-3 Away",87,80,,,Final,,20,14,18,35,,20,15,20,25,,NBA
-43,43,171111016,1997,"Tue, Nov 11",Minnesota Timberwolves,San Antonio Spurs,"4-2, 2-1 Home","6-1, 3-1 Away",92,93,,,Final,,22,23,23,24,,19,19,25,30,,NBA
-44,44,171115024,1997,"Sat, Nov 15",San Antonio Spurs,Minnesota Timberwolves,"6-3, 3-2 Home","5-3, 3-1 Away",94,105,,,Final,,26,22,21,25,,33,28,24,20,,NBA
-45,45,171121025,1997,"Fri, Nov 21",Seattle SuperSonics,San Antonio Spurs,"9-3, 5-1 Home","7-4, 3-2 Away",94,74,,,Final,,36,24,18,16,,16,21,14,23,,NBA
-46,46,171125006,1997,"Tue, Nov 25",Dallas Mavericks,San Antonio Spurs,"3-10, 1-7 Home","8-5, 4-3 Away",91,102,,,Final,,17,23,35,16,,40,24,19,19,,NBA
-47,47,171129024,1997,"Sat, Nov 29",San Antonio Spurs,Dallas Mavericks,"9-6, 5-3 Home","4-11, 2-4 Away",96,87,,,Final,,21,20,31,24,,19,22,18,28,,NBA
-48,48,171202024,1997,"Tue, Dec 2",San Antonio Spurs,New York Knicks,"10-7, 6-3 Home","10-6, 5-5 Away",90,84,,,Final,,25,18,20,27,,21,25,23,15,,NBA
-49,49,171205013,1997,"Fri, Dec 5",Los Angeles Lakers,San Antonio Spurs,"15-2, 8-0 Home","10-9, 4-6 Away",98,88,,,Final,,24,21,29,24,,17,26,22,23,,NBA
-50,50,171210024,1997,"Wed, Dec 10",San Antonio Spurs,Los Angeles Clippers,"11-10, 7-3 Home","4-17, 2-9 Away",102,87,,,Final,,34,23,18,27,,22,23,25,17,,NBA
-51,51,171216007,1997,"Tue, Dec 16",Denver Nuggets,San Antonio Spurs,"2-21, 2-8 Home","13-10, 5-7 Away",85,99,,,Final,,13,16,30,26,,26,22,31,20,,NBA
-52,52,171220024,1997,"Sat, Dec 20",San Antonio Spurs,Houston Rockets,"15-10, 10-3 Home","14-8, 5-5 Away",100,87,,,Final,,28,27,22,23,,24,16,23,24,,NBA
-53,53,171226024,1997,"Fri, Dec 26",San Antonio Spurs,Boston Celtics,"17-10, 12-3 Home","13-13, 3-7 Away",101,86,,,Final,,28,21,25,27,,21,17,24,24,,NBA
-54,54,171230029,1997,"Tue, Dec 30",Vancouver Grizzlies,San Antonio Spurs,"10-20, 8-7 Home","18-11, 6-8 Away",115,124,,,Final,,25,16,35,39,,35,34,28,27,,NBA
-55,55,180103014,1997,"Sat, Jan 3",Miami Heat,San Antonio Spurs,"20-11, 12-4 Home","20-11, 7-8 Away",77,84,,,Final,,24,15,25,13,,25,20,17,22,,NBA
-56,56,180107024,1997,"Wed, Jan 7",San Antonio Spurs,Denver Nuggets,"22-11, 14-3 Home","2-31, 0-19 Away",96,89,,,Final,,31,17,29,19,,22,28,17,22,,NBA
-57,57,180110024,1997,"Sat, Jan 10",San Antonio Spurs,Sacramento Kings,"23-12, 15-3 Home","15-21, 3-14 Away",109,67,,,Final,,27,29,27,26,,27,14,12,14,,NBA
-58,58,180114027,1997,"Wed, Jan 14",Washington Wizards,San Antonio Spurs,"19-20, 10-8 Home","25-12, 10-9 Away",79,89,,,Final,,29,20,17,13,,24,28,19,18,,NBA
-59,59,180118015,1997,"Sun, Jan 18",Milwaukee Bucks,San Antonio Spurs,"18-21, 13-9 Home","27-12, 12-9 Away",92,98,,,Final/OT,,21,24,21,17,9.0,16,15,27,25,15.0,NBA
-60,60,180121024,1997,"Wed, Jan 21",San Antonio Spurs,Atlanta Hawks,"28-13, 16-3 Home","26-14, 12-10 Away",90,76,,,Final,,27,23,26,14,,12,18,16,30,,NBA
-61,61,180124010,1997,"Sat, Jan 24",Houston Rockets,San Antonio Spurs,"19-20, 12-10 Home","29-14, 12-11 Away",112,87,,,Final,,27,30,26,29,,24,22,22,19,,NBA
-62,62,180128024,1997,"Wed, Jan 28",San Antonio Spurs,Los Angeles Clippers,"31-14, 19-3 Home","10-35, 4-22 Away",109,86,,,Final,,27,31,25,26,,26,17,17,26,,NBA
-63,63,180201023,1997,"Sun, Feb 1",Sacramento Kings,San Antonio Spurs,"19-27, 16-8 Home","33-14, 14-11 Away",97,103,,,Final,,23,20,26,28,,21,28,18,36,,NBA
-64,64,180211024,1997,"Wed, Feb 11",San Antonio Spurs,Seattle SuperSonics,"34-15, 19-4 Home","38-11, 18-9 Away",105,106,,,Final,,29,34,31,11,,27,32,26,21,,NBA
-65,65,180217024,1997,"Tue, Feb 17",San Antonio Spurs,Detroit Pistons,"35-16, 20-5 Home","23-28, 7-18 Away",95,94,,,Final,,29,24,21,21,,25,27,25,17,,NBA
-66,66,180221024,1997,"Sat, Feb 21",San Antonio Spurs,Utah Jazz,"36-17, 20-6 Home","37-15, 13-11 Away",77,79,,,Final,,14,21,18,24,,20,23,21,15,,NBA
-67,67,180224024,1997,"Tue, Feb 24",San Antonio Spurs,Minnesota Timberwolves,"37-18, 21-6 Home","30-24, 12-14 Away",105,99,,,Final,,25,29,21,30,,28,18,21,32,,NBA
-68,68,180228024,1997,"Sat, Feb 28",San Antonio Spurs,Philadelphia 76ers,"39-18, 23-6 Home","19-37, 8-21 Away",100,88,,,Final,,26,17,26,31,,35,18,17,18,,NBA
-69,69,180304009,1997,"Wed, Mar 4",Golden State Warriors,San Antonio Spurs,"13-46, 9-18 Home","40-19, 17-13 Away",90,83,,,Final,,25,24,19,22,,19,37,14,13,,NBA
-70,70,180308022,1997,"Sun, Mar 8",Portland Trail Blazers,San Antonio Spurs,"34-25, 20-12 Home","41-20, 18-14 Away",78,82,,,Final,,20,15,25,18,,18,25,24,15,,NBA
-71,71,180312024,1997,"Thu, Mar 12",San Antonio Spurs,Sacramento Kings,"43-20, 25-6 Home","26-39, 6-27 Away",97,86,,,Final,,30,25,15,27,,27,19,22,18,,NBA
-72,72,180316024,1997,"Mon, Mar 16",San Antonio Spurs,Milwaukee Bucks,"44-21, 26-7 Home","29-35, 10-20 Away",96,85,,,Final,,18,22,30,26,,22,20,17,26,,NBA
-73,73,180320024,1997,"Fri, Mar 20",San Antonio Spurs,Charlotte Hornets,"45-22, 26-8 Home","43-24, 17-16 Away",82,92,,,Final,,26,17,21,18,,26,25,23,18,,NBA
-74,74,180324005,1997,"Tue, Mar 24",Cleveland Cavaliers,San Antonio Spurs,"37-31, 19-13 Home","47-22, 20-14 Away",85,86,,,Final,,15,18,28,24,,16,22,25,23,,NBA
-75,75,180327020,1997,"Fri, Mar 27",Philadelphia 76ers,San Antonio Spurs,"25-45, 15-21 Home","48-23, 21-15 Away",85,110,,,Final,,27,18,14,26,,30,22,35,23,,NBA
-76,76,180331018,1997,"Tue, Mar 31",New York Knicks,San Antonio Spurs,"40-33, 25-12 Home","50-23, 23-15 Away",78,95,,,Final,,24,15,16,23,,26,31,17,21,,NBA
-77,77,180404024,1997,"Sat, Apr 4",San Antonio Spurs,Golden State Warriors,"52-23, 29-8 Home","16-59, 6-34 Away",88,80,,,Final/OT,,20,18,27,11,12.0,22,14,16,24,4.0,NBA
-78,78,180408026,1997,"Wed, Apr 8",Utah Jazz,San Antonio Spurs,"58-18, 33-5 Home","52-25, 23-16 Away",98,88,,,Final,,20,28,21,29,,23,20,18,27,,NBA
-79,79,180413024,1997,"Mon, Apr 13",San Antonio Spurs,Los Angeles Lakers,"53-26, 30-10 Home","58-21, 27-13 Away",75,99,,,Final,,22,20,17,16,,23,28,22,26,,NBA
-80,80,180417025,1997,"Fri, Apr 17",Seattle SuperSonics,San Antonio Spurs,"60-21, 35-6 Home","55-26, 25-16 Away",87,89,,,Final,,21,26,18,22,,30,19,18,22,,NBA
-81,81,180419024,1997,"Sun, Apr 19",San Antonio Spurs,Denver Nuggets,"56-26, 31-10 Home","11-72, 2-40 Away",96,82,,,Final,,25,13,26,32,,24,21,16,21,,NBA
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+171101024,1997,"November 01, 1997",San Antonio Spurs,Cleveland Cavaliers,"2-0, 1-0 Home","0-2, 0-2 Away",83,80,,,Final,,23,16,19,25,,15,23,20,22,,NBA
+171105024,1997,"November 05, 1997",San Antonio Spurs,Vancouver Grizzlies,"3-1, 2-0 Home","1-3, 0-2 Away",87,79,,,Final,,21,23,22,21,,20,17,23,19,,NBA
+171110028,1997,"November 10, 1997",Toronto Raptors,San Antonio Spurs,"1-5, 1-2 Home","5-1, 2-1 Away",98,100,,,Final,,36,22,29,11,,26,29,26,19,,NBA
+171113024,1997,"November 13, 1997",San Antonio Spurs,Los Angeles Lakers,"6-2, 3-1 Home","6-0, 3-0 Away",100,109,,,Final/OT,,24,26,28,18,4.0,28,23,20,25,13.0,NBA
+171119024,1997,"November 19, 1997",San Antonio Spurs,Golden State Warriors,"7-3, 4-2 Home","0-9, 0-6 Away",108,87,,,Final,,28,25,29,26,,20,20,23,24,,NBA
+171122026,1997,"November 22, 1997",Utah Jazz,San Antonio Spurs,"6-6, 4-2 Home","7-5, 3-3 Away",103,74,,,Final,,32,26,24,21,,12,23,18,21,,NBA
+171126024,1997,"November 26, 1997",San Antonio Spurs,Washington Wizards,"8-6, 4-3 Home","5-10, 5-6 Away",94,98,,,Final,,16,23,24,31,,25,23,27,23,,NBA
+171130001,1997,"November 30, 1997",Atlanta Hawks,San Antonio Spurs,"14-2, 9-1 Home","9-7, 4-4 Away",108,96,,,Final,,26,34,29,19,,18,27,22,29,,NBA
+171204012,1997,"December 04, 1997",Los Angeles Clippers,San Antonio Spurs,"3-14, 2-7 Home","10-8, 4-5 Away",100,96,,,Final/OT,,28,20,21,18,13.0,29,25,22,11,9.0,NBA
+171209010,1997,"December 09, 1997",Houston Rockets,San Antonio Spurs,"12-5, 7-3 Home","10-10, 4-7 Away",108,78,,,Final,,33,27,28,20,,28,14,21,15,,NBA
+171213024,1997,"December 13, 1997",San Antonio Spurs,Orlando Magic,"12-10, 8-3 Home","16-8, 9-5 Away",107,78,,,Final,,34,18,31,24,,18,18,20,22,,NBA
+171217024,1997,"December 17, 1997",San Antonio Spurs,Vancouver Grizzlies,"14-10, 9-3 Home","9-16, 2-12 Away",98,87,,,Final,,28,19,27,24,,20,32,17,18,,NBA
+171223024,1997,"December 23, 1997",San Antonio Spurs,Indiana Pacers,"16-10, 11-3 Home","17-9, 8-6 Away",91,79,,,Final,,26,14,26,25,,19,28,15,17,,NBA
+171228022,1997,"December 28, 1997",Portland Trail Blazers,San Antonio Spurs,"17-10, 9-5 Home","17-11, 5-8 Away",82,79,,,Final,,10,26,29,17,,23,22,14,20,,NBA
+180102024,1997,"January 02, 1998",San Antonio Spurs,Portland Trail Blazers,"19-11, 13-3 Home","18-11, 8-6 Away",85,69,,,Final,,26,21,25,13,,12,18,20,19,,NBA
+180105019,1997,"January 05, 1998",Orlando Magic,San Antonio Spurs,"17-16, 8-9 Home","21-11, 8-8 Away",69,74,,,Final,,21,21,16,11,,16,23,17,18,,NBA
+180109021,1997,"January 09, 1998",Phoenix Suns,San Antonio Spurs,"22-10, 13-4 Home","22-12, 8-9 Away",100,79,,,Final,,25,28,28,19,,24,21,16,18,,NBA
+180113002,1997,"January 13, 1998",Boston Celtics,San Antonio Spurs,"16-19, 11-8 Home","24-12, 9-9 Away",88,97,,,Final,,15,23,28,22,,28,21,26,22,,NBA
+180116003,1997,"January 16, 1998",Charlotte Hornets,San Antonio Spurs,"22-16, 13-5 Home","26-12, 11-9 Away",71,76,,,Final,,18,19,17,17,,21,22,16,17,,NBA
+180119017,1997,"January 19, 1998",New Jersey Nets,San Antonio Spurs,"22-17, 14-5 Home","27-13, 12-10 Away",95,84,,,Final,,21,26,22,26,,17,21,20,26,,NBA
+180123024,1997,"January 23, 1998",San Antonio Spurs,Dallas Mavericks,"29-13, 17-3 Home","7-33, 2-16 Away",81,75,,,Final,,19,24,22,16,,13,22,17,23,,NBA
+180126024,1997,"January 26, 1998",San Antonio Spurs,Houston Rockets,"30-14, 18-3 Home","19-21, 7-11 Away",115,90,,,Final,,27,25,33,30,,21,27,21,21,,NBA
+180130012,1997,"January 30, 1998",Los Angeles Clippers,San Antonio Spurs,"10-36, 6-14 Home","32-14, 13-11 Away",87,97,,,Final,,24,22,29,12,,27,17,20,33,,NBA
+180203009,1997,"February 03, 1998",Golden State Warriors,San Antonio Spurs,"8-37, 5-15 Home","34-14, 15-11 Away",96,105,,,Final,,25,35,26,10,,29,28,20,28,,NBA
+180214024,1997,"February 14, 1998",San Antonio Spurs,Phoenix Suns,"34-16, 19-5 Home","33-16, 16-9 Away",81,94,,,Final,,27,19,21,14,,25,29,16,24,,NBA
+180219006,1997,"February 19, 1998",Dallas Mavericks,San Antonio Spurs,"10-43, 7-20 Home","36-16, 16-11 Away",81,87,,,Final,,14,30,13,24,,14,24,26,23,,NBA
+180222021,1997,"February 22, 1998",Phoenix Suns,San Antonio Spurs,"37-16, 20-7 Home","36-18, 16-12 Away",97,79,,,Final,,22,24,22,29,,29,17,23,10,,NBA
+180226024,1997,"February 26, 1998",San Antonio Spurs,Toronto Raptors,"38-18, 22-6 Home","12-43, 4-22 Away",97,86,,,Final,,29,20,31,17,,27,18,19,22,,NBA
+180302023,1997,"March 02, 1998",Sacramento Kings,San Antonio Spurs,"24-36, 19-11 Home","40-18, 17-12 Away",95,116,,,Final,,18,22,26,29,,26,22,34,34,,NBA
+180306013,1997,"March 06, 1998",Los Angeles Lakers,San Antonio Spurs,"41-18, 24-7 Home","40-20, 17-14 Away",91,84,,,Final,,22,22,17,30,,23,13,24,24,,NBA
+180310024,1997,"March 10, 1998",San Antonio Spurs,New Jersey Nets,"42-20, 24-6 Home","33-30, 12-19 Away",79,78,,,Final,,22,26,13,18,,15,24,24,15,,NBA
+180314024,1997,"March 14, 1998",San Antonio Spurs,Chicago Bulls,"43-21, 25-7 Home","47-17, 18-14 Away",86,96,,,Final,,17,22,20,27,,27,13,28,28,,NBA
+180318016,1997,"March 18, 1998",Minnesota Timberwolves,San Antonio Spurs,"33-33, 20-15 Home","45-21, 19-14 Away",76,92,,,Final,,25,17,20,14,,23,24,21,24,,NBA
+180322024,1997,"March 22, 1998",San Antonio Spurs,Phoenix Suns,"46-22, 27-8 Home","45-23, 19-14 Away",93,83,,,Final,,21,21,31,20,,21,23,19,20,,NBA
+180325008,1997,"March 25, 1998",Detroit Pistons,San Antonio Spurs,"34-36, 23-13 Home","47-23, 20-15 Away",103,94,,,Final,,27,26,27,23,,29,14,24,27,,NBA
+180329011,1997,"March 29, 1998",Indiana Pacers,San Antonio Spurs,"49-22, 26-9 Home","49-23, 22-15 Away",55,74,,,Final,,14,20,12,9,,23,19,14,18,,NBA
+180402024,1997,"April 02, 1998",San Antonio Spurs,Miami Heat,"51-23, 28-8 Home","52-22, 24-13 Away",103,89,,,Final,,28,23,21,31,,25,20,19,25,,NBA
+180406024,1997,"April 06, 1998",San Antonio Spurs,Portland Trail Blazers,"52-24, 29-9 Home","42-33, 18-19 Away",75,79,,,Final,,18,22,15,20,,24,27,15,13,,NBA
+180410024,1997,"April 10, 1998",San Antonio Spurs,Seattle SuperSonics,"53-25, 30-9 Home","58-20, 25-15 Away",99,84,,,Final,,24,22,23,30,,21,30,13,20,,NBA
+180416029,1997,"April 16, 1998",Vancouver Grizzlies,San Antonio Spurs,"18-62, 14-27 Home","54-26, 24-16 Away",97,110,,,Final,,18,29,33,17,,30,28,25,27,,NBA
+171031007,1997,"October 31, 1997",Denver Nuggets,San Antonio Spurs,"0-1, 0-1 Home","1-0, 1-0 Away",96,107,,,Final,,26,24,21,25,,21,22,30,34,,NBA
+171103004,1997,"November 03, 1997",Chicago Bulls,San Antonio Spurs,"2-1, 2-0 Home","2-1, 1-1 Away",87,83,,,Final/2OT,,15,20,18,20,14.0,29,16,12,16,10.0,NBA
+171108024,1997,"November 08, 1997",San Antonio Spurs,Utah Jazz,"4-1, 3-0 Home","2-4, 1-3 Away",87,80,,,Final,,20,14,18,35,,20,15,20,25,,NBA
+171111016,1997,"November 11, 1997",Minnesota Timberwolves,San Antonio Spurs,"4-2, 2-1 Home","6-1, 3-1 Away",92,93,,,Final,,22,23,23,24,,19,19,25,30,,NBA
+171115024,1997,"November 15, 1997",San Antonio Spurs,Minnesota Timberwolves,"6-3, 3-2 Home","5-3, 3-1 Away",94,105,,,Final,,26,22,21,25,,33,28,24,20,,NBA
+171121025,1997,"November 21, 1997",Seattle SuperSonics,San Antonio Spurs,"9-3, 5-1 Home","7-4, 3-2 Away",94,74,,,Final,,36,24,18,16,,16,21,14,23,,NBA
+171125006,1997,"November 25, 1997",Dallas Mavericks,San Antonio Spurs,"3-10, 1-7 Home","8-5, 4-3 Away",91,102,,,Final,,17,23,35,16,,40,24,19,19,,NBA
+171129024,1997,"November 29, 1997",San Antonio Spurs,Dallas Mavericks,"9-6, 5-3 Home","4-11, 2-4 Away",96,87,,,Final,,21,20,31,24,,19,22,18,28,,NBA
+171202024,1997,"December 02, 1997",San Antonio Spurs,New York Knicks,"10-7, 6-3 Home","10-6, 5-5 Away",90,84,,,Final,,25,18,20,27,,21,25,23,15,,NBA
+171205013,1997,"December 05, 1997",Los Angeles Lakers,San Antonio Spurs,"15-2, 8-0 Home","10-9, 4-6 Away",98,88,,,Final,,24,21,29,24,,17,26,22,23,,NBA
+171210024,1997,"December 10, 1997",San Antonio Spurs,Los Angeles Clippers,"11-10, 7-3 Home","4-17, 2-9 Away",102,87,,,Final,,34,23,18,27,,22,23,25,17,,NBA
+171216007,1997,"December 16, 1997",Denver Nuggets,San Antonio Spurs,"2-21, 2-8 Home","13-10, 5-7 Away",85,99,,,Final,,13,16,30,26,,26,22,31,20,,NBA
+171220024,1997,"December 20, 1997",San Antonio Spurs,Houston Rockets,"15-10, 10-3 Home","14-8, 5-5 Away",100,87,,,Final,,28,27,22,23,,24,16,23,24,,NBA
+171226024,1997,"December 26, 1997",San Antonio Spurs,Boston Celtics,"17-10, 12-3 Home","13-13, 3-7 Away",101,86,,,Final,,28,21,25,27,,21,17,24,24,,NBA
+171230029,1997,"December 30, 1997",Vancouver Grizzlies,San Antonio Spurs,"10-20, 8-7 Home","18-11, 6-8 Away",115,124,,,Final,,25,16,35,39,,35,34,28,27,,NBA
+180103014,1997,"January 03, 1998",Miami Heat,San Antonio Spurs,"20-11, 12-4 Home","20-11, 7-8 Away",77,84,,,Final,,24,15,25,13,,25,20,17,22,,NBA
+180107024,1997,"January 07, 1998",San Antonio Spurs,Denver Nuggets,"22-11, 14-3 Home","2-31, 0-19 Away",96,89,,,Final,,31,17,29,19,,22,28,17,22,,NBA
+180110024,1997,"January 10, 1998",San Antonio Spurs,Sacramento Kings,"23-12, 15-3 Home","15-21, 3-14 Away",109,67,,,Final,,27,29,27,26,,27,14,12,14,,NBA
+180114027,1997,"January 14, 1998",Washington Wizards,San Antonio Spurs,"19-20, 10-8 Home","25-12, 10-9 Away",79,89,,,Final,,29,20,17,13,,24,28,19,18,,NBA
+180118015,1997,"January 18, 1998",Milwaukee Bucks,San Antonio Spurs,"18-21, 13-9 Home","27-12, 12-9 Away",92,98,,,Final/OT,,21,24,21,17,9.0,16,15,27,25,15.0,NBA
+180121024,1997,"January 21, 1998",San Antonio Spurs,Atlanta Hawks,"28-13, 16-3 Home","26-14, 12-10 Away",90,76,,,Final,,27,23,26,14,,12,18,16,30,,NBA
+180124010,1997,"January 24, 1998",Houston Rockets,San Antonio Spurs,"19-20, 12-10 Home","29-14, 12-11 Away",112,87,,,Final,,27,30,26,29,,24,22,22,19,,NBA
+180128024,1997,"January 28, 1998",San Antonio Spurs,Los Angeles Clippers,"31-14, 19-3 Home","10-35, 4-22 Away",109,86,,,Final,,27,31,25,26,,26,17,17,26,,NBA
+180201023,1997,"February 01, 1998",Sacramento Kings,San Antonio Spurs,"19-27, 16-8 Home","33-14, 14-11 Away",97,103,,,Final,,23,20,26,28,,21,28,18,36,,NBA
+180211024,1997,"February 11, 1998",San Antonio Spurs,Seattle SuperSonics,"34-15, 19-4 Home","38-11, 18-9 Away",105,106,,,Final,,29,34,31,11,,27,32,26,21,,NBA
+180217024,1997,"February 17, 1998",San Antonio Spurs,Detroit Pistons,"35-16, 20-5 Home","23-28, 7-18 Away",95,94,,,Final,,29,24,21,21,,25,27,25,17,,NBA
+180221024,1997,"February 21, 1998",San Antonio Spurs,Utah Jazz,"36-17, 20-6 Home","37-15, 13-11 Away",77,79,,,Final,,14,21,18,24,,20,23,21,15,,NBA
+180224024,1997,"February 24, 1998",San Antonio Spurs,Minnesota Timberwolves,"37-18, 21-6 Home","30-24, 12-14 Away",105,99,,,Final,,25,29,21,30,,28,18,21,32,,NBA
+180228024,1997,"February 28, 1998",San Antonio Spurs,Philadelphia 76ers,"39-18, 23-6 Home","19-37, 8-21 Away",100,88,,,Final,,26,17,26,31,,35,18,17,18,,NBA
+180304009,1997,"March 04, 1998",Golden State Warriors,San Antonio Spurs,"13-46, 9-18 Home","40-19, 17-13 Away",90,83,,,Final,,25,24,19,22,,19,37,14,13,,NBA
+180308022,1997,"March 08, 1998",Portland Trail Blazers,San Antonio Spurs,"34-25, 20-12 Home","41-20, 18-14 Away",78,82,,,Final,,20,15,25,18,,18,25,24,15,,NBA
+180312024,1997,"March 12, 1998",San Antonio Spurs,Sacramento Kings,"43-20, 25-6 Home","26-39, 6-27 Away",97,86,,,Final,,30,25,15,27,,27,19,22,18,,NBA
+180316024,1997,"March 16, 1998",San Antonio Spurs,Milwaukee Bucks,"44-21, 26-7 Home","29-35, 10-20 Away",96,85,,,Final,,18,22,30,26,,22,20,17,26,,NBA
+180320024,1997,"March 20, 1998",San Antonio Spurs,Charlotte Hornets,"45-22, 26-8 Home","43-24, 17-16 Away",82,92,,,Final,,26,17,21,18,,26,25,23,18,,NBA
+180324005,1997,"March 24, 1998",Cleveland Cavaliers,San Antonio Spurs,"37-31, 19-13 Home","47-22, 20-14 Away",85,86,,,Final,,15,18,28,24,,16,22,25,23,,NBA
+180327020,1997,"March 27, 1998",Philadelphia 76ers,San Antonio Spurs,"25-45, 15-21 Home","48-23, 21-15 Away",85,110,,,Final,,27,18,14,26,,30,22,35,23,,NBA
+180331018,1997,"March 31, 1998",New York Knicks,San Antonio Spurs,"40-33, 25-12 Home","50-23, 23-15 Away",78,95,,,Final,,24,15,16,23,,26,31,17,21,,NBA
+180404024,1997,"April 04, 1998",San Antonio Spurs,Golden State Warriors,"52-23, 29-8 Home","16-59, 6-34 Away",88,80,,,Final/OT,,20,18,27,11,12.0,22,14,16,24,4.0,NBA
+180408026,1997,"April 08, 1998",Utah Jazz,San Antonio Spurs,"58-18, 33-5 Home","52-25, 23-16 Away",98,88,,,Final,,20,28,21,29,,23,20,18,27,,NBA
+180413024,1997,"April 13, 1998",San Antonio Spurs,Los Angeles Lakers,"53-26, 30-10 Home","58-21, 27-13 Away",75,99,,,Final,,22,20,17,16,,23,28,22,26,,NBA
+180417025,1997,"April 17, 1998",Seattle SuperSonics,San Antonio Spurs,"60-21, 35-6 Home","55-26, 25-16 Away",87,89,,,Final,,21,26,18,22,,30,19,18,22,,NBA
+180419024,1997,"April 19, 1998",San Antonio Spurs,Denver Nuggets,"56-26, 31-10 Home","11-72, 2-40 Away",96,82,,,Final,,25,13,26,32,,24,21,16,21,,NBA

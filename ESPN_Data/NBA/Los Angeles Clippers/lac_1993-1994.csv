@@ -1,83 +1,83 @@
-,Unnamed: 0,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-0,0,131107007,1993,"Sun, Nov 7",Denver Nuggets,Los Angeles Clippers,"1-1, 1-0 Home","1-1, 0-1 Away",99,97,,,Final,,16,27,28,28,,28,18,21,30,,NBA
-1,1,131111012,1993,"Thu, Nov 11",Los Angeles Clippers,Detroit Pistons,"2-2, 2-1 Home","2-2, 1-1 Away",111,99,,,Final,,33,35,23,20,,22,20,26,31,,NBA
-2,2,131116013,1993,"Tue, Nov 16",Los Angeles Lakers,Los Angeles Clippers,"3-4, 3-2 Home","3-3, 0-2 Away",116,114,,,Final/2OT,,25,29,23,22,17.0,23,31,23,22,15.0,NBA
-3,3,131120010,1993,"Sat, Nov 20",Houston Rockets,Los Angeles Clippers,"9-0, 4-0 Home","4-4, 0-3 Away",108,86,,,Final,,32,28,17,31,,16,20,30,20,,NBA
-4,4,131123006,1993,"Tue, Nov 23",Dallas Mavericks,Los Angeles Clippers,"1-9, 0-5 Home","5-5, 1-4 Away",98,105,,,Final,,19,31,20,28,,24,22,24,35,,NBA
-5,5,131129012,1993,"Mon, Nov 29",Los Angeles Clippers,New Jersey Nets,"6-6, 5-2 Home","4-10, 2-6 Away",118,94,,,Final,,36,25,27,30,,19,33,24,18,,NBA
-6,6,131204012,1993,"Sat, Dec 4",Los Angeles Clippers,Los Angeles Lakers,"6-8, 5-4 Home","7-9, 3-6 Away",102,109,,,Final,,31,28,20,23,,26,30,24,29,,NBA
-7,7,131208015,1993,"Wed, Dec 8",Milwaukee Bucks,Los Angeles Clippers,"3-14, 1-7 Home","7-9, 2-5 Away",97,100,,,Final,,25,22,24,26,,23,27,23,27,,NBA
-8,8,131212023,1993,"Sun, Dec 12",Sacramento Kings,Los Angeles Clippers,"5-14, 4-5 Home","8-10, 3-6 Away",102,112,,,Final,,27,31,20,24,,33,28,26,25,,NBA
-9,9,131217012,1993,"Fri, Dec 17",Los Angeles Clippers,Minnesota Timberwolves,"9-11, 6-5 Home","8-13, 5-5 Away",90,105,,,Final,,28,20,19,23,,27,27,28,23,,NBA
-10,10,131220012,1993,"Mon, Dec 20",Los Angeles Clippers,Milwaukee Bucks,"9-13, 6-6 Home","6-18, 5-10 Away",92,105,,,Final,,23,19,24,26,,24,22,31,28,,NBA
-11,11,131223009,1993,"Thu, Dec 23",Golden State Warriors,Los Angeles Clippers,"13-11, 6-7 Home","10-14, 3-8 Away",141,95,,,Final,,35,33,37,36,,22,27,15,31,,NBA
-12,12,131229022,1993,"Wed, Dec 29",Portland Trail Blazers,Los Angeles Clippers,"17-11, 11-4 Home","11-15, 3-9 Away",114,98,,,Final,,32,33,21,28,,12,30,30,26,,NBA
-13,13,140105012,1993,"Wed, Jan 5",Los Angeles Clippers,Seattle SuperSonics,"11-17, 8-8 Home","24-3, 11-2 Away",98,106,,,Final,,26,20,25,27,,22,33,30,21,,NBA
-14,14,140108012,1993,"Sat, Jan 8",Los Angeles Clippers,Miami Heat,"11-19, 8-9 Home","16-13, 8-4 Away",90,109,,,Final,,21,24,20,25,,23,30,20,36,,NBA
-15,15,140112020,1993,"Wed, Jan 12",Philadelphia 76ers,Los Angeles Clippers,"14-19, 8-8 Home","11-21, 3-12 Away",117,98,,,Final,,22,32,35,28,,28,29,15,26,,NBA
-16,16,140115027,1993,"Sat, Jan 15",Washington Bullets,Los Angeles Clippers,"12-22, 8-9 Home","12-22, 4-13 Away",118,109,,,Final,,30,28,29,31,,27,32,27,23,,NBA
-17,17,140119019,1993,"Wed, Jan 19",Orlando Magic,Los Angeles Clippers,"21-16, 13-5 Home","13-23, 5-14 Away",108,96,,,Final,,26,34,22,26,,25,24,26,21,,NBA
-18,18,140125025,1993,"Tue, Jan 25",Seattle SuperSonics,Los Angeles Clippers,"30-8, 17-2 Home","14-24, 6-14 Away",103,111,,,Final,,29,28,27,19,,34,27,25,25,,NBA
-19,19,140129012,1993,"Sat, Jan 29",Los Angeles Clippers,Minnesota Timberwolves,"15-25, 9-11 Home","14-27, 6-14 Away",103,93,,,Final,,24,31,28,20,,19,25,24,25,,NBA
-20,20,140201021,1993,"Tue, Feb 1",Phoenix Suns,Los Angeles Clippers,"29-13, 18-3 Home","15-27, 6-15 Away",108,106,,,Final,,32,28,27,21,,25,28,34,19,,NBA
-21,21,140208012,1993,"Tue, Feb 8",Los Angeles Clippers,Chicago Bulls,"16-28, 10-13 Home","33-13, 15-11 Away",89,118,,,Final,,25,29,18,17,,33,25,31,29,,NBA
-22,22,140215013,1993,"Tue, Feb 15",Los Angeles Lakers,Los Angeles Clippers,"18-30, 10-13 Home","17-29, 7-16 Away",89,100,,,Final,,24,25,21,19,,27,22,24,27,,NBA
-23,23,140218012,1993,"Fri, Feb 18",Los Angeles Clippers,Atlanta Hawks,"17-31, 10-15 Home","35-15, 13-12 Away",91,97,,,Final,,20,22,25,24,,24,29,22,22,,NBA
-24,24,140222022,1993,"Tue, Feb 22",Portland Trail Blazers,Los Angeles Clippers,"31-21, 22-6 Home","17-33, 7-18 Away",120,117,,,Final,,31,38,25,26,,29,26,26,36,,NBA
-25,25,140225012,1993,"Fri, Feb 25",Los Angeles Clippers,Sacramento Kings,"18-34, 11-16 Home","19-35, 4-23 Away",121,111,,,Final,,36,30,30,25,,31,27,33,20,,NBA
-26,26,140301009,1993,"Tue, Mar 1",Golden State Warriors,Los Angeles Clippers,"32-23, 17-10 Home","18-36, 7-19 Away",114,109,,,Final,,24,35,16,39,,23,38,28,20,,NBA
-27,27,140304024,1993,"Fri, Mar 4",San Antonio Spurs,Los Angeles Clippers,"41-17, 24-5 Home","19-37, 7-20 Away",121,113,,,Final,,34,33,28,26,,20,35,38,20,,NBA
-28,28,140308006,1993,"Tue, Mar 8",Dallas Mavericks,Los Angeles Clippers,"8-52, 3-27 Home","20-38, 8-21 Away",110,116,,,Final,,24,33,25,28,,38,26,25,27,,NBA
-29,29,140313012,1993,"Sun, Mar 13",Los Angeles Clippers,Golden State Warriors,"22-38, 14-17 Home","35-26, 15-16 Away",120,117,,,Final/OT,,30,30,33,17,10.0,29,36,27,18,7.0,NBA
-30,30,140317012,1993,"Thu, Mar 17",Los Angeles Clippers,Denver Nuggets,"23-39, 15-18 Home","31-31, 9-23 Away",99,102,,,Final,,22,28,25,24,,23,25,28,26,,NBA
-31,31,140322017,1993,"Tue, Mar 22",New Jersey Nets,Los Angeles Clippers,"34-31, 22-10 Home","24-40, 8-22 Away",105,102,,,Final,,31,20,25,29,,24,25,30,23,,NBA
-32,32,140325001,1993,"Fri, Mar 25",Atlanta Hawks,Los Angeles Clippers,"47-20, 29-5 Home","25-41, 9-23 Away",94,97,,,Final,,22,31,21,20,,21,24,22,30,,NBA
-33,33,140328011,1993,"Mon, Mar 28",Indiana Pacers,Los Angeles Clippers,"36-32, 23-11 Home","25-43, 9-25 Away",126,93,,,Final,,34,32,25,35,,20,25,32,16,,NBA
-34,34,140331012,1993,"Thu, Mar 31",Los Angeles Clippers,Phoenix Suns,"25-45, 16-19 Home","46-23, 17-18 Away",102,117,,,Final,,24,24,27,27,,24,35,30,28,,NBA
-35,35,140405007,1993,"Tue, Apr 5",Denver Nuggets,Los Angeles Clippers,"35-36, 26-10 Home","26-46, 10-26 Away",91,92,,,Final,,24,15,22,30,,15,35,25,17,,NBA
-36,36,140409026,1993,"Sat, Apr 9",Utah Jazz,Los Angeles Clippers,"47-28, 30-8 Home","26-48, 10-28 Away",128,104,,,Final,,33,24,35,36,,29,25,23,27,,NBA
-37,37,140412012,1993,"Tue, Apr 12",Los Angeles Clippers,Seattle SuperSonics,"26-50, 16-21 Home","58-18, 24-14 Away",101,116,,,Final,,25,25,29,22,,39,22,23,32,,NBA
-38,38,140416012,1993,"Sat, Apr 16",Los Angeles Clippers,Los Angeles Lakers,"27-51, 17-21 Home","33-45, 12-27 Away",108,103,,,Final,,35,25,26,22,,30,29,11,33,,NBA
-39,39,140420012,1993,"Wed, Apr 20",Los Angeles Clippers,Denver Nuggets,"27-53, 17-23 Home","41-39, 13-27 Away",85,100,,,Final,,24,28,24,9,,24,19,23,34,,NBA
-40,40,131105012,1993,"Fri, Nov 5",Los Angeles Clippers,Portland Trail Blazers,"1-0, 1-0 Home","0-1, 0-1 Away",97,95,,,Final,,31,18,20,28,,21,25,26,23,,NBA
-41,41,131109012,1993,"Tue, Nov 9",Los Angeles Clippers,Phoenix Suns,"1-2, 1-1 Home","2-1, 1-1 Away",99,114,,,Final,,20,37,21,21,,32,22,38,22,,NBA
-42,42,131113012,1993,"Sat, Nov 13",Los Angeles Clippers,San Antonio Spurs,"3-2, 3-1 Home","2-4, 0-3 Away",92,90,,,Final,,26,24,21,21,,24,30,24,12,,NBA
-43,43,131118012,1993,"Thu, Nov 18",Los Angeles Clippers,Dallas Mavericks,"4-3, 4-1 Home","1-6, 1-2 Away",88,84,,,Final,,23,22,26,17,,17,22,28,17,,NBA
-44,44,131122024,1993,"Mon, Nov 22",San Antonio Spurs,Los Angeles Clippers,"6-5, 4-1 Home","4-5, 0-4 Away",110,98,,,Final,,27,33,27,23,,17,23,35,23,,NBA
-45,45,131127012,1993,"Sat, Nov 27",Los Angeles Clippers,Houston Rockets,"5-6, 4-2 Home","13-0, 8-0 Away",80,82,,,Final,,10,25,24,21,,30,18,16,18,,NBA
-46,46,131201012,1993,"Wed, Dec 1",Los Angeles Clippers,Indiana Pacers,"6-7, 5-3 Home","5-8, 4-2 Away",100,120,,,Final,,28,24,29,19,,21,37,25,37,,NBA
-47,47,131207004,1993,"Tue, Dec 7",Chicago Bulls,Los Angeles Clippers,"8-7, 3-2 Home","6-9, 1-5 Away",115,111,,,Final,,32,27,21,35,,23,39,23,26,,NBA
-48,48,131210016,1993,"Fri, Dec 10",Minnesota Timberwolves,Los Angeles Clippers,"7-10, 3-6 Home","7-10, 2-6 Away",109,108,,,Final,,31,32,16,30,,31,21,28,28,,NBA
-49,49,131215012,1993,"Wed, Dec 15",Los Angeles Clippers,Orlando Magic,"9-10, 6-4 Home","11-9, 4-7 Away",110,109,,,Final,,21,31,24,34,,33,22,24,30,,NBA
-50,50,131218021,1993,"Sat, Dec 18",Phoenix Suns,Los Angeles Clippers,"16-4, 10-1 Home","9-12, 3-7 Away",116,109,,,Final,,26,26,36,28,,24,35,22,28,,NBA
-51,51,131222012,1993,"Wed, Dec 22",Los Angeles Clippers,Washington Bullets,"10-13, 7-6 Home","7-17, 2-10 Away",109,92,,,Final,,26,28,31,24,,23,23,18,28,,NBA
-52,52,131227012,1993,"Mon, Dec 27",Los Angeles Clippers,Philadelphia 76ers,"11-14, 8-6 Home","9-16, 3-8 Away",96,86,,,Final,,27,25,21,23,,23,31,19,13,,NBA
-53,53,131230012,1993,"Thu, Dec 30",Los Angeles Clippers,Boston Celtics,"11-16, 8-7 Home","12-17, 5-10 Away",111,119,,,Final,,26,30,23,32,,29,29,26,35,,NBA
-54,54,140107013,1993,"Fri, Jan 7",Los Angeles Lakers,Los Angeles Clippers,"11-21, 5-8 Home","11-18, 3-10 Away",111,108,,,Final,,24,18,34,35,,20,33,31,24,,NBA
-55,55,140111018,1993,"Tue, Jan 11",New York Knicks,Los Angeles Clippers,"22-9, 14-4 Home","11-20, 3-11 Away",98,77,,,Final,,23,21,29,25,,18,26,15,18,,NBA
-56,56,140114002,1993,"Fri, Jan 14",Boston Celtics,Los Angeles Clippers,"13-23, 7-11 Home","12-21, 4-12 Away",95,102,,,Final,,24,26,25,20,,25,28,22,27,,NBA
-57,57,140118014,1993,"Tue, Jan 18",Miami Heat,Los Angeles Clippers,"16-18, 8-10 Home","13-22, 5-13 Away",124,126,,,Final,,41,28,29,26,,25,28,32,41,,NBA
-58,58,140121012,1993,"Fri, Jan 21",Los Angeles Clippers,Cleveland Cavaliers,"13-24, 8-10 Home","18-19, 5-13 Away",90,106,,,Final,,23,26,20,21,,32,22,24,28,,NBA
-59,59,140127012,1993,"Thu, Jan 27",Los Angeles Clippers,New York Knicks,"14-25, 8-11 Home","28-11, 10-6 Away",101,103,,,Final,,30,27,24,20,,25,23,27,28,,NBA
-60,60,140131012,1993,"Mon, Jan 31",Los Angeles Clippers,Golden State Warriors,"15-26, 9-12 Home","23-18, 11-9 Away",96,110,,,Final,,25,21,23,27,,38,25,20,27,,NBA
-61,61,140205012,1993,"Sat, Feb 5",Los Angeles Clippers,Sacramento Kings,"16-27, 10-12 Home","13-31, 3-19 Away",122,110,,,Final,,33,25,35,29,,33,29,26,22,,NBA
-62,62,140209023,1993,"Wed, Feb 9",Sacramento Kings,Los Angeles Clippers,"14-32, 11-12 Home","16-29, 6-16 Away",105,95,,,Final,,26,29,25,25,,31,22,19,23,,NBA
-63,63,140216012,1993,"Wed, Feb 16",Los Angeles Clippers,Utah Jazz,"17-30, 10-14 Home","32-18, 13-12 Away",99,103,,,Final,,28,24,22,25,,24,13,34,32,,NBA
-64,64,140219026,1993,"Sat, Feb 19",Utah Jazz,Los Angeles Clippers,"33-19, 20-6 Home","17-32, 7-17 Away",100,93,,,Final,,28,26,23,23,,26,21,24,22,,NBA
-65,65,140223012,1993,"Wed, Feb 23",Los Angeles Clippers,Portland Trail Blazers,"17-34, 10-16 Home","32-21, 10-15 Away",112,121,,,Final,,30,22,29,31,,24,32,29,36,,NBA
-66,66,140227012,1993,"Sun, Feb 27",Los Angeles Clippers,Seattle SuperSonics,"18-35, 11-17 Home","39-14, 18-11 Away",118,122,,,Final,,36,35,26,21,,35,31,32,24,,NBA
-67,67,140302012,1993,"Wed, Mar 2",Los Angeles Clippers,Charlotte Hornets,"19-36, 12-17 Home","23-32, 7-21 Away",118,109,,,Final,,31,35,26,26,,26,28,33,22,,NBA
-68,68,140305010,1993,"Sat, Mar 5",Houston Rockets,Los Angeles Clippers,"40-15, 23-4 Home","19-38, 7-21 Away",124,107,,,Final,,30,28,37,29,,25,27,23,32,,NBA
-69,69,140311012,1993,"Fri, Mar 11",Los Angeles Clippers,Dallas Mavericks,"21-38, 13-17 Home","8-54, 5-27 Away",106,96,,,Final,,21,24,32,29,,30,20,16,30,,NBA
-70,70,140315012,1993,"Tue, Mar 15",Los Angeles Clippers,Utah Jazz,"23-38, 15-17 Home","43-21, 17-15 Away",108,105,,,Final,,21,28,29,30,,35,26,21,23,,NBA
-71,71,140320012,1993,"Sun, Mar 20",Los Angeles Clippers,Portland Trail Blazers,"24-39, 16-18 Home","39-27, 12-21 Away",114,110,,,Final,,31,21,36,26,,27,27,28,28,,NBA
-72,72,140323008,1993,"Wed, Mar 23",Detroit Pistons,Los Angeles Clippers,"19-47, 10-25 Home","24-41, 8-23 Away",111,107,,,Final,,30,31,21,29,,40,29,23,15,,NBA
-73,73,140326003,1993,"Sat, Mar 26",Charlotte Hornets,Los Angeles Clippers,"31-36, 22-12 Home","25-42, 9-24 Away",121,109,,,Final,,36,34,18,33,,35,21,22,31,,NBA
-74,74,140329005,1993,"Tue, Mar 29",Cleveland Cavaliers,Los Angeles Clippers,"40-30, 26-10 Home","25-44, 9-26 Away",106,96,,,Final,,28,24,30,24,,34,22,16,24,,NBA
-75,75,140403012,1993,"Sun, Apr 3",Los Angeles Clippers,Houston Rockets,"25-46, 16-20 Home","51-20, 21-15 Away",98,106,,,Final,,18,18,30,32,,25,31,24,26,,NBA
-76,76,140406016,1993,"Wed, Apr 6",Minnesota Timberwolves,Los Angeles Clippers,"20-52, 13-24 Home","26-47, 10-27 Away",110,100,,,Final,,24,24,26,36,,29,16,29,26,,NBA
-77,77,140411023,1993,"Mon, Apr 11",Sacramento Kings,Los Angeles Clippers,"26-49, 19-20 Home","26-49, 10-29 Away",118,97,,,Final,,33,32,21,32,,20,25,22,30,,NBA
-78,78,140414025,1993,"Thu, Apr 14",Seattle SuperSonics,Los Angeles Clippers,"59-18, 35-4 Home","26-51, 10-30 Away",150,101,,,Final,,40,38,41,31,,15,27,35,24,,NBA
-79,79,140418012,1993,"Mon, Apr 18",Los Angeles Clippers,Golden State Warriors,"27-52, 17-22 Home","48-31, 21-19 Away",131,134,,,Final/OT,,35,29,24,33,10.0,27,32,34,28,13.0,NBA
-80,80,140422021,1993,"Fri, Apr 22",Phoenix Suns,Los Angeles Clippers,"55-26, 35-5 Home","27-54, 10-31 Away",127,121,,,Final,,30,43,31,23,,27,37,26,31,,NBA
-81,81,140424012,1993,"Sun, Apr 24",Los Angeles Clippers,San Antonio Spurs,"27-55, 17-24 Home","55-27, 23-18 Away",97,112,,,Final,,19,16,32,30,,20,17,32,43,,NBA
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+131107007,1993,"November 07, 1993",Denver Nuggets,Los Angeles Clippers,"1-1, 1-0 Home","1-1, 0-1 Away",99,97,,,Final,,16,27,28,28,,28,18,21,30,,NBA
+131111012,1993,"November 11, 1993",Los Angeles Clippers,Detroit Pistons,"2-2, 2-1 Home","2-2, 1-1 Away",111,99,,,Final,,33,35,23,20,,22,20,26,31,,NBA
+131116013,1993,"November 16, 1993",Los Angeles Lakers,Los Angeles Clippers,"3-4, 3-2 Home","3-3, 0-2 Away",116,114,,,Final/2OT,,25,29,23,22,17.0,23,31,23,22,15.0,NBA
+131120010,1993,"November 20, 1993",Houston Rockets,Los Angeles Clippers,"9-0, 4-0 Home","4-4, 0-3 Away",108,86,,,Final,,32,28,17,31,,16,20,30,20,,NBA
+131123006,1993,"November 23, 1993",Dallas Mavericks,Los Angeles Clippers,"1-9, 0-5 Home","5-5, 1-4 Away",98,105,,,Final,,19,31,20,28,,24,22,24,35,,NBA
+131129012,1993,"November 29, 1993",Los Angeles Clippers,New Jersey Nets,"6-6, 5-2 Home","4-10, 2-6 Away",118,94,,,Final,,36,25,27,30,,19,33,24,18,,NBA
+131204012,1993,"December 04, 1993",Los Angeles Clippers,Los Angeles Lakers,"6-8, 5-4 Home","7-9, 3-6 Away",102,109,,,Final,,31,28,20,23,,26,30,24,29,,NBA
+131208015,1993,"December 08, 1993",Milwaukee Bucks,Los Angeles Clippers,"3-14, 1-7 Home","7-9, 2-5 Away",97,100,,,Final,,25,22,24,26,,23,27,23,27,,NBA
+131212023,1993,"December 12, 1993",Sacramento Kings,Los Angeles Clippers,"5-14, 4-5 Home","8-10, 3-6 Away",102,112,,,Final,,27,31,20,24,,33,28,26,25,,NBA
+131217012,1993,"December 17, 1993",Los Angeles Clippers,Minnesota Timberwolves,"9-11, 6-5 Home","8-13, 5-5 Away",90,105,,,Final,,28,20,19,23,,27,27,28,23,,NBA
+131220012,1993,"December 20, 1993",Los Angeles Clippers,Milwaukee Bucks,"9-13, 6-6 Home","6-18, 5-10 Away",92,105,,,Final,,23,19,24,26,,24,22,31,28,,NBA
+131223009,1993,"December 23, 1993",Golden State Warriors,Los Angeles Clippers,"13-11, 6-7 Home","10-14, 3-8 Away",141,95,,,Final,,35,33,37,36,,22,27,15,31,,NBA
+131229022,1993,"December 29, 1993",Portland Trail Blazers,Los Angeles Clippers,"17-11, 11-4 Home","11-15, 3-9 Away",114,98,,,Final,,32,33,21,28,,12,30,30,26,,NBA
+140105012,1993,"January 05, 1994",Los Angeles Clippers,Seattle SuperSonics,"11-17, 8-8 Home","24-3, 11-2 Away",98,106,,,Final,,26,20,25,27,,22,33,30,21,,NBA
+140108012,1993,"January 08, 1994",Los Angeles Clippers,Miami Heat,"11-19, 8-9 Home","16-13, 8-4 Away",90,109,,,Final,,21,24,20,25,,23,30,20,36,,NBA
+140112020,1993,"January 12, 1994",Philadelphia 76ers,Los Angeles Clippers,"14-19, 8-8 Home","11-21, 3-12 Away",117,98,,,Final,,22,32,35,28,,28,29,15,26,,NBA
+140115027,1993,"January 15, 1994",Washington Bullets,Los Angeles Clippers,"12-22, 8-9 Home","12-22, 4-13 Away",118,109,,,Final,,30,28,29,31,,27,32,27,23,,NBA
+140119019,1993,"January 19, 1994",Orlando Magic,Los Angeles Clippers,"21-16, 13-5 Home","13-23, 5-14 Away",108,96,,,Final,,26,34,22,26,,25,24,26,21,,NBA
+140125025,1993,"January 25, 1994",Seattle SuperSonics,Los Angeles Clippers,"30-8, 17-2 Home","14-24, 6-14 Away",103,111,,,Final,,29,28,27,19,,34,27,25,25,,NBA
+140129012,1993,"January 29, 1994",Los Angeles Clippers,Minnesota Timberwolves,"15-25, 9-11 Home","14-27, 6-14 Away",103,93,,,Final,,24,31,28,20,,19,25,24,25,,NBA
+140201021,1993,"February 01, 1994",Phoenix Suns,Los Angeles Clippers,"29-13, 18-3 Home","15-27, 6-15 Away",108,106,,,Final,,32,28,27,21,,25,28,34,19,,NBA
+140208012,1993,"February 08, 1994",Los Angeles Clippers,Chicago Bulls,"16-28, 10-13 Home","33-13, 15-11 Away",89,118,,,Final,,25,29,18,17,,33,25,31,29,,NBA
+140215013,1993,"February 15, 1994",Los Angeles Lakers,Los Angeles Clippers,"18-30, 10-13 Home","17-29, 7-16 Away",89,100,,,Final,,24,25,21,19,,27,22,24,27,,NBA
+140218012,1993,"February 18, 1994",Los Angeles Clippers,Atlanta Hawks,"17-31, 10-15 Home","35-15, 13-12 Away",91,97,,,Final,,20,22,25,24,,24,29,22,22,,NBA
+140222022,1993,"February 22, 1994",Portland Trail Blazers,Los Angeles Clippers,"31-21, 22-6 Home","17-33, 7-18 Away",120,117,,,Final,,31,38,25,26,,29,26,26,36,,NBA
+140225012,1993,"February 25, 1994",Los Angeles Clippers,Sacramento Kings,"18-34, 11-16 Home","19-35, 4-23 Away",121,111,,,Final,,36,30,30,25,,31,27,33,20,,NBA
+140301009,1993,"March 01, 1994",Golden State Warriors,Los Angeles Clippers,"32-23, 17-10 Home","18-36, 7-19 Away",114,109,,,Final,,24,35,16,39,,23,38,28,20,,NBA
+140304024,1993,"March 04, 1994",San Antonio Spurs,Los Angeles Clippers,"41-17, 24-5 Home","19-37, 7-20 Away",121,113,,,Final,,34,33,28,26,,20,35,38,20,,NBA
+140308006,1993,"March 08, 1994",Dallas Mavericks,Los Angeles Clippers,"8-52, 3-27 Home","20-38, 8-21 Away",110,116,,,Final,,24,33,25,28,,38,26,25,27,,NBA
+140313012,1993,"March 13, 1994",Los Angeles Clippers,Golden State Warriors,"22-38, 14-17 Home","35-26, 15-16 Away",120,117,,,Final/OT,,30,30,33,17,10.0,29,36,27,18,7.0,NBA
+140317012,1993,"March 17, 1994",Los Angeles Clippers,Denver Nuggets,"23-39, 15-18 Home","31-31, 9-23 Away",99,102,,,Final,,22,28,25,24,,23,25,28,26,,NBA
+140322017,1993,"March 22, 1994",New Jersey Nets,Los Angeles Clippers,"34-31, 22-10 Home","24-40, 8-22 Away",105,102,,,Final,,31,20,25,29,,24,25,30,23,,NBA
+140325001,1993,"March 25, 1994",Atlanta Hawks,Los Angeles Clippers,"47-20, 29-5 Home","25-41, 9-23 Away",94,97,,,Final,,22,31,21,20,,21,24,22,30,,NBA
+140328011,1993,"March 28, 1994",Indiana Pacers,Los Angeles Clippers,"36-32, 23-11 Home","25-43, 9-25 Away",126,93,,,Final,,34,32,25,35,,20,25,32,16,,NBA
+140331012,1993,"March 31, 1994",Los Angeles Clippers,Phoenix Suns,"25-45, 16-19 Home","46-23, 17-18 Away",102,117,,,Final,,24,24,27,27,,24,35,30,28,,NBA
+140405007,1993,"April 05, 1994",Denver Nuggets,Los Angeles Clippers,"35-36, 26-10 Home","26-46, 10-26 Away",91,92,,,Final,,24,15,22,30,,15,35,25,17,,NBA
+140409026,1993,"April 09, 1994",Utah Jazz,Los Angeles Clippers,"47-28, 30-8 Home","26-48, 10-28 Away",128,104,,,Final,,33,24,35,36,,29,25,23,27,,NBA
+140412012,1993,"April 12, 1994",Los Angeles Clippers,Seattle SuperSonics,"26-50, 16-21 Home","58-18, 24-14 Away",101,116,,,Final,,25,25,29,22,,39,22,23,32,,NBA
+140416012,1993,"April 16, 1994",Los Angeles Clippers,Los Angeles Lakers,"27-51, 17-21 Home","33-45, 12-27 Away",108,103,,,Final,,35,25,26,22,,30,29,11,33,,NBA
+140420012,1993,"April 20, 1994",Los Angeles Clippers,Denver Nuggets,"27-53, 17-23 Home","41-39, 13-27 Away",85,100,,,Final,,24,28,24,9,,24,19,23,34,,NBA
+131105012,1993,"November 05, 1993",Los Angeles Clippers,Portland Trail Blazers,"1-0, 1-0 Home","0-1, 0-1 Away",97,95,,,Final,,31,18,20,28,,21,25,26,23,,NBA
+131109012,1993,"November 09, 1993",Los Angeles Clippers,Phoenix Suns,"1-2, 1-1 Home","2-1, 1-1 Away",99,114,,,Final,,20,37,21,21,,32,22,38,22,,NBA
+131113012,1993,"November 13, 1993",Los Angeles Clippers,San Antonio Spurs,"3-2, 3-1 Home","2-4, 0-3 Away",92,90,,,Final,,26,24,21,21,,24,30,24,12,,NBA
+131118012,1993,"November 18, 1993",Los Angeles Clippers,Dallas Mavericks,"4-3, 4-1 Home","1-6, 1-2 Away",88,84,,,Final,,23,22,26,17,,17,22,28,17,,NBA
+131122024,1993,"November 22, 1993",San Antonio Spurs,Los Angeles Clippers,"6-5, 4-1 Home","4-5, 0-4 Away",110,98,,,Final,,27,33,27,23,,17,23,35,23,,NBA
+131127012,1993,"November 27, 1993",Los Angeles Clippers,Houston Rockets,"5-6, 4-2 Home","13-0, 8-0 Away",80,82,,,Final,,10,25,24,21,,30,18,16,18,,NBA
+131201012,1993,"December 01, 1993",Los Angeles Clippers,Indiana Pacers,"6-7, 5-3 Home","5-8, 4-2 Away",100,120,,,Final,,28,24,29,19,,21,37,25,37,,NBA
+131207004,1993,"December 07, 1993",Chicago Bulls,Los Angeles Clippers,"8-7, 3-2 Home","6-9, 1-5 Away",115,111,,,Final,,32,27,21,35,,23,39,23,26,,NBA
+131210016,1993,"December 10, 1993",Minnesota Timberwolves,Los Angeles Clippers,"7-10, 3-6 Home","7-10, 2-6 Away",109,108,,,Final,,31,32,16,30,,31,21,28,28,,NBA
+131215012,1993,"December 15, 1993",Los Angeles Clippers,Orlando Magic,"9-10, 6-4 Home","11-9, 4-7 Away",110,109,,,Final,,21,31,24,34,,33,22,24,30,,NBA
+131218021,1993,"December 18, 1993",Phoenix Suns,Los Angeles Clippers,"16-4, 10-1 Home","9-12, 3-7 Away",116,109,,,Final,,26,26,36,28,,24,35,22,28,,NBA
+131222012,1993,"December 22, 1993",Los Angeles Clippers,Washington Bullets,"10-13, 7-6 Home","7-17, 2-10 Away",109,92,,,Final,,26,28,31,24,,23,23,18,28,,NBA
+131227012,1993,"December 27, 1993",Los Angeles Clippers,Philadelphia 76ers,"11-14, 8-6 Home","9-16, 3-8 Away",96,86,,,Final,,27,25,21,23,,23,31,19,13,,NBA
+131230012,1993,"December 30, 1993",Los Angeles Clippers,Boston Celtics,"11-16, 8-7 Home","12-17, 5-10 Away",111,119,,,Final,,26,30,23,32,,29,29,26,35,,NBA
+140107013,1993,"January 07, 1994",Los Angeles Lakers,Los Angeles Clippers,"11-21, 5-8 Home","11-18, 3-10 Away",111,108,,,Final,,24,18,34,35,,20,33,31,24,,NBA
+140111018,1993,"January 11, 1994",New York Knicks,Los Angeles Clippers,"22-9, 14-4 Home","11-20, 3-11 Away",98,77,,,Final,,23,21,29,25,,18,26,15,18,,NBA
+140114002,1993,"January 14, 1994",Boston Celtics,Los Angeles Clippers,"13-23, 7-11 Home","12-21, 4-12 Away",95,102,,,Final,,24,26,25,20,,25,28,22,27,,NBA
+140118014,1993,"January 18, 1994",Miami Heat,Los Angeles Clippers,"16-18, 8-10 Home","13-22, 5-13 Away",124,126,,,Final,,41,28,29,26,,25,28,32,41,,NBA
+140121012,1993,"January 21, 1994",Los Angeles Clippers,Cleveland Cavaliers,"13-24, 8-10 Home","18-19, 5-13 Away",90,106,,,Final,,23,26,20,21,,32,22,24,28,,NBA
+140127012,1993,"January 27, 1994",Los Angeles Clippers,New York Knicks,"14-25, 8-11 Home","28-11, 10-6 Away",101,103,,,Final,,30,27,24,20,,25,23,27,28,,NBA
+140131012,1993,"January 31, 1994",Los Angeles Clippers,Golden State Warriors,"15-26, 9-12 Home","23-18, 11-9 Away",96,110,,,Final,,25,21,23,27,,38,25,20,27,,NBA
+140205012,1993,"February 05, 1994",Los Angeles Clippers,Sacramento Kings,"16-27, 10-12 Home","13-31, 3-19 Away",122,110,,,Final,,33,25,35,29,,33,29,26,22,,NBA
+140209023,1993,"February 09, 1994",Sacramento Kings,Los Angeles Clippers,"14-32, 11-12 Home","16-29, 6-16 Away",105,95,,,Final,,26,29,25,25,,31,22,19,23,,NBA
+140216012,1993,"February 16, 1994",Los Angeles Clippers,Utah Jazz,"17-30, 10-14 Home","32-18, 13-12 Away",99,103,,,Final,,28,24,22,25,,24,13,34,32,,NBA
+140219026,1993,"February 19, 1994",Utah Jazz,Los Angeles Clippers,"33-19, 20-6 Home","17-32, 7-17 Away",100,93,,,Final,,28,26,23,23,,26,21,24,22,,NBA
+140223012,1993,"February 23, 1994",Los Angeles Clippers,Portland Trail Blazers,"17-34, 10-16 Home","32-21, 10-15 Away",112,121,,,Final,,30,22,29,31,,24,32,29,36,,NBA
+140227012,1993,"February 27, 1994",Los Angeles Clippers,Seattle SuperSonics,"18-35, 11-17 Home","39-14, 18-11 Away",118,122,,,Final,,36,35,26,21,,35,31,32,24,,NBA
+140302012,1993,"March 02, 1994",Los Angeles Clippers,Charlotte Hornets,"19-36, 12-17 Home","23-32, 7-21 Away",118,109,,,Final,,31,35,26,26,,26,28,33,22,,NBA
+140305010,1993,"March 05, 1994",Houston Rockets,Los Angeles Clippers,"40-15, 23-4 Home","19-38, 7-21 Away",124,107,,,Final,,30,28,37,29,,25,27,23,32,,NBA
+140311012,1993,"March 11, 1994",Los Angeles Clippers,Dallas Mavericks,"21-38, 13-17 Home","8-54, 5-27 Away",106,96,,,Final,,21,24,32,29,,30,20,16,30,,NBA
+140315012,1993,"March 15, 1994",Los Angeles Clippers,Utah Jazz,"23-38, 15-17 Home","43-21, 17-15 Away",108,105,,,Final,,21,28,29,30,,35,26,21,23,,NBA
+140320012,1993,"March 20, 1994",Los Angeles Clippers,Portland Trail Blazers,"24-39, 16-18 Home","39-27, 12-21 Away",114,110,,,Final,,31,21,36,26,,27,27,28,28,,NBA
+140323008,1993,"March 23, 1994",Detroit Pistons,Los Angeles Clippers,"19-47, 10-25 Home","24-41, 8-23 Away",111,107,,,Final,,30,31,21,29,,40,29,23,15,,NBA
+140326003,1993,"March 26, 1994",Charlotte Hornets,Los Angeles Clippers,"31-36, 22-12 Home","25-42, 9-24 Away",121,109,,,Final,,36,34,18,33,,35,21,22,31,,NBA
+140329005,1993,"March 29, 1994",Cleveland Cavaliers,Los Angeles Clippers,"40-30, 26-10 Home","25-44, 9-26 Away",106,96,,,Final,,28,24,30,24,,34,22,16,24,,NBA
+140403012,1993,"April 03, 1994",Los Angeles Clippers,Houston Rockets,"25-46, 16-20 Home","51-20, 21-15 Away",98,106,,,Final,,18,18,30,32,,25,31,24,26,,NBA
+140406016,1993,"April 06, 1994",Minnesota Timberwolves,Los Angeles Clippers,"20-52, 13-24 Home","26-47, 10-27 Away",110,100,,,Final,,24,24,26,36,,29,16,29,26,,NBA
+140411023,1993,"April 11, 1994",Sacramento Kings,Los Angeles Clippers,"26-49, 19-20 Home","26-49, 10-29 Away",118,97,,,Final,,33,32,21,32,,20,25,22,30,,NBA
+140414025,1993,"April 14, 1994",Seattle SuperSonics,Los Angeles Clippers,"59-18, 35-4 Home","26-51, 10-30 Away",150,101,,,Final,,40,38,41,31,,15,27,35,24,,NBA
+140418012,1993,"April 18, 1994",Los Angeles Clippers,Golden State Warriors,"27-52, 17-22 Home","48-31, 21-19 Away",131,134,,,Final/OT,,35,29,24,33,10.0,27,32,34,28,13.0,NBA
+140422021,1993,"April 22, 1994",Phoenix Suns,Los Angeles Clippers,"55-26, 35-5 Home","27-54, 10-31 Away",127,121,,,Final,,30,43,31,23,,27,37,26,31,,NBA
+140424012,1993,"April 24, 1994",Los Angeles Clippers,San Antonio Spurs,"27-55, 17-24 Home","55-27, 23-18 Away",97,112,,,Final,,19,16,32,30,,20,17,32,43,,NBA

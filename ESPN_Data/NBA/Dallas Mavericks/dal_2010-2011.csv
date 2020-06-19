@@ -1,83 +1,83 @@
-,Unnamed: 0,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-0,0,301029006,2010,"Fri, Oct 29",Dallas Mavericks,Memphis Grizzlies,"1-1, 1-1 Home","1-1, 1-0 Away",90,91,,,Final,,29,21,25,15,,24,17,28,22,,NBA
-1,1,301103007,2010,"Wed, Nov 3",Denver Nuggets,Dallas Mavericks,"2-2, 1-1 Home","3-1, 2-0 Away",101,102,,,Final,TNT,27,25,28,21,,23,27,34,18,,NBA
-2,2,301108006,2010,"Mon, Nov 8",Dallas Mavericks,Boston Celtics,"4-2, 2-2 Home","6-2, 2-2 Away",89,87,,,Final,,23,27,20,19,,19,21,29,18,,NBA
-3,3,301112006,2010,"Fri, Nov 12",Dallas Mavericks,Philadelphia 76ers,"6-2, 3-2 Home","2-7, 1-4 Away",99,90,,,Final,CSN,31,24,23,21,,22,26,27,15,,NBA
-4,4,301117003,2010,"Wed, Nov 17",New Orleans Hornets,Dallas Mavericks,"9-1, 6-0 Home","7-3, 3-1 Away",99,97,,,Final,,23,19,33,24,,31,21,17,28,,NBA
-5,5,301120001,2010,"Sat, Nov 20",Atlanta Hawks,Dallas Mavericks,"8-5, 3-4 Home","8-4, 4-1 Away",93,98,,,Final,NBATV,25,18,25,25,,28,27,22,21,,NBA
-6,6,301124025,2010,"Wed, Nov 24",Oklahoma City Thunder,Dallas Mavericks,"10-5, 5-4 Home","10-4, 5-1 Away",103,111,,,Final,,27,29,25,22,,24,31,20,36,,NBA
-7,7,301127006,2010,"Sat, Nov 27",Dallas Mavericks,Miami Heat,"12-4, 6-3 Home","9-8, 2-5 Away",106,95,,,Final,,26,25,31,24,,26,23,17,29,,NBA
-8,8,301201006,2010,"Wed, Dec 1",Dallas Mavericks,Minnesota Timberwolves,"14-4, 8-3 Home","4-14, 1-9 Away",100,86,,,Final,,29,26,28,17,,20,23,21,22,,NBA
-9,9,301204023,2010,"Sat, Dec 4",Sacramento Kings,Dallas Mavericks,"4-14, 2-9 Home","16-4, 8-1 Away",103,105,,,Final,,37,18,25,23,,28,26,26,25,,NBA
-10,10,301209006,2010,"Thu, Dec 9",Dallas Mavericks,New Jersey Nets,"18-4, 10-3 Home","6-17, 2-11 Away",102,89,,,Final,,30,25,24,23,,19,21,29,20,,NBA
-11,11,301213006,2010,"Mon, Dec 13",Dallas Mavericks,Milwaukee Bucks,"19-5, 11-4 Home","10-13, 3-8 Away",99,103,,,Final,,25,27,22,25,,15,28,32,28,,NBA
-12,12,301217006,2010,"Fri, Dec 17",Dallas Mavericks,Phoenix Suns,"21-5, 13-4 Home","12-13, 5-8 Away",106,91,,,Final,ESPN,22,32,26,26,,25,17,17,32,,NBA
-13,13,301221019,2010,"Tue, Dec 21",Orlando Magic,Dallas Mavericks,"16-12, 9-5 Home","23-5, 10-1 Away",99,105,,,Final,NBATV,21,24,27,27,,27,22,27,29,,NBA
-14,14,301228006,2010,"Tue, Dec 28",Dallas Mavericks,Toronto Raptors,"24-6, 13-5 Home","11-20, 4-11 Away",76,84,,,Final,,13,27,19,17,,23,23,18,20,,NBA
-15,15,310101015,2010,"Sat, Jan 1",Milwaukee Bucks,Dallas Mavericks,"13-18, 8-7 Home","24-8, 11-2 Away",99,87,,,Final,,25,27,21,26,,18,32,21,16,,NBA
-16,16,310104006,2010,"Tue, Jan 4",Dallas Mavericks,Portland Trail Blazers,"26-8, 14-6 Home","18-17, 6-14 Away",84,81,,,Final,,24,19,19,22,,24,16,20,21,,NBA
-17,17,310108006,2010,"Sat, Jan 8",Dallas Mavericks,Orlando Magic,"26-10, 14-8 Home","25-12, 10-7 Away",107,117,,,Final,,28,29,24,26,,19,32,29,37,,NBA
-18,18,310114024,2010,"Fri, Jan 14",San Antonio Spurs,Dallas Mavericks,"34-6, 21-2 Home","26-12, 12-4 Away",101,89,,,Final,ESPN,27,30,28,16,,19,23,19,28,,NBA
-19,19,310117008,2010,"Mon, Jan 17",Detroit Pistons,Dallas Mavericks,"15-26, 11-9 Home","26-14, 12-6 Away",103,89,,,Final,,21,20,34,28,,18,19,25,27,,NBA
-20,20,310120004,2010,"Thu, Jan 20",Chicago Bulls,Dallas Mavericks,"29-14, 19-4 Home","27-15, 12-7 Away",82,77,,,Final,TNT,19,25,12,26,,20,15,25,17,,NBA
-21,21,310125006,2010,"Tue, Jan 25",Dallas Mavericks,LA Clippers,"29-15, 16-8 Home","17-27, 3-14 Away",112,105,,,Final,,25,29,27,31,,33,29,16,27,,NBA
-22,22,310129006,2010,"Sat, Jan 29",Dallas Mavericks,Atlanta Hawks,"31-15, 18-8 Home","30-18, 15-11 Away",102,91,,,Final,NBATV,28,24,25,25,,24,25,29,13,,NBA
-23,23,310202018,2010,"Wed, Feb 2",New York Knicks,Dallas Mavericks,"25-23, 13-10 Home","33-15, 14-7 Away",97,113,,,Final,,34,18,21,24,,27,29,30,27,,NBA
-24,24,310205030,2010,"Sat, Feb 5",Charlotte Bobcats,Dallas Mavericks,"21-29, 12-13 Home","35-15, 16-7 Away",92,101,,,Final,,22,23,21,26,,31,24,27,19,,NBA
-25,25,310209023,2010,"Wed, Feb 9",Sacramento Kings,Dallas Mavericks,"12-37, 7-21 Home","37-15, 17-7 Away",100,102,,,Final,,28,19,26,27,,20,36,18,28,,NBA
-26,26,310212010,2010,"Sat, Feb 12",Houston Rockets,Dallas Mavericks,"25-30, 14-12 Home","38-16, 18-8 Away",102,106,,,Final,,25,19,23,35,,23,34,26,23,,NBA
-27,27,310217021,2010,"Thu, Feb 17",Phoenix Suns,Dallas Mavericks,"27-27, 16-13 Home","40-16, 19-8 Away",106,112,,,Final,TNT,25,26,29,26,,28,26,31,27,,NBA
-28,28,310226027,2010,"Sat, Feb 26",Washington Wizards,Dallas Mavericks,"15-43, 14-15 Home","42-16, 20-8 Away",99,105,,,Final,,22,27,23,27,,23,36,19,27,,NBA
-29,29,310301020,2010,"Tue, Mar 1",Philadelphia 76ers,Dallas Mavericks,"30-30, 19-10 Home","44-16, 22-8 Away",93,101,,,Final,CSN,22,22,33,16,,23,28,28,22,,NBA
-30,30,310306006,2010,"Sun, Mar 6",Dallas Mavericks,Memphis Grizzlies,"45-17, 23-9 Home","35-29, 14-20 Away",103,104,,,Final,,27,28,23,25,,21,17,41,25,,NBA
-31,31,310309003,2010,"Wed, Mar 9",New Orleans Hornets,Dallas Mavericks,"38-29, 22-9 Home","46-18, 23-9 Away",93,92,,,Final,,16,27,17,33,,16,30,24,22,,NBA
-32,32,310312006,2010,"Sat, Mar 12",Dallas Mavericks,Los Angeles Lakers,"47-19, 24-10 Home","47-20, 25-12 Away",91,96,,,Final,NBATV,21,23,21,26,,22,28,23,23,,NBA
-33,33,310316009,2010,"Wed, Mar 16",Golden State Warriors,Dallas Mavericks,"30-38, 21-14 Home","48-20, 24-10 Away",106,112,,,Final,ESPN,34,25,22,25,,25,28,28,31,,NBA
-34,34,310320006,2010,"Sun, Mar 20",Dallas Mavericks,Golden State Warriors,"49-21, 25-11 Home","30-40, 9-26 Away",101,73,,,Final,,31,20,25,25,,23,20,20,10,,NBA
-35,35,310326026,2010,"Sat, Mar 26",Utah Jazz,Dallas Mavericks,"36-38, 20-17 Home","51-21, 25-10 Away",77,94,,,Final,,22,25,13,17,,20,23,15,36,,NBA
-36,36,310330012,2010,"Wed, Mar 30",LA Clippers,Dallas Mavericks,"29-46, 21-18 Home","53-21, 27-10 Away",100,106,,,Final,,28,18,24,30,,23,25,27,31,,NBA
-37,37,310402009,2010,"Sat, Apr 2",Golden State Warriors,Dallas Mavericks,"33-44, 24-14 Home","53-23, 27-12 Away",99,92,,,Final,,28,20,24,27,,29,21,17,25,,NBA
-38,38,310406006,2010,"Wed, Apr 6",Dallas Mavericks,Denver Nuggets,"53-25, 26-12 Home","48-30, 17-22 Away",96,104,,,Final,ESPN,17,26,26,27,,23,30,19,32,,NBA
-39,39,310410006,2010,"Sun, Apr 10",Dallas Mavericks,Phoenix Suns,"55-25, 28-12 Home","38-42, 17-24 Away",115,90,,,Final,,36,29,15,35,,17,22,21,30,,NBA
-40,40,301027006,2010,"Wed, Oct 27",Dallas Mavericks,Charlotte Bobcats,"1-0, 1-0 Home","0-1, 0-1 Away",101,86,,,Final,,25,24,31,21,,21,24,22,19,,NBA
-41,41,301031012,2010,"Sun, Oct 31",LA Clippers,Dallas Mavericks,"0-3, 0-2 Home","2-1, 1-0 Away",83,99,,,Final,,23,24,19,17,,27,22,29,21,,NBA
-42,42,301106006,2010,"Sat, Nov 6",Dallas Mavericks,Denver Nuggets,"3-2, 1-2 Home","4-2, 2-1 Away",92,103,,,Final,NBATV,24,28,27,13,,26,27,26,24,,NBA
-43,43,301110029,2010,"Wed, Nov 10",Memphis Grizzlies,Dallas Mavericks,"4-5, 2-2 Home","5-2, 3-0 Away",91,106,,,Final,,21,29,19,22,,27,28,31,20,,NBA
-44,44,301115006,2010,"Mon, Nov 15",Dallas Mavericks,New Orleans Hornets,"7-2, 4-2 Home","8-1, 3-1 Away",98,95,,,Final,,27,20,22,29,,24,28,24,19,,NBA
-45,45,301119006,2010,"Fri, Nov 19",Dallas Mavericks,Chicago Bulls,"7-4, 4-3 Home","7-4, 2-3 Away",83,88,,,Final,ESPN,13,22,24,24,,19,20,17,32,,NBA
-46,46,301123006,2010,"Tue, Nov 23",Dallas Mavericks,Detroit Pistons,"9-4, 5-3 Home","5-9, 2-6 Away",88,84,,,Final,,24,14,18,32,,17,25,19,23,,NBA
-47,47,301126024,2010,"Fri, Nov 26",San Antonio Spurs,Dallas Mavericks,"13-2, 7-2 Home","11-4, 6-1 Away",94,103,,,Final,,29,22,22,21,,27,22,22,32,,NBA
-48,48,301129006,2010,"Mon, Nov 29",Dallas Mavericks,Houston Rockets,"13-4, 7-3 Home","5-12, 2-8 Away",101,91,,,Final,NBATV,25,27,31,18,,26,19,26,20,,NBA
-49,49,301203026,2010,"Fri, Dec 3",Utah Jazz,Dallas Mavericks,"15-6, 8-4 Home","15-4, 7-1 Away",81,93,,,Final,ESPN,20,23,19,19,,23,16,27,27,,NBA
-50,50,301207006,2010,"Tue, Dec 7",Dallas Mavericks,Golden State Warriors,"17-4, 9-3 Home","8-13, 3-9 Away",105,100,,,Final,ESPN,27,23,21,34,,26,22,24,28,,NBA
-51,51,301211006,2010,"Sat, Dec 11",Dallas Mavericks,Utah Jazz,"19-4, 11-3 Home","17-8, 7-3 Away",103,97,,,Final,NBATV,34,20,27,22,,19,23,28,27,,NBA
-52,52,301215006,2010,"Wed, Dec 15",Dallas Mavericks,Portland Trail Blazers,"20-5, 12-4 Home","12-14, 5-11 Away",103,98,,,Final,ESPN,17,34,27,25,,14,25,29,30,,NBA
-53,53,301220014,2010,"Mon, Dec 20",Miami Heat,Dallas Mavericks,"21-9, 12-4 Home","22-5, 9-1 Away",96,98,,,Final,NBATV,22,22,24,28,,23,20,22,33,,NBA
-54,54,301227025,2010,"Mon, Dec 27",Oklahoma City Thunder,Dallas Mavericks,"21-11, 11-6 Home","24-5, 11-1 Away",93,103,,,Final,,29,27,25,12,,34,22,23,24,,NBA
-55,55,301230006,2010,"Thu, Dec 30",Dallas Mavericks,San Antonio Spurs,"24-7, 13-6 Home","28-4, 10-2 Away",93,99,,,Final,TNT,27,19,18,29,,29,24,18,28,,NBA
-56,56,310102005,2010,"Sun, Jan 2",Cleveland Cavaliers,Dallas Mavericks,"8-26, 5-11 Home","25-8, 12-2 Away",95,104,,,Final,,25,22,22,26,,27,28,24,25,,NBA
-57,57,310106006,2010,"Thu, Jan 6",Dallas Mavericks,Oklahoma City Thunder,"26-9, 14-7 Home","24-13, 11-7 Away",95,99,,,Final,TNT,30,25,15,25,,23,28,22,26,,NBA
-58,58,310112011,2010,"Wed, Jan 12",Indiana Pacers,Dallas Mavericks,"16-20, 10-9 Home","26-11, 12-3 Away",102,89,,,Final,,25,27,25,25,,26,26,17,20,,NBA
-59,59,310115029,2010,"Sat, Jan 15",Memphis Grizzlies,Dallas Mavericks,"19-21, 12-6 Home","26-13, 12-5 Away",89,70,,,Final,,31,15,21,22,,19,17,12,22,,NBA
-60,60,310119006,2010,"Wed, Jan 19",Dallas Mavericks,Los Angeles Lakers,"27-14, 15-8 Home","31-13, 14-8 Away",109,100,,,Final,ESPN,23,29,30,27,,31,25,17,27,,NBA
-61,61,310122017,2010,"Sat, Jan 22",New Jersey Nets,Dallas Mavericks,"12-32, 9-11 Home","28-15, 13-7 Away",86,87,,,Final,,26,19,23,18,,22,26,20,19,,NBA
-62,62,310127006,2010,"Thu, Jan 27",Dallas Mavericks,Houston Rockets,"30-15, 17-8 Home","22-26, 9-16 Away",111,106,,,Final,,33,31,24,23,,15,32,34,25,,NBA
-63,63,310131006,2010,"Mon, Jan 31",Dallas Mavericks,Washington Wizards,"32-15, 19-8 Home","13-34, 0-24 Away",102,92,,,Final,,21,29,24,28,,25,24,19,24,,NBA
-64,64,310204002,2010,"Fri, Feb 4",Boston Celtics,Dallas Mavericks,"37-12, 22-4 Home","34-15, 15-7 Away",97,101,,,Final,ESPN,27,24,26,20,,34,20,23,24,,NBA
-65,65,310207006,2010,"Mon, Feb 7",Dallas Mavericks,Cleveland Cavaliers,"36-15, 20-8 Home","8-44, 3-27 Away",99,96,,,Final,,29,30,18,22,,28,21,24,23,,NBA
-66,66,310210007,2010,"Thu, Feb 10",Denver Nuggets,Dallas Mavericks,"31-23, 22-7 Home","37-16, 17-8 Away",121,120,,,Final,TNT,33,26,29,33,,19,39,34,28,,NBA
-67,67,310216006,2010,"Wed, Feb 16",Dallas Mavericks,Sacramento Kings,"39-16, 21-8 Home","13-40, 6-18 Away",116,100,,,Final,,25,36,35,20,,25,23,28,24,,NBA
-68,68,310223006,2010,"Wed, Feb 23",Dallas Mavericks,Utah Jazz,"41-16, 22-8 Home","31-27, 14-14 Away",118,99,,,Final,,23,36,29,30,,26,29,22,22,,NBA
-69,69,310227028,2010,"Sun, Feb 27",Toronto Raptors,Dallas Mavericks,"16-44, 11-20 Home","43-16, 21-8 Away",96,114,,,Final,,30,27,15,24,,24,26,25,39,,NBA
-70,70,310304006,2010,"Fri, Mar 4",Dallas Mavericks,Indiana Pacers,"45-16, 23-8 Home","27-34, 10-20 Away",116,108,,,Final,,35,33,22,26,,33,24,24,27,,NBA
-71,71,310307016,2010,"Mon, Mar 7",Minnesota Timberwolves,Dallas Mavericks,"15-50, 10-23 Home","46-17, 23-8 Away",105,108,,,Final,,30,20,30,25,,22,26,25,35,,NBA
-72,72,310310006,2010,"Thu, Mar 10",Dallas Mavericks,New York Knicks,"47-18, 24-9 Home","34-30, 16-17 Away",127,109,,,Final,TNT,31,41,27,28,,21,30,34,24,,NBA
-73,73,310315022,2010,"Tue, Mar 15",Portland Trail Blazers,Dallas Mavericks,"38-29, 22-10 Home","47-20, 23-10 Away",104,101,,,Final,,29,24,29,22,,32,24,24,21,,NBA
-74,74,310318006,2010,"Fri, Mar 18",Dallas Mavericks,San Antonio Spurs,"48-21, 24-11 Home","55-13, 24-10 Away",91,97,,,Final,,20,25,21,25,,30,20,23,24,,NBA
-75,75,310324006,2010,"Thu, Mar 24",Dallas Mavericks,Minnesota Timberwolves,"50-21, 26-11 Home","17-55, 5-31 Away",104,96,,,Final,,17,32,27,28,,23,24,25,24,,NBA
-76,76,310327021,2010,"Sun, Mar 27",Phoenix Suns,Dallas Mavericks,"36-36, 20-17 Home","52-21, 26-10 Away",83,91,,,Final,ESPN,26,23,18,16,,17,27,21,26,,NBA
-77,77,310331013,2010,"Thu, Mar 31",Los Angeles Lakers,Dallas Mavericks,"54-20, 29-8 Home","53-22, 27-11 Away",110,82,,,Final,TNT,28,26,28,28,,26,25,19,12,,NBA
-78,78,310403022,2010,"Sun, Apr 3",Portland Trail Blazers,Dallas Mavericks,"45-32, 28-10 Home","53-24, 27-13 Away",104,96,,,Final,NBATV,23,38,24,19,,17,29,21,29,,NBA
-79,79,310408006,2010,"Fri, Apr 8",Dallas Mavericks,LA Clippers,"54-25, 27-12 Home","31-49, 9-31 Away",107,96,,,Final,,19,28,30,30,,35,19,21,21,,NBA
-80,80,310411010,2010,"Mon, Apr 11",Houston Rockets,Dallas Mavericks,"42-39, 25-16 Home","56-25, 28-13 Away",91,98,,,Final/OT,,23,24,24,15,5.0,20,23,24,19,12.0,NBA
-81,81,310413006,2010,"Wed, Apr 13",Dallas Mavericks,New Orleans Hornets,"57-25, 29-12 Home","46-36, 18-23 Away",121,89,,,Final,ESPN,28,30,28,35,,27,34,13,15,,NBA
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+301029006,2010,"October 29, 2010",Dallas Mavericks,Memphis Grizzlies,"1-1, 1-1 Home","1-1, 1-0 Away",90,91,,,Final,,29,21,25,15,,24,17,28,22,,NBA
+301103007,2010,"November 03, 2010",Denver Nuggets,Dallas Mavericks,"2-2, 1-1 Home","3-1, 2-0 Away",101,102,,,Final,TNT,27,25,28,21,,23,27,34,18,,NBA
+301108006,2010,"November 08, 2010",Dallas Mavericks,Boston Celtics,"4-2, 2-2 Home","6-2, 2-2 Away",89,87,,,Final,,23,27,20,19,,19,21,29,18,,NBA
+301112006,2010,"November 12, 2010",Dallas Mavericks,Philadelphia 76ers,"6-2, 3-2 Home","2-7, 1-4 Away",99,90,,,Final,CSN,31,24,23,21,,22,26,27,15,,NBA
+301117003,2010,"November 17, 2010",New Orleans Hornets,Dallas Mavericks,"9-1, 6-0 Home","7-3, 3-1 Away",99,97,,,Final,,23,19,33,24,,31,21,17,28,,NBA
+301120001,2010,"November 20, 2010",Atlanta Hawks,Dallas Mavericks,"8-5, 3-4 Home","8-4, 4-1 Away",93,98,,,Final,NBATV,25,18,25,25,,28,27,22,21,,NBA
+301124025,2010,"November 24, 2010",Oklahoma City Thunder,Dallas Mavericks,"10-5, 5-4 Home","10-4, 5-1 Away",103,111,,,Final,,27,29,25,22,,24,31,20,36,,NBA
+301127006,2010,"November 27, 2010",Dallas Mavericks,Miami Heat,"12-4, 6-3 Home","9-8, 2-5 Away",106,95,,,Final,,26,25,31,24,,26,23,17,29,,NBA
+301201006,2010,"December 01, 2010",Dallas Mavericks,Minnesota Timberwolves,"14-4, 8-3 Home","4-14, 1-9 Away",100,86,,,Final,,29,26,28,17,,20,23,21,22,,NBA
+301204023,2010,"December 04, 2010",Sacramento Kings,Dallas Mavericks,"4-14, 2-9 Home","16-4, 8-1 Away",103,105,,,Final,,37,18,25,23,,28,26,26,25,,NBA
+301209006,2010,"December 09, 2010",Dallas Mavericks,New Jersey Nets,"18-4, 10-3 Home","6-17, 2-11 Away",102,89,,,Final,,30,25,24,23,,19,21,29,20,,NBA
+301213006,2010,"December 13, 2010",Dallas Mavericks,Milwaukee Bucks,"19-5, 11-4 Home","10-13, 3-8 Away",99,103,,,Final,,25,27,22,25,,15,28,32,28,,NBA
+301217006,2010,"December 17, 2010",Dallas Mavericks,Phoenix Suns,"21-5, 13-4 Home","12-13, 5-8 Away",106,91,,,Final,ESPN,22,32,26,26,,25,17,17,32,,NBA
+301221019,2010,"December 21, 2010",Orlando Magic,Dallas Mavericks,"16-12, 9-5 Home","23-5, 10-1 Away",99,105,,,Final,NBATV,21,24,27,27,,27,22,27,29,,NBA
+301228006,2010,"December 28, 2010",Dallas Mavericks,Toronto Raptors,"24-6, 13-5 Home","11-20, 4-11 Away",76,84,,,Final,,13,27,19,17,,23,23,18,20,,NBA
+310101015,2010,"January 01, 2011",Milwaukee Bucks,Dallas Mavericks,"13-18, 8-7 Home","24-8, 11-2 Away",99,87,,,Final,,25,27,21,26,,18,32,21,16,,NBA
+310104006,2010,"January 04, 2011",Dallas Mavericks,Portland Trail Blazers,"26-8, 14-6 Home","18-17, 6-14 Away",84,81,,,Final,,24,19,19,22,,24,16,20,21,,NBA
+310108006,2010,"January 08, 2011",Dallas Mavericks,Orlando Magic,"26-10, 14-8 Home","25-12, 10-7 Away",107,117,,,Final,,28,29,24,26,,19,32,29,37,,NBA
+310114024,2010,"January 14, 2011",San Antonio Spurs,Dallas Mavericks,"34-6, 21-2 Home","26-12, 12-4 Away",101,89,,,Final,ESPN,27,30,28,16,,19,23,19,28,,NBA
+310117008,2010,"January 17, 2011",Detroit Pistons,Dallas Mavericks,"15-26, 11-9 Home","26-14, 12-6 Away",103,89,,,Final,,21,20,34,28,,18,19,25,27,,NBA
+310120004,2010,"January 20, 2011",Chicago Bulls,Dallas Mavericks,"29-14, 19-4 Home","27-15, 12-7 Away",82,77,,,Final,TNT,19,25,12,26,,20,15,25,17,,NBA
+310125006,2010,"January 25, 2011",Dallas Mavericks,LA Clippers,"29-15, 16-8 Home","17-27, 3-14 Away",112,105,,,Final,,25,29,27,31,,33,29,16,27,,NBA
+310129006,2010,"January 29, 2011",Dallas Mavericks,Atlanta Hawks,"31-15, 18-8 Home","30-18, 15-11 Away",102,91,,,Final,NBATV,28,24,25,25,,24,25,29,13,,NBA
+310202018,2010,"February 02, 2011",New York Knicks,Dallas Mavericks,"25-23, 13-10 Home","33-15, 14-7 Away",97,113,,,Final,,34,18,21,24,,27,29,30,27,,NBA
+310205030,2010,"February 05, 2011",Charlotte Bobcats,Dallas Mavericks,"21-29, 12-13 Home","35-15, 16-7 Away",92,101,,,Final,,22,23,21,26,,31,24,27,19,,NBA
+310209023,2010,"February 09, 2011",Sacramento Kings,Dallas Mavericks,"12-37, 7-21 Home","37-15, 17-7 Away",100,102,,,Final,,28,19,26,27,,20,36,18,28,,NBA
+310212010,2010,"February 12, 2011",Houston Rockets,Dallas Mavericks,"25-30, 14-12 Home","38-16, 18-8 Away",102,106,,,Final,,25,19,23,35,,23,34,26,23,,NBA
+310217021,2010,"February 17, 2011",Phoenix Suns,Dallas Mavericks,"27-27, 16-13 Home","40-16, 19-8 Away",106,112,,,Final,TNT,25,26,29,26,,28,26,31,27,,NBA
+310226027,2010,"February 26, 2011",Washington Wizards,Dallas Mavericks,"15-43, 14-15 Home","42-16, 20-8 Away",99,105,,,Final,,22,27,23,27,,23,36,19,27,,NBA
+310301020,2010,"March 01, 2011",Philadelphia 76ers,Dallas Mavericks,"30-30, 19-10 Home","44-16, 22-8 Away",93,101,,,Final,CSN,22,22,33,16,,23,28,28,22,,NBA
+310306006,2010,"March 06, 2011",Dallas Mavericks,Memphis Grizzlies,"45-17, 23-9 Home","35-29, 14-20 Away",103,104,,,Final,,27,28,23,25,,21,17,41,25,,NBA
+310309003,2010,"March 09, 2011",New Orleans Hornets,Dallas Mavericks,"38-29, 22-9 Home","46-18, 23-9 Away",93,92,,,Final,,16,27,17,33,,16,30,24,22,,NBA
+310312006,2010,"March 12, 2011",Dallas Mavericks,Los Angeles Lakers,"47-19, 24-10 Home","47-20, 25-12 Away",91,96,,,Final,NBATV,21,23,21,26,,22,28,23,23,,NBA
+310316009,2010,"March 16, 2011",Golden State Warriors,Dallas Mavericks,"30-38, 21-14 Home","48-20, 24-10 Away",106,112,,,Final,ESPN,34,25,22,25,,25,28,28,31,,NBA
+310320006,2010,"March 20, 2011",Dallas Mavericks,Golden State Warriors,"49-21, 25-11 Home","30-40, 9-26 Away",101,73,,,Final,,31,20,25,25,,23,20,20,10,,NBA
+310326026,2010,"March 26, 2011",Utah Jazz,Dallas Mavericks,"36-38, 20-17 Home","51-21, 25-10 Away",77,94,,,Final,,22,25,13,17,,20,23,15,36,,NBA
+310330012,2010,"March 30, 2011",LA Clippers,Dallas Mavericks,"29-46, 21-18 Home","53-21, 27-10 Away",100,106,,,Final,,28,18,24,30,,23,25,27,31,,NBA
+310402009,2010,"April 02, 2011",Golden State Warriors,Dallas Mavericks,"33-44, 24-14 Home","53-23, 27-12 Away",99,92,,,Final,,28,20,24,27,,29,21,17,25,,NBA
+310406006,2010,"April 06, 2011",Dallas Mavericks,Denver Nuggets,"53-25, 26-12 Home","48-30, 17-22 Away",96,104,,,Final,ESPN,17,26,26,27,,23,30,19,32,,NBA
+310410006,2010,"April 10, 2011",Dallas Mavericks,Phoenix Suns,"55-25, 28-12 Home","38-42, 17-24 Away",115,90,,,Final,,36,29,15,35,,17,22,21,30,,NBA
+301027006,2010,"October 27, 2010",Dallas Mavericks,Charlotte Bobcats,"1-0, 1-0 Home","0-1, 0-1 Away",101,86,,,Final,,25,24,31,21,,21,24,22,19,,NBA
+301031012,2010,"October 31, 2010",LA Clippers,Dallas Mavericks,"0-3, 0-2 Home","2-1, 1-0 Away",83,99,,,Final,,23,24,19,17,,27,22,29,21,,NBA
+301106006,2010,"November 06, 2010",Dallas Mavericks,Denver Nuggets,"3-2, 1-2 Home","4-2, 2-1 Away",92,103,,,Final,NBATV,24,28,27,13,,26,27,26,24,,NBA
+301110029,2010,"November 10, 2010",Memphis Grizzlies,Dallas Mavericks,"4-5, 2-2 Home","5-2, 3-0 Away",91,106,,,Final,,21,29,19,22,,27,28,31,20,,NBA
+301115006,2010,"November 15, 2010",Dallas Mavericks,New Orleans Hornets,"7-2, 4-2 Home","8-1, 3-1 Away",98,95,,,Final,,27,20,22,29,,24,28,24,19,,NBA
+301119006,2010,"November 19, 2010",Dallas Mavericks,Chicago Bulls,"7-4, 4-3 Home","7-4, 2-3 Away",83,88,,,Final,ESPN,13,22,24,24,,19,20,17,32,,NBA
+301123006,2010,"November 23, 2010",Dallas Mavericks,Detroit Pistons,"9-4, 5-3 Home","5-9, 2-6 Away",88,84,,,Final,,24,14,18,32,,17,25,19,23,,NBA
+301126024,2010,"November 26, 2010",San Antonio Spurs,Dallas Mavericks,"13-2, 7-2 Home","11-4, 6-1 Away",94,103,,,Final,,29,22,22,21,,27,22,22,32,,NBA
+301129006,2010,"November 29, 2010",Dallas Mavericks,Houston Rockets,"13-4, 7-3 Home","5-12, 2-8 Away",101,91,,,Final,NBATV,25,27,31,18,,26,19,26,20,,NBA
+301203026,2010,"December 03, 2010",Utah Jazz,Dallas Mavericks,"15-6, 8-4 Home","15-4, 7-1 Away",81,93,,,Final,ESPN,20,23,19,19,,23,16,27,27,,NBA
+301207006,2010,"December 07, 2010",Dallas Mavericks,Golden State Warriors,"17-4, 9-3 Home","8-13, 3-9 Away",105,100,,,Final,ESPN,27,23,21,34,,26,22,24,28,,NBA
+301211006,2010,"December 11, 2010",Dallas Mavericks,Utah Jazz,"19-4, 11-3 Home","17-8, 7-3 Away",103,97,,,Final,NBATV,34,20,27,22,,19,23,28,27,,NBA
+301215006,2010,"December 15, 2010",Dallas Mavericks,Portland Trail Blazers,"20-5, 12-4 Home","12-14, 5-11 Away",103,98,,,Final,ESPN,17,34,27,25,,14,25,29,30,,NBA
+301220014,2010,"December 20, 2010",Miami Heat,Dallas Mavericks,"21-9, 12-4 Home","22-5, 9-1 Away",96,98,,,Final,NBATV,22,22,24,28,,23,20,22,33,,NBA
+301227025,2010,"December 27, 2010",Oklahoma City Thunder,Dallas Mavericks,"21-11, 11-6 Home","24-5, 11-1 Away",93,103,,,Final,,29,27,25,12,,34,22,23,24,,NBA
+301230006,2010,"December 30, 2010",Dallas Mavericks,San Antonio Spurs,"24-7, 13-6 Home","28-4, 10-2 Away",93,99,,,Final,TNT,27,19,18,29,,29,24,18,28,,NBA
+310102005,2010,"January 02, 2011",Cleveland Cavaliers,Dallas Mavericks,"8-26, 5-11 Home","25-8, 12-2 Away",95,104,,,Final,,25,22,22,26,,27,28,24,25,,NBA
+310106006,2010,"January 06, 2011",Dallas Mavericks,Oklahoma City Thunder,"26-9, 14-7 Home","24-13, 11-7 Away",95,99,,,Final,TNT,30,25,15,25,,23,28,22,26,,NBA
+310112011,2010,"January 12, 2011",Indiana Pacers,Dallas Mavericks,"16-20, 10-9 Home","26-11, 12-3 Away",102,89,,,Final,,25,27,25,25,,26,26,17,20,,NBA
+310115029,2010,"January 15, 2011",Memphis Grizzlies,Dallas Mavericks,"19-21, 12-6 Home","26-13, 12-5 Away",89,70,,,Final,,31,15,21,22,,19,17,12,22,,NBA
+310119006,2010,"January 19, 2011",Dallas Mavericks,Los Angeles Lakers,"27-14, 15-8 Home","31-13, 14-8 Away",109,100,,,Final,ESPN,23,29,30,27,,31,25,17,27,,NBA
+310122017,2010,"January 22, 2011",New Jersey Nets,Dallas Mavericks,"12-32, 9-11 Home","28-15, 13-7 Away",86,87,,,Final,,26,19,23,18,,22,26,20,19,,NBA
+310127006,2010,"January 27, 2011",Dallas Mavericks,Houston Rockets,"30-15, 17-8 Home","22-26, 9-16 Away",111,106,,,Final,,33,31,24,23,,15,32,34,25,,NBA
+310131006,2010,"January 31, 2011",Dallas Mavericks,Washington Wizards,"32-15, 19-8 Home","13-34, 0-24 Away",102,92,,,Final,,21,29,24,28,,25,24,19,24,,NBA
+310204002,2010,"February 04, 2011",Boston Celtics,Dallas Mavericks,"37-12, 22-4 Home","34-15, 15-7 Away",97,101,,,Final,ESPN,27,24,26,20,,34,20,23,24,,NBA
+310207006,2010,"February 07, 2011",Dallas Mavericks,Cleveland Cavaliers,"36-15, 20-8 Home","8-44, 3-27 Away",99,96,,,Final,,29,30,18,22,,28,21,24,23,,NBA
+310210007,2010,"February 10, 2011",Denver Nuggets,Dallas Mavericks,"31-23, 22-7 Home","37-16, 17-8 Away",121,120,,,Final,TNT,33,26,29,33,,19,39,34,28,,NBA
+310216006,2010,"February 16, 2011",Dallas Mavericks,Sacramento Kings,"39-16, 21-8 Home","13-40, 6-18 Away",116,100,,,Final,,25,36,35,20,,25,23,28,24,,NBA
+310223006,2010,"February 23, 2011",Dallas Mavericks,Utah Jazz,"41-16, 22-8 Home","31-27, 14-14 Away",118,99,,,Final,,23,36,29,30,,26,29,22,22,,NBA
+310227028,2010,"February 27, 2011",Toronto Raptors,Dallas Mavericks,"16-44, 11-20 Home","43-16, 21-8 Away",96,114,,,Final,,30,27,15,24,,24,26,25,39,,NBA
+310304006,2010,"March 04, 2011",Dallas Mavericks,Indiana Pacers,"45-16, 23-8 Home","27-34, 10-20 Away",116,108,,,Final,,35,33,22,26,,33,24,24,27,,NBA
+310307016,2010,"March 07, 2011",Minnesota Timberwolves,Dallas Mavericks,"15-50, 10-23 Home","46-17, 23-8 Away",105,108,,,Final,,30,20,30,25,,22,26,25,35,,NBA
+310310006,2010,"March 10, 2011",Dallas Mavericks,New York Knicks,"47-18, 24-9 Home","34-30, 16-17 Away",127,109,,,Final,TNT,31,41,27,28,,21,30,34,24,,NBA
+310315022,2010,"March 15, 2011",Portland Trail Blazers,Dallas Mavericks,"38-29, 22-10 Home","47-20, 23-10 Away",104,101,,,Final,,29,24,29,22,,32,24,24,21,,NBA
+310318006,2010,"March 18, 2011",Dallas Mavericks,San Antonio Spurs,"48-21, 24-11 Home","55-13, 24-10 Away",91,97,,,Final,,20,25,21,25,,30,20,23,24,,NBA
+310324006,2010,"March 24, 2011",Dallas Mavericks,Minnesota Timberwolves,"50-21, 26-11 Home","17-55, 5-31 Away",104,96,,,Final,,17,32,27,28,,23,24,25,24,,NBA
+310327021,2010,"March 27, 2011",Phoenix Suns,Dallas Mavericks,"36-36, 20-17 Home","52-21, 26-10 Away",83,91,,,Final,ESPN,26,23,18,16,,17,27,21,26,,NBA
+310331013,2010,"March 31, 2011",Los Angeles Lakers,Dallas Mavericks,"54-20, 29-8 Home","53-22, 27-11 Away",110,82,,,Final,TNT,28,26,28,28,,26,25,19,12,,NBA
+310403022,2010,"April 03, 2011",Portland Trail Blazers,Dallas Mavericks,"45-32, 28-10 Home","53-24, 27-13 Away",104,96,,,Final,NBATV,23,38,24,19,,17,29,21,29,,NBA
+310408006,2010,"April 08, 2011",Dallas Mavericks,LA Clippers,"54-25, 27-12 Home","31-49, 9-31 Away",107,96,,,Final,,19,28,30,30,,35,19,21,21,,NBA
+310411010,2010,"April 11, 2011",Houston Rockets,Dallas Mavericks,"42-39, 25-16 Home","56-25, 28-13 Away",91,98,,,Final/OT,,23,24,24,15,5.0,20,23,24,19,12.0,NBA
+310413006,2010,"April 13, 2011",Dallas Mavericks,New Orleans Hornets,"57-25, 29-12 Home","46-36, 18-23 Away",121,89,,,Final,ESPN,28,30,28,35,,27,34,13,15,,NBA

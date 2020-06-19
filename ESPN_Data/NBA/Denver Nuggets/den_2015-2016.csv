@@ -1,83 +1,83 @@
-,Unnamed: 0,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-0,0,400827916,2015,"Fri, Oct 30",Denver Nuggets,Minnesota Timberwolves,"1-1, 0-1 Home","2-0, 2-0 Away",78,95,,,Final,,16,23,24,15,,26,23,30,16,,NBA
-1,1,400827946,2015,"Tue, Nov 3",Los Angeles Lakers,Denver Nuggets,"0-4, 0-3 Home","2-2, 2-1 Away",109,120,,,Final,NBATV,36,21,26,26,,30,30,33,27,,NBA
-2,2,400827970,2015,"Fri, Nov 6",Golden State Warriors,Denver Nuggets,"6-0, 4-0 Home","2-4, 2-2 Away",119,104,,,Final,,40,34,25,20,,23,21,31,29,,NBA
-3,3,400828008,2015,"Wed, Nov 11",Denver Nuggets,Milwaukee Bucks,"4-4, 2-2 Home","4-5, 2-2 Away",103,102,,,Final,,25,28,34,16,,32,32,16,22,,NBA
-4,4,400828030,2015,"Sat, Nov 14",Phoenix Suns,Denver Nuggets,"5-4, 4-2 Home","5-5, 2-3 Away",105,81,,,Final,NBATV,27,33,28,17,,13,15,26,27,,NBA
-5,5,400828059,2015,"Wed, Nov 18",San Antonio Spurs,Denver Nuggets,"9-2, 5-0 Home","6-6, 3-4 Away",109,98,,,Final,,31,34,28,16,,24,34,21,19,,NBA
-6,6,400828087,2015,"Sun, Nov 22",Denver Nuggets,Golden State Warriors,"6-8, 3-4 Home","15-0, 7-0 Away",105,118,,,Final,ESPN,23,35,21,26,,34,30,27,27,,NBA
-7,7,400828122,2015,"Fri, Nov 27",Denver Nuggets,San Antonio Spurs,"6-10, 3-6 Home","13-3, 5-3 Away",80,91,,,Final,,16,26,17,21,,16,30,24,21,,NBA
-8,8,400828145,2015,"Mon, Nov 30",Milwaukee Bucks,Denver Nuggets,"7-11, 5-4 Home","6-12, 3-6 Away",92,74,,,Final,,28,18,21,25,,23,21,16,14,,NBA
-9,9,400828165,2015,"Thu, Dec 3",Toronto Raptors,Denver Nuggets,"12-8, 4-3 Home","7-13, 4-7 Away",105,106,,,Final,,19,23,29,34,,29,27,25,25,,NBA
-10,10,400828204,2015,"Tue, Dec 8",Denver Nuggets,Orlando Magic,"8-14, 3-7 Home","12-9, 5-6 Away",74,85,,,Final,,26,21,16,11,,26,14,22,23,,NBA
-11,11,400828252,2015,"Mon, Dec 14",Denver Nuggets,Houston Rockets,"10-14, 5-7 Home","12-13, 5-6 Away",114,108,,,Final,,36,18,34,26,,22,36,24,26,,NBA
-12,12,400828282,2015,"Fri, Dec 18",Utah Jazz,Denver Nuggets,"11-14, 6-6 Home","11-15, 6-8 Away",97,88,,,Final,,30,23,24,20,,23,26,24,15,,NBA
-13,13,400828309,2015,"Tue, Dec 22",Denver Nuggets,Los Angeles Lakers,"11-17, 5-9 Home","5-23, 3-16 Away",107,111,,,Final,,34,30,16,27,,26,25,32,28,,NBA
-14,14,400828337,2015,"Sat, Dec 26",San Antonio Spurs,Denver Nuggets,"26-6, 17-0 Home","12-18, 7-9 Away",101,86,,,Final,,22,34,20,25,,20,22,23,21,,NBA
-15,15,400828360,2015,"Tue, Dec 29",Denver Nuggets,Cleveland Cavaliers,"12-20, 5-10 Home","21-9, 8-8 Away",87,93,,,Final,,21,21,20,25,,26,27,19,21,,NBA
-16,16,400828391,2015,"Sat, Jan 2",Golden State Warriors,Denver Nuggets,"31-2, 16-0 Home","12-22, 7-12 Away",111,108,,,Final/OT,,37,26,27,12,9.0,13,34,30,25,6.0,NBA
-17,17,400828417,2015,"Wed, Jan 6",Minnesota Timberwolves,Denver Nuggets,"12-24, 5-14 Home","13-23, 8-12 Away",74,78,,,Final,,25,19,21,9,,21,21,24,12,,NBA
-18,18,400828450,2015,"Sun, Jan 10",Denver Nuggets,Charlotte Hornets,"14-24, 6-11 Home","17-20, 4-13 Away",95,92,,,Final,NBATV,36,17,28,14,,26,30,21,15,,NBA
-19,19,400828487,2015,"Fri, Jan 15",Denver Nuggets,Miami Heat,"15-25, 7-12 Home","23-17, 8-9 Away",95,98,,,Final,,31,31,16,17,,20,26,30,22,,NBA
-20,20,400828514,2015,"Tue, Jan 19",Denver Nuggets,Oklahoma City Thunder,"16-26, 8-13 Home","31-12, 11-7 Away",104,110,,,Final,,31,22,26,25,,25,32,27,26,,NBA
-21,21,400828548,2015,"Sat, Jan 23",Denver Nuggets,Detroit Pistons,"17-27, 9-14 Home","23-21, 9-14 Away",104,101,,,Final,,26,19,39,20,,32,22,20,27,,NBA
-22,22,400828572,2015,"Wed, Jan 27",Boston Celtics,Denver Nuggets,"26-21, 13-10 Home","17-29, 8-14 Away",111,103,,,Final,,29,26,31,25,,21,24,26,32,,NBA
-23,23,400828596,2015,"Sat, Jan 30",Indiana Pacers,Denver Nuggets,"25-22, 15-7 Home","18-30, 9-15 Away",109,105,,,Final/OT,,35,24,21,19,10.0,27,24,32,16,6.0,NBA
-24,24,400828630,2015,"Wed, Feb 3",Utah Jazz,Denver Nuggets,"23-25, 16-10 Home","19-31, 9-16 Away",85,81,,,Final,,21,19,21,24,,23,23,17,18,,NBA
-25,25,400828657,2015,"Sun, Feb 7",New York Knicks,Denver Nuggets,"23-31, 14-14 Home","21-31, 10-16 Away",96,101,,,Final,,20,29,30,17,,31,29,17,24,,NBA
-26,26,400828681,2015,"Wed, Feb 10",Detroit Pistons,Denver Nuggets,"27-27, 16-10 Home","22-32, 11-17 Away",92,103,,,Final,,22,31,18,21,,20,32,23,28,,NBA
-27,27,400828712,2015,"Sun, Feb 21",Denver Nuggets,Boston Celtics,"22-34, 11-16 Home","33-24, 16-14 Away",101,121,,,Final,,17,32,29,23,,35,29,27,30,,NBA
-28,28,400828740,2015,"Wed, Feb 24",LA Clippers,Denver Nuggets,"37-20, 19-10 Home","23-35, 12-18 Away",81,87,,,Final,,19,20,23,19,,23,30,18,16,,NBA
-29,29,400828775,2015,"Mon, Feb 29",Denver Nuggets,Memphis Grizzlies,"23-37, 11-18 Home","35-24, 14-15 Away",96,103,,,Final,,19,28,24,25,,22,26,23,32,,NBA
-30,30,400828807,2015,"Fri, Mar 4",Denver Nuggets,Brooklyn Nets,"24-38, 12-19 Home","18-44, 7-22 Away",120,121,,,Final/OT,,25,32,33,22,8.0,31,32,27,22,9.0,NBA
-31,31,400828833,2015,"Tue, Mar 8",Denver Nuggets,New York Knicks,"26-38, 14-19 Home","26-39, 10-21 Away",110,94,,,Final,,31,29,22,28,,25,24,19,26,,NBA
-32,32,400828867,2015,"Sat, Mar 12",Denver Nuggets,Washington Wizards,"28-38, 16-19 Home","30-35, 14-18 Away",116,100,,,Final,,27,25,23,41,,23,27,33,17,,NBA
-33,33,400828885,2015,"Tue, Mar 15",Orlando Magic,Denver Nuggets,"29-37, 18-16 Home","28-40, 12-21 Away",116,110,,,Final,,32,29,24,31,,25,21,33,31,,NBA
-34,34,400828915,2015,"Sat, Mar 19",Charlotte Hornets,Denver Nuggets,"39-30, 26-11 Home","29-41, 13-22 Away",93,101,,,Final,,22,18,22,31,,28,29,21,23,,NBA
-35,35,400828951,2015,"Wed, Mar 23",Denver Nuggets,Philadelphia 76ers,"30-42, 17-19 Home","9-63, 3-33 Away",104,103,,,Final,,24,29,22,29,,35,10,28,30,,NBA
-36,36,400828979,2015,"Sun, Mar 27",LA Clippers,Denver Nuggets,"45-27, 24-12 Home","31-43, 14-24 Away",105,90,,,Final,,31,21,25,28,,26,22,12,30,,NBA
-37,37,400829001,2015,"Wed, Mar 30",Memphis Grizzlies,Denver Nuggets,"41-34, 25-13 Home","32-44, 15-24 Away",105,109,,,Final,,20,27,21,37,,26,33,25,25,,NBA
-38,38,400829028,2015,"Sat, Apr 2",Denver Nuggets,Sacramento Kings,"32-46, 17-21 Home","31-46, 14-25 Away",106,115,,,Final,,27,35,26,18,,23,32,29,31,,NBA
-39,39,400829073,2015,"Fri, Apr 8",Denver Nuggets,San Antonio Spurs,"33-47, 18-22 Home","65-14, 26-14 Away",102,98,,,Final,,24,27,26,25,,18,35,19,26,,NBA
-40,40,400827897,2015,"Wed, Oct 28",Houston Rockets,Denver Nuggets,"0-1, 0-1 Home","1-0, 1-0 Away",85,105,,,Final,,21,28,14,22,,27,26,23,29,,NBA
-41,41,400827931,2015,"Sun, Nov 1",Oklahoma City Thunder,Denver Nuggets,"3-0, 2-0 Home","1-2, 1-1 Away",117,93,,,Final,,29,29,37,22,,22,28,20,23,,NBA
-42,42,400827960,2015,"Thu, Nov 5",Denver Nuggets,Utah Jazz,"2-3, 0-2 Home","3-2, 3-1 Away",84,96,,,Final,,24,18,22,20,,19,21,25,31,,NBA
-43,43,400827989,2015,"Mon, Nov 9",Denver Nuggets,Portland Trail Blazers,"3-4, 1-2 Home","4-4, 2-2 Away",108,104,,,Final,,29,28,22,29,,33,25,22,24,,NBA
-44,44,400828023,2015,"Fri, Nov 13",Denver Nuggets,Houston Rockets,"5-4, 3-2 Home","4-5, 2-2 Away",107,98,,,Final,,30,29,23,25,,23,28,23,24,,NBA
-45,45,400828050,2015,"Tue, Nov 17",New Orleans Pelicans,Denver Nuggets,"1-10, 1-4 Home","6-5, 3-3 Away",98,115,,,Final,,21,32,22,23,,31,20,32,32,,NBA
-46,46,400828072,2015,"Fri, Nov 20",Denver Nuggets,Phoenix Suns,"6-7, 3-3 Home","7-5, 2-2 Away",107,114,,,Final,,29,34,21,23,,17,32,31,34,,NBA
-47,47,400828099,2015,"Tue, Nov 24",Denver Nuggets,LA Clippers,"6-9, 3-5 Home","7-7, 2-4 Away",94,111,,,Final,,26,19,27,22,,25,26,32,28,,NBA
-48,48,400828128,2015,"Sat, Nov 28",Dallas Mavericks,Denver Nuggets,"10-7, 5-2 Home","6-11, 3-5 Away",92,81,,,Final,NBATV,22,26,25,19,,25,27,5,24,,NBA
-49,49,400828160,2015,"Wed, Dec 2",Chicago Bulls,Denver Nuggets,"11-5, 7-1 Home","6-13, 3-7 Away",99,90,,,Final,,28,23,17,31,,21,25,26,18,,NBA
-50,50,400828176,2015,"Sat, Dec 5",Philadelphia 76ers,Denver Nuggets,"1-20, 1-8 Home","8-13, 5-7 Away",105,108,,,Final,,25,34,26,20,,29,23,25,31,,NBA
-51,51,400828227,2015,"Fri, Dec 11",Denver Nuggets,Minnesota Timberwolves,"9-14, 4-7 Home","9-13, 6-4 Away",111,108,,,Final/OT,,23,18,32,27,11.0,29,27,22,22,8.0,NBA
-52,52,400828255,2015,"Tue, Dec 15",Minnesota Timberwolves,Denver Nuggets,"9-15, 3-10 Home","11-14, 6-7 Away",100,112,,,Final,,24,25,31,20,,27,36,29,20,,NBA
-53,53,400828296,2015,"Sun, Dec 20",Denver Nuggets,New Orleans Pelicans,"11-16, 5-8 Home","8-19, 3-13 Away",125,130,,,Final,,31,43,22,29,,36,31,32,31,,NBA
-54,54,400828320,2015,"Wed, Dec 23",Phoenix Suns,Denver Nuggets,"12-19, 8-8 Home","12-17, 7-8 Away",96,104,,,Final,,21,29,22,24,,33,23,23,25,,NBA
-55,55,400828343,2015,"Sun, Dec 27",Oklahoma City Thunder,Denver Nuggets,"21-10, 14-4 Home","12-19, 7-10 Away",122,112,,,Final,,32,21,38,31,,31,30,29,22,,NBA
-56,56,400828369,2015,"Wed, Dec 30",Portland Trail Blazers,Denver Nuggets,"14-20, 8-6 Home","12-21, 7-11 Away",110,103,,,Final,NBATV,26,32,26,26,,27,24,20,32,,NBA
-57,57,400828396,2015,"Sun, Jan 3",Denver Nuggets,Portland Trail Blazers,"12-23, 5-11 Home","15-21, 7-15 Away",106,112,,,Final,,22,34,24,26,,23,38,19,32,,NBA
-58,58,400828429,2015,"Fri, Jan 8",Memphis Grizzlies,Denver Nuggets,"20-18, 12-6 Home","13-24, 8-13 Away",91,84,,,Final,,29,20,18,24,,30,7,29,18,,NBA
-59,59,400828470,2015,"Wed, Jan 13",Denver Nuggets,Golden State Warriors,"15-24, 7-11 Home","36-3, 18-3 Away",112,110,,,Final,,32,23,28,29,,25,29,19,37,,NBA
-60,60,400828500,2015,"Sun, Jan 17",Denver Nuggets,Indiana Pacers,"16-25, 8-12 Home","22-19, 9-13 Away",129,126,,,Final,,30,24,30,45,,30,36,25,35,,NBA
-61,61,400828529,2015,"Thu, Jan 21",Denver Nuggets,Memphis Grizzlies,"16-27, 8-14 Home","25-19, 9-12 Away",101,102,,,Final,,23,25,29,24,,37,18,24,23,,NBA
-62,62,400828559,2015,"Mon, Jan 25",Denver Nuggets,Atlanta Hawks,"17-28, 9-15 Home","27-19, 12-12 Away",105,119,,,Final,,30,20,26,29,,31,35,24,29,,NBA
-63,63,400828580,2015,"Thu, Jan 28",Washington Wizards,Denver Nuggets,"20-24, 10-15 Home","18-29, 9-14 Away",113,117,,,Final,,29,29,21,34,,29,35,27,26,,NBA
-64,64,400828614,2015,"Mon, Feb 1",Denver Nuggets,Toronto Raptors,"19-30, 10-15 Home","32-16, 14-10 Away",112,93,,,Final,,28,32,20,32,,28,21,16,28,,NBA
-65,65,400828644,2015,"Fri, Feb 5",Denver Nuggets,Chicago Bulls,"20-31, 11-15 Home","27-22, 11-13 Away",115,110,,,Final,,30,25,18,42,,26,31,32,21,,NBA
-66,66,400828665,2015,"Mon, Feb 8",Brooklyn Nets,Denver Nuggets,"14-39, 10-20 Home","21-32, 10-17 Away",105,104,,,Final,,26,29,26,24,,22,27,29,26,,NBA
-67,67,400828703,2015,"Fri, Feb 19",Sacramento Kings,Denver Nuggets,"23-31, 14-13 Home","22-33, 11-18 Away",116,110,,,Final,,31,39,18,28,,24,33,20,33,,NBA
-68,68,400828729,2015,"Tue, Feb 23",Denver Nuggets,Sacramento Kings,"22-35, 11-17 Home","24-31, 10-18 Away",110,114,,,Final,,25,25,27,33,,28,33,30,23,,NBA
-69,69,400828753,2015,"Fri, Feb 26",Dallas Mavericks,Denver Nuggets,"31-28, 17-12 Home","23-36, 12-19 Away",122,116,,,Final/OT,,20,24,32,32,14.0,28,28,24,28,8.0,NBA
-70,70,400828793,2015,"Wed, Mar 2",Denver Nuggets,Los Angeles Lakers,"24-37, 12-18 Home","12-50, 5-30 Away",117,107,,,Final,,27,30,26,34,,29,31,22,25,,NBA
-71,71,400828820,2015,"Sun, Mar 6",Denver Nuggets,Dallas Mavericks,"25-38, 13-19 Home","33-30, 14-17 Away",116,114,,,Final/OT,,22,35,20,29,10.0,19,31,29,27,8.0,NBA
-72,72,400828848,2015,"Thu, Mar 10",Denver Nuggets,Phoenix Suns,"27-38, 15-19 Home","17-48, 6-26 Away",116,98,,,Final,,25,30,27,34,,18,23,33,24,,NBA
-73,73,400828877,2015,"Mon, Mar 14",Miami Heat,Denver Nuggets,"39-28, 22-12 Home","28-39, 12-20 Away",124,119,,,Final,,36,28,26,34,,33,29,29,28,,NBA
-74,74,400828902,2015,"Thu, Mar 17",Atlanta Hawks,Denver Nuggets,"40-29, 22-12 Home","28-41, 12-22 Away",116,98,,,Final,,33,21,33,29,,23,25,28,22,,NBA
-75,75,400828931,2015,"Mon, Mar 21",Cleveland Cavaliers,Denver Nuggets,"50-20, 29-6 Home","29-42, 13-23 Away",124,91,,,Final,,38,18,31,37,,23,25,24,19,,NBA
-76,76,400828968,2015,"Fri, Mar 25",Los Angeles Lakers,Denver Nuggets,"15-57, 10-26 Home","31-42, 14-23 Away",105,116,,,Final,,31,15,31,28,,24,34,25,33,,NBA
-77,77,400828990,2015,"Mon, Mar 28",Denver Nuggets,Dallas Mavericks,"31-44, 17-20 Home","36-38, 16-21 Away",88,97,,,Final,,24,22,20,22,,28,22,22,25,,NBA
-78,78,400829012,2015,"Thu, Mar 31",New Orleans Pelicans,Denver Nuggets,"28-47, 20-18 Home","32-45, 15-25 Away",101,95,,,Final,,31,25,21,24,,26,28,24,17,,NBA
-79,79,400829047,2015,"Tue, Apr 5",Denver Nuggets,Oklahoma City Thunder,"32-47, 17-22 Home","54-24, 23-15 Away",102,124,,,Final,,30,21,26,25,,32,36,39,17,,NBA
-80,80,400829085,2015,"Sun, Apr 10",Denver Nuggets,Utah Jazz,"33-48, 18-23 Home","40-40, 16-24 Away",84,100,,,Final,,22,25,15,22,,26,22,34,18,,NBA
-81,81,400829117,2015,"Wed, Apr 13",Portland Trail Blazers,Denver Nuggets,"44-38, 28-13 Home","33-49, 15-26 Away",107,99,,,Final,,27,31,29,20,,31,25,23,20,,NBA
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+400827916,2015,"October 30, 2015",Denver Nuggets,Minnesota Timberwolves,"1-1, 0-1 Home","2-0, 2-0 Away",78,95,,,Final,,16,23,24,15,,26,23,30,16,,NBA
+400827946,2015,"November 03, 2015",Los Angeles Lakers,Denver Nuggets,"0-4, 0-3 Home","2-2, 2-1 Away",109,120,,,Final,NBATV,36,21,26,26,,30,30,33,27,,NBA
+400827970,2015,"November 06, 2015",Golden State Warriors,Denver Nuggets,"6-0, 4-0 Home","2-4, 2-2 Away",119,104,,,Final,,40,34,25,20,,23,21,31,29,,NBA
+400828008,2015,"November 11, 2015",Denver Nuggets,Milwaukee Bucks,"4-4, 2-2 Home","4-5, 2-2 Away",103,102,,,Final,,25,28,34,16,,32,32,16,22,,NBA
+400828030,2015,"November 14, 2015",Phoenix Suns,Denver Nuggets,"5-4, 4-2 Home","5-5, 2-3 Away",105,81,,,Final,NBATV,27,33,28,17,,13,15,26,27,,NBA
+400828059,2015,"November 18, 2015",San Antonio Spurs,Denver Nuggets,"9-2, 5-0 Home","6-6, 3-4 Away",109,98,,,Final,,31,34,28,16,,24,34,21,19,,NBA
+400828087,2015,"November 22, 2015",Denver Nuggets,Golden State Warriors,"6-8, 3-4 Home","15-0, 7-0 Away",105,118,,,Final,ESPN,23,35,21,26,,34,30,27,27,,NBA
+400828122,2015,"November 27, 2015",Denver Nuggets,San Antonio Spurs,"6-10, 3-6 Home","13-3, 5-3 Away",80,91,,,Final,,16,26,17,21,,16,30,24,21,,NBA
+400828145,2015,"November 30, 2015",Milwaukee Bucks,Denver Nuggets,"7-11, 5-4 Home","6-12, 3-6 Away",92,74,,,Final,,28,18,21,25,,23,21,16,14,,NBA
+400828165,2015,"December 03, 2015",Toronto Raptors,Denver Nuggets,"12-8, 4-3 Home","7-13, 4-7 Away",105,106,,,Final,,19,23,29,34,,29,27,25,25,,NBA
+400828204,2015,"December 08, 2015",Denver Nuggets,Orlando Magic,"8-14, 3-7 Home","12-9, 5-6 Away",74,85,,,Final,,26,21,16,11,,26,14,22,23,,NBA
+400828252,2015,"December 14, 2015",Denver Nuggets,Houston Rockets,"10-14, 5-7 Home","12-13, 5-6 Away",114,108,,,Final,,36,18,34,26,,22,36,24,26,,NBA
+400828282,2015,"December 18, 2015",Utah Jazz,Denver Nuggets,"11-14, 6-6 Home","11-15, 6-8 Away",97,88,,,Final,,30,23,24,20,,23,26,24,15,,NBA
+400828309,2015,"December 22, 2015",Denver Nuggets,Los Angeles Lakers,"11-17, 5-9 Home","5-23, 3-16 Away",107,111,,,Final,,34,30,16,27,,26,25,32,28,,NBA
+400828337,2015,"December 26, 2015",San Antonio Spurs,Denver Nuggets,"26-6, 17-0 Home","12-18, 7-9 Away",101,86,,,Final,,22,34,20,25,,20,22,23,21,,NBA
+400828360,2015,"December 29, 2015",Denver Nuggets,Cleveland Cavaliers,"12-20, 5-10 Home","21-9, 8-8 Away",87,93,,,Final,,21,21,20,25,,26,27,19,21,,NBA
+400828391,2015,"January 02, 2016",Golden State Warriors,Denver Nuggets,"31-2, 16-0 Home","12-22, 7-12 Away",111,108,,,Final/OT,,37,26,27,12,9.0,13,34,30,25,6.0,NBA
+400828417,2015,"January 06, 2016",Minnesota Timberwolves,Denver Nuggets,"12-24, 5-14 Home","13-23, 8-12 Away",74,78,,,Final,,25,19,21,9,,21,21,24,12,,NBA
+400828450,2015,"January 10, 2016",Denver Nuggets,Charlotte Hornets,"14-24, 6-11 Home","17-20, 4-13 Away",95,92,,,Final,NBATV,36,17,28,14,,26,30,21,15,,NBA
+400828487,2015,"January 15, 2016",Denver Nuggets,Miami Heat,"15-25, 7-12 Home","23-17, 8-9 Away",95,98,,,Final,,31,31,16,17,,20,26,30,22,,NBA
+400828514,2015,"January 19, 2016",Denver Nuggets,Oklahoma City Thunder,"16-26, 8-13 Home","31-12, 11-7 Away",104,110,,,Final,,31,22,26,25,,25,32,27,26,,NBA
+400828548,2015,"January 23, 2016",Denver Nuggets,Detroit Pistons,"17-27, 9-14 Home","23-21, 9-14 Away",104,101,,,Final,,26,19,39,20,,32,22,20,27,,NBA
+400828572,2015,"January 27, 2016",Boston Celtics,Denver Nuggets,"26-21, 13-10 Home","17-29, 8-14 Away",111,103,,,Final,,29,26,31,25,,21,24,26,32,,NBA
+400828596,2015,"January 30, 2016",Indiana Pacers,Denver Nuggets,"25-22, 15-7 Home","18-30, 9-15 Away",109,105,,,Final/OT,,35,24,21,19,10.0,27,24,32,16,6.0,NBA
+400828630,2015,"February 03, 2016",Utah Jazz,Denver Nuggets,"23-25, 16-10 Home","19-31, 9-16 Away",85,81,,,Final,,21,19,21,24,,23,23,17,18,,NBA
+400828657,2015,"February 07, 2016",New York Knicks,Denver Nuggets,"23-31, 14-14 Home","21-31, 10-16 Away",96,101,,,Final,,20,29,30,17,,31,29,17,24,,NBA
+400828681,2015,"February 10, 2016",Detroit Pistons,Denver Nuggets,"27-27, 16-10 Home","22-32, 11-17 Away",92,103,,,Final,,22,31,18,21,,20,32,23,28,,NBA
+400828712,2015,"February 21, 2016",Denver Nuggets,Boston Celtics,"22-34, 11-16 Home","33-24, 16-14 Away",101,121,,,Final,,17,32,29,23,,35,29,27,30,,NBA
+400828740,2015,"February 24, 2016",LA Clippers,Denver Nuggets,"37-20, 19-10 Home","23-35, 12-18 Away",81,87,,,Final,,19,20,23,19,,23,30,18,16,,NBA
+400828775,2015,"February 29, 2016",Denver Nuggets,Memphis Grizzlies,"23-37, 11-18 Home","35-24, 14-15 Away",96,103,,,Final,,19,28,24,25,,22,26,23,32,,NBA
+400828807,2015,"March 04, 2016",Denver Nuggets,Brooklyn Nets,"24-38, 12-19 Home","18-44, 7-22 Away",120,121,,,Final/OT,,25,32,33,22,8.0,31,32,27,22,9.0,NBA
+400828833,2015,"March 08, 2016",Denver Nuggets,New York Knicks,"26-38, 14-19 Home","26-39, 10-21 Away",110,94,,,Final,,31,29,22,28,,25,24,19,26,,NBA
+400828867,2015,"March 12, 2016",Denver Nuggets,Washington Wizards,"28-38, 16-19 Home","30-35, 14-18 Away",116,100,,,Final,,27,25,23,41,,23,27,33,17,,NBA
+400828885,2015,"March 15, 2016",Orlando Magic,Denver Nuggets,"29-37, 18-16 Home","28-40, 12-21 Away",116,110,,,Final,,32,29,24,31,,25,21,33,31,,NBA
+400828915,2015,"March 19, 2016",Charlotte Hornets,Denver Nuggets,"39-30, 26-11 Home","29-41, 13-22 Away",93,101,,,Final,,22,18,22,31,,28,29,21,23,,NBA
+400828951,2015,"March 23, 2016",Denver Nuggets,Philadelphia 76ers,"30-42, 17-19 Home","9-63, 3-33 Away",104,103,,,Final,,24,29,22,29,,35,10,28,30,,NBA
+400828979,2015,"March 27, 2016",LA Clippers,Denver Nuggets,"45-27, 24-12 Home","31-43, 14-24 Away",105,90,,,Final,,31,21,25,28,,26,22,12,30,,NBA
+400829001,2015,"March 30, 2016",Memphis Grizzlies,Denver Nuggets,"41-34, 25-13 Home","32-44, 15-24 Away",105,109,,,Final,,20,27,21,37,,26,33,25,25,,NBA
+400829028,2015,"April 02, 2016",Denver Nuggets,Sacramento Kings,"32-46, 17-21 Home","31-46, 14-25 Away",106,115,,,Final,,27,35,26,18,,23,32,29,31,,NBA
+400829073,2015,"April 08, 2016",Denver Nuggets,San Antonio Spurs,"33-47, 18-22 Home","65-14, 26-14 Away",102,98,,,Final,,24,27,26,25,,18,35,19,26,,NBA
+400827897,2015,"October 28, 2015",Houston Rockets,Denver Nuggets,"0-1, 0-1 Home","1-0, 1-0 Away",85,105,,,Final,,21,28,14,22,,27,26,23,29,,NBA
+400827931,2015,"November 01, 2015",Oklahoma City Thunder,Denver Nuggets,"3-0, 2-0 Home","1-2, 1-1 Away",117,93,,,Final,,29,29,37,22,,22,28,20,23,,NBA
+400827960,2015,"November 05, 2015",Denver Nuggets,Utah Jazz,"2-3, 0-2 Home","3-2, 3-1 Away",84,96,,,Final,,24,18,22,20,,19,21,25,31,,NBA
+400827989,2015,"November 09, 2015",Denver Nuggets,Portland Trail Blazers,"3-4, 1-2 Home","4-4, 2-2 Away",108,104,,,Final,,29,28,22,29,,33,25,22,24,,NBA
+400828023,2015,"November 13, 2015",Denver Nuggets,Houston Rockets,"5-4, 3-2 Home","4-5, 2-2 Away",107,98,,,Final,,30,29,23,25,,23,28,23,24,,NBA
+400828050,2015,"November 17, 2015",New Orleans Pelicans,Denver Nuggets,"1-10, 1-4 Home","6-5, 3-3 Away",98,115,,,Final,,21,32,22,23,,31,20,32,32,,NBA
+400828072,2015,"November 20, 2015",Denver Nuggets,Phoenix Suns,"6-7, 3-3 Home","7-5, 2-2 Away",107,114,,,Final,,29,34,21,23,,17,32,31,34,,NBA
+400828099,2015,"November 24, 2015",Denver Nuggets,LA Clippers,"6-9, 3-5 Home","7-7, 2-4 Away",94,111,,,Final,,26,19,27,22,,25,26,32,28,,NBA
+400828128,2015,"November 28, 2015",Dallas Mavericks,Denver Nuggets,"10-7, 5-2 Home","6-11, 3-5 Away",92,81,,,Final,NBATV,22,26,25,19,,25,27,5,24,,NBA
+400828160,2015,"December 02, 2015",Chicago Bulls,Denver Nuggets,"11-5, 7-1 Home","6-13, 3-7 Away",99,90,,,Final,,28,23,17,31,,21,25,26,18,,NBA
+400828176,2015,"December 05, 2015",Philadelphia 76ers,Denver Nuggets,"1-20, 1-8 Home","8-13, 5-7 Away",105,108,,,Final,,25,34,26,20,,29,23,25,31,,NBA
+400828227,2015,"December 11, 2015",Denver Nuggets,Minnesota Timberwolves,"9-14, 4-7 Home","9-13, 6-4 Away",111,108,,,Final/OT,,23,18,32,27,11.0,29,27,22,22,8.0,NBA
+400828255,2015,"December 15, 2015",Minnesota Timberwolves,Denver Nuggets,"9-15, 3-10 Home","11-14, 6-7 Away",100,112,,,Final,,24,25,31,20,,27,36,29,20,,NBA
+400828296,2015,"December 20, 2015",Denver Nuggets,New Orleans Pelicans,"11-16, 5-8 Home","8-19, 3-13 Away",125,130,,,Final,,31,43,22,29,,36,31,32,31,,NBA
+400828320,2015,"December 23, 2015",Phoenix Suns,Denver Nuggets,"12-19, 8-8 Home","12-17, 7-8 Away",96,104,,,Final,,21,29,22,24,,33,23,23,25,,NBA
+400828343,2015,"December 27, 2015",Oklahoma City Thunder,Denver Nuggets,"21-10, 14-4 Home","12-19, 7-10 Away",122,112,,,Final,,32,21,38,31,,31,30,29,22,,NBA
+400828369,2015,"December 30, 2015",Portland Trail Blazers,Denver Nuggets,"14-20, 8-6 Home","12-21, 7-11 Away",110,103,,,Final,NBATV,26,32,26,26,,27,24,20,32,,NBA
+400828396,2015,"January 03, 2016",Denver Nuggets,Portland Trail Blazers,"12-23, 5-11 Home","15-21, 7-15 Away",106,112,,,Final,,22,34,24,26,,23,38,19,32,,NBA
+400828429,2015,"January 08, 2016",Memphis Grizzlies,Denver Nuggets,"20-18, 12-6 Home","13-24, 8-13 Away",91,84,,,Final,,29,20,18,24,,30,7,29,18,,NBA
+400828470,2015,"January 13, 2016",Denver Nuggets,Golden State Warriors,"15-24, 7-11 Home","36-3, 18-3 Away",112,110,,,Final,,32,23,28,29,,25,29,19,37,,NBA
+400828500,2015,"January 17, 2016",Denver Nuggets,Indiana Pacers,"16-25, 8-12 Home","22-19, 9-13 Away",129,126,,,Final,,30,24,30,45,,30,36,25,35,,NBA
+400828529,2015,"January 21, 2016",Denver Nuggets,Memphis Grizzlies,"16-27, 8-14 Home","25-19, 9-12 Away",101,102,,,Final,,23,25,29,24,,37,18,24,23,,NBA
+400828559,2015,"January 25, 2016",Denver Nuggets,Atlanta Hawks,"17-28, 9-15 Home","27-19, 12-12 Away",105,119,,,Final,,30,20,26,29,,31,35,24,29,,NBA
+400828580,2015,"January 28, 2016",Washington Wizards,Denver Nuggets,"20-24, 10-15 Home","18-29, 9-14 Away",113,117,,,Final,,29,29,21,34,,29,35,27,26,,NBA
+400828614,2015,"February 01, 2016",Denver Nuggets,Toronto Raptors,"19-30, 10-15 Home","32-16, 14-10 Away",112,93,,,Final,,28,32,20,32,,28,21,16,28,,NBA
+400828644,2015,"February 05, 2016",Denver Nuggets,Chicago Bulls,"20-31, 11-15 Home","27-22, 11-13 Away",115,110,,,Final,,30,25,18,42,,26,31,32,21,,NBA
+400828665,2015,"February 08, 2016",Brooklyn Nets,Denver Nuggets,"14-39, 10-20 Home","21-32, 10-17 Away",105,104,,,Final,,26,29,26,24,,22,27,29,26,,NBA
+400828703,2015,"February 19, 2016",Sacramento Kings,Denver Nuggets,"23-31, 14-13 Home","22-33, 11-18 Away",116,110,,,Final,,31,39,18,28,,24,33,20,33,,NBA
+400828729,2015,"February 23, 2016",Denver Nuggets,Sacramento Kings,"22-35, 11-17 Home","24-31, 10-18 Away",110,114,,,Final,,25,25,27,33,,28,33,30,23,,NBA
+400828753,2015,"February 26, 2016",Dallas Mavericks,Denver Nuggets,"31-28, 17-12 Home","23-36, 12-19 Away",122,116,,,Final/OT,,20,24,32,32,14.0,28,28,24,28,8.0,NBA
+400828793,2015,"March 02, 2016",Denver Nuggets,Los Angeles Lakers,"24-37, 12-18 Home","12-50, 5-30 Away",117,107,,,Final,,27,30,26,34,,29,31,22,25,,NBA
+400828820,2015,"March 06, 2016",Denver Nuggets,Dallas Mavericks,"25-38, 13-19 Home","33-30, 14-17 Away",116,114,,,Final/OT,,22,35,20,29,10.0,19,31,29,27,8.0,NBA
+400828848,2015,"March 10, 2016",Denver Nuggets,Phoenix Suns,"27-38, 15-19 Home","17-48, 6-26 Away",116,98,,,Final,,25,30,27,34,,18,23,33,24,,NBA
+400828877,2015,"March 14, 2016",Miami Heat,Denver Nuggets,"39-28, 22-12 Home","28-39, 12-20 Away",124,119,,,Final,,36,28,26,34,,33,29,29,28,,NBA
+400828902,2015,"March 17, 2016",Atlanta Hawks,Denver Nuggets,"40-29, 22-12 Home","28-41, 12-22 Away",116,98,,,Final,,33,21,33,29,,23,25,28,22,,NBA
+400828931,2015,"March 21, 2016",Cleveland Cavaliers,Denver Nuggets,"50-20, 29-6 Home","29-42, 13-23 Away",124,91,,,Final,,38,18,31,37,,23,25,24,19,,NBA
+400828968,2015,"March 25, 2016",Los Angeles Lakers,Denver Nuggets,"15-57, 10-26 Home","31-42, 14-23 Away",105,116,,,Final,,31,15,31,28,,24,34,25,33,,NBA
+400828990,2015,"March 28, 2016",Denver Nuggets,Dallas Mavericks,"31-44, 17-20 Home","36-38, 16-21 Away",88,97,,,Final,,24,22,20,22,,28,22,22,25,,NBA
+400829012,2015,"March 31, 2016",New Orleans Pelicans,Denver Nuggets,"28-47, 20-18 Home","32-45, 15-25 Away",101,95,,,Final,,31,25,21,24,,26,28,24,17,,NBA
+400829047,2015,"April 05, 2016",Denver Nuggets,Oklahoma City Thunder,"32-47, 17-22 Home","54-24, 23-15 Away",102,124,,,Final,,30,21,26,25,,32,36,39,17,,NBA
+400829085,2015,"April 10, 2016",Denver Nuggets,Utah Jazz,"33-48, 18-23 Home","40-40, 16-24 Away",84,100,,,Final,,22,25,15,22,,26,22,34,18,,NBA
+400829117,2015,"April 13, 2016",Portland Trail Blazers,Denver Nuggets,"44-38, 28-13 Home","33-49, 15-26 Away",107,99,,,Final,,27,31,29,20,,31,25,23,20,,NBA

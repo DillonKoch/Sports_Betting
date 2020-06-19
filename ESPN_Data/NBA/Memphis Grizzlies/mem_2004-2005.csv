@@ -1,83 +1,83 @@
-,Unnamed: 0,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-0,0,241105029,2004,"Fri, Nov 5",Memphis Grizzlies,Houston Rockets,"0-2, 0-2 Home","1-2, 1-2 Away",81,89,,,Final,,19,19,22,21,,23,18,26,22,,NBA
-1,1,241109010,2004,"Tue, Nov 9",Houston Rockets,Memphis Grizzlies,"3-2, 2-0 Home","0-4, 0-2 Away",90,87,,,Final,,21,26,23,20,,26,25,21,15,,NBA
-2,2,241112029,2004,"Fri, Nov 12",Memphis Grizzlies,Golden State Warriors,"2-4, 2-2 Home","0-6, 0-3 Away",96,67,,,Final,,19,32,21,24,,15,17,19,16,,NBA
-3,3,241117022,2004,"Wed, Nov 17",Portland Trail Blazers,Memphis Grizzlies,"3-4, 2-1 Home","3-5, 1-3 Away",82,101,,,Final,,20,20,15,27,,23,30,29,19,,NBA
-4,4,241120009,2004,"Sat, Nov 20",Golden State Warriors,Memphis Grizzlies,"2-8, 1-4 Home","4-6, 2-4 Away",87,100,,,Final,,20,22,24,21,,24,23,32,21,,NBA
-5,5,241124029,2004,"Wed, Nov 24",Memphis Grizzlies,Seattle SuperSonics,"5-7, 3-3 Home","11-2, 6-2 Away",84,93,,,Final,,26,21,21,16,,20,25,33,15,,NBA
-6,6,241127029,2004,"Sat, Nov 27",Memphis Grizzlies,Dallas Mavericks,"5-9, 3-4 Home","10-5, 5-3 Away",85,98,,,Final,,30,28,16,11,,27,24,23,24,,NBA
-7,7,241201018,2004,"Wed, Dec 1",New York Knicks,Memphis Grizzlies,"8-6, 6-1 Home","5-11, 2-6 Away",90,82,,,Final,,18,31,22,19,,23,21,17,21,,NBA
-8,8,241204019,2004,"Sat, Dec 4",Orlando Magic,Memphis Grizzlies,"11-5, 7-2 Home","6-12, 2-7 Away",96,91,,,Final,,29,26,18,23,,20,18,22,31,,NBA
-9,9,241208001,2004,"Wed, Dec 8",Atlanta Hawks,Memphis Grizzlies,"3-15, 2-8 Home","8-12, 3-7 Away",89,97,,,Final,,18,21,27,23,,22,22,21,32,,NBA
-10,10,241211029,2004,"Sat, Dec 11",Memphis Grizzlies,Detroit Pistons,"9-13, 6-5 Home","10-10, 4-8 Away",72,68,,,Final,,16,19,23,14,,18,18,17,15,,NBA
-11,11,241215029,2004,"Wed, Dec 15",Memphis Grizzlies,Chicago Bulls,"9-15, 6-7 Home","5-15, 2-8 Away",88,96,,,Final,,27,21,22,18,,23,21,27,25,,NBA
-12,12,241219012,2004,"Sun, Dec 19",LA Clippers,Memphis Grizzlies,"11-12, 7-7 Home","11-15, 4-8 Away",82,92,,,Final,,21,18,29,14,,33,13,22,24,,NBA
-13,13,241222009,2004,"Wed, Dec 22",Golden State Warriors,Memphis Grizzlies,"8-18, 6-8 Home","12-16, 5-9 Away",109,99,,,Final,,21,23,35,30,,29,25,20,25,,NBA
-14,14,241227029,2004,"Mon, Dec 27",Memphis Grizzlies,LA Clippers,"13-17, 8-7 Home","12-14, 4-7 Away",96,76,,,Final,,29,22,24,21,,12,28,15,21,,NBA
-15,15,250101016,2004,"Sat, Jan 1",Minnesota Timberwolves,Memphis Grizzlies,"16-12, 8-4 Home","15-17, 6-10 Away",95,104,,,Final,,34,23,19,19,,23,27,31,23,,NBA
-16,16,250106008,2004,"Thu, Jan 6",Detroit Pistons,Memphis Grizzlies,"17-14, 9-6 Home","17-17, 7-10 Away",79,101,,,Final,,23,21,16,19,,28,25,29,19,,NBA
-17,17,250111029,2004,"Tue, Jan 11",Memphis Grizzlies,Indiana Pacers,"18-18, 11-8 Home","17-16, 8-10 Away",85,86,,,Final,,28,29,10,18,,22,26,13,25,,NBA
-18,18,250115029,2004,"Sat, Jan 15",Memphis Grizzlies,Milwaukee Bucks,"20-18, 12-8 Home","12-23, 3-15 Away",101,82,,,Final,,25,23,29,24,,21,21,23,17,,NBA
-19,19,250119021,2004,"Wed, Jan 19",Phoenix Suns,Memphis Grizzlies,"31-9, 16-3 Home","22-18, 9-10 Away",79,88,,,Final,,22,19,21,17,,22,21,23,22,,NBA
-20,20,250122026,2004,"Sat, Jan 22",Utah Jazz,Memphis Grizzlies,"14-27, 8-11 Home","23-19, 10-11 Away",94,110,,,Final,,20,21,29,24,,28,19,32,31,,NBA
-21,21,250126005,2004,"Wed, Jan 26",Cleveland Cavaliers,Memphis Grizzlies,"25-16, 15-4 Home","24-20, 10-12 Away",114,111,,,Final,,30,33,25,26,,31,26,26,28,,NBA
-22,22,250131003,2004,"Mon, Jan 31",New Orleans Hornets,Memphis Grizzlies,"8-36, 6-14 Home","26-20, 11-12 Away",91,98,,,Final,,27,19,20,25,,21,22,30,25,,NBA
-23,23,250203029,2004,"Thu, Feb 3",Memphis Grizzlies,LA Clippers,"27-21, 16-9 Home","23-23, 6-13 Away",103,106,,,Final,,29,24,29,21,,28,18,28,32,,NBA
-24,24,250209020,2004,"Wed, Feb 9",Philadelphia 76ers,Memphis Grizzlies,"23-26, 13-9 Home","29-21, 12-12 Away",95,98,,,Final,CSN,24,29,23,19,,25,26,22,25,,NBA
-25,25,250213011,2004,"Sun, Feb 13",Indiana Pacers,Memphis Grizzlies,"24-26, 13-12 Home","30-22, 12-13 Away",76,73,,,Final,,21,23,20,12,,16,23,13,21,,NBA
-26,26,250223027,2004,"Wed, Feb 23",Washington Wizards,Memphis Grizzlies,"31-22, 21-7 Home","30-24, 12-15 Away",93,83,,,Final,,21,21,30,21,,23,21,17,22,,NBA
-27,27,250226024,2004,"Sat, Feb 26",San Antonio Spurs,Memphis Grizzlies,"42-13, 24-2 Home","31-25, 13-15 Away",82,84,,,Final,,21,19,18,24,,25,22,10,27,,NBA
-28,28,250304029,2004,"Fri, Mar 4",Memphis Grizzlies,Toronto Raptors,"33-25, 20-10 Home","24-34, 6-23 Away",86,75,,,Final,,25,17,21,23,,16,24,27,8,,NBA
-29,29,250308023,2004,"Tue, Mar 8",Sacramento Kings,Memphis Grizzlies,"38-24, 22-8 Home","34-26, 14-16 Away",85,82,,,Final,,25,27,22,11,,21,16,28,17,,NBA
-30,30,250312022,2004,"Sat, Mar 12",Portland Trail Blazers,Memphis Grizzlies,"23-37, 15-15 Home","35-27, 15-17 Away",80,66,,,Final,,11,29,19,21,,17,18,13,18,,NBA
-31,31,250316003,2004,"Wed, Mar 16",New Orleans Hornets,Memphis Grizzlies,"14-49, 11-21 Home","37-27, 16-17 Away",82,88,,,Final,,19,18,28,17,,25,22,20,21,,NBA
-32,32,250320029,2004,"Sun, Mar 20",Memphis Grizzlies,Phoenix Suns,"38-28, 22-11 Home","49-16, 26-7 Away",91,97,,,Final,,24,25,24,18,,26,25,28,18,,NBA
-33,33,250326029,2004,"Sat, Mar 26",Memphis Grizzlies,New Orleans Hornets,"39-29, 22-12 Home","16-53, 5-30 Away",85,96,,,Final,,18,18,26,23,,21,28,29,18,,NBA
-34,34,250329029,2004,"Tue, Mar 29",Memphis Grizzlies,Seattle SuperSonics,"39-31, 22-13 Home","49-21, 25-9 Away",99,102,,,Final,,21,29,28,21,,19,25,28,30,,NBA
-35,35,250403029,2004,"Sun, Apr 3",Memphis Grizzlies,Los Angeles Lakers,"41-31, 23-13 Home","33-40, 11-25 Away",102,82,,,Final,,32,23,24,23,,14,18,32,18,,NBA
-36,36,250406028,2004,"Wed, Apr 6",Toronto Raptors,Memphis Grizzlies,"30-44, 21-15 Home","42-32, 19-18 Away",74,104,,,Final,,19,13,22,20,,32,28,27,17,,NBA
-37,37,250410029,2004,"Sun, Apr 10",Memphis Grizzlies,Charlotte Bobcats,"44-32, 25-14 Home","15-61, 3-35 Away",102,95,,,Final,,24,28,26,24,,26,20,22,27,,NBA
-38,38,250413010,2004,"Wed, Apr 13",Houston Rockets,Memphis Grizzlies,"48-31, 23-15 Home","44-34, 19-20 Away",100,92,,,Final,,24,28,17,31,,26,16,24,26,,NBA
-39,39,250416024,2004,"Sat, Apr 16",San Antonio Spurs,Memphis Grizzlies,"59-21, 38-3 Home","44-36, 19-22 Away",97,75,,,Final,,21,27,25,24,,15,20,20,20,,NBA
-40,40,241103029,2004,"Wed, Nov 3",Memphis Grizzlies,Washington Wizards,"0-1, 0-1 Home","1-0, 1-0 Away",91,103,,,Final,,27,25,11,28,,16,28,32,27,,NBA
-41,41,241106006,2004,"Sat, Nov 6",Dallas Mavericks,Memphis Grizzlies,"3-0, 2-0 Home","0-3, 0-1 Away",112,88,,,Final,,24,33,28,27,,35,18,15,20,,NBA
-42,42,241110029,2004,"Wed, Nov 10",Memphis Grizzlies,Los Angeles Lakers,"1-4, 1-2 Home","3-3, 1-2 Away",110,87,,,Final,,28,35,27,20,,24,20,23,20,,NBA
-43,43,241114025,2004,"Sun, Nov 14",Seattle SuperSonics,Memphis Grizzlies,"6-1, 5-0 Home","2-5, 0-3 Away",118,113,,,Final,,27,34,23,34,,29,42,29,13,,NBA
-44,44,241119023,2004,"Fri, Nov 19",Sacramento Kings,Memphis Grizzlies,"5-4, 4-0 Home","3-6, 1-4 Away",107,105,,,Final,,35,27,17,28,,27,26,34,18,,NBA
-45,45,241122029,2004,"Mon, Nov 22",Memphis Grizzlies,San Antonio Spurs,"5-6, 3-2 Home","8-3, 4-3 Away",93,90,,,Final,,23,25,23,22,,25,25,18,22,,NBA
-46,46,241126016,2004,"Fri, Nov 26",Minnesota Timberwolves,Memphis Grizzlies,"7-5, 4-2 Home","5-8, 2-5 Away",115,90,,,Final,,34,25,35,21,,27,23,21,19,,NBA
-47,47,241130029,2004,"Tue, Nov 30",Memphis Grizzlies,Sacramento Kings,"5-10, 3-5 Home","9-5, 3-4 Away",93,98,,,Final,,18,28,28,19,,20,29,29,20,,NBA
-48,48,241203029,2004,"Fri, Dec 3",Memphis Grizzlies,Philadelphia 76ers,"6-11, 4-5 Home","6-9, 1-6 Away",94,86,,,Final,CSN,23,24,24,23,,22,14,24,26,,NBA
-49,49,241207029,2004,"Tue, Dec 7",Memphis Grizzlies,New York Knicks,"7-12, 5-5 Home","8-9, 2-7 Away",96,88,,,Final,,28,21,29,18,,18,29,18,23,,NBA
-50,50,241210014,2004,"Fri, Dec 10",Miami Heat,Memphis Grizzlies,"14-7, 7-3 Home","8-13, 3-8 Away",92,84,,,Final,,24,23,22,23,,25,20,23,16,,NBA
-51,51,241213029,2004,"Mon, Dec 13",Memphis Grizzlies,Cleveland Cavaliers,"9-14, 6-6 Home","13-8, 5-7 Away",86,92,,,Final,,21,30,22,13,,28,21,23,20,,NBA
-52,52,241217029,2004,"Fri, Dec 17",Memphis Grizzlies,New Jersey Nets,"10-15, 7-7 Home","7-15, 2-8 Away",89,84,,,Final,,15,22,25,27,,20,15,20,29,,NBA
-53,53,241220013,2004,"Mon, Dec 20",Los Angeles Lakers,Memphis Grizzlies,"13-11, 8-5 Home","12-15, 5-8 Away",72,82,,,Final,,26,22,15,9,,22,22,25,13,,NBA
-54,54,241223021,2004,"Thu, Dec 23",Phoenix Suns,Memphis Grizzlies,"23-3, 12-2 Home","12-17, 5-10 Away",109,102,,,Final,,29,27,22,31,,27,26,24,25,,NBA
-55,55,241229029,2004,"Wed, Dec 29",Memphis Grizzlies,Boston Celtics,"14-17, 9-7 Home","12-16, 5-11 Away",117,109,,,Final,,29,27,27,34,,38,27,29,15,,NBA
-56,56,250103029,2004,"Mon, Jan 3",Memphis Grizzlies,Utah Jazz,"16-17, 10-7 Home","11-21, 5-13 Away",92,82,,,Final,,22,16,30,24,,23,14,21,24,,NBA
-57,57,250107029,2004,"Fri, Jan 7",Memphis Grizzlies,New Orleans Hornets,"18-17, 11-7 Home","2-29, 1-17 Away",84,76,,,Final,,25,24,22,13,,19,23,23,11,,NBA
-58,58,250114030,2004,"Fri, Jan 14",Charlotte Bobcats,Memphis Grizzlies,"8-24, 7-9 Home","19-18, 8-10 Away",89,109,,,Final,,23,21,22,23,,26,32,26,25,,NBA
-59,59,250117029,2004,"Mon, Jan 17",Memphis Grizzlies,Houston Rockets,"21-18, 13-8 Home","20-18, 7-10 Away",99,80,,,Final,,25,29,19,26,,25,22,13,20,,NBA
-60,60,250121007,2004,"Fri, Jan 21",Denver Nuggets,Memphis Grizzlies,"17-22, 12-9 Home","22-19, 9-11 Away",92,82,,,Final,,19,31,24,18,,24,21,20,17,,NBA
-61,61,250125029,2004,"Tue, Jan 25",Memphis Grizzlies,Orlando Magic,"24-19, 14-8 Home","22-19, 8-14 Away",95,83,,,Final,,25,17,21,32,,15,27,22,19,,NBA
-62,62,250129029,2004,"Sat, Jan 29",Memphis Grizzlies,Atlanta Hawks,"25-20, 15-8 Home","8-34, 2-17 Away",84,83,,,Final,,27,19,18,20,,19,27,23,14,,NBA
-63,63,250201029,2004,"Tue, Feb 1",Memphis Grizzlies,Phoenix Suns,"27-20, 16-8 Home","36-11, 19-7 Away",108,97,,,Final,,31,14,34,29,,29,20,25,23,,NBA
-64,64,250208029,2004,"Tue, Feb 8",Memphis Grizzlies,Minnesota Timberwolves,"28-21, 17-9 Home","24-25, 11-13 Away",108,96,,,Final,,29,34,27,18,,14,30,21,31,,NBA
-65,65,250211029,2004,"Fri, Feb 11",Memphis Grizzlies,Portland Trail Blazers,"30-21, 18-9 Home","20-28, 7-18 Away",88,82,,,Final,,22,27,15,24,,32,19,18,13,,NBA
-66,66,250216002,2004,"Wed, Feb 16",Boston Celtics,Memphis Grizzlies,"27-26, 19-9 Home","30-23, 12-14 Away",90,88,,,Final,,29,21,22,18,,28,15,23,22,,NBA
-67,67,250225029,2004,"Fri, Feb 25",Memphis Grizzlies,Denver Nuggets,"30-25, 18-10 Home","26-29, 10-20 Away",94,97,,,Final/OT,,19,21,31,20,3.0,20,30,12,29,6.0,NBA
-68,68,250301029,2004,"Tue, Mar 1",Memphis Grizzlies,Golden State Warriors,"32-25, 19-10 Home","16-40, 5-22 Away",99,97,,,Final,,22,31,33,13,,23,27,25,22,,NBA
-69,69,250307012,2004,"Mon, Mar 7",LA Clippers,Memphis Grizzlies,"26-34, 20-12 Home","34-25, 14-15 Away",102,105,,,Final,,25,25,21,31,,29,16,33,27,,NBA
-70,70,250311026,2004,"Fri, Mar 11",Utah Jazz,Memphis Grizzlies,"20-41, 13-18 Home","35-26, 15-16 Away",82,94,,,Final,,20,28,18,16,,22,23,32,17,,NBA
-71,71,250314029,2004,"Mon, Mar 14",Memphis Grizzlies,Portland Trail Blazers,"36-27, 21-10 Home","23-38, 8-23 Away",104,83,,,Final,,25,28,22,29,,24,17,16,26,,NBA
-72,72,250318029,2004,"Fri, Mar 18",Memphis Grizzlies,Minnesota Timberwolves,"38-27, 22-10 Home","33-34, 15-19 Away",88,83,,,Final,,12,29,17,30,,19,16,22,26,,NBA
-73,73,250324017,2004,"Thu, Mar 24",New Jersey Nets,Memphis Grizzlies,"32-37, 19-15 Home","39-28, 17-17 Away",96,105,,,Final,,24,31,18,23,,26,27,21,31,,NBA
-74,74,250328004,2004,"Mon, Mar 28",Chicago Bulls,Memphis Grizzlies,"38-31, 22-13 Home","39-30, 17-18 Away",94,86,,,Final,,26,25,24,19,,23,19,19,25,,NBA
-75,75,250401015,2004,"Fri, Apr 1",Milwaukee Bucks,Memphis Grizzlies,"27-45, 20-16 Home","40-31, 18-18 Away",82,93,,,Final,,20,30,14,18,,24,28,13,28,,NBA
-76,76,250405029,2004,"Tue, Apr 5",Memphis Grizzlies,Denver Nuggets,"41-32, 23-14 Home","42-31, 16-21 Away",91,94,,,Final,,24,27,25,15,,28,18,24,24,,NBA
-77,77,250408029,2004,"Fri, Apr 8",Memphis Grizzlies,Miami Heat,"43-32, 24-14 Home","56-20, 23-15 Away",97,81,,,Final,,32,28,17,20,,14,21,23,23,,NBA
-78,78,250411006,2004,"Mon, Apr 11",Dallas Mavericks,Memphis Grizzlies,"53-24, 28-12 Home","44-33, 19-19 Away",110,89,,,Final,,22,29,28,31,,23,21,27,18,,NBA
-79,79,250415007,2004,"Fri, Apr 15",Denver Nuggets,Memphis Grizzlies,"48-31, 30-10 Home","44-35, 19-21 Away",111,102,,,Final,,34,33,15,29,,16,32,26,28,,NBA
-80,80,250418029,2004,"Mon, Apr 18",Memphis Grizzlies,San Antonio Spurs,"45-36, 26-14 Home","59-22, 21-19 Away",94,92,,,Final,,23,24,18,29,,21,16,24,31,,NBA
-81,81,250420029,2004,"Wed, Apr 20",Memphis Grizzlies,Dallas Mavericks,"45-37, 26-15 Home","58-24, 29-12 Away",88,108,,,Final,,16,25,30,17,,29,26,31,22,,NBA
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+241105029,2004,"November 05, 2004",Memphis Grizzlies,Houston Rockets,"0-2, 0-2 Home","1-2, 1-2 Away",81,89,,,Final,,19,19,22,21,,23,18,26,22,,NBA
+241109010,2004,"November 09, 2004",Houston Rockets,Memphis Grizzlies,"3-2, 2-0 Home","0-4, 0-2 Away",90,87,,,Final,,21,26,23,20,,26,25,21,15,,NBA
+241112029,2004,"November 12, 2004",Memphis Grizzlies,Golden State Warriors,"2-4, 2-2 Home","0-6, 0-3 Away",96,67,,,Final,,19,32,21,24,,15,17,19,16,,NBA
+241117022,2004,"November 17, 2004",Portland Trail Blazers,Memphis Grizzlies,"3-4, 2-1 Home","3-5, 1-3 Away",82,101,,,Final,,20,20,15,27,,23,30,29,19,,NBA
+241120009,2004,"November 20, 2004",Golden State Warriors,Memphis Grizzlies,"2-8, 1-4 Home","4-6, 2-4 Away",87,100,,,Final,,20,22,24,21,,24,23,32,21,,NBA
+241124029,2004,"November 24, 2004",Memphis Grizzlies,Seattle SuperSonics,"5-7, 3-3 Home","11-2, 6-2 Away",84,93,,,Final,,26,21,21,16,,20,25,33,15,,NBA
+241127029,2004,"November 27, 2004",Memphis Grizzlies,Dallas Mavericks,"5-9, 3-4 Home","10-5, 5-3 Away",85,98,,,Final,,30,28,16,11,,27,24,23,24,,NBA
+241201018,2004,"December 01, 2004",New York Knicks,Memphis Grizzlies,"8-6, 6-1 Home","5-11, 2-6 Away",90,82,,,Final,,18,31,22,19,,23,21,17,21,,NBA
+241204019,2004,"December 04, 2004",Orlando Magic,Memphis Grizzlies,"11-5, 7-2 Home","6-12, 2-7 Away",96,91,,,Final,,29,26,18,23,,20,18,22,31,,NBA
+241208001,2004,"December 08, 2004",Atlanta Hawks,Memphis Grizzlies,"3-15, 2-8 Home","8-12, 3-7 Away",89,97,,,Final,,18,21,27,23,,22,22,21,32,,NBA
+241211029,2004,"December 11, 2004",Memphis Grizzlies,Detroit Pistons,"9-13, 6-5 Home","10-10, 4-8 Away",72,68,,,Final,,16,19,23,14,,18,18,17,15,,NBA
+241215029,2004,"December 15, 2004",Memphis Grizzlies,Chicago Bulls,"9-15, 6-7 Home","5-15, 2-8 Away",88,96,,,Final,,27,21,22,18,,23,21,27,25,,NBA
+241219012,2004,"December 19, 2004",LA Clippers,Memphis Grizzlies,"11-12, 7-7 Home","11-15, 4-8 Away",82,92,,,Final,,21,18,29,14,,33,13,22,24,,NBA
+241222009,2004,"December 22, 2004",Golden State Warriors,Memphis Grizzlies,"8-18, 6-8 Home","12-16, 5-9 Away",109,99,,,Final,,21,23,35,30,,29,25,20,25,,NBA
+241227029,2004,"December 27, 2004",Memphis Grizzlies,LA Clippers,"13-17, 8-7 Home","12-14, 4-7 Away",96,76,,,Final,,29,22,24,21,,12,28,15,21,,NBA
+250101016,2004,"January 01, 2005",Minnesota Timberwolves,Memphis Grizzlies,"16-12, 8-4 Home","15-17, 6-10 Away",95,104,,,Final,,34,23,19,19,,23,27,31,23,,NBA
+250106008,2004,"January 06, 2005",Detroit Pistons,Memphis Grizzlies,"17-14, 9-6 Home","17-17, 7-10 Away",79,101,,,Final,,23,21,16,19,,28,25,29,19,,NBA
+250111029,2004,"January 11, 2005",Memphis Grizzlies,Indiana Pacers,"18-18, 11-8 Home","17-16, 8-10 Away",85,86,,,Final,,28,29,10,18,,22,26,13,25,,NBA
+250115029,2004,"January 15, 2005",Memphis Grizzlies,Milwaukee Bucks,"20-18, 12-8 Home","12-23, 3-15 Away",101,82,,,Final,,25,23,29,24,,21,21,23,17,,NBA
+250119021,2004,"January 19, 2005",Phoenix Suns,Memphis Grizzlies,"31-9, 16-3 Home","22-18, 9-10 Away",79,88,,,Final,,22,19,21,17,,22,21,23,22,,NBA
+250122026,2004,"January 22, 2005",Utah Jazz,Memphis Grizzlies,"14-27, 8-11 Home","23-19, 10-11 Away",94,110,,,Final,,20,21,29,24,,28,19,32,31,,NBA
+250126005,2004,"January 26, 2005",Cleveland Cavaliers,Memphis Grizzlies,"25-16, 15-4 Home","24-20, 10-12 Away",114,111,,,Final,,30,33,25,26,,31,26,26,28,,NBA
+250131003,2004,"January 31, 2005",New Orleans Hornets,Memphis Grizzlies,"8-36, 6-14 Home","26-20, 11-12 Away",91,98,,,Final,,27,19,20,25,,21,22,30,25,,NBA
+250203029,2004,"February 03, 2005",Memphis Grizzlies,LA Clippers,"27-21, 16-9 Home","23-23, 6-13 Away",103,106,,,Final,,29,24,29,21,,28,18,28,32,,NBA
+250209020,2004,"February 09, 2005",Philadelphia 76ers,Memphis Grizzlies,"23-26, 13-9 Home","29-21, 12-12 Away",95,98,,,Final,CSN,24,29,23,19,,25,26,22,25,,NBA
+250213011,2004,"February 13, 2005",Indiana Pacers,Memphis Grizzlies,"24-26, 13-12 Home","30-22, 12-13 Away",76,73,,,Final,,21,23,20,12,,16,23,13,21,,NBA
+250223027,2004,"February 23, 2005",Washington Wizards,Memphis Grizzlies,"31-22, 21-7 Home","30-24, 12-15 Away",93,83,,,Final,,21,21,30,21,,23,21,17,22,,NBA
+250226024,2004,"February 26, 2005",San Antonio Spurs,Memphis Grizzlies,"42-13, 24-2 Home","31-25, 13-15 Away",82,84,,,Final,,21,19,18,24,,25,22,10,27,,NBA
+250304029,2004,"March 04, 2005",Memphis Grizzlies,Toronto Raptors,"33-25, 20-10 Home","24-34, 6-23 Away",86,75,,,Final,,25,17,21,23,,16,24,27,8,,NBA
+250308023,2004,"March 08, 2005",Sacramento Kings,Memphis Grizzlies,"38-24, 22-8 Home","34-26, 14-16 Away",85,82,,,Final,,25,27,22,11,,21,16,28,17,,NBA
+250312022,2004,"March 12, 2005",Portland Trail Blazers,Memphis Grizzlies,"23-37, 15-15 Home","35-27, 15-17 Away",80,66,,,Final,,11,29,19,21,,17,18,13,18,,NBA
+250316003,2004,"March 16, 2005",New Orleans Hornets,Memphis Grizzlies,"14-49, 11-21 Home","37-27, 16-17 Away",82,88,,,Final,,19,18,28,17,,25,22,20,21,,NBA
+250320029,2004,"March 20, 2005",Memphis Grizzlies,Phoenix Suns,"38-28, 22-11 Home","49-16, 26-7 Away",91,97,,,Final,,24,25,24,18,,26,25,28,18,,NBA
+250326029,2004,"March 26, 2005",Memphis Grizzlies,New Orleans Hornets,"39-29, 22-12 Home","16-53, 5-30 Away",85,96,,,Final,,18,18,26,23,,21,28,29,18,,NBA
+250329029,2004,"March 29, 2005",Memphis Grizzlies,Seattle SuperSonics,"39-31, 22-13 Home","49-21, 25-9 Away",99,102,,,Final,,21,29,28,21,,19,25,28,30,,NBA
+250403029,2004,"April 03, 2005",Memphis Grizzlies,Los Angeles Lakers,"41-31, 23-13 Home","33-40, 11-25 Away",102,82,,,Final,,32,23,24,23,,14,18,32,18,,NBA
+250406028,2004,"April 06, 2005",Toronto Raptors,Memphis Grizzlies,"30-44, 21-15 Home","42-32, 19-18 Away",74,104,,,Final,,19,13,22,20,,32,28,27,17,,NBA
+250410029,2004,"April 10, 2005",Memphis Grizzlies,Charlotte Bobcats,"44-32, 25-14 Home","15-61, 3-35 Away",102,95,,,Final,,24,28,26,24,,26,20,22,27,,NBA
+250413010,2004,"April 13, 2005",Houston Rockets,Memphis Grizzlies,"48-31, 23-15 Home","44-34, 19-20 Away",100,92,,,Final,,24,28,17,31,,26,16,24,26,,NBA
+250416024,2004,"April 16, 2005",San Antonio Spurs,Memphis Grizzlies,"59-21, 38-3 Home","44-36, 19-22 Away",97,75,,,Final,,21,27,25,24,,15,20,20,20,,NBA
+241103029,2004,"November 03, 2004",Memphis Grizzlies,Washington Wizards,"0-1, 0-1 Home","1-0, 1-0 Away",91,103,,,Final,,27,25,11,28,,16,28,32,27,,NBA
+241106006,2004,"November 06, 2004",Dallas Mavericks,Memphis Grizzlies,"3-0, 2-0 Home","0-3, 0-1 Away",112,88,,,Final,,24,33,28,27,,35,18,15,20,,NBA
+241110029,2004,"November 10, 2004",Memphis Grizzlies,Los Angeles Lakers,"1-4, 1-2 Home","3-3, 1-2 Away",110,87,,,Final,,28,35,27,20,,24,20,23,20,,NBA
+241114025,2004,"November 14, 2004",Seattle SuperSonics,Memphis Grizzlies,"6-1, 5-0 Home","2-5, 0-3 Away",118,113,,,Final,,27,34,23,34,,29,42,29,13,,NBA
+241119023,2004,"November 19, 2004",Sacramento Kings,Memphis Grizzlies,"5-4, 4-0 Home","3-6, 1-4 Away",107,105,,,Final,,35,27,17,28,,27,26,34,18,,NBA
+241122029,2004,"November 22, 2004",Memphis Grizzlies,San Antonio Spurs,"5-6, 3-2 Home","8-3, 4-3 Away",93,90,,,Final,,23,25,23,22,,25,25,18,22,,NBA
+241126016,2004,"November 26, 2004",Minnesota Timberwolves,Memphis Grizzlies,"7-5, 4-2 Home","5-8, 2-5 Away",115,90,,,Final,,34,25,35,21,,27,23,21,19,,NBA
+241130029,2004,"November 30, 2004",Memphis Grizzlies,Sacramento Kings,"5-10, 3-5 Home","9-5, 3-4 Away",93,98,,,Final,,18,28,28,19,,20,29,29,20,,NBA
+241203029,2004,"December 03, 2004",Memphis Grizzlies,Philadelphia 76ers,"6-11, 4-5 Home","6-9, 1-6 Away",94,86,,,Final,CSN,23,24,24,23,,22,14,24,26,,NBA
+241207029,2004,"December 07, 2004",Memphis Grizzlies,New York Knicks,"7-12, 5-5 Home","8-9, 2-7 Away",96,88,,,Final,,28,21,29,18,,18,29,18,23,,NBA
+241210014,2004,"December 10, 2004",Miami Heat,Memphis Grizzlies,"14-7, 7-3 Home","8-13, 3-8 Away",92,84,,,Final,,24,23,22,23,,25,20,23,16,,NBA
+241213029,2004,"December 13, 2004",Memphis Grizzlies,Cleveland Cavaliers,"9-14, 6-6 Home","13-8, 5-7 Away",86,92,,,Final,,21,30,22,13,,28,21,23,20,,NBA
+241217029,2004,"December 17, 2004",Memphis Grizzlies,New Jersey Nets,"10-15, 7-7 Home","7-15, 2-8 Away",89,84,,,Final,,15,22,25,27,,20,15,20,29,,NBA
+241220013,2004,"December 20, 2004",Los Angeles Lakers,Memphis Grizzlies,"13-11, 8-5 Home","12-15, 5-8 Away",72,82,,,Final,,26,22,15,9,,22,22,25,13,,NBA
+241223021,2004,"December 23, 2004",Phoenix Suns,Memphis Grizzlies,"23-3, 12-2 Home","12-17, 5-10 Away",109,102,,,Final,,29,27,22,31,,27,26,24,25,,NBA
+241229029,2004,"December 29, 2004",Memphis Grizzlies,Boston Celtics,"14-17, 9-7 Home","12-16, 5-11 Away",117,109,,,Final,,29,27,27,34,,38,27,29,15,,NBA
+250103029,2004,"January 03, 2005",Memphis Grizzlies,Utah Jazz,"16-17, 10-7 Home","11-21, 5-13 Away",92,82,,,Final,,22,16,30,24,,23,14,21,24,,NBA
+250107029,2004,"January 07, 2005",Memphis Grizzlies,New Orleans Hornets,"18-17, 11-7 Home","2-29, 1-17 Away",84,76,,,Final,,25,24,22,13,,19,23,23,11,,NBA
+250114030,2004,"January 14, 2005",Charlotte Bobcats,Memphis Grizzlies,"8-24, 7-9 Home","19-18, 8-10 Away",89,109,,,Final,,23,21,22,23,,26,32,26,25,,NBA
+250117029,2004,"January 17, 2005",Memphis Grizzlies,Houston Rockets,"21-18, 13-8 Home","20-18, 7-10 Away",99,80,,,Final,,25,29,19,26,,25,22,13,20,,NBA
+250121007,2004,"January 21, 2005",Denver Nuggets,Memphis Grizzlies,"17-22, 12-9 Home","22-19, 9-11 Away",92,82,,,Final,,19,31,24,18,,24,21,20,17,,NBA
+250125029,2004,"January 25, 2005",Memphis Grizzlies,Orlando Magic,"24-19, 14-8 Home","22-19, 8-14 Away",95,83,,,Final,,25,17,21,32,,15,27,22,19,,NBA
+250129029,2004,"January 29, 2005",Memphis Grizzlies,Atlanta Hawks,"25-20, 15-8 Home","8-34, 2-17 Away",84,83,,,Final,,27,19,18,20,,19,27,23,14,,NBA
+250201029,2004,"February 01, 2005",Memphis Grizzlies,Phoenix Suns,"27-20, 16-8 Home","36-11, 19-7 Away",108,97,,,Final,,31,14,34,29,,29,20,25,23,,NBA
+250208029,2004,"February 08, 2005",Memphis Grizzlies,Minnesota Timberwolves,"28-21, 17-9 Home","24-25, 11-13 Away",108,96,,,Final,,29,34,27,18,,14,30,21,31,,NBA
+250211029,2004,"February 11, 2005",Memphis Grizzlies,Portland Trail Blazers,"30-21, 18-9 Home","20-28, 7-18 Away",88,82,,,Final,,22,27,15,24,,32,19,18,13,,NBA
+250216002,2004,"February 16, 2005",Boston Celtics,Memphis Grizzlies,"27-26, 19-9 Home","30-23, 12-14 Away",90,88,,,Final,,29,21,22,18,,28,15,23,22,,NBA
+250225029,2004,"February 25, 2005",Memphis Grizzlies,Denver Nuggets,"30-25, 18-10 Home","26-29, 10-20 Away",94,97,,,Final/OT,,19,21,31,20,3.0,20,30,12,29,6.0,NBA
+250301029,2004,"March 01, 2005",Memphis Grizzlies,Golden State Warriors,"32-25, 19-10 Home","16-40, 5-22 Away",99,97,,,Final,,22,31,33,13,,23,27,25,22,,NBA
+250307012,2004,"March 07, 2005",LA Clippers,Memphis Grizzlies,"26-34, 20-12 Home","34-25, 14-15 Away",102,105,,,Final,,25,25,21,31,,29,16,33,27,,NBA
+250311026,2004,"March 11, 2005",Utah Jazz,Memphis Grizzlies,"20-41, 13-18 Home","35-26, 15-16 Away",82,94,,,Final,,20,28,18,16,,22,23,32,17,,NBA
+250314029,2004,"March 14, 2005",Memphis Grizzlies,Portland Trail Blazers,"36-27, 21-10 Home","23-38, 8-23 Away",104,83,,,Final,,25,28,22,29,,24,17,16,26,,NBA
+250318029,2004,"March 18, 2005",Memphis Grizzlies,Minnesota Timberwolves,"38-27, 22-10 Home","33-34, 15-19 Away",88,83,,,Final,,12,29,17,30,,19,16,22,26,,NBA
+250324017,2004,"March 24, 2005",New Jersey Nets,Memphis Grizzlies,"32-37, 19-15 Home","39-28, 17-17 Away",96,105,,,Final,,24,31,18,23,,26,27,21,31,,NBA
+250328004,2004,"March 28, 2005",Chicago Bulls,Memphis Grizzlies,"38-31, 22-13 Home","39-30, 17-18 Away",94,86,,,Final,,26,25,24,19,,23,19,19,25,,NBA
+250401015,2004,"April 01, 2005",Milwaukee Bucks,Memphis Grizzlies,"27-45, 20-16 Home","40-31, 18-18 Away",82,93,,,Final,,20,30,14,18,,24,28,13,28,,NBA
+250405029,2004,"April 05, 2005",Memphis Grizzlies,Denver Nuggets,"41-32, 23-14 Home","42-31, 16-21 Away",91,94,,,Final,,24,27,25,15,,28,18,24,24,,NBA
+250408029,2004,"April 08, 2005",Memphis Grizzlies,Miami Heat,"43-32, 24-14 Home","56-20, 23-15 Away",97,81,,,Final,,32,28,17,20,,14,21,23,23,,NBA
+250411006,2004,"April 11, 2005",Dallas Mavericks,Memphis Grizzlies,"53-24, 28-12 Home","44-33, 19-19 Away",110,89,,,Final,,22,29,28,31,,23,21,27,18,,NBA
+250415007,2004,"April 15, 2005",Denver Nuggets,Memphis Grizzlies,"48-31, 30-10 Home","44-35, 19-21 Away",111,102,,,Final,,34,33,15,29,,16,32,26,28,,NBA
+250418029,2004,"April 18, 2005",Memphis Grizzlies,San Antonio Spurs,"45-36, 26-14 Home","59-22, 21-19 Away",94,92,,,Final,,23,24,18,29,,21,16,24,31,,NBA
+250420029,2004,"April 20, 2005",Memphis Grizzlies,Dallas Mavericks,"45-37, 26-15 Home","58-24, 29-12 Away",88,108,,,Final,,16,25,30,17,,29,26,31,22,,NBA

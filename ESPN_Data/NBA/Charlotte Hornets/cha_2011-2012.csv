@@ -1,67 +1,67 @@
-,Unnamed: 0,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-0,0,311228030,2011,"Wed, Dec 28",Charlotte Bobcats,Miami Heat,"1-1, 1-1 Home","3-0, 2-0 Away",95,96,,,Final,,32,28,10,25,,20,25,24,27,,NBA
-1,1,320101014,2011,"Sun, Jan 1",Miami Heat,Charlotte Bobcats,"5-0, 2-0 Home","1-3, 0-1 Away",129,90,,,Final,,33,32,27,37,,15,22,27,26,,NBA
-2,2,320104018,2011,"Wed, Jan 4",New York Knicks,Charlotte Bobcats,"2-4, 1-2 Home","2-4, 1-2 Away",110,118,,,Final,,26,26,26,32,,30,32,26,30,,NBA
-3,3,320107011,2011,"Sat, Jan 7",Indiana Pacers,Charlotte Bobcats,"6-2, 3-0 Home","2-6, 1-3 Away",99,77,,,Final,NBATV,22,21,28,28,,30,19,14,14,,NBA
-4,4,320110030,2011,"Tue, Jan 10",Charlotte Bobcats,Houston Rockets,"2-8, 1-4 Home","3-6, 1-5 Away",70,82,,,Final,,23,16,14,17,,20,23,24,15,,NBA
-5,5,320113030,2011,"Fri, Jan 13",Charlotte Bobcats,Detroit Pistons,"2-10, 1-5 Home","3-9, 1-5 Away",81,98,,,Final,,23,16,20,22,,27,24,27,20,,NBA
-6,6,320116030,2011,"Mon, Jan 16",Charlotte Bobcats,Cleveland Cavaliers,"3-11, 2-6 Home","6-6, 4-5 Away",94,102,,,Final,,23,34,20,17,,30,16,33,23,,NBA
-7,7,320121004,2011,"Sat, Jan 21",Chicago Bulls,Charlotte Bobcats,"15-3, 7-0 Home","3-13, 1-7 Away",95,89,,,Final,,27,23,30,15,,23,20,26,20,,NBA
-8,8,320124030,2011,"Tue, Jan 24",Charlotte Bobcats,New York Knicks,"3-15, 2-7 Home","7-10, 4-4 Away",78,111,,,Final,,23,19,15,21,,26,26,21,38,,NBA
-9,9,320127020,2011,"Fri, Jan 27",Philadelphia 76ers,Charlotte Bobcats,"13-6, 9-2 Home","3-17, 1-10 Away",89,72,,,Final,CSN,23,36,18,12,,10,27,14,21,,NBA
-10,10,320131013,2011,"Tue, Jan 31",Los Angeles Lakers,Charlotte Bobcats,"13-9, 11-2 Home","3-19, 1-11 Away",106,73,,,Final,,30,30,13,33,,18,18,22,15,,NBA
-11,11,320204021,2011,"Sat, Feb 4",Phoenix Suns,Charlotte Bobcats,"9-14, 5-6 Home","3-21, 1-13 Away",95,89,,,Final,,25,17,30,23,,24,24,24,17,,NBA
-12,12,320210030,2011,"Fri, Feb 10",Charlotte Bobcats,Chicago Bulls,"3-23, 2-9 Home","23-6, 14-5 Away",64,95,,,Final,,16,18,17,13,,30,26,23,16,,NBA
-13,13,320213030,2011,"Mon, Feb 13",Charlotte Bobcats,Philadelphia 76ers,"3-25, 2-11 Home","20-9, 7-4 Away",89,98,,,Final,CSN,17,28,22,22,,28,27,16,27,,NBA
-14,14,320217028,2011,"Fri, Feb 17",Toronto Raptors,Charlotte Bobcats,"9-23, 4-11 Home","4-26, 2-15 Away",91,98,,,Final,TSN2,23,22,24,22,,22,25,21,30,,NBA
-15,15,320222030,2011,"Wed, Feb 22",Charlotte Bobcats,Indiana Pacers,"4-28, 2-12 Home","21-12, 11-8 Away",88,102,,,Final,,28,14,26,20,,23,27,28,24,,NBA
-16,16,320302024,2011,"Fri, Mar 2",San Antonio Spurs,Charlotte Bobcats,"25-11, 14-2 Home","4-30, 2-18 Away",102,72,,,Final,,29,22,23,28,,20,21,18,13,,NBA
-17,17,320306030,2011,"Tue, Mar 6",Charlotte Bobcats,Orlando Magic,"5-31, 3-13 Home","25-15, 12-8 Away",100,84,,,Final,,15,28,29,28,,25,23,23,13,,NBA
-18,18,320309030,2011,"Fri, Mar 9",Charlotte Bobcats,New Jersey Nets,"5-33, 3-15 Home","14-27, 10-14 Away",74,83,,,Final,NBATV,15,20,24,15,,23,16,21,23,,NBA
-19,19,320312003,2011,"Mon, Mar 12",New Orleans Hornets,Charlotte Bobcats,"10-32, 4-17 Home","6-34, 3-19 Away",71,73,,,Final,,20,17,18,16,,14,21,26,12,,NBA
-20,20,320315006,2011,"Thu, Mar 15",Dallas Mavericks,Charlotte Bobcats,"25-20, 17-7 Home","6-36, 3-21 Away",101,96,,,Final,,23,25,26,27,,23,31,14,28,,NBA
-21,21,320319030,2011,"Mon, Mar 19",Charlotte Bobcats,Philadelphia 76ers,"7-37, 4-16 Home","26-20, 10-11 Away",80,105,,,Final,,19,25,19,17,,25,21,30,29,,NBA
-22,22,320324017,2011,"Sat, Mar 24",New Jersey Nets,Charlotte Bobcats,"16-34, 6-18 Home","7-39, 3-22 Away",102,89,,,Final,,26,22,33,21,,21,21,16,31,,NBA
-23,23,320328030,2011,"Wed, Mar 28",Charlotte Bobcats,Minnesota Timberwolves,"7-41, 4-19 Home","25-27, 12-15 Away",83,88,,,Final,,21,26,18,18,,24,21,23,20,,NBA
-24,24,320331008,2011,"Sat, Mar 31",Detroit Pistons,Charlotte Bobcats,"19-33, 13-12 Home","7-43, 3-23 Away",110,107,,,Final/OT,,21,27,20,29,13.0,17,32,28,20,10.0,NBA
-25,25,320404001,2011,"Wed, Apr 4",Atlanta Hawks,Charlotte Bobcats,"32-23, 18-8 Home","7-45, 3-25 Away",120,93,,,Final,,27,34,28,31,,25,19,26,23,,NBA
-26,26,320407030,2011,"Sat, Apr 7",Charlotte Bobcats,Atlanta Hawks,"7-47, 4-21 Home","34-23, 15-15 Away",96,116,,,Final,,23,13,32,28,,19,29,38,30,,NBA
-27,27,320410005,2011,"Tue, Apr 10",Cleveland Cavaliers,Charlotte Bobcats,"19-36, 10-18 Home","7-49, 3-27 Away",103,90,,,Final,,30,19,23,31,,22,23,26,19,,NBA
-28,28,320413014,2011,"Fri, Apr 13",Miami Heat,Charlotte Bobcats,"41-17, 25-4 Home","7-51, 3-28 Away",105,82,,,Final,,33,25,23,24,,19,20,20,23,,NBA
-29,29,320416030,2011,"Mon, Apr 16",Charlotte Bobcats,New Orleans Hornets,"7-53, 4-25 Home","19-42, 9-20 Away",67,75,,,Final,,15,24,8,20,,14,21,12,28,,NBA
-30,30,320420030,2011,"Fri, Apr 20",Charlotte Bobcats,Memphis Grizzlies,"7-55, 4-27 Home","38-25, 15-18 Away",80,85,,,Final,,21,18,26,15,,17,20,20,28,,NBA
-31,31,320423027,2011,"Mon, Apr 23",Washington Wizards,Charlotte Bobcats,"18-46, 10-22 Home","7-57, 3-29 Away",101,73,,,Final,,31,32,20,18,,22,17,23,11,,NBA
-32,32,311226030,2011,"Mon, Dec 26",Charlotte Bobcats,Milwaukee Bucks,"1-0, 1-0 Home","0-1, 0-1 Away",96,95,,,Final,,19,22,30,25,,27,25,14,29,,NBA
-33,33,311230030,2011,"Fri, Dec 30",Charlotte Bobcats,Orlando Magic,"1-2, 1-2 Home","3-1, 1-1 Away",79,100,,,Final,,23,20,19,17,,29,27,19,25,,NBA
-34,34,320103005,2011,"Tue, Jan 3",Cleveland Cavaliers,Charlotte Bobcats,"3-2, 2-1 Home","1-4, 0-2 Away",115,101,,,Final,,27,30,30,28,,34,17,29,21,,NBA
-35,35,320106030,2011,"Fri, Jan 6",Charlotte Bobcats,Atlanta Hawks,"2-5, 1-3 Home","5-3, 3-2 Away",96,102,,,Final/OT,,18,20,23,30,5.0,20,23,27,21,11.0,NBA
-36,36,320109018,2011,"Mon, Jan 9",New York Knicks,Charlotte Bobcats,"5-4, 2-2 Home","2-7, 1-4 Away",91,87,,,Final,NBATV,24,26,22,19,,21,24,20,22,,NBA
-37,37,320112001,2011,"Thu, Jan 12",Atlanta Hawks,Charlotte Bobcats,"8-4, 4-1 Home","2-9, 1-5 Away",111,81,,,Final,,25,32,28,26,,21,26,19,15,,NBA
-38,38,320114030,2011,"Sat, Jan 14",Charlotte Bobcats,Golden State Warriors,"3-10, 2-5 Home","3-8, 0-4 Away",112,100,,,Final,,38,28,27,19,,25,21,27,27,,NBA
-39,39,320117019,2011,"Tue, Jan 17",Orlando Magic,Charlotte Bobcats,"10-3, 5-1 Home","3-12, 1-6 Away",96,89,,,Final,,17,30,20,29,,24,26,17,22,,NBA
-40,40,320122017,2011,"Sun, Jan 22",New Jersey Nets,Charlotte Bobcats,"5-12, 2-5 Home","3-14, 1-8 Away",97,87,,,Final,,28,30,17,22,,21,21,19,26,,NBA
-41,41,320125027,2011,"Wed, Jan 25",Washington Wizards,Charlotte Bobcats,"3-15, 3-8 Home","3-16, 1-9 Away",92,75,,,Final,,31,17,23,21,,17,11,21,26,,NBA
-42,42,320128030,2011,"Sat, Jan 28",Charlotte Bobcats,Washington Wizards,"3-18, 2-8 Home","4-16, 1-8 Away",99,102,,,Final,,26,22,30,21,,26,32,25,19,,NBA
-43,43,320201022,2011,"Wed, Feb 1",Portland Trail Blazers,Charlotte Bobcats,"13-9, 10-1 Home","3-20, 1-12 Away",112,68,,,Final,,35,26,31,20,,18,17,13,20,,NBA
-44,44,320207002,2011,"Tue, Feb 7",Boston Celtics,Charlotte Bobcats,"14-10, 10-6 Home","3-22, 1-14 Away",94,84,,,Final,,27,18,24,25,,22,16,24,22,,NBA
-45,45,320211030,2011,"Sat, Feb 11",Charlotte Bobcats,LA Clippers,"3-24, 2-10 Home","17-8, 7-5 Away",86,111,,,Final,,16,21,15,34,,24,31,29,27,,NBA
-46,46,320215016,2011,"Wed, Feb 15",Minnesota Timberwolves,Charlotte Bobcats,"14-16, 8-10 Home","3-26, 1-15 Away",102,90,,,Final,,25,21,30,26,,30,18,18,24,,NBA
-47,47,320219011,2011,"Sun, Feb 19",Indiana Pacers,Charlotte Bobcats,"19-12, 9-4 Home","4-27, 2-16 Away",108,73,,,Final,,24,29,35,20,,12,21,15,25,,NBA
-48,48,320229008,2011,"Wed, Feb 29",Detroit Pistons,Charlotte Bobcats,"12-25, 9-11 Home","4-29, 2-17 Away",109,94,,,Final,,24,34,25,26,,23,20,26,25,,NBA
-49,49,320304030,2011,"Sun, Mar 4",Charlotte Bobcats,New Jersey Nets,"4-31, 2-13 Home","12-26, 9-13 Away",101,104,,,Final,,25,28,19,29,,22,23,28,31,,NBA
-50,50,320307030,2011,"Wed, Mar 7",Charlotte Bobcats,Utah Jazz,"5-32, 3-14 Home","19-19, 5-13 Away",93,99,,,Final,,21,26,17,29,,22,29,29,19,,NBA
-51,51,320310025,2011,"Sat, Mar 10",Oklahoma City Thunder,Charlotte Bobcats,"32-9, 18-2 Home","5-34, 2-19 Away",122,95,,,Final,,28,30,33,31,,25,15,30,25,,NBA
-52,52,320314010,2011,"Wed, Mar 14",Houston Rockets,Charlotte Bobcats,"24-20, 16-6 Home","6-35, 3-20 Away",107,87,,,Final,,30,20,36,21,,18,22,17,30,,NBA
-53,53,320317030,2011,"Sat, Mar 17",Charlotte Bobcats,Toronto Raptors,"7-36, 4-15 Home","15-30, 8-16 Away",107,103,,,Final,,20,23,38,26,,29,24,14,36,,NBA
-54,54,320323030,2011,"Fri, Mar 23",Charlotte Bobcats,Milwaukee Bucks,"7-38, 4-17 Home","22-25, 11-15 Away",92,112,,,Final,,20,20,28,24,,21,31,31,29,,NBA
-55,55,320326030,2011,"Mon, Mar 26",Charlotte Bobcats,Boston Celtics,"7-40, 4-18 Home","27-22, 10-14 Away",95,102,,,Final,,15,35,25,20,,33,19,30,20,,NBA
-56,56,320330030,2011,"Fri, Mar 30",Charlotte Bobcats,Denver Nuggets,"7-42, 4-20 Home","28-24, 13-12 Away",88,99,,,Final,,28,23,15,22,,23,29,22,25,,NBA
-57,57,320403028,2011,"Tue, Apr 3",Toronto Raptors,Charlotte Bobcats,"19-35, 11-17 Home","7-44, 3-24 Away",92,87,,,Final,TSNT,24,29,18,21,,22,24,18,23,,NBA
-58,58,320406015,2011,"Fri, Apr 6",Milwaukee Bucks,Charlotte Bobcats,"27-28, 14-12 Home","7-46, 3-26 Away",95,90,,,Final,,28,25,19,23,,30,22,16,22,,NBA
-59,59,320409030,2011,"Mon, Apr 9",Charlotte Bobcats,Washington Wizards,"7-48, 4-22 Home","13-44, 6-23 Away",85,113,,,Final,,20,20,18,27,,31,29,25,28,,NBA
-60,60,320412030,2011,"Thu, Apr 12",Charlotte Bobcats,Detroit Pistons,"7-50, 4-23 Home","22-36, 7-24 Away",85,109,,,Final,,18,22,22,23,,22,30,40,17,,NBA
-61,61,320415030,2011,"Sun, Apr 15",Charlotte Bobcats,Boston Celtics,"7-52, 4-24 Home","36-25, 15-16 Away",82,94,,,Final,,23,26,18,15,,34,18,21,21,,NBA
-62,62,320418030,2011,"Wed, Apr 18",Charlotte Bobcats,Chicago Bulls,"7-54, 4-26 Home","47-15, 23-8 Away",68,100,,,Final,,20,17,22,9,,34,18,25,23,,NBA
-63,63,320422030,2011,"Sun, Apr 22",Charlotte Bobcats,Sacramento Kings,"7-56, 4-28 Home","21-43, 6-26 Away",88,114,,,Final,,19,25,23,21,,31,28,28,27,,NBA
-64,64,320425019,2011,"Wed, Apr 25",Orlando Magic,Charlotte Bobcats,"37-28, 21-12 Home","7-58, 3-30 Away",102,95,,,Final,,37,20,26,19,,24,23,26,22,,NBA
-65,65,320426030,2011,"Thu, Apr 26",Charlotte Bobcats,New York Knicks,"7-59, 4-29 Home","36-30, 14-19 Away",84,104,,,Final,TNT,20,24,19,21,,23,23,30,28,,NBA
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+311228030,2011,"December 28, 2011",Charlotte Bobcats,Miami Heat,"1-1, 1-1 Home","3-0, 2-0 Away",95,96,,,Final,,32,28,10,25,,20,25,24,27,,NBA
+320101014,2011,"January 01, 2012",Miami Heat,Charlotte Bobcats,"5-0, 2-0 Home","1-3, 0-1 Away",129,90,,,Final,,33,32,27,37,,15,22,27,26,,NBA
+320104018,2011,"January 04, 2012",New York Knicks,Charlotte Bobcats,"2-4, 1-2 Home","2-4, 1-2 Away",110,118,,,Final,,26,26,26,32,,30,32,26,30,,NBA
+320107011,2011,"January 07, 2012",Indiana Pacers,Charlotte Bobcats,"6-2, 3-0 Home","2-6, 1-3 Away",99,77,,,Final,NBATV,22,21,28,28,,30,19,14,14,,NBA
+320110030,2011,"January 10, 2012",Charlotte Bobcats,Houston Rockets,"2-8, 1-4 Home","3-6, 1-5 Away",70,82,,,Final,,23,16,14,17,,20,23,24,15,,NBA
+320113030,2011,"January 13, 2012",Charlotte Bobcats,Detroit Pistons,"2-10, 1-5 Home","3-9, 1-5 Away",81,98,,,Final,,23,16,20,22,,27,24,27,20,,NBA
+320116030,2011,"January 16, 2012",Charlotte Bobcats,Cleveland Cavaliers,"3-11, 2-6 Home","6-6, 4-5 Away",94,102,,,Final,,23,34,20,17,,30,16,33,23,,NBA
+320121004,2011,"January 21, 2012",Chicago Bulls,Charlotte Bobcats,"15-3, 7-0 Home","3-13, 1-7 Away",95,89,,,Final,,27,23,30,15,,23,20,26,20,,NBA
+320124030,2011,"January 24, 2012",Charlotte Bobcats,New York Knicks,"3-15, 2-7 Home","7-10, 4-4 Away",78,111,,,Final,,23,19,15,21,,26,26,21,38,,NBA
+320127020,2011,"January 27, 2012",Philadelphia 76ers,Charlotte Bobcats,"13-6, 9-2 Home","3-17, 1-10 Away",89,72,,,Final,CSN,23,36,18,12,,10,27,14,21,,NBA
+320131013,2011,"January 31, 2012",Los Angeles Lakers,Charlotte Bobcats,"13-9, 11-2 Home","3-19, 1-11 Away",106,73,,,Final,,30,30,13,33,,18,18,22,15,,NBA
+320204021,2011,"February 04, 2012",Phoenix Suns,Charlotte Bobcats,"9-14, 5-6 Home","3-21, 1-13 Away",95,89,,,Final,,25,17,30,23,,24,24,24,17,,NBA
+320210030,2011,"February 10, 2012",Charlotte Bobcats,Chicago Bulls,"3-23, 2-9 Home","23-6, 14-5 Away",64,95,,,Final,,16,18,17,13,,30,26,23,16,,NBA
+320213030,2011,"February 13, 2012",Charlotte Bobcats,Philadelphia 76ers,"3-25, 2-11 Home","20-9, 7-4 Away",89,98,,,Final,CSN,17,28,22,22,,28,27,16,27,,NBA
+320217028,2011,"February 17, 2012",Toronto Raptors,Charlotte Bobcats,"9-23, 4-11 Home","4-26, 2-15 Away",91,98,,,Final,TSN2,23,22,24,22,,22,25,21,30,,NBA
+320222030,2011,"February 22, 2012",Charlotte Bobcats,Indiana Pacers,"4-28, 2-12 Home","21-12, 11-8 Away",88,102,,,Final,,28,14,26,20,,23,27,28,24,,NBA
+320302024,2011,"March 02, 2012",San Antonio Spurs,Charlotte Bobcats,"25-11, 14-2 Home","4-30, 2-18 Away",102,72,,,Final,,29,22,23,28,,20,21,18,13,,NBA
+320306030,2011,"March 06, 2012",Charlotte Bobcats,Orlando Magic,"5-31, 3-13 Home","25-15, 12-8 Away",100,84,,,Final,,15,28,29,28,,25,23,23,13,,NBA
+320309030,2011,"March 09, 2012",Charlotte Bobcats,New Jersey Nets,"5-33, 3-15 Home","14-27, 10-14 Away",74,83,,,Final,NBATV,15,20,24,15,,23,16,21,23,,NBA
+320312003,2011,"March 12, 2012",New Orleans Hornets,Charlotte Bobcats,"10-32, 4-17 Home","6-34, 3-19 Away",71,73,,,Final,,20,17,18,16,,14,21,26,12,,NBA
+320315006,2011,"March 15, 2012",Dallas Mavericks,Charlotte Bobcats,"25-20, 17-7 Home","6-36, 3-21 Away",101,96,,,Final,,23,25,26,27,,23,31,14,28,,NBA
+320319030,2011,"March 19, 2012",Charlotte Bobcats,Philadelphia 76ers,"7-37, 4-16 Home","26-20, 10-11 Away",80,105,,,Final,,19,25,19,17,,25,21,30,29,,NBA
+320324017,2011,"March 24, 2012",New Jersey Nets,Charlotte Bobcats,"16-34, 6-18 Home","7-39, 3-22 Away",102,89,,,Final,,26,22,33,21,,21,21,16,31,,NBA
+320328030,2011,"March 28, 2012",Charlotte Bobcats,Minnesota Timberwolves,"7-41, 4-19 Home","25-27, 12-15 Away",83,88,,,Final,,21,26,18,18,,24,21,23,20,,NBA
+320331008,2011,"March 31, 2012",Detroit Pistons,Charlotte Bobcats,"19-33, 13-12 Home","7-43, 3-23 Away",110,107,,,Final/OT,,21,27,20,29,13.0,17,32,28,20,10.0,NBA
+320404001,2011,"April 04, 2012",Atlanta Hawks,Charlotte Bobcats,"32-23, 18-8 Home","7-45, 3-25 Away",120,93,,,Final,,27,34,28,31,,25,19,26,23,,NBA
+320407030,2011,"April 07, 2012",Charlotte Bobcats,Atlanta Hawks,"7-47, 4-21 Home","34-23, 15-15 Away",96,116,,,Final,,23,13,32,28,,19,29,38,30,,NBA
+320410005,2011,"April 10, 2012",Cleveland Cavaliers,Charlotte Bobcats,"19-36, 10-18 Home","7-49, 3-27 Away",103,90,,,Final,,30,19,23,31,,22,23,26,19,,NBA
+320413014,2011,"April 13, 2012",Miami Heat,Charlotte Bobcats,"41-17, 25-4 Home","7-51, 3-28 Away",105,82,,,Final,,33,25,23,24,,19,20,20,23,,NBA
+320416030,2011,"April 16, 2012",Charlotte Bobcats,New Orleans Hornets,"7-53, 4-25 Home","19-42, 9-20 Away",67,75,,,Final,,15,24,8,20,,14,21,12,28,,NBA
+320420030,2011,"April 20, 2012",Charlotte Bobcats,Memphis Grizzlies,"7-55, 4-27 Home","38-25, 15-18 Away",80,85,,,Final,,21,18,26,15,,17,20,20,28,,NBA
+320423027,2011,"April 23, 2012",Washington Wizards,Charlotte Bobcats,"18-46, 10-22 Home","7-57, 3-29 Away",101,73,,,Final,,31,32,20,18,,22,17,23,11,,NBA
+311226030,2011,"December 26, 2011",Charlotte Bobcats,Milwaukee Bucks,"1-0, 1-0 Home","0-1, 0-1 Away",96,95,,,Final,,19,22,30,25,,27,25,14,29,,NBA
+311230030,2011,"December 30, 2011",Charlotte Bobcats,Orlando Magic,"1-2, 1-2 Home","3-1, 1-1 Away",79,100,,,Final,,23,20,19,17,,29,27,19,25,,NBA
+320103005,2011,"January 03, 2012",Cleveland Cavaliers,Charlotte Bobcats,"3-2, 2-1 Home","1-4, 0-2 Away",115,101,,,Final,,27,30,30,28,,34,17,29,21,,NBA
+320106030,2011,"January 06, 2012",Charlotte Bobcats,Atlanta Hawks,"2-5, 1-3 Home","5-3, 3-2 Away",96,102,,,Final/OT,,18,20,23,30,5.0,20,23,27,21,11.0,NBA
+320109018,2011,"January 09, 2012",New York Knicks,Charlotte Bobcats,"5-4, 2-2 Home","2-7, 1-4 Away",91,87,,,Final,NBATV,24,26,22,19,,21,24,20,22,,NBA
+320112001,2011,"January 12, 2012",Atlanta Hawks,Charlotte Bobcats,"8-4, 4-1 Home","2-9, 1-5 Away",111,81,,,Final,,25,32,28,26,,21,26,19,15,,NBA
+320114030,2011,"January 14, 2012",Charlotte Bobcats,Golden State Warriors,"3-10, 2-5 Home","3-8, 0-4 Away",112,100,,,Final,,38,28,27,19,,25,21,27,27,,NBA
+320117019,2011,"January 17, 2012",Orlando Magic,Charlotte Bobcats,"10-3, 5-1 Home","3-12, 1-6 Away",96,89,,,Final,,17,30,20,29,,24,26,17,22,,NBA
+320122017,2011,"January 22, 2012",New Jersey Nets,Charlotte Bobcats,"5-12, 2-5 Home","3-14, 1-8 Away",97,87,,,Final,,28,30,17,22,,21,21,19,26,,NBA
+320125027,2011,"January 25, 2012",Washington Wizards,Charlotte Bobcats,"3-15, 3-8 Home","3-16, 1-9 Away",92,75,,,Final,,31,17,23,21,,17,11,21,26,,NBA
+320128030,2011,"January 28, 2012",Charlotte Bobcats,Washington Wizards,"3-18, 2-8 Home","4-16, 1-8 Away",99,102,,,Final,,26,22,30,21,,26,32,25,19,,NBA
+320201022,2011,"February 01, 2012",Portland Trail Blazers,Charlotte Bobcats,"13-9, 10-1 Home","3-20, 1-12 Away",112,68,,,Final,,35,26,31,20,,18,17,13,20,,NBA
+320207002,2011,"February 07, 2012",Boston Celtics,Charlotte Bobcats,"14-10, 10-6 Home","3-22, 1-14 Away",94,84,,,Final,,27,18,24,25,,22,16,24,22,,NBA
+320211030,2011,"February 11, 2012",Charlotte Bobcats,LA Clippers,"3-24, 2-10 Home","17-8, 7-5 Away",86,111,,,Final,,16,21,15,34,,24,31,29,27,,NBA
+320215016,2011,"February 15, 2012",Minnesota Timberwolves,Charlotte Bobcats,"14-16, 8-10 Home","3-26, 1-15 Away",102,90,,,Final,,25,21,30,26,,30,18,18,24,,NBA
+320219011,2011,"February 19, 2012",Indiana Pacers,Charlotte Bobcats,"19-12, 9-4 Home","4-27, 2-16 Away",108,73,,,Final,,24,29,35,20,,12,21,15,25,,NBA
+320229008,2011,"February 29, 2012",Detroit Pistons,Charlotte Bobcats,"12-25, 9-11 Home","4-29, 2-17 Away",109,94,,,Final,,24,34,25,26,,23,20,26,25,,NBA
+320304030,2011,"March 04, 2012",Charlotte Bobcats,New Jersey Nets,"4-31, 2-13 Home","12-26, 9-13 Away",101,104,,,Final,,25,28,19,29,,22,23,28,31,,NBA
+320307030,2011,"March 07, 2012",Charlotte Bobcats,Utah Jazz,"5-32, 3-14 Home","19-19, 5-13 Away",93,99,,,Final,,21,26,17,29,,22,29,29,19,,NBA
+320310025,2011,"March 10, 2012",Oklahoma City Thunder,Charlotte Bobcats,"32-9, 18-2 Home","5-34, 2-19 Away",122,95,,,Final,,28,30,33,31,,25,15,30,25,,NBA
+320314010,2011,"March 14, 2012",Houston Rockets,Charlotte Bobcats,"24-20, 16-6 Home","6-35, 3-20 Away",107,87,,,Final,,30,20,36,21,,18,22,17,30,,NBA
+320317030,2011,"March 17, 2012",Charlotte Bobcats,Toronto Raptors,"7-36, 4-15 Home","15-30, 8-16 Away",107,103,,,Final,,20,23,38,26,,29,24,14,36,,NBA
+320323030,2011,"March 23, 2012",Charlotte Bobcats,Milwaukee Bucks,"7-38, 4-17 Home","22-25, 11-15 Away",92,112,,,Final,,20,20,28,24,,21,31,31,29,,NBA
+320326030,2011,"March 26, 2012",Charlotte Bobcats,Boston Celtics,"7-40, 4-18 Home","27-22, 10-14 Away",95,102,,,Final,,15,35,25,20,,33,19,30,20,,NBA
+320330030,2011,"March 30, 2012",Charlotte Bobcats,Denver Nuggets,"7-42, 4-20 Home","28-24, 13-12 Away",88,99,,,Final,,28,23,15,22,,23,29,22,25,,NBA
+320403028,2011,"April 03, 2012",Toronto Raptors,Charlotte Bobcats,"19-35, 11-17 Home","7-44, 3-24 Away",92,87,,,Final,TSNT,24,29,18,21,,22,24,18,23,,NBA
+320406015,2011,"April 06, 2012",Milwaukee Bucks,Charlotte Bobcats,"27-28, 14-12 Home","7-46, 3-26 Away",95,90,,,Final,,28,25,19,23,,30,22,16,22,,NBA
+320409030,2011,"April 09, 2012",Charlotte Bobcats,Washington Wizards,"7-48, 4-22 Home","13-44, 6-23 Away",85,113,,,Final,,20,20,18,27,,31,29,25,28,,NBA
+320412030,2011,"April 12, 2012",Charlotte Bobcats,Detroit Pistons,"7-50, 4-23 Home","22-36, 7-24 Away",85,109,,,Final,,18,22,22,23,,22,30,40,17,,NBA
+320415030,2011,"April 15, 2012",Charlotte Bobcats,Boston Celtics,"7-52, 4-24 Home","36-25, 15-16 Away",82,94,,,Final,,23,26,18,15,,34,18,21,21,,NBA
+320418030,2011,"April 18, 2012",Charlotte Bobcats,Chicago Bulls,"7-54, 4-26 Home","47-15, 23-8 Away",68,100,,,Final,,20,17,22,9,,34,18,25,23,,NBA
+320422030,2011,"April 22, 2012",Charlotte Bobcats,Sacramento Kings,"7-56, 4-28 Home","21-43, 6-26 Away",88,114,,,Final,,19,25,23,21,,31,28,28,27,,NBA
+320425019,2011,"April 25, 2012",Orlando Magic,Charlotte Bobcats,"37-28, 21-12 Home","7-58, 3-30 Away",102,95,,,Final,,37,20,26,19,,24,23,26,22,,NBA
+320426030,2011,"April 26, 2012",Charlotte Bobcats,New York Knicks,"7-59, 4-29 Home","36-30, 14-19 Away",84,104,,,Final,TNT,20,24,19,21,,23,23,30,28,,NBA

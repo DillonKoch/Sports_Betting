@@ -1,83 +1,83 @@
-,Unnamed: 0,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-0,0,171101025,1997,"Sat, Nov 1",Seattle SuperSonics,Dallas Mavericks,"1-1, 0-1 Home","2-0, 2-0 Away",81,89,,,Final,,25,23,23,10,,14,25,16,34,,NBA
-1,1,171105003,1997,"Wed, Nov 5",Charlotte Hornets,Dallas Mavericks,"2-2, 1-1 Home","3-1, 2-1 Away",110,103,,,Final,,28,31,23,28,,25,31,22,25,,NBA
-2,2,171111006,1997,"Tue, Nov 11",Dallas Mavericks,Los Angeles Lakers,"3-3, 1-2 Home","5-0, 2-0 Away",96,118,,,Final,,21,22,28,25,,27,30,33,28,,NBA
-3,3,171115006,1997,"Sat, Nov 15",Dallas Mavericks,Utah Jazz,"3-5, 1-4 Home","5-4, 2-3 Away",77,85,,,Final,,17,19,19,22,,22,19,23,21,,NBA
-4,4,171118023,1997,"Tue, Nov 18",Sacramento Kings,Dallas Mavericks,"3-7, 2-3 Home","3-7, 2-3 Away",102,95,,,Final,,22,31,24,25,,22,31,22,20,,NBA
-5,5,171122006,1997,"Sat, Nov 22",Dallas Mavericks,Milwaukee Bucks,"3-9, 1-6 Home","7-5, 3-3 Away",62,83,,,Final,,13,19,15,15,,24,22,17,20,,NBA
-6,6,171128006,1997,"Fri, Nov 28",Dallas Mavericks,Toronto Raptors,"4-10, 2-7 Home","1-14, 0-7 Away",93,91,,,Final,,21,21,31,20,,24,20,31,16,,NBA
-7,7,171202006,1997,"Tue, Dec 2",Dallas Mavericks,Atlanta Hawks,"4-12, 2-8 Home","15-2, 6-1 Away",79,112,,,Final,,26,23,17,13,,31,34,17,30,,NBA
-8,8,171206006,1997,"Sat, Dec 6",Dallas Mavericks,Houston Rockets,"5-13, 3-9 Home","11-5, 5-2 Away",106,108,,,Final,,29,24,25,28,,26,28,24,30,,NBA
-9,9,171211006,1997,"Thu, Dec 11",Dallas Mavericks,Orlando Magic,"5-15, 3-11 Home","16-7, 9-4 Away",90,100,,,Final,,20,29,30,11,,33,32,18,17,,NBA
-10,10,171214013,1997,"Sun, Dec 14",Los Angeles Lakers,Dallas Mavericks,"17-5, 10-1 Home","5-17, 2-6 Away",119,89,,,Final,,27,31,29,32,,20,23,27,19,,NBA
-11,11,171218006,1997,"Thu, Dec 18",Dallas Mavericks,Phoenix Suns,"5-19, 3-12 Home","14-8, 5-5 Away",75,89,,,Final,,18,12,23,22,,12,26,32,19,,NBA
-12,12,171222018,1997,"Mon, Dec 22",New York Knicks,Dallas Mavericks,"16-11, 10-1 Home","5-21, 2-8 Away",79,67,,,Final,,19,15,25,20,,12,13,22,20,,NBA
-13,13,171226006,1997,"Fri, Dec 26",Dallas Mavericks,Washington Wizards,"5-23, 3-14 Home","15-14, 8-9 Away",95,97,,,Final,,23,23,22,27,,30,17,22,28,,NBA
-14,14,171230015,1997,"Tue, Dec 30",Milwaukee Bucks,Dallas Mavericks,"14-15, 10-6 Home","5-25, 2-11 Away",105,98,,,Final/OT,,16,29,24,19,17.0,19,26,25,18,10.0,NBA
-15,15,180103012,1997,"Sat, Jan 3",Los Angeles Clippers,Dallas Mavericks,"8-24, 5-10 Home","5-27, 2-13 Away",97,88,,,Final,,26,29,19,23,,20,22,27,19,,NBA
-16,16,180108006,1997,"Thu, Jan 8",Dallas Mavericks,Sacramento Kings,"6-28, 4-15 Home","15-20, 3-13 Away",92,103,,,Final,,27,15,22,28,,25,28,18,32,,NBA
-17,17,180113010,1997,"Tue, Jan 13",Houston Rockets,Dallas Mavericks,"18-15, 11-8 Home","6-30, 2-14 Away",100,87,,,Final,,22,15,32,31,,20,21,23,23,,NBA
-18,18,180117006,1997,"Sat, Jan 17",Dallas Mavericks,Minnesota Timberwolves,"6-32, 4-17 Home","21-16, 10-8 Away",110,113,,,Final/OT,,29,25,27,18,11.0,24,18,22,35,14.0,NBA
-19,19,180123024,1997,"Fri, Jan 23",San Antonio Spurs,Dallas Mavericks,"29-13, 17-3 Home","7-33, 2-16 Away",81,75,,,Final,,19,24,22,16,,13,22,17,23,,NBA
-20,20,180127006,1997,"Tue, Jan 27",Dallas Mavericks,Cleveland Cavaliers,"8-34, 6-18 Home","25-17, 13-8 Away",84,77,,,Final/OT,,23,16,20,16,9.0,26,15,22,12,2.0,NBA
-21,21,180131007,1997,"Sat, Jan 31",Denver Nuggets,Dallas Mavericks,"4-41, 3-18 Home","8-36, 2-18 Away",110,98,,,Final,,18,32,27,33,,23,21,26,28,,NBA
-22,22,180204002,1997,"Wed, Feb 4",Boston Celtics,Dallas Mavericks,"22-25, 16-10 Home","9-37, 2-19 Away",110,99,,,Final,,22,30,29,29,,25,20,21,33,,NBA
-23,23,180210017,1997,"Tue, Feb 10",New Jersey Nets,Dallas Mavericks,"28-21, 17-6 Home","9-39, 2-21 Away",90,81,,,Final,,20,27,22,21,,25,19,21,16,,NBA
-24,24,180213011,1997,"Fri, Feb 13",Indiana Pacers,Dallas Mavericks,"35-14, 19-5 Home","10-40, 3-22 Away",82,85,,,Final/2OT,,24,10,15,25,8.0,12,12,29,21,11.0,NBA
-25,25,180217006,1997,"Tue, Feb 17",Dallas Mavericks,Phoenix Suns,"10-42, 7-19 Home","34-16, 17-9 Away",77,95,,,Final,,18,15,19,25,,21,19,29,26,,NBA
-26,26,180221006,1997,"Sat, Feb 21",Dallas Mavericks,Detroit Pistons,"10-44, 7-21 Home","24-29, 8-19 Away",82,94,,,Final,,21,20,18,23,,22,22,26,24,,NBA
-27,27,180226014,1997,"Thu, Feb 26",Miami Heat,Dallas Mavericks,"39-18, 20-7 Home","10-46, 3-25 Away",91,72,,,Final,,26,18,29,18,,15,15,27,15,,NBA
-28,28,180302008,1997,"Mon, Mar 2",Detroit Pistons,Dallas Mavericks,"27-31, 19-11 Home","11-47, 4-26 Away",100,94,,,Final,,22,20,30,28,,29,18,25,22,,NBA
-29,29,180305006,1997,"Thu, Mar 5",Dallas Mavericks,Los Angeles Clippers,"13-47, 8-21 Home","12-47, 4-25 Away",119,109,,,Final,,30,29,35,25,,22,30,20,37,,NBA
-30,30,180310010,1997,"Tue, Mar 10",Houston Rockets,Dallas Mavericks,"31-31, 19-13 Home","13-49, 5-27 Away",97,91,,,Final,,29,31,19,18,,26,19,19,27,,NBA
-31,31,180314006,1997,"Sat, Mar 14",Dallas Mavericks,New Jersey Nets,"14-50, 9-23 Home","34-31, 13-20 Away",93,108,,,Final,,22,26,24,21,,25,22,25,36,,NBA
-32,32,180317006,1997,"Tue, Mar 17",Dallas Mavericks,Boston Celtics,"15-51, 10-23 Home","29-36, 9-23 Away",99,93,,,Final,,20,26,26,27,,27,27,15,24,,NBA
-33,33,180321006,1997,"Sat, Mar 21",Dallas Mavericks,Houston Rockets,"16-52, 11-24 Home","36-31, 13-18 Away",95,103,,,Final,,18,27,19,31,,27,30,24,22,,NBA
-34,34,180325007,1997,"Wed, Mar 25",Denver Nuggets,Dallas Mavericks,"8-64, 6-29 Home","18-52, 6-28 Away",94,105,,,Final,,18,23,22,31,,27,24,25,29,,NBA
-35,35,180329012,1997,"Sun, Mar 29",Los Angeles Clippers,Dallas Mavericks,"16-55, 10-26 Home","18-54, 6-29 Away",108,86,,,Final,,29,24,25,30,,22,20,23,21,,NBA
-36,36,180402025,1997,"Thu, Apr 2",Seattle SuperSonics,Dallas Mavericks,"55-18, 33-4 Home","19-55, 7-30 Away",107,86,,,Final,,22,27,29,29,,20,22,21,23,,NBA
-37,37,180405023,1997,"Sun, Apr 5",Sacramento Kings,Dallas Mavericks,"27-48, 21-17 Home","19-57, 7-32 Away",105,99,,,Final,,25,20,33,27,,23,28,24,24,,NBA
-38,38,180409006,1997,"Thu, Apr 9",Dallas Mavericks,Seattle SuperSonics,"19-59, 12-27 Home","58-19, 25-14 Away",101,103,,,Final,,27,23,27,24,,21,31,21,30,,NBA
-39,39,180414006,1997,"Tue, Apr 14",Dallas Mavericks,Los Angeles Lakers,"20-60, 13-28 Home","59-21, 28-13 Away",95,111,,,Final,,25,32,13,25,,32,32,23,24,,NBA
-40,40,171031029,1997,"Fri, Oct 31",Vancouver Grizzlies,Dallas Mavericks,"0-1, 0-1 Home","1-0, 1-0 Away",88,90,,,Final,,18,27,21,22,,26,17,31,16,,NBA
-41,41,171104006,1997,"Tue, Nov 4",Dallas Mavericks,Vancouver Grizzlies,"3-0, 1-0 Home","1-2, 0-1 Away",92,87,,,Final,,18,32,24,18,,30,24,20,13,,NBA
-42,42,171108006,1997,"Sat, Nov 8",Dallas Mavericks,Portland Trail Blazers,"3-2, 1-1 Home","4-1, 3-0 Away",94,101,,,Final,,23,27,16,28,,26,19,27,29,,NBA
-43,43,171113006,1997,"Thu, Nov 13",Dallas Mavericks,Philadelphia 76ers,"3-4, 1-3 Home","2-5, 2-2 Away",98,99,,,Final,,24,24,23,27,,27,17,25,30,,NBA
-44,44,171117022,1997,"Mon, Nov 17",Portland Trail Blazers,Dallas Mavericks,"7-2, 3-2 Home","3-6, 2-2 Away",120,75,,,Final,,28,33,28,31,,10,28,18,19,,NBA
-45,45,171120006,1997,"Thu, Nov 20",Dallas Mavericks,Golden State Warriors,"3-8, 1-5 Home","1-9, 1-6 Away",97,101,,,Final/OT,,18,28,19,26,6.0,25,27,24,15,10.0,NBA
-46,46,171125006,1997,"Tue, Nov 25",Dallas Mavericks,San Antonio Spurs,"3-10, 1-7 Home","8-5, 4-3 Away",91,102,,,Final,,17,23,35,16,,40,24,19,19,,NBA
-47,47,171129024,1997,"Sat, Nov 29",San Antonio Spurs,Dallas Mavericks,"9-6, 5-3 Home","4-11, 2-4 Away",96,87,,,Final,,21,20,31,24,,19,22,18,28,,NBA
-48,48,171204006,1997,"Thu, Dec 4",Dallas Mavericks,New York Knicks,"5-12, 3-8 Home","10-7, 5-6 Away",105,91,,,Final,,31,14,29,31,,18,23,21,29,,NBA
-49,49,171209006,1997,"Tue, Dec 9",Dallas Mavericks,Los Angeles Clippers,"5-14, 3-10 Home","4-16, 2-8 Away",92,99,,,Final,,21,24,24,23,,27,27,17,28,,NBA
-50,50,171212026,1997,"Fri, Dec 12",Utah Jazz,Dallas Mavericks,"13-8, 10-2 Home","5-16, 2-5 Away",68,66,,,Final,,19,17,17,15,,19,15,19,13,,NBA
-51,51,171216009,1997,"Tue, Dec 16",Golden State Warriors,Dallas Mavericks,"5-16, 4-6 Home","5-18, 2-7 Away",103,92,,,Final,,23,26,23,31,,22,20,25,25,,NBA
-52,52,171220006,1997,"Sat, Dec 20",Dallas Mavericks,Sacramento Kings,"5-20, 3-13 Home","9-17, 2-11 Away",88,89,,,Final,,29,24,13,22,,23,21,24,21,,NBA
-53,53,171223005,1997,"Tue, Dec 23",Cleveland Cavaliers,Dallas Mavericks,"17-9, 8-5 Home","5-22, 2-9 Away",99,85,,,Final,,20,21,32,26,,23,26,8,28,,NBA
-54,54,171229004,1997,"Mon, Dec 29",Chicago Bulls,Dallas Mavericks,"20-9, 15-1 Home","5-24, 2-10 Away",111,105,,,Final,,31,23,30,27,,25,29,23,28,,NBA
-55,55,180102021,1997,"Fri, Jan 2",Phoenix Suns,Dallas Mavericks,"19-9, 12-4 Home","5-26, 2-12 Away",92,85,,,Final,,28,20,27,17,,19,35,16,15,,NBA
-56,56,180106006,1997,"Tue, Jan 6",Dallas Mavericks,Denver Nuggets,"6-27, 4-14 Home","2-30, 0-18 Away",108,90,,,Final,,33,21,26,28,,35,16,18,21,,NBA
-57,57,180110006,1997,"Sat, Jan 10",Dallas Mavericks,Indiana Pacers,"6-29, 4-16 Home","23-11, 11-7 Away",79,84,,,Final,,20,25,19,15,,16,14,29,25,,NBA
-58,58,180114001,1997,"Wed, Jan 14",Atlanta Hawks,Dallas Mavericks,"24-12, 12-4 Home","6-31, 2-15 Away",108,82,,,Final,,26,23,26,33,,15,27,13,27,,NBA
-59,59,180120006,1997,"Tue, Jan 20",Dallas Mavericks,Seattle SuperSonics,"7-32, 5-17 Home","32-9, 16-7 Away",107,98,,,Final,,31,34,23,19,,30,24,22,22,,NBA
-60,60,180124006,1997,"Sat, Jan 24",Dallas Mavericks,Charlotte Hornets,"7-34, 5-18 Home","25-17, 10-12 Away",92,94,,,Final,,33,23,12,24,,29,19,27,19,,NBA
-61,61,180130026,1997,"Fri, Jan 30",Utah Jazz,Dallas Mavericks,"29-14, 19-4 Home","8-35, 2-17 Away",104,94,,,Final,,22,24,32,26,,18,26,26,24,,NBA
-62,62,180202006,1997,"Mon, Feb 2",Dallas Mavericks,Vancouver Grizzlies,"9-36, 7-18 Home","13-34, 3-19 Away",104,90,,,Final,,24,27,26,27,,18,25,18,29,,NBA
-63,63,180205028,1997,"Thu, Feb 5",Toronto Raptors,Dallas Mavericks,"11-36, 7-18 Home","9-38, 2-20 Away",101,93,,,Final,,13,26,40,22,,27,20,21,25,,NBA
-64,64,180211020,1997,"Wed, Feb 11",Philadelphia 76ers,Dallas Mavericks,"15-31, 10-14 Home","9-40, 2-22 Away",91,90,,,Final,,26,18,19,28,,26,18,25,21,,NBA
-65,65,180215016,1997,"Sun, Feb 15",Minnesota Timberwolves,Dallas Mavericks,"28-21, 16-10 Home","10-41, 3-23 Away",105,99,,,Final/OT,,15,21,26,24,19.0,22,13,27,24,13.0,NBA
-66,66,180219006,1997,"Thu, Feb 19",Dallas Mavericks,San Antonio Spurs,"10-43, 7-20 Home","36-16, 16-11 Away",81,87,,,Final,,14,30,13,24,,14,24,26,23,,NBA
-67,67,180225019,1997,"Wed, Feb 25",Orlando Magic,Dallas Mavericks,"29-27, 15-12 Home","10-45, 3-24 Away",100,79,,,Final,,17,27,30,26,,19,15,20,25,,NBA
-68,68,180228027,1997,"Sat, Feb 28",Washington Wizards,Dallas Mavericks,"29-29, 17-12 Home","11-46, 4-25 Away",77,103,,,Final,,21,18,20,18,,29,25,18,31,,NBA
-69,69,180303016,1997,"Tue, Mar 3",Minnesota Timberwolves,Dallas Mavericks,"31-27, 19-12 Home","12-47, 5-26 Away",99,110,,,Final,,20,27,22,30,,24,35,24,27,,NBA
-70,70,180307006,1997,"Sat, Mar 7",Dallas Mavericks,Miami Heat,"13-48, 8-22 Home","43-19, 22-11 Away",88,94,,,Final,,19,23,16,30,,22,27,24,21,,NBA
-71,71,180312006,1997,"Thu, Mar 12",Dallas Mavericks,Chicago Bulls,"14-49, 9-22 Home","46-17, 17-14 Away",104,97,,,Final/OT,,24,16,20,31,13.0,30,18,23,20,6.0,NBA
-72,72,180315021,1997,"Sun, Mar 15",Phoenix Suns,Dallas Mavericks,"43-21, 24-9 Home","14-51, 5-28 Away",100,90,,,Final,,28,22,27,23,,22,23,23,22,,NBA
-73,73,180319006,1997,"Thu, Mar 19",Dallas Mavericks,Golden State Warriors,"16-51, 11-23 Home","14-52, 5-30 Away",88,82,,,Final/OT,,31,12,16,19,10.0,22,17,18,21,4.0,NBA
-74,74,180323006,1997,"Mon, Mar 23",Dallas Mavericks,Minnesota Timberwolves,"17-52, 12-24 Home","35-34, 13-19 Away",91,87,,,Final,,20,16,25,30,,24,20,27,16,,NBA
-75,75,180327006,1997,"Fri, Mar 27",Dallas Mavericks,Utah Jazz,"18-53, 12-25 Home","52-17, 23-12 Away",90,99,,,Final,,11,23,22,34,,25,27,25,22,,NBA
-76,76,180331029,1997,"Tue, Mar 31",Vancouver Grizzlies,Dallas Mavericks,"16-56, 13-23 Home","19-54, 7-29 Away",101,104,,,Final,,21,24,26,30,,29,29,26,20,,NBA
-77,77,180403022,1997,"Fri, Apr 3",Portland Trail Blazers,Dallas Mavericks,"41-32, 24-14 Home","19-56, 7-31 Away",109,102,,,Final,,27,27,31,24,,24,27,25,26,,NBA
-78,78,180407006,1997,"Tue, Apr 7",Dallas Mavericks,Portland Trail Blazers,"19-58, 12-26 Home","43-33, 19-19 Away",91,99,,,Final,,26,15,19,31,,22,29,24,24,,NBA
-79,79,180411006,1997,"Sat, Apr 11",Dallas Mavericks,Denver Nuggets,"20-59, 13-27 Home","10-69, 2-37 Away",99,81,,,Final,,23,28,18,30,,24,18,20,19,,NBA
-80,80,180416009,1997,"Thu, Apr 16",Golden State Warriors,Dallas Mavericks,"18-63, 11-29 Home","20-61, 7-33 Away",88,82,,,Final,,26,23,17,22,,25,12,25,20,,NBA
-81,81,180417013,1997,"Fri, Apr 17",Los Angeles Lakers,Dallas Mavericks,"60-21, 32-8 Home","20-62, 7-34 Away",124,95,,,Final,,31,25,32,36,,21,25,22,27,,NBA
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+171101025,1997,"November 01, 1997",Seattle SuperSonics,Dallas Mavericks,"1-1, 0-1 Home","2-0, 2-0 Away",81,89,,,Final,,25,23,23,10,,14,25,16,34,,NBA
+171105003,1997,"November 05, 1997",Charlotte Hornets,Dallas Mavericks,"2-2, 1-1 Home","3-1, 2-1 Away",110,103,,,Final,,28,31,23,28,,25,31,22,25,,NBA
+171111006,1997,"November 11, 1997",Dallas Mavericks,Los Angeles Lakers,"3-3, 1-2 Home","5-0, 2-0 Away",96,118,,,Final,,21,22,28,25,,27,30,33,28,,NBA
+171115006,1997,"November 15, 1997",Dallas Mavericks,Utah Jazz,"3-5, 1-4 Home","5-4, 2-3 Away",77,85,,,Final,,17,19,19,22,,22,19,23,21,,NBA
+171118023,1997,"November 18, 1997",Sacramento Kings,Dallas Mavericks,"3-7, 2-3 Home","3-7, 2-3 Away",102,95,,,Final,,22,31,24,25,,22,31,22,20,,NBA
+171122006,1997,"November 22, 1997",Dallas Mavericks,Milwaukee Bucks,"3-9, 1-6 Home","7-5, 3-3 Away",62,83,,,Final,,13,19,15,15,,24,22,17,20,,NBA
+171128006,1997,"November 28, 1997",Dallas Mavericks,Toronto Raptors,"4-10, 2-7 Home","1-14, 0-7 Away",93,91,,,Final,,21,21,31,20,,24,20,31,16,,NBA
+171202006,1997,"December 02, 1997",Dallas Mavericks,Atlanta Hawks,"4-12, 2-8 Home","15-2, 6-1 Away",79,112,,,Final,,26,23,17,13,,31,34,17,30,,NBA
+171206006,1997,"December 06, 1997",Dallas Mavericks,Houston Rockets,"5-13, 3-9 Home","11-5, 5-2 Away",106,108,,,Final,,29,24,25,28,,26,28,24,30,,NBA
+171211006,1997,"December 11, 1997",Dallas Mavericks,Orlando Magic,"5-15, 3-11 Home","16-7, 9-4 Away",90,100,,,Final,,20,29,30,11,,33,32,18,17,,NBA
+171214013,1997,"December 14, 1997",Los Angeles Lakers,Dallas Mavericks,"17-5, 10-1 Home","5-17, 2-6 Away",119,89,,,Final,,27,31,29,32,,20,23,27,19,,NBA
+171218006,1997,"December 18, 1997",Dallas Mavericks,Phoenix Suns,"5-19, 3-12 Home","14-8, 5-5 Away",75,89,,,Final,,18,12,23,22,,12,26,32,19,,NBA
+171222018,1997,"December 22, 1997",New York Knicks,Dallas Mavericks,"16-11, 10-1 Home","5-21, 2-8 Away",79,67,,,Final,,19,15,25,20,,12,13,22,20,,NBA
+171226006,1997,"December 26, 1997",Dallas Mavericks,Washington Wizards,"5-23, 3-14 Home","15-14, 8-9 Away",95,97,,,Final,,23,23,22,27,,30,17,22,28,,NBA
+171230015,1997,"December 30, 1997",Milwaukee Bucks,Dallas Mavericks,"14-15, 10-6 Home","5-25, 2-11 Away",105,98,,,Final/OT,,16,29,24,19,17.0,19,26,25,18,10.0,NBA
+180103012,1997,"January 03, 1998",Los Angeles Clippers,Dallas Mavericks,"8-24, 5-10 Home","5-27, 2-13 Away",97,88,,,Final,,26,29,19,23,,20,22,27,19,,NBA
+180108006,1997,"January 08, 1998",Dallas Mavericks,Sacramento Kings,"6-28, 4-15 Home","15-20, 3-13 Away",92,103,,,Final,,27,15,22,28,,25,28,18,32,,NBA
+180113010,1997,"January 13, 1998",Houston Rockets,Dallas Mavericks,"18-15, 11-8 Home","6-30, 2-14 Away",100,87,,,Final,,22,15,32,31,,20,21,23,23,,NBA
+180117006,1997,"January 17, 1998",Dallas Mavericks,Minnesota Timberwolves,"6-32, 4-17 Home","21-16, 10-8 Away",110,113,,,Final/OT,,29,25,27,18,11.0,24,18,22,35,14.0,NBA
+180123024,1997,"January 23, 1998",San Antonio Spurs,Dallas Mavericks,"29-13, 17-3 Home","7-33, 2-16 Away",81,75,,,Final,,19,24,22,16,,13,22,17,23,,NBA
+180127006,1997,"January 27, 1998",Dallas Mavericks,Cleveland Cavaliers,"8-34, 6-18 Home","25-17, 13-8 Away",84,77,,,Final/OT,,23,16,20,16,9.0,26,15,22,12,2.0,NBA
+180131007,1997,"January 31, 1998",Denver Nuggets,Dallas Mavericks,"4-41, 3-18 Home","8-36, 2-18 Away",110,98,,,Final,,18,32,27,33,,23,21,26,28,,NBA
+180204002,1997,"February 04, 1998",Boston Celtics,Dallas Mavericks,"22-25, 16-10 Home","9-37, 2-19 Away",110,99,,,Final,,22,30,29,29,,25,20,21,33,,NBA
+180210017,1997,"February 10, 1998",New Jersey Nets,Dallas Mavericks,"28-21, 17-6 Home","9-39, 2-21 Away",90,81,,,Final,,20,27,22,21,,25,19,21,16,,NBA
+180213011,1997,"February 13, 1998",Indiana Pacers,Dallas Mavericks,"35-14, 19-5 Home","10-40, 3-22 Away",82,85,,,Final/2OT,,24,10,15,25,8.0,12,12,29,21,11.0,NBA
+180217006,1997,"February 17, 1998",Dallas Mavericks,Phoenix Suns,"10-42, 7-19 Home","34-16, 17-9 Away",77,95,,,Final,,18,15,19,25,,21,19,29,26,,NBA
+180221006,1997,"February 21, 1998",Dallas Mavericks,Detroit Pistons,"10-44, 7-21 Home","24-29, 8-19 Away",82,94,,,Final,,21,20,18,23,,22,22,26,24,,NBA
+180226014,1997,"February 26, 1998",Miami Heat,Dallas Mavericks,"39-18, 20-7 Home","10-46, 3-25 Away",91,72,,,Final,,26,18,29,18,,15,15,27,15,,NBA
+180302008,1997,"March 02, 1998",Detroit Pistons,Dallas Mavericks,"27-31, 19-11 Home","11-47, 4-26 Away",100,94,,,Final,,22,20,30,28,,29,18,25,22,,NBA
+180305006,1997,"March 05, 1998",Dallas Mavericks,Los Angeles Clippers,"13-47, 8-21 Home","12-47, 4-25 Away",119,109,,,Final,,30,29,35,25,,22,30,20,37,,NBA
+180310010,1997,"March 10, 1998",Houston Rockets,Dallas Mavericks,"31-31, 19-13 Home","13-49, 5-27 Away",97,91,,,Final,,29,31,19,18,,26,19,19,27,,NBA
+180314006,1997,"March 14, 1998",Dallas Mavericks,New Jersey Nets,"14-50, 9-23 Home","34-31, 13-20 Away",93,108,,,Final,,22,26,24,21,,25,22,25,36,,NBA
+180317006,1997,"March 17, 1998",Dallas Mavericks,Boston Celtics,"15-51, 10-23 Home","29-36, 9-23 Away",99,93,,,Final,,20,26,26,27,,27,27,15,24,,NBA
+180321006,1997,"March 21, 1998",Dallas Mavericks,Houston Rockets,"16-52, 11-24 Home","36-31, 13-18 Away",95,103,,,Final,,18,27,19,31,,27,30,24,22,,NBA
+180325007,1997,"March 25, 1998",Denver Nuggets,Dallas Mavericks,"8-64, 6-29 Home","18-52, 6-28 Away",94,105,,,Final,,18,23,22,31,,27,24,25,29,,NBA
+180329012,1997,"March 29, 1998",Los Angeles Clippers,Dallas Mavericks,"16-55, 10-26 Home","18-54, 6-29 Away",108,86,,,Final,,29,24,25,30,,22,20,23,21,,NBA
+180402025,1997,"April 02, 1998",Seattle SuperSonics,Dallas Mavericks,"55-18, 33-4 Home","19-55, 7-30 Away",107,86,,,Final,,22,27,29,29,,20,22,21,23,,NBA
+180405023,1997,"April 05, 1998",Sacramento Kings,Dallas Mavericks,"27-48, 21-17 Home","19-57, 7-32 Away",105,99,,,Final,,25,20,33,27,,23,28,24,24,,NBA
+180409006,1997,"April 09, 1998",Dallas Mavericks,Seattle SuperSonics,"19-59, 12-27 Home","58-19, 25-14 Away",101,103,,,Final,,27,23,27,24,,21,31,21,30,,NBA
+180414006,1997,"April 14, 1998",Dallas Mavericks,Los Angeles Lakers,"20-60, 13-28 Home","59-21, 28-13 Away",95,111,,,Final,,25,32,13,25,,32,32,23,24,,NBA
+171031029,1997,"October 31, 1997",Vancouver Grizzlies,Dallas Mavericks,"0-1, 0-1 Home","1-0, 1-0 Away",88,90,,,Final,,18,27,21,22,,26,17,31,16,,NBA
+171104006,1997,"November 04, 1997",Dallas Mavericks,Vancouver Grizzlies,"3-0, 1-0 Home","1-2, 0-1 Away",92,87,,,Final,,18,32,24,18,,30,24,20,13,,NBA
+171108006,1997,"November 08, 1997",Dallas Mavericks,Portland Trail Blazers,"3-2, 1-1 Home","4-1, 3-0 Away",94,101,,,Final,,23,27,16,28,,26,19,27,29,,NBA
+171113006,1997,"November 13, 1997",Dallas Mavericks,Philadelphia 76ers,"3-4, 1-3 Home","2-5, 2-2 Away",98,99,,,Final,,24,24,23,27,,27,17,25,30,,NBA
+171117022,1997,"November 17, 1997",Portland Trail Blazers,Dallas Mavericks,"7-2, 3-2 Home","3-6, 2-2 Away",120,75,,,Final,,28,33,28,31,,10,28,18,19,,NBA
+171120006,1997,"November 20, 1997",Dallas Mavericks,Golden State Warriors,"3-8, 1-5 Home","1-9, 1-6 Away",97,101,,,Final/OT,,18,28,19,26,6.0,25,27,24,15,10.0,NBA
+171125006,1997,"November 25, 1997",Dallas Mavericks,San Antonio Spurs,"3-10, 1-7 Home","8-5, 4-3 Away",91,102,,,Final,,17,23,35,16,,40,24,19,19,,NBA
+171129024,1997,"November 29, 1997",San Antonio Spurs,Dallas Mavericks,"9-6, 5-3 Home","4-11, 2-4 Away",96,87,,,Final,,21,20,31,24,,19,22,18,28,,NBA
+171204006,1997,"December 04, 1997",Dallas Mavericks,New York Knicks,"5-12, 3-8 Home","10-7, 5-6 Away",105,91,,,Final,,31,14,29,31,,18,23,21,29,,NBA
+171209006,1997,"December 09, 1997",Dallas Mavericks,Los Angeles Clippers,"5-14, 3-10 Home","4-16, 2-8 Away",92,99,,,Final,,21,24,24,23,,27,27,17,28,,NBA
+171212026,1997,"December 12, 1997",Utah Jazz,Dallas Mavericks,"13-8, 10-2 Home","5-16, 2-5 Away",68,66,,,Final,,19,17,17,15,,19,15,19,13,,NBA
+171216009,1997,"December 16, 1997",Golden State Warriors,Dallas Mavericks,"5-16, 4-6 Home","5-18, 2-7 Away",103,92,,,Final,,23,26,23,31,,22,20,25,25,,NBA
+171220006,1997,"December 20, 1997",Dallas Mavericks,Sacramento Kings,"5-20, 3-13 Home","9-17, 2-11 Away",88,89,,,Final,,29,24,13,22,,23,21,24,21,,NBA
+171223005,1997,"December 23, 1997",Cleveland Cavaliers,Dallas Mavericks,"17-9, 8-5 Home","5-22, 2-9 Away",99,85,,,Final,,20,21,32,26,,23,26,8,28,,NBA
+171229004,1997,"December 29, 1997",Chicago Bulls,Dallas Mavericks,"20-9, 15-1 Home","5-24, 2-10 Away",111,105,,,Final,,31,23,30,27,,25,29,23,28,,NBA
+180102021,1997,"January 02, 1998",Phoenix Suns,Dallas Mavericks,"19-9, 12-4 Home","5-26, 2-12 Away",92,85,,,Final,,28,20,27,17,,19,35,16,15,,NBA
+180106006,1997,"January 06, 1998",Dallas Mavericks,Denver Nuggets,"6-27, 4-14 Home","2-30, 0-18 Away",108,90,,,Final,,33,21,26,28,,35,16,18,21,,NBA
+180110006,1997,"January 10, 1998",Dallas Mavericks,Indiana Pacers,"6-29, 4-16 Home","23-11, 11-7 Away",79,84,,,Final,,20,25,19,15,,16,14,29,25,,NBA
+180114001,1997,"January 14, 1998",Atlanta Hawks,Dallas Mavericks,"24-12, 12-4 Home","6-31, 2-15 Away",108,82,,,Final,,26,23,26,33,,15,27,13,27,,NBA
+180120006,1997,"January 20, 1998",Dallas Mavericks,Seattle SuperSonics,"7-32, 5-17 Home","32-9, 16-7 Away",107,98,,,Final,,31,34,23,19,,30,24,22,22,,NBA
+180124006,1997,"January 24, 1998",Dallas Mavericks,Charlotte Hornets,"7-34, 5-18 Home","25-17, 10-12 Away",92,94,,,Final,,33,23,12,24,,29,19,27,19,,NBA
+180130026,1997,"January 30, 1998",Utah Jazz,Dallas Mavericks,"29-14, 19-4 Home","8-35, 2-17 Away",104,94,,,Final,,22,24,32,26,,18,26,26,24,,NBA
+180202006,1997,"February 02, 1998",Dallas Mavericks,Vancouver Grizzlies,"9-36, 7-18 Home","13-34, 3-19 Away",104,90,,,Final,,24,27,26,27,,18,25,18,29,,NBA
+180205028,1997,"February 05, 1998",Toronto Raptors,Dallas Mavericks,"11-36, 7-18 Home","9-38, 2-20 Away",101,93,,,Final,,13,26,40,22,,27,20,21,25,,NBA
+180211020,1997,"February 11, 1998",Philadelphia 76ers,Dallas Mavericks,"15-31, 10-14 Home","9-40, 2-22 Away",91,90,,,Final,,26,18,19,28,,26,18,25,21,,NBA
+180215016,1997,"February 15, 1998",Minnesota Timberwolves,Dallas Mavericks,"28-21, 16-10 Home","10-41, 3-23 Away",105,99,,,Final/OT,,15,21,26,24,19.0,22,13,27,24,13.0,NBA
+180219006,1997,"February 19, 1998",Dallas Mavericks,San Antonio Spurs,"10-43, 7-20 Home","36-16, 16-11 Away",81,87,,,Final,,14,30,13,24,,14,24,26,23,,NBA
+180225019,1997,"February 25, 1998",Orlando Magic,Dallas Mavericks,"29-27, 15-12 Home","10-45, 3-24 Away",100,79,,,Final,,17,27,30,26,,19,15,20,25,,NBA
+180228027,1997,"February 28, 1998",Washington Wizards,Dallas Mavericks,"29-29, 17-12 Home","11-46, 4-25 Away",77,103,,,Final,,21,18,20,18,,29,25,18,31,,NBA
+180303016,1997,"March 03, 1998",Minnesota Timberwolves,Dallas Mavericks,"31-27, 19-12 Home","12-47, 5-26 Away",99,110,,,Final,,20,27,22,30,,24,35,24,27,,NBA
+180307006,1997,"March 07, 1998",Dallas Mavericks,Miami Heat,"13-48, 8-22 Home","43-19, 22-11 Away",88,94,,,Final,,19,23,16,30,,22,27,24,21,,NBA
+180312006,1997,"March 12, 1998",Dallas Mavericks,Chicago Bulls,"14-49, 9-22 Home","46-17, 17-14 Away",104,97,,,Final/OT,,24,16,20,31,13.0,30,18,23,20,6.0,NBA
+180315021,1997,"March 15, 1998",Phoenix Suns,Dallas Mavericks,"43-21, 24-9 Home","14-51, 5-28 Away",100,90,,,Final,,28,22,27,23,,22,23,23,22,,NBA
+180319006,1997,"March 19, 1998",Dallas Mavericks,Golden State Warriors,"16-51, 11-23 Home","14-52, 5-30 Away",88,82,,,Final/OT,,31,12,16,19,10.0,22,17,18,21,4.0,NBA
+180323006,1997,"March 23, 1998",Dallas Mavericks,Minnesota Timberwolves,"17-52, 12-24 Home","35-34, 13-19 Away",91,87,,,Final,,20,16,25,30,,24,20,27,16,,NBA
+180327006,1997,"March 27, 1998",Dallas Mavericks,Utah Jazz,"18-53, 12-25 Home","52-17, 23-12 Away",90,99,,,Final,,11,23,22,34,,25,27,25,22,,NBA
+180331029,1997,"March 31, 1998",Vancouver Grizzlies,Dallas Mavericks,"16-56, 13-23 Home","19-54, 7-29 Away",101,104,,,Final,,21,24,26,30,,29,29,26,20,,NBA
+180403022,1997,"April 03, 1998",Portland Trail Blazers,Dallas Mavericks,"41-32, 24-14 Home","19-56, 7-31 Away",109,102,,,Final,,27,27,31,24,,24,27,25,26,,NBA
+180407006,1997,"April 07, 1998",Dallas Mavericks,Portland Trail Blazers,"19-58, 12-26 Home","43-33, 19-19 Away",91,99,,,Final,,26,15,19,31,,22,29,24,24,,NBA
+180411006,1997,"April 11, 1998",Dallas Mavericks,Denver Nuggets,"20-59, 13-27 Home","10-69, 2-37 Away",99,81,,,Final,,23,28,18,30,,24,18,20,19,,NBA
+180416009,1997,"April 16, 1998",Golden State Warriors,Dallas Mavericks,"18-63, 11-29 Home","20-61, 7-33 Away",88,82,,,Final,,26,23,17,22,,25,12,25,20,,NBA
+180417013,1997,"April 17, 1998",Los Angeles Lakers,Dallas Mavericks,"60-21, 32-8 Home","20-62, 7-34 Away",124,95,,,Final,,31,25,32,36,,21,25,22,27,,NBA

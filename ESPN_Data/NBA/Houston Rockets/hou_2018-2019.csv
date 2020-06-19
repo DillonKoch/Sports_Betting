@@ -1,83 +1,83 @@
-,Unnamed: 0,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-0,0,401070222,2018,"Sat, Oct 20",Los Angeles Lakers,Houston Rockets,"0-2, 0-1 Home","1-1, 1-0 Away",115,124,HOU -3.5,239,Final,ESPN,28,34,35,18,,31,35,32,26,,NBA
-1,1,401070738,2018,"Wed, Oct 24",Houston Rockets,Utah Jazz,"1-3, 0-2 Home","2-2, 2-0 Away",89,100,HOU -1.0,218,Final,,29,15,22,23,,24,28,23,25,,NBA
-2,2,401070782,2018,"Tue, Oct 30",Houston Rockets,Portland Trail Blazers,"1-5, 0-4 Home","5-2, 3-1 Away",85,104,HOU -4.5,223,Final,,15,21,26,23,,19,32,34,19,,NBA
-3,3,401070810,2018,"Sat, Nov 3",Chicago Bulls,Houston Rockets,"2-8, 1-5 Home","3-5, 3-1 Away",88,96,HOU -8.5,223,Final,,28,28,7,25,,27,27,21,21,,NBA
-4,4,401070844,2018,"Thu, Nov 8",Oklahoma City Thunder,Houston Rockets,"7-4, 4-2 Home","4-6, 4-2 Away",98,80,HOU -5.0,214,Final,TNT,29,30,21,18,,19,26,15,20,,NBA
-5,5,401070866,2018,"Sun, Nov 11",Houston Rockets,Indiana Pacers,"5-7, 1-4 Home","8-6, 5-3 Away",115,103,HOU -2.5,210,Final,,32,44,26,13,,31,23,27,22,,NBA
-6,6,401070894,2018,"Thu, Nov 15",Houston Rockets,Golden State Warriors,"7-7, 2-4 Home","12-4, 4-3 Away",107,86,HOU -4.5,217,Final,TNT,25,22,29,31,,19,22,22,23,,NBA
-7,7,401070939,2018,"Wed, Nov 21",Houston Rockets,Detroit Pistons,"9-7, 4-4 Home","8-7, 4-4 Away",126,124,HOU -9.0,215,Final,,31,25,37,33,,29,28,26,41,,NBA
-8,8,401070960,2018,"Sat, Nov 24",Cleveland Cavaliers,Houston Rockets,"4-14, 3-6 Home","9-9, 5-5 Away",117,108,HOU -7.0,209,Final,,29,34,30,24,,30,28,25,25,,NBA
-9,9,401070990,2018,"Wed, Nov 28",Houston Rockets,Dallas Mavericks,"9-11, 4-5 Home","10-9, 2-7 Away",108,128,HOU -5.5,217,Final,,28,28,33,19,,36,38,22,32,,NBA
-10,10,401071015,2018,"Sat, Dec 1",Houston Rockets,Chicago Bulls,"11-11, 5-5 Home","5-19, 2-10 Away",121,105,HOU -13.0,219,Final,,38,18,31,34,,22,24,29,30,,NBA
-11,11,401071048,2018,"Thu, Dec 6",Utah Jazz,Houston Rockets,"13-13, 4-6 Home","11-13, 6-8 Away",118,91,UTAH -1.5,216,Final,TNT,27,26,38,27,,18,27,11,35,,NBA
-12,12,401071083,2018,"Tue, Dec 11",Houston Rockets,Portland Trail Blazers,"12-14, 6-5 Home","15-12, 5-8 Away",111,104,,221,Final,NBATV,27,24,30,30,,29,25,24,26,,NBA
-13,13,401071113,2018,"Sat, Dec 15",Memphis Grizzlies,Houston Rockets,"16-13, 9-6 Home","14-14, 7-9 Away",97,105,HOU -5.0,202,Final,,29,11,25,32,,36,25,18,26,,NBA
-14,14,401071142,2018,"Wed, Dec 19",Houston Rockets,Washington Wizards,"16-14, 9-5 Home","12-20, 4-14 Away",136,118,HOU -11.0,225,Final,,34,36,31,35,,28,30,32,28,,NBA
-15,15,401071164,2018,"Sat, Dec 22",Houston Rockets,San Antonio Spurs,"17-15, 10-5 Home","18-16, 5-11 Away",108,101,HOU -5.0,218,Final,,28,13,43,24,,26,17,26,32,,NBA
-16,16,401071188,2018,"Thu, Dec 27",Houston Rockets,Boston Celtics,"19-15, 12-5 Home","20-14, 9-9 Away",127,113,BOS -2.5,215,Final,TNT,35,22,35,35,,24,31,31,27,,NBA
-17,17,401071220,2018,"Mon, Dec 31",Houston Rockets,Memphis Grizzlies,"21-15, 13-5 Home","18-18, 8-11 Away",113,101,HOU -4.0,201,Final,,27,34,25,27,,18,20,35,28,,NBA
-18,18,401071258,2018,"Sat, Jan 5",Portland Trail Blazers,Houston Rockets,"23-17, 15-7 Home","22-16, 9-11 Away",110,101,POR -2.0,219,Final,,30,29,27,24,,30,16,31,24,,NBA
-19,19,401071286,2018,"Wed, Jan 9",Houston Rockets,Milwaukee Bucks,"23-17, 14-6 Home","29-11, 10-7 Away",109,116,MIL -1.5,230,Final,ESPN,29,31,23,26,,26,28,38,24,,NBA
-20,20,401071317,2018,"Sun, Jan 13",Orlando Magic,Houston Rockets,"19-24, 12-11 Home","24-18, 9-12 Away",116,109,HOU -5.5,215,Final,,18,34,34,30,,26,33,29,21,,NBA
-21,21,401071335,2018,"Wed, Jan 16",Houston Rockets,Brooklyn Nets,"25-19, 16-7 Home","23-23, 11-12 Away",142,145,HOU -5.5,226,Final/OT,,30,24,40,37,11.0,34,28,23,46,14.0,NBA
-22,22,401070239,2018,"Mon, Jan 21",Philadelphia 76ers,Houston Rockets,"31-17, 20-5 Home","26-20, 9-13 Away",121,93,PHI -4.0,235,Final,TNT,30,35,29,27,,26,24,13,30,,NBA
-23,23,401071397,2018,"Fri, Jan 25",Houston Rockets,Toronto Raptors,"28-20, 18-7 Home","36-15, 15-11 Away",121,119,TOR -3.5,229,Final,ESPN,33,37,26,25,,20,41,28,30,,NBA
-24,24,401071426,2018,"Tue, Jan 29",Houston Rockets,New Orleans Pelicans,"29-21, 19-8 Home","23-28, 8-20 Away",116,121,HOU -13.5,234,Final,TNT,35,31,25,25,,28,31,35,27,,NBA
-25,25,401071458,2018,"Sat, Feb 2",Utah Jazz,Houston Rockets,"30-24, 16-10 Home","30-22, 11-14 Away",98,125,UTAH -6.5,223,Final,,27,23,19,29,,31,32,28,34,,NBA
-26,26,401071482,2018,"Wed, Feb 6",Sacramento Kings,Houston Rockets,"28-26, 17-11 Home","32-22, 13-14 Away",101,127,HOU -4.0,236,Final,,28,17,29,27,,32,44,28,23,,NBA
-27,27,401071517,2018,"Mon, Feb 11",Houston Rockets,Dallas Mavericks,"33-23, 20-9 Home","26-30, 6-22 Away",120,104,HOU -11.0,225,Final,NBATV,25,39,28,28,,22,28,28,26,,NBA
-28,28,401071545,2018,"Thu, Feb 21",Los Angeles Lakers,Houston Rockets,"29-29, 17-12 Home","33-25, 13-16 Away",111,106,HOU -3.0,234,Final,TNT,22,30,31,28,,32,26,32,16,,NBA
-29,29,401071576,2018,"Mon, Feb 25",Houston Rockets,Atlanta Hawks,"35-25, 21-9 Home","20-41, 10-23 Away",119,111,HOU -12.5,235,Final,,39,21,35,24,,28,32,25,26,,NBA
-30,30,401071598,2018,"Thu, Feb 28",Houston Rockets,Miami Heat,"37-25, 22-9 Home","27-34, 15-16 Away",121,118,HOU -9.5,219,Final,,33,22,31,35,,32,37,29,20,,NBA
-31,31,401071634,2018,"Tue, Mar 5",Toronto Raptors,Houston Rockets,"46-19, 27-7 Home","39-25, 17-16 Away",95,107,TOR -3.5,229,Final,TNT,19,18,34,24,,23,32,14,38,,NBA
-32,32,401071670,2018,"Sun, Mar 10",Dallas Mavericks,Houston Rockets,"27-39, 21-12 Home","41-25, 18-16 Away",93,94,HOU -8.5,222,Final,,26,28,18,21,,25,33,23,13,,NBA
-33,33,401071691,2018,"Wed, Mar 13",Houston Rockets,Golden State Warriors,"42-26, 24-10 Home","46-21, 22-11 Away",104,106,HOU -3.5,229,Final,ESPN,23,29,26,26,,33,21,31,21,,NBA
-34,34,401071721,2018,"Sun, Mar 17",Houston Rockets,Minnesota Timberwolves,"44-26, 26-10 Home","32-38, 9-28 Away",117,102,HOU -9.5,225,Final,ESPN,26,24,43,24,,30,19,29,24,,NBA
-35,35,401071743,2018,"Wed, Mar 20",Memphis Grizzlies,Houston Rockets,"29-42, 19-17 Home","45-27, 19-17 Away",126,125,HOU -5.5,216,Final/OT,,38,25,34,18,11.0,25,28,25,37,10.0,NBA
-36,36,401071772,2018,"Sun, Mar 24",New Orleans Pelicans,Houston Rockets,"31-44, 18-18 Home","47-27, 20-17 Away",90,113,HOU -10.0,230,Final,,19,25,25,21,,33,30,24,26,,NBA
-37,37,401071799,2018,"Thu, Mar 28",Houston Rockets,Denver Nuggets,"48-28, 28-10 Home","50-24, 19-18 Away",112,85,HOU -6.0,217,Final,NBATV,22,40,25,25,,25,19,21,20,,NBA
-38,38,401071836,2018,"Tue, Apr 2",Sacramento Kings,Houston Rockets,"38-40, 23-16 Home","50-28, 21-18 Away",105,130,HOU -5.5,225,Final,,23,23,31,28,,33,29,29,39,,NBA
-39,39,401071857,2018,"Fri, Apr 5",Houston Rockets,New York Knicks,"52-28, 30-10 Home","15-64, 7-33 Away",120,96,HOU -17.5,217,Final,,32,40,31,17,,16,27,21,32,,NBA
-40,40,401070215,2018,"Wed, Oct 17",Houston Rockets,New Orleans Pelicans,"0-1, 0-1 Home","1-0, 1-0 Away",112,131,HOU -8.0,233,Final,ESPN,29,25,30,28,,35,36,30,30,,NBA
-41,41,401070223,2018,"Sun, Oct 21",LA Clippers,Houston Rockets,"2-1, 2-1 Home","1-2, 1-1 Away",115,112,LAC -2.5,221,Final,NBATV,29,25,39,22,,24,29,31,28,,NBA
-42,42,401070751,2018,"Fri, Oct 26",Houston Rockets,LA Clippers,"1-4, 0-3 Home","3-2, 1-1 Away",113,133,HOU -4.0,218,Final,,30,31,22,30,,31,39,26,37,,NBA
-43,43,401070799,2018,"Fri, Nov 2",Brooklyn Nets,Houston Rockets,"3-6, 2-2 Home","2-5, 2-1 Away",111,119,HOU -4.0,221,Final,,32,29,25,25,,25,31,35,28,,NBA
-44,44,401070822,2018,"Mon, Nov 5",Indiana Pacers,Houston Rockets,"7-4, 3-2 Home","4-5, 4-1 Away",94,98,IND -1.0,216,Final,,22,33,20,19,,29,24,16,29,,NBA
-45,45,401070861,2018,"Sat, Nov 10",San Antonio Spurs,Houston Rockets,"7-4, 5-2 Home","4-7, 4-3 Away",96,89,HOU -3.5,212,Final,NBATV,20,32,20,24,,21,29,21,18,,NBA
-46,46,401070881,2018,"Tue, Nov 13",Denver Nuggets,Houston Rockets,"9-5, 6-3 Home","6-7, 5-3 Away",99,109,DEN -4.0,217,Final,,30,25,21,23,,27,27,32,23,,NBA
-47,47,401070912,2018,"Sat, Nov 17",Houston Rockets,Sacramento Kings,"8-7, 3-4 Home","8-8, 4-5 Away",132,112,HOU -12.0,220,Final,,36,35,38,23,,29,30,27,26,,NBA
-48,48,401070948,2018,"Fri, Nov 23",Detroit Pistons,Houston Rockets,"9-7, 5-3 Home","9-8, 5-4 Away",116,111,HOU -4.0,215,Final/OT,NBATV,34,27,17,20,18.0,30,26,23,19,13.0,NBA
-49,49,401070977,2018,"Mon, Nov 26",Washington Wizards,Houston Rockets,"8-12, 6-5 Home","9-10, 5-6 Away",135,131,WSH -1.5,223,Final/OT,NBATV,30,37,27,31,10.0,42,23,33,27,6.0,NBA
-50,50,401071007,2018,"Fri, Nov 30",San Antonio Spurs,Houston Rockets,"10-12, 6-4 Home","10-11, 6-6 Away",105,136,HOU -3.5,216,Final,ESPN,23,24,27,31,,39,31,40,26,,NBA
-51,51,401071029,2018,"Mon, Dec 3",Minnesota Timberwolves,Houston Rockets,"12-12, 10-4 Home","11-12, 6-7 Away",103,91,HOU -2.5,223,Final,,24,24,38,17,,24,38,20,9,,NBA
-52,52,401071059,2018,"Sat, Dec 8",Dallas Mavericks,Houston Rockets,"13-11, 11-2 Home","11-14, 6-9 Away",107,104,HOU -3.5,219,Final,,32,24,28,23,,30,27,27,20,,NBA
-53,53,401071097,2018,"Thu, Dec 13",Houston Rockets,Los Angeles Lakers,"13-14, 7-5 Home","17-11, 6-7 Away",126,111,HOU -6.0,227,Final,TNT,29,33,28,36,,24,32,32,23,,NBA
-54,54,401071126,2018,"Mon, Dec 17",Houston Rockets,Utah Jazz,"15-14, 8-5 Home","14-17, 9-11 Away",102,97,,213,Final,NBATV,25,25,33,19,,23,14,36,24,,NBA
-55,55,401071148,2018,"Thu, Dec 20",Miami Heat,Houston Rockets,"14-16, 6-9 Home","16-15, 7-10 Away",101,99,HOU -3.0,211,Final,TNT,21,32,29,19,,33,25,18,23,,NBA
-56,56,401070234,2018,"Tue, Dec 25",Houston Rockets,Oklahoma City Thunder,"18-15, 11-5 Home","21-12, 9-8 Away",113,109,OKC -1.5,222,Final,ABC,22,30,34,27,,22,38,28,21,,NBA
-57,57,401071205,2018,"Sat, Dec 29",New Orleans Pelicans,Houston Rockets,"16-21, 12-6 Home","20-15, 8-10 Away",104,108,HOU -3.5,229,Final,NBATV,20,30,26,28,,30,23,24,31,,NBA
-58,58,401071241,2018,"Thu, Jan 3",Golden State Warriors,Houston Rockets,"25-14, 15-6 Home","22-15, 9-10 Away",134,135,GS -8.5,226,Final/OT,TNT,34,36,28,21,15.0,22,31,39,27,16.0,NBA
-59,59,401071269,2018,"Mon, Jan 7",Houston Rockets,Denver Nuggets,"23-16, 14-5 Home","26-12, 10-9 Away",125,113,HOU -1.0,216,Final,,33,37,26,29,,35,25,29,24,,NBA
-60,60,401071301,2018,"Fri, Jan 11",Houston Rockets,Cleveland Cavaliers,"24-17, 15-6 Home","8-35, 3-18 Away",141,113,HOU -14.0,217,Final,,42,35,36,28,,22,27,32,32,,NBA
-61,61,401071322,2018,"Mon, Jan 14",Houston Rockets,Memphis Grizzlies,"25-18, 16-6 Home","19-24, 8-15 Away",112,94,HOU -3.5,208,Final,,24,30,33,25,,29,19,22,24,,NBA
-62,62,401071362,2018,"Sat, Jan 19",Houston Rockets,Los Angeles Lakers,"26-19, 17-7 Home","25-22, 10-13 Away",138,134,HOU -7.0,230,Final/OT,ABC,26,20,36,38,18.0,39,25,22,34,14.0,NBA
-63,63,401071383,2018,"Wed, Jan 23",New York Knicks,Houston Rockets,"10-36, 4-16 Home","27-20, 10-13 Away",110,114,HOU -8.0,227,Final,,31,32,15,32,,28,30,30,26,,NBA
-64,64,401071412,2018,"Sun, Jan 27",Houston Rockets,Orlando Magic,"29-20, 19-7 Home","20-30, 8-16 Away",103,98,HOU -8.5,222,Final,,18,35,21,29,,34,27,21,16,,NBA
-65,65,401071447,2018,"Fri, Feb 1",Denver Nuggets,Houston Rockets,"36-15, 23-4 Home","29-22, 10-14 Away",136,122,DEN -3.0,224,Final,ESPN,35,48,30,23,,43,28,24,27,,NBA
-66,66,401071467,2018,"Mon, Feb 4",Phoenix Suns,Houston Rockets,"11-44, 7-21 Home","31-22, 12-14 Away",110,118,HOU -8.5,228,Final,,28,29,23,30,,32,31,31,24,,NBA
-67,67,401071505,2018,"Sat, Feb 9",Houston Rockets,Oklahoma City Thunder,"32-23, 19-9 Home","36-19, 17-12 Away",112,117,HOU -2.0,238,Final,ABC,28,42,20,22,,25,23,42,27,,NBA
-68,68,401071534,2018,"Wed, Feb 13",Minnesota Timberwolves,Houston Rockets,"27-30, 19-10 Home","33-24, 13-15 Away",121,111,HOU -4.0,232,Final,ESPN,28,24,35,34,,29,29,26,27,,NBA
-69,69,401071565,2018,"Sat, Feb 23",Golden State Warriors,Houston Rockets,"42-17, 23-8 Home","34-25, 14-16 Away",112,118,GS -12.0,232,Final,ABC,20,34,32,26,,35,26,31,26,,NBA
-70,70,401071584,2018,"Wed, Feb 27",Charlotte Hornets,Houston Rockets,"28-33, 20-12 Home","36-25, 15-16 Away",113,118,HOU -5.0,227,Final,,33,36,25,19,,41,21,28,28,,NBA
-71,71,401071618,2018,"Sun, Mar 3",Boston Celtics,Houston Rockets,"38-26, 24-10 Home","38-25, 16-16 Away",104,115,BOS -2.0,226,Final,ABC,23,20,35,26,,33,32,35,15,,NBA
-72,72,401071654,2018,"Fri, Mar 8",Houston Rockets,Philadelphia 76ers,"40-25, 23-9 Home","41-25, 16-16 Away",107,91,HOU -7.5,230,Final,ESPN,37,22,28,20,,21,23,21,26,,NBA
-73,73,401071677,2018,"Mon, Mar 11",Houston Rockets,Charlotte Hornets,"42-25, 24-9 Home","30-37, 9-23 Away",118,106,HOU -9.5,224,Final,NBATV,38,33,22,25,,19,25,36,26,,NBA
-74,74,401071703,2018,"Fri, Mar 15",Houston Rockets,Phoenix Suns,"43-26, 25-10 Home","16-54, 6-30 Away",108,102,HOU -12.5,226,Final,,26,29,28,25,,31,26,28,17,,NBA
-75,75,401071733,2018,"Tue, Mar 19",Atlanta Hawks,Houston Rockets,"24-48, 13-22 Home","45-26, 19-16 Away",105,121,HOU -7.5,234,Final,,25,22,25,33,,25,28,31,37,,NBA
-76,76,401071757,2018,"Fri, Mar 22",Houston Rockets,San Antonio Spurs,"46-27, 27-10 Home","42-31, 13-23 Away",111,105,HOU -6.5,221,Final,NBATV,36,26,19,30,,24,23,34,24,,NBA
-77,77,401071784,2018,"Tue, Mar 26",Milwaukee Bucks,Houston Rockets,"56-19, 31-6 Home","47-28, 20-18 Away",108,94,MIL -3.0,224,Final,TNT,20,38,32,18,,25,28,18,23,,NBA
-78,78,401071811,2018,"Sat, Mar 30",Houston Rockets,Sacramento Kings,"49-28, 29-10 Home","37-39, 14-24 Away",119,108,HOU -10.0,229,Final,,35,28,28,28,,32,28,33,15,,NBA
-79,79,401071849,2018,"Wed, Apr 3",LA Clippers,Houston Rockets,"47-32, 25-14 Home","51-28, 22-18 Away",103,135,HOU -2.0,229,Final,NBATV,26,27,20,30,,39,29,34,33,,NBA
-80,80,401071874,2018,"Sun, Apr 7",Houston Rockets,Phoenix Suns,"53-28, 31-10 Home","19-62, 7-33 Away",149,113,HOU -18.5,223,Final,NBATV,34,43,40,32,,24,23,30,36,,NBA
-81,81,401071891,2018,"Tue, Apr 9",Oklahoma City Thunder,Houston Rockets,"48-33, 27-14 Home","53-29, 22-19 Away",112,111,HOU -3.0,230,Final,TNT,26,25,29,32,,32,28,33,18,,NBA
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+401070222,2018,"October 20, 2018",Los Angeles Lakers,Houston Rockets,"0-2, 0-1 Home","1-1, 1-0 Away",115,124,HOU -3.5,239,Final,ESPN,28,34,35,18,,31,35,32,26,,NBA
+401070738,2018,"October 24, 2018",Houston Rockets,Utah Jazz,"1-3, 0-2 Home","2-2, 2-0 Away",89,100,HOU -1.0,218,Final,,29,15,22,23,,24,28,23,25,,NBA
+401070782,2018,"October 30, 2018",Houston Rockets,Portland Trail Blazers,"1-5, 0-4 Home","5-2, 3-1 Away",85,104,HOU -4.5,223,Final,,15,21,26,23,,19,32,34,19,,NBA
+401070810,2018,"November 03, 2018",Chicago Bulls,Houston Rockets,"2-8, 1-5 Home","3-5, 3-1 Away",88,96,HOU -8.5,223,Final,,28,28,7,25,,27,27,21,21,,NBA
+401070844,2018,"November 08, 2018",Oklahoma City Thunder,Houston Rockets,"7-4, 4-2 Home","4-6, 4-2 Away",98,80,HOU -5.0,214,Final,TNT,29,30,21,18,,19,26,15,20,,NBA
+401070866,2018,"November 11, 2018",Houston Rockets,Indiana Pacers,"5-7, 1-4 Home","8-6, 5-3 Away",115,103,HOU -2.5,210,Final,,32,44,26,13,,31,23,27,22,,NBA
+401070894,2018,"November 15, 2018",Houston Rockets,Golden State Warriors,"7-7, 2-4 Home","12-4, 4-3 Away",107,86,HOU -4.5,217,Final,TNT,25,22,29,31,,19,22,22,23,,NBA
+401070939,2018,"November 21, 2018",Houston Rockets,Detroit Pistons,"9-7, 4-4 Home","8-7, 4-4 Away",126,124,HOU -9.0,215,Final,,31,25,37,33,,29,28,26,41,,NBA
+401070960,2018,"November 24, 2018",Cleveland Cavaliers,Houston Rockets,"4-14, 3-6 Home","9-9, 5-5 Away",117,108,HOU -7.0,209,Final,,29,34,30,24,,30,28,25,25,,NBA
+401070990,2018,"November 28, 2018",Houston Rockets,Dallas Mavericks,"9-11, 4-5 Home","10-9, 2-7 Away",108,128,HOU -5.5,217,Final,,28,28,33,19,,36,38,22,32,,NBA
+401071015,2018,"December 01, 2018",Houston Rockets,Chicago Bulls,"11-11, 5-5 Home","5-19, 2-10 Away",121,105,HOU -13.0,219,Final,,38,18,31,34,,22,24,29,30,,NBA
+401071048,2018,"December 06, 2018",Utah Jazz,Houston Rockets,"13-13, 4-6 Home","11-13, 6-8 Away",118,91,UTAH -1.5,216,Final,TNT,27,26,38,27,,18,27,11,35,,NBA
+401071083,2018,"December 11, 2018",Houston Rockets,Portland Trail Blazers,"12-14, 6-5 Home","15-12, 5-8 Away",111,104,,221,Final,NBATV,27,24,30,30,,29,25,24,26,,NBA
+401071113,2018,"December 15, 2018",Memphis Grizzlies,Houston Rockets,"16-13, 9-6 Home","14-14, 7-9 Away",97,105,HOU -5.0,202,Final,,29,11,25,32,,36,25,18,26,,NBA
+401071142,2018,"December 19, 2018",Houston Rockets,Washington Wizards,"16-14, 9-5 Home","12-20, 4-14 Away",136,118,HOU -11.0,225,Final,,34,36,31,35,,28,30,32,28,,NBA
+401071164,2018,"December 22, 2018",Houston Rockets,San Antonio Spurs,"17-15, 10-5 Home","18-16, 5-11 Away",108,101,HOU -5.0,218,Final,,28,13,43,24,,26,17,26,32,,NBA
+401071188,2018,"December 27, 2018",Houston Rockets,Boston Celtics,"19-15, 12-5 Home","20-14, 9-9 Away",127,113,BOS -2.5,215,Final,TNT,35,22,35,35,,24,31,31,27,,NBA
+401071220,2018,"December 31, 2018",Houston Rockets,Memphis Grizzlies,"21-15, 13-5 Home","18-18, 8-11 Away",113,101,HOU -4.0,201,Final,,27,34,25,27,,18,20,35,28,,NBA
+401071258,2018,"January 05, 2019",Portland Trail Blazers,Houston Rockets,"23-17, 15-7 Home","22-16, 9-11 Away",110,101,POR -2.0,219,Final,,30,29,27,24,,30,16,31,24,,NBA
+401071286,2018,"January 09, 2019",Houston Rockets,Milwaukee Bucks,"23-17, 14-6 Home","29-11, 10-7 Away",109,116,MIL -1.5,230,Final,ESPN,29,31,23,26,,26,28,38,24,,NBA
+401071317,2018,"January 13, 2019",Orlando Magic,Houston Rockets,"19-24, 12-11 Home","24-18, 9-12 Away",116,109,HOU -5.5,215,Final,,18,34,34,30,,26,33,29,21,,NBA
+401071335,2018,"January 16, 2019",Houston Rockets,Brooklyn Nets,"25-19, 16-7 Home","23-23, 11-12 Away",142,145,HOU -5.5,226,Final/OT,,30,24,40,37,11.0,34,28,23,46,14.0,NBA
+401070239,2018,"January 21, 2019",Philadelphia 76ers,Houston Rockets,"31-17, 20-5 Home","26-20, 9-13 Away",121,93,PHI -4.0,235,Final,TNT,30,35,29,27,,26,24,13,30,,NBA
+401071397,2018,"January 25, 2019",Houston Rockets,Toronto Raptors,"28-20, 18-7 Home","36-15, 15-11 Away",121,119,TOR -3.5,229,Final,ESPN,33,37,26,25,,20,41,28,30,,NBA
+401071426,2018,"January 29, 2019",Houston Rockets,New Orleans Pelicans,"29-21, 19-8 Home","23-28, 8-20 Away",116,121,HOU -13.5,234,Final,TNT,35,31,25,25,,28,31,35,27,,NBA
+401071458,2018,"February 02, 2019",Utah Jazz,Houston Rockets,"30-24, 16-10 Home","30-22, 11-14 Away",98,125,UTAH -6.5,223,Final,,27,23,19,29,,31,32,28,34,,NBA
+401071482,2018,"February 06, 2019",Sacramento Kings,Houston Rockets,"28-26, 17-11 Home","32-22, 13-14 Away",101,127,HOU -4.0,236,Final,,28,17,29,27,,32,44,28,23,,NBA
+401071517,2018,"February 11, 2019",Houston Rockets,Dallas Mavericks,"33-23, 20-9 Home","26-30, 6-22 Away",120,104,HOU -11.0,225,Final,NBATV,25,39,28,28,,22,28,28,26,,NBA
+401071545,2018,"February 21, 2019",Los Angeles Lakers,Houston Rockets,"29-29, 17-12 Home","33-25, 13-16 Away",111,106,HOU -3.0,234,Final,TNT,22,30,31,28,,32,26,32,16,,NBA
+401071576,2018,"February 25, 2019",Houston Rockets,Atlanta Hawks,"35-25, 21-9 Home","20-41, 10-23 Away",119,111,HOU -12.5,235,Final,,39,21,35,24,,28,32,25,26,,NBA
+401071598,2018,"February 28, 2019",Houston Rockets,Miami Heat,"37-25, 22-9 Home","27-34, 15-16 Away",121,118,HOU -9.5,219,Final,,33,22,31,35,,32,37,29,20,,NBA
+401071634,2018,"March 05, 2019",Toronto Raptors,Houston Rockets,"46-19, 27-7 Home","39-25, 17-16 Away",95,107,TOR -3.5,229,Final,TNT,19,18,34,24,,23,32,14,38,,NBA
+401071670,2018,"March 10, 2019",Dallas Mavericks,Houston Rockets,"27-39, 21-12 Home","41-25, 18-16 Away",93,94,HOU -8.5,222,Final,,26,28,18,21,,25,33,23,13,,NBA
+401071691,2018,"March 13, 2019",Houston Rockets,Golden State Warriors,"42-26, 24-10 Home","46-21, 22-11 Away",104,106,HOU -3.5,229,Final,ESPN,23,29,26,26,,33,21,31,21,,NBA
+401071721,2018,"March 17, 2019",Houston Rockets,Minnesota Timberwolves,"44-26, 26-10 Home","32-38, 9-28 Away",117,102,HOU -9.5,225,Final,ESPN,26,24,43,24,,30,19,29,24,,NBA
+401071743,2018,"March 20, 2019",Memphis Grizzlies,Houston Rockets,"29-42, 19-17 Home","45-27, 19-17 Away",126,125,HOU -5.5,216,Final/OT,,38,25,34,18,11.0,25,28,25,37,10.0,NBA
+401071772,2018,"March 24, 2019",New Orleans Pelicans,Houston Rockets,"31-44, 18-18 Home","47-27, 20-17 Away",90,113,HOU -10.0,230,Final,,19,25,25,21,,33,30,24,26,,NBA
+401071799,2018,"March 28, 2019",Houston Rockets,Denver Nuggets,"48-28, 28-10 Home","50-24, 19-18 Away",112,85,HOU -6.0,217,Final,NBATV,22,40,25,25,,25,19,21,20,,NBA
+401071836,2018,"April 02, 2019",Sacramento Kings,Houston Rockets,"38-40, 23-16 Home","50-28, 21-18 Away",105,130,HOU -5.5,225,Final,,23,23,31,28,,33,29,29,39,,NBA
+401071857,2018,"April 05, 2019",Houston Rockets,New York Knicks,"52-28, 30-10 Home","15-64, 7-33 Away",120,96,HOU -17.5,217,Final,,32,40,31,17,,16,27,21,32,,NBA
+401070215,2018,"October 17, 2018",Houston Rockets,New Orleans Pelicans,"0-1, 0-1 Home","1-0, 1-0 Away",112,131,HOU -8.0,233,Final,ESPN,29,25,30,28,,35,36,30,30,,NBA
+401070223,2018,"October 21, 2018",LA Clippers,Houston Rockets,"2-1, 2-1 Home","1-2, 1-1 Away",115,112,LAC -2.5,221,Final,NBATV,29,25,39,22,,24,29,31,28,,NBA
+401070751,2018,"October 26, 2018",Houston Rockets,LA Clippers,"1-4, 0-3 Home","3-2, 1-1 Away",113,133,HOU -4.0,218,Final,,30,31,22,30,,31,39,26,37,,NBA
+401070799,2018,"November 02, 2018",Brooklyn Nets,Houston Rockets,"3-6, 2-2 Home","2-5, 2-1 Away",111,119,HOU -4.0,221,Final,,32,29,25,25,,25,31,35,28,,NBA
+401070822,2018,"November 05, 2018",Indiana Pacers,Houston Rockets,"7-4, 3-2 Home","4-5, 4-1 Away",94,98,IND -1.0,216,Final,,22,33,20,19,,29,24,16,29,,NBA
+401070861,2018,"November 10, 2018",San Antonio Spurs,Houston Rockets,"7-4, 5-2 Home","4-7, 4-3 Away",96,89,HOU -3.5,212,Final,NBATV,20,32,20,24,,21,29,21,18,,NBA
+401070881,2018,"November 13, 2018",Denver Nuggets,Houston Rockets,"9-5, 6-3 Home","6-7, 5-3 Away",99,109,DEN -4.0,217,Final,,30,25,21,23,,27,27,32,23,,NBA
+401070912,2018,"November 17, 2018",Houston Rockets,Sacramento Kings,"8-7, 3-4 Home","8-8, 4-5 Away",132,112,HOU -12.0,220,Final,,36,35,38,23,,29,30,27,26,,NBA
+401070948,2018,"November 23, 2018",Detroit Pistons,Houston Rockets,"9-7, 5-3 Home","9-8, 5-4 Away",116,111,HOU -4.0,215,Final/OT,NBATV,34,27,17,20,18.0,30,26,23,19,13.0,NBA
+401070977,2018,"November 26, 2018",Washington Wizards,Houston Rockets,"8-12, 6-5 Home","9-10, 5-6 Away",135,131,WSH -1.5,223,Final/OT,NBATV,30,37,27,31,10.0,42,23,33,27,6.0,NBA
+401071007,2018,"November 30, 2018",San Antonio Spurs,Houston Rockets,"10-12, 6-4 Home","10-11, 6-6 Away",105,136,HOU -3.5,216,Final,ESPN,23,24,27,31,,39,31,40,26,,NBA
+401071029,2018,"December 03, 2018",Minnesota Timberwolves,Houston Rockets,"12-12, 10-4 Home","11-12, 6-7 Away",103,91,HOU -2.5,223,Final,,24,24,38,17,,24,38,20,9,,NBA
+401071059,2018,"December 08, 2018",Dallas Mavericks,Houston Rockets,"13-11, 11-2 Home","11-14, 6-9 Away",107,104,HOU -3.5,219,Final,,32,24,28,23,,30,27,27,20,,NBA
+401071097,2018,"December 13, 2018",Houston Rockets,Los Angeles Lakers,"13-14, 7-5 Home","17-11, 6-7 Away",126,111,HOU -6.0,227,Final,TNT,29,33,28,36,,24,32,32,23,,NBA
+401071126,2018,"December 17, 2018",Houston Rockets,Utah Jazz,"15-14, 8-5 Home","14-17, 9-11 Away",102,97,,213,Final,NBATV,25,25,33,19,,23,14,36,24,,NBA
+401071148,2018,"December 20, 2018",Miami Heat,Houston Rockets,"14-16, 6-9 Home","16-15, 7-10 Away",101,99,HOU -3.0,211,Final,TNT,21,32,29,19,,33,25,18,23,,NBA
+401070234,2018,"December 25, 2018",Houston Rockets,Oklahoma City Thunder,"18-15, 11-5 Home","21-12, 9-8 Away",113,109,OKC -1.5,222,Final,ABC,22,30,34,27,,22,38,28,21,,NBA
+401071205,2018,"December 29, 2018",New Orleans Pelicans,Houston Rockets,"16-21, 12-6 Home","20-15, 8-10 Away",104,108,HOU -3.5,229,Final,NBATV,20,30,26,28,,30,23,24,31,,NBA
+401071241,2018,"January 03, 2019",Golden State Warriors,Houston Rockets,"25-14, 15-6 Home","22-15, 9-10 Away",134,135,GS -8.5,226,Final/OT,TNT,34,36,28,21,15.0,22,31,39,27,16.0,NBA
+401071269,2018,"January 07, 2019",Houston Rockets,Denver Nuggets,"23-16, 14-5 Home","26-12, 10-9 Away",125,113,HOU -1.0,216,Final,,33,37,26,29,,35,25,29,24,,NBA
+401071301,2018,"January 11, 2019",Houston Rockets,Cleveland Cavaliers,"24-17, 15-6 Home","8-35, 3-18 Away",141,113,HOU -14.0,217,Final,,42,35,36,28,,22,27,32,32,,NBA
+401071322,2018,"January 14, 2019",Houston Rockets,Memphis Grizzlies,"25-18, 16-6 Home","19-24, 8-15 Away",112,94,HOU -3.5,208,Final,,24,30,33,25,,29,19,22,24,,NBA
+401071362,2018,"January 19, 2019",Houston Rockets,Los Angeles Lakers,"26-19, 17-7 Home","25-22, 10-13 Away",138,134,HOU -7.0,230,Final/OT,ABC,26,20,36,38,18.0,39,25,22,34,14.0,NBA
+401071383,2018,"January 23, 2019",New York Knicks,Houston Rockets,"10-36, 4-16 Home","27-20, 10-13 Away",110,114,HOU -8.0,227,Final,,31,32,15,32,,28,30,30,26,,NBA
+401071412,2018,"January 27, 2019",Houston Rockets,Orlando Magic,"29-20, 19-7 Home","20-30, 8-16 Away",103,98,HOU -8.5,222,Final,,18,35,21,29,,34,27,21,16,,NBA
+401071447,2018,"February 01, 2019",Denver Nuggets,Houston Rockets,"36-15, 23-4 Home","29-22, 10-14 Away",136,122,DEN -3.0,224,Final,ESPN,35,48,30,23,,43,28,24,27,,NBA
+401071467,2018,"February 04, 2019",Phoenix Suns,Houston Rockets,"11-44, 7-21 Home","31-22, 12-14 Away",110,118,HOU -8.5,228,Final,,28,29,23,30,,32,31,31,24,,NBA
+401071505,2018,"February 09, 2019",Houston Rockets,Oklahoma City Thunder,"32-23, 19-9 Home","36-19, 17-12 Away",112,117,HOU -2.0,238,Final,ABC,28,42,20,22,,25,23,42,27,,NBA
+401071534,2018,"February 13, 2019",Minnesota Timberwolves,Houston Rockets,"27-30, 19-10 Home","33-24, 13-15 Away",121,111,HOU -4.0,232,Final,ESPN,28,24,35,34,,29,29,26,27,,NBA
+401071565,2018,"February 23, 2019",Golden State Warriors,Houston Rockets,"42-17, 23-8 Home","34-25, 14-16 Away",112,118,GS -12.0,232,Final,ABC,20,34,32,26,,35,26,31,26,,NBA
+401071584,2018,"February 27, 2019",Charlotte Hornets,Houston Rockets,"28-33, 20-12 Home","36-25, 15-16 Away",113,118,HOU -5.0,227,Final,,33,36,25,19,,41,21,28,28,,NBA
+401071618,2018,"March 03, 2019",Boston Celtics,Houston Rockets,"38-26, 24-10 Home","38-25, 16-16 Away",104,115,BOS -2.0,226,Final,ABC,23,20,35,26,,33,32,35,15,,NBA
+401071654,2018,"March 08, 2019",Houston Rockets,Philadelphia 76ers,"40-25, 23-9 Home","41-25, 16-16 Away",107,91,HOU -7.5,230,Final,ESPN,37,22,28,20,,21,23,21,26,,NBA
+401071677,2018,"March 11, 2019",Houston Rockets,Charlotte Hornets,"42-25, 24-9 Home","30-37, 9-23 Away",118,106,HOU -9.5,224,Final,NBATV,38,33,22,25,,19,25,36,26,,NBA
+401071703,2018,"March 15, 2019",Houston Rockets,Phoenix Suns,"43-26, 25-10 Home","16-54, 6-30 Away",108,102,HOU -12.5,226,Final,,26,29,28,25,,31,26,28,17,,NBA
+401071733,2018,"March 19, 2019",Atlanta Hawks,Houston Rockets,"24-48, 13-22 Home","45-26, 19-16 Away",105,121,HOU -7.5,234,Final,,25,22,25,33,,25,28,31,37,,NBA
+401071757,2018,"March 22, 2019",Houston Rockets,San Antonio Spurs,"46-27, 27-10 Home","42-31, 13-23 Away",111,105,HOU -6.5,221,Final,NBATV,36,26,19,30,,24,23,34,24,,NBA
+401071784,2018,"March 26, 2019",Milwaukee Bucks,Houston Rockets,"56-19, 31-6 Home","47-28, 20-18 Away",108,94,MIL -3.0,224,Final,TNT,20,38,32,18,,25,28,18,23,,NBA
+401071811,2018,"March 30, 2019",Houston Rockets,Sacramento Kings,"49-28, 29-10 Home","37-39, 14-24 Away",119,108,HOU -10.0,229,Final,,35,28,28,28,,32,28,33,15,,NBA
+401071849,2018,"April 03, 2019",LA Clippers,Houston Rockets,"47-32, 25-14 Home","51-28, 22-18 Away",103,135,HOU -2.0,229,Final,NBATV,26,27,20,30,,39,29,34,33,,NBA
+401071874,2018,"April 07, 2019",Houston Rockets,Phoenix Suns,"53-28, 31-10 Home","19-62, 7-33 Away",149,113,HOU -18.5,223,Final,NBATV,34,43,40,32,,24,23,30,36,,NBA
+401071891,2018,"April 09, 2019",Oklahoma City Thunder,Houston Rockets,"48-33, 27-14 Home","53-29, 22-19 Away",112,111,HOU -3.0,230,Final,TNT,26,25,29,32,,32,28,33,18,,NBA

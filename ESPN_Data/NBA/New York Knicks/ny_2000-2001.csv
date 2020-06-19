@@ -1,83 +1,83 @@
-,Unnamed: 0,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-0,0,201102018,2000,"Thu, Nov 2",New York Knicks,Atlanta Hawks,"1-1, 1-1 Home","0-2, 0-1 Away",94,69,,,Final,,31,20,16,27,,24,17,15,13,,NBA
-1,1,201107015,2000,"Tue, Nov 7",Milwaukee Bucks,New York Knicks,"1-3, 1-1 Home","3-1, 2-0 Away",89,103,,,Final,,20,23,20,26,,32,24,24,23,,NBA
-2,2,201110002,2000,"Fri, Nov 10",Boston Celtics,New York Knicks,"2-3, 2-1 Home","4-2, 3-0 Away",101,103,,,Final/OT,,26,24,15,27,9.0,23,27,18,24,11.0,NBA
-3,3,201114025,2000,"Tue, Nov 14",Seattle SuperSonics,New York Knicks,"3-6, 2-1 Home","5-3, 3-1 Away",96,75,,,Final,,28,20,24,24,,23,20,20,12,,NBA
-4,4,201117021,2000,"Fri, Nov 17",Phoenix Suns,New York Knicks,"7-2, 6-1 Home","6-4, 4-2 Away",85,90,,,Final,,12,15,26,32,,15,25,20,30,,NBA
-5,5,201121019,2000,"Tue, Nov 21",Orlando Magic,New York Knicks,"4-8, 2-4 Home","8-4, 5-2 Away",84,85,,,Final,,29,24,20,11,,18,27,22,18,,NBA
-6,6,201125018,2000,"Sat, Nov 25",New York Knicks,Toronto Raptors,"8-6, 3-3 Home","7-5, 3-2 Away",75,79,,,Final,,21,19,12,23,,23,16,22,18,,NBA
-7,7,201129018,2000,"Wed, Nov 29",New York Knicks,Miami Heat,"9-7, 4-4 Home","6-9, 2-5 Away",81,84,,,Final,,19,17,20,25,,26,25,16,17,,NBA
-8,8,201202018,2000,"Sat, Dec 2",New York Knicks,Minnesota Timberwolves,"11-7, 5-4 Home","9-8, 5-6 Away",100,90,,,Final,,28,21,20,31,,18,27,20,25,,NBA
-9,9,201206006,2000,"Wed, Dec 6",Dallas Mavericks,New York Knicks,"12-8, 6-3 Home","12-8, 6-4 Away",94,85,,,Final,,32,23,15,24,,11,24,23,27,,NBA
-10,10,201209018,2000,"Sat, Dec 9",New York Knicks,Denver Nuggets,"14-8, 7-4 Home","10-11, 2-8 Away",96,88,,,Final,,22,24,28,22,,31,16,18,23,,NBA
-11,11,201215018,2000,"Fri, Dec 15",New York Knicks,Utah Jazz,"14-10, 7-5 Home","17-6, 8-2 Away",58,89,,,Final,,13,12,23,10,,24,16,31,18,,NBA
-12,12,201219001,2000,"Tue, Dec 19",Atlanta Hawks,New York Knicks,"7-18, 5-7 Home","15-11, 7-6 Away",87,77,,,Final,,24,22,18,23,,13,27,13,24,,NBA
-13,13,201222020,2000,"Fri, Dec 22",Philadelphia 76ers,New York Knicks,"18-8, 7-4 Home","16-12, 8-6 Away",71,91,,,Final,CSN,16,23,11,21,,23,18,30,20,,NBA
-14,14,201229018,2000,"Fri, Dec 29",New York Knicks,Chicago Bulls,"18-12, 9-6 Home","4-25, 2-14 Away",95,68,,,Final,,27,28,16,24,,22,14,14,18,,NBA
-15,15,210103002,2000,"Wed, Jan 3",Boston Celtics,New York Knicks,"12-20, 9-10 Home","20-12, 11-6 Away",91,100,,,Final,,27,23,22,19,,18,32,23,27,,NBA
-16,16,210107018,2000,"Sun, Jan 7",New York Knicks,Washington Wizards,"22-12, 11-6 Home","7-28, 3-16 Away",103,87,,,Final,,27,30,31,15,,22,25,18,22,,NBA
-17,17,210113018,2000,"Sat, Jan 13",New York Knicks,Portland Trail Blazers,"23-13, 12-7 Home","27-11, 13-8 Away",91,78,,,Final,,31,18,23,19,,12,25,17,24,,NBA
-18,18,210119008,2000,"Fri, Jan 19",Detroit Pistons,New York Knicks,"15-25, 8-11 Home","25-13, 12-6 Away",91,97,,,Final,,26,21,23,21,,28,28,21,20,,NBA
-19,19,210123015,2000,"Tue, Jan 23",Milwaukee Bucks,New York Knicks,"26-15, 16-5 Home","25-15, 12-7 Away",105,91,,,Final,,31,27,24,23,,23,26,21,21,,NBA
-20,20,210128018,2000,"Sun, Jan 28",New York Knicks,Los Angeles Lakers,"26-16, 14-8 Home","27-15, 10-9 Away",91,81,,,Final,,33,14,20,24,,19,14,21,27,,NBA
-21,21,210202017,2000,"Fri, Feb 2",New Jersey Nets,New York Knicks,"14-34, 8-16 Home","27-17, 13-8 Away",71,95,,,Final,,19,23,19,10,,26,23,25,21,,NBA
-22,22,210205010,2000,"Mon, Feb 5",Houston Rockets,New York Knicks,"23-25, 11-13 Home","28-18, 14-9 Away",100,86,,,Final,,27,19,34,20,,37,21,12,16,,NBA
-23,23,210213007,2000,"Tue, Feb 13",Denver Nuggets,New York Knicks,"28-24, 21-6 Home","29-19, 14-10 Away",96,77,,,Final,,32,22,20,22,,27,17,18,15,,NBA
-24,24,210216018,2000,"Fri, Feb 16",New York Knicks,New Jersey Nets,"30-20, 16-9 Home","17-37, 6-20 Away",114,104,,,Final,,27,31,27,29,,18,32,25,29,,NBA
-25,25,210220018,2000,"Tue, Feb 20",New York Knicks,Miami Heat,"31-21, 17-9 Home","32-22, 15-15 Away",76,74,,,Final,,22,18,20,16,,18,23,21,12,,NBA
-26,26,210223018,2000,"Fri, Feb 23",New York Knicks,Phoenix Suns,"31-23, 17-10 Home","33-21, 14-14 Away",84,88,,,Final/OT,,19,19,26,16,4.0,24,18,21,17,8.0,NBA
-27,27,210227018,2000,"Tue, Feb 27",New York Knicks,Seattle SuperSonics,"33-23, 19-10 Home","29-29, 12-18 Away",101,92,,,Final,,31,28,21,21,,27,25,13,27,,NBA
-28,28,210302004,2000,"Fri, Mar 2",Chicago Bulls,New York Knicks,"10-47, 8-21 Home","34-24, 14-14 Away",81,72,,,Final,,27,20,18,16,,21,24,16,11,,NBA
-29,29,210306018,2000,"Tue, Mar 6",New York Knicks,Indiana Pacers,"35-25, 21-10 Home","26-32, 10-19 Away",97,83,,,Final,,13,35,27,22,,30,19,20,14,,NBA
-30,30,210309017,2000,"Fri, Mar 9",New Jersey Nets,New York Knicks,"22-42, 15-18 Home","36-26, 15-16 Away",96,83,,,Final,,23,31,25,17,,22,15,22,24,,NBA
-31,31,210313018,2000,"Tue, Mar 13",New York Knicks,Cleveland Cavaliers,"38-26, 23-10 Home","23-40, 8-24 Away",98,79,,,Final,,26,31,26,15,,21,18,22,18,,NBA
-32,32,210317018,2000,"Sat, Mar 17",New York Knicks,Chicago Bulls,"40-26, 25-10 Home","11-54, 2-31 Away",101,80,,,Final,,33,28,17,23,,22,21,20,17,,NBA
-33,33,210323018,2000,"Fri, Mar 23",New York Knicks,New Jersey Nets,"41-27, 25-11 Home","24-48, 8-29 Away",86,95,,,Final,,22,21,19,24,,17,36,23,19,,NBA
-34,34,210327023,2000,"Tue, Mar 27",Sacramento Kings,New York Knicks,"47-22, 29-6 Home","42-28, 17-17 Away",124,117,,,Final/OT,,25,22,31,32,14.0,30,34,19,27,7.0,NBA
-35,35,210330022,2000,"Fri, Mar 30",Portland Trail Blazers,New York Knicks,"47-25, 27-10 Home","42-30, 17-19 Away",96,79,,,Final,,24,25,28,19,,25,21,21,12,,NBA
-36,36,210403018,2000,"Tue, Apr 3",New York Knicks,Orlando Magic,"44-30, 26-11 Home","40-34, 16-22 Away",94,82,,,Final,,21,28,17,28,,22,27,19,14,,NBA
-37,37,210408014,2000,"Sun, Apr 8",Miami Heat,New York Knicks,"46-30, 27-11 Home","45-31, 18-20 Away",81,76,,,Final,,28,16,20,17,,15,19,20,22,,NBA
-38,38,210411011,2000,"Wed, Apr 11",Indiana Pacers,New York Knicks,"38-40, 25-14 Home","46-32, 18-21 Away",100,93,,,Final,,28,22,21,29,,24,18,20,31,,NBA
-39,39,210415020,2000,"Sun, Apr 15",Philadelphia 76ers,New York Knicks,"55-25, 29-11 Home","47-33, 18-22 Away",89,82,,,Final,CSN,19,25,26,19,,22,19,19,22,,NBA
-40,40,201031018,2000,"Tue, Oct 31",New York Knicks,Philadelphia 76ers,"0-1, 0-1 Home","1-0, 1-0 Away",72,101,,,Final,CSN,23,18,13,18,,26,25,29,21,,NBA
-41,41,201103027,2000,"Fri, Nov 3",Washington Wizards,New York Knicks,"1-2, 0-1 Home","2-1, 1-0 Away",76,80,,,Final,,20,13,22,21,,21,17,21,21,,NBA
-42,42,201108018,2000,"Wed, Nov 8",New York Knicks,Cleveland Cavaliers,"3-2, 1-2 Home","4-0, 2-0 Away",97,99,,,Final,,27,28,22,20,,21,33,20,25,,NBA
-43,43,201111018,2000,"Sat, Nov 11",New York Knicks,Charlotte Hornets,"5-2, 2-2 Home","4-3, 3-1 Away",81,67,,,Final,,31,18,19,13,,17,31,7,12,,NBA
-44,44,201115012,2000,"Wed, Nov 15",Los Angeles Clippers,New York Knicks,"3-6, 3-3 Home","5-4, 3-2 Away",78,74,,,Final,,13,22,21,22,,23,19,16,16,,NBA
-45,45,201119018,2000,"Sun, Nov 19",New York Knicks,Golden State Warriors,"7-4, 3-2 Home","2-8, 1-5 Away",88,71,,,Final,,25,23,19,21,,16,24,18,13,,NBA
-46,46,201122001,2000,"Wed, Nov 22",Atlanta Hawks,New York Knicks,"2-10, 2-3 Home","8-5, 5-3 Away",78,74,,,Final,,19,20,27,12,,17,13,17,27,,NBA
-47,47,201127018,2000,"Mon, Nov 27",New York Knicks,Vancouver Grizzlies,"9-6, 4-3 Home","5-9, 3-5 Away",97,72,,,Final,,27,18,25,27,,19,20,13,20,,NBA
-48,48,201201004,2000,"Fri, Dec 1",Chicago Bulls,New York Knicks,"2-14, 1-6 Home","10-7, 6-3 Away",86,91,,,Final,,22,24,23,17,,33,18,19,21,,NBA
-49,49,201204018,2000,"Mon, Dec 4",New York Knicks,Los Angeles Clippers,"12-7, 6-4 Home","5-14, 1-7 Away",106,78,,,Final,,28,29,26,23,,20,18,17,23,,NBA
-50,50,201207024,2000,"Thu, Dec 7",San Antonio Spurs,New York Knicks,"11-7, 8-1 Home","13-8, 7-4 Away",83,86,,,Final,,25,26,18,14,,17,24,25,20,,NBA
-51,51,201214028,2000,"Thu, Dec 14",Toronto Raptors,New York Knicks,"12-10, 8-4 Home","14-9, 7-5 Away",70,68,,,Final,,20,19,19,12,,19,18,15,16,,NBA
-52,52,201217018,2000,"Sun, Dec 17",New York Knicks,Milwaukee Bucks,"15-10, 8-5 Home","12-12, 5-7 Away",100,97,,,Final/OT,,31,29,10,25,5.0,29,15,24,27,2.0,NBA
-53,53,201221018,2000,"Thu, Dec 21",New York Knicks,Boston Celtics,"15-12, 8-6 Home","11-15, 2-7 Away",86,92,,,Final,,25,15,18,28,,21,26,22,23,,NBA
-54,54,201227027,2000,"Wed, Dec 27",Washington Wizards,New York Knicks,"5-24, 2-11 Home","17-12, 9-6 Away",82,89,,,Final,,22,21,24,15,,26,21,28,14,,NBA
-55,55,201230016,2000,"Sat, Dec 30",Minnesota Timberwolves,New York Knicks,"17-14, 10-5 Home","19-12, 10-6 Away",79,88,,,Final,,21,17,24,17,,24,22,24,18,,NBA
-56,56,210104018,2000,"Thu, Jan 4",New York Knicks,Orlando Magic,"21-12, 10-6 Home","14-18, 5-11 Away",95,92,,,Final/OT,,11,35,24,16,9.0,26,20,21,19,6.0,NBA
-57,57,210111018,2000,"Thu, Jan 11",New York Knicks,Houston Rockets,"22-13, 11-7 Home","18-17, 10-8 Away",75,76,,,Final,,18,24,18,15,,18,12,25,21,,NBA
-58,58,210115018,2000,"Mon, Jan 15",New York Knicks,San Antonio Spurs,"24-13, 13-7 Home","23-13, 8-11 Away",104,82,,,Final,,22,32,31,19,,19,20,22,21,,NBA
-59,59,210121018,2000,"Sun, Jan 21",New York Knicks,Indiana Pacers,"25-14, 13-8 Home","20-21, 9-14 Away",74,87,,,Final,,12,21,21,20,,23,23,15,26,,NBA
-60,60,210124003,2000,"Wed, Jan 24",Charlotte Hornets,New York Knicks,"24-20, 14-6 Home","25-16, 12-8 Away",81,67,,,Final,,21,17,26,17,,22,14,16,15,,NBA
-61,61,210201018,2000,"Thu, Feb 1",New York Knicks,Philadelphia 76ers,"26-17, 14-9 Home","35-11, 21-5 Away",80,87,,,Final,,18,19,24,19,,22,24,23,18,,NBA
-62,62,210204014,2000,"Sun, Feb 4",Miami Heat,New York Knicks,"29-20, 15-7 Home","28-17, 14-8 Away",100,103,,,Final/OT,,30,22,21,18,9.0,27,23,26,15,12.0,NBA
-63,63,210207018,2000,"Wed, Feb 7",New York Knicks,Dallas Mavericks,"29-18, 15-9 Home","31-19, 16-10 Away",96,93,,,Final/2OT,,19,21,21,19,16.0,20,20,24,16,13.0,NBA
-64,64,210214026,2000,"Wed, Feb 14",Utah Jazz,New York Knicks,"33-16, 18-9 Home","29-20, 14-11 Away",106,90,,,Final,,23,33,25,25,,26,24,25,15,,NBA
-65,65,210218019,2000,"Sun, Feb 18",Orlando Magic,New York Knicks,"28-23, 18-9 Home","30-21, 14-12 Away",96,88,,,Final,,22,20,28,26,,19,20,28,21,,NBA
-66,66,210221008,2000,"Wed, Feb 21",Detroit Pistons,New York Knicks,"21-33, 11-16 Home","31-22, 14-13 Away",90,85,,,Final,,20,25,32,13,,15,22,21,27,,NBA
-67,67,210225018,2000,"Sun, Feb 25",New York Knicks,Sacramento Kings,"32-23, 18-10 Home","36-18, 14-13 Away",88,86,,,Final,,16,31,23,18,,21,30,26,9,,NBA
-68,68,210301018,2000,"Thu, Mar 1",New York Knicks,Boston Celtics,"34-23, 20-10 Home","25-33, 9-20 Away",95,88,,,Final,,22,29,26,18,,16,22,32,18,,NBA
-69,69,210304028,2000,"Sun, Mar 4",Toronto Raptors,New York Knicks,"33-27, 19-12 Home","34-25, 14-15 Away",98,88,,,Final,,25,22,21,30,,20,27,12,29,,NBA
-70,70,210307011,2000,"Wed, Mar 7",Indiana Pacers,New York Knicks,"26-33, 16-14 Home","36-25, 15-15 Away",75,79,,,Final,,22,23,19,11,,23,18,16,22,,NBA
-71,71,210311018,2000,"Sun, Mar 11",New York Knicks,Miami Heat,"37-26, 22-10 Home","38-26, 17-17 Away",86,83,,,Final,,16,24,24,22,,35,11,12,25,,NBA
-72,72,210315018,2000,"Thu, Mar 15",New York Knicks,Toronto Raptors,"39-26, 24-10 Home","35-31, 16-18 Away",88,72,,,Final,,21,24,24,19,,22,22,12,16,,NBA
-73,73,210320005,2000,"Tue, Mar 20",Cleveland Cavaliers,New York Knicks,"24-43, 16-18 Home","41-26, 16-16 Away",75,110,,,Final,,9,22,16,28,,18,25,36,31,,NBA
-74,74,210326009,2000,"Mon, Mar 26",Golden State Warriors,New York Knicks,"17-53, 11-24 Home","42-27, 17-16 Away",87,89,,,Final/OT,,19,19,23,24,2.0,24,23,17,21,4.0,NBA
-75,75,210329029,2000,"Thu, Mar 29",Vancouver Grizzlies,New York Knicks,"21-52, 14-21 Home","42-29, 17-18 Away",89,68,,,Final,,24,28,26,11,,13,24,13,18,,NBA
-76,76,210401013,2000,"Sun, Apr 1",Los Angeles Lakers,New York Knicks,"48-26, 27-10 Home","43-30, 18-19 Away",78,79,,,Final,,23,25,17,13,,14,35,13,17,,NBA
-77,77,210405018,2000,"Thu, Apr 5",New York Knicks,Washington Wizards,"45-30, 27-11 Home","18-57, 7-32 Away",93,80,,,Final,,22,28,17,26,,22,18,30,10,,NBA
-78,78,210409018,2000,"Mon, Apr 9",New York Knicks,Charlotte Hornets,"46-31, 28-11 Home","42-36, 16-23 Away",113,98,,,Final,,25,29,29,30,,27,21,27,23,,NBA
-79,79,210413018,2000,"Fri, Apr 13",New York Knicks,Atlanta Hawks,"47-32, 29-11 Home","24-55, 7-33 Away",101,65,,,Final,,33,26,23,19,,17,15,17,16,,NBA
-80,80,210416005,2000,"Mon, Apr 16",Cleveland Cavaliers,New York Knicks,"30-51, 20-20 Home","47-34, 18-23 Away",80,78,,,Final,,30,17,19,14,,22,17,20,19,,NBA
-81,81,210418018,2000,"Wed, Apr 18",New York Knicks,Detroit Pistons,"48-34, 30-11 Home","32-50, 14-27 Away",94,88,,,Final,,33,27,18,16,,24,25,20,19,,NBA
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+201102018,2000,"November 02, 2000",New York Knicks,Atlanta Hawks,"1-1, 1-1 Home","0-2, 0-1 Away",94,69,,,Final,,31,20,16,27,,24,17,15,13,,NBA
+201107015,2000,"November 07, 2000",Milwaukee Bucks,New York Knicks,"1-3, 1-1 Home","3-1, 2-0 Away",89,103,,,Final,,20,23,20,26,,32,24,24,23,,NBA
+201110002,2000,"November 10, 2000",Boston Celtics,New York Knicks,"2-3, 2-1 Home","4-2, 3-0 Away",101,103,,,Final/OT,,26,24,15,27,9.0,23,27,18,24,11.0,NBA
+201114025,2000,"November 14, 2000",Seattle SuperSonics,New York Knicks,"3-6, 2-1 Home","5-3, 3-1 Away",96,75,,,Final,,28,20,24,24,,23,20,20,12,,NBA
+201117021,2000,"November 17, 2000",Phoenix Suns,New York Knicks,"7-2, 6-1 Home","6-4, 4-2 Away",85,90,,,Final,,12,15,26,32,,15,25,20,30,,NBA
+201121019,2000,"November 21, 2000",Orlando Magic,New York Knicks,"4-8, 2-4 Home","8-4, 5-2 Away",84,85,,,Final,,29,24,20,11,,18,27,22,18,,NBA
+201125018,2000,"November 25, 2000",New York Knicks,Toronto Raptors,"8-6, 3-3 Home","7-5, 3-2 Away",75,79,,,Final,,21,19,12,23,,23,16,22,18,,NBA
+201129018,2000,"November 29, 2000",New York Knicks,Miami Heat,"9-7, 4-4 Home","6-9, 2-5 Away",81,84,,,Final,,19,17,20,25,,26,25,16,17,,NBA
+201202018,2000,"December 02, 2000",New York Knicks,Minnesota Timberwolves,"11-7, 5-4 Home","9-8, 5-6 Away",100,90,,,Final,,28,21,20,31,,18,27,20,25,,NBA
+201206006,2000,"December 06, 2000",Dallas Mavericks,New York Knicks,"12-8, 6-3 Home","12-8, 6-4 Away",94,85,,,Final,,32,23,15,24,,11,24,23,27,,NBA
+201209018,2000,"December 09, 2000",New York Knicks,Denver Nuggets,"14-8, 7-4 Home","10-11, 2-8 Away",96,88,,,Final,,22,24,28,22,,31,16,18,23,,NBA
+201215018,2000,"December 15, 2000",New York Knicks,Utah Jazz,"14-10, 7-5 Home","17-6, 8-2 Away",58,89,,,Final,,13,12,23,10,,24,16,31,18,,NBA
+201219001,2000,"December 19, 2000",Atlanta Hawks,New York Knicks,"7-18, 5-7 Home","15-11, 7-6 Away",87,77,,,Final,,24,22,18,23,,13,27,13,24,,NBA
+201222020,2000,"December 22, 2000",Philadelphia 76ers,New York Knicks,"18-8, 7-4 Home","16-12, 8-6 Away",71,91,,,Final,CSN,16,23,11,21,,23,18,30,20,,NBA
+201229018,2000,"December 29, 2000",New York Knicks,Chicago Bulls,"18-12, 9-6 Home","4-25, 2-14 Away",95,68,,,Final,,27,28,16,24,,22,14,14,18,,NBA
+210103002,2000,"January 03, 2001",Boston Celtics,New York Knicks,"12-20, 9-10 Home","20-12, 11-6 Away",91,100,,,Final,,27,23,22,19,,18,32,23,27,,NBA
+210107018,2000,"January 07, 2001",New York Knicks,Washington Wizards,"22-12, 11-6 Home","7-28, 3-16 Away",103,87,,,Final,,27,30,31,15,,22,25,18,22,,NBA
+210113018,2000,"January 13, 2001",New York Knicks,Portland Trail Blazers,"23-13, 12-7 Home","27-11, 13-8 Away",91,78,,,Final,,31,18,23,19,,12,25,17,24,,NBA
+210119008,2000,"January 19, 2001",Detroit Pistons,New York Knicks,"15-25, 8-11 Home","25-13, 12-6 Away",91,97,,,Final,,26,21,23,21,,28,28,21,20,,NBA
+210123015,2000,"January 23, 2001",Milwaukee Bucks,New York Knicks,"26-15, 16-5 Home","25-15, 12-7 Away",105,91,,,Final,,31,27,24,23,,23,26,21,21,,NBA
+210128018,2000,"January 28, 2001",New York Knicks,Los Angeles Lakers,"26-16, 14-8 Home","27-15, 10-9 Away",91,81,,,Final,,33,14,20,24,,19,14,21,27,,NBA
+210202017,2000,"February 02, 2001",New Jersey Nets,New York Knicks,"14-34, 8-16 Home","27-17, 13-8 Away",71,95,,,Final,,19,23,19,10,,26,23,25,21,,NBA
+210205010,2000,"February 05, 2001",Houston Rockets,New York Knicks,"23-25, 11-13 Home","28-18, 14-9 Away",100,86,,,Final,,27,19,34,20,,37,21,12,16,,NBA
+210213007,2000,"February 13, 2001",Denver Nuggets,New York Knicks,"28-24, 21-6 Home","29-19, 14-10 Away",96,77,,,Final,,32,22,20,22,,27,17,18,15,,NBA
+210216018,2000,"February 16, 2001",New York Knicks,New Jersey Nets,"30-20, 16-9 Home","17-37, 6-20 Away",114,104,,,Final,,27,31,27,29,,18,32,25,29,,NBA
+210220018,2000,"February 20, 2001",New York Knicks,Miami Heat,"31-21, 17-9 Home","32-22, 15-15 Away",76,74,,,Final,,22,18,20,16,,18,23,21,12,,NBA
+210223018,2000,"February 23, 2001",New York Knicks,Phoenix Suns,"31-23, 17-10 Home","33-21, 14-14 Away",84,88,,,Final/OT,,19,19,26,16,4.0,24,18,21,17,8.0,NBA
+210227018,2000,"February 27, 2001",New York Knicks,Seattle SuperSonics,"33-23, 19-10 Home","29-29, 12-18 Away",101,92,,,Final,,31,28,21,21,,27,25,13,27,,NBA
+210302004,2000,"March 02, 2001",Chicago Bulls,New York Knicks,"10-47, 8-21 Home","34-24, 14-14 Away",81,72,,,Final,,27,20,18,16,,21,24,16,11,,NBA
+210306018,2000,"March 06, 2001",New York Knicks,Indiana Pacers,"35-25, 21-10 Home","26-32, 10-19 Away",97,83,,,Final,,13,35,27,22,,30,19,20,14,,NBA
+210309017,2000,"March 09, 2001",New Jersey Nets,New York Knicks,"22-42, 15-18 Home","36-26, 15-16 Away",96,83,,,Final,,23,31,25,17,,22,15,22,24,,NBA
+210313018,2000,"March 13, 2001",New York Knicks,Cleveland Cavaliers,"38-26, 23-10 Home","23-40, 8-24 Away",98,79,,,Final,,26,31,26,15,,21,18,22,18,,NBA
+210317018,2000,"March 17, 2001",New York Knicks,Chicago Bulls,"40-26, 25-10 Home","11-54, 2-31 Away",101,80,,,Final,,33,28,17,23,,22,21,20,17,,NBA
+210323018,2000,"March 23, 2001",New York Knicks,New Jersey Nets,"41-27, 25-11 Home","24-48, 8-29 Away",86,95,,,Final,,22,21,19,24,,17,36,23,19,,NBA
+210327023,2000,"March 27, 2001",Sacramento Kings,New York Knicks,"47-22, 29-6 Home","42-28, 17-17 Away",124,117,,,Final/OT,,25,22,31,32,14.0,30,34,19,27,7.0,NBA
+210330022,2000,"March 30, 2001",Portland Trail Blazers,New York Knicks,"47-25, 27-10 Home","42-30, 17-19 Away",96,79,,,Final,,24,25,28,19,,25,21,21,12,,NBA
+210403018,2000,"April 03, 2001",New York Knicks,Orlando Magic,"44-30, 26-11 Home","40-34, 16-22 Away",94,82,,,Final,,21,28,17,28,,22,27,19,14,,NBA
+210408014,2000,"April 08, 2001",Miami Heat,New York Knicks,"46-30, 27-11 Home","45-31, 18-20 Away",81,76,,,Final,,28,16,20,17,,15,19,20,22,,NBA
+210411011,2000,"April 11, 2001",Indiana Pacers,New York Knicks,"38-40, 25-14 Home","46-32, 18-21 Away",100,93,,,Final,,28,22,21,29,,24,18,20,31,,NBA
+210415020,2000,"April 15, 2001",Philadelphia 76ers,New York Knicks,"55-25, 29-11 Home","47-33, 18-22 Away",89,82,,,Final,CSN,19,25,26,19,,22,19,19,22,,NBA
+201031018,2000,"October 31, 2000",New York Knicks,Philadelphia 76ers,"0-1, 0-1 Home","1-0, 1-0 Away",72,101,,,Final,CSN,23,18,13,18,,26,25,29,21,,NBA
+201103027,2000,"November 03, 2000",Washington Wizards,New York Knicks,"1-2, 0-1 Home","2-1, 1-0 Away",76,80,,,Final,,20,13,22,21,,21,17,21,21,,NBA
+201108018,2000,"November 08, 2000",New York Knicks,Cleveland Cavaliers,"3-2, 1-2 Home","4-0, 2-0 Away",97,99,,,Final,,27,28,22,20,,21,33,20,25,,NBA
+201111018,2000,"November 11, 2000",New York Knicks,Charlotte Hornets,"5-2, 2-2 Home","4-3, 3-1 Away",81,67,,,Final,,31,18,19,13,,17,31,7,12,,NBA
+201115012,2000,"November 15, 2000",Los Angeles Clippers,New York Knicks,"3-6, 3-3 Home","5-4, 3-2 Away",78,74,,,Final,,13,22,21,22,,23,19,16,16,,NBA
+201119018,2000,"November 19, 2000",New York Knicks,Golden State Warriors,"7-4, 3-2 Home","2-8, 1-5 Away",88,71,,,Final,,25,23,19,21,,16,24,18,13,,NBA
+201122001,2000,"November 22, 2000",Atlanta Hawks,New York Knicks,"2-10, 2-3 Home","8-5, 5-3 Away",78,74,,,Final,,19,20,27,12,,17,13,17,27,,NBA
+201127018,2000,"November 27, 2000",New York Knicks,Vancouver Grizzlies,"9-6, 4-3 Home","5-9, 3-5 Away",97,72,,,Final,,27,18,25,27,,19,20,13,20,,NBA
+201201004,2000,"December 01, 2000",Chicago Bulls,New York Knicks,"2-14, 1-6 Home","10-7, 6-3 Away",86,91,,,Final,,22,24,23,17,,33,18,19,21,,NBA
+201204018,2000,"December 04, 2000",New York Knicks,Los Angeles Clippers,"12-7, 6-4 Home","5-14, 1-7 Away",106,78,,,Final,,28,29,26,23,,20,18,17,23,,NBA
+201207024,2000,"December 07, 2000",San Antonio Spurs,New York Knicks,"11-7, 8-1 Home","13-8, 7-4 Away",83,86,,,Final,,25,26,18,14,,17,24,25,20,,NBA
+201214028,2000,"December 14, 2000",Toronto Raptors,New York Knicks,"12-10, 8-4 Home","14-9, 7-5 Away",70,68,,,Final,,20,19,19,12,,19,18,15,16,,NBA
+201217018,2000,"December 17, 2000",New York Knicks,Milwaukee Bucks,"15-10, 8-5 Home","12-12, 5-7 Away",100,97,,,Final/OT,,31,29,10,25,5.0,29,15,24,27,2.0,NBA
+201221018,2000,"December 21, 2000",New York Knicks,Boston Celtics,"15-12, 8-6 Home","11-15, 2-7 Away",86,92,,,Final,,25,15,18,28,,21,26,22,23,,NBA
+201227027,2000,"December 27, 2000",Washington Wizards,New York Knicks,"5-24, 2-11 Home","17-12, 9-6 Away",82,89,,,Final,,22,21,24,15,,26,21,28,14,,NBA
+201230016,2000,"December 30, 2000",Minnesota Timberwolves,New York Knicks,"17-14, 10-5 Home","19-12, 10-6 Away",79,88,,,Final,,21,17,24,17,,24,22,24,18,,NBA
+210104018,2000,"January 04, 2001",New York Knicks,Orlando Magic,"21-12, 10-6 Home","14-18, 5-11 Away",95,92,,,Final/OT,,11,35,24,16,9.0,26,20,21,19,6.0,NBA
+210111018,2000,"January 11, 2001",New York Knicks,Houston Rockets,"22-13, 11-7 Home","18-17, 10-8 Away",75,76,,,Final,,18,24,18,15,,18,12,25,21,,NBA
+210115018,2000,"January 15, 2001",New York Knicks,San Antonio Spurs,"24-13, 13-7 Home","23-13, 8-11 Away",104,82,,,Final,,22,32,31,19,,19,20,22,21,,NBA
+210121018,2000,"January 21, 2001",New York Knicks,Indiana Pacers,"25-14, 13-8 Home","20-21, 9-14 Away",74,87,,,Final,,12,21,21,20,,23,23,15,26,,NBA
+210124003,2000,"January 24, 2001",Charlotte Hornets,New York Knicks,"24-20, 14-6 Home","25-16, 12-8 Away",81,67,,,Final,,21,17,26,17,,22,14,16,15,,NBA
+210201018,2000,"February 01, 2001",New York Knicks,Philadelphia 76ers,"26-17, 14-9 Home","35-11, 21-5 Away",80,87,,,Final,,18,19,24,19,,22,24,23,18,,NBA
+210204014,2000,"February 04, 2001",Miami Heat,New York Knicks,"29-20, 15-7 Home","28-17, 14-8 Away",100,103,,,Final/OT,,30,22,21,18,9.0,27,23,26,15,12.0,NBA
+210207018,2000,"February 07, 2001",New York Knicks,Dallas Mavericks,"29-18, 15-9 Home","31-19, 16-10 Away",96,93,,,Final/2OT,,19,21,21,19,16.0,20,20,24,16,13.0,NBA
+210214026,2000,"February 14, 2001",Utah Jazz,New York Knicks,"33-16, 18-9 Home","29-20, 14-11 Away",106,90,,,Final,,23,33,25,25,,26,24,25,15,,NBA
+210218019,2000,"February 18, 2001",Orlando Magic,New York Knicks,"28-23, 18-9 Home","30-21, 14-12 Away",96,88,,,Final,,22,20,28,26,,19,20,28,21,,NBA
+210221008,2000,"February 21, 2001",Detroit Pistons,New York Knicks,"21-33, 11-16 Home","31-22, 14-13 Away",90,85,,,Final,,20,25,32,13,,15,22,21,27,,NBA
+210225018,2000,"February 25, 2001",New York Knicks,Sacramento Kings,"32-23, 18-10 Home","36-18, 14-13 Away",88,86,,,Final,,16,31,23,18,,21,30,26,9,,NBA
+210301018,2000,"March 01, 2001",New York Knicks,Boston Celtics,"34-23, 20-10 Home","25-33, 9-20 Away",95,88,,,Final,,22,29,26,18,,16,22,32,18,,NBA
+210304028,2000,"March 04, 2001",Toronto Raptors,New York Knicks,"33-27, 19-12 Home","34-25, 14-15 Away",98,88,,,Final,,25,22,21,30,,20,27,12,29,,NBA
+210307011,2000,"March 07, 2001",Indiana Pacers,New York Knicks,"26-33, 16-14 Home","36-25, 15-15 Away",75,79,,,Final,,22,23,19,11,,23,18,16,22,,NBA
+210311018,2000,"March 11, 2001",New York Knicks,Miami Heat,"37-26, 22-10 Home","38-26, 17-17 Away",86,83,,,Final,,16,24,24,22,,35,11,12,25,,NBA
+210315018,2000,"March 15, 2001",New York Knicks,Toronto Raptors,"39-26, 24-10 Home","35-31, 16-18 Away",88,72,,,Final,,21,24,24,19,,22,22,12,16,,NBA
+210320005,2000,"March 20, 2001",Cleveland Cavaliers,New York Knicks,"24-43, 16-18 Home","41-26, 16-16 Away",75,110,,,Final,,9,22,16,28,,18,25,36,31,,NBA
+210326009,2000,"March 26, 2001",Golden State Warriors,New York Knicks,"17-53, 11-24 Home","42-27, 17-16 Away",87,89,,,Final/OT,,19,19,23,24,2.0,24,23,17,21,4.0,NBA
+210329029,2000,"March 29, 2001",Vancouver Grizzlies,New York Knicks,"21-52, 14-21 Home","42-29, 17-18 Away",89,68,,,Final,,24,28,26,11,,13,24,13,18,,NBA
+210401013,2000,"April 01, 2001",Los Angeles Lakers,New York Knicks,"48-26, 27-10 Home","43-30, 18-19 Away",78,79,,,Final,,23,25,17,13,,14,35,13,17,,NBA
+210405018,2000,"April 05, 2001",New York Knicks,Washington Wizards,"45-30, 27-11 Home","18-57, 7-32 Away",93,80,,,Final,,22,28,17,26,,22,18,30,10,,NBA
+210409018,2000,"April 09, 2001",New York Knicks,Charlotte Hornets,"46-31, 28-11 Home","42-36, 16-23 Away",113,98,,,Final,,25,29,29,30,,27,21,27,23,,NBA
+210413018,2000,"April 13, 2001",New York Knicks,Atlanta Hawks,"47-32, 29-11 Home","24-55, 7-33 Away",101,65,,,Final,,33,26,23,19,,17,15,17,16,,NBA
+210416005,2000,"April 16, 2001",Cleveland Cavaliers,New York Knicks,"30-51, 20-20 Home","47-34, 18-23 Away",80,78,,,Final,,30,17,19,14,,22,17,20,19,,NBA
+210418018,2000,"April 18, 2001",New York Knicks,Detroit Pistons,"48-34, 30-11 Home","32-50, 14-27 Away",94,88,,,Final,,33,27,18,16,,24,25,20,19,,NBA

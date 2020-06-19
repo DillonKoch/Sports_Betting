@@ -1,83 +1,83 @@
-,Unnamed: 0,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-0,0,400488893,2013,"Fri, Nov 1",Charlotte Bobcats,Cleveland Cavaliers,"1-1, 1-0 Home","1-1, 0-1 Away",90,84,,,Final,,30,24,21,15,,23,26,17,18,,NBA
-1,1,400488920,2013,"Mon, Nov 4",Cleveland Cavaliers,Minnesota Timberwolves,"2-2, 2-0 Home","3-1, 1-1 Away",93,92,,,Final,,31,24,21,17,,23,15,23,31,,NBA
-2,2,400488949,2013,"Fri, Nov 8",Philadelphia 76ers,Cleveland Cavaliers,"4-2, 3-2 Home","2-4, 0-4 Away",94,79,,,Final,,14,30,33,17,,28,14,19,18,,NBA
-3,3,400488975,2013,"Mon, Nov 11",Chicago Bulls,Cleveland Cavaliers,"3-3, 3-0 Home","3-5, 0-5 Away",96,81,,,Final,,20,25,19,32,,17,19,24,21,,NBA
-4,4,400489002,2013,"Fri, Nov 15",Cleveland Cavaliers,Charlotte Bobcats,"3-7, 3-1 Home","5-4, 3-2 Away",80,86,,,Final,,18,19,21,22,,12,21,24,29,,NBA
-5,5,400489035,2013,"Wed, Nov 20",Cleveland Cavaliers,Washington Wizards,"4-8, 3-2 Home","4-7, 2-5 Away",91,98,,,Final,,19,19,21,32,,30,26,24,18,,NBA
-6,6,400489067,2013,"Sat, Nov 23",San Antonio Spurs,Cleveland Cavaliers,"12-1, 6-0 Home","4-10, 1-8 Away",126,96,,,Final,,30,35,31,30,,21,11,35,29,,NBA
-7,7,400489105,2013,"Fri, Nov 29",Boston Celtics,Cleveland Cavaliers,"7-11, 3-5 Home","4-12, 1-9 Away",103,86,,,Final,,28,27,24,24,,10,29,19,28,,NBA
-8,8,400489142,2013,"Wed, Dec 4",Cleveland Cavaliers,Denver Nuggets,"6-12, 5-3 Home","11-7, 5-5 Away",98,88,,,Final,,31,25,23,19,,24,28,21,15,,NBA
-9,9,400489164,2013,"Sat, Dec 7",Cleveland Cavaliers,LA Clippers,"7-13, 6-3 Home","13-8, 5-6 Away",88,82,,,Final,NBATV,29,21,17,21,,23,26,17,16,,NBA
-10,10,400489203,2013,"Fri, Dec 13",Orlando Magic,Cleveland Cavaliers,"7-16, 5-6 Home","9-13, 2-10 Away",100,109,,,Final,,28,23,25,24,,19,31,23,36,,NBA
-11,11,400489238,2013,"Tue, Dec 17",Cleveland Cavaliers,Portland Trail Blazers,"9-15, 7-4 Home","22-4, 12-2 Away",116,119,,,Final,,28,31,29,28,,26,29,37,27,,NBA
-12,12,400489270,2013,"Sat, Dec 21",Chicago Bulls,Cleveland Cavaliers,"10-16, 7-5 Home","10-16, 2-12 Away",100,84,,,Final,NBATV,33,27,21,19,,26,17,22,19,,NBA
-13,13,400489296,2013,"Thu, Dec 26",Cleveland Cavaliers,Atlanta Hawks,"10-18, 8-6 Home","16-13, 5-9 Away",125,127,,,Final/2OT,,27,21,24,23,30.0,26,24,26,19,32.0,NBA
-14,14,400489321,2013,"Sun, Dec 29",Cleveland Cavaliers,Golden State Warriors,"10-20, 8-7 Home","19-13, 8-9 Away",104,108,,,Final/OT,,35,29,20,15,5.0,26,29,27,17,9.0,NBA
-15,15,400489346,2013,"Thu, Jan 2",Cleveland Cavaliers,Orlando Magic,"11-21, 9-7 Home","10-22, 3-12 Away",87,81,,,Final/OT,,19,22,16,22,8.0,23,16,23,17,2.0,NBA
-16,16,400489372,2013,"Sun, Jan 5",Cleveland Cavaliers,Indiana Pacers,"11-23, 9-8 Home","27-6, 11-5 Away",78,82,,,Final,,18,17,23,20,,22,22,23,15,,NBA
-17,17,400489412,2013,"Fri, Jan 10",Utah Jazz,Cleveland Cavaliers,"12-26, 7-11 Home","13-23, 3-15 Away",102,113,,,Final,,26,23,21,32,,26,20,39,28,,NBA
-18,18,400489438,2013,"Tue, Jan 14",Los Angeles Lakers,Cleveland Cavaliers,"14-24, 8-11 Home","14-24, 4-16 Away",118,120,,,Final,,23,40,22,33,,28,29,31,32,,NBA
-19,19,400489463,2013,"Fri, Jan 17",Denver Nuggets,Cleveland Cavaliers,"20-19, 11-9 Home","15-25, 5-17 Away",109,117,,,Final,,29,28,23,29,,26,42,19,30,,NBA
-20,20,400489495,2013,"Wed, Jan 22",Cleveland Cavaliers,Chicago Bulls,"15-27, 10-10 Home","21-20, 8-12 Away",87,98,,,Final,,17,27,18,25,,23,20,28,27,,NBA
-21,21,400489530,2013,"Sun, Jan 26",Cleveland Cavaliers,Phoenix Suns,"16-28, 11-11 Home","25-18, 10-11 Away",90,99,,,Final,,29,32,6,23,,22,21,25,31,,NBA
-22,22,400489560,2013,"Thu, Jan 30",New York Knicks,Cleveland Cavaliers,"19-27, 11-15 Home","16-30, 5-18 Away",117,86,,,Final,TNT,38,22,21,36,,21,15,29,21,,NBA
-23,23,400489590,2013,"Mon, Feb 3",Dallas Mavericks,Cleveland Cavaliers,"28-21, 17-8 Home","16-32, 5-20 Away",124,107,,,Final,,27,32,35,30,,25,27,27,28,,NBA
-24,24,400489615,2013,"Fri, Feb 7",Washington Wizards,Cleveland Cavaliers,"24-25, 12-13 Home","17-33, 6-20 Away",113,115,,,Final,,38,25,22,28,,32,35,26,22,,NBA
-25,25,400489644,2013,"Tue, Feb 11",Cleveland Cavaliers,Sacramento Kings,"19-33, 13-13 Home","17-35, 6-19 Away",109,99,,,Final,NBATV,30,25,25,29,,23,20,25,31,,NBA
-26,26,400489666,2013,"Tue, Feb 18",Philadelphia 76ers,Cleveland Cavaliers,"15-40, 8-19 Home","21-33, 8-20 Away",85,114,,,Final,,25,18,19,23,,31,33,21,29,,NBA
-27,27,400489691,2013,"Fri, Feb 21",Toronto Raptors,Cleveland Cavaliers,"30-25, 15-11 Home","22-34, 8-21 Away",98,91,,,Final,,16,23,37,22,,22,22,21,26,,NBA
-28,28,400489719,2013,"Tue, Feb 25",Cleveland Cavaliers,Toronto Raptors,"22-36, 14-15 Home","32-25, 16-14 Away",93,99,,,Final,,17,24,28,24,,23,24,21,31,,NBA
-29,29,400489740,2013,"Fri, Feb 28",Cleveland Cavaliers,Utah Jazz,"24-36, 15-15 Home","21-37, 7-21 Away",99,79,,,Final,,20,19,30,30,,27,14,19,19,,NBA
-30,30,400489771,2013,"Tue, Mar 4",Cleveland Cavaliers,San Antonio Spurs,"24-38, 15-16 Home","44-16, 23-8 Away",101,122,,,Final,,23,17,28,33,,13,37,35,37,,NBA
-31,31,400489801,2013,"Sat, Mar 8",Cleveland Cavaliers,New York Knicks,"24-40, 15-17 Home","24-40, 11-20 Away",97,107,,,Final,NBATV,19,31,26,21,,23,35,19,30,,NBA
-32,32,400489853,2013,"Fri, Mar 14",Golden State Warriors,Cleveland Cavaliers,"41-26, 21-11 Home","26-40, 11-23 Away",94,103,,,Final,,32,21,18,23,,16,36,32,19,,NBA
-33,33,400489876,2013,"Tue, Mar 18",Cleveland Cavaliers,Miami Heat,"26-42, 15-18 Home","46-19, 20-13 Away",96,100,,,Final,,25,29,25,17,,37,22,20,21,,NBA
-34,34,400489906,2013,"Sat, Mar 22",Cleveland Cavaliers,Houston Rockets,"26-44, 15-20 Home","47-22, 19-15 Away",111,118,,,Final,,31,24,24,32,,39,28,34,17,,NBA
-35,35,400489930,2013,"Tue, Mar 25",Cleveland Cavaliers,Toronto Raptors,"28-44, 16-20 Home","39-31, 18-17 Away",102,100,,,Final,,26,33,29,14,,17,28,36,19,,NBA
-36,36,400489951,2013,"Fri, Mar 28",Brooklyn Nets,Cleveland Cavaliers,"38-33, 24-11 Home","29-45, 13-25 Away",108,97,,,Final,,29,32,24,23,,29,21,27,20,,NBA
-37,37,400489989,2013,"Wed, Apr 2",Orlando Magic,Cleveland Cavaliers,"21-54, 17-20 Home","31-45, 14-25 Away",98,119,,,Final,,27,20,21,30,,35,35,24,25,,NBA
-38,38,400490018,2013,"Sat, Apr 5",Cleveland Cavaliers,Charlotte Bobcats,"31-47, 17-21 Home","39-38, 16-22 Away",94,96,,,Final/OT,,21,12,33,16,12.0,17,23,22,20,14.0,NBA
-39,39,400490058,2013,"Fri, Apr 11",Milwaukee Bucks,Cleveland Cavaliers,"15-64, 10-30 Home","32-48, 14-27 Away",119,116,,,Final,,37,25,30,27,,32,37,18,29,,NBA
-40,40,400488877,2013,"Wed, Oct 30",Cleveland Cavaliers,Brooklyn Nets,"1-0, 1-0 Home","0-1, 0-1 Away",98,94,,,Final,NBATV,27,22,30,19,,26,22,22,24,,NBA
-41,41,400488906,2013,"Sat, Nov 2",Indiana Pacers,Cleveland Cavaliers,"3-0, 2-0 Home","1-2, 0-2 Away",89,74,,,Final,,21,22,19,27,,16,21,18,19,,NBA
-42,42,400488939,2013,"Wed, Nov 6",Milwaukee Bucks,Cleveland Cavaliers,"2-2, 1-1 Home","2-3, 0-3 Away",109,104,,,Final,,30,25,28,26,,23,30,26,25,,NBA
-43,43,400488961,2013,"Sat, Nov 9",Cleveland Cavaliers,Philadelphia 76ers,"3-4, 3-0 Home","4-3, 1-1 Away",127,125,,,Final/2OT,,30,23,22,32,20.0,27,21,37,22,18.0,NBA
-44,44,400488988,2013,"Wed, Nov 13",Minnesota Timberwolves,Cleveland Cavaliers,"6-3, 4-1 Home","3-6, 0-6 Away",124,95,,,Final,,38,32,38,16,,24,23,29,19,,NBA
-45,45,400489011,2013,"Sat, Nov 16",Washington Wizards,Cleveland Cavaliers,"2-7, 1-2 Home","4-7, 1-6 Away",96,103,,,Final/OT,,25,24,20,21,6.0,18,26,20,26,13.0,NBA
-46,46,400489056,2013,"Fri, Nov 22",New Orleans Pelicans,Cleveland Cavaliers,"6-6, 5-2 Home","4-9, 1-7 Away",104,100,,,Final,,21,21,28,34,,20,31,20,29,,NBA
-47,47,400489092,2013,"Wed, Nov 27",Cleveland Cavaliers,Miami Heat,"4-11, 3-3 Home","12-3, 4-2 Away",84,95,,,Final,ESPN,28,14,18,24,,22,27,21,25,,NBA
-48,48,400489115,2013,"Sat, Nov 30",Cleveland Cavaliers,Chicago Bulls,"5-12, 4-3 Home","7-8, 2-8 Away",97,93,,,Final,WGNS,27,29,21,20,,25,26,15,27,,NBA
-49,49,400489155,2013,"Fri, Dec 6",Atlanta Hawks,Cleveland Cavaliers,"11-10, 7-3 Home","6-13, 1-10 Away",108,89,,,Final,,37,26,19,26,,20,23,21,25,,NBA
-50,50,400489183,2013,"Tue, Dec 10",Cleveland Cavaliers,New York Knicks,"8-13, 7-3 Home","5-15, 3-7 Away",109,94,,,Final,,31,17,33,28,,19,26,20,29,,NBA
-51,51,400489217,2013,"Sat, Dec 14",Miami Heat,Cleveland Cavaliers,"17-6, 10-2 Home","9-14, 2-11 Away",114,107,,,Final,NBATV,35,33,16,30,,29,23,28,27,,NBA
-52,52,400489258,2013,"Fri, Dec 20",Cleveland Cavaliers,Milwaukee Bucks,"10-15, 8-4 Home","5-21, 3-10 Away",114,111,,,Final/OT,,25,22,23,26,18.0,26,21,23,26,15.0,NBA
-53,53,400489281,2013,"Mon, Dec 23",Cleveland Cavaliers,Detroit Pistons,"10-17, 8-5 Home","14-16, 8-6 Away",92,115,,,Final,,18,22,24,28,,28,30,31,26,,NBA
-54,54,400489309,2013,"Sat, Dec 28",Boston Celtics,Cleveland Cavaliers,"13-17, 8-8 Home","10-19, 2-13 Away",103,100,,,Final,,24,35,26,18,,22,22,22,34,,NBA
-55,55,400489334,2013,"Tue, Dec 31",Indiana Pacers,Cleveland Cavaliers,"25-5, 15-1 Home","10-21, 2-14 Away",91,76,,,Final,,23,18,24,26,,25,19,22,10,,NBA
-56,56,400489364,2013,"Sat, Jan 4",Brooklyn Nets,Cleveland Cavaliers,"12-21, 7-9 Home","11-22, 2-15 Away",89,82,,,Final,,22,29,16,22,,17,21,27,17,,NBA
-57,57,400489382,2013,"Tue, Jan 7",Cleveland Cavaliers,Philadelphia 76ers,"12-23, 10-8 Home","12-23, 5-14 Away",111,93,,,Final,,36,28,27,20,,20,21,25,27,,NBA
-58,58,400489425,2013,"Sun, Jan 12",Sacramento Kings,Cleveland Cavaliers,"13-22, 9-13 Home","13-24, 3-16 Away",124,80,,,Final,,30,29,30,35,,32,18,11,19,,NBA
-59,59,400489448,2013,"Wed, Jan 15",Portland Trail Blazers,Cleveland Cavaliers,"29-9, 16-4 Home","14-25, 4-17 Away",108,96,,,Final,,26,28,23,31,,27,23,25,21,,NBA
-60,60,400489479,2013,"Mon, Jan 20",Cleveland Cavaliers,Dallas Mavericks,"15-26, 10-9 Home","25-18, 11-11 Away",97,102,,,Final,,23,14,29,31,,30,29,20,23,,NBA
-61,61,400489511,2013,"Fri, Jan 24",Cleveland Cavaliers,Milwaukee Bucks,"16-27, 11-10 Home","8-34, 4-19 Away",93,78,,,Final,,24,22,25,22,,23,14,18,23,,NBA
-62,62,400489541,2013,"Tue, Jan 28",Cleveland Cavaliers,New Orleans Pelicans,"16-29, 11-12 Home","19-25, 9-14 Away",89,100,,,Final,,29,15,21,24,,26,30,27,17,,NBA
-63,63,400489574,2013,"Sat, Feb 1",Houston Rockets,Cleveland Cavaliers,"32-17, 20-7 Home","16-31, 5-19 Away",106,92,,,Final,,31,30,23,22,,23,29,21,19,,NBA
-64,64,400489598,2013,"Wed, Feb 5",Cleveland Cavaliers,Los Angeles Lakers,"16-33, 11-13 Home","17-32, 9-19 Away",108,119,,,Final,,17,32,31,28,,36,34,28,21,,NBA
-65,65,400489633,2013,"Sun, Feb 9",Cleveland Cavaliers,Memphis Grizzlies,"18-33, 12-13 Home","27-23, 14-9 Away",91,83,,,Final/OT,,22,20,17,19,13.0,18,15,25,20,5.0,NBA
-66,66,400489655,2013,"Wed, Feb 12",Detroit Pistons,Cleveland Cavaliers,"22-30, 12-16 Home","20-33, 7-20 Away",89,93,,,Final,,28,23,15,23,,22,18,19,34,,NBA
-67,67,400489675,2013,"Wed, Feb 19",Cleveland Cavaliers,Orlando Magic,"22-33, 14-13 Home","16-40, 3-25 Away",101,93,,,Final,,26,29,17,29,,11,25,32,25,,NBA
-68,68,400489708,2013,"Sun, Feb 23",Cleveland Cavaliers,Washington Wizards,"22-35, 14-14 Home","28-28, 14-14 Away",83,96,,,Final,,27,25,20,11,,30,28,20,18,,NBA
-69,69,400489731,2013,"Wed, Feb 26",Oklahoma City Thunder,Cleveland Cavaliers,"43-15, 23-6 Home","23-36, 9-21 Away",104,114,,,Final,,27,25,24,28,,26,25,21,42,,NBA
-70,70,400489752,2013,"Sat, Mar 1",Memphis Grizzlies,Cleveland Cavaliers,"33-25, 18-14 Home","24-37, 9-22 Away",110,96,,,Final,,22,32,33,23,,30,35,15,16,,NBA
-71,71,400489791,2013,"Fri, Mar 7",Charlotte Bobcats,Cleveland Cavaliers,"29-33, 17-14 Home","24-39, 9-23 Away",101,92,,,Final,,32,23,21,25,,25,25,24,18,,NBA
-72,72,400489839,2013,"Wed, Mar 12",Phoenix Suns,Cleveland Cavaliers,"36-28, 22-13 Home","25-40, 10-23 Away",101,110,,,Final,,24,23,30,24,,37,23,22,28,,NBA
-73,73,400489868,2013,"Sun, Mar 16",LA Clippers,Cleveland Cavaliers,"48-20, 29-5 Home","26-41, 11-24 Away",102,80,,,Final,NBATV,27,25,24,26,,18,20,21,21,,NBA
-74,74,400489891,2013,"Thu, Mar 20",Cleveland Cavaliers,Oklahoma City Thunder,"26-43, 15-19 Home","50-18, 22-11 Away",95,102,,,Final,,25,21,22,27,,21,35,29,17,,NBA
-75,75,400489918,2013,"Sun, Mar 23",New York Knicks,Cleveland Cavaliers,"29-41, 16-21 Home","27-44, 12-24 Away",100,106,,,Final,,34,27,23,16,,27,19,31,29,,NBA
-76,76,400489937,2013,"Wed, Mar 26",Detroit Pistons,Cleveland Cavaliers,"26-45, 15-22 Home","29-44, 13-24 Away",96,97,,,Final,,33,18,31,14,,24,26,16,31,,NBA
-77,77,400489967,2013,"Sun, Mar 30",Cleveland Cavaliers,Indiana Pacers,"30-45, 17-20 Home","52-22, 19-18 Away",90,76,,,Final,,25,24,24,17,,20,16,22,18,,NBA
-78,78,400490005,2013,"Fri, Apr 4",Atlanta Hawks,Cleveland Cavaliers,"33-42, 22-15 Home","31-46, 14-26 Away",117,98,,,Final,,39,22,29,27,,23,26,24,25,,NBA
-79,79,400490035,2013,"Wed, Apr 9",Cleveland Cavaliers,Detroit Pistons,"32-47, 18-21 Home","29-50, 12-27 Away",122,100,,,Final,,31,38,29,24,,18,19,33,30,,NBA
-80,80,400490066,2013,"Sat, Apr 12",Cleveland Cavaliers,Boston Celtics,"32-49, 18-22 Home","25-55, 9-31 Away",99,111,,,Final,,18,24,16,41,,28,32,29,22,,NBA
-81,81,400490097,2013,"Wed, Apr 16",Cleveland Cavaliers,Brooklyn Nets,"33-49, 19-22 Home","44-38, 16-25 Away",114,85,,,Final,,33,18,30,33,,21,28,15,21,,NBA
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+400488893,2013,"November 01, 2013",Charlotte Bobcats,Cleveland Cavaliers,"1-1, 1-0 Home","1-1, 0-1 Away",90,84,,,Final,,30,24,21,15,,23,26,17,18,,NBA
+400488920,2013,"November 04, 2013",Cleveland Cavaliers,Minnesota Timberwolves,"2-2, 2-0 Home","3-1, 1-1 Away",93,92,,,Final,,31,24,21,17,,23,15,23,31,,NBA
+400488949,2013,"November 08, 2013",Philadelphia 76ers,Cleveland Cavaliers,"4-2, 3-2 Home","2-4, 0-4 Away",94,79,,,Final,,14,30,33,17,,28,14,19,18,,NBA
+400488975,2013,"November 11, 2013",Chicago Bulls,Cleveland Cavaliers,"3-3, 3-0 Home","3-5, 0-5 Away",96,81,,,Final,,20,25,19,32,,17,19,24,21,,NBA
+400489002,2013,"November 15, 2013",Cleveland Cavaliers,Charlotte Bobcats,"3-7, 3-1 Home","5-4, 3-2 Away",80,86,,,Final,,18,19,21,22,,12,21,24,29,,NBA
+400489035,2013,"November 20, 2013",Cleveland Cavaliers,Washington Wizards,"4-8, 3-2 Home","4-7, 2-5 Away",91,98,,,Final,,19,19,21,32,,30,26,24,18,,NBA
+400489067,2013,"November 23, 2013",San Antonio Spurs,Cleveland Cavaliers,"12-1, 6-0 Home","4-10, 1-8 Away",126,96,,,Final,,30,35,31,30,,21,11,35,29,,NBA
+400489105,2013,"November 29, 2013",Boston Celtics,Cleveland Cavaliers,"7-11, 3-5 Home","4-12, 1-9 Away",103,86,,,Final,,28,27,24,24,,10,29,19,28,,NBA
+400489142,2013,"December 04, 2013",Cleveland Cavaliers,Denver Nuggets,"6-12, 5-3 Home","11-7, 5-5 Away",98,88,,,Final,,31,25,23,19,,24,28,21,15,,NBA
+400489164,2013,"December 07, 2013",Cleveland Cavaliers,LA Clippers,"7-13, 6-3 Home","13-8, 5-6 Away",88,82,,,Final,NBATV,29,21,17,21,,23,26,17,16,,NBA
+400489203,2013,"December 13, 2013",Orlando Magic,Cleveland Cavaliers,"7-16, 5-6 Home","9-13, 2-10 Away",100,109,,,Final,,28,23,25,24,,19,31,23,36,,NBA
+400489238,2013,"December 17, 2013",Cleveland Cavaliers,Portland Trail Blazers,"9-15, 7-4 Home","22-4, 12-2 Away",116,119,,,Final,,28,31,29,28,,26,29,37,27,,NBA
+400489270,2013,"December 21, 2013",Chicago Bulls,Cleveland Cavaliers,"10-16, 7-5 Home","10-16, 2-12 Away",100,84,,,Final,NBATV,33,27,21,19,,26,17,22,19,,NBA
+400489296,2013,"December 26, 2013",Cleveland Cavaliers,Atlanta Hawks,"10-18, 8-6 Home","16-13, 5-9 Away",125,127,,,Final/2OT,,27,21,24,23,30.0,26,24,26,19,32.0,NBA
+400489321,2013,"December 29, 2013",Cleveland Cavaliers,Golden State Warriors,"10-20, 8-7 Home","19-13, 8-9 Away",104,108,,,Final/OT,,35,29,20,15,5.0,26,29,27,17,9.0,NBA
+400489346,2013,"January 02, 2014",Cleveland Cavaliers,Orlando Magic,"11-21, 9-7 Home","10-22, 3-12 Away",87,81,,,Final/OT,,19,22,16,22,8.0,23,16,23,17,2.0,NBA
+400489372,2013,"January 05, 2014",Cleveland Cavaliers,Indiana Pacers,"11-23, 9-8 Home","27-6, 11-5 Away",78,82,,,Final,,18,17,23,20,,22,22,23,15,,NBA
+400489412,2013,"January 10, 2014",Utah Jazz,Cleveland Cavaliers,"12-26, 7-11 Home","13-23, 3-15 Away",102,113,,,Final,,26,23,21,32,,26,20,39,28,,NBA
+400489438,2013,"January 14, 2014",Los Angeles Lakers,Cleveland Cavaliers,"14-24, 8-11 Home","14-24, 4-16 Away",118,120,,,Final,,23,40,22,33,,28,29,31,32,,NBA
+400489463,2013,"January 17, 2014",Denver Nuggets,Cleveland Cavaliers,"20-19, 11-9 Home","15-25, 5-17 Away",109,117,,,Final,,29,28,23,29,,26,42,19,30,,NBA
+400489495,2013,"January 22, 2014",Cleveland Cavaliers,Chicago Bulls,"15-27, 10-10 Home","21-20, 8-12 Away",87,98,,,Final,,17,27,18,25,,23,20,28,27,,NBA
+400489530,2013,"January 26, 2014",Cleveland Cavaliers,Phoenix Suns,"16-28, 11-11 Home","25-18, 10-11 Away",90,99,,,Final,,29,32,6,23,,22,21,25,31,,NBA
+400489560,2013,"January 30, 2014",New York Knicks,Cleveland Cavaliers,"19-27, 11-15 Home","16-30, 5-18 Away",117,86,,,Final,TNT,38,22,21,36,,21,15,29,21,,NBA
+400489590,2013,"February 03, 2014",Dallas Mavericks,Cleveland Cavaliers,"28-21, 17-8 Home","16-32, 5-20 Away",124,107,,,Final,,27,32,35,30,,25,27,27,28,,NBA
+400489615,2013,"February 07, 2014",Washington Wizards,Cleveland Cavaliers,"24-25, 12-13 Home","17-33, 6-20 Away",113,115,,,Final,,38,25,22,28,,32,35,26,22,,NBA
+400489644,2013,"February 11, 2014",Cleveland Cavaliers,Sacramento Kings,"19-33, 13-13 Home","17-35, 6-19 Away",109,99,,,Final,NBATV,30,25,25,29,,23,20,25,31,,NBA
+400489666,2013,"February 18, 2014",Philadelphia 76ers,Cleveland Cavaliers,"15-40, 8-19 Home","21-33, 8-20 Away",85,114,,,Final,,25,18,19,23,,31,33,21,29,,NBA
+400489691,2013,"February 21, 2014",Toronto Raptors,Cleveland Cavaliers,"30-25, 15-11 Home","22-34, 8-21 Away",98,91,,,Final,,16,23,37,22,,22,22,21,26,,NBA
+400489719,2013,"February 25, 2014",Cleveland Cavaliers,Toronto Raptors,"22-36, 14-15 Home","32-25, 16-14 Away",93,99,,,Final,,17,24,28,24,,23,24,21,31,,NBA
+400489740,2013,"February 28, 2014",Cleveland Cavaliers,Utah Jazz,"24-36, 15-15 Home","21-37, 7-21 Away",99,79,,,Final,,20,19,30,30,,27,14,19,19,,NBA
+400489771,2013,"March 04, 2014",Cleveland Cavaliers,San Antonio Spurs,"24-38, 15-16 Home","44-16, 23-8 Away",101,122,,,Final,,23,17,28,33,,13,37,35,37,,NBA
+400489801,2013,"March 08, 2014",Cleveland Cavaliers,New York Knicks,"24-40, 15-17 Home","24-40, 11-20 Away",97,107,,,Final,NBATV,19,31,26,21,,23,35,19,30,,NBA
+400489853,2013,"March 14, 2014",Golden State Warriors,Cleveland Cavaliers,"41-26, 21-11 Home","26-40, 11-23 Away",94,103,,,Final,,32,21,18,23,,16,36,32,19,,NBA
+400489876,2013,"March 18, 2014",Cleveland Cavaliers,Miami Heat,"26-42, 15-18 Home","46-19, 20-13 Away",96,100,,,Final,,25,29,25,17,,37,22,20,21,,NBA
+400489906,2013,"March 22, 2014",Cleveland Cavaliers,Houston Rockets,"26-44, 15-20 Home","47-22, 19-15 Away",111,118,,,Final,,31,24,24,32,,39,28,34,17,,NBA
+400489930,2013,"March 25, 2014",Cleveland Cavaliers,Toronto Raptors,"28-44, 16-20 Home","39-31, 18-17 Away",102,100,,,Final,,26,33,29,14,,17,28,36,19,,NBA
+400489951,2013,"March 28, 2014",Brooklyn Nets,Cleveland Cavaliers,"38-33, 24-11 Home","29-45, 13-25 Away",108,97,,,Final,,29,32,24,23,,29,21,27,20,,NBA
+400489989,2013,"April 02, 2014",Orlando Magic,Cleveland Cavaliers,"21-54, 17-20 Home","31-45, 14-25 Away",98,119,,,Final,,27,20,21,30,,35,35,24,25,,NBA
+400490018,2013,"April 05, 2014",Cleveland Cavaliers,Charlotte Bobcats,"31-47, 17-21 Home","39-38, 16-22 Away",94,96,,,Final/OT,,21,12,33,16,12.0,17,23,22,20,14.0,NBA
+400490058,2013,"April 11, 2014",Milwaukee Bucks,Cleveland Cavaliers,"15-64, 10-30 Home","32-48, 14-27 Away",119,116,,,Final,,37,25,30,27,,32,37,18,29,,NBA
+400488877,2013,"October 30, 2013",Cleveland Cavaliers,Brooklyn Nets,"1-0, 1-0 Home","0-1, 0-1 Away",98,94,,,Final,NBATV,27,22,30,19,,26,22,22,24,,NBA
+400488906,2013,"November 02, 2013",Indiana Pacers,Cleveland Cavaliers,"3-0, 2-0 Home","1-2, 0-2 Away",89,74,,,Final,,21,22,19,27,,16,21,18,19,,NBA
+400488939,2013,"November 06, 2013",Milwaukee Bucks,Cleveland Cavaliers,"2-2, 1-1 Home","2-3, 0-3 Away",109,104,,,Final,,30,25,28,26,,23,30,26,25,,NBA
+400488961,2013,"November 09, 2013",Cleveland Cavaliers,Philadelphia 76ers,"3-4, 3-0 Home","4-3, 1-1 Away",127,125,,,Final/2OT,,30,23,22,32,20.0,27,21,37,22,18.0,NBA
+400488988,2013,"November 13, 2013",Minnesota Timberwolves,Cleveland Cavaliers,"6-3, 4-1 Home","3-6, 0-6 Away",124,95,,,Final,,38,32,38,16,,24,23,29,19,,NBA
+400489011,2013,"November 16, 2013",Washington Wizards,Cleveland Cavaliers,"2-7, 1-2 Home","4-7, 1-6 Away",96,103,,,Final/OT,,25,24,20,21,6.0,18,26,20,26,13.0,NBA
+400489056,2013,"November 22, 2013",New Orleans Pelicans,Cleveland Cavaliers,"6-6, 5-2 Home","4-9, 1-7 Away",104,100,,,Final,,21,21,28,34,,20,31,20,29,,NBA
+400489092,2013,"November 27, 2013",Cleveland Cavaliers,Miami Heat,"4-11, 3-3 Home","12-3, 4-2 Away",84,95,,,Final,ESPN,28,14,18,24,,22,27,21,25,,NBA
+400489115,2013,"November 30, 2013",Cleveland Cavaliers,Chicago Bulls,"5-12, 4-3 Home","7-8, 2-8 Away",97,93,,,Final,WGNS,27,29,21,20,,25,26,15,27,,NBA
+400489155,2013,"December 06, 2013",Atlanta Hawks,Cleveland Cavaliers,"11-10, 7-3 Home","6-13, 1-10 Away",108,89,,,Final,,37,26,19,26,,20,23,21,25,,NBA
+400489183,2013,"December 10, 2013",Cleveland Cavaliers,New York Knicks,"8-13, 7-3 Home","5-15, 3-7 Away",109,94,,,Final,,31,17,33,28,,19,26,20,29,,NBA
+400489217,2013,"December 14, 2013",Miami Heat,Cleveland Cavaliers,"17-6, 10-2 Home","9-14, 2-11 Away",114,107,,,Final,NBATV,35,33,16,30,,29,23,28,27,,NBA
+400489258,2013,"December 20, 2013",Cleveland Cavaliers,Milwaukee Bucks,"10-15, 8-4 Home","5-21, 3-10 Away",114,111,,,Final/OT,,25,22,23,26,18.0,26,21,23,26,15.0,NBA
+400489281,2013,"December 23, 2013",Cleveland Cavaliers,Detroit Pistons,"10-17, 8-5 Home","14-16, 8-6 Away",92,115,,,Final,,18,22,24,28,,28,30,31,26,,NBA
+400489309,2013,"December 28, 2013",Boston Celtics,Cleveland Cavaliers,"13-17, 8-8 Home","10-19, 2-13 Away",103,100,,,Final,,24,35,26,18,,22,22,22,34,,NBA
+400489334,2013,"December 31, 2013",Indiana Pacers,Cleveland Cavaliers,"25-5, 15-1 Home","10-21, 2-14 Away",91,76,,,Final,,23,18,24,26,,25,19,22,10,,NBA
+400489364,2013,"January 04, 2014",Brooklyn Nets,Cleveland Cavaliers,"12-21, 7-9 Home","11-22, 2-15 Away",89,82,,,Final,,22,29,16,22,,17,21,27,17,,NBA
+400489382,2013,"January 07, 2014",Cleveland Cavaliers,Philadelphia 76ers,"12-23, 10-8 Home","12-23, 5-14 Away",111,93,,,Final,,36,28,27,20,,20,21,25,27,,NBA
+400489425,2013,"January 12, 2014",Sacramento Kings,Cleveland Cavaliers,"13-22, 9-13 Home","13-24, 3-16 Away",124,80,,,Final,,30,29,30,35,,32,18,11,19,,NBA
+400489448,2013,"January 15, 2014",Portland Trail Blazers,Cleveland Cavaliers,"29-9, 16-4 Home","14-25, 4-17 Away",108,96,,,Final,,26,28,23,31,,27,23,25,21,,NBA
+400489479,2013,"January 20, 2014",Cleveland Cavaliers,Dallas Mavericks,"15-26, 10-9 Home","25-18, 11-11 Away",97,102,,,Final,,23,14,29,31,,30,29,20,23,,NBA
+400489511,2013,"January 24, 2014",Cleveland Cavaliers,Milwaukee Bucks,"16-27, 11-10 Home","8-34, 4-19 Away",93,78,,,Final,,24,22,25,22,,23,14,18,23,,NBA
+400489541,2013,"January 28, 2014",Cleveland Cavaliers,New Orleans Pelicans,"16-29, 11-12 Home","19-25, 9-14 Away",89,100,,,Final,,29,15,21,24,,26,30,27,17,,NBA
+400489574,2013,"February 01, 2014",Houston Rockets,Cleveland Cavaliers,"32-17, 20-7 Home","16-31, 5-19 Away",106,92,,,Final,,31,30,23,22,,23,29,21,19,,NBA
+400489598,2013,"February 05, 2014",Cleveland Cavaliers,Los Angeles Lakers,"16-33, 11-13 Home","17-32, 9-19 Away",108,119,,,Final,,17,32,31,28,,36,34,28,21,,NBA
+400489633,2013,"February 09, 2014",Cleveland Cavaliers,Memphis Grizzlies,"18-33, 12-13 Home","27-23, 14-9 Away",91,83,,,Final/OT,,22,20,17,19,13.0,18,15,25,20,5.0,NBA
+400489655,2013,"February 12, 2014",Detroit Pistons,Cleveland Cavaliers,"22-30, 12-16 Home","20-33, 7-20 Away",89,93,,,Final,,28,23,15,23,,22,18,19,34,,NBA
+400489675,2013,"February 19, 2014",Cleveland Cavaliers,Orlando Magic,"22-33, 14-13 Home","16-40, 3-25 Away",101,93,,,Final,,26,29,17,29,,11,25,32,25,,NBA
+400489708,2013,"February 23, 2014",Cleveland Cavaliers,Washington Wizards,"22-35, 14-14 Home","28-28, 14-14 Away",83,96,,,Final,,27,25,20,11,,30,28,20,18,,NBA
+400489731,2013,"February 26, 2014",Oklahoma City Thunder,Cleveland Cavaliers,"43-15, 23-6 Home","23-36, 9-21 Away",104,114,,,Final,,27,25,24,28,,26,25,21,42,,NBA
+400489752,2013,"March 01, 2014",Memphis Grizzlies,Cleveland Cavaliers,"33-25, 18-14 Home","24-37, 9-22 Away",110,96,,,Final,,22,32,33,23,,30,35,15,16,,NBA
+400489791,2013,"March 07, 2014",Charlotte Bobcats,Cleveland Cavaliers,"29-33, 17-14 Home","24-39, 9-23 Away",101,92,,,Final,,32,23,21,25,,25,25,24,18,,NBA
+400489839,2013,"March 12, 2014",Phoenix Suns,Cleveland Cavaliers,"36-28, 22-13 Home","25-40, 10-23 Away",101,110,,,Final,,24,23,30,24,,37,23,22,28,,NBA
+400489868,2013,"March 16, 2014",LA Clippers,Cleveland Cavaliers,"48-20, 29-5 Home","26-41, 11-24 Away",102,80,,,Final,NBATV,27,25,24,26,,18,20,21,21,,NBA
+400489891,2013,"March 20, 2014",Cleveland Cavaliers,Oklahoma City Thunder,"26-43, 15-19 Home","50-18, 22-11 Away",95,102,,,Final,,25,21,22,27,,21,35,29,17,,NBA
+400489918,2013,"March 23, 2014",New York Knicks,Cleveland Cavaliers,"29-41, 16-21 Home","27-44, 12-24 Away",100,106,,,Final,,34,27,23,16,,27,19,31,29,,NBA
+400489937,2013,"March 26, 2014",Detroit Pistons,Cleveland Cavaliers,"26-45, 15-22 Home","29-44, 13-24 Away",96,97,,,Final,,33,18,31,14,,24,26,16,31,,NBA
+400489967,2013,"March 30, 2014",Cleveland Cavaliers,Indiana Pacers,"30-45, 17-20 Home","52-22, 19-18 Away",90,76,,,Final,,25,24,24,17,,20,16,22,18,,NBA
+400490005,2013,"April 04, 2014",Atlanta Hawks,Cleveland Cavaliers,"33-42, 22-15 Home","31-46, 14-26 Away",117,98,,,Final,,39,22,29,27,,23,26,24,25,,NBA
+400490035,2013,"April 09, 2014",Cleveland Cavaliers,Detroit Pistons,"32-47, 18-21 Home","29-50, 12-27 Away",122,100,,,Final,,31,38,29,24,,18,19,33,30,,NBA
+400490066,2013,"April 12, 2014",Cleveland Cavaliers,Boston Celtics,"32-49, 18-22 Home","25-55, 9-31 Away",99,111,,,Final,,18,24,16,41,,28,32,29,22,,NBA
+400490097,2013,"April 16, 2014",Cleveland Cavaliers,Brooklyn Nets,"33-49, 19-22 Home","44-38, 16-25 Away",114,85,,,Final,,33,18,30,33,,21,28,15,21,,NBA

@@ -1,83 +1,83 @@
-,Unnamed: 0,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-0,0,231029009,2003,"Wed, Oct 29",Golden State Warriors,Dallas Mavericks,"0-1, 0-1 Home","1-1, 1-1 Away",87,95,,,Final,,14,33,17,23,,22,27,17,29,,NBA
-1,1,231103006,2003,"Mon, Nov 3",Dallas Mavericks,Miami Heat,"3-1, 2-0 Home","0-4, 0-3 Away",103,93,,,Final,,25,23,26,29,,26,24,14,29,,NBA
-2,2,231106028,2003,"Thu, Nov 6",Toronto Raptors,Dallas Mavericks,"3-1, 3-0 Home","3-3, 1-3 Away",77,71,,,Final,,20,22,16,19,,22,18,17,14,,NBA
-3,3,231111006,2003,"Tue, Nov 11",Dallas Mavericks,New Orleans Hornets,"5-3, 3-0 Home","5-3, 2-2 Away",125,97,,,Final,,39,25,31,30,,24,30,16,27,,NBA
-4,4,231115029,2003,"Sat, Nov 15",Memphis Grizzlies,Dallas Mavericks,"5-4, 3-1 Home","6-4, 2-4 Away",108,101,,,Final/OT,,31,17,24,23,13.0,21,25,32,17,6.0,NBA
-5,5,231120006,2003,"Thu, Nov 20",Dallas Mavericks,San Antonio Spurs,"8-4, 6-0 Home","7-6, 2-4 Away",95,92,,,Final,,21,25,27,22,,25,22,17,28,,NBA
-6,6,231125006,2003,"Tue, Nov 25",Dallas Mavericks,Chicago Bulls,"10-4, 8-0 Home","4-11, 3-5 Away",124,98,,,Final,,36,25,41,22,,29,23,20,26,,NBA
-7,7,231128007,2003,"Fri, Nov 28",Denver Nuggets,Dallas Mavericks,"9-6, 7-1 Home","10-6, 2-6 Away",113,103,,,Final,,32,25,23,33,,24,29,24,26,,NBA
-8,8,231202006,2003,"Tue, Dec 2",Dallas Mavericks,Washington Wizards,"12-6, 10-0 Home","6-11, 3-7 Away",97,72,,,Final,,24,24,27,22,,17,20,21,14,,NBA
-9,9,231206006,2003,"Sat, Dec 6",Dallas Mavericks,Orlando Magic,"13-7, 11-1 Home","1-19, 1-8 Away",110,97,,,Final,,32,30,27,21,,32,24,20,21,,NBA
-10,10,231212013,2003,"Fri, Dec 12",Los Angeles Lakers,Dallas Mavericks,"18-4, 12-1 Home","14-8, 3-7 Away",93,110,,,Final,,19,33,21,20,,33,24,31,22,,NBA
-11,11,231217002,2003,"Wed, Dec 17",Boston Celtics,Dallas Mavericks,"13-13, 7-7 Home","15-9, 3-8 Away",105,103,,,Final,,24,32,21,28,,29,33,23,18,,NBA
-12,12,231220006,2003,"Sat, Dec 20",Dallas Mavericks,LA Clippers,"15-11, 12-2 Home","11-12, 3-7 Away",105,115,,,Final,,32,22,28,23,,31,30,30,24,,NBA
-13,13,231225023,2003,"Thu, Dec 25",Sacramento Kings,Dallas Mavericks,"20-7, 15-2 Home","16-12, 4-10 Away",103,111,,,Final,,36,24,24,19,,30,14,34,33,,NBA
-14,14,231230006,2003,"Tue, Dec 30",Dallas Mavericks,Milwaukee Bucks,"18-12, 14-2 Home","15-16, 5-12 Away",101,92,,,Final,,25,32,19,25,,19,18,34,21,,NBA
-15,15,240103006,2003,"Sat, Jan 3",Dallas Mavericks,Minnesota Timberwolves,"19-13, 15-2 Home","21-11, 12-6 Away",119,112,,,Final,,25,31,30,33,,30,24,26,32,,NBA
-16,16,240107006,2003,"Wed, Jan 7",Dallas Mavericks,Golden State Warriors,"20-14, 16-2 Home","14-20, 4-14 Away",105,99,,,Final,,23,34,26,22,,24,30,24,21,,NBA
-17,17,240111008,2003,"Sun, Jan 11",Detroit Pistons,Dallas Mavericks,"24-13, 15-5 Home","20-16, 4-13 Away",115,102,,,Final,,23,32,35,25,,30,25,22,25,,NBA
-18,18,240114006,2003,"Wed, Jan 14",Dallas Mavericks,Philadelphia 76ers,"22-16, 17-3 Home","18-21, 8-13 Away",125,122,,,Final/2OT,CSN,25,30,29,23,18.0,21,27,22,37,15.0,NBA
-19,19,240117022,2003,"Sat, Jan 17",Portland Trail Blazers,Dallas Mavericks,"16-22, 14-7 Home","24-16, 7-13 Away",104,108,,,Final,,34,34,18,18,,27,32,26,23,,NBA
-20,20,240122006,2003,"Thu, Jan 22",Dallas Mavericks,Los Angeles Lakers,"26-16, 19-3 Home","25-15, 6-12 Away",106,87,,,Final,,31,28,30,17,,22,24,23,18,,NBA
-21,21,240125006,2003,"Sun, Jan 25",Dallas Mavericks,Sacramento Kings,"28-16, 20-3 Home","30-12, 9-9 Away",108,99,,,Final,,25,25,26,32,,21,26,28,24,,NBA
-22,22,240128026,2003,"Wed, Jan 28",Utah Jazz,Dallas Mavericks,"23-22, 19-6 Home","29-17, 9-14 Away",91,88,,,Final,,24,25,13,29,,24,14,22,28,,NBA
-23,23,240203006,2003,"Tue, Feb 3",Dallas Mavericks,Golden State Warriors,"30-18, 21-4 Home","20-27, 5-20 Away",107,93,,,Final,,17,32,29,29,,24,22,20,27,,NBA
-24,24,240207006,2003,"Sat, Feb 7",Dallas Mavericks,Detroit Pistons,"32-18, 22-4 Home","33-19, 14-12 Away",111,108,,,Final,,26,29,23,33,,32,26,19,31,,NBA
-25,25,240210006,2003,"Tue, Feb 10",Dallas Mavericks,New York Knicks,"33-19, 23-4 Home","25-28, 10-15 Away",105,90,,,Final,,21,28,27,29,,27,17,25,21,,NBA
-26,26,240218005,2003,"Wed, Feb 18",Cleveland Cavaliers,Dallas Mavericks,"20-34, 14-13 Home","34-20, 11-16 Away",98,114,,,Final,,29,24,24,21,,27,36,32,19,,NBA
-27,27,240224006,2003,"Tue, Feb 24",Dallas Mavericks,LA Clippers,"36-20, 25-4 Home","24-31, 8-20 Away",116,91,,,Final,,36,29,27,24,,18,25,23,25,,NBA
-28,28,240228006,2003,"Sat, Feb 28",Dallas Mavericks,Portland Trail Blazers,"38-20, 27-4 Home","29-30, 11-20 Away",111,91,,,Final,,27,39,14,31,,21,27,22,21,,NBA
-29,29,240303016,2003,"Wed, Mar 3",Minnesota Timberwolves,Dallas Mavericks,"44-17, 24-7 Home","39-21, 11-17 Away",121,97,,,Final,,34,33,30,24,,23,39,16,19,,NBA
-30,30,240307010,2003,"Sun, Mar 7",Houston Rockets,Dallas Mavericks,"36-26, 22-10 Home","39-23, 11-19 Away",101,98,,,Final,,26,24,20,31,,26,21,21,30,,NBA
-31,31,240311023,2003,"Thu, Mar 11",Sacramento Kings,Dallas Mavericks,"48-16, 29-5 Home","40-24, 11-20 Away",120,102,,,Final,,37,27,24,32,,27,25,24,26,,NBA
-32,32,240314012,2003,"Sun, Mar 14",LA Clippers,Dallas Mavericks,"26-40, 18-15 Home","42-24, 13-20 Away",88,101,,,Final,,24,19,22,23,,29,23,23,26,,NBA
-33,33,240319006,2003,"Fri, Mar 19",Dallas Mavericks,Boston Celtics,"43-25, 30-5 Home","31-39, 16-19 Away",120,104,,,Final,,32,27,26,35,,14,32,28,30,,NBA
-34,34,240322020,2003,"Mon, Mar 22",Philadelphia 76ers,Dallas Mavericks,"29-42, 18-16 Home","44-26, 14-21 Away",107,98,,,Final,CSN,26,35,23,23,,23,34,17,24,,NBA
-35,35,240326014,2003,"Fri, Mar 26",Miami Heat,Dallas Mavericks,"35-37, 25-12 Home","44-28, 14-23 Away",119,118,,,Final/OT,,28,29,24,25,13.0,29,25,30,22,12.0,NBA
-36,36,240330006,2003,"Tue, Mar 30",Dallas Mavericks,Cleveland Cavaliers,"46-28, 31-5 Home","32-42, 11-26 Away",126,109,,,Final,,28,36,28,34,,32,28,25,24,,NBA
-37,37,240403006,2003,"Sat, Apr 3",Dallas Mavericks,Phoenix Suns,"48-28, 33-5 Home","26-51, 10-30 Away",124,103,,,Final,,31,34,25,34,,32,21,22,28,,NBA
-38,38,240408006,2003,"Thu, Apr 8",Dallas Mavericks,Utah Jazz,"50-28, 35-5 Home","41-38, 14-26 Away",117,94,,,Final,,35,27,30,25,,18,29,26,21,,NBA
-39,39,240411009,2003,"Sun, Apr 11",Golden State Warriors,Dallas Mavericks,"36-44, 26-14 Home","50-30, 15-25 Away",108,107,,,Final,,28,21,30,29,,33,23,30,21,,NBA
-40,40,231028013,2003,"Tue, Oct 28",Los Angeles Lakers,Dallas Mavericks,"1-0, 1-0 Home","0-1, 0-1 Away",109,93,,,Final,,29,26,31,23,,15,30,22,26,,NBA
-41,41,231101006,2003,"Sat, Nov 1",Dallas Mavericks,Utah Jazz,"2-1, 1-0 Home","1-1, 0-1 Away",127,102,,,Final,,29,27,41,30,,26,18,31,27,,NBA
-42,42,231105027,2003,"Wed, Nov 5",Washington Wizards,Dallas Mavericks,"2-2, 1-1 Home","3-2, 1-2 Away",100,90,,,Final,,30,29,22,19,,25,18,22,25,,NBA
-43,43,231108024,2003,"Sat, Nov 8",San Antonio Spurs,Dallas Mavericks,"3-4, 3-2 Home","4-3, 2-3 Away",78,81,,,Final,,21,23,23,11,,27,26,12,16,,NBA
-44,44,231113006,2003,"Thu, Nov 13",Dallas Mavericks,Houston Rockets,"6-3, 4-0 Home","5-2, 2-1 Away",97,86,,,Final,,20,30,31,16,,18,26,27,15,,NBA
-45,45,231117006,2003,"Mon, Nov 17",Dallas Mavericks,Portland Trail Blazers,"7-4, 5-0 Home","5-5, 0-4 Away",105,98,,,Final,,23,23,31,28,,24,26,24,24,,NBA
-46,46,231122006,2003,"Sat, Nov 22",Dallas Mavericks,Denver Nuggets,"9-4, 7-0 Home","7-6, 2-5 Away",115,101,,,Final,,32,22,32,29,,25,35,20,21,,NBA
-47,47,231126021,2003,"Wed, Nov 26",Phoenix Suns,Dallas Mavericks,"7-7, 6-3 Home","10-5, 2-5 Away",121,90,,,Final,,26,37,32,26,,23,24,23,20,,NBA
-48,48,231129006,2003,"Sat, Nov 29",Dallas Mavericks,Minnesota Timberwolves,"11-6, 9-0 Home","9-8, 5-4 Away",92,88,,,Final,,26,18,25,23,,29,19,20,20,,NBA
-49,49,231204006,2003,"Thu, Dec 4",Dallas Mavericks,Los Angeles Lakers,"12-7, 10-1 Home","16-3, 6-3 Away",103,114,,,Final,,20,22,30,31,,31,20,31,32,,NBA
-50,50,231210012,2003,"Wed, Dec 10",LA Clippers,Dallas Mavericks,"7-11, 5-5 Home","13-8, 2-7 Away",100,99,,,Final,,19,37,21,23,,39,21,22,17,,NBA
-51,51,231215006,2003,"Mon, Dec 15",Dallas Mavericks,Toronto Raptors,"15-8, 12-1 Home","13-11, 5-8 Away",111,94,,,Final,,28,18,31,34,,29,25,22,18,,NBA
-52,52,231218016,2003,"Thu, Dec 18",Minnesota Timberwolves,Dallas Mavericks,"16-9, 6-5 Home","15-10, 3-9 Away",114,109,,,Final,,29,30,25,30,,24,26,32,27,,NBA
-53,53,231223022,2003,"Tue, Dec 23",Portland Trail Blazers,Dallas Mavericks,"13-13, 13-4 Home","15-12, 3-10 Away",97,88,,,Final,,26,28,22,21,,24,23,20,21,,NBA
-54,54,231227006,2003,"Sat, Dec 27",Dallas Mavericks,Memphis Grizzlies,"17-12, 13-2 Home","15-15, 6-11 Away",104,98,,,Final,,34,24,30,16,,25,28,22,23,,NBA
-55,55,240102015,2003,"Fri, Jan 2",Milwaukee Bucks,Dallas Mavericks,"16-16, 11-4 Home","18-13, 4-11 Away",109,101,,,Final,,29,30,26,24,,29,27,25,20,,NBA
-56,56,240105026,2003,"Mon, Jan 5",Utah Jazz,Dallas Mavericks,"18-16, 14-3 Home","19-14, 4-12 Away",108,94,,,Final,,28,22,28,30,,24,24,18,28,,NBA
-57,57,240109006,2003,"Fri, Jan 9",Dallas Mavericks,Indiana Pacers,"20-15, 16-3 Home","28-10, 14-6 Away",80,92,,,Final,,26,20,17,17,,23,21,25,23,,NBA
-58,58,240112018,2003,"Mon, Jan 12",New York Knicks,Dallas Mavericks,"15-24, 9-11 Home","21-16, 5-13 Away",121,127,,,Final/OT,,25,29,32,29,6.0,34,34,33,14,12.0,NBA
-59,59,240116007,2003,"Fri, Jan 16",Denver Nuggets,Dallas Mavericks,"23-18, 15-7 Home","23-16, 6-13 Away",88,91,,,Final,,27,20,20,21,,28,19,24,20,,NBA
-60,60,240120006,2003,"Tue, Jan 20",Dallas Mavericks,New Jersey Nets,"25-16, 18-3 Home","21-18, 9-10 Away",106,93,,,Final,,27,27,28,24,,24,17,30,22,,NBA
-61,61,240123004,2003,"Fri, Jan 23",Chicago Bulls,Dallas Mavericks,"12-31, 7-16 Home","27-16, 8-13 Away",93,106,,,Final,,32,14,26,21,,28,26,30,22,,NBA
-62,62,240127025,2003,"Tue, Jan 27",Seattle SuperSonics,Dallas Mavericks,"22-21, 13-10 Home","29-16, 9-13 Away",116,118,,,Final,,26,35,27,28,,33,25,34,26,,NBA
-63,63,240131006,2003,"Sat, Jan 31",Dallas Mavericks,Denver Nuggets,"29-18, 20-4 Home","28-21, 10-13 Away",102,107,,,Final,,22,31,27,22,,21,16,36,34,,NBA
-64,64,240204003,2003,"Wed, Feb 4",New Orleans Hornets,Dallas Mavericks,"26-23, 14-11 Home","31-18, 10-14 Away",104,113,,,Final,,26,25,23,30,,21,27,33,32,,NBA
-65,65,240209001,2003,"Mon, Feb 9",Atlanta Hawks,Dallas Mavericks,"18-35, 11-16 Home","32-19, 10-15 Away",102,96,,,Final,,36,18,15,33,,29,21,22,24,,NBA
-66,66,240217029,2003,"Tue, Feb 17",Memphis Grizzlies,Dallas Mavericks,"31-22, 20-7 Home","33-20, 10-16 Away",109,92,,,Final,,21,33,27,28,,20,27,27,18,,NBA
-67,67,240221006,2003,"Sat, Feb 21",Dallas Mavericks,Houston Rockets,"35-20, 24-4 Home","31-23, 13-15 Away",97,88,,,Final,,16,31,31,19,,30,21,15,22,,NBA
-68,68,240226006,2003,"Thu, Feb 26",Dallas Mavericks,San Antonio Spurs,"37-20, 26-4 Home","38-20, 19-13 Away",115,91,,,Final,,23,25,46,21,,23,21,32,15,,NBA
-69,69,240302006,2003,"Tue, Mar 2",Dallas Mavericks,Seattle SuperSonics,"39-20, 28-4 Home","27-33, 11-17 Away",107,96,,,Final,,20,27,22,38,,25,20,26,25,,NBA
-70,70,240305024,2003,"Fri, Mar 5",San Antonio Spurs,Dallas Mavericks,"41-21, 22-8 Home","39-22, 11-18 Away",113,100,,,Final,,29,30,27,27,,18,15,27,40,,NBA
-71,71,240308006,2003,"Mon, Mar 8",Dallas Mavericks,Phoenix Suns,"40-23, 29-4 Home","21-43, 7-26 Away",103,90,,,Final,,27,29,23,24,,23,18,25,24,,NBA
-72,72,240313021,2003,"Sat, Mar 13",Phoenix Suns,Dallas Mavericks,"21-45, 14-19 Home","41-24, 12-20 Away",90,113,,,Final,,21,21,34,14,,38,32,24,19,,NBA
-73,73,240317006,2003,"Wed, Mar 17",Dallas Mavericks,Atlanta Hawks,"42-25, 29-5 Home","22-46, 8-27 Away",110,111,,,Final,,25,19,32,34,,40,29,21,21,,NBA
-74,74,240321017,2003,"Sun, Mar 21",New Jersey Nets,Dallas Mavericks,"41-28, 24-11 Home","44-25, 14-20 Away",98,101,,,Final,,25,20,29,24,,18,26,26,31,,NBA
-75,75,240324011,2003,"Wed, Mar 24",Indiana Pacers,Dallas Mavericks,"52-19, 28-7 Home","44-27, 14-22 Away",103,99,,,Final,,28,20,31,24,,30,25,19,25,,NBA
-76,76,240328019,2003,"Sun, Mar 28",Orlando Magic,Dallas Mavericks,"19-56, 10-27 Home","45-28, 15-23 Away",88,118,,,Final,,23,20,26,19,,28,34,26,30,,NBA
-77,77,240401006,2003,"Thu, Apr 1",Dallas Mavericks,Sacramento Kings,"47-28, 32-5 Home","52-23, 20-17 Away",127,117,,,Final,,30,37,34,26,,30,20,31,36,,NBA
-78,78,240406006,2003,"Tue, Apr 6",Dallas Mavericks,Seattle SuperSonics,"49-28, 34-5 Home","35-43, 15-24 Away",118,108,,,Final,,34,24,31,29,,21,30,28,29,,NBA
-79,79,240410025,2003,"Sat, Apr 10",Seattle SuperSonics,Dallas Mavericks,"36-44, 21-19 Home","50-29, 15-24 Away",119,99,,,Final,,28,38,25,28,,21,25,27,26,,NBA
-80,80,240413006,2003,"Tue, Apr 13",Dallas Mavericks,Memphis Grizzlies,"51-30, 36-5 Home","50-31, 19-22 Away",110,103,,,Final,,31,31,26,22,,18,28,28,29,,NBA
-81,81,240414010,2003,"Wed, Apr 14",Houston Rockets,Dallas Mavericks,"45-37, 27-14 Home","52-30, 16-25 Away",89,92,,,Final,,25,14,20,30,,26,21,21,24,,NBA
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+231029009,2003,"October 29, 2003",Golden State Warriors,Dallas Mavericks,"0-1, 0-1 Home","1-1, 1-1 Away",87,95,,,Final,,14,33,17,23,,22,27,17,29,,NBA
+231103006,2003,"November 03, 2003",Dallas Mavericks,Miami Heat,"3-1, 2-0 Home","0-4, 0-3 Away",103,93,,,Final,,25,23,26,29,,26,24,14,29,,NBA
+231106028,2003,"November 06, 2003",Toronto Raptors,Dallas Mavericks,"3-1, 3-0 Home","3-3, 1-3 Away",77,71,,,Final,,20,22,16,19,,22,18,17,14,,NBA
+231111006,2003,"November 11, 2003",Dallas Mavericks,New Orleans Hornets,"5-3, 3-0 Home","5-3, 2-2 Away",125,97,,,Final,,39,25,31,30,,24,30,16,27,,NBA
+231115029,2003,"November 15, 2003",Memphis Grizzlies,Dallas Mavericks,"5-4, 3-1 Home","6-4, 2-4 Away",108,101,,,Final/OT,,31,17,24,23,13.0,21,25,32,17,6.0,NBA
+231120006,2003,"November 20, 2003",Dallas Mavericks,San Antonio Spurs,"8-4, 6-0 Home","7-6, 2-4 Away",95,92,,,Final,,21,25,27,22,,25,22,17,28,,NBA
+231125006,2003,"November 25, 2003",Dallas Mavericks,Chicago Bulls,"10-4, 8-0 Home","4-11, 3-5 Away",124,98,,,Final,,36,25,41,22,,29,23,20,26,,NBA
+231128007,2003,"November 28, 2003",Denver Nuggets,Dallas Mavericks,"9-6, 7-1 Home","10-6, 2-6 Away",113,103,,,Final,,32,25,23,33,,24,29,24,26,,NBA
+231202006,2003,"December 02, 2003",Dallas Mavericks,Washington Wizards,"12-6, 10-0 Home","6-11, 3-7 Away",97,72,,,Final,,24,24,27,22,,17,20,21,14,,NBA
+231206006,2003,"December 06, 2003",Dallas Mavericks,Orlando Magic,"13-7, 11-1 Home","1-19, 1-8 Away",110,97,,,Final,,32,30,27,21,,32,24,20,21,,NBA
+231212013,2003,"December 12, 2003",Los Angeles Lakers,Dallas Mavericks,"18-4, 12-1 Home","14-8, 3-7 Away",93,110,,,Final,,19,33,21,20,,33,24,31,22,,NBA
+231217002,2003,"December 17, 2003",Boston Celtics,Dallas Mavericks,"13-13, 7-7 Home","15-9, 3-8 Away",105,103,,,Final,,24,32,21,28,,29,33,23,18,,NBA
+231220006,2003,"December 20, 2003",Dallas Mavericks,LA Clippers,"15-11, 12-2 Home","11-12, 3-7 Away",105,115,,,Final,,32,22,28,23,,31,30,30,24,,NBA
+231225023,2003,"December 25, 2003",Sacramento Kings,Dallas Mavericks,"20-7, 15-2 Home","16-12, 4-10 Away",103,111,,,Final,,36,24,24,19,,30,14,34,33,,NBA
+231230006,2003,"December 30, 2003",Dallas Mavericks,Milwaukee Bucks,"18-12, 14-2 Home","15-16, 5-12 Away",101,92,,,Final,,25,32,19,25,,19,18,34,21,,NBA
+240103006,2003,"January 03, 2004",Dallas Mavericks,Minnesota Timberwolves,"19-13, 15-2 Home","21-11, 12-6 Away",119,112,,,Final,,25,31,30,33,,30,24,26,32,,NBA
+240107006,2003,"January 07, 2004",Dallas Mavericks,Golden State Warriors,"20-14, 16-2 Home","14-20, 4-14 Away",105,99,,,Final,,23,34,26,22,,24,30,24,21,,NBA
+240111008,2003,"January 11, 2004",Detroit Pistons,Dallas Mavericks,"24-13, 15-5 Home","20-16, 4-13 Away",115,102,,,Final,,23,32,35,25,,30,25,22,25,,NBA
+240114006,2003,"January 14, 2004",Dallas Mavericks,Philadelphia 76ers,"22-16, 17-3 Home","18-21, 8-13 Away",125,122,,,Final/2OT,CSN,25,30,29,23,18.0,21,27,22,37,15.0,NBA
+240117022,2003,"January 17, 2004",Portland Trail Blazers,Dallas Mavericks,"16-22, 14-7 Home","24-16, 7-13 Away",104,108,,,Final,,34,34,18,18,,27,32,26,23,,NBA
+240122006,2003,"January 22, 2004",Dallas Mavericks,Los Angeles Lakers,"26-16, 19-3 Home","25-15, 6-12 Away",106,87,,,Final,,31,28,30,17,,22,24,23,18,,NBA
+240125006,2003,"January 25, 2004",Dallas Mavericks,Sacramento Kings,"28-16, 20-3 Home","30-12, 9-9 Away",108,99,,,Final,,25,25,26,32,,21,26,28,24,,NBA
+240128026,2003,"January 28, 2004",Utah Jazz,Dallas Mavericks,"23-22, 19-6 Home","29-17, 9-14 Away",91,88,,,Final,,24,25,13,29,,24,14,22,28,,NBA
+240203006,2003,"February 03, 2004",Dallas Mavericks,Golden State Warriors,"30-18, 21-4 Home","20-27, 5-20 Away",107,93,,,Final,,17,32,29,29,,24,22,20,27,,NBA
+240207006,2003,"February 07, 2004",Dallas Mavericks,Detroit Pistons,"32-18, 22-4 Home","33-19, 14-12 Away",111,108,,,Final,,26,29,23,33,,32,26,19,31,,NBA
+240210006,2003,"February 10, 2004",Dallas Mavericks,New York Knicks,"33-19, 23-4 Home","25-28, 10-15 Away",105,90,,,Final,,21,28,27,29,,27,17,25,21,,NBA
+240218005,2003,"February 18, 2004",Cleveland Cavaliers,Dallas Mavericks,"20-34, 14-13 Home","34-20, 11-16 Away",98,114,,,Final,,29,24,24,21,,27,36,32,19,,NBA
+240224006,2003,"February 24, 2004",Dallas Mavericks,LA Clippers,"36-20, 25-4 Home","24-31, 8-20 Away",116,91,,,Final,,36,29,27,24,,18,25,23,25,,NBA
+240228006,2003,"February 28, 2004",Dallas Mavericks,Portland Trail Blazers,"38-20, 27-4 Home","29-30, 11-20 Away",111,91,,,Final,,27,39,14,31,,21,27,22,21,,NBA
+240303016,2003,"March 03, 2004",Minnesota Timberwolves,Dallas Mavericks,"44-17, 24-7 Home","39-21, 11-17 Away",121,97,,,Final,,34,33,30,24,,23,39,16,19,,NBA
+240307010,2003,"March 07, 2004",Houston Rockets,Dallas Mavericks,"36-26, 22-10 Home","39-23, 11-19 Away",101,98,,,Final,,26,24,20,31,,26,21,21,30,,NBA
+240311023,2003,"March 11, 2004",Sacramento Kings,Dallas Mavericks,"48-16, 29-5 Home","40-24, 11-20 Away",120,102,,,Final,,37,27,24,32,,27,25,24,26,,NBA
+240314012,2003,"March 14, 2004",LA Clippers,Dallas Mavericks,"26-40, 18-15 Home","42-24, 13-20 Away",88,101,,,Final,,24,19,22,23,,29,23,23,26,,NBA
+240319006,2003,"March 19, 2004",Dallas Mavericks,Boston Celtics,"43-25, 30-5 Home","31-39, 16-19 Away",120,104,,,Final,,32,27,26,35,,14,32,28,30,,NBA
+240322020,2003,"March 22, 2004",Philadelphia 76ers,Dallas Mavericks,"29-42, 18-16 Home","44-26, 14-21 Away",107,98,,,Final,CSN,26,35,23,23,,23,34,17,24,,NBA
+240326014,2003,"March 26, 2004",Miami Heat,Dallas Mavericks,"35-37, 25-12 Home","44-28, 14-23 Away",119,118,,,Final/OT,,28,29,24,25,13.0,29,25,30,22,12.0,NBA
+240330006,2003,"March 30, 2004",Dallas Mavericks,Cleveland Cavaliers,"46-28, 31-5 Home","32-42, 11-26 Away",126,109,,,Final,,28,36,28,34,,32,28,25,24,,NBA
+240403006,2003,"April 03, 2004",Dallas Mavericks,Phoenix Suns,"48-28, 33-5 Home","26-51, 10-30 Away",124,103,,,Final,,31,34,25,34,,32,21,22,28,,NBA
+240408006,2003,"April 08, 2004",Dallas Mavericks,Utah Jazz,"50-28, 35-5 Home","41-38, 14-26 Away",117,94,,,Final,,35,27,30,25,,18,29,26,21,,NBA
+240411009,2003,"April 11, 2004",Golden State Warriors,Dallas Mavericks,"36-44, 26-14 Home","50-30, 15-25 Away",108,107,,,Final,,28,21,30,29,,33,23,30,21,,NBA
+231028013,2003,"October 28, 2003",Los Angeles Lakers,Dallas Mavericks,"1-0, 1-0 Home","0-1, 0-1 Away",109,93,,,Final,,29,26,31,23,,15,30,22,26,,NBA
+231101006,2003,"November 01, 2003",Dallas Mavericks,Utah Jazz,"2-1, 1-0 Home","1-1, 0-1 Away",127,102,,,Final,,29,27,41,30,,26,18,31,27,,NBA
+231105027,2003,"November 05, 2003",Washington Wizards,Dallas Mavericks,"2-2, 1-1 Home","3-2, 1-2 Away",100,90,,,Final,,30,29,22,19,,25,18,22,25,,NBA
+231108024,2003,"November 08, 2003",San Antonio Spurs,Dallas Mavericks,"3-4, 3-2 Home","4-3, 2-3 Away",78,81,,,Final,,21,23,23,11,,27,26,12,16,,NBA
+231113006,2003,"November 13, 2003",Dallas Mavericks,Houston Rockets,"6-3, 4-0 Home","5-2, 2-1 Away",97,86,,,Final,,20,30,31,16,,18,26,27,15,,NBA
+231117006,2003,"November 17, 2003",Dallas Mavericks,Portland Trail Blazers,"7-4, 5-0 Home","5-5, 0-4 Away",105,98,,,Final,,23,23,31,28,,24,26,24,24,,NBA
+231122006,2003,"November 22, 2003",Dallas Mavericks,Denver Nuggets,"9-4, 7-0 Home","7-6, 2-5 Away",115,101,,,Final,,32,22,32,29,,25,35,20,21,,NBA
+231126021,2003,"November 26, 2003",Phoenix Suns,Dallas Mavericks,"7-7, 6-3 Home","10-5, 2-5 Away",121,90,,,Final,,26,37,32,26,,23,24,23,20,,NBA
+231129006,2003,"November 29, 2003",Dallas Mavericks,Minnesota Timberwolves,"11-6, 9-0 Home","9-8, 5-4 Away",92,88,,,Final,,26,18,25,23,,29,19,20,20,,NBA
+231204006,2003,"December 04, 2003",Dallas Mavericks,Los Angeles Lakers,"12-7, 10-1 Home","16-3, 6-3 Away",103,114,,,Final,,20,22,30,31,,31,20,31,32,,NBA
+231210012,2003,"December 10, 2003",LA Clippers,Dallas Mavericks,"7-11, 5-5 Home","13-8, 2-7 Away",100,99,,,Final,,19,37,21,23,,39,21,22,17,,NBA
+231215006,2003,"December 15, 2003",Dallas Mavericks,Toronto Raptors,"15-8, 12-1 Home","13-11, 5-8 Away",111,94,,,Final,,28,18,31,34,,29,25,22,18,,NBA
+231218016,2003,"December 18, 2003",Minnesota Timberwolves,Dallas Mavericks,"16-9, 6-5 Home","15-10, 3-9 Away",114,109,,,Final,,29,30,25,30,,24,26,32,27,,NBA
+231223022,2003,"December 23, 2003",Portland Trail Blazers,Dallas Mavericks,"13-13, 13-4 Home","15-12, 3-10 Away",97,88,,,Final,,26,28,22,21,,24,23,20,21,,NBA
+231227006,2003,"December 27, 2003",Dallas Mavericks,Memphis Grizzlies,"17-12, 13-2 Home","15-15, 6-11 Away",104,98,,,Final,,34,24,30,16,,25,28,22,23,,NBA
+240102015,2003,"January 02, 2004",Milwaukee Bucks,Dallas Mavericks,"16-16, 11-4 Home","18-13, 4-11 Away",109,101,,,Final,,29,30,26,24,,29,27,25,20,,NBA
+240105026,2003,"January 05, 2004",Utah Jazz,Dallas Mavericks,"18-16, 14-3 Home","19-14, 4-12 Away",108,94,,,Final,,28,22,28,30,,24,24,18,28,,NBA
+240109006,2003,"January 09, 2004",Dallas Mavericks,Indiana Pacers,"20-15, 16-3 Home","28-10, 14-6 Away",80,92,,,Final,,26,20,17,17,,23,21,25,23,,NBA
+240112018,2003,"January 12, 2004",New York Knicks,Dallas Mavericks,"15-24, 9-11 Home","21-16, 5-13 Away",121,127,,,Final/OT,,25,29,32,29,6.0,34,34,33,14,12.0,NBA
+240116007,2003,"January 16, 2004",Denver Nuggets,Dallas Mavericks,"23-18, 15-7 Home","23-16, 6-13 Away",88,91,,,Final,,27,20,20,21,,28,19,24,20,,NBA
+240120006,2003,"January 20, 2004",Dallas Mavericks,New Jersey Nets,"25-16, 18-3 Home","21-18, 9-10 Away",106,93,,,Final,,27,27,28,24,,24,17,30,22,,NBA
+240123004,2003,"January 23, 2004",Chicago Bulls,Dallas Mavericks,"12-31, 7-16 Home","27-16, 8-13 Away",93,106,,,Final,,32,14,26,21,,28,26,30,22,,NBA
+240127025,2003,"January 27, 2004",Seattle SuperSonics,Dallas Mavericks,"22-21, 13-10 Home","29-16, 9-13 Away",116,118,,,Final,,26,35,27,28,,33,25,34,26,,NBA
+240131006,2003,"January 31, 2004",Dallas Mavericks,Denver Nuggets,"29-18, 20-4 Home","28-21, 10-13 Away",102,107,,,Final,,22,31,27,22,,21,16,36,34,,NBA
+240204003,2003,"February 04, 2004",New Orleans Hornets,Dallas Mavericks,"26-23, 14-11 Home","31-18, 10-14 Away",104,113,,,Final,,26,25,23,30,,21,27,33,32,,NBA
+240209001,2003,"February 09, 2004",Atlanta Hawks,Dallas Mavericks,"18-35, 11-16 Home","32-19, 10-15 Away",102,96,,,Final,,36,18,15,33,,29,21,22,24,,NBA
+240217029,2003,"February 17, 2004",Memphis Grizzlies,Dallas Mavericks,"31-22, 20-7 Home","33-20, 10-16 Away",109,92,,,Final,,21,33,27,28,,20,27,27,18,,NBA
+240221006,2003,"February 21, 2004",Dallas Mavericks,Houston Rockets,"35-20, 24-4 Home","31-23, 13-15 Away",97,88,,,Final,,16,31,31,19,,30,21,15,22,,NBA
+240226006,2003,"February 26, 2004",Dallas Mavericks,San Antonio Spurs,"37-20, 26-4 Home","38-20, 19-13 Away",115,91,,,Final,,23,25,46,21,,23,21,32,15,,NBA
+240302006,2003,"March 02, 2004",Dallas Mavericks,Seattle SuperSonics,"39-20, 28-4 Home","27-33, 11-17 Away",107,96,,,Final,,20,27,22,38,,25,20,26,25,,NBA
+240305024,2003,"March 05, 2004",San Antonio Spurs,Dallas Mavericks,"41-21, 22-8 Home","39-22, 11-18 Away",113,100,,,Final,,29,30,27,27,,18,15,27,40,,NBA
+240308006,2003,"March 08, 2004",Dallas Mavericks,Phoenix Suns,"40-23, 29-4 Home","21-43, 7-26 Away",103,90,,,Final,,27,29,23,24,,23,18,25,24,,NBA
+240313021,2003,"March 13, 2004",Phoenix Suns,Dallas Mavericks,"21-45, 14-19 Home","41-24, 12-20 Away",90,113,,,Final,,21,21,34,14,,38,32,24,19,,NBA
+240317006,2003,"March 17, 2004",Dallas Mavericks,Atlanta Hawks,"42-25, 29-5 Home","22-46, 8-27 Away",110,111,,,Final,,25,19,32,34,,40,29,21,21,,NBA
+240321017,2003,"March 21, 2004",New Jersey Nets,Dallas Mavericks,"41-28, 24-11 Home","44-25, 14-20 Away",98,101,,,Final,,25,20,29,24,,18,26,26,31,,NBA
+240324011,2003,"March 24, 2004",Indiana Pacers,Dallas Mavericks,"52-19, 28-7 Home","44-27, 14-22 Away",103,99,,,Final,,28,20,31,24,,30,25,19,25,,NBA
+240328019,2003,"March 28, 2004",Orlando Magic,Dallas Mavericks,"19-56, 10-27 Home","45-28, 15-23 Away",88,118,,,Final,,23,20,26,19,,28,34,26,30,,NBA
+240401006,2003,"April 01, 2004",Dallas Mavericks,Sacramento Kings,"47-28, 32-5 Home","52-23, 20-17 Away",127,117,,,Final,,30,37,34,26,,30,20,31,36,,NBA
+240406006,2003,"April 06, 2004",Dallas Mavericks,Seattle SuperSonics,"49-28, 34-5 Home","35-43, 15-24 Away",118,108,,,Final,,34,24,31,29,,21,30,28,29,,NBA
+240410025,2003,"April 10, 2004",Seattle SuperSonics,Dallas Mavericks,"36-44, 21-19 Home","50-29, 15-24 Away",119,99,,,Final,,28,38,25,28,,21,25,27,26,,NBA
+240413006,2003,"April 13, 2004",Dallas Mavericks,Memphis Grizzlies,"51-30, 36-5 Home","50-31, 19-22 Away",110,103,,,Final,,31,31,26,22,,18,28,28,29,,NBA
+240414010,2003,"April 14, 2004",Houston Rockets,Dallas Mavericks,"45-37, 27-14 Home","52-30, 16-25 Away",89,92,,,Final,,25,14,20,30,,26,21,21,24,,NBA

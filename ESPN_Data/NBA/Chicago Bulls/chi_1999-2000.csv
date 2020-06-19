@@ -1,81 +1,81 @@
-,Unnamed: 0,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-0,0,191105004,1999,"Fri, Nov 5",Chicago Bulls,Miami Heat,"0-2, 0-2 Home","2-1, 1-1 Away",87,105,,,Final,,15,17,28,27,,31,24,29,21,,NBA
-1,1,191109004,1999,"Tue, Nov 9",Chicago Bulls,Phoenix Suns,"0-4, 0-3 Home","3-1, 1-1 Away",80,103,,,Final,,26,21,18,15,,33,31,23,16,,NBA
-2,2,191113004,1999,"Sat, Nov 13",Chicago Bulls,Boston Celtics,"1-5, 1-3 Home","4-3, 1-2 Away",92,91,,,Final,,15,26,24,27,,23,20,26,22,,NBA
-3,3,191117021,1999,"Wed, Nov 17",Phoenix Suns,Chicago Bulls,"5-4, 3-1 Home","1-7, 0-4 Away",105,81,,,Final,,34,27,21,23,,26,24,11,20,,NBA
-4,4,191120007,1999,"Sat, Nov 20",Denver Nuggets,Chicago Bulls,"4-5, 4-2 Home","1-9, 0-6 Away",95,86,,,Final,,22,19,33,21,,28,19,18,21,,NBA
-5,5,191126024,1999,"Fri, Nov 26",San Antonio Spurs,Chicago Bulls,"11-3, 6-0 Home","1-11, 0-8 Away",101,78,,,Final,,21,27,23,30,,17,15,28,18,,NBA
-6,6,191202004,1999,"Thu, Dec 2",Chicago Bulls,Dallas Mavericks,"1-13, 1-4 Home","6-11, 2-9 Away",95,101,,,Final,,21,16,24,34,,32,23,25,21,,NBA
-7,7,191208005,1999,"Wed, Dec 8",Cleveland Cavaliers,Chicago Bulls,"9-8, 7-3 Home","1-15, 0-10 Away",107,93,,,Final,,27,31,21,28,,27,15,25,26,,NBA
-8,8,191211019,1999,"Sat, Dec 11",Orlando Magic,Chicago Bulls,"10-10, 4-4 Home","2-16, 0-11 Away",108,87,,,Final,,20,36,31,21,,26,26,23,12,,NBA
-9,9,191217020,1999,"Fri, Dec 17",Philadelphia 76ers,Chicago Bulls,"13-12, 8-6 Home","2-18, 0-13 Away",77,74,,,Final,CSN,23,25,14,15,,19,20,24,11,,NBA
-10,10,191220004,1999,"Mon, Dec 20",Chicago Bulls,Seattle SuperSonics,"2-20, 2-7 Home","18-7, 8-4 Away",84,93,,,Final,,23,30,19,12,,30,27,14,22,,NBA
-11,11,191226017,1999,"Sun, Dec 26",New Jersey Nets,Chicago Bulls,"10-18, 8-8 Home","2-22, 0-14 Away",103,76,,,Final,,32,23,25,23,,18,16,22,20,,NBA
-12,12,191229004,1999,"Wed, Dec 29",Chicago Bulls,Detroit Pistons,"2-24, 2-10 Home","14-14, 5-10 Away",77,91,,,Final,,19,12,21,25,,18,24,28,21,,NBA
-13,13,200103004,1999,"Mon, Jan 3",Chicago Bulls,Portland Trail Blazers,"2-26, 2-11 Home","23-7, 13-4 Away",63,88,,,Final,,12,16,13,22,,24,23,22,19,,NBA
-14,14,200107027,1999,"Fri, Jan 7",Washington Wizards,Chicago Bulls,"11-22, 6-10 Home","4-26, 1-15 Away",103,110,,,Final,,30,28,15,30,,24,25,28,33,,NBA
-15,15,200111018,1999,"Tue, Jan 11",New York Knicks,Chicago Bulls,"21-13, 11-4 Home","5-27, 1-16 Away",95,88,,,Final,,24,28,28,15,,17,21,17,33,,NBA
-16,16,200115004,1999,"Sat, Jan 15",Chicago Bulls,Houston Rockets,"5-29, 4-13 Home","12-24, 6-13 Away",90,93,,,Final,,22,19,22,27,,37,18,10,28,,NBA
-17,17,200119004,1999,"Wed, Jan 19",Chicago Bulls,Charlotte Hornets,"6-30, 4-14 Home","20-17, 6-15 Away",86,96,,,Final,,15,28,16,27,,29,24,19,24,,NBA
-18,18,200124004,1999,"Mon, Jan 24",Chicago Bulls,Indiana Pacers,"8-30, 6-14 Home","26-15, 10-13 Away",83,82,,,Final,,17,20,29,17,,27,24,14,17,,NBA
-19,19,200128004,1999,"Fri, Jan 28",Chicago Bulls,Sacramento Kings,"8-32, 6-15 Home","27-14, 10-11 Away",90,102,,,Final,,28,20,21,21,,25,22,31,24,,NBA
-20,20,200201022,1999,"Tue, Feb 1",Portland Trail Blazers,Chicago Bulls,"34-10, 17-3 Home","8-34, 2-18 Away",92,81,,,Final,,27,24,21,20,,21,20,19,21,,NBA
-21,21,200204029,1999,"Fri, Feb 4",Vancouver Grizzlies,Chicago Bulls,"13-32, 7-17 Home","9-35, 3-19 Away",101,76,,,Final,,37,21,28,15,,20,24,17,15,,NBA
-22,22,200208023,1999,"Tue, Feb 8",Sacramento Kings,Chicago Bulls,"29-18, 18-3 Home","10-36, 4-20 Away",119,80,,,Final,,35,27,34,23,,25,22,18,15,,NBA
-23,23,200215004,1999,"Tue, Feb 15",Chicago Bulls,Los Angeles Lakers,"10-38, 6-17 Home","38-11, 15-7 Away",76,88,,,Final,,18,21,18,19,,22,14,22,30,,NBA
-24,24,200219004,1999,"Sat, Feb 19",Chicago Bulls,Los Angeles Clippers,"12-38, 8-17 Home","11-42, 3-26 Away",74,72,,,Final,,23,17,14,20,,18,20,20,14,,NBA
-25,25,200224011,1999,"Thu, Feb 24",Indiana Pacers,Chicago Bulls,"37-17, 24-2 Home","12-40, 4-22 Away",100,83,,,Final,,22,23,26,29,,30,14,21,18,,NBA
-26,26,200227008,1999,"Sun, Feb 27",Detroit Pistons,Chicago Bulls,"28-27, 20-8 Home","12-42, 4-23 Away",93,90,,,Final,,32,21,23,17,,27,25,20,18,,NBA
-27,27,200302004,1999,"Thu, Mar 2",Chicago Bulls,Cleveland Cavaliers,"12-44, 8-20 Home","23-34, 5-23 Away",110,114,,,Final/OT,,29,27,31,16,7.0,35,20,33,15,11.0,NBA
-28,28,200305003,1999,"Sun, Mar 5",Charlotte Hornets,Chicago Bulls,"32-27, 23-8 Home","12-46, 4-25 Away",100,94,,,Final,,26,24,23,27,,21,28,25,20,,NBA
-29,29,200308019,1999,"Wed, Mar 8",Orlando Magic,Chicago Bulls,"29-32, 16-13 Home","13-47, 4-26 Away",103,67,,,Final,,30,23,23,27,,16,20,11,20,,NBA
-30,30,200313004,1999,"Mon, Mar 13",Chicago Bulls,Utah Jazz,"13-49, 9-22 Home","42-20, 17-12 Away",79,87,,,Final,,26,22,11,20,,26,15,23,23,,NBA
-31,31,200317004,1999,"Fri, Mar 17",Chicago Bulls,Golden State Warriors,"13-51, 9-23 Home","17-48, 7-26 Away",92,95,,,Final/2OT,,22,16,16,21,17.0,17,21,24,13,20.0,NBA
-32,32,200320004,1999,"Mon, Mar 20",Chicago Bulls,Orlando Magic,"13-53, 9-24 Home","32-36, 14-23 Away",86,88,,,Final/OT,,11,19,33,18,5.0,21,19,24,17,7.0,NBA
-33,33,200324004,1999,"Fri, Mar 24",Chicago Bulls,Denver Nuggets,"14-54, 10-24 Home","27-42, 6-28 Away",70,68,,,Final,,19,16,17,18,,19,16,17,16,,NBA
-34,34,200329004,1999,"Wed, Mar 29",Chicago Bulls,Cleveland Cavaliers,"14-56, 10-25 Home","28-43, 9-27 Away",81,86,,,Final,,24,13,18,26,,22,22,16,26,,NBA
-35,35,200401004,1999,"Sat, Apr 1",Chicago Bulls,Charlotte Hornets,"14-58, 10-26 Home","41-31, 15-21 Away",87,90,,,Final,,20,23,17,27,,21,18,32,19,,NBA
-36,36,200404015,1999,"Tue, Apr 4",Milwaukee Bucks,Chicago Bulls,"36-38, 20-17 Home","15-59, 5-33 Away",92,73,,,Final,,24,27,27,14,,18,15,17,23,,NBA
-37,37,200408004,1999,"Sat, Apr 8",Chicago Bulls,Toronto Raptors,"16-60, 11-27 Home","42-34, 19-19 Away",79,98,,,Final,,20,13,28,18,,29,26,25,18,,NBA
-38,38,200413004,1999,"Thu, Apr 13",Chicago Bulls,Washington Wizards,"17-61, 12-28 Home","29-50, 12-28 Away",103,109,,,Final,,19,33,28,23,,24,34,30,21,,NBA
-39,39,191103004,1999,"Wed, Nov 3",Chicago Bulls,New York Knicks,"0-1, 0-1 Home","2-0, 1-0 Away",74,84,,,Final,,18,12,25,19,,18,14,30,22,,NBA
-40,40,191106001,1999,"Sat, Nov 6",Atlanta Hawks,Chicago Bulls,"1-2, 1-1 Home","0-3, 0-1 Away",113,97,,,Final,,26,35,31,21,,25,24,19,29,,NBA
-41,41,191112020,1999,"Fri, Nov 12",Philadelphia 76ers,Chicago Bulls,"2-4, 2-0 Home","0-5, 0-2 Away",92,86,,,Final,CSN,25,22,26,19,,25,25,13,23,,NBA
-42,42,191116009,1999,"Tue, Nov 16",Golden State Warriors,Chicago Bulls,"2-5, 1-3 Home","1-6, 0-3 Away",99,79,,,Final,,24,29,24,22,,19,14,17,29,,NBA
-43,43,191119013,1999,"Fri, Nov 19",Los Angeles Lakers,Chicago Bulls,"8-3, 4-1 Home","1-8, 0-5 Away",103,95,,,Final,,30,19,29,25,,21,19,23,32,,NBA
-44,44,191124015,1999,"Wed, Nov 24",Milwaukee Bucks,Chicago Bulls,"7-5, 5-1 Home","1-10, 0-7 Away",102,95,,,Final,,24,23,28,27,,15,30,35,15,,NBA
-45,45,191127006,1999,"Sat, Nov 27",Dallas Mavericks,Chicago Bulls,"5-9, 4-2 Home","1-12, 0-9 Away",95,83,,,Final,,24,23,22,26,,20,26,10,27,,NBA
-46,46,191204004,1999,"Sat, Dec 4",Chicago Bulls,Milwaukee Bucks,"1-14, 1-5 Home","9-7, 4-4 Away",91,92,,,Final,,17,24,30,20,,28,25,25,14,,NBA
-47,47,191210004,1999,"Fri, Dec 10",Chicago Bulls,New Jersey Nets,"2-15, 2-5 Home","4-16, 1-8 Away",71,69,,,Final,,22,19,15,15,,21,18,21,9,,NBA
-48,48,191215011,1999,"Wed, Dec 15",Indiana Pacers,Chicago Bulls,"14-8, 8-2 Home","2-17, 0-12 Away",102,91,,,Final,,34,26,22,20,,22,21,22,26,,NBA
-49,49,191218004,1999,"Sat, Dec 18",Chicago Bulls,Orlando Magic,"2-19, 2-6 Home","12-11, 7-6 Away",74,83,,,Final,,20,17,16,21,,24,14,25,20,,NBA
-50,50,191222004,1999,"Wed, Dec 22",Chicago Bulls,Minnesota Timberwolves,"2-21, 2-8 Home","10-13, 4-7 Away",86,106,,,Final,,19,22,16,29,,31,16,36,23,,NBA
-51,51,191227004,1999,"Mon, Dec 27",Chicago Bulls,Indiana Pacers,"2-23, 2-9 Home","18-9, 7-7 Away",91,103,,,Final,,16,24,29,22,,34,23,27,19,,NBA
-52,52,191230016,1999,"Thu, Dec 30",Minnesota Timberwolves,Chicago Bulls,"13-14, 8-6 Home","2-25, 0-15 Away",94,76,,,Final,,32,22,20,20,,19,18,19,20,,NBA
-53,53,200105004,1999,"Wed, Jan 5",Chicago Bulls,Washington Wizards,"3-26, 3-11 Home","11-21, 5-12 Away",77,66,,,Final,,29,21,16,11,,18,18,16,14,,NBA
-54,54,200108004,1999,"Sat, Jan 8",Chicago Bulls,Boston Celtics,"5-26, 4-11 Home","14-18, 2-13 Away",96,79,,,Final,,19,25,23,29,,15,19,23,22,,NBA
-55,55,200114004,1999,"Fri, Jan 14",Chicago Bulls,Atlanta Hawks,"5-28, 4-12 Home","13-21, 3-14 Away",83,89,,,Final,,17,27,13,26,,20,19,26,24,,NBA
-56,56,200118014,1999,"Tue, Jan 18",Miami Heat,Chicago Bulls,"24-13, 12-6 Home","6-29, 2-16 Away",85,92,,,Final/OT,,20,18,22,20,5.0,12,23,15,30,12.0,NBA
-57,57,200122004,1999,"Sat, Jan 22",Chicago Bulls,Detroit Pistons,"7-30, 5-14 Home","21-18, 8-13 Away",98,92,,,Final,,27,15,25,31,,25,22,25,20,,NBA
-58,58,200125001,1999,"Tue, Jan 25",Atlanta Hawks,Chicago Bulls,"15-25, 12-9 Home","8-31, 2-17 Away",96,89,,,Final,,18,19,27,32,,19,27,18,25,,NBA
-59,59,200129004,1999,"Sat, Jan 29",Chicago Bulls,Toronto Raptors,"8-33, 6-16 Home","24-19, 9-11 Away",89,106,,,Final,,21,17,24,27,,20,26,36,24,,NBA
-60,60,200202025,1999,"Wed, Feb 2",Seattle SuperSonics,Chicago Bulls,"29-18, 14-8 Home","9-34, 3-18 Away",81,88,,,Final,,25,15,22,19,,23,17,17,31,,NBA
-61,61,200206012,1999,"Sun, Feb 6",Los Angeles Clippers,Chicago Bulls,"11-36, 8-15 Home","10-35, 4-19 Away",90,100,,,Final,,29,19,15,27,,13,32,27,28,,NBA
-62,62,200209026,1999,"Wed, Feb 9",Utah Jazz,Chicago Bulls,"29-18, 18-7 Home","10-37, 4-21 Away",113,86,,,Final,,32,31,28,22,,32,21,17,16,,NBA
-63,63,200217004,1999,"Thu, Feb 17",Chicago Bulls,Miami Heat,"11-38, 7-17 Home","31-18, 13-12 Away",83,76,,,Final,,16,21,18,28,,23,17,13,23,,NBA
-64,64,200222004,1999,"Tue, Feb 22",Chicago Bulls,Vancouver Grizzlies,"12-39, 8-18 Home","17-36, 9-18 Away",81,85,,,Final,,21,23,20,17,,28,19,21,17,,NBA
-65,65,200225004,1999,"Fri, Feb 25",Chicago Bulls,San Antonio Spurs,"12-41, 8-19 Home","36-19, 15-14 Away",78,91,,,Final,,23,15,20,20,,22,22,19,28,,NBA
-66,66,200229028,1999,"Tue, Feb 29",Toronto Raptors,Chicago Bulls,"30-25, 19-11 Home","12-43, 4-24 Away",87,80,,,Final,,16,26,21,24,,14,28,18,20,,NBA
-67,67,200304004,1999,"Sat, Mar 4",Chicago Bulls,Philadelphia 76ers,"12-45, 8-21 Home","33-25, 13-15 Away",84,95,,,Final,,27,21,15,21,,24,24,26,21,,NBA
-68,68,200307004,1999,"Tue, Mar 7",Chicago Bulls,Atlanta Hawks,"13-46, 9-21 Home","23-36, 7-24 Away",89,82,,,Final,,20,30,16,23,,22,26,19,15,,NBA
-69,69,200310002,1999,"Fri, Mar 10",Boston Celtics,Chicago Bulls,"26-35, 20-11 Home","13-48, 4-27 Away",104,74,,,Final,,31,31,23,19,,20,21,16,17,,NBA
-70,70,200315003,1999,"Wed, Mar 15",Charlotte Hornets,Chicago Bulls,"35-28, 24-8 Home","13-50, 4-28 Away",77,74,,,Final,,26,18,19,14,,17,23,15,19,,NBA
-71,71,200318027,1999,"Sat, Mar 18",Washington Wizards,Chicago Bulls,"22-45, 15-20 Home","13-52, 4-29 Away",101,88,,,Final,,25,21,25,30,,21,22,22,23,,NBA
-72,72,200322018,1999,"Wed, Mar 22",New York Knicks,Chicago Bulls,"41-26, 28-8 Home","13-54, 4-30 Away",78,67,,,Final,,25,22,14,17,,15,26,14,12,,NBA
-73,73,200326010,1999,"Sun, Mar 26",Houston Rockets,Chicago Bulls,"26-44, 18-17 Home","14-55, 4-31 Away",123,78,,,Final,,27,33,42,21,,13,21,19,25,,NBA
-74,74,200330014,1999,"Thu, Mar 30",Miami Heat,Chicago Bulls,"45-26, 27-7 Home","14-57, 4-32 Away",105,80,,,Final,,29,24,23,29,,19,20,22,19,,NBA
-75,75,200402005,1999,"Sun, Apr 2",Cleveland Cavaliers,Chicago Bulls,"29-44, 20-17 Home","15-58, 5-32 Away",74,83,,,Final,,16,24,22,12,,20,23,16,24,,NBA
-76,76,200406004,1999,"Thu, Apr 6",Chicago Bulls,Milwaukee Bucks,"16-59, 11-26 Home","36-39, 16-22 Away",90,88,,,Final,,27,19,24,20,,23,19,22,24,,NBA
-77,77,200411004,1999,"Tue, Apr 11",Chicago Bulls,New Jersey Nets,"17-60, 12-27 Home","31-47, 9-30 Away",100,93,,,Final,,24,30,27,19,,22,23,22,26,,NBA
-78,78,200414002,1999,"Fri, Apr 14",Boston Celtics,Chicago Bulls,"33-46, 25-14 Home","17-62, 5-34 Away",106,91,,,Final,,27,24,35,20,,15,27,25,24,,NBA
-79,79,200416028,1999,"Sun, Apr 16",Toronto Raptors,Chicago Bulls,"45-35, 26-15 Home","17-63, 5-35 Away",85,84,,,Final,,14,27,20,24,,25,26,16,17,,NBA
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+191105004,1999,"November 05, 1999",Chicago Bulls,Miami Heat,"0-2, 0-2 Home","2-1, 1-1 Away",87,105,,,Final,,15,17,28,27,,31,24,29,21,,NBA
+191109004,1999,"November 09, 1999",Chicago Bulls,Phoenix Suns,"0-4, 0-3 Home","3-1, 1-1 Away",80,103,,,Final,,26,21,18,15,,33,31,23,16,,NBA
+191113004,1999,"November 13, 1999",Chicago Bulls,Boston Celtics,"1-5, 1-3 Home","4-3, 1-2 Away",92,91,,,Final,,15,26,24,27,,23,20,26,22,,NBA
+191117021,1999,"November 17, 1999",Phoenix Suns,Chicago Bulls,"5-4, 3-1 Home","1-7, 0-4 Away",105,81,,,Final,,34,27,21,23,,26,24,11,20,,NBA
+191120007,1999,"November 20, 1999",Denver Nuggets,Chicago Bulls,"4-5, 4-2 Home","1-9, 0-6 Away",95,86,,,Final,,22,19,33,21,,28,19,18,21,,NBA
+191126024,1999,"November 26, 1999",San Antonio Spurs,Chicago Bulls,"11-3, 6-0 Home","1-11, 0-8 Away",101,78,,,Final,,21,27,23,30,,17,15,28,18,,NBA
+191202004,1999,"December 02, 1999",Chicago Bulls,Dallas Mavericks,"1-13, 1-4 Home","6-11, 2-9 Away",95,101,,,Final,,21,16,24,34,,32,23,25,21,,NBA
+191208005,1999,"December 08, 1999",Cleveland Cavaliers,Chicago Bulls,"9-8, 7-3 Home","1-15, 0-10 Away",107,93,,,Final,,27,31,21,28,,27,15,25,26,,NBA
+191211019,1999,"December 11, 1999",Orlando Magic,Chicago Bulls,"10-10, 4-4 Home","2-16, 0-11 Away",108,87,,,Final,,20,36,31,21,,26,26,23,12,,NBA
+191217020,1999,"December 17, 1999",Philadelphia 76ers,Chicago Bulls,"13-12, 8-6 Home","2-18, 0-13 Away",77,74,,,Final,CSN,23,25,14,15,,19,20,24,11,,NBA
+191220004,1999,"December 20, 1999",Chicago Bulls,Seattle SuperSonics,"2-20, 2-7 Home","18-7, 8-4 Away",84,93,,,Final,,23,30,19,12,,30,27,14,22,,NBA
+191226017,1999,"December 26, 1999",New Jersey Nets,Chicago Bulls,"10-18, 8-8 Home","2-22, 0-14 Away",103,76,,,Final,,32,23,25,23,,18,16,22,20,,NBA
+191229004,1999,"December 29, 1999",Chicago Bulls,Detroit Pistons,"2-24, 2-10 Home","14-14, 5-10 Away",77,91,,,Final,,19,12,21,25,,18,24,28,21,,NBA
+200103004,1999,"January 03, 2000",Chicago Bulls,Portland Trail Blazers,"2-26, 2-11 Home","23-7, 13-4 Away",63,88,,,Final,,12,16,13,22,,24,23,22,19,,NBA
+200107027,1999,"January 07, 2000",Washington Wizards,Chicago Bulls,"11-22, 6-10 Home","4-26, 1-15 Away",103,110,,,Final,,30,28,15,30,,24,25,28,33,,NBA
+200111018,1999,"January 11, 2000",New York Knicks,Chicago Bulls,"21-13, 11-4 Home","5-27, 1-16 Away",95,88,,,Final,,24,28,28,15,,17,21,17,33,,NBA
+200115004,1999,"January 15, 2000",Chicago Bulls,Houston Rockets,"5-29, 4-13 Home","12-24, 6-13 Away",90,93,,,Final,,22,19,22,27,,37,18,10,28,,NBA
+200119004,1999,"January 19, 2000",Chicago Bulls,Charlotte Hornets,"6-30, 4-14 Home","20-17, 6-15 Away",86,96,,,Final,,15,28,16,27,,29,24,19,24,,NBA
+200124004,1999,"January 24, 2000",Chicago Bulls,Indiana Pacers,"8-30, 6-14 Home","26-15, 10-13 Away",83,82,,,Final,,17,20,29,17,,27,24,14,17,,NBA
+200128004,1999,"January 28, 2000",Chicago Bulls,Sacramento Kings,"8-32, 6-15 Home","27-14, 10-11 Away",90,102,,,Final,,28,20,21,21,,25,22,31,24,,NBA
+200201022,1999,"February 01, 2000",Portland Trail Blazers,Chicago Bulls,"34-10, 17-3 Home","8-34, 2-18 Away",92,81,,,Final,,27,24,21,20,,21,20,19,21,,NBA
+200204029,1999,"February 04, 2000",Vancouver Grizzlies,Chicago Bulls,"13-32, 7-17 Home","9-35, 3-19 Away",101,76,,,Final,,37,21,28,15,,20,24,17,15,,NBA
+200208023,1999,"February 08, 2000",Sacramento Kings,Chicago Bulls,"29-18, 18-3 Home","10-36, 4-20 Away",119,80,,,Final,,35,27,34,23,,25,22,18,15,,NBA
+200215004,1999,"February 15, 2000",Chicago Bulls,Los Angeles Lakers,"10-38, 6-17 Home","38-11, 15-7 Away",76,88,,,Final,,18,21,18,19,,22,14,22,30,,NBA
+200219004,1999,"February 19, 2000",Chicago Bulls,Los Angeles Clippers,"12-38, 8-17 Home","11-42, 3-26 Away",74,72,,,Final,,23,17,14,20,,18,20,20,14,,NBA
+200224011,1999,"February 24, 2000",Indiana Pacers,Chicago Bulls,"37-17, 24-2 Home","12-40, 4-22 Away",100,83,,,Final,,22,23,26,29,,30,14,21,18,,NBA
+200227008,1999,"February 27, 2000",Detroit Pistons,Chicago Bulls,"28-27, 20-8 Home","12-42, 4-23 Away",93,90,,,Final,,32,21,23,17,,27,25,20,18,,NBA
+200302004,1999,"March 02, 2000",Chicago Bulls,Cleveland Cavaliers,"12-44, 8-20 Home","23-34, 5-23 Away",110,114,,,Final/OT,,29,27,31,16,7.0,35,20,33,15,11.0,NBA
+200305003,1999,"March 05, 2000",Charlotte Hornets,Chicago Bulls,"32-27, 23-8 Home","12-46, 4-25 Away",100,94,,,Final,,26,24,23,27,,21,28,25,20,,NBA
+200308019,1999,"March 08, 2000",Orlando Magic,Chicago Bulls,"29-32, 16-13 Home","13-47, 4-26 Away",103,67,,,Final,,30,23,23,27,,16,20,11,20,,NBA
+200313004,1999,"March 13, 2000",Chicago Bulls,Utah Jazz,"13-49, 9-22 Home","42-20, 17-12 Away",79,87,,,Final,,26,22,11,20,,26,15,23,23,,NBA
+200317004,1999,"March 17, 2000",Chicago Bulls,Golden State Warriors,"13-51, 9-23 Home","17-48, 7-26 Away",92,95,,,Final/2OT,,22,16,16,21,17.0,17,21,24,13,20.0,NBA
+200320004,1999,"March 20, 2000",Chicago Bulls,Orlando Magic,"13-53, 9-24 Home","32-36, 14-23 Away",86,88,,,Final/OT,,11,19,33,18,5.0,21,19,24,17,7.0,NBA
+200324004,1999,"March 24, 2000",Chicago Bulls,Denver Nuggets,"14-54, 10-24 Home","27-42, 6-28 Away",70,68,,,Final,,19,16,17,18,,19,16,17,16,,NBA
+200329004,1999,"March 29, 2000",Chicago Bulls,Cleveland Cavaliers,"14-56, 10-25 Home","28-43, 9-27 Away",81,86,,,Final,,24,13,18,26,,22,22,16,26,,NBA
+200401004,1999,"April 01, 2000",Chicago Bulls,Charlotte Hornets,"14-58, 10-26 Home","41-31, 15-21 Away",87,90,,,Final,,20,23,17,27,,21,18,32,19,,NBA
+200404015,1999,"April 04, 2000",Milwaukee Bucks,Chicago Bulls,"36-38, 20-17 Home","15-59, 5-33 Away",92,73,,,Final,,24,27,27,14,,18,15,17,23,,NBA
+200408004,1999,"April 08, 2000",Chicago Bulls,Toronto Raptors,"16-60, 11-27 Home","42-34, 19-19 Away",79,98,,,Final,,20,13,28,18,,29,26,25,18,,NBA
+200413004,1999,"April 13, 2000",Chicago Bulls,Washington Wizards,"17-61, 12-28 Home","29-50, 12-28 Away",103,109,,,Final,,19,33,28,23,,24,34,30,21,,NBA
+191103004,1999,"November 03, 1999",Chicago Bulls,New York Knicks,"0-1, 0-1 Home","2-0, 1-0 Away",74,84,,,Final,,18,12,25,19,,18,14,30,22,,NBA
+191106001,1999,"November 06, 1999",Atlanta Hawks,Chicago Bulls,"1-2, 1-1 Home","0-3, 0-1 Away",113,97,,,Final,,26,35,31,21,,25,24,19,29,,NBA
+191112020,1999,"November 12, 1999",Philadelphia 76ers,Chicago Bulls,"2-4, 2-0 Home","0-5, 0-2 Away",92,86,,,Final,CSN,25,22,26,19,,25,25,13,23,,NBA
+191116009,1999,"November 16, 1999",Golden State Warriors,Chicago Bulls,"2-5, 1-3 Home","1-6, 0-3 Away",99,79,,,Final,,24,29,24,22,,19,14,17,29,,NBA
+191119013,1999,"November 19, 1999",Los Angeles Lakers,Chicago Bulls,"8-3, 4-1 Home","1-8, 0-5 Away",103,95,,,Final,,30,19,29,25,,21,19,23,32,,NBA
+191124015,1999,"November 24, 1999",Milwaukee Bucks,Chicago Bulls,"7-5, 5-1 Home","1-10, 0-7 Away",102,95,,,Final,,24,23,28,27,,15,30,35,15,,NBA
+191127006,1999,"November 27, 1999",Dallas Mavericks,Chicago Bulls,"5-9, 4-2 Home","1-12, 0-9 Away",95,83,,,Final,,24,23,22,26,,20,26,10,27,,NBA
+191204004,1999,"December 04, 1999",Chicago Bulls,Milwaukee Bucks,"1-14, 1-5 Home","9-7, 4-4 Away",91,92,,,Final,,17,24,30,20,,28,25,25,14,,NBA
+191210004,1999,"December 10, 1999",Chicago Bulls,New Jersey Nets,"2-15, 2-5 Home","4-16, 1-8 Away",71,69,,,Final,,22,19,15,15,,21,18,21,9,,NBA
+191215011,1999,"December 15, 1999",Indiana Pacers,Chicago Bulls,"14-8, 8-2 Home","2-17, 0-12 Away",102,91,,,Final,,34,26,22,20,,22,21,22,26,,NBA
+191218004,1999,"December 18, 1999",Chicago Bulls,Orlando Magic,"2-19, 2-6 Home","12-11, 7-6 Away",74,83,,,Final,,20,17,16,21,,24,14,25,20,,NBA
+191222004,1999,"December 22, 1999",Chicago Bulls,Minnesota Timberwolves,"2-21, 2-8 Home","10-13, 4-7 Away",86,106,,,Final,,19,22,16,29,,31,16,36,23,,NBA
+191227004,1999,"December 27, 1999",Chicago Bulls,Indiana Pacers,"2-23, 2-9 Home","18-9, 7-7 Away",91,103,,,Final,,16,24,29,22,,34,23,27,19,,NBA
+191230016,1999,"December 30, 1999",Minnesota Timberwolves,Chicago Bulls,"13-14, 8-6 Home","2-25, 0-15 Away",94,76,,,Final,,32,22,20,20,,19,18,19,20,,NBA
+200105004,1999,"January 05, 2000",Chicago Bulls,Washington Wizards,"3-26, 3-11 Home","11-21, 5-12 Away",77,66,,,Final,,29,21,16,11,,18,18,16,14,,NBA
+200108004,1999,"January 08, 2000",Chicago Bulls,Boston Celtics,"5-26, 4-11 Home","14-18, 2-13 Away",96,79,,,Final,,19,25,23,29,,15,19,23,22,,NBA
+200114004,1999,"January 14, 2000",Chicago Bulls,Atlanta Hawks,"5-28, 4-12 Home","13-21, 3-14 Away",83,89,,,Final,,17,27,13,26,,20,19,26,24,,NBA
+200118014,1999,"January 18, 2000",Miami Heat,Chicago Bulls,"24-13, 12-6 Home","6-29, 2-16 Away",85,92,,,Final/OT,,20,18,22,20,5.0,12,23,15,30,12.0,NBA
+200122004,1999,"January 22, 2000",Chicago Bulls,Detroit Pistons,"7-30, 5-14 Home","21-18, 8-13 Away",98,92,,,Final,,27,15,25,31,,25,22,25,20,,NBA
+200125001,1999,"January 25, 2000",Atlanta Hawks,Chicago Bulls,"15-25, 12-9 Home","8-31, 2-17 Away",96,89,,,Final,,18,19,27,32,,19,27,18,25,,NBA
+200129004,1999,"January 29, 2000",Chicago Bulls,Toronto Raptors,"8-33, 6-16 Home","24-19, 9-11 Away",89,106,,,Final,,21,17,24,27,,20,26,36,24,,NBA
+200202025,1999,"February 02, 2000",Seattle SuperSonics,Chicago Bulls,"29-18, 14-8 Home","9-34, 3-18 Away",81,88,,,Final,,25,15,22,19,,23,17,17,31,,NBA
+200206012,1999,"February 06, 2000",Los Angeles Clippers,Chicago Bulls,"11-36, 8-15 Home","10-35, 4-19 Away",90,100,,,Final,,29,19,15,27,,13,32,27,28,,NBA
+200209026,1999,"February 09, 2000",Utah Jazz,Chicago Bulls,"29-18, 18-7 Home","10-37, 4-21 Away",113,86,,,Final,,32,31,28,22,,32,21,17,16,,NBA
+200217004,1999,"February 17, 2000",Chicago Bulls,Miami Heat,"11-38, 7-17 Home","31-18, 13-12 Away",83,76,,,Final,,16,21,18,28,,23,17,13,23,,NBA
+200222004,1999,"February 22, 2000",Chicago Bulls,Vancouver Grizzlies,"12-39, 8-18 Home","17-36, 9-18 Away",81,85,,,Final,,21,23,20,17,,28,19,21,17,,NBA
+200225004,1999,"February 25, 2000",Chicago Bulls,San Antonio Spurs,"12-41, 8-19 Home","36-19, 15-14 Away",78,91,,,Final,,23,15,20,20,,22,22,19,28,,NBA
+200229028,1999,"February 29, 2000",Toronto Raptors,Chicago Bulls,"30-25, 19-11 Home","12-43, 4-24 Away",87,80,,,Final,,16,26,21,24,,14,28,18,20,,NBA
+200304004,1999,"March 04, 2000",Chicago Bulls,Philadelphia 76ers,"12-45, 8-21 Home","33-25, 13-15 Away",84,95,,,Final,,27,21,15,21,,24,24,26,21,,NBA
+200307004,1999,"March 07, 2000",Chicago Bulls,Atlanta Hawks,"13-46, 9-21 Home","23-36, 7-24 Away",89,82,,,Final,,20,30,16,23,,22,26,19,15,,NBA
+200310002,1999,"March 10, 2000",Boston Celtics,Chicago Bulls,"26-35, 20-11 Home","13-48, 4-27 Away",104,74,,,Final,,31,31,23,19,,20,21,16,17,,NBA
+200315003,1999,"March 15, 2000",Charlotte Hornets,Chicago Bulls,"35-28, 24-8 Home","13-50, 4-28 Away",77,74,,,Final,,26,18,19,14,,17,23,15,19,,NBA
+200318027,1999,"March 18, 2000",Washington Wizards,Chicago Bulls,"22-45, 15-20 Home","13-52, 4-29 Away",101,88,,,Final,,25,21,25,30,,21,22,22,23,,NBA
+200322018,1999,"March 22, 2000",New York Knicks,Chicago Bulls,"41-26, 28-8 Home","13-54, 4-30 Away",78,67,,,Final,,25,22,14,17,,15,26,14,12,,NBA
+200326010,1999,"March 26, 2000",Houston Rockets,Chicago Bulls,"26-44, 18-17 Home","14-55, 4-31 Away",123,78,,,Final,,27,33,42,21,,13,21,19,25,,NBA
+200330014,1999,"March 30, 2000",Miami Heat,Chicago Bulls,"45-26, 27-7 Home","14-57, 4-32 Away",105,80,,,Final,,29,24,23,29,,19,20,22,19,,NBA
+200402005,1999,"April 02, 2000",Cleveland Cavaliers,Chicago Bulls,"29-44, 20-17 Home","15-58, 5-32 Away",74,83,,,Final,,16,24,22,12,,20,23,16,24,,NBA
+200406004,1999,"April 06, 2000",Chicago Bulls,Milwaukee Bucks,"16-59, 11-26 Home","36-39, 16-22 Away",90,88,,,Final,,27,19,24,20,,23,19,22,24,,NBA
+200411004,1999,"April 11, 2000",Chicago Bulls,New Jersey Nets,"17-60, 12-27 Home","31-47, 9-30 Away",100,93,,,Final,,24,30,27,19,,22,23,22,26,,NBA
+200414002,1999,"April 14, 2000",Boston Celtics,Chicago Bulls,"33-46, 25-14 Home","17-62, 5-34 Away",106,91,,,Final,,27,24,35,20,,15,27,25,24,,NBA
+200416028,1999,"April 16, 2000",Toronto Raptors,Chicago Bulls,"45-35, 26-15 Home","17-63, 5-35 Away",85,84,,,Final,,14,27,20,24,,25,26,16,17,,NBA

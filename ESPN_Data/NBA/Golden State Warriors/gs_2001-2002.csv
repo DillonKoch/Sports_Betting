@@ -1,83 +1,83 @@
-,Unnamed: 0,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-0,0,211101009,2001,"Thu, Nov 1",Golden State Warriors,Phoenix Suns,"0-2, 0-1 Home","1-1, 1-0 Away",101,107,,,Final,,20,22,25,34,,32,23,26,26,,NBA
-1,1,211104009,2001,"Sun, Nov 4",Golden State Warriors,Portland Trail Blazers,"2-2, 1-1 Home","1-3, 0-2 Away",96,86,,,Final,,30,24,25,17,,27,17,18,24,,NBA
-2,2,211109027,2001,"Fri, Nov 9",Washington Wizards,Golden State Warriors,"2-4, 1-1 Home","3-3, 2-2 Away",100,109,,,Final,,26,24,22,28,,25,32,30,22,,NBA
-3,3,211112029,2001,"Mon, Nov 12",Memphis Grizzlies,Golden State Warriors,"0-7, 0-3 Home","5-3, 4-2 Away",79,86,,,Final,,17,21,22,19,,20,27,16,23,,NBA
-4,4,211116025,2001,"Fri, Nov 16",Seattle SuperSonics,Golden State Warriors,"4-6, 2-2 Home","5-5, 4-3 Away",100,91,,,Final,,34,23,23,20,,21,29,24,17,,NBA
-5,5,211120009,2001,"Tue, Nov 20",Golden State Warriors,New York Knicks,"6-6, 2-3 Home","5-7, 1-6 Away",70,94,,,Final,,18,7,21,24,,30,25,29,10,,NBA
-6,6,211125009,2001,"Sun, Nov 25",Golden State Warriors,New Jersey Nets,"7-7, 3-3 Home","9-5, 4-4 Away",101,85,,,Final,,25,20,30,26,,25,25,13,22,,NBA
-7,7,211128024,2001,"Wed, Nov 28",San Antonio Spurs,Golden State Warriors,"10-3, 7-0 Home","7-9, 4-6 Away",94,83,,,Final,,26,27,19,22,,20,17,24,22,,NBA
-8,8,211203021,2001,"Mon, Dec 3",Phoenix Suns,Golden State Warriors,"12-7, 7-4 Home","7-11, 4-7 Away",110,93,,,Final,,24,32,31,23,,17,24,24,28,,NBA
-9,9,211207009,2001,"Fri, Dec 7",Golden State Warriors,Charlotte Hornets,"8-12, 4-5 Home","9-10, 7-5 Away",89,106,,,Final,,17,24,25,23,,28,24,21,33,,NBA
-10,10,211211016,2001,"Tue, Dec 11",Minnesota Timberwolves,Golden State Warriors,"14-5, 9-1 Home","8-14, 4-9 Away",107,86,,,Final,,30,30,19,28,,28,22,16,20,,NBA
-11,11,211215009,2001,"Sat, Dec 15",Golden State Warriors,Memphis Grizzlies,"9-15, 5-6 Home","5-17, 1-10 Away",93,84,,,Final,,31,24,23,15,,26,16,19,23,,NBA
-12,12,211219009,2001,"Wed, Dec 19",Golden State Warriors,Detroit Pistons,"10-16, 6-6 Home","14-9, 6-7 Away",101,88,,,Final,,23,28,17,33,,27,18,18,25,,NBA
-13,13,211222007,2001,"Sat, Dec 22",Denver Nuggets,Golden State Warriors,"9-17, 7-8 Home","11-17, 5-10 Away",101,105,,,Final,,25,15,31,30,,22,27,27,29,,NBA
-14,14,211228009,2001,"Fri, Dec 28",Golden State Warriors,Houston Rockets,"12-18, 7-8 Home","9-21, 3-11 Away",93,100,,,Final,,19,26,24,24,,22,24,28,26,,NBA
-15,15,220103003,2001,"Thu, Jan 3",Charlotte Hornets,Golden State Warriors,"14-17, 5-8 Home","12-20, 5-12 Away",114,102,,,Final,,31,33,26,24,,26,22,29,25,,NBA
-16,16,220106014,2001,"Sun, Jan 6",Miami Heat,Golden State Warriors,"8-23, 4-12 Home","12-22, 5-14 Away",92,84,,,Final,,26,31,17,18,,23,20,24,17,,NBA
-17,17,220114009,2001,"Mon, Jan 14",Golden State Warriors,Miami Heat,"12-24, 7-10 Home","9-26, 5-13 Away",79,85,,,Final,,18,19,19,23,,17,18,19,31,,NBA
-18,18,220118023,2001,"Fri, Jan 18",Sacramento Kings,Golden State Warriors,"30-9, 22-1 Home","13-25, 5-15 Away",121,97,,,Final,,32,35,26,28,,26,27,29,15,,NBA
-19,19,220121009,2001,"Mon, Jan 21",Golden State Warriors,Utah Jazz,"13-27, 8-12 Home","22-19, 8-11 Away",99,101,,,Final,,23,31,14,31,,21,29,21,30,,NBA
-20,20,220126009,2001,"Sat, Jan 26",Golden State Warriors,San Antonio Spurs,"14-28, 9-13 Home","29-13, 13-7 Away",82,90,,,Final,,12,25,18,27,,22,22,24,22,,NBA
-21,21,220201021,2001,"Fri, Feb 1",Phoenix Suns,Golden State Warriors,"23-23, 15-10 Home","14-30, 5-17 Away",104,98,,,Final,,30,26,21,27,,20,24,21,33,,NBA
-22,22,220205009,2001,"Tue, Feb 5",Golden State Warriors,Seattle SuperSonics,"14-32, 9-15 Home","24-23, 11-14 Away",87,113,,,Final,,13,24,28,22,,29,30,32,22,,NBA
-23,23,220215009,2001,"Fri, Feb 15",Golden State Warriors,San Antonio Spurs,"15-33, 10-16 Home","33-18, 16-10 Away",99,108,,,Final,,34,25,23,17,,28,26,23,31,,NBA
-24,24,220219017,2001,"Tue, Feb 19",New Jersey Nets,Golden State Warriors,"35-17, 21-6 Home","15-35, 5-18 Away",123,115,,,Final,,42,33,22,26,,24,27,34,30,,NBA
-25,25,220222015,2001,"Fri, Feb 22",Milwaukee Bucks,Golden State Warriors,"31-22, 17-9 Home","15-37, 5-20 Away",116,112,,,Final,,30,25,30,31,,34,29,28,21,,NBA
-26,26,220225009,2001,"Mon, Feb 25",Golden State Warriors,Indiana Pacers,"15-39, 10-18 Home","28-28, 11-16 Away",97,102,,,Final,,26,28,19,10,14.0,25,20,17,21,19.0,NBA
-27,27,220301009,2001,"Fri, Mar 1",Golden State Warriors,Sacramento Kings,"16-40, 11-19 Home","42-15, 13-13 Away",108,116,,,Final,,18,35,22,33,,28,31,30,27,,NBA
-28,28,220305024,2001,"Tue, Mar 5",San Antonio Spurs,Golden State Warriors,"39-21, 21-9 Home","16-42, 5-23 Away",109,88,,,Final,,26,31,26,26,,22,20,21,25,,NBA
-29,29,220309006,2001,"Sat, Mar 9",Dallas Mavericks,Golden State Warriors,"44-18, 24-9 Home","17-43, 6-24 Away",107,105,,,Final,,32,25,28,22,,22,32,24,27,,NBA
-30,30,220312011,2001,"Tue, Mar 12",Indiana Pacers,Golden State Warriors,"32-32, 19-12 Home","17-45, 6-26 Away",115,101,,,Final,,31,34,27,23,,32,19,35,15,,NBA
-31,31,220316009,2001,"Sat, Mar 16",Golden State Warriors,Dallas Mavericks,"17-47, 11-21 Home","46-19, 21-10 Away",100,117,,,Final,,33,24,19,24,,30,29,33,25,,NBA
-32,32,220319025,2001,"Tue, Mar 19",Seattle SuperSonics,Golden State Warriors,"38-30, 20-13 Home","17-49, 6-27 Away",110,93,,,Final,,35,24,35,16,,23,30,21,19,,NBA
-33,33,220323026,2001,"Sat, Mar 23",Utah Jazz,Golden State Warriors,"38-31, 22-13 Home","17-51, 6-28 Away",112,103,,,Final,,23,36,23,30,,24,22,30,27,,NBA
-34,34,220326016,2001,"Tue, Mar 26",Minnesota Timberwolves,Golden State Warriors,"42-28, 24-11 Home","18-52, 7-28 Away",106,115,,,Final,,25,24,29,28,,29,25,30,31,,NBA
-35,35,220329008,2001,"Fri, Mar 29",Detroit Pistons,Golden State Warriors,"43-29, 23-12 Home","18-54, 7-30 Away",110,103,,,Final,,24,33,26,27,,26,35,23,19,,NBA
-36,36,220402009,2001,"Tue, Apr 2",Golden State Warriors,Portland Trail Blazers,"19-55, 12-24 Home","44-30, 18-19 Away",107,91,,,Final,,33,21,23,30,,32,26,20,13,,NBA
-37,37,220406022,2001,"Sat, Apr 6",Portland Trail Blazers,Golden State Warriors,"46-30, 28-11 Home","20-56, 7-32 Away",113,86,,,Final,,26,31,29,27,,22,18,30,16,,NBA
-38,38,220410009,2001,"Wed, Apr 10",Golden State Warriors,Sacramento Kings,"20-58, 13-26 Home","59-19, 24-15 Away",116,118,,,Final,,27,37,18,34,,38,35,24,21,,NBA
-39,39,220413009,2001,"Sat, Apr 13",Golden State Warriors,Utah Jazz,"20-60, 13-27 Home","44-36, 19-21 Away",101,109,,,Final,,23,22,25,31,,17,29,30,33,,NBA
-40,40,211031022,2001,"Wed, Oct 31",Portland Trail Blazers,Golden State Warriors,"1-1, 1-0 Home","0-1, 0-1 Away",92,87,,,Final,,19,29,27,17,,22,24,24,17,,NBA
-41,41,211103012,2001,"Sat, Nov 3",LA Clippers,Golden State Warriors,"0-3, 0-1 Home","1-2, 1-1 Away",108,110,,,Final,,28,31,22,17,10.0,29,20,27,22,12.0,NBA
-42,42,211107028,2001,"Wed, Nov 7",Toronto Raptors,Golden State Warriors,"3-2, 3-0 Home","2-3, 1-2 Away",109,92,,,Final,,23,29,35,22,,25,26,20,21,,NBA
-43,43,211110018,2001,"Sat, Nov 10",New York Knicks,Golden State Warriors,"2-5, 2-1 Home","4-3, 3-2 Away",71,90,,,Final,,25,13,19,14,,30,18,20,22,,NBA
-44,44,211114009,2001,"Wed, Nov 14",Golden State Warriors,Toronto Raptors,"5-4, 1-2 Home","5-4, 2-4 Away",82,89,,,Final,,24,19,23,16,,16,26,23,24,,NBA
-45,45,211117009,2001,"Sat, Nov 17",Golden State Warriors,Chicago Bulls,"6-5, 2-2 Home","1-9, 0-6 Away",93,88,,,Final,,28,18,29,18,,23,21,27,17,,NBA
-46,46,211123013,2001,"Fri, Nov 23",Los Angeles Lakers,Golden State Warriors,"11-1, 7-0 Home","6-7, 4-4 Away",106,90,,,Final,,37,25,23,21,,16,24,22,28,,NBA
-47,47,211127006,2001,"Tue, Nov 27",Dallas Mavericks,Golden State Warriors,"10-5, 5-2 Home","7-8, 4-5 Away",116,106,,,Final,,23,26,33,34,,39,23,17,27,,NBA
-48,48,211201009,2001,"Sat, Dec 1",Golden State Warriors,Dallas Mavericks,"7-10, 3-4 Home","11-6, 6-3 Away",82,111,,,Final,,18,22,18,24,,20,28,39,24,,NBA
-49,49,211205009,2001,"Wed, Dec 5",Golden State Warriors,Philadelphia 76ers,"8-11, 4-4 Home","8-10, 4-6 Away",93,87,,,Final,CSN,5,36,25,27,,5,34,29,19,,NBA
-50,50,211208026,2001,"Sat, Dec 8",Utah Jazz,Golden State Warriors,"9-11, 6-6 Home","8-13, 4-8 Away",111,101,,,Final,,35,27,22,27,,28,23,27,23,,NBA
-51,51,211213009,2001,"Thu, Dec 13",Golden State Warriors,Orlando Magic,"8-15, 4-6 Home","12-12, 6-8 Away",100,105,,,Final,,27,22,23,28,,25,35,20,25,,NBA
-52,52,211216013,2001,"Sun, Dec 16",Los Angeles Lakers,Golden State Warriors,"18-3, 13-1 Home","9-16, 4-10 Away",101,85,,,Final,,26,20,32,23,,28,14,23,20,,NBA
-53,53,211221009,2001,"Fri, Dec 21",Golden State Warriors,Seattle SuperSonics,"10-17, 6-7 Home","13-15, 5-10 Away",108,111,,,Final/OT,,24,25,21,26,12.0,27,44,16,9,15.0,NBA
-54,54,211226009,2001,"Wed, Dec 26",Golden State Warriors,Los Angeles Lakers,"12-17, 7-7 Home","20-5, 6-4 Away",101,90,,,Final,,27,20,29,25,,20,23,23,24,,NBA
-55,55,220102005,2001,"Wed, Jan 2",Cleveland Cavaliers,Golden State Warriors,"13-18, 9-8 Home","12-19, 5-11 Away",113,98,,,Final,,31,23,34,25,,16,36,26,20,,NBA
-56,56,220105019,2001,"Sat, Jan 5",Orlando Magic,Golden State Warriors,"17-18, 9-6 Home","12-21, 5-13 Away",118,109,,,Final,,39,29,20,30,,23,34,27,25,,NBA
-57,57,220108009,2001,"Tue, Jan 8",Golden State Warriors,Milwaukee Bucks,"12-23, 7-9 Home","19-13, 9-11 Away",97,113,,,Final,,20,26,26,25,,30,35,22,26,,NBA
-58,58,220116009,2001,"Wed, Jan 16",Golden State Warriors,Cleveland Cavaliers,"13-24, 8-10 Home","13-26, 4-17 Away",117,88,,,Final,,29,25,32,31,,19,20,27,22,,NBA
-59,59,220119009,2001,"Sat, Jan 19",Golden State Warriors,Minnesota Timberwolves,"13-26, 8-11 Home","29-10, 12-8 Away",102,105,,,Final,,27,24,24,27,,25,26,26,28,,NBA
-60,60,220123009,2001,"Wed, Jan 23",Golden State Warriors,Memphis Grizzlies,"14-27, 9-12 Home","12-29, 5-16 Away",107,95,,,Final,,32,26,19,30,,29,27,19,20,,NBA
-61,61,220129010,2001,"Tue, Jan 29",Houston Rockets,Golden State Warriors,"15-30, 10-13 Home","14-29, 5-16 Away",100,96,,,Final,,27,19,14,26,14.0,23,24,20,19,10.0,NBA
-62,62,220203009,2001,"Sun, Feb 3",Golden State Warriors,Phoenix Suns,"14-31, 9-14 Home","24-23, 9-13 Away",97,98,,,Final,,37,24,18,18,,20,25,32,21,,NBA
-63,63,220213009,2001,"Wed, Feb 13",Golden State Warriors,Boston Celtics,"15-32, 10-15 Home","29-22, 13-13 Away",92,75,,,Final,,30,20,21,21,,25,22,17,11,,NBA
-64,64,220217009,2001,"Sun, Feb 17",Golden State Warriors,Atlanta Hawks,"15-34, 10-17 Home","19-33, 7-21 Away",94,100,,,Final,,20,14,19,41,,24,25,27,24,,NBA
-65,65,220220020,2001,"Wed, Feb 20",Philadelphia 76ers,Golden State Warriors,"27-26, 14-10 Home","15-36, 5-19 Away",114,107,,,Final,CSN,24,26,36,28,,26,28,25,28,,NBA
-66,66,220223004,2001,"Sat, Feb 23",Chicago Bulls,Golden State Warriors,"15-40, 12-16 Home","15-38, 5-21 Away",105,91,,,Final,,29,30,22,24,,27,21,19,24,,NBA
-67,67,220227009,2001,"Wed, Feb 27",Golden State Warriors,Denver Nuggets,"16-39, 11-18 Home","16-38, 5-21 Away",110,93,,,Final,,34,32,20,24,,23,32,21,17,,NBA
-68,68,220302012,2001,"Sat, Mar 2",LA Clippers,Golden State Warriors,"30-30, 21-10 Home","16-41, 5-22 Away",109,95,,,Final,,30,24,23,32,,26,22,26,21,,NBA
-69,69,220308010,2001,"Fri, Mar 8",Houston Rockets,Golden State Warriors,"22-39, 15-17 Home","17-42, 6-23 Away",95,108,,,Final,,26,28,27,14,,28,28,24,28,,NBA
-70,70,220311001,2001,"Mon, Mar 11",Atlanta Hawks,Golden State Warriors,"23-39, 15-14 Home","17-44, 6-25 Away",121,96,,,Final,,30,35,30,26,,28,18,32,18,,NBA
-71,71,220314009,2001,"Thu, Mar 14",Golden State Warriors,Los Angeles Lakers,"17-46, 11-20 Home","45-18, 21-11 Away",102,110,,,Final,,22,19,32,29,,25,25,24,36,,NBA
-72,72,220318009,2001,"Mon, Mar 18",Golden State Warriors,Washington Wizards,"17-48, 11-22 Home","31-36, 14-20 Away",96,99,,,Final,,32,22,25,17,,26,30,22,21,,NBA
-73,73,220321009,2001,"Thu, Mar 21",Golden State Warriors,LA Clippers,"17-50, 11-23 Home","36-33, 13-22 Away",96,116,,,Final,,27,23,23,23,,31,26,32,27,,NBA
-74,74,220324009,2001,"Sun, Mar 24",Golden State Warriors,Houston Rockets,"17-52, 11-24 Home","26-43, 9-25 Away",104,116,,,Final,,19,32,31,22,,30,32,32,22,,NBA
-75,75,220327002,2001,"Wed, Mar 27",Boston Celtics,Golden State Warriors,"41-31, 22-13 Home","18-53, 7-29 Away",102,99,,,Final,,23,14,36,29,,24,21,22,32,,NBA
-76,76,220330029,2001,"Sat, Mar 30",Memphis Grizzlies,Golden State Warriors,"19-53, 12-24 Home","18-55, 7-31 Away",105,99,,,Final,,26,25,33,21,,27,22,22,28,,NBA
-77,77,220405009,2001,"Fri, Apr 5",Golden State Warriors,Denver Nuggets,"20-55, 13-24 Home","24-51, 7-30 Away",108,104,,,Final,,28,36,23,21,,20,29,27,28,,NBA
-78,78,220408009,2001,"Mon, Apr 8",Golden State Warriors,Minnesota Timberwolves,"20-57, 13-25 Home","48-29, 20-18 Away",93,100,,,Final,,21,25,23,24,,22,24,26,28,,NBA
-79,79,220412007,2001,"Fri, Apr 12",Denver Nuggets,Golden State Warriors,"25-54, 18-21 Home","20-59, 7-33 Away",97,89,,,Final,,28,26,14,29,,25,25,22,17,,NBA
-80,80,220416023,2001,"Tue, Apr 16",Sacramento Kings,Golden State Warriors,"61-20, 36-5 Home","20-61, 7-34 Away",120,106,,,Final,,29,34,32,25,,33,23,27,23,,NBA
-81,81,220417009,2001,"Wed, Apr 17",Golden State Warriors,LA Clippers,"21-61, 14-27 Home","39-43, 14-27 Away",107,103,,,Final,,33,28,19,27,,18,25,35,25,,NBA
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+211101009,2001,"November 01, 2001",Golden State Warriors,Phoenix Suns,"0-2, 0-1 Home","1-1, 1-0 Away",101,107,,,Final,,20,22,25,34,,32,23,26,26,,NBA
+211104009,2001,"November 04, 2001",Golden State Warriors,Portland Trail Blazers,"2-2, 1-1 Home","1-3, 0-2 Away",96,86,,,Final,,30,24,25,17,,27,17,18,24,,NBA
+211109027,2001,"November 09, 2001",Washington Wizards,Golden State Warriors,"2-4, 1-1 Home","3-3, 2-2 Away",100,109,,,Final,,26,24,22,28,,25,32,30,22,,NBA
+211112029,2001,"November 12, 2001",Memphis Grizzlies,Golden State Warriors,"0-7, 0-3 Home","5-3, 4-2 Away",79,86,,,Final,,17,21,22,19,,20,27,16,23,,NBA
+211116025,2001,"November 16, 2001",Seattle SuperSonics,Golden State Warriors,"4-6, 2-2 Home","5-5, 4-3 Away",100,91,,,Final,,34,23,23,20,,21,29,24,17,,NBA
+211120009,2001,"November 20, 2001",Golden State Warriors,New York Knicks,"6-6, 2-3 Home","5-7, 1-6 Away",70,94,,,Final,,18,7,21,24,,30,25,29,10,,NBA
+211125009,2001,"November 25, 2001",Golden State Warriors,New Jersey Nets,"7-7, 3-3 Home","9-5, 4-4 Away",101,85,,,Final,,25,20,30,26,,25,25,13,22,,NBA
+211128024,2001,"November 28, 2001",San Antonio Spurs,Golden State Warriors,"10-3, 7-0 Home","7-9, 4-6 Away",94,83,,,Final,,26,27,19,22,,20,17,24,22,,NBA
+211203021,2001,"December 03, 2001",Phoenix Suns,Golden State Warriors,"12-7, 7-4 Home","7-11, 4-7 Away",110,93,,,Final,,24,32,31,23,,17,24,24,28,,NBA
+211207009,2001,"December 07, 2001",Golden State Warriors,Charlotte Hornets,"8-12, 4-5 Home","9-10, 7-5 Away",89,106,,,Final,,17,24,25,23,,28,24,21,33,,NBA
+211211016,2001,"December 11, 2001",Minnesota Timberwolves,Golden State Warriors,"14-5, 9-1 Home","8-14, 4-9 Away",107,86,,,Final,,30,30,19,28,,28,22,16,20,,NBA
+211215009,2001,"December 15, 2001",Golden State Warriors,Memphis Grizzlies,"9-15, 5-6 Home","5-17, 1-10 Away",93,84,,,Final,,31,24,23,15,,26,16,19,23,,NBA
+211219009,2001,"December 19, 2001",Golden State Warriors,Detroit Pistons,"10-16, 6-6 Home","14-9, 6-7 Away",101,88,,,Final,,23,28,17,33,,27,18,18,25,,NBA
+211222007,2001,"December 22, 2001",Denver Nuggets,Golden State Warriors,"9-17, 7-8 Home","11-17, 5-10 Away",101,105,,,Final,,25,15,31,30,,22,27,27,29,,NBA
+211228009,2001,"December 28, 2001",Golden State Warriors,Houston Rockets,"12-18, 7-8 Home","9-21, 3-11 Away",93,100,,,Final,,19,26,24,24,,22,24,28,26,,NBA
+220103003,2001,"January 03, 2002",Charlotte Hornets,Golden State Warriors,"14-17, 5-8 Home","12-20, 5-12 Away",114,102,,,Final,,31,33,26,24,,26,22,29,25,,NBA
+220106014,2001,"January 06, 2002",Miami Heat,Golden State Warriors,"8-23, 4-12 Home","12-22, 5-14 Away",92,84,,,Final,,26,31,17,18,,23,20,24,17,,NBA
+220114009,2001,"January 14, 2002",Golden State Warriors,Miami Heat,"12-24, 7-10 Home","9-26, 5-13 Away",79,85,,,Final,,18,19,19,23,,17,18,19,31,,NBA
+220118023,2001,"January 18, 2002",Sacramento Kings,Golden State Warriors,"30-9, 22-1 Home","13-25, 5-15 Away",121,97,,,Final,,32,35,26,28,,26,27,29,15,,NBA
+220121009,2001,"January 21, 2002",Golden State Warriors,Utah Jazz,"13-27, 8-12 Home","22-19, 8-11 Away",99,101,,,Final,,23,31,14,31,,21,29,21,30,,NBA
+220126009,2001,"January 26, 2002",Golden State Warriors,San Antonio Spurs,"14-28, 9-13 Home","29-13, 13-7 Away",82,90,,,Final,,12,25,18,27,,22,22,24,22,,NBA
+220201021,2001,"February 01, 2002",Phoenix Suns,Golden State Warriors,"23-23, 15-10 Home","14-30, 5-17 Away",104,98,,,Final,,30,26,21,27,,20,24,21,33,,NBA
+220205009,2001,"February 05, 2002",Golden State Warriors,Seattle SuperSonics,"14-32, 9-15 Home","24-23, 11-14 Away",87,113,,,Final,,13,24,28,22,,29,30,32,22,,NBA
+220215009,2001,"February 15, 2002",Golden State Warriors,San Antonio Spurs,"15-33, 10-16 Home","33-18, 16-10 Away",99,108,,,Final,,34,25,23,17,,28,26,23,31,,NBA
+220219017,2001,"February 19, 2002",New Jersey Nets,Golden State Warriors,"35-17, 21-6 Home","15-35, 5-18 Away",123,115,,,Final,,42,33,22,26,,24,27,34,30,,NBA
+220222015,2001,"February 22, 2002",Milwaukee Bucks,Golden State Warriors,"31-22, 17-9 Home","15-37, 5-20 Away",116,112,,,Final,,30,25,30,31,,34,29,28,21,,NBA
+220225009,2001,"February 25, 2002",Golden State Warriors,Indiana Pacers,"15-39, 10-18 Home","28-28, 11-16 Away",97,102,,,Final,,26,28,19,10,14.0,25,20,17,21,19.0,NBA
+220301009,2001,"March 01, 2002",Golden State Warriors,Sacramento Kings,"16-40, 11-19 Home","42-15, 13-13 Away",108,116,,,Final,,18,35,22,33,,28,31,30,27,,NBA
+220305024,2001,"March 05, 2002",San Antonio Spurs,Golden State Warriors,"39-21, 21-9 Home","16-42, 5-23 Away",109,88,,,Final,,26,31,26,26,,22,20,21,25,,NBA
+220309006,2001,"March 09, 2002",Dallas Mavericks,Golden State Warriors,"44-18, 24-9 Home","17-43, 6-24 Away",107,105,,,Final,,32,25,28,22,,22,32,24,27,,NBA
+220312011,2001,"March 12, 2002",Indiana Pacers,Golden State Warriors,"32-32, 19-12 Home","17-45, 6-26 Away",115,101,,,Final,,31,34,27,23,,32,19,35,15,,NBA
+220316009,2001,"March 16, 2002",Golden State Warriors,Dallas Mavericks,"17-47, 11-21 Home","46-19, 21-10 Away",100,117,,,Final,,33,24,19,24,,30,29,33,25,,NBA
+220319025,2001,"March 19, 2002",Seattle SuperSonics,Golden State Warriors,"38-30, 20-13 Home","17-49, 6-27 Away",110,93,,,Final,,35,24,35,16,,23,30,21,19,,NBA
+220323026,2001,"March 23, 2002",Utah Jazz,Golden State Warriors,"38-31, 22-13 Home","17-51, 6-28 Away",112,103,,,Final,,23,36,23,30,,24,22,30,27,,NBA
+220326016,2001,"March 26, 2002",Minnesota Timberwolves,Golden State Warriors,"42-28, 24-11 Home","18-52, 7-28 Away",106,115,,,Final,,25,24,29,28,,29,25,30,31,,NBA
+220329008,2001,"March 29, 2002",Detroit Pistons,Golden State Warriors,"43-29, 23-12 Home","18-54, 7-30 Away",110,103,,,Final,,24,33,26,27,,26,35,23,19,,NBA
+220402009,2001,"April 02, 2002",Golden State Warriors,Portland Trail Blazers,"19-55, 12-24 Home","44-30, 18-19 Away",107,91,,,Final,,33,21,23,30,,32,26,20,13,,NBA
+220406022,2001,"April 06, 2002",Portland Trail Blazers,Golden State Warriors,"46-30, 28-11 Home","20-56, 7-32 Away",113,86,,,Final,,26,31,29,27,,22,18,30,16,,NBA
+220410009,2001,"April 10, 2002",Golden State Warriors,Sacramento Kings,"20-58, 13-26 Home","59-19, 24-15 Away",116,118,,,Final,,27,37,18,34,,38,35,24,21,,NBA
+220413009,2001,"April 13, 2002",Golden State Warriors,Utah Jazz,"20-60, 13-27 Home","44-36, 19-21 Away",101,109,,,Final,,23,22,25,31,,17,29,30,33,,NBA
+211031022,2001,"October 31, 2001",Portland Trail Blazers,Golden State Warriors,"1-1, 1-0 Home","0-1, 0-1 Away",92,87,,,Final,,19,29,27,17,,22,24,24,17,,NBA
+211103012,2001,"November 03, 2001",LA Clippers,Golden State Warriors,"0-3, 0-1 Home","1-2, 1-1 Away",108,110,,,Final,,28,31,22,17,10.0,29,20,27,22,12.0,NBA
+211107028,2001,"November 07, 2001",Toronto Raptors,Golden State Warriors,"3-2, 3-0 Home","2-3, 1-2 Away",109,92,,,Final,,23,29,35,22,,25,26,20,21,,NBA
+211110018,2001,"November 10, 2001",New York Knicks,Golden State Warriors,"2-5, 2-1 Home","4-3, 3-2 Away",71,90,,,Final,,25,13,19,14,,30,18,20,22,,NBA
+211114009,2001,"November 14, 2001",Golden State Warriors,Toronto Raptors,"5-4, 1-2 Home","5-4, 2-4 Away",82,89,,,Final,,24,19,23,16,,16,26,23,24,,NBA
+211117009,2001,"November 17, 2001",Golden State Warriors,Chicago Bulls,"6-5, 2-2 Home","1-9, 0-6 Away",93,88,,,Final,,28,18,29,18,,23,21,27,17,,NBA
+211123013,2001,"November 23, 2001",Los Angeles Lakers,Golden State Warriors,"11-1, 7-0 Home","6-7, 4-4 Away",106,90,,,Final,,37,25,23,21,,16,24,22,28,,NBA
+211127006,2001,"November 27, 2001",Dallas Mavericks,Golden State Warriors,"10-5, 5-2 Home","7-8, 4-5 Away",116,106,,,Final,,23,26,33,34,,39,23,17,27,,NBA
+211201009,2001,"December 01, 2001",Golden State Warriors,Dallas Mavericks,"7-10, 3-4 Home","11-6, 6-3 Away",82,111,,,Final,,18,22,18,24,,20,28,39,24,,NBA
+211205009,2001,"December 05, 2001",Golden State Warriors,Philadelphia 76ers,"8-11, 4-4 Home","8-10, 4-6 Away",93,87,,,Final,CSN,5,36,25,27,,5,34,29,19,,NBA
+211208026,2001,"December 08, 2001",Utah Jazz,Golden State Warriors,"9-11, 6-6 Home","8-13, 4-8 Away",111,101,,,Final,,35,27,22,27,,28,23,27,23,,NBA
+211213009,2001,"December 13, 2001",Golden State Warriors,Orlando Magic,"8-15, 4-6 Home","12-12, 6-8 Away",100,105,,,Final,,27,22,23,28,,25,35,20,25,,NBA
+211216013,2001,"December 16, 2001",Los Angeles Lakers,Golden State Warriors,"18-3, 13-1 Home","9-16, 4-10 Away",101,85,,,Final,,26,20,32,23,,28,14,23,20,,NBA
+211221009,2001,"December 21, 2001",Golden State Warriors,Seattle SuperSonics,"10-17, 6-7 Home","13-15, 5-10 Away",108,111,,,Final/OT,,24,25,21,26,12.0,27,44,16,9,15.0,NBA
+211226009,2001,"December 26, 2001",Golden State Warriors,Los Angeles Lakers,"12-17, 7-7 Home","20-5, 6-4 Away",101,90,,,Final,,27,20,29,25,,20,23,23,24,,NBA
+220102005,2001,"January 02, 2002",Cleveland Cavaliers,Golden State Warriors,"13-18, 9-8 Home","12-19, 5-11 Away",113,98,,,Final,,31,23,34,25,,16,36,26,20,,NBA
+220105019,2001,"January 05, 2002",Orlando Magic,Golden State Warriors,"17-18, 9-6 Home","12-21, 5-13 Away",118,109,,,Final,,39,29,20,30,,23,34,27,25,,NBA
+220108009,2001,"January 08, 2002",Golden State Warriors,Milwaukee Bucks,"12-23, 7-9 Home","19-13, 9-11 Away",97,113,,,Final,,20,26,26,25,,30,35,22,26,,NBA
+220116009,2001,"January 16, 2002",Golden State Warriors,Cleveland Cavaliers,"13-24, 8-10 Home","13-26, 4-17 Away",117,88,,,Final,,29,25,32,31,,19,20,27,22,,NBA
+220119009,2001,"January 19, 2002",Golden State Warriors,Minnesota Timberwolves,"13-26, 8-11 Home","29-10, 12-8 Away",102,105,,,Final,,27,24,24,27,,25,26,26,28,,NBA
+220123009,2001,"January 23, 2002",Golden State Warriors,Memphis Grizzlies,"14-27, 9-12 Home","12-29, 5-16 Away",107,95,,,Final,,32,26,19,30,,29,27,19,20,,NBA
+220129010,2001,"January 29, 2002",Houston Rockets,Golden State Warriors,"15-30, 10-13 Home","14-29, 5-16 Away",100,96,,,Final,,27,19,14,26,14.0,23,24,20,19,10.0,NBA
+220203009,2001,"February 03, 2002",Golden State Warriors,Phoenix Suns,"14-31, 9-14 Home","24-23, 9-13 Away",97,98,,,Final,,37,24,18,18,,20,25,32,21,,NBA
+220213009,2001,"February 13, 2002",Golden State Warriors,Boston Celtics,"15-32, 10-15 Home","29-22, 13-13 Away",92,75,,,Final,,30,20,21,21,,25,22,17,11,,NBA
+220217009,2001,"February 17, 2002",Golden State Warriors,Atlanta Hawks,"15-34, 10-17 Home","19-33, 7-21 Away",94,100,,,Final,,20,14,19,41,,24,25,27,24,,NBA
+220220020,2001,"February 20, 2002",Philadelphia 76ers,Golden State Warriors,"27-26, 14-10 Home","15-36, 5-19 Away",114,107,,,Final,CSN,24,26,36,28,,26,28,25,28,,NBA
+220223004,2001,"February 23, 2002",Chicago Bulls,Golden State Warriors,"15-40, 12-16 Home","15-38, 5-21 Away",105,91,,,Final,,29,30,22,24,,27,21,19,24,,NBA
+220227009,2001,"February 27, 2002",Golden State Warriors,Denver Nuggets,"16-39, 11-18 Home","16-38, 5-21 Away",110,93,,,Final,,34,32,20,24,,23,32,21,17,,NBA
+220302012,2001,"March 02, 2002",LA Clippers,Golden State Warriors,"30-30, 21-10 Home","16-41, 5-22 Away",109,95,,,Final,,30,24,23,32,,26,22,26,21,,NBA
+220308010,2001,"March 08, 2002",Houston Rockets,Golden State Warriors,"22-39, 15-17 Home","17-42, 6-23 Away",95,108,,,Final,,26,28,27,14,,28,28,24,28,,NBA
+220311001,2001,"March 11, 2002",Atlanta Hawks,Golden State Warriors,"23-39, 15-14 Home","17-44, 6-25 Away",121,96,,,Final,,30,35,30,26,,28,18,32,18,,NBA
+220314009,2001,"March 14, 2002",Golden State Warriors,Los Angeles Lakers,"17-46, 11-20 Home","45-18, 21-11 Away",102,110,,,Final,,22,19,32,29,,25,25,24,36,,NBA
+220318009,2001,"March 18, 2002",Golden State Warriors,Washington Wizards,"17-48, 11-22 Home","31-36, 14-20 Away",96,99,,,Final,,32,22,25,17,,26,30,22,21,,NBA
+220321009,2001,"March 21, 2002",Golden State Warriors,LA Clippers,"17-50, 11-23 Home","36-33, 13-22 Away",96,116,,,Final,,27,23,23,23,,31,26,32,27,,NBA
+220324009,2001,"March 24, 2002",Golden State Warriors,Houston Rockets,"17-52, 11-24 Home","26-43, 9-25 Away",104,116,,,Final,,19,32,31,22,,30,32,32,22,,NBA
+220327002,2001,"March 27, 2002",Boston Celtics,Golden State Warriors,"41-31, 22-13 Home","18-53, 7-29 Away",102,99,,,Final,,23,14,36,29,,24,21,22,32,,NBA
+220330029,2001,"March 30, 2002",Memphis Grizzlies,Golden State Warriors,"19-53, 12-24 Home","18-55, 7-31 Away",105,99,,,Final,,26,25,33,21,,27,22,22,28,,NBA
+220405009,2001,"April 05, 2002",Golden State Warriors,Denver Nuggets,"20-55, 13-24 Home","24-51, 7-30 Away",108,104,,,Final,,28,36,23,21,,20,29,27,28,,NBA
+220408009,2001,"April 08, 2002",Golden State Warriors,Minnesota Timberwolves,"20-57, 13-25 Home","48-29, 20-18 Away",93,100,,,Final,,21,25,23,24,,22,24,26,28,,NBA
+220412007,2001,"April 12, 2002",Denver Nuggets,Golden State Warriors,"25-54, 18-21 Home","20-59, 7-33 Away",97,89,,,Final,,28,26,14,29,,25,25,22,17,,NBA
+220416023,2001,"April 16, 2002",Sacramento Kings,Golden State Warriors,"61-20, 36-5 Home","20-61, 7-34 Away",120,106,,,Final,,29,34,32,25,,33,23,27,23,,NBA
+220417009,2001,"April 17, 2002",Golden State Warriors,LA Clippers,"21-61, 14-27 Home","39-43, 14-27 Away",107,103,,,Final,,33,28,19,27,,18,25,35,25,,NBA

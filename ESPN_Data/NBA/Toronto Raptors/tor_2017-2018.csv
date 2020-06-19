@@ -1,83 +1,83 @@
-,Unnamed: 0,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-0,0,400974778,2017,"Sat, Oct 21",Toronto Raptors,Philadelphia 76ers,"2-0, 2-0 Home","0-3, 0-2 Away",128,94,,,Final,,36,26,40,26,,19,30,22,23,,NBA
-1,1,400974814,2017,"Wed, Oct 25",Golden State Warriors,Toronto Raptors,"3-2, 1-1 Home","2-2, 0-2 Away",117,112,,,Final,,29,32,30,26,,26,27,33,26,,NBA
-2,2,400974850,2017,"Mon, Oct 30",Portland Trail Blazers,Toronto Raptors,"4-3, 2-2 Home","4-2, 2-2 Away",85,99,,,Final,,29,6,26,24,,29,25,27,18,,NBA
-3,3,400974879,2017,"Fri, Nov 3",Utah Jazz,Toronto Raptors,"5-4, 5-1 Home","5-3, 3-3 Away",100,109,,,Final,,26,28,28,18,,29,24,36,20,,NBA
-4,4,400974904,2017,"Tue, Nov 7",Toronto Raptors,Chicago Bulls,"6-4, 3-1 Home","2-7, 1-4 Away",119,114,,,Final,,29,36,33,21,,26,19,36,33,,NBA
-5,5,400974939,2017,"Sun, Nov 12",Boston Celtics,Toronto Raptors,"12-2, 6-1 Home","7-5, 3-4 Away",95,94,,,Final,,24,20,33,18,,24,25,27,18,,NBA
-6,6,400974962,2017,"Wed, Nov 15",New Orleans Pelicans,Toronto Raptors,"8-7, 3-4 Home","9-5, 5-4 Away",116,125,,,Final,,34,29,23,30,,29,35,34,27,,NBA
-7,7,400974988,2017,"Sun, Nov 19",Toronto Raptors,Washington Wizards,"11-5, 6-1 Home","9-7, 4-3 Away",100,91,,,Final,,28,32,19,21,,28,27,21,15,,NBA
-8,8,400975022,2017,"Fri, Nov 24",Indiana Pacers,Toronto Raptors,"11-8, 5-3 Home","11-7, 5-6 Away",107,104,,,Final,,29,21,31,26,,25,35,20,24,,NBA
-9,9,400975058,2017,"Wed, Nov 29",Toronto Raptors,Charlotte Hornets,"13-7, 7-1 Home","8-12, 1-9 Away",126,113,,,Final,,32,39,22,33,,25,27,33,28,,NBA
-10,10,400975101,2017,"Tue, Dec 5",Toronto Raptors,Phoenix Suns,"15-7, 9-1 Home","9-17, 5-8 Away",126,113,,,Final,NBATV,36,19,42,29,,23,23,33,34,,NBA
-11,11,400975136,2017,"Sun, Dec 10",Sacramento Kings,Toronto Raptors,"8-18, 4-7 Home","17-7, 8-6 Away",87,102,,,Final,,17,29,21,20,,22,32,25,23,,NBA
-12,12,400975162,2017,"Wed, Dec 13",Phoenix Suns,Toronto Raptors,"9-21, 4-12 Home","18-8, 9-7 Away",109,115,,,Final,,31,21,27,30,,37,21,34,23,,NBA
-13,13,400975188,2017,"Sun, Dec 17",Toronto Raptors,Sacramento Kings,"20-8, 11-1 Home","9-20, 4-13 Away",108,93,,,Final,,35,26,22,25,,30,33,14,16,,NBA
-14,14,400975218,2017,"Thu, Dec 21",Philadelphia 76ers,Toronto Raptors,"14-17, 7-9 Home","22-8, 11-7 Away",109,114,,,Final,,31,34,23,21,,30,22,34,28,,NBA
-15,15,400975245,2017,"Tue, Dec 26",Dallas Mavericks,Toronto Raptors,"10-25, 8-11 Home","23-9, 11-8 Away",98,93,,,Final,,31,26,28,13,,23,30,24,16,,NBA
-16,16,400975268,2017,"Fri, Dec 29",Toronto Raptors,Atlanta Hawks,"24-10, 13-1 Home","9-26, 3-15 Away",111,98,,,Final,,30,32,26,23,,22,25,22,29,,NBA
-17,17,400975306,2017,"Wed, Jan 3",Chicago Bulls,Toronto Raptors,"13-25, 9-10 Home","26-10, 12-9 Away",115,124,,,Final,,31,28,31,25,,21,35,34,34,,NBA
-18,18,400975338,2017,"Mon, Jan 8",Brooklyn Nets,Toronto Raptors,"15-25, 9-12 Home","28-10, 14-9 Away",113,114,,,Final/OT,,19,25,27,36,6.0,26,19,33,29,7.0,NBA
-19,19,400975361,2017,"Thu, Jan 11",Toronto Raptors,Cleveland Cavaliers,"29-11, 15-2 Home","26-15, 11-11 Away",133,99,,,Final,TNT,30,35,35,33,,24,16,32,27,,NBA
-20,20,400975385,2017,"Mon, Jan 15",Philadelphia 76ers,Toronto Raptors,"20-20, 10-10 Home","29-13, 14-10 Away",117,111,,,Final,,32,27,34,24,,23,26,26,36,,NBA
-21,21,400975413,2017,"Fri, Jan 19",Toronto Raptors,San Antonio Spurs,"31-13, 17-3 Home","30-17, 11-15 Away",86,83,,,Final,,17,27,19,23,,18,19,23,23,,NBA
-22,22,400975451,2017,"Wed, Jan 24",Atlanta Hawks,Toronto Raptors,"14-33, 10-14 Home","32-14, 15-11 Away",93,108,,,Final,,16,24,25,28,,28,30,27,23,,NBA
-23,23,400975481,2017,"Sun, Jan 28",Toronto Raptors,Los Angeles Lakers,"33-15, 18-4 Home","19-30, 7-16 Away",123,111,,,Final,,28,31,32,32,,21,28,28,34,,NBA
-24,24,400975508,2017,"Thu, Feb 1",Washington Wizards,Toronto Raptors,"29-22, 17-9 Home","34-16, 15-12 Away",122,119,,,Final,,27,28,33,34,,34,28,25,32,,NBA
-25,25,400975533,2017,"Sun, Feb 4",Toronto Raptors,Memphis Grizzlies,"36-16, 21-4 Home","18-34, 5-19 Away",101,86,,,Final,,25,31,20,25,,24,20,30,12,,NBA
-26,26,400975558,2017,"Thu, Feb 8",Toronto Raptors,New York Knicks,"38-16, 23-4 Home","23-33, 7-22 Away",113,88,,,Final,,23,29,30,31,,18,23,25,22,,NBA
-27,27,400975593,2017,"Tue, Feb 13",Toronto Raptors,Miami Heat,"40-16, 24-4 Home","30-27, 16-15 Away",115,112,,,Final,,28,29,41,17,,24,31,26,31,,NBA
-28,28,400975622,2017,"Fri, Feb 23",Toronto Raptors,Milwaukee Bucks,"41-17, 24-5 Home","33-25, 14-15 Away",119,122,,,Final/OT,,29,28,31,22,9.0,23,42,31,14,12.0,NBA
-29,29,400975660,2017,"Wed, Feb 28",Orlando Magic,Toronto Raptors,"18-43, 11-18 Home","43-17, 18-12 Away",104,117,,,Final,,37,26,26,15,,42,27,21,27,,NBA
-30,30,400975690,2017,"Sun, Mar 4",Toronto Raptors,Charlotte Hornets,"45-17, 26-5 Home","28-36, 10-21 Away",103,98,,,Final,,26,26,30,21,,21,22,26,29,,NBA
-31,31,400975712,2017,"Wed, Mar 7",Detroit Pistons,Toronto Raptors,"29-36, 20-14 Home","47-17, 20-12 Away",119,121,,,Final/OT,ESPN,23,36,25,30,5.0,27,18,40,29,7.0,NBA
-32,32,400975738,2017,"Sun, Mar 11",New York Knicks,Toronto Raptors,"24-43, 16-15 Home","49-17, 21-12 Away",106,132,,,Final,,27,30,29,20,,32,33,37,30,,NBA
-33,33,400975766,2017,"Thu, Mar 15",Indiana Pacers,Toronto Raptors,"40-29, 23-13 Home","51-17, 23-12 Away",99,106,,,Final,,27,30,22,20,,25,24,28,29,,NBA
-34,34,400975792,2017,"Sun, Mar 18",Toronto Raptors,Oklahoma City Thunder,"52-18, 29-6 Home","43-29, 18-18 Away",125,132,,,Final,,34,30,34,27,,40,26,31,35,,NBA
-35,35,400975811,2017,"Wed, Mar 21",Cleveland Cavaliers,Toronto Raptors,"42-29, 24-11 Home","53-19, 24-13 Away",132,129,,,Final,ESPN,42,22,34,34,,38,41,20,30,,NBA
-36,36,400975843,2017,"Sun, Mar 25",Toronto Raptors,LA Clippers,"54-20, 30-7 Home","39-34, 19-19 Away",106,117,,,Final,,35,25,20,26,,28,25,27,37,,NBA
-37,37,400975886,2017,"Sat, Mar 31",Boston Celtics,Toronto Raptors,"53-23, 25-13 Home","55-21, 24-14 Away",110,99,,,Final,NBATV,31,22,29,28,,33,22,29,15,,NBA
-38,38,400975917,2017,"Wed, Apr 4",Toronto Raptors,Boston Celtics,"56-22, 32-7 Home","53-25, 28-12 Away",96,78,,,Final,ESPN,14,29,24,29,,20,13,20,25,,NBA
-39,39,400975946,2017,"Sun, Apr 8",Toronto Raptors,Orlando Magic,"58-22, 34-7 Home","24-56, 8-32 Away",112,101,,,Final,NBATV,35,26,28,23,,24,26,24,27,,NBA
-40,40,400974769,2017,"Thu, Oct 19",Toronto Raptors,Chicago Bulls,"1-0, 1-0 Home","0-1, 0-1 Away",117,100,,,Final,,25,33,26,33,,23,14,27,36,,NBA
-41,41,400974797,2017,"Mon, Oct 23",San Antonio Spurs,Toronto Raptors,"3-0, 2-0 Home","2-1, 0-1 Away",101,97,,,Final,NBATV,21,29,25,26,,23,27,24,23,,NBA
-42,42,400974827,2017,"Fri, Oct 27",Los Angeles Lakers,Toronto Raptors,"2-3, 1-3 Home","3-2, 1-2 Away",92,101,,,Final,,26,25,20,21,,19,26,27,29,,NBA
-43,43,400974865,2017,"Wed, Nov 1",Denver Nuggets,Toronto Raptors,"4-4, 2-1 Home","4-3, 2-3 Away",129,111,,,Final,,34,26,43,26,,19,27,25,40,,NBA
-44,44,400974890,2017,"Sun, Nov 5",Toronto Raptors,Washington Wizards,"5-4, 2-1 Home","5-4, 3-2 Away",96,107,,,Final,,17,29,30,20,,32,30,22,23,,NBA
-45,45,400974916,2017,"Thu, Nov 9",Toronto Raptors,New Orleans Pelicans,"7-4, 4-1 Home","6-6, 5-3 Away",122,118,,,Final,,34,32,26,30,,32,28,32,26,,NBA
-46,46,400974953,2017,"Tue, Nov 14",Houston Rockets,Toronto Raptors,"11-4, 4-3 Home","8-5, 4-4 Away",113,129,,,Final,NBATV,33,31,30,19,,31,45,27,26,,NBA
-47,47,400974972,2017,"Fri, Nov 17",Toronto Raptors,New York Knicks,"10-5, 5-1 Home","8-7, 1-4 Away",107,84,,,Final,,30,24,24,29,,18,18,28,20,,NBA
-48,48,400975009,2017,"Wed, Nov 22",New York Knicks,Toronto Raptors,"10-7, 9-3 Home","11-6, 5-5 Away",108,100,,,Final,,26,22,41,19,,34,25,10,31,,NBA
-49,49,400975031,2017,"Sat, Nov 25",Atlanta Hawks,Toronto Raptors,"4-16, 2-7 Home","12-7, 6-6 Away",78,112,,,Final,,25,14,19,20,,28,39,32,13,,NBA
-50,50,400975070,2017,"Fri, Dec 1",Toronto Raptors,Indiana Pacers,"14-7, 8-1 Home","12-11, 6-7 Away",120,115,,,Final,,27,38,29,26,,32,26,31,26,,NBA
-51,51,400975122,2017,"Fri, Dec 8",Memphis Grizzlies,Toronto Raptors,"8-17, 5-9 Home","16-7, 7-6 Away",107,116,,,Final,,34,28,31,14,,25,32,35,24,,NBA
-52,52,400975147,2017,"Mon, Dec 11",LA Clippers,Toronto Raptors,"10-15, 6-7 Home","17-8, 8-7 Away",96,91,,,Final,NBATV,19,32,19,26,,30,23,21,17,,NBA
-53,53,400975175,2017,"Fri, Dec 15",Toronto Raptors,Brooklyn Nets,"19-8, 10-1 Home","11-17, 5-9 Away",120,87,,,Final,,30,28,33,29,,20,24,20,23,,NBA
-54,54,400975205,2017,"Wed, Dec 20",Charlotte Hornets,Toronto Raptors,"11-20, 9-9 Home","21-8, 10-7 Away",111,129,,,Final,,26,21,32,32,,22,41,36,30,,NBA
-55,55,400975231,2017,"Sat, Dec 23",Toronto Raptors,Philadelphia 76ers,"23-8, 12-1 Home","14-18, 7-9 Away",102,86,,,Final,,27,28,26,21,,27,19,17,23,,NBA
-56,56,400975258,2017,"Wed, Dec 27",Oklahoma City Thunder,Toronto Raptors,"20-15, 14-4 Home","23-10, 11-9 Away",124,107,,,Final,NBATV,32,34,36,22,,38,25,25,19,,NBA
-57,57,400975292,2017,"Mon, Jan 1",Toronto Raptors,Milwaukee Bucks,"25-10, 14-1 Home","19-16, 7-10 Away",131,127,,,Final/OT,,35,25,28,26,17.0,30,26,28,30,13.0,NBA
-58,58,400975317,2017,"Fri, Jan 5",Milwaukee Bucks,Toronto Raptors,"20-17, 13-7 Home","27-10, 13-9 Away",110,129,,,Final,,24,35,19,32,,33,28,43,25,,NBA
-59,59,400975345,2017,"Tue, Jan 9",Toronto Raptors,Miami Heat,"28-11, 14-2 Home","23-17, 12-8 Away",89,90,,,Final,,21,20,23,25,,22,29,21,18,,NBA
-60,60,400975377,2017,"Sat, Jan 13",Toronto Raptors,Golden State Warriors,"29-12, 15-3 Home","35-9, 19-3 Away",125,127,,,Final,,35,19,35,36,,43,38,27,19,,NBA
-61,61,400975402,2017,"Wed, Jan 17",Toronto Raptors,Detroit Pistons,"30-13, 16-3 Home","22-21, 9-15 Away",96,91,,,Final,,31,23,19,23,,18,33,22,18,,NBA
-62,62,400975426,2017,"Sat, Jan 20",Minnesota Timberwolves,Toronto Raptors,"30-18, 19-6 Home","31-14, 14-11 Away",115,109,,,Final,,26,28,33,28,,28,34,21,26,,NBA
-63,63,400975462,2017,"Fri, Jan 26",Toronto Raptors,Utah Jazz,"32-15, 17-4 Home","21-28, 7-19 Away",93,97,,,Final,,24,24,21,24,,30,15,30,22,,NBA
-64,64,400975492,2017,"Tue, Jan 30",Toronto Raptors,Minnesota Timberwolves,"34-15, 19-4 Home","32-22, 12-16 Away",109,104,,,Final,,19,32,27,31,,27,30,23,24,,NBA
-65,65,400975515,2017,"Fri, Feb 2",Toronto Raptors,Portland Trail Blazers,"35-16, 20-4 Home","29-23, 14-13 Away",130,105,,,Final,,37,37,27,29,,18,34,28,25,,NBA
-66,66,400975544,2017,"Tue, Feb 6",Toronto Raptors,Boston Celtics,"37-16, 22-4 Home","39-16, 18-8 Away",111,91,,,Final,,22,36,25,28,,18,19,23,31,,NBA
-67,67,400975579,2017,"Sun, Feb 11",Charlotte Hornets,Toronto Raptors,"23-33, 15-15 Home","39-16, 16-12 Away",103,123,,,Final,,26,29,19,29,,30,32,28,33,,NBA
-68,68,400975605,2017,"Wed, Feb 14",Chicago Bulls,Toronto Raptors,"20-37, 13-16 Home","41-16, 17-12 Away",98,122,,,Final,,33,16,27,22,,27,34,34,27,,NBA
-69,69,400975647,2017,"Mon, Feb 26",Toronto Raptors,Detroit Pistons,"42-17, 25-5 Home","28-32, 9-19 Away",123,94,,,Final,,30,29,34,30,,26,27,22,19,,NBA
-70,70,400975675,2017,"Fri, Mar 2",Washington Wizards,Toronto Raptors,"36-27, 18-13 Home","44-17, 19-12 Away",95,102,,,Final,ESPN,27,20,27,21,,19,32,26,25,,NBA
-71,71,400975704,2017,"Tue, Mar 6",Toronto Raptors,Atlanta Hawks,"46-17, 27-5 Home","20-45, 5-26 Away",106,90,,,Final,,27,23,26,30,,28,23,26,13,,NBA
-72,72,400975725,2017,"Fri, Mar 9",Toronto Raptors,Houston Rockets,"48-17, 28-5 Home","51-14, 26-8 Away",108,105,,,Final,,32,26,25,25,,16,27,32,30,,NBA
-73,73,400975754,2017,"Tue, Mar 13",Brooklyn Nets,Toronto Raptors,"21-47, 12-23 Home","50-17, 22-12 Away",102,116,,,Final,,40,27,18,17,,32,25,30,29,,NBA
-74,74,400975777,2017,"Fri, Mar 16",Toronto Raptors,Dallas Mavericks,"52-17, 29-5 Home","22-47, 8-25 Away",122,115,,,Final/OT,,29,25,24,28,16.0,27,33,24,22,9.0,NBA
-75,75,400975804,2017,"Tue, Mar 20",Orlando Magic,Toronto Raptors,"21-50, 14-20 Home","53-18, 24-12 Away",86,93,,,Final,,25,26,25,10,,24,28,16,25,,NBA
-76,76,400975828,2017,"Fri, Mar 23",Toronto Raptors,Brooklyn Nets,"54-19, 30-6 Home","23-50, 9-26 Away",116,112,,,Final,,31,28,25,32,,32,32,27,21,,NBA
-77,77,400975855,2017,"Tue, Mar 27",Toronto Raptors,Denver Nuggets,"55-20, 31-7 Home","40-35, 13-25 Away",114,110,,,Final,,25,33,24,32,,23,35,27,25,,NBA
-78,78,400975902,2017,"Tue, Apr 3",Cleveland Cavaliers,Toronto Raptors,"48-30, 28-11 Home","55-22, 24-15 Away",112,106,,,Final,,28,32,26,26,,24,28,26,28,,NBA
-79,79,400975933,2017,"Fri, Apr 6",Toronto Raptors,Indiana Pacers,"57-22, 33-7 Home","47-33, 20-20 Away",92,73,,,Final,,26,19,27,20,,14,19,16,24,,NBA
-80,80,400975950,2017,"Mon, Apr 9",Detroit Pistons,Toronto Raptors,"38-43, 25-16 Home","59-22, 25-15 Away",98,108,,,Final,,32,28,20,18,,32,25,28,23,,NBA
-81,81,400975967,2017,"Wed, Apr 11",Miami Heat,Toronto Raptors,"44-38, 26-15 Home","59-23, 25-16 Away",116,109,,,Final/OT,,27,20,24,34,11.0,29,24,25,27,4.0,NBA
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+400974778,2017,"October 21, 2017",Toronto Raptors,Philadelphia 76ers,"2-0, 2-0 Home","0-3, 0-2 Away",128,94,,,Final,,36,26,40,26,,19,30,22,23,,NBA
+400974814,2017,"October 25, 2017",Golden State Warriors,Toronto Raptors,"3-2, 1-1 Home","2-2, 0-2 Away",117,112,,,Final,,29,32,30,26,,26,27,33,26,,NBA
+400974850,2017,"October 30, 2017",Portland Trail Blazers,Toronto Raptors,"4-3, 2-2 Home","4-2, 2-2 Away",85,99,,,Final,,29,6,26,24,,29,25,27,18,,NBA
+400974879,2017,"November 03, 2017",Utah Jazz,Toronto Raptors,"5-4, 5-1 Home","5-3, 3-3 Away",100,109,,,Final,,26,28,28,18,,29,24,36,20,,NBA
+400974904,2017,"November 07, 2017",Toronto Raptors,Chicago Bulls,"6-4, 3-1 Home","2-7, 1-4 Away",119,114,,,Final,,29,36,33,21,,26,19,36,33,,NBA
+400974939,2017,"November 12, 2017",Boston Celtics,Toronto Raptors,"12-2, 6-1 Home","7-5, 3-4 Away",95,94,,,Final,,24,20,33,18,,24,25,27,18,,NBA
+400974962,2017,"November 15, 2017",New Orleans Pelicans,Toronto Raptors,"8-7, 3-4 Home","9-5, 5-4 Away",116,125,,,Final,,34,29,23,30,,29,35,34,27,,NBA
+400974988,2017,"November 19, 2017",Toronto Raptors,Washington Wizards,"11-5, 6-1 Home","9-7, 4-3 Away",100,91,,,Final,,28,32,19,21,,28,27,21,15,,NBA
+400975022,2017,"November 24, 2017",Indiana Pacers,Toronto Raptors,"11-8, 5-3 Home","11-7, 5-6 Away",107,104,,,Final,,29,21,31,26,,25,35,20,24,,NBA
+400975058,2017,"November 29, 2017",Toronto Raptors,Charlotte Hornets,"13-7, 7-1 Home","8-12, 1-9 Away",126,113,,,Final,,32,39,22,33,,25,27,33,28,,NBA
+400975101,2017,"December 05, 2017",Toronto Raptors,Phoenix Suns,"15-7, 9-1 Home","9-17, 5-8 Away",126,113,,,Final,NBATV,36,19,42,29,,23,23,33,34,,NBA
+400975136,2017,"December 10, 2017",Sacramento Kings,Toronto Raptors,"8-18, 4-7 Home","17-7, 8-6 Away",87,102,,,Final,,17,29,21,20,,22,32,25,23,,NBA
+400975162,2017,"December 13, 2017",Phoenix Suns,Toronto Raptors,"9-21, 4-12 Home","18-8, 9-7 Away",109,115,,,Final,,31,21,27,30,,37,21,34,23,,NBA
+400975188,2017,"December 17, 2017",Toronto Raptors,Sacramento Kings,"20-8, 11-1 Home","9-20, 4-13 Away",108,93,,,Final,,35,26,22,25,,30,33,14,16,,NBA
+400975218,2017,"December 21, 2017",Philadelphia 76ers,Toronto Raptors,"14-17, 7-9 Home","22-8, 11-7 Away",109,114,,,Final,,31,34,23,21,,30,22,34,28,,NBA
+400975245,2017,"December 26, 2017",Dallas Mavericks,Toronto Raptors,"10-25, 8-11 Home","23-9, 11-8 Away",98,93,,,Final,,31,26,28,13,,23,30,24,16,,NBA
+400975268,2017,"December 29, 2017",Toronto Raptors,Atlanta Hawks,"24-10, 13-1 Home","9-26, 3-15 Away",111,98,,,Final,,30,32,26,23,,22,25,22,29,,NBA
+400975306,2017,"January 03, 2018",Chicago Bulls,Toronto Raptors,"13-25, 9-10 Home","26-10, 12-9 Away",115,124,,,Final,,31,28,31,25,,21,35,34,34,,NBA
+400975338,2017,"January 08, 2018",Brooklyn Nets,Toronto Raptors,"15-25, 9-12 Home","28-10, 14-9 Away",113,114,,,Final/OT,,19,25,27,36,6.0,26,19,33,29,7.0,NBA
+400975361,2017,"January 11, 2018",Toronto Raptors,Cleveland Cavaliers,"29-11, 15-2 Home","26-15, 11-11 Away",133,99,,,Final,TNT,30,35,35,33,,24,16,32,27,,NBA
+400975385,2017,"January 15, 2018",Philadelphia 76ers,Toronto Raptors,"20-20, 10-10 Home","29-13, 14-10 Away",117,111,,,Final,,32,27,34,24,,23,26,26,36,,NBA
+400975413,2017,"January 19, 2018",Toronto Raptors,San Antonio Spurs,"31-13, 17-3 Home","30-17, 11-15 Away",86,83,,,Final,,17,27,19,23,,18,19,23,23,,NBA
+400975451,2017,"January 24, 2018",Atlanta Hawks,Toronto Raptors,"14-33, 10-14 Home","32-14, 15-11 Away",93,108,,,Final,,16,24,25,28,,28,30,27,23,,NBA
+400975481,2017,"January 28, 2018",Toronto Raptors,Los Angeles Lakers,"33-15, 18-4 Home","19-30, 7-16 Away",123,111,,,Final,,28,31,32,32,,21,28,28,34,,NBA
+400975508,2017,"February 01, 2018",Washington Wizards,Toronto Raptors,"29-22, 17-9 Home","34-16, 15-12 Away",122,119,,,Final,,27,28,33,34,,34,28,25,32,,NBA
+400975533,2017,"February 04, 2018",Toronto Raptors,Memphis Grizzlies,"36-16, 21-4 Home","18-34, 5-19 Away",101,86,,,Final,,25,31,20,25,,24,20,30,12,,NBA
+400975558,2017,"February 08, 2018",Toronto Raptors,New York Knicks,"38-16, 23-4 Home","23-33, 7-22 Away",113,88,,,Final,,23,29,30,31,,18,23,25,22,,NBA
+400975593,2017,"February 13, 2018",Toronto Raptors,Miami Heat,"40-16, 24-4 Home","30-27, 16-15 Away",115,112,,,Final,,28,29,41,17,,24,31,26,31,,NBA
+400975622,2017,"February 23, 2018",Toronto Raptors,Milwaukee Bucks,"41-17, 24-5 Home","33-25, 14-15 Away",119,122,,,Final/OT,,29,28,31,22,9.0,23,42,31,14,12.0,NBA
+400975660,2017,"February 28, 2018",Orlando Magic,Toronto Raptors,"18-43, 11-18 Home","43-17, 18-12 Away",104,117,,,Final,,37,26,26,15,,42,27,21,27,,NBA
+400975690,2017,"March 04, 2018",Toronto Raptors,Charlotte Hornets,"45-17, 26-5 Home","28-36, 10-21 Away",103,98,,,Final,,26,26,30,21,,21,22,26,29,,NBA
+400975712,2017,"March 07, 2018",Detroit Pistons,Toronto Raptors,"29-36, 20-14 Home","47-17, 20-12 Away",119,121,,,Final/OT,ESPN,23,36,25,30,5.0,27,18,40,29,7.0,NBA
+400975738,2017,"March 11, 2018",New York Knicks,Toronto Raptors,"24-43, 16-15 Home","49-17, 21-12 Away",106,132,,,Final,,27,30,29,20,,32,33,37,30,,NBA
+400975766,2017,"March 15, 2018",Indiana Pacers,Toronto Raptors,"40-29, 23-13 Home","51-17, 23-12 Away",99,106,,,Final,,27,30,22,20,,25,24,28,29,,NBA
+400975792,2017,"March 18, 2018",Toronto Raptors,Oklahoma City Thunder,"52-18, 29-6 Home","43-29, 18-18 Away",125,132,,,Final,,34,30,34,27,,40,26,31,35,,NBA
+400975811,2017,"March 21, 2018",Cleveland Cavaliers,Toronto Raptors,"42-29, 24-11 Home","53-19, 24-13 Away",132,129,,,Final,ESPN,42,22,34,34,,38,41,20,30,,NBA
+400975843,2017,"March 25, 2018",Toronto Raptors,LA Clippers,"54-20, 30-7 Home","39-34, 19-19 Away",106,117,,,Final,,35,25,20,26,,28,25,27,37,,NBA
+400975886,2017,"March 31, 2018",Boston Celtics,Toronto Raptors,"53-23, 25-13 Home","55-21, 24-14 Away",110,99,,,Final,NBATV,31,22,29,28,,33,22,29,15,,NBA
+400975917,2017,"April 04, 2018",Toronto Raptors,Boston Celtics,"56-22, 32-7 Home","53-25, 28-12 Away",96,78,,,Final,ESPN,14,29,24,29,,20,13,20,25,,NBA
+400975946,2017,"April 08, 2018",Toronto Raptors,Orlando Magic,"58-22, 34-7 Home","24-56, 8-32 Away",112,101,,,Final,NBATV,35,26,28,23,,24,26,24,27,,NBA
+400974769,2017,"October 19, 2017",Toronto Raptors,Chicago Bulls,"1-0, 1-0 Home","0-1, 0-1 Away",117,100,,,Final,,25,33,26,33,,23,14,27,36,,NBA
+400974797,2017,"October 23, 2017",San Antonio Spurs,Toronto Raptors,"3-0, 2-0 Home","2-1, 0-1 Away",101,97,,,Final,NBATV,21,29,25,26,,23,27,24,23,,NBA
+400974827,2017,"October 27, 2017",Los Angeles Lakers,Toronto Raptors,"2-3, 1-3 Home","3-2, 1-2 Away",92,101,,,Final,,26,25,20,21,,19,26,27,29,,NBA
+400974865,2017,"November 01, 2017",Denver Nuggets,Toronto Raptors,"4-4, 2-1 Home","4-3, 2-3 Away",129,111,,,Final,,34,26,43,26,,19,27,25,40,,NBA
+400974890,2017,"November 05, 2017",Toronto Raptors,Washington Wizards,"5-4, 2-1 Home","5-4, 3-2 Away",96,107,,,Final,,17,29,30,20,,32,30,22,23,,NBA
+400974916,2017,"November 09, 2017",Toronto Raptors,New Orleans Pelicans,"7-4, 4-1 Home","6-6, 5-3 Away",122,118,,,Final,,34,32,26,30,,32,28,32,26,,NBA
+400974953,2017,"November 14, 2017",Houston Rockets,Toronto Raptors,"11-4, 4-3 Home","8-5, 4-4 Away",113,129,,,Final,NBATV,33,31,30,19,,31,45,27,26,,NBA
+400974972,2017,"November 17, 2017",Toronto Raptors,New York Knicks,"10-5, 5-1 Home","8-7, 1-4 Away",107,84,,,Final,,30,24,24,29,,18,18,28,20,,NBA
+400975009,2017,"November 22, 2017",New York Knicks,Toronto Raptors,"10-7, 9-3 Home","11-6, 5-5 Away",108,100,,,Final,,26,22,41,19,,34,25,10,31,,NBA
+400975031,2017,"November 25, 2017",Atlanta Hawks,Toronto Raptors,"4-16, 2-7 Home","12-7, 6-6 Away",78,112,,,Final,,25,14,19,20,,28,39,32,13,,NBA
+400975070,2017,"December 01, 2017",Toronto Raptors,Indiana Pacers,"14-7, 8-1 Home","12-11, 6-7 Away",120,115,,,Final,,27,38,29,26,,32,26,31,26,,NBA
+400975122,2017,"December 08, 2017",Memphis Grizzlies,Toronto Raptors,"8-17, 5-9 Home","16-7, 7-6 Away",107,116,,,Final,,34,28,31,14,,25,32,35,24,,NBA
+400975147,2017,"December 11, 2017",LA Clippers,Toronto Raptors,"10-15, 6-7 Home","17-8, 8-7 Away",96,91,,,Final,NBATV,19,32,19,26,,30,23,21,17,,NBA
+400975175,2017,"December 15, 2017",Toronto Raptors,Brooklyn Nets,"19-8, 10-1 Home","11-17, 5-9 Away",120,87,,,Final,,30,28,33,29,,20,24,20,23,,NBA
+400975205,2017,"December 20, 2017",Charlotte Hornets,Toronto Raptors,"11-20, 9-9 Home","21-8, 10-7 Away",111,129,,,Final,,26,21,32,32,,22,41,36,30,,NBA
+400975231,2017,"December 23, 2017",Toronto Raptors,Philadelphia 76ers,"23-8, 12-1 Home","14-18, 7-9 Away",102,86,,,Final,,27,28,26,21,,27,19,17,23,,NBA
+400975258,2017,"December 27, 2017",Oklahoma City Thunder,Toronto Raptors,"20-15, 14-4 Home","23-10, 11-9 Away",124,107,,,Final,NBATV,32,34,36,22,,38,25,25,19,,NBA
+400975292,2017,"January 01, 2018",Toronto Raptors,Milwaukee Bucks,"25-10, 14-1 Home","19-16, 7-10 Away",131,127,,,Final/OT,,35,25,28,26,17.0,30,26,28,30,13.0,NBA
+400975317,2017,"January 05, 2018",Milwaukee Bucks,Toronto Raptors,"20-17, 13-7 Home","27-10, 13-9 Away",110,129,,,Final,,24,35,19,32,,33,28,43,25,,NBA
+400975345,2017,"January 09, 2018",Toronto Raptors,Miami Heat,"28-11, 14-2 Home","23-17, 12-8 Away",89,90,,,Final,,21,20,23,25,,22,29,21,18,,NBA
+400975377,2017,"January 13, 2018",Toronto Raptors,Golden State Warriors,"29-12, 15-3 Home","35-9, 19-3 Away",125,127,,,Final,,35,19,35,36,,43,38,27,19,,NBA
+400975402,2017,"January 17, 2018",Toronto Raptors,Detroit Pistons,"30-13, 16-3 Home","22-21, 9-15 Away",96,91,,,Final,,31,23,19,23,,18,33,22,18,,NBA
+400975426,2017,"January 20, 2018",Minnesota Timberwolves,Toronto Raptors,"30-18, 19-6 Home","31-14, 14-11 Away",115,109,,,Final,,26,28,33,28,,28,34,21,26,,NBA
+400975462,2017,"January 26, 2018",Toronto Raptors,Utah Jazz,"32-15, 17-4 Home","21-28, 7-19 Away",93,97,,,Final,,24,24,21,24,,30,15,30,22,,NBA
+400975492,2017,"January 30, 2018",Toronto Raptors,Minnesota Timberwolves,"34-15, 19-4 Home","32-22, 12-16 Away",109,104,,,Final,,19,32,27,31,,27,30,23,24,,NBA
+400975515,2017,"February 02, 2018",Toronto Raptors,Portland Trail Blazers,"35-16, 20-4 Home","29-23, 14-13 Away",130,105,,,Final,,37,37,27,29,,18,34,28,25,,NBA
+400975544,2017,"February 06, 2018",Toronto Raptors,Boston Celtics,"37-16, 22-4 Home","39-16, 18-8 Away",111,91,,,Final,,22,36,25,28,,18,19,23,31,,NBA
+400975579,2017,"February 11, 2018",Charlotte Hornets,Toronto Raptors,"23-33, 15-15 Home","39-16, 16-12 Away",103,123,,,Final,,26,29,19,29,,30,32,28,33,,NBA
+400975605,2017,"February 14, 2018",Chicago Bulls,Toronto Raptors,"20-37, 13-16 Home","41-16, 17-12 Away",98,122,,,Final,,33,16,27,22,,27,34,34,27,,NBA
+400975647,2017,"February 26, 2018",Toronto Raptors,Detroit Pistons,"42-17, 25-5 Home","28-32, 9-19 Away",123,94,,,Final,,30,29,34,30,,26,27,22,19,,NBA
+400975675,2017,"March 02, 2018",Washington Wizards,Toronto Raptors,"36-27, 18-13 Home","44-17, 19-12 Away",95,102,,,Final,ESPN,27,20,27,21,,19,32,26,25,,NBA
+400975704,2017,"March 06, 2018",Toronto Raptors,Atlanta Hawks,"46-17, 27-5 Home","20-45, 5-26 Away",106,90,,,Final,,27,23,26,30,,28,23,26,13,,NBA
+400975725,2017,"March 09, 2018",Toronto Raptors,Houston Rockets,"48-17, 28-5 Home","51-14, 26-8 Away",108,105,,,Final,,32,26,25,25,,16,27,32,30,,NBA
+400975754,2017,"March 13, 2018",Brooklyn Nets,Toronto Raptors,"21-47, 12-23 Home","50-17, 22-12 Away",102,116,,,Final,,40,27,18,17,,32,25,30,29,,NBA
+400975777,2017,"March 16, 2018",Toronto Raptors,Dallas Mavericks,"52-17, 29-5 Home","22-47, 8-25 Away",122,115,,,Final/OT,,29,25,24,28,16.0,27,33,24,22,9.0,NBA
+400975804,2017,"March 20, 2018",Orlando Magic,Toronto Raptors,"21-50, 14-20 Home","53-18, 24-12 Away",86,93,,,Final,,25,26,25,10,,24,28,16,25,,NBA
+400975828,2017,"March 23, 2018",Toronto Raptors,Brooklyn Nets,"54-19, 30-6 Home","23-50, 9-26 Away",116,112,,,Final,,31,28,25,32,,32,32,27,21,,NBA
+400975855,2017,"March 27, 2018",Toronto Raptors,Denver Nuggets,"55-20, 31-7 Home","40-35, 13-25 Away",114,110,,,Final,,25,33,24,32,,23,35,27,25,,NBA
+400975902,2017,"April 03, 2018",Cleveland Cavaliers,Toronto Raptors,"48-30, 28-11 Home","55-22, 24-15 Away",112,106,,,Final,,28,32,26,26,,24,28,26,28,,NBA
+400975933,2017,"April 06, 2018",Toronto Raptors,Indiana Pacers,"57-22, 33-7 Home","47-33, 20-20 Away",92,73,,,Final,,26,19,27,20,,14,19,16,24,,NBA
+400975950,2017,"April 09, 2018",Detroit Pistons,Toronto Raptors,"38-43, 25-16 Home","59-22, 25-15 Away",98,108,,,Final,,32,28,20,18,,32,25,28,23,,NBA
+400975967,2017,"April 11, 2018",Miami Heat,Toronto Raptors,"44-38, 26-15 Home","59-23, 25-16 Away",116,109,,,Final/OT,,27,20,24,34,11.0,29,24,25,27,4.0,NBA

@@ -1,83 +1,83 @@
-,Unnamed: 0,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-0,0,201101013,2000,"Wed, Nov 1",Los Angeles Lakers,Utah Jazz,"1-1, 0-1 Home","2-0, 1-0 Away",92,97,,,Final,,16,15,25,36,,24,20,21,32,,NBA
-1,1,201106026,2000,"Mon, Nov 6",Utah Jazz,Minnesota Timberwolves,"4-0, 2-0 Home","2-2, 1-2 Away",98,92,,,Final,,20,29,20,29,,29,22,27,14,,NBA
-2,2,201110026,2000,"Fri, Nov 10",Utah Jazz,Miami Heat,"5-1, 2-1 Home","3-2, 1-1 Away",80,87,,,Final,,23,11,24,22,,23,23,28,13,,NBA
-3,3,201116026,2000,"Thu, Nov 16",Utah Jazz,Orlando Magic,"6-2, 3-1 Home","4-6, 2-4 Away",99,84,,,Final,,27,28,18,26,,28,23,16,17,,NBA
-4,4,201120026,2000,"Mon, Nov 20",Utah Jazz,Dallas Mavericks,"7-3, 4-2 Home","8-4, 5-2 Away",98,107,,,Final,,22,26,25,25,,22,34,30,21,,NBA
-5,5,201124026,2000,"Fri, Nov 24",Utah Jazz,New Jersey Nets,"9-3, 6-2 Home","6-6, 3-2 Away",97,85,,,Final,,31,28,17,21,,24,26,17,18,,NBA
-6,6,201128017,2000,"Tue, Nov 28",New Jersey Nets,Utah Jazz,"6-8, 3-5 Home","11-3, 5-1 Away",92,98,,,Final,,24,18,24,26,,18,30,18,32,,NBA
-7,7,201201014,2000,"Fri, Dec 1",Miami Heat,Utah Jazz,"6-10, 4-5 Home","13-3, 7-1 Away",92,94,,,Final,,19,26,33,14,,20,23,23,28,,NBA
-8,8,201205026,2000,"Tue, Dec 5",Utah Jazz,Toronto Raptors,"14-4, 7-2 Home","9-8, 3-5 Away",98,84,,,Final,,24,25,21,28,,11,33,21,19,,NBA
-9,9,201209026,2000,"Sat, Dec 9",Utah Jazz,Golden State Warriors,"16-4, 9-2 Home","6-15, 1-10 Away",125,114,,,Final,,31,36,24,34,,36,29,26,23,,NBA
-10,10,201213026,2000,"Wed, Dec 13",Utah Jazz,Milwaukee Bucks,"16-6, 9-4 Home","11-11, 5-6 Away",102,111,,,Final,,20,21,33,28,,23,26,30,32,,NBA
-11,11,201216005,2000,"Sat, Dec 16",Cleveland Cavaliers,Utah Jazz,"15-7, 10-2 Home","17-7, 8-3 Away",99,92,,,Final,,16,27,28,28,,19,21,23,29,,NBA
-12,12,201220020,2000,"Wed, Dec 20",Philadelphia 76ers,Utah Jazz,"18-7, 7-3 Home","18-8, 9-4 Away",89,91,,,Final,CSN,28,19,21,21,,14,24,23,30,,NBA
-13,13,201223016,2000,"Sat, Dec 23",Minnesota Timberwolves,Utah Jazz,"15-13, 8-4 Home","20-8, 11-4 Away",92,98,,,Final,,30,17,27,18,,17,26,19,36,,NBA
-14,14,201228026,2000,"Thu, Dec 28",Utah Jazz,Portland Trail Blazers,"20-10, 9-6 Home","20-10, 10-7 Away",102,103,,,Final/OT,,25,28,24,15,10.0,20,26,28,18,11.0,NBA
-15,15,210103013,2000,"Wed, Jan 3",Los Angeles Lakers,Utah Jazz,"23-10, 13-4 Home","20-12, 11-6 Away",82,71,,,Final,,15,18,19,30,,18,10,19,24,,NBA
-16,16,210106010,2000,"Sat, Jan 6",Houston Rockets,Utah Jazz,"16-17, 8-9 Home","21-13, 12-7 Away",97,99,,,Final,,22,31,19,25,,24,27,24,24,,NBA
-17,17,210113026,2000,"Sat, Jan 13",Utah Jazz,Los Angeles Lakers,"23-13, 11-6 Home","24-12, 10-7 Away",111,103,,,Final,,26,32,29,24,,30,25,19,29,,NBA
-18,18,210117026,2000,"Wed, Jan 17",Utah Jazz,Minnesota Timberwolves,"24-14, 12-7 Home","22-18, 9-11 Away",81,89,,,Final,,19,23,18,21,,20,22,23,24,,NBA
-19,19,210123026,2000,"Tue, Jan 23",Utah Jazz,Golden State Warriors,"26-14, 14-7 Home","13-28, 5-16 Away",100,78,,,Final,,27,25,27,21,,14,17,24,23,,NBA
-20,20,210127026,2000,"Sat, Jan 27",Utah Jazz,San Antonio Spurs,"27-15, 15-8 Home","26-15, 10-11 Away",86,99,,,Final,,16,26,20,24,,29,25,21,24,,NBA
-21,21,210130025,2000,"Tue, Jan 30",Seattle SuperSonics,Utah Jazz,"26-22, 14-8 Home","29-15, 14-7 Away",88,102,,,Final,,29,21,17,21,,24,24,28,26,,NBA
-22,22,210203026,2000,"Sat, Feb 3",Utah Jazz,Seattle SuperSonics,"31-15, 17-8 Home","27-23, 12-15 Away",111,91,,,Final,,27,23,33,28,,20,27,27,17,,NBA
-23,23,210213026,2000,"Tue, Feb 13",Utah Jazz,Sacramento Kings,"32-16, 17-9 Home","32-15, 12-11 Away",94,97,,,Final/OT,,19,33,21,16,5.0,28,27,18,16,8.0,NBA
-24,24,210218023,2000,"Sun, Feb 18",Sacramento Kings,Utah Jazz,"33-17, 21-5 Home","34-16, 16-7 Away",90,94,,,Final,,24,20,27,19,,20,19,25,30,,NBA
-25,25,210222022,2000,"Thu, Feb 22",Portland Trail Blazers,Utah Jazz,"38-17, 22-6 Home","36-16, 17-7 Away",84,90,,,Final,,21,19,18,26,,22,24,21,23,,NBA
-26,26,210225021,2000,"Sun, Feb 25",Phoenix Suns,Utah Jazz,"34-21, 20-7 Home","37-17, 18-8 Away",90,80,,,Final,,24,25,23,18,,20,17,28,15,,NBA
-27,27,210228026,2000,"Wed, Feb 28",Utah Jazz,Vancouver Grizzlies,"39-17, 21-9 Home","18-41, 6-23 Away",101,83,,,Final,,31,20,27,23,,25,24,17,17,,NBA
-28,28,210304027,2000,"Sun, Mar 4",Washington Wizards,Utah Jazz,"13-47, 8-21 Home","40-18, 19-9 Away",98,118,,,Final,,17,18,32,31,,26,32,32,28,,NBA
-29,29,210307026,2000,"Wed, Mar 7",Utah Jazz,Seattle SuperSonics,"42-18, 22-9 Home","31-32, 14-20 Away",86,82,,,Final,,17,22,26,21,,25,11,21,25,,NBA
-30,30,210311023,2000,"Sun, Mar 11",Sacramento Kings,Utah Jazz,"42-19, 26-5 Home","43-19, 20-10 Away",105,90,,,Final,,28,21,27,29,,31,15,18,26,,NBA
-31,31,210316022,2000,"Fri, Mar 16",Portland Trail Blazers,Utah Jazz,"43-23, 25-9 Home","44-20, 21-11 Away",90,87,,,Final,,22,25,25,18,,21,21,22,23,,NBA
-32,32,210320026,2000,"Tue, Mar 20",Utah Jazz,Detroit Pistons,"46-20, 24-9 Home","25-43, 11-22 Away",84,79,,,Final,,25,25,11,23,,27,22,19,11,,NBA
-33,33,210324026,2000,"Sat, Mar 24",Utah Jazz,Washington Wizards,"47-21, 25-10 Home","17-53, 7-31 Away",119,93,,,Final,,41,29,24,25,,13,27,24,29,,NBA
-34,34,210327010,2000,"Tue, Mar 27",Houston Rockets,Utah Jazz,"39-32, 21-14 Home","47-23, 22-12 Away",109,86,,,Final,,27,39,26,17,,23,16,26,21,,NBA
-35,35,210330026,2000,"Fri, Mar 30",Utah Jazz,Cleveland Cavaliers,"48-24, 26-11 Home","26-46, 8-28 Away",95,88,,,Final,,21,26,25,23,,20,21,26,21,,NBA
-36,36,210403026,2000,"Tue, Apr 3",Utah Jazz,Los Angeles Lakers,"49-25, 26-12 Home","49-26, 22-16 Away",88,96,,,Final,,19,25,19,25,,22,30,17,27,,NBA
-37,37,210407006,2000,"Sat, Apr 7",Dallas Mavericks,Utah Jazz,"49-27, 26-13 Home","50-26, 24-13 Away",103,116,,,Final,,21,21,30,31,,17,31,36,32,,NBA
-38,38,210412015,2000,"Thu, Apr 12",Milwaukee Bucks,Utah Jazz,"50-29, 30-10 Home","51-27, 24-14 Away",115,93,,,Final,,34,26,27,28,,16,18,33,26,,NBA
-39,39,210415016,2000,"Sun, Apr 15",Minnesota Timberwolves,Utah Jazz,"47-33, 30-11 Home","52-28, 25-15 Away",107,100,,,Final,,23,24,29,31,,29,19,26,26,,NBA
-40,40,201031026,2000,"Tue, Oct 31",Utah Jazz,Los Angeles Clippers,"1-0, 1-0 Home","0-1, 0-1 Away",107,94,,,Final,,22,28,34,23,,19,27,21,27,,NBA
-41,41,201104006,2000,"Sat, Nov 4",Dallas Mavericks,Utah Jazz,"2-1, 2-1 Home","3-0, 2-0 Away",106,112,,,Final,,24,22,30,30,,30,19,33,30,,NBA
-42,42,201108012,2000,"Wed, Nov 8",Los Angeles Clippers,Utah Jazz,"1-4, 1-2 Home","5-0, 3-0 Away",87,93,,,Final/OT,,20,14,25,17,11.0,25,16,17,18,17.0,NBA
-43,43,201114024,2000,"Tue, Nov 14",San Antonio Spurs,Utah Jazz,"6-2, 5-0 Home","5-2, 3-1 Away",86,79,,,Final,,25,21,23,17,,17,23,16,23,,NBA
-44,44,201118100,2000,"Sat, Nov 18",Utah Jazz,Chicago Bulls,"7-2, 4-1 Home","1-8, 0-4 Away",109,64,,,Final,,N,U,L,L,,N,U,L,L,,NBA
-45,45,201122026,2000,"Wed, Nov 22",Utah Jazz,Denver Nuggets,"8-3, 5-2 Home","6-6, 1-4 Away",116,78,,,Final,,28,31,30,27,,25,17,17,19,,NBA
-46,46,201126008,2000,"Sun, Nov 26",Detroit Pistons,Utah Jazz,"5-9, 2-4 Home","10-3, 4-1 Away",79,94,,,Final,,29,13,25,12,,28,14,21,31,,NBA
-47,47,201129019,2000,"Wed, Nov 29",Orlando Magic,Utah Jazz,"5-11, 3-6 Home","12-3, 6-1 Away",86,88,,,Final,,27,20,24,15,,29,17,16,26,,NBA
-48,48,201202003,2000,"Sat, Dec 2",Charlotte Hornets,Utah Jazz,"11-7, 5-3 Home","13-4, 7-2 Away",94,89,,,Final,,21,23,21,29,,20,26,20,23,,NBA
-49,49,201207026,2000,"Thu, Dec 7",Utah Jazz,Vancouver Grizzlies,"15-4, 8-2 Home","7-12, 3-6 Away",98,87,,,Final,,16,28,24,30,,20,21,19,27,,NBA
-50,50,201211026,2000,"Mon, Dec 11",Utah Jazz,San Antonio Spurs,"16-5, 9-3 Home","13-7, 4-6 Away",83,91,,,Final,,18,23,20,22,,18,23,24,26,,NBA
-51,51,201215018,2000,"Fri, Dec 15",New York Knicks,Utah Jazz,"14-10, 7-5 Home","17-6, 8-2 Away",58,89,,,Final,,13,12,23,10,,24,16,31,18,,NBA
-52,52,201219028,2000,"Tue, Dec 19",Toronto Raptors,Utah Jazz,"13-12, 9-5 Home","17-8, 8-4 Away",103,95,,,Final,,29,25,26,23,,21,28,15,31,,NBA
-53,53,201222011,2000,"Fri, Dec 22",Indiana Pacers,Utah Jazz,"12-15, 7-6 Home","19-8, 10-4 Away",101,109,,,Final,,20,23,33,25,,31,16,34,28,,NBA
-54,54,201226026,2000,"Tue, Dec 26",Utah Jazz,Philadelphia 76ers,"20-9, 9-5 Home","19-8, 12-4 Away",91,97,,,Final,CSN,17,23,23,28,0.0,23,28,26,20,0.0,NBA
-55,55,201229009,2000,"Fri, Dec 29",Golden State Warriors,Utah Jazz,"9-20, 7-9 Home","20-11, 11-5 Away",100,89,,,Final,,19,19,30,32,,8,21,36,24,,NBA
-56,56,210105007,2000,"Fri, Jan 5",Denver Nuggets,Utah Jazz,"18-15, 13-5 Home","20-13, 11-7 Away",100,87,,,Final,,27,20,27,26,,25,16,25,21,,NBA
-57,57,210109026,2000,"Tue, Jan 9",Utah Jazz,Indiana Pacers,"22-13, 10-6 Home","16-20, 8-13 Away",103,99,,,Final,,20,26,28,29,,24,25,21,29,,NBA
-58,58,210115026,2000,"Mon, Jan 15",Utah Jazz,Houston Rockets,"24-13, 12-6 Home","18-19, 10-9 Away",116,104,,,Final/OT,,17,25,24,31,19.0,18,24,20,35,7.0,NBA
-59,59,210121026,2000,"Sun, Jan 21",Utah Jazz,Phoenix Suns,"25-14, 13-7 Home","23-15, 8-8 Away",109,98,,,Final,,30,23,24,32,,24,27,21,26,,NBA
-60,60,210125026,2000,"Thu, Jan 25",Utah Jazz,Denver Nuggets,"27-14, 15-7 Home","25-18, 6-13 Away",98,96,,,Final,,27,23,20,28,,21,27,27,21,,NBA
-61,61,210129007,2000,"Mon, Jan 29",Denver Nuggets,Utah Jazz,"26-19, 20-6 Home","28-15, 13-7 Away",91,97,,,Final,,13,23,22,33,,26,21,24,26,,NBA
-62,62,210201026,2000,"Thu, Feb 1",Utah Jazz,Charlotte Hornets,"30-15, 16-8 Home","25-22, 11-15 Away",87,76,,,Final,,15,29,29,14,,22,16,27,11,,NBA
-63,63,210207029,2000,"Wed, Feb 7",Vancouver Grizzlies,Utah Jazz,"13-36, 10-17 Home","32-15, 15-7 Away",82,92,,,Final,,21,21,20,20,,27,17,22,26,,NBA
-64,64,210214026,2000,"Wed, Feb 14",Utah Jazz,New York Knicks,"33-16, 18-9 Home","29-20, 14-11 Away",106,90,,,Final,,23,33,25,25,,26,24,25,15,,NBA
-65,65,210219026,2000,"Mon, Feb 19",Utah Jazz,Boston Celtics,"35-16, 19-9 Home","24-29, 9-16 Away",114,99,,,Final,,27,31,31,25,,17,27,26,29,,NBA
-66,66,210223025,2000,"Fri, Feb 23",Seattle SuperSonics,Utah Jazz,"29-27, 17-11 Home","37-16, 18-7 Away",84,96,,,Final,,16,32,19,17,,22,22,23,29,,NBA
-67,67,210226026,2000,"Mon, Feb 26",Utah Jazz,Atlanta Hawks,"38-17, 20-9 Home","18-39, 7-24 Away",99,82,,,Final,,25,27,25,22,,25,19,20,18,,NBA
-68,68,210302002,2000,"Fri, Mar 2",Boston Celtics,Utah Jazz,"26-33, 17-13 Home","39-18, 18-9 Away",103,99,,,Final,,21,33,26,23,,20,30,27,22,,NBA
-69,69,210305001,2000,"Mon, Mar 5",Atlanta Hawks,Utah Jazz,"18-43, 11-18 Home","41-18, 20-9 Away",102,109,,,Final,,24,27,32,19,,24,34,26,25,,NBA
-70,70,210309026,2000,"Fri, Mar 9",Utah Jazz,Phoenix Suns,"43-18, 23-9 Home","36-25, 15-16 Away",107,95,,,Final,,22,27,30,28,,19,21,17,38,,NBA
-71,71,210314009,2000,"Wed, Mar 14",Golden State Warriors,Utah Jazz,"16-49, 10-21 Home","44-19, 21-10 Away",83,102,,,Final,,12,23,25,23,,27,22,19,34,,NBA
-72,72,210318012,2000,"Sun, Mar 18",Los Angeles Clippers,Utah Jazz,"23-45, 15-18 Home","45-20, 22-11 Away",96,111,,,Final,,24,21,24,27,,28,31,27,25,,NBA
-73,73,210322026,2000,"Thu, Mar 22",Utah Jazz,Portland Trail Blazers,"46-21, 24-10 Home","45-24, 20-15 Away",99,101,,,Final,,28,29,20,22,,26,22,22,31,,NBA
-74,74,210326026,2000,"Mon, Mar 26",Utah Jazz,Dallas Mavericks,"47-22, 25-11 Home","45-25, 20-13 Away",90,98,,,Final,,18,28,20,24,,18,17,29,34,,NBA
-75,75,210329024,2000,"Thu, Mar 29",San Antonio Spurs,Utah Jazz,"51-21, 30-6 Home","47-24, 22-13 Away",106,88,,,Final,,36,31,20,19,,18,25,27,18,,NBA
-76,76,210401029,2000,"Sun, Apr 1",Vancouver Grizzlies,Utah Jazz,"21-53, 14-22 Home","49-24, 23-13 Away",73,92,,,Final,,22,23,16,12,,25,20,28,19,,NBA
-77,77,210405026,2000,"Thu, Apr 5",Utah Jazz,Sacramento Kings,"49-26, 26-13 Home","50-24, 20-16 Away",86,92,,,Final,,35,12,19,20,,18,24,29,21,,NBA
-78,78,210409026,2000,"Mon, Apr 9",Utah Jazz,Houston Rockets,"51-26, 27-13 Home","42-36, 19-20 Away",96,81,,,Final,,12,26,36,22,,18,23,16,24,,NBA
-79,79,210413004,2000,"Fri, Apr 13",Chicago Bulls,Utah Jazz,"13-66, 10-30 Home","52-27, 25-14 Away",83,94,,,Final,,22,20,23,18,,17,24,28,25,,NBA
-80,80,210417026,2000,"Tue, Apr 17",Utah Jazz,Los Angeles Clippers,"53-28, 28-13 Home","31-51, 9-32 Away",97,92,,,Final,,27,20,17,33,,18,26,24,24,,NBA
-81,81,210418021,2000,"Wed, Apr 18",Phoenix Suns,Utah Jazz,"51-31, 31-10 Home","53-29, 25-16 Away",98,93,,,Final,,22,22,25,29,,26,15,24,28,,NBA
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+201101013,2000,"November 01, 2000",Los Angeles Lakers,Utah Jazz,"1-1, 0-1 Home","2-0, 1-0 Away",92,97,,,Final,,16,15,25,36,,24,20,21,32,,NBA
+201106026,2000,"November 06, 2000",Utah Jazz,Minnesota Timberwolves,"4-0, 2-0 Home","2-2, 1-2 Away",98,92,,,Final,,20,29,20,29,,29,22,27,14,,NBA
+201110026,2000,"November 10, 2000",Utah Jazz,Miami Heat,"5-1, 2-1 Home","3-2, 1-1 Away",80,87,,,Final,,23,11,24,22,,23,23,28,13,,NBA
+201116026,2000,"November 16, 2000",Utah Jazz,Orlando Magic,"6-2, 3-1 Home","4-6, 2-4 Away",99,84,,,Final,,27,28,18,26,,28,23,16,17,,NBA
+201120026,2000,"November 20, 2000",Utah Jazz,Dallas Mavericks,"7-3, 4-2 Home","8-4, 5-2 Away",98,107,,,Final,,22,26,25,25,,22,34,30,21,,NBA
+201124026,2000,"November 24, 2000",Utah Jazz,New Jersey Nets,"9-3, 6-2 Home","6-6, 3-2 Away",97,85,,,Final,,31,28,17,21,,24,26,17,18,,NBA
+201128017,2000,"November 28, 2000",New Jersey Nets,Utah Jazz,"6-8, 3-5 Home","11-3, 5-1 Away",92,98,,,Final,,24,18,24,26,,18,30,18,32,,NBA
+201201014,2000,"December 01, 2000",Miami Heat,Utah Jazz,"6-10, 4-5 Home","13-3, 7-1 Away",92,94,,,Final,,19,26,33,14,,20,23,23,28,,NBA
+201205026,2000,"December 05, 2000",Utah Jazz,Toronto Raptors,"14-4, 7-2 Home","9-8, 3-5 Away",98,84,,,Final,,24,25,21,28,,11,33,21,19,,NBA
+201209026,2000,"December 09, 2000",Utah Jazz,Golden State Warriors,"16-4, 9-2 Home","6-15, 1-10 Away",125,114,,,Final,,31,36,24,34,,36,29,26,23,,NBA
+201213026,2000,"December 13, 2000",Utah Jazz,Milwaukee Bucks,"16-6, 9-4 Home","11-11, 5-6 Away",102,111,,,Final,,20,21,33,28,,23,26,30,32,,NBA
+201216005,2000,"December 16, 2000",Cleveland Cavaliers,Utah Jazz,"15-7, 10-2 Home","17-7, 8-3 Away",99,92,,,Final,,16,27,28,28,,19,21,23,29,,NBA
+201220020,2000,"December 20, 2000",Philadelphia 76ers,Utah Jazz,"18-7, 7-3 Home","18-8, 9-4 Away",89,91,,,Final,CSN,28,19,21,21,,14,24,23,30,,NBA
+201223016,2000,"December 23, 2000",Minnesota Timberwolves,Utah Jazz,"15-13, 8-4 Home","20-8, 11-4 Away",92,98,,,Final,,30,17,27,18,,17,26,19,36,,NBA
+201228026,2000,"December 28, 2000",Utah Jazz,Portland Trail Blazers,"20-10, 9-6 Home","20-10, 10-7 Away",102,103,,,Final/OT,,25,28,24,15,10.0,20,26,28,18,11.0,NBA
+210103013,2000,"January 03, 2001",Los Angeles Lakers,Utah Jazz,"23-10, 13-4 Home","20-12, 11-6 Away",82,71,,,Final,,15,18,19,30,,18,10,19,24,,NBA
+210106010,2000,"January 06, 2001",Houston Rockets,Utah Jazz,"16-17, 8-9 Home","21-13, 12-7 Away",97,99,,,Final,,22,31,19,25,,24,27,24,24,,NBA
+210113026,2000,"January 13, 2001",Utah Jazz,Los Angeles Lakers,"23-13, 11-6 Home","24-12, 10-7 Away",111,103,,,Final,,26,32,29,24,,30,25,19,29,,NBA
+210117026,2000,"January 17, 2001",Utah Jazz,Minnesota Timberwolves,"24-14, 12-7 Home","22-18, 9-11 Away",81,89,,,Final,,19,23,18,21,,20,22,23,24,,NBA
+210123026,2000,"January 23, 2001",Utah Jazz,Golden State Warriors,"26-14, 14-7 Home","13-28, 5-16 Away",100,78,,,Final,,27,25,27,21,,14,17,24,23,,NBA
+210127026,2000,"January 27, 2001",Utah Jazz,San Antonio Spurs,"27-15, 15-8 Home","26-15, 10-11 Away",86,99,,,Final,,16,26,20,24,,29,25,21,24,,NBA
+210130025,2000,"January 30, 2001",Seattle SuperSonics,Utah Jazz,"26-22, 14-8 Home","29-15, 14-7 Away",88,102,,,Final,,29,21,17,21,,24,24,28,26,,NBA
+210203026,2000,"February 03, 2001",Utah Jazz,Seattle SuperSonics,"31-15, 17-8 Home","27-23, 12-15 Away",111,91,,,Final,,27,23,33,28,,20,27,27,17,,NBA
+210213026,2000,"February 13, 2001",Utah Jazz,Sacramento Kings,"32-16, 17-9 Home","32-15, 12-11 Away",94,97,,,Final/OT,,19,33,21,16,5.0,28,27,18,16,8.0,NBA
+210218023,2000,"February 18, 2001",Sacramento Kings,Utah Jazz,"33-17, 21-5 Home","34-16, 16-7 Away",90,94,,,Final,,24,20,27,19,,20,19,25,30,,NBA
+210222022,2000,"February 22, 2001",Portland Trail Blazers,Utah Jazz,"38-17, 22-6 Home","36-16, 17-7 Away",84,90,,,Final,,21,19,18,26,,22,24,21,23,,NBA
+210225021,2000,"February 25, 2001",Phoenix Suns,Utah Jazz,"34-21, 20-7 Home","37-17, 18-8 Away",90,80,,,Final,,24,25,23,18,,20,17,28,15,,NBA
+210228026,2000,"February 28, 2001",Utah Jazz,Vancouver Grizzlies,"39-17, 21-9 Home","18-41, 6-23 Away",101,83,,,Final,,31,20,27,23,,25,24,17,17,,NBA
+210304027,2000,"March 04, 2001",Washington Wizards,Utah Jazz,"13-47, 8-21 Home","40-18, 19-9 Away",98,118,,,Final,,17,18,32,31,,26,32,32,28,,NBA
+210307026,2000,"March 07, 2001",Utah Jazz,Seattle SuperSonics,"42-18, 22-9 Home","31-32, 14-20 Away",86,82,,,Final,,17,22,26,21,,25,11,21,25,,NBA
+210311023,2000,"March 11, 2001",Sacramento Kings,Utah Jazz,"42-19, 26-5 Home","43-19, 20-10 Away",105,90,,,Final,,28,21,27,29,,31,15,18,26,,NBA
+210316022,2000,"March 16, 2001",Portland Trail Blazers,Utah Jazz,"43-23, 25-9 Home","44-20, 21-11 Away",90,87,,,Final,,22,25,25,18,,21,21,22,23,,NBA
+210320026,2000,"March 20, 2001",Utah Jazz,Detroit Pistons,"46-20, 24-9 Home","25-43, 11-22 Away",84,79,,,Final,,25,25,11,23,,27,22,19,11,,NBA
+210324026,2000,"March 24, 2001",Utah Jazz,Washington Wizards,"47-21, 25-10 Home","17-53, 7-31 Away",119,93,,,Final,,41,29,24,25,,13,27,24,29,,NBA
+210327010,2000,"March 27, 2001",Houston Rockets,Utah Jazz,"39-32, 21-14 Home","47-23, 22-12 Away",109,86,,,Final,,27,39,26,17,,23,16,26,21,,NBA
+210330026,2000,"March 30, 2001",Utah Jazz,Cleveland Cavaliers,"48-24, 26-11 Home","26-46, 8-28 Away",95,88,,,Final,,21,26,25,23,,20,21,26,21,,NBA
+210403026,2000,"April 03, 2001",Utah Jazz,Los Angeles Lakers,"49-25, 26-12 Home","49-26, 22-16 Away",88,96,,,Final,,19,25,19,25,,22,30,17,27,,NBA
+210407006,2000,"April 07, 2001",Dallas Mavericks,Utah Jazz,"49-27, 26-13 Home","50-26, 24-13 Away",103,116,,,Final,,21,21,30,31,,17,31,36,32,,NBA
+210412015,2000,"April 12, 2001",Milwaukee Bucks,Utah Jazz,"50-29, 30-10 Home","51-27, 24-14 Away",115,93,,,Final,,34,26,27,28,,16,18,33,26,,NBA
+210415016,2000,"April 15, 2001",Minnesota Timberwolves,Utah Jazz,"47-33, 30-11 Home","52-28, 25-15 Away",107,100,,,Final,,23,24,29,31,,29,19,26,26,,NBA
+201031026,2000,"October 31, 2000",Utah Jazz,Los Angeles Clippers,"1-0, 1-0 Home","0-1, 0-1 Away",107,94,,,Final,,22,28,34,23,,19,27,21,27,,NBA
+201104006,2000,"November 04, 2000",Dallas Mavericks,Utah Jazz,"2-1, 2-1 Home","3-0, 2-0 Away",106,112,,,Final,,24,22,30,30,,30,19,33,30,,NBA
+201108012,2000,"November 08, 2000",Los Angeles Clippers,Utah Jazz,"1-4, 1-2 Home","5-0, 3-0 Away",87,93,,,Final/OT,,20,14,25,17,11.0,25,16,17,18,17.0,NBA
+201114024,2000,"November 14, 2000",San Antonio Spurs,Utah Jazz,"6-2, 5-0 Home","5-2, 3-1 Away",86,79,,,Final,,25,21,23,17,,17,23,16,23,,NBA
+201118100,2000,"November 18, 2000",Utah Jazz,Chicago Bulls,"7-2, 4-1 Home","1-8, 0-4 Away",109,64,,,Final,,N,U,L,L,,N,U,L,L,,NBA
+201122026,2000,"November 22, 2000",Utah Jazz,Denver Nuggets,"8-3, 5-2 Home","6-6, 1-4 Away",116,78,,,Final,,28,31,30,27,,25,17,17,19,,NBA
+201126008,2000,"November 26, 2000",Detroit Pistons,Utah Jazz,"5-9, 2-4 Home","10-3, 4-1 Away",79,94,,,Final,,29,13,25,12,,28,14,21,31,,NBA
+201129019,2000,"November 29, 2000",Orlando Magic,Utah Jazz,"5-11, 3-6 Home","12-3, 6-1 Away",86,88,,,Final,,27,20,24,15,,29,17,16,26,,NBA
+201202003,2000,"December 02, 2000",Charlotte Hornets,Utah Jazz,"11-7, 5-3 Home","13-4, 7-2 Away",94,89,,,Final,,21,23,21,29,,20,26,20,23,,NBA
+201207026,2000,"December 07, 2000",Utah Jazz,Vancouver Grizzlies,"15-4, 8-2 Home","7-12, 3-6 Away",98,87,,,Final,,16,28,24,30,,20,21,19,27,,NBA
+201211026,2000,"December 11, 2000",Utah Jazz,San Antonio Spurs,"16-5, 9-3 Home","13-7, 4-6 Away",83,91,,,Final,,18,23,20,22,,18,23,24,26,,NBA
+201215018,2000,"December 15, 2000",New York Knicks,Utah Jazz,"14-10, 7-5 Home","17-6, 8-2 Away",58,89,,,Final,,13,12,23,10,,24,16,31,18,,NBA
+201219028,2000,"December 19, 2000",Toronto Raptors,Utah Jazz,"13-12, 9-5 Home","17-8, 8-4 Away",103,95,,,Final,,29,25,26,23,,21,28,15,31,,NBA
+201222011,2000,"December 22, 2000",Indiana Pacers,Utah Jazz,"12-15, 7-6 Home","19-8, 10-4 Away",101,109,,,Final,,20,23,33,25,,31,16,34,28,,NBA
+201226026,2000,"December 26, 2000",Utah Jazz,Philadelphia 76ers,"20-9, 9-5 Home","19-8, 12-4 Away",91,97,,,Final,CSN,17,23,23,28,0.0,23,28,26,20,0.0,NBA
+201229009,2000,"December 29, 2000",Golden State Warriors,Utah Jazz,"9-20, 7-9 Home","20-11, 11-5 Away",100,89,,,Final,,19,19,30,32,,8,21,36,24,,NBA
+210105007,2000,"January 05, 2001",Denver Nuggets,Utah Jazz,"18-15, 13-5 Home","20-13, 11-7 Away",100,87,,,Final,,27,20,27,26,,25,16,25,21,,NBA
+210109026,2000,"January 09, 2001",Utah Jazz,Indiana Pacers,"22-13, 10-6 Home","16-20, 8-13 Away",103,99,,,Final,,20,26,28,29,,24,25,21,29,,NBA
+210115026,2000,"January 15, 2001",Utah Jazz,Houston Rockets,"24-13, 12-6 Home","18-19, 10-9 Away",116,104,,,Final/OT,,17,25,24,31,19.0,18,24,20,35,7.0,NBA
+210121026,2000,"January 21, 2001",Utah Jazz,Phoenix Suns,"25-14, 13-7 Home","23-15, 8-8 Away",109,98,,,Final,,30,23,24,32,,24,27,21,26,,NBA
+210125026,2000,"January 25, 2001",Utah Jazz,Denver Nuggets,"27-14, 15-7 Home","25-18, 6-13 Away",98,96,,,Final,,27,23,20,28,,21,27,27,21,,NBA
+210129007,2000,"January 29, 2001",Denver Nuggets,Utah Jazz,"26-19, 20-6 Home","28-15, 13-7 Away",91,97,,,Final,,13,23,22,33,,26,21,24,26,,NBA
+210201026,2000,"February 01, 2001",Utah Jazz,Charlotte Hornets,"30-15, 16-8 Home","25-22, 11-15 Away",87,76,,,Final,,15,29,29,14,,22,16,27,11,,NBA
+210207029,2000,"February 07, 2001",Vancouver Grizzlies,Utah Jazz,"13-36, 10-17 Home","32-15, 15-7 Away",82,92,,,Final,,21,21,20,20,,27,17,22,26,,NBA
+210214026,2000,"February 14, 2001",Utah Jazz,New York Knicks,"33-16, 18-9 Home","29-20, 14-11 Away",106,90,,,Final,,23,33,25,25,,26,24,25,15,,NBA
+210219026,2000,"February 19, 2001",Utah Jazz,Boston Celtics,"35-16, 19-9 Home","24-29, 9-16 Away",114,99,,,Final,,27,31,31,25,,17,27,26,29,,NBA
+210223025,2000,"February 23, 2001",Seattle SuperSonics,Utah Jazz,"29-27, 17-11 Home","37-16, 18-7 Away",84,96,,,Final,,16,32,19,17,,22,22,23,29,,NBA
+210226026,2000,"February 26, 2001",Utah Jazz,Atlanta Hawks,"38-17, 20-9 Home","18-39, 7-24 Away",99,82,,,Final,,25,27,25,22,,25,19,20,18,,NBA
+210302002,2000,"March 02, 2001",Boston Celtics,Utah Jazz,"26-33, 17-13 Home","39-18, 18-9 Away",103,99,,,Final,,21,33,26,23,,20,30,27,22,,NBA
+210305001,2000,"March 05, 2001",Atlanta Hawks,Utah Jazz,"18-43, 11-18 Home","41-18, 20-9 Away",102,109,,,Final,,24,27,32,19,,24,34,26,25,,NBA
+210309026,2000,"March 09, 2001",Utah Jazz,Phoenix Suns,"43-18, 23-9 Home","36-25, 15-16 Away",107,95,,,Final,,22,27,30,28,,19,21,17,38,,NBA
+210314009,2000,"March 14, 2001",Golden State Warriors,Utah Jazz,"16-49, 10-21 Home","44-19, 21-10 Away",83,102,,,Final,,12,23,25,23,,27,22,19,34,,NBA
+210318012,2000,"March 18, 2001",Los Angeles Clippers,Utah Jazz,"23-45, 15-18 Home","45-20, 22-11 Away",96,111,,,Final,,24,21,24,27,,28,31,27,25,,NBA
+210322026,2000,"March 22, 2001",Utah Jazz,Portland Trail Blazers,"46-21, 24-10 Home","45-24, 20-15 Away",99,101,,,Final,,28,29,20,22,,26,22,22,31,,NBA
+210326026,2000,"March 26, 2001",Utah Jazz,Dallas Mavericks,"47-22, 25-11 Home","45-25, 20-13 Away",90,98,,,Final,,18,28,20,24,,18,17,29,34,,NBA
+210329024,2000,"March 29, 2001",San Antonio Spurs,Utah Jazz,"51-21, 30-6 Home","47-24, 22-13 Away",106,88,,,Final,,36,31,20,19,,18,25,27,18,,NBA
+210401029,2000,"April 01, 2001",Vancouver Grizzlies,Utah Jazz,"21-53, 14-22 Home","49-24, 23-13 Away",73,92,,,Final,,22,23,16,12,,25,20,28,19,,NBA
+210405026,2000,"April 05, 2001",Utah Jazz,Sacramento Kings,"49-26, 26-13 Home","50-24, 20-16 Away",86,92,,,Final,,35,12,19,20,,18,24,29,21,,NBA
+210409026,2000,"April 09, 2001",Utah Jazz,Houston Rockets,"51-26, 27-13 Home","42-36, 19-20 Away",96,81,,,Final,,12,26,36,22,,18,23,16,24,,NBA
+210413004,2000,"April 13, 2001",Chicago Bulls,Utah Jazz,"13-66, 10-30 Home","52-27, 25-14 Away",83,94,,,Final,,22,20,23,18,,17,24,28,25,,NBA
+210417026,2000,"April 17, 2001",Utah Jazz,Los Angeles Clippers,"53-28, 28-13 Home","31-51, 9-32 Away",97,92,,,Final,,27,20,17,33,,18,26,24,24,,NBA
+210418021,2000,"April 18, 2001",Phoenix Suns,Utah Jazz,"51-31, 31-10 Home","53-29, 25-16 Away",98,93,,,Final,,22,22,25,29,,26,15,24,28,,NBA

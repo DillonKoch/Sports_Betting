@@ -1,83 +1,83 @@
-,Unnamed: 0,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-0,0,231031004,2003,"Fri, Oct 31",Chicago Bulls,Atlanta Hawks,"1-1, 1-1 Home","0-2, 0-2 Away",100,94,,,Final,,29,19,24,28,,21,21,26,26,,NBA
-1,1,231103004,2003,"Mon, Nov 3",Chicago Bulls,Houston Rockets,"1-3, 1-2 Home","2-1, 1-0 Away",66,98,,,Final,,22,13,13,18,,29,26,22,21,,NBA
-2,2,231107004,2003,"Fri, Nov 7",Chicago Bulls,Philadelphia 76ers,"2-4, 1-3 Home","3-3, 2-2 Away",85,106,,,Final,CSN,24,20,19,22,,32,21,28,25,,NBA
-3,3,231110004,2003,"Mon, Nov 10",Chicago Bulls,Denver Nuggets,"3-5, 1-4 Home","4-4, 2-3 Away",97,105,,,Final,,22,23,27,25,,29,22,15,39,,NBA
-4,4,231113004,2003,"Thu, Nov 13",Chicago Bulls,Minnesota Timberwolves,"4-6, 1-5 Home","5-4, 3-2 Away",89,92,,,Final/OT,,21,26,18,17,7.0,17,22,27,16,10.0,NBA
-5,5,231118021,2003,"Tue, Nov 18",Phoenix Suns,Chicago Bulls,"4-6, 3-3 Home","4-8, 3-2 Away",95,82,,,Final,,29,28,20,18,,23,24,19,16,,NBA
-6,6,231123023,2003,"Sun, Nov 23",Sacramento Kings,Chicago Bulls,"9-4, 7-0 Home","4-10, 3-4 Away",110,99,,,Final,,34,35,23,18,,38,11,14,36,,NBA
-7,7,231126024,2003,"Wed, Nov 26",San Antonio Spurs,Chicago Bulls,"9-6, 7-2 Home","4-12, 3-6 Away",109,98,,,Final,,22,27,26,34,,22,22,19,35,,NBA
-8,8,231204020,2003,"Thu, Dec 4",Philadelphia 76ers,Chicago Bulls,"10-10, 6-4 Home","5-13, 3-7 Away",83,82,,,Final,,15,21,26,21,,26,18,16,22,,NBA
-9,9,231208004,2003,"Mon, Dec 8",Chicago Bulls,San Antonio Spurs,"5-15, 2-8 Home","12-10, 5-7 Away",82,96,,,Final,,17,21,18,26,,12,19,30,35,,NBA
-10,10,231213004,2003,"Sat, Dec 13",Chicago Bulls,Indiana Pacers,"6-16, 3-8 Home","18-6, 9-4 Away",86,75,,,Final,,24,16,31,15,,29,17,14,15,,NBA
-11,11,231217008,2003,"Wed, Dec 17",Detroit Pistons,Chicago Bulls,"15-10, 8-4 Home","7-17, 3-9 Away",77,73,,,Final,,15,20,21,21,,14,11,24,24,,NBA
-12,12,231222004,2003,"Mon, Dec 22",Chicago Bulls,Utah Jazz,"7-19, 4-10 Home","15-13, 4-10 Away",80,92,,,Final,,14,21,23,22,,27,25,19,21,,NBA
-13,13,231226005,2003,"Fri, Dec 26",Cleveland Cavaliers,Chicago Bulls,"9-21, 7-7 Home","8-20, 4-10 Away",80,87,,,Final,,20,25,23,12,,19,27,25,16,,NBA
-14,14,231229004,2003,"Mon, Dec 29",Chicago Bulls,Miami Heat,"9-21, 5-11 Home","13-18, 4-13 Away",83,90,,,Final,,22,23,17,21,,17,16,30,27,,NBA
-15,15,240102018,2003,"Fri, Jan 2",New York Knicks,Chicago Bulls,"14-20, 8-8 Home","10-22, 5-11 Away",99,104,,,Final,,27,26,23,23,,23,29,24,28,,NBA
-16,16,240105004,2003,"Mon, Jan 5",Chicago Bulls,Phoenix Suns,"11-23, 6-12 Home","12-23, 3-15 Away",87,82,,,Final,,25,17,20,25,,12,25,18,27,,NBA
-17,17,240109004,2003,"Fri, Jan 9",Chicago Bulls,Portland Trail Blazers,"11-25, 6-13 Home","16-18, 2-13 Away",78,87,,,Final,,20,21,17,20,,18,19,19,31,,NBA
-18,18,240113004,2003,"Tue, Jan 13",Chicago Bulls,Detroit Pistons,"12-26, 7-14 Home","25-13, 10-8 Away",89,105,,,Final,,17,25,21,26,,28,20,25,32,,NBA
-19,19,240117004,2003,"Sat, Jan 17",Chicago Bulls,New York Knicks,"12-28, 7-15 Home","18-24, 7-13 Away",96,101,,,Final,,30,25,20,21,,27,29,12,33,,NBA
-20,20,240121001,2003,"Wed, Jan 21",Atlanta Hawks,Chicago Bulls,"13-30, 8-11 Home","12-30, 5-15 Away",97,87,,,Final,,24,28,27,18,,24,23,26,14,,NBA
-21,21,240125004,2003,"Sun, Jan 25",Chicago Bulls,Toronto Raptors,"13-31, 8-16 Home","20-22, 8-15 Away",96,89,,,Final,,21,25,19,31,,22,21,20,26,,NBA
-22,22,240128007,2003,"Wed, Jan 28",Denver Nuggets,Chicago Bulls,"27-21, 18-8 Home","13-33, 5-17 Away",115,99,,,Final,,37,23,23,32,,26,26,16,31,,NBA
-23,23,240131022,2003,"Sat, Jan 31",Portland Trail Blazers,Chicago Bulls,"21-24, 15-8 Home","13-35, 5-19 Away",102,95,,,Final/OT,,24,21,30,16,11.0,25,30,22,14,4.0,NBA
-24,24,240204026,2003,"Wed, Feb 4",Utah Jazz,Chicago Bulls,"24-25, 19-8 Home","14-36, 6-20 Away",79,95,,,Final,,20,12,22,25,,23,24,29,19,,NBA
-25,25,240210004,2003,"Tue, Feb 10",Chicago Bulls,Indiana Pacers,"14-38, 8-17 Home","39-14, 18-9 Away",84,103,,,Final,,21,17,24,22,,21,29,30,23,,NBA
-26,26,240217004,2003,"Tue, Feb 17",Chicago Bulls,Toronto Raptors,"16-38, 10-17 Home","25-27, 11-17 Away",75,73,,,Final,,24,22,20,9,,17,16,23,17,,NBA
-27,27,240221004,2003,"Sat, Feb 21",Chicago Bulls,Memphis Grizzlies,"16-40, 10-19 Home","33-22, 12-15 Away",98,105,,,Final,,20,24,28,26,,29,29,18,29,,NBA
-28,28,240226027,2003,"Thu, Feb 26",Washington Wizards,Chicago Bulls,"18-38, 12-16 Home","16-42, 6-22 Away",95,87,,,Final,,24,23,28,20,,18,31,23,15,,NBA
-29,29,240301004,2003,"Mon, Mar 1",Chicago Bulls,Cleveland Cavaliers,"18-42, 12-20 Home","24-36, 8-23 Away",92,81,,,Final,,21,30,23,18,,23,14,19,25,,NBA
-30,30,240306020,2003,"Sat, Mar 6",Philadelphia 76ers,Chicago Bulls,"25-38, 15-16 Home","18-44, 6-24 Away",97,88,,,Final,CSN,28,18,21,30,,26,23,24,15,,NBA
-31,31,240310008,2003,"Wed, Mar 10",Detroit Pistons,Chicago Bulls,"42-25, 22-10 Home","18-46, 6-25 Away",98,65,,,Final,,23,29,21,25,,16,20,14,15,,NBA
-32,32,240313004,2003,"Sat, Mar 13",Chicago Bulls,Los Angeles Lakers,"18-48, 12-22 Home","43-23, 19-18 Away",81,88,,,Final,,22,18,24,17,,20,21,27,20,,NBA
-33,33,240319028,2003,"Fri, Mar 19",Toronto Raptors,Chicago Bulls,"29-39, 17-18 Home","19-49, 7-27 Away",91,96,,,Final,,23,22,15,31,,27,17,22,30,,NBA
-34,34,240322011,2003,"Mon, Mar 22",Indiana Pacers,Chicago Bulls,"51-19, 27-7 Home","20-50, 7-28 Away",101,77,,,Final,,29,20,28,24,,18,14,21,24,,NBA
-35,35,240326004,2003,"Fri, Mar 26",Chicago Bulls,Milwaukee Bucks,"20-52, 13-24 Home","36-36, 12-25 Away",105,115,,,Final,,24,28,24,29,,34,27,27,27,,NBA
-36,36,240329014,2003,"Mon, Mar 29",Miami Heat,Chicago Bulls,"36-38, 26-12 Home","20-54, 7-30 Away",105,96,,,Final,,18,26,28,33,,24,24,27,21,,NBA
-37,37,240402004,2003,"Fri, Apr 2",Chicago Bulls,LA Clippers,"22-54, 14-24 Home","27-50, 9-31 Away",114,110,,,Final/OT,,31,27,23,23,10.0,23,27,37,17,6.0,NBA
-38,38,240407018,2003,"Wed, Apr 7",New York Knicks,Chicago Bulls,"37-42, 23-17 Home","22-56, 8-31 Away",96,82,,,Final,,26,28,22,20,,20,17,21,24,,NBA
-39,39,240411028,2003,"Sun, Apr 11",Toronto Raptors,Chicago Bulls,"31-49, 17-23 Home","23-57, 9-31 Away",108,114,,,Final/OT,,27,21,20,33,7.0,25,21,18,37,13.0,NBA
-40,40,231029004,2003,"Wed, Oct 29",Chicago Bulls,Washington Wizards,"0-1, 0-1 Home","1-0, 1-0 Away",74,99,,,Final,,15,16,26,17,,20,23,26,30,,NBA
-41,41,231101015,2003,"Sat, Nov 1",Milwaukee Bucks,Chicago Bulls,"2-1, 1-0 Home","1-2, 0-1 Away",98,68,,,Final,,16,27,29,26,,21,21,12,14,,NBA
-42,42,231105019,2003,"Wed, Nov 5",Orlando Magic,Chicago Bulls,"1-4, 0-4 Home","2-3, 1-1 Away",100,106,,,Final,,24,34,16,26,,28,26,24,28,,NBA
-43,43,231108003,2003,"Sat, Nov 8",New Orleans Hornets,Chicago Bulls,"5-2, 3-1 Home","3-4, 2-1 Away",106,109,,,Final,,26,27,27,26,,24,30,31,24,,NBA
-44,44,231112002,2003,"Wed, Nov 12",Boston Celtics,Chicago Bulls,"4-4, 2-2 Home","4-5, 3-1 Away",82,89,,,Final,,21,23,19,19,,23,24,18,24,,NBA
-45,45,231115004,2003,"Sat, Nov 15",Chicago Bulls,Seattle SuperSonics,"4-7, 1-6 Home","6-2, 4-1 Away",90,98,,,Final,,27,24,19,20,,24,28,26,20,,NBA
-46,46,231121013,2003,"Fri, Nov 21",Los Angeles Lakers,Chicago Bulls,"10-3, 6-0 Home","4-9, 3-3 Away",101,94,,,Final,,27,23,23,28,,21,34,19,20,,NBA
-47,47,231125006,2003,"Tue, Nov 25",Dallas Mavericks,Chicago Bulls,"10-4, 8-0 Home","4-11, 3-5 Away",124,98,,,Final,,36,25,41,22,,29,23,20,26,,NBA
-48,48,231201004,2003,"Mon, Dec 1",Chicago Bulls,Milwaukee Bucks,"5-12, 2-6 Home","8-9, 3-6 Away",97,87,,,Final,,19,30,19,29,,27,16,26,18,,NBA
-49,49,231206004,2003,"Sat, Dec 6",Chicago Bulls,New Orleans Hornets,"5-14, 2-7 Home","14-7, 7-4 Away",91,97,,,Final,,21,21,19,30,,18,19,22,38,,NBA
-50,50,231212015,2003,"Fri, Dec 12",Milwaukee Bucks,Chicago Bulls,"11-12, 7-4 Home","5-16, 3-8 Away",109,95,,,Final,,31,26,23,29,,15,31,30,19,,NBA
-51,51,231216004,2003,"Tue, Dec 16",Chicago Bulls,Orlando Magic,"7-16, 4-8 Home","4-21, 3-9 Away",102,88,,,Final,,21,21,33,27,,17,25,23,23,,NBA
-52,52,231220004,2003,"Sat, Dec 20",Chicago Bulls,Cleveland Cavaliers,"7-18, 4-9 Home","8-19, 2-13 Away",87,95,,,Final,,24,20,29,14,,26,23,21,25,,NBA
-53,53,231223017,2003,"Tue, Dec 23",New Jersey Nets,Chicago Bulls,"14-13, 8-6 Home","7-20, 3-10 Away",95,78,,,Final,,20,26,26,23,,20,18,22,18,,NBA
-54,54,231227004,2003,"Sat, Dec 27",Chicago Bulls,Washington Wizards,"9-20, 5-10 Home","8-20, 4-13 Away",100,86,,,Final,,29,18,24,29,,22,23,18,23,,NBA
-55,55,231230016,2003,"Tue, Dec 30",Minnesota Timberwolves,Chicago Bulls,"20-10, 8-5 Home","9-22, 4-11 Away",98,93,,,Final,,31,20,26,21,,15,32,25,21,,NBA
-56,56,240103004,2003,"Sat, Jan 3",Chicago Bulls,Boston Celtics,"10-23, 5-12 Home","17-18, 9-8 Away",77,88,,,Final,,21,23,15,18,,22,9,27,30,,NBA
-57,57,240107014,2003,"Wed, Jan 7",Miami Heat,Chicago Bulls,"15-20, 11-6 Home","11-24, 5-12 Away",102,95,,,Final,,25,21,30,26,,20,28,22,25,,NBA
-58,58,240110004,2003,"Sat, Jan 10",Chicago Bulls,New Orleans Hornets,"12-25, 7-13 Home","22-15, 11-10 Away",89,84,,,Final,,20,38,17,14,,16,22,19,27,,NBA
-59,59,240115029,2003,"Thu, Jan 15",Memphis Grizzlies,Chicago Bulls,"20-18, 12-5 Home","12-27, 5-13 Away",108,93,,,Final,,29,27,23,29,,24,18,26,25,,NBA
-60,60,240119027,2003,"Mon, Jan 19",Washington Wizards,Chicago Bulls,"12-28, 8-10 Home","12-29, 5-14 Away",93,83,,,Final,,27,16,24,26,,32,26,12,13,,NBA
-61,61,240123004,2003,"Fri, Jan 23",Chicago Bulls,Dallas Mavericks,"12-31, 7-16 Home","27-16, 8-13 Away",93,106,,,Final,,32,14,26,21,,28,26,30,22,,NBA
-62,62,240127012,2003,"Tue, Jan 27",LA Clippers,Chicago Bulls,"19-24, 15-11 Home","13-32, 5-16 Away",102,92,,,Final,,33,18,30,21,,23,20,19,30,,NBA
-63,63,240130009,2003,"Fri, Jan 30",Golden State Warriors,Chicago Bulls,"20-25, 15-7 Home","13-34, 5-18 Away",101,81,,,Final,,24,29,28,20,,16,18,24,23,,NBA
-64,64,240202025,2003,"Mon, Feb 2",Seattle SuperSonics,Chicago Bulls,"23-23, 14-11 Home","13-36, 5-20 Away",109,97,,,Final,,33,21,28,27,,26,28,18,25,,NBA
-65,65,240206010,2003,"Fri, Feb 6",Houston Rockets,Chicago Bulls,"28-21, 16-7 Home","14-37, 6-21 Away",82,80,,,Final,,26,15,21,20,,23,14,11,32,,NBA
-66,66,240212004,2003,"Thu, Feb 12",Chicago Bulls,Boston Celtics,"15-38, 9-17 Home","23-31, 12-14 Away",107,87,,,Final,,29,32,31,15,,25,21,19,22,,NBA
-67,67,240220004,2003,"Fri, Feb 20",Chicago Bulls,Sacramento Kings,"16-39, 10-18 Home","39-14, 15-10 Away",83,91,,,Final,,25,19,26,13,,24,25,23,19,,NBA
-68,68,240225004,2003,"Wed, Feb 25",Chicago Bulls,Detroit Pistons,"16-41, 10-20 Home","36-24, 16-14 Away",88,107,,,Final,,22,21,28,17,,17,34,33,23,,NBA
-69,69,240228004,2003,"Sat, Feb 28",Chicago Bulls,Golden State Warriors,"17-42, 11-20 Home","25-33, 7-23 Away",87,81,,,Final/OT,,26,15,20,16,10.0,17,17,21,22,4.0,NBA
-70,70,240303003,2003,"Wed, Mar 3",New Orleans Hornets,Chicago Bulls,"33-28, 20-11 Home","18-43, 6-23 Away",100,97,,,Final/OT,,20,20,31,20,9.0,24,22,24,21,6.0,NBA
-71,71,240309004,2003,"Tue, Mar 9",Chicago Bulls,Philadelphia 76ers,"18-45, 12-21 Home","27-38, 11-22 Away",81,89,,,Final,,22,18,21,20,,23,13,24,29,,NBA
-72,72,240312017,2003,"Fri, Mar 12",New Jersey Nets,Chicago Bulls,"40-24, 23-9 Home","18-47, 6-26 Away",88,76,,,Final,,26,16,17,29,,10,22,26,18,,NBA
-73,73,240316005,2003,"Tue, Mar 16",Cleveland Cavaliers,Chicago Bulls,"31-36, 20-13 Home","18-49, 6-27 Away",111,87,,,Final,,34,22,29,26,,29,20,16,22,,NBA
-74,74,240320004,2003,"Sat, Mar 20",Chicago Bulls,New York Knicks,"20-49, 13-22 Home","32-38, 13-22 Away",87,81,,,Final,,27,23,17,20,,18,22,24,17,,NBA
-75,75,240323004,2003,"Tue, Mar 23",Chicago Bulls,New Jersey Nets,"20-51, 13-23 Home","42-28, 18-17 Away",81,84,,,Final,,17,23,24,17,,23,15,23,23,,NBA
-76,76,240327001,2003,"Sat, Mar 27",Atlanta Hawks,Chicago Bulls,"24-49, 16-20 Home","20-53, 7-29 Away",97,88,,,Final,,15,29,27,26,,18,20,21,29,,NBA
-77,77,240331019,2003,"Wed, Mar 31",Orlando Magic,Chicago Bulls,"19-57, 10-28 Home","21-54, 8-30 Away",91,109,,,Final,,32,21,11,27,,28,21,24,36,,NBA
-78,78,240403004,2003,"Sat, Apr 3",Chicago Bulls,Miami Heat,"22-55, 14-25 Home","38-39, 12-27 Away",83,97,,,Final,,15,16,19,33,,19,22,28,28,,NBA
-79,79,240409004,2003,"Fri, Apr 9",Chicago Bulls,Atlanta Hawks,"22-57, 14-26 Home","26-53, 10-30 Away",101,116,,,Final,,24,24,19,34,,37,24,27,28,,NBA
-80,80,240412004,2003,"Mon, Apr 12",Chicago Bulls,Orlando Magic,"23-58, 14-27 Home","20-61, 10-31 Away",84,93,,,Final,,24,21,10,29,,25,28,17,23,,NBA
-81,81,240414011,2003,"Wed, Apr 14",Indiana Pacers,Chicago Bulls,"61-21, 34-7 Home","23-59, 9-32 Away",101,96,,,Final,,28,23,28,22,,35,24,22,15,,NBA
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+231031004,2003,"October 31, 2003",Chicago Bulls,Atlanta Hawks,"1-1, 1-1 Home","0-2, 0-2 Away",100,94,,,Final,,29,19,24,28,,21,21,26,26,,NBA
+231103004,2003,"November 03, 2003",Chicago Bulls,Houston Rockets,"1-3, 1-2 Home","2-1, 1-0 Away",66,98,,,Final,,22,13,13,18,,29,26,22,21,,NBA
+231107004,2003,"November 07, 2003",Chicago Bulls,Philadelphia 76ers,"2-4, 1-3 Home","3-3, 2-2 Away",85,106,,,Final,CSN,24,20,19,22,,32,21,28,25,,NBA
+231110004,2003,"November 10, 2003",Chicago Bulls,Denver Nuggets,"3-5, 1-4 Home","4-4, 2-3 Away",97,105,,,Final,,22,23,27,25,,29,22,15,39,,NBA
+231113004,2003,"November 13, 2003",Chicago Bulls,Minnesota Timberwolves,"4-6, 1-5 Home","5-4, 3-2 Away",89,92,,,Final/OT,,21,26,18,17,7.0,17,22,27,16,10.0,NBA
+231118021,2003,"November 18, 2003",Phoenix Suns,Chicago Bulls,"4-6, 3-3 Home","4-8, 3-2 Away",95,82,,,Final,,29,28,20,18,,23,24,19,16,,NBA
+231123023,2003,"November 23, 2003",Sacramento Kings,Chicago Bulls,"9-4, 7-0 Home","4-10, 3-4 Away",110,99,,,Final,,34,35,23,18,,38,11,14,36,,NBA
+231126024,2003,"November 26, 2003",San Antonio Spurs,Chicago Bulls,"9-6, 7-2 Home","4-12, 3-6 Away",109,98,,,Final,,22,27,26,34,,22,22,19,35,,NBA
+231204020,2003,"December 04, 2003",Philadelphia 76ers,Chicago Bulls,"10-10, 6-4 Home","5-13, 3-7 Away",83,82,,,Final,,15,21,26,21,,26,18,16,22,,NBA
+231208004,2003,"December 08, 2003",Chicago Bulls,San Antonio Spurs,"5-15, 2-8 Home","12-10, 5-7 Away",82,96,,,Final,,17,21,18,26,,12,19,30,35,,NBA
+231213004,2003,"December 13, 2003",Chicago Bulls,Indiana Pacers,"6-16, 3-8 Home","18-6, 9-4 Away",86,75,,,Final,,24,16,31,15,,29,17,14,15,,NBA
+231217008,2003,"December 17, 2003",Detroit Pistons,Chicago Bulls,"15-10, 8-4 Home","7-17, 3-9 Away",77,73,,,Final,,15,20,21,21,,14,11,24,24,,NBA
+231222004,2003,"December 22, 2003",Chicago Bulls,Utah Jazz,"7-19, 4-10 Home","15-13, 4-10 Away",80,92,,,Final,,14,21,23,22,,27,25,19,21,,NBA
+231226005,2003,"December 26, 2003",Cleveland Cavaliers,Chicago Bulls,"9-21, 7-7 Home","8-20, 4-10 Away",80,87,,,Final,,20,25,23,12,,19,27,25,16,,NBA
+231229004,2003,"December 29, 2003",Chicago Bulls,Miami Heat,"9-21, 5-11 Home","13-18, 4-13 Away",83,90,,,Final,,22,23,17,21,,17,16,30,27,,NBA
+240102018,2003,"January 02, 2004",New York Knicks,Chicago Bulls,"14-20, 8-8 Home","10-22, 5-11 Away",99,104,,,Final,,27,26,23,23,,23,29,24,28,,NBA
+240105004,2003,"January 05, 2004",Chicago Bulls,Phoenix Suns,"11-23, 6-12 Home","12-23, 3-15 Away",87,82,,,Final,,25,17,20,25,,12,25,18,27,,NBA
+240109004,2003,"January 09, 2004",Chicago Bulls,Portland Trail Blazers,"11-25, 6-13 Home","16-18, 2-13 Away",78,87,,,Final,,20,21,17,20,,18,19,19,31,,NBA
+240113004,2003,"January 13, 2004",Chicago Bulls,Detroit Pistons,"12-26, 7-14 Home","25-13, 10-8 Away",89,105,,,Final,,17,25,21,26,,28,20,25,32,,NBA
+240117004,2003,"January 17, 2004",Chicago Bulls,New York Knicks,"12-28, 7-15 Home","18-24, 7-13 Away",96,101,,,Final,,30,25,20,21,,27,29,12,33,,NBA
+240121001,2003,"January 21, 2004",Atlanta Hawks,Chicago Bulls,"13-30, 8-11 Home","12-30, 5-15 Away",97,87,,,Final,,24,28,27,18,,24,23,26,14,,NBA
+240125004,2003,"January 25, 2004",Chicago Bulls,Toronto Raptors,"13-31, 8-16 Home","20-22, 8-15 Away",96,89,,,Final,,21,25,19,31,,22,21,20,26,,NBA
+240128007,2003,"January 28, 2004",Denver Nuggets,Chicago Bulls,"27-21, 18-8 Home","13-33, 5-17 Away",115,99,,,Final,,37,23,23,32,,26,26,16,31,,NBA
+240131022,2003,"January 31, 2004",Portland Trail Blazers,Chicago Bulls,"21-24, 15-8 Home","13-35, 5-19 Away",102,95,,,Final/OT,,24,21,30,16,11.0,25,30,22,14,4.0,NBA
+240204026,2003,"February 04, 2004",Utah Jazz,Chicago Bulls,"24-25, 19-8 Home","14-36, 6-20 Away",79,95,,,Final,,20,12,22,25,,23,24,29,19,,NBA
+240210004,2003,"February 10, 2004",Chicago Bulls,Indiana Pacers,"14-38, 8-17 Home","39-14, 18-9 Away",84,103,,,Final,,21,17,24,22,,21,29,30,23,,NBA
+240217004,2003,"February 17, 2004",Chicago Bulls,Toronto Raptors,"16-38, 10-17 Home","25-27, 11-17 Away",75,73,,,Final,,24,22,20,9,,17,16,23,17,,NBA
+240221004,2003,"February 21, 2004",Chicago Bulls,Memphis Grizzlies,"16-40, 10-19 Home","33-22, 12-15 Away",98,105,,,Final,,20,24,28,26,,29,29,18,29,,NBA
+240226027,2003,"February 26, 2004",Washington Wizards,Chicago Bulls,"18-38, 12-16 Home","16-42, 6-22 Away",95,87,,,Final,,24,23,28,20,,18,31,23,15,,NBA
+240301004,2003,"March 01, 2004",Chicago Bulls,Cleveland Cavaliers,"18-42, 12-20 Home","24-36, 8-23 Away",92,81,,,Final,,21,30,23,18,,23,14,19,25,,NBA
+240306020,2003,"March 06, 2004",Philadelphia 76ers,Chicago Bulls,"25-38, 15-16 Home","18-44, 6-24 Away",97,88,,,Final,CSN,28,18,21,30,,26,23,24,15,,NBA
+240310008,2003,"March 10, 2004",Detroit Pistons,Chicago Bulls,"42-25, 22-10 Home","18-46, 6-25 Away",98,65,,,Final,,23,29,21,25,,16,20,14,15,,NBA
+240313004,2003,"March 13, 2004",Chicago Bulls,Los Angeles Lakers,"18-48, 12-22 Home","43-23, 19-18 Away",81,88,,,Final,,22,18,24,17,,20,21,27,20,,NBA
+240319028,2003,"March 19, 2004",Toronto Raptors,Chicago Bulls,"29-39, 17-18 Home","19-49, 7-27 Away",91,96,,,Final,,23,22,15,31,,27,17,22,30,,NBA
+240322011,2003,"March 22, 2004",Indiana Pacers,Chicago Bulls,"51-19, 27-7 Home","20-50, 7-28 Away",101,77,,,Final,,29,20,28,24,,18,14,21,24,,NBA
+240326004,2003,"March 26, 2004",Chicago Bulls,Milwaukee Bucks,"20-52, 13-24 Home","36-36, 12-25 Away",105,115,,,Final,,24,28,24,29,,34,27,27,27,,NBA
+240329014,2003,"March 29, 2004",Miami Heat,Chicago Bulls,"36-38, 26-12 Home","20-54, 7-30 Away",105,96,,,Final,,18,26,28,33,,24,24,27,21,,NBA
+240402004,2003,"April 02, 2004",Chicago Bulls,LA Clippers,"22-54, 14-24 Home","27-50, 9-31 Away",114,110,,,Final/OT,,31,27,23,23,10.0,23,27,37,17,6.0,NBA
+240407018,2003,"April 07, 2004",New York Knicks,Chicago Bulls,"37-42, 23-17 Home","22-56, 8-31 Away",96,82,,,Final,,26,28,22,20,,20,17,21,24,,NBA
+240411028,2003,"April 11, 2004",Toronto Raptors,Chicago Bulls,"31-49, 17-23 Home","23-57, 9-31 Away",108,114,,,Final/OT,,27,21,20,33,7.0,25,21,18,37,13.0,NBA
+231029004,2003,"October 29, 2003",Chicago Bulls,Washington Wizards,"0-1, 0-1 Home","1-0, 1-0 Away",74,99,,,Final,,15,16,26,17,,20,23,26,30,,NBA
+231101015,2003,"November 01, 2003",Milwaukee Bucks,Chicago Bulls,"2-1, 1-0 Home","1-2, 0-1 Away",98,68,,,Final,,16,27,29,26,,21,21,12,14,,NBA
+231105019,2003,"November 05, 2003",Orlando Magic,Chicago Bulls,"1-4, 0-4 Home","2-3, 1-1 Away",100,106,,,Final,,24,34,16,26,,28,26,24,28,,NBA
+231108003,2003,"November 08, 2003",New Orleans Hornets,Chicago Bulls,"5-2, 3-1 Home","3-4, 2-1 Away",106,109,,,Final,,26,27,27,26,,24,30,31,24,,NBA
+231112002,2003,"November 12, 2003",Boston Celtics,Chicago Bulls,"4-4, 2-2 Home","4-5, 3-1 Away",82,89,,,Final,,21,23,19,19,,23,24,18,24,,NBA
+231115004,2003,"November 15, 2003",Chicago Bulls,Seattle SuperSonics,"4-7, 1-6 Home","6-2, 4-1 Away",90,98,,,Final,,27,24,19,20,,24,28,26,20,,NBA
+231121013,2003,"November 21, 2003",Los Angeles Lakers,Chicago Bulls,"10-3, 6-0 Home","4-9, 3-3 Away",101,94,,,Final,,27,23,23,28,,21,34,19,20,,NBA
+231125006,2003,"November 25, 2003",Dallas Mavericks,Chicago Bulls,"10-4, 8-0 Home","4-11, 3-5 Away",124,98,,,Final,,36,25,41,22,,29,23,20,26,,NBA
+231201004,2003,"December 01, 2003",Chicago Bulls,Milwaukee Bucks,"5-12, 2-6 Home","8-9, 3-6 Away",97,87,,,Final,,19,30,19,29,,27,16,26,18,,NBA
+231206004,2003,"December 06, 2003",Chicago Bulls,New Orleans Hornets,"5-14, 2-7 Home","14-7, 7-4 Away",91,97,,,Final,,21,21,19,30,,18,19,22,38,,NBA
+231212015,2003,"December 12, 2003",Milwaukee Bucks,Chicago Bulls,"11-12, 7-4 Home","5-16, 3-8 Away",109,95,,,Final,,31,26,23,29,,15,31,30,19,,NBA
+231216004,2003,"December 16, 2003",Chicago Bulls,Orlando Magic,"7-16, 4-8 Home","4-21, 3-9 Away",102,88,,,Final,,21,21,33,27,,17,25,23,23,,NBA
+231220004,2003,"December 20, 2003",Chicago Bulls,Cleveland Cavaliers,"7-18, 4-9 Home","8-19, 2-13 Away",87,95,,,Final,,24,20,29,14,,26,23,21,25,,NBA
+231223017,2003,"December 23, 2003",New Jersey Nets,Chicago Bulls,"14-13, 8-6 Home","7-20, 3-10 Away",95,78,,,Final,,20,26,26,23,,20,18,22,18,,NBA
+231227004,2003,"December 27, 2003",Chicago Bulls,Washington Wizards,"9-20, 5-10 Home","8-20, 4-13 Away",100,86,,,Final,,29,18,24,29,,22,23,18,23,,NBA
+231230016,2003,"December 30, 2003",Minnesota Timberwolves,Chicago Bulls,"20-10, 8-5 Home","9-22, 4-11 Away",98,93,,,Final,,31,20,26,21,,15,32,25,21,,NBA
+240103004,2003,"January 03, 2004",Chicago Bulls,Boston Celtics,"10-23, 5-12 Home","17-18, 9-8 Away",77,88,,,Final,,21,23,15,18,,22,9,27,30,,NBA
+240107014,2003,"January 07, 2004",Miami Heat,Chicago Bulls,"15-20, 11-6 Home","11-24, 5-12 Away",102,95,,,Final,,25,21,30,26,,20,28,22,25,,NBA
+240110004,2003,"January 10, 2004",Chicago Bulls,New Orleans Hornets,"12-25, 7-13 Home","22-15, 11-10 Away",89,84,,,Final,,20,38,17,14,,16,22,19,27,,NBA
+240115029,2003,"January 15, 2004",Memphis Grizzlies,Chicago Bulls,"20-18, 12-5 Home","12-27, 5-13 Away",108,93,,,Final,,29,27,23,29,,24,18,26,25,,NBA
+240119027,2003,"January 19, 2004",Washington Wizards,Chicago Bulls,"12-28, 8-10 Home","12-29, 5-14 Away",93,83,,,Final,,27,16,24,26,,32,26,12,13,,NBA
+240123004,2003,"January 23, 2004",Chicago Bulls,Dallas Mavericks,"12-31, 7-16 Home","27-16, 8-13 Away",93,106,,,Final,,32,14,26,21,,28,26,30,22,,NBA
+240127012,2003,"January 27, 2004",LA Clippers,Chicago Bulls,"19-24, 15-11 Home","13-32, 5-16 Away",102,92,,,Final,,33,18,30,21,,23,20,19,30,,NBA
+240130009,2003,"January 30, 2004",Golden State Warriors,Chicago Bulls,"20-25, 15-7 Home","13-34, 5-18 Away",101,81,,,Final,,24,29,28,20,,16,18,24,23,,NBA
+240202025,2003,"February 02, 2004",Seattle SuperSonics,Chicago Bulls,"23-23, 14-11 Home","13-36, 5-20 Away",109,97,,,Final,,33,21,28,27,,26,28,18,25,,NBA
+240206010,2003,"February 06, 2004",Houston Rockets,Chicago Bulls,"28-21, 16-7 Home","14-37, 6-21 Away",82,80,,,Final,,26,15,21,20,,23,14,11,32,,NBA
+240212004,2003,"February 12, 2004",Chicago Bulls,Boston Celtics,"15-38, 9-17 Home","23-31, 12-14 Away",107,87,,,Final,,29,32,31,15,,25,21,19,22,,NBA
+240220004,2003,"February 20, 2004",Chicago Bulls,Sacramento Kings,"16-39, 10-18 Home","39-14, 15-10 Away",83,91,,,Final,,25,19,26,13,,24,25,23,19,,NBA
+240225004,2003,"February 25, 2004",Chicago Bulls,Detroit Pistons,"16-41, 10-20 Home","36-24, 16-14 Away",88,107,,,Final,,22,21,28,17,,17,34,33,23,,NBA
+240228004,2003,"February 28, 2004",Chicago Bulls,Golden State Warriors,"17-42, 11-20 Home","25-33, 7-23 Away",87,81,,,Final/OT,,26,15,20,16,10.0,17,17,21,22,4.0,NBA
+240303003,2003,"March 03, 2004",New Orleans Hornets,Chicago Bulls,"33-28, 20-11 Home","18-43, 6-23 Away",100,97,,,Final/OT,,20,20,31,20,9.0,24,22,24,21,6.0,NBA
+240309004,2003,"March 09, 2004",Chicago Bulls,Philadelphia 76ers,"18-45, 12-21 Home","27-38, 11-22 Away",81,89,,,Final,,22,18,21,20,,23,13,24,29,,NBA
+240312017,2003,"March 12, 2004",New Jersey Nets,Chicago Bulls,"40-24, 23-9 Home","18-47, 6-26 Away",88,76,,,Final,,26,16,17,29,,10,22,26,18,,NBA
+240316005,2003,"March 16, 2004",Cleveland Cavaliers,Chicago Bulls,"31-36, 20-13 Home","18-49, 6-27 Away",111,87,,,Final,,34,22,29,26,,29,20,16,22,,NBA
+240320004,2003,"March 20, 2004",Chicago Bulls,New York Knicks,"20-49, 13-22 Home","32-38, 13-22 Away",87,81,,,Final,,27,23,17,20,,18,22,24,17,,NBA
+240323004,2003,"March 23, 2004",Chicago Bulls,New Jersey Nets,"20-51, 13-23 Home","42-28, 18-17 Away",81,84,,,Final,,17,23,24,17,,23,15,23,23,,NBA
+240327001,2003,"March 27, 2004",Atlanta Hawks,Chicago Bulls,"24-49, 16-20 Home","20-53, 7-29 Away",97,88,,,Final,,15,29,27,26,,18,20,21,29,,NBA
+240331019,2003,"March 31, 2004",Orlando Magic,Chicago Bulls,"19-57, 10-28 Home","21-54, 8-30 Away",91,109,,,Final,,32,21,11,27,,28,21,24,36,,NBA
+240403004,2003,"April 03, 2004",Chicago Bulls,Miami Heat,"22-55, 14-25 Home","38-39, 12-27 Away",83,97,,,Final,,15,16,19,33,,19,22,28,28,,NBA
+240409004,2003,"April 09, 2004",Chicago Bulls,Atlanta Hawks,"22-57, 14-26 Home","26-53, 10-30 Away",101,116,,,Final,,24,24,19,34,,37,24,27,28,,NBA
+240412004,2003,"April 12, 2004",Chicago Bulls,Orlando Magic,"23-58, 14-27 Home","20-61, 10-31 Away",84,93,,,Final,,24,21,10,29,,25,28,17,23,,NBA
+240414011,2003,"April 14, 2004",Indiana Pacers,Chicago Bulls,"61-21, 34-7 Home","23-59, 9-32 Away",101,96,,,Final,,28,23,28,22,,35,24,22,15,,NBA

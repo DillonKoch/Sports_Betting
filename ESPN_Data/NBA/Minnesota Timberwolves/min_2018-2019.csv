@@ -1,83 +1,83 @@
-,Unnamed: 0,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-0,0,401070706,2018,"Fri, Oct 19",Minnesota Timberwolves,Cleveland Cavaliers,"1-1, 1-0 Home","0-2, 0-2 Away",131,123,MIN -8.5,223,Final,,32,39,33,27,,30,24,41,28,,NBA
-1,1,401070724,2018,"Mon, Oct 22",Minnesota Timberwolves,Indiana Pacers,"2-2, 2-0 Home","2-2, 0-2 Away",101,91,MIN -2.5,229,Final,,25,25,22,29,,28,21,24,18,,NBA
-2,2,401070752,2018,"Fri, Oct 26",Minnesota Timberwolves,Milwaukee Bucks,"2-4, 2-1 Home","5-0, 2-0 Away",95,125,MIL -2.0,234,Final,,16,22,29,28,,27,36,34,28,,NBA
-3,3,401070788,2018,"Wed, Oct 31",Minnesota Timberwolves,Utah Jazz,"4-4, 4-1 Home","4-3, 4-1 Away",128,125,UTAH -7.0,222,Final,,32,33,36,27,,25,31,40,29,,NBA
-4,4,401070819,2018,"Sun, Nov 4",Portland Trail Blazers,Minnesota Timberwolves,"7-3, 4-2 Home","4-6, 0-5 Away",111,81,POR -6.0,228,Final,,30,31,31,19,,27,18,19,17,,NBA
-5,5,401070843,2018,"Wed, Nov 7",Los Angeles Lakers,Minnesota Timberwolves,"5-6, 3-3 Home","4-8, 0-7 Away",114,110,LAL -5.5,240,Final,ESPN,30,35,21,28,,32,35,21,22,,NBA
-6,6,401070876,2018,"Mon, Nov 12",Minnesota Timberwolves,Brooklyn Nets,"5-9, 5-1 Home","6-8, 3-6 Away",120,113,MIN -4.0,226,Final,,30,27,36,27,,31,22,32,28,,NBA
-7,7,401070902,2018,"Fri, Nov 16",Minnesota Timberwolves,Portland Trail Blazers,"7-9, 7-1 Home","10-5, 3-3 Away",112,96,EVEN,225,Final,,29,26,28,29,,21,22,24,29,,NBA
-8,8,401070941,2018,"Wed, Nov 21",Minnesota Timberwolves,Denver Nuggets,"7-11, 7-3 Home","11-7, 4-4 Away",101,103,MIN -1.0,221,Final,,25,31,18,27,,23,27,35,18,,NBA
-9,9,401070962,2018,"Sat, Nov 24",Minnesota Timberwolves,Chicago Bulls,"9-11, 8-3 Home","5-15, 2-7 Away",111,96,MIN -11.0,219,Final,,20,29,35,27,,22,28,29,17,,NBA
-10,10,401070992,2018,"Wed, Nov 28",Minnesota Timberwolves,San Antonio Spurs,"11-11, 9-3 Home","10-11, 4-8 Away",128,89,MIN -4.5,216,Final,,28,29,35,36,,25,9,24,31,,NBA
-11,11,401071029,2018,"Mon, Dec 3",Minnesota Timberwolves,Houston Rockets,"12-12, 10-4 Home","11-12, 6-7 Away",103,91,HOU -2.5,223,Final,,24,24,38,17,,24,38,20,9,,NBA
-12,12,401071066,2018,"Sat, Dec 8",Portland Trail Blazers,Minnesota Timberwolves,"15-11, 10-4 Home","13-13, 2-9 Away",113,105,POR -3.5,221,Final,NBATV,30,23,28,32,,27,24,29,25,,NBA
-13,13,401071095,2018,"Wed, Dec 12",Sacramento Kings,Minnesota Timberwolves,"15-12, 7-5 Home","13-15, 2-11 Away",141,130,MIN -3.5,227,Final,,35,28,33,45,,31,19,42,38,,NBA
-14,14,401071127,2018,"Mon, Dec 17",Minnesota Timberwolves,Sacramento Kings,"14-16, 12-4 Home","16-14, 9-8 Away",132,105,MIN -8.0,231,Final,,38,36,29,29,,23,21,33,28,,NBA
-15,15,401071156,2018,"Fri, Dec 21",San Antonio Spurs,Minnesota Timberwolves,"18-15, 13-5 Home","14-18, 2-13 Away",124,98,SA -3.5,220,Final,,29,33,25,37,,21,23,27,27,,NBA
-16,16,401071183,2018,"Wed, Dec 26",Chicago Bulls,Minnesota Timberwolves,"9-26, 5-13 Home","16-18, 4-13 Away",94,119,MIN -4.0,211,Final,,18,19,28,29,,29,31,23,36,,NBA
-17,17,401071213,2018,"Sun, Dec 30",Miami Heat,Minnesota Timberwolves,"17-18, 8-11 Home","17-19, 5-13 Away",104,113,MIA -4.0,207,Final,,19,35,23,27,,30,25,31,27,,NBA
-18,18,401071234,2018,"Wed, Jan 2",Boston Celtics,Minnesota Timberwolves,"22-15, 12-5 Home","17-21, 5-15 Away",115,102,,215,Final,ESPN,25,35,27,28,,21,21,39,21,,NBA
-19,19,401071261,2018,"Sun, Jan 6",Minnesota Timberwolves,Los Angeles Lakers,"19-21, 14-6 Home","21-19, 8-11 Away",108,86,MIN -8.0,225,Final,,35,29,19,25,,19,26,23,18,,NBA
-20,20,401071302,2018,"Fri, Jan 11",Minnesota Timberwolves,Dallas Mavericks,"20-22, 14-7 Home","20-22, 4-18 Away",115,119,MIN -5.0,225,Final,,26,24,28,37,,28,33,24,34,,NBA
-21,21,401071328,2018,"Tue, Jan 15",Philadelphia 76ers,Minnesota Timberwolves,"29-16, 19-4 Home","21-23, 6-16 Away",149,107,PHI -6.5,233,Final,NBATV,40,43,32,34,,27,31,32,17,,NBA
-22,22,401071365,2018,"Sun, Jan 20",Minnesota Timberwolves,Phoenix Suns,"22-24, 16-8 Home","11-37, 4-20 Away",116,114,MIN -12.0,230,Final,,29,35,27,25,,31,36,29,18,,NBA
-23,23,401071392,2018,"Thu, Jan 24",Los Angeles Lakers,Minnesota Timberwolves,"25-24, 15-11 Home","24-24, 8-16 Away",105,120,LAL -2.0,230,Final,TNT,29,32,21,23,,28,30,26,36,,NBA
-24,24,401071413,2018,"Sun, Jan 27",Minnesota Timberwolves,Utah Jazz,"24-26, 16-9 Home","29-22, 14-13 Away",111,125,UTAH -5.0,217,Final,,22,28,35,26,,25,28,37,35,,NBA
-25,25,401071456,2018,"Sat, Feb 2",Minnesota Timberwolves,Denver Nuggets,"25-27, 17-10 Home","37-15, 14-11 Away",106,107,MIN -1.0,222,Final,,38,26,24,18,,29,32,28,18,,NBA
-26,26,401071485,2018,"Thu, Feb 7",Orlando Magic,Minnesota Timberwolves,"23-32, 15-15 Home","25-29, 8-19 Away",122,112,ORL -4.0,215,Final,,32,39,31,20,,31,27,27,27,,NBA
-27,27,401071518,2018,"Mon, Feb 11",Minnesota Timberwolves,LA Clippers,"26-30, 18-10 Home","31-27, 16-15 Away",130,120,MIN -3.5,233,Final,,29,34,36,31,,26,29,36,29,,NBA
-28,28,401071551,2018,"Fri, Feb 22",New York Knicks,Minnesota Timberwolves,"11-48, 4-24 Home","28-30, 9-20 Away",104,115,MIN -3.5,220,Final,,33,25,25,21,,29,37,28,21,,NBA
-29,29,401071578,2018,"Mon, Feb 25",Minnesota Timberwolves,Sacramento Kings,"29-31, 20-10 Home","31-29, 12-18 Away",112,105,MIN -3.5,237,Final,,19,44,30,19,,30,23,27,25,,NBA
-30,30,401071595,2018,"Thu, Feb 28",Indiana Pacers,Minnesota Timberwolves,"41-22, 24-8 Home","29-33, 9-23 Away",122,115,IND -3.5,221,Final,,26,38,28,30,,35,25,30,25,,NBA
-31,31,401071636,2018,"Tue, Mar 5",Minnesota Timberwolves,Oklahoma City Thunder,"30-34, 21-10 Home","39-25, 17-16 Away",131,120,OKC -2.0,237,Final,,30,41,31,29,,24,33,30,33,,NBA
-32,32,401071661,2018,"Sat, Mar 9",Minnesota Timberwolves,Washington Wizards,"31-35, 22-10 Home","27-39, 8-27 Away",135,130,MIN -7.0,243,Final/OT,,28,32,35,26,14.0,39,32,28,22,9.0,NBA
-33,33,401071685,2018,"Tue, Mar 12",Denver Nuggets,Minnesota Timberwolves,"44-22, 28-6 Home","32-36, 9-26 Away",133,107,DEN -10.0,228,Final,TNT,31,27,36,39,,20,28,30,29,,NBA
-34,34,401071721,2018,"Sun, Mar 17",Houston Rockets,Minnesota Timberwolves,"44-26, 26-10 Home","32-38, 9-28 Away",117,102,HOU -9.5,225,Final,ESPN,26,24,43,24,,30,19,29,24,,NBA
-35,35,401071747,2018,"Thu, Mar 21",Charlotte Hornets,Minnesota Timberwolves,"32-39, 22-15 Home","32-40, 9-29 Away",113,106,CHA -5.5,223,Final,,25,29,27,32,,25,26,27,28,,NBA
-36,36,401071785,2018,"Tue, Mar 26",Minnesota Timberwolves,LA Clippers,"33-41, 23-12 Home","45-30, 22-17 Away",111,122,LAC -3.0,230,Final,,23,32,30,26,,42,33,25,22,,NBA
-37,37,401071816,2018,"Sat, Mar 30",Minnesota Timberwolves,Philadelphia 76ers,"34-42, 24-13 Home","49-27, 19-18 Away",109,118,PHI -4.5,230,Final,NBATV,20,35,26,28,,38,30,24,26,,NBA
-38,38,401071845,2018,"Wed, Apr 3",Dallas Mavericks,Minnesota Timberwolves,"31-47, 23-16 Home","35-43, 11-29 Away",108,110,DAL -2.5,227,Final,,27,31,21,29,,32,26,31,21,,NBA
-39,39,401071870,2018,"Sun, Apr 7",Minnesota Timberwolves,Oklahoma City Thunder,"36-44, 25-15 Home","47-33, 21-19 Away",126,132,OKC -6.5,229,Final,ABC,31,29,37,29,,38,24,33,37,,NBA
-40,40,401070699,2018,"Wed, Oct 17",San Antonio Spurs,Minnesota Timberwolves,"1-0, 1-0 Home","0-1, 0-1 Away",112,108,SA -2.5,212,Final,,31,25,25,31,,23,29,31,25,,NBA
-41,41,401070715,2018,"Sat, Oct 20",Dallas Mavericks,Minnesota Timberwolves,"1-1, 1-0 Home","1-2, 0-2 Away",140,136,DAL -1.5,221,Final,,37,32,28,43,,46,23,30,37,,NBA
-42,42,401070736,2018,"Wed, Oct 24",Toronto Raptors,Minnesota Timberwolves,"5-0, 4-0 Home","2-3, 0-3 Away",112,105,TOR -8.5,228,Final,,26,31,26,29,,19,29,26,31,,NBA
-43,43,401070774,2018,"Mon, Oct 29",Minnesota Timberwolves,Los Angeles Lakers,"3-4, 3-1 Home","2-5, 1-3 Away",124,120,LAL -2.0,241,Final,NBATV,36,28,29,31,,32,34,28,26,,NBA
-44,44,401070805,2018,"Fri, Nov 2",Golden State Warriors,Minnesota Timberwolves,"9-1, 5-0 Home","4-5, 0-4 Away",116,99,GS -11.0,244,Final,ESPN,36,25,22,33,,32,26,29,12,,NBA
-45,45,401070829,2018,"Mon, Nov 5",LA Clippers,Minnesota Timberwolves,"6-4, 4-1 Home","4-7, 0-6 Away",120,109,LAC -5.5,233,Final,,31,32,29,28,,33,26,25,25,,NBA
-46,46,401070854,2018,"Fri, Nov 9",Sacramento Kings,Minnesota Timberwolves,"7-5, 3-2 Home","4-9, 0-8 Away",121,110,MIN -2.5,234,Final,,29,34,29,29,,31,30,20,29,,NBA
-47,47,401070889,2018,"Wed, Nov 14",Minnesota Timberwolves,New Orleans Pelicans,"6-9, 6-1 Home","7-7, 2-6 Away",107,100,NO -1.5,233,Final,ESPN,38,29,18,22,,28,26,27,19,,NBA
-48,48,401070915,2018,"Sun, Nov 18",Minnesota Timberwolves,Memphis Grizzlies,"7-10, 7-2 Home","10-5, 4-4 Away",87,100,MIN -5.0,209,Final,,20,23,19,25,,17,30,28,25,,NBA
-49,49,401070946,2018,"Fri, Nov 23",Brooklyn Nets,Minnesota Timberwolves,"8-12, 3-5 Home","8-11, 1-8 Away",102,112,MIN -2.0,222,Final,,26,23,23,30,,22,32,35,23,,NBA
-50,50,401070976,2018,"Mon, Nov 26",Cleveland Cavaliers,Minnesota Timberwolves,"4-15, 3-7 Home","10-11, 2-8 Away",95,102,MIN -6.0,215,Final,,26,21,24,24,,29,25,21,27,,NBA
-51,51,401071016,2018,"Sat, Dec 1",Minnesota Timberwolves,Boston Celtics,"11-12, 9-4 Home","13-10, 7-7 Away",109,118,MIN -1.5,217,Final,NBATV,26,22,29,32,,29,28,27,34,,NBA
-52,52,401071043,2018,"Wed, Dec 5",Minnesota Timberwolves,Charlotte Hornets,"13-12, 11-4 Home","11-13, 3-8 Away",121,104,MIN -4.5,222,Final,,31,31,24,35,,31,33,22,18,,NBA
-53,53,401071081,2018,"Mon, Dec 10",Golden State Warriors,Minnesota Timberwolves,"19-9, 12-2 Home","13-14, 2-10 Away",116,108,GS -9.5,229,Final,,30,33,28,25,,24,33,20,31,,NBA
-54,54,401071116,2018,"Sat, Dec 15",Phoenix Suns,Minnesota Timberwolves,"6-24, 5-11 Home","13-16, 2-12 Away",107,99,MIN -7.5,219,Final,,28,28,29,22,,30,28,24,17,,NBA
-55,55,401071144,2018,"Wed, Dec 19",Minnesota Timberwolves,Detroit Pistons,"14-17, 12-5 Home","15-14, 5-7 Away",123,129,MIN -5.5,217,Final/OT,,26,36,30,26,5.0,27,26,25,40,11.0,NBA
-56,56,401071174,2018,"Sun, Dec 23",Oklahoma City Thunder,Minnesota Timberwolves,"21-11, 12-4 Home","15-18, 3-13 Away",112,114,OKC -6.5,222,Final,,25,38,17,32,,35,18,33,28,,NBA
-57,57,401071198,2018,"Fri, Dec 28",Minnesota Timberwolves,Atlanta Hawks,"16-19, 12-6 Home","10-24, 5-14 Away",120,123,MIN -9.5,230,Final/OT,,27,32,30,23,8.0,42,29,18,23,11.0,NBA
-58,58,401071222,2018,"Mon, Dec 31",New Orleans Pelicans,Minnesota Timberwolves,"17-21, 13-6 Home","17-20, 5-14 Away",123,114,NO -1.0,224,Final,,27,36,25,35,,22,29,38,25,,NBA
-59,59,401071247,2018,"Fri, Jan 4",Minnesota Timberwolves,Orlando Magic,"18-21, 13-6 Home","17-21, 7-10 Away",120,103,MIN -4.0,215,Final,,31,33,31,25,,40,28,17,18,,NBA
-60,60,401071279,2018,"Tue, Jan 8",Oklahoma City Thunder,Minnesota Timberwolves,"25-15, 13-6 Home","20-21, 6-15 Away",117,119,OKC -8.0,229,Final,NBATV,23,41,29,24,,29,35,32,23,,NBA
-61,61,401071309,2018,"Sat, Jan 12",Minnesota Timberwolves,New Orleans Pelicans,"21-22, 15-7 Home","20-23, 5-17 Away",110,106,NO -1.5,237,Final,,27,27,33,23,,29,23,37,17,,NBA
-62,62,401071350,2018,"Fri, Jan 18",Minnesota Timberwolves,San Antonio Spurs,"21-24, 15-8 Home","27-20, 9-14 Away",113,116,MIN -1.5,227,Final,ESPN,31,27,32,23,,28,30,30,28,,NBA
-63,63,401071378,2018,"Tue, Jan 22",Phoenix Suns,Minnesota Timberwolves,"11-38, 7-18 Home","23-24, 7-16 Away",91,118,MIN -4.5,232,Final,,27,22,22,20,,32,32,29,25,,NBA
-64,64,401071402,2018,"Fri, Jan 25",Utah Jazz,Minnesota Timberwolves,"28-22, 15-9 Home","24-25, 8-17 Away",106,102,UTAH -10.0,218,Final,,31,21,38,16,,24,21,24,33,,NBA
-65,65,401071433,2018,"Wed, Jan 30",Minnesota Timberwolves,Memphis Grizzlies,"25-26, 17-9 Home","20-32, 8-18 Away",99,97,MIN -3.0,207,Final/OT,,24,20,27,22,6.0,16,28,25,24,4.0,NBA
-66,66,401071474,2018,"Tue, Feb 5",Memphis Grizzlies,Minnesota Timberwolves,"22-33, 13-14 Home","25-28, 8-18 Away",108,106,MIN -4.0,207,Final,,32,34,19,23,,19,35,29,23,,NBA
-67,67,401071496,2018,"Fri, Feb 8",New Orleans Pelicans,Minnesota Timberwolves,"25-31, 16-10 Home","25-30, 8-20 Away",122,117,NO -6.0,231,Final,ESPN,22,40,28,32,,35,27,26,29,,NBA
-68,68,401071534,2018,"Wed, Feb 13",Minnesota Timberwolves,Houston Rockets,"27-30, 19-10 Home","33-24, 13-15 Away",121,111,HOU -4.0,232,Final,ESPN,28,24,35,34,,29,29,26,27,,NBA
-69,69,401071564,2018,"Sat, Feb 23",Milwaukee Bucks,Minnesota Timberwolves,"45-14, 25-5 Home","28-31, 9-21 Away",140,128,MIL -13.0,231,Final,,35,34,38,33,,32,38,39,19,,NBA
-70,70,401071585,2018,"Wed, Feb 27",Atlanta Hawks,Minnesota Timberwolves,"21-41, 11-18 Home","29-32, 9-22 Away",131,123,MIN -5.0,235,Final/OT,,33,27,26,32,13.0,40,28,27,23,5.0,NBA
-71,71,401071623,2018,"Sun, Mar 3",Washington Wizards,Minnesota Timberwolves,"26-37, 18-12 Home","29-34, 9-24 Away",135,121,EVEN,240,Final,,40,22,35,38,,36,28,23,34,,NBA
-72,72,401071639,2018,"Wed, Mar 6",Detroit Pistons,Minnesota Timberwolves,"32-31, 20-13 Home","30-35, 9-25 Away",131,114,DET -4.5,224,Final,,22,38,30,41,,35,29,24,26,,NBA
-73,73,401071671,2018,"Sun, Mar 10",Minnesota Timberwolves,New York Knicks,"32-35, 23-10 Home","13-54, 7-28 Away",103,92,MIN -6.5,224,Final,,23,32,25,23,,22,23,20,27,,NBA
-74,74,401071697,2018,"Thu, Mar 14",Utah Jazz,Minnesota Timberwolves,"39-29, 22-12 Home","32-37, 9-27 Away",120,100,UTAH -9.0,220,Final,,34,30,27,29,,25,30,26,19,,NBA
-75,75,401071735,2018,"Tue, Mar 19",Minnesota Timberwolves,Golden State Warriors,"32-39, 23-11 Home","48-22, 24-12 Away",107,117,GS -6.5,230,Final,,27,20,28,32,,30,29,32,26,,NBA
-76,76,401071764,2018,"Sat, Mar 23",Memphis Grizzlies,Minnesota Timberwolves,"29-44, 19-18 Home","33-40, 10-29 Away",99,112,MEM -1.0,218,Final,,25,25,18,31,,25,24,35,28,,NBA
-77,77,401071805,2018,"Fri, Mar 29",Minnesota Timberwolves,Golden State Warriors,"34-41, 24-12 Home","51-24, 25-13 Away",131,130,GS -10.0,230,Final/OT,,27,27,32,29,16.0,32,36,18,29,15.0,NBA
-78,78,401071830,2018,"Mon, Apr 1",Minnesota Timberwolves,Portland Trail Blazers,"34-43, 24-14 Home","49-28, 20-19 Away",122,132,POR -3.0,225,Final,,23,41,36,22,,38,37,22,35,,NBA
-79,79,401071858,2018,"Fri, Apr 5",Minnesota Timberwolves,Miami Heat,"36-43, 25-14 Home","38-41, 20-19 Away",111,109,MIA -4.5,218,Final,,36,25,29,21,,35,34,22,18,,NBA
-80,80,401071887,2018,"Tue, Apr 9",Minnesota Timberwolves,Toronto Raptors,"36-45, 25-16 Home","58-24, 26-15 Away",100,120,TOR -7.5,228,Final,,28,19,31,22,,26,43,29,22,,NBA
-81,81,401071901,2018,"Wed, Apr 10",Denver Nuggets,Minnesota Timberwolves,"54-28, 34-7 Home","36-46, 11-30 Away",99,95,DEN -13.0,219,Final,,22,29,22,26,,21,29,29,16,,NBA
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+401070706,2018,"October 19, 2018",Minnesota Timberwolves,Cleveland Cavaliers,"1-1, 1-0 Home","0-2, 0-2 Away",131,123,MIN -8.5,223,Final,,32,39,33,27,,30,24,41,28,,NBA
+401070724,2018,"October 22, 2018",Minnesota Timberwolves,Indiana Pacers,"2-2, 2-0 Home","2-2, 0-2 Away",101,91,MIN -2.5,229,Final,,25,25,22,29,,28,21,24,18,,NBA
+401070752,2018,"October 26, 2018",Minnesota Timberwolves,Milwaukee Bucks,"2-4, 2-1 Home","5-0, 2-0 Away",95,125,MIL -2.0,234,Final,,16,22,29,28,,27,36,34,28,,NBA
+401070788,2018,"October 31, 2018",Minnesota Timberwolves,Utah Jazz,"4-4, 4-1 Home","4-3, 4-1 Away",128,125,UTAH -7.0,222,Final,,32,33,36,27,,25,31,40,29,,NBA
+401070819,2018,"November 04, 2018",Portland Trail Blazers,Minnesota Timberwolves,"7-3, 4-2 Home","4-6, 0-5 Away",111,81,POR -6.0,228,Final,,30,31,31,19,,27,18,19,17,,NBA
+401070843,2018,"November 07, 2018",Los Angeles Lakers,Minnesota Timberwolves,"5-6, 3-3 Home","4-8, 0-7 Away",114,110,LAL -5.5,240,Final,ESPN,30,35,21,28,,32,35,21,22,,NBA
+401070876,2018,"November 12, 2018",Minnesota Timberwolves,Brooklyn Nets,"5-9, 5-1 Home","6-8, 3-6 Away",120,113,MIN -4.0,226,Final,,30,27,36,27,,31,22,32,28,,NBA
+401070902,2018,"November 16, 2018",Minnesota Timberwolves,Portland Trail Blazers,"7-9, 7-1 Home","10-5, 3-3 Away",112,96,EVEN,225,Final,,29,26,28,29,,21,22,24,29,,NBA
+401070941,2018,"November 21, 2018",Minnesota Timberwolves,Denver Nuggets,"7-11, 7-3 Home","11-7, 4-4 Away",101,103,MIN -1.0,221,Final,,25,31,18,27,,23,27,35,18,,NBA
+401070962,2018,"November 24, 2018",Minnesota Timberwolves,Chicago Bulls,"9-11, 8-3 Home","5-15, 2-7 Away",111,96,MIN -11.0,219,Final,,20,29,35,27,,22,28,29,17,,NBA
+401070992,2018,"November 28, 2018",Minnesota Timberwolves,San Antonio Spurs,"11-11, 9-3 Home","10-11, 4-8 Away",128,89,MIN -4.5,216,Final,,28,29,35,36,,25,9,24,31,,NBA
+401071029,2018,"December 03, 2018",Minnesota Timberwolves,Houston Rockets,"12-12, 10-4 Home","11-12, 6-7 Away",103,91,HOU -2.5,223,Final,,24,24,38,17,,24,38,20,9,,NBA
+401071066,2018,"December 08, 2018",Portland Trail Blazers,Minnesota Timberwolves,"15-11, 10-4 Home","13-13, 2-9 Away",113,105,POR -3.5,221,Final,NBATV,30,23,28,32,,27,24,29,25,,NBA
+401071095,2018,"December 12, 2018",Sacramento Kings,Minnesota Timberwolves,"15-12, 7-5 Home","13-15, 2-11 Away",141,130,MIN -3.5,227,Final,,35,28,33,45,,31,19,42,38,,NBA
+401071127,2018,"December 17, 2018",Minnesota Timberwolves,Sacramento Kings,"14-16, 12-4 Home","16-14, 9-8 Away",132,105,MIN -8.0,231,Final,,38,36,29,29,,23,21,33,28,,NBA
+401071156,2018,"December 21, 2018",San Antonio Spurs,Minnesota Timberwolves,"18-15, 13-5 Home","14-18, 2-13 Away",124,98,SA -3.5,220,Final,,29,33,25,37,,21,23,27,27,,NBA
+401071183,2018,"December 26, 2018",Chicago Bulls,Minnesota Timberwolves,"9-26, 5-13 Home","16-18, 4-13 Away",94,119,MIN -4.0,211,Final,,18,19,28,29,,29,31,23,36,,NBA
+401071213,2018,"December 30, 2018",Miami Heat,Minnesota Timberwolves,"17-18, 8-11 Home","17-19, 5-13 Away",104,113,MIA -4.0,207,Final,,19,35,23,27,,30,25,31,27,,NBA
+401071234,2018,"January 02, 2019",Boston Celtics,Minnesota Timberwolves,"22-15, 12-5 Home","17-21, 5-15 Away",115,102,,215,Final,ESPN,25,35,27,28,,21,21,39,21,,NBA
+401071261,2018,"January 06, 2019",Minnesota Timberwolves,Los Angeles Lakers,"19-21, 14-6 Home","21-19, 8-11 Away",108,86,MIN -8.0,225,Final,,35,29,19,25,,19,26,23,18,,NBA
+401071302,2018,"January 11, 2019",Minnesota Timberwolves,Dallas Mavericks,"20-22, 14-7 Home","20-22, 4-18 Away",115,119,MIN -5.0,225,Final,,26,24,28,37,,28,33,24,34,,NBA
+401071328,2018,"January 15, 2019",Philadelphia 76ers,Minnesota Timberwolves,"29-16, 19-4 Home","21-23, 6-16 Away",149,107,PHI -6.5,233,Final,NBATV,40,43,32,34,,27,31,32,17,,NBA
+401071365,2018,"January 20, 2019",Minnesota Timberwolves,Phoenix Suns,"22-24, 16-8 Home","11-37, 4-20 Away",116,114,MIN -12.0,230,Final,,29,35,27,25,,31,36,29,18,,NBA
+401071392,2018,"January 24, 2019",Los Angeles Lakers,Minnesota Timberwolves,"25-24, 15-11 Home","24-24, 8-16 Away",105,120,LAL -2.0,230,Final,TNT,29,32,21,23,,28,30,26,36,,NBA
+401071413,2018,"January 27, 2019",Minnesota Timberwolves,Utah Jazz,"24-26, 16-9 Home","29-22, 14-13 Away",111,125,UTAH -5.0,217,Final,,22,28,35,26,,25,28,37,35,,NBA
+401071456,2018,"February 02, 2019",Minnesota Timberwolves,Denver Nuggets,"25-27, 17-10 Home","37-15, 14-11 Away",106,107,MIN -1.0,222,Final,,38,26,24,18,,29,32,28,18,,NBA
+401071485,2018,"February 07, 2019",Orlando Magic,Minnesota Timberwolves,"23-32, 15-15 Home","25-29, 8-19 Away",122,112,ORL -4.0,215,Final,,32,39,31,20,,31,27,27,27,,NBA
+401071518,2018,"February 11, 2019",Minnesota Timberwolves,LA Clippers,"26-30, 18-10 Home","31-27, 16-15 Away",130,120,MIN -3.5,233,Final,,29,34,36,31,,26,29,36,29,,NBA
+401071551,2018,"February 22, 2019",New York Knicks,Minnesota Timberwolves,"11-48, 4-24 Home","28-30, 9-20 Away",104,115,MIN -3.5,220,Final,,33,25,25,21,,29,37,28,21,,NBA
+401071578,2018,"February 25, 2019",Minnesota Timberwolves,Sacramento Kings,"29-31, 20-10 Home","31-29, 12-18 Away",112,105,MIN -3.5,237,Final,,19,44,30,19,,30,23,27,25,,NBA
+401071595,2018,"February 28, 2019",Indiana Pacers,Minnesota Timberwolves,"41-22, 24-8 Home","29-33, 9-23 Away",122,115,IND -3.5,221,Final,,26,38,28,30,,35,25,30,25,,NBA
+401071636,2018,"March 05, 2019",Minnesota Timberwolves,Oklahoma City Thunder,"30-34, 21-10 Home","39-25, 17-16 Away",131,120,OKC -2.0,237,Final,,30,41,31,29,,24,33,30,33,,NBA
+401071661,2018,"March 09, 2019",Minnesota Timberwolves,Washington Wizards,"31-35, 22-10 Home","27-39, 8-27 Away",135,130,MIN -7.0,243,Final/OT,,28,32,35,26,14.0,39,32,28,22,9.0,NBA
+401071685,2018,"March 12, 2019",Denver Nuggets,Minnesota Timberwolves,"44-22, 28-6 Home","32-36, 9-26 Away",133,107,DEN -10.0,228,Final,TNT,31,27,36,39,,20,28,30,29,,NBA
+401071721,2018,"March 17, 2019",Houston Rockets,Minnesota Timberwolves,"44-26, 26-10 Home","32-38, 9-28 Away",117,102,HOU -9.5,225,Final,ESPN,26,24,43,24,,30,19,29,24,,NBA
+401071747,2018,"March 21, 2019",Charlotte Hornets,Minnesota Timberwolves,"32-39, 22-15 Home","32-40, 9-29 Away",113,106,CHA -5.5,223,Final,,25,29,27,32,,25,26,27,28,,NBA
+401071785,2018,"March 26, 2019",Minnesota Timberwolves,LA Clippers,"33-41, 23-12 Home","45-30, 22-17 Away",111,122,LAC -3.0,230,Final,,23,32,30,26,,42,33,25,22,,NBA
+401071816,2018,"March 30, 2019",Minnesota Timberwolves,Philadelphia 76ers,"34-42, 24-13 Home","49-27, 19-18 Away",109,118,PHI -4.5,230,Final,NBATV,20,35,26,28,,38,30,24,26,,NBA
+401071845,2018,"April 03, 2019",Dallas Mavericks,Minnesota Timberwolves,"31-47, 23-16 Home","35-43, 11-29 Away",108,110,DAL -2.5,227,Final,,27,31,21,29,,32,26,31,21,,NBA
+401071870,2018,"April 07, 2019",Minnesota Timberwolves,Oklahoma City Thunder,"36-44, 25-15 Home","47-33, 21-19 Away",126,132,OKC -6.5,229,Final,ABC,31,29,37,29,,38,24,33,37,,NBA
+401070699,2018,"October 17, 2018",San Antonio Spurs,Minnesota Timberwolves,"1-0, 1-0 Home","0-1, 0-1 Away",112,108,SA -2.5,212,Final,,31,25,25,31,,23,29,31,25,,NBA
+401070715,2018,"October 20, 2018",Dallas Mavericks,Minnesota Timberwolves,"1-1, 1-0 Home","1-2, 0-2 Away",140,136,DAL -1.5,221,Final,,37,32,28,43,,46,23,30,37,,NBA
+401070736,2018,"October 24, 2018",Toronto Raptors,Minnesota Timberwolves,"5-0, 4-0 Home","2-3, 0-3 Away",112,105,TOR -8.5,228,Final,,26,31,26,29,,19,29,26,31,,NBA
+401070774,2018,"October 29, 2018",Minnesota Timberwolves,Los Angeles Lakers,"3-4, 3-1 Home","2-5, 1-3 Away",124,120,LAL -2.0,241,Final,NBATV,36,28,29,31,,32,34,28,26,,NBA
+401070805,2018,"November 02, 2018",Golden State Warriors,Minnesota Timberwolves,"9-1, 5-0 Home","4-5, 0-4 Away",116,99,GS -11.0,244,Final,ESPN,36,25,22,33,,32,26,29,12,,NBA
+401070829,2018,"November 05, 2018",LA Clippers,Minnesota Timberwolves,"6-4, 4-1 Home","4-7, 0-6 Away",120,109,LAC -5.5,233,Final,,31,32,29,28,,33,26,25,25,,NBA
+401070854,2018,"November 09, 2018",Sacramento Kings,Minnesota Timberwolves,"7-5, 3-2 Home","4-9, 0-8 Away",121,110,MIN -2.5,234,Final,,29,34,29,29,,31,30,20,29,,NBA
+401070889,2018,"November 14, 2018",Minnesota Timberwolves,New Orleans Pelicans,"6-9, 6-1 Home","7-7, 2-6 Away",107,100,NO -1.5,233,Final,ESPN,38,29,18,22,,28,26,27,19,,NBA
+401070915,2018,"November 18, 2018",Minnesota Timberwolves,Memphis Grizzlies,"7-10, 7-2 Home","10-5, 4-4 Away",87,100,MIN -5.0,209,Final,,20,23,19,25,,17,30,28,25,,NBA
+401070946,2018,"November 23, 2018",Brooklyn Nets,Minnesota Timberwolves,"8-12, 3-5 Home","8-11, 1-8 Away",102,112,MIN -2.0,222,Final,,26,23,23,30,,22,32,35,23,,NBA
+401070976,2018,"November 26, 2018",Cleveland Cavaliers,Minnesota Timberwolves,"4-15, 3-7 Home","10-11, 2-8 Away",95,102,MIN -6.0,215,Final,,26,21,24,24,,29,25,21,27,,NBA
+401071016,2018,"December 01, 2018",Minnesota Timberwolves,Boston Celtics,"11-12, 9-4 Home","13-10, 7-7 Away",109,118,MIN -1.5,217,Final,NBATV,26,22,29,32,,29,28,27,34,,NBA
+401071043,2018,"December 05, 2018",Minnesota Timberwolves,Charlotte Hornets,"13-12, 11-4 Home","11-13, 3-8 Away",121,104,MIN -4.5,222,Final,,31,31,24,35,,31,33,22,18,,NBA
+401071081,2018,"December 10, 2018",Golden State Warriors,Minnesota Timberwolves,"19-9, 12-2 Home","13-14, 2-10 Away",116,108,GS -9.5,229,Final,,30,33,28,25,,24,33,20,31,,NBA
+401071116,2018,"December 15, 2018",Phoenix Suns,Minnesota Timberwolves,"6-24, 5-11 Home","13-16, 2-12 Away",107,99,MIN -7.5,219,Final,,28,28,29,22,,30,28,24,17,,NBA
+401071144,2018,"December 19, 2018",Minnesota Timberwolves,Detroit Pistons,"14-17, 12-5 Home","15-14, 5-7 Away",123,129,MIN -5.5,217,Final/OT,,26,36,30,26,5.0,27,26,25,40,11.0,NBA
+401071174,2018,"December 23, 2018",Oklahoma City Thunder,Minnesota Timberwolves,"21-11, 12-4 Home","15-18, 3-13 Away",112,114,OKC -6.5,222,Final,,25,38,17,32,,35,18,33,28,,NBA
+401071198,2018,"December 28, 2018",Minnesota Timberwolves,Atlanta Hawks,"16-19, 12-6 Home","10-24, 5-14 Away",120,123,MIN -9.5,230,Final/OT,,27,32,30,23,8.0,42,29,18,23,11.0,NBA
+401071222,2018,"December 31, 2018",New Orleans Pelicans,Minnesota Timberwolves,"17-21, 13-6 Home","17-20, 5-14 Away",123,114,NO -1.0,224,Final,,27,36,25,35,,22,29,38,25,,NBA
+401071247,2018,"January 04, 2019",Minnesota Timberwolves,Orlando Magic,"18-21, 13-6 Home","17-21, 7-10 Away",120,103,MIN -4.0,215,Final,,31,33,31,25,,40,28,17,18,,NBA
+401071279,2018,"January 08, 2019",Oklahoma City Thunder,Minnesota Timberwolves,"25-15, 13-6 Home","20-21, 6-15 Away",117,119,OKC -8.0,229,Final,NBATV,23,41,29,24,,29,35,32,23,,NBA
+401071309,2018,"January 12, 2019",Minnesota Timberwolves,New Orleans Pelicans,"21-22, 15-7 Home","20-23, 5-17 Away",110,106,NO -1.5,237,Final,,27,27,33,23,,29,23,37,17,,NBA
+401071350,2018,"January 18, 2019",Minnesota Timberwolves,San Antonio Spurs,"21-24, 15-8 Home","27-20, 9-14 Away",113,116,MIN -1.5,227,Final,ESPN,31,27,32,23,,28,30,30,28,,NBA
+401071378,2018,"January 22, 2019",Phoenix Suns,Minnesota Timberwolves,"11-38, 7-18 Home","23-24, 7-16 Away",91,118,MIN -4.5,232,Final,,27,22,22,20,,32,32,29,25,,NBA
+401071402,2018,"January 25, 2019",Utah Jazz,Minnesota Timberwolves,"28-22, 15-9 Home","24-25, 8-17 Away",106,102,UTAH -10.0,218,Final,,31,21,38,16,,24,21,24,33,,NBA
+401071433,2018,"January 30, 2019",Minnesota Timberwolves,Memphis Grizzlies,"25-26, 17-9 Home","20-32, 8-18 Away",99,97,MIN -3.0,207,Final/OT,,24,20,27,22,6.0,16,28,25,24,4.0,NBA
+401071474,2018,"February 05, 2019",Memphis Grizzlies,Minnesota Timberwolves,"22-33, 13-14 Home","25-28, 8-18 Away",108,106,MIN -4.0,207,Final,,32,34,19,23,,19,35,29,23,,NBA
+401071496,2018,"February 08, 2019",New Orleans Pelicans,Minnesota Timberwolves,"25-31, 16-10 Home","25-30, 8-20 Away",122,117,NO -6.0,231,Final,ESPN,22,40,28,32,,35,27,26,29,,NBA
+401071534,2018,"February 13, 2019",Minnesota Timberwolves,Houston Rockets,"27-30, 19-10 Home","33-24, 13-15 Away",121,111,HOU -4.0,232,Final,ESPN,28,24,35,34,,29,29,26,27,,NBA
+401071564,2018,"February 23, 2019",Milwaukee Bucks,Minnesota Timberwolves,"45-14, 25-5 Home","28-31, 9-21 Away",140,128,MIL -13.0,231,Final,,35,34,38,33,,32,38,39,19,,NBA
+401071585,2018,"February 27, 2019",Atlanta Hawks,Minnesota Timberwolves,"21-41, 11-18 Home","29-32, 9-22 Away",131,123,MIN -5.0,235,Final/OT,,33,27,26,32,13.0,40,28,27,23,5.0,NBA
+401071623,2018,"March 03, 2019",Washington Wizards,Minnesota Timberwolves,"26-37, 18-12 Home","29-34, 9-24 Away",135,121,EVEN,240,Final,,40,22,35,38,,36,28,23,34,,NBA
+401071639,2018,"March 06, 2019",Detroit Pistons,Minnesota Timberwolves,"32-31, 20-13 Home","30-35, 9-25 Away",131,114,DET -4.5,224,Final,,22,38,30,41,,35,29,24,26,,NBA
+401071671,2018,"March 10, 2019",Minnesota Timberwolves,New York Knicks,"32-35, 23-10 Home","13-54, 7-28 Away",103,92,MIN -6.5,224,Final,,23,32,25,23,,22,23,20,27,,NBA
+401071697,2018,"March 14, 2019",Utah Jazz,Minnesota Timberwolves,"39-29, 22-12 Home","32-37, 9-27 Away",120,100,UTAH -9.0,220,Final,,34,30,27,29,,25,30,26,19,,NBA
+401071735,2018,"March 19, 2019",Minnesota Timberwolves,Golden State Warriors,"32-39, 23-11 Home","48-22, 24-12 Away",107,117,GS -6.5,230,Final,,27,20,28,32,,30,29,32,26,,NBA
+401071764,2018,"March 23, 2019",Memphis Grizzlies,Minnesota Timberwolves,"29-44, 19-18 Home","33-40, 10-29 Away",99,112,MEM -1.0,218,Final,,25,25,18,31,,25,24,35,28,,NBA
+401071805,2018,"March 29, 2019",Minnesota Timberwolves,Golden State Warriors,"34-41, 24-12 Home","51-24, 25-13 Away",131,130,GS -10.0,230,Final/OT,,27,27,32,29,16.0,32,36,18,29,15.0,NBA
+401071830,2018,"April 01, 2019",Minnesota Timberwolves,Portland Trail Blazers,"34-43, 24-14 Home","49-28, 20-19 Away",122,132,POR -3.0,225,Final,,23,41,36,22,,38,37,22,35,,NBA
+401071858,2018,"April 05, 2019",Minnesota Timberwolves,Miami Heat,"36-43, 25-14 Home","38-41, 20-19 Away",111,109,MIA -4.5,218,Final,,36,25,29,21,,35,34,22,18,,NBA
+401071887,2018,"April 09, 2019",Minnesota Timberwolves,Toronto Raptors,"36-45, 25-16 Home","58-24, 26-15 Away",100,120,TOR -7.5,228,Final,,28,19,31,22,,26,43,29,22,,NBA
+401071901,2018,"April 10, 2019",Denver Nuggets,Minnesota Timberwolves,"54-28, 34-7 Home","36-46, 11-30 Away",99,95,DEN -13.0,219,Final,,22,29,22,26,,21,29,29,16,,NBA

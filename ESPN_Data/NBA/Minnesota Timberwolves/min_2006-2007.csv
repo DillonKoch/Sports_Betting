@@ -1,83 +1,83 @@
-,Unnamed: 0,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-0,0,261103007,2006,"Fri, Nov 3",Denver Nuggets,Minnesota Timberwolves,"0-2, 0-1 Home","2-0, 1-0 Away",109,112,,,Final,,27,30,34,18,,26,27,31,28,,NBA
-1,1,261106023,2006,"Mon, Nov 6",Sacramento Kings,Minnesota Timberwolves,"2-2, 1-0 Home","2-2, 1-2 Away",93,81,,,Final,,26,20,30,17,,21,21,21,18,,NBA
-2,2,261111016,2006,"Sat, Nov 11",Minnesota Timberwolves,Orlando Magic,"2-4, 1-1 Home","4-3, 1-2 Away",98,109,,,Final,,20,21,26,31,,29,30,21,29,,NBA
-3,3,261117005,2006,"Fri, Nov 17",Cleveland Cavaliers,Minnesota Timberwolves,"7-2, 5-1 Home","3-5, 1-4 Away",92,76,,,Final,,22,20,24,26,,22,23,17,14,,NBA
-4,4,261122016,2006,"Wed, Nov 22",Minnesota Timberwolves,New York Knicks,"4-6, 3-2 Home","4-9, 3-4 Away",107,89,,,Final,,30,26,27,24,,13,23,29,24,,NBA
-5,5,261125016,2006,"Sat, Nov 25",Minnesota Timberwolves,LA Clippers,"6-6, 4-2 Home","6-5, 0-4 Away",104,96,,,Final,,17,30,22,35,,26,31,24,15,,NBA
-6,6,261128010,2006,"Tue, Nov 28",Houston Rockets,Minnesota Timberwolves,"10-4, 6-1 Home","6-8, 2-6 Away",82,75,,,Final,,21,15,18,28,,17,14,16,28,,NBA
-7,7,261203020,2006,"Sun, Dec 3",Philadelphia 76ers,Minnesota Timberwolves,"5-11, 3-3 Home","7-9, 3-6 Away",84,95,,,Final,CSN,20,24,21,19,,21,26,21,27,,NBA
-8,8,261208016,2006,"Fri, Dec 8",Minnesota Timberwolves,Utah Jazz,"9-9, 6-3 Home","15-5, 5-4 Away",110,103,,,Final,,22,21,34,33,,21,25,24,33,,NBA
-9,9,261213024,2006,"Wed, Dec 13",San Antonio Spurs,Minnesota Timberwolves,"17-6, 8-3 Home","10-10, 4-7 Away",95,82,,,Final,,26,22,25,22,,28,28,15,11,,NBA
-10,10,261220016,2006,"Wed, Dec 20",Minnesota Timberwolves,Los Angeles Lakers,"10-12, 6-4 Home","17-9, 4-5 Away",94,111,,,Final,,29,28,30,7,,26,33,18,34,,NBA
-11,11,261223011,2006,"Sat, Dec 23",Indiana Pacers,Minnesota Timberwolves,"15-14, 8-4 Home","11-13, 5-8 Away",71,78,,,Final,,32,18,8,13,,20,20,17,21,,NBA
-12,12,261227028,2006,"Wed, Dec 27",Toronto Raptors,Minnesota Timberwolves,"13-16, 8-3 Home","12-14, 5-9 Away",100,97,,,Final,,22,24,25,29,,24,26,26,21,,NBA
-13,13,261230017,2006,"Sat, Dec 30",New Jersey Nets,Minnesota Timberwolves,"13-18, 9-10 Home","13-15, 5-10 Away",100,92,,,Final,,21,31,20,28,,16,30,20,26,,NBA
-14,14,270103016,2006,"Wed, Jan 3",Minnesota Timberwolves,San Antonio Spurs,"15-15, 9-5 Home","23-10, 11-5 Away",103,101,,,Final/OT,,31,24,26,12,10.0,20,22,29,22,8.0,NBA
-15,15,270107016,2006,"Sun, Jan 7",Minnesota Timberwolves,Houston Rockets,"17-15, 11-5 Home","21-13, 9-10 Away",103,99,,,Final/OT,,24,20,27,17,15.0,21,19,22,26,11.0,NBA
-16,16,270112029,2006,"Fri, Jan 12",Memphis Grizzlies,Minnesota Timberwolves,"9-28, 7-12 Home","18-16, 7-10 Away",110,116,,,Final,,19,30,30,31,,36,28,27,25,,NBA
-17,17,270115008,2006,"Mon, Jan 15",Detroit Pistons,Minnesota Timberwolves,"21-15, 10-7 Home","20-16, 8-10 Away",90,94,,,Final/OT,,22,21,20,16,11.0,27,15,20,17,15.0,NBA
-18,18,270119016,2006,"Fri, Jan 19",Minnesota Timberwolves,Detroit Pistons,"20-18, 12-8 Home","22-16, 12-8 Away",98,104,,,Final/2OT,ESPN,21,18,19,21,19.0,20,19,14,26,25.0,NBA
-19,19,270122026,2006,"Mon, Jan 22",Utah Jazz,Minnesota Timberwolves,"28-14, 15-4 Home","20-20, 8-12 Away",106,91,,,Final,,20,29,34,23,,23,13,30,25,,NBA
-20,20,270126025,2006,"Fri, Jan 26",Seattle SuperSonics,Minnesota Timberwolves,"17-26, 13-10 Home","20-22, 8-14 Away",102,100,,,Final,,25,27,26,24,,21,28,25,26,,NBA
-21,21,270129016,2006,"Mon, Jan 29",Minnesota Timberwolves,Phoenix Suns,"22-22, 13-8 Home","36-9, 17-6 Away",121,112,,,Final,,29,31,34,27,,31,37,27,17,,NBA
-22,22,270202003,2006,"Fri, Feb 2",NO/Oklahoma City Hornets,Minnesota Timberwolves,"20-26, 14-11 Home","22-24, 9-15 Away",90,83,,,Final,,29,19,18,24,,22,23,16,22,,NBA
-23,23,270205010,2006,"Mon, Feb 5",Houston Rockets,Minnesota Timberwolves,"30-17, 17-6 Home","22-26, 9-17 Away",105,77,,,Final,,21,29,32,23,,15,15,22,25,,NBA
-24,24,270209029,2006,"Fri, Feb 9",Memphis Grizzlies,Minnesota Timberwolves,"13-38, 10-17 Home","23-27, 9-18 Away",105,97,,,Final/OT,,24,22,21,25,13.0,23,20,29,20,5.0,NBA
-25,25,270214016,2006,"Wed, Feb 14",Minnesota Timberwolves,Denver Nuggets,"25-27, 16-9 Home","26-25, 12-11 Away",99,94,,,Final,,23,28,22,26,,28,22,26,18,,NBA
-26,26,270221016,2006,"Wed, Feb 21",Minnesota Timberwolves,Charlotte Bobcats,"25-29, 16-10 Home","21-33, 9-18 Away",95,100,,,Final,,24,34,23,14,,24,21,29,26,,NBA
-27,27,270225016,2006,"Sun, Feb 25",Minnesota Timberwolves,Washington Wizards,"26-30, 17-11 Home","31-23, 10-16 Away",98,94,,,Final,,23,28,26,21,,23,21,22,28,,NBA
-28,28,270302016,2006,"Fri, Mar 2",Minnesota Timberwolves,Utah Jazz,"26-32, 17-13 Home","39-19, 17-12 Away",83,109,,,Final,,19,20,23,21,,22,35,23,29,,NBA
-29,29,270306016,2006,"Tue, Mar 6",Minnesota Timberwolves,Los Angeles Lakers,"27-33, 18-13 Home","33-28, 13-18 Away",117,107,,,Final/2OT,,23,27,21,27,19.0,28,25,25,20,9.0,NBA
-30,30,270310001,2006,"Sat, Mar 10",Atlanta Hawks,Minnesota Timberwolves,"25-39, 13-18 Home","27-35, 9-22 Away",99,93,,,Final,,22,22,28,27,,21,29,24,19,,NBA
-31,31,270316009,2006,"Fri, Mar 16",Golden State Warriors,Minnesota Timberwolves,"31-36, 24-10 Home","28-36, 9-23 Away",106,86,,,Final,TBS,25,31,29,21,,21,22,24,19,,NBA
-32,32,270320021,2006,"Tue, Mar 20",Phoenix Suns,Minnesota Timberwolves,"51-16, 27-7 Home","28-38, 9-25 Away",108,90,,,Final,,25,26,33,24,,22,25,20,23,,NBA
-33,33,270323025,2006,"Fri, Mar 23",Seattle SuperSonics,Minnesota Timberwolves,"27-41, 19-16 Home","29-39, 10-26 Away",85,82,,,Final,,12,20,22,31,,19,20,22,21,,NBA
-34,34,270327016,2006,"Tue, Mar 27",Minnesota Timberwolves,Seattle SuperSonics,"30-40, 20-14 Home","28-42, 9-25 Away",106,114,,,Final,,36,35,23,12,,27,25,27,35,,NBA
-35,35,270330016,2006,"Fri, Mar 30",Minnesota Timberwolves,Miami Heat,"30-42, 20-15 Home","39-33, 15-21 Away",77,92,,,Final,,14,21,22,20,,25,22,17,28,,NBA
-36,36,270403016,2006,"Tue, Apr 3",Minnesota Timberwolves,Cleveland Cavaliers,"31-43, 20-16 Home","45-30, 18-20 Away",88,101,,,Final,,21,26,13,28,,33,22,25,21,,NBA
-37,37,270407016,2006,"Sat, Apr 7",Minnesota Timberwolves,NO/Oklahoma City Hornets,"32-44, 20-17 Home","36-41, 13-25 Away",94,96,,,Final,NBATV,21,36,18,19,,19,32,29,16,,NBA
-38,38,270411016,2006,"Wed, Apr 11",Minnesota Timberwolves,Dallas Mavericks,"32-46, 20-19 Home","65-13, 30-9 Away",88,105,,,Final,,23,28,15,22,,23,25,38,19,,NBA
-39,39,270415009,2006,"Sun, Apr 15",Golden State Warriors,Minnesota Timberwolves,"40-40, 29-11 Home","32-48, 12-28 Away",121,108,,,Final,,38,30,38,15,,22,28,16,42,,NBA
-40,40,261101016,2006,"Wed, Nov 1",Minnesota Timberwolves,Sacramento Kings,"1-0, 1-0 Home","0-1, 0-1 Away",92,83,,,Final,,23,20,21,28,,16,25,25,17,,NBA
-41,41,261104022,2006,"Sat, Nov 4",Portland Trail Blazers,Minnesota Timberwolves,"2-1, 1-0 Home","2-1, 1-1 Away",88,86,,,Final,,14,27,28,19,,30,22,22,12,,NBA
-42,42,261107013,2006,"Tue, Nov 7",Los Angeles Lakers,Minnesota Timberwolves,"4-1, 3-0 Home","2-3, 1-3 Away",95,88,,,Final,,24,27,25,19,,19,26,18,25,,NBA
-43,43,261114016,2006,"Tue, Nov 14",Minnesota Timberwolves,Portland Trail Blazers,"3-4, 2-1 Home","4-4, 1-3 Away",101,89,,,Final,,30,22,26,23,,11,23,26,29,,NBA
-44,44,261118016,2006,"Sat, Nov 18",Minnesota Timberwolves,NO/Oklahoma City Hornets,"3-6, 2-2 Home","7-3, 4-3 Away",96,99,,,Final,,28,25,21,22,,32,16,19,32,,NBA
-45,45,261124003,2006,"Fri, Nov 24",NO/Oklahoma City Hornets,Minnesota Timberwolves,"8-5, 4-1 Home","5-6, 2-4 Away",79,86,,,Final,,26,17,17,19,,23,21,22,20,,NBA
-46,46,261127006,2006,"Mon, Nov 27",Dallas Mavericks,Minnesota Timberwolves,"10-4, 5-2 Home","6-7, 2-5 Away",93,87,,,Final,NBATV,33,18,25,17,,23,17,21,26,,NBA
-47,47,261201016,2006,"Fri, Dec 1",Minnesota Timberwolves,Denver Nuggets,"6-9, 4-3 Home","9-5, 5-2 Away",92,106,,,Final,,25,20,22,25,,28,28,33,17,,NBA
-48,48,261206016,2006,"Wed, Dec 6",Minnesota Timberwolves,Houston Rockets,"8-9, 5-3 Home","12-6, 4-5 Away",90,84,,,Final,,20,23,26,21,,25,15,25,19,,NBA
-49,49,261209004,2006,"Sat, Dec 9",Chicago Bulls,Minnesota Timberwolves,"10-10, 7-2 Home","10-9, 4-6 Away",81,91,,,Final,,17,23,22,19,,24,29,19,19,,NBA
-50,50,261216015,2006,"Sat, Dec 16",Milwaukee Bucks,Minnesota Timberwolves,"10-14, 6-4 Home","10-11, 4-8 Away",108,104,,,Final,,21,24,31,32,,28,23,23,30,,NBA
-51,51,261222016,2006,"Fri, Dec 22",Minnesota Timberwolves,Milwaukee Bucks,"10-13, 6-5 Home","12-14, 5-10 Away",107,113,,,Final,,31,21,27,28,,29,30,24,30,,NBA
-52,52,261226016,2006,"Tue, Dec 26",Minnesota Timberwolves,Chicago Bulls,"12-13, 7-5 Home","16-12, 4-10 Away",100,98,,,Final,,29,26,27,18,,17,23,27,31,,NBA
-53,53,261229016,2006,"Fri, Dec 29",Minnesota Timberwolves,Seattle SuperSonics,"13-14, 8-5 Home","12-19, 4-12 Away",101,82,,,Final,,28,28,21,24,,20,19,14,29,,NBA
-54,54,270101030,2006,"Mon, Jan 1",Charlotte Bobcats,Minnesota Timberwolves,"9-22, 6-11 Home","14-15, 6-10 Away",96,102,,,Final,,29,26,23,18,,20,27,21,34,,NBA
-55,55,270105016,2006,"Fri, Jan 5",Minnesota Timberwolves,Philadelphia 76ers,"16-15, 10-5 Home","9-24, 5-17 Away",104,102,,,Final/OT,CSN,24,24,26,22,8.0,26,26,22,22,6.0,NBA
-56,56,270110016,2006,"Wed, Jan 10",Minnesota Timberwolves,LA Clippers,"17-16, 11-6 Home","17-19, 5-13 Away",91,92,,,Final,,18,28,24,21,,24,23,25,20,,NBA
-57,57,270113016,2006,"Sat, Jan 13",Minnesota Timberwolves,New Jersey Nets,"19-16, 12-6 Home","16-20, 5-10 Away",109,98,,,Final,NBATV,19,27,26,37,,24,24,29,21,,NBA
-58,58,270117016,2006,"Wed, Jan 17",Minnesota Timberwolves,Atlanta Hawks,"20-17, 12-7 Home","13-23, 6-13 Away",88,105,,,Final,,22,23,20,23,,26,30,27,22,,NBA
-59,59,270121021,2006,"Sun, Jan 21",Phoenix Suns,Minnesota Timberwolves,"32-8, 19-3 Home","20-19, 8-11 Away",131,102,,,Final,,35,23,46,27,,28,23,20,31,,NBA
-60,60,270124022,2006,"Wed, Jan 24",Portland Trail Blazers,Minnesota Timberwolves,"18-25, 11-12 Home","20-21, 8-13 Away",101,98,,,Final/OT,,23,23,20,21,14.0,22,24,22,19,11.0,NBA
-61,61,270127012,2006,"Sat, Jan 27",LA Clippers,Minnesota Timberwolves,"21-22, 16-8 Home","21-22, 9-14 Away",87,101,,,Final,,16,22,31,18,,25,21,26,29,,NBA
-62,62,270131016,2006,"Wed, Jan 31",Minnesota Timberwolves,Sacramento Kings,"22-23, 13-9 Home","18-26, 6-15 Away",98,100,,,Final,,22,19,29,28,,26,28,26,20,,NBA
-63,63,270203006,2006,"Sat, Feb 3",Dallas Mavericks,Minnesota Timberwolves,"39-9, 22-3 Home","22-25, 9-16 Away",94,93,,,Final,NBATV,27,29,22,16,,26,21,22,24,,NBA
-64,64,270207016,2006,"Wed, Feb 7",Minnesota Timberwolves,Golden State Warriors,"23-26, 14-9 Home","23-27, 6-19 Away",121,93,,,Final,,32,31,26,32,,27,18,27,21,,NBA
-65,65,270211016,2006,"Sun, Feb 11",Minnesota Timberwolves,Boston Celtics,"24-27, 15-9 Home","12-38, 8-17 Away",109,107,,,Final,,24,27,36,22,,31,25,29,22,,NBA
-66,66,270220027,2006,"Tue, Feb 20",Washington Wizards,Minnesota Timberwolves,"30-21, 20-7 Home","25-28, 9-19 Away",112,100,,,Final,,31,26,26,29,,19,25,30,26,,NBA
-67,67,270223016,2006,"Fri, Feb 23",Minnesota Timberwolves,Phoenix Suns,"25-30, 16-11 Home","42-13, 21-7 Away",104,116,,,Final,,30,22,31,21,,25,39,31,21,,NBA
-68,68,270227016,2006,"Tue, Feb 27",Minnesota Timberwolves,Dallas Mavericks,"26-31, 17-12 Home","48-9, 21-6 Away",65,91,,,Final,,19,8,26,12,,26,16,26,23,,NBA
-69,69,270304002,2006,"Sun, Mar 4",Boston Celtics,Minnesota Timberwolves,"17-42, 7-21 Home","26-33, 9-20 Away",124,117,,,Final/2OT,,20,22,26,25,31.0,20,23,31,19,24.0,NBA
-70,70,270309014,2006,"Fri, Mar 9",Miami Heat,Minnesota Timberwolves,"32-29, 20-10 Home","27-34, 9-21 Away",105,91,,,Final,,29,21,31,24,,25,19,25,22,,NBA
-71,71,270313016,2006,"Tue, Mar 13",Minnesota Timberwolves,Indiana Pacers,"28-35, 19-13 Home","29-34, 11-21 Away",86,81,,,Final,,19,16,23,28,,20,22,25,14,,NBA
-72,72,270318013,2006,"Sun, Mar 18",Los Angeles Lakers,Minnesota Timberwolves,"35-32, 22-11 Home","28-37, 9-24 Away",109,102,,,Final,ESPN,29,23,35,22,,22,21,25,34,,NBA
-73,73,270321023,2006,"Wed, Mar 21",Sacramento Kings,Minnesota Timberwolves,"29-39, 18-15 Home","29-38, 10-25 Away",89,95,,,Final,,28,20,22,19,,22,21,20,32,,NBA
-74,74,270325016,2006,"Sun, Mar 25",Minnesota Timberwolves,Portland Trail Blazers,"30-39, 20-13 Home","29-41, 13-22 Away",94,93,,,Final,,22,22,24,26,,22,25,21,25,,NBA
-75,75,270328026,2006,"Wed, Mar 28",Utah Jazz,Minnesota Timberwolves,"47-24, 29-7 Home","30-41, 10-27 Away",108,102,,,Final,,27,23,24,34,,20,34,18,30,,NBA
-76,76,270401019,2006,"Sun, Apr 1",Orlando Magic,Minnesota Timberwolves,"34-40, 22-15 Home","31-42, 11-27 Away",104,105,,,Final/OT,NBATV,23,30,21,24,6.0,31,23,25,19,7.0,NBA
-77,77,270406018,2006,"Fri, Apr 6",New York Knicks,Minnesota Timberwolves,"31-44, 19-20 Home","32-43, 12-27 Away",94,99,,,Final,,17,24,29,24,,28,31,15,25,,NBA
-78,78,270409016,2006,"Mon, Apr 9",Minnesota Timberwolves,Toronto Raptors,"32-45, 20-18 Home","45-33, 17-23 Away",100,111,,,Final,,27,25,27,21,,25,23,25,38,,NBA
-79,79,270413016,2006,"Fri, Apr 13",Minnesota Timberwolves,San Antonio Spurs,"32-47, 20-20 Home","58-21, 27-12 Away",91,110,,,Final,,21,18,21,31,,30,25,30,25,,NBA
-80,80,270416007,2006,"Mon, Apr 16",Denver Nuggets,Minnesota Timberwolves,"44-37, 23-18 Home","32-49, 12-29 Away",122,107,,,Final,NBATV,26,34,32,30,,30,29,18,30,,NBA
-81,81,270418016,2006,"Wed, Apr 18",Minnesota Timberwolves,Memphis Grizzlies,"32-50, 20-21 Home","22-60, 8-33 Away",94,116,,,Final,,27,24,22,21,,27,27,34,28,,NBA
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+261103007,2006,"November 03, 2006",Denver Nuggets,Minnesota Timberwolves,"0-2, 0-1 Home","2-0, 1-0 Away",109,112,,,Final,,27,30,34,18,,26,27,31,28,,NBA
+261106023,2006,"November 06, 2006",Sacramento Kings,Minnesota Timberwolves,"2-2, 1-0 Home","2-2, 1-2 Away",93,81,,,Final,,26,20,30,17,,21,21,21,18,,NBA
+261111016,2006,"November 11, 2006",Minnesota Timberwolves,Orlando Magic,"2-4, 1-1 Home","4-3, 1-2 Away",98,109,,,Final,,20,21,26,31,,29,30,21,29,,NBA
+261117005,2006,"November 17, 2006",Cleveland Cavaliers,Minnesota Timberwolves,"7-2, 5-1 Home","3-5, 1-4 Away",92,76,,,Final,,22,20,24,26,,22,23,17,14,,NBA
+261122016,2006,"November 22, 2006",Minnesota Timberwolves,New York Knicks,"4-6, 3-2 Home","4-9, 3-4 Away",107,89,,,Final,,30,26,27,24,,13,23,29,24,,NBA
+261125016,2006,"November 25, 2006",Minnesota Timberwolves,LA Clippers,"6-6, 4-2 Home","6-5, 0-4 Away",104,96,,,Final,,17,30,22,35,,26,31,24,15,,NBA
+261128010,2006,"November 28, 2006",Houston Rockets,Minnesota Timberwolves,"10-4, 6-1 Home","6-8, 2-6 Away",82,75,,,Final,,21,15,18,28,,17,14,16,28,,NBA
+261203020,2006,"December 03, 2006",Philadelphia 76ers,Minnesota Timberwolves,"5-11, 3-3 Home","7-9, 3-6 Away",84,95,,,Final,CSN,20,24,21,19,,21,26,21,27,,NBA
+261208016,2006,"December 08, 2006",Minnesota Timberwolves,Utah Jazz,"9-9, 6-3 Home","15-5, 5-4 Away",110,103,,,Final,,22,21,34,33,,21,25,24,33,,NBA
+261213024,2006,"December 13, 2006",San Antonio Spurs,Minnesota Timberwolves,"17-6, 8-3 Home","10-10, 4-7 Away",95,82,,,Final,,26,22,25,22,,28,28,15,11,,NBA
+261220016,2006,"December 20, 2006",Minnesota Timberwolves,Los Angeles Lakers,"10-12, 6-4 Home","17-9, 4-5 Away",94,111,,,Final,,29,28,30,7,,26,33,18,34,,NBA
+261223011,2006,"December 23, 2006",Indiana Pacers,Minnesota Timberwolves,"15-14, 8-4 Home","11-13, 5-8 Away",71,78,,,Final,,32,18,8,13,,20,20,17,21,,NBA
+261227028,2006,"December 27, 2006",Toronto Raptors,Minnesota Timberwolves,"13-16, 8-3 Home","12-14, 5-9 Away",100,97,,,Final,,22,24,25,29,,24,26,26,21,,NBA
+261230017,2006,"December 30, 2006",New Jersey Nets,Minnesota Timberwolves,"13-18, 9-10 Home","13-15, 5-10 Away",100,92,,,Final,,21,31,20,28,,16,30,20,26,,NBA
+270103016,2006,"January 03, 2007",Minnesota Timberwolves,San Antonio Spurs,"15-15, 9-5 Home","23-10, 11-5 Away",103,101,,,Final/OT,,31,24,26,12,10.0,20,22,29,22,8.0,NBA
+270107016,2006,"January 07, 2007",Minnesota Timberwolves,Houston Rockets,"17-15, 11-5 Home","21-13, 9-10 Away",103,99,,,Final/OT,,24,20,27,17,15.0,21,19,22,26,11.0,NBA
+270112029,2006,"January 12, 2007",Memphis Grizzlies,Minnesota Timberwolves,"9-28, 7-12 Home","18-16, 7-10 Away",110,116,,,Final,,19,30,30,31,,36,28,27,25,,NBA
+270115008,2006,"January 15, 2007",Detroit Pistons,Minnesota Timberwolves,"21-15, 10-7 Home","20-16, 8-10 Away",90,94,,,Final/OT,,22,21,20,16,11.0,27,15,20,17,15.0,NBA
+270119016,2006,"January 19, 2007",Minnesota Timberwolves,Detroit Pistons,"20-18, 12-8 Home","22-16, 12-8 Away",98,104,,,Final/2OT,ESPN,21,18,19,21,19.0,20,19,14,26,25.0,NBA
+270122026,2006,"January 22, 2007",Utah Jazz,Minnesota Timberwolves,"28-14, 15-4 Home","20-20, 8-12 Away",106,91,,,Final,,20,29,34,23,,23,13,30,25,,NBA
+270126025,2006,"January 26, 2007",Seattle SuperSonics,Minnesota Timberwolves,"17-26, 13-10 Home","20-22, 8-14 Away",102,100,,,Final,,25,27,26,24,,21,28,25,26,,NBA
+270129016,2006,"January 29, 2007",Minnesota Timberwolves,Phoenix Suns,"22-22, 13-8 Home","36-9, 17-6 Away",121,112,,,Final,,29,31,34,27,,31,37,27,17,,NBA
+270202003,2006,"February 02, 2007",NO/Oklahoma City Hornets,Minnesota Timberwolves,"20-26, 14-11 Home","22-24, 9-15 Away",90,83,,,Final,,29,19,18,24,,22,23,16,22,,NBA
+270205010,2006,"February 05, 2007",Houston Rockets,Minnesota Timberwolves,"30-17, 17-6 Home","22-26, 9-17 Away",105,77,,,Final,,21,29,32,23,,15,15,22,25,,NBA
+270209029,2006,"February 09, 2007",Memphis Grizzlies,Minnesota Timberwolves,"13-38, 10-17 Home","23-27, 9-18 Away",105,97,,,Final/OT,,24,22,21,25,13.0,23,20,29,20,5.0,NBA
+270214016,2006,"February 14, 2007",Minnesota Timberwolves,Denver Nuggets,"25-27, 16-9 Home","26-25, 12-11 Away",99,94,,,Final,,23,28,22,26,,28,22,26,18,,NBA
+270221016,2006,"February 21, 2007",Minnesota Timberwolves,Charlotte Bobcats,"25-29, 16-10 Home","21-33, 9-18 Away",95,100,,,Final,,24,34,23,14,,24,21,29,26,,NBA
+270225016,2006,"February 25, 2007",Minnesota Timberwolves,Washington Wizards,"26-30, 17-11 Home","31-23, 10-16 Away",98,94,,,Final,,23,28,26,21,,23,21,22,28,,NBA
+270302016,2006,"March 02, 2007",Minnesota Timberwolves,Utah Jazz,"26-32, 17-13 Home","39-19, 17-12 Away",83,109,,,Final,,19,20,23,21,,22,35,23,29,,NBA
+270306016,2006,"March 06, 2007",Minnesota Timberwolves,Los Angeles Lakers,"27-33, 18-13 Home","33-28, 13-18 Away",117,107,,,Final/2OT,,23,27,21,27,19.0,28,25,25,20,9.0,NBA
+270310001,2006,"March 10, 2007",Atlanta Hawks,Minnesota Timberwolves,"25-39, 13-18 Home","27-35, 9-22 Away",99,93,,,Final,,22,22,28,27,,21,29,24,19,,NBA
+270316009,2006,"March 16, 2007",Golden State Warriors,Minnesota Timberwolves,"31-36, 24-10 Home","28-36, 9-23 Away",106,86,,,Final,TBS,25,31,29,21,,21,22,24,19,,NBA
+270320021,2006,"March 20, 2007",Phoenix Suns,Minnesota Timberwolves,"51-16, 27-7 Home","28-38, 9-25 Away",108,90,,,Final,,25,26,33,24,,22,25,20,23,,NBA
+270323025,2006,"March 23, 2007",Seattle SuperSonics,Minnesota Timberwolves,"27-41, 19-16 Home","29-39, 10-26 Away",85,82,,,Final,,12,20,22,31,,19,20,22,21,,NBA
+270327016,2006,"March 27, 2007",Minnesota Timberwolves,Seattle SuperSonics,"30-40, 20-14 Home","28-42, 9-25 Away",106,114,,,Final,,36,35,23,12,,27,25,27,35,,NBA
+270330016,2006,"March 30, 2007",Minnesota Timberwolves,Miami Heat,"30-42, 20-15 Home","39-33, 15-21 Away",77,92,,,Final,,14,21,22,20,,25,22,17,28,,NBA
+270403016,2006,"April 03, 2007",Minnesota Timberwolves,Cleveland Cavaliers,"31-43, 20-16 Home","45-30, 18-20 Away",88,101,,,Final,,21,26,13,28,,33,22,25,21,,NBA
+270407016,2006,"April 07, 2007",Minnesota Timberwolves,NO/Oklahoma City Hornets,"32-44, 20-17 Home","36-41, 13-25 Away",94,96,,,Final,NBATV,21,36,18,19,,19,32,29,16,,NBA
+270411016,2006,"April 11, 2007",Minnesota Timberwolves,Dallas Mavericks,"32-46, 20-19 Home","65-13, 30-9 Away",88,105,,,Final,,23,28,15,22,,23,25,38,19,,NBA
+270415009,2006,"April 15, 2007",Golden State Warriors,Minnesota Timberwolves,"40-40, 29-11 Home","32-48, 12-28 Away",121,108,,,Final,,38,30,38,15,,22,28,16,42,,NBA
+261101016,2006,"November 01, 2006",Minnesota Timberwolves,Sacramento Kings,"1-0, 1-0 Home","0-1, 0-1 Away",92,83,,,Final,,23,20,21,28,,16,25,25,17,,NBA
+261104022,2006,"November 04, 2006",Portland Trail Blazers,Minnesota Timberwolves,"2-1, 1-0 Home","2-1, 1-1 Away",88,86,,,Final,,14,27,28,19,,30,22,22,12,,NBA
+261107013,2006,"November 07, 2006",Los Angeles Lakers,Minnesota Timberwolves,"4-1, 3-0 Home","2-3, 1-3 Away",95,88,,,Final,,24,27,25,19,,19,26,18,25,,NBA
+261114016,2006,"November 14, 2006",Minnesota Timberwolves,Portland Trail Blazers,"3-4, 2-1 Home","4-4, 1-3 Away",101,89,,,Final,,30,22,26,23,,11,23,26,29,,NBA
+261118016,2006,"November 18, 2006",Minnesota Timberwolves,NO/Oklahoma City Hornets,"3-6, 2-2 Home","7-3, 4-3 Away",96,99,,,Final,,28,25,21,22,,32,16,19,32,,NBA
+261124003,2006,"November 24, 2006",NO/Oklahoma City Hornets,Minnesota Timberwolves,"8-5, 4-1 Home","5-6, 2-4 Away",79,86,,,Final,,26,17,17,19,,23,21,22,20,,NBA
+261127006,2006,"November 27, 2006",Dallas Mavericks,Minnesota Timberwolves,"10-4, 5-2 Home","6-7, 2-5 Away",93,87,,,Final,NBATV,33,18,25,17,,23,17,21,26,,NBA
+261201016,2006,"December 01, 2006",Minnesota Timberwolves,Denver Nuggets,"6-9, 4-3 Home","9-5, 5-2 Away",92,106,,,Final,,25,20,22,25,,28,28,33,17,,NBA
+261206016,2006,"December 06, 2006",Minnesota Timberwolves,Houston Rockets,"8-9, 5-3 Home","12-6, 4-5 Away",90,84,,,Final,,20,23,26,21,,25,15,25,19,,NBA
+261209004,2006,"December 09, 2006",Chicago Bulls,Minnesota Timberwolves,"10-10, 7-2 Home","10-9, 4-6 Away",81,91,,,Final,,17,23,22,19,,24,29,19,19,,NBA
+261216015,2006,"December 16, 2006",Milwaukee Bucks,Minnesota Timberwolves,"10-14, 6-4 Home","10-11, 4-8 Away",108,104,,,Final,,21,24,31,32,,28,23,23,30,,NBA
+261222016,2006,"December 22, 2006",Minnesota Timberwolves,Milwaukee Bucks,"10-13, 6-5 Home","12-14, 5-10 Away",107,113,,,Final,,31,21,27,28,,29,30,24,30,,NBA
+261226016,2006,"December 26, 2006",Minnesota Timberwolves,Chicago Bulls,"12-13, 7-5 Home","16-12, 4-10 Away",100,98,,,Final,,29,26,27,18,,17,23,27,31,,NBA
+261229016,2006,"December 29, 2006",Minnesota Timberwolves,Seattle SuperSonics,"13-14, 8-5 Home","12-19, 4-12 Away",101,82,,,Final,,28,28,21,24,,20,19,14,29,,NBA
+270101030,2006,"January 01, 2007",Charlotte Bobcats,Minnesota Timberwolves,"9-22, 6-11 Home","14-15, 6-10 Away",96,102,,,Final,,29,26,23,18,,20,27,21,34,,NBA
+270105016,2006,"January 05, 2007",Minnesota Timberwolves,Philadelphia 76ers,"16-15, 10-5 Home","9-24, 5-17 Away",104,102,,,Final/OT,CSN,24,24,26,22,8.0,26,26,22,22,6.0,NBA
+270110016,2006,"January 10, 2007",Minnesota Timberwolves,LA Clippers,"17-16, 11-6 Home","17-19, 5-13 Away",91,92,,,Final,,18,28,24,21,,24,23,25,20,,NBA
+270113016,2006,"January 13, 2007",Minnesota Timberwolves,New Jersey Nets,"19-16, 12-6 Home","16-20, 5-10 Away",109,98,,,Final,NBATV,19,27,26,37,,24,24,29,21,,NBA
+270117016,2006,"January 17, 2007",Minnesota Timberwolves,Atlanta Hawks,"20-17, 12-7 Home","13-23, 6-13 Away",88,105,,,Final,,22,23,20,23,,26,30,27,22,,NBA
+270121021,2006,"January 21, 2007",Phoenix Suns,Minnesota Timberwolves,"32-8, 19-3 Home","20-19, 8-11 Away",131,102,,,Final,,35,23,46,27,,28,23,20,31,,NBA
+270124022,2006,"January 24, 2007",Portland Trail Blazers,Minnesota Timberwolves,"18-25, 11-12 Home","20-21, 8-13 Away",101,98,,,Final/OT,,23,23,20,21,14.0,22,24,22,19,11.0,NBA
+270127012,2006,"January 27, 2007",LA Clippers,Minnesota Timberwolves,"21-22, 16-8 Home","21-22, 9-14 Away",87,101,,,Final,,16,22,31,18,,25,21,26,29,,NBA
+270131016,2006,"January 31, 2007",Minnesota Timberwolves,Sacramento Kings,"22-23, 13-9 Home","18-26, 6-15 Away",98,100,,,Final,,22,19,29,28,,26,28,26,20,,NBA
+270203006,2006,"February 03, 2007",Dallas Mavericks,Minnesota Timberwolves,"39-9, 22-3 Home","22-25, 9-16 Away",94,93,,,Final,NBATV,27,29,22,16,,26,21,22,24,,NBA
+270207016,2006,"February 07, 2007",Minnesota Timberwolves,Golden State Warriors,"23-26, 14-9 Home","23-27, 6-19 Away",121,93,,,Final,,32,31,26,32,,27,18,27,21,,NBA
+270211016,2006,"February 11, 2007",Minnesota Timberwolves,Boston Celtics,"24-27, 15-9 Home","12-38, 8-17 Away",109,107,,,Final,,24,27,36,22,,31,25,29,22,,NBA
+270220027,2006,"February 20, 2007",Washington Wizards,Minnesota Timberwolves,"30-21, 20-7 Home","25-28, 9-19 Away",112,100,,,Final,,31,26,26,29,,19,25,30,26,,NBA
+270223016,2006,"February 23, 2007",Minnesota Timberwolves,Phoenix Suns,"25-30, 16-11 Home","42-13, 21-7 Away",104,116,,,Final,,30,22,31,21,,25,39,31,21,,NBA
+270227016,2006,"February 27, 2007",Minnesota Timberwolves,Dallas Mavericks,"26-31, 17-12 Home","48-9, 21-6 Away",65,91,,,Final,,19,8,26,12,,26,16,26,23,,NBA
+270304002,2006,"March 04, 2007",Boston Celtics,Minnesota Timberwolves,"17-42, 7-21 Home","26-33, 9-20 Away",124,117,,,Final/2OT,,20,22,26,25,31.0,20,23,31,19,24.0,NBA
+270309014,2006,"March 09, 2007",Miami Heat,Minnesota Timberwolves,"32-29, 20-10 Home","27-34, 9-21 Away",105,91,,,Final,,29,21,31,24,,25,19,25,22,,NBA
+270313016,2006,"March 13, 2007",Minnesota Timberwolves,Indiana Pacers,"28-35, 19-13 Home","29-34, 11-21 Away",86,81,,,Final,,19,16,23,28,,20,22,25,14,,NBA
+270318013,2006,"March 18, 2007",Los Angeles Lakers,Minnesota Timberwolves,"35-32, 22-11 Home","28-37, 9-24 Away",109,102,,,Final,ESPN,29,23,35,22,,22,21,25,34,,NBA
+270321023,2006,"March 21, 2007",Sacramento Kings,Minnesota Timberwolves,"29-39, 18-15 Home","29-38, 10-25 Away",89,95,,,Final,,28,20,22,19,,22,21,20,32,,NBA
+270325016,2006,"March 25, 2007",Minnesota Timberwolves,Portland Trail Blazers,"30-39, 20-13 Home","29-41, 13-22 Away",94,93,,,Final,,22,22,24,26,,22,25,21,25,,NBA
+270328026,2006,"March 28, 2007",Utah Jazz,Minnesota Timberwolves,"47-24, 29-7 Home","30-41, 10-27 Away",108,102,,,Final,,27,23,24,34,,20,34,18,30,,NBA
+270401019,2006,"April 01, 2007",Orlando Magic,Minnesota Timberwolves,"34-40, 22-15 Home","31-42, 11-27 Away",104,105,,,Final/OT,NBATV,23,30,21,24,6.0,31,23,25,19,7.0,NBA
+270406018,2006,"April 06, 2007",New York Knicks,Minnesota Timberwolves,"31-44, 19-20 Home","32-43, 12-27 Away",94,99,,,Final,,17,24,29,24,,28,31,15,25,,NBA
+270409016,2006,"April 09, 2007",Minnesota Timberwolves,Toronto Raptors,"32-45, 20-18 Home","45-33, 17-23 Away",100,111,,,Final,,27,25,27,21,,25,23,25,38,,NBA
+270413016,2006,"April 13, 2007",Minnesota Timberwolves,San Antonio Spurs,"32-47, 20-20 Home","58-21, 27-12 Away",91,110,,,Final,,21,18,21,31,,30,25,30,25,,NBA
+270416007,2006,"April 16, 2007",Denver Nuggets,Minnesota Timberwolves,"44-37, 23-18 Home","32-49, 12-29 Away",122,107,,,Final,NBATV,26,34,32,30,,30,29,18,30,,NBA
+270418016,2006,"April 18, 2007",Minnesota Timberwolves,Memphis Grizzlies,"32-50, 20-21 Home","22-60, 8-33 Away",94,116,,,Final,,27,24,22,21,,27,27,34,28,,NBA

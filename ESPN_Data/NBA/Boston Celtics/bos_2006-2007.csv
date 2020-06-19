@@ -1,83 +1,83 @@
-,Unnamed: 0,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-0,0,261103002,2006,"Fri, Nov 3",Boston Celtics,Detroit Pistons,"0-2, 0-2 Home","1-1, 1-0 Away",88,101,,,Final,,25,21,24,18,,24,21,28,28,,NBA
-1,1,261108002,2006,"Wed, Nov 8",Boston Celtics,Charlotte Bobcats,"1-3, 1-2 Home","1-3, 0-2 Away",110,108,,,Final/OT,,17,28,37,18,10.0,24,25,25,26,8.0,NBA
-2,2,261111005,2006,"Sat, Nov 11",Cleveland Cavaliers,Boston Celtics,"4-2, 3-1 Home","1-5, 0-2 Away",94,93,,,Final,,10,24,26,34,,25,23,28,17,,NBA
-3,3,261115002,2006,"Wed, Nov 15",Boston Celtics,Indiana Pacers,"2-6, 2-4 Home","4-4, 2-3 Away",114,88,,,Final,,25,22,33,34,,24,21,21,22,,NBA
-4,4,261118018,2006,"Sat, Nov 18",New York Knicks,Boston Celtics,"4-7, 1-4 Home","4-6, 1-2 Away",118,122,,,Final,,24,32,22,40,,24,29,35,34,,NBA
-5,5,261124002,2006,"Fri, Nov 24",Boston Celtics,New York Knicks,"4-8, 3-5 Home","5-9, 4-4 Away",77,101,,,Final,,25,22,14,16,,23,29,29,20,,NBA
-6,6,261129002,2006,"Wed, Nov 29",Boston Celtics,New Jersey Nets,"5-9, 3-6 Home","6-9, 3-5 Away",103,106,,,Final,,28,27,29,19,,27,25,24,30,,NBA
-7,7,261204004,2006,"Mon, Dec 4",Chicago Bulls,Boston Celtics,"8-9, 5-1 Home","5-11, 2-5 Away",100,82,,,Final,,28,25,25,22,,14,21,18,29,,NBA
-8,8,261208002,2006,"Fri, Dec 8",Boston Celtics,Phoenix Suns,"5-13, 3-8 Home","12-6, 4-4 Away",111,116,,,Final,,33,21,27,30,,35,24,21,36,,NBA
-9,9,261211018,2006,"Mon, Dec 11",New York Knicks,Boston Celtics,"8-15, 3-9 Home","7-13, 4-5 Away",90,97,,,Final,,17,19,31,23,,31,30,21,15,,NBA
-10,10,261215002,2006,"Fri, Dec 15",Boston Celtics,Denver Nuggets,"9-13, 4-8 Home","12-9, 6-5 Away",119,114,,,Final,,31,33,21,34,,17,30,27,40,,NBA
-11,11,261220002,2006,"Wed, Dec 20",Boston Celtics,Golden State Warriors,"10-14, 4-9 Home","13-14, 2-9 Away",95,96,,,Final,,29,19,23,24,,29,29,18,20,,NBA
-12,12,261226007,2006,"Tue, Dec 26",Denver Nuggets,Boston Celtics,"15-10, 8-5 Home","10-16, 6-6 Away",116,105,,,Final,,27,30,31,28,,25,22,31,27,,NBA
-13,13,261229009,2006,"Fri, Dec 29",Golden State Warriors,Boston Celtics,"16-15, 13-5 Home","10-18, 6-8 Away",110,100,,,Final,NBATV,33,20,28,29,,21,27,23,29,,NBA
-14,14,270101022,2006,"Mon, Jan 1",Portland Trail Blazers,Boston Celtics,"13-19, 7-9 Home","11-19, 7-9 Away",81,89,,,Final,NBATV,27,17,23,14,,23,21,26,19,,NBA
-15,15,270105029,2006,"Fri, Jan 5",Memphis Grizzlies,Boston Celtics,"8-26, 6-10 Home","12-20, 8-9 Away",119,128,,,Final,,36,22,32,29,,34,24,39,31,,NBA
-16,16,270110002,2006,"Wed, Jan 10",Boston Celtics,Indiana Pacers,"12-22, 4-12 Home","20-16, 10-11 Away",84,97,,,Final,,27,25,14,18,,22,30,28,17,,NBA
-17,17,270113008,2006,"Sat, Jan 13",Detroit Pistons,Boston Celtics,"21-14, 10-6 Home","12-24, 8-11 Away",81,73,,,Final,,26,23,11,21,,27,16,17,13,,NBA
-18,18,270119002,2006,"Fri, Jan 19",Boston Celtics,Sacramento Kings,"12-26, 4-14 Home","15-22, 5-11 Away",91,96,,,Final,,22,22,23,24,,21,20,21,34,,NBA
-19,19,270122002,2006,"Mon, Jan 22",Boston Celtics,San Antonio Spurs,"12-28, 4-15 Home","30-13, 15-6 Away",89,93,,,Final,,24,14,25,26,,20,30,27,16,,NBA
-20,20,270126028,2006,"Fri, Jan 26",Toronto Raptors,Boston Celtics,"22-22, 14-7 Home","12-30, 8-14 Away",96,90,,,Final,,24,25,20,27,,17,26,28,19,,NBA
-21,21,270130011,2006,"Tue, Jan 30",Indiana Pacers,Boston Celtics,"24-21, 14-7 Home","12-32, 8-15 Away",103,96,,,Final,NBATV,24,28,24,27,,30,13,13,40,,NBA
-22,22,270202002,2006,"Fri, Feb 2",Boston Celtics,LA Clippers,"12-34, 4-19 Home","24-22, 7-14 Away",89,100,,,Final,,21,21,27,20,,25,22,20,33,,NBA
-23,23,270207002,2006,"Wed, Feb 7",Boston Celtics,Miami Heat,"12-36, 4-20 Home","24-25, 11-15 Away",79,91,,,Final,NBATV,27,13,18,21,,17,27,26,21,,NBA
-24,24,270211016,2006,"Sun, Feb 11",Minnesota Timberwolves,Boston Celtics,"24-27, 15-9 Home","12-38, 8-17 Away",109,107,,,Final,,24,27,36,22,,31,25,29,22,,NBA
-25,25,270220023,2006,"Tue, Feb 20",Sacramento Kings,Boston Celtics,"23-29, 16-12 Home","13-39, 8-18 Away",104,101,,,Final,,34,32,25,13,,26,36,19,20,,NBA
-26,26,270223013,2006,"Fri, Feb 23",Los Angeles Lakers,Boston Celtics,"31-25, 20-9 Home","13-41, 8-20 Away",122,96,,,Final,,34,31,33,24,,30,24,20,22,,NBA
-27,27,270226010,2006,"Mon, Feb 26",Houston Rockets,Boston Celtics,"35-21, 20-8 Home","14-42, 9-21 Away",72,77,,,Final,,22,13,18,19,,14,15,15,33,,NBA
-28,28,270303017,2006,"Sat, Mar 3",New Jersey Nets,Boston Celtics,"28-31, 17-15 Home","16-42, 10-21 Away",88,96,,,Final/OT,,20,16,17,30,5.0,15,18,17,33,13.0,NBA
-29,29,270307002,2006,"Wed, Mar 7",Boston Celtics,Houston Rockets,"17-43, 7-22 Home","37-24, 17-14 Away",80,111,,,Final,,22,27,19,12,,30,32,31,18,,NBA
-30,30,270311002,2006,"Sun, Mar 11",Boston Celtics,Chicago Bulls,"18-44, 8-23 Home","37-28, 13-20 Away",78,94,,,Final,,17,24,22,15,,24,24,18,28,,NBA
-31,31,270314002,2006,"Wed, Mar 14",Boston Celtics,Atlanta Hawks,"19-45, 9-23 Home","26-40, 12-22 Away",109,88,,,Final,,26,24,36,23,,25,16,19,28,,NBA
-32,32,270317024,2006,"Sat, Mar 17",San Antonio Spurs,Boston Celtics,"46-20, 22-9 Home","20-46, 11-23 Away",85,91,,,Final,,15,25,22,23,,29,16,30,16,,NBA
-33,33,270321002,2006,"Wed, Mar 21",Boston Celtics,Charlotte Bobcats,"20-48, 9-24 Home","26-43, 10-25 Away",84,92,,,Final,,31,23,17,13,,19,20,23,30,,NBA
-34,34,270326002,2006,"Mon, Mar 26",Boston Celtics,Toronto Raptors,"21-49, 10-25 Home","38-32, 13-22 Away",95,87,,,Final,,22,20,23,30,,19,19,18,31,,NBA
-35,35,270330020,2006,"Fri, Mar 30",Philadelphia 76ers,Boston Celtics,"29-43, 19-17 Home","22-50, 11-25 Away",88,82,,,Final,CSN,25,19,23,21,,20,11,27,24,,NBA
-36,36,270404015,2006,"Wed, Apr 4",Milwaukee Bucks,Boston Celtics,"26-48, 17-19 Home","23-51, 11-26 Away",98,89,,,Final,,25,28,26,19,,21,31,20,17,,NBA
-37,37,270407011,2006,"Sat, Apr 7",Indiana Pacers,Boston Celtics,"34-42, 22-17 Home","23-53, 11-27 Away",105,98,,,Final,,26,25,27,27,,15,28,24,31,,NBA
-38,38,270411002,2006,"Wed, Apr 11",Boston Celtics,Philadelphia 76ers,"23-55, 12-27 Home","33-45, 12-27 Away",94,102,,,Final,CSN,29,29,18,18,,20,27,29,26,,NBA
-39,39,270415019,2006,"Sun, Apr 15",Orlando Magic,Boston Celtics,"38-42, 24-16 Home","23-57, 11-29 Away",88,86,,,Final,,23,25,30,10,,24,16,19,27,,NBA
-40,40,261101002,2006,"Wed, Nov 1",Boston Celtics,NO/Oklahoma City Hornets,"0-1, 0-1 Home","1-0, 1-0 Away",87,91,,,Final,,16,25,24,22,,26,28,21,16,,NBA
-41,41,261104027,2006,"Sat, Nov 4",Washington Wizards,Boston Celtics,"1-1, 1-0 Home","0-3, 0-1 Away",124,117,,,Final,NBATV,35,23,40,26,,28,29,31,29,,NBA
-42,42,261110002,2006,"Fri, Nov 10",Boston Celtics,Utah Jazz,"1-4, 1-3 Home","5-1, 2-1 Away",100,107,,,Final,,31,17,22,30,,27,25,30,25,,NBA
-43,43,261113002,2006,"Mon, Nov 13",Boston Celtics,Orlando Magic,"1-6, 1-4 Home","5-3, 2-2 Away",89,92,,,Final,,22,15,24,28,,24,21,21,26,,NBA
-44,44,261117002,2006,"Fri, Nov 17",Boston Celtics,Portland Trail Blazers,"3-6, 3-4 Home","4-6, 1-5 Away",118,90,,,Final,,20,30,27,41,,20,23,22,25,,NBA
-45,45,261122030,2006,"Wed, Nov 22",Charlotte Bobcats,Boston Celtics,"3-8, 2-4 Home","4-7, 1-3 Away",92,83,,,Final,,29,24,16,23,,17,32,15,19,,NBA
-46,46,261125015,2006,"Sat, Nov 25",Milwaukee Bucks,Boston Celtics,"4-9, 2-4 Home","5-8, 2-3 Away",98,111,,,Final,,27,33,20,18,,25,21,37,28,,NBA
-47,47,261201028,2006,"Fri, Dec 1",Toronto Raptors,Boston Celtics,"6-10, 5-2 Home","5-10, 2-4 Away",106,102,,,Final,,30,28,23,25,,32,19,27,24,,NBA
-48,48,261206002,2006,"Wed, Dec 6",Boston Celtics,Memphis Grizzlies,"5-12, 3-7 Home","5-13, 2-9 Away",96,98,,,Final,,28,16,22,30,,19,27,28,24,,NBA
-49,49,261209017,2006,"Sat, Dec 9",New Jersey Nets,Boston Celtics,"7-12, 4-7 Home","6-13, 3-5 Away",90,92,,,Final,,27,21,25,17,,11,34,23,24,,NBA
-50,50,261213020,2006,"Wed, Dec 13",Philadelphia 76ers,Boston Celtics,"5-16, 3-6 Home","8-13, 5-5 Away",81,101,,,Final,CSN,27,14,19,21,,24,19,29,29,,NBA
-51,51,261216030,2006,"Sat, Dec 16",Charlotte Bobcats,Boston Celtics,"6-17, 4-9 Home","10-13, 6-5 Away",100,106,,,Final,,26,24,31,19,,27,33,18,28,,NBA
-52,52,261222002,2006,"Fri, Dec 22",Boston Celtics,Philadelphia 76ers,"10-15, 4-10 Home","6-19, 3-12 Away",83,98,,,Final,CSN,20,21,22,20,,24,24,25,25,,NBA
-53,53,261227012,2006,"Wed, Dec 27",LA Clippers,Boston Celtics,"12-16, 10-6 Home","10-17, 6-7 Away",100,77,,,Final,,31,24,28,17,,28,15,19,15,,NBA
-54,54,261231025,2006,"Sun, Dec 31",Seattle SuperSonics,Boston Celtics,"13-19, 9-7 Home","10-19, 6-9 Away",101,95,,,Final,,27,21,28,25,,18,21,20,36,,NBA
-55,55,270103002,2006,"Wed, Jan 3",Boston Celtics,Cleveland Cavaliers,"11-20, 4-11 Home","19-12, 5-9 Away",104,107,,,Final,,21,33,22,28,,19,30,33,25,,NBA
-56,56,270107019,2006,"Sun, Jan 7",Orlando Magic,Boston Celtics,"21-14, 14-6 Home","12-21, 8-10 Away",87,79,,,Final,,29,25,12,21,,17,21,18,23,,NBA
-57,57,270112002,2006,"Fri, Jan 12",Boston Celtics,Toronto Raptors,"12-23, 4-13 Home","17-20, 7-15 Away",86,95,,,Final,,15,25,18,28,,21,20,26,28,,NBA
-58,58,270115001,2006,"Mon, Jan 15",Atlanta Hawks,Boston Celtics,"12-23, 7-10 Home","12-25, 8-12 Away",100,96,,,Final,,22,25,29,24,,15,25,26,30,,NBA
-59,59,270120027,2006,"Sat, Jan 20",Washington Wizards,Boston Celtics,"24-16, 17-3 Home","12-27, 8-13 Away",115,110,,,Final/OT,,39,23,23,17,13.0,26,23,35,18,8.0,NBA
-60,60,270124002,2006,"Wed, Jan 24",Boston Celtics,Atlanta Hawks,"12-29, 4-16 Home","14-26, 7-15 Away",76,82,,,Final,,28,16,18,14,,10,19,27,26,,NBA
-61,61,270128002,2006,"Sun, Jan 28",Boston Celtics,Washington Wizards,"12-31, 4-17 Home","26-17, 9-13 Away",91,105,,,Final,,29,21,20,21,,30,18,29,28,,NBA
-62,62,270131002,2006,"Wed, Jan 31",Boston Celtics,Los Angeles Lakers,"12-33, 4-18 Home","28-18, 9-12 Away",98,111,,,Final,,23,26,24,25,,35,22,26,28,,NBA
-63,63,270206008,2006,"Tue, Feb 6",Detroit Pistons,Boston Celtics,"29-18, 14-9 Home","12-35, 8-16 Away",109,102,,,Final,,25,31,33,20,,20,20,27,35,,NBA
-64,64,270209002,2006,"Fri, Feb 9",Boston Celtics,New Jersey Nets,"12-37, 4-21 Home","24-27, 11-15 Away",78,92,,,Final,,16,23,17,22,,19,23,27,23,,NBA
-65,65,270214002,2006,"Wed, Feb 14",Boston Celtics,Milwaukee Bucks,"13-38, 5-21 Home","19-34, 8-23 Away",117,97,,,Final,,19,39,31,28,,32,22,20,23,,NBA
-66,66,270221021,2006,"Wed, Feb 21",Phoenix Suns,Boston Celtics,"41-13, 21-6 Home","13-40, 8-19 Away",118,108,,,Final,,30,27,29,32,,26,20,36,26,,NBA
-67,67,270224026,2006,"Sat, Feb 24",Utah Jazz,Boston Celtics,"37-18, 22-6 Home","13-42, 8-21 Away",105,87,,,Final,,26,26,24,29,,20,21,23,23,,NBA
-68,68,270228002,2006,"Wed, Feb 28",Boston Celtics,New York Knicks,"15-42, 6-21 Home","26-33, 10-20 Away",102,94,,,Final,NBATV,27,30,20,25,,19,18,36,21,,NBA
-69,69,270304002,2006,"Sun, Mar 4",Boston Celtics,Minnesota Timberwolves,"17-42, 7-21 Home","26-33, 9-20 Away",124,117,,,Final/2OT,,20,22,26,25,31.0,20,23,31,19,24.0,NBA
-70,70,270309002,2006,"Fri, Mar 9",Boston Celtics,Seattle SuperSonics,"18-43, 8-22 Home","25-37, 7-24 Away",118,103,,,Final,,31,26,27,34,,35,31,16,21,,NBA
-71,71,270313004,2006,"Tue, Mar 13",Chicago Bulls,Boston Celtics,"38-28, 25-8 Home","18-45, 10-22 Away",95,87,,,Final,,26,24,25,20,,29,18,22,18,,NBA
-72,72,270316006,2006,"Fri, Mar 16",Dallas Mavericks,Boston Celtics,"53-11, 31-4 Home","19-46, 10-23 Away",106,101,,,Final,,29,15,25,37,,26,28,16,31,,NBA
-73,73,270319003,2006,"Mon, Mar 19",NO/Oklahoma City Hornets,Boston Celtics,"30-37, 20-13 Home","20-47, 11-24 Away",106,88,,,Final,,26,31,29,20,,31,9,18,30,,NBA
-74,74,270323002,2006,"Fri, Mar 23",Boston Celtics,Dallas Mavericks,"20-49, 9-25 Home","57-11, 26-7 Away",95,109,,,Final,,16,35,20,24,,33,23,34,19,,NBA
-75,75,270328002,2006,"Wed, Mar 28",Boston Celtics,Orlando Magic,"22-49, 11-25 Home","33-39, 12-25 Away",105,96,,,Final/2OT,,24,26,16,17,22.0,20,20,23,20,13.0,NBA
-76,76,270401002,2006,"Sun, Apr 1",Boston Celtics,Cleveland Cavaliers,"23-50, 12-25 Home","44-30, 17-20 Away",98,96,,,Final,,28,25,27,18,,16,33,20,27,,NBA
-77,77,270406002,2006,"Fri, Apr 6",Boston Celtics,Miami Heat,"23-52, 12-26 Home","42-34, 17-22 Away",85,88,,,Final,,26,19,25,15,,28,24,18,18,,NBA
-78,78,270410001,2006,"Tue, Apr 10",Atlanta Hawks,Boston Celtics,"29-49, 17-22 Home","23-54, 11-28 Away",104,96,,,Final,,24,27,25,28,,28,31,19,18,,NBA
-79,79,270413002,2006,"Fri, Apr 13",Boston Celtics,Milwaukee Bucks,"23-56, 12-28 Home","27-52, 10-30 Away",102,104,,,Final,,25,18,29,30,,31,25,27,21,,NBA
-80,80,270416014,2006,"Mon, Apr 16",Miami Heat,Boston Celtics,"44-37, 27-14 Home","24-57, 12-29 Away",89,91,,,Final,,21,22,22,24,,18,18,29,26,,NBA
-81,81,270418002,2006,"Wed, Apr 18",Boston Celtics,Detroit Pistons,"24-58, 12-29 Home","53-29, 27-14 Away",89,91,,,Final,,22,27,18,22,,19,26,24,22,,NBA
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+261103002,2006,"November 03, 2006",Boston Celtics,Detroit Pistons,"0-2, 0-2 Home","1-1, 1-0 Away",88,101,,,Final,,25,21,24,18,,24,21,28,28,,NBA
+261108002,2006,"November 08, 2006",Boston Celtics,Charlotte Bobcats,"1-3, 1-2 Home","1-3, 0-2 Away",110,108,,,Final/OT,,17,28,37,18,10.0,24,25,25,26,8.0,NBA
+261111005,2006,"November 11, 2006",Cleveland Cavaliers,Boston Celtics,"4-2, 3-1 Home","1-5, 0-2 Away",94,93,,,Final,,10,24,26,34,,25,23,28,17,,NBA
+261115002,2006,"November 15, 2006",Boston Celtics,Indiana Pacers,"2-6, 2-4 Home","4-4, 2-3 Away",114,88,,,Final,,25,22,33,34,,24,21,21,22,,NBA
+261118018,2006,"November 18, 2006",New York Knicks,Boston Celtics,"4-7, 1-4 Home","4-6, 1-2 Away",118,122,,,Final,,24,32,22,40,,24,29,35,34,,NBA
+261124002,2006,"November 24, 2006",Boston Celtics,New York Knicks,"4-8, 3-5 Home","5-9, 4-4 Away",77,101,,,Final,,25,22,14,16,,23,29,29,20,,NBA
+261129002,2006,"November 29, 2006",Boston Celtics,New Jersey Nets,"5-9, 3-6 Home","6-9, 3-5 Away",103,106,,,Final,,28,27,29,19,,27,25,24,30,,NBA
+261204004,2006,"December 04, 2006",Chicago Bulls,Boston Celtics,"8-9, 5-1 Home","5-11, 2-5 Away",100,82,,,Final,,28,25,25,22,,14,21,18,29,,NBA
+261208002,2006,"December 08, 2006",Boston Celtics,Phoenix Suns,"5-13, 3-8 Home","12-6, 4-4 Away",111,116,,,Final,,33,21,27,30,,35,24,21,36,,NBA
+261211018,2006,"December 11, 2006",New York Knicks,Boston Celtics,"8-15, 3-9 Home","7-13, 4-5 Away",90,97,,,Final,,17,19,31,23,,31,30,21,15,,NBA
+261215002,2006,"December 15, 2006",Boston Celtics,Denver Nuggets,"9-13, 4-8 Home","12-9, 6-5 Away",119,114,,,Final,,31,33,21,34,,17,30,27,40,,NBA
+261220002,2006,"December 20, 2006",Boston Celtics,Golden State Warriors,"10-14, 4-9 Home","13-14, 2-9 Away",95,96,,,Final,,29,19,23,24,,29,29,18,20,,NBA
+261226007,2006,"December 26, 2006",Denver Nuggets,Boston Celtics,"15-10, 8-5 Home","10-16, 6-6 Away",116,105,,,Final,,27,30,31,28,,25,22,31,27,,NBA
+261229009,2006,"December 29, 2006",Golden State Warriors,Boston Celtics,"16-15, 13-5 Home","10-18, 6-8 Away",110,100,,,Final,NBATV,33,20,28,29,,21,27,23,29,,NBA
+270101022,2006,"January 01, 2007",Portland Trail Blazers,Boston Celtics,"13-19, 7-9 Home","11-19, 7-9 Away",81,89,,,Final,NBATV,27,17,23,14,,23,21,26,19,,NBA
+270105029,2006,"January 05, 2007",Memphis Grizzlies,Boston Celtics,"8-26, 6-10 Home","12-20, 8-9 Away",119,128,,,Final,,36,22,32,29,,34,24,39,31,,NBA
+270110002,2006,"January 10, 2007",Boston Celtics,Indiana Pacers,"12-22, 4-12 Home","20-16, 10-11 Away",84,97,,,Final,,27,25,14,18,,22,30,28,17,,NBA
+270113008,2006,"January 13, 2007",Detroit Pistons,Boston Celtics,"21-14, 10-6 Home","12-24, 8-11 Away",81,73,,,Final,,26,23,11,21,,27,16,17,13,,NBA
+270119002,2006,"January 19, 2007",Boston Celtics,Sacramento Kings,"12-26, 4-14 Home","15-22, 5-11 Away",91,96,,,Final,,22,22,23,24,,21,20,21,34,,NBA
+270122002,2006,"January 22, 2007",Boston Celtics,San Antonio Spurs,"12-28, 4-15 Home","30-13, 15-6 Away",89,93,,,Final,,24,14,25,26,,20,30,27,16,,NBA
+270126028,2006,"January 26, 2007",Toronto Raptors,Boston Celtics,"22-22, 14-7 Home","12-30, 8-14 Away",96,90,,,Final,,24,25,20,27,,17,26,28,19,,NBA
+270130011,2006,"January 30, 2007",Indiana Pacers,Boston Celtics,"24-21, 14-7 Home","12-32, 8-15 Away",103,96,,,Final,NBATV,24,28,24,27,,30,13,13,40,,NBA
+270202002,2006,"February 02, 2007",Boston Celtics,LA Clippers,"12-34, 4-19 Home","24-22, 7-14 Away",89,100,,,Final,,21,21,27,20,,25,22,20,33,,NBA
+270207002,2006,"February 07, 2007",Boston Celtics,Miami Heat,"12-36, 4-20 Home","24-25, 11-15 Away",79,91,,,Final,NBATV,27,13,18,21,,17,27,26,21,,NBA
+270211016,2006,"February 11, 2007",Minnesota Timberwolves,Boston Celtics,"24-27, 15-9 Home","12-38, 8-17 Away",109,107,,,Final,,24,27,36,22,,31,25,29,22,,NBA
+270220023,2006,"February 20, 2007",Sacramento Kings,Boston Celtics,"23-29, 16-12 Home","13-39, 8-18 Away",104,101,,,Final,,34,32,25,13,,26,36,19,20,,NBA
+270223013,2006,"February 23, 2007",Los Angeles Lakers,Boston Celtics,"31-25, 20-9 Home","13-41, 8-20 Away",122,96,,,Final,,34,31,33,24,,30,24,20,22,,NBA
+270226010,2006,"February 26, 2007",Houston Rockets,Boston Celtics,"35-21, 20-8 Home","14-42, 9-21 Away",72,77,,,Final,,22,13,18,19,,14,15,15,33,,NBA
+270303017,2006,"March 03, 2007",New Jersey Nets,Boston Celtics,"28-31, 17-15 Home","16-42, 10-21 Away",88,96,,,Final/OT,,20,16,17,30,5.0,15,18,17,33,13.0,NBA
+270307002,2006,"March 07, 2007",Boston Celtics,Houston Rockets,"17-43, 7-22 Home","37-24, 17-14 Away",80,111,,,Final,,22,27,19,12,,30,32,31,18,,NBA
+270311002,2006,"March 11, 2007",Boston Celtics,Chicago Bulls,"18-44, 8-23 Home","37-28, 13-20 Away",78,94,,,Final,,17,24,22,15,,24,24,18,28,,NBA
+270314002,2006,"March 14, 2007",Boston Celtics,Atlanta Hawks,"19-45, 9-23 Home","26-40, 12-22 Away",109,88,,,Final,,26,24,36,23,,25,16,19,28,,NBA
+270317024,2006,"March 17, 2007",San Antonio Spurs,Boston Celtics,"46-20, 22-9 Home","20-46, 11-23 Away",85,91,,,Final,,15,25,22,23,,29,16,30,16,,NBA
+270321002,2006,"March 21, 2007",Boston Celtics,Charlotte Bobcats,"20-48, 9-24 Home","26-43, 10-25 Away",84,92,,,Final,,31,23,17,13,,19,20,23,30,,NBA
+270326002,2006,"March 26, 2007",Boston Celtics,Toronto Raptors,"21-49, 10-25 Home","38-32, 13-22 Away",95,87,,,Final,,22,20,23,30,,19,19,18,31,,NBA
+270330020,2006,"March 30, 2007",Philadelphia 76ers,Boston Celtics,"29-43, 19-17 Home","22-50, 11-25 Away",88,82,,,Final,CSN,25,19,23,21,,20,11,27,24,,NBA
+270404015,2006,"April 04, 2007",Milwaukee Bucks,Boston Celtics,"26-48, 17-19 Home","23-51, 11-26 Away",98,89,,,Final,,25,28,26,19,,21,31,20,17,,NBA
+270407011,2006,"April 07, 2007",Indiana Pacers,Boston Celtics,"34-42, 22-17 Home","23-53, 11-27 Away",105,98,,,Final,,26,25,27,27,,15,28,24,31,,NBA
+270411002,2006,"April 11, 2007",Boston Celtics,Philadelphia 76ers,"23-55, 12-27 Home","33-45, 12-27 Away",94,102,,,Final,CSN,29,29,18,18,,20,27,29,26,,NBA
+270415019,2006,"April 15, 2007",Orlando Magic,Boston Celtics,"38-42, 24-16 Home","23-57, 11-29 Away",88,86,,,Final,,23,25,30,10,,24,16,19,27,,NBA
+261101002,2006,"November 01, 2006",Boston Celtics,NO/Oklahoma City Hornets,"0-1, 0-1 Home","1-0, 1-0 Away",87,91,,,Final,,16,25,24,22,,26,28,21,16,,NBA
+261104027,2006,"November 04, 2006",Washington Wizards,Boston Celtics,"1-1, 1-0 Home","0-3, 0-1 Away",124,117,,,Final,NBATV,35,23,40,26,,28,29,31,29,,NBA
+261110002,2006,"November 10, 2006",Boston Celtics,Utah Jazz,"1-4, 1-3 Home","5-1, 2-1 Away",100,107,,,Final,,31,17,22,30,,27,25,30,25,,NBA
+261113002,2006,"November 13, 2006",Boston Celtics,Orlando Magic,"1-6, 1-4 Home","5-3, 2-2 Away",89,92,,,Final,,22,15,24,28,,24,21,21,26,,NBA
+261117002,2006,"November 17, 2006",Boston Celtics,Portland Trail Blazers,"3-6, 3-4 Home","4-6, 1-5 Away",118,90,,,Final,,20,30,27,41,,20,23,22,25,,NBA
+261122030,2006,"November 22, 2006",Charlotte Bobcats,Boston Celtics,"3-8, 2-4 Home","4-7, 1-3 Away",92,83,,,Final,,29,24,16,23,,17,32,15,19,,NBA
+261125015,2006,"November 25, 2006",Milwaukee Bucks,Boston Celtics,"4-9, 2-4 Home","5-8, 2-3 Away",98,111,,,Final,,27,33,20,18,,25,21,37,28,,NBA
+261201028,2006,"December 01, 2006",Toronto Raptors,Boston Celtics,"6-10, 5-2 Home","5-10, 2-4 Away",106,102,,,Final,,30,28,23,25,,32,19,27,24,,NBA
+261206002,2006,"December 06, 2006",Boston Celtics,Memphis Grizzlies,"5-12, 3-7 Home","5-13, 2-9 Away",96,98,,,Final,,28,16,22,30,,19,27,28,24,,NBA
+261209017,2006,"December 09, 2006",New Jersey Nets,Boston Celtics,"7-12, 4-7 Home","6-13, 3-5 Away",90,92,,,Final,,27,21,25,17,,11,34,23,24,,NBA
+261213020,2006,"December 13, 2006",Philadelphia 76ers,Boston Celtics,"5-16, 3-6 Home","8-13, 5-5 Away",81,101,,,Final,CSN,27,14,19,21,,24,19,29,29,,NBA
+261216030,2006,"December 16, 2006",Charlotte Bobcats,Boston Celtics,"6-17, 4-9 Home","10-13, 6-5 Away",100,106,,,Final,,26,24,31,19,,27,33,18,28,,NBA
+261222002,2006,"December 22, 2006",Boston Celtics,Philadelphia 76ers,"10-15, 4-10 Home","6-19, 3-12 Away",83,98,,,Final,CSN,20,21,22,20,,24,24,25,25,,NBA
+261227012,2006,"December 27, 2006",LA Clippers,Boston Celtics,"12-16, 10-6 Home","10-17, 6-7 Away",100,77,,,Final,,31,24,28,17,,28,15,19,15,,NBA
+261231025,2006,"December 31, 2006",Seattle SuperSonics,Boston Celtics,"13-19, 9-7 Home","10-19, 6-9 Away",101,95,,,Final,,27,21,28,25,,18,21,20,36,,NBA
+270103002,2006,"January 03, 2007",Boston Celtics,Cleveland Cavaliers,"11-20, 4-11 Home","19-12, 5-9 Away",104,107,,,Final,,21,33,22,28,,19,30,33,25,,NBA
+270107019,2006,"January 07, 2007",Orlando Magic,Boston Celtics,"21-14, 14-6 Home","12-21, 8-10 Away",87,79,,,Final,,29,25,12,21,,17,21,18,23,,NBA
+270112002,2006,"January 12, 2007",Boston Celtics,Toronto Raptors,"12-23, 4-13 Home","17-20, 7-15 Away",86,95,,,Final,,15,25,18,28,,21,20,26,28,,NBA
+270115001,2006,"January 15, 2007",Atlanta Hawks,Boston Celtics,"12-23, 7-10 Home","12-25, 8-12 Away",100,96,,,Final,,22,25,29,24,,15,25,26,30,,NBA
+270120027,2006,"January 20, 2007",Washington Wizards,Boston Celtics,"24-16, 17-3 Home","12-27, 8-13 Away",115,110,,,Final/OT,,39,23,23,17,13.0,26,23,35,18,8.0,NBA
+270124002,2006,"January 24, 2007",Boston Celtics,Atlanta Hawks,"12-29, 4-16 Home","14-26, 7-15 Away",76,82,,,Final,,28,16,18,14,,10,19,27,26,,NBA
+270128002,2006,"January 28, 2007",Boston Celtics,Washington Wizards,"12-31, 4-17 Home","26-17, 9-13 Away",91,105,,,Final,,29,21,20,21,,30,18,29,28,,NBA
+270131002,2006,"January 31, 2007",Boston Celtics,Los Angeles Lakers,"12-33, 4-18 Home","28-18, 9-12 Away",98,111,,,Final,,23,26,24,25,,35,22,26,28,,NBA
+270206008,2006,"February 06, 2007",Detroit Pistons,Boston Celtics,"29-18, 14-9 Home","12-35, 8-16 Away",109,102,,,Final,,25,31,33,20,,20,20,27,35,,NBA
+270209002,2006,"February 09, 2007",Boston Celtics,New Jersey Nets,"12-37, 4-21 Home","24-27, 11-15 Away",78,92,,,Final,,16,23,17,22,,19,23,27,23,,NBA
+270214002,2006,"February 14, 2007",Boston Celtics,Milwaukee Bucks,"13-38, 5-21 Home","19-34, 8-23 Away",117,97,,,Final,,19,39,31,28,,32,22,20,23,,NBA
+270221021,2006,"February 21, 2007",Phoenix Suns,Boston Celtics,"41-13, 21-6 Home","13-40, 8-19 Away",118,108,,,Final,,30,27,29,32,,26,20,36,26,,NBA
+270224026,2006,"February 24, 2007",Utah Jazz,Boston Celtics,"37-18, 22-6 Home","13-42, 8-21 Away",105,87,,,Final,,26,26,24,29,,20,21,23,23,,NBA
+270228002,2006,"February 28, 2007",Boston Celtics,New York Knicks,"15-42, 6-21 Home","26-33, 10-20 Away",102,94,,,Final,NBATV,27,30,20,25,,19,18,36,21,,NBA
+270304002,2006,"March 04, 2007",Boston Celtics,Minnesota Timberwolves,"17-42, 7-21 Home","26-33, 9-20 Away",124,117,,,Final/2OT,,20,22,26,25,31.0,20,23,31,19,24.0,NBA
+270309002,2006,"March 09, 2007",Boston Celtics,Seattle SuperSonics,"18-43, 8-22 Home","25-37, 7-24 Away",118,103,,,Final,,31,26,27,34,,35,31,16,21,,NBA
+270313004,2006,"March 13, 2007",Chicago Bulls,Boston Celtics,"38-28, 25-8 Home","18-45, 10-22 Away",95,87,,,Final,,26,24,25,20,,29,18,22,18,,NBA
+270316006,2006,"March 16, 2007",Dallas Mavericks,Boston Celtics,"53-11, 31-4 Home","19-46, 10-23 Away",106,101,,,Final,,29,15,25,37,,26,28,16,31,,NBA
+270319003,2006,"March 19, 2007",NO/Oklahoma City Hornets,Boston Celtics,"30-37, 20-13 Home","20-47, 11-24 Away",106,88,,,Final,,26,31,29,20,,31,9,18,30,,NBA
+270323002,2006,"March 23, 2007",Boston Celtics,Dallas Mavericks,"20-49, 9-25 Home","57-11, 26-7 Away",95,109,,,Final,,16,35,20,24,,33,23,34,19,,NBA
+270328002,2006,"March 28, 2007",Boston Celtics,Orlando Magic,"22-49, 11-25 Home","33-39, 12-25 Away",105,96,,,Final/2OT,,24,26,16,17,22.0,20,20,23,20,13.0,NBA
+270401002,2006,"April 01, 2007",Boston Celtics,Cleveland Cavaliers,"23-50, 12-25 Home","44-30, 17-20 Away",98,96,,,Final,,28,25,27,18,,16,33,20,27,,NBA
+270406002,2006,"April 06, 2007",Boston Celtics,Miami Heat,"23-52, 12-26 Home","42-34, 17-22 Away",85,88,,,Final,,26,19,25,15,,28,24,18,18,,NBA
+270410001,2006,"April 10, 2007",Atlanta Hawks,Boston Celtics,"29-49, 17-22 Home","23-54, 11-28 Away",104,96,,,Final,,24,27,25,28,,28,31,19,18,,NBA
+270413002,2006,"April 13, 2007",Boston Celtics,Milwaukee Bucks,"23-56, 12-28 Home","27-52, 10-30 Away",102,104,,,Final,,25,18,29,30,,31,25,27,21,,NBA
+270416014,2006,"April 16, 2007",Miami Heat,Boston Celtics,"44-37, 27-14 Home","24-57, 12-29 Away",89,91,,,Final,,21,22,22,24,,18,18,29,26,,NBA
+270418002,2006,"April 18, 2007",Boston Celtics,Detroit Pistons,"24-58, 12-29 Home","53-29, 27-14 Away",89,91,,,Final,,22,27,18,22,,19,26,24,22,,NBA

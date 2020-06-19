@@ -1,83 +1,83 @@
-,Unnamed: 0,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-0,0,151104011,1995,"Sat, Nov 4",Indiana Pacers,Toronto Raptors,"2-0, 1-0 Home","1-1, 0-1 Away",97,89,,,Final,,34,26,13,24,,17,21,33,18,,NBA
-1,1,151108028,1995,"Wed, Nov 8",Toronto Raptors,Sacramento Kings,"1-3, 1-1 Home","4-0, 2-0 Away",90,109,,,Final,,25,29,17,19,,35,26,16,32,,NBA
-2,2,151111003,1995,"Sat, Nov 11",Charlotte Hornets,Toronto Raptors,"3-3, 3-0 Home","1-5, 0-3 Away",123,117,,,Final/OT,,28,23,25,29,18.0,26,28,27,24,12.0,NBA
-3,3,151115028,1995,"Wed, Nov 15",Toronto Raptors,Houston Rockets,"1-7, 1-4 Home","5-1, 2-1 Away",93,96,,,Final,,23,19,27,24,,32,21,23,20,,NBA
-4,4,151118027,1995,"Sat, Nov 18",Washington Bullets,Toronto Raptors,"3-5, 3-2 Home","3-7, 1-3 Away",102,103,,,Final,,19,23,28,32,,24,33,20,26,,NBA
-5,5,151122015,1995,"Wed, Nov 22",Milwaukee Bucks,Toronto Raptors,"3-6, 2-3 Home","4-8, 1-4 Away",96,86,,,Final,,30,21,22,23,,21,22,15,28,,NBA
-6,6,151127028,1995,"Mon, Nov 27",Toronto Raptors,Golden State Warriors,"5-9, 4-4 Home","5-9, 2-6 Away",101,98,,,Final,,22,36,23,20,,22,28,30,18,,NBA
-7,7,151201028,1995,"Fri, Dec 1",Toronto Raptors,Philadelphia 76ers,"6-10, 5-4 Home","2-11, 0-6 Away",105,102,,,Final,,36,17,29,23,,15,29,27,31,,NBA
-8,8,151205025,1995,"Tue, Dec 5",Seattle SuperSonics,Toronto Raptors,"11-6, 7-1 Home","6-12, 1-7 Away",119,89,,,Final,,29,27,39,24,,28,15,23,23,,NBA
-9,9,151208013,1995,"Fri, Dec 8",Los Angeles Lakers,Toronto Raptors,"10-9, 8-2 Home","6-14, 1-9 Away",120,103,,,Final,,37,26,27,30,,19,33,20,31,,NBA
-10,10,151212028,1995,"Tue, Dec 12",Toronto Raptors,Boston Celtics,"7-15, 5-6 Home","9-10, 5-2 Away",96,116,,,Final,,20,23,21,32,,32,25,26,33,,NBA
-11,11,151215002,1995,"Fri, Dec 15",Boston Celtics,Toronto Raptors,"11-10, 6-8 Home","7-17, 2-10 Away",122,103,,,Final,,31,26,31,34,,23,24,21,35,,NBA
-12,12,151219028,1995,"Tue, Dec 19",Toronto Raptors,Detroit Pistons,"8-18, 6-8 Home","10-13, 3-8 Away",82,94,,,Final,,19,23,19,21,,23,21,26,24,,NBA
-13,13,151223018,1995,"Sat, Dec 23",New York Knicks,Toronto Raptors,"19-7, 11-3 Home","8-20, 2-12 Away",103,91,,,Final,,26,22,28,27,,26,31,14,20,,NBA
-14,14,151228008,1995,"Thu, Dec 28",Detroit Pistons,Toronto Raptors,"14-14, 10-6 Home","9-21, 2-13 Away",113,91,,,Final,,18,25,40,30,,13,22,27,29,,NBA
-15,15,160104001,1995,"Thu, Jan 4",Atlanta Hawks,Toronto Raptors,"14-16, 8-9 Home","9-23, 2-15 Away",104,101,,,Final/OT,,25,17,26,24,12.0,24,23,16,29,9.0,NBA
-16,16,160111028,1995,"Thu, Jan 11",Toronto Raptors,Atlanta Hawks,"9-25, 7-10 Home","16-17, 7-8 Away",79,87,,,Final,,21,9,21,28,,11,25,27,24,,NBA
-17,17,160115017,1995,"Mon, Jan 15",New Jersey Nets,Toronto Raptors,"14-21, 11-6 Home","10-26, 2-16 Away",108,83,,,Final,,27,24,32,25,,17,18,25,23,,NBA
-18,18,160118028,1995,"Thu, Jan 18",Toronto Raptors,Chicago Bulls,"10-28, 8-12 Home","33-3, 14-3 Away",89,92,,,Final,,20,25,19,25,,21,17,29,25,,NBA
-19,19,160123028,1995,"Tue, Jan 23",Toronto Raptors,New Jersey Nets,"12-28, 10-12 Home","16-23, 4-17 Away",86,79,,,Final,,28,16,26,16,,24,24,19,12,,NBA
-20,20,160127007,1995,"Sat, Jan 27",Denver Nuggets,Toronto Raptors,"17-25, 10-9 Home","12-30, 2-17 Away",93,82,,,Final,,13,24,28,28,,16,21,19,26,,NBA
-21,21,160202009,1995,"Fri, Feb 2",Golden State Warriors,Toronto Raptors,"19-25, 12-9 Home","12-32, 2-19 Away",114,111,,,Final,,32,32,29,21,,25,28,28,30,,NBA
-22,22,160205028,1995,"Mon, Feb 5",Toronto Raptors,Portland Trail Blazers,"13-33, 10-14 Home","23-24, 9-16 Away",87,90,,,Final,,18,22,27,20,,19,18,25,28,,NBA
-23,23,160213014,1995,"Tue, Feb 13",Miami Heat,Toronto Raptors,"22-27, 15-10 Home","14-34, 4-19 Away",87,98,,,Final,,28,23,7,29,,20,26,31,21,,NBA
-24,24,160217008,1995,"Sat, Feb 17",Detroit Pistons,Toronto Raptors,"25-23, 16-9 Home","14-36, 4-20 Away",108,95,,,Final,,23,30,27,28,,20,26,20,29,,NBA
-25,25,160223021,1995,"Fri, Feb 23",Phoenix Suns,Toronto Raptors,"26-26, 15-13 Home","14-38, 4-22 Away",110,105,,,Final,,32,22,32,24,,25,22,28,30,,NBA
-26,26,160227010,1995,"Tue, Feb 27",Houston Rockets,Toronto Raptors,"37-20, 20-7 Home","14-40, 4-24 Away",105,100,,,Final,,25,31,22,27,,28,25,21,26,,NBA
-27,27,160303005,1995,"Sun, Mar 3",Cleveland Cavaliers,Toronto Raptors,"33-24, 20-10 Home","15-41, 5-25 Away",89,100,,,Final,,20,19,26,24,,27,32,18,23,,NBA
-28,28,160306028,1995,"Wed, Mar 6",Toronto Raptors,New York Knicks,"15-43, 10-18 Home","34-25, 14-14 Away",82,89,,,Final,,23,15,20,24,,28,27,17,17,,NBA
-29,29,160310028,1995,"Sun, Mar 10",Toronto Raptors,Dallas Mavericks,"16-44, 11-18 Home","21-40, 8-23 Away",128,112,,,Final,,36,28,32,32,,24,33,25,30,,NBA
-30,30,160315003,1995,"Fri, Mar 15",Charlotte Hornets,Toronto Raptors,"31-31, 22-11 Home","16-46, 5-28 Away",113,101,,,Final,,33,27,26,27,,29,23,29,20,,NBA
-31,31,160318028,1995,"Mon, Mar 18",Toronto Raptors,Denver Nuggets,"16-48, 11-19 Home","28-37, 9-24 Away",114,122,,,Final,,30,29,28,27,,27,35,24,36,,NBA
-32,32,160322028,1995,"Fri, Mar 22",Toronto Raptors,San Antonio Spurs,"17-49, 12-20 Home","48-18, 21-12 Away",108,120,,,Final,,28,29,19,32,,31,30,32,27,,NBA
-33,33,160326028,1995,"Tue, Mar 26",Toronto Raptors,Atlanta Hawks,"18-50, 13-21 Home","39-29, 16-18 Away",111,114,,,Final,,33,31,25,22,,29,29,35,21,,NBA
-34,34,160329028,1995,"Fri, Mar 29",Toronto Raptors,Orlando Magic,"18-52, 13-22 Home","53-18, 20-17 Away",86,126,,,Final,,22,18,21,25,,30,30,35,31,,NBA
-35,35,160402028,1995,"Tue, Apr 2",Toronto Raptors,Los Angeles Clippers,"19-53, 14-23 Home","27-46, 10-26 Away",104,103,,,Final/OT,,25,16,36,20,7.0,27,26,19,25,6.0,NBA
-36,36,160406028,1995,"Sat, Apr 6",Toronto Raptors,New York Knicks,"19-55, 14-25 Home","44-30, 20-18 Away",106,139,,,Final,,23,36,24,23,,33,34,27,45,,NBA
-37,37,160409015,1995,"Tue, Apr 9",Milwaukee Bucks,Toronto Raptors,"23-52, 13-25 Home","20-56, 6-31 Away",96,102,,,Final,,22,25,30,19,,38,19,22,23,,NBA
-38,38,160414027,1995,"Sun, Apr 14",Washington Bullets,Toronto Raptors,"39-39, 25-14 Home","20-58, 6-33 Away",110,97,,,Final,,30,31,26,23,,23,31,25,18,,NBA
-39,39,160417017,1995,"Wed, Apr 17",New Jersey Nets,Toronto Raptors,"30-50, 20-20 Home","20-60, 6-35 Away",107,95,,,Final,,31,25,23,28,,29,25,26,15,,NBA
-40,40,151103028,1995,"Fri, Nov 3",Toronto Raptors,New Jersey Nets,"1-0, 1-0 Home","0-1, 0-1 Away",94,79,,,Final,,21,25,20,28,,17,16,20,26,,NBA
-41,41,151107004,1995,"Tue, Nov 7",Chicago Bulls,Toronto Raptors,"3-0, 3-0 Home","1-2, 0-2 Away",117,108,,,Final,,30,29,30,28,,30,32,25,21,,NBA
-42,42,151110028,1995,"Fri, Nov 10",Toronto Raptors,Phoenix Suns,"1-4, 1-2 Home","2-3, 2-2 Away",108,112,,,Final,,23,26,28,31,,29,34,27,22,,NBA
-43,43,151113028,1995,"Mon, Nov 13",Toronto Raptors,Utah Jazz,"1-6, 1-3 Home","5-2, 1-2 Away",100,103,,,Final,,29,20,22,29,,24,20,37,22,,NBA
-44,44,151117028,1995,"Fri, Nov 17",Toronto Raptors,Minnesota Timberwolves,"2-7, 2-4 Home","1-6, 0-4 Away",114,96,,,Final,,25,35,34,20,,14,28,25,29,,NBA
-45,45,151121028,1995,"Tue, Nov 21",Toronto Raptors,Seattle SuperSonics,"4-7, 3-4 Home","6-5, 3-5 Away",102,97,,,Final,,27,30,25,20,,31,27,21,18,,NBA
-46,46,151125001,1995,"Sat, Nov 25",Atlanta Hawks,Toronto Raptors,"7-5, 3-2 Home","4-9, 1-5 Away",114,102,,,Final,,25,31,35,23,,25,25,25,27,,NBA
-47,47,151128005,1995,"Tue, Nov 28",Cleveland Cavaliers,Toronto Raptors,"5-8, 3-4 Home","5-10, 1-6 Away",93,89,,,Final,,18,28,28,19,,28,20,22,19,,NBA
-48,48,151203028,1995,"Sun, Dec 3",Toronto Raptors,Miami Heat,"6-11, 5-5 Home","11-3, 3-2 Away",94,112,,,Final,,23,23,28,20,,28,26,24,34,,NBA
-49,49,151207022,1995,"Thu, Dec 7",Portland Trail Blazers,Toronto Raptors,"9-8, 6-4 Home","6-13, 1-8 Away",96,88,,,Final,,24,21,22,29,,29,23,10,26,,NBA
-50,50,151210029,1995,"Sun, Dec 10",Vancouver Grizzlies,Toronto Raptors,"2-18, 1-7 Home","7-14, 2-9 Away",81,93,,,Final,,23,18,16,24,,29,22,25,17,,NBA
-51,51,151214028,1995,"Thu, Dec 14",Toronto Raptors,Indiana Pacers,"7-16, 5-7 Home","10-9, 5-6 Away",100,102,,,Final,,32,30,23,15,,26,27,24,25,,NBA
-52,52,151217028,1995,"Sun, Dec 17",Toronto Raptors,Orlando Magic,"8-17, 6-7 Home","18-6, 6-6 Away",110,93,,,Final,,29,34,26,21,,24,19,23,27,,NBA
-53,53,151222004,1995,"Fri, Dec 22",Chicago Bulls,Toronto Raptors,"22-2, 12-0 Home","8-19, 2-11 Away",113,104,,,Final,,31,23,23,36,,22,22,30,30,,NBA
-54,54,151226028,1995,"Tue, Dec 26",Toronto Raptors,Milwaukee Bucks,"9-20, 7-8 Home","9-16, 4-9 Away",93,87,,,Final,,30,21,24,18,,16,18,26,27,,NBA
-55,55,160103019,1995,"Wed, Jan 3",Orlando Magic,Toronto Raptors,"24-6, 17-0 Home","9-22, 2-14 Away",121,110,,,Final,,28,32,26,35,,33,25,26,26,,NBA
-56,56,160109028,1995,"Tue, Jan 9",Toronto Raptors,Charlotte Hornets,"9-24, 7-9 Home","16-17, 5-13 Away",91,92,,,Final,,25,20,22,24,,22,23,26,21,,NBA
-57,57,160113028,1995,"Sat, Jan 13",Toronto Raptors,Washington Bullets,"10-25, 8-10 Home","18-17, 6-12 Away",106,100,,,Final,,33,27,27,19,,23,24,29,24,,NBA
-58,58,160116028,1995,"Tue, Jan 16",Toronto Raptors,Indiana Pacers,"10-27, 8-11 Home","22-13, 10-10 Away",102,110,,,Final,,29,22,19,32,,24,33,28,25,,NBA
-59,59,160121028,1995,"Sun, Jan 21",Toronto Raptors,Boston Celtics,"11-28, 9-12 Home","15-24, 6-12 Away",97,95,,,Final,,30,15,26,26,,18,26,32,19,,NBA
-60,60,160125028,1995,"Thu, Jan 25",Toronto Raptors,Vancouver Grizzlies,"12-29, 10-13 Home","10-31, 3-17 Away",101,106,,,Final/OT,,29,24,13,25,10.0,27,19,24,21,15.0,NBA
-61,61,160130023,1995,"Tue, Jan 30",Sacramento Kings,Toronto Raptors,"23-16, 15-5 Home","12-31, 2-18 Away",102,75,,,Final,,25,26,26,25,,19,15,14,27,,NBA
-62,62,160203012,1995,"Sat, Feb 3",Los Angeles Clippers,Toronto Raptors,"16-29, 10-13 Home","13-32, 3-19 Away",113,119,,,Final/OT,,37,22,23,18,13.0,24,29,22,25,19.0,NBA
-63,63,160207028,1995,"Wed, Feb 7",Toronto Raptors,Milwaukee Bucks,"13-34, 10-15 Home","18-27, 8-14 Away",88,93,,,Final,,29,22,16,21,,22,30,22,19,,NBA
-64,64,160215028,1995,"Thu, Feb 15",Toronto Raptors,Cleveland Cavaliers,"14-35, 10-16 Home","28-20, 12-12 Away",76,95,,,Final,,14,16,24,22,,27,26,21,21,,NBA
-65,65,160222026,1995,"Thu, Feb 22",Utah Jazz,Toronto Raptors,"36-16, 21-4 Home","14-37, 4-21 Away",102,86,,,Final,,24,13,32,33,,16,22,25,23,,NBA
-66,66,160225006,1995,"Sun, Feb 25",Dallas Mavericks,Toronto Raptors,"18-35, 12-15 Home","14-39, 4-23 Away",105,98,,,Final,,28,27,19,31,,23,23,23,29,,NBA
-67,67,160229024,1995,"Thu, Feb 29",San Antonio Spurs,Toronto Raptors,"37-18, 21-6 Home","14-41, 4-25 Away",120,95,,,Final,,32,39,24,25,,24,18,23,30,,NBA
-68,68,160305028,1995,"Tue, Mar 5",Toronto Raptors,Detroit Pistons,"15-42, 10-17 Home","32-26, 14-16 Away",84,105,,,Final,,25,17,25,17,,16,15,35,39,,NBA
-69,69,160308014,1995,"Fri, Mar 8",Miami Heat,Toronto Raptors,"29-32, 20-12 Home","15-44, 5-26 Away",109,79,,,Final,,35,24,30,20,,17,16,20,26,,NBA
-70,70,160312020,1995,"Tue, Mar 12",Philadelphia 76ers,Toronto Raptors,"13-48, 8-23 Home","16-45, 5-27 Away",118,110,,,Final,,30,30,27,31,,29,26,31,24,,NBA
-71,71,160317011,1995,"Sun, Mar 17",Indiana Pacers,Toronto Raptors,"40-24, 24-7 Home","16-47, 5-29 Away",105,96,,,Final,,27,27,26,25,,21,27,29,19,,NBA
-72,72,160320028,1995,"Wed, Mar 20",Toronto Raptors,Charlotte Hornets,"17-48, 12-19 Home","33-32, 9-21 Away",107,89,,,Final,,30,22,27,28,,23,22,23,21,,NBA
-73,73,160324028,1995,"Sun, Mar 24",Toronto Raptors,Chicago Bulls,"18-49, 13-20 Home","60-8, 26-8 Away",109,108,,,Final,,28,28,23,30,,23,31,29,25,,NBA
-74,74,160327020,1995,"Wed, Mar 27",Philadelphia 76ers,Toronto Raptors,"14-56, 9-25 Home","18-51, 5-30 Away",103,94,,,Final,,30,28,21,24,,27,24,26,17,,NBA
-75,75,160331028,1995,"Sun, Mar 31",Toronto Raptors,Los Angeles Lakers,"18-53, 13-23 Home","45-25, 20-14 Away",106,111,,,Final,,26,28,25,27,,37,16,28,30,,NBA
-76,76,160404028,1995,"Thu, Apr 4",Toronto Raptors,Cleveland Cavaliers,"19-54, 14-24 Home","43-31, 19-18 Away",77,98,,,Final,,19,10,23,25,,23,29,20,26,,NBA
-77,77,160408016,1995,"Mon, Apr 8",Minnesota Timberwolves,Toronto Raptors,"26-50, 17-21 Home","19-56, 5-31 Away",115,101,,,Final,,29,30,27,29,,28,23,21,29,,NBA
-78,78,160412002,1995,"Fri, Apr 12",Boston Celtics,Toronto Raptors,"31-47, 18-22 Home","20-57, 6-32 Away",136,108,,,Final,,33,30,35,38,,26,27,26,29,,NBA
-79,79,160415018,1995,"Mon, Apr 15",New York Knicks,Toronto Raptors,"46-33, 26-14 Home","20-59, 6-34 Away",125,79,,,Final,,29,26,32,38,,17,18,25,19,,NBA
-80,80,160419028,1995,"Fri, Apr 19",Toronto Raptors,Washington Bullets,"21-60, 15-25 Home","39-42, 14-27 Away",107,103,,,Final,,21,30,30,26,,32,27,15,29,,NBA
-81,81,160421028,1995,"Sun, Apr 21",Toronto Raptors,Philadelphia 76ers,"21-61, 15-26 Home","18-64, 7-34 Away",105,109,,,Final/OT,,33,18,29,19,6.0,28,29,25,17,10.0,NBA
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+151104011,1995,"November 04, 1995",Indiana Pacers,Toronto Raptors,"2-0, 1-0 Home","1-1, 0-1 Away",97,89,,,Final,,34,26,13,24,,17,21,33,18,,NBA
+151108028,1995,"November 08, 1995",Toronto Raptors,Sacramento Kings,"1-3, 1-1 Home","4-0, 2-0 Away",90,109,,,Final,,25,29,17,19,,35,26,16,32,,NBA
+151111003,1995,"November 11, 1995",Charlotte Hornets,Toronto Raptors,"3-3, 3-0 Home","1-5, 0-3 Away",123,117,,,Final/OT,,28,23,25,29,18.0,26,28,27,24,12.0,NBA
+151115028,1995,"November 15, 1995",Toronto Raptors,Houston Rockets,"1-7, 1-4 Home","5-1, 2-1 Away",93,96,,,Final,,23,19,27,24,,32,21,23,20,,NBA
+151118027,1995,"November 18, 1995",Washington Bullets,Toronto Raptors,"3-5, 3-2 Home","3-7, 1-3 Away",102,103,,,Final,,19,23,28,32,,24,33,20,26,,NBA
+151122015,1995,"November 22, 1995",Milwaukee Bucks,Toronto Raptors,"3-6, 2-3 Home","4-8, 1-4 Away",96,86,,,Final,,30,21,22,23,,21,22,15,28,,NBA
+151127028,1995,"November 27, 1995",Toronto Raptors,Golden State Warriors,"5-9, 4-4 Home","5-9, 2-6 Away",101,98,,,Final,,22,36,23,20,,22,28,30,18,,NBA
+151201028,1995,"December 01, 1995",Toronto Raptors,Philadelphia 76ers,"6-10, 5-4 Home","2-11, 0-6 Away",105,102,,,Final,,36,17,29,23,,15,29,27,31,,NBA
+151205025,1995,"December 05, 1995",Seattle SuperSonics,Toronto Raptors,"11-6, 7-1 Home","6-12, 1-7 Away",119,89,,,Final,,29,27,39,24,,28,15,23,23,,NBA
+151208013,1995,"December 08, 1995",Los Angeles Lakers,Toronto Raptors,"10-9, 8-2 Home","6-14, 1-9 Away",120,103,,,Final,,37,26,27,30,,19,33,20,31,,NBA
+151212028,1995,"December 12, 1995",Toronto Raptors,Boston Celtics,"7-15, 5-6 Home","9-10, 5-2 Away",96,116,,,Final,,20,23,21,32,,32,25,26,33,,NBA
+151215002,1995,"December 15, 1995",Boston Celtics,Toronto Raptors,"11-10, 6-8 Home","7-17, 2-10 Away",122,103,,,Final,,31,26,31,34,,23,24,21,35,,NBA
+151219028,1995,"December 19, 1995",Toronto Raptors,Detroit Pistons,"8-18, 6-8 Home","10-13, 3-8 Away",82,94,,,Final,,19,23,19,21,,23,21,26,24,,NBA
+151223018,1995,"December 23, 1995",New York Knicks,Toronto Raptors,"19-7, 11-3 Home","8-20, 2-12 Away",103,91,,,Final,,26,22,28,27,,26,31,14,20,,NBA
+151228008,1995,"December 28, 1995",Detroit Pistons,Toronto Raptors,"14-14, 10-6 Home","9-21, 2-13 Away",113,91,,,Final,,18,25,40,30,,13,22,27,29,,NBA
+160104001,1995,"January 04, 1996",Atlanta Hawks,Toronto Raptors,"14-16, 8-9 Home","9-23, 2-15 Away",104,101,,,Final/OT,,25,17,26,24,12.0,24,23,16,29,9.0,NBA
+160111028,1995,"January 11, 1996",Toronto Raptors,Atlanta Hawks,"9-25, 7-10 Home","16-17, 7-8 Away",79,87,,,Final,,21,9,21,28,,11,25,27,24,,NBA
+160115017,1995,"January 15, 1996",New Jersey Nets,Toronto Raptors,"14-21, 11-6 Home","10-26, 2-16 Away",108,83,,,Final,,27,24,32,25,,17,18,25,23,,NBA
+160118028,1995,"January 18, 1996",Toronto Raptors,Chicago Bulls,"10-28, 8-12 Home","33-3, 14-3 Away",89,92,,,Final,,20,25,19,25,,21,17,29,25,,NBA
+160123028,1995,"January 23, 1996",Toronto Raptors,New Jersey Nets,"12-28, 10-12 Home","16-23, 4-17 Away",86,79,,,Final,,28,16,26,16,,24,24,19,12,,NBA
+160127007,1995,"January 27, 1996",Denver Nuggets,Toronto Raptors,"17-25, 10-9 Home","12-30, 2-17 Away",93,82,,,Final,,13,24,28,28,,16,21,19,26,,NBA
+160202009,1995,"February 02, 1996",Golden State Warriors,Toronto Raptors,"19-25, 12-9 Home","12-32, 2-19 Away",114,111,,,Final,,32,32,29,21,,25,28,28,30,,NBA
+160205028,1995,"February 05, 1996",Toronto Raptors,Portland Trail Blazers,"13-33, 10-14 Home","23-24, 9-16 Away",87,90,,,Final,,18,22,27,20,,19,18,25,28,,NBA
+160213014,1995,"February 13, 1996",Miami Heat,Toronto Raptors,"22-27, 15-10 Home","14-34, 4-19 Away",87,98,,,Final,,28,23,7,29,,20,26,31,21,,NBA
+160217008,1995,"February 17, 1996",Detroit Pistons,Toronto Raptors,"25-23, 16-9 Home","14-36, 4-20 Away",108,95,,,Final,,23,30,27,28,,20,26,20,29,,NBA
+160223021,1995,"February 23, 1996",Phoenix Suns,Toronto Raptors,"26-26, 15-13 Home","14-38, 4-22 Away",110,105,,,Final,,32,22,32,24,,25,22,28,30,,NBA
+160227010,1995,"February 27, 1996",Houston Rockets,Toronto Raptors,"37-20, 20-7 Home","14-40, 4-24 Away",105,100,,,Final,,25,31,22,27,,28,25,21,26,,NBA
+160303005,1995,"March 03, 1996",Cleveland Cavaliers,Toronto Raptors,"33-24, 20-10 Home","15-41, 5-25 Away",89,100,,,Final,,20,19,26,24,,27,32,18,23,,NBA
+160306028,1995,"March 06, 1996",Toronto Raptors,New York Knicks,"15-43, 10-18 Home","34-25, 14-14 Away",82,89,,,Final,,23,15,20,24,,28,27,17,17,,NBA
+160310028,1995,"March 10, 1996",Toronto Raptors,Dallas Mavericks,"16-44, 11-18 Home","21-40, 8-23 Away",128,112,,,Final,,36,28,32,32,,24,33,25,30,,NBA
+160315003,1995,"March 15, 1996",Charlotte Hornets,Toronto Raptors,"31-31, 22-11 Home","16-46, 5-28 Away",113,101,,,Final,,33,27,26,27,,29,23,29,20,,NBA
+160318028,1995,"March 18, 1996",Toronto Raptors,Denver Nuggets,"16-48, 11-19 Home","28-37, 9-24 Away",114,122,,,Final,,30,29,28,27,,27,35,24,36,,NBA
+160322028,1995,"March 22, 1996",Toronto Raptors,San Antonio Spurs,"17-49, 12-20 Home","48-18, 21-12 Away",108,120,,,Final,,28,29,19,32,,31,30,32,27,,NBA
+160326028,1995,"March 26, 1996",Toronto Raptors,Atlanta Hawks,"18-50, 13-21 Home","39-29, 16-18 Away",111,114,,,Final,,33,31,25,22,,29,29,35,21,,NBA
+160329028,1995,"March 29, 1996",Toronto Raptors,Orlando Magic,"18-52, 13-22 Home","53-18, 20-17 Away",86,126,,,Final,,22,18,21,25,,30,30,35,31,,NBA
+160402028,1995,"April 02, 1996",Toronto Raptors,Los Angeles Clippers,"19-53, 14-23 Home","27-46, 10-26 Away",104,103,,,Final/OT,,25,16,36,20,7.0,27,26,19,25,6.0,NBA
+160406028,1995,"April 06, 1996",Toronto Raptors,New York Knicks,"19-55, 14-25 Home","44-30, 20-18 Away",106,139,,,Final,,23,36,24,23,,33,34,27,45,,NBA
+160409015,1995,"April 09, 1996",Milwaukee Bucks,Toronto Raptors,"23-52, 13-25 Home","20-56, 6-31 Away",96,102,,,Final,,22,25,30,19,,38,19,22,23,,NBA
+160414027,1995,"April 14, 1996",Washington Bullets,Toronto Raptors,"39-39, 25-14 Home","20-58, 6-33 Away",110,97,,,Final,,30,31,26,23,,23,31,25,18,,NBA
+160417017,1995,"April 17, 1996",New Jersey Nets,Toronto Raptors,"30-50, 20-20 Home","20-60, 6-35 Away",107,95,,,Final,,31,25,23,28,,29,25,26,15,,NBA
+151103028,1995,"November 03, 1995",Toronto Raptors,New Jersey Nets,"1-0, 1-0 Home","0-1, 0-1 Away",94,79,,,Final,,21,25,20,28,,17,16,20,26,,NBA
+151107004,1995,"November 07, 1995",Chicago Bulls,Toronto Raptors,"3-0, 3-0 Home","1-2, 0-2 Away",117,108,,,Final,,30,29,30,28,,30,32,25,21,,NBA
+151110028,1995,"November 10, 1995",Toronto Raptors,Phoenix Suns,"1-4, 1-2 Home","2-3, 2-2 Away",108,112,,,Final,,23,26,28,31,,29,34,27,22,,NBA
+151113028,1995,"November 13, 1995",Toronto Raptors,Utah Jazz,"1-6, 1-3 Home","5-2, 1-2 Away",100,103,,,Final,,29,20,22,29,,24,20,37,22,,NBA
+151117028,1995,"November 17, 1995",Toronto Raptors,Minnesota Timberwolves,"2-7, 2-4 Home","1-6, 0-4 Away",114,96,,,Final,,25,35,34,20,,14,28,25,29,,NBA
+151121028,1995,"November 21, 1995",Toronto Raptors,Seattle SuperSonics,"4-7, 3-4 Home","6-5, 3-5 Away",102,97,,,Final,,27,30,25,20,,31,27,21,18,,NBA
+151125001,1995,"November 25, 1995",Atlanta Hawks,Toronto Raptors,"7-5, 3-2 Home","4-9, 1-5 Away",114,102,,,Final,,25,31,35,23,,25,25,25,27,,NBA
+151128005,1995,"November 28, 1995",Cleveland Cavaliers,Toronto Raptors,"5-8, 3-4 Home","5-10, 1-6 Away",93,89,,,Final,,18,28,28,19,,28,20,22,19,,NBA
+151203028,1995,"December 03, 1995",Toronto Raptors,Miami Heat,"6-11, 5-5 Home","11-3, 3-2 Away",94,112,,,Final,,23,23,28,20,,28,26,24,34,,NBA
+151207022,1995,"December 07, 1995",Portland Trail Blazers,Toronto Raptors,"9-8, 6-4 Home","6-13, 1-8 Away",96,88,,,Final,,24,21,22,29,,29,23,10,26,,NBA
+151210029,1995,"December 10, 1995",Vancouver Grizzlies,Toronto Raptors,"2-18, 1-7 Home","7-14, 2-9 Away",81,93,,,Final,,23,18,16,24,,29,22,25,17,,NBA
+151214028,1995,"December 14, 1995",Toronto Raptors,Indiana Pacers,"7-16, 5-7 Home","10-9, 5-6 Away",100,102,,,Final,,32,30,23,15,,26,27,24,25,,NBA
+151217028,1995,"December 17, 1995",Toronto Raptors,Orlando Magic,"8-17, 6-7 Home","18-6, 6-6 Away",110,93,,,Final,,29,34,26,21,,24,19,23,27,,NBA
+151222004,1995,"December 22, 1995",Chicago Bulls,Toronto Raptors,"22-2, 12-0 Home","8-19, 2-11 Away",113,104,,,Final,,31,23,23,36,,22,22,30,30,,NBA
+151226028,1995,"December 26, 1995",Toronto Raptors,Milwaukee Bucks,"9-20, 7-8 Home","9-16, 4-9 Away",93,87,,,Final,,30,21,24,18,,16,18,26,27,,NBA
+160103019,1995,"January 03, 1996",Orlando Magic,Toronto Raptors,"24-6, 17-0 Home","9-22, 2-14 Away",121,110,,,Final,,28,32,26,35,,33,25,26,26,,NBA
+160109028,1995,"January 09, 1996",Toronto Raptors,Charlotte Hornets,"9-24, 7-9 Home","16-17, 5-13 Away",91,92,,,Final,,25,20,22,24,,22,23,26,21,,NBA
+160113028,1995,"January 13, 1996",Toronto Raptors,Washington Bullets,"10-25, 8-10 Home","18-17, 6-12 Away",106,100,,,Final,,33,27,27,19,,23,24,29,24,,NBA
+160116028,1995,"January 16, 1996",Toronto Raptors,Indiana Pacers,"10-27, 8-11 Home","22-13, 10-10 Away",102,110,,,Final,,29,22,19,32,,24,33,28,25,,NBA
+160121028,1995,"January 21, 1996",Toronto Raptors,Boston Celtics,"11-28, 9-12 Home","15-24, 6-12 Away",97,95,,,Final,,30,15,26,26,,18,26,32,19,,NBA
+160125028,1995,"January 25, 1996",Toronto Raptors,Vancouver Grizzlies,"12-29, 10-13 Home","10-31, 3-17 Away",101,106,,,Final/OT,,29,24,13,25,10.0,27,19,24,21,15.0,NBA
+160130023,1995,"January 30, 1996",Sacramento Kings,Toronto Raptors,"23-16, 15-5 Home","12-31, 2-18 Away",102,75,,,Final,,25,26,26,25,,19,15,14,27,,NBA
+160203012,1995,"February 03, 1996",Los Angeles Clippers,Toronto Raptors,"16-29, 10-13 Home","13-32, 3-19 Away",113,119,,,Final/OT,,37,22,23,18,13.0,24,29,22,25,19.0,NBA
+160207028,1995,"February 07, 1996",Toronto Raptors,Milwaukee Bucks,"13-34, 10-15 Home","18-27, 8-14 Away",88,93,,,Final,,29,22,16,21,,22,30,22,19,,NBA
+160215028,1995,"February 15, 1996",Toronto Raptors,Cleveland Cavaliers,"14-35, 10-16 Home","28-20, 12-12 Away",76,95,,,Final,,14,16,24,22,,27,26,21,21,,NBA
+160222026,1995,"February 22, 1996",Utah Jazz,Toronto Raptors,"36-16, 21-4 Home","14-37, 4-21 Away",102,86,,,Final,,24,13,32,33,,16,22,25,23,,NBA
+160225006,1995,"February 25, 1996",Dallas Mavericks,Toronto Raptors,"18-35, 12-15 Home","14-39, 4-23 Away",105,98,,,Final,,28,27,19,31,,23,23,23,29,,NBA
+160229024,1995,"February 29, 1996",San Antonio Spurs,Toronto Raptors,"37-18, 21-6 Home","14-41, 4-25 Away",120,95,,,Final,,32,39,24,25,,24,18,23,30,,NBA
+160305028,1995,"March 05, 1996",Toronto Raptors,Detroit Pistons,"15-42, 10-17 Home","32-26, 14-16 Away",84,105,,,Final,,25,17,25,17,,16,15,35,39,,NBA
+160308014,1995,"March 08, 1996",Miami Heat,Toronto Raptors,"29-32, 20-12 Home","15-44, 5-26 Away",109,79,,,Final,,35,24,30,20,,17,16,20,26,,NBA
+160312020,1995,"March 12, 1996",Philadelphia 76ers,Toronto Raptors,"13-48, 8-23 Home","16-45, 5-27 Away",118,110,,,Final,,30,30,27,31,,29,26,31,24,,NBA
+160317011,1995,"March 17, 1996",Indiana Pacers,Toronto Raptors,"40-24, 24-7 Home","16-47, 5-29 Away",105,96,,,Final,,27,27,26,25,,21,27,29,19,,NBA
+160320028,1995,"March 20, 1996",Toronto Raptors,Charlotte Hornets,"17-48, 12-19 Home","33-32, 9-21 Away",107,89,,,Final,,30,22,27,28,,23,22,23,21,,NBA
+160324028,1995,"March 24, 1996",Toronto Raptors,Chicago Bulls,"18-49, 13-20 Home","60-8, 26-8 Away",109,108,,,Final,,28,28,23,30,,23,31,29,25,,NBA
+160327020,1995,"March 27, 1996",Philadelphia 76ers,Toronto Raptors,"14-56, 9-25 Home","18-51, 5-30 Away",103,94,,,Final,,30,28,21,24,,27,24,26,17,,NBA
+160331028,1995,"March 31, 1996",Toronto Raptors,Los Angeles Lakers,"18-53, 13-23 Home","45-25, 20-14 Away",106,111,,,Final,,26,28,25,27,,37,16,28,30,,NBA
+160404028,1995,"April 04, 1996",Toronto Raptors,Cleveland Cavaliers,"19-54, 14-24 Home","43-31, 19-18 Away",77,98,,,Final,,19,10,23,25,,23,29,20,26,,NBA
+160408016,1995,"April 08, 1996",Minnesota Timberwolves,Toronto Raptors,"26-50, 17-21 Home","19-56, 5-31 Away",115,101,,,Final,,29,30,27,29,,28,23,21,29,,NBA
+160412002,1995,"April 12, 1996",Boston Celtics,Toronto Raptors,"31-47, 18-22 Home","20-57, 6-32 Away",136,108,,,Final,,33,30,35,38,,26,27,26,29,,NBA
+160415018,1995,"April 15, 1996",New York Knicks,Toronto Raptors,"46-33, 26-14 Home","20-59, 6-34 Away",125,79,,,Final,,29,26,32,38,,17,18,25,19,,NBA
+160419028,1995,"April 19, 1996",Toronto Raptors,Washington Bullets,"21-60, 15-25 Home","39-42, 14-27 Away",107,103,,,Final,,21,30,30,26,,32,27,15,29,,NBA
+160421028,1995,"April 21, 1996",Toronto Raptors,Philadelphia 76ers,"21-61, 15-26 Home","18-64, 7-34 Away",105,109,,,Final/OT,,33,18,29,19,6.0,28,29,25,17,10.0,NBA
