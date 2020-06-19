@@ -4,7 +4,7 @@
 # File Created: Saturday, 23rd May 2020 11:04:56 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Friday, 19th June 2020 4:14:44 pm
+# Last Modified: Friday, 19th June 2020 4:27:16 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -106,7 +106,6 @@ class ESPN_Season_Scraper:
                game.home_record, game.away_record,
                game.home_score, game.away_score, game.line, game.over_under,
                game.final_status, game.network]
-        print(len(row))
 
         if self.league != "NCAAB":
             for scores in [game.home_qscores, game.away_qscores]:
@@ -146,7 +145,7 @@ class ESPN_Season_Scraper:
             if link is None:
                 continue
             df = self._link_week_to_row(df, link, week, year)
-            time.sleep(1)
+            time.sleep(5)
         return df
 
     def scrape_playoffs(self, team_abbrev, team_name, year):  # Run
@@ -159,7 +158,7 @@ class ESPN_Season_Scraper:
     def find_years_unscraped(self, team_name):  # Top Level
         path = self.root_path + "ESPN_Data/{}/{}/".format(self.league, team_name)
         beginning_year = 1999 if self.league == "NCAAF" else 2002 if self.league == 'NCAAB' else 1993
-        all_years = [str(item) for item in list(range(beginning_year, 2020, 1))]
+        all_years = [str(item) for item in list(range(beginning_year, 2021, 1))]
         years_found = []
         year_comp = re.compile(r"(\d{4}).csv")
         for filename in os.listdir(path):
@@ -212,5 +211,5 @@ if __name__ == "__main__":
     # year = 2019
     # season_type = 2
     # name = "Atlanta Hawks"
-    x = ESPN_Season_Scraper("NCAAB")
+    x = ESPN_Season_Scraper("NBA")
     x.scrape_all_leauge_history()
