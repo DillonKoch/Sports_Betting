@@ -4,7 +4,7 @@
 # File Created: Friday, 19th June 2020 8:59:03 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Friday, 19th June 2020 10:21:22 am
+# Last Modified: Friday, 19th June 2020 10:30:38 am
 # Modified By: Dillon Koch
 # -----
 #
@@ -25,7 +25,7 @@ if ROOT_PATH not in sys.path:
     sys.path.append(ROOT_PATH)
 
 
-league = "NCAAF"
+league = "NCAAB"
 teams = os.listdir(ROOT_PATH + "/ESPN_Data/{}/".format(league))
 print("{} {} teams".format(len(teams), league))
 
@@ -57,13 +57,15 @@ def change_date(row):
     return datetime.date.strftime(dt, "%B %d, %Y")
 
 
-df = all_dfs[0]
-df['Date'] = df.apply(lambda row: change_date(row), axis=1)
-
-
+err_dfs = []
+err_paths = []
 for df, path in tqdm(zip(all_dfs, df_paths)):
-    df['Date'] = df.apply(lambda row: change_date(row), axis=1)
-    df.to_csv(path, index=False)
+    try:
+        df['Date'] = df.apply(lambda row: change_date(row), axis=1)
+        df.to_csv(path, index=False)
+    except BaseException:
+        err_dfs.append(df)
+        err_paths.append(path)
 
 
 # Getting rid of "Unnamed" nonsense in the df column names

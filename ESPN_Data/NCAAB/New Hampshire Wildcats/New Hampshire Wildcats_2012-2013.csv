@@ -1,30 +1,30 @@
 ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,H1H,H2H,HOT,A1H,A2H,AOT,League
-323180159,2012,"Tue, Nov 13",Dartmouth Big Green,New Hampshire Wildcats,"1-1, 1-1 Home","2-0, 1-0 Away",58,72,NULL,NULL,Final,NULL,26,32,NULL,29,43,NULL,NCAAB
-323262885,2012,"Wed, Nov 21",NJIT Highlanders,New Hampshire Wildcats,"2-2, 2-0 Home","2-2, 1-2 Away",69,67,NULL,NULL,Final,NULL,29,40,NULL,35,32,NULL,NCAAB
-323340041,2012,"Thu, Nov 29",UConn Huskies,New Hampshire Wildcats,"6-1, 3-0 Home","2-4, 1-4 Away",61,53,NULL,NULL,Final,ESPN3,25,36,NULL,18,35,NULL,NCAAB
-323400160,2012,"Wed, Dec 5",New Hampshire Wildcats,Central Connecticut Blue Devils,"3-5, 2-1 Home","4-3, 3-2 Away",84,87,NULL,NULL,Final,NULL,41,43,NULL,35,52,NULL,NCAAB
-323510103,2012,"Sun, Dec 16",Boston College Eagles,New Hampshire Wildcats,"5-5, 4-2 Home","4-6, 1-5 Away",61,59,NULL,NULL,Final/OT,ESPN3,23,29,9,31,21,7,NCAAB
-323652142,2012,"Sun, Dec 30",Colgate Raiders,New Hampshire Wildcats,"5-9, 3-1 Home","4-8, 1-7 Away",65,63,NULL,NULL,Final,NULL,35,30,NULL,29,34,NULL,NCAAB
-330052619,2012,"Sat, Jan 5",Stony Brook Seawolves,New Hampshire Wildcats,"10-4, 1-0 Conf","4-10, 0-2 Conf",65,49,NULL,NULL,Final,NULL,32,33,NULL,22,27,NULL,NCAAB
-330160160,2012,"Wed, Jan 16",New Hampshire Wildcats,Albany Great Danes,"4-12, 0-4 Conf","15-4, 4-1 Conf",62,68,NULL,NULL,Final,NULL,16,46,NULL,30,38,NULL,NCAAB
-330240160,2012,"Thu, Jan 24",New Hampshire Wildcats,Hartford Hawks,"4-14, 0-6 Conf","11-9, 4-3 Conf",40,51,NULL,NULL,Final,ESPN3,19,21,NULL,19,32,NULL,NCAAB
-330300311,2012,"Wed, Jan 30",Maine Black Bears,New Hampshire Wildcats,"8-13, 3-5 Conf","6-14, 2-6 Conf",54,57,NULL,NULL,Final,NULL,22,32,NULL,35,22,NULL,NCAAB
-330370261,2012,"Wed, Feb 6",Vermont Catamounts,New Hampshire Wildcats,"15-7, 8-2 Conf","6-16, 2-8 Conf",63,48,NULL,NULL,Final,NULL,34,29,NULL,16,32,NULL,NCAAB
-330480104,2012,"Sun, Feb 17",Boston Univ. Terriers,New Hampshire Wildcats,"15-11, 9-4 Conf","7-17, 3-9 Conf",68,56,NULL,NULL,Final,NULL,34,34,NULL,17,39,NULL,NCAAB
-330540160,2012,"Sat, Feb 23",New Hampshire Wildcats,Binghamton Bearcats,"8-18, 4-10 Conf","3-24, 1-13 Conf",68,56,NULL,NULL,Final,NULL,26,42,NULL,34,22,NULL,NCAAB
-330620160,2012,"Sun, Mar 3",New Hampshire Wildcats,Maine Black Bears,"9-19, 5-11 Conf","11-18, 6-10 Conf",79,74,NULL,NULL,Final,NULL,33,46,NULL,30,44,NULL,NCAAB
-323150160,2012,"Sat, Nov 10",New Hampshire Wildcats,Suffolk University Rams,"1-0, 1-0 Home",,91,51,NULL,NULL,Final,NULL,54,37,NULL,23,28,NULL,NCAAB
-323222803,2012,"Sat, Nov 17",Bryant Bulldogs,New Hampshire Wildcats,"1-2, 1-0 Home","2-1, 1-1 Away",76,64,NULL,NULL,Final,NULL,43,33,NULL,34,30,NULL,NCAAB
-323290107,2012,"Sat, Nov 24",Holy Cross Crusaders,New Hampshire Wildcats,"4-2, 2-0 Home","2-3, 1-3 Away",60,50,NULL,NULL,Final,NULL,33,27,NULL,23,27,NULL,NCAAB
-323360160,2012,"Sat, Dec 1",New Hampshire Wildcats,Brown Bears,"3-4, 2-0 Home","3-4, 2-2 Away",63,50,NULL,NULL,Final,NULL,34,29,NULL,31,19,NULL,NCAAB
-323430160,2012,"Sat, Dec 8",New Hampshire Wildcats,Yale Bulldogs,"4-5, 3-1 Home","3-7, 1-4 Away",64,56,NULL,NULL,Final,NULL,28,36,NULL,21,35,NULL,NCAAB
-323580213,2012,"Sun, Dec 23",Penn State Nittany Lions,New Hampshire Wildcats,"7-4, 6-1 Home","4-7, 1-6 Away",72,45,NULL,NULL,Final,BTN,39,33,NULL,14,31,NULL,NCAAB
-330020160,2012,"Wed, Jan 2",New Hampshire Wildcats,Vermont Catamounts,"4-9, 0-1 Conf","8-5, 1-0 Conf",51,64,NULL,NULL,Final,NULL,24,27,NULL,33,31,NULL,NCAAB
-330092378,2012,"Wed, Jan 9",UMBC Retrievers,New Hampshire Wildcats,"3-13, 1-2 Conf","4-11, 0-3 Conf",68,57,NULL,NULL,Final,NULL,33,35,NULL,29,28,NULL,NCAAB
-330190160,2012,"Sat, Jan 19",New Hampshire Wildcats,Boston Univ. Terriers,"4-13, 0-5 Conf","9-10, 3-3 Conf",59,69,NULL,NULL,Final,NULL,24,35,NULL,31,38,NULL,NCAAB
-330262066,2012,"Sat, Jan 26",Binghamton Bearcats,New Hampshire Wildcats,"3-17, 1-6 Conf","5-14, 1-6 Conf",45,63,NULL,NULL,Final,NULL,19,26,NULL,33,30,NULL,NCAAB
-330330160,2012,"Sat, Feb 2",New Hampshire Wildcats,Stony Brook Seawolves,"6-15, 2-7 Conf","17-5, 8-1 Conf",54,56,NULL,NULL,Final,NULL,27,27,NULL,25,31,NULL,NCAAB
-330440160,2012,"Wed, Feb 13",New Hampshire Wildcats,UMBC Retrievers,"7-16, 3-8 Conf","6-19, 4-8 Conf",92,86,NULL,NULL,Final/OT,NULL,33,41,18,43,31,12,NCAAB
-330510042,2012,"Wed, Feb 20",Hartford Hawks,New Hampshire Wildcats,"15-12, 8-6 Conf","7-18, 3-10 Conf",49,44,NULL,NULL,Final,NULL,18,31,NULL,12,32,NULL,NCAAB
-330590399,2012,"Thu, Feb 28",Albany Great Danes,New Hampshire Wildcats,"21-9, 9-6 Conf","8-19, 4-11 Conf",56,49,NULL,NULL,Final,NULL,21,35,NULL,25,24,NULL,NCAAB
-330680261,2012,"Sat, Mar 9",Vermont Catamounts,New Hampshire Wildcats,"20-10, 11-5 Conf","9-20, 5-11 Conf",61,42,NULL,NULL,Final,ESPN3,20,41,NULL,26,16,NULL,NCAAB
+323180159,2012,"November 13, 2012",Dartmouth Big Green,New Hampshire Wildcats,"1-1, 1-1 Home","2-0, 1-0 Away",58,72,,,Final,,26,32,,29,43,,NCAAB
+323262885,2012,"November 21, 2012",NJIT Highlanders,New Hampshire Wildcats,"2-2, 2-0 Home","2-2, 1-2 Away",69,67,,,Final,,29,40,,35,32,,NCAAB
+323340041,2012,"November 29, 2012",UConn Huskies,New Hampshire Wildcats,"6-1, 3-0 Home","2-4, 1-4 Away",61,53,,,Final,ESPN3,25,36,,18,35,,NCAAB
+323400160,2012,"December 05, 2012",New Hampshire Wildcats,Central Connecticut Blue Devils,"3-5, 2-1 Home","4-3, 3-2 Away",84,87,,,Final,,41,43,,35,52,,NCAAB
+323510103,2012,"December 16, 2012",Boston College Eagles,New Hampshire Wildcats,"5-5, 4-2 Home","4-6, 1-5 Away",61,59,,,Final/OT,ESPN3,23,29,9.0,31,21,7.0,NCAAB
+323652142,2012,"December 30, 2012",Colgate Raiders,New Hampshire Wildcats,"5-9, 3-1 Home","4-8, 1-7 Away",65,63,,,Final,,35,30,,29,34,,NCAAB
+330052619,2012,"January 05, 2013",Stony Brook Seawolves,New Hampshire Wildcats,"10-4, 1-0 Conf","4-10, 0-2 Conf",65,49,,,Final,,32,33,,22,27,,NCAAB
+330160160,2012,"January 16, 2013",New Hampshire Wildcats,Albany Great Danes,"4-12, 0-4 Conf","15-4, 4-1 Conf",62,68,,,Final,,16,46,,30,38,,NCAAB
+330240160,2012,"January 24, 2013",New Hampshire Wildcats,Hartford Hawks,"4-14, 0-6 Conf","11-9, 4-3 Conf",40,51,,,Final,ESPN3,19,21,,19,32,,NCAAB
+330300311,2012,"January 30, 2013",Maine Black Bears,New Hampshire Wildcats,"8-13, 3-5 Conf","6-14, 2-6 Conf",54,57,,,Final,,22,32,,35,22,,NCAAB
+330370261,2012,"February 06, 2013",Vermont Catamounts,New Hampshire Wildcats,"15-7, 8-2 Conf","6-16, 2-8 Conf",63,48,,,Final,,34,29,,16,32,,NCAAB
+330480104,2012,"February 17, 2013",Boston Univ. Terriers,New Hampshire Wildcats,"15-11, 9-4 Conf","7-17, 3-9 Conf",68,56,,,Final,,34,34,,17,39,,NCAAB
+330540160,2012,"February 23, 2013",New Hampshire Wildcats,Binghamton Bearcats,"8-18, 4-10 Conf","3-24, 1-13 Conf",68,56,,,Final,,26,42,,34,22,,NCAAB
+330620160,2012,"March 03, 2013",New Hampshire Wildcats,Maine Black Bears,"9-19, 5-11 Conf","11-18, 6-10 Conf",79,74,,,Final,,33,46,,30,44,,NCAAB
+323150160,2012,"November 10, 2012",New Hampshire Wildcats,Suffolk University Rams,"1-0, 1-0 Home",,91,51,,,Final,,54,37,,23,28,,NCAAB
+323222803,2012,"November 17, 2012",Bryant Bulldogs,New Hampshire Wildcats,"1-2, 1-0 Home","2-1, 1-1 Away",76,64,,,Final,,43,33,,34,30,,NCAAB
+323290107,2012,"November 24, 2012",Holy Cross Crusaders,New Hampshire Wildcats,"4-2, 2-0 Home","2-3, 1-3 Away",60,50,,,Final,,33,27,,23,27,,NCAAB
+323360160,2012,"December 01, 2012",New Hampshire Wildcats,Brown Bears,"3-4, 2-0 Home","3-4, 2-2 Away",63,50,,,Final,,34,29,,31,19,,NCAAB
+323430160,2012,"December 08, 2012",New Hampshire Wildcats,Yale Bulldogs,"4-5, 3-1 Home","3-7, 1-4 Away",64,56,,,Final,,28,36,,21,35,,NCAAB
+323580213,2012,"December 23, 2012",Penn State Nittany Lions,New Hampshire Wildcats,"7-4, 6-1 Home","4-7, 1-6 Away",72,45,,,Final,BTN,39,33,,14,31,,NCAAB
+330020160,2012,"January 02, 2013",New Hampshire Wildcats,Vermont Catamounts,"4-9, 0-1 Conf","8-5, 1-0 Conf",51,64,,,Final,,24,27,,33,31,,NCAAB
+330092378,2012,"January 09, 2013",UMBC Retrievers,New Hampshire Wildcats,"3-13, 1-2 Conf","4-11, 0-3 Conf",68,57,,,Final,,33,35,,29,28,,NCAAB
+330190160,2012,"January 19, 2013",New Hampshire Wildcats,Boston Univ. Terriers,"4-13, 0-5 Conf","9-10, 3-3 Conf",59,69,,,Final,,24,35,,31,38,,NCAAB
+330262066,2012,"January 26, 2013",Binghamton Bearcats,New Hampshire Wildcats,"3-17, 1-6 Conf","5-14, 1-6 Conf",45,63,,,Final,,19,26,,33,30,,NCAAB
+330330160,2012,"February 02, 2013",New Hampshire Wildcats,Stony Brook Seawolves,"6-15, 2-7 Conf","17-5, 8-1 Conf",54,56,,,Final,,27,27,,25,31,,NCAAB
+330440160,2012,"February 13, 2013",New Hampshire Wildcats,UMBC Retrievers,"7-16, 3-8 Conf","6-19, 4-8 Conf",92,86,,,Final/OT,,33,41,18.0,43,31,12.0,NCAAB
+330510042,2012,"February 20, 2013",Hartford Hawks,New Hampshire Wildcats,"15-12, 8-6 Conf","7-18, 3-10 Conf",49,44,,,Final,,18,31,,12,32,,NCAAB
+330590399,2012,"February 28, 2013",Albany Great Danes,New Hampshire Wildcats,"21-9, 9-6 Conf","8-19, 4-11 Conf",56,49,,,Final,,21,35,,25,24,,NCAAB
+330680261,2012,"March 09, 2013",Vermont Catamounts,New Hampshire Wildcats,"20-10, 11-5 Conf","9-20, 5-11 Conf",61,42,,,Final,ESPN3,20,41,,26,16,,NCAAB

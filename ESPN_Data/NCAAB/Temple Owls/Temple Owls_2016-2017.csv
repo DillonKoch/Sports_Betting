@@ -1,33 +1,33 @@
 ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,H1H,H2H,HOT,A1H,A2H,AOT,League
-400916476,2016,"Mon, Nov 14",Temple Owls,New Hampshire Wildcats,"1-1, 1-1 Home","2-0, 1-0 Away",52,57,NULL,NULL,Final,ESPN3,24,28,NULL,30,27,NULL,NCAAB
-400916493,2016,"Sun, Nov 20",Temple Owls,Manhattan Jaspers,"2-2, 2-1 Home","1-3, 0-2 Away",88,67,NULL,NULL,Final,ESPN3,39,49,NULL,20,47,NULL,NCAAB
-400926741,2016,"Fri, Nov 25",West Virginia Mountaineers,Temple Owls,4-1,4-2,77,81,NULL,NULL,Final,ESPN2,25,52,NULL,45,36,NULL,NCAAB
-400916518,2016,"Sat, Dec 3",Temple Owls,Pennsylvania Quakers,"6-2, 3-1 Home","2-4, 2-3 Away",70,62,NULL,NULL,Final,ESPN3,31,39,NULL,22,40,NULL,NCAAB
-400916526,2016,"Sat, Dec 10",DePaul Blue Demons,Temple Owls,5-3,7-3,65,74,NULL,NULL,Final,ESPNU,23,42,NULL,40,34,NULL,NCAAB
-400916542,2016,"Sat, Dec 17",Temple Owls,NJIT Highlanders,"8-4, 4-2 Home","5-8, 1-7 Away",68,63,NULL,NULL,Final,ESPN3,31,37,NULL,30,33,NULL,NCAAB
-400916560,2016,"Wed, Dec 28",Temple Owls,Cincinnati Bearcats,"9-5, 0-1 Conf","11-2, 1-0 Conf",50,56,NULL,NULL,Final,ESPNU,26,24,NULL,26,30,NULL,NCAAB
-400916569,2016,"Wed, Jan 4",SMU Mustangs,Temple Owls,"13-3, 3-0 Conf","9-7, 0-3 Conf",79,65,NULL,NULL,Final,CBSSN,40,39,NULL,22,43,NULL,NCAAB
-400916579,2016,"Wed, Jan 11",UConn Huskies,Temple Owls,"7-9, 2-3 Conf","10-8, 1-4 Conf",73,59,NULL,NULL,Final,CBSSN,39,34,NULL,28,31,NULL,NCAAB
-400916589,2016,"Wed, Jan 18",Cincinnati Bearcats,Temple Owls,"16-2, 6-0 Conf","10-10, 1-6 Conf",81,74,NULL,NULL,Final,CBSSN,26,55,NULL,28,46,NULL,NCAAB
-400916606,2016,"Sat, Jan 28",Houston Cougars,Temple Owls,"15-7, 6-4 Conf","11-11, 2-7 Conf",79,66,NULL,NULL,Final,ESPNU,43,36,NULL,33,33,NULL,NCAAB
-400916617,2016,"Sun, Feb 5",Temple Owls,South Florida Bulls,"13-11, 4-7 Conf","6-16, 0-11 Conf",83,74,NULL,NULL,Final,NULL,46,37,NULL,23,51,NULL,NCAAB
-400916627,2016,"Sun, Feb 12",Memphis Tigers,Temple Owls,"18-8, 8-5 Conf","14-12, 5-8 Conf",62,74,NULL,NULL,Final,CBSSN,25,37,NULL,39,35,NULL,NCAAB
-400916637,2016,"Sun, Feb 19",Temple Owls,UConn Huskies,"14-14, 5-10 Conf","14-12, 9-5 Conf",63,64,NULL,NULL,Final,ESPN,35,28,NULL,29,35,NULL,NCAAB
-400916644,2016,"Sat, Feb 25",Temple Owls,Tulane Green Wave,"15-15, 6-11 Conf","5-23, 2-14 Conf",86,76,NULL,NULL,Final/2OT,ESPNU,35,30,21,28,37,11,NCAAB
-400916469,2016,"Fri, Nov 11",Temple Owls,La Salle Explorers,"1-0, 1-0 Home","0-1, 0-1 Away",97,92,NULL,NULL,Final/OT,ESPNN,42,39,16,39,42,11,NCAAB
-400916486,2016,"Thu, Nov 17",Massachusetts Minutemen,Temple Owls,"2-1, 2-0 Home","1-2, 0-1 Away",70,67,NULL,NULL,Final,NULL,33,37,NULL,34,33,NULL,NCAAB
-400915264,2016,"Thu, Nov 24",Florida State Seminoles,Temple Owls,4-1,3-2,86,89,NULL,NULL,Final,ESPNU,41,45,NULL,31,58,NULL,NCAAB
-400916510,2016,"Wed, Nov 30",Saint Joseph's Hawks,Temple Owls,"3-3, 2-1 Home","5-2, 1-1 Away",72,78,NULL,NULL,Final,CBSSN,31,41,NULL,34,44,NULL,NCAAB
-400916524,2016,"Wed, Dec 7",Temple Owls,George Washington Colonials,"6-3, 3-2 Home","6-4, 2-0 Away",63,66,NULL,NULL,Final,CBSSN,25,38,NULL,31,35,NULL,NCAAB
-400916534,2016,"Tue, Dec 13",Villanova Wildcats,Temple Owls,"11-0, 4-0 Home","7-4, 1-2 Away",78,57,NULL,NULL,Final,FS1,29,49,NULL,16,41,NULL,NCAAB
-400916555,2016,"Thu, Dec 22",Temple Owls,Yale Bulldogs,"9-4, 5-2 Home","6-5, 2-5 Away",83,77,NULL,NULL,Final,ESPNU,35,48,NULL,28,49,NULL,NCAAB
-400916565,2016,"Sat, Dec 31",UCF Knights,Temple Owls,"11-3, 2-0 Conf","9-6, 0-2 Conf",77,53,NULL,NULL,Final,ESPNU,38,39,NULL,11,42,NULL,NCAAB
-400916571,2016,"Sat, Jan 7",Temple Owls,East Carolina Pirates,"10-7, 1-3 Conf","9-8, 1-3 Conf",81,62,NULL,NULL,Final,ESPN3,40,41,NULL,34,28,NULL,NCAAB
-400916582,2016,"Sat, Jan 14",Temple Owls,Tulsa Golden Hurricane,"10-9, 1-5 Conf","9-7, 3-1 Conf",68,70,NULL,NULL,Final,ESPNN,34,34,NULL,37,33,NULL,NCAAB
-400916598,2016,"Wed, Jan 25",Temple Owls,Memphis Tigers,"11-10, 2-6 Conf","15-6, 5-3 Conf",77,66,NULL,NULL,Final,CBSSN,30,47,NULL,30,36,NULL,NCAAB
-400916608,2016,"Tue, Jan 31",Tulane Green Wave,Temple Owls,"4-18, 1-9 Conf","12-11, 3-7 Conf",71,79,NULL,NULL,Final,ESPNN,34,37,NULL,34,45,NULL,NCAAB
-400916622,2016,"Thu, Feb 9",Temple Owls,SMU Mustangs,"13-12, 4-8 Conf","21-4, 11-1 Conf",50,66,NULL,NULL,Final,ESPN2,18,32,NULL,28,38,NULL,NCAAB
-400916629,2016,"Wed, Feb 15",East Carolina Pirates,Temple Owls,"12-14, 4-9 Conf","14-13, 5-9 Conf",78,64,NULL,NULL,Final,ESPNN,37,41,NULL,38,26,NULL,NCAAB
-400916639,2016,"Wed, Feb 22",Temple Owls,UCF Knights,"14-15, 5-11 Conf","18-10, 9-7 Conf",69,71,NULL,NULL,Final,ESPNU,33,36,NULL,24,47,NULL,NCAAB
-400916655,2016,"Sun, Mar 5",South Florida Bulls,Temple Owls,"7-22, 1-17 Conf","16-15, 7-11 Conf",60,72,NULL,NULL,Final,ESPNU,26,34,NULL,35,37,NULL,NCAAB
-400945706,2016,"Thu, Mar 9",Temple Owls,East Carolina Pirates,"16-16, 7-11 Conf","15-17, 6-12 Conf",69,80,NULL,NULL,Final,ESPNU,29,40,NULL,36,44,NULL,NCAAB
+400916476,2016,"November 14, 2016",Temple Owls,New Hampshire Wildcats,"1-1, 1-1 Home","2-0, 1-0 Away",52,57,,,Final,ESPN3,24,28,,30,27,,NCAAB
+400916493,2016,"November 20, 2016",Temple Owls,Manhattan Jaspers,"2-2, 2-1 Home","1-3, 0-2 Away",88,67,,,Final,ESPN3,39,49,,20,47,,NCAAB
+400926741,2016,"November 25, 2016",West Virginia Mountaineers,Temple Owls,4-1,4-2,77,81,,,Final,ESPN2,25,52,,45,36,,NCAAB
+400916518,2016,"December 03, 2016",Temple Owls,Pennsylvania Quakers,"6-2, 3-1 Home","2-4, 2-3 Away",70,62,,,Final,ESPN3,31,39,,22,40,,NCAAB
+400916526,2016,"December 10, 2016",DePaul Blue Demons,Temple Owls,5-3,7-3,65,74,,,Final,ESPNU,23,42,,40,34,,NCAAB
+400916542,2016,"December 17, 2016",Temple Owls,NJIT Highlanders,"8-4, 4-2 Home","5-8, 1-7 Away",68,63,,,Final,ESPN3,31,37,,30,33,,NCAAB
+400916560,2016,"December 28, 2016",Temple Owls,Cincinnati Bearcats,"9-5, 0-1 Conf","11-2, 1-0 Conf",50,56,,,Final,ESPNU,26,24,,26,30,,NCAAB
+400916569,2016,"January 04, 2017",SMU Mustangs,Temple Owls,"13-3, 3-0 Conf","9-7, 0-3 Conf",79,65,,,Final,CBSSN,40,39,,22,43,,NCAAB
+400916579,2016,"January 11, 2017",UConn Huskies,Temple Owls,"7-9, 2-3 Conf","10-8, 1-4 Conf",73,59,,,Final,CBSSN,39,34,,28,31,,NCAAB
+400916589,2016,"January 18, 2017",Cincinnati Bearcats,Temple Owls,"16-2, 6-0 Conf","10-10, 1-6 Conf",81,74,,,Final,CBSSN,26,55,,28,46,,NCAAB
+400916606,2016,"January 28, 2017",Houston Cougars,Temple Owls,"15-7, 6-4 Conf","11-11, 2-7 Conf",79,66,,,Final,ESPNU,43,36,,33,33,,NCAAB
+400916617,2016,"February 05, 2017",Temple Owls,South Florida Bulls,"13-11, 4-7 Conf","6-16, 0-11 Conf",83,74,,,Final,,46,37,,23,51,,NCAAB
+400916627,2016,"February 12, 2017",Memphis Tigers,Temple Owls,"18-8, 8-5 Conf","14-12, 5-8 Conf",62,74,,,Final,CBSSN,25,37,,39,35,,NCAAB
+400916637,2016,"February 19, 2017",Temple Owls,UConn Huskies,"14-14, 5-10 Conf","14-12, 9-5 Conf",63,64,,,Final,ESPN,35,28,,29,35,,NCAAB
+400916644,2016,"February 25, 2017",Temple Owls,Tulane Green Wave,"15-15, 6-11 Conf","5-23, 2-14 Conf",86,76,,,Final/2OT,ESPNU,35,30,21.0,28,37,11.0,NCAAB
+400916469,2016,"November 11, 2016",Temple Owls,La Salle Explorers,"1-0, 1-0 Home","0-1, 0-1 Away",97,92,,,Final/OT,ESPNN,42,39,16.0,39,42,11.0,NCAAB
+400916486,2016,"November 17, 2016",Massachusetts Minutemen,Temple Owls,"2-1, 2-0 Home","1-2, 0-1 Away",70,67,,,Final,,33,37,,34,33,,NCAAB
+400915264,2016,"November 24, 2016",Florida State Seminoles,Temple Owls,4-1,3-2,86,89,,,Final,ESPNU,41,45,,31,58,,NCAAB
+400916510,2016,"November 30, 2016",Saint Joseph's Hawks,Temple Owls,"3-3, 2-1 Home","5-2, 1-1 Away",72,78,,,Final,CBSSN,31,41,,34,44,,NCAAB
+400916524,2016,"December 07, 2016",Temple Owls,George Washington Colonials,"6-3, 3-2 Home","6-4, 2-0 Away",63,66,,,Final,CBSSN,25,38,,31,35,,NCAAB
+400916534,2016,"December 13, 2016",Villanova Wildcats,Temple Owls,"11-0, 4-0 Home","7-4, 1-2 Away",78,57,,,Final,FS1,29,49,,16,41,,NCAAB
+400916555,2016,"December 22, 2016",Temple Owls,Yale Bulldogs,"9-4, 5-2 Home","6-5, 2-5 Away",83,77,,,Final,ESPNU,35,48,,28,49,,NCAAB
+400916565,2016,"December 31, 2016",UCF Knights,Temple Owls,"11-3, 2-0 Conf","9-6, 0-2 Conf",77,53,,,Final,ESPNU,38,39,,11,42,,NCAAB
+400916571,2016,"January 07, 2017",Temple Owls,East Carolina Pirates,"10-7, 1-3 Conf","9-8, 1-3 Conf",81,62,,,Final,ESPN3,40,41,,34,28,,NCAAB
+400916582,2016,"January 14, 2017",Temple Owls,Tulsa Golden Hurricane,"10-9, 1-5 Conf","9-7, 3-1 Conf",68,70,,,Final,ESPNN,34,34,,37,33,,NCAAB
+400916598,2016,"January 25, 2017",Temple Owls,Memphis Tigers,"11-10, 2-6 Conf","15-6, 5-3 Conf",77,66,,,Final,CBSSN,30,47,,30,36,,NCAAB
+400916608,2016,"January 31, 2017",Tulane Green Wave,Temple Owls,"4-18, 1-9 Conf","12-11, 3-7 Conf",71,79,,,Final,ESPNN,34,37,,34,45,,NCAAB
+400916622,2016,"February 09, 2017",Temple Owls,SMU Mustangs,"13-12, 4-8 Conf","21-4, 11-1 Conf",50,66,,,Final,ESPN2,18,32,,28,38,,NCAAB
+400916629,2016,"February 15, 2017",East Carolina Pirates,Temple Owls,"12-14, 4-9 Conf","14-13, 5-9 Conf",78,64,,,Final,ESPNN,37,41,,38,26,,NCAAB
+400916639,2016,"February 22, 2017",Temple Owls,UCF Knights,"14-15, 5-11 Conf","18-10, 9-7 Conf",69,71,,,Final,ESPNU,33,36,,24,47,,NCAAB
+400916655,2016,"March 05, 2017",South Florida Bulls,Temple Owls,"7-22, 1-17 Conf","16-15, 7-11 Conf",60,72,,,Final,ESPNU,26,34,,35,37,,NCAAB
+400945706,2016,"March 09, 2017",Temple Owls,East Carolina Pirates,"16-16, 7-11 Conf","15-17, 6-12 Conf",69,80,,,Final,ESPNU,29,40,,36,44,,NCAAB
