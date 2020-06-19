@@ -4,7 +4,7 @@
 # File Created: Tuesday, 7th April 2020 7:34:33 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Saturday, 23rd May 2020 4:17:33 pm
+# Last Modified: Friday, 19th June 2020 8:53:51 am
 # Modified By: Dillon Koch
 # -----
 #
@@ -24,7 +24,7 @@ if ROOT_PATH not in sys.path:
     sys.path.append(ROOT_PATH)
 
 
-from Utility import get_sp1, null_if_error
+from Utility.Utility import get_sp1, null_if_error
 
 
 class Game:
@@ -59,7 +59,7 @@ class ESPN_Game_Scraper:
             "NHL": 'https://www.espn.com/nhl/game/_/gameId/'
         }
 
-    def _sp_helper(self, league, game_id, sp=False):
+    def _sp_helper(self, league, game_id, sp=False):  # Global Helper
         if not sp:
             sp = get_sp1(self.link_dict[league] + str(game_id))
             return sp
@@ -75,7 +75,7 @@ class ESPN_Game_Scraper:
     # ########### GAME INFO FUNCTIONS ####################
 
     @null_if_error(2)
-    def _team_names(self, league, game_id, sp=False):
+    def _team_names(self, league, game_id, sp=False):  # Global Helper
         sp = self._sp_helper(league, game_id, sp)
         locations = sp.find_all('span', attrs={'class': 'long-name'})
         away_loc = locations[0].get_text()
@@ -91,21 +91,21 @@ class ESPN_Game_Scraper:
         return home_full, away_full
 
     @null_if_error(2)
-    def _team_records(self, league, game_id, sp=False):
+    def _team_records(self, league, game_id, sp=False):  # Global Helper
         sp = self._sp_helper(league, game_id, sp)
         records = sp.find_all('div', attrs={'class': 'record'})
         away_record, home_record = [item.get_text() for item in records]
         return home_record, away_record
 
     @null_if_error(1)
-    def _final_status(self, league, game_id, sp=False):
+    def _final_status(self, league, game_id, sp=False):  # Global Helper
         sp = self._sp_helper(league, game_id, sp)
         status = sp.find_all('span', attrs={'class': 'game-time status-detail'})
         status = status[0].get_text()
         return status
 
     @null_if_error(2)
-    def _quarter_scores(self, league, game_id, sp=False):
+    def _quarter_scores(self, league, game_id, sp=False):  # Global Helper
         sp = self._sp_helper(league, game_id, sp)
         td_htmls = [item.get_text() for item in sp.find_all('td')]
 
@@ -130,7 +130,7 @@ class ESPN_Game_Scraper:
         return home_scores[:-1], away_scores[:-1]
 
     @null_if_error(2)
-    def _game_scores(self, league, game_id, sp=False):
+    def _game_scores(self, league, game_id, sp=False):  # Global Helper
         sp = self._sp_helper(league, game_id, sp)
         away_score = sp.find_all('div', attrs={'class': 'score icon-font-after'})
         away_score = away_score[0].get_text()
@@ -141,7 +141,7 @@ class ESPN_Game_Scraper:
         return home_score, away_score
 
     @null_if_error(2)
-    def _line_ou(self, league, game_id, sp=False):
+    def _line_ou(self, league, game_id, sp=False):  # Global Helper
         sp = self._sp_helper(league, game_id, sp)
         li_htmls = [item.get_text() for item in sp.find_all('li')]
 
@@ -161,7 +161,7 @@ class ESPN_Game_Scraper:
         return line, over_under
 
     @null_if_error(1)
-    def _game_network(self, league, game_id, sp=False):
+    def _game_network(self, league, game_id, sp=False):  # Global Helper
         sp = self._sp_helper(league, game_id, sp)
         network = sp.find_all('div', attrs={'class': 'game-network'})
         network = network[0].get_text()
@@ -170,7 +170,7 @@ class ESPN_Game_Scraper:
         return network
 
     @null_if_error(1)
-    def _game_date(self, league, game_id, sp=False):
+    def _game_date(self, league, game_id, sp=False):  # Global Helper
         sp = self._sp_helper(league, game_id, sp)
         str_sp = str(sp)
         reg_comp = re.compile(
@@ -180,7 +180,7 @@ class ESPN_Game_Scraper:
 
     # ############## LEAGUE SPECIFIC FUNCTIONS ################
 
-    def all_nfl_info(self, game_id, sp=False):
+    def all_nfl_info(self, game_id, sp=False):  # Run
         sp = self._sp_helper("NFL", game_id, sp)
         game = Game()
         game.ESPN_ID = game_id
@@ -195,7 +195,7 @@ class ESPN_Game_Scraper:
         game.league = "NFL"
         return game
 
-    def all_nba_info(self, game_id, sp=False):
+    def all_nba_info(self, game_id, sp=False):  # Run
         sp = self._sp_helper("NBA", game_id, sp)
         game = Game()
         game.ESPN_ID = game_id
@@ -206,10 +206,11 @@ class ESPN_Game_Scraper:
         game.home_score, game.away_score = self._game_scores("NBA", game_id, sp)
         game.network = self._game_network("NBA", game_id, sp)
         game.line, game.over_under = self._line_ou("NBA", game_id, sp)
+        game.game_date = self._game_date("NBA", game_id, sp)
         game.league = "NBA"
         return game
 
-    def all_ncaaf_info(self, game_id, sp=False):
+    def all_ncaaf_info(self, game_id, sp=False):  # Run
         sp = self._sp_helper("NCAAF", game_id, sp)
         game = Game()
         game.ESPN_ID = game_id
@@ -220,10 +221,11 @@ class ESPN_Game_Scraper:
         game.home_score, game.away_score = self._game_scores("NCAAF", game_id, sp)
         game.network = self._game_network("NCAAF", game_id, sp)
         game.line, game.over_under = self._line_ou("NCAAF", game_id, sp)
+        game.game_date = self._game_date("NCAAF", game_id, sp)
         game.league = "NCAAF"
         return game
 
-    def all_ncaab_info(self, game_id, sp=False):
+    def all_ncaab_info(self, game_id, sp=False):  # Run
         sp = self._sp_helper("NCAAB", game_id, sp)
         game = Game()
         game.ESPN_ID = game_id
@@ -234,10 +236,11 @@ class ESPN_Game_Scraper:
         game.home_score, game.away_score = self._game_scores("NCAAB", game_id, sp)
         game.network = self._game_network("NCAAB", game_id, sp)
         game.line, game.over_under = self._line_ou("NCAAB", game_id, sp)
+        game.game_date = self._game_date("NCAAB", game_id, sp)
         game.league = "NCAAB"
         return game
 
-    # ########### NHL ###############
+    # ########### NHL ###############  NOT USING THESE AT THE MOMENT
 
     def _hockey_team_names(self, game_id, sp=False):
         sp = self._sp_helper("NHL", game_id, sp)
@@ -274,7 +277,8 @@ class ESPN_Game_Scraper:
 
 if __name__ == "__main__":
     e = ESPN_Game_Scraper()
-    match = e._game_date("NFL", "401128044")
+    self = e
+    # match = e._game_date("NFL", "401128044")
 #     nflh, nfla = e._nfl_team_names("401128044")
 #     nflhr, nflar = e._nfl_records("401128044")
 #     status = e._nfl_final_status("401128044")

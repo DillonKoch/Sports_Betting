@@ -4,7 +4,7 @@
 # File Created: Friday, 10th April 2020 11:25:21 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Saturday, 9th May 2020 7:48:22 pm
+# Last Modified: Friday, 19th June 2020 8:54:49 am
 # Modified By: Dillon Koch
 # -----
 #
@@ -14,7 +14,15 @@
 # ==============================================================================
 from unittest import TestCase
 
-from espn_game_scraper import ESPN_Game_Scraper
+
+from os.path import abspath, dirname
+import sys
+
+ROOT_PATH = dirname(dirname(abspath(__file__)))
+if ROOT_PATH not in sys.path:
+    sys.path.append(ROOT_PATH)
+
+from ESPN_Scrapers.espn_game_scraper import ESPN_Game_Scraper
 
 
 class Test_ESPN_Game_Scraper(TestCase):

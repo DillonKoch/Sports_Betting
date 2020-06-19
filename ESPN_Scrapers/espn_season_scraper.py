@@ -1,3 +1,16 @@
+# ==============================================================================
+# File: espn_season_scraper.py
+# Project: ESPN_Scrapers
+# File Created: Saturday, 23rd May 2020 11:04:56 am
+# Author: Dillon Koch
+# -----
+# Last Modified: Thursday, 18th June 2020 8:52:30 pm
+# Modified By: Dillon Koch
+# -----
+#
+# -----
+# Scraping seasons from ESPN
+# ==============================================================================
 
 import json
 import os
@@ -15,8 +28,8 @@ ROOT_PATH = dirname(dirname(abspath(__file__)))
 if ROOT_PATH not in sys.path:
     sys.path.append(ROOT_PATH)
 
-from espn_game_scraper import ESPN_Game_Scraper
-from Utility import get_sp1, null_if_error
+from ESPN_Scrapers.espn_game_scraper import ESPN_Game_Scraper
+from Utility.Utility import get_sp1, null_if_error
 
 
 class ESPN_Season_Scraper:
@@ -24,7 +37,7 @@ class ESPN_Season_Scraper:
         self.league = league
         self.egs = ESPN_Game_Scraper()
         self.root_path = ROOT_PATH + '/'
-        self.data_path = self.root_path + 'Data/{}'.format(self.league)
+        self.data_path = self.root_path + 'ESPN_Data/{}'.format(self.league)
 
     @property
     def config(self):  # Property
@@ -126,7 +139,7 @@ class ESPN_Season_Scraper:
         return df
 
     def find_years_unscraped(self, team_abbrev):  # Top Level
-        path = "../Data/{}/{}/".format(self.league, team_abbrev)
+        path = self.root_path + "ESPN_Data/{}/{}/".format(self.league, team_abbrev)
         beginning_year = 1999 if self.league == "NCAAF" else 2002 if self.league == 'NCAAB' else 1993
         all_years = [str(item) for item in list(range(beginning_year, 2020, 1))]
         years_found = []
@@ -156,7 +169,7 @@ class ESPN_Season_Scraper:
             print("Scraping data for {} {}".format(name, year))
             df = self.scrape_season(team_abbrev, year)
             year1, year2 = self._get_years(year)
-            path = "../Data/{}/{}/{}_{}-{}.csv".format(self.league, name, name, year1, year2)
+            path = self.root_path + "ESPN_Data/{}/{}/{}_{}-{}.csv".format(self.league, name, name, year1, year2)
             df.to_csv(path, index=False)
 
     def scrape_all_leauge_history(self):  # Run
