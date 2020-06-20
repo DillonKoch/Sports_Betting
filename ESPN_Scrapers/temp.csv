@@ -1,36 +1,24 @@
-,ESPN ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,H1H,H2H,HOT,A1H,A2H,AOT,League
-0,401123398,2019,"Fri, Mar 22",Cincinnati Bearcats,Iowa Hawkeyes,28-7,23-11,72,79,CIN -4.5,138,Final,CBS,36,36,NULL,31,48,NULL,NCAAB
-1,401082392,2019,"Sun, Nov 11",Iowa Hawkeyes,Green Bay Phoenix,"2-0, 2-0 Home","1-2, 0-1 Away",93,82,IOWA -19.5,164,Final,NULL,47,46,NULL,46,36,NULL,NCAAB
-2,401096916,2019,"Fri, Nov 16",Iowa Hawkeyes,UConn Huskies,4-0,3-1,91,72,IOWA -4.0,156,Final,ESPN2,43,48,NULL,27,45,NULL,NCAAB
-3,401082395,2019,"Tue, Nov 27",Iowa Hawkeyes,Pittsburgh Panthers,"6-0, 4-0 Home","6-1, 0-1 Away",69,68,IOWA -10.5,158,Final,ESPNU,40,29,NULL,46,22,NULL,NCAAB
-4,401082397,2019,"Mon, Dec 3",Michigan State Spartans,Iowa Hawkeyes,"7-2, 2-0 Conf","6-2, 0-2 Conf",90,68,MSU -10.5,156,Final,FS1,43,47,NULL,33,35,NULL,NCAAB
-5,401082399,2019,"Sat, Dec 15",Northern Iowa Panthers,Iowa Hawkeyes,4-6,8-2,54,77,IOWA -10.5,148,Final,BTN,18,36,NULL,39,38,NULL,NCAAB
-6,401082401,2019,"Sat, Dec 22",Iowa Hawkeyes,Savannah St Tigers,"10-2, 7-1 Home","3-11, 0-10 Away",110,64,NULL,NULL,Final,NULL,58,52,NULL,28,36,NULL,NCAAB
-7,401082403,2019,"Thu, Jan 3",Purdue Boilermakers,Iowa Hawkeyes,"9-5, 2-1 Conf","11-3, 0-3 Conf",86,70,PUR -9.5,146,Final,BTN,52,34,NULL,35,35,NULL,NCAAB
-8,401082405,2019,"Wed, Jan 9",Northwestern Wildcats,Iowa Hawkeyes,"10-6, 1-4 Conf","13-3, 2-3 Conf",63,73,NW -3.5,145,Final,BTN,34,29,NULL,34,39,NULL,NCAAB
-9,401082407,2019,"Wed, Jan 16",Penn State Nittany Lions,Iowa Hawkeyes,"7-11, 0-7 Conf","15-3, 4-3 Conf",82,89,PSU -3.0,140,Final,BTN,45,37,NULL,40,49,NULL,NCAAB
-10,401082408,2019,"Thu, Jan 24",Iowa Hawkeyes,Michigan State Spartans,"16-4, 5-4 Conf","18-2, 9-0 Conf",67,82,MSU -4.5,157,Final,FS1,35,32,NULL,31,51,NULL,NCAAB
-11,401082410,2019,"Fri, Feb 1",Iowa Hawkeyes,Michigan Wolverines,"17-5, 6-5 Conf","20-2, 9-2 Conf",74,59,MICH -5.5,141,Final,FS1,42,32,NULL,29,30,NULL,NCAAB
-12,401082411,2019,"Sun, Feb 10",Iowa Hawkeyes,Northwestern Wildcats,"19-5, 8-5 Conf","12-11, 3-9 Conf",80,79,IOWA -11.0,145,Final,BTN,35,45,NULL,41,38,NULL,NCAAB
-13,401082413,2019,"Tue, Feb 19",Iowa Hawkeyes,Maryland Terrapins,"20-6, 9-6 Conf","20-7, 11-5 Conf",65,66,IOWA -2.5,147,Final,BTN,23,42,NULL,27,39,NULL,NCAAB
-14,401082414,2019,"Tue, Feb 26",Ohio State Buckeyes,Iowa Hawkeyes,"18-10, 8-9 Conf","21-7, 10-7 Conf",90,70,OSU -3.5,140,Final,BTN,36,54,NULL,33,37,NULL,NCAAB
-15,401082416,2019,"Thu, Mar 7",Wisconsin Badgers,Iowa Hawkeyes,"21-9, 13-6 Conf","21-9, 10-9 Conf",65,45,WIS -6.5,140,Final,ESPN,31,34,NULL,22,23,NULL,NCAAB
-16,401120732,2019,"Thu, Mar 14",Iowa Hawkeyes,Illinois Fighting Illini,"22-10, 10-10 Conf","12-21, 7-13 Conf",83,62,IOWA -4.5,156,Final,BTN,37,46,NULL,31,31,NULL,NCAAB
-17,401082391,2019,"Thu, Nov 8",Iowa Hawkeyes,Umkc Kangaroos,"1-0, 1-0 Home","0-2, 0-2 Away",77,63,NULL,NULL,Final,NULL,34,43,NULL,26,37,NULL,NCAAB
-18,401082393,2019,"Thu, Nov 15",Iowa Hawkeyes,Oregon Ducks,3-0,2-1,77,69,ORE -4.0,148,Final,ESPN2,39,38,NULL,28,41,NULL,NCAAB
-19,401082394,2019,"Wed, Nov 21",Iowa Hawkeyes,Alabama State Hornets,"5-0, 3-0 Home","2-3, 0-3 Away",105,78,NULL,NULL,Final,BTN,68,37,NULL,37,41,NULL,NCAAB
-20,401082396,2019,"Fri, Nov 30",Iowa Hawkeyes,Wisconsin Badgers,"6-1, 0-1 Conf","7-1, 1-0 Conf",66,72,WIS -2.0,142,Final,BTN,27,39,NULL,27,45,NULL,NCAAB
-21,401082398,2019,"Thu, Dec 6",Iowa Hawkeyes,Iowa State Cyclones,"7-2, 5-1 Home","7-2, 0-1 Away",98,84,ISU -2.0,152,Final,FS1,45,53,NULL,38,46,NULL,NCAAB
-22,401082400,2019,"Tue, Dec 18",Iowa Hawkeyes,Western Carolina Catamounts,"9-2, 6-1 Home","3-10, 1-7 Away",78,60,IOWA -23.5,NULL,Final,BTN,48,30,NULL,29,31,NULL,NCAAB
-23,401082402,2019,"Sat, Dec 29",Iowa Hawkeyes,Bryant Bulldogs,"11-2, 8-1 Home","3-8, 0-6 Away",72,67,NULL,NULL,Final,ESPNU,43,29,NULL,34,33,NULL,NCAAB
-24,401082404,2019,"Sun, Jan 6",Iowa Hawkeyes,Nebraska Cornhuskers,"12-3, 1-3 Conf","11-4, 1-3 Conf",93,84,NULL,NULL,Final,BTN,44,49,NULL,40,44,NULL,NCAAB
-25,401082406,2019,"Sat, Jan 12",Iowa Hawkeyes,Ohio State Buckeyes,"14-3, 3-3 Conf","12-4, 2-3 Conf",72,62,IOWA -2.5,148,Final,BTN,24,48,NULL,26,36,NULL,NCAAB
-26,401082348,2019,"Sun, Jan 20",Iowa Hawkeyes,Illinois Fighting Illini,"16-3, 5-3 Conf","5-13, 1-6 Conf",95,71,IOWA -9.5,160,Final,BTN,39,56,NULL,24,47,NULL,NCAAB
-27,401082409,2019,"Sun, Jan 27",Minnesota Golden Gophers,Iowa Hawkeyes,"15-5, 5-4 Conf","16-5, 5-5 Conf",92,87,EVEN,156,Final,FS1,55,37,NULL,46,41,NULL,NCAAB
-28,401082383,2019,"Thu, Feb 7",Indiana Hoosiers,Iowa Hawkeyes,"13-10, 4-8 Conf","18-5, 7-5 Conf",72,77,IND -2.0,147,Final,ESPN,36,36,NULL,46,31,NULL,NCAAB
-29,401082412,2019,"Sat, Feb 16",Rutgers Scarlet Knights,Iowa Hawkeyes,"12-13, 5-10 Conf","20-5, 9-5 Conf",69,71,IOWA -3.5,148,Final,FS1,33,36,NULL,32,39,NULL,NCAAB
-30,401082387,2019,"Fri, Feb 22",Iowa Hawkeyes,Indiana Hoosiers,"21-6, 10-6 Conf","13-14, 4-12 Conf",76,70,IOWA -7.5,145,Final/OT,FS1,28,35,13,28,35,7,NCAAB
-31,401082415,2019,"Sat, Mar 2",Iowa Hawkeyes,Rutgers Scarlet Knights,"21-8, 10-8 Conf","14-14, 7-11 Conf",72,86,IOWA -8.5,146,Final,BTN,30,42,NULL,39,47,NULL,NCAAB
-32,401082417,2019,"Sun, Mar 10",Nebraska Cornhuskers,Iowa Hawkeyes,"16-15, 6-14 Conf","21-10, 10-10 Conf",93,91,NEB -1.0,149,Final/OT,BTN,31,50,12,37,44,10,NCAAB
-33,401123423,2019,"Sun, Mar 24",Tennessee Volunteers,Iowa Hawkeyes,31-5,23-12,83,77,TENN -8.0,156,Final/OT,CBS,49,22,12,28,43,6,NCAAB
-34,401120736,2019,"Fri, Mar 15",Michigan Wolverines,Iowa Hawkeyes,"27-5, 15-5 Conf","22-11, 10-10 Conf",74,53,MICH -8.0,NULL,Final,BTN,40,34,NULL,27,26,NULL,NCAAB
+,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+0,400459786,2011,"April 23, 2013",Miami Heat,Milwaukee Bucks,"66-16, 37-4 Home","38-44, 17-24 Away",98,86,,,Final,NBATV,25,22,21,30,,23,20,22,21,,NBA
+1,400464357,2011,"May 8, 2013",Miami Heat,Chicago Bulls,"66-16, 37-4 Home","45-37, 21-20 Away",115,78,,,Final,TNT,25,30,30,30,,20,21,15,22,,NBA
+2,400464463,2011,"May 13, 2013",Chicago Bulls,Miami Heat,"45-37, 24-17 Home","66-16, 29-12 Away",65,88,,,Final,TNT,15,18,9,23,,21,23,17,27,,NBA
+3,400466595,2011,"May 24, 2013",Miami Heat,Indiana Pacers,"66-16, 37-4 Home","49-32, 19-21 Away",93,97,,,Final,TNT,22,25,27,19,,28,25,23,21,,NBA
+4,400466597,2011,"May 28, 2013",Indiana Pacers,Miami Heat,"49-32, 30-11 Home","66-16, 29-12 Away",99,92,,,Final,TNT,26,22,29,22,,22,25,23,22,,NBA
+5,400466599,2011,"June 1, 2013",Indiana Pacers,Miami Heat,"49-32, 30-11 Home","66-16, 29-12 Away",91,77,,,Final,TNT,21,18,29,23,,23,17,15,22,,NBA
+6,400467334,2011,"June 9, 2013",Miami Heat,San Antonio Spurs,"66-16, 37-4 Home","58-24, 23-18 Away",103,84,,,Final,ABC,22,28,25,28,,22,23,20,19,,NBA
+7,400467336,2011,"June 13, 2013",San Antonio Spurs,Miami Heat,"58-24, 35-6 Home","66-16, 29-12 Away",93,109,,,Final,ABC,26,23,27,17,,29,20,32,28,,NBA
+8,400467338,2011,"June 18, 2013",Miami Heat,San Antonio Spurs,"66-16, 37-4 Home","58-24, 23-18 Away",103,100,,,Final/OT,ABC,27,17,21,30,8,25,25,25,20,5,NBA
+9,400459775,2011,"April 21, 2013",Miami Heat,Milwaukee Bucks,"66-16, 37-4 Home","38-44, 17-24 Away",110,87,,,Final,TNT,26,26,28,30,,24,21,20,22,,NBA
+10,400459793,2011,"April 25, 2013",Milwaukee Bucks,Miami Heat,"38-44, 21-20 Home","66-16, 29-12 Away",91,104,,,Final,TNT,30,20,18,23,,21,27,30,26,,NBA
+11,400464356,2011,"May 6, 2013",Miami Heat,Chicago Bulls,"66-16, 37-4 Home","45-37, 21-20 Away",86,93,,,Final,TNT,15,22,25,24,,21,16,21,35,,NBA
+12,400464359,2011,"May 10, 2013",Chicago Bulls,Miami Heat,"45-37, 24-17 Home","66-16, 29-12 Away",94,104,,,Final,ESPN,25,25,20,24,,25,27,18,34,,NBA
+13,400466594,2011,"May 22, 2013",Miami Heat,Indiana Pacers,"66-16, 37-4 Home","49-32, 19-21 Away",103,102,,,Final/OT,TNT,22,15,27,28,11,21,21,23,27,10,NBA
+14,400466596,2011,"May 26, 2013",Indiana Pacers,Miami Heat,"49-32, 30-11 Home","66-16, 29-12 Away",96,114,,,Final,TNT,30,26,20,20,,34,36,21,23,,NBA
+15,400466598,2011,"May 30, 2013",Miami Heat,Indiana Pacers,"66-16, 37-4 Home","49-32, 19-21 Away",90,79,,,Final,TNT,19,21,30,20,,23,21,13,22,,NBA
+16,400467195,2011,"June 6, 2013",Miami Heat,San Antonio Spurs,"66-16, 37-4 Home","58-24, 23-18 Away",88,92,,,Final,ABC,24,28,20,16,,23,26,20,23,,NBA
+17,400467335,2011,"June 11, 2013",San Antonio Spurs,Miami Heat,"58-24, 35-6 Home","66-16, 29-12 Away",113,77,,,Final,ABC,24,26,28,35,,20,24,19,14,,NBA
+18,400467337,2011,"June 16, 2013",San Antonio Spurs,Miami Heat,"58-24, 35-6 Home","66-16, 29-12 Away",114,104,,,Final,ABC,32,29,26,27,,19,33,23,29,,NBA
+19,400459955,2011,"April 28, 2013",Milwaukee Bucks,Miami Heat,"38-44, 21-20 Home","66-16, 29-12 Away",77,88,,,Final,ABC,17,24,21,15,,24,21,22,21,,NBA
+20,400464464,2011,"May 15, 2013",Miami Heat,Chicago Bulls,"66-16, 37-4 Home","45-37, 21-20 Away",94,91,,,Final,TNT,30,17,22,25,,21,32,24,14,,NBA
+21,400466600,2011,"June 3, 2013",Miami Heat,Indiana Pacers,"66-16, 37-4 Home","49-32, 19-21 Away",99,76,,,Final,TNT,19,33,24,23,,21,16,18,21,,NBA
+22,400467339,2011,"June 20, 2013",Miami Heat,San Antonio Spurs,"66-16, 37-4 Home","58-24, 23-18 Away",95,88,,,Final,ABC,18,28,26,23,,16,28,27,17,,NBA

@@ -4,7 +4,7 @@
 # File Created: Saturday, 23rd May 2020 11:04:56 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Friday, 19th June 2020 4:27:16 pm
+# Last Modified: Saturday, 20th June 2020 11:34:55 am
 # Modified By: Dillon Koch
 # -----
 #
@@ -148,12 +148,35 @@ class ESPN_Season_Scraper:
             time.sleep(5)
         return df
 
-    def scrape_playoffs(self, team_abbrev, team_name, year):  # Run
+    def _find_unscraped_playoff_years(self, team):  # Specific Helper scrape_nba_playoffs
+        team_csvs = os.listdir(ROOT_PATH + "/ESPN_Data/NBA/{}/".format(team))
+        playoff_csvs = [item for item in team_csvs if '.csv' in item and "playoff" in item]
+        playoff_csv_years = [item[-8:-4] for item in playoff_csvs]
+        all_years = [str(item) for item in list(range(1993, 2021, 1))]
+        unscraped_years = [item for item in all_years if item not in playoff_csv_years]
+        return unscraped_years
+
+    def scrape_nba_playoffs(self):  # Run
         """
         ONLY USED FOR NBA SINCE THEIR PLAYOFF GAMES ARE ON A SEPARATE PAGE
         """
-        df_path = ROOT_PATH + "/ESPN_Data/NBA/{}/"
-        df = pd.read_csv(df_path)
+        teams = [item[0] for item in self.config["Teams"]]
+        team_abbrevs = [item[1] for item in self.config["Teams"]]
+        all_years = [str(item) for item in list(range(1993, 2021, 1))]
+
+        for team, abrev in zip(teams, team_abbrevs):
+            unscraped_years = self._find_unscraped_playoff_years(team)
+            years = [item for item in all_years if item in unscraped_years]
+            for year in years:
+                try:
+                    print("Scraping {} {} playoffs data...".format(team, year))
+                    df = self.scrape_season(abrev, year, 3)
+                    year1, year2 = self._get_years(year)
+                    df.to_csv(ROOT_PATH + "/ESPN_Data/NBA/{}/{}_playoffs_{}-{}.csv".format(team, team, year1, year2))
+                except Exception as e:
+                    print(e)
+                    print("Error scraping {} {} playoffs data, moving on...".format(team, year))
+                    time.sleep(30)
 
     def find_years_unscraped(self, team_name):  # Top Level
         path = self.root_path + "ESPN_Data/{}/{}/".format(self.league, team_name)
@@ -162,10 +185,11 @@ class ESPN_Season_Scraper:
         years_found = []
         year_comp = re.compile(r"(\d{4}).csv")
         for filename in os.listdir(path):
-            match = re.search(year_comp, filename)
-            if match:
-                year = match.group(1)
-                years_found.append(year)
+            if "playoff" not in filename:
+                match = re.search(year_comp, filename)
+                if match:
+                    year = match.group(1)
+                    years_found.append(year)
         return [item for item in all_years if item not in years_found]
 
     def _get_years(self, year):  # Specific Helper scrape_team_history
@@ -212,4 +236,5 @@ if __name__ == "__main__":
     # season_type = 2
     # name = "Atlanta Hawks"
     x = ESPN_Season_Scraper("NBA")
+    # x.scrape_nba_playoffs()
     x.scrape_all_leauge_history()
