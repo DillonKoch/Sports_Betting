@@ -1,0 +1,66 @@
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+401160662,2019,"October 25, 2019",Memphis Grizzlies,Chicago Bulls,"0-2, 0-1 Home","1-1, 1-1 Away",102,110,CHI -2.0,224,Final,NULL,29,31,21,21,,25,22,32,31,,NBA
+401160684,2019,"October 28, 2019",New York Knicks,Chicago Bulls,"1-3, 1-1 Home","1-3, 1-2 Away",105,98,CHI -2.0,224,Final,NULL,15,27,30,33,,33,19,28,18,,NBA
+401160715,2019,"November 1, 2019",Chicago Bulls,Detroit Pistons,"2-4, 1-1 Home","2-4, 1-2 Away",112,106,CHI -4.0,216,Final,NULL,30,27,29,26,,23,29,28,26,,NBA
+401160742,2019,"November 5, 2019",Chicago Bulls,Los Angeles Lakers,"2-6, 1-2 Home","6-1, 3-1 Away",112,118,LAL -7.0,215,Final,NBATV,29,36,28,19,,24,24,32,38,,NBA
+401160771,2019,"November 9, 2019",Chicago Bulls,Houston Rockets,"3-7, 1-3 Home","6-3, 3-2 Away",94,117,HOU -6.5,234,Final,NULL,27,22,18,27,,20,30,36,31,,NBA
+401160805,2019,"November 14, 2019",Milwaukee Bucks,Chicago Bulls,"8-3, 3-1 Home","4-8, 2-5 Away",124,115,MIL -11.0,229,Final,NULL,30,35,32,27,,32,34,20,29,,NBA
+401160834,2019,"November 18, 2019",Chicago Bulls,Milwaukee Bucks,"4-10, 2-5 Home","10-3, 7-2 Away",101,115,MIL -8.0,231,Final,NULL,26,30,25,20,,29,31,24,31,,NBA
+401160861,2019,"November 22, 2019",Chicago Bulls,Miami Heat,"5-11, 3-6 Home","11-3, 5-3 Away",108,116,MIA -5.0,218,Final,NULL,16,27,24,41,,34,33,18,31,,NBA
+401160889,2019,"November 25, 2019",Chicago Bulls,Portland Trail Blazers,"6-12, 3-7 Home","6-12, 5-8 Away",94,117,POR -1.0,225,Final,NULL,28,26,18,22,,27,35,30,25,,NBA
+401160920,2019,"November 29, 2019",Portland Trail Blazers,Chicago Bulls,"8-12, 3-4 Home","6-14, 3-7 Away",107,103,POR -7.0,227,Final,NULL,25,28,28,26,,28,19,31,25,,NBA
+401160953,2019,"December 4, 2019",Chicago Bulls,Memphis Grizzlies,"8-14, 4-7 Home","6-15, 3-5 Away",106,99,CHI -6.5,224,Final,NULL,27,23,28,28,,20,15,29,35,,NBA
+401160979,2019,"December 8, 2019",Miami Heat,Chicago Bulls,"17-6, 10-0 Home","8-16, 4-8 Away",110,105,MIA -7.0,211,Final/OT,NULL,16,31,27,23,13,25,24,24,24,8,NBA
+401161003,2019,"December 11, 2019",Chicago Bulls,Atlanta Hawks,"9-17, 5-9 Home","6-19, 3-11 Away",136,102,CHI -6.5,222,Final,NULL,37,29,40,30,,33,19,35,15,,NBA
+401161024,2019,"December 14, 2019",Chicago Bulls,LA Clippers,"10-18, 6-10 Home","20-8, 7-7 Away",109,106,LAC -3.5,214,Final,NULL,24,31,29,25,,29,28,22,27,,NBA
+401161051,2019,"December 18, 2019",Washington Wizards,Chicago Bulls,"8-18, 4-7 Home","11-19, 5-9 Away",109,110,EVEN,230,Final/OT,NULL,27,31,27,13,11,23,29,21,25,12,NBA
+401161090,2019,"December 23, 2019",Orlando Magic,Chicago Bulls,"13-17, 9-6 Home","12-20, 6-10 Away",103,95,ORL -5.0,205,Final,NULL,28,23,32,20,,28,26,27,14,,NBA
+401161135,2019,"December 30, 2019",Chicago Bulls,Milwaukee Bucks,"13-21, 7-11 Home","30-5, 14-3 Away",102,123,MIL -9.0,221,Final,NULL,20,32,25,25,,31,24,40,28,,NBA
+401161171,2019,"January 4, 2020",Chicago Bulls,Boston Celtics,"13-23, 7-13 Home","25-8, 11-6 Away",104,111,CHI -1.0,209,Final,NULL,28,24,21,31,,30,25,30,26,,NBA
+401161202,2019,"January 8, 2020",New Orleans Pelicans,Chicago Bulls,"13-25, 7-12 Home","13-25, 6-12 Away",123,108,NO -3.5,225,Final,NULL,23,25,44,31,,21,27,27,33,,NBA
+401161221,2019,"January 11, 2020",Detroit Pistons,Chicago Bulls,"14-26, 8-12 Home","14-26, 7-12 Away",99,108,DET -4.0,216,Final,NULL,20,29,22,28,,35,26,20,27,,NBA
+401161249,2019,"January 15, 2020",Chicago Bulls,Washington Wizards,"15-27, 8-14 Home","13-27, 5-16 Away",115,106,CHI -4.5,229,Final,NULL,24,31,30,30,,26,34,20,26,,NBA
+401161273,2019,"January 18, 2020",Chicago Bulls,Cleveland Cavaliers,"16-28, 9-14 Home","12-31, 6-17 Away",118,116,CHI -7.0,215,Final,NULL,31,25,31,31,,33,40,29,14,,NBA
+401161303,2019,"January 22, 2020",Chicago Bulls,Minnesota Timberwolves,"17-29, 10-14 Home","15-29, 9-14 Away",117,110,CHI -1.0,220,Final,NULL,35,24,22,36,,26,26,27,31,,NBA
+401161324,2019,"January 25, 2020",Cleveland Cavaliers,Chicago Bulls,"12-34, 6-17 Home","18-30, 8-15 Away",106,118,CLE -1.0,211,Final,NULL,31,26,19,30,,25,34,40,19,,NBA
+401161350,2019,"January 29, 2020",Indiana Pacers,Chicago Bulls,"31-17, 18-5 Home","19-31, 8-16 Away",115,106,IND -9.0,215,Final/OT,NULL,25,30,25,20,15,24,27,29,20,6,NBA
+401161382,2019,"February 2, 2020",Toronto Raptors,Chicago Bulls,"36-14, 18-7 Home","19-33, 8-18 Away",129,102,TOR -10.5,215,Final,NULL,32,28,35,34,,29,34,22,17,,NBA
+401161430,2019,"February 9, 2020",Philadelphia 76ers,Chicago Bulls,"33-21, 24-2 Home","19-35, 8-19 Away",118,111,PHI -10.5,214,Final,NULL,38,22,23,35,,25,30,28,28,,NBA
+401161465,2019,"February 20, 2020",Chicago Bulls,Charlotte Hornets,"19-37, 11-17 Home","19-36, 11-19 Away",93,103,CHI -4.5,212,Final,NULL,20,24,29,20,,33,27,19,24,,NBA
+401161487,2019,"February 23, 2020",Chicago Bulls,Washington Wizards,"20-38, 12-18 Home","20-35, 7-21 Away",126,117,WSH -3.0,230,Final,NULL,35,38,28,25,,31,27,27,32,,NBA
+401161529,2019,"February 29, 2020",New York Knicks,Chicago Bulls,"18-42, 9-20 Home","20-40, 8-21 Away",125,115,NY -2.5,215,Final,NULL,31,35,23,36,,25,28,33,29,,NBA
+401161564,2019,"March 4, 2020",Minnesota Timberwolves,Chicago Bulls,"19-42, 8-22 Home","21-41, 8-22 Away",115,108,MIN -1.5,232,Final,NULL,22,33,33,27,,29,29,21,29,,NBA
+401161588,2019,"March 8, 2020",Brooklyn Nets,Chicago Bulls,"29-34, 18-14 Home","21-43, 8-23 Away",110,107,BKN -6.5,219,Final,NULL,22,36,19,33,,23,27,20,37,,NBA
+401160625,2019,"October 23, 2019",Charlotte Hornets,Chicago Bulls,"1-0, 1-0 Home","0-1, 0-1 Away",126,125,CHI -3.0,217,Final,NULL,37,26,33,30,,28,27,40,30,,NBA
+401160673,2019,"October 26, 2019",Chicago Bulls,Toronto Raptors,"1-2, 0-1 Home","2-1, 1-1 Away",84,108,TOR -3.0,219,Final,NULL,23,17,22,22,,24,24,36,24,,NBA
+401160697,2019,"October 30, 2019",Cleveland Cavaliers,Chicago Bulls,"2-2, 2-0 Home","1-4, 1-3 Away",117,111,CHI -2.0,218,Final,NULL,25,25,30,37,,26,27,29,29,,NBA
+401160727,2019,"November 3, 2019",Indiana Pacers,Chicago Bulls,"39-26, 21-11 Home","22-43, 8-23 Away",108,95,IND -2.0,217,Final,NULL,24,31,31,22,,18,24,32,21,,NBA
+401160747,2019,"November 6, 2019",Atlanta Hawks,Chicago Bulls,"3-4, 2-3 Home","3-6, 2-4 Away",93,113,CHI -1.0,222,Final,NULL,19,22,24,28,,33,23,35,22,,NBA
+401160791,2019,"November 12, 2019",Chicago Bulls,New York Knicks,"4-7, 2-3 Home","2-9, 1-6 Away",120,102,CHI -6.5,212,Final,NULL,30,30,25,35,,22,32,31,17,,NBA
+401160817,2019,"November 16, 2019",Chicago Bulls,Brooklyn Nets,"4-9, 2-4 Home","5-7, 2-5 Away",111,117,CHI -4.0,227,Final,NBATV,19,37,22,33,,30,20,24,43,,NBA
+401160851,2019,"November 20, 2019",Chicago Bulls,Detroit Pistons,"5-10, 3-5 Home","4-10, 1-7 Away",109,89,DET -1.5,223,Final,NULL,30,29,25,25,,30,25,16,18,,NBA
+401160868,2019,"November 23, 2019",Charlotte Hornets,Chicago Bulls,"6-11, 3-5 Home","6-11, 3-5 Away",115,116,CHI -2.0,219,Final,NULL,23,26,25,41,,34,22,13,47,,NBA
+401160908,2019,"November 27, 2019",Golden State Warriors,Chicago Bulls,"4-15, 2-7 Home","6-13, 3-6 Away",104,90,CHI -2.0,216,Final,NULL,25,28,25,26,,17,31,25,17,,NBA
+401160940,2019,"December 2, 2019",Sacramento Kings,Chicago Bulls,"8-11, 5-4 Home","7-14, 4-7 Away",106,113,SAC -5.0,212,Final,NBATV,23,21,30,32,,22,33,29,29,,NBA
+401160967,2019,"December 6, 2019",Chicago Bulls,Golden State Warriors,"8-15, 4-8 Home","5-19, 3-12 Away",98,100,CHI -4.5,215,Final,NULL,28,23,32,15,,23,27,27,23,,NBA
+401160987,2019,"December 9, 2019",Chicago Bulls,Toronto Raptors,"8-17, 4-9 Home","16-7, 7-5 Away",92,93,TOR -6.0,214,Final,NULL,30,21,20,21,,30,19,22,22,,NBA
+401161017,2019,"December 13, 2019",Chicago Bulls,Charlotte Hornets,"9-18, 5-10 Home","12-16, 6-8 Away",73,83,CHI -7.0,214,Final,NULL,15,25,10,23,,24,20,15,24,,NBA
+401161041,2019,"December 16, 2019",Oklahoma City Thunder,Chicago Bulls,"12-14, 8-5 Home","10-19, 4-9 Away",109,106,OKC -5.5,209,Final,NULL,16,33,33,27,,37,31,22,16,,NBA
+401161074,2019,"December 21, 2019",Detroit Pistons,Chicago Bulls,"11-19, 7-9 Home","12-19, 6-9 Away",107,119,CHI -1.5,209,Final,NULL,28,31,30,18,,25,28,40,26,,NBA
+401161119,2019,"December 28, 2019",Chicago Bulls,Atlanta Hawks,"13-20, 7-10 Home","6-27, 3-15 Away",116,81,CHI -10.0,217,Final,NULL,35,29,19,33,,19,24,22,16,,NBA
+401161153,2019,"January 2, 2020",Chicago Bulls,Utah Jazz,"13-22, 7-12 Home","22-12, 9-9 Away",98,102,UTAH -3.5,209,Final,NULL,22,29,19,28,,25,22,29,26,,NBA
+401161187,2019,"January 6, 2020",Dallas Mavericks,Chicago Bulls,"23-13, 11-8 Home","13-24, 6-11 Away",118,110,DAL -8.0,217,Final,NULL,33,28,27,30,,27,28,27,28,,NBA
+401161212,2019,"January 10, 2020",Chicago Bulls,Indiana Pacers,"13-26, 7-14 Home","24-15, 9-10 Away",105,116,CHI -1.0,214,Final,NULL,27,19,26,33,,29,25,25,37,,NBA
+401161235,2019,"January 13, 2020",Boston Celtics,Chicago Bulls,"27-11, 16-3 Home","14-27, 7-13 Away",113,101,BOS -9.5,217,Final,NULL,28,27,28,30,,14,23,34,30,,NBA
+401161262,2019,"January 17, 2020",Philadelphia 76ers,Chicago Bulls,"27-16, 20-2 Home","15-28, 7-14 Away",100,89,PHI -8.0,214,Final,ESPN,21,25,35,19,,24,23,24,18,,NBA
+401161289,2019,"January 20, 2020",Milwaukee Bucks,Chicago Bulls,"39-6, 21-2 Home","16-29, 7-15 Away",111,98,MIL -15.0,226,Final,NULL,30,23,31,27,,23,29,25,21,,NBA
+401161316,2019,"January 24, 2020",Chicago Bulls,Sacramento Kings,"17-30, 10-15 Home","16-29, 8-16 Away",81,98,CHI -2.0,218,Final,NULL,21,23,25,12,,29,25,21,23,,NBA
+401161337,2019,"January 27, 2020",Chicago Bulls,San Antonio Spurs,"19-30, 11-15 Home","20-26, 8-14 Away",110,109,CHI -1.5,213,Final,NULL,21,29,25,35,,28,20,37,24,,NBA
+401161363,2019,"January 31, 2020",Brooklyn Nets,Chicago Bulls,"21-26, 13-12 Home","19-32, 8-17 Away",133,118,BKN -5.5,219,Final,NULL,35,38,30,30,,23,34,39,22,,NBA
+401161407,2019,"February 6, 2020",Chicago Bulls,New Orleans Pelicans,"19-34, 11-16 Home","21-31, 11-15 Away",119,125,NO -6.0,231,Final,NULL,25,37,19,38,,32,40,31,22,,NBA
+401161445,2019,"February 11, 2020",Washington Wizards,Chicago Bulls,"19-33, 13-13 Home","19-36, 8-20 Away",126,114,WSH -3.5,230,Final,NULL,36,33,31,26,,26,36,20,32,,NBA
+401161481,2019,"February 22, 2020",Chicago Bulls,Phoenix Suns,"19-38, 11-18 Home","23-34, 12-16 Away",104,112,PHX -3.0,222,Final,NULL,24,33,23,24,,22,25,36,29,,NBA
+401161501,2019,"February 25, 2020",Chicago Bulls,Oklahoma City Thunder,"20-39, 12-19 Home","36-22, 17-10 Away",122,124,OKC -8.0,220,Final,NULL,28,27,38,29,,36,36,19,33,,NBA
+401161549,2019,"March 2, 2020",Chicago Bulls,Dallas Mavericks,"21-40, 13-19 Home","37-25, 21-11 Away",109,107,DAL -7.0,220,Final,NULL,19,29,33,28,,29,29,17,32,,NBA
+401161576,2019,"March 6, 2020",Chicago Bulls,Indiana Pacers,"21-42, 13-20 Home","38-25, 17-15 Away",102,108,IND -2.5,208,Final,NULL,25,21,26,30,,29,33,27,19,,NBA
+401161604,2019,"March 10, 2020",Chicago Bulls,Cleveland Cavaliers,"22-43, 14-20 Home","19-46, 8-21 Away",108,103,CHI -4.0,218,Final,NULL,27,27,24,30,,29,23,26,25,,NBA

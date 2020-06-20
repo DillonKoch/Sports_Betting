@@ -1,0 +1,66 @@
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+401160672,2019,"October 26, 2019",Cleveland Cavaliers,Indiana Pacers,"1-1, 1-0 Home","0-2, 0-1 Away",110,99,IND -5.0,214,Final,NULL,26,39,25,20,,28,20,26,25,,NBA
+401160697,2019,"October 30, 2019",Cleveland Cavaliers,Chicago Bulls,"2-2, 2-0 Home","1-4, 1-3 Away",117,111,CHI -2.0,218,Final,NULL,25,25,30,37,,26,27,29,29,,NBA
+401160731,2019,"November 3, 2019",Cleveland Cavaliers,Dallas Mavericks,"2-4, 2-1 Home","4-2, 3-0 Away",111,131,DAL -5.5,219,Final,NULL,28,25,33,25,,31,27,32,41,,NBA
+401160760,2019,"November 8, 2019",Washington Wizards,Cleveland Cavaliers,"2-6, 1-3 Home","3-5, 1-3 Away",100,113,WSH -5.0,233,Final,ESPN,26,26,32,16,,30,37,21,25,,NBA
+401160789,2019,"November 12, 2019",Philadelphia 76ers,Cleveland Cavaliers,"7-3, 4-0 Home","4-6, 2-4 Away",98,97,PHI -11.0,220,Final,NBATV,24,30,28,16,,21,27,30,19,,NBA
+401160825,2019,"November 17, 2019",Cleveland Cavaliers,Philadelphia 76ers,"4-8, 2-4 Home","8-5, 4-5 Away",95,114,PHI -7.0,216,Final,NULL,22,22,25,26,,33,35,27,19,,NBA
+401160848,2019,"November 20, 2019",Miami Heat,Cleveland Cavaliers,"10-3, 6-0 Home","4-10, 2-6 Away",124,100,MIA -9.5,213,Final,NULL,32,43,24,25,,22,26,29,23,,NBA
+401160873,2019,"November 23, 2019",Cleveland Cavaliers,Portland Trail Blazers,"5-11, 3-4 Home","5-12, 4-8 Away",110,104,POR -6.5,227,Final,NULL,19,30,27,34,,19,23,27,35,,NBA
+401160897,2019,"November 27, 2019",Cleveland Cavaliers,Orlando Magic,"5-13, 3-6 Home","7-10, 1-7 Away",104,116,CLE -1.5,210,Final,NULL,27,25,21,31,,27,32,28,29,,NBA
+401160941,2019,"December 3, 2019",Cleveland Cavaliers,Detroit Pistons,"5-15, 3-8 Home","8-13, 2-9 Away",94,127,DET -3.5,217,Final,NULL,28,18,22,26,,32,30,35,30,,NBA
+401160974,2019,"December 7, 2019",Philadelphia 76ers,Cleveland Cavaliers,"16-7, 11-0 Home","5-17, 2-8 Away",141,94,PHI -11.0,215,Final,NBATV,36,41,31,33,,18,18,26,32,,NBA
+401160998,2019,"December 11, 2019",Cleveland Cavaliers,Houston Rockets,"5-19, 3-10 Home","16-8, 7-5 Away",110,116,HOU -11.5,230,Final,NULL,29,28,25,28,,35,29,24,28,,NBA
+401161027,2019,"December 14, 2019",Milwaukee Bucks,Cleveland Cavaliers,"24-3, 13-1 Home","6-20, 3-10 Away",125,108,MIL -14.0,224,Final,NULL,26,43,33,23,,20,31,28,29,,NBA
+401161049,2019,"December 18, 2019",Cleveland Cavaliers,Charlotte Hornets,"7-21, 4-10 Home","13-18, 6-10 Away",100,98,CLE -3.0,212,Final,NULL,29,24,23,24,,21,20,23,34,,NBA
+401161086,2019,"December 23, 2019",Cleveland Cavaliers,Atlanta Hawks,"9-21, 6-10 Home","6-25, 3-14 Away",121,118,ATL -1.5,230,Final,NULL,42,29,23,27,,32,32,30,24,,NBA
+401161121,2019,"December 28, 2019",Minnesota Timberwolves,Cleveland Cavaliers,"11-20, 3-11 Home","10-22, 4-12 Away",88,94,MIN -6.0,218,Final,NULL,21,22,17,28,,27,22,18,27,,NBA
+401161150,2019,"January 2, 2020",Cleveland Cavaliers,Charlotte Hornets,"10-24, 6-11 Home","14-23, 7-12 Away",106,109,CLE -2.0,212,Final,NULL,29,30,26,21,,31,21,30,27,,NBA
+401161178,2019,"January 5, 2020",Cleveland Cavaliers,Minnesota Timberwolves,"10-26, 6-13 Home","14-21, 9-10 Away",103,118,MIN -6.0,218,Final,NULL,20,28,31,24,,24,42,28,24,,NBA
+401161205,2019,"January 9, 2020",Detroit Pistons,Cleveland Cavaliers,"14-25, 8-11 Home","11-27, 5-13 Away",112,115,DET -7.0,221,Final/OT,NULL,32,29,22,19,10,26,24,31,21,13,NBA
+401161239,2019,"January 13, 2020",Los Angeles Lakers,Cleveland Cavaliers,"33-7, 16-4 Home","12-28, 6-14 Away",128,99,LAL -14.0,222,Final,NULL,21,26,37,44,,27,21,22,29,,NBA
+401161264,2019,"January 17, 2020",Memphis Grizzlies,Cleveland Cavaliers,"20-22, 12-12 Home","12-30, 6-16 Away",113,109,MEM -9.5,230,Final,NULL,27,27,38,21,,25,31,20,33,,NBA
+401161285,2019,"January 20, 2020",Cleveland Cavaliers,New York Knicks,"12-32, 6-15 Home","12-32, 6-17 Away",86,106,NY -1.5,223,Final,NULL,26,24,14,22,,26,23,30,27,,NBA
+401161324,2019,"January 25, 2020",Cleveland Cavaliers,Chicago Bulls,"12-34, 6-17 Home","18-30, 8-15 Away",106,118,CLE -1.0,211,Final,NULL,31,26,19,30,,25,34,40,19,,NBA
+401161342,2019,"January 28, 2020",Cleveland Cavaliers,New Orleans Pelicans,"13-35, 6-18 Home","19-29, 10-14 Away",111,125,NO -8.5,232,Final,NULL,34,31,25,21,,40,34,30,21,,NBA
+401161372,2019,"February 1, 2020",Cleveland Cavaliers,Golden State Warriors,"13-37, 6-20 Home","11-39, 4-22 Away",112,131,CLE -2.0,225,Final,NULL,32,27,19,34,,31,30,44,26,,NBA
+401161402,2019,"February 5, 2020",Oklahoma City Thunder,Cleveland Cavaliers,"31-20, 16-10 Home","13-39, 7-18 Away",109,103,OKC -13.0,222,Final,NULL,29,32,23,25,,28,25,28,22,,NBA
+401161449,2019,"February 12, 2020",Cleveland Cavaliers,Atlanta Hawks,"14-40, 7-22 Home","15-41, 6-24 Away",127,105,ATL -3.0,235,Final,NULL,33,32,33,29,,19,29,32,25,,NBA
+401161480,2019,"February 22, 2020",Miami Heat,Cleveland Cavaliers,"41-24, 27-5 Home","19-46, 8-21 Away",124,105,MIA -13.0,222,Final,NULL,38,44,24,18,,32,20,26,27,,NBA
+401161507,2019,"February 26, 2020",Cleveland Cavaliers,Philadelphia 76ers,"17-41, 9-22 Home","36-23, 9-21 Away",108,94,PHI -7.5,217,Final,NULL,28,27,22,31,,17,27,24,26,,NBA
+401161532,2019,"February 29, 2020",Cleveland Cavaliers,Indiana Pacers,"17-43, 9-23 Home","36-24, 15-14 Away",104,113,IND -9.0,215,Final,NULL,31,27,28,18,,30,26,30,27,,NBA
+401161559,2019,"March 4, 2020",Cleveland Cavaliers,Boston Celtics,"17-45, 9-25 Home","42-19, 19-12 Away",106,112,BOS -4.0,216,Final,NULL,27,25,25,29,,28,30,23,31,,NBA
+401161596,2019,"March 8, 2020",Cleveland Cavaliers,San Antonio Spurs,"19-45, 11-25 Home","26-36, 11-22 Away",132,129,SA -4.5,226,Final/OT,NULL,35,25,27,31,14,18,32,41,27,11,NBA
+401160627,2019,"October 23, 2019",Orlando Magic,Cleveland Cavaliers,"1-0, 1-0 Home","0-1, 0-1 Away",94,85,ORL -9.5,212,Final,NULL,28,27,16,23,,24,17,24,20,,NBA
+401160688,2019,"October 28, 2019",Milwaukee Bucks,Cleveland Cavaliers,"2-1, 1-1 Home","1-2, 0-2 Away",129,112,MIL -15.5,224,Final,NULL,30,29,32,38,,31,21,28,32,,NBA
+401160712,2019,"November 1, 2019",Indiana Pacers,Cleveland Cavaliers,"2-3, 1-1 Home","2-3, 0-3 Away",102,95,IND -7.0,215,Final,NULL,19,23,26,34,,26,11,24,34,,NBA
+401160740,2019,"November 5, 2019",Cleveland Cavaliers,Boston Celtics,"2-5, 2-2 Home","5-1, 2-1 Away",113,119,BOS -6.0,216,Final,NULL,24,28,31,30,,32,29,28,30,,NBA
+401160778,2019,"November 10, 2019",New York Knicks,Cleveland Cavaliers,"2-8, 1-3 Home","4-5, 2-3 Away",87,108,NY -2.0,214,Final,NULL,19,17,27,24,,31,23,24,30,,NBA
+401160803,2019,"November 14, 2019",Cleveland Cavaliers,Miami Heat,"4-7, 2-3 Home","8-3, 4-3 Away",97,108,MIA -4.5,216,Final,NULL,22,22,30,23,,34,34,26,14,,NBA
+401160831,2019,"November 18, 2019",New York Knicks,Cleveland Cavaliers,"4-10, 3-4 Home","4-9, 2-5 Away",123,105,NY -5.5,210,Final,NULL,32,32,30,29,,20,31,20,34,,NBA
+401160863,2019,"November 22, 2019",Dallas Mavericks,Cleveland Cavaliers,"10-5, 6-3 Home","4-11, 2-7 Away",143,101,DAL -10.0,222,Final,NULL,29,37,45,32,,26,16,29,30,,NBA
+401160882,2019,"November 25, 2019",Cleveland Cavaliers,Brooklyn Nets,"5-12, 3-5 Home","9-8, 4-5 Away",106,108,CLE -1.0,218,Final,NULL,26,25,24,31,,25,27,29,27,,NBA
+401160912,2019,"November 29, 2019",Cleveland Cavaliers,Milwaukee Bucks,"5-14, 3-7 Home","16-3, 9-2 Away",110,119,MIL -12.0,229,Final,NULL,29,18,42,21,,38,29,32,20,,NBA
+401160963,2019,"December 6, 2019",Cleveland Cavaliers,Orlando Magic,"5-16, 3-9 Home","11-11, 3-7 Away",87,93,ORL -5.0,210,Final,NULL,25,22,23,17,,24,28,16,25,,NBA
+401160986,2019,"December 9, 2019",Boston Celtics,Cleveland Cavaliers,"17-5, 10-0 Home","5-18, 2-9 Away",110,88,BOS -13.5,216,Final,NULL,29,24,30,27,,18,22,26,22,,NBA
+401161010,2019,"December 12, 2019",San Antonio Spurs,Cleveland Cavaliers,"9-15, 7-7 Home","6-19, 3-9 Away",109,117,SA -11.5,219,Final/OT,NULL,19,24,25,35,6,28,25,25,25,14,NBA
+401161037,2019,"December 16, 2019",Toronto Raptors,Cleveland Cavaliers,"18-8, 11-3 Home","6-21, 3-11 Away",133,113,TOR -12.5,217,Final,NULL,37,29,38,29,,29,25,30,29,,NBA
+401161062,2019,"December 20, 2019",Cleveland Cavaliers,Memphis Grizzlies,"8-21, 5-10 Home","10-19, 5-8 Away",114,107,MEM -3.0,223,Final,NULL,25,30,26,33,,27,24,36,20,,NBA
+401161108,2019,"December 27, 2019",Boston Celtics,Cleveland Cavaliers,"22-7, 13-1 Home","9-22, 3-12 Away",129,117,BOS -14.0,217,Final,NBATV,33,29,30,37,,22,25,34,36,,NBA
+401161142,2019,"December 31, 2019",Toronto Raptors,Cleveland Cavaliers,"23-11, 14-5 Home","10-23, 4-13 Away",117,97,TOR -8.0,218,Final,NULL,27,32,27,31,,25,18,26,28,,NBA
+401161169,2019,"January 4, 2020",Cleveland Cavaliers,Oklahoma City Thunder,"10-25, 6-12 Home","20-15, 8-9 Away",106,121,OKC -6.5,214,Final,NULL,27,26,26,27,,34,32,25,30,,NBA
+401161190,2019,"January 7, 2020",Cleveland Cavaliers,Detroit Pistons,"10-27, 6-14 Home","14-24, 6-14 Away",113,115,DET -3.5,220,Final,NULL,29,38,28,18,,27,27,30,31,,NBA
+401161224,2019,"January 11, 2020",Denver Nuggets,Cleveland Cavaliers,"26-12, 15-5 Home","12-27, 6-13 Away",103,111,DEN -12.5,217,Final,NULL,18,24,29,32,,23,28,34,26,,NBA
+401161245,2019,"January 14, 2020",LA Clippers,Cleveland Cavaliers,"28-13, 18-4 Home","12-29, 6-15 Away",128,103,LAC -16.5,225,Final,NULL,31,35,40,22,,26,24,21,32,,NBA
+401161273,2019,"January 18, 2020",Chicago Bulls,Cleveland Cavaliers,"16-28, 9-14 Home","12-31, 6-17 Away",118,116,CHI -7.0,215,Final,NULL,31,25,31,31,,33,40,29,14,,NBA
+401161308,2019,"January 23, 2020",Cleveland Cavaliers,Washington Wizards,"12-33, 6-16 Home","15-29, 6-18 Away",112,124,CLE -2.5,231,Final,NULL,24,37,25,26,,29,39,32,24,,NBA
+401161335,2019,"January 27, 2020",Detroit Pistons,Cleveland Cavaliers,"17-31, 9-16 Home","13-34, 7-17 Away",100,115,DET -6.5,215,Final,NULL,23,22,27,28,,24,29,36,26,,NBA
+401161356,2019,"January 30, 2020",Cleveland Cavaliers,Toronto Raptors,"19-46, 11-25 Home","46-18, 23-9 Away",109,115,TOR -10.0,223,Final,NULL,26,26,24,33,,31,25,32,27,,NBA
+401161384,2019,"February 3, 2020",Cleveland Cavaliers,New York Knicks,"13-38, 6-21 Home","15-36, 8-18 Away",134,139,NY -2.5,217,Final/OT,NULL,37,25,38,27,7,33,30,32,32,12,NBA
+401161433,2019,"February 9, 2020",Cleveland Cavaliers,LA Clippers,"13-40, 6-22 Home","37-16, 15-11 Away",92,133,LAC -6.0,232,Final,NULL,21,29,23,19,,36,37,34,26,,NBA
+401161469,2019,"February 21, 2020",Washington Wizards,Cleveland Cavaliers,"20-34, 13-14 Home","15-40, 8-18 Away",108,113,WSH -6.0,237,Final,NULL,41,25,21,21,,32,29,20,32,,NBA
+401161491,2019,"February 24, 2020",Cleveland Cavaliers,Miami Heat,"16-41, 8-22 Home","36-21, 13-18 Away",125,119,MIA -6.5,222,Final/OT,NULL,21,35,24,31,14,29,39,31,12,8,NBA
+401161525,2019,"February 28, 2020",New Orleans Pelicans,Cleveland Cavaliers,"26-33, 12-17 Home","17-42, 8-20 Away",116,104,NO -12.5,236,Final,NULL,43,27,25,21,,25,30,28,21,,NBA
+401161544,2019,"March 2, 2020",Cleveland Cavaliers,Utah Jazz,"17-44, 9-24 Home","38-22, 17-13 Away",113,126,UTAH -10.5,223,Final,NULL,25,26,31,31,,31,28,35,32,,NBA
+401161584,2019,"March 7, 2020",Cleveland Cavaliers,Denver Nuggets,"18-45, 10-25 Home","42-21, 18-13 Away",104,102,DEN -9.0,219,Final,NULL,23,35,27,19,,33,28,22,19,,NBA
+401161604,2019,"March 10, 2020",Chicago Bulls,Cleveland Cavaliers,"22-43, 14-20 Home","19-46, 8-21 Away",108,103,CHI -4.0,218,Final,NULL,27,27,24,30,,29,23,26,25,,NBA

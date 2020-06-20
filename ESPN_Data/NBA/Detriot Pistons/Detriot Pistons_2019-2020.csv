@@ -1,0 +1,67 @@
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+401160656,2019,"October 24, 2019",Detroit Pistons,Atlanta Hawks,"1-1, 0-1 Home","1-0, 1-0 Away",100,117,DET -1.5,222,Final,NULL,32,31,18,19,,38,22,31,26,,NBA
+401160683,2019,"October 28, 2019",Detroit Pistons,Indiana Pacers,"2-2, 1-2 Home","0-3, 0-2 Away",96,94,IND -1.5,214,Final,NULL,33,26,19,18,,25,28,18,23,,NBA
+401160715,2019,"November 1, 2019",Chicago Bulls,Detroit Pistons,"2-4, 1-1 Home","2-4, 1-2 Away",112,106,CHI -4.0,216,Final,NULL,30,27,29,26,,23,29,28,26,,NBA
+401160733,2019,"November 4, 2019",Washington Wizards,Detroit Pistons,"2-4, 1-2 Home","3-5, 1-3 Away",115,99,WSH -3.5,225,Final,NULL,31,32,30,22,,30,31,17,21,,NBA
+401160758,2019,"November 8, 2019",Indiana Pacers,Detroit Pistons,"5-4, 4-1 Home","4-6, 1-4 Away",112,106,IND -6.0,210,Final,NULL,27,30,28,27,,35,18,19,34,,NBA
+401160790,2019,"November 12, 2019",Miami Heat,Detroit Pistons,"7-3, 4-0 Home","4-8, 1-5 Away",117,108,MIA -8.5,215,Final,NULL,28,31,33,25,,17,20,35,36,,NBA
+401160851,2019,"November 20, 2019",Chicago Bulls,Detroit Pistons,"5-10, 3-5 Home","4-10, 1-7 Away",109,89,DET -1.5,223,Final,NULL,30,29,25,25,,30,25,16,18,,NBA
+401160875,2019,"November 23, 2019",Milwaukee Bucks,Detroit Pistons,"13-3, 5-1 Home","5-11, 1-8 Away",104,90,MIL -13.0,226,Final,NULL,27,27,23,27,,24,23,22,21,,NBA
+401160896,2019,"November 27, 2019",Charlotte Hornets,Detroit Pistons,"7-12, 4-5 Home","6-12, 1-9 Away",102,101,DET -3.5,215,Final,NULL,31,24,31,16,,32,28,20,21,,NBA
+401160930,2019,"December 1, 2019",Detroit Pistons,San Antonio Spurs,"7-13, 6-4 Home","7-14, 2-8 Away",132,98,DET -2.5,218,Final,NULL,32,27,37,36,,27,24,20,27,,NBA
+401160949,2019,"December 4, 2019",Detroit Pistons,Milwaukee Bucks,"8-14, 6-5 Home","19-3, 10-2 Away",103,127,MIL -9.0,224,Final,NULL,24,24,24,31,,22,37,33,35,,NBA
+401160990,2019,"December 9, 2019",New Orleans Pelicans,Detroit Pistons,"6-18, 4-9 Home","10-14, 3-9 Away",103,105,EVEN,228,Final,NULL,29,24,21,29,,25,22,34,24,,NBA
+401161028,2019,"December 14, 2019",Houston Rockets,Detroit Pistons,"17-9, 9-4 Home","11-15, 4-9 Away",107,115,HOU -7.5,226,Final,NULL,32,20,23,32,,30,32,26,27,,NBA
+401161050,2019,"December 18, 2019",Detroit Pistons,Toronto Raptors,"11-17, 7-8 Home","19-8, 8-5 Away",99,112,TOR -2.0,217,Final,NULL,29,35,15,20,,30,40,26,16,,NBA
+401161074,2019,"December 21, 2019",Detroit Pistons,Chicago Bulls,"11-19, 7-9 Home","12-19, 6-9 Away",107,119,CHI -1.5,209,Final,NULL,28,31,30,18,,25,28,40,26,,NBA
+401161102,2019,"December 26, 2019",Detroit Pistons,Washington Wizards,"12-20, 8-10 Home","9-21, 5-14 Away",132,102,DET -6.5,229,Final,NULL,31,37,38,26,,23,25,28,26,,NBA
+401161137,2019,"December 30, 2019",Utah Jazz,Detroit Pistons,"21-12, 13-3 Home","12-22, 4-12 Away",104,81,UTAH -9.5,218,Final,NULL,19,20,29,36,,21,19,18,23,,NBA
+401161174,2019,"January 4, 2020",Golden State Warriors,Detroit Pistons,"9-28, 6-12 Home","13-23, 5-13 Away",104,111,DET -3.0,214,Final,NULL,23,36,21,24,,25,31,27,28,,NBA
+401161190,2019,"January 7, 2020",Cleveland Cavaliers,Detroit Pistons,"10-27, 6-14 Home","14-24, 6-14 Away",113,115,DET -3.5,220,Final,NULL,29,38,28,18,,27,27,30,31,,NBA
+401161221,2019,"January 11, 2020",Detroit Pistons,Chicago Bulls,"14-26, 8-12 Home","14-26, 7-12 Away",99,108,DET -4.0,216,Final,NULL,20,29,22,28,,35,26,20,27,,NBA
+401161246,2019,"January 15, 2020",Boston Celtics,Detroit Pistons,"27-12, 16-4 Home","15-27, 7-14 Away",103,116,BOS -9.5,219,Final,NULL,24,35,23,21,,27,30,34,25,,NBA
+401161281,2019,"January 20, 2020",Washington Wizards,Detroit Pistons,"14-28, 9-11 Home","16-28, 8-15 Away",106,100,WSH -1.0,233,Final,NULL,30,30,23,23,,35,23,23,19,,NBA
+401161312,2019,"January 24, 2020",Detroit Pistons,Memphis Grizzlies,"17-29, 9-14 Home","21-24, 9-11 Away",112,125,MEM -1.5,232,Final,NULL,23,38,24,27,,35,31,26,33,,NBA
+401161335,2019,"January 27, 2020",Detroit Pistons,Cleveland Cavaliers,"17-31, 9-16 Home","13-34, 7-17 Away",100,115,DET -6.5,215,Final,NULL,23,22,27,28,,24,29,36,26,,NBA
+401161362,2019,"January 31, 2020",Detroit Pistons,Toronto Raptors,"17-33, 9-17 Home","35-14, 18-7 Away",92,105,TOR -4.0,222,Final,NULL,20,27,22,23,,30,30,18,27,,NBA
+401161390,2019,"February 3, 2020",Memphis Grizzlies,Detroit Pistons,"25-25, 15-13 Home","18-34, 8-17 Away",96,82,MEM -9.5,224,Final,NULL,36,17,19,24,,32,21,10,19,,NBA
+401161415,2019,"February 7, 2020",Oklahoma City Thunder,Detroit Pistons,"32-20, 17-10 Home","19-35, 8-18 Away",108,101,OKC -12.5,215,Final,NULL,29,23,26,30,,24,23,21,33,,NBA
+401161435,2019,"February 10, 2020",Detroit Pistons,Charlotte Hornets,"19-37, 11-19 Home","17-36, 9-19 Away",76,87,DET -4.0,206,Final,NULL,11,26,22,17,,21,26,19,21,,NBA
+401161462,2019,"February 20, 2020",Detroit Pistons,Milwaukee Bucks,"19-39, 11-20 Home","47-8, 22-5 Away",106,126,MIL -13.0,227,Final,NULL,18,23,30,35,,32,38,28,28,,NBA
+401161502,2019,"February 25, 2020",Denver Nuggets,Detroit Pistons,"40-18, 23-7 Home","19-41, 8-21 Away",115,98,DEN -13.5,214,Final,NULL,29,30,23,33,,23,23,26,26,,NBA
+401161541,2019,"March 1, 2020",Sacramento Kings,Detroit Pistons,"26-34, 13-15 Home","20-42, 9-22 Away",106,100,SAC -9.5,216,Final,NULL,16,34,26,30,,31,20,19,30,,NBA
+401161583,2019,"March 7, 2020",Detroit Pistons,Utah Jazz,"20-44, 11-22 Home","41-22, 20-13 Away",105,111,UTAH -8.0,211,Final,NULL,17,22,34,32,,28,27,24,32,,NBA
+401161613,2019,"March 11, 2020",Philadelphia 76ers,Detroit Pistons,"39-26, 29-2 Home","20-46, 9-24 Away",124,106,PHI -12.0,210,Final,NULL,34,36,29,25,,29,26,29,22,,NBA
+401160626,2019,"October 23, 2019",Indiana Pacers,Detroit Pistons,"0-1, 0-1 Home","1-0, 1-0 Away",110,119,IND -7.0,211,Final,NULL,24,31,31,24,,27,27,29,36,,NBA
+401160669,2019,"October 26, 2019",Detroit Pistons,Philadelphia 76ers,"1-2, 0-2 Home","2-0, 1-0 Away",111,117,PHI -3.5,214,Final,NULL,29,28,26,28,,28,26,29,34,,NBA
+401160702,2019,"October 30, 2019",Toronto Raptors,Detroit Pistons,"4-1, 3-0 Home","2-3, 1-1 Away",125,113,TOR -9.0,214,Final,NULL,37,27,37,24,,28,30,27,28,,NBA
+401160720,2019,"November 2, 2019",Detroit Pistons,Brooklyn Nets,"3-4, 2-2 Home","2-4, 0-2 Away",113,109,BKN -4.0,223,Final,NULL,33,13,32,35,,26,28,18,37,,NBA
+401160745,2019,"November 6, 2019",Detroit Pistons,New York Knicks,"4-5, 3-2 Home","1-7, 0-5 Away",122,102,DET -3.5,207,Final,NULL,33,31,32,26,,25,34,26,17,,NBA
+401160782,2019,"November 11, 2019",Detroit Pistons,Minnesota Timberwolves,"4-7, 3-3 Home","6-4, 4-2 Away",114,120,DET -4.0,223,Final,NULL,26,25,30,33,,41,25,26,28,,NBA
+401160809,2019,"November 15, 2019",Charlotte Hornets,Detroit Pistons,"5-7, 3-4 Home","4-9, 1-6 Away",109,106,DET -3.5,221,Final,NULL,25,26,32,26,,35,30,18,23,,NBA
+401160857,2019,"November 22, 2019",Detroit Pistons,Atlanta Hawks,"5-10, 4-3 Home","4-11, 2-6 Away",128,103,DET -6.5,226,Final,NULL,33,43,31,21,,23,34,27,19,,NBA
+401160883,2019,"November 25, 2019",Detroit Pistons,Orlando Magic,"6-11, 5-3 Home","6-10, 0-7 Away",103,88,DET -4.5,207,Final,NULL,23,30,25,25,,31,24,15,18,,NBA
+401160910,2019,"November 29, 2019",Detroit Pistons,Charlotte Hornets,"6-13, 5-4 Home","8-12, 4-7 Away",107,110,DET -8.0,214,Final,NULL,37,20,28,22,,38,24,23,25,,NBA
+401160941,2019,"December 3, 2019",Cleveland Cavaliers,Detroit Pistons,"5-15, 3-8 Home","8-13, 2-9 Away",94,127,DET -3.5,217,Final,NULL,28,18,22,26,,32,30,35,30,,NBA
+401160964,2019,"December 6, 2019",Detroit Pistons,Indiana Pacers,"9-14, 7-5 Home","14-8, 5-6 Away",108,101,IND -1.5,212,Final,NULL,32,23,16,37,,19,25,31,26,,NBA
+401161011,2019,"December 12, 2019",Detroit Pistons,Dallas Mavericks,10-15,17-7,111,122,DAL -6.5,218,Final,NULL,29,29,27,26,,34,31,30,27,,NBA
+401161036,2019,"December 16, 2019",Detroit Pistons,Washington Wizards,"11-16, 7-7 Home","8-17, 4-11 Away",119,133,DET -2.5,232,Final,NULL,31,30,30,28,,43,24,29,37,,NBA
+401161064,2019,"December 20, 2019",Boston Celtics,Detroit Pistons,"19-7, 11-1 Home","11-18, 4-10 Away",114,93,BOS -9.0,211,Final,NULL,28,32,31,23,,26,22,21,24,,NBA
+401161087,2019,"December 23, 2019",Detroit Pistons,Philadelphia 76ers,"11-20, 7-10 Home","22-10, 7-8 Away",109,125,PHI -6.5,216,Final,NULL,23,29,34,23,,30,30,34,31,,NBA
+401161123,2019,"December 28, 2019",San Antonio Spurs,Detroit Pistons,"13-18, 9-8 Home","12-21, 4-11 Away",136,109,SA -5.0,222,Final,NULL,30,29,42,35,,28,27,25,29,,NBA
+401161158,2019,"January 2, 2020",LA Clippers,Detroit Pistons,"25-11, 15-3 Home","12-23, 4-13 Away",126,112,LAC -12.5,225,Final,NBATV,30,39,37,20,,33,30,16,33,,NBA
+401161180,2019,"January 5, 2020",Los Angeles Lakers,Detroit Pistons,"29-7, 14-4 Home","13-24, 5-14 Away",106,99,LAL -14.5,221,Final,NULL,23,33,19,31,,22,25,32,20,,NBA
+401161205,2019,"January 9, 2020",Detroit Pistons,Cleveland Cavaliers,"14-25, 8-11 Home","11-27, 5-13 Away",112,115,DET -7.0,221,Final/OT,NULL,32,29,22,19,10,26,24,31,21,13,NBA
+401161233,2019,"January 13, 2020",Detroit Pistons,New Orleans Pelicans,"14-27, 8-13 Home","15-26, 8-14 Away",110,117,DET -5.0,222,Final/OT,NULL,23,29,25,25,8,32,31,26,13,15,NBA
+401161271,2019,"January 18, 2020",Atlanta Hawks,Detroit Pistons,"10-33, 5-15 Home","16-27, 8-14 Away",103,136,DET -1.0,228,Final,NULL,29,26,21,27,,36,35,32,33,,NBA
+401161296,2019,"January 22, 2020",Detroit Pistons,Sacramento Kings,"17-28, 9-13 Home","15-29, 7-16 Away",127,106,SAC -2.0,222,Final,NULL,26,31,36,34,,27,23,25,31,,NBA
+401161323,2019,"January 25, 2020",Detroit Pistons,Brooklyn Nets,"17-30, 9-15 Home","19-25, 8-13 Away",111,121,BKN -2.5,229,Final/OT,NULL,25,35,17,29,5,26,24,30,26,15,NBA
+401161351,2019,"January 29, 2020",Brooklyn Nets,Detroit Pistons,"20-26, 12-12 Home","17-32, 8-16 Away",125,115,BKN -6.0,226,Final,ESPN,32,38,29,26,,30,38,25,22,,NBA
+401161379,2019,"February 2, 2020",Detroit Pistons,Denver Nuggets,"18-33, 10-17 Home","34-16, 15-10 Away",128,123,DEN -2.5,212,Final/OT,NULL,30,38,22,21,17,44,21,24,22,12,NBA
+401161397,2019,"February 5, 2020",Detroit Pistons,Phoenix Suns,"19-34, 11-17 Home","20-31, 11-14 Away",116,108,PHX -3.0,218,Final,NULL,38,26,25,27,,31,30,25,22,,NBA
+401161421,2019,"February 8, 2020",Detroit Pistons,New York Knicks,"19-36, 11-18 Home","17-36, 9-18 Away",92,95,NY -1.5,212,Final,NULL,28,22,17,25,,17,31,19,28,,NBA
+401161450,2019,"February 12, 2020",Orlando Magic,Detroit Pistons,"24-31, 15-13 Home","19-38, 8-19 Away",116,112,ORL -6.5,210,Final/OT,NULL,32,27,28,21,8,20,35,26,27,4,NBA
+401161490,2019,"February 23, 2020",Portland Trail Blazers,Detroit Pistons,"26-32, 16-12 Home","19-40, 8-20 Away",107,104,POR -6.0,221,Final,NULL,40,13,27,27,,24,27,34,19,,NBA
+401161526,2019,"February 28, 2020",Phoenix Suns,Detroit Pistons,"24-36, 11-20 Home","20-41, 9-21 Away",111,113,PHX -9.0,219,Final,NULL,24,29,26,32,,29,23,32,29,,NBA
+401161560,2019,"March 4, 2020",Detroit Pistons,Oklahoma City Thunder,"20-43, 11-21 Home","38-24, 18-11 Away",107,114,OKC -8.5,210,Final,NULL,32,32,18,25,,38,31,25,20,,NBA
+401161597,2019,"March 8, 2020",New York Knicks,Detroit Pistons,"20-44, 11-22 Home","20-45, 9-23 Away",96,84,NY -5.5,211,Final,NULL,27,22,23,24,,22,25,24,13,,NBA

@@ -1,0 +1,66 @@
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+401160678,2019,"October 27, 2019",Oklahoma City Thunder,Golden State Warriors,"1-2, 1-1 Home","0-2, 0-1 Away",120,92,EVEN,224,Final,NULL,35,35,35,15,,20,17,31,24,,NBA
+401160707,2019,"October 30, 2019",Golden State Warriors,Phoenix Suns,"1-3, 0-2 Home","3-2, 1-1 Away",110,121,GS -5.5,231,Final,NULL,14,32,21,43,,43,29,23,26,,NBA
+401160725,2019,"November 2, 2019",Golden State Warriors,Charlotte Hornets,"1-5, 0-4 Home","3-3, 2-2 Away",87,93,CHA -6.5,222,Final,NULL,30,25,16,16,,25,25,18,25,,NBA
+401160749,2019,"November 6, 2019",Houston Rockets,Golden State Warriors,"5-3, 3-1 Home","2-6, 1-2 Away",129,112,HOU -16.0,230,Final,ESPN,30,33,35,31,,29,23,31,29,,NBA
+401160773,2019,"November 9, 2019",Oklahoma City Thunder,Golden State Warriors,"4-5, 4-2 Home","2-8, 1-4 Away",114,108,OKC -12.0,216,Final,NULL,36,24,24,30,,27,16,41,24,,NBA
+401160801,2019,"November 13, 2019",Los Angeles Lakers,Golden State Warriors,"9-2, 5-1 Home","2-10, 1-5 Away",120,94,LAL -8.5,220,Final,ESPN,38,29,31,22,,26,29,27,12,,NBA
+401160829,2019,"November 17, 2019",New Orleans Pelicans,Golden State Warriors,"4-9, 3-4 Home","2-12, 1-6 Away",108,100,NO -4.0,226,Final,NULL,26,29,21,32,,23,26,20,31,,NBA
+401160850,2019,"November 20, 2019",Dallas Mavericks,Golden State Warriors,"40-27, 19-15 Home","15-50, 7-24 Away",142,94,DAL -14.5,216,Final,ESPN,44,30,30,38,,16,22,26,30,,NBA
+401160892,2019,"November 25, 2019",Golden State Warriors,Oklahoma City Thunder,"3-15, 1-7 Home","6-10, 1-6 Away",97,100,OKC -7.0,213,Final,NBATV,28,31,24,14,,25,28,21,26,,NBA
+401160915,2019,"November 29, 2019",Miami Heat,Golden State Warriors,"13-5, 8-0 Home","4-16, 2-9 Away",122,105,MIA -11.5,209,Final,NULL,41,30,24,27,,21,37,21,26,,NBA
+401160937,2019,"December 2, 2019",Atlanta Hawks,Golden State Warriors,"5-16, 3-7 Home","4-18, 2-11 Away",104,79,ATL -6.5,223,Final,NULL,20,29,27,28,,23,17,13,26,,NBA
+401160967,2019,"December 6, 2019",Chicago Bulls,Golden State Warriors,"8-15, 4-8 Home","5-19, 3-12 Away",98,100,CHI -4.5,215,Final,NULL,28,23,32,15,,23,27,27,23,,NBA
+401161008,2019,"December 11, 2019",Golden State Warriors,New York Knicks,"5-21, 2-9 Home","5-20, 2-10 Away",122,124,GS -4.5,211,Final/OT,NULL,20,30,30,32,10,30,38,19,25,12,NBA
+401161035,2019,"December 15, 2019",Golden State Warriors,Sacramento Kings,"5-23, 2-10 Home","12-14, 6-9 Away",79,100,SAC -4.5,210,Final,NULL,18,24,17,20,,26,25,28,21,,NBA
+401161071,2019,"December 20, 2019",Golden State Warriors,New Orleans Pelicans,"6-24, 3-10 Home","7-23, 3-12 Away",106,102,NO -2.0,222,Final,NULL,31,25,22,28,,16,28,37,21,,NBA
+401161099,2019,"December 25, 2019",Golden State Warriors,Houston Rockets,"8-24, 5-10 Home","21-10, 11-6 Away",116,104,HOU -12.0,230,Final,ABC,28,36,28,24,,29,39,19,17,,NBA
+401161124,2019,"December 28, 2019",Golden State Warriors,Dallas Mavericks,"9-25, 6-11 Home","21-10, 12-3 Away",121,141,DAL -11.0,219,Final,NULL,41,33,24,23,,41,31,45,24,,NBA
+401161154,2019,"January 2, 2020",Minnesota Timberwolves,Golden State Warriors,"13-21, 5-11 Home","9-27, 3-16 Away",99,84,MIN -2.5,212,Final,NBATV,34,24,23,18,,19,22,26,17,,NBA
+401161189,2019,"January 6, 2020",Sacramento Kings,Golden State Warriors,"14-23, 8-10 Home","9-29, 3-17 Away",111,98,SAC -10.0,213,Final,NBATV,26,26,38,21,,19,21,24,34,,NBA
+401161218,2019,"January 10, 2020",LA Clippers,Golden State Warriors,"27-12, 17-4 Home","9-31, 3-18 Away",109,100,LAC -14.5,218,Final,NULL,22,26,25,36,,20,33,30,17,,NBA
+401161244,2019,"January 14, 2020",Golden State Warriors,Dallas Mavericks,"9-33, 6-14 Home","25-15, 13-5 Away",97,124,DAL -8.5,225,Final,NBATV,26,21,24,26,,36,29,29,30,,NBA
+401161276,2019,"January 18, 2020",Golden State Warriors,Orlando Magic,"10-34, 7-15 Home","20-23, 7-15 Away",109,95,ORL -6.0,214,Final,NULL,28,25,29,27,,25,27,19,24,,NBA
+401161307,2019,"January 22, 2020",Golden State Warriors,Utah Jazz,"10-36, 7-16 Home","31-13, 14-10 Away",96,129,UTAH -9.0,221,Final,NULL,17,26,26,27,,31,34,35,29,,NBA
+401161344,2019,"January 28, 2020",Philadelphia 76ers,Golden State Warriors,"31-17, 22-2 Home","10-38, 3-21 Away",115,104,PHI -13.0,216,Final,NULL,26,33,27,29,,27,27,28,22,,NBA
+401161372,2019,"February 1, 2020",Cleveland Cavaliers,Golden State Warriors,"13-37, 6-20 Home","11-39, 4-22 Away",112,131,CLE -2.0,225,Final,NULL,32,27,19,34,,31,30,44,26,,NBA
+401161399,2019,"February 5, 2020",Brooklyn Nets,Golden State Warriors,"23-27, 15-12 Home","12-40, 5-23 Away",129,88,BKN -7.0,222,Final,NULL,40,28,27,34,,25,22,17,24,,NBA
+401161442,2019,"February 10, 2020",Golden State Warriors,Miami Heat,"12-42, 7-19 Home","35-18, 13-15 Away",101,113,MIA -7.0,219,Final,NULL,20,23,32,26,,24,38,21,30,,NBA
+401161467,2019,"February 20, 2020",Golden State Warriors,Houston Rockets,"12-44, 7-20 Home","35-20, 16-12 Away",105,135,HOU -10.0,233,Final,TNT,17,33,27,28,,38,34,37,26,,NBA
+401161505,2019,"February 25, 2020",Golden State Warriors,Sacramento Kings,"12-46, 7-22 Home","24-33, 12-18 Away",94,112,SAC -7.5,223,Final,NULL,22,21,30,21,,33,22,26,31,,NBA
+401161536,2019,"February 29, 2020",Phoenix Suns,Golden State Warriors,"24-37, 11-21 Home","13-47, 6-24 Away",99,115,PHX -10.0,222,Final,NULL,41,24,16,18,,28,33,31,23,,NBA
+401161555,2019,"March 3, 2020",Denver Nuggets,Golden State Warriors,"41-20, 24-8 Home","14-48, 7-24 Away",100,116,DEN -16.0,218,Final,NULL,25,33,23,19,,26,23,33,34,,NBA
+401161586,2019,"March 7, 2020",Golden State Warriors,Philadelphia 76ers,"15-49, 8-25 Home","38-26, 10-24 Away",118,114,PHI -3.5,220,Final,ABC,21,34,27,36,,26,31,33,24,,NBA
+401160658,2019,"October 24, 2019",Golden State Warriors,LA Clippers,"0-1, 0-1 Home","2-0, 1-0 Away",122,141,LAC -1.0,229,Final,TNT,29,25,33,35,,35,30,46,30,,NBA
+401160689,2019,"October 28, 2019",New Orleans Pelicans,Golden State Warriors,"0-4, 0-2 Home","1-2, 1-1 Away",123,134,NO -2.5,236,Final,NBATV,23,32,24,44,,27,45,31,31,,NBA
+401160718,2019,"November 1, 2019",Golden State Warriors,San Antonio Spurs,"1-4, 0-3 Home","4-1, 1-1 Away",110,127,SA -7.0,222,Final,NULL,28,27,31,24,,29,28,40,30,,NBA
+401160738,2019,"November 4, 2019",Golden State Warriors,Portland Trail Blazers,"2-5, 1-4 Home","3-4, 3-2 Away",127,118,POR -12.0,220,Final,NBATV,34,26,27,40,,32,31,20,35,,NBA
+401160762,2019,"November 8, 2019",Minnesota Timberwolves,Golden State Warriors,"5-3, 2-1 Home","2-7, 1-3 Away",125,119,MIN -11.5,228,Final/OT,NULL,29,31,20,30,15,31,30,25,24,9,NBA
+401160786,2019,"November 11, 2019",Golden State Warriors,Utah Jazz,"2-9, 1-5 Home","7-3, 2-3 Away",108,122,UTAH -8.0,212,Final,NULL,30,24,31,23,,34,35,28,25,,NBA
+401160815,2019,"November 15, 2019",Golden State Warriors,Boston Celtics,"2-11, 1-6 Home","10-1, 5-1 Away",100,105,BOS -7.0,223,Final,ESPN,32,19,20,29,,23,29,24,29,,NBA
+401160840,2019,"November 19, 2019",Memphis Grizzlies,Golden State Warriors,"5-9, 3-6 Home","3-12, 2-6 Away",95,114,MEM -6.0,222,Final,NULL,30,16,26,23,,28,33,22,31,,NBA
+401160865,2019,"November 22, 2019",Utah Jazz,Golden State Warriors,"10-5, 7-1 Home","3-14, 2-8 Away",113,109,UTAH -16.0,209,Final,NULL,30,35,25,23,,28,23,21,37,,NBA
+401160908,2019,"November 27, 2019",Golden State Warriors,Chicago Bulls,"4-15, 2-7 Home","6-13, 3-6 Away",104,90,CHI -2.0,216,Final,NULL,25,28,25,26,,17,31,25,17,,NBA
+401160932,2019,"December 1, 2019",Orlando Magic,Golden State Warriors,"8-11, 7-4 Home","4-17, 2-10 Away",100,96,ORL -7.5,204,Final,NULL,26,25,21,28,,22,29,20,25,,NBA
+401160948,2019,"December 4, 2019",Charlotte Hornets,Golden State Warriors,"9-14, 5-6 Home","4-19, 2-12 Away",106,91,CHA -2.0,213,Final,NULL,28,30,28,20,,20,34,22,15,,NBA
+401160993,2019,"December 9, 2019",Golden State Warriors,Memphis Grizzlies,"5-20, 2-8 Home","7-16, 4-6 Away",102,110,GS -3.0,220,Final,NULL,20,27,32,23,,29,25,34,22,,NBA
+401161021,2019,"December 13, 2019",Utah Jazz,Golden State Warriors,"15-11, 10-3 Home","5-22, 3-13 Away",114,106,UTAH -14.0,211,Final,NULL,22,27,37,28,,29,27,28,22,,NBA
+401161057,2019,"December 18, 2019",Portland Trail Blazers,Golden State Warriors,"12-16, 6-6 Home","5-24, 3-14 Away",122,112,POR -9.5,222,Final,NULL,40,27,30,25,,29,37,26,20,,NBA
+401161096,2019,"December 23, 2019",Golden State Warriors,Minnesota Timberwolves,"7-24, 4-10 Home","10-19, 7-9 Away",113,104,GS -1.0,223,Final,NULL,22,35,27,29,,22,21,24,37,,NBA
+401161113,2019,"December 27, 2019",Golden State Warriors,Phoenix Suns,"9-24, 6-10 Home","11-20, 5-8 Away",105,96,PHX -3.5,225,Final,NBATV,25,18,23,39,,29,22,27,18,,NBA
+401161144,2019,"December 31, 2019",San Antonio Spurs,Golden State Warriors,"14-18, 10-8 Home","9-26, 3-15 Away",117,113,SA -11.0,217,Final/OT,NULL,25,28,24,23,17,32,23,20,25,13,NBA
+401161174,2019,"January 4, 2020",Golden State Warriors,Detroit Pistons,"9-28, 6-12 Home","13-23, 5-13 Away",104,111,DET -3.0,214,Final,NULL,23,36,21,24,,25,31,27,28,,NBA
+401161204,2019,"January 8, 2020",Golden State Warriors,Milwaukee Bucks,"9-30, 6-13 Home","33-6, 15-4 Away",98,107,MIL -14.0,218,Final,ESPN,19,20,33,26,,19,28,34,26,,NBA
+401161230,2019,"January 12, 2020",Memphis Grizzlies,Golden State Warriors,"18-22, 10-12 Home","9-32, 3-19 Away",122,102,MEM -6.5,226,Final,NULL,27,33,35,27,,26,33,17,26,,NBA
+401161259,2019,"January 16, 2020",Golden State Warriors,Denver Nuggets,"9-34, 6-15 Home","29-12, 12-7 Away",131,134,DEN -3.5,213,Final/OT,TNT,34,28,23,28,18,19,26,28,40,21,NBA
+401161294,2019,"January 20, 2020",Portland Trail Blazers,Golden State Warriors,"19-26, 10-10 Home","10-35, 3-20 Away",129,124,POR -7.0,222,Final/OT,TNT,27,26,34,26,16,23,34,35,21,11,NBA
+401161321,2019,"January 24, 2020",Golden State Warriors,Indiana Pacers,"10-37, 7-17 Home","30-16, 13-11 Away",118,129,IND -6.5,215,Final,NBATV,30,21,35,32,,35,32,31,31,,NBA
+401161359,2019,"January 30, 2020",Boston Celtics,Golden State Warriors,"32-15, 19-5 Home","10-39, 3-22 Away",119,104,BOS -13.5,224,Final,TNT,29,31,31,28,,22,28,29,25,,NBA
+401161386,2019,"February 3, 2020",Washington Wizards,Golden State Warriors,"17-32, 11-12 Home","12-39, 5-22 Away",117,125,WSH -6.5,233,Final,NULL,36,27,23,31,,40,32,27,26,,NBA
+401161425,2019,"February 8, 2020",Golden State Warriors,Los Angeles Lakers,"12-41, 7-18 Home","39-12, 22-5 Away",120,125,LAL -14.0,225,Final,ABC,25,34,25,36,,33,33,30,29,,NBA
+401161457,2019,"February 12, 2020",Phoenix Suns,Golden State Warriors,"22-33, 11-18 Home","12-43, 5-24 Away",112,106,PHX -6.5,227,Final,NULL,34,24,29,25,,24,26,26,30,,NBA
+401161489,2019,"February 23, 2020",Golden State Warriors,New Orleans Pelicans,"12-45, 7-21 Home","25-32, 14-15 Away",101,115,NO -10.5,239,Final,NBATV,33,23,21,24,,29,17,31,38,,NBA
+401161518,2019,"February 27, 2020",Golden State Warriors,Los Angeles Lakers,"12-47, 7-23 Home","45-12, 24-5 Away",86,116,LAL -10.5,220,Final,TNT,24,28,17,17,,24,30,40,22,,NBA
+401161543,2019,"March 1, 2020",Golden State Warriors,Washington Wizards,"13-48, 7-24 Home","22-37, 8-22 Away",110,124,WSH -7.0,233,Final,NULL,28,29,19,34,,35,28,31,30,,NBA
+401161571,2019,"March 5, 2020",Golden State Warriors,Toronto Raptors,"14-49, 7-25 Home","44-18, 21-9 Away",113,121,TOR -9.0,228,Final,TNT,27,28,33,25,,32,30,27,32,,NBA
+401161609,2019,"March 10, 2020",Golden State Warriors,LA Clippers,"15-50, 8-26 Home","44-20, 19-13 Away",107,131,LAC -12.5,224,Final,TNT,26,22,29,30,,35,41,35,20,,NBA
