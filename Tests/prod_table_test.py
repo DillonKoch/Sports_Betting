@@ -4,7 +4,7 @@
 # File Created: Thursday, 18th June 2020 1:48:50 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Saturday, 20th June 2020 8:10:28 pm
+# Last Modified: Sunday, 21st June 2020 7:28:03 am
 # Modified By: Dillon Koch
 # -----
 #
@@ -44,6 +44,7 @@ class Test_Prod_Table(TestCase):
     ncaab_dfs = ncaab._load_all_team_dfs(ncaab_df_paths)
 
     league_obs = [nfl, nba, ncaaf, ncaab]
+    all_dfs = [nfl_dfs, nba_dfs, ncaaf_dfs, ncaab_dfs]
 
     def setUp(self):
         pass
@@ -73,11 +74,45 @@ class Test_Prod_Table(TestCase):
                 self.assertIsInstance(item, str)
 
     def test_load_all_team_dfs(self):
-        for all_team_dfs in [self.nfl_dfs, self.nba_dfs, self.ncaaf_dfs, self.ncaab_dfs]:
+        for all_team_dfs in self.all_dfs:
             self.assertIsInstance(all_team_dfs, list)
             for df in all_team_dfs:
                 self.assertIsInstance(df, pd.DataFrame)
                 self.assertGreater(len(df), 0)
 
+    def test_add_datetime(self):
+        for all_team_dfs, league_ob in zip(self.all_dfs, self.league_obs):
+            for df in all_team_dfs:
+                df = league_ob._add_datetime(df)
+
     def test_remove_preseason(self):
-        pass
+        for all_team_dfs, league_ob in zip(self.all_dfs, self.league_obs):
+            for df in all_team_dfs:
+                df = league_ob._add_datetime(df)
+                df = league_ob._remove_preseason(df)
+                year = str(int(df.Season[0]))
+                start_date = league_ob.season_start_dict[year]
+                datetimes = list(df.datetime)
+                for dt in datetimes:
+                    self.assertGreaterEqual(dt, start_date)
+
+                if league_ob.league == "NFL":
+                    wk_1to4_count = 0
+                    df_weeks = list(df.Week)
+                    for week in df_weeks:
+                        if str(week) in list('1234'):
+                            wk_1to4_count += 1
+                    self.assertLessEqual(wk_1to4_count, 4)
+
+    def test_clean_concat_dfs(self):
+        for all_team_dfs, league_ob in zip(self.all_dfs, self.league_obs):
+            full_df = league_ob._clean_concat_team_dfs(all_team_dfs)
+            self.assertIsInstance(full_df, pd.DataFrame)
+            espn_ids = list(full_df.ESPN_ID)
+            self.assertEqual(len(full_df), len(set(espn_ids)))
+
+            dts = list(full_df.datetime)
+            current_dt = dts[0]
+            for dt in dts[1:]:
+                self.assertGreaterEqual(dt, current_dt)
+                current_dt = dt

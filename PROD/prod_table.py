@@ -4,7 +4,7 @@
 # File Created: Thursday, 18th June 2020 12:48:04 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Saturday, 20th June 2020 8:02:27 pm
+# Last Modified: Saturday, 20th June 2020 8:50:29 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -87,53 +87,60 @@ class Prod_Table:
                 all_team_dfs.append(current_df)
         return all_team_dfs
 
-    def _add_nfl_datetime(self, df):  # Helping Helper _remove_preseason
+    def _add_datetime(self, df):  # Helping Helper _remove_preseason Tested
         def add_dt(row):
             return datetime.datetime.strptime(row['Date'], "%B %d, %Y")
         df['datetime'] = df.apply(lambda row: add_dt(row), axis=1)
         df['datetime'] = pd.to_datetime(df['datetime']).apply(lambda x: x.date())
         return df
 
-    def _remove_preseason(self, df):  # Specific Helper load_espn_data
+    def _remove_preseason(self, df):  # Specific Helper load_espn_data  Tested
         if self.league == "NFL":
-            df = self._add_nfl_datetime(df)
             year = str(int(df.Season[0]))
             start_date = self.season_start_dict[year]
             df = df.loc[df.datetime >= start_date]
         return df
 
-    def _add_datetime(self, df):  # Specific Helper load_espn_data
-        def add_month(row):
-            months = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
-            month_to_num = {item: i + 1 for i, item in enumerate(months)}
-            current_month = [month for month in months if month in row['Date']][0]
-            return month_to_num[current_month]
-        df['month'] = df.apply(lambda row: add_month(row), axis=1)
+    # def _remove_preseason(self, df):  # Specific Helper load_espn_data
+    #     if self.league == "NFL":
+    #         df = self._add_nfl_datetime(df)
+    #         year = str(int(df.Season[0]))
+    #         start_date = self.season_start_dict[year]
+    #         df = df.loc[df.datetime >= start_date]
+    #     return df
 
-        def add_day(row):
-            date_words = row['Date'].replace(',', '').split(' ')
-            day = [item for item in date_words if len(item) <= 2][0]
-            return int(day)
-        df['day'] = df.apply(lambda row: add_day(row), axis=1)
+    # def _add_datetime(self, df):  # Specific Helper load_espn_data
+    #     def add_month(row):
+    #         months = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
+    #         month_to_num = {item: i + 1 for i, item in enumerate(months)}
+    #         current_month = [month for month in months if month in row['Date']][0]
+    #         return month_to_num[current_month]
+    #     df['month'] = df.apply(lambda row: add_month(row), axis=1)
 
-        def add_year(row):
-            season_start = self.season_start_dict[str(row['Season'])]
-            month = row['month']
-            year = row['Season']
-            if (month < season_start.month):
-                year += 1
-            return year
-        df['year'] = df.apply(lambda row: add_year(row), axis=1)
+    #     def add_day(row):
+    #         date_words = row['Date'].replace(',', '').split(' ')
+    #         day = [item for item in date_words if len(item) <= 2][0]
+    #         return int(day)
+    #     df['day'] = df.apply(lambda row: add_day(row), axis=1)
 
-        def add_dt(row):
-            return datetime.date(row['year'], row['month'], row['day'])
-        df['datetime'] = df.apply(lambda row: add_dt(row), axis=1)
-        return df
+    #     def add_year(row):
+    #         season_start = self.season_start_dict[str(row['Season'])]
+    #         month = row['month']
+    #         year = row['Season']
+    #         if (month < season_start.month):
+    #             year += 1
+    #         return year
+    #     df['year'] = df.apply(lambda row: add_year(row), axis=1)
+
+    #     def add_dt(row):
+    #         return datetime.date(row['year'], row['month'], row['day'])
+    #     df['datetime'] = df.apply(lambda row: add_dt(row), axis=1)
+    #     return df
 
     def _clean_concat_team_dfs(self, all_team_dfs):  # Specific Helper load_espn_data
-        if self.league in ["NCAAB", "NCAAF"]:
-            for df in all_team_dfs:
-                df.columns = [item if item != "ESPN ID" else "ESPN_ID" for item in list(df.columns)]
+        # if self.league in ["NCAAB", "NCAAF"]:
+        #     for df in all_team_dfs:
+        #         df.columns = [item if item != "ESPN ID" else "ESPN_ID" for item in list(df.columns)]
         full_df = pd.concat(all_team_dfs)
         full_df.drop_duplicates(subset="ESPN_ID", inplace=True)
         full_df.sort_values(by="datetime", inplace=True)
@@ -167,4 +174,4 @@ if __name__ == "__main__":
     x = Prod_Table("NFL")
     self = x
     # df = x.run()
-    espn_df = x.load_espn_data()
+    # espn_df = x.load_espn_data()
