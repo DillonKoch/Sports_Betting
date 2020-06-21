@@ -4,7 +4,7 @@
 # File Created: Thursday, 18th June 2020 1:48:50 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Sunday, 21st June 2020 7:28:03 am
+# Last Modified: Sunday, 21st June 2020 8:17:07 am
 # Modified By: Dillon Koch
 # -----
 #
@@ -13,11 +13,13 @@
 # ==============================================================================
 
 
+import datetime
 import sys
 from os.path import abspath, dirname
 from unittest import TestCase
 
 import pandas as pd
+
 
 ROOT_PATH = dirname(dirname(abspath(__file__)))
 if ROOT_PATH not in sys.path:
@@ -104,7 +106,7 @@ class Test_Prod_Table(TestCase):
                             wk_1to4_count += 1
                     self.assertLessEqual(wk_1to4_count, 4)
 
-    def test_clean_concat_dfs(self):
+    def test_clean_concat_team_dfs(self):
         for all_team_dfs, league_ob in zip(self.all_dfs, self.league_obs):
             full_df = league_ob._clean_concat_team_dfs(all_team_dfs)
             self.assertIsInstance(full_df, pd.DataFrame)
@@ -116,3 +118,16 @@ class Test_Prod_Table(TestCase):
             for dt in dts[1:]:
                 self.assertGreaterEqual(dt, current_dt)
                 current_dt = dt
+
+    def test_load_espn_data(self):
+        for league_ob in self.league_obs:
+            espn_df = league_ob.load_espn_data()
+            self.assertIsInstance(espn_df, pd.DataFrame)
+
+            today = datetime.date.today()
+            past_df = espn_df[espn_df.datetime < today]
+            cols = ["ESPN_ID", "Season", "Home", "Away", "Home_Score", "Away_Score",
+                    "Final_Status", "League"]
+            for col in cols:
+                nulls = past_df[col].isnull().sum()
+                self.assertEqual(0, nulls)

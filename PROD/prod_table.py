@@ -4,7 +4,7 @@
 # File Created: Thursday, 18th June 2020 12:48:04 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Saturday, 20th June 2020 8:50:29 pm
+# Last Modified: Sunday, 21st June 2020 8:19:26 am
 # Modified By: Dillon Koch
 # -----
 #
@@ -83,6 +83,8 @@ class Prod_Table:
         all_team_dfs = []
         for path in tqdm(df_paths):
             current_df = pd.read_csv(path)
+            current_df = current_df[current_df.Home.notnull()]
+            current_df = current_df[current_df.Final_Status.notnull()]
             if len(current_df) > 0:
                 all_team_dfs.append(current_df)
         return all_team_dfs
@@ -101,58 +103,19 @@ class Prod_Table:
             df = df.loc[df.datetime >= start_date]
         return df
 
-    # def _remove_preseason(self, df):  # Specific Helper load_espn_data
-    #     if self.league == "NFL":
-    #         df = self._add_nfl_datetime(df)
-    #         year = str(int(df.Season[0]))
-    #         start_date = self.season_start_dict[year]
-    #         df = df.loc[df.datetime >= start_date]
-    #     return df
-
-    # def _add_datetime(self, df):  # Specific Helper load_espn_data
-    #     def add_month(row):
-    #         months = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
-    #         month_to_num = {item: i + 1 for i, item in enumerate(months)}
-    #         current_month = [month for month in months if month in row['Date']][0]
-    #         return month_to_num[current_month]
-    #     df['month'] = df.apply(lambda row: add_month(row), axis=1)
-
-    #     def add_day(row):
-    #         date_words = row['Date'].replace(',', '').split(' ')
-    #         day = [item for item in date_words if len(item) <= 2][0]
-    #         return int(day)
-    #     df['day'] = df.apply(lambda row: add_day(row), axis=1)
-
-    #     def add_year(row):
-    #         season_start = self.season_start_dict[str(row['Season'])]
-    #         month = row['month']
-    #         year = row['Season']
-    #         if (month < season_start.month):
-    #             year += 1
-    #         return year
-    #     df['year'] = df.apply(lambda row: add_year(row), axis=1)
-
-    #     def add_dt(row):
-    #         return datetime.date(row['year'], row['month'], row['day'])
-    #     df['datetime'] = df.apply(lambda row: add_dt(row), axis=1)
-    #     return df
-
-    def _clean_concat_team_dfs(self, all_team_dfs):  # Specific Helper load_espn_data
-        # if self.league in ["NCAAB", "NCAAF"]:
-        #     for df in all_team_dfs:
-        #         df.columns = [item if item != "ESPN ID" else "ESPN_ID" for item in list(df.columns)]
+    def _clean_concat_team_dfs(self, all_team_dfs):  # Specific Helper load_espn_data  Tested
         full_df = pd.concat(all_team_dfs)
         full_df.drop_duplicates(subset="ESPN_ID", inplace=True)
         full_df.sort_values(by="datetime", inplace=True)
         return full_df
 
-    def load_espn_data(self):  # Top Level
+    def load_espn_data(self):  # Top Level  Tested
         df_paths = self._get_df_paths()
         all_team_dfs = self._load_all_team_dfs(df_paths)
-        all_team_dfs = [self._remove_preseason(df) for df in all_team_dfs]
         all_team_dfs = [self._add_datetime(df) for df in all_team_dfs]
+        all_team_dfs = [self._remove_preseason(df) for df in all_team_dfs]
         espn_df = self._clean_concat_team_dfs(all_team_dfs)
-        espn_df = espn_df.loc[:, self.config["ESPN_cols"]]
+        espn_df = espn_df.loc[:, self.config["ESPN_cols"] + ["datetime"]]
         return espn_df
 
     def add_espn_stats_data(self):  # Top Level
@@ -164,14 +127,21 @@ class Prod_Table:
     def add_esb_data(self):  # Top Level
         pass
 
-    def run(self):  # Run
-        exists = self.check_table_exists()
-        df = self.load_prod_df() if exists else self.create_dataframe()
-        return df
+    # def run(self):  # Run
+    #     exists = self.check_table_exists()
+    #     df = self.load_prod_df() if exists else self.create_dataframe()
+    #     return df
+
+    def prod_table_from_scratch(self):  # Run
+        df = self.create_dataframe()
+
+    def update_prod_table(self):  # Run
+        pass
 
 
 if __name__ == "__main__":
-    x = Prod_Table("NFL")
+    x = Prod_Table("NCAAF")
     self = x
     # df = x.run()
-    # espn_df = x.load_espn_data()
+    espn_df = x.load_espn_data()
+    espn_df.to_csv("temp_ncaab.csv")
