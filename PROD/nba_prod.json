@@ -26,8 +26,41 @@
         "AOT",
         "League"
     ],
-    "ESPN_stats_cols": [],
-    "Odds_cols": [],
+    "ESPN_stats_cols": [
+        "field_goals",
+        "field_goal_pct",
+        "three_pointers",
+        "three_point_pct",
+        "free_throws",
+        "free_throw_pct",
+        "rebounds",
+        "assists",
+        "steals",
+        "blocks",
+        "total_turnovers",
+        "fast_break_points",
+        "points_in_paint",
+        "fouls",
+        "largest_lead",
+        "offensive_rebounds",
+        "defensive_rebounds",
+        "points_off_turnovers",
+        "technical_fouls",
+        "flagrant_fouls"
+    ],
+    "Odds_cols": [
+        "Home_ML",
+        "Away_ML",
+        "Open_Home_Line",
+        "Open_Away_Line",
+        "Close_Home_Line",
+        "Close_Away_Line",
+        "Open_OU",
+        "Close_OU",
+        "2H_OU",
+        "2H_Home_Line",
+        "2H_Away_Line"
+    ],
     "season_start_dates": {
         "2007": [
             2007,

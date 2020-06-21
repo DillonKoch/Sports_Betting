@@ -4,7 +4,7 @@
 # File Created: Thursday, 18th June 2020 12:48:04 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Sunday, 21st June 2020 8:19:26 am
+# Last Modified: Sunday, 21st June 2020 9:41:53 am
 # Modified By: Dillon Koch
 # -----
 #
@@ -118,30 +118,38 @@ class Prod_Table:
         espn_df = espn_df.loc[:, self.config["ESPN_cols"] + ["datetime"]]
         return espn_df
 
-    def add_espn_stats_data(self):  # Top Level
+    def add_odds_data(self, df):  # Top Level
         pass
 
-    def add_odds_data(self):  # Top Level
+    def add_esb_data(self, df):  # Top Level
         pass
 
-    def add_esb_data(self):  # Top Level
-        pass
-
-    # def run(self):  # Run
-    #     exists = self.check_table_exists()
-    #     df = self.load_prod_df() if exists else self.create_dataframe()
-    #     return df
+    def add_espn_stats_cols(self, df):  # Top Level
+        stats_cols = self.config["ESPN_stats_cols"]
+        for col in stats_cols:
+            df["home_" + col] = None
+            df["away_" + col] = None
+        return df
 
     def prod_table_from_scratch(self):  # Run
-        df = self.create_dataframe()
+        df = self.load_espn_data()
+        df = self.add_odds_data(df)
+        df = self.add_esb_data(df)
+        df = self.add_espn_stats_cols(df)
+        return df
+
+    def update_espn_stats(self, prod_df):  # Top Level
+        pass
 
     def update_prod_table(self):  # Run
-        pass
+        df = self.load_prod_df()
+        self.update_espn_stats(df)
 
 
 if __name__ == "__main__":
-    x = Prod_Table("NCAAF")
+    x = Prod_Table("NCAAB")
     self = x
     # df = x.run()
     espn_df = x.load_espn_data()
+    espn_df = x.add_espn_stats_cols(espn_df)
     espn_df.to_csv("temp_ncaab.csv")

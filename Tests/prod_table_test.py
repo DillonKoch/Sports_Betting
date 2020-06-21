@@ -4,7 +4,7 @@
 # File Created: Thursday, 18th June 2020 1:48:50 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Sunday, 21st June 2020 8:17:07 am
+# Last Modified: Sunday, 21st June 2020 8:46:51 am
 # Modified By: Dillon Koch
 # -----
 #
@@ -131,3 +131,20 @@ class Test_Prod_Table(TestCase):
             for col in cols:
                 nulls = past_df[col].isnull().sum()
                 self.assertEqual(0, nulls)
+
+    def test_add_espn_stats_cols(self):
+        for league_ob in self.league_obs:
+            espn_df = league_ob.load_espn_data()
+            espn_df = league_ob.add_espn_stats_cols(espn_df)
+
+            stats_cols = league_ob.config["ESPN_stats_cols"]
+            for col in stats_cols:
+                hcol = "home_" + col
+                acol = "away_" + col
+                self.assertIn(hcol, list(espn_df.columns))
+                self.assertIn(acol, list(espn_df.columns))
+
+                home_non_nulls = espn_df[hcol].notnull().sum()
+                away_non_nulls = espn_df[acol].notnull().sum()
+                self.assertEqual(0, home_non_nulls)
+                self.assertEqual(0, away_non_nulls)
