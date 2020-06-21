@@ -2,7 +2,7 @@ from unittest import TestCase
 
 from bs4 import BeautifulSoup as soup
 
-from Utility import get_sp1
+from Utility.Utility import get_sp1
 
 
 class TestUtility(TestCase):

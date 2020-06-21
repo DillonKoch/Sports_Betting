@@ -4,7 +4,7 @@
 # File Created: Thursday, 18th June 2020 12:48:04 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Thursday, 18th June 2020 6:03:10 pm
+# Last Modified: Saturday, 20th June 2020 8:02:27 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -49,12 +49,11 @@ class Prod_Table:
 
     def _show_team_dfs_dict(self):  # Global Helper not used in run(), but helpful
         team_dict = {team: 0 for team in self.teams}
-        df_paths = self._get_espn_paths()
+        df_paths = self._get_df_paths()
         for item in df_paths:
             for team in self.teams:
                 if team in item:
                     team_dict[team] += 1
-        print(team_dict)
         return team_dict
 
     def check_table_exists(self):  # Top Level  Tested
@@ -95,7 +94,7 @@ class Prod_Table:
         df['datetime'] = pd.to_datetime(df['datetime']).apply(lambda x: x.date())
         return df
 
-    def _remove_preseason(self, df):  # Specific Helper load_espn_data  Tested
+    def _remove_preseason(self, df):  # Specific Helper load_espn_data
         if self.league == "NFL":
             df = self._add_nfl_datetime(df)
             year = str(int(df.Season[0]))
@@ -131,7 +130,7 @@ class Prod_Table:
         df['datetime'] = df.apply(lambda row: add_dt(row), axis=1)
         return df
 
-    def _clean_concat_team_dfs(self, all_team_dfs):  # Specific Helper load_espn_data  Tested
+    def _clean_concat_team_dfs(self, all_team_dfs):  # Specific Helper load_espn_data
         if self.league in ["NCAAB", "NCAAF"]:
             for df in all_team_dfs:
                 df.columns = [item if item != "ESPN ID" else "ESPN_ID" for item in list(df.columns)]
@@ -140,7 +139,7 @@ class Prod_Table:
         full_df.sort_values(by="datetime", inplace=True)
         return full_df
 
-    def load_espn_data(self):  # Top Level  Tested
+    def load_espn_data(self):  # Top Level
         df_paths = self._get_df_paths()
         all_team_dfs = self._load_all_team_dfs(df_paths)
         all_team_dfs = [self._remove_preseason(df) for df in all_team_dfs]

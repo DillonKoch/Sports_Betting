@@ -1,0 +1,65 @@
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+401160658,2019,"October 24, 2019",Golden State Warriors,LA Clippers,"0-1, 0-1 Home","2-0, 1-0 Away",122,141,LAC -1.0,229,Final,TNT,29,25,33,35,,35,30,46,30,,NBA
+401160693,2019,"October 28, 2019",LA Clippers,Charlotte Hornets,"3-1, 2-0 Home","1-3, 0-2 Away",111,96,LAC -15.5,228,Final,NBATV,29,28,29,25,,28,26,20,22,,NBA
+401160710,2019,"October 31, 2019",LA Clippers,San Antonio Spurs,"4-2, 3-0 Home","3-1, 0-1 Away",103,97,LAC -5.0,229,Final,NULL,23,27,30,23,,24,24,27,22,,NBA
+401160753,2019,"November 6, 2019",LA Clippers,Milwaukee Bucks,"5-3, 4-1 Home","6-2, 4-1 Away",124,129,MIL -6.5,228,Final,ESPN,30,29,30,35,,28,42,28,31,,NBA
+401160787,2019,"November 11, 2019",LA Clippers,Toronto Raptors,"7-3, 6-1 Home","7-3, 3-3 Away",98,88,LAC -9.5,221,Final,NBATV,15,36,22,25,,23,23,32,10,,NBA
+401160806,2019,"November 14, 2019",New Orleans Pelicans,LA Clippers,"3-8, 2-4 Home","7-5, 1-4 Away",132,127,LAC -4.0,233,Final,NULL,34,38,24,36,,35,24,38,30,,NBA
+401160839,2019,"November 18, 2019",LA Clippers,Oklahoma City Thunder,"9-5, 8-1 Home","5-8, 0-5 Away",90,88,LAC -7.5,222,Final,NULL,23,19,24,24,,17,30,17,24,,NBA
+401160866,2019,"November 22, 2019",LA Clippers,Houston Rockets,"11-5, 10-1 Home","11-5, 5-4 Away",122,119,LAC -5.5,226,Final,ESPN,31,24,25,42,,23,28,33,35,,NBA
+401160893,2019,"November 26, 2019",Dallas Mavericks,LA Clippers,"11-6, 6-4 Home","13-5, 2-4 Away",99,114,LAC -1.5,226,Final,NBATV,27,19,31,22,,34,28,31,21,,NBA
+401160918,2019,"November 29, 2019",San Antonio Spurs,LA Clippers,"7-13, 5-6 Home","14-6, 3-5 Away",107,97,LAC -5.0,225,Final,NULL,27,26,29,25,,30,23,18,26,,NBA
+401160947,2019,"December 3, 2019",LA Clippers,Portland Trail Blazers,"16-6, 13-1 Home","8-13, 5-9 Away",117,97,LAC -9.0,234,Final,TNT,29,33,27,28,,30,29,17,21,,NBA
+401160981,2019,"December 8, 2019",Washington Wizards,LA Clippers,"7-15, 4-6 Home","17-7, 4-6 Away",119,135,LAC -9.0,235,Final,NULL,25,39,29,26,,35,30,35,35,,NBA
+401161001,2019,"December 11, 2019",Toronto Raptors,LA Clippers,"16-8, 9-3 Home","19-7, 6-6 Away",92,112,LAC -3.0,222,Final,ESPN,32,14,25,21,,27,37,24,24,,NBA
+401161024,2019,"December 14, 2019",Chicago Bulls,LA Clippers,"10-18, 6-10 Home","20-8, 7-7 Away",109,106,LAC -3.5,214,Final,NULL,24,31,29,25,,29,28,22,27,,NBA
+401161061,2019,"December 19, 2019",LA Clippers,Houston Rockets,"21-9, 14-2 Home","19-9, 9-5 Away",117,122,LAC -5.5,236,Final,TNT,28,41,18,30,,27,27,36,32,,NBA
+401161084,2019,"December 22, 2019",Oklahoma City Thunder,LA Clippers,"15-14, 11-5 Home","22-10, 8-8 Away",118,112,EVEN,224,Final,NBATV,27,30,29,32,,33,30,26,23,,NBA
+401161127,2019,"December 28, 2019",LA Clippers,Utah Jazz,"23-11, 14-3 Home","20-12, 8-9 Away",107,120,LAC -7.5,222,Final,NULL,32,31,29,15,,22,39,32,27,,NBA
+401161158,2019,"January 2, 2020",LA Clippers,Detroit Pistons,"25-11, 15-3 Home","12-23, 4-13 Away",126,112,LAC -12.5,225,Final,NBATV,30,39,37,20,,33,30,16,33,,NBA
+401161176,2019,"January 5, 2020",LA Clippers,New York Knicks,"26-12, 16-4 Home","10-26, 5-14 Away",135,132,LAC -9.5,221,Final,NULL,29,47,38,21,,45,24,31,32,,NBA
+401161231,2019,"January 12, 2020",Denver Nuggets,LA Clippers,"27-12, 16-5 Home","27-13, 10-9 Away",114,104,EVEN,221,Final,NULL,29,37,23,25,,30,22,22,30,,NBA
+401161260,2019,"January 16, 2020",LA Clippers,Orlando Magic,"29-13, 19-4 Home","20-22, 7-14 Away",122,95,LAC -10.0,217,Final,NULL,34,33,24,31,,26,22,28,19,,NBA
+401161295,2019,"January 21, 2020",Dallas Mavericks,LA Clippers,"27-16, 13-11 Home","31-13, 12-9 Away",107,110,DAL -2.5,232,Final,NBATV,24,25,29,29,,24,36,22,28,,NBA
+401161315,2019,"January 24, 2020",Miami Heat,LA Clippers,"31-14, 20-2 Home","32-14, 13-10 Away",117,122,LAC -2.0,219,Final,ESPN,30,35,20,32,,22,41,38,21,,NBA
+401161369,2019,"February 1, 2020",LA Clippers,Minnesota Timberwolves,"34-15, 20-5 Home","15-33, 9-15 Away",118,106,LAC -10.5,231,Final,NULL,40,22,36,20,,32,23,31,20,,NBA
+401161405,2019,"February 5, 2020",LA Clippers,Miami Heat,"36-15, 22-5 Home","34-16, 12-13 Away",128,111,LAC -6.5,225,Final,ESPN,25,30,37,36,,23,35,22,31,,NBA
+401161433,2019,"February 9, 2020",Cleveland Cavaliers,LA Clippers,"13-40, 6-22 Home","37-16, 15-11 Away",92,133,LAC -6.0,232,Final,NULL,21,29,23,19,,36,37,34,26,,NBA
+401161460,2019,"February 13, 2020",Boston Celtics,LA Clippers,"38-16, 23-5 Home","37-18, 15-13 Away",141,133,BOS -1.0,228,Final/2OT,TNT,30,30,31,23,27,32,26,29,27,19,NBA
+401161498,2019,"February 24, 2020",LA Clippers,Memphis Grizzlies,"38-19, 23-6 Home","28-29, 12-16 Away",124,97,LAC -11.5,235,Final,NBATV,40,26,24,34,,14,23,29,31,,NBA
+401161528,2019,"February 28, 2020",LA Clippers,Denver Nuggets,"40-19, 24-6 Home","40-19, 17-12 Away",132,103,LAC -7.0,220,Final,ESPN,37,29,32,34,,27,29,23,24,,NBA
+401161554,2019,"March 3, 2020",Oklahoma City Thunder,LA Clippers,"37-24, 20-13 Home","42-19, 17-13 Away",94,109,LAC -4.5,229,Final,NULL,27,20,23,24,,38,21,30,20,,NBA
+401161590,2019,"March 8, 2020",LA Clippers,Los Angeles Lakers,"43-20, 25-7 Home","49-13, 26-6 Away",103,112,LAC -2.0,226,Final,ABC,25,28,28,22,,27,22,36,27,,NBA
+401160624,2019,"October 22, 2019",LA Clippers,Los Angeles Lakers,"1-0, 1-0 Home","0-1, 0-1 Away",112,102,LAL -3.5,224,Final,TNT,22,40,23,27,,25,29,31,17,,NBA
+401160677,2019,"October 26, 2019",Phoenix Suns,LA Clippers,"2-1, 2-0 Home","2-1, 1-1 Away",130,122,LAC -10.0,226,Final,NBATV,26,29,36,39,,22,33,30,37,,NBA
+401160705,2019,"October 30, 2019",Utah Jazz,LA Clippers,"4-1, 3-0 Home","3-2, 1-2 Away",110,96,UTAH -6.5,217,Final,ESPN,33,19,38,20,,23,28,20,25,,NBA
+401160732,2019,"November 3, 2019",LA Clippers,Utah Jazz,"5-2, 4-0 Home","4-3, 1-3 Away",105,94,LAC -4.5,214,Final,NULL,16,23,26,40,,20,21,28,25,,NBA
+401160757,2019,"November 7, 2019",LA Clippers,Portland Trail Blazers,"6-3, 5-1 Home","3-5, 3-3 Away",107,101,LAC -6.0,231,Final,TNT,26,21,23,37,,22,18,36,25,,NBA
+401160799,2019,"November 13, 2019",Houston Rockets,LA Clippers,"8-3, 4-1 Home","7-4, 1-3 Away",102,93,HOU -2.5,234,Final,ESPN,31,18,25,28,,15,22,31,25,,NBA
+401160824,2019,"November 16, 2019",LA Clippers,Atlanta Hawks,"8-5, 7-1 Home","4-8, 2-4 Away",150,101,LAC -9.0,224,Final,NULL,43,31,38,38,,30,32,20,19,,NBA
+401160854,2019,"November 20, 2019",LA Clippers,Boston Celtics,"10-5, 9-1 Home","11-3, 6-3 Away",107,104,LAC -7.5,218,Final/OT,ESPN,22,18,29,28,10,21,21,33,22,7,NBA
+401160881,2019,"November 24, 2019",LA Clippers,New Orleans Pelicans,"12-5, 11-1 Home","6-11, 2-7 Away",134,109,LAC -13.0,233,Final,NULL,40,32,28,34,,27,29,31,22,,NBA
+401160902,2019,"November 27, 2019",Memphis Grizzlies,LA Clippers,"5-12, 3-8 Home","14-5, 3-4 Away",119,121,LAC -6.0,227,Final,NULL,31,29,28,31,,35,29,28,29,,NBA
+401160934,2019,"December 1, 2019",LA Clippers,Washington Wizards,"15-6, 12-1 Home","6-12, 3-8 Away",150,125,LAC -12.0,240,Final,NULL,39,43,34,34,,35,22,41,27,,NBA
+401160969,2019,"December 6, 2019",Milwaukee Bucks,LA Clippers,"20-3, 10-1 Home","16-7, 3-6 Away",119,91,MIL -4.5,234,Final,NULL,30,22,35,32,,15,28,19,29,,NBA
+401160985,2019,"December 9, 2019",Indiana Pacers,LA Clippers,"15-9, 9-3 Home","18-7, 5-6 Away",99,110,IND -2.5,217,Final,NULL,19,29,25,26,,24,36,31,19,,NBA
+401161019,2019,"December 13, 2019",Minnesota Timberwolves,LA Clippers,"10-15, 3-9 Home","20-7, 7-6 Away",117,124,LAC -4.5,229,Final,ESPN,29,29,23,36,,33,32,37,22,,NBA
+401161048,2019,"December 17, 2019",LA Clippers,Phoenix Suns,"21-8, 14-1 Home","11-16, 5-6 Away",120,99,LAC -14.0,225,Final,NBATV,31,23,36,30,,23,21,25,30,,NBA
+401161078,2019,"December 21, 2019",San Antonio Spurs,LA Clippers,"11-17, 8-8 Home","22-9, 8-7 Away",109,134,LAC -7.0,226,Final,NULL,31,30,22,26,,33,39,38,24,,NBA
+401161100,2019,"December 25, 2019",Los Angeles Lakers,LA Clippers,"24-7, 10-4 Home","23-10, 9-8 Away",106,111,LAL -2.5,223,Final,ABC,33,30,23,20,,31,20,35,25,,NBA
+401161141,2019,"December 31, 2019",Sacramento Kings,LA Clippers,"12-22, 6-9 Home","24-11, 10-8 Away",87,105,LAC -7.0,221,Final,NULL,23,17,33,14,,28,29,31,17,,NBA
+401161165,2019,"January 4, 2020",LA Clippers,Memphis Grizzlies,"25-12, 15-4 Home","14-22, 7-10 Away",114,140,LAC -10.0,232,Final,NULL,27,30,23,34,,40,25,39,36,,NBA
+401161218,2019,"January 10, 2020",LA Clippers,Golden State Warriors,"27-12, 17-4 Home","9-31, 3-18 Away",109,100,LAC -14.5,218,Final,NULL,22,26,25,36,,20,33,30,17,,NBA
+401161245,2019,"January 14, 2020",LA Clippers,Cleveland Cavaliers,"28-13, 18-4 Home","12-29, 6-15 Away",128,103,LAC -16.5,225,Final,NULL,31,35,40,22,,26,24,21,32,,NBA
+401161268,2019,"January 18, 2020",New Orleans Pelicans,LA Clippers,"16-27, 8-13 Home","30-13, 11-9 Away",130,133,LAC -5.5,236,Final,ABC,35,45,30,20,,33,39,30,31,,NBA
+401161298,2019,"January 22, 2020",Atlanta Hawks,LA Clippers,"11-34, 6-16 Home","31-14, 12-10 Away",102,95,LAC -4.5,229,Final,NULL,16,25,28,33,,32,28,15,20,,NBA
+401161331,2019,"January 26, 2020",Orlando Magic,LA Clippers,"21-26, 13-11 Home","33-14, 14-10 Away",97,112,LAC -3.5,218,Final,NULL,28,24,20,25,,26,28,31,27,,NBA
+401161361,2019,"January 30, 2020",LA Clippers,Sacramento Kings,"33-15, 19-5 Home","18-30, 10-16 Away",103,124,LAC -14.0,225,Final,NULL,33,14,24,32,,28,36,21,39,,NBA
+401161392,2019,"February 3, 2020",LA Clippers,San Antonio Spurs,"35-15, 21-5 Home","22-27, 8-15 Away",108,105,LAC -9.0,230,Final,NBATV,29,25,31,23,,39,24,19,23,,NBA
+401161424,2019,"February 8, 2020",Minnesota Timberwolves,LA Clippers,"16-35, 7-19 Home","36-16, 14-11 Away",142,115,LAC -10.0,233,Final,NULL,40,41,31,30,,31,28,29,27,,NBA
+401161444,2019,"February 11, 2020",Philadelphia 76ers,LA Clippers,"34-21, 25-2 Home","37-17, 15-12 Away",110,103,EVEN,229,Final,TNT,30,24,27,29,,22,32,23,26,,NBA
+401161477,2019,"February 22, 2020",LA Clippers,Sacramento Kings,"37-19, 22-6 Home","23-33, 11-18 Away",103,112,LAC -9.0,232,Final,NULL,13,35,35,20,,25,29,34,24,,NBA
+401161513,2019,"February 26, 2020",Phoenix Suns,LA Clippers,"24-35, 11-19 Home","39-19, 16-13 Away",92,102,LAC -7.5,233,Final,NULL,29,20,17,26,,21,33,22,26,,NBA
+401161539,2019,"March 1, 2020",LA Clippers,Philadelphia 76ers,"41-19, 25-6 Home","37-24, 9-22 Away",136,130,LAC -13.5,219,Final,ABC,34,36,38,28,,39,33,24,34,,NBA
+401161569,2019,"March 5, 2020",Houston Rockets,LA Clippers,"39-22, 21-9 Home","43-19, 18-13 Away",105,120,LAC -1.0,237,Final,TNT,23,21,21,40,,33,34,23,30,,NBA
+401161609,2019,"March 10, 2020",Golden State Warriors,LA Clippers,"15-50, 8-26 Home","44-20, 19-13 Away",107,131,LAC -12.5,224,Final,TNT,26,22,29,30,,35,41,35,20,,NBA

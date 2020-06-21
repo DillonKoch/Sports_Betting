@@ -4,7 +4,7 @@
 # File Created: Saturday, 23rd May 2020 11:04:56 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Saturday, 20th June 2020 11:34:55 am
+# Last Modified: Saturday, 20th June 2020 5:29:31 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -114,7 +114,6 @@ class ESPN_Season_Scraper:
                     row += [None]
         else:
             for scores in [game.home_half_scores, game.away_half_scores]:
-                print("Scores: ", scores)
                 if ((self.league == "NCAAB") and (len(scores) == 4)):
                     first_half = int(scores[0]) + int(scores[1])
                     second_half = int(scores[2]) + int(scores[3])
@@ -128,7 +127,6 @@ class ESPN_Season_Scraper:
                     row += [item for item in scores]
                     if len(scores) == self.q_amount:
                         row += [None]
-                        print("added none")
 
         if self.league == "NFL":
             row.append(week)
@@ -235,6 +233,6 @@ if __name__ == "__main__":
     # year = 2019
     # season_type = 2
     # name = "Atlanta Hawks"
-    x = ESPN_Season_Scraper("NBA")
+    x = ESPN_Season_Scraper("NCAAB")
     # x.scrape_nba_playoffs()
     x.scrape_all_leauge_history()

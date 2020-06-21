@@ -1,0 +1,66 @@
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
+401160672,2019,"October 26, 2019",Cleveland Cavaliers,Indiana Pacers,"1-1, 1-0 Home","0-2, 0-1 Away",110,99,IND -5.0,214,Final,NULL,26,39,25,20,,28,20,26,25,,NBA
+401160701,2019,"October 30, 2019",Brooklyn Nets,Indiana Pacers,"1-3, 1-2 Home","1-3, 1-2 Away",108,118,BKN -3.5,221,Final,NULL,31,32,20,25,,31,29,30,28,,NBA
+401160727,2019,"November 3, 2019",Indiana Pacers,Chicago Bulls,"39-26, 21-11 Home","22-43, 8-23 Away",108,95,IND -2.0,217,Final,NULL,24,31,31,22,,18,24,32,21,,NBA
+401160746,2019,"November 6, 2019",Indiana Pacers,Washington Wizards,"4-4, 3-1 Home","2-5, 1-3 Away",121,106,IND -3.0,227,Final,NULL,26,44,24,27,,26,36,18,26,,NBA
+401160775,2019,"November 10, 2019",Orlando Magic,Indiana Pacers,"3-7, 3-3 Home","6-4, 2-3 Away",102,109,ORL -5.0,203,Final,NULL,33,27,17,25,,29,22,30,28,,NBA
+401160811,2019,"November 15, 2019",Houston Rockets,Indiana Pacers,"9-3, 5-1 Home","7-5, 2-4 Away",111,102,HOU -6.5,226,Final,NULL,26,28,26,31,,22,27,30,23,,NBA
+401160832,2019,"November 18, 2019",Brooklyn Nets,Indiana Pacers,"5-8, 3-3 Home","8-6, 3-4 Away",86,115,BKN -2.5,214,Final,NULL,18,17,33,18,,18,41,25,31,,NBA
+401160884,2019,"November 25, 2019",Indiana Pacers,Memphis Grizzlies,"10-6, 7-2 Home","5-11, 2-4 Away",126,114,IND -9.5,217,Final,NULL,36,31,37,22,,27,29,27,31,,NBA
+401160914,2019,"November 29, 2019",Indiana Pacers,Atlanta Hawks,"12-6, 9-2 Home","4-15, 2-8 Away",105,104,IND -10.5,224,Final/OT,NULL,22,21,29,22,11,23,31,11,29,10,NBA
+401160938,2019,"December 2, 2019",Memphis Grizzlies,Indiana Pacers,"6-14, 3-10 Home","13-7, 4-5 Away",104,117,IND -9.5,216,Final,NULL,19,28,26,31,,24,33,28,32,,NBA
+401160964,2019,"December 6, 2019",Detroit Pistons,Indiana Pacers,"9-14, 7-5 Home","14-8, 5-6 Away",108,101,IND -1.5,212,Final,NULL,32,23,16,37,,19,25,31,26,,NBA
+401160985,2019,"December 9, 2019",Indiana Pacers,LA Clippers,"15-9, 9-3 Home","18-7, 5-6 Away",99,110,IND -2.5,217,Final,NULL,19,29,25,26,,24,36,31,19,,NBA
+401161015,2019,"December 13, 2019",Atlanta Hawks,Indiana Pacers,"6-20, 3-9 Home","17-9, 7-6 Away",100,110,IND -6.0,225,Final,NULL,22,26,35,17,,29,34,23,24,,NBA
+401161044,2019,"December 17, 2019",Indiana Pacers,Los Angeles Lakers,"19-9, 12-3 Home","24-4, 14-2 Away",105,102,LAL -1.0,213,Final,NBATV,24,26,28,27,,28,24,24,26,,NBA
+401161083,2019,"December 22, 2019",Milwaukee Bucks,Indiana Pacers,"27-4, 15-2 Home","20-10, 7-7 Away",117,89,MIL -8.0,221,Final,NULL,21,38,24,34,,22,33,18,16,,NBA
+401161112,2019,"December 27, 2019",Miami Heat,Indiana Pacers,"23-8, 14-1 Home","21-11, 7-8 Away",113,112,MIA -5.0,211,Final,NULL,25,33,26,29,,27,28,27,30,,NBA
+401161140,2019,"December 31, 2019",Indiana Pacers,Philadelphia 76ers,"22-12, 15-3 Home","23-13, 7-11 Away",115,97,IND -3.5,212,Final,NULL,29,38,29,19,,27,16,23,31,,NBA
+401161168,2019,"January 4, 2020",Atlanta Hawks,Indiana Pacers,"8-28, 4-12 Home","22-14, 7-10 Away",116,111,IND -7.0,221,Final,NULL,43,21,32,20,,26,34,35,16,,NBA
+401161198,2019,"January 8, 2020",Indiana Pacers,Miami Heat,"23-15, 15-5 Home","27-10, 10-9 Away",108,122,IND -1.0,210,Final,NULL,23,26,23,36,,31,31,38,22,,NBA
+401161234,2019,"January 13, 2020",Indiana Pacers,Philadelphia 76ers,"25-15, 16-5 Home","25-16, 7-14 Away",101,95,IND -3.5,215,Final,NULL,22,18,29,32,,23,26,20,26,,NBA
+401161261,2019,"January 17, 2020",Indiana Pacers,Minnesota Timberwolves,"27-15, 17-5 Home","15-26, 9-13 Away",116,114,IND -6.5,219,Final,NULL,32,35,32,17,,26,35,32,21,,NBA
+401161293,2019,"January 20, 2020",Utah Jazz,Indiana Pacers,"30-13, 17-3 Home","28-16, 11-11 Away",118,88,UTAH -8.0,216,Final,NULL,29,27,24,38,,23,21,19,25,,NBA
+401161321,2019,"January 24, 2020",Golden State Warriors,Indiana Pacers,"10-37, 7-17 Home","30-16, 13-11 Away",118,129,IND -6.5,215,Final,NBATV,30,21,35,32,,35,32,31,31,,NBA
+401161350,2019,"January 29, 2020",Indiana Pacers,Chicago Bulls,"31-17, 18-5 Home","19-31, 8-16 Away",115,106,IND -9.0,215,Final/OT,NULL,25,30,25,20,15,24,27,29,20,6,NBA
+401161385,2019,"February 3, 2020",Indiana Pacers,Dallas Mavericks,"31-19, 18-7 Home","31-19, 17-7 Away",103,112,IND -5.5,213,Final,NULL,22,33,22,26,,25,28,29,30,,NBA
+401161414,2019,"February 7, 2020",Indiana Pacers,Toronto Raptors,"31-21, 18-8 Home","38-14, 19-7 Away",106,115,IND -1.0,219,Final,ESPN,31,32,20,23,,36,28,23,28,,NBA
+401161436,2019,"February 10, 2020",Indiana Pacers,Brooklyn Nets,"31-23, 18-10 Home","24-28, 9-16 Away",105,106,IND -7.0,217,Final,NULL,28,20,32,25,,30,21,26,29,,NBA
+401161470,2019,"February 21, 2020",New York Knicks,Indiana Pacers,"17-39, 8-20 Home","33-23, 14-13 Away",98,106,IND -7.0,213,Final,NULL,20,24,21,33,,15,36,29,26,,NBA
+401161499,2019,"February 25, 2020",Indiana Pacers,Charlotte Hornets,"34-24, 20-10 Home","19-38, 11-20 Away",119,80,IND -11.5,209,Final,NULL,35,34,25,25,,25,19,11,25,,NBA
+401161532,2019,"February 29, 2020",Cleveland Cavaliers,Indiana Pacers,"17-43, 9-23 Home","36-24, 15-14 Away",104,113,IND -9.0,215,Final,NULL,31,27,28,18,,30,26,30,27,,NBA
+401161566,2019,"March 4, 2020",Milwaukee Bucks,Indiana Pacers,"53-9, 28-3 Home","37-25, 16-15 Away",119,100,MIL -10.5,221,Final,ESPN,36,22,31,30,,23,33,23,21,,NBA
+401161594,2019,"March 8, 2020",Dallas Mavericks,Indiana Pacers,"39-26, 18-15 Home","39-25, 18-15 Away",109,112,DAL -6.5,219,Final,NULL,26,26,32,25,,31,24,31,26,,NBA
+401160626,2019,"October 23, 2019",Indiana Pacers,Detroit Pistons,"0-1, 0-1 Home","1-0, 1-0 Away",110,119,IND -7.0,211,Final,NULL,24,31,31,24,,27,27,29,36,,NBA
+401160683,2019,"October 28, 2019",Detroit Pistons,Indiana Pacers,"2-2, 1-2 Home","0-3, 0-2 Away",96,94,IND -1.5,214,Final,NULL,33,26,19,18,,25,28,18,23,,NBA
+401160712,2019,"November 1, 2019",Indiana Pacers,Cleveland Cavaliers,"2-3, 1-1 Home","2-3, 0-3 Away",102,95,IND -7.0,215,Final,NULL,19,23,26,34,,26,11,24,34,,NBA
+401160739,2019,"November 5, 2019",Charlotte Hornets,Indiana Pacers,"4-3, 2-1 Home","3-4, 1-3 Away",122,120,IND -2.5,212,Final/OT,NULL,20,37,21,35,9,35,29,28,21,7,NBA
+401160758,2019,"November 8, 2019",Indiana Pacers,Detroit Pistons,"5-4, 4-1 Home","4-6, 1-4 Away",112,106,IND -6.0,210,Final,NULL,27,30,28,27,,35,18,19,34,,NBA
+401160788,2019,"November 12, 2019",Indiana Pacers,Oklahoma City Thunder,"7-4, 5-1 Home","4-7, 0-4 Away",111,85,IND -1.5,213,Final,NULL,31,21,34,25,,25,17,20,23,,NBA
+401160818,2019,"November 16, 2019",Indiana Pacers,Milwaukee Bucks,"7-6, 5-2 Home","9-3, 6-2 Away",83,102,MIL -7.5,221,Final,NULL,22,14,27,20,,26,23,22,31,,NBA
+401160869,2019,"November 23, 2019",Indiana Pacers,Orlando Magic,"9-6, 6-2 Home","6-9, 0-6 Away",111,106,IND -6.5,202,Final,NULL,24,31,28,28,,25,20,40,21,,NBA
+401160898,2019,"November 27, 2019",Indiana Pacers,Utah Jazz,"11-6, 8-2 Home","11-7, 3-6 Away",121,102,IND -1.0,208,Final,NULL,21,32,36,32,,20,23,37,22,,NBA
+401160923,2019,"November 30, 2019",Philadelphia 76ers,Indiana Pacers,"14-6, 9-0 Home","12-7, 3-5 Away",119,116,PHI -6.0,208,Final,NBATV,38,27,28,26,,29,36,28,23,,NBA
+401160954,2019,"December 4, 2019",Oklahoma City Thunder,Indiana Pacers,"8-12, 6-5 Home","14-7, 5-5 Away",100,107,IND -1.0,210,Final,NULL,29,21,28,22,,26,23,30,28,,NBA
+401160973,2019,"December 7, 2019",New York Knicks,Indiana Pacers,"4-19, 3-10 Home","15-8, 6-6 Away",103,104,IND -5.5,209,Final,NULL,27,33,21,22,,32,34,23,15,,NBA
+401160999,2019,"December 11, 2019",Indiana Pacers,Boston Celtics,"16-9, 10-3 Home","17-6, 7-6 Away",122,117,IND -1.5,211,Final,NULL,30,31,23,38,,32,25,37,23,,NBA
+401161031,2019,"December 15, 2019",Indiana Pacers,Charlotte Hornets,"18-9, 11-3 Home","12-17, 6-9 Away",107,85,IND -11.5,210,Final,NULL,33,26,13,35,,20,24,22,19,,NBA
+401161063,2019,"December 20, 2019",Indiana Pacers,Sacramento Kings,"20-9, 13-3 Home","12-16, 6-11 Away",119,105,IND -5.5,210,Final,NULL,30,38,24,27,,32,25,22,26,,NBA
+401161088,2019,"December 23, 2019",Indiana Pacers,Toronto Raptors,"21-10, 14-3 Home","21-9, 8-6 Away",120,115,IND -5.0,211,Final/OT,NBATV,30,24,24,29,13,19,25,35,28,8,NBA
+401161116,2019,"December 28, 2019",New Orleans Pelicans,Indiana Pacers,"10-23, 5-11 Home","21-12, 7-9 Away",120,98,NO -1.5,219,Final,NULL,19,29,38,34,,32,13,23,30,,NBA
+401161151,2019,"January 2, 2020",Indiana Pacers,Denver Nuggets,"22-13, 15-4 Home","24-10, 9-6 Away",116,124,DEN -1.0,209,Final,NULL,37,27,24,28,,27,35,30,32,,NBA
+401161181,2019,"January 6, 2020",Charlotte Hornets,Indiana Pacers,"15-24, 7-12 Home","23-14, 8-10 Away",104,115,IND -5.5,210,Final,NULL,29,15,21,39,,27,15,37,36,,NBA
+401161212,2019,"January 10, 2020",Chicago Bulls,Indiana Pacers,"13-26, 7-14 Home","24-15, 9-10 Away",105,116,CHI -1.0,214,Final,NULL,27,19,26,33,,29,25,25,37,,NBA
+401161250,2019,"January 15, 2020",Minnesota Timberwolves,Indiana Pacers,"15-25, 6-13 Home","26-15, 10-10 Away",99,104,IND -4.5,218,Final,NULL,30,29,18,22,,24,30,22,28,,NBA
+401161280,2019,"January 19, 2020",Denver Nuggets,Indiana Pacers,"29-13, 17-6 Home","28-15, 11-10 Away",107,115,IND -1.0,213,Final,NULL,21,29,31,26,,15,29,30,41,,NBA
+401161306,2019,"January 22, 2020",Phoenix Suns,Indiana Pacers,"18-26, 9-16 Home","29-16, 12-11 Away",87,112,IND -1.5,222,Final,NULL,24,24,17,22,,30,24,29,29,,NBA
+401161334,2019,"January 26, 2020",Portland Trail Blazers,Indiana Pacers,"20-27, 11-11 Home","30-17, 13-12 Away",139,129,POR -3.0,221,Final,NBATV,36,30,40,33,,27,29,37,36,,NBA
+401161370,2019,"February 1, 2020",Indiana Pacers,New York Knicks,"31-18, 18-6 Home","14-36, 7-18 Away",85,92,IND -11.5,213,Final,NULL,11,28,32,14,,24,26,22,20,,NBA
+401161400,2019,"February 5, 2020",Toronto Raptors,Indiana Pacers,"37-14, 19-7 Home","31-20, 13-13 Away",119,118,TOR -5.5,216,Final,NULL,30,18,34,37,,20,43,23,32,,NBA
+401161422,2019,"February 8, 2020",Indiana Pacers,New Orleans Pelicans,"31-22, 18-9 Home","22-31, 12-15 Away",117,124,IND -5.0,224,Final,NULL,26,29,30,32,,31,29,28,36,,NBA
+401161452,2019,"February 12, 2020",Indiana Pacers,Milwaukee Bucks,"32-23, 19-10 Home","46-8, 21-5 Away",118,111,IND -1.5,222,Final,ESPN,34,34,14,36,,20,25,26,40,,NBA
+401161485,2019,"February 23, 2020",Toronto Raptors,Indiana Pacers,"42-15, 23-7 Home","33-24, 14-14 Away",127,81,TOR -5.5,219,Final,NULL,34,29,22,42,,12,20,23,26,,NBA
+401161516,2019,"February 27, 2020",Indiana Pacers,Portland Trail Blazers,"35-24, 21-10 Home","26-34, 10-21 Away",106,100,IND -10.0,218,Final,TNT,30,13,37,26,,24,25,26,25,,NBA
+401161550,2019,"March 2, 2020",San Antonio Spurs,Indiana Pacers,"25-34, 15-14 Home","37-24, 16-14 Away",111,116,IND -2.5,221,Final,NULL,34,23,27,27,,26,40,26,24,,NBA
+401161576,2019,"March 6, 2020",Chicago Bulls,Indiana Pacers,"21-42, 13-20 Home","38-25, 17-15 Away",102,108,IND -2.5,208,Final,NULL,25,21,26,30,,29,33,27,19,,NBA
+401161602,2019,"March 10, 2020",Indiana Pacers,Boston Celtics,"39-26, 21-11 Home","43-21, 20-12 Away",111,114,BOS -3.0,214,Final,NULL,22,28,30,31,,30,29,35,20,,NBA

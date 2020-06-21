@@ -4,7 +4,7 @@
 # File Created: Thursday, 18th June 2020 1:48:50 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Thursday, 18th June 2020 4:56:55 pm
+# Last Modified: Saturday, 20th June 2020 8:10:28 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -28,9 +28,21 @@ from PROD.prod_table import Prod_Table
 
 class Test_Prod_Table(TestCase):
     nfl = Prod_Table("NFL")
+    nfl_df_paths = nfl._get_df_paths()
+    nfl_dfs = nfl._load_all_team_dfs(nfl_df_paths)
+
     nba = Prod_Table("NBA")
+    nba_df_paths = nba._get_df_paths()
+    nba_dfs = nba._load_all_team_dfs(nba_df_paths)
+
     ncaaf = Prod_Table("NCAAF")
+    ncaaf_df_paths = ncaaf._get_df_paths()
+    ncaaf_dfs = ncaaf._load_all_team_dfs(ncaaf_df_paths)
+
     ncaab = Prod_Table("NCAAB")
+    ncaab_df_paths = ncaab._get_df_paths()
+    ncaab_dfs = ncaab._load_all_team_dfs(ncaab_df_paths)
+
     league_obs = [nfl, nba, ncaaf, ncaab]
 
     def setUp(self):
@@ -45,6 +57,7 @@ class Test_Prod_Table(TestCase):
         for league_ob in self.league_obs:
             df = league_ob.create_dataframe()
             self.assertIsInstance(df, pd.DataFrame)
+            self.assertEqual(league_ob.config["ESPN_cols"], list(df.columns))
 
     def test_load_prod_df(self):
         for league_ob in self.league_obs:
@@ -52,20 +65,19 @@ class Test_Prod_Table(TestCase):
                 df = league_ob.load_prod_df()
                 self.assertIsInstance(df, pd.DataFrame)
 
-    def test_get_espn_paths(self):
+    def test_get_df_paths(self):
         for league_ob in self.league_obs:
-            df_paths = league_ob._get_espn_paths()
+            df_paths = league_ob._get_df_paths()
             self.assertIsInstance(df_paths, list)
             for item in df_paths:
                 self.assertIsInstance(item, str)
 
-    def test_load_concat_espn_paths(self):
-        for league_ob in self.league_obs:
-            df_paths = league_ob._get_espn_paths()
-            df = league_ob._load_concat_espn_paths(df_paths)
-            self.assertIsInstance(df, pd.DataFrame)
-            self.assertEqual(league_ob.config["ESPN_cols"], list(df.columns))
-            print(league_ob.league, "Success")
+    def test_load_all_team_dfs(self):
+        for all_team_dfs in [self.nfl_dfs, self.nba_dfs, self.ncaaf_dfs, self.ncaab_dfs]:
+            self.assertIsInstance(all_team_dfs, list)
+            for df in all_team_dfs:
+                self.assertIsInstance(df, pd.DataFrame)
+                self.assertGreater(len(df), 0)
 
     def test_remove_preseason(self):
         pass

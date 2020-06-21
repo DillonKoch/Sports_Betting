@@ -4,7 +4,7 @@
 # File Created: Tuesday, 16th June 2020 4:44:31 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Tuesday, 16th June 2020 5:39:56 pm
+# Last Modified: Saturday, 20th June 2020 1:27:02 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -22,7 +22,7 @@ ROOT_PATH = dirname(dirname(abspath(__file__)))
 if ROOT_PATH not in sys.path:
     sys.path.append(ROOT_PATH)
 
-from Season_Scrapers.team_stats_scraper import ESPN_Stat_Scraper
+from ESPN_Scrapers.team_stats_scraper import ESPN_Stat_Scraper
 
 
 class Test_ESPN_Stat_Scraper(TestCase):
