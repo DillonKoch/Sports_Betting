@@ -4,7 +4,7 @@
 # File Created: Thursday, 18th June 2020 1:48:50 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Sunday, 21st June 2020 8:46:51 am
+# Last Modified: Sunday, 21st June 2020 10:11:40 am
 # Modified By: Dillon Koch
 # -----
 #
@@ -15,6 +15,7 @@
 
 import datetime
 import sys
+from collections import Counter
 from os.path import abspath, dirname
 from unittest import TestCase
 
@@ -148,3 +149,17 @@ class Test_Prod_Table(TestCase):
                 away_non_nulls = espn_df[acol].notnull().sum()
                 self.assertEqual(0, home_non_nulls)
                 self.assertEqual(0, away_non_nulls)
+
+    def test_load_odds_data(self):
+        for league_ob in self.league_obs:
+            odds_df = league_ob.load_odds_data()
+            self.assertIsInstance(odds_df, pd.DataFrame)
+
+            odds_cols = ["Date", "Rot", "VH", "Team", "Season", "Final", "Open", "Close",
+                         "ML", "2H"]
+            if league_ob.league == "NCAAB":
+                odds_cols += ["1st", "2nd"]
+            else:
+                odds_cols += ["1st", "2nd", "3rd", "4th"]
+
+            self.assertEqual(Counter(odds_cols), Counter(list(odds_df.columns)))

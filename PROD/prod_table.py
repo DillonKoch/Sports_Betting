@@ -4,7 +4,7 @@
 # File Created: Thursday, 18th June 2020 12:48:04 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Sunday, 21st June 2020 9:41:53 am
+# Last Modified: Sunday, 21st June 2020 10:16:37 am
 # Modified By: Dillon Koch
 # -----
 #
@@ -46,6 +46,10 @@ class Prod_Table:
         years = [str(item) for item in range(2007, 2020)]
         dic = {year: datetime.date(config_dict[year][0], config_dict[year][1], config_dict[year][2]) for year in years}
         return dic
+
+    @property
+    def odds_name_conversions(self):
+        return self.config["team_name_conversion_dict"]
 
     def _show_team_dfs_dict(self):  # Global Helper not used in run(), but helpful
         team_dict = {team: 0 for team in self.teams}
@@ -118,6 +122,28 @@ class Prod_Table:
         espn_df = espn_df.loc[:, self.config["ESPN_cols"] + ["datetime"]]
         return espn_df
 
+    def load_odds_data(self):  # Top Level Tested
+        all_dfs = []
+        csv_names = [item for item in os.listdir(ROOT_PATH + "/Odds/{}".format(self.league)) if '.csv' in item]
+        for csv_name in csv_names:
+            full_path = ROOT_PATH + "/Odds/{}/{}".format(self.league, csv_name)
+            df = pd.read_csv(full_path)
+            df = df.loc[:, [item for item in list(df.columns) if "Unnamed" not in item]]
+            all_dfs.append(df)
+
+        full_df = pd.concat(all_dfs)
+        return full_df
+
+    def convert_odds_teams(self, odds_df):  # FIXME
+        def change_name(row):
+            if self.odds_name_conversions[row['Team']] != "":
+                name = self.odds_name_conversions[row['Team']]
+            else:
+                name = row['Team']
+            return name
+        odds_df['Team'] = odds_df.apply(lambda row: change_name(row), axis=1)
+        return odds_df
+
     def add_odds_data(self, df):  # Top Level
         pass
 
@@ -133,7 +159,8 @@ class Prod_Table:
 
     def prod_table_from_scratch(self):  # Run
         df = self.load_espn_data()
-        df = self.add_odds_data(df)
+        odds_df = self.load_odds_data()
+        df = self.add_odds_data(df, odds_df)
         df = self.add_esb_data(df)
         df = self.add_espn_stats_cols(df)
         return df
@@ -147,9 +174,9 @@ class Prod_Table:
 
 
 if __name__ == "__main__":
-    x = Prod_Table("NCAAB")
+    x = Prod_Table("NFL")
     self = x
     # df = x.run()
-    espn_df = x.load_espn_data()
-    espn_df = x.add_espn_stats_cols(espn_df)
-    espn_df.to_csv("temp_ncaab.csv")
+    # espn_df = x.load_espn_data()
+    # espn_df = x.add_espn_stats_cols(espn_df)
+    # espn_df.to_csv("temp_ncaab.csv")

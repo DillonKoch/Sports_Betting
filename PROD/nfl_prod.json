@@ -1,5 +1,17 @@
 {
-    "ESB_cols": [],
+    "ESB_cols": [
+        "Home_ML",
+        "Away_ML",
+        "Open_Home_Line",
+        "Open_Away_Line",
+        "Close_Home_Line",
+        "Close_Away_Line",
+        "Open_OU",
+        "Close_OU",
+        "2H_OU",
+        "2H_Home_Line",
+        "2H_Away_Line"
+    ],
     "ESPN_cols": [
         "ESPN_ID",
         "Season",
@@ -52,19 +64,6 @@
         "rushing_first_downs",
         "first_downs_from_penalties",
         "sacks_yards_lost"
-    ],
-    "Odds_cols": [
-        "Home_ML",
-        "Away_ML",
-        "Open_Home_Line",
-        "Open_Away_Line",
-        "Close_Home_Line",
-        "Close_Away_Line",
-        "Open_OU",
-        "Close_OU",
-        "2H_OU",
-        "2H_Home_Line",
-        "2H_Away_Line"
     ],
     "season_start_dates": {
         "2007": [
@@ -132,5 +131,43 @@
             9,
             5
         ]
+    },
+    "team_name_conversion_dict": {
+        "Arizona": "Arizona Cardinals",
+        "Atlanta": "Atlanta Falcons",
+        "Baltimore": "Baltimore Ravens",
+        "Buffalo": "Buffalo Bills",
+        "Carolina": "Carolina Panthers",
+        "Chicago": "Chicago Bears",
+        "Cincinnati": "Cincinnati Bengals",
+        "Cleveland": "Cleveland Browns",
+        "Dallas": "Dallas Cowboys",
+        "Denver": "Denver Broncos",
+        "Detroit": "Detroit Lions",
+        "GreenBay": "Green Bay Packers",
+        "Houston": "Houston Texans",
+        "HoustonTexans": "Houston Texans",
+        "Indianapolis": "Indianapolis Colts",
+        "Jacksonville": "Jacksonville Jaguars",
+        "KansasCity": "Kansas City Chiefs",
+        "LAChargers": "Los Angeles Chargers",
+        "LARams": "Los Angeles Rams",
+        "LosAngeles": "Los Angeles Rams",
+        "Miami": "Miami Dolphins",
+        "Minnesota": "Minnesota Vikings",
+        "NewEngland": "New England Patriots",
+        "NewOrleans": "New Orleans Saints",
+        "NYGiants": "New York Giants",
+        "NYJets": "New York Jets",
+        "Oakland": "Oakland Raiders",
+        "Philadelphia": "Philadelphia Eagles",
+        "Pittsburgh": "Pittsburgh Steelers",
+        "SanDiego": "San Diego Chargers",
+        "SanFrancisco": "San Francisco 49ers",
+        "Seattle": "Seattle Seahawks",
+        "St.Louis": "St. Louis Rams",
+        "TampaBay": "Tampa Bay Buccaneers",
+        "Tennessee": "Tennessee Titans",
+        "Washington": "Washington Redskins"
     }
 }

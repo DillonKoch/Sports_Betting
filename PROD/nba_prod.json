@@ -1,5 +1,17 @@
 {
-    "ESB_cols": [],
+    "ESB_cols": [
+        "Home_ML",
+        "Away_ML",
+        "Open_Home_Line",
+        "Open_Away_Line",
+        "Close_Home_Line",
+        "Close_Away_Line",
+        "Open_OU",
+        "Close_OU",
+        "2H_OU",
+        "2H_Home_Line",
+        "2H_Away_Line"
+    ],
     "ESPN_cols": [
         "ESPN_ID",
         "Season",
@@ -47,19 +59,6 @@
         "points_off_turnovers",
         "technical_fouls",
         "flagrant_fouls"
-    ],
-    "Odds_cols": [
-        "Home_ML",
-        "Away_ML",
-        "Open_Home_Line",
-        "Open_Away_Line",
-        "Close_Home_Line",
-        "Close_Away_Line",
-        "Open_OU",
-        "Close_OU",
-        "2H_OU",
-        "2H_Home_Line",
-        "2H_Away_Line"
     ],
     "season_start_dates": {
         "2007": [
@@ -127,5 +126,54 @@
             10,
             22
         ]
+    },
+    "team_name_conversion_dict": {
+        "Atlanta": "Atlanta Hawks",
+        "AtlantaHawks": "Atlanta Hawks",
+        "Boston": "Boston Celtics",
+        "Brooklyn": "Brooklyn Nets",
+        "BrooklynNets": "Brooklyn Nets",
+        "Charlotte": "Charlotte Hornets",
+        "Charlotte Hornets": "Charlotte Hornets",
+        "CharlotteHornets": "Charlotte Hornets",
+        "Chicago": "Chicago Bulls",
+        "ChicagoBulls": "Chicago Bulls",
+        "Cleveland": "Cleveland Cavaliers",
+        "Dallas": "Dallas Mavericks",
+        "Denver": "Denver Nuggets",
+        "Detroit": "Detroit Pistons",
+        "DetroitPistons": "Detroit Pistons",
+        "GoldenState": "Golden State Warriors",
+        "Houston": "Houston Rockets",
+        "HoustonRockets": "Houston Rockets",
+        "Indiana": "Indiana Pacers",
+        "LA Clippers": "Los Angeles Clippers",
+        "LAClippers": "Los Angeles Clippers",
+        "LALakers": "Los Angeles Lakers",
+        "Memphis": "Memphis Grizzlies",
+        "MemphisGrizzlies": "Memphis Grizzlies",
+        "Miami": "Miami Heat",
+        "MiamiHeat": "Miami Heat",
+        "Milwaukee": "Milwaukee Bucks",
+        "MilwaukeeBucks": "Milwaukee Bucks",
+        "Minnesota": "Minnesota Timberwolves",
+        "NewJersey": "New Jersey Nets",
+        "NewOrleans": "New Orleans Hornets",
+        "NewOrleansPelicans": "New Orleans Pelicans",
+        "NewYork": "New York Knicks",
+        "Oklahoma City": "Oklahoma City Thunder",
+        "OklahomaCity": "Oklahoma City Thunder",
+        "Orlando": "Orlando Magic",
+        "Philadelphia": "Philadelphia 76ers",
+        "Philadelphia76ers": "Philadelphia 76ers",
+        "Phoenix": "Phoenix Suns",
+        "Portland": "Portland Trail Blazers",
+        "Sacramento": "Sacramento Kings",
+        "SacramentoKings": "Sacramento Kings",
+        "SanAntonio": "San Antonio Spurs",
+        "Seattle": "Seattle SuperSonics",
+        "Toronto": "Toronto Raptors",
+        "Utah": "Utah Jazz",
+        "Washington": "Washington Wizards"
     }
 }
