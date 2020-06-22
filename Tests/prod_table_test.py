@@ -4,7 +4,7 @@
 # File Created: Thursday, 18th June 2020 1:48:50 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Sunday, 21st June 2020 10:11:40 am
+# Last Modified: Monday, 22nd June 2020 8:21:47 am
 # Modified By: Dillon Koch
 # -----
 #
@@ -157,6 +157,28 @@ class Test_Prod_Table(TestCase):
 
             odds_cols = ["Date", "Rot", "VH", "Team", "Season", "Final", "Open", "Close",
                          "ML", "2H"]
+            if league_ob.league == "NCAAB":
+                odds_cols += ["1st", "2nd"]
+            else:
+                odds_cols += ["1st", "2nd", "3rd", "4th"]
+
+            self.assertEqual(Counter(odds_cols), Counter(list(odds_df.columns)))
+
+    def test_convert_odds_teams(self):
+        for league_ob in self.league_obs:
+            odds_df = league_ob.load_odds_data()
+            odds_df = league_ob.convert_odds_teams(odds_df)
+            self.assertIsInstance(odds_df, pd.DataFrame)
+
+    def test_convert_odds_date(self):
+        for league_ob in self.league_obs:
+            odds_df = league_ob.load_odds_data()
+            odds_df = league_ob.convert_odds_teams(odds_df)
+            odds_df = league_ob.convert_odds_date(odds_df)
+            self.assertIsInstance(odds_df, pd.DataFrame)
+
+            odds_cols = ["Date", "Rot", "VH", "Team", "Season", "Final", "Open", "Close",
+                         "ML", "2H", "datetime"]
             if league_ob.league == "NCAAB":
                 odds_cols += ["1st", "2nd"]
             else:

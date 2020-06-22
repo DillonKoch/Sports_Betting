@@ -1,4 +1,7 @@
 {
+    "2H_cutoff": 45,
+    "Close_cutoff": 75,
+    "Open_cutoff": 75,
     "ESB_cols": [
         "Home_ML",
         "Away_ML",
