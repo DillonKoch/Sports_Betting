@@ -4,7 +4,7 @@
 # File Created: Thursday, 18th June 2020 1:48:50 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Monday, 22nd June 2020 8:21:47 am
+# Last Modified: Monday, 22nd June 2020 11:36:53 am
 # Modified By: Dillon Koch
 # -----
 #
@@ -20,6 +20,7 @@ from os.path import abspath, dirname
 from unittest import TestCase
 
 import pandas as pd
+from tqdm import tqdm
 
 
 ROOT_PATH = dirname(dirname(abspath(__file__)))
@@ -185,3 +186,26 @@ class Test_Prod_Table(TestCase):
                 odds_cols += ["1st", "2nd", "3rd", "4th"]
 
             self.assertEqual(Counter(odds_cols), Counter(list(odds_df.columns)))
+
+    def test_game_pairs_from_odds(self):
+        for league_ob in self.league_obs:
+            odds_df = league_ob.load_odds_data()
+            odds_df = league_ob.convert_odds_teams(odds_df)
+            odds_df = league_ob.convert_odds_date(odds_df)
+            game_pairs = league_ob.game_pairs_from_odds(odds_df)
+
+            self.assertIsInstance(game_pairs, list)
+            for item in tqdm(game_pairs):
+                self.assertIsInstance(item, list)
+                for subitem in item:
+                    self.assertIsInstance(subitem, pd.Series)
+
+    def test_odds_pair_to_dict(self):
+        for league_ob in self.league_obs:
+            odds_df = league_ob.load_odds_data()
+            odds_df = league_ob.convert_odds_teams(odds_df)
+            odds_df = league_ob.convert_odds_date(odds_df)
+            game_pairs = league_ob.game_pairs_from_odds(odds_df)
+            odds_df = pd.DataFrame([league_ob.odds_pair_to_dict(pair) for pair in game_pairs])
+
+            self.assertIsInstance(odds_df, pd.DataFrame)

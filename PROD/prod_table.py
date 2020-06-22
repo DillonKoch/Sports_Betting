@@ -4,7 +4,7 @@
 # File Created: Thursday, 18th June 2020 12:48:04 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Monday, 22nd June 2020 11:03:46 am
+# Last Modified: Monday, 22nd June 2020 11:32:56 am
 # Modified By: Dillon Koch
 # -----
 #
@@ -178,7 +178,7 @@ class Prod_Table:
             except BaseException:
                 print(row1, row2)
 
-    def game_pairs_from_odds(self, odds_df):  # Top Level
+    def game_pairs_from_odds(self, odds_df):  # Top Level  Tested
         game_pairs = []
         rows = [odds_df.iloc[i, :] for i in range(len(odds_df))]
         assert len(rows) % 2 == 0
@@ -340,8 +340,16 @@ class Prod_Table:
         df = self.merge_espn_odds(espn_df, odds_df)
         return df
 
+    def _add_esb_cols(self, df):  # Specific Helper add_esb_data
+        esb_cols = self.config["ESB_cols"]
+        for col in esb_cols:
+            df[col] = None
+        return df
+
     def add_esb_data(self, df):  # Top Level
-        pass
+        df = self._add_esb_cols(df)
+        # do more here
+        return df
 
     def add_espn_stats_cols(self, df):  # Top Level
         stats_cols = self.config["ESPN_stats_cols"]
@@ -353,7 +361,7 @@ class Prod_Table:
     def prod_table_from_scratch(self):  # Run
         df = self.load_espn_data()
         df = self.add_odds_data(df)
-        # df = self.add_esb_data(df)
+        df = self.add_esb_data(df)
         # df = self.add_espn_stats_cols(df)
         return df
 
@@ -376,13 +384,17 @@ class Prod_Table:
         no_match_espn_df = espn_df.loc[espn_df.ESPN_ID.isin(non_ids)]
         return no_match_espn_df
 
+    def df_values_check(self):  # QA Testing
+        pass
+
 
 if __name__ == "__main__":
     nfl = Prod_Table("NFL")
     nba = Prod_Table("NBA")
     ncaaf = Prod_Table("NCAAF")
     ncaab = Prod_Table("NCAAB")
-    self = nba
+    self = nfl
+    df = self.prod_table_from_scratch()
     # odds_df = self.load_odds_data()
     # odds_df = self.convert_odds_teams(odds_df)
     # odds_df = self.convert_odds_date(odds_df)
