@@ -4,7 +4,7 @@
 # File Created: Tuesday, 16th June 2020 1:42:34 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Tuesday, 16th June 2020 5:39:02 pm
+# Last Modified: Monday, 22nd June 2020 1:25:44 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -14,25 +14,22 @@
 # ==============================================================================
 
 
+import os
 import sys
+import time
 import urllib.request
 from os.path import abspath, dirname
 
+import pandas as pd
 from bs4 import BeautifulSoup as soup
+from tqdm import tqdm
+
 
 ROOT_PATH = dirname(dirname(abspath(__file__)))
 if ROOT_PATH not in sys.path:
     sys.path.append(ROOT_PATH)
 
-
-def get_sp1(link):
-    user_agent = 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.7) Gecko/2009021910 Firefox/3.0.7'
-    headers = {'User-Agent': user_agent, }
-    request = urllib.request.Request(link, None, headers)  # The assembled request
-    response = urllib.request.urlopen(request)
-    a = response.read().decode('utf-8', 'ignore')
-    sp = soup(a, 'html.parser')
-    return sp
+from Utility.Utility import get_sp1
 
 
 class Team_Stats:
@@ -220,9 +217,50 @@ class ESPN_Stat_Scraper:
         team_stats = self.make_stats_object(stats_list)
         return team_stats
 
+    def _has_team_stats(self, df):  # Specific Helper update_league_dfs
+        df_cols = list(df.columns)
+        return True if (("home_first_downs" in df_cols) or ("home_rebounds" in df_cols)) else False
+
+    def _update_season_df(self, df):  # Specific Helper update_league_dfs
+        ts = Team_Stats()
+        cols = list(ts.football_dict.values()) if self.football_league else list(ts.basketball_dict.values())
+        for col in cols:
+            df["home_" + col] = None
+            df["away_" + col] = None
+
+        try:
+            for i, row in tqdm(df.iterrows()):
+                team_stats = self.run(row['ESPN_ID'])
+                stats_items = list(team_stats.__dict__.items())
+                for col in cols:
+                    items = [tup[1] for tup in stats_items if tup[0] == col][0]
+                    if items is not None:
+                        df.loc[i, "home_" + col] = items[0]
+                        df.loc[i, "away_" + col] = items[1]
+                time.sleep(5)
+        except Exception as e:
+            print(e)
+            print("Error scraping team stats...")
+        return df
+
+    def update_league_dfs(self):  # Run
+        teams = os.listdir(ROOT_PATH + "/ESPN_Data/{}/".format(self.league))
+        for team in teams:
+
+            df_paths = os.listdir(ROOT_PATH + "/ESPN_Data/{}/{}/".format(self.league, team))
+            df_paths = [path for path in df_paths if ".csv" in path]
+            for path in df_paths:
+                full_path = ROOT_PATH + "/ESPN_Data/{}/{}/".format(self.league, team) + path
+                df = pd.read_csv(full_path)
+                if not self._has_team_stats(df):
+                    print(team, path[-8:-4])
+                    df = self._update_season_df(df)
+                    df.to_csv(full_path, index=False)
+
 
 if __name__ == "__main__":
-    x = ESPN_Stat_Scraper("NCAAB")
+    x = ESPN_Stat_Scraper("NFL")
     self = x
-    espn_id = '401170371'
-    team_stats = x.run(espn_id)
+    x.update_league_dfs()
+    # espn_id = '401170371'
+    # team_stats = x.run(espn_id)
