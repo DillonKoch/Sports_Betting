@@ -4,7 +4,7 @@
 # File Created: Tuesday, 16th June 2020 7:58:09 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Tuesday, 23rd June 2020 4:31:33 pm
+# Last Modified: Tuesday, 23rd June 2020 6:18:03 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -89,38 +89,6 @@ class ESB_Game_Scraper(ESB_Bool_Prop_Scraper):
         teams = [item.get_text() for item in teams]
         return teams
 
-    def _box_over_under(self, box):  # Specific Helper esb_game_from_box_date_pair
-        bet_strings = [item.get_text() for item in box.find_all('div', attrs={'class': 'market'})]
-        over_comp = re.compile(r"(O) ((\d|\.)+)\(((\d|-)+)\)")
-        under_comp = re.compile(r"(U) ((\d|\.)+)\(((\d|-)+)\)")
-
-        for bet_string in bet_strings:
-            over_match = re.match(over_comp, bet_string)
-            if over_match:
-                over = [over_match.group(1), over_match.group(2), over_match.group(4)]
-
-            under_match = re.match(under_comp, bet_string)
-            if under_match:
-                under = [under_match.group(1), under_match.group(2), under_match.group(4)]
-
-        return over, under
-
-    def _box_spreads(self, box):  # Specific Helper esb_game_from_box_date_pair
-        bet_strings = [item.get_text() for item in box.find_all('div', attrs={'class': 'market'})]
-        fav_comp = re.compile(r"(-)((\d|\.)+)\(((\d|-)+)\)")
-        dog_comp = re.compile(r"(\+)((\d|\.)+)\(((\d|-)+)\)")
-
-        for bet_string in bet_strings:
-            fav_match = re.match(fav_comp, bet_string)
-            if fav_match:
-                fav = [fav_match.group(1), fav_match.group(2), fav_match.group(4)]
-
-            dog_match = re.match(dog_comp, bet_string)
-            if dog_match:
-                dog = [dog_match.group(1), dog_match.group(2), dog_match.group(4)]
-
-        return fav, dog
-
     def _home_fav_check(self, bet_strings):  # Helping Helper _bets_from_box
         half_num = int(len(bet_strings) / 2)
         home_strings = bet_strings[: half_num]
@@ -131,7 +99,7 @@ class ESB_Game_Scraper(ESB_Bool_Prop_Scraper):
         return not has_plus
 
     def _get_bet_match(self, bet_strings, reg_comp, ml=False):  # Helping Helper _bets_from_box
-        result = None
+        result = None if ml else [None] * 3
         for bet_string in bet_strings:
             match = re.match(reg_comp, bet_string)
             if match:
@@ -168,7 +136,7 @@ class ESB_Game_Scraper(ESB_Bool_Prop_Scraper):
         esb_game.date = date
         esb_game.game_time = self._box_time(box)
         esb_game.away_team, esb_game.home_team = self._box_teams(box)
-        esb_game.over, esb_game.under = self._box_over_under(box)
+        # esb_game.over, esb_game.under = self._box_over_under(box)
         over, under, home_spread, away_spread, home_ml, away_ml = self._bets_from_box(box)
         esb_game.over = over
         esb_game.under = under
@@ -203,7 +171,7 @@ class ESB_Game_Scraper(ESB_Bool_Prop_Scraper):
         df.loc[len(df)] = new_row
         return df
 
-    def make_new_df(self, save):  # Top Level make_new_df
+    def make_new_df(self, save):  # Top Level
         df = self.create_games_df()
         title = self._get_sp_title()
         box_date_pairs = self.get_date_event_boxes(self.sp)
@@ -233,7 +201,9 @@ class ESB_Game_Scraper(ESB_Bool_Prop_Scraper):
 
         for i in add_indices:
             current_df.loc[len(current_df)] = new_df.iloc[i, :]
+            print("-" * 25)
             print("Added new bet to {} {}".format(self.league, self.bet_name))
+            print("-" * 25)
             print(new_items[i][1], new_items[i][2], new_items[i][3])
         return current_df
 
@@ -253,6 +223,6 @@ class ESB_Game_Scraper(ESB_Bool_Prop_Scraper):
 
 
 if __name__ == "__main__":
-    sp = get_sp1("https://www.elitesportsbook.com/sports/pro-football-lines-betting/week-1.sbk")
+    sp = get_sp1("https://www.elitesportsbook.com/sports/ncaa-football-betting/iowa-season-long.sbk")
     x = ESB_Game_Scraper("NFL", "week1", sp)
     self = x

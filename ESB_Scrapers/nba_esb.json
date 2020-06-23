@@ -2,15 +2,18 @@
     "Bets": [
         [
             "NBA_Championship",
-            "https://www.elitesportsbook.com/sports/nba-betting/futures-2020-nba-championship.sbk"
+            "https://www.elitesportsbook.com/sports/nba-betting/futures-2020-nba-championship.sbk",
+            "Prop"
         ],
         [
             "Western_conference_championship",
-            "https://www.elitesportsbook.com/sports/nba-betting/futures-2020-western-conference.sbk"
+            "https://www.elitesportsbook.com/sports/nba-betting/futures-2020-western-conference.sbk",
+            "Prop"
         ],
         [
             "Eastern_conference_championship",
-            "https://www.elitesportsbook.com/sports/nba-betting/futures-2020-eastern-conference.sbk"
+            "https://www.elitesportsbook.com/sports/nba-betting/futures-2020-eastern-conference.sbk",
+            "Prop"
         ]
     ]
 }

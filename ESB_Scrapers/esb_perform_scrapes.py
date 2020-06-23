@@ -4,7 +4,7 @@
 # File Created: Tuesday, 23rd June 2020 3:20:11 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Tuesday, 23rd June 2020 3:21:52 pm
+# Last Modified: Tuesday, 23rd June 2020 6:11:58 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -13,54 +13,56 @@
 # ==============================================================================
 
 import json
-import os
 import sys
+import time
 from os.path import abspath, dirname
-
-import pandas as pd
 
 
 ROOT_PATH = dirname(dirname(abspath(__file__)))
 if ROOT_PATH not in sys.path:
     sys.path.append(ROOT_PATH)
 
-from Utility.Utility import get_sp1
+from ESB_Scrapers.esb_game_scraper import ESB_Game_Scraper
+from ESB_Scrapers.esb_prop_scrapers import (ESB_Bool_Prop_Scraper,
+                                            ESB_Prop_Scraper)
+from Utility.Utility import get_sp1, parse_league
 
 
 class ESB_Perform_Scrapes:
+    def __init__(self, league):
+        self.league = league
+
     @property
     def config(self):  # Property
         with open("{}_esb.json".format(self.league.lower())) as f:
             config = json.load(f)
         return config
 
-    def run_all_updates(self):  # Run
-        bet_lists = self.config["Bets"]
-        for bet_list in bet_lists:
-            bet_name, link, category = bet_list
+    @property
+    def scraper_dict(self):
+        scraper_dict = {
+            "Games": ESB_Game_Scraper,
+            "Prop": ESB_Prop_Scraper,
+            "Bool_Prop": ESB_Bool_Prop_Scraper
+        }
+        return scraper_dict
+
+    def scrape_bet(self, sp, bet_name, bet_type):  # Top Level
+        scrape_func = self.scraper_dict[bet_type]
+        esb_scraper = scrape_func(self.league, bet_name, sp)
+        esb_scraper.update_df()
+        print("{} updated".format(bet_name))
+
+    def run(self):  # Run
+        for bet in self.config["Bets"]:
+            bet_name, link, bet_type = bet
+            print("Updating {}...".format(bet_name))
             sp = get_sp1(link)
+            self.scrape_bet(sp, bet_name, bet_type)
+            time.sleep(5)
 
-            if self._bet_df_exists(bet_name):
-                self.update_bet_df(bet_name, category, sp)
-            else:
-                self.make_new_df(bet_name, category, sp)
-        print("DONE")
 
-    def update_bet_df(self, bet_name, category, sp):  # Run
-        full_path = ROOT_PATH + "/ESB_Data/{}/{}.csv".format(self.league, bet_name)
-        existing_df = pd.read_csv(full_path)
-
-        if category == "Games":
-            new_df = self._update_games_df(sp)
-        elif category == "Prop":
-            new_df = self._update_prop_df(sp)
-        elif category == "Bool_Prop":
-            new_df = self._update_bool_prop_df(sp)
-
-        new_df = self._update_games_df(existing_df, sp) if category == "Games" else self._update_prop_df(existing_df, sp)
-        new_df.to_csv(full_path)
-
-    def _bet_df_exists(self, bet_list):  # Specific Helper run_all_updates
-        bet_list_title, link, category = bet_list
-        df_name = bet_list_title + ".csv"
-        return True if df_name in os.listdir(ROOT_PATH + "/ESB_Data/{}/".format(self.league)) else False
+if __name__ == "__main__":
+    league = parse_league()
+    x = ESB_Perform_Scrapes(league)
+    x.run()

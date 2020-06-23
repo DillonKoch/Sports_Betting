@@ -4,7 +4,7 @@
 # File Created: Wednesday, 17th June 2020 6:37:45 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Tuesday, 23rd June 2020 4:24:40 pm
+# Last Modified: Tuesday, 23rd June 2020 4:59:19 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -188,6 +188,6 @@ class ESB_Prop_Scraper(ESB_Bool_Prop_Scraper):
 
 
 if __name__ == "__main__":
-    sp = get_sp1("https://www.elitesportsbook.com/sports/pro-football-futures-betting/2021-pro-football-championship.sbk")
+    sp = get_sp1("https://www.elitesportsbook.com/sports/pro-football-futures-betting/2020-2021-reg-season-receiving-yds-leader.sbk")
     x = ESB_Prop_Scraper("NFL", "super_bowl", sp)
     self = x

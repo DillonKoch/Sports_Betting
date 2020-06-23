@@ -4,7 +4,7 @@
 # File Created: Friday, 10th April 2020 10:47:51 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Saturday, 18th April 2020 3:54:17 pm
+# Last Modified: Tuesday, 23rd June 2020 6:14:35 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -13,6 +13,7 @@
 # Utility functions to be used in many places
 # ==============================================================================
 
+import argparse
 import datetime
 import urllib.request
 
@@ -61,3 +62,21 @@ def dt_from_date_str(date, year=None):
     year = datetime.datetime.today().year if year is None else year
 
     return datetime.datetime(year, month, int(day))
+
+
+def parse_league(arg_list=None):
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--league', help="One of NFL, NBA, NCAAF, NCAAB")
+    if arg_list is None:
+        args = parser.parse_args()
+    else:
+        args = parser.parse_args(arg_list)
+
+    args_dict = vars(args)
+    version = args_dict['league']
+    return version
+
+
+if __name__ == "__main__":
+    league = parse_league()
+    print(league)
