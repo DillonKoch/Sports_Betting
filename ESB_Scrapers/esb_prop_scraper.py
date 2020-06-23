@@ -4,7 +4,7 @@
 # File Created: Wednesday, 17th June 2020 6:37:45 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Thursday, 18th June 2020 8:30:16 am
+# Last Modified: Monday, 22nd June 2020 2:35:05 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -22,7 +22,7 @@ ROOT_PATH = dirname(dirname(abspath(__file__)))
 if ROOT_PATH not in sys.path:
     sys.path.append(ROOT_PATH)
 
-from Utility import get_sp1
+from Utility.Utility import get_sp1
 
 
 class ESB_Prop:

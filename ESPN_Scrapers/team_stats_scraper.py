@@ -4,7 +4,7 @@
 # File Created: Tuesday, 16th June 2020 1:42:34 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Monday, 22nd June 2020 1:25:44 pm
+# Last Modified: Monday, 22nd June 2020 1:33:41 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -229,7 +229,8 @@ class ESPN_Stat_Scraper:
             df["away_" + col] = None
 
         try:
-            for i, row in tqdm(df.iterrows()):
+            for i, row in df.iterrows():
+                print("{}/{}".format(i, len(df)))
                 team_stats = self.run(row['ESPN_ID'])
                 stats_items = list(team_stats.__dict__.items())
                 for col in cols:
