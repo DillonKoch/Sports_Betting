@@ -4,7 +4,7 @@
 # File Created: Tuesday, 16th June 2020 7:58:09 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Monday, 22nd June 2020 8:28:49 pm
+# Last Modified: Tuesday, 23rd June 2020 1:55:46 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -27,6 +27,7 @@ if ROOT_PATH not in sys.path:
     sys.path.append(ROOT_PATH)
 
 from Utility.Utility import get_sp1
+from ESB_Scrapers.esb_prop_scrapers import ESB_Bool_Prop_Scraper
 
 
 class ESB_Game:
@@ -43,168 +44,46 @@ class ESB_Game:
         self.away_ml = None
 
 
-class ESB_Bool_Prop_Scraper:
-    def __init__(self, league, bet_name, sp):
-        self.league = league
-        self.bet_name = bet_name
-        self.sp = sp
-        self.df_path = ROOT_PATH + "/ESB_Data/{}/{}.csv".format(self.league, self.bet_name)
-
-    def _get_scrape_ts(self):  # Global Helper
-        return datetime.datetime.now().strftime("%Y-%m-%d %H:%m")
-
-    def create_prop_df(self):  # Top Level
-        cols = ["Title", "description", "Team", "Option", "Odds", "scraped_ts"]
-        df = pd.DataFrame(columns=cols)
-        return df
-
-    def get_sp_title(self):  # Top Level
-        title = self.sp.find_all('div', attrs={'id': 'eventTitleBar'})[0].get_text().strip()
-        return title
-
-    def get_sp_description(self):  # Specific Helper scrape_prop
-        try:
-            description = self.sp.find_all('div', attrs={'id': 'futureDescription'})[0].get_text()
-        except IndexError:
-            print("No description found")
-            description = None
-        return description
-
-    def get_bets(self):  # Top Level
-        headers = sp.find_all('div', attrs={'class': 'row event eventheading'})
-        headers = [item.get_text().strip() for item in headers]
-
-        teams = self.sp.find_all('span', attrs={'class': 'team'})
-        teams += self.sp.find_all('span', attrs={'class': 'team-title'})
-        teams = (item.get_text() for item in teams)
-
-        odds = self.sp.find_all('div', attrs={'class': 'market'})
-        odds = [item.get_text() for item in odds]
-        odds = (item for item in odds if item != "-")
-
-        results = []
-        for header in headers:
-            results.append([header, next(teams), next(odds)])
-            results.append([header, next(teams), next(odds)])
-
-        return results
-
-    def make_new_df(self, save):  # Run
-        df = self.create_prop_df()
-        title = self.get_sp_title()
-        description = self.get_sp_description()
-        bets = self.get_bets()
-        scraped_ts = self._get_scrape_ts()
-        for bet in bets:
-            df.loc[len(df)] = [title, description, bet[0], bet[1], bet[2], scraped_ts]
-        if save:
-            df.to_csv(self.df_path, index=False)
-        return df
-
-    def _check_df_exists(self):  # Specific Helper update_df
-        try:
-            _ = pd.read_csv(self.df_path)
-            return True
-        except FileNotFoundError:
-            return False
-
-    # def _combine_dfs(self, existing_df, new_df):  # Specific Helper update_df
-    #     existing_items = [[row['Title'], row['Team'], row['Option'], row['Odds']] for i, row in existing_df.iterrows()]
-    #     new_items = [[row['Title'], row['Team'], row['Option'], row['Odds']] for i, row in new_df.iterrows()]
-
-    #     update_indices = [i for i, item in enumerate(new_items) if item not in existing_items]
-
-    #     for index in update_indices:
-    #         existing_df.loc[len(existing_df)] = new_df.iloc[index, :]
-    #     return existing_df
-
-    def _combine_dfs(self, existing_df, new_df):
-        new_items = [[row['Title'], row['Team'], row['Option'], row['Odds']] for i, row in new_df.iterrows()]
-
-        new_bet_indices = []
-        for i, new_item in enumerate(new_items):
-            match = None
-            for j, row in existing_df.iterrows():
-                existing_items = [row['Title'], row['Team'], row['Option'], row['Odds']]
-                if existing_items == new_item:
-                    match = row
-            if match is not None:
-                new_bet_indices.append(i)
-
-        for i in new_bet_indices:
-            existing_df.loc[len(existing_df)] = new_df.iloc[i, :]
-        return existing_df
-        # FIXME pick up here^^ - check for the newest row in existing df to have a title,
-        #  description, team, option match,
-        #  then if the odds are different in new vs existing, add the new one
-        # that way you could have the same odds show up twice, but with a change
-        # in the middle (-120 to -110 back to -120 and get 3 rows)
-
-    def update_df(self):  # Run
-        if not self._check_df_exists():
-            self.make_new_df(save=True)
-        else:
-            existing_df = pd.read_csv(self.df_path)
-            new_df = self.make_new_df(save=False)
-            full_df = self._combine_dfs(existing_df, new_df)
-            full_df.to_csv(self.df_path, index=False)
-
-
-class ESB_Prop_Scraper(ESB_Bool_Prop_Scraper):
-
-    def create_prop_df(self):
-        cols = ["Title", "description", "Team/Player", "ML", "scraped_ts"]
-        df = pd.DataFrame(columns=cols)
-        return df
-
-    def get_bets(self):  # Top Level
-        teams = self.sp.find_all('span', attrs={'class': 'team'})
-        teams += self.sp.find_all('span', attrs={'class': 'team-title'})
-        teams = [item.get_text() for item in teams]
-
-        odds = self.sp.find_all('div', attrs={'class': 'market'})
-        odds = [item.get_text() for item in odds]
-        odds = [item for item in odds if item != "-"]
-
-        return [(team, odd) for team, odd in zip(teams, odds)]
-
-    def make_new_df(self, save):  # Run
-        df = self.create_prop_df()
-        title = self.get_sp_title()
-        description = self.get_sp_description()
-        bets = self.get_bets()
-        scraped_ts = self._get_scrape_ts()
-        for bet in bets:
-            df.loc[len(df)] = [title, description, bet[0], bet[1], scraped_ts]
-        if save:
-            df.to_csv(self.df_path, index=False)
-        return df
-
-    def _combine_dfs(self, existing_df, new_df):  # Specific Helper update_df
-        existing_items = [[row['Title'], row['Team/Player'], row['ML']] for i, row in existing_df.iterrows()]
-        new_items = [[row['Title'], row['Team/Player'], row['ML'].replace('+', '')] for i, row in new_df.iterrows()]
-
-        update_indices = [i for i, item in enumerate(new_items) if item not in existing_items]
-        for i in update_indices:
-            print(new_items[i])
-
-        for index in update_indices:
-            existing_df.loc[len(existing_df)] = new_df.iloc[index, :]
-        return existing_df
-
-
-class ESB_Scraper:
-    def __init__(self, league):
-        self.league = league
-
+class ESB_Perform_Scrapes:
     @property
     def config(self):  # Property
         with open("{}_esb.json".format(self.league.lower())) as f:
             config = json.load(f)
         return config
 
-    def _get_scrape_ts(self):  # Global Helper
-        return datetime.datetime.now().strftime("%Y-%m-%d %H:%m")
+    def run_all_updates(self):  # Run
+        bet_lists = self.config["Bets"]
+        for bet_list in bet_lists:
+            bet_name, link, category = bet_list
+            sp = get_sp1(link)
+
+            if self._bet_df_exists(bet_name):
+                self.update_bet_df(bet_name, category, sp)
+            else:
+                self.make_new_df(bet_name, category, sp)
+        print("DONE")
+
+    def update_bet_df(self, bet_name, category, sp):  # Run
+        full_path = ROOT_PATH + "/ESB_Data/{}/{}.csv".format(self.league, bet_name)
+        existing_df = pd.read_csv(full_path)
+
+        if category == "Games":
+            new_df = self._update_games_df(sp)
+        elif category == "Prop":
+            new_df = self._update_prop_df(sp)
+        elif category == "Bool_Prop":
+            new_df = self._update_bool_prop_df(sp)
+
+        new_df = self._update_games_df(existing_df, sp) if category == "Games" else self._update_prop_df(existing_df, sp)
+        new_df.to_csv(full_path)
+
+    def _bet_df_exists(self, bet_list):  # Specific Helper run_all_updates
+        bet_list_title, link, category = bet_list
+        df_name = bet_list_title + ".csv"
+        return True if df_name in os.listdir(ROOT_PATH + "/ESB_Data/{}/".format(self.league)) else False
+
+
+class ESB_Game_Scraper(ESB_Bool_Prop_Scraper):
 
     def create_games_df(self):  # Specific Helper scrape_game_lines
         cols = ["Title", "datetime", "Game_Time", "Home", "Away", "Over_ESB", "Over_ml_ESB",
@@ -212,20 +91,6 @@ class ESB_Scraper:
                 "Away_Line_ESB", "Away_Line_ml_ESB", "Home_ML_ESB", "Away_ML_ESB", "scraped_ts"]
         df = pd.DataFrame(columns=cols)
         return df
-
-    def create_prop_df(self):  # Specific Helper scrape_prop
-        cols = ["Title", "description", "Team/Player", "ML", "scraped_ts"]  # FIXME
-        df = pd.DataFrame(columns=cols)
-        return df
-
-    def create_bool_prop_df(self):  # Specific Helper scrape_bool_prop
-        cols = ["Title", "description", "Team", "Option", "ML", "scraped_ts"]
-        df = pd.DataFrame(columns=cols)
-        return df
-
-    def get_sp_title(self, sp):  # Top Level
-        title = sp.find_all('div', attrs={'id': 'eventTitleBar'})[0].get_text().strip()
-        return title
 
     def _get_box_date_pairs(self, dates_and_boxes):  # Helping Helper get_date_event_boxes
         if dates_and_boxes[0][1] != "date":
@@ -388,58 +253,10 @@ class ESB_Scraper:
             df = self.esb_game_to_df(df, game, title)
         return df
 
-    def _get_sp_description(self, sp):  # Specific Helper scrape_prop
-        try:
-            description = sp.find_all('div', attrs={'id': 'futureDescription'})[0].get_text()
-        except IndexError:
-            print("No description found")
-            description = None
-        return description
-
     def get_teams(self, sp):  # Specific Helper scrape_prop
         teams = sp.find_all('span', attrs={'class': 'team'})
         teams = [item.get_text() for item in teams]
         return teams
-
-    def _get_prop_bets(self, sp):  # Specific Helper scrape_prop
-        teams = sp.find_all('span', attrs={'class': 'team'})
-        teams += sp.find_all('span', attrs={'class': 'team-title'})
-        teams = [item.get_text() for item in teams]
-
-        odds = sp.find_all('div', attrs={'class': 'market'})
-        odds = [item.get_text() for item in odds]
-        odds = [item for item in odds if item != "-"]
-        print(len(teams), len(odds))
-
-        return [(team, ml) for team, ml in zip(teams, odds)]
-
-    def scrape_prop(self, sp):  # Top Level
-        df = self.create_prop_df()
-        title = self.get_sp_title(sp)
-        description = self._get_sp_description(sp)
-        bets = self._get_prop_bets(sp)
-
-        scrape_ts = self._get_scrape_ts()
-        for bet in bets:
-            df.loc[len(df)] = [title, description, bet[0], bet[1], scrape_ts]
-        return df
-
-    def _get_prop_bool_bets(self, sp):  # Specific Helper scrape_bool_prop
-        headers = sp.find_all('div', attrs={'class': 'row event eventheading'})
-        headers = [item.get_text().strip() for item in headers]
-        prop_pairs = self._get_prop_bets(sp)
-        return [(header, pair[0], pair[1]) for header, pair in zip(headers, prop_pairs)]
-
-    def scrape_bool_prop(self, sp):  # Top Level
-        df = self.create_bool_prop_df()
-        title = self.get_sp_title(sp)
-        description = self._get_sp_description(sp)
-        bets = self._get_prop_bool_bets(sp)
-
-        scrape_ts = self._get_scrape_ts()
-        for bet in bets:
-            df.loc[len(df)] = [title, description, bet[0], bet[1], bet[2], scrape_ts]
-        return df
 
     def make_new_df(self, bet_name, category, sp):  # Run
         if category == "Games":
@@ -455,48 +272,8 @@ class ESB_Scraper:
     def _update_games_df(self):  # Top Level update_bet_df
         pass
 
-    def _update_prop_df(self):  # Top Level update_bet_df
-        pass
-
-    def _update_bool_prop_df(self):  # Top Level update_bet_df
-        pass
-
-    def update_bet_df(self, bet_name, category, sp):  # Run
-        full_path = ROOT_PATH + "/ESB_Data/{}/{}.csv".format(self.league, bet_name)
-        existing_df = pd.read_csv(full_path)
-
-        if category == "Games":
-            new_df = self._update_games_df(sp)
-        elif category == "Prop":
-            new_df = self._update_prop_df(sp)
-        elif category == "Bool_Prop":
-            new_df = self._update_bool_prop_df(sp)
-
-        new_df = self._update_games_df(existing_df, sp) if category == "Games" else self._update_prop_df(existing_df, sp)
-        new_df.to_csv(full_path)
-
-    def _bet_df_exists(self, bet_list):  # Specific Helper run_all_updates
-        bet_list_title, link, category = bet_list
-        df_name = bet_list_title + ".csv"
-        return True if df_name in os.listdir(ROOT_PATH + "/ESB_Data/{}/".format(self.league)) else False
-
-    def run_all_updates(self):  # Run
-        bet_lists = self.config["Bets"]
-        for bet_list in bet_lists:
-            bet_name, link, category = bet_list
-            sp = get_sp1(link)
-
-            if self._bet_df_exists(bet_name):
-                self.update_bet_df(bet_name, category, sp)
-            else:
-                self.make_new_df(bet_name, category, sp)
-        print("DONE")
-
 
 if __name__ == "__main__":
-    x = ESB_Scraper("NFL")
+    x = ESB_Game_Scraper("NFL", "nfc_south", sp)
     self = x
     sp = get_sp1("https://www.elitesportsbook.com/sports/pro-football-futures-betting/2020-2021-nfc-south.sbk")
-    # x.run_all_updates()
-    # p = ESB_Bool_Prop_Scraper("NFL", "win_totals", sp)
-    p = ESB_Prop_Scraper("NFL", "nfc_south", sp)
