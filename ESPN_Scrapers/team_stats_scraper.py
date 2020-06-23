@@ -4,7 +4,7 @@
 # File Created: Tuesday, 16th June 2020 1:42:34 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Tuesday, 23rd June 2020 9:33:32 am
+# Last Modified: Tuesday, 23rd June 2020 2:14:07 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -228,20 +228,16 @@ class ESPN_Stat_Scraper:
             df["home_" + col] = None
             df["away_" + col] = None
 
-        try:
-            for i, row in df.iterrows():
-                print("{}/{}".format(i, len(df)))
-                team_stats = self.run(row['ESPN_ID'])
-                stats_items = list(team_stats.__dict__.items())
-                for col in cols:
-                    items = [tup[1] for tup in stats_items if tup[0] == col][0]
-                    if items is not None:
-                        df.loc[i, "away_" + col] = items[0]
-                        df.loc[i, "home_" + col] = items[1]
-                time.sleep(5)
-        except Exception as e:
-            print(e)
-            print("Error scraping team stats...")
+        for i, row in df.iterrows():
+            print("{}/{}".format(i, len(df)))
+            team_stats = self.run(row['ESPN_ID'])
+            stats_items = list(team_stats.__dict__.items())
+            for col in cols:
+                items = [tup[1] for tup in stats_items if tup[0] == col][0]
+                if items is not None:
+                    df.loc[i, "away_" + col] = items[0]
+                    df.loc[i, "home_" + col] = items[1]
+            time.sleep(5)
         return df
 
     def update_league_dfs(self):  # Run
@@ -255,8 +251,13 @@ class ESPN_Stat_Scraper:
                 df = pd.read_csv(full_path)
                 if not self._has_team_stats(df):
                     print(team, path[-8:-4])
-                    df = self._update_season_df(df)
-                    df.to_csv(full_path, index=False)
+                    try:
+                        df = self._update_season_df(df)
+                        df.to_csv(full_path, index=False)
+                    except Exception as e:
+                        print(e)
+                        print("Error scraping team stats...")
+                        time.sleep(30)
 
 
 if __name__ == "__main__":
