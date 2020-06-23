@@ -1,17 +1,17 @@
-,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
-0,150903017,1995,"September 3, 1995",New England Patriots,Cleveland Browns,"1-0, 1-0 Home","0-1, 0-1 Away",17,14,,,Final,,10,6,0,0.625,314,12,4,0,0.75,420,,NFL
-1,150910017,1995,"September 10, 1995",New England Patriots,Miami Dolphins,"1-1, 1-1 Home","2-0, 1-0 Away",3,20,,,Final,,10,6,0,0.625,314,12,4,0,0.75,420,,NFL
-2,150917025,1995,"September 17, 1995",San Francisco 49ers,New England Patriots,"3-0, 2-0 Home","1-2, 0-1 Away",28,3,,,Final,,10,6,0,0.625,314,12,4,0,0.75,420,,NFL
-3,151001001,1995,"October 1, 1995",Atlanta Falcons,New England Patriots,"4-1, 3-0 Home","1-3, 0-2 Away",30,17,,,Final,,10,6,0,0.625,314,12,4,0,0.75,420,,NFL
-4,151008017,1995,"October 8, 1995",New England Patriots,Denver Broncos,"1-4, 1-2 Home","3-3, 1-3 Away",3,37,,,Final,,7,9,0,0.43799999999999994,282,12,4,0,0.75,451,,NFL
-5,151015012,1995,"October 15, 1995",Kansas City Chiefs,New England Patriots,"6-1, 4-0 Home","1-5, 0-3 Away",31,26,,,Final,,10,6,0,0.625,314,12,4,0,0.75,420,,NFL
-6,151023017,1995,"October 23, 1995",New England Patriots,Buffalo Bills,"2-5, 2-2 Home","5-2, 1-2 Away",27,14,,,Final,,10,6,0,0.625,314,12,4,0,0.75,420,,NFL
-7,151029017,1995,"October 29, 1995",New England Patriots,Carolina Panthers,"2-6, 2-3 Home","3-5, 1-3 Away",17,20,,,Final/OT,,11,5,0,0.688,405,13,3,0,0.813,479,,NFL
-8,151105020,1995,"November 5, 1995",New York Jets,New England Patriots,"2-8, 2-3 Home","3-6, 1-3 Away",7,20,,,Final,,10,6,0,0.625,314,12,4,0,0.75,420,,NFL
-9,151112015,1995,"November 12, 1995",Miami Dolphins,New England Patriots,"6-4, 3-2 Home","4-6, 2-3 Away",17,34,,,Final,,10,6,0,0.625,314,12,4,0,0.75,420,,NFL
-10,151119017,1995,"November 19, 1995",New England Patriots,Indianapolis Colts,"4-7, 2-4 Home","6-5, 3-3 Away",10,24,,,Final,,10,6,0,0.625,314,12,4,0,0.75,420,,NFL
-11,151126002,1995,"November 26, 1995",Buffalo Bills,New England Patriots,"8-4, 5-1 Home","5-7, 3-3 Away",25,35,,,Final,,10,6,0,0.625,314,12,4,0,0.75,420,,NFL
-12,151203017,1995,"December 3, 1995",New England Patriots,New Orleans Saints,"5-8, 2-5 Home","6-7, 2-4 Away",17,31,,,Final,,11,5,0,0.688,405,13,3,0,0.813,479,,NFL
-13,151210017,1995,"December 10, 1995",New England Patriots,New York Jets,"6-8, 3-5 Home","3-11, 1-6 Away",31,28,,,Final,,10,6,0,0.625,314,12,4,0,0.75,420,,NFL
-14,151216023,1995,"December 16, 1995",Pittsburgh Steelers,New England Patriots,"11-4, 6-2 Home","6-9, 3-4 Away",41,27,,,Final,,10,6,0,0.625,314,12,4,0,0.75,420,,NFL
-15,151223011,1995,"December 23, 1995",Indianapolis Colts,New England Patriots,"9-7, 5-3 Home","6-10, 3-5 Away",10,7,,,Final,,10,6,0,0.625,314,12,4,0,0.75,420,,NFL
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
+150903017,1995,"September 3, 1995",New England Patriots,Cleveland Browns,"1-0, 1-0 Home","0-1, 0-1 Away",17,14,,,Final,,10,6,0,0.625,314,12,4,0,0.75,420,,NFL
+150910017,1995,"September 10, 1995",New England Patriots,Miami Dolphins,"1-1, 1-1 Home","2-0, 1-0 Away",3,20,,,Final,,10,6,0,0.625,314,12,4,0,0.75,420,,NFL
+150917025,1995,"September 17, 1995",San Francisco 49ers,New England Patriots,"3-0, 2-0 Home","1-2, 0-1 Away",28,3,,,Final,,10,6,0,0.625,314,12,4,0,0.75,420,,NFL
+151001001,1995,"October 1, 1995",Atlanta Falcons,New England Patriots,"4-1, 3-0 Home","1-3, 0-2 Away",30,17,,,Final,,10,6,0,0.625,314,12,4,0,0.75,420,,NFL
+151008017,1995,"October 8, 1995",New England Patriots,Denver Broncos,"1-4, 1-2 Home","3-3, 1-3 Away",3,37,,,Final,,7,9,0,0.43799999999999994,282,12,4,0,0.75,451,,NFL
+151015012,1995,"October 15, 1995",Kansas City Chiefs,New England Patriots,"6-1, 4-0 Home","1-5, 0-3 Away",31,26,,,Final,,10,6,0,0.625,314,12,4,0,0.75,420,,NFL
+151023017,1995,"October 23, 1995",New England Patriots,Buffalo Bills,"2-5, 2-2 Home","5-2, 1-2 Away",27,14,,,Final,,10,6,0,0.625,314,12,4,0,0.75,420,,NFL
+151029017,1995,"October 29, 1995",New England Patriots,Carolina Panthers,"2-6, 2-3 Home","3-5, 1-3 Away",17,20,,,Final/OT,,11,5,0,0.688,405,13,3,0,0.813,479,,NFL
+151105020,1995,"November 5, 1995",New York Jets,New England Patriots,"2-8, 2-3 Home","3-6, 1-3 Away",7,20,,,Final,,10,6,0,0.625,314,12,4,0,0.75,420,,NFL
+151112015,1995,"November 12, 1995",Miami Dolphins,New England Patriots,"6-4, 3-2 Home","4-6, 2-3 Away",17,34,,,Final,,10,6,0,0.625,314,12,4,0,0.75,420,,NFL
+151119017,1995,"November 19, 1995",New England Patriots,Indianapolis Colts,"4-7, 2-4 Home","6-5, 3-3 Away",10,24,,,Final,,10,6,0,0.625,314,12,4,0,0.75,420,,NFL
+151126002,1995,"November 26, 1995",Buffalo Bills,New England Patriots,"8-4, 5-1 Home","5-7, 3-3 Away",25,35,,,Final,,10,6,0,0.625,314,12,4,0,0.75,420,,NFL
+151203017,1995,"December 3, 1995",New England Patriots,New Orleans Saints,"5-8, 2-5 Home","6-7, 2-4 Away",17,31,,,Final,,11,5,0,0.688,405,13,3,0,0.813,479,,NFL
+151210017,1995,"December 10, 1995",New England Patriots,New York Jets,"6-8, 3-5 Home","3-11, 1-6 Away",31,28,,,Final,,10,6,0,0.625,314,12,4,0,0.75,420,,NFL
+151216023,1995,"December 16, 1995",Pittsburgh Steelers,New England Patriots,"11-4, 6-2 Home","6-9, 3-4 Away",41,27,,,Final,,10,6,0,0.625,314,12,4,0,0.75,420,,NFL
+151223011,1995,"December 23, 1995",Indianapolis Colts,New England Patriots,"9-7, 5-3 Home","6-10, 3-5 Away",10,7,,,Final,,10,6,0,0.625,314,12,4,0,0.75,420,,NFL

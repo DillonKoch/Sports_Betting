@@ -1,23 +1,23 @@
-,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
-0,290920006,2009,"September 20, 2009",Dallas Cowboys,New York Giants,"1-1, 0-1 Home","2-0, 1-0 Away",31,33,,,Final,NBC,7,10,7,7,,10,10,0,13,,2,NFL
-1,291004007,2009,"October 4, 2009",Denver Broncos,Dallas Cowboys,"4-0, 2-0 Home","2-2, 1-1 Away",17,10,,,Final,FOX,0,7,0,10,,10,0,0,0,,4,NFL
-2,291101006,2009,"November 1, 2009",Dallas Cowboys,Seattle Seahawks,"5-2, 3-1 Home","2-5, 0-3 Away",38,17,,,Final,FOX,7,14,14,3,,3,7,0,7,,8,NFL
-3,291115009,2009,"November 15, 2009",Green Bay Packers,Dallas Cowboys,"5-4, 3-2 Home","6-3, 3-2 Away",17,7,,,Final,FOX,0,3,0,14,,0,0,0,7,,10,NFL
-4,291126006,2009,"November 26, 2009",Dallas Cowboys,Oakland Raiders,"8-3, 5-1 Home","3-8, 1-4 Away",24,7,,,Final,CBS,3,14,0,7,,0,0,7,0,,12,NFL
-5,291213006,2009,"December 13, 2009",Dallas Cowboys,San Diego Chargers,"8-5, 5-2 Home","10-3, 6-1 Away",17,20,,,Final,CBS,3,0,7,7,,7,3,0,10,,14,NFL
-6,291227028,2009,"December 27, 2009",Washington Redskins,Dallas Cowboys,"4-11, 3-5 Home","10-5, 5-3 Away",0,17,,,Final,NBC,0,0,0,0,,7,7,0,3,,16,NFL
-7,290821006,2009,"August 21, 2009",Dallas Cowboys,Tennessee Titans,"1-1, 1-0 Home","2-1, 0-1 Away",30,10,,,Final,FOX,7,7,0,16,,3,7,0,0,,2,NFL
-8,300109006,2009,"January 9, 2010",Dallas Cowboys,Philadelphia Eagles,"11-5, 6-2 Home","11-5, 5-3 Away",34,14,,,Final,NBC,0,27,7,0,,0,7,0,7,,WC,NFL
-9,290913027,2009,"September 13, 2009",Tampa Bay Buccaneers,Dallas Cowboys,"0-1, 0-1 Home","1-0, 1-0 Away",21,34,,,Final,FOX,0,7,0,14,,6,7,7,14,,1,NFL
-10,290928006,2009,"September 28, 2009",Dallas Cowboys,Carolina Panthers,"2-1, 1-1 Home","0-3, 0-2 Away",21,7,,,Final,ESPN,0,0,10,11,,0,7,0,0,,3,NFL
-11,291011012,2009,"October 11, 2009",Kansas City Chiefs,Dallas Cowboys,"0-5, 0-3 Home","3-2, 2-1 Away",20,26,,,Final/OT,FOX,0,10,3,7,0.0,0,3,7,10,6.0,5,NFL
-12,291025006,2009,"October 25, 2009",Dallas Cowboys,Atlanta Falcons,"4-2, 2-1 Home","4-2, 1-2 Away",37,21,,,Final,FOX,0,17,7,13,,7,0,7,7,,7,NFL
-13,291108021,2009,"November 8, 2009",Philadelphia Eagles,Dallas Cowboys,"5-3, 3-2 Home","6-2, 3-1 Away",16,20,,,Final,NBC,0,6,7,3,,7,3,0,10,,9,NFL
-14,291122006,2009,"November 22, 2009",Dallas Cowboys,Washington Redskins,"7-3, 4-1 Home","3-7, 0-5 Away",7,6,,,Final,FOX,0,0,0,7,,0,3,3,0,,11,NFL
-15,291206019,2009,"December 6, 2009",New York Giants,Dallas Cowboys,"7-5, 4-2 Home","8-4, 3-3 Away",31,24,,,Final,FOX,0,14,7,10,,0,10,7,7,,13,NFL
-16,291219018,2009,"December 19, 2009",New Orleans Saints,Dallas Cowboys,"13-1, 6-1 Home","9-5, 4-3 Away",17,24,,,Final,NFL,0,3,0,14,,14,3,7,0,,15,NFL
-17,290813013,2009,"August 13, 2009",Oakland Raiders,Dallas Cowboys,"1-0, 1-0 Home","0-1, 0-1 Away",31,10,,,Final,,3,7,14,7,,7,0,3,0,,1,NFL
-18,290829006,2009,"August 29, 2009",Dallas Cowboys,San Francisco 49ers,"1-2, 1-1 Home","3-0, 1-0 Away",13,20,,,Final,,0,10,0,3,,0,3,7,10,,3,NFL
-19,300117016,2009,"January 17, 2010",Minnesota Vikings,Dallas Cowboys,"12-4, 8-0 Home","11-5, 5-3 Away",34,3,,,Final,FOX,7,10,0,17,,0,3,0,0,,DIV,NFL
-20,290904016,2009,"September 4, 2009",Minnesota Vikings,Dallas Cowboys,"3-1, 1-1 Home","2-2, 1-1 Away",31,35,,,Final,NFL,7,14,7,3,,7,0,14,14,,4,NFL
-21,300103006,2009,"January 3, 2010",Dallas Cowboys,Philadelphia Eagles,"11-5, 6-2 Home","11-5, 5-3 Away",24,0,,,Final,FOX,7,10,7,0,,0,0,0,0,,17,NFL
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
+290920006,2009,"September 20, 2009",Dallas Cowboys,New York Giants,"1-1, 0-1 Home","2-0, 1-0 Away",31,33,,,Final,NBC,7,10,7,7,,10,10,0,13,,2,NFL
+291004007,2009,"October 4, 2009",Denver Broncos,Dallas Cowboys,"4-0, 2-0 Home","2-2, 1-1 Away",17,10,,,Final,FOX,0,7,0,10,,10,0,0,0,,4,NFL
+291101006,2009,"November 1, 2009",Dallas Cowboys,Seattle Seahawks,"5-2, 3-1 Home","2-5, 0-3 Away",38,17,,,Final,FOX,7,14,14,3,,3,7,0,7,,8,NFL
+291115009,2009,"November 15, 2009",Green Bay Packers,Dallas Cowboys,"5-4, 3-2 Home","6-3, 3-2 Away",17,7,,,Final,FOX,0,3,0,14,,0,0,0,7,,10,NFL
+291126006,2009,"November 26, 2009",Dallas Cowboys,Oakland Raiders,"8-3, 5-1 Home","3-8, 1-4 Away",24,7,,,Final,CBS,3,14,0,7,,0,0,7,0,,12,NFL
+291213006,2009,"December 13, 2009",Dallas Cowboys,San Diego Chargers,"8-5, 5-2 Home","10-3, 6-1 Away",17,20,,,Final,CBS,3,0,7,7,,7,3,0,10,,14,NFL
+291227028,2009,"December 27, 2009",Washington Redskins,Dallas Cowboys,"4-11, 3-5 Home","10-5, 5-3 Away",0,17,,,Final,NBC,0,0,0,0,,7,7,0,3,,16,NFL
+290821006,2009,"August 21, 2009",Dallas Cowboys,Tennessee Titans,"1-1, 1-0 Home","2-1, 0-1 Away",30,10,,,Final,FOX,7,7,0,16,,3,7,0,0,,2,NFL
+300109006,2009,"January 9, 2010",Dallas Cowboys,Philadelphia Eagles,"11-5, 6-2 Home","11-5, 5-3 Away",34,14,,,Final,NBC,0,27,7,0,,0,7,0,7,,WC,NFL
+290913027,2009,"September 13, 2009",Tampa Bay Buccaneers,Dallas Cowboys,"0-1, 0-1 Home","1-0, 1-0 Away",21,34,,,Final,FOX,0,7,0,14,,6,7,7,14,,1,NFL
+290928006,2009,"September 28, 2009",Dallas Cowboys,Carolina Panthers,"2-1, 1-1 Home","0-3, 0-2 Away",21,7,,,Final,ESPN,0,0,10,11,,0,7,0,0,,3,NFL
+291011012,2009,"October 11, 2009",Kansas City Chiefs,Dallas Cowboys,"0-5, 0-3 Home","3-2, 2-1 Away",20,26,,,Final/OT,FOX,0,10,3,7,0.0,0,3,7,10,6.0,5,NFL
+291025006,2009,"October 25, 2009",Dallas Cowboys,Atlanta Falcons,"4-2, 2-1 Home","4-2, 1-2 Away",37,21,,,Final,FOX,0,17,7,13,,7,0,7,7,,7,NFL
+291108021,2009,"November 8, 2009",Philadelphia Eagles,Dallas Cowboys,"5-3, 3-2 Home","6-2, 3-1 Away",16,20,,,Final,NBC,0,6,7,3,,7,3,0,10,,9,NFL
+291122006,2009,"November 22, 2009",Dallas Cowboys,Washington Redskins,"7-3, 4-1 Home","3-7, 0-5 Away",7,6,,,Final,FOX,0,0,0,7,,0,3,3,0,,11,NFL
+291206019,2009,"December 6, 2009",New York Giants,Dallas Cowboys,"7-5, 4-2 Home","8-4, 3-3 Away",31,24,,,Final,FOX,0,14,7,10,,0,10,7,7,,13,NFL
+291219018,2009,"December 19, 2009",New Orleans Saints,Dallas Cowboys,"13-1, 6-1 Home","9-5, 4-3 Away",17,24,,,Final,NFL,0,3,0,14,,14,3,7,0,,15,NFL
+290813013,2009,"August 13, 2009",Oakland Raiders,Dallas Cowboys,"1-0, 1-0 Home","0-1, 0-1 Away",31,10,,,Final,,3,7,14,7,,7,0,3,0,,1,NFL
+290829006,2009,"August 29, 2009",Dallas Cowboys,San Francisco 49ers,"1-2, 1-1 Home","3-0, 1-0 Away",13,20,,,Final,,0,10,0,3,,0,3,7,10,,3,NFL
+300117016,2009,"January 17, 2010",Minnesota Vikings,Dallas Cowboys,"12-4, 8-0 Home","11-5, 5-3 Away",34,3,,,Final,FOX,7,10,0,17,,0,3,0,0,,DIV,NFL
+290904016,2009,"September 4, 2009",Minnesota Vikings,Dallas Cowboys,"3-1, 1-1 Home","2-2, 1-1 Away",31,35,,,Final,NFL,7,14,7,3,,7,0,14,14,,4,NFL
+300103006,2009,"January 3, 2010",Dallas Cowboys,Philadelphia Eagles,"11-5, 6-2 Home","11-5, 5-3 Away",24,0,,,Final,FOX,7,10,7,0,,0,0,0,0,,17,NFL

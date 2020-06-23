@@ -1,22 +1,22 @@
-,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
-0,400874525,2016,"September 18, 2016",Oakland Raiders,Atlanta Falcons,"1-1, 0-1 Home","1-1, 1-0 Away",28,35,,,Final,CBS,0,7,7,14,,0,13,8,14,,2,NFL
-1,400874666,2016,"October 2, 2016",Baltimore Ravens,Oakland Raiders,"3-1, 1-1 Home","3-1, 3-0 Away",27,28,,,Final,CBS,0,6,6,15,,7,7,0,14,,4,NFL
-2,400874731,2016,"October 16, 2016",Oakland Raiders,Kansas City Chiefs,"4-2, 1-2 Home","3-2, 1-2 Away",10,26,,,Final,CBS,7,3,0,0,,7,6,10,3,,6,NFL
-3,400874561,2016,"October 30, 2016",Tampa Bay Buccaneers,Oakland Raiders,"3-4, 0-3 Home","6-2, 5-0 Away",24,30,,,Final/OT,CBS,3,7,0,14,0.0,0,3,14,7,6.0,8,NFL
-4,400874670,2016,"November 27, 2016",Oakland Raiders,Carolina Panthers,"9-2, 4-2 Home","4-7, 1-4 Away",35,32,,,Final,CBS,7,17,0,11,,7,0,18,7,,12,NFL
-5,400874428,2016,"December 8, 2016",Kansas City Chiefs,Oakland Raiders,"10-3, 5-1 Home","10-3, 5-1 Away",21,13,,,Final,NBC,0,21,0,0,,3,7,3,0,,14,NFL
-6,400874546,2016,"December 24, 2016",Oakland Raiders,Indianapolis Colts,"12-3, 6-2 Home","7-8, 4-4 Away",33,25,,,Final,CBS,0,19,14,0,,0,7,7,11,,16,NFL
-7,400874782,2016,"August 18, 2016",Green Bay Packers,Oakland Raiders,"2-0, 2-0 Home","1-1, 1-1 Away",20,12,,,Final,,7,0,10,3,,3,0,0,9,,2,NFL
-8,400874543,2016,"September 11, 2016",New Orleans Saints,Oakland Raiders,"0-1, 0-1 Home","1-0, 1-0 Away",34,35,,,Final,FOX,3,14,7,10,,10,0,3,22,,1,NFL
-9,400874562,2016,"September 25, 2016",Tennessee Titans,Oakland Raiders,"1-2, 0-2 Home","2-1, 2-0 Away",10,17,,,Final,CBS,3,0,7,0,,7,10,0,0,,3,NFL
-10,400874636,2016,"October 9, 2016",Oakland Raiders,San Diego Chargers,"4-1, 1-1 Home","1-4, 0-3 Away",34,31,,,Final,CBS,3,6,18,7,,0,10,14,7,,5,NFL
-11,400874498,2016,"October 23, 2016",Jacksonville Jaguars,Oakland Raiders,"2-4, 1-3 Home","5-2, 4-0 Away",16,33,,,Final,CBS,0,6,3,7,,3,17,3,10,,7,NFL
-12,400874592,2016,"November 6, 2016",Oakland Raiders,Denver Broncos,"7-2, 2-2 Home","6-3, 2-2 Away",30,20,,,Final,NBC,6,14,0,10,,0,10,0,10,,9,NFL
-13,400874706,2016,"November 21, 2016",Oakland Raiders,Houston Texans,8-2,6-4,27,20,,,Final,ESPN,0,10,3,14,,3,7,7,3,,11,NFL
-14,400874724,2016,"December 4, 2016",Oakland Raiders,Buffalo Bills,"10-2, 5-2 Home","6-6, 3-4 Away",38,24,,,Final,CBS,3,6,14,15,,3,7,14,0,,13,NFL
-15,400874712,2016,"December 18, 2016",San Diego Chargers,Oakland Raiders,"5-9, 3-4 Home","11-3, 6-1 Away",16,19,,,Final,CBS,7,3,6,0,,3,7,3,6,,15,NFL
-16,400874781,2016,"August 12, 2016",Arizona Cardinals,Oakland Raiders,"1-3, 1-1 Home","1-3, 1-1 Away",10,31,,,Final,NFL,3,7,0,0,,17,0,7,7,,1,NFL
-17,400873970,2016,"August 27, 2016",Oakland Raiders,Tennessee Titans,"1-2, 0-1 Home","2-1, 1-0 Away",14,27,,,Final,CBS,7,7,0,0,,10,10,7,0,,3,NFL
-18,400874783,2016,"September 1, 2016",Oakland Raiders,Seattle Seahawks,"1-3, 0-2 Home","3-1, 2-0 Away",21,23,,,Final,NFL,0,2,3,16,,0,0,3,20,,4,NFL
-19,400932688,2016,"January 7, 2017",Houston Texans,Oakland Raiders,"9-7, 7-1 Home","12-4, 6-2 Away",27,14,,,Final,ESPN/ABC,10,10,0,7,,7,0,0,7,,WC,NFL
-20,400874694,2016,"January 1, 2017",Denver Broncos,Oakland Raiders,"9-7, 5-3 Home","12-4, 6-2 Away",24,6,,,Final,CBS,7,10,7,0,,0,0,6,0,,17,NFL
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
+400874525,2016,"September 18, 2016",Oakland Raiders,Atlanta Falcons,"1-1, 0-1 Home","1-1, 1-0 Away",28,35,,,Final,CBS,0,7,7,14,,0,13,8,14,,2,NFL
+400874666,2016,"October 2, 2016",Baltimore Ravens,Oakland Raiders,"3-1, 1-1 Home","3-1, 3-0 Away",27,28,,,Final,CBS,0,6,6,15,,7,7,0,14,,4,NFL
+400874731,2016,"October 16, 2016",Oakland Raiders,Kansas City Chiefs,"4-2, 1-2 Home","3-2, 1-2 Away",10,26,,,Final,CBS,7,3,0,0,,7,6,10,3,,6,NFL
+400874561,2016,"October 30, 2016",Tampa Bay Buccaneers,Oakland Raiders,"3-4, 0-3 Home","6-2, 5-0 Away",24,30,,,Final/OT,CBS,3,7,0,14,0.0,0,3,14,7,6.0,8,NFL
+400874670,2016,"November 27, 2016",Oakland Raiders,Carolina Panthers,"9-2, 4-2 Home","4-7, 1-4 Away",35,32,,,Final,CBS,7,17,0,11,,7,0,18,7,,12,NFL
+400874428,2016,"December 8, 2016",Kansas City Chiefs,Oakland Raiders,"10-3, 5-1 Home","10-3, 5-1 Away",21,13,,,Final,NBC,0,21,0,0,,3,7,3,0,,14,NFL
+400874546,2016,"December 24, 2016",Oakland Raiders,Indianapolis Colts,"12-3, 6-2 Home","7-8, 4-4 Away",33,25,,,Final,CBS,0,19,14,0,,0,7,7,11,,16,NFL
+400874782,2016,"August 18, 2016",Green Bay Packers,Oakland Raiders,"2-0, 2-0 Home","1-1, 1-1 Away",20,12,,,Final,,7,0,10,3,,3,0,0,9,,2,NFL
+400874543,2016,"September 11, 2016",New Orleans Saints,Oakland Raiders,"0-1, 0-1 Home","1-0, 1-0 Away",34,35,,,Final,FOX,3,14,7,10,,10,0,3,22,,1,NFL
+400874562,2016,"September 25, 2016",Tennessee Titans,Oakland Raiders,"1-2, 0-2 Home","2-1, 2-0 Away",10,17,,,Final,CBS,3,0,7,0,,7,10,0,0,,3,NFL
+400874636,2016,"October 9, 2016",Oakland Raiders,San Diego Chargers,"4-1, 1-1 Home","1-4, 0-3 Away",34,31,,,Final,CBS,3,6,18,7,,0,10,14,7,,5,NFL
+400874498,2016,"October 23, 2016",Jacksonville Jaguars,Oakland Raiders,"2-4, 1-3 Home","5-2, 4-0 Away",16,33,,,Final,CBS,0,6,3,7,,3,17,3,10,,7,NFL
+400874592,2016,"November 6, 2016",Oakland Raiders,Denver Broncos,"7-2, 2-2 Home","6-3, 2-2 Away",30,20,,,Final,NBC,6,14,0,10,,0,10,0,10,,9,NFL
+400874706,2016,"November 21, 2016",Oakland Raiders,Houston Texans,8-2,6-4,27,20,,,Final,ESPN,0,10,3,14,,3,7,7,3,,11,NFL
+400874724,2016,"December 4, 2016",Oakland Raiders,Buffalo Bills,"10-2, 5-2 Home","6-6, 3-4 Away",38,24,,,Final,CBS,3,6,14,15,,3,7,14,0,,13,NFL
+400874712,2016,"December 18, 2016",San Diego Chargers,Oakland Raiders,"5-9, 3-4 Home","11-3, 6-1 Away",16,19,,,Final,CBS,7,3,6,0,,3,7,3,6,,15,NFL
+400874781,2016,"August 12, 2016",Arizona Cardinals,Oakland Raiders,"1-3, 1-1 Home","1-3, 1-1 Away",10,31,,,Final,NFL,3,7,0,0,,17,0,7,7,,1,NFL
+400873970,2016,"August 27, 2016",Oakland Raiders,Tennessee Titans,"1-2, 0-1 Home","2-1, 1-0 Away",14,27,,,Final,CBS,7,7,0,0,,10,10,7,0,,3,NFL
+400874783,2016,"September 1, 2016",Oakland Raiders,Seattle Seahawks,"1-3, 0-2 Home","3-1, 2-0 Away",21,23,,,Final,NFL,0,2,3,16,,0,0,3,20,,4,NFL
+400932688,2016,"January 7, 2017",Houston Texans,Oakland Raiders,"9-7, 7-1 Home","12-4, 6-2 Away",27,14,,,Final,ESPN/ABC,10,10,0,7,,7,0,0,7,,WC,NFL
+400874694,2016,"January 1, 2017",Denver Broncos,Oakland Raiders,"9-7, 5-3 Home","12-4, 6-2 Away",24,6,,,Final,CBS,7,10,7,0,,0,0,6,0,,17,NFL

@@ -1,21 +1,21 @@
-,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
-0,270916033,2007,"September 16, 2007",Baltimore Ravens,New York Jets,"1-1, 1-0 Home","0-2, 0-1 Away",20,13,,,Final,CBS,7,10,0,3.0,,0,3,0,10.0,,2,NFL
-1,270930005,2007,"September 30, 2007",Cleveland Browns,Baltimore Ravens,"2-2, 2-1 Home","2-2, 0-2 Away",27,13,,,Final,CBS,14,10,3,0.0,,0,6,0,7.0,,4,NFL
-2,271014033,2007,"October 14, 2007",Baltimore Ravens,St. Louis Rams,"4-2, 3-0 Home","0-6, 0-3 Away",22,3,,,Final,FOX,3,10,3,6.0,,0,0,3,0.0,,6,NFL
-3,271111033,2007,"November 11, 2007",Baltimore Ravens,Cincinnati Bengals,"4-5, 3-1 Home","3-6, 1-4 Away",7,21,,,Final,CBS,0,0,0,7.0,,0,6,3,12.0,,10,NFL
-4,271125024,2007,"November 25, 2007",San Diego Chargers,Baltimore Ravens,"6-5, 5-1 Home","4-7, 1-5 Away",32,14,,,Final,CBS,0,22,7,3.0,,0,7,7,0.0,,12,NFL
-5,271209033,2007,"December 9, 2007",Baltimore Ravens,Indianapolis Colts,"4-9, 3-4 Home","11-2, 6-1 Away",20,44,,,Final,NBC,0,7,0,13.0,,23,14,7,0.0,,14,NFL
-6,271223026,2007,"December 23, 2007",Seattle Seahawks,Baltimore Ravens,"10-5, 7-1 Home","4-11, 1-7 Away",27,6,,,Final,CBS,0,21,6,0.0,,0,0,0,6.0,,16,NFL
-7,270819033,2007,"August 19, 2007",Baltimore Ravens,New York Giants,"1-1, 1-1 Home","1-1, 1-0 Away",12,13,,,Final,NBC,3,3,0,6.0,,0,7,0,6.0,,1,NFL
-8,270910004,2007,"September 10, 2007",Cincinnati Bengals,Baltimore Ravens,"1-0, 1-0 Home","0-1, 0-1 Away",27,20,,,Final,ESPN,9,3,7,8.0,,0,10,0,10.0,,1,NFL
-9,270923033,2007,"September 23, 2007",Baltimore Ravens,Arizona Cardinals,"2-1, 2-0 Home","1-2, 0-2 Away",26,23,,,Final,FOX,3,17,3,3.0,,0,3,3,17.0,,3,NFL
-10,271007025,2007,"October 7, 2007",San Francisco 49ers,Baltimore Ravens,"2-3, 1-2 Home","3-2, 1-2 Away",7,9,,,Final,CBS,0,0,7,0.0,,0,6,3,0.0,,5,NFL
-11,271021002,2007,"October 21, 2007",Buffalo Bills,Baltimore Ravens,"2-4, 2-2 Home","4-3, 1-3 Away",19,14,,,Final,CBS,3,6,10,0.0,,0,0,7,7.0,,7,NFL
-12,271105023,2007,"November 5, 2007",Pittsburgh Steelers,Baltimore Ravens,"6-2, 4-0 Home","4-4, 1-4 Away",38,7,,,Final,ESPN,14,21,3,0.0,,0,7,0,0.0,,9,NFL
-13,271118033,2007,"November 18, 2007",Baltimore Ravens,Cleveland Browns,"4-6, 3-2 Home","6-4, 2-3 Away",30,33,,,Final/OT,CBS,0,7,7,16.0,0.0,3,10,14,3.0,3.0,11,NFL
-14,271203033,2007,"December 3, 2007",Baltimore Ravens,New England Patriots,"4-8, 3-3 Home","12-0, 7-0 Away",24,27,,,Final,ESPN,7,3,7,7.0,,3,7,7,10.0,,13,NFL
-15,271216015,2007,"December 16, 2007",Miami Dolphins,Baltimore Ravens,"1-13, 1-6 Home","4-10, 1-6 Away",22,16,,,Final/OT,CBS,0,3,7,6.0,6.0,3,10,0,3.0,0.0,15,NFL
-16,270813033,2007,"August 13, 2007",Baltimore Ravens,Philadelphia Eagles,"1-0, 1-0 Home","0-1, 0-1 Away",29,3,,,Final,,7,6,3,13.0,,0,3,0,0.0,,HOF,NFL
-17,270825028,2007,"August 25, 2007",Washington Redskins,Baltimore Ravens,"2-1, 1-1 Home","1-2, 0-1 Away",13,7,,,Final,,3,3,7,,,0,7,0,,,2,NFL
-18,270831001,2007,"August 31, 2007",Atlanta Falcons,Baltimore Ravens,"3-1, 2-0 Home","1-3, 0-2 Away",13,10,,,Final,,7,0,0,6.0,,7,0,3,0.0,,3,NFL
-19,271230033,2007,"December 30, 2007",Baltimore Ravens,Pittsburgh Steelers,"5-11, 4-4 Home","10-6, 3-5 Away",27,21,,,Final,CBS,10,10,7,0.0,,0,7,0,14.0,,17,NFL
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
+270916033,2007,"September 16, 2007",Baltimore Ravens,New York Jets,"1-1, 1-0 Home","0-2, 0-1 Away",20,13,,,Final,CBS,7,10,0,3.0,,0,3,0,10.0,,2,NFL
+270930005,2007,"September 30, 2007",Cleveland Browns,Baltimore Ravens,"2-2, 2-1 Home","2-2, 0-2 Away",27,13,,,Final,CBS,14,10,3,0.0,,0,6,0,7.0,,4,NFL
+271014033,2007,"October 14, 2007",Baltimore Ravens,St. Louis Rams,"4-2, 3-0 Home","0-6, 0-3 Away",22,3,,,Final,FOX,3,10,3,6.0,,0,0,3,0.0,,6,NFL
+271111033,2007,"November 11, 2007",Baltimore Ravens,Cincinnati Bengals,"4-5, 3-1 Home","3-6, 1-4 Away",7,21,,,Final,CBS,0,0,0,7.0,,0,6,3,12.0,,10,NFL
+271125024,2007,"November 25, 2007",San Diego Chargers,Baltimore Ravens,"6-5, 5-1 Home","4-7, 1-5 Away",32,14,,,Final,CBS,0,22,7,3.0,,0,7,7,0.0,,12,NFL
+271209033,2007,"December 9, 2007",Baltimore Ravens,Indianapolis Colts,"4-9, 3-4 Home","11-2, 6-1 Away",20,44,,,Final,NBC,0,7,0,13.0,,23,14,7,0.0,,14,NFL
+271223026,2007,"December 23, 2007",Seattle Seahawks,Baltimore Ravens,"10-5, 7-1 Home","4-11, 1-7 Away",27,6,,,Final,CBS,0,21,6,0.0,,0,0,0,6.0,,16,NFL
+270819033,2007,"August 19, 2007",Baltimore Ravens,New York Giants,"1-1, 1-1 Home","1-1, 1-0 Away",12,13,,,Final,NBC,3,3,0,6.0,,0,7,0,6.0,,1,NFL
+270910004,2007,"September 10, 2007",Cincinnati Bengals,Baltimore Ravens,"1-0, 1-0 Home","0-1, 0-1 Away",27,20,,,Final,ESPN,9,3,7,8.0,,0,10,0,10.0,,1,NFL
+270923033,2007,"September 23, 2007",Baltimore Ravens,Arizona Cardinals,"2-1, 2-0 Home","1-2, 0-2 Away",26,23,,,Final,FOX,3,17,3,3.0,,0,3,3,17.0,,3,NFL
+271007025,2007,"October 7, 2007",San Francisco 49ers,Baltimore Ravens,"2-3, 1-2 Home","3-2, 1-2 Away",7,9,,,Final,CBS,0,0,7,0.0,,0,6,3,0.0,,5,NFL
+271021002,2007,"October 21, 2007",Buffalo Bills,Baltimore Ravens,"2-4, 2-2 Home","4-3, 1-3 Away",19,14,,,Final,CBS,3,6,10,0.0,,0,0,7,7.0,,7,NFL
+271105023,2007,"November 5, 2007",Pittsburgh Steelers,Baltimore Ravens,"6-2, 4-0 Home","4-4, 1-4 Away",38,7,,,Final,ESPN,14,21,3,0.0,,0,7,0,0.0,,9,NFL
+271118033,2007,"November 18, 2007",Baltimore Ravens,Cleveland Browns,"4-6, 3-2 Home","6-4, 2-3 Away",30,33,,,Final/OT,CBS,0,7,7,16.0,0.0,3,10,14,3.0,3.0,11,NFL
+271203033,2007,"December 3, 2007",Baltimore Ravens,New England Patriots,"4-8, 3-3 Home","12-0, 7-0 Away",24,27,,,Final,ESPN,7,3,7,7.0,,3,7,7,10.0,,13,NFL
+271216015,2007,"December 16, 2007",Miami Dolphins,Baltimore Ravens,"1-13, 1-6 Home","4-10, 1-6 Away",22,16,,,Final/OT,CBS,0,3,7,6.0,6.0,3,10,0,3.0,0.0,15,NFL
+270813033,2007,"August 13, 2007",Baltimore Ravens,Philadelphia Eagles,"1-0, 1-0 Home","0-1, 0-1 Away",29,3,,,Final,,7,6,3,13.0,,0,3,0,0.0,,HOF,NFL
+270825028,2007,"August 25, 2007",Washington Redskins,Baltimore Ravens,"2-1, 1-1 Home","1-2, 0-1 Away",13,7,,,Final,,3,3,7,,,0,7,0,,,2,NFL
+270831001,2007,"August 31, 2007",Atlanta Falcons,Baltimore Ravens,"3-1, 2-0 Home","1-3, 0-2 Away",13,10,,,Final,,7,0,0,6.0,,7,0,3,0.0,,3,NFL
+271230033,2007,"December 30, 2007",Baltimore Ravens,Pittsburgh Steelers,"5-11, 4-4 Home","10-6, 3-5 Away",27,21,,,Final,CBS,10,10,7,0.0,,0,7,0,14.0,,17,NFL

@@ -1,23 +1,23 @@
-,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
-0,240919010,2004,"September 19, 2004",Tennessee Titans,Indianapolis Colts,"1-1, 0-1 Home","1-1, 1-1 Away",17,31,,,Final,,7,3,7,0,,3,0,7,21,,2,NFL
-1,241003030,2004,"October 3, 2004",Jacksonville Jaguars,Indianapolis Colts,"3-1, 1-1 Home","3-1, 2-1 Away",17,24,,,Final,,0,3,3,11,,7,3,7,7,,4,NFL
-2,241031012,2004,"October 31, 2004",Kansas City Chiefs,Indianapolis Colts,"3-4, 2-2 Home","4-3, 2-2 Away",45,35,,,Final,,7,24,0,14,,7,7,14,7,,8,NFL
-3,241114011,2004,"November 14, 2004",Indianapolis Colts,Houston Texans,"6-3, 4-1 Home","4-5, 2-3 Away",49,14,,,Final,,7,14,21,7,,0,0,7,7,,10,NFL
-4,241125008,2004,"November 25, 2004",Detroit Lions,Indianapolis Colts,"4-7, 1-4 Home","8-3, 4-2 Away",9,41,,,Final,,6,3,0,0,,13,14,14,0,,12,NFL
-5,241212034,2004,"December 12, 2004",Houston Texans,Indianapolis Colts,"5-8, 3-4 Home","10-3, 5-2 Away",14,23,,,Final,,0,7,7,0,,14,0,3,6,,14,NFL
-6,241226011,2004,"December 26, 2004",Indianapolis Colts,San Diego Chargers,"12-3, 7-1 Home","11-4, 5-3 Away",34,31,,,Final/OT,,0,9,7,15,3.0,7,10,7,7,0.0,16,NFL
-7,240821011,2004,"August 21, 2004",Indianapolis Colts,New York Jets,"1-1, 0-1 Home","1-1, 1-1 Away",7,31,,,Final,,0,7,0,0,,0,14,3,14,,1,NFL
-8,250109011,2004,"January 9, 2005",Indianapolis Colts,Denver Broncos,"12-4, 7-1 Home","10-6, 4-4 Away",49,24,,,Final,,14,21,0,14,,0,3,14,7,,WC,NFL
-9,240909017,2004,"September 9, 2004",New England Patriots,Indianapolis Colts,"1-0, 1-0 Home","0-1, 0-1 Away",27,24,,,Final,,3,10,14,0,,0,17,0,7,,1,NFL
-10,240926011,2004,"September 26, 2004",Indianapolis Colts,Green Bay Packers,"2-1, 1-0 Home","1-2, 1-1 Away",45,31,,,Final,,21,14,0,10,,14,3,7,7,,3,NFL
-11,241010011,2004,"October 10, 2004",Indianapolis Colts,Oakland Raiders,"4-1, 2-0 Home","2-3, 0-3 Away",35,14,,,Final,,7,14,0,14,,0,7,0,7,,5,NFL
-12,241024011,2004,"October 24, 2004",Indianapolis Colts,Jacksonville Jaguars,"4-2, 2-1 Home","5-2, 3-1 Away",24,27,,,Final,,0,14,0,10,,0,10,3,14,,7,NFL
-13,241108011,2004,"November 8, 2004",Indianapolis Colts,Minnesota Vikings,"5-3, 3-1 Home","5-3, 2-2 Away",31,28,,,Final,,7,7,7,10,,0,6,8,14,,9,NFL
-14,241121003,2004,"November 21, 2004",Chicago Bears,Indianapolis Colts,"4-6, 1-4 Home","7-3, 3-2 Away",10,41,,,Final,,3,0,0,7,,7,20,14,0,,11,NFL
-15,241205011,2004,"December 5, 2004",Indianapolis Colts,Tennessee Titans,"9-3, 5-1 Home","4-8, 3-4 Away",51,24,,,Final,,17,14,10,10,,24,0,0,0,,13,NFL
-16,241219011,2004,"December 19, 2004",Indianapolis Colts,Baltimore Ravens,"11-3, 6-1 Home","8-6, 3-4 Away",20,10,,,Final,,3,3,14,0,,0,3,0,7,,15,NFL
-17,240814024,2004,"August 14, 2004",San Diego Chargers,Indianapolis Colts,"0-1, 0-1 Home","1-0, 1-0 Away",17,21,,,Final,,7,0,0,10,,0,7,7,7,,HOF,NFL
-18,240828011,2004,"August 28, 2004",Indianapolis Colts,Buffalo Bills,"2-1, 1-1 Home","1-2, 0-1 Away",30,17,,,Final,,10,10,7,3,,0,10,0,7,,2,NFL
-19,250116017,2004,"January 16, 2005",New England Patriots,Indianapolis Colts,"14-2, 8-0 Home","12-4, 5-3 Away",20,3,,,Final,,0,6,7,7,,0,3,0,0,,DIV,NFL
-20,240903004,2004,"September 3, 2004",Cincinnati Bengals,Indianapolis Colts,"2-2, 2-0 Home","2-2, 1-1 Away",16,13,,,Final,,0,7,6,3,,10,3,0,0,,3,NFL
-21,250102007,2004,"January 2, 2005",Denver Broncos,Indianapolis Colts,"10-6, 6-2 Home","12-4, 5-3 Away",33,14,,,Final,,7,13,10,3,,7,7,0,0,,17,NFL
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
+240919010,2004,"September 19, 2004",Tennessee Titans,Indianapolis Colts,"1-1, 0-1 Home","1-1, 1-1 Away",17,31,,,Final,,7,3,7,0,,3,0,7,21,,2,NFL
+241003030,2004,"October 3, 2004",Jacksonville Jaguars,Indianapolis Colts,"3-1, 1-1 Home","3-1, 2-1 Away",17,24,,,Final,,0,3,3,11,,7,3,7,7,,4,NFL
+241031012,2004,"October 31, 2004",Kansas City Chiefs,Indianapolis Colts,"3-4, 2-2 Home","4-3, 2-2 Away",45,35,,,Final,,7,24,0,14,,7,7,14,7,,8,NFL
+241114011,2004,"November 14, 2004",Indianapolis Colts,Houston Texans,"6-3, 4-1 Home","4-5, 2-3 Away",49,14,,,Final,,7,14,21,7,,0,0,7,7,,10,NFL
+241125008,2004,"November 25, 2004",Detroit Lions,Indianapolis Colts,"4-7, 1-4 Home","8-3, 4-2 Away",9,41,,,Final,,6,3,0,0,,13,14,14,0,,12,NFL
+241212034,2004,"December 12, 2004",Houston Texans,Indianapolis Colts,"5-8, 3-4 Home","10-3, 5-2 Away",14,23,,,Final,,0,7,7,0,,14,0,3,6,,14,NFL
+241226011,2004,"December 26, 2004",Indianapolis Colts,San Diego Chargers,"12-3, 7-1 Home","11-4, 5-3 Away",34,31,,,Final/OT,,0,9,7,15,3.0,7,10,7,7,0.0,16,NFL
+240821011,2004,"August 21, 2004",Indianapolis Colts,New York Jets,"1-1, 0-1 Home","1-1, 1-1 Away",7,31,,,Final,,0,7,0,0,,0,14,3,14,,1,NFL
+250109011,2004,"January 9, 2005",Indianapolis Colts,Denver Broncos,"12-4, 7-1 Home","10-6, 4-4 Away",49,24,,,Final,,14,21,0,14,,0,3,14,7,,WC,NFL
+240909017,2004,"September 9, 2004",New England Patriots,Indianapolis Colts,"1-0, 1-0 Home","0-1, 0-1 Away",27,24,,,Final,,3,10,14,0,,0,17,0,7,,1,NFL
+240926011,2004,"September 26, 2004",Indianapolis Colts,Green Bay Packers,"2-1, 1-0 Home","1-2, 1-1 Away",45,31,,,Final,,21,14,0,10,,14,3,7,7,,3,NFL
+241010011,2004,"October 10, 2004",Indianapolis Colts,Oakland Raiders,"4-1, 2-0 Home","2-3, 0-3 Away",35,14,,,Final,,7,14,0,14,,0,7,0,7,,5,NFL
+241024011,2004,"October 24, 2004",Indianapolis Colts,Jacksonville Jaguars,"4-2, 2-1 Home","5-2, 3-1 Away",24,27,,,Final,,0,14,0,10,,0,10,3,14,,7,NFL
+241108011,2004,"November 8, 2004",Indianapolis Colts,Minnesota Vikings,"5-3, 3-1 Home","5-3, 2-2 Away",31,28,,,Final,,7,7,7,10,,0,6,8,14,,9,NFL
+241121003,2004,"November 21, 2004",Chicago Bears,Indianapolis Colts,"4-6, 1-4 Home","7-3, 3-2 Away",10,41,,,Final,,3,0,0,7,,7,20,14,0,,11,NFL
+241205011,2004,"December 5, 2004",Indianapolis Colts,Tennessee Titans,"9-3, 5-1 Home","4-8, 3-4 Away",51,24,,,Final,,17,14,10,10,,24,0,0,0,,13,NFL
+241219011,2004,"December 19, 2004",Indianapolis Colts,Baltimore Ravens,"11-3, 6-1 Home","8-6, 3-4 Away",20,10,,,Final,,3,3,14,0,,0,3,0,7,,15,NFL
+240814024,2004,"August 14, 2004",San Diego Chargers,Indianapolis Colts,"0-1, 0-1 Home","1-0, 1-0 Away",17,21,,,Final,,7,0,0,10,,0,7,7,7,,HOF,NFL
+240828011,2004,"August 28, 2004",Indianapolis Colts,Buffalo Bills,"2-1, 1-1 Home","1-2, 0-1 Away",30,17,,,Final,,10,10,7,3,,0,10,0,7,,2,NFL
+250116017,2004,"January 16, 2005",New England Patriots,Indianapolis Colts,"14-2, 8-0 Home","12-4, 5-3 Away",20,3,,,Final,,0,6,7,7,,0,3,0,0,,DIV,NFL
+240903004,2004,"September 3, 2004",Cincinnati Bengals,Indianapolis Colts,"2-2, 2-0 Home","2-2, 1-1 Away",16,13,,,Final,,0,7,6,3,,10,3,0,0,,3,NFL
+250102007,2004,"January 2, 2005",Denver Broncos,Indianapolis Colts,"10-6, 6-2 Home","12-4, 5-3 Away",33,14,,,Final,,7,13,10,3,,7,7,0,0,,17,NFL

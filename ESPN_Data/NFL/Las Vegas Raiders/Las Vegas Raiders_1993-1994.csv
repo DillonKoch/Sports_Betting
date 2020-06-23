@@ -1,19 +1,19 @@
-,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
-0,130905013,1993,"September 5, 1993",Los Angeles Raiders,Minnesota Vikings,"1-0, 1-0 Home","0-1, 0-1 Away",24,7,,,Final,,N,U,L,L,,N,U,L,L,,,NFL
-1,130912026,1993,"September 12, 1993",Seattle Seahawks,Los Angeles Raiders,"0-2, 0-1 Home","2-0, 1-0 Away",13,17,,,Final,,7,9,0,.438,282.0,12,4,0,.750,451.0,,NFL
-2,130919013,1993,"September 19, 1993",Los Angeles Raiders,Cleveland Browns,"2-1, 1-1 Home","3-0, 1-0 Away",16,19,,,Final,,N,U,L,L,,N,U,L,L,,,NFL
-3,131003012,1993,"October 3, 1993",Kansas City Chiefs,Los Angeles Raiders,"3-1, 2-0 Home","2-2, 1-1 Away",24,9,,,Final,,7,9,0,.438,282.0,12,4,0,.750,451.0,,NFL
-4,131010013,1993,"October 10, 1993",Los Angeles Raiders,New York Jets,"3-2, 2-1 Home","2-3, 1-1 Away",24,20,,,Final,,10,6,0,.625,314.0,12,4,0,.750,420.0,,NFL
-5,131018007,1993,"October 18, 1993",Denver Broncos,Los Angeles Raiders,"3-3, 2-1 Home","4-2, 2-1 Away",20,23,,,Final,,7,9,0,.438,282.0,12,4,0,.750,451.0,,NFL
-6,131031013,1993,"October 31, 1993",Los Angeles Raiders,San Diego Chargers,"4-3, 2-2 Home","3-4, 1-3 Away",23,30,,,Final,,N,U,L,L,,N,U,L,L,,,NFL
-7,131107003,1993,"November 7, 1993",Chicago Bears,Los Angeles Raiders,"3-5, 2-3 Home","5-3, 3-1 Away",14,16,,,Final,,N,U,L,L,,N,U,L,L,,,NFL
-8,131114013,1993,"November 14, 1993",Los Angeles Raiders,Kansas City Chiefs,"5-4, 2-3 Home","7-2, 3-2 Away",20,31,,,Final,,7,9,0,.438,282.0,12,4,0,.750,451.0,,NFL
-9,131121024,1993,"November 21, 1993",San Diego Chargers,Los Angeles Raiders,"4-6, 2-3 Home","6-4, 4-1 Away",7,12,,,Final,,N,U,L,L,,N,U,L,L,,,NFL
-10,131128004,1993,"November 28, 1993",Cincinnati Bengals,Los Angeles Raiders,"1-10, 1-5 Home","6-5, 4-2 Away",16,10,,,Final,,N,U,L,L,,N,U,L,L,,,NFL
-11,131205002,1993,"December 5, 1993",Buffalo Bills,Los Angeles Raiders,"8-4, 5-2 Home","7-5, 5-2 Away",24,25,,,Final,,10,6,0,.625,314.0,12,4,0,.750,420.0,,NFL
-12,131212013,1993,"December 12, 1993",Los Angeles Raiders,Seattle Seahawks,"8-5, 3-3 Home","5-8, 2-5 Away",27,23,,,Final,,7,9,0,.438,282.0,12,4,0,.750,451.0,,NFL
-13,131219013,1993,"December 19, 1993",Los Angeles Raiders,Tampa Bay Buccaneers,"9-5, 4-3 Home","4-10, 1-6 Away",27,20,,,Final,,N,U,L,L,,N,U,L,L,,,NFL
-14,131226009,1993,"December 26, 1993",Green Bay Packers,Los Angeles Raiders,"9-6, 6-2 Home","9-6, 5-3 Away",28,0,,,Final,,N,U,L,L,,N,U,L,L,,,NFL
-15,140109013,1993,"January 9, 1994",Los Angeles Raiders,Denver Broncos,"10-6, 5-3 Home","9-7, 4-4 Away",42,24,,,Final,,7,9,0,.438,282.0,12,4,0,.750,451.0,,NFL
-16,140115002,1993,"January 15, 1994",Buffalo Bills,Los Angeles Raiders,"12-4, 6-2 Home","10-6, 5-3 Away",29,23,,,Final,,10,6,0,.625,314.0,12,4,0,.750,420.0,,NFL
-17,140102013,1993,"January 2, 1994",Los Angeles Raiders,Denver Broncos,"10-6, 5-3 Home","9-7, 4-4 Away",33,30,,,Final,,7,9,0,.438,282.0,12,4,0,.750,451.0,,NFL
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
+130905013,1993,"September 5, 1993",Los Angeles Raiders,Minnesota Vikings,"1-0, 1-0 Home","0-1, 0-1 Away",24,7,,,Final,,N,U,L,L,,N,U,L,L,,,NFL
+130912026,1993,"September 12, 1993",Seattle Seahawks,Los Angeles Raiders,"0-2, 0-1 Home","2-0, 1-0 Away",13,17,,,Final,,7,9,0,.438,282.0,12,4,0,.750,451.0,,NFL
+130919013,1993,"September 19, 1993",Los Angeles Raiders,Cleveland Browns,"2-1, 1-1 Home","3-0, 1-0 Away",16,19,,,Final,,N,U,L,L,,N,U,L,L,,,NFL
+131003012,1993,"October 3, 1993",Kansas City Chiefs,Los Angeles Raiders,"3-1, 2-0 Home","2-2, 1-1 Away",24,9,,,Final,,7,9,0,.438,282.0,12,4,0,.750,451.0,,NFL
+131010013,1993,"October 10, 1993",Los Angeles Raiders,New York Jets,"3-2, 2-1 Home","2-3, 1-1 Away",24,20,,,Final,,10,6,0,.625,314.0,12,4,0,.750,420.0,,NFL
+131018007,1993,"October 18, 1993",Denver Broncos,Los Angeles Raiders,"3-3, 2-1 Home","4-2, 2-1 Away",20,23,,,Final,,7,9,0,.438,282.0,12,4,0,.750,451.0,,NFL
+131031013,1993,"October 31, 1993",Los Angeles Raiders,San Diego Chargers,"4-3, 2-2 Home","3-4, 1-3 Away",23,30,,,Final,,N,U,L,L,,N,U,L,L,,,NFL
+131107003,1993,"November 7, 1993",Chicago Bears,Los Angeles Raiders,"3-5, 2-3 Home","5-3, 3-1 Away",14,16,,,Final,,N,U,L,L,,N,U,L,L,,,NFL
+131114013,1993,"November 14, 1993",Los Angeles Raiders,Kansas City Chiefs,"5-4, 2-3 Home","7-2, 3-2 Away",20,31,,,Final,,7,9,0,.438,282.0,12,4,0,.750,451.0,,NFL
+131121024,1993,"November 21, 1993",San Diego Chargers,Los Angeles Raiders,"4-6, 2-3 Home","6-4, 4-1 Away",7,12,,,Final,,N,U,L,L,,N,U,L,L,,,NFL
+131128004,1993,"November 28, 1993",Cincinnati Bengals,Los Angeles Raiders,"1-10, 1-5 Home","6-5, 4-2 Away",16,10,,,Final,,N,U,L,L,,N,U,L,L,,,NFL
+131205002,1993,"December 5, 1993",Buffalo Bills,Los Angeles Raiders,"8-4, 5-2 Home","7-5, 5-2 Away",24,25,,,Final,,10,6,0,.625,314.0,12,4,0,.750,420.0,,NFL
+131212013,1993,"December 12, 1993",Los Angeles Raiders,Seattle Seahawks,"8-5, 3-3 Home","5-8, 2-5 Away",27,23,,,Final,,7,9,0,.438,282.0,12,4,0,.750,451.0,,NFL
+131219013,1993,"December 19, 1993",Los Angeles Raiders,Tampa Bay Buccaneers,"9-5, 4-3 Home","4-10, 1-6 Away",27,20,,,Final,,N,U,L,L,,N,U,L,L,,,NFL
+131226009,1993,"December 26, 1993",Green Bay Packers,Los Angeles Raiders,"9-6, 6-2 Home","9-6, 5-3 Away",28,0,,,Final,,N,U,L,L,,N,U,L,L,,,NFL
+140109013,1993,"January 9, 1994",Los Angeles Raiders,Denver Broncos,"10-6, 5-3 Home","9-7, 4-4 Away",42,24,,,Final,,7,9,0,.438,282.0,12,4,0,.750,451.0,,NFL
+140115002,1993,"January 15, 1994",Buffalo Bills,Los Angeles Raiders,"12-4, 6-2 Home","10-6, 5-3 Away",29,23,,,Final,,10,6,0,.625,314.0,12,4,0,.750,420.0,,NFL
+140102013,1993,"January 2, 1994",Los Angeles Raiders,Denver Broncos,"10-6, 5-3 Home","9-7, 4-4 Away",33,30,,,Final,,7,9,0,.438,282.0,12,4,0,.750,451.0,,NFL

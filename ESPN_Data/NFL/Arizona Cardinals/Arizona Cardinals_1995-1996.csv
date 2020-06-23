@@ -1,17 +1,17 @@
-,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
-0,150903028,1995,"September 3, 1995",Washington Redskins,Arizona Cardinals,"1-0, 1-0 Home","0-1, 0-1 Away",27,7,,,Final,,8,8,0,0.5,434,9,7,0,0.563,385,,NFL
-1,150910022,1995,"September 10, 1995",Arizona Cardinals,Philadelphia Eagles,"0-2, 0-1 Home","1-1, 1-0 Away",19,31,,,Final,,8,8,0,0.5,434,9,7,0,0.563,385,,NFL
-2,150917008,1995,"September 17, 1995",Detroit Lions,Arizona Cardinals,"0-3, 0-1 Home","1-2, 1-1 Away",17,20,,,Final,,8,8,0,0.5,434,9,7,0,0.563,385,,NFL
-3,150924006,1995,"September 24, 1995",Dallas Cowboys,Arizona Cardinals,"4-0, 2-0 Home","1-3, 1-2 Away",34,20,,,Final,,8,8,0,0.5,434,9,7,0,0.563,385,,NFL
-4,151001022,1995,"October 1, 1995",Arizona Cardinals,Kansas City Chiefs,"1-4, 0-2 Home","4-1, 2-1 Away",3,24,,,Final,,7,9,0,0.43799999999999994,282,12,4,0,0.75,451,,NFL
-5,151008019,1995,"October 8, 1995",New York Giants,Arizona Cardinals,"2-4, 2-1 Home","1-5, 1-3 Away",27,21,,,Final/OT,,8,8,0,0.5,434,9,7,0,0.563,385,,NFL
-6,151015022,1995,"October 15, 1995",Arizona Cardinals,Washington Redskins,"2-5, 1-2 Home","2-5, 0-4 Away",24,20,,,Final,,8,8,0,0.5,434,9,7,0,0.563,385,,NFL
-7,151029022,1995,"October 29, 1995",Arizona Cardinals,Seattle Seahawks,"3-5, 2-2 Home","2-6, 0-4 Away",20,14,,,Final/OT,,7,9,0,0.43799999999999994,282,12,4,0,0.75,451,,NFL
-8,151105007,1995,"November 5, 1995",Denver Broncos,Arizona Cardinals,"5-4, 4-1 Home","3-6, 1-4 Away",38,6,,,Final,,8,8,0,0.5,434,9,7,0,0.563,385,,NFL
-9,151112022,1995,"November 12, 1995",Arizona Cardinals,Minnesota Vikings,"3-7, 2-3 Home","5-5, 2-3 Away",24,30,,,Final,,8,8,0,0.5,434,9,7,0,0.563,385,,NFL
-10,151119029,1995,"November 19, 1995",Carolina Panthers,Arizona Cardinals,"5-6, 3-2 Home","3-8, 1-5 Away",27,7,,,Final,,8,8,0,0.5,434,9,7,0,0.563,385,,NFL
-11,151126022,1995,"November 26, 1995",Arizona Cardinals,Atlanta Falcons,"4-8, 3-3 Home","7-5, 2-4 Away",40,37,,,Final/OT,,11,5,0,0.688,405,13,3,0,0.813,479,,NFL
-12,151130022,1995,"November 30, 1995",Arizona Cardinals,New York Giants,"4-9, 3-4 Home","4-9, 2-5 Away",6,10,,,Final,,8,8,0,0.5,434,9,7,0,0.563,385,,NFL
-13,151209024,1995,"December 9, 1995",San Diego Chargers,Arizona Cardinals,"7-7, 5-3 Home","4-10, 1-6 Away",28,25,,,Final,,8,8,0,0.5,434,9,7,0,0.563,385,,NFL
-14,151217021,1995,"December 17, 1995",Philadelphia Eagles,Arizona Cardinals,"10-5, 6-2 Home","4-11, 1-7 Away",21,20,,,Final,,8,8,0,0.5,434,9,7,0,0.563,385,,NFL
-15,151225022,1995,"December 25, 1995",Arizona Cardinals,Dallas Cowboys,"4-12, 3-5 Home","12-4, 6-2 Away",13,37,,,Final,,8,8,0,0.5,434,9,7,0,0.563,385,,NFL
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
+150903028,1995,"September 3, 1995",Washington Redskins,Arizona Cardinals,"1-0, 1-0 Home","0-1, 0-1 Away",27,7,,,Final,,8,8,0,0.5,434,9,7,0,0.563,385,,NFL
+150910022,1995,"September 10, 1995",Arizona Cardinals,Philadelphia Eagles,"0-2, 0-1 Home","1-1, 1-0 Away",19,31,,,Final,,8,8,0,0.5,434,9,7,0,0.563,385,,NFL
+150917008,1995,"September 17, 1995",Detroit Lions,Arizona Cardinals,"0-3, 0-1 Home","1-2, 1-1 Away",17,20,,,Final,,8,8,0,0.5,434,9,7,0,0.563,385,,NFL
+150924006,1995,"September 24, 1995",Dallas Cowboys,Arizona Cardinals,"4-0, 2-0 Home","1-3, 1-2 Away",34,20,,,Final,,8,8,0,0.5,434,9,7,0,0.563,385,,NFL
+151001022,1995,"October 1, 1995",Arizona Cardinals,Kansas City Chiefs,"1-4, 0-2 Home","4-1, 2-1 Away",3,24,,,Final,,7,9,0,0.43799999999999994,282,12,4,0,0.75,451,,NFL
+151008019,1995,"October 8, 1995",New York Giants,Arizona Cardinals,"2-4, 2-1 Home","1-5, 1-3 Away",27,21,,,Final/OT,,8,8,0,0.5,434,9,7,0,0.563,385,,NFL
+151015022,1995,"October 15, 1995",Arizona Cardinals,Washington Redskins,"2-5, 1-2 Home","2-5, 0-4 Away",24,20,,,Final,,8,8,0,0.5,434,9,7,0,0.563,385,,NFL
+151029022,1995,"October 29, 1995",Arizona Cardinals,Seattle Seahawks,"3-5, 2-2 Home","2-6, 0-4 Away",20,14,,,Final/OT,,7,9,0,0.43799999999999994,282,12,4,0,0.75,451,,NFL
+151105007,1995,"November 5, 1995",Denver Broncos,Arizona Cardinals,"5-4, 4-1 Home","3-6, 1-4 Away",38,6,,,Final,,8,8,0,0.5,434,9,7,0,0.563,385,,NFL
+151112022,1995,"November 12, 1995",Arizona Cardinals,Minnesota Vikings,"3-7, 2-3 Home","5-5, 2-3 Away",24,30,,,Final,,8,8,0,0.5,434,9,7,0,0.563,385,,NFL
+151119029,1995,"November 19, 1995",Carolina Panthers,Arizona Cardinals,"5-6, 3-2 Home","3-8, 1-5 Away",27,7,,,Final,,8,8,0,0.5,434,9,7,0,0.563,385,,NFL
+151126022,1995,"November 26, 1995",Arizona Cardinals,Atlanta Falcons,"4-8, 3-3 Home","7-5, 2-4 Away",40,37,,,Final/OT,,11,5,0,0.688,405,13,3,0,0.813,479,,NFL
+151130022,1995,"November 30, 1995",Arizona Cardinals,New York Giants,"4-9, 3-4 Home","4-9, 2-5 Away",6,10,,,Final,,8,8,0,0.5,434,9,7,0,0.563,385,,NFL
+151209024,1995,"December 9, 1995",San Diego Chargers,Arizona Cardinals,"7-7, 5-3 Home","4-10, 1-6 Away",28,25,,,Final,,8,8,0,0.5,434,9,7,0,0.563,385,,NFL
+151217021,1995,"December 17, 1995",Philadelphia Eagles,Arizona Cardinals,"10-5, 6-2 Home","4-11, 1-7 Away",21,20,,,Final,,8,8,0,0.5,434,9,7,0,0.563,385,,NFL
+151225022,1995,"December 25, 1995",Arizona Cardinals,Dallas Cowboys,"4-12, 3-5 Home","12-4, 6-2 Away",13,37,,,Final,,8,8,0,0.5,434,9,7,0,0.563,385,,NFL

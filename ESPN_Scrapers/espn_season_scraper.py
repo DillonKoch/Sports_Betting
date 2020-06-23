@@ -235,4 +235,4 @@ if __name__ == "__main__":
     # name = "Atlanta Hawks"
     x = ESPN_Season_Scraper("NCAAB")
     # x.scrape_nba_playoffs()
-    x.scrape_all_leauge_history()
+    # x.scrape_all_leauge_history()

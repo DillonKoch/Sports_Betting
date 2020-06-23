@@ -1,21 +1,21 @@
-,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
-0,240919018,2004,"September 19, 2004",New Orleans Saints,San Francisco 49ers,"1-1, 1-1 Home","0-2, 0-1 Away",30,27,,,Final,,10,10,3,7,,3,14,3,7,,2,NFL
-1,241003025,2004,"October 3, 2004",San Francisco 49ers,St. Louis Rams,"0-4, 0-2 Home","2-2, 1-1 Away",14,24,,,Final,,0,0,0,14,,14,10,0,0,,4,NFL
-2,241017020,2004,"October 17, 2004",New York Jets,San Francisco 49ers,"5-0, 3-0 Home","1-5, 0-3 Away",22,14,,,Final,,0,3,6,13,,7,7,0,0,,6,NFL
-3,241031003,2004,"October 31, 2004",Chicago Bears,San Francisco 49ers,"2-5, 1-3 Home","1-6, 0-4 Away",23,13,,,Final,,7,6,0,10,,10,3,0,0,,8,NFL
-4,241114025,2004,"November 14, 2004",San Francisco 49ers,Carolina Panthers,"1-8, 1-4 Home","2-7, 2-3 Away",27,37,,,Final,,10,7,3,7,,0,3,17,17,,10,NFL
-5,241128025,2004,"November 28, 2004",San Francisco 49ers,Miami Dolphins,"1-10, 1-5 Home","2-9, 1-5 Away",17,24,,,Final,,0,3,0,14,,7,0,0,17,,12,NFL
-6,241212022,2004,"December 12, 2004",Arizona Cardinals,San Francisco 49ers,"4-9, 3-3 Home","2-11, 1-6 Away",28,31,,,Final/OT,,0,3,7,18,0.0,7,14,7,0,3.0,14,NFL
-7,241226025,2004,"December 26, 2004",San Francisco 49ers,Buffalo Bills,"2-13, 1-7 Home","9-6, 4-4 Away",7,41,,,Final,,0,0,0,7,,0,17,10,14,,16,NFL
-8,240821003,2004,"August 21, 2004",Chicago Bears,San Francisco 49ers,"2-0, 1-0 Home","0-2, 0-1 Away",20,13,,,Final,,3,7,7,3,,3,7,0,3,,1,NFL
-9,240912025,2004,"September 12, 2004",San Francisco 49ers,Atlanta Falcons,"0-1, 0-1 Home","1-0, 1-0 Away",19,21,,,Final,,0,3,3,13,,7,7,0,7,,1,NFL
-10,240926026,2004,"September 26, 2004",Seattle Seahawks,San Francisco 49ers,"3-0, 1-0 Home","0-3, 0-2 Away",34,0,,,Final,,17,7,10,0,,0,0,0,0,,3,NFL
-11,241010025,2004,"October 10, 2004",San Francisco 49ers,Arizona Cardinals,"1-4, 1-2 Home","1-4, 0-3 Away",31,28,,,Final/OT,,0,6,6,16,3.0,0,14,0,14,0.0,5,NFL
-12,241107025,2004,"November 7, 2004",San Francisco 49ers,Seattle Seahawks,"1-7, 1-3 Home","5-3, 3-2 Away",27,42,,,Final,,14,3,7,3,,7,14,14,7,,9,NFL
-13,241121027,2004,"November 21, 2004",Tampa Bay Buccaneers,San Francisco 49ers,"4-6, 3-2 Home","1-9, 0-5 Away",35,3,,,Final,,7,14,7,7,,0,0,3,0,,11,NFL
-14,241205014,2004,"December 5, 2004",St. Louis Rams,San Francisco 49ers,"6-6, 4-2 Home","1-11, 0-6 Away",16,6,,,Final,,3,10,0,3,,3,0,3,0,,13,NFL
-15,241218025,2004,"December 18, 2004",San Francisco 49ers,Washington Redskins,"2-12, 1-6 Home","5-9, 3-4 Away",16,26,,,Final,,7,2,0,7,,7,16,3,0,,15,NFL
-16,240814025,2004,"August 14, 2004",San Francisco 49ers,Oakland Raiders,"0-1, 0-1 Home","1-0, 1-0 Away",30,33,,,Final,,3,3,7,17,,3,10,7,13,,HOF,NFL
-17,240827016,2004,"August 27, 2004",Minnesota Vikings,San Francisco 49ers,"2-1, 2-0 Home","0-3, 0-2 Away",23,10,,,Final,,13,3,0,7,,0,0,7,3,,2,NFL
-18,240902025,2004,"September 2, 2004",San Francisco 49ers,San Diego Chargers,"0-4, 0-2 Home","2-2, 2-0 Away",15,31,,,Final,,6,9,0,0,,7,10,7,7,,3,NFL
-19,250102017,2004,"January 2, 2005",New England Patriots,San Francisco 49ers,"14-2, 8-0 Home","2-14, 1-7 Away",21,7,,,Final,,0,7,7,7,,7,0,0,0,,17,NFL
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
+240919018,2004,"September 19, 2004",New Orleans Saints,San Francisco 49ers,"1-1, 1-1 Home","0-2, 0-1 Away",30,27,,,Final,,10,10,3,7,,3,14,3,7,,2,NFL
+241003025,2004,"October 3, 2004",San Francisco 49ers,St. Louis Rams,"0-4, 0-2 Home","2-2, 1-1 Away",14,24,,,Final,,0,0,0,14,,14,10,0,0,,4,NFL
+241017020,2004,"October 17, 2004",New York Jets,San Francisco 49ers,"5-0, 3-0 Home","1-5, 0-3 Away",22,14,,,Final,,0,3,6,13,,7,7,0,0,,6,NFL
+241031003,2004,"October 31, 2004",Chicago Bears,San Francisco 49ers,"2-5, 1-3 Home","1-6, 0-4 Away",23,13,,,Final,,7,6,0,10,,10,3,0,0,,8,NFL
+241114025,2004,"November 14, 2004",San Francisco 49ers,Carolina Panthers,"1-8, 1-4 Home","2-7, 2-3 Away",27,37,,,Final,,10,7,3,7,,0,3,17,17,,10,NFL
+241128025,2004,"November 28, 2004",San Francisco 49ers,Miami Dolphins,"1-10, 1-5 Home","2-9, 1-5 Away",17,24,,,Final,,0,3,0,14,,7,0,0,17,,12,NFL
+241212022,2004,"December 12, 2004",Arizona Cardinals,San Francisco 49ers,"4-9, 3-3 Home","2-11, 1-6 Away",28,31,,,Final/OT,,0,3,7,18,0.0,7,14,7,0,3.0,14,NFL
+241226025,2004,"December 26, 2004",San Francisco 49ers,Buffalo Bills,"2-13, 1-7 Home","9-6, 4-4 Away",7,41,,,Final,,0,0,0,7,,0,17,10,14,,16,NFL
+240821003,2004,"August 21, 2004",Chicago Bears,San Francisco 49ers,"2-0, 1-0 Home","0-2, 0-1 Away",20,13,,,Final,,3,7,7,3,,3,7,0,3,,1,NFL
+240912025,2004,"September 12, 2004",San Francisco 49ers,Atlanta Falcons,"0-1, 0-1 Home","1-0, 1-0 Away",19,21,,,Final,,0,3,3,13,,7,7,0,7,,1,NFL
+240926026,2004,"September 26, 2004",Seattle Seahawks,San Francisco 49ers,"3-0, 1-0 Home","0-3, 0-2 Away",34,0,,,Final,,17,7,10,0,,0,0,0,0,,3,NFL
+241010025,2004,"October 10, 2004",San Francisco 49ers,Arizona Cardinals,"1-4, 1-2 Home","1-4, 0-3 Away",31,28,,,Final/OT,,0,6,6,16,3.0,0,14,0,14,0.0,5,NFL
+241107025,2004,"November 7, 2004",San Francisco 49ers,Seattle Seahawks,"1-7, 1-3 Home","5-3, 3-2 Away",27,42,,,Final,,14,3,7,3,,7,14,14,7,,9,NFL
+241121027,2004,"November 21, 2004",Tampa Bay Buccaneers,San Francisco 49ers,"4-6, 3-2 Home","1-9, 0-5 Away",35,3,,,Final,,7,14,7,7,,0,0,3,0,,11,NFL
+241205014,2004,"December 5, 2004",St. Louis Rams,San Francisco 49ers,"6-6, 4-2 Home","1-11, 0-6 Away",16,6,,,Final,,3,10,0,3,,3,0,3,0,,13,NFL
+241218025,2004,"December 18, 2004",San Francisco 49ers,Washington Redskins,"2-12, 1-6 Home","5-9, 3-4 Away",16,26,,,Final,,7,2,0,7,,7,16,3,0,,15,NFL
+240814025,2004,"August 14, 2004",San Francisco 49ers,Oakland Raiders,"0-1, 0-1 Home","1-0, 1-0 Away",30,33,,,Final,,3,3,7,17,,3,10,7,13,,HOF,NFL
+240827016,2004,"August 27, 2004",Minnesota Vikings,San Francisco 49ers,"2-1, 2-0 Home","0-3, 0-2 Away",23,10,,,Final,,13,3,0,7,,0,0,7,3,,2,NFL
+240902025,2004,"September 2, 2004",San Francisco 49ers,San Diego Chargers,"0-4, 0-2 Home","2-2, 2-0 Away",15,31,,,Final,,6,9,0,0,,7,10,7,7,,3,NFL
+250102017,2004,"January 2, 2005",New England Patriots,San Francisco 49ers,"14-2, 8-0 Home","2-14, 1-7 Away",21,7,,,Final,,0,7,7,7,,7,0,0,0,,17,NFL

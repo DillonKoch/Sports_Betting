@@ -1,22 +1,22 @@
-,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
-0,330916004,2013,"September 16, 2013",Cincinnati Bengals,Pittsburgh Steelers,"1-1, 1-0 Home","0-2, 0-1 Away",20,10,,,Final,ESPN,7,3,7,3,,3,7,0,0,,2,NFL
-1,330929005,2013,"September 29, 2013",Cleveland Browns,Cincinnati Bengals,"2-2, 1-1 Home","2-2, 0-2 Away",17,6,,,Final,CBS,7,0,3,7,,0,3,3,0,,4,NFL
-2,331013002,2013,"October 13, 2013",Buffalo Bills,Cincinnati Bengals,"2-4, 2-2 Home","4-2, 1-2 Away",24,27,,,Final/OT,CBS,7,3,0,14,0.0,10,7,7,0,3.0,6,NFL
-3,331027004,2013,"October 27, 2013",Cincinnati Bengals,New York Jets,"6-2, 4-0 Home","4-4, 1-3 Away",49,9,,,Final,CBS,14,14,14,7,,0,6,3,0,,8,NFL
-4,331110033,2013,"November 10, 2013",Baltimore Ravens,Cincinnati Bengals,"4-5, 3-1 Home","6-4, 2-4 Away",20,17,,,Final/OT,CBS,10,7,0,0,3.0,0,0,3,14,0.0,10,NFL
-5,331208004,2013,"December 8, 2013",Cincinnati Bengals,Indianapolis Colts,"9-4, 6-0 Home","8-5, 4-3 Away",42,28,,,Final,CBS,7,7,14,14,,0,0,14,14,,14,NFL
-6,331222004,2013,"December 22, 2013",Cincinnati Bengals,Minnesota Vikings,"10-5, 7-0 Home","4-10-1, 0-7-1 Away",42,14,,,Final,FOX,14,14,14,0,,7,0,7,0,,16,NFL
-7,330817004,2013,"August 17, 2013",Cincinnati Bengals,Tennessee Titans,"2-0, 1-0 Home","0-2, 0-1 Away",27,19,,,Final,,7,10,0,10,,3,0,9,7,,2,NFL
-8,330908003,2013,"September 8, 2013",Chicago Bears,Cincinnati Bengals,"1-0, 1-0 Home","0-1, 0-1 Away",24,21,,,Final,CBS,7,3,7,7,,7,7,7,0,,1,NFL
-9,330922004,2013,"September 22, 2013",Cincinnati Bengals,Green Bay Packers,"2-1, 2-0 Home","1-2, 0-2 Away",34,30,,,Final,FOX,14,0,7,13,,0,16,14,0,,3,NFL
-10,331006004,2013,"October 6, 2013",Cincinnati Bengals,New England Patriots,"3-2, 3-0 Home","4-1, 2-1 Away",13,6,,,Final,CBS,0,3,3,7,,0,3,0,3,,5,NFL
-11,331020008,2013,"October 20, 2013",Detroit Lions,Cincinnati Bengals,"4-3, 2-1 Home","5-2, 2-2 Away",24,27,,,Final,CBS,7,3,7,7,,7,7,10,3,,7,NFL
-12,331031015,2013,"October 31, 2013",Miami Dolphins,Cincinnati Bengals,"4-4, 2-2 Home","6-3, 2-3 Away",22,20,,,Final/OT,NFL,0,10,7,3,2.0,0,3,7,10,0.0,9,NFL
-13,331117004,2013,"November 17, 2013",Cincinnati Bengals,Cleveland Browns,"7-4, 5-0 Home","4-6, 1-4 Away",41,20,,,Final,CBS,0,31,0,10,,13,0,7,0,,11,NFL
-14,331201024,2013,"December 1, 2013",San Diego Chargers,Cincinnati Bengals,"5-7, 2-3 Home","8-4, 3-4 Away",10,17,,,Final,CBS,0,7,0,3,,0,7,7,3,,13,NFL
-15,331215023,2013,"December 15, 2013",Pittsburgh Steelers,Cincinnati Bengals,"6-8, 4-3 Home","9-5, 3-5 Away",30,20,,,Final,NBC,21,6,3,0,,0,7,0,13,,15,NFL
-16,330808001,2013,"August 8, 2013",Atlanta Falcons,Cincinnati Bengals,"0-1, 0-1 Home","1-0, 1-0 Away",10,34,,,Final,ESPN,3,0,7,0,,0,17,10,7,,1,NFL
-17,330824006,2013,"August 24, 2013",Dallas Cowboys,Cincinnati Bengals,"2-2, 2-0 Home","2-1, 1-1 Away",24,18,,,Final,,0,14,7,3,,7,0,3,8,,3,NFL
-18,330829004,2013,"August 29, 2013",Cincinnati Bengals,Indianapolis Colts,"3-1, 2-0 Home","2-2, 1-1 Away",27,10,,,Final,,10,7,10,0,,3,0,0,7,,4,NFL
-19,340105004,2013,"January 5, 2014",Cincinnati Bengals,San Diego Chargers,"11-5, 8-0 Home","9-7, 4-4 Away",10,27,,,Final,CBS,0,10,0,0,,7,0,10,10,,WC,NFL
-20,331229004,2013,"December 29, 2013",Cincinnati Bengals,Baltimore Ravens,"11-5, 8-0 Home","8-8, 2-6 Away",34,17,,,Final,CBS,7,10,0,17,,6,0,11,0,,17,NFL
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
+330916004,2013,"September 16, 2013",Cincinnati Bengals,Pittsburgh Steelers,"1-1, 1-0 Home","0-2, 0-1 Away",20,10,,,Final,ESPN,7,3,7,3,,3,7,0,0,,2,NFL
+330929005,2013,"September 29, 2013",Cleveland Browns,Cincinnati Bengals,"2-2, 1-1 Home","2-2, 0-2 Away",17,6,,,Final,CBS,7,0,3,7,,0,3,3,0,,4,NFL
+331013002,2013,"October 13, 2013",Buffalo Bills,Cincinnati Bengals,"2-4, 2-2 Home","4-2, 1-2 Away",24,27,,,Final/OT,CBS,7,3,0,14,0.0,10,7,7,0,3.0,6,NFL
+331027004,2013,"October 27, 2013",Cincinnati Bengals,New York Jets,"6-2, 4-0 Home","4-4, 1-3 Away",49,9,,,Final,CBS,14,14,14,7,,0,6,3,0,,8,NFL
+331110033,2013,"November 10, 2013",Baltimore Ravens,Cincinnati Bengals,"4-5, 3-1 Home","6-4, 2-4 Away",20,17,,,Final/OT,CBS,10,7,0,0,3.0,0,0,3,14,0.0,10,NFL
+331208004,2013,"December 8, 2013",Cincinnati Bengals,Indianapolis Colts,"9-4, 6-0 Home","8-5, 4-3 Away",42,28,,,Final,CBS,7,7,14,14,,0,0,14,14,,14,NFL
+331222004,2013,"December 22, 2013",Cincinnati Bengals,Minnesota Vikings,"10-5, 7-0 Home","4-10-1, 0-7-1 Away",42,14,,,Final,FOX,14,14,14,0,,7,0,7,0,,16,NFL
+330817004,2013,"August 17, 2013",Cincinnati Bengals,Tennessee Titans,"2-0, 1-0 Home","0-2, 0-1 Away",27,19,,,Final,,7,10,0,10,,3,0,9,7,,2,NFL
+330908003,2013,"September 8, 2013",Chicago Bears,Cincinnati Bengals,"1-0, 1-0 Home","0-1, 0-1 Away",24,21,,,Final,CBS,7,3,7,7,,7,7,7,0,,1,NFL
+330922004,2013,"September 22, 2013",Cincinnati Bengals,Green Bay Packers,"2-1, 2-0 Home","1-2, 0-2 Away",34,30,,,Final,FOX,14,0,7,13,,0,16,14,0,,3,NFL
+331006004,2013,"October 6, 2013",Cincinnati Bengals,New England Patriots,"3-2, 3-0 Home","4-1, 2-1 Away",13,6,,,Final,CBS,0,3,3,7,,0,3,0,3,,5,NFL
+331020008,2013,"October 20, 2013",Detroit Lions,Cincinnati Bengals,"4-3, 2-1 Home","5-2, 2-2 Away",24,27,,,Final,CBS,7,3,7,7,,7,7,10,3,,7,NFL
+331031015,2013,"October 31, 2013",Miami Dolphins,Cincinnati Bengals,"4-4, 2-2 Home","6-3, 2-3 Away",22,20,,,Final/OT,NFL,0,10,7,3,2.0,0,3,7,10,0.0,9,NFL
+331117004,2013,"November 17, 2013",Cincinnati Bengals,Cleveland Browns,"7-4, 5-0 Home","4-6, 1-4 Away",41,20,,,Final,CBS,0,31,0,10,,13,0,7,0,,11,NFL
+331201024,2013,"December 1, 2013",San Diego Chargers,Cincinnati Bengals,"5-7, 2-3 Home","8-4, 3-4 Away",10,17,,,Final,CBS,0,7,0,3,,0,7,7,3,,13,NFL
+331215023,2013,"December 15, 2013",Pittsburgh Steelers,Cincinnati Bengals,"6-8, 4-3 Home","9-5, 3-5 Away",30,20,,,Final,NBC,21,6,3,0,,0,7,0,13,,15,NFL
+330808001,2013,"August 8, 2013",Atlanta Falcons,Cincinnati Bengals,"0-1, 0-1 Home","1-0, 1-0 Away",10,34,,,Final,ESPN,3,0,7,0,,0,17,10,7,,1,NFL
+330824006,2013,"August 24, 2013",Dallas Cowboys,Cincinnati Bengals,"2-2, 2-0 Home","2-1, 1-1 Away",24,18,,,Final,,0,14,7,3,,7,0,3,8,,3,NFL
+330829004,2013,"August 29, 2013",Cincinnati Bengals,Indianapolis Colts,"3-1, 2-0 Home","2-2, 1-1 Away",27,10,,,Final,,10,7,10,0,,3,0,0,7,,4,NFL
+340105004,2013,"January 5, 2014",Cincinnati Bengals,San Diego Chargers,"11-5, 8-0 Home","9-7, 4-4 Away",10,27,,,Final,CBS,0,10,0,0,,7,0,10,10,,WC,NFL
+331229004,2013,"December 29, 2013",Cincinnati Bengals,Baltimore Ravens,"11-5, 8-0 Home","8-8, 2-6 Away",34,17,,,Final,CBS,7,10,0,17,,6,0,11,0,,17,NFL

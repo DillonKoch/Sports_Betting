@@ -1,23 +1,23 @@
-,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
-0,250919006,2005,"September 19, 2005",Dallas Cowboys,Washington Redskins,"1-1, 0-1 Home","2-0, 1-0 Away",13,14,,,Final,,0,3,7,3,,0,0,0,14,,2,NFL
-1,251002028,2005,"October 2, 2005",Washington Redskins,Seattle Seahawks,"3-0, 2-0 Home","2-2, 0-2 Away",20,17,,,Final/OT,,0,7,10,0,3.0,3,0,7,7,0.0,4,NFL
-2,251016012,2005,"October 16, 2005",Kansas City Chiefs,Washington Redskins,"3-2, 2-1 Home","3-2, 1-2 Away",28,21,,,Final,,3,3,15,7,,0,7,14,0,,6,NFL
-3,251030019,2005,"October 30, 2005",New York Giants,Washington Redskins,"5-2, 4-0 Home","4-3, 1-3 Away",36,0,,,Final,,6,13,17,0,,0,0,0,0,,8,NFL
-4,251113027,2005,"November 13, 2005",Tampa Bay Buccaneers,Washington Redskins,"6-3, 4-1 Home","5-4, 1-4 Away",36,35,,,Final,,7,14,7,8,,3,10,15,7,,10,NFL
-5,251127028,2005,"November 27, 2005",Washington Redskins,San Diego Chargers,"5-6, 4-2 Home","7-4, 4-2 Away",17,23,,,Final/OT,,3,7,7,0,0.0,0,7,0,10,6.0,12,NFL
-6,251211022,2005,"December 11, 2005",Arizona Cardinals,Washington Redskins,"4-9, 2-5 Home","7-6, 3-4 Away",13,17,,,Final,,0,10,3,0,,0,3,14,0,,14,NFL
-7,251224028,2005,"December 24, 2005",Washington Redskins,New York Giants,"9-6, 6-2 Home","10-5, 3-4 Away",35,20,,,Final,,14,7,7,7,,10,7,3,0,,16,NFL
-8,250819028,2005,"August 19, 2005",Washington Redskins,Cincinnati Bengals,"0-2, 0-1 Home","1-1, 1-0 Away",17,24,,,Final,,7,3,0,7,,0,14,7,3,,1,NFL
-9,260107027,2005,"January 7, 2006",Tampa Bay Buccaneers,Washington Redskins,"11-5, 6-2 Home","10-6, 4-4 Away",10,17,,,Final,,0,3,7,0,,14,3,0,0,,WC,NFL
-10,250911028,2005,"September 11, 2005",Washington Redskins,Chicago Bears,"1-0, 1-0 Home","0-1, 0-1 Away",9,7,,,Final,,0,6,3,0,,0,0,7,0,,1,NFL
-11,251009007,2005,"October 9, 2005",Denver Broncos,Washington Redskins,"4-1, 3-0 Home","3-1, 1-1 Away",21,19,,,Final,,7,7,7,0,,7,3,0,9,,5,NFL
-12,251023028,2005,"October 23, 2005",Washington Redskins,San Francisco 49ers,"4-2, 3-0 Home","1-5, 0-3 Away",52,17,,,Final,,14,21,10,7,,7,0,0,10,,7,NFL
-13,251106028,2005,"November 6, 2005",Washington Redskins,Philadelphia Eagles,"5-3, 4-0 Home","4-4, 1-4 Away",17,10,,,Final,,0,10,7,0,,7,0,3,0,,9,NFL
-14,251120028,2005,"November 20, 2005",Washington Redskins,Oakland Raiders,"5-5, 4-1 Home","4-6, 2-3 Away",13,16,,,Final,,7,6,0,0,,3,0,7,6,,11,NFL
-15,251204014,2005,"December 4, 2005",St. Louis Rams,Washington Redskins,"5-7, 3-3 Home","6-6, 2-4 Away",9,24,,,Final,,0,7,0,2,,7,3,0,14,,13,NFL
-16,251218028,2005,"December 18, 2005",Washington Redskins,Dallas Cowboys,"8-6, 5-2 Home","8-6, 3-4 Away",35,7,,,Final,,7,21,7,0,,0,0,0,7,,15,NFL
-17,250813029,2005,"August 13, 2005",Carolina Panthers,Washington Redskins,"1-0, 1-0 Home","0-1, 0-1 Away",28,10,,,Final,,7,7,0,14,,0,3,7,0,,HOF,NFL
-18,250826028,2005,"August 26, 2005",Washington Redskins,Pittsburgh Steelers,"1-2, 1-1 Home","2-1, 0-1 Away",17,10,,,Final,,3,7,7,0,,7,3,0,0,,2,NFL
-19,260114026,2005,"January 14, 2006",Seattle Seahawks,Washington Redskins,"13-3, 8-0 Home","10-6, 4-4 Away",20,10,,,Final,,0,7,7,6,,0,3,0,7,,DIV,NFL
-20,250901033,2005,"September 1, 2005",Baltimore Ravens,Washington Redskins,"2-2, 1-1 Home","1-3, 0-2 Away",26,20,,,Final/OT,,0,3,3,14,6.0,0,10,7,3,0.0,3,NFL
-21,260101021,2005,"January 1, 2006",Philadelphia Eagles,Washington Redskins,"6-10, 4-4 Home","10-6, 4-4 Away",20,31,,,Final,,10,7,3,0,,7,3,7,14,,17,NFL
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
+250919006,2005,"September 19, 2005",Dallas Cowboys,Washington Redskins,"1-1, 0-1 Home","2-0, 1-0 Away",13,14,,,Final,,0,3,7,3,,0,0,0,14,,2,NFL
+251002028,2005,"October 2, 2005",Washington Redskins,Seattle Seahawks,"3-0, 2-0 Home","2-2, 0-2 Away",20,17,,,Final/OT,,0,7,10,0,3.0,3,0,7,7,0.0,4,NFL
+251016012,2005,"October 16, 2005",Kansas City Chiefs,Washington Redskins,"3-2, 2-1 Home","3-2, 1-2 Away",28,21,,,Final,,3,3,15,7,,0,7,14,0,,6,NFL
+251030019,2005,"October 30, 2005",New York Giants,Washington Redskins,"5-2, 4-0 Home","4-3, 1-3 Away",36,0,,,Final,,6,13,17,0,,0,0,0,0,,8,NFL
+251113027,2005,"November 13, 2005",Tampa Bay Buccaneers,Washington Redskins,"6-3, 4-1 Home","5-4, 1-4 Away",36,35,,,Final,,7,14,7,8,,3,10,15,7,,10,NFL
+251127028,2005,"November 27, 2005",Washington Redskins,San Diego Chargers,"5-6, 4-2 Home","7-4, 4-2 Away",17,23,,,Final/OT,,3,7,7,0,0.0,0,7,0,10,6.0,12,NFL
+251211022,2005,"December 11, 2005",Arizona Cardinals,Washington Redskins,"4-9, 2-5 Home","7-6, 3-4 Away",13,17,,,Final,,0,10,3,0,,0,3,14,0,,14,NFL
+251224028,2005,"December 24, 2005",Washington Redskins,New York Giants,"9-6, 6-2 Home","10-5, 3-4 Away",35,20,,,Final,,14,7,7,7,,10,7,3,0,,16,NFL
+250819028,2005,"August 19, 2005",Washington Redskins,Cincinnati Bengals,"0-2, 0-1 Home","1-1, 1-0 Away",17,24,,,Final,,7,3,0,7,,0,14,7,3,,1,NFL
+260107027,2005,"January 7, 2006",Tampa Bay Buccaneers,Washington Redskins,"11-5, 6-2 Home","10-6, 4-4 Away",10,17,,,Final,,0,3,7,0,,14,3,0,0,,WC,NFL
+250911028,2005,"September 11, 2005",Washington Redskins,Chicago Bears,"1-0, 1-0 Home","0-1, 0-1 Away",9,7,,,Final,,0,6,3,0,,0,0,7,0,,1,NFL
+251009007,2005,"October 9, 2005",Denver Broncos,Washington Redskins,"4-1, 3-0 Home","3-1, 1-1 Away",21,19,,,Final,,7,7,7,0,,7,3,0,9,,5,NFL
+251023028,2005,"October 23, 2005",Washington Redskins,San Francisco 49ers,"4-2, 3-0 Home","1-5, 0-3 Away",52,17,,,Final,,14,21,10,7,,7,0,0,10,,7,NFL
+251106028,2005,"November 6, 2005",Washington Redskins,Philadelphia Eagles,"5-3, 4-0 Home","4-4, 1-4 Away",17,10,,,Final,,0,10,7,0,,7,0,3,0,,9,NFL
+251120028,2005,"November 20, 2005",Washington Redskins,Oakland Raiders,"5-5, 4-1 Home","4-6, 2-3 Away",13,16,,,Final,,7,6,0,0,,3,0,7,6,,11,NFL
+251204014,2005,"December 4, 2005",St. Louis Rams,Washington Redskins,"5-7, 3-3 Home","6-6, 2-4 Away",9,24,,,Final,,0,7,0,2,,7,3,0,14,,13,NFL
+251218028,2005,"December 18, 2005",Washington Redskins,Dallas Cowboys,"8-6, 5-2 Home","8-6, 3-4 Away",35,7,,,Final,,7,21,7,0,,0,0,0,7,,15,NFL
+250813029,2005,"August 13, 2005",Carolina Panthers,Washington Redskins,"1-0, 1-0 Home","0-1, 0-1 Away",28,10,,,Final,,7,7,0,14,,0,3,7,0,,HOF,NFL
+250826028,2005,"August 26, 2005",Washington Redskins,Pittsburgh Steelers,"1-2, 1-1 Home","2-1, 0-1 Away",17,10,,,Final,,3,7,7,0,,7,3,0,0,,2,NFL
+260114026,2005,"January 14, 2006",Seattle Seahawks,Washington Redskins,"13-3, 8-0 Home","10-6, 4-4 Away",20,10,,,Final,,0,7,7,6,,0,3,0,7,,DIV,NFL
+250901033,2005,"September 1, 2005",Baltimore Ravens,Washington Redskins,"2-2, 1-1 Home","1-3, 0-2 Away",26,20,,,Final/OT,,0,3,3,14,6.0,0,10,7,3,0.0,3,NFL
+260101021,2005,"January 1, 2006",Philadelphia Eagles,Washington Redskins,"6-10, 4-4 Home","10-6, 4-4 Away",20,31,,,Final,,10,7,3,0,,7,3,7,14,,17,NFL

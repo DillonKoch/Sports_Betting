@@ -1,21 +1,21 @@
-,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
-0,401030704,2018,"September 16, 2018",Buffalo Bills,Los Angeles Chargers,"0-2, 0-1 Home","1-1, 1-0 Away",20,31,LAC -7.5,42,Final,CBS,0,6,7,7,,14,14,0,3,,2,NFL
-1,401030844,2018,"September 30, 2018",Green Bay Packers,Buffalo Bills,"2-1-1, 2-0-1 Home","1-3, 1-2 Away",22,0,GB -9.0,44,Final,CBS,6,10,3,3,,0,0,0,0,,4,NFL
-2,401030748,2018,"October 14, 2018",Houston Texans,Buffalo Bills,"3-3, 2-1 Home","2-4, 1-3 Away",20,13,HOU -10.0,40,Final,CBS,7,3,0,10,,0,0,6,7,,6,NFL
-3,401030789,2018,"October 29, 2018",Buffalo Bills,New England Patriots,"2-6, 1-2 Home","6-2, 2-2 Away",6,25,NE -13.5,44,Final,ESPN,0,3,3,0,,3,6,3,13,,8,NFL
-4,401030853,2018,"November 11, 2018",New York Jets,Buffalo Bills,"3-7, 2-3 Home","3-7, 2-4 Away",10,41,NYJ -7.0,38,Final,CBS,0,3,7,0,,14,17,7,3,,10,NFL
-5,401030919,2018,"November 25, 2018",Buffalo Bills,Jacksonville Jaguars,"4-7, 2-3 Home","3-8, 1-4 Away",24,21,JAX -3.0,37,Final,CBS,14,0,0,10,,0,14,0,7,,12,NFL
-6,401030750,2018,"December 9, 2018",Buffalo Bills,New York Jets,"4-9, 2-4 Home","4-9, 2-5 Away",23,27,BUF -4.0,37,Final,CBS,14,3,3,3,,3,10,0,14,,14,NFL
-7,401030892,2018,"December 23, 2018",New England Patriots,Buffalo Bills,"10-5, 7-0 Home","5-10, 2-6 Away",24,12,NE -13.5,45,Final,CBS,7,7,7,3,,0,0,6,6,,16,NFL
-8,401030993,2018,"August 17, 2018",Cleveland Browns,Buffalo Bills,"1-1, 0-1 Home","1-1, 1-0 Away",17,19,CLE -3.0,43,Final,NFL,7,0,3,7,,0,10,3,6,,2,NFL
-9,401030711,2018,"September 9, 2018",Baltimore Ravens,Buffalo Bills,"1-0, 1-0 Home","0-1, 0-1 Away",47,3,BAL -8.0,40,Final,CBS,14,12,14,7,,0,0,3,0,,1,NFL
-10,401030784,2018,"September 23, 2018",Minnesota Vikings,Buffalo Bills,"1-1-1, 1-1 Home","1-2, 1-1 Away",6,27,MIN -17.0,41,Final,CBS,0,0,0,6,,17,10,0,0,,3,NFL
-11,401030702,2018,"October 7, 2018",Buffalo Bills,Tennessee Titans,"2-3, 1-1 Home","3-2, 1-2 Away",13,12,TEN -6.0,38,Final,CBS,7,0,3,3,,3,3,0,6,,5,NFL
-12,401030833,2018,"October 21, 2018",Indianapolis Colts,Buffalo Bills,"2-5, 1-2 Home","2-5, 1-4 Away",37,5,IND -7.0,43,Final,CBS,0,24,0,13,,0,0,5,0,,7,NFL
-13,401030769,2018,"November 4, 2018",Buffalo Bills,Chicago Bears,"2-7, 1-3 Home","5-3, 2-2 Away",9,41,CHI -10.0,38,Final,FOX,0,0,3,6,,0,28,3,10,,9,NFL
-14,401030954,2018,"December 2, 2018",Miami Dolphins,Buffalo Bills,"6-6, 5-1 Home","4-8, 2-5 Away",21,17,MIA -3.5,40,Final,CBS,7,7,0,7,,0,6,3,8,,13,NFL
-15,401030896,2018,"December 16, 2018",Buffalo Bills,Detroit Lions,"5-9, 3-4 Home","5-9, 2-5 Away",14,13,BUF -2.5,40,Final,FOX,0,7,0,7,,0,13,0,0,,15,NFL
-16,401030946,2018,"August 9, 2018",Buffalo Bills,Carolina Panthers,"0-1, 0-1 Home","1-0, 1-0 Away",23,28,BUF -3.0,35,Final,,7,10,0,6,,7,0,7,14,,1,NFL
-17,401029386,2018,"August 26, 2018",Buffalo Bills,Cincinnati Bengals,"1-2, 0-2 Home","3-0, 2-0 Away",13,26,BUF -1.5,41,Final,FOX,0,0,13,0,,14,6,3,3,,3,NFL
-18,401029391,2018,"August 30, 2018",Chicago Bears,Buffalo Bills,"2-3, 1-1 Home","2-2, 2-0 Away",27,28,CHI -3.0,37,Final,,10,10,7,0,,0,0,3,25,,4,NFL
-19,401030722,2018,"December 30, 2018",Buffalo Bills,Miami Dolphins,"6-10, 4-4 Home","7-9, 1-7 Away",42,17,BUF -5.5,40,Final,CBS,14,0,14,14,,0,14,3,0,,17,NFL
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
+401030704,2018,"September 16, 2018",Buffalo Bills,Los Angeles Chargers,"0-2, 0-1 Home","1-1, 1-0 Away",20,31,LAC -7.5,42,Final,CBS,0,6,7,7,,14,14,0,3,,2,NFL
+401030844,2018,"September 30, 2018",Green Bay Packers,Buffalo Bills,"2-1-1, 2-0-1 Home","1-3, 1-2 Away",22,0,GB -9.0,44,Final,CBS,6,10,3,3,,0,0,0,0,,4,NFL
+401030748,2018,"October 14, 2018",Houston Texans,Buffalo Bills,"3-3, 2-1 Home","2-4, 1-3 Away",20,13,HOU -10.0,40,Final,CBS,7,3,0,10,,0,0,6,7,,6,NFL
+401030789,2018,"October 29, 2018",Buffalo Bills,New England Patriots,"2-6, 1-2 Home","6-2, 2-2 Away",6,25,NE -13.5,44,Final,ESPN,0,3,3,0,,3,6,3,13,,8,NFL
+401030853,2018,"November 11, 2018",New York Jets,Buffalo Bills,"3-7, 2-3 Home","3-7, 2-4 Away",10,41,NYJ -7.0,38,Final,CBS,0,3,7,0,,14,17,7,3,,10,NFL
+401030919,2018,"November 25, 2018",Buffalo Bills,Jacksonville Jaguars,"4-7, 2-3 Home","3-8, 1-4 Away",24,21,JAX -3.0,37,Final,CBS,14,0,0,10,,0,14,0,7,,12,NFL
+401030750,2018,"December 9, 2018",Buffalo Bills,New York Jets,"4-9, 2-4 Home","4-9, 2-5 Away",23,27,BUF -4.0,37,Final,CBS,14,3,3,3,,3,10,0,14,,14,NFL
+401030892,2018,"December 23, 2018",New England Patriots,Buffalo Bills,"10-5, 7-0 Home","5-10, 2-6 Away",24,12,NE -13.5,45,Final,CBS,7,7,7,3,,0,0,6,6,,16,NFL
+401030993,2018,"August 17, 2018",Cleveland Browns,Buffalo Bills,"1-1, 0-1 Home","1-1, 1-0 Away",17,19,CLE -3.0,43,Final,NFL,7,0,3,7,,0,10,3,6,,2,NFL
+401030711,2018,"September 9, 2018",Baltimore Ravens,Buffalo Bills,"1-0, 1-0 Home","0-1, 0-1 Away",47,3,BAL -8.0,40,Final,CBS,14,12,14,7,,0,0,3,0,,1,NFL
+401030784,2018,"September 23, 2018",Minnesota Vikings,Buffalo Bills,"1-1-1, 1-1 Home","1-2, 1-1 Away",6,27,MIN -17.0,41,Final,CBS,0,0,0,6,,17,10,0,0,,3,NFL
+401030702,2018,"October 7, 2018",Buffalo Bills,Tennessee Titans,"2-3, 1-1 Home","3-2, 1-2 Away",13,12,TEN -6.0,38,Final,CBS,7,0,3,3,,3,3,0,6,,5,NFL
+401030833,2018,"October 21, 2018",Indianapolis Colts,Buffalo Bills,"2-5, 1-2 Home","2-5, 1-4 Away",37,5,IND -7.0,43,Final,CBS,0,24,0,13,,0,0,5,0,,7,NFL
+401030769,2018,"November 4, 2018",Buffalo Bills,Chicago Bears,"2-7, 1-3 Home","5-3, 2-2 Away",9,41,CHI -10.0,38,Final,FOX,0,0,3,6,,0,28,3,10,,9,NFL
+401030954,2018,"December 2, 2018",Miami Dolphins,Buffalo Bills,"6-6, 5-1 Home","4-8, 2-5 Away",21,17,MIA -3.5,40,Final,CBS,7,7,0,7,,0,6,3,8,,13,NFL
+401030896,2018,"December 16, 2018",Buffalo Bills,Detroit Lions,"5-9, 3-4 Home","5-9, 2-5 Away",14,13,BUF -2.5,40,Final,FOX,0,7,0,7,,0,13,0,0,,15,NFL
+401030946,2018,"August 9, 2018",Buffalo Bills,Carolina Panthers,"0-1, 0-1 Home","1-0, 1-0 Away",23,28,BUF -3.0,35,Final,,7,10,0,6,,7,0,7,14,,1,NFL
+401029386,2018,"August 26, 2018",Buffalo Bills,Cincinnati Bengals,"1-2, 0-2 Home","3-0, 2-0 Away",13,26,BUF -1.5,41,Final,FOX,0,0,13,0,,14,6,3,3,,3,NFL
+401029391,2018,"August 30, 2018",Chicago Bears,Buffalo Bills,"2-3, 1-1 Home","2-2, 2-0 Away",27,28,CHI -3.0,37,Final,,10,10,7,0,,0,0,3,25,,4,NFL
+401030722,2018,"December 30, 2018",Buffalo Bills,Miami Dolphins,"6-10, 4-4 Home","7-9, 1-7 Away",42,17,BUF -5.5,40,Final,CBS,14,0,14,14,,0,14,3,0,,17,NFL

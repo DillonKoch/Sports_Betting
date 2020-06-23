@@ -1,18 +1,18 @@
-,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
-0,140904008,1994,"September 4, 1994",Detroit Lions,Atlanta Falcons,"1-0, 1-0 Home","0-1, 0-1 Away",31,28,,,Final/OT,,11,5,0,.688,405.0,13,3,0,.813,479.0,,NFL
-1,140911016,1994,"September 11, 1994",Minnesota Vikings,Detroit Lions,"1-1, 1-0 Home","1-1, 0-1 Away",10,3,,,Final,,N,U,L,L,,N,U,L,L,,,NFL
-2,140919006,1994,"September 19, 1994",Dallas Cowboys,Detroit Lions,"2-1, 1-1 Home","2-1, 1-1 Away",17,20,,,Final,,8,8,0,.500,434.0,9,7,0,.563,385.0,,NFL
-3,140925008,1994,"September 25, 1994",Detroit Lions,New England Patriots,"2-2, 1-1 Home","2-2, 2-1 Away",17,23,,,Final,,10,6,0,.625,314.0,12,4,0,.750,420.0,,NFL
-4,141002027,1994,"October 2, 1994",Tampa Bay Buccaneers,Detroit Lions,"2-3, 2-1 Home","2-3, 1-2 Away",24,14,,,Final,,N,U,L,L,,N,U,L,L,,,NFL
-5,141009008,1994,"October 9, 1994",Detroit Lions,San Francisco 49ers,"2-4, 1-2 Home","4-2, 2-1 Away",21,27,,,Final,,11,5,0,.688,405.0,13,3,0,.813,479.0,,NFL
-6,141023008,1994,"October 23, 1994",Detroit Lions,Chicago Bears,"3-4, 2-2 Home","4-3, 1-2 Away",21,16,,,Final,,N,U,L,L,,N,U,L,L,,,NFL
-7,141030019,1994,"October 30, 1994",New York Giants,Detroit Lions,"3-5, 2-3 Home","4-4, 2-2 Away",25,28,,,Final/OT,,8,8,0,.500,434.0,9,7,0,.563,385.0,,NFL
-8,141106009,1994,"November 6, 1994",Green Bay Packers,Detroit Lions,"5-4, 4-1 Home","4-5, 2-3 Away",38,30,,,Final,,N,U,L,L,,N,U,L,L,,,NFL
-9,141113008,1994,"November 13, 1994",Detroit Lions,Tampa Bay Buccaneers,"5-5, 3-2 Home","2-8, 0-5 Away",14,9,,,Final,,N,U,L,L,,N,U,L,L,,,NFL
-10,141120003,1994,"November 20, 1994",Chicago Bears,Detroit Lions,"7-4, 4-2 Home","5-6, 2-4 Away",20,10,,,Final,,N,U,L,L,,N,U,L,L,,,NFL
-11,141124008,1994,"November 24, 1994",Detroit Lions,Buffalo Bills,"6-6, 4-2 Home","6-6, 2-4 Away",35,21,,,Final,,10,6,0,.625,314.0,12,4,0,.750,420.0,,NFL
-12,141204008,1994,"December 4, 1994",Detroit Lions,Green Bay Packers,"7-6, 5-2 Home","6-7, 1-6 Away",34,31,,,Final,,N,U,L,L,,N,U,L,L,,,NFL
-13,141210020,1994,"December 10, 1994",New York Jets,Detroit Lions,"6-8, 4-3 Home","8-6, 3-4 Away",7,18,,,Final,,10,6,0,.625,314.0,12,4,0,.750,420.0,,NFL
-14,141217008,1994,"December 17, 1994",Detroit Lions,Minnesota Vikings,"9-6, 6-2 Home","9-6, 4-4 Away",41,19,,,Final,,N,U,L,L,,N,U,L,L,,,NFL
-15,141225015,1994,"December 25, 1994",Miami Dolphins,Detroit Lions,"10-6, 6-2 Home","9-7, 3-5 Away",27,20,,,Final,,10,6,0,.625,314.0,12,4,0,.750,420.0,,NFL
-16,141231009,1994,"December 31, 1994",Green Bay Packers,Detroit Lions,"9-7, 7-1 Home","9-7, 3-5 Away",16,12,,,Final,,N,U,L,L,,N,U,L,L,,,NFL
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
+140904008,1994,"September 4, 1994",Detroit Lions,Atlanta Falcons,"1-0, 1-0 Home","0-1, 0-1 Away",31,28,,,Final/OT,,11,5,0,.688,405.0,13,3,0,.813,479.0,,NFL
+140911016,1994,"September 11, 1994",Minnesota Vikings,Detroit Lions,"1-1, 1-0 Home","1-1, 0-1 Away",10,3,,,Final,,N,U,L,L,,N,U,L,L,,,NFL
+140919006,1994,"September 19, 1994",Dallas Cowboys,Detroit Lions,"2-1, 1-1 Home","2-1, 1-1 Away",17,20,,,Final,,8,8,0,.500,434.0,9,7,0,.563,385.0,,NFL
+140925008,1994,"September 25, 1994",Detroit Lions,New England Patriots,"2-2, 1-1 Home","2-2, 2-1 Away",17,23,,,Final,,10,6,0,.625,314.0,12,4,0,.750,420.0,,NFL
+141002027,1994,"October 2, 1994",Tampa Bay Buccaneers,Detroit Lions,"2-3, 2-1 Home","2-3, 1-2 Away",24,14,,,Final,,N,U,L,L,,N,U,L,L,,,NFL
+141009008,1994,"October 9, 1994",Detroit Lions,San Francisco 49ers,"2-4, 1-2 Home","4-2, 2-1 Away",21,27,,,Final,,11,5,0,.688,405.0,13,3,0,.813,479.0,,NFL
+141023008,1994,"October 23, 1994",Detroit Lions,Chicago Bears,"3-4, 2-2 Home","4-3, 1-2 Away",21,16,,,Final,,N,U,L,L,,N,U,L,L,,,NFL
+141030019,1994,"October 30, 1994",New York Giants,Detroit Lions,"3-5, 2-3 Home","4-4, 2-2 Away",25,28,,,Final/OT,,8,8,0,.500,434.0,9,7,0,.563,385.0,,NFL
+141106009,1994,"November 6, 1994",Green Bay Packers,Detroit Lions,"5-4, 4-1 Home","4-5, 2-3 Away",38,30,,,Final,,N,U,L,L,,N,U,L,L,,,NFL
+141113008,1994,"November 13, 1994",Detroit Lions,Tampa Bay Buccaneers,"5-5, 3-2 Home","2-8, 0-5 Away",14,9,,,Final,,N,U,L,L,,N,U,L,L,,,NFL
+141120003,1994,"November 20, 1994",Chicago Bears,Detroit Lions,"7-4, 4-2 Home","5-6, 2-4 Away",20,10,,,Final,,N,U,L,L,,N,U,L,L,,,NFL
+141124008,1994,"November 24, 1994",Detroit Lions,Buffalo Bills,"6-6, 4-2 Home","6-6, 2-4 Away",35,21,,,Final,,10,6,0,.625,314.0,12,4,0,.750,420.0,,NFL
+141204008,1994,"December 4, 1994",Detroit Lions,Green Bay Packers,"7-6, 5-2 Home","6-7, 1-6 Away",34,31,,,Final,,N,U,L,L,,N,U,L,L,,,NFL
+141210020,1994,"December 10, 1994",New York Jets,Detroit Lions,"6-8, 4-3 Home","8-6, 3-4 Away",7,18,,,Final,,10,6,0,.625,314.0,12,4,0,.750,420.0,,NFL
+141217008,1994,"December 17, 1994",Detroit Lions,Minnesota Vikings,"9-6, 6-2 Home","9-6, 4-4 Away",41,19,,,Final,,N,U,L,L,,N,U,L,L,,,NFL
+141225015,1994,"December 25, 1994",Miami Dolphins,Detroit Lions,"10-6, 6-2 Home","9-7, 3-5 Away",27,20,,,Final,,10,6,0,.625,314.0,12,4,0,.750,420.0,,NFL
+141231009,1994,"December 31, 1994",Green Bay Packers,Detroit Lions,"9-7, 7-1 Home","9-7, 3-5 Away",16,12,,,Final,,N,U,L,L,,N,U,L,L,,,NFL

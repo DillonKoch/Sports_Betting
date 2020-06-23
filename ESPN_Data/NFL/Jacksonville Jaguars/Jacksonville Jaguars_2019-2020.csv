@@ -1,21 +1,21 @@
-,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
-0,401128101,2019,"September 15, 2019",Houston Texans,Jacksonville Jaguars,"1-1, 1-0 Home","0-2, 0-1 Away",13,12,HOU -7.0,43,Final,CBS,3,3,0,7,,0,3,0,9,,2,NFL
-1,401128097,2019,"September 29, 2019",Denver Broncos,Jacksonville Jaguars,"0-4, 0-2 Home","2-2, 1-1 Away",24,26,DEN -2.5,37,Final,CBS,7,10,0,7,,3,3,14,6,,4,NFL
-2,401128116,2019,"October 13, 2019",Jacksonville Jaguars,New Orleans Saints,"2-4, 1-2 Home","5-1, 2-1 Away",6,13,JAX -2.5,42,Final,CBS,0,3,3,0,,3,0,3,7,,6,NFL
-3,401128045,2019,"October 27, 2019",Jacksonville Jaguars,New York Jets,"4-4, 2-2 Home","1-6, 0-3 Away",29,15,JAX -7.0,40,Final,CBS,13,6,3,7,,7,0,0,8,,8,NFL
-4,401128000,2019,"November 24, 2019",Tennessee Titans,Jacksonville Jaguars,"6-5, 4-2 Home","4-7, 2-4 Away",42,20,TEN -4.5,43,Final,CBS,0,7,28,7,,0,3,8,9,,12,NFL
-5,401127997,2019,"December 8, 2019",Jacksonville Jaguars,Los Angeles Chargers,"4-9, 2-5 Home","5-8, 3-4 Away",10,45,LAC -3.5,43,Final,FOX,3,0,7,0,,7,17,14,7,,14,NFL
-6,401127903,2019,"December 22, 2019",Atlanta Falcons,Jacksonville Jaguars,"6-9, 3-5 Home","5-10, 3-5 Away",24,12,ATL -7.5,48,Final,FOX,14,3,0,7,,0,3,3,6,,16,NFL
-7,401128171,2019,"August 15, 2019",Jacksonville Jaguars,Philadelphia Eagles,"0-2, 0-1 Home","1-1, 1-0 Away",10,24,JAX -3.0,35,Final,,0,3,0,7,,0,7,7,10,,2,NFL
-8,401127931,2019,"September 8, 2019",Jacksonville Jaguars,Kansas City Chiefs,"0-1, 0-1 Home","1-0, 1-0 Away",26,40,KC -3.5,49,Final,CBS,7,6,0,13,,17,6,7,10,,1,NFL
-9,401127859,2019,"September 19, 2019",Jacksonville Jaguars,Tennessee Titans,"1-2, 1-1 Home","1-2, 1-1 Away",20,7,TEN -2.0,38,Final,NFL,14,0,3,3,,0,0,0,7,,3,NFL
-10,401127932,2019,"October 6, 2019",Carolina Panthers,Jacksonville Jaguars,"3-2, 1-2 Home","2-3, 1-2 Away",34,27,CAR -3.5,41,Final,CBS,14,7,7,6,,7,10,7,3,,5,NFL
-11,401127945,2019,"October 20, 2019",Cincinnati Bengals,Jacksonville Jaguars,"0-7, 0-3 Home","3-4, 2-2 Away",17,27,JAX -4.5,44,Final,CBS,0,7,3,7,,0,6,3,18,,7,NFL
-12,401127936,2019,"November 3, 2019",Jacksonville Jaguars,Houston Texans,4-5,6-3,3,26,JAX -1.0,46,Final,NFL,0,3,0,0,,3,6,10,7,,9,NFL
-13,401128075,2019,"November 17, 2019",Indianapolis Colts,Jacksonville Jaguars,"6-4, 4-2 Home","4-6, 2-3 Away",33,13,IND -2.5,42,Final,CBS,7,3,14,9,,7,0,0,6,,11,NFL
-14,401128063,2019,"December 1, 2019",Jacksonville Jaguars,Tampa Bay Buccaneers,"4-8, 2-4 Home","5-7, 4-3 Away",11,28,TB -3.0,46,Final,FOX,0,0,3,8,,15,10,0,3,,13,NFL
-15,401128099,2019,"December 15, 2019",Oakland Raiders,Jacksonville Jaguars,"6-8, 5-3 Home","5-9, 3-4 Away",16,20,LV -7.0,47,Final,CBS,10,6,0,0,,3,0,3,14,,15,NFL
-16,401128135,2019,"August 8, 2019",Baltimore Ravens,Jacksonville Jaguars,"1-0, 1-0 Home","0-1, 0-1 Away",29,0,BAL -3.5,31,Final,,10,6,10,3,,0,0,0,0,,1,NFL
-17,401126626,2019,"August 22, 2019",Miami Dolphins,Jacksonville Jaguars,"2-1, 2-0 Home","0-3, 0-2 Away",22,7,EVEN,39,Final,FOX,0,6,6,10,,7,0,0,0,,3,NFL
-18,401128179,2019,"August 29, 2019",Jacksonville Jaguars,Atlanta Falcons,"0-4, 0-2 Home","1-4, 1-1 Away",12,31,JAX -4.5,33,Final,,0,6,0,6,,7,14,3,7,,4,NFL
-19,401127988,2019,"December 29, 2019",Jacksonville Jaguars,Indianapolis Colts,"6-10, 3-5 Home","7-9, 2-6 Away",38,20,IND -5.5,42,Final,CBS,3,13,8,14,,10,10,0,0,,17,NFL
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
+401128101,2019,"September 15, 2019",Houston Texans,Jacksonville Jaguars,"1-1, 1-0 Home","0-2, 0-1 Away",13,12,HOU -7.0,43,Final,CBS,3,3,0,7,,0,3,0,9,,2,NFL
+401128097,2019,"September 29, 2019",Denver Broncos,Jacksonville Jaguars,"0-4, 0-2 Home","2-2, 1-1 Away",24,26,DEN -2.5,37,Final,CBS,7,10,0,7,,3,3,14,6,,4,NFL
+401128116,2019,"October 13, 2019",Jacksonville Jaguars,New Orleans Saints,"2-4, 1-2 Home","5-1, 2-1 Away",6,13,JAX -2.5,42,Final,CBS,0,3,3,0,,3,0,3,7,,6,NFL
+401128045,2019,"October 27, 2019",Jacksonville Jaguars,New York Jets,"4-4, 2-2 Home","1-6, 0-3 Away",29,15,JAX -7.0,40,Final,CBS,13,6,3,7,,7,0,0,8,,8,NFL
+401128000,2019,"November 24, 2019",Tennessee Titans,Jacksonville Jaguars,"6-5, 4-2 Home","4-7, 2-4 Away",42,20,TEN -4.5,43,Final,CBS,0,7,28,7,,0,3,8,9,,12,NFL
+401127997,2019,"December 8, 2019",Jacksonville Jaguars,Los Angeles Chargers,"4-9, 2-5 Home","5-8, 3-4 Away",10,45,LAC -3.5,43,Final,FOX,3,0,7,0,,7,17,14,7,,14,NFL
+401127903,2019,"December 22, 2019",Atlanta Falcons,Jacksonville Jaguars,"6-9, 3-5 Home","5-10, 3-5 Away",24,12,ATL -7.5,48,Final,FOX,14,3,0,7,,0,3,3,6,,16,NFL
+401128171,2019,"August 15, 2019",Jacksonville Jaguars,Philadelphia Eagles,"0-2, 0-1 Home","1-1, 1-0 Away",10,24,JAX -3.0,35,Final,,0,3,0,7,,0,7,7,10,,2,NFL
+401127931,2019,"September 8, 2019",Jacksonville Jaguars,Kansas City Chiefs,"0-1, 0-1 Home","1-0, 1-0 Away",26,40,KC -3.5,49,Final,CBS,7,6,0,13,,17,6,7,10,,1,NFL
+401127859,2019,"September 19, 2019",Jacksonville Jaguars,Tennessee Titans,"1-2, 1-1 Home","1-2, 1-1 Away",20,7,TEN -2.0,38,Final,NFL,14,0,3,3,,0,0,0,7,,3,NFL
+401127932,2019,"October 6, 2019",Carolina Panthers,Jacksonville Jaguars,"3-2, 1-2 Home","2-3, 1-2 Away",34,27,CAR -3.5,41,Final,CBS,14,7,7,6,,7,10,7,3,,5,NFL
+401127945,2019,"October 20, 2019",Cincinnati Bengals,Jacksonville Jaguars,"0-7, 0-3 Home","3-4, 2-2 Away",17,27,JAX -4.5,44,Final,CBS,0,7,3,7,,0,6,3,18,,7,NFL
+401127936,2019,"November 3, 2019",Jacksonville Jaguars,Houston Texans,4-5,6-3,3,26,JAX -1.0,46,Final,NFL,0,3,0,0,,3,6,10,7,,9,NFL
+401128075,2019,"November 17, 2019",Indianapolis Colts,Jacksonville Jaguars,"6-4, 4-2 Home","4-6, 2-3 Away",33,13,IND -2.5,42,Final,CBS,7,3,14,9,,7,0,0,6,,11,NFL
+401128063,2019,"December 1, 2019",Jacksonville Jaguars,Tampa Bay Buccaneers,"4-8, 2-4 Home","5-7, 4-3 Away",11,28,TB -3.0,46,Final,FOX,0,0,3,8,,15,10,0,3,,13,NFL
+401128099,2019,"December 15, 2019",Oakland Raiders,Jacksonville Jaguars,"6-8, 5-3 Home","5-9, 3-4 Away",16,20,LV -7.0,47,Final,CBS,10,6,0,0,,3,0,3,14,,15,NFL
+401128135,2019,"August 8, 2019",Baltimore Ravens,Jacksonville Jaguars,"1-0, 1-0 Home","0-1, 0-1 Away",29,0,BAL -3.5,31,Final,,10,6,10,3,,0,0,0,0,,1,NFL
+401126626,2019,"August 22, 2019",Miami Dolphins,Jacksonville Jaguars,"2-1, 2-0 Home","0-3, 0-2 Away",22,7,EVEN,39,Final,FOX,0,6,6,10,,7,0,0,0,,3,NFL
+401128179,2019,"August 29, 2019",Jacksonville Jaguars,Atlanta Falcons,"0-4, 0-2 Home","1-4, 1-1 Away",12,31,JAX -4.5,33,Final,,0,6,0,6,,7,14,3,7,,4,NFL
+401127988,2019,"December 29, 2019",Jacksonville Jaguars,Indianapolis Colts,"6-10, 3-5 Home","7-9, 2-6 Away",38,20,IND -5.5,42,Final,CBS,3,13,8,14,,10,10,0,0,,17,NFL

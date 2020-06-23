@@ -1,23 +1,23 @@
-,ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
-0,200910011,2000,"September 10, 2000",Indianapolis Colts,Oakland Raiders,"1-1, 0-1 Home","2-0, 1-0 Away",31,38,,,Final,,14,10,0,7.0,,0,7,24,7.0,,2,NFL
-1,200925011,2000,"September 25, 2000",Indianapolis Colts,Jacksonville Jaguars,"2-1, 1-1 Home","2-2, 1-2 Away",43,14,,,Final,,10,6,0,0.625,314.0,12,4,0,0.75,420.0,4,NFL
-2,201008017,2000,"October 8, 2000",New England Patriots,Indianapolis Colts,"2-4, 1-2 Home","3-2, 2-1 Away",24,16,,,Final,,3,7,0,14.0,,0,10,3,3.0,,6,NFL
-3,201022011,2000,"October 22, 2000",Indianapolis Colts,New England Patriots,"5-2, 2-1 Home","2-6, 1-3 Away",30,23,,,Final,,7,0,7,16.0,,7,6,10,0.0,,8,NFL
-4,201105003,2000,"November 5, 2000",Chicago Bears,Indianapolis Colts,"2-7, 1-4 Home","6-3, 3-2 Away",27,24,,,Final,,10,10,7,0.0,,0,0,8,16.0,,10,NFL
-5,201119009,2000,"November 19, 2000",Green Bay Packers,Indianapolis Colts,"5-6, 4-2 Home","7-4, 3-3 Away",26,24,,,Final,,5,14,0,7.0,,0,0,3,21.0,,12,NFL
-6,201203020,2000,"December 3, 2000",New York Jets,Indianapolis Colts,"9-4, 5-2 Home","7-6, 3-4 Away",27,17,,,Final,,14,6,0,7.0,,0,0,10,7.0,,14,NFL
-7,201217015,2000,"December 17, 2000",Miami Dolphins,Indianapolis Colts,"10-5, 5-3 Home","9-6, 4-4 Away",13,20,,,Final,,0,3,7,3.0,,7,10,3,0.0,,16,NFL
-8,200805026,2000,"August 5, 2000",Seattle Seahawks,Indianapolis Colts,"1-0, 1-0 Home","0-2, 0-1 Away",28,16,,,Final,,0,7,0,0.0,,0,7,0,0.0,,HOF,NFL
-9,200819023,2000,"August 19, 2000",Pittsburgh Steelers,Indianapolis Colts,"3-1, 2-1 Home","2-2, 1-1 Away",23,24,,,Final,,10,6,0,0.625,314.0,12,4,0,0.75,420.0,2,NFL
-10,200903012,2000,"September 3, 2000",Kansas City Chiefs,Indianapolis Colts,"0-1, 0-1 Home","1-0, 1-0 Away",14,27,,,Final,,0,7,7,0.0,,0,7,7,13.0,,1,NFL
-11,201001002,2000,"October 1, 2000",Buffalo Bills,Indianapolis Colts,"2-2, 2-1 Home","3-1, 2-0 Away",16,18,,,Final,,3,6,0,7.0,,0,7,0,11.0,,5,NFL
-12,201015026,2000,"October 15, 2000",Seattle Seahawks,Indianapolis Colts,"2-5, 1-2 Home","4-2, 3-1 Away",24,37,,,Final,,0,17,0,7.0,,7,13,14,3.0,,7,NFL
-13,201029011,2000,"October 29, 2000",Indianapolis Colts,Detroit Lions,"6-2, 3-1 Home","5-3, 3-1 Away",30,18,,,Final,,7,16,0,7.0,,0,0,11,7.0,,9,NFL
-14,201112011,2000,"November 12, 2000",Indianapolis Colts,New York Jets,"7-3, 4-1 Home","6-4, 3-2 Away",23,15,,,Final,,7,10,3,3.0,,0,0,7,8.0,,11,NFL
-15,201126011,2000,"November 26, 2000",Indianapolis Colts,Miami Dolphins,"7-5, 4-2 Home","9-3, 4-2 Away",14,17,,,Final,,7,0,0,7.0,,0,3,7,7.0,,13,NFL
-16,201211011,2000,"December 11, 2000",Indianapolis Colts,Buffalo Bills,"8-6, 5-2 Home","7-7, 2-5 Away",44,20,,,Final,,3,6,14,21.0,,3,3,6,8.0,,15,NFL
-17,200729011,2000,"July 29, 2000",Indianapolis Colts,Atlanta Falcons,"0-1, 0-1 Home","1-0, 1-0 Away",13,20,,,Final,,0,7,3,3.0,,3,7,3,7.0,,,NFL
-18,200812011,2000,"August 12, 2000",Indianapolis Colts,New Orleans Saints,"1-2, 1-1 Home","1-2, 1-2 Away",17,0,,,Final,,3,11,0,3.0,,0,0,0,0.0,,1,NFL
-19,201230015,2000,"December 30, 2000",Miami Dolphins,Indianapolis Colts,"11-5, 5-3 Home","10-6, 4-4 Away",23,17,,,Final/OT,,0,0,7,10.0,6.0,3,11,0,3.0,0.0,WC,NFL
-20,201224011,2000,"December 24, 2000",Indianapolis Colts,Minnesota Vikings,"10-6, 6-2 Home","11-5, 4-4 Away",31,10,,,Final,,7,14,7,3.0,,7,3,0,0.0,,17,NFL
-21,200824011,2000,"August 24, 2000",Indianapolis Colts,Minnesota Vikings,"3-2, 2-1 Home","1-3, 0-2 Away",32,30,,,Final,,10,3,7,12.0,,7,0,10,13.0,,3,NFL
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,Week,League
+200910011,2000,"September 10, 2000",Indianapolis Colts,Oakland Raiders,"1-1, 0-1 Home","2-0, 1-0 Away",31,38,,,Final,,14,10,0,7.0,,0,7,24,7.0,,2,NFL
+200925011,2000,"September 25, 2000",Indianapolis Colts,Jacksonville Jaguars,"2-1, 1-1 Home","2-2, 1-2 Away",43,14,,,Final,,10,6,0,0.625,314.0,12,4,0,0.75,420.0,4,NFL
+201008017,2000,"October 8, 2000",New England Patriots,Indianapolis Colts,"2-4, 1-2 Home","3-2, 2-1 Away",24,16,,,Final,,3,7,0,14.0,,0,10,3,3.0,,6,NFL
+201022011,2000,"October 22, 2000",Indianapolis Colts,New England Patriots,"5-2, 2-1 Home","2-6, 1-3 Away",30,23,,,Final,,7,0,7,16.0,,7,6,10,0.0,,8,NFL
+201105003,2000,"November 5, 2000",Chicago Bears,Indianapolis Colts,"2-7, 1-4 Home","6-3, 3-2 Away",27,24,,,Final,,10,10,7,0.0,,0,0,8,16.0,,10,NFL
+201119009,2000,"November 19, 2000",Green Bay Packers,Indianapolis Colts,"5-6, 4-2 Home","7-4, 3-3 Away",26,24,,,Final,,5,14,0,7.0,,0,0,3,21.0,,12,NFL
+201203020,2000,"December 3, 2000",New York Jets,Indianapolis Colts,"9-4, 5-2 Home","7-6, 3-4 Away",27,17,,,Final,,14,6,0,7.0,,0,0,10,7.0,,14,NFL
+201217015,2000,"December 17, 2000",Miami Dolphins,Indianapolis Colts,"10-5, 5-3 Home","9-6, 4-4 Away",13,20,,,Final,,0,3,7,3.0,,7,10,3,0.0,,16,NFL
+200805026,2000,"August 5, 2000",Seattle Seahawks,Indianapolis Colts,"1-0, 1-0 Home","0-2, 0-1 Away",28,16,,,Final,,0,7,0,0.0,,0,7,0,0.0,,HOF,NFL
+200819023,2000,"August 19, 2000",Pittsburgh Steelers,Indianapolis Colts,"3-1, 2-1 Home","2-2, 1-1 Away",23,24,,,Final,,10,6,0,0.625,314.0,12,4,0,0.75,420.0,2,NFL
+200903012,2000,"September 3, 2000",Kansas City Chiefs,Indianapolis Colts,"0-1, 0-1 Home","1-0, 1-0 Away",14,27,,,Final,,0,7,7,0.0,,0,7,7,13.0,,1,NFL
+201001002,2000,"October 1, 2000",Buffalo Bills,Indianapolis Colts,"2-2, 2-1 Home","3-1, 2-0 Away",16,18,,,Final,,3,6,0,7.0,,0,7,0,11.0,,5,NFL
+201015026,2000,"October 15, 2000",Seattle Seahawks,Indianapolis Colts,"2-5, 1-2 Home","4-2, 3-1 Away",24,37,,,Final,,0,17,0,7.0,,7,13,14,3.0,,7,NFL
+201029011,2000,"October 29, 2000",Indianapolis Colts,Detroit Lions,"6-2, 3-1 Home","5-3, 3-1 Away",30,18,,,Final,,7,16,0,7.0,,0,0,11,7.0,,9,NFL
+201112011,2000,"November 12, 2000",Indianapolis Colts,New York Jets,"7-3, 4-1 Home","6-4, 3-2 Away",23,15,,,Final,,7,10,3,3.0,,0,0,7,8.0,,11,NFL
+201126011,2000,"November 26, 2000",Indianapolis Colts,Miami Dolphins,"7-5, 4-2 Home","9-3, 4-2 Away",14,17,,,Final,,7,0,0,7.0,,0,3,7,7.0,,13,NFL
+201211011,2000,"December 11, 2000",Indianapolis Colts,Buffalo Bills,"8-6, 5-2 Home","7-7, 2-5 Away",44,20,,,Final,,3,6,14,21.0,,3,3,6,8.0,,15,NFL
+200729011,2000,"July 29, 2000",Indianapolis Colts,Atlanta Falcons,"0-1, 0-1 Home","1-0, 1-0 Away",13,20,,,Final,,0,7,3,3.0,,3,7,3,7.0,,,NFL
+200812011,2000,"August 12, 2000",Indianapolis Colts,New Orleans Saints,"1-2, 1-1 Home","1-2, 1-2 Away",17,0,,,Final,,3,11,0,3.0,,0,0,0,0.0,,1,NFL
+201230015,2000,"December 30, 2000",Miami Dolphins,Indianapolis Colts,"11-5, 5-3 Home","10-6, 4-4 Away",23,17,,,Final/OT,,0,0,7,10.0,6.0,3,11,0,3.0,0.0,WC,NFL
+201224011,2000,"December 24, 2000",Indianapolis Colts,Minnesota Vikings,"10-6, 6-2 Home","11-5, 4-4 Away",31,10,,,Final,,7,14,7,3.0,,7,3,0,0.0,,17,NFL
+200824011,2000,"August 24, 2000",Indianapolis Colts,Minnesota Vikings,"3-2, 2-1 Home","1-3, 0-2 Away",32,30,,,Final,,10,3,7,12.0,,7,0,10,13.0,,3,NFL
