@@ -4,7 +4,7 @@
 # File Created: Tuesday, 16th June 2020 1:42:34 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Monday, 22nd June 2020 1:33:41 pm
+# Last Modified: Tuesday, 23rd June 2020 9:33:32 am
 # Modified By: Dillon Koch
 # -----
 #
@@ -236,8 +236,8 @@ class ESPN_Stat_Scraper:
                 for col in cols:
                     items = [tup[1] for tup in stats_items if tup[0] == col][0]
                     if items is not None:
-                        df.loc[i, "home_" + col] = items[0]
-                        df.loc[i, "away_" + col] = items[1]
+                        df.loc[i, "away_" + col] = items[0]
+                        df.loc[i, "home_" + col] = items[1]
                 time.sleep(5)
         except Exception as e:
             print(e)
