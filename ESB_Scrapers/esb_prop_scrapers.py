@@ -4,7 +4,7 @@
 # File Created: Wednesday, 17th June 2020 6:37:45 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Tuesday, 23rd June 2020 1:15:56 pm
+# Last Modified: Tuesday, 23rd June 2020 4:24:40 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -98,6 +98,14 @@ class ESB_Bool_Prop_Scraper:
         for item in lis:
             new_item = []
             for subitem in item:
+                try:
+                    subitem = float(subitem)
+                except ValueError:
+                    pass
+                except TypeError:
+                    pass
+                except Exception as e:
+                    print(e)
                 new_item.append(str(subitem).replace('+', ''))
             new_lis.append(new_item)
         return new_lis

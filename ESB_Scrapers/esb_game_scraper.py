@@ -4,7 +4,7 @@
 # File Created: Tuesday, 16th June 2020 7:58:09 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Tuesday, 23rd June 2020 1:55:46 pm
+# Last Modified: Tuesday, 23rd June 2020 4:31:33 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -13,12 +13,10 @@
 # ==============================================================================
 
 import datetime
-import json
 import re
 import sys
 from os.path import abspath, dirname
 
-import os
 import pandas as pd
 
 
@@ -44,48 +42,9 @@ class ESB_Game:
         self.away_ml = None
 
 
-class ESB_Perform_Scrapes:
-    @property
-    def config(self):  # Property
-        with open("{}_esb.json".format(self.league.lower())) as f:
-            config = json.load(f)
-        return config
-
-    def run_all_updates(self):  # Run
-        bet_lists = self.config["Bets"]
-        for bet_list in bet_lists:
-            bet_name, link, category = bet_list
-            sp = get_sp1(link)
-
-            if self._bet_df_exists(bet_name):
-                self.update_bet_df(bet_name, category, sp)
-            else:
-                self.make_new_df(bet_name, category, sp)
-        print("DONE")
-
-    def update_bet_df(self, bet_name, category, sp):  # Run
-        full_path = ROOT_PATH + "/ESB_Data/{}/{}.csv".format(self.league, bet_name)
-        existing_df = pd.read_csv(full_path)
-
-        if category == "Games":
-            new_df = self._update_games_df(sp)
-        elif category == "Prop":
-            new_df = self._update_prop_df(sp)
-        elif category == "Bool_Prop":
-            new_df = self._update_bool_prop_df(sp)
-
-        new_df = self._update_games_df(existing_df, sp) if category == "Games" else self._update_prop_df(existing_df, sp)
-        new_df.to_csv(full_path)
-
-    def _bet_df_exists(self, bet_list):  # Specific Helper run_all_updates
-        bet_list_title, link, category = bet_list
-        df_name = bet_list_title + ".csv"
-        return True if df_name in os.listdir(ROOT_PATH + "/ESB_Data/{}/".format(self.league)) else False
-
-
 class ESB_Game_Scraper(ESB_Bool_Prop_Scraper):
 
-    def create_games_df(self):  # Specific Helper scrape_game_lines
+    def create_games_df(self):  # Specific Helper make_new_df
         cols = ["Title", "datetime", "Game_Time", "Home", "Away", "Over_ESB", "Over_ml_ESB",
                 "Under_ESB", "Under_ml_ESB", "Home_Line_ESB", "Home_Line_ml_ESB",
                 "Away_Line_ESB", "Away_Line_ml_ESB", "Home_ML_ESB", "Away_ML_ESB", "scraped_ts"]
@@ -203,7 +162,7 @@ class ESB_Game_Scraper(ESB_Bool_Prop_Scraper):
         away_ml = ml_dog if home_is_fav else ml_fav
         return over, under, home_spread, away_spread, home_ml, away_ml
 
-    def esb_game_from_box_date_pair(self, box_date_pair):  # Specific Helper scrape_game_lines
+    def esb_game_from_box_date_pair(self, box_date_pair):  # Specific Helper make_new_df
         box, date = box_date_pair
         esb_game = ESB_Game()
         esb_game.date = date
@@ -219,7 +178,7 @@ class ESB_Game_Scraper(ESB_Bool_Prop_Scraper):
         esb_game.away_ml = away_ml
         return esb_game
 
-    def esb_game_to_df(self, df, esb_game, title):  # Specific Helper scrape_game_lines
+    def esb_game_to_df(self, df, esb_game, title):  # Specific Helper make_new_df
         dt = datetime.datetime.strptime(esb_game.date, "%B %d, %Y")
         today = self._get_scrape_ts()
         new_row = [
@@ -244,36 +203,56 @@ class ESB_Game_Scraper(ESB_Bool_Prop_Scraper):
         df.loc[len(df)] = new_row
         return df
 
-    def scrape_game_lines(self, sp):  # Top Level make_new_df
+    def make_new_df(self, save):  # Top Level make_new_df
         df = self.create_games_df()
-        title = self.get_sp_title(sp)
-        box_date_pairs = self.get_date_event_boxes(sp)
+        title = self._get_sp_title()
+        box_date_pairs = self.get_date_event_boxes(self.sp)
         esb_games = [self.esb_game_from_box_date_pair(bdp) for bdp in box_date_pairs]
         for game in esb_games:
             df = self.esb_game_to_df(df, game, title)
+        df['datetime'] = pd.to_datetime(df['datetime']).apply(lambda x: x.date())
+        if save:
+            df.to_csv(self.df_path, index=False)
         return df
 
-    def get_teams(self, sp):  # Specific Helper scrape_prop
-        teams = sp.find_all('span', attrs={'class': 'team'})
-        teams = [item.get_text() for item in teams]
-        return teams
+    def combine_dfs(self, current_df, new_df):  # Top Level
+        newest_current = current_df.drop_duplicates(['Title', 'datetime', 'Home', 'Away'], keep="last")
 
-    def make_new_df(self, bet_name, category, sp):  # Run
-        if category == "Games":
-            df = self.scrape_game_lines(sp)
-        elif category == "Prop":
-            df = self.scrape_prop(sp)
-        elif category == "Bool_Prop":
-            df = self.scrape_bool_prop(sp)
+        items_cols = ["Title", "datetime", "Game_Time", "Home", "Away", "Over_ESB", "Over_ml_ESB",
+                      "Under_ESB", "Under_ml_ESB", "Home_Line_ESB", "Home_Line_ml_ESB", "Away_Line_ESB",
+                      "Away_Line_ml_ESB", "Home_ML_ESB", "Away_ML_ESB"]
+        current_items = [[row[col] for col in items_cols] for i, row in newest_current.iterrows()]
+        new_items = [[row[col] for col in items_cols] for i, row in new_df.iterrows()]
+        current_items = self._make_strings(current_items)
+        new_items = self._make_strings(new_items)
 
-        df.to_csv(ROOT_PATH + "/ESB_Data/{}/{}.csv".format(self.league, bet_name), index=False)
-        return df
+        add_indices = []
+        for i, item in enumerate(new_items):
+            if item not in current_items:
+                add_indices.append(i)
 
-    def _update_games_df(self):  # Top Level update_bet_df
-        pass
+        for i in add_indices:
+            current_df.loc[len(current_df)] = new_df.iloc[i, :]
+            print("Added new bet to {} {}".format(self.league, self.bet_name))
+            print(new_items[i][1], new_items[i][2], new_items[i][3])
+        return current_df
+
+    def update_df(self):  # Run
+        """
+        putting here for now to use in interactive window, it's already inherited so remove later
+        """
+        if not self.check_df_exists():
+            self.make_new_df(save=True)
+            print("New file created for {}".format(self.bet_name))
+        else:
+            current_df = pd.read_csv(self.df_path)
+            current_df['datetime'] = pd.to_datetime(current_df['datetime']).apply(lambda x: x.date())
+            new_df = self.make_new_df(save=False)
+            full_df = self.combine_dfs(current_df, new_df)
+            full_df.to_csv(self.df_path, index=False)
 
 
 if __name__ == "__main__":
-    x = ESB_Game_Scraper("NFL", "nfc_south", sp)
+    sp = get_sp1("https://www.elitesportsbook.com/sports/pro-football-lines-betting/week-1.sbk")
+    x = ESB_Game_Scraper("NFL", "week1", sp)
     self = x
-    sp = get_sp1("https://www.elitesportsbook.com/sports/pro-football-futures-betting/2020-2021-nfc-south.sbk")
