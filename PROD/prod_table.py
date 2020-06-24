@@ -4,7 +4,7 @@
 # File Created: Thursday, 18th June 2020 12:48:04 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Tuesday, 23rd June 2020 9:28:44 am
+# Last Modified: Wednesday, 24th June 2020 8:11:04 am
 # Modified By: Dillon Koch
 # -----
 #
@@ -393,8 +393,9 @@ if __name__ == "__main__":
     nba = Prod_Table("NBA")
     ncaaf = Prod_Table("NCAAF")
     ncaab = Prod_Table("NCAAB")
-    self = nfl
-    df = self.prod_table_from_scratch()
+    self = ncaab
+    # df = self.prod_table_from_scratch()
+
     # odds_df = self.load_odds_data()
     # odds_df = self.convert_odds_teams(odds_df)
     # odds_df = self.convert_odds_date(odds_df)
