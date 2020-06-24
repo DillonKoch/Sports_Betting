@@ -19,6 +19,11 @@
 	- NFL_ESB.csv for each week's games (including updated lines) -> merge to NFL_PROD.csv
 	- Madden database
 
+	(DATA PLAN MOVING FORWARD)
+	- after getting team stats scraped, combine all individual team df's into one big team df
+	- so there are much fewer files
+	- can easily append new ESPN_ID's to the one file and scrape team stats on that
+
 3. Modeling
 	a. use existing data to build model
 	b. record prediction for each bet in PROD table with % confidence and model name

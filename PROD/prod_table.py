@@ -4,7 +4,7 @@
 # File Created: Thursday, 18th June 2020 12:48:04 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Wednesday, 24th June 2020 8:11:04 am
+# Last Modified: Wednesday, 24th June 2020 1:52:03 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -32,6 +32,7 @@ class Prod_Table:
     def __init__(self, league):
         self.league = league
         self.prod_table = ROOT_PATH + "/PROD/PROD_{}.csv".format(self.league)
+        self.esb_table = ROOT_PATH + "/ESB_Data/{}/Game_Lines.csv".format(self.league)
         self.config_file = ROOT_PATH + "/PROD/{}_prod.json".format(self.league.lower())
         self.teams = os.listdir(ROOT_PATH + "/ESPN_Data/{}/".format(self.league))
 
@@ -288,39 +289,17 @@ class Prod_Table:
         merge_cols = ["datetime", "Home", "Away"]
         df = espn_df.merge(odds_df, on=merge_cols)
 
-        final_cols = ['ESPN_ID',
-                      'Season_x',
-                      'Date',
-                      'datetime',
-                      'Home',
-                      'Away',
-                      'Home_Record',
-                      'Away_Record',
-                      'Home_Score_x',
-                      'Away_Score_x',
-                      'Line',
-                      'Over_Under',
-                      'Final_Status',
-                      'Network',
-                      'League',
-                      'Home_ML',
-                      'Away_ML',
-                      'Open_OU',
-                      'Close_OU',
-                      '2H_OU',
-                      'Open_Home_Line',
-                      'Open_Away_Line',
-                      'Close_Home_Line',
-                      'Close_Away_Line',
-                      '2H_Home_Line',
-                      '2H_Away_Line']
-        if self.league == "NFL":
-            final_cols.append("Week")
+        final_cols = self.config["ESPN_cols"]
+        final_cols = [item if item not in ["Season", "Home_Score", "Away_Score"]
+                      else item + "_x" for item in final_cols]
+        final_cols = [item for item in final_cols if item not in
+                      ["HQ1", "HQ2", "HQ3", "HQ4", "AQ1", "AQ2", "AQ3", "AQ4", "H1H", "H2H", "A1H", "A2H", "HOT", "AOT"]]
 
         if self.league != "NCAAB":
             final_cols += ['HQ1_x', 'HQ2_x', 'HQ3_x', 'HQ4_x', "HOT", "AQ1_x", "AQ2_x", "AQ3_x", "AQ4_x", "AOT"]
         else:
             final_cols += ["H1H_x", "H2H_x", "HOT", "A1H_x", "A2H_x", "AOT"]
+        final_cols.append('datetime')
         return df.loc[:, final_cols]
 
     def _find_odds_match(self, espn_row, odds_df):  # Specific Helper join_odds_match
@@ -340,37 +319,17 @@ class Prod_Table:
         df = self.merge_espn_odds(espn_df, odds_df)
         return df
 
-    def _add_esb_cols(self, df):  # Specific Helper add_esb_data
-        esb_cols = self.config["ESB_cols"]
-        for col in esb_cols:
-            df[col] = None
-        return df
-
     def add_esb_data(self, df):  # Top Level
-        df = self._add_esb_cols(df)
-        # do more here
-        return df
-
-    def add_espn_stats_cols(self, df):  # Top Level
-        stats_cols = self.config["ESPN_stats_cols"]
-        for col in stats_cols:
-            df["home_" + col] = None
-            df["away_" + col] = None
+        esb_df = pd.read_csv(self.esb_table)
+        esb_df['datetime'] = pd.to_datetime(esb_df['datetime']).apply(lambda x: x.date())
+        df = df.merge(esb_df, on=["datetime", "Home", "Away"], how="left")
         return df
 
     def prod_table_from_scratch(self):  # Run
         df = self.load_espn_data()
         df = self.add_odds_data(df)
         df = self.add_esb_data(df)
-        # df = self.add_espn_stats_cols(df)
         return df
-
-    def update_espn_stats(self, prod_df):  # Top Level
-        pass
-
-    def update_prod_table(self):  # Run
-        df = self.load_prod_df()
-        self.update_espn_stats(df)
 
     def espn_odds_non_matches(self):  # QA Testing
         """
@@ -393,20 +352,5 @@ if __name__ == "__main__":
     nba = Prod_Table("NBA")
     ncaaf = Prod_Table("NCAAF")
     ncaab = Prod_Table("NCAAB")
-    self = ncaab
-    # df = self.prod_table_from_scratch()
-
-    # odds_df = self.load_odds_data()
-    # odds_df = self.convert_odds_teams(odds_df)
-    # odds_df = self.convert_odds_date(odds_df)
-    # game_pairs = self.game_pairs_from_odds(odds_df)
-    # odds_df = pd.DataFrame([self.odds_pair_to_dict(pair) for pair in tqdm(game_pairs)])
-    # espn_df = self.load_espn_data()
-    # df = self.merge_espn_odds(espn_df, odds_df)
-    # df.to_csv("temp.csv")
-
-    # odds_df.to_csv("temp.csv")
-    # df = x.run()
-    # espn_df = x.load_espn_data()
-    # espn_df = x.add_espn_stats_cols(espn_df)
-    # espn_df.to_csv("temp_ncaab.csv")
+    self = nba
+    df = self.prod_table_from_scratch()

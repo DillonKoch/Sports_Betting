@@ -1,0 +1,33 @@
+Files:
+	- file of my bets (need structure for this one)
+	- file to make a bet (using tkinter)
+	- file to update results of my bets, analyze
+
+
+process to record a bet:
+1. I fire up the tkinter program from command line / jupyter notebook
+2. It asks me for bettor, league
+3. It shows me games coming up in that league
+4. I select a game
+5. It shows me the available bets for that game (using its ESPN_ID)
+6. I select a bet, enter the bet amount (it computes to win amount)
+7. the jupyter notebook shows me what it looks like
+	a. including pulling in data from prod table
+8. I verify it looks good and save the bet to my personal bets csv
+9. program updates results from updated espn data
+
+data needed from tkinter for bet df:
+- bettor
+- league
+- it shows bets in the league, I pick one
+
+- parlay info, #
+- bet type (ml, spread, over_under)
+- amount bet
+- amount to win
+
+
+data I can get elsewhere and bring in:
+- bet ID (create)
+- dt bet was made (compute)
+- all info from ESPN_ID can come from prod table
