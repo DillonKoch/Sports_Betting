@@ -4,7 +4,7 @@
 # File Created: Tuesday, 16th June 2020 1:42:34 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Tuesday, 23rd June 2020 2:14:07 pm
+# Last Modified: Thursday, 25th June 2020 8:19:11 am
 # Modified By: Dillon Koch
 # -----
 #
@@ -238,6 +238,8 @@ class ESPN_Stat_Scraper:
                     df.loc[i, "away_" + col] = items[0]
                     df.loc[i, "home_" + col] = items[1]
             time.sleep(5)
+
+        df = df.loc[:, [item for item in list(df.columns) if "Unnamed" not in item]]
         return df
 
     def update_league_dfs(self):  # Run
@@ -245,7 +247,7 @@ class ESPN_Stat_Scraper:
         for team in teams:
 
             df_paths = os.listdir(ROOT_PATH + "/ESPN_Data/{}/{}/".format(self.league, team))
-            df_paths = [path for path in df_paths if ".csv" in path]
+            df_paths = [path for path in df_paths if ((".csv" in path) and (int(path[-8:-4]) > 2007))]
             for path in df_paths:
                 full_path = ROOT_PATH + "/ESPN_Data/{}/{}/".format(self.league, team) + path
                 df = pd.read_csv(full_path)
@@ -261,7 +263,7 @@ class ESPN_Stat_Scraper:
 
 
 if __name__ == "__main__":
-    x = ESPN_Stat_Scraper("NFL")
+    x = ESPN_Stat_Scraper("NBA")
     self = x
     x.update_league_dfs()
     # espn_id = '401170371'
