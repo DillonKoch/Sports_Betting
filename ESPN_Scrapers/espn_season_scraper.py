@@ -4,7 +4,7 @@
 # File Created: Saturday, 23rd May 2020 11:04:56 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Wednesday, 24th June 2020 5:36:45 pm
+# Last Modified: Thursday, 25th June 2020 8:01:50 am
 # Modified By: Dillon Koch
 # -----
 #
@@ -230,4 +230,4 @@ if __name__ == "__main__":
     nba = ESPN_Season_Scraper("NBA")
     ncaaf = ESPN_Season_Scraper("NCAAF")
     ncaab = ESPN_Season_Scraper("NCAAB")
-    # nfl.scrape_all_leauge_history()
+    nfl.scrape_all_leauge_history()
