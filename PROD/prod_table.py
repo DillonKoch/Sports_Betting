@@ -4,7 +4,7 @@
 # File Created: Thursday, 18th June 2020 12:48:04 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Wednesday, 24th June 2020 4:43:04 pm
+# Last Modified: Thursday, 25th June 2020 11:47:15 am
 # Modified By: Dillon Koch
 # -----
 #
@@ -76,13 +76,19 @@ class Prod_Table:
         df = pd.read_csv(self.prod_table)
         return df
 
-    def _get_df_paths(self):  # Specific Helper load_espn_data Tested
-        df_paths = []
-        for team in self.teams:
-            team_paths = [item for item in os.listdir(ROOT_PATH + "/ESPN_Data/{}/{}/".format(self.league, team))]
-            team_paths = [item for item in team_paths if (('.csv' in item) and (int(item[-8:-4]) > 2007))]
-            team_paths = [ROOT_PATH + "/ESPN_Data/{}/{}/{}".format(self.league, team, item) for item in team_paths]
-            df_paths += team_paths
+    # def _get_df_paths(self):  # Specific Helper load_espn_data Tested
+    #     df_paths = []
+    #     for team in self.teams:
+    #         team_paths = [item for item in os.listdir(ROOT_PATH + "/ESPN_Data/{}/{}/".format(self.league, team))]
+    #         team_paths = [item for item in team_paths if (('.csv' in item) and (int(item[-8:-4]) > 2007))]
+    #         team_paths = [ROOT_PATH + "/ESPN_Data/{}/{}/{}".format(self.league, team, item) for item in team_paths]
+    #         df_paths += team_paths
+    #     return df_paths
+
+    def _get_df_paths(self):  # Specific Helper load_espn_data
+        df_paths = os.listdir(ROOT_PATH + "/ESPN_Data/{}/".format(self.league))
+        df_paths = [item for item in df_paths if ('.csv' in item)]
+        df_paths = [ROOT_PATH + "/ESPN_Data/{}/{}".format(self.league, path) for path in df_paths]
         return df_paths
 
     def _load_all_team_dfs(self, df_paths):  # Specific Helper load_espn_data Tested
@@ -90,7 +96,7 @@ class Prod_Table:
         for path in tqdm(df_paths):
             current_df = pd.read_csv(path)
             current_df = current_df[current_df.Home.notnull()]
-            current_df = current_df[current_df.Final_Status.notnull()]
+            # current_df = current_df[current_df.Final_Status.notnull()]
             if len(current_df) > 0:
                 all_team_dfs.append(current_df)
         return all_team_dfs
@@ -102,11 +108,15 @@ class Prod_Table:
         df['datetime'] = pd.to_datetime(df['datetime']).apply(lambda x: x.date())
         return df
 
-    def _remove_preseason(self, df):  # Specific Helper load_espn_data  Tested
+    def _remove_preseason(self, df):  # Specific Helper load_espn_data
         if self.league == "NFL":
-            year = str(int(df.Season[0]))
-            start_date = self.season_start_dict[year]
-            df = df.loc[df.datetime >= start_date]
+            def add_preseason(row):
+                year = str(int(row['Season']))
+                start_date = self.season_start_dict[year]
+                return row['datetime'] < start_date
+
+            df['is_preseason'] = df.apply(lambda row: add_preseason(row), axis=1)
+            df = df.loc[df.is_preseason == False, :]
         return df
 
     def _clean_concat_team_dfs(self, all_team_dfs):  # Specific Helper load_espn_data  Tested

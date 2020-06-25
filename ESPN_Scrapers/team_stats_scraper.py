@@ -4,7 +4,7 @@
 # File Created: Tuesday, 16th June 2020 1:42:34 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Thursday, 25th June 2020 8:19:11 am
+# Last Modified: Thursday, 25th June 2020 9:46:57 am
 # Modified By: Dillon Koch
 # -----
 #
@@ -249,7 +249,9 @@ class ESPN_Stat_Scraper:
             df_paths = os.listdir(ROOT_PATH + "/ESPN_Data/{}/{}/".format(self.league, team))
             df_paths = [path for path in df_paths if ((".csv" in path) and (int(path[-8:-4]) > 2007))]
             for path in df_paths:
+                print(path)
                 full_path = ROOT_PATH + "/ESPN_Data/{}/{}/".format(self.league, team) + path
+                print(full_path)
                 df = pd.read_csv(full_path)
                 if not self._has_team_stats(df):
                     print(team, path[-8:-4])

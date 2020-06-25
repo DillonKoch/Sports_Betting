@@ -4,7 +4,7 @@
 # File Created: Saturday, 23rd May 2020 11:04:56 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Thursday, 25th June 2020 8:01:50 am
+# Last Modified: Thursday, 25th June 2020 1:56:58 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -12,6 +12,7 @@
 # Scraping seasons from ESPN
 # ==============================================================================
 
+import datetime
 import json
 import os
 import re
@@ -20,16 +21,14 @@ import time
 from os.path import abspath, dirname
 
 import pandas as pd
-from func_timeout import func_set_timeout
 from tqdm import tqdm
-
 
 ROOT_PATH = dirname(dirname(abspath(__file__)))
 if ROOT_PATH not in sys.path:
     sys.path.append(ROOT_PATH)
 
 from ESPN_Scrapers.espn_game_scraper import ESPN_Game_Scraper
-from Utility.Utility import get_sp1, null_if_error
+from Utility.Utility import get_sp1
 
 
 class ESPN_Season_Scraper:
@@ -146,9 +145,46 @@ class ESPN_Season_Scraper:
             time.sleep(5)
         return df
 
-    def scrape_upcoming_games(self, team_abbrev, year, season_type=2):  # Run  FIXME
+    def scrape_upcoming_games(self, team_abbrev, year, season_type=2):  # Top Level
         df = self.scrape_season(team_abbrev, year, season_type)
-        # make cols None if the game hasn't happened yet...
+
+        null_cols = ["Final_Status", "HQ1", "HQ2", "HQ3", "HQ4", "HOT", "AQ1", "AQ2", "AQ3",
+                     "AQ4", "AOT", "H1H", "H2H", "A1H", "A2H"]
+        for i, row in df.iterrows():
+            if "Final" not in row['Final_Status']:
+                for col in null_cols:
+                    if col in list(df.columns):
+                        row[col] = None
+        # TODO get game info in Game object, if "Final" in final status, update
+        return df
+
+    def scrape_league_upcoming_season(self, year=None, season_type=2):  # Run
+        team_combos = self.config["Teams"]
+        if year is None:
+            year = datetime.date.today().year
+            year = year + 1 if self.league in ["NBA", "NCAAB"] else year
+
+        for team in team_combos:
+            print("Scraping new games for {}".format(team[0]))
+            team_name, abbrev = team
+            current_df_path = ROOT_PATH + "/ESPN_Data/{}/{}.csv".format(self.league, team_name.replace(' ', '_'))
+            current_df = pd.read_csv(current_df_path)
+
+            new_df = self.scrape_upcoming_games(abbrev, year, season_type)
+            full_df = pd.concat([current_df, new_df])
+            full_df.drop_duplicates(subset=['Date', 'Home', 'Away'], keep="first")
+            full_df = self.sort_df_by_dt(full_df)
+            full_df.to_csv(current_df_path, index=False)
+
+    def sort_df_by_dt(self, df, keep_dt=False):
+        def add_dt(row):
+            return datetime.datetime.strptime(row['Date'], "%B %d, %Y")
+        df['datetime'] = df.apply(lambda row: add_dt(row), axis=1)
+        df['datetime'] = pd.to_datetime(df['datetime']).apply(lambda x: x.date())
+        df.sort_values(by='datetime', inplace=True)
+        if not keep_dt:
+            df = df.loc[:, [item for item in list(df.columns) if item != "datetime"]]
+        return df
 
     def _find_unscraped_playoff_years(self, team):  # Specific Helper scrape_nba_playoffs
         team_csvs = os.listdir(ROOT_PATH + "/ESPN_Data/NBA/{}/".format(team))
@@ -230,4 +266,4 @@ if __name__ == "__main__":
     nba = ESPN_Season_Scraper("NBA")
     ncaaf = ESPN_Season_Scraper("NCAAF")
     ncaab = ESPN_Season_Scraper("NCAAB")
-    nfl.scrape_all_leauge_history()
+    # nfl.scrape_all_leauge_history()
