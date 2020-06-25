@@ -4,7 +4,7 @@
 # File Created: Saturday, 23rd May 2020 11:04:56 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Saturday, 20th June 2020 5:29:31 pm
+# Last Modified: Wednesday, 24th June 2020 5:36:45 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -146,6 +146,10 @@ class ESPN_Season_Scraper:
             time.sleep(5)
         return df
 
+    def scrape_upcoming_games(self, team_abbrev, year, season_type=2):  # Run  FIXME
+        df = self.scrape_season(team_abbrev, year, season_type)
+        # make cols None if the game hasn't happened yet...
+
     def _find_unscraped_playoff_years(self, team):  # Specific Helper scrape_nba_playoffs
         team_csvs = os.listdir(ROOT_PATH + "/ESPN_Data/NBA/{}/".format(team))
         playoff_csvs = [item for item in team_csvs if '.csv' in item and "playoff" in item]
@@ -178,7 +182,7 @@ class ESPN_Season_Scraper:
 
     def find_years_unscraped(self, team_name):  # Top Level
         path = self.root_path + "ESPN_Data/{}/{}/".format(self.league, team_name)
-        beginning_year = 1999 if self.league == "NCAAF" else 2002 if self.league == 'NCAAB' else 1993
+        beginning_year = 1999 if self.league == "NCAAF" else 2002 if self.league == 'NCAAB' else 2006
         all_years = [str(item) for item in list(range(beginning_year, 2021, 1))]
         years_found = []
         year_comp = re.compile(r"(\d{4}).csv")
@@ -222,17 +226,8 @@ class ESPN_Season_Scraper:
 
 
 if __name__ == "__main__":
-
     nfl = ESPN_Season_Scraper("NFL")
     nba = ESPN_Season_Scraper("NBA")
     ncaaf = ESPN_Season_Scraper("NCAAF")
     ncaab = ESPN_Season_Scraper("NCAAB")
-
-    # team_abbrev = 2294
-    # name = "Iowa Hawkeyes"
-    # year = 2019
-    # season_type = 2
-    # name = "Atlanta Hawks"
-    x = ESPN_Season_Scraper("NCAAB")
-    # x.scrape_nba_playoffs()
-    # x.scrape_all_leauge_history()
+    # nfl.scrape_all_leauge_history()

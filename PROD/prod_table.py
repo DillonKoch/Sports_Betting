@@ -4,7 +4,7 @@
 # File Created: Thursday, 18th June 2020 12:48:04 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Wednesday, 24th June 2020 1:52:03 pm
+# Last Modified: Wednesday, 24th June 2020 4:43:04 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -352,5 +352,5 @@ if __name__ == "__main__":
     nba = Prod_Table("NBA")
     ncaaf = Prod_Table("NCAAF")
     ncaab = Prod_Table("NCAAB")
-    self = nba
+    self = nfl
     df = self.prod_table_from_scratch()
