@@ -1,10 +1,10 @@
 # ==============================================================================
-# File: merge_league.py
+# File: merge_team.py
 # Project: ESPN_Scrapers
 # File Created: Wednesday, 24th June 2020 4:50:25 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Wednesday, 24th June 2020 5:32:39 pm
+# Last Modified: Thursday, 25th June 2020 7:54:58 am
 # Modified By: Dillon Koch
 # -----
 #
@@ -25,7 +25,7 @@ if ROOT_PATH not in sys.path:
     sys.path.append(ROOT_PATH)
 
 
-class Merge_League:
+class Merge_Team:
     def __init__(self, league):
         self.league = league
         self.teams = os.listdir(ROOT_PATH + "/ESPN_Data/{}/".format(league))
@@ -50,5 +50,5 @@ class Merge_League:
 
 
 if __name__ == "__main__":
-    x = Merge_League("NCAAF")
+    x = Merge_Team("NCAAF")
     # x.run_all_teams()
