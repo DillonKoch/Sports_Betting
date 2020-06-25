@@ -4,7 +4,7 @@
 # File Created: Saturday, 23rd May 2020 11:04:56 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Thursday, 25th June 2020 1:56:58 pm
+# Last Modified: Thursday, 25th June 2020 2:05:42 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -170,6 +170,14 @@ class ESPN_Season_Scraper:
             current_df_path = ROOT_PATH + "/ESPN_Data/{}/{}.csv".format(self.league, team_name.replace(' ', '_'))
             current_df = pd.read_csv(current_df_path)
 
+            final_statuses = list(current_df.Final_Status)
+            skip_team = False
+            for item in final_statuses:
+                if "Final" not in str(item):
+                    skip_team = True
+            if skip_team:
+                continue
+
             new_df = self.scrape_upcoming_games(abbrev, year, season_type)
             full_df = pd.concat([current_df, new_df])
             full_df.drop_duplicates(subset=['Date', 'Home', 'Away'], keep="first")
@@ -267,3 +275,4 @@ if __name__ == "__main__":
     ncaaf = ESPN_Season_Scraper("NCAAF")
     ncaab = ESPN_Season_Scraper("NCAAB")
     # nfl.scrape_all_leauge_history()
+    nfl.scrape_league_upcoming_season()
