@@ -4,7 +4,7 @@
 # File Created: Thursday, 18th June 2020 12:48:04 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Thursday, 25th June 2020 11:47:15 am
+# Last Modified: Thursday, 25th June 2020 4:35:52 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -45,7 +45,7 @@ class Prod_Table:
     @property
     def season_start_dict(self):  # Property
         config_dict = self.config['season_start_dates']
-        years = [str(item) for item in range(2007, 2020)]
+        years = [str(item) for item in range(2007, 2021)]
         dic = {year: datetime.date(config_dict[year][0], config_dict[year][1], config_dict[year][2]) for year in years}
         return dic
 
@@ -297,7 +297,7 @@ class Prod_Table:
 
     def merge_espn_odds(self, espn_df, odds_df):  # Top Level
         merge_cols = ["datetime", "Home", "Away"]
-        df = espn_df.merge(odds_df, on=merge_cols)
+        df = espn_df.merge(odds_df, on=merge_cols, how="left")
 
         final_cols = self.config["ESPN_cols"]
         final_cols = [item if item not in ["Season", "Home_Score", "Away_Score"]
@@ -309,6 +309,11 @@ class Prod_Table:
             final_cols += ['HQ1_x', 'HQ2_x', 'HQ3_x', 'HQ4_x', "HOT", "AQ1_x", "AQ2_x", "AQ3_x", "AQ4_x", "AOT"]
         else:
             final_cols += ["H1H_x", "H2H_x", "HOT", "A1H_x", "A2H_x", "AOT"]
+
+        final_cols += ["Home_ML", "Away_ML", "Open_OU", "Close_OU", "2H_OU", "Open_Home_Line",
+                       "Open_Away_Line", "Close_Home_Line", "Close_Away_Line", "2H_Home_Line",
+                       "2H_Away_Line"]
+
         final_cols.append('datetime')
         return df.loc[:, final_cols]
 
