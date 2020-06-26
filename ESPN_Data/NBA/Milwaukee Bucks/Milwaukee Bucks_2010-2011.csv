@@ -1,83 +1,83 @@
-ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-301029016.0,2010,"October 29, 2010",Minnesota Timberwolves,Milwaukee Bucks,"1-1, 1-1 Home","0-2, 0-2 Away",96.0,85.0,,,Final,,27,28,19,22,,28,18,18,21,,NBA
-301102015.0,2010,"November 02, 2010",Milwaukee Bucks,Portland Trail Blazers,"1-3, 1-1 Home","4-1, 3-1 Away",76.0,90.0,,,Final,,27,18,17,14,,21,26,26,17,,NBA
-301105011.0,2010,"November 05, 2010",Indiana Pacers,Milwaukee Bucks,"2-3, 1-1 Home","2-4, 1-3 Away",90.0,94.0,,,Final,,20,40,16,14,,18,34,18,24,,NBA
-301109015.0,2010,"November 09, 2010",Milwaukee Bucks,New York Knicks,"3-5, 2-2 Home","3-4, 2-2 Away",107.0,80.0,,,Final,,41,23,26,17,,19,24,24,13,,NBA
-301113015.0,2010,"November 13, 2010",Milwaukee Bucks,Golden State Warriors,"5-5, 3-2 Home","6-4, 2-4 Away",79.0,72.0,,,Final,NBATV,24,19,23,13,,16,14,21,21,,NBA
-301119020.0,2010,"November 19, 2010",Philadelphia 76ers,Milwaukee Bucks,"3-10, 2-4 Home","5-7, 2-4 Away",90.0,79.0,,,Final,CSN,20,29,23,18,,25,18,16,20,,NBA
-301124005.0,2010,"November 24, 2010",Cleveland Cavaliers,Milwaukee Bucks,"6-8, 3-4 Home","5-9, 2-5 Away",83.0,81.0,,,Final,,19,15,31,18,,22,22,24,13,,NBA
-301127015.0,2010,"November 27, 2010",Milwaukee Bucks,Charlotte Bobcats,"6-10, 4-4 Home","6-11, 3-6 Away",104.0,101.0,,,Final,,29,31,22,22,,16,37,19,29,,NBA
-301201007.0,2010,"December 01, 2010",Denver Nuggets,Milwaukee Bucks,"11-6, 8-1 Home","6-12, 2-8 Away",105.0,94.0,,,Final,TNT,19,26,31,29,,22,28,21,23,,NBA
-301206015.0,2010,"December 06, 2010",Milwaukee Bucks,Miami Heat,"7-13, 5-5 Home","14-8, 4-5 Away",78.0,88.0,,,Final,,21,14,24,19,,25,21,23,19,,NBA
-301210015.0,2010,"December 10, 2010",Milwaukee Bucks,Houston Rockets,"9-13, 7-5 Home","8-14, 3-10 Away",97.0,91.0,,,Final,,27,20,26,24,,24,19,28,20,,NBA
-301215024.0,2010,"December 15, 2010",San Antonio Spurs,Milwaukee Bucks,"21-3, 13-2 Home","10-14, 3-9 Away",92.0,90.0,,,Final,,25,26,20,21,,20,15,28,27,,NBA
-301220022.0,2010,"December 20, 2010",Portland Trail Blazers,Milwaukee Bucks,"15-14, 10-3 Home","10-16, 3-10 Away",106.0,80.0,,,Final,,25,34,19,28,,18,17,25,20,,NBA
-301223023.0,2010,"December 23, 2010",Sacramento Kings,Milwaukee Bucks,"5-22, 3-13 Home","12-16, 5-10 Away",79.0,84.0,,,Final,,25,14,25,15,,24,19,19,22,,NBA
-301228004.0,2010,"December 28, 2010",Chicago Bulls,Milwaukee Bucks,"20-10, 12-3 Home","12-18, 5-11 Away",90.0,77.0,,,Final,,27,17,23,23,,15,30,17,15,,NBA
-310104014.0,2010,"January 04, 2011",Miami Heat,Milwaukee Bucks,"28-9, 15-4 Home","13-19, 5-12 Away",101.0,89.0,,,Final,,26,21,26,28,,20,31,19,19,,NBA
-310107015.0,2010,"January 07, 2011",Milwaukee Bucks,Miami Heat,"13-21, 8-8 Home","29-9, 14-5 Away",95.0,101.0,,,Final/OT,,18,30,24,19,4.0,30,25,20,16,10.0,NBA
-,2010,"January 11, 2011",,,,,,,,,,,N,U,L,L,,N,U,L,L,,NBA
-310114020.0,2010,"January 14, 2011",Philadelphia 76ers,Milwaukee Bucks,"16-23, 11-7 Home","14-23, 6-14 Away",95.0,94.0,,,Final,CSN,28,27,22,18,,23,26,23,22,,NBA
-310119015.0,2010,"January 19, 2011",Milwaukee Bucks,Washington Wizards,"15-24, 9-9 Home","12-28, 0-20 Away",100.0,87.0,,,Final,,19,28,28,25,,27,22,17,21,,NBA
-310122015.0,2010,"January 22, 2011",Milwaukee Bucks,Memphis Grizzlies,"16-25, 9-10 Home","21-23, 8-16 Away",81.0,94.0,,,Final,,19,21,19,22,,21,22,29,22,,NBA
-310126015.0,2010,"January 26, 2011",Milwaukee Bucks,Atlanta Hawks,"17-26, 10-10 Home","29-17, 15-10 Away",98.0,90.0,,,Final,,22,22,20,34,,23,24,28,15,,NBA
-310129015.0,2010,"January 29, 2011",Milwaukee Bucks,New Jersey Nets,"19-26, 11-10 Home","14-34, 3-23 Away",91.0,81.0,,,Final,,22,23,23,23,,25,12,24,20,,NBA
-310202021.0,2010,"February 02, 2011",Phoenix Suns,Milwaukee Bucks,"23-24, 14-10 Home","19-28, 8-18 Away",92.0,77.0,,,Final,,25,27,19,21,,17,14,22,24,,NBA
-310205015.0,2010,"February 05, 2011",Milwaukee Bucks,Detroit Pistons,"19-30, 11-11 Home","19-32, 6-21 Away",78.0,89.0,,,Final,,22,25,13,18,,26,26,14,23,,NBA
-310209027.0,2010,"February 09, 2011",Washington Wizards,Milwaukee Bucks,"14-37, 14-12 Home","20-31, 8-20 Away",100.0,85.0,,,Final,,22,25,30,23,,19,18,23,25,,NBA
-310212015.0,2010,"February 12, 2011",Milwaukee Bucks,Indiana Pacers,"20-33, 12-12 Home","24-28, 9-17 Away",97.0,103.0,,,Final,,29,20,23,25,,32,19,24,28,,NBA
-310216015.0,2010,"February 16, 2011",Milwaukee Bucks,Denver Nuggets,"21-34, 13-13 Home","32-25, 10-18 Away",87.0,94.0,,,Final,ESPN,16,27,28,16,,27,19,25,23,,NBA
-310223018.0,2010,"February 23, 2011",New York Knicks,Milwaukee Bucks,"29-26, 16-12 Home","22-35, 8-22 Away",114.0,108.0,,,Final,,33,26,27,28,,24,33,22,29,,NBA
-310301015.0,2010,"March 01, 2011",Milwaukee Bucks,Detroit Pistons,"23-36, 15-14 Home","22-40, 7-24 Away",92.0,90.0,,,Final,,28,23,21,20,,22,28,25,15,,NBA
-310306015.0,2010,"March 06, 2011",Milwaukee Bucks,Boston Celtics,"23-38, 15-16 Home","46-15, 19-10 Away",83.0,89.0,,,Final,ESPN,26,23,16,18,,27,16,26,20,,NBA
-310309015.0,2010,"March 09, 2011",Milwaukee Bucks,Cleveland Cavaliers,"25-38, 16-16 Home","12-52, 4-28 Away",110.0,90.0,,,Final,,23,39,26,22,,27,22,18,23,,NBA
-310313002.0,2010,"March 13, 2011",Boston Celtics,Milwaukee Bucks,"47-17, 28-6 Home","26-39, 9-23 Away",87.0,56.0,,,Final,NBATV,20,19,21,27,,9,13,16,18,,NBA
-310316015.0,2010,"March 16, 2011",Milwaukee Bucks,Orlando Magic,"26-41, 17-17 Home","43-26, 19-15 Away",89.0,93.0,,,Final/OT,,14,23,27,15,10.0,23,23,15,18,14.0,NBA
-310320015.0,2010,"March 20, 2011",Milwaukee Bucks,New York Knicks,"28-41, 19-17 Home","35-34, 16-20 Away",100.0,95.0,,,Final,,32,15,28,25,,9,32,31,23,,NBA
-310325018.0,2010,"March 25, 2011",New York Knicks,Milwaukee Bucks,"35-37, 19-17 Home","29-42, 10-24 Away",96.0,102.0,,,Final,,24,27,26,19,,35,23,24,20,,NBA
-310328030.0,2010,"March 28, 2011",Charlotte Bobcats,Milwaukee Bucks,"31-42, 19-17 Home","29-44, 10-25 Away",87.0,86.0,,,Final,,27,18,20,22,,26,20,26,14,,NBA
-310401011.0,2010,"April 01, 2011",Indiana Pacers,Milwaukee Bucks,"35-42, 22-16 Home","30-45, 11-26 Away",89.0,88.0,,,Final,,14,32,23,20,,22,17,21,28,,NBA
-310405019.0,2010,"April 05, 2011",Orlando Magic,Milwaukee Bucks,"49-29, 28-11 Home","31-46, 11-27 Away",78.0,72.0,,,Final,,26,16,15,21,,14,19,22,17,,NBA
-310408008.0,2010,"April 08, 2011",Detroit Pistons,Milwaukee Bucks,"28-51, 21-19 Home","32-47, 12-28 Away",110.0,100.0,,,Final,,26,29,29,26,,21,30,23,26,,NBA
-310411015.0,2010,"April 11, 2011",Milwaukee Bucks,Toronto Raptors,"34-47, 22-19 Home","22-59, 6-35 Away",93.0,86.0,,,Final,TSNT,25,21,23,24,,33,18,20,15,,NBA
-301027003.0,2010,"October 27, 2010",New Orleans Hornets,Milwaukee Bucks,"1-0, 1-0 Home","0-1, 0-1 Away",95.0,91.0,,,Final,,29,18,31,17,,30,17,25,19,,NBA
-301030015.0,2010,"October 30, 2010",Milwaukee Bucks,Charlotte Bobcats,"1-2, 1-0 Home","0-3, 0-2 Away",98.0,88.0,,,Final,,27,21,25,25,,18,22,22,26,,NBA
-301103002.0,2010,"November 03, 2010",Boston Celtics,Milwaukee Bucks,"4-1, 3-0 Home","1-4, 0-3 Away",105.0,102.0,,,Final/OT,ESPN,25,22,15,29,14.0,16,31,16,28,11.0,NBA
-301106015.0,2010,"November 06, 2010",Milwaukee Bucks,New Orleans Hornets,"2-5, 1-2 Home","6-0, 3-0 Away",81.0,87.0,,,Final,,18,17,19,27,,23,18,24,22,,NBA
-301110001.0,2010,"November 10, 2010",Atlanta Hawks,Milwaukee Bucks,"6-3, 2-2 Home","4-5, 2-3 Away",91.0,108.0,,,Final,,26,14,19,32,,21,33,34,20,,NBA
-301116015.0,2010,"November 16, 2010",Milwaukee Bucks,Los Angeles Lakers,"5-6, 3-3 Home","9-2, 3-1 Away",107.0,118.0,,,Final,,29,30,22,26,,32,25,33,28,,NBA
-301120015.0,2010,"November 20, 2010",Milwaukee Bucks,Oklahoma City Thunder,"5-8, 3-4 Home","9-4, 5-1 Away",81.0,82.0,,,Final,,19,18,19,25,,26,21,15,20,,NBA
-301126008.0,2010,"November 26, 2010",Detroit Pistons,Milwaukee Bucks,"6-10, 4-3 Home","5-10, 2-6 Away",103.0,89.0,,,Final,,29,26,20,28,,18,25,21,25,,NBA
-301129026.0,2010,"November 29, 2010",Utah Jazz,Milwaukee Bucks,"14-5, 7-3 Home","6-11, 2-7 Away",109.0,88.0,,,Final,,30,30,20,29,,26,26,21,15,,NBA
-301204015.0,2010,"December 04, 2010",Milwaukee Bucks,Orlando Magic,"7-12, 5-4 Home","15-5, 6-3 Away",96.0,85.0,,,Final,NBATV,24,25,20,27,,16,26,20,23,,NBA
-301208015.0,2010,"December 08, 2010",Milwaukee Bucks,Indiana Pacers,"8-13, 6-5 Home","10-10, 5-5 Away",97.0,95.0,,,Final,,33,23,22,19,,27,21,31,16,,NBA
-301213006.0,2010,"December 13, 2010",Dallas Mavericks,Milwaukee Bucks,"19-5, 11-4 Home","10-13, 3-8 Away",99.0,103.0,,,Final,,25,27,22,25,,15,28,32,28,,NBA
-301218015.0,2010,"December 18, 2010",Milwaukee Bucks,Utah Jazz,"10-15, 7-6 Home","19-9, 8-4 Away",86.0,95.0,,,Final,,25,21,22,18,,19,24,28,24,,NBA
-301221013.0,2010,"December 21, 2010",Los Angeles Lakers,Milwaukee Bucks,"21-8, 10-3 Home","11-16, 4-10 Away",79.0,98.0,,,Final,,22,24,20,13,,25,25,22,26,,NBA
-301227015.0,2010,"December 27, 2010",Milwaukee Bucks,Atlanta Hawks,"12-17, 7-7 Home","20-13, 9-8 Away",80.0,95.0,,,Final,,18,24,25,13,,29,28,20,18,,NBA
-310101015.0,2010,"January 01, 2011",Milwaukee Bucks,Dallas Mavericks,"13-18, 8-7 Home","24-8, 11-2 Away",99.0,87.0,,,Final,,25,27,21,26,,18,32,21,16,,NBA
-310105019.0,2010,"January 05, 2011",Orlando Magic,Milwaukee Bucks,"23-12, 14-5 Home","13-20, 5-13 Away",97.0,87.0,,,Final,,25,24,22,26,,17,16,24,30,,NBA
-310108017.0,2010,"January 08, 2011",New Jersey Nets,Milwaukee Bucks,"10-27, 7-10 Home","14-21, 6-13 Away",92.0,115.0,,,Final,,15,30,20,27,,28,27,33,27,,NBA
-310112015.0,2010,"January 12, 2011",Milwaukee Bucks,San Antonio Spurs,"14-22, 8-9 Home","33-6, 13-4 Away",84.0,91.0,,,Final,,26,25,15,18,,21,22,22,26,,NBA
-310117010.0,2010,"January 17, 2011",Houston Rockets,Milwaukee Bucks,"19-23, 11-9 Home","14-24, 6-15 Away",93.0,84.0,,,Final,,18,21,35,19,,15,24,27,18,,NBA
-310121005.0,2010,"January 21, 2011",Cleveland Cavaliers,Milwaukee Bucks,"8-34, 5-14 Home","16-24, 7-15 Away",88.0,102.0,,,Final,,25,16,29,18,,27,26,26,23,,NBA
-310124004.0,2010,"January 24, 2011",Chicago Bulls,Milwaukee Bucks,"31-14, 21-4 Home","16-26, 7-16 Away",92.0,83.0,,,Final,,19,29,20,24,,18,14,26,25,,NBA
-310128028.0,2010,"January 28, 2011",Toronto Raptors,Milwaukee Bucks,"13-34, 8-15 Home","18-26, 8-16 Away",110.0,116.0,,,Final/OT,TSN2,22,35,21,26,6.0,32,23,26,23,12.0,NBA
-310131012.0,2010,"January 31, 2011",LA Clippers,Milwaukee Bucks,"19-28, 16-13 Home","19-27, 8-17 Away",105.0,98.0,,,Final,,26,23,28,28,,16,31,26,25,,NBA
-310203009.0,2010,"February 03, 2011",Golden State Warriors,Milwaukee Bucks,"21-27, 15-10 Home","19-29, 8-19 Away",100.0,94.0,,,Final,,18,28,26,28,,22,25,26,21,,NBA
-310208015.0,2010,"February 08, 2011",Milwaukee Bucks,Toronto Raptors,"20-30, 12-11 Home","14-38, 5-23 Away",92.0,74.0,,,Final,TSNT,24,16,26,26,,17,21,20,16,,NBA
-310211029.0,2010,"February 11, 2011",Memphis Grizzlies,Milwaukee Bucks,"29-26, 17-8 Home","20-32, 8-21 Away",89.0,86.0,,,Final,,20,25,18,26,,17,23,28,18,,NBA
-310214015.0,2010,"February 14, 2011",Milwaukee Bucks,LA Clippers,"21-33, 13-12 Home","20-35, 4-21 Away",102.0,78.0,,,Final,,22,25,24,31,,17,28,20,13,,NBA
-310222015.0,2010,"February 22, 2011",Milwaukee Bucks,Minnesota Timberwolves,"22-34, 14-13 Home","13-44, 4-25 Away",94.0,88.0,,,Final,,26,18,23,27,,23,21,23,21,,NBA
-310226015.0,2010,"February 26, 2011",Milwaukee Bucks,Chicago Bulls,"22-36, 14-14 Home","40-17, 14-13 Away",75.0,83.0,,,Final,NBATV,25,14,20,16,,21,18,31,13,,NBA
-310304015.0,2010,"March 04, 2011",Milwaukee Bucks,Phoenix Suns,"23-37, 15-15 Home","32-28, 15-15 Away",88.0,102.0,,,Final,,26,22,15,25,,22,23,31,26,,NBA
-310308027.0,2010,"March 08, 2011",Washington Wizards,Milwaukee Bucks,"16-47, 15-18 Home","24-38, 9-22 Away",76.0,95.0,,,Final,,21,15,16,24,,22,29,24,20,,NBA
-310312015.0,2010,"March 12, 2011",Milwaukee Bucks,Philadelphia 76ers,"26-38, 17-16 Home","34-32, 12-21 Away",102.0,74.0,,,Final,,26,33,21,22,,25,16,16,17,,NBA
-310315001.0,2010,"March 15, 2011",Atlanta Hawks,Milwaukee Bucks,"39-28, 20-12 Home","26-40, 9-24 Away",110.0,85.0,,,Final,,28,27,29,26,,17,22,16,30,,NBA
-310318015.0,2010,"March 18, 2011",Milwaukee Bucks,New Jersey Nets,"27-41, 18-17 Home","22-45, 4-28 Away",110.0,95.0,,,Final,,29,23,28,30,,26,28,19,22,,NBA
-310323015.0,2010,"March 23, 2011",Milwaukee Bucks,Sacramento Kings,"28-42, 19-18 Home","18-52, 9-25 Away",90.0,97.0,,,Final,,32,24,18,16,,25,28,22,22,,NBA
-310326015.0,2010,"March 26, 2011",Milwaukee Bucks,Chicago Bulls,"29-43, 19-19 Home","53-19, 21-15 Away",87.0,95.0,,,Final,,25,23,26,13,,21,23,25,26,,NBA
-310330028.0,2010,"March 30, 2011",Toronto Raptors,Milwaukee Bucks,"20-54, 14-23 Home","30-44, 11-25 Away",98.0,104.0,,,Final,TSN2,28,21,27,22,,22,30,24,28,,NBA
-310402015.0,2010,"April 02, 2011",Milwaukee Bucks,Philadelphia 76ers,"31-45, 20-19 Home","40-37, 15-25 Away",93.0,87.0,,,Final/OT,CSN,20,19,22,18,14.0,30,18,13,18,8.0,NBA
-310406014.0,2010,"April 06, 2011",Miami Heat,Milwaukee Bucks,"54-24, 28-11 Home","32-46, 12-27 Away",85.0,90.0,,,Final,ESPN,15,25,23,22,,25,20,18,27,,NBA
-310409015.0,2010,"April 09, 2011",Milwaukee Bucks,Cleveland Cavaliers,"33-47, 21-19 Home","17-63, 6-34 Away",108.0,101.0,,,Final,,30,30,25,23,,18,26,34,23,,NBA
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League,home_field_goals,away_field_goals,home_field_goal_pct,away_field_goal_pct,home_three_pointers,away_three_pointers,home_three_point_pct,away_three_point_pct,home_free_throws,away_free_throws,home_free_throw_pct,away_free_throw_pct,home_rebounds,away_rebounds,home_assists,away_assists,home_steals,away_steals,home_blocks,away_blocks,home_total_turnovers,away_total_turnovers,home_fast_break_points,away_fast_break_points,home_points_in_paint,away_points_in_paint,home_fouls,away_fouls,home_largest_lead,away_largest_lead,home_offensive_rebounds,away_offensive_rebounds,home_defensive_rebounds,away_defensive_rebounds,home_points_off_turnovers,away_points_off_turnovers,home_technical_fouls,away_technical_fouls,home_flagrant_fouls,away_flagrant_fouls
+301029016.0,2010,"October 29, 2010",Minnesota Timberwolves,Milwaukee Bucks,"1-1, 1-1 Home","0-2, 0-2 Away",96.0,85.0,,,Final,,27,28,19,22,,28,18,18,21,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+301102015.0,2010,"November 02, 2010",Milwaukee Bucks,Portland Trail Blazers,"1-3, 1-1 Home","4-1, 3-1 Away",76.0,90.0,,,Final,,27,18,17,14,,21,26,26,17,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+301105011.0,2010,"November 05, 2010",Indiana Pacers,Milwaukee Bucks,"2-3, 1-1 Home","2-4, 1-3 Away",90.0,94.0,,,Final,,20,40,16,14,,18,34,18,24,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+301109015.0,2010,"November 09, 2010",Milwaukee Bucks,New York Knicks,"3-5, 2-2 Home","3-4, 2-2 Away",107.0,80.0,,,Final,,41,23,26,17,,19,24,24,13,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+301113015.0,2010,"November 13, 2010",Milwaukee Bucks,Golden State Warriors,"5-5, 3-2 Home","6-4, 2-4 Away",79.0,72.0,,,Final,NBATV,24,19,23,13,,16,14,21,21,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+301119020.0,2010,"November 19, 2010",Philadelphia 76ers,Milwaukee Bucks,"3-10, 2-4 Home","5-7, 2-4 Away",90.0,79.0,,,Final,CSN,20,29,23,18,,25,18,16,20,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+301124005.0,2010,"November 24, 2010",Cleveland Cavaliers,Milwaukee Bucks,"6-8, 3-4 Home","5-9, 2-5 Away",83.0,81.0,,,Final,,19,15,31,18,,22,22,24,13,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+301127015.0,2010,"November 27, 2010",Milwaukee Bucks,Charlotte Bobcats,"6-10, 4-4 Home","6-11, 3-6 Away",104.0,101.0,,,Final,,29,31,22,22,,16,37,19,29,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+301201007.0,2010,"December 01, 2010",Denver Nuggets,Milwaukee Bucks,"11-6, 8-1 Home","6-12, 2-8 Away",105.0,94.0,,,Final,TNT,19,26,31,29,,22,28,21,23,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+301206015.0,2010,"December 06, 2010",Milwaukee Bucks,Miami Heat,"7-13, 5-5 Home","14-8, 4-5 Away",78.0,88.0,,,Final,,21,14,24,19,,25,21,23,19,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+301210015.0,2010,"December 10, 2010",Milwaukee Bucks,Houston Rockets,"9-13, 7-5 Home","8-14, 3-10 Away",97.0,91.0,,,Final,,27,20,26,24,,24,19,28,20,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+301215024.0,2010,"December 15, 2010",San Antonio Spurs,Milwaukee Bucks,"21-3, 13-2 Home","10-14, 3-9 Away",92.0,90.0,,,Final,,25,26,20,21,,20,15,28,27,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+301220022.0,2010,"December 20, 2010",Portland Trail Blazers,Milwaukee Bucks,"15-14, 10-3 Home","10-16, 3-10 Away",106.0,80.0,,,Final,,25,34,19,28,,18,17,25,20,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+301223023.0,2010,"December 23, 2010",Sacramento Kings,Milwaukee Bucks,"5-22, 3-13 Home","12-16, 5-10 Away",79.0,84.0,,,Final,,25,14,25,15,,24,19,19,22,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+301228004.0,2010,"December 28, 2010",Chicago Bulls,Milwaukee Bucks,"20-10, 12-3 Home","12-18, 5-11 Away",90.0,77.0,,,Final,,27,17,23,23,,15,30,17,15,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+310104014.0,2010,"January 04, 2011",Miami Heat,Milwaukee Bucks,"28-9, 15-4 Home","13-19, 5-12 Away",101.0,89.0,,,Final,,26,21,26,28,,20,31,19,19,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+310107015.0,2010,"January 07, 2011",Milwaukee Bucks,Miami Heat,"13-21, 8-8 Home","29-9, 14-5 Away",95.0,101.0,,,Final/OT,,18,30,24,19,4.0,30,25,20,16,10.0,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2010,"January 11, 2011",,,,,,,,,,,N,U,L,L,,N,U,L,L,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+310114020.0,2010,"January 14, 2011",Philadelphia 76ers,Milwaukee Bucks,"16-23, 11-7 Home","14-23, 6-14 Away",95.0,94.0,,,Final,CSN,28,27,22,18,,23,26,23,22,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+310119015.0,2010,"January 19, 2011",Milwaukee Bucks,Washington Wizards,"15-24, 9-9 Home","12-28, 0-20 Away",100.0,87.0,,,Final,,19,28,28,25,,27,22,17,21,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+310122015.0,2010,"January 22, 2011",Milwaukee Bucks,Memphis Grizzlies,"16-25, 9-10 Home","21-23, 8-16 Away",81.0,94.0,,,Final,,19,21,19,22,,21,22,29,22,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+310126015.0,2010,"January 26, 2011",Milwaukee Bucks,Atlanta Hawks,"17-26, 10-10 Home","29-17, 15-10 Away",98.0,90.0,,,Final,,22,22,20,34,,23,24,28,15,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+310129015.0,2010,"January 29, 2011",Milwaukee Bucks,New Jersey Nets,"19-26, 11-10 Home","14-34, 3-23 Away",91.0,81.0,,,Final,,22,23,23,23,,25,12,24,20,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+310202021.0,2010,"February 02, 2011",Phoenix Suns,Milwaukee Bucks,"23-24, 14-10 Home","19-28, 8-18 Away",92.0,77.0,,,Final,,25,27,19,21,,17,14,22,24,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+310205015.0,2010,"February 05, 2011",Milwaukee Bucks,Detroit Pistons,"19-30, 11-11 Home","19-32, 6-21 Away",78.0,89.0,,,Final,,22,25,13,18,,26,26,14,23,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+310209027.0,2010,"February 09, 2011",Washington Wizards,Milwaukee Bucks,"14-37, 14-12 Home","20-31, 8-20 Away",100.0,85.0,,,Final,,22,25,30,23,,19,18,23,25,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+310212015.0,2010,"February 12, 2011",Milwaukee Bucks,Indiana Pacers,"20-33, 12-12 Home","24-28, 9-17 Away",97.0,103.0,,,Final,,29,20,23,25,,32,19,24,28,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+310216015.0,2010,"February 16, 2011",Milwaukee Bucks,Denver Nuggets,"21-34, 13-13 Home","32-25, 10-18 Away",87.0,94.0,,,Final,ESPN,16,27,28,16,,27,19,25,23,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+310223018.0,2010,"February 23, 2011",New York Knicks,Milwaukee Bucks,"29-26, 16-12 Home","22-35, 8-22 Away",114.0,108.0,,,Final,,33,26,27,28,,24,33,22,29,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+310301015.0,2010,"March 01, 2011",Milwaukee Bucks,Detroit Pistons,"23-36, 15-14 Home","22-40, 7-24 Away",92.0,90.0,,,Final,,28,23,21,20,,22,28,25,15,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+310306015.0,2010,"March 06, 2011",Milwaukee Bucks,Boston Celtics,"23-38, 15-16 Home","46-15, 19-10 Away",83.0,89.0,,,Final,ESPN,26,23,16,18,,27,16,26,20,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+310309015.0,2010,"March 09, 2011",Milwaukee Bucks,Cleveland Cavaliers,"25-38, 16-16 Home","12-52, 4-28 Away",110.0,90.0,,,Final,,23,39,26,22,,27,22,18,23,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+310313002.0,2010,"March 13, 2011",Boston Celtics,Milwaukee Bucks,"47-17, 28-6 Home","26-39, 9-23 Away",87.0,56.0,,,Final,NBATV,20,19,21,27,,9,13,16,18,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+310316015.0,2010,"March 16, 2011",Milwaukee Bucks,Orlando Magic,"26-41, 17-17 Home","43-26, 19-15 Away",89.0,93.0,,,Final/OT,,14,23,27,15,10.0,23,23,15,18,14.0,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+310320015.0,2010,"March 20, 2011",Milwaukee Bucks,New York Knicks,"28-41, 19-17 Home","35-34, 16-20 Away",100.0,95.0,,,Final,,32,15,28,25,,9,32,31,23,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+310325018.0,2010,"March 25, 2011",New York Knicks,Milwaukee Bucks,"35-37, 19-17 Home","29-42, 10-24 Away",96.0,102.0,,,Final,,24,27,26,19,,35,23,24,20,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+310328030.0,2010,"March 28, 2011",Charlotte Bobcats,Milwaukee Bucks,"31-42, 19-17 Home","29-44, 10-25 Away",87.0,86.0,,,Final,,27,18,20,22,,26,20,26,14,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+310401011.0,2010,"April 01, 2011",Indiana Pacers,Milwaukee Bucks,"35-42, 22-16 Home","30-45, 11-26 Away",89.0,88.0,,,Final,,14,32,23,20,,22,17,21,28,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+310405019.0,2010,"April 05, 2011",Orlando Magic,Milwaukee Bucks,"49-29, 28-11 Home","31-46, 11-27 Away",78.0,72.0,,,Final,,26,16,15,21,,14,19,22,17,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+310408008.0,2010,"April 08, 2011",Detroit Pistons,Milwaukee Bucks,"28-51, 21-19 Home","32-47, 12-28 Away",110.0,100.0,,,Final,,26,29,29,26,,21,30,23,26,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+310411015.0,2010,"April 11, 2011",Milwaukee Bucks,Toronto Raptors,"34-47, 22-19 Home","22-59, 6-35 Away",93.0,86.0,,,Final,TSNT,25,21,23,24,,33,18,20,15,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+301027003.0,2010,"October 27, 2010",New Orleans Hornets,Milwaukee Bucks,"1-0, 1-0 Home","0-1, 0-1 Away",95.0,91.0,,,Final,,29,18,31,17,,30,17,25,19,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+301030015.0,2010,"October 30, 2010",Milwaukee Bucks,Charlotte Bobcats,"1-2, 1-0 Home","0-3, 0-2 Away",98.0,88.0,,,Final,,27,21,25,25,,18,22,22,26,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+301103002.0,2010,"November 03, 2010",Boston Celtics,Milwaukee Bucks,"4-1, 3-0 Home","1-4, 0-3 Away",105.0,102.0,,,Final/OT,ESPN,25,22,15,29,14.0,16,31,16,28,11.0,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+301106015.0,2010,"November 06, 2010",Milwaukee Bucks,New Orleans Hornets,"2-5, 1-2 Home","6-0, 3-0 Away",81.0,87.0,,,Final,,18,17,19,27,,23,18,24,22,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+301110001.0,2010,"November 10, 2010",Atlanta Hawks,Milwaukee Bucks,"6-3, 2-2 Home","4-5, 2-3 Away",91.0,108.0,,,Final,,26,14,19,32,,21,33,34,20,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+301116015.0,2010,"November 16, 2010",Milwaukee Bucks,Los Angeles Lakers,"5-6, 3-3 Home","9-2, 3-1 Away",107.0,118.0,,,Final,,29,30,22,26,,32,25,33,28,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+301120015.0,2010,"November 20, 2010",Milwaukee Bucks,Oklahoma City Thunder,"5-8, 3-4 Home","9-4, 5-1 Away",81.0,82.0,,,Final,,19,18,19,25,,26,21,15,20,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+301126008.0,2010,"November 26, 2010",Detroit Pistons,Milwaukee Bucks,"6-10, 4-3 Home","5-10, 2-6 Away",103.0,89.0,,,Final,,29,26,20,28,,18,25,21,25,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+301129026.0,2010,"November 29, 2010",Utah Jazz,Milwaukee Bucks,"14-5, 7-3 Home","6-11, 2-7 Away",109.0,88.0,,,Final,,30,30,20,29,,26,26,21,15,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+301204015.0,2010,"December 04, 2010",Milwaukee Bucks,Orlando Magic,"7-12, 5-4 Home","15-5, 6-3 Away",96.0,85.0,,,Final,NBATV,24,25,20,27,,16,26,20,23,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+301208015.0,2010,"December 08, 2010",Milwaukee Bucks,Indiana Pacers,"8-13, 6-5 Home","10-10, 5-5 Away",97.0,95.0,,,Final,,33,23,22,19,,27,21,31,16,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+301213006.0,2010,"December 13, 2010",Dallas Mavericks,Milwaukee Bucks,"19-5, 11-4 Home","10-13, 3-8 Away",99.0,103.0,,,Final,,25,27,22,25,,15,28,32,28,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+301218015.0,2010,"December 18, 2010",Milwaukee Bucks,Utah Jazz,"10-15, 7-6 Home","19-9, 8-4 Away",86.0,95.0,,,Final,,25,21,22,18,,19,24,28,24,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+301221013.0,2010,"December 21, 2010",Los Angeles Lakers,Milwaukee Bucks,"21-8, 10-3 Home","11-16, 4-10 Away",79.0,98.0,,,Final,,22,24,20,13,,25,25,22,26,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+301227015.0,2010,"December 27, 2010",Milwaukee Bucks,Atlanta Hawks,"12-17, 7-7 Home","20-13, 9-8 Away",80.0,95.0,,,Final,,18,24,25,13,,29,28,20,18,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+310101015.0,2010,"January 01, 2011",Milwaukee Bucks,Dallas Mavericks,"13-18, 8-7 Home","24-8, 11-2 Away",99.0,87.0,,,Final,,25,27,21,26,,18,32,21,16,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+310105019.0,2010,"January 05, 2011",Orlando Magic,Milwaukee Bucks,"23-12, 14-5 Home","13-20, 5-13 Away",97.0,87.0,,,Final,,25,24,22,26,,17,16,24,30,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+310108017.0,2010,"January 08, 2011",New Jersey Nets,Milwaukee Bucks,"10-27, 7-10 Home","14-21, 6-13 Away",92.0,115.0,,,Final,,15,30,20,27,,28,27,33,27,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+310112015.0,2010,"January 12, 2011",Milwaukee Bucks,San Antonio Spurs,"14-22, 8-9 Home","33-6, 13-4 Away",84.0,91.0,,,Final,,26,25,15,18,,21,22,22,26,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+310117010.0,2010,"January 17, 2011",Houston Rockets,Milwaukee Bucks,"19-23, 11-9 Home","14-24, 6-15 Away",93.0,84.0,,,Final,,18,21,35,19,,15,24,27,18,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+310121005.0,2010,"January 21, 2011",Cleveland Cavaliers,Milwaukee Bucks,"8-34, 5-14 Home","16-24, 7-15 Away",88.0,102.0,,,Final,,25,16,29,18,,27,26,26,23,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+310124004.0,2010,"January 24, 2011",Chicago Bulls,Milwaukee Bucks,"31-14, 21-4 Home","16-26, 7-16 Away",92.0,83.0,,,Final,,19,29,20,24,,18,14,26,25,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+310128028.0,2010,"January 28, 2011",Toronto Raptors,Milwaukee Bucks,"13-34, 8-15 Home","18-26, 8-16 Away",110.0,116.0,,,Final/OT,TSN2,22,35,21,26,6.0,32,23,26,23,12.0,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+310131012.0,2010,"January 31, 2011",LA Clippers,Milwaukee Bucks,"19-28, 16-13 Home","19-27, 8-17 Away",105.0,98.0,,,Final,,26,23,28,28,,16,31,26,25,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+310203009.0,2010,"February 03, 2011",Golden State Warriors,Milwaukee Bucks,"21-27, 15-10 Home","19-29, 8-19 Away",100.0,94.0,,,Final,,18,28,26,28,,22,25,26,21,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+310208015.0,2010,"February 08, 2011",Milwaukee Bucks,Toronto Raptors,"20-30, 12-11 Home","14-38, 5-23 Away",92.0,74.0,,,Final,TSNT,24,16,26,26,,17,21,20,16,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+310211029.0,2010,"February 11, 2011",Memphis Grizzlies,Milwaukee Bucks,"29-26, 17-8 Home","20-32, 8-21 Away",89.0,86.0,,,Final,,20,25,18,26,,17,23,28,18,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+310214015.0,2010,"February 14, 2011",Milwaukee Bucks,LA Clippers,"21-33, 13-12 Home","20-35, 4-21 Away",102.0,78.0,,,Final,,22,25,24,31,,17,28,20,13,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+310222015.0,2010,"February 22, 2011",Milwaukee Bucks,Minnesota Timberwolves,"22-34, 14-13 Home","13-44, 4-25 Away",94.0,88.0,,,Final,,26,18,23,27,,23,21,23,21,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+310226015.0,2010,"February 26, 2011",Milwaukee Bucks,Chicago Bulls,"22-36, 14-14 Home","40-17, 14-13 Away",75.0,83.0,,,Final,NBATV,25,14,20,16,,21,18,31,13,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+310304015.0,2010,"March 04, 2011",Milwaukee Bucks,Phoenix Suns,"23-37, 15-15 Home","32-28, 15-15 Away",88.0,102.0,,,Final,,26,22,15,25,,22,23,31,26,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+310308027.0,2010,"March 08, 2011",Washington Wizards,Milwaukee Bucks,"16-47, 15-18 Home","24-38, 9-22 Away",76.0,95.0,,,Final,,21,15,16,24,,22,29,24,20,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+310312015.0,2010,"March 12, 2011",Milwaukee Bucks,Philadelphia 76ers,"26-38, 17-16 Home","34-32, 12-21 Away",102.0,74.0,,,Final,,26,33,21,22,,25,16,16,17,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+310315001.0,2010,"March 15, 2011",Atlanta Hawks,Milwaukee Bucks,"39-28, 20-12 Home","26-40, 9-24 Away",110.0,85.0,,,Final,,28,27,29,26,,17,22,16,30,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+310318015.0,2010,"March 18, 2011",Milwaukee Bucks,New Jersey Nets,"27-41, 18-17 Home","22-45, 4-28 Away",110.0,95.0,,,Final,,29,23,28,30,,26,28,19,22,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+310323015.0,2010,"March 23, 2011",Milwaukee Bucks,Sacramento Kings,"28-42, 19-18 Home","18-52, 9-25 Away",90.0,97.0,,,Final,,32,24,18,16,,25,28,22,22,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+310326015.0,2010,"March 26, 2011",Milwaukee Bucks,Chicago Bulls,"29-43, 19-19 Home","53-19, 21-15 Away",87.0,95.0,,,Final,,25,23,26,13,,21,23,25,26,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+310330028.0,2010,"March 30, 2011",Toronto Raptors,Milwaukee Bucks,"20-54, 14-23 Home","30-44, 11-25 Away",98.0,104.0,,,Final,TSN2,28,21,27,22,,22,30,24,28,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+310402015.0,2010,"April 02, 2011",Milwaukee Bucks,Philadelphia 76ers,"31-45, 20-19 Home","40-37, 15-25 Away",93.0,87.0,,,Final/OT,CSN,20,19,22,18,14.0,30,18,13,18,8.0,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+310406014.0,2010,"April 06, 2011",Miami Heat,Milwaukee Bucks,"54-24, 28-11 Home","32-46, 12-27 Away",85.0,90.0,,,Final,ESPN,15,25,23,22,,25,20,18,27,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+310409015.0,2010,"April 09, 2011",Milwaukee Bucks,Cleveland Cavaliers,"33-47, 21-19 Home","17-63, 6-34 Away",108.0,101.0,,,Final,,30,30,25,23,,18,26,34,23,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
