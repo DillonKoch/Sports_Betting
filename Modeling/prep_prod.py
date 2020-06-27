@@ -4,7 +4,7 @@
 # File Created: Thursday, 25th June 2020 4:36:47 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Friday, 26th June 2020 11:28:35 am
+# Last Modified: Friday, 26th June 2020 5:18:49 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -14,6 +14,7 @@
 # ==============================================================================
 
 
+import json
 import sys
 from os.path import abspath, dirname
 
@@ -30,6 +31,12 @@ class Prep_Prod:
         self.league = league
 
     @property
+    def config(self):
+        with open(ROOT_PATH + "/Modeling/{}_model.json".format(self.league.lower())) as f:
+            config = json.load(f)
+        return config
+
+    @property
     def remove_cols(self):  # Property
         all_leagues = ["ESPN_ID", "Season_x", "Date", "League", "Title", "Game_Time", "scraped_ts"]
         nfl = ["Week"]
@@ -37,8 +44,25 @@ class Prep_Prod:
 
     @property
     def dummy_cols(self):  # Property
-        all_leagues = ["Home", "Away"]
+        all_leagues = ["Home", "Away", "Network"]
         return all_leagues
+
+    @property
+    def record_cols(self):
+        cols = ["Home_ovr_wins", "Home_ovr_losses", "Home_ovr_ties",
+                "Away_ovr_wins", "Away_ovr_losses", "Away_ovr_ties",
+                "Home_spec_wins", "Home_spec_losses", "Home_spec_ties",
+                "Away_spec_wins", "Away_spec_losses", "Away_spec_ties",
+                "conf_game", "neutral_game"]
+        return cols
+
+    # @property
+    # def scale_cols(self):
+    #     football = ["first_downs", "total_yards", "passing_yards", "rushing_yards", "turnovers",
+    #                 "yards_per_pass", "interceptions_thrown", "rushing_attempts", "yards_per_rush",
+    #                 "fumbles_lost", "total_plays", "total_drives", "yards_per_play", "dst_touchdowns",
+    #                 "passing_first_downs", "rushing_first_downs", "first_downs_from_penalties"]
+    #     football = ["home_" + col for col in football] + ["away_" + col for col in football]
 
     def load_prod_df(self):  # Top Level
         df = pd.read_csv(ROOT_PATH + "/PROD/{}_PROD.csv".format(self.league))
@@ -53,17 +77,8 @@ class Prep_Prod:
         prod_df.Away_Record.fillna("0-0, 0-0 Away", inplace=True)
         return prod_df
 
-    # def remove_unplayed(self, prod_df):  # Top Level
-    #     prod_df = prod_df.loc[["Final" in str(item) for item in list(prod_df.Final_Status)], :]
-    #     return prod_df
-
     def _add_null_rec_cols(self, df):  # Specific Helper clean_prod_records
-        cols = ["Home_ovr_wins", "Home_ovr_losses", "Home_ovr_ties",
-                "Away_ovr_wins", "Away_ovr_losses", "Away_ovr_ties",
-                "Home_spec_wins", "Home_spec_losses", "Home_spec_ties",
-                "Away_spec_wins", "Away_spec_losses", "Away_spec_ties",
-                "conf_game", "neutral_game"]
-        for col in cols:
+        for col in self.record_cols:
             df[col] = None
         return df
 
@@ -129,8 +144,8 @@ class Prep_Prod:
         row["Away_spec_losses"] = wl_dict[away]["{}_losses".format(away_tag)]
         row["Away_spec_ties"] = wl_dict[away]["{}_ties".format(away_tag)]
 
-        row["conf_game"] = True if home_tag == "conf" else False
-        row["neutral_game"] = True if home_tag == "neutral" else False
+        row["conf_game"] = 1 if home_tag == "conf" else 0
+        row["neutral_game"] = 1 if home_tag == "neutral" else 0
         return row
 
     def clean_prod_records(self, prod_df):  # Top Level
@@ -144,31 +159,76 @@ class Prep_Prod:
             wl_dict = self._update_wl_dict(wl_dict, row)
         return prod_df
 
+    # def clean_network(self, prod_df):  # Top Level
+    #     networks = []
+    #     for item in list(prod_df.Network.value_counts().index):
+    #         for new_net in item.split('/'):
+    #             networks.append(new_net)
+    #     networks = list(set(networks))
+    #     self.networks = networks
+
+    #     for net in networks:
+    #         prod_df[net] = None
+
+    #     for i, row in prod_df.iterrows():
+    #         if isinstance(row['Network'], str):
+    #             for net in row['Network'].split('/'):
+    #                 row[net] = 1
+    #                 prod_df.iloc[i, :] = row
+
+    #     return prod_df
+
+    def clean_week(self, prod_df):
+        prod_week_vals = list(prod_df.Week)
+        prod_week_vals = [
+            item.replace("WC", '18').replace("DIV", '19').replace("CONF", '20').replace("SB", '21') for item in prod_week_vals]
+        prod_df.Week = pd.Series(prod_week_vals)
+        return prod_df
+
+    def clean_team_stats(self, prod_df):  # Top Level
+        # goal is to get all info represented in cols that can be scaled 0-1
+        pass
+
     def add_dummies(self, df, prod_df):  # Top Level
         for col in self.dummy_cols:
             new_dummy_df = pd.get_dummies(prod_df[col], prefix=col)
             df = pd.concat([df, new_dummy_df], axis=1)
         return df
 
-    def add_record_cols(self, df, prod_df):
-        def add_home(row):
-            if "Home" in row:
-                pass
+    # def add_wl_cols(self, df, prod_df):  # Top Level
+    #     prod_to_merge = prod_df.loc[:, self.record_cols]
+    #     full_df = pd.concat([df, prod_to_merge], axis=1)
+    #     return full_df
+
+    # def add_network(self, df, prod_df):  # Top Level
+    #     prod_to_merge = prod_df.loc[:, self.networks]
+    #     full_df = pd.concat([df, prod_to_merge], axis=1)
+    #     return full_df
 
     def run(self):  # Run
         prod_df = self.load_prod_df()
-        # prod_df = self.remove_unplayed(prod_df)
+        prod_df = self.clean_unplayed_games(prod_df)
+        prod_df = self.clean_prod_records(prod_df)
+        prod_df = self.clean_week(prod_df)
+        # prod_df = self.clean_team_stats(prod_df)
+
         df = pd.DataFrame()
         df = self.add_dummies(df, prod_df)
+        df = pd.concat([df, prod_df.loc[:, self.config["modeling_cols"]]])
+        # df = self.add_wl_cols(df, prod_df)
+        # df = self.add_network(df, prod_df)
+        return df, prod_df
 
-        return df
+# MAKE ONE LOOP THAT RUNS .ITERROWS() AND HAVE A BUNCH OF METHODS THAT ALL CHANGE THE CURRENT ROW AT ONCE
 
 
 if __name__ == "__main__":
     x = Prep_Prod("NFL")
     self = x
-    prod_df = x.load_prod_df()
-    prod_df = x.clean_unplayed_games(prod_df)
-    prod_df = x.clean_prod_records(prod_df)
-    # prod_df = x.clean_prod_records(prod_df)
-    df = x.run()
+    df, prod_df = x.run()
+
+
+# idea for showing average stats:
+    # compute the running average for each week like with wins and losses
+    # then for week 1 of the following year, use the average I have from the last year
+    # just don't reset the dict until after using the values for week 1 of the new year

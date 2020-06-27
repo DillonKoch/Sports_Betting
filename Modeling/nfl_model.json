@@ -1,0 +1,18 @@
+{
+    "modeling_cols": [
+        "Home_ovr_wins",
+        "Home_ovr_losses",
+        "Home_ovr_ties",
+        "Away_ovr_wins",
+        "Away_ovr_losses",
+        "Away_ovr_ties",
+        "Home_spec_wins",
+        "Home_spec_losses",
+        "Home_spec_ties",
+        "Away_spec_wins",
+        "Away_spec_losses",
+        "Away_spec_ties",
+        "conf_game",
+        "neutral_game"
+    ]
+}

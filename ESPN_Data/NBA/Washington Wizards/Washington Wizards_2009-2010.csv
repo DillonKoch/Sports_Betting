@@ -1,83 +1,83 @@
-ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-291030001.0,2009,"October 30, 2009",Atlanta Hawks,Washington Wizards,"2-0, 2-0 Home","1-1, 1-1 Away",100.0,89.0,,,Final,,29,29,17,25,,24,20,22,23,,NBA
-291103005.0,2009,"November 03, 2009",Cleveland Cavaliers,Washington Wizards,"3-2, 2-1 Home","2-2, 1-2 Away",102.0,90.0,,,Final,,17,33,28,24,,31,23,19,17,,NBA
-291106011.0,2009,"November 06, 2009",Indiana Pacers,Washington Wizards,"2-3, 1-2 Home","2-4, 1-3 Away",102.0,86.0,,,Final,,23,30,29,20,,19,22,24,21,,NBA
-291110014.0,2009,"November 10, 2009",Miami Heat,Washington Wizards,"6-1, 4-1 Home","2-6, 1-4 Away",90.0,76.0,,,Final,,21,20,24,25,,27,22,13,14,,NBA
-291118027.0,2009,"November 18, 2009",Washington Wizards,Cleveland Cavaliers,"3-7, 2-3 Home","8-4, 4-2 Away",108.0,91.0,,,Final,ESPN,22,22,31,33,,32,19,21,19,,NBA
-291121024.0,2009,"November 21, 2009",San Antonio Spurs,Washington Wizards,"5-6, 5-2 Home","3-9, 1-6 Away",106.0,84.0,,,Final,NBATV,27,25,28,26,,21,19,18,26,,NBA
-291127014.0,2009,"November 27, 2009",Miami Heat,Washington Wizards,"9-6, 6-4 Home","5-9, 2-6 Away",84.0,94.0,,,Final,ESPN,24,18,22,20,,26,25,16,27,,NBA
-291201028.0,2009,"December 01, 2009",Toronto Raptors,Washington Wizards,"7-12, 5-4 Home","6-10, 3-6 Away",102.0,106.0,,,Final,,24,30,23,25,,25,30,17,34,,NBA
-291204027.0,2009,"December 04, 2009",Washington Wizards,Toronto Raptors,"7-11, 4-5 Home","8-13, 3-9 Away",107.0,109.0,,,Final/OT,TSNT,17,29,25,25,11.0,27,26,18,25,13.0,NBA
-291210027.0,2009,"December 10, 2009",Washington Wizards,Boston Celtics,"7-13, 4-6 Home","18-4, 10-1 Away",102.0,104.0,,,Final,TNT,28,22,24,28,,27,37,19,21,,NBA
-291214012.0,2009,"December 14, 2009",LA Clippers,Washington Wizards,"10-13, 7-8 Home","7-15, 3-8 Away",97.0,95.0,,,Final,,21,18,28,30,,25,19,25,26,,NBA
-291218009.0,2009,"December 18, 2009",Golden State Warriors,Washington Wizards,"7-19, 4-7 Home","8-16, 4-9 Away",109.0,118.0,,,Final,ESPN,31,28,23,27,,39,21,29,29,,NBA
-291222027.0,2009,"December 22, 2009",Washington Wizards,Philadelphia 76ers,"9-17, 5-7 Home","7-21, 3-11 Away",105.0,98.0,,,Final,CSN,27,20,25,33,,21,23,35,19,,NBA
-291226016.0,2009,"December 26, 2009",Minnesota Timberwolves,Washington Wizards,"7-24, 4-12 Home","10-18, 5-11 Away",101.0,89.0,,,Final,NBATV,23,20,25,33,,22,20,25,22,,NBA
-291229027.0,2009,"December 29, 2009",Washington Wizards,Oklahoma City Thunder,"10-20, 5-8 Home","17-14, 9-7 Away",98.0,110.0,,,Final,,25,30,21,22,,30,23,23,34,,NBA
-300105020.0,2009,"January 05, 2010",Philadelphia 76ers,Washington Wizards,"10-24, 4-11 Home","11-21, 6-12 Away",97.0,104.0,,,Final,CSN,26,32,22,17,,23,21,34,26,,NBA
-300108027.0,2009,"January 08, 2010",Washington Wizards,Orlando Magic,"12-22, 6-9 Home","24-12, 11-8 Away",104.0,97.0,,,Final,,29,22,20,33,,29,27,21,20,,NBA
-300112027.0,2009,"January 12, 2010",Washington Wizards,Detroit Pistons,"12-24, 6-11 Home","12-25, 4-16 Away",90.0,99.0,,,Final,,27,11,26,26,,21,27,19,32,,NBA
-300115004.0,2009,"January 15, 2010",Chicago Bulls,Washington Wizards,"18-20, 14-7 Home","12-26, 6-15 Away",121.0,119.0,,,Final/2OT,,26,21,27,30,17.0,24,24,29,27,15.0,NBA
-300118027.0,2009,"January 18, 2010",Washington Wizards,Portland Trail Blazers,"14-26, 8-11 Home","25-17, 9-10 Away",97.0,92.0,,,Final,NBATV,24,19,27,27,,21,17,35,19,,NBA
-300122027.0,2009,"January 22, 2010",Washington Wizards,Miami Heat,"14-28, 8-13 Home","22-20, 10-10 Away",88.0,112.0,,,Final,,15,27,22,24,,32,25,28,27,,NBA
-300126027.0,2009,"January 26, 2010",Washington Wizards,Los Angeles Lakers,"14-30, 8-15 Home","34-11, 11-8 Away",103.0,115.0,,,Final,NBATV,29,15,28,31,,30,30,27,28,,NBA
-300130027.0,2009,"January 30, 2010",Washington Wizards,New York Knicks,"16-30, 9-15 Home","18-28, 7-14 Away",106.0,96.0,,,Final,,36,14,32,24,,19,25,25,27,,NBA
-300203018.0,2009,"February 03, 2010",New York Knicks,Washington Wizards,"19-29, 12-14 Home","16-32, 7-16 Away",107.0,85.0,,,Final,,22,19,31,35,,22,23,20,20,,NBA
-,2009,"February 06, 2010",,,,,,,,,,,N,U,L,L,,N,U,L,L,,NBA
-300217027.0,2009,"February 17, 2010",Washington Wizards,Minnesota Timberwolves,"18-33, 10-16 Home","13-42, 4-24 Away",108.0,99.0,,,Final,,25,27,34,22,,31,23,21,24,,NBA
-300220028.0,2009,"February 20, 2010",Toronto Raptors,Washington Wizards,"31-24, 21-7 Home","19-34, 8-18 Away",109.0,104.0,,,Final,CBC,34,30,21,24,,32,25,31,16,,NBA
-300224027.0,2009,"February 24, 2010",Washington Wizards,Memphis Grizzlies,"20-35, 12-17 Home","29-28, 11-17 Away",94.0,99.0,,,Final,,23,25,20,26,,27,19,23,30,,NBA
-300228017.0,2009,"February 28, 2010",New Jersey Nets,Washington Wizards,"6-53, 3-26 Home","21-36, 9-18 Away",85.0,89.0,,,Final,,31,19,18,17,,24,20,25,20,,NBA
-300305027.0,2009,"March 05, 2010",Washington Wizards,Milwaukee Bucks,"21-38, 12-19 Home","32-29, 13-20 Away",74.0,102.0,,,Final,,19,17,19,19,,28,23,30,21,,NBA
-300309027.0,2009,"March 09, 2010",Washington Wizards,Houston Rockets,"21-40, 12-20 Home","32-31, 15-17 Away",88.0,96.0,,,Final,,22,18,20,28,,21,27,23,25,,NBA
-300312008.0,2009,"March 12, 2010",Detroit Pistons,Washington Wizards,"23-42, 16-18 Home","21-42, 9-21 Away",101.0,87.0,,,Final,,27,29,21,24,,23,17,23,24,,NBA
-300315026.0,2009,"March 15, 2010",Utah Jazz,Washington Wizards,"43-24, 26-8 Home","21-44, 9-22 Away",112.0,89.0,,,Final,,25,34,31,22,,25,20,15,29,,NBA
-300319022.0,2009,"March 19, 2010",Portland Trail Blazers,Washington Wizards,"42-28, 23-13 Home","21-46, 9-24 Away",76.0,74.0,,,Final,,23,19,13,21,,18,12,21,23,,NBA
-300323027.0,2009,"March 23, 2010",Washington Wizards,Charlotte Bobcats,"21-48, 12-23 Home","36-34, 11-26 Away",86.0,95.0,,,Final/OT,,23,21,21,17,4.0,27,11,26,18,13.0,NBA
-300326030.0,2009,"March 26, 2010",Charlotte Bobcats,Washington Wizards,"38-34, 27-8 Home","21-50, 9-27 Away",107.0,96.0,,,Final,,29,25,31,22,,25,20,26,25,,NBA
-300330010.0,2009,"March 30, 2010",Houston Rockets,Washington Wizards,"37-36, 21-17 Home","21-52, 9-28 Away",98.0,94.0,,,Final,,27,21,17,33,,30,23,14,27,,NBA
-300402027.0,2009,"April 02, 2010",Washington Wizards,Chicago Bulls,"22-53, 12-25 Home","36-39, 15-23 Away",87.0,95.0,,,Final,,25,25,25,12,,30,23,23,19,,NBA
-300406027.0,2009,"April 06, 2010",Washington Wizards,Golden State Warriors,"24-53, 14-25 Home","23-54, 6-32 Away",112.0,94.0,,,Final,,40,28,26,18,,23,20,34,17,,NBA
-300409002.0,2009,"April 09, 2010",Boston Celtics,Washington Wizards,"49-30, 24-16 Home","25-54, 11-29 Away",96.0,106.0,,,Final,,17,14,23,42,,30,22,23,31,,NBA
-300412018.0,2009,"April 12, 2010",New York Knicks,Washington Wizards,"29-52, 18-23 Home","25-56, 11-30 Away",114.0,103.0,,,Final,,25,20,29,40,,30,16,36,21,,NBA
-291027006.0,2009,"October 27, 2009",Dallas Mavericks,Washington Wizards,"0-1, 0-1 Home","1-0, 1-0 Away",91.0,102.0,,,Final,,21,29,24,17,,21,35,21,25,,NBA
-291031027.0,2009,"October 31, 2009",Washington Wizards,New Jersey Nets,"2-1, 1-0 Home","0-3, 0-2 Away",123.0,104.0,,,Final,,28,34,37,24,,24,27,28,25,,NBA
-291104027.0,2009,"November 04, 2009",Washington Wizards,Miami Heat,"2-3, 1-1 Home","4-1, 2-0 Away",89.0,93.0,,,Final,ESPN,17,24,25,23,,31,19,16,27,,NBA
-291108027.0,2009,"November 08, 2009",Washington Wizards,Phoenix Suns,"2-5, 1-2 Home","6-1, 4-1 Away",90.0,102.0,,,Final,,29,22,20,19,,26,30,24,22,,NBA
-291114027.0,2009,"November 14, 2009",Washington Wizards,Detroit Pistons,"2-7, 1-3 Home","5-4, 2-3 Away",103.0,106.0,,,Final,,18,29,33,23,,27,28,23,28,,NBA
-291120025.0,2009,"November 20, 2009",Oklahoma City Thunder,Washington Wizards,"7-6, 3-3 Home","3-8, 1-5 Away",127.0,108.0,,,Final,,32,30,33,32,,29,26,31,22,,NBA
-291124027.0,2009,"November 24, 2009",Washington Wizards,Philadelphia 76ers,"4-9, 3-3 Home","5-9, 2-5 Away",108.0,107.0,,,Final,CSN,23,22,40,23,,22,24,29,32,,NBA
-291128027.0,2009,"November 28, 2009",Washington Wizards,Charlotte Bobcats,"5-10, 3-4 Home","7-9, 1-7 Away",76.0,92.0,,,Final,NBATV,19,13,18,26,,22,20,27,23,,NBA
-291202027.0,2009,"December 02, 2009",Washington Wizards,Milwaukee Bucks,"7-10, 4-4 Home","9-8, 2-6 Away",104.0,102.0,,,Final,,26,24,29,25,,22,32,26,22,,NBA
-291206008.0,2009,"December 06, 2009",Detroit Pistons,Washington Wizards,"8-12, 6-4 Home","7-12, 3-7 Away",98.0,94.0,,,Final,NBATV,24,28,19,27,,19,30,20,25,,NBA
-291212027.0,2009,"December 12, 2009",Washington Wizards,Indiana Pacers,"7-14, 4-7 Home","8-13, 3-7 Away",113.0,114.0,,,Final,,38,14,38,23,,36,30,21,27,,NBA
-291216023.0,2009,"December 16, 2009",Sacramento Kings,Washington Wizards,"11-13, 10-3 Home","7-16, 3-9 Away",112.0,109.0,,,Final,ESPN,34,25,30,23,,33,21,26,29,,NBA
-291219021.0,2009,"December 19, 2009",Phoenix Suns,Washington Wizards,"18-9, 10-0 Home","8-17, 4-10 Away",121.0,95.0,,,Final,,30,33,39,19,,21,26,25,23,,NBA
-291223015.0,2009,"December 23, 2009",Milwaukee Bucks,Washington Wizards,"12-15, 9-6 Home","10-17, 5-10 Away",97.0,109.0,,,Final,,27,25,23,22,,37,20,24,28,,NBA
-291228029.0,2009,"December 28, 2009",Memphis Grizzlies,Washington Wizards,"14-16, 10-5 Home","10-19, 5-12 Away",116.0,111.0,,,Final/OT,NBATV,23,27,31,21,14.0,23,28,29,22,9.0,NBA
-300102027.0,2009,"January 02, 2010",Washington Wizards,San Antonio Spurs,"10-21, 5-9 Home","20-11, 6-6 Away",86.0,97.0,,,Final,,24,26,21,15,,30,20,20,27,,NBA
-300106005.0,2009,"January 06, 2010",Cleveland Cavaliers,Washington Wizards,"28-9, 14-3 Home","11-22, 6-13 Away",121.0,98.0,,,Final,,29,36,36,20,,23,20,37,18,,NBA
-300110027.0,2009,"January 10, 2010",Washington Wizards,New Orleans Hornets,"12-23, 6-10 Home","19-16, 5-13 Away",110.0,115.0,,,Final,,31,18,33,28,,28,32,20,35,,NBA
-300113001.0,2009,"January 13, 2010",Atlanta Hawks,Washington Wizards,"25-13, 15-4 Home","12-25, 6-14 Away",94.0,82.0,,,Final,,17,28,21,28,,13,20,29,20,,NBA
-300116027.0,2009,"January 16, 2010",Washington Wizards,Sacramento Kings,"13-26, 7-11 Home","15-24, 3-15 Away",96.0,86.0,,,Final,,22,26,22,26,,23,21,22,20,,NBA
-300120027.0,2009,"January 20, 2010",Washington Wizards,Dallas Mavericks,"14-27, 8-12 Home","28-14, 15-7 Away",93.0,94.0,,,Final,,20,27,20,26,,25,25,20,24,,NBA
-300124027.0,2009,"January 24, 2010",Washington Wizards,LA Clippers,"14-29, 8-14 Home","20-23, 6-14 Away",78.0,92.0,,,Final,,26,20,22,10,,30,18,23,21,,NBA
-300129017.0,2009,"January 29, 2010",New Jersey Nets,Washington Wizards,"4-41, 3-18 Home","15-30, 7-15 Away",79.0,81.0,,,Final,,26,21,19,13,,18,28,17,18,,NBA
-300201027.0,2009,"February 01, 2010",Washington Wizards,Boston Celtics,"16-31, 9-16 Home","30-16, 17-8 Away",88.0,99.0,,,Final,,23,31,24,10,,24,24,26,25,,NBA
-300205019.0,2009,"February 05, 2010",Orlando Magic,Washington Wizards,"33-17, 19-5 Home","17-32, 8-16 Away",91.0,92.0,,,Final,,32,18,17,24,,13,22,39,18,,NBA
-300209030.0,2009,"February 09, 2010",Charlotte Bobcats,Washington Wizards,"25-25, 19-6 Home","17-33, 8-17 Away",94.0,92.0,,,Final,,24,26,23,21,,27,22,21,22,,NBA
-300219027.0,2009,"February 19, 2010",Washington Wizards,Denver Nuggets,"19-33, 11-16 Home","36-19, 13-14 Away",107.0,97.0,,,Final,,28,24,21,34,,25,35,22,15,,NBA
-300222027.0,2009,"February 22, 2010",Washington Wizards,Chicago Bulls,"20-34, 12-16 Home","29-27, 12-18 Away",101.0,95.0,,,Final,,25,21,31,24,,26,30,16,23,,NBA
-300226027.0,2009,"February 26, 2010",Washington Wizards,New York Knicks,"20-36, 12-18 Home","20-37, 8-18 Away",116.0,118.0,,,Final/OT,,30,29,26,27,4.0,24,28,29,31,6.0,NBA
-300303015.0,2009,"March 03, 2010",Milwaukee Bucks,Washington Wizards,"31-29, 19-9 Home","21-37, 9-19 Away",100.0,87.0,,,Final,,28,28,21,23,,26,22,12,27,,NBA
-300307002.0,2009,"March 07, 2010",Boston Celtics,Washington Wizards,"40-21, 18-11 Home","21-39, 9-20 Away",86.0,83.0,,,Final,ESPN,19,19,24,24,,25,19,22,17,,NBA
-300311027.0,2009,"March 11, 2010",Washington Wizards,Atlanta Hawks,"21-41, 12-21 Home","41-23, 16-16 Away",99.0,105.0,,,Final,,22,29,22,26,,27,27,25,26,,NBA
-300313027.0,2009,"March 13, 2010",Washington Wizards,Orlando Magic,"21-43, 12-22 Home","47-20, 20-14 Away",95.0,109.0,,,Final,NBATV,33,22,21,19,,20,41,27,21,,NBA
-300316007.0,2009,"March 16, 2010",Denver Nuggets,Washington Wizards,"46-22, 29-5 Home","21-45, 9-23 Away",97.0,87.0,,,Final,,18,21,26,32,,24,21,18,24,,NBA
-300321013.0,2009,"March 21, 2010",Los Angeles Lakers,Washington Wizards,"52-18, 32-5 Home","21-47, 9-25 Away",99.0,92.0,,,Final,,24,35,23,17,,18,15,27,32,,NBA
-300324011.0,2009,"March 24, 2010",Indiana Pacers,Washington Wizards,"26-46, 18-16 Home","21-49, 9-26 Away",99.0,82.0,,,Final,,29,20,25,25,,25,17,16,24,,NBA
-300327027.0,2009,"March 27, 2010",Washington Wizards,Utah Jazz,"21-51, 12-24 Home","48-26, 19-18 Away",87.0,103.0,,,Final,,21,22,22,22,,23,27,30,23,,NBA
-300331003.0,2009,"March 31, 2010",New Orleans Hornets,Washington Wizards,"35-41, 23-15 Home","22-52, 10-28 Away",91.0,96.0,,,Final,,19,20,20,32,,23,20,27,26,,NBA
-300404027.0,2009,"April 04, 2010",Washington Wizards,New Jersey Nets,"23-53, 13-25 Home","11-66, 4-34 Away",109.0,99.0,,,Final,,29,26,25,29,,22,26,23,28,,NBA
-300407019.0,2009,"April 07, 2010",Orlando Magic,Washington Wizards,"55-23, 32-7 Home","24-54, 10-29 Away",121.0,94.0,,,Final,,24,26,34,37,,25,19,21,29,,NBA
-300410027.0,2009,"April 10, 2010",Washington Wizards,Atlanta Hawks,"25-55, 14-26 Home","51-29, 18-22 Away",95.0,105.0,,,Final,,30,20,28,17,,30,22,26,27,,NBA
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League,home_field_goals,away_field_goals,home_field_goal_pct,away_field_goal_pct,home_three_pointers,away_three_pointers,home_three_point_pct,away_three_point_pct,home_free_throws,away_free_throws,home_free_throw_pct,away_free_throw_pct,home_rebounds,away_rebounds,home_assists,away_assists,home_steals,away_steals,home_blocks,away_blocks,home_total_turnovers,away_total_turnovers,home_fast_break_points,away_fast_break_points,home_points_in_paint,away_points_in_paint,home_fouls,away_fouls,home_largest_lead,away_largest_lead,home_offensive_rebounds,away_offensive_rebounds,home_defensive_rebounds,away_defensive_rebounds,home_points_off_turnovers,away_points_off_turnovers,home_technical_fouls,away_technical_fouls,home_flagrant_fouls,away_flagrant_fouls
+291030001.0,2009,"October 30, 2009",Atlanta Hawks,Washington Wizards,"2-0, 2-0 Home","1-1, 1-1 Away",100.0,89.0,,,Final,,29,29,17,25,,24,20,22,23,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+291103005.0,2009,"November 03, 2009",Cleveland Cavaliers,Washington Wizards,"3-2, 2-1 Home","2-2, 1-2 Away",102.0,90.0,,,Final,,17,33,28,24,,31,23,19,17,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+291106011.0,2009,"November 06, 2009",Indiana Pacers,Washington Wizards,"2-3, 1-2 Home","2-4, 1-3 Away",102.0,86.0,,,Final,,23,30,29,20,,19,22,24,21,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+291110014.0,2009,"November 10, 2009",Miami Heat,Washington Wizards,"6-1, 4-1 Home","2-6, 1-4 Away",90.0,76.0,,,Final,,21,20,24,25,,27,22,13,14,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+291118027.0,2009,"November 18, 2009",Washington Wizards,Cleveland Cavaliers,"3-7, 2-3 Home","8-4, 4-2 Away",108.0,91.0,,,Final,ESPN,22,22,31,33,,32,19,21,19,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+291121024.0,2009,"November 21, 2009",San Antonio Spurs,Washington Wizards,"5-6, 5-2 Home","3-9, 1-6 Away",106.0,84.0,,,Final,NBATV,27,25,28,26,,21,19,18,26,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+291127014.0,2009,"November 27, 2009",Miami Heat,Washington Wizards,"9-6, 6-4 Home","5-9, 2-6 Away",84.0,94.0,,,Final,ESPN,24,18,22,20,,26,25,16,27,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+291201028.0,2009,"December 01, 2009",Toronto Raptors,Washington Wizards,"7-12, 5-4 Home","6-10, 3-6 Away",102.0,106.0,,,Final,,24,30,23,25,,25,30,17,34,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+291204027.0,2009,"December 04, 2009",Washington Wizards,Toronto Raptors,"7-11, 4-5 Home","8-13, 3-9 Away",107.0,109.0,,,Final/OT,TSNT,17,29,25,25,11.0,27,26,18,25,13.0,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+291210027.0,2009,"December 10, 2009",Washington Wizards,Boston Celtics,"7-13, 4-6 Home","18-4, 10-1 Away",102.0,104.0,,,Final,TNT,28,22,24,28,,27,37,19,21,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+291214012.0,2009,"December 14, 2009",LA Clippers,Washington Wizards,"10-13, 7-8 Home","7-15, 3-8 Away",97.0,95.0,,,Final,,21,18,28,30,,25,19,25,26,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+291218009.0,2009,"December 18, 2009",Golden State Warriors,Washington Wizards,"7-19, 4-7 Home","8-16, 4-9 Away",109.0,118.0,,,Final,ESPN,31,28,23,27,,39,21,29,29,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+291222027.0,2009,"December 22, 2009",Washington Wizards,Philadelphia 76ers,"9-17, 5-7 Home","7-21, 3-11 Away",105.0,98.0,,,Final,CSN,27,20,25,33,,21,23,35,19,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+291226016.0,2009,"December 26, 2009",Minnesota Timberwolves,Washington Wizards,"7-24, 4-12 Home","10-18, 5-11 Away",101.0,89.0,,,Final,NBATV,23,20,25,33,,22,20,25,22,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+291229027.0,2009,"December 29, 2009",Washington Wizards,Oklahoma City Thunder,"10-20, 5-8 Home","17-14, 9-7 Away",98.0,110.0,,,Final,,25,30,21,22,,30,23,23,34,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+300105020.0,2009,"January 05, 2010",Philadelphia 76ers,Washington Wizards,"10-24, 4-11 Home","11-21, 6-12 Away",97.0,104.0,,,Final,CSN,26,32,22,17,,23,21,34,26,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+300108027.0,2009,"January 08, 2010",Washington Wizards,Orlando Magic,"12-22, 6-9 Home","24-12, 11-8 Away",104.0,97.0,,,Final,,29,22,20,33,,29,27,21,20,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+300112027.0,2009,"January 12, 2010",Washington Wizards,Detroit Pistons,"12-24, 6-11 Home","12-25, 4-16 Away",90.0,99.0,,,Final,,27,11,26,26,,21,27,19,32,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+300115004.0,2009,"January 15, 2010",Chicago Bulls,Washington Wizards,"18-20, 14-7 Home","12-26, 6-15 Away",121.0,119.0,,,Final/2OT,,26,21,27,30,17.0,24,24,29,27,15.0,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+300118027.0,2009,"January 18, 2010",Washington Wizards,Portland Trail Blazers,"14-26, 8-11 Home","25-17, 9-10 Away",97.0,92.0,,,Final,NBATV,24,19,27,27,,21,17,35,19,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+300122027.0,2009,"January 22, 2010",Washington Wizards,Miami Heat,"14-28, 8-13 Home","22-20, 10-10 Away",88.0,112.0,,,Final,,15,27,22,24,,32,25,28,27,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+300126027.0,2009,"January 26, 2010",Washington Wizards,Los Angeles Lakers,"14-30, 8-15 Home","34-11, 11-8 Away",103.0,115.0,,,Final,NBATV,29,15,28,31,,30,30,27,28,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+300130027.0,2009,"January 30, 2010",Washington Wizards,New York Knicks,"16-30, 9-15 Home","18-28, 7-14 Away",106.0,96.0,,,Final,,36,14,32,24,,19,25,25,27,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+300203018.0,2009,"February 03, 2010",New York Knicks,Washington Wizards,"19-29, 12-14 Home","16-32, 7-16 Away",107.0,85.0,,,Final,,22,19,31,35,,22,23,20,20,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2009,"February 06, 2010",,,,,,,,,,,N,U,L,L,,N,U,L,L,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+300217027.0,2009,"February 17, 2010",Washington Wizards,Minnesota Timberwolves,"18-33, 10-16 Home","13-42, 4-24 Away",108.0,99.0,,,Final,,25,27,34,22,,31,23,21,24,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+300220028.0,2009,"February 20, 2010",Toronto Raptors,Washington Wizards,"31-24, 21-7 Home","19-34, 8-18 Away",109.0,104.0,,,Final,CBC,34,30,21,24,,32,25,31,16,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+300224027.0,2009,"February 24, 2010",Washington Wizards,Memphis Grizzlies,"20-35, 12-17 Home","29-28, 11-17 Away",94.0,99.0,,,Final,,23,25,20,26,,27,19,23,30,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+300228017.0,2009,"February 28, 2010",New Jersey Nets,Washington Wizards,"6-53, 3-26 Home","21-36, 9-18 Away",85.0,89.0,,,Final,,31,19,18,17,,24,20,25,20,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+300305027.0,2009,"March 05, 2010",Washington Wizards,Milwaukee Bucks,"21-38, 12-19 Home","32-29, 13-20 Away",74.0,102.0,,,Final,,19,17,19,19,,28,23,30,21,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+300309027.0,2009,"March 09, 2010",Washington Wizards,Houston Rockets,"21-40, 12-20 Home","32-31, 15-17 Away",88.0,96.0,,,Final,,22,18,20,28,,21,27,23,25,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+300312008.0,2009,"March 12, 2010",Detroit Pistons,Washington Wizards,"23-42, 16-18 Home","21-42, 9-21 Away",101.0,87.0,,,Final,,27,29,21,24,,23,17,23,24,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+300315026.0,2009,"March 15, 2010",Utah Jazz,Washington Wizards,"43-24, 26-8 Home","21-44, 9-22 Away",112.0,89.0,,,Final,,25,34,31,22,,25,20,15,29,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+300319022.0,2009,"March 19, 2010",Portland Trail Blazers,Washington Wizards,"42-28, 23-13 Home","21-46, 9-24 Away",76.0,74.0,,,Final,,23,19,13,21,,18,12,21,23,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+300323027.0,2009,"March 23, 2010",Washington Wizards,Charlotte Bobcats,"21-48, 12-23 Home","36-34, 11-26 Away",86.0,95.0,,,Final/OT,,23,21,21,17,4.0,27,11,26,18,13.0,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+300326030.0,2009,"March 26, 2010",Charlotte Bobcats,Washington Wizards,"38-34, 27-8 Home","21-50, 9-27 Away",107.0,96.0,,,Final,,29,25,31,22,,25,20,26,25,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+300330010.0,2009,"March 30, 2010",Houston Rockets,Washington Wizards,"37-36, 21-17 Home","21-52, 9-28 Away",98.0,94.0,,,Final,,27,21,17,33,,30,23,14,27,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+300402027.0,2009,"April 02, 2010",Washington Wizards,Chicago Bulls,"22-53, 12-25 Home","36-39, 15-23 Away",87.0,95.0,,,Final,,25,25,25,12,,30,23,23,19,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+300406027.0,2009,"April 06, 2010",Washington Wizards,Golden State Warriors,"24-53, 14-25 Home","23-54, 6-32 Away",112.0,94.0,,,Final,,40,28,26,18,,23,20,34,17,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+300409002.0,2009,"April 09, 2010",Boston Celtics,Washington Wizards,"49-30, 24-16 Home","25-54, 11-29 Away",96.0,106.0,,,Final,,17,14,23,42,,30,22,23,31,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+300412018.0,2009,"April 12, 2010",New York Knicks,Washington Wizards,"29-52, 18-23 Home","25-56, 11-30 Away",114.0,103.0,,,Final,,25,20,29,40,,30,16,36,21,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+291027006.0,2009,"October 27, 2009",Dallas Mavericks,Washington Wizards,"0-1, 0-1 Home","1-0, 1-0 Away",91.0,102.0,,,Final,,21,29,24,17,,21,35,21,25,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+291031027.0,2009,"October 31, 2009",Washington Wizards,New Jersey Nets,"2-1, 1-0 Home","0-3, 0-2 Away",123.0,104.0,,,Final,,28,34,37,24,,24,27,28,25,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+291104027.0,2009,"November 04, 2009",Washington Wizards,Miami Heat,"2-3, 1-1 Home","4-1, 2-0 Away",89.0,93.0,,,Final,ESPN,17,24,25,23,,31,19,16,27,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+291108027.0,2009,"November 08, 2009",Washington Wizards,Phoenix Suns,"2-5, 1-2 Home","6-1, 4-1 Away",90.0,102.0,,,Final,,29,22,20,19,,26,30,24,22,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+291114027.0,2009,"November 14, 2009",Washington Wizards,Detroit Pistons,"2-7, 1-3 Home","5-4, 2-3 Away",103.0,106.0,,,Final,,18,29,33,23,,27,28,23,28,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+291120025.0,2009,"November 20, 2009",Oklahoma City Thunder,Washington Wizards,"7-6, 3-3 Home","3-8, 1-5 Away",127.0,108.0,,,Final,,32,30,33,32,,29,26,31,22,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+291124027.0,2009,"November 24, 2009",Washington Wizards,Philadelphia 76ers,"4-9, 3-3 Home","5-9, 2-5 Away",108.0,107.0,,,Final,CSN,23,22,40,23,,22,24,29,32,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+291128027.0,2009,"November 28, 2009",Washington Wizards,Charlotte Bobcats,"5-10, 3-4 Home","7-9, 1-7 Away",76.0,92.0,,,Final,NBATV,19,13,18,26,,22,20,27,23,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+291202027.0,2009,"December 02, 2009",Washington Wizards,Milwaukee Bucks,"7-10, 4-4 Home","9-8, 2-6 Away",104.0,102.0,,,Final,,26,24,29,25,,22,32,26,22,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+291206008.0,2009,"December 06, 2009",Detroit Pistons,Washington Wizards,"8-12, 6-4 Home","7-12, 3-7 Away",98.0,94.0,,,Final,NBATV,24,28,19,27,,19,30,20,25,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+291212027.0,2009,"December 12, 2009",Washington Wizards,Indiana Pacers,"7-14, 4-7 Home","8-13, 3-7 Away",113.0,114.0,,,Final,,38,14,38,23,,36,30,21,27,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+291216023.0,2009,"December 16, 2009",Sacramento Kings,Washington Wizards,"11-13, 10-3 Home","7-16, 3-9 Away",112.0,109.0,,,Final,ESPN,34,25,30,23,,33,21,26,29,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+291219021.0,2009,"December 19, 2009",Phoenix Suns,Washington Wizards,"18-9, 10-0 Home","8-17, 4-10 Away",121.0,95.0,,,Final,,30,33,39,19,,21,26,25,23,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+291223015.0,2009,"December 23, 2009",Milwaukee Bucks,Washington Wizards,"12-15, 9-6 Home","10-17, 5-10 Away",97.0,109.0,,,Final,,27,25,23,22,,37,20,24,28,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+291228029.0,2009,"December 28, 2009",Memphis Grizzlies,Washington Wizards,"14-16, 10-5 Home","10-19, 5-12 Away",116.0,111.0,,,Final/OT,NBATV,23,27,31,21,14.0,23,28,29,22,9.0,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+300102027.0,2009,"January 02, 2010",Washington Wizards,San Antonio Spurs,"10-21, 5-9 Home","20-11, 6-6 Away",86.0,97.0,,,Final,,24,26,21,15,,30,20,20,27,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+300106005.0,2009,"January 06, 2010",Cleveland Cavaliers,Washington Wizards,"28-9, 14-3 Home","11-22, 6-13 Away",121.0,98.0,,,Final,,29,36,36,20,,23,20,37,18,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+300110027.0,2009,"January 10, 2010",Washington Wizards,New Orleans Hornets,"12-23, 6-10 Home","19-16, 5-13 Away",110.0,115.0,,,Final,,31,18,33,28,,28,32,20,35,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+300113001.0,2009,"January 13, 2010",Atlanta Hawks,Washington Wizards,"25-13, 15-4 Home","12-25, 6-14 Away",94.0,82.0,,,Final,,17,28,21,28,,13,20,29,20,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+300116027.0,2009,"January 16, 2010",Washington Wizards,Sacramento Kings,"13-26, 7-11 Home","15-24, 3-15 Away",96.0,86.0,,,Final,,22,26,22,26,,23,21,22,20,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+300120027.0,2009,"January 20, 2010",Washington Wizards,Dallas Mavericks,"14-27, 8-12 Home","28-14, 15-7 Away",93.0,94.0,,,Final,,20,27,20,26,,25,25,20,24,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+300124027.0,2009,"January 24, 2010",Washington Wizards,LA Clippers,"14-29, 8-14 Home","20-23, 6-14 Away",78.0,92.0,,,Final,,26,20,22,10,,30,18,23,21,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+300129017.0,2009,"January 29, 2010",New Jersey Nets,Washington Wizards,"4-41, 3-18 Home","15-30, 7-15 Away",79.0,81.0,,,Final,,26,21,19,13,,18,28,17,18,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+300201027.0,2009,"February 01, 2010",Washington Wizards,Boston Celtics,"16-31, 9-16 Home","30-16, 17-8 Away",88.0,99.0,,,Final,,23,31,24,10,,24,24,26,25,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+300205019.0,2009,"February 05, 2010",Orlando Magic,Washington Wizards,"33-17, 19-5 Home","17-32, 8-16 Away",91.0,92.0,,,Final,,32,18,17,24,,13,22,39,18,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+300209030.0,2009,"February 09, 2010",Charlotte Bobcats,Washington Wizards,"25-25, 19-6 Home","17-33, 8-17 Away",94.0,92.0,,,Final,,24,26,23,21,,27,22,21,22,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+300219027.0,2009,"February 19, 2010",Washington Wizards,Denver Nuggets,"19-33, 11-16 Home","36-19, 13-14 Away",107.0,97.0,,,Final,,28,24,21,34,,25,35,22,15,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+300222027.0,2009,"February 22, 2010",Washington Wizards,Chicago Bulls,"20-34, 12-16 Home","29-27, 12-18 Away",101.0,95.0,,,Final,,25,21,31,24,,26,30,16,23,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+300226027.0,2009,"February 26, 2010",Washington Wizards,New York Knicks,"20-36, 12-18 Home","20-37, 8-18 Away",116.0,118.0,,,Final/OT,,30,29,26,27,4.0,24,28,29,31,6.0,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+300303015.0,2009,"March 03, 2010",Milwaukee Bucks,Washington Wizards,"31-29, 19-9 Home","21-37, 9-19 Away",100.0,87.0,,,Final,,28,28,21,23,,26,22,12,27,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+300307002.0,2009,"March 07, 2010",Boston Celtics,Washington Wizards,"40-21, 18-11 Home","21-39, 9-20 Away",86.0,83.0,,,Final,ESPN,19,19,24,24,,25,19,22,17,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+300311027.0,2009,"March 11, 2010",Washington Wizards,Atlanta Hawks,"21-41, 12-21 Home","41-23, 16-16 Away",99.0,105.0,,,Final,,22,29,22,26,,27,27,25,26,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+300313027.0,2009,"March 13, 2010",Washington Wizards,Orlando Magic,"21-43, 12-22 Home","47-20, 20-14 Away",95.0,109.0,,,Final,NBATV,33,22,21,19,,20,41,27,21,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+300316007.0,2009,"March 16, 2010",Denver Nuggets,Washington Wizards,"46-22, 29-5 Home","21-45, 9-23 Away",97.0,87.0,,,Final,,18,21,26,32,,24,21,18,24,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+300321013.0,2009,"March 21, 2010",Los Angeles Lakers,Washington Wizards,"52-18, 32-5 Home","21-47, 9-25 Away",99.0,92.0,,,Final,,24,35,23,17,,18,15,27,32,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+300324011.0,2009,"March 24, 2010",Indiana Pacers,Washington Wizards,"26-46, 18-16 Home","21-49, 9-26 Away",99.0,82.0,,,Final,,29,20,25,25,,25,17,16,24,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+300327027.0,2009,"March 27, 2010",Washington Wizards,Utah Jazz,"21-51, 12-24 Home","48-26, 19-18 Away",87.0,103.0,,,Final,,21,22,22,22,,23,27,30,23,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+300331003.0,2009,"March 31, 2010",New Orleans Hornets,Washington Wizards,"35-41, 23-15 Home","22-52, 10-28 Away",91.0,96.0,,,Final,,19,20,20,32,,23,20,27,26,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+300404027.0,2009,"April 04, 2010",Washington Wizards,New Jersey Nets,"23-53, 13-25 Home","11-66, 4-34 Away",109.0,99.0,,,Final,,29,26,25,29,,22,26,23,28,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+300407019.0,2009,"April 07, 2010",Orlando Magic,Washington Wizards,"55-23, 32-7 Home","24-54, 10-29 Away",121.0,94.0,,,Final,,24,26,34,37,,25,19,21,29,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+300410027.0,2009,"April 10, 2010",Washington Wizards,Atlanta Hawks,"25-55, 14-26 Home","51-29, 18-22 Away",95.0,105.0,,,Final,,30,20,28,17,,30,22,26,27,,NBA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
