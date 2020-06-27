@@ -4,7 +4,7 @@
 # File Created: Tuesday, 16th June 2020 7:58:09 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Tuesday, 23rd June 2020 6:18:03 pm
+# Last Modified: Saturday, 27th June 2020 5:00:10 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -91,7 +91,7 @@ class ESB_Game_Scraper(ESB_Bool_Prop_Scraper):
 
     def _home_fav_check(self, bet_strings):  # Helping Helper _bets_from_box
         half_num = int(len(bet_strings) / 2)
-        home_strings = bet_strings[: half_num]
+        home_strings = bet_strings[half_num:]
         has_plus = False
         for home_str in home_strings:
             if "+" in home_str:
@@ -213,7 +213,9 @@ class ESB_Game_Scraper(ESB_Bool_Prop_Scraper):
         """
         if not self.check_df_exists():
             self.make_new_df(save=True)
+            print("-" * 25)
             print("New file created for {}".format(self.bet_name))
+            print("-" * 25)
         else:
             current_df = pd.read_csv(self.df_path)
             current_df['datetime'] = pd.to_datetime(current_df['datetime']).apply(lambda x: x.date())
@@ -223,6 +225,7 @@ class ESB_Game_Scraper(ESB_Bool_Prop_Scraper):
 
 
 if __name__ == "__main__":
-    sp = get_sp1("https://www.elitesportsbook.com/sports/ncaa-football-betting/iowa-season-long.sbk")
-    x = ESB_Game_Scraper("NFL", "week1", sp)
+    link = "https://www.elitesportsbook.com/sports/nba-betting/game-lines-full-game.sbk"
+    sp = get_sp1(link)
+    x = ESB_Game_Scraper("NBA", "Game_Lines", sp)
     self = x
