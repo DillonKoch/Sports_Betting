@@ -4,7 +4,7 @@
 # File Created: Saturday, 23rd May 2020 11:04:56 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Thursday, 25th June 2020 2:05:42 pm
+# Last Modified: Sunday, 28th June 2020 4:49:09 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -226,7 +226,7 @@ class ESPN_Season_Scraper:
 
     def find_years_unscraped(self, team_name):  # Top Level
         path = self.root_path + "ESPN_Data/{}/{}/".format(self.league, team_name)
-        beginning_year = 1999 if self.league == "NCAAF" else 2002 if self.league == 'NCAAB' else 2006
+        beginning_year = 2006
         all_years = [str(item) for item in list(range(beginning_year, 2021, 1))]
         years_found = []
         year_comp = re.compile(r"(\d{4}).csv")
@@ -274,5 +274,5 @@ if __name__ == "__main__":
     nba = ESPN_Season_Scraper("NBA")
     ncaaf = ESPN_Season_Scraper("NCAAF")
     ncaab = ESPN_Season_Scraper("NCAAB")
-    # nfl.scrape_all_leauge_history()
-    nfl.scrape_league_upcoming_season()
+    # ncaaf.scrape_all_leauge_history()
+    # ncaaf.scrape_league_upcoming_season()

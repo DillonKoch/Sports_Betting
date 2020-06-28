@@ -4,7 +4,7 @@
 # File Created: Thursday, 25th June 2020 4:36:47 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Friday, 26th June 2020 5:18:49 pm
+# Last Modified: Sunday, 28th June 2020 4:40:22 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -27,7 +27,7 @@ if ROOT_PATH not in sys.path:
 
 
 class Prep_Prod:
-    def __init__(self, league):
+    def __init__(self, league: str):
         self.league = league
 
     @property
@@ -72,12 +72,12 @@ class Prep_Prod:
         self.all_teams = set(list(df.Home) + list(df.Away))
         return df
 
-    def clean_unplayed_games(self, prod_df):  # Top Level
+    def clean_unplayed_games(self, prod_df: pd.DataFrame) -> pd.DataFrame:  # Top Level
         prod_df.Home_Record.fillna("0-0, 0-0 Home", inplace=True)
         prod_df.Away_Record.fillna("0-0, 0-0 Away", inplace=True)
         return prod_df
 
-    def _add_null_rec_cols(self, df):  # Specific Helper clean_prod_records
+    def _add_null_rec_cols(self, df: pd.DataFrame) -> pd.DataFrame:  # Specific Helper clean_prod_records
         for col in self.record_cols:
             df[col] = None
         return df
@@ -193,6 +193,11 @@ class Prep_Prod:
         for col in self.dummy_cols:
             new_dummy_df = pd.get_dummies(prod_df[col], prefix=col)
             df = pd.concat([df, new_dummy_df], axis=1)
+        return df
+
+    def add_dash_cols(self, df):
+        df['num_penalties'] = df.apply(lambda row: row['home_penalties'].split('-')[0], axis=1)
+        df['penalty_yards'] = df.apply(lambda row: row['home_penalties'].split('-')[1], axis=1)
         return df
 
     # def add_wl_cols(self, df, prod_df):  # Top Level
