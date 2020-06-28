@@ -4,7 +4,7 @@
 # File Created: Tuesday, 16th June 2020 7:58:09 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Saturday, 27th June 2020 5:00:10 pm
+# Last Modified: Saturday, 27th June 2020 5:02:50 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -171,6 +171,10 @@ class ESB_Game_Scraper(ESB_Bool_Prop_Scraper):
         df.loc[len(df)] = new_row
         return df
 
+    def _clean_df_names(self, df):  # Specific Helper make_new_df
+        df = df.replace("LA Chargers", "Los Angeles Chargers")
+        return df
+
     def make_new_df(self, save):  # Top Level
         df = self.create_games_df()
         title = self._get_sp_title()
@@ -179,6 +183,8 @@ class ESB_Game_Scraper(ESB_Bool_Prop_Scraper):
         for game in esb_games:
             df = self.esb_game_to_df(df, game, title)
         df['datetime'] = pd.to_datetime(df['datetime']).apply(lambda x: x.date())
+        df = self._clean_df_names(df)
+
         if save:
             df.to_csv(self.df_path, index=False)
         return df
