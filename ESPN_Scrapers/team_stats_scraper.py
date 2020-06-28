@@ -4,7 +4,7 @@
 # File Created: Tuesday, 16th June 2020 1:42:34 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Thursday, 25th June 2020 9:46:57 am
+# Last Modified: Sunday, 28th June 2020 4:51:59 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -265,7 +265,7 @@ class ESPN_Stat_Scraper:
 
 
 if __name__ == "__main__":
-    x = ESPN_Stat_Scraper("NBA")
+    x = ESPN_Stat_Scraper("NCAAF")
     self = x
     x.update_league_dfs()
     # espn_id = '401170371'
