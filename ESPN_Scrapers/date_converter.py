@@ -4,12 +4,13 @@
 # File Created: Friday, 19th June 2020 8:59:03 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Friday, 19th June 2020 10:30:38 am
+# Last Modified: Monday, 29th June 2020 9:51:30 am
 # Modified By: Dillon Koch
 # -----
 #
 # -----
 # super quick file to convert date types to all be the same in ESPN_Data
+# NO NEED TO USE THIS FILE UNDER CURRENT SCRAPING CODE
 # ==============================================================================
 
 import datetime

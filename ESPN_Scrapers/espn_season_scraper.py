@@ -4,7 +4,7 @@
 # File Created: Saturday, 23rd May 2020 11:04:56 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Sunday, 28th June 2020 4:57:06 pm
+# Last Modified: Monday, 29th June 2020 10:42:27 am
 # Modified By: Dillon Koch
 # -----
 #
@@ -32,6 +32,11 @@ from Utility.Utility import get_sp1
 
 
 class ESPN_Season_Scraper:
+    """
+     Scrapes all historical data for each league into the ESPN_Data folder
+     Can also scrape NBA Playoffs and upcoming seasons with other run methods
+    """
+
     def __init__(self, league):
         self.league = league
         self.egs = ESPN_Game_Scraper()
@@ -65,11 +70,18 @@ class ESPN_Season_Scraper:
         return 2 if self.league == 'NCAAB' else 4
 
     def _make_season_df(self):  # Specific Helper scrape_season  Tested
+        """
+        creates initial season dataframe using the columns specified in the league's json file
+        """
         cols = self.config["DF Columns"]
         df = pd.DataFrame(columns=cols)
         return df
 
     def _get_game_sections(self, team_abbrev, year, season_type=2):  # Specific Helper scrape_season  Tested
+        """
+        Scrapes the html from a team's season schedule webpage on ESPN, and
+        returns the sections of the html including the season's games
+        """
         base_link = self.config["Season Base Link"].format(
             team_abbrev=team_abbrev, year=year, season_type=season_type)
         sp = get_sp1(base_link)
@@ -88,6 +100,10 @@ class ESPN_Season_Scraper:
         return week
 
     def _link_from_game_section(self, section):  # Specific Helper scrape_season  Tested
+        """
+        finds the link to a game on ESPN (if it exists) from a section of
+        a team's season webpage
+        """
         link = None
         td_htmls = section.find_all('td', attrs={'class': 'Table__TD'})
         for html in td_htmls:
@@ -97,6 +113,16 @@ class ESPN_Season_Scraper:
         return link
 
     def _link_week_to_row(self, df, link, week, year):  # Specific Helper scrape_season
+        """
+        uses the link for a game to create a row in the season's dataframe
+        Week is only used for NFL games
+
+        ESPN refers to the 2017-18 season as the "2017" season for NFL/NCAAF, but refers
+        to it as the "2018" season for NBA/NCAAB, so those league's seasons are adjusted down 1
+
+        Some extra logic is needed for NCAAB half scores, since they differ from 4 quarters
+        (the NIT experimented with 4 quarters, causing additional logic as well)
+        """
         game_id = self.game_link_re.search(link).group(1)
         game = self.game_info_func(game_id)
 
@@ -134,6 +160,9 @@ class ESPN_Season_Scraper:
         return df
 
     def scrape_season(self, team_abbrev, year, season_type=2):  # Top Level
+        """
+        Scrapes one team's season into a dataframe
+        """
         df = self._make_season_df()
         game_sections = self._get_game_sections(team_abbrev, year, season_type)
         for section in tqdm(game_sections):
@@ -146,6 +175,9 @@ class ESPN_Season_Scraper:
         return df
 
     def scrape_upcoming_games(self, team_abbrev, year, season_type=2):  # Top Level
+        """
+        NOT DONE - scrapes games in an upcoming season
+        """
         df = self.scrape_season(team_abbrev, year, season_type)
 
         null_cols = ["Final_Status", "HQ1", "HQ2", "HQ3", "HQ4", "HOT", "AQ1", "AQ2", "AQ3",
@@ -159,6 +191,9 @@ class ESPN_Season_Scraper:
         return df
 
     def scrape_league_upcoming_season(self, year=None, season_type=2):  # Run
+        """
+        NOT DONE - scrapes upcoming games for an entire league
+        """
         team_combos = self.config["Teams"]
         if year is None:
             year = datetime.date.today().year
@@ -185,6 +220,9 @@ class ESPN_Season_Scraper:
             full_df.to_csv(current_df_path, index=False)
 
     def sort_df_by_dt(self, df, keep_dt=False):
+        """
+        sorts a dataframe (that has dates in %B %d, %Y format) by date
+        """
         def add_dt(row):
             return datetime.datetime.strptime(row['Date'], "%B %d, %Y")
         df['datetime'] = df.apply(lambda row: add_dt(row), axis=1)
@@ -195,6 +233,9 @@ class ESPN_Season_Scraper:
         return df
 
     def _find_unscraped_playoff_years(self, team):  # Specific Helper scrape_nba_playoffs
+        """
+        finds the years an nba team's playoff data hasn't been scraped yet
+        """
         team_csvs = os.listdir(ROOT_PATH + "/ESPN_Data/NBA/{}/".format(team))
         playoff_csvs = [item for item in team_csvs if '.csv' in item and "playoff" in item]
         playoff_csv_years = [item[-8:-4] for item in playoff_csvs]
@@ -204,7 +245,7 @@ class ESPN_Season_Scraper:
 
     def scrape_nba_playoffs(self):  # Run
         """
-        ONLY USED FOR NBA SINCE THEIR PLAYOFF GAMES ARE ON A SEPARATE PAGE
+        ONLY USED FOR NBA SINCE THEIR PLAYOFF GAMES ARE ON A SEPARATE PAGE ON ESPN
         """
         teams = [item[0] for item in self.config["Teams"]]
         team_abbrevs = [item[1] for item in self.config["Teams"]]
@@ -225,6 +266,9 @@ class ESPN_Season_Scraper:
                     time.sleep(30)
 
     def find_years_unscraped(self, team_name):  # Top Level
+        """
+        finds years a team's season data hasn't been scraped yet
+        """
         path = self.root_path + "ESPN_Data/{}/{}/".format(self.league, team_name)
         beginning_year = 2006
         all_years = [str(item) for item in list(range(beginning_year, 2021, 1))]
@@ -239,6 +283,10 @@ class ESPN_Season_Scraper:
         return [item for item in all_years if item not in years_found]
 
     def _get_years(self, year):  # Specific Helper scrape_team_history
+        """
+        returns the two years to use in a csv name (e.g. Iowa_2018-2019.csv)
+        seasons are referred to differently in NFL/NCAAF and NBA/NCAAB, so this is needed
+        """
         year = int(year)
         if self.league in ["NFL", "NCAAF"]:
             year1 = year
@@ -249,6 +297,9 @@ class ESPN_Season_Scraper:
         return year1, year2
 
     def scrape_team_history(self, team_abbrev, name):  # Run
+        """
+        Scrapes the entire history of a team's games according to the years_unscraped
+        """
         years_unscraped = self.find_years_unscraped(name)
         for year in years_unscraped:
             print("Scraping data for {} {}".format(name, year))
@@ -258,6 +309,9 @@ class ESPN_Season_Scraper:
             df.to_csv(path, index=False)
 
     def scrape_all_leauge_history(self):  # Run
+        """
+        runs scrape_team_history for all teams in a league
+        """
         team_abbrevs = [item[1] for item in self.config["Teams"]]
         names = [item[0] for item in self.config["Teams"]]
         for team_abbrev, name in zip(team_abbrevs, names):

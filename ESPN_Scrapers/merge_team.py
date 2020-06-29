@@ -4,7 +4,7 @@
 # File Created: Wednesday, 24th June 2020 4:50:25 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Sunday, 28th June 2020 4:52:18 pm
+# Last Modified: Monday, 29th June 2020 10:45:40 am
 # Modified By: Dillon Koch
 # -----
 #
@@ -26,12 +26,22 @@ if ROOT_PATH not in sys.path:
 
 
 class Merge_Team:
+    """
+     merges a team's folder of csv's into one single csv in the main league folder
+     Run this after scraping the entire league's games and team stats, then
+     remove the team folders from this repo (so vscode runs faster)
+    """
+
     def __init__(self, league):
         self.league = league
         self.teams = os.listdir(ROOT_PATH + "/ESPN_Data/{}/".format(league))
         self.league_folder = ROOT_PATH + "/ESPN_Data/{}/".format(self.league)
 
     def run_one_team(self, team_name):
+        """
+        loads a team's individual season csv's, and combines them into one,
+        which is saved in the league folder
+        """
         csv_paths = [self.league_folder + "/{}/{}".format(team_name, item)
                      for item in os.listdir(self.league_folder + "/{}".format(team_name))]
         csv_paths = [item for item in csv_paths if int(item[-8:-4]) > 2007]

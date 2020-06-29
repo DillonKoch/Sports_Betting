@@ -4,7 +4,7 @@
 # File Created: Tuesday, 16th June 2020 7:58:09 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Saturday, 27th June 2020 5:02:50 pm
+# Last Modified: Monday, 29th June 2020 8:43:43 am
 # Modified By: Dillon Koch
 # -----
 #
@@ -29,6 +29,10 @@ from ESB_Scrapers.esb_prop_scrapers import ESB_Bool_Prop_Scraper
 
 
 class ESB_Game:
+    """
+     class for representing a single game on Elite Sportsbook
+    """
+
     def __init__(self):
         self.date = None
         self.home_team = None
@@ -43,8 +47,16 @@ class ESB_Game:
 
 
 class ESB_Game_Scraper(ESB_Bool_Prop_Scraper):
+    """
+    ESB_Game_Scraper scrapes the odds information from Elite Sportsbook for a game
 
-    def create_games_df(self):  # Specific Helper make_new_df
+    Parameters
+    ----------
+    ESB_Bool_Prop_Scraper : class
+        Prop bet scraper that this class inherits from
+    """
+
+    def create_games_df(self) -> pd.DataFrame:  # Specific Helper make_new_df
         cols = ["Title", "datetime", "Game_Time", "Home", "Away", "Over_ESB", "Over_ml_ESB",
                 "Under_ESB", "Under_ml_ESB", "Home_Line_ESB", "Home_Line_ml_ESB",
                 "Away_Line_ESB", "Away_Line_ml_ESB", "Home_ML_ESB", "Away_ML_ESB", "scraped_ts"]
