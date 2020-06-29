@@ -4,7 +4,7 @@
 # File Created: Friday, 10th April 2020 10:47:51 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Tuesday, 23rd June 2020 6:14:35 pm
+# Last Modified: Monday, 29th June 2020 2:17:13 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -17,6 +17,7 @@ import argparse
 import datetime
 import urllib.request
 
+import pandas as pd
 from bs4 import BeautifulSoup as soup
 
 
@@ -75,6 +76,20 @@ def parse_league(arg_list=None):
     args_dict = vars(args)
     version = args_dict['league']
     return version
+
+
+def sort_df_by_dt(df, keep_dt=False):
+    """
+    sorts a dataframe (that has dates in %B %d, %Y format) by date
+    """
+    def add_dt(row):
+        return datetime.datetime.strptime(row['Date'], "%B %d, %Y")
+    df['datetime'] = df.apply(lambda row: add_dt(row), axis=1)
+    df['datetime'] = pd.to_datetime(df['datetime']).apply(lambda x: x.date())
+    df.sort_values(by='datetime', inplace=True)
+    if not keep_dt:
+        df = df.loc[:, [item for item in list(df.columns) if item != "datetime"]]
+    return df
 
 
 if __name__ == "__main__":
