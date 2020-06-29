@@ -4,7 +4,7 @@
 # File Created: Thursday, 18th June 2020 12:48:04 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Thursday, 25th June 2020 4:35:52 pm
+# Last Modified: Monday, 29th June 2020 11:28:45 am
 # Modified By: Dillon Koch
 # -----
 #
@@ -50,7 +50,7 @@ class Prod_Table:
         return dic
 
     @property
-    def odds_name_conversions(self):
+    def odds_name_conversions(self):  # Property
         return self.config["team_name_conversion_dict"]
 
     def _show_team_dfs_dict(self):  # Global Helper not used in run(), but helpful
@@ -86,22 +86,30 @@ class Prod_Table:
     #     return df_paths
 
     def _get_df_paths(self):  # Specific Helper load_espn_data
+        """
+        returns the paths to each team's csv from ESPN_Data
+        """
         df_paths = os.listdir(ROOT_PATH + "/ESPN_Data/{}/".format(self.league))
         df_paths = [item for item in df_paths if ('.csv' in item)]
         df_paths = [ROOT_PATH + "/ESPN_Data/{}/{}".format(self.league, path) for path in df_paths]
         return df_paths
 
     def _load_all_team_dfs(self, df_paths):  # Specific Helper load_espn_data Tested
+        """
+        uses the df paths to load each team's csv (finished and unplayed games)
+        """
         all_team_dfs = []
         for path in tqdm(df_paths):
             current_df = pd.read_csv(path)
             current_df = current_df[current_df.Home.notnull()]
-            # current_df = current_df[current_df.Final_Status.notnull()]
             if len(current_df) > 0:
                 all_team_dfs.append(current_df)
         return all_team_dfs
 
     def _add_datetime(self, df):  # Helping Helper _remove_preseason Tested
+        """
+        adds datetime in %B %d, %Y format to a dataframe
+        """
         def add_dt(row):
             return datetime.datetime.strptime(row['Date'], "%B %d, %Y")
         df['datetime'] = df.apply(lambda row: add_dt(row), axis=1)
@@ -109,6 +117,9 @@ class Prod_Table:
         return df
 
     def _remove_preseason(self, df):  # Specific Helper load_espn_data
+        """
+        only used in NFL - removes the preseason games from espn data
+        """
         if self.league == "NFL":
             def add_preseason(row):
                 year = str(int(row['Season']))
@@ -120,12 +131,19 @@ class Prod_Table:
         return df
 
     def _clean_concat_team_dfs(self, all_team_dfs):  # Specific Helper load_espn_data  Tested
+        """
+        merges all team's dfs together into one df with all games in the league since 2007
+        need to drop duplicates because each game appears in both team's df
+        """
         full_df = pd.concat(all_team_dfs)
         full_df.drop_duplicates(subset="ESPN_ID", inplace=True)
         full_df.sort_values(by="datetime", inplace=True)
         return full_df
 
     def load_espn_data(self):  # Top Level  Tested
+        """
+        creates a df with all main espn data in a league (and datetime)
+        """
         df_paths = self._get_df_paths()
         all_team_dfs = self._load_all_team_dfs(df_paths)
         all_team_dfs = [self._add_datetime(df) for df in all_team_dfs]
@@ -135,6 +153,9 @@ class Prod_Table:
         return espn_df
 
     def load_odds_data(self):  # Top Level Tested
+        """
+        loads all the historical odds data for a given league
+        """
         all_dfs = []
         csv_names = [item for item in os.listdir(ROOT_PATH + "/Odds/{}".format(self.league)) if '.csv' in item]
         for csv_name in csv_names:
@@ -147,6 +168,11 @@ class Prod_Table:
         return full_df
 
     def convert_odds_teams(self, odds_df):  # Top Level Tested
+        """
+        changes the odds team names to match the ESPN data
+        - e.g. change "Minnesota" to "Minnesota Vikings" to make merging easier
+        - if no different name is given in json file, the current name is kept
+        """
         def change_name(row):
             if self.odds_name_conversions[row['Team']] != "":
                 name = self.odds_name_conversions[row['Team']]
@@ -157,6 +183,9 @@ class Prod_Table:
         return odds_df
 
     def convert_odds_date(self, odds_df):  # Top Level  Tested
+        """
+        creates "datetime" column in odds_df in the same format as ESPN data
+        """
         def change_date(row):
             date = str(int(row['Date']))
             month = date[:2] if len(date) == 4 else date[0]
@@ -171,6 +200,10 @@ class Prod_Table:
         return odds_df
 
     def _test_row_pair(self, pair):  # QA Testing game_pairs_from_odds
+        """
+        performs some QA testing on each pair of rows from the odds data
+        makes sure the two rows are referring to the same game and match up
+        """
         row1, row2 = pair
         col_names = ["Season", "Date", "datetime"]
         for name in col_names:
@@ -190,6 +223,10 @@ class Prod_Table:
                 print(row1, row2)
 
     def game_pairs_from_odds(self, odds_df):  # Top Level  Tested
+        """
+        returns a list of games from the odds df - each list includes
+        two rows from the odds df, since that's how the data is presented
+        """
         game_pairs = []
         rows = [odds_df.iloc[i, :] for i in range(len(odds_df))]
         assert len(rows) % 2 == 0
@@ -205,6 +242,11 @@ class Prod_Table:
         return game_pairs
 
     def _get_line_ou_from_2rows(self, home_row, away_row, col):  # Specific Helper odds_pair_to_dict
+        """
+        returns the over under, home/away line from two rows of the odds data
+        if either line/over under is "NL", some logic is used to determine if the value
+        is the line or over under
+        """
         home_val = "nl" if isinstance(home_row[col], float) else home_row[col].lower() if home_row[col].lower() != "pk" else '0.0'
         away_val = "nl" if isinstance(away_row[col], float) else away_row[col].lower() if away_row[col].lower() != "pk" else '0.0'
         no_line_count = [home_val, away_val].count("nl")
@@ -246,6 +288,11 @@ class Prod_Table:
         return over_under, home_line, away_line
 
     def odds_pair_to_dict(self, pair):  # Top Level
+        """
+        takes an odds pair (two rows from odds data) and creates a dictionary
+        with all the information from the two rows
+        - this presents all the information for a game in an easily merge-able way
+        """
         row1, row2 = pair
 
         home_row = row1 if row1['VH'] in ["H", "N"] else row2
@@ -296,6 +343,9 @@ class Prod_Table:
         return result
 
     def merge_espn_odds(self, espn_df, odds_df):  # Top Level
+        """
+        merges espn data and odds data on datetime, home, away columns
+        """
         merge_cols = ["datetime", "Home", "Away"]
         df = espn_df.merge(odds_df, on=merge_cols, how="left")
 
@@ -317,15 +367,10 @@ class Prod_Table:
         final_cols.append('datetime')
         return df.loc[:, final_cols]
 
-    def _find_odds_match(self, espn_row, odds_df):  # Specific Helper join_odds_match
-        df = copy.deepcopy(odds_df)
-        match_cols = ["Season", "Home", "Away", "HQ1", "HQ2", "HQ3", "HQ4", "Home_Score",
-                      "AQ1", "AQ2", "AQ3", "AQ4", "Away_Score"]
-        for col in match_cols[:3]:
-            df = df.loc[df[col] == espn_row[col]]
-        return df
-
     def add_odds_data(self, espn_df):  # Top Level
+        """
+        runs odds data methods and joins result to espn data
+        """
         odds_df = self.load_odds_data()
         odds_df = self.convert_odds_teams(odds_df)
         odds_df = self.convert_odds_date(odds_df)
@@ -335,6 +380,9 @@ class Prod_Table:
         return df
 
     def add_esb_data(self, df):  # Top Level
+        """
+        merges Elite Sportsbook data to the espn/odds dataframe
+        """
         esb_df = pd.read_csv(self.esb_table)
         esb_df['datetime'] = pd.to_datetime(esb_df['datetime']).apply(lambda x: x.date())
         df = df.merge(esb_df, on=["datetime", "Home", "Away"], how="left")
@@ -367,5 +415,5 @@ if __name__ == "__main__":
     nba = Prod_Table("NBA")
     ncaaf = Prod_Table("NCAAF")
     ncaab = Prod_Table("NCAAB")
-    self = nfl
+    self = nba
     df = self.prod_table_from_scratch()
