@@ -4,7 +4,7 @@
 # File Created: Monday, 29th June 2020 3:17:15 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Monday, 29th June 2020 3:46:03 pm
+# Last Modified: Tuesday, 30th June 2020 11:57:01 am
 # Modified By: Dillon Koch
 # -----
 #
@@ -27,7 +27,7 @@ if ROOT_PATH not in sys.path:
     sys.path.append(ROOT_PATH)
 
 from ESPN_Scrapers.espn_season_scraper import ESPN_Season_Scraper
-from Utility.Utility import parse_league, sort_df_by_dt
+from Utility.Utility import sort_df_by_dt
 
 
 class ESPN_Unplayed_Scraper(ESPN_Season_Scraper):
