@@ -4,7 +4,7 @@
 # File Created: Tuesday, 7th April 2020 7:34:33 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Monday, 29th June 2020 10:17:56 am
+# Last Modified: Tuesday, 30th June 2020 4:07:07 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -51,6 +51,64 @@ class Game:
         self.league = None
         self.game_date = None
 
+    def _get_ncaab_scores(self):  # Specific Helper to_row_list
+        scores = []
+        for score_list in [self.home_half_scores, self.away_half_scores]:
+            num_scores = len(score_list)
+            try:
+                if num_scores == 4:
+                    first_half = int(score_list[0]) + int(score_list[1])
+                    second_half = int(score_list[2]) + int(score_list[3])
+                    scores += [first_half, second_half, None]
+                elif num_scores == 5:
+                    first_half = int(score_list[0]) + int(score_list[1])
+                    second_half = int(score_list[2]) + int(score_list[3])
+                    scores += [first_half, second_half, score_list[4]]
+                elif num_scores == 2:
+                    scores += score_list
+                    scores.append(None)
+            except Exception as e:
+                print(e)
+                scores = [None] * 6
+        return scores
+
+    def _get_non_ncaab_scores(self):  # Specific Helper to_row_list
+        scores = []
+        try:
+            for score_list in [self.home_qscores, self.away_qscores]:
+                scores += score_list
+                if len(score_list) == 4:
+                    scores.append(None)
+        except Exception as e:
+            print(e)
+            scores = [None] * 10
+        return scores
+
+    def _test_row(self, row, league):  # QA Testing
+        if league == "NCAAB":
+            assert len(row) == 20
+        elif league == "NFL":
+            assert len(row) == 25
+        else:
+            assert len(row) == 24
+
+    def to_row_list(self, league, season, week=None):  # Run
+        row = [self.ESPN_ID, season, self.game_date, self.home_name, self.away_name,
+               self.home_record, self.away_record, self.home_score, self.away_score,
+               self.line, self.over_under, self.final_status, self.network]
+        if league == "NCAAB":
+            row += self._get_ncaab_scores()
+        else:
+            row += self._get_non_ncaab_scores()
+
+        if league == "NFL":
+            row.append(week)
+        row.append(league)
+
+        print(row)
+        self._test_row(row)
+        return row
+
 
 class ESPN_Game_Scraper:
     """
@@ -61,10 +119,8 @@ class ESPN_Game_Scraper:
         self.link_dict = {
             "NFL": 'https://www.espn.com/nfl/game/_/gameId/',
             "NCAAF": 'https://www.espn.com/college-football/game/_/gameId/',
-            "MLB": 'https://www.espn.com/mlb/game?gameId=',
             "NBA": 'https://www.espn.com/nba/game?gameId=',
             "NCAAB": 'https://www.espn.com/mens-college-basketball/game?gameId=',
-            "NHL": 'https://www.espn.com/nhl/game/_/gameId/'
         }
 
     def _sp_helper(self, league: str, game_id: str, sp=False):  # Global Helper
@@ -374,8 +430,8 @@ class ESPN_Game_Scraper:
 
 
 if __name__ == "__main__":
-    e = ESPN_Game_Scraper()
-    self = e
+    x = ESPN_Game_Scraper()
+    self = x
     # match = e._game_date("NFL", "401128044")
 #     nflh, nfla = e._nfl_team_names("401128044")
 #     nflhr, nflar = e._nfl_records("401128044")

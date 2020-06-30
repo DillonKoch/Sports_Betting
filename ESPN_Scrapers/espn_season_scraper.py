@@ -4,7 +4,7 @@
 # File Created: Saturday, 23rd May 2020 11:04:56 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Monday, 29th June 2020 3:43:53 pm
+# Last Modified: Tuesday, 30th June 2020 4:03:09 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -127,6 +127,7 @@ class ESPN_Season_Scraper:
         game = self.game_info_func(game_id)
 
         season = year if self.league in ["NFL", "NCAAF"] else str(int(year) - 1)
+        # row = game.to_row_list(self.league, season, week)
         row = [game.ESPN_ID, season, game.game_date, game.home_name, game.away_name,
                game.home_record, game.away_record,
                game.home_score, game.away_score, game.line, game.over_under,
@@ -272,4 +273,5 @@ if __name__ == "__main__":
     ncaab = ESPN_Season_Scraper("NCAAB")
     # ncaaf.scrape_all_leauge_history()
     # ncaaf.scrape_league_upcoming_season()
-    nba.scrape_unplayed_games()
+    # nba.scrape_unplayed_games()
+    ncaab.scrape_all_leauge_history()

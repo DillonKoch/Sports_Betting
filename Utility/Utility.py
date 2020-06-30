@@ -4,7 +4,7 @@
 # File Created: Friday, 10th April 2020 10:47:51 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Monday, 29th June 2020 2:17:13 pm
+# Last Modified: Tuesday, 30th June 2020 4:09:56 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -40,12 +40,7 @@ def null_if_error(return_num):
             try:
                 return orig_func(*args, **kwargs)
             except BaseException:
-                if return_num == 1:
-                    return "NULL"
-                elif return_num == 2:
-                    return "NULL", "NULL"
-                elif return_num == 3:
-                    return "NULL", "NULL", "NULL"
+                return [None] * return_num
         return wrapper_func
     return null_if_error
 

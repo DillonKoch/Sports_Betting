@@ -4,7 +4,7 @@
 # File Created: Tuesday, 16th June 2020 1:42:34 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Sunday, 28th June 2020 4:51:59 pm
+# Last Modified: Tuesday, 30th June 2020 2:36:29 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -263,10 +263,36 @@ class ESPN_Stat_Scraper:
                         print("Error scraping team stats...")
                         time.sleep(30)
 
+    def update_after_merge(self):  # Run
+        ts = Team_Stats()
+        cols = list(ts.football_dict.values()) if self.football_league else list(ts.basketball_dict.values())
+        df_paths = os.listdir(ROOT_PATH + "/ESPN_Data/{}/".format(self.league))
+
+        for path in df_paths:
+            print(path)
+            df = pd.read_csv(ROOT_PATH + "/ESPN_Data/{}/{}".format(self.league, path))
+
+            null_col_test = "home_passing_yards" if self.football_league else "home_field_goals"
+            null_team_stats_df = df.loc[df[null_col_test].isnull(), :]
+            print("{} games with missing team stats".format(len(null_team_stats_df)))
+
+            for i, row in null_team_stats_df.iterrows():
+                print("{}/{}".format(i, len(null_team_stats_df)))
+                print(row["ESPN_ID"])
+                team_stats = self.run(row['ESPN_ID'])
+                stats_items = list(team_stats.__dict__.items())
+                for col in cols:
+                    items = [tup[1] for tup in stats_items if tup[0] == col][0]
+                    if items is not None:
+                        df.loc[i, "away_" + col] = items[0]
+                        df.loc[i, "home_" + col] = items[1]
+                time.sleep(5)
+
+            df.to_csv(ROOT_PATH + "/ESPN_Data/{}/{}".format(self.league, path))
+
 
 if __name__ == "__main__":
     x = ESPN_Stat_Scraper("NCAAF")
     self = x
+    # x.update_after_merge()
     x.update_league_dfs()
-    # espn_id = '401170371'
-    # team_stats = x.run(espn_id)
