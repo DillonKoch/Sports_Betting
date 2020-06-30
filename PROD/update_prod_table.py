@@ -4,12 +4,15 @@
 # File Created: Wednesday, 24th June 2020 5:15:01 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Wednesday, 24th June 2020 5:43:11 pm
+# Last Modified: Monday, 29th June 2020 4:16:35 pm
 # Modified By: Dillon Koch
 # -----
 #
 # -----
 # File to update any of the PROD csv's - pull newly scraped data, add game results/stats
+# UPDATE PROD WILL NOT DO ANYTHING THAT CREATING PROD FROM SCRATCH WON'T DO
+# THIS FILE WILL JUST UPDATE THE PROD TABLE WITH NEW RESULTS AND SKIP THE WORK ALREADY DONE
+# THIS FILE DOES NOT CREATE/SCRAPE NEW DATA, JUST PULL IT IN FROM ESPN/ESB/ODDS LOCATIONS
 # ==============================================================================
 
 

@@ -4,7 +4,7 @@
 # File Created: Monday, 29th June 2020 3:17:15 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Monday, 29th June 2020 3:32:06 pm
+# Last Modified: Monday, 29th June 2020 3:46:03 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -86,7 +86,7 @@ class ESPN_Unplayed_Scraper(ESPN_Season_Scraper):
             current_df.to_csv(current_df_path, index=False)
 
 
-def parse_season_type(arg_list=None):
+def parse_args(arg_list=None):
     parser = argparse.ArgumentParser()
     parser.add_argument('--league', help="HELP_MSG")
     parser.add_argument('--season_type', help="HELP_MSG")
@@ -105,7 +105,7 @@ def parse_season_type(arg_list=None):
 
 
 if __name__ == "__main__":
-    season_type, league, year = parse_season_type()
+    season_type, league, year = parse_args()
     season_type = 2 if season_type is None else season_type
     print("Scraping {} {}, with season type {}".format(league, year, season_type))
 
