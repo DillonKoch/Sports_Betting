@@ -4,7 +4,7 @@
 # File Created: Tuesday, 30th June 2020 11:58:42 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Wednesday, 1st July 2020 5:22:06 pm
+# Last Modified: Wednesday, 1st July 2020 5:50:57 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -43,7 +43,7 @@ class ESPN_Update_Results:
         self.egs = ESPN_Game_Scraper(self.league)
 
     @property
-    def config(self):
+    def config(self):  # Property
         with open("{}.json".format(self.league.lower())) as f:
             config = json.load(f)
         return config
@@ -81,7 +81,7 @@ class ESPN_Update_Results:
         dfs = [pd.read_csv(df_path) for df_path in df_paths]
         return dfs, df_paths
 
-    def _add_datetime(self, df):  # Helping Helper _remove_preseason Tested
+    def _add_datetime(self, df):  # Specific Helper remove_preseason
         """
         adds datetime in %B %d, %Y format to a dataframe
         """
@@ -108,13 +108,14 @@ class ESPN_Update_Results:
 
             df['is_preseason'] = df.apply(lambda row: add_preseason(row), axis=1)
             df = df.loc[df.is_preseason == False, :]
-            df = df.drop("datetime", axis=1)
+            df = df.drop("is_preseason", axis=1)
         return df
 
     def update_game_results(self, df):  # Top Level
         def update_row_results(row):
             if "Final" in str(row["Final_Status"]):
                 return row
+
             in_two_weeks = datetime.datetime.now() + datetime.timedelta(days=14)
             if datetime.datetime.strptime(row['Date'], "%B %d, %Y") > in_two_weeks:
                 return row
@@ -131,9 +132,11 @@ class ESPN_Update_Results:
         df = df.apply(lambda row: update_row_results(row), axis=1)
         return df
 
-    def update_team_stats(self):
+    def update_team_stats(self, df):
         def update_row_stats(row):
             pass
+
+        return df
 
     def save_dfs(self, dfs, df_paths):  # Top Level
         for df, df_path in zip(dfs, df_paths):
