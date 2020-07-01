@@ -4,7 +4,7 @@
 # File Created: Friday, 10th April 2020 10:47:51 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Tuesday, 30th June 2020 4:09:56 pm
+# Last Modified: Tuesday, 30th June 2020 4:26:40 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -40,7 +40,8 @@ def null_if_error(return_num):
             try:
                 return orig_func(*args, **kwargs)
             except BaseException:
-                return [None] * return_num
+                result = tuple([None] * return_num)
+                return result if len(result) > 1 else None
         return wrapper_func
     return null_if_error
 

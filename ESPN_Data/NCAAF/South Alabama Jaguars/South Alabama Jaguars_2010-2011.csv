@@ -1,8 +1,8 @@
-ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League
-302750006,2010,"October 02, 2010",,,,,,,,,,,N,U,L,L,,N,U,L,L,,NCAAF
-302960302,2010,"October 23, 2010",,,,,,,,,,,N,U,L,L,,N,U,L,L,,NCAAF
-303100006,2010,"November 06, 2010",,,,,,,,,,,N,U,L,L,,N,U,L,L,,NCAAF
-302610006,2010,"September 18, 2010",,,,,,,,,,,N,U,L,L,,N,U,L,L,,NCAAF
-302892320,2010,"October 16, 2010",,,,,,,,,,,N,U,L,L,,N,U,L,L,,NCAAF
-303030006,2010,"October 30, 2010",,,,,,,,,,,N,U,L,L,,N,U,L,L,,NCAAF
-303150006,2010,"November 11, 2010",,,,,,,,,,,N,U,L,L,,N,U,L,L,,NCAAF
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,HQ1,HQ2,HQ3,HQ4,HOT,AQ1,AQ2,AQ3,AQ4,AOT,League,home_first_downs,away_first_downs,home_total_yards,away_total_yards,home_passing_yards,away_passing_yards,home_rushing_yards,away_rushing_yards,home_penalties,away_penalties,home_turnovers,away_turnovers,home_possession,away_possession,home_third_down_eff,away_third_down_eff,home_fourth_down_eff,away_fourth_down_eff,home_completions_attempts,away_completions_attempts,home_yards_per_pass,away_yards_per_pass,home_interceptions_thrown,away_interceptions_thrown,home_rushing_attempts,away_rushing_attempts,home_yards_per_rush,away_yards_per_rush,home_fumbles_lost,away_fumbles_lost,home_total_plays,away_total_plays,home_total_drives,away_total_drives,home_yards_per_play,away_yards_per_play,home_redzone_made_att,away_redzone_made_att,home_dst_touchdowns,away_dst_touchdowns,home_passing_first_downs,away_passing_first_downs,home_rushing_first_downs,away_rushing_first_downs,home_first_downs_from_penalties,away_first_downs_from_penalties,home_sacks_yards_lost,away_sacks_yards_lost
+302750006,2010,"October 02, 2010",,,,,,,,,,,N,U,L,L,,N,U,L,L,,NCAAF,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+302960302,2010,"October 23, 2010",,,,,,,,,,,N,U,L,L,,N,U,L,L,,NCAAF,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+303100006,2010,"November 06, 2010",,,,,,,,,,,N,U,L,L,,N,U,L,L,,NCAAF,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+302610006,2010,"September 18, 2010",,,,,,,,,,,N,U,L,L,,N,U,L,L,,NCAAF,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+302892320,2010,"October 16, 2010",,,,,,,,,,,N,U,L,L,,N,U,L,L,,NCAAF,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+303030006,2010,"October 30, 2010",,,,,,,,,,,N,U,L,L,,N,U,L,L,,NCAAF,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+303150006,2010,"November 11, 2010",,,,,,,,,,,N,U,L,L,,N,U,L,L,,NCAAF,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

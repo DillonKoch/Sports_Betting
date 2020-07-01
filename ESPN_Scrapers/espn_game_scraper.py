@@ -4,10 +4,9 @@
 # File Created: Tuesday, 7th April 2020 7:34:33 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Tuesday, 30th June 2020 4:07:07 pm
+# Last Modified: Tuesday, 30th June 2020 5:40:47 pm
 # Modified By: Dillon Koch
 # -----
-#
 #
 # -----
 # File for scraping game data from ESPN
@@ -23,131 +22,45 @@ ROOT_PATH = dirname(dirname(abspath(__file__)))
 if ROOT_PATH not in sys.path:
     sys.path.append(ROOT_PATH)
 
-
 from Utility.Utility import get_sp1, null_if_error
-
-
-class Game:
-    """
-     Represents one game from ESPN in any league
-    """
-
-    def __init__(self):
-        self.ESPN_ID = None
-        self.home_name = None
-        self.away_name = None
-        self.home_record = None
-        self.away_record = None
-        self.final_status = None
-        self.home_qscores = None
-        self.away_qscores = None
-        self.home_score = None
-        self.away_score = None
-        self.home_half_scores = None
-        self.away_half_scores = None
-        self.network = None
-        self.line = None
-        self.over_under = None
-        self.league = None
-        self.game_date = None
-
-    def _get_ncaab_scores(self):  # Specific Helper to_row_list
-        scores = []
-        for score_list in [self.home_half_scores, self.away_half_scores]:
-            num_scores = len(score_list)
-            try:
-                if num_scores == 4:
-                    first_half = int(score_list[0]) + int(score_list[1])
-                    second_half = int(score_list[2]) + int(score_list[3])
-                    scores += [first_half, second_half, None]
-                elif num_scores == 5:
-                    first_half = int(score_list[0]) + int(score_list[1])
-                    second_half = int(score_list[2]) + int(score_list[3])
-                    scores += [first_half, second_half, score_list[4]]
-                elif num_scores == 2:
-                    scores += score_list
-                    scores.append(None)
-            except Exception as e:
-                print(e)
-                scores = [None] * 6
-        return scores
-
-    def _get_non_ncaab_scores(self):  # Specific Helper to_row_list
-        scores = []
-        try:
-            for score_list in [self.home_qscores, self.away_qscores]:
-                scores += score_list
-                if len(score_list) == 4:
-                    scores.append(None)
-        except Exception as e:
-            print(e)
-            scores = [None] * 10
-        return scores
-
-    def _test_row(self, row, league):  # QA Testing
-        if league == "NCAAB":
-            assert len(row) == 20
-        elif league == "NFL":
-            assert len(row) == 25
-        else:
-            assert len(row) == 24
-
-    def to_row_list(self, league, season, week=None):  # Run
-        row = [self.ESPN_ID, season, self.game_date, self.home_name, self.away_name,
-               self.home_record, self.away_record, self.home_score, self.away_score,
-               self.line, self.over_under, self.final_status, self.network]
-        if league == "NCAAB":
-            row += self._get_ncaab_scores()
-        else:
-            row += self._get_non_ncaab_scores()
-
-        if league == "NFL":
-            row.append(week)
-        row.append(league)
-
-        print(row)
-        self._test_row(row)
-        return row
+from ESPN_Scrapers.espn_game import Game
 
 
 class ESPN_Game_Scraper:
     """
-     Scrapes data for a game on ESPN.com
+     Scrapes data for a game on ESPN.com and returns it in a Game object from espn_game.py
     """
 
-    def __init__(self):
-        self.link_dict = {
+    def __init__(self, league: str):
+        self.league = league
+
+    @property
+    def link_prefix(self):  # Property
+        link_dict = {
             "NFL": 'https://www.espn.com/nfl/game/_/gameId/',
             "NCAAF": 'https://www.espn.com/college-football/game/_/gameId/',
             "NBA": 'https://www.espn.com/nba/game?gameId=',
             "NCAAB": 'https://www.espn.com/mens-college-basketball/game?gameId=',
         }
+        return link_dict[self.league]
 
-    def _sp_helper(self, league: str, game_id: str, sp=False):  # Global Helper
+    def _sp_helper(self, game_id: str, sp=False):  # Global Helper
         """
         Scrapes html for an ESPN game if sp=False.
         If an sp is given, it's returned as it came
         """
         if not sp:
-            sp = get_sp1(self.link_dict[league] + str(game_id))
+            sp = get_sp1(self.link_prefix + str(game_id))
             return sp
         else:
             return sp
 
-    def _letter_in_string(self, td_str):
-        for char in td_str:
-            if char in string.ascii_letters:
-                return True
-        return False
-
-    # ########### GAME INFO FUNCTIONS ####################
-
     @null_if_error(2)
-    def _team_names(self, league: str, game_id: str, sp=False):  # Global Helper
+    def team_names(self, game_id: str, sp=False):  # Top Level
         """
         returns the home, away team names of the game
         """
-        sp = self._sp_helper(league, game_id, sp)
+        sp = self._sp_helper(game_id, sp)
         locations = sp.find_all('span', attrs={'class': 'long-name'})
         away_loc = locations[0].get_text()
         home_loc = locations[1].get_text()
@@ -162,32 +75,35 @@ class ESPN_Game_Scraper:
         return home_full, away_full
 
     @null_if_error(2)
-    def _team_records(self, league: str, game_id: str, sp=False):  # Global Helper
+    def team_records(self, game_id: str, sp=False):  # Top Level
         """
         returns the home, away team records from the game
         if the game is over, these records will include the outcome of the game
         """
-        sp = self._sp_helper(league, game_id, sp)
+        sp = self._sp_helper(game_id, sp)
         records = sp.find_all('div', attrs={'class': 'record'})
         away_record, home_record = [item.get_text() for item in records]
         return home_record, away_record
 
     @null_if_error(1)
-    def _final_status(self, league: str, game_id: str, sp=False):  # Global Helper
+    def final_status(self, game_id: str, sp=False):  # Top Level
         """
         Returns a string indicating if the game is over, includes OT if applicable
         """
-        sp = self._sp_helper(league, game_id, sp)
+        sp = self._sp_helper(game_id, sp)
         status = sp.find_all('span', attrs={'class': 'game-time status-detail'})
         status = status[0].get_text()
         return status
 
-    @null_if_error(2)
-    def _quarter_scores(self, league: str, game_id: str, sp=False):  # Global Helper
-        """
-        Returns the home, away scores for each quarter/half of the game, and possibly overtime
-        """
-        sp = self._sp_helper(league, game_id, sp)
+    def _letter_in_string(self, td_str: str):  # Helping Helper _quarter_scores_func
+        for char in td_str:
+            if char in string.ascii_letters:
+                return True
+        return False
+
+    @staticmethod
+    def _quarter_scores_func(game_id: str, sp=False):  # Specific Helper quarter_scores, half_scores
+        sp = self._sp_helper(game_id, sp)
         td_htmls = [item.get_text() for item in sp.find_all('td')]
 
         away_scores = []
@@ -207,15 +123,40 @@ class ESPN_Game_Scraper:
 
         assert len(home_scores) > 2  # need this so we don't return empty lists
         assert len(away_scores) > 2
+        _ = [int(item) if item is not None else item for item in home_scores + away_scores]  # making sure all ints or None
+        return home_scores[:-1], away_scores[:-1]  # last value is final score
 
-        return home_scores[:-1], away_scores[:-1]
+    def quarter_scores(self, game_id: str, sp=False):  # Top Level
+        """
+        Returns the home, away scores for each quarter/half of the game, and possibly overtime
+        [None] * 10 will be returned if there's an error, so it fits into the dataframe
+        """
+        try:
+            home, away = self._quarter_scores_func(game_id, sp)
+            assert len(home) == 5
+            assert len(away) == 5
+            return home, away
+        except BaseException:
+            return [[None] * 5] * 2
+
+    def half_scores(self, game_id: str, sp=False):  # Top Level
+        """
+        runs quarter scores, but returns 6 None's if there's an error instead of 10
+        """
+        try:
+            home, away = self._quarter_scores_func(game_id, sp)
+            assert len(home) == 3
+            assert len(away) == 3
+            return home, away
+        except BaseException:
+            return [[None] * 3] * 2
 
     @null_if_error(2)
-    def _game_scores(self, league, game_id, sp=False):  # Global Helper
+    def game_scores(self, game_id, sp=False):  # Top Level
         """
         returns the home, away final score of the game
         """
-        sp = self._sp_helper(league, game_id, sp)
+        sp = self._sp_helper(game_id, sp)
         away_score = sp.find_all('div', attrs={'class': 'score icon-font-after'})
         away_score = away_score[0].get_text()
 
@@ -225,12 +166,12 @@ class ESPN_Game_Scraper:
         return home_score, away_score
 
     @null_if_error(2)
-    def _line_ou(self, league, game_id, sp=False):  # Global Helper
+    def line_over_under(self, game_id, sp=False):  # Top Level
         """
         returns the line and over under of the game from ESPN
         most games before 2018 have no data for this, so they return None
         """
-        sp = self._sp_helper(league, game_id, sp)
+        sp = self._sp_helper(game_id, sp)
         li_htmls = [item.get_text() for item in sp.find_all('li')]
 
         line_comp = re.compile(r"^Line: (.+)$")
@@ -249,11 +190,11 @@ class ESPN_Game_Scraper:
         return line, over_under
 
     @null_if_error(1)
-    def _game_network(self, league, game_id, sp=False):  # Global Helper
+    def game_network(self, game_id, sp=False):  # Top Level
         """
         returns the TV network the game was on (e.g. ESPN, FOX, etc)
         """
-        sp = self._sp_helper(league, game_id, sp)
+        sp = self._sp_helper(game_id, sp)
         network = sp.find_all('div', attrs={'class': 'game-network'})
         network = network[0].get_text()
         network = network.replace("\n", '').replace("\t", "")
@@ -261,179 +202,42 @@ class ESPN_Game_Scraper:
         return network
 
     @null_if_error(1)
-    def _game_date(self, league, game_id, sp=False):  # Global Helper
+    def game_date(self, game_id, sp=False):  # Top Level
         """
         returns the date of the game in "%B %d, %Y" format (November 12, 2019)
         """
-        sp = self._sp_helper(league, game_id, sp)
+        sp = self._sp_helper(game_id, sp)
         str_sp = str(sp)
         reg_comp = re.compile(
             r"Game Summary - ((January|February|March|April|May|June|July|August|September|October|November|December) \d{1,2}, \d{4})")
         match = re.search(reg_comp, str_sp)
         return match.group(1)
 
-    # ############## LEAGUE SPECIFIC FUNCTIONS ################
-
-    def all_nfl_info(self, game_id, sp=False):  # Run
+    def run(self, game_id, sp=False):  # Run
         """
-        all_nfl_info creates a Game object containing data about an NFL game
-
-        Parameters
-        ----------
-        game_id : str
-            The ID at the end of an ESPN Game Summary link, usually 8-9 digits
-        sp : bool, optional
-            html if it's already been scraped, by default False
-
-        Returns
-        -------
-        Game object
-            Contains main data about the game from ESPN
+        Applies all the top level functions and returns a Game object with the game's data
         """
-        sp = self._sp_helper("NFL", game_id, sp)
-        game = Game()
+        game = Game(self.league)
         game.ESPN_ID = game_id
-        game.home_name, game.away_name = self._team_names("NFL", game_id, sp)
-        game.home_record, game.away_record = self._team_records("NFL", game_id, sp)
-        game.final_status = self._final_status("NFL", game_id, sp)
-        game.home_qscores, game.away_qscores = self._quarter_scores("NFL", game_id, sp)
-        game.home_score, game.away_score = self._game_scores("NFL", game_id, sp)
-        game.network = self._game_network("NFL", game_id, sp)
-        game.line, game.over_under = self._line_ou("NFL", game_id, sp)
-        game.game_date = self._game_date("NFL", game_id, sp)
-        game.league = "NFL"
+        game.home_name, game.away_name = self.team_names(game_id, sp)
+        game.home_record, game.away_record = self.team_records(game_id, sp)
+        game.final_status = self.final_status(game_id, sp)
+        game.home_score, game.away_score = self.game_scores(game_id, sp)
+        game.network = self.game_network(game_id, sp)
+        game.line, game.over_under = self.line_over_under(game_id, sp)
+        game.game_date = self.game_date(game_id, sp)
+        game.league = self.league
+        if self.league == "NCAAB":
+            game.home_half_scores, game.away_half_scores = self.half_scores(game_id, sp)
+        else:
+            game.home_qscores, game.away_qscores = self.quarter_scores(game_id, sp)
         return game
-
-    def all_nba_info(self, game_id, sp=False):  # Run
-        """
-        all_nba_info creates a Game object containing data about an NBA game
-
-        Parameters
-        ----------
-        game_id : str
-            The ID at the end of an ESPN Game Summary link, usually 8-9 digits
-        sp : bool, optional
-            html if it's already been scraped, by default False
-
-        Returns
-        -------
-        Game object
-            Contains main data about the game from ESPN
-        """
-        sp = self._sp_helper("NBA", game_id, sp)
-        game = Game()
-        game.ESPN_ID = game_id
-        game.home_name, game.away_name = self._team_names("NBA", game_id, sp)
-        game.home_record, game.away_record = self._team_records("NBA", game_id, sp)
-        game.final_status = self._final_status("NBA", game_id, sp)
-        game.home_qscores, game.away_qscores = self._quarter_scores("NBA", game_id, sp)
-        game.home_score, game.away_score = self._game_scores("NBA", game_id, sp)
-        game.network = self._game_network("NBA", game_id, sp)
-        game.line, game.over_under = self._line_ou("NBA", game_id, sp)
-        game.game_date = self._game_date("NBA", game_id, sp)
-        game.league = "NBA"
-        return game
-
-    def all_ncaaf_info(self, game_id, sp=False):  # Run
-        """
-        all_ncaaf_info creates a Game object containing data about an NCAAF game
-
-        Parameters
-        ----------
-        game_id : str
-            The ID at the end of an ESPN Game Summary link, usually 8-9 digits
-        sp : bool, optional
-            html if it's already been scraped, by default False
-
-        Returns
-        -------
-        Game object
-            Contains main data about the game from ESPN
-        """
-        sp = self._sp_helper("NCAAF", game_id, sp)
-        game = Game()
-        game.ESPN_ID = game_id
-        game.home_name, game.away_name = self._team_names("NCAAF", game_id, sp)
-        game.home_record, game.away_record = self._team_records("NCAAF", game_id, sp)
-        game.final_status = self._final_status("NCAAF", game_id, sp)
-        game.home_qscores, game.away_qscores = self._quarter_scores("NCAAF", game_id, sp)
-        game.home_score, game.away_score = self._game_scores("NCAAF", game_id, sp)
-        game.network = self._game_network("NCAAF", game_id, sp)
-        game.line, game.over_under = self._line_ou("NCAAF", game_id, sp)
-        game.game_date = self._game_date("NCAAF", game_id, sp)
-        game.league = "NCAAF"
-        return game
-
-    def all_ncaab_info(self, game_id, sp=False):  # Run
-        """
-        all_ncaab_info creates a Game object containing data about an NCAAB game
-
-        Parameters
-        ----------
-        game_id : str
-            The ID at the end of an ESPN Game Summary link, usually 8-9 digits
-        sp : bool, optional
-            html if it's already been scraped, by default False
-
-        Returns
-        -------
-        Game object
-            Contains main data about the game from ESPN
-        """
-        sp = self._sp_helper("NCAAB", game_id, sp)
-        game = Game()
-        game.ESPN_ID = game_id
-        game.home_name, game.away_name = self._team_names("NCAAB", game_id, sp)
-        game.home_record, game.away_record = self._team_records("NCAAB", game_id, sp)
-        game.final_status = self._final_status("NCAAB", game_id, sp)
-        game.home_half_scores, game.away_half_scores = self._quarter_scores("NCAAB", game_id, sp)
-        game.home_score, game.away_score = self._game_scores("NCAAB", game_id, sp)
-        game.network = self._game_network("NCAAB", game_id, sp)
-        game.line, game.over_under = self._line_ou("NCAAB", game_id, sp)
-        game.game_date = self._game_date("NCAAB", game_id, sp)
-        game.league = "NCAAB"
-        return game
-
-    # ########### NHL ###############  NOT USING THESE AT THE MOMENT
-
-    def _hockey_team_names(self, game_id, sp=False):
-        sp = self._sp_helper("NHL", game_id, sp)
-
-        team_names = sp.find_all('div', attrs={'class': "ScoreCell__TeamName ScoreCell__TeamName--displayName truncate db"})
-        away_full, home_full = [item.get_text() for item in team_names]
-
-        return home_full, away_full
-
-    def _hockey_records(self, game_id, sp=False):
-        sp = self._sp_helper("NHL", game_id, sp)
-
-        records = sp.find_all('div', attrs={'class': 'Gamestrip__Record db n10 clr-gray-03'})
-        away_record, home_record = [item.get_text() for item in records]
-
-        return home_record, away_record
-
-    def hockey_score(self, game_id, sp=False):
-        sp = self._sp_helper("NHL", game_id, sp)
-
-        scores = sp.find_all('div', attrs={'class': 'Gamestrip__Score relative tc w-100 fw-heavy h2 clr-gray-01'})
-        away_score, home_score = [item.get_text() for item in scores]
-
-        return home_score, away_score
-
-    def all_hockey_info(self, game_id):
-        link = self.link_dict["NHL"] + str(game_id)
-        sp = get_sp1(link)
-
-        home_team, away_team = self._hockey_team_names(game_id, sp)
-        home_record, away_record = self._hockey_records(game_id, sp)
-        home_score, away_score = self.hockey_score(game_id, sp)
 
 
 if __name__ == "__main__":
-    x = ESPN_Game_Scraper()
+    x = ESPN_Game_Scraper("NCAAB")
     self = x
-    # match = e._game_date("NFL", "401128044")
-#     nflh, nfla = e._nfl_team_names("401128044")
-#     nflhr, nflar = e._nfl_records("401128044")
-#     status = e._nfl_final_status("401128044")
-#     home_score, away_score = e.nfl_scores("401128044")
+    nfl_game_id = "401128044"
+    nba_game_id = "401160782"
+    ncaaf_game_id = "401112199"
+    ncaab_game_id = "401166198"

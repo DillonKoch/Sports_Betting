@@ -4,7 +4,7 @@
 # File Created: Friday, 10th April 2020 11:25:21 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Friday, 19th June 2020 4:16:56 pm
+# Last Modified: Tuesday, 30th June 2020 4:21:06 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -36,8 +36,6 @@ class Test_ESPN_Game_Scraper(TestCase):
     ncaaf_sp = espn._sp_helper("NCAAF", ncaaf_game_id)
     ncaab_game_id = "401166198"
     ncaab_sp = espn._sp_helper("NCAAB", ncaab_game_id)
-    hockey_game_id = "401146120"
-    hockey_sp = espn._sp_helper("NHL", hockey_game_id)
 
     def setUp(self):
         self.espn = ESPN_Game_Scraper()
@@ -48,8 +46,8 @@ class Test_ESPN_Game_Scraper(TestCase):
         self.assertEqual("Pittsburgh Steelers", away_name)
 
         home_name, away_name = self.espn._team_names("NFL", "4011asnvisd")
-        self.assertEqual("NULL", home_name)
-        self.assertEqual("NULL", away_name)
+        self.assertEqual(None, home_name)
+        self.assertEqual(None, away_name)
 
     def test_nfl_records(self):
         home_record, away_record = self.espn._team_records("NFL", self.nfl_game_id, sp=self.nfl_sp)
@@ -57,15 +55,15 @@ class Test_ESPN_Game_Scraper(TestCase):
         self.assertEqual("5-5, 1-3 Away", away_record)
 
         home_record, away_record = self.espn._team_records("NFL", "40119999999")
-        self.assertEqual("NULL", home_record)
-        self.assertEqual("NULL", away_record)
+        self.assertEqual(None, home_record)
+        self.assertEqual(None, away_record)
 
     def test_nfl_final_status(self):
         status = self.espn._final_status("NFL", self.nfl_game_id, sp=self.nfl_sp)
         self.assertEqual("Final", status)
 
         status = self.espn._final_status("NFL", "40112983789")
-        self.assertEqual("NULL", status)
+        self.assertEqual(None, status)
 
     def test_nfl_quarter_scores(self):
         home_scores, away_scores = self.espn._quarter_scores("NFL", self.nfl_game_id, sp=self.nfl_sp)
@@ -73,8 +71,8 @@ class Test_ESPN_Game_Scraper(TestCase):
         self.assertEqual(['0', '0', '7', '0'], away_scores)
 
         home_scores, away_scores = self.espn._quarter_scores("NFL", "09a789798326")
-        self.assertEqual("NULL", home_scores)
-        self.assertEqual("NULL", away_scores)
+        self.assertEqual(None, home_scores)
+        self.assertEqual(None, away_scores)
 
     def test_nfl_overtime_quarter_scores(self):
         home_scores, away_scores = self.espn._quarter_scores("NFL", "401127972")
@@ -82,8 +80,8 @@ class Test_ESPN_Game_Scraper(TestCase):
         self.assertEqual(['0', '6', '10', '8', '0'], away_scores)
 
         home_scores, away_scores = self.espn._quarter_scores("NFL", "asdvndk")
-        self.assertEqual("NULL", home_scores)
-        self.assertEqual("NULL", away_scores)
+        self.assertEqual(None, home_scores)
+        self.assertEqual(None, away_scores)
 
     def test_nfl_scores(self):
         home_score, away_score = self.espn._game_scores("NFL", self.nfl_game_id, sp=self.nfl_sp)
@@ -91,15 +89,15 @@ class Test_ESPN_Game_Scraper(TestCase):
         self.assertEqual("7", away_score)
 
         home_score, away_score = self.espn._game_scores("NFL", "4011579")
-        self.assertEqual("NULL", home_score)
-        self.assertEqual("NULL", away_score)
+        self.assertEqual(None, home_score)
+        self.assertEqual(None, away_score)
 
     def test_nfl_game_network(self):
         network = self.espn._game_network("NFL", self.nfl_game_id, sp=self.nfl_sp)
         self.assertEqual("FOX/NFL", network)
 
         network = self.espn._game_network("NFL", "401283229")
-        self.assertEqual("NULL", network)
+        self.assertEqual(None, network)
 
     def test_nfl_line_ou(self):
         line, over_under = self.espn._line_ou("NFL", self.nfl_game_id, sp=self.nfl_sp)
@@ -137,8 +135,8 @@ class Test_ESPN_Game_Scraper(TestCase):
         self.assertEqual("Minnesota Timberwolves", away_name)
 
         home_name, away_name = self.espn._team_names("NBA", "4011asnvisd")
-        self.assertEqual("NULL", home_name)
-        self.assertEqual("NULL", away_name)
+        self.assertEqual(None, home_name)
+        self.assertEqual(None, away_name)
 
     def test_nba_records(self):
         home_record, away_record = self.espn._team_records("NBA", self.nba_game_id, sp=self.nba_sp)
@@ -146,15 +144,15 @@ class Test_ESPN_Game_Scraper(TestCase):
         self.assertEqual("6-4, 4-2 Away", away_record)
 
         home_record, away_record = self.espn._team_records("NBA", "40119999999")
-        self.assertEqual("NULL", home_record)
-        self.assertEqual("NULL", away_record)
+        self.assertEqual(None, home_record)
+        self.assertEqual(None, away_record)
 
     def test_nba_final_status(self):
         status = self.espn._final_status("NBA", self.nba_game_id, sp=self.nba_sp)
         self.assertEqual("Final", status)
 
         status = self.espn._final_status("NBA", "40112983789")
-        self.assertEqual("NULL", status)
+        self.assertEqual(None, status)
 
     def test_nba_quarter_scores(self):
         home_qscores, away_qscores = self.espn._quarter_scores("NBA", self.nba_game_id, sp=self.nba_sp)
@@ -162,8 +160,8 @@ class Test_ESPN_Game_Scraper(TestCase):
         self.assertEqual(["26", "25", "30", "33"], home_qscores)
 
         home_scores, away_scores = self.espn._quarter_scores("NBA", "09a789798326")
-        self.assertEqual("NULL", home_scores)
-        self.assertEqual("NULL", away_scores)
+        self.assertEqual(None, home_scores)
+        self.assertEqual(None, away_scores)
 
     def test_nba_overtime_quarter_scores(self):
         home_scores, away_scores = self.espn._quarter_scores("NBA", "401161460")
@@ -171,8 +169,8 @@ class Test_ESPN_Game_Scraper(TestCase):
         self.assertEqual(["30", "30", "31", "23", "27"], home_scores)
 
         home_scores, away_scores = self.espn._quarter_scores("NBA", "asdvndk")
-        self.assertEqual("NULL", home_scores)
-        self.assertEqual("NULL", away_scores)
+        self.assertEqual(None, home_scores)
+        self.assertEqual(None, away_scores)
 
     def test_nba_scores(self):
         home_score, away_score = self.espn._game_scores("NBA", self.nba_game_id, self.nba_sp)
@@ -180,15 +178,15 @@ class Test_ESPN_Game_Scraper(TestCase):
         self.assertEqual("120", away_score)
 
         home_score, away_score = self.espn._game_scores("NFL", "4011579")
-        self.assertEqual("NULL", home_score)
-        self.assertEqual("NULL", away_score)
+        self.assertEqual(None, home_score)
+        self.assertEqual(None, away_score)
 
     def test_nba_game_network(self):
         network = self.espn._game_network("NBA", "401160624")
         self.assertEqual("TNT", network)
 
         network = self.espn._game_network("NFL", "401283229")
-        self.assertEqual("NULL", network)
+        self.assertEqual(None, network)
 
     def test_nba_line_ou(self):
         line, over_under = self.espn._line_ou("NBA", self.nba_game_id, self.nba_sp)
@@ -204,7 +202,7 @@ class Test_ESPN_Game_Scraper(TestCase):
         self.assertEqual('November 11, 2019', date)
 
         date = self.espn._game_date("NCAAF", "1290dj2190")
-        self.assertEqual("NULL", date)
+        self.assertEqual(None, date)
 
     def test_all_nba_info(self):
         game = self.espn.all_nba_info(self.nba_game_id, self.nba_sp)
@@ -218,7 +216,7 @@ class Test_ESPN_Game_Scraper(TestCase):
         self.assertEqual(["26", "25", "30", "33"], game.home_qscores)
         self.assertEqual("114", game.home_score)
         self.assertEqual("120", game.away_score)
-        self.assertEqual("NULL", game.network)
+        self.assertEqual(None, game.network)
         self.assertEqual("DET -4.0", game.line)
         self.assertEqual("223", game.over_under)
         self.assertEqual("November 11, 2019", game.game_date)
@@ -229,8 +227,8 @@ class Test_ESPN_Game_Scraper(TestCase):
         self.assertEqual("Minnesota Golden Gophers", away_name)
 
         home_name, away_name = self.espn._team_names("NCAAF", "4011asnvisd")
-        self.assertEqual("NULL", home_name)
-        self.assertEqual("NULL", away_name)
+        self.assertEqual(None, home_name)
+        self.assertEqual(None, away_name)
 
     def test_ncaaf_records(self):
         home_record, away_record = self.espn._team_records("NCAAF", self.ncaaf_game_id, self.ncaaf_sp)
@@ -238,15 +236,15 @@ class Test_ESPN_Game_Scraper(TestCase):
         self.assertEqual("9-1, 6-1 Conf", away_record)
 
         home_record, away_record = self.espn._team_records("NCAAF", "40119999999")
-        self.assertEqual("NULL", home_record)
-        self.assertEqual("NULL", away_record)
+        self.assertEqual(None, home_record)
+        self.assertEqual(None, away_record)
 
     def test_ncaaf_final_status(self):
         status = self.espn._final_status("NCAAF", self.ncaaf_game_id, self.ncaaf_sp)
         self.assertEqual("Final", status)
 
         status = self.espn._final_status("NCAAF", "40112983789")
-        self.assertEqual("NULL", status)
+        self.assertEqual(None, status)
 
     def test_ncaaf_quarter_scores(self):
         home_qscores, away_qscores = self.espn._quarter_scores("NCAAF", self.ncaaf_game_id, self.ncaaf_sp)
@@ -254,8 +252,8 @@ class Test_ESPN_Game_Scraper(TestCase):
         self.assertEqual(['0', '6', '7', '6'], away_qscores)
 
         home_scores, away_scores = self.espn._quarter_scores("NCAAF", "09a789798326")
-        self.assertEqual("NULL", home_scores)
-        self.assertEqual("NULL", away_scores)
+        self.assertEqual(None, home_scores)
+        self.assertEqual(None, away_scores)
 
     def test_overtime_ncaaf_quarter_scores(self):
         home_scores, away_scores = self.espn._quarter_scores("NCAAF", "401112085")
@@ -263,8 +261,8 @@ class Test_ESPN_Game_Scraper(TestCase):
         self.assertEqual(["0", "0", "13", "0", "13"], away_scores)
 
         home_scores, away_scores = self.espn._quarter_scores("NCAAF", "asdvndk")
-        self.assertEqual("NULL", home_scores)
-        self.assertEqual("NULL", away_scores)
+        self.assertEqual(None, home_scores)
+        self.assertEqual(None, away_scores)
 
     def test_ncaaf_scores(self):
         home_score, away_score = self.espn._game_scores("NCAAF", self.ncaaf_game_id, self.ncaaf_sp)
@@ -272,15 +270,15 @@ class Test_ESPN_Game_Scraper(TestCase):
         self.assertEqual("19", away_score)
 
         home_score, away_score = self.espn._game_scores("NCAAF", "4011579")
-        self.assertEqual("NULL", home_score)
-        self.assertEqual("NULL", away_score)
+        self.assertEqual(None, home_score)
+        self.assertEqual(None, away_score)
 
     def test_ncaaf_game_network(self):
         network = self.espn._game_network("NCAAF", self.ncaaf_game_id, self.ncaaf_sp)
         self.assertEqual("FOX", network)
 
         network = self.espn._game_network("NCAAF", "401283229")
-        self.assertEqual("NULL", network)
+        self.assertEqual(None, network)
 
     def test_ncaaf_line_ou(self):
         line, over_under = self.espn._line_ou("NCAAF", self.ncaaf_game_id, self.ncaaf_sp)
@@ -296,7 +294,7 @@ class Test_ESPN_Game_Scraper(TestCase):
         self.assertEqual('November 16, 2019', date)
 
         date = self.espn._game_date("NCAAF", "98457295")
-        self.assertEqual("NULL", date)
+        self.assertEqual(None, date)
 
     def test_all_ncaaf_info(self):
         game = self.espn.all_ncaaf_info(self.ncaaf_game_id, self.ncaaf_sp)
@@ -321,8 +319,8 @@ class Test_ESPN_Game_Scraper(TestCase):
         self.assertEqual("Minnesota Golden Gophers", away_name)
 
         home_name, away_name = self.espn._team_names("NCAAB", "4011asnvisd")
-        self.assertEqual("NULL", home_name)
-        self.assertEqual("NULL", away_name)
+        self.assertEqual(None, home_name)
+        self.assertEqual(None, away_name)
 
     def test_ncaab_records(self):
         home_record, away_record = self.espn._team_records("NCAAB", self.ncaab_game_id, self.ncaab_sp)
@@ -330,15 +328,15 @@ class Test_ESPN_Game_Scraper(TestCase):
         self.assertEqual("11-10, 5-6 Conf", away_record)
 
         home_record, away_record = self.espn._team_records("NCAAB", "40119999999")
-        self.assertEqual("NULL", home_record)
-        self.assertEqual("NULL", away_record)
+        self.assertEqual(None, home_record)
+        self.assertEqual(None, away_record)
 
     def test_ncaab_final_status(self):
         status = self.espn._final_status("NCAAB", self.ncaab_game_id, self.ncaab_sp)
         self.assertEqual("Final", status)
 
         status = self.espn._final_status("NCAAB", "40112983789")
-        self.assertEqual("NULL", status)
+        self.assertEqual(None, status)
 
     def test_ncaab_half_scores(self):
         home_half_scores, away_half_scores = self.espn._quarter_scores("NCAAB", self.ncaab_game_id, self.ncaab_sp)
@@ -346,8 +344,8 @@ class Test_ESPN_Game_Scraper(TestCase):
         self.assertEqual(['24', '35'], home_half_scores)
 
         home_scores, away_scores = self.espn._quarter_scores("NCAAB", "asdvndk")
-        self.assertEqual("NULL", home_scores)
-        self.assertEqual("NULL", away_scores)
+        self.assertEqual(None, home_scores)
+        self.assertEqual(None, away_scores)
 
     def test_overtime_ncaab_half_scores(self):
         home_half_scores, away_half_scores = self.espn._quarter_scores("NCAAB", "400915005")
@@ -355,8 +353,8 @@ class Test_ESPN_Game_Scraper(TestCase):
         self.assertEqual(["36", "38", "9"], away_half_scores)
 
         home_scores, away_scores = self.espn._quarter_scores("NCAAB", "asdvndk")
-        self.assertEqual("NULL", home_scores)
-        self.assertEqual("NULL", away_scores)
+        self.assertEqual(None, home_scores)
+        self.assertEqual(None, away_scores)
 
     def test_ncaab_scores(self):
         home_score, away_score = self.espn._game_scores("NCAAB", self.ncaab_game_id, self.ncaab_sp)
@@ -364,15 +362,15 @@ class Test_ESPN_Game_Scraper(TestCase):
         self.assertEqual("51", away_score)
 
         home_score, away_score = self.espn._game_scores("NCAAB", "4011579")
-        self.assertEqual("NULL", home_score)
-        self.assertEqual("NULL", away_score)
+        self.assertEqual(None, home_score)
+        self.assertEqual(None, away_score)
 
     def test_ncaab_game_network(self):
         network = self.espn._game_network("NCAAB", self.ncaab_game_id, self.ncaab_sp)
         self.assertEqual("FS1", network)
 
         network = self.espn._game_network("NCAAB", "401283229")
-        self.assertEqual("NULL", network)
+        self.assertEqual(None, network)
 
     def test_ncaab_line_ou(self):
         line, over_under = self.espn._line_ou("NCAAB", self.ncaab_game_id, self.ncaab_sp)
@@ -388,7 +386,7 @@ class Test_ESPN_Game_Scraper(TestCase):
         self.assertEqual("January 30, 2020", date)
 
         date = self.espn._game_date("NCAAB", "40148220932")
-        self.assertEqual("NULL", date)
+        self.assertEqual(None, date)
 
     def test_all_ncaab_info(self):
         game = self.espn.all_ncaab_info(self.ncaab_game_id, self.ncaab_sp)
@@ -406,20 +404,20 @@ class Test_ESPN_Game_Scraper(TestCase):
         self.assertEqual("135", game.over_under)
         self.assertEqual("January 30, 2020", game.game_date)
 
-    def test_hockey_team_names(self):
-        home_name, away_name = self.espn._hockey_team_names(self.hockey_game_id, sp=self.hockey_sp)
+    # def test_hockey_team_names(self):
+    #     home_name, away_name = self.espn._hockey_team_names(self.hockey_game_id, sp=self.hockey_sp)
 
-        self.assertEqual(home_name, "Chicago Blackhawks")
-        self.assertEqual(away_name, "San Jose Sharks")
+    #     self.assertEqual(home_name, "Chicago Blackhawks")
+    #     self.assertEqual(away_name, "San Jose Sharks")
 
-    def test_hockey_records(self):
-        home_record, away_record = self.espn._hockey_records(self.hockey_game_id, sp=self.hockey_sp)
+    # def test_hockey_records(self):
+    #     home_record, away_record = self.espn._hockey_records(self.hockey_game_id, sp=self.hockey_sp)
 
-        self.assertEqual(home_record, "32-30-8")
-        self.assertEqual(away_record, "29-36-5")
+    #     self.assertEqual(home_record, "32-30-8")
+    #     self.assertEqual(away_record, "29-36-5")
 
-    def test_hockey_scores(self):
-        home_score, away_score = self.espn.hockey_score(self.hockey_game_id, sp=self.hockey_sp)
+    # def test_hockey_scores(self):
+    #     home_score, away_score = self.espn.hockey_score(self.hockey_game_id, sp=self.hockey_sp)
 
-        self.assertEqual(home_score, "6")
-        self.assertEqual(away_score, "2")
+    #     self.assertEqual(home_score, "6")
+    #     self.assertEqual(away_score, "2")
