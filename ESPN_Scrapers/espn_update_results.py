@@ -4,7 +4,7 @@
 # File Created: Tuesday, 30th June 2020 11:58:42 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Wednesday, 1st July 2020 4:14:29 pm
+# Last Modified: Wednesday, 1st July 2020 4:53:25 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -67,11 +67,12 @@ class ESPN_Update_Results:
         dfs = [pd.read_csv(df_path) for df_path in df_paths]
         return dfs, df_paths
 
-    def update_game_results(self, df):
+    def update_game_results(self, df):  # Top Level
         def update_row_results(row):
             if "Final" in str(row["Final_Status"]):
                 return row
-            if datetime.datetime.strptime(row['Date'], "%B %d, %Y") > datetime.datetime.now():
+            in_two_weeks = datetime.datetime.now() + datetime.timedelta(days=14)
+            if datetime.datetime.strptime(row['Date'], "%B %d, %Y") > in_two_weeks:
                 return row
 
             game = self.egs.run(row['ESPN_ID'])
@@ -79,7 +80,8 @@ class ESPN_Update_Results:
             week = row['Week'] if self.league == "NFL" else None
             new_game_info = game.to_row_list(self.league, row['Season'], week)
             row[:len(new_game_info)] = new_game_info
-            print("{}: {}, {}: {}".format(row['Home'], row['Home_Score'], row['Away'], row['Away_Score']))
+            print("{} ({}): {}, {} ({}): {}".format(row['Home'], row['Home_Record'], row['Home_Score'],
+                                                    row['Away'], row['Away_Record'], row['Away_Score']))
             return row
 
         df = df.apply(lambda row: update_row_results(row), axis=1)
@@ -88,9 +90,6 @@ class ESPN_Update_Results:
     def update_team_stats(self):
         def update_row_stats(row):
             pass
-
-    def update_records(self):
-        pass
 
     def save_dfs(self, dfs, df_paths):  # Top Level
         for df, df_path in zip(dfs, df_paths):
