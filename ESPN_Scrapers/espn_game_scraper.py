@@ -4,7 +4,7 @@
 # File Created: Tuesday, 7th April 2020 7:34:33 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Wednesday, 1st July 2020 10:33:36 am
+# Last Modified: Wednesday, 1st July 2020 11:55:13 am
 # Modified By: Dillon Koch
 # -----
 #
@@ -221,6 +221,7 @@ class ESPN_Game_Scraper:
         """
         game = Game(self.league)
         game.ESPN_ID = game_id
+        sp = self._sp_helper(game_id, sp)
         game.home_name, game.away_name = self.team_names(game_id, sp)
         game.home_record, game.away_record = self.team_records(game_id, sp)
         game.final_status = self.final_status(game_id, sp)

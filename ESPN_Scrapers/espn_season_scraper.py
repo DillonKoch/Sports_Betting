@@ -4,7 +4,7 @@
 # File Created: Saturday, 23rd May 2020 11:04:56 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Tuesday, 30th June 2020 4:03:09 pm
+# Last Modified: Wednesday, 1st July 2020 11:57:58 am
 # Modified By: Dillon Koch
 # -----
 #
@@ -12,7 +12,6 @@
 # Scraping seasons from ESPN
 # ==============================================================================
 
-import datetime
 import json
 import os
 import re
@@ -39,35 +38,24 @@ class ESPN_Season_Scraper:
 
     def __init__(self, league):
         self.league = league
-        self.egs = ESPN_Game_Scraper()
-        self.root_path = ROOT_PATH + '/'
-        self.data_path = self.root_path + 'ESPN_Data/{}'.format(self.league)
+        self.egs = ESPN_Game_Scraper(self.league)
+        self.data_path = ROOT_PATH + '/ESPN_Data/{}'.format(self.league)
+        self.q_amount = 2 if self.league == "NCAAB" else 4
 
     @property
     def config(self):  # Property  Tested
-        with open(self.root_path + "ESPN_Scrapers/{}.json".format(self.league.lower())) as f:
+        with open(ROOT_PATH + "/ESPN_Scrapers/{}.json".format(self.league.lower())) as f:
             data = json.load(f)
         return data
 
     @property
     def game_link_re(self):  # Property  Tested
-        nba = re.compile(r"http://www.espn.com/nba/game\?gameId=(\d+)")
-        nfl = re.compile(r"http://www.espn.com/nfl/game/_/gameId/(\d+)")
-        ncaaf = re.compile(r"http://www.espn.com/college-football/game/_/gameId/(\d+)")
-        ncaab = re.compile(r"http://www.espn.com/mens-college-basketball/game\?gameId=(\d+)")
-        return nba if self.league == "NBA" else nfl if self.league == "NFL" else ncaaf if self.league == "NCAAF" else ncaab
-
-    @property
-    def game_info_func(self):  # Property
-        nba = self.egs.all_nba_info
-        nfl = self.egs.all_nfl_info
-        ncaaf = self.egs.all_ncaaf_info
-        ncaab = self.egs.all_ncaab_info
-        return nba if self.league == "NBA" else nfl if self.league == "NFL" else ncaaf if self.league == "NCAAF" else ncaab
-
-    @property
-    def q_amount(self):  # Property  Tested
-        return 2 if self.league == 'NCAAB' else 4
+        re_dict = {
+            "NBA": re.compile(r"http://www.espn.com/nba/game\?gameId=(\d+)"),
+            "NFL": re.compile(r"http://www.espn.com/nfl/game/_/gameId/(\d+)"),
+            "NCAAF": re.compile(r"http://www.espn.com/college-football/game/_/gameId/(\d+)"),
+            "NCAAB": re.compile(r"http://www.espn.com/mens-college-basketball/game\?gameId=(\d+)")}
+        return re_dict[self.league]
 
     def _make_season_df(self):  # Specific Helper scrape_season  Tested
         """
@@ -113,50 +101,9 @@ class ESPN_Season_Scraper:
         return link
 
     def _link_week_to_row(self, df, link, week, year):  # Specific Helper scrape_season
-        """
-        uses the link for a game to create a row in the season's dataframe
-        Week is only used for NFL games
-
-        ESPN refers to the 2017-18 season as the "2017" season for NFL/NCAAF, but refers
-        to it as the "2018" season for NBA/NCAAB, so those league's seasons are adjusted down 1
-
-        Some extra logic is needed for NCAAB half scores, since they differ from 4 quarters
-        (the NIT experimented with 4 quarters, causing additional logic as well)
-        """
         game_id = self.game_link_re.search(link).group(1)
-        game = self.game_info_func(game_id)
-
-        season = year if self.league in ["NFL", "NCAAF"] else str(int(year) - 1)
-        # row = game.to_row_list(self.league, season, week)
-        row = [game.ESPN_ID, season, game.game_date, game.home_name, game.away_name,
-               game.home_record, game.away_record,
-               game.home_score, game.away_score, game.line, game.over_under,
-               game.final_status, game.network]
-
-        if self.league != "NCAAB":
-            for scores in [game.home_qscores, game.away_qscores]:
-                row += [item for item in scores]
-                if len(scores) == self.q_amount:
-                    row += [None]
-        else:
-            for scores in [game.home_half_scores, game.away_half_scores]:
-                if ((self.league == "NCAAB") and (len(scores) == 4)):
-                    first_half = int(scores[0]) + int(scores[1])
-                    second_half = int(scores[2]) + int(scores[3])
-                    row += [first_half, second_half, None]
-                elif ((self.league == "NCAAB") and (len(scores) == 5)):
-                    first_half = int(scores[0]) + int(scores[1])
-                    second_half = int(scores[2]) + int(scores[3])
-                    overtime = int(scores[4])
-                    row += [first_half, second_half, overtime]
-                else:
-                    row += [item for item in scores]
-                    if len(scores) == self.q_amount:
-                        row += [None]
-
-        if self.league == "NFL":
-            row.append(week)
-        row.append(self.league)
+        game = self.egs.run(game_id)
+        row = game.to_row_list(self.league, year, week)
         df.loc[len(df)] = row
         return df
 
@@ -212,7 +159,7 @@ class ESPN_Season_Scraper:
         """
         finds years a team's season data hasn't been scraped yet
         """
-        path = self.root_path + "ESPN_Data/{}/{}/".format(self.league, team_name)
+        path = ROOT_PATH + "/ESPN_Data/{}/{}/".format(self.league, team_name)
         beginning_year = 2006
         all_years = [str(item) for item in list(range(beginning_year, 2021, 1))]
         years_found = []
@@ -248,7 +195,7 @@ class ESPN_Season_Scraper:
             print("Scraping data for {} {}".format(name, year))
             df = self.scrape_season(team_abbrev, year)
             year1, year2 = self._get_years(year)
-            path = self.root_path + "ESPN_Data/{}/{}/{}_{}-{}.csv".format(self.league, name, name, year1, year2)
+            path = ROOT_PATH + "/ESPN_Data/{}/{}/{}_{}-{}.csv".format(self.league, name, name, year1, year2)
             df.to_csv(path, index=False)
 
     def scrape_all_leauge_history(self):  # Run

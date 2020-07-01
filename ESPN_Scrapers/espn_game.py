@@ -4,7 +4,7 @@
 # File Created: Tuesday, 30th June 2020 4:36:08 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Wednesday, 1st July 2020 10:49:27 am
+# Last Modified: Wednesday, 1st July 2020 11:32:26 am
 # Modified By: Dillon Koch
 # -----
 #
@@ -90,5 +90,5 @@ class Game:
             row.append(week)
         row.append(league)
 
-        self._test_row(row)
+        self._test_row(row, league)
         return row

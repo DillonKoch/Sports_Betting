@@ -4,10 +4,9 @@
 # File Created: Tuesday, 14th April 2020 5:08:35 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Friday, 19th June 2020 2:06:56 pm
+# Last Modified: Wednesday, 1st July 2020 11:19:50 am
 # Modified By: Dillon Koch
 # -----
-# Collins Aerospace
 #
 # -----
 # Testing main ESPN season scraper
@@ -87,6 +86,7 @@ class Test_ESPN_Season_Scraper(TestCase):
         for scraper in self.all_scrapers:
             df = scraper._make_season_df()
             self.assertIsInstance(df, pd.DataFrame)
+            self.assertEqual(scraper.config["DF Columns"], list(df.columns))
 
     def test_get_game_sections(self):
         for sections_list in self.all_sections:
