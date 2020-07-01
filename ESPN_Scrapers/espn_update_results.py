@@ -4,7 +4,7 @@
 # File Created: Tuesday, 30th June 2020 11:58:42 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Wednesday, 1st July 2020 5:57:02 pm
+# Last Modified: Wednesday, 1st July 2020 6:01:42 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -79,16 +79,16 @@ class ESPN_Update_Results:
         df_paths = [ROOT_PATH + "/ESPN_Data/{}/".format(self.league) + path for path in
                     os.listdir(ROOT_PATH + "/ESPN_Data/{}/".format(self.league))]
         dfs = [pd.read_csv(df_path) for df_path in df_paths]
-        for df in dfs:
-            df['datetime'] = pd.to_datetime(df['datetime']).apply(lambda x: x.date())
+        # for df in dfs:
+        #     df['datetime'] = pd.to_datetime(df['datetime']).apply(lambda x: x.date())
         return dfs, df_paths
 
     def _add_datetime(self, df):  # Specific Helper remove_preseason
         """
         adds datetime in %B %d, %Y format to a dataframe
         """
-        if df['datetime'].isnull().sum() == 0:
-            return df
+        # if df['datetime'].isnull().sum() == 0:
+        #     return df
 
         def add_dt(row):
             return datetime.datetime.strptime(row['Date'], "%B %d, %Y")
@@ -149,7 +149,7 @@ class ESPN_Update_Results:
         dfs, df_paths = self.load_dfs()
         dfs = [self.update_game_results(df) for df in dfs]
         dfs = [self.remove_preseason(df) for df in dfs]
-        dfs = [sort_df_by_dt(df) for df in dfs]
+        dfs = [sort_df_by_dt(df, keep_dt=True) for df in dfs]
         self.save_dfs(dfs, df_paths)
         return dfs
 
