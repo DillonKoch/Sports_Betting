@@ -4,7 +4,7 @@
 # File Created: Tuesday, 7th April 2020 7:34:33 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Wednesday, 1st July 2020 9:53:15 am
+# Last Modified: Wednesday, 1st July 2020 10:33:36 am
 # Modified By: Dillon Koch
 # -----
 #
@@ -56,7 +56,7 @@ class ESPN_Game_Scraper:
             return sp
 
     @null_if_error(2)
-    def team_names(self, game_id: str, sp=False):  # Top Level  Tested nfl
+    def team_names(self, game_id: str, sp=False):  # Top Level  Tested
         """
         returns the home, away team names of the game
         """
@@ -75,7 +75,7 @@ class ESPN_Game_Scraper:
         return home_full, away_full
 
     @null_if_error(2)
-    def team_records(self, game_id: str, sp=False):  # Top Level
+    def team_records(self, game_id: str, sp=False):  # Top Level  Tested
         """
         returns the home, away team records from the game
         if the game is over, these records will include the outcome of the game
@@ -86,7 +86,7 @@ class ESPN_Game_Scraper:
         return home_record, away_record
 
     @null_if_error(1)
-    def final_status(self, game_id: str, sp=False):  # Top Level
+    def final_status(self, game_id: str, sp=False):  # Top Level  Tested
         """
         Returns a string indicating if the game is over, includes OT if applicable
         """
@@ -122,7 +122,7 @@ class ESPN_Game_Scraper:
 
         return home_scores, away_scores
 
-    def quarter_scores(self, game_id: str, sp=False):  # Top Level
+    def quarter_scores(self, game_id: str, sp=False):  # Top Level  Tested
         """
         Returns the home, away scores for each quarter/half of the game, and possibly overtime
         a list of two [None]*5 will be returned if there's an error, so it fits into the dataframe
@@ -138,7 +138,7 @@ class ESPN_Game_Scraper:
             print(e)
             return [[None] * 5] * 2
 
-    def half_scores(self, game_id: str, sp=False):  # Top Level
+    def half_scores(self, game_id: str, sp=False):  # Top Level  Tested
         """
         runs quarter scores, but returns a list of two [None]*3 if there's an error instead of lists of 5
         """
@@ -154,7 +154,7 @@ class ESPN_Game_Scraper:
             return [[None] * 3] * 2
 
     @null_if_error(2)
-    def game_scores(self, game_id, sp=False):  # Top Level
+    def game_scores(self, game_id, sp=False):  # Top Level  Tested
         """
         returns the home, away final score of the game
         """
@@ -168,7 +168,7 @@ class ESPN_Game_Scraper:
         return home_score, away_score
 
     @null_if_error(2)
-    def line_over_under(self, game_id, sp=False):  # Top Level
+    def line_over_under(self, game_id, sp=False):  # Top Level  Tested
         """
         returns the line and over under of the game from ESPN
         most games before 2018 have no data for this, so they return None
@@ -192,7 +192,7 @@ class ESPN_Game_Scraper:
         return line, over_under
 
     @null_if_error(1)
-    def game_network(self, game_id, sp=False):  # Top Level
+    def game_network(self, game_id, sp=False):  # Top Level  Tested
         """
         returns the TV network the game was on (e.g. ESPN, FOX, etc)
         """
@@ -204,7 +204,7 @@ class ESPN_Game_Scraper:
         return network
 
     @null_if_error(1)
-    def game_date(self, game_id, sp=False):  # Top Level
+    def game_date(self, game_id, sp=False):  # Top Level  Tested
         """
         returns the date of the game in "%B %d, %Y" format (November 12, 2019)
         """
@@ -215,7 +215,7 @@ class ESPN_Game_Scraper:
         match = re.search(reg_comp, str_sp)
         return match.group(1)
 
-    def run(self, game_id, sp=False):  # Run
+    def run(self, game_id, sp=False):  # Run  Tested
         """
         Applies all the top level functions and returns a Game object with the game's data
         """

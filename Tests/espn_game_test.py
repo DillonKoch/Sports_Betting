@@ -4,7 +4,7 @@
 # File Created: Tuesday, 30th June 2020 4:38:04 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Tuesday, 30th June 2020 5:19:50 pm
+# Last Modified: Wednesday, 1st July 2020 10:47:34 am
 # Modified By: Dillon Koch
 # -----
 #
@@ -36,8 +36,8 @@ class Test_ESPN_Game(TestCase):
 
     def test_get_ncaab_scores(self):
         g = Game("NCAAB")
-        g.home_half_scores = ["32", "48"]
-        g.away_half_scores = ["45", "34"]
+        g.home_half_scores = ["32", "48", None]
+        g.away_half_scores = ["45", "34", None]
 
         scores = g._get_ncaab_scores()
         self.assertEqual(["32", "48", None, "45", "34", None], scores)
@@ -52,11 +52,24 @@ class Test_ESPN_Game(TestCase):
 
     def test_get_ncaab_scores_fuzz(self):
         g = Game("NCAAB")
-        g.home_half_scores = [None, None]
-        g.away_half_scores = [None, None]
-        self.assertEqual([None] * 6, g._get_ncaab_scores())
-
-        g = Game("NCAAB")
         g.home_half_scores = [None, None, None]
         g.away_half_scores = [None, None, None]
         self.assertEqual([None] * 6, g._get_ncaab_scores())
+
+    def test_get_non_ncaab_scores(self):
+        for league in ["NFL", "NCAAF", "NBA"]:
+            g = Game(league)
+            g.home_qscores = ["7", "14", "0", "10", None]
+            g.away_qscores = ["3", "6", "14", "7", None]
+
+            scores = g._get_non_ncaab_scores()
+            self.assertEqual(["7", "14", "0", "10", None, "3", "6", "14", "7", None], scores)
+
+    def test_get_non_ncaab_scores_OT(self):
+        for league in ["NFL", "NCAAF", "NBA"]:
+            g = Game(league)
+            g.home_qscores = ["7", "14", "0", "10", "7"]
+            g.away_qscores = ["3", "6", "14", "7", "3"]
+
+            scores = g._get_non_ncaab_scores()
+            self.assertEqual(["7", "14", "0", "10", "7", "3", "6", "14", "7", "3"], scores)
