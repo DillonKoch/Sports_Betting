@@ -4,7 +4,7 @@
 # File Created: Tuesday, 30th June 2020 11:58:42 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Wednesday, 1st July 2020 6:01:42 pm
+# Last Modified: Wednesday, 1st July 2020 6:03:23 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -155,7 +155,7 @@ class ESPN_Update_Results:
 
 
 if __name__ == "__main__":
-    league = parse_league() if False else "NFL"
+    league = parse_league() if False else "NBA"
     x = ESPN_Update_Results(league)
     self = x
 
