@@ -4,7 +4,7 @@
 # File Created: Tuesday, 30th June 2020 11:58:42 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Wednesday, 1st July 2020 3:24:25 pm
+# Last Modified: Wednesday, 1st July 2020 3:56:54 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -20,7 +20,6 @@ import sys
 from os.path import abspath, dirname
 
 import pandas as pd
-from tqdm import tqdm
 
 
 ROOT_PATH = dirname(dirname(abspath(__file__)))
@@ -65,7 +64,7 @@ class ESPN_Update_Results:
         df_paths = [ROOT_PATH + "/ESPN_Data/{}/".format(self.league) + path for path in
                     os.listdir(ROOT_PATH + "/ESPN_Data/{}/".format(self.league))]
         dfs = [pd.read_csv(df_path) for df_path in df_paths]
-        return dfs
+        return dfs, df_paths
 
     def update_game_results(self, df):
         def update_row_results(row):
@@ -74,29 +73,36 @@ class ESPN_Update_Results:
             if datetime.datetime.strptime(row['Date'], "%B %d, %Y") > datetime.datetime.now():
                 return row
 
-            print(row)
             game = self.egs.run(row['ESPN_ID'])
-            new_game_info = game.to_row_list()
+            new_game_info = game.to_row_list(self.league, row['Season'])
             row[:len(new_game_info)] = new_game_info
+            print("{}: {}, {}: {}".format(row['Home'], row['Home_Score'], row['Away'], row['Away_Score']))
             return row
 
         df = df.apply(lambda row: update_row_results(row), axis=1)
         return df
 
     def update_team_stats(self):
-        pass
+        def update_row_stats(row):
+            pass
 
     def update_records(self):
         pass
 
+    def save_dfs(self, dfs, df_paths):  # Top Level
+        for df, df_path in zip(dfs, df_paths):
+            df.to_csv(df_path, index=False)
+        print("ALL DATA SAVED")
+
     def run(self):  # Run
-        dfs = self.load_dfs()
+        dfs, df_paths = self.load_dfs()
         dfs = [self.update_game_results(df) for df in dfs]
+        self.save_dfs(dfs, df_paths)
         return dfs
 
 
 if __name__ == "__main__":
-    league = parse_league() if False else "NFL"
+    league = parse_league() if False else "NBA"
     x = ESPN_Update_Results(league)
     self = x
 
