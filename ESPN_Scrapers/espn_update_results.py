@@ -4,7 +4,7 @@
 # File Created: Tuesday, 30th June 2020 11:58:42 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Wednesday, 1st July 2020 4:53:25 pm
+# Last Modified: Wednesday, 1st July 2020 5:22:06 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -19,6 +19,7 @@ import os
 import sys
 from os.path import abspath, dirname
 import time
+import json
 
 import pandas as pd
 
@@ -29,7 +30,7 @@ if ROOT_PATH not in sys.path:
 
 from ESPN_Scrapers.espn_game_scraper import ESPN_Game_Scraper
 from ESPN_Scrapers.team_stats_scraper import Team_Stats
-from Utility.Utility import parse_league
+from Utility.Utility import parse_league, sort_df_by_dt
 
 
 class ESPN_Update_Results:
@@ -40,6 +41,12 @@ class ESPN_Update_Results:
     def __init__(self, league):
         self.league = league
         self.egs = ESPN_Game_Scraper(self.league)
+
+    @property
+    def config(self):
+        with open("{}.json".format(self.league.lower())) as f:
+            config = json.load(f)
+        return config
 
     @property
     def football_cols(self):  # Property
@@ -61,11 +68,48 @@ class ESPN_Update_Results:
             basketball_cols.append("away_" + stat)
         return basketball_cols
 
+    @property
+    def season_start_dict(self):  # Property
+        config_dict = self.config['season_start_dates']
+        years = [str(item) for item in range(2007, 2021)]
+        dic = {year: datetime.date(config_dict[year][0], config_dict[year][1], config_dict[year][2]) for year in years}
+        return dic
+
     def load_dfs(self):  # Top Level
         df_paths = [ROOT_PATH + "/ESPN_Data/{}/".format(self.league) + path for path in
                     os.listdir(ROOT_PATH + "/ESPN_Data/{}/".format(self.league))]
         dfs = [pd.read_csv(df_path) for df_path in df_paths]
         return dfs, df_paths
+
+    def _add_datetime(self, df):  # Helping Helper _remove_preseason Tested
+        """
+        adds datetime in %B %d, %Y format to a dataframe
+        """
+        if 'datetime' in list(df.columns):
+            return df
+
+        def add_dt(row):
+            return datetime.datetime.strptime(row['Date'], "%B %d, %Y")
+        df['datetime'] = df.apply(lambda row: add_dt(row), axis=1)
+        df['datetime'] = pd.to_datetime(df['datetime']).apply(lambda x: x.date())
+        return df
+
+    def remove_preseason(self, df):  # Top Level
+        """
+        only used in NFL - removes the preseason games from espn data
+        """
+        df = self._add_datetime(df)
+        if self.league == "NFL":
+
+            def add_preseason(row):
+                year = str(int(row['Season']))
+                start_date = self.season_start_dict[year]
+                return row['datetime'] < start_date
+
+            df['is_preseason'] = df.apply(lambda row: add_preseason(row), axis=1)
+            df = df.loc[df.is_preseason == False, :]
+            df = df.drop("datetime", axis=1)
+        return df
 
     def update_game_results(self, df):  # Top Level
         def update_row_results(row):
@@ -99,12 +143,13 @@ class ESPN_Update_Results:
     def run(self):  # Run
         dfs, df_paths = self.load_dfs()
         dfs = [self.update_game_results(df) for df in dfs]
+        dfs = [self.remove_preseason(df) for df in dfs]
         self.save_dfs(dfs, df_paths)
         return dfs
 
 
 if __name__ == "__main__":
-    league = parse_league() if False else "NCAAF"
+    league = parse_league() if False else "NFL"
     x = ESPN_Update_Results(league)
     self = x
 

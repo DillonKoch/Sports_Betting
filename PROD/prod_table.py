@@ -4,7 +4,7 @@
 # File Created: Thursday, 18th June 2020 12:48:04 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Monday, 29th June 2020 11:28:45 am
+# Last Modified: Wednesday, 1st July 2020 5:16:27 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -108,6 +108,7 @@ class Prod_Table:
 
     def _add_datetime(self, df):  # Helping Helper _remove_preseason Tested
         """
+        COPIED TO ESPN UPDATE RESUTLS
         adds datetime in %B %d, %Y format to a dataframe
         """
         def add_dt(row):
@@ -116,19 +117,19 @@ class Prod_Table:
         df['datetime'] = pd.to_datetime(df['datetime']).apply(lambda x: x.date())
         return df
 
-    def _remove_preseason(self, df):  # Specific Helper load_espn_data
-        """
-        only used in NFL - removes the preseason games from espn data
-        """
-        if self.league == "NFL":
-            def add_preseason(row):
-                year = str(int(row['Season']))
-                start_date = self.season_start_dict[year]
-                return row['datetime'] < start_date
+    # def _remove_preseason(self, df):  # Specific Helper load_espn_data
+    #     """
+    #     only used in NFL - removes the preseason games from espn data
+    #     """
+    #     if self.league == "NFL":
+    #         def add_preseason(row):
+    #             year = str(int(row['Season']))
+    #             start_date = self.season_start_dict[year]
+    #             return row['datetime'] < start_date
 
-            df['is_preseason'] = df.apply(lambda row: add_preseason(row), axis=1)
-            df = df.loc[df.is_preseason == False, :]
-        return df
+    #         df['is_preseason'] = df.apply(lambda row: add_preseason(row), axis=1)
+    #         df = df.loc[df.is_preseason == False, :]
+    #     return f
 
     def _clean_concat_team_dfs(self, all_team_dfs):  # Specific Helper load_espn_data  Tested
         """

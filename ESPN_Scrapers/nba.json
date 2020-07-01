@@ -26,6 +26,7 @@
         "League"
     ],
     "Season Base Link": "https://www.espn.com/nba/team/schedule/_/name/{team_abbrev}/season/{year}/seasontype/{season_type}",
+    "season_start_dates": [],
     "Teams": [
         [
             "Atlanta Hawks",
