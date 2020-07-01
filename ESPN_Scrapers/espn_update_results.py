@@ -4,7 +4,7 @@
 # File Created: Tuesday, 30th June 2020 11:58:42 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Wednesday, 1st July 2020 4:11:15 pm
+# Last Modified: Wednesday, 1st July 2020 4:13:39 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -76,7 +76,7 @@ class ESPN_Update_Results:
 
             game = self.egs.run(row['ESPN_ID'])
             time.sleep(3)
-            week = row['Week'] if self.leauge == "NFL" else None
+            week = row['Week'] if self.league == "NFL" else None
             new_game_info = game.to_row_list(self.league, row['Season'], week)
             row[:len(new_game_info)] = new_game_info
             print("{}: {}, {}: {}".format(row['Home'], row['Home_Score'], row['Away'], row['Away_Score']))
