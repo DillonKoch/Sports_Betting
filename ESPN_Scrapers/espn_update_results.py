@@ -4,7 +4,7 @@
 # File Created: Tuesday, 30th June 2020 11:58:42 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Wednesday, 1st July 2020 4:13:39 pm
+# Last Modified: Wednesday, 1st July 2020 4:14:29 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -105,7 +105,7 @@ class ESPN_Update_Results:
 
 
 if __name__ == "__main__":
-    league = parse_league() if False else "NFL"
+    league = parse_league() if False else "NCAAF"
     x = ESPN_Update_Results(league)
     self = x
 
