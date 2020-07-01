@@ -4,7 +4,7 @@
 # File Created: Tuesday, 7th April 2020 7:34:33 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Tuesday, 30th June 2020 5:40:47 pm
+# Last Modified: Wednesday, 1st July 2020 9:53:15 am
 # Modified By: Dillon Koch
 # -----
 #
@@ -56,7 +56,7 @@ class ESPN_Game_Scraper:
             return sp
 
     @null_if_error(2)
-    def team_names(self, game_id: str, sp=False):  # Top Level
+    def team_names(self, game_id: str, sp=False):  # Top Level  Tested nfl
         """
         returns the home, away team names of the game
         """
@@ -101,8 +101,7 @@ class ESPN_Game_Scraper:
                 return True
         return False
 
-    @staticmethod
-    def _quarter_scores_func(game_id: str, sp=False):  # Specific Helper quarter_scores, half_scores
+    def _quarter_scores_func(self, game_id: str, sp=False):  # Specific Helper quarter_scores, half_scores
         sp = self._sp_helper(game_id, sp)
         td_htmls = [item.get_text() for item in sp.find_all('td')]
 
@@ -121,34 +120,37 @@ class ESPN_Game_Scraper:
             else:
                 away_scores.append(td)
 
-        assert len(home_scores) > 2  # need this so we don't return empty lists
-        assert len(away_scores) > 2
-        _ = [int(item) if item is not None else item for item in home_scores + away_scores]  # making sure all ints or None
-        return home_scores[:-1], away_scores[:-1]  # last value is final score
+        return home_scores, away_scores
 
     def quarter_scores(self, game_id: str, sp=False):  # Top Level
         """
         Returns the home, away scores for each quarter/half of the game, and possibly overtime
-        [None] * 10 will be returned if there's an error, so it fits into the dataframe
+        a list of two [None]*5 will be returned if there's an error, so it fits into the dataframe
         """
         try:
             home, away = self._quarter_scores_func(game_id, sp)
+            home = home[:-1] if len(home) == 6 else home[:4] + [None]
+            away = away[:-1] if len(away) == 6 else away[:4] + [None]
             assert len(home) == 5
             assert len(away) == 5
             return home, away
-        except BaseException:
+        except Exception as e:
+            print(e)
             return [[None] * 5] * 2
 
     def half_scores(self, game_id: str, sp=False):  # Top Level
         """
-        runs quarter scores, but returns 6 None's if there's an error instead of 10
+        runs quarter scores, but returns a list of two [None]*3 if there's an error instead of lists of 5
         """
         try:
             home, away = self._quarter_scores_func(game_id, sp)
+            home = home[:-1] if len(home) == 4 else home[:2] + [None]
+            away = away[:-1] if len(away) == 4 else away[:2] + [None]
             assert len(home) == 3
             assert len(away) == 3
             return home, away
-        except BaseException:
+        except Exception as e:
+            print(e)
             return [[None] * 3] * 2
 
     @null_if_error(2)
@@ -235,7 +237,7 @@ class ESPN_Game_Scraper:
 
 
 if __name__ == "__main__":
-    x = ESPN_Game_Scraper("NCAAB")
+    x = ESPN_Game_Scraper("NFL")
     self = x
     nfl_game_id = "401128044"
     nba_game_id = "401160782"
