@@ -4,7 +4,7 @@
 # File Created: Tuesday, 30th June 2020 11:58:42 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Wednesday, 1st July 2020 3:56:54 pm
+# Last Modified: Wednesday, 1st July 2020 4:02:13 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -18,6 +18,7 @@ import datetime
 import os
 import sys
 from os.path import abspath, dirname
+import time
 
 import pandas as pd
 
@@ -74,6 +75,7 @@ class ESPN_Update_Results:
                 return row
 
             game = self.egs.run(row['ESPN_ID'])
+            time.sleep(3)
             new_game_info = game.to_row_list(self.league, row['Season'])
             row[:len(new_game_info)] = new_game_info
             print("{}: {}, {}: {}".format(row['Home'], row['Home_Score'], row['Away'], row['Away_Score']))
