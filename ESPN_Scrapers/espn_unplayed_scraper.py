@@ -4,7 +4,7 @@
 # File Created: Monday, 29th June 2020 3:17:15 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Tuesday, 30th June 2020 11:57:01 am
+# Last Modified: Wednesday, 1st July 2020 2:20:29 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -33,7 +33,7 @@ from Utility.Utility import sort_df_by_dt
 class ESPN_Unplayed_Scraper(ESPN_Season_Scraper):
     """
     scrapes data for games that have not been played yet and updates teams' csv's
-    - these games will need to be updated once the game is played
+    - these games will need to be updated once the game is played by the update_results file
     - they could also be updated soon before the game to update the teams' records
     """
 
