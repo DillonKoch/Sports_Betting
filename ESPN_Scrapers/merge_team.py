@@ -4,7 +4,7 @@
 # File Created: Wednesday, 24th June 2020 4:50:25 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Monday, 29th June 2020 10:45:40 am
+# Last Modified: Wednesday, 1st July 2020 8:41:08 am
 # Modified By: Dillon Koch
 # -----
 #
@@ -60,5 +60,5 @@ class Merge_Team:
 
 
 if __name__ == "__main__":
-    x = Merge_Team("NBA")
+    x = Merge_Team("NCAAF")
     x.run_all_teams()
