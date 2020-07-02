@@ -4,7 +4,7 @@
 # File Created: Tuesday, 16th June 2020 1:42:34 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Wednesday, 1st July 2020 9:09:53 pm
+# Last Modified: Thursday, 2nd July 2020 5:27:03 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -17,12 +17,9 @@
 import os
 import sys
 import time
-import urllib.request
 from os.path import abspath, dirname
 
 import pandas as pd
-from bs4 import BeautifulSoup as soup
-from tqdm import tqdm
 
 
 ROOT_PATH = dirname(dirname(abspath(__file__)))
@@ -137,25 +134,11 @@ class Team_Stats:
         }
         return basketball_dict
 
-    # def make_football_row(self):  # Run
-    #     cols = list(self.football_dict.values())
-    #     row = []
-    #     for col in cols:
-    #         away_val = self.__dict__[col][0] if self.__dict__[col] is not None else None
-    #         home_val = self.__dict__[col][1] if self.__dict__[col] is not None else None
-    #         row += [home_val, away_val]
-    #     return row
-
-    # def make_basketball_row(self):  # Run
-    #     cols = list(self.basketball_dict.values())
-    #     row = []
-    #     for col in cols:
-    #         away_val = self.__dict__[col][0] if self.__dict__[col] is not None else None
-    #         home_val = self.__dict__[col][1] if self.__dict__[col] is not None else None
-    #         row += [home_val, away_val]
-    #     return row
-
-    def make_row(self, football_league):  # Run
+    def make_row(self, football_league: bool):  # Run
+        """
+        Creates a list of the object's stats attributes to be inserted into a df row,
+        works for either football (if football_league=True) or basketball
+        """
         cols = list(self.basketball_dict.values()) if not football_league else list(self.football_dict.values())
         row = []
         for col in cols:
@@ -164,7 +147,11 @@ class Team_Stats:
             row += [home_val, away_val]
         return row
 
-    def add_football_item(self, stat_string):  # Run
+    def add_football_item(self, stat_string: str):  # Run  Tested
+        """
+        adds a football stat string to the Team Stats object's attributes using __dict__
+        stat is in format "Passing Yards 300 400" -> self.passing_yards = ["300", "400"]
+        """
         football_keys = list(self.football_dict.keys())
         values = stat_string.split(' ')[-2:]
         matches = []
@@ -175,7 +162,11 @@ class Team_Stats:
             update_key = self.football_dict[max(matches, key=len)]
             self.__dict__[update_key] = values
 
-    def add_basketball_item(self, stat_string):  # Run
+    def add_basketball_item(self, stat_string: str):  # Run  Tested
+        """
+        adds a basketball stat string to the Team Stats object's attributes using __dict__
+        stat is in format "Rebounds 45 62" -> self.rebonds = ["45", "62"]
+        """
         basketball_keys = list(self.basketball_dict.keys())
         values = stat_string.split(' ')[-2:]
         matches = []
@@ -194,7 +185,10 @@ class ESPN_Stat_Scraper:
         self.football_league = True if self.league in ["NFL", "NCAAF"] else False
 
     @property
-    def link_dict(self):  # Global Helper
+    def link_dict(self):  # Property
+        """
+        Provides the prefix for each league's game sites on ESPN
+        """
         link_dict = {
             "NFL": "https://www.espn.com/nfl/matchup?gameId=",
             "NBA": "https://www.espn.com/nba/matchup?gameId=",
@@ -203,8 +197,16 @@ class ESPN_Stat_Scraper:
         }
         return link_dict
 
-    def get_tr_highlights(self, sp):  # Top Level
+    def get_stats_list(self, sp):  # Top Level
+        """
+        Scrapes the team stats highights from the sp/html
+
+        these results are in a format like ['FG 24-63 22-47', 'Assists 6 11', ...]
+        where the first part is the stat (FG), second is the away team's value (24-63), and
+        third is the home team's value (22-47)
+        """
         highlights = sp.find_all('tr', attrs={'class': 'highlight'})
+        highlights += sp.find_all('tr', attrs={'class': 'indent'})
         results = []
         for item in highlights:
             item = item.get_text()
@@ -215,19 +217,10 @@ class ESPN_Stat_Scraper:
             results.append(item)
         return results
 
-    def get_indents(self, sp):  # Top Level
-        indents = sp.find_all('tr', attrs={'class': 'indent'})
-        results = []
-        for item in indents:
-            item = item.get_text()
-            item = item.replace('\t', '').replace('\n', ' ')
-            for i in range(5):
-                item = item.replace('  ', ' ')
-            item = item.strip()
-            results.append(item)
-        return results
-
     def make_stats_object(self, stats_list):  # Top Level
+        """
+        uses the stats_list from get_stats_list to create a Team_Stats object for the game
+        """
         ts = Team_Stats()
         for stat_string in stats_list:
             if self.football_league:
@@ -236,11 +229,12 @@ class ESPN_Stat_Scraper:
                 ts.add_basketball_item(stat_string)
         return ts
 
-    def run(self, espn_id):  # Run
+    def run(self, espn_id):  # Run  Tested
+        """
+        Creates a Team_Stats object from an ESPN_ID
+        """
         sp = get_sp1(self.link_dict[self.league] + str(espn_id))
-        tr_highlights = self.get_tr_highlights(sp)
-        indents = self.get_indents(sp)
-        stats_list = tr_highlights + indents
+        stats_list = self.get_stats_list(sp)
         team_stats = self.make_stats_object(stats_list)
         return team_stats
 
@@ -251,6 +245,7 @@ class ESPN_Stat_Scraper:
     def _update_season_df(self, df):  # Specific Helper update_league_dfs
         ts = Team_Stats()
         cols = list(ts.football_dict.values()) if self.football_league else list(ts.basketball_dict.values())
+
         for col in cols:
             df["home_" + col] = None
             df["away_" + col] = None
@@ -258,7 +253,6 @@ class ESPN_Stat_Scraper:
         for i, row in df.iterrows():
             print("{}/{}".format(i, len(df)))
             team_stats = self.run(row['ESPN_ID'])
-            # TODO insert the make_row method here
             stats_items = list(team_stats.__dict__.items())
             for col in cols:
                 items = [tup[1] for tup in stats_items if tup[0] == col][0]
@@ -270,6 +264,26 @@ class ESPN_Stat_Scraper:
         df = df.loc[:, [item for item in list(df.columns) if "Unnamed" not in item]]
         return df
 
+    def _update_df(self, df, path=None):
+        ts = Team_Stats()
+        cols = list(ts.football_dict.values()) if self.football_league else list(ts.basketball_dict.values())
+        all_cols = ["home_" + col if i % 2 == 0 else "away_" + col for i,
+                    col in enumerate([col for col in cols for i in range(2)])]
+
+        for col in all_cols:
+            df[col] = None
+
+        for i, row in df.iterrows():
+            print("{}/{}".format(i, len(df)))
+            team_stats = self.run(row['ESPN_ID'])
+            stats_row = team_stats.make_row(self.football_league)
+            df.loc[i, all_cols] = stats_row
+            time.sleep(5)
+
+        if path is not None:
+            df.to_csv(path, index=False)
+        return df
+
     def update_league_dfs(self):  # Run
         teams = os.listdir(ROOT_PATH + "/ESPN_Data/{}/".format(self.league))
         for team in teams:
@@ -277,15 +291,16 @@ class ESPN_Stat_Scraper:
             df_paths = os.listdir(ROOT_PATH + "/ESPN_Data/{}/{}/".format(self.league, team))
             df_paths = [path for path in df_paths if ((".csv" in path) and (int(path[-8:-4]) > 2007))]
             for path in df_paths:
-                print(path)
                 full_path = ROOT_PATH + "/ESPN_Data/{}/{}/".format(self.league, team) + path
                 print(full_path)
                 df = pd.read_csv(full_path)
+
                 if not self._has_team_stats(df):
                     print(team, path[-8:-4])
                     try:
-                        df = self._update_season_df(df)
-                        df.to_csv(full_path, index=False)
+                        df = self._update_df(df, path=full_path)
+                        # df = self._update_season_df(df)
+                        # df.to_csv(full_path, index=False)
                     except Exception as e:
                         print(e)
                         print("Error scraping team stats...")
@@ -320,7 +335,7 @@ class ESPN_Stat_Scraper:
 
 
 if __name__ == "__main__":
-    x = ESPN_Stat_Scraper("NCAAF")
+    x = ESPN_Stat_Scraper("NCAAB")
     self = x
     # x.update_after_merge()
-    # x.update_league_dfs()
+    x.update_league_dfs()

@@ -4,7 +4,7 @@
 # File Created: Saturday, 23rd May 2020 11:04:56 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Wednesday, 1st July 2020 11:57:58 am
+# Last Modified: Thursday, 2nd July 2020 2:22:44 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -113,7 +113,8 @@ class ESPN_Season_Scraper:
         """
         df = self._make_season_df()
         game_sections = self._get_game_sections(team_abbrev, year, season_type)
-        for section in tqdm(game_sections):
+        for i, section in enumerate(game_sections):
+            print("{}/{}".format(i, len(game_sections)))
             week = self._week_from_section(section) if self.league == "NFL" else None
             link = self._link_from_game_section(section)
             if link is None:
@@ -210,7 +211,7 @@ class ESPN_Season_Scraper:
             except Exception as e:
                 print(e)
                 print("Error scraping, moving on to the next team")
-                time.sleep(1)
+                time.sleep(30)
 
 
 if __name__ == "__main__":
