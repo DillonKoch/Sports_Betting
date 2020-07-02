@@ -4,7 +4,7 @@
 # File Created: Tuesday, 30th June 2020 11:58:42 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Wednesday, 1st July 2020 6:05:55 pm
+# Last Modified: Wednesday, 1st July 2020 8:36:40 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -29,7 +29,7 @@ if ROOT_PATH not in sys.path:
     sys.path.append(ROOT_PATH)
 
 from ESPN_Scrapers.espn_game_scraper import ESPN_Game_Scraper
-from ESPN_Scrapers.team_stats_scraper import Team_Stats
+from ESPN_Scrapers.team_stats_scraper import Team_Stats, ESPN_Stat_Scraper
 from Utility.Utility import parse_league, sort_df_by_dt
 
 
@@ -136,7 +136,7 @@ class ESPN_Update_Results:
 
     def update_team_stats(self, df):
         def update_row_stats(row):
-            pass
+            ts = ESPN_Stat_Scraper(self.league)
 
         return df
 
@@ -155,8 +155,8 @@ class ESPN_Update_Results:
 
 
 if __name__ == "__main__":
-    league = parse_league() if False else "NCAAF"
+    league = parse_league() if False else "NFL"
     x = ESPN_Update_Results(league)
     self = x
 
-    dfs = x.run()
+    # dfs = x.run()

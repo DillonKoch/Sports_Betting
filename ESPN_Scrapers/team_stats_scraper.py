@@ -4,7 +4,7 @@
 # File Created: Tuesday, 16th June 2020 1:42:34 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Tuesday, 30th June 2020 2:36:29 pm
+# Last Modified: Wednesday, 1st July 2020 9:09:53 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -137,6 +137,33 @@ class Team_Stats:
         }
         return basketball_dict
 
+    # def make_football_row(self):  # Run
+    #     cols = list(self.football_dict.values())
+    #     row = []
+    #     for col in cols:
+    #         away_val = self.__dict__[col][0] if self.__dict__[col] is not None else None
+    #         home_val = self.__dict__[col][1] if self.__dict__[col] is not None else None
+    #         row += [home_val, away_val]
+    #     return row
+
+    # def make_basketball_row(self):  # Run
+    #     cols = list(self.basketball_dict.values())
+    #     row = []
+    #     for col in cols:
+    #         away_val = self.__dict__[col][0] if self.__dict__[col] is not None else None
+    #         home_val = self.__dict__[col][1] if self.__dict__[col] is not None else None
+    #         row += [home_val, away_val]
+    #     return row
+
+    def make_row(self, football_league):  # Run
+        cols = list(self.basketball_dict.values()) if not football_league else list(self.football_dict.values())
+        row = []
+        for col in cols:
+            away_val = self.__dict__[col][0] if self.__dict__[col] is not None else None
+            home_val = self.__dict__[col][1] if self.__dict__[col] is not None else None
+            row += [home_val, away_val]
+        return row
+
     def add_football_item(self, stat_string):  # Run
         football_keys = list(self.football_dict.keys())
         values = stat_string.split(' ')[-2:]
@@ -231,6 +258,7 @@ class ESPN_Stat_Scraper:
         for i, row in df.iterrows():
             print("{}/{}".format(i, len(df)))
             team_stats = self.run(row['ESPN_ID'])
+            # TODO insert the make_row method here
             stats_items = list(team_stats.__dict__.items())
             for col in cols:
                 items = [tup[1] for tup in stats_items if tup[0] == col][0]
@@ -295,4 +323,4 @@ if __name__ == "__main__":
     x = ESPN_Stat_Scraper("NCAAF")
     self = x
     # x.update_after_merge()
-    x.update_league_dfs()
+    # x.update_league_dfs()
