@@ -4,7 +4,7 @@
 # File Created: Tuesday, 16th June 2020 1:42:34 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Thursday, 2nd July 2020 5:34:31 pm
+# Last Modified: Friday, 3rd July 2020 9:18:52 am
 # Modified By: Dillon Koch
 # -----
 #
@@ -18,6 +18,7 @@ import os
 import sys
 import time
 from os.path import abspath, dirname
+import datetime
 
 import pandas as pd
 
@@ -26,7 +27,7 @@ ROOT_PATH = dirname(dirname(abspath(__file__)))
 if ROOT_PATH not in sys.path:
     sys.path.append(ROOT_PATH)
 
-from Utility.Utility import get_sp1
+from Utility.Utility import get_sp1, listdir_fullpath
 
 
 class Team_Stats:
@@ -77,6 +78,12 @@ class Team_Stats:
         self.technical_fouls = None
         self.flagrant_fouls = None
         self.largest_lead = None
+
+    def all_cols(self, football_league: bool):
+        cols = list(self.football_dict.values()) if football_league else list(self.basketball_dict.values())
+        all_cols = ["home_" + col if i % 2 == 0 else "away_" + col for i,
+                    col in enumerate([col for col in cols for i in range(2)])]
+        return all_cols
 
     @property
     def football_dict(self):  # Property
@@ -319,9 +326,25 @@ class ESPN_Stat_Scraper:
 
             df.to_csv(ROOT_PATH + "/ESPN_Data/{}/{}".format(self.league, path))
 
+    def update_after_merge(self):  # Run
+        all_cols = Team_Stats().all_cols(self.football_league)
+        df_paths = listdir_fullpath(ROOT_PATH + "/ESPN_Data/{}/".format(self.league))
+        null_col = "home_passing_yards" if self.football_league else "home_field_goals"
+
+        for path in df_paths:
+            print(path)
+            df = pd.read_csv(path)
+            df['datetime'] = pd.to_datetime(df['datetime']).apply(lambda x: x.date())
+            for i, row in df.iterrows():
+                if ((str(row[null_col]) == "nan") and (row['datetime'] < datetime.date.today())):
+                    print("{}/{}  {} {} {}".format(i, len(df), row['Date'], row['Home'], row['Away']))
+                    df.loc[i, all_cols] = self.run(row['ESPN_ID']).make_row(self.football_league)
+                    time.sleep(5)
+            df.to_csv(path, index=False)
+
 
 if __name__ == "__main__":
-    x = ESPN_Stat_Scraper("NCAAB")
+    x = ESPN_Stat_Scraper("NBA")
     self = x
     # x.update_after_merge()
-    x.update_league_dfs()
+    # x.update_league_dfs()

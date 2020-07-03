@@ -4,7 +4,7 @@
 # File Created: Friday, 10th April 2020 10:47:51 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Tuesday, 30th June 2020 4:26:40 pm
+# Last Modified: Friday, 3rd July 2020 9:16:50 am
 # Modified By: Dillon Koch
 # -----
 #
@@ -15,6 +15,7 @@
 
 import argparse
 import datetime
+import os
 import urllib.request
 
 import pandas as pd
@@ -86,6 +87,10 @@ def sort_df_by_dt(df, keep_dt=False):
     if not keep_dt:
         df = df.loc[:, [item for item in list(df.columns) if item != "datetime"]]
     return df
+
+
+def listdir_fullpath(d):
+    return [os.path.join(d, f) for f in os.listdir(d)]
 
 
 if __name__ == "__main__":
