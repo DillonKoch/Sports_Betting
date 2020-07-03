@@ -4,7 +4,7 @@
 # File Created: Tuesday, 16th June 2020 1:42:34 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Friday, 3rd July 2020 9:47:34 am
+# Last Modified: Friday, 3rd July 2020 1:44:36 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -18,6 +18,7 @@ import sys
 import time
 from os.path import abspath, dirname
 import datetime
+import argparse
 
 import pandas as pd
 
@@ -319,8 +320,26 @@ class ESPN_Stat_Scraper:
             df.to_csv(path, index=False)
 
 
+def parse_args(arg_list=None):
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--league', help="HELP_MSG")
+    parser.add_argument('--cmd', help="HELP_MSG")
+    if arg_list is None:
+        args = parser.parse_args()
+    else:
+        args = parser.parse_args(arg_list)
+
+    args_dict = vars(args)
+    league = args_dict['league']
+    cmd = args_dict['cmd']
+    return league, cmd
+
+
 if __name__ == "__main__":
-    x = ESPN_Stat_Scraper("NBA")
+    league, cmd = parse_args()
+    x = ESPN_Stat_Scraper(league)
     self = x
-    x.update_after_merge()
-    # x.update_league_dfs()
+    if cmd == "update":
+        x.update_after_merge()
+    else:
+        x.update_league_dfs()

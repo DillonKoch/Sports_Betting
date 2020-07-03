@@ -4,7 +4,7 @@
 # File Created: Tuesday, 30th June 2020 11:58:42 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Friday, 3rd July 2020 10:01:43 am
+# Last Modified: Friday, 3rd July 2020 1:48:00 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -15,7 +15,6 @@
 
 
 import datetime
-import os
 import sys
 from os.path import abspath, dirname
 import time
@@ -124,7 +123,7 @@ class ESPN_Update_Results:
             if "Final" in str(row["Final_Status"]):
                 return row
 
-            in_two_weeks = datetime.datetime.now() + datetime.timedelta(days=14)
+            in_two_weeks = datetime.date.today() + datetime.timedelta(days=14)
             if row['datetime'] > in_two_weeks:
                 return row
 
@@ -146,7 +145,7 @@ class ESPN_Update_Results:
         """
         for df, df_path in zip(dfs, df_paths):
             df.to_csv(df_path, index=False)
-        print("ALL DATA SAVED")
+        print("ALL {} DATA SAVED".format(self.league))
 
     def run(self):  # Run
         dfs, df_paths = self.load_dfs()
@@ -158,8 +157,8 @@ class ESPN_Update_Results:
 
 
 if __name__ == "__main__":
-    league = parse_league() if False else "NFL"
+    league = parse_league()
     x = ESPN_Update_Results(league)
     self = x
 
-    # dfs = x.run()
+    dfs = x.run()
