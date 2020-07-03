@@ -4,7 +4,7 @@
 # File Created: Tuesday, 30th June 2020 11:58:42 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Wednesday, 1st July 2020 8:36:40 pm
+# Last Modified: Friday, 3rd July 2020 9:55:21 am
 # Modified By: Dillon Koch
 # -----
 #
@@ -29,8 +29,8 @@ if ROOT_PATH not in sys.path:
     sys.path.append(ROOT_PATH)
 
 from ESPN_Scrapers.espn_game_scraper import ESPN_Game_Scraper
-from ESPN_Scrapers.team_stats_scraper import Team_Stats, ESPN_Stat_Scraper
-from Utility.Utility import parse_league, sort_df_by_dt
+from ESPN_Scrapers.team_stats_scraper import Team_Stats
+from Utility.Utility import parse_league, sort_df_by_dt, listdir_fullpath
 
 
 class ESPN_Update_Results:
@@ -76,8 +76,10 @@ class ESPN_Update_Results:
         return dic
 
     def load_dfs(self):  # Top Level
-        df_paths = [ROOT_PATH + "/ESPN_Data/{}/".format(self.league) + path for path in
-                    os.listdir(ROOT_PATH + "/ESPN_Data/{}/".format(self.league))]
+        """
+        loads all team dfs in a leauge's ESPN_Data folder
+        """
+        df_paths = listdir_fullpath(ROOT_PATH + "/ESPN_Data/{}/".format(self.league))
         dfs = [pd.read_csv(df_path) for df_path in df_paths]
         for df in dfs:
             df['datetime'] = pd.to_datetime(df['datetime']).apply(lambda x: x.date())
@@ -85,7 +87,7 @@ class ESPN_Update_Results:
 
     def _add_datetime(self, df):  # Specific Helper remove_preseason
         """
-        adds datetime in %B %d, %Y format to a dataframe
+        adds datetime in %B %d, %Y format to a dataframe, if it's not there already
         """
         if df['datetime'].isnull().sum() == 0:
             return df
@@ -119,11 +121,11 @@ class ESPN_Update_Results:
                 return row
 
             in_two_weeks = datetime.datetime.now() + datetime.timedelta(days=14)
-            if datetime.datetime.strptime(row['Date'], "%B %d, %Y") > in_two_weeks:
+            if row['datetime'] > in_two_weeks:
                 return row
 
             game = self.egs.run(row['ESPN_ID'])
-            time.sleep(3)
+            time.sleep(5)
             week = row['Week'] if self.league == "NFL" else None
             new_game_info = game.to_row_list(self.league, row['Season'], week)
             row[:len(new_game_info)] = new_game_info
@@ -132,12 +134,6 @@ class ESPN_Update_Results:
             return row
 
         df = df.apply(lambda row: update_row_results(row), axis=1)
-        return df
-
-    def update_team_stats(self, df):
-        def update_row_stats(row):
-            ts = ESPN_Stat_Scraper(self.league)
-
         return df
 
     def save_dfs(self, dfs, df_paths):  # Top Level

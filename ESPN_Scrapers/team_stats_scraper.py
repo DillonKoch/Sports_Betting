@@ -4,10 +4,9 @@
 # File Created: Tuesday, 16th June 2020 1:42:34 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Friday, 3rd July 2020 9:18:52 am
+# Last Modified: Friday, 3rd July 2020 9:47:34 am
 # Modified By: Dillon Koch
 # -----
-#
 #
 # -----
 # Scraper to get the team stats for each game on ESPN
@@ -252,7 +251,7 @@ class ESPN_Stat_Scraper:
         df_cols = list(df.columns)
         return True if (("home_first_downs" in df_cols) or ("home_rebounds" in df_cols)) else False
 
-    def _update_df(self, df, path=None):
+    def update_df(self, df, path=None):  # Top Level upate_league_dfs
         """
         updates an entire df with team stats for each game - do not use to udpate a df with some team stats
         """
@@ -293,40 +292,17 @@ class ESPN_Stat_Scraper:
                 if not self._has_team_stats(df):
                     print(team, path[-8:-4])
                     try:
-                        df = self._update_df(df, path=full_path)
+                        df = self.update_df(df, path=full_path)
                     except Exception as e:
                         print(e)
                         print("Error scraping team stats...")
                         time.sleep(30)
 
     def update_after_merge(self):  # Run
-        ts = Team_Stats()
-        cols = list(ts.football_dict.values()) if self.football_league else list(ts.basketball_dict.values())
-        df_paths = os.listdir(ROOT_PATH + "/ESPN_Data/{}/".format(self.league))
-
-        for path in df_paths:
-            print(path)
-            df = pd.read_csv(ROOT_PATH + "/ESPN_Data/{}/{}".format(self.league, path))
-
-            null_col_test = "home_passing_yards" if self.football_league else "home_field_goals"
-            null_team_stats_df = df.loc[df[null_col_test].isnull(), :]
-            print("{} games with missing team stats".format(len(null_team_stats_df)))
-
-            for i, row in null_team_stats_df.iterrows():
-                print("{}/{}".format(i, len(null_team_stats_df)))
-                print(row["ESPN_ID"])
-                team_stats = self.run(row['ESPN_ID'])
-                stats_items = list(team_stats.__dict__.items())
-                for col in cols:
-                    items = [tup[1] for tup in stats_items if tup[0] == col][0]
-                    if items is not None:
-                        df.loc[i, "away_" + col] = items[0]
-                        df.loc[i, "home_" + col] = items[1]
-                time.sleep(5)
-
-            df.to_csv(ROOT_PATH + "/ESPN_Data/{}/{}".format(self.league, path))
-
-    def update_after_merge(self):  # Run
+        """
+        Updates team stats for all csv's in a league folder after they're merged to one df per team
+        - This can be used to scrape missed team stats far in the past or right after a game finishes
+        """
         all_cols = Team_Stats().all_cols(self.football_league)
         df_paths = listdir_fullpath(ROOT_PATH + "/ESPN_Data/{}/".format(self.league))
         null_col = "home_passing_yards" if self.football_league else "home_field_goals"
@@ -338,7 +314,7 @@ class ESPN_Stat_Scraper:
             for i, row in df.iterrows():
                 if ((str(row[null_col]) == "nan") and (row['datetime'] < datetime.date.today())):
                     print("{}/{}  {} {} {}".format(i, len(df), row['Date'], row['Home'], row['Away']))
-                    df.loc[i, all_cols] = self.run(row['ESPN_ID']).make_row(self.football_league)
+                    df.loc[i, all_cols] = self.run(str(int(row['ESPN_ID']))).make_row(self.football_league)
                     time.sleep(5)
             df.to_csv(path, index=False)
 
@@ -346,5 +322,5 @@ class ESPN_Stat_Scraper:
 if __name__ == "__main__":
     x = ESPN_Stat_Scraper("NBA")
     self = x
-    # x.update_after_merge()
+    x.update_after_merge()
     # x.update_league_dfs()
