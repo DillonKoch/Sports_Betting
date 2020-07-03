@@ -4,7 +4,7 @@
 # File Created: Tuesday, 30th June 2020 11:58:42 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Friday, 3rd July 2020 9:55:21 am
+# Last Modified: Friday, 3rd July 2020 10:01:43 am
 # Modified By: Dillon Koch
 # -----
 #
@@ -116,6 +116,10 @@ class ESPN_Update_Results:
         return df
 
     def update_game_results(self, df):  # Top Level
+        """
+        updates team's csv's in a league folder for games that have recently finished
+        - also updates games less than two weeks away, so current records are scraped
+        """
         def update_row_results(row):
             if "Final" in str(row["Final_Status"]):
                 return row
@@ -137,6 +141,9 @@ class ESPN_Update_Results:
         return df
 
     def save_dfs(self, dfs, df_paths):  # Top Level
+        """
+        saves all dfs to the right df path in run() method
+        """
         for df, df_path in zip(dfs, df_paths):
             df.to_csv(df_path, index=False)
         print("ALL DATA SAVED")
