@@ -4,7 +4,7 @@
 # File Created: Tuesday, 16th June 2020 1:42:34 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Thursday, 2nd July 2020 5:27:03 pm
+# Last Modified: Thursday, 2nd July 2020 5:34:31 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -239,32 +239,16 @@ class ESPN_Stat_Scraper:
         return team_stats
 
     def _has_team_stats(self, df):  # Specific Helper update_league_dfs
+        """
+        checks if a df has cols for team stats yet or not - if no, update_league_dfs will update it
+        """
         df_cols = list(df.columns)
         return True if (("home_first_downs" in df_cols) or ("home_rebounds" in df_cols)) else False
 
-    def _update_season_df(self, df):  # Specific Helper update_league_dfs
-        ts = Team_Stats()
-        cols = list(ts.football_dict.values()) if self.football_league else list(ts.basketball_dict.values())
-
-        for col in cols:
-            df["home_" + col] = None
-            df["away_" + col] = None
-
-        for i, row in df.iterrows():
-            print("{}/{}".format(i, len(df)))
-            team_stats = self.run(row['ESPN_ID'])
-            stats_items = list(team_stats.__dict__.items())
-            for col in cols:
-                items = [tup[1] for tup in stats_items if tup[0] == col][0]
-                if items is not None:
-                    df.loc[i, "away_" + col] = items[0]
-                    df.loc[i, "home_" + col] = items[1]
-            time.sleep(5)
-
-        df = df.loc[:, [item for item in list(df.columns) if "Unnamed" not in item]]
-        return df
-
     def _update_df(self, df, path=None):
+        """
+        updates an entire df with team stats for each game - do not use to udpate a df with some team stats
+        """
         ts = Team_Stats()
         cols = list(ts.football_dict.values()) if self.football_league else list(ts.basketball_dict.values())
         all_cols = ["home_" + col if i % 2 == 0 else "away_" + col for i,
@@ -285,6 +269,10 @@ class ESPN_Stat_Scraper:
         return df
 
     def update_league_dfs(self):  # Run
+        """
+        updates an entire league's dfs with team stats from scratch
+        - this is used in the team folder structure before merging each team's data into one team csv
+        """
         teams = os.listdir(ROOT_PATH + "/ESPN_Data/{}/".format(self.league))
         for team in teams:
 
@@ -299,8 +287,6 @@ class ESPN_Stat_Scraper:
                     print(team, path[-8:-4])
                     try:
                         df = self._update_df(df, path=full_path)
-                        # df = self._update_season_df(df)
-                        # df.to_csv(full_path, index=False)
                     except Exception as e:
                         print(e)
                         print("Error scraping team stats...")
