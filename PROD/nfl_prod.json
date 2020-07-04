@@ -82,7 +82,8 @@
         "away_passing_first_downs",
         "away_rushing_first_downs",
         "away_first_downs_from_penalties",
-        "away_sacks_yards_lost"
+        "away_sacks_yards_lost",
+        "datetime"
     ],
     "season_start_dates": {
         "2007": [

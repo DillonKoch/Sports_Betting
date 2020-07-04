@@ -75,7 +75,8 @@
         "away_defensive_rebounds",
         "away_points_off_turnovers",
         "away_technical_fouls",
-        "away_flagrant_fouls"
+        "away_flagrant_fouls",
+        "datetime"
     ],
     "ESPN_stats_cols": [
         "field_goals",

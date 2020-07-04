@@ -4,7 +4,7 @@
 # File Created: Monday, 29th June 2020 3:17:15 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Wednesday, 1st July 2020 2:20:29 pm
+# Last Modified: Friday, 3rd July 2020 10:06:31 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -57,7 +57,7 @@ class ESPN_Unplayed_Scraper(ESPN_Season_Scraper):
         null_cols = ["Final_Status", "HQ1", "HQ2", "HQ3", "HQ4", "HOT", "AQ1", "AQ2", "AQ3",
                      "AQ4", "AOT", "H1H", "H2H", "A1H", "A2H"]
         for i, row in df.iterrows():
-            if "Final" not in row['Final_Status']:
+            if "Final" not in str(row['Final_Status']):
                 for col in null_cols:
                     if col in list(df.columns):
                         row[col] = None
@@ -74,16 +74,24 @@ class ESPN_Unplayed_Scraper(ESPN_Season_Scraper):
 
         for team in team_combos:
             print("Scraping new games for {}".format(team[0]))
-            team_name, abbrev = team
+            try:
+                team_name, abbrev = team
+            except BaseException:
+                team_name, abbrev, conf = team  # ncaa jsons have conferences too
+                print(team_name, abbrev, conf)
             current_df_path = ROOT_PATH + "/ESPN_Data/{}/{}.csv".format(self.league, team_name.replace(' ', '_'))
             current_df = pd.read_csv(current_df_path)
             current_df = current_df.loc[current_df.ESPN_ID.notnull(), :]
             current_espn_ids = [str(int(item)) for item in list(current_df.ESPN_ID)]
 
-            new_df = self._scrape_team_unplayed_games(abbrev, year, current_espn_ids, season_type)
-            current_df = pd.concat([current_df, new_df])
-            current_df = sort_df_by_dt(current_df)
-            current_df.to_csv(current_df_path, index=False)
+            try:
+                new_df = self._scrape_team_unplayed_games(abbrev, year, current_espn_ids, season_type)
+                current_df = pd.concat([current_df, new_df])
+                current_df = sort_df_by_dt(current_df, keep_dt=True)
+                current_df.to_csv(current_df_path, index=False)
+            except BaseException:
+                print("ERROR SCRAPING, MOVING ON")
+                time.sleep(30)
 
 
 def parse_args(arg_list=None):

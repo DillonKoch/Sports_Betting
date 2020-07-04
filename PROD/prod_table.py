@@ -4,7 +4,7 @@
 # File Created: Thursday, 18th June 2020 12:48:04 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Wednesday, 1st July 2020 5:16:27 pm
+# Last Modified: Saturday, 4th July 2020 1:10:47 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -13,7 +13,6 @@
 # As new data from ESPN, odds, ESB odds are available, this will update the prod csv
 # ==============================================================================
 
-import copy
 import datetime
 import json
 import os
@@ -26,6 +25,8 @@ from tqdm import tqdm
 ROOT_PATH = dirname(dirname(abspath(__file__)))
 if ROOT_PATH not in sys.path:
     sys.path.append(ROOT_PATH)
+
+from Utility.Utility import listdir_fullpath
 
 
 class Prod_Table:
@@ -53,83 +54,14 @@ class Prod_Table:
     def odds_name_conversions(self):  # Property
         return self.config["team_name_conversion_dict"]
 
-    def _show_team_dfs_dict(self):  # Global Helper not used in run(), but helpful
-        team_dict = {team: 0 for team in self.teams}
-        df_paths = self._get_df_paths()
-        for item in df_paths:
-            for team in self.teams:
-                if team in item:
-                    team_dict[team] += 1
-        return team_dict
-
-    def check_table_exists(self):  # Top Level  Tested
-        path = ROOT_PATH + "/PROD/"
-        exists = True if self.prod_table in os.listdir(path) else False
-        return exists
-
-    def create_dataframe(self):  # Top Level  Tested
-        cols = self.config["ESPN_cols"]
-        df = pd.DataFrame(columns=cols)
-        return df
-
-    def load_prod_df(self):  # Top Level  Tested
-        df = pd.read_csv(self.prod_table)
-        return df
-
-    # def _get_df_paths(self):  # Specific Helper load_espn_data Tested
-    #     df_paths = []
-    #     for team in self.teams:
-    #         team_paths = [item for item in os.listdir(ROOT_PATH + "/ESPN_Data/{}/{}/".format(self.league, team))]
-    #         team_paths = [item for item in team_paths if (('.csv' in item) and (int(item[-8:-4]) > 2007))]
-    #         team_paths = [ROOT_PATH + "/ESPN_Data/{}/{}/{}".format(self.league, team, item) for item in team_paths]
-    #         df_paths += team_paths
-    #     return df_paths
-
-    def _get_df_paths(self):  # Specific Helper load_espn_data
+    def _get_espn_dfs(self):  # Specific Helper load_espn_data
         """
-        returns the paths to each team's csv from ESPN_Data
+        loads each team's csv from ESPN_Data folder
         """
-        df_paths = os.listdir(ROOT_PATH + "/ESPN_Data/{}/".format(self.league))
+        df_paths = listdir_fullpath(ROOT_PATH + "/ESPN_Data/{}/".format(self.league))
         df_paths = [item for item in df_paths if ('.csv' in item)]
-        df_paths = [ROOT_PATH + "/ESPN_Data/{}/{}".format(self.league, path) for path in df_paths]
-        return df_paths
-
-    def _load_all_team_dfs(self, df_paths):  # Specific Helper load_espn_data Tested
-        """
-        uses the df paths to load each team's csv (finished and unplayed games)
-        """
-        all_team_dfs = []
-        for path in tqdm(df_paths):
-            current_df = pd.read_csv(path)
-            current_df = current_df[current_df.Home.notnull()]
-            if len(current_df) > 0:
-                all_team_dfs.append(current_df)
-        return all_team_dfs
-
-    def _add_datetime(self, df):  # Helping Helper _remove_preseason Tested
-        """
-        COPIED TO ESPN UPDATE RESUTLS
-        adds datetime in %B %d, %Y format to a dataframe
-        """
-        def add_dt(row):
-            return datetime.datetime.strptime(row['Date'], "%B %d, %Y")
-        df['datetime'] = df.apply(lambda row: add_dt(row), axis=1)
-        df['datetime'] = pd.to_datetime(df['datetime']).apply(lambda x: x.date())
-        return df
-
-    # def _remove_preseason(self, df):  # Specific Helper load_espn_data
-    #     """
-    #     only used in NFL - removes the preseason games from espn data
-    #     """
-    #     if self.league == "NFL":
-    #         def add_preseason(row):
-    #             year = str(int(row['Season']))
-    #             start_date = self.season_start_dict[year]
-    #             return row['datetime'] < start_date
-
-    #         df['is_preseason'] = df.apply(lambda row: add_preseason(row), axis=1)
-    #         df = df.loc[df.is_preseason == False, :]
-    #     return f
+        dfs = [pd.read_csv(path) for path in tqdm(df_paths)]
+        return dfs
 
     def _clean_concat_team_dfs(self, all_team_dfs):  # Specific Helper load_espn_data  Tested
         """
@@ -139,33 +71,26 @@ class Prod_Table:
         full_df = pd.concat(all_team_dfs)
         full_df.drop_duplicates(subset="ESPN_ID", inplace=True)
         full_df.sort_values(by="datetime", inplace=True)
+        full_df = full_df.loc[:, self.config["ESPN_cols"]]
+        full_df['datetime'] = pd.to_datetime(full_df['datetime']).apply(lambda x: x.date())
         return full_df
 
     def load_espn_data(self):  # Top Level  Tested
         """
         creates a df with all main espn data in a league (and datetime)
         """
-        df_paths = self._get_df_paths()
-        all_team_dfs = self._load_all_team_dfs(df_paths)
-        all_team_dfs = [self._add_datetime(df) for df in all_team_dfs]
-        all_team_dfs = [self._remove_preseason(df) for df in all_team_dfs]
+        all_team_dfs = self._get_espn_dfs()
         espn_df = self._clean_concat_team_dfs(all_team_dfs)
-        espn_df = espn_df.loc[:, self.config["ESPN_cols"] + ["datetime"]]
         return espn_df
 
-    def load_odds_data(self):  # Top Level Tested
+    def _load_odds_data(self):
         """
-        loads all the historical odds data for a given league
+        creates one df with all odds data for the given league
         """
-        all_dfs = []
-        csv_names = [item for item in os.listdir(ROOT_PATH + "/Odds/{}".format(self.league)) if '.csv' in item]
-        for csv_name in csv_names:
-            full_path = ROOT_PATH + "/Odds/{}/{}".format(self.league, csv_name)
-            df = pd.read_csv(full_path)
-            df = df.loc[:, [item for item in list(df.columns) if "Unnamed" not in item]]
-            all_dfs.append(df)
-
-        full_df = pd.concat(all_dfs)
+        df_paths = listdir_fullpath(ROOT_PATH + "/Odds/{}/".format(self.league))
+        df_paths = [path for path in df_paths if '.csv' in path]
+        dfs = [pd.read_csv(path) for path in tqdm(df_paths)]
+        full_df = pd.concat(dfs)
         return full_df
 
     def convert_odds_teams(self, odds_df):  # Top Level Tested
@@ -175,11 +100,8 @@ class Prod_Table:
         - if no different name is given in json file, the current name is kept
         """
         def change_name(row):
-            if self.odds_name_conversions[row['Team']] != "":
-                name = self.odds_name_conversions[row['Team']]
-            else:
-                name = row['Team']
-            return name
+            name = self.odds_name_conversions[row['Team']]
+            return name if name != "" else row['Team']
         odds_df['Team'] = odds_df.apply(lambda row: change_name(row), axis=1)
         return odds_df
 
@@ -191,7 +113,7 @@ class Prod_Table:
             date = str(int(row['Date']))
             month = date[:2] if len(date) == 4 else date[0]
             day = date[-2:]
-            season_year = str(row['Season'])
+            season_year = str(int(row['Season']))
             season_start_date = self.season_start_dict[season_year]
             year = season_year if int(month) >= season_start_date.month else int(season_year) + 1
             dt = datetime.date(int(year), int(month), int(day))
@@ -211,7 +133,8 @@ class Prod_Table:
             try:
                 assert row1[name] == row2[name]
             except BaseException:
-                print(row1, row2)
+                # print(row1, row2)
+                print(name)
 
         row1_vh = row1['VH']
         row2_vh = row2['VH']
@@ -365,14 +288,13 @@ class Prod_Table:
                        "Open_Away_Line", "Close_Home_Line", "Close_Away_Line", "2H_Home_Line",
                        "2H_Away_Line"]
 
-        final_cols.append('datetime')
         return df.loc[:, final_cols]
 
     def add_odds_data(self, espn_df):  # Top Level
         """
         runs odds data methods and joins result to espn data
         """
-        odds_df = self.load_odds_data()
+        odds_df = self._load_odds_data()
         odds_df = self.convert_odds_teams(odds_df)
         odds_df = self.convert_odds_date(odds_df)
         game_pairs = self.game_pairs_from_odds(odds_df)
@@ -416,5 +338,5 @@ if __name__ == "__main__":
     nba = Prod_Table("NBA")
     ncaaf = Prod_Table("NCAAF")
     ncaab = Prod_Table("NCAAB")
-    self = nba
+    self = ncaaf
     df = self.prod_table_from_scratch()
