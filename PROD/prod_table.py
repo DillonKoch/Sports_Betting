@@ -4,7 +4,7 @@
 # File Created: Thursday, 18th June 2020 12:48:04 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Saturday, 4th July 2020 1:10:47 pm
+# Last Modified: Saturday, 4th July 2020 2:15:01 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -270,6 +270,7 @@ class Prod_Table:
         """
         merges espn data and odds data on datetime, home, away columns
         """
+        odds_df['datetime'] = pd.to_datetime(odds_df['datetime']).apply(lambda x: x.date())
         merge_cols = ["datetime", "Home", "Away"]
         df = espn_df.merge(odds_df, on=merge_cols, how="left")
 
@@ -308,6 +309,7 @@ class Prod_Table:
         """
         esb_df = pd.read_csv(self.esb_table)
         esb_df['datetime'] = pd.to_datetime(esb_df['datetime']).apply(lambda x: x.date())
+        esb_df = esb_df.drop_duplicates(subset=["Home", "Away", "datetime"], keep="last")
         df = df.merge(esb_df, on=["datetime", "Home", "Away"], how="left")
         return df
 
@@ -315,6 +317,7 @@ class Prod_Table:
         df = self.load_espn_data()
         df = self.add_odds_data(df)
         df = self.add_esb_data(df)
+        df.to_csv(ROOT_PATH + "/PROD/{}_PROD.csv".format(self.league), index=False)
         return df
 
     def espn_odds_non_matches(self):  # QA Testing
@@ -323,14 +326,10 @@ class Prod_Table:
         """
         espn_df = self.load_espn_data()
         merged_df = self.add_odds_data(espn_df)
-        espn_ids = list(espn_df.ESPN_ID)
-        merged_ids = list(merged_df.ESPN_ID)
-        non_ids = [item for item in espn_ids if item not in merged_ids]
-        no_match_espn_df = espn_df.loc[espn_df.ESPN_ID.isin(non_ids)]
-        return no_match_espn_df
-
-    def df_values_check(self):  # QA Testing
-        pass
+        no_match = merged_df.loc[merged_df.Away_ML.isnull()]
+        no_match = no_match.loc[no_match.datetime < datetime.date.today()]
+        no_match.to_csv("no_match_{}.csv".format(self.league), index=False)
+        return no_match
 
 
 if __name__ == "__main__":
@@ -339,4 +338,5 @@ if __name__ == "__main__":
     ncaaf = Prod_Table("NCAAF")
     ncaab = Prod_Table("NCAAB")
     self = ncaaf
-    df = self.prod_table_from_scratch()
+    # df = self.prod_table_from_scratch()
+    ndf = self.espn_odds_non_matches()

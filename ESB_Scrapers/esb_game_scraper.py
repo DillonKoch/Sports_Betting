@@ -4,7 +4,7 @@
 # File Created: Tuesday, 16th June 2020 7:58:09 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Monday, 29th June 2020 8:43:43 am
+# Last Modified: Saturday, 4th July 2020 1:36:16 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -185,6 +185,7 @@ class ESB_Game_Scraper(ESB_Bool_Prop_Scraper):
 
     def _clean_df_names(self, df):  # Specific Helper make_new_df
         df = df.replace("LA Chargers", "Los Angeles Chargers")
+        df = df.replace("Los Angeles Clippers", "LA Clippers")
         return df
 
     def make_new_df(self, save):  # Top Level
