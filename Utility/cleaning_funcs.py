@@ -4,7 +4,7 @@
 # File Created: Saturday, 4th July 2020 2:32:02 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Saturday, 4th July 2020 2:35:21 pm
+# Last Modified: Saturday, 4th July 2020 2:36:05 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -26,7 +26,7 @@ if ROOT_PATH not in sys.path:
 from Utility import listdir_fullpath
 
 
-def replace_espn_team_name(self, league, old_name, new_name):
+def replace_espn_team_name(league, old_name, new_name):
     league_paths = listdir_fullpath(ROOT_PATH + "/ESPN_Data/NCAAF/")
     league_dfs = [pd.read_csv(path) for path in league_paths]
 
