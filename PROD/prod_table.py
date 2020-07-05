@@ -4,7 +4,7 @@
 # File Created: Thursday, 18th June 2020 12:48:04 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Saturday, 4th July 2020 2:15:01 pm
+# Last Modified: Sunday, 5th July 2020 10:04:46 am
 # Modified By: Dillon Koch
 # -----
 #
@@ -13,6 +13,7 @@
 # As new data from ESPN, odds, ESB odds are available, this will update the prod csv
 # ==============================================================================
 
+import copy
 import datetime
 import json
 import os
@@ -21,6 +22,7 @@ from os.path import abspath, dirname
 
 import pandas as pd
 from tqdm import tqdm
+
 
 ROOT_PATH = dirname(dirname(abspath(__file__)))
 if ROOT_PATH not in sys.path:
@@ -165,6 +167,22 @@ class Prod_Table:
             self._test_row_pair(pair)
         return game_pairs
 
+    def duplicate_game_pairs(self, game_pairs):
+        new_game_pairs = []
+        game_pairs_copy = copy.deepcopy(game_pairs)
+        for pair in tqdm(game_pairs_copy):
+            g1, g2 = pair
+            g1['VH'] = "H"
+            g2['VH'] = "V"
+            new_game_pairs.append([g1, g2])
+
+            g1_copy = copy.deepcopy(g1)
+            g1_copy['VH'] = "V"
+            g2_copy = copy.deepcopy(g2)
+            g2_copy['VH'] = "H"
+            new_game_pairs.append([g1_copy, g2_copy])
+        return game_pairs + new_game_pairs
+
     def _get_line_ou_from_2rows(self, home_row, away_row, col):  # Specific Helper odds_pair_to_dict
         """
         returns the over under, home/away line from two rows of the odds data
@@ -299,6 +317,7 @@ class Prod_Table:
         odds_df = self.convert_odds_teams(odds_df)
         odds_df = self.convert_odds_date(odds_df)
         game_pairs = self.game_pairs_from_odds(odds_df)
+        game_pairs = self.duplicate_game_pairs(game_pairs)
         odds_df = pd.DataFrame([self.odds_pair_to_dict(pair) for pair in tqdm(game_pairs)])
         df = self.merge_espn_odds(espn_df, odds_df)
         return df
@@ -338,5 +357,5 @@ if __name__ == "__main__":
     ncaaf = Prod_Table("NCAAF")
     ncaab = Prod_Table("NCAAB")
     self = ncaaf
-    # df = self.prod_table_from_scratch()
-    ndf = self.espn_odds_non_matches()
+    df = self.prod_table_from_scratch()
+    # ndf = self.espn_odds_non_matches()

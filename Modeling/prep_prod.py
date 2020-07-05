@@ -4,7 +4,7 @@
 # File Created: Thursday, 25th June 2020 4:36:47 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Sunday, 28th June 2020 4:40:22 pm
+# Last Modified: Sunday, 5th July 2020 3:27:51 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -18,6 +18,7 @@ import json
 import sys
 from os.path import abspath, dirname
 
+import numpy as np
 import pandas as pd
 from tqdm import tqdm
 
@@ -36,34 +37,6 @@ class Prep_Prod:
             config = json.load(f)
         return config
 
-    @property
-    def remove_cols(self):  # Property
-        all_leagues = ["ESPN_ID", "Season_x", "Date", "League", "Title", "Game_Time", "scraped_ts"]
-        nfl = ["Week"]
-        return all_leagues + nfl if self.league == "NFL" else all_leagues
-
-    @property
-    def dummy_cols(self):  # Property
-        all_leagues = ["Home", "Away", "Network"]
-        return all_leagues
-
-    @property
-    def record_cols(self):
-        cols = ["Home_ovr_wins", "Home_ovr_losses", "Home_ovr_ties",
-                "Away_ovr_wins", "Away_ovr_losses", "Away_ovr_ties",
-                "Home_spec_wins", "Home_spec_losses", "Home_spec_ties",
-                "Away_spec_wins", "Away_spec_losses", "Away_spec_ties",
-                "conf_game", "neutral_game"]
-        return cols
-
-    # @property
-    # def scale_cols(self):
-    #     football = ["first_downs", "total_yards", "passing_yards", "rushing_yards", "turnovers",
-    #                 "yards_per_pass", "interceptions_thrown", "rushing_attempts", "yards_per_rush",
-    #                 "fumbles_lost", "total_plays", "total_drives", "yards_per_play", "dst_touchdowns",
-    #                 "passing_first_downs", "rushing_first_downs", "first_downs_from_penalties"]
-    #     football = ["home_" + col for col in football] + ["away_" + col for col in football]
-
     def load_prod_df(self):  # Top Level
         df = pd.read_csv(ROOT_PATH + "/PROD/{}_PROD.csv".format(self.league))
         df = df.replace("San Diego Chargers", "Los Angeles Chargers")
@@ -72,13 +45,18 @@ class Prep_Prod:
         self.all_teams = set(list(df.Home) + list(df.Away))
         return df
 
-    def clean_unplayed_games(self, prod_df: pd.DataFrame) -> pd.DataFrame:  # Top Level
+    def _clean_unplayed_records(self, prod_df: pd.DataFrame) -> pd.DataFrame:  # Specific Helper clean_prod_records
         prod_df.Home_Record.fillna("0-0, 0-0 Home", inplace=True)
         prod_df.Away_Record.fillna("0-0, 0-0 Away", inplace=True)
         return prod_df
 
     def _add_null_rec_cols(self, df: pd.DataFrame) -> pd.DataFrame:  # Specific Helper clean_prod_records
-        for col in self.record_cols:
+        record_cols = ["Home_ovr_wins", "Home_ovr_losses", "Home_ovr_ties",
+                       "Away_ovr_wins", "Away_ovr_losses", "Away_ovr_ties",
+                       "Home_spec_wins", "Home_spec_losses", "Home_spec_ties",
+                       "Away_spec_wins", "Away_spec_losses", "Away_spec_ties",
+                       "conf_game", "neutral_game"]
+        for col in record_cols:
             df[col] = None
         return df
 
@@ -149,6 +127,7 @@ class Prep_Prod:
         return row
 
     def clean_prod_records(self, prod_df):  # Top Level
+        prod_df = self._clean_unplayed_records(prod_df)
         wl_dict = self._reset_wl_dict()
         current_season = int(prod_df.iloc[0, :]['Season_x'])
         prod_df = self._add_null_rec_cols(prod_df)
@@ -157,80 +136,80 @@ class Prep_Prod:
             wl_dict, current_season = self._new_season_check(row, current_season, wl_dict)
             prod_df.iloc[i, :] = self._update_row(row, wl_dict)
             wl_dict = self._update_wl_dict(wl_dict, row)
-        return prod_df
 
-    # def clean_network(self, prod_df):  # Top Level
-    #     networks = []
-    #     for item in list(prod_df.Network.value_counts().index):
-    #         for new_net in item.split('/'):
-    #             networks.append(new_net)
-    #     networks = list(set(networks))
-    #     self.networks = networks
+        ml_cols = ["Home_ovr_wins", "Home_ovr_losses", "Home_ovr_ties",
+                   "Away_ovr_wins", "Away_ovr_losses", "Away_ovr_ties",
+                   "Home_spec_wins", "Home_spec_losses", "Home_spec_ties",
+                   "Away_spec_wins", "Away_spec_losses", "Away_spec_ties",
+                   "conf_game", "neutral_game"]
+        return prod_df, ml_cols
 
-    #     for net in networks:
-    #         prod_df[net] = None
+    @staticmethod
+    def normalize(nums):  # Global Helper
+        nums = [float(item) for item in nums]
+        min_num = np.min(nums)
+        max_num = np.max(nums)
+        return [((item - min_num) / (max_num - min_num)) for item in nums]
 
-    #     for i, row in prod_df.iterrows():
-    #         if isinstance(row['Network'], str):
-    #             for net in row['Network'].split('/'):
-    #                 row[net] = 1
-    #                 prod_df.iloc[i, :] = row
-
-    #     return prod_df
-
-    def clean_week(self, prod_df):
+    def clean_week(self, prod_df):  # Top Level
+        if self.league != "NFL":
+            return prod_df
         prod_week_vals = list(prod_df.Week)
         prod_week_vals = [
             item.replace("WC", '18').replace("DIV", '19').replace("CONF", '20').replace("SB", '21') for item in prod_week_vals]
-        prod_df.Week = pd.Series(prod_week_vals)
-        return prod_df
+        prod_df.Week = pd.Series(self.normalize(prod_week_vals))
+        return prod_df, ["Week"]
 
-    def clean_team_stats(self, prod_df):  # Top Level
+    def clean_season(self, prod_df):  # Top Level
+        season_vals = list(prod_df.Season_x)
+        prod_df.Season_x = pd.Series(self.normalize(season_vals))
+        return prod_df, ["Season_x"]
+
+    def clean_stats(self, prod_df):  # Top Level
         # goal is to get all info represented in cols that can be scaled 0-1
         pass
 
     def add_dummies(self, df, prod_df):  # Top Level
-        for col in self.dummy_cols:
+        dummy_cols = ["Home", "Away", "Network"]
+        for col in dummy_cols:
             new_dummy_df = pd.get_dummies(prod_df[col], prefix=col)
             df = pd.concat([df, new_dummy_df], axis=1)
         return df
 
-    def add_dash_cols(self, df):
-        df['num_penalties'] = df.apply(lambda row: row['home_penalties'].split('-')[0], axis=1)
-        df['penalty_yards'] = df.apply(lambda row: row['home_penalties'].split('-')[1], axis=1)
-        return df
-
-    # def add_wl_cols(self, df, prod_df):  # Top Level
-    #     prod_to_merge = prod_df.loc[:, self.record_cols]
-    #     full_df = pd.concat([df, prod_to_merge], axis=1)
-    #     return full_df
-
-    # def add_network(self, df, prod_df):  # Top Level
-    #     prod_to_merge = prod_df.loc[:, self.networks]
-    #     full_df = pd.concat([df, prod_to_merge], axis=1)
-    #     return full_df
+    # def add_dash_cols(self, df):
+    #     df['num_penalties'] = df.apply(lambda row: row['home_penalties'].split('-')[0], axis=1)
+    #     df['penalty_yards'] = df.apply(lambda row: row['home_penalties'].split('-')[1], axis=1)
+    #     return df
 
     def run(self):  # Run
+        """
+        starting with a blank df and prod df, then as I clean and modify each section of PROD for ML,
+        I'll also update my ML dataset at that time
+        """
         prod_df = self.load_prod_df()
-        prod_df = self.clean_unplayed_games(prod_df)
-        prod_df = self.clean_prod_records(prod_df)
-        prod_df = self.clean_week(prod_df)
-        # prod_df = self.clean_team_stats(prod_df)
+        prod_df, record_ml_cols = self.clean_prod_records(prod_df)
+        prod_df, week_ml_cols = self.clean_week(prod_df)
+        prod_df, season_ml_cols = self.clean_season(prod_df)
+        # prod_df, stats_ml_cols = self.clean_stats(prod_df)
 
         df = pd.DataFrame()
         df = self.add_dummies(df, prod_df)
-        df = pd.concat([df, prod_df.loc[:, self.config["modeling_cols"]]])
-        # df = self.add_wl_cols(df, prod_df)
-        # df = self.add_network(df, prod_df)
-        return df, prod_df
+        ml_cols = record_ml_cols + week_ml_cols + season_ml_cols + stats_ml_cols
+        prod_ml = prod_df.loc[:, ml_cols]
+        df = pd.concat([df, prod_ml], axis=1)
+        return df
+
 
 # MAKE ONE LOOP THAT RUNS .ITERROWS() AND HAVE A BUNCH OF METHODS THAT ALL CHANGE THE CURRENT ROW AT ONCE
 
 
 if __name__ == "__main__":
-    x = Prep_Prod("NFL")
-    self = x
-    df, prod_df = x.run()
+    nfl = Prep_Prod("NFL")
+    nba = Prep_Prod("NBA")
+    ncaaf = Prep_Prod("NCAAF")
+    ncaab = Prep_Prod("NCAAB")
+    self = nfl
+    # df, prod_df = self.run()
 
 
 # idea for showing average stats:
