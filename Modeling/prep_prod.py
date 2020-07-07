@@ -4,7 +4,7 @@
 # File Created: Thursday, 25th June 2020 4:36:47 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Sunday, 5th July 2020 3:27:51 pm
+# Last Modified: Monday, 6th July 2020 6:47:08 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -181,6 +181,10 @@ class Prep_Prod:
     #     df['penalty_yards'] = df.apply(lambda row: row['home_penalties'].split('-')[1], axis=1)
     #     return df
 
+    def get_target_data(self):  # Top Level
+        # create a df the same size as the input data that has the target features
+        pass
+
     def run(self):  # Run
         """
         starting with a blank df and prod df, then as I clean and modify each section of PROD for ML,
@@ -196,6 +200,9 @@ class Prep_Prod:
         df = self.add_dummies(df, prod_df)
         ml_cols = record_ml_cols + week_ml_cols + season_ml_cols + stats_ml_cols
         prod_ml = prod_df.loc[:, ml_cols]
+
+        # ATTACH ALL THE POTENTIAL TARGET VARIABLES HERE TOO
+
         df = pd.concat([df, prod_ml], axis=1)
         return df
 
