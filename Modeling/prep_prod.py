@@ -4,7 +4,7 @@
 # File Created: Thursday, 25th June 2020 4:36:47 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Monday, 6th July 2020 6:47:08 pm
+# Last Modified: Tuesday, 7th July 2020 8:59:24 am
 # Modified By: Dillon Koch
 # -----
 #
@@ -26,16 +26,27 @@ ROOT_PATH = dirname(dirname(abspath(__file__)))
 if ROOT_PATH not in sys.path:
     sys.path.append(ROOT_PATH)
 
+from ESPN_Scrapers.team_stats_scraper import Team_Stats
+
 
 class Prep_Prod:
     def __init__(self, league: str):
         self.league = league
+        self.football_league = True if self.league in ["NFL", "NCAAF"] else False
 
     @property
     def config(self):
         with open(ROOT_PATH + "/Modeling/{}_model.json".format(self.league.lower())) as f:
             config = json.load(f)
         return config
+
+    @property
+    def stats_cols(self):
+        ts = Team_Stats()
+        cols = list(ts.football_dict.values()) if self.football_league else list(ts.basketball_dict.values())
+        all_cols = ["home_" + col if i % 2 == 0 else "away_" + col for i,
+                    col in enumerate([col for col in cols for i in range(2)])]
+        return all_cols
 
     def load_prod_df(self):  # Top Level
         df = pd.read_csv(ROOT_PATH + "/PROD/{}_PROD.csv".format(self.league))
@@ -165,9 +176,19 @@ class Prep_Prod:
         prod_df.Season_x = pd.Series(self.normalize(season_vals))
         return prod_df, ["Season_x"]
 
+    def _add_numeric_stats(self, prod_df):  # Specific Helper clean_stats
+        pass
+
+    def _add_dash_cols(self, prod_df):  # Specific Helper clean_stats
+        pass
+
+    def add_more_dash_cols(self, dash_col):
+        pass
+
     def clean_stats(self, prod_df):  # Top Level
         # goal is to get all info represented in cols that can be scaled 0-1
-        pass
+        prod_df, stats_cols = self._expand_dash_stats(self, prod_df)
+        prod_df, avg_stats_cols = self._compute_stat_averages(prod_df, stats_cols)
 
     def add_dummies(self, df, prod_df):  # Top Level
         dummy_cols = ["Home", "Away", "Network"]
@@ -181,9 +202,17 @@ class Prep_Prod:
     #     df['penalty_yards'] = df.apply(lambda row: row['home_penalties'].split('-')[1], axis=1)
     #     return df
 
-    def get_target_data(self):  # Top Level
+    def get_target_data(self, prod_df):  # Top Level
         # create a df the same size as the input data that has the target features
-        pass
+        target_cols = ["Home_Score_x", "Away_Score_x", "HQ1_x", "HQ2_x", "HQ3_x", "HQ4_x", "HOT", "AQ1_x", "AQ2_x",
+                       "AQ3_x", "AQ4_x", "AOT",
+                       "Home_ML", "Away_ML", "Open_OU", "Close_OU", "2H_OU", "Open_Home_Line", "Open_Away_Line",
+                       "Close_Home_Line", "Close_Away_Line", "2H_Home_Line", "2H_Away_Line",
+                       "Over_ESB", "Over_ml_ESB", "Under_ESB", "Under_ml_ESB", "Home_Line_ESB", "Home_Line_ml_ESB",
+                       'Away_Line_ESB', 'Away_Line_ml_ESB', 'Home_ML_ESB', 'Away_ML_ESB']
+        target_cols = [item for item in target_cols if item in list(prod_df.columns)]
+        target_df = prod_df.loc[:, target_cols]
+        return target_df
 
     def run(self):  # Run
         """
@@ -201,10 +230,9 @@ class Prep_Prod:
         ml_cols = record_ml_cols + week_ml_cols + season_ml_cols + stats_ml_cols
         prod_ml = prod_df.loc[:, ml_cols]
 
-        # ATTACH ALL THE POTENTIAL TARGET VARIABLES HERE TOO
-
         df = pd.concat([df, prod_ml], axis=1)
-        return df
+        target_df = self.get_target_data(prod_df)
+        return df, target_df
 
 
 # MAKE ONE LOOP THAT RUNS .ITERROWS() AND HAVE A BUNCH OF METHODS THAT ALL CHANGE THE CURRENT ROW AT ONCE

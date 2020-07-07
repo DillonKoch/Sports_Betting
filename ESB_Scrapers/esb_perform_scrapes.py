@@ -4,7 +4,7 @@
 # File Created: Tuesday, 23rd June 2020 3:20:11 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Tuesday, 23rd June 2020 6:11:58 pm
+# Last Modified: Tuesday, 7th July 2020 10:05:14 am
 # Modified By: Dillon Koch
 # -----
 #
@@ -63,6 +63,7 @@ class ESB_Perform_Scrapes:
 
 
 if __name__ == "__main__":
-    league = parse_league()
+    # league = parse_league()
+    league = "NFL"
     x = ESB_Perform_Scrapes(league)
     x.run()
