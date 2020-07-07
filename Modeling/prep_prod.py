@@ -4,7 +4,7 @@
 # File Created: Thursday, 25th June 2020 4:36:47 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Tuesday, 7th July 2020 8:59:24 am
+# Last Modified: Tuesday, 7th July 2020 3:50:40 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -33,6 +33,16 @@ class Prep_Prod:
     def __init__(self, league: str):
         self.league = league
         self.football_league = True if self.league in ["NFL", "NCAAF"] else False
+
+    @property
+    def dash_cols(self):
+        football_cols = ["penalties", "third_down_eff", "fourth_down_eff", "completions_attempts",
+                         "redzone_made_att", "sacks_yards_lost"]
+        basketball_cols = ["field_goals", "three_pointers", "free_throws"]
+        cols = football_cols if self.football_league else basketball_cols
+        cols = ["home_" + col if i % 2 == 0 else "away_" + col for i, col in
+                enumerate([col for col in cols for i in range(2)])]
+        return cols
 
     @property
     def config(self):
@@ -176,19 +186,97 @@ class Prep_Prod:
         prod_df.Season_x = pd.Series(self.normalize(season_vals))
         return prod_df, ["Season_x"]
 
-    def _add_numeric_stats(self, prod_df):  # Specific Helper clean_stats
-        pass
+    def clean_time_possession(self, prod_df):  # Specific Helper clean_stats
+        prod_df['home_possession'] = prod_df['home_possession'].fillna("30:00")
+        prod_df['away_possession'] = prod_df['away_possession'].fillna("30:00")
 
-    def _add_dash_cols(self, prod_df):  # Specific Helper clean_stats
-        pass
+        def clean_row_TOP(row):
+            for col in ['home', 'away']:
+                col_name = "{}_possession".format(col)
+                top_str = row[col_name]
+                minutes, seconds = top_str.split(":")
+                total_seconds = (int(minutes) * 60) + int(seconds)
+                row[col_name] = total_seconds
+            return row
+        prod_df = prod_df.apply(lambda row: clean_row_TOP(row), axis=1)
+        return prod_df
 
-    def add_more_dash_cols(self, dash_col):
-        pass
+    def _expand_dash_stats(self, prod_df):  # Specific Helper clean_stats
+        for col in self.dash_cols:
+            prod_df[col] = prod_df[col].fillna("0-0")
+
+        new_dash_cols = ["{}_d1".format(col) if i % 2 == 0 else "{}_d2".format(col)
+                         for col in self.dash_cols for i in range(2)]
+        for col in new_dash_cols:
+            prod_df[col] = None
+
+        def expand_row(row):
+            for col in self.dash_cols:
+                val1, val2 = row[col].split('-')
+                row["{}_d1".format(col)] = int(val1)
+                row["{}_d2".format(col)] = int(val2)
+            return row
+        prod_df = prod_df.apply(lambda row: expand_row(row), axis=1)
+        return prod_df, new_dash_cols
+
+    def _add_avg_stats_cols(self, prod_df, cols):  # Helping Helper _compute_stat_averages
+        new_cols = ["avg_{}".format(col) for col in cols]
+        for col in new_cols:
+            prod_df[col] = None
+        return prod_df, new_cols
+
+    def _reset_stats_dict(self, cols):  # Helping Helper _compute_stat_averages
+        dic = {team: {col: [] for col in cols} for team in self.all_teams}
+        return dic
+
+    def _new_stats_season_check(self, row, current_dict, current_season, cols):  # Helping Helper _compute_stat_averages
+        is_new_season = True if int(row['Season_x']) > current_season else False
+        if is_new_season:
+            current_dict = self._reset_stats_dict(cols)
+            current_season += 1
+        return current_dict, current_season
+
+    def _update_stats_row(self, row, stats_dict, comp_avg_cols):  # Helping Helper _compute_stat_average
+        # updating the row with averages
+        for item in ["Home", "Away"]:
+            team = row[item]
+            team_dict = stats_dict[team]
+            for pair in team_dict.items():
+                if item.lower() in pair[0]:
+                    row["avg_" + pair[0]] = np.average(pair[1])
+        return row
+
+    def _update_stats_dict(self, stats_dict, row, comp_avg_cols):  # Helping Helper _compute_stat_average
+
+        for item in ["Home", "Away"]:
+            team = row[item]
+            team_cols = [col for col in comp_avg_cols if item.lower() in col]
+            for col in team_cols:
+                stats_dict[team][col].append(row[col])
+        return stats_dict
+
+    def _compute_stat_averages(self, prod_df, comp_avg_cols):  # Specific Helper clean_stats
+        prod_df, avg_col_names = self._add_avg_stats_cols(prod_df, comp_avg_cols)
+        for col in comp_avg_cols:
+            prod_df[col] = prod_df[col].fillna(0)
+
+        stats_dict = self._reset_stats_dict(comp_avg_cols)
+        current_season = int(prod_df.iloc[0, :]['Season_x'])
+
+        for i, row in tqdm(prod_df.iterrows()):
+            prod_df.iloc[i, :] = self._update_stats_row(row, stats_dict, comp_avg_cols)
+            stats_dict = self._update_stats_dict(stats_dict, row, comp_avg_cols)
+            stats_dict, current_season = self._new_stats_season_check(row, stats_dict, current_season, comp_avg_cols)
+
+        return prod_df, avg_col_names
 
     def clean_stats(self, prod_df):  # Top Level
-        # goal is to get all info represented in cols that can be scaled 0-1
-        prod_df, stats_cols = self._expand_dash_stats(self, prod_df)
-        prod_df, avg_stats_cols = self._compute_stat_averages(prod_df, stats_cols)
+        prod_df = self.clean_time_possession(prod_df)
+        prod_df, new_dash_cols = self._expand_dash_stats(prod_df)
+        comp_avg_cols = [item for item in self.stats_cols if item not in self.dash_cols] + new_dash_cols
+
+        prod_df, avg_stats_cols = self._compute_stat_averages(prod_df, comp_avg_cols)
+        return prod_df, avg_stats_cols
 
     def add_dummies(self, df, prod_df):  # Top Level
         dummy_cols = ["Home", "Away", "Network"]
@@ -196,11 +284,6 @@ class Prep_Prod:
             new_dummy_df = pd.get_dummies(prod_df[col], prefix=col)
             df = pd.concat([df, new_dummy_df], axis=1)
         return df
-
-    # def add_dash_cols(self, df):
-    #     df['num_penalties'] = df.apply(lambda row: row['home_penalties'].split('-')[0], axis=1)
-    #     df['penalty_yards'] = df.apply(lambda row: row['home_penalties'].split('-')[1], axis=1)
-    #     return df
 
     def get_target_data(self, prod_df):  # Top Level
         # create a df the same size as the input data that has the target features
@@ -223,7 +306,7 @@ class Prep_Prod:
         prod_df, record_ml_cols = self.clean_prod_records(prod_df)
         prod_df, week_ml_cols = self.clean_week(prod_df)
         prod_df, season_ml_cols = self.clean_season(prod_df)
-        # prod_df, stats_ml_cols = self.clean_stats(prod_df)
+        prod_df, stats_ml_cols = self.clean_stats(prod_df)
 
         df = pd.DataFrame()
         df = self.add_dummies(df, prod_df)
@@ -244,7 +327,7 @@ if __name__ == "__main__":
     ncaaf = Prep_Prod("NCAAF")
     ncaab = Prep_Prod("NCAAB")
     self = nfl
-    # df, prod_df = self.run()
+    df, target_df = self.run()
 
 
 # idea for showing average stats:
