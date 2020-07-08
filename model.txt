@@ -19,4 +19,8 @@ PREDICT:
 
 
 -------------------------------------------------------------------------------------------
+cleaning team stats:
 
+1. expand dash stats into purely numeric cols
+2. compute running average for each in new avg_ cols for each team (iterate like record)
+3. normalize average cols, which are used for modeling

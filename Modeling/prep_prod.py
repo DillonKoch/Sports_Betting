@@ -4,7 +4,7 @@
 # File Created: Thursday, 25th June 2020 4:36:47 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Tuesday, 7th July 2020 3:50:40 pm
+# Last Modified: Tuesday, 7th July 2020 4:13:07 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -297,7 +297,7 @@ class Prep_Prod:
         target_df = prod_df.loc[:, target_cols]
         return target_df
 
-    def run(self):  # Run
+    def run(self, save_local=False):  # Run
         """
         starting with a blank df and prod df, then as I clean and modify each section of PROD for ML,
         I'll also update my ML dataset at that time
@@ -310,11 +310,17 @@ class Prep_Prod:
 
         df = pd.DataFrame()
         df = self.add_dummies(df, prod_df)
+        df['datetime'] = prod_df['datetime']
+        df['Final_Status'] = prod_df['Final_Status']
         ml_cols = record_ml_cols + week_ml_cols + season_ml_cols + stats_ml_cols
         prod_ml = prod_df.loc[:, ml_cols]
 
         df = pd.concat([df, prod_ml], axis=1)
         target_df = self.get_target_data(prod_df)
+
+        if save_local:
+            df.to_csv("ml_{}.csv".format(self.league.lower()), index=False)
+            target_df.to_csv("target_{}.csv".format(self.league.lower()), index=False)
         return df, target_df
 
 
@@ -327,7 +333,7 @@ if __name__ == "__main__":
     ncaaf = Prep_Prod("NCAAF")
     ncaab = Prep_Prod("NCAAB")
     self = nfl
-    df, target_df = self.run()
+    df, target_df = self.run(save_local=True)
 
 
 # idea for showing average stats:
