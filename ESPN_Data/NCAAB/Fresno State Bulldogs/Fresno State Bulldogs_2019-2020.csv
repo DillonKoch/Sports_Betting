@@ -1,0 +1,31 @@
+ESPN_ID,Season,Date,Home,Away,Home_Record,Away_Record,Home_Score,Away_Score,Line,Over_Under,Final_Status,Network,H1H,H2H,HOT,A1H,A2H,AOT,League
+401171547,2020,"November 10, 2019",Fresno State Bulldogs,Winthrop Eagles,"1-1, 1-0 Home","1-1, 1-1 Away",77,74,,,Final,,35,42,,30,44,,NCAAB
+401182453,2020,"November 17, 2019",Fresno State Bulldogs,CSU San Bernardino Coyotes,"2-2, 2-0 Home",,92,47,,,Final,,41,51,,29,18,,NCAAB
+401173678,2020,"November 30, 2019",CSU Northridge Matadors,Fresno State Bulldogs,"1-7, 1-1 Home","2-4, 0-3 Away",73,72,FRES -8.0,142,Final,,39,34,,41,31,,NCAAB
+401173691,2020,"December 7, 2019",Utah State Aggies,Fresno State Bulldogs,"9-1, 2-0 Conf","2-6, 0-2 Conf",77,70,USU -13.5,139,Final/OT,,27,34,16,24,37,9,NCAAB
+401171564,2020,"December 14, 2019",Cal Poly Mustangs,Fresno State Bulldogs,"2-8, 2-1 Home","3-7, 1-5 Away",37,62,FRES -8.5,133,Final,,21,16,,24,38,,NCAAB
+401173709,2020,"December 23, 2019",Fresno State Bulldogs,San Francisco Dons,"4-8, 3-2 Home","11-3, 3-2 Away",69,71,SF -2.0,146,Final,,31,38,,32,39,,NCAAB
+401173716,2020,"January 1, 2020",San Diego State Aztecs,Fresno State Bulldogs,"14-0, 3-0 Conf","4-10, 0-3 Conf",61,52,SDSU -12.5,127,Final,,25,36,,17,35,,NCAAB
+401173727,2020,"January 7, 2020",New Mexico Lobos,Fresno State Bulldogs,"14-3, 3-1 Conf","5-11, 1-4 Conf",78,64,UNM -6.5,142,Final,ESPNU,41,37,,37,27,,NCAAB
+401173743,2020,"January 18, 2020",Wyoming Cowboys,Fresno State Bulldogs,"5-15, 0-8 Conf","6-12, 2-5 Conf",50,65,FRES -6.0,121,Final,,16,34,,31,34,,NCAAB
+401173752,2020,"January 25, 2020",Fresno State Bulldogs,Boise State Broncos,"6-14, 2-7 Conf","13-8, 5-4 Conf",53,87,FRES -1.0,137,Final,,26,27,,35,52,,NCAAB
+401173763,2020,"February 1, 2020",Fresno State Bulldogs,New Mexico Lobos,"8-14, 4-7 Conf","16-8, 5-6 Conf",82,77,FRES -9.5,142,Final,,34,48,,45,32,,NCAAB
+401173771,2020,"February 8, 2020",UNLV Rebels,Fresno State Bulldogs,"12-13, 7-5 Conf","8-16, 4-9 Conf",68,67,UNLV -4.5,138,Final,ESPNU,22,46,,23,44,,NCAAB
+401173783,2020,"February 15, 2020",Fresno State Bulldogs,Utah State Aggies,"9-17, 5-10 Conf","21-7, 10-5 Conf",59,71,USU -6.0,135,Final,ESPNU,23,36,,31,40,,NCAAB
+401173793,2020,"February 22, 2020",Nevada Wolf Pack,Fresno State Bulldogs,"18-10, 11-5 Conf","10-18, 6-11 Conf",78,76,NEV -7.5,144,Final,ESPNU,42,36,,43,33,,NCAAB
+401170555,2020,"November 5, 2019",Oregon Ducks,Fresno State Bulldogs,"1-0, 1-0 Home","0-1, 0-1 Away",71,57,ORE -14.5,138,Final,PAC12,38,33,,27,30,,NCAAB
+401175208,2020,"November 12, 2019",San Diego Toreros,Fresno State Bulldogs,"1-2, 1-1 Home","1-2, 0-2 Away",72,66,,,Final/OT,,34,21,17,28,27,11,NCAAB
+401173667,2020,"November 20, 2019",Fresno State Bulldogs,Saint Mary's Gaels,2-3,4-1,58,68,SMC -8.5,125,Final,ESPNU,27,31,,33,35,,NCAAB
+401173684,2020,"December 4, 2019",Fresno State Bulldogs,UNLV Rebels,"2-5, 0-1 Conf","4-6, 1-0 Conf",80,81,FRES -5.5,124,Final/2OT,,31,34,15,25,40,16,NCAAB
+401170621,2020,"December 11, 2019",California Golden Bears,Fresno State Bulldogs,"6-4, 6-0 Home","2-7, 0-5 Away",69,63,FRES -1.0,129,Final,,32,37,,29,34,,NCAAB
+401174447,2020,"December 20, 2019",Fresno State Bulldogs,IUPUI Jaguars,"4-7, 3-1 Home","4-9, 1-6 Away",95,64,FRES -13.5,133,Final,,52,43,,25,39,,NCAAB
+401173710,2020,"December 28, 2019",Fresno State Bulldogs,UC Riverside Highlanders,"4-9, 3-3 Home","9-5, 3-4 Away",57,60,FRES -7.0,123,Final,,30,27,,21,39,,NCAAB
+401173722,2020,"January 4, 2020",Fresno State Bulldogs,San José St Spartans,"5-10, 1-3 Conf","5-11, 1-3 Conf",79,64,FRES -12.0,138,Final,,28,51,,28,36,,NCAAB
+401173737,2020,"January 14, 2020",Fresno State Bulldogs,San Diego State Aztecs,"5-12, 1-5 Conf","18-0, 7-0 Conf",55,64,SDSU -8.5,127,Final,ESPN2,21,34,,26,38,,NCAAB
+401173749,2020,"January 22, 2020",Colorado State Rams,Fresno State Bulldogs,"14-7, 5-3 Conf","6-13, 2-6 Conf",86,68,CSU -5.5,135,Final,ESPN3,46,40,,33,35,,NCAAB
+401173756,2020,"January 28, 2020",Air Force Falcons,Fresno State Bulldogs,"9-13, 3-7 Conf","7-14, 3-7 Conf",68,79,AFA -2.5,139,Final,,36,32,,36,43,,NCAAB
+401173766,2020,"February 4, 2020",Fresno State Bulldogs,Colorado State Rams,"8-15, 4-8 Conf","17-8, 8-4 Conf",70,80,FRES -2.0,139,Final,CBSSN,30,40,,42,38,,NCAAB
+401173779,2020,"February 12, 2020",San José St Spartans,Fresno State Bulldogs,"7-18, 3-10 Conf","9-16, 5-9 Conf",78,84,FRES -7.0,145,Final/OT,,30,37,11,37,30,17,NCAAB
+401173789,2020,"February 19, 2020",Fresno State Bulldogs,Air Force Falcons,"10-17, 6-10 Conf","10-17, 4-11 Conf",71,62,FRES -8.0,143,Final,ESPN3,32,39,,28,34,,NCAAB
+401173803,2020,"February 29, 2020",Fresno State Bulldogs,Wyoming Cowboys,"11-18, 7-11 Conf","7-23, 2-16 Conf",63,55,FRES -11.5,130,Final,,21,42,,22,33,,NCAAB
+401211049,2020,"March 4, 2020",Fresno State Bulldogs,Air Force Falcons,"11-19, 7-11 Conf","12-19, 5-13 Conf",70,77,FRES -5.5,139,Final,,28,42,,31,46,,NCAAB

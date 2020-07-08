@@ -4,7 +4,7 @@
 # File Created: Monday, 6th July 2020 6:45:05 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Tuesday, 7th July 2020 4:23:27 pm
+# Last Modified: Wednesday, 8th July 2020 4:47:50 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -19,6 +19,7 @@ from os.path import abspath, dirname
 
 import pandas as pd
 import tensorflow as tf
+from tensorflow import keras
 
 
 ROOT_PATH = dirname(dirname(abspath(__file__)))
@@ -55,7 +56,7 @@ class Model:
             df, target_df = prep_prod.run()
 
         if training:
-            print('here')
+            print('training data used')
             df = df.loc[df['Final_Status'].notnull()]
             target_df = target_df.iloc[:len(df), :]
         return df, target_df
@@ -77,9 +78,29 @@ class Model:
         target_df = target_df.apply(lambda row: add_home_win(row), axis=1)
         return target_df
 
+    def _build_score_model(self):  # Top Level
+        model = keras.Sequential([
+            keras.layers.Dense(1024, activation=tf.nn.relu),
+            keras.layers.Dense(512, activation=tf.nn.relu),
+            keras.layers.Dense(256, activation=tf.nn.relu),
+            keras.layers.Dense(1, activation=tf.nn.relu),
+        ])
+
+        model.compile(optimizer=tf.optimizers.Adam())
+
     def run_score_model(self):  # Run
         df, target_df = self.load_data()
         target_df = self.add_home_win_col(target_df)
+        full_df = pd.concat([df, target_df], axis=1)
+        cols = list(df.columns) + ["Home_win"]
+        full_df = full_df.loc[:, cols]
+        full_df = full_df.dropna(axis=0)
+
+        X_cols = [item for item in list(df.columns) if item not in ["Final_Status", "datetime"]]
+        X_data = full_df.loc[:, X_cols]
+        y_col = ["Home_win"]
+        y_data = full_df.loc[:, y_col]
+
         return None
 
     def run_winner_model(self):  # Run
