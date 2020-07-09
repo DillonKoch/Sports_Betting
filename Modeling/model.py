@@ -4,7 +4,7 @@
 # File Created: Monday, 6th July 2020 6:45:05 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Wednesday, 8th July 2020 4:47:50 pm
+# Last Modified: Thursday, 9th July 2020 5:36:07 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -19,6 +19,7 @@ from os.path import abspath, dirname
 
 import pandas as pd
 import tensorflow as tf
+import numpy as np
 from tensorflow import keras
 
 
@@ -78,15 +79,19 @@ class Model:
         target_df = target_df.apply(lambda row: add_home_win(row), axis=1)
         return target_df
 
-    def _build_score_model(self):  # Top Level
+    def build_score_model(self):  # Top Level
         model = keras.Sequential([
-            keras.layers.Dense(1024, activation=tf.nn.relu),
+            keras.layers.Dense(1024, input_shape=(149, 1), activation=tf.nn.relu),
             keras.layers.Dense(512, activation=tf.nn.relu),
             keras.layers.Dense(256, activation=tf.nn.relu),
-            keras.layers.Dense(1, activation=tf.nn.relu),
+            keras.layers.Dense(128, activation=tf.nn.relu),
+            keras.layers.Dense(1, activation='sigmoid'),
         ])
 
-        model.compile(optimizer=tf.optimizers.Adam())
+        model.compile(optimizer=tf.optimizers.Adam(),
+                      loss="binary_crossentropy",
+                      metrics=['accuracy'])
+        return model
 
     def run_score_model(self):  # Run
         df, target_df = self.load_data()
@@ -101,7 +106,13 @@ class Model:
         y_col = ["Home_win"]
         y_data = full_df.loc[:, y_col]
 
-        return None
+        X_data = np.array(X_data).reshape((3434, 149, 1))
+        y_data = np.array(y_data).reshape((3434, 1))
+
+        model = self.build_score_model()
+        model.fit([X_data], y_data, epochs=100)
+        model.save("{}_Score.h5".format(self.league))
+        return model
 
     def run_winner_model(self):  # Run
         pass
@@ -113,4 +124,4 @@ class Model:
 if __name__ == "__main__":
     x = Model("NFL")
     self = x
-    # x.run_score_model()
+    x.run_score_model()
