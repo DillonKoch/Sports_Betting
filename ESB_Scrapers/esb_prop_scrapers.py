@@ -4,7 +4,7 @@
 # File Created: Wednesday, 17th June 2020 6:37:45 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Tuesday, 23rd June 2020 4:59:19 pm
+# Last Modified: Friday, 10th July 2020 4:00:12 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -17,9 +17,7 @@ import sys
 from os.path import abspath, dirname
 
 import pandas as pd
-from tqdm import tqdm
 
-from bs4 import BeautifulSoup as soup
 
 ROOT_PATH = dirname(dirname(abspath(__file__)))
 if ROOT_PATH not in sys.path:
