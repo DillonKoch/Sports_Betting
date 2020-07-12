@@ -4,7 +4,7 @@
 # File Created: Wednesday, 17th June 2020 6:37:45 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Friday, 10th July 2020 4:00:12 pm
+# Last Modified: Saturday, 11th July 2020 10:54:33 am
 # Modified By: Dillon Koch
 # -----
 #
@@ -122,7 +122,9 @@ class ESB_Bool_Prop_Scraper:
 
         for i in add_indices:
             current_df.loc[len(current_df)] = new_df.iloc[i, :]
+            print("-" * 25)
             print("Added new bet to {} {}".format(self.league, self.bet_name))
+            print("-" * 25)
             print(new_items[i][1], new_items[i][2], new_items[i][3])
         return current_df
 
