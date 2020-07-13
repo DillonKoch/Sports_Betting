@@ -4,7 +4,7 @@
 # File Created: Monday, 6th July 2020 6:45:05 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Thursday, 9th July 2020 5:36:07 pm
+# Last Modified: Sunday, 12th July 2020 8:18:56 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -17,9 +17,11 @@ import os
 import sys
 from os.path import abspath, dirname
 
+import numpy as np
 import pandas as pd
 import tensorflow as tf
-import numpy as np
+import wandb
+from wandb.keras import WandbCallback
 from tensorflow import keras
 
 
@@ -32,23 +34,27 @@ from Modeling.prep_prod import Prep_Prod
 physical_devices = tf.config.experimental.list_physical_devices('GPU')
 tf.config.experimental.set_memory_growth(physical_devices[0], True)
 
+wandb.init(project="sports-betting")
+
 
 class Model:
-    def __init__(self, league):
+    """
+    class for creating models to predict one of the target variables in the PROD df
+    """
+
+    def __init__(self, league: str):
         self.league = league
 
     def _load_local_data(self):  # Specific Helper load_data
-        y_data_name = "ml_{}.csv".format(self.league.lower())
-        x_data_name = "target_{}.csv".format(self.league.lower())
+        y_data_name = "{}_ml.csv".format(self.league.lower())
+        x_data_name = "{}_target.csv".format(self.league.lower())
         files = os.listdir(ROOT_PATH + "/Modeling/")
         if ((y_data_name in files) and (x_data_name in files)):
+            print("using locally saved training/target data")
             df = pd.read_csv(y_data_name)
             target_df = pd.read_csv(x_data_name)
             return df, target_df
         return None, None
-
-    def _clean_data(self, df):
-        pass
 
     def load_data(self, training=True):  # Top Level
         df, target_df = self._load_local_data()
@@ -57,17 +63,46 @@ class Model:
             df, target_df = prep_prod.run()
 
         if training:
-            print('training data used')
+            print('using training data')
             df = df.loc[df['Final_Status'].notnull()]
             target_df = target_df.iloc[:len(df), :]
         return df, target_df
 
-    def add_over_column(self):  # Top Level
-        # adds a binary 1/0 col to indicate if the over hit or not
-        pass
+    def oversample_even_classes(self, df, target_col):  # Top Level
+        target_vals = list(set(list(df[target_col])))
+        sample_num = max([len(df.loc[df[target_col] == val]) for val in target_vals])
 
-    def add_home_win_col(self, target_df):  # Top Level
-        # adds binary col to indicate if home team wins or not
+        oversampled_df = pd.DataFrame(columns=list(df.columns))
+        for val in target_vals:
+            new_df = df.loc[df[target_col] == val]
+            new_df = new_df.sample(sample_num, replace=True)
+            oversampled_df = pd.concat([oversampled_df, new_df])
+        oversampled_df = oversampled_df.sample(frac=1)
+        return oversampled_df
+
+
+class Score_Model(Model):
+    """
+    class for predicting the winner of a game
+    """
+
+    def home_win_model(self):  # Top Level
+        model = keras.Sequential([
+            keras.layers.Dense(256, input_shape=([149]), activation='relu'),
+            keras.layers.Dense(128, activation='relu'),
+            keras.layers.Dense(1, activation='sigmoid'),
+        ])
+
+        opt = keras.optimizers.Adam(learning_rate=0.001)
+        model.compile(optimizer=opt,
+                      loss="binary_crossentropy",
+                      metrics=['accuracy'])
+        return model
+
+    def get_home_win_col(self, target_df):  # Top Level
+        """
+        adds binary col to indicate if home team wins or not
+        """
         target_df["Home_win"] = None
 
         def add_home_win(row):
@@ -77,51 +112,59 @@ class Model:
             row['Home_win'] = home_win
             return row
         target_df = target_df.apply(lambda row: add_home_win(row), axis=1)
-        return target_df
-
-    def build_score_model(self):  # Top Level
-        model = keras.Sequential([
-            keras.layers.Dense(1024, input_shape=(149, 1), activation=tf.nn.relu),
-            keras.layers.Dense(512, activation=tf.nn.relu),
-            keras.layers.Dense(256, activation=tf.nn.relu),
-            keras.layers.Dense(128, activation=tf.nn.relu),
-            keras.layers.Dense(1, activation='sigmoid'),
-        ])
-
-        model.compile(optimizer=tf.optimizers.Adam(),
-                      loss="binary_crossentropy",
-                      metrics=['accuracy'])
-        return model
+        return target_df['Home_win']
 
     def run_score_model(self):  # Run
         df, target_df = self.load_data()
-        target_df = self.add_home_win_col(target_df)
-        full_df = pd.concat([df, target_df], axis=1)
-        cols = list(df.columns) + ["Home_win"]
-        full_df = full_df.loc[:, cols]
+        home_win_col = self.get_home_win_col(target_df)
+        full_df = pd.concat([df, home_win_col], axis=1)
         full_df = full_df.dropna(axis=0)
+        full_df = self.oversample_even_classes(full_df, "Home_win")
 
-        X_cols = [item for item in list(df.columns) if item not in ["Final_Status", "datetime"]]
+        X_cols = [item for item in list(df.columns) if item not in ["Final_Status", "datetime", "Home_win"]]
         X_data = full_df.loc[:, X_cols]
-        y_col = ["Home_win"]
-        y_data = full_df.loc[:, y_col]
+        y_data = full_df.loc[:, 'Home_win']
 
-        X_data = np.array(X_data).reshape((3434, 149, 1))
-        y_data = np.array(y_data).reshape((3434, 1))
+        X_data = np.array(X_data).astype(float)
+        y_data = np.array(y_data).astype(int)
 
-        model = self.build_score_model()
-        model.fit([X_data], y_data, epochs=100)
+        model = self.home_win_model()
+        model.fit([X_data], y_data, epochs=30, batch_size=16, callbacks=[WandbCallback(data_type="data", labels=y_data)])
         model.save("{}_Score.h5".format(self.league))
         return model
 
-    def run_winner_model(self):  # Run
-        pass
+    def predict_score_model(self):  # Top Level
+        model = keras.Sequential([
+            keras.layers.Dense(256, input_shape=([149]), activation='relu'),
+            keras.layers.Dense(128, activation='relu'),
+            keras.layers.Dense(64, activation='relu'),
+            keras.layers.Dense(2, activation='linear')
+        ])
+        opt = keras.optimizers.Adam(learning_rate=0.001)
+        model.compile(optimizer=opt,
+                      loss="mse",
+                      metrics=['accuracy'])
+        return model
 
-    def run_over_under_model(self):  # Run
-        pass
+    def run_predict_score(self):  # Run
+        df, target_df = self.load_data()
+        score_df = target_df.loc[:, ["Home_Score_x", "Away_Score_x"]]
+        full_df = pd.concat([df, score_df], axis=1)
+        full_df = full_df.dropna(axis=0)
+
+        X_cols = [item for item in list(df.columns) if item not in
+                  ["Final_Status", "datetime", "Home_Score", "Away_Score"]]
+        X_data = full_df.loc[:, X_cols]
+        y_data = full_df.loc[:, ["Home_Score_x", "Away_Score_x"]]
+
+        X_data = np.array(X_data).astype(float)
+        y_data = np.array(y_data).astype(float)
+
+        model = self.predict_score_model()
+        model.fit(X_data, y_data, epochs=100, batch_size=32, callbacks=[WandbCallback(labels=y_data)])
 
 
 if __name__ == "__main__":
-    x = Model("NFL")
+    x = Score_Model("NFL")
     self = x
-    x.run_score_model()
+    x.run_predict_score()

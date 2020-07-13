@@ -4,7 +4,7 @@
 # File Created: Tuesday, 16th June 2020 7:58:09 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Saturday, 4th July 2020 1:36:16 pm
+# Last Modified: Sunday, 12th July 2020 9:36:57 am
 # Modified By: Dillon Koch
 # -----
 #
@@ -30,7 +30,7 @@ from ESB_Scrapers.esb_prop_scrapers import ESB_Bool_Prop_Scraper
 
 class ESB_Game:
     """
-     class for representing a single game on Elite Sportsbook
+    class for representing a single game on Elite Sportsbook
     """
 
     def __init__(self):
@@ -48,12 +48,7 @@ class ESB_Game:
 
 class ESB_Game_Scraper(ESB_Bool_Prop_Scraper):
     """
-    ESB_Game_Scraper scrapes the odds information from Elite Sportsbook for a game
-
-    Parameters
-    ----------
-    ESB_Bool_Prop_Scraper : class
-        Prop bet scraper that this class inherits from
+    scraper for games on ESB, inheriting from ESB bool prop scraper
     """
 
     def create_games_df(self) -> pd.DataFrame:  # Specific Helper make_new_df
@@ -189,6 +184,9 @@ class ESB_Game_Scraper(ESB_Bool_Prop_Scraper):
         return df
 
     def make_new_df(self, save):  # Top Level
+        """
+        overwriting from bool prop scraper - creates new df with all current odds
+        """
         df = self.create_games_df()
         title = self._get_sp_title()
         box_date_pairs = self.get_date_event_boxes(self.sp)
@@ -203,6 +201,10 @@ class ESB_Game_Scraper(ESB_Bool_Prop_Scraper):
         return df
 
     def combine_dfs(self, current_df, new_df):  # Top Level
+        """
+        overwriting method in bool prop scraper
+        - combines current and newly scraped df, keeping only changed/new bets from new df
+        """
         newest_current = current_df.drop_duplicates(['Title', 'datetime', 'Home', 'Away'], keep="last")
 
         items_cols = ["Title", "datetime", "Game_Time", "Home", "Away", "Over_ESB", "Over_ml_ESB",
@@ -228,7 +230,7 @@ class ESB_Game_Scraper(ESB_Bool_Prop_Scraper):
 
     def update_df(self):  # Run
         """
-        putting here for now to use in interactive window, it's already inherited so remove later
+        updating the existing df or making a new one
         """
         if not self.check_df_exists():
             self.make_new_df(save=True)

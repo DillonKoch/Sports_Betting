@@ -4,7 +4,7 @@
 # File Created: Wednesday, 17th June 2020 6:37:45 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Saturday, 11th July 2020 10:54:33 am
+# Last Modified: Sunday, 12th July 2020 9:34:24 am
 # Modified By: Dillon Koch
 # -----
 #
@@ -27,16 +27,21 @@ from Utility.Utility import get_sp1
 
 
 class ESB_Bool_Prop_Scraper:
+    """
+    Class for scraping one individual Elite Sportsbook Bool Prop
+    - creates a new dataframe if one doesn't exist, or updates the current df
+    """
+
     def __init__(self, league, bet_name, sp):
         self.league = league
         self.bet_name = bet_name
         self.sp = sp
         self.df_path = ROOT_PATH + "/ESB_Data/{}/{}.csv".format(self.league, self.bet_name)
 
-    def _get_scrape_ts(self):  # Global Helper
-        return datetime.datetime.now().strftime("%Y-%m-%d %H:%M")
-
     def check_df_exists(self):  # Top Level update_df
+        """
+        returns True if there is already a dataframe for the bet, otherwise False
+        """
         try:
             _ = pd.read_csv(self.df_path)
             return True
@@ -79,7 +84,16 @@ class ESB_Bool_Prop_Scraper:
 
         return results
 
+    def _get_scrape_ts(self):  # Specific Helper make_new_df
+        return datetime.datetime.now().strftime("%Y-%m-%d %H:%M")
+
     def make_new_df(self, save):  # Top Level
+        """
+        Creates a new dataframe for the given bet from scratch
+        - if the bet doesn't have a df yet, this will be saved as the dataframe
+        - if the bet does have a df, this will be appended to the existing dataframe
+          and only the bets in this dataframe that are new/changed will be added to the old one
+        """
         df = self._create_prop_df()
         title = self._get_sp_title()
         description = self._get_sp_description()
@@ -109,6 +123,10 @@ class ESB_Bool_Prop_Scraper:
         return new_lis
 
     def combine_dfs(self, current_df, new_df):  # Top Level
+        """
+        uses the existing dataframe for the bet, and the newly scraped dataframe (the current odds)
+        and adds any bets in the new df that are new or changed bets from the existing df
+        """
         newest_current = current_df.drop_duplicates(['Title', 'Team', 'Option'], keep="last")
         current_items = [[row['Title'], row['Team'], row['Option'], row['Odds']] for i, row in newest_current.iterrows()]
         new_items = [[row['Title'], row['Team'], row['Option'], row['Odds']] for i, row in new_df.iterrows()]
@@ -129,9 +147,14 @@ class ESB_Bool_Prop_Scraper:
         return current_df
 
     def update_df(self):  # Run
+        """
+        Updates the existing bet df or creates a new one if this is a new bet
+        """
         if not self.check_df_exists():
             self.make_new_df(save=True)
+            print("-" * 25)
             print("New file created for {}".format(self.bet_name))
+            print("-" * 25)
         else:
             current_df = pd.read_csv(self.df_path)
             new_df = self.make_new_df(save=False)
@@ -140,6 +163,9 @@ class ESB_Bool_Prop_Scraper:
 
 
 class ESB_Prop_Scraper(ESB_Bool_Prop_Scraper):
+    """
+    Scraper for Prop bets, inheriting from the Bool_Prop scraper
+    """
 
     def _create_prop_df(self):  # Specific Helper make_new_df
         cols = ["Title", "description", "Team/Player", "Odds", "scraped_ts"]
@@ -157,6 +183,10 @@ class ESB_Prop_Scraper(ESB_Bool_Prop_Scraper):
         return [(team, odd) for team, odd in zip(teams, odds)]
 
     def make_new_df(self, save):  # Top Level
+        """
+        overwriting the make_new_df method from the bool prop scraper for prop bets
+        - makes a new df with all the current bets on ESB
+        """
         df = self._create_prop_df()
         title = self._get_sp_title()
         description = self._get_sp_description()
@@ -169,6 +199,10 @@ class ESB_Prop_Scraper(ESB_Bool_Prop_Scraper):
         return df
 
     def combine_dfs(self, current_df, new_df):  # Top Level
+        """
+        overwriting the combine_dfs method of the bool prop scraper
+        - combines the current and new dataframes, keeping new changes from the new df
+        """
         newest_current = current_df.drop_duplicates(['Title', 'Team/Player'], keep="last")
         current_items = [[row['Title'], row['Team/Player'], row['Odds']] for i, row in newest_current.iterrows()]
         new_items = [[row['Title'], row['Team/Player'], row['Odds']] for i, row in new_df.iterrows()]
@@ -182,7 +216,9 @@ class ESB_Prop_Scraper(ESB_Bool_Prop_Scraper):
 
         for i in add_indices:
             current_df.loc[len(current_df)] = new_df.iloc[i, :]
+            print("-" * 25)
             print("Added new bet to {} {}".format(self.league, self.bet_name))
+            print("-" * 25)
             print(new_items[i][0], new_items[i][1], new_items[i][2])
         return current_df
 

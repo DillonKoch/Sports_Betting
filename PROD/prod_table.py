@@ -4,7 +4,7 @@
 # File Created: Thursday, 18th June 2020 12:48:04 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Sunday, 5th July 2020 10:04:46 am
+# Last Modified: Sunday, 12th July 2020 1:44:15 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -32,7 +32,11 @@ from Utility.Utility import listdir_fullpath
 
 
 class Prod_Table:
-    def __init__(self, league):
+    """
+    class for creating PROD table for each of the four leagues, using data from ESPN, Odds, ESB
+    """
+
+    def __init__(self, league: str):
         self.league = league
         self.prod_table = ROOT_PATH + "/PROD/PROD_{}.csv".format(self.league)
         self.esb_table = ROOT_PATH + "/ESB_Data/{}/Game_Lines.csv".format(self.league)
@@ -336,6 +340,7 @@ class Prod_Table:
         df = self.load_espn_data()
         df = self.add_odds_data(df)
         df = self.add_esb_data(df)
+        df = df.drop_duplicates(subset=["Home", "Away", "datetime"], keep="last")
         df.to_csv(ROOT_PATH + "/PROD/{}_PROD.csv".format(self.league), index=False)
         return df
 
@@ -356,6 +361,6 @@ if __name__ == "__main__":
     nba = Prod_Table("NBA")
     ncaaf = Prod_Table("NCAAF")
     ncaab = Prod_Table("NCAAB")
-    self = ncaaf
+    self = nfl
     df = self.prod_table_from_scratch()
     # ndf = self.espn_odds_non_matches()

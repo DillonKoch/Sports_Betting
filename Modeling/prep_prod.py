@@ -4,7 +4,7 @@
 # File Created: Thursday, 25th June 2020 4:36:47 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Tuesday, 7th July 2020 4:13:07 pm
+# Last Modified: Sunday, 12th July 2020 4:33:14 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -20,6 +20,7 @@ from os.path import abspath, dirname
 
 import numpy as np
 import pandas as pd
+from sklearn.preprocessing import MinMaxScaler
 from tqdm import tqdm
 
 ROOT_PATH = dirname(dirname(abspath(__file__)))
@@ -59,6 +60,9 @@ class Prep_Prod:
         return all_cols
 
     def load_prod_df(self):  # Top Level
+        """
+        loads the current PROD df in PROD folder, cleans names of teams that relocated
+        """
         df = pd.read_csv(ROOT_PATH + "/PROD/{}_PROD.csv".format(self.league))
         df = df.replace("San Diego Chargers", "Los Angeles Chargers")
         df = df.replace("Oakland Raiders", "Las Vegas Raiders")
@@ -270,12 +274,19 @@ class Prep_Prod:
 
         return prod_df, avg_col_names
 
+    def _scale_stats_cols(self, prod_df, avg_stats_cols):  # Specific Helper clean_stats
+        scaler = MinMaxScaler()
+        for col in avg_stats_cols:
+            prod_df[col] = scaler.fit_transform(prod_df[col].values.reshape(-1, 1))
+        return prod_df
+
     def clean_stats(self, prod_df):  # Top Level
         prod_df = self.clean_time_possession(prod_df)
         prod_df, new_dash_cols = self._expand_dash_stats(prod_df)
         comp_avg_cols = [item for item in self.stats_cols if item not in self.dash_cols] + new_dash_cols
 
         prod_df, avg_stats_cols = self._compute_stat_averages(prod_df, comp_avg_cols)
+        prod_df = self._scale_stats_cols(prod_df, avg_stats_cols)
         return prod_df, avg_stats_cols
 
     def add_dummies(self, df, prod_df):  # Top Level
@@ -319,8 +330,8 @@ class Prep_Prod:
         target_df = self.get_target_data(prod_df)
 
         if save_local:
-            df.to_csv("ml_{}.csv".format(self.league.lower()), index=False)
-            target_df.to_csv("target_{}.csv".format(self.league.lower()), index=False)
+            df.to_csv("{}_ml.csv".format(self.league.lower()), index=False)
+            target_df.to_csv("{}_target.csv".format(self.league.lower()), index=False)
         return df, target_df
 
 
