@@ -4,7 +4,7 @@
 # File Created: Monday, 6th July 2020 6:45:05 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Sunday, 12th July 2020 8:18:56 pm
+# Last Modified: Monday, 13th July 2020 1:15:38 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -79,6 +79,12 @@ class Model:
             oversampled_df = pd.concat([oversampled_df, new_df])
         oversampled_df = oversampled_df.sample(frac=1)
         return oversampled_df
+
+    def save_model(self, model, name):  # Top Level
+        path = ROOT_PATH + "/Models/{}/{}".format(self.league, name)
+        path = path + ".h5" if ".h5" not in path else path
+        model.save(path)
+        print("Model saved to {}!".format(path))
 
 
 class Score_Model(Model):
@@ -162,6 +168,18 @@ class Score_Model(Model):
 
         model = self.predict_score_model()
         model.fit(X_data, y_data, epochs=100, batch_size=32, callbacks=[WandbCallback(labels=y_data)])
+
+
+class Over_Under_Model(Model):
+
+    def run_over_under(self):  # Run
+        pass
+
+
+class Predict_ML_Model(Model):
+
+    def run_predict_ml(self):  # Run
+        pass
 
 
 if __name__ == "__main__":
