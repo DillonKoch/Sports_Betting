@@ -4,7 +4,7 @@
 # File Created: Monday, 6th July 2020 6:45:05 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Monday, 13th July 2020 1:15:38 pm
+# Last Modified: Tuesday, 14th July 2020 4:53:27 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -120,7 +120,7 @@ class Score_Model(Model):
         target_df = target_df.apply(lambda row: add_home_win(row), axis=1)
         return target_df['Home_win']
 
-    def run_score_model(self):  # Run
+    def run_home_win_model(self):  # Run
         df, target_df = self.load_data()
         home_win_col = self.get_home_win_col(target_df)
         full_df = pd.concat([df, home_win_col], axis=1)
@@ -136,7 +136,8 @@ class Score_Model(Model):
 
         model = self.home_win_model()
         model.fit([X_data], y_data, epochs=30, batch_size=16, callbacks=[WandbCallback(data_type="data", labels=y_data)])
-        model.save("{}_Score.h5".format(self.league))
+        # model.save("{}_Score.h5".format(self.league))
+        self.save_model(model, "{}_Score.h5".format(self.league))
         return model
 
     def predict_score_model(self):  # Top Level
@@ -167,7 +168,8 @@ class Score_Model(Model):
         y_data = np.array(y_data).astype(float)
 
         model = self.predict_score_model()
-        model.fit(X_data, y_data, epochs=100, batch_size=32, callbacks=[WandbCallback(labels=y_data)])
+        model.fit(X_data, y_data, epochs=70, batch_size=32, callbacks=[WandbCallback(labels=y_data)])
+        self.save_model(model, "{}_Predict_Score.h5".format(self.league))
 
 
 class Over_Under_Model(Model):

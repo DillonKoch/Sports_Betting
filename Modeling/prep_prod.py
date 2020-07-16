@@ -4,7 +4,7 @@
 # File Created: Thursday, 25th June 2020 4:36:47 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Monday, 13th July 2020 3:03:07 pm
+# Last Modified: Tuesday, 14th July 2020 7:51:04 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -36,7 +36,7 @@ class Prep_Prod:
         self.football_league = True if self.league in ["NFL", "NCAAF"] else False
 
     @property
-    def dash_cols(self):
+    def dash_cols(self):  # Property
         football_cols = ["penalties", "third_down_eff", "fourth_down_eff", "completions_attempts",
                          "redzone_made_att", "sacks_yards_lost"]
         basketball_cols = ["field_goals", "three_pointers", "free_throws"]
@@ -46,13 +46,13 @@ class Prep_Prod:
         return cols
 
     @property
-    def config(self):
+    def config(self):  # Property
         with open(ROOT_PATH + "/Modeling/{}_model.json".format(self.league.lower())) as f:
             config = json.load(f)
         return config
 
     @property
-    def stats_cols(self):
+    def stats_cols(self):  # Property
         ts = Team_Stats()
         cols = list(ts.football_dict.values()) if self.football_league else list(ts.basketball_dict.values())
         all_cols = ["home_" + col if i % 2 == 0 else "away_" + col for i,
@@ -70,104 +70,104 @@ class Prep_Prod:
         self.all_teams = set(list(df.Home) + list(df.Away))
         return df
 
-    def _clean_unplayed_records(self, prod_df: pd.DataFrame) -> pd.DataFrame:  # Specific Helper clean_prod_records
-        prod_df.Home_Record.fillna("0-0, 0-0 Home", inplace=True)
-        prod_df.Away_Record.fillna("0-0, 0-0 Away", inplace=True)
-        return prod_df
+    # def _clean_unplayed_records(self, prod_df: pd.DataFrame) -> pd.DataFrame:  # Specific Helper clean_prod_records
+    #     prod_df.Home_Record.fillna("0-0, 0-0 Home", inplace=True)
+    #     prod_df.Away_Record.fillna("0-0, 0-0 Away", inplace=True)
+    #     return prod_df
 
-    def _add_null_rec_cols(self, df: pd.DataFrame) -> pd.DataFrame:  # Specific Helper clean_prod_records
-        record_cols = ["Home_ovr_wins", "Home_ovr_losses", "Home_ovr_ties",
-                       "Away_ovr_wins", "Away_ovr_losses", "Away_ovr_ties",
-                       "Home_spec_wins", "Home_spec_losses", "Home_spec_ties",
-                       "Away_spec_wins", "Away_spec_losses", "Away_spec_ties",
-                       "conf_game", "neutral_game"]
-        for col in record_cols:
-            df[col] = None
-        return df
+    # def _add_null_rec_cols(self, df: pd.DataFrame) -> pd.DataFrame:  # Specific Helper clean_prod_records
+    #     record_cols = ["Home_ovr_wins", "Home_ovr_losses", "Home_ovr_ties",
+    #                    "Away_ovr_wins", "Away_ovr_losses", "Away_ovr_ties",
+    #                    "Home_spec_wins", "Home_spec_losses", "Home_spec_ties",
+    #                    "Away_spec_wins", "Away_spec_losses", "Away_spec_ties",
+    #                    "conf_game", "neutral_game"]
+    #     for col in record_cols:
+    #         df[col] = None
+    #     return df
 
-    def _new_season_check(self, row, current_season, wl_dict):  # Specific Helper clean_prod_records
-        is_new_season = True if int(row['Season_x']) > current_season else False
-        if is_new_season:
-            wl_dict = self._reset_wl_dict()
-            current_season += 1
-        return wl_dict, current_season
+    # def _new_season_check(self, row, current_season, wl_dict):  # Specific Helper clean_prod_records
+    #     is_new_season = True if int(row['Season_x']) > current_season else False
+    #     if is_new_season:
+    #         wl_dict = self._reset_wl_dict()
+    #         current_season += 1
+    #     return wl_dict, current_season
 
-    def _reset_wl_dict(self):  # Specific Helper clean_prod_records
-        return {team: {"ovr_wins": 0, "ovr_losses": 0, "ovr_ties": 0,
-                       "home_wins": 0, "home_losses": 0, "home_ties": 0,
-                       "away_wins": 0, "away_losses": 0, "away_ties": 0,
-                       "conf_wins": 0, "conf_losses": 0, "conf_ties": 0,
-                       "neutral_wins": 0, "neutral_losses": 0, "neutral_ties": 0} for team in self.all_teams}
+    # def _reset_wl_dict(self):  # Specific Helper clean_prod_records
+    #     return {team: {"ovr_wins": 0, "ovr_losses": 0, "ovr_ties": 0,
+    #                    "home_wins": 0, "home_losses": 0, "home_ties": 0,
+    #                    "away_wins": 0, "away_losses": 0, "away_ties": 0,
+    #                    "conf_wins": 0, "conf_losses": 0, "conf_ties": 0,
+    #                    "neutral_wins": 0, "neutral_losses": 0, "neutral_ties": 0} for team in self.all_teams}
 
-    def _update_wl_dict(self, wl_dict, row):  # Specific Helper clean_prod_records
-        if "Final" not in str(row["Final_Status"]):
-            return wl_dict
+    # def _update_wl_dict(self, wl_dict, row):  # Specific Helper clean_prod_records
+    #     if "Final" not in str(row["Final_Status"]):
+    #         return wl_dict
 
-        home, away = row["Home"], row["Away"]
-        home_tag = "home" if "Home" in row["Home_Record"] else "conf" if "Conf" in row['Home_Record'] else "neutral"
-        away_tag = "away" if "Away" in row["Away_Record"] else "conf" if "Conf" in row['Away_Record'] else "neutral"
+    #     home, away = row["Home"], row["Away"]
+    #     home_tag = "home" if "Home" in row["Home_Record"] else "conf" if "Conf" in row['Home_Record'] else "neutral"
+    #     away_tag = "away" if "Away" in row["Away_Record"] else "conf" if "Conf" in row['Away_Record'] else "neutral"
 
-        tie = True if int(row['Home_Score_x']) == int(row['Away_Score_x']) else False
-        if tie:
-            wl_dict[home]["ovr_ties"] += 1
-            wl_dict[away]["ovr_ties"] += 1
-            wl_dict[home]["{}_ties".format(home_tag)] += 1
-            wl_dict[away]["{}_ties".format(away_tag)] += 1
-            return wl_dict
+    #     tie = True if int(row['Home_Score_x']) == int(row['Away_Score_x']) else False
+    #     if tie:
+    #         wl_dict[home]["ovr_ties"] += 1
+    #         wl_dict[away]["ovr_ties"] += 1
+    #         wl_dict[home]["{}_ties".format(home_tag)] += 1
+    #         wl_dict[away]["{}_ties".format(away_tag)] += 1
+    #         return wl_dict
 
-        home_won = True if int(row['Home_Score_x']) > int(row['Away_Score_x']) else False
-        if home_won:
-            wl_dict[home]["ovr_wins"] += 1
-            wl_dict[away]["ovr_losses"] += 1
-            wl_dict[home]["{}_wins".format(home_tag)] += 1
-            wl_dict[away]["{}_losses".format(away_tag)] += 1
-        else:
-            wl_dict[home]["ovr_losses"] += 1
-            wl_dict[away]["ovr_wins"] += 1
-            wl_dict[home]["{}_losses".format(home_tag)] += 1
-            wl_dict[away]["{}_wins".format(away_tag)] += 1
-        return wl_dict
+    #     home_won = True if int(row['Home_Score_x']) > int(row['Away_Score_x']) else False
+    #     if home_won:
+    #         wl_dict[home]["ovr_wins"] += 1
+    #         wl_dict[away]["ovr_losses"] += 1
+    #         wl_dict[home]["{}_wins".format(home_tag)] += 1
+    #         wl_dict[away]["{}_losses".format(away_tag)] += 1
+    #     else:
+    #         wl_dict[home]["ovr_losses"] += 1
+    #         wl_dict[away]["ovr_wins"] += 1
+    #         wl_dict[home]["{}_losses".format(home_tag)] += 1
+    #         wl_dict[away]["{}_wins".format(away_tag)] += 1
+    #     return wl_dict
 
-    def _update_row(self, row, wl_dict):  # Specific Helper clean_prod_records
-        home, away = row["Home"], row["Away"]
-        home_tag = "home" if "Home" in row["Home_Record"] else "conf" if "Conf" in row['Home_Record'] else "neutral"
-        away_tag = "away" if "Away" in row["Away_Record"] else "conf" if "Conf" in row['Away_Record'] else "neutral"
+    # def _update_row(self, row, wl_dict):  # Specific Helper clean_prod_records
+    #     home, away = row["Home"], row["Away"]
+    #     home_tag = "home" if "Home" in row["Home_Record"] else "conf" if "Conf" in row['Home_Record'] else "neutral"
+    #     away_tag = "away" if "Away" in row["Away_Record"] else "conf" if "Conf" in row['Away_Record'] else "neutral"
 
-        row["Home_ovr_wins"] = wl_dict[home]["ovr_wins"]
-        row["Home_ovr_losses"] = wl_dict[home]["ovr_losses"]
-        row["Home_ovr_ties"] = wl_dict[home]["ovr_ties"]
-        row["Away_ovr_wins"] = wl_dict[away]["ovr_wins"]
-        row["Away_ovr_losses"] = wl_dict[away]["ovr_losses"]
-        row["Away_ovr_ties"] = wl_dict[away]["ovr_ties"]
+    #     row["Home_ovr_wins"] = wl_dict[home]["ovr_wins"]
+    #     row["Home_ovr_losses"] = wl_dict[home]["ovr_losses"]
+    #     row["Home_ovr_ties"] = wl_dict[home]["ovr_ties"]
+    #     row["Away_ovr_wins"] = wl_dict[away]["ovr_wins"]
+    #     row["Away_ovr_losses"] = wl_dict[away]["ovr_losses"]
+    #     row["Away_ovr_ties"] = wl_dict[away]["ovr_ties"]
 
-        row["Home_spec_wins"] = wl_dict[home]["{}_wins".format(home_tag)]
-        row["Home_spec_losses"] = wl_dict[home]["{}_losses".format(home_tag)]
-        row["Home_spec_ties"] = wl_dict[home]["{}_ties".format(home_tag)]
-        row["Away_spec_wins"] = wl_dict[away]["{}_wins".format(away_tag)]
-        row["Away_spec_losses"] = wl_dict[away]["{}_losses".format(away_tag)]
-        row["Away_spec_ties"] = wl_dict[away]["{}_ties".format(away_tag)]
+    #     row["Home_spec_wins"] = wl_dict[home]["{}_wins".format(home_tag)]
+    #     row["Home_spec_losses"] = wl_dict[home]["{}_losses".format(home_tag)]
+    #     row["Home_spec_ties"] = wl_dict[home]["{}_ties".format(home_tag)]
+    #     row["Away_spec_wins"] = wl_dict[away]["{}_wins".format(away_tag)]
+    #     row["Away_spec_losses"] = wl_dict[away]["{}_losses".format(away_tag)]
+    #     row["Away_spec_ties"] = wl_dict[away]["{}_ties".format(away_tag)]
 
-        row["conf_game"] = 1 if home_tag == "conf" else 0
-        row["neutral_game"] = 1 if home_tag == "neutral" else 0
-        return row
+    #     row["conf_game"] = 1 if home_tag == "conf" else 0
+    #     row["neutral_game"] = 1 if home_tag == "neutral" else 0
+    #     return row
 
-    def clean_prod_records(self, prod_df):  # Top Level
-        prod_df = self._clean_unplayed_records(prod_df)
-        wl_dict = self._reset_wl_dict()
-        current_season = int(prod_df.iloc[0, :]['Season_x'])
-        prod_df = self._add_null_rec_cols(prod_df)
+    # def clean_prod_records(self, prod_df):  # Top Level
+    #     prod_df = self._clean_unplayed_records(prod_df)
+    #     wl_dict = self._reset_wl_dict()
+    #     current_season = int(prod_df.iloc[0, :]['Season_x'])
+    #     prod_df = self._add_null_rec_cols(prod_df)
 
-        for i, row in tqdm(prod_df.iterrows()):
-            wl_dict, current_season = self._new_season_check(row, current_season, wl_dict)
-            prod_df.iloc[i, :] = self._update_row(row, wl_dict)
-            wl_dict = self._update_wl_dict(wl_dict, row)
+    #     for i, row in tqdm(prod_df.iterrows()):
+    #         wl_dict, current_season = self._new_season_check(row, current_season, wl_dict)
+    #         prod_df.iloc[i, :] = self._update_row(row, wl_dict)
+    #         wl_dict = self._update_wl_dict(wl_dict, row)
 
-        ml_cols = ["Home_ovr_wins", "Home_ovr_losses", "Home_ovr_ties",
-                   "Away_ovr_wins", "Away_ovr_losses", "Away_ovr_ties",
-                   "Home_spec_wins", "Home_spec_losses", "Home_spec_ties",
-                   "Away_spec_wins", "Away_spec_losses", "Away_spec_ties",
-                   "conf_game", "neutral_game"]
-        return prod_df, ml_cols
+    #     ml_cols = ["Home_ovr_wins", "Home_ovr_losses", "Home_ovr_ties",
+    #                "Away_ovr_wins", "Away_ovr_losses", "Away_ovr_ties",
+    #                "Home_spec_wins", "Home_spec_losses", "Home_spec_ties",
+    #                "Away_spec_wins", "Away_spec_losses", "Away_spec_ties",
+    #                "conf_game", "neutral_game"]
+    #     return prod_df, ml_cols
 
     @staticmethod
     def normalize(nums):  # Global Helper
