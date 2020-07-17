@@ -4,7 +4,7 @@
 # File Created: Tuesday, 14th July 2020 4:47:07 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Wednesday, 15th July 2020 8:43:19 pm
+# Last Modified: Thursday, 16th July 2020 8:39:13 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -15,13 +15,17 @@
 # ==============================================================================
 
 
+import datetime
+import json
 import sys
 from os.path import abspath, dirname
-import json
+import time
 
-
-import datetime
+import numpy as np
 import pandas as pd
+from tqdm import tqdm
+
+tqdm.pandas()
 
 ROOT_PATH = dirname(dirname(abspath(__file__)))
 if ROOT_PATH not in sys.path:
@@ -36,6 +40,12 @@ class Prod_to_ML:
         self.football_league = True if self.league in ["NFL", "NCAAB"] else False
 
     @property
+    def config(self):  # Property
+        with open(ROOT_PATH + "/Modeling/{}_model.json".format(self.league.lower())) as f:
+            config = json.load(f)
+        return config
+
+    @property
     def dash_cols(self):  # Property
         football_cols = ["penalties", "third_down_eff", "fourth_down_eff", "completions_attempts",
                          "redzone_made_att", "sacks_yards_lost"]
@@ -46,10 +56,10 @@ class Prod_to_ML:
         return cols
 
     @property
-    def config(self):  # Property
-        with open(ROOT_PATH + "/Modeling/{}_model.json".format(self.league.lower())) as f:
-            config = json.load(f)
-        return config
+    def new_dash_cols(self):  # Property
+        new_dash_cols = ["{}_d1".format(col) if i % 2 == 0 else "{}_d2".format(col)
+                         for col in self.dash_cols for i in range(2)]
+        return new_dash_cols
 
     @property
     def stats_cols(self):  # Property
@@ -59,6 +69,12 @@ class Prod_to_ML:
                     col in enumerate([col for col in cols for i in range(2)])]
         return all_cols
 
+    @property
+    def ml_stats_cols(self):  # Property
+        cols = [col for col in self.stats_cols if col not in self.dash_cols]
+        ml_stats_cols = cols + self.new_dash_cols
+        return ml_stats_cols
+
     def _replace_relocated_teams(self, df):  # Specific Helper load_prod_df
         df = df.replace("San Diego Chargers", "Los Angeles Chargers")
         df = df.replace("Oakland Raiders", "Las Vegas Raiders")
@@ -67,7 +83,7 @@ class Prod_to_ML:
 
     def _add_prod_cols(self, prod_df):  # Specific Helper load_prod_df
         """
-        loads the league's PROD df and adds conference and neutral T/F columns
+        adds columns to the prod df to help create ml cols
         """
 
         def is_conf(row):
@@ -102,15 +118,15 @@ class Prod_to_ML:
         prod_df['Home_won'] = prod_df.apply(lambda row: home_won(row), axis=1)
         return prod_df
 
-    def _clean_stats_cols(self, df):
-        # remove the current dash cols, insert d1/d2 cols
-
+    def _expand_dash_cols(self, df):  # Specific Helper load_prod_df
+        """
+        separates stats columns with a dash into two columns
+        - e.g. completions-attempts 22-31 --> two cols 22, 31
+        """
         for col in self.dash_cols:
             df[col] = df[col].fillna("0-0")
 
-        new_dash_cols = ["{}_d1".format(col) if i % 2 == 0 else "{}_d2".format(col)
-                         for col in self.dash_cols for i in range(2)]
-        for col in new_dash_cols:
+        for col in self.new_dash_cols:
             df[col] = None
 
         def expand_row(row):
@@ -122,11 +138,33 @@ class Prod_to_ML:
         df = df.apply(lambda row: expand_row(row), axis=1)
         return df
 
+    def _clean_time_possession(self, df):  # Specific Helper load_prod_df
+        """
+        changes Time of Possession into total seconds instead of min:sec (30:00) format
+        """
+        df['home_possession'] = df['home_possession'].fillna("30:00")
+        df['away_possession'] = df['away_possession'].fillna("30:00")
+
+        def clean_row_TOP(row):
+            for col in ['home', 'away']:
+                col_name = "{}_possession".format(col)
+                top_str = row[col_name]
+                minutes, seconds = top_str.split(":")
+                total_seconds = (int(minutes) * 60) + int(seconds)
+                row[col_name] = total_seconds
+            return row
+        df = df.apply(lambda row: clean_row_TOP(row), axis=1)
+        return df
+
     def load_prod_df(self):  # Top Level
+        """
+        loads the PROD dataframe and cleans it before creating any ml cols
+        """
         df = pd.read_csv(ROOT_PATH + "/PROD/{}_PROD.csv".format(self.league.upper()))
         df = self._replace_relocated_teams(df)
         df = self._add_prod_cols(df)
-        df = self._clean_stats_cols(df)
+        df = self._expand_dash_cols(df)
+        df = self._clean_time_possession(df)
         return df
 
     def _get_relevant_data(self, prod_df, team_name: str, season: int, game_date: datetime):  # Specific Helper get_record
@@ -143,17 +181,10 @@ class Prod_to_ML:
             return self._get_relevant_data(prod_df, team_name, season - 1, game_date)
         return df
 
-    def _get_home_record(self, df):  # Specific Helper get_record
+    def _get_specific_record(self, df, home: bool):  # Specific Helper get_record
         results = list(df['Home_won'])
-        wins = results.count(True)
-        losses = results.count(False)
-        ties = list(df['tie']).count(True)
-        return wins, losses, ties
-
-    def _get_away_record(self, df):  # Specific Helper get_record
-        results = list(df['Home_won'])
-        wins = results.count(False)
-        losses = results.count(True)
+        wins = results.count(True) if home else results.count(False)
+        losses = results.count(False) if home else results.count(True)
         ties = list(df['tie']).count(True)
         return wins, losses, ties
 
@@ -166,16 +197,16 @@ class Prod_to_ML:
         df = self._get_relevant_data(prod_df, team_name, season, game_date)
 
         home_df = df.loc[(df.Home == team_name) & (df.neutral_game == False)]
-        home_wins, home_losses, home_ties = self._get_home_record(home_df)
+        home_wins, home_losses, home_ties = self._get_specific_record(home_df, home=True)
 
         away_df = df.loc[(df.Away == team_name) & (df.neutral_game == False)]
-        away_wins, away_losses, away_ties = self._get_away_record(away_df)
+        away_wins, away_losses, away_ties = self._get_specific_record(away_df, home=False)
 
         home_neutral_df = df.loc[(df.Home == team_name) & (df.neutral_game == True)]
-        home_neutral_wins, home_neutral_losses, home_neutral_ties = self._get_home_record(home_neutral_df)
+        home_neutral_wins, home_neutral_losses, home_neutral_ties = self._get_specific_record(home_neutral_df, home=True)
 
         away_neutral_df = df.loc[(df.Away == team_name) & (df.neutral_game == True)]
-        away_neutral_wins, away_neutral_losses, away_neutral_ties = self._get_away_record(away_neutral_df)
+        away_neutral_wins, away_neutral_losses, away_neutral_ties = self._get_specific_record(away_neutral_df, home=False)
 
         neutral_wins = home_neutral_wins + away_neutral_wins
         neutral_losses = home_neutral_losses + away_neutral_losses
@@ -191,7 +222,13 @@ class Prod_to_ML:
 
         return ovr_wins, ovr_losses, ovr_ties, spec_wins, spec_losses, spec_ties
 
-    def add_records(self, df, prod_df):  # Top Level
+    def add_records(self, ml_df, prod_subset, prod_df):  # Top Level
+        """
+        Adds team records for games in the prod_subset to ml_df
+        - requires full prod_df to calculate full records
+        """
+        print("Adding records to the dataframe...")
+        time.sleep(1)
         cols = ["ovr_wins", "ovr_losses", "ovr_ties", "spec_wins", "spec_losses", "spec_ties"]
         home_cols = ["home_" + item for item in cols]
         away_cols = ["away_" + item for item in cols]
@@ -218,81 +255,181 @@ class Prod_to_ML:
 
             return row
 
-        prod_df = prod_df.apply(lambda row: add_records(row, all_record_cols), axis=1)
-        record_df = prod_df.loc[:, all_record_cols]
-        df = pd.concat([df, record_df])
+        prod_subset = prod_subset.progress_apply(lambda row: add_records(row, all_record_cols), axis=1)
+        record_df = prod_subset.loc[:, all_record_cols]
+        df = pd.concat([ml_df, record_df], axis=1)
         return df
 
-    def _specific_stats(self, df):  # Specific Helper get_team_stats
-        pass
+    def _get_specific_stats(self, df, home: bool):
+        home_away_str = "home" if home else "away"
+        cols = [col for col in self.ml_stats_cols if home_away_str in col]
+        avg_stats = []
+        for col in cols:
+            vals = list(df[col])
+            avg = np.average(vals)
+            avg_stats.append(avg)
+        return avg_stats if "nan" not in [str(i) for i in avg_stats] else None
 
-    def get_team_stats(self, df, team_name: str):
+    def get_team_stats(self, df, team_name: str, season: int, game_date: datetime, home: bool, neutral=False):  # Top Level
         """
         returns the avg stats values for a team from the dataframe input
         - format: overall avg_stats_cols, spec_avg_stats_cols (just like record)
         - football: x cols
         - basketball: x cols
         """
+        df = self._get_relevant_data(df, team_name, season, game_date)
+
         home_df = df.loc[(df.Home == team_name) & (df.neutral_game == False)]
-        home_stats = self._specific_stats(home_df)
+        home_stats = self._get_specific_stats(home_df, home=True)
 
         away_df = df.loc[(df.Away == team_name) & (df.neutral_game == False)]
+        away_stats = self._get_specific_stats(away_df, home=False)
 
         home_neutral_df = df.loc[(df.Home == team_name) & (df.neutral_game == True)]
+        home_neutral_stats = self._get_specific_stats(home_neutral_df, home=True)
 
         away_neutral_df = df.loc[(df.Away == team_name) & (df.neutral_game == True)]
-    
-    def add_team_stats(self, df, prod_df):  # Top Level
-        # make this similar to adding records!
-        pass
+        away_neutral_stats = self._get_specific_stats(away_neutral_df, home=False)
 
-    def add_dummies(self, df, prod_df):  # Top Level
+        ovr_stat_list = [lis for lis in [home_stats, away_stats, home_neutral_stats, away_neutral_stats]
+                         if lis is not None]
+        ovr_stats = [np.average(x) for x in zip(*ovr_stat_list)]
+
+        neutral_stat_list = [lis for lis in [home_neutral_stats, away_neutral_stats] if lis is not None]
+        neutral_stats = [np.average(x) for x in zip(*neutral_stat_list)]
+
+        spec_stats = neutral_stats if neutral else home_stats if home else away_stats
+        spec_stats = ovr_stats if ((spec_stats is None) or (spec_stats == [])) else spec_stats
+
+        return ovr_stats, spec_stats
+
+    def add_team_stats(self, ml_df, prod_subset, prod_df):  # Top Level
+        """
+        Calculates team stats for games in the prod_subset, then adds them to ml_df
+        - requires full prod_df to calculate avg stats
+        """
+        print("calculating average team stats...")
+        time.sleep(1)
+        home_ml_cols = [col for col in self.ml_stats_cols if "home" in col]
+        avg_home_cols = ["ovr_avg_" + c for c in home_ml_cols] + ["spec_avg_" + c for c in home_ml_cols]
+
+        away_ml_cols = [col for col in self.ml_stats_cols if "away" in col]
+        avg_away_cols = ["ovr_avg_" + c for c in away_ml_cols] + ["spec_avg_" + c for c in away_ml_cols]
+        new_stats_cols = avg_home_cols + avg_away_cols
+
+        def add_avg_stats(row, new_stats_cols):
+            home_team = row['Home']
+            away_team = row['Away']
+            season = int(row['Season_x'])
+            game_date = row['datetime']
+            neutral_game = row['neutral_game']
+
+            home_ovr_stats, home_spec_stats = self.get_team_stats(prod_df, home_team, season,
+                                                                  game_date, home=True, neutral=neutral_game)
+            away_ovr_stats, away_spec_stats = self.get_team_stats(prod_df, away_team, season,
+                                                                  game_date, home=False, neutral=neutral_game)
+            new_col_vals = home_ovr_stats + home_spec_stats + away_ovr_stats + away_spec_stats
+            for col in new_stats_cols:
+                row[col] = None
+
+            for col, val in zip(new_stats_cols, new_col_vals):
+                row[col] = val
+            return row
+
+        prod_subset = prod_subset.progress_apply(lambda row: add_avg_stats(row, new_stats_cols), axis=1)
+        stats_df = prod_subset.loc[:, new_stats_cols]
+        df = pd.concat([ml_df, stats_df], axis=1)
+        return df
+
+    def add_dummies(self, ml_df, prod_subset):  # Top Level
+        """
+        adds dummy columns from the prod_subset to the ml_df
+        """
         dummy_cols = ["Home", "Away", "Network"]
         for col in dummy_cols:
-            new_dummy_df = pd.get_dummies(prod_df[col], prefix=col)
-            df = pd.concat([df, new_dummy_df], axis=1)
-        return df
+            new_dummy_df = pd.get_dummies(prod_subset[col], prefix=col)
+            ml_df = pd.concat([ml_df, new_dummy_df], axis=1)
+        return ml_df
 
-    def add_binary_cols(self, df, prod_df):  # Top Level
-        df['neutral_game'] = prod_df['neutral_game'].astype(int)
-        df['conf_game'] = prod_df['conf_game'].astype(int)
-        return df
+    def add_binary_cols(self, ml_df, prod_subset):  # Top Level
+        """
+        adds binary cols created from the prod_subset to the ml_df
+        """
+        ml_df['neutral_game'] = prod_subset['neutral_game'].astype(int)
+        ml_df['conf_game'] = prod_subset['conf_game'].astype(int)
+        return ml_df
 
-    def add_season(self, df, prod_df):  # Top Level
-        df['Season'] = prod_df['Season_x'].astype(int)
-        return df
+    def add_season(self, ml_df, prod_subset):  # Top Level
+        ml_df['Season'] = prod_subset['Season_x'].astype(int)
+        return ml_df
 
-    def add_week(self, df, prod_df):  # Top Level
+    def add_week(self, ml_df, prod_subset):  # Top Level
+        """
+        adds the week to ml_df if the league is NFL, otherwise does nothing
+        """
         if self.league != "NFL":
-            return df
+            return ml_df
 
-        prod_weeks = list(prod_df['Week'])
+        prod_weeks = list(prod_subset['Week'])
         prod_weeks = [item.replace("WC", '18').replace("DIV", "19").replace("CONF", "20").replace("SB", "21")
                       for item in prod_weeks]
-        df['Week'] = pd.Series(prod_weeks).astype(int)
-        return df
+        ml_df['Week'] = pd.Series(prod_weeks).astype(int)
+        return ml_df
 
-    def get_training_data(self):  # Run
+    def get_subset_ml_data(self, prod_subset, prod_df):  # Top Level
+        ml_df = pd.DataFrame()
+        ml_df['ESPN_ID'] = prod_subset['ESPN_ID']
+        ml_df = self.add_dummies(ml_df, prod_subset)
+        ml_df = self.add_binary_cols(ml_df, prod_subset)
+        ml_df = self.add_season(ml_df, prod_subset)
+        ml_df = self.add_week(ml_df, prod_subset)
+        ml_df = self.add_records(ml_df, prod_subset, prod_df)
+        ml_df = self.add_team_stats(ml_df, prod_subset, prod_df)
+        return ml_df
+
+    def get_training(self, save=True):  # Run
         prod_df = self.load_prod_df()
-        prod_df = prod_df.loc[prod_df.Final_Status.notnull()]
+        prod_subset = prod_df.loc[prod_df.Season_x > 2018]
+        ml_df = self.get_subset_ml_data(prod_subset, prod_df)
 
-        df = pd.DataFrame()
-        df = self.add_dummies(df, prod_df)
-        df = self.add_binary_cols(df, prod_df)
-        df = self.add_season(df, prod_df)
-        df = self.add_week(df, prod_df)
-        df = self.add_records(df, prod_df)
-        # take the prod df, make a new df with records/stats, append horizontally
-        return df
+        if save:
+            ml_df.to_csv("{}_ml.csv".format(self.league.lower()), index=False)
+        return ml_df
 
-    def get_game_vector(self, ESPN_ID):  # Run
-        # vector for one game, used for predicting
-        pass
+    def get_game(self, ESPN_ID: int):  # Run
+        prod_df = self.load_prod_df()
+        prod_subset = prod_df.loc[prod_df.ESPN_ID == ESPN_ID]
+
+        ml_df = self.get_subset_ml_data(prod_subset, prod_df)
+        return ml_df
+
+    # def get_training_data(self):  # Run
+    #     prod_df = self.load_prod_df()
+    #     prod_subset = prod_df.loc[prod_df.Final_Status.notnull()]
+
+    #     ml_df = pd.DataFrame()
+    #     ml_df = self.add_dummies(ml_df, prod_subset)
+    #     ml_df = self.add_binary_cols(ml_df, prod_subset)
+    #     ml_df = self.add_season(ml_df, prod_subset)
+    #     ml_df = self.add_week(df, prod_df)
+    #     ml_df = self.add_records(df, prod_df)
+    #     ml_df = self.add_team_stats(df, prod_df)
+    #     # take the prod df, make a new df with records/stats, append horizontally
+    #     return df
+
+    # def get_game_vector(self, ESPN_ID):  # Run
+    #     # vector for one game, used for predicting
+    #     prod_df = self.load_prod_df()
+    #     prod_subset = prod_df.loc[prod_df.ESPN_ID.isin(ESPN_ID)]
+
+    #     ml_df = pd.DataFrame()
+    #     ml_df = self.add_dummies(ml_df, prod_subset)
 
 
 if __name__ == "__main__":
     x = Prod_to_ML("NFL")
     self = x
-    prod_df = x.load_prod_df()
-    # min_df = x.get_team_info(prod_df, "Minnesota Vikings", 2009, datetime.date.today(), home=True)
+    # prod_df = x.load_prod_df()
+    # min_df = x._get_relevant_data(prod_df, "Minnesota Vikings", 2009, datetime.date.today())
+    # min_record = x.get_record(prod_df, "Minnesota Vikings", 2009, datetime.date.today(), home=True)
     # df = self.get_training_data()
