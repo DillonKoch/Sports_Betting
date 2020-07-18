@@ -4,7 +4,7 @@
 # File Created: Monday, 6th July 2020 6:45:05 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Tuesday, 14th July 2020 4:53:27 pm
+# Last Modified: Friday, 17th July 2020 9:15:47 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -13,23 +13,22 @@
 # ==============================================================================
 
 
-import os
 import sys
 from os.path import abspath, dirname
 
 import numpy as np
 import pandas as pd
 import tensorflow as tf
-import wandb
-from wandb.keras import WandbCallback
+from sklearn import preprocessing
 from tensorflow import keras
 
+import wandb
+from wandb.keras import WandbCallback
 
 ROOT_PATH = dirname(dirname(abspath(__file__)))
 if ROOT_PATH not in sys.path:
     sys.path.append(ROOT_PATH)
 
-from Modeling.prep_prod import Prep_Prod
 
 physical_devices = tf.config.experimental.list_physical_devices('GPU')
 tf.config.experimental.set_memory_growth(physical_devices[0], True)
@@ -45,28 +44,26 @@ class Model:
     def __init__(self, league: str):
         self.league = league
 
-    def _load_local_data(self):  # Specific Helper load_data
-        y_data_name = "{}_ml.csv".format(self.league.lower())
-        x_data_name = "{}_target.csv".format(self.league.lower())
-        files = os.listdir(ROOT_PATH + "/Modeling/")
-        if ((y_data_name in files) and (x_data_name in files)):
-            print("using locally saved training/target data")
-            df = pd.read_csv(y_data_name)
-            target_df = pd.read_csv(x_data_name)
-            return df, target_df
-        return None, None
-
     def load_data(self, training=True):  # Top Level
-        df, target_df = self._load_local_data()
-        if ((df is None) or (target_df is None)):
-            prep_prod = Prep_Prod(self.league)
-            df, target_df = prep_prod.run()
+        try:
+            ml_path = ROOT_PATH + "/Modeling/{}_ml.csv".format(self.league.lower())
+            ml_df = pd.read_csv(ml_path)
+            target_path = ROOT_PATH + "/Modeling/{}_target.csv".format(self.league.lower())
+            target_df = pd.read_csv(target_path)
+        except FileNotFoundError:
+            print("Could not find ml and target df for {} - run the prod_to_ml.py script!".format(self.league))
+            return None
 
         if training:
-            print('using training data')
-            df = df.loc[df['Final_Status'].notnull()]
-            target_df = target_df.iloc[:len(df), :]
-        return df, target_df
+            ml_df = ml_df.loc[ml_df.Final_Status.notnull()]
+            target_df = target_df.loc[target_df.Final_Status.notnull()]
+
+        return ml_df, target_df
+
+    def remove_non_ml_cols(self, df):  # Top Level
+        non_ml_cols = ["ESPN_ID", "datetime", "Final_Status"]
+        cols = [col for col in list(df.columns) if col not in non_ml_cols]
+        return df.loc[:, cols]
 
     def oversample_even_classes(self, df, target_col):  # Top Level
         target_vals = list(set(list(df[target_col])))
@@ -79,6 +76,13 @@ class Model:
             oversampled_df = pd.concat([oversampled_df, new_df])
         oversampled_df = oversampled_df.sample(frac=1)
         return oversampled_df
+
+    def normalize_full_df(self, df):  # Top Level
+        x = df.values
+        min_max_scaler = preprocessing.MinMaxScaler()
+        x_scaled = min_max_scaler.fit_transform(x)
+        df = pd.DataFrame(x_scaled)
+        return df
 
     def save_model(self, model, name):  # Top Level
         path = ROOT_PATH + "/Models/{}/{}".format(self.league, name)
@@ -94,7 +98,7 @@ class Score_Model(Model):
 
     def home_win_model(self):  # Top Level
         model = keras.Sequential([
-            keras.layers.Dense(256, input_shape=([149]), activation='relu'),
+            keras.layers.Dense(256, input_shape=([209]), activation='relu'),
             keras.layers.Dense(128, activation='relu'),
             keras.layers.Dense(1, activation='sigmoid'),
         ])
@@ -121,22 +125,24 @@ class Score_Model(Model):
         return target_df['Home_win']
 
     def run_home_win_model(self):  # Run
-        df, target_df = self.load_data()
+        ml_df, target_df = self.load_data()
         home_win_col = self.get_home_win_col(target_df)
-        full_df = pd.concat([df, home_win_col], axis=1)
+        full_df = pd.concat([ml_df, home_win_col], axis=1)
         full_df = full_df.dropna(axis=0)
         full_df = self.oversample_even_classes(full_df, "Home_win")
+        full_df = self.remove_non_ml_cols(full_df)
 
-        X_cols = [item for item in list(df.columns) if item not in ["Final_Status", "datetime", "Home_win"]]
+        X_cols = [col for col in list(full_df.columns) if col != "Home_win"]
         X_data = full_df.loc[:, X_cols]
         y_data = full_df.loc[:, 'Home_win']
+
+        X_data = self.normalize_full_df(X_data)
 
         X_data = np.array(X_data).astype(float)
         y_data = np.array(y_data).astype(int)
 
         model = self.home_win_model()
         model.fit([X_data], y_data, epochs=30, batch_size=16, callbacks=[WandbCallback(data_type="data", labels=y_data)])
-        # model.save("{}_Score.h5".format(self.league))
         self.save_model(model, "{}_Score.h5".format(self.league))
         return model
 
@@ -187,4 +193,5 @@ class Predict_ML_Model(Model):
 if __name__ == "__main__":
     x = Score_Model("NFL")
     self = x
-    x.run_predict_score()
+    ml_df, target_df = x.load_data()
+    x.run_home_win_model()

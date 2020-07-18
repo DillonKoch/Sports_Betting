@@ -4,7 +4,7 @@
 # File Created: Thursday, 18th June 2020 12:48:04 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Sunday, 12th July 2020 1:44:15 pm
+# Last Modified: Friday, 17th July 2020 10:25:01 am
 # Modified By: Dillon Koch
 # -----
 #
@@ -361,6 +361,6 @@ if __name__ == "__main__":
     nba = Prod_Table("NBA")
     ncaaf = Prod_Table("NCAAF")
     ncaab = Prod_Table("NCAAB")
-    self = nfl
+    self = nba
     df = self.prod_table_from_scratch()
     # ndf = self.espn_odds_non_matches()
