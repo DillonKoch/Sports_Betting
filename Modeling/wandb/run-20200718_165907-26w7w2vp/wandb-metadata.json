@@ -1,0 +1,28 @@
+{
+    "root": "/home/allison/Documents/GITHUB/Sports_Betting",
+    "program": "/home/allison/Documents/GITHUB/Sports_Betting/Modeling/model.py",
+    "git": {
+        "remote": "https://github.com/DillonKoch/Sports_Betting.git",
+        "commit": "808490883c4082a5ad2adf37d442c75db2ba2c3b"
+    },
+    "email": "dillonk428@gmail.com",
+    "startedAt": "2020-07-18T21:59:07.855600",
+    "host": "tensorbook8",
+    "username": "allison",
+    "executable": "/home/allison/anaconda3/envs/bet/bin/python",
+    "os": "Linux-5.3.0-62-generic-x86_64-with-debian-buster-sid",
+    "python": "3.7.6",
+    "gpu": "GeForce RTX 2070 with Max-Q Design",
+    "gpu_count": 1,
+    "cpu_count": 12,
+    "args": [
+        "-f",
+        "/home/allison/.local/share/jupyter/runtime/kernel-50484c4f-4915-44fd-b428-42f4ee50dcdd.json"
+    ],
+    "state": "running",
+    "jobType": null,
+    "mode": "run",
+    "name": "bumbling-resonance-46",
+    "project": "sports-betting",
+    "heartbeatAt": "2020-07-18T21:59:23.549142"
+}

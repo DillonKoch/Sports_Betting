@@ -4,7 +4,7 @@
 # File Created: Tuesday, 14th July 2020 4:47:07 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Friday, 17th July 2020 2:46:09 pm
+# Last Modified: Saturday, 18th July 2020 10:22:39 am
 # Modified By: Dillon Koch
 # -----
 #
@@ -18,12 +18,14 @@
 import datetime
 import json
 import sys
-from os.path import abspath, dirname
 import time
+from os.path import abspath, dirname
 
 import numpy as np
 import pandas as pd
+from sklearn import preprocessing
 from tqdm import tqdm
+
 
 tqdm.pandas()
 
@@ -378,7 +380,20 @@ class Prod_to_ML:
         ml_df['Week'] = pd.Series(prod_weeks).astype(int)
         return ml_df
 
-    def run(self):  # Run
+    def normalize_full_df(self, df):  # Top Level
+        cols = ["ESPN_ID", "datetime", "Final_Status"]
+        norm_cols = [col for col in list(df.columns) if col not in cols]
+        no_change_df = df.loc[:, cols]
+        norm_df = df.loc[:, norm_cols]
+
+        x = norm_df.values
+        min_max_scaler = preprocessing.MinMaxScaler()
+        x_scaled = min_max_scaler.fit_transform(x)
+        norm_df = pd.DataFrame(x_scaled, columns=norm_cols)
+        full_df = pd.concat([no_change_df, norm_df], axis=1)
+        return full_df
+
+    def run(self, normalize=True):  # Run
         prod_df = self.load_prod_df()
 
         ml_df = pd.DataFrame()
@@ -391,6 +406,8 @@ class Prod_to_ML:
         ml_df = self.add_week(ml_df, prod_df)
         ml_df = self.add_records(ml_df, prod_df)
         ml_df = self.add_team_stats(ml_df, prod_df)
+        if normalize:
+            ml_df = self.normalize_full_df(ml_df)
         ml_df.to_csv(ROOT_PATH + "/Modeling/{}_ml.csv".format(self.league.lower()), index=False)
         return ml_df
 
