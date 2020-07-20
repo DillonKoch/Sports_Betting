@@ -4,7 +4,7 @@
 # File Created: Monday, 13th July 2020 1:36:54 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Saturday, 18th July 2020 5:17:49 pm
+# Last Modified: Sunday, 19th July 2020 5:22:18 pm
 # Modified By: Dillon Koch
 # -----
 # Collins Aerospace
@@ -51,9 +51,11 @@ class Predict_Bets:
 
     def create_results_df(self, upcoming_games):  # Top Level
         cols = ["ESPN_ID", "Season_x", "datetime", "Home", "Away", "Home_Record", "Away_Record", "Network",
-                "Title", "Game_Time", "Home_ML_ESB", "Away_ML_ESB", "Pred_Home_win",
-                "Home_Line_ESB", "Home_Line_ml_ESB", "Away_Line_ESB", "Away_Line_ml_ESB", "Pred_Home_Score",
-                "Pred_Away_Score"]
+                "Title", "Game_Time",
+                "Home_ML_ESB", "Away_ML_ESB", "Pred_Home_win",
+                "Home_Line_ESB", "Home_Line_ml_ESB", "Away_Line_ESB", "Away_Line_ml_ESB",
+                "Pred_Home_Score", "Pred_Away_Score",
+                "Over_ESB", "Over_ml_ESB", "Under_ESB", "Under_ml_ESB", "Pred_SB_Over_Under", "Pred_Point_Total"]
         df = pd.DataFrame(columns=cols)
         for col in cols:
             df[col] = upcoming_games[col] if col in list(upcoming_games.columns) else None
@@ -85,16 +87,41 @@ class Predict_Bets:
             X_data = self.model.remove_non_ml_cols(X_data)
             X_data = np.array(X_data)
             preds = model.predict([X_data])
-            row['Pred_Home_Score'] = preds[0][0]
-            row['Pred_Away_Score'] = preds[0][1]
+            row['Pred_Home_Score'] = int(round(preds[0][0], 0))
+            row['Pred_Away_Score'] = int(round(preds[0][1], 0))
             df.iloc[i, :] = row
+        return df
 
+    def predict_sb_over_under(self, df, ml_df):  # Top Level
+        model = self._load_model("{}_SB_Over_Under.h5".format(self.league))
+        for i, row in df.iterrows():
+            ESPN_ID = row['ESPN_ID']
+            X_data = ml_df.loc[ml_df.ESPN_ID == ESPN_ID, :]
+            X_data = self.model.remove_non_ml_cols(X_data)
+            X_data = np.array(X_data)
+            pred = model.predict([X_data])
+            row['Pred_SB_Over_Under'] = round(pred[0][0], 1)
+            df.iloc[i, :] = row
+        return df
+
+    def predict_point_total(self, df, ml_df):  # Top Level
+        model = self._load_model("{}_Predict_Point_Total.h5".format(self.league))
+        for i, row in df.iterrows():
+            ESPN_ID = row['ESPN_ID']
+            X_data = ml_df.loc[ml_df.ESPN_ID == ESPN_ID, :]
+            X_data = self.model.remove_non_ml_cols(X_data)
+            X_data = np.array(X_data)
+            pred = model.predict([X_data])
+            row['Pred_Point_Total'] = round(pred[0][0], 1)
+            df.iloc[i, :] = row
         return df
 
     def create_new_pred_df(self, ml_df, upcoming_games):  # Run
         df = self.create_results_df(upcoming_games)
         df = self.predict_home_win(df, ml_df)
         df = self.predict_score(df, ml_df)
+        df = self.predict_sb_over_under(df, ml_df)
+        df = self.predict_point_total(df, ml_df)
         return df
 
     def load_existing_pred_df(self):  # Top Level

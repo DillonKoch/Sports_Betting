@@ -4,7 +4,7 @@
 # File Created: Monday, 6th July 2020 6:45:05 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Saturday, 18th July 2020 5:26:30 pm
+# Last Modified: Sunday, 19th July 2020 9:41:13 am
 # Modified By: Dillon Koch
 # -----
 #
@@ -32,7 +32,7 @@ if ROOT_PATH not in sys.path:
 physical_devices = tf.config.experimental.list_physical_devices('GPU')
 tf.config.experimental.set_memory_growth(physical_devices[0], True)
 
-# wandb.init(project="sports-betting")
+wandb.init(project="sports-betting")
 
 
 class Model:
@@ -187,7 +187,15 @@ class Over_Under_Model(Model):
         """
         model to predict what the over under from the sportsbook will be
         """
-        pass
+        model = keras.Sequential([
+            keras.layers.Dense(256, input_shape=([209]), activation='relu'),
+            keras.layers.Dense(128, activation='relu'),
+            keras.layers.Dense(64, activation='relu'),
+            keras.layers.Dense(1, activation='linear')
+        ])
+        opt = keras.optimizers.Adam(learning_rate=0.001)
+        model.compile(optimizer=opt, loss='mse')
+        return model
 
     def train_sb_over_under(self):  # Run
         """
@@ -199,16 +207,81 @@ class Over_Under_Model(Model):
         full_df = full_df.dropna(axis=0)
         full_df = self.remove_non_ml_cols(full_df)
 
-        X_cols = list(full_df.columns).remove("Close_OU")
+        X_cols = [c for c in list(full_df.columns) if c != "Close_OU"]
         X_data = full_df.loc[:, X_cols]
         y_data = full_df.loc[:, ["Close_OU"]]
 
         X_data = np.array(X_data).astype(float)
         y_data = np.array(y_data).astype(float)
 
-        model = self.over_under_model()
+        model = self.sb_over_under_model()
         model.fit(X_data, y_data, epochs=70, batch_size=32, callbacks=[WandbCallback(labels=y_data)])
-        self.save_model(model, "{}_Over_Under.h5".format(self.league))
+        self.save_model(model, "{}_SB_Over_Under.h5".format(self.league))
+
+    def get_total_points_col(self, target_df):  # Top Level
+        target_df['Point_Total'] = target_df['Home_Score_x'] + target_df['Away_Score_x']
+        return target_df
+
+    def predict_point_total_model(self):  # Top Level
+        """
+        model to predict the total amount of points in a game
+        """
+        model = keras.Sequential([
+            keras.layers.Dense(256, input_shape=([209]), activation='relu'),
+            keras.layers.Dense(128, activation='relu'),
+            keras.layers.Dense(64, activation='relu'),
+            keras.layers.Dense(1, activation='linear')
+        ])
+        opt = keras.optimizers.Adam(learning_rate=0.001)
+        model.compile(optimizer=opt, loss='mse')
+        return model
+
+    def train_predict_point_total(self):  # Run
+        ml_df, target_df = self.load_data()
+        target_df = self.get_total_points_col(target_df)
+        point_total_df = target_df['Point_Total']
+
+        full_df = pd.concat([ml_df, point_total_df], axis=1)
+        full_df = full_df.dropna(axis=0)
+        full_df = self.remove_non_ml_cols(full_df)
+
+        X_cols = [c for c in list(full_df.columns) if c != "Point_Total"]
+        X_data = full_df.loc[:, X_cols]
+        y_data = full_df.loc[:, ["Point_Total"]]
+
+        X_data = np.array(X_data).astype(float)
+        y_data = np.array(y_data).astype(float)
+
+        model = self.predict_point_total_model()
+        model.fit(X_data, y_data, epochs=110, batch_size=32, callbacks=[WandbCallback(labels=y_data)])
+        self.save_model(model, "{}_Predict_Point_Total.h5".format(self.league))
+
+    def get_over_won_col(self, target_df):  # Top Level
+        target_df = self.get_total_points_col(target_df)
+        target_df['Over_Won'] = None
+
+        def over_won(row):
+            return 1 if row['Point_Total'] > row['Close_OU'] else 0
+
+        target_df['Over_Won'] = target_df.apply(lambda row: over_won(row), axis=1)
+        return target_df
+
+    def bet_over_under_model(self):  # Top Level
+        """
+        model to predict the % chance the over will win
+        """
+        model = keras.Sequential([
+            keras.layers.Dense(256, input_shape=([209]), activation='relu'),
+            keras.layers.Dense(128, activation='relu'),
+            keras.layers.Dense(64, activation='relu'),
+            keras.layers.Dense(1, activation='sigmoid')
+        ])
+        opt = keras.optimizers.Adam(learning_rate=0.001)
+        model.compile(optimizer=opt, loss='mse')
+        return model
+
+    def train_over_under_model(self):  # Run
+        pass
 
 
 class Predict_ML_Model(Model):
@@ -218,7 +291,7 @@ class Predict_ML_Model(Model):
 
 
 if __name__ == "__main__":
-    x = Score_Model("NFL")
+    x = Over_Under_Model("NFL")
     self = x
     ml_df, target_df = x.load_data()
-    # x.train_predict_score()
+    # x.train_predict_point_total()
