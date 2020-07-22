@@ -4,7 +4,7 @@
 # File Created: Sunday, 19th July 2020 5:26:27 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Monday, 20th July 2020 8:49:31 pm
+# Last Modified: Tuesday, 21st July 2020 1:38:04 pm
 # Modified By: Dillon Koch
 # -----
 # Collins Aerospace
@@ -133,15 +133,7 @@ class PDF:
         away_ml = str(row['Away_ML_ESB'])
         home_ml = "+" + home_ml if home_ml[0] in string.digits else home_ml
         away_ml = "+" + away_ml if away_ml[0] in string.digits else away_ml
-        # TODO add predicted ML's once I have a model for that
 
-        pdf.set_xy(114, depth - 3)
-        pdf.cell(w=12, h=8, txt=home_ml, border=1, align="C")
-        pdf.set_xy(114, depth + 5)
-        pdf.cell(w=12, h=8, txt=away_ml, border=1, align="C")
-        return pdf
-
-    def _add_moneyline_predictions(self, pdf, row, depth):  # Helping Helper _add_nfl_game
         home_win_pct = row['Pred_Home_win']
         away_win_pct = 100 - home_win_pct
         home_win_pct = int(round(home_win_pct, 0))
@@ -149,10 +141,29 @@ class PDF:
         home_win_pct = str(home_win_pct) + "%"
         away_win_pct = str(away_win_pct) + "%"
 
-        pdf.set_xy(126, depth - 3)
-        pdf.cell(w=10, h=8, txt=home_win_pct, border=1, align="C")
-        pdf.set_xy(126, depth + 5)
-        pdf.cell(w=10, h=8, txt=away_win_pct, border=1, align="C")
+        home_ml_msg = home_ml + " [{}]".format(home_win_pct)
+        away_ml_msg = away_ml + " [{}]".format(away_win_pct)
+
+        pdf.set_xy(114, depth - 3)
+        pdf.cell(w=22, h=8, txt=home_ml_msg, border=1, align="C")
+        pdf.set_xy(114, depth + 5)
+        pdf.cell(w=22, h=8, txt=away_ml_msg, border=1, align="C")
+        return pdf
+
+    def _add_lines(self, pdf, row, depth):  # Helping Helper _add_nfl_game
+        home_line = row['Home_Line_ESB']
+        home_line_ml = row['Home_Line_ml_ESB']
+        away_line = row['Away_Line_ESB']
+        away_line_ml = row['Away_Line_ml_ESB']
+        home_line_msg = "{} ({})".format(home_line, home_line_ml)
+        away_line_msg = "{} ({})".format(away_line, away_line_ml)
+        home_line_msg = "+" + home_line_msg if home_line_msg[0] in string.digits else home_line_msg
+        away_line_msg = "+" + away_line_msg if away_line_msg[0] in string.digits else away_line_msg
+
+        pdf.set_xy(136, depth - 3)
+        pdf.cell(w=25, h=8, txt=home_line_msg, border=1, align="C")
+        pdf.set_xy(136, depth + 5)
+        pdf.cell(w=25, h=8, txt=away_line_msg, border=1, align="C")
         return pdf
 
     def _add_nfl_game(self, pdf, row, num_games):  # Specific Helper create_nfl_page
@@ -163,7 +174,7 @@ class PDF:
         pdf = self._add_game_info(pdf, row, depth, "NFL")
         pdf = self._add_team_names(pdf, row, depth)
         pdf = self._add_moneylines(pdf, row, depth)
-        pdf = self._add_moneyline_predictions(pdf, row, depth)
+        pdf = self._add_lines(pdf, row, depth)
         return pdf
 
     def create_nfl_page(self, pdf):  # Top Level

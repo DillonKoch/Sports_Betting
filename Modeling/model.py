@@ -4,7 +4,7 @@
 # File Created: Monday, 6th July 2020 6:45:05 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Sunday, 19th July 2020 9:41:13 am
+# Last Modified: Tuesday, 21st July 2020 3:43:08 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -95,12 +95,15 @@ class Model:
         print("Model saved to {}!".format(path))
 
 
-class Score_Model(Model):
+class Moneyline_Model(Model):
     """
-    class for predicting the winner of a game
+    class for predicting moneyline bet outcomes
     """
 
     def home_win_model(self):  # Top Level
+        """
+        model for predicting % chance home team wins
+        """
         model = keras.Sequential([
             keras.layers.Dense(256, input_shape=([209]), activation='relu'),
             keras.layers.Dense(128, activation='relu'),
@@ -115,7 +118,7 @@ class Score_Model(Model):
 
     def get_home_win_col(self, target_df):  # Top Level
         """
-        adds binary col to indicate if home team wins or not
+        adds binary col to indicate if home team won or not
         """
         target_df["Home_win"] = None
 
@@ -129,6 +132,9 @@ class Score_Model(Model):
         return target_df['Home_win']
 
     def train_home_win_model(self):  # Run
+        """
+        trains model to predict the % change the home team wins / away team loses
+        """
         ml_df, target_df = self.load_data()
         home_win_col = self.get_home_win_col(target_df)
         full_df = pd.concat([ml_df, home_win_col], axis=1)
@@ -148,7 +154,10 @@ class Score_Model(Model):
         self.save_model(model, "{}_Home_Win.h5".format(self.league))
         return model
 
-    def predict_score_model(self):  # Top Level
+    def sb_moneyline_model(self):  # Top Level
+        """
+        model for predicting what the home/away moneyline will be for a game
+        """
         model = keras.Sequential([
             keras.layers.Dense(256, input_shape=([209]), activation='relu'),
             keras.layers.Dense(128, activation='relu'),
@@ -161,7 +170,90 @@ class Score_Model(Model):
                       metrics=['accuracy'])
         return model
 
-    def train_predict_score(self):
+    def train_sb_moneyline(self):  # Run
+        ml_df, target_df = self.load_data()
+        moneyline_cols = ["Home_ML", "Away_ML"]
+        moneyline_df = target_df.loc[:, moneyline_cols]
+        full_df = pd.concat([ml_df, moneyline_df], axis=1)
+        full_df = full_df.dropna(axis=0)
+        full_df = self.remove_non_ml_cols(full_df)
+
+        X_cols = [col for col in list(full_df.columns) if col not in moneyline_cols]
+        X_data = full_df.loc[:, X_cols]
+        y_data = full_df.loc[:, moneyline_cols]
+
+        X_data = np.array(X_data).astype(float)
+        y_data = np.array(y_data).astype(int)
+
+        model = self.sb_moneyline_model()
+        model.fit([X_data], y_data, epochs=120, batch_size=16, callbacks=[WandbCallback(data_type="data", labels=y_data)])
+        self.save_model(model, "{}_SB_Moneyline.h5".format(self.league))
+        return model
+
+
+class Spread_Model(Model):
+    """
+    class for predicting the outcome of spread-related bets
+    """
+
+    def sb_spread_model(self):  # Top Level
+        """
+        Model for predicting the spread of a game
+        """
+        model = keras.Sequential([
+            keras.layers.Dense(256, input_shape=([209]), activation='relu'),
+            keras.layers.Dense(128, activation='relu'),
+            keras.layers.Dense(64, activation='relu'),
+            keras.layers.Dense(2, activation='linear')
+        ])
+        opt = keras.optimizers.Adam(learning_rate=0.001)
+        model.compile(optimizer=opt,
+                      loss="mse",
+                      metrics=['accuracy'])
+        return model
+
+    def train_sb_spread(self):  # Run
+        """
+        training a model to predict the sportsbook's spread for a game
+        """
+        ml_df, target_df = self.load_data()
+        spread_cols = ["Close_Home_Line", "Close_Away_Line"]
+        spread_df = target_df.loc[:, spread_cols]
+        full_df = pd.concat([ml_df, spread_df], axis=1)
+        full_df = full_df.dropna(axis=0)
+        full_df = self.remove_non_ml_cols(full_df)
+
+        X_cols = [col for col in list(full_df.columns) if col not in spread_cols]
+        X_data = full_df.loc[:, X_cols]
+        y_data = full_df.loc[:, spread_cols]
+
+        X_data = np.array(X_data).astype(float)
+        y_data = np.array(y_data).astype(int)
+
+        model = self.sb_spread_model()
+        model.fit(X_data, y_data, epochs=85, batch_size=32, callbacks=[WandbCallback(labels=y_data)])
+        self.save_model(model, "{}_SB_Spread.h5".format(self.league))
+
+    def predict_score_model(self):  # Top Level
+        """
+        model for predicting the final score of a game
+        """
+        model = keras.Sequential([
+            keras.layers.Dense(256, input_shape=([209]), activation='relu'),
+            keras.layers.Dense(128, activation='relu'),
+            keras.layers.Dense(64, activation='relu'),
+            keras.layers.Dense(2, activation='linear')
+        ])
+        opt = keras.optimizers.Adam(learning_rate=0.001)
+        model.compile(optimizer=opt,
+                      loss="mse",
+                      metrics=['accuracy'])
+        return model
+
+    def train_predict_score(self):  # Run
+        """
+        trains a model to predict the final score of a game
+        """
         ml_df, target_df = self.load_data()
         score_cols = ["Home_Score_x", "Away_Score_x"]
         score_df = target_df.loc[:, score_cols]
@@ -237,6 +329,9 @@ class Over_Under_Model(Model):
         return model
 
     def train_predict_point_total(self):  # Run
+        """
+        trains a model to predict the point total for a game
+        """
         ml_df, target_df = self.load_data()
         target_df = self.get_total_points_col(target_df)
         point_total_df = target_df['Point_Total']
@@ -257,6 +352,9 @@ class Over_Under_Model(Model):
         self.save_model(model, "{}_Predict_Point_Total.h5".format(self.league))
 
     def get_over_won_col(self, target_df):  # Top Level
+        """
+        adds binary col to indicate if the over won or not
+        """
         target_df = self.get_total_points_col(target_df)
         target_df['Over_Won'] = None
 
@@ -281,17 +379,28 @@ class Over_Under_Model(Model):
         return model
 
     def train_over_under_model(self):  # Run
-        pass
+        ml_df, target_df = self.load_data()
+        target_df = self.get_over_won_col(target_df)
+        over_won_df = target_df['Over_Won']
 
+        full_df = pd.concat([ml_df, over_won_df], axis=1)
+        full_df = full_df.dropna(axis=0)
+        full_df = self.remove_non_ml_cols(full_df)
 
-class Predict_ML_Model(Model):
+        X_cols = [c for c in list(full_df.columns) if c != "Over_Won"]
+        X_data = full_df.loc[:, X_cols]
+        y_data = full_df.loc[:, ["Over_Won"]]
 
-    def train_predict_ml(self):  # Run
-        pass
+        X_data = np.array(X_data).astype(float)
+        y_data = np.array(y_data).astype(float)
+
+        model = self.bet_over_under_model()
+        model.fit(X_data, y_data, epochs=70, batch_size=32, callbacks=[WandbCallback(labels=y_data)])
+        self.save_model(model, "{}_Predict_Over_Under_pct.h5".format(self.league))
 
 
 if __name__ == "__main__":
-    x = Over_Under_Model("NFL")
+    x = Spread_Model("NFL")
     self = x
     ml_df, target_df = x.load_data()
-    # x.train_predict_point_total()
+    x.train_sb_spread()
