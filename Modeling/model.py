@@ -4,7 +4,7 @@
 # File Created: Monday, 6th July 2020 6:45:05 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Tuesday, 21st July 2020 3:43:08 pm
+# Last Modified: Wednesday, 22nd July 2020 6:56:20 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -131,7 +131,7 @@ class Moneyline_Model(Model):
         target_df = target_df.apply(lambda row: add_home_win(row), axis=1)
         return target_df['Home_win']
 
-    def train_home_win_model(self):  # Run
+    def train_home_win_pct(self):  # Run
         """
         trains model to predict the % change the home team wins / away team loses
         """
@@ -151,7 +151,7 @@ class Moneyline_Model(Model):
 
         model = self.home_win_model()
         model.fit([X_data], y_data, epochs=30, batch_size=16, callbacks=[WandbCallback(data_type="data", labels=y_data)])
-        self.save_model(model, "{}_Home_Win.h5".format(self.league))
+        self.save_model(model, "{}_Home_Win_pct.h5".format(self.league))
         return model
 
     def sb_moneyline_model(self):  # Top Level
@@ -170,10 +170,26 @@ class Moneyline_Model(Model):
                       metrics=['accuracy'])
         return model
 
+    def _clean_moneyline_df(self, moneyline_df):  # Specific Helper train_sb_moneyline
+
+        def clean_ml_col(row, col_name):
+            ml = row[col_name]
+            if ((ml == 100) or (ml == -100)):
+                return 0
+            elif (ml > 100):
+                return ml - 100
+            else:
+                return ml + 100
+
+        moneyline_df['Home_ML'] = moneyline_df.apply(lambda row: clean_ml_col(row, "Home_ML"), axis=1)
+        moneyline_df['Away_ML'] = moneyline_df.apply(lambda row: clean_ml_col(row, "Away_ML"), axis=1)
+        return moneyline_df
+
     def train_sb_moneyline(self):  # Run
         ml_df, target_df = self.load_data()
         moneyline_cols = ["Home_ML", "Away_ML"]
         moneyline_df = target_df.loc[:, moneyline_cols]
+        moneyline_df = self._clean_moneyline_df(moneyline_df)
         full_df = pd.concat([ml_df, moneyline_df], axis=1)
         full_df = full_df.dropna(axis=0)
         full_df = self.remove_non_ml_cols(full_df)
@@ -250,7 +266,7 @@ class Spread_Model(Model):
                       metrics=['accuracy'])
         return model
 
-    def train_predict_score(self):  # Run
+    def train_final_score(self):  # Run
         """
         trains a model to predict the final score of a game
         """
@@ -270,7 +286,64 @@ class Spread_Model(Model):
 
         model = self.predict_score_model()
         model.fit(X_data, y_data, epochs=70, batch_size=32, callbacks=[WandbCallback(labels=y_data)])
-        self.save_model(model, "{}_Predict_Score.h5".format(self.league))
+        self.save_model(model, "{}_Final_Score.h5".format(self.league))
+
+    def get_home_spread_won_col(self, target_df):  # Top Level
+        """
+        adds column to target_df indicating if the home team covered the spread
+        """
+        target_df['Home_Spread_Won'] = None
+
+        def home_spread_won(row):
+            home_score = row['Home_Score_x']
+            away_score = row['Away_Score_x']
+            home_spread = row['Close_Home_Line']
+            home_spread_score = home_score + home_spread
+            if home_spread_score == away_score:  # push
+                home_spread_won = 0.5
+            elif home_spread_score > away_score:  # home team covers
+                home_spread_won = 1
+            else:
+                home_spread_won = 0  # away team covers
+            return home_spread_won
+
+        target_df['Home_Spread_Won'] = target_df.apply(lambda row: home_spread_won(row), axis=1)
+        return target_df
+
+    def home_spread_win_pct_model(self):  # Top Level
+        """
+        model for predicting the % chance the home team covers the spread
+        """
+        model = keras.Sequential([
+            keras.layers.Dense(256, input_shape=([209]), activation='relu'),
+            keras.layers.Dense(128, activation='relu'),
+            keras.layers.Dense(64, activation='relu'),
+            keras.layers.Dense(1, activation='sigmoid')
+        ])
+        opt = keras.optimizers.Adam(learning_rate=0.001)
+        model.compile(optimizer=opt,
+                      loss="mse",
+                      metrics=['accuracy'])
+        return model
+
+    def train_home_spread_win_pct(self):  # Run
+        ml_df, target_df = self.load_data()
+        target_df = self.get_home_spread_won_col(target_df)
+        home_spread_win_df = target_df['Home_Spread_Won']
+        full_df = pd.concat([ml_df, home_spread_win_df], axis=1)
+        full_df = full_df.dropna(axis=0)
+        full_df = self.remove_non_ml_cols(full_df)
+
+        X_cols = [c for c in list(full_df.columns) if c != "Home_Spread_Won"]
+        X_data = full_df.loc[:, X_cols]
+        y_data = full_df.loc[:, ["Home_Spread_Won"]]
+
+        X_data = np.array(X_data).astype(float)
+        y_data = np.array(y_data).astype(float)
+
+        model = self.home_spread_win_pct_model()
+        model.fit(X_data, y_data, epochs=95, batch_size=32, callbacks=[WandbCallback(labels=y_data)])
+        self.save_model(model, "{}_Home_Spread_Win_pct.h5".format(self.league))
 
 
 class Over_Under_Model(Model):
@@ -328,7 +401,7 @@ class Over_Under_Model(Model):
         model.compile(optimizer=opt, loss='mse')
         return model
 
-    def train_predict_point_total(self):  # Run
+    def train_point_total(self):  # Run
         """
         trains a model to predict the point total for a game
         """
@@ -349,7 +422,7 @@ class Over_Under_Model(Model):
 
         model = self.predict_point_total_model()
         model.fit(X_data, y_data, epochs=110, batch_size=32, callbacks=[WandbCallback(labels=y_data)])
-        self.save_model(model, "{}_Predict_Point_Total.h5".format(self.league))
+        self.save_model(model, "{}_Point_Total.h5".format(self.league))
 
     def get_over_won_col(self, target_df):  # Top Level
         """
@@ -378,7 +451,7 @@ class Over_Under_Model(Model):
         model.compile(optimizer=opt, loss='mse')
         return model
 
-    def train_over_under_model(self):  # Run
+    def train_over_win_pct(self):  # Run
         ml_df, target_df = self.load_data()
         target_df = self.get_over_won_col(target_df)
         over_won_df = target_df['Over_Won']
@@ -396,11 +469,11 @@ class Over_Under_Model(Model):
 
         model = self.bet_over_under_model()
         model.fit(X_data, y_data, epochs=70, batch_size=32, callbacks=[WandbCallback(labels=y_data)])
-        self.save_model(model, "{}_Predict_Over_Under_pct.h5".format(self.league))
+        self.save_model(model, "{}_Over_Win_pct.h5".format(self.league))
 
 
 if __name__ == "__main__":
-    x = Spread_Model("NFL")
+    x = Moneyline_Model("NFL")
     self = x
     ml_df, target_df = x.load_data()
-    x.train_sb_spread()
+    # x.train_home_spread_win_pct()

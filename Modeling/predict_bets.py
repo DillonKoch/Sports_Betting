@@ -4,7 +4,7 @@
 # File Created: Monday, 13th July 2020 1:36:54 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Tuesday, 21st July 2020 4:35:41 pm
+# Last Modified: Wednesday, 22nd July 2020 6:56:21 pm
 # Modified By: Dillon Koch
 # -----
 # Collins Aerospace
@@ -16,7 +16,6 @@
 
 import sys
 from os.path import abspath, dirname
-from numpy.core.numeric import full
 
 import pandas as pd
 import tensorflow as tf
@@ -50,13 +49,38 @@ class Predict_Bets:
         return df
 
     def create_results_df(self, upcoming_games):  # Top Level
-        cols = ["ESPN_ID", "Season_x", "datetime", "Home", "Away", "Home_Record", "Away_Record", "Network",
-                "Title", "Game_Time",
-                "Home_ML_ESB", "Away_ML_ESB", "Pred_Home_win", "Pred_Home_ML", "Pred_Away_ML",
-                "Home_Line_ESB", "Home_Line_ml_ESB", "Away_Line_ESB", "Away_Line_ml_ESB",
-                "Pred_Home_Score", "Pred_Away_Score",
-                "Over_ESB", "Over_ml_ESB", "Under_ESB", "Under_ml_ESB", "Pred_SB_Over_Under", "Pred_Point_Total",
-                "Pred_Over_win"]
+        cols = [
+            "ESPN_ID",  # Game info
+            "Season_x",
+            "datetime",
+            "Title",
+            "Game_Time",
+            "Home",
+            "Away",
+            "Home_Record",
+            "Away_Record",
+            "Network",
+            "Home_ML_ESB",  # Moneyline
+            "Pred_Home_ML",
+            "Away_ML_ESB",
+            "Pred_Away_ML",
+            "Pred_Home_ML_win",
+            "Home_Line_ESB",  # Line
+            "Home_Line_ml_ESB",
+            "Pred_Home_Line",
+            "Away_Line_ESB",
+            "Away_Line_ml_ESB",
+            "Pred_Away_Line",
+            "Pred_Home_Line_win",
+            "Over_ESB",  # Over Under
+            "Over_ml_ESB",
+            "Under_ESB",
+            "Under_ml_ESB",
+            "Pred_SB_Over_Under",
+            "Pred_Point_Total",
+            "Pred_Over_win",
+            "Pred_Home_Score",  # Score
+            "Pred_Away_Score"]
         df = pd.DataFrame(columns=cols)
         for col in cols:
             df[col] = upcoming_games[col] if col in list(upcoming_games.columns) else None
@@ -83,20 +107,21 @@ class Predict_Bets:
 
     def predict_two_col_bet(self, df, ml_df, model_name, pred_col1, pred_col2):  # Top Level
         model = self._load_model("{}_{}.h5".format(self.league, model_name))
+        line_cols = ["Pred_Home_Line", "Pred_Away_Line"]
         for i, row in df.iterrows():
             ESPN_ID = row['ESPN_ID']
             X_data = ml_df.loc[ml_df.ESPN_ID == ESPN_ID, :]
             X_data = self.model.remove_non_ml_cols(X_data)
             X_data = np.array(X_data)
             preds = model.predict([X_data])
-            row[pred_col1] = int(round(preds[0][0], 0))
-            row[pred_col2] = int(round(preds[0][1], 0))
+            row[pred_col1] = int(round(preds[0][0], 0)) if pred_col1 not in line_cols else round(preds[0][0], 1)
+            row[pred_col2] = int(round(preds[0][1], 0)) if pred_col2 not in line_cols else round(preds[0][1], 1)
             df.iloc[i, :] = row
         return df
 
     def predict_one_col_bet(self, df, ml_df, model_name, pred_col):  # Top Level
         model = self._load_model("{}_{}.h5".format(self.league, model_name))
-        pct_cols = ["Pred_Home_win", "Pred_Over_win"]
+        pct_cols = ["Pred_Home_ML_win", "Pred_Over_win", "Pred_Home_Line_win"]
         for i, row in df.iterrows():
             ESPN_ID = row['ESPN_ID']
             X_data = ml_df.loc[ml_df.ESPN_ID == ESPN_ID, :]
@@ -109,12 +134,14 @@ class Predict_Bets:
 
     def create_new_pred_df(self, ml_df, upcoming_games):  # Run
         df = self.create_results_df(upcoming_games)
-        df = self.predict_one_col_bet(df, ml_df, "Home_Win", "Pred_Home_win")
-        df = self.predict_one_col_bet(df, ml_df, "Predict_Over_Under_pct", "Pred_Over_win")
-        df = self.predict_one_col_bet(df, ml_df, "Predict_Point_Total", "Pred_Point_Total")
-        df = self.predict_two_col_bet(df, ml_df, "Predict_Score", "Pred_Home_Score", "Pred_Away_Score")
         df = self.predict_two_col_bet(df, ml_df, "SB_Moneyline", "Pred_Home_ML", "Pred_Away_ML")
+        df = self.predict_one_col_bet(df, ml_df, "Home_Win_pct", "Pred_Home_ML_win")
+        df = self.predict_two_col_bet(df, ml_df, "SB_Spread", "Pred_Home_Line", "Pred_Away_Line")
+        df = self.predict_one_col_bet(df, ml_df, "Home_Spread_Win_pct", "Pred_Home_Line_win")
         df = self.predict_one_col_bet(df, ml_df, "SB_Over_Under", "Pred_SB_Over_Under")
+        df = self.predict_one_col_bet(df, ml_df, "Point_Total", "Pred_Point_Total")
+        df = self.predict_one_col_bet(df, ml_df, "Over_Win_pct", "Pred_Over_win")
+        df = self.predict_two_col_bet(df, ml_df, "Final_Score", "Pred_Home_Score", "Pred_Away_Score")
         return df
 
     def load_existing_pred_df(self):  # Top Level
