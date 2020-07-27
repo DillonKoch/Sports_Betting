@@ -4,7 +4,7 @@
 # File Created: Tuesday, 14th July 2020 4:47:07 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Saturday, 18th July 2020 10:22:39 am
+# Last Modified: Monday, 27th July 2020 10:59:38 am
 # Modified By: Dillon Koch
 # -----
 #
@@ -81,6 +81,10 @@ class Prod_to_ML:
         df = df.replace("San Diego Chargers", "Los Angeles Chargers")
         df = df.replace("Oakland Raiders", "Las Vegas Raiders")
         df = df.replace("St. Louis Rams", "Los Angeles Rams")
+        df = df.replace("Seattle SuperSonics", "Oklahoma City Thunder")
+        df = df.replace("New Jersey Nets", "Brooklyn Nets")
+        df = df.replace("Charlotte Bobcats", "Charlotte Hornets")
+        df = df.replace("New Orleans Hornets", "New Orleans Pelicans")
         return df
 
     def _add_prod_cols(self, prod_df):  # Specific Helper load_prod_df
@@ -272,7 +276,12 @@ class Prod_to_ML:
             vals = list(df[col])
             avg = np.average(vals)
             avg_stats.append(avg)
-        return avg_stats if "nan" not in [str(i) for i in avg_stats] else None
+        # return avg_stats if "nan" not in [str(i) for i in avg_stats] else None
+        # this line^ made it so we didn't get NBA stats from 2012-2015 becuase there
+        # was no largest lead value
+        # return avg_stats
+        avg_stats = [item if str(item) != "nan" else -1 for item in avg_stats]
+        return avg_stats
 
     def get_team_stats(self, df, team_name: str, season: int, game_date: datetime, home: bool, neutral=False):  # Top Level
         """
@@ -345,6 +354,21 @@ class Prod_to_ML:
         df = pd.concat([ml_df, stats_df], axis=1)
         return df
 
+    def clean_missing_team_stats(self, ml_df):  # Top Level
+        """
+        missing values from ESPN are recorded as -1, so we're replacing those -1's with
+        the average value from the column (ignoring -1's)
+        """
+        stats_cols = [col for col in list(ml_df.columns) if "avg" in col]
+        for col in stats_cols:
+            values = list(ml_df[col])
+            values = [item if item >= 0 else -1 for item in values]
+            ml_df[col] = pd.Series(values)
+            positive_values = [val for val in values if val != -1]
+            avg_value = np.average(positive_values)
+            ml_df[col] = ml_df[col].replace(-1, avg_value)
+        return ml_df
+
     def add_dummies(self, ml_df, prod_df):  # Top Level
         """
         adds dummy columns from the prod_df to the ml_df
@@ -406,6 +430,7 @@ class Prod_to_ML:
         ml_df = self.add_week(ml_df, prod_df)
         ml_df = self.add_records(ml_df, prod_df)
         ml_df = self.add_team_stats(ml_df, prod_df)
+        ml_df = self.clean_missing_team_stats(ml_df)
         if normalize:
             ml_df = self.normalize_full_df(ml_df)
         ml_df.to_csv(ROOT_PATH + "/Modeling/{}_ml.csv".format(self.league.lower()), index=False)
@@ -435,6 +460,6 @@ class Prod_to_ML:
 
 
 if __name__ == "__main__":
-    x = Prod_to_ML("NFL")
+    x = Prod_to_ML("NBA")
     self = x
-    # df = x.run()
+    # df = x.run(normalize=False)

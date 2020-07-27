@@ -4,7 +4,7 @@
 # File Created: Monday, 6th July 2020 6:45:05 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Wednesday, 22nd July 2020 6:56:20 pm
+# Last Modified: Monday, 27th July 2020 5:27:04 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -94,18 +94,13 @@ class Model:
         model.save(path)
         print("Model saved to {}!".format(path))
 
-
-class Moneyline_Model(Model):
-    """
-    class for predicting moneyline bet outcomes
-    """
-
-    def home_win_model(self):  # Top Level
+    def home_win_pct_model(self, X_len):  # Top Level
         """
         model for predicting % chance home team wins
         """
+        X_len = 209 if X_len is None else X_len
         model = keras.Sequential([
-            keras.layers.Dense(256, input_shape=([209]), activation='relu'),
+            keras.layers.Dense(256, input_shape=([X_len]), activation='relu'),
             keras.layers.Dense(128, activation='relu'),
             keras.layers.Dense(1, activation='sigmoid'),
         ])
@@ -147,19 +142,21 @@ class Moneyline_Model(Model):
         y_data = full_df.loc[:, 'Home_win']
 
         X_data = np.array(X_data).astype(float)
+        X_len = X_data.shape[1]
         y_data = np.array(y_data).astype(int)
 
-        model = self.home_win_model()
+        model = self.home_win_pct_model(X_len)
         model.fit([X_data], y_data, epochs=30, batch_size=16, callbacks=[WandbCallback(data_type="data", labels=y_data)])
         self.save_model(model, "{}_Home_Win_pct.h5".format(self.league))
         return model
 
-    def sb_moneyline_model(self):  # Top Level
+    def sb_moneyline_model(self, X_len):  # Top Level
         """
         model for predicting what the home/away moneyline will be for a game
         """
+        X_len = 209 if X_len is None else X_len
         model = keras.Sequential([
-            keras.layers.Dense(256, input_shape=([209]), activation='relu'),
+            keras.layers.Dense(256, input_shape=([X_len]), activation='relu'),
             keras.layers.Dense(128, activation='relu'),
             keras.layers.Dense(64, activation='relu'),
             keras.layers.Dense(2, activation='linear')
@@ -173,7 +170,11 @@ class Moneyline_Model(Model):
     def _clean_moneyline_df(self, moneyline_df):  # Specific Helper train_sb_moneyline
 
         def clean_ml_col(row, col_name):
+            ml = float(row[col_name])
+            ml = 100 if ml == "NL" else ml
+
             ml = row[col_name]
+
             if ((ml == 100) or (ml == -100)):
                 return 0
             elif (ml > 100):
@@ -199,23 +200,19 @@ class Moneyline_Model(Model):
         y_data = full_df.loc[:, moneyline_cols]
 
         X_data = np.array(X_data).astype(float)
+        X_len = X_data.shape[1]
         y_data = np.array(y_data).astype(int)
 
-        model = self.sb_moneyline_model()
+        model = self.sb_moneyline_model(X_len)
         model.fit([X_data], y_data, epochs=120, batch_size=16, callbacks=[WandbCallback(data_type="data", labels=y_data)])
         self.save_model(model, "{}_SB_Moneyline.h5".format(self.league))
         return model
 
-
-class Spread_Model(Model):
-    """
-    class for predicting the outcome of spread-related bets
-    """
-
-    def sb_spread_model(self):  # Top Level
+    def sb_spread_model(self, X_len):  # Top Level
         """
         Model for predicting the spread of a game
         """
+        X_len = 209 if X_len is None else X_len
         model = keras.Sequential([
             keras.layers.Dense(256, input_shape=([209]), activation='relu'),
             keras.layers.Dense(128, activation='relu'),
@@ -250,12 +247,13 @@ class Spread_Model(Model):
         model.fit(X_data, y_data, epochs=85, batch_size=32, callbacks=[WandbCallback(labels=y_data)])
         self.save_model(model, "{}_SB_Spread.h5".format(self.league))
 
-    def predict_score_model(self):  # Top Level
+    def final_score_model(self, X_len):  # Top Level
         """
         model for predicting the final score of a game
         """
+        X_len = 209 if X_len is None else X_len
         model = keras.Sequential([
-            keras.layers.Dense(256, input_shape=([209]), activation='relu'),
+            keras.layers.Dense(256, input_shape=([X_len]), activation='relu'),
             keras.layers.Dense(128, activation='relu'),
             keras.layers.Dense(64, activation='relu'),
             keras.layers.Dense(2, activation='linear')
@@ -279,12 +277,13 @@ class Spread_Model(Model):
 
         X_cols = [col for col in list(full_df.columns) if col not in score_cols]
         X_data = full_df.loc[:, X_cols]
+        X_len = X_data.shape[1]
         y_data = full_df.loc[:, score_cols]
 
         X_data = np.array(X_data).astype(float)
         y_data = np.array(y_data).astype(int)
 
-        model = self.predict_score_model()
+        model = self.final_score_model(X_len)
         model.fit(X_data, y_data, epochs=70, batch_size=32, callbacks=[WandbCallback(labels=y_data)])
         self.save_model(model, "{}_Final_Score.h5".format(self.league))
 
@@ -298,6 +297,8 @@ class Spread_Model(Model):
             home_score = row['Home_Score_x']
             away_score = row['Away_Score_x']
             home_spread = row['Close_Home_Line']
+            home_spread = home_spread.replace('--', '-').replace("+-", "-")
+            home_spread = float(home_spread) if home_spread.lower() != "nl" else 0.0
             home_spread_score = home_score + home_spread
             if home_spread_score == away_score:  # push
                 home_spread_won = 0.5
@@ -310,12 +311,13 @@ class Spread_Model(Model):
         target_df['Home_Spread_Won'] = target_df.apply(lambda row: home_spread_won(row), axis=1)
         return target_df
 
-    def home_spread_win_pct_model(self):  # Top Level
+    def home_spread_win_pct_model(self, X_len=None):  # Top Level
         """
         model for predicting the % chance the home team covers the spread
         """
+        X_len = 209 if X_len is None else X_len
         model = keras.Sequential([
-            keras.layers.Dense(256, input_shape=([209]), activation='relu'),
+            keras.layers.Dense(256, input_shape=([X_len]), activation='relu'),
             keras.layers.Dense(128, activation='relu'),
             keras.layers.Dense(64, activation='relu'),
             keras.layers.Dense(1, activation='sigmoid')
@@ -339,21 +341,20 @@ class Spread_Model(Model):
         y_data = full_df.loc[:, ["Home_Spread_Won"]]
 
         X_data = np.array(X_data).astype(float)
+        X_len = X_data.shape[1]
         y_data = np.array(y_data).astype(float)
 
-        model = self.home_spread_win_pct_model()
+        model = self.home_spread_win_pct_model(X_len)
         model.fit(X_data, y_data, epochs=95, batch_size=32, callbacks=[WandbCallback(labels=y_data)])
         self.save_model(model, "{}_Home_Spread_Win_pct.h5".format(self.league))
 
-
-class Over_Under_Model(Model):
-
-    def sb_over_under_model(self):  # Top Level
+    def sb_over_under_model(self, X_data):  # Top Level
         """
         model to predict what the over under from the sportsbook will be
         """
+        X_len = len(X_data)
         model = keras.Sequential([
-            keras.layers.Dense(256, input_shape=([209]), activation='relu'),
+            keras.layers.Dense(256, input_shape=([X_len]), activation='relu'),
             keras.layers.Dense(128, activation='relu'),
             keras.layers.Dense(64, activation='relu'),
             keras.layers.Dense(1, activation='linear')
@@ -473,7 +474,7 @@ class Over_Under_Model(Model):
 
 
 if __name__ == "__main__":
-    x = Moneyline_Model("NFL")
+    x = Model("NBA")
     self = x
     ml_df, target_df = x.load_data()
-    # x.train_home_spread_win_pct()
+    x.train_sb_moneyline()
