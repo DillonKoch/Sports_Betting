@@ -4,7 +4,7 @@
 # File Created: Thursday, 25th June 2020 4:36:47 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Tuesday, 14th July 2020 7:51:04 pm
+# Last Modified: Saturday, 25th July 2020 9:21:03 am
 # Modified By: Dillon Koch
 # -----
 #
@@ -343,7 +343,7 @@ if __name__ == "__main__":
     nba = Prep_Prod("NBA")
     ncaaf = Prep_Prod("NCAAF")
     ncaab = Prep_Prod("NCAAB")
-    self = nfl
+    self = nba
     df, target_df = self.run(save_local=True)
 
 
