@@ -4,7 +4,7 @@
 # File Created: Tuesday, 16th June 2020 1:42:34 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Friday, 3rd July 2020 1:44:36 pm
+# Last Modified: Tuesday, 28th July 2020 11:29:01 am
 # Modified By: Dillon Koch
 # -----
 #
@@ -309,7 +309,7 @@ class ESPN_Stat_Scraper:
         null_col = "home_passing_yards" if self.football_league else "home_field_goals"
 
         for path in df_paths:
-            print(path)
+            print(path.split("/")[-1])
             df = pd.read_csv(path)
             df['datetime'] = pd.to_datetime(df['datetime']).apply(lambda x: x.date())
             for i, row in df.iterrows():

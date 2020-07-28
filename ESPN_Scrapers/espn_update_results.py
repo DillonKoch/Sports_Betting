@@ -4,7 +4,7 @@
 # File Created: Tuesday, 30th June 2020 11:58:42 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Tuesday, 28th July 2020 11:10:01 am
+# Last Modified: Tuesday, 28th July 2020 11:23:00 am
 # Modified By: Dillon Koch
 # -----
 #
@@ -148,14 +148,6 @@ class ESPN_Update_Results:
             df.to_csv(df_path, index=False)
         print("ALL {} DATA SAVED".format(self.league))
 
-    # def run(self):  # Run
-    #     dfs, df_paths = self.load_dfs()
-    #     dfs = [self.update_game_results(df) for df in dfs]
-    #     dfs = [self.remove_preseason(df) for df in dfs]
-    #     dfs = [sort_df_by_dt(df, keep_dt=True) for df in dfs]
-    #     self.save_dfs(dfs, df_paths)
-    #     return dfs
-
     def run(self):  # Run
         dfs, df_paths = self.load_dfs()
         for df, df_path in zip(dfs, df_paths):
@@ -164,7 +156,9 @@ class ESPN_Update_Results:
             df = self.remove_preseason(df)
             df = sort_df_by_dt(df, keep_dt=True)
             df.to_csv(df_path, index=False)
+            print("\n" + ("-" * 25))
             print("{} saved!".format(df_path.split("/")[-1]))
+            print(("-" * 25) + "\n")
         print(f"Finished updating {self.league} games!")
 
 

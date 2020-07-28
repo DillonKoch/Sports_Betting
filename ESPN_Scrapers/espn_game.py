@@ -4,7 +4,7 @@
 # File Created: Tuesday, 30th June 2020 4:36:08 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Wednesday, 1st July 2020 11:32:26 am
+# Last Modified: Tuesday, 28th July 2020 11:12:48 am
 # Modified By: Dillon Koch
 # -----
 #
@@ -51,7 +51,10 @@ class Game:
         """
         returns a list of the 6 ncaab scores (two halves and OT for each team)
         """
-        scores = self.home_half_scores + self.away_half_scores
+        if "Final" not in str(self.final_status):
+            scores = [None] * 6
+        else:
+            scores = self.home_half_scores + self.away_half_scores
         assert len(scores) == 6
         return scores
 
@@ -59,7 +62,10 @@ class Game:
         """
         returns a list of the 10 non-ncaab scores (4 quarters and OT for each team)
         """
-        scores = self.home_qscores + self.away_qscores
+        if "Final" not in str(self.final_status):
+            scores = [None] * 10
+        else:
+            scores = self.home_qscores + self.away_qscores
         assert len(scores) == 10
         return scores
 
