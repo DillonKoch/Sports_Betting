@@ -4,7 +4,7 @@
 # File Created: Monday, 6th July 2020 6:45:05 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Monday, 27th July 2020 5:27:04 pm
+# Last Modified: Tuesday, 28th July 2020 8:10:56 am
 # Modified By: Dillon Koch
 # -----
 #
@@ -170,10 +170,9 @@ class Model:
     def _clean_moneyline_df(self, moneyline_df):  # Specific Helper train_sb_moneyline
 
         def clean_ml_col(row, col_name):
-            ml = float(row[col_name])
-            ml = 100 if ml == "NL" else ml
-
             ml = row[col_name]
+            ml = 100 if ml == "NL" else ml
+            ml = float(ml)
 
             if ((ml == 100) or (ml == -100)):
                 return 0
@@ -214,7 +213,7 @@ class Model:
         """
         X_len = 209 if X_len is None else X_len
         model = keras.Sequential([
-            keras.layers.Dense(256, input_shape=([209]), activation='relu'),
+            keras.layers.Dense(256, input_shape=([X_len]), activation='relu'),
             keras.layers.Dense(128, activation='relu'),
             keras.layers.Dense(64, activation='relu'),
             keras.layers.Dense(2, activation='linear')
@@ -232,6 +231,13 @@ class Model:
         ml_df, target_df = self.load_data()
         spread_cols = ["Close_Home_Line", "Close_Away_Line"]
         spread_df = target_df.loc[:, spread_cols]
+
+        for col in spread_cols:
+            vals = list(spread_df[col])
+            vals = [item if item.lower() != "nl" else '0.0' for item in vals]
+            vals = [item.replace("--", "-").replace("+-", "-") for item in vals]
+            spread_df[col] = pd.Series(vals)
+
         full_df = pd.concat([ml_df, spread_df], axis=1)
         full_df = full_df.dropna(axis=0)
         full_df = self.remove_non_ml_cols(full_df)
@@ -241,9 +247,10 @@ class Model:
         y_data = full_df.loc[:, spread_cols]
 
         X_data = np.array(X_data).astype(float)
-        y_data = np.array(y_data).astype(int)
+        X_len = X_data.shape[1]
+        y_data = np.array(y_data).astype(float)
 
-        model = self.sb_spread_model()
+        model = self.sb_spread_model(X_len)
         model.fit(X_data, y_data, epochs=85, batch_size=32, callbacks=[WandbCallback(labels=y_data)])
         self.save_model(model, "{}_SB_Spread.h5".format(self.league))
 
@@ -348,11 +355,11 @@ class Model:
         model.fit(X_data, y_data, epochs=95, batch_size=32, callbacks=[WandbCallback(labels=y_data)])
         self.save_model(model, "{}_Home_Spread_Win_pct.h5".format(self.league))
 
-    def sb_over_under_model(self, X_data):  # Top Level
+    def sb_over_under_model(self, X_len):  # Top Level
         """
         model to predict what the over under from the sportsbook will be
         """
-        X_len = len(X_data)
+        X_len = 209 if X_len is None else X_len
         model = keras.Sequential([
             keras.layers.Dense(256, input_shape=([X_len]), activation='relu'),
             keras.layers.Dense(128, activation='relu'),
@@ -378,9 +385,10 @@ class Model:
         y_data = full_df.loc[:, ["Close_OU"]]
 
         X_data = np.array(X_data).astype(float)
+        X_len = X_data.shape[1]
         y_data = np.array(y_data).astype(float)
 
-        model = self.sb_over_under_model()
+        model = self.sb_over_under_model(X_len)
         model.fit(X_data, y_data, epochs=70, batch_size=32, callbacks=[WandbCallback(labels=y_data)])
         self.save_model(model, "{}_SB_Over_Under.h5".format(self.league))
 
@@ -388,12 +396,13 @@ class Model:
         target_df['Point_Total'] = target_df['Home_Score_x'] + target_df['Away_Score_x']
         return target_df
 
-    def predict_point_total_model(self):  # Top Level
+    def point_total_model(self, X_len):  # Top Level
         """
         model to predict the total amount of points in a game
         """
+        X_len = 209 if X_len is None else X_len
         model = keras.Sequential([
-            keras.layers.Dense(256, input_shape=([209]), activation='relu'),
+            keras.layers.Dense(256, input_shape=([X_len]), activation='relu'),
             keras.layers.Dense(128, activation='relu'),
             keras.layers.Dense(64, activation='relu'),
             keras.layers.Dense(1, activation='linear')
@@ -419,9 +428,10 @@ class Model:
         y_data = full_df.loc[:, ["Point_Total"]]
 
         X_data = np.array(X_data).astype(float)
+        X_len = X_data.shape[1]
         y_data = np.array(y_data).astype(float)
 
-        model = self.predict_point_total_model()
+        model = self.point_total_model(X_len)
         model.fit(X_data, y_data, epochs=110, batch_size=32, callbacks=[WandbCallback(labels=y_data)])
         self.save_model(model, "{}_Point_Total.h5".format(self.league))
 
@@ -438,12 +448,13 @@ class Model:
         target_df['Over_Won'] = target_df.apply(lambda row: over_won(row), axis=1)
         return target_df
 
-    def bet_over_under_model(self):  # Top Level
+    def bet_over_under_model(self, X_len):  # Top Level
         """
         model to predict the % chance the over will win
         """
+        X_len = 209 if X_len is None else X_len
         model = keras.Sequential([
-            keras.layers.Dense(256, input_shape=([209]), activation='relu'),
+            keras.layers.Dense(256, input_shape=([X_len]), activation='relu'),
             keras.layers.Dense(128, activation='relu'),
             keras.layers.Dense(64, activation='relu'),
             keras.layers.Dense(1, activation='sigmoid')
@@ -466,9 +477,10 @@ class Model:
         y_data = full_df.loc[:, ["Over_Won"]]
 
         X_data = np.array(X_data).astype(float)
+        X_len = X_data.shape[1]
         y_data = np.array(y_data).astype(float)
 
-        model = self.bet_over_under_model()
+        model = self.bet_over_under_model(X_len)
         model.fit(X_data, y_data, epochs=70, batch_size=32, callbacks=[WandbCallback(labels=y_data)])
         self.save_model(model, "{}_Over_Win_pct.h5".format(self.league))
 
@@ -477,4 +489,4 @@ if __name__ == "__main__":
     x = Model("NBA")
     self = x
     ml_df, target_df = x.load_data()
-    x.train_sb_moneyline()
+    x.train_over_win_pct()
