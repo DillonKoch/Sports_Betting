@@ -4,7 +4,7 @@
 # File Created: Tuesday, 23rd June 2020 3:20:11 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Wednesday, 8th July 2020 9:19:45 am
+# Last Modified: Monday, 27th July 2020 5:41:24 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -39,7 +39,7 @@ class ESB_Perform_Scrapes:
         return config
 
     @property
-    def scraper_dict(self):
+    def scraper_dict(self):  # Property
         scraper_dict = {
             "Games": ESB_Game_Scraper,
             "Prop": ESB_Prop_Scraper,

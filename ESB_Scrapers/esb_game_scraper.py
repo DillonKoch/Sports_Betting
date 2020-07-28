@@ -4,7 +4,7 @@
 # File Created: Tuesday, 16th June 2020 7:58:09 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Sunday, 12th July 2020 9:36:57 am
+# Last Modified: Monday, 27th July 2020 5:59:57 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -117,10 +117,10 @@ class ESB_Game_Scraper(ESB_Bool_Prop_Scraper):
         bet_strings = [item.get_text() for item in box.find_all('div', attrs={'class': 'market'})]
         home_is_fav = self._home_fav_check(bet_strings)
 
-        over_comp = re.compile(r"(O) ((\d|\.)+)\(((\d|-)+)\)")
-        under_comp = re.compile(r"(U) ((\d|\.)+)\(((\d|-)+)\)")
-        spread_fav_comp = re.compile(r"(-)((\d|\.)+)\(((\d|-)+)\)")
-        spread_dog_comp = re.compile(r"(\+)((\d|\.)+)\(((\d|-)+)\)")
+        over_comp = re.compile(r"(O) ((\d|\.)+)\((((\d|-)+)|even)\)")
+        under_comp = re.compile(r"(U) ((\d|\.)+)\((((\d|-)+)|even)\)")
+        spread_fav_comp = re.compile(r"(-)((\d|\.)+)\((((\d|-)+)|even)\)")
+        spread_dog_comp = re.compile(r"(\+)((\d|\.)+)\((((\d|-)+)|even)\)")
         ml_fav_comp = re.compile(r"-(\d+)$")
         ml_dog_comp = re.compile(r"\+(\d+)$")
 
@@ -130,6 +130,10 @@ class ESB_Game_Scraper(ESB_Bool_Prop_Scraper):
         spread_dog = self._get_bet_match(bet_strings, spread_dog_comp)
         ml_fav = self._get_bet_match(bet_strings, ml_fav_comp, ml=True)
         ml_dog = self._get_bet_match(bet_strings, ml_dog_comp, ml=True)
+
+        for item in [over, under, spread_fav, spread_dog]:
+            if item[2] == "even":
+                item[2] = "-100"
 
         home_spread = spread_fav if home_is_fav else spread_dog
         away_spread = spread_dog if home_is_fav else spread_fav
@@ -246,7 +250,8 @@ class ESB_Game_Scraper(ESB_Bool_Prop_Scraper):
 
 
 if __name__ == "__main__":
-    link = "https://www.elitesportsbook.com/sports/nba-betting/game-lines-full-game.sbk"
+    link = "https://www.elitesportsbook.com/sports/pro-football-lines-betting/week-1.sbk"
     sp = get_sp1(link)
-    x = ESB_Game_Scraper("NBA", "Game_Lines", sp)
+    x = ESB_Game_Scraper("NFL", "Game_Lines", sp)
     self = x
+    df = self.make_new_df(False)
