@@ -3,7 +3,7 @@ import tkinter as tk
 import pandas as pd
 
 
-class Bett:
+class Tkinter_Bet:
     def __init__(self):
         self.root = tk.Tk()
         self.font = 'bitstream charter'
@@ -121,5 +121,5 @@ class Bett:
 
 
 if __name__ == '__main__':
-    x = Bett()
+    x = Tkinter_Bet()
     df = x.run()

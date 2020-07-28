@@ -4,7 +4,7 @@
 # File Created: Monday, 27th July 2020 3:10:36 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Monday, 27th July 2020 4:06:34 pm
+# Last Modified: Tuesday, 28th July 2020 4:57:35 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -21,6 +21,7 @@ if ROOT_PATH not in sys.path:
     sys.path.append(ROOT_PATH)
 
 pictures = os.listdir("/home/allison/Pictures")
+pictures = [pic for pic in pictures if pic != "Wallpapers"]
 
 
 for pic in pictures:

@@ -4,7 +4,7 @@
 # File Created: Tuesday, 16th June 2020 7:58:09 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Monday, 27th July 2020 5:59:57 pm
+# Last Modified: Tuesday, 28th July 2020 2:45:42 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -41,7 +41,9 @@ class ESB_Game:
         self.over = None
         self.under = None
         self.home_spread = None
+        self.home_spread_ml = None
         self.away_spread = None
+        self.away_spread_ml = None
         self.home_ml = None
         self.away_ml = None
 
@@ -113,6 +115,18 @@ class ESB_Game_Scraper(ESB_Bool_Prop_Scraper):
                 result = match.group(0) if ml else [match.group(1), match.group(2), match.group(4)]
         return result
 
+    def _check_spread_zero(self, bet_strings, spread_fav, spread_dog):
+        if None not in spread_fav:
+            return spread_fav, spread_dog
+
+        zero_spread_comp = re.compile(r"^(0)\(([-\d]+)\)")
+        spread_strings = [bet_strings[1], bet_strings[4]]
+        matches = [re.match(zero_spread_comp, ss) for ss in spread_strings]
+        if None not in matches:
+            spread_fav = ['', matches[0].group(1), matches[0].group(2)]
+            spread_dog = ['', matches[1].group(1), matches[1].group(2)]
+        return spread_fav, spread_dog
+
     def _bets_from_box(self, box):  # Helping Helper esb_game_from_box_date_pair
         bet_strings = [item.get_text() for item in box.find_all('div', attrs={'class': 'market'})]
         home_is_fav = self._home_fav_check(bet_strings)
@@ -130,6 +144,7 @@ class ESB_Game_Scraper(ESB_Bool_Prop_Scraper):
         spread_dog = self._get_bet_match(bet_strings, spread_dog_comp)
         ml_fav = self._get_bet_match(bet_strings, ml_fav_comp, ml=True)
         ml_dog = self._get_bet_match(bet_strings, ml_dog_comp, ml=True)
+        spread_fav, spread_dog = self._check_spread_zero(bet_strings, spread_fav, spread_dog)
 
         for item in [over, under, spread_fav, spread_dog]:
             if item[2] == "even":
@@ -151,8 +166,10 @@ class ESB_Game_Scraper(ESB_Bool_Prop_Scraper):
         over, under, home_spread, away_spread, home_ml, away_ml = self._bets_from_box(box)
         esb_game.over = over
         esb_game.under = under
-        esb_game.home_spread = home_spread
-        esb_game.away_spread = away_spread
+        esb_game.home_spread = ''.join([home_spread[0], home_spread[1]]) if None not in home_spread else "NL"
+        esb_game.home_spread_ml = home_spread[2] if home_spread[2] is not None else "NL"
+        esb_game.away_spread = ''.join([away_spread[0], away_spread[1]]) if None not in away_spread else "NL"
+        esb_game.away_spread_ml = away_spread[2] if away_spread[2] is not None else "NL"
         esb_game.home_ml = home_ml
         esb_game.away_ml = away_ml
         return esb_game
@@ -170,10 +187,10 @@ class ESB_Game_Scraper(ESB_Bool_Prop_Scraper):
             esb_game.over[2],
             esb_game.under[1],
             esb_game.under[2],
-            ''.join([esb_game.home_spread[0], esb_game.home_spread[1]]),
-            esb_game.home_spread[2],
-            ''.join([esb_game.away_spread[0], esb_game.away_spread[1]]),
-            esb_game.away_spread[2],
+            esb_game.home_spread,
+            esb_game.home_spread_ml,
+            esb_game.away_spread,
+            esb_game.away_spread_ml,
             esb_game.home_ml,
             esb_game.away_ml,
             today
@@ -250,8 +267,8 @@ class ESB_Game_Scraper(ESB_Bool_Prop_Scraper):
 
 
 if __name__ == "__main__":
-    link = "https://www.elitesportsbook.com/sports/pro-football-lines-betting/week-1.sbk"
+    link = "https://www.elitesportsbook.com/sports/nba-betting/game-lines-full-game.sbk"
     sp = get_sp1(link)
-    x = ESB_Game_Scraper("NFL", "Game_Lines", sp)
+    x = ESB_Game_Scraper("NBA", "Game_Lines", sp)
     self = x
     df = self.make_new_df(False)
