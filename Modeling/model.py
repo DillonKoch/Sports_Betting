@@ -4,7 +4,7 @@
 # File Created: Monday, 6th July 2020 6:45:05 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Tuesday, 28th July 2020 8:10:56 am
+# Last Modified: Tuesday, 28th July 2020 10:01:06 am
 # Modified By: Dillon Koch
 # -----
 #
@@ -33,6 +33,27 @@ physical_devices = tf.config.experimental.list_physical_devices('GPU')
 tf.config.experimental.set_memory_growth(physical_devices[0], True)
 
 wandb.init(project="sports-betting")
+
+
+class myCallback(tf.keras.callbacks.Callback):
+
+    def __init__(self, stop_on_loss=False, stop_on_acc=False, loss_val=None, acc_val=None):
+        super().__init__()
+        self.stop_on_loss = stop_on_loss
+        self.stop_on_acc = stop_on_acc
+        self.loss_val = loss_val
+        self.acc_val = acc_val
+
+    def on_epoch_end(self, epoch, logs={}):
+        if self.stop_on_acc:
+            if logs['accuracy'] > self.acc_val:
+                print(f"\nReached {self.acc_val}% accuracy, so stopping training!")
+                self.model.stop_training = True
+
+        if self.stop_on_loss:
+            if logs['loss'] < self.loss_val:
+                print(f"\nReached {self.loss_val} loss, so stopping training!")
+                self.model.stop_training = True
 
 
 class Model:
@@ -145,8 +166,10 @@ class Model:
         X_len = X_data.shape[1]
         y_data = np.array(y_data).astype(int)
 
+        callback = myCallback(stop_on_loss=True, loss_val=0.1)
         model = self.home_win_pct_model(X_len)
-        model.fit([X_data], y_data, epochs=30, batch_size=16, callbacks=[WandbCallback(data_type="data", labels=y_data)])
+        model.fit([X_data], y_data, epochs=200, batch_size=16,
+                  callbacks=[WandbCallback(data_type="data", labels=y_data), callback])
         self.save_model(model, "{}_Home_Win_pct.h5".format(self.league))
         return model
 
@@ -484,9 +507,19 @@ class Model:
         model.fit(X_data, y_data, epochs=70, batch_size=32, callbacks=[WandbCallback(labels=y_data)])
         self.save_model(model, "{}_Over_Win_pct.h5".format(self.league))
 
+    def train_all(self):  # Run
+        self.train_home_win_pct()
+        self.train_sb_moneyline()
+        self.train_sb_spread()
+        self.train_final_score()
+        self.train_home_spread_win_pct()
+        self.train_sb_over_under()
+        self.train_point_total()
+        self.train_over_win_pct()
+
 
 if __name__ == "__main__":
     x = Model("NBA")
     self = x
     ml_df, target_df = x.load_data()
-    x.train_over_win_pct()
+    x.train_home_win_pct()

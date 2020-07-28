@@ -4,7 +4,7 @@
 # File Created: Tuesday, 30th June 2020 11:58:42 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Friday, 3rd July 2020 1:48:00 pm
+# Last Modified: Tuesday, 28th July 2020 11:10:01 am
 # Modified By: Dillon Koch
 # -----
 #
@@ -127,7 +127,8 @@ class ESPN_Update_Results:
             if row['datetime'] > in_two_weeks:
                 return row
 
-            game = self.egs.run(row['ESPN_ID'])
+            espn_id = str(int(row['ESPN_ID']))
+            game = self.egs.run(espn_id)
             time.sleep(5)
             week = row['Week'] if self.league == "NFL" else None
             new_game_info = game.to_row_list(self.league, row['Season'], week)
@@ -147,18 +148,37 @@ class ESPN_Update_Results:
             df.to_csv(df_path, index=False)
         print("ALL {} DATA SAVED".format(self.league))
 
+    # def run(self):  # Run
+    #     dfs, df_paths = self.load_dfs()
+    #     dfs = [self.update_game_results(df) for df in dfs]
+    #     dfs = [self.remove_preseason(df) for df in dfs]
+    #     dfs = [sort_df_by_dt(df, keep_dt=True) for df in dfs]
+    #     self.save_dfs(dfs, df_paths)
+    #     return dfs
+
     def run(self):  # Run
         dfs, df_paths = self.load_dfs()
-        dfs = [self.update_game_results(df) for df in dfs]
-        dfs = [self.remove_preseason(df) for df in dfs]
-        dfs = [sort_df_by_dt(df, keep_dt=True) for df in dfs]
-        self.save_dfs(dfs, df_paths)
-        return dfs
+        for df, df_path in zip(dfs, df_paths):
+            print("updating {}...".format(df_path.split("/")[-1]))
+            df = self.update_game_results(df)
+            df = self.remove_preseason(df)
+            df = sort_df_by_dt(df, keep_dt=True)
+            df.to_csv(df_path, index=False)
+            print("{} saved!".format(df_path.split("/")[-1]))
+        print(f"Finished updating {self.league} games!")
 
 
 if __name__ == "__main__":
-    league = parse_league()
+    try:
+        league = parse_league()
+    except BaseException:
+        print("parsing exception")
+        league = "NBA"
     x = ESPN_Update_Results(league)
     self = x
+
+    # dfs, df_paths = self.load_dfs()
+    # df = dfs[3]
+    # df = self.update_game_results(df)
 
     dfs = x.run()

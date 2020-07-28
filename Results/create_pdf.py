@@ -4,7 +4,7 @@
 # File Created: Sunday, 19th July 2020 5:26:27 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Wednesday, 22nd July 2020 5:43:00 pm
+# Last Modified: Tuesday, 28th July 2020 9:43:10 am
 # Modified By: Dillon Koch
 # -----
 # Collins Aerospace
@@ -14,12 +14,15 @@
 # ==============================================================================
 
 import datetime
+import smtplib
+import ssl
+import string
 import sys
+from email.message import EmailMessage
 from os.path import abspath, dirname
 
 import pandas as pd
 from fpdf import FPDF
-import string
 
 ROOT_PATH = dirname(dirname(abspath(__file__)))
 if ROOT_PATH not in sys.path:
@@ -41,7 +44,9 @@ class PDF:
         return df
 
     def get_game_link(self, league, ESPN_ID):  # Global Helper
-        link_dict = {"NFL": "https://www.espn.com/nfl/game/_/gameId/{}"}
+        ESPN_ID = str(int(ESPN_ID))
+        link_dict = {"NFL": "https://www.espn.com/nfl/game/_/gameId/{}",
+                     "NBA": "https://www.espn.com/nba/game?gameId={}"}
         link = link_dict[league].format(ESPN_ID)
         return link
 
@@ -69,9 +74,9 @@ class PDF:
         away_record = str(row['Away_Record'])
 
         pdf.set_xy(3, depth + 16)
-        pdf.cell(w=24, h=8, txt=away_record, border=0)
+        pdf.cell(w=24, h=8, txt=away_record, border=0, align="C")
         pdf.set_xy(37, depth + 16)
-        pdf.cell(w=24, h=8, txt=home_record, border=0)
+        pdf.cell(w=24, h=8, txt=home_record, border=0, align="C")
         return pdf
 
     def _add_game_cell(self, pdf, depth):  # Helping Helper _add_nfl_game
@@ -193,9 +198,19 @@ class PDF:
         return pdf
 
     def _add_predicted_ml(self, pdf, row, depth):  # Helping Helper _add_nfl_game
-        pred_home_ml = str(row['Pred_Home_ML'])
+        # pred_home_ml = str(row['Pred_Home_ML'])
+        # pred_home_ml = "+" + pred_home_ml if pred_home_ml[0] in string.digits else pred_home_ml
+        # pred_away_ml = str(row['Pred_Away_ML'])
+        # pred_away_ml = "+" + pred_away_ml if pred_away_ml[0] in string.digits else pred_away_ml
+        # pred_ml_msg = f"{pred_home_ml}, {pred_away_ml}"
+
+        pred_home_ml = row['Pred_Home_ML']
+        pred_home_ml = pred_home_ml + 100 if pred_home_ml >= 0 else pred_home_ml - 100
+        pred_home_ml = str(pred_home_ml)
         pred_home_ml = "+" + pred_home_ml if pred_home_ml[0] in string.digits else pred_home_ml
-        pred_away_ml = str(row['Pred_Away_ML'])
+        pred_away_ml = row['Pred_Away_ML']
+        pred_away_ml = pred_away_ml + 100 if pred_away_ml >= 0 else pred_away_ml - 100
+        pred_away_ml = str(pred_away_ml)
         pred_away_ml = "+" + pred_away_ml if pred_away_ml[0] in string.digits else pred_away_ml
         pred_ml_msg = f"{pred_home_ml}, {pred_away_ml}"
 
@@ -254,11 +269,35 @@ class PDF:
             if num_games == 9:
                 pdf.add_page()
                 num_games = 1
+        return pdf
 
+    def _add_nba_game(self, pdf, row, num_games):  # Specific Helper create_nba_page
+        depth = (33 * num_games) - 15
+        pdf = self._add_image(pdf, row, depth, "NBA")
+        pdf = self._add_records(pdf, row, depth)
+        pdf = self._add_game_cell(pdf, depth)
+        pdf = self._add_game_info(pdf, row, depth, "NBA")
+        pdf = self._add_team_names(pdf, row, depth)
+        pdf = self._add_moneylines(pdf, row, depth)
+        pdf = self._add_lines(pdf, row, depth)
+        pdf = self._add_over_unders(pdf, row, depth)
+        pdf = self._add_predicted_score(pdf, row, depth)
+        pdf = self._add_predicted_ml(pdf, row, depth)
+        pdf = self._add_predicted_lines(pdf, row, depth)
+        pdf = self._add_predicted_over_under(pdf, row, depth)
         return pdf
 
     def create_nba_page(self, pdf):  # Top Level
-        pass
+        pdf.add_page()
+        df = self.load_data("NBA")
+        num_games = 1
+        for i, row in df.iterrows():
+            pdf = self._add_nba_game(pdf, row, num_games)
+            num_games += 1
+            if num_games == 9:
+                pdf.add_page()
+                num_games = 1
+        return pdf
 
     def create_ncaaf_page(self, pdf):  # Top Level
         pass
@@ -269,11 +308,36 @@ class PDF:
     def save_pdf(self, pdf):  # Top Level
         pdf.output(self.pdf_path, 'F').encode('utf-8', 'ignore')
 
+    def email_pdf(self):  # Top Level
+        msg = EmailMessage()
+        date_str = datetime.date.today().strftime("%Y-%m-%d")
+        msg['Subject'] = f"{date_str} Betting Lines"
+        msg['From'] = 'emailsfrompython3@gmail.com'
+        msg['To'] = ['dillonk428@gmail.com']
+        msg.set_content("Today's Betting PDF")
+
+        with open(self.pdf_path, 'rb') as f:
+            file_data = f.read()
+            file_name = f.name
+        msg.add_attachment(file_data, maintype='application', subtype='octet-stream', filename=file_name)
+        port = 465
+        smtp_server = "smtp.gmail.com"
+        sender_email = "emailsfrompython3@gmail.com"
+        password = "QBface!$"
+        context = ssl.create_default_context()
+        with smtplib.SMTP_SSL(smtp_server, port, context=context) as server:
+            server.login(sender_email, password)
+            server.send_message(msg)
+
+        print("Email sent!")
+
     def run(self):  # Run
         pdf = FPDF()
         pdf.add_page()
+        pdf = self.create_nba_page(pdf)
         pdf = self.create_nfl_page(pdf)
         self.save_pdf(pdf)
+        # self.email_pdf()
         return pdf
 
 

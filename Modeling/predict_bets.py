@@ -4,7 +4,7 @@
 # File Created: Monday, 13th July 2020 1:36:54 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Wednesday, 22nd July 2020 6:56:21 pm
+# Last Modified: Tuesday, 28th July 2020 8:31:36 am
 # Modified By: Dillon Koch
 # -----
 # Collins Aerospace
@@ -169,6 +169,6 @@ class Predict_Bets:
 
 
 if __name__ == "__main__":
-    x = Predict_Bets("NFL")
+    x = Predict_Bets("NBA")
     self = x
     df = x.run()
