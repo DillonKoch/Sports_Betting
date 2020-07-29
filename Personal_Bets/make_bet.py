@@ -1,33 +1,28 @@
 # ==============================================================================
 # File: make_bet.py
 # Project: Personal_Bets
-# File Created: Tuesday, 28th July 2020 11:37:45 am
+# File Created: Tuesday, 28th July 2020 8:25:14 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Tuesday, 28th July 2020 4:49:44 pm
+# Last Modified: Tuesday, 28th July 2020 8:34:58 pm
 # Modified By: Dillon Koch
 # -----
 #
 # -----
-# File for making a new personal bet
+# File for making a bet, used under the hood of make_bet_jn jupyter notebook
 # ==============================================================================
 
-import sys
-from os.path import abspath, dirname
 
+from os.path import abspath, dirname
+import sys
 import pandas as pd
-from wandb import init
 
 ROOT_PATH = dirname(dirname(abspath(__file__)))
 if ROOT_PATH not in sys.path:
     sys.path.append(ROOT_PATH)
 
 
-class Bet_Tracker:
-    """
-    class for tracking bets made by a person or betting agent
-    """
-
+class Make_Bet:
     def __init__(self, bettor):
         self.bettor = bettor.replace(" ", "_")
         self.df_path = ROOT_PATH + "/Personal_Bets/Data/{}.csv".format(self.bettor)
@@ -49,7 +44,7 @@ class Bet_Tracker:
         """
         print("Creating new dataframe for {}".format(self.bettor))
         cols = ["Bettor", "Bet_ID", "Parlay_No", "Bet_type", "Sportsbook", "Bet_made_dt", "Bet_result_dt", "Bet_amount",
-                "To_win_amount"]
+                "To_win_amount", "Home", "Away"]
         df = pd.DataFrame(columns=cols)
         return df
 
@@ -66,5 +61,6 @@ class Bet_Tracker:
 
 
 if __name__ == "__main__":
-    x = Bet_Tracker("Dillon Koch")
-    df = x.load_data()
+    x = Make_Bet("Dillon Koch")
+    self = x
+    x.run()

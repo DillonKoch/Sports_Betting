@@ -4,7 +4,7 @@
 # File Created: Tuesday, 16th June 2020 7:58:09 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Tuesday, 28th July 2020 2:45:42 pm
+# Last Modified: Tuesday, 28th July 2020 5:36:14 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -113,6 +113,7 @@ class ESB_Game_Scraper(ESB_Bool_Prop_Scraper):
             match = re.match(reg_comp, bet_string)
             if match:
                 result = match.group(0) if ml else [match.group(1), match.group(2), match.group(4)]
+                result = 100 if result == "even" else result
         return result
 
     def _check_spread_zero(self, bet_strings, spread_fav, spread_dog):
@@ -136,7 +137,7 @@ class ESB_Game_Scraper(ESB_Bool_Prop_Scraper):
         spread_fav_comp = re.compile(r"(-)((\d|\.)+)\((((\d|-)+)|even)\)")
         spread_dog_comp = re.compile(r"(\+)((\d|\.)+)\((((\d|-)+)|even)\)")
         ml_fav_comp = re.compile(r"-(\d+)$")
-        ml_dog_comp = re.compile(r"\+(\d+)$")
+        ml_dog_comp = re.compile(r"(\+(\d+)$)|even")
 
         over = self._get_bet_match(bet_strings, over_comp)
         under = self._get_bet_match(bet_strings, under_comp)
