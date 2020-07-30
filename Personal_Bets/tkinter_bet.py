@@ -4,7 +4,7 @@
 # File Created: Wednesday, 24th June 2020 10:57:54 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Tuesday, 28th July 2020 8:46:11 pm
+# Last Modified: Wednesday, 29th July 2020 8:11:42 am
 # Modified By: Dillon Koch
 # -----
 #
@@ -44,7 +44,7 @@ class Tkinter_Bet:
 
         # lists
         self.bettors = ['Dillon Koch']
-        self.bet_types = ['Money Line', 'Spread', 'Prop']
+        self.bet_types = ['Money Line', 'Spread', "Over Under", 'Prop']
         self.bet_amounts = [float(item) for item in [3, 4, 5, 6, 7, 8, 9, 10]]
         self.to_win_amounts = [float(item) for item in [4, 4.55, 5, 6, 7, 8, 9, 10]]
         self.leagues = ['NFL', 'NCAAF', 'NBA', 'NCAAB']

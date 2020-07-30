@@ -4,7 +4,7 @@
 # File Created: Tuesday, 23rd June 2020 3:20:11 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Monday, 27th July 2020 5:41:24 pm
+# Last Modified: Wednesday, 29th July 2020 6:41:48 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -57,8 +57,13 @@ class ESB_Perform_Scrapes:
         for bet in self.config["Bets"]:
             bet_name, link, bet_type = bet
             print("Updating {}...".format(bet_name))
-            sp = get_sp1(link)
-            self.scrape_bet(sp, bet_name, bet_type)
+            try:
+                sp = get_sp1(link)
+                self.scrape_bet(sp, bet_name, bet_type)
+            except Exception as e:
+                print("-" * 30)
+                print(f"ERROR UPDATING BET {bet_name}! ({e})")
+                print("-" * 30)
             time.sleep(5)
 
 

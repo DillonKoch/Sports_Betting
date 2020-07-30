@@ -4,7 +4,7 @@
 # File Created: Tuesday, 16th June 2020 7:58:09 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Tuesday, 28th July 2020 5:36:14 pm
+# Last Modified: Wednesday, 29th July 2020 6:33:02 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -89,8 +89,9 @@ class ESB_Game_Scraper(ESB_Bool_Prop_Scraper):
 
     def _box_time(self, box):  # Specific Helper esb_game_from_box_date_pair
         time = box.find_all('div', attrs={'class': 'col-xs-12 visible-xs visible-sm'})
-        time_str = time[0].get_text()
-        time_str = time_str.strip()
+        time_str = time[0].contents[1].contents[1].get_text()
+        # time_str = time[0].get_text()
+        # time_str = time_str.strip()
         return time_str
 
     def _box_teams(self, box):  # Specific Helper esb_game_from_box_date_pair

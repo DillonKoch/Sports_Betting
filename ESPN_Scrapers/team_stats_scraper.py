@@ -4,7 +4,7 @@
 # File Created: Tuesday, 16th June 2020 1:42:34 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Tuesday, 28th July 2020 11:29:01 am
+# Last Modified: Thursday, 30th July 2020 2:28:59 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -19,6 +19,7 @@ import time
 from os.path import abspath, dirname
 import datetime
 import argparse
+from func_timeout import func_set_timeout
 
 import pandas as pd
 
@@ -236,6 +237,7 @@ class ESPN_Stat_Scraper:
                 ts.add_basketball_item(stat_string)
         return ts
 
+    @func_set_timeout(10)
     def run(self, espn_id):  # Run  Tested
         """
         Creates a Team_Stats object from an ESPN_ID
@@ -265,10 +267,13 @@ class ESPN_Stat_Scraper:
             df[col] = None
 
         for i, row in df.iterrows():
-            print("{}/{}".format(i, len(df)))
-            team_stats = self.run(row['ESPN_ID'])
-            stats_row = team_stats.make_row(self.football_league)
-            df.loc[i, all_cols] = stats_row
+            try:
+                print("{}/{}".format(i, len(df)))
+                team_stats = self.run(row['ESPN_ID'])
+                stats_row = team_stats.make_row(self.football_league)
+                df.loc[i, all_cols] = stats_row
+            except BaseException:
+                print("ERROR SCRAPING - MOVING ON...")
             time.sleep(5)
 
         if path is not None:

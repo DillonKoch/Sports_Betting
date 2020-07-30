@@ -4,7 +4,7 @@
 # File Created: Tuesday, 28th July 2020 8:25:14 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Tuesday, 28th July 2020 8:34:58 pm
+# Last Modified: Wednesday, 29th July 2020 8:00:26 am
 # Modified By: Dillon Koch
 # -----
 #
@@ -56,11 +56,22 @@ class Make_Bet:
         df = self._create_new_df() if df is None else df
         return df
 
+    def _new_bet_id(self, df):  # Specific Helper
+        """
+        returns a bet ID for a new bet in the given dataframe
+        """
+        if len(df) == 0:
+            return 1
+        else:
+            bet_ids = list(df['Bet_ID'])
+            return bet_ids[-1] + 1
+
     def run(self):  # Run
         df = self.load_data()
+        return df
 
 
 if __name__ == "__main__":
     x = Make_Bet("Dillon Koch")
     self = x
-    x.run()
+    df = x.run()
