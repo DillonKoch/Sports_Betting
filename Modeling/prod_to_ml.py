@@ -4,7 +4,7 @@
 # File Created: Tuesday, 14th July 2020 4:47:07 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Monday, 27th July 2020 10:59:38 am
+# Last Modified: Sunday, 2nd August 2020 9:42:27 am
 # Modified By: Dillon Koch
 # -----
 #
@@ -34,6 +34,7 @@ if ROOT_PATH not in sys.path:
     sys.path.append(ROOT_PATH)
 
 from ESPN_Scrapers.team_stats_scraper import Team_Stats
+from Utility.Utility import parse_league
 
 
 class Prod_to_ML:
@@ -460,6 +461,6 @@ class Prod_to_ML:
 
 
 if __name__ == "__main__":
-    x = Prod_to_ML("NBA")
-    self = x
-    # df = x.run(normalize=False)
+    league = parse_league()
+    x = Prod_to_ML(league)
+    df = x.run()

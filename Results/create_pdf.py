@@ -4,7 +4,7 @@
 # File Created: Sunday, 19th July 2020 5:26:27 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Tuesday, 28th July 2020 9:43:10 am
+# Last Modified: Sunday, 2nd August 2020 9:55:10 am
 # Modified By: Dillon Koch
 # -----
 # Collins Aerospace
@@ -74,9 +74,9 @@ class PDF:
         away_record = str(row['Away_Record'])
 
         pdf.set_xy(3, depth + 16)
-        pdf.cell(w=24, h=8, txt=away_record, border=0, align="C")
-        pdf.set_xy(37, depth + 16)
         pdf.cell(w=24, h=8, txt=home_record, border=0, align="C")
+        pdf.set_xy(37, depth + 16)
+        pdf.cell(w=24, h=8, txt=away_record, border=0, align="C")
         return pdf
 
     def _add_game_cell(self, pdf, depth):  # Helping Helper _add_nfl_game

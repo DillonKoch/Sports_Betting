@@ -4,7 +4,7 @@
 # File Created: Tuesday, 30th June 2020 11:58:42 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Tuesday, 28th July 2020 11:23:00 am
+# Last Modified: Saturday, 1st August 2020 4:18:53 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -117,14 +117,14 @@ class ESPN_Update_Results:
     def update_game_results(self, df):  # Top Level
         """
         updates team's csv's in a league folder for games that have recently finished
-        - also updates games less than two weeks away, so current records are scraped
+        - also updates games less than one week away, so current records are scraped
         """
         def update_row_results(row):
             if "Final" in str(row["Final_Status"]):
                 return row
 
-            in_two_weeks = datetime.date.today() + datetime.timedelta(days=14)
-            if row['datetime'] > in_two_weeks:
+            in_one_week = datetime.date.today() + datetime.timedelta(days=7)
+            if row['datetime'] > in_one_week:
                 return row
 
             espn_id = str(int(row['ESPN_ID']))
@@ -163,16 +163,6 @@ class ESPN_Update_Results:
 
 
 if __name__ == "__main__":
-    try:
-        league = parse_league()
-    except BaseException:
-        print("parsing exception")
-        league = "NBA"
+    league = parse_league()
     x = ESPN_Update_Results(league)
-    self = x
-
-    # dfs, df_paths = self.load_dfs()
-    # df = dfs[3]
-    # df = self.update_game_results(df)
-
     dfs = x.run()

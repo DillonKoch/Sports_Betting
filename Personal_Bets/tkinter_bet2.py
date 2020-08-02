@@ -4,7 +4,7 @@
 # File Created: Wednesday, 29th July 2020 8:11:56 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Thursday, 30th July 2020 5:24:51 pm
+# Last Modified: Saturday, 1st August 2020 3:04:13 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -259,7 +259,7 @@ class Tkinter_Bet:
 
     def run(self):  # Run
         all_bets = []
-        parlay = True
+        parlay = True  # starts as true to record single, non-parlay bets
         while parlay:
             league = self.window_1()
             espn_id, df = self.window_2(league)

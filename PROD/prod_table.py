@@ -4,7 +4,7 @@
 # File Created: Thursday, 18th June 2020 12:48:04 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Friday, 17th July 2020 10:25:01 am
+# Last Modified: Saturday, 1st August 2020 3:09:18 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -28,7 +28,7 @@ ROOT_PATH = dirname(dirname(abspath(__file__)))
 if ROOT_PATH not in sys.path:
     sys.path.append(ROOT_PATH)
 
-from Utility.Utility import listdir_fullpath
+from Utility.Utility import listdir_fullpath, parse_league
 
 
 class Prod_Table:
@@ -357,10 +357,13 @@ class Prod_Table:
 
 
 if __name__ == "__main__":
-    nfl = Prod_Table("NFL")
-    nba = Prod_Table("NBA")
-    ncaaf = Prod_Table("NCAAF")
-    ncaab = Prod_Table("NCAAB")
-    self = nba
-    df = self.prod_table_from_scratch()
-    # ndf = self.espn_odds_non_matches()
+    league = parse_league()
+    x = Prod_Table(league)
+    x.prod_table_from_scratch()
+    # nfl = Prod_Table("NFL")
+    # nba = Prod_Table("NBA")
+    # ncaaf = Prod_Table("NCAAF")
+    # ncaab = Prod_Table("NCAAB")
+    # self = nba
+    # df = self.prod_table_from_scratch()
+    # # ndf = self.espn_odds_non_matches()
