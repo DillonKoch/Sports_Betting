@@ -4,7 +4,7 @@
 # File Created: Tuesday, 14th April 2020 5:08:35 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Wednesday, 1st July 2020 11:19:50 am
+# Last Modified: Sunday, 2nd August 2020 1:58:01 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -34,40 +34,16 @@ class Test_ESPN_Season_Scraper(TestCase):
     all_scrapers = [nba, nfl, ncaaf, ncaab]
 
     nba_sections = nba._get_game_sections('mia', '2019')
-    # nba_links = []
-    # nba_dates = []
-    # for section in nba_sections:
-    #     link, date = nba._link_week_from_game_section(section)
-    #     nba_links.append(link)
-    #     nba_dates.append(date)
-
     nfl_sections = nfl._get_game_sections('min', '2019')
-    # nfl_links = []
-    # nfl_weeks = []
-    # for section in nfl_sections:
-    #     link, week = nfl._link_week_from_game_section(section)
-    #     nfl_links.append(link)
-    #     nfl_weeks.append(week)
-
     ncaaf_sections = ncaaf._get_game_sections('2294', '2019')
-    # ncaaf_links = []
-    # ncaaf_weeks = []
-    # for section in ncaaf_sections:
-    #     link, week = ncaaf._link_week_from_game_section(section)
-    #     ncaaf_links.append(link)
-    #     ncaaf_weeks.append(date)
-
     ncaab_sections = ncaab._get_game_sections('2294', '2019')
-
     all_sections = [nfl_sections, nba_sections, ncaaf_sections, ncaab_sections]
-
-    ###########################################################################
 
     def setUp(self):
         pass
 
     def test_setup(self):
-        true_keys = ["DF Columns", "Season Base Link", "Teams"]
+        true_keys = ["DF Columns", "Season Base Link", "season_start_dates", "Teams"]
         for scraper in self.all_scrapers:
             config = scraper.config
             self.assertIsInstance(config, dict)

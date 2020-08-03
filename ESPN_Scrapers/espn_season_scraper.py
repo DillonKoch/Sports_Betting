@@ -4,7 +4,7 @@
 # File Created: Saturday, 23rd May 2020 11:04:56 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Thursday, 2nd July 2020 2:22:44 pm
+# Last Modified: Sunday, 2nd August 2020 1:58:51 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -20,14 +20,13 @@ import time
 from os.path import abspath, dirname
 
 import pandas as pd
-from tqdm import tqdm
 
 ROOT_PATH = dirname(dirname(abspath(__file__)))
 if ROOT_PATH not in sys.path:
     sys.path.append(ROOT_PATH)
 
 from ESPN_Scrapers.espn_game_scraper import ESPN_Game_Scraper
-from Utility.Utility import get_sp1, sort_df_by_dt
+from Utility.Utility import get_sp1
 
 
 class ESPN_Season_Scraper:
@@ -219,7 +218,4 @@ if __name__ == "__main__":
     nba = ESPN_Season_Scraper("NBA")
     ncaaf = ESPN_Season_Scraper("NCAAF")
     ncaab = ESPN_Season_Scraper("NCAAB")
-    # ncaaf.scrape_all_leauge_history()
-    # ncaaf.scrape_league_upcoming_season()
-    # nba.scrape_unplayed_games()
     ncaab.scrape_all_leauge_history()

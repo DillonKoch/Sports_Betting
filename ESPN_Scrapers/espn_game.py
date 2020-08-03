@@ -4,12 +4,12 @@
 # File Created: Tuesday, 30th June 2020 4:36:08 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Tuesday, 28th July 2020 11:12:48 am
+# Last Modified: Sunday, 2nd August 2020 1:26:15 pm
 # Modified By: Dillon Koch
 # -----
 #
 # -----
-# Representation of an ESPN Game
+# Representation of an ESPN Game in any league
 # ==============================================================================
 
 
@@ -24,6 +24,7 @@ if ROOT_PATH not in sys.path:
 class Game:
     """
      Represents one game from ESPN in any league
+     - holds information about the game in its attributes
     """
 
     def __init__(self, league):
@@ -50,6 +51,7 @@ class Game:
     def _get_ncaab_scores(self):  # Specific Helper to_row_list  Tested
         """
         returns a list of the 6 ncaab scores (two halves and OT for each team)
+        - game must be final, otherwise None's are returned
         """
         if "Final" not in str(self.final_status):
             scores = [None] * 6
@@ -61,6 +63,7 @@ class Game:
     def _get_non_ncaab_scores(self):  # Specific Helper to_row_list  Tested
         """
         returns a list of the 10 non-ncaab scores (4 quarters and OT for each team)
+        - game must be final, otherwise None's are returned
         """
         if "Final" not in str(self.final_status):
             scores = [None] * 10

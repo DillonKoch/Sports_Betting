@@ -4,7 +4,7 @@
 # File Created: Tuesday, 14th July 2020 4:47:07 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Sunday, 2nd August 2020 9:42:27 am
+# Last Modified: Sunday, 2nd August 2020 2:44:20 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -176,7 +176,42 @@ class Prod_to_ML:
         df = self._clean_time_possession(df)
         return df
 
-    def _get_relevant_data(self, prod_df, team_name: str, season: int, game_date: datetime):  # Specific Helper get_record
+    def add_dummies(self, ml_df, prod_df):  # Top Level
+        """
+        adds dummy columns from the prod_df to the ml_df
+        """
+        dummy_cols = ["Home", "Away", "Network"]
+        for col in dummy_cols:
+            new_dummy_df = pd.get_dummies(prod_df[col], prefix=col)
+            ml_df = pd.concat([ml_df, new_dummy_df], axis=1)
+        return ml_df
+
+    def add_binary_cols(self, ml_df, prod_df):  # Top Level
+        """
+        adds binary cols created from the prod_df to the ml_df
+        """
+        ml_df['neutral_game'] = prod_df['neutral_game'].astype(int)
+        ml_df['conf_game'] = prod_df['conf_game'].astype(int)
+        return ml_df
+
+    def add_season(self, ml_df, prod_df):  # Top Level
+        ml_df['Season'] = prod_df['Season_x'].astype(int)
+        return ml_df
+
+    def add_week(self, ml_df, prod_df):  # Top Level
+        """
+        adds the week to ml_df if the league is NFL, otherwise does nothing
+        """
+        if self.league != "NFL":
+            return ml_df
+
+        prod_weeks = list(prod_df['Week'])
+        prod_weeks = [item.replace("WC", '18').replace("DIV", "19").replace("CONF", "20").replace("SB", "21")
+                      for item in prod_weeks]
+        ml_df['Week'] = pd.Series(prod_weeks).astype(int)
+        return ml_df
+
+    def _get_relevant_data(self, prod_df, team_name: str, season: int, game_date: datetime):  # Helping Helper get_record
         """
         returns df of relevant data for the team_name/season/game_date combo
         - relevant data is either (1) games already played in the given season, or
@@ -190,14 +225,14 @@ class Prod_to_ML:
             return self._get_relevant_data(prod_df, team_name, season - 1, game_date)
         return df
 
-    def _get_specific_record(self, df, home: bool):  # Specific Helper get_record
+    def _get_specific_record(self, df, home: bool):  # Helping Helper get_record
         results = list(df['Home_won'])
         wins = results.count(True) if home else results.count(False)
         losses = results.count(False) if home else results.count(True)
         ties = list(df['tie']).count(True)
         return wins, losses, ties
 
-    def get_record(self, prod_df, team_name: str, season: int, game_date: datetime, home: bool, neutral=False):  # Top Level
+    def get_record(self, prod_df, team_name: str, season: int, game_date: datetime, home: bool, neutral=False):  # Specific Helper add_records
         """
         returns the 6 record values (below) for a team from the dataframe input
         (ovr_wins, ovr_losses, ovr_ties, spec_wins, spec_losses, spec_ties)
@@ -284,7 +319,7 @@ class Prod_to_ML:
         avg_stats = [item if str(item) != "nan" else -1 for item in avg_stats]
         return avg_stats
 
-    def get_team_stats(self, df, team_name: str, season: int, game_date: datetime, home: bool, neutral=False):  # Top Level
+    def get_team_stats(self, df, team_name: str, season: int, game_date: datetime, home: bool, neutral=False):  # Specific Helper add_team_stats
         """
         returns the avg stats values for a team from the dataframe input
         - format: overall avg_stats_cols, spec_avg_stats_cols (just like record)
@@ -370,42 +405,10 @@ class Prod_to_ML:
             ml_df[col] = ml_df[col].replace(-1, avg_value)
         return ml_df
 
-    def add_dummies(self, ml_df, prod_df):  # Top Level
-        """
-        adds dummy columns from the prod_df to the ml_df
-        """
-        dummy_cols = ["Home", "Away", "Network"]
-        for col in dummy_cols:
-            new_dummy_df = pd.get_dummies(prod_df[col], prefix=col)
-            ml_df = pd.concat([ml_df, new_dummy_df], axis=1)
-        return ml_df
-
-    def add_binary_cols(self, ml_df, prod_df):  # Top Level
-        """
-        adds binary cols created from the prod_df to the ml_df
-        """
-        ml_df['neutral_game'] = prod_df['neutral_game'].astype(int)
-        ml_df['conf_game'] = prod_df['conf_game'].astype(int)
-        return ml_df
-
-    def add_season(self, ml_df, prod_df):  # Top Level
-        ml_df['Season'] = prod_df['Season_x'].astype(int)
-        return ml_df
-
-    def add_week(self, ml_df, prod_df):  # Top Level
-        """
-        adds the week to ml_df if the league is NFL, otherwise does nothing
-        """
-        if self.league != "NFL":
-            return ml_df
-
-        prod_weeks = list(prod_df['Week'])
-        prod_weeks = [item.replace("WC", '18').replace("DIV", "19").replace("CONF", "20").replace("SB", "21")
-                      for item in prod_weeks]
-        ml_df['Week'] = pd.Series(prod_weeks).astype(int)
-        return ml_df
-
     def normalize_full_df(self, df):  # Top Level
+        """
+        normalizes all the columns in the df not in the 'cols' list
+        """
         cols = ["ESPN_ID", "datetime", "Final_Status"]
         norm_cols = [col for col in list(df.columns) if col not in cols]
         no_change_df = df.loc[:, cols]
@@ -438,6 +441,10 @@ class Prod_to_ML:
         return ml_df
 
     def run_target(self):  # Run
+        """
+        loads target columns from the PROD table and saves them in a csv
+        - the rows in this df match up exactly with the rows in the ml df
+        """
         target_cols = ["ESPN_ID", "datetime", "Final_Status",
                        "Home_Score_x", "Away_Score_x", "Line", "Over_Under", "HQ1_x", "HQ2_x", "HQ3_x", "HQ4_x", "HOT",
                        "AQ1_x", "AQ2_x", "AQ3_x", "AQ4_x", "AOT", "Home_ML", "Away_ML", "Open_OU", "Close_OU", "2H_OU",
@@ -464,3 +471,4 @@ if __name__ == "__main__":
     league = parse_league()
     x = Prod_to_ML(league)
     df = x.run()
+    target_df = x.run_target()
