@@ -29,7 +29,7 @@ python team_stats_scraper.py --league=NBA --cmd=update
 # ---------------------------------------------------
 # # Updating prod tables...
 # ---------------------------------------------------
-cd PROD
+cd ../PROD
 python prod_table.py --league=NBA
 cd ..
 
