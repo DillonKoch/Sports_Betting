@@ -4,7 +4,7 @@
 # File Created: Tuesday, 23rd June 2020 3:20:11 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Wednesday, 5th August 2020 7:41:19 am
+# Last Modified: Wednesday, 5th August 2020 3:26:04 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -25,6 +25,7 @@ if ROOT_PATH not in sys.path:
 from ESB_Scrapers.esb_game_scraper import ESB_Game_Scraper
 from ESB_Scrapers.esb_prop_scrapers import (ESB_Bool_Prop_Scraper,
                                             ESB_Prop_Scraper)
+from ESB_Scrapers.esb_selenium import ESB_Selenium
 from Utility.Utility import get_sp1, parse_league
 
 
@@ -53,13 +54,30 @@ class ESB_Perform_Scrapes:
         esb_scraper.update_df()
         print("{} updated".format(bet_name))
 
+    def _selenium_get_sp(self, links_to_click):  # Specific Helper scrape_sp
+        s = ESB_Selenium(links_to_click)
+        sp = s.run()
+        return sp
+
+    def scrape_sp(self, link, links_to_click):  # Top Level
+        try:
+            sp = get_sp1(link)
+            if len(str(sp)) == 23393:
+                raise ValueError("Redirected")
+        except Exception as e:
+            print(e)
+            print("ERROR SCRAPING WITH BEAUTIFULSOUP - TRYING WITH SELENIUM")
+            sp = self._selenium_get_sp(links_to_click)
+        return sp
+
     def run(self):  # Run
         for bet in self.config["Bets"]:
-            bet_name, link, bet_type = bet
+            bet_name, link, bet_type, links_to_click = bet
             print("Updating {}...".format(bet_name))
             try:
-                sp = get_sp1(link)
-                print(len(str(sp)))
+                print('here')
+                sp = self.scrape_sp(link, links_to_click)
+                # sp = get_sp1(link)
                 self.scrape_bet(sp, bet_name, bet_type)
             except Exception as e:
                 print("-" * 30)

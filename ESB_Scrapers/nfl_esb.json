@@ -3,87 +3,42 @@
         [
             "Game_Lines",
             "https://www.elitesportsbook.com/sports/pro-football-lines-betting/week-1.sbk",
-            "Games"
+            "Games",
+            [
+                "BET NOW",
+                "PRO FOOTBALL LINES",
+                "Week 1"
+            ]
         ],
         [
             "Super_Bowl",
             "https://www.elitesportsbook.com/sports/pro-football-futures-betting/2021-pro-football-championship.sbk",
-            "Prop"
+            "Prop",
+            [
+                "BET NOW",
+                "PRO FOOTBALL FUTURES",
+                "2021 Pro Football Championship"
+            ]
         ],
         [
             "NFC_Championship",
             "https://www.elitesportsbook.com/sports/pro-football-futures-betting/2021-nfc-championship.sbk",
-            "Prop"
+            "Prop",
+            [
+                "BET NOW",
+                "PRO FOOTBALL FUTURES",
+                "2021 NFC Championship"
+            ]
         ],
         [
             "AFC_Championship",
             "https://www.elitesportsbook.com/sports/pro-football-futures-betting/2021-afc-championship.sbk",
-            "Prop"
-        ],
-        [
-            "Team_to_reach_playoffs",
-            "https://www.elitesportsbook.com/sports/pro-football-futures-betting/team-to-reach-2020-2021-playoffs.sbk",
-            "Bool_Prop"
-        ],
-        [
-            "Regular_season_wins",
-            "https://www.elitesportsbook.com/sports/pro-football-futures-betting/2020-2021-regular-season-wins.sbk",
-            "Bool_Prop"
-        ],
-        [
-            "NFC_East",
-            "https://www.elitesportsbook.com/sports/pro-football-futures-betting/2020-2021-nfc-east.sbk",
-            "Prop"
-        ],
-        [
-            "NFC_West",
-            "https://www.elitesportsbook.com/sports/pro-football-futures-betting/2020-2021-nfc-west.sbk",
-            "Prop"
-        ],
-        [
-            "NFC_North",
-            "https://www.elitesportsbook.com/sports/pro-football-futures-betting/2020-2021-nfc-north.sbk",
-            "Prop"
-        ],
-        [
-            "NFC_South",
-            "https://www.elitesportsbook.com/sports/pro-football-futures-betting/2020-2021-nfc-south.sbk",
-            "Prop"
-        ],
-        [
-            "AFC_East",
-            "https://www.elitesportsbook.com/sports/pro-football-futures-betting/2020-2021-afc-east.sbk",
-            "Prop"
-        ],
-        [
-            "AFC_West",
-            "https://www.elitesportsbook.com/sports/pro-football-futures-betting/2020-2021-afc-west.sbk",
-            "Prop"
-        ],
-        [
-            "AFC_North",
-            "https://www.elitesportsbook.com/sports/pro-football-futures-betting/2020-2021-afc-north.sbk",
-            "Prop"
-        ],
-        [
-            "AFC_South",
-            "https://www.elitesportsbook.com/sports/pro-football-futures-betting/2020-2021-afc-south.sbk",
-            "Prop"
-        ],
-        [
-            "Regular_season_passing_leader",
-            "https://www.elitesportsbook.com/sports/pro-football-futures-betting/2020-2021-reg-season-passing-yds-leader.sbk",
-            "Prop"
-        ],
-        [
-            "Regular_season_rushing_leader",
-            "https://www.elitesportsbook.com/sports/pro-football-futures-betting/2020-2021-reg-season-rushing-yds-leader.sbk",
-            "Prop"
-        ],
-        [
-            "Regular_season_receiving_leader",
-            "https://www.elitesportsbook.com/sports/pro-football-futures-betting/2020-2021-reg-season-receiving-yds-leader.sbk",
-            "Prop"
+            "Prop",
+            [
+                "BET NOW",
+                "PRO FOOTBALL FUTURES",
+                "2021 AFC Championship"
+            ]
         ]
     ]
 }
