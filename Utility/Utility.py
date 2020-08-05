@@ -4,7 +4,7 @@
 # File Created: Friday, 10th April 2020 10:47:51 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Friday, 3rd July 2020 10:08:25 am
+# Last Modified: Wednesday, 5th August 2020 6:42:42 am
 # Modified By: Dillon Koch
 # -----
 #
@@ -94,5 +94,6 @@ def listdir_fullpath(d):
 
 
 if __name__ == "__main__":
-    league = parse_league()
-    print(league)
+    # league = parse_league()
+    # print(league)
+    pass

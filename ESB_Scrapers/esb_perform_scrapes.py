@@ -4,7 +4,7 @@
 # File Created: Tuesday, 23rd June 2020 3:20:11 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Wednesday, 29th July 2020 6:41:48 pm
+# Last Modified: Wednesday, 5th August 2020 7:41:19 am
 # Modified By: Dillon Koch
 # -----
 #
@@ -59,6 +59,7 @@ class ESB_Perform_Scrapes:
             print("Updating {}...".format(bet_name))
             try:
                 sp = get_sp1(link)
+                print(len(str(sp)))
                 self.scrape_bet(sp, bet_name, bet_type)
             except Exception as e:
                 print("-" * 30)

@@ -4,7 +4,7 @@
 # File Created: Tuesday, 16th June 2020 7:58:09 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Wednesday, 29th July 2020 6:33:02 pm
+# Last Modified: Wednesday, 5th August 2020 6:34:26 am
 # Modified By: Dillon Koch
 # -----
 #
@@ -269,8 +269,9 @@ class ESB_Game_Scraper(ESB_Bool_Prop_Scraper):
 
 
 if __name__ == "__main__":
-    link = "https://www.elitesportsbook.com/sports/nba-betting/game-lines-full-game.sbk"
+    link = "http://www.elitesportsbook.com/sports/pro-football-lines-betting/week-1.sbk"
+    link = "https://www.elitesportsbook.com/sports/home.sbk#200"
     sp = get_sp1(link)
-    x = ESB_Game_Scraper("NBA", "Game_Lines", sp)
+    x = ESB_Game_Scraper("NFL", "Game_Lines", sp)
     self = x
     df = self.make_new_df(False)
