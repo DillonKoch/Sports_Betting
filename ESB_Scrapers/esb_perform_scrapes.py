@@ -4,7 +4,7 @@
 # File Created: Tuesday, 23rd June 2020 3:20:11 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Wednesday, 5th August 2020 3:26:04 pm
+# Last Modified: Wednesday, 5th August 2020 7:43:24 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -52,7 +52,7 @@ class ESB_Perform_Scrapes:
         scrape_func = self.scraper_dict[bet_type]
         esb_scraper = scrape_func(self.league, bet_name, sp)
         esb_scraper.update_df()
-        print("{} updated".format(bet_name))
+        print("-" * 25 + "{} updated".format(bet_name) + "-" * 25)
 
     def _selenium_get_sp(self, links_to_click):  # Specific Helper scrape_sp
         s = ESB_Selenium(links_to_click)
@@ -63,7 +63,7 @@ class ESB_Perform_Scrapes:
         try:
             sp = get_sp1(link)
             if len(str(sp)) == 23393:
-                raise ValueError("Redirected")
+                raise ValueError("ERROR: Elite Sportsbook redirected to a welcome page")
         except Exception as e:
             print(e)
             print("ERROR SCRAPING WITH BEAUTIFULSOUP - TRYING WITH SELENIUM")
@@ -75,9 +75,7 @@ class ESB_Perform_Scrapes:
             bet_name, link, bet_type, links_to_click = bet
             print("Updating {}...".format(bet_name))
             try:
-                print('here')
                 sp = self.scrape_sp(link, links_to_click)
-                # sp = get_sp1(link)
                 self.scrape_bet(sp, bet_name, bet_type)
             except Exception as e:
                 print("-" * 30)

@@ -4,7 +4,7 @@
 # File Created: Wednesday, 5th August 2020 11:41:28 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Wednesday, 5th August 2020 2:46:29 pm
+# Last Modified: Wednesday, 5th August 2020 7:42:09 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -37,7 +37,7 @@ class ESB_Selenium:
         """
         self.driver.get(self.start_link)
         # wait for the redirect to happen
-        for i in range(5):
+        for i in range(10):
             print(i)
             time.sleep(1)
 
