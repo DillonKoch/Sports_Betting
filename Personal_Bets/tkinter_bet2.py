@@ -4,7 +4,7 @@
 # File Created: Wednesday, 29th July 2020 8:11:56 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Saturday, 1st August 2020 3:04:13 pm
+# Last Modified: Saturday, 8th August 2020 11:19:32 am
 # Modified By: Dillon Koch
 # -----
 #
@@ -131,6 +131,9 @@ class Tkinter_Bet:
         self.parlay = tk.BooleanVar()
         self.parlay.set(0)
 
+    def int_or_nl(self, value):  # Helping Helper
+        return value if value == "NL" else int(value)
+
     def _game_info(self, game):  # Specific Helper window_3
         game = game.iloc[0, :]
         game_str = f"{game['League']} - {game['Date']} ({game['Game_Time']})"
@@ -142,13 +145,13 @@ class Tkinter_Bet:
         home_ml = "+" + home_ml if "-" not in home_ml else home_ml
         away_ml = "+" + away_ml if "-" not in away_ml else away_ml
 
-        home_spread = f"{game['Home_Line_ESB']} ({int(game['Home_Line_ml_ESB'])})"
-        away_spread = f"{game['Away_Line_ESB']} ({int(game['Away_Line_ml_ESB'])})"
+        home_spread = f"{game['Home_Line_ESB']} ({self.int_or_nl(game['Home_Line_ml_ESB'])})"
+        away_spread = f"{game['Away_Line_ESB']} ({self.int_or_nl(game['Away_Line_ml_ESB'])})"
         home_spread = "+" + home_spread if "-" not in home_spread.split("(")[0] else home_spread
         away_spread = "+" + away_spread if "-" not in away_spread.split("(")[0] else away_spread
 
-        over = f"O {game['Over_ESB']} ({int(game['Over_ml_ESB'])})"
-        under = f"U {game['Under_ESB']} ({int(game['Under_ml_ESB'])})"
+        over = f"O {game['Over_ESB']} ({self.int_or_nl(game['Over_ml_ESB'])})"
+        under = f"U {game['Under_ESB']} ({self.int_or_nl(game['Under_ml_ESB'])})"
         return game_str, home, away, home_ml, away_ml, home_spread, away_spread, over, under
 
     def _add_labels(self, game_str, home, away):  # Specific Helper window_3
@@ -201,12 +204,14 @@ class Tkinter_Bet:
 
     def _create_window_4_vars(self):  # Specific Helper window_4
         self._refresh_root()
-        self.bet_amount = tk.DoubleVar()
-        self.bet_amount.set(0.0)
-        self.to_win = tk.DoubleVar()
-        self.to_win.set(0.0)
-        self.to_win_manual = tk.DoubleVar()
-        self.to_win_manual.set(0.0)  # manual overrides calculated value if one is given
+        self.bet_amount = tk.StringVar()
+        self.bet_amount.set('')
+        self.to_win_amount = tk.StringVar()
+        self.to_win_amount.set('')
+        # self.to_win_manual = tk.DoubleVar()
+        # self.to_win_manual.set(0.0)  # manual overrides calculated value if one is given
+        # self.to_win_amount = tk.DoubleVar()
+        # self.to_win_amount.set(0.0)
 
     def _get_ml(self, bet_list):  # Specific Helper window_4
         _, _, bet, game = bet_list
@@ -227,7 +232,7 @@ class Tkinter_Bet:
         if moneyline > 0:
             return (moneyline / 100) + 1
         else:
-            return (100 / moneyline) + 1
+            return (100 / abs(moneyline)) + 1
 
     def _calculate_multiplier(self, moneylines):  # Specific Helper window_4
         """
@@ -241,21 +246,61 @@ class Tkinter_Bet:
         return multiplier
 
     def _create_bet_entry(self):  # Specific Helper window_4
+        """
+        creates the "bet" entry field in window 4
+        """
         bet_label = tk.Label(self.root, text="Bet: ", font=self.font)
         bet_label.grid(row=0, column=0)
-        # bet_entry_box = tk.Entry(self.root)
-        # bet_entry_box.grid(row=0, column=1)
+        bet_amount = tk.Entry(self.root, textvariable=self.bet_amount)
+        bet_amount.grid(row=0, column=1)
+
+    def _create_to_win_entry(self):  # Specific Helper window_4
+        """
+        creates the "to win" entry field in window 4
+        """
+        to_win_label = tk.Label(self.root, text="To Win: ", font=self.font)
+        to_win_label.grid(row=1, column=0)
+        to_win_amount = tk.Entry(self.root, textvariable=self.to_win_amount)
+        to_win_amount.grid(row=1, column=1)
+
+    def _create_calculate_to_win_button(self):  # Specific Helper window_4
+        """
+        creates the "calculate" button on window 4, which populates the to win field
+        with the appropriate amount given the bet amount
+        """
+        def calculate_to_win_cmd():
+            bet_amount = float(self.bet_amount.get())
+            to_win_amount = (self.multiplier * bet_amount) - bet_amount
+            to_win_amount = round(to_win_amount, 2)
+            self.to_win_amount.set(str(to_win_amount))
+
+        calculate_button = tk.Button(self.root, text="Calculate", command=calculate_to_win_cmd)
+        calculate_button.grid(row=2, column=1)
+
+    def _get_bet_to_win_amounts(self):  # Specific Helper window_4
+        """
+        grabbing 'bet' and 'to win' amounts after all the windows have been closed
+        """
+        bet_amount = self.bet_amount.get()
+        bet_amount = round(float(bet_amount), 2)
+        print("bet amount: ${}".format(bet_amount))
+
+        to_win_amount = self.to_win_amount.get()
+        to_win_amount = round(float(to_win_amount), 2)
+        print("to win: ${}".format(to_win_amount))
+        return bet_amount, to_win_amount
 
     def window_4(self, all_bets):  # Top Level
         self._create_window_4_vars()
         moneylines = [self._get_ml(bet_list) for bet_list in all_bets]
-        multiplier = self._calculate_multiplier(moneylines)
+        self.multiplier = self._calculate_multiplier(moneylines)
         self._create_bet_entry()
-        bet_amount = tk.Entry(self.root)
-        bet_amount.grid(row=0, column=1)
+        self._create_to_win_entry()
+        self._create_calculate_to_win_button()
+        self._create_done_button(2)
         self.root.mainloop()
-        print(bet_amount)
-        return bet_amount, None
+        bet_amount, to_win_amount = self._get_bet_to_win_amounts()
+        return bet_amount, to_win_amount
 
     def run(self):  # Run
         all_bets = []
@@ -266,11 +311,11 @@ class Tkinter_Bet:
             bet, parlay, game = self.window_3(espn_id, df)
             new_bet = [league, espn_id, bet, game]
             all_bets.append(new_bet)
-        bet_amount, to_win = self.window_4(all_bets)
-        return all_bets
+        bet_amount, to_win_amount = self.window_4(all_bets)
+        return all_bets, bet_amount, to_win_amount
 
 
 if __name__ == "__main__":
     x = Tkinter_Bet("Dillon Koch")
     self = x
-    all_bets = x.run()
+    all_bets, bet_amount, to_win_amount = x.run()
