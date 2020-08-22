@@ -4,7 +4,7 @@
 # File Created: Wednesday, 5th August 2020 11:41:28 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Wednesday, 5th August 2020 7:42:09 pm
+# Last Modified: Tuesday, 18th August 2020 9:08:51 am
 # Modified By: Dillon Koch
 # -----
 #
@@ -46,7 +46,7 @@ class ESB_Selenium:
             print(link)
             link = self.driver.find_element_by_link_text(link)
             link.click()
-            time.sleep(1)
+            time.sleep(3)
 
         html = self.driver.page_source
         sp = soup(html, 'html.parser')

@@ -4,7 +4,7 @@
 # File Created: Wednesday, 29th July 2020 8:11:56 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Saturday, 8th August 2020 11:19:32 am
+# Last Modified: Monday, 17th August 2020 8:47:56 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -318,4 +318,4 @@ class Tkinter_Bet:
 if __name__ == "__main__":
     x = Tkinter_Bet("Dillon Koch")
     self = x
-    all_bets, bet_amount, to_win_amount = x.run()
+    # all_bets, bet_amount, to_win_amount = x.run()

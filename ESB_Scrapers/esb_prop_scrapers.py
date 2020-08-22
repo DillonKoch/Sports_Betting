@@ -4,7 +4,7 @@
 # File Created: Wednesday, 17th June 2020 6:37:45 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Wednesday, 5th August 2020 6:32:58 am
+# Last Modified: Wednesday, 19th August 2020 10:26:06 am
 # Modified By: Dillon Koch
 # -----
 #
@@ -60,6 +60,7 @@ class ESB_Bool_Prop_Scraper:
     def _get_sp_description(self):  # Specific Helper make_new_df
         try:
             description = self.sp.find_all('div', attrs={'id': 'futureDescription'})[0].get_text()
+            description = description.replace('\n', ' ').replace('\t', ' ')
         except IndexError:
             print("No description found")
             description = None

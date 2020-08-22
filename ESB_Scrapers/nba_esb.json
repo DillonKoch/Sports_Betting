@@ -5,6 +5,7 @@
             "https://www.elitesportsbook.com/sports/nba-betting/futures-2020-nba-championship.sbk",
             "Prop",
             [
+                "IOWA",
                 "BET NOW",
                 "NBA",
                 "Futures",
@@ -16,6 +17,7 @@
             "https://www.elitesportsbook.com/sports/nba-betting/futures-2020-western-conference.sbk",
             "Prop",
             [
+                "IOWA",
                 "BET NOW",
                 "NBA",
                 "Futures",
@@ -27,6 +29,7 @@
             "https://www.elitesportsbook.com/sports/nba-betting/futures-2020-eastern-conference.sbk",
             "Prop",
             [
+                "IOWA",
                 "BET NOW",
                 "NBA",
                 "Futures",
@@ -38,10 +41,35 @@
             "https://www.elitesportsbook.com/sports/nba-betting/game-lines-full-game.sbk",
             "Games",
             [
+                "IOWA",
                 "BET NOW",
                 "NBA",
                 "Game Lines",
                 "Full Game"
+            ]
+        ],
+        [
+            "Playoff_Series_Exact_Result",
+            "https://www.elitesportsbook.com/sports/nba-betting/futures-playoff-series-exact-result.sbk",
+            "Multiple Futures",
+            [
+                "IOWA",
+                "BET NOW",
+                "NBA",
+                "Futures",
+                "Playoff Series Exact Result"
+            ]
+        ],
+        [
+            "Playoff_Series_Prices",
+            "https://www.elitesportsbook.com/sports/nba-betting/futures-playoff-series-prices.sbk",
+            "Prop",
+            [
+                "IOWA",
+                "BET NOW",
+                "NBA",
+                "Futures",
+                "Playoff Series Prices"
             ]
         ]
     ]

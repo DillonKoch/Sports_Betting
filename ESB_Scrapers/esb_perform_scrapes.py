@@ -4,7 +4,7 @@
 # File Created: Tuesday, 23rd June 2020 3:20:11 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Wednesday, 5th August 2020 7:43:24 pm
+# Last Modified: Wednesday, 19th August 2020 11:27:27 am
 # Modified By: Dillon Koch
 # -----
 #
@@ -17,14 +17,13 @@ import sys
 import time
 from os.path import abspath, dirname
 
-
 ROOT_PATH = dirname(dirname(abspath(__file__)))
 if ROOT_PATH not in sys.path:
     sys.path.append(ROOT_PATH)
 
 from ESB_Scrapers.esb_game_scraper import ESB_Game_Scraper
-from ESB_Scrapers.esb_prop_scrapers import (ESB_Bool_Prop_Scraper,
-                                            ESB_Prop_Scraper)
+from ESB_Scrapers.esb_multiple_futures_scraper import ESB_Multiple_Futures_Scraper
+from ESB_Scrapers.esb_prop_scrapers import (ESB_Bool_Prop_Scraper, ESB_Prop_Scraper)
 from ESB_Scrapers.esb_selenium import ESB_Selenium
 from Utility.Utility import get_sp1, parse_league
 
@@ -44,7 +43,8 @@ class ESB_Perform_Scrapes:
         scraper_dict = {
             "Games": ESB_Game_Scraper,
             "Prop": ESB_Prop_Scraper,
-            "Bool_Prop": ESB_Bool_Prop_Scraper
+            "Bool_Prop": ESB_Bool_Prop_Scraper,
+            "Multiple Futures": ESB_Multiple_Futures_Scraper
         }
         return scraper_dict
 
@@ -62,7 +62,8 @@ class ESB_Perform_Scrapes:
     def scrape_sp(self, link, links_to_click):  # Top Level
         try:
             sp = get_sp1(link)
-            if len(str(sp)) == 23393:
+            print(len(str(sp)))
+            if len(str(sp)) == 24115:
                 raise ValueError("ERROR: Elite Sportsbook redirected to a welcome page")
         except Exception as e:
             print(e)
