@@ -4,7 +4,7 @@
 # File Created: Tuesday, 23rd June 2020 3:20:11 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Wednesday, 19th August 2020 11:27:27 am
+# Last Modified: Sunday, 23rd August 2020 11:57:41 am
 # Modified By: Dillon Koch
 # -----
 #
@@ -13,19 +13,23 @@
 # ==============================================================================
 
 import json
+import pandas as pd
 import sys
 import time
+import os
 from os.path import abspath, dirname
 
 ROOT_PATH = dirname(dirname(abspath(__file__)))
 if ROOT_PATH not in sys.path:
     sys.path.append(ROOT_PATH)
 
-from ESB_Scrapers.esb_game_scraper import ESB_Game_Scraper
-from ESB_Scrapers.esb_multiple_futures_scraper import ESB_Multiple_Futures_Scraper
-from ESB_Scrapers.esb_prop_scrapers import (ESB_Bool_Prop_Scraper, ESB_Prop_Scraper)
-from ESB_Scrapers.esb_selenium import ESB_Selenium
-from Utility.Utility import get_sp1, parse_league
+from ESB.esb_game_scraper import ESB_Game_Scraper
+from ESB.esb_multiple_futures_scraper import ESB_Multiple_Futures_Scraper
+from ESB.esb_bool_prop_scraper import ESB_Bool_Prop_Scraper
+from ESB.esb_prop_scraper import ESB_Prop_Scraper
+from Utility.selenium_scraper import Selenium_Scraper
+from Utility.Utility import get_sp1, listdir_fullpath, parse_league
+from Utility.sqlite_util import Sqlite_util
 
 
 class ESB_Perform_Scrapes:
@@ -55,7 +59,7 @@ class ESB_Perform_Scrapes:
         print("-" * 25 + "{} updated".format(bet_name) + "-" * 25)
 
     def _selenium_get_sp(self, links_to_click):  # Specific Helper scrape_sp
-        s = ESB_Selenium(links_to_click)
+        s = Selenium_Scraper("https://www.elitesportsbook.com/sports/home.sbk", links_to_click)
         sp = s.run()
         return sp
 
@@ -71,6 +75,16 @@ class ESB_Perform_Scrapes:
             sp = self._selenium_get_sp(links_to_click)
         return sp
 
+    def add_to_database(self):  # Top Level
+        s = Sqlite_util()
+        bet_files = listdir_fullpath(ROOT_PATH + "/ESB/Data/{}/".format(self.league))
+        for bet_file in bet_files:
+            df = pd.read_csv(bet_file)
+
+            table_name = bet_file.split("/")[-1]
+            table_name = self.league + "_" + table_name if table_name[:len(self.league)] != self.league else table_name
+            s.insert_df(df, table_name)
+
     def run(self):  # Run
         for bet in self.config["Bets"]:
             bet_name, link, bet_type, links_to_click = bet
@@ -83,6 +97,7 @@ class ESB_Perform_Scrapes:
                 print(f"ERROR UPDATING BET {bet_name}! ({e})")
                 print("-" * 30)
             time.sleep(5)
+        self.add_to_database()
 
 
 if __name__ == "__main__":

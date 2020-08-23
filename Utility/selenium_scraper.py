@@ -1,39 +1,41 @@
 # ==============================================================================
-# File: ESB_Seleniumer.py
-# Project: ESB_Scrapers
+# File: selenium_scraper.py
+# Project: Utility
 # File Created: Wednesday, 5th August 2020 11:41:28 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Tuesday, 18th August 2020 9:08:51 am
+# Last Modified: Sunday, 23rd August 2020 11:00:32 am
 # Modified By: Dillon Koch
 # -----
 #
 # -----
-# Using selenium to avoid the initial page you have to click through
+# Using selenium to click through a path of links to a certain webpage
 # ==============================================================================
 
 
-from os.path import abspath, dirname
 import sys
 import time
+from os.path import abspath, dirname
+
 from bs4 import BeautifulSoup as soup
+from selenium import webdriver
 
 ROOT_PATH = dirname(dirname(abspath(__file__)))
 if ROOT_PATH not in sys.path:
     sys.path.append(ROOT_PATH)
 
-from selenium import webdriver
 
-
-class ESB_Selenium:
-    def __init__(self, links_to_click):
-        self.start_link = "https://www.elitesportsbook.com/sports/home.sbk"
+class Selenium_Scraper:
+    def __init__(self, start_link, links_to_click):
+        # self.start_link = "https://www.elitesportsbook.com/sports/home.sbk"
+        self.start_link = start_link
         self.links_to_click = links_to_click
         self.driver = webdriver.Firefox(executable_path=r'/home/allison/Documents/geckodriver')
 
     def run(self):  # Run
         """
-        starts at the ESB homepage, then clicks through the path given and returns html
+        starts at the start_link, then clicks through the path given and returns
+        the sp of the final destination
         """
         self.driver.get(self.start_link)
         # wait for the redirect to happen
@@ -55,6 +57,6 @@ class ESB_Selenium:
 
 
 if __name__ == "__main__":
-    links_to_click = ['BET NOW', 'NBA', "Game Lines", "Full Game"]
-    x = ESB_Selenium(links_to_click)
+    links_to_click = ["IOWA", 'BET NOW', 'NBA', "Game Lines", "Full Game"]
+    x = Selenium_Scraper("https://www.elitesportsbook.com/sports/home.sbk", links_to_click)
     sp = x.run()

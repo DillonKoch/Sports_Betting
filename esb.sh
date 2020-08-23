@@ -2,7 +2,7 @@
 
 conda activate bet
 
-cd ESB_Scrapers
+cd ESB
 python esb_perform_scrapes.py --league=NFL
 python esb_perform_scrapes.py --league=NBA
 python esb_perform_scrapes.py --league=NCAAF
