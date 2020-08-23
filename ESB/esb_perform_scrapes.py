@@ -4,7 +4,7 @@
 # File Created: Tuesday, 23rd June 2020 3:20:11 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Sunday, 23rd August 2020 11:57:41 am
+# Last Modified: Sunday, 23rd August 2020 1:39:22 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -81,7 +81,7 @@ class ESB_Perform_Scrapes:
         for bet_file in bet_files:
             df = pd.read_csv(bet_file)
 
-            table_name = bet_file.split("/")[-1]
+            table_name = bet_file.split("/")[-1].replace('.csv', '')
             table_name = self.league + "_" + table_name if table_name[:len(self.league)] != self.league else table_name
             s.insert_df(df, table_name)
 
