@@ -4,7 +4,7 @@
 # File Created: Saturday, 23rd May 2020 11:04:56 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Sunday, 2nd August 2020 1:58:51 pm
+# Last Modified: Saturday, 29th August 2020 4:34:20 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -25,7 +25,7 @@ ROOT_PATH = dirname(dirname(abspath(__file__)))
 if ROOT_PATH not in sys.path:
     sys.path.append(ROOT_PATH)
 
-from ESPN_Scrapers.espn_game_scraper import ESPN_Game_Scraper
+from ESPN.espn_game_scraper import ESPN_Game_Scraper
 from Utility.Utility import get_sp1
 
 
@@ -38,12 +38,12 @@ class ESPN_Season_Scraper:
     def __init__(self, league):
         self.league = league
         self.egs = ESPN_Game_Scraper(self.league)
-        self.data_path = ROOT_PATH + '/ESPN_Data/{}'.format(self.league)
+        self.data_path = ROOT_PATH + '/ESPN/Data/{}'.format(self.league)
         self.q_amount = 2 if self.league == "NCAAB" else 4
 
     @property
     def config(self):  # Property  Tested
-        with open(ROOT_PATH + "/ESPN_Scrapers/{}.json".format(self.league.lower())) as f:
+        with open(ROOT_PATH + "/ESPN/{}.json".format(self.league.lower())) as f:
             data = json.load(f)
         return data
 
@@ -126,7 +126,7 @@ class ESPN_Season_Scraper:
         """
         finds the years an nba team's playoff data hasn't been scraped yet
         """
-        team_csvs = os.listdir(ROOT_PATH + "/ESPN_Data/NBA/{}/".format(team))
+        team_csvs = os.listdir(ROOT_PATH + "/ESPN/Data/NBA/{}/".format(team))
         playoff_csvs = [item for item in team_csvs if '.csv' in item and "playoff" in item]
         playoff_csv_years = [item[-8:-4] for item in playoff_csvs]
         all_years = [str(item) for item in list(range(1993, 2021, 1))]
@@ -149,7 +149,7 @@ class ESPN_Season_Scraper:
                     print("Scraping {} {} playoffs data...".format(team, year))
                     df = self.scrape_season(abrev, year, 3)
                     year1, year2 = self._get_years(year)
-                    df.to_csv(ROOT_PATH + "/ESPN_Data/NBA/{}/{}_playoffs_{}-{}.csv".format(team, team, year1, year2))
+                    df.to_csv(ROOT_PATH + "/ESPN/Data/NBA/{}/{}_playoffs_{}-{}.csv".format(team, team, year1, year2))
                 except Exception as e:
                     print(e)
                     print("Error scraping {} {} playoffs data, moving on...".format(team, year))
@@ -159,7 +159,7 @@ class ESPN_Season_Scraper:
         """
         finds years a team's season data hasn't been scraped yet
         """
-        path = ROOT_PATH + "/ESPN_Data/{}/{}/".format(self.league, team_name)
+        path = ROOT_PATH + "/ESPN/Data/{}/{}/".format(self.league, team_name)
         beginning_year = 2006
         all_years = [str(item) for item in list(range(beginning_year, 2021, 1))]
         years_found = []
@@ -195,7 +195,7 @@ class ESPN_Season_Scraper:
             print("Scraping data for {} {}".format(name, year))
             df = self.scrape_season(team_abbrev, year)
             year1, year2 = self._get_years(year)
-            path = ROOT_PATH + "/ESPN_Data/{}/{}/{}_{}-{}.csv".format(self.league, name, name, year1, year2)
+            path = ROOT_PATH + "/ESPN/Data/{}/{}/{}_{}-{}.csv".format(self.league, name, name, year1, year2)
             df.to_csv(path, index=False)
 
     def scrape_all_leauge_history(self):  # Run

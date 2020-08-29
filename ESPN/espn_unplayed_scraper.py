@@ -4,7 +4,7 @@
 # File Created: Monday, 29th June 2020 3:17:15 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Friday, 3rd July 2020 10:06:31 pm
+# Last Modified: Saturday, 29th August 2020 4:34:41 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -26,7 +26,7 @@ ROOT_PATH = dirname(dirname(abspath(__file__)))
 if ROOT_PATH not in sys.path:
     sys.path.append(ROOT_PATH)
 
-from ESPN_Scrapers.espn_season_scraper import ESPN_Season_Scraper
+from ESPN.espn_season_scraper import ESPN_Season_Scraper
 from Utility.Utility import sort_df_by_dt
 
 
@@ -79,7 +79,7 @@ class ESPN_Unplayed_Scraper(ESPN_Season_Scraper):
             except BaseException:
                 team_name, abbrev, conf = team  # ncaa jsons have conferences too
                 print(team_name, abbrev, conf)
-            current_df_path = ROOT_PATH + "/ESPN_Data/{}/{}.csv".format(self.league, team_name.replace(' ', '_'))
+            current_df_path = ROOT_PATH + "/ESPN/Data/{}/{}.csv".format(self.league, team_name.replace(' ', '_'))
             current_df = pd.read_csv(current_df_path)
             current_df = current_df.loc[current_df.ESPN_ID.notnull(), :]
             current_espn_ids = [str(int(item)) for item in list(current_df.ESPN_ID)]

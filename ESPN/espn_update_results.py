@@ -4,7 +4,7 @@
 # File Created: Tuesday, 30th June 2020 11:58:42 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Saturday, 1st August 2020 4:18:53 pm
+# Last Modified: Saturday, 29th August 2020 4:35:03 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -27,8 +27,8 @@ ROOT_PATH = dirname(dirname(abspath(__file__)))
 if ROOT_PATH not in sys.path:
     sys.path.append(ROOT_PATH)
 
-from ESPN_Scrapers.espn_game_scraper import ESPN_Game_Scraper
-from ESPN_Scrapers.team_stats_scraper import Team_Stats
+from ESPN.espn_game_scraper import ESPN_Game_Scraper
+from ESPN.team_stats_scraper import Team_Stats
 from Utility.Utility import parse_league, sort_df_by_dt, listdir_fullpath
 
 
@@ -78,7 +78,7 @@ class ESPN_Update_Results:
         """
         loads all team dfs in a leauge's ESPN_Data folder
         """
-        df_paths = listdir_fullpath(ROOT_PATH + "/ESPN_Data/{}/".format(self.league))
+        df_paths = listdir_fullpath(ROOT_PATH + "/ESPN/Data/{}/".format(self.league))
         dfs = [pd.read_csv(df_path) for df_path in df_paths]
         for df in dfs:
             df['datetime'] = pd.to_datetime(df['datetime']).apply(lambda x: x.date())

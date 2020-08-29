@@ -4,7 +4,7 @@
 # File Created: Tuesday, 7th April 2020 7:34:33 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Wednesday, 1st July 2020 11:55:13 am
+# Last Modified: Saturday, 29th August 2020 4:30:39 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -23,7 +23,7 @@ if ROOT_PATH not in sys.path:
     sys.path.append(ROOT_PATH)
 
 from Utility.Utility import get_sp1, null_if_error
-from ESPN_Scrapers.espn_game import Game
+from ESPN.espn_game import Game
 
 
 class ESPN_Game_Scraper:
