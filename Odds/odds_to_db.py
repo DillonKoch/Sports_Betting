@@ -4,7 +4,7 @@
 # File Created: Sunday, 23rd August 2020 2:25:37 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Saturday, 29th August 2020 4:06:06 pm
+# Last Modified: Saturday, 29th August 2020 4:12:19 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -388,6 +388,6 @@ class Odds_to_db:
 
 
 if __name__ == "__main__":
-    x = Odds_to_db("NCAAF")
+    x = Odds_to_db("NFL")
     self = x
-    # odds_df, new_df = x.run()
+    odds_df, new_df = x.run()
