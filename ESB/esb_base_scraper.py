@@ -7,7 +7,6 @@
 # Last Modified: Sunday, 23rd August 2020 11:27:55 am
 # Modified By: Dillon Koch
 # -----
-# Collins Aerospace
 #
 # -----
 # Base class for all esb scrapers to inherit from

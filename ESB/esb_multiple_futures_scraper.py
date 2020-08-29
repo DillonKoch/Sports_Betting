@@ -4,7 +4,7 @@
 # File Created: Wednesday, 19th August 2020 10:11:48 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Sunday, 23rd August 2020 11:30:52 am
+# Last Modified: Monday, 24th August 2020 7:52:58 am
 # Modified By: Dillon Koch
 # -----
 #
@@ -96,6 +96,7 @@ class ESB_Multiple_Futures_Scraper(ESB_Base_Scraper):
                 bet_options = self._get_section_bet_options(section)
                 bet_odds = self._get_section_bet_odds(section)
                 assert len(bet_odds) == len(bet_options)
+                print("successfully found section!")
             except Exception as e:
                 print("Error with section ({})".format(e))
                 continue
@@ -132,14 +133,17 @@ class ESB_Multiple_Futures_Scraper(ESB_Base_Scraper):
 
 
 if __name__ == "__main__":
-    # links_to_click = [
-    #     "IOWA",
-    #     "BET NOW",
-    #     "NBA",
-    #     "Futures",
-    #     "Playoff Series Exact Result"]
-    # s = ESB_Selenium(links_to_click)
-    # sp = s.run()
+    from Utility.selenium_scraper import Selenium_Scraper
+
+    links_to_click = [
+        "IOWA",
+        "BET NOW",
+        "NBA",
+        "Futures",
+        "Playoff Series Exact Result"]
+    start_site = "https://www.elitesportsbook.com/sports/home.sbk"
+    s = Selenium_Scraper(start_site, links_to_click)
+    sp = s.run()
     x = ESB_Multiple_Futures_Scraper("NBA", "Playoff_Series_Exact_Result", sp)
     self = x
     x.update_df()
