@@ -4,7 +4,7 @@
 # File Created: Saturday, 29th August 2020 5:17:52 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Sunday, 30th August 2020 8:36:38 pm
+# Last Modified: Tuesday, 1st September 2020 4:34:14 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -20,8 +20,10 @@ import sys
 import time
 from os.path import abspath, dirname
 
+import pandas as pd
 from bs4 import BeautifulSoup as soup
 from selenium import webdriver
+import datetime
 
 
 ROOT_PATH = dirname(dirname(abspath(__file__)))
@@ -32,6 +34,57 @@ from Utility.selenium_scraper import Selenium_Scraper
 # from WH.wh_base_scraper import WH_Base_Scraper
 
 
+class WH_Game:
+    """
+    class for representing a single game from William Hill Sportsbook
+    """
+
+    def __init__(self):
+        self.title = None
+        self.datetime = None
+        self.game_time = None
+        self.home_team = None
+        self.away_team = None
+        self.over = None
+        self.over_ml = None
+        self.under = None
+        self.under_ml = None
+        self.home_line = None
+        self.home_line_ml = None
+        self.away_line = None
+        self.away_line_ml = None
+        self.home_ml = None
+        self.away_ml = None
+        self.scraped_ts = datetime.datetime.now().strftime("%Y-%m-%d %H:%M")
+
+    def create_datetime(self):  # Run
+        """
+        Uses the web-scraped game_time string to create a datetime object
+        - WH gives something like "Sep 1 | 4:30pm"
+        - if the game month is less than the current month, I add 1 to the year
+          this ensures the correct year if I run scraping Dec 31 for a game Jan 1
+        """
+        if self.game_time is None:
+            raise ValueError("self.game_time is not populated!")
+
+        dt = datetime.datetime.strptime(self.game_time, "%b %d | %I:%M%p")
+        today = datetime.date.today()
+        year = today.year
+        if dt.month < today.month:
+            year += 1
+            print("changing year for this game to {}-------".format(year))
+        dt = dt.replace(year=year)
+        print(dt)
+        self.datetime = dt
+
+    def to_row(self):  # Run
+        row = [self.title, self.datetime, self.game_time, self.home_team, self.away_team,
+               self.over, self.over_ml, self.under, self.under_ml,
+               self.home_line, self.home_line_ml, self.away_line, self.away_line_ml,
+               self.home_ml, self.away_ml, self.scraped_ts]
+        return row
+
+
 class WH_Game_Scraper:
     def __init__(self, league, bet_name):
         self.league = league
@@ -39,6 +92,16 @@ class WH_Game_Scraper:
         sport = "football" if self.league in ["NFL", "NCAAF"] else "basketball"
         self.today_link = "https://www.williamhill.com/us/nj/bet/{}/events/today".format(sport)
         self.all_link = "https://www.williamhill.com/us/nj/bet/{}/events/all".format(sport)
+        self.more_bets_links = []
+
+    def _get_scrape_ts(self):  # Global Helper
+        return datetime.datetime.now().strftime("%Y-%m-%d %H:%M")
+
+    def create_games_df(self):  # Top Level
+        cols = ["Title", "datetime", "Game_Time", "Home", "Away", "Over_WH", "Over_ml_WH",
+                "Under_WH", "Under_ml_WH", "Home_Line_WH", "Home_Line_ml_WH",
+                "Away_Line_WH", "Away_Line_ml_WH", "Home_ML_WH", "Away_ML_WH", "scraped_ts"]
+        return pd.DataFrame(columns=cols)
 
     def get_all_leagues_sp(self, link):  # Top Level
         """
@@ -76,36 +139,58 @@ class WH_Game_Scraper:
 
         raise ValueError(f"Could not find a section for league: {self.league}!")
 
-    def find_games_sections(self, league_section):  # Top Level
-        pass
-
-    def get_event_info(self, event):  # Specific Helper update_df
+    def get_event_game_time(self, game, event):  # Specific Helper update_df
+        """
+        finds the game date and time from an event (game)
+        """
         date = event.find_all('div', attrs={'class': 'dateContainer'})
         game_time = date[0].get_text()
         print(f"game time: {game_time}")
+        game.game_time = game_time
+        return game
 
+    def get_event_teams(self, game, event):  # Specific Helper update_df
+        """
+        finds the teams playing in an event
+        """
         teams = event.find_all('span', attrs={'class': 'truncate2Rows'})
         teams = [item.get_text() for item in teams]
         away_name, home_name = teams
         print(f"Home: {home_name}")
         print(f"Away: {away_name}")
+        game.home_team = home_name
+        game.away_team = away_name
+        return game
 
+    def get_event_lines(self, game, event):  # Specific Helper update_df
+        """
+        finds the lines (found in col 2) for an event
+        """
         col2_header = event.find_all('div', attrs={'class': 'header selectionHeader truncate3Rows col2'})
         print(col2_header[0].get_text())
 
-        spread_ml_comp = re.compile(r"^((\+|\-)\d+.\d+)((\+|\-)\d+)$")
-        spreads = event.find_all('div', attrs={'class': 'selectionContainer col2'})
-        spreads = [item.get_text().strip() for item in spreads]
+        line_ml_comp = re.compile(r"^(((\+|\-)\d+.\d+)|(PICK))((\+|\-)\d+)$")
+        lines = event.find_all('div', attrs={'class': 'selectionContainer col2'})
+        lines = [item.get_text().strip() for item in lines]
 
-        away_spread = re.search(spread_ml_comp, spreads[0]).group(1)
-        away_spread_ml = re.search(spread_ml_comp, spreads[0]).group(3)
+        away_line = re.search(line_ml_comp, lines[0]).group(1)
+        away_line_ml = re.search(line_ml_comp, lines[0]).group(5)
 
-        home_spread = re.search(spread_ml_comp, spreads[1]).group(1)
-        home_spread_ml = re.search(spread_ml_comp, spreads[1]).group(3)
+        home_line = re.search(line_ml_comp, lines[1]).group(1)
+        home_line_ml = re.search(line_ml_comp, lines[1]).group(5)
 
-        print(f"home spread: {home_spread} ({home_spread_ml})")
-        print(f"away spread: {away_spread} ({away_spread_ml})")
+        print(f"home line: {home_line} ({home_line_ml})")
+        print(f"away line: {away_line} ({away_line_ml})")
+        game.home_line = home_line
+        game.home_line_ml = home_line_ml
+        game.away_line = away_line
+        game.away_line_ml = away_line_ml
+        return game
 
+    def get_event_moneylines(self, game, event):  # Specific Helper get_event_moneylines
+        """
+        finds the moneylines (found in col 3) for an event
+        """
         col3_header = event.find_all('div', attrs={'class': 'header selectionHeader truncate3Rows col3'})
         print(col3_header[0].get_text())
 
@@ -114,7 +199,14 @@ class WH_Game_Scraper:
 
         print(f"home moneyline: {home_ml}")
         print(f"away moneyline: {away_ml}")
+        game.home_ml = home_ml
+        game.away_ml = away_ml
+        return game
 
+    def get_event_totals(self, game, event):  # Specific Helper update_df
+        """
+        finds the totals (over unders, in col 4) for an event
+        """
         col4_header = event.find_all('div', attrs={'class': 'header selectionHeader truncate3Rows col4'})
         print(col4_header[0].get_text())
 
@@ -132,35 +224,62 @@ class WH_Game_Scraper:
 
         print(f"Over ({over_label}): {over_amount} ({over_total_ml})")
         print(f"Under ({under_label}): {under_amount} ({under_total_ml})")
+        game.over = over_amount
+        game.over_ml = over_total_ml
+        game.under = under_amount
+        game.under_ml = under_total_ml
+        return game
 
+    def get_event_more_bets_link(self, event):  # Specific Helper update_df
+        """
+        finds the "more bets" link of an event to scrape prop bets
+        """
+        base_link = "https://www.williamhillsportsbook.com"
         more_bets_link = event.find_all('div', attrs={'class': 'footer'})
         more_bets_link = more_bets_link[0].find_all(href=True)
         more_bets_link = more_bets_link[0]['href']
+        more_bets_link = base_link + more_bets_link
         print(more_bets_link)
+        return more_bets_link
 
-    def update_df(self):  # Run
-        today_sp = self.get_all_leagues_sp(self.today_link)
-        league_section = self.find_league_section(today_sp)
+    def new_partial_df(self, today=True):  # Top Level
+        new_df = self.create_games_df()
+        link = self.today_link if today else self.all_link
+        sp = self.get_all_leagues_sp(link)
+        league_section = self.find_league_section(sp)
         events = league_section.find_all('div', attrs={'class': 'eventContainer'})
         for event in events:
-            info = self.get_event_info(event)
+            game = WH_Game()
+            game.title = self.league
+            print('-' * 100)
+            game = self.get_event_game_time(game, event)
+            game.create_datetime()
+            game = self.get_event_teams(game, event)
+            game = self.get_event_lines(game, event)
+            game = self.get_event_moneylines(game, event)
+            game = self.get_event_totals(game, event)
+            new_df.loc[len(new_df)] = game.to_row()
 
-        # games_sections = self.find_games_sections(league_section)
-        # all_sp = self.get_all_leagues_sp(self.all_link)
+            more_bets_link = self.get_event_more_bets_link(event)
+            self.more_bets_links += more_bets_link
+        return new_df
+
+    def create_new_df(self):  # Run
+        today_df = self.new_partial_df(today=True)
+        all_df = self.new_partial_df(today=False)
+        full_df = pd.concat([today_df, all_df])
+        full_df.drop_duplicates(subset=['datetime', 'Home', 'Away'])
+        return full_df
+
+    def combine_dfs(self):  # Top Level
+        pass
+
+    def update_df(self):  # Run
+        pass
+
+
 if __name__ == "__main__":
-    # link = "https://www.williamhill.com/us/nj/bet/football/events/all"
-    # s = Selenium_Scraper(link, ["Hockey"])
-    # sp = s.run()
-    sp = None
     x = WH_Game_Scraper("NBA", "Game_Lines")
     self = x
-    # sp = x.get_all_leagues_sp()
-
-    # my_select = Select(driver.find_element_by_tag_name('svg'))
-    # # for item in my_select.options:
-    # #     print(item.text)
-
-    # new_link = driver.find_element_by_css("NFL")
-    # mySelect = Select(driver.find_element_by_id(""))
-    # # mySelect = Select(driver.find_element_by_id("mySelectID"))
-    # mySelect.select_by_visible_text("NFL")
+    # self.update_df()
+    new_df = self.create_new_df()
