@@ -2,7 +2,7 @@
 
 conda activate bet
 
-cd ESPN_Scrapers
+cd ESPN
 
 # ---------------------------------------------------
 # update game results for each league
@@ -29,9 +29,9 @@ python team_stats_scraper.py --league=NBA --cmd=update
 # ---------------------------------------------------
 # # Updating prod tables...
 # ---------------------------------------------------
-cd ../PROD
-python prod_table.py --league=NBA
-cd ..
+# cd ../PROD
+# python prod_table.py --league=NBA
+# cd ..
 
 # ---------------------------------------------------
 # Updating ML tables...

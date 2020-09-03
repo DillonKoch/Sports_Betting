@@ -4,7 +4,7 @@
 # File Created: Saturday, 29th August 2020 5:17:52 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Tuesday, 1st September 2020 4:34:14 pm
+# Last Modified: Wednesday, 2nd September 2020 4:34:17 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -30,6 +30,7 @@ ROOT_PATH = dirname(dirname(abspath(__file__)))
 if ROOT_PATH not in sys.path:
     sys.path.append(ROOT_PATH)
 
+from WH.wh_base_scraper import WH_Base_Scraper
 from Utility.selenium_scraper import Selenium_Scraper
 # from WH.wh_base_scraper import WH_Base_Scraper
 
@@ -85,17 +86,16 @@ class WH_Game:
         return row
 
 
-class WH_Game_Scraper:
+class WH_Game_Scraper(WH_Base_Scraper):
     def __init__(self, league, bet_name):
         self.league = league
         self.bet_name = bet_name
+
         sport = "football" if self.league in ["NFL", "NCAAF"] else "basketball"
         self.today_link = "https://www.williamhill.com/us/nj/bet/{}/events/today".format(sport)
         self.all_link = "https://www.williamhill.com/us/nj/bet/{}/events/all".format(sport)
-        self.more_bets_links = []
 
-    def _get_scrape_ts(self):  # Global Helper
-        return datetime.datetime.now().strftime("%Y-%m-%d %H:%M")
+        self.more_bets_links = []
 
     def create_games_df(self):  # Top Level
         cols = ["Title", "datetime", "Game_Time", "Home", "Away", "Over_WH", "Over_ml_WH",
@@ -116,7 +116,10 @@ class WH_Game_Scraper:
         try:
             while True:
                 driver.find_element_by_xpath("//div[@class='expanderHeader collapsed']").click()
-                time.sleep(1)
+                time.sleep(3)
+                for i in range(15):
+                    driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+                    time.sleep(1)
         except BaseException:
             print("No more leagues to expand")
 
@@ -195,7 +198,12 @@ class WH_Game_Scraper:
         print(col3_header[0].get_text())
 
         moneylines = event.find_all('div', attrs={'class': 'selectionContainer col3'})
-        away_ml, home_ml = [item.get_text().strip() for item in moneylines]
+        if len(moneylines) == 0:
+            print("No Moneylins found!")
+            home_ml = "NL"
+            away_ml = "NL"
+        else:
+            away_ml, home_ml = [item.get_text().strip() for item in moneylines]
 
         print(f"home moneyline: {home_ml}")
         print(f"away moneyline: {away_ml}")
@@ -212,18 +220,22 @@ class WH_Game_Scraper:
 
         totals = event.find_all('div', attrs={'class': 'selectionContainer col4'})
         totals = [item.get_text() for item in totals]
+        if totals == ['', '']:
+            over_amount, over_total_ml, under_amount, under_total_ml = ["NL"] * 4
+        else:
+            total_comp = re.compile(r"^(Over|Under)  (\d+.\d+)((\-|\+)\d+)$")
+            over_label = re.search(total_comp, totals[0]).group(1)
+            assert over_label == "Over"
+            over_amount = re.search(total_comp, totals[0]).group(2)
+            over_total_ml = re.search(total_comp, totals[0]).group(3)
 
-        total_comp = re.compile(r"^(Over|Under)  (\d+.\d+)((\-|\+)\d+)$")
-        over_label = re.search(total_comp, totals[0]).group(1)
-        over_amount = re.search(total_comp, totals[0]).group(2)
-        over_total_ml = re.search(total_comp, totals[0]).group(3)
+            under_label = re.search(total_comp, totals[1]).group(1)
+            assert under_label == "Under"
+            under_amount = re.search(total_comp, totals[1]).group(2)
+            under_total_ml = re.search(total_comp, totals[1]).group(3)
 
-        under_label = re.search(total_comp, totals[1]).group(1)
-        under_amount = re.search(total_comp, totals[1]).group(2)
-        under_total_ml = re.search(total_comp, totals[1]).group(3)
-
-        print(f"Over ({over_label}): {over_amount} ({over_total_ml})")
-        print(f"Under ({under_label}): {under_amount} ({under_total_ml})")
+        print(f"Over: {over_amount} ({over_total_ml})")
+        print(f"Under: {under_amount} ({under_total_ml})")
         game.over = over_amount
         game.over_ml = over_total_ml
         game.under = under_amount
@@ -242,7 +254,15 @@ class WH_Game_Scraper:
         print(more_bets_link)
         return more_bets_link
 
+    def _scrape_game_props(self, more_bets_link):  # Specific Helper new_partial_df
+        # goal is to pull in a different scraper to update data with props here
+        print('will scrape props here...')
+
     def new_partial_df(self, today=True):  # Top Level
+        """
+        Creates a new df from scratch with bets from all games in
+        either the "today" or "all" section
+        """
         new_df = self.create_games_df()
         link = self.today_link if today else self.all_link
         sp = self.get_all_leagues_sp(link)
@@ -253,6 +273,9 @@ class WH_Game_Scraper:
             game.title = self.league
             print('-' * 100)
             game = self.get_event_game_time(game, event)
+            if "live" in game.game_time.lower():  # skipping live odds (for now)
+                print('skipping live game...')
+                continue
             game.create_datetime()
             game = self.get_event_teams(game, event)
             game = self.get_event_lines(game, event)
@@ -261,25 +284,44 @@ class WH_Game_Scraper:
             new_df.loc[len(new_df)] = game.to_row()
 
             more_bets_link = self.get_event_more_bets_link(event)
-            self.more_bets_links += more_bets_link
+            self._scrape_game_props(more_bets_link)
         return new_df
 
     def create_new_df(self):  # Run
+        """
+        creates df's with games shown in the "today" and "all" sections,
+        combines them and drops duplicates
+        - returns df of all games shown on the site right now
+        """
         today_df = self.new_partial_df(today=True)
         all_df = self.new_partial_df(today=False)
         full_df = pd.concat([today_df, all_df])
-        full_df.drop_duplicates(subset=['datetime', 'Home', 'Away'])
+        full_df.drop_duplicates(subset=['datetime', 'Home', 'Away'], inplace=True)
         return full_df
 
-    def combine_dfs(self):  # Top Level
-        pass
-
     def update_df(self):  # Run
-        pass
+        csv_path = ROOT_PATH + f"/WH/Data/{self.league}/Game_Lines.csv"
+        new_df = self.create_new_df()
+        try:
+            current_df = pd.read_csv(csv_path)
+        except FileNotFoundError:
+            new_df.to_csv(csv_path, index=False)
+            print(f"Created a new file for {self.league} game lines!")
+            return new_df
+
+        drop_cols = ['datetime', 'Home', 'Away']
+        strings_cols = ["Title", "datetime", "Game_Time", "Home", "Away", "Over_WH", "Over_ml_WH",
+                        "Under_WH", "Under_ml_WH", "Home_Line_WH", "Home_Line_ml_WH", "Away_Line_WH",
+                        "Away_Line_ml_WH", "Home_ML_WH", "Away_ML_WH"]
+        print_indices = [0, 1, 2, 3, 4]
+        combined_df = self.combine_dfs(current_df, new_df, drop_cols, strings_cols, print_indices)
+        combined_df.to_csv(csv_path, index=False)
+        print("Saved updated data!")
+        return combined_df
 
 
 if __name__ == "__main__":
-    x = WH_Game_Scraper("NBA", "Game_Lines")
+    x = WH_Game_Scraper("NCAAF", "Game_Lines")
     self = x
-    # self.update_df()
-    new_df = self.create_new_df()
+    # df = x.new_partial_df(today=False)
+    df = x.update_df()

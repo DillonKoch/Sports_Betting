@@ -4,7 +4,7 @@
 # File Created: Monday, 27th July 2020 3:10:36 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Tuesday, 28th July 2020 4:57:35 pm
+# Last Modified: Thursday, 3rd September 2020 8:11:54 am
 # Modified By: Dillon Koch
 # -----
 #
@@ -26,6 +26,6 @@ pictures = [pic for pic in pictures if pic != "Wallpapers"]
 
 for pic in pictures:
     current_path = "/home/allison/Pictures/" + pic
-    new_path = ROOT_PATH + "/FBL_OCR/Image_Data/" + pic
+    new_path = ROOT_PATH + "/FBL_OCR/images/" + pic
     os.rename(current_path, new_path)
     print(f"Moved {pic} to {new_path}")

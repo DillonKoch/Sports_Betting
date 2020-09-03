@@ -9,6 +9,7 @@ __pycache__/
 # Distribution / packaging
 .Python
 Image_Data/
+FBL_OCR/
 wandb/
 build/
 develop-eggs/

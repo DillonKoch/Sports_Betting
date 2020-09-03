@@ -4,7 +4,7 @@
 # File Created: Tuesday, 16th June 2020 1:42:34 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Thursday, 30th July 2020 2:28:59 pm
+# Last Modified: Thursday, 3rd September 2020 8:29:28 am
 # Modified By: Dillon Koch
 # -----
 #
@@ -285,13 +285,13 @@ class ESPN_Stat_Scraper:
         updates an entire league's dfs with team stats from scratch
         - this is used in the team folder structure before merging each team's data into one team csv
         """
-        teams = os.listdir(ROOT_PATH + "/ESPN_Data/{}/".format(self.league))
+        teams = os.listdir(ROOT_PATH + "/ESPN/Data/{}/".format(self.league))
         for team in teams:
 
-            df_paths = os.listdir(ROOT_PATH + "/ESPN_Data/{}/{}/".format(self.league, team))
+            df_paths = os.listdir(ROOT_PATH + "/ESPN/Data/{}/{}/".format(self.league, team))
             df_paths = [path for path in df_paths if ((".csv" in path) and (int(path[-8:-4]) > 2007))]
             for path in df_paths:
-                full_path = ROOT_PATH + "/ESPN_Data/{}/{}/".format(self.league, team) + path
+                full_path = ROOT_PATH + "/ESPN/Data/{}/{}/".format(self.league, team) + path
                 print(full_path)
                 df = pd.read_csv(full_path)
 
@@ -310,7 +310,7 @@ class ESPN_Stat_Scraper:
         - This can be used to scrape missed team stats far in the past or right after a game finishes
         """
         all_cols = Team_Stats().all_cols(self.football_league)
-        df_paths = listdir_fullpath(ROOT_PATH + "/ESPN_Data/{}/".format(self.league))
+        df_paths = listdir_fullpath(ROOT_PATH + "/ESPN/Data/{}/".format(self.league))
         null_col = "home_passing_yards" if self.football_league else "home_field_goals"
 
         for path in df_paths:
