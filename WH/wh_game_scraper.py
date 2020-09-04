@@ -4,7 +4,7 @@
 # File Created: Saturday, 29th August 2020 5:17:52 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Wednesday, 2nd September 2020 4:34:17 pm
+# Last Modified: Thursday, 3rd September 2020 8:33:44 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -24,6 +24,7 @@ import pandas as pd
 from bs4 import BeautifulSoup as soup
 from selenium import webdriver
 import datetime
+import numpy as np
 
 
 ROOT_PATH = dirname(dirname(abspath(__file__)))
@@ -32,6 +33,7 @@ if ROOT_PATH not in sys.path:
 
 from WH.wh_base_scraper import WH_Base_Scraper
 from Utility.selenium_scraper import Selenium_Scraper
+from Utility.merge_odds_dfs import merge_odds_dfs
 # from WH.wh_base_scraper import WH_Base_Scraper
 
 
@@ -96,6 +98,9 @@ class WH_Game_Scraper(WH_Base_Scraper):
         self.all_link = "https://www.williamhill.com/us/nj/bet/{}/events/all".format(sport)
 
         self.more_bets_links = []
+        self.odds_cols = ['Over_WH', 'Over_ml_WH', 'Under_WH', 'Under_ml_WH', 'Home_Line_WH',
+                          'Home_Line_ml_WH', 'Away_Line_WH', 'Away_Line_ml_WH', 'Home_ML_WH',
+                          'Away_ML_WH']
 
     def create_games_df(self):  # Top Level
         cols = ["Title", "datetime", "Game_Time", "Home", "Away", "Over_WH", "Over_ml_WH",
@@ -140,7 +145,7 @@ class WH_Game_Scraper(WH_Base_Scraper):
             if league_name == self.league:
                 return section
 
-        raise ValueError(f"Could not find a section for league: {self.league}!")
+        print(f"Could not find a section for league: {self.league}!")
 
     def get_event_game_time(self, game, event):  # Specific Helper update_df
         """
@@ -267,6 +272,8 @@ class WH_Game_Scraper(WH_Base_Scraper):
         link = self.today_link if today else self.all_link
         sp = self.get_all_leagues_sp(link)
         league_section = self.find_league_section(sp)
+        if league_section is None:
+            return new_df
         events = league_section.find_all('div', attrs={'class': 'eventContainer'})
         for event in events:
             game = WH_Game()
@@ -287,6 +294,17 @@ class WH_Game_Scraper(WH_Base_Scraper):
             self._scrape_game_props(more_bets_link)
         return new_df
 
+    def _clean_types(self, df):  # Specific Helper create_new_df
+        """
+        making all the numeric columns as type 'float'
+        - scraping gives results like +3.5 for the spread, which causes errors when it's
+          saved to a csv, then reloaded as just 3.5 (screws up removing duplicates)
+        """
+        for col in self.odds_cols:
+            df[col] = df[col].replace("NL", np.nan)
+            df[col] = df[col].astype(float)
+        return df
+
     def create_new_df(self):  # Run
         """
         creates df's with games shown in the "today" and "all" sections,
@@ -303,25 +321,26 @@ class WH_Game_Scraper(WH_Base_Scraper):
         csv_path = ROOT_PATH + f"/WH/Data/{self.league}/Game_Lines.csv"
         new_df = self.create_new_df()
         try:
-            current_df = pd.read_csv(csv_path)
+            old_df = pd.read_csv(csv_path)
         except FileNotFoundError:
             new_df.to_csv(csv_path, index=False)
             print(f"Created a new file for {self.league} game lines!")
             return new_df
 
+        old_df = self._clean_types(old_df)
+        new_df = self._clean_types(new_df)
+
         drop_cols = ['datetime', 'Home', 'Away']
-        strings_cols = ["Title", "datetime", "Game_Time", "Home", "Away", "Over_WH", "Over_ml_WH",
-                        "Under_WH", "Under_ml_WH", "Home_Line_WH", "Home_Line_ml_WH", "Away_Line_WH",
-                        "Away_Line_ml_WH", "Home_ML_WH", "Away_ML_WH"]
-        print_indices = [0, 1, 2, 3, 4]
-        combined_df = self.combine_dfs(current_df, new_df, drop_cols, strings_cols, print_indices)
+        odds_cols = ['Game_Time', 'Home', 'Away', 'Over_WH', 'Over_ml_WH', 'Under_WH',
+                     'Under_ml_WH', 'Home_Line_WH', 'Home_Line_ml_WH', 'Away_Line_WH', 'Away_Line_ml_WH',
+                     'Home_ML_WH', 'Away_ML_WH']
+        combined_df = merge_odds_dfs(old_df, new_df, drop_cols, odds_cols)
         combined_df.to_csv(csv_path, index=False)
         print("Saved updated data!")
         return combined_df
 
 
 if __name__ == "__main__":
-    x = WH_Game_Scraper("NCAAF", "Game_Lines")
+    x = WH_Game_Scraper("NCAAB", "Game_Lines")
     self = x
-    # df = x.new_partial_df(today=False)
     df = x.update_df()
