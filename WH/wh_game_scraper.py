@@ -4,7 +4,7 @@
 # File Created: Saturday, 29th August 2020 5:17:52 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Thursday, 3rd September 2020 8:33:44 pm
+# Last Modified: Friday, 4th September 2020 2:11:54 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -33,7 +33,9 @@ if ROOT_PATH not in sys.path:
 
 from WH.wh_base_scraper import WH_Base_Scraper
 from Utility.selenium_scraper import Selenium_Scraper
+from WH.wh_game_prop_scraper import Game_Prop_Scraper
 from Utility.merge_odds_dfs import merge_odds_dfs
+from Utility.Utility import parse_league
 # from WH.wh_base_scraper import WH_Base_Scraper
 
 
@@ -251,7 +253,7 @@ class WH_Game_Scraper(WH_Base_Scraper):
         """
         finds the "more bets" link of an event to scrape prop bets
         """
-        base_link = "https://www.williamhillsportsbook.com"
+        base_link = "https://www.williamhill.com"
         more_bets_link = event.find_all('div', attrs={'class': 'footer'})
         more_bets_link = more_bets_link[0].find_all(href=True)
         more_bets_link = more_bets_link[0]['href']
@@ -259,9 +261,13 @@ class WH_Game_Scraper(WH_Base_Scraper):
         print(more_bets_link)
         return more_bets_link
 
-    def _scrape_game_props(self, more_bets_link):  # Specific Helper new_partial_df
+    def _scrape_game_props(self, more_bets_link, game):  # Specific Helper new_partial_df
         # goal is to pull in a different scraper to update data with props here
         print('will scrape props here...')
+        prop_scraper = Game_Prop_Scraper(self.league, more_bets_link, game.datetime,
+                                         game.home_team, game.away_team)
+        df = prop_scraper.run()
+        print("Scraped props!")
 
     def new_partial_df(self, today=True):  # Top Level
         """
@@ -291,7 +297,7 @@ class WH_Game_Scraper(WH_Base_Scraper):
             new_df.loc[len(new_df)] = game.to_row()
 
             more_bets_link = self.get_event_more_bets_link(event)
-            self._scrape_game_props(more_bets_link)
+            self._scrape_game_props(more_bets_link, game)
         return new_df
 
     def _clean_types(self, df):  # Specific Helper create_new_df
@@ -341,6 +347,7 @@ class WH_Game_Scraper(WH_Base_Scraper):
 
 
 if __name__ == "__main__":
-    x = WH_Game_Scraper("NCAAB", "Game_Lines")
+    league = parse_league()
+    x = WH_Game_Scraper(league, "Game_Lines")
     self = x
     df = x.update_df()
