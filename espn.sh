@@ -8,13 +8,13 @@ cd ESPN
 # update game results for each league
 # ---------------------------------------------------
 # echo "Updating NFL Game Results..."
-# python espn_update_results.py --league=NFL
+python espn_update_results_scraper.py --league=NFL
 echo "Updating NBA Game Results..."
-python espn_update_results.py --league=NBA
+python espn_update_results_scraper.py --league=NBA
 # echo "Updating NCAAF Game Results..."
-# python espn_update_results.py --league=NCAAF
+# python espn_update_results_scraper.py --league=NCAAF
 # echo "Updating NCAAB Game Results..."
-#python espn_update_results.py --league=NCAAB
+#python espn_update_results_scraper.py --league=NCAAB
 
 # WILL UN-COMMENT THESE ONCE I MANUALLY INSERT MISSING TEAM STATS
 # ---------------------------------------------------
@@ -22,7 +22,7 @@ python espn_update_results.py --league=NBA
 # ---------------------------------------------------
 #python team_stats_scraper.py --league=NFL --cmd=update
 echo "Updating NBA Team Stats..."
-python team_stats_scraper.py --league=NBA --cmd=update
+# python team_stats_scraper.py --league=NBA --cmd=update
 #python team_stats_scraper.py --league=NCAAF --cmd=update
 #python team_stats_scraper.py --league=NCAAB --cmd=update
 
