@@ -4,36 +4,40 @@ conda activate bet
 
 cd ESPN
 
+
 # ---------------------------------------------------
-# update game results for each league
+# NFL
+echo "Updating NFL Game Results..."
+python espn_game_update_scraper.py --league=NFL
+echo "Updating NFL Team Stats..."
+python espn_team_stats_update_scraper.py --league=NFL
 # ---------------------------------------------------
-# echo "Updating NFL Game Results..."
-python espn_update_results_scraper.py --league=NFL
+
+# ---------------------------------------------------
+# NBA
 echo "Updating NBA Game Results..."
-python espn_update_results_scraper.py --league=NBA
-# echo "Updating NCAAF Game Results..."
-# python espn_update_results_scraper.py --league=NCAAF
-# echo "Updating NCAAB Game Results..."
-#python espn_update_results_scraper.py --league=NCAAB
-
-# WILL UN-COMMENT THESE ONCE I MANUALLY INSERT MISSING TEAM STATS
-# ---------------------------------------------------
-# update team stats for each league
-# ---------------------------------------------------
-#python team_stats_scraper.py --league=NFL --cmd=update
+python espn_game_update_scraper.py --league=NBA
 echo "Updating NBA Team Stats..."
-# python team_stats_scraper.py --league=NBA --cmd=update
-#python team_stats_scraper.py --league=NCAAF --cmd=update
-#python team_stats_scraper.py --league=NCAAB --cmd=update
+python espn_team_stats_update_scraper.py --league=NBA
+# ---------------------------------------------------
 
 # ---------------------------------------------------
-# # Updating prod tables...
+# NCAAF
+echo "Updating NCAAF Game Results..."
+python espn_game_update_scraper.py --league=NCAAF
+echo "Updating NCAAF Team Stats..."
+python espn_team_stats_update_scraper.py --league=NCAAF
 # ---------------------------------------------------
-# cd ../PROD
-# python prod_table.py --league=NBA
-# cd ..
 
 # ---------------------------------------------------
-# Updating ML tables...
+# NCAAB
+# echo "Updating NCAAB Game Results..."
+# python espn_game_update_scraper.py --league=NCAAB
+# echo "Updating NCAAB Team Stats..."
+# python espn_team_stats_update_scraper.py --league=NCAAB
 # ---------------------------------------------------
+
+
 cd ..
+
+
