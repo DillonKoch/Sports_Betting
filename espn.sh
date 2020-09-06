@@ -19,6 +19,7 @@ echo "Updating NBA Game Results..."
 python espn_game_update_scraper.py --league=NBA
 echo "Updating NBA Team Stats..."
 python espn_team_stats_update_scraper.py --league=NBA
+python espn_change_team_name.py --league=NBA --old_name="LA Clippers" --new_name="Los Angeles Clippers"
 # ---------------------------------------------------
 
 # ---------------------------------------------------
