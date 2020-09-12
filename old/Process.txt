@@ -1,0 +1,50 @@
+1. Collect Data
+	a. Odds data downloaded
+	b. ESPN Scrapers scrape game data and stats
+	c. ESB Scrapers scrape odds data
+	d. Madden data downloaded
+
+2. Align Data
+	a. Combine all ESPN data into one dataframe per league (NFL_PROD.csv, etc)
+		- this will have empty cols for espn stats, odds, and esb odds (not madden ratings)
+	b. add team stats from ESPN team stats scraper
+	c. merge odds data
+	d. merge ESB odds data
+	e. (optional for modeling) merge Madden ratings data
+
+	Individual Dataframes to be updated / merged over time
+	- NFL_PROD.csv updated with new ESPN games each season
+	- no df for team stats, just update prod row by row
+	- odds csv's saved to odds folder
+	- NFL_ESB.csv for each week's games (including updated lines) -> merge to NFL_PROD.csv
+	- Madden database
+
+	(DATA PLAN MOVING FORWARD)
+	- after getting team stats scraped, combine all individual team df's into one big team df
+	- so there are much fewer files
+	- can easily append new ESPN_ID's to the one file and scrape team stats on that
+
+3. Modeling
+	a. use existing data to build model
+	b. record prediction for each bet in PROD table with % confidence and model name
+	c. program to show predictions for upcoming games
+
+4. Update Data (ongoing)
+	a. before each season, scrape games coming up
+		- THIS IS STEP 1 - PUT NEW ESPN GAMES IN PROD TABLE	
+	b. update ESB odds table as they come in
+	c. after games are completed, update with ESPN results, records, stats, etc
+	d. download more odds data and merge
+	# plan atm is to have season df's for each team, update w a script when games finish,
+	# then once they're finished the prod_table will pull them into the prod table bc 
+	# final_status is not null anymore
+	
+
+5. Use League Data to make personal bets
+	a. make a personal bet with tkinter, bringing in data from league's PROD table
+	b. after game, update with win/loss
+
+
+
+
+MAKE ESPN STATS SCRAPER CRAWL OUT TO ALL THE INDIVIDUAL DFS AND UPDATE THE STATS THERE

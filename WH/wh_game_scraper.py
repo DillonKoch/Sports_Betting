@@ -4,7 +4,7 @@
 # File Created: Saturday, 29th August 2020 5:17:52 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Friday, 4th September 2020 2:11:54 pm
+# Last Modified: Tuesday, 8th September 2020 9:56:27 am
 # Modified By: Dillon Koch
 # -----
 #
@@ -32,11 +32,9 @@ if ROOT_PATH not in sys.path:
     sys.path.append(ROOT_PATH)
 
 from WH.wh_base_scraper import WH_Base_Scraper
-from Utility.selenium_scraper import Selenium_Scraper
 from WH.wh_game_prop_scraper import Game_Prop_Scraper
 from Utility.merge_odds_dfs import merge_odds_dfs
 from Utility.Utility import parse_league
-# from WH.wh_base_scraper import WH_Base_Scraper
 
 
 class WH_Game:
@@ -249,6 +247,18 @@ class WH_Game_Scraper(WH_Base_Scraper):
         game.under_ml = under_total_ml
         return game
 
+    def get_num_prop_bets(self, event):  # Specific Helper new_partial_df
+        footer = event.find_all('div', attrs={'class': 'footer'})[0]
+        num_prop_str = footer.find_all('strong')
+        if len(num_prop_str) > 0:
+            num_props = num_prop_str[0].get_text()
+            num_props = int(num_props)
+            print(f"Found {num_props} prop bets!")
+        else:
+            print("No prop bets found!")
+            num_props = 0
+        return num_props
+
     def get_event_more_bets_link(self, event):  # Specific Helper update_df
         """
         finds the "more bets" link of an event to scrape prop bets
@@ -296,8 +306,10 @@ class WH_Game_Scraper(WH_Base_Scraper):
             game = self.get_event_totals(game, event)
             new_df.loc[len(new_df)] = game.to_row()
 
-            more_bets_link = self.get_event_more_bets_link(event)
-            self._scrape_game_props(more_bets_link, game)
+            num_prop_bets = self.get_num_prop_bets(event)
+            if num_prop_bets > 0:
+                more_bets_link = self.get_event_more_bets_link(event)
+                self._scrape_game_props(more_bets_link, game)
         return new_df
 
     def _clean_types(self, df):  # Specific Helper create_new_df
@@ -348,6 +360,7 @@ class WH_Game_Scraper(WH_Base_Scraper):
 
 if __name__ == "__main__":
     league = parse_league()
+    # league = "NBA"
     x = WH_Game_Scraper(league, "Game_Lines")
     self = x
     df = x.update_df()

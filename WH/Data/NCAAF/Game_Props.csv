@@ -1,6 +1,20 @@
 datetime,Home,Away,Section,Subsection,Bet,Spread/overunder,Odds,scraped_ts
 2020-09-05 19:00:00,Memphis Tigers,Arkansas State Red Wolves,Half,1st Half Spread,Arkansas State Red Wolves,10.5,-115.0,2020-09-04 14:49
 2020-09-05 19:00:00,Memphis Tigers,Arkansas State Red Wolves,Half,1st Half Spread,Memphis Tigers,-10.5,-105.0,2020-09-04 14:49
+2020-09-10 19:10:00,Miami (FL) Hurricanes,UAB Blazers,Half,1st Half Spread,UAB Blazers,7.0,-105.0,2020-09-08 10:04
+2020-09-10 19:10:00,Miami (FL) Hurricanes,UAB Blazers,Half,1st Half Spread,Miami (FL) Hurricanes,-7.0,-115.0,2020-09-08 10:04
+2020-09-10 19:10:00,Miami (FL) Hurricanes,UAB Blazers,Half,1st Half Money Line,UAB Blazers,,330.0,2020-09-08 10:04
+2020-09-10 19:10:00,Miami (FL) Hurricanes,UAB Blazers,Half,1st Half Money Line,Miami (FL) Hurricanes,,-410.0,2020-09-08 10:04
+2020-09-10 19:10:00,Miami (FL) Hurricanes,UAB Blazers,Half,1st Half Spread,UAB Blazers,7.0,100.0,2020-09-09 07:35
+2020-09-10 19:10:00,Miami (FL) Hurricanes,UAB Blazers,Half,1st Half Spread,Miami (FL) Hurricanes,-7.0,-120.0,2020-09-09 07:35
+2020-09-12 11:05:00,North Carolina Tar Heels,Syracuse Orange,Half,1st Half Money Line,Syracuse Orange,,625.0,2020-09-10 07:41
+2020-09-12 11:05:00,North Carolina Tar Heels,Syracuse Orange,Half,1st Half Money Line,North Carolina Tar Heels,,-950.0,2020-09-10 07:41
+2020-09-12 11:05:00,North Carolina Tar Heels,Syracuse Orange,Half,1st Half Total Points,Over,34.0,-115.0,2020-09-10 07:41
+2020-09-12 11:05:00,North Carolina Tar Heels,Syracuse Orange,Half,1st Half Total Points,Under,34.0,-105.0,2020-09-10 07:41
+2020-09-12 11:05:00,Iowa State Cyclones,Louisiana-Lafayette Ragin' Cajuns,Half,1st Half Spread,Louisiana-Lafayette Ragin' Cajuns,7.0,-120.0,2020-09-10 07:41
+2020-09-12 11:05:00,Iowa State Cyclones,Louisiana-Lafayette Ragin' Cajuns,Half,1st Half Spread,Iowa State Cyclones,-7.0,100.0,2020-09-10 07:41
+2020-09-12 11:05:00,Iowa State Cyclones,Louisiana-Lafayette Ragin' Cajuns,Half,1st Half Money Line,Louisiana-Lafayette Ragin' Cajuns,,270.0,2020-09-10 07:41
+2020-09-12 11:05:00,Iowa State Cyclones,Louisiana-Lafayette Ragin' Cajuns,Half,1st Half Money Line,Iowa State Cyclones,,-330.0,2020-09-10 07:41
 2020-09-05 12:30:00,Army Black Knights,Middle Tennessee Blue Raiders,Half,1st Half Spread,Middle Tennessee Blue Raiders,2.5,-105.0,2020-09-04 14:48
 2020-09-05 12:30:00,Army Black Knights,Middle Tennessee Blue Raiders,Half,1st Half Spread,Army Black Knights,-2.5,-115.0,2020-09-04 14:48
 2020-09-05 12:30:00,Army Black Knights,Middle Tennessee Blue Raiders,Half,1st Half Money Line,Middle Tennessee Blue Raiders,,130.0,2020-09-04 14:48
@@ -23,3 +37,151 @@ datetime,Home,Away,Section,Subsection,Bet,Spread/overunder,Odds,scraped_ts
 2020-09-07 19:00:00,Navy Midshipmen,Brigham Young Cougars,Half,1st Half Total Points,Under,24.5,-110.0,2020-09-04 14:50
 2020-09-05 19:00:00,Memphis Tigers,Arkansas State Red Wolves,Half,1st Half Spread,Arkansas State Red Wolves,10.5,-120.0,2020-09-04 17:45
 2020-09-05 19:00:00,Memphis Tigers,Arkansas State Red Wolves,Half,1st Half Spread,Memphis Tigers,-10.5,100.0,2020-09-04 17:45
+2020-09-10 19:10:00,Miami (FL) Hurricanes,UAB Blazers,Half,1st Half Total Points,Over,27.5,-105.0,2020-09-09 07:35
+2020-09-10 19:10:00,Miami (FL) Hurricanes,UAB Blazers,Half,1st Half Total Points,Under,27.5,-115.0,2020-09-09 07:35
+2020-09-10 19:10:00,Miami (FL) Hurricanes,UAB Blazers,Half,1st Half Spread,UAB Blazers,7.5,-110.0,2020-09-10 07:40
+2020-09-10 19:10:00,Miami (FL) Hurricanes,UAB Blazers,Half,1st Half Spread,Miami (FL) Hurricanes,-7.5,-110.0,2020-09-10 07:40
+2020-09-10 19:10:00,Miami (FL) Hurricanes,UAB Blazers,Half,1st Half Money Line,UAB Blazers,,360.0,2020-09-10 07:40
+2020-09-10 19:10:00,Miami (FL) Hurricanes,UAB Blazers,Half,1st Half Money Line,Miami (FL) Hurricanes,,-440.0,2020-09-10 07:40
+2020-09-12 11:00:00,Kansas State Wildcats,Arkansas State Red Wolves,Half,1st Half Spread,Arkansas State Red Wolves,6.5,-110.0,2020-09-10 07:41
+2020-09-12 11:00:00,Kansas State Wildcats,Arkansas State Red Wolves,Half,1st Half Spread,Kansas State Wildcats,-6.5,-110.0,2020-09-10 07:41
+2020-09-12 11:00:00,Kansas State Wildcats,Arkansas State Red Wolves,Half,1st Half Money Line,Arkansas State Red Wolves,,255.0,2020-09-10 07:41
+2020-09-12 11:00:00,Kansas State Wildcats,Arkansas State Red Wolves,Half,1st Half Money Line,Kansas State Wildcats,,-310.0,2020-09-10 07:41
+2020-09-12 11:00:00,Kansas State Wildcats,Arkansas State Red Wolves,Half,1st Half Total Points,Over,28.5,100.0,2020-09-10 07:41
+2020-09-12 11:00:00,Kansas State Wildcats,Arkansas State Red Wolves,Half,1st Half Total Points,Under,28.5,-120.0,2020-09-10 07:41
+2020-09-12 11:05:00,North Carolina Tar Heels,Syracuse Orange,Half,1st Half Spread,Syracuse Orange,13.0,-110.0,2020-09-10 07:41
+2020-09-12 11:05:00,North Carolina Tar Heels,Syracuse Orange,Half,1st Half Spread,North Carolina Tar Heels,-13.0,-110.0,2020-09-10 07:41
+2020-09-12 11:05:00,Iowa State Cyclones,Louisiana-Lafayette Ragin' Cajuns,Half,1st Half Total Points,Over,28.5,-110.0,2020-09-10 07:41
+2020-09-12 11:05:00,Iowa State Cyclones,Louisiana-Lafayette Ragin' Cajuns,Half,1st Half Total Points,Under,28.5,-110.0,2020-09-10 07:41
+2020-09-12 11:05:00,North Carolina Tar Heels,Syracuse Orange,Half,1st Half Money Line,Syracuse Orange,,700.0,2020-09-11 07:28
+2020-09-12 11:05:00,North Carolina Tar Heels,Syracuse Orange,Half,1st Half Money Line,North Carolina Tar Heels,,-1100.0,2020-09-11 07:28
+2020-09-12 11:05:00,North Carolina Tar Heels,Syracuse Orange,Half,1st Half Total Points,Over,34.0,-110.0,2020-09-11 07:28
+2020-09-12 11:05:00,North Carolina Tar Heels,Syracuse Orange,Half,1st Half Total Points,Under,34.0,-110.0,2020-09-11 07:28
+2020-09-12 11:05:00,Iowa State Cyclones,Louisiana-Lafayette Ragin' Cajuns,Half,1st Half Spread,Louisiana-Lafayette Ragin' Cajuns,6.5,100.0,2020-09-11 07:29
+2020-09-12 11:05:00,Iowa State Cyclones,Louisiana-Lafayette Ragin' Cajuns,Half,1st Half Spread,Iowa State Cyclones,-6.5,-120.0,2020-09-11 07:29
+2020-09-12 11:05:00,Iowa State Cyclones,Louisiana-Lafayette Ragin' Cajuns,Half,1st Half Money Line,Louisiana-Lafayette Ragin' Cajuns,,275.0,2020-09-11 07:29
+2020-09-12 11:05:00,Iowa State Cyclones,Louisiana-Lafayette Ragin' Cajuns,Half,1st Half Money Line,Iowa State Cyclones,,-335.0,2020-09-11 07:29
+2020-09-12 11:05:00,Kansas State Wildcats,Arkansas State Red Wolves,Half,1st Half Spread,Arkansas State Red Wolves,7.0,-115.0,2020-09-11 07:29
+2020-09-12 11:05:00,Kansas State Wildcats,Arkansas State Red Wolves,Half,1st Half Spread,Kansas State Wildcats,-7.0,-105.0,2020-09-11 07:29
+2020-09-12 11:05:00,Kansas State Wildcats,Arkansas State Red Wolves,Half,1st Half Money Line,Arkansas State Red Wolves,,285.0,2020-09-11 07:29
+2020-09-12 11:05:00,Kansas State Wildcats,Arkansas State Red Wolves,Half,1st Half Money Line,Kansas State Wildcats,,-345.0,2020-09-11 07:29
+2020-09-12 11:05:00,Kansas State Wildcats,Arkansas State Red Wolves,Half,1st Half Total Points,Over,28.0,-110.0,2020-09-11 07:29
+2020-09-12 11:05:00,Kansas State Wildcats,Arkansas State Red Wolves,Half,1st Half Total Points,Under,28.0,-110.0,2020-09-11 07:29
+2020-09-12 11:05:00,Appalachian State Mountaineers,Charlotte 49ers,Half,1st Half Spread,Charlotte 49ers,9.5,-105.0,2020-09-11 07:29
+2020-09-12 11:05:00,Appalachian State Mountaineers,Charlotte 49ers,Half,1st Half Spread,Appalachian State Mountaineers,-9.5,-115.0,2020-09-11 07:29
+2020-09-12 11:05:00,Appalachian State Mountaineers,Charlotte 49ers,Half,1st Half Money Line,Charlotte 49ers,,425.0,2020-09-11 07:29
+2020-09-12 11:05:00,Appalachian State Mountaineers,Charlotte 49ers,Half,1st Half Money Line,Appalachian State Mountaineers,,-550.0,2020-09-11 07:29
+2020-09-12 11:05:00,Appalachian State Mountaineers,Charlotte 49ers,Half,1st Half Total Points,Over,30.5,-110.0,2020-09-11 07:29
+2020-09-12 11:05:00,Appalachian State Mountaineers,Charlotte 49ers,Half,1st Half Total Points,Under,30.5,-110.0,2020-09-11 07:29
+2020-09-12 12:35:00,Army Black Knights,Louisiana-Monroe Warhawks,Half,1st Half Spread,Louisiana-Monroe Warhawks,13.0,-110.0,2020-09-11 07:29
+2020-09-12 12:35:00,Army Black Knights,Louisiana-Monroe Warhawks,Half,1st Half Spread,Army Black Knights,-13.0,-110.0,2020-09-11 07:29
+2020-09-12 12:35:00,Army Black Knights,Louisiana-Monroe Warhawks,Half,1st Half Money Line,Louisiana-Monroe Warhawks,,700.0,2020-09-11 07:29
+2020-09-12 12:35:00,Army Black Knights,Louisiana-Monroe Warhawks,Half,1st Half Money Line,Army Black Knights,,-1100.0,2020-09-11 07:29
+2020-09-12 13:40:00,Notre Dame Fighting Irish,Duke Blue Devils,Half,1st Half Spread,Duke Blue Devils,10.5,-110.0,2020-09-11 07:30
+2020-09-12 13:40:00,Notre Dame Fighting Irish,Duke Blue Devils,Half,1st Half Spread,Notre Dame Fighting Irish,-10.5,-110.0,2020-09-11 07:30
+2020-09-12 13:40:00,Notre Dame Fighting Irish,Duke Blue Devils,Half,1st Half Money Line,Duke Blue Devils,,550.0,2020-09-11 07:30
+2020-09-12 13:40:00,Notre Dame Fighting Irish,Duke Blue Devils,Half,1st Half Money Line,Notre Dame Fighting Irish,,-800.0,2020-09-11 07:30
+2020-09-12 13:40:00,Notre Dame Fighting Irish,Duke Blue Devils,Half,1st Half Total Points,Over,28.0,100.0,2020-09-11 07:30
+2020-09-12 13:40:00,Notre Dame Fighting Irish,Duke Blue Devils,Half,1st Half Total Points,Under,28.0,-120.0,2020-09-11 07:30
+2020-09-12 14:40:00,Florida State Seminoles,Georgia Tech Yellow Jackets,Half,1st Half Spread,Georgia Tech Yellow Jackets,7.0,-110.0,2020-09-11 07:30
+2020-09-12 14:40:00,Florida State Seminoles,Georgia Tech Yellow Jackets,Half,1st Half Spread,Florida State Seminoles,-7.0,-110.0,2020-09-11 07:30
+2020-09-12 14:40:00,Florida State Seminoles,Georgia Tech Yellow Jackets,Half,1st Half Money Line,Georgia Tech Yellow Jackets,,320.0,2020-09-11 07:30
+2020-09-12 14:40:00,Florida State Seminoles,Georgia Tech Yellow Jackets,Half,1st Half Money Line,Florida State Seminoles,,-400.0,2020-09-11 07:30
+2020-09-12 14:40:00,Florida State Seminoles,Georgia Tech Yellow Jackets,Half,1st Half Total Points,Over,26.5,-110.0,2020-09-11 07:30
+2020-09-12 14:40:00,Florida State Seminoles,Georgia Tech Yellow Jackets,Half,1st Half Total Points,Under,26.5,-110.0,2020-09-11 07:30
+2020-09-12 14:40:00,Texas State Bobcats,UTSA Roadrunners,Half,1st Half Spread,UTSA Roadrunners,6.5,-110.0,2020-09-11 07:30
+2020-09-12 14:40:00,Texas State Bobcats,UTSA Roadrunners,Half,1st Half Spread,Texas State Bobcats,-6.5,-110.0,2020-09-11 07:30
+2020-09-12 14:40:00,Texas State Bobcats,UTSA Roadrunners,Half,1st Half Money Line,UTSA Roadrunners,,260.0,2020-09-11 07:30
+2020-09-12 14:40:00,Texas State Bobcats,UTSA Roadrunners,Half,1st Half Money Line,Texas State Bobcats,,-320.0,2020-09-11 07:30
+2020-09-12 14:40:00,Texas State Bobcats,UTSA Roadrunners,Half,1st Half Total Points,Over,29.5,-110.0,2020-09-11 07:30
+2020-09-12 14:40:00,Texas State Bobcats,UTSA Roadrunners,Half,1st Half Total Points,Under,29.5,-110.0,2020-09-11 07:30
+2020-09-12 18:40:00,Wake Forest Demon Deacons,Clemson Tigers,Half,1st Half Spread,Clemson Tigers,-21.0,-110.0,2020-09-11 07:30
+2020-09-12 18:40:00,Wake Forest Demon Deacons,Clemson Tigers,Half,1st Half Spread,Wake Forest Demon Deacons,21.0,-110.0,2020-09-11 07:30
+2020-09-12 18:40:00,South Alabama Jaguars,Tulane Green Wave,Half,1st Half Spread,Tulane Green Wave,-5.0,-110.0,2020-09-11 07:31
+2020-09-12 18:40:00,South Alabama Jaguars,Tulane Green Wave,Half,1st Half Spread,South Alabama Jaguars,5.0,-110.0,2020-09-11 07:31
+2020-09-12 18:40:00,South Alabama Jaguars,Tulane Green Wave,Half,1st Half Money Line,Tulane Green Wave,,-275.0,2020-09-11 07:31
+2020-09-12 18:40:00,South Alabama Jaguars,Tulane Green Wave,Half,1st Half Money Line,South Alabama Jaguars,,235.0,2020-09-11 07:31
+2020-09-12 18:40:00,South Alabama Jaguars,Tulane Green Wave,Half,1st Half Total Points,Over,27.0,-105.0,2020-09-11 07:31
+2020-09-12 18:40:00,South Alabama Jaguars,Tulane Green Wave,Half,1st Half Total Points,Under,27.0,-115.0,2020-09-11 07:31
+2020-09-12 19:10:00,Louisville Cardinals,Western Kentucky Hilltoppers,Half,1st Half Spread,Western Kentucky Hilltoppers,7.0,-115.0,2020-09-11 07:31
+2020-09-12 19:10:00,Louisville Cardinals,Western Kentucky Hilltoppers,Half,1st Half Spread,Louisville Cardinals,-7.0,-105.0,2020-09-11 07:31
+2020-09-12 19:10:00,Louisville Cardinals,Western Kentucky Hilltoppers,Half,1st Half Money Line,Western Kentucky Hilltoppers,,285.0,2020-09-11 07:31
+2020-09-12 19:10:00,Louisville Cardinals,Western Kentucky Hilltoppers,Half,1st Half Money Line,Louisville Cardinals,,-345.0,2020-09-11 07:31
+2020-09-12 19:10:00,Louisville Cardinals,Western Kentucky Hilltoppers,Half,1st Half Total Points,Over,29.0,-110.0,2020-09-11 07:31
+2020-09-12 19:10:00,Louisville Cardinals,Western Kentucky Hilltoppers,Half,1st Half Total Points,Under,29.0,-110.0,2020-09-11 07:31
+2020-09-12 19:10:00,Texas Longhorns,UTEP Miners,Half,1st Half Spread,UTEP Miners,27.5,-110.0,2020-09-11 07:31
+2020-09-12 19:10:00,Texas Longhorns,UTEP Miners,Half,1st Half Spread,Texas Longhorns,-27.5,-110.0,2020-09-11 07:31
+2020-09-12 19:10:00,Texas Longhorns,UTEP Miners,Half,1st Half Total Points,Over,34.0,-115.0,2020-09-11 07:31
+2020-09-12 19:10:00,Texas Longhorns,UTEP Miners,Half,1st Half Total Points,Under,34.0,-105.0,2020-09-11 07:31
+2020-09-12 21:10:00,Kansas Jayhawks,Coastal Carolina Chanticleers,Half,1st Half Spread,Coastal Carolina Chanticleers,3.5,-105.0,2020-09-11 07:31
+2020-09-12 21:10:00,Kansas Jayhawks,Coastal Carolina Chanticleers,Half,1st Half Spread,Kansas Jayhawks,-3.5,-115.0,2020-09-11 07:31
+2020-09-12 21:10:00,Kansas Jayhawks,Coastal Carolina Chanticleers,Half,1st Half Money Line,Coastal Carolina Chanticleers,,175.0,2020-09-11 07:31
+2020-09-12 21:10:00,Kansas Jayhawks,Coastal Carolina Chanticleers,Half,1st Half Money Line,Kansas Jayhawks,,-200.0,2020-09-11 07:31
+2020-09-12 11:00:00,West Virginia Mountaineers,Eastern Kentucky Colonels,Half,1st Half Spread,Eastern Kentucky Colonels,27.5,-110.0,2020-09-12 11:02
+2020-09-12 11:00:00,West Virginia Mountaineers,Eastern Kentucky Colonels,Half,1st Half Spread,West Virginia Mountaineers,-27.5,-110.0,2020-09-12 11:02
+2020-09-12 11:00:00,West Virginia Mountaineers,Eastern Kentucky Colonels,Half,1st Half Total Points,Over,36.5,-115.0,2020-09-12 11:02
+2020-09-12 11:00:00,West Virginia Mountaineers,Eastern Kentucky Colonels,Half,1st Half Total Points,Under,36.5,-105.0,2020-09-12 11:02
+2020-09-12 11:05:00,North Carolina Tar Heels,Syracuse Orange,Half,1st Half Spread Live,Syracuse Orange,14.5,-115.0,2020-09-12 11:04
+2020-09-12 11:05:00,North Carolina Tar Heels,Syracuse Orange,Half,1st Half Spread Live,North Carolina Tar Heels,-14.5,-115.0,2020-09-12 11:04
+2020-09-12 11:05:00,North Carolina Tar Heels,Syracuse Orange,Half,1st Half Total Pts Live,Over,36.5,-115.0,2020-09-12 11:04
+2020-09-12 11:05:00,North Carolina Tar Heels,Syracuse Orange,Half,1st Half Total Pts Live,Under,36.5,-115.0,2020-09-12 11:04
+2020-09-12 11:05:00,North Carolina Tar Heels,Syracuse Orange,Quarter,Result of 1st Qtr Live,Syracuse Orange,,600.0,2020-09-12 11:04
+2020-09-12 11:05:00,North Carolina Tar Heels,Syracuse Orange,Quarter,Result of 1st Qtr Live,Tie,,525.0,2020-09-12 11:04
+2020-09-12 11:05:00,North Carolina Tar Heels,Syracuse Orange,Quarter,Result of 1st Qtr Live,North Carolina Tar Heels,,-460.0,2020-09-12 11:04
+2020-09-12 11:05:00,North Carolina Tar Heels,Syracuse Orange,Alternate Lines,Alternative Game Spread 1 Live,Syracuse Orange,31.5,-200.0,2020-09-12 11:04
+2020-09-12 11:05:00,North Carolina Tar Heels,Syracuse Orange,Alternate Lines,Alternative Game Spread 1 Live,North Carolina Tar Heels,-31.5,165.0,2020-09-12 11:04
+2020-09-12 11:05:00,North Carolina Tar Heels,Syracuse Orange,Alternate Lines,Alternative Game Spread 2 Live,Syracuse Orange,28.5,-145.0,2020-09-12 11:04
+2020-09-12 11:05:00,North Carolina Tar Heels,Syracuse Orange,Alternate Lines,Alternative Game Spread 2 Live,North Carolina Tar Heels,-28.5,115.0,2020-09-12 11:04
+2020-09-12 11:05:00,North Carolina Tar Heels,Syracuse Orange,Alternate Lines,Alternative Game Spread 3 Live,Syracuse Orange,22.5,115.0,2020-09-12 11:04
+2020-09-12 11:05:00,North Carolina Tar Heels,Syracuse Orange,Alternate Lines,Alternative Game Spread 3 Live,North Carolina Tar Heels,-22.5,-145.0,2020-09-12 11:04
+2020-09-12 11:05:00,North Carolina Tar Heels,Syracuse Orange,Alternate Lines,Alternative Game Spread 4 Live,Syracuse Orange,19.5,155.0,2020-09-12 11:04
+2020-09-12 11:05:00,North Carolina Tar Heels,Syracuse Orange,Alternate Lines,Alternative Game Spread 4 Live,North Carolina Tar Heels,-19.5,-190.0,2020-09-12 11:04
+2020-09-12 11:05:00,North Carolina Tar Heels,Syracuse Orange,Alternate Lines,Alternative Game Total Pts 1 Live,Over,57.5,-200.0,2020-09-12 11:04
+2020-09-12 11:05:00,North Carolina Tar Heels,Syracuse Orange,Alternate Lines,Alternative Game Total Pts 1 Live,Under,57.5,165.0,2020-09-12 11:04
+2020-09-12 11:05:00,North Carolina Tar Heels,Syracuse Orange,Alternate Lines,Alternative Game Total Pts 2 Live,Over,60.5,-150.0,2020-09-12 11:04
+2020-09-12 11:05:00,North Carolina Tar Heels,Syracuse Orange,Alternate Lines,Alternative Game Total Pts 2 Live,Under,60.5,120.0,2020-09-12 11:04
+2020-09-12 11:05:00,North Carolina Tar Heels,Syracuse Orange,Alternate Lines,Alternative Game Total Pts 3 Live,Over,66.5,115.0,2020-09-12 11:04
+2020-09-12 11:05:00,North Carolina Tar Heels,Syracuse Orange,Alternate Lines,Alternative Game Total Pts 3 Live,Under,66.5,-145.0,2020-09-12 11:04
+2020-09-12 11:05:00,North Carolina Tar Heels,Syracuse Orange,Alternate Lines,Alternative Game Total Pts 4 Live,Over,69.5,155.0,2020-09-12 11:04
+2020-09-12 11:05:00,North Carolina Tar Heels,Syracuse Orange,Alternate Lines,Alternative Game Total Pts 4 Live,Under,69.5,-190.0,2020-09-12 11:04
+2020-09-12 11:05:00,North Carolina Tar Heels,Syracuse Orange,Prop Bets,Winning Margin Live,UNC 1-6 pts,,1200.0,2020-09-12 11:04
+2020-09-12 11:05:00,North Carolina Tar Heels,Syracuse Orange,Prop Bets,Winning Margin Live,SYR 1-6 pts,,2100.0,2020-09-12 11:04
+2020-09-12 11:05:00,North Carolina Tar Heels,Syracuse Orange,Prop Bets,Winning Margin Live,UNC 7-12 pts,,600.0,2020-09-12 11:04
+2020-09-12 11:05:00,North Carolina Tar Heels,Syracuse Orange,Prop Bets,Winning Margin Live,SYR 7-12 pts,,3000.0,2020-09-12 11:04
+2020-09-12 11:05:00,North Carolina Tar Heels,Syracuse Orange,Prop Bets,Winning Margin Live,UNC 13-18 pts,,500.0,2020-09-12 11:04
+2020-09-12 11:05:00,North Carolina Tar Heels,Syracuse Orange,Prop Bets,Winning Margin Live,SYR 13-18 pts,,4500.0,2020-09-12 11:04
+2020-09-12 11:05:00,North Carolina Tar Heels,Syracuse Orange,Prop Bets,Winning Margin Live,SYR 19 pts or more,,5500.0,2020-09-12 11:04
+2020-09-12 11:05:00,North Carolina Tar Heels,Syracuse Orange,Prop Bets,Winning Margin Live,UNC 19 pts or more,,-245.0,2020-09-12 11:04
+2020-09-12 11:05:00,Iowa State Cyclones,Louisiana-Lafayette Ragin' Cajuns,Half,1st Half Spread Live,Louisiana-Lafayette Ragin' Cajuns,6.5,105.0,2020-09-12 11:05
+2020-09-12 11:05:00,Iowa State Cyclones,Louisiana-Lafayette Ragin' Cajuns,Half,1st Half Spread Live,Iowa State Cyclones,-6.5,-135.0,2020-09-12 11:05
+2020-09-12 11:05:00,Iowa State Cyclones,Louisiana-Lafayette Ragin' Cajuns,Half,1st Half Total Pts Live,Over,27.5,-125.0,2020-09-12 11:05
+2020-09-12 11:05:00,Iowa State Cyclones,Louisiana-Lafayette Ragin' Cajuns,Half,1st Half Total Pts Live,Under,27.5,-105.0,2020-09-12 11:05
+2020-09-12 11:05:00,Iowa State Cyclones,Louisiana-Lafayette Ragin' Cajuns,Quarter,Result of 1st Qtr Live,Louisiana-Lafayette Ragin' Cajuns,,270.0,2020-09-12 11:05
+2020-09-12 11:05:00,Iowa State Cyclones,Louisiana-Lafayette Ragin' Cajuns,Quarter,Result of 1st Qtr Live,Tie,,310.0,2020-09-12 11:05
+2020-09-12 11:05:00,Iowa State Cyclones,Louisiana-Lafayette Ragin' Cajuns,Quarter,Result of 1st Qtr Live,Iowa State Cyclones,,-160.0,2020-09-12 11:05
+2020-09-12 11:05:00,Iowa State Cyclones,Louisiana-Lafayette Ragin' Cajuns,Alternate Lines,Alternative Game Spread 1 Live,Louisiana-Lafayette Ragin' Cajuns,,,2020-09-12 11:05
+2020-09-12 11:05:00,Iowa State Cyclones,Louisiana-Lafayette Ragin' Cajuns,Alternate Lines,Alternative Game Spread 1 Live,Iowa State Cyclones,,,2020-09-12 11:05
+2020-09-12 11:05:00,Iowa State Cyclones,Louisiana-Lafayette Ragin' Cajuns,Alternate Lines,Alternative Game Spread 2 Live,Louisiana-Lafayette Ragin' Cajuns,,,2020-09-12 11:05
+2020-09-12 11:05:00,Iowa State Cyclones,Louisiana-Lafayette Ragin' Cajuns,Alternate Lines,Alternative Game Spread 2 Live,Iowa State Cyclones,,,2020-09-12 11:05
+2020-09-12 11:05:00,Iowa State Cyclones,Louisiana-Lafayette Ragin' Cajuns,Alternate Lines,Alternative Game Spread 3 Live,Louisiana-Lafayette Ragin' Cajuns,,,2020-09-12 11:05
+2020-09-12 11:05:00,Iowa State Cyclones,Louisiana-Lafayette Ragin' Cajuns,Alternate Lines,Alternative Game Spread 3 Live,Iowa State Cyclones,,,2020-09-12 11:05
+2020-09-12 11:05:00,Iowa State Cyclones,Louisiana-Lafayette Ragin' Cajuns,Alternate Lines,Alternative Game Spread 4 Live,Louisiana-Lafayette Ragin' Cajuns,,,2020-09-12 11:05
+2020-09-12 11:05:00,Iowa State Cyclones,Louisiana-Lafayette Ragin' Cajuns,Alternate Lines,Alternative Game Spread 4 Live,Iowa State Cyclones,,,2020-09-12 11:05
+2020-09-12 11:05:00,Iowa State Cyclones,Louisiana-Lafayette Ragin' Cajuns,Alternate Lines,Alternative Game Total Pts 1 Live,Over,,,2020-09-12 11:05
+2020-09-12 11:05:00,Iowa State Cyclones,Louisiana-Lafayette Ragin' Cajuns,Alternate Lines,Alternative Game Total Pts 1 Live,Under,,,2020-09-12 11:05
+2020-09-12 11:05:00,Iowa State Cyclones,Louisiana-Lafayette Ragin' Cajuns,Alternate Lines,Alternative Game Total Pts 2 Live,Over,,,2020-09-12 11:05
+2020-09-12 11:05:00,Iowa State Cyclones,Louisiana-Lafayette Ragin' Cajuns,Alternate Lines,Alternative Game Total Pts 2 Live,Under,,,2020-09-12 11:05
+2020-09-12 11:05:00,Iowa State Cyclones,Louisiana-Lafayette Ragin' Cajuns,Alternate Lines,Alternative Game Total Pts 3 Live,Over,,,2020-09-12 11:05
+2020-09-12 11:05:00,Iowa State Cyclones,Louisiana-Lafayette Ragin' Cajuns,Alternate Lines,Alternative Game Total Pts 3 Live,Under,,,2020-09-12 11:05
+2020-09-12 11:05:00,Iowa State Cyclones,Louisiana-Lafayette Ragin' Cajuns,Alternate Lines,Alternative Game Total Pts 4 Live,Over,,,2020-09-12 11:05
+2020-09-12 11:05:00,Iowa State Cyclones,Louisiana-Lafayette Ragin' Cajuns,Alternate Lines,Alternative Game Total Pts 4 Live,Under,,,2020-09-12 11:05
+2020-09-12 11:05:00,Iowa State Cyclones,Louisiana-Lafayette Ragin' Cajuns,Prop Bets,Will There Be OT Live?,Yes,,,2020-09-12 11:05
+2020-09-12 11:05:00,Iowa State Cyclones,Louisiana-Lafayette Ragin' Cajuns,Prop Bets,Will There Be OT Live?,No,,,2020-09-12 11:05
+2020-09-12 11:05:00,Iowa State Cyclones,Louisiana-Lafayette Ragin' Cajuns,Prop Bets,Winning Margin Live,LAF 1-6 pts,,,2020-09-12 11:05
+2020-09-12 11:05:00,Iowa State Cyclones,Louisiana-Lafayette Ragin' Cajuns,Prop Bets,Winning Margin Live,IOS 1-6 pts,,,2020-09-12 11:05
+2020-09-12 11:05:00,Iowa State Cyclones,Louisiana-Lafayette Ragin' Cajuns,Prop Bets,Winning Margin Live,IOS 7-12 pts,,,2020-09-12 11:05
+2020-09-12 11:05:00,Iowa State Cyclones,Louisiana-Lafayette Ragin' Cajuns,Prop Bets,Winning Margin Live,LAF 7-12 pts,,,2020-09-12 11:05
+2020-09-12 11:05:00,Iowa State Cyclones,Louisiana-Lafayette Ragin' Cajuns,Prop Bets,Winning Margin Live,LAF 13-18 pts,,,2020-09-12 11:05
+2020-09-12 11:05:00,Iowa State Cyclones,Louisiana-Lafayette Ragin' Cajuns,Prop Bets,Winning Margin Live,IOS 13-18 pts,,,2020-09-12 11:05
+2020-09-12 11:05:00,Iowa State Cyclones,Louisiana-Lafayette Ragin' Cajuns,Prop Bets,Winning Margin Live,LAF 19 pts or more,,,2020-09-12 11:05
+2020-09-12 11:05:00,Iowa State Cyclones,Louisiana-Lafayette Ragin' Cajuns,Prop Bets,Winning Margin Live,IOS 19 pts or more,,,2020-09-12 11:05

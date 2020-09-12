@@ -1,0 +1,31 @@
+- load prod df
+- create new df
+	- dummies
+	- clean some cols
+
+
+- get record/stats cols for a team for a game
+	- get relevant df, etc
+
+
+----------------------
+
+ml data includes:
+- dummies (home, away, network)
+- record cols
+- binary conf/neutral
+- week (NFL)
+- season
+- avg team stats
+
+
+to get training data:
+	- run prod_to_ml on the prod df
+		- run dummies, binary, week, season all at once
+		- record/team stats with apply
+to make predictions:
+- 
+- 
+- 
+- POINTS PER GAME OF PAST GAMES TOO (by quarter too)
+
