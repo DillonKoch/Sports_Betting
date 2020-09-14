@@ -4,7 +4,7 @@
 # File Created: Saturday, 22nd August 2020 12:56:05 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Sunday, 23rd August 2020 11:41:34 am
+# Last Modified: Saturday, 12th September 2020 7:43:41 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -30,7 +30,6 @@ class Sqlite_util:
 
     def connect_to_db(self):  # Run
         conn = sqlite3.connect(self.db_path)
-        print("connected to sports_betting.db")
         cursor = conn.cursor()
         return conn, cursor
 
@@ -39,8 +38,27 @@ class Sqlite_util:
         df.to_sql(table_name, conn, if_exists='replace', index=False)
         print(f"inserted table {table_name} to the database!")
 
+    def add_main_data(self):
+        leagues = ['NFL', 'NBA']
+        for league in leagues:
+            espn_df = pd.read_csv(ROOT_PATH + f"/ESPN/ML/{league}_ML.csv")
+            self.insert_df(espn_df, f"{league}_ESPN")
+
+            odds_df = pd.read_csv(ROOT_PATH + f"/Odds/{league}.csv")
+            self.insert_df(odds_df, f"{league}_Odds")
+
+            esb_df = pd.read_csv(ROOT_PATH + f"/ESB/Data/{league}/Game_Lines.csv")
+            esb_df = esb_df.sort_values(by='scraped_ts')
+            esb_df = esb_df.drop_duplicates(subset=['datetime', 'Home', 'Away'], keep='last')
+            self.insert_df(esb_df, f"{league}_ESB")
+
+            wh_df = pd.read_csv(ROOT_PATH + f"/WH/Data/{league}/Game_Lines.csv")
+            wh_df = wh_df.sort_values(by='scraped_ts')
+            wh_df = wh_df.drop_duplicates(subset=['datetime', 'Home', 'Away'], keep='last')
+            self.insert_df(wh_df, f"{league}_WH")
+
 
 if __name__ == "__main__":
     x = Sqlite_util()
     self = x
-    conn, cursor = x.connect_to_db()
+    self.add_main_data()

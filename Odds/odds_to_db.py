@@ -4,7 +4,7 @@
 # File Created: Sunday, 23rd August 2020 2:25:37 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Saturday, 29th August 2020 4:12:19 pm
+# Last Modified: Saturday, 12th September 2020 12:55:41 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -384,10 +384,13 @@ class Odds_to_db:
         # save to database
         s = Sqlite_util()
         s.insert_df(new_df, f"{self.league}_Odds")
+
+        # save to csv
+        new_df.to_csv(ROOT_PATH + f"/Odds/{self.league}.csv", index=False)
         return odds_df, new_df
 
 
 if __name__ == "__main__":
-    x = Odds_to_db("NFL")
+    x = Odds_to_db("NCAAF")
     self = x
     odds_df, new_df = x.run()

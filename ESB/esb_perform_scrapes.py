@@ -4,7 +4,7 @@
 # File Created: Tuesday, 23rd June 2020 3:20:11 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Saturday, 29th August 2020 4:13:45 pm
+# Last Modified: Saturday, 12th September 2020 4:34:58 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -97,7 +97,7 @@ class ESB_Perform_Scrapes:
                 print(f"ERROR UPDATING BET {bet_name}! ({e})")
                 print("-" * 30)
             time.sleep(5)
-        self.add_to_database()
+        # self.add_to_database()
 
 
 if __name__ == "__main__":
