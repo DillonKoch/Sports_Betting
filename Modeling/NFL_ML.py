@@ -4,7 +4,7 @@
 # File Created: Saturday, 12th September 2020 8:09:08 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Sunday, 13th September 2020 8:16:20 pm
+# Last Modified: Monday, 14th September 2020 10:04:27 am
 # Modified By: Dillon Koch
 # -----
 #
@@ -16,9 +16,12 @@
 import sys
 from os.path import abspath, dirname
 
+import wandb
+from wandb.keras import WandbCallback
 import pandas as pd
 import numpy as np
 from tensorflow import keras
+from sklearn.model_selection import train_test_split
 
 
 ROOT_PATH = dirname(dirname(abspath(__file__)))
@@ -31,12 +34,13 @@ from Modeling.model_parent import Model_Parent
 class NFL_ML(Model_Parent):
     def __init__(self):
         super().__init__("NFL")
+        wandb.init()
 
     def get_X_data(self, df):
         X_cols = list(df.columns)
         X_cols = X_cols[X_cols.index('home_ovr_wins'):X_cols.index('Line')]
         X_df = df.loc[:, X_cols]
-        X_df.fillna(0)
+        X_df.fillna(0, inplace=True)
         return X_df
 
     def get_ml_cols(self, df):
@@ -51,8 +55,10 @@ class NFL_ML(Model_Parent):
     def predict_ml_model(self):
         model = keras.Sequential([
             keras.layers.Dense(256, input_shape=([177]), activation='relu'),
+            keras.layers.Dense(184, activation='relu'),
             keras.layers.Dense(128, activation='relu'),
             keras.layers.Dense(64, activation='relu'),
+            keras.layers.Dense(32, activation='relu'),
             keras.layers.Dense(2, activation='linear'),
         ])
         opt = keras.optimizers.Adam(learning_rate=0.001)
@@ -70,7 +76,11 @@ class NFL_ML(Model_Parent):
         X_df = np.array(X_df).astype(float)
         y = pd.DataFrame({'home': odds_home_ml, 'away': odds_away_ml})
         y = np.array(y).astype(float)
-        model.fit(X_df, y, epochs=100, batch_size=16)
+
+        X_train, X_test, y_train, y_test = train_test_split(X_df, y, train_size=0.8)
+
+        model.fit(X_train, y_train, epochs=100, batch_size=16, validation_data=(X_test, y_test),
+                  callbacks=[WandbCallback()])
 
         return model
 
@@ -79,4 +89,3 @@ if __name__ == '__main__':
     x = NFL_ML()
     self = x
     model = x.train_predict_ml()
-    # df = x.run()

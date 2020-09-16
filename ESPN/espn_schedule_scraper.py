@@ -4,7 +4,7 @@
 # File Created: Saturday, 5th September 2020 5:14:59 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Sunday, 6th September 2020 2:06:48 pm
+# Last Modified: Wednesday, 16th September 2020 4:44:30 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -77,6 +77,7 @@ class Schedule_Scraper:
         returns the sections of the html including the season's games
         """
         base_link = self._get_base_link(team_abbrev, year, season_type)
+        print(base_link)
         sp = get_sp1(base_link)
         time.sleep(3)
         sections = sp.find_all('tr', attrs={'class': 'filled Table__TR Table__TR--sm Table__even'})
