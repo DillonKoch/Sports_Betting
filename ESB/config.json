@@ -3,11 +3,11 @@
         "IOWA",
         "BET NOW"
     ],
-    "Scrape Panels": [
-        "Pro Football Game Lines",
-        "Pro Football Futures",
-        "NCAA FOOTBALL",
-        "NBA",
-        "NCAA Men's Basketball"
-    ]
+    "Scrape Panels": {
+        "Pro Football Game Lines": "NFL",
+        "Pro Football Futures": "NFL",
+        "NCAA FOOTBALL": "NCAAF",
+        "NBA": "NBA",
+        "NCAA Men's Basketball": "NCAAB"
+    }
 }

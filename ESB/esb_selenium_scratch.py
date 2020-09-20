@@ -4,7 +4,7 @@
 # File Created: Saturday, 12th September 2020 7:44:07 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Friday, 18th September 2020 2:32:21 pm
+# Last Modified: Friday, 18th September 2020 8:05:32 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -27,8 +27,8 @@ if ROOT_PATH not in sys.path:
 
 
 class ESB_Selenium_Scraper:
-    def __init__(self, start_link):
-        self.start_link = start_link
+    def __init__(self):
+        self.start_link = 'https://www.elitesportsbook.com/sports/home.sbk'
 
     @property
     def config(self):  # Property
@@ -37,128 +37,107 @@ class ESB_Selenium_Scraper:
         return config
 
     def _get_soup_sp(self):  # Global Helper
+        """
+        saves the selenium window's current page as a beautifulsoup object
+        """
         html = self.driver.page_source
         sp = soup(html, 'html.parser')
         return sp
 
     def reset_window(self):  # Top Level
+        """
+        takes a selenium window to the Elite Sportsbook homepage
+        """
+        time.sleep(1)
         self.driver.get(self.start_link)
         welcome_clicks = self.config['Welcome Page Clicks']
         for button in welcome_clicks:
-            time.sleep(4)
+            time.sleep(5)
             link = self.driver.find_element_by_link_text(button)
             link.click()
 
-    def find_league_dropdowns(self, sp):  # Top Level
-        accordion = sp.find_all('div', attrs={'id': 'accordion'})
-        panel_titles = accordion[0].find_all('h4', attrs={'class': 'panel-title'})
-        panel_names = [panel.get_text().strip().upper() for panel in panel_titles]
-        return panel_names
+    def get_section_pairs(self, homepage_sp):  # Top Level
+        """
+        Uses the homepage sp to find the relevant sections (main dropdowns on left side like NBA, NCAAF, etc)
+        - returns a list of tuples [("NFL", <sp>), ("NBA", <sp>), (leauge, <sp>), ...]
+        """
+        relevant_section_names = list(self.config['Scrape Panels'].keys())
+        sections = homepage_sp.find_all('div', attrs={'class': 'panel panel-primary'})
 
-        # for name in panel_names:
-        #     print(name)
-        #     link = self.driver.find_element_by_link_text(name.upper())
-        #     link.click()
-        #     time.sleep(2)
-
-    def run(self):  # Run
-        self.driver = webdriver.Firefox(executable_path=r'/home/allison/Documents/geckodriver')
-        time.sleep(2)
-        self.reset_window()
-        homepage_sp = self._get_soup_sp()
-        panel_names = self.find_league_dropdowns(homepage_sp)
-
-        for panel_name in panel_names[:1]:
-            # click the panel
-            link = self.driver.find_element_by_link_text(panel_name)
-            link.click()
-            time.sleep(3)
-
-            panel_sp = self._get_soup_sp()
-            accordion = panel_sp.find_all('div', attrs={'id': 'accordion'})
-            # ncaaf = accordion[0].find_all('div', attrs={'class':'panel-body'})[2]
-
-            # --------------
-            # link = self.driver.find_element_by_link_text("Game Lines")
-            # link.click()
-            # print('here!')
-            # --------------
-
-            # click any sub-panels
-            # click all the end bets
-            # gather all the sp's of the end bets and scrape for bets, updating df's
-
-        time.sleep(5)
-        self.driver.close()
-
-    def get_relevant_panels(self, homepage_sp):  # Top Level
-        panels = homepage_sp.find_all('div', attrs={'class': 'panel panel-primary'})
-        relevant_panels = []
-        for panel in panels:
-            title = panel.find_all('h4', attrs={'class': 'panel-title'})
+        section_pairs = []
+        for section in sections:
+            title = section.find_all('h4', attrs={'class': 'panel-title'})
             title = title[0].get_text().strip() if len(title) > 0 else None
-            if title in self.config['Scrape Panels']:
-                relevant_panels.append(panel)
-        return relevant_panels
 
-    def find_nested_dropdowns(self, panel, title):  # Top Level
-        drops = panel.find_all('a', attrs={'data-toggle': 'collapse'})
+            if title in relevant_section_names:
+                league = self.config['Scrape Panels'][title]
+                section_pairs.append((league, section))
+        return section_pairs
+
+    def find_nested_dropdowns(self, section, title):  # Top Level
+        drops = section.find_all('a', attrs={'data-toggle': 'collapse'})
         drops = [item.get_text().strip() for item in drops]
         new_drops = [drop for drop in drops if drop not in title]
         return new_drops
 
+    def get_section_title(self, sp):  # Top Level
+        title = sp.find_all('h4', attrs={'class': 'panel-title'})[0]
+        title = title.get_text().strip()
+        return title
+
+    def click_section(self, title):  # Top Level
+        time.sleep(2)
+        button = self.driver.find_element_by_link_text(title.upper())
+        button.click()
+
+    def click_nested_dropdowns(self, nested_dropdowns):  # Top Level
+        # self.driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+        # fails = 0
+        # while fails < 2:
+        #     try:
+        for nd in nested_dropdowns:
+            time.sleep(3)
+            button = self.driver.find_element_by_link_text(nd)
+            button.click()
+            # except BaseException:
+            #     print('FAIL')
+            #     fails += 1
+
+    def get_events(self, sp):  # Top Level
+        events = sp.find_all('a', attrs={'class': 'ev'})
+        events = [item.get_text().strip() for item in events]
+        return events
+
+    def click_event(self, event):  # Top Level
+        button = self.driver.find_element_by_link_text(event)
+        button.click()
+        time.sleep(3)
+
     def run(self):  # Run
         self.driver = webdriver.Firefox(executable_path=r'/home/allison/Documents/geckodriver')
-        time.sleep(5)
         self.reset_window()
         homepage_sp = self._get_soup_sp()
 
-        final_sps = []
-        panels = self.get_relevant_panels(homepage_sp)
-        for panel in panels:
-            time.sleep(3)
-            title = panel.find_all('h4', attrs={'class': 'panel-title'})[0].get_text().strip()
-            print('title', title)
-            button = self.driver.find_element_by_link_text(title.upper())
-            button.click()
-            time.sleep(3)
+        section_pairs = self.get_section_pairs(homepage_sp)
+        for section_pair in section_pairs:
+            league, sp = section_pair
+            title = self.get_section_title(sp)
+            self.click_section(title)
+            nested_dropdowns = self.find_nested_dropdowns(sp, title)
+            self.click_nested_dropdowns(nested_dropdowns)
 
-            nested_dropdowns = self.find_nested_dropdowns(panel, title)
-            for nd in nested_dropdowns:
-                button = self.driver.find_element_by_link_text(nd)
-                button.click()
-                time.sleep(3)
-
-            events = panel.find_all('a', attrs={'class': 'ev'})
-            events = [item.get_text().strip() for item in events]
+            events = self.get_events(sp)
             for event in events:
-                button = self.driver.find_element_by_link_text(event)
-                button.click()
-                time.sleep(3)
-
-                current_sp = self._get_soup_sp()
-                final_sps.append((title, event, current_sp))
+                self.click_event(event)
+                event_sp = self._get_soup_sp()
+                # self.scraper.run(league, event_sp)
+                print('running scraper for league {}'.format(league))
 
         time.sleep(5)
         self.driver.close()
 
-    # def run(self):  # Run
-    #     link = 'https://www.elitesportsbook.com/sports/home.sbk'
-    #     links_to_click = ['IOWA', 'BET NOW']
-    #     s = Selenium_Scraper(link, links_to_click)
-    #     s.run(close=False)
-    #     sp = s.driver.page_source
-    #     sp = soup(sp, 'html.parser')
 
-    #     s.driver.get(link)
-    #     time.sleep(10)
-
-    #     accordion = sp.find_all('div', attrs={'id': 'accordion'})
-    #     top_accordions = accordion[0].find_all('a', attrs={'class': 'topAccordion'})
-    #     for ta in top_accordions:
-    #         print(ta.get_text())
 if __name__ == '__main__':
-    link = 'https://www.elitesportsbook.com/sports/home.sbk'
-    x = ESB_Selenium_Scraper(link)
+    x = ESB_Selenium_Scraper()
     self = x
     # x.run()
