@@ -4,7 +4,7 @@
 # File Created: Thursday, 3rd September 2020 4:27:12 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Thursday, 3rd September 2020 8:25:36 pm
+# Last Modified: Tuesday, 22nd September 2020 3:11:37 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -24,9 +24,6 @@ import pandas as pd
 ROOT_PATH = dirname(dirname(abspath(__file__)))
 if ROOT_PATH not in sys.path:
     sys.path.append(ROOT_PATH)
-
-
-drop_cols = ['datetime', 'Home', "Away"]
 
 
 def _split_old_df(old_df, drop_cols):
