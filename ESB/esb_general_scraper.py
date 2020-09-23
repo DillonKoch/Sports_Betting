@@ -4,7 +4,7 @@
 # File Created: Friday, 18th September 2020 3:00:34 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Tuesday, 22nd September 2020 4:31:16 pm
+# Last Modified: Tuesday, 22nd September 2020 8:09:18 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -413,8 +413,8 @@ class ESB_General_Scraper:
         path = ROOT_PATH + f"/ESB/Data/{self.league}/{bet_type}.csv"
         try:
             df = pd.read_csv(path)
-            if 'Odds' in list(df.columns):
-                df['Odds'] = df['Odds'].astype(float)
+            # if 'Odds' in list(df.columns):
+            #     df['Odds'] = df['Odds'].astype(float)
             if 'datetime' in list(df.columns):
                 df['datetime'] = pd.to_datetime(df['datetime'])
         except FileNotFoundError:
