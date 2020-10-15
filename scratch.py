@@ -39,6 +39,7 @@ for league in leagues:
 
     cols = ['Title', 'Description', 'Bet']
     for col in cols:
+        df[col] = df[col].astype(str)
         vals = list(df[col])
         new_vals = [val.replace('\n', '').replace('\t', '') for val in vals]
         df[col] = pd.Series(new_vals)

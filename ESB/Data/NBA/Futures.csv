@@ -29,15 +29,9 @@ Title,Description,Bet,Odds,scraped_ts
 2020 Western Conference,"2020 NBA Westen Conference - Odds To Win - December 31, 2020 08:00 CST ",Phoenix Suns,27500,2020-06-23 17:04
 2020 Western Conference,"2020 NBA Westen Conference - Odds To Win - December 31, 2020 08:00 CST ",Los Angeles Lakers,120,2020-07-14 08:12
 2020 Western Conference,"2020 NBA Westen Conference - Odds To Win - December 31, 2020 08:00 CST ",Houston Rockets,800,2020-07-14 08:12
-2020 NBA Championship,"2020 NBA Championship - Odds to Win
-							- December 31, 2020 19:00 CST
-",Portland Blazers,9000,2020-08-11 16:10
-2020 NBA Championship,"2020 NBA Championship - Odds to Win
-							- December 31, 2020 19:00 CST
-",Portland Blazers,5000,2020-08-18 09:12
-2020 Western Conference,"2020 NBA Westen Conference - Odds To Win
-							- December 31, 2020 08:00 CST
-",Portland Trail Blazers,2800,2020-08-18 09:12
+2020 NBA Championship,"2020 NBA Championship - Odds to Win- December 31, 2020 19:00 CST",Portland Blazers,9000,2020-08-11 16:10
+2020 NBA Championship,"2020 NBA Championship - Odds to Win- December 31, 2020 19:00 CST",Portland Blazers,5000,2020-08-18 09:12
+2020 Western Conference,"2020 NBA Westen Conference - Odds To Win- December 31, 2020 08:00 CST",Portland Trail Blazers,2800,2020-08-18 09:12
 Playoff Series Prices,,Orlando Magic,3000,2020-08-18 11:04
 Playoff Series Prices,,Milwaukee Bucks,-10000,2020-08-18 11:04
 Playoff Series Prices,,Houston Rockets,-150,2020-08-18 11:04
@@ -415,57 +409,23 @@ NBA Exact Series Result,"Exact Series Result | Heat vs Celtics- September 25, 20
 2020 Western Conference,"2020 NBA Westen Conference - Odds To Win - December 31, 2020 08:00 CST ",Memphis Grizzlies,10000,2020-08-03 20:31
 2020 Western Conference,"2020 NBA Westen Conference - Odds To Win - December 31, 2020 08:00 CST ",Sacramento Kings,15000,2020-08-03 20:31
 2020 Western Conference,"2020 NBA Westen Conference - Odds To Win - December 31, 2020 08:00 CST ",Phoenix Suns,25000,2020-08-03 20:31
-2020 Eastern Conference,"2020 NBA Eastern Conference - Odds To Win
-							- December 31, 2020 08:00 CST
-",Boston Celtics,350,2020-08-08 08:52
-2020 NBA Championship,"2020 NBA Championship - Odds to Win
-							- December 31, 2020 19:00 CST
-",Toronto Raptors,1500,2020-08-11 16:10
-2020 NBA Championship,"2020 NBA Championship - Odds to Win
-							- December 31, 2020 19:00 CST
-",Philadelphia 76ers,3000,2020-08-11 16:10
-2020 NBA Championship,"2020 NBA Championship - Odds to Win
-							- December 31, 2020 19:00 CST
-",Dallas Mavericks,4000,2020-08-11 16:10
-2020 NBA Championship,"2020 NBA Championship - Odds to Win
-							- December 31, 2020 19:00 CST
-",Oklahoma City Thunder,9000,2020-08-11 16:10
-2020 NBA Championship,"2020 NBA Championship - Odds to Win
-							- December 31, 2020 19:00 CST
-",Indiana Pacers,10000,2020-08-11 16:10
-2020 NBA Championship,"2020 NBA Championship - Odds to Win
-							- December 31, 2020 19:00 CST
-",Memphis Grizzlies,20000,2020-08-11 16:10
-2020 NBA Championship,"2020 NBA Championship - Odds to Win
-							- December 31, 2020 19:00 CST
-",Phoenix Suns,30000,2020-08-11 16:10
-2020 NBA Championship,"2020 NBA Championship - Odds to Win
-							- December 31, 2020 19:00 CST
-",San Antonio Spurs,30000,2020-08-11 16:10
-2020 Eastern Conference,"2020 NBA Eastern Conference - Odds To Win
-							- December 31, 2020 08:00 CST
-",Toronto Raptors,350,2020-08-11 16:11
-2020 Eastern Conference,"2020 NBA Eastern Conference - Odds To Win
-							- December 31, 2020 08:00 CST
-",Philadelphia 76ers,1800,2020-08-11 16:11
-2020 Eastern Conference,"2020 NBA Eastern Conference - Odds To Win
-							- December 31, 2020 08:00 CST
-",Indiana Pacers,6000,2020-08-11 16:11
-2020 Eastern Conference,"2020 NBA Eastern Conference - Odds To Win
-							- December 31, 2020 08:00 CST
-",Orlando Magic,10000,2020-08-11 16:11
-2020 Eastern Conference,"2020 NBA Eastern Conference - Odds To Win
-							- December 31, 2020 08:00 CST
-",Brooklyn Nets,15000,2020-08-11 16:11
-2020 Western Conference,"2020 NBA Westen Conference - Odds To Win
-							- December 31, 2020 08:00 CST
-",Oklahoma City Thunder,4000,2020-08-18 09:12
-2020 NBA Championship,"2020 NBA Championship - Odds to Win
-							- December 31, 2020 19:00 CST
-",Portland Blazers,3500,2020-08-19 07:15
-2020 Western Conference,"2020 NBA Westen Conference - Odds To Win
-							- December 31, 2020 08:00 CST
-",Portland Trail Blazers,2200,2020-08-19 07:16
+2020 Eastern Conference,"2020 NBA Eastern Conference - Odds To Win- December 31, 2020 08:00 CST",Boston Celtics,350,2020-08-08 08:52
+2020 NBA Championship,"2020 NBA Championship - Odds to Win- December 31, 2020 19:00 CST",Toronto Raptors,1500,2020-08-11 16:10
+2020 NBA Championship,"2020 NBA Championship - Odds to Win- December 31, 2020 19:00 CST",Philadelphia 76ers,3000,2020-08-11 16:10
+2020 NBA Championship,"2020 NBA Championship - Odds to Win- December 31, 2020 19:00 CST",Dallas Mavericks,4000,2020-08-11 16:10
+2020 NBA Championship,"2020 NBA Championship - Odds to Win- December 31, 2020 19:00 CST",Oklahoma City Thunder,9000,2020-08-11 16:10
+2020 NBA Championship,"2020 NBA Championship - Odds to Win- December 31, 2020 19:00 CST",Indiana Pacers,10000,2020-08-11 16:10
+2020 NBA Championship,"2020 NBA Championship - Odds to Win- December 31, 2020 19:00 CST",Memphis Grizzlies,20000,2020-08-11 16:10
+2020 NBA Championship,"2020 NBA Championship - Odds to Win- December 31, 2020 19:00 CST",Phoenix Suns,30000,2020-08-11 16:10
+2020 NBA Championship,"2020 NBA Championship - Odds to Win- December 31, 2020 19:00 CST",San Antonio Spurs,30000,2020-08-11 16:10
+2020 Eastern Conference,"2020 NBA Eastern Conference - Odds To Win- December 31, 2020 08:00 CST",Toronto Raptors,350,2020-08-11 16:11
+2020 Eastern Conference,"2020 NBA Eastern Conference - Odds To Win- December 31, 2020 08:00 CST",Philadelphia 76ers,1800,2020-08-11 16:11
+2020 Eastern Conference,"2020 NBA Eastern Conference - Odds To Win- December 31, 2020 08:00 CST",Indiana Pacers,6000,2020-08-11 16:11
+2020 Eastern Conference,"2020 NBA Eastern Conference - Odds To Win- December 31, 2020 08:00 CST",Orlando Magic,10000,2020-08-11 16:11
+2020 Eastern Conference,"2020 NBA Eastern Conference - Odds To Win- December 31, 2020 08:00 CST",Brooklyn Nets,15000,2020-08-11 16:11
+2020 Western Conference,"2020 NBA Westen Conference - Odds To Win- December 31, 2020 08:00 CST",Oklahoma City Thunder,4000,2020-08-18 09:12
+2020 NBA Championship,"2020 NBA Championship - Odds to Win- December 31, 2020 19:00 CST",Portland Blazers,3500,2020-08-19 07:15
+2020 Western Conference,"2020 NBA Westen Conference - Odds To Win- December 31, 2020 08:00 CST",Portland Trail Blazers,2200,2020-08-19 07:16
 Playoff Series Prices,,Brooklyn Nets,3000,2020-08-19 07:18
 Playoff Series Prices,,Orlando Magic,1500,2020-08-19 07:18
 NBA Exact Series Result,"Exact Series Result | Jazz vs Nuggets- August 30, 2020 22:00 CDT",Nuggets in 4 Games,300,2020-08-19 11:32
