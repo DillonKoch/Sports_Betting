@@ -4,7 +4,7 @@
 # File Created: Tuesday, 22nd September 2020 8:15:40 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Tuesday, 22nd September 2020 8:28:38 pm
+# Last Modified: Tuesday, 22nd September 2020 8:32:26 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -47,12 +47,15 @@ class WH_Selenium_Navigator:
 
     def run(self):  # Run
         self.driver = webdriver.Firefox(executable_path=r'/home/allison/Documents/geckodriver')
+        self.reset_window()
 
         homepage_sp = self._get_soup_sp()
         sidebars = homepage_sp.find_all('div', attrs={'class': 'sideNavigation'})
+
+        football_button = self.driver.find_element_by_link_text("Football")
 
 
 if __name__ == '__main__':
     x = WH_Selenium_Navigator()
     self = x
-    x.run()
+    # x.run()

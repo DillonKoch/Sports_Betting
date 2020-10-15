@@ -4,7 +4,7 @@
 # File Created: Friday, 18th September 2020 3:00:34 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Tuesday, 22nd September 2020 8:09:18 pm
+# Last Modified: Thursday, 24th September 2020 8:57:42 am
 # Modified By: Dillon Koch
 # -----
 #
@@ -141,12 +141,14 @@ class ESB_General_Scraper:
         """
         finds the home and away teams in an event
         """
-        away = event.find_all('span', attrs={'id': 'firstTeamName'})
+        away = event.find_all('span', attrs={'id': ['firstTeamName', 'awayTeamName']})
         away = away[0].get_text()
-        home = event.find_all('span', attrs={'id': 'secondTeamName'})
+        home = event.find_all('span', attrs={'id': ['secondTeamName', 'homeTeamName']})
         home = home[0].get_text()
+        tie = event.find_all('span', attrs={'id': 'tie'})
+        tie = tie[0].get_text() if len(tie) > 0 else None
         # TODO assert these are in valid league teams
-        return home, away
+        return home, away, tie
 
     def _moneylines(self, event):  # Helping Helper _date_event_to_row
         """
