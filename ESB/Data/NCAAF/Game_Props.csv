@@ -1,106 +1,160 @@
 datetime,Game_Time,Home,Away,Title,Description,Bet,Spread/overunder,Odds,scraped_ts
 2020-09-24,18:30 CDT,South Alabama,UAB,1st Half,UAB vs South Alabama | 1st Half Lines,South Alabama,,185.0,2020-09-22 15:22
-2020-09-24,18:30 CDT,South Alabama,UAB,1st Half,UAB vs South Alabama | 1st Half Lines,UAB,,-225.0,2020-09-22 15:22
-2020-09-26,11:00 CDT,Syracuse,Georgia Tech,1st Half,Georgia Tech vs Syracuse | 1st Half Lines,Syracuse,,190.0,2020-09-22 15:22
-2020-09-26,11:00 CDT,Syracuse,Georgia Tech,1st Half,Georgia Tech vs Syracuse | 1st Half Lines,Georgia Tech,,-230.0,2020-09-22 15:22
-2020-09-26,11:00 CDT,Pittsburgh U,Louisville,1st Half,Louisville vs Pittsburgh U | 1st Half Lines,Pittsburgh U,,-130.0,2020-09-22 15:22
-2020-09-26,11:00 CDT,Pittsburgh U,Louisville,1st Half,Louisville vs Pittsburgh U | 1st Half Lines,Louisville,,110.0,2020-09-22 15:22
-2020-09-26,11:00 CDT,Mississippi,Florida,1st Half,Florida vs Mississippi | 1st Half Lines,Mississippi,,375.0,2020-09-22 15:22
-2020-09-26,11:00 CDT,Mississippi,Florida,1st Half,Florida vs Mississippi | 1st Half Lines,Florida,,-500.0,2020-09-22 15:22
-2020-09-26,11:00 CDT,UL Lafayette,Georgia Southern,1st Half,Georgia Southern vs UL Lafayette | 1st Half Lines,UL Lafayette,,-450.0,2020-09-22 15:22
-2020-09-26,11:00 CDT,UL Lafayette,Georgia Southern,1st Half,Georgia Southern vs UL Lafayette | 1st Half Lines,Georgia Southern,,350.0,2020-09-22 15:22
-2020-09-26,11:00 CDT,Auburn,Kentucky,1st Half,Kentucky vs Auburn | 1st Half Lines,Auburn,,-250.0,2020-09-22 15:22
-2020-09-26,11:00 CDT,Auburn,Kentucky,1st Half,Kentucky vs Auburn | 1st Half Lines,Kentucky,,210.0,2020-09-22 15:22
-2020-09-26,12:00 CDT,Liberty,Florida Intl,1st Half,Florida Intl vs Liberty | 1st Half Lines,Liberty,,-200.0,2020-09-22 15:22
-2020-09-26,12:00 CDT,Liberty,Florida Intl,1st Half,Florida Intl vs Liberty | 1st Half Lines,Florida Intl,,170.0,2020-09-22 15:22
-2020-09-26,13:30 CDT,Southern Miss,Tulane,1st Half,Tulane vs Southern Miss | 1st Half Lines,Southern Miss,,125.0,2020-09-22 15:22
-2020-09-26,13:30 CDT,Southern Miss,Tulane,1st Half,Tulane vs Southern Miss | 1st Half Lines,Tulane,,-145.0,2020-09-22 15:22
-2020-09-26,14:30 CDT,Texas Tech,Texas,1st Half,Texas vs Texas Tech | 1st Half Lines,Texas Tech,,450.0,2020-09-22 15:22
-2020-09-26,14:30 CDT,Texas Tech,Texas,1st Half,Texas vs Texas Tech | 1st Half Lines,Texas,,-600.0,2020-09-22 15:22
-2020-09-26,14:30 CDT,LSU,Mississippi St,1st Half,Mississippi St vs LSU | 1st Half Lines,LSU,,-550.0,2020-09-22 15:22
-2020-09-26,14:30 CDT,LSU,Mississippi St,1st Half,Mississippi St vs LSU | 1st Half Lines,Mississippi St,,400.0,2020-09-22 15:22
-2020-09-26,14:30 CDT,Cincinnati,Army,1st Half,Army vs Cincinnati | 1st Half Lines,Cincinnati,,-420.0,2020-09-22 15:22
-2020-09-26,14:30 CDT,Cincinnati,Army,1st Half,Army vs Cincinnati | 1st Half Lines,Army,,340.0,2020-09-22 15:22
-2020-09-26,14:30 CDT,UL Monroe,UTEP,1st Half,UTEP vs UL Monroe | 1st Half Lines,UL Monroe,,-300.0,2020-09-22 15:22
-2020-09-26,14:30 CDT,UL Monroe,UTEP,1st Half,UTEP vs UL Monroe | 1st Half Lines,UTEP,,250.0,2020-09-22 15:22
-2020-09-26,15:00 CDT,Virginia,Duke,1st Half,Duke vs Virginia | 1st Half Lines,Virginia,,-175.0,2020-09-22 15:22
-2020-09-26,15:00 CDT,Virginia,Duke,1st Half,Duke vs Virginia | 1st Half Lines,Duke,,155.0,2020-09-22 15:22
-2020-09-26,17:00 CDT,Florida Atlantic,South Florida,1st Half,South Florida vs Florida Atlantic | 1st Half Lines,Florida Atlantic,,-135.0,2020-09-22 15:22
-2020-09-26,17:00 CDT,Florida Atlantic,South Florida,1st Half,South Florida vs Florida Atlantic | 1st Half Lines,South Florida,,115.0,2020-09-22 15:22
-2020-09-26,17:00 CDT,Boston College,Texas State,1st Half,Texas State vs Boston College | 1st Half Lines,Boston College,,-575.0,2020-09-22 15:22
-2020-09-26,17:00 CDT,Boston College,Texas State,1st Half,Texas State vs Boston College | 1st Half Lines,Texas State,,425.0,2020-09-22 15:22
-2020-09-26,18:30 CDT,Miami Florida,Florida State,1st Half,Florida State vs Miami Florida | 1st Half Lines,Miami Florida,,-325.0,2020-09-22 15:22
-2020-09-26,18:30 CDT,Miami Florida,Florida State,1st Half,Florida State vs Miami Florida | 1st Half Lines,Florida State,,265.0,2020-09-22 15:22
-2020-09-26,18:30 CDT,South Carolina,Tennessee U,1st Half,Tennessee U vs South Carolina | 1st Half Lines,South Carolina,,130.0,2020-09-22 15:22
-2020-09-26,18:30 CDT,South Carolina,Tennessee U,1st Half,Tennessee U vs South Carolina | 1st Half Lines,Tennessee U,,-150.0,2020-09-22 15:22
-2020-09-26,18:30 CDT,Baylor,Kansas,1st Half,Kansas vs Baylor | 1st Half Lines,Baylor,,-550.0,2020-09-22 15:22
-2020-09-26,18:30 CDT,Baylor,Kansas,1st Half,Kansas vs Baylor | 1st Half Lines,Kansas,,400.0,2020-09-22 15:22
-2020-09-26,19:00 CDT,Virginia Tech,NC State,1st Half,NC State vs Virginia Tech | 1st Half Lines,Virginia Tech,,-200.0,2020-09-22 15:22
-2020-09-26,19:00 CDT,Virginia Tech,NC State,1st Half,NC State vs Virginia Tech | 1st Half Lines,NC State,,170.0,2020-09-22 15:22
-2020-09-26,21:15 CDT,BYU,Troy,1st Half,Troy vs BYU | 1st Half Lines,BYU,,-420.0,2020-09-22 15:22
-2020-09-26,21:15 CDT,BYU,Troy,1st Half,Troy vs BYU | 1st Half Lines,Troy,,340.0,2020-09-22 15:22
-2020-09-24,18:30 CDT,South Alabama,UAB,1st Half,UAB vs South Alabama | 1st Half Lines,South Alabama,4.0,-115.0,2020-09-22 15:22
-2020-09-24,18:30 CDT,South Alabama,UAB,1st Half,UAB vs South Alabama | 1st Half Lines,UAB,-4.0,-105.0,2020-09-22 15:22
-2020-09-26,11:00 CDT,Syracuse,Georgia Tech,1st Half,Georgia Tech vs Syracuse | 1st Half Lines,Syracuse,4.0,-105.0,2020-09-22 15:22
-2020-09-26,11:00 CDT,Syracuse,Georgia Tech,1st Half,Georgia Tech vs Syracuse | 1st Half Lines,Georgia Tech,-4.0,-115.0,2020-09-22 15:22
-2020-09-26,11:00 CDT,Pittsburgh U,Louisville,1st Half,Louisville vs Pittsburgh U | 1st Half Lines,Pittsburgh U,-1.5,100.0,2020-09-22 15:22
-2020-09-26,11:00 CDT,Pittsburgh U,Louisville,1st Half,Louisville vs Pittsburgh U | 1st Half Lines,Louisville,1.5,-120.0,2020-09-22 15:22
-2020-09-26,11:00 CDT,Mississippi,Florida,1st Half,Florida vs Mississippi | 1st Half Lines,Mississippi,9.0,-120.0,2020-09-22 15:22
-2020-09-26,11:00 CDT,Mississippi,Florida,1st Half,Florida vs Mississippi | 1st Half Lines,Florida,-9.0,100.0,2020-09-22 15:22
-2020-09-26,11:00 CDT,UL Lafayette,Georgia Southern,1st Half,Georgia Southern vs UL Lafayette | 1st Half Lines,UL Lafayette,-7.0,-120.0,2020-09-22 15:22
-2020-09-26,11:00 CDT,UL Lafayette,Georgia Southern,1st Half,Georgia Southern vs UL Lafayette | 1st Half Lines,Georgia Southern,7.0,100.0,2020-09-22 15:22
-2020-09-26,11:00 CDT,Auburn,Kentucky,1st Half,Kentucky vs Auburn | 1st Half Lines,Auburn,-4.0,-120.0,2020-09-22 15:22
-2020-09-26,11:00 CDT,Auburn,Kentucky,1st Half,Kentucky vs Auburn | 1st Half Lines,Kentucky,4.0,100.0,2020-09-22 15:22
-2020-09-26,12:00 CDT,Liberty,Florida Intl,1st Half,Florida Intl vs Liberty | 1st Half Lines,Liberty,-3.5,-105.0,2020-09-22 15:22
-2020-09-26,12:00 CDT,Liberty,Florida Intl,1st Half,Florida Intl vs Liberty | 1st Half Lines,Florida Intl,3.5,-115.0,2020-09-22 15:22
-2020-09-26,13:30 CDT,Southern Miss,Tulane,1st Half,Tulane vs Southern Miss | 1st Half Lines,Southern Miss,1.5,-105.0,2020-09-22 15:22
-2020-09-26,13:30 CDT,Southern Miss,Tulane,1st Half,Tulane vs Southern Miss | 1st Half Lines,Tulane,-1.5,-115.0,2020-09-22 15:22
-2020-09-26,14:30 CDT,Texas Tech,Texas,1st Half,Texas vs Texas Tech | 1st Half Lines,Texas Tech,10.0,-110.0,2020-09-22 15:22
-2020-09-26,14:30 CDT,Texas Tech,Texas,1st Half,Texas vs Texas Tech | 1st Half Lines,Texas,-10.0,-110.0,2020-09-22 15:22
-2020-09-26,14:30 CDT,LSU,Mississippi St,1st Half,Mississippi St vs LSU | 1st Half Lines,LSU,-9.0,-110.0,2020-09-22 15:22
-2020-09-26,14:30 CDT,LSU,Mississippi St,1st Half,Mississippi St vs LSU | 1st Half Lines,Mississippi St,9.0,-110.0,2020-09-22 15:22
-2020-09-26,14:30 CDT,Cincinnati,Army,1st Half,Army vs Cincinnati | 1st Half Lines,Cincinnati,-7.5,-115.0,2020-09-22 15:22
-2020-09-26,14:30 CDT,Cincinnati,Army,1st Half,Army vs Cincinnati | 1st Half Lines,Army,7.5,-105.0,2020-09-22 15:22
-2020-09-26,14:30 CDT,UL Monroe,UTEP,1st Half,UTEP vs UL Monroe | 1st Half Lines,UL Monroe,-5.5,-110.0,2020-09-22 15:22
-2020-09-26,14:30 CDT,UL Monroe,UTEP,1st Half,UTEP vs UL Monroe | 1st Half Lines,UTEP,5.5,-110.0,2020-09-22 15:22
-2020-09-26,15:00 CDT,Virginia,Duke,1st Half,Duke vs Virginia | 1st Half Lines,Virginia,-3.0,-110.0,2020-09-22 15:22
-2020-09-26,15:00 CDT,Virginia,Duke,1st Half,Duke vs Virginia | 1st Half Lines,Duke,3.0,-110.0,2020-09-22 15:22
-2020-09-26,17:00 CDT,Florida Atlantic,South Florida,1st Half,South Florida vs Florida Atlantic | 1st Half Lines,Florida Atlantic,-1.5,-110.0,2020-09-22 15:22
-2020-09-26,17:00 CDT,Florida Atlantic,South Florida,1st Half,South Florida vs Florida Atlantic | 1st Half Lines,South Florida,1.5,-110.0,2020-09-22 15:22
-2020-09-26,17:00 CDT,Boston College,Texas State,1st Half,Texas State vs Boston College | 1st Half Lines,Boston College,-10.0,-110.0,2020-09-22 15:22
-2020-09-26,17:00 CDT,Boston College,Texas State,1st Half,Texas State vs Boston College | 1st Half Lines,Texas State,10.0,-110.0,2020-09-22 15:22
-2020-09-26,18:30 CDT,Miami Florida,Florida State,1st Half,Florida State vs Miami Florida | 1st Half Lines,Miami Florida,-6.5,-120.0,2020-09-22 15:22
-2020-09-26,18:30 CDT,Miami Florida,Florida State,1st Half,Florida State vs Miami Florida | 1st Half Lines,Florida State,6.5,100.0,2020-09-22 15:22
-2020-09-26,18:30 CDT,South Carolina,Tennessee U,1st Half,Tennessee U vs South Carolina | 1st Half Lines,South Carolina,2.5,-110.0,2020-09-22 15:22
-2020-09-26,18:30 CDT,South Carolina,Tennessee U,1st Half,Tennessee U vs South Carolina | 1st Half Lines,Tennessee U,-2.5,-110.0,2020-09-22 15:22
-2020-09-26,18:30 CDT,Baylor,Kansas,1st Half,Kansas vs Baylor | 1st Half Lines,Baylor,-9.5,-110.0,2020-09-22 15:22
-2020-09-26,18:30 CDT,Baylor,Kansas,1st Half,Kansas vs Baylor | 1st Half Lines,Kansas,9.5,-110.0,2020-09-22 15:22
-2020-09-26,19:00 CDT,Virginia Tech,NC State,1st Half,NC State vs Virginia Tech | 1st Half Lines,Virginia Tech,-3.5,-120.0,2020-09-22 15:22
-2020-09-26,19:00 CDT,Virginia Tech,NC State,1st Half,NC State vs Virginia Tech | 1st Half Lines,NC State,3.5,100.0,2020-09-22 15:22
-2020-09-26,21:15 CDT,BYU,Troy,1st Half,Troy vs BYU | 1st Half Lines,BYU,-7.5,-120.0,2020-09-22 15:22
+2020-09-26,18:30 CDT,Baylor,Kansas,1st Half,Kansas vs Baylor | 1st Half Lines,Over,31.0,-110.0,2020-09-22 15:22
+2020-09-26,18:30 CDT,Miami Florida,Florida State,1st Half,Florida State vs Miami Florida | 1st Half Lines,Under,28.0,-110.0,2020-09-22 15:22
+2020-09-26,18:30 CDT,Miami Florida,Florida State,1st Half,Florida State vs Miami Florida | 1st Half Lines,Over,28.0,-110.0,2020-09-22 15:22
+2020-09-26,18:00 CDT,Houston,North Texas,1st Half,North Texas vs Houston | 1st Half Lines,Under,37.0,-110.0,2020-09-22 15:22
+2020-09-26,18:00 CDT,Houston,North Texas,1st Half,North Texas vs Houston | 1st Half Lines,Over,37.0,-110.0,2020-09-22 15:22
+2020-09-26,18:00 CDT,Houston,North Texas,1st Half,North Texas vs Houston | 1st Half Lines,North Texas,13.0,-120.0,2020-09-22 15:22
+2020-09-26,18:00 CDT,Houston,North Texas,1st Half,North Texas vs Houston | 1st Half Lines,Houston,-13.0,100.0,2020-09-22 15:22
+2020-09-26,18:00 CDT,Missouri,Alabama,1st Half,Alabama vs Missouri | 1st Half Lines,Under,30.0,-110.0,2020-09-22 15:22
+2020-09-26,18:00 CDT,Missouri,Alabama,1st Half,Alabama vs Missouri | 1st Half Lines,Over,30.0,-110.0,2020-09-22 15:22
+2020-09-26,18:00 CDT,Missouri,Alabama,1st Half,Alabama vs Missouri | 1st Half Lines,Alabama,-15.5,-110.0,2020-09-22 15:22
+2020-09-26,18:00 CDT,Missouri,Alabama,1st Half,Alabama vs Missouri | 1st Half Lines,Missouri,15.5,-110.0,2020-09-22 15:22
+2020-09-26,17:00 CDT,Boston College,Texas State,1st Half,Texas State vs Boston College | 1st Half Lines,Under,29.5,-110.0,2020-09-22 15:22
+2020-09-26,17:00 CDT,Boston College,Texas State,1st Half,Texas State vs Boston College | 1st Half Lines,Over,29.5,-110.0,2020-09-22 15:22
+2020-09-26,17:00 CDT,Florida Atlantic,South Florida,1st Half,South Florida vs Florida Atlantic | 1st Half Lines,Under,24.0,100.0,2020-09-22 15:22
+2020-09-26,17:00 CDT,Florida Atlantic,South Florida,1st Half,South Florida vs Florida Atlantic | 1st Half Lines,Over,24.0,-120.0,2020-09-22 15:22
+2020-09-26,18:30 CDT,Baylor,Kansas,1st Half,Kansas vs Baylor | 1st Half Lines,Under,31.0,-110.0,2020-09-22 15:22
+2020-09-26,18:30 CDT,Texas A&M,Vanderbilt,1st Half,Vanderbilt vs Texas A&M | 1st Half Lines,Texas A&M,-17.5,-110.0,2020-09-22 15:22
+2020-09-26,18:30 CDT,Texas A&M,Vanderbilt,1st Half,Vanderbilt vs Texas A&M | 1st Half Lines,Vanderbilt,17.5,-110.0,2020-09-22 15:22
+2020-09-26,18:30 CDT,Texas A&M,Vanderbilt,1st Half,Vanderbilt vs Texas A&M | 1st Half Lines,Over,26.5,-110.0,2020-09-22 15:22
+2020-09-24,18:30 CDT,South Alabama,UAB,1st Half,UAB vs South Alabama | 1st Half Lines,Over,24.0,100.0,2020-09-22 15:22
+2020-09-26,12:30 CDT,TCU,Iowa State,1st Half,Iowa State vs TCU | 1st Half Lines,TCU,0.5,-105.0,2020-09-22 15:22
+2020-09-26,12:30 CDT,TCU,Iowa State,1st Half,Iowa State vs TCU | 1st Half Lines,Iowa State,-0.5,-115.0,2020-09-22 15:22
+2020-09-26,12:30 CDT,TCU,Iowa State,1st Half,Iowa State vs TCU | 1st Half Lines,Over,23.0,100.0,2020-09-22 15:22
+2020-09-26,12:30 CDT,TCU,Iowa State,1st Half,Iowa State vs TCU | 1st Half Lines,Under,23.0,-120.0,2020-09-22 15:22
+2020-09-26,14:30 CDT,UL Monroe,UTEP,1st Half,UTEP vs UL Monroe | 1st Half Lines,Over,25.0,-110.0,2020-09-22 15:22
+2020-09-26,14:30 CDT,UL Monroe,UTEP,1st Half,UTEP vs UL Monroe | 1st Half Lines,Under,25.0,-110.0,2020-09-22 15:22
+2020-09-26,15:00 CDT,Arkansas,Georgia,1st Half,Georgia vs Arkansas | 1st Half Lines,Under,28.0,-110.0,2020-09-22 15:22
+2020-09-26,15:00 CDT,Virginia,Duke,1st Half,Duke vs Virginia | 1st Half Lines,Over,23.5,-110.0,2020-09-22 15:22
+2020-09-26,18:30 CDT,South Carolina,Tennessee U,1st Half,Tennessee U vs South Carolina | 1st Half Lines,Over,21.5,-120.0,2020-09-22 15:22
+2020-09-26,18:30 CDT,South Carolina,Tennessee U,1st Half,Tennessee U vs South Carolina | 1st Half Lines,Under,21.5,100.0,2020-09-22 15:22
+2020-09-26,21:15 CDT,BYU,Troy,1st Half,Troy vs BYU | 1st Half Lines,Under,31.0,-110.0,2020-09-22 15:22
+2020-09-26,21:15 CDT,BYU,Troy,1st Half,Troy vs BYU | 1st Half Lines,Over,31.0,-110.0,2020-09-22 15:22
+2020-09-26,19:00 CDT,Virginia Tech,NC State,1st Half,NC State vs Virginia Tech | 1st Half Lines,Under,28.5,-120.0,2020-09-22 15:22
+2020-09-26,19:00 CDT,Virginia Tech,NC State,1st Half,NC State vs Virginia Tech | 1st Half Lines,Over,28.5,100.0,2020-09-22 15:22
+2020-09-26,18:30 CDT,Texas A&M,Vanderbilt,1st Half,Vanderbilt vs Texas A&M | 1st Half Lines,Under,26.5,-110.0,2020-09-22 15:22
+2020-09-26,15:00 CDT,Virginia,Duke,1st Half,Duke vs Virginia | 1st Half Lines,Under,23.5,-110.0,2020-09-22 15:22
+2020-09-26,15:00 CDT,Arkansas,Georgia,1st Half,Georgia vs Arkansas | 1st Half Lines,Over,28.0,-110.0,2020-09-22 15:22
+2020-09-26,15:00 CDT,Arkansas,Georgia,1st Half,Georgia vs Arkansas | 1st Half Lines,Georgia,-14.5,-110.0,2020-09-22 15:22
+2020-09-26,15:00 CDT,Arkansas,Georgia,1st Half,Georgia vs Arkansas | 1st Half Lines,Arkansas,14.5,-110.0,2020-09-22 15:22
+2020-09-26,11:00 CDT,UL Lafayette,Georgia Southern,1st Half,Georgia Southern vs UL Lafayette | 1st Half Lines,Under,27.0,-110.0,2020-09-22 15:22
+2020-09-26,11:00 CDT,UL Lafayette,Georgia Southern,1st Half,Georgia Southern vs UL Lafayette | 1st Half Lines,Over,27.0,-110.0,2020-09-22 15:22
+2020-09-26,11:00 CDT,Mississippi,Florida,1st Half,Florida vs Mississippi | 1st Half Lines,Under,28.5,-110.0,2020-09-22 15:22
+2020-09-26,11:00 CDT,Mississippi,Florida,1st Half,Florida vs Mississippi | 1st Half Lines,Over,28.5,-110.0,2020-09-22 15:22
+2020-09-26,11:00 CDT,Pittsburgh U,Louisville,1st Half,Louisville vs Pittsburgh U | 1st Half Lines,Under,27.0,-110.0,2020-09-22 15:22
+2020-09-26,11:00 CDT,Pittsburgh U,Louisville,1st Half,Louisville vs Pittsburgh U | 1st Half Lines,Over,27.0,-110.0,2020-09-22 15:22
+2020-09-26,11:00 CDT,Syracuse,Georgia Tech,1st Half,Georgia Tech vs Syracuse | 1st Half Lines,Under,26.5,-110.0,2020-09-22 15:22
+2020-09-26,11:00 CDT,Oklahoma,Kansas State,1st Half,Kansas State vs Oklahoma | 1st Half Lines,Oklahoma,-17.0,-110.0,2020-09-22 15:22
+2020-09-26,11:00 CDT,Syracuse,Georgia Tech,1st Half,Georgia Tech vs Syracuse | 1st Half Lines,Over,26.5,-110.0,2020-09-22 15:22
+2020-09-26,11:00 CDT,Charlotte,Georgia State,1st Half,Georgia State vs Charlotte | 1st Half Lines,Over,28.5,-110.0,2020-09-22 15:22
+2020-09-26,11:00 CDT,Charlotte,Georgia State,1st Half,Georgia State vs Charlotte | 1st Half Lines,Georgia State,-0.5,-120.0,2020-09-22 15:22
+2020-09-26,11:00 CDT,Charlotte,Georgia State,1st Half,Georgia State vs Charlotte | 1st Half Lines,Charlotte,0.5,100.0,2020-09-22 15:22
+2020-09-26,11:00 CDT,East Carolina,Central Florida,1st Half,Central Florida vs East Carolina | 1st Half Lines,Under,40.0,-110.0,2020-09-22 15:22
+2020-09-26,11:00 CDT,East Carolina,Central Florida,1st Half,Central Florida vs East Carolina | 1st Half Lines,Over,40.0,-110.0,2020-09-22 15:22
+2020-09-26,11:00 CDT,East Carolina,Central Florida,1st Half,Central Florida vs East Carolina | 1st Half Lines,Central Florida,-14.5,-110.0,2020-09-22 15:22
+2020-09-26,11:00 CDT,East Carolina,Central Florida,1st Half,Central Florida vs East Carolina | 1st Half Lines,East Carolina,14.5,-110.0,2020-09-22 15:22
+2020-09-26,11:00 CDT,Charlotte,Georgia State,1st Half,Georgia State vs Charlotte | 1st Half Lines,Under,28.5,-110.0,2020-09-22 15:22
 2020-09-26,21:15 CDT,BYU,Troy,1st Half,Troy vs BYU | 1st Half Lines,Troy,7.5,100.0,2020-09-22 15:22
-2020-09-24,18:30 CDT,South Alabama,UAB,1st Half,UAB vs South Alabama | 1st Half Lines,South Alabama,,185.0,2020-09-22 15:34
-2020-09-24,18:30 CDT,South Alabama,UAB,1st Half,UAB vs South Alabama | 1st Half Lines,UAB,,-225.0,2020-09-22 15:34
-2020-09-26,11:00 CDT,Syracuse,Georgia Tech,1st Half,Georgia Tech vs Syracuse | 1st Half Lines,Syracuse,,190.0,2020-09-22 15:34
-2020-09-26,11:00 CDT,Syracuse,Georgia Tech,1st Half,Georgia Tech vs Syracuse | 1st Half Lines,Georgia Tech,,-230.0,2020-09-22 15:34
-2020-09-26,11:00 CDT,Pittsburgh U,Louisville,1st Half,Louisville vs Pittsburgh U | 1st Half Lines,Pittsburgh U,,-130.0,2020-09-22 15:34
-2020-09-26,11:00 CDT,Pittsburgh U,Louisville,1st Half,Louisville vs Pittsburgh U | 1st Half Lines,Louisville,,110.0,2020-09-22 15:34
-2020-09-26,11:00 CDT,Mississippi,Florida,1st Half,Florida vs Mississippi | 1st Half Lines,Mississippi,,375.0,2020-09-22 15:34
-2020-09-26,11:00 CDT,Mississippi,Florida,1st Half,Florida vs Mississippi | 1st Half Lines,Florida,,-500.0,2020-09-22 15:34
-2020-09-26,11:00 CDT,UL Lafayette,Georgia Southern,1st Half,Georgia Southern vs UL Lafayette | 1st Half Lines,UL Lafayette,,-450.0,2020-09-22 15:34
-2020-09-26,11:00 CDT,UL Lafayette,Georgia Southern,1st Half,Georgia Southern vs UL Lafayette | 1st Half Lines,Georgia Southern,,350.0,2020-09-22 15:34
-2020-09-26,11:00 CDT,Auburn,Kentucky,1st Half,Kentucky vs Auburn | 1st Half Lines,Auburn,,-250.0,2020-09-22 15:34
-2020-09-26,11:00 CDT,Auburn,Kentucky,1st Half,Kentucky vs Auburn | 1st Half Lines,Kentucky,,210.0,2020-09-22 15:34
-2020-09-26,12:00 CDT,Liberty,Florida Intl,1st Half,Florida Intl vs Liberty | 1st Half Lines,Liberty,,-200.0,2020-09-22 15:34
-2020-09-26,12:00 CDT,Liberty,Florida Intl,1st Half,Florida Intl vs Liberty | 1st Half Lines,Florida Intl,,170.0,2020-09-22 15:34
-2020-09-26,13:30 CDT,Southern Miss,Tulane,1st Half,Tulane vs Southern Miss | 1st Half Lines,Southern Miss,,125.0,2020-09-22 15:34
-2020-09-26,13:30 CDT,Southern Miss,Tulane,1st Half,Tulane vs Southern Miss | 1st Half Lines,Tulane,,-145.0,2020-09-22 15:34
-2020-09-26,14:30 CDT,Texas Tech,Texas,1st Half,Texas vs Texas Tech | 1st Half Lines,Texas Tech,,450.0,2020-09-22 15:34
-2020-09-26,14:30 CDT,Texas Tech,Texas,1st Half,Texas vs Texas Tech | 1st Half Lines,Texas,,-600.0,2020-09-22 15:34
-2020-09-26,14:30 CDT,LSU,Mississippi St,1st Half,Mississippi St vs LSU | 1st Half Lines,LSU,,-550.0,2020-09-22 15:34
-2020-09-26,14:30 CDT,LSU,Mississippi St,1st Half,Mississippi St vs LSU | 1st Half Lines,Mississippi St,,400.0,2020-09-22 15:34
-2020-09-26,14:30 CDT,Cincinnati,Army,1st Half,Army vs Cincinnati | 1st Half Lines,Cincinnati,,-420.0,2020-09-22 15:34
-2020-09-26,14:30 CDT,Cincinnati,Army,1st Half,Army vs Cincinnati | 1st Half Lines,Army,,340.0,2020-09-22 15:34
+2020-09-26,11:00 CDT,Oklahoma,Kansas State,1st Half,Kansas State vs Oklahoma | 1st Half Lines,Kansas State,17.0,-110.0,2020-09-22 15:22
+2020-09-26,11:00 CDT,Oklahoma,Kansas State,1st Half,Kansas State vs Oklahoma | 1st Half Lines,Under,31.5,-110.0,2020-09-22 15:22
+2020-09-26,14:30 CDT,Cincinnati,Army,1st Half,Army vs Cincinnati | 1st Half Lines,Under,23.5,-110.0,2020-09-22 15:22
+2020-09-26,14:30 CDT,Cincinnati,Army,1st Half,Army vs Cincinnati | 1st Half Lines,Over,23.5,-110.0,2020-09-22 15:22
+2020-09-26,14:30 CDT,Arkansas State,Tulsa,1st Half,Tulsa vs Arkansas State | 1st Half Lines,Under,32.0,-110.0,2020-09-22 15:22
+2020-09-26,14:30 CDT,Arkansas State,Tulsa,1st Half,Tulsa vs Arkansas State | 1st Half Lines,Over,32.0,-110.0,2020-09-22 15:22
+2020-09-26,14:30 CDT,Arkansas State,Tulsa,1st Half,Tulsa vs Arkansas State | 1st Half Lines,Tulsa,0.5,100.0,2020-09-22 15:22
+2020-09-26,14:30 CDT,Arkansas State,Tulsa,1st Half,Tulsa vs Arkansas State | 1st Half Lines,Arkansas State,-0.5,-120.0,2020-09-22 15:22
+2020-09-26,14:30 CDT,LSU,Mississippi St,1st Half,Mississippi St vs LSU | 1st Half Lines,Under,29.5,-110.0,2020-09-22 15:22
+2020-09-26,11:00 CDT,Oklahoma,Kansas State,1st Half,Kansas State vs Oklahoma | 1st Half Lines,Over,31.5,-110.0,2020-09-22 15:22
+2020-09-26,14:30 CDT,LSU,Mississippi St,1st Half,Mississippi St vs LSU | 1st Half Lines,Over,29.5,-110.0,2020-09-22 15:22
+2020-09-26,14:30 CDT,Texas Tech,Texas,1st Half,Texas vs Texas Tech | 1st Half Lines,Over,35.5,-110.0,2020-09-22 15:22
+2020-09-26,13:30 CDT,Southern Miss,Tulane,1st Half,Tulane vs Southern Miss | 1st Half Lines,Under,27.0,100.0,2020-09-22 15:22
+2020-09-26,13:30 CDT,Southern Miss,Tulane,1st Half,Tulane vs Southern Miss | 1st Half Lines,Over,27.0,-120.0,2020-09-22 15:22
+2020-09-26,12:00 CDT,Liberty,Florida Intl,1st Half,Florida Intl vs Liberty | 1st Half Lines,Under,28.5,-110.0,2020-09-22 15:22
+2020-09-26,12:00 CDT,Liberty,Florida Intl,1st Half,Florida Intl vs Liberty | 1st Half Lines,Over,28.5,-110.0,2020-09-22 15:22
+2020-09-26,11:00 CDT,Auburn,Kentucky,1st Half,Kentucky vs Auburn | 1st Half Lines,Under,24.0,-110.0,2020-09-22 15:22
+2020-09-26,11:00 CDT,Auburn,Kentucky,1st Half,Kentucky vs Auburn | 1st Half Lines,Over,24.0,-110.0,2020-09-22 15:22
+2020-09-26,14:30 CDT,Texas Tech,Texas,1st Half,Texas vs Texas Tech | 1st Half Lines,Under,35.5,-110.0,2020-09-22 15:22
+2020-09-26,21:15 CDT,BYU,Troy,1st Half,Troy vs BYU | 1st Half Lines,BYU,-7.5,-120.0,2020-09-22 15:22
+2020-09-24,18:30 CDT,South Alabama,UAB,1st Half,UAB vs South Alabama | 1st Half Lines,Under,24.0,-120.0,2020-09-22 15:22
+2020-09-26,19:00 CDT,Virginia Tech,NC State,1st Half,NC State vs Virginia Tech | 1st Half Lines,Virginia Tech,-3.5,-120.0,2020-09-22 15:22
+2020-09-26,12:00 CDT,Liberty,Florida Intl,1st Half,Florida Intl vs Liberty | 1st Half Lines,Florida Intl,3.5,-115.0,2020-09-22 15:22
+2020-09-26,12:00 CDT,Liberty,Florida Intl,1st Half,Florida Intl vs Liberty | 1st Half Lines,Liberty,-3.5,-105.0,2020-09-22 15:22
+2020-09-26,11:00 CDT,Auburn,Kentucky,1st Half,Kentucky vs Auburn | 1st Half Lines,Kentucky,4.0,100.0,2020-09-22 15:22
+2020-09-26,11:00 CDT,Auburn,Kentucky,1st Half,Kentucky vs Auburn | 1st Half Lines,Auburn,-4.0,-120.0,2020-09-22 15:22
+2020-09-26,11:00 CDT,UL Lafayette,Georgia Southern,1st Half,Georgia Southern vs UL Lafayette | 1st Half Lines,Georgia Southern,7.0,100.0,2020-09-22 15:22
+2020-09-26,11:00 CDT,UL Lafayette,Georgia Southern,1st Half,Georgia Southern vs UL Lafayette | 1st Half Lines,UL Lafayette,-7.0,-120.0,2020-09-22 15:22
+2020-09-26,11:00 CDT,Mississippi,Florida,1st Half,Florida vs Mississippi | 1st Half Lines,Florida,-9.0,100.0,2020-09-22 15:22
+2020-09-26,11:00 CDT,Mississippi,Florida,1st Half,Florida vs Mississippi | 1st Half Lines,Mississippi,9.0,-120.0,2020-09-22 15:22
+2020-09-26,11:00 CDT,Pittsburgh U,Louisville,1st Half,Louisville vs Pittsburgh U | 1st Half Lines,Louisville,1.5,-120.0,2020-09-22 15:22
+2020-09-26,11:00 CDT,Pittsburgh U,Louisville,1st Half,Louisville vs Pittsburgh U | 1st Half Lines,Pittsburgh U,-1.5,100.0,2020-09-22 15:22
+2020-09-26,11:00 CDT,Syracuse,Georgia Tech,1st Half,Georgia Tech vs Syracuse | 1st Half Lines,Georgia Tech,-4.0,-115.0,2020-09-22 15:22
+2020-09-26,11:00 CDT,Syracuse,Georgia Tech,1st Half,Georgia Tech vs Syracuse | 1st Half Lines,Syracuse,4.0,-105.0,2020-09-22 15:22
+2020-09-24,18:30 CDT,South Alabama,UAB,1st Half,UAB vs South Alabama | 1st Half Lines,UAB,-4.0,-105.0,2020-09-22 15:22
+2020-09-24,18:30 CDT,South Alabama,UAB,1st Half,UAB vs South Alabama | 1st Half Lines,South Alabama,4.0,-115.0,2020-09-22 15:22
+2020-09-26,21:15 CDT,BYU,Troy,1st Half,Troy vs BYU | 1st Half Lines,Troy,,340.0,2020-09-22 15:22
+2020-09-26,13:30 CDT,Southern Miss,Tulane,1st Half,Tulane vs Southern Miss | 1st Half Lines,Southern Miss,1.5,-105.0,2020-09-22 15:22
+2020-09-26,21:15 CDT,BYU,Troy,1st Half,Troy vs BYU | 1st Half Lines,BYU,,-420.0,2020-09-22 15:22
+2020-09-26,13:30 CDT,Southern Miss,Tulane,1st Half,Tulane vs Southern Miss | 1st Half Lines,Tulane,-1.5,-115.0,2020-09-22 15:22
+2020-09-26,14:30 CDT,Texas Tech,Texas,1st Half,Texas vs Texas Tech | 1st Half Lines,Texas,-10.0,-110.0,2020-09-22 15:22
+2020-09-26,18:30 CDT,South Carolina,Tennessee U,1st Half,Tennessee U vs South Carolina | 1st Half Lines,South Carolina,2.5,-110.0,2020-09-22 15:22
+2020-09-26,18:30 CDT,Miami Florida,Florida State,1st Half,Florida State vs Miami Florida | 1st Half Lines,Florida State,6.5,100.0,2020-09-22 15:22
+2020-09-26,18:30 CDT,Miami Florida,Florida State,1st Half,Florida State vs Miami Florida | 1st Half Lines,Miami Florida,-6.5,-120.0,2020-09-22 15:22
+2020-09-26,19:00 CDT,Virginia Tech,NC State,1st Half,NC State vs Virginia Tech | 1st Half Lines,NC State,3.5,100.0,2020-09-22 15:22
+2020-09-26,17:00 CDT,Boston College,Texas State,1st Half,Texas State vs Boston College | 1st Half Lines,Boston College,-10.0,-110.0,2020-09-22 15:22
+2020-09-26,17:00 CDT,Florida Atlantic,South Florida,1st Half,South Florida vs Florida Atlantic | 1st Half Lines,South Florida,1.5,-110.0,2020-09-22 15:22
+2020-09-26,17:00 CDT,Florida Atlantic,South Florida,1st Half,South Florida vs Florida Atlantic | 1st Half Lines,Florida Atlantic,-1.5,-110.0,2020-09-22 15:22
+2020-09-26,15:00 CDT,Virginia,Duke,1st Half,Duke vs Virginia | 1st Half Lines,Duke,3.0,-110.0,2020-09-22 15:22
+2020-09-26,15:00 CDT,Virginia,Duke,1st Half,Duke vs Virginia | 1st Half Lines,Virginia,-3.0,-110.0,2020-09-22 15:22
+2020-09-26,14:30 CDT,UL Monroe,UTEP,1st Half,UTEP vs UL Monroe | 1st Half Lines,UTEP,5.5,-110.0,2020-09-22 15:22
+2020-09-26,14:30 CDT,UL Monroe,UTEP,1st Half,UTEP vs UL Monroe | 1st Half Lines,UL Monroe,-5.5,-110.0,2020-09-22 15:22
+2020-09-26,14:30 CDT,Cincinnati,Army,1st Half,Army vs Cincinnati | 1st Half Lines,Army,7.5,-105.0,2020-09-22 15:22
+2020-09-26,14:30 CDT,Cincinnati,Army,1st Half,Army vs Cincinnati | 1st Half Lines,Cincinnati,-7.5,-115.0,2020-09-22 15:22
+2020-09-26,14:30 CDT,LSU,Mississippi St,1st Half,Mississippi St vs LSU | 1st Half Lines,Mississippi St,9.0,-110.0,2020-09-22 15:22
+2020-09-26,14:30 CDT,LSU,Mississippi St,1st Half,Mississippi St vs LSU | 1st Half Lines,LSU,-9.0,-110.0,2020-09-22 15:22
+2020-09-26,14:30 CDT,Texas Tech,Texas,1st Half,Texas vs Texas Tech | 1st Half Lines,Texas Tech,10.0,-110.0,2020-09-22 15:22
+2020-09-26,18:30 CDT,South Carolina,Tennessee U,1st Half,Tennessee U vs South Carolina | 1st Half Lines,Tennessee U,-2.5,-110.0,2020-09-22 15:22
+2020-09-26,19:00 CDT,Virginia Tech,NC State,1st Half,NC State vs Virginia Tech | 1st Half Lines,NC State,,170.0,2020-09-22 15:22
+2020-09-26,18:30 CDT,Baylor,Kansas,1st Half,Kansas vs Baylor | 1st Half Lines,Kansas,,400.0,2020-09-22 15:22
+2020-09-26,13:30 CDT,Southern Miss,Tulane,1st Half,Tulane vs Southern Miss | 1st Half Lines,Tulane,,-145.0,2020-09-22 15:22
+2020-09-26,13:30 CDT,Southern Miss,Tulane,1st Half,Tulane vs Southern Miss | 1st Half Lines,Southern Miss,,125.0,2020-09-22 15:22
+2020-09-26,12:00 CDT,Liberty,Florida Intl,1st Half,Florida Intl vs Liberty | 1st Half Lines,Florida Intl,,170.0,2020-09-22 15:22
+2020-09-26,12:00 CDT,Liberty,Florida Intl,1st Half,Florida Intl vs Liberty | 1st Half Lines,Liberty,,-200.0,2020-09-22 15:22
+2020-09-26,11:00 CDT,Auburn,Kentucky,1st Half,Kentucky vs Auburn | 1st Half Lines,Kentucky,,210.0,2020-09-22 15:22
+2020-09-26,11:00 CDT,Auburn,Kentucky,1st Half,Kentucky vs Auburn | 1st Half Lines,Auburn,,-250.0,2020-09-22 15:22
+2020-09-26,11:00 CDT,UL Lafayette,Georgia Southern,1st Half,Georgia Southern vs UL Lafayette | 1st Half Lines,Georgia Southern,,350.0,2020-09-22 15:22
+2020-09-26,11:00 CDT,UL Lafayette,Georgia Southern,1st Half,Georgia Southern vs UL Lafayette | 1st Half Lines,UL Lafayette,,-450.0,2020-09-22 15:22
+2020-09-26,11:00 CDT,Mississippi,Florida,1st Half,Florida vs Mississippi | 1st Half Lines,Florida,,-500.0,2020-09-22 15:22
+2020-09-26,11:00 CDT,Mississippi,Florida,1st Half,Florida vs Mississippi | 1st Half Lines,Mississippi,,375.0,2020-09-22 15:22
+2020-09-26,11:00 CDT,Pittsburgh U,Louisville,1st Half,Louisville vs Pittsburgh U | 1st Half Lines,Louisville,,110.0,2020-09-22 15:22
+2020-09-26,11:00 CDT,Pittsburgh U,Louisville,1st Half,Louisville vs Pittsburgh U | 1st Half Lines,Pittsburgh U,,-130.0,2020-09-22 15:22
+2020-09-26,11:00 CDT,Syracuse,Georgia Tech,1st Half,Georgia Tech vs Syracuse | 1st Half Lines,Georgia Tech,,-230.0,2020-09-22 15:22
+2020-09-26,11:00 CDT,Syracuse,Georgia Tech,1st Half,Georgia Tech vs Syracuse | 1st Half Lines,Syracuse,,190.0,2020-09-22 15:22
+2020-09-24,18:30 CDT,South Alabama,UAB,1st Half,UAB vs South Alabama | 1st Half Lines,UAB,,-225.0,2020-09-22 15:22
+2020-09-26,14:30 CDT,Texas Tech,Texas,1st Half,Texas vs Texas Tech | 1st Half Lines,Texas Tech,,450.0,2020-09-22 15:22
+2020-09-26,19:00 CDT,Virginia Tech,NC State,1st Half,NC State vs Virginia Tech | 1st Half Lines,Virginia Tech,,-200.0,2020-09-22 15:22
+2020-09-26,14:30 CDT,Texas Tech,Texas,1st Half,Texas vs Texas Tech | 1st Half Lines,Texas,,-600.0,2020-09-22 15:22
+2020-09-26,14:30 CDT,LSU,Mississippi St,1st Half,Mississippi St vs LSU | 1st Half Lines,Mississippi St,,400.0,2020-09-22 15:22
+2020-09-26,18:30 CDT,Baylor,Kansas,1st Half,Kansas vs Baylor | 1st Half Lines,Baylor,,-550.0,2020-09-22 15:22
+2020-09-26,18:30 CDT,South Carolina,Tennessee U,1st Half,Tennessee U vs South Carolina | 1st Half Lines,Tennessee U,,-150.0,2020-09-22 15:22
+2020-09-26,18:30 CDT,South Carolina,Tennessee U,1st Half,Tennessee U vs South Carolina | 1st Half Lines,South Carolina,,130.0,2020-09-22 15:22
+2020-09-26,18:30 CDT,Miami Florida,Florida State,1st Half,Florida State vs Miami Florida | 1st Half Lines,Florida State,,265.0,2020-09-22 15:22
+2020-09-26,18:30 CDT,Miami Florida,Florida State,1st Half,Florida State vs Miami Florida | 1st Half Lines,Miami Florida,,-325.0,2020-09-22 15:22
+2020-09-26,17:00 CDT,Boston College,Texas State,1st Half,Texas State vs Boston College | 1st Half Lines,Texas State,,425.0,2020-09-22 15:22
+2020-09-26,17:00 CDT,Boston College,Texas State,1st Half,Texas State vs Boston College | 1st Half Lines,Boston College,,-575.0,2020-09-22 15:22
+2020-09-26,17:00 CDT,Florida Atlantic,South Florida,1st Half,South Florida vs Florida Atlantic | 1st Half Lines,South Florida,,115.0,2020-09-22 15:22
+2020-09-26,17:00 CDT,Florida Atlantic,South Florida,1st Half,South Florida vs Florida Atlantic | 1st Half Lines,Florida Atlantic,,-135.0,2020-09-22 15:22
+2020-09-26,15:00 CDT,Virginia,Duke,1st Half,Duke vs Virginia | 1st Half Lines,Duke,,155.0,2020-09-22 15:22
+2020-09-26,15:00 CDT,Virginia,Duke,1st Half,Duke vs Virginia | 1st Half Lines,Virginia,,-175.0,2020-09-22 15:22
+2020-09-26,14:30 CDT,UL Monroe,UTEP,1st Half,UTEP vs UL Monroe | 1st Half Lines,UTEP,,250.0,2020-09-22 15:22
+2020-09-26,14:30 CDT,UL Monroe,UTEP,1st Half,UTEP vs UL Monroe | 1st Half Lines,UL Monroe,,-300.0,2020-09-22 15:22
+2020-09-26,14:30 CDT,Cincinnati,Army,1st Half,Army vs Cincinnati | 1st Half Lines,Army,,340.0,2020-09-22 15:22
+2020-09-26,14:30 CDT,Cincinnati,Army,1st Half,Army vs Cincinnati | 1st Half Lines,Cincinnati,,-420.0,2020-09-22 15:22
+2020-09-26,14:30 CDT,LSU,Mississippi St,1st Half,Mississippi St vs LSU | 1st Half Lines,LSU,,-550.0,2020-09-22 15:22
+2020-09-26,18:30 CDT,Baylor,Kansas,1st Half,Kansas vs Baylor | 1st Half Lines,Baylor,-9.5,-110.0,2020-09-22 15:22
+2020-09-26,17:00 CDT,Boston College,Texas State,1st Half,Texas State vs Boston College | 1st Half Lines,Texas State,10.0,-110.0,2020-09-22 15:22
+2020-09-26,18:30 CDT,Baylor,Kansas,1st Half,Kansas vs Baylor | 1st Half Lines,Kansas,9.5,-110.0,2020-09-22 15:22
 2020-09-26,14:30 CDT,UL Monroe,UTEP,1st Half,UTEP vs UL Monroe | 1st Half Lines,UL Monroe,,-300.0,2020-09-22 15:34
 2020-09-26,14:30 CDT,UL Monroe,UTEP,1st Half,UTEP vs UL Monroe | 1st Half Lines,UTEP,,250.0,2020-09-22 15:34
 2020-09-26,15:00 CDT,Virginia,Duke,1st Half,Duke vs Virginia | 1st Half Lines,Virginia,,-175.0,2020-09-22 15:34
@@ -111,7 +165,6 @@ datetime,Game_Time,Home,Away,Title,Description,Bet,Spread/overunder,Odds,scraped
 2020-09-26,17:00 CDT,Boston College,Texas State,1st Half,Texas State vs Boston College | 1st Half Lines,Texas State,,425.0,2020-09-22 15:34
 2020-09-26,18:30 CDT,Miami Florida,Florida State,1st Half,Florida State vs Miami Florida | 1st Half Lines,Miami Florida,,-325.0,2020-09-22 15:34
 2020-09-26,18:30 CDT,Miami Florida,Florida State,1st Half,Florida State vs Miami Florida | 1st Half Lines,Florida State,,265.0,2020-09-22 15:34
-2020-09-26,18:30 CDT,South Carolina,Tennessee U,1st Half,Tennessee U vs South Carolina | 1st Half Lines,South Carolina,,130.0,2020-09-22 15:34
 2020-09-26,18:30 CDT,South Carolina,Tennessee U,1st Half,Tennessee U vs South Carolina | 1st Half Lines,Tennessee U,,-150.0,2020-09-22 15:34
 2020-09-26,18:30 CDT,Baylor,Kansas,1st Half,Kansas vs Baylor | 1st Half Lines,Baylor,,-550.0,2020-09-22 15:34
 2020-09-26,18:30 CDT,Baylor,Kansas,1st Half,Kansas vs Baylor | 1st Half Lines,Kansas,,400.0,2020-09-22 15:34
@@ -119,20 +172,61 @@ datetime,Game_Time,Home,Away,Title,Description,Bet,Spread/overunder,Odds,scraped
 2020-09-26,19:00 CDT,Virginia Tech,NC State,1st Half,NC State vs Virginia Tech | 1st Half Lines,NC State,,170.0,2020-09-22 15:34
 2020-09-26,21:15 CDT,BYU,Troy,1st Half,Troy vs BYU | 1st Half Lines,BYU,,-420.0,2020-09-22 15:34
 2020-09-26,21:15 CDT,BYU,Troy,1st Half,Troy vs BYU | 1st Half Lines,Troy,,340.0,2020-09-22 15:34
-2020-09-24,18:30 CDT,South Alabama,UAB,1st Half,UAB vs South Alabama | 1st Half Lines,South Alabama,4.0,-115.0,2020-09-22 15:53
-2020-09-24,18:30 CDT,South Alabama,UAB,1st Half,UAB vs South Alabama | 1st Half Lines,UAB,-4.0,-105.0,2020-09-22 15:53
-2020-09-26,11:00 CDT,Syracuse,Georgia Tech,1st Half,Georgia Tech vs Syracuse | 1st Half Lines,Syracuse,4.0,-105.0,2020-09-22 15:53
-2020-09-26,11:00 CDT,Syracuse,Georgia Tech,1st Half,Georgia Tech vs Syracuse | 1st Half Lines,Georgia Tech,-4.0,-115.0,2020-09-22 15:53
+2020-09-26,18:30 CDT,South Carolina,Tennessee U,1st Half,Tennessee U vs South Carolina | 1st Half Lines,South Carolina,,130.0,2020-09-22 15:34
+2020-09-26,14:30 CDT,Cincinnati,Army,1st Half,Army vs Cincinnati | 1st Half Lines,Army,,340.0,2020-09-22 15:34
+2020-09-26,14:30 CDT,Cincinnati,Army,1st Half,Army vs Cincinnati | 1st Half Lines,Cincinnati,,-420.0,2020-09-22 15:34
+2020-09-26,11:00 CDT,UL Lafayette,Georgia Southern,1st Half,Georgia Southern vs UL Lafayette | 1st Half Lines,Georgia Southern,,350.0,2020-09-22 15:34
+2020-09-26,11:00 CDT,Syracuse,Georgia Tech,1st Half,Georgia Tech vs Syracuse | 1st Half Lines,Syracuse,,190.0,2020-09-22 15:34
+2020-09-26,11:00 CDT,Syracuse,Georgia Tech,1st Half,Georgia Tech vs Syracuse | 1st Half Lines,Georgia Tech,,-230.0,2020-09-22 15:34
+2020-09-26,11:00 CDT,Pittsburgh U,Louisville,1st Half,Louisville vs Pittsburgh U | 1st Half Lines,Pittsburgh U,,-130.0,2020-09-22 15:34
+2020-09-26,11:00 CDT,Pittsburgh U,Louisville,1st Half,Louisville vs Pittsburgh U | 1st Half Lines,Louisville,,110.0,2020-09-22 15:34
+2020-09-26,11:00 CDT,Mississippi,Florida,1st Half,Florida vs Mississippi | 1st Half Lines,Mississippi,,375.0,2020-09-22 15:34
+2020-09-26,11:00 CDT,Mississippi,Florida,1st Half,Florida vs Mississippi | 1st Half Lines,Florida,,-500.0,2020-09-22 15:34
+2020-09-26,11:00 CDT,UL Lafayette,Georgia Southern,1st Half,Georgia Southern vs UL Lafayette | 1st Half Lines,UL Lafayette,,-450.0,2020-09-22 15:34
+2020-09-26,14:30 CDT,LSU,Mississippi St,1st Half,Mississippi St vs LSU | 1st Half Lines,Mississippi St,,400.0,2020-09-22 15:34
+2020-09-26,11:00 CDT,Auburn,Kentucky,1st Half,Kentucky vs Auburn | 1st Half Lines,Auburn,,-250.0,2020-09-22 15:34
+2020-09-26,11:00 CDT,Auburn,Kentucky,1st Half,Kentucky vs Auburn | 1st Half Lines,Kentucky,,210.0,2020-09-22 15:34
+2020-09-26,12:00 CDT,Liberty,Florida Intl,1st Half,Florida Intl vs Liberty | 1st Half Lines,Liberty,,-200.0,2020-09-22 15:34
+2020-09-26,12:00 CDT,Liberty,Florida Intl,1st Half,Florida Intl vs Liberty | 1st Half Lines,Florida Intl,,170.0,2020-09-22 15:34
+2020-09-26,13:30 CDT,Southern Miss,Tulane,1st Half,Tulane vs Southern Miss | 1st Half Lines,Southern Miss,,125.0,2020-09-22 15:34
+2020-09-26,13:30 CDT,Southern Miss,Tulane,1st Half,Tulane vs Southern Miss | 1st Half Lines,Tulane,,-145.0,2020-09-22 15:34
+2020-09-26,14:30 CDT,Texas Tech,Texas,1st Half,Texas vs Texas Tech | 1st Half Lines,Texas Tech,,450.0,2020-09-22 15:34
+2020-09-26,14:30 CDT,Texas Tech,Texas,1st Half,Texas vs Texas Tech | 1st Half Lines,Texas,,-600.0,2020-09-22 15:34
+2020-09-26,14:30 CDT,LSU,Mississippi St,1st Half,Mississippi St vs LSU | 1st Half Lines,LSU,,-550.0,2020-09-22 15:34
+2020-09-24,18:30 CDT,South Alabama,UAB,1st Half,UAB vs South Alabama | 1st Half Lines,UAB,,-225.0,2020-09-22 15:34
+2020-09-24,18:30 CDT,South Alabama,UAB,1st Half,UAB vs South Alabama | 1st Half Lines,South Alabama,,185.0,2020-09-22 15:34
 2020-09-26,11:00 CDT,Pittsburgh U,Louisville,1st Half,Louisville vs Pittsburgh U | 1st Half Lines,Pittsburgh U,-1.5,100.0,2020-09-22 15:53
-2020-09-26,11:00 CDT,Pittsburgh U,Louisville,1st Half,Louisville vs Pittsburgh U | 1st Half Lines,Louisville,1.5,-120.0,2020-09-22 15:53
+2020-09-26,11:00 CDT,Syracuse,Georgia Tech,1st Half,Georgia Tech vs Syracuse | 1st Half Lines,Georgia Tech,-4.0,-115.0,2020-09-22 15:53
+2020-09-26,18:30 CDT,Baylor,Kansas,1st Half,Kansas vs Baylor | 1st Half Lines,Kansas,9.5,-110.0,2020-09-22 15:53
+2020-09-24,18:30 CDT,South Alabama,UAB,1st Half,UAB vs South Alabama | 1st Half Lines,UAB,-4.0,-105.0,2020-09-22 15:53
+2020-09-24,18:30 CDT,South Alabama,UAB,1st Half,UAB vs South Alabama | 1st Half Lines,South Alabama,4.0,-115.0,2020-09-22 15:53
+2020-09-26,11:00 CDT,Syracuse,Georgia Tech,1st Half,Georgia Tech vs Syracuse | 1st Half Lines,Syracuse,4.0,-105.0,2020-09-22 15:53
+2020-09-26,18:30 CDT,Baylor,Kansas,1st Half,Kansas vs Baylor | 1st Half Lines,Baylor,-9.5,-110.0,2020-09-22 15:53
 2020-09-26,11:00 CDT,Mississippi,Florida,1st Half,Florida vs Mississippi | 1st Half Lines,Mississippi,9.0,-120.0,2020-09-22 15:53
-2020-09-26,11:00 CDT,Mississippi,Florida,1st Half,Florida vs Mississippi | 1st Half Lines,Florida,-9.0,100.0,2020-09-22 15:53
 2020-09-26,11:00 CDT,UL Lafayette,Georgia Southern,1st Half,Georgia Southern vs UL Lafayette | 1st Half Lines,UL Lafayette,-7.0,-120.0,2020-09-22 15:53
+2020-09-26,19:00 CDT,Virginia Tech,NC State,1st Half,NC State vs Virginia Tech | 1st Half Lines,Virginia Tech,-3.5,-120.0,2020-09-22 15:53
+2020-09-26,19:00 CDT,Virginia Tech,NC State,1st Half,NC State vs Virginia Tech | 1st Half Lines,NC State,3.5,100.0,2020-09-22 15:53
+2020-09-26,21:15 CDT,BYU,Troy,1st Half,Troy vs BYU | 1st Half Lines,BYU,-7.5,-120.0,2020-09-22 15:53
+2020-09-26,21:15 CDT,BYU,Troy,1st Half,Troy vs BYU | 1st Half Lines,Troy,7.5,100.0,2020-09-22 15:53
+2020-09-26,18:30 CDT,South Carolina,Tennessee U,1st Half,Tennessee U vs South Carolina | 1st Half Lines,Tennessee U,-2.5,-110.0,2020-09-22 15:53
+2020-09-26,18:30 CDT,South Carolina,Tennessee U,1st Half,Tennessee U vs South Carolina | 1st Half Lines,South Carolina,2.5,-110.0,2020-09-22 15:53
+2020-09-26,18:30 CDT,Miami Florida,Florida State,1st Half,Florida State vs Miami Florida | 1st Half Lines,Florida State,6.5,100.0,2020-09-22 15:53
+2020-09-26,18:30 CDT,Miami Florida,Florida State,1st Half,Florida State vs Miami Florida | 1st Half Lines,Miami Florida,-6.5,-120.0,2020-09-22 15:53
+2020-09-26,17:00 CDT,Boston College,Texas State,1st Half,Texas State vs Boston College | 1st Half Lines,Texas State,10.0,-110.0,2020-09-22 15:53
+2020-09-26,17:00 CDT,Boston College,Texas State,1st Half,Texas State vs Boston College | 1st Half Lines,Boston College,-10.0,-110.0,2020-09-22 15:53
+2020-09-26,17:00 CDT,Florida Atlantic,South Florida,1st Half,South Florida vs Florida Atlantic | 1st Half Lines,South Florida,1.5,-110.0,2020-09-22 15:53
+2020-09-26,17:00 CDT,Florida Atlantic,South Florida,1st Half,South Florida vs Florida Atlantic | 1st Half Lines,Florida Atlantic,-1.5,-110.0,2020-09-22 15:53
+2020-09-26,15:00 CDT,Virginia,Duke,1st Half,Duke vs Virginia | 1st Half Lines,Duke,3.0,-110.0,2020-09-22 15:53
+2020-09-26,15:00 CDT,Virginia,Duke,1st Half,Duke vs Virginia | 1st Half Lines,Virginia,-3.0,-110.0,2020-09-22 15:53
+2020-09-26,11:00 CDT,Mississippi,Florida,1st Half,Florida vs Mississippi | 1st Half Lines,Florida,-9.0,100.0,2020-09-22 15:53
+2020-09-26,11:00 CDT,Pittsburgh U,Louisville,1st Half,Louisville vs Pittsburgh U | 1st Half Lines,Louisville,1.5,-120.0,2020-09-22 15:53
+2020-09-26,14:30 CDT,UL Monroe,UTEP,1st Half,UTEP vs UL Monroe | 1st Half Lines,UL Monroe,-5.5,-110.0,2020-09-22 15:53
 2020-09-26,11:00 CDT,UL Lafayette,Georgia Southern,1st Half,Georgia Southern vs UL Lafayette | 1st Half Lines,Georgia Southern,7.0,100.0,2020-09-22 15:53
 2020-09-26,11:00 CDT,Auburn,Kentucky,1st Half,Kentucky vs Auburn | 1st Half Lines,Auburn,-4.0,-120.0,2020-09-22 15:53
 2020-09-26,11:00 CDT,Auburn,Kentucky,1st Half,Kentucky vs Auburn | 1st Half Lines,Kentucky,4.0,100.0,2020-09-22 15:53
 2020-09-26,12:00 CDT,Liberty,Florida Intl,1st Half,Florida Intl vs Liberty | 1st Half Lines,Liberty,-3.5,-105.0,2020-09-22 15:53
 2020-09-26,12:00 CDT,Liberty,Florida Intl,1st Half,Florida Intl vs Liberty | 1st Half Lines,Florida Intl,3.5,-115.0,2020-09-22 15:53
+2020-09-26,14:30 CDT,UL Monroe,UTEP,1st Half,UTEP vs UL Monroe | 1st Half Lines,UTEP,5.5,-110.0,2020-09-22 15:53
 2020-09-26,13:30 CDT,Southern Miss,Tulane,1st Half,Tulane vs Southern Miss | 1st Half Lines,Southern Miss,1.5,-105.0,2020-09-22 15:53
 2020-09-26,13:30 CDT,Southern Miss,Tulane,1st Half,Tulane vs Southern Miss | 1st Half Lines,Tulane,-1.5,-115.0,2020-09-22 15:53
 2020-09-26,14:30 CDT,Texas Tech,Texas,1st Half,Texas vs Texas Tech | 1st Half Lines,Texas Tech,10.0,-110.0,2020-09-22 15:53
@@ -141,34 +235,55 @@ datetime,Game_Time,Home,Away,Title,Description,Bet,Spread/overunder,Odds,scraped
 2020-09-26,14:30 CDT,LSU,Mississippi St,1st Half,Mississippi St vs LSU | 1st Half Lines,Mississippi St,9.0,-110.0,2020-09-22 15:53
 2020-09-26,14:30 CDT,Cincinnati,Army,1st Half,Army vs Cincinnati | 1st Half Lines,Cincinnati,-7.5,-115.0,2020-09-22 15:53
 2020-09-26,14:30 CDT,Cincinnati,Army,1st Half,Army vs Cincinnati | 1st Half Lines,Army,7.5,-105.0,2020-09-22 15:53
-2020-09-26,14:30 CDT,UL Monroe,UTEP,1st Half,UTEP vs UL Monroe | 1st Half Lines,UL Monroe,-5.5,-110.0,2020-09-22 15:53
-2020-09-26,14:30 CDT,UL Monroe,UTEP,1st Half,UTEP vs UL Monroe | 1st Half Lines,UTEP,5.5,-110.0,2020-09-22 15:53
-2020-09-26,15:00 CDT,Virginia,Duke,1st Half,Duke vs Virginia | 1st Half Lines,Virginia,-3.0,-110.0,2020-09-22 15:53
-2020-09-26,15:00 CDT,Virginia,Duke,1st Half,Duke vs Virginia | 1st Half Lines,Duke,3.0,-110.0,2020-09-22 15:53
-2020-09-26,17:00 CDT,Florida Atlantic,South Florida,1st Half,South Florida vs Florida Atlantic | 1st Half Lines,Florida Atlantic,-1.5,-110.0,2020-09-22 15:53
-2020-09-26,17:00 CDT,Florida Atlantic,South Florida,1st Half,South Florida vs Florida Atlantic | 1st Half Lines,South Florida,1.5,-110.0,2020-09-22 15:53
-2020-09-26,17:00 CDT,Boston College,Texas State,1st Half,Texas State vs Boston College | 1st Half Lines,Boston College,-10.0,-110.0,2020-09-22 15:53
-2020-09-26,17:00 CDT,Boston College,Texas State,1st Half,Texas State vs Boston College | 1st Half Lines,Texas State,10.0,-110.0,2020-09-22 15:53
-2020-09-26,18:30 CDT,Miami Florida,Florida State,1st Half,Florida State vs Miami Florida | 1st Half Lines,Miami Florida,-6.5,-120.0,2020-09-22 15:53
-2020-09-26,18:30 CDT,Miami Florida,Florida State,1st Half,Florida State vs Miami Florida | 1st Half Lines,Florida State,6.5,100.0,2020-09-22 15:53
-2020-09-26,18:30 CDT,South Carolina,Tennessee U,1st Half,Tennessee U vs South Carolina | 1st Half Lines,South Carolina,2.5,-110.0,2020-09-22 15:53
-2020-09-26,18:30 CDT,South Carolina,Tennessee U,1st Half,Tennessee U vs South Carolina | 1st Half Lines,Tennessee U,-2.5,-110.0,2020-09-22 15:53
-2020-09-26,18:30 CDT,Baylor,Kansas,1st Half,Kansas vs Baylor | 1st Half Lines,Baylor,-9.5,-110.0,2020-09-22 15:53
-2020-09-26,18:30 CDT,Baylor,Kansas,1st Half,Kansas vs Baylor | 1st Half Lines,Kansas,9.5,-110.0,2020-09-22 15:53
-2020-09-26,19:00 CDT,Virginia Tech,NC State,1st Half,NC State vs Virginia Tech | 1st Half Lines,Virginia Tech,-3.5,-120.0,2020-09-22 15:53
-2020-09-26,19:00 CDT,Virginia Tech,NC State,1st Half,NC State vs Virginia Tech | 1st Half Lines,NC State,3.5,100.0,2020-09-22 15:53
-2020-09-26,21:15 CDT,BYU,Troy,1st Half,Troy vs BYU | 1st Half Lines,BYU,-7.5,-120.0,2020-09-22 15:53
-2020-09-26,21:15 CDT,BYU,Troy,1st Half,Troy vs BYU | 1st Half Lines,Troy,7.5,100.0,2020-09-22 15:53
-2020-09-26,12:30 CDT,TCU,Iowa State,1st Half,Iowa State vs TCU | 1st Half Lines,TCU,0.5,-105.0,2020-09-22 15:22
-2020-09-26,12:30 CDT,TCU,Iowa State,1st Half,Iowa State vs TCU | 1st Half Lines,Iowa State,-0.5,-115.0,2020-09-22 15:22
-2020-09-26,12:30 CDT,TCU,Iowa State,1st Half,Iowa State vs TCU | 1st Half Lines,Over,23.0,100.0,2020-09-22 15:22
-2020-09-26,12:30 CDT,TCU,Iowa State,1st Half,Iowa State vs TCU | 1st Half Lines,Under,23.0,-120.0,2020-09-22 15:22
-2020-09-26,14:30 CDT,UL Monroe,UTEP,1st Half,UTEP vs UL Monroe | 1st Half Lines,Over,25.0,-110.0,2020-09-22 15:22
-2020-09-26,14:30 CDT,UL Monroe,UTEP,1st Half,UTEP vs UL Monroe | 1st Half Lines,Under,25.0,-110.0,2020-09-22 15:22
-2020-09-26,15:00 CDT,Virginia,Duke,1st Half,Duke vs Virginia | 1st Half Lines,Over,23.5,-110.0,2020-09-22 15:22
-2020-09-26,15:00 CDT,Virginia,Duke,1st Half,Duke vs Virginia | 1st Half Lines,Under,23.5,-110.0,2020-09-22 15:22
-2020-09-26,18:30 CDT,South Carolina,Tennessee U,1st Half,Tennessee U vs South Carolina | 1st Half Lines,Over,21.5,-120.0,2020-09-22 15:22
-2020-09-26,18:30 CDT,South Carolina,Tennessee U,1st Half,Tennessee U vs South Carolina | 1st Half Lines,Under,21.5,100.0,2020-09-22 15:22
+2020-10-24,10:00 CDT,Purdue,Iowa,Iowa Season Long,IOWA GAME 1 - Iowa at Purdue,Iowa,-9.5,-110.0,2020-09-22 16:42
+2020-12-12,10:00 CST,Iowa,Wisconsin,Iowa Season Long,IOWA GAME 8 - Wisconsin at Iowa,Wisconsin,-4.5,-110.0,2020-09-22 16:42
+2020-12-12,10:00 CST,Iowa,Wisconsin,Iowa Season Long,IOWA GAME 8 - Wisconsin at Iowa,Iowa,4.5,-110.0,2020-09-22 16:42
+2020-12-05,10:00 CST,Illinois,Iowa,Iowa Season Long,IOWA GAME 7 - Iowa at Illinois,Iowa,-13.0,-110.0,2020-09-22 16:42
+2020-12-05,10:00 CST,Illinois,Iowa,Iowa Season Long,IOWA GAME 7 - Iowa at Illinois,Illinois,13.0,-110.0,2020-09-22 16:42
+2020-11-28,10:00 CST,Iowa,Nebraska,Iowa Season Long,IOWA GAME 6 - Nebraska at Iowa,Nebraska,3.0,-110.0,2020-09-22 16:42
+2020-11-28,10:00 CST,Iowa,Nebraska,Iowa Season Long,IOWA GAME 6 - Nebraska at Iowa,Iowa,-3.0,-110.0,2020-09-22 16:42
+2020-11-21,10:00 CST,Penn State,Iowa,Iowa Season Long,IOWA GAME 5 - Iowa at Penn State,Iowa,7.0,-110.0,2020-09-22 16:42
+2020-11-21,10:00 CST,Penn State,Iowa,Iowa Season Long,IOWA GAME 5 - Iowa at Penn State,Penn State,-7.0,-110.0,2020-09-22 16:42
+2020-11-14,10:00 CST,Minnesota,Iowa,Iowa Season Long,IOWA GAME 4 - Iowa at Minnesota,Minnesota,-2.0,-110.0,2020-09-22 16:42
+2020-11-07,10:00 CST,Iowa,Michigan St,Iowa Season Long,IOWA GAME 3 - Michigan St at Iowa,Michigan St,4.0,-110.0,2020-09-22 16:42
+2020-11-07,10:00 CST,Iowa,Michigan St,Iowa Season Long,IOWA GAME 3 - Michigan St at Iowa,Iowa,-4.0,-110.0,2020-09-22 16:42
+2020-10-31,10:00 CDT,Iowa,Northwestern,Iowa Season Long,IOWA GAME 2 - Northwestern at Iowa,Northwestern,14.5,-110.0,2020-09-22 16:42
+2020-10-31,10:00 CDT,Iowa,Northwestern,Iowa Season Long,IOWA GAME 2 - Northwestern at Iowa,Iowa,-14.5,-110.0,2020-09-22 16:42
+2020-10-24,10:00 CDT,Purdue,Iowa,Iowa Season Long,IOWA GAME 1 - Iowa at Purdue,Purdue,9.5,-110.0,2020-09-22 16:42
+2020-11-14,10:00 CST,Minnesota,Iowa,Iowa Season Long,IOWA GAME 4 - Iowa at Minnesota,Iowa,2.0,-110.0,2020-09-22 16:42
+2020-09-26,14:30 CDT,Cincinnati,Army,1st Half,Army vs Cincinnati | 1st Half Lines,Cincinnati,,-420.0,2020-09-22 20:25
+2020-09-26,13:30 CDT,Southern Miss,Tulane,1st Half,Tulane vs Southern Miss | 1st Half Lines,Southern Miss,,125.0,2020-09-22 20:25
+2020-09-26,21:15 CDT,BYU,Troy,1st Half,Troy vs BYU | 1st Half Lines,BYU,,-420.0,2020-09-22 20:25
+2020-09-26,19:00 CDT,Virginia Tech,NC State,1st Half,NC State vs Virginia Tech | 1st Half Lines,NC State,,170.0,2020-09-22 20:25
+2020-09-26,19:00 CDT,Virginia Tech,NC State,1st Half,NC State vs Virginia Tech | 1st Half Lines,Virginia Tech,,-200.0,2020-09-22 20:25
+2020-09-26,18:30 CDT,Baylor,Kansas,1st Half,Kansas vs Baylor | 1st Half Lines,Kansas,,400.0,2020-09-22 20:25
+2020-09-26,18:30 CDT,Baylor,Kansas,1st Half,Kansas vs Baylor | 1st Half Lines,Baylor,,-550.0,2020-09-22 20:25
+2020-09-26,18:30 CDT,South Carolina,Tennessee U,1st Half,Tennessee U vs South Carolina | 1st Half Lines,Tennessee U,,-150.0,2020-09-22 20:25
+2020-09-26,18:30 CDT,South Carolina,Tennessee U,1st Half,Tennessee U vs South Carolina | 1st Half Lines,South Carolina,,130.0,2020-09-22 20:25
+2020-09-26,18:30 CDT,Miami Florida,Florida State,1st Half,Florida State vs Miami Florida | 1st Half Lines,Florida State,,265.0,2020-09-22 20:25
+2020-09-26,18:30 CDT,Miami Florida,Florida State,1st Half,Florida State vs Miami Florida | 1st Half Lines,Miami Florida,,-325.0,2020-09-22 20:25
+2020-09-26,17:00 CDT,Boston College,Texas State,1st Half,Texas State vs Boston College | 1st Half Lines,Texas State,,425.0,2020-09-22 20:25
+2020-09-26,17:00 CDT,Boston College,Texas State,1st Half,Texas State vs Boston College | 1st Half Lines,Boston College,,-575.0,2020-09-22 20:25
+2020-09-26,17:00 CDT,Florida Atlantic,South Florida,1st Half,South Florida vs Florida Atlantic | 1st Half Lines,South Florida,,115.0,2020-09-22 20:25
+2020-09-26,17:00 CDT,Florida Atlantic,South Florida,1st Half,South Florida vs Florida Atlantic | 1st Half Lines,Florida Atlantic,,-135.0,2020-09-22 20:25
+2020-09-26,15:00 CDT,Virginia,Duke,1st Half,Duke vs Virginia | 1st Half Lines,Duke,,155.0,2020-09-22 20:25
+2020-09-26,15:00 CDT,Virginia,Duke,1st Half,Duke vs Virginia | 1st Half Lines,Virginia,,-175.0,2020-09-22 20:25
+2020-09-26,14:30 CDT,UL Monroe,UTEP,1st Half,UTEP vs UL Monroe | 1st Half Lines,UTEP,,250.0,2020-09-22 20:25
+2020-09-26,14:30 CDT,UL Monroe,UTEP,1st Half,UTEP vs UL Monroe | 1st Half Lines,UL Monroe,,-300.0,2020-09-22 20:25
+2020-09-26,14:30 CDT,Cincinnati,Army,1st Half,Army vs Cincinnati | 1st Half Lines,Army,,340.0,2020-09-22 20:25
+2020-09-26,11:00 CDT,UL Lafayette,Georgia Southern,1st Half,Georgia Southern vs UL Lafayette | 1st Half Lines,UL Lafayette,,-450.0,2020-09-22 20:25
+2020-09-26,14:30 CDT,LSU,Mississippi St,1st Half,Mississippi St vs LSU | 1st Half Lines,Mississippi St,,400.0,2020-09-22 20:25
+2020-09-26,14:30 CDT,LSU,Mississippi St,1st Half,Mississippi St vs LSU | 1st Half Lines,LSU,,-550.0,2020-09-22 20:25
+2020-09-26,14:30 CDT,Texas Tech,Texas,1st Half,Texas vs Texas Tech | 1st Half Lines,Texas,,-600.0,2020-09-22 20:25
+2020-09-26,14:30 CDT,Texas Tech,Texas,1st Half,Texas vs Texas Tech | 1st Half Lines,Texas Tech,,450.0,2020-09-22 20:25
+2020-09-26,13:30 CDT,Southern Miss,Tulane,1st Half,Tulane vs Southern Miss | 1st Half Lines,Tulane,,-145.0,2020-09-22 20:25
+2020-09-26,11:00 CDT,UL Lafayette,Georgia Southern,1st Half,Georgia Southern vs UL Lafayette | 1st Half Lines,Georgia Southern,,350.0,2020-09-22 20:25
+2020-09-26,12:00 CDT,Liberty,Florida Intl,1st Half,Florida Intl vs Liberty | 1st Half Lines,Florida Intl,,170.0,2020-09-22 20:25
+2020-09-26,12:00 CDT,Liberty,Florida Intl,1st Half,Florida Intl vs Liberty | 1st Half Lines,Liberty,,-200.0,2020-09-22 20:25
+2020-09-26,21:15 CDT,BYU,Troy,1st Half,Troy vs BYU | 1st Half Lines,Troy,,340.0,2020-09-22 20:25
+2020-09-26,11:00 CDT,Auburn,Kentucky,1st Half,Kentucky vs Auburn | 1st Half Lines,Kentucky,,210.0,2020-09-22 20:25
+2020-09-26,11:00 CDT,Auburn,Kentucky,1st Half,Kentucky vs Auburn | 1st Half Lines,Auburn,,-250.0,2020-09-22 20:25
+2020-09-26,11:00 CDT,Mississippi,Florida,1st Half,Florida vs Mississippi | 1st Half Lines,Florida,,-500.0,2020-09-22 20:25
 2020-09-24,18:30 CDT,South Alabama,UAB,1st Half,UAB vs South Alabama | 1st Half Lines,South Alabama,,185.0,2020-09-22 20:25
 2020-09-24,18:30 CDT,South Alabama,UAB,1st Half,UAB vs South Alabama | 1st Half Lines,UAB,,-225.0,2020-09-22 20:25
 2020-09-26,11:00 CDT,Syracuse,Georgia Tech,1st Half,Georgia Tech vs Syracuse | 1st Half Lines,Syracuse,,190.0,2020-09-22 20:25
@@ -176,171 +291,77 @@ datetime,Game_Time,Home,Away,Title,Description,Bet,Spread/overunder,Odds,scraped
 2020-09-26,11:00 CDT,Pittsburgh U,Louisville,1st Half,Louisville vs Pittsburgh U | 1st Half Lines,Pittsburgh U,,-130.0,2020-09-22 20:25
 2020-09-26,11:00 CDT,Pittsburgh U,Louisville,1st Half,Louisville vs Pittsburgh U | 1st Half Lines,Louisville,,110.0,2020-09-22 20:25
 2020-09-26,11:00 CDT,Mississippi,Florida,1st Half,Florida vs Mississippi | 1st Half Lines,Mississippi,,375.0,2020-09-22 20:25
-2020-09-26,11:00 CDT,Mississippi,Florida,1st Half,Florida vs Mississippi | 1st Half Lines,Florida,,-500.0,2020-09-22 20:25
-2020-09-26,11:00 CDT,UL Lafayette,Georgia Southern,1st Half,Georgia Southern vs UL Lafayette | 1st Half Lines,UL Lafayette,,-450.0,2020-09-22 20:25
-2020-09-26,11:00 CDT,UL Lafayette,Georgia Southern,1st Half,Georgia Southern vs UL Lafayette | 1st Half Lines,Georgia Southern,,350.0,2020-09-22 20:25
-2020-09-26,11:00 CDT,Auburn,Kentucky,1st Half,Kentucky vs Auburn | 1st Half Lines,Auburn,,-250.0,2020-09-22 20:25
-2020-09-26,11:00 CDT,Auburn,Kentucky,1st Half,Kentucky vs Auburn | 1st Half Lines,Kentucky,,210.0,2020-09-22 20:25
-2020-09-26,12:00 CDT,Liberty,Florida Intl,1st Half,Florida Intl vs Liberty | 1st Half Lines,Liberty,,-200.0,2020-09-22 20:25
-2020-09-26,12:00 CDT,Liberty,Florida Intl,1st Half,Florida Intl vs Liberty | 1st Half Lines,Florida Intl,,170.0,2020-09-22 20:25
-2020-09-26,13:30 CDT,Southern Miss,Tulane,1st Half,Tulane vs Southern Miss | 1st Half Lines,Southern Miss,,125.0,2020-09-22 20:25
-2020-09-26,13:30 CDT,Southern Miss,Tulane,1st Half,Tulane vs Southern Miss | 1st Half Lines,Tulane,,-145.0,2020-09-22 20:25
-2020-09-26,14:30 CDT,Texas Tech,Texas,1st Half,Texas vs Texas Tech | 1st Half Lines,Texas Tech,,450.0,2020-09-22 20:25
-2020-09-26,14:30 CDT,Texas Tech,Texas,1st Half,Texas vs Texas Tech | 1st Half Lines,Texas,,-600.0,2020-09-22 20:25
-2020-09-26,14:30 CDT,LSU,Mississippi St,1st Half,Mississippi St vs LSU | 1st Half Lines,LSU,,-550.0,2020-09-22 20:25
-2020-09-26,14:30 CDT,LSU,Mississippi St,1st Half,Mississippi St vs LSU | 1st Half Lines,Mississippi St,,400.0,2020-09-22 20:25
-2020-09-26,14:30 CDT,Cincinnati,Army,1st Half,Army vs Cincinnati | 1st Half Lines,Cincinnati,,-420.0,2020-09-22 20:25
-2020-09-26,14:30 CDT,Cincinnati,Army,1st Half,Army vs Cincinnati | 1st Half Lines,Army,,340.0,2020-09-22 20:25
-2020-09-26,14:30 CDT,UL Monroe,UTEP,1st Half,UTEP vs UL Monroe | 1st Half Lines,UL Monroe,,-300.0,2020-09-22 20:25
-2020-09-26,14:30 CDT,UL Monroe,UTEP,1st Half,UTEP vs UL Monroe | 1st Half Lines,UTEP,,250.0,2020-09-22 20:25
-2020-09-26,15:00 CDT,Virginia,Duke,1st Half,Duke vs Virginia | 1st Half Lines,Virginia,,-175.0,2020-09-22 20:25
-2020-09-26,15:00 CDT,Virginia,Duke,1st Half,Duke vs Virginia | 1st Half Lines,Duke,,155.0,2020-09-22 20:25
-2020-09-26,17:00 CDT,Florida Atlantic,South Florida,1st Half,South Florida vs Florida Atlantic | 1st Half Lines,Florida Atlantic,,-135.0,2020-09-22 20:25
-2020-09-26,17:00 CDT,Florida Atlantic,South Florida,1st Half,South Florida vs Florida Atlantic | 1st Half Lines,South Florida,,115.0,2020-09-22 20:25
-2020-09-26,17:00 CDT,Boston College,Texas State,1st Half,Texas State vs Boston College | 1st Half Lines,Boston College,,-575.0,2020-09-22 20:25
-2020-09-26,17:00 CDT,Boston College,Texas State,1st Half,Texas State vs Boston College | 1st Half Lines,Texas State,,425.0,2020-09-22 20:25
-2020-09-26,18:30 CDT,Miami Florida,Florida State,1st Half,Florida State vs Miami Florida | 1st Half Lines,Miami Florida,,-325.0,2020-09-22 20:25
-2020-09-26,18:30 CDT,Miami Florida,Florida State,1st Half,Florida State vs Miami Florida | 1st Half Lines,Florida State,,265.0,2020-09-22 20:25
-2020-09-26,18:30 CDT,South Carolina,Tennessee U,1st Half,Tennessee U vs South Carolina | 1st Half Lines,South Carolina,,130.0,2020-09-22 20:25
-2020-09-26,18:30 CDT,South Carolina,Tennessee U,1st Half,Tennessee U vs South Carolina | 1st Half Lines,Tennessee U,,-150.0,2020-09-22 20:25
-2020-09-26,18:30 CDT,Baylor,Kansas,1st Half,Kansas vs Baylor | 1st Half Lines,Baylor,,-550.0,2020-09-22 20:25
-2020-09-26,18:30 CDT,Baylor,Kansas,1st Half,Kansas vs Baylor | 1st Half Lines,Kansas,,400.0,2020-09-22 20:25
-2020-09-26,19:00 CDT,Virginia Tech,NC State,1st Half,NC State vs Virginia Tech | 1st Half Lines,Virginia Tech,,-200.0,2020-09-22 20:25
-2020-09-26,19:00 CDT,Virginia Tech,NC State,1st Half,NC State vs Virginia Tech | 1st Half Lines,NC State,,170.0,2020-09-22 20:25
-2020-09-26,21:15 CDT,BYU,Troy,1st Half,Troy vs BYU | 1st Half Lines,BYU,,-420.0,2020-09-22 20:25
-2020-09-26,21:15 CDT,BYU,Troy,1st Half,Troy vs BYU | 1st Half Lines,Troy,,340.0,2020-09-22 20:25
-2020-09-24,18:30 CDT,South Alabama,UAB,1st Half,UAB vs South Alabama | 1st Half Lines,South Alabama,4.0,-115.0,2020-09-23 08:01
-2020-09-24,18:30 CDT,South Alabama,UAB,1st Half,UAB vs South Alabama | 1st Half Lines,UAB,-4.0,-105.0,2020-09-23 08:01
-2020-09-26,11:00 CDT,Syracuse,Georgia Tech,1st Half,Georgia Tech vs Syracuse | 1st Half Lines,Syracuse,4.0,-105.0,2020-09-23 08:01
-2020-09-26,11:00 CDT,Syracuse,Georgia Tech,1st Half,Georgia Tech vs Syracuse | 1st Half Lines,Georgia Tech,-4.0,-115.0,2020-09-23 08:01
-2020-09-26,11:00 CDT,Pittsburgh U,Louisville,1st Half,Louisville vs Pittsburgh U | 1st Half Lines,Pittsburgh U,-1.5,100.0,2020-09-23 08:01
-2020-09-26,11:00 CDT,Pittsburgh U,Louisville,1st Half,Louisville vs Pittsburgh U | 1st Half Lines,Louisville,1.5,-120.0,2020-09-23 08:01
-2020-09-26,11:00 CDT,Mississippi,Florida,1st Half,Florida vs Mississippi | 1st Half Lines,Mississippi,9.0,-120.0,2020-09-23 08:01
-2020-09-26,11:00 CDT,Mississippi,Florida,1st Half,Florida vs Mississippi | 1st Half Lines,Florida,-9.0,100.0,2020-09-23 08:01
+2020-09-26,12:30 CDT,TCU,Iowa State,1st Half,Iowa State vs TCU | 1st Half Lines,Under,22.5,-110.0,2020-09-23 08:01
+2020-09-26,12:30 CDT,TCU,Iowa State,1st Half,Iowa State vs TCU | 1st Half Lines,Over,22.5,-110.0,2020-09-23 08:01
+2020-09-26,12:30 CDT,TCU,Iowa State,1st Half,Iowa State vs TCU | 1st Half Lines,Iowa State,-0.5,-110.0,2020-09-23 08:01
+2020-09-26,12:30 CDT,TCU,Iowa State,1st Half,Iowa State vs TCU | 1st Half Lines,TCU,0.5,-110.0,2020-09-23 08:01
 2020-09-26,11:00 CDT,UL Lafayette,Georgia Southern,1st Half,Georgia Southern vs UL Lafayette | 1st Half Lines,UL Lafayette,-7.0,-120.0,2020-09-23 08:01
+2020-09-26,14:30 CDT,LSU,Mississippi St,1st Half,Mississippi St vs LSU | 1st Half Lines,Mississippi St,9.0,-110.0,2020-09-23 08:01
+2020-09-26,14:30 CDT,LSU,Mississippi St,1st Half,Mississippi St vs LSU | 1st Half Lines,LSU,-9.0,-110.0,2020-09-23 08:01
+2020-09-26,11:00 CDT,Mississippi,Florida,1st Half,Florida vs Mississippi | 1st Half Lines,Florida,-9.0,100.0,2020-09-23 08:01
+2020-09-26,14:30 CDT,Texas Tech,Texas,1st Half,Texas vs Texas Tech | 1st Half Lines,Texas Tech,10.0,-110.0,2020-09-23 08:01
+2020-09-26,11:00 CDT,Mississippi,Florida,1st Half,Florida vs Mississippi | 1st Half Lines,Mississippi,9.0,-120.0,2020-09-23 08:01
+2020-09-26,11:00 CDT,Pittsburgh U,Louisville,1st Half,Louisville vs Pittsburgh U | 1st Half Lines,Louisville,1.5,-120.0,2020-09-23 08:01
 2020-09-26,11:00 CDT,UL Lafayette,Georgia Southern,1st Half,Georgia Southern vs UL Lafayette | 1st Half Lines,Georgia Southern,7.0,100.0,2020-09-23 08:01
+2020-09-26,14:30 CDT,Texas Tech,Texas,1st Half,Texas vs Texas Tech | 1st Half Lines,Texas,-10.0,-110.0,2020-09-23 08:01
+2020-09-26,11:00 CDT,Syracuse,Georgia Tech,1st Half,Georgia Tech vs Syracuse | 1st Half Lines,Syracuse,4.0,-105.0,2020-09-23 08:01
+2020-09-24,18:30 CDT,South Alabama,UAB,1st Half,UAB vs South Alabama | 1st Half Lines,UAB,-4.0,-105.0,2020-09-23 08:01
+2020-09-26,11:00 CDT,Syracuse,Georgia Tech,1st Half,Georgia Tech vs Syracuse | 1st Half Lines,Georgia Tech,-4.0,-115.0,2020-09-23 08:01
 2020-09-26,11:00 CDT,Auburn,Kentucky,1st Half,Kentucky vs Auburn | 1st Half Lines,Auburn,-4.0,-120.0,2020-09-23 08:01
 2020-09-26,11:00 CDT,Auburn,Kentucky,1st Half,Kentucky vs Auburn | 1st Half Lines,Kentucky,4.0,100.0,2020-09-23 08:01
 2020-09-26,12:00 CDT,Liberty,Florida Intl,1st Half,Florida Intl vs Liberty | 1st Half Lines,Liberty,-3.5,-105.0,2020-09-23 08:01
 2020-09-26,12:00 CDT,Liberty,Florida Intl,1st Half,Florida Intl vs Liberty | 1st Half Lines,Florida Intl,3.5,-115.0,2020-09-23 08:01
 2020-09-26,13:30 CDT,Southern Miss,Tulane,1st Half,Tulane vs Southern Miss | 1st Half Lines,Southern Miss,1.5,-105.0,2020-09-23 08:01
 2020-09-26,13:30 CDT,Southern Miss,Tulane,1st Half,Tulane vs Southern Miss | 1st Half Lines,Tulane,-1.5,-115.0,2020-09-23 08:01
-2020-09-26,14:30 CDT,Texas Tech,Texas,1st Half,Texas vs Texas Tech | 1st Half Lines,Texas Tech,10.0,-110.0,2020-09-23 08:01
-2020-09-26,14:30 CDT,Texas Tech,Texas,1st Half,Texas vs Texas Tech | 1st Half Lines,Texas,-10.0,-110.0,2020-09-23 08:01
-2020-09-26,14:30 CDT,LSU,Mississippi St,1st Half,Mississippi St vs LSU | 1st Half Lines,LSU,-9.0,-110.0,2020-09-23 08:01
-2020-09-26,14:30 CDT,LSU,Mississippi St,1st Half,Mississippi St vs LSU | 1st Half Lines,Mississippi St,9.0,-110.0,2020-09-23 08:01
-2020-09-26,14:30 CDT,Cincinnati,Army,1st Half,Army vs Cincinnati | 1st Half Lines,Cincinnati,-7.5,-115.0,2020-09-23 08:02
-2020-09-26,14:30 CDT,Cincinnati,Army,1st Half,Army vs Cincinnati | 1st Half Lines,Army,7.5,-105.0,2020-09-23 08:02
-2020-09-26,14:30 CDT,UL Monroe,UTEP,1st Half,UTEP vs UL Monroe | 1st Half Lines,UL Monroe,-5.5,-110.0,2020-09-23 08:02
-2020-09-26,14:30 CDT,UL Monroe,UTEP,1st Half,UTEP vs UL Monroe | 1st Half Lines,UTEP,5.5,-110.0,2020-09-23 08:02
-2020-09-26,15:00 CDT,Virginia,Duke,1st Half,Duke vs Virginia | 1st Half Lines,Virginia,-3.0,-110.0,2020-09-23 08:02
-2020-09-26,15:00 CDT,Virginia,Duke,1st Half,Duke vs Virginia | 1st Half Lines,Duke,3.0,-110.0,2020-09-23 08:02
-2020-09-26,17:00 CDT,Florida Atlantic,South Florida,1st Half,South Florida vs Florida Atlantic | 1st Half Lines,Florida Atlantic,-1.5,-110.0,2020-09-23 08:02
-2020-09-26,17:00 CDT,Florida Atlantic,South Florida,1st Half,South Florida vs Florida Atlantic | 1st Half Lines,South Florida,1.5,-110.0,2020-09-23 08:02
-2020-09-26,17:00 CDT,Boston College,Texas State,1st Half,Texas State vs Boston College | 1st Half Lines,Boston College,-10.0,-110.0,2020-09-23 08:02
-2020-09-26,17:00 CDT,Boston College,Texas State,1st Half,Texas State vs Boston College | 1st Half Lines,Texas State,10.0,-110.0,2020-09-23 08:02
-2020-09-26,18:30 CDT,Miami Florida,Florida State,1st Half,Florida State vs Miami Florida | 1st Half Lines,Miami Florida,-6.5,-120.0,2020-09-23 08:02
-2020-09-26,18:30 CDT,Miami Florida,Florida State,1st Half,Florida State vs Miami Florida | 1st Half Lines,Florida State,6.5,100.0,2020-09-23 08:02
-2020-09-26,18:30 CDT,South Carolina,Tennessee U,1st Half,Tennessee U vs South Carolina | 1st Half Lines,South Carolina,2.5,-110.0,2020-09-23 08:02
-2020-09-26,18:30 CDT,South Carolina,Tennessee U,1st Half,Tennessee U vs South Carolina | 1st Half Lines,Tennessee U,-2.5,-110.0,2020-09-23 08:02
-2020-09-26,18:30 CDT,Baylor,Kansas,1st Half,Kansas vs Baylor | 1st Half Lines,Baylor,-9.5,-110.0,2020-09-23 08:02
-2020-09-26,18:30 CDT,Baylor,Kansas,1st Half,Kansas vs Baylor | 1st Half Lines,Kansas,9.5,-110.0,2020-09-23 08:02
-2020-09-26,19:00 CDT,Virginia Tech,NC State,1st Half,NC State vs Virginia Tech | 1st Half Lines,Virginia Tech,-3.5,-120.0,2020-09-23 08:02
-2020-09-26,19:00 CDT,Virginia Tech,NC State,1st Half,NC State vs Virginia Tech | 1st Half Lines,NC State,3.5,100.0,2020-09-23 08:02
-2020-09-26,21:15 CDT,BYU,Troy,1st Half,Troy vs BYU | 1st Half Lines,BYU,-7.5,-120.0,2020-09-23 08:02
-2020-09-26,21:15 CDT,BYU,Troy,1st Half,Troy vs BYU | 1st Half Lines,Troy,7.5,100.0,2020-09-23 08:02
-2020-09-24,18:30 CDT,South Alabama,UAB,1st Half,UAB vs South Alabama | 1st Half Lines,Over,24.0,100.0,2020-09-22 15:22
-2020-09-24,18:30 CDT,South Alabama,UAB,1st Half,UAB vs South Alabama | 1st Half Lines,Under,24.0,-120.0,2020-09-22 15:22
-2020-09-26,11:00 CDT,East Carolina,Central Florida,1st Half,Central Florida vs East Carolina | 1st Half Lines,East Carolina,14.5,-110.0,2020-09-22 15:22
-2020-09-26,11:00 CDT,East Carolina,Central Florida,1st Half,Central Florida vs East Carolina | 1st Half Lines,Central Florida,-14.5,-110.0,2020-09-22 15:22
-2020-09-26,11:00 CDT,East Carolina,Central Florida,1st Half,Central Florida vs East Carolina | 1st Half Lines,Over,40.0,-110.0,2020-09-22 15:22
-2020-09-26,11:00 CDT,East Carolina,Central Florida,1st Half,Central Florida vs East Carolina | 1st Half Lines,Under,40.0,-110.0,2020-09-22 15:22
-2020-09-26,11:00 CDT,Charlotte,Georgia State,1st Half,Georgia State vs Charlotte | 1st Half Lines,Charlotte,0.5,100.0,2020-09-22 15:22
-2020-09-26,11:00 CDT,Charlotte,Georgia State,1st Half,Georgia State vs Charlotte | 1st Half Lines,Georgia State,-0.5,-120.0,2020-09-22 15:22
-2020-09-26,11:00 CDT,Charlotte,Georgia State,1st Half,Georgia State vs Charlotte | 1st Half Lines,Over,28.5,-110.0,2020-09-22 15:22
-2020-09-26,11:00 CDT,Charlotte,Georgia State,1st Half,Georgia State vs Charlotte | 1st Half Lines,Under,28.5,-110.0,2020-09-22 15:22
-2020-09-26,11:00 CDT,Syracuse,Georgia Tech,1st Half,Georgia Tech vs Syracuse | 1st Half Lines,Over,26.5,-110.0,2020-09-22 15:22
-2020-09-26,11:00 CDT,Syracuse,Georgia Tech,1st Half,Georgia Tech vs Syracuse | 1st Half Lines,Under,26.5,-110.0,2020-09-22 15:22
-2020-09-26,11:00 CDT,Pittsburgh U,Louisville,1st Half,Louisville vs Pittsburgh U | 1st Half Lines,Over,27.0,-110.0,2020-09-22 15:22
-2020-09-26,11:00 CDT,Pittsburgh U,Louisville,1st Half,Louisville vs Pittsburgh U | 1st Half Lines,Under,27.0,-110.0,2020-09-22 15:22
-2020-09-26,11:00 CDT,Mississippi,Florida,1st Half,Florida vs Mississippi | 1st Half Lines,Over,28.5,-110.0,2020-09-22 15:22
-2020-09-26,11:00 CDT,Mississippi,Florida,1st Half,Florida vs Mississippi | 1st Half Lines,Under,28.5,-110.0,2020-09-22 15:22
-2020-09-26,11:00 CDT,UL Lafayette,Georgia Southern,1st Half,Georgia Southern vs UL Lafayette | 1st Half Lines,Over,27.0,-110.0,2020-09-22 15:22
-2020-09-26,11:00 CDT,UL Lafayette,Georgia Southern,1st Half,Georgia Southern vs UL Lafayette | 1st Half Lines,Under,27.0,-110.0,2020-09-22 15:22
-2020-09-26,11:00 CDT,Oklahoma,Kansas State,1st Half,Kansas State vs Oklahoma | 1st Half Lines,Oklahoma,-17.0,-110.0,2020-09-22 15:22
-2020-09-26,11:00 CDT,Oklahoma,Kansas State,1st Half,Kansas State vs Oklahoma | 1st Half Lines,Kansas State,17.0,-110.0,2020-09-22 15:22
-2020-09-26,11:00 CDT,Oklahoma,Kansas State,1st Half,Kansas State vs Oklahoma | 1st Half Lines,Over,31.5,-110.0,2020-09-22 15:22
-2020-09-26,11:00 CDT,Oklahoma,Kansas State,1st Half,Kansas State vs Oklahoma | 1st Half Lines,Under,31.5,-110.0,2020-09-22 15:22
-2020-09-26,11:00 CDT,Auburn,Kentucky,1st Half,Kentucky vs Auburn | 1st Half Lines,Over,24.0,-110.0,2020-09-22 15:22
-2020-09-26,11:00 CDT,Auburn,Kentucky,1st Half,Kentucky vs Auburn | 1st Half Lines,Under,24.0,-110.0,2020-09-22 15:22
-2020-09-26,12:00 CDT,Liberty,Florida Intl,1st Half,Florida Intl vs Liberty | 1st Half Lines,Over,28.5,-110.0,2020-09-22 15:22
-2020-09-26,12:00 CDT,Liberty,Florida Intl,1st Half,Florida Intl vs Liberty | 1st Half Lines,Under,28.5,-110.0,2020-09-22 15:22
-2020-09-26,13:30 CDT,Southern Miss,Tulane,1st Half,Tulane vs Southern Miss | 1st Half Lines,Over,27.0,-120.0,2020-09-22 15:22
-2020-09-26,13:30 CDT,Southern Miss,Tulane,1st Half,Tulane vs Southern Miss | 1st Half Lines,Under,27.0,100.0,2020-09-22 15:22
-2020-09-26,14:30 CDT,Texas Tech,Texas,1st Half,Texas vs Texas Tech | 1st Half Lines,Over,35.5,-110.0,2020-09-22 15:22
-2020-09-26,14:30 CDT,Texas Tech,Texas,1st Half,Texas vs Texas Tech | 1st Half Lines,Under,35.5,-110.0,2020-09-22 15:22
-2020-09-26,14:30 CDT,LSU,Mississippi St,1st Half,Mississippi St vs LSU | 1st Half Lines,Over,29.5,-110.0,2020-09-22 15:22
-2020-09-26,14:30 CDT,LSU,Mississippi St,1st Half,Mississippi St vs LSU | 1st Half Lines,Under,29.5,-110.0,2020-09-22 15:22
-2020-09-26,14:30 CDT,Arkansas State,Tulsa,1st Half,Tulsa vs Arkansas State | 1st Half Lines,Arkansas State,-0.5,-120.0,2020-09-22 15:22
-2020-09-26,14:30 CDT,Arkansas State,Tulsa,1st Half,Tulsa vs Arkansas State | 1st Half Lines,Tulsa,0.5,100.0,2020-09-22 15:22
-2020-09-26,14:30 CDT,Arkansas State,Tulsa,1st Half,Tulsa vs Arkansas State | 1st Half Lines,Over,32.0,-110.0,2020-09-22 15:22
-2020-09-26,14:30 CDT,Arkansas State,Tulsa,1st Half,Tulsa vs Arkansas State | 1st Half Lines,Under,32.0,-110.0,2020-09-22 15:22
-2020-09-26,14:30 CDT,Cincinnati,Army,1st Half,Army vs Cincinnati | 1st Half Lines,Over,23.5,-110.0,2020-09-22 15:22
-2020-09-26,14:30 CDT,Cincinnati,Army,1st Half,Army vs Cincinnati | 1st Half Lines,Under,23.5,-110.0,2020-09-22 15:22
-2020-09-26,15:00 CDT,Arkansas,Georgia,1st Half,Georgia vs Arkansas | 1st Half Lines,Arkansas,14.5,-110.0,2020-09-22 15:22
-2020-09-26,15:00 CDT,Arkansas,Georgia,1st Half,Georgia vs Arkansas | 1st Half Lines,Georgia,-14.5,-110.0,2020-09-22 15:22
-2020-09-26,15:00 CDT,Arkansas,Georgia,1st Half,Georgia vs Arkansas | 1st Half Lines,Over,28.0,-110.0,2020-09-22 15:22
-2020-09-26,15:00 CDT,Arkansas,Georgia,1st Half,Georgia vs Arkansas | 1st Half Lines,Under,28.0,-110.0,2020-09-22 15:22
-2020-09-26,17:00 CDT,Florida Atlantic,South Florida,1st Half,South Florida vs Florida Atlantic | 1st Half Lines,Over,24.0,-120.0,2020-09-22 15:22
-2020-09-26,17:00 CDT,Florida Atlantic,South Florida,1st Half,South Florida vs Florida Atlantic | 1st Half Lines,Under,24.0,100.0,2020-09-22 15:22
-2020-09-26,17:00 CDT,Boston College,Texas State,1st Half,Texas State vs Boston College | 1st Half Lines,Over,29.5,-110.0,2020-09-22 15:22
-2020-09-26,17:00 CDT,Boston College,Texas State,1st Half,Texas State vs Boston College | 1st Half Lines,Under,29.5,-110.0,2020-09-22 15:22
-2020-09-26,18:00 CDT,Missouri,Alabama,1st Half,Alabama vs Missouri | 1st Half Lines,Missouri,15.5,-110.0,2020-09-22 15:22
-2020-09-26,18:00 CDT,Missouri,Alabama,1st Half,Alabama vs Missouri | 1st Half Lines,Alabama,-15.5,-110.0,2020-09-22 15:22
-2020-09-26,18:00 CDT,Missouri,Alabama,1st Half,Alabama vs Missouri | 1st Half Lines,Over,30.0,-110.0,2020-09-22 15:22
-2020-09-26,18:00 CDT,Missouri,Alabama,1st Half,Alabama vs Missouri | 1st Half Lines,Under,30.0,-110.0,2020-09-22 15:22
-2020-09-26,18:00 CDT,Houston,North Texas,1st Half,North Texas vs Houston | 1st Half Lines,Houston,-13.0,100.0,2020-09-22 15:22
-2020-09-26,18:00 CDT,Houston,North Texas,1st Half,North Texas vs Houston | 1st Half Lines,North Texas,13.0,-120.0,2020-09-22 15:22
-2020-09-26,18:00 CDT,Houston,North Texas,1st Half,North Texas vs Houston | 1st Half Lines,Over,37.0,-110.0,2020-09-22 15:22
-2020-09-26,18:00 CDT,Houston,North Texas,1st Half,North Texas vs Houston | 1st Half Lines,Under,37.0,-110.0,2020-09-22 15:22
-2020-09-26,18:30 CDT,Miami Florida,Florida State,1st Half,Florida State vs Miami Florida | 1st Half Lines,Over,28.0,-110.0,2020-09-22 15:22
-2020-09-26,18:30 CDT,Miami Florida,Florida State,1st Half,Florida State vs Miami Florida | 1st Half Lines,Under,28.0,-110.0,2020-09-22 15:22
-2020-09-26,18:30 CDT,Baylor,Kansas,1st Half,Kansas vs Baylor | 1st Half Lines,Over,31.0,-110.0,2020-09-22 15:22
-2020-09-26,18:30 CDT,Baylor,Kansas,1st Half,Kansas vs Baylor | 1st Half Lines,Under,31.0,-110.0,2020-09-22 15:22
-2020-09-26,18:30 CDT,Texas A&M,Vanderbilt,1st Half,Vanderbilt vs Texas A&M | 1st Half Lines,Texas A&M,-17.5,-110.0,2020-09-22 15:22
-2020-09-26,18:30 CDT,Texas A&M,Vanderbilt,1st Half,Vanderbilt vs Texas A&M | 1st Half Lines,Vanderbilt,17.5,-110.0,2020-09-22 15:22
-2020-09-26,18:30 CDT,Texas A&M,Vanderbilt,1st Half,Vanderbilt vs Texas A&M | 1st Half Lines,Over,26.5,-110.0,2020-09-22 15:22
-2020-09-26,18:30 CDT,Texas A&M,Vanderbilt,1st Half,Vanderbilt vs Texas A&M | 1st Half Lines,Under,26.5,-110.0,2020-09-22 15:22
-2020-09-26,19:00 CDT,Virginia Tech,NC State,1st Half,NC State vs Virginia Tech | 1st Half Lines,Over,28.5,100.0,2020-09-22 15:22
-2020-09-26,19:00 CDT,Virginia Tech,NC State,1st Half,NC State vs Virginia Tech | 1st Half Lines,Under,28.5,-120.0,2020-09-22 15:22
-2020-09-26,21:15 CDT,BYU,Troy,1st Half,Troy vs BYU | 1st Half Lines,Over,31.0,-110.0,2020-09-22 15:22
-2020-09-26,21:15 CDT,BYU,Troy,1st Half,Troy vs BYU | 1st Half Lines,Under,31.0,-110.0,2020-09-22 15:22
-2020-10-24,10:00 CDT,Purdue,Iowa,Iowa Season Long,IOWA GAME 1 - Iowa at Purdue,Purdue,9.5,-110.0,2020-09-22 16:42
-2020-10-24,10:00 CDT,Purdue,Iowa,Iowa Season Long,IOWA GAME 1 - Iowa at Purdue,Iowa,-9.5,-110.0,2020-09-22 16:42
-2020-10-31,10:00 CDT,Iowa,Northwestern,Iowa Season Long,IOWA GAME 2 - Northwestern at Iowa,Iowa,-14.5,-110.0,2020-09-22 16:42
-2020-10-31,10:00 CDT,Iowa,Northwestern,Iowa Season Long,IOWA GAME 2 - Northwestern at Iowa,Northwestern,14.5,-110.0,2020-09-22 16:42
-2020-11-07,10:00 CST,Iowa,Michigan St,Iowa Season Long,IOWA GAME 3 - Michigan St at Iowa,Iowa,-4.0,-110.0,2020-09-22 16:42
-2020-11-07,10:00 CST,Iowa,Michigan St,Iowa Season Long,IOWA GAME 3 - Michigan St at Iowa,Michigan St,4.0,-110.0,2020-09-22 16:42
-2020-11-14,10:00 CST,Minnesota,Iowa,Iowa Season Long,IOWA GAME 4 - Iowa at Minnesota,Minnesota,-2.0,-110.0,2020-09-22 16:42
-2020-11-14,10:00 CST,Minnesota,Iowa,Iowa Season Long,IOWA GAME 4 - Iowa at Minnesota,Iowa,2.0,-110.0,2020-09-22 16:42
-2020-11-21,10:00 CST,Penn State,Iowa,Iowa Season Long,IOWA GAME 5 - Iowa at Penn State,Penn State,-7.0,-110.0,2020-09-22 16:42
-2020-11-21,10:00 CST,Penn State,Iowa,Iowa Season Long,IOWA GAME 5 - Iowa at Penn State,Iowa,7.0,-110.0,2020-09-22 16:42
-2020-11-28,10:00 CST,Iowa,Nebraska,Iowa Season Long,IOWA GAME 6 - Nebraska at Iowa,Iowa,-3.0,-110.0,2020-09-22 16:42
-2020-11-28,10:00 CST,Iowa,Nebraska,Iowa Season Long,IOWA GAME 6 - Nebraska at Iowa,Nebraska,3.0,-110.0,2020-09-22 16:42
-2020-12-05,10:00 CST,Illinois,Iowa,Iowa Season Long,IOWA GAME 7 - Iowa at Illinois,Illinois,13.0,-110.0,2020-09-22 16:42
-2020-12-05,10:00 CST,Illinois,Iowa,Iowa Season Long,IOWA GAME 7 - Iowa at Illinois,Iowa,-13.0,-110.0,2020-09-22 16:42
-2020-12-12,10:00 CST,Iowa,Wisconsin,Iowa Season Long,IOWA GAME 8 - Wisconsin at Iowa,Iowa,4.5,-110.0,2020-09-22 16:42
-2020-12-12,10:00 CST,Iowa,Wisconsin,Iowa Season Long,IOWA GAME 8 - Wisconsin at Iowa,Wisconsin,-4.5,-110.0,2020-09-22 16:42
-2020-09-26,12:30 CDT,TCU,Iowa State,1st Half,Iowa State vs TCU | 1st Half Lines,TCU,0.5,-110.0,2020-09-23 08:01
-2020-09-26,12:30 CDT,TCU,Iowa State,1st Half,Iowa State vs TCU | 1st Half Lines,Iowa State,-0.5,-110.0,2020-09-23 08:01
-2020-09-26,12:30 CDT,TCU,Iowa State,1st Half,Iowa State vs TCU | 1st Half Lines,Over,22.5,-110.0,2020-09-23 08:01
-2020-09-26,12:30 CDT,TCU,Iowa State,1st Half,Iowa State vs TCU | 1st Half Lines,Under,22.5,-110.0,2020-09-23 08:01
+2020-09-24,18:30 CDT,South Alabama,UAB,1st Half,UAB vs South Alabama | 1st Half Lines,South Alabama,4.0,-115.0,2020-09-23 08:01
+2020-09-26,11:00 CDT,Pittsburgh U,Louisville,1st Half,Louisville vs Pittsburgh U | 1st Half Lines,Pittsburgh U,-1.5,100.0,2020-09-23 08:01
 2020-09-26,14:30 CDT,UL Monroe,UTEP,1st Half,UTEP vs UL Monroe | 1st Half Lines,Over,24.0,-110.0,2020-09-23 08:02
 2020-09-26,14:30 CDT,UL Monroe,UTEP,1st Half,UTEP vs UL Monroe | 1st Half Lines,Under,24.0,-110.0,2020-09-23 08:02
 2020-09-26,15:00 CDT,Virginia,Duke,1st Half,Duke vs Virginia | 1st Half Lines,Over,23.0,-110.0,2020-09-23 08:02
 2020-09-26,15:00 CDT,Virginia,Duke,1st Half,Duke vs Virginia | 1st Half Lines,Under,23.0,-110.0,2020-09-23 08:02
 2020-09-26,18:30 CDT,South Carolina,Tennessee U,1st Half,Tennessee U vs South Carolina | 1st Half Lines,Over,21.5,100.0,2020-09-23 08:02
 2020-09-26,18:30 CDT,South Carolina,Tennessee U,1st Half,Tennessee U vs South Carolina | 1st Half Lines,Under,21.5,-120.0,2020-09-23 08:02
+2020-09-26,21:15 CDT,BYU,Troy,1st Half,Troy vs BYU | 1st Half Lines,BYU,-7.5,-120.0,2020-09-23 08:02
+2020-09-26,19:00 CDT,Virginia Tech,NC State,1st Half,NC State vs Virginia Tech | 1st Half Lines,NC State,3.5,100.0,2020-09-23 08:02
+2020-09-26,21:15 CDT,BYU,Troy,1st Half,Troy vs BYU | 1st Half Lines,Troy,7.5,100.0,2020-09-23 08:02
+2020-09-26,19:00 CDT,Virginia Tech,NC State,1st Half,NC State vs Virginia Tech | 1st Half Lines,Virginia Tech,-3.5,-120.0,2020-09-23 08:02
+2020-09-26,18:30 CDT,Baylor,Kansas,1st Half,Kansas vs Baylor | 1st Half Lines,Kansas,9.5,-110.0,2020-09-23 08:02
+2020-09-26,18:30 CDT,Baylor,Kansas,1st Half,Kansas vs Baylor | 1st Half Lines,Baylor,-9.5,-110.0,2020-09-23 08:02
+2020-09-26,18:30 CDT,South Carolina,Tennessee U,1st Half,Tennessee U vs South Carolina | 1st Half Lines,Tennessee U,-2.5,-110.0,2020-09-23 08:02
+2020-09-26,18:30 CDT,Miami Florida,Florida State,1st Half,Florida State vs Miami Florida | 1st Half Lines,Florida State,6.5,100.0,2020-09-23 08:02
+2020-09-26,18:30 CDT,Miami Florida,Florida State,1st Half,Florida State vs Miami Florida | 1st Half Lines,Miami Florida,-6.5,-120.0,2020-09-23 08:02
+2020-09-26,17:00 CDT,Boston College,Texas State,1st Half,Texas State vs Boston College | 1st Half Lines,Texas State,10.0,-110.0,2020-09-23 08:02
+2020-09-26,18:30 CDT,South Carolina,Tennessee U,1st Half,Tennessee U vs South Carolina | 1st Half Lines,South Carolina,2.5,-110.0,2020-09-23 08:02
+2020-09-26,17:00 CDT,Florida Atlantic,South Florida,1st Half,South Florida vs Florida Atlantic | 1st Half Lines,South Florida,1.5,-110.0,2020-09-23 08:02
+2020-09-26,17:00 CDT,Florida Atlantic,South Florida,1st Half,South Florida vs Florida Atlantic | 1st Half Lines,Florida Atlantic,-1.5,-110.0,2020-09-23 08:02
+2020-09-26,15:00 CDT,Virginia,Duke,1st Half,Duke vs Virginia | 1st Half Lines,Duke,3.0,-110.0,2020-09-23 08:02
+2020-09-26,14:30 CDT,Cincinnati,Army,1st Half,Army vs Cincinnati | 1st Half Lines,Cincinnati,-7.5,-115.0,2020-09-23 08:02
+2020-09-26,15:00 CDT,Virginia,Duke,1st Half,Duke vs Virginia | 1st Half Lines,Virginia,-3.0,-110.0,2020-09-23 08:02
+2020-09-26,14:30 CDT,UL Monroe,UTEP,1st Half,UTEP vs UL Monroe | 1st Half Lines,UTEP,5.5,-110.0,2020-09-23 08:02
+2020-09-26,14:30 CDT,UL Monroe,UTEP,1st Half,UTEP vs UL Monroe | 1st Half Lines,UL Monroe,-5.5,-110.0,2020-09-23 08:02
+2020-09-26,14:30 CDT,Cincinnati,Army,1st Half,Army vs Cincinnati | 1st Half Lines,Army,7.5,-105.0,2020-09-23 08:02
+2020-09-26,17:00 CDT,Boston College,Texas State,1st Half,Texas State vs Boston College | 1st Half Lines,Boston College,-10.0,-110.0,2020-09-23 08:02
+2020-09-26,17:00 CDT,Florida Atlantic,South Florida,1st Half,South Florida vs Florida Atlantic | 1st Half Lines,South Florida,,115.0,2020-09-23 08:35
+2020-09-26,17:00 CDT,Florida Atlantic,South Florida,1st Half,South Florida vs Florida Atlantic | 1st Half Lines,Florida Atlantic,,-135.0,2020-09-23 08:35
+2020-09-26,14:30 CDT,UL Monroe,UTEP,1st Half,UTEP vs UL Monroe | 1st Half Lines,UL Monroe,,-300.0,2020-09-23 08:35
+2020-09-26,15:00 CDT,Virginia,Duke,1st Half,Duke vs Virginia | 1st Half Lines,Virginia,,-175.0,2020-09-23 08:35
+2020-09-26,14:30 CDT,UL Monroe,UTEP,1st Half,UTEP vs UL Monroe | 1st Half Lines,UTEP,,250.0,2020-09-23 08:35
+2020-09-26,17:00 CDT,Boston College,Texas State,1st Half,Texas State vs Boston College | 1st Half Lines,Boston College,,-575.0,2020-09-23 08:35
+2020-09-26,15:00 CDT,Virginia,Duke,1st Half,Duke vs Virginia | 1st Half Lines,Duke,,155.0,2020-09-23 08:35
+2020-09-26,17:00 CDT,Boston College,Texas State,1st Half,Texas State vs Boston College | 1st Half Lines,Texas State,,425.0,2020-09-23 08:35
+2020-09-26,21:15 CDT,BYU,Troy,1st Half,Troy vs BYU | 1st Half Lines,BYU,,-420.0,2020-09-23 08:35
+2020-09-26,18:30 CDT,Miami Florida,Florida State,1st Half,Florida State vs Miami Florida | 1st Half Lines,Florida State,,265.0,2020-09-23 08:35
+2020-09-26,18:30 CDT,South Carolina,Tennessee U,1st Half,Tennessee U vs South Carolina | 1st Half Lines,South Carolina,,130.0,2020-09-23 08:35
+2020-09-26,18:30 CDT,South Carolina,Tennessee U,1st Half,Tennessee U vs South Carolina | 1st Half Lines,Tennessee U,,-150.0,2020-09-23 08:35
+2020-09-26,18:30 CDT,Baylor,Kansas,1st Half,Kansas vs Baylor | 1st Half Lines,Baylor,,-550.0,2020-09-23 08:35
+2020-09-26,18:30 CDT,Baylor,Kansas,1st Half,Kansas vs Baylor | 1st Half Lines,Kansas,,400.0,2020-09-23 08:35
+2020-09-26,19:00 CDT,Virginia Tech,NC State,1st Half,NC State vs Virginia Tech | 1st Half Lines,Virginia Tech,,-200.0,2020-09-23 08:35
+2020-09-26,19:00 CDT,Virginia Tech,NC State,1st Half,NC State vs Virginia Tech | 1st Half Lines,NC State,,170.0,2020-09-23 08:35
+2020-09-26,14:30 CDT,Cincinnati,Army,1st Half,Army vs Cincinnati | 1st Half Lines,Army,,340.0,2020-09-23 08:35
+2020-09-26,18:30 CDT,Miami Florida,Florida State,1st Half,Florida State vs Miami Florida | 1st Half Lines,Miami Florida,,-325.0,2020-09-23 08:35
+2020-09-26,14:30 CDT,Cincinnati,Army,1st Half,Army vs Cincinnati | 1st Half Lines,Cincinnati,,-420.0,2020-09-23 08:35
+2020-09-26,11:00 CDT,Auburn,Kentucky,1st Half,Kentucky vs Auburn | 1st Half Lines,Auburn,,-250.0,2020-09-23 08:35
+2020-09-26,14:30 CDT,LSU,Mississippi St,1st Half,Mississippi St vs LSU | 1st Half Lines,LSU,,-550.0,2020-09-23 08:35
 2020-09-24,18:30 CDT,South Alabama,UAB,1st Half,UAB vs South Alabama | 1st Half Lines,South Alabama,,185.0,2020-09-23 08:35
 2020-09-24,18:30 CDT,South Alabama,UAB,1st Half,UAB vs South Alabama | 1st Half Lines,UAB,,-225.0,2020-09-23 08:35
 2020-09-26,11:00 CDT,Syracuse,Georgia Tech,1st Half,Georgia Tech vs Syracuse | 1st Half Lines,Syracuse,,190.0,2020-09-23 08:35
@@ -351,7 +372,6 @@ datetime,Game_Time,Home,Away,Title,Description,Bet,Spread/overunder,Odds,scraped
 2020-09-26,11:00 CDT,Mississippi,Florida,1st Half,Florida vs Mississippi | 1st Half Lines,Florida,,-500.0,2020-09-23 08:35
 2020-09-26,11:00 CDT,UL Lafayette,Georgia Southern,1st Half,Georgia Southern vs UL Lafayette | 1st Half Lines,UL Lafayette,,-450.0,2020-09-23 08:35
 2020-09-26,11:00 CDT,UL Lafayette,Georgia Southern,1st Half,Georgia Southern vs UL Lafayette | 1st Half Lines,Georgia Southern,,350.0,2020-09-23 08:35
-2020-09-26,11:00 CDT,Auburn,Kentucky,1st Half,Kentucky vs Auburn | 1st Half Lines,Auburn,,-250.0,2020-09-23 08:35
 2020-09-26,11:00 CDT,Auburn,Kentucky,1st Half,Kentucky vs Auburn | 1st Half Lines,Kentucky,,210.0,2020-09-23 08:35
 2020-09-26,12:00 CDT,Liberty,Florida Intl,1st Half,Florida Intl vs Liberty | 1st Half Lines,Liberty,,-200.0,2020-09-23 08:35
 2020-09-26,12:00 CDT,Liberty,Florida Intl,1st Half,Florida Intl vs Liberty | 1st Half Lines,Florida Intl,,170.0,2020-09-23 08:35
@@ -359,25 +379,5 @@ datetime,Game_Time,Home,Away,Title,Description,Bet,Spread/overunder,Odds,scraped
 2020-09-26,13:30 CDT,Southern Miss,Tulane,1st Half,Tulane vs Southern Miss | 1st Half Lines,Tulane,,-145.0,2020-09-23 08:35
 2020-09-26,14:30 CDT,Texas Tech,Texas,1st Half,Texas vs Texas Tech | 1st Half Lines,Texas Tech,,450.0,2020-09-23 08:35
 2020-09-26,14:30 CDT,Texas Tech,Texas,1st Half,Texas vs Texas Tech | 1st Half Lines,Texas,,-600.0,2020-09-23 08:35
-2020-09-26,14:30 CDT,LSU,Mississippi St,1st Half,Mississippi St vs LSU | 1st Half Lines,LSU,,-550.0,2020-09-23 08:35
 2020-09-26,14:30 CDT,LSU,Mississippi St,1st Half,Mississippi St vs LSU | 1st Half Lines,Mississippi St,,400.0,2020-09-23 08:35
-2020-09-26,14:30 CDT,Cincinnati,Army,1st Half,Army vs Cincinnati | 1st Half Lines,Cincinnati,,-420.0,2020-09-23 08:35
-2020-09-26,14:30 CDT,Cincinnati,Army,1st Half,Army vs Cincinnati | 1st Half Lines,Army,,340.0,2020-09-23 08:35
-2020-09-26,14:30 CDT,UL Monroe,UTEP,1st Half,UTEP vs UL Monroe | 1st Half Lines,UL Monroe,,-300.0,2020-09-23 08:35
-2020-09-26,14:30 CDT,UL Monroe,UTEP,1st Half,UTEP vs UL Monroe | 1st Half Lines,UTEP,,250.0,2020-09-23 08:35
-2020-09-26,15:00 CDT,Virginia,Duke,1st Half,Duke vs Virginia | 1st Half Lines,Virginia,,-175.0,2020-09-23 08:35
-2020-09-26,15:00 CDT,Virginia,Duke,1st Half,Duke vs Virginia | 1st Half Lines,Duke,,155.0,2020-09-23 08:35
-2020-09-26,17:00 CDT,Florida Atlantic,South Florida,1st Half,South Florida vs Florida Atlantic | 1st Half Lines,Florida Atlantic,,-135.0,2020-09-23 08:35
-2020-09-26,17:00 CDT,Florida Atlantic,South Florida,1st Half,South Florida vs Florida Atlantic | 1st Half Lines,South Florida,,115.0,2020-09-23 08:35
-2020-09-26,17:00 CDT,Boston College,Texas State,1st Half,Texas State vs Boston College | 1st Half Lines,Boston College,,-575.0,2020-09-23 08:35
-2020-09-26,17:00 CDT,Boston College,Texas State,1st Half,Texas State vs Boston College | 1st Half Lines,Texas State,,425.0,2020-09-23 08:35
-2020-09-26,18:30 CDT,Miami Florida,Florida State,1st Half,Florida State vs Miami Florida | 1st Half Lines,Miami Florida,,-325.0,2020-09-23 08:35
-2020-09-26,18:30 CDT,Miami Florida,Florida State,1st Half,Florida State vs Miami Florida | 1st Half Lines,Florida State,,265.0,2020-09-23 08:35
-2020-09-26,18:30 CDT,South Carolina,Tennessee U,1st Half,Tennessee U vs South Carolina | 1st Half Lines,South Carolina,,130.0,2020-09-23 08:35
-2020-09-26,18:30 CDT,South Carolina,Tennessee U,1st Half,Tennessee U vs South Carolina | 1st Half Lines,Tennessee U,,-150.0,2020-09-23 08:35
-2020-09-26,18:30 CDT,Baylor,Kansas,1st Half,Kansas vs Baylor | 1st Half Lines,Baylor,,-550.0,2020-09-23 08:35
-2020-09-26,18:30 CDT,Baylor,Kansas,1st Half,Kansas vs Baylor | 1st Half Lines,Kansas,,400.0,2020-09-23 08:35
-2020-09-26,19:00 CDT,Virginia Tech,NC State,1st Half,NC State vs Virginia Tech | 1st Half Lines,Virginia Tech,,-200.0,2020-09-23 08:35
-2020-09-26,19:00 CDT,Virginia Tech,NC State,1st Half,NC State vs Virginia Tech | 1st Half Lines,NC State,,170.0,2020-09-23 08:35
-2020-09-26,21:15 CDT,BYU,Troy,1st Half,Troy vs BYU | 1st Half Lines,BYU,,-420.0,2020-09-23 08:35
 2020-09-26,21:15 CDT,BYU,Troy,1st Half,Troy vs BYU | 1st Half Lines,Troy,,340.0,2020-09-23 08:35

@@ -29,18 +29,21 @@
 #     df['Bet'] = pd.Series(new_bets)
 #     df.to_csv(path)
 
+# cols = ['Title', 'Description', 'Bet']
+# for col in cols:
+#     df[col] = df[col].astype(str)
+#     vals = list(df[col])
+#     new_vals = [val.replace('\n', '').replace('\t', '') for val in vals]
+#     df[col] = pd.Series(new_vals)
 # ----------------------------------------------------------------------------------
+import numpy as np
 leagues = ['NFL', 'NBA', 'NCAAF', 'NCAAB']
 
 dfs = []
 for league in leagues:
-    path = ROOT_PATH + f"/ESB/Data/{league}/Futures.csv"
+    path = ROOT_PATH + f"/ESB/Data/{league}/Game_Props.csv"
     df = pd.read_csv(path)
 
-    cols = ['Title', 'Description', 'Bet']
-    for col in cols:
-        df[col] = df[col].astype(str)
-        vals = list(df[col])
-        new_vals = [val.replace('\n', '').replace('\t', '') for val in vals]
-        df[col] = pd.Series(new_vals)
+    df = df.sort_values(by=['scraped_ts'])
+
     df.to_csv(path, index=False)
