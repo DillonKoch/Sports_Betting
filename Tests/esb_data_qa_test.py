@@ -4,7 +4,7 @@
 # File Created: Thursday, 15th October 2020 3:46:22 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Thursday, 15th October 2020 7:27:37 pm
+# Last Modified: Saturday, 17th October 2020 7:02:31 pm
 # Modified By: Dillon Koch
 # -----
 # Collins Aerospace
@@ -51,13 +51,13 @@ def futures_dfs(leagues):
     return futures_dfs
 
 
-@pytest.mark.futures
+@pytest.mark.qa
 def test_futures_dfs_type(futures_dfs):  # QA Testing
     for df in futures_dfs:
         assert isinstance(df, pd.DataFrame)
 
 
-@pytest.mark.futures
+@pytest.mark.qa
 def test_futures_dfs_col_names(futures_dfs):  # QA Testing
     true_cols = ['Title', 'Description', 'Bet', 'Odds', 'scraped_ts']
     for df in futures_dfs:
@@ -65,7 +65,7 @@ def test_futures_dfs_col_names(futures_dfs):  # QA Testing
         assert cols == true_cols
 
 
-@pytest.mark.futures
+@pytest.mark.qa
 def test_futures_dfs_col_types(futures_dfs):  # QA Testing
     for df in futures_dfs:
         _assert_df_col_type(df, "Title", str)
@@ -79,7 +79,7 @@ def test_futures_dfs_col_types(futures_dfs):  # QA Testing
         _assert_df_col_type(df, "scraped_ts", datetime.datetime)
 
 
-@pytest.mark.futures
+@pytest.mark.qa
 def test_futures_dfs_no_newlines_tabs(futures_dfs):  # QA Testing
     for df in futures_dfs:
         str_cols = ['Title', 'Description', 'Bet']
@@ -90,7 +90,7 @@ def test_futures_dfs_no_newlines_tabs(futures_dfs):  # QA Testing
                 assert '\t' not in val
 
 
-@pytest.mark.futures
+@pytest.mark.qa
 def test_futures_dfs_scrape_ts_sorted(futures_dfs):  # QA Testing
     for df in futures_dfs:
         scrape_ts_vals = list(df['scraped_ts'])
@@ -116,13 +116,13 @@ def game_line_float_cols():
     return float_cols
 
 
-@pytest.mark.game_lines
+@pytest.mark.qa
 def test_game_lines_dfs_type(game_lines_dfs):  # QA Testing
     for df in game_lines_dfs:
         assert isinstance(df, pd.DataFrame)
 
 
-@pytest.mark.game_lines
+@pytest.mark.qa
 def test_game_lines_dfs_col_names(game_lines_dfs):  # QA Testing
     true_cols = ['Title', 'datetime', 'Game_Time', 'Home', 'Away', 'Over_ESB', 'Over_ml_ESB',
                  'Under_ESB', 'Under_ml_ESB', 'Home_Line_ESB', 'Home_Line_ml_ESB',
@@ -133,7 +133,7 @@ def test_game_lines_dfs_col_names(game_lines_dfs):  # QA Testing
         assert true_cols == cols
 
 
-@pytest.mark.game_lines
+@pytest.mark.qa
 def test_game_lines_dfs_col_types(game_lines_dfs, game_line_float_cols):  # QA Testing
     for df in game_lines_dfs:
 
@@ -164,7 +164,7 @@ def test_game_lines_dfs_col_types(game_lines_dfs, game_line_float_cols):  # QA T
         _assert_df_col_type(df, 'scraped_ts', datetime.datetime)
 
 
-@pytest.mark.game_lines
+@pytest.mark.qa
 def test_game_lines_dfs_game_time_regex(game_lines_dfs):  # QA Testing
     """
     asserts that the Game_Time column always matches the regex below
@@ -178,7 +178,7 @@ def test_game_lines_dfs_game_time_regex(game_lines_dfs):  # QA Testing
             assert match is not None
 
 
-@pytest.mark.game_lines
+@pytest.mark.qa
 def test_game_lines_dfs_scrape_ts_sorted(game_lines_dfs):  # QA Testing
     for df in game_lines_dfs:
         scrape_ts_vals = list(df['scraped_ts'])
@@ -201,13 +201,13 @@ def game_prop_str_cols():
     return ['Game_Time', 'Home', 'Away', 'Title', 'Description', 'Bet']
 
 
-@pytest.mark.game_props
+@pytest.mark.qa
 def test_game_prop_dfs_type(game_prop_dfs):  # QA Testing
     for df in game_prop_dfs:
         assert isinstance(df, pd.DataFrame)
 
 
-@pytest.mark.game_props
+@pytest.mark.qa
 def test_game_prop_dfs_col_names(game_prop_dfs):  # QA Testing
     true_cols = ['datetime', 'Game_Time', 'Home', 'Away', 'Title', 'Description',
                  'Bet', 'Spread/overunder', 'Odds', 'scraped_ts']
@@ -216,7 +216,7 @@ def test_game_prop_dfs_col_names(game_prop_dfs):  # QA Testing
         assert cols == true_cols
 
 
-@pytest.mark.game_props
+@pytest.mark.qa
 def test_game_prop_dfs_col_types(game_prop_dfs):  # QA Testing
     str_cols = ['Game_Time', 'Home', 'Away', 'Title', 'Description', 'Bet']
     float_cols = ['Spread/overunder', 'Odds']
@@ -235,7 +235,7 @@ def test_game_prop_dfs_col_types(game_prop_dfs):  # QA Testing
             _assert_df_col_type(df, col, datetime.datetime)
 
 
-@pytest.mark.game_props
+@pytest.mark.qa
 def test_game_props_dfs_scrape_ts_sorted(game_prop_dfs):  # QA Testing
     for df in game_prop_dfs:
         scrape_ts_vals = list(df['scraped_ts'])
@@ -243,7 +243,7 @@ def test_game_props_dfs_scrape_ts_sorted(game_prop_dfs):  # QA Testing
         assert scrape_ts_vals == sorted_ts_vals
 
 
-@pytest.mark.game_props
+@pytest.mark.qa
 def test_game_props_dfs_game_time_regex(game_prop_dfs):  # QA Testing
     """
     asserts that the Game_Time column always matches the regex below

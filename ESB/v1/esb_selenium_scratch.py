@@ -4,7 +4,7 @@
 # File Created: Saturday, 12th September 2020 7:44:07 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Tuesday, 22nd September 2020 4:37:47 pm
+# Last Modified: Saturday, 17th October 2020 7:53:37 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -88,7 +88,7 @@ class ESB_Selenium_Scraper:
 
     def click_button(self, name, upper=False):  # Top Level
         """
-        clicks the button with text matching the 'title' argument
+        clicks the button with text matching the 'name' argument
         """
         if upper:
             name = name.upper()
