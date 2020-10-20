@@ -4,7 +4,7 @@
 # File Created: Thursday, 15th October 2020 7:29:18 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Saturday, 17th October 2020 9:41:46 pm
+# Last Modified: Monday, 19th October 2020 4:50:34 pm
 # Modified By: Dillon Koch
 # -----
 # Collins Aerospace
@@ -16,6 +16,7 @@
 
 import datetime
 import logging
+import pickle
 import sys
 import time
 from os.path import abspath, dirname
@@ -31,6 +32,8 @@ if ROOT_PATH not in sys.path:
     sys.path.append(ROOT_PATH)
 
 from ESB.esb_parser import ESB_Parser
+
+sys.setrecursionlimit(1000000000)
 
 
 class ESB_Navigator:
@@ -209,3 +212,5 @@ if __name__ == '__main__':
     x = ESB_Navigator()
     self = x
     sps = x.run()
+    with open('esb_sps.pickle', 'wb') as f:
+        pickle.dump(sps, f)
