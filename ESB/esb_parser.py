@@ -4,7 +4,7 @@
 # File Created: Saturday, 17th October 2020 8:05:47 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Monday, 19th October 2020 8:43:52 pm
+# Last Modified: Tuesday, 20th October 2020 7:59:34 pm
 # Modified By: Dillon Koch
 # -----
 # Collins Aerospace
@@ -136,60 +136,79 @@ class ESB_Parser:
         # TODO assert these are in valid league teams
         return home, away, tie
 
+    def _moneylines_match(self, text):
+        ml_comp = re.compile(r"(((\+|-)\d+)|(even))")
+        match = re.match(ml_comp, text)
+
+        if match is None:
+            print("No match for ", text)
+            return None
+        else:
+            ml = match.group(1)
+            return ml
+
     def _moneylines(self, event):  # Helping Helper _date_event_to_row  Tested
         """
         finds the home/away moneylines of an event
         - the html of ESB labels the totals as moneylines and moneylines as totals
         """
         moneylines = event.find_all('div', attrs={'class': 'column total pull-right'})
-        away_text, home_text = [item.get_text().strip() for item in moneylines]
-        ml_comp = re.compile(r"(((\+|-)\d+)|(even))")
+        ml_texts = [item.get_text().strip() for item in moneylines]
+        away_text = ml_texts[0]
+        home_text = ml_texts[1]
+        tie_text = ml_texts[2] if len(ml_texts) >= 3 else None
 
-        away_match = re.match(ml_comp, away_text)
-        if away_match is None:
-            print(f"No moneyline match for {away_text}")
-        away_ml = away_match.group(1) if away_match is not None else None
-
-        home_match = re.match(ml_comp, home_text)
-        if home_match is None:
-            print(f"No moneyline match for {home_text}")
-        home_ml = home_match.group(1) if home_match is not None else None
+        away_ml = self._moneylines_match(away_text)
+        home_ml = self._moneylines_match(home_text)
+        tie_ml = self._moneylines_match(tie_text) if tie_text is not None else None
 
         home_ml = '100' if home_ml == 'even' else home_ml
         away_ml = '100' if away_ml == 'even' else away_ml
+        tie_ml = '100' if tie_ml == 'even' else tie_ml
+        return mfloat(home_ml), mfloat(away_ml), mfloat(tie_ml)
 
-        return mfloat(home_ml), mfloat(away_ml)
+    def _spreads_match(self, text):
+        spread_comp = re.compile(r"^((\+|-)?\d+\.?\d?)\((((\+|-)\d+)|(even))\)$")
+        match = re.match(spread_comp, text)
+        if match is None:
+            print("No match for ", text)
+            return None, None
+        else:
+            spread = match.group(1)
+            spread_ml = match.group(3)
+            return spread, spread_ml
 
     def _spreads(self, event):  # Helping Helper _date_event_to_row  Tested
         """
         finds the home/away spread/spread_ml of an event
         """
         spreads = event.find_all('div', attrs={'class': 'column spread pull-right'})
-        away_text, home_text = [item.get_text().strip() for item in spreads]
-        spread_comp = re.compile(r"^((\+|-)?\d+\.?\d?)\((((\+|-)\d+)|(even))\)$")
+        spreads_texts = [item.get_text().strip() for item in spreads]
+        away_text = spreads_texts[0]
+        home_text = spreads_texts[1]
+        tie_text = spreads_texts[2] if len(spreads_texts) >= 3 else None
 
-        away_match = re.match(spread_comp, away_text)
-        if away_match is None:
-            print(f"No spread match for {away_text}")
-            away_spread = None
-            away_spread_ml = None
-        else:
-            away_spread = away_match.group(1)
-            away_spread_ml = away_match.group(3)
-
-        home_match = re.match(spread_comp, home_text)
-        if home_match is None:
-            print(f"No spread match for {home_text}")
-            home_spread = None
-            home_spread_ml = None
-        else:
-            home_spread = home_match.group(1)
-            home_spread_ml = home_match.group(3)
+        away_spread, away_spread_ml = self._spreads_match(away_text)
+        home_spread, home_spread_ml = self._spreads_match(home_text)
+        tie_spread, tie_spread_ml = self._spreads_match(tie_text) if tie_text is not None else None, None
 
         home_spread_ml = '100' if home_spread_ml == 'even' else home_spread_ml
         away_spread_ml = '100' if away_spread_ml == 'even' else away_spread_ml
+        tie_spread_ml = '100' if tie_spread_ml == 'even' else tie_spread_ml
 
-        return mfloat(home_spread), mfloat(home_spread_ml), mfloat(away_spread), mfloat(away_spread_ml)
+        return (mfloat(home_spread), mfloat(home_spread_ml), mfloat(away_spread), mfloat(away_spread_ml),
+                mfloat(tie_spread), mfloat(tie_spread_ml))
+
+    def _totals_match(self, text):  # Helping Helper _totals
+        total_comp = re.compile(r"(O|U) (\d+\.?\d?)\((((\+|-)\d+)|(even))\)")
+        match = re.match(total_comp, text)
+        if match is None:
+            print("No match for ", text)
+            return None, None
+        else:
+            total = match.group(2)
+            ml = match.group(3)
+            return total, ml
 
     def _totals(self, event):  # Helping Helper _date_event_to_row  Tested
         """
@@ -197,31 +216,19 @@ class ESB_Parser:
         the html of ESB labels the totals as moneylines and moneylines as totals
         """
         totals = event.find_all('div', attrs={'class': 'column money pull-right'})
-        over_text, under_text = [item.get_text().strip() for item in totals]
-        total_comp = re.compile(r"(O|U) (\d+\.?\d?)\((((\+|-)\d+)|(even))\)")
+        totals_texts = [item.get_text().strip() for item in totals]
+        over_text = totals_texts[0]
+        under_text = totals_texts[1]
+        tie_text = totals_texts[2] if len(totals_texts) >= 3 else None
 
-        over_match = re.match(total_comp, over_text)
-        if over_match is None:
-            print(f"No over match for {over_text}")
-            over = None
-            over_ml = None
-        else:
-            over = over_match.group(2)
-            over_ml = over_match.group(3)
-
-        under_match = re.match(total_comp, under_text)
-        if under_match is None:
-            print(f"No under match for {under_text}")
-            under = None
-            under_ml = None
-        else:
-            under = under_match.group(2)
-            under_ml = under_match.group(3)
+        over, over_ml = self._totals_match(over_text)
+        under, under_ml = self._totals_match(under_text)
+        tie, tie_ml = self._totals_match(tie_text) if tie_text is not None else None, None
 
         over_ml = '100' if over_ml == 'even' else over_ml
         under_ml = '100' if under_ml == 'even' else under_ml
-
-        return mfloat(over), mfloat(over_ml), mfloat(under), mfloat(under_ml)
+        tie_ml = '100' if tie_ml == 'even' else tie_ml
+        return mfloat(over), mfloat(over_ml), mfloat(under), mfloat(under_ml), mfloat(tie), mfloat(tie_ml)
 
     def _date_event_to_row(self, date_event, date):  # Specific Helper scrape_game_lines  Tested
         """
@@ -232,9 +239,9 @@ class ESB_Parser:
 
         game_time = self._game_time(date_event)
         home, away, _ = self._teams(date_event)
-        home_ml, away_ml = self._moneylines(date_event)
-        home_spread, home_spread_ml, away_spread, away_spread_ml = self._spreads(date_event)
-        over, over_ml, under, under_ml = self._totals(date_event)
+        home_ml, away_ml, _ = self._moneylines(date_event)
+        home_spread, home_spread_ml, away_spread, away_spread_ml, _, _ = self._spreads(date_event)
+        over, over_ml, under, under_ml, _, _ = self._totals(date_event)
 
         row = ['Full Game', date, game_time, home, away,
                over, over_ml, under, under_ml,
@@ -263,7 +270,7 @@ class ESB_Parser:
         df['datetime'] = pd.to_datetime(df['datetime'])
         return df
 
-    def _game_props_df(self):  # Specific Helper scrape_game_props
+    def _game_props_df(self):  # Specific Helper scrape_game_props  Tested
         """
         empty df for recording game props
         """
@@ -271,7 +278,7 @@ class ESB_Parser:
                 'Spread/overunder', 'Odds', 'scraped_ts']
         return pd.DataFrame(columns=cols)
 
-    def _page_title(self, sp):  # Specific Helper scrape_game_props, scrape_futures
+    def _page_title(self, sp):  # Specific Helper scrape_game_props, scrape_futures  Tested
         """
         finds the title of game props and futures bets
         """
@@ -279,7 +286,7 @@ class ESB_Parser:
         title = title[0].get_text()
         return title
 
-    def _description(self, date_event):  # Helping Helper _update_game_prop_df
+    def _description(self, date_event):  # Helping Helper _update_game_prop_df  Tested
         """
         finds the description of a game prop
         """
@@ -294,24 +301,29 @@ class ESB_Parser:
 
         gt = self._game_time(date_event)
         desc = self._description(date_event)
-        home, away = self._teams(date_event)
-        home_ml, away_ml = self._moneylines(date_event)
-        home_spread, home_spread_ml, away_spread, away_spread_ml = self._spreads(date_event)
-        over, over_ml, under, under_ml = self._totals(date_event)
+        home, away, tie = self._teams(date_event)
+        home_ml, away_ml, tie_ml = self._moneylines(date_event)
+        home_spread, home_spread_ml, away_spread, away_spread_ml, tie_spread, tie_spread_ml = self._spreads(date_event)
+        over, over_ml, under, under_ml, tie, tie_ml = self._totals(date_event)
 
         # add home/away ML
         home_ml_row = [date, gt, home, away, title, desc, home, None, home_ml, scraped_ts]
         away_ml_row = [date, gt, home, away, title, desc, away, None, away_ml, scraped_ts]
+        tie_ml_row = [date, gt, home, away, title, desc, away, None, tie_ml, scraped_ts]
 
         # add home/away spread
         home_spread_row = [date, gt, home, away, title, desc, home, home_spread, home_spread_ml, scraped_ts]
         away_spread_row = [date, gt, home, away, title, desc, away, away_spread, away_spread_ml, scraped_ts]
+        tie_spread_row = [date, gt, home, away, title, desc, away, tie_spread, tie_spread_ml, scraped_ts]
 
         # add over/under
         over_row = [date, gt, home, away, title, desc, "Over", over, over_ml, scraped_ts]
         under_row = [date, gt, home, away, title, desc, "Under", under, under_ml, scraped_ts]
+        tie_total_row = [date, gt, home, away, title, desc, "Tie", tie, tie_ml, scraped_ts]
 
-        for row in [home_ml_row, away_ml_row, home_spread_row, away_spread_row, over_row, under_row]:
+        for row in [home_ml_row, away_ml_row, tie_ml_row,
+                    home_spread_row, away_spread_row, tie_spread_row,
+                    over_row, under_row, tie_total_row]:
             df.loc[len(df)] = row
 
         return df  # ! pick it back up with this method :)
@@ -333,6 +345,71 @@ class ESB_Parser:
             df = self._update_game_prop_df(df, date_event, date, title)
         df = df.loc[df['Odds'].notnull()]
         df['datetime'] = pd.to_datetime(df['datetime'])
+        return df
+
+    def _futures_df(self):  # Specific Helper scrape_futures
+        """
+        empty dataframe for recording futures bets
+        """
+        cols = ['Title', 'Description', 'Bet', 'Odds', 'scraped_ts']
+        return pd.DataFrame(columns=cols)
+
+    def _get_futures_panels(self, sp):  # Specific Helper scrape_futures  Tested
+        if self.detect_no_events_warning(sp):
+            return []
+
+        main = sp.find_all('div', attrs={'id': 'main-content'})[0]
+        panels = main.find_all('div', attrs={'class': 'panel panel-primary'})
+        return panels
+
+    def _futures_description(self, panel):  # Specific Helper scrape_futures
+        """
+        finds the description for futures bets
+        """
+        desc = panel.find_all('div', attrs={'id': 'futureDescription'})
+        desc = desc[0].get_text()
+        desc = desc.replace('\t', '').replace('\n', '')
+        return desc
+
+    def _futures_bet_odds_pairs(self, panel):  # Specific Helper scrape_futures
+        """
+        finds the bet-odd pairs for futures bets (e.g. [("Vikings", 250), ("Jets", 500), ..])
+        - sometimes "Selection" shows up as a bet so I get rid of that if it's there
+        """
+        bets = panel.find_all('span', attrs={'class': 'team'})
+        bets = [item.get_text() for item in bets]
+        bets = [item for item in bets if item != 'Selection']  # "Selection" shows up for bets sometimes
+
+        odds = panel.find_all('div', attrs={'class': 'market'})
+        odds = [item.get_text() for item in odds]
+        odds = [100.0 if item == 'even' else mfloat(item) for item in odds]
+
+        pairs = [(bet, odd) for bet, odd in zip(bets, odds)]
+        return pairs
+
+    def _futures_add_pairs(self, df, bet_odds_pairs, title, desc):  # Specific Helper scrape_futures
+        """
+        uses the df, title, and description to add all the bet_odds_pairs to the dataframe
+        """
+        scraped_ts = self._get_scrape_ts()
+
+        for pair in bet_odds_pairs:
+            bet, odd = pair
+            new_row = [title, desc, bet, odd, scraped_ts]
+            df.loc[len(df)] = new_row
+        return df
+
+    def scrape_futures(self, sp):  # Top Level
+        """
+        scrapes a futures bet from sp -> df
+        """
+        df = self._futures_df()
+        panels = self._get_futures_panels(sp)
+        for panel in panels:
+            title = self._page_title(panel)
+            desc = self._futures_description(panel)
+            bet_odds_pairs = self._futures_bet_odds_pairs(panel)
+            df = self._futures_add_pairs(df, bet_odds_pairs, title, desc)
         return df
 
     def run(self, sp):  # Run
@@ -362,4 +439,5 @@ if __name__ == '__main__':
 
     sps = [item[1] for item in sp_pairs]
     sp = sps[0]
-    glsps = [sp for sp in sp_pairs if x.detect_bet_type(sp[1]) == 'Game_Lines']
+    glsps = [sp[1] for sp in sp_pairs if x.detect_bet_type(sp[1]) == 'Game_Lines']
+    gpsps = [sp[1] for sp in sp_pairs if x.detect_bet_type(sp[1]) == 'Game_Props']
