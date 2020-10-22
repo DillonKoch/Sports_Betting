@@ -4,7 +4,7 @@
 # File Created: Thursday, 3rd September 2020 4:27:12 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Tuesday, 22nd September 2020 3:11:37 pm
+# Last Modified: Wednesday, 21st October 2020 7:00:33 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -25,6 +25,11 @@ ROOT_PATH = dirname(dirname(abspath(__file__)))
 if ROOT_PATH not in sys.path:
     sys.path.append(ROOT_PATH)
 
+
+# drop cols are what makes the bet unique, without looking at the odds
+#   - if you filtered down on those values, you'd be looking at the same exact bet
+
+# odds cols are the columns making up the actual odds - spread, over/under, moneyline
 
 def _split_old_df(old_df, drop_cols):
     """
