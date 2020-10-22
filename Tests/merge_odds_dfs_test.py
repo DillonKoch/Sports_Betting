@@ -4,7 +4,7 @@
 # File Created: Tuesday, 20th October 2020 8:11:07 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Wednesday, 21st October 2020 7:20:29 pm
+# Last Modified: Wednesday, 21st October 2020 8:03:22 pm
 # Modified By: Dillon Koch
 # -----
 # Collins Aerospace
@@ -34,23 +34,23 @@ def test_game_props_dfs():
 
     drop_cols = ['datetime', 'Game_Time', 'Home', 'Away', 'Title',
                  'Description', 'Bet']
-    odds_cols = ['Spread/overunder', 'Odds']
+    # odds_cols = ['Spread/overunder', 'Odds']
 
-    merged_df = merge_odds_dfs(old_df, new_df, drop_cols, odds_cols)
+    merged_df = merge_odds_dfs(old_df, new_df, drop_cols)
     assert len(merged_df) == 4
     assert merged_df_csv.equals(merged_df)
 
 
 def test_game_lines_dfs():
-    old_df = pd.read_csv("./Tests/data/test_game_lines_old.csv")
-    new_df = pd.read_csv("./Tests/data/test_game_lines_new.csv")
-    merged_df_csv = pd.read_csv('./Tests/data/test_game_lines_merged.csv')
+    old_df = pd.read_csv(ROOT_PATH + "/Tests/data/test_game_lines_old.csv")
+    new_df = pd.read_csv(ROOT_PATH + "/Tests/data/test_game_lines_new.csv")
+    merged_df_csv = pd.read_csv(ROOT_PATH + '/Tests/data/test_game_lines_merged.csv')
 
     drop_cols = ['Title', 'datetime', 'Game_Time', 'Home', 'Away']
-    odds_cols = ['Over_ESB', 'Over_ml_ESB', 'Under_ESB', 'Under_ml_ESB',
-                 'Home_Line_ESB', 'Home_Line_ml_ESB', 'Away_Line_ESB', 'Away_Line_ml_ESB',
-                 'Home_ML_ESB', 'Away_ML_ESB']
+    # odds_cols = ['Over_ESB', 'Over_ml_ESB', 'Under_ESB', 'Under_ml_ESB',
+    #              'Home_Line_ESB', 'Home_Line_ml_ESB', 'Away_Line_ESB', 'Away_Line_ml_ESB',
+    #              'Home_ML_ESB', 'Away_ML_ESB']
 
-    merged_df = merge_odds_dfs(old_df, new_df, drop_cols, odds_cols)
+    merged_df = merge_odds_dfs(old_df, new_df, drop_cols)
     assert len(merged_df) == 5
     assert merged_df_csv.equals(merged_df)

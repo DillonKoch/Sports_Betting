@@ -4,7 +4,7 @@
 # File Created: Saturday, 17th October 2020 8:05:47 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Tuesday, 20th October 2020 7:59:34 pm
+# Last Modified: Wednesday, 21st October 2020 8:04:11 pm
 # Modified By: Dillon Koch
 # -----
 # Collins Aerospace
@@ -14,6 +14,7 @@
 # * BeautifulSoup sp is found in esb_navigator.py, passed to this class for parsing
 # ==============================================================================
 
+import os
 import datetime
 import pickle
 import re
@@ -25,6 +26,8 @@ import pandas as pd
 ROOT_PATH = dirname(dirname(abspath(__file__)))
 if ROOT_PATH not in sys.path:
     sys.path.append(ROOT_PATH)
+
+from Utility.merge_odds_dfs import merge_odds_dfs
 
 
 def mfloat(val):
@@ -136,7 +139,7 @@ class ESB_Parser:
         # TODO assert these are in valid league teams
         return home, away, tie
 
-    def _moneylines_match(self, text):
+    def _moneylines_match(self, text):  # Helping Helper _moneylines  Tested
         ml_comp = re.compile(r"(((\+|-)\d+)|(even))")
         match = re.match(ml_comp, text)
 
@@ -167,7 +170,7 @@ class ESB_Parser:
         tie_ml = '100' if tie_ml == 'even' else tie_ml
         return mfloat(home_ml), mfloat(away_ml), mfloat(tie_ml)
 
-    def _spreads_match(self, text):
+    def _spreads_match(self, text):  # Helping Helper _spreads  Tested
         spread_comp = re.compile(r"^((\+|-)?\d+\.?\d?)\((((\+|-)\d+)|(even))\)$")
         match = re.match(spread_comp, text)
         if match is None:
@@ -199,7 +202,7 @@ class ESB_Parser:
         return (mfloat(home_spread), mfloat(home_spread_ml), mfloat(away_spread), mfloat(away_spread_ml),
                 mfloat(tie_spread), mfloat(tie_spread_ml))
 
-    def _totals_match(self, text):  # Helping Helper _totals
+    def _totals_match(self, text):  # Helping Helper _totals  Tested
         total_comp = re.compile(r"(O|U) (\d+\.?\d?)\((((\+|-)\d+)|(even))\)")
         match = re.match(total_comp, text)
         if match is None:
@@ -293,7 +296,7 @@ class ESB_Parser:
         desc = date_event.find_all('div', attrs={'class': 'row event eventheading'})
         return desc[0].get_text().strip()
 
-    def _update_game_prop_df(self, df, date_event, date, title):  # Specific Helper scrape_game_props
+    def _update_game_prop_df(self, df, date_event, date, title):  # Specific Helper scrape_game_props  Tested
         """
         updates a running game_prop_df with new bets found in a date_event section in scrape_game_props
         """
@@ -347,7 +350,7 @@ class ESB_Parser:
         df['datetime'] = pd.to_datetime(df['datetime'])
         return df
 
-    def _futures_df(self):  # Specific Helper scrape_futures
+    def _futures_df(self):  # Specific Helper scrape_futures  Tested
         """
         empty dataframe for recording futures bets
         """
@@ -362,7 +365,7 @@ class ESB_Parser:
         panels = main.find_all('div', attrs={'class': 'panel panel-primary'})
         return panels
 
-    def _futures_description(self, panel):  # Specific Helper scrape_futures
+    def _futures_description(self, panel):  # Specific Helper scrape_futures  Tested
         """
         finds the description for futures bets
         """
@@ -371,7 +374,7 @@ class ESB_Parser:
         desc = desc.replace('\t', '').replace('\n', '')
         return desc
 
-    def _futures_bet_odds_pairs(self, panel):  # Specific Helper scrape_futures
+    def _futures_bet_odds_pairs(self, panel):  # Specific Helper scrape_futures  Tested
         """
         finds the bet-odd pairs for futures bets (e.g. [("Vikings", 250), ("Jets", 500), ..])
         - sometimes "Selection" shows up as a bet so I get rid of that if it's there
@@ -387,7 +390,7 @@ class ESB_Parser:
         pairs = [(bet, odd) for bet, odd in zip(bets, odds)]
         return pairs
 
-    def _futures_add_pairs(self, df, bet_odds_pairs, title, desc):  # Specific Helper scrape_futures
+    def _futures_add_pairs(self, df, bet_odds_pairs, title, desc):  # Specific Helper scrape_futures  Tested
         """
         uses the df, title, and description to add all the bet_odds_pairs to the dataframe
         """
@@ -399,7 +402,7 @@ class ESB_Parser:
             df.loc[len(df)] = new_row
         return df
 
-    def scrape_futures(self, sp):  # Top Level
+    def scrape_futures(self, sp):  # Top Level  Tested
         """
         scrapes a futures bet from sp -> df
         """
@@ -411,6 +414,51 @@ class ESB_Parser:
             bet_odds_pairs = self._futures_bet_odds_pairs(panel)
             df = self._futures_add_pairs(df, bet_odds_pairs, title, desc)
         return df
+
+    # def _load_existing_df(self, bet_type):  # Specific Helper add_new_df
+    #     """
+    #     loads the existing df if it exists, or returns None if there isn't one
+    #     - changes Odds to be a float and datetime to datetime type to help with removing repeats
+    #     """
+    #     path = ROOT_PATH + f"/ESB/Data/{self.league}/{bet_type}.csv"
+    #     try:
+    #         df = pd.read_csv(path)
+    #         # if 'Odds' in list(df.columns):
+    #         #     df['Odds'] = df['Odds'].astype(float)
+    #         if 'datetime' in list(df.columns):
+    #             df['datetime'] = pd.to_datetime(df['datetime'])
+    #     except FileNotFoundError:
+    #         print(f"No existing df found for {path}, making a new one!")
+    #         return None
+    #     return df
+
+    def _load_existing_df(self, bet_type):  # Specific Helper add_new_df
+        """
+        loads the existing df if it exists, or returns None if there isn't one
+        - changes datetime to datetime type to help with removing repeats
+        """
+        path = ROOT_PATH + f"/ESB/Data/{self.league}/{bet_type}.csv"
+        if os.path.isfile(path):
+            df = pd.read_csv(path)
+            df['datetime'] = pd.to_datetime(df['datetime'])
+            return df
+        else:
+            print(f"No existing df found for {path}, making a new one!")
+            return None
+
+    def add_new_df(self, df, bet_type):  # Top Level
+        df_path = ROOT_PATH + f"/ESB/Data/{self.league}/{bet_type}.csv"
+        existing_df = self._load_existing_df(bet_type)
+        if existing_df is None:
+            df.to_csv(df_path, index=None)
+            return df
+
+        all_drop_cols = ['Title', 'Description', 'Bet', 'Game_Time', 'Home', 'Away', 'datetime']
+        drop_cols = [col for col in list(df.columns) if col in all_drop_cols]
+        # odds_cols = [col for col in list(df.columns) if col != "scraped_ts"]
+        full_df = merge_odds_dfs(existing_df, df, drop_cols)
+        full_df.to_csv(df_path, index=None)
+        return full_df
 
     def run(self, sp):  # Run
         main = sp.find_all('div', attrs={'id': 'main-content'})[0]

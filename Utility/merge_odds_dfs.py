@@ -4,7 +4,7 @@
 # File Created: Thursday, 3rd September 2020 4:27:12 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Wednesday, 21st October 2020 7:00:33 pm
+# Last Modified: Wednesday, 21st October 2020 8:03:30 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -42,7 +42,7 @@ def _split_old_df(old_df, drop_cols):
     return locked_df, newest_df
 
 
-def merge_odds_dfs(old_df, new_df, drop_cols, odds_cols):
+def merge_odds_dfs(old_df, new_df, drop_cols):
     """
     merges an old odds df with a new df, adding the new rows from new_df that have new bets
     since the most recent old_df row for that game (or adding the first row of a new game)
@@ -52,7 +52,8 @@ def merge_odds_dfs(old_df, new_df, drop_cols, odds_cols):
     locked_df, newest_df = _split_old_df(old_df, drop_cols)
     combined_newest = pd.concat([newest_df, new_df])
     combined_newest.reset_index(inplace=True, drop=True)
-    combined_newest.drop_duplicates(subset=odds_cols, inplace=True)
+    non_scrape_ts_cols = [col for col in list(old_df.columns) if col != "scraped_ts"]
+    combined_newest.drop_duplicates(subset=non_scrape_ts_cols, inplace=True)
 
     full_df = pd.concat([locked_df, combined_newest])
     full_df.reset_index(inplace=True, drop=True)

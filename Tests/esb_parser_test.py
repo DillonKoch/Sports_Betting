@@ -4,7 +4,7 @@
 # File Created: Saturday, 17th October 2020 9:19:51 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Tuesday, 20th October 2020 8:05:43 pm
+# Last Modified: Wednesday, 21st October 2020 7:53:58 pm
 # Modified By: Dillon Koch
 # -----
 # Collins Aerospace
@@ -151,6 +151,17 @@ def test_teams(parser, game_lines_events, game_props_events):  # Helping Helper
             assert isinstance(tie, str)
 
 
+def test_moneylines_match(parser):
+    ml1 = parser._moneylines_match("+500")
+    assert ml1 == '+500'
+    ml2 = parser._moneylines_match("even")
+    assert ml2 == 'even'
+    ml3 = parser._moneylines_match("-1200")
+    assert ml3 == '-1200'
+    ml4 = parser._moneylines_match("+-100")
+    assert ml4 is None
+
+
 def test_moneylines(parser, game_lines_events, game_props_events):  # Helping Helper
     for event in game_lines_events + game_props_events:
         home_ml, away_ml, tie_ml = parser._moneylines(event)
@@ -158,6 +169,21 @@ def test_moneylines(parser, game_lines_events, game_props_events):  # Helping He
         assert ((isinstance(home_ml, float)) or (home_ml is None))
         assert ((isinstance(away_ml, float)) or (away_ml is None))
         assert ((tie_ml is None) or (isinstance(tie_ml, float)))
+
+
+def test_spreads_match(parser):  # Helping Helper
+    spread1, spreadml1 = parser._spreads_match("+10.5(-110)")
+    assert spread1 == "+10.5"
+    assert spreadml1 == '-110'
+    spread2, spreadml2 = parser._spreads_match("-4(even)")
+    assert spread2 == "-4"
+    assert spreadml2 == 'even'
+    spread3, spreadml3 = parser._spreads_match('+1.5(+105)')
+    assert spread3 == '+1.5'
+    assert spreadml3 == '+105'
+    spread4, spreadml4 = parser._spreads_match('+1200')
+    assert spread4 is None
+    assert spreadml4 is None
 
 
 def test_spreads(parser, game_lines_events, game_props_events):  # Helping Helper
@@ -185,6 +211,21 @@ def test_spreads(parser, game_lines_events, game_props_events):  # Helping Helpe
 
         if away_spread_ml is not None:
             assert ((away_spread_ml >= 100) or (away_spread_ml <= -100))
+
+
+def test_totals_match(parser):
+    total1, ml1 = parser._totals_match("O 55.5(-110)")
+    assert total1 == '55.5'
+    assert ml1 == '-110'
+    total2, ml2 = parser._totals_match("U 55.5(-110)")
+    assert total2 == '55.5'
+    assert ml2 == '-110'
+    total3, ml3 = parser._totals_match('O 23(even)')
+    assert total3 == '23'
+    assert ml3 == 'even'
+    total4, ml4 = parser._totals_match('+550')
+    assert total4 is None
+    assert ml4 is None
 
 
 def test_totals_game_lines_events(parser, game_lines_events):  # Helping Helper

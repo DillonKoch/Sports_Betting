@@ -4,7 +4,7 @@
 # File Created: Thursday, 15th October 2020 7:29:18 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Tuesday, 20th October 2020 6:23:16 pm
+# Last Modified: Wednesday, 21st October 2020 8:04:29 pm
 # Modified By: Dillon Koch
 # -----
 # Collins Aerospace
@@ -197,7 +197,7 @@ class ESB_Navigator:
             for event in all_events:
                 self.click_button(event)
                 event_sp = self._get_soup_sp()
-                # parser_msg = parser.run(event_sp)  # TODO have the parser return a msg to put in log file
+                parser_msg = parser.run(event_sp)  # TODO have the parser return a msg to put in log file
                 self.logger.info("<<parser message here>>")
                 sps.append((league, event_sp))
 
