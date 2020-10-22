@@ -4,7 +4,7 @@
 # File Created: Saturday, 17th October 2020 8:05:47 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Wednesday, 21st October 2020 8:04:11 pm
+# Last Modified: Wednesday, 21st October 2020 8:17:50 pm
 # Modified By: Dillon Koch
 # -----
 # Collins Aerospace
@@ -124,7 +124,9 @@ class ESB_Parser:
         """
         time = event.find_all('div', attrs={'id': 'time'})
         time = time[0].get_text()
-        return time
+        time_comp = re.compile(r"^\d{2}:\d{2} C(S|D)T$")
+        match = re.match(time_comp, time)
+        return match.group(0) if match is not None else None
 
     def _teams(self, event):  # Helping Helper _date_event_to_row  Tested
         """
@@ -415,40 +417,24 @@ class ESB_Parser:
             df = self._futures_add_pairs(df, bet_odds_pairs, title, desc)
         return df
 
-    # def _load_existing_df(self, bet_type):  # Specific Helper add_new_df
-    #     """
-    #     loads the existing df if it exists, or returns None if there isn't one
-    #     - changes Odds to be a float and datetime to datetime type to help with removing repeats
-    #     """
-    #     path = ROOT_PATH + f"/ESB/Data/{self.league}/{bet_type}.csv"
-    #     try:
-    #         df = pd.read_csv(path)
-    #         # if 'Odds' in list(df.columns):
-    #         #     df['Odds'] = df['Odds'].astype(float)
-    #         if 'datetime' in list(df.columns):
-    #             df['datetime'] = pd.to_datetime(df['datetime'])
-    #     except FileNotFoundError:
-    #         print(f"No existing df found for {path}, making a new one!")
-    #         return None
-    #     return df
-
-    def _load_existing_df(self, bet_type):  # Specific Helper add_new_df
+    def _load_existing_df(self, bet_type, league):  # Specific Helper add_new_df
         """
         loads the existing df if it exists, or returns None if there isn't one
         - changes datetime to datetime type to help with removing repeats
         """
-        path = ROOT_PATH + f"/ESB/Data/{self.league}/{bet_type}.csv"
+        path = ROOT_PATH + f"/ESB/Data/{league}/{bet_type}.csv"
         if os.path.isfile(path):
             df = pd.read_csv(path)
-            df['datetime'] = pd.to_datetime(df['datetime'])
+            if 'datetime' in list(df.columns):
+                df['datetime'] = pd.to_datetime(df['datetime'])
             return df
         else:
             print(f"No existing df found for {path}, making a new one!")
             return None
 
-    def add_new_df(self, df, bet_type):  # Top Level
-        df_path = ROOT_PATH + f"/ESB/Data/{self.league}/{bet_type}.csv"
-        existing_df = self._load_existing_df(bet_type)
+    def add_new_df(self, df, bet_type, league):  # Top Level
+        df_path = ROOT_PATH + f"/ESB/Data/{league}/{bet_type}.csv"
+        existing_df = self._load_existing_df(bet_type, league)
         if existing_df is None:
             df.to_csv(df_path, index=None)
             return df
@@ -460,7 +446,7 @@ class ESB_Parser:
         full_df.to_csv(df_path, index=None)
         return full_df
 
-    def run(self, sp):  # Run
+    def run(self, sp, league):  # Run
         main = sp.find_all('div', attrs={'id': 'main-content'})[0]
         bet_type = self.detect_bet_type(main)
         print(bet_type)
@@ -472,7 +458,7 @@ class ESB_Parser:
         elif bet_type == 'Futures':
             df = self.scrape_futures(sp)
 
-        full_df = self.add_new_df(df, bet_type)
+        full_df = self.add_new_df(df, bet_type, league)
         print("Data saved!")
         return full_df
 

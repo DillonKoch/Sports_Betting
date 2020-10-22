@@ -4,7 +4,7 @@
 # File Created: Thursday, 3rd September 2020 4:27:12 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Wednesday, 21st October 2020 8:03:30 pm
+# Last Modified: Wednesday, 21st October 2020 8:39:23 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -56,5 +56,6 @@ def merge_odds_dfs(old_df, new_df, drop_cols):
     combined_newest.drop_duplicates(subset=non_scrape_ts_cols, inplace=True)
 
     full_df = pd.concat([locked_df, combined_newest])
+    full_df.sort_values(by=['scrape_ts', 'datetime'], inplace=True)
     full_df.reset_index(inplace=True, drop=True)
     return full_df
