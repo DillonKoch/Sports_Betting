@@ -4,7 +4,7 @@
 # File Created: Saturday, 17th October 2020 8:05:47 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Wednesday, 21st October 2020 8:17:50 pm
+# Last Modified: Thursday, 22nd October 2020 7:54:07 pm
 # Modified By: Dillon Koch
 # -----
 # Collins Aerospace
@@ -124,8 +124,8 @@ class ESB_Parser:
         """
         time = event.find_all('div', attrs={'id': 'time'})
         time = time[0].get_text()
-        time_comp = re.compile(r"^\d{2}:\d{2} C(S|D)T$")
-        match = re.match(time_comp, time)
+        time_comp = re.compile(r"\d{2}:\d{2} C(S|D)T")
+        match = re.search(time_comp, time)
         return match.group(0) if match is not None else None
 
     def _teams(self, event):  # Helping Helper _date_event_to_row  Tested
@@ -188,6 +188,8 @@ class ESB_Parser:
         finds the home/away spread/spread_ml of an event
         """
         spreads = event.find_all('div', attrs={'class': 'column spread pull-right'})
+        if len(spreads) == 0:
+            return tuple([None] * 6)
         spreads_texts = [item.get_text().strip() for item in spreads]
         away_text = spreads_texts[0]
         home_text = spreads_texts[1]
@@ -206,10 +208,10 @@ class ESB_Parser:
 
     def _totals_match(self, text):  # Helping Helper _totals  Tested
         total_comp = re.compile(r"(O|U) (\d+\.?\d?)\((((\+|-)\d+)|(even))\)")
-        match = re.match(total_comp, text)
+        match = re.search(total_comp, text)
         if match is None:
             print("No match for ", text)
-            return None, None
+            return (None, None)
         else:
             total = match.group(2)
             ml = match.group(3)
@@ -228,7 +230,7 @@ class ESB_Parser:
 
         over, over_ml = self._totals_match(over_text)
         under, under_ml = self._totals_match(under_text)
-        tie, tie_ml = self._totals_match(tie_text) if tie_text is not None else None, None
+        tie, tie_ml = (None, None) if tie_text is None else self._totals_match(tie_text)
 
         over_ml = '100' if over_ml == 'even' else over_ml
         under_ml = '100' if under_ml == 'even' else under_ml
