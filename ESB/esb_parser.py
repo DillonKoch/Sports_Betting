@@ -4,7 +4,7 @@
 # File Created: Saturday, 17th October 2020 8:05:47 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Thursday, 22nd October 2020 7:54:07 pm
+# Last Modified: Thursday, 22nd October 2020 7:59:57 pm
 # Modified By: Dillon Koch
 # -----
 # Collins Aerospace
@@ -433,6 +433,12 @@ class ESB_Parser:
         else:
             print(f"No existing df found for {path}, making a new one!")
             return None
+
+    def _sort_df(self, df):
+        cols = ['scraped_ts', 'datetime', 'Home', 'Away', 'Title', 'Description', 'Bet']
+        sort_cols = [col for col in cols if col in list(df.columns)]
+        df.sort_values(by=sort_cols, inplace=True)
+        return df
 
     def add_new_df(self, df, bet_type, league):  # Top Level
         df_path = ROOT_PATH + f"/ESB/Data/{league}/{bet_type}.csv"
