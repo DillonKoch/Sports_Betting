@@ -381,3 +381,407 @@ datetime,Game_Time,Home,Away,Title,Description,Bet,Spread/overunder,Odds,scraped
 2020-09-26,15:00 CDT,Virginia,Duke,1st Half,Duke vs Virginia | 1st Half Lines,Virginia,,-175.0,2020-09-23 08:35
 2020-09-26,19:00 CDT,Virginia Tech,NC State,1st Half,NC State vs Virginia Tech | 1st Half Lines,NC State,,170.0,2020-09-23 08:35
 2020-09-26,19:00 CDT,Virginia Tech,NC State,1st Half,NC State vs Virginia Tech | 1st Half Lines,Virginia Tech,,-200.0,2020-09-23 08:35
+2020-10-22,18:30 CDT,Appalachian St,Arkansas State,2nd Half,Arkansas State vs Appalachian St | 2nd Half Lines,Appalachian St,,-320.0,2020-10-22 20:22
+2020-10-22,18:30 CDT,Appalachian St,Arkansas State,2nd Half,Arkansas State vs Appalachian St | 2nd Half Lines,Appalachian St,-6.5,-110.0,2020-10-22 20:22
+2020-10-22,18:30 CDT,Appalachian St,Arkansas State,2nd Half,Arkansas State vs Appalachian St | 2nd Half Lines,Arkansas State,,260.0,2020-10-22 20:22
+2020-10-22,18:30 CDT,Appalachian St,Arkansas State,2nd Half,Arkansas State vs Appalachian St | 2nd Half Lines,Arkansas State,6.5,-110.0,2020-10-22 20:22
+2020-10-22,18:30 CDT,Appalachian St,Arkansas State,2nd Half,Arkansas State vs Appalachian St | 2nd Half Lines,Over,30.5,-110.0,2020-10-22 20:22
+2020-10-22,18:30 CDT,Appalachian St,Arkansas State,2nd Half,Arkansas State vs Appalachian St | 2nd Half Lines,Under,30.5,-110.0,2020-10-22 20:22
+2020-10-23,18:30 CDT,South Florida,Tulsa,1st Half,Tulsa vs South Florida | 1st Half Lines,Over,24.5,-115.0,2020-10-22 20:22
+2020-10-23,18:30 CDT,South Florida,Tulsa,1st Half,Tulsa vs South Florida | 1st Half Lines,South Florida,,240.0,2020-10-22 20:22
+2020-10-23,18:30 CDT,South Florida,Tulsa,1st Half,Tulsa vs South Florida | 1st Half Lines,South Florida,6.5,-110.0,2020-10-22 20:22
+2020-10-23,18:30 CDT,South Florida,Tulsa,1st Half,Tulsa vs South Florida | 1st Half Lines,Tulsa,,-300.0,2020-10-22 20:22
+2020-10-23,18:30 CDT,South Florida,Tulsa,1st Half,Tulsa vs South Florida | 1st Half Lines,Tulsa,-6.5,-110.0,2020-10-22 20:22
+2020-10-23,18:30 CDT,South Florida,Tulsa,1st Half,Tulsa vs South Florida | 1st Half Lines,Under,24.5,-105.0,2020-10-22 20:22
+2020-10-23,18:30 CDT,South Florida,Tulsa,Team To Score First,Tulsa vs South Florida | Team to Score First,South Florida,,150.0,2020-10-22 20:22
+2020-10-23,18:30 CDT,South Florida,Tulsa,Team To Score First,Tulsa vs South Florida | Team to Score First,Tulsa,,-180.0,2020-10-22 20:22
+2020-10-23,19:00 CDT,UAB,UL Lafayette,1st Half,UL Lafayette vs UAB | 1st Half Lines,Over,24.5,-110.0,2020-10-22 20:22
+2020-10-23,19:00 CDT,UAB,UL Lafayette,1st Half,UL Lafayette vs UAB | 1st Half Lines,UAB,0.5,105.0,2020-10-22 20:22
+2020-10-23,19:00 CDT,UAB,UL Lafayette,1st Half,UL Lafayette vs UAB | 1st Half Lines,UL Lafayette,-0.5,-125.0,2020-10-22 20:22
+2020-10-23,19:00 CDT,UAB,UL Lafayette,1st Half,UL Lafayette vs UAB | 1st Half Lines,Under,24.5,-110.0,2020-10-22 20:22
+2020-10-23,19:00 CDT,UAB,UL Lafayette,Team To Score First,UL Lafayette vs UAB | Team to Score First,UAB,,-115.0,2020-10-22 20:22
+2020-10-23,19:00 CDT,UAB,UL Lafayette,Team To Score First,UL Lafayette vs UAB | Team to Score First,UL Lafayette,,-115.0,2020-10-22 20:22
+2020-10-23,19:00 CDT,Wisconsin,Illinois,1st Half,Illinois vs Wisconsin | 1st Half Lines,Illinois,,500.0,2020-10-22 20:22
+2020-10-23,19:00 CDT,Wisconsin,Illinois,1st Half,Illinois vs Wisconsin | 1st Half Lines,Illinois,10.5,-115.0,2020-10-22 20:22
+2020-10-23,19:00 CDT,Wisconsin,Illinois,1st Half,Illinois vs Wisconsin | 1st Half Lines,Over,27.0,-110.0,2020-10-22 20:22
+2020-10-23,19:00 CDT,Wisconsin,Illinois,1st Half,Illinois vs Wisconsin | 1st Half Lines,Under,27.0,-110.0,2020-10-22 20:22
+2020-10-23,19:00 CDT,Wisconsin,Illinois,1st Half,Illinois vs Wisconsin | 1st Half Lines,Wisconsin,,-750.0,2020-10-22 20:22
+2020-10-23,19:00 CDT,Wisconsin,Illinois,1st Half,Illinois vs Wisconsin | 1st Half Lines,Wisconsin,-10.5,-105.0,2020-10-22 20:22
+2020-10-23,19:00 CDT,Wisconsin,Illinois,Team To Score First,Illinois vs Wisconsin | Team to Score First,Illinois,,200.0,2020-10-22 20:22
+2020-10-23,19:00 CDT,Wisconsin,Illinois,Team To Score First,Illinois vs Wisconsin | Team to Score First,Wisconsin,,-250.0,2020-10-22 20:22
+2020-10-24,21:15 CDT,BYU,Texas State,1st Half,Texas State vs BYU | 1st Half Lines,BYU,-17.0,-110.0,2020-10-22 20:22
+2020-10-24,21:15 CDT,BYU,Texas State,1st Half,Texas State vs BYU | 1st Half Lines,Over,33.0,-110.0,2020-10-22 20:22
+2020-10-24,21:15 CDT,BYU,Texas State,1st Half,Texas State vs BYU | 1st Half Lines,Texas State,17.0,-110.0,2020-10-22 20:22
+2020-10-24,21:15 CDT,BYU,Texas State,1st Half,Texas State vs BYU | 1st Half Lines,Under,33.0,-110.0,2020-10-22 20:22
+2020-10-24,18:00 CDT,Boise State,Utah State,1st Half,Utah State vs Boise State | 1st Half Lines,Boise State,,-550.0,2020-10-22 20:22
+2020-10-24,18:00 CDT,Boise State,Utah State,1st Half,Utah State vs Boise State | 1st Half Lines,Boise State,-9.0,-110.0,2020-10-22 20:22
+2020-10-24,18:00 CDT,Boise State,Utah State,1st Half,Utah State vs Boise State | 1st Half Lines,Over,27.5,-115.0,2020-10-22 20:22
+2020-10-24,18:00 CDT,Boise State,Utah State,1st Half,Utah State vs Boise State | 1st Half Lines,Under,27.5,-105.0,2020-10-22 20:22
+2020-10-24,18:00 CDT,Boise State,Utah State,1st Half,Utah State vs Boise State | 1st Half Lines,Utah State,,400.0,2020-10-22 20:22
+2020-10-24,18:00 CDT,Boise State,Utah State,1st Half,Utah State vs Boise State | 1st Half Lines,Utah State,9.0,-110.0,2020-10-22 20:22
+2020-10-24,15:00 CDT,Boston College,Georgia Tech,1st Half,Georgia Tech vs Boston College | 1st Half Lines,Boston College,,-145.0,2020-10-22 20:22
+2020-10-24,15:00 CDT,Boston College,Georgia Tech,1st Half,Georgia Tech vs Boston College | 1st Half Lines,Boston College,-2.5,-110.0,2020-10-22 20:22
+2020-10-24,15:00 CDT,Boston College,Georgia Tech,1st Half,Georgia Tech vs Boston College | 1st Half Lines,Georgia Tech,,125.0,2020-10-22 20:22
+2020-10-24,15:00 CDT,Boston College,Georgia Tech,1st Half,Georgia Tech vs Boston College | 1st Half Lines,Georgia Tech,2.5,-110.0,2020-10-22 20:22
+2020-10-24,15:00 CDT,Boston College,Georgia Tech,1st Half,Georgia Tech vs Boston College | 1st Half Lines,Over,27.0,-110.0,2020-10-22 20:22
+2020-10-24,15:00 CDT,Boston College,Georgia Tech,1st Half,Georgia Tech vs Boston College | 1st Half Lines,Under,27.0,-110.0,2020-10-22 20:22
+2020-10-24,15:00 CDT,Boston College,Georgia Tech,Team To Score First,Georgia Tech vs Boston College | Team to Score First,Boston College,,-155.0,2020-10-22 20:22
+2020-10-24,15:00 CDT,Boston College,Georgia Tech,Team To Score First,Georgia Tech vs Boston College | Team to Score First,Georgia Tech,,125.0,2020-10-22 20:22
+2020-10-24,13:00 CDT,Central Florida,Tulane,1st Half,Tulane vs Central Florida | 1st Half Lines,Central Florida,,-600.0,2020-10-22 20:22
+2020-10-24,13:00 CDT,Central Florida,Tulane,1st Half,Tulane vs Central Florida | 1st Half Lines,Central Florida,-10.5,-110.0,2020-10-22 20:22
+2020-10-24,13:00 CDT,Central Florida,Tulane,1st Half,Tulane vs Central Florida | 1st Half Lines,Over,37.5,-110.0,2020-10-22 20:22
+2020-10-24,13:00 CDT,Central Florida,Tulane,1st Half,Tulane vs Central Florida | 1st Half Lines,Tulane,,425.0,2020-10-22 20:22
+2020-10-24,13:00 CDT,Central Florida,Tulane,1st Half,Tulane vs Central Florida | 1st Half Lines,Tulane,10.5,-110.0,2020-10-22 20:22
+2020-10-24,13:00 CDT,Central Florida,Tulane,1st Half,Tulane vs Central Florida | 1st Half Lines,Under,37.5,-110.0,2020-10-22 20:22
+2020-10-24,11:00 CDT,Charlotte,UTEP,1st Half,UTEP vs Charlotte | 1st Half Lines,Charlotte,,-500.0,2020-10-22 20:22
+2020-10-24,11:00 CDT,Charlotte,UTEP,1st Half,UTEP vs Charlotte | 1st Half Lines,Charlotte,-7.5,-110.0,2020-10-22 20:22
+2020-10-24,11:00 CDT,Charlotte,UTEP,1st Half,UTEP vs Charlotte | 1st Half Lines,Over,26.0,-110.0,2020-10-22 20:22
+2020-10-24,11:00 CDT,Charlotte,UTEP,1st Half,UTEP vs Charlotte | 1st Half Lines,UTEP,,350.0,2020-10-22 20:22
+2020-10-24,11:00 CDT,Charlotte,UTEP,1st Half,UTEP vs Charlotte | 1st Half Lines,UTEP,7.5,-110.0,2020-10-22 20:22
+2020-10-24,11:00 CDT,Charlotte,UTEP,1st Half,UTEP vs Charlotte | 1st Half Lines,Under,26.0,-110.0,2020-10-22 20:22
+2020-10-24,11:00 CDT,Charlotte,UTEP,Team To Score First,UTEP vs Charlotte | Team to Score First,Charlotte,,-225.0,2020-10-22 20:22
+2020-10-24,11:00 CDT,Charlotte,UTEP,Team To Score First,UTEP vs Charlotte | Team to Score First,UTEP,,180.0,2020-10-22 20:22
+2020-10-24,11:00 CDT,Clemson,Syracuse,1st Half,Syracuse vs Clemson | 1st Half Lines,Clemson,-30.0,-110.0,2020-10-22 20:22
+2020-10-24,11:00 CDT,Clemson,Syracuse,1st Half,Syracuse vs Clemson | 1st Half Lines,Over,35.5,-110.0,2020-10-22 20:22
+2020-10-24,11:00 CDT,Clemson,Syracuse,1st Half,Syracuse vs Clemson | 1st Half Lines,Syracuse,30.0,-110.0,2020-10-22 20:22
+2020-10-24,11:00 CDT,Clemson,Syracuse,1st Half,Syracuse vs Clemson | 1st Half Lines,Under,35.5,-110.0,2020-10-22 20:22
+2020-10-24,11:00 CDT,Coastal Carolina,Georgia Southern,1st Half,Georgia Southern vs Coastal Carolina | 1st Half Lines,Coastal Carolina,,-200.0,2020-10-22 20:22
+2020-10-24,11:00 CDT,Coastal Carolina,Georgia Southern,1st Half,Georgia Southern vs Coastal Carolina | 1st Half Lines,Coastal Carolina,-3.5,-110.0,2020-10-22 20:22
+2020-10-24,11:00 CDT,Coastal Carolina,Georgia Southern,1st Half,Georgia Southern vs Coastal Carolina | 1st Half Lines,Georgia Southern,,170.0,2020-10-22 20:22
+2020-10-24,11:00 CDT,Coastal Carolina,Georgia Southern,1st Half,Georgia Southern vs Coastal Carolina | 1st Half Lines,Georgia Southern,3.5,-110.0,2020-10-22 20:22
+2020-10-24,11:00 CDT,Coastal Carolina,Georgia Southern,1st Half,Georgia Southern vs Coastal Carolina | 1st Half Lines,Over,26.5,-110.0,2020-10-22 20:22
+2020-10-24,11:00 CDT,Coastal Carolina,Georgia Southern,1st Half,Georgia Southern vs Coastal Carolina | 1st Half Lines,Under,26.5,-110.0,2020-10-22 20:22
+2020-10-24,11:00 CDT,Coastal Carolina,Georgia Southern,Team To Score First,Georgia Southern vs Coastal Carolina | Team to Score First,Coastal Carolina,,-140.0,2020-10-22 20:22
+2020-10-24,11:00 CDT,Coastal Carolina,Georgia Southern,Team To Score First,Georgia Southern vs Coastal Carolina | Team to Score First,Georgia Southern,,110.0,2020-10-22 20:22
+2020-10-24,18:30 CDT,Fresno State,Hawaii,1st Half,Hawaii vs Fresno State | 1st Half Lines,Fresno State,,-155.0,2020-10-22 20:22
+2020-10-24,18:30 CDT,Fresno State,Hawaii,1st Half,Hawaii vs Fresno State | 1st Half Lines,Fresno State,-2.5,-110.0,2020-10-22 20:22
+2020-10-24,18:30 CDT,Fresno State,Hawaii,1st Half,Hawaii vs Fresno State | 1st Half Lines,Hawaii,,135.0,2020-10-22 20:22
+2020-10-24,18:30 CDT,Fresno State,Hawaii,1st Half,Hawaii vs Fresno State | 1st Half Lines,Hawaii,2.5,-110.0,2020-10-22 20:22
+2020-10-24,18:30 CDT,Fresno State,Hawaii,1st Half,Hawaii vs Fresno State | 1st Half Lines,Over,33.5,-105.0,2020-10-22 20:22
+2020-10-24,18:30 CDT,Fresno State,Hawaii,1st Half,Hawaii vs Fresno State | 1st Half Lines,Under,33.5,-115.0,2020-10-22 20:22
+2020-10-24,18:30 CDT,Fresno State,Hawaii,Team To Score First,Hawaii vs Fresno State | Team to Score First,Fresno State,,-140.0,2020-10-22 20:22
+2020-10-24,18:30 CDT,Fresno State,Hawaii,Team To Score First,Hawaii vs Fresno State | Team to Score First,Hawaii,,110.0,2020-10-22 20:22
+2020-10-24,14:30 CDT,Indiana,Penn State,1st Half,Penn State vs Indiana | 1st Half Lines,Indiana,,165.0,2020-10-22 20:22
+2020-10-24,14:30 CDT,Indiana,Penn State,1st Half,Penn State vs Indiana | 1st Half Lines,Indiana,3.5,-110.0,2020-10-22 20:22
+2020-10-24,14:30 CDT,Indiana,Penn State,1st Half,Penn State vs Indiana | 1st Half Lines,Over,30.0,-110.0,2020-10-22 20:22
+2020-10-24,14:30 CDT,Indiana,Penn State,1st Half,Penn State vs Indiana | 1st Half Lines,Penn State,,-185.0,2020-10-22 20:22
+2020-10-24,14:30 CDT,Indiana,Penn State,1st Half,Penn State vs Indiana | 1st Half Lines,Penn State,-3.5,-110.0,2020-10-22 20:22
+2020-10-24,14:30 CDT,Indiana,Penn State,1st Half,Penn State vs Indiana | 1st Half Lines,Under,30.0,-110.0,2020-10-22 20:22
+2020-10-24,14:30 CDT,Indiana,Penn State,Team To Score First,Penn State vs Indiana | Team to Score First,Indiana,,120.0,2020-10-22 20:22
+2020-10-24,14:30 CDT,Indiana,Penn State,Team To Score First,Penn State vs Indiana | Team to Score First,Penn State,,-150.0,2020-10-22 20:22
+2020-10-24,11:00 CDT,Kansas State,Kansas,1st Half,Kansas vs Kansas State | 1st Half Lines,Kansas,,500.0,2020-10-22 20:22
+2020-10-24,11:00 CDT,Kansas State,Kansas,1st Half,Kansas vs Kansas State | 1st Half Lines,Kansas,10.5,-110.0,2020-10-22 20:22
+2020-10-24,11:00 CDT,Kansas State,Kansas,1st Half,Kansas vs Kansas State | 1st Half Lines,Kansas State,,-800.0,2020-10-22 20:22
+2020-10-24,11:00 CDT,Kansas State,Kansas,1st Half,Kansas vs Kansas State | 1st Half Lines,Kansas State,-10.5,-110.0,2020-10-22 20:22
+2020-10-24,11:00 CDT,Kansas State,Kansas,1st Half,Kansas vs Kansas State | 1st Half Lines,Over,25.5,-110.0,2020-10-22 20:22
+2020-10-24,11:00 CDT,Kansas State,Kansas,1st Half,Kansas vs Kansas State | 1st Half Lines,Under,25.5,-110.0,2020-10-22 20:22
+2020-10-24,11:00 CDT,Kansas State,Kansas,Team To Score First,Kansas vs Kansas State | Team to Score First,Kansas,,235.0,2020-10-22 20:22
+2020-10-24,11:00 CDT,Kansas State,Kansas,Team To Score First,Kansas vs Kansas State | Team to Score First,Kansas State,,-290.0,2020-10-22 20:22
+2020-10-24,18:00 CDT,LSU,South Carolina,1st Half,South Carolina vs LSU | 1st Half Lines,LSU,,-185.0,2020-10-22 20:22
+2020-10-24,18:00 CDT,LSU,South Carolina,1st Half,South Carolina vs LSU | 1st Half Lines,LSU,-3.5,-105.0,2020-10-22 20:22
+2020-10-24,18:00 CDT,LSU,South Carolina,1st Half,South Carolina vs LSU | 1st Half Lines,Over,27.5,-110.0,2020-10-22 20:22
+2020-10-24,18:00 CDT,LSU,South Carolina,1st Half,South Carolina vs LSU | 1st Half Lines,South Carolina,,165.0,2020-10-22 20:22
+2020-10-24,18:00 CDT,LSU,South Carolina,1st Half,South Carolina vs LSU | 1st Half Lines,South Carolina,3.5,-115.0,2020-10-22 20:22
+2020-10-24,18:00 CDT,LSU,South Carolina,1st Half,South Carolina vs LSU | 1st Half Lines,Under,27.5,-110.0,2020-10-22 20:22
+2020-10-24,18:00 CDT,LSU,South Carolina,Team To Score First,South Carolina vs LSU | Team to Score First,LSU,,-150.0,2020-10-22 20:22
+2020-10-24,18:00 CDT,LSU,South Carolina,Team To Score First,South Carolina vs LSU | Team to Score First,South Carolina,,120.0,2020-10-22 20:22
+2020-10-24,12:00 CDT,Liberty,Southern Miss,1st Half,Southern Miss vs Liberty | 1st Half Lines,Liberty,,-340.0,2020-10-22 20:22
+2020-10-24,12:00 CDT,Liberty,Southern Miss,1st Half,Southern Miss vs Liberty | 1st Half Lines,Liberty,-6.5,-125.0,2020-10-22 20:22
+2020-10-24,12:00 CDT,Liberty,Southern Miss,1st Half,Southern Miss vs Liberty | 1st Half Lines,Over,31.0,-110.0,2020-10-22 20:22
+2020-10-24,12:00 CDT,Liberty,Southern Miss,1st Half,Southern Miss vs Liberty | 1st Half Lines,Southern Miss,,280.0,2020-10-22 20:22
+2020-10-24,12:00 CDT,Liberty,Southern Miss,1st Half,Southern Miss vs Liberty | 1st Half Lines,Southern Miss,6.5,105.0,2020-10-22 20:22
+2020-10-24,12:00 CDT,Liberty,Southern Miss,1st Half,Southern Miss vs Liberty | 1st Half Lines,Under,31.0,-110.0,2020-10-22 20:22
+2020-10-24,12:00 CDT,Liberty,Southern Miss,Team To Score First,Southern Miss vs Liberty | Team to Score First,Liberty,,-165.0,2020-10-22 20:22
+2020-10-24,12:00 CDT,Liberty,Southern Miss,Team To Score First,Southern Miss vs Liberty | Team to Score First,Southern Miss,,135.0,2020-10-22 20:22
+2020-10-24,11:00 CDT,Louisville,Florida State,1st Half,Florida State vs Louisville | 1st Half Lines,Florida State,,150.0,2020-10-22 20:22
+2020-10-24,11:00 CDT,Louisville,Florida State,1st Half,Florida State vs Louisville | 1st Half Lines,Florida State,3.0,-110.0,2020-10-22 20:22
+2020-10-24,11:00 CDT,Louisville,Florida State,1st Half,Florida State vs Louisville | 1st Half Lines,Louisville,,-170.0,2020-10-22 20:22
+2020-10-24,11:00 CDT,Louisville,Florida State,1st Half,Florida State vs Louisville | 1st Half Lines,Louisville,-3.0,-110.0,2020-10-22 20:22
+2020-10-24,11:00 CDT,Louisville,Florida State,1st Half,Florida State vs Louisville | 1st Half Lines,Over,30.0,-110.0,2020-10-22 20:22
+2020-10-24,11:00 CDT,Louisville,Florida State,1st Half,Florida State vs Louisville | 1st Half Lines,Under,30.0,-110.0,2020-10-22 20:22
+2020-10-24,11:00 CDT,Louisville,Florida State,Team To Score First,Florida State vs Louisville | Team to Score First,Florida State,,105.0,2020-10-22 20:22
+2020-10-24,11:00 CDT,Louisville,Florida State,Team To Score First,Florida State vs Louisville | Team to Score First,Louisville,,-135.0,2020-10-22 20:22
+2020-10-24,13:30 CDT,Marshall,Florida Atlantic,1st Half,Florida Atlantic vs Marshall | 1st Half Lines,Florida Atlantic,,400.0,2020-10-22 20:22
+2020-10-24,13:30 CDT,Marshall,Florida Atlantic,1st Half,Florida Atlantic vs Marshall | 1st Half Lines,Florida Atlantic,9.0,-110.0,2020-10-22 20:22
+2020-10-24,13:30 CDT,Marshall,Florida Atlantic,1st Half,Florida Atlantic vs Marshall | 1st Half Lines,Marshall,,-550.0,2020-10-22 20:22
+2020-10-24,13:30 CDT,Marshall,Florida Atlantic,1st Half,Florida Atlantic vs Marshall | 1st Half Lines,Marshall,-9.0,-110.0,2020-10-22 20:22
+2020-10-24,13:30 CDT,Marshall,Florida Atlantic,1st Half,Florida Atlantic vs Marshall | 1st Half Lines,Over,26.5,-115.0,2020-10-22 20:22
+2020-10-24,13:30 CDT,Marshall,Florida Atlantic,1st Half,Florida Atlantic vs Marshall | 1st Half Lines,Under,26.5,-105.0,2020-10-22 20:22
+2020-10-24,13:30 CDT,Marshall,Florida Atlantic,Team To Score First,Florida Atlantic vs Marshall | Team to Score First,Florida Atlantic,,190.0,2020-10-22 20:22
+2020-10-24,13:30 CDT,Marshall,Florida Atlantic,Team To Score First,Florida Atlantic vs Marshall | Team to Score First,Marshall,,-240.0,2020-10-22 20:22
+2020-10-24,11:00 CDT,Memphis,Temple,1st Half,Temple vs Memphis | 1st Half Lines,Memphis,,-380.0,2020-10-22 20:22
+2020-10-24,11:00 CDT,Memphis,Temple,1st Half,Temple vs Memphis | 1st Half Lines,Memphis,-7.0,-110.0,2020-10-22 20:22
+2020-10-24,11:00 CDT,Memphis,Temple,1st Half,Temple vs Memphis | 1st Half Lines,Over,35.5,-110.0,2020-10-22 20:22
+2020-10-24,11:00 CDT,Memphis,Temple,1st Half,Temple vs Memphis | 1st Half Lines,Temple,,310.0,2020-10-22 20:22
+2020-10-24,11:00 CDT,Memphis,Temple,1st Half,Temple vs Memphis | 1st Half Lines,Temple,7.0,-110.0,2020-10-22 20:22
+2020-10-24,11:00 CDT,Memphis,Temple,1st Half,Temple vs Memphis | 1st Half Lines,Under,35.5,-110.0,2020-10-22 20:22
+2020-10-24,11:00 CDT,Memphis,Temple,Team To Score First,Temple vs Memphis | Team to Score First,Memphis,,-185.0,2020-10-22 20:22
+2020-10-24,11:00 CDT,Memphis,Temple,Team To Score First,Temple vs Memphis | Team to Score First,Temple,,155.0,2020-10-22 20:22
+2020-10-24,19:00 CDT,Miami Florida,Virginia,1st Half,Virginia vs Miami Florida | 1st Half Lines,Miami Florida,,-350.0,2020-10-22 20:22
+2020-10-24,19:00 CDT,Miami Florida,Virginia,1st Half,Virginia vs Miami Florida | 1st Half Lines,Miami Florida,-6.5,-120.0,2020-10-22 20:22
+2020-10-24,19:00 CDT,Miami Florida,Virginia,1st Half,Virginia vs Miami Florida | 1st Half Lines,Over,30.0,-110.0,2020-10-22 20:22
+2020-10-24,19:00 CDT,Miami Florida,Virginia,1st Half,Virginia vs Miami Florida | 1st Half Lines,Under,30.0,-110.0,2020-10-22 20:22
+2020-10-24,19:00 CDT,Miami Florida,Virginia,1st Half,Virginia vs Miami Florida | 1st Half Lines,Virginia,,280.0,2020-10-22 20:22
+2020-10-24,19:00 CDT,Miami Florida,Virginia,1st Half,Virginia vs Miami Florida | 1st Half Lines,Virginia,6.5,100.0,2020-10-22 20:22
+2020-10-24,19:00 CDT,Miami Florida,Virginia,Team To Score First,Virginia vs Miami Florida | Team to Score First,Miami Florida,,-175.0,2020-10-22 20:22
+2020-10-24,19:00 CDT,Miami Florida,Virginia,Team To Score First,Virginia vs Miami Florida | Team to Score First,Virginia,,145.0,2020-10-22 20:22
+2020-10-24,11:00 CDT,Michigan State,Rutgers,1st Half,Rutgers vs Michigan State | 1st Half Lines,Michigan State,,-380.0,2020-10-22 20:22
+2020-10-24,11:00 CDT,Michigan State,Rutgers,1st Half,Rutgers vs Michigan State | 1st Half Lines,Michigan State,-7.0,-110.0,2020-10-22 20:22
+2020-10-24,11:00 CDT,Michigan State,Rutgers,1st Half,Rutgers vs Michigan State | 1st Half Lines,Over,23.0,-110.0,2020-10-22 20:22
+2020-10-24,11:00 CDT,Michigan State,Rutgers,1st Half,Rutgers vs Michigan State | 1st Half Lines,Rutgers,,310.0,2020-10-22 20:22
+2020-10-24,11:00 CDT,Michigan State,Rutgers,1st Half,Rutgers vs Michigan State | 1st Half Lines,Rutgers,7.0,-110.0,2020-10-22 20:22
+2020-10-24,11:00 CDT,Michigan State,Rutgers,1st Half,Rutgers vs Michigan State | 1st Half Lines,Under,23.0,-110.0,2020-10-22 20:22
+2020-10-24,18:30 CDT,Minnesota U,Michigan,1st Half,Michigan vs Minnesota U | 1st Half Lines,Michigan,,-135.0,2020-10-22 20:22
+2020-10-24,18:30 CDT,Minnesota U,Michigan,1st Half,Michigan vs Minnesota U | 1st Half Lines,Michigan,-2.0,-110.0,2020-10-22 20:22
+2020-10-24,18:30 CDT,Minnesota U,Michigan,1st Half,Michigan vs Minnesota U | 1st Half Lines,Minnesota U,,115.0,2020-10-22 20:22
+2020-10-24,18:30 CDT,Minnesota U,Michigan,1st Half,Michigan vs Minnesota U | 1st Half Lines,Minnesota U,2.0,-110.0,2020-10-22 20:22
+2020-10-24,18:30 CDT,Minnesota U,Michigan,1st Half,Michigan vs Minnesota U | 1st Half Lines,Over,27.0,-110.0,2020-10-22 20:22
+2020-10-24,18:30 CDT,Minnesota U,Michigan,1st Half,Michigan vs Minnesota U | 1st Half Lines,Under,27.0,-110.0,2020-10-22 20:22
+2020-10-24,18:30 CDT,Minnesota U,Michigan,Team To Score First,Michigan vs Minnesota U | Team to Score First,Michigan,,-120.0,2020-10-22 20:22
+2020-10-24,18:30 CDT,Minnesota U,Michigan,Team To Score First,Michigan vs Minnesota U | Team to Score First,Minnesota U,,-110.0,2020-10-22 20:22
+2020-10-24,11:00 CDT,Mississippi,Auburn,1st Half,Auburn vs Mississippi | 1st Half Lines,Auburn,,-135.0,2020-10-22 20:22
+2020-10-24,11:00 CDT,Mississippi,Auburn,1st Half,Auburn vs Mississippi | 1st Half Lines,Auburn,-1.5,-110.0,2020-10-22 20:22
+2020-10-24,11:00 CDT,Mississippi,Auburn,1st Half,Auburn vs Mississippi | 1st Half Lines,Mississippi,,115.0,2020-10-22 20:22
+2020-10-24,11:00 CDT,Mississippi,Auburn,1st Half,Auburn vs Mississippi | 1st Half Lines,Mississippi,1.5,-110.0,2020-10-22 20:22
+2020-10-24,11:00 CDT,Mississippi,Auburn,1st Half,Auburn vs Mississippi | 1st Half Lines,Over,35.5,-105.0,2020-10-22 20:22
+2020-10-24,11:00 CDT,Mississippi,Auburn,1st Half,Auburn vs Mississippi | 1st Half Lines,Under,35.5,-115.0,2020-10-22 20:22
+2020-10-24,11:00 CDT,Mississippi,Auburn,Team To Score First,Auburn vs Mississippi | Team to Score First,Auburn,,-130.0,2020-10-22 20:22
+2020-10-24,11:00 CDT,Mississippi,Auburn,Team To Score First,Auburn vs Mississippi | Team to Score First,Mississippi,,100.0,2020-10-22 20:22
+2020-10-24,15:00 CDT,Missouri,Kentucky,1st Half,Kentucky vs Missouri | 1st Half Lines,Kentucky,,-170.0,2020-10-22 20:22
+2020-10-24,15:00 CDT,Missouri,Kentucky,1st Half,Kentucky vs Missouri | 1st Half Lines,Kentucky,-3.0,-110.0,2020-10-22 20:22
+2020-10-24,15:00 CDT,Missouri,Kentucky,1st Half,Kentucky vs Missouri | 1st Half Lines,Missouri,,150.0,2020-10-22 20:22
+2020-10-24,15:00 CDT,Missouri,Kentucky,1st Half,Kentucky vs Missouri | 1st Half Lines,Missouri,3.0,-110.0,2020-10-22 20:22
+2020-10-24,15:00 CDT,Missouri,Kentucky,1st Half,Kentucky vs Missouri | 1st Half Lines,Over,23.5,-110.0,2020-10-22 20:22
+2020-10-24,15:00 CDT,Missouri,Kentucky,1st Half,Kentucky vs Missouri | 1st Half Lines,Under,23.5,-110.0,2020-10-22 20:22
+2020-10-24,15:00 CDT,Missouri,Kentucky,Team To Score First,Kentucky vs Missouri | Team to Score First,Kentucky,,-125.0,2020-10-22 20:22
+2020-10-24,15:00 CDT,Missouri,Kentucky,Team To Score First,Kentucky vs Missouri | Team to Score First,Missouri,,-105.0,2020-10-22 20:22
+2020-10-24,14:30 CDT,Navy,Houston,1st Half,Houston vs Navy | 1st Half Lines,Houston,,-400.0,2020-10-22 20:22
+2020-10-24,14:30 CDT,Navy,Houston,1st Half,Houston vs Navy | 1st Half Lines,Houston,-7.0,-110.0,2020-10-22 20:22
+2020-10-24,14:30 CDT,Navy,Houston,1st Half,Houston vs Navy | 1st Half Lines,Navy,,320.0,2020-10-22 20:22
+2020-10-24,14:30 CDT,Navy,Houston,1st Half,Houston vs Navy | 1st Half Lines,Navy,7.0,-110.0,2020-10-22 20:22
+2020-10-24,14:30 CDT,Navy,Houston,1st Half,Houston vs Navy | 1st Half Lines,Over,28.0,-105.0,2020-10-22 20:22
+2020-10-24,14:30 CDT,Navy,Houston,1st Half,Houston vs Navy | 1st Half Lines,Under,28.0,-115.0,2020-10-22 20:22
+2020-10-24,14:30 CDT,Navy,Houston,Team To Score First,Houston vs Navy | Team to Score First,Houston,,-190.0,2020-10-22 20:22
+2020-10-24,14:30 CDT,Navy,Houston,Team To Score First,Houston vs Navy | Team to Score First,Navy,,160.0,2020-10-22 20:22
+2020-10-24,18:00 CDT,Nevada,Wyoming,1st Half,Wyoming vs Nevada | 1st Half Lines,Nevada,,145.0,2020-10-22 20:22
+2020-10-24,18:00 CDT,Nevada,Wyoming,1st Half,Wyoming vs Nevada | 1st Half Lines,Nevada,3.0,-110.0,2020-10-22 20:22
+2020-10-24,18:00 CDT,Nevada,Wyoming,1st Half,Wyoming vs Nevada | 1st Half Lines,Over,24.5,-110.0,2020-10-22 20:22
+2020-10-24,18:00 CDT,Nevada,Wyoming,1st Half,Wyoming vs Nevada | 1st Half Lines,Under,24.5,-110.0,2020-10-22 20:22
+2020-10-24,18:00 CDT,Nevada,Wyoming,1st Half,Wyoming vs Nevada | 1st Half Lines,Wyoming,,-165.0,2020-10-22 20:22
+2020-10-24,18:00 CDT,Nevada,Wyoming,1st Half,Wyoming vs Nevada | 1st Half Lines,Wyoming,-3.0,-110.0,2020-10-22 20:22
+2020-10-24,18:00 CDT,Nevada,Wyoming,Team To Score First,Wyoming vs Nevada | Team to Score First,Nevada,,-105.0,2020-10-22 20:22
+2020-10-24,18:00 CDT,Nevada,Wyoming,Team To Score First,Wyoming vs Nevada | Team to Score First,Wyoming,,-125.0,2020-10-22 20:22
+2020-10-24,11:00 CDT,North Carolina,NC State,1st Half,NC State vs North Carolina | 1st Half Lines,NC State,,350.0,2020-10-22 20:22
+2020-10-24,11:00 CDT,North Carolina,NC State,1st Half,NC State vs North Carolina | 1st Half Lines,NC State,9.0,-110.0,2020-10-22 20:22
+2020-10-24,11:00 CDT,North Carolina,NC State,1st Half,NC State vs North Carolina | 1st Half Lines,North Carolina,,-475.0,2020-10-22 20:22
+2020-10-24,11:00 CDT,North Carolina,NC State,1st Half,NC State vs North Carolina | 1st Half Lines,North Carolina,-9.0,-110.0,2020-10-22 20:22
+2020-10-24,11:00 CDT,North Carolina,NC State,1st Half,NC State vs North Carolina | 1st Half Lines,Over,30.5,-110.0,2020-10-22 20:22
+2020-10-24,11:00 CDT,North Carolina,NC State,1st Half,NC State vs North Carolina | 1st Half Lines,Under,30.5,-110.0,2020-10-22 20:22
+2020-10-24,11:00 CDT,North Carolina,NC State,Team To Score First,NC State vs North Carolina | Team to Score First,NC State,,175.0,2020-10-22 20:22
+2020-10-24,11:00 CDT,North Carolina,NC State,Team To Score First,NC State vs North Carolina | Team to Score First,North Carolina,,-220.0,2020-10-22 20:22
+2020-10-24,18:30 CDT,Northwestern,Maryland,1st Half,Maryland vs Northwestern | 1st Half Lines,Maryland,,270.0,2020-10-22 20:22
+2020-10-24,18:30 CDT,Northwestern,Maryland,1st Half,Maryland vs Northwestern | 1st Half Lines,Maryland,6.5,-105.0,2020-10-22 20:22
+2020-10-24,18:30 CDT,Northwestern,Maryland,1st Half,Maryland vs Northwestern | 1st Half Lines,Northwestern,,-330.0,2020-10-22 20:22
+2020-10-24,18:30 CDT,Northwestern,Maryland,1st Half,Maryland vs Northwestern | 1st Half Lines,Northwestern,-6.5,-115.0,2020-10-22 20:22
+2020-10-24,18:30 CDT,Northwestern,Maryland,1st Half,Maryland vs Northwestern | 1st Half Lines,Over,27.5,-110.0,2020-10-22 20:22
+2020-10-24,18:30 CDT,Northwestern,Maryland,1st Half,Maryland vs Northwestern | 1st Half Lines,Under,27.5,-110.0,2020-10-22 20:22
+2020-10-24,18:30 CDT,Northwestern,Maryland,Team To Score First,Maryland vs Northwestern | Team to Score First,Maryland,,145.0,2020-10-22 20:22
+2020-10-24,18:30 CDT,Northwestern,Maryland,Team To Score First,Maryland vs Northwestern | Team to Score First,Northwestern,,-175.0,2020-10-22 20:22
+2020-10-24,11:00 CDT,Ohio State,Nebraska,1st Half,Nebraska vs Ohio State | 1st Half Lines,Nebraska,,800.0,2020-10-22 20:22
+2020-10-24,11:00 CDT,Ohio State,Nebraska,1st Half,Nebraska vs Ohio State | 1st Half Lines,Nebraska,14.5,-110.0,2020-10-22 20:22
+2020-10-24,11:00 CDT,Ohio State,Nebraska,1st Half,Nebraska vs Ohio State | 1st Half Lines,Ohio State,,-1400.0,2020-10-22 20:22
+2020-10-24,11:00 CDT,Ohio State,Nebraska,1st Half,Nebraska vs Ohio State | 1st Half Lines,Ohio State,-14.5,-110.0,2020-10-22 20:22
+2020-10-24,11:00 CDT,Ohio State,Nebraska,1st Half,Nebraska vs Ohio State | 1st Half Lines,Over,36.5,-110.0,2020-10-22 20:22
+2020-10-24,11:00 CDT,Ohio State,Nebraska,1st Half,Nebraska vs Ohio State | 1st Half Lines,Under,36.5,-110.0,2020-10-22 20:22
+2020-10-24,14:30 CDT,Oklahoma State,Iowa State,1st Half,Iowa State vs Oklahoma State | 1st Half Lines,Iowa State,,130.0,2020-10-22 20:22
+2020-10-24,14:30 CDT,Oklahoma State,Iowa State,1st Half,Iowa State vs Oklahoma State | 1st Half Lines,Iowa State,2.5,-110.0,2020-10-22 20:22
+2020-10-24,14:30 CDT,Oklahoma State,Iowa State,1st Half,Iowa State vs Oklahoma State | 1st Half Lines,Oklahoma State,,-150.0,2020-10-22 20:22
+2020-10-24,14:30 CDT,Oklahoma State,Iowa State,1st Half,Iowa State vs Oklahoma State | 1st Half Lines,Oklahoma State,-2.5,-110.0,2020-10-22 20:22
+2020-10-24,14:30 CDT,Oklahoma State,Iowa State,1st Half,Iowa State vs Oklahoma State | 1st Half Lines,Over,26.5,-105.0,2020-10-22 20:22
+2020-10-24,14:30 CDT,Oklahoma State,Iowa State,1st Half,Iowa State vs Oklahoma State | 1st Half Lines,Under,26.5,-115.0,2020-10-22 20:22
+2020-10-24,14:30 CDT,Oklahoma State,Iowa State,Team To Score First,Iowa State vs Oklahoma State | Team to Score First,Iowa State,,105.0,2020-10-22 20:22
+2020-10-24,14:30 CDT,Oklahoma State,Iowa State,Team To Score First,Iowa State vs Oklahoma State | Team to Score First,Oklahoma State,,-135.0,2020-10-22 20:22
+2020-10-24,14:30 CDT,Pittsburgh U,Notre Dame,1st Half,Notre Dame vs Pittsburgh U | 1st Half Lines,Notre Dame,,-300.0,2020-10-22 20:22
+2020-10-24,14:30 CDT,Pittsburgh U,Notre Dame,1st Half,Notre Dame vs Pittsburgh U | 1st Half Lines,Notre Dame,-6.0,-110.0,2020-10-22 20:22
+2020-10-24,14:30 CDT,Pittsburgh U,Notre Dame,1st Half,Notre Dame vs Pittsburgh U | 1st Half Lines,Over,23.0,-105.0,2020-10-22 20:22
+2020-10-24,14:30 CDT,Pittsburgh U,Notre Dame,1st Half,Notre Dame vs Pittsburgh U | 1st Half Lines,Pittsburgh U,,240.0,2020-10-22 20:22
+2020-10-24,14:30 CDT,Pittsburgh U,Notre Dame,1st Half,Notre Dame vs Pittsburgh U | 1st Half Lines,Pittsburgh U,6.0,-110.0,2020-10-22 20:22
+2020-10-24,14:30 CDT,Pittsburgh U,Notre Dame,1st Half,Notre Dame vs Pittsburgh U | 1st Half Lines,Under,23.0,-115.0,2020-10-22 20:22
+2020-10-24,14:30 CDT,Pittsburgh U,Notre Dame,Team To Score First,Notre Dame vs Pittsburgh U | Team to Score First,Notre Dame,,-190.0,2020-10-22 20:22
+2020-10-24,14:30 CDT,Pittsburgh U,Notre Dame,Team To Score First,Notre Dame vs Pittsburgh U | Team to Score First,Pittsburgh U,,160.0,2020-10-22 20:22
+2020-10-24,14:30 CDT,Purdue,Iowa,1st Half,Iowa vs Purdue | 1st Half Lines,Iowa,,-150.0,2020-10-22 20:22
+2020-10-24,14:30 CDT,Purdue,Iowa,1st Half,Iowa vs Purdue | 1st Half Lines,Iowa,-2.5,-110.0,2020-10-22 20:22
+2020-10-24,14:30 CDT,Purdue,Iowa,1st Half,Iowa vs Purdue | 1st Half Lines,Over,27.0,100.0,2020-10-22 20:22
+2020-10-24,14:30 CDT,Purdue,Iowa,1st Half,Iowa vs Purdue | 1st Half Lines,Purdue,,130.0,2020-10-22 20:22
+2020-10-24,14:30 CDT,Purdue,Iowa,1st Half,Iowa vs Purdue | 1st Half Lines,Purdue,2.5,-110.0,2020-10-22 20:22
+2020-10-24,14:30 CDT,Purdue,Iowa,1st Half,Iowa vs Purdue | 1st Half Lines,Under,27.0,-120.0,2020-10-22 20:22
+2020-10-24,14:30 CDT,Purdue,Iowa,Team To Score First,Iowa vs Purdue | Team to Score First,Iowa,,-135.0,2020-10-22 20:22
+2020-10-24,14:30 CDT,Purdue,Iowa,Team To Score First,Iowa vs Purdue | Team to Score First,Purdue,,105.0,2020-10-22 20:22
+2020-10-24,14:30 CDT,Rice,Middle Tenn St,1st Half,Middle Tenn St vs Rice | 1st Half Lines,Middle Tenn St,,135.0,2020-10-22 20:22
+2020-10-24,14:30 CDT,Rice,Middle Tenn St,1st Half,Middle Tenn St vs Rice | 1st Half Lines,Middle Tenn St,2.5,-110.0,2020-10-22 20:22
+2020-10-24,14:30 CDT,Rice,Middle Tenn St,1st Half,Middle Tenn St vs Rice | 1st Half Lines,Over,24.5,-110.0,2020-10-22 20:22
+2020-10-24,14:30 CDT,Rice,Middle Tenn St,1st Half,Middle Tenn St vs Rice | 1st Half Lines,Rice,,-155.0,2020-10-22 20:22
+2020-10-24,14:30 CDT,Rice,Middle Tenn St,1st Half,Middle Tenn St vs Rice | 1st Half Lines,Rice,-2.5,-110.0,2020-10-22 20:22
+2020-10-24,14:30 CDT,Rice,Middle Tenn St,1st Half,Middle Tenn St vs Rice | 1st Half Lines,Under,24.5,-110.0,2020-10-22 20:22
+2020-10-24,14:30 CDT,Rice,Middle Tenn St,Team To Score First,Middle Tenn St vs Rice | Team to Score First,Middle Tenn St,,105.0,2020-10-22 20:22
+2020-10-24,14:30 CDT,Rice,Middle Tenn St,Team To Score First,Middle Tenn St vs Rice | Team to Score First,Rice,,-135.0,2020-10-22 20:22
+2020-10-24,20:00 CDT,SMU,Cincinnati,1st Half,Cincinnati vs SMU | 1st Half Lines,Cincinnati,,105.0,2020-10-22 20:22
+2020-10-24,20:00 CDT,SMU,Cincinnati,1st Half,Cincinnati vs SMU | 1st Half Lines,Cincinnati,1.0,-105.0,2020-10-22 20:22
+2020-10-24,20:00 CDT,SMU,Cincinnati,1st Half,Cincinnati vs SMU | 1st Half Lines,Over,27.5,-115.0,2020-10-22 20:22
+2020-10-24,20:00 CDT,SMU,Cincinnati,1st Half,Cincinnati vs SMU | 1st Half Lines,SMU,,-125.0,2020-10-22 20:22
+2020-10-24,20:00 CDT,SMU,Cincinnati,1st Half,Cincinnati vs SMU | 1st Half Lines,SMU,-1.0,-115.0,2020-10-22 20:22
+2020-10-24,20:00 CDT,SMU,Cincinnati,1st Half,Cincinnati vs SMU | 1st Half Lines,Under,27.5,-105.0,2020-10-22 20:22
+2020-10-24,20:00 CDT,SMU,Cincinnati,Team To Score First,Cincinnati vs SMU | Team to Score First,Cincinnati,,100.0,2020-10-22 20:22
+2020-10-24,20:00 CDT,SMU,Cincinnati,Team To Score First,Cincinnati vs SMU | Team to Score First,SMU,,-130.0,2020-10-22 20:22
+2020-10-24,21:30 CDT,San Diego State,UNLV,1st Half,UNLV vs San Diego State | 1st Half Lines,Over,24.5,-110.0,2020-10-22 20:22
+2020-10-24,21:30 CDT,San Diego State,UNLV,1st Half,UNLV vs San Diego State | 1st Half Lines,San Diego State,,-500.0,2020-10-22 20:22
+2020-10-24,21:30 CDT,San Diego State,UNLV,1st Half,UNLV vs San Diego State | 1st Half Lines,San Diego State,-7.5,-110.0,2020-10-22 20:22
+2020-10-24,21:30 CDT,San Diego State,UNLV,1st Half,UNLV vs San Diego State | 1st Half Lines,UNLV,,350.0,2020-10-22 20:22
+2020-10-24,21:30 CDT,San Diego State,UNLV,1st Half,UNLV vs San Diego State | 1st Half Lines,UNLV,7.5,-110.0,2020-10-22 20:22
+2020-10-24,21:30 CDT,San Diego State,UNLV,1st Half,UNLV vs San Diego State | 1st Half Lines,Under,24.5,-110.0,2020-10-22 20:22
+2020-10-24,21:30 CDT,San Diego State,UNLV,Team To Score First,UNLV vs San Diego State | Team to Score First,San Diego State,,-240.0,2020-10-22 20:22
+2020-10-24,21:30 CDT,San Diego State,UNLV,Team To Score First,UNLV vs San Diego State | Team to Score First,UNLV,,190.0,2020-10-22 20:22
+2020-10-24,21:30 CDT,San Jose State,Air Force,1st Half,Air Force vs San Jose State | 1st Half Lines,Air Force,,-210.0,2020-10-22 20:22
+2020-10-24,21:30 CDT,San Jose State,Air Force,1st Half,Air Force vs San Jose State | 1st Half Lines,Air Force,-3.5,-115.0,2020-10-22 20:22
+2020-10-24,21:30 CDT,San Jose State,Air Force,1st Half,Air Force vs San Jose State | 1st Half Lines,Over,30.0,-115.0,2020-10-22 20:22
+2020-10-24,21:30 CDT,San Jose State,Air Force,1st Half,Air Force vs San Jose State | 1st Half Lines,San Jose State,,175.0,2020-10-22 20:22
+2020-10-24,21:30 CDT,San Jose State,Air Force,1st Half,Air Force vs San Jose State | 1st Half Lines,San Jose State,3.5,-105.0,2020-10-22 20:22
+2020-10-24,21:30 CDT,San Jose State,Air Force,1st Half,Air Force vs San Jose State | 1st Half Lines,Under,30.0,-105.0,2020-10-22 20:22
+2020-10-24,21:30 CDT,San Jose State,Air Force,Team To Score First,Air Force vs San Jose State | Team to Score First,Air Force,,-150.0,2020-10-22 20:22
+2020-10-24,21:30 CDT,San Jose State,Air Force,Team To Score First,Air Force vs San Jose State | Team to Score First,San Jose State,,120.0,2020-10-22 20:22
+2020-10-24,18:00 CDT,South Alabama,UL Monroe,1st Half,UL Monroe vs South Alabama | 1st Half Lines,Over,28.0,-110.0,2020-10-22 20:22
+2020-10-24,18:00 CDT,South Alabama,UL Monroe,1st Half,UL Monroe vs South Alabama | 1st Half Lines,South Alabama,,-500.0,2020-10-22 20:22
+2020-10-24,18:00 CDT,South Alabama,UL Monroe,1st Half,UL Monroe vs South Alabama | 1st Half Lines,South Alabama,-7.5,-110.0,2020-10-22 20:22
+2020-10-24,18:00 CDT,South Alabama,UL Monroe,1st Half,UL Monroe vs South Alabama | 1st Half Lines,UL Monroe,,350.0,2020-10-22 20:22
+2020-10-24,18:00 CDT,South Alabama,UL Monroe,1st Half,UL Monroe vs South Alabama | 1st Half Lines,UL Monroe,7.5,-110.0,2020-10-22 20:22
+2020-10-24,18:00 CDT,South Alabama,UL Monroe,1st Half,UL Monroe vs South Alabama | 1st Half Lines,Under,28.0,-110.0,2020-10-22 20:22
+2020-10-24,18:00 CDT,South Alabama,UL Monroe,Team To Score First,UL Monroe vs South Alabama | Team to Score First,South Alabama,,-190.0,2020-10-22 20:22
+2020-10-24,18:00 CDT,South Alabama,UL Monroe,Team To Score First,UL Monroe vs South Alabama | Team to Score First,UL Monroe,,160.0,2020-10-22 20:22
+2020-10-24,11:00 CDT,TCU,Oklahoma,1st Half,Oklahoma vs TCU | 1st Half Lines,Oklahoma,,-185.0,2020-10-22 20:22
+2020-10-24,11:00 CDT,TCU,Oklahoma,1st Half,Oklahoma vs TCU | 1st Half Lines,Oklahoma,-3.5,-110.0,2020-10-22 20:22
+2020-10-24,11:00 CDT,TCU,Oklahoma,1st Half,Oklahoma vs TCU | 1st Half Lines,Over,29.5,-110.0,2020-10-22 20:22
+2020-10-24,11:00 CDT,TCU,Oklahoma,1st Half,Oklahoma vs TCU | 1st Half Lines,TCU,,165.0,2020-10-22 20:22
+2020-10-24,11:00 CDT,TCU,Oklahoma,1st Half,Oklahoma vs TCU | 1st Half Lines,TCU,3.5,-110.0,2020-10-22 20:22
+2020-10-24,11:00 CDT,TCU,Oklahoma,1st Half,Oklahoma vs TCU | 1st Half Lines,Under,29.5,-110.0,2020-10-22 20:22
+2020-10-24,11:00 CDT,TCU,Oklahoma,Team To Score First,Oklahoma vs TCU | Team to Score First,Oklahoma,,-140.0,2020-10-22 20:22
+2020-10-24,11:00 CDT,TCU,Oklahoma,Team To Score First,Oklahoma vs TCU | Team to Score First,TCU,,110.0,2020-10-22 20:22
+2020-10-24,14:30 CDT,Tennessee U,Alabama,1st Half,Alabama vs Tennessee U | 1st Half Lines,Alabama,,-800.0,2020-10-22 20:22
+2020-10-24,14:30 CDT,Tennessee U,Alabama,1st Half,Alabama vs Tennessee U | 1st Half Lines,Alabama,-11.5,-110.0,2020-10-22 20:22
+2020-10-24,14:30 CDT,Tennessee U,Alabama,1st Half,Alabama vs Tennessee U | 1st Half Lines,Over,34.0,-110.0,2020-10-22 20:22
+2020-10-24,14:30 CDT,Tennessee U,Alabama,1st Half,Alabama vs Tennessee U | 1st Half Lines,Tennessee U,,500.0,2020-10-22 20:22
+2020-10-24,14:30 CDT,Tennessee U,Alabama,1st Half,Alabama vs Tennessee U | 1st Half Lines,Tennessee U,11.5,-110.0,2020-10-22 20:22
+2020-10-24,14:30 CDT,Tennessee U,Alabama,1st Half,Alabama vs Tennessee U | 1st Half Lines,Under,34.0,-110.0,2020-10-22 20:22
+2020-10-24,14:30 CDT,Texas,Baylor,1st Half,Baylor vs Texas | 1st Half Lines,Baylor,,220.0,2020-10-22 20:22
+2020-10-24,14:30 CDT,Texas,Baylor,1st Half,Baylor vs Texas | 1st Half Lines,Baylor,5.5,-110.0,2020-10-22 20:22
+2020-10-24,14:30 CDT,Texas,Baylor,1st Half,Baylor vs Texas | 1st Half Lines,Over,30.5,-110.0,2020-10-22 20:22
+2020-10-24,14:30 CDT,Texas,Baylor,1st Half,Baylor vs Texas | 1st Half Lines,Texas,,-270.0,2020-10-22 20:22
+2020-10-24,14:30 CDT,Texas,Baylor,1st Half,Baylor vs Texas | 1st Half Lines,Texas,-5.5,-110.0,2020-10-22 20:22
+2020-10-24,14:30 CDT,Texas,Baylor,1st Half,Baylor vs Texas | 1st Half Lines,Under,30.5,-110.0,2020-10-22 20:22
+2020-10-24,14:30 CDT,Texas,Baylor,Team To Score First,Baylor vs Texas | Team to Score First,Baylor,,135.0,2020-10-22 20:22
+2020-10-24,14:30 CDT,Texas,Baylor,Team To Score First,Baylor vs Texas | Team to Score First,Texas,,-165.0,2020-10-22 20:22
+2020-10-24,16:30 CDT,Texas Tech,West Virginia,1st Half,West Virginia vs Texas Tech | 1st Half Lines,Over,27.5,100.0,2020-10-22 20:22
+2020-10-24,16:30 CDT,Texas Tech,West Virginia,1st Half,West Virginia vs Texas Tech | 1st Half Lines,Texas Tech,,120.0,2020-10-22 20:22
+2020-10-24,16:30 CDT,Texas Tech,West Virginia,1st Half,West Virginia vs Texas Tech | 1st Half Lines,Texas Tech,2.5,-110.0,2020-10-22 20:22
+2020-10-24,16:30 CDT,Texas Tech,West Virginia,1st Half,West Virginia vs Texas Tech | 1st Half Lines,Under,27.5,-120.0,2020-10-22 20:22
+2020-10-24,16:30 CDT,Texas Tech,West Virginia,1st Half,West Virginia vs Texas Tech | 1st Half Lines,West Virginia,,-140.0,2020-10-22 20:22
+2020-10-24,16:30 CDT,Texas Tech,West Virginia,1st Half,West Virginia vs Texas Tech | 1st Half Lines,West Virginia,-2.5,-110.0,2020-10-22 20:22
+2020-10-24,16:30 CDT,Texas Tech,West Virginia,Team To Score First,West Virginia vs Texas Tech | Team to Score First,Texas Tech,,100.0,2020-10-22 20:22
+2020-10-24,16:30 CDT,Texas Tech,West Virginia,Team To Score First,West Virginia vs Texas Tech | Team to Score First,West Virginia,,-130.0,2020-10-22 20:22
+2020-10-24,15:00 CDT,Troy,Georgia State,1st Half,Georgia State vs Troy | 1st Half Lines,Georgia State,,110.0,2020-10-22 20:22
+2020-10-24,15:00 CDT,Troy,Georgia State,1st Half,Georgia State vs Troy | 1st Half Lines,Georgia State,2.0,-110.0,2020-10-22 20:22
+2020-10-24,15:00 CDT,Troy,Georgia State,1st Half,Georgia State vs Troy | 1st Half Lines,Over,34.0,-110.0,2020-10-22 20:22
+2020-10-24,15:00 CDT,Troy,Georgia State,1st Half,Georgia State vs Troy | 1st Half Lines,Troy,,-130.0,2020-10-22 20:22
+2020-10-24,15:00 CDT,Troy,Georgia State,1st Half,Georgia State vs Troy | 1st Half Lines,Troy,-2.0,-110.0,2020-10-22 20:22
+2020-10-24,15:00 CDT,Troy,Georgia State,1st Half,Georgia State vs Troy | 1st Half Lines,Under,34.0,-110.0,2020-10-22 20:22
+2020-10-24,15:00 CDT,Troy,Georgia State,Team To Score First,Georgia State vs Troy | Team to Score First,Georgia State,,-110.0,2020-10-22 20:22
+2020-10-24,15:00 CDT,Troy,Georgia State,Team To Score First,Georgia State vs Troy | Team to Score First,Troy,,-120.0,2020-10-22 20:22
+2020-10-24,19:00 CDT,UTSA,Louisiana Tech,1st Half,Louisiana Tech vs UTSA | 1st Half Lines,Louisiana Tech,,-125.0,2020-10-22 20:22
+2020-10-24,19:00 CDT,UTSA,Louisiana Tech,1st Half,Louisiana Tech vs UTSA | 1st Half Lines,Louisiana Tech,-1.0,-110.0,2020-10-22 20:22
+2020-10-24,19:00 CDT,UTSA,Louisiana Tech,1st Half,Louisiana Tech vs UTSA | 1st Half Lines,Over,26.0,-110.0,2020-10-22 20:22
+2020-10-24,19:00 CDT,UTSA,Louisiana Tech,1st Half,Louisiana Tech vs UTSA | 1st Half Lines,UTSA,,105.0,2020-10-22 20:22
+2020-10-24,19:00 CDT,UTSA,Louisiana Tech,1st Half,Louisiana Tech vs UTSA | 1st Half Lines,UTSA,1.0,-110.0,2020-10-22 20:22
+2020-10-24,19:00 CDT,UTSA,Louisiana Tech,1st Half,Louisiana Tech vs UTSA | 1st Half Lines,Under,26.0,-110.0,2020-10-22 20:22
+2020-10-24,19:00 CDT,UTSA,Louisiana Tech,Team To Score First,Louisiana Tech vs UTSA | Team to Score First,Louisiana Tech,,-115.0,2020-10-22 20:22
+2020-10-24,19:00 CDT,UTSA,Louisiana Tech,Team To Score First,Louisiana Tech vs UTSA | Team to Score First,UTSA,,-115.0,2020-10-22 20:22
+2020-10-24,14:30 CDT,Wake Forest,Virginia Tech,1st Half,Virginia Tech vs Wake Forest | 1st Half Lines,Over,34.5,-110.0,2020-10-22 20:22
+2020-10-24,14:30 CDT,Wake Forest,Virginia Tech,1st Half,Virginia Tech vs Wake Forest | 1st Half Lines,Under,34.5,-110.0,2020-10-22 20:22
+2020-10-24,14:30 CDT,Wake Forest,Virginia Tech,1st Half,Virginia Tech vs Wake Forest | 1st Half Lines,Virginia Tech,,-270.0,2020-10-22 20:22
+2020-10-24,14:30 CDT,Wake Forest,Virginia Tech,1st Half,Virginia Tech vs Wake Forest | 1st Half Lines,Virginia Tech,-5.5,-110.0,2020-10-22 20:22
+2020-10-24,14:30 CDT,Wake Forest,Virginia Tech,1st Half,Virginia Tech vs Wake Forest | 1st Half Lines,Wake Forest,,230.0,2020-10-22 20:22
+2020-10-24,14:30 CDT,Wake Forest,Virginia Tech,1st Half,Virginia Tech vs Wake Forest | 1st Half Lines,Wake Forest,5.5,-110.0,2020-10-22 20:22
+2020-10-24,14:30 CDT,Wake Forest,Virginia Tech,Team To Score First,Virginia Tech vs Wake Forest | Team to Score First,Virginia Tech,,-160.0,2020-10-22 20:22
+2020-10-24,14:30 CDT,Wake Forest,Virginia Tech,Team To Score First,Virginia Tech vs Wake Forest | Team to Score First,Wake Forest,,130.0,2020-10-22 20:22
+2020-10-23,19:00 CDT,Any Other,Touchdown,First Scoring Play,Illinois vs Wisconsin | First Scoring Play,Any Other,,210.0,2020-10-22 20:23
+2020-10-23,19:00 CDT,Any Other,Touchdown,First Scoring Play,Illinois vs Wisconsin | First Scoring Play,Touchdown,,-260.0,2020-10-22 20:23
+2020-10-23,18:30 CDT,Any Other,Touchdown,First Scoring Play,Tulsa vs South Florida | First Scoring Play,Any Other,,180.0,2020-10-22 20:23
+2020-10-23,18:30 CDT,Any Other,Touchdown,First Scoring Play,Tulsa vs South Florida | First Scoring Play,Touchdown,,-225.0,2020-10-22 20:23
+2020-10-23,19:00 CDT,Any Other,Touchdown,First Scoring Play,UL Lafayette vs UAB | First Scoring Play,Any Other,,200.0,2020-10-22 20:23
+2020-10-23,19:00 CDT,Any Other,Touchdown,First Scoring Play,UL Lafayette vs UAB | First Scoring Play,Touchdown,,-250.0,2020-10-22 20:23
+2020-10-24,21:30 CDT,Any Other,Touchdown,First Scoring Play,Air Force vs San Jose State | First Scoring Play,Any Other,,200.0,2020-10-22 20:23
+2020-10-24,21:30 CDT,Any Other,Touchdown,First Scoring Play,Air Force vs San Jose State | First Scoring Play,Touchdown,,-250.0,2020-10-22 20:23
+2020-10-24,14:30 CDT,Any Other,Touchdown,First Scoring Play,Alabama vs Tennessee U | First Scoring Play,Any Other,,270.0,2020-10-22 20:23
+2020-10-24,14:30 CDT,Any Other,Touchdown,First Scoring Play,Alabama vs Tennessee U | First Scoring Play,Touchdown,,-340.0,2020-10-22 20:23
+2020-10-24,11:00 CDT,Any Other,Touchdown,First Scoring Play,Auburn vs Mississippi | First Scoring Play,Any Other,,280.0,2020-10-22 20:23
+2020-10-24,11:00 CDT,Any Other,Touchdown,First Scoring Play,Auburn vs Mississippi | First Scoring Play,Touchdown,,-360.0,2020-10-22 20:23
+2020-10-24,14:30 CDT,Any Other,Touchdown,First Scoring Play,Baylor vs Texas | First Scoring Play,Any Other,,255.0,2020-10-22 20:23
+2020-10-24,14:30 CDT,Any Other,Touchdown,First Scoring Play,Baylor vs Texas | First Scoring Play,Touchdown,,-325.0,2020-10-22 20:23
+2020-10-24,20:00 CDT,Any Other,Touchdown,First Scoring Play,Cincinnati vs SMU | First Scoring Play,Any Other,,235.0,2020-10-22 20:23
+2020-10-24,20:00 CDT,Any Other,Touchdown,First Scoring Play,Cincinnati vs SMU | First Scoring Play,Touchdown,,-290.0,2020-10-22 20:23
+2020-10-24,11:00 CDT,Any Other,Touchdown,First Scoring Play,Florida State vs Louisville | First Scoring Play,Any Other,,210.0,2020-10-22 20:23
+2020-10-24,11:00 CDT,Any Other,Touchdown,First Scoring Play,Florida State vs Louisville | First Scoring Play,Touchdown,,-260.0,2020-10-22 20:23
+2020-10-24,11:00 CDT,Any Other,Touchdown,First Scoring Play,Georgia Southern vs Coastal Carolina | First Scoring Play,Any Other,,240.0,2020-10-22 20:23
+2020-10-24,11:00 CDT,Any Other,Touchdown,First Scoring Play,Georgia Southern vs Coastal Carolina | First Scoring Play,Touchdown,,-300.0,2020-10-22 20:23
+2020-10-24,15:00 CDT,Any Other,Touchdown,First Scoring Play,Georgia Tech vs Boston College | First Scoring Play,Any Other,,190.0,2020-10-22 20:23
+2020-10-24,15:00 CDT,Any Other,Touchdown,First Scoring Play,Georgia Tech vs Boston College | First Scoring Play,Touchdown,,-240.0,2020-10-22 20:23
+2020-10-24,18:30 CDT,Any Other,Touchdown,First Scoring Play,Hawaii vs Fresno State | First Scoring Play,Any Other,,280.0,2020-10-22 20:23
+2020-10-24,18:30 CDT,Any Other,Touchdown,First Scoring Play,Hawaii vs Fresno State | First Scoring Play,Touchdown,,-360.0,2020-10-22 20:23
+2020-10-24,14:30 CDT,Any Other,Touchdown,First Scoring Play,Houston vs Navy | First Scoring Play,Any Other,,145.0,2020-10-22 20:23
+2020-10-24,14:30 CDT,Any Other,Touchdown,First Scoring Play,Houston vs Navy | First Scoring Play,Touchdown,,-175.0,2020-10-22 20:23
+2020-10-24,14:30 CDT,Any Other,Touchdown,First Scoring Play,Iowa State vs Oklahoma State | First Scoring Play,Any Other,,150.0,2020-10-22 20:23
+2020-10-24,14:30 CDT,Any Other,Touchdown,First Scoring Play,Iowa State vs Oklahoma State | First Scoring Play,Touchdown,,-180.0,2020-10-22 20:23
+2020-10-24,14:30 CDT,Any Other,Touchdown,First Scoring Play,Iowa vs Purdue | First Scoring Play,Any Other,,145.0,2020-10-22 20:23
+2020-10-24,14:30 CDT,Any Other,Touchdown,First Scoring Play,Iowa vs Purdue | First Scoring Play,Touchdown,,-175.0,2020-10-22 20:23
+2020-10-24,11:00 CDT,Any Other,Touchdown,First Scoring Play,Kansas vs Kansas State | First Scoring Play,Any Other,,200.0,2020-10-22 20:23
+2020-10-24,11:00 CDT,Any Other,Touchdown,First Scoring Play,Kansas vs Kansas State | First Scoring Play,Touchdown,,-250.0,2020-10-22 20:23
+2020-10-24,15:00 CDT,Any Other,Touchdown,First Scoring Play,Kentucky vs Missouri | First Scoring Play,Any Other,,155.0,2020-10-22 20:23
+2020-10-24,15:00 CDT,Any Other,Touchdown,First Scoring Play,Kentucky vs Missouri | First Scoring Play,Touchdown,,-185.0,2020-10-22 20:23
+2020-10-24,19:00 CDT,Any Other,Touchdown,First Scoring Play,Louisiana Tech vs UTSA | First Scoring Play,Any Other,,220.0,2020-10-22 20:23
+2020-10-24,19:00 CDT,Any Other,Touchdown,First Scoring Play,Louisiana Tech vs UTSA | First Scoring Play,Touchdown,,-270.0,2020-10-22 20:23
+2020-10-24,18:30 CDT,Any Other,Touchdown,First Scoring Play,Maryland vs Northwestern | First Scoring Play,Any Other,,160.0,2020-10-22 20:23
+2020-10-24,18:30 CDT,Any Other,Touchdown,First Scoring Play,Maryland vs Northwestern | First Scoring Play,Touchdown,,-190.0,2020-10-22 20:23
+2020-10-24,18:30 CDT,Any Other,Touchdown,First Scoring Play,Michigan vs Minnesota U | First Scoring Play,Any Other,,230.0,2020-10-22 20:23
+2020-10-24,18:30 CDT,Any Other,Touchdown,First Scoring Play,Michigan vs Minnesota U | First Scoring Play,Touchdown,,-280.0,2020-10-22 20:23
+2020-10-24,11:00 CDT,Any Other,Touchdown,First Scoring Play,NC State vs North Carolina | First Scoring Play,Any Other,,215.0,2020-10-22 20:23
+2020-10-24,11:00 CDT,Any Other,Touchdown,First Scoring Play,NC State vs North Carolina | First Scoring Play,Touchdown,,-265.0,2020-10-22 20:23
+2020-10-24,11:00 CDT,Any Other,Touchdown,First Scoring Play,Nebraska vs Ohio State | First Scoring Play,Any Other,,295.0,2020-10-22 20:23
+2020-10-24,11:00 CDT,Any Other,Touchdown,First Scoring Play,Nebraska vs Ohio State | First Scoring Play,Touchdown,,-385.0,2020-10-22 20:23
+2020-10-24,14:30 CDT,Any Other,Touchdown,First Scoring Play,Notre Dame vs Pittsburgh U | First Scoring Play,Any Other,,165.0,2020-10-22 20:23
+2020-10-24,14:30 CDT,Any Other,Touchdown,First Scoring Play,Notre Dame vs Pittsburgh U | First Scoring Play,Touchdown,,-200.0,2020-10-22 20:23
+2020-10-24,11:00 CDT,Any Other,Touchdown,First Scoring Play,Oklahoma vs TCU | First Scoring Play,Any Other,,185.0,2020-10-22 20:23
+2020-10-24,11:00 CDT,Any Other,Touchdown,First Scoring Play,Oklahoma vs TCU | First Scoring Play,Touchdown,,-230.0,2020-10-22 20:23
+2020-10-24,14:30 CDT,Any Other,Touchdown,First Scoring Play,Penn State vs Indiana | First Scoring Play,Any Other,,225.0,2020-10-22 20:23
+2020-10-24,14:30 CDT,Any Other,Touchdown,First Scoring Play,Penn State vs Indiana | First Scoring Play,Touchdown,,-275.0,2020-10-22 20:23
+2020-10-24,18:00 CDT,Any Other,Touchdown,First Scoring Play,South Carolina vs LSU | First Scoring Play,Any Other,,145.0,2020-10-22 20:23
+2020-10-24,18:00 CDT,Any Other,Touchdown,First Scoring Play,South Carolina vs LSU | First Scoring Play,Touchdown,,-175.0,2020-10-22 20:23
+2020-10-24,11:00 CDT,Any Other,Touchdown,First Scoring Play,Syracuse vs Clemson | First Scoring Play,Any Other,,245.0,2020-10-22 20:23
+2020-10-24,11:00 CDT,Any Other,Touchdown,First Scoring Play,Syracuse vs Clemson | First Scoring Play,Touchdown,,-310.0,2020-10-22 20:23
+2020-10-24,21:15 CDT,Any Other,Touchdown,First Scoring Play,Texas State vs BYU | First Scoring Play,Any Other,,250.0,2020-10-22 20:23
+2020-10-24,21:15 CDT,Any Other,Touchdown,First Scoring Play,Texas State vs BYU | First Scoring Play,Touchdown,,-320.0,2020-10-22 20:23
+2020-10-24,18:00 CDT,Any Other,Touchdown,First Scoring Play,UL Monroe vs South Alabama | First Scoring Play,Any Other,,240.0,2020-10-22 20:23
+2020-10-24,18:00 CDT,Any Other,Touchdown,First Scoring Play,UL Monroe vs South Alabama | First Scoring Play,Touchdown,,-300.0,2020-10-22 20:23
+2020-10-24,21:30 CDT,Any Other,Touchdown,First Scoring Play,UNLV vs San Diego State | First Scoring Play,Any Other,,125.0,2020-10-22 20:23
+2020-10-24,21:30 CDT,Any Other,Touchdown,First Scoring Play,UNLV vs San Diego State | First Scoring Play,Touchdown,,-155.0,2020-10-22 20:23
+2020-10-24,11:00 CDT,Any Other,Touchdown,First Scoring Play,UTEP vs Charlotte | First Scoring Play,Any Other,,125.0,2020-10-22 20:23
+2020-10-24,11:00 CDT,Any Other,Touchdown,First Scoring Play,UTEP vs Charlotte | First Scoring Play,Touchdown,,-155.0,2020-10-22 20:23
+2020-10-24,18:00 CDT,Any Other,Touchdown,First Scoring Play,Utah State vs Boise State | First Scoring Play,Any Other,,190.0,2020-10-22 20:23
+2020-10-24,18:00 CDT,Any Other,Touchdown,First Scoring Play,Utah State vs Boise State | First Scoring Play,Touchdown,,-240.0,2020-10-22 20:23
+2020-10-24,14:30 CDT,Any Other,Touchdown,First Scoring Play,Virginia Tech vs Wake Forest | First Scoring Play,Any Other,,230.0,2020-10-22 20:23
+2020-10-24,14:30 CDT,Any Other,Touchdown,First Scoring Play,Virginia Tech vs Wake Forest | First Scoring Play,Touchdown,,-280.0,2020-10-22 20:23
+2020-10-24,19:00 CDT,Any Other,Touchdown,First Scoring Play,Virginia vs Miami Florida | First Scoring Play,Any Other,,190.0,2020-10-22 20:23
+2020-10-24,19:00 CDT,Any Other,Touchdown,First Scoring Play,Virginia vs Miami Florida | First Scoring Play,Touchdown,,-240.0,2020-10-22 20:23
+2020-10-24,18:00 CDT,Any Other,Touchdown,First Scoring Play,Wyoming vs Nevada | First Scoring Play,Any Other,,140.0,2020-10-22 20:23
+2020-10-24,18:00 CDT,Any Other,Touchdown,First Scoring Play,Wyoming vs Nevada | First Scoring Play,Touchdown,,-170.0,2020-10-22 20:23
+2020-10-24,10:00 CDT,Purdue,Iowa,Iowa Season Long,IOWA GAME 1 - Iowa at Purdue,Iowa,-3.5,-110.0,2020-10-22 20:23
+2020-10-24,10:00 CDT,Purdue,Iowa,Iowa Season Long,IOWA GAME 1 - Iowa at Purdue,Purdue,3.5,-110.0,2020-10-22 20:23
+2020-11-07,10:00 CST,Iowa,Michigan St,Iowa Season Long,IOWA GAME 3 - Michigan St at Iowa,Iowa,-5.0,-110.0,2020-10-22 20:23
+2020-11-07,10:00 CST,Iowa,Michigan St,Iowa Season Long,IOWA GAME 3 - Michigan St at Iowa,Michigan St,5.0,-110.0,2020-10-22 20:23

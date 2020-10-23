@@ -4,7 +4,7 @@
 # File Created: Saturday, 17th October 2020 8:05:47 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Thursday, 22nd October 2020 7:59:57 pm
+# Last Modified: Thursday, 22nd October 2020 8:18:57 pm
 # Modified By: Dillon Koch
 # -----
 # Collins Aerospace
@@ -451,6 +451,7 @@ class ESB_Parser:
         drop_cols = [col for col in list(df.columns) if col in all_drop_cols]
         # odds_cols = [col for col in list(df.columns) if col != "scraped_ts"]
         full_df = merge_odds_dfs(existing_df, df, drop_cols)
+        full_df = self._sort_df(full_df)
         full_df.to_csv(df_path, index=None)
         return full_df
 
