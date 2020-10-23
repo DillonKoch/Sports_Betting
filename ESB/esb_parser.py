@@ -4,7 +4,7 @@
 # File Created: Saturday, 17th October 2020 8:05:47 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Thursday, 22nd October 2020 8:18:57 pm
+# Last Modified: Thursday, 22nd October 2020 8:38:21 pm
 # Modified By: Dillon Koch
 # -----
 # Collins Aerospace
@@ -309,14 +309,16 @@ class ESB_Parser:
         gt = self._game_time(date_event)
         desc = self._description(date_event)
         home, away, tie = self._teams(date_event)
+        print(home, away, tie)
         home_ml, away_ml, tie_ml = self._moneylines(date_event)
+        print(home_ml, away_ml, tie_ml)
         home_spread, home_spread_ml, away_spread, away_spread_ml, tie_spread, tie_spread_ml = self._spreads(date_event)
         over, over_ml, under, under_ml, tie, tie_ml = self._totals(date_event)
 
         # add home/away ML
         home_ml_row = [date, gt, home, away, title, desc, home, None, home_ml, scraped_ts]
         away_ml_row = [date, gt, home, away, title, desc, away, None, away_ml, scraped_ts]
-        tie_ml_row = [date, gt, home, away, title, desc, away, None, tie_ml, scraped_ts]
+        tie_ml_row = [date, gt, home, away, title, desc, tie, None, tie_ml, scraped_ts]
 
         # add home/away spread
         home_spread_row = [date, gt, home, away, title, desc, home, home_spread, home_spread_ml, scraped_ts]
@@ -453,7 +455,9 @@ class ESB_Parser:
         full_df = merge_odds_dfs(existing_df, df, drop_cols)
         full_df = self._sort_df(full_df)
         full_df.to_csv(df_path, index=None)
-        return full_df
+
+        num_new_rows = len(full_df) - len(existing_df)
+        return full_df, num_new_rows
 
     def run(self, sp, league):  # Run
         main = sp.find_all('div', attrs={'id': 'main-content'})[0]
@@ -467,9 +471,9 @@ class ESB_Parser:
         elif bet_type == 'Futures':
             df = self.scrape_futures(sp)
 
-        full_df = self.add_new_df(df, bet_type, league)
+        full_df, num_new_rows = self.add_new_df(df, bet_type, league)
         print("Data saved!")
-        return full_df
+        return f"{num_new_rows} new bets scraped"
 
 
 if __name__ == '__main__':

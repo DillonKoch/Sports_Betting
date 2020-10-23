@@ -785,3 +785,945 @@ datetime,Game_Time,Home,Away,Title,Description,Bet,Spread/overunder,Odds,scraped
 2020-10-24,10:00 CDT,Purdue,Iowa,Iowa Season Long,IOWA GAME 1 - Iowa at Purdue,Purdue,3.5,-110.0,2020-10-22 20:23
 2020-11-07,10:00 CST,Iowa,Michigan St,Iowa Season Long,IOWA GAME 3 - Michigan St at Iowa,Iowa,-5.0,-110.0,2020-10-22 20:23
 2020-11-07,10:00 CST,Iowa,Michigan St,Iowa Season Long,IOWA GAME 3 - Michigan St at Iowa,Michigan St,5.0,-110.0,2020-10-22 20:23
+2020-10-23,18:30 CDT,South Florida,Tulsa,1st Half,Tulsa vs South Florida | 1st Half Lines,South Florida,,240.0,2020-10-23 07:15
+2020-10-23,18:30 CDT,South Florida,Tulsa,1st Half,Tulsa vs South Florida | 1st Half Lines,Tulsa,,-300.0,2020-10-23 07:15
+2020-10-23,19:00 CDT,UAB,UL Lafayette,1st Half,UL Lafayette vs UAB | 1st Half Lines,UAB,,120.0,2020-10-23 07:15
+2020-10-23,19:00 CDT,UAB,UL Lafayette,1st Half,UL Lafayette vs UAB | 1st Half Lines,UAB,1.5,-110.0,2020-10-23 07:15
+2020-10-23,19:00 CDT,UAB,UL Lafayette,1st Half,UL Lafayette vs UAB | 1st Half Lines,UL Lafayette,,-140.0,2020-10-23 07:15
+2020-10-23,19:00 CDT,UAB,UL Lafayette,1st Half,UL Lafayette vs UAB | 1st Half Lines,UL Lafayette,-1.5,-110.0,2020-10-23 07:15
+2020-10-23,19:00 CDT,Wisconsin,Illinois,1st Half,Illinois vs Wisconsin | 1st Half Lines,Illinois,,500.0,2020-10-23 07:15
+2020-10-23,19:00 CDT,Wisconsin,Illinois,1st Half,Illinois vs Wisconsin | 1st Half Lines,Wisconsin,,-750.0,2020-10-23 07:15
+2020-10-24,18:00 CDT,Boise State,Utah State,1st Half,Utah State vs Boise State | 1st Half Lines,Boise State,,-550.0,2020-10-23 07:15
+2020-10-24,18:00 CDT,Boise State,Utah State,1st Half,Utah State vs Boise State | 1st Half Lines,Utah State,,400.0,2020-10-23 07:15
+2020-10-24,15:00 CDT,Boston College,Georgia Tech,1st Half,Georgia Tech vs Boston College | 1st Half Lines,Boston College,,-145.0,2020-10-23 07:15
+2020-10-24,15:00 CDT,Boston College,Georgia Tech,1st Half,Georgia Tech vs Boston College | 1st Half Lines,Georgia Tech,,125.0,2020-10-23 07:15
+2020-10-24,13:00 CDT,Central Florida,Tulane,1st Half,Tulane vs Central Florida | 1st Half Lines,Central Florida,,-600.0,2020-10-23 07:15
+2020-10-24,13:00 CDT,Central Florida,Tulane,1st Half,Tulane vs Central Florida | 1st Half Lines,Tulane,,425.0,2020-10-23 07:15
+2020-10-24,11:00 CDT,Charlotte,UTEP,1st Half,UTEP vs Charlotte | 1st Half Lines,Charlotte,,-500.0,2020-10-23 07:15
+2020-10-24,11:00 CDT,Charlotte,UTEP,1st Half,UTEP vs Charlotte | 1st Half Lines,UTEP,,350.0,2020-10-23 07:15
+2020-10-24,11:00 CDT,Coastal Carolina,Georgia Southern,1st Half,Georgia Southern vs Coastal Carolina | 1st Half Lines,Coastal Carolina,,-200.0,2020-10-23 07:15
+2020-10-24,11:00 CDT,Coastal Carolina,Georgia Southern,1st Half,Georgia Southern vs Coastal Carolina | 1st Half Lines,Georgia Southern,,170.0,2020-10-23 07:15
+2020-10-24,18:30 CDT,Fresno State,Hawaii,1st Half,Hawaii vs Fresno State | 1st Half Lines,Fresno State,,-155.0,2020-10-23 07:15
+2020-10-24,18:30 CDT,Fresno State,Hawaii,1st Half,Hawaii vs Fresno State | 1st Half Lines,Hawaii,,135.0,2020-10-23 07:15
+2020-10-24,14:30 CDT,Indiana,Penn State,1st Half,Penn State vs Indiana | 1st Half Lines,Indiana,,165.0,2020-10-23 07:15
+2020-10-24,14:30 CDT,Indiana,Penn State,1st Half,Penn State vs Indiana | 1st Half Lines,Over,30.5,-110.0,2020-10-23 07:15
+2020-10-24,14:30 CDT,Indiana,Penn State,1st Half,Penn State vs Indiana | 1st Half Lines,Penn State,,-185.0,2020-10-23 07:15
+2020-10-24,14:30 CDT,Indiana,Penn State,1st Half,Penn State vs Indiana | 1st Half Lines,Under,30.5,-110.0,2020-10-23 07:15
+2020-10-24,11:00 CDT,Kansas State,Kansas,1st Half,Kansas vs Kansas State | 1st Half Lines,Kansas,,500.0,2020-10-23 07:15
+2020-10-24,11:00 CDT,Kansas State,Kansas,1st Half,Kansas vs Kansas State | 1st Half Lines,Kansas State,,-800.0,2020-10-23 07:15
+2020-10-24,18:00 CDT,LSU,South Carolina,1st Half,South Carolina vs LSU | 1st Half Lines,LSU,,-185.0,2020-10-23 07:15
+2020-10-24,18:00 CDT,LSU,South Carolina,1st Half,South Carolina vs LSU | 1st Half Lines,South Carolina,,165.0,2020-10-23 07:15
+2020-10-24,12:00 CDT,Liberty,Southern Miss,1st Half,Southern Miss vs Liberty | 1st Half Lines,Liberty,,-340.0,2020-10-23 07:15
+2020-10-24,12:00 CDT,Liberty,Southern Miss,1st Half,Southern Miss vs Liberty | 1st Half Lines,Southern Miss,,280.0,2020-10-23 07:15
+2020-10-24,11:00 CDT,Louisville,Florida State,1st Half,Florida State vs Louisville | 1st Half Lines,Florida State,,150.0,2020-10-23 07:15
+2020-10-24,11:00 CDT,Louisville,Florida State,1st Half,Florida State vs Louisville | 1st Half Lines,Louisville,,-170.0,2020-10-23 07:15
+2020-10-24,13:30 CDT,Marshall,Florida Atlantic,1st Half,Florida Atlantic vs Marshall | 1st Half Lines,Florida Atlantic,,400.0,2020-10-23 07:15
+2020-10-24,13:30 CDT,Marshall,Florida Atlantic,1st Half,Florida Atlantic vs Marshall | 1st Half Lines,Marshall,,-550.0,2020-10-23 07:15
+2020-10-24,11:00 CDT,Memphis,Temple,1st Half,Temple vs Memphis | 1st Half Lines,Memphis,,-380.0,2020-10-23 07:15
+2020-10-24,11:00 CDT,Memphis,Temple,1st Half,Temple vs Memphis | 1st Half Lines,Temple,,310.0,2020-10-23 07:15
+2020-10-24,19:00 CDT,Miami Florida,Virginia,1st Half,Virginia vs Miami Florida | 1st Half Lines,Miami Florida,,-350.0,2020-10-23 07:15
+2020-10-24,19:00 CDT,Miami Florida,Virginia,1st Half,Virginia vs Miami Florida | 1st Half Lines,Virginia,,280.0,2020-10-23 07:15
+2020-10-24,11:00 CDT,Michigan State,Rutgers,1st Half,Rutgers vs Michigan State | 1st Half Lines,Michigan State,,-380.0,2020-10-23 07:15
+2020-10-24,11:00 CDT,Michigan State,Rutgers,1st Half,Rutgers vs Michigan State | 1st Half Lines,Rutgers,,310.0,2020-10-23 07:15
+2020-10-24,18:30 CDT,Minnesota U,Michigan,1st Half,Michigan vs Minnesota U | 1st Half Lines,Michigan,,-135.0,2020-10-23 07:15
+2020-10-24,18:30 CDT,Minnesota U,Michigan,1st Half,Michigan vs Minnesota U | 1st Half Lines,Minnesota U,,115.0,2020-10-23 07:15
+2020-10-24,11:00 CDT,Mississippi,Auburn,1st Half,Auburn vs Mississippi | 1st Half Lines,Auburn,,-135.0,2020-10-23 07:15
+2020-10-24,11:00 CDT,Mississippi,Auburn,1st Half,Auburn vs Mississippi | 1st Half Lines,Mississippi,,115.0,2020-10-23 07:15
+2020-10-24,15:00 CDT,Missouri,Kentucky,1st Half,Kentucky vs Missouri | 1st Half Lines,Kentucky,,-170.0,2020-10-23 07:15
+2020-10-24,15:00 CDT,Missouri,Kentucky,1st Half,Kentucky vs Missouri | 1st Half Lines,Missouri,,150.0,2020-10-23 07:15
+2020-10-24,14:30 CDT,Navy,Houston,1st Half,Houston vs Navy | 1st Half Lines,Houston,,-400.0,2020-10-23 07:15
+2020-10-24,14:30 CDT,Navy,Houston,1st Half,Houston vs Navy | 1st Half Lines,Navy,,320.0,2020-10-23 07:15
+2020-10-24,18:00 CDT,Nevada,Wyoming,1st Half,Wyoming vs Nevada | 1st Half Lines,Nevada,,145.0,2020-10-23 07:15
+2020-10-24,18:00 CDT,Nevada,Wyoming,1st Half,Wyoming vs Nevada | 1st Half Lines,Wyoming,,-165.0,2020-10-23 07:15
+2020-10-24,11:00 CDT,North Carolina,NC State,1st Half,NC State vs North Carolina | 1st Half Lines,NC State,,350.0,2020-10-23 07:15
+2020-10-24,11:00 CDT,North Carolina,NC State,1st Half,NC State vs North Carolina | 1st Half Lines,North Carolina,,-475.0,2020-10-23 07:15
+2020-10-24,18:30 CDT,Northwestern,Maryland,1st Half,Maryland vs Northwestern | 1st Half Lines,Maryland,,270.0,2020-10-23 07:15
+2020-10-24,18:30 CDT,Northwestern,Maryland,1st Half,Maryland vs Northwestern | 1st Half Lines,Northwestern,,-330.0,2020-10-23 07:15
+2020-10-24,11:00 CDT,Ohio State,Nebraska,1st Half,Nebraska vs Ohio State | 1st Half Lines,Nebraska,,800.0,2020-10-23 07:15
+2020-10-24,11:00 CDT,Ohio State,Nebraska,1st Half,Nebraska vs Ohio State | 1st Half Lines,Ohio State,,-1400.0,2020-10-23 07:15
+2020-10-24,14:30 CDT,Oklahoma State,Iowa State,1st Half,Iowa State vs Oklahoma State | 1st Half Lines,Iowa State,,140.0,2020-10-23 07:15
+2020-10-24,14:30 CDT,Oklahoma State,Iowa State,1st Half,Iowa State vs Oklahoma State | 1st Half Lines,Iowa State,2.5,105.0,2020-10-23 07:15
+2020-10-24,14:30 CDT,Oklahoma State,Iowa State,1st Half,Iowa State vs Oklahoma State | 1st Half Lines,Oklahoma State,,-160.0,2020-10-23 07:15
+2020-10-24,14:30 CDT,Oklahoma State,Iowa State,1st Half,Iowa State vs Oklahoma State | 1st Half Lines,Oklahoma State,-2.5,-125.0,2020-10-23 07:15
+2020-10-24,14:30 CDT,Pittsburgh U,Notre Dame,1st Half,Notre Dame vs Pittsburgh U | 1st Half Lines,Notre Dame,,-300.0,2020-10-23 07:15
+2020-10-24,14:30 CDT,Pittsburgh U,Notre Dame,1st Half,Notre Dame vs Pittsburgh U | 1st Half Lines,Pittsburgh U,,240.0,2020-10-23 07:15
+2020-10-24,14:30 CDT,Purdue,Iowa,1st Half,Iowa vs Purdue | 1st Half Lines,Iowa,,-150.0,2020-10-23 07:15
+2020-10-24,14:30 CDT,Purdue,Iowa,1st Half,Iowa vs Purdue | 1st Half Lines,Purdue,,130.0,2020-10-23 07:15
+2020-10-24,14:30 CDT,Rice,Middle Tenn St,1st Half,Middle Tenn St vs Rice | 1st Half Lines,Middle Tenn St,,135.0,2020-10-23 07:15
+2020-10-24,14:30 CDT,Rice,Middle Tenn St,1st Half,Middle Tenn St vs Rice | 1st Half Lines,Rice,,-155.0,2020-10-23 07:15
+2020-10-24,20:00 CDT,SMU,Cincinnati,1st Half,Cincinnati vs SMU | 1st Half Lines,Cincinnati,,105.0,2020-10-23 07:15
+2020-10-24,20:00 CDT,SMU,Cincinnati,1st Half,Cincinnati vs SMU | 1st Half Lines,SMU,,-125.0,2020-10-23 07:15
+2020-10-24,21:30 CDT,San Diego State,UNLV,1st Half,UNLV vs San Diego State | 1st Half Lines,San Diego State,,-500.0,2020-10-23 07:15
+2020-10-24,21:30 CDT,San Diego State,UNLV,1st Half,UNLV vs San Diego State | 1st Half Lines,UNLV,,350.0,2020-10-23 07:15
+2020-10-24,21:30 CDT,San Jose State,Air Force,1st Half,Air Force vs San Jose State | 1st Half Lines,Air Force,,-210.0,2020-10-23 07:15
+2020-10-24,21:30 CDT,San Jose State,Air Force,1st Half,Air Force vs San Jose State | 1st Half Lines,San Jose State,,175.0,2020-10-23 07:15
+2020-10-24,18:00 CDT,South Alabama,UL Monroe,1st Half,UL Monroe vs South Alabama | 1st Half Lines,South Alabama,,-500.0,2020-10-23 07:15
+2020-10-24,18:00 CDT,South Alabama,UL Monroe,1st Half,UL Monroe vs South Alabama | 1st Half Lines,UL Monroe,,350.0,2020-10-23 07:15
+2020-10-24,11:00 CDT,TCU,Oklahoma,1st Half,Oklahoma vs TCU | 1st Half Lines,Oklahoma,,-185.0,2020-10-23 07:15
+2020-10-24,11:00 CDT,TCU,Oklahoma,1st Half,Oklahoma vs TCU | 1st Half Lines,TCU,,165.0,2020-10-23 07:15
+2020-10-24,14:30 CDT,Tennessee U,Alabama,1st Half,Alabama vs Tennessee U | 1st Half Lines,Alabama,,-800.0,2020-10-23 07:15
+2020-10-24,14:30 CDT,Tennessee U,Alabama,1st Half,Alabama vs Tennessee U | 1st Half Lines,Tennessee U,,500.0,2020-10-23 07:15
+2020-10-24,14:30 CDT,Texas,Baylor,1st Half,Baylor vs Texas | 1st Half Lines,Baylor,,220.0,2020-10-23 07:15
+2020-10-24,14:30 CDT,Texas,Baylor,1st Half,Baylor vs Texas | 1st Half Lines,Texas,,-270.0,2020-10-23 07:15
+2020-10-24,16:30 CDT,Texas Tech,West Virginia,1st Half,West Virginia vs Texas Tech | 1st Half Lines,Texas Tech,,120.0,2020-10-23 07:15
+2020-10-24,16:30 CDT,Texas Tech,West Virginia,1st Half,West Virginia vs Texas Tech | 1st Half Lines,West Virginia,,-140.0,2020-10-23 07:15
+2020-10-24,15:00 CDT,Troy,Georgia State,1st Half,Georgia State vs Troy | 1st Half Lines,Georgia State,,110.0,2020-10-23 07:15
+2020-10-24,15:00 CDT,Troy,Georgia State,1st Half,Georgia State vs Troy | 1st Half Lines,Troy,,-130.0,2020-10-23 07:15
+2020-10-24,19:00 CDT,UTSA,Louisiana Tech,1st Half,Louisiana Tech vs UTSA | 1st Half Lines,Louisiana Tech,,-125.0,2020-10-23 07:15
+2020-10-24,19:00 CDT,UTSA,Louisiana Tech,1st Half,Louisiana Tech vs UTSA | 1st Half Lines,UTSA,,105.0,2020-10-23 07:15
+2020-10-24,14:30 CDT,Wake Forest,Virginia Tech,1st Half,Virginia Tech vs Wake Forest | 1st Half Lines,Virginia Tech,,-270.0,2020-10-23 07:15
+2020-10-24,14:30 CDT,Wake Forest,Virginia Tech,1st Half,Virginia Tech vs Wake Forest | 1st Half Lines,Wake Forest,,230.0,2020-10-23 07:15
+2020-10-23,19:00 CDT,Under,Over,1st Half Team Totals,Illinois vs Wisconsin | Illinois 1st Half Points,Over,8.0,-110.0,2020-10-23 08:46
+2020-10-23,19:00 CDT,Under,Over,1st Half Team Totals,Illinois vs Wisconsin | Illinois 1st Half Points,Under,8.0,-110.0,2020-10-23 08:46
+2020-10-23,19:00 CDT,Under,Over,1st Half Team Totals,Illinois vs Wisconsin | Wisconsin 1st Half Points,Over,18.5,-110.0,2020-10-23 08:46
+2020-10-23,19:00 CDT,Under,Over,1st Half Team Totals,Illinois vs Wisconsin | Wisconsin 1st Half Points,Under,18.5,-110.0,2020-10-23 08:46
+2020-10-23,18:30 CDT,Under,Over,1st Half Team Totals,Tulsa vs South Florida | South Florida 1st Half Points,Over,9.0,-110.0,2020-10-23 08:46
+2020-10-23,18:30 CDT,Under,Over,1st Half Team Totals,Tulsa vs South Florida | South Florida 1st Half Points,Under,9.0,-110.0,2020-10-23 08:46
+2020-10-23,18:30 CDT,Under,Over,1st Half Team Totals,Tulsa vs South Florida | Tulsa 1st Half Points,Over,15.0,-110.0,2020-10-23 08:46
+2020-10-23,18:30 CDT,Under,Over,1st Half Team Totals,Tulsa vs South Florida | Tulsa 1st Half Points,Under,15.0,-110.0,2020-10-23 08:46
+2020-10-23,19:00 CDT,Under,Over,1st Half Team Totals,UL Lafayette vs UAB | UAB 1st Half Points,Over,11.5,-110.0,2020-10-23 08:46
+2020-10-23,19:00 CDT,Under,Over,1st Half Team Totals,UL Lafayette vs UAB | UAB 1st Half Points,Under,11.5,-110.0,2020-10-23 08:46
+2020-10-23,19:00 CDT,Under,Over,1st Half Team Totals,UL Lafayette vs UAB | UL Lafayette 1st Half Points,Over,13.0,-110.0,2020-10-23 08:46
+2020-10-23,19:00 CDT,Under,Over,1st Half Team Totals,UL Lafayette vs UAB | UL Lafayette 1st Half Points,Under,13.0,-110.0,2020-10-23 08:46
+2020-10-24,21:30 CDT,San Diego State,UNLV,Team To Score First,UNLV vs San Diego State | Team to Score First,San Diego State,,-225.0,2020-10-23 08:46
+2020-10-24,21:30 CDT,San Diego State,UNLV,Team To Score First,UNLV vs San Diego State | Team to Score First,UNLV,,175.0,2020-10-23 08:46
+2020-10-23,19:00 CDT,Under,Over,Team Totals,Illinois vs Wisconsin | Illinois Total Points,Over,16.0,-110.0,2020-10-23 09:10
+2020-10-23,19:00 CDT,Under,Over,Team Totals,Illinois vs Wisconsin | Illinois Total Points,Under,16.0,-110.0,2020-10-23 09:10
+2020-10-23,19:00 CDT,Under,Over,Team Totals,Illinois vs Wisconsin | Wisconsin Total Points,Over,35.0,-110.0,2020-10-23 09:10
+2020-10-23,19:00 CDT,Under,Over,Team Totals,Illinois vs Wisconsin | Wisconsin Total Points,Under,35.0,-110.0,2020-10-23 09:10
+2020-10-23,18:30 CDT,Under,Over,Team Totals,Tulsa vs South Florida | South Florida Total Points,Over,20.0,-110.0,2020-10-23 09:10
+2020-10-23,18:30 CDT,Under,Over,Team Totals,Tulsa vs South Florida | South Florida Total Points,Under,20.0,-110.0,2020-10-23 09:10
+2020-10-23,18:30 CDT,Under,Over,Team Totals,Tulsa vs South Florida | Tulsa Total Points,Over,30.5,-110.0,2020-10-23 09:10
+2020-10-23,18:30 CDT,Under,Over,Team Totals,Tulsa vs South Florida | Tulsa Total Points,Under,30.5,-110.0,2020-10-23 09:10
+2020-10-23,19:00 CDT,Under,Over,Team Totals,UL Lafayette vs UAB | UAB Total Points,Over,24.0,-110.0,2020-10-23 09:10
+2020-10-23,19:00 CDT,Under,Over,Team Totals,UL Lafayette vs UAB | UAB Total Points,Under,24.0,-110.0,2020-10-23 09:10
+2020-10-23,19:00 CDT,Under,Over,Team Totals,UL Lafayette vs UAB | UL Lafayette Total Points,Over,26.0,-110.0,2020-10-23 09:10
+2020-10-23,19:00 CDT,Under,Over,Team Totals,UL Lafayette vs UAB | UL Lafayette Total Points,Under,26.0,-110.0,2020-10-23 09:10
+2020-10-24,21:30 CDT,Under,Over,Team Totals,Air Force vs San Jose State | Air Force Total Points,Over,36.5,-110.0,2020-10-23 09:10
+2020-10-24,21:30 CDT,Under,Over,Team Totals,Air Force vs San Jose State | Air Force Total Points,Under,36.5,-110.0,2020-10-23 09:10
+2020-10-24,21:30 CDT,Under,Over,Team Totals,Air Force vs San Jose State | San Jose State Total Points,Over,27.0,-110.0,2020-10-23 09:10
+2020-10-24,21:30 CDT,Under,Over,Team Totals,Air Force vs San Jose State | San Jose State Total Points,Under,27.0,-110.0,2020-10-23 09:10
+2020-10-24,14:30 CDT,Under,Over,Team Totals,Alabama vs Tennessee U | Alabama Total Points,Over,43.5,-110.0,2020-10-23 09:10
+2020-10-24,14:30 CDT,Under,Over,Team Totals,Alabama vs Tennessee U | Alabama Total Points,Under,43.5,-110.0,2020-10-23 09:10
+2020-10-24,14:30 CDT,Under,Over,Team Totals,Alabama vs Tennessee U | Tennessee U Total Points,Over,22.5,-110.0,2020-10-23 09:10
+2020-10-24,14:30 CDT,Under,Over,Team Totals,Alabama vs Tennessee U | Tennessee U Total Points,Under,22.5,-110.0,2020-10-23 09:10
+2020-10-24,11:00 CDT,Under,Over,Team Totals,Auburn vs Mississippi | Auburn Total Points,Over,36.5,-110.0,2020-10-23 09:10
+2020-10-24,11:00 CDT,Under,Over,Team Totals,Auburn vs Mississippi | Auburn Total Points,Under,36.5,-110.0,2020-10-23 09:10
+2020-10-24,11:00 CDT,Under,Over,Team Totals,Auburn vs Mississippi | Mississippi Total Points,Over,33.5,-110.0,2020-10-23 09:10
+2020-10-24,11:00 CDT,Under,Over,Team Totals,Auburn vs Mississippi | Mississippi Total Points,Under,33.5,-110.0,2020-10-23 09:10
+2020-10-24,14:30 CDT,Under,Over,Team Totals,Baylor vs Texas | Baylor Total Points,Over,26.0,-110.0,2020-10-23 09:10
+2020-10-24,14:30 CDT,Under,Over,Team Totals,Baylor vs Texas | Baylor Total Points,Under,26.0,-110.0,2020-10-23 09:10
+2020-10-24,14:30 CDT,Under,Over,Team Totals,Baylor vs Texas | Texas Total Points,Over,35.0,-110.0,2020-10-23 09:10
+2020-10-24,14:30 CDT,Under,Over,Team Totals,Baylor vs Texas | Texas Total Points,Under,35.0,-110.0,2020-10-23 09:10
+2020-10-24,20:00 CDT,Under,Over,Team Totals,Cincinnati vs SMU | Cincinnati Total Points,Over,27.5,-115.0,2020-10-23 09:10
+2020-10-24,20:00 CDT,Under,Over,Team Totals,Cincinnati vs SMU | Cincinnati Total Points,Under,27.5,-105.0,2020-10-23 09:10
+2020-10-24,20:00 CDT,Under,Over,Team Totals,Cincinnati vs SMU | SMU Total Points,Over,28.5,-105.0,2020-10-23 09:10
+2020-10-24,20:00 CDT,Under,Over,Team Totals,Cincinnati vs SMU | SMU Total Points,Under,28.5,-115.0,2020-10-23 09:10
+2020-10-24,13:30 CDT,Under,Over,Team Totals,Florida Atlantic vs Marshall | Florida Atlantic Total Points,Over,17.0,-110.0,2020-10-23 09:10
+2020-10-24,13:30 CDT,Under,Over,Team Totals,Florida Atlantic vs Marshall | Florida Atlantic Total Points,Under,17.0,-110.0,2020-10-23 09:10
+2020-10-24,13:30 CDT,Under,Over,Team Totals,Florida Atlantic vs Marshall | Marshall Total Points,Over,34.0,-110.0,2020-10-23 09:10
+2020-10-24,13:30 CDT,Under,Over,Team Totals,Florida Atlantic vs Marshall | Marshall Total Points,Under,34.0,-110.0,2020-10-23 09:10
+2020-10-24,11:00 CDT,Under,Over,Team Totals,Florida State vs Louisville | Florida State Total Points,Over,28.0,-110.0,2020-10-23 09:10
+2020-10-24,11:00 CDT,Under,Over,Team Totals,Florida State vs Louisville | Florida State Total Points,Under,28.0,-110.0,2020-10-23 09:10
+2020-10-24,11:00 CDT,Under,Over,Team Totals,Florida State vs Louisville | Louisville Total Points,Over,33.0,-110.0,2020-10-23 09:10
+2020-10-24,11:00 CDT,Under,Over,Team Totals,Florida State vs Louisville | Louisville Total Points,Under,33.0,-110.0,2020-10-23 09:10
+2020-10-24,11:00 CDT,Under,Over,Team Totals,Georgia Southern vs Coastal Carolina | Coastal Carolina Total Points,Over,29.0,-110.0,2020-10-23 09:10
+2020-10-24,11:00 CDT,Under,Over,Team Totals,Georgia Southern vs Coastal Carolina | Coastal Carolina Total Points,Under,29.0,-110.0,2020-10-23 09:10
+2020-10-24,11:00 CDT,Under,Over,Team Totals,Georgia Southern vs Coastal Carolina | Georgia Southern Total Points,Over,22.5,-110.0,2020-10-23 09:10
+2020-10-24,11:00 CDT,Under,Over,Team Totals,Georgia Southern vs Coastal Carolina | Georgia Southern Total Points,Under,22.5,-110.0,2020-10-23 09:10
+2020-10-24,15:00 CDT,Under,Over,Team Totals,Georgia State vs Troy | Georgia State Total Points,Over,33.5,-110.0,2020-10-23 09:10
+2020-10-24,15:00 CDT,Under,Over,Team Totals,Georgia State vs Troy | Georgia State Total Points,Under,33.5,-110.0,2020-10-23 09:10
+2020-10-24,15:00 CDT,Under,Over,Team Totals,Georgia State vs Troy | Troy Total Points,Over,34.5,-110.0,2020-10-23 09:10
+2020-10-24,15:00 CDT,Under,Over,Team Totals,Georgia State vs Troy | Troy Total Points,Under,34.5,-110.0,2020-10-23 09:10
+2020-10-24,15:00 CDT,Under,Over,Team Totals,Georgia Tech vs Boston College | Boston College Total Points,Over,29.5,-110.0,2020-10-23 09:10
+2020-10-24,15:00 CDT,Under,Over,Team Totals,Georgia Tech vs Boston College | Boston College Total Points,Under,29.5,-110.0,2020-10-23 09:10
+2020-10-24,15:00 CDT,Under,Over,Team Totals,Georgia Tech vs Boston College | Georgia Tech Total Points,Over,24.5,-110.0,2020-10-23 09:10
+2020-10-24,15:00 CDT,Under,Over,Team Totals,Georgia Tech vs Boston College | Georgia Tech Total Points,Under,24.5,-110.0,2020-10-23 09:10
+2020-10-24,14:30 CDT,Under,Over,Team Totals,Houston vs Navy | Houston Total Points,Over,34.0,-110.0,2020-10-23 09:10
+2020-10-24,14:30 CDT,Under,Over,Team Totals,Houston vs Navy | Houston Total Points,Under,34.0,-110.0,2020-10-23 09:10
+2020-10-24,14:30 CDT,Under,Over,Team Totals,Houston vs Navy | Navy Total Points,Over,20.0,-110.0,2020-10-23 09:10
+2020-10-24,14:30 CDT,Under,Over,Team Totals,Houston vs Navy | Navy Total Points,Under,20.0,-110.0,2020-10-23 09:10
+2020-10-24,14:30 CDT,Under,Over,Team Totals,Iowa State vs Oklahoma State | Iowa State Total Points,Over,24.0,-110.0,2020-10-23 09:10
+2020-10-24,14:30 CDT,Under,Over,Team Totals,Iowa State vs Oklahoma State | Iowa State Total Points,Under,24.0,-110.0,2020-10-23 09:10
+2020-10-24,14:30 CDT,Under,Over,Team Totals,Iowa State vs Oklahoma State | Oklahoma State Total Points,Over,27.5,-110.0,2020-10-23 09:10
+2020-10-24,14:30 CDT,Under,Over,Team Totals,Iowa State vs Oklahoma State | Oklahoma State Total Points,Under,27.5,-110.0,2020-10-23 09:10
+2020-10-24,14:30 CDT,Under,Over,Team Totals,Iowa vs Purdue | Iowa Total Points,Over,28.5,-110.0,2020-10-23 09:10
+2020-10-24,14:30 CDT,Under,Over,Team Totals,Iowa vs Purdue | Iowa Total Points,Under,28.5,-110.0,2020-10-23 09:10
+2020-10-24,14:30 CDT,Under,Over,Team Totals,Iowa vs Purdue | Purdue Total Points,Over,25.5,-110.0,2020-10-23 09:10
+2020-10-24,14:30 CDT,Under,Over,Team Totals,Iowa vs Purdue | Purdue Total Points,Under,25.5,-110.0,2020-10-23 09:10
+2020-10-24,11:00 CDT,Under,Over,Team Totals,Kansas vs Kansas State | Kansas State Total Points,Over,34.0,-115.0,2020-10-23 09:10
+2020-10-24,11:00 CDT,Under,Over,Team Totals,Kansas vs Kansas State | Kansas State Total Points,Under,34.0,-105.0,2020-10-23 09:10
+2020-10-24,11:00 CDT,Under,Over,Team Totals,Kansas vs Kansas State | Kansas Total Points,Over,14.0,-110.0,2020-10-23 09:10
+2020-10-24,11:00 CDT,Under,Over,Team Totals,Kansas vs Kansas State | Kansas Total Points,Under,14.0,-110.0,2020-10-23 09:10
+2020-10-24,15:00 CDT,Under,Over,Team Totals,Kentucky vs Missouri | Kentucky Total Points,Over,26.0,-110.0,2020-10-23 09:10
+2020-10-24,15:00 CDT,Under,Over,Team Totals,Kentucky vs Missouri | Kentucky Total Points,Under,26.0,-110.0,2020-10-23 09:10
+2020-10-24,15:00 CDT,Under,Over,Team Totals,Kentucky vs Missouri | Missouri Total Points,Over,20.5,-110.0,2020-10-23 09:10
+2020-10-24,15:00 CDT,Under,Over,Team Totals,Kentucky vs Missouri | Missouri Total Points,Under,20.5,-110.0,2020-10-23 09:10
+2020-10-24,19:00 CDT,Under,Over,Team Totals,Louisiana Tech vs UTSA | Louisiana Tech Total Points,Over,27.5,-110.0,2020-10-23 09:10
+2020-10-24,19:00 CDT,Under,Over,Team Totals,Louisiana Tech vs UTSA | Louisiana Tech Total Points,Under,27.5,-110.0,2020-10-23 09:10
+2020-10-24,19:00 CDT,Under,Over,Team Totals,Louisiana Tech vs UTSA | UTSA Total Points,Over,25.5,-110.0,2020-10-23 09:10
+2020-10-24,19:00 CDT,Under,Over,Team Totals,Louisiana Tech vs UTSA | UTSA Total Points,Under,25.5,-110.0,2020-10-23 09:10
+2020-10-24,18:30 CDT,Under,Over,Team Totals,Maryland vs Northwestern | Maryland Total Points,Over,21.0,-110.0,2020-10-23 09:10
+2020-10-24,18:30 CDT,Under,Over,Team Totals,Maryland vs Northwestern | Maryland Total Points,Under,21.0,-110.0,2020-10-23 09:10
+2020-10-24,18:30 CDT,Under,Over,Team Totals,Maryland vs Northwestern | Northwestern Total Points,Over,34.0,-110.0,2020-10-23 09:10
+2020-10-24,18:30 CDT,Under,Over,Team Totals,Maryland vs Northwestern | Northwestern Total Points,Under,34.0,-110.0,2020-10-23 09:10
+2020-10-24,18:30 CDT,Under,Over,Team Totals,Michigan vs Minnesota U | Michigan Total Points,Over,28.5,-110.0,2020-10-23 09:10
+2020-10-24,18:30 CDT,Under,Over,Team Totals,Michigan vs Minnesota U | Michigan Total Points,Under,28.5,-110.0,2020-10-23 09:10
+2020-10-24,18:30 CDT,Under,Over,Team Totals,Michigan vs Minnesota U | Minnesota U Total Points,Over,26.5,-110.0,2020-10-23 09:10
+2020-10-24,18:30 CDT,Under,Over,Team Totals,Michigan vs Minnesota U | Minnesota U Total Points,Under,26.5,-110.0,2020-10-23 09:10
+2020-10-24,14:30 CDT,Under,Over,Team Totals,Middle Tenn St vs Rice | Middle Tenn St Total Points,Over,23.5,-110.0,2020-10-23 09:10
+2020-10-24,14:30 CDT,Under,Over,Team Totals,Middle Tenn St vs Rice | Middle Tenn St Total Points,Under,23.5,-110.0,2020-10-23 09:10
+2020-10-24,14:30 CDT,Under,Over,Team Totals,Middle Tenn St vs Rice | Rice Total Points,Over,27.0,-110.0,2020-10-23 09:10
+2020-10-24,14:30 CDT,Under,Over,Team Totals,Middle Tenn St vs Rice | Rice Total Points,Under,27.0,-110.0,2020-10-23 09:10
+2020-10-24,11:00 CDT,Under,Over,Team Totals,NC State vs North Carolina | NC State Total Points,Over,22.5,-110.0,2020-10-23 09:10
+2020-10-24,11:00 CDT,Under,Over,Team Totals,NC State vs North Carolina | NC State Total Points,Under,22.5,-110.0,2020-10-23 09:10
+2020-10-24,11:00 CDT,Under,Over,Team Totals,NC State vs North Carolina | North Carolina Total Points,Over,38.0,-110.0,2020-10-23 09:10
+2020-10-24,11:00 CDT,Under,Over,Team Totals,NC State vs North Carolina | North Carolina Total Points,Under,38.0,-110.0,2020-10-23 09:10
+2020-10-24,11:00 CDT,Under,Over,Team Totals,Nebraska vs Ohio State | Nebraska Total Points,Over,21.0,-110.0,2020-10-23 09:10
+2020-10-24,11:00 CDT,Under,Over,Team Totals,Nebraska vs Ohio State | Nebraska Total Points,Under,21.0,-110.0,2020-10-23 09:10
+2020-10-24,11:00 CDT,Under,Over,Team Totals,Nebraska vs Ohio State | Ohio State Total Points,Over,47.0,-110.0,2020-10-23 09:10
+2020-10-24,11:00 CDT,Under,Over,Team Totals,Nebraska vs Ohio State | Ohio State Total Points,Under,47.0,-110.0,2020-10-23 09:10
+2020-10-24,14:30 CDT,Under,Over,Team Totals,Notre Dame vs Pittsburgh U | Notre Dame Total Points,Over,26.5,-110.0,2020-10-23 09:10
+2020-10-24,14:30 CDT,Under,Over,Team Totals,Notre Dame vs Pittsburgh U | Notre Dame Total Points,Under,26.5,-110.0,2020-10-23 09:10
+2020-10-24,14:30 CDT,Under,Over,Team Totals,Notre Dame vs Pittsburgh U | Pittsburgh U Total Points,Over,16.0,-110.0,2020-10-23 09:10
+2020-10-24,14:30 CDT,Under,Over,Team Totals,Notre Dame vs Pittsburgh U | Pittsburgh U Total Points,Under,16.0,-110.0,2020-10-23 09:10
+2020-10-24,11:00 CDT,Under,Over,Team Totals,Oklahoma vs TCU | Oklahoma Total Points,Over,33.0,-110.0,2020-10-23 09:10
+2020-10-24,11:00 CDT,Under,Over,Team Totals,Oklahoma vs TCU | Oklahoma Total Points,Under,33.0,-110.0,2020-10-23 09:10
+2020-10-24,11:00 CDT,Under,Over,Team Totals,Oklahoma vs TCU | TCU Total Points,Over,26.5,-110.0,2020-10-23 09:10
+2020-10-24,11:00 CDT,Under,Over,Team Totals,Oklahoma vs TCU | TCU Total Points,Under,26.5,-110.0,2020-10-23 09:10
+2020-10-24,14:30 CDT,Under,Over,Team Totals,Penn State vs Indiana | Indiana Total Points,Over,27.5,-115.0,2020-10-23 09:10
+2020-10-24,14:30 CDT,Under,Over,Team Totals,Penn State vs Indiana | Indiana Total Points,Under,27.5,-105.0,2020-10-23 09:10
+2020-10-24,14:30 CDT,Under,Over,Team Totals,Penn State vs Indiana | Penn State Total Points,Over,33.0,-110.0,2020-10-23 09:10
+2020-10-24,14:30 CDT,Under,Over,Team Totals,Penn State vs Indiana | Penn State Total Points,Under,33.0,-110.0,2020-10-23 09:10
+2020-10-24,18:00 CDT,Under,Over,Team Totals,South Carolina vs LSU | LSU Total Points,Over,31.0,-110.0,2020-10-23 09:10
+2020-10-24,18:00 CDT,Under,Over,Team Totals,South Carolina vs LSU | LSU Total Points,Under,31.0,-110.0,2020-10-23 09:10
+2020-10-24,18:00 CDT,Under,Over,Team Totals,South Carolina vs LSU | South Carolina Total Points,Over,24.0,-110.0,2020-10-23 09:10
+2020-10-24,18:00 CDT,Under,Over,Team Totals,South Carolina vs LSU | South Carolina Total Points,Under,24.0,-110.0,2020-10-23 09:10
+2020-10-24,12:00 CDT,Under,Over,Team Totals,Southern Miss vs Liberty | Liberty Total Points,Over,37.0,-110.0,2020-10-23 09:10
+2020-10-24,12:00 CDT,Under,Over,Team Totals,Southern Miss vs Liberty | Liberty Total Points,Under,37.0,-110.0,2020-10-23 09:10
+2020-10-24,12:00 CDT,Under,Over,Team Totals,Southern Miss vs Liberty | Southern Miss Total Points,Over,26.0,-110.0,2020-10-23 09:10
+2020-10-24,12:00 CDT,Under,Over,Team Totals,Southern Miss vs Liberty | Southern Miss Total Points,Under,26.0,-110.0,2020-10-23 09:10
+2020-10-24,11:00 CDT,Under,Over,Team Totals,Syracuse vs Clemson | Clemson Total Points,Over,53.5,-110.0,2020-10-23 09:10
+2020-10-24,11:00 CDT,Under,Over,Team Totals,Syracuse vs Clemson | Clemson Total Points,Under,53.5,-110.0,2020-10-23 09:10
+2020-10-24,11:00 CDT,Under,Over,Team Totals,Syracuse vs Clemson | Syracuse Total Points,Over,7.5,-110.0,2020-10-23 09:10
+2020-10-24,11:00 CDT,Under,Over,Team Totals,Syracuse vs Clemson | Syracuse Total Points,Under,7.5,-110.0,2020-10-23 09:10
+2020-10-24,11:00 CDT,Under,Over,Team Totals,Temple vs Memphis | Memphis Total Points,Over,42.5,-110.0,2020-10-23 09:10
+2020-10-24,11:00 CDT,Under,Over,Team Totals,Temple vs Memphis | Memphis Total Points,Under,42.5,-110.0,2020-10-23 09:10
+2020-10-24,11:00 CDT,Under,Over,Team Totals,Temple vs Memphis | Temple Total Points,Over,29.0,-110.0,2020-10-23 09:10
+2020-10-24,11:00 CDT,Under,Over,Team Totals,Temple vs Memphis | Temple Total Points,Under,29.0,-110.0,2020-10-23 09:10
+2020-10-24,13:00 CDT,Under,Over,Team Totals,Tulane vs Central Florida | Central Florida Total Points,Over,46.0,-110.0,2020-10-23 09:10
+2020-10-24,13:00 CDT,Under,Over,Team Totals,Tulane vs Central Florida | Central Florida Total Points,Under,46.0,-110.0,2020-10-23 09:10
+2020-10-24,13:00 CDT,Under,Over,Team Totals,Tulane vs Central Florida | Tulane Total Points,Over,26.5,-110.0,2020-10-23 09:10
+2020-10-24,13:00 CDT,Under,Over,Team Totals,Tulane vs Central Florida | Tulane Total Points,Under,26.5,-110.0,2020-10-23 09:10
+2020-10-24,21:30 CDT,Under,Over,Team Totals,UNLV vs San Diego State | San Diego State Total Points,Over,33.0,-110.0,2020-10-23 09:10
+2020-10-24,21:30 CDT,Under,Over,Team Totals,UNLV vs San Diego State | San Diego State Total Points,Under,33.0,-110.0,2020-10-23 09:10
+2020-10-24,21:30 CDT,Under,Over,Team Totals,UNLV vs San Diego State | UNLV Total Points,Over,17.0,-110.0,2020-10-23 09:10
+2020-10-24,21:30 CDT,Under,Over,Team Totals,UNLV vs San Diego State | UNLV Total Points,Under,17.0,-110.0,2020-10-23 09:10
+2020-10-24,11:00 CDT,Under,Over,Team Totals,UTEP vs Charlotte | Charlotte Total Points,Over,32.0,-110.0,2020-10-23 09:10
+2020-10-24,11:00 CDT,Under,Over,Team Totals,UTEP vs Charlotte | Charlotte Total Points,Under,32.0,-110.0,2020-10-23 09:10
+2020-10-24,11:00 CDT,Under,Over,Team Totals,UTEP vs Charlotte | UTEP Total Points,Over,17.5,-110.0,2020-10-23 09:10
+2020-10-24,11:00 CDT,Under,Over,Team Totals,UTEP vs Charlotte | UTEP Total Points,Under,17.5,-110.0,2020-10-23 09:10
+2020-10-24,18:00 CDT,Under,Over,Team Totals,Utah State vs Boise State | Boise State Total Points,Over,35.0,-110.0,2020-10-23 09:10
+2020-10-24,18:00 CDT,Under,Over,Team Totals,Utah State vs Boise State | Boise State Total Points,Under,35.0,-110.0,2020-10-23 09:10
+2020-10-24,18:00 CDT,Under,Over,Team Totals,Utah State vs Boise State | Utah State Total Points,Over,17.0,-110.0,2020-10-23 09:10
+2020-10-24,18:00 CDT,Under,Over,Team Totals,Utah State vs Boise State | Utah State Total Points,Under,17.0,-110.0,2020-10-23 09:10
+2020-10-24,14:30 CDT,Under,Over,Team Totals,Virginia Tech vs Wake Forest | Virginia Tech Total Points,Over,38.5,-110.0,2020-10-23 09:10
+2020-10-24,14:30 CDT,Under,Over,Team Totals,Virginia Tech vs Wake Forest | Virginia Tech Total Points,Under,38.5,-110.0,2020-10-23 09:10
+2020-10-24,14:30 CDT,Under,Over,Team Totals,Virginia Tech vs Wake Forest | Wake Forest Total Points,Over,29.0,-115.0,2020-10-23 09:10
+2020-10-24,14:30 CDT,Under,Over,Team Totals,Virginia Tech vs Wake Forest | Wake Forest Total Points,Under,29.0,-105.0,2020-10-23 09:10
+2020-10-24,19:00 CDT,Under,Over,Team Totals,Virginia vs Miami Florida | Miami Florida Total Points,Over,35.5,-110.0,2020-10-23 09:10
+2020-10-24,19:00 CDT,Under,Over,Team Totals,Virginia vs Miami Florida | Miami Florida Total Points,Under,35.5,-110.0,2020-10-23 09:10
+2020-10-24,19:00 CDT,Under,Over,Team Totals,Virginia vs Miami Florida | Virginia Total Points,Over,21.0,-110.0,2020-10-23 09:10
+2020-10-24,19:00 CDT,Under,Over,Team Totals,Virginia vs Miami Florida | Virginia Total Points,Under,21.0,-110.0,2020-10-23 09:10
+2020-10-24,16:30 CDT,Under,Over,Team Totals,West Virginia vs Texas Tech | Texas Tech Total Points,Over,24.5,-110.0,2020-10-23 09:10
+2020-10-24,16:30 CDT,Under,Over,Team Totals,West Virginia vs Texas Tech | Texas Tech Total Points,Under,24.5,-110.0,2020-10-23 09:10
+2020-10-24,16:30 CDT,Under,Over,Team Totals,West Virginia vs Texas Tech | West Virginia Total Points,Over,28.5,-110.0,2020-10-23 09:10
+2020-10-24,16:30 CDT,Under,Over,Team Totals,West Virginia vs Texas Tech | West Virginia Total Points,Under,28.5,-110.0,2020-10-23 09:10
+2020-10-24,18:00 CDT,Under,Over,Team Totals,Wyoming vs Nevada | Nevada Total Points,Over,22.5,-110.0,2020-10-23 09:10
+2020-10-24,18:00 CDT,Under,Over,Team Totals,Wyoming vs Nevada | Nevada Total Points,Under,22.5,-110.0,2020-10-23 09:10
+2020-10-24,18:00 CDT,Under,Over,Team Totals,Wyoming vs Nevada | Wyoming Total Points,Over,28.0,-110.0,2020-10-23 09:10
+2020-10-24,18:00 CDT,Under,Over,Team Totals,Wyoming vs Nevada | Wyoming Total Points,Under,28.0,-110.0,2020-10-23 09:10
+2020-10-23,18:30 CDT,South Florida,Tulsa,1st Half,Tulsa vs South Florida | 1st Half Lines,Over,24.5,-120.0,2020-10-23 11:17
+2020-10-23,18:30 CDT,South Florida,Tulsa,1st Half,Tulsa vs South Florida | 1st Half Lines,South Florida,6.5,-110.0,2020-10-23 11:17
+2020-10-23,18:30 CDT,South Florida,Tulsa,1st Half,Tulsa vs South Florida | 1st Half Lines,Tulsa,-6.5,-110.0,2020-10-23 11:17
+2020-10-23,18:30 CDT,South Florida,Tulsa,1st Half,Tulsa vs South Florida | 1st Half Lines,Under,24.5,100.0,2020-10-23 11:17
+2020-10-23,19:00 CDT,UAB,UL Lafayette,1st Half,UL Lafayette vs UAB | 1st Half Lines,UAB,1.0,-110.0,2020-10-23 11:17
+2020-10-23,19:00 CDT,UAB,UL Lafayette,1st Half,UL Lafayette vs UAB | 1st Half Lines,UL Lafayette,-1.0,-110.0,2020-10-23 11:17
+2020-10-23,19:00 CDT,Wisconsin,Illinois,1st Half,Illinois vs Wisconsin | 1st Half Lines,Illinois,10.5,-110.0,2020-10-23 11:17
+2020-10-23,19:00 CDT,Wisconsin,Illinois,1st Half,Illinois vs Wisconsin | 1st Half Lines,Wisconsin,-10.5,-110.0,2020-10-23 11:17
+2020-10-24,18:00 CDT,Boise State,Utah State,1st Half,Utah State vs Boise State | 1st Half Lines,Boise State,-9.5,-110.0,2020-10-23 11:17
+2020-10-24,18:00 CDT,Boise State,Utah State,1st Half,Utah State vs Boise State | 1st Half Lines,Utah State,9.5,-110.0,2020-10-23 11:17
+2020-10-24,15:00 CDT,Boston College,Georgia Tech,1st Half,Georgia Tech vs Boston College | 1st Half Lines,Boston College,-2.5,-110.0,2020-10-23 11:17
+2020-10-24,15:00 CDT,Boston College,Georgia Tech,1st Half,Georgia Tech vs Boston College | 1st Half Lines,Georgia Tech,2.5,-110.0,2020-10-23 11:17
+2020-10-24,13:00 CDT,Central Florida,Tulane,1st Half,Tulane vs Central Florida | 1st Half Lines,Central Florida,-10.5,-110.0,2020-10-23 11:17
+2020-10-24,13:00 CDT,Central Florida,Tulane,1st Half,Tulane vs Central Florida | 1st Half Lines,Tulane,10.5,-110.0,2020-10-23 11:17
+2020-10-24,11:00 CDT,Charlotte,UTEP,1st Half,UTEP vs Charlotte | 1st Half Lines,Charlotte,-7.5,-110.0,2020-10-23 11:17
+2020-10-24,11:00 CDT,Charlotte,UTEP,1st Half,UTEP vs Charlotte | 1st Half Lines,UTEP,7.5,-110.0,2020-10-23 11:17
+2020-10-24,11:00 CDT,Coastal Carolina,Georgia Southern,1st Half,Georgia Southern vs Coastal Carolina | 1st Half Lines,Coastal Carolina,-3.5,-110.0,2020-10-23 11:17
+2020-10-24,11:00 CDT,Coastal Carolina,Georgia Southern,1st Half,Georgia Southern vs Coastal Carolina | 1st Half Lines,Georgia Southern,3.5,-110.0,2020-10-23 11:17
+2020-10-24,14:30 CDT,Indiana,Penn State,1st Half,Penn State vs Indiana | 1st Half Lines,Indiana,3.5,-110.0,2020-10-23 11:17
+2020-10-24,14:30 CDT,Indiana,Penn State,1st Half,Penn State vs Indiana | 1st Half Lines,Penn State,-3.5,-110.0,2020-10-23 11:17
+2020-10-24,11:00 CDT,Kansas State,Kansas,1st Half,Kansas vs Kansas State | 1st Half Lines,Kansas,10.5,-110.0,2020-10-23 11:17
+2020-10-24,11:00 CDT,Kansas State,Kansas,1st Half,Kansas vs Kansas State | 1st Half Lines,Kansas State,-10.5,-110.0,2020-10-23 11:17
+2020-10-24,18:00 CDT,LSU,South Carolina,1st Half,South Carolina vs LSU | 1st Half Lines,LSU,-3.5,-105.0,2020-10-23 11:17
+2020-10-24,18:00 CDT,LSU,South Carolina,1st Half,South Carolina vs LSU | 1st Half Lines,South Carolina,3.5,-115.0,2020-10-23 11:17
+2020-10-24,12:00 CDT,Liberty,Southern Miss,1st Half,Southern Miss vs Liberty | 1st Half Lines,Liberty,,-360.0,2020-10-23 11:17
+2020-10-24,12:00 CDT,Liberty,Southern Miss,1st Half,Southern Miss vs Liberty | 1st Half Lines,Liberty,-7.5,-110.0,2020-10-23 11:17
+2020-10-24,12:00 CDT,Liberty,Southern Miss,1st Half,Southern Miss vs Liberty | 1st Half Lines,Southern Miss,,300.0,2020-10-23 11:17
+2020-10-24,12:00 CDT,Liberty,Southern Miss,1st Half,Southern Miss vs Liberty | 1st Half Lines,Southern Miss,7.5,-110.0,2020-10-23 11:17
+2020-10-24,11:00 CDT,Louisville,Florida State,1st Half,Florida State vs Louisville | 1st Half Lines,Florida State,3.0,-110.0,2020-10-23 11:17
+2020-10-24,11:00 CDT,Louisville,Florida State,1st Half,Florida State vs Louisville | 1st Half Lines,Louisville,-3.0,-110.0,2020-10-23 11:17
+2020-10-24,13:30 CDT,Marshall,Florida Atlantic,1st Half,Florida Atlantic vs Marshall | 1st Half Lines,Florida Atlantic,9.0,-110.0,2020-10-23 11:17
+2020-10-24,13:30 CDT,Marshall,Florida Atlantic,1st Half,Florida Atlantic vs Marshall | 1st Half Lines,Marshall,-9.0,-110.0,2020-10-23 11:17
+2020-10-24,11:00 CDT,Memphis,Temple,1st Half,Temple vs Memphis | 1st Half Lines,Memphis,-7.0,-110.0,2020-10-23 11:17
+2020-10-24,11:00 CDT,Memphis,Temple,1st Half,Temple vs Memphis | 1st Half Lines,Temple,7.0,-110.0,2020-10-23 11:17
+2020-10-24,11:00 CDT,Michigan State,Rutgers,1st Half,Rutgers vs Michigan State | 1st Half Lines,Michigan State,-7.0,-110.0,2020-10-23 11:17
+2020-10-24,11:00 CDT,Michigan State,Rutgers,1st Half,Rutgers vs Michigan State | 1st Half Lines,Rutgers,7.0,-110.0,2020-10-23 11:17
+2020-10-24,11:00 CDT,Mississippi,Auburn,1st Half,Auburn vs Mississippi | 1st Half Lines,Auburn,-1.5,-110.0,2020-10-23 11:17
+2020-10-24,11:00 CDT,Mississippi,Auburn,1st Half,Auburn vs Mississippi | 1st Half Lines,Mississippi,1.5,-110.0,2020-10-23 11:17
+2020-10-24,15:00 CDT,Missouri,Kentucky,1st Half,Kentucky vs Missouri | 1st Half Lines,Kentucky,,-165.0,2020-10-23 11:17
+2020-10-24,15:00 CDT,Missouri,Kentucky,1st Half,Kentucky vs Missouri | 1st Half Lines,Kentucky,-3.0,-105.0,2020-10-23 11:17
+2020-10-24,15:00 CDT,Missouri,Kentucky,1st Half,Kentucky vs Missouri | 1st Half Lines,Missouri,,145.0,2020-10-23 11:17
+2020-10-24,15:00 CDT,Missouri,Kentucky,1st Half,Kentucky vs Missouri | 1st Half Lines,Missouri,3.0,-115.0,2020-10-23 11:17
+2020-10-24,14:30 CDT,Navy,Houston,1st Half,Houston vs Navy | 1st Half Lines,Houston,-7.5,-110.0,2020-10-23 11:17
+2020-10-24,14:30 CDT,Navy,Houston,1st Half,Houston vs Navy | 1st Half Lines,Navy,7.5,-110.0,2020-10-23 11:17
+2020-10-24,18:00 CDT,Nevada,Wyoming,1st Half,Wyoming vs Nevada | 1st Half Lines,Nevada,3.0,-110.0,2020-10-23 11:17
+2020-10-24,18:00 CDT,Nevada,Wyoming,1st Half,Wyoming vs Nevada | 1st Half Lines,Wyoming,-3.0,-110.0,2020-10-23 11:17
+2020-10-24,11:00 CDT,North Carolina,NC State,1st Half,NC State vs North Carolina | 1st Half Lines,NC State,9.0,-110.0,2020-10-23 11:17
+2020-10-24,11:00 CDT,North Carolina,NC State,1st Half,NC State vs North Carolina | 1st Half Lines,North Carolina,-9.0,-110.0,2020-10-23 11:17
+2020-10-24,11:00 CDT,Ohio State,Nebraska,1st Half,Nebraska vs Ohio State | 1st Half Lines,Nebraska,14.5,-110.0,2020-10-23 11:17
+2020-10-24,11:00 CDT,Ohio State,Nebraska,1st Half,Nebraska vs Ohio State | 1st Half Lines,Ohio State,-14.5,-110.0,2020-10-23 11:17
+2020-10-24,14:30 CDT,Oklahoma State,Iowa State,1st Half,Iowa State vs Oklahoma State | 1st Half Lines,Iowa State,,140.0,2020-10-23 11:17
+2020-10-24,14:30 CDT,Oklahoma State,Iowa State,1st Half,Iowa State vs Oklahoma State | 1st Half Lines,Oklahoma State,,-160.0,2020-10-23 11:17
+2020-10-24,14:30 CDT,Pittsburgh U,Notre Dame,1st Half,Notre Dame vs Pittsburgh U | 1st Half Lines,Notre Dame,,-270.0,2020-10-23 11:17
+2020-10-24,14:30 CDT,Pittsburgh U,Notre Dame,1st Half,Notre Dame vs Pittsburgh U | 1st Half Lines,Notre Dame,-5.5,-110.0,2020-10-23 11:17
+2020-10-24,14:30 CDT,Pittsburgh U,Notre Dame,1st Half,Notre Dame vs Pittsburgh U | 1st Half Lines,Pittsburgh U,,230.0,2020-10-23 11:17
+2020-10-24,14:30 CDT,Pittsburgh U,Notre Dame,1st Half,Notre Dame vs Pittsburgh U | 1st Half Lines,Pittsburgh U,5.5,-110.0,2020-10-23 11:17
+2020-10-24,14:30 CDT,Purdue,Iowa,1st Half,Iowa vs Purdue | 1st Half Lines,Iowa,-2.5,-110.0,2020-10-23 11:17
+2020-10-24,14:30 CDT,Purdue,Iowa,1st Half,Iowa vs Purdue | 1st Half Lines,Purdue,2.5,-110.0,2020-10-23 11:17
+2020-10-24,14:30 CDT,Rice,Middle Tenn St,1st Half,Middle Tenn St vs Rice | 1st Half Lines,Middle Tenn St,2.5,-110.0,2020-10-23 11:17
+2020-10-24,14:30 CDT,Rice,Middle Tenn St,1st Half,Middle Tenn St vs Rice | 1st Half Lines,Rice,-2.5,-110.0,2020-10-23 11:17
+2020-10-24,18:00 CDT,South Alabama,UL Monroe,1st Half,UL Monroe vs South Alabama | 1st Half Lines,South Alabama,-7.5,-110.0,2020-10-23 11:17
+2020-10-24,18:00 CDT,South Alabama,UL Monroe,1st Half,UL Monroe vs South Alabama | 1st Half Lines,UL Monroe,7.5,-110.0,2020-10-23 11:17
+2020-10-24,11:00 CDT,TCU,Oklahoma,1st Half,Oklahoma vs TCU | 1st Half Lines,Oklahoma,-3.5,-110.0,2020-10-23 11:17
+2020-10-24,11:00 CDT,TCU,Oklahoma,1st Half,Oklahoma vs TCU | 1st Half Lines,TCU,3.5,-110.0,2020-10-23 11:17
+2020-10-24,14:30 CDT,Tennessee U,Alabama,1st Half,Alabama vs Tennessee U | 1st Half Lines,Alabama,-11.5,-120.0,2020-10-23 11:17
+2020-10-24,14:30 CDT,Tennessee U,Alabama,1st Half,Alabama vs Tennessee U | 1st Half Lines,Tennessee U,11.5,100.0,2020-10-23 11:17
+2020-10-24,14:30 CDT,Texas,Baylor,1st Half,Baylor vs Texas | 1st Half Lines,Baylor,5.5,-110.0,2020-10-23 11:17
+2020-10-24,14:30 CDT,Texas,Baylor,1st Half,Baylor vs Texas | 1st Half Lines,Texas,-5.5,-110.0,2020-10-23 11:17
+2020-10-24,16:30 CDT,Texas Tech,West Virginia,1st Half,West Virginia vs Texas Tech | 1st Half Lines,Texas Tech,2.5,-110.0,2020-10-23 11:17
+2020-10-24,16:30 CDT,Texas Tech,West Virginia,1st Half,West Virginia vs Texas Tech | 1st Half Lines,West Virginia,-2.5,-110.0,2020-10-23 11:17
+2020-10-24,15:00 CDT,Troy,Georgia State,1st Half,Georgia State vs Troy | 1st Half Lines,Georgia State,2.0,-110.0,2020-10-23 11:17
+2020-10-24,15:00 CDT,Troy,Georgia State,1st Half,Georgia State vs Troy | 1st Half Lines,Troy,-2.0,-110.0,2020-10-23 11:17
+2020-10-24,14:30 CDT,Wake Forest,Virginia Tech,1st Half,Virginia Tech vs Wake Forest | 1st Half Lines,Virginia Tech,-5.5,-110.0,2020-10-23 11:17
+2020-10-24,14:30 CDT,Wake Forest,Virginia Tech,1st Half,Virginia Tech vs Wake Forest | 1st Half Lines,Wake Forest,5.5,-110.0,2020-10-23 11:17
+2020-10-23,18:30 CDT,South Florida,Tulsa,Adjusted Line,Tulsa vs South Florida | Alternative Lines A,South Florida,3.5,240.0,2020-10-23 11:18
+2020-10-23,18:30 CDT,South Florida,Tulsa,Adjusted Line,Tulsa vs South Florida | Alternative Lines A,Tulsa,-3.5,-300.0,2020-10-23 11:18
+2020-10-23,18:30 CDT,South Florida,Tulsa,Adjusted Line,Tulsa vs South Florida | Alternative Lines B,South Florida,17.5,-215.0,2020-10-23 11:18
+2020-10-23,18:30 CDT,South Florida,Tulsa,Adjusted Line,Tulsa vs South Florida | Alternative Lines B,Tulsa,-17.5,170.0,2020-10-23 11:18
+2020-10-23,19:00 CDT,UAB,UL Lafayette,Adjusted Line,UL Lafayette vs UAB | Alternative Lines A,UAB,-3.5,165.0,2020-10-23 11:18
+2020-10-23,19:00 CDT,UAB,UL Lafayette,Adjusted Line,UL Lafayette vs UAB | Alternative Lines A,UL Lafayette,3.5,-200.0,2020-10-23 11:18
+2020-10-23,19:00 CDT,UAB,UL Lafayette,Adjusted Line,UL Lafayette vs UAB | Alternative Lines B,UAB,7.5,-250.0,2020-10-23 11:18
+2020-10-23,19:00 CDT,UAB,UL Lafayette,Adjusted Line,UL Lafayette vs UAB | Alternative Lines B,UL Lafayette,-7.5,185.0,2020-10-23 11:18
+2020-10-23,19:00 CDT,Wisconsin,Illinois,Adjusted Line,Illinois vs Wisconsin | Alternative Lines A,Illinois,27.5,-270.0,2020-10-23 11:18
+2020-10-23,19:00 CDT,Wisconsin,Illinois,Adjusted Line,Illinois vs Wisconsin | Alternative Lines A,Wisconsin,-27.5,220.0,2020-10-23 11:18
+2020-10-23,19:00 CDT,Wisconsin,Illinois,Adjusted Line,Illinois vs Wisconsin | Alternative Lines B,Illinois,13.5,180.0,2020-10-23 11:18
+2020-10-23,19:00 CDT,Wisconsin,Illinois,Adjusted Line,Illinois vs Wisconsin | Alternative Lines B,Wisconsin,-13.5,-230.0,2020-10-23 11:18
+2020-10-24,21:15 CDT,BYU,Texas State,Adjusted Line,Texas State vs BYU | Alternative Lines A,BYU,-35.5,210.0,2020-10-23 11:18
+2020-10-24,21:15 CDT,BYU,Texas State,Adjusted Line,Texas State vs BYU | Alternative Lines A,Texas State,35.5,-260.0,2020-10-23 11:18
+2020-10-24,21:15 CDT,BYU,Texas State,Adjusted Line,Texas State vs BYU | Alternative Lines B,BYU,-21.5,-240.0,2020-10-23 11:18
+2020-10-24,21:15 CDT,BYU,Texas State,Adjusted Line,Texas State vs BYU | Alternative Lines B,Texas State,21.5,190.0,2020-10-23 11:18
+2020-10-24,18:00 CDT,Boise State,Utah State,Adjusted Line,Utah State vs Boise State | Alternative Lines A,Boise State,-23.5,185.0,2020-10-23 11:18
+2020-10-24,18:00 CDT,Boise State,Utah State,Adjusted Line,Utah State vs Boise State | Alternative Lines A,Utah State,23.5,-235.0,2020-10-23 11:18
+2020-10-24,18:00 CDT,Boise State,Utah State,Adjusted Line,Utah State vs Boise State | Alternative Lines B,Boise State,-9.5,-250.0,2020-10-23 11:18
+2020-10-24,18:00 CDT,Boise State,Utah State,Adjusted Line,Utah State vs Boise State | Alternative Lines B,Utah State,9.5,200.0,2020-10-23 11:18
+2020-10-24,15:00 CDT,Boston College,Georgia Tech,Adjusted Line,Georgia Tech vs Boston College | Alternative Lines A,Boston College,-10.5,200.0,2020-10-23 11:18
+2020-10-24,15:00 CDT,Boston College,Georgia Tech,Adjusted Line,Georgia Tech vs Boston College | Alternative Lines A,Georgia Tech,10.5,-250.0,2020-10-23 11:18
+2020-10-24,15:00 CDT,Boston College,Georgia Tech,Adjusted Line,Georgia Tech vs Boston College | Alternative Lines B,Boston College,3.5,-240.0,2020-10-23 11:18
+2020-10-24,15:00 CDT,Boston College,Georgia Tech,Adjusted Line,Georgia Tech vs Boston College | Alternative Lines B,Georgia Tech,-3.5,190.0,2020-10-23 11:18
+2020-10-24,13:00 CDT,Central Florida,Tulane,Adjusted Line,Tulane vs Central Florida | Alternative Lines A,Central Florida,-27.5,200.0,2020-10-23 11:18
+2020-10-24,13:00 CDT,Central Florida,Tulane,Adjusted Line,Tulane vs Central Florida | Alternative Lines A,Tulane,27.5,-250.0,2020-10-23 11:18
+2020-10-24,13:00 CDT,Central Florida,Tulane,Adjusted Line,Tulane vs Central Florida | Alternative Lines B,Central Florida,-13.5,-205.0,2020-10-23 11:18
+2020-10-24,13:00 CDT,Central Florida,Tulane,Adjusted Line,Tulane vs Central Florida | Alternative Lines B,Tulane,13.5,165.0,2020-10-23 11:18
+2020-10-24,11:00 CDT,Charlotte,UTEP,Adjusted Line,UTEP vs Charlotte | Alternative Lines A,Charlotte,-21.5,190.0,2020-10-23 11:18
+2020-10-24,11:00 CDT,Charlotte,UTEP,Adjusted Line,UTEP vs Charlotte | Alternative Lines A,UTEP,21.5,-240.0,2020-10-23 11:18
+2020-10-24,11:00 CDT,Charlotte,UTEP,Adjusted Line,UTEP vs Charlotte | Alternative Lines B,Charlotte,-7.5,-260.0,2020-10-23 11:18
+2020-10-24,11:00 CDT,Charlotte,UTEP,Adjusted Line,UTEP vs Charlotte | Alternative Lines B,UTEP,7.5,210.0,2020-10-23 11:18
+2020-10-24,11:00 CDT,Clemson,Syracuse,Adjusted Line,Syracuse vs Clemson | Alternative Lines A,Clemson,-52.5,185.0,2020-10-23 11:18
+2020-10-24,11:00 CDT,Clemson,Syracuse,Adjusted Line,Syracuse vs Clemson | Alternative Lines A,Syracuse,52.5,-235.0,2020-10-23 11:18
+2020-10-24,11:00 CDT,Clemson,Syracuse,Adjusted Line,Syracuse vs Clemson | Alternative Lines B,Clemson,-38.5,-280.0,2020-10-23 11:18
+2020-10-24,11:00 CDT,Clemson,Syracuse,Adjusted Line,Syracuse vs Clemson | Alternative Lines B,Syracuse,38.5,230.0,2020-10-23 11:18
+2020-10-24,11:00 CDT,Coastal Carolina,Georgia Southern,Adjusted Line,Georgia Southern vs Coastal Carolina | Alternative Lines A,Coastal Carolina,-13.5,210.0,2020-10-23 11:18
+2020-10-24,11:00 CDT,Coastal Carolina,Georgia Southern,Adjusted Line,Georgia Southern vs Coastal Carolina | Alternative Lines A,Georgia Southern,13.5,-260.0,2020-10-23 11:18
+2020-10-24,11:00 CDT,Coastal Carolina,Georgia Southern,Adjusted Line,Georgia Southern vs Coastal Carolina | Alternative Lines B,Coastal Carolina,3.5,-310.0,2020-10-23 11:18
+2020-10-24,11:00 CDT,Coastal Carolina,Georgia Southern,Adjusted Line,Georgia Southern vs Coastal Carolina | Alternative Lines B,Georgia Southern,-3.5,250.0,2020-10-23 11:18
+2020-10-24,18:30 CDT,Fresno State,Hawaii,1st Half,Hawaii vs Fresno State | 1st Half Lines,Fresno State,-2.5,-110.0,2020-10-23 11:18
+2020-10-24,18:30 CDT,Fresno State,Hawaii,1st Half,Hawaii vs Fresno State | 1st Half Lines,Hawaii,2.5,-110.0,2020-10-23 11:18
+2020-10-24,18:30 CDT,Fresno State,Hawaii,1st Half,Hawaii vs Fresno State | 1st Half Lines,Over,34.0,-110.0,2020-10-23 11:18
+2020-10-24,18:30 CDT,Fresno State,Hawaii,1st Half,Hawaii vs Fresno State | 1st Half Lines,Under,34.0,-110.0,2020-10-23 11:18
+2020-10-24,18:30 CDT,Fresno State,Hawaii,Adjusted Line,Hawaii vs Fresno State | Alternative Lines A,Fresno State,-10.5,175.0,2020-10-23 11:18
+2020-10-24,18:30 CDT,Fresno State,Hawaii,Adjusted Line,Hawaii vs Fresno State | Alternative Lines A,Hawaii,10.5,-215.0,2020-10-23 11:18
+2020-10-24,18:30 CDT,Fresno State,Hawaii,Adjusted Line,Hawaii vs Fresno State | Alternative Lines B,Fresno State,3.5,-240.0,2020-10-23 11:18
+2020-10-24,18:30 CDT,Fresno State,Hawaii,Adjusted Line,Hawaii vs Fresno State | Alternative Lines B,Hawaii,-3.5,190.0,2020-10-23 11:18
+2020-10-24,14:30 CDT,Indiana,Penn State,Adjusted Line,Penn State vs Indiana | Alternative Lines A,Indiana,-2.5,210.0,2020-10-23 11:18
+2020-10-24,14:30 CDT,Indiana,Penn State,Adjusted Line,Penn State vs Indiana | Alternative Lines A,Penn State,2.5,-260.0,2020-10-23 11:18
+2020-10-24,14:30 CDT,Indiana,Penn State,Adjusted Line,Penn State vs Indiana | Alternative Lines B,Indiana,13.5,-230.0,2020-10-23 11:18
+2020-10-24,14:30 CDT,Indiana,Penn State,Adjusted Line,Penn State vs Indiana | Alternative Lines B,Penn State,-13.5,180.0,2020-10-23 11:18
+2020-10-24,11:00 CDT,Kansas State,Kansas,Adjusted Line,Kansas vs Kansas State | Alternative Lines A,Kansas,27.5,-260.0,2020-10-23 11:18
+2020-10-24,11:00 CDT,Kansas State,Kansas,Adjusted Line,Kansas vs Kansas State | Alternative Lines A,Kansas State,-27.5,210.0,2020-10-23 11:18
+2020-10-24,11:00 CDT,Kansas State,Kansas,Adjusted Line,Kansas vs Kansas State | Alternative Lines B,Kansas,14.5,170.0,2020-10-23 11:18
+2020-10-24,11:00 CDT,Kansas State,Kansas,Adjusted Line,Kansas vs Kansas State | Alternative Lines B,Kansas State,-14.5,-210.0,2020-10-23 11:18
+2020-10-24,18:00 CDT,LSU,South Carolina,Adjusted Line,South Carolina vs LSU | Alternative Lines A,LSU,-13.5,200.0,2020-10-23 11:18
+2020-10-24,18:00 CDT,LSU,South Carolina,Adjusted Line,South Carolina vs LSU | Alternative Lines A,South Carolina,13.5,-250.0,2020-10-23 11:18
+2020-10-24,18:00 CDT,LSU,South Carolina,Adjusted Line,South Carolina vs LSU | Alternative Lines B,LSU,3.5,-330.0,2020-10-23 11:18
+2020-10-24,18:00 CDT,LSU,South Carolina,Adjusted Line,South Carolina vs LSU | Alternative Lines B,South Carolina,-3.5,260.0,2020-10-23 11:18
+2020-10-24,12:00 CDT,Liberty,Southern Miss,Adjusted Line,Southern Miss vs Liberty | Alternative Lines A,Liberty,-17.5,165.0,2020-10-23 11:18
+2020-10-24,12:00 CDT,Liberty,Southern Miss,Adjusted Line,Southern Miss vs Liberty | Alternative Lines A,Southern Miss,17.5,-205.0,2020-10-23 11:18
+2020-10-24,12:00 CDT,Liberty,Southern Miss,Adjusted Line,Southern Miss vs Liberty | Alternative Lines B,Liberty,-3.5,-280.0,2020-10-23 11:18
+2020-10-24,12:00 CDT,Liberty,Southern Miss,Adjusted Line,Southern Miss vs Liberty | Alternative Lines B,Southern Miss,3.5,230.0,2020-10-23 11:18
+2020-10-24,11:00 CDT,Louisville,Florida State,Adjusted Line,Florida State vs Louisville | Alternative Lines A,Florida State,11.5,-235.0,2020-10-23 11:18
+2020-10-24,11:00 CDT,Louisville,Florida State,Adjusted Line,Florida State vs Louisville | Alternative Lines A,Louisville,-11.5,185.0,2020-10-23 11:18
+2020-10-24,11:00 CDT,Louisville,Florida State,Adjusted Line,Florida State vs Louisville | Alternative Lines B,Florida State,-2.5,200.0,2020-10-23 11:18
+2020-10-24,11:00 CDT,Louisville,Florida State,Adjusted Line,Florida State vs Louisville | Alternative Lines B,Louisville,2.5,-250.0,2020-10-23 11:18
+2020-10-24,13:30 CDT,Marshall,Florida Atlantic,Adjusted Line,Florida Atlantic vs Marshall | Alternative Lines A,Florida Atlantic,24.5,-270.0,2020-10-23 11:18
+2020-10-24,13:30 CDT,Marshall,Florida Atlantic,Adjusted Line,Florida Atlantic vs Marshall | Alternative Lines A,Marshall,-24.5,220.0,2020-10-23 11:18
+2020-10-24,13:30 CDT,Marshall,Florida Atlantic,Adjusted Line,Florida Atlantic vs Marshall | Alternative Lines B,Florida Atlantic,10.5,180.0,2020-10-23 11:18
+2020-10-24,13:30 CDT,Marshall,Florida Atlantic,Adjusted Line,Florida Atlantic vs Marshall | Alternative Lines B,Marshall,-10.5,-230.0,2020-10-23 11:18
+2020-10-24,11:00 CDT,Memphis,Temple,Adjusted Line,Temple vs Memphis | Alternative Lines A,Memphis,-20.5,175.0,2020-10-23 11:18
+2020-10-24,11:00 CDT,Memphis,Temple,Adjusted Line,Temple vs Memphis | Alternative Lines A,Temple,20.5,-215.0,2020-10-23 11:18
+2020-10-24,11:00 CDT,Memphis,Temple,Adjusted Line,Temple vs Memphis | Alternative Lines B,Memphis,-6.5,-245.0,2020-10-23 11:18
+2020-10-24,11:00 CDT,Memphis,Temple,Adjusted Line,Temple vs Memphis | Alternative Lines B,Temple,6.5,195.0,2020-10-23 11:18
+2020-10-24,19:00 CDT,Miami Florida,Virginia,1st Half,Virginia vs Miami Florida | 1st Half Lines,Miami Florida,-6.5,-120.0,2020-10-23 11:18
+2020-10-24,19:00 CDT,Miami Florida,Virginia,1st Half,Virginia vs Miami Florida | 1st Half Lines,Over,28.5,-110.0,2020-10-23 11:18
+2020-10-24,19:00 CDT,Miami Florida,Virginia,1st Half,Virginia vs Miami Florida | 1st Half Lines,Under,28.5,-110.0,2020-10-23 11:18
+2020-10-24,19:00 CDT,Miami Florida,Virginia,1st Half,Virginia vs Miami Florida | 1st Half Lines,Virginia,6.5,100.0,2020-10-23 11:18
+2020-10-24,19:00 CDT,Miami Florida,Virginia,Adjusted Line,Virginia vs Miami Florida | Alternative Lines A,Miami Florida,-18.5,175.0,2020-10-23 11:18
+2020-10-24,19:00 CDT,Miami Florida,Virginia,Adjusted Line,Virginia vs Miami Florida | Alternative Lines A,Virginia,18.5,-215.0,2020-10-23 11:18
+2020-10-24,19:00 CDT,Miami Florida,Virginia,Adjusted Line,Virginia vs Miami Florida | Alternative Lines B,Miami Florida,-4.5,-290.0,2020-10-23 11:18
+2020-10-24,19:00 CDT,Miami Florida,Virginia,Adjusted Line,Virginia vs Miami Florida | Alternative Lines B,Virginia,4.5,240.0,2020-10-23 11:18
+2020-10-24,18:30 CDT,Minnesota U,Michigan,1st Half,Michigan vs Minnesota U | 1st Half Lines,Michigan,-2.0,-110.0,2020-10-23 11:18
+2020-10-24,18:30 CDT,Minnesota U,Michigan,1st Half,Michigan vs Minnesota U | 1st Half Lines,Minnesota U,2.0,-110.0,2020-10-23 11:18
+2020-10-24,18:30 CDT,Minnesota U,Michigan,Adjusted Line,Michigan vs Minnesota U | Alternative Lines A,Michigan,4.5,-215.0,2020-10-23 11:18
+2020-10-24,18:30 CDT,Minnesota U,Michigan,Adjusted Line,Michigan vs Minnesota U | Alternative Lines A,Minnesota U,-4.5,175.0,2020-10-23 11:18
+2020-10-24,18:30 CDT,Minnesota U,Michigan,Adjusted Line,Michigan vs Minnesota U | Alternative Lines B,Michigan,-10.5,230.0,2020-10-23 11:18
+2020-10-24,18:30 CDT,Minnesota U,Michigan,Adjusted Line,Michigan vs Minnesota U | Alternative Lines B,Minnesota U,10.5,-280.0,2020-10-23 11:18
+2020-10-24,11:00 CDT,Mississippi,Auburn,Adjusted Line,Auburn vs Mississippi | Alternative Lines A,Auburn,4.5,-230.0,2020-10-23 11:18
+2020-10-24,11:00 CDT,Mississippi,Auburn,Adjusted Line,Auburn vs Mississippi | Alternative Lines A,Mississippi,-4.5,180.0,2020-10-23 11:18
+2020-10-24,11:00 CDT,Mississippi,Auburn,Adjusted Line,Auburn vs Mississippi | Alternative Lines B,Auburn,-10.5,230.0,2020-10-23 11:18
+2020-10-24,11:00 CDT,Mississippi,Auburn,Adjusted Line,Auburn vs Mississippi | Alternative Lines B,Mississippi,10.5,-280.0,2020-10-23 11:18
+2020-10-24,15:00 CDT,Missouri,Kentucky,Adjusted Line,Kentucky vs Missouri | Alternative Lines A,Kentucky,3.5,-370.0,2020-10-23 11:18
+2020-10-24,15:00 CDT,Missouri,Kentucky,Adjusted Line,Kentucky vs Missouri | Alternative Lines A,Missouri,-3.5,270.0,2020-10-23 11:18
+2020-10-24,15:00 CDT,Missouri,Kentucky,Adjusted Line,Kentucky vs Missouri | Alternative Lines B,Kentucky,-10.5,170.0,2020-10-23 11:18
+2020-10-24,15:00 CDT,Missouri,Kentucky,Adjusted Line,Kentucky vs Missouri | Alternative Lines B,Missouri,10.5,-210.0,2020-10-23 11:18
+2020-10-24,14:30 CDT,Navy,Houston,Adjusted Line,Houston vs Navy | Alternative Lines A,Houston,-7.5,-240.0,2020-10-23 11:18
+2020-10-24,14:30 CDT,Navy,Houston,Adjusted Line,Houston vs Navy | Alternative Lines A,Navy,7.5,190.0,2020-10-23 11:18
+2020-10-24,14:30 CDT,Navy,Houston,Adjusted Line,Houston vs Navy | Alternative Lines B,Houston,-21.5,210.0,2020-10-23 11:18
+2020-10-24,14:30 CDT,Navy,Houston,Adjusted Line,Houston vs Navy | Alternative Lines B,Navy,21.5,-260.0,2020-10-23 11:18
+2020-10-24,18:00 CDT,Nevada,Wyoming,Adjusted Line,Wyoming vs Nevada | Alternative Lines A,Nevada,-3.5,230.0,2020-10-23 11:18
+2020-10-24,18:00 CDT,Nevada,Wyoming,Adjusted Line,Wyoming vs Nevada | Alternative Lines A,Wyoming,3.5,-280.0,2020-10-23 11:18
+2020-10-24,18:00 CDT,Nevada,Wyoming,Adjusted Line,Wyoming vs Nevada | Alternative Lines B,Nevada,11.5,-260.0,2020-10-23 11:18
+2020-10-24,18:00 CDT,Nevada,Wyoming,Adjusted Line,Wyoming vs Nevada | Alternative Lines B,Wyoming,-11.5,210.0,2020-10-23 11:18
+2020-10-24,11:00 CDT,North Carolina,NC State,Adjusted Line,NC State vs North Carolina | Alternative Lines A,NC State,24.5,-270.0,2020-10-23 11:18
+2020-10-24,11:00 CDT,North Carolina,NC State,Adjusted Line,NC State vs North Carolina | Alternative Lines A,North Carolina,-24.5,220.0,2020-10-23 11:18
+2020-10-24,11:00 CDT,North Carolina,NC State,Adjusted Line,NC State vs North Carolina | Alternative Lines B,NC State,10.5,140.0,2020-10-23 11:18
+2020-10-24,11:00 CDT,North Carolina,NC State,Adjusted Line,NC State vs North Carolina | Alternative Lines B,North Carolina,-10.5,-180.0,2020-10-23 11:18
+2020-10-24,18:30 CDT,Northwestern,Maryland,1st Half,Maryland vs Northwestern | 1st Half Lines,Maryland,6.5,-105.0,2020-10-23 11:18
+2020-10-24,18:30 CDT,Northwestern,Maryland,1st Half,Maryland vs Northwestern | 1st Half Lines,Northwestern,-6.5,-115.0,2020-10-23 11:18
+2020-10-24,18:30 CDT,Northwestern,Maryland,Adjusted Line,Maryland vs Northwestern | Alternative Lines A,Maryland,18.5,-250.0,2020-10-23 11:18
+2020-10-24,18:30 CDT,Northwestern,Maryland,Adjusted Line,Maryland vs Northwestern | Alternative Lines A,Northwestern,-18.5,200.0,2020-10-23 11:18
+2020-10-24,18:30 CDT,Northwestern,Maryland,Adjusted Line,Maryland vs Northwestern | Alternative Lines B,Maryland,4.5,220.0,2020-10-23 11:18
+2020-10-24,18:30 CDT,Northwestern,Maryland,Adjusted Line,Maryland vs Northwestern | Alternative Lines B,Northwestern,-4.5,-270.0,2020-10-23 11:18
+2020-10-24,11:00 CDT,Ohio State,Nebraska,Adjusted Line,Nebraska vs Ohio State | Alternative Lines A,Nebraska,33.5,-235.0,2020-10-23 11:18
+2020-10-24,11:00 CDT,Ohio State,Nebraska,Adjusted Line,Nebraska vs Ohio State | Alternative Lines A,Ohio State,-33.5,185.0,2020-10-23 11:18
+2020-10-24,11:00 CDT,Ohio State,Nebraska,Adjusted Line,Nebraska vs Ohio State | Alternative Lines B,Nebraska,18.5,195.0,2020-10-23 11:18
+2020-10-24,11:00 CDT,Ohio State,Nebraska,Adjusted Line,Nebraska vs Ohio State | Alternative Lines B,Ohio State,-18.5,-245.0,2020-10-23 11:18
+2020-10-24,14:30 CDT,Oklahoma State,Iowa State,Adjusted Line,Iowa State vs Oklahoma State | Alternative Lines A,Iowa State,10.5,-270.0,2020-10-23 11:18
+2020-10-24,14:30 CDT,Oklahoma State,Iowa State,Adjusted Line,Iowa State vs Oklahoma State | Alternative Lines A,Oklahoma State,-10.5,220.0,2020-10-23 11:18
+2020-10-24,14:30 CDT,Oklahoma State,Iowa State,Adjusted Line,Iowa State vs Oklahoma State | Alternative Lines B,Iowa State,-4.5,220.0,2020-10-23 11:18
+2020-10-24,14:30 CDT,Oklahoma State,Iowa State,Adjusted Line,Iowa State vs Oklahoma State | Alternative Lines B,Oklahoma State,4.5,-270.0,2020-10-23 11:18
+2020-10-24,14:30 CDT,Pittsburgh U,Notre Dame,Adjusted Line,Notre Dame vs Pittsburgh U | Alternative Lines A,Notre Dame,-3.5,-310.0,2020-10-23 11:18
+2020-10-24,14:30 CDT,Pittsburgh U,Notre Dame,Adjusted Line,Notre Dame vs Pittsburgh U | Alternative Lines A,Pittsburgh U,3.5,250.0,2020-10-23 11:18
+2020-10-24,14:30 CDT,Pittsburgh U,Notre Dame,Adjusted Line,Notre Dame vs Pittsburgh U | Alternative Lines B,Notre Dame,-17.5,185.0,2020-10-23 11:18
+2020-10-24,14:30 CDT,Pittsburgh U,Notre Dame,Adjusted Line,Notre Dame vs Pittsburgh U | Alternative Lines B,Pittsburgh U,17.5,-235.0,2020-10-23 11:18
+2020-10-24,14:30 CDT,Purdue,Iowa,Adjusted Line,Iowa vs Purdue | Alternative Lines A,Iowa,3.5,-250.0,2020-10-23 11:18
+2020-10-24,14:30 CDT,Purdue,Iowa,Adjusted Line,Iowa vs Purdue | Alternative Lines A,Purdue,-3.5,200.0,2020-10-23 11:18
+2020-10-24,14:30 CDT,Purdue,Iowa,Adjusted Line,Iowa vs Purdue | Alternative Lines B,Iowa,-10.5,200.0,2020-10-23 11:18
+2020-10-24,14:30 CDT,Purdue,Iowa,Adjusted Line,Iowa vs Purdue | Alternative Lines B,Purdue,10.5,-250.0,2020-10-23 11:18
+2020-10-24,14:30 CDT,Rice,Middle Tenn St,Adjusted Line,Middle Tenn St vs Rice | Alternative Lines A,Middle Tenn St,10.5,-260.0,2020-10-23 11:18
+2020-10-24,14:30 CDT,Rice,Middle Tenn St,Adjusted Line,Middle Tenn St vs Rice | Alternative Lines A,Rice,-10.5,210.0,2020-10-23 11:18
+2020-10-24,14:30 CDT,Rice,Middle Tenn St,Adjusted Line,Middle Tenn St vs Rice | Alternative Lines B,Middle Tenn St,-4.5,220.0,2020-10-23 11:18
+2020-10-24,14:30 CDT,Rice,Middle Tenn St,Adjusted Line,Middle Tenn St vs Rice | Alternative Lines B,Rice,4.5,-270.0,2020-10-23 11:18
+2020-10-24,20:00 CDT,SMU,Cincinnati,1st Half,Cincinnati vs SMU | 1st Half Lines,Cincinnati,1.0,-105.0,2020-10-23 11:18
+2020-10-24,20:00 CDT,SMU,Cincinnati,1st Half,Cincinnati vs SMU | 1st Half Lines,SMU,-1.0,-115.0,2020-10-23 11:18
+2020-10-24,20:00 CDT,SMU,Cincinnati,Adjusted Line,Cincinnati vs SMU | Alternative Lines A,Cincinnati,9.5,-280.0,2020-10-23 11:18
+2020-10-24,20:00 CDT,SMU,Cincinnati,Adjusted Line,Cincinnati vs SMU | Alternative Lines A,SMU,-9.5,230.0,2020-10-23 11:18
+2020-10-24,20:00 CDT,SMU,Cincinnati,Adjusted Line,Cincinnati vs SMU | Alternative Lines B,Cincinnati,-4.5,160.0,2020-10-23 11:18
+2020-10-24,20:00 CDT,SMU,Cincinnati,Adjusted Line,Cincinnati vs SMU | Alternative Lines B,SMU,4.5,-200.0,2020-10-23 11:18
+2020-10-24,21:30 CDT,San Diego State,UNLV,1st Half,UNLV vs San Diego State | 1st Half Lines,San Diego State,-7.5,-110.0,2020-10-23 11:18
+2020-10-24,21:30 CDT,San Diego State,UNLV,1st Half,UNLV vs San Diego State | 1st Half Lines,UNLV,7.5,-110.0,2020-10-23 11:18
+2020-10-24,21:30 CDT,San Diego State,UNLV,Adjusted Line,UNLV vs San Diego State | Alternative Lines A,San Diego State,-21.5,200.0,2020-10-23 11:18
+2020-10-24,21:30 CDT,San Diego State,UNLV,Adjusted Line,UNLV vs San Diego State | Alternative Lines A,UNLV,21.5,-250.0,2020-10-23 11:18
+2020-10-24,21:30 CDT,San Diego State,UNLV,Adjusted Line,UNLV vs San Diego State | Alternative Lines B,San Diego State,-7.5,-260.0,2020-10-23 11:18
+2020-10-24,21:30 CDT,San Diego State,UNLV,Adjusted Line,UNLV vs San Diego State | Alternative Lines B,UNLV,7.5,210.0,2020-10-23 11:18
+2020-10-24,21:30 CDT,San Jose State,Air Force,1st Half,Air Force vs San Jose State | 1st Half Lines,Air Force,-3.5,-115.0,2020-10-23 11:18
+2020-10-24,21:30 CDT,San Jose State,Air Force,1st Half,Air Force vs San Jose State | 1st Half Lines,Over,31.0,-110.0,2020-10-23 11:18
+2020-10-24,21:30 CDT,San Jose State,Air Force,1st Half,Air Force vs San Jose State | 1st Half Lines,San Jose State,3.5,-105.0,2020-10-23 11:18
+2020-10-24,21:30 CDT,San Jose State,Air Force,1st Half,Air Force vs San Jose State | 1st Half Lines,Under,31.0,-110.0,2020-10-23 11:18
+2020-10-24,21:30 CDT,San Jose State,Air Force,Adjusted Line,Air Force vs San Jose State | Alternative Lines A,Air Force,-3.5,-200.0,2020-10-23 11:18
+2020-10-24,21:30 CDT,San Jose State,Air Force,Adjusted Line,Air Force vs San Jose State | Alternative Lines A,San Jose State,3.5,160.0,2020-10-23 11:18
+2020-10-24,21:30 CDT,San Jose State,Air Force,Adjusted Line,Air Force vs San Jose State | Alternative Lines B,Air Force,-14.5,180.0,2020-10-23 11:18
+2020-10-24,21:30 CDT,San Jose State,Air Force,Adjusted Line,Air Force vs San Jose State | Alternative Lines B,San Jose State,14.5,-230.0,2020-10-23 11:18
+2020-10-24,18:00 CDT,South Alabama,UL Monroe,Adjusted Line,UL Monroe vs South Alabama | Alternative Lines A,South Alabama,-21.5,180.0,2020-10-23 11:18
+2020-10-24,18:00 CDT,South Alabama,UL Monroe,Adjusted Line,UL Monroe vs South Alabama | Alternative Lines A,UL Monroe,21.5,-230.0,2020-10-23 11:18
+2020-10-24,18:00 CDT,South Alabama,UL Monroe,Adjusted Line,UL Monroe vs South Alabama | Alternative Lines B,South Alabama,-7.5,-250.0,2020-10-23 11:18
+2020-10-24,18:00 CDT,South Alabama,UL Monroe,Adjusted Line,UL Monroe vs South Alabama | Alternative Lines B,UL Monroe,7.5,200.0,2020-10-23 11:18
+2020-10-24,11:00 CDT,TCU,Oklahoma,Adjusted Line,Oklahoma vs TCU | Alternative Lines A,Oklahoma,-3.5,-175.0,2020-10-23 11:18
+2020-10-24,11:00 CDT,TCU,Oklahoma,Adjusted Line,Oklahoma vs TCU | Alternative Lines A,TCU,3.5,135.0,2020-10-23 11:18
+2020-10-24,11:00 CDT,TCU,Oklahoma,Adjusted Line,Oklahoma vs TCU | Alternative Lines B,Oklahoma,-14.5,200.0,2020-10-23 11:18
+2020-10-24,11:00 CDT,TCU,Oklahoma,Adjusted Line,Oklahoma vs TCU | Alternative Lines B,TCU,14.5,-250.0,2020-10-23 11:18
+2020-10-24,14:30 CDT,Tennessee U,Alabama,Adjusted Line,Alabama vs Tennessee U | Alternative Lines A,Alabama,-14.5,-215.0,2020-10-23 11:18
+2020-10-24,14:30 CDT,Tennessee U,Alabama,Adjusted Line,Alabama vs Tennessee U | Alternative Lines A,Tennessee U,14.5,175.0,2020-10-23 11:18
+2020-10-24,14:30 CDT,Tennessee U,Alabama,Adjusted Line,Alabama vs Tennessee U | Alternative Lines B,Alabama,-28.5,200.0,2020-10-23 11:18
+2020-10-24,14:30 CDT,Tennessee U,Alabama,Adjusted Line,Alabama vs Tennessee U | Alternative Lines B,Tennessee U,28.5,-250.0,2020-10-23 11:18
+2020-10-24,14:30 CDT,Texas,Baylor,Adjusted Line,Baylor vs Texas | Alternative Lines A,Baylor,16.5,-215.0,2020-10-23 11:18
+2020-10-24,14:30 CDT,Texas,Baylor,Adjusted Line,Baylor vs Texas | Alternative Lines A,Texas,-16.5,175.0,2020-10-23 11:18
+2020-10-24,14:30 CDT,Texas,Baylor,Adjusted Line,Baylor vs Texas | Alternative Lines B,Baylor,3.5,185.0,2020-10-23 11:18
+2020-10-24,14:30 CDT,Texas,Baylor,Adjusted Line,Baylor vs Texas | Alternative Lines B,Texas,-3.5,-235.0,2020-10-23 11:18
+2020-10-24,16:30 CDT,Texas Tech,West Virginia,Adjusted Line,West Virginia vs Texas Tech | Alternative Lines A,Texas Tech,-4.5,185.0,2020-10-23 11:18
+2020-10-24,16:30 CDT,Texas Tech,West Virginia,Adjusted Line,West Virginia vs Texas Tech | Alternative Lines A,West Virginia,4.5,-235.0,2020-10-23 11:18
+2020-10-24,16:30 CDT,Texas Tech,West Virginia,Adjusted Line,West Virginia vs Texas Tech | Alternative Lines B,Texas Tech,10.5,-280.0,2020-10-23 11:18
+2020-10-24,16:30 CDT,Texas Tech,West Virginia,Adjusted Line,West Virginia vs Texas Tech | Alternative Lines B,West Virginia,-10.5,230.0,2020-10-23 11:18
+2020-10-24,15:00 CDT,Troy,Georgia State,Adjusted Line,Georgia State vs Troy | Alternative Lines A,Georgia State,9.5,-260.0,2020-10-23 11:18
+2020-10-24,15:00 CDT,Troy,Georgia State,Adjusted Line,Georgia State vs Troy | Alternative Lines A,Troy,-9.5,210.0,2020-10-23 11:18
+2020-10-24,15:00 CDT,Troy,Georgia State,Adjusted Line,Georgia State vs Troy | Alternative Lines B,Georgia State,-4.5,160.0,2020-10-23 11:18
+2020-10-24,15:00 CDT,Troy,Georgia State,Adjusted Line,Georgia State vs Troy | Alternative Lines B,Troy,4.5,-200.0,2020-10-23 11:18
+2020-10-24,19:00 CDT,UTSA,Louisiana Tech,1st Half,Louisiana Tech vs UTSA | 1st Half Lines,Louisiana Tech,-1.0,-110.0,2020-10-23 11:18
+2020-10-24,19:00 CDT,UTSA,Louisiana Tech,1st Half,Louisiana Tech vs UTSA | 1st Half Lines,UTSA,1.0,-110.0,2020-10-23 11:18
+2020-10-24,19:00 CDT,UTSA,Louisiana Tech,Adjusted Line,Louisiana Tech vs UTSA | Alternative Lines A,Louisiana Tech,4.5,-200.0,2020-10-23 11:18
+2020-10-24,19:00 CDT,UTSA,Louisiana Tech,Adjusted Line,Louisiana Tech vs UTSA | Alternative Lines A,UTSA,-4.5,160.0,2020-10-23 11:18
+2020-10-24,19:00 CDT,UTSA,Louisiana Tech,Adjusted Line,Louisiana Tech vs UTSA | Alternative Lines B,Louisiana Tech,-9.5,230.0,2020-10-23 11:18
+2020-10-24,19:00 CDT,UTSA,Louisiana Tech,Adjusted Line,Louisiana Tech vs UTSA | Alternative Lines B,UTSA,9.5,-280.0,2020-10-23 11:18
+2020-10-24,14:30 CDT,Wake Forest,Virginia Tech,Adjusted Line,Virginia Tech vs Wake Forest | Alternative Lines A,Virginia Tech,-3.5,-240.0,2020-10-23 11:18
+2020-10-24,14:30 CDT,Wake Forest,Virginia Tech,Adjusted Line,Virginia Tech vs Wake Forest | Alternative Lines A,Wake Forest,3.5,190.0,2020-10-23 11:18
+2020-10-24,14:30 CDT,Wake Forest,Virginia Tech,Adjusted Line,Virginia Tech vs Wake Forest | Alternative Lines B,Virginia Tech,-17.5,185.0,2020-10-23 11:18
+2020-10-24,14:30 CDT,Wake Forest,Virginia Tech,Adjusted Line,Virginia Tech vs Wake Forest | Alternative Lines B,Wake Forest,17.5,-235.0,2020-10-23 11:18
+2020-10-23,18:30 CDT,South Florida,Tulsa,1st Half,Tulsa vs South Florida | 1st Half Lines,South Florida,,240.0,2020-10-23 13:07
+2020-10-23,18:30 CDT,South Florida,Tulsa,1st Half,Tulsa vs South Florida | 1st Half Lines,Tulsa,,-300.0,2020-10-23 13:07
+2020-10-23,18:30 CDT,Under,Over,Team Totals,Tulsa vs South Florida | South Florida Total Points,Over,20.0,100.0,2020-10-23 13:07
+2020-10-23,18:30 CDT,Under,Over,Team Totals,Tulsa vs South Florida | South Florida Total Points,Under,20.0,-120.0,2020-10-23 13:07
+2020-10-23,19:00 CDT,Under,Over,Team Totals,UL Lafayette vs UAB | UL Lafayette Total Points,Over,27.0,-110.0,2020-10-23 13:07
+2020-10-23,19:00 CDT,Under,Over,Team Totals,UL Lafayette vs UAB | UL Lafayette Total Points,Under,27.0,-110.0,2020-10-23 13:07
+2020-10-23,19:00 CDT,Wisconsin,Illinois,1st Half,Illinois vs Wisconsin | 1st Half Lines,Illinois,,500.0,2020-10-23 13:07
+2020-10-23,19:00 CDT,Wisconsin,Illinois,1st Half,Illinois vs Wisconsin | 1st Half Lines,Wisconsin,,-750.0,2020-10-23 13:07
+2020-10-24,18:00 CDT,Boise State,Utah State,1st Half,Utah State vs Boise State | 1st Half Lines,Boise State,,-550.0,2020-10-23 13:07
+2020-10-24,18:00 CDT,Boise State,Utah State,1st Half,Utah State vs Boise State | 1st Half Lines,Utah State,,400.0,2020-10-23 13:07
+2020-10-24,15:00 CDT,Boston College,Georgia Tech,1st Half,Georgia Tech vs Boston College | 1st Half Lines,Boston College,,-145.0,2020-10-23 13:07
+2020-10-24,15:00 CDT,Boston College,Georgia Tech,1st Half,Georgia Tech vs Boston College | 1st Half Lines,Georgia Tech,,125.0,2020-10-23 13:07
+2020-10-24,13:00 CDT,Central Florida,Tulane,1st Half,Tulane vs Central Florida | 1st Half Lines,Central Florida,,-600.0,2020-10-23 13:07
+2020-10-24,13:00 CDT,Central Florida,Tulane,1st Half,Tulane vs Central Florida | 1st Half Lines,Tulane,,425.0,2020-10-23 13:07
+2020-10-24,11:00 CDT,Charlotte,UTEP,1st Half,UTEP vs Charlotte | 1st Half Lines,Charlotte,,-500.0,2020-10-23 13:07
+2020-10-24,11:00 CDT,Charlotte,UTEP,1st Half,UTEP vs Charlotte | 1st Half Lines,Charlotte,-8.0,-110.0,2020-10-23 13:07
+2020-10-24,11:00 CDT,Charlotte,UTEP,1st Half,UTEP vs Charlotte | 1st Half Lines,UTEP,,350.0,2020-10-23 13:07
+2020-10-24,11:00 CDT,Charlotte,UTEP,1st Half,UTEP vs Charlotte | 1st Half Lines,UTEP,8.0,-110.0,2020-10-23 13:07
+2020-10-24,11:00 CDT,Coastal Carolina,Georgia Southern,1st Half,Georgia Southern vs Coastal Carolina | 1st Half Lines,Coastal Carolina,,-200.0,2020-10-23 13:07
+2020-10-24,11:00 CDT,Coastal Carolina,Georgia Southern,1st Half,Georgia Southern vs Coastal Carolina | 1st Half Lines,Georgia Southern,,170.0,2020-10-23 13:07
+2020-10-24,18:30 CDT,Fresno State,Hawaii,1st Half,Hawaii vs Fresno State | 1st Half Lines,Fresno State,,-155.0,2020-10-23 13:07
+2020-10-24,18:30 CDT,Fresno State,Hawaii,1st Half,Hawaii vs Fresno State | 1st Half Lines,Hawaii,,135.0,2020-10-23 13:07
+2020-10-24,14:30 CDT,Indiana,Penn State,1st Half,Penn State vs Indiana | 1st Half Lines,Indiana,,165.0,2020-10-23 13:07
+2020-10-24,14:30 CDT,Indiana,Penn State,1st Half,Penn State vs Indiana | 1st Half Lines,Penn State,,-185.0,2020-10-23 13:07
+2020-10-24,11:00 CDT,Kansas State,Kansas,1st Half,Kansas vs Kansas State | 1st Half Lines,Kansas,,500.0,2020-10-23 13:07
+2020-10-24,11:00 CDT,Kansas State,Kansas,1st Half,Kansas vs Kansas State | 1st Half Lines,Kansas State,,-800.0,2020-10-23 13:07
+2020-10-24,18:00 CDT,LSU,South Carolina,1st Half,South Carolina vs LSU | 1st Half Lines,LSU,,-185.0,2020-10-23 13:07
+2020-10-24,18:00 CDT,LSU,South Carolina,1st Half,South Carolina vs LSU | 1st Half Lines,South Carolina,,165.0,2020-10-23 13:07
+2020-10-24,12:00 CDT,Liberty,Southern Miss,1st Half,Southern Miss vs Liberty | 1st Half Lines,Liberty,,-360.0,2020-10-23 13:07
+2020-10-24,12:00 CDT,Liberty,Southern Miss,1st Half,Southern Miss vs Liberty | 1st Half Lines,Southern Miss,,300.0,2020-10-23 13:07
+2020-10-24,11:00 CDT,Louisville,Florida State,1st Half,Florida State vs Louisville | 1st Half Lines,Florida State,,150.0,2020-10-23 13:07
+2020-10-24,11:00 CDT,Louisville,Florida State,1st Half,Florida State vs Louisville | 1st Half Lines,Louisville,,-170.0,2020-10-23 13:07
+2020-10-24,13:30 CDT,Marshall,Florida Atlantic,1st Half,Florida Atlantic vs Marshall | 1st Half Lines,Florida Atlantic,,400.0,2020-10-23 13:07
+2020-10-24,13:30 CDT,Marshall,Florida Atlantic,1st Half,Florida Atlantic vs Marshall | 1st Half Lines,Marshall,,-550.0,2020-10-23 13:07
+2020-10-24,11:00 CDT,Memphis,Temple,1st Half,Temple vs Memphis | 1st Half Lines,Memphis,,-380.0,2020-10-23 13:07
+2020-10-24,11:00 CDT,Memphis,Temple,1st Half,Temple vs Memphis | 1st Half Lines,Temple,,310.0,2020-10-23 13:07
+2020-10-24,19:00 CDT,Miami Florida,Virginia,1st Half,Virginia vs Miami Florida | 1st Half Lines,Miami Florida,,-350.0,2020-10-23 13:07
+2020-10-24,19:00 CDT,Miami Florida,Virginia,1st Half,Virginia vs Miami Florida | 1st Half Lines,Virginia,,280.0,2020-10-23 13:07
+2020-10-24,11:00 CDT,Michigan State,Rutgers,1st Half,Rutgers vs Michigan State | 1st Half Lines,Michigan State,,-380.0,2020-10-23 13:07
+2020-10-24,11:00 CDT,Michigan State,Rutgers,1st Half,Rutgers vs Michigan State | 1st Half Lines,Rutgers,,310.0,2020-10-23 13:07
+2020-10-24,18:30 CDT,Minnesota U,Michigan,1st Half,Michigan vs Minnesota U | 1st Half Lines,Michigan,,-135.0,2020-10-23 13:07
+2020-10-24,18:30 CDT,Minnesota U,Michigan,1st Half,Michigan vs Minnesota U | 1st Half Lines,Minnesota U,,115.0,2020-10-23 13:07
+2020-10-24,11:00 CDT,Mississippi,Auburn,1st Half,Auburn vs Mississippi | 1st Half Lines,Auburn,,-135.0,2020-10-23 13:07
+2020-10-24,11:00 CDT,Mississippi,Auburn,1st Half,Auburn vs Mississippi | 1st Half Lines,Mississippi,,115.0,2020-10-23 13:07
+2020-10-24,15:00 CDT,Missouri,Kentucky,1st Half,Kentucky vs Missouri | 1st Half Lines,Kentucky,,-160.0,2020-10-23 13:07
+2020-10-24,15:00 CDT,Missouri,Kentucky,1st Half,Kentucky vs Missouri | 1st Half Lines,Kentucky,-3.0,100.0,2020-10-23 13:07
+2020-10-24,15:00 CDT,Missouri,Kentucky,1st Half,Kentucky vs Missouri | 1st Half Lines,Missouri,,140.0,2020-10-23 13:07
+2020-10-24,15:00 CDT,Missouri,Kentucky,1st Half,Kentucky vs Missouri | 1st Half Lines,Missouri,3.0,-120.0,2020-10-23 13:07
+2020-10-24,14:30 CDT,Navy,Houston,1st Half,Houston vs Navy | 1st Half Lines,Houston,,-400.0,2020-10-23 13:07
+2020-10-24,14:30 CDT,Navy,Houston,1st Half,Houston vs Navy | 1st Half Lines,Navy,,320.0,2020-10-23 13:07
+2020-10-24,18:00 CDT,Nevada,Wyoming,1st Half,Wyoming vs Nevada | 1st Half Lines,Nevada,,145.0,2020-10-23 13:07
+2020-10-24,18:00 CDT,Nevada,Wyoming,1st Half,Wyoming vs Nevada | 1st Half Lines,Wyoming,,-165.0,2020-10-23 13:07
+2020-10-24,11:00 CDT,North Carolina,NC State,1st Half,NC State vs North Carolina | 1st Half Lines,NC State,,350.0,2020-10-23 13:07
+2020-10-24,11:00 CDT,North Carolina,NC State,1st Half,NC State vs North Carolina | 1st Half Lines,North Carolina,,-475.0,2020-10-23 13:07
+2020-10-24,18:30 CDT,Northwestern,Maryland,1st Half,Maryland vs Northwestern | 1st Half Lines,Maryland,,270.0,2020-10-23 13:07
+2020-10-24,18:30 CDT,Northwestern,Maryland,1st Half,Maryland vs Northwestern | 1st Half Lines,Northwestern,,-330.0,2020-10-23 13:07
+2020-10-24,11:00 CDT,Ohio State,Nebraska,1st Half,Nebraska vs Ohio State | 1st Half Lines,Nebraska,,800.0,2020-10-23 13:07
+2020-10-24,11:00 CDT,Ohio State,Nebraska,1st Half,Nebraska vs Ohio State | 1st Half Lines,Ohio State,,-1400.0,2020-10-23 13:07
+2020-10-24,14:30 CDT,Oklahoma State,Iowa State,1st Half,Iowa State vs Oklahoma State | 1st Half Lines,Iowa State,2.5,105.0,2020-10-23 13:07
+2020-10-24,14:30 CDT,Oklahoma State,Iowa State,1st Half,Iowa State vs Oklahoma State | 1st Half Lines,Oklahoma State,-2.5,-125.0,2020-10-23 13:07
+2020-10-24,14:30 CDT,Pittsburgh U,Notre Dame,1st Half,Notre Dame vs Pittsburgh U | 1st Half Lines,Notre Dame,,-270.0,2020-10-23 13:07
+2020-10-24,14:30 CDT,Pittsburgh U,Notre Dame,1st Half,Notre Dame vs Pittsburgh U | 1st Half Lines,Pittsburgh U,,230.0,2020-10-23 13:07
+2020-10-24,14:30 CDT,Purdue,Iowa,1st Half,Iowa vs Purdue | 1st Half Lines,Iowa,,-150.0,2020-10-23 13:07
+2020-10-24,14:30 CDT,Purdue,Iowa,1st Half,Iowa vs Purdue | 1st Half Lines,Over,26.5,-110.0,2020-10-23 13:07
+2020-10-24,14:30 CDT,Purdue,Iowa,1st Half,Iowa vs Purdue | 1st Half Lines,Purdue,,130.0,2020-10-23 13:07
+2020-10-24,14:30 CDT,Purdue,Iowa,1st Half,Iowa vs Purdue | 1st Half Lines,Under,26.5,-110.0,2020-10-23 13:07
+2020-10-24,14:30 CDT,Rice,Middle Tenn St,1st Half,Middle Tenn St vs Rice | 1st Half Lines,Middle Tenn St,,135.0,2020-10-23 13:07
+2020-10-24,14:30 CDT,Rice,Middle Tenn St,1st Half,Middle Tenn St vs Rice | 1st Half Lines,Rice,,-155.0,2020-10-23 13:07
+2020-10-24,20:00 CDT,SMU,Cincinnati,1st Half,Cincinnati vs SMU | 1st Half Lines,Cincinnati,,105.0,2020-10-23 13:07
+2020-10-24,20:00 CDT,SMU,Cincinnati,1st Half,Cincinnati vs SMU | 1st Half Lines,SMU,,-125.0,2020-10-23 13:07
+2020-10-24,21:30 CDT,San Diego State,UNLV,1st Half,UNLV vs San Diego State | 1st Half Lines,San Diego State,,-500.0,2020-10-23 13:07
+2020-10-24,21:30 CDT,San Diego State,UNLV,1st Half,UNLV vs San Diego State | 1st Half Lines,UNLV,,350.0,2020-10-23 13:07
+2020-10-24,21:30 CDT,San Jose State,Air Force,1st Half,Air Force vs San Jose State | 1st Half Lines,Air Force,,-210.0,2020-10-23 13:07
+2020-10-24,21:30 CDT,San Jose State,Air Force,1st Half,Air Force vs San Jose State | 1st Half Lines,San Jose State,,175.0,2020-10-23 13:07
+2020-10-24,18:00 CDT,South Alabama,UL Monroe,1st Half,UL Monroe vs South Alabama | 1st Half Lines,South Alabama,,-500.0,2020-10-23 13:07
+2020-10-24,18:00 CDT,South Alabama,UL Monroe,1st Half,UL Monroe vs South Alabama | 1st Half Lines,UL Monroe,,350.0,2020-10-23 13:07
+2020-10-24,11:00 CDT,TCU,Oklahoma,1st Half,Oklahoma vs TCU | 1st Half Lines,Oklahoma,,-185.0,2020-10-23 13:07
+2020-10-24,11:00 CDT,TCU,Oklahoma,1st Half,Oklahoma vs TCU | 1st Half Lines,TCU,,165.0,2020-10-23 13:07
+2020-10-24,14:30 CDT,Tennessee U,Alabama,1st Half,Alabama vs Tennessee U | 1st Half Lines,Alabama,,-800.0,2020-10-23 13:07
+2020-10-24,14:30 CDT,Tennessee U,Alabama,1st Half,Alabama vs Tennessee U | 1st Half Lines,Tennessee U,,500.0,2020-10-23 13:07
+2020-10-24,14:30 CDT,Texas,Baylor,1st Half,Baylor vs Texas | 1st Half Lines,Baylor,,220.0,2020-10-23 13:07
+2020-10-24,14:30 CDT,Texas,Baylor,1st Half,Baylor vs Texas | 1st Half Lines,Texas,,-270.0,2020-10-23 13:07
+2020-10-24,16:30 CDT,Texas Tech,West Virginia,1st Half,West Virginia vs Texas Tech | 1st Half Lines,Texas Tech,,120.0,2020-10-23 13:07
+2020-10-24,16:30 CDT,Texas Tech,West Virginia,1st Half,West Virginia vs Texas Tech | 1st Half Lines,West Virginia,,-140.0,2020-10-23 13:07
+2020-10-24,15:00 CDT,Troy,Georgia State,1st Half,Georgia State vs Troy | 1st Half Lines,Georgia State,,110.0,2020-10-23 13:07
+2020-10-24,15:00 CDT,Troy,Georgia State,1st Half,Georgia State vs Troy | 1st Half Lines,Troy,,-130.0,2020-10-23 13:07
+2020-10-24,19:00 CDT,UTSA,Louisiana Tech,1st Half,Louisiana Tech vs UTSA | 1st Half Lines,Louisiana Tech,,-125.0,2020-10-23 13:07
+2020-10-24,19:00 CDT,UTSA,Louisiana Tech,1st Half,Louisiana Tech vs UTSA | 1st Half Lines,UTSA,,105.0,2020-10-23 13:07
+2020-10-24,11:00 CDT,Under,Over,1st Half Team Totals,Florida State vs Louisville | Florida State 1st Half Points,Over,13.5,-110.0,2020-10-23 13:07
+2020-10-24,11:00 CDT,Under,Over,1st Half Team Totals,Florida State vs Louisville | Florida State 1st Half Points,Under,13.5,-110.0,2020-10-23 13:07
+2020-10-24,11:00 CDT,Under,Over,1st Half Team Totals,Florida State vs Louisville | Louisville 1st Half Points,Over,16.5,-110.0,2020-10-23 13:07
+2020-10-24,11:00 CDT,Under,Over,1st Half Team Totals,Florida State vs Louisville | Louisville 1st Half Points,Under,16.5,-110.0,2020-10-23 13:07
+2020-10-24,15:00 CDT,Under,Over,1st Half Team Totals,Georgia Tech vs Boston College | Boston College 1st Half Points,Over,14.5,-110.0,2020-10-23 13:07
+2020-10-24,15:00 CDT,Under,Over,1st Half Team Totals,Georgia Tech vs Boston College | Boston College 1st Half Points,Under,14.5,-110.0,2020-10-23 13:07
+2020-10-24,15:00 CDT,Under,Over,1st Half Team Totals,Georgia Tech vs Boston College | Georgia Tech 1st Half Points,Over,12.0,-110.0,2020-10-23 13:07
+2020-10-24,15:00 CDT,Under,Over,1st Half Team Totals,Georgia Tech vs Boston College | Georgia Tech 1st Half Points,Under,12.0,-110.0,2020-10-23 13:07
+2020-10-24,14:30 CDT,Under,Over,Team Totals,Iowa vs Purdue | Iowa Total Points,Over,28.0,-110.0,2020-10-23 13:07
+2020-10-24,14:30 CDT,Under,Over,Team Totals,Iowa vs Purdue | Iowa Total Points,Under,28.0,-110.0,2020-10-23 13:07
+2020-10-24,14:30 CDT,Under,Over,Team Totals,Iowa vs Purdue | Purdue Total Points,Over,24.5,-110.0,2020-10-23 13:07
+2020-10-24,14:30 CDT,Under,Over,Team Totals,Iowa vs Purdue | Purdue Total Points,Under,24.5,-110.0,2020-10-23 13:07
+2020-10-24,19:00 CDT,Under,Over,Team Totals,Virginia vs Miami Florida | Virginia Total Points,Over,20.5,-110.0,2020-10-23 13:07
+2020-10-24,19:00 CDT,Under,Over,Team Totals,Virginia vs Miami Florida | Virginia Total Points,Under,20.5,-110.0,2020-10-23 13:07
+2020-10-24,14:30 CDT,Wake Forest,Virginia Tech,1st Half,Virginia Tech vs Wake Forest | 1st Half Lines,Virginia Tech,,-270.0,2020-10-23 13:07
+2020-10-24,14:30 CDT,Wake Forest,Virginia Tech,1st Half,Virginia Tech vs Wake Forest | 1st Half Lines,Wake Forest,,230.0,2020-10-23 13:07
+2020-10-23,18:30 CDT,South Florida,Tulsa,1st Half,Tulsa vs South Florida | 1st Half Lines,South Florida,,255.0,2020-10-23 14:30
+2020-10-23,18:30 CDT,South Florida,Tulsa,1st Half,Tulsa vs South Florida | 1st Half Lines,South Florida,7.0,-110.0,2020-10-23 14:30
+2020-10-23,18:30 CDT,South Florida,Tulsa,1st Half,Tulsa vs South Florida | 1st Half Lines,South Florida,,255.0,2020-10-23 14:30
+2020-10-23,18:30 CDT,South Florida,Tulsa,1st Half,Tulsa vs South Florida | 1st Half Lines,Tulsa,,-310.0,2020-10-23 14:30
+2020-10-23,18:30 CDT,South Florida,Tulsa,1st Half,Tulsa vs South Florida | 1st Half Lines,Tulsa,-7.0,-110.0,2020-10-23 14:30
+2020-10-23,18:30 CDT,South Florida,Tulsa,1st Half,Tulsa vs South Florida | 1st Half Lines,Tulsa,,-310.0,2020-10-23 14:30
+2020-10-23,19:00 CDT,Wisconsin,Illinois,1st Half,Illinois vs Wisconsin | 1st Half Lines,Illinois,10.5,-110.0,2020-10-23 14:30
+2020-10-23,19:00 CDT,Wisconsin,Illinois,1st Half,Illinois vs Wisconsin | 1st Half Lines,Illinois,,500.0,2020-10-23 14:30
+2020-10-23,19:00 CDT,Wisconsin,Illinois,1st Half,Illinois vs Wisconsin | 1st Half Lines,Wisconsin,-10.5,-110.0,2020-10-23 14:30
+2020-10-23,19:00 CDT,Wisconsin,Illinois,1st Half,Illinois vs Wisconsin | 1st Half Lines,Wisconsin,,-750.0,2020-10-23 14:30
+2020-10-24,18:00 CDT,Boise State,Utah State,1st Half,Utah State vs Boise State | 1st Half Lines,Boise State,-9.5,-110.0,2020-10-23 14:30
+2020-10-24,18:00 CDT,Boise State,Utah State,1st Half,Utah State vs Boise State | 1st Half Lines,Boise State,,-550.0,2020-10-23 14:30
+2020-10-24,18:00 CDT,Boise State,Utah State,1st Half,Utah State vs Boise State | 1st Half Lines,Utah State,9.5,-110.0,2020-10-23 14:30
+2020-10-24,18:00 CDT,Boise State,Utah State,1st Half,Utah State vs Boise State | 1st Half Lines,Utah State,,400.0,2020-10-23 14:30
+2020-10-24,15:00 CDT,Boston College,Georgia Tech,1st Half,Georgia Tech vs Boston College | 1st Half Lines,Boston College,-2.5,-110.0,2020-10-23 14:30
+2020-10-24,15:00 CDT,Boston College,Georgia Tech,1st Half,Georgia Tech vs Boston College | 1st Half Lines,Boston College,,-145.0,2020-10-23 14:30
+2020-10-24,15:00 CDT,Boston College,Georgia Tech,1st Half,Georgia Tech vs Boston College | 1st Half Lines,Georgia Tech,2.5,-110.0,2020-10-23 14:30
+2020-10-24,15:00 CDT,Boston College,Georgia Tech,1st Half,Georgia Tech vs Boston College | 1st Half Lines,Georgia Tech,,125.0,2020-10-23 14:30
+2020-10-24,13:00 CDT,Central Florida,Tulane,1st Half,Tulane vs Central Florida | 1st Half Lines,Central Florida,-10.5,-110.0,2020-10-23 14:30
+2020-10-24,13:00 CDT,Central Florida,Tulane,1st Half,Tulane vs Central Florida | 1st Half Lines,Central Florida,,-600.0,2020-10-23 14:30
+2020-10-24,13:00 CDT,Central Florida,Tulane,1st Half,Tulane vs Central Florida | 1st Half Lines,Tulane,10.5,-110.0,2020-10-23 14:30
+2020-10-24,13:00 CDT,Central Florida,Tulane,1st Half,Tulane vs Central Florida | 1st Half Lines,Tulane,,425.0,2020-10-23 14:30
+2020-10-24,11:00 CDT,Charlotte,UTEP,1st Half,UTEP vs Charlotte | 1st Half Lines,Charlotte,,-500.0,2020-10-23 14:30
+2020-10-24,11:00 CDT,Charlotte,UTEP,1st Half,UTEP vs Charlotte | 1st Half Lines,Charlotte,-8.0,-110.0,2020-10-23 14:30
+2020-10-24,11:00 CDT,Charlotte,UTEP,1st Half,UTEP vs Charlotte | 1st Half Lines,UTEP,,350.0,2020-10-23 14:30
+2020-10-24,11:00 CDT,Charlotte,UTEP,1st Half,UTEP vs Charlotte | 1st Half Lines,UTEP,8.0,-110.0,2020-10-23 14:30
+2020-10-24,11:00 CDT,Coastal Carolina,Georgia Southern,1st Half,Georgia Southern vs Coastal Carolina | 1st Half Lines,Coastal Carolina,,-185.0,2020-10-23 14:30
+2020-10-24,11:00 CDT,Coastal Carolina,Georgia Southern,1st Half,Georgia Southern vs Coastal Carolina | 1st Half Lines,Coastal Carolina,-3.0,-115.0,2020-10-23 14:30
+2020-10-24,11:00 CDT,Coastal Carolina,Georgia Southern,1st Half,Georgia Southern vs Coastal Carolina | 1st Half Lines,Coastal Carolina,,-185.0,2020-10-23 14:30
+2020-10-24,11:00 CDT,Coastal Carolina,Georgia Southern,1st Half,Georgia Southern vs Coastal Carolina | 1st Half Lines,Georgia Southern,,165.0,2020-10-23 14:30
+2020-10-24,11:00 CDT,Coastal Carolina,Georgia Southern,1st Half,Georgia Southern vs Coastal Carolina | 1st Half Lines,Georgia Southern,3.0,-105.0,2020-10-23 14:30
+2020-10-24,11:00 CDT,Coastal Carolina,Georgia Southern,1st Half,Georgia Southern vs Coastal Carolina | 1st Half Lines,Georgia Southern,,165.0,2020-10-23 14:30
+2020-10-24,18:30 CDT,Fresno State,Hawaii,1st Half,Hawaii vs Fresno State | 1st Half Lines,Fresno State,-2.5,-110.0,2020-10-23 14:30
+2020-10-24,18:30 CDT,Fresno State,Hawaii,1st Half,Hawaii vs Fresno State | 1st Half Lines,Fresno State,,-155.0,2020-10-23 14:30
+2020-10-24,18:30 CDT,Fresno State,Hawaii,1st Half,Hawaii vs Fresno State | 1st Half Lines,Hawaii,2.5,-110.0,2020-10-23 14:30
+2020-10-24,18:30 CDT,Fresno State,Hawaii,1st Half,Hawaii vs Fresno State | 1st Half Lines,Hawaii,,135.0,2020-10-23 14:30
+2020-10-24,14:30 CDT,Indiana,Penn State,1st Half,Penn State vs Indiana | 1st Half Lines,Indiana,3.5,-110.0,2020-10-23 14:30
+2020-10-24,14:30 CDT,Indiana,Penn State,1st Half,Penn State vs Indiana | 1st Half Lines,Indiana,,165.0,2020-10-23 14:30
+2020-10-24,14:30 CDT,Indiana,Penn State,1st Half,Penn State vs Indiana | 1st Half Lines,Penn State,-3.5,-110.0,2020-10-23 14:30
+2020-10-24,14:30 CDT,Indiana,Penn State,1st Half,Penn State vs Indiana | 1st Half Lines,Penn State,,-185.0,2020-10-23 14:30
+2020-10-24,11:00 CDT,Kansas State,Kansas,1st Half,Kansas vs Kansas State | 1st Half Lines,Kansas,10.5,-110.0,2020-10-23 14:30
+2020-10-24,11:00 CDT,Kansas State,Kansas,1st Half,Kansas vs Kansas State | 1st Half Lines,Kansas,,500.0,2020-10-23 14:30
+2020-10-24,11:00 CDT,Kansas State,Kansas,1st Half,Kansas vs Kansas State | 1st Half Lines,Kansas State,-10.5,-110.0,2020-10-23 14:30
+2020-10-24,11:00 CDT,Kansas State,Kansas,1st Half,Kansas vs Kansas State | 1st Half Lines,Kansas State,,-800.0,2020-10-23 14:30
+2020-10-24,18:00 CDT,LSU,South Carolina,1st Half,South Carolina vs LSU | 1st Half Lines,LSU,-3.5,-105.0,2020-10-23 14:30
+2020-10-24,18:00 CDT,LSU,South Carolina,1st Half,South Carolina vs LSU | 1st Half Lines,LSU,,-185.0,2020-10-23 14:30
+2020-10-24,18:00 CDT,LSU,South Carolina,1st Half,South Carolina vs LSU | 1st Half Lines,South Carolina,3.5,-115.0,2020-10-23 14:30
+2020-10-24,18:00 CDT,LSU,South Carolina,1st Half,South Carolina vs LSU | 1st Half Lines,South Carolina,,165.0,2020-10-23 14:30
+2020-10-24,12:00 CDT,Liberty,Southern Miss,1st Half,Southern Miss vs Liberty | 1st Half Lines,Liberty,-7.5,-110.0,2020-10-23 14:30
+2020-10-24,12:00 CDT,Liberty,Southern Miss,1st Half,Southern Miss vs Liberty | 1st Half Lines,Liberty,,-360.0,2020-10-23 14:30
+2020-10-24,12:00 CDT,Liberty,Southern Miss,1st Half,Southern Miss vs Liberty | 1st Half Lines,Southern Miss,7.5,-110.0,2020-10-23 14:30
+2020-10-24,12:00 CDT,Liberty,Southern Miss,1st Half,Southern Miss vs Liberty | 1st Half Lines,Southern Miss,,300.0,2020-10-23 14:30
+2020-10-24,11:00 CDT,Louisville,Florida State,1st Half,Florida State vs Louisville | 1st Half Lines,Florida State,3.0,-110.0,2020-10-23 14:30
+2020-10-24,11:00 CDT,Louisville,Florida State,1st Half,Florida State vs Louisville | 1st Half Lines,Florida State,,150.0,2020-10-23 14:30
+2020-10-24,11:00 CDT,Louisville,Florida State,1st Half,Florida State vs Louisville | 1st Half Lines,Louisville,-3.0,-110.0,2020-10-23 14:30
+2020-10-24,11:00 CDT,Louisville,Florida State,1st Half,Florida State vs Louisville | 1st Half Lines,Louisville,,-170.0,2020-10-23 14:30
+2020-10-24,13:30 CDT,Marshall,Florida Atlantic,1st Half,Florida Atlantic vs Marshall | 1st Half Lines,Florida Atlantic,9.0,-110.0,2020-10-23 14:30
+2020-10-24,13:30 CDT,Marshall,Florida Atlantic,1st Half,Florida Atlantic vs Marshall | 1st Half Lines,Florida Atlantic,,400.0,2020-10-23 14:30
+2020-10-24,13:30 CDT,Marshall,Florida Atlantic,1st Half,Florida Atlantic vs Marshall | 1st Half Lines,Marshall,-9.0,-110.0,2020-10-23 14:30
+2020-10-24,13:30 CDT,Marshall,Florida Atlantic,1st Half,Florida Atlantic vs Marshall | 1st Half Lines,Marshall,,-550.0,2020-10-23 14:30
+2020-10-24,11:00 CDT,Memphis,Temple,1st Half,Temple vs Memphis | 1st Half Lines,Memphis,-7.0,-110.0,2020-10-23 14:30
+2020-10-24,11:00 CDT,Memphis,Temple,1st Half,Temple vs Memphis | 1st Half Lines,Memphis,,-380.0,2020-10-23 14:30
+2020-10-24,11:00 CDT,Memphis,Temple,1st Half,Temple vs Memphis | 1st Half Lines,Temple,7.0,-110.0,2020-10-23 14:30
+2020-10-24,11:00 CDT,Memphis,Temple,1st Half,Temple vs Memphis | 1st Half Lines,Temple,,310.0,2020-10-23 14:30
+2020-10-24,19:00 CDT,Miami Florida,Virginia,1st Half,Virginia vs Miami Florida | 1st Half Lines,Miami Florida,,-370.0,2020-10-23 14:30
+2020-10-24,19:00 CDT,Miami Florida,Virginia,1st Half,Virginia vs Miami Florida | 1st Half Lines,Miami Florida,-7.5,-110.0,2020-10-23 14:30
+2020-10-24,19:00 CDT,Miami Florida,Virginia,1st Half,Virginia vs Miami Florida | 1st Half Lines,Miami Florida,,-370.0,2020-10-23 14:30
+2020-10-24,19:00 CDT,Miami Florida,Virginia,1st Half,Virginia vs Miami Florida | 1st Half Lines,Virginia,,310.0,2020-10-23 14:30
+2020-10-24,19:00 CDT,Miami Florida,Virginia,1st Half,Virginia vs Miami Florida | 1st Half Lines,Virginia,7.5,-110.0,2020-10-23 14:30
+2020-10-24,19:00 CDT,Miami Florida,Virginia,1st Half,Virginia vs Miami Florida | 1st Half Lines,Virginia,,310.0,2020-10-23 14:30
+2020-10-24,11:00 CDT,Michigan State,Rutgers,1st Half,Rutgers vs Michigan State | 1st Half Lines,Michigan State,-7.0,-110.0,2020-10-23 14:30
+2020-10-24,11:00 CDT,Michigan State,Rutgers,1st Half,Rutgers vs Michigan State | 1st Half Lines,Michigan State,,-380.0,2020-10-23 14:30
+2020-10-24,11:00 CDT,Michigan State,Rutgers,1st Half,Rutgers vs Michigan State | 1st Half Lines,Rutgers,7.0,-110.0,2020-10-23 14:30
+2020-10-24,11:00 CDT,Michigan State,Rutgers,1st Half,Rutgers vs Michigan State | 1st Half Lines,Rutgers,,310.0,2020-10-23 14:30
+2020-10-24,18:30 CDT,Minnesota U,Michigan,1st Half,Michigan vs Minnesota U | 1st Half Lines,Michigan,-2.0,-110.0,2020-10-23 14:30
+2020-10-24,18:30 CDT,Minnesota U,Michigan,1st Half,Michigan vs Minnesota U | 1st Half Lines,Michigan,,-135.0,2020-10-23 14:30
+2020-10-24,18:30 CDT,Minnesota U,Michigan,1st Half,Michigan vs Minnesota U | 1st Half Lines,Minnesota U,2.0,-110.0,2020-10-23 14:30
+2020-10-24,18:30 CDT,Minnesota U,Michigan,1st Half,Michigan vs Minnesota U | 1st Half Lines,Minnesota U,,115.0,2020-10-23 14:30
+2020-10-24,11:00 CDT,Mississippi,Auburn,1st Half,Auburn vs Mississippi | 1st Half Lines,Auburn,-1.5,-110.0,2020-10-23 14:30
+2020-10-24,11:00 CDT,Mississippi,Auburn,1st Half,Auburn vs Mississippi | 1st Half Lines,Auburn,,-135.0,2020-10-23 14:30
+2020-10-24,11:00 CDT,Mississippi,Auburn,1st Half,Auburn vs Mississippi | 1st Half Lines,Mississippi,1.5,-110.0,2020-10-23 14:30
+2020-10-24,11:00 CDT,Mississippi,Auburn,1st Half,Auburn vs Mississippi | 1st Half Lines,Mississippi,,115.0,2020-10-23 14:30
+2020-10-24,15:00 CDT,Missouri,Kentucky,1st Half,Kentucky vs Missouri | 1st Half Lines,Kentucky,,-160.0,2020-10-23 14:30
+2020-10-24,15:00 CDT,Missouri,Kentucky,1st Half,Kentucky vs Missouri | 1st Half Lines,Kentucky,-3.0,100.0,2020-10-23 14:30
+2020-10-24,15:00 CDT,Missouri,Kentucky,1st Half,Kentucky vs Missouri | 1st Half Lines,Missouri,,140.0,2020-10-23 14:30
+2020-10-24,15:00 CDT,Missouri,Kentucky,1st Half,Kentucky vs Missouri | 1st Half Lines,Missouri,3.0,-120.0,2020-10-23 14:30
+2020-10-24,14:30 CDT,Navy,Houston,1st Half,Houston vs Navy | 1st Half Lines,Houston,-7.5,-110.0,2020-10-23 14:30
+2020-10-24,14:30 CDT,Navy,Houston,1st Half,Houston vs Navy | 1st Half Lines,Houston,,-400.0,2020-10-23 14:30
+2020-10-24,14:30 CDT,Navy,Houston,1st Half,Houston vs Navy | 1st Half Lines,Navy,7.5,-110.0,2020-10-23 14:30
+2020-10-24,14:30 CDT,Navy,Houston,1st Half,Houston vs Navy | 1st Half Lines,Navy,,320.0,2020-10-23 14:30
+2020-10-24,18:00 CDT,Nevada,Wyoming,1st Half,Wyoming vs Nevada | 1st Half Lines,Nevada,,125.0,2020-10-23 14:30
+2020-10-24,18:00 CDT,Nevada,Wyoming,1st Half,Wyoming vs Nevada | 1st Half Lines,Nevada,2.0,-110.0,2020-10-23 14:30
+2020-10-24,18:00 CDT,Nevada,Wyoming,1st Half,Wyoming vs Nevada | 1st Half Lines,Nevada,,125.0,2020-10-23 14:30
+2020-10-24,18:00 CDT,Nevada,Wyoming,1st Half,Wyoming vs Nevada | 1st Half Lines,Wyoming,,-145.0,2020-10-23 14:30
+2020-10-24,18:00 CDT,Nevada,Wyoming,1st Half,Wyoming vs Nevada | 1st Half Lines,Wyoming,-2.0,-110.0,2020-10-23 14:30
+2020-10-24,18:00 CDT,Nevada,Wyoming,1st Half,Wyoming vs Nevada | 1st Half Lines,Wyoming,,-145.0,2020-10-23 14:30
+2020-10-24,11:00 CDT,North Carolina,NC State,1st Half,NC State vs North Carolina | 1st Half Lines,NC State,9.0,-110.0,2020-10-23 14:30
+2020-10-24,11:00 CDT,North Carolina,NC State,1st Half,NC State vs North Carolina | 1st Half Lines,NC State,,350.0,2020-10-23 14:30
+2020-10-24,11:00 CDT,North Carolina,NC State,1st Half,NC State vs North Carolina | 1st Half Lines,North Carolina,-9.0,-110.0,2020-10-23 14:30
+2020-10-24,11:00 CDT,North Carolina,NC State,1st Half,NC State vs North Carolina | 1st Half Lines,North Carolina,,-475.0,2020-10-23 14:30
+2020-10-24,18:30 CDT,Northwestern,Maryland,1st Half,Maryland vs Northwestern | 1st Half Lines,Maryland,6.5,-105.0,2020-10-23 14:30
+2020-10-24,18:30 CDT,Northwestern,Maryland,1st Half,Maryland vs Northwestern | 1st Half Lines,Maryland,,270.0,2020-10-23 14:30
+2020-10-24,18:30 CDT,Northwestern,Maryland,1st Half,Maryland vs Northwestern | 1st Half Lines,Northwestern,-6.5,-115.0,2020-10-23 14:30
+2020-10-24,18:30 CDT,Northwestern,Maryland,1st Half,Maryland vs Northwestern | 1st Half Lines,Northwestern,,-330.0,2020-10-23 14:30
+2020-10-24,11:00 CDT,Ohio State,Nebraska,1st Half,Nebraska vs Ohio State | 1st Half Lines,Nebraska,14.5,-110.0,2020-10-23 14:30
+2020-10-24,11:00 CDT,Ohio State,Nebraska,1st Half,Nebraska vs Ohio State | 1st Half Lines,Nebraska,,800.0,2020-10-23 14:30
+2020-10-24,11:00 CDT,Ohio State,Nebraska,1st Half,Nebraska vs Ohio State | 1st Half Lines,Ohio State,-14.5,-110.0,2020-10-23 14:30
+2020-10-24,11:00 CDT,Ohio State,Nebraska,1st Half,Nebraska vs Ohio State | 1st Half Lines,Ohio State,,-1400.0,2020-10-23 14:30
+2020-10-24,14:30 CDT,Oklahoma State,Iowa State,1st Half,Iowa State vs Oklahoma State | 1st Half Lines,Iowa State,,140.0,2020-10-23 14:30
+2020-10-24,14:30 CDT,Oklahoma State,Iowa State,1st Half,Iowa State vs Oklahoma State | 1st Half Lines,Iowa State,2.5,-110.0,2020-10-23 14:30
+2020-10-24,14:30 CDT,Oklahoma State,Iowa State,1st Half,Iowa State vs Oklahoma State | 1st Half Lines,Iowa State,,140.0,2020-10-23 14:30
+2020-10-24,14:30 CDT,Oklahoma State,Iowa State,1st Half,Iowa State vs Oklahoma State | 1st Half Lines,Oklahoma State,,-160.0,2020-10-23 14:30
+2020-10-24,14:30 CDT,Oklahoma State,Iowa State,1st Half,Iowa State vs Oklahoma State | 1st Half Lines,Oklahoma State,-2.5,-110.0,2020-10-23 14:30
+2020-10-24,14:30 CDT,Oklahoma State,Iowa State,1st Half,Iowa State vs Oklahoma State | 1st Half Lines,Oklahoma State,,-160.0,2020-10-23 14:30
+2020-10-24,14:30 CDT,Pittsburgh U,Notre Dame,1st Half,Notre Dame vs Pittsburgh U | 1st Half Lines,Notre Dame,-5.5,-110.0,2020-10-23 14:30
+2020-10-24,14:30 CDT,Pittsburgh U,Notre Dame,1st Half,Notre Dame vs Pittsburgh U | 1st Half Lines,Notre Dame,,-270.0,2020-10-23 14:30
+2020-10-24,14:30 CDT,Pittsburgh U,Notre Dame,1st Half,Notre Dame vs Pittsburgh U | 1st Half Lines,Pittsburgh U,5.5,-110.0,2020-10-23 14:30
+2020-10-24,14:30 CDT,Pittsburgh U,Notre Dame,1st Half,Notre Dame vs Pittsburgh U | 1st Half Lines,Pittsburgh U,,230.0,2020-10-23 14:30
+2020-10-24,14:30 CDT,Purdue,Iowa,1st Half,Iowa vs Purdue | 1st Half Lines,Iowa,-2.5,-110.0,2020-10-23 14:30
+2020-10-24,14:30 CDT,Purdue,Iowa,1st Half,Iowa vs Purdue | 1st Half Lines,Iowa,,-150.0,2020-10-23 14:30
+2020-10-24,14:30 CDT,Purdue,Iowa,1st Half,Iowa vs Purdue | 1st Half Lines,Purdue,2.5,-110.0,2020-10-23 14:30
+2020-10-24,14:30 CDT,Purdue,Iowa,1st Half,Iowa vs Purdue | 1st Half Lines,Purdue,,130.0,2020-10-23 14:30
+2020-10-24,14:30 CDT,Rice,Middle Tenn St,1st Half,Middle Tenn St vs Rice | 1st Half Lines,Middle Tenn St,2.5,-110.0,2020-10-23 14:30
+2020-10-24,14:30 CDT,Rice,Middle Tenn St,1st Half,Middle Tenn St vs Rice | 1st Half Lines,Middle Tenn St,,135.0,2020-10-23 14:30
+2020-10-24,14:30 CDT,Rice,Middle Tenn St,1st Half,Middle Tenn St vs Rice | 1st Half Lines,Rice,-2.5,-110.0,2020-10-23 14:30
+2020-10-24,14:30 CDT,Rice,Middle Tenn St,1st Half,Middle Tenn St vs Rice | 1st Half Lines,Rice,,-155.0,2020-10-23 14:30
+2020-10-24,20:00 CDT,SMU,Cincinnati,1st Half,Cincinnati vs SMU | 1st Half Lines,Cincinnati,1.0,-105.0,2020-10-23 14:30
+2020-10-24,20:00 CDT,SMU,Cincinnati,1st Half,Cincinnati vs SMU | 1st Half Lines,Cincinnati,,105.0,2020-10-23 14:30
+2020-10-24,20:00 CDT,SMU,Cincinnati,1st Half,Cincinnati vs SMU | 1st Half Lines,SMU,-1.0,-115.0,2020-10-23 14:30
+2020-10-24,20:00 CDT,SMU,Cincinnati,1st Half,Cincinnati vs SMU | 1st Half Lines,SMU,,-125.0,2020-10-23 14:30
+2020-10-24,21:30 CDT,San Diego State,UNLV,1st Half,UNLV vs San Diego State | 1st Half Lines,San Diego State,-7.5,-110.0,2020-10-23 14:30
+2020-10-24,21:30 CDT,San Diego State,UNLV,1st Half,UNLV vs San Diego State | 1st Half Lines,San Diego State,,-500.0,2020-10-23 14:30
+2020-10-24,21:30 CDT,San Diego State,UNLV,1st Half,UNLV vs San Diego State | 1st Half Lines,UNLV,7.5,-110.0,2020-10-23 14:30
+2020-10-24,21:30 CDT,San Diego State,UNLV,1st Half,UNLV vs San Diego State | 1st Half Lines,UNLV,,350.0,2020-10-23 14:30
+2020-10-24,21:30 CDT,San Jose State,Air Force,1st Half,Air Force vs San Jose State | 1st Half Lines,Air Force,-3.5,-115.0,2020-10-23 14:30
+2020-10-24,21:30 CDT,San Jose State,Air Force,1st Half,Air Force vs San Jose State | 1st Half Lines,Air Force,,-210.0,2020-10-23 14:30
+2020-10-24,21:30 CDT,San Jose State,Air Force,1st Half,Air Force vs San Jose State | 1st Half Lines,San Jose State,3.5,-105.0,2020-10-23 14:30
+2020-10-24,21:30 CDT,San Jose State,Air Force,1st Half,Air Force vs San Jose State | 1st Half Lines,San Jose State,,175.0,2020-10-23 14:30
+2020-10-24,18:00 CDT,South Alabama,UL Monroe,1st Half,UL Monroe vs South Alabama | 1st Half Lines,South Alabama,-7.5,-110.0,2020-10-23 14:30
+2020-10-24,18:00 CDT,South Alabama,UL Monroe,1st Half,UL Monroe vs South Alabama | 1st Half Lines,South Alabama,,-500.0,2020-10-23 14:30
+2020-10-24,18:00 CDT,South Alabama,UL Monroe,1st Half,UL Monroe vs South Alabama | 1st Half Lines,UL Monroe,7.5,-110.0,2020-10-23 14:30
+2020-10-24,18:00 CDT,South Alabama,UL Monroe,1st Half,UL Monroe vs South Alabama | 1st Half Lines,UL Monroe,,350.0,2020-10-23 14:30
+2020-10-24,11:00 CDT,TCU,Oklahoma,1st Half,Oklahoma vs TCU | 1st Half Lines,Oklahoma,-3.5,-110.0,2020-10-23 14:30
+2020-10-24,11:00 CDT,TCU,Oklahoma,1st Half,Oklahoma vs TCU | 1st Half Lines,Oklahoma,,-185.0,2020-10-23 14:30
+2020-10-24,11:00 CDT,TCU,Oklahoma,1st Half,Oklahoma vs TCU | 1st Half Lines,TCU,3.5,-110.0,2020-10-23 14:30
+2020-10-24,11:00 CDT,TCU,Oklahoma,1st Half,Oklahoma vs TCU | 1st Half Lines,TCU,,165.0,2020-10-23 14:30
+2020-10-24,14:30 CDT,Tennessee U,Alabama,1st Half,Alabama vs Tennessee U | 1st Half Lines,Alabama,-11.5,-120.0,2020-10-23 14:30
+2020-10-24,14:30 CDT,Tennessee U,Alabama,1st Half,Alabama vs Tennessee U | 1st Half Lines,Alabama,,-800.0,2020-10-23 14:30
+2020-10-24,14:30 CDT,Tennessee U,Alabama,1st Half,Alabama vs Tennessee U | 1st Half Lines,Tennessee U,11.5,100.0,2020-10-23 14:30
+2020-10-24,14:30 CDT,Tennessee U,Alabama,1st Half,Alabama vs Tennessee U | 1st Half Lines,Tennessee U,,500.0,2020-10-23 14:30
+2020-10-24,14:30 CDT,Texas,Baylor,1st Half,Baylor vs Texas | 1st Half Lines,Baylor,5.5,-110.0,2020-10-23 14:30
+2020-10-24,14:30 CDT,Texas,Baylor,1st Half,Baylor vs Texas | 1st Half Lines,Baylor,,220.0,2020-10-23 14:30
+2020-10-24,14:30 CDT,Texas,Baylor,1st Half,Baylor vs Texas | 1st Half Lines,Texas,-5.5,-110.0,2020-10-23 14:30
+2020-10-24,14:30 CDT,Texas,Baylor,1st Half,Baylor vs Texas | 1st Half Lines,Texas,,-270.0,2020-10-23 14:30
+2020-10-24,16:30 CDT,Texas Tech,West Virginia,1st Half,West Virginia vs Texas Tech | 1st Half Lines,Texas Tech,2.0,-110.0,2020-10-23 14:30
+2020-10-24,16:30 CDT,Texas Tech,West Virginia,1st Half,West Virginia vs Texas Tech | 1st Half Lines,Texas Tech,,120.0,2020-10-23 14:30
+2020-10-24,16:30 CDT,Texas Tech,West Virginia,1st Half,West Virginia vs Texas Tech | 1st Half Lines,West Virginia,-2.0,-110.0,2020-10-23 14:30
+2020-10-24,16:30 CDT,Texas Tech,West Virginia,1st Half,West Virginia vs Texas Tech | 1st Half Lines,West Virginia,,-140.0,2020-10-23 14:30
+2020-10-24,15:00 CDT,Troy,Georgia State,1st Half,Georgia State vs Troy | 1st Half Lines,Georgia State,2.0,-110.0,2020-10-23 14:30
+2020-10-24,15:00 CDT,Troy,Georgia State,1st Half,Georgia State vs Troy | 1st Half Lines,Georgia State,,110.0,2020-10-23 14:30
+2020-10-24,15:00 CDT,Troy,Georgia State,1st Half,Georgia State vs Troy | 1st Half Lines,Troy,-2.0,-110.0,2020-10-23 14:30
+2020-10-24,15:00 CDT,Troy,Georgia State,1st Half,Georgia State vs Troy | 1st Half Lines,Troy,,-130.0,2020-10-23 14:30
+2020-10-24,19:00 CDT,UTSA,Louisiana Tech,1st Half,Louisiana Tech vs UTSA | 1st Half Lines,Louisiana Tech,-1.0,-110.0,2020-10-23 14:30
+2020-10-24,19:00 CDT,UTSA,Louisiana Tech,1st Half,Louisiana Tech vs UTSA | 1st Half Lines,Louisiana Tech,,-125.0,2020-10-23 14:30
+2020-10-24,19:00 CDT,UTSA,Louisiana Tech,1st Half,Louisiana Tech vs UTSA | 1st Half Lines,UTSA,1.0,-110.0,2020-10-23 14:30
+2020-10-24,19:00 CDT,UTSA,Louisiana Tech,1st Half,Louisiana Tech vs UTSA | 1st Half Lines,UTSA,,105.0,2020-10-23 14:30
+2020-10-24,21:30 CDT,Under,Over,1st Half Team Totals,Air Force vs San Jose State | Air Force 1st Half Points,Over,17.0,-110.0,2020-10-23 14:30
+2020-10-24,21:30 CDT,Under,Over,1st Half Team Totals,Air Force vs San Jose State | Air Force 1st Half Points,Under,17.0,-110.0,2020-10-23 14:30
+2020-10-24,21:30 CDT,Under,Over,1st Half Team Totals,Air Force vs San Jose State | San Jose State 1st Half Points,Over,13.5,-110.0,2020-10-23 14:30
+2020-10-24,21:30 CDT,Under,Over,1st Half Team Totals,Air Force vs San Jose State | San Jose State 1st Half Points,Under,13.5,-110.0,2020-10-23 14:30
+2020-10-24,14:30 CDT,Under,Over,1st Half Team Totals,Alabama vs Tennessee U | Alabama 1st Half Points,Over,23.5,-110.0,2020-10-23 14:30
+2020-10-24,14:30 CDT,Under,Over,1st Half Team Totals,Alabama vs Tennessee U | Alabama 1st Half Points,Under,23.5,-110.0,2020-10-23 14:30
+2020-10-24,14:30 CDT,Under,Over,1st Half Team Totals,Alabama vs Tennessee U | Tennessee U 1st Half Points,Over,10.5,-110.0,2020-10-23 14:30
+2020-10-24,14:30 CDT,Under,Over,1st Half Team Totals,Alabama vs Tennessee U | Tennessee U 1st Half Points,Under,10.5,-110.0,2020-10-23 14:30
+2020-10-24,11:00 CDT,Under,Over,1st Half Team Totals,Auburn vs Mississippi | Auburn 1st Half Points,Over,18.0,-110.0,2020-10-23 14:30
+2020-10-24,11:00 CDT,Under,Over,1st Half Team Totals,Auburn vs Mississippi | Auburn 1st Half Points,Under,18.0,-110.0,2020-10-23 14:30
+2020-10-24,11:00 CDT,Under,Over,1st Half Team Totals,Auburn vs Mississippi | Mississippi 1st Half Points,Over,17.0,-110.0,2020-10-23 14:30
+2020-10-24,11:00 CDT,Under,Over,1st Half Team Totals,Auburn vs Mississippi | Mississippi 1st Half Points,Under,17.0,-110.0,2020-10-23 14:30
+2020-10-24,14:30 CDT,Under,Over,1st Half Team Totals,Baylor vs Texas | Baylor 1st Half Points,Over,13.0,-105.0,2020-10-23 14:30
+2020-10-24,14:30 CDT,Under,Over,1st Half Team Totals,Baylor vs Texas | Baylor 1st Half Points,Under,13.0,-115.0,2020-10-23 14:30
+2020-10-24,14:30 CDT,Under,Over,1st Half Team Totals,Baylor vs Texas | Texas 1st Half Points,Over,18.5,-115.0,2020-10-23 14:30
+2020-10-24,14:30 CDT,Under,Over,1st Half Team Totals,Baylor vs Texas | Texas 1st Half Points,Under,18.5,-105.0,2020-10-23 14:30
+2020-10-24,20:00 CDT,Under,Over,1st Half Team Totals,Cincinnati vs SMU | Cincinnati 1st Half Points,Over,13.5,-110.0,2020-10-23 14:30
+2020-10-24,20:00 CDT,Under,Over,1st Half Team Totals,Cincinnati vs SMU | Cincinnati 1st Half Points,Under,13.5,-110.0,2020-10-23 14:30
+2020-10-24,20:00 CDT,Under,Over,1st Half Team Totals,Cincinnati vs SMU | SMU 1st Half Points,Over,14.5,-110.0,2020-10-23 14:30
+2020-10-24,20:00 CDT,Under,Over,1st Half Team Totals,Cincinnati vs SMU | SMU 1st Half Points,Under,14.5,-110.0,2020-10-23 14:30
+2020-10-24,13:30 CDT,Under,Over,1st Half Team Totals,Florida Atlantic vs Marshall | Florida Atlantic 1st Half Points,Over,8.5,-110.0,2020-10-23 14:30
+2020-10-24,13:30 CDT,Under,Over,1st Half Team Totals,Florida Atlantic vs Marshall | Florida Atlantic 1st Half Points,Under,8.5,-110.0,2020-10-23 14:30
+2020-10-24,13:30 CDT,Under,Over,1st Half Team Totals,Florida Atlantic vs Marshall | Marshall 1st Half Points,Over,18.5,-110.0,2020-10-23 14:30
+2020-10-24,13:30 CDT,Under,Over,1st Half Team Totals,Florida Atlantic vs Marshall | Marshall 1st Half Points,Under,18.5,-110.0,2020-10-23 14:30
+2020-10-24,11:00 CDT,Under,Over,1st Half Team Totals,Georgia Southern vs Coastal Carolina | Coastal Carolina 1st Half Points,Over,15.0,-110.0,2020-10-23 14:30
+2020-10-24,11:00 CDT,Under,Over,1st Half Team Totals,Georgia Southern vs Coastal Carolina | Coastal Carolina 1st Half Points,Under,15.0,-110.0,2020-10-23 14:30
+2020-10-24,11:00 CDT,Under,Over,1st Half Team Totals,Georgia Southern vs Coastal Carolina | Georgia Southern 1st Half Points,Over,11.5,-110.0,2020-10-23 14:30
+2020-10-24,11:00 CDT,Under,Over,1st Half Team Totals,Georgia Southern vs Coastal Carolina | Georgia Southern 1st Half Points,Under,11.5,-110.0,2020-10-23 14:30
+2020-10-24,15:00 CDT,Under,Over,1st Half Team Totals,Georgia State vs Troy | Georgia State 1st Half Points,Over,16.0,-110.0,2020-10-23 14:30
+2020-10-24,15:00 CDT,Under,Over,1st Half Team Totals,Georgia State vs Troy | Georgia State 1st Half Points,Under,16.0,-110.0,2020-10-23 14:30
+2020-10-24,15:00 CDT,Under,Over,1st Half Team Totals,Georgia State vs Troy | Troy 1st Half Points,Over,18.0,-110.0,2020-10-23 14:30
+2020-10-24,15:00 CDT,Under,Over,1st Half Team Totals,Georgia State vs Troy | Troy 1st Half Points,Under,18.0,-110.0,2020-10-23 14:30
+2020-10-24,14:30 CDT,Under,Over,1st Half Team Totals,Houston vs Navy | Houston 1st Half Points,Over,17.5,-110.0,2020-10-23 14:30
+2020-10-24,14:30 CDT,Under,Over,1st Half Team Totals,Houston vs Navy | Houston 1st Half Points,Under,17.5,-110.0,2020-10-23 14:30
+2020-10-24,14:30 CDT,Under,Over,1st Half Team Totals,Houston vs Navy | Navy 1st Half Points,Over,10.5,-110.0,2020-10-23 14:30
+2020-10-24,14:30 CDT,Under,Over,1st Half Team Totals,Houston vs Navy | Navy 1st Half Points,Under,10.5,-110.0,2020-10-23 14:30
+2020-10-24,14:30 CDT,Under,Over,1st Half Team Totals,Iowa State vs Oklahoma State | Iowa State 1st Half Points,Over,12.0,-110.0,2020-10-23 14:30
+2020-10-24,14:30 CDT,Under,Over,1st Half Team Totals,Iowa State vs Oklahoma State | Iowa State 1st Half Points,Under,12.0,-110.0,2020-10-23 14:30
+2020-10-24,14:30 CDT,Under,Over,1st Half Team Totals,Iowa State vs Oklahoma State | Oklahoma State 1st Half Points,Over,14.0,-110.0,2020-10-23 14:30
+2020-10-24,14:30 CDT,Under,Over,1st Half Team Totals,Iowa State vs Oklahoma State | Oklahoma State 1st Half Points,Under,14.0,-110.0,2020-10-23 14:30
+2020-10-24,14:30 CDT,Under,Over,1st Half Team Totals,Iowa vs Purdue | Iowa 1st Half Points,Over,14.5,-110.0,2020-10-23 14:30
+2020-10-24,14:30 CDT,Under,Over,1st Half Team Totals,Iowa vs Purdue | Iowa 1st Half Points,Under,14.5,-110.0,2020-10-23 14:30
+2020-10-24,14:30 CDT,Under,Over,1st Half Team Totals,Iowa vs Purdue | Purdue 1st Half Points,Over,12.0,-110.0,2020-10-23 14:30
+2020-10-24,14:30 CDT,Under,Over,1st Half Team Totals,Iowa vs Purdue | Purdue 1st Half Points,Under,12.0,-110.0,2020-10-23 14:30
+2020-10-24,11:00 CDT,Under,Over,1st Half Team Totals,Kansas vs Kansas State | Kansas 1st Half Points,Over,7.0,-110.0,2020-10-23 14:30
+2020-10-24,11:00 CDT,Under,Over,1st Half Team Totals,Kansas vs Kansas State | Kansas 1st Half Points,Under,7.0,-110.0,2020-10-23 14:30
+2020-10-24,11:00 CDT,Under,Over,1st Half Team Totals,Kansas vs Kansas State | Kansas State 1st Half Points,Over,18.0,-110.0,2020-10-23 14:30
+2020-10-24,11:00 CDT,Under,Over,1st Half Team Totals,Kansas vs Kansas State | Kansas State 1st Half Points,Under,18.0,-110.0,2020-10-23 14:30
+2020-10-24,18:30 CDT,Under,Over,1st Half Team Totals,Maryland vs Northwestern | Maryland 1st Half Points,Over,10.5,-110.0,2020-10-23 14:30
+2020-10-24,18:30 CDT,Under,Over,1st Half Team Totals,Maryland vs Northwestern | Maryland 1st Half Points,Under,10.5,-110.0,2020-10-23 14:30
+2020-10-24,18:30 CDT,Under,Over,1st Half Team Totals,Maryland vs Northwestern | Northwestern 1st Half Points,Over,17.0,-110.0,2020-10-23 14:30
+2020-10-24,18:30 CDT,Under,Over,1st Half Team Totals,Maryland vs Northwestern | Northwestern 1st Half Points,Under,17.0,-110.0,2020-10-23 14:30
+2020-10-24,18:30 CDT,Under,Over,1st Half Team Totals,Michigan vs Minnesota U | Michigan 1st Half Points,Over,14.5,-110.0,2020-10-23 14:30
+2020-10-24,18:30 CDT,Under,Over,1st Half Team Totals,Michigan vs Minnesota U | Michigan 1st Half Points,Under,14.5,-110.0,2020-10-23 14:30
+2020-10-24,18:30 CDT,Under,Over,1st Half Team Totals,Michigan vs Minnesota U | Minnesota U 1st Half Points,Over,12.5,-110.0,2020-10-23 14:30
+2020-10-24,18:30 CDT,Under,Over,1st Half Team Totals,Michigan vs Minnesota U | Minnesota U 1st Half Points,Under,12.5,-110.0,2020-10-23 14:30
+2020-10-24,11:00 CDT,Under,Over,1st Half Team Totals,NC State vs North Carolina | NC State 1st Half Points,Over,10.5,-110.0,2020-10-23 14:30
+2020-10-24,11:00 CDT,Under,Over,1st Half Team Totals,NC State vs North Carolina | NC State 1st Half Points,Under,10.5,-110.0,2020-10-23 14:30
+2020-10-24,11:00 CDT,Under,Over,1st Half Team Totals,NC State vs North Carolina | North Carolina 1st Half Points,Over,20.5,-110.0,2020-10-23 14:30
+2020-10-24,11:00 CDT,Under,Over,1st Half Team Totals,NC State vs North Carolina | North Carolina 1st Half Points,Under,20.5,-110.0,2020-10-23 14:30
+2020-10-24,11:00 CDT,Under,Over,1st Half Team Totals,Nebraska vs Ohio State | Nebraska 1st Half Points,Over,10.5,-110.0,2020-10-23 14:30
+2020-10-24,11:00 CDT,Under,Over,1st Half Team Totals,Nebraska vs Ohio State | Nebraska 1st Half Points,Under,10.5,-110.0,2020-10-23 14:30
+2020-10-24,11:00 CDT,Under,Over,1st Half Team Totals,Nebraska vs Ohio State | Ohio State 1st Half Points,Over,26.0,-110.0,2020-10-23 14:30
+2020-10-24,11:00 CDT,Under,Over,1st Half Team Totals,Nebraska vs Ohio State | Ohio State 1st Half Points,Under,26.0,-110.0,2020-10-23 14:30
+2020-10-24,14:30 CDT,Under,Over,1st Half Team Totals,Notre Dame vs Pittsburgh U | Notre Dame 1st Half Points,Over,14.0,-110.0,2020-10-23 14:30
+2020-10-24,14:30 CDT,Under,Over,1st Half Team Totals,Notre Dame vs Pittsburgh U | Notre Dame 1st Half Points,Under,14.0,-110.0,2020-10-23 14:30
+2020-10-24,14:30 CDT,Under,Over,1st Half Team Totals,Notre Dame vs Pittsburgh U | Pittsburgh U 1st Half Points,Over,9.0,-110.0,2020-10-23 14:30
+2020-10-24,14:30 CDT,Under,Over,1st Half Team Totals,Notre Dame vs Pittsburgh U | Pittsburgh U 1st Half Points,Under,9.0,-110.0,2020-10-23 14:30
+2020-10-24,11:00 CDT,Under,Over,1st Half Team Totals,Oklahoma vs TCU | Oklahoma 1st Half Points,Over,16.5,-110.0,2020-10-23 14:30
+2020-10-24,11:00 CDT,Under,Over,1st Half Team Totals,Oklahoma vs TCU | Oklahoma 1st Half Points,Under,16.5,-110.0,2020-10-23 14:30
+2020-10-24,11:00 CDT,Under,Over,1st Half Team Totals,Oklahoma vs TCU | TCU 1st Half Points,Over,13.5,-110.0,2020-10-23 14:30
+2020-10-24,11:00 CDT,Under,Over,1st Half Team Totals,Oklahoma vs TCU | TCU 1st Half Points,Under,13.5,-110.0,2020-10-23 14:30
+2020-10-24,14:30 CDT,Under,Over,1st Half Team Totals,Penn State vs Indiana | Indiana 1st Half Points,Over,13.5,-110.0,2020-10-23 14:30
+2020-10-24,14:30 CDT,Under,Over,1st Half Team Totals,Penn State vs Indiana | Indiana 1st Half Points,Under,13.5,-110.0,2020-10-23 14:30
+2020-10-24,14:30 CDT,Under,Over,1st Half Team Totals,Penn State vs Indiana | Penn State 1st Half Points,Over,17.0,-110.0,2020-10-23 14:30
+2020-10-24,14:30 CDT,Under,Over,1st Half Team Totals,Penn State vs Indiana | Penn State 1st Half Points,Under,17.0,-110.0,2020-10-23 14:30
+2020-10-24,18:00 CDT,Under,Over,1st Half Team Totals,South Carolina vs LSU | LSU 1st Half Points,Over,15.0,-110.0,2020-10-23 14:30
+2020-10-24,18:00 CDT,Under,Over,1st Half Team Totals,South Carolina vs LSU | LSU 1st Half Points,Under,15.0,-110.0,2020-10-23 14:30
+2020-10-24,18:00 CDT,Under,Over,1st Half Team Totals,South Carolina vs LSU | South Carolina 1st Half Points,Over,12.5,-110.0,2020-10-23 14:30
+2020-10-24,18:00 CDT,Under,Over,1st Half Team Totals,South Carolina vs LSU | South Carolina 1st Half Points,Under,12.5,-110.0,2020-10-23 14:30
+2020-10-24,12:00 CDT,Under,Over,1st Half Team Totals,Southern Miss vs Liberty | Liberty 1st Half Points,Over,20.0,-110.0,2020-10-23 14:30
+2020-10-24,12:00 CDT,Under,Over,1st Half Team Totals,Southern Miss vs Liberty | Liberty 1st Half Points,Under,20.0,-110.0,2020-10-23 14:30
+2020-10-24,12:00 CDT,Under,Over,1st Half Team Totals,Southern Miss vs Liberty | Southern Miss 1st Half Points,Over,11.5,-110.0,2020-10-23 14:30
+2020-10-24,12:00 CDT,Under,Over,1st Half Team Totals,Southern Miss vs Liberty | Southern Miss 1st Half Points,Under,11.5,-110.0,2020-10-23 14:30
+2020-10-24,11:00 CDT,Under,Over,1st Half Team Totals,Temple vs Memphis | Memphis 1st Half Points,Over,21.5,-110.0,2020-10-23 14:30
+2020-10-24,11:00 CDT,Under,Over,1st Half Team Totals,Temple vs Memphis | Memphis 1st Half Points,Under,21.5,-110.0,2020-10-23 14:30
+2020-10-24,11:00 CDT,Under,Over,1st Half Team Totals,Temple vs Memphis | Temple 1st Half Points,Over,14.0,-110.0,2020-10-23 14:30
+2020-10-24,11:00 CDT,Under,Over,1st Half Team Totals,Temple vs Memphis | Temple 1st Half Points,Under,14.0,-110.0,2020-10-23 14:30
+2020-10-24,13:00 CDT,Under,Over,1st Half Team Totals,Tulane vs Central Florida | Central Florida 1st Half Points,Over,24.5,-110.0,2020-10-23 14:30
+2020-10-24,13:00 CDT,Under,Over,1st Half Team Totals,Tulane vs Central Florida | Central Florida 1st Half Points,Under,24.5,-110.0,2020-10-23 14:30
+2020-10-24,13:00 CDT,Under,Over,1st Half Team Totals,Tulane vs Central Florida | Tulane 1st Half Points,Over,13.0,-110.0,2020-10-23 14:30
+2020-10-24,13:00 CDT,Under,Over,1st Half Team Totals,Tulane vs Central Florida | Tulane 1st Half Points,Under,13.0,-110.0,2020-10-23 14:30
+2020-10-24,18:00 CDT,Under,Over,1st Half Team Totals,UL Monroe vs South Alabama | South Alabama 1st Half Points,Over,18.0,-110.0,2020-10-23 14:30
+2020-10-24,18:00 CDT,Under,Over,1st Half Team Totals,UL Monroe vs South Alabama | South Alabama 1st Half Points,Under,18.0,-110.0,2020-10-23 14:30
+2020-10-24,18:00 CDT,Under,Over,1st Half Team Totals,UL Monroe vs South Alabama | UL Monroe 1st Half Points,Over,10.0,-110.0,2020-10-23 14:30
+2020-10-24,18:00 CDT,Under,Over,1st Half Team Totals,UL Monroe vs South Alabama | UL Monroe 1st Half Points,Under,10.0,-110.0,2020-10-23 14:30
+2020-10-24,21:30 CDT,Under,Over,1st Half Team Totals,UNLV vs San Diego State | San Diego State 1st Half Points,Over,16.5,-110.0,2020-10-23 14:30
+2020-10-24,21:30 CDT,Under,Over,1st Half Team Totals,UNLV vs San Diego State | San Diego State 1st Half Points,Under,16.5,-110.0,2020-10-23 14:30
+2020-10-24,21:30 CDT,Under,Over,1st Half Team Totals,UNLV vs San Diego State | UNLV 1st Half Points,Over,8.5,-110.0,2020-10-23 14:30
+2020-10-24,21:30 CDT,Under,Over,1st Half Team Totals,UNLV vs San Diego State | UNLV 1st Half Points,Under,8.5,-110.0,2020-10-23 14:30
+2020-10-24,18:00 CDT,Under,Over,1st Half Team Totals,Utah State vs Boise State | Boise State 1st Half Points,Over,18.5,-110.0,2020-10-23 14:30
+2020-10-24,18:00 CDT,Under,Over,1st Half Team Totals,Utah State vs Boise State | Boise State 1st Half Points,Under,18.5,-110.0,2020-10-23 14:30
+2020-10-24,18:00 CDT,Under,Over,1st Half Team Totals,Utah State vs Boise State | Utah State 1st Half Points,Over,9.5,-110.0,2020-10-23 14:30
+2020-10-24,18:00 CDT,Under,Over,1st Half Team Totals,Utah State vs Boise State | Utah State 1st Half Points,Under,9.5,-110.0,2020-10-23 14:30
+2020-10-24,14:30 CDT,Under,Over,1st Half Team Totals,Virginia Tech vs Wake Forest | Virginia Tech 1st Half Points,Over,20.5,-110.0,2020-10-23 14:30
+2020-10-24,14:30 CDT,Under,Over,1st Half Team Totals,Virginia Tech vs Wake Forest | Virginia Tech 1st Half Points,Under,20.5,-110.0,2020-10-23 14:30
+2020-10-24,14:30 CDT,Under,Over,1st Half Team Totals,Virginia Tech vs Wake Forest | Wake Forest 1st Half Points,Over,14.0,-110.0,2020-10-23 14:30
+2020-10-24,14:30 CDT,Under,Over,1st Half Team Totals,Virginia Tech vs Wake Forest | Wake Forest 1st Half Points,Under,14.0,-110.0,2020-10-23 14:30
+2020-10-24,19:00 CDT,Under,Over,1st Half Team Totals,Virginia vs Miami Florida | Miami Florida 1st Half Points,Over,18.5,-110.0,2020-10-23 14:30
+2020-10-24,19:00 CDT,Under,Over,1st Half Team Totals,Virginia vs Miami Florida | Miami Florida 1st Half Points,Under,18.5,-110.0,2020-10-23 14:30
+2020-10-24,19:00 CDT,Under,Over,1st Half Team Totals,Virginia vs Miami Florida | Virginia 1st Half Points,Over,10.5,-105.0,2020-10-23 14:30
+2020-10-24,19:00 CDT,Under,Over,1st Half Team Totals,Virginia vs Miami Florida | Virginia 1st Half Points,Under,10.5,-115.0,2020-10-23 14:30
+2020-10-24,16:30 CDT,Under,Over,1st Half Team Totals,West Virginia vs Texas Tech | Texas Tech 1st Half Points,Over,12.5,-110.0,2020-10-23 14:30
+2020-10-24,16:30 CDT,Under,Over,1st Half Team Totals,West Virginia vs Texas Tech | Texas Tech 1st Half Points,Under,12.5,-110.0,2020-10-23 14:30
+2020-10-24,16:30 CDT,Under,Over,1st Half Team Totals,West Virginia vs Texas Tech | West Virginia 1st Half Points,Over,15.0,-110.0,2020-10-23 14:30
+2020-10-24,16:30 CDT,Under,Over,1st Half Team Totals,West Virginia vs Texas Tech | West Virginia 1st Half Points,Under,15.0,-110.0,2020-10-23 14:30
+2020-10-24,18:00 CDT,Under,Over,1st Half Team Totals,Wyoming vs Nevada | Nevada 1st Half Points,Over,11.0,-110.0,2020-10-23 14:30
+2020-10-24,18:00 CDT,Under,Over,1st Half Team Totals,Wyoming vs Nevada | Nevada 1st Half Points,Under,11.0,-110.0,2020-10-23 14:30
+2020-10-24,18:00 CDT,Under,Over,1st Half Team Totals,Wyoming vs Nevada | Wyoming 1st Half Points,Over,13.5,-110.0,2020-10-23 14:30
+2020-10-24,18:00 CDT,Under,Over,1st Half Team Totals,Wyoming vs Nevada | Wyoming 1st Half Points,Under,13.5,-110.0,2020-10-23 14:30
+2020-10-24,14:30 CDT,Wake Forest,Virginia Tech,1st Half,Virginia Tech vs Wake Forest | 1st Half Lines,Virginia Tech,-6.0,-120.0,2020-10-23 14:30
+2020-10-24,14:30 CDT,Wake Forest,Virginia Tech,1st Half,Virginia Tech vs Wake Forest | 1st Half Lines,Virginia Tech,,-270.0,2020-10-23 14:30
+2020-10-24,14:30 CDT,Wake Forest,Virginia Tech,1st Half,Virginia Tech vs Wake Forest | 1st Half Lines,Wake Forest,6.0,100.0,2020-10-23 14:30
+2020-10-24,14:30 CDT,Wake Forest,Virginia Tech,1st Half,Virginia Tech vs Wake Forest | 1st Half Lines,Wake Forest,,230.0,2020-10-23 14:30
+2020-10-24,11:00 CDT,Under,Over,1st Half Team Totals,Kansas vs Kansas State | Kansas State 1st Half Points,Over,17.5,-110.0,2020-10-23 16:05
+2020-10-24,11:00 CDT,Under,Over,1st Half Team Totals,Kansas vs Kansas State | Kansas State 1st Half Points,Under,17.5,-110.0,2020-10-23 16:05
+2020-10-24,15:00 CDT,Under,Over,1st Half Team Totals,Kentucky vs Missouri | Kentucky 1st Half Points,Over,13.0,-110.0,2020-10-23 16:05
+2020-10-24,15:00 CDT,Under,Over,1st Half Team Totals,Kentucky vs Missouri | Kentucky 1st Half Points,Under,13.0,-110.0,2020-10-23 16:05
+2020-10-24,15:00 CDT,Under,Over,1st Half Team Totals,Kentucky vs Missouri | Missouri 1st Half Points,Over,10.5,-110.0,2020-10-23 16:05
+2020-10-24,15:00 CDT,Under,Over,1st Half Team Totals,Kentucky vs Missouri | Missouri 1st Half Points,Under,10.5,-110.0,2020-10-23 16:05
+2020-10-24,19:00 CDT,Under,Over,1st Half Team Totals,Louisiana Tech vs UTSA | Louisiana Tech 1st Half Points,Over,14.0,-110.0,2020-10-23 16:05
+2020-10-24,19:00 CDT,Under,Over,1st Half Team Totals,Louisiana Tech vs UTSA | Louisiana Tech 1st Half Points,Under,14.0,-110.0,2020-10-23 16:05
+2020-10-24,19:00 CDT,Under,Over,1st Half Team Totals,Louisiana Tech vs UTSA | UTSA 1st Half Points,Over,13.0,-110.0,2020-10-23 16:05
+2020-10-24,19:00 CDT,Under,Over,1st Half Team Totals,Louisiana Tech vs UTSA | UTSA 1st Half Points,Under,13.0,-110.0,2020-10-23 16:05
+2020-10-24,14:30 CDT,Under,Over,1st Half Team Totals,Middle Tenn St vs Rice | Middle Tenn St 1st Half Points,Over,10.5,-110.0,2020-10-23 16:05
+2020-10-24,14:30 CDT,Under,Over,1st Half Team Totals,Middle Tenn St vs Rice | Middle Tenn St 1st Half Points,Under,10.5,-110.0,2020-10-23 16:05
+2020-10-24,14:30 CDT,Under,Over,1st Half Team Totals,Middle Tenn St vs Rice | Rice 1st Half Points,Over,13.5,-110.0,2020-10-23 16:05
+2020-10-24,14:30 CDT,Under,Over,1st Half Team Totals,Middle Tenn St vs Rice | Rice 1st Half Points,Under,13.5,-110.0,2020-10-23 16:05
+2020-10-24,13:00 CDT,Under,Over,1st Half Team Totals,Tulane vs Central Florida | Tulane 1st Half Points,Over,12.0,-110.0,2020-10-23 16:05
+2020-10-24,13:00 CDT,Under,Over,1st Half Team Totals,Tulane vs Central Florida | Tulane 1st Half Points,Under,12.0,-110.0,2020-10-23 16:05
+2020-10-24,11:00 CDT,Under,Over,1st Half Team Totals,UTEP vs Charlotte | Charlotte 1st Half Points,Over,17.0,-110.0,2020-10-23 16:05
+2020-10-24,11:00 CDT,Under,Over,1st Half Team Totals,UTEP vs Charlotte | Charlotte 1st Half Points,Under,17.0,-110.0,2020-10-23 16:05
+2020-10-24,11:00 CDT,Under,Over,1st Half Team Totals,UTEP vs Charlotte | UTEP 1st Half Points,Over,9.0,-110.0,2020-10-23 16:05
+2020-10-24,11:00 CDT,Under,Over,1st Half Team Totals,UTEP vs Charlotte | UTEP 1st Half Points,Under,9.0,-110.0,2020-10-23 16:05
+2020-10-24,11:00 CDT,Under,Over,Team Totals,Kansas vs Kansas State | Kansas Total Points,Over,13.0,-110.0,2020-10-23 16:05
+2020-10-24,11:00 CDT,Under,Over,Team Totals,Kansas vs Kansas State | Kansas Total Points,Under,13.0,-110.0,2020-10-23 16:05
+2020-10-24,18:00 CDT,Under,Over,Team Totals,UL Monroe vs South Alabama | South Alabama Total Points,Over,35.0,-110.0,2020-10-23 16:05
+2020-10-24,18:00 CDT,Under,Over,Team Totals,UL Monroe vs South Alabama | South Alabama Total Points,Under,35.0,-110.0,2020-10-23 16:05
+2020-10-24,18:00 CDT,Under,Over,Team Totals,UL Monroe vs South Alabama | UL Monroe Total Points,Over,21.0,-110.0,2020-10-23 16:05
+2020-10-24,18:00 CDT,Under,Over,Team Totals,UL Monroe vs South Alabama | UL Monroe Total Points,Under,21.0,-110.0,2020-10-23 16:05
