@@ -4,7 +4,7 @@
 # File Created: Saturday, 17th October 2020 8:05:47 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Thursday, 22nd October 2020 8:38:21 pm
+# Last Modified: Friday, 23rd October 2020 7:04:50 pm
 # Modified By: Dillon Koch
 # -----
 # Collins Aerospace
@@ -308,27 +308,25 @@ class ESB_Parser:
 
         gt = self._game_time(date_event)
         desc = self._description(date_event)
-        home, away, tie = self._teams(date_event)
-        print(home, away, tie)
+        home, away, tie_team = self._teams(date_event)
         home_ml, away_ml, tie_ml = self._moneylines(date_event)
-        print(home_ml, away_ml, tie_ml)
         home_spread, home_spread_ml, away_spread, away_spread_ml, tie_spread, tie_spread_ml = self._spreads(date_event)
-        over, over_ml, under, under_ml, tie, tie_ml = self._totals(date_event)
+        over, over_ml, under, under_ml, tie_total, tie_total_ml = self._totals(date_event)
 
         # add home/away ML
         home_ml_row = [date, gt, home, away, title, desc, home, None, home_ml, scraped_ts]
         away_ml_row = [date, gt, home, away, title, desc, away, None, away_ml, scraped_ts]
-        tie_ml_row = [date, gt, home, away, title, desc, tie, None, tie_ml, scraped_ts]
+        tie_ml_row = [date, gt, home, away, title, desc, tie_team, None, tie_ml, scraped_ts]
 
         # add home/away spread
         home_spread_row = [date, gt, home, away, title, desc, home, home_spread, home_spread_ml, scraped_ts]
         away_spread_row = [date, gt, home, away, title, desc, away, away_spread, away_spread_ml, scraped_ts]
-        tie_spread_row = [date, gt, home, away, title, desc, away, tie_spread, tie_spread_ml, scraped_ts]
+        tie_spread_row = [date, gt, home, away, title, desc, tie_team, tie_spread, tie_spread_ml, scraped_ts]
 
         # add over/under
         over_row = [date, gt, home, away, title, desc, "Over", over, over_ml, scraped_ts]
         under_row = [date, gt, home, away, title, desc, "Under", under, under_ml, scraped_ts]
-        tie_total_row = [date, gt, home, away, title, desc, "Tie", tie, tie_ml, scraped_ts]
+        tie_total_row = [date, gt, home, away, title, desc, "Tie", tie_total, tie_total_ml, scraped_ts]
 
         for row in [home_ml_row, away_ml_row, tie_ml_row,
                     home_spread_row, away_spread_row, tie_spread_row,
