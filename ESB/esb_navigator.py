@@ -4,7 +4,7 @@
 # File Created: Thursday, 15th October 2020 7:29:18 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Thursday, 22nd October 2020 8:30:05 pm
+# Last Modified: Friday, 23rd October 2020 8:23:55 pm
 # Modified By: Dillon Koch
 # -----
 # Collins Aerospace
@@ -37,26 +37,20 @@ sys.setrecursionlimit(1000000000)
 
 
 class ESB_Navigator:
-    def __init__(self):
+    def __init__(self):  # Tested
         self.start_link = 'https://www.elitesportsbook.com/sports/home.sbk'
-        self.fake_nested_dropdowns = ['Iowa Season Long']
+        self.fake_nested_dropdowns = ['Iowa Season Long']  # ! may need to be updated as site changes
 
-        # logger = logging.getLogger(__name__)
-        # logger.setLevel(logging.INFO)
+        # setting up logger
         today = datetime.date.today()
         year, month, day = today.year, today.month, today.day
-
-        # handler = TimedRotatingFileHandler(f'ESB_Navigator_{year}_{month}_{day}.log', when='D', interval=7, backupCount=10)
-        # formatter = logging.Formatter("%(asctime)s:%(levelname)s:%(message)s")
-        # handler.setFormatter(formatter)
-        # logger.addHandler(handler)
         logging.basicConfig(filename=f'./Logs/ESB_Navigator_{year}_{month}_{day}.log', level=logging.INFO,
                             format="%(asctime)s:%(levelname)s:%(message)s")
         self.logger = logging.getLogger(__name__)
         self.logger.info("Logger has been set up")
 
     @property
-    def section_dict(self):  # Property
+    def section_dict(self):  # Property  Tested
         """
         This dict includes the sections on the left side of the ESB homepage
         as keys, with the values being the league the section belongs to
@@ -68,7 +62,7 @@ class ESB_Navigator:
                 "NBA": "NBA",
                 "NCAA Men's Basketball": "NCAAB"}
 
-    def _get_soup_sp(self):  # Global Helper
+    def _get_soup_sp(self):  # Global Helper  Tested
         """
         saves the selenium window's current page as a beautifulsoup object
         """
@@ -79,6 +73,7 @@ class ESB_Navigator:
     def reset_window(self, new_window=True):  # Top Level  Tested
         """
         takes a selenium window from any point to the Elite Sportsbook homepage
+        # ! may have to be changed if the intro windows change
         """
         if new_window:
             self.driver = webdriver.Firefox(executable_path=ROOT_PATH + "/geckodriver")
@@ -102,7 +97,7 @@ class ESB_Navigator:
         self.logger.info("homepage sp found successfully")
         return homepage_sp
 
-    def get_section_pairs(self, homepage_sp):  # Top Level
+    def get_section_pairs(self, homepage_sp):  # Top Level  Tested
         """
         Uses the homepage sp to find the relevant sections (main dropdowns on left side like NBA, NCAAF, etc)
         - returns a list of tuples [("NFL", <sp>), ("NBA", <sp>), (leauge, <sp>), ...]
@@ -121,7 +116,7 @@ class ESB_Navigator:
                 self.logger.info(f"Found section pair for league '{league}', sp length: {len(str(section))}")
         return section_pairs
 
-    def get_section_title(self, sp):  # Top Level
+    def get_section_title(self, sp):  # Top Level  Tested
         """
         finds the section title given a section sp
         - e.g. "Pro Football Game Lines", "NCAA Basketball", ...
@@ -131,7 +126,7 @@ class ESB_Navigator:
         self.logger.info(f"Found title {title}" + ("-" * 50))
         return title
 
-    def click_button(self, name, upper=False):  # Top Level
+    def click_button(self, name, upper=False):  # Top Level  Tested
         """
         clicks the button with text matching the 'name' argument
         """
@@ -142,7 +137,7 @@ class ESB_Navigator:
         button.click()
         self.logger.info(f"Clicked button {name}")
 
-    def find_nested_dropdowns(self, section, title):  # Top Level
+    def find_nested_dropdowns(self, section, title):  # Top Level  Tested
         """
         finds the names of nested dropdown buttons under the main section title
         - these need to be clicked too to find all the events under them
@@ -180,6 +175,10 @@ class ESB_Navigator:
             self.logger.info(f"Found event {event}")
         return events
 
+    def save_sps(self, sps):  # Top Level
+        with open(ROOT_PATH + '/Tests/esb_sps.pickle', 'wb') as f:
+            pickle.dump(sps, f)
+
     def run(self):  # Run
         homepage_sp = self.reset_window()
         section_pairs = self.get_section_pairs(homepage_sp)
@@ -202,9 +201,9 @@ class ESB_Navigator:
                 sps.append((league, event_sp))
 
         time.sleep(5)
-        self.driver.close()
-
         self.driver.quit()
+
+        self.save_sps(sps)
         return sps
 
 
@@ -212,5 +211,3 @@ if __name__ == '__main__':
     x = ESB_Navigator()
     self = x
     sps = x.run()
-    with open(ROOT_PATH + '/Tests/esb_sps.pickle', 'wb') as f:
-        pickle.dump(sps, f)
