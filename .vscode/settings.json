@@ -22,6 +22,9 @@
     ".vscode": true,
     "geckodriver.log": true,
     "Utility/.ipynb_checkpoints": true,
-    "Utility/geckodriver.log": true
+    "Utility/geckodriver.log": true,
+    "ESB/geckodriver.log": true,
+    "ESB/.ipynb_checkpoints": true,
+    "ESB/.pytest_cache": true
   }
 }

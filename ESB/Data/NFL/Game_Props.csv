@@ -1159,3 +1159,559 @@ datetime,Game_Time,Home,Away,Title,Description,Bet,Spread/overunder,Odds,scraped
 2020-10-25,15:25 CDT,Patriots,49ers,Alternative Lines,49ers vs Patriots | Alternative Lines A,Under,47.5,-180.0,2020-10-23 20:25
 2020-10-25,15:25 CDT,Patriots,49ers,Alternative Lines,49ers vs Patriots | Alternative Lines B,Over,41.5,-200.0,2020-10-23 20:25
 2020-10-25,15:25 CDT,Patriots,49ers,Alternative Lines,49ers vs Patriots | Alternative Lines B,Under,41.5,155.0,2020-10-23 20:25
+2020-10-25,12:00 CDT,Bengals,Browns,1st Half,Browns vs Bengals | 1st Half Lines,Bengals,2.5,-110.0,2020-10-24 10:52
+2020-10-25,12:00 CDT,Bengals,Browns,1st Half,Browns vs Bengals | 1st Half Lines,Browns,-2.5,-110.0,2020-10-24 10:52
+2020-10-25,12:00 CDT,Bengals,Browns,1st Quarter,Browns vs Bengals | 1st Quarter Lines,Bengals,0.5,-125.0,2020-10-24 10:52
+2020-10-25,12:00 CDT,Bengals,Browns,1st Quarter,Browns vs Bengals | 1st Quarter Lines,Bengals,,120.0,2020-10-24 10:52
+2020-10-25,12:00 CDT,Bengals,Browns,1st Quarter,Browns vs Bengals | 1st Quarter Lines,Browns,-0.5,105.0,2020-10-24 10:52
+2020-10-25,12:00 CDT,Bengals,Browns,1st Quarter,Browns vs Bengals | 1st Quarter Lines,Browns,,-140.0,2020-10-24 10:52
+2020-10-25,15:25 CDT,Broncos,Chiefs,1st Half,Chiefs vs Broncos | 1st Half Lines,Broncos,,200.0,2020-10-24 10:52
+2020-10-25,15:25 CDT,Broncos,Chiefs,1st Half,Chiefs vs Broncos | 1st Half Lines,Broncos,4.5,-110.0,2020-10-24 10:52
+2020-10-25,15:25 CDT,Broncos,Chiefs,1st Half,Chiefs vs Broncos | 1st Half Lines,Chiefs,,-240.0,2020-10-24 10:52
+2020-10-25,15:25 CDT,Broncos,Chiefs,1st Half,Chiefs vs Broncos | 1st Half Lines,Chiefs,-4.5,-110.0,2020-10-24 10:52
+2020-10-25,15:25 CDT,Broncos,Chiefs,1st Quarter,Chiefs vs Broncos | 1st Quarter Lines,Broncos,3.0,-120.0,2020-10-24 10:52
+2020-10-25,15:25 CDT,Broncos,Chiefs,1st Quarter,Chiefs vs Broncos | 1st Quarter Lines,Broncos,,190.0,2020-10-24 10:52
+2020-10-25,15:25 CDT,Broncos,Chiefs,1st Quarter,Chiefs vs Broncos | 1st Quarter Lines,Chiefs,-3.0,100.0,2020-10-24 10:52
+2020-10-25,15:25 CDT,Broncos,Chiefs,1st Quarter,Chiefs vs Broncos | 1st Quarter Lines,Chiefs,,-230.0,2020-10-24 10:52
+2020-10-25,19:20 CDT,Cardinals,Seahawks,1st Half,Seahawks vs Cardinals | 1st Half Lines,Cardinals,2.5,-110.0,2020-10-24 10:52
+2020-10-25,19:20 CDT,Cardinals,Seahawks,1st Half,Seahawks vs Cardinals | 1st Half Lines,Seahawks,-2.5,-110.0,2020-10-24 10:52
+2020-10-25,19:20 CDT,Cardinals,Seahawks,1st Quarter,Seahawks vs Cardinals | 1st Quarter Lines,Cardinals,0.5,-135.0,2020-10-24 10:52
+2020-10-25,19:20 CDT,Cardinals,Seahawks,1st Quarter,Seahawks vs Cardinals | 1st Quarter Lines,Cardinals,,120.0,2020-10-24 10:52
+2020-10-25,19:20 CDT,Cardinals,Seahawks,1st Quarter,Seahawks vs Cardinals | 1st Quarter Lines,Seahawks,-0.5,115.0,2020-10-24 10:52
+2020-10-25,19:20 CDT,Cardinals,Seahawks,1st Quarter,Seahawks vs Cardinals | 1st Quarter Lines,Seahawks,,-140.0,2020-10-24 10:52
+2020-10-25,15:25 CDT,Chargers,Jaguars,1st Half,Jaguars vs Chargers | 1st Half Lines,Chargers,-4.5,-110.0,2020-10-24 10:52
+2020-10-25,15:25 CDT,Chargers,Jaguars,1st Half,Jaguars vs Chargers | 1st Half Lines,Jaguars,4.5,-110.0,2020-10-24 10:52
+2020-10-25,15:25 CDT,Chargers,Jaguars,1st Quarter,Jaguars vs Chargers | 1st Quarter Lines,Chargers,,-220.0,2020-10-24 10:52
+2020-10-25,15:25 CDT,Chargers,Jaguars,1st Quarter,Jaguars vs Chargers | 1st Quarter Lines,Chargers,-3.0,-105.0,2020-10-24 10:52
+2020-10-25,15:25 CDT,Chargers,Jaguars,1st Quarter,Jaguars vs Chargers | 1st Quarter Lines,Chargers,,-220.0,2020-10-24 10:52
+2020-10-25,15:25 CDT,Chargers,Jaguars,1st Quarter,Jaguars vs Chargers | 1st Quarter Lines,Jaguars,,180.0,2020-10-24 10:52
+2020-10-25,15:25 CDT,Chargers,Jaguars,1st Quarter,Jaguars vs Chargers | 1st Quarter Lines,Jaguars,3.0,-115.0,2020-10-24 10:52
+2020-10-25,15:25 CDT,Chargers,Jaguars,1st Quarter,Jaguars vs Chargers | 1st Quarter Lines,Jaguars,,180.0,2020-10-24 10:52
+2020-10-25,12:00 CDT,Falcons,Lions,1st Half,Lions vs Falcons | 1st Half Lines,Falcons,-1.5,-110.0,2020-10-24 10:52
+2020-10-25,12:00 CDT,Falcons,Lions,1st Half,Lions vs Falcons | 1st Half Lines,Lions,1.5,-110.0,2020-10-24 10:52
+2020-10-25,12:00 CDT,Falcons,Lions,1st Quarter,Lions vs Falcons | 1st Quarter Lines,Falcons,-0.5,110.0,2020-10-24 10:52
+2020-10-25,12:00 CDT,Falcons,Lions,1st Quarter,Lions vs Falcons | 1st Quarter Lines,Falcons,,-135.0,2020-10-24 10:52
+2020-10-25,12:00 CDT,Falcons,Lions,1st Quarter,Lions vs Falcons | 1st Quarter Lines,Lions,0.5,-130.0,2020-10-24 10:52
+2020-10-25,12:00 CDT,Falcons,Lions,1st Quarter,Lions vs Falcons | 1st Quarter Lines,Lions,,115.0,2020-10-24 10:52
+2020-10-25,12:00 CDT,Jets,Bills,1st Half,Bills vs Jets | 1st Half Lines,Bills,-7.0,100.0,2020-10-24 10:52
+2020-10-25,12:00 CDT,Jets,Bills,1st Half,Bills vs Jets | 1st Half Lines,Jets,7.0,-120.0,2020-10-24 10:52
+2020-10-25,12:00 CDT,Jets,Bills,1st Quarter,Bills vs Jets | 1st Quarter Lines,Bills,,-260.0,2020-10-24 10:52
+2020-10-25,12:00 CDT,Jets,Bills,1st Quarter,Bills vs Jets | 1st Quarter Lines,Bills,-3.0,-110.0,2020-10-24 10:52
+2020-10-25,12:00 CDT,Jets,Bills,1st Quarter,Bills vs Jets | 1st Quarter Lines,Jets,,220.0,2020-10-24 10:52
+2020-10-25,12:00 CDT,Jets,Bills,1st Quarter,Bills vs Jets | 1st Quarter Lines,Jets,3.0,-110.0,2020-10-24 10:52
+2020-10-25,15:25 CDT,Patriots,49ers,1st Half,49ers vs Patriots | 1st Half Lines,49ers,,120.0,2020-10-24 10:52
+2020-10-25,15:25 CDT,Patriots,49ers,1st Half,49ers vs Patriots | 1st Half Lines,49ers,1.5,-110.0,2020-10-24 10:52
+2020-10-25,15:25 CDT,Patriots,49ers,1st Half,49ers vs Patriots | 1st Half Lines,Patriots,,-140.0,2020-10-24 10:52
+2020-10-25,15:25 CDT,Patriots,49ers,1st Half,49ers vs Patriots | 1st Half Lines,Patriots,-1.5,-110.0,2020-10-24 10:52
+2020-10-25,15:25 CDT,Patriots,49ers,1st Quarter,49ers vs Patriots | 1st Quarter Lines,49ers,0.5,-145.0,2020-10-24 10:52
+2020-10-25,15:25 CDT,Patriots,49ers,1st Quarter,49ers vs Patriots | 1st Quarter Lines,49ers,,105.0,2020-10-24 10:52
+2020-10-25,15:25 CDT,Patriots,49ers,1st Quarter,49ers vs Patriots | 1st Quarter Lines,Patriots,-0.5,125.0,2020-10-24 10:52
+2020-10-25,15:25 CDT,Patriots,49ers,1st Quarter,49ers vs Patriots | 1st Quarter Lines,Patriots,,-125.0,2020-10-24 10:52
+2020-10-25,12:00 CDT,Texans,Packers,1st Half,Packers vs Texans | 1st Half Lines,Packers,-2.5,-120.0,2020-10-24 10:52
+2020-10-25,12:00 CDT,Texans,Packers,1st Half,Packers vs Texans | 1st Half Lines,Texans,2.5,100.0,2020-10-24 10:52
+2020-10-25,12:00 CDT,Texans,Packers,1st Quarter,Packers vs Texans | 1st Quarter Lines,Packers,-0.5,100.0,2020-10-24 10:52
+2020-10-25,12:00 CDT,Texans,Packers,1st Quarter,Packers vs Texans | 1st Quarter Lines,Packers,,-145.0,2020-10-24 10:52
+2020-10-25,12:00 CDT,Texans,Packers,1st Quarter,Packers vs Texans | 1st Quarter Lines,Texans,0.5,-120.0,2020-10-24 10:52
+2020-10-25,12:00 CDT,Texans,Packers,1st Quarter,Packers vs Texans | 1st Quarter Lines,Texans,,125.0,2020-10-24 10:52
+2020-10-25,12:00 CDT,Titans,Steelers,1st Quarter,Steelers vs Titans | 1st Quarter Lines,Steelers,0.5,-150.0,2020-10-24 10:52
+2020-10-25,12:00 CDT,Titans,Steelers,1st Quarter,Steelers vs Titans | 1st Quarter Lines,Steelers,,-105.0,2020-10-24 10:52
+2020-10-25,12:00 CDT,Titans,Steelers,1st Quarter,Steelers vs Titans | 1st Quarter Lines,Titans,-0.5,130.0,2020-10-24 10:52
+2020-10-25,12:00 CDT,Titans,Steelers,1st Quarter,Steelers vs Titans | 1st Quarter Lines,Titans,,-115.0,2020-10-24 10:52
+2020-10-25,15:25 CDT,Under,Over,Team Totals,Chiefs vs Broncos | Broncos Total Points,Over,18.5,-115.0,2020-10-24 10:52
+2020-10-25,15:25 CDT,Under,Over,Team Totals,Chiefs vs Broncos | Broncos Total Points,Under,18.5,-115.0,2020-10-24 10:52
+2020-10-25,12:00 CDT,Under,Over,Team Totals,Cowboys vs Washington | Cowboys Total Points,Over,22.5,-115.0,2020-10-24 10:52
+2020-10-25,12:00 CDT,Under,Over,Team Totals,Cowboys vs Washington | Cowboys Total Points,Under,22.5,-115.0,2020-10-24 10:52
+2020-10-25,12:00 CDT,Under,Over,Team Totals,Cowboys vs Washington | Washington Total Points,Over,22.5,-115.0,2020-10-24 10:52
+2020-10-25,12:00 CDT,Under,Over,Team Totals,Cowboys vs Washington | Washington Total Points,Under,22.5,-115.0,2020-10-24 10:52
+2020-10-25,12:00 CDT,Washington,Cowboys,1st Quarter,Cowboys vs Washington | 1st Quarter Lines,Cowboys,-0.5,145.0,2020-10-24 10:52
+2020-10-25,12:00 CDT,Washington,Cowboys,1st Quarter,Cowboys vs Washington | 1st Quarter Lines,Cowboys,,-110.0,2020-10-24 10:52
+2020-10-25,12:00 CDT,Washington,Cowboys,1st Quarter,Cowboys vs Washington | 1st Quarter Lines,Washington,0.5,-165.0,2020-10-24 10:52
+2020-10-25,12:00 CDT,Washington,Cowboys,1st Quarter,Cowboys vs Washington | 1st Quarter Lines,Washington,,-110.0,2020-10-24 10:52
+2020-10-26,19:15 CDT,Rams,Bears,1st Half,Bears vs Rams | 1st Half Lines,Bears,3.0,-105.0,2020-10-24 10:52
+2020-10-26,19:15 CDT,Rams,Bears,1st Half,Bears vs Rams | 1st Half Lines,Rams,-3.0,-115.0,2020-10-24 10:52
+2020-10-26,19:15 CDT,Rams,Bears,1st Quarter,Bears vs Rams | 1st Quarter Lines,Bears,2.5,-115.0,2020-10-24 10:52
+2020-10-26,19:15 CDT,Rams,Bears,1st Quarter,Bears vs Rams | 1st Quarter Lines,Bears,,170.0,2020-10-24 10:52
+2020-10-26,19:15 CDT,Rams,Bears,1st Quarter,Bears vs Rams | 1st Quarter Lines,Rams,-2.5,-105.0,2020-10-24 10:52
+2020-10-26,19:15 CDT,Rams,Bears,1st Quarter,Bears vs Rams | 1st Quarter Lines,Rams,,-200.0,2020-10-24 10:52
+2020-10-25,12:00 CDT,Any Other,Touchdown,First Score Will Be,Panthers vs Saints | First Score Will Be,Any Other,,110.0,2020-10-24 13:10
+2020-10-25,12:00 CDT,Any Other,Touchdown,First Score Will Be,Panthers vs Saints | First Score Will Be,Touchdown,,-140.0,2020-10-24 13:10
+2020-10-25,12:00 CDT,Bengals,Browns,1st Half,Browns vs Bengals | 1st Half Lines,Bengals,,135.0,2020-10-24 13:10
+2020-10-25,12:00 CDT,Bengals,Browns,1st Half,Browns vs Bengals | 1st Half Lines,Browns,,-155.0,2020-10-24 13:10
+2020-10-25,12:00 CDT,Bengals,Browns,1st Quarter,Browns vs Bengals | 1st Quarter Lines,Bengals,0.5,-125.0,2020-10-24 13:10
+2020-10-25,12:00 CDT,Bengals,Browns,1st Quarter,Browns vs Bengals | 1st Quarter Lines,Browns,-0.5,105.0,2020-10-24 13:10
+2020-10-25,15:25 CDT,Broncos,Chiefs,1st Half,Chiefs vs Broncos | 1st Half Lines,Broncos,,200.0,2020-10-24 13:10
+2020-10-25,15:25 CDT,Broncos,Chiefs,1st Half,Chiefs vs Broncos | 1st Half Lines,Chiefs,,-240.0,2020-10-24 13:10
+2020-10-25,15:25 CDT,Broncos,Chiefs,1st Quarter,Chiefs vs Broncos | 1st Quarter Lines,Broncos,3.0,-120.0,2020-10-24 13:10
+2020-10-25,15:25 CDT,Broncos,Chiefs,1st Quarter,Chiefs vs Broncos | 1st Quarter Lines,Chiefs,-3.0,100.0,2020-10-24 13:10
+2020-10-25,19:20 CDT,Cardinals,Seahawks,1st Half,Seahawks vs Cardinals | 1st Half Lines,Cardinals,,130.0,2020-10-24 13:10
+2020-10-25,19:20 CDT,Cardinals,Seahawks,1st Half,Seahawks vs Cardinals | 1st Half Lines,Seahawks,,-150.0,2020-10-24 13:10
+2020-10-25,19:20 CDT,Cardinals,Seahawks,1st Quarter,Seahawks vs Cardinals | 1st Quarter Lines,Cardinals,0.5,-135.0,2020-10-24 13:10
+2020-10-25,19:20 CDT,Cardinals,Seahawks,1st Quarter,Seahawks vs Cardinals | 1st Quarter Lines,Seahawks,-0.5,115.0,2020-10-24 13:10
+2020-10-25,15:25 CDT,Chargers,Jaguars,1st Half,Jaguars vs Chargers | 1st Half Lines,Chargers,,-250.0,2020-10-24 13:10
+2020-10-25,15:25 CDT,Chargers,Jaguars,1st Half,Jaguars vs Chargers | 1st Half Lines,Jaguars,,210.0,2020-10-24 13:10
+2020-10-25,15:25 CDT,Chargers,Jaguars,1st Quarter,Jaguars vs Chargers | 1st Quarter Lines,Chargers,-3.0,-105.0,2020-10-24 13:10
+2020-10-25,15:25 CDT,Chargers,Jaguars,1st Quarter,Jaguars vs Chargers | 1st Quarter Lines,Jaguars,3.0,-115.0,2020-10-24 13:10
+2020-10-25,12:00 CDT,Falcons,Lions,1st Half,Lions vs Falcons | 1st Half Lines,Falcons,,-140.0,2020-10-24 13:10
+2020-10-25,12:00 CDT,Falcons,Lions,1st Half,Lions vs Falcons | 1st Half Lines,Lions,,120.0,2020-10-24 13:10
+2020-10-25,12:00 CDT,Falcons,Lions,1st Quarter,Lions vs Falcons | 1st Quarter Lines,Falcons,-0.5,110.0,2020-10-24 13:10
+2020-10-25,12:00 CDT,Falcons,Lions,1st Quarter,Lions vs Falcons | 1st Quarter Lines,Lions,0.5,-130.0,2020-10-24 13:10
+2020-10-25,12:00 CDT,Jets,Bills,1st Half,Bills vs Jets | 1st Half Lines,Bills,,-400.0,2020-10-24 13:10
+2020-10-25,12:00 CDT,Jets,Bills,1st Half,Bills vs Jets | 1st Half Lines,Jets,,330.0,2020-10-24 13:10
+2020-10-25,12:00 CDT,Jets,Bills,1st Quarter,Bills vs Jets | 1st Quarter Lines,Bills,,-260.0,2020-10-24 13:10
+2020-10-25,12:00 CDT,Jets,Bills,1st Quarter,Bills vs Jets | 1st Quarter Lines,Jets,,220.0,2020-10-24 13:10
+2020-10-25,15:25 CDT,Patriots,49ers,1st Half,49ers vs Patriots | 1st Half Lines,49ers,,120.0,2020-10-24 13:10
+2020-10-25,15:25 CDT,Patriots,49ers,1st Half,49ers vs Patriots | 1st Half Lines,Patriots,,-140.0,2020-10-24 13:10
+2020-10-25,15:25 CDT,Patriots,49ers,1st Quarter,49ers vs Patriots | 1st Quarter Lines,49ers,0.5,-145.0,2020-10-24 13:10
+2020-10-25,15:25 CDT,Patriots,49ers,1st Quarter,49ers vs Patriots | 1st Quarter Lines,Patriots,-0.5,125.0,2020-10-24 13:10
+2020-10-25,12:00 CDT,Saints,Panthers,1st Half,Panthers vs Saints | 1st Half Lines,Over,24.5,100.0,2020-10-24 13:10
+2020-10-25,12:00 CDT,Saints,Panthers,1st Half,Panthers vs Saints | 1st Half Lines,Panthers,,200.0,2020-10-24 13:10
+2020-10-25,12:00 CDT,Saints,Panthers,1st Half,Panthers vs Saints | 1st Half Lines,Saints,,-240.0,2020-10-24 13:10
+2020-10-25,12:00 CDT,Saints,Panthers,1st Half,Panthers vs Saints | 1st Half Lines,Under,24.5,-120.0,2020-10-24 13:10
+2020-10-25,12:00 CDT,Saints,Panthers,1st Quarter,Panthers vs Saints | 1st Quarter Lines,Over,10.0,105.0,2020-10-24 13:10
+2020-10-25,12:00 CDT,Saints,Panthers,1st Quarter,Panthers vs Saints | 1st Quarter Lines,Panthers,,175.0,2020-10-24 13:10
+2020-10-25,12:00 CDT,Saints,Panthers,1st Quarter,Panthers vs Saints | 1st Quarter Lines,Panthers,3.0,-120.0,2020-10-24 13:10
+2020-10-25,12:00 CDT,Saints,Panthers,1st Quarter,Panthers vs Saints | 1st Quarter Lines,Saints,,-210.0,2020-10-24 13:10
+2020-10-25,12:00 CDT,Saints,Panthers,1st Quarter,Panthers vs Saints | 1st Quarter Lines,Saints,-3.0,100.0,2020-10-24 13:10
+2020-10-25,12:00 CDT,Saints,Panthers,1st Quarter,Panthers vs Saints | 1st Quarter Lines,Under,10.0,-125.0,2020-10-24 13:10
+2020-10-25,12:00 CDT,Texans,Packers,1st Half,Packers vs Texans | 1st Half Lines,Packers,,-160.0,2020-10-24 13:10
+2020-10-25,12:00 CDT,Texans,Packers,1st Half,Packers vs Texans | 1st Half Lines,Texans,,140.0,2020-10-24 13:10
+2020-10-25,12:00 CDT,Texans,Packers,1st Quarter,Packers vs Texans | 1st Quarter Lines,Packers,-0.5,100.0,2020-10-24 13:10
+2020-10-25,12:00 CDT,Texans,Packers,1st Quarter,Packers vs Texans | 1st Quarter Lines,Texans,0.5,-120.0,2020-10-24 13:10
+2020-10-25,12:00 CDT,Titans,Steelers,1st Quarter,Steelers vs Titans | 1st Quarter Lines,Steelers,0.5,-150.0,2020-10-24 13:10
+2020-10-25,12:00 CDT,Titans,Steelers,1st Quarter,Steelers vs Titans | 1st Quarter Lines,Titans,-0.5,130.0,2020-10-24 13:10
+2020-10-25,12:00 CDT,Washington,Cowboys,1st Quarter,Cowboys vs Washington | 1st Quarter Lines,Cowboys,-0.5,145.0,2020-10-24 13:10
+2020-10-25,12:00 CDT,Washington,Cowboys,1st Quarter,Cowboys vs Washington | 1st Quarter Lines,Washington,0.5,-165.0,2020-10-24 13:10
+2020-10-26,19:15 CDT,Rams,Bears,1st Half,Bears vs Rams | 1st Half Lines,Bears,,170.0,2020-10-24 13:10
+2020-10-26,19:15 CDT,Rams,Bears,1st Half,Bears vs Rams | 1st Half Lines,Rams,,-200.0,2020-10-24 13:10
+2020-10-26,19:15 CDT,Rams,Bears,1st Quarter,Bears vs Rams | 1st Quarter Lines,Bears,2.5,-115.0,2020-10-24 13:10
+2020-10-26,19:15 CDT,Rams,Bears,1st Quarter,Bears vs Rams | 1st Quarter Lines,Rams,-2.5,-105.0,2020-10-24 13:10
+2020-10-25,12:00 CDT,Bengals,Browns,Alternative Lines,Browns vs Bengals | Alternative Lines A,Over,53.5,155.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Bengals,Browns,Alternative Lines,Browns vs Bengals | Alternative Lines A,Under,53.5,-200.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Bengals,Browns,Alternative Lines,Browns vs Bengals | Alternative Lines B,Bengals,6.0,-155.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Bengals,Browns,Alternative Lines,Browns vs Bengals | Alternative Lines B,Browns,-6.0,120.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Bengals,Browns,Alternative Lines,Browns vs Bengals | Alternative Lines B,Over,47.5,-180.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Bengals,Browns,Alternative Lines,Browns vs Bengals | Alternative Lines B,Under,47.5,140.0,2020-10-24 13:11
+2020-10-25,15:25 CDT,Broncos,Chiefs,Alternative Lines,Chiefs vs Broncos | Alternative Lines A,Broncos,4.5,135.0,2020-10-24 13:11
+2020-10-25,15:25 CDT,Broncos,Chiefs,Alternative Lines,Chiefs vs Broncos | Alternative Lines A,Chiefs,-4.5,-175.0,2020-10-24 13:11
+2020-10-25,15:25 CDT,Broncos,Chiefs,Alternative Lines,Chiefs vs Broncos | Alternative Lines A,Over,47.0,145.0,2020-10-24 13:11
+2020-10-25,15:25 CDT,Broncos,Chiefs,Alternative Lines,Chiefs vs Broncos | Alternative Lines A,Under,47.0,-190.0,2020-10-24 13:11
+2020-10-25,15:25 CDT,Broncos,Chiefs,Alternative Lines,Chiefs vs Broncos | Alternative Lines B,Broncos,10.5,-210.0,2020-10-24 13:11
+2020-10-25,15:25 CDT,Broncos,Chiefs,Alternative Lines,Chiefs vs Broncos | Alternative Lines B,Chiefs,-10.5,160.0,2020-10-24 13:11
+2020-10-25,15:25 CDT,Broncos,Chiefs,Alternative Lines,Chiefs vs Broncos | Alternative Lines B,Over,41.0,-190.0,2020-10-24 13:11
+2020-10-25,15:25 CDT,Broncos,Chiefs,Alternative Lines,Chiefs vs Broncos | Alternative Lines B,Under,41.0,145.0,2020-10-24 13:11
+2020-10-25,19:20 CDT,Cardinals,Seahawks,Alternative Lines,Seahawks vs Cardinals | Alternative Lines A,Over,58.0,140.0,2020-10-24 13:11
+2020-10-25,19:20 CDT,Cardinals,Seahawks,Alternative Lines,Seahawks vs Cardinals | Alternative Lines A,Under,58.0,-180.0,2020-10-24 13:11
+2020-10-25,19:20 CDT,Cardinals,Seahawks,Alternative Lines,Seahawks vs Cardinals | Alternative Lines B,Cardinals,6.0,-160.0,2020-10-24 13:11
+2020-10-25,19:20 CDT,Cardinals,Seahawks,Alternative Lines,Seahawks vs Cardinals | Alternative Lines B,Over,52.0,-200.0,2020-10-24 13:11
+2020-10-25,19:20 CDT,Cardinals,Seahawks,Alternative Lines,Seahawks vs Cardinals | Alternative Lines B,Seahawks,-6.0,125.0,2020-10-24 13:11
+2020-10-25,19:20 CDT,Cardinals,Seahawks,Alternative Lines,Seahawks vs Cardinals | Alternative Lines B,Under,52.0,155.0,2020-10-24 13:11
+2020-10-25,15:25 CDT,Patriots,49ers,Alternative Lines,49ers vs Patriots | Alternative Lines A,49ers,5.5,-175.0,2020-10-24 13:11
+2020-10-25,15:25 CDT,Patriots,49ers,Alternative Lines,49ers vs Patriots | Alternative Lines A,Over,47.5,145.0,2020-10-24 13:11
+2020-10-25,15:25 CDT,Patriots,49ers,Alternative Lines,49ers vs Patriots | Alternative Lines A,Patriots,-5.5,135.0,2020-10-24 13:11
+2020-10-25,15:25 CDT,Patriots,49ers,Alternative Lines,49ers vs Patriots | Alternative Lines A,Under,47.5,-190.0,2020-10-24 13:11
+2020-10-25,15:25 CDT,Patriots,49ers,Alternative Lines,49ers vs Patriots | Alternative Lines B,Over,41.5,-190.0,2020-10-24 13:11
+2020-10-25,15:25 CDT,Patriots,49ers,Alternative Lines,49ers vs Patriots | Alternative Lines B,Under,41.5,145.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Saints,Panthers,Alternative Lines,Panthers vs Saints | Alternative Lines A,Over,53.0,145.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Saints,Panthers,Alternative Lines,Panthers vs Saints | Alternative Lines A,Panthers,9.5,-180.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Saints,Panthers,Alternative Lines,Panthers vs Saints | Alternative Lines A,Saints,-9.5,140.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Saints,Panthers,Alternative Lines,Panthers vs Saints | Alternative Lines A,Under,53.0,-190.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Saints,Panthers,Alternative Lines,Panthers vs Saints | Alternative Lines B,Over,47.0,-190.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Saints,Panthers,Alternative Lines,Panthers vs Saints | Alternative Lines B,Panthers,3.5,155.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Saints,Panthers,Alternative Lines,Panthers vs Saints | Alternative Lines B,Saints,-3.5,-200.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Saints,Panthers,Alternative Lines,Panthers vs Saints | Alternative Lines B,Under,47.0,145.0,2020-10-24 13:11
+2020-10-25,15:25 CDT,Under,Over,QB Pass Attempts,49ers vs Patriots | Cam Newton Total Pass Attempts,Over,31.5,-120.0,2020-10-24 13:11
+2020-10-25,15:25 CDT,Under,Over,QB Pass Attempts,49ers vs Patriots | Cam Newton Total Pass Attempts,Under,31.5,-120.0,2020-10-24 13:11
+2020-10-25,15:25 CDT,Under,Over,QB Pass Attempts,49ers vs Patriots | Jimmy Garoppolo Total Pass Attempts,Over,32.5,-120.0,2020-10-24 13:11
+2020-10-25,15:25 CDT,Under,Over,QB Pass Attempts,49ers vs Patriots | Jimmy Garoppolo Total Pass Attempts,Under,32.5,-120.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Pass Attempts,Bills vs Jets | Josh Allen Total Pass Attempts,Over,35.5,-120.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Pass Attempts,Bills vs Jets | Josh Allen Total Pass Attempts,Under,35.5,-120.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Pass Attempts,Bills vs Jets | Sam Darnold Total Pass Attempts,Over,35.5,-120.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Pass Attempts,Bills vs Jets | Sam Darnold Total Pass Attempts,Under,35.5,-120.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Pass Attempts,Browns vs Bengals | Baker Mayfield Total Pass Attempts,Over,32.5,-120.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Pass Attempts,Browns vs Bengals | Baker Mayfield Total Pass Attempts,Under,32.5,-120.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Pass Attempts,Cowboys vs Washington | Andy Dalton Total Pass Attempts,Over,35.5,-120.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Pass Attempts,Cowboys vs Washington | Andy Dalton Total Pass Attempts,Under,35.5,-120.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Pass Attempts,Cowboys vs Washington | Kyle Allen Total Pass Attempts,Over,36.5,-120.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Pass Attempts,Cowboys vs Washington | Kyle Allen Total Pass Attempts,Under,36.5,-120.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Pass Attempts,Lions vs Falcons | Matt Ryan Total Pass Attempts,Over,39.5,-120.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Pass Attempts,Lions vs Falcons | Matt Ryan Total Pass Attempts,Under,39.5,-120.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Pass Attempts,Lions vs Falcons | Matthew Stafford Total Pass Attempts,Over,36.5,-120.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Pass Attempts,Lions vs Falcons | Matthew Stafford Total Pass Attempts,Under,36.5,-120.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Pass Attempts,Packers vs Texans | Aaron Rodgers Total Pass Attempts,Over,38.5,-125.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Pass Attempts,Packers vs Texans | Aaron Rodgers Total Pass Attempts,Under,38.5,-115.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Pass Attempts,Packers vs Texans | Deshaun Watson Total Pass Attempts,Over,37.5,-120.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Pass Attempts,Packers vs Texans | Deshaun Watson Total Pass Attempts,Under,37.5,-120.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Pass Attempts,Panthers vs Saints | Drew Brees Total Pass Attempts,Over,34.5,-120.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Pass Attempts,Panthers vs Saints | Drew Brees Total Pass Attempts,Under,34.5,-120.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Pass Attempts,Panthers vs Saints | Teddy Bridgewater Total Pass Attempts,Over,35.5,-120.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Pass Attempts,Panthers vs Saints | Teddy Bridgewater Total Pass Attempts,Under,35.5,-120.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Pass Attempts,Steelers vs Titans | Ben Roethlisberger Total Pass Attempts,Over,37.5,-120.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Pass Attempts,Steelers vs Titans | Ben Roethlisberger Total Pass Attempts,Under,37.5,-120.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Pass Attempts,Steelers vs Titans | Ryan Tannehill Total Pass Attempts,Over,32.5,-115.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Pass Attempts,Steelers vs Titans | Ryan Tannehill Total Pass Attempts,Under,32.5,-125.0,2020-10-24 13:11
+2020-10-25,15:25 CDT,Under,Over,QB Pass Completions,49ers vs Patriots | Jimmy Garoppolo Total Completions,Over,20.5,-150.0,2020-10-24 13:11
+2020-10-25,15:25 CDT,Under,Over,QB Pass Completions,49ers vs Patriots | Jimmy Garoppolo Total Completions,Under,20.5,110.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Pass Completions,Bills vs Jets | Josh Allen Total Completions,Over,22.5,-160.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Pass Completions,Bills vs Jets | Josh Allen Total Completions,Under,22.5,115.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Pass Completions,Bills vs Jets | Sam Darnold Total Completions,Over,21.5,-105.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Pass Completions,Bills vs Jets | Sam Darnold Total Completions,Under,21.5,-135.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Pass Completions,Browns vs Bengals | Baker Mayfield Total Completions,Over,21.5,-115.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Pass Completions,Browns vs Bengals | Baker Mayfield Total Completions,Under,21.5,-125.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Pass Completions,Cowboys vs Washington | Andy Dalton Total Completions,Over,22.5,-120.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Pass Completions,Cowboys vs Washington | Andy Dalton Total Completions,Under,22.5,-120.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Pass Completions,Cowboys vs Washington | Kyle Allen Total Completions,Over,21.5,-140.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Pass Completions,Cowboys vs Washington | Kyle Allen Total Completions,Under,21.5,100.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Pass Completions,Lions vs Falcons | Matt Ryan Total Completions,Over,23.5,-145.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Pass Completions,Lions vs Falcons | Matt Ryan Total Completions,Under,23.5,105.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Pass Completions,Lions vs Falcons | Matthew Stafford Total Completions,Over,24.5,-110.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Pass Completions,Lions vs Falcons | Matthew Stafford Total Completions,Under,24.5,-130.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Pass Completions,Packers vs Texans | Aaron Rodgers Total Completions,Over,25.5,-140.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Pass Completions,Packers vs Texans | Aaron Rodgers Total Completions,Under,25.5,100.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Pass Completions,Packers vs Texans | Deshaun Watson Total Completions,Over,22.5,-130.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Pass Completions,Packers vs Texans | Deshaun Watson Total Completions,Under,22.5,-110.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Pass Completions,Panthers vs Saints | Drew Brees Total Completions,Over,23.5,-125.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Pass Completions,Panthers vs Saints | Drew Brees Total Completions,Under,23.5,-115.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Pass Completions,Panthers vs Saints | Teddy Bridgewater Total Completions,Over,22.5,-160.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Pass Completions,Panthers vs Saints | Teddy Bridgewater Total Completions,Under,22.5,115.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Pass Completions,Steelers vs Titans | Ben Roethlisberger Total Completions,Over,24.5,-120.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Pass Completions,Steelers vs Titans | Ben Roethlisberger Total Completions,Under,24.5,-120.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Pass Completions,Steelers vs Titans | Ryan Tannehill Total Completions,Over,20.5,-135.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Pass Completions,Steelers vs Titans | Ryan Tannehill Total Completions,Under,20.5,-105.0,2020-10-24 13:11
+2020-10-25,15:25 CDT,Under,Over,QB Passing TDs,49ers vs Patriots | Cam Newton Total Passing TDs,Over,1.5,100.0,2020-10-24 13:11
+2020-10-25,15:25 CDT,Under,Over,QB Passing TDs,49ers vs Patriots | Cam Newton Total Passing TDs,Under,1.5,-140.0,2020-10-24 13:11
+2020-10-25,15:25 CDT,Under,Over,QB Passing TDs,49ers vs Patriots | Jimmy Garoppolo Total Passing TDs,Over,1.5,-125.0,2020-10-24 13:11
+2020-10-25,15:25 CDT,Under,Over,QB Passing TDs,49ers vs Patriots | Jimmy Garoppolo Total Passing TDs,Under,1.5,-115.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Passing TDs,Bills vs Jets | Josh Allen Total Passing TDs,Over,1.5,-210.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Passing TDs,Bills vs Jets | Josh Allen Total Passing TDs,Under,1.5,150.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Passing TDs,Bills vs Jets | Sam Darnold Total Passing TDs,Over,1.5,170.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Passing TDs,Bills vs Jets | Sam Darnold Total Passing TDs,Under,1.5,-240.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Passing TDs,Browns vs Bengals | Baker Mayfield Total Passing TDs,Over,1.5,-165.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Passing TDs,Browns vs Bengals | Baker Mayfield Total Passing TDs,Under,1.5,120.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Passing TDs,Cowboys vs Washington | Andy Dalton Total Passing TDs,Over,1.5,-140.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Passing TDs,Cowboys vs Washington | Andy Dalton Total Passing TDs,Under,1.5,100.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Passing TDs,Cowboys vs Washington | Kyle Allen Total Passing TDs,Over,1.5,-130.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Passing TDs,Cowboys vs Washington | Kyle Allen Total Passing TDs,Under,1.5,-110.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Passing TDs,Lions vs Falcons | Matt Ryan Total Passing TDs,Over,1.5,-240.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Passing TDs,Lions vs Falcons | Matt Ryan Total Passing TDs,Under,1.5,170.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Passing TDs,Lions vs Falcons | Matthew Stafford Total Passing TDs,Over,2.5,140.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Passing TDs,Lions vs Falcons | Matthew Stafford Total Passing TDs,Under,2.5,-200.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Passing TDs,Packers vs Texans | Aaron Rodgers Total Passing TDs,Over,1.5,-300.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Passing TDs,Packers vs Texans | Aaron Rodgers Total Passing TDs,Under,1.5,200.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Passing TDs,Packers vs Texans | Deshaun Watson Total Passing TDs,Over,1.5,-250.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Passing TDs,Packers vs Texans | Deshaun Watson Total Passing TDs,Under,1.5,175.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Passing TDs,Panthers vs Saints | Drew Brees Total Passing TDs,Over,1.5,-230.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Passing TDs,Panthers vs Saints | Drew Brees Total Passing TDs,Under,1.5,165.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Passing TDs,Panthers vs Saints | Teddy Bridgewater Total Passing TDs,Over,2.5,150.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Passing TDs,Panthers vs Saints | Teddy Bridgewater Total Passing TDs,Under,2.5,-210.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Passing TDs,Steelers vs Titans | Ben Roethlisberger Total Passing TDs,Over,2.5,150.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Passing TDs,Steelers vs Titans | Ben Roethlisberger Total Passing TDs,Under,2.5,-210.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Passing TDs,Steelers vs Titans | Ryan Tannehill Total Passing TDs,Over,1.5,-190.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Passing TDs,Steelers vs Titans | Ryan Tannehill Total Passing TDs,Under,1.5,135.0,2020-10-24 13:11
+2020-10-25,15:25 CDT,Under,Over,QB Passing Yards,49ers vs Patriots | Cam Newton Total Passing Yards,Over,216.5,-120.0,2020-10-24 13:11
+2020-10-25,15:25 CDT,Under,Over,QB Passing Yards,49ers vs Patriots | Cam Newton Total Passing Yards,Under,216.5,-120.0,2020-10-24 13:11
+2020-10-25,15:25 CDT,Under,Over,QB Passing Yards,49ers vs Patriots | Jimmy Garoppolo Total Passing Yards,Over,233.5,-220.0,2020-10-24 13:11
+2020-10-25,15:25 CDT,Under,Over,QB Passing Yards,49ers vs Patriots | Jimmy Garoppolo Total Passing Yards,Under,233.5,155.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Passing Yards,Bills vs Jets | Josh Allen Total Passing Yards,Over,273.5,-160.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Passing Yards,Bills vs Jets | Josh Allen Total Passing Yards,Under,273.5,115.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Passing Yards,Bills vs Jets | Sam Darnold Total Passing Yards,Over,225.5,180.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Passing Yards,Bills vs Jets | Sam Darnold Total Passing Yards,Under,225.5,-260.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Passing Yards,Browns vs Bengals | Baker Mayfield Total Passing Yards,Over,235.5,-120.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Passing Yards,Browns vs Bengals | Baker Mayfield Total Passing Yards,Under,235.5,-120.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Passing Yards,Cowboys vs Washington | Andy Dalton Total Passing Yards,Over,260.5,-140.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Passing Yards,Cowboys vs Washington | Andy Dalton Total Passing Yards,Under,260.5,100.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Passing Yards,Cowboys vs Washington | Kyle Allen Total Passing Yards,Over,253.5,-140.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Passing Yards,Cowboys vs Washington | Kyle Allen Total Passing Yards,Under,253.5,100.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Passing Yards,Lions vs Falcons | Matt Ryan Total Passing Yards,Over,302.5,-220.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Passing Yards,Lions vs Falcons | Matt Ryan Total Passing Yards,Under,302.5,155.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Passing Yards,Lions vs Falcons | Matthew Stafford Total Passing Yards,Over,282.5,-120.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Passing Yards,Lions vs Falcons | Matthew Stafford Total Passing Yards,Under,282.5,-120.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Passing Yards,Packers vs Texans | Aaron Rodgers Total Passing Yards,Over,279.5,-280.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Passing Yards,Packers vs Texans | Aaron Rodgers Total Passing Yards,Under,279.5,190.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Passing Yards,Packers vs Texans | Deshaun Watson Total Passing Yards,Over,286.5,-160.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Passing Yards,Packers vs Texans | Deshaun Watson Total Passing Yards,Under,286.5,115.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Passing Yards,Panthers vs Saints | Drew Brees Total Passing Yards,Over,264.5,-120.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Passing Yards,Panthers vs Saints | Drew Brees Total Passing Yards,Under,264.5,-120.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Passing Yards,Panthers vs Saints | Teddy Bridgewater Total Passing Yards,Over,263.5,-250.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Passing Yards,Panthers vs Saints | Teddy Bridgewater Total Passing Yards,Under,263.5,175.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Passing Yards,Steelers vs Titans | Ben Roethlisberger Total Passing Yards,Over,270.5,-160.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Passing Yards,Steelers vs Titans | Ben Roethlisberger Total Passing Yards,Under,270.5,115.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Passing Yards,Steelers vs Titans | Ryan Tannehill Total Passing Yards,Over,263.5,-180.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,QB Passing Yards,Steelers vs Titans | Ryan Tannehill Total Passing Yards,Under,263.5,130.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,Rushing Yards,Bills vs Jets | Devin Singletary Total Rushing Yards,Over,55.5,-120.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,Rushing Yards,Bills vs Jets | Devin Singletary Total Rushing Yards,Under,55.5,-120.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,Rushing Yards,Bills vs Jets | Frank Gore Total Rushing Yards,Over,44.5,-120.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,Rushing Yards,Bills vs Jets | Frank Gore Total Rushing Yards,Under,44.5,-120.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,Rushing Yards,Bills vs Jets | Josh Allen Total Rushing Yards,Over,26.5,-120.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,Rushing Yards,Bills vs Jets | Josh Allen Total Rushing Yards,Under,26.5,-120.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,Rushing Yards,Browns vs Bengals | Giovani Bernard Total Rushing Yards,Over,47.5,-130.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,Rushing Yards,Browns vs Bengals | Giovani Bernard Total Rushing Yards,Under,47.5,-110.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,Rushing Yards,Browns vs Bengals | Kareem Hunt Total Rushing Yards,Over,84.5,-120.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,Rushing Yards,Browns vs Bengals | Kareem Hunt Total Rushing Yards,Under,84.5,-120.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,Rushing Yards,Cowboys vs Washington | Ezekiel Elliott Total Rushing Yards,Over,82.5,-120.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,Rushing Yards,Cowboys vs Washington | Ezekiel Elliott Total Rushing Yards,Under,82.5,-120.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,Rushing Yards,Lions vs Falcons | Adrian Peterson Total Rushing Yards,Over,42.5,-130.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,Rushing Yards,Lions vs Falcons | Adrian Peterson Total Rushing Yards,Under,42.5,-110.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,Rushing Yards,Lions vs Falcons | Todd Gurley II Total Rushing Yards,Over,63.5,-120.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,Rushing Yards,Lions vs Falcons | Todd Gurley II Total Rushing Yards,Under,63.5,-120.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,Rushing Yards,Packers vs Texans | David Johnson Total Rushing Yards,Over,64.5,-120.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,Rushing Yards,Packers vs Texans | David Johnson Total Rushing Yards,Under,64.5,-120.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,Rushing Yards,Panthers vs Saints | Alvin Kamara Total Rushing Yards,Over,63.5,-120.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,Rushing Yards,Panthers vs Saints | Alvin Kamara Total Rushing Yards,Under,63.5,-120.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,Rushing Yards,Panthers vs Saints | Mike Davis Total Rushing Yards,Over,57.5,-120.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,Rushing Yards,Panthers vs Saints | Mike Davis Total Rushing Yards,Under,57.5,-120.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,Rushing Yards,Steelers vs Titans | Derrick Henry Total Rushing Yards,Over,82.5,-145.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,Rushing Yards,Steelers vs Titans | Derrick Henry Total Rushing Yards,Under,82.5,105.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,Rushing Yards,Steelers vs Titans | James Conner Total Rushing Yards,Over,65.5,-120.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,Rushing Yards,Steelers vs Titans | James Conner Total Rushing Yards,Under,65.5,-120.0,2020-10-24 13:11
+2020-10-25,15:25 CDT,Under,Over,Team Totals,Chiefs vs Broncos | Broncos Total Points,Over,18.0,-120.0,2020-10-24 13:11
+2020-10-25,15:25 CDT,Under,Over,Team Totals,Chiefs vs Broncos | Broncos Total Points,Under,18.0,-110.0,2020-10-24 13:11
+2020-10-25,15:25 CDT,Under,Over,Team Totals,Chiefs vs Broncos | Chiefs Total Points,Over,25.5,-110.0,2020-10-24 13:11
+2020-10-25,15:25 CDT,Under,Over,Team Totals,Chiefs vs Broncos | Chiefs Total Points,Under,25.5,-120.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,Team Totals,Panthers vs Saints | Panthers Total Points,Over,21.5,-120.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,Team Totals,Panthers vs Saints | Panthers Total Points,Under,21.5,-110.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,Team Totals,Panthers vs Saints | Saints Total Points,Over,28.0,-120.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Under,Over,Team Totals,Panthers vs Saints | Saints Total Points,Under,28.0,-110.0,2020-10-24 13:11
+2020-10-25,19:20 CDT,Under,Over,Team Totals,Seahawks vs Cardinals | Cardinals Total Points,Over,26.0,-120.0,2020-10-24 13:11
+2020-10-25,19:20 CDT,Under,Over,Team Totals,Seahawks vs Cardinals | Cardinals Total Points,Under,26.0,-110.0,2020-10-24 13:11
+2020-10-25,19:20 CDT,Under,Over,Team Totals,Seahawks vs Cardinals | Seahawks Total Points,Over,29.0,-115.0,2020-10-24 13:11
+2020-10-25,19:20 CDT,Under,Over,Team Totals,Seahawks vs Cardinals | Seahawks Total Points,Under,29.0,-115.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Washington,Cowboys,Alternative Lines,Cowboys vs Washington | Alternative Lines A,Over,48.0,145.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Washington,Cowboys,Alternative Lines,Cowboys vs Washington | Alternative Lines A,Under,48.0,-190.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Washington,Cowboys,Alternative Lines,Cowboys vs Washington | Alternative Lines B,Over,42.0,-190.0,2020-10-24 13:11
+2020-10-25,12:00 CDT,Washington,Cowboys,Alternative Lines,Cowboys vs Washington | Alternative Lines B,Under,42.0,145.0,2020-10-24 13:11
+2020-10-25,15:25 CDT,Under,Over,Receptions,49ers vs Patriots | George Kittle Total Receptions,Over,6.5,110.0,2020-10-24 13:12
+2020-10-25,15:25 CDT,Under,Over,Receptions,49ers vs Patriots | George Kittle Total Receptions,Under,6.5,-150.0,2020-10-24 13:12
+2020-10-25,12:00 CDT,Under,Over,Receptions,Bills vs Jets | Cole Beasley Total Receptions,Over,4.5,-135.0,2020-10-24 13:12
+2020-10-25,12:00 CDT,Under,Over,Receptions,Bills vs Jets | Cole Beasley Total Receptions,Under,4.5,-105.0,2020-10-24 13:12
+2020-10-25,12:00 CDT,Under,Over,Receptions,Bills vs Jets | Stefon Diggs Total Receptions,Over,6.5,105.0,2020-10-24 13:12
+2020-10-25,12:00 CDT,Under,Over,Receptions,Bills vs Jets | Stefon Diggs Total Receptions,Under,6.5,-145.0,2020-10-24 13:12
+2020-10-25,12:00 CDT,Under,Over,Receptions,Browns vs Bengals | A.J. Green Total Receptions,Over,4.5,105.0,2020-10-24 13:12
+2020-10-25,12:00 CDT,Under,Over,Receptions,Browns vs Bengals | A.J. Green Total Receptions,Under,4.5,-145.0,2020-10-24 13:12
+2020-10-25,12:00 CDT,Under,Over,Receptions,Browns vs Bengals | Jarvis Landry Total Receptions,Over,5.5,160.0,2020-10-24 13:12
+2020-10-25,12:00 CDT,Under,Over,Receptions,Browns vs Bengals | Jarvis Landry Total Receptions,Under,5.5,-225.0,2020-10-24 13:12
+2020-10-25,12:00 CDT,Under,Over,Receptions,Browns vs Bengals | Odell Beckham Jr. Total Receptions,Over,5.5,135.0,2020-10-24 13:12
+2020-10-25,12:00 CDT,Under,Over,Receptions,Browns vs Bengals | Odell Beckham Jr. Total Receptions,Under,5.5,-190.0,2020-10-24 13:12
+2020-10-25,12:00 CDT,Under,Over,Receptions,Browns vs Bengals | Tyler Boyd Total Receptions,Over,5.5,105.0,2020-10-24 13:12
+2020-10-25,12:00 CDT,Under,Over,Receptions,Browns vs Bengals | Tyler Boyd Total Receptions,Under,5.5,-145.0,2020-10-24 13:12
+2020-10-25,12:00 CDT,Under,Over,Receptions,Cowboys vs Washington | Amari Cooper Total Receptions,Over,4.5,-145.0,2020-10-24 13:12
+2020-10-25,12:00 CDT,Under,Over,Receptions,Cowboys vs Washington | Amari Cooper Total Receptions,Under,4.5,105.0,2020-10-24 13:12
+2020-10-25,12:00 CDT,Under,Over,Receptions,Cowboys vs Washington | Dontrelle Inman Total Receptions,Over,3.5,115.0,2020-10-24 13:12
+2020-10-25,12:00 CDT,Under,Over,Receptions,Cowboys vs Washington | Dontrelle Inman Total Receptions,Under,3.5,-160.0,2020-10-24 13:12
+2020-10-25,12:00 CDT,Under,Over,Receptions,Cowboys vs Washington | Michael Gallup Total Receptions,Over,2.5,-180.0,2020-10-24 13:12
+2020-10-25,12:00 CDT,Under,Over,Receptions,Cowboys vs Washington | Michael Gallup Total Receptions,Under,2.5,130.0,2020-10-24 13:12
+2020-10-25,12:00 CDT,Under,Over,Receptions,Cowboys vs Washington | Terry McLaurin Total Receptions,Over,5.5,-140.0,2020-10-24 13:12
+2020-10-25,12:00 CDT,Under,Over,Receptions,Cowboys vs Washington | Terry McLaurin Total Receptions,Under,5.5,100.0,2020-10-24 13:12
+2020-10-25,12:00 CDT,Under,Over,Receptions,Lions vs Falcons | Calvin Ridley Total Receptions,Over,4.5,-180.0,2020-10-24 13:12
+2020-10-25,12:00 CDT,Under,Over,Receptions,Lions vs Falcons | Calvin Ridley Total Receptions,Under,4.5,130.0,2020-10-24 13:12
+2020-10-25,12:00 CDT,Under,Over,Receptions,Lions vs Falcons | Hayden Hurst Total Receptions,Over,2.5,-140.0,2020-10-24 13:12
+2020-10-25,12:00 CDT,Under,Over,Receptions,Lions vs Falcons | Hayden Hurst Total Receptions,Under,2.5,100.0,2020-10-24 13:12
+2020-10-25,12:00 CDT,Under,Over,Receptions,Lions vs Falcons | Julio Jones Total Receptions,Over,5.5,-160.0,2020-10-24 13:12
+2020-10-25,12:00 CDT,Under,Over,Receptions,Lions vs Falcons | Julio Jones Total Receptions,Under,5.5,115.0,2020-10-24 13:12
+2020-10-25,12:00 CDT,Under,Over,Receptions,Lions vs Falcons | Kenny Golladay Total Receptions,Over,4.5,-190.0,2020-10-24 13:12
+2020-10-25,12:00 CDT,Under,Over,Receptions,Lions vs Falcons | Kenny Golladay Total Receptions,Under,4.5,135.0,2020-10-24 13:12
+2020-10-25,12:00 CDT,Under,Over,Receptions,Lions vs Falcons | Marvin Jones Jr. Total Receptions,Over,3.5,105.0,2020-10-24 13:12
+2020-10-25,12:00 CDT,Under,Over,Receptions,Lions vs Falcons | Marvin Jones Jr. Total Receptions,Under,3.5,-145.0,2020-10-24 13:12
+2020-10-25,12:00 CDT,Under,Over,Receptions,Lions vs Falcons | Russell Gage Total Receptions,Over,2.5,-145.0,2020-10-24 13:12
+2020-10-25,12:00 CDT,Under,Over,Receptions,Lions vs Falcons | Russell Gage Total Receptions,Under,2.5,105.0,2020-10-24 13:12
+2020-10-25,12:00 CDT,Under,Over,Receptions,Lions vs Falcons | T.J. Hockenson Total Receptions,Over,3.5,-125.0,2020-10-24 13:12
+2020-10-25,12:00 CDT,Under,Over,Receptions,Lions vs Falcons | T.J. Hockenson Total Receptions,Under,3.5,-115.0,2020-10-24 13:12
+2020-10-25,12:00 CDT,Under,Over,Receptions,Packers vs Texans | Brandin Cooks Total Receptions,Over,4.5,-140.0,2020-10-24 13:12
+2020-10-25,12:00 CDT,Under,Over,Receptions,Packers vs Texans | Brandin Cooks Total Receptions,Under,4.5,100.0,2020-10-24 13:12
+2020-10-25,12:00 CDT,Under,Over,Receptions,Packers vs Texans | Davante Adams Total Receptions,Over,7.5,-110.0,2020-10-24 13:12
+2020-10-25,12:00 CDT,Under,Over,Receptions,Packers vs Texans | Davante Adams Total Receptions,Under,7.5,-130.0,2020-10-24 13:12
+2020-10-25,12:00 CDT,Under,Over,Receptions,Packers vs Texans | Marquez Valdes-Scantling Total Receptions,Over,3.5,-140.0,2020-10-24 13:12
+2020-10-25,12:00 CDT,Under,Over,Receptions,Packers vs Texans | Marquez Valdes-Scantling Total Receptions,Under,3.5,100.0,2020-10-24 13:12
+2020-10-25,12:00 CDT,Under,Over,Receptions,Packers vs Texans | Will Fuller V Total Receptions,Over,4.5,-145.0,2020-10-24 13:12
+2020-10-25,12:00 CDT,Under,Over,Receptions,Packers vs Texans | Will Fuller V Total Receptions,Under,4.5,105.0,2020-10-24 13:12
+2020-10-25,12:00 CDT,Under,Over,Receptions,Panthers vs Saints | D.J. Moore Total Receptions,Over,5.5,105.0,2020-10-24 13:12
+2020-10-25,12:00 CDT,Under,Over,Receptions,Panthers vs Saints | D.J. Moore Total Receptions,Under,5.5,-145.0,2020-10-24 13:12
+2020-10-25,12:00 CDT,Under,Over,Receptions,Panthers vs Saints | Jared Cook Total Receptions,Over,2.5,-210.0,2020-10-24 13:12
+2020-10-25,12:00 CDT,Under,Over,Receptions,Panthers vs Saints | Jared Cook Total Receptions,Under,2.5,150.0,2020-10-24 13:12
+2020-10-25,12:00 CDT,Under,Over,Receptions,Panthers vs Saints | Robby Anderson Total Receptions,Over,6.5,140.0,2020-10-24 13:12
+2020-10-25,12:00 CDT,Under,Over,Receptions,Panthers vs Saints | Robby Anderson Total Receptions,Under,6.5,-200.0,2020-10-24 13:12
+2020-10-25,12:00 CDT,Under,Over,Receptions,Steelers vs Titans | A.J. Brown Total Receptions,Over,3.5,-190.0,2020-10-24 13:12
+2020-10-25,12:00 CDT,Under,Over,Receptions,Steelers vs Titans | A.J. Brown Total Receptions,Under,3.5,135.0,2020-10-24 13:12
+2020-10-25,12:00 CDT,Under,Over,Receptions,Steelers vs Titans | Adam Humphries Total Receptions,Over,3.5,100.0,2020-10-24 13:12
+2020-10-25,12:00 CDT,Under,Over,Receptions,Steelers vs Titans | Adam Humphries Total Receptions,Under,3.5,-140.0,2020-10-24 13:12
+2020-10-25,12:00 CDT,Under,Over,Receptions,Steelers vs Titans | Corey Davis Total Receptions,Over,3.5,-115.0,2020-10-24 13:12
+2020-10-25,12:00 CDT,Under,Over,Receptions,Steelers vs Titans | Corey Davis Total Receptions,Under,3.5,-125.0,2020-10-24 13:12
+2020-10-25,12:00 CDT,Under,Over,Receptions,Steelers vs Titans | Jonnu Smith Total Receptions,Over,2.5,-120.0,2020-10-24 13:12
+2020-10-25,12:00 CDT,Under,Over,Receptions,Steelers vs Titans | Jonnu Smith Total Receptions,Under,2.5,-120.0,2020-10-24 13:12
+2020-10-25,12:00 CDT,Under,Over,Receptions,Steelers vs Titans | JuJu Smith-Schuster Total Receptions,Over,3.5,-200.0,2020-10-24 13:12
+2020-10-25,12:00 CDT,Under,Over,Receptions,Steelers vs Titans | JuJu Smith-Schuster Total Receptions,Under,3.5,140.0,2020-10-24 13:12
+2020-10-25,12:00 CDT,Bengals,Browns,1st Half,Browns vs Bengals | 1st Half Lines,Bengals,2.5,-110.0,2020-10-24 19:27
+2020-10-25,12:00 CDT,Bengals,Browns,1st Half,Browns vs Bengals | 1st Half Lines,Browns,-2.5,-110.0,2020-10-24 19:27
+2020-10-25,12:00 CDT,Bengals,Browns,1st Quarter,Browns vs Bengals | 1st Quarter Lines,Bengals,,120.0,2020-10-24 19:27
+2020-10-25,12:00 CDT,Bengals,Browns,1st Quarter,Browns vs Bengals | 1st Quarter Lines,Browns,,-140.0,2020-10-24 19:27
+2020-10-25,12:00 CDT,Bengals,Browns,Alternative Lines,Browns vs Bengals | Alternative Lines B,Bengals,6.0,-175.0,2020-10-24 19:27
+2020-10-25,12:00 CDT,Bengals,Browns,Alternative Lines,Browns vs Bengals | Alternative Lines B,Browns,-6.0,135.0,2020-10-24 19:27
+2020-10-25,15:25 CDT,Broncos,Chiefs,1st Half,Chiefs vs Broncos | 1st Half Lines,Broncos,4.5,-110.0,2020-10-24 19:27
+2020-10-25,15:25 CDT,Broncos,Chiefs,1st Half,Chiefs vs Broncos | 1st Half Lines,Chiefs,-4.5,-110.0,2020-10-24 19:27
+2020-10-25,15:25 CDT,Broncos,Chiefs,1st Quarter,Chiefs vs Broncos | 1st Quarter Lines,Broncos,,190.0,2020-10-24 19:27
+2020-10-25,15:25 CDT,Broncos,Chiefs,1st Quarter,Chiefs vs Broncos | 1st Quarter Lines,Chiefs,,-230.0,2020-10-24 19:27
+2020-10-25,19:20 CDT,Cardinals,Seahawks,1st Half,Seahawks vs Cardinals | 1st Half Lines,Cardinals,2.5,-110.0,2020-10-24 19:27
+2020-10-25,19:20 CDT,Cardinals,Seahawks,1st Half,Seahawks vs Cardinals | 1st Half Lines,Seahawks,-2.5,-110.0,2020-10-24 19:27
+2020-10-25,19:20 CDT,Cardinals,Seahawks,1st Quarter,Seahawks vs Cardinals | 1st Quarter Lines,Cardinals,,120.0,2020-10-24 19:27
+2020-10-25,19:20 CDT,Cardinals,Seahawks,1st Quarter,Seahawks vs Cardinals | 1st Quarter Lines,Seahawks,,-140.0,2020-10-24 19:27
+2020-10-25,15:25 CDT,Chargers,Jaguars,1st Half,Jaguars vs Chargers | 1st Half Lines,Chargers,-4.5,-110.0,2020-10-24 19:27
+2020-10-25,15:25 CDT,Chargers,Jaguars,1st Half,Jaguars vs Chargers | 1st Half Lines,Jaguars,4.5,-110.0,2020-10-24 19:27
+2020-10-25,15:25 CDT,Chargers,Jaguars,1st Quarter,Jaguars vs Chargers | 1st Quarter Lines,Chargers,,-220.0,2020-10-24 19:27
+2020-10-25,15:25 CDT,Chargers,Jaguars,1st Quarter,Jaguars vs Chargers | 1st Quarter Lines,Jaguars,,180.0,2020-10-24 19:27
+2020-10-25,12:00 CDT,Falcons,Lions,1st Half,Lions vs Falcons | 1st Half Lines,Falcons,-1.5,-110.0,2020-10-24 19:27
+2020-10-25,12:00 CDT,Falcons,Lions,1st Half,Lions vs Falcons | 1st Half Lines,Lions,1.5,-110.0,2020-10-24 19:27
+2020-10-25,12:00 CDT,Falcons,Lions,1st Quarter,Lions vs Falcons | 1st Quarter Lines,Falcons,,-135.0,2020-10-24 19:27
+2020-10-25,12:00 CDT,Falcons,Lions,1st Quarter,Lions vs Falcons | 1st Quarter Lines,Lions,,115.0,2020-10-24 19:27
+2020-10-25,12:00 CDT,Falcons,Lions,Alternative Lines,Lions vs Falcons | Alternative Lines A,Falcons,-5.0,155.0,2020-10-24 19:27
+2020-10-25,12:00 CDT,Falcons,Lions,Alternative Lines,Lions vs Falcons | Alternative Lines A,Lions,5.0,-200.0,2020-10-24 19:27
+2020-10-25,12:00 CDT,Jets,Bills,1st Half,Bills vs Jets | 1st Half Lines,Bills,-7.0,100.0,2020-10-24 19:27
+2020-10-25,12:00 CDT,Jets,Bills,1st Half,Bills vs Jets | 1st Half Lines,Jets,7.0,-120.0,2020-10-24 19:27
+2020-10-25,12:00 CDT,Jets,Bills,1st Quarter,Bills vs Jets | 1st Quarter Lines,Bills,-3.0,-110.0,2020-10-24 19:27
+2020-10-25,12:00 CDT,Jets,Bills,1st Quarter,Bills vs Jets | 1st Quarter Lines,Jets,3.0,-110.0,2020-10-24 19:27
+2020-10-25,15:25 CDT,Patriots,49ers,1st Half,49ers vs Patriots | 1st Half Lines,49ers,1.5,-110.0,2020-10-24 19:27
+2020-10-25,15:25 CDT,Patriots,49ers,1st Half,49ers vs Patriots | 1st Half Lines,Patriots,-1.5,-110.0,2020-10-24 19:27
+2020-10-25,15:25 CDT,Patriots,49ers,1st Quarter,49ers vs Patriots | 1st Quarter Lines,49ers,,105.0,2020-10-24 19:27
+2020-10-25,15:25 CDT,Patriots,49ers,1st Quarter,49ers vs Patriots | 1st Quarter Lines,Patriots,,-125.0,2020-10-24 19:27
+2020-10-25,15:05 CDT,Raiders,Buccaneers,1st Half,Buccaneers vs Raiders | 1st Half Lines,Buccaneers,,-170.0,2020-10-24 19:27
+2020-10-25,15:05 CDT,Raiders,Buccaneers,1st Half,Buccaneers vs Raiders | 1st Half Lines,Buccaneers,-3.0,-110.0,2020-10-24 19:27
+2020-10-25,15:05 CDT,Raiders,Buccaneers,1st Half,Buccaneers vs Raiders | 1st Half Lines,Over,26.0,-110.0,2020-10-24 19:27
+2020-10-25,15:05 CDT,Raiders,Buccaneers,1st Half,Buccaneers vs Raiders | 1st Half Lines,Raiders,,150.0,2020-10-24 19:27
+2020-10-25,15:05 CDT,Raiders,Buccaneers,1st Half,Buccaneers vs Raiders | 1st Half Lines,Raiders,3.0,-110.0,2020-10-24 19:27
+2020-10-25,15:05 CDT,Raiders,Buccaneers,1st Half,Buccaneers vs Raiders | 1st Half Lines,Under,26.0,-110.0,2020-10-24 19:27
+2020-10-25,15:05 CDT,Raiders,Buccaneers,1st Quarter,Buccaneers vs Raiders | 1st Quarter Lines,Buccaneers,,-150.0,2020-10-24 19:27
+2020-10-25,15:05 CDT,Raiders,Buccaneers,1st Quarter,Buccaneers vs Raiders | 1st Quarter Lines,Buccaneers,-0.5,100.0,2020-10-24 19:27
+2020-10-25,15:05 CDT,Raiders,Buccaneers,1st Quarter,Buccaneers vs Raiders | 1st Quarter Lines,Over,10.0,-115.0,2020-10-24 19:27
+2020-10-25,15:05 CDT,Raiders,Buccaneers,1st Quarter,Buccaneers vs Raiders | 1st Quarter Lines,Raiders,,130.0,2020-10-24 19:27
+2020-10-25,15:05 CDT,Raiders,Buccaneers,1st Quarter,Buccaneers vs Raiders | 1st Quarter Lines,Raiders,0.5,-120.0,2020-10-24 19:27
+2020-10-25,15:05 CDT,Raiders,Buccaneers,1st Quarter,Buccaneers vs Raiders | 1st Quarter Lines,Under,10.0,-105.0,2020-10-24 19:27
+2020-10-25,15:05 CDT,Raiders,Buccaneers,Team To Score First,Buccaneers vs Raiders | Team to Score First,Buccaneers,,-145.0,2020-10-24 19:27
+2020-10-25,15:05 CDT,Raiders,Buccaneers,Team To Score First,Buccaneers vs Raiders | Team to Score First,Raiders,,115.0,2020-10-24 19:27
+2020-10-25,12:00 CDT,Saints,Panthers,1st Half,Panthers vs Saints | 1st Half Lines,Panthers,4.0,-110.0,2020-10-24 19:27
+2020-10-25,12:00 CDT,Saints,Panthers,1st Half,Panthers vs Saints | 1st Half Lines,Saints,-4.0,-110.0,2020-10-24 19:27
+2020-10-25,12:00 CDT,Saints,Panthers,1st Quarter,Panthers vs Saints | 1st Quarter Lines,Panthers,,175.0,2020-10-24 19:27
+2020-10-25,12:00 CDT,Saints,Panthers,1st Quarter,Panthers vs Saints | 1st Quarter Lines,Saints,,-210.0,2020-10-24 19:27
+2020-10-25,12:00 CDT,Saints,Panthers,Alternative Lines,Panthers vs Saints | Alternative Lines A,Over,52.5,155.0,2020-10-24 19:27
+2020-10-25,12:00 CDT,Saints,Panthers,Alternative Lines,Panthers vs Saints | Alternative Lines A,Panthers,9.5,-190.0,2020-10-24 19:27
+2020-10-25,12:00 CDT,Saints,Panthers,Alternative Lines,Panthers vs Saints | Alternative Lines A,Saints,-9.5,145.0,2020-10-24 19:27
+2020-10-25,12:00 CDT,Saints,Panthers,Alternative Lines,Panthers vs Saints | Alternative Lines A,Under,52.5,-200.0,2020-10-24 19:27
+2020-10-25,12:00 CDT,Saints,Panthers,Alternative Lines,Panthers vs Saints | Alternative Lines B,Over,46.5,-180.0,2020-10-24 19:27
+2020-10-25,12:00 CDT,Saints,Panthers,Alternative Lines,Panthers vs Saints | Alternative Lines B,Panthers,3.5,145.0,2020-10-24 19:27
+2020-10-25,12:00 CDT,Saints,Panthers,Alternative Lines,Panthers vs Saints | Alternative Lines B,Saints,-3.5,-190.0,2020-10-24 19:27
+2020-10-25,12:00 CDT,Saints,Panthers,Alternative Lines,Panthers vs Saints | Alternative Lines B,Under,46.5,140.0,2020-10-24 19:27
+2020-10-25,12:00 CDT,Texans,Packers,1st Half,Packers vs Texans | 1st Half Lines,Packers,-2.5,-120.0,2020-10-24 19:27
+2020-10-25,12:00 CDT,Texans,Packers,1st Half,Packers vs Texans | 1st Half Lines,Texans,2.5,100.0,2020-10-24 19:27
+2020-10-25,12:00 CDT,Texans,Packers,1st Quarter,Packers vs Texans | 1st Quarter Lines,Packers,,-145.0,2020-10-24 19:27
+2020-10-25,12:00 CDT,Texans,Packers,1st Quarter,Packers vs Texans | 1st Quarter Lines,Texans,,125.0,2020-10-24 19:27
+2020-10-25,12:00 CDT,Titans,Steelers,1st Quarter,Steelers vs Titans | 1st Quarter Lines,Steelers,,-105.0,2020-10-24 19:27
+2020-10-25,12:00 CDT,Titans,Steelers,1st Quarter,Steelers vs Titans | 1st Quarter Lines,Titans,,-115.0,2020-10-24 19:27
+2020-10-25,12:00 CDT,Titans,Steelers,Alternative Lines,Steelers vs Titans | Alternative Lines A,Over,54.0,120.0,2020-10-24 19:27
+2020-10-25,12:00 CDT,Titans,Steelers,Alternative Lines,Steelers vs Titans | Alternative Lines A,Steelers,4.0,-180.0,2020-10-24 19:27
+2020-10-25,12:00 CDT,Titans,Steelers,Alternative Lines,Steelers vs Titans | Alternative Lines A,Titans,-4.0,140.0,2020-10-24 19:27
+2020-10-25,12:00 CDT,Titans,Steelers,Alternative Lines,Steelers vs Titans | Alternative Lines A,Under,54.0,-160.0,2020-10-24 19:27
+2020-10-25,15:25 CDT,Under,Over,Team Totals,49ers vs Patriots | Patriots Total Points,Over,24.0,-120.0,2020-10-24 19:27
+2020-10-25,15:25 CDT,Under,Over,Team Totals,49ers vs Patriots | Patriots Total Points,Under,24.0,-110.0,2020-10-24 19:27
+2020-10-25,15:05 CDT,Under,Over,Team Totals,Buccaneers vs Raiders | Buccaneers Total Points,Over,28.0,-120.0,2020-10-24 19:27
+2020-10-25,15:05 CDT,Under,Over,Team Totals,Buccaneers vs Raiders | Buccaneers Total Points,Under,28.0,-110.0,2020-10-24 19:27
+2020-10-25,15:05 CDT,Under,Over,Team Totals,Buccaneers vs Raiders | Raiders Total Points,Over,23.5,-120.0,2020-10-24 19:27
+2020-10-25,15:05 CDT,Under,Over,Team Totals,Buccaneers vs Raiders | Raiders Total Points,Under,23.5,-110.0,2020-10-24 19:27
+2020-10-25,15:25 CDT,Under,Over,Team Totals,Chiefs vs Broncos | Broncos Total Points,Over,18.5,-115.0,2020-10-24 19:27
+2020-10-25,15:25 CDT,Under,Over,Team Totals,Chiefs vs Broncos | Broncos Total Points,Under,18.5,-115.0,2020-10-24 19:27
+2020-10-25,15:25 CDT,Under,Over,Team Totals,Chiefs vs Broncos | Chiefs Total Points,Over,25.5,-115.0,2020-10-24 19:27
+2020-10-25,15:25 CDT,Under,Over,Team Totals,Chiefs vs Broncos | Chiefs Total Points,Under,25.5,-115.0,2020-10-24 19:27
+2020-10-25,12:00 CDT,Under,Over,Team Totals,Cowboys vs Washington | Cowboys Total Points,Over,22.0,-115.0,2020-10-24 19:27
+2020-10-25,12:00 CDT,Under,Over,Team Totals,Cowboys vs Washington | Cowboys Total Points,Under,22.0,-115.0,2020-10-24 19:27
+2020-10-25,12:00 CDT,Under,Over,Team Totals,Cowboys vs Washington | Washington Total Points,Over,23.0,-115.0,2020-10-24 19:27
+2020-10-25,12:00 CDT,Under,Over,Team Totals,Cowboys vs Washington | Washington Total Points,Under,23.0,-115.0,2020-10-24 19:27
+2020-10-25,12:00 CDT,Under,Over,Team Totals,Lions vs Falcons | Falcons Total Points,Over,28.5,-115.0,2020-10-24 19:27
+2020-10-25,12:00 CDT,Under,Over,Team Totals,Lions vs Falcons | Falcons Total Points,Under,28.5,-115.0,2020-10-24 19:27
+2020-10-25,12:00 CDT,Under,Over,Team Totals,Lions vs Falcons | Lions Total Points,Over,26.5,-115.0,2020-10-24 19:27
+2020-10-25,12:00 CDT,Under,Over,Team Totals,Lions vs Falcons | Lions Total Points,Under,26.5,-115.0,2020-10-24 19:27
+2020-10-25,12:00 CDT,Under,Over,Team Totals,Panthers vs Saints | Panthers Total Points,Over,21.5,-110.0,2020-10-24 19:27
+2020-10-25,12:00 CDT,Under,Over,Team Totals,Panthers vs Saints | Panthers Total Points,Under,21.5,-120.0,2020-10-24 19:27
+2020-10-25,12:00 CDT,Under,Over,Team Totals,Panthers vs Saints | Saints Total Points,Over,28.0,-115.0,2020-10-24 19:27
+2020-10-25,12:00 CDT,Under,Over,Team Totals,Panthers vs Saints | Saints Total Points,Under,28.0,-115.0,2020-10-24 19:27
+2020-10-25,19:20 CDT,Under,Over,Team Totals,Seahawks vs Cardinals | Seahawks Total Points,Over,29.0,-110.0,2020-10-24 19:27
+2020-10-25,19:20 CDT,Under,Over,Team Totals,Seahawks vs Cardinals | Seahawks Total Points,Under,29.0,-120.0,2020-10-24 19:27
+2020-10-25,12:00 CDT,Under,Over,Team Totals,Steelers vs Titans | Steelers Total Points,Over,25.0,-115.0,2020-10-24 19:27
+2020-10-25,12:00 CDT,Under,Over,Team Totals,Steelers vs Titans | Steelers Total Points,Under,25.0,-115.0,2020-10-24 19:27
+2020-10-25,12:00 CDT,Washington,Cowboys,1st Quarter,Cowboys vs Washington | 1st Quarter Lines,Cowboys,,-110.0,2020-10-24 19:27
+2020-10-25,12:00 CDT,Washington,Cowboys,1st Quarter,Cowboys vs Washington | 1st Quarter Lines,Washington,,-110.0,2020-10-24 19:27
+2020-10-26,19:15 CDT,Rams,Bears,1st Half,Bears vs Rams | 1st Half Lines,Bears,3.0,-105.0,2020-10-24 19:27
+2020-10-26,19:15 CDT,Rams,Bears,1st Half,Bears vs Rams | 1st Half Lines,Rams,-3.0,-115.0,2020-10-24 19:27
+2020-10-26,19:15 CDT,Rams,Bears,1st Quarter,Bears vs Rams | 1st Quarter Lines,Bears,,170.0,2020-10-24 19:27
+2020-10-26,19:15 CDT,Rams,Bears,1st Quarter,Bears vs Rams | 1st Quarter Lines,Rams,,-200.0,2020-10-24 19:27
+2020-10-25,15:25 CDT,Broncos,Chiefs,Alternative Lines,Chiefs vs Broncos | Alternative Lines A,Broncos,4.0,155.0,2020-10-24 19:28
+2020-10-25,15:25 CDT,Broncos,Chiefs,Alternative Lines,Chiefs vs Broncos | Alternative Lines A,Chiefs,-4.0,-200.0,2020-10-24 19:28
+2020-10-25,15:25 CDT,Broncos,Chiefs,Alternative Lines,Chiefs vs Broncos | Alternative Lines B,Broncos,10.0,-180.0,2020-10-24 19:28
+2020-10-25,15:25 CDT,Broncos,Chiefs,Alternative Lines,Chiefs vs Broncos | Alternative Lines B,Chiefs,-10.0,140.0,2020-10-24 19:28
+2020-10-25,19:20 CDT,Cardinals,Seahawks,Alternative Lines,Seahawks vs Cardinals | Alternative Lines B,Cardinals,6.0,-155.0,2020-10-24 19:28
+2020-10-25,19:20 CDT,Cardinals,Seahawks,Alternative Lines,Seahawks vs Cardinals | Alternative Lines B,Seahawks,-6.0,120.0,2020-10-24 19:28
+2020-10-25,15:25 CDT,Patriots,49ers,Alternative Lines,49ers vs Patriots | Alternative Lines A,49ers,6.0,-200.0,2020-10-24 19:28
+2020-10-25,15:25 CDT,Patriots,49ers,Alternative Lines,49ers vs Patriots | Alternative Lines A,Over,48.0,140.0,2020-10-24 19:28
+2020-10-25,15:25 CDT,Patriots,49ers,Alternative Lines,49ers vs Patriots | Alternative Lines A,Patriots,-6.0,155.0,2020-10-24 19:28
+2020-10-25,15:25 CDT,Patriots,49ers,Alternative Lines,49ers vs Patriots | Alternative Lines A,Under,48.0,-180.0,2020-10-24 19:28
+2020-10-25,15:25 CDT,Patriots,49ers,Alternative Lines,49ers vs Patriots | Alternative Lines B,Over,42.0,-200.0,2020-10-24 19:28
+2020-10-25,15:25 CDT,Patriots,49ers,Alternative Lines,49ers vs Patriots | Alternative Lines B,Under,42.0,155.0,2020-10-24 19:28
+2020-10-25,15:05 CDT,Raiders,Buccaneers,Alternative Lines,Buccaneers vs Raiders | Alternative Lines A,Over,55.0,145.0,2020-10-24 19:28
+2020-10-25,15:05 CDT,Raiders,Buccaneers,Alternative Lines,Buccaneers vs Raiders | Alternative Lines A,Under,55.0,-190.0,2020-10-24 19:28
+2020-10-25,15:05 CDT,Raiders,Buccaneers,Alternative Lines,Buccaneers vs Raiders | Alternative Lines B,Over,49.0,-190.0,2020-10-24 19:28
+2020-10-25,15:05 CDT,Raiders,Buccaneers,Alternative Lines,Buccaneers vs Raiders | Alternative Lines B,Under,49.0,145.0,2020-10-24 19:28
+2020-10-25,12:00 CDT,Titans,Steelers,Alternative Lines,Steelers vs Titans | Alternative Lines B,Over,48.0,-190.0,2020-10-24 19:28
+2020-10-25,12:00 CDT,Titans,Steelers,Alternative Lines,Steelers vs Titans | Alternative Lines B,Under,48.0,145.0,2020-10-24 19:28
+2020-10-25,15:25 CDT,Under,Over,QB Pass Attempts,49ers vs Patriots | Jimmy Garoppolo Total Pass Attempts,Over,31.5,-125.0,2020-10-24 19:28
+2020-10-25,15:25 CDT,Under,Over,QB Pass Attempts,49ers vs Patriots | Jimmy Garoppolo Total Pass Attempts,Under,31.5,-115.0,2020-10-24 19:28
+2020-10-25,15:25 CDT,Under,Over,QB Pass Attempts,Chiefs vs Broncos | Patrick Mahomes II Total Pass Attempts,Over,33.5,-120.0,2020-10-24 19:28
+2020-10-25,15:25 CDT,Under,Over,QB Pass Attempts,Chiefs vs Broncos | Patrick Mahomes II Total Pass Attempts,Under,33.5,-120.0,2020-10-24 19:28
+2020-10-25,12:00 CDT,Under,Over,QB Pass Attempts,Packers vs Texans | Deshaun Watson Total Pass Attempts,Over,36.5,-120.0,2020-10-24 19:28
+2020-10-25,12:00 CDT,Under,Over,QB Pass Attempts,Packers vs Texans | Deshaun Watson Total Pass Attempts,Under,36.5,-120.0,2020-10-24 19:28
+2020-10-25,12:00 CDT,Under,Over,QB Pass Attempts,Panthers vs Saints | Drew Brees Total Pass Attempts,Over,35.5,-120.0,2020-10-24 19:28
+2020-10-25,12:00 CDT,Under,Over,QB Pass Attempts,Panthers vs Saints | Drew Brees Total Pass Attempts,Under,35.5,-120.0,2020-10-24 19:28
+2020-10-25,12:00 CDT,Under,Over,QB Pass Attempts,Panthers vs Saints | Teddy Bridgewater Total Pass Attempts,Over,36.5,-120.0,2020-10-24 19:28
+2020-10-25,12:00 CDT,Under,Over,QB Pass Attempts,Panthers vs Saints | Teddy Bridgewater Total Pass Attempts,Under,36.5,-120.0,2020-10-24 19:28
+2020-10-25,15:25 CDT,Under,Over,QB Passing TDs,Chiefs vs Broncos | Patrick Mahomes II Total Passing TDs,Over,1.5,-240.0,2020-10-24 19:28
+2020-10-25,15:25 CDT,Under,Over,QB Passing TDs,Chiefs vs Broncos | Patrick Mahomes II Total Passing TDs,Under,1.5,170.0,2020-10-24 19:28
+2020-10-25,12:00 CDT,Under,Over,QB Passing TDs,Cowboys vs Washington | Kyle Allen Total Passing TDs,Over,1.5,-150.0,2020-10-24 19:28
+2020-10-25,12:00 CDT,Under,Over,QB Passing TDs,Cowboys vs Washington | Kyle Allen Total Passing TDs,Under,1.5,110.0,2020-10-24 19:28
+2020-10-25,15:25 CDT,Under,Over,QB Passing TDs,Jaguars vs Chargers | Gardner Minshew II Total Passing TDs,Over,1.5,-125.0,2020-10-24 19:28
+2020-10-25,15:25 CDT,Under,Over,QB Passing TDs,Jaguars vs Chargers | Gardner Minshew II Total Passing TDs,Under,1.5,-115.0,2020-10-24 19:28
+2020-10-25,12:00 CDT,Under,Over,QB Passing TDs,Packers vs Texans | Aaron Rodgers Total Passing TDs,Over,1.5,-240.0,2020-10-24 19:28
+2020-10-25,12:00 CDT,Under,Over,QB Passing TDs,Packers vs Texans | Aaron Rodgers Total Passing TDs,Under,1.5,170.0,2020-10-24 19:28
+2020-10-25,12:00 CDT,Under,Over,QB Passing TDs,Packers vs Texans | Deshaun Watson Total Passing TDs,Over,1.5,-180.0,2020-10-24 19:28
+2020-10-25,12:00 CDT,Under,Over,QB Passing TDs,Packers vs Texans | Deshaun Watson Total Passing TDs,Under,1.5,130.0,2020-10-24 19:28
+2020-10-25,15:25 CDT,Under,Over,QB Passing Yards,Chiefs vs Broncos | Patrick Mahomes II Total Passing Yards,Over,267.5,-120.0,2020-10-24 19:28
+2020-10-25,15:25 CDT,Under,Over,QB Passing Yards,Chiefs vs Broncos | Patrick Mahomes II Total Passing Yards,Under,267.5,-120.0,2020-10-24 19:28
+2020-10-25,15:25 CDT,Under,Over,QB Passing Yards,Jaguars vs Chargers | Gardner Minshew II Total Passing Yards,Over,260.5,-120.0,2020-10-24 19:28
+2020-10-25,15:25 CDT,Under,Over,QB Passing Yards,Jaguars vs Chargers | Gardner Minshew II Total Passing Yards,Under,260.5,-120.0,2020-10-24 19:28
+2020-10-25,12:00 CDT,Under,Over,QB Passing Yards,Packers vs Texans | Aaron Rodgers Total Passing Yards,Over,282.5,-280.0,2020-10-24 19:28
+2020-10-25,12:00 CDT,Under,Over,QB Passing Yards,Packers vs Texans | Aaron Rodgers Total Passing Yards,Under,282.5,190.0,2020-10-24 19:28
+2020-10-25,12:00 CDT,Under,Over,Receptions,Bills vs Jets | Cole Beasley Total Receptions,Over,4.5,-115.0,2020-10-24 19:28
+2020-10-25,12:00 CDT,Under,Over,Receptions,Bills vs Jets | Cole Beasley Total Receptions,Under,4.5,-125.0,2020-10-24 19:28
+2020-10-25,12:00 CDT,Under,Over,Receptions,Bills vs Jets | Stefon Diggs Total Receptions,Over,6.5,135.0,2020-10-24 19:28
+2020-10-25,12:00 CDT,Under,Over,Receptions,Bills vs Jets | Stefon Diggs Total Receptions,Under,6.5,-190.0,2020-10-24 19:28
+2020-10-25,15:25 CDT,Under,Over,Receptions,Chiefs vs Broncos | Noah Fant Total Receptions,Over,3.5,-125.0,2020-10-24 19:28
+2020-10-25,15:25 CDT,Under,Over,Receptions,Chiefs vs Broncos | Noah Fant Total Receptions,Under,3.5,-115.0,2020-10-24 19:28
+2020-10-25,15:25 CDT,Under,Over,Receptions,Chiefs vs Broncos | Travis Kelce Total Receptions,Over,5.5,-135.0,2020-10-24 19:28
+2020-10-25,15:25 CDT,Under,Over,Receptions,Chiefs vs Broncos | Travis Kelce Total Receptions,Under,5.5,-105.0,2020-10-24 19:28
+2020-10-25,15:25 CDT,Under,Over,Receptions,Chiefs vs Broncos | Tyreek Hill Total Receptions,Over,3.5,-220.0,2020-10-24 19:28
+2020-10-25,15:25 CDT,Under,Over,Receptions,Chiefs vs Broncos | Tyreek Hill Total Receptions,Under,3.5,155.0,2020-10-24 19:28
+2020-10-25,12:00 CDT,Under,Over,Receptions,Cowboys vs Washington | Dontrelle Inman Total Receptions,Over,3.5,130.0,2020-10-24 19:28
+2020-10-25,12:00 CDT,Under,Over,Receptions,Cowboys vs Washington | Dontrelle Inman Total Receptions,Under,3.5,-180.0,2020-10-24 19:28
+2020-10-25,15:25 CDT,Under,Over,Receptions,Jaguars vs Chargers | D.J. Chark Jr. Total Receptions,Over,4.5,105.0,2020-10-24 19:28
+2020-10-25,15:25 CDT,Under,Over,Receptions,Jaguars vs Chargers | D.J. Chark Jr. Total Receptions,Under,4.5,-145.0,2020-10-24 19:28
+2020-10-25,15:25 CDT,Under,Over,Receptions,Jaguars vs Chargers | Keenan Allen Total Receptions,Over,6.5,110.0,2020-10-24 19:28
+2020-10-25,15:25 CDT,Under,Over,Receptions,Jaguars vs Chargers | Keenan Allen Total Receptions,Under,6.5,-150.0,2020-10-24 19:28
+2020-10-25,12:00 CDT,Under,Over,Receptions,Lions vs Falcons | Julio Jones Total Receptions,Over,5.5,-135.0,2020-10-24 19:28
+2020-10-25,12:00 CDT,Under,Over,Receptions,Lions vs Falcons | Julio Jones Total Receptions,Under,5.5,-105.0,2020-10-24 19:28
+2020-10-25,12:00 CDT,Under,Over,Receptions,Packers vs Texans | Marquez Valdes-Scantling Total Receptions,Over,3.5,-135.0,2020-10-24 19:28
+2020-10-25,12:00 CDT,Under,Over,Receptions,Packers vs Texans | Marquez Valdes-Scantling Total Receptions,Under,3.5,-105.0,2020-10-24 19:28
+2020-10-25,12:00 CDT,Under,Over,Receptions,Panthers vs Saints | D.J. Moore Total Receptions,Over,5.5,115.0,2020-10-24 19:28
+2020-10-25,12:00 CDT,Under,Over,Receptions,Panthers vs Saints | D.J. Moore Total Receptions,Under,5.5,-160.0,2020-10-24 19:28
+2020-10-25,15:25 CDT,Under,Over,Rushing Yards,49ers vs Patriots | Rex Burkhead Total Rushing Yards,Over,20.5,-120.0,2020-10-24 19:28
+2020-10-25,15:25 CDT,Under,Over,Rushing Yards,49ers vs Patriots | Rex Burkhead Total Rushing Yards,Under,20.5,-120.0,2020-10-24 19:28
+2020-10-25,15:25 CDT,Under,Over,Rushing Yards,Chiefs vs Broncos | Le'Veon Bell Total Rushing Yards,Over,23.5,-115.0,2020-10-24 19:28
+2020-10-25,15:25 CDT,Under,Over,Rushing Yards,Chiefs vs Broncos | Le'Veon Bell Total Rushing Yards,Under,23.5,-125.0,2020-10-24 19:28
+2020-10-25,15:25 CDT,Under,Over,Rushing Yards,Chiefs vs Broncos | Melvin Gordon III Total Rushing Yards,Over,50.5,-120.0,2020-10-24 19:28
+2020-10-25,15:25 CDT,Under,Over,Rushing Yards,Chiefs vs Broncos | Melvin Gordon III Total Rushing Yards,Under,50.5,-120.0,2020-10-24 19:28
+2020-10-25,15:25 CDT,Under,Over,Rushing Yards,Chiefs vs Broncos | Phillip Lindsay Total Rushing Yards,Over,38.5,-120.0,2020-10-24 19:28
+2020-10-25,15:25 CDT,Under,Over,Rushing Yards,Chiefs vs Broncos | Phillip Lindsay Total Rushing Yards,Under,38.5,-120.0,2020-10-24 19:28
+2020-10-25,12:00 CDT,Under,Over,Rushing Yards,Steelers vs Titans | James Conner Total Rushing Yards,Over,66.5,-120.0,2020-10-24 19:28
+2020-10-25,12:00 CDT,Under,Over,Rushing Yards,Steelers vs Titans | James Conner Total Rushing Yards,Under,66.5,-120.0,2020-10-24 19:28

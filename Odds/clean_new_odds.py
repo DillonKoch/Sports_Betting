@@ -4,7 +4,7 @@
 # File Created: Monday, 24th August 2020 5:29:50 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Saturday, 29th August 2020 1:15:37 pm
+# Last Modified: Saturday, 24th October 2020 1:39:26 pm
 # Modified By: Dillon Koch
 # -----
 #
@@ -14,7 +14,6 @@
 
 
 import os
-from posix import listdir
 import sys
 from os.path import abspath, dirname
 
@@ -97,8 +96,8 @@ class Clean_New_Odds:
 
 
 if __name__ == "__main__":
-    league = parse_league()
     league = "NFL"
+    league = parse_league()
     x = Clean_New_Odds(league)
     self = x
     x.run()
