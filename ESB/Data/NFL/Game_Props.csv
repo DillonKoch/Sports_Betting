@@ -2093,3 +2093,849 @@ datetime,Game_Time,Home,Away,Title,Description,Bet,Spread/overunder,Odds,scraped
 2020-10-25,15:25 CDT,Under,Over,Rushing Yards,Chiefs vs Broncos | Phillip Lindsay Total Rushing Yards,Under,48.5,-120.0,2020-10-25 10:26
 2020-10-25,12:00 CDT,Under,Over,Rushing Yards,Lions vs Falcons | Adrian Peterson Total Rushing Yards,Over,40.5,-130.0,2020-10-25 10:26
 2020-10-25,12:00 CDT,Under,Over,Rushing Yards,Lions vs Falcons | Adrian Peterson Total Rushing Yards,Under,40.5,-110.0,2020-10-25 10:26
+2020-10-25,15:25 CDT,Broncos,Chiefs,1st Half,Chiefs vs Broncos | 1st Half Lines,Broncos,,200.0,2020-10-25 14:32
+2020-10-25,15:25 CDT,Broncos,Chiefs,1st Half,Chiefs vs Broncos | 1st Half Lines,Chiefs,,-240.0,2020-10-25 14:32
+2020-10-25,15:25 CDT,Broncos,Chiefs,1st Quarter,Chiefs vs Broncos | 1st Quarter Lines,Broncos,,160.0,2020-10-25 14:32
+2020-10-25,15:25 CDT,Broncos,Chiefs,1st Quarter,Chiefs vs Broncos | 1st Quarter Lines,Broncos,0.5,100.0,2020-10-25 14:32
+2020-10-25,15:25 CDT,Broncos,Chiefs,1st Quarter,Chiefs vs Broncos | 1st Quarter Lines,Chiefs,,-180.0,2020-10-25 14:32
+2020-10-25,15:25 CDT,Broncos,Chiefs,1st Quarter,Chiefs vs Broncos | 1st Quarter Lines,Chiefs,-0.5,-120.0,2020-10-25 14:32
+2020-10-25,15:25 CDT,Broncos,Chiefs,1st Quarter,Chiefs vs Broncos | 1st Quarter Lines,Over,9.5,105.0,2020-10-25 14:32
+2020-10-25,15:25 CDT,Broncos,Chiefs,1st Quarter,Chiefs vs Broncos | 1st Quarter Lines,Under,9.5,-125.0,2020-10-25 14:32
+2020-10-25,15:25 CDT,Broncos,Chiefs,Alternative Lines,Chiefs vs Broncos | Alternative Lines A,Over,47.5,155.0,2020-10-25 14:32
+2020-10-25,15:25 CDT,Broncos,Chiefs,Alternative Lines,Chiefs vs Broncos | Alternative Lines A,Under,47.5,-200.0,2020-10-25 14:32
+2020-10-25,15:25 CDT,Broncos,Chiefs,Alternative Lines,Chiefs vs Broncos | Alternative Lines B,Over,41.5,-155.0,2020-10-25 14:32
+2020-10-25,15:25 CDT,Broncos,Chiefs,Alternative Lines,Chiefs vs Broncos | Alternative Lines B,Under,41.5,115.0,2020-10-25 14:32
+2020-10-25,19:20 CDT,Cardinals,Seahawks,1st Half,Seahawks vs Cardinals | 1st Half Lines,Cardinals,,140.0,2020-10-25 14:32
+2020-10-25,19:20 CDT,Cardinals,Seahawks,1st Half,Seahawks vs Cardinals | 1st Half Lines,Seahawks,,-160.0,2020-10-25 14:32
+2020-10-25,19:20 CDT,Cardinals,Seahawks,1st Quarter,Seahawks vs Cardinals | 1st Quarter Lines,Cardinals,0.5,-135.0,2020-10-25 14:32
+2020-10-25,19:20 CDT,Cardinals,Seahawks,1st Quarter,Seahawks vs Cardinals | 1st Quarter Lines,Cardinals,,120.0,2020-10-25 14:32
+2020-10-25,19:20 CDT,Cardinals,Seahawks,1st Quarter,Seahawks vs Cardinals | 1st Quarter Lines,Seahawks,-0.5,115.0,2020-10-25 14:32
+2020-10-25,19:20 CDT,Cardinals,Seahawks,1st Quarter,Seahawks vs Cardinals | 1st Quarter Lines,Seahawks,,-140.0,2020-10-25 14:32
+2020-10-25,19:20 CDT,Cardinals,Seahawks,Alternative Lines,Seahawks vs Cardinals | Alternative Lines B,Cardinals,6.5,-190.0,2020-10-25 14:32
+2020-10-25,19:20 CDT,Cardinals,Seahawks,Alternative Lines,Seahawks vs Cardinals | Alternative Lines B,Seahawks,-6.5,145.0,2020-10-25 14:32
+2020-10-25,15:25 CDT,Chargers,Jaguars,1st Half,Jaguars vs Chargers | 1st Half Lines,Chargers,,-260.0,2020-10-25 14:32
+2020-10-25,15:25 CDT,Chargers,Jaguars,1st Half,Jaguars vs Chargers | 1st Half Lines,Chargers,-4.5,-110.0,2020-10-25 14:32
+2020-10-25,15:25 CDT,Chargers,Jaguars,1st Half,Jaguars vs Chargers | 1st Half Lines,Jaguars,,220.0,2020-10-25 14:32
+2020-10-25,15:25 CDT,Chargers,Jaguars,1st Half,Jaguars vs Chargers | 1st Half Lines,Jaguars,4.5,-110.0,2020-10-25 14:32
+2020-10-25,15:25 CDT,Chargers,Jaguars,1st Quarter,Jaguars vs Chargers | 1st Quarter Lines,Chargers,-3.0,-105.0,2020-10-25 14:32
+2020-10-25,15:25 CDT,Chargers,Jaguars,1st Quarter,Jaguars vs Chargers | 1st Quarter Lines,Chargers,,-220.0,2020-10-25 14:32
+2020-10-25,15:25 CDT,Chargers,Jaguars,1st Quarter,Jaguars vs Chargers | 1st Quarter Lines,Jaguars,3.0,-115.0,2020-10-25 14:32
+2020-10-25,15:25 CDT,Chargers,Jaguars,1st Quarter,Jaguars vs Chargers | 1st Quarter Lines,Jaguars,,180.0,2020-10-25 14:32
+2020-10-25,15:25 CDT,Chargers,Jaguars,Alternative Lines,Jaguars vs Chargers | Alternative Lines A,Chargers,-11.0,145.0,2020-10-25 14:32
+2020-10-25,15:25 CDT,Chargers,Jaguars,Alternative Lines,Jaguars vs Chargers | Alternative Lines A,Jaguars,11.0,-185.0,2020-10-25 14:32
+2020-10-25,15:25 CDT,Chargers,Jaguars,Alternative Lines,Jaguars vs Chargers | Alternative Lines A,Over,51.5,145.0,2020-10-25 14:32
+2020-10-25,15:25 CDT,Chargers,Jaguars,Alternative Lines,Jaguars vs Chargers | Alternative Lines A,Under,51.5,-190.0,2020-10-25 14:32
+2020-10-25,15:25 CDT,Chargers,Jaguars,Alternative Lines,Jaguars vs Chargers | Alternative Lines B,Chargers,-5.0,-180.0,2020-10-25 14:32
+2020-10-25,15:25 CDT,Chargers,Jaguars,Alternative Lines,Jaguars vs Chargers | Alternative Lines B,Jaguars,5.0,140.0,2020-10-25 14:32
+2020-10-25,15:25 CDT,Chargers,Jaguars,Alternative Lines,Jaguars vs Chargers | Alternative Lines B,Over,45.5,-190.0,2020-10-25 14:32
+2020-10-25,15:25 CDT,Chargers,Jaguars,Alternative Lines,Jaguars vs Chargers | Alternative Lines B,Under,45.5,145.0,2020-10-25 14:32
+2020-10-25,15:25 CDT,Patriots,49ers,1st Half,49ers vs Patriots | 1st Half Lines,49ers,,120.0,2020-10-25 14:32
+2020-10-25,15:25 CDT,Patriots,49ers,1st Half,49ers vs Patriots | 1st Half Lines,Patriots,,-140.0,2020-10-25 14:32
+2020-10-25,15:25 CDT,Patriots,49ers,1st Quarter,49ers vs Patriots | 1st Quarter Lines,49ers,0.5,-145.0,2020-10-25 14:32
+2020-10-25,15:25 CDT,Patriots,49ers,1st Quarter,49ers vs Patriots | 1st Quarter Lines,49ers,,105.0,2020-10-25 14:32
+2020-10-25,15:25 CDT,Patriots,49ers,1st Quarter,49ers vs Patriots | 1st Quarter Lines,Patriots,-0.5,125.0,2020-10-25 14:32
+2020-10-25,15:25 CDT,Patriots,49ers,1st Quarter,49ers vs Patriots | 1st Quarter Lines,Patriots,,-125.0,2020-10-25 14:32
+2020-10-25,15:25 CDT,Patriots,49ers,Alternative Lines,49ers vs Patriots | Alternative Lines A,Over,47.5,125.0,2020-10-25 14:32
+2020-10-25,15:25 CDT,Patriots,49ers,Alternative Lines,49ers vs Patriots | Alternative Lines A,Under,47.5,-165.0,2020-10-25 14:32
+2020-10-25,15:25 CDT,Patriots,49ers,Alternative Lines,49ers vs Patriots | Alternative Lines B,Over,41.5,-170.0,2020-10-25 14:32
+2020-10-25,15:25 CDT,Patriots,49ers,Alternative Lines,49ers vs Patriots | Alternative Lines B,Under,41.5,130.0,2020-10-25 14:32
+2020-10-25,15:05 CDT,Raiders,Buccaneers,1st Half,Buccaneers vs Raiders | 1st Half Lines,Buccaneers,-3.0,-110.0,2020-10-25 14:32
+2020-10-25,15:05 CDT,Raiders,Buccaneers,1st Half,Buccaneers vs Raiders | 1st Half Lines,Raiders,3.0,-110.0,2020-10-25 14:32
+2020-10-25,15:05 CDT,Raiders,Buccaneers,1st Quarter,Buccaneers vs Raiders | 1st Quarter Lines,Buccaneers,,-150.0,2020-10-25 14:32
+2020-10-25,15:05 CDT,Raiders,Buccaneers,1st Quarter,Buccaneers vs Raiders | 1st Quarter Lines,Buccaneers,-0.5,100.0,2020-10-25 14:32
+2020-10-25,15:05 CDT,Raiders,Buccaneers,1st Quarter,Buccaneers vs Raiders | 1st Quarter Lines,Over,10.0,100.0,2020-10-25 14:32
+2020-10-25,15:05 CDT,Raiders,Buccaneers,1st Quarter,Buccaneers vs Raiders | 1st Quarter Lines,Raiders,,130.0,2020-10-25 14:32
+2020-10-25,15:05 CDT,Raiders,Buccaneers,1st Quarter,Buccaneers vs Raiders | 1st Quarter Lines,Raiders,0.5,-120.0,2020-10-25 14:32
+2020-10-25,15:05 CDT,Raiders,Buccaneers,1st Quarter,Buccaneers vs Raiders | 1st Quarter Lines,Under,10.0,-120.0,2020-10-25 14:32
+2020-10-25,15:25 CDT,Under,Over,Team Totals,49ers vs Patriots | 49ers Total Points,Over,20.5,-120.0,2020-10-25 14:32
+2020-10-25,15:25 CDT,Under,Over,Team Totals,49ers vs Patriots | 49ers Total Points,Under,20.5,-110.0,2020-10-25 14:32
+2020-10-25,15:25 CDT,Under,Over,Team Totals,49ers vs Patriots | Patriots Total Points,Over,23.5,-120.0,2020-10-25 14:32
+2020-10-25,15:25 CDT,Under,Over,Team Totals,49ers vs Patriots | Patriots Total Points,Under,23.5,-110.0,2020-10-25 14:32
+2020-10-25,15:05 CDT,Under,Over,Team Totals,Buccaneers vs Raiders | Buccaneers Total Points,Over,27.5,-120.0,2020-10-25 14:32
+2020-10-25,15:05 CDT,Under,Over,Team Totals,Buccaneers vs Raiders | Buccaneers Total Points,Under,27.5,-110.0,2020-10-25 14:32
+2020-10-25,15:05 CDT,Under,Over,Team Totals,Buccaneers vs Raiders | Raiders Total Points,Over,23.5,-110.0,2020-10-25 14:32
+2020-10-25,15:05 CDT,Under,Over,Team Totals,Buccaneers vs Raiders | Raiders Total Points,Under,23.5,-120.0,2020-10-25 14:32
+2020-10-25,15:25 CDT,Under,Over,Team Totals,Chiefs vs Broncos | Broncos Total Points,Over,18.5,-120.0,2020-10-25 14:32
+2020-10-25,15:25 CDT,Under,Over,Team Totals,Chiefs vs Broncos | Broncos Total Points,Under,18.5,-110.0,2020-10-25 14:32
+2020-10-25,15:25 CDT,Under,Over,Team Totals,Jaguars vs Chargers | Chargers Total Points,Over,28.0,-110.0,2020-10-25 14:32
+2020-10-25,15:25 CDT,Under,Over,Team Totals,Jaguars vs Chargers | Chargers Total Points,Under,28.0,-120.0,2020-10-25 14:32
+2020-10-25,15:25 CDT,Under,Over,Team Totals,Jaguars vs Chargers | Jaguars Total Points,Over,20.0,-120.0,2020-10-25 14:32
+2020-10-25,15:25 CDT,Under,Over,Team Totals,Jaguars vs Chargers | Jaguars Total Points,Under,20.0,-110.0,2020-10-25 14:32
+2020-10-25,19:20 CDT,Under,Over,Team Totals,Seahawks vs Cardinals | Cardinals Total Points,Over,25.5,-115.0,2020-10-25 14:32
+2020-10-25,19:20 CDT,Under,Over,Team Totals,Seahawks vs Cardinals | Cardinals Total Points,Under,25.5,-115.0,2020-10-25 14:32
+2020-10-26,19:15 CDT,Rams,Bears,1st Half,Bears vs Rams | 1st Half Lines,Bears,3.0,-105.0,2020-10-25 14:32
+2020-10-26,19:15 CDT,Rams,Bears,1st Half,Bears vs Rams | 1st Half Lines,Rams,-3.0,-115.0,2020-10-25 14:32
+2020-10-26,19:15 CDT,Rams,Bears,1st Quarter,Bears vs Rams | 1st Quarter Lines,Bears,2.5,-115.0,2020-10-25 14:32
+2020-10-26,19:15 CDT,Rams,Bears,1st Quarter,Bears vs Rams | 1st Quarter Lines,Bears,,170.0,2020-10-25 14:32
+2020-10-26,19:15 CDT,Rams,Bears,1st Quarter,Bears vs Rams | 1st Quarter Lines,Rams,-2.5,-105.0,2020-10-25 14:32
+2020-10-26,19:15 CDT,Rams,Bears,1st Quarter,Bears vs Rams | 1st Quarter Lines,Rams,,-200.0,2020-10-25 14:32
+2020-10-26,19:15 CDT,Rams,Bears,Alternative Lines,Bears vs Rams | Alternative Lines A,Bears,9.0,-200.0,2020-10-25 14:32
+2020-10-26,19:15 CDT,Rams,Bears,Alternative Lines,Bears vs Rams | Alternative Lines A,Over,47.5,145.0,2020-10-25 14:32
+2020-10-26,19:15 CDT,Rams,Bears,Alternative Lines,Bears vs Rams | Alternative Lines A,Rams,-9.0,155.0,2020-10-25 14:32
+2020-10-26,19:15 CDT,Rams,Bears,Alternative Lines,Bears vs Rams | Alternative Lines A,Under,47.5,-190.0,2020-10-25 14:32
+2020-10-26,19:15 CDT,Rams,Bears,Alternative Lines,Bears vs Rams | Alternative Lines B,Over,41.5,-190.0,2020-10-25 14:32
+2020-10-26,19:15 CDT,Rams,Bears,Alternative Lines,Bears vs Rams | Alternative Lines B,Under,41.5,145.0,2020-10-25 14:32
+2020-10-26,19:15 CDT,Under,Over,Team Totals,Bears vs Rams | Bears Total Points,Over,19.0,-120.0,2020-10-25 14:32
+2020-10-26,19:15 CDT,Under,Over,Team Totals,Bears vs Rams | Bears Total Points,Under,19.0,-110.0,2020-10-25 14:32
+2020-10-26,19:15 CDT,Under,Over,Team Totals,Bears vs Rams | Rams Total Points,Over,25.0,-110.0,2020-10-25 14:32
+2020-10-26,19:15 CDT,Under,Over,Team Totals,Bears vs Rams | Rams Total Points,Under,25.0,-120.0,2020-10-25 14:32
+2020-10-25,15:25 CDT,Under,Over,Receptions,Chiefs vs Broncos | Travis Kelce Total Receptions,Over,5.5,-135.0,2020-10-25 14:33
+2020-10-25,15:25 CDT,Under,Over,Receptions,Chiefs vs Broncos | Travis Kelce Total Receptions,Under,5.5,-105.0,2020-10-25 14:33
+2020-10-26,19:15 CDT,Rams,Bears,1st Half,Bears vs Rams | 1st Half Lines,Bears,,170.0,2020-10-25 19:24
+2020-10-26,19:15 CDT,Rams,Bears,1st Half,Bears vs Rams | 1st Half Lines,Rams,,-200.0,2020-10-25 19:24
+2020-10-26,19:15 CDT,Rams,Bears,1st Quarter,Bears vs Rams | 1st Quarter Lines,Bears,2.5,-115.0,2020-10-26 07:36
+2020-10-26,19:15 CDT,Rams,Bears,1st Quarter,Bears vs Rams | 1st Quarter Lines,Rams,-2.5,-105.0,2020-10-26 07:36
+2020-10-26,19:15 CDT,Under,Over,Team Totals,Bears vs Rams | Bears Total Points,Over,19.0,-115.0,2020-10-26 07:36
+2020-10-26,19:15 CDT,Under,Over,Team Totals,Bears vs Rams | Bears Total Points,Under,19.0,-115.0,2020-10-26 07:36
+2020-10-26,19:15 CDT,Under,Over,Team Totals,Bears vs Rams | Rams Total Points,Over,25.0,-120.0,2020-10-26 07:36
+2020-10-26,19:15 CDT,Under,Over,Team Totals,Bears vs Rams | Rams Total Points,Under,25.0,-110.0,2020-10-26 07:36
+2020-10-26,19:15 CDT,Rams,Bears,Alternative Lines,Bears vs Rams | Alternative Lines A,Over,47.5,155.0,2020-10-26 07:37
+2020-10-26,19:15 CDT,Rams,Bears,Alternative Lines,Bears vs Rams | Alternative Lines A,Under,47.5,-200.0,2020-10-26 07:37
+2020-10-26,19:15 CDT,Rams,Bears,Alternative Lines,Bears vs Rams | Alternative Lines B,Over,41.5,-180.0,2020-10-26 07:37
+2020-10-26,19:15 CDT,Rams,Bears,Alternative Lines,Bears vs Rams | Alternative Lines B,Under,41.5,140.0,2020-10-26 07:37
+2020-10-26,19:15 CDT,Rams,Bears,1st Half,Bears vs Rams | 1st Half Lines,Bears,3.0,-105.0,2020-10-26 10:56
+2020-10-26,19:15 CDT,Rams,Bears,1st Half,Bears vs Rams | 1st Half Lines,Rams,-3.0,-115.0,2020-10-26 10:56
+2020-10-26,19:15 CDT,Rams,Bears,1st Quarter,Bears vs Rams | 1st Quarter Lines,Bears,,170.0,2020-10-26 10:56
+2020-10-26,19:15 CDT,Rams,Bears,1st Quarter,Bears vs Rams | 1st Quarter Lines,Rams,,-200.0,2020-10-26 10:56
+2020-10-26,19:15 CDT,Rams,Bears,Alternative Lines,Bears vs Rams | Alternative Lines A,Bears,9.0,-190.0,2020-10-26 10:57
+2020-10-26,19:15 CDT,Rams,Bears,Alternative Lines,Bears vs Rams | Alternative Lines A,Over,47.5,130.0,2020-10-26 10:57
+2020-10-26,19:15 CDT,Rams,Bears,Alternative Lines,Bears vs Rams | Alternative Lines A,Rams,-9.0,145.0,2020-10-26 10:57
+2020-10-26,19:15 CDT,Rams,Bears,Alternative Lines,Bears vs Rams | Alternative Lines A,Under,47.5,-170.0,2020-10-26 10:57
+2020-10-26,19:15 CDT,Rams,Bears,Alternative Lines,Bears vs Rams | Alternative Lines B,Over,41.5,-190.0,2020-10-26 10:57
+2020-10-26,19:15 CDT,Rams,Bears,Alternative Lines,Bears vs Rams | Alternative Lines B,Under,41.5,145.0,2020-10-26 10:57
+2020-10-26,19:15 CDT,Under,Over,Team Totals,Bears vs Rams | Bears Total Points,Over,19.0,-120.0,2020-10-26 10:57
+2020-10-26,19:15 CDT,Under,Over,Team Totals,Bears vs Rams | Bears Total Points,Under,19.0,-110.0,2020-10-26 10:57
+2020-10-29,19:20 CDT,Panthers,Falcons,1st Half,Falcons vs Panthers | 1st Half Lines,Falcons,,115.0,2020-10-28 07:38
+2020-10-29,19:20 CDT,Panthers,Falcons,1st Half,Falcons vs Panthers | 1st Half Lines,Falcons,1.5,-110.0,2020-10-28 07:38
+2020-10-29,19:20 CDT,Panthers,Falcons,1st Half,Falcons vs Panthers | 1st Half Lines,Over,24.5,100.0,2020-10-28 07:38
+2020-10-29,19:20 CDT,Panthers,Falcons,1st Half,Falcons vs Panthers | 1st Half Lines,Panthers,,-135.0,2020-10-28 07:38
+2020-10-29,19:20 CDT,Panthers,Falcons,1st Half,Falcons vs Panthers | 1st Half Lines,Panthers,-1.5,-110.0,2020-10-28 07:38
+2020-10-29,19:20 CDT,Panthers,Falcons,1st Half,Falcons vs Panthers | 1st Half Lines,Under,24.5,-120.0,2020-10-28 07:38
+2020-11-01,15:25 CST,Bears,Saints,1st Half,Saints vs Bears | 1st Half Lines,Bears,,155.0,2020-10-28 07:38
+2020-11-01,15:25 CST,Bears,Saints,1st Half,Saints vs Bears | 1st Half Lines,Bears,3.0,-110.0,2020-10-28 07:38
+2020-11-01,15:25 CST,Bears,Saints,1st Half,Saints vs Bears | 1st Half Lines,Over,21.5,-110.0,2020-10-28 07:38
+2020-11-01,15:25 CST,Bears,Saints,1st Half,Saints vs Bears | 1st Half Lines,Saints,,-175.0,2020-10-28 07:38
+2020-11-01,15:25 CST,Bears,Saints,1st Half,Saints vs Bears | 1st Half Lines,Saints,-3.0,-110.0,2020-10-28 07:38
+2020-11-01,15:25 CST,Bears,Saints,1st Half,Saints vs Bears | 1st Half Lines,Under,21.5,-110.0,2020-10-28 07:38
+2020-11-01,12:00 CST,Bengals,Titans,1st Half,Titans vs Bengals | 1st Half Lines,Bengals,,180.0,2020-10-28 07:38
+2020-11-01,12:00 CST,Bengals,Titans,1st Half,Titans vs Bengals | 1st Half Lines,Bengals,3.5,-110.0,2020-10-28 07:38
+2020-11-01,12:00 CST,Bengals,Titans,1st Half,Titans vs Bengals | 1st Half Lines,Over,27.0,-110.0,2020-10-28 07:38
+2020-11-01,12:00 CST,Bengals,Titans,1st Half,Titans vs Bengals | 1st Half Lines,Titans,,-220.0,2020-10-28 07:38
+2020-11-01,12:00 CST,Bengals,Titans,1st Half,Titans vs Bengals | 1st Half Lines,Titans,-3.5,-110.0,2020-10-28 07:38
+2020-11-01,12:00 CST,Bengals,Titans,1st Half,Titans vs Bengals | 1st Half Lines,Under,27.0,-110.0,2020-10-28 07:38
+2020-11-01,12:00 CST,Bills,Patriots,1st Half,Patriots vs Bills | 1st Half Lines,Bills,,-165.0,2020-10-28 07:38
+2020-11-01,12:00 CST,Bills,Patriots,1st Half,Patriots vs Bills | 1st Half Lines,Bills,-3.0,100.0,2020-10-28 07:38
+2020-11-01,12:00 CST,Bills,Patriots,1st Half,Patriots vs Bills | 1st Half Lines,Over,21.5,-105.0,2020-10-28 07:38
+2020-11-01,12:00 CST,Bills,Patriots,1st Half,Patriots vs Bills | 1st Half Lines,Patriots,,145.0,2020-10-28 07:38
+2020-11-01,12:00 CST,Bills,Patriots,1st Half,Patriots vs Bills | 1st Half Lines,Patriots,3.0,-120.0,2020-10-28 07:38
+2020-11-01,12:00 CST,Bills,Patriots,1st Half,Patriots vs Bills | 1st Half Lines,Under,21.5,-115.0,2020-10-28 07:38
+2020-11-01,15:05 CST,Broncos,Chargers,1st Half,Chargers vs Broncos | 1st Half Lines,Broncos,,140.0,2020-10-28 07:38
+2020-11-01,15:05 CST,Broncos,Chargers,1st Half,Chargers vs Broncos | 1st Half Lines,Broncos,2.5,-110.0,2020-10-28 07:38
+2020-11-01,15:05 CST,Broncos,Chargers,1st Half,Chargers vs Broncos | 1st Half Lines,Chargers,,-160.0,2020-10-28 07:38
+2020-11-01,15:05 CST,Broncos,Chargers,1st Half,Chargers vs Broncos | 1st Half Lines,Chargers,-2.5,-110.0,2020-10-28 07:38
+2020-11-01,15:05 CST,Broncos,Chargers,1st Half,Chargers vs Broncos | 1st Half Lines,Over,21.5,-105.0,2020-10-28 07:38
+2020-11-01,15:05 CST,Broncos,Chargers,1st Half,Chargers vs Broncos | 1st Half Lines,Under,21.5,-115.0,2020-10-28 07:38
+2020-11-01,12:00 CST,Browns,Raiders,1st Half,Raiders vs Browns | 1st Half Lines,Browns,,-145.0,2020-10-28 07:38
+2020-11-01,12:00 CST,Browns,Raiders,1st Half,Raiders vs Browns | 1st Half Lines,Browns,-2.5,-110.0,2020-10-28 07:38
+2020-11-01,12:00 CST,Browns,Raiders,1st Half,Raiders vs Browns | 1st Half Lines,Over,26.5,-110.0,2020-10-28 07:38
+2020-11-01,12:00 CST,Browns,Raiders,1st Half,Raiders vs Browns | 1st Half Lines,Raiders,,125.0,2020-10-28 07:38
+2020-11-01,12:00 CST,Browns,Raiders,1st Half,Raiders vs Browns | 1st Half Lines,Raiders,2.5,-110.0,2020-10-28 07:38
+2020-11-01,12:00 CST,Browns,Raiders,1st Half,Raiders vs Browns | 1st Half Lines,Under,26.5,-110.0,2020-10-28 07:38
+2020-11-01,12:00 CST,Chiefs,Jets,1st Half,Jets vs Chiefs | 1st Half Lines,Chiefs,,-600.0,2020-10-28 07:38
+2020-11-01,12:00 CST,Chiefs,Jets,1st Half,Jets vs Chiefs | 1st Half Lines,Chiefs,-11.5,-110.0,2020-10-28 07:38
+2020-11-01,12:00 CST,Chiefs,Jets,1st Half,Jets vs Chiefs | 1st Half Lines,Jets,,450.0,2020-10-28 07:38
+2020-11-01,12:00 CST,Chiefs,Jets,1st Half,Jets vs Chiefs | 1st Half Lines,Jets,11.5,-110.0,2020-10-28 07:38
+2020-11-01,12:00 CST,Chiefs,Jets,1st Half,Jets vs Chiefs | 1st Half Lines,Over,24.5,-110.0,2020-10-28 07:38
+2020-11-01,12:00 CST,Chiefs,Jets,1st Half,Jets vs Chiefs | 1st Half Lines,Under,24.5,-110.0,2020-10-28 07:38
+2020-11-01,12:00 CST,Dolphins,Rams,1st Half,Rams vs Dolphins | 1st Half Lines,Dolphins,,150.0,2020-10-28 07:38
+2020-11-01,12:00 CST,Dolphins,Rams,1st Half,Rams vs Dolphins | 1st Half Lines,Dolphins,3.0,-110.0,2020-10-28 07:38
+2020-11-01,12:00 CST,Dolphins,Rams,1st Half,Rams vs Dolphins | 1st Half Lines,Over,22.5,-110.0,2020-10-28 07:38
+2020-11-01,12:00 CST,Dolphins,Rams,1st Half,Rams vs Dolphins | 1st Half Lines,Rams,,-170.0,2020-10-28 07:38
+2020-11-01,12:00 CST,Dolphins,Rams,1st Half,Rams vs Dolphins | 1st Half Lines,Rams,-3.0,-110.0,2020-10-28 07:38
+2020-11-01,12:00 CST,Dolphins,Rams,1st Half,Rams vs Dolphins | 1st Half Lines,Under,22.5,-110.0,2020-10-28 07:38
+2020-11-01,12:00 CST,Lions,Colts,1st Half,Colts vs Lions | 1st Half Lines,Colts,,-140.0,2020-10-28 07:38
+2020-11-01,12:00 CST,Lions,Colts,1st Half,Colts vs Lions | 1st Half Lines,Colts,-1.5,-110.0,2020-10-28 07:38
+2020-11-01,12:00 CST,Lions,Colts,1st Half,Colts vs Lions | 1st Half Lines,Lions,,120.0,2020-10-28 07:38
+2020-11-01,12:00 CST,Lions,Colts,1st Half,Colts vs Lions | 1st Half Lines,Lions,1.5,-110.0,2020-10-28 07:38
+2020-11-01,12:00 CST,Lions,Colts,1st Half,Colts vs Lions | 1st Half Lines,Over,24.5,-105.0,2020-10-28 07:38
+2020-11-01,12:00 CST,Lions,Colts,1st Half,Colts vs Lions | 1st Half Lines,Under,24.5,-115.0,2020-10-28 07:38
+2020-11-01,12:00 CST,Packers,Vikings,1st Half,Vikings vs Packers | 1st Half Lines,Over,27.0,-105.0,2020-10-28 07:38
+2020-11-01,12:00 CST,Packers,Vikings,1st Half,Vikings vs Packers | 1st Half Lines,Packers,,-240.0,2020-10-28 07:38
+2020-11-01,12:00 CST,Packers,Vikings,1st Half,Vikings vs Packers | 1st Half Lines,Packers,-4.0,-110.0,2020-10-28 07:38
+2020-11-01,12:00 CST,Packers,Vikings,1st Half,Vikings vs Packers | 1st Half Lines,Under,27.0,-115.0,2020-10-28 07:38
+2020-11-01,12:00 CST,Packers,Vikings,1st Half,Vikings vs Packers | 1st Half Lines,Vikings,,200.0,2020-10-28 07:38
+2020-11-01,12:00 CST,Packers,Vikings,1st Half,Vikings vs Packers | 1st Half Lines,Vikings,4.0,-110.0,2020-10-28 07:38
+2020-11-01,12:00 CST,Ravens,Steelers,1st Half,Steelers vs Ravens | 1st Half Lines,Over,23.0,-110.0,2020-10-28 07:38
+2020-11-01,12:00 CST,Ravens,Steelers,1st Half,Steelers vs Ravens | 1st Half Lines,Ravens,,-170.0,2020-10-28 07:38
+2020-11-01,12:00 CST,Ravens,Steelers,1st Half,Steelers vs Ravens | 1st Half Lines,Ravens,-3.0,-105.0,2020-10-28 07:38
+2020-11-01,12:00 CST,Ravens,Steelers,1st Half,Steelers vs Ravens | 1st Half Lines,Steelers,,150.0,2020-10-28 07:38
+2020-11-01,12:00 CST,Ravens,Steelers,1st Half,Steelers vs Ravens | 1st Half Lines,Steelers,3.0,-115.0,2020-10-28 07:38
+2020-11-01,12:00 CST,Ravens,Steelers,1st Half,Steelers vs Ravens | 1st Half Lines,Under,23.0,-110.0,2020-10-28 07:38
+2020-11-01,15:25 CST,Seahawks,49ers,1st Half,49ers vs Seahawks | 1st Half Lines,49ers,,140.0,2020-10-28 07:38
+2020-11-01,15:25 CST,Seahawks,49ers,1st Half,49ers vs Seahawks | 1st Half Lines,49ers,2.5,100.0,2020-10-28 07:38
+2020-11-01,15:25 CST,Seahawks,49ers,1st Half,49ers vs Seahawks | 1st Half Lines,Over,26.5,-110.0,2020-10-28 07:38
+2020-11-01,15:25 CST,Seahawks,49ers,1st Half,49ers vs Seahawks | 1st Half Lines,Seahawks,,-160.0,2020-10-28 07:38
+2020-11-01,15:25 CST,Seahawks,49ers,1st Half,49ers vs Seahawks | 1st Half Lines,Seahawks,-2.5,-120.0,2020-10-28 07:38
+2020-11-01,15:25 CST,Seahawks,49ers,1st Half,49ers vs Seahawks | 1st Half Lines,Under,26.5,-110.0,2020-10-28 07:38
+2020-10-29,19:20 CDT,Panthers,Falcons,1st Half,Falcons vs Panthers | 1st Half Lines,Falcons,,115.0,2020-10-28 16:18
+2020-10-29,19:20 CDT,Panthers,Falcons,1st Half,Falcons vs Panthers | 1st Half Lines,Over,24.5,-115.0,2020-10-28 16:18
+2020-10-29,19:20 CDT,Panthers,Falcons,1st Half,Falcons vs Panthers | 1st Half Lines,Panthers,,-135.0,2020-10-28 16:18
+2020-10-29,19:20 CDT,Panthers,Falcons,1st Half,Falcons vs Panthers | 1st Half Lines,Under,24.5,-105.0,2020-10-28 16:18
+2020-10-29,19:20 CDT,Panthers,Falcons,1st Qtr 3 Way,Falcons vs Panthers | 1st Quarter 3 Way Lines,Falcons,,145.0,2020-10-28 16:18
+2020-10-29,19:20 CDT,Panthers,Falcons,1st Qtr 3 Way,Falcons vs Panthers | 1st Quarter 3 Way Lines,Panthers,,-105.0,2020-10-28 16:18
+2020-10-29,19:20 CDT,Panthers,Falcons,1st Qtr 3 Way,Falcons vs Panthers | 1st Quarter 3 Way Lines,Tie,,400.0,2020-10-28 16:18
+2020-10-29,19:20 CDT,Panthers,Falcons,1st Quarter,Falcons vs Panthers | 1st Quarter Lines,Falcons,,110.0,2020-10-28 16:18
+2020-10-29,19:20 CDT,Panthers,Falcons,1st Quarter,Falcons vs Panthers | 1st Quarter Lines,Falcons,0.5,-140.0,2020-10-28 16:18
+2020-10-29,19:20 CDT,Panthers,Falcons,1st Quarter,Falcons vs Panthers | 1st Quarter Lines,Over,9.5,-125.0,2020-10-28 16:18
+2020-10-29,19:20 CDT,Panthers,Falcons,1st Quarter,Falcons vs Panthers | 1st Quarter Lines,Panthers,,-130.0,2020-10-28 16:18
+2020-10-29,19:20 CDT,Panthers,Falcons,1st Quarter,Falcons vs Panthers | 1st Quarter Lines,Panthers,-0.5,120.0,2020-10-28 16:18
+2020-10-29,19:20 CDT,Panthers,Falcons,1st Quarter,Falcons vs Panthers | 1st Quarter Lines,Under,9.5,105.0,2020-10-28 16:18
+2020-11-01,15:25 CST,Bears,Saints,1st Half,Saints vs Bears | 1st Half Lines,Bears,,155.0,2020-10-28 16:18
+2020-11-01,15:25 CST,Bears,Saints,1st Half,Saints vs Bears | 1st Half Lines,Over,21.5,100.0,2020-10-28 16:18
+2020-11-01,15:25 CST,Bears,Saints,1st Half,Saints vs Bears | 1st Half Lines,Saints,,-175.0,2020-10-28 16:18
+2020-11-01,15:25 CST,Bears,Saints,1st Half,Saints vs Bears | 1st Half Lines,Under,21.5,-120.0,2020-10-28 16:18
+2020-11-01,15:25 CST,Bears,Saints,1st Qtr 3 Way,Saints vs Bears | 1st Quarter 3 Way Lines,Bears,,170.0,2020-10-28 16:18
+2020-11-01,15:25 CST,Bears,Saints,1st Qtr 3 Way,Saints vs Bears | 1st Quarter 3 Way Lines,Saints,,-120.0,2020-10-28 16:18
+2020-11-01,15:25 CST,Bears,Saints,1st Qtr 3 Way,Saints vs Bears | 1st Quarter 3 Way Lines,Tie,,400.0,2020-10-28 16:18
+2020-11-01,15:25 CST,Bears,Saints,1st Quarter,Saints vs Bears | 1st Quarter Lines,Bears,,130.0,2020-10-28 16:18
+2020-11-01,15:25 CST,Bears,Saints,1st Quarter,Saints vs Bears | 1st Quarter Lines,Bears,0.5,-125.0,2020-10-28 16:18
+2020-11-01,15:25 CST,Bears,Saints,1st Quarter,Saints vs Bears | 1st Quarter Lines,Over,7.5,-105.0,2020-10-28 16:18
+2020-11-01,15:25 CST,Bears,Saints,1st Quarter,Saints vs Bears | 1st Quarter Lines,Saints,,-150.0,2020-10-28 16:18
+2020-11-01,15:25 CST,Bears,Saints,1st Quarter,Saints vs Bears | 1st Quarter Lines,Saints,-0.5,105.0,2020-10-28 16:18
+2020-11-01,15:25 CST,Bears,Saints,1st Quarter,Saints vs Bears | 1st Quarter Lines,Under,7.5,-115.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Bengals,Titans,1st Half,Titans vs Bengals | 1st Half Lines,Bengals,,165.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Bengals,Titans,1st Half,Titans vs Bengals | 1st Half Lines,Bengals,3.0,-105.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Bengals,Titans,1st Half,Titans vs Bengals | 1st Half Lines,Over,26.5,-110.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Bengals,Titans,1st Half,Titans vs Bengals | 1st Half Lines,Titans,,-185.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Bengals,Titans,1st Half,Titans vs Bengals | 1st Half Lines,Titans,-3.0,-115.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Bengals,Titans,1st Half,Titans vs Bengals | 1st Half Lines,Under,26.5,-110.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Bengals,Titans,1st Qtr 3 Way,Titans vs Bengals | 1st Quarter 3 Way Lines,Bengals,,185.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Bengals,Titans,1st Qtr 3 Way,Titans vs Bengals | 1st Quarter 3 Way Lines,Tie,,400.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Bengals,Titans,1st Qtr 3 Way,Titans vs Bengals | 1st Quarter 3 Way Lines,Titans,,-135.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Bengals,Titans,1st Quarter,Titans vs Bengals | 1st Quarter Lines,Bengals,,145.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Bengals,Titans,1st Quarter,Titans vs Bengals | 1st Quarter Lines,Bengals,0.5,-105.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Bengals,Titans,1st Quarter,Titans vs Bengals | 1st Quarter Lines,Over,10.5,105.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Bengals,Titans,1st Quarter,Titans vs Bengals | 1st Quarter Lines,Titans,,-165.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Bengals,Titans,1st Quarter,Titans vs Bengals | 1st Quarter Lines,Titans,-0.5,-115.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Bengals,Titans,1st Quarter,Titans vs Bengals | 1st Quarter Lines,Under,10.5,-125.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Bills,Patriots,1st Half,Patriots vs Bills | 1st Half Lines,Bills,,-165.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Bills,Patriots,1st Half,Patriots vs Bills | 1st Half Lines,Over,21.0,-110.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Bills,Patriots,1st Half,Patriots vs Bills | 1st Half Lines,Patriots,,145.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Bills,Patriots,1st Half,Patriots vs Bills | 1st Half Lines,Under,21.0,-110.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Bills,Patriots,1st Qtr 3 Way,Patriots vs Bills | 1st Quarter 3 Way Lines,Bills,,-135.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Bills,Patriots,1st Qtr 3 Way,Patriots vs Bills | 1st Quarter 3 Way Lines,Patriots,,185.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Bills,Patriots,1st Qtr 3 Way,Patriots vs Bills | 1st Quarter 3 Way Lines,Tie,,400.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Bills,Patriots,1st Quarter,Patriots vs Bills | 1st Quarter Lines,Bills,,-160.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Bills,Patriots,1st Quarter,Patriots vs Bills | 1st Quarter Lines,Bills,-0.5,105.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Bills,Patriots,1st Quarter,Patriots vs Bills | 1st Quarter Lines,Over,9.5,110.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Bills,Patriots,1st Quarter,Patriots vs Bills | 1st Quarter Lines,Patriots,,140.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Bills,Patriots,1st Quarter,Patriots vs Bills | 1st Quarter Lines,Patriots,0.5,-125.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Bills,Patriots,1st Quarter,Patriots vs Bills | 1st Quarter Lines,Under,9.5,-130.0,2020-10-28 16:18
+2020-11-01,15:05 CST,Broncos,Chargers,1st Half,Chargers vs Broncos | 1st Half Lines,Broncos,,140.0,2020-10-28 16:18
+2020-11-01,15:05 CST,Broncos,Chargers,1st Half,Chargers vs Broncos | 1st Half Lines,Chargers,,-160.0,2020-10-28 16:18
+2020-11-01,15:05 CST,Broncos,Chargers,1st Qtr 3 Way,Chargers vs Broncos | 1st Quarter 3 Way Lines,Broncos,,155.0,2020-10-28 16:18
+2020-11-01,15:05 CST,Broncos,Chargers,1st Qtr 3 Way,Chargers vs Broncos | 1st Quarter 3 Way Lines,Chargers,,-105.0,2020-10-28 16:18
+2020-11-01,15:05 CST,Broncos,Chargers,1st Qtr 3 Way,Chargers vs Broncos | 1st Quarter 3 Way Lines,Tie,,375.0,2020-10-28 16:18
+2020-11-01,15:05 CST,Broncos,Chargers,1st Quarter,Chargers vs Broncos | 1st Quarter Lines,Broncos,,120.0,2020-10-28 16:18
+2020-11-01,15:05 CST,Broncos,Chargers,1st Quarter,Chargers vs Broncos | 1st Quarter Lines,Broncos,0.5,-135.0,2020-10-28 16:18
+2020-11-01,15:05 CST,Broncos,Chargers,1st Quarter,Chargers vs Broncos | 1st Quarter Lines,Chargers,,-140.0,2020-10-28 16:18
+2020-11-01,15:05 CST,Broncos,Chargers,1st Quarter,Chargers vs Broncos | 1st Quarter Lines,Chargers,-0.5,115.0,2020-10-28 16:18
+2020-11-01,15:05 CST,Broncos,Chargers,1st Quarter,Chargers vs Broncos | 1st Quarter Lines,Over,7.5,-105.0,2020-10-28 16:18
+2020-11-01,15:05 CST,Broncos,Chargers,1st Quarter,Chargers vs Broncos | 1st Quarter Lines,Under,7.5,-115.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Browns,Raiders,1st Half,Raiders vs Browns | 1st Half Lines,Browns,,-145.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Browns,Raiders,1st Half,Raiders vs Browns | 1st Half Lines,Over,26.0,-110.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Browns,Raiders,1st Half,Raiders vs Browns | 1st Half Lines,Raiders,,125.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Browns,Raiders,1st Half,Raiders vs Browns | 1st Half Lines,Under,26.0,-110.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Browns,Raiders,1st Qtr 3 Way,Raiders vs Browns | 1st Quarter 3 Way Lines,Browns,,-110.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Browns,Raiders,1st Qtr 3 Way,Raiders vs Browns | 1st Quarter 3 Way Lines,Raiders,,150.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Browns,Raiders,1st Qtr 3 Way,Raiders vs Browns | 1st Quarter 3 Way Lines,Tie,,400.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Browns,Raiders,1st Quarter,Raiders vs Browns | 1st Quarter Lines,Browns,,-135.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Browns,Raiders,1st Quarter,Raiders vs Browns | 1st Quarter Lines,Browns,-0.5,110.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Browns,Raiders,1st Quarter,Raiders vs Browns | 1st Quarter Lines,Over,10.0,-110.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Browns,Raiders,1st Quarter,Raiders vs Browns | 1st Quarter Lines,Raiders,,115.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Browns,Raiders,1st Quarter,Raiders vs Browns | 1st Quarter Lines,Raiders,0.5,-130.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Browns,Raiders,1st Quarter,Raiders vs Browns | 1st Quarter Lines,Under,10.0,-110.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Chiefs,Jets,1st Half,Jets vs Chiefs | 1st Half Lines,Chiefs,,-600.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Chiefs,Jets,1st Half,Jets vs Chiefs | 1st Half Lines,Jets,,450.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Chiefs,Jets,1st Qtr 3 Way,Jets vs Chiefs | 1st Quarter 3 Way Lines,Chiefs,,-350.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Chiefs,Jets,1st Qtr 3 Way,Jets vs Chiefs | 1st Quarter 3 Way Lines,Jets,,500.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Chiefs,Jets,1st Qtr 3 Way,Jets vs Chiefs | 1st Quarter 3 Way Lines,Tie,,550.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Chiefs,Jets,1st Quarter,Jets vs Chiefs | 1st Quarter Lines,Chiefs,,-500.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Chiefs,Jets,1st Quarter,Jets vs Chiefs | 1st Quarter Lines,Chiefs,-6.5,-120.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Chiefs,Jets,1st Quarter,Jets vs Chiefs | 1st Quarter Lines,Jets,,375.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Chiefs,Jets,1st Quarter,Jets vs Chiefs | 1st Quarter Lines,Jets,6.5,100.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Chiefs,Jets,1st Quarter,Jets vs Chiefs | 1st Quarter Lines,Over,9.5,-110.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Chiefs,Jets,1st Quarter,Jets vs Chiefs | 1st Quarter Lines,Under,9.5,-110.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Dolphins,Rams,1st Half,Rams vs Dolphins | 1st Half Lines,Dolphins,,145.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Dolphins,Rams,1st Half,Rams vs Dolphins | 1st Half Lines,Dolphins,3.0,-120.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Dolphins,Rams,1st Half,Rams vs Dolphins | 1st Half Lines,Rams,,-165.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Dolphins,Rams,1st Half,Rams vs Dolphins | 1st Half Lines,Rams,-3.0,100.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Dolphins,Rams,1st Qtr 3 Way,Rams vs Dolphins | 1st Quarter 3 Way Lines,Dolphins,,165.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Dolphins,Rams,1st Qtr 3 Way,Rams vs Dolphins | 1st Quarter 3 Way Lines,Rams,,-115.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Dolphins,Rams,1st Qtr 3 Way,Rams vs Dolphins | 1st Quarter 3 Way Lines,Tie,,400.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Dolphins,Rams,1st Quarter,Rams vs Dolphins | 1st Quarter Lines,Dolphins,,125.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Dolphins,Rams,1st Quarter,Rams vs Dolphins | 1st Quarter Lines,Dolphins,0.5,-125.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Dolphins,Rams,1st Quarter,Rams vs Dolphins | 1st Quarter Lines,Over,9.5,-105.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Dolphins,Rams,1st Quarter,Rams vs Dolphins | 1st Quarter Lines,Rams,,-145.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Dolphins,Rams,1st Quarter,Rams vs Dolphins | 1st Quarter Lines,Rams,-0.5,105.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Dolphins,Rams,1st Quarter,Rams vs Dolphins | 1st Quarter Lines,Under,9.5,-115.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Lions,Colts,1st Half,Colts vs Lions | 1st Half Lines,Colts,,-140.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Lions,Colts,1st Half,Colts vs Lions | 1st Half Lines,Lions,,120.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Lions,Colts,1st Qtr 3 Way,Colts vs Lions | 1st Quarter 3 Way Lines,Colts,,-105.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Lions,Colts,1st Qtr 3 Way,Colts vs Lions | 1st Quarter 3 Way Lines,Lions,,150.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Lions,Colts,1st Qtr 3 Way,Colts vs Lions | 1st Quarter 3 Way Lines,Tie,,400.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Lions,Colts,1st Quarter,Colts vs Lions | 1st Quarter Lines,Colts,,-135.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Lions,Colts,1st Quarter,Colts vs Lions | 1st Quarter Lines,Colts,-0.5,120.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Lions,Colts,1st Quarter,Colts vs Lions | 1st Quarter Lines,Lions,,115.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Lions,Colts,1st Quarter,Colts vs Lions | 1st Quarter Lines,Lions,0.5,-140.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Lions,Colts,1st Quarter,Colts vs Lions | 1st Quarter Lines,Over,10.0,100.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Lions,Colts,1st Quarter,Colts vs Lions | 1st Quarter Lines,Under,10.0,-120.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Packers,Vikings,1st Half,Vikings vs Packers | 1st Half Lines,Packers,,-240.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Packers,Vikings,1st Half,Vikings vs Packers | 1st Half Lines,Vikings,,200.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Packers,Vikings,1st Qtr 3 Way,Vikings vs Packers | 1st Quarter 3 Way Lines,Packers,,-175.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Packers,Vikings,1st Qtr 3 Way,Vikings vs Packers | 1st Quarter 3 Way Lines,Tie,,500.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Packers,Vikings,1st Qtr 3 Way,Vikings vs Packers | 1st Quarter 3 Way Lines,Vikings,,240.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Packers,Vikings,1st Quarter,Vikings vs Packers | 1st Quarter Lines,Over,10.5,110.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Packers,Vikings,1st Quarter,Vikings vs Packers | 1st Quarter Lines,Packers,,-200.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Packers,Vikings,1st Quarter,Vikings vs Packers | 1st Quarter Lines,Packers,-3.0,100.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Packers,Vikings,1st Quarter,Vikings vs Packers | 1st Quarter Lines,Under,10.5,-130.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Packers,Vikings,1st Quarter,Vikings vs Packers | 1st Quarter Lines,Vikings,,170.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Packers,Vikings,1st Quarter,Vikings vs Packers | 1st Quarter Lines,Vikings,3.0,-120.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Ravens,Steelers,1st Half,Steelers vs Ravens | 1st Half Lines,Ravens,,-170.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Ravens,Steelers,1st Half,Steelers vs Ravens | 1st Half Lines,Steelers,,150.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Ravens,Steelers,1st Qtr 3 Way,Steelers vs Ravens | 1st Quarter 3 Way Lines,Ravens,,-130.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Ravens,Steelers,1st Qtr 3 Way,Steelers vs Ravens | 1st Quarter 3 Way Lines,Steelers,,175.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Ravens,Steelers,1st Qtr 3 Way,Steelers vs Ravens | 1st Quarter 3 Way Lines,Tie,,400.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Ravens,Steelers,1st Quarter,Steelers vs Ravens | 1st Quarter Lines,Over,9.5,-115.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Ravens,Steelers,1st Quarter,Steelers vs Ravens | 1st Quarter Lines,Ravens,,-165.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Ravens,Steelers,1st Quarter,Steelers vs Ravens | 1st Quarter Lines,Steelers,,145.0,2020-10-28 16:18
+2020-11-01,12:00 CST,Ravens,Steelers,1st Quarter,Steelers vs Ravens | 1st Quarter Lines,Under,9.5,-105.0,2020-10-28 16:18
+2020-11-01,15:25 CST,Seahawks,49ers,1st Half,49ers vs Seahawks | 1st Half Lines,49ers,,130.0,2020-10-28 16:18
+2020-11-01,15:25 CST,Seahawks,49ers,1st Half,49ers vs Seahawks | 1st Half Lines,49ers,2.5,-120.0,2020-10-28 16:18
+2020-11-01,15:25 CST,Seahawks,49ers,1st Half,49ers vs Seahawks | 1st Half Lines,Seahawks,,-150.0,2020-10-28 16:18
+2020-11-01,15:25 CST,Seahawks,49ers,1st Half,49ers vs Seahawks | 1st Half Lines,Seahawks,-2.5,100.0,2020-10-28 16:18
+2020-11-01,15:25 CST,Seahawks,49ers,1st Qtr 3 Way,49ers vs Seahawks | 1st Quarter 3 Way Lines,49ers,,155.0,2020-10-28 16:18
+2020-11-01,15:25 CST,Seahawks,49ers,1st Qtr 3 Way,49ers vs Seahawks | 1st Quarter 3 Way Lines,Seahawks,,-115.0,2020-10-28 16:18
+2020-11-01,15:25 CST,Seahawks,49ers,1st Qtr 3 Way,49ers vs Seahawks | 1st Quarter 3 Way Lines,Tie,,450.0,2020-10-28 16:18
+2020-11-01,15:25 CST,Seahawks,49ers,1st Quarter,49ers vs Seahawks | 1st Quarter Lines,49ers,,120.0,2020-10-28 16:18
+2020-11-01,15:25 CST,Seahawks,49ers,1st Quarter,49ers vs Seahawks | 1st Quarter Lines,49ers,0.5,-130.0,2020-10-28 16:18
+2020-11-01,15:25 CST,Seahawks,49ers,1st Quarter,49ers vs Seahawks | 1st Quarter Lines,Over,10.0,-115.0,2020-10-28 16:18
+2020-11-01,15:25 CST,Seahawks,49ers,1st Quarter,49ers vs Seahawks | 1st Quarter Lines,Seahawks,,-140.0,2020-10-28 16:18
+2020-11-01,15:25 CST,Seahawks,49ers,1st Quarter,49ers vs Seahawks | 1st Quarter Lines,Seahawks,-0.5,110.0,2020-10-28 16:18
+2020-11-01,15:25 CST,Seahawks,49ers,1st Quarter,49ers vs Seahawks | 1st Quarter Lines,Under,10.0,-105.0,2020-10-28 16:18
+2020-11-02,19:15 CST,Giants,Buccaneers,1st Half,Buccaneers vs Giants | 1st Half Lines,Buccaneers,,-320.0,2020-10-28 16:18
+2020-11-02,19:15 CST,Giants,Buccaneers,1st Half,Buccaneers vs Giants | 1st Half Lines,Buccaneers,-6.5,-110.0,2020-10-28 16:18
+2020-11-02,19:15 CST,Giants,Buccaneers,1st Half,Buccaneers vs Giants | 1st Half Lines,Giants,,260.0,2020-10-28 16:18
+2020-11-02,19:15 CST,Giants,Buccaneers,1st Half,Buccaneers vs Giants | 1st Half Lines,Giants,6.5,-110.0,2020-10-28 16:18
+2020-11-02,19:15 CST,Giants,Buccaneers,1st Half,Buccaneers vs Giants | 1st Half Lines,Over,23.0,-110.0,2020-10-28 16:18
+2020-11-02,19:15 CST,Giants,Buccaneers,1st Half,Buccaneers vs Giants | 1st Half Lines,Under,23.0,-110.0,2020-10-28 16:18
+2020-10-29,19:20 CDT,Any Other,Touchdown,First Score Will Be,Falcons vs Panthers | First Score Will Be,Any Other,,155.0,2020-10-28 16:19
+2020-10-29,19:20 CDT,Any Other,Touchdown,First Score Will Be,Falcons vs Panthers | First Score Will Be,Touchdown,,-185.0,2020-10-28 16:19
+2020-10-29,19:20 CDT,Panthers,Falcons,Alternative Lines,Falcons vs Panthers | Alternative Lines A,Falcons,5.5,-190.0,2020-10-28 16:19
+2020-10-29,19:20 CDT,Panthers,Falcons,Alternative Lines,Falcons vs Panthers | Alternative Lines A,Over,54.5,140.0,2020-10-28 16:19
+2020-10-29,19:20 CDT,Panthers,Falcons,Alternative Lines,Falcons vs Panthers | Alternative Lines A,Panthers,-5.5,145.0,2020-10-28 16:19
+2020-10-29,19:20 CDT,Panthers,Falcons,Alternative Lines,Falcons vs Panthers | Alternative Lines A,Under,54.5,-180.0,2020-10-28 16:19
+2020-10-29,19:20 CDT,Panthers,Falcons,Alternative Lines,Falcons vs Panthers | Alternative Lines B,Over,48.5,-175.0,2020-10-28 16:19
+2020-10-29,19:20 CDT,Panthers,Falcons,Alternative Lines,Falcons vs Panthers | Alternative Lines B,Under,48.5,135.0,2020-10-28 16:19
+2020-10-29,19:20 CDT,Panthers,Falcons,Team To Score First,Falcons vs Panthers | Team to Score First,Falcons,,-110.0,2020-10-28 16:19
+2020-10-29,19:20 CDT,Panthers,Falcons,Team To Score First,Falcons vs Panthers | Team to Score First,Panthers,,-120.0,2020-10-28 16:19
+2020-10-29,19:20 CDT,Under,Over,Team Totals,Falcons vs Panthers | Falcons Total Points,Over,24.5,-115.0,2020-10-28 16:19
+2020-10-29,19:20 CDT,Under,Over,Team Totals,Falcons vs Panthers | Falcons Total Points,Under,24.5,-115.0,2020-10-28 16:19
+2020-10-29,19:20 CDT,Under,Over,Team Totals,Falcons vs Panthers | Panthers Total Points,Over,27.0,-115.0,2020-10-28 16:19
+2020-10-29,19:20 CDT,Under,Over,Team Totals,Falcons vs Panthers | Panthers Total Points,Under,27.0,-115.0,2020-10-28 16:19
+2020-11-01,15:25 CST,Any Other,Touchdown,First Score Will Be,49ers vs Seahawks | First Score Will Be,Any Other,,185.0,2020-10-28 16:19
+2020-11-01,15:25 CST,Any Other,Touchdown,First Score Will Be,49ers vs Seahawks | First Score Will Be,Touchdown,,-240.0,2020-10-28 16:19
+2020-11-01,15:05 CST,Any Other,Touchdown,First Score Will Be,Chargers vs Broncos | First Score Will Be,Any Other,,145.0,2020-10-28 16:19
+2020-11-01,15:05 CST,Any Other,Touchdown,First Score Will Be,Chargers vs Broncos | First Score Will Be,Touchdown,,-175.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Any Other,Touchdown,First Score Will Be,Colts vs Lions | First Score Will Be,Any Other,,165.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Any Other,Touchdown,First Score Will Be,Colts vs Lions | First Score Will Be,Touchdown,,-200.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Any Other,Touchdown,First Score Will Be,Jets vs Chiefs | First Score Will Be,Any Other,,140.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Any Other,Touchdown,First Score Will Be,Jets vs Chiefs | First Score Will Be,Touchdown,,-170.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Any Other,Touchdown,First Score Will Be,Patriots vs Bills | First Score Will Be,Any Other,,135.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Any Other,Touchdown,First Score Will Be,Patriots vs Bills | First Score Will Be,Touchdown,,-165.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Any Other,Touchdown,First Score Will Be,Raiders vs Browns | First Score Will Be,Any Other,,165.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Any Other,Touchdown,First Score Will Be,Raiders vs Browns | First Score Will Be,Touchdown,,-220.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Any Other,Touchdown,First Score Will Be,Rams vs Dolphins | First Score Will Be,Any Other,,145.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Any Other,Touchdown,First Score Will Be,Rams vs Dolphins | First Score Will Be,Touchdown,,-175.0,2020-10-28 16:19
+2020-11-01,15:25 CST,Any Other,Touchdown,First Score Will Be,Saints vs Bears | First Score Will Be,Any Other,,145.0,2020-10-28 16:19
+2020-11-01,15:25 CST,Any Other,Touchdown,First Score Will Be,Saints vs Bears | First Score Will Be,Touchdown,,-185.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Any Other,Touchdown,First Score Will Be,Steelers vs Ravens | First Score Will Be,Any Other,,165.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Any Other,Touchdown,First Score Will Be,Steelers vs Ravens | First Score Will Be,Touchdown,,-200.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Any Other,Touchdown,First Score Will Be,Titans vs Bengals | First Score Will Be,Any Other,,165.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Any Other,Touchdown,First Score Will Be,Titans vs Bengals | First Score Will Be,Touchdown,,-210.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Any Other,Touchdown,First Score Will Be,Vikings vs Packers | First Score Will Be,Any Other,,170.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Any Other,Touchdown,First Score Will Be,Vikings vs Packers | First Score Will Be,Touchdown,,-220.0,2020-10-28 16:19
+2020-11-01,15:25 CST,Bears,Saints,Alternative Lines,Saints vs Bears | Alternative Lines A,Over,46.5,145.0,2020-10-28 16:19
+2020-11-01,15:25 CST,Bears,Saints,Alternative Lines,Saints vs Bears | Alternative Lines A,Under,46.5,-190.0,2020-10-28 16:19
+2020-11-01,15:25 CST,Bears,Saints,Alternative Lines,Saints vs Bears | Alternative Lines B,Bears,7.0,-180.0,2020-10-28 16:19
+2020-11-01,15:25 CST,Bears,Saints,Alternative Lines,Saints vs Bears | Alternative Lines B,Over,40.5,-190.0,2020-10-28 16:19
+2020-11-01,15:25 CST,Bears,Saints,Alternative Lines,Saints vs Bears | Alternative Lines B,Saints,-7.0,140.0,2020-10-28 16:19
+2020-11-01,15:25 CST,Bears,Saints,Alternative Lines,Saints vs Bears | Alternative Lines B,Under,40.5,145.0,2020-10-28 16:19
+2020-11-01,15:25 CST,Bears,Saints,Team To Score First,Saints vs Bears | Team to Score First,Bears,,110.0,2020-10-28 16:19
+2020-11-01,15:25 CST,Bears,Saints,Team To Score First,Saints vs Bears | Team to Score First,Saints,,-140.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Bengals,Titans,Alternative Lines,Titans vs Bengals | Alternative Lines A,Over,56.5,145.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Bengals,Titans,Alternative Lines,Titans vs Bengals | Alternative Lines A,Under,56.5,-190.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Bengals,Titans,Alternative Lines,Titans vs Bengals | Alternative Lines B,Bengals,8.5,-190.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Bengals,Titans,Alternative Lines,Titans vs Bengals | Alternative Lines B,Over,50.5,-190.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Bengals,Titans,Alternative Lines,Titans vs Bengals | Alternative Lines B,Titans,-8.5,145.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Bengals,Titans,Alternative Lines,Titans vs Bengals | Alternative Lines B,Under,50.5,145.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Bengals,Titans,Team To Score First,Titans vs Bengals | Team to Score First,Bengals,,-105.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Bengals,Titans,Team To Score First,Titans vs Bengals | Team to Score First,Titans,,-125.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Bills,Patriots,Alternative Lines,Patriots vs Bills | Alternative Lines A,Bills,-6.5,145.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Bills,Patriots,Alternative Lines,Patriots vs Bills | Alternative Lines A,Over,45.5,145.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Bills,Patriots,Alternative Lines,Patriots vs Bills | Alternative Lines A,Patriots,6.5,-190.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Bills,Patriots,Alternative Lines,Patriots vs Bills | Alternative Lines A,Under,45.5,-190.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Bills,Patriots,Alternative Lines,Patriots vs Bills | Alternative Lines B,Over,39.5,-190.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Bills,Patriots,Alternative Lines,Patriots vs Bills | Alternative Lines B,Under,39.5,145.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Bills,Patriots,Team To Score First,Patriots vs Bills | Team to Score First,Bills,,-140.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Bills,Patriots,Team To Score First,Patriots vs Bills | Team to Score First,Patriots,,110.0,2020-10-28 16:19
+2020-11-01,15:05 CST,Broncos,Chargers,Team To Score First,Chargers vs Broncos | Team to Score First,Broncos,,-115.0,2020-10-28 16:19
+2020-11-01,15:05 CST,Broncos,Chargers,Team To Score First,Chargers vs Broncos | Team to Score First,Chargers,,-115.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Browns,Raiders,Alternative Lines,Raiders vs Browns | Alternative Lines A,Browns,-5.5,145.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Browns,Raiders,Alternative Lines,Raiders vs Browns | Alternative Lines A,Over,55.5,145.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Browns,Raiders,Alternative Lines,Raiders vs Browns | Alternative Lines A,Raiders,5.5,-190.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Browns,Raiders,Alternative Lines,Raiders vs Browns | Alternative Lines A,Under,55.5,-190.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Browns,Raiders,Alternative Lines,Raiders vs Browns | Alternative Lines B,Over,49.5,-190.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Browns,Raiders,Alternative Lines,Raiders vs Browns | Alternative Lines B,Under,49.5,145.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Browns,Raiders,Team To Score First,Raiders vs Browns | Team to Score First,Browns,,-115.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Browns,Raiders,Team To Score First,Raiders vs Browns | Team to Score First,Raiders,,-115.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Chiefs,Jets,Alternative Lines,Jets vs Chiefs | Alternative Lines A,Chiefs,-22.5,145.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Chiefs,Jets,Alternative Lines,Jets vs Chiefs | Alternative Lines A,Jets,22.5,-190.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Chiefs,Jets,Alternative Lines,Jets vs Chiefs | Alternative Lines A,Over,52.0,145.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Chiefs,Jets,Alternative Lines,Jets vs Chiefs | Alternative Lines A,Under,52.0,-190.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Chiefs,Jets,Alternative Lines,Jets vs Chiefs | Alternative Lines B,Chiefs,-16.5,-190.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Chiefs,Jets,Alternative Lines,Jets vs Chiefs | Alternative Lines B,Jets,16.5,145.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Chiefs,Jets,Alternative Lines,Jets vs Chiefs | Alternative Lines B,Over,46.0,-190.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Chiefs,Jets,Alternative Lines,Jets vs Chiefs | Alternative Lines B,Under,46.0,145.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Chiefs,Jets,Team To Score First,Jets vs Chiefs | Team to Score First,Chiefs,,-225.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Chiefs,Jets,Team To Score First,Jets vs Chiefs | Team to Score First,Jets,,175.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Dolphins,Rams,Alternative Lines,Rams vs Dolphins | Alternative Lines A,Over,49.0,145.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Dolphins,Rams,Alternative Lines,Rams vs Dolphins | Alternative Lines A,Under,49.0,-190.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Dolphins,Rams,Alternative Lines,Rams vs Dolphins | Alternative Lines B,Dolphins,6.5,-190.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Dolphins,Rams,Alternative Lines,Rams vs Dolphins | Alternative Lines B,Over,43.0,-190.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Dolphins,Rams,Alternative Lines,Rams vs Dolphins | Alternative Lines B,Rams,-6.5,145.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Dolphins,Rams,Alternative Lines,Rams vs Dolphins | Alternative Lines B,Under,43.0,145.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Dolphins,Rams,Team To Score First,Rams vs Dolphins | Team to Score First,Dolphins,,-105.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Dolphins,Rams,Team To Score First,Rams vs Dolphins | Team to Score First,Rams,,-125.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Lions,Colts,Alternative Lines,Colts vs Lions | Alternative Lines A,Over,53.0,145.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Lions,Colts,Alternative Lines,Colts vs Lions | Alternative Lines A,Under,53.0,-190.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Lions,Colts,Alternative Lines,Colts vs Lions | Alternative Lines B,Colts,-5.5,135.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Lions,Colts,Alternative Lines,Colts vs Lions | Alternative Lines B,Lions,5.5,-175.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Lions,Colts,Alternative Lines,Colts vs Lions | Alternative Lines B,Over,47.0,-190.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Lions,Colts,Alternative Lines,Colts vs Lions | Alternative Lines B,Under,47.0,145.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Lions,Colts,Team To Score First,Colts vs Lions | Team to Score First,Colts,,-125.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Lions,Colts,Team To Score First,Colts vs Lions | Team to Score First,Lions,,-105.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Packers,Vikings,Alternative Lines,Vikings vs Packers | Alternative Lines A,Over,55.5,145.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Packers,Vikings,Alternative Lines,Vikings vs Packers | Alternative Lines A,Packers,-10.0,155.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Packers,Vikings,Alternative Lines,Vikings vs Packers | Alternative Lines A,Under,55.5,-190.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Packers,Vikings,Alternative Lines,Vikings vs Packers | Alternative Lines A,Vikings,10.0,-200.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Packers,Vikings,Alternative Lines,Vikings vs Packers | Alternative Lines B,Packers,-4.0,-180.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Packers,Vikings,Alternative Lines,Vikings vs Packers | Alternative Lines B,Vikings,4.0,140.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Packers,Vikings,Team To Score First,Vikings vs Packers | Team to Score First,Packers,,-160.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Packers,Vikings,Team To Score First,Vikings vs Packers | Team to Score First,Vikings,,130.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Ravens,Steelers,Alternative Lines,Steelers vs Ravens | Alternative Lines A,Over,49.5,145.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Ravens,Steelers,Alternative Lines,Steelers vs Ravens | Alternative Lines A,Ravens,-6.5,135.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Ravens,Steelers,Alternative Lines,Steelers vs Ravens | Alternative Lines A,Steelers,6.5,-175.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Ravens,Steelers,Alternative Lines,Steelers vs Ravens | Alternative Lines A,Under,49.5,-190.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Ravens,Steelers,Alternative Lines,Steelers vs Ravens | Alternative Lines B,Over,43.5,-190.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Ravens,Steelers,Alternative Lines,Steelers vs Ravens | Alternative Lines B,Under,43.5,145.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Ravens,Steelers,Team To Score First,Steelers vs Ravens | Team to Score First,Ravens,,-140.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Ravens,Steelers,Team To Score First,Steelers vs Ravens | Team to Score First,Steelers,,110.0,2020-10-28 16:19
+2020-11-01,15:25 CST,Seahawks,49ers,Alternative Lines,49ers vs Seahawks | Alternative Lines A,49ers,6.0,-210.0,2020-10-28 16:19
+2020-11-01,15:25 CST,Seahawks,49ers,Alternative Lines,49ers vs Seahawks | Alternative Lines A,Over,56.5,145.0,2020-10-28 16:19
+2020-11-01,15:25 CST,Seahawks,49ers,Alternative Lines,49ers vs Seahawks | Alternative Lines A,Seahawks,-6.0,160.0,2020-10-28 16:19
+2020-11-01,15:25 CST,Seahawks,49ers,Alternative Lines,49ers vs Seahawks | Alternative Lines A,Under,56.5,-190.0,2020-10-28 16:19
+2020-11-01,15:25 CST,Seahawks,49ers,Alternative Lines,49ers vs Seahawks | Alternative Lines B,Over,50.5,-190.0,2020-10-28 16:19
+2020-11-01,15:25 CST,Seahawks,49ers,Alternative Lines,49ers vs Seahawks | Alternative Lines B,Under,50.5,145.0,2020-10-28 16:19
+2020-11-01,15:25 CST,Seahawks,49ers,Team To Score First,49ers vs Seahawks | Team to Score First,49ers,,-105.0,2020-10-28 16:19
+2020-11-01,15:25 CST,Seahawks,49ers,Team To Score First,49ers vs Seahawks | Team to Score First,Seahawks,,-125.0,2020-10-28 16:19
+2020-11-01,15:25 CST,Under,Over,Team Totals,49ers vs Seahawks | 49ers Total Points,Over,25.0,-120.0,2020-10-28 16:19
+2020-11-01,15:25 CST,Under,Over,Team Totals,49ers vs Seahawks | 49ers Total Points,Under,25.0,-110.0,2020-10-28 16:19
+2020-11-01,15:25 CST,Under,Over,Team Totals,49ers vs Seahawks | Seahawks Total Points,Over,28.0,-110.0,2020-10-28 16:19
+2020-11-01,15:25 CST,Under,Over,Team Totals,49ers vs Seahawks | Seahawks Total Points,Under,28.0,-120.0,2020-10-28 16:19
+2020-11-01,15:05 CST,Under,Over,Team Totals,Chargers vs Broncos | Broncos Total Points,Over,20.5,-110.0,2020-10-28 16:19
+2020-11-01,15:05 CST,Under,Over,Team Totals,Chargers vs Broncos | Broncos Total Points,Under,20.5,-120.0,2020-10-28 16:19
+2020-11-01,15:05 CST,Under,Over,Team Totals,Chargers vs Broncos | Chargers Total Points,Over,23.5,-120.0,2020-10-28 16:19
+2020-11-01,15:05 CST,Under,Over,Team Totals,Chargers vs Broncos | Chargers Total Points,Under,23.5,-110.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Under,Over,Team Totals,Colts vs Lions | Colts Total Points,Over,26.0,-120.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Under,Over,Team Totals,Colts vs Lions | Colts Total Points,Under,26.0,-110.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Under,Over,Team Totals,Colts vs Lions | Lions Total Points,Over,23.5,-110.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Under,Over,Team Totals,Colts vs Lions | Lions Total Points,Under,23.5,-120.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Under,Over,Team Totals,Jets vs Chiefs | Chiefs Total Points,Over,34.0,-120.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Under,Over,Team Totals,Jets vs Chiefs | Chiefs Total Points,Under,34.0,-110.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Under,Over,Team Totals,Jets vs Chiefs | Jets Total Points,Over,14.5,-120.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Under,Over,Team Totals,Jets vs Chiefs | Jets Total Points,Under,14.5,-110.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Under,Over,Team Totals,Patriots vs Bills | Bills Total Points,Over,23.0,-115.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Under,Over,Team Totals,Patriots vs Bills | Bills Total Points,Under,23.0,-115.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Under,Over,Team Totals,Patriots vs Bills | Patriots Total Points,Over,19.5,-115.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Under,Over,Team Totals,Patriots vs Bills | Patriots Total Points,Under,19.5,-115.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Under,Over,Team Totals,Raiders vs Browns | Browns Total Points,Over,27.5,-115.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Under,Over,Team Totals,Raiders vs Browns | Browns Total Points,Under,27.5,-115.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Under,Over,Team Totals,Raiders vs Browns | Raiders Total Points,Over,25.0,-115.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Under,Over,Team Totals,Raiders vs Browns | Raiders Total Points,Under,25.0,-115.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Under,Over,Team Totals,Rams vs Dolphins | Dolphins Total Points,Over,21.0,-120.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Under,Over,Team Totals,Rams vs Dolphins | Dolphins Total Points,Under,21.0,-110.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Under,Over,Team Totals,Rams vs Dolphins | Rams Total Points,Over,24.5,-120.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Under,Over,Team Totals,Rams vs Dolphins | Rams Total Points,Under,24.5,-110.0,2020-10-28 16:19
+2020-11-01,15:25 CST,Under,Over,Team Totals,Saints vs Bears | Bears Total Points,Over,19.5,-110.0,2020-10-28 16:19
+2020-11-01,15:25 CST,Under,Over,Team Totals,Saints vs Bears | Bears Total Points,Under,19.5,-120.0,2020-10-28 16:19
+2020-11-01,15:25 CST,Under,Over,Team Totals,Saints vs Bears | Saints Total Points,Over,23.5,-120.0,2020-10-28 16:19
+2020-11-01,15:25 CST,Under,Over,Team Totals,Saints vs Bears | Saints Total Points,Under,23.5,-110.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Under,Over,Team Totals,Steelers vs Ravens | Ravens Total Points,Over,25.0,-115.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Under,Over,Team Totals,Steelers vs Ravens | Ravens Total Points,Under,25.0,-115.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Under,Over,Team Totals,Steelers vs Ravens | Steelers Total Points,Over,21.5,-115.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Under,Over,Team Totals,Steelers vs Ravens | Steelers Total Points,Under,21.5,-115.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Under,Over,Team Totals,Titans vs Bengals | Bengals Total Points,Over,24.0,-115.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Under,Over,Team Totals,Titans vs Bengals | Bengals Total Points,Under,24.0,-115.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Under,Over,Team Totals,Titans vs Bengals | Titans Total Points,Over,29.5,-115.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Under,Over,Team Totals,Titans vs Bengals | Titans Total Points,Under,29.5,-115.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Under,Over,Team Totals,Vikings vs Packers | Packers Total Points,Over,29.5,-110.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Under,Over,Team Totals,Vikings vs Packers | Packers Total Points,Under,29.5,-120.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Under,Over,Team Totals,Vikings vs Packers | Vikings Total Points,Over,22.5,-120.0,2020-10-28 16:19
+2020-11-01,12:00 CST,Under,Over,Team Totals,Vikings vs Packers | Vikings Total Points,Under,22.5,-110.0,2020-10-28 16:19
+2020-11-02,19:15 CST,Giants,Buccaneers,Alternative Lines,Buccaneers vs Giants | Alternative Lines A,Buccaneers,-7.5,-190.0,2020-10-28 16:19
+2020-11-02,19:15 CST,Giants,Buccaneers,Alternative Lines,Buccaneers vs Giants | Alternative Lines A,Giants,7.5,145.0,2020-10-28 16:19
+2020-11-02,19:15 CST,Giants,Buccaneers,Alternative Lines,Buccaneers vs Giants | Alternative Lines A,Over,49.0,145.0,2020-10-28 16:19
+2020-11-02,19:15 CST,Giants,Buccaneers,Alternative Lines,Buccaneers vs Giants | Alternative Lines A,Under,49.0,-190.0,2020-10-28 16:19
+2020-11-02,19:15 CST,Giants,Buccaneers,Alternative Lines,Buccaneers vs Giants | Alternative Lines B,Buccaneers,-13.5,145.0,2020-10-28 16:19
+2020-11-02,19:15 CST,Giants,Buccaneers,Alternative Lines,Buccaneers vs Giants | Alternative Lines B,Giants,13.5,-190.0,2020-10-28 16:19
+2020-11-02,19:15 CST,Giants,Buccaneers,Alternative Lines,Buccaneers vs Giants | Alternative Lines B,Over,43.0,-190.0,2020-10-28 16:19
+2020-11-02,19:15 CST,Giants,Buccaneers,Alternative Lines,Buccaneers vs Giants | Alternative Lines B,Under,43.0,145.0,2020-10-28 16:19
+2020-11-02,19:15 CST,Under,Over,Team Totals,Buccaneers vs Giants | Buccaneers Total Points,Over,28.0,-120.0,2020-10-28 16:19
+2020-11-02,19:15 CST,Under,Over,Team Totals,Buccaneers vs Giants | Buccaneers Total Points,Under,28.0,-110.0,2020-10-28 16:19
+2020-11-02,19:15 CST,Under,Over,Team Totals,Buccaneers vs Giants | Giants Total Points,Over,17.5,-120.0,2020-10-28 16:19
+2020-11-02,19:15 CST,Under,Over,Team Totals,Buccaneers vs Giants | Giants Total Points,Under,17.5,-110.0,2020-10-28 16:19
+2020-10-29,19:20 CDT,Panthers,Falcons,1st Half,Falcons vs Panthers | 1st Half Lines,Falcons,1.5,-110.0,2020-10-28 17:31
+2020-10-29,19:20 CDT,Panthers,Falcons,1st Half,Falcons vs Panthers | 1st Half Lines,Panthers,-1.5,-110.0,2020-10-28 17:31
+2020-10-29,19:20 CDT,Panthers,Falcons,1st Quarter,Falcons vs Panthers | 1st Quarter Lines,Falcons,,110.0,2020-10-28 17:31
+2020-10-29,19:20 CDT,Panthers,Falcons,1st Quarter,Falcons vs Panthers | 1st Quarter Lines,Panthers,,-130.0,2020-10-28 17:31
+2020-10-29,19:20 CDT,Panthers,Falcons,Alternative Lines,Falcons vs Panthers | Alternative Lines A,Falcons,5.5,-180.0,2020-10-28 17:31
+2020-10-29,19:20 CDT,Panthers,Falcons,Alternative Lines,Falcons vs Panthers | Alternative Lines A,Panthers,-5.5,140.0,2020-10-28 17:31
+2020-11-01,15:25 CST,Bears,Saints,1st Half,Saints vs Bears | 1st Half Lines,Bears,3.0,-110.0,2020-10-28 17:31
+2020-11-01,15:25 CST,Bears,Saints,1st Half,Saints vs Bears | 1st Half Lines,Saints,-3.0,-110.0,2020-10-28 17:31
+2020-11-01,15:25 CST,Bears,Saints,1st Quarter,Saints vs Bears | 1st Quarter Lines,Bears,,130.0,2020-10-28 17:31
+2020-11-01,15:25 CST,Bears,Saints,1st Quarter,Saints vs Bears | 1st Quarter Lines,Saints,,-150.0,2020-10-28 17:31
+2020-11-01,12:00 CST,Bengals,Titans,1st Half,Titans vs Bengals | 1st Half Lines,Bengals,,165.0,2020-10-28 17:31
+2020-11-01,12:00 CST,Bengals,Titans,1st Half,Titans vs Bengals | 1st Half Lines,Titans,,-185.0,2020-10-28 17:31
+2020-11-01,12:00 CST,Bengals,Titans,1st Quarter,Titans vs Bengals | 1st Quarter Lines,Bengals,,145.0,2020-10-28 17:31
+2020-11-01,12:00 CST,Bengals,Titans,1st Quarter,Titans vs Bengals | 1st Quarter Lines,Titans,,-165.0,2020-10-28 17:31
+2020-11-01,12:00 CST,Bills,Patriots,1st Half,Patriots vs Bills | 1st Half Lines,Bills,-3.0,100.0,2020-10-28 17:31
+2020-11-01,12:00 CST,Bills,Patriots,1st Half,Patriots vs Bills | 1st Half Lines,Patriots,3.0,-120.0,2020-10-28 17:31
+2020-11-01,12:00 CST,Bills,Patriots,1st Quarter,Patriots vs Bills | 1st Quarter Lines,Bills,,-160.0,2020-10-28 17:31
+2020-11-01,12:00 CST,Bills,Patriots,1st Quarter,Patriots vs Bills | 1st Quarter Lines,Patriots,,140.0,2020-10-28 17:31
+2020-11-01,15:05 CST,Broncos,Chargers,1st Half,Chargers vs Broncos | 1st Half Lines,Broncos,2.5,-110.0,2020-10-28 17:31
+2020-11-01,15:05 CST,Broncos,Chargers,1st Half,Chargers vs Broncos | 1st Half Lines,Chargers,-2.5,-110.0,2020-10-28 17:31
+2020-11-01,15:05 CST,Broncos,Chargers,1st Quarter,Chargers vs Broncos | 1st Quarter Lines,Broncos,,120.0,2020-10-28 17:31
+2020-11-01,15:05 CST,Broncos,Chargers,1st Quarter,Chargers vs Broncos | 1st Quarter Lines,Chargers,,-140.0,2020-10-28 17:31
+2020-11-01,12:00 CST,Browns,Raiders,1st Half,Raiders vs Browns | 1st Half Lines,Browns,-2.5,-110.0,2020-10-28 17:31
+2020-11-01,12:00 CST,Browns,Raiders,1st Half,Raiders vs Browns | 1st Half Lines,Raiders,2.5,-110.0,2020-10-28 17:31
+2020-11-01,12:00 CST,Browns,Raiders,1st Quarter,Raiders vs Browns | 1st Quarter Lines,Browns,,-135.0,2020-10-28 17:31
+2020-11-01,12:00 CST,Browns,Raiders,1st Quarter,Raiders vs Browns | 1st Quarter Lines,Raiders,,115.0,2020-10-28 17:31
+2020-11-01,12:00 CST,Chiefs,Jets,1st Half,Jets vs Chiefs | 1st Half Lines,Chiefs,-11.5,-110.0,2020-10-28 17:31
+2020-11-01,12:00 CST,Chiefs,Jets,1st Half,Jets vs Chiefs | 1st Half Lines,Jets,11.5,-110.0,2020-10-28 17:31
+2020-11-01,12:00 CST,Chiefs,Jets,1st Quarter,Jets vs Chiefs | 1st Quarter Lines,Chiefs,,-500.0,2020-10-28 17:31
+2020-11-01,12:00 CST,Chiefs,Jets,1st Quarter,Jets vs Chiefs | 1st Quarter Lines,Jets,,375.0,2020-10-28 17:31
+2020-11-01,12:00 CST,Dolphins,Rams,1st Half,Rams vs Dolphins | 1st Half Lines,Dolphins,,145.0,2020-10-28 17:31
+2020-11-01,12:00 CST,Dolphins,Rams,1st Half,Rams vs Dolphins | 1st Half Lines,Rams,,-165.0,2020-10-28 17:31
+2020-11-01,12:00 CST,Dolphins,Rams,1st Quarter,Rams vs Dolphins | 1st Quarter Lines,Dolphins,,125.0,2020-10-28 17:31
+2020-11-01,12:00 CST,Dolphins,Rams,1st Quarter,Rams vs Dolphins | 1st Quarter Lines,Rams,,-145.0,2020-10-28 17:31
+2020-11-01,12:00 CST,Lions,Colts,1st Half,Colts vs Lions | 1st Half Lines,Colts,-1.5,-110.0,2020-10-28 17:31
+2020-11-01,12:00 CST,Lions,Colts,1st Half,Colts vs Lions | 1st Half Lines,Lions,1.5,-110.0,2020-10-28 17:31
+2020-11-01,12:00 CST,Lions,Colts,1st Quarter,Colts vs Lions | 1st Quarter Lines,Colts,,-135.0,2020-10-28 17:31
+2020-11-01,12:00 CST,Lions,Colts,1st Quarter,Colts vs Lions | 1st Quarter Lines,Lions,,115.0,2020-10-28 17:31
+2020-11-01,12:00 CST,Packers,Vikings,1st Half,Vikings vs Packers | 1st Half Lines,Packers,-4.0,-110.0,2020-10-28 17:31
+2020-11-01,12:00 CST,Packers,Vikings,1st Half,Vikings vs Packers | 1st Half Lines,Vikings,4.0,-110.0,2020-10-28 17:31
+2020-11-01,12:00 CST,Packers,Vikings,1st Quarter,Vikings vs Packers | 1st Quarter Lines,Packers,,-200.0,2020-10-28 17:31
+2020-11-01,12:00 CST,Packers,Vikings,1st Quarter,Vikings vs Packers | 1st Quarter Lines,Vikings,,170.0,2020-10-28 17:31
+2020-11-01,12:00 CST,Ravens,Steelers,1st Half,Steelers vs Ravens | 1st Half Lines,Ravens,-3.0,-105.0,2020-10-28 17:31
+2020-11-01,12:00 CST,Ravens,Steelers,1st Half,Steelers vs Ravens | 1st Half Lines,Steelers,3.0,-115.0,2020-10-28 17:31
+2020-11-01,12:00 CST,Ravens,Steelers,Alternative Lines,Steelers vs Ravens | Alternative Lines A,Over,49.5,140.0,2020-10-28 17:31
+2020-11-01,12:00 CST,Ravens,Steelers,Alternative Lines,Steelers vs Ravens | Alternative Lines A,Ravens,-7.0,145.0,2020-10-28 17:31
+2020-11-01,12:00 CST,Ravens,Steelers,Alternative Lines,Steelers vs Ravens | Alternative Lines A,Steelers,7.0,-190.0,2020-10-28 17:31
+2020-11-01,12:00 CST,Ravens,Steelers,Alternative Lines,Steelers vs Ravens | Alternative Lines A,Under,49.5,-180.0,2020-10-28 17:31
+2020-11-01,12:00 CST,Ravens,Steelers,Alternative Lines,Steelers vs Ravens | Alternative Lines B,Over,43.5,-200.0,2020-10-28 17:31
+2020-11-01,12:00 CST,Ravens,Steelers,Alternative Lines,Steelers vs Ravens | Alternative Lines B,Under,43.5,155.0,2020-10-28 17:31
+2020-11-01,15:25 CST,Seahawks,49ers,1st Half,49ers vs Seahawks | 1st Half Lines,49ers,,130.0,2020-10-28 17:31
+2020-11-01,15:25 CST,Seahawks,49ers,1st Half,49ers vs Seahawks | 1st Half Lines,Seahawks,,-150.0,2020-10-28 17:31
+2020-11-01,15:25 CST,Seahawks,49ers,1st Quarter,49ers vs Seahawks | 1st Quarter Lines,49ers,,120.0,2020-10-28 17:31
+2020-11-01,15:25 CST,Seahawks,49ers,1st Quarter,49ers vs Seahawks | 1st Quarter Lines,Seahawks,,-140.0,2020-10-28 17:31
+2020-11-01,15:25 CST,Seahawks,49ers,Alternative Lines,49ers vs Seahawks | Alternative Lines A,49ers,5.5,-175.0,2020-10-28 17:31
+2020-11-01,15:25 CST,Seahawks,49ers,Alternative Lines,49ers vs Seahawks | Alternative Lines A,Seahawks,-5.5,135.0,2020-10-28 17:31
+2020-11-01,15:25 CST,Under,Over,Team Totals,49ers vs Seahawks | 49ers Total Points,Over,25.5,-115.0,2020-10-28 17:31
+2020-11-01,15:25 CST,Under,Over,Team Totals,49ers vs Seahawks | 49ers Total Points,Under,25.5,-115.0,2020-10-28 17:31
+2020-11-01,15:25 CST,Under,Over,Team Totals,49ers vs Seahawks | Seahawks Total Points,Over,28.0,-115.0,2020-10-28 17:31
+2020-11-01,15:25 CST,Under,Over,Team Totals,49ers vs Seahawks | Seahawks Total Points,Under,28.0,-115.0,2020-10-28 17:31
+2020-11-01,12:00 CST,Under,Over,Team Totals,Steelers vs Ravens | Ravens Total Points,Over,25.0,-110.0,2020-10-28 17:31
+2020-11-01,12:00 CST,Under,Over,Team Totals,Steelers vs Ravens | Ravens Total Points,Under,25.0,-120.0,2020-10-28 17:31
+2020-11-01,12:00 CST,Under,Over,Team Totals,Steelers vs Ravens | Steelers Total Points,Over,21.0,-110.0,2020-10-28 17:31
+2020-11-01,12:00 CST,Under,Over,Team Totals,Steelers vs Ravens | Steelers Total Points,Under,21.0,-120.0,2020-10-28 17:31
+2020-11-02,19:15 CST,Giants,Buccaneers,1st Half,Buccaneers vs Giants | 1st Half Lines,Buccaneers,,-320.0,2020-10-28 17:31
+2020-11-02,19:15 CST,Giants,Buccaneers,1st Half,Buccaneers vs Giants | 1st Half Lines,Giants,,260.0,2020-10-28 17:31
+2020-10-29,19:20 CDT,Panthers,Falcons,1st Half,Falcons vs Panthers | 1st Half Lines,Falcons,,110.0,2020-10-29 07:50
+2020-10-29,19:20 CDT,Panthers,Falcons,1st Half,Falcons vs Panthers | 1st Half Lines,Falcons,1.0,-110.0,2020-10-29 07:50
+2020-10-29,19:20 CDT,Panthers,Falcons,1st Half,Falcons vs Panthers | 1st Half Lines,Panthers,,-130.0,2020-10-29 07:50
+2020-10-29,19:20 CDT,Panthers,Falcons,1st Half,Falcons vs Panthers | 1st Half Lines,Panthers,-1.0,-110.0,2020-10-29 07:50
+2020-10-29,19:20 CDT,Panthers,Falcons,1st Quarter,Falcons vs Panthers | 1st Quarter Lines,Falcons,0.5,-140.0,2020-10-29 07:50
+2020-10-29,19:20 CDT,Panthers,Falcons,1st Quarter,Falcons vs Panthers | 1st Quarter Lines,Panthers,-0.5,120.0,2020-10-29 07:50
+2020-10-29,19:20 CDT,Panthers,Falcons,Alternative Lines,Falcons vs Panthers | Alternative Lines A,Falcons,5.0,-190.0,2020-10-29 07:50
+2020-10-29,19:20 CDT,Panthers,Falcons,Alternative Lines,Falcons vs Panthers | Alternative Lines A,Over,54.0,120.0,2020-10-29 07:50
+2020-10-29,19:20 CDT,Panthers,Falcons,Alternative Lines,Falcons vs Panthers | Alternative Lines A,Panthers,-5.0,145.0,2020-10-29 07:50
+2020-10-29,19:20 CDT,Panthers,Falcons,Alternative Lines,Falcons vs Panthers | Alternative Lines A,Under,54.0,-160.0,2020-10-29 07:50
+2020-10-29,19:20 CDT,Panthers,Falcons,Alternative Lines,Falcons vs Panthers | Alternative Lines B,Over,48.0,-165.0,2020-10-29 07:50
+2020-10-29,19:20 CDT,Panthers,Falcons,Alternative Lines,Falcons vs Panthers | Alternative Lines B,Under,48.0,125.0,2020-10-29 07:50
+2020-10-29,19:20 CDT,Under,Over,Team Totals,Falcons vs Panthers | Panthers Total Points,Over,26.5,-115.0,2020-10-29 07:50
+2020-10-29,19:20 CDT,Under,Over,Team Totals,Falcons vs Panthers | Panthers Total Points,Under,26.5,-115.0,2020-10-29 07:50
+2020-11-01,15:25 CST,Bears,Saints,1st Half,Saints vs Bears | 1st Half Lines,Bears,,155.0,2020-10-29 07:50
+2020-11-01,15:25 CST,Bears,Saints,1st Half,Saints vs Bears | 1st Half Lines,Saints,,-175.0,2020-10-29 07:50
+2020-11-01,15:25 CST,Bears,Saints,1st Quarter,Saints vs Bears | 1st Quarter Lines,Bears,0.5,-125.0,2020-10-29 07:50
+2020-11-01,15:25 CST,Bears,Saints,1st Quarter,Saints vs Bears | 1st Quarter Lines,Saints,-0.5,105.0,2020-10-29 07:50
+2020-11-01,15:25 CST,Bears,Saints,Alternative Lines,Saints vs Bears | Alternative Lines B,Bears,7.5,-190.0,2020-10-29 07:50
+2020-11-01,15:25 CST,Bears,Saints,Alternative Lines,Saints vs Bears | Alternative Lines B,Saints,-7.5,145.0,2020-10-29 07:50
+2020-11-01,12:00 CST,Bengals,Titans,1st Half,Titans vs Bengals | 1st Half Lines,Bengals,3.0,-105.0,2020-10-29 07:50
+2020-11-01,12:00 CST,Bengals,Titans,1st Half,Titans vs Bengals | 1st Half Lines,Titans,-3.0,-115.0,2020-10-29 07:50
+2020-11-01,12:00 CST,Bengals,Titans,1st Quarter,Titans vs Bengals | 1st Quarter Lines,Bengals,0.5,-105.0,2020-10-29 07:50
+2020-11-01,12:00 CST,Bengals,Titans,1st Quarter,Titans vs Bengals | 1st Quarter Lines,Titans,-0.5,-115.0,2020-10-29 07:50
+2020-11-01,12:00 CST,Bills,Patriots,1st Half,Patriots vs Bills | 1st Half Lines,Bills,,-165.0,2020-10-29 07:50
+2020-11-01,12:00 CST,Bills,Patriots,1st Half,Patriots vs Bills | 1st Half Lines,Patriots,,145.0,2020-10-29 07:50
+2020-11-01,12:00 CST,Bills,Patriots,1st Quarter,Patriots vs Bills | 1st Quarter Lines,Bills,-0.5,105.0,2020-10-29 07:50
+2020-11-01,12:00 CST,Bills,Patriots,1st Quarter,Patriots vs Bills | 1st Quarter Lines,Patriots,0.5,-125.0,2020-10-29 07:50
+2020-11-01,12:00 CST,Bills,Patriots,Alternative Lines,Patriots vs Bills | Alternative Lines A,Over,45.5,140.0,2020-10-29 07:50
+2020-11-01,12:00 CST,Bills,Patriots,Alternative Lines,Patriots vs Bills | Alternative Lines A,Under,45.5,-180.0,2020-10-29 07:50
+2020-11-01,12:00 CST,Bills,Patriots,Alternative Lines,Patriots vs Bills | Alternative Lines B,Over,39.5,-200.0,2020-10-29 07:50
+2020-11-01,12:00 CST,Bills,Patriots,Alternative Lines,Patriots vs Bills | Alternative Lines B,Under,39.5,155.0,2020-10-29 07:50
+2020-11-01,15:05 CST,Broncos,Chargers,1st Half,Chargers vs Broncos | 1st Half Lines,Broncos,,140.0,2020-10-29 07:50
+2020-11-01,15:05 CST,Broncos,Chargers,1st Half,Chargers vs Broncos | 1st Half Lines,Chargers,,-160.0,2020-10-29 07:50
+2020-11-01,15:05 CST,Broncos,Chargers,1st Quarter,Chargers vs Broncos | 1st Quarter Lines,Broncos,0.5,-135.0,2020-10-29 07:50
+2020-11-01,15:05 CST,Broncos,Chargers,1st Quarter,Chargers vs Broncos | 1st Quarter Lines,Chargers,-0.5,115.0,2020-10-29 07:50
+2020-11-01,12:00 CST,Browns,Raiders,1st Half,Raiders vs Browns | 1st Half Lines,Browns,,-145.0,2020-10-29 07:50
+2020-11-01,12:00 CST,Browns,Raiders,1st Half,Raiders vs Browns | 1st Half Lines,Raiders,,125.0,2020-10-29 07:50
+2020-11-01,12:00 CST,Browns,Raiders,1st Quarter,Raiders vs Browns | 1st Quarter Lines,Browns,-0.5,110.0,2020-10-29 07:50
+2020-11-01,12:00 CST,Browns,Raiders,1st Quarter,Raiders vs Browns | 1st Quarter Lines,Raiders,0.5,-130.0,2020-10-29 07:50
+2020-11-01,12:00 CST,Browns,Raiders,Alternative Lines,Raiders vs Browns | Alternative Lines A,Over,54.5,140.0,2020-10-29 07:50
+2020-11-01,12:00 CST,Browns,Raiders,Alternative Lines,Raiders vs Browns | Alternative Lines A,Under,54.5,-180.0,2020-10-29 07:50
+2020-11-01,12:00 CST,Browns,Raiders,Alternative Lines,Raiders vs Browns | Alternative Lines B,Over,48.5,-200.0,2020-10-29 07:50
+2020-11-01,12:00 CST,Browns,Raiders,Alternative Lines,Raiders vs Browns | Alternative Lines B,Under,48.5,155.0,2020-10-29 07:50
+2020-11-01,12:00 CST,Chiefs,Jets,1st Half,Jets vs Chiefs | 1st Half Lines,Chiefs,,-600.0,2020-10-29 07:50
+2020-11-01,12:00 CST,Chiefs,Jets,1st Half,Jets vs Chiefs | 1st Half Lines,Jets,,450.0,2020-10-29 07:50
+2020-11-01,12:00 CST,Chiefs,Jets,1st Quarter,Jets vs Chiefs | 1st Quarter Lines,Chiefs,-6.5,-120.0,2020-10-29 07:50
+2020-11-01,12:00 CST,Chiefs,Jets,1st Quarter,Jets vs Chiefs | 1st Quarter Lines,Jets,6.5,100.0,2020-10-29 07:50
+2020-11-01,12:00 CST,Dolphins,Rams,1st Half,Rams vs Dolphins | 1st Half Lines,Dolphins,3.0,-120.0,2020-10-29 07:50
+2020-11-01,12:00 CST,Dolphins,Rams,1st Half,Rams vs Dolphins | 1st Half Lines,Rams,-3.0,100.0,2020-10-29 07:50
+2020-11-01,12:00 CST,Dolphins,Rams,1st Quarter,Rams vs Dolphins | 1st Quarter Lines,Dolphins,0.5,-125.0,2020-10-29 07:50
+2020-11-01,12:00 CST,Dolphins,Rams,1st Quarter,Rams vs Dolphins | 1st Quarter Lines,Rams,-0.5,105.0,2020-10-29 07:50
+2020-11-01,12:00 CST,Lions,Colts,1st Half,Colts vs Lions | 1st Half Lines,Colts,,-140.0,2020-10-29 07:50
+2020-11-01,12:00 CST,Lions,Colts,1st Half,Colts vs Lions | 1st Half Lines,Lions,,120.0,2020-10-29 07:50
+2020-11-01,12:00 CST,Lions,Colts,1st Quarter,Colts vs Lions | 1st Quarter Lines,Colts,-0.5,120.0,2020-10-29 07:50
+2020-11-01,12:00 CST,Lions,Colts,1st Quarter,Colts vs Lions | 1st Quarter Lines,Lions,0.5,-140.0,2020-10-29 07:50
+2020-11-01,12:00 CST,Lions,Colts,Alternative Lines,Colts vs Lions | Alternative Lines B,Colts,-5.5,125.0,2020-10-29 07:50
+2020-11-01,12:00 CST,Lions,Colts,Alternative Lines,Colts vs Lions | Alternative Lines B,Lions,5.5,-160.0,2020-10-29 07:50
+2020-11-01,12:00 CST,Packers,Vikings,1st Half,Vikings vs Packers | 1st Half Lines,Packers,,-240.0,2020-10-29 07:50
+2020-11-01,12:00 CST,Packers,Vikings,1st Half,Vikings vs Packers | 1st Half Lines,Vikings,,200.0,2020-10-29 07:50
+2020-11-01,12:00 CST,Packers,Vikings,1st Quarter,Vikings vs Packers | 1st Quarter Lines,Packers,-3.0,100.0,2020-10-29 07:50
+2020-11-01,12:00 CST,Packers,Vikings,1st Quarter,Vikings vs Packers | 1st Quarter Lines,Vikings,3.0,-120.0,2020-10-29 07:50
+2020-11-01,12:00 CST,Packers,Vikings,Alternative Lines,Vikings vs Packers | Alternative Lines A,Over,54.5,140.0,2020-10-29 07:50
+2020-11-01,12:00 CST,Packers,Vikings,Alternative Lines,Vikings vs Packers | Alternative Lines A,Under,54.5,-180.0,2020-10-29 07:50
+2020-11-01,12:00 CST,Ravens,Steelers,1st Half,Steelers vs Ravens | 1st Half Lines,Ravens,,-170.0,2020-10-29 07:50
+2020-11-01,12:00 CST,Ravens,Steelers,1st Half,Steelers vs Ravens | 1st Half Lines,Steelers,,150.0,2020-10-29 07:50
+2020-11-01,12:00 CST,Ravens,Steelers,Alternative Lines,Steelers vs Ravens | Alternative Lines A,Over,49.5,145.0,2020-10-29 07:50
+2020-11-01,12:00 CST,Ravens,Steelers,Alternative Lines,Steelers vs Ravens | Alternative Lines A,Under,49.5,-190.0,2020-10-29 07:50
+2020-11-01,12:00 CST,Ravens,Steelers,Alternative Lines,Steelers vs Ravens | Alternative Lines B,Over,43.5,-190.0,2020-10-29 07:50
+2020-11-01,12:00 CST,Ravens,Steelers,Alternative Lines,Steelers vs Ravens | Alternative Lines B,Under,43.5,145.0,2020-10-29 07:50
+2020-11-01,15:25 CST,Seahawks,49ers,1st Half,49ers vs Seahawks | 1st Half Lines,49ers,2.5,-120.0,2020-10-29 07:50
+2020-11-01,15:25 CST,Seahawks,49ers,1st Half,49ers vs Seahawks | 1st Half Lines,Seahawks,-2.5,100.0,2020-10-29 07:50
+2020-11-01,15:25 CST,Seahawks,49ers,1st Quarter,49ers vs Seahawks | 1st Quarter Lines,49ers,0.5,-130.0,2020-10-29 07:50
+2020-11-01,15:25 CST,Seahawks,49ers,1st Quarter,49ers vs Seahawks | 1st Quarter Lines,Seahawks,-0.5,110.0,2020-10-29 07:50
+2020-11-01,15:25 CST,Seahawks,49ers,Alternative Lines,49ers vs Seahawks | Alternative Lines A,Over,57.0,145.0,2020-10-29 07:50
+2020-11-01,15:25 CST,Seahawks,49ers,Alternative Lines,49ers vs Seahawks | Alternative Lines A,Under,57.0,-190.0,2020-10-29 07:50
+2020-11-01,15:25 CST,Seahawks,49ers,Alternative Lines,49ers vs Seahawks | Alternative Lines B,Over,51.0,-190.0,2020-10-29 07:50
+2020-11-01,15:25 CST,Seahawks,49ers,Alternative Lines,49ers vs Seahawks | Alternative Lines B,Under,51.0,145.0,2020-10-29 07:50
+2020-11-01,15:25 CST,Under,Over,Team Totals,49ers vs Seahawks | 49ers Total Points,Over,25.5,-110.0,2020-10-29 07:50
+2020-11-01,15:25 CST,Under,Over,Team Totals,49ers vs Seahawks | 49ers Total Points,Under,25.5,-120.0,2020-10-29 07:50
+2020-11-01,15:25 CST,Under,Over,Team Totals,49ers vs Seahawks | Seahawks Total Points,Over,28.0,-120.0,2020-10-29 07:50
+2020-11-01,15:25 CST,Under,Over,Team Totals,49ers vs Seahawks | Seahawks Total Points,Under,28.0,-110.0,2020-10-29 07:50
+2020-11-01,12:00 CST,Under,Over,Team Totals,Colts vs Lions | Colts Total Points,Over,26.0,-115.0,2020-10-29 07:50
+2020-11-01,12:00 CST,Under,Over,Team Totals,Colts vs Lions | Colts Total Points,Under,26.0,-115.0,2020-10-29 07:50
+2020-11-01,12:00 CST,Under,Over,Team Totals,Raiders vs Browns | Browns Total Points,Over,27.0,-115.0,2020-10-29 07:50
+2020-11-01,12:00 CST,Under,Over,Team Totals,Raiders vs Browns | Browns Total Points,Under,27.0,-115.0,2020-10-29 07:50
+2020-11-01,12:00 CST,Under,Over,Team Totals,Raiders vs Browns | Raiders Total Points,Over,24.5,-115.0,2020-10-29 07:50
+2020-11-01,12:00 CST,Under,Over,Team Totals,Raiders vs Browns | Raiders Total Points,Under,24.5,-115.0,2020-10-29 07:50
+2020-11-01,15:25 CST,Under,Over,Team Totals,Saints vs Bears | Bears Total Points,Over,19.5,-115.0,2020-10-29 07:50
+2020-11-01,15:25 CST,Under,Over,Team Totals,Saints vs Bears | Bears Total Points,Under,19.5,-115.0,2020-10-29 07:50
+2020-11-01,15:25 CST,Under,Over,Team Totals,Saints vs Bears | Saints Total Points,Over,24.0,-115.0,2020-10-29 07:50
+2020-11-01,15:25 CST,Under,Over,Team Totals,Saints vs Bears | Saints Total Points,Under,24.0,-115.0,2020-10-29 07:50
+2020-11-01,12:00 CST,Under,Over,Team Totals,Steelers vs Ravens | Ravens Total Points,Over,25.0,-120.0,2020-10-29 07:50
+2020-11-01,12:00 CST,Under,Over,Team Totals,Steelers vs Ravens | Ravens Total Points,Under,25.0,-110.0,2020-10-29 07:50
+2020-11-01,12:00 CST,Under,Over,Team Totals,Steelers vs Ravens | Steelers Total Points,Over,21.0,-120.0,2020-10-29 07:50
+2020-11-01,12:00 CST,Under,Over,Team Totals,Steelers vs Ravens | Steelers Total Points,Under,21.0,-110.0,2020-10-29 07:50
+2020-11-01,12:00 CST,Under,Over,Team Totals,Vikings vs Packers | Packers Total Points,Over,29.0,-110.0,2020-10-29 07:50
+2020-11-01,12:00 CST,Under,Over,Team Totals,Vikings vs Packers | Packers Total Points,Under,29.0,-120.0,2020-10-29 07:50
+2020-11-01,12:00 CST,Under,Over,Team Totals,Vikings vs Packers | Vikings Total Points,Over,22.0,-120.0,2020-10-29 07:50
+2020-11-01,12:00 CST,Under,Over,Team Totals,Vikings vs Packers | Vikings Total Points,Under,22.0,-110.0,2020-10-29 07:50
+2020-11-02,19:15 CST,Giants,Buccaneers,1st Half,Buccaneers vs Giants | 1st Half Lines,Buccaneers,-6.5,-110.0,2020-10-29 07:50
+2020-11-02,19:15 CST,Giants,Buccaneers,1st Half,Buccaneers vs Giants | 1st Half Lines,Giants,6.5,-110.0,2020-10-29 07:50
+2020-10-29,19:20 CDT,Under,Over,QB Pass Attempts,Falcons vs Panthers | Matt Ryan Total Pass Attempts,Over,36.5,-120.0,2020-10-29 07:51
+2020-10-29,19:20 CDT,Under,Over,QB Pass Attempts,Falcons vs Panthers | Matt Ryan Total Pass Attempts,Under,36.5,-120.0,2020-10-29 07:51
+2020-10-29,19:20 CDT,Under,Over,QB Pass Attempts,Falcons vs Panthers | Teddy Bridgewater Total Pass Attempts,Over,36.5,-125.0,2020-10-29 07:51
+2020-10-29,19:20 CDT,Under,Over,QB Pass Attempts,Falcons vs Panthers | Teddy Bridgewater Total Pass Attempts,Under,36.5,-115.0,2020-10-29 07:51
+2020-10-29,19:20 CDT,Under,Over,QB Pass Completions,Falcons vs Panthers | Matt Ryan Total Completions,Over,23.5,-135.0,2020-10-29 07:51
+2020-10-29,19:20 CDT,Under,Over,QB Pass Completions,Falcons vs Panthers | Matt Ryan Total Completions,Under,23.5,-105.0,2020-10-29 07:51
+2020-10-29,19:20 CDT,Under,Over,QB Pass Completions,Falcons vs Panthers | Teddy Bridgewater Total Completions,Over,24.5,-125.0,2020-10-29 07:51
+2020-10-29,19:20 CDT,Under,Over,QB Pass Completions,Falcons vs Panthers | Teddy Bridgewater Total Completions,Under,24.5,-115.0,2020-10-29 07:51
+2020-10-29,19:20 CDT,Under,Over,QB Passing TDs,Falcons vs Panthers | Matt Ryan Total Passing TDs,Over,1.5,-205.0,2020-10-29 07:51
+2020-10-29,19:20 CDT,Under,Over,QB Passing TDs,Falcons vs Panthers | Matt Ryan Total Passing TDs,Under,1.5,145.0,2020-10-29 07:51
+2020-10-29,19:20 CDT,Under,Over,QB Passing Yards,Falcons vs Panthers | Matt Ryan Total Passing Yards,Over,275.5,-160.0,2020-10-29 07:51
+2020-10-29,19:20 CDT,Under,Over,QB Passing Yards,Falcons vs Panthers | Matt Ryan Total Passing Yards,Under,275.5,115.0,2020-10-29 07:51
+2020-10-29,19:20 CDT,Under,Over,QB Passing Yards,Falcons vs Panthers | Teddy Bridgewater Total Passing Yards,Over,284.5,-115.0,2020-10-29 07:51
+2020-10-29,19:20 CDT,Under,Over,QB Passing Yards,Falcons vs Panthers | Teddy Bridgewater Total Passing Yards,Under,284.5,-125.0,2020-10-29 07:51
+2020-10-29,19:20 CDT,Under,Over,Receiving Yards,Falcons vs Panthers | Calvin Ridley Total Receiving Yards,Over,70.5,-120.0,2020-10-29 07:51
+2020-10-29,19:20 CDT,Under,Over,Receiving Yards,Falcons vs Panthers | Calvin Ridley Total Receiving Yards,Under,70.5,-120.0,2020-10-29 07:51
+2020-10-29,19:20 CDT,Under,Over,Receiving Yards,Falcons vs Panthers | D.J. Moore Total Receiving Yards,Over,71.5,-120.0,2020-10-29 07:51
+2020-10-29,19:20 CDT,Under,Over,Receiving Yards,Falcons vs Panthers | D.J. Moore Total Receiving Yards,Under,71.5,-120.0,2020-10-29 07:51
+2020-10-29,19:20 CDT,Under,Over,Receiving Yards,Falcons vs Panthers | Julio Jones Total Receiving Yards,Over,71.5,-140.0,2020-10-29 07:51
+2020-10-29,19:20 CDT,Under,Over,Receiving Yards,Falcons vs Panthers | Julio Jones Total Receiving Yards,Under,71.5,100.0,2020-10-29 07:51
+2020-10-29,19:20 CDT,Under,Over,Receiving Yards,Falcons vs Panthers | Robby Anderson Total Receiving Yards,Over,76.5,-120.0,2020-10-29 07:51
+2020-10-29,19:20 CDT,Under,Over,Receiving Yards,Falcons vs Panthers | Robby Anderson Total Receiving Yards,Under,76.5,-120.0,2020-10-29 07:51
+2020-10-29,19:20 CDT,Under,Over,Receptions,Falcons vs Panthers | Calvin Ridley Total Receptions,Over,4.5,-120.0,2020-10-29 07:51
+2020-10-29,19:20 CDT,Under,Over,Receptions,Falcons vs Panthers | Calvin Ridley Total Receptions,Under,4.5,-120.0,2020-10-29 07:51
+2020-10-29,19:20 CDT,Under,Over,Receptions,Falcons vs Panthers | D.J. Moore Total Receptions,Over,4.5,-120.0,2020-10-29 07:51
+2020-10-29,19:20 CDT,Under,Over,Receptions,Falcons vs Panthers | D.J. Moore Total Receptions,Under,4.5,-120.0,2020-10-29 07:51
+2020-10-29,19:20 CDT,Under,Over,Receptions,Falcons vs Panthers | Julio Jones Total Receptions,Over,5.5,-150.0,2020-10-29 07:51
+2020-10-29,19:20 CDT,Under,Over,Receptions,Falcons vs Panthers | Julio Jones Total Receptions,Under,5.5,110.0,2020-10-29 07:51
+2020-10-29,19:20 CDT,Under,Over,Receptions,Falcons vs Panthers | Robby Anderson Total Receptions,Over,5.5,-125.0,2020-10-29 07:51
+2020-10-29,19:20 CDT,Under,Over,Receptions,Falcons vs Panthers | Robby Anderson Total Receptions,Under,5.5,-115.0,2020-10-29 07:51
+2020-10-29,19:20 CDT,Under,Over,Rushing Yards,Falcons vs Panthers | Mike Davis Total Rushing Yards,Over,55.5,100.0,2020-10-29 07:51
+2020-10-29,19:20 CDT,Under,Over,Rushing Yards,Falcons vs Panthers | Mike Davis Total Rushing Yards,Under,55.5,-140.0,2020-10-29 07:51
+2020-10-29,19:20 CDT,Under,Over,Rushing Yards,Falcons vs Panthers | Todd Gurley II Total Rushing Yards,Over,65.5,-120.0,2020-10-29 07:51
+2020-10-29,19:20 CDT,Under,Over,Rushing Yards,Falcons vs Panthers | Todd Gurley II Total Rushing Yards,Under,65.5,-120.0,2020-10-29 07:51
+2020-10-29,19:20 CDT,Panthers,Falcons,1st Half,Falcons vs Panthers | 1st Half Lines,Falcons,0.5,-110.0,2020-10-29 18:58
+2020-10-29,19:20 CDT,Panthers,Falcons,1st Half,Falcons vs Panthers | 1st Half Lines,Panthers,-0.5,-110.0,2020-10-29 18:58
+2020-10-29,19:20 CDT,Panthers,Falcons,1st Quarter,Falcons vs Panthers | 1st Quarter Lines,Falcons,,100.0,2020-10-29 18:58
+2020-10-29,19:20 CDT,Panthers,Falcons,1st Quarter,Falcons vs Panthers | 1st Quarter Lines,Falcons,0.5,-150.0,2020-10-29 18:58
+2020-10-29,19:20 CDT,Panthers,Falcons,1st Quarter,Falcons vs Panthers | 1st Quarter Lines,Panthers,,-120.0,2020-10-29 18:58
+2020-10-29,19:20 CDT,Panthers,Falcons,1st Quarter,Falcons vs Panthers | 1st Quarter Lines,Panthers,-0.5,130.0,2020-10-29 18:58
+2020-11-01,15:25 CST,Bears,Saints,1st Half,Saints vs Bears | 1st Half Lines,Bears,3.0,-110.0,2020-10-29 18:58
+2020-11-01,15:25 CST,Bears,Saints,1st Half,Saints vs Bears | 1st Half Lines,Saints,-3.0,-110.0,2020-10-29 18:58
+2020-11-01,15:25 CST,Bears,Saints,1st Quarter,Saints vs Bears | 1st Quarter Lines,Bears,,130.0,2020-10-29 18:58
+2020-11-01,15:25 CST,Bears,Saints,1st Quarter,Saints vs Bears | 1st Quarter Lines,Saints,,-150.0,2020-10-29 18:58
+2020-11-01,12:00 CST,Bengals,Titans,1st Half,Titans vs Bengals | 1st Half Lines,Bengals,,165.0,2020-10-29 18:58
+2020-11-01,12:00 CST,Bengals,Titans,1st Half,Titans vs Bengals | 1st Half Lines,Titans,,-185.0,2020-10-29 18:58
+2020-11-01,12:00 CST,Bengals,Titans,1st Quarter,Titans vs Bengals | 1st Quarter Lines,Bengals,,145.0,2020-10-29 18:58
+2020-11-01,12:00 CST,Bengals,Titans,1st Quarter,Titans vs Bengals | 1st Quarter Lines,Titans,,-165.0,2020-10-29 18:58
+2020-11-01,12:00 CST,Bills,Patriots,1st Half,Patriots vs Bills | 1st Half Lines,Bills,-3.0,100.0,2020-10-29 18:58
+2020-11-01,12:00 CST,Bills,Patriots,1st Half,Patriots vs Bills | 1st Half Lines,Over,20.5,100.0,2020-10-29 18:58
+2020-11-01,12:00 CST,Bills,Patriots,1st Half,Patriots vs Bills | 1st Half Lines,Patriots,3.0,-120.0,2020-10-29 18:58
+2020-11-01,12:00 CST,Bills,Patriots,1st Half,Patriots vs Bills | 1st Half Lines,Under,20.5,-120.0,2020-10-29 18:58
+2020-11-01,12:00 CST,Bills,Patriots,1st Quarter,Patriots vs Bills | 1st Quarter Lines,Bills,,-160.0,2020-10-29 18:58
+2020-11-01,12:00 CST,Bills,Patriots,1st Quarter,Patriots vs Bills | 1st Quarter Lines,Patriots,,140.0,2020-10-29 18:58
+2020-11-01,12:00 CST,Browns,Raiders,1st Half,Raiders vs Browns | 1st Half Lines,Browns,-2.0,-110.0,2020-10-29 18:58
+2020-11-01,12:00 CST,Browns,Raiders,1st Half,Raiders vs Browns | 1st Half Lines,Over,25.0,-110.0,2020-10-29 18:58
+2020-11-01,12:00 CST,Browns,Raiders,1st Half,Raiders vs Browns | 1st Half Lines,Raiders,2.0,-110.0,2020-10-29 18:58
+2020-11-01,12:00 CST,Browns,Raiders,1st Half,Raiders vs Browns | 1st Half Lines,Under,25.0,-110.0,2020-10-29 18:58
+2020-11-01,12:00 CST,Browns,Raiders,1st Quarter,Raiders vs Browns | 1st Quarter Lines,Browns,,-135.0,2020-10-29 18:58
+2020-11-01,12:00 CST,Browns,Raiders,1st Quarter,Raiders vs Browns | 1st Quarter Lines,Raiders,,115.0,2020-10-29 18:58
+2020-11-01,12:00 CST,Chiefs,Jets,1st Half,Jets vs Chiefs | 1st Half Lines,Chiefs,-11.5,-110.0,2020-10-29 18:58
+2020-11-01,12:00 CST,Chiefs,Jets,1st Half,Jets vs Chiefs | 1st Half Lines,Jets,11.5,-110.0,2020-10-29 18:58
+2020-11-01,12:00 CST,Chiefs,Jets,1st Quarter,Jets vs Chiefs | 1st Quarter Lines,Chiefs,,-500.0,2020-10-29 18:58
+2020-11-01,12:00 CST,Chiefs,Jets,1st Quarter,Jets vs Chiefs | 1st Quarter Lines,Jets,,375.0,2020-10-29 18:58
+2020-11-01,12:00 CST,Dolphins,Rams,1st Half,Rams vs Dolphins | 1st Half Lines,Dolphins,,145.0,2020-10-29 18:58
+2020-11-01,12:00 CST,Dolphins,Rams,1st Half,Rams vs Dolphins | 1st Half Lines,Rams,,-165.0,2020-10-29 18:58
+2020-11-01,12:00 CST,Dolphins,Rams,1st Quarter,Rams vs Dolphins | 1st Quarter Lines,Dolphins,,125.0,2020-10-29 18:58
+2020-11-01,12:00 CST,Dolphins,Rams,1st Quarter,Rams vs Dolphins | 1st Quarter Lines,Rams,,-145.0,2020-10-29 18:58
+2020-11-01,19:20 CST,Eagles,Cowboys,1st Half,Cowboys vs Eagles | 1st Half Lines,Cowboys,,250.0,2020-10-29 18:58
+2020-11-01,19:20 CST,Eagles,Cowboys,1st Half,Cowboys vs Eagles | 1st Half Lines,Cowboys,5.5,-110.0,2020-10-29 18:58
+2020-11-01,19:20 CST,Eagles,Cowboys,1st Half,Cowboys vs Eagles | 1st Half Lines,Eagles,,-300.0,2020-10-29 18:58
+2020-11-01,19:20 CST,Eagles,Cowboys,1st Half,Cowboys vs Eagles | 1st Half Lines,Eagles,-5.5,-110.0,2020-10-29 18:58
+2020-11-01,19:20 CST,Eagles,Cowboys,1st Half,Cowboys vs Eagles | 1st Half Lines,Over,21.5,-110.0,2020-10-29 18:58
+2020-11-01,19:20 CST,Eagles,Cowboys,1st Half,Cowboys vs Eagles | 1st Half Lines,Under,21.5,-110.0,2020-10-29 18:58
+2020-11-01,12:00 CST,Lions,Colts,1st Half,Colts vs Lions | 1st Half Lines,Colts,-1.5,-110.0,2020-10-29 18:58
+2020-11-01,12:00 CST,Lions,Colts,1st Half,Colts vs Lions | 1st Half Lines,Lions,1.5,-110.0,2020-10-29 18:58
+2020-11-01,12:00 CST,Lions,Colts,1st Quarter,Colts vs Lions | 1st Quarter Lines,Colts,,-135.0,2020-10-29 18:58
+2020-11-01,12:00 CST,Lions,Colts,1st Quarter,Colts vs Lions | 1st Quarter Lines,Lions,,115.0,2020-10-29 18:58
+2020-11-01,12:00 CST,Packers,Vikings,1st Half,Vikings vs Packers | 1st Half Lines,Over,25.5,-110.0,2020-10-29 18:58
+2020-11-01,12:00 CST,Packers,Vikings,1st Half,Vikings vs Packers | 1st Half Lines,Packers,-4.0,-110.0,2020-10-29 18:58
+2020-11-01,12:00 CST,Packers,Vikings,1st Half,Vikings vs Packers | 1st Half Lines,Under,25.5,-110.0,2020-10-29 18:58
+2020-11-01,12:00 CST,Packers,Vikings,1st Half,Vikings vs Packers | 1st Half Lines,Vikings,4.0,-110.0,2020-10-29 18:58
+2020-11-01,12:00 CST,Packers,Vikings,1st Quarter,Vikings vs Packers | 1st Quarter Lines,Packers,,-200.0,2020-10-29 18:58
+2020-11-01,12:00 CST,Packers,Vikings,1st Quarter,Vikings vs Packers | 1st Quarter Lines,Vikings,,170.0,2020-10-29 18:58
+2020-11-01,12:00 CST,Ravens,Steelers,1st Half,Steelers vs Ravens | 1st Half Lines,Ravens,-3.0,-105.0,2020-10-29 18:58
+2020-11-01,12:00 CST,Ravens,Steelers,1st Half,Steelers vs Ravens | 1st Half Lines,Steelers,3.0,-115.0,2020-10-29 18:58
+2020-11-01,15:25 CST,Seahawks,49ers,1st Half,49ers vs Seahawks | 1st Half Lines,49ers,,130.0,2020-10-29 18:58
+2020-11-01,15:25 CST,Seahawks,49ers,1st Half,49ers vs Seahawks | 1st Half Lines,Seahawks,,-150.0,2020-10-29 18:58
+2020-11-01,15:25 CST,Seahawks,49ers,1st Quarter,49ers vs Seahawks | 1st Quarter Lines,49ers,,120.0,2020-10-29 18:58
+2020-11-01,15:25 CST,Seahawks,49ers,1st Quarter,49ers vs Seahawks | 1st Quarter Lines,Seahawks,,-140.0,2020-10-29 18:58
+2020-10-29,19:20 CDT,Panthers,Falcons,Alternative Lines,Falcons vs Panthers | Alternative Lines A,Falcons,4.5,-190.0,2020-10-29 18:59
+2020-10-29,19:20 CDT,Panthers,Falcons,Alternative Lines,Falcons vs Panthers | Alternative Lines A,Over,55.0,120.0,2020-10-29 18:59
+2020-10-29,19:20 CDT,Panthers,Falcons,Alternative Lines,Falcons vs Panthers | Alternative Lines A,Panthers,-4.5,145.0,2020-10-29 18:59
+2020-10-29,19:20 CDT,Panthers,Falcons,Alternative Lines,Falcons vs Panthers | Alternative Lines A,Under,55.0,-160.0,2020-10-29 18:59
+2020-10-29,19:20 CDT,Panthers,Falcons,Alternative Lines,Falcons vs Panthers | Alternative Lines B,Over,49.0,-165.0,2020-10-29 18:59
+2020-10-29,19:20 CDT,Panthers,Falcons,Alternative Lines,Falcons vs Panthers | Alternative Lines B,Under,49.0,125.0,2020-10-29 18:59
+2020-10-29,19:20 CDT,Under,Over,QB Pass Attempts,Falcons vs Panthers | Teddy Bridgewater Total Pass Attempts,Over,35.5,-125.0,2020-10-29 18:59
+2020-10-29,19:20 CDT,Under,Over,QB Pass Attempts,Falcons vs Panthers | Teddy Bridgewater Total Pass Attempts,Under,35.5,-115.0,2020-10-29 18:59
+2020-10-29,19:20 CDT,Under,Over,QB Pass Completions,Falcons vs Panthers | Teddy Bridgewater Total Completions,Over,24.5,-120.0,2020-10-29 18:59
+2020-10-29,19:20 CDT,Under,Over,QB Pass Completions,Falcons vs Panthers | Teddy Bridgewater Total Completions,Under,24.5,-120.0,2020-10-29 18:59
+2020-10-29,19:20 CDT,Under,Over,QB Passing TDs,Falcons vs Panthers | Matt Ryan Total Passing TDs,Over,1.5,-190.0,2020-10-29 18:59
+2020-10-29,19:20 CDT,Under,Over,QB Passing TDs,Falcons vs Panthers | Matt Ryan Total Passing TDs,Under,1.5,135.0,2020-10-29 18:59
+2020-10-29,19:20 CDT,Under,Over,QB Passing TDs,Falcons vs Panthers | Teddy Bridgewater Total Passing TDs,Over,2.5,155.0,2020-10-29 18:59
+2020-10-29,19:20 CDT,Under,Over,QB Passing TDs,Falcons vs Panthers | Teddy Bridgewater Total Passing TDs,Under,2.5,-220.0,2020-10-29 18:59
+2020-10-29,19:20 CDT,Under,Over,QB Passing Yards,Falcons vs Panthers | Matt Ryan Total Passing Yards,Over,278.5,-140.0,2020-10-29 18:59
+2020-10-29,19:20 CDT,Under,Over,QB Passing Yards,Falcons vs Panthers | Matt Ryan Total Passing Yards,Under,278.5,100.0,2020-10-29 18:59
+2020-10-29,19:20 CDT,Under,Over,QB Passing Yards,Falcons vs Panthers | Teddy Bridgewater Total Passing Yards,Over,282.5,-110.0,2020-10-29 18:59
+2020-10-29,19:20 CDT,Under,Over,QB Passing Yards,Falcons vs Panthers | Teddy Bridgewater Total Passing Yards,Under,282.5,-130.0,2020-10-29 18:59
+2020-11-01,15:25 CST,Bears,Saints,Alternative Lines,Saints vs Bears | Alternative Lines B,Bears,7.5,-180.0,2020-10-29 18:59
+2020-11-01,15:25 CST,Bears,Saints,Alternative Lines,Saints vs Bears | Alternative Lines B,Saints,-7.5,140.0,2020-10-29 18:59
+2020-11-01,12:00 CST,Bengals,Titans,Alternative Lines,Titans vs Bengals | Alternative Lines A,Over,55.5,145.0,2020-10-29 18:59
+2020-11-01,12:00 CST,Bengals,Titans,Alternative Lines,Titans vs Bengals | Alternative Lines A,Under,55.5,-190.0,2020-10-29 18:59
+2020-11-01,12:00 CST,Bengals,Titans,Alternative Lines,Titans vs Bengals | Alternative Lines B,Bengals,8.5,-180.0,2020-10-29 18:59
+2020-11-01,12:00 CST,Bengals,Titans,Alternative Lines,Titans vs Bengals | Alternative Lines B,Over,49.5,-190.0,2020-10-29 18:59
+2020-11-01,12:00 CST,Bengals,Titans,Alternative Lines,Titans vs Bengals | Alternative Lines B,Titans,-8.5,140.0,2020-10-29 18:59
+2020-11-01,12:00 CST,Bengals,Titans,Alternative Lines,Titans vs Bengals | Alternative Lines B,Under,49.5,145.0,2020-10-29 18:59
+2020-11-01,12:00 CST,Bills,Patriots,Alternative Lines,Patriots vs Bills | Alternative Lines A,Bills,-7.0,145.0,2020-10-29 18:59
+2020-11-01,12:00 CST,Bills,Patriots,Alternative Lines,Patriots vs Bills | Alternative Lines A,Over,44.0,145.0,2020-10-29 18:59
+2020-11-01,12:00 CST,Bills,Patriots,Alternative Lines,Patriots vs Bills | Alternative Lines A,Patriots,7.0,-190.0,2020-10-29 18:59
+2020-11-01,12:00 CST,Bills,Patriots,Alternative Lines,Patriots vs Bills | Alternative Lines A,Under,44.0,-190.0,2020-10-29 18:59
+2020-11-01,12:00 CST,Bills,Patriots,Alternative Lines,Patriots vs Bills | Alternative Lines B,Over,38.0,-190.0,2020-10-29 18:59
+2020-11-01,12:00 CST,Bills,Patriots,Alternative Lines,Patriots vs Bills | Alternative Lines B,Under,38.0,145.0,2020-10-29 18:59
+2020-11-01,12:00 CST,Browns,Raiders,Alternative Lines,Raiders vs Browns | Alternative Lines A,Over,54.0,155.0,2020-10-29 18:59
+2020-11-01,12:00 CST,Browns,Raiders,Alternative Lines,Raiders vs Browns | Alternative Lines A,Under,54.0,-200.0,2020-10-29 18:59
+2020-11-01,12:00 CST,Browns,Raiders,Alternative Lines,Raiders vs Browns | Alternative Lines B,Over,48.0,-180.0,2020-10-29 18:59
+2020-11-01,12:00 CST,Browns,Raiders,Alternative Lines,Raiders vs Browns | Alternative Lines B,Under,48.0,140.0,2020-10-29 18:59
+2020-11-01,12:00 CST,Chiefs,Jets,Alternative Lines,Jets vs Chiefs | Alternative Lines A,Over,52.0,155.0,2020-10-29 18:59
+2020-11-01,12:00 CST,Chiefs,Jets,Alternative Lines,Jets vs Chiefs | Alternative Lines A,Under,52.0,-200.0,2020-10-29 18:59
+2020-11-01,12:00 CST,Chiefs,Jets,Alternative Lines,Jets vs Chiefs | Alternative Lines B,Over,46.0,-180.0,2020-10-29 18:59
+2020-11-01,12:00 CST,Chiefs,Jets,Alternative Lines,Jets vs Chiefs | Alternative Lines B,Under,46.0,140.0,2020-10-29 18:59
+2020-11-01,12:00 CST,Packers,Vikings,Alternative Lines,Vikings vs Packers | Alternative Lines A,Over,54.0,155.0,2020-10-29 18:59
+2020-11-01,12:00 CST,Packers,Vikings,Alternative Lines,Vikings vs Packers | Alternative Lines A,Packers,-9.0,145.0,2020-10-29 18:59
+2020-11-01,12:00 CST,Packers,Vikings,Alternative Lines,Vikings vs Packers | Alternative Lines A,Under,54.0,-200.0,2020-10-29 18:59
+2020-11-01,12:00 CST,Packers,Vikings,Alternative Lines,Vikings vs Packers | Alternative Lines A,Vikings,9.0,-190.0,2020-10-29 18:59
+2020-11-01,15:25 CST,Seahawks,49ers,Alternative Lines,49ers vs Seahawks | Alternative Lines A,49ers,6.0,-200.0,2020-10-29 18:59
+2020-11-01,15:25 CST,Seahawks,49ers,Alternative Lines,49ers vs Seahawks | Alternative Lines A,Over,56.5,145.0,2020-10-29 18:59
+2020-11-01,15:25 CST,Seahawks,49ers,Alternative Lines,49ers vs Seahawks | Alternative Lines A,Seahawks,-6.0,155.0,2020-10-29 18:59
+2020-11-01,15:25 CST,Seahawks,49ers,Alternative Lines,49ers vs Seahawks | Alternative Lines A,Under,56.5,-190.0,2020-10-29 18:59
+2020-11-01,15:25 CST,Seahawks,49ers,Alternative Lines,49ers vs Seahawks | Alternative Lines B,Over,50.5,-190.0,2020-10-29 18:59
+2020-11-01,15:25 CST,Seahawks,49ers,Alternative Lines,49ers vs Seahawks | Alternative Lines B,Under,50.5,145.0,2020-10-29 18:59
+2020-10-29,19:20 CDT,Under,Over,Receiving Yards,Falcons vs Panthers | Calvin Ridley Total Receiving Yards,Over,72.5,-120.0,2020-10-29 19:00
+2020-10-29,19:20 CDT,Under,Over,Receiving Yards,Falcons vs Panthers | Calvin Ridley Total Receiving Yards,Under,72.5,-120.0,2020-10-29 19:00
+2020-10-29,19:20 CDT,Under,Over,Receiving Yards,Falcons vs Panthers | Curtis Samuel Total Receiving Yards,Over,38.5,-120.0,2020-10-29 19:00
+2020-10-29,19:20 CDT,Under,Over,Receiving Yards,Falcons vs Panthers | Curtis Samuel Total Receiving Yards,Under,38.5,-120.0,2020-10-29 19:00
+2020-10-29,19:20 CDT,Under,Over,Receiving Yards,Falcons vs Panthers | D.J. Moore Total Receiving Yards,Over,75.5,100.0,2020-10-29 19:00
+2020-10-29,19:20 CDT,Under,Over,Receiving Yards,Falcons vs Panthers | D.J. Moore Total Receiving Yards,Under,75.5,-140.0,2020-10-29 19:00
+2020-10-29,19:20 CDT,Under,Over,Receiving Yards,Falcons vs Panthers | Hayden Hurst Total Receiving Yards,Over,33.5,-120.0,2020-10-29 19:00
+2020-10-29,19:20 CDT,Under,Over,Receiving Yards,Falcons vs Panthers | Hayden Hurst Total Receiving Yards,Under,33.5,-120.0,2020-10-29 19:00
+2020-10-29,19:20 CDT,Under,Over,Receiving Yards,Falcons vs Panthers | Julio Jones Total Receiving Yards,Over,78.5,-120.0,2020-10-29 19:00
+2020-10-29,19:20 CDT,Under,Over,Receiving Yards,Falcons vs Panthers | Julio Jones Total Receiving Yards,Under,78.5,-120.0,2020-10-29 19:00
+2020-10-29,19:20 CDT,Under,Over,Receiving Yards,Falcons vs Panthers | Robby Anderson Total Receiving Yards,Over,79.5,-120.0,2020-10-29 19:00
+2020-10-29,19:20 CDT,Under,Over,Receiving Yards,Falcons vs Panthers | Robby Anderson Total Receiving Yards,Under,79.5,-120.0,2020-10-29 19:00
+2020-10-29,19:20 CDT,Under,Over,Receiving Yards,Falcons vs Panthers | Russell Gage Total Receiving Yards,Over,33.5,-120.0,2020-10-29 19:00
+2020-10-29,19:20 CDT,Under,Over,Receiving Yards,Falcons vs Panthers | Russell Gage Total Receiving Yards,Under,33.5,-120.0,2020-10-29 19:00
+2020-10-29,19:20 CDT,Under,Over,Receptions,Falcons vs Panthers | Calvin Ridley Total Receptions,Over,4.5,-175.0,2020-10-29 19:00
+2020-10-29,19:20 CDT,Under,Over,Receptions,Falcons vs Panthers | Calvin Ridley Total Receptions,Under,4.5,125.0,2020-10-29 19:00
+2020-10-29,19:20 CDT,Under,Over,Receptions,Falcons vs Panthers | D.J. Moore Total Receptions,Over,4.5,-160.0,2020-10-29 19:00
+2020-10-29,19:20 CDT,Under,Over,Receptions,Falcons vs Panthers | D.J. Moore Total Receptions,Under,4.5,115.0,2020-10-29 19:00
+2020-10-29,19:20 CDT,Under,Over,Receptions,Falcons vs Panthers | Julio Jones Total Receptions,Over,5.5,-145.0,2020-10-29 19:00
+2020-10-29,19:20 CDT,Under,Over,Receptions,Falcons vs Panthers | Julio Jones Total Receptions,Under,5.5,105.0,2020-10-29 19:00
+2020-10-29,19:20 CDT,Under,Over,Receptions,Falcons vs Panthers | Robby Anderson Total Receptions,Over,5.5,-150.0,2020-10-29 19:00
+2020-10-29,19:20 CDT,Under,Over,Receptions,Falcons vs Panthers | Robby Anderson Total Receptions,Under,5.5,110.0,2020-10-29 19:00
+2020-10-29,19:20 CDT,Under,Over,Rushing Yards,Falcons vs Panthers | Mike Davis Total Rushing Yards,Over,58.5,-120.0,2020-10-29 19:00
+2020-10-29,19:20 CDT,Under,Over,Rushing Yards,Falcons vs Panthers | Mike Davis Total Rushing Yards,Under,58.5,-120.0,2020-10-29 19:00
+2020-10-29,19:20 CDT,Under,Over,Rushing Yards,Falcons vs Panthers | Todd Gurley II Total Rushing Yards,Over,71.5,-120.0,2020-10-29 19:00
+2020-10-29,19:20 CDT,Under,Over,Rushing Yards,Falcons vs Panthers | Todd Gurley II Total Rushing Yards,Under,71.5,-120.0,2020-10-29 19:00

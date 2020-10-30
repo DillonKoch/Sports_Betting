@@ -4,7 +4,7 @@
 # File Created: Saturday, 24th October 2020 8:28:10 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Saturday, 24th October 2020 10:19:53 pm
+# Last Modified: Sunday, 25th October 2020 1:09:04 pm
 # Modified By: Dillon Koch
 # -----
 # Collins Aerospace
@@ -20,6 +20,7 @@ import sys
 from os.path import abspath, dirname
 
 import pandas as pd
+from tqdm import tqdm
 
 ROOT_PATH = dirname(dirname(abspath(__file__)))
 if ROOT_PATH not in sys.path:
@@ -116,5 +117,5 @@ class Clean_New_Odds:
 if __name__ == '__main__':
     x = Clean_New_Odds()
     self = x
-    for league in ['NFL', 'NBA', 'NCAAF', 'NCAAB']:
+    for league in tqdm(['NFL', 'NBA', 'NCAAF', 'NCAAB']):
         x.run(league)

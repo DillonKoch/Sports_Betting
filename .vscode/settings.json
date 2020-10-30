@@ -25,6 +25,7 @@
     "Utility/geckodriver.log": true,
     "ESB/geckodriver.log": true,
     "ESB/.ipynb_checkpoints": true,
-    "ESB/.pytest_cache": true
+    "ESB/.pytest_cache": true,
+    "Odds/.ipynb_checkpoints": true
   }
 }

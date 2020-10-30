@@ -1,9 +1,9 @@
 #!/bin/sh
 
-python download_data.py --all
-python clean_new_odds.py --all
-python merge_league_data.py --all
+python download_data.py
+python clean_new_odds.py
+# python merge_league_data.py
 
-cd ..
-pytest -k odds_qa_test -v
-cd Odds
+cd ../Tests
+pytest -k odds_qa_test -v  # TODO
+cd ../Odds

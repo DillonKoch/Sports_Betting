@@ -4,7 +4,7 @@
 # File Created: Saturday, 24th October 2020 8:22:42 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Saturday, 24th October 2020 10:20:01 pm
+# Last Modified: Sunday, 25th October 2020 1:18:06 pm
 # Modified By: Dillon Koch
 # -----
 # Collins Aerospace
@@ -109,7 +109,6 @@ def test_datetime_years(clean_new_odds, all_dfs):  # Specific Helper
         years = clean_new_odds._datetime_years(date_strs, test_df_path)
 
         assert isinstance(years, list)
-        assert len(set(years)) == 2
         for year in years:
             assert isinstance(year, int)
             assert year in [2015, 2016]
