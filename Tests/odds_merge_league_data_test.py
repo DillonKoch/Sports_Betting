@@ -4,7 +4,7 @@
 # File Created: Sunday, 25th October 2020 1:21:43 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Thursday, 29th October 2020 8:42:12 pm
+# Last Modified: Friday, 30th October 2020 8:40:55 pm
 # Modified By: Dillon Koch
 # -----
 # Collins Aerospace
@@ -13,6 +13,7 @@
 # test suite for merge_league_data.py
 # ==============================================================================
 
+import datetime
 import sys
 from os.path import abspath, dirname
 
@@ -83,8 +84,8 @@ def test_odds_game_to_row():  # Run
     game = Odds_Game()
     row = game.to_row()
     assert isinstance(row, list)
-    assert len(row) == 31
-    assert row == [None] * 31
+    assert len(row) == 32
+    assert row == [None] * 32
 
 
 @pytest.fixture  # Fixture
@@ -162,7 +163,7 @@ def test_create_df(mld):  # Top Level
     df = mld.create_df()
     assert isinstance(df, pd.DataFrame)
     assert len(df) == 0
-    assert len(list(df.columns)) == 31
+    assert len(list(df.columns)) == 32
 
 
 @pytest.fixture  # Fixture
@@ -194,8 +195,10 @@ def test_add_one_liners(mld, row_pairs):  # Helping Helper
         assert game.Away == away_row['Team']
         assert game.Date == home_row['datetime']
         assert game.Date == away_row['datetime']
-        assert game.Home_ML == home_row['ML']
-        assert game.Away_ML == away_row['ML']
+        if not ((np.isnan(game.Home_ML)) and (np.isnan(home_row['ML']))):
+            assert game.Home_ML == home_row['ML']
+        if not ((np.isnan(game.Away_ML)) and (np.isnan(away_row['ML']))):
+            assert game.Away_ML == away_row['ML']
 
 
 def test_add_scores(mld, row_pairs):  # Helping Helper
@@ -236,13 +239,34 @@ def test_get_spread_ou(mld, row_pairs):  # Helping Helper
         league = "NCAAB" if len(home_row) == 13 else "NFL"
         for col in ['Open', 'Close', '2H']:
             ou_val, home_spread, away_spread = mld._get_spread_ou(home_row, away_row, col, league)
-            assert ((home_spread < ou_val) or ()
-            assert away_spread < ou_val
+            # all vals are floats or None
+            assert ((isinstance(ou_val, float)) or (ou_val is None))
+            assert ((isinstance(home_spread, float)) or (home_spread is None))
+            assert ((isinstance(away_spread, float)) or (away_spread is None))
+
+            # home/away spreads match up
+            assert isinstance(home_spread, type(away_spread))
+            if (isinstance(home_spread, float) and (isinstance(away_spread, float))):
+                assert home_spread == (away_spread * -1)
 
 
-def test_create_odds_game(mld, row_pairs):
-    print(len(row_pairs))
+def test_create_odds_game(mld, row_pairs):  # Specific Helper
+    for row_pair in row_pairs:
+        row_1, row_2 = row_pair
+        league = "NCAAB" if len(row_1) == 13 else "NFL"
+        game = mld._create_odds_game(row_1, row_2, league)
+        assert game.Season >= 2007
+        assert isinstance(game.Is_neutral, bool)
 
 
-def test_populate_df(mld):
-    pass
+def test_populate_df(mld, leagues):  # Top Level
+    for league in leagues:
+        odds_df = mld.load_data(league)
+        odds_df = mld.clean_data(odds_df)
+        odds_df = odds_df.iloc[:100, :]
+        new_df = mld.create_df()
+        new_df = mld.populate_df(odds_df, new_df, league)
+
+        assert isinstance(new_df, pd.DataFrame)
+        assert len(new_df) == 50
+        assert len(new_df.columns) == 32

@@ -4,7 +4,7 @@
 # File Created: Sunday, 25th October 2020 1:20:02 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Thursday, 29th October 2020 8:41:24 pm
+# Last Modified: Friday, 30th October 2020 8:40:14 pm
 # Modified By: Dillon Koch
 # -----
 # Collins Aerospace
@@ -14,7 +14,6 @@
 # ==============================================================================
 
 
-import datetime
 import os
 import sys
 from os.path import abspath, dirname
@@ -90,11 +89,12 @@ class Odds_Game:
         """
         converts the object to a list to be inserted to an odds df
         """
+        self.Is_neutral = None if self.Is_neutral is None else int(self.Is_neutral)
         row = [self.Season, self.Date, self.Home, self.Away,
                self.Home_1Q, self.Home_2Q, self.Home_3Q, self.Home_4Q,
                self.Home_1H, self.Home_2H, self.Home_OT, self.Home_Final,
                self.Away_1Q, self.Away_2Q, self.Away_3Q, self.Away_4Q,
-               self.Away_1H, self.Away_2H, self.Away_OT, self.Away_Final,
+               self.Away_1H, self.Away_2H, self.Away_OT, self.Away_Final, self.Is_neutral,
                self.OU_Open, self.OU_Close, self.OU_2H,
                self.Home_Spread_Open, self.Home_Spread_Close, self.Home_Spread_2H,
                self.Away_Spread_Open, self.Away_Spread_Close, self.Away_Spread_2H,
@@ -171,7 +171,7 @@ class Merge_League_Data:
                 "H1Q", "H2Q", "H3Q", "H4Q",
                 "H1H", "H2H", "HOT", "HFinal",
                 "A1Q", "A2Q", "A3Q", "A4Q",
-                "A1A", "A2A", "AOT", "AFinal",
+                "A1A", "A2A", "AOT", "AFinal", "IsNeutral",
                 "OU_Open", "OU_Close", "OU_2H",
                 "Home_Spread_Open", "Home_Spread_Close", "Home_Spread_2H",
                 "Away_Spread_Open", "Away_Spread_Close", "Away_Spread_2H",
@@ -229,29 +229,32 @@ class Merge_League_Data:
         odds_game.calculate_overtimes(league=league)
         return odds_game
 
-    def _get_spread_ou(self, home_row, away_row, column, league):  # Helping Helper _create_odds_game
+    def _get_spread_ou(self, home_row, away_row, column, league):  # Helping Helper _create_odds_game  Tested
         """
         given the home and away row, this method returns the over under and home/away spreads
         - works for Open/Close/2H columns (pass which one to column argument)
         """
         spread_ou_vals = [home_row[column], away_row[column]]
-        print(spread_ou_vals)
-        # spread_val, ou_val = sorted(spread_ou_vals)  # spread val always < over under val
+        nan_count = sum([np.isnan(item) for item in spread_ou_vals])
 
-        # if np.nan not in spread_ou_vals:
-        if sum([np.isnan(item) for item in spread_ou_vals]) < 0:
-            spread_val, ou_val = sorted(spread_ou_vals)
-            print('didnt get to else')
-        else:
-            print('here')
+        # no values found, returning None for both
+        if nan_count == 2:
+            ou_val = None
+            spread_val = None
+
+        # there is one Null value, and one real value - figuring out if val is spread or O/U
+        elif nan_count == 1:
             non_nl = [i for i in spread_ou_vals if not np.isnan(i)][0]
-            print(non_nl)
             if league in ['NFL', 'NCAAF']:
-                spread_val = non_nl if non_nl < 15 else np.nan
-                ou_val = non_nl if spread_val == np.nan else np.nan
+                spread_val = non_nl if non_nl < 15 else None
+                ou_val = non_nl if spread_val is None else None
             else:
-                spread_val = non_nl if non_nl < 30 else np.nan
-                ou_val = non_nl if spread_val == np.nan else np.nan
+                spread_val = non_nl if non_nl < 30 else None
+                ou_val = non_nl if spread_val is None else None
+
+        # two values are found, the lower one is spread, higher is over under
+        else:
+            spread_val, ou_val = sorted(spread_ou_vals)
 
         home_spread = spread_val * -1 if home_row[column] == spread_val else spread_val
         away_spread = spread_val * -1 if away_row[column] == spread_val else spread_val
@@ -276,7 +279,26 @@ class Merge_League_Data:
         # modifying odds_game object with helper methods
         odds_game = self._add_one_liners(odds_game, home_row, away_row)
         odds_game = self._add_scores(odds_game, home_row, away_row, league)
-        odds_game = self._add_moneylines(odds_game, home_row, away_row)
+
+        # open home/away spread and over under
+        open_ou, open_home_spread, open_away_spread = self._get_spread_ou(home_row, away_row, "Open", league)
+        odds_game.OU_Open = open_ou
+        odds_game.Home_Spread_Open = open_home_spread
+        odds_game.Away_Spread_Open = open_away_spread
+
+        # close home/away spread and over under
+        close_ou, close_home_spread, close_away_spread = self._get_spread_ou(home_row, away_row, "Close", league)
+        odds_game.OU_Close = close_ou
+        odds_game.Home_Spread_Close = close_home_spread
+        odds_game.Away_Spread_Close = close_away_spread
+
+        # second half home/away spread and over under
+        ou_2h, home_spread_2h, away_spread_2h = self._get_spread_ou(home_row, away_row, "2H", league)
+        odds_game.OU_2H = ou_2h
+        odds_game.Home_Spread_2H = home_spread_2h
+        odds_game.Away_Spread_2H = away_spread_2h
+
+        return odds_game
 
     def populate_df(self, odds_df, new_df, league):  # Top Level
         """
@@ -291,7 +313,8 @@ class Merge_League_Data:
             else:
                 row_2 = odds_df.iloc[i, :]
                 odds_game = self._create_odds_game(row_1, row_2, league)
-                # new_df.loc[len(new_df)] = odds_game.to_row()
+                new_df.loc[len(new_df)] = odds_game.to_row()
+        new_df.sort_values(by=['datetime', 'Home', 'Away'], inplace=True)
         return new_df
 
     def run(self, league):  # Run
@@ -305,32 +328,13 @@ class Merge_League_Data:
         odds_df = self.load_data(league)
         odds_df = self.clean_data(odds_df)
         new_df = self.create_df()
-        # new_df = self.populate_df(odds_df, new_df)
+        new_df = self.populate_df(odds_df, new_df, league)
         return new_df
 
 
 if __name__ == '__main__':
     x = Merge_League_Data()
     self = x
-    league = 'NFL'
-    val_dic = {"NFL": [], "NBA": [], "NCAAF": [], "NCAAB": []}
-    for league in ['NFL', 'NBA', 'NCAAF', 'NCAAB']:
-        print(league)
-        df = x.load_data(league)
-        row_pairs = []
-
-        for i in range(min(100, len(df))):
-            if i % 2 == 0:
-                row_1 = df.iloc[i, :]
-            else:
-                row_2 = df.iloc[i, :]
-                row_pairs.append([row_1, row_2])
-
-        for pair in row_pairs:
-            row1, row2 = pair
-            for col in ['Open', 'Close', '2H']:
-                vals = [row1[col], row2[col]]
-                if vals.count("NL") == 1:
-                    val_dic[league].append(vals)
-
-        # new_df = x.run(league)
+    league = 'NCAAF'
+    new_df = x.run(league)
+    new_df.to_csv(ROOT_PATH + "/temp.csv", index=False)
