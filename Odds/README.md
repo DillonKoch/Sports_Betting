@@ -10,9 +10,8 @@
 ## Files
 - download_data.py downloads all the new .xlsx files from the website
 - clean_new_odds.py converts raw .xlsx files from the website to clean .csv's in the league folders
-- merge_league_data.py
-
-- {league}.csv is a csv including all data from that league formatted nicely
+- merge_league_data.py merges all the .csv files into a clean csv with all data in a league
+- {league}.csv is a csv including all data from that league formatted nicely, created by merge_league_data.py
 - run_odds.sh is a shell script that runs all odds-related processes (described below)
 
 

@@ -4,7 +4,7 @@
 # File Created: Sunday, 25th October 2020 1:20:02 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Friday, 30th October 2020 8:40:14 pm
+# Last Modified: Saturday, 31st October 2020 1:46:59 pm
 # Modified By: Dillon Koch
 # -----
 # Collins Aerospace
@@ -171,7 +171,7 @@ class Merge_League_Data:
                 "H1Q", "H2Q", "H3Q", "H4Q",
                 "H1H", "H2H", "HOT", "HFinal",
                 "A1Q", "A2Q", "A3Q", "A4Q",
-                "A1A", "A2A", "AOT", "AFinal", "IsNeutral",
+                "A1H", "A2H", "AOT", "AFinal", "IsNeutral",
                 "OU_Open", "OU_Close", "OU_2H",
                 "Home_Spread_Open", "Home_Spread_Close", "Home_Spread_2H",
                 "Away_Spread_Open", "Away_Spread_Close", "Away_Spread_2H",
@@ -235,6 +235,8 @@ class Merge_League_Data:
         - works for Open/Close/2H columns (pass which one to column argument)
         """
         spread_ou_vals = [home_row[column], away_row[column]]
+        if spread_ou_vals[0] == spread_ou_vals[1]:
+            print(home_row)  # error in data where spread and OU are same value
         nan_count = sum([np.isnan(item) for item in spread_ou_vals])
 
         # no values found, returning None for both
@@ -329,12 +331,15 @@ class Merge_League_Data:
         odds_df = self.clean_data(odds_df)
         new_df = self.create_df()
         new_df = self.populate_df(odds_df, new_df, league)
+        new_df.to_csv(ROOT_PATH + f"/Odds/{league}.csv", index=False)
         return new_df
 
 
 if __name__ == '__main__':
     x = Merge_League_Data()
     self = x
-    league = 'NCAAF'
+    league = 'NCAAB'
     new_df = x.run(league)
-    new_df.to_csv(ROOT_PATH + "/temp.csv", index=False)
+    league = 'NBA'
+    new_df = x.run(league)
+    # new_df.to_csv(ROOT_PATH + "/temp.csv", index=False)
