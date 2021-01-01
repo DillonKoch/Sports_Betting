@@ -4,7 +4,7 @@
 # File Created: Thursday, 15th October 2020 7:29:18 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Friday, 23rd October 2020 8:23:55 pm
+# Last Modified: Saturday, 21st November 2020 10:39:32 am
 # Modified By: Dillon Koch
 # -----
 # Collins Aerospace
@@ -210,4 +210,9 @@ class ESB_Navigator:
 if __name__ == '__main__':
     x = ESB_Navigator()
     self = x
-    sps = x.run()
+
+    # run every 45 minutes
+    while True:
+        sps = x.run()
+        print("Sleeping at for 45 minutes at {}".format(datetime.datetime.now()))
+        time.sleep(60 * 45)

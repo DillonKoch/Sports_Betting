@@ -4,7 +4,7 @@
 # File Created: Saturday, 24th October 2020 8:20:38 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Saturday, 31st October 2020 1:46:35 pm
+# Last Modified: Saturday, 31st October 2020 8:06:39 pm
 # Modified By: Dillon Koch
 # -----
 # Collins Aerospace
@@ -82,7 +82,7 @@ def test_df_col_types(dfs, leagues):  # QA Testing
         half_cols = ['H1H', 'H2H', 'A1H', 'A2H']
         allow_half_nan = False if league == "NCAAB" else True
         for half_col in half_cols:
-            _assert_df_col_type(df, half_col, int, allow_nan=allow_half_nan)
+            _assert_df_col_type(df, half_col, float, allow_nan=allow_half_nan)
 
         # NON NCAAB col types
         quarter_cols = ['H1Q', 'H2Q', 'H3Q', 'H4Q', 'A1Q', 'A2Q', 'A3Q', 'A4Q']
@@ -136,21 +136,61 @@ def test_null_cols(dfs, leagues):  # TODO
         # add more, assert these^ never null
 
 
-def test_is_neutral(dfs):  # TODO
-    # make sure all 1's and 0's
-    pass
+def test_is_neutral(dfs):
+    for df in dfs:
+        neutral_vals = list(df['IsNeutral'])
+        for val in neutral_vals:
+            assert ((val == 1) or (val == 0))
 
 
-def test_ml_vals(dfs):  # TODO
-    # make sure negative val further from 0 than positive
-    pass
+# def test_ml_vals(dfs):
+#     # make sure negative val further from 0 than positive
+#     for df in dfs:
+#         home_mls = list(df['Home_ML'])
+#         away_mls = list(df['Away_ML'])
+
+#         for home_ml, away_ml in zip(home_mls, away_mls):
+#             _ = int(home_ml)
+#             _ = int(away_ml)
+#             fav, dog = sorted([home_ml, away_ml])
+#             if not np.isnan(fav):
+#                 assert abs(fav) >= abs(dog)
+
+
+def _test_spread_ou(spread_vals, ou_vals):
+    for spread_val, ou_val in zip(spread_vals, ou_vals):
+        if not ((np.isnan(spread_val)) or (np.isnan(ou_val))):
+            assert abs(spread_val) < ou_val
 
 
 def test_spreads_lessthan_overunders(dfs):  # TODO
     # spread vals should always be less than the O/U val
-    pass
+    for df in dfs:
+        # opens
+        spread_opens = list(df['Home_Spread_Open'])
+        ou_opens = list(df['OU_Open'])
+        _test_spread_ou(spread_opens, ou_opens)
+
+        # closes
+        spread_closes = list(df['Home_Spread_Close'])
+        ou_closes = list(df['OU_Close'])
+        _test_spread_ou(spread_closes, ou_closes)
+
+        # 2H's
+        spread_2hs = list(df['Home_Spread_2H'])
+        ou_2hs = list(df['OU_2H'])
+        _test_spread_ou(spread_2hs, ou_2hs)
 
 
-def test_scores_add_up(dfs):
+def test_scores_add_up(dfs, leagues):
     # quarter and overtime scores should add to the final score
-    pass
+    for df, league in zip(dfs, leagues):
+
+        # home_cols = ['H1Q', 'H2Q', 'H3Q', 'H4Q', 'H1H', 'H2H', 'HOT']
+        # away_cols = ['A1Q', 'A2Q', 'A3Q', 'A4Q', 'A1A', 'A2A', 'AOT']
+
+        # for i, row in df.iterrows():
+        #     home_total = sum([row[col] for col in home_cols])
+        #     assert home_total == row['HFinal']
+        #     away_total = sum([row[col] for col in away_cols])
+        #     assert away_total == row['AFinal']
