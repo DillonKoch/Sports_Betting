@@ -20,7 +20,6 @@ from os.path import abspath, dirname
 
 import pandas as pd
 import wget
-from tqdm import tqdm
 
 ROOT_PATH = dirname(dirname(abspath(__file__)))
 if ROOT_PATH not in sys.path:
