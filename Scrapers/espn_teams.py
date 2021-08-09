@@ -15,9 +15,12 @@
 # ==============================================================================
 
 
+import copy
 import json
+import os
 import sys
-import urllib
+import time
+import urllib.request
 from os.path import abspath, dirname
 
 from bs4 import BeautifulSoup as soup
@@ -40,8 +43,9 @@ class ESPN_Team_Scraper:
         creates a blank teams json file if it doesn't exist
         """
         path = ROOT_PATH + f"/Data/Teams/{league}_Teams.json"
-        with open(path, 'w') as f:
-            json.dump({}, f)
+        if not os.path.exists(path):
+            with open(path, 'w') as f:
+                json.dump({}, f)
 
     def load_team_dict(self, league):  # Top Level
         """
@@ -56,6 +60,7 @@ class ESPN_Team_Scraper:
         """
         scrapes the HTML from a link
         """
+        time.sleep(2)
         user_agent = 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.7) Gecko/2009021910 Firefox/3.0.7'
         headers = {'User-Agent': user_agent, }
         request = urllib.request.Request(link, None, headers)  # The assembled request
@@ -102,6 +107,7 @@ class ESPN_Team_Scraper:
     def run(self, league):  # Run
         self.create_json(league)
         team_dict = self.load_team_dict(league)
+        original_team_dict = copy.deepcopy(team_dict)
         link = self.url_base + self.url_endings[league]
         sp = self.get_sp1(link)
         conference_sections = sp.find_all('div', attrs={'class': 'mt7'})
@@ -110,9 +116,9 @@ class ESPN_Team_Scraper:
             teams = self.conference_teams(conference_section)
             for team in teams:
                 team_dict = self.update_json(team_dict, conference_name, team)
-        print(team_dict)
 
-        self.save_team_dict(league, team_dict)
+        if team_dict != original_team_dict:
+            self.save_team_dict(league, team_dict)
 
 
 if __name__ == '__main__':

@@ -1,7 +1,10 @@
 {
     "Cincinnati Bearcats": {
         "Conference": "American",
-        "Other Names": []
+        "Other Names": [
+            "Cincinnati",
+            "CincinnatiU"
+        ]
     },
     "East Carolina Pirates": {
         "Conference": "American",
@@ -9,23 +12,34 @@
     },
     "Houston Cougars": {
         "Conference": "American",
-        "Other Names": []
+        "Other Names": [
+            "Houston",
+            "HoustonU"
+        ]
     },
     "Memphis Tigers": {
         "Conference": "American",
-        "Other Names": []
+        "Other Names": [
+            "Memphis"
+        ]
     },
     "Navy Midshipmen": {
         "Conference": "American",
-        "Other Names": []
+        "Other Names": [
+            "Navy"
+        ]
     },
     "SMU Mustangs": {
         "Conference": "American",
-        "Other Names": []
+        "Other Names": [
+            "SMU"
+        ]
     },
     "South Florida Bulls": {
         "Conference": "American",
-        "Other Names": []
+        "Other Names": [
+            "SouthFlorida"
+        ]
     },
     "Temple Owls": {
         "Conference": "American",
@@ -33,11 +47,15 @@
     },
     "Tulane Green Wave": {
         "Conference": "American",
-        "Other Names": []
+        "Other Names": [
+            "Tulane"
+        ]
     },
     "Tulsa Golden Hurricane": {
         "Conference": "American",
-        "Other Names": []
+        "Other Names": [
+            "Tulsa"
+        ]
     },
     "UCF Knights": {
         "Conference": "American",
@@ -45,23 +63,33 @@
     },
     "Boston College Eagles": {
         "Conference": "ACC",
-        "Other Names": []
+        "Other Names": [
+            "BostonCollege"
+        ]
     },
     "Clemson Tigers": {
         "Conference": "ACC",
-        "Other Names": []
+        "Other Names": [
+            "Clemson"
+        ]
     },
     "Duke Blue Devils": {
         "Conference": "ACC",
-        "Other Names": []
+        "Other Names": [
+            "Duke"
+        ]
     },
     "Florida State Seminoles": {
         "Conference": "ACC",
-        "Other Names": []
+        "Other Names": [
+            "FloridaState"
+        ]
     },
     "Georgia Tech Yellow Jackets": {
         "Conference": "ACC",
-        "Other Names": []
+        "Other Names": [
+            "GeorgiaTech"
+        ]
     },
     "Louisville Cardinals": {
         "Conference": "ACC",
@@ -77,11 +105,16 @@
     },
     "North Carolina Tar Heels": {
         "Conference": "ACC",
-        "Other Names": []
+        "Other Names": [
+            "NorthCarolina"
+        ]
     },
     "Pittsburgh Panthers": {
         "Conference": "ACC",
-        "Other Names": []
+        "Other Names": [
+            "Pittsburgh",
+            "PittsburghU"
+        ]
     },
     "Syracuse Orange": {
         "Conference": "ACC",
@@ -89,7 +122,9 @@
     },
     "Virginia Cavaliers": {
         "Conference": "ACC",
-        "Other Names": []
+        "Other Names": [
+            "Virginia"
+        ]
     },
     "Virginia Tech Hokies": {
         "Conference": "ACC",
@@ -97,11 +132,15 @@
     },
     "Wake Forest Demon Deacons": {
         "Conference": "ACC",
-        "Other Names": []
+        "Other Names": [
+            "WakeForest"
+        ]
     },
     "Baylor Bears": {
         "Conference": "Big 12",
-        "Other Names": []
+        "Other Names": [
+            "Baylor"
+        ]
     },
     "Iowa State Cyclones": {
         "Conference": "Big 12",
@@ -109,47 +148,69 @@
     },
     "Kansas Jayhawks": {
         "Conference": "Big 12",
-        "Other Names": []
+        "Other Names": [
+            "Kansas"
+        ]
     },
     "Kansas State Wildcats": {
         "Conference": "Big 12",
-        "Other Names": []
+        "Other Names": [
+            "KansasState"
+        ]
     },
     "Oklahoma Sooners": {
         "Conference": "Big 12",
-        "Other Names": []
+        "Other Names": [
+            "Oklahoma"
+        ]
     },
     "Oklahoma State Cowboys": {
         "Conference": "Big 12",
-        "Other Names": []
+        "Other Names": [
+            "OklahomaState"
+        ]
     },
     "TCU Horned Frogs": {
         "Conference": "Big 12",
-        "Other Names": []
+        "Other Names": [
+            "TCU"
+        ]
     },
     "Texas Longhorns": {
         "Conference": "Big 12",
-        "Other Names": []
+        "Other Names": [
+            "Texas"
+        ]
     },
     "Texas Tech Red Raiders": {
         "Conference": "Big 12",
-        "Other Names": []
+        "Other Names": [
+            "TexasTech"
+        ]
     },
     "West Virginia Mountaineers": {
         "Conference": "Big 12",
-        "Other Names": []
+        "Other Names": [
+            "WestVirginia"
+        ]
     },
     "Illinois Fighting Illini": {
         "Conference": "Big Ten",
-        "Other Names": []
+        "Other Names": [
+            "Illinois"
+        ]
     },
     "Indiana Hoosiers": {
         "Conference": "Big Ten",
-        "Other Names": []
+        "Other Names": [
+            "Indiana"
+        ]
     },
     "Iowa Hawkeyes": {
         "Conference": "Big Ten",
-        "Other Names": []
+        "Other Names": [
+            "Iowa"
+        ]
     },
     "Maryland Terrapins": {
         "Conference": "Big Ten",
@@ -161,11 +222,15 @@
     },
     "Michigan Wolverines": {
         "Conference": "Big Ten",
-        "Other Names": []
+        "Other Names": [
+            "Michigan"
+        ]
     },
     "Minnesota Golden Gophers": {
         "Conference": "Big Ten",
-        "Other Names": []
+        "Other Names": [
+            "Minnesota"
+        ]
     },
     "Nebraska Cornhuskers": {
         "Conference": "Big Ten",
@@ -173,15 +238,21 @@
     },
     "Northwestern Wildcats": {
         "Conference": "Big Ten",
-        "Other Names": []
+        "Other Names": [
+            "Northwestern"
+        ]
     },
     "Ohio State Buckeyes": {
         "Conference": "Big Ten",
-        "Other Names": []
+        "Other Names": [
+            "OhioState"
+        ]
     },
     "Penn State Nittany Lions": {
         "Conference": "Big Ten",
-        "Other Names": []
+        "Other Names": [
+            "PennState"
+        ]
     },
     "Purdue Boilermakers": {
         "Conference": "Big Ten",
@@ -193,23 +264,34 @@
     },
     "Wisconsin Badgers": {
         "Conference": "Big Ten",
-        "Other Names": []
+        "Other Names": [
+            "Wisconsin"
+        ]
     },
     "Charlotte 49ers": {
         "Conference": "Conference USA",
-        "Other Names": []
+        "Other Names": [
+            "Charlotte"
+        ]
     },
     "Florida Atlantic Owls": {
         "Conference": "Conference USA",
-        "Other Names": []
+        "Other Names": [
+            "FloridaAtlantic"
+        ]
     },
     "Florida International Panthers": {
         "Conference": "Conference USA",
-        "Other Names": []
+        "Other Names": [
+            "FloridaInternational",
+            "FloridaIntl"
+        ]
     },
     "Louisiana Tech Bulldogs": {
         "Conference": "Conference USA",
-        "Other Names": []
+        "Other Names": [
+            "LouisianaTech"
+        ]
     },
     "Marshall Thundering Herd": {
         "Conference": "Conference USA",
@@ -225,15 +307,22 @@
     },
     "Old Dominion Monarchs": {
         "Conference": "Conference USA",
-        "Other Names": []
+        "Other Names": [
+            "OldDominion"
+        ]
     },
     "Rice Owls": {
         "Conference": "Conference USA",
-        "Other Names": []
+        "Other Names": [
+            "Rice"
+        ]
     },
     "Southern Mississippi Golden Eagles": {
         "Conference": "Conference USA",
-        "Other Names": []
+        "Other Names": [
+            "SoMississippi",
+            "SouthernMiss"
+        ]
     },
     "UAB Blazers": {
         "Conference": "Conference USA",
@@ -241,19 +330,27 @@
     },
     "UTEP Miners": {
         "Conference": "Conference USA",
-        "Other Names": []
+        "Other Names": [
+            "UTEP"
+        ]
     },
     "UTSA Roadrunners": {
         "Conference": "Conference USA",
-        "Other Names": []
+        "Other Names": [
+            "UTSA"
+        ]
     },
     "Western Kentucky Hilltoppers": {
         "Conference": "Conference USA",
-        "Other Names": []
+        "Other Names": [
+            "WesternKentucky"
+        ]
     },
     "Army Black Knights": {
         "Conference": "FBS Independents",
-        "Other Names": []
+        "Other Names": [
+            "Army"
+        ]
     },
     "BYU Cougars": {
         "Conference": "FBS Independents",
@@ -265,7 +362,9 @@
     },
     "New Mexico State Aggies": {
         "Conference": "FBS Independents",
-        "Other Names": []
+        "Other Names": [
+            "NewMexicoState"
+        ]
     },
     "Notre Dame Fighting Irish": {
         "Conference": "FBS Independents",
@@ -281,15 +380,21 @@
     },
     "Akron Zips": {
         "Conference": "Mid-American",
-        "Other Names": []
+        "Other Names": [
+            "Akron"
+        ]
     },
     "Ball State Cardinals": {
         "Conference": "Mid-American",
-        "Other Names": []
+        "Other Names": [
+            "BallState"
+        ]
     },
     "Bowling Green Falcons": {
         "Conference": "Mid-American",
-        "Other Names": []
+        "Other Names": [
+            "BowlingGreen"
+        ]
     },
     "Buffalo Bulls": {
         "Conference": "Mid-American",
@@ -297,7 +402,9 @@
     },
     "Central Michigan Chippewas": {
         "Conference": "Mid-American",
-        "Other Names": []
+        "Other Names": [
+            "CentralMichigan"
+        ]
     },
     "Eastern Michigan Eagles": {
         "Conference": "Mid-American",
@@ -305,7 +412,9 @@
     },
     "Kent State Golden Flashes": {
         "Conference": "Mid-American",
-        "Other Names": []
+        "Other Names": [
+            "KentState"
+        ]
     },
     "Miami (OH) RedHawks": {
         "Conference": "Mid-American",
@@ -313,63 +422,93 @@
     },
     "Northern Illinois Huskies": {
         "Conference": "Mid-American",
-        "Other Names": []
+        "Other Names": [
+            "NorthernIllinois"
+        ]
     },
     "Ohio Bobcats": {
         "Conference": "Mid-American",
-        "Other Names": []
+        "Other Names": [
+            "Ohio"
+        ]
     },
     "Toledo Rockets": {
         "Conference": "Mid-American",
-        "Other Names": []
+        "Other Names": [
+            "Toledo"
+        ]
     },
     "Western Michigan Broncos": {
         "Conference": "Mid-American",
-        "Other Names": []
+        "Other Names": [
+            "WesternMichigan"
+        ]
     },
     "Air Force Falcons": {
         "Conference": "Mountain West",
-        "Other Names": []
+        "Other Names": [
+            "AirForce"
+        ]
     },
     "Boise State Broncos": {
         "Conference": "Mountain West",
-        "Other Names": []
+        "Other Names": [
+            "BOISEST"
+        ]
     },
     "Colorado State Rams": {
         "Conference": "Mountain West",
-        "Other Names": []
+        "Other Names": [
+            "ColoradoState"
+        ]
     },
     "Fresno State Bulldogs": {
         "Conference": "Mountain West",
-        "Other Names": []
+        "Other Names": [
+            "FresnoState"
+        ]
     },
     "Hawai'i Rainbow Warriors": {
         "Conference": "Mountain West",
-        "Other Names": []
+        "Other Names": [
+            "Hawaii"
+        ]
     },
     "Nevada Wolf Pack": {
         "Conference": "Mountain West",
-        "Other Names": []
+        "Other Names": [
+            "Nevada"
+        ]
     },
     "New Mexico Lobos": {
         "Conference": "Mountain West",
-        "Other Names": []
+        "Other Names": [
+            "NewMexico"
+        ]
     },
     "San Diego State Aztecs": {
         "Conference": "Mountain West",
-        "Other Names": []
+        "Other Names": [
+            "SanDiegoState"
+        ]
     },
     "San José State Spartans": {
         "Conference": "Mountain West",
-        "Other Names": []
+        "Other Names": [
+            "SanJoseState"
+        ]
     },
     "UNLV Rebels": {
         "Conference": "Mountain West",
-        "Other Names": []
+        "Other Names": [
+            "UNLV"
+        ]
     },
     "Utah State Aggies": {
         "Conference": "Mountain West",
-        "Other Names": []
+        "Other Names": [
+            "UtahState"
+        ]
     },
     "Wyoming Cowboys": {
         "Conference": "Mountain West",
@@ -377,31 +516,46 @@
     },
     "Arizona State Sun Devils": {
         "Conference": "Pac-12",
-        "Other Names": []
+        "Other Names": [
+            "ArizonaState"
+        ]
     },
     "Arizona Wildcats": {
         "Conference": "Pac-12",
-        "Other Names": []
+        "Other Names": [
+            "ArizonaU",
+            "Arizona"
+        ]
     },
     "California Golden Bears": {
         "Conference": "Pac-12",
-        "Other Names": []
+        "Other Names": [
+            "California"
+        ]
     },
     "Colorado Buffaloes": {
         "Conference": "Pac-12",
-        "Other Names": []
+        "Other Names": [
+            "Colorado"
+        ]
     },
     "Oregon Ducks": {
         "Conference": "Pac-12",
-        "Other Names": []
+        "Other Names": [
+            "Oregon"
+        ]
     },
     "Oregon State Beavers": {
         "Conference": "Pac-12",
-        "Other Names": []
+        "Other Names": [
+            "OregonState"
+        ]
     },
     "Stanford Cardinal": {
         "Conference": "Pac-12",
-        "Other Names": []
+        "Other Names": [
+            "Stanford"
+        ]
     },
     "UCLA Bruins": {
         "Conference": "Pac-12",
@@ -409,7 +563,9 @@
     },
     "USC Trojans": {
         "Conference": "Pac-12",
-        "Other Names": []
+        "Other Names": [
+            "USC"
+        ]
     },
     "Utah Utes": {
         "Conference": "Pac-12",
@@ -417,7 +573,10 @@
     },
     "Washington Huskies": {
         "Conference": "Pac-12",
-        "Other Names": []
+        "Other Names": [
+            "WashingtonU",
+            "Washington"
+        ]
     },
     "Washington State Cougars": {
         "Conference": "Pac-12",
@@ -433,7 +592,9 @@
     },
     "Auburn Tigers": {
         "Conference": "SEC",
-        "Other Names": []
+        "Other Names": [
+            "Auburn"
+        ]
     },
     "Florida Gators": {
         "Conference": "SEC",
@@ -445,19 +606,28 @@
     },
     "Kentucky Wildcats": {
         "Conference": "SEC",
-        "Other Names": []
+        "Other Names": [
+            "Kentucky"
+        ]
     },
     "LSU Tigers": {
         "Conference": "SEC",
-        "Other Names": []
+        "Other Names": [
+            "LSU"
+        ]
     },
     "Mississippi State Bulldogs": {
         "Conference": "SEC",
-        "Other Names": []
+        "Other Names": [
+            "MississippiSt",
+            "MississippiState"
+        ]
     },
     "Missouri Tigers": {
         "Conference": "SEC",
-        "Other Names": []
+        "Other Names": [
+            "Missouri"
+        ]
     },
     "Ole Miss Rebels": {
         "Conference": "SEC",
@@ -465,27 +635,40 @@
     },
     "South Carolina Gamecocks": {
         "Conference": "SEC",
-        "Other Names": []
+        "Other Names": [
+            "SouthCarolina"
+        ]
     },
     "Tennessee Volunteers": {
         "Conference": "SEC",
-        "Other Names": []
+        "Other Names": [
+            "Tennessee",
+            "TennesseeU"
+        ]
     },
     "Texas A&M Aggies": {
         "Conference": "SEC",
-        "Other Names": []
+        "Other Names": [
+            "TexasA&M"
+        ]
     },
     "Vanderbilt Commodores": {
         "Conference": "SEC",
-        "Other Names": []
+        "Other Names": [
+            "Vanderbilt"
+        ]
     },
     "Appalachian State Mountaineers": {
         "Conference": "Sun Belt",
-        "Other Names": []
+        "Other Names": [
+            "AppalachianState"
+        ]
     },
     "Arkansas State Red Wolves": {
         "Conference": "Sun Belt",
-        "Other Names": []
+        "Other Names": [
+            "ArkansasState"
+        ]
     },
     "Coastal Carolina Chanticleers": {
         "Conference": "Sun Belt",
@@ -505,7 +688,9 @@
     },
     "South Alabama Jaguars": {
         "Conference": "Sun Belt",
-        "Other Names": []
+        "Other Names": [
+            "SouthAlabama"
+        ]
     },
     "Texas State Bobcats": {
         "Conference": "Sun Belt",
@@ -513,10 +698,14 @@
     },
     "Troy Trojans": {
         "Conference": "Sun Belt",
-        "Other Names": []
+        "Other Names": [
+            "Troy"
+        ]
     },
     "UL Monroe Warhawks": {
         "Conference": "Sun Belt",
-        "Other Names": []
+        "Other Names": [
+            "UL-Monroe"
+        ]
     }
 }

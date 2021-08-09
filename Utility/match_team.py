@@ -1,86 +1,127 @@
 # ==============================================================================
 # File: match_team.py
-# Project: Utility
-# File Created: Tuesday, 15th June 2021 8:16:15 pm
+# Project: allison
+# File Created: Sunday, 8th August 2021 9:33:10 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Tuesday, 15th June 2021 8:16:17 pm
+# Last Modified: Sunday, 8th August 2021 9:33:10 pm
 # Modified By: Dillon Koch
 # -----
 #
 # -----
-# Finds the closest team match to a string
-# useful when different data sources have things like "LA Chargers" and "Los Angeles Chargers"
+# Finds the closest matches from an input string to the official ESPN team names
 # ==============================================================================
 
 
-import sys
-from os.path import abspath, dirname
 import json
+import os
+import sys
+from operator import itemgetter
+from os.path import abspath, dirname
 
-from fuzzywuzzy import fuzz
 import pandas as pd
+from fuzzywuzzy import fuzz
+from Levenshtein import distance
 
 ROOT_PATH = dirname(dirname(abspath(__file__)))
 if ROOT_PATH not in sys.path:
     sys.path.append(ROOT_PATH)
 
 
+def listdir_fullpath(d):
+    return [os.path.join(d, f) for f in os.listdir(d)]
+
+
 class Match_Team:
     def __init__(self):
         pass
 
-    @property
-    def config(self):  # Property
-        with open(ROOT_PATH + ".json", 'r') as f:
-            config = json.load(f)
-        return config
+    def load_team_dict(self, league):  # Top Level
+        """
+        loads the team JSON dict from /Data/Teams/
+        """
+        path = ROOT_PATH + f"/Data/Teams/{league}_Teams.json"
+        with open(path) as f:
+            team_dict = json.load(f)
+        return team_dict
 
-    def load_team_df(self, league):  # Top Level
-        team_df = pd.read_csv(ROOT_PATH + f"/Data/Teams/{league}/{league}_Teams.csv")
-        other_df = pd.read_csv(ROOT_PATH + f"/Data/Teams/{league}/{league}_Other_Teams.csv")
-        full_df = pd.concat([team_df, other_df])
-        return full_df
+    def existing_team_names(self, team_dict):  # Top Level
+        """
+        loads all the team names (official and other) in the JSON file
+        """
+        names = list(team_dict.keys())
+        other_names = []
+        for name in names:
+            current_other_names = team_dict[name]['Other Names']
+            other_names.extend(current_other_names)
+        all_names = names + other_names
+        return names, all_names
 
-    def _corrections_dict(self, league):  # Specific Helper
+    def _load_odds_team_names(self, league):  # Specific Helper load_team_names_all_data
         """
-        loads the dict of corrections to be made when fuzzy-matching teams
-        sometimes fuzzy-matching makes mistakes (e.g. TCU matches VCU Rams)
+        Loads team names for a league in all Odds data
         """
-        with open(ROOT_PATH + f"/Data/Teams/{league}/{league}_Corrections.json", 'r') as f:
-            corrections_dict = json.load(f)
-        return corrections_dict
+        folder = ROOT_PATH + f"/Data/Odds/{league}/"
+        df_paths = listdir_fullpath(folder)
+        df = pd.concat([pd.read_excel(path) for path in df_paths])
+        teams = list(set(list(df['Team'])))
+        return teams
 
-    def fuzzy_match(self, league, teams, team_input):  # Top Level
+    def load_team_names_all_data(self, league):  # Top Level
         """
-        finds the closest fuzzy-match in teams to the team_input
-        - used to edit "LA Chargers" to "Los Angeles Chargers" etc
+        loads the team names from all data sources scraped
         """
-        corrections_dict = self._corrections_dict(league)
-        if team_input in corrections_dict:
-            return corrections_dict[team_input], 100
+        # TODO add more specific helpers when I add more data sources
+        odds_names = self._load_odds_team_names(league)
+        all_names = odds_names
+        return all_names
 
-        best_match = teams[0]
-        best_match_ratio = fuzz.ratio(teams[0], team_input)
-        for team in teams[1:]:
-            current_ratio = fuzz.ratio(team, team_input)
-            if current_ratio > best_match_ratio:
-                best_match = team
-                best_match_ratio = current_ratio
-        return best_match, best_match_ratio
+    def find_matches(self, existing_names, team_name):  # Top Level
+        """
+        finds the top 10 matches for a team name not in ESPN names
+        """
+        existing_dist_combos = []
+        for existing_name in existing_names:
+            # lev_dist = distance(existing_name, team_name)
+            lev_dist = fuzz.ratio(existing_name, team_name)
+            existing_dist_combos.append((existing_name, lev_dist))
 
-    def run(self, league, team_input):  # Run
-        """
-        finds the closest true team name match to team_input in a given league
-        """
-        team_df = self.load_team_df(league)
-        teams = list(team_df['Team'])
-        match, match_ratio = self.fuzzy_match(league, teams, team_input)
-        return match, match_ratio
+        existing_dist_combos = sorted(existing_dist_combos, key=itemgetter(1), reverse=True)
+        for i, combo in enumerate(existing_dist_combos[:10]):
+            team, dist = combo
+            print(f"({i}) {dist} - {team}")
+        return [item[0] for item in existing_dist_combos]
+
+    def update_team_dict(self, team_dict, team_name, matches, real_team_index):  # Top Level
+        if real_team_index != '':
+            real_team = matches[int(real_team_index)]
+            team_dict[real_team]['Other Names'] += [team_name]
+        return team_dict
+
+    def save_team_dict(self, league, team_dict):  # Top Level
+        path = ROOT_PATH + f"/Data/Teams/{league}_Teams.json"
+        with open(path, 'w') as f:
+            json.dump(team_dict, f)
+
+    def run(self, league):  # Run
+        # load team names in all data sources for all leagues
+        # in command line, show non-matched team, and top 10 matches
+        # accept user input 1-10 to automatically add the name to the JSON
+        team_dict = self.load_team_dict(league)
+        official_names, existing_names = self.existing_team_names(team_dict)
+        team_names_all_data = self.load_team_names_all_data(league)
+        for team_name in team_names_all_data:
+            if team_name not in existing_names:
+                print('-' * 50)
+                print(team_name)
+                matches = self.find_matches(official_names, team_name)
+                real_team_index = input("replacement index: ")
+                team_dict = self.update_team_dict(team_dict, team_name, matches, real_team_index)
+                self.save_team_dict(league, team_dict)
 
 
 if __name__ == '__main__':
     x = Match_Team()
     self = x
-    league = "NBA"
-    # x.run()
+    for league in ["NFL", "NBA", "NCAAF", "NCAAB"]:
+        x.run(league)
