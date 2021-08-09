@@ -1,25 +1,25 @@
 # ==============================================================================
 # File: espn_teams.py
-# Project: allison
-# File Created: Sunday, 8th August 2021 8:49:05 pm
+# Project: Scrapers
+# File Created: Monday, 14th June 2021 10:42:42 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Sunday, 8th August 2021 8:49:10 pm
+# Last Modified: Monday, 14th June 2021 10:42:43 pm
 # Modified By: Dillon Koch
 # -----
 #
 # -----
-# Scraping the teams for NFL/NBA/NCAAF/NCAAB from espn.com
-# using these as the official team names for the whole project
-# Creating JSON files for each league in /Data/Teams/
+# scraping the team names for each league to the official team lists
 # ==============================================================================
 
 
-import json
+import datetime
 import sys
-import urllib
+import time
+import urllib.request
 from os.path import abspath, dirname
 
+import pandas as pd
 from bs4 import BeautifulSoup as soup
 
 ROOT_PATH = dirname(dirname(abspath(__file__)))
@@ -35,22 +35,13 @@ class ESPN_Team_Scraper:
                             "NCAAF": "college-football/teams",
                             "NCAAB": "mens-college-basketball/teams"}
 
-    def create_json(self, league):  # Top Level
+    def blank_output(self):  # Top Level
         """
-        creates a blank teams json file if it doesn't exist
+        creates a blank output to be populated with team data
         """
-        path = ROOT_PATH + f"/Data/Teams/{league}_Teams.json"
-        with open(path, 'w') as f:
-            json.dump({}, f)
-
-    def load_team_dict(self, league):  # Top Level
-        """
-        loads the json dictionary from /Data/Teams/
-        """
-        path = ROOT_PATH + f"/Data/Teams/{league}_Teams.json"
-        with open(path) as f:
-            team_dict = json.load(f)
-        return team_dict
+        cols = ["League", "Conference/Division", "Team"]
+        df = pd.DataFrame(columns=cols)
+        return df
 
     def get_sp1(self, link):  # Top Level
         """
@@ -80,43 +71,45 @@ class ESPN_Team_Scraper:
         teams = [team.get_text() for team in teams]
         return teams
 
-    def update_json(self, team_dict, conference_name, team):  # Top Level
+    def update_df(self, df, league, conference_name, teams):  # Top Level
         """
-        updates the json file with a new team or team with new conference
+        updates the df with the new data
         """
-        existing_teams = list(team_dict.keys())
-        if team not in existing_teams:
-            team_dict[team] = {"Conference": conference_name, "Other Names": []}
-        else:
-            team_dict[team]["Conference"] = conference_name
-        return team_dict
+        for team in teams:
+            df.loc[len(df)] = [league, conference_name, team]
+        return df
 
-    def save_team_dict(self, league, team_dict):  # Top Level
+    def save_df(self, df, league):  # Top Level
         """
-        saves the updated team dict to /Data/Teams
+        Saves the final df to its path in /Data/Teams/
         """
-        path = ROOT_PATH + f"/Data/Teams/{league}_Teams.json"
-        with open(path, 'w') as f:
-            json.dump(team_dict, f)
+        path = ROOT_PATH + f"/Data/Teams/{league}/{league}_Teams.csv"
+        df.to_csv(path, index=False)
 
     def run(self, league):  # Run
-        self.create_json(league)
-        team_dict = self.load_team_dict(league)
+        df = self.blank_output()
         link = self.url_base + self.url_endings[league]
         sp = self.get_sp1(link)
         conference_sections = sp.find_all('div', attrs={'class': 'mt7'})
         for conference_section in conference_sections:
             conference_name = self.conference_name(conference_section)
             teams = self.conference_teams(conference_section)
-            for team in teams:
-                team_dict = self.update_json(team_dict, conference_name, team)
-        print(team_dict)
+            df = self.update_df(df, league, conference_name, teams)
+        self.save_df(df, league)
+        return df
 
-        self.save_team_dict(league, team_dict)
+    def run_all(self):  # Run
+        print('-' * 50)
+        print(datetime.datetime.now())
+        for league in ["NFL", "NCAAF", "NBA", "NCAAB"]:
+            df = self.run(league)
+            print(f"{league} - Saved {len(df)} teams")
+            time.sleep(3)
 
 
 if __name__ == '__main__':
     x = ESPN_Team_Scraper()
     self = x
-    for league in ["NFL", "NCAAF", "NBA", "NCAAB"]:
-        x.run(league)
+    league = "NCAAB"
+    # df = x.run(league)
+    x.run_all()
