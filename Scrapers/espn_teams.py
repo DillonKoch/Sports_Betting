@@ -89,11 +89,11 @@ class ESPN_Team_Scraper:
         """
         updates the json file with a new team or team with new conference
         """
-        existing_teams = list(team_dict.keys())
+        existing_teams = list(team_dict['Teams'].keys())
         if team not in existing_teams:
-            team_dict[team] = {"Conference": conference_name, "Other Names": []}
+            team_dict['Teams'][team] = {"Conference": conference_name, "Other Names": []}
         else:
-            team_dict[team]["Conference"] = conference_name
+            team_dict['Teams'][team]["Conference"] = conference_name
         return team_dict
 
     def save_team_dict(self, league, team_dict):  # Top Level
@@ -105,6 +105,7 @@ class ESPN_Team_Scraper:
             json.dump(team_dict, f)
 
     def run(self, league):  # Run
+        print(league)
         self.create_json(league)
         team_dict = self.load_team_dict(league)
         original_team_dict = copy.deepcopy(team_dict)
@@ -119,6 +120,8 @@ class ESPN_Team_Scraper:
 
         if team_dict != original_team_dict:
             self.save_team_dict(league, team_dict)
+        else:
+            print('no new data, not saving')
 
 
 if __name__ == '__main__':

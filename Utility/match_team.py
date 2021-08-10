@@ -21,7 +21,6 @@ from os.path import abspath, dirname
 
 import pandas as pd
 from fuzzywuzzy import fuzz
-from Levenshtein import distance
 
 ROOT_PATH = dirname(dirname(abspath(__file__)))
 if ROOT_PATH not in sys.path:
@@ -49,12 +48,13 @@ class Match_Team:
         """
         loads all the team names (official and other) in the JSON file
         """
-        names = list(team_dict.keys())
+        names = list(team_dict['Teams'].keys())
+        other_teams = team_dict['Other Teams']
         other_names = []
         for name in names:
-            current_other_names = team_dict[name]['Other Names']
+            current_other_names = team_dict['Teams'][name]['Other Names']
             other_names.extend(current_other_names)
-        all_names = names + other_names
+        all_names = names + other_names + other_teams
         return names, all_names
 
     def _load_odds_team_names(self, league):  # Specific Helper load_team_names_all_data
@@ -93,9 +93,11 @@ class Match_Team:
         return [item[0] for item in existing_dist_combos]
 
     def update_team_dict(self, team_dict, team_name, matches, real_team_index):  # Top Level
-        if real_team_index != '':
+        if real_team_index == 'O':
+            team_dict['Other Teams'] = team_dict['Other Teams'] + [team_name]
+        elif real_team_index != '':
             real_team = matches[int(real_team_index)]
-            team_dict[real_team]['Other Names'] += [team_name]
+            team_dict['Teams'][real_team]['Other Names'] += [team_name]
         return team_dict
 
     def save_team_dict(self, league, team_dict):  # Top Level
@@ -124,4 +126,7 @@ if __name__ == '__main__':
     x = Match_Team()
     self = x
     for league in ["NFL", "NBA", "NCAAF", "NCAAB"]:
+        print('-' * 50)
+        print(league)
+        print('-' * 50)
         x.run(league)
