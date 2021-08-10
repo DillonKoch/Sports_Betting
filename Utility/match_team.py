@@ -112,7 +112,9 @@ class Match_Team:
         team_dict = self.load_team_dict(league)
         official_names, existing_names = self.existing_team_names(team_dict)
         team_names_all_data = self.load_team_names_all_data(league)
-        for team_name in team_names_all_data:
+        print(len(team_names_all_data))
+        for i, team_name in enumerate(team_names_all_data):
+            print(i)
             if team_name not in existing_names:
                 print('-' * 50)
                 print(team_name)

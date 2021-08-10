@@ -85,15 +85,36 @@ class ESPN_Team_Scraper:
         teams = [team.get_text() for team in teams]
         return teams
 
+    # def update_json(self, team_dict, conference_name, team):  # Top Level
+    #     """
+    #     updates the json file with a new team or team with new conference
+    #     """
+    #     existing_teams = list(team_dict['Teams'].keys())
+    #     if team not in existing_teams:
+    #         team_dict['Teams'][team] = {"Conference": conference_name, "Other Names": [], "Schedule": ""}
+    #     else:
+    #         team_dict['Teams'][team]["Conference"] = conference_name
+    #         team_dict['Teams'][team]['Schedule'] = ""
+    #     return team_dict
+
+    def _get_link(self, links, link_chunk):  # Specific Helper  update_json
+        eligible_links = [link for link in links if link_chunk in link]
+        if len(eligible_links) > 0:
+            return "https://www.espn.com" + eligible_links[0]
+        return ""
+
     def update_json(self, team_dict, conference_name, team):  # Top Level
-        """
-        updates the json file with a new team or team with new conference
-        """
         existing_teams = list(team_dict['Teams'].keys())
-        if team not in existing_teams:
-            team_dict['Teams'][team] = {"Conference": conference_name, "Other Names": []}
-        else:
-            team_dict['Teams'][team]["Conference"] = conference_name
+        team_name = team.find_all('h2')[0].get_text()
+        if team_name not in existing_teams:
+            team_dict['Teams'][team_name] = {"Conference": conference_name, "Other Names": [], "Statistics": "",
+                                             "Schedule": "", "Roster": "", "Depth Chart": ""}
+        links = [item['href'] for item in team.find_all('a', attrs={'class': 'AnchorLink'}, href=True)]
+
+        team_dict['Teams'][team_name]['Statistics'] = self._get_link(links, '/stats/')
+        team_dict['Teams'][team_name]['Schedule'] = self._get_link(links, '/schedule/')
+        team_dict['Teams'][team_name]['Roster'] = self._get_link(links, '/roster/')
+        team_dict['Teams'][team_name]['Depth Chart'] = self._get_link(links, '/depth/')
         return team_dict
 
     def save_team_dict(self, league, team_dict):  # Top Level
@@ -114,9 +135,13 @@ class ESPN_Team_Scraper:
         conference_sections = sp.find_all('div', attrs={'class': 'mt7'})
         for conference_section in conference_sections:
             conference_name = self.conference_name(conference_section)
-            teams = self.conference_teams(conference_section)
+            teams = conference_section.find_all('div', attrs={'class': 'ContentList__Item'})
             for team in teams:
                 team_dict = self.update_json(team_dict, conference_name, team)
+
+            # teams = self.conference_teams(conference_section)
+            # for team in teams:
+            #     team_dict = self.update_json(team_dict, conference_name, team)
 
         if team_dict != original_team_dict:
             self.save_team_dict(league, team_dict)
