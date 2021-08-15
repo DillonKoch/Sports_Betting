@@ -152,16 +152,23 @@ class ESPN_Schedule_Scraper:
         updates the df with new game id's in scraped data
         """
         existing_game_ids = [str(item) for item in list(df['Game_ID'])]
-        for row in data:
-            game_id = row[0]
+        # for row in data:
+        #     game_id = row[0]
+        #     if str(game_id) not in existing_game_ids:
+        #         df.loc[len(df)] = row
+        for game in data:
+            game_id = game[0]
             if str(game_id) not in existing_game_ids:
-                df.loc[len(df)] = row
+                new_row = [None] * len(list(df.columns))
+                new_row[:3] = game
+                print('new game')
+                df.loc[len(df)] = new_row
         return df
 
     def run(self, scrape_past_years=False):  # Run
         df = self.load_df()
         schedule_links = self.load_schedule_links(scrape_past_years)
-        for schedule_link in tqdm(schedule_links):  # was 2945 for NCAAB
+        for schedule_link in tqdm(schedule_links[2965:]):  # was 2945 for NCAAB
             try:
                 sp = self.get_sp1(schedule_link)
                 table = sp.find('tbody', attrs={'class': 'Table__TBODY'})
@@ -177,7 +184,7 @@ class ESPN_Schedule_Scraper:
 
 
 if __name__ == '__main__':
-    league = "NFL"
+    league = "NCAAB"
     x = ESPN_Schedule_Scraper(league)
     self = x
     scrape_past_years = True

@@ -50,7 +50,10 @@ class ESPN_Game_Scraper:
                                'Penalties', 'Turnovers', 'Fumbles_lost', 'Defensive_Special_Teams_TDs',
                                'Possession']
 
-        self.basketball_stats = []
+        self.basketball_stats = ['FG', 'Field_Goal_pct', '3PT', 'Three_Point_pct', 'FT', 'Free_Throw_pct', 'Rebounds',
+                                 'Offensive_Rebounds', 'Defensive_Rebounds', 'Assists', 'Steals', 'Blocks',
+                                 'Total_Turnovers', 'Points_Off_Turnovers', 'Fast_Break_Points', 'Points_in_Paint',
+                                 'Fouls', 'Technical_Fouls', 'Flagrant_Fouls', 'Largest_Lead']
 
     def load_games_df(self):  # Top Level
         """
@@ -234,12 +237,13 @@ class ESPN_Game_Scraper:
         stat_name = stat_name.replace('%', 'pct')
         return stat_name
 
-    def scrape_football_stats(self, new_row, sp):  # Top Level
+    def scrape_stats(self, new_row, sp):  # Top Level
+        stat_cols = self.football_stats if self.football_league else self.basketball_stats
         table_sp = sp.find('table', attrs={'class': 'mod-data'})
         table_body = table_sp.find('tbody')
         rows = table_body.find_all('tr')
-        home_stat_dict = {stat: None for stat in self.football_stats}
-        away_stat_dict = {stat: None for stat in self.football_stats}
+        home_stat_dict = {stat: None for stat in stat_cols}
+        away_stat_dict = {stat: None for stat in stat_cols}
         for row in rows:
             td_vals = row.find_all('td')
             stat = td_vals[0].get_text()
@@ -247,7 +251,7 @@ class ESPN_Game_Scraper:
             away_stat_dict[stat.strip()] = td_vals[1].get_text().strip()
             home_stat_dict[stat.strip()] = td_vals[2].get_text().strip()
 
-        for stat in self.football_stats:
+        for stat in stat_cols:
             new_row.append(home_stat_dict[stat])
             new_row.append(away_stat_dict[stat])
 
@@ -293,15 +297,10 @@ class ESPN_Game_Scraper:
                 new_row = self.scrape_halves(new_row, stats_sp, home=False)
                 new_row = self.scrape_quarters_OT(new_row, stats_sp, home=False)
                 new_row = self.scrape_final_scores(new_row, stats_sp)
-
-                # * scraping either football or basketball stats
-                if self.football_league:
-                    new_row = self.scrape_football_stats(new_row, stats_sp)
-                else:
-                    new_row = self.scrape_basketball_stats(new_row, stats_sp)
+                new_row = self.scrape_stats(new_row, stats_sp)
             else:
-                num_cols = 14 + len(self.football_stats) if self.football_league else 14 + len(self.basketball_stats)
-                new_row.extend([None] * (num_cols * 2))
+                num_cols = len(self.football_stats) if self.football_league else 14 + len(self.basketball_stats)
+                new_row.extend([None] * (14 + (num_cols * 2)))
 
             df.loc[i] = new_row
             df.to_csv(ROOT_PATH + f"/Data/ESPN/{self.league}/Games.csv", index=False)
