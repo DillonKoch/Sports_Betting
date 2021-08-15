@@ -44,29 +44,6 @@ class ESPN_Schedule_Scraper:
             return pd.read_csv(self.df_path)
         return pd.DataFrame(columns=self.cols)
 
-    # def _past_links(self, base_links, scrape_past_years=False):  # Specific Helper load_schedule_links
-    #     """
-    #     given a current year link, this creates the past links from 2007 on
-    #     """
-    #     past_links = []
-    #     start_year = self.league_first_year[self.league] if scrape_past_years else int(datetime.datetime.now().year)
-    #     end_year = int(datetime.datetime.now().year) + 2
-
-    #     for year in list(range(start_year, end_year, 1)):
-    #         for base_link in base_links:
-    #             new_link = base_link + f"/season/{year}/"
-    #             past_links.append(new_link)
-    #     return past_links
-
-    # def _nba_base_links(self, team_dict, teams):  # Specific Helper load_schedule_links
-    #     base_links = []
-    #     for team in teams:
-    #         link = team_dict['Teams'][team]['Schedule']
-    #         regular_season_link = link + '/seasontype/2'
-    #         postseason_link = link + '/seasontype/3'
-    #         base_links.extend([regular_season_link, postseason_link])
-    #     return base_links
-
     def _add_season(self, links, scrape_past_years=False):  # Specific Helper load_schedule_links
         start_year = self.league_first_year[self.league] if scrape_past_years else int(datetime.datetime.now().year)
         end_year = int(datetime.datetime.now().year) + 2
@@ -158,7 +135,6 @@ class ESPN_Schedule_Scraper:
         """
         converts rows from schedule table into data to be saved in the csv
         """
-        # TODO account for nfl preseason
         data = []
         for row in rows:
             row_link_sps = row.find_all('a', attrs={'class': 'AnchorLink'}, href=True)
