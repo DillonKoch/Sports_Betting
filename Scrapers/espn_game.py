@@ -83,7 +83,7 @@ class ESPN_Game_Scraper:
         returns True if today's date is past the game date OR the basic info isn't scraped, False otherwise
         """
         try:
-            game_datetime = datetime.datetime.strptime(str(row['Date']), "%B %d, %Y")
+            game_datetime = datetime.datetime.strptime(str(row[3]), "%Y-%m-%d")
             return datetime.datetime.now() > game_datetime
         except ValueError:
             return True
@@ -122,8 +122,11 @@ class ESPN_Game_Scraper:
         """
         Scraping the "Final Status" of the game (could be "Final" or include OT like "Final/OT")
         """
-        final_text = sp.find('span', attrs={'class': 'game-time status-detail'}).get_text()
-        return final_text if 'Final' in final_text else None
+        final_text = sp.find('span', attrs={'class': 'game-time status-detail'})
+        if final_text is None:
+            return None
+        else:
+            return final_text.get_text() if 'Final' in final_text.get_text() else None
 
     def scrape_date(self, new_row, sp):  # Top Level
         """
@@ -133,13 +136,15 @@ class ESPN_Game_Scraper:
         reg_comp = re.compile(
             r"Game Summary - ((January|February|March|April|May|June|July|August|September|October|November|December) \d{1,2}, \d{4})")
         match = re.search(reg_comp, str_sp)
-        new_row.append(match.group(1))
+        datetime_ob = datetime.datetime.strptime(match.group(1), "%B %d, %Y")
+        new_row.append(datetime_ob.strftime("%Y-%m-%d"))
         return new_row
 
     def scrape_teams(self, new_row, sp):  # Top Level
         """
         scrapes the team names and adds to new_row
         """
+        # TODO run through code that makes sure it's an official team name
         locations = sp.find_all('span', attrs={'class': 'long-name'})
         away_loc = locations[0].get_text()
         home_loc = locations[1].get_text()
@@ -271,27 +276,27 @@ class ESPN_Game_Scraper:
 
             # * If we've scraped pregame data, and the game's not over, move on
             pregame_data_scraped = row['Home'] not in ['', None, np.nan]
-            today_past_game_date = self.check_today_past_game_date(row)
+            today_past_game_date = self.check_today_past_game_date(list(row))
             if pregame_data_scraped and (not today_past_game_date):
                 continue
 
             # * scraping now that we know we need to (starting row over from first 3 vals)
             game_id = row['Game_ID']
-            stats_sp = self.scrape_stats_page(game_id)
             summary_sp = self.scrape_summary_page(game_id)
-            final_status = self.final_status(stats_sp)
+            final_status = self.final_status(summary_sp)
             new_row = copy.deepcopy(list(row[:3]))
 
             # * always scraping pregame data again
             new_row = self.scrape_date(new_row, summary_sp)
-            new_row = self.scrape_teams(new_row, stats_sp)
-            new_row = self.scrape_team_records(new_row, stats_sp)
-            new_row = self.scrape_network(new_row, stats_sp)
+            new_row = self.scrape_teams(new_row, summary_sp)
+            new_row = self.scrape_team_records(new_row, summary_sp)
+            new_row = self.scrape_network(new_row, summary_sp)
             new_row.append(final_status)
 
             # * scraping stats if the game's over
-            today_past_game_date = self.check_today_past_game_date(row)
+            today_past_game_date = self.check_today_past_game_date(new_row)
             if today_past_game_date:
+                stats_sp = self.scrape_stats_page(game_id)
                 new_row = self.scrape_halves(new_row, stats_sp, home=True)
                 new_row = self.scrape_quarters_OT(new_row, stats_sp, home=True)
                 new_row = self.scrape_halves(new_row, stats_sp, home=False)
@@ -300,14 +305,14 @@ class ESPN_Game_Scraper:
                 new_row = self.scrape_stats(new_row, stats_sp)
             else:
                 num_cols = len(self.football_stats) if self.football_league else 14 + len(self.basketball_stats)
-                new_row.extend([None] * (14 + (num_cols * 2)))
+                new_row.extend([None] * (16 + (num_cols * 2)))
 
             df.loc[i] = new_row
             df.to_csv(ROOT_PATH + f"/Data/ESPN/{self.league}/Games.csv", index=False)
 
 
 if __name__ == '__main__':
-    league = "NFL"
+    league = "NCAAF"
     x = ESPN_Game_Scraper(league)
     self = x
     x.run()
