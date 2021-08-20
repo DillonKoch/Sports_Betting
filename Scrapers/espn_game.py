@@ -36,9 +36,6 @@ class ESPN_Game_Scraper:
         self.football_league = league in ['NFL', 'NCAAF']
         self.link_dict = {"NFL": "nfl", "NBA": "nba", "NCAAF": "college-football", "NCAAB": "mens-college-basketball"}
 
-        # self.df_cols = ['Game_ID', 'Season', 'Week', 'Date', 'Home', 'Away', 'Home_Record', 'Away_Record', 'Home_Final',
-        #                 'Away_Final', 'Final_Status', 'Network', 'H1H', 'H2H', 'H1Q', 'H2Q', 'H3Q', 'H4Q', 'HOT',
-        #                 'A1H', 'A2H', 'A1Q', 'A2Q', 'A3Q', 'A4Q', 'AOT']
         self.df_cols = ['Game_ID', 'Season', 'Week', 'Date', 'Home', 'Away', 'Home_Record', 'Away_Record', 'Network',
                         'Final_Status', 'H1H', 'H2H', 'H1Q', 'H2Q', 'H3Q', 'H4Q', 'HOT',
                         'A1H', 'A2H', 'A1Q', 'A2Q', 'A3Q', 'A4Q', 'AOT', 'Home_Final', 'Away_Final']
@@ -101,16 +98,6 @@ class ESPN_Game_Scraper:
         sp = soup(a, 'html.parser')
         return sp
 
-    def scrape_stats_page(self, game_id):  # Top Level
-        """
-        Scrapes the HTML from ESPN for the given game_id
-        """
-        league_link_str = self.link_dict[self.league]
-        link = f"https://www.espn.com/{league_link_str}/matchup?gameId={game_id}"
-        print(link)
-        sp = self._get_sp1(link)
-        return sp
-
     def scrape_summary_page(self, game_id):  # Top Level
         league_link_str = self.link_dict[self.league]
         link = f"https://www.espn.com/{league_link_str}/game/_/gameId/{game_id}"
@@ -144,7 +131,6 @@ class ESPN_Game_Scraper:
         """
         scrapes the team names and adds to new_row
         """
-        # TODO run through code that makes sure it's an official team name
         locations = sp.find_all('span', attrs={'class': 'long-name'})
         away_loc = locations[0].get_text()
         home_loc = locations[1].get_text()
@@ -168,6 +154,9 @@ class ESPN_Game_Scraper:
         return new_row
 
     def scrape_network(self, new_row, sp):  # Top Level
+        """
+        scrapes the TV network of the game, adds to new_row
+        """
         try:
             network = sp.find_all('div', attrs={'class': 'game-network'})
             network = network[0].get_text()
@@ -177,6 +166,16 @@ class ESPN_Game_Scraper:
             network = None
         new_row.append(network)
         return new_row
+
+    def scrape_stats_page(self, game_id):  # Top Level
+        """
+        Scrapes the HTML from ESPN for the given game_id
+        """
+        league_link_str = self.link_dict[self.league]
+        link = f"https://www.espn.com/{league_link_str}/matchup?gameId={game_id}"
+        print(link)
+        sp = self._get_sp1(link)
+        return sp
 
     def scrape_halves(self, new_row, sp, home):  # Top Level
         """
@@ -235,6 +234,9 @@ class ESPN_Game_Scraper:
         return new_row
 
     def _clean_stat_name(self, stat_name):  # Specific Helper scrape_football_stats, scrape_basketball_stats
+        """
+        cleans the stat name so it's more suitable as a dataframe column name
+        """
         for val in [' / ', '-', ' ']:
             stat_name = stat_name.replace(val, '_')
         for val in ['(', ')']:
@@ -243,6 +245,9 @@ class ESPN_Game_Scraper:
         return stat_name
 
     def scrape_stats(self, new_row, sp):  # Top Level
+        """
+        scrapes all the game stats for a game and adds them to the new_row
+        """
         stat_cols = self.football_stats if self.football_league else self.basketball_stats
         table_sp = sp.find('table', attrs={'class': 'mod-data'})
         table_body = table_sp.find('tbody')

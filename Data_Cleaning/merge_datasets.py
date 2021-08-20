@@ -26,7 +26,7 @@ if ROOT_PATH not in sys.path:
 class Merge_Datasets:
     def __init__(self, league):
         self.league = league
-        self.espn_games_path = ROOT_PATH + f"/Data/ESPN/{self.league}/Games.csv"
+        self.espn_path = ROOT_PATH + f"/Data/ESPN/{self.league}.csv"
         self.odds_path = ROOT_PATH + f"/Data/Odds/{self.league}.csv"
 
     def add_team_cols(self, df):  # Top Level
@@ -37,7 +37,7 @@ class Merge_Datasets:
         return df
 
     def run(self, espn_games, odds):  # Run
-        espn_games_df = pd.read_csv(self.espn_games_path) if espn_games else None
+        espn_games_df = pd.read_csv(self.espn_path) if espn_games else None
         odds_df = pd.read_csv(self.odds_path) if odds else None
 
         all_dfs = [espn_games_df, odds_df]

@@ -32,7 +32,7 @@ if ROOT_PATH not in sys.path:
 class ESPN_Schedule_Scraper:
     def __init__(self, league):
         self.league = league
-        self.cols = ["Game_ID", "Season", "Week"]  # TODO not even close to done
+        self.cols = ["Game_ID", "Season", "Week"]
         self.league_first_year = {"NFL": 2007, "NBA": 2008, "NCAAF": 2007, "NCAAB": 2008}
         self.df_path = ROOT_PATH + f"/Data/ESPN/{league}/Games.csv"
 
@@ -45,7 +45,10 @@ class ESPN_Schedule_Scraper:
         return pd.DataFrame(columns=self.cols)
 
     def _add_season(self, links, scrape_past_years=False):  # Specific Helper load_schedule_links
-        start_year = self.league_first_year[self.league] if scrape_past_years else int(datetime.datetime.now().year)
+        """
+        adds the season part of the string
+        """
+        start_year = self.league_first_year[self.league] if scrape_past_years else int(datetime.datetime.now().year) - 1
         end_year = int(datetime.datetime.now().year) + 2
 
         new_links = []
@@ -56,6 +59,9 @@ class ESPN_Schedule_Scraper:
         return new_links
 
     def _add_season_type(self, links):  # Specific Helper load_schedule_links
+        """
+        adds the seasontype part for NBA games - 1=preseason, 2=regular season, 3=postseason
+        """
         new_links = []
         for link in links:
             regular_season_link = link + "seasontype/2"
@@ -91,28 +97,6 @@ class ESPN_Schedule_Scraper:
         sp = soup(a, 'html.parser')
         return sp
 
-    def rows_to_game_rows(self, rows):  # Top Level
-        game_rows = []
-        add_row = False
-        for row in rows:
-            if row.get_text() == 'Preseason':
-                add_row = False
-            elif row.get_text() in ['Regular Season', 'Postseason']:
-                add_row = True
-            elif add_row:
-                game_rows.append(row)
-        return game_rows
-
-    def season_str(self, schedule_link):  # Top Level
-        """
-        uses the schedule url to create the season string in format 2007-08
-        """
-        url_season = int(schedule_link.split('/season/')[1].split('/')[0])
-        season_start = url_season if league in ['NFL', 'NCAAF'] else url_season - 1
-        season_end = season_start + 1
-        season_str = f"{season_start}-{str(season_end)[2:]}"
-        return season_str
-
     def remove_preseason(self, rows):  # Top Level
         """
         NFL schedules show preseason on the same page as regular/postseason
@@ -130,6 +114,16 @@ class ESPN_Schedule_Scraper:
             if include_row:
                 new_rows.append(row)
         return new_rows
+
+    def season_str(self, schedule_link):  # Top Level
+        """
+        uses the schedule url to create the season string in format 2007-08
+        """
+        url_season = int(schedule_link.split('/season/')[1].split('/')[0])
+        season_start = url_season if league in ['NFL', 'NCAAF'] else url_season - 1
+        season_end = season_start + 1
+        season_str = f"{season_start}-{str(season_end)[2:]}"
+        return season_str
 
     def rows_to_data(self, rows, season_str):  # Top Level
         """
@@ -152,10 +146,6 @@ class ESPN_Schedule_Scraper:
         updates the df with new game id's in scraped data
         """
         existing_game_ids = [str(item) for item in list(df['Game_ID'])]
-        # for row in data:
-        #     game_id = row[0]
-        #     if str(game_id) not in existing_game_ids:
-        #         df.loc[len(df)] = row
         for game in data:
             game_id = game[0]
             if str(game_id) not in existing_game_ids:
@@ -168,7 +158,7 @@ class ESPN_Schedule_Scraper:
     def run(self, scrape_past_years=False):  # Run
         df = self.load_df()
         schedule_links = self.load_schedule_links(scrape_past_years)
-        for schedule_link in tqdm(schedule_links[2965:]):  # was 2945 for NCAAB
+        for schedule_link in tqdm(schedule_links[2975:]):  # was 2945 for NCAAB
             try:
                 sp = self.get_sp1(schedule_link)
                 table = sp.find('tbody', attrs={'class': 'Table__TBODY'})

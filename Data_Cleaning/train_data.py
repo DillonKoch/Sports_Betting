@@ -31,6 +31,9 @@ class Train_Data:
         self.odds_cols = []
         self.esb_cols = []
 
+    def load_espn_games(self):
+        pass
+
     def run(self, features, targets):  # Run
         # load, merge necessary datasets
         # specify target col, input cols
@@ -39,7 +42,9 @@ class Train_Data:
         # option to split into train/cv/test here in this class
 
         # TODO idea: just create two vectors of input data, one per team (switch order to fix home/away issue)
-        pass
+        X = None
+        y = None
+        return X, y
 
 
 if __name__ == '__main__':

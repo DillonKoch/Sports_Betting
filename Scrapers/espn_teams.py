@@ -16,6 +16,7 @@
 
 
 import copy
+import datetime
 import json
 import os
 import sys
@@ -77,33 +78,19 @@ class ESPN_Team_Scraper:
         conference_name = conference_name[0].get_text()
         return conference_name
 
-    def conference_teams(self, conference_section):  # Top Level
-        """
-        retrieves the conference teams from the HTML conference section
-        """
-        teams = conference_section.find_all('h2', attrs={'class': "di clr-gray-01 h5"})
-        teams = [team.get_text() for team in teams]
-        return teams
-
-    # def update_json(self, team_dict, conference_name, team):  # Top Level
-    #     """
-    #     updates the json file with a new team or team with new conference
-    #     """
-    #     existing_teams = list(team_dict['Teams'].keys())
-    #     if team not in existing_teams:
-    #         team_dict['Teams'][team] = {"Conference": conference_name, "Other Names": [], "Schedule": ""}
-    #     else:
-    #         team_dict['Teams'][team]["Conference"] = conference_name
-    #         team_dict['Teams'][team]['Schedule'] = ""
-    #     return team_dict
-
     def _get_link(self, links, link_chunk):  # Specific Helper  update_json
+        """
+        gets the ESPN link to a particular team page (e.g. stats, schedule, roster, etc.)
+        """
         eligible_links = [link for link in links if link_chunk in link]
         if len(eligible_links) > 0:
             return "https://www.espn.com" + eligible_links[0]
         return ""
 
     def update_json(self, team_dict, conference_name, team):  # Top Level
+        """
+        updates the json file with any changes found from scraping
+        """
         existing_teams = list(team_dict['Teams'].keys())
         team_name = team.find_all('h2')[0].get_text()
         if team_name not in existing_teams:
@@ -139,12 +126,11 @@ class ESPN_Team_Scraper:
             for team in teams:
                 team_dict = self.update_json(team_dict, conference_name, team)
 
-            # teams = self.conference_teams(conference_section)
-            # for team in teams:
-            #     team_dict = self.update_json(team_dict, conference_name, team)
-
+        # * saving new data or skipping, printing to log
+        print(datetime.datetime.now())
         if team_dict != original_team_dict:
             self.save_team_dict(league, team_dict)
+            print('saving new data...')
         else:
             print('no new data, not saving')
 

@@ -45,22 +45,35 @@ class SBO_Clean_Data:
         self.team_dict = self.load_team_dict()
 
     def load_team_dict(self):  # Top Level
+        """
+        loads dict with all the official team info from ESPN
+        """
         path = ROOT_PATH + f"/Data/Teams/{self.league}_Teams.json"
         with open(path) as f:
             team_dict = json.load(f)
         return team_dict
 
     def odds_path_to_season(self, odds_path):  # Top Level
+        """
+        finds the season string inside the odds df path (like 2020-21)
+        """
         filename = odds_path.split('/')[-1]
         season = re.findall(re.compile(r"\d{4}-\d{2}"), filename)[0]
         return season
 
     def odds_df_to_row_pairs(self, odds_df):  # Top Level
+        """
+        converts the odds dataframe into a list of row pairs, since each game has 2 rows in the df
+        """
         row_lists = odds_df.values.tolist()
         row_pairs = [(row_lists[i], row_lists[i + 1]) for i in range(0, len(row_lists), 2)]
         return row_pairs
 
     def check_game_in_january(self, row_pair):  # Top Level
+        """
+        returns True if the game is in January, else False
+        - used to change the year over in the date (change as soon as we see January)
+        """
         row1, _ = row_pair
         date1 = str(row1[0])
         return True if (len(date1) == 3) and (date1[0] == '1') else False
@@ -81,6 +94,9 @@ class SBO_Clean_Data:
         return dt_ob.strftime("%Y-%m-%d")
 
     def _home_away_row(self, row_pair):  # Global Helper
+        """
+        given a row pair, this method identifies the home and away row specifically
+        """
         row1, row2 = row_pair
         row1_vh = row1[2]
         row2_vh = row2[2]
@@ -90,7 +106,11 @@ class SBO_Clean_Data:
         away_row = row2 if row1_home else row1
         return home_row, away_row
 
-    def _find_team_name(self, name):
+    def _find_team_name(self, name):  # Helping Helper _home_away_neutral
+        """
+        finds the official ESPN team name for the scraped name
+        - if the name has no official name and isn't in 'Other Names', this raises an error
+        """
         official_names = list(self.team_dict['Teams'].keys())
         if name in official_names:
             return name
@@ -104,29 +124,56 @@ class SBO_Clean_Data:
         return name
 
     def _home_away_neutral(self, row_pair):  # Specific Helper row_pair_to_df
+        """
+        returns the home/away official name from the row pair, and whether the game is at a neutral location
+        """
         home_row, away_row = self._home_away_row(row_pair)
         home = self._find_team_name(home_row[3])
         away = self._find_team_name(away_row[3])
         is_neutral = 1 if home_row[2] == 'N' else 0
         return home, away, is_neutral
 
+    def _bet_val_to_val_ml(self, bet_val):  # Helping Helper _open_close_2h_bets
+        """
+        converts the bet_val from the odds df into either the val, None or the val, ML
+        - ML only shows up when the bet_val is in format 7-105
+        """
+        bet_val = str(bet_val).lower().replace('pk', '0')
+        if '-' in bet_val:
+            val, ml_val = bet_val.split('-')
+            ml_val = -float(ml_val)
+        else:
+            val = bet_val
+            ml_val = -110
+        return float(val), float(ml_val)
+
     def _open_close_2h_bets(self, row_pair, col_index):  # Specific Helper row_pair_to_df
-        # TODO need to account for bets with specified moneyline
+        """
+        given a row pair and col index, this method returns the O/U, lines for open/close/2h
+        """
+        # * returning None's if the line is "NL"
         home_row, away_row = self._home_away_row(row_pair)
         if 'nl' in [str(home_row[col_index]).lower(), str(away_row[col_index]).lower()]:
             return None, None, None, None, None, None
-        home_val = float(str(home_row[col_index]).lower().replace('pk', '0'))
-        away_val = float(str(away_row[col_index]).lower().replace('pk', '0'))
+
+        # * extracting home/away values and ML values, determining if home is over/under or not
+        home_val, home_ml_val = self._bet_val_to_val_ml(home_row[col_index])
+        away_val, away_ml_val = self._bet_val_to_val_ml(away_row[col_index])
         home_is_ou = home_val > away_val
+
+        # * setting O/U, home/away lines based on data from rows
         ou = home_val if home_is_ou else away_val
-        ou_ml = -110
+        ou_ml = home_ml_val if home_is_ou else away_ml_val
         hline = away_val if home_is_ou else (-1 * home_val)
-        hline_ml = -110
+        hline_ml = (-220 - away_ml_val) if home_is_ou else home_ml_val
         aline = (-1 * away_val) if home_is_ou else home_val
-        aline_ml = -110
+        aline_ml = away_ml_val if home_is_ou else (-220 - home_ml_val)
         return ou, ou_ml, hline, hline_ml, aline, aline_ml
 
     def _ml_bets(self, row_pair):  # Specific Helper row_pair_to_df
+        """
+        finding the ML bets in the row_pair
+        """
         home_row, away_row = self._home_away_row(row_pair)
         if 'nl' in [str(home_row[-2]).lower(), str(away_row[-2]).lower()]:
             return None, None
@@ -135,6 +182,9 @@ class SBO_Clean_Data:
         return home_ml, away_ml
 
     def row_pair_to_df(self, row_pair, df, season, seen_january):  # Top Level
+        """
+        adding data from the row pair (one game) to the df
+        """
         # date, rot, vh, team, 1st, 2nd, 3rd, 4th, final, open, close, ml, 2h
         date = self._date(row_pair, season, seen_january)
         home, away, is_neutral = self._home_away_neutral(row_pair)
@@ -156,7 +206,6 @@ class SBO_Clean_Data:
         odds_paths = sorted(listdir_fullpath(ROOT_PATH + f"/Data/Odds/{self.league}/"))
         for odds_path in tqdm(odds_paths):
             odds_df = pd.read_excel(odds_path)
-            # odds_df.replace('nl', 1000)
             season = self.odds_path_to_season(odds_path)
             row_pairs = self.odds_df_to_row_pairs(odds_df)
 
@@ -165,7 +214,6 @@ class SBO_Clean_Data:
                 seen_january = True if seen_january else self.check_game_in_january(row_pair)
                 df = self.row_pair_to_df(row_pair, df, season, seen_january)
 
-        # df.replace(1000, None)
         df.to_csv(ROOT_PATH + f"/Data/Odds/{self.league}.csv", index=False)
 
 
