@@ -268,47 +268,50 @@ class ESPN_Game_Scraper:
         df = self.add_new_df_cols(df)
 
         for i, row in df.iterrows():
-            print(f"{i}/{len(df)}")
-            # * if the game is already Final and scraped, move on
-            game_is_final = 'Final' in str(row['Final_Status'])
-            if game_is_final:
-                continue
+            try:
+                print(f"{i}/{len(df)}")
+                # * if the game is already Final and scraped, move on
+                game_is_final = 'Final' in str(row['Final_Status'])
+                if game_is_final:
+                    continue
 
-            # * If we've scraped pregame data, and the game's not over, move on
-            pregame_data_scraped = row['Home'] not in ['', None, np.nan]
-            today_past_game_date = self.check_today_past_game_date(list(row))
-            if pregame_data_scraped and (not today_past_game_date):
-                continue
+                # * If we've scraped pregame data, and the game's not over, move on
+                pregame_data_scraped = row['Home'] not in ['', None, np.nan]
+                today_past_game_date = self.check_today_past_game_date(list(row))
+                if pregame_data_scraped and (not today_past_game_date):
+                    continue
 
-            # * scraping now that we know we need to (starting row over from first 3 vals)
-            game_id = row['Game_ID']
-            summary_sp = self.scrape_summary_page(game_id)
-            final_status = self.final_status(summary_sp)
-            new_row = copy.deepcopy(list(row[:3]))
+                # * scraping now that we know we need to (starting row over from first 3 vals)
+                game_id = row['Game_ID']
+                summary_sp = self.scrape_summary_page(game_id)
+                final_status = self.final_status(summary_sp)
+                new_row = copy.deepcopy(list(row[:3]))
 
-            # * always scraping pregame data again
-            new_row = self.scrape_date(new_row, summary_sp)
-            new_row = self.scrape_teams(new_row, summary_sp)
-            new_row = self.scrape_team_records(new_row, summary_sp)
-            new_row = self.scrape_network(new_row, summary_sp)
-            new_row.append(final_status)
+                # * always scraping pregame data again
+                new_row = self.scrape_date(new_row, summary_sp)
+                new_row = self.scrape_teams(new_row, summary_sp)
+                new_row = self.scrape_team_records(new_row, summary_sp)
+                new_row = self.scrape_network(new_row, summary_sp)
+                new_row.append(final_status)
 
-            # * scraping stats if the game's over
-            today_past_game_date = self.check_today_past_game_date(new_row)
-            if today_past_game_date:
-                stats_sp = self.scrape_stats_page(game_id)
-                new_row = self.scrape_halves(new_row, stats_sp, home=True)
-                new_row = self.scrape_quarters_OT(new_row, stats_sp, home=True)
-                new_row = self.scrape_halves(new_row, stats_sp, home=False)
-                new_row = self.scrape_quarters_OT(new_row, stats_sp, home=False)
-                new_row = self.scrape_final_scores(new_row, stats_sp)
-                new_row = self.scrape_stats(new_row, stats_sp)
-            else:
-                num_cols = len(self.football_stats) if self.football_league else 14 + len(self.basketball_stats)
-                new_row.extend([None] * (16 + (num_cols * 2)))
+                # * scraping stats if the game's over
+                today_past_game_date = self.check_today_past_game_date(new_row)
+                if today_past_game_date:
+                    stats_sp = self.scrape_stats_page(game_id)
+                    new_row = self.scrape_halves(new_row, stats_sp, home=True)
+                    new_row = self.scrape_quarters_OT(new_row, stats_sp, home=True)
+                    new_row = self.scrape_halves(new_row, stats_sp, home=False)
+                    new_row = self.scrape_quarters_OT(new_row, stats_sp, home=False)
+                    new_row = self.scrape_final_scores(new_row, stats_sp)
+                    new_row = self.scrape_stats(new_row, stats_sp)
+                else:
+                    num_cols = len(self.football_stats) if self.football_league else 14 + len(self.basketball_stats)
+                    new_row.extend([None] * (16 + (num_cols * 2)))
 
-            df.loc[i] = new_row
-            df.to_csv(ROOT_PATH + f"/Data/ESPN/{self.league}/Games.csv", index=False)
+                df.loc[i] = new_row
+                df.to_csv(ROOT_PATH + f"/Data/ESPN/{self.league}/Games.csv", index=False)
+            except AttributeError:
+                print("ATTRIBUTE ERROR")
 
 
 if __name__ == '__main__':

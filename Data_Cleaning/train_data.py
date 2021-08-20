@@ -37,6 +37,8 @@ class Train_Data:
 
         # return y label, x training data
         # option to split into train/cv/test here in this class
+
+        # TODO idea: just create two vectors of input data, one per team (switch order to fix home/away issue)
         pass
 
 

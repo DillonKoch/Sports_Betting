@@ -67,13 +67,23 @@ class Match_Team:
         teams = list(set(list(df['Team'])))
         return teams
 
+    def _load_espn_team_names(self, league):  # Specific Helper load_team_names_all_data
+        path = ROOT_PATH + f"/Data/ESPN/{league}/Games.csv"
+        df = pd.read_csv(path)
+        df = df.loc[df['Home'].notnull()]
+        home_teams = list(df['Home'])
+        away_teams = list(df['Away'])
+        teams = list(set(home_teams + away_teams))
+        return teams
+
     def load_team_names_all_data(self, league):  # Top Level
         """
         loads the team names from all data sources scraped
         """
         # TODO add more specific helpers when I add more data sources
         odds_names = self._load_odds_team_names(league)
-        all_names = odds_names
+        espn_names = self._load_espn_team_names(league)
+        all_names = odds_names + espn_names
         return all_names
 
     def find_matches(self, existing_names, team_name):  # Top Level
