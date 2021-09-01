@@ -288,7 +288,12 @@ class ESPN_Game_Scraper:
 
                 # * scraping now that we know we need to (starting row over from first 3 vals)
                 game_id = row['Game_ID']
-                summary_sp = self.scrape_summary_page(game_id)
+                try:
+                    summary_sp = self.scrape_summary_page(game_id)
+                except Exception as e:
+                    print('ERROR SCRAPING SUMMARY')
+                    print(e)
+                    continue
                 final_status = self.final_status(summary_sp)
                 new_row = copy.deepcopy(list(row[:3]))
 
@@ -320,7 +325,7 @@ class ESPN_Game_Scraper:
 
 
 if __name__ == '__main__':
-    league = "NCAAF"
+    league = "NBA"
     x = ESPN_Game_Scraper(league)
     self = x
     x.run()

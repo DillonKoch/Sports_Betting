@@ -106,8 +106,8 @@ class ESPN_Clean_Games:
             for home_away in ['Home_', 'Away_']:
                 vals = list(games_df[home_away + dash_stat])
                 dash1_vals, dash2_vals = self._split_dash_vals(vals)
-                new_df[self.dash_stats[dash_stat][0]] = pd.Series(dash1_vals)
-                new_df[self.dash_stats[dash_stat][1]] = pd.Series(dash2_vals)
+                new_df[home_away + self.dash_stats[dash_stat][0]] = pd.Series(dash1_vals)
+                new_df[home_away + self.dash_stats[dash_stat][1]] = pd.Series(dash2_vals)
         return new_df
 
     def _poss_str_to_sec(self, poss_str):  # Specific Helper  add_time_stats
@@ -150,7 +150,7 @@ class ESPN_Clean_Games:
 
 
 if __name__ == '__main__':
-    league = "NCAAF"
+    league = "NFL"
     x = ESPN_Clean_Games(league)
     self = x
     new_df = x.run()

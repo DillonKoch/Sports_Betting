@@ -50,6 +50,7 @@ class Merge_Datasets:
             final_df = pd.merge(final_df, df, on=['Date', 'Team1', 'Team2', 'Season'])
             final_df.drop(['Team1', 'Team2'], axis=1, inplace=True)
 
+        final_df.sort_values(by=['Date'], inplace=True)
         final_df.to_csv(ROOT_PATH + f"/Data/{self.league}.csv", index=False)
         return final_df
 
