@@ -14,12 +14,13 @@
 # ==============================================================================
 
 
+import concurrent.futures
 import datetime
+import json
 import os
 import re
 import sys
 from os.path import abspath, dirname
-import json
 
 import pandas as pd
 from tqdm import tqdm
@@ -31,6 +32,12 @@ if ROOT_PATH not in sys.path:
 
 def listdir_fullpath(d):
     return [os.path.join(d, f) for f in os.listdir(d)]
+
+
+def multithread(func, func_args):  # Multithreading
+    with concurrent.futures.ThreadPoolExecutor() as executor:
+        result = list(tqdm(executor.map(func, func_args), total=len(func_args)))
+    return result
 
 
 class SBO_Clean_Data:
@@ -218,7 +225,10 @@ class SBO_Clean_Data:
 
 
 if __name__ == '__main__':
-    league = "NBA"
-    x = SBO_Clean_Data(league)
-    self = x
-    x.run()
+    leagues = ['NFL', 'NBA', 'NCAAF', 'NCAAB']
+
+    def run_one(league):
+        x = SBO_Clean_Data(league)
+        x.run()
+
+    run_one("NCAAB")
