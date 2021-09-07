@@ -218,7 +218,7 @@ class SBO_Clean_Data:
 
 
 if __name__ == '__main__':
-    league = "NCAAF"
+    league = "NBA"
     x = SBO_Clean_Data(league)
     self = x
     x.run()

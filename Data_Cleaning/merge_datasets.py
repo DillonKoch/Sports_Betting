@@ -60,7 +60,7 @@ class Merge_Datasets:
 
 
 if __name__ == '__main__':
-    league = "NFL"
+    league = "NCAAF"
     x = Merge_Datasets(league)
     espn_games = True
     odds = True
