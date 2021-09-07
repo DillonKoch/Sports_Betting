@@ -319,6 +319,7 @@ class ESPN_Game_Scraper:
                     new_row.extend([None] * (16 + (num_cols * 2)))
 
                 df.loc[i] = new_row
+                df = df.sort_values(by=['Date'])
                 df.to_csv(ROOT_PATH + f"/Data/ESPN/{self.league}/Games.csv", index=False)
             except AttributeError:
                 print("ATTRIBUTE ERROR")
