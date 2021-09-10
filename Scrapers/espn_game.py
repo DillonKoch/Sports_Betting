@@ -326,7 +326,7 @@ class ESPN_Game_Scraper:
 
 
 if __name__ == '__main__':
-    league = "NBA"
+    league = "NCAAB"
     x = ESPN_Game_Scraper(league)
     self = x
     x.run()
