@@ -95,7 +95,7 @@ class Model_Data:
                 model_data[target] = target_game[target]
         return model_data
 
-    def training_data(self, features, targets, past_games=5):  # Run
+    def training_data_avg(self, features, targets, past_games=5):  # Run
         data = pd.DataFrame(columns=features + targets)
         for game_dict in tqdm(self.game_dicts):
             home = game_dict['Home']
@@ -107,6 +107,9 @@ class Model_Data:
             if model_data_dict is not None:
                 data.loc[len(data)] = model_data_dict
         return data.dropna()
+
+    def training_data_raw(self, features, targets, past_games=5):
+        pass
 
 
 if __name__ == '__main__':

@@ -145,14 +145,18 @@ class SBO_Clean_Data:
         converts the bet_val from the odds df into either the val, None or the val, ML
         - ML only shows up when the bet_val is in format 7-105
         """
-        bet_val = str(bet_val).lower().replace('pk', '0')
-        if '-' in bet_val:
-            val, ml_val = bet_val.split('-')
-            ml_val = -float(ml_val)
-        else:
-            val = bet_val
-            ml_val = -110
-        return float(val), float(ml_val)
+        try:
+            bet_val = str(bet_val).lower().replace('pk', '0')
+            if '-' in bet_val:
+                val, ml_val = bet_val.split('-')
+                ml_val = -float(ml_val)
+            else:
+                val = bet_val
+                ml_val = -110
+            return float(val), float(ml_val)
+        except Exception as e:
+            print(e)
+            print(bet_val)
 
     def _open_close_2h_bets(self, row_pair, col_index):  # Specific Helper row_pair_to_df
         """
@@ -210,7 +214,7 @@ class SBO_Clean_Data:
 
     def run(self):  # Run
         df = pd.DataFrame(columns=self.df_cols)
-        odds_paths = sorted(listdir_fullpath(ROOT_PATH + f"/Data/Odds/{self.league}/"))
+        odds_paths = sorted(listdir_fullpath(ROOT_PATH + f"/Data/Odds/{self.league}/"))[-3:]
         for odds_path in tqdm(odds_paths):
             odds_df = pd.read_excel(odds_path)
             season = self.odds_path_to_season(odds_path)
