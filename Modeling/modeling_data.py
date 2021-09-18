@@ -168,4 +168,4 @@ if __name__ == '__main__':
     num_games = 5
     avg = False
     team = 'Minnesota Vikings'
-    X_train, X_test, y_train, y_test = x.run(features, targets)
+    X_train, X_test, y_train, y_test, scaler_y = x.run(features, targets)
