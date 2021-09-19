@@ -1,24 +1,36 @@
 # Sports Betting
 
-Explanatino of how this is a CS229 project, etc
-
+This project compares the effectiveness of multiple AI algorithms to predict the outcomes of football and basketball bets.
+The algorithms are trained on a database of team stats and odds for each game dating back to 2007.
 
 ## Contents
 
-sup  [supp](#Tests)
- 
+[1. Data Collection](#Data-Collection)
 
-## Purpose
-This project uses various AI methods to predict winning sports bets.
+[2. Data Cleaning](#Data-Cleaning)
+
+[3. Modeling](#Modeling)
+
+[4. Results](#Results)
+
+[5. Using this Repository](#Using-this-Repository)
+
 
 ## 1. Data Collection
 The data for this project has already been scraped. 
 However, there will be new data as more games are played.
 
-#### ESPN
-Explanation
+### Team Names (ESPN)
+One issue with using multiple data sources is that they may use different names to refer to the same team.
+For example, one source may use "LA Lakers" and another could use "Los Angeles Lakers".
+To merge these datasets together, it's necessary to use the same name.
 
-#### Sportsbook Reviews Online
+The [espn_teams.py](Scrapers/espn_teams.py) file scrapes the team names in each league from ESPN.
+These names are treated as the official names in this project, and different names from other sources are adapted to match the name from ESPN.
+
+
+
+### Sportsbook Reviews Online
 Explanation
 
 
@@ -45,9 +57,15 @@ Sentence explanation
 
 
 
+## 3. Modeling
 
 
-## Using this Repository
+
+## 4. Results
+
+
+
+## 5. Using this Repository
 - mention a conda environment file I need to upload
 
 
