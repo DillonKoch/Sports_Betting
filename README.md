@@ -13,8 +13,10 @@ The algorithms are trained on a database of team stats and odds for each game da
 
 [4. Results](#Results)
 
-[5. Using this Repository](#Using-this-Repository)
+[5. Using this Repository](#using)
 
+
+<a name="Data-Collection"></a>
 
 ## 1. Data Collection
 The data for this project has already been scraped. 
@@ -84,10 +86,12 @@ $ python Data_Cleaning/match_team.py
 
 
 
+<a name="using"></a>
+
 ## 5. Using this Repository
 - mention a conda environment file I need to upload
 
 
 ## Tests
 testingggg!
-[top](#Contents)
+<!-- [top](#Contents) -->
