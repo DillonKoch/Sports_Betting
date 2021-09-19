@@ -13,7 +13,7 @@ The algorithms are trained on a database of team stats and odds for each game da
 
 [4. Results](#Results)
 
-[5. Using this Repository](#using)
+[5. Using this Repository](#Using-this-Repository)
 
 
 <a name="Data-Collection"></a>
@@ -58,6 +58,8 @@ $ python Scrapers/sbo_odds.py
 ```
 
 
+<a name="Data-Cleaning"></a>
+
 ## 2. Data Cleaning
 
 ### Team Names
@@ -77,21 +79,21 @@ $ python Data_Cleaning/match_team.py
 
 ### Removing Data Leakage
 
+<a name="Modeling"></a>
 
 ## 3. Modeling
 
 
+<a name="Results"></a>
 
 ## 4. Results
 
 
 
-<a name="using"></a>
+<a name="Using-this-Repository"></a>
 
 ## 5. Using this Repository
 - mention a conda environment file I need to upload
 
 
-## Tests
-testingggg!
-<!-- [top](#Contents) -->
+### Tests
