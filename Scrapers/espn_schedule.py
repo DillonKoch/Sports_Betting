@@ -177,5 +177,5 @@ if __name__ == '__main__':
     league = "NCAAB"
     x = ESPN_Schedule_Scraper(league)
     self = x
-    scrape_past_years = True
+    scrape_past_years = False
     x.run(scrape_past_years)
