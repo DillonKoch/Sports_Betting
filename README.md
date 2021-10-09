@@ -45,7 +45,8 @@ The schedule data is stored in [NFL](Data/ESPN/NFL/Games.csv), [NBA](Data/ESPN/N
 Once the games are played, [espn_game.py](Scrapers/espn_game.py) will scrape statistics from the games.
 
 ```
-$ python Scrapers/espn_game.py
+# league options are NFL, NBA, NCAAF, NCAAB
+$ python Scrapers/espn_game.py --league=NFL
 ```
 This data is stored in the same files as the schedule: [NFL](Data/ESPN/NFL/Games.csv), [NBA](Data/ESPN/NBA/Games.csv), [NCAAF](Data/ESPN/NCAAF/Games.csv), and [NCAAB](Data/ESPN/NCAAB/Games.csv).
 
@@ -81,12 +82,22 @@ $ python Data_Cleaning/match_team.py
 ```
 
 ### ESPN
+Steps for cleaning raw ESPN data into new dataset:
+- Load raw data from league folders in [/Data/ESPN/](https://github.com/DillonKoch/Sports_Betting/tree/master/Data/ESPN).
+- Copy columns to new dataset that don't require cleaning
+- Clean raw team names using [Data/Teams](https://github.com/DillonKoch/Sports_Betting/tree/master/Data/Teams) JSON files
+- Clean stats with dashes (e.g. 13-16 Free Throws Made-Att) into multiple integer columns (e.g. 13 FT made, 16 FT attempted)
+- Clean time-related stats into pure seconds ("27:30" is cleaned to 1650)
+
 ```
 $ python Data_Cleaning/clean_espn.py
 ```
 
-
 ### Odds
+Steps for cleaning raw Odds data into new dataset:
+- stuff
+- stuff
+- more stuff
 
 ```
 $ python Data_Cleaning/clean_sbo.py

@@ -17,6 +17,7 @@ import copy
 import datetime
 import re
 import sys
+import argparse
 import time
 import urllib.request
 from os.path import abspath, dirname
@@ -325,8 +326,17 @@ class ESPN_Game_Scraper:
                 print("ATTRIBUTE ERROR")
 
 
+def parse_args():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--league', help="league to scrape games for")
+    args = parser.parse_args()
+    args_dict = vars(args)
+    league = args_dict['league']
+    return league
+
+
 if __name__ == '__main__':
-    league = "NCAAB"
+    league = parse_args()
     x = ESPN_Game_Scraper(league)
     self = x
     x.run()
