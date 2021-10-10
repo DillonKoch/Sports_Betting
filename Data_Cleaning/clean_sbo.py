@@ -214,14 +214,14 @@ class SBO_Clean_Data:
 
     def run(self):  # Run
         df = pd.DataFrame(columns=self.df_cols)
-        odds_paths = sorted(listdir_fullpath(ROOT_PATH + f"/Data/Odds/{self.league}/"))[-3:]
+        odds_paths = sorted(listdir_fullpath(ROOT_PATH + f"/Data/Odds/{self.league}/"))
         for odds_path in tqdm(odds_paths):
             odds_df = pd.read_excel(odds_path)
             season = self.odds_path_to_season(odds_path)
             row_pairs = self.odds_df_to_row_pairs(odds_df)
 
             seen_january = False
-            for row_pair in row_pairs:
+            for row_pair in tqdm(row_pairs):
                 seen_january = True if seen_january else self.check_game_in_january(row_pair)
                 df = self.row_pair_to_df(row_pair, df, season, seen_january)
 
@@ -235,4 +235,7 @@ if __name__ == '__main__':
         x = SBO_Clean_Data(league)
         x.run()
 
-    run_one("NCAAB")
+    for league in leagues:
+        # for league in ['NCAAB']:
+        print(league)
+        run_one(league)

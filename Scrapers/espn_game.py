@@ -316,7 +316,7 @@ class ESPN_Game_Scraper:
                     new_row = self.scrape_final_scores(new_row, stats_sp)
                     new_row = self.scrape_stats(new_row, stats_sp)
                 else:
-                    num_cols = len(self.football_stats) if self.football_league else 14 + len(self.basketball_stats)
+                    num_cols = len(self.football_stats) if self.football_league else len(self.basketball_stats)
                     new_row.extend([None] * (16 + (num_cols * 2)))
 
                 df.loc[i] = new_row
@@ -337,6 +337,7 @@ def parse_args():
 
 if __name__ == '__main__':
     league = parse_args()
+    # league = "NBA"
     x = ESPN_Game_Scraper(league)
     self = x
     x.run()

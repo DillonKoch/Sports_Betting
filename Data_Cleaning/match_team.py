@@ -124,7 +124,7 @@ class Match_Team:
         team_names_all_data = self.load_team_names_all_data(league)
         print(len(team_names_all_data))
         for i, team_name in enumerate(team_names_all_data):
-            print(i)
+            print(f'{i}/{len(team_names_all_data)}')
             if team_name not in existing_names:
                 print('-' * 50)
                 print(team_name)

@@ -158,7 +158,7 @@ class ESPN_Schedule_Scraper:
     def run(self, scrape_past_years=False):  # Run
         df = self.load_df()
         schedule_links = self.load_schedule_links(scrape_past_years)
-        for schedule_link in tqdm(schedule_links[3825:]):
+        for schedule_link in tqdm(schedule_links[-400:]):  # ! FIXME make sure this is right
             try:
                 sp = self.get_sp1(schedule_link)
                 table = sp.find('tbody', attrs={'class': 'Table__TBODY'})

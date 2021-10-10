@@ -13,6 +13,7 @@
 # ==============================================================================
 
 
+import copy
 import json
 import sys
 from os.path import abspath, dirname
@@ -78,6 +79,7 @@ class Clean_ESPN:
         """
         games_df = pd.read_csv(ROOT_PATH + f"/Data/ESPN/{self.league}/Games.csv")
         games_df = games_df.loc[games_df['Final_Status'].notnull()]
+        games_df.reset_index(inplace=True)
         return games_df
 
     def _official_name_dict(self):  # Specific Helper  add_home_away
@@ -185,6 +187,7 @@ if __name__ == '__main__':
 
     # running all
     for league in tqdm(['NFL', 'NBA', 'NCAAF', 'NCAAB']):
+        # for league in ['NCAAB']:
         x = Clean_ESPN(league)
         self = x
         new_df = x.run()
