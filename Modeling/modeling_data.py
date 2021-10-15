@@ -37,6 +37,12 @@ class Modeling_Data:
         self.league = league
         self.num_past_games = num_past_games
 
+    def _filter_dates(self, games_df, start_date, end_date):  # Specific Helper load_game_data
+        """
+        filters the game_df down to games within the date range
+        """
+        pass
+
     def _clean_games_df(self, games_df):  # Specific Helper  load_game_dicts
         """
         cleaning up the games_df before it's broken up into dicts
@@ -68,6 +74,7 @@ class Modeling_Data:
         loads all the games (rows) from /Data/{league}.csv into a list of dicts for each game
         """
         games_df = pd.read_csv(ROOT_PATH + f"/Data/{self.league}.csv")
+        # games_df = self.filter_dates(games_df)
         games_df = self._clean_games_df(games_df)
         games_df = self._games_feature_engineering(games_df)
         game_dicts = [{col: val for col, val in zip(list(games_df.columns), df_row)} for df_row in games_df.values.tolist()]
@@ -83,15 +90,27 @@ class Modeling_Data:
         quarters = ['H1Q', 'H2Q', 'H3Q', 'H4Q', 'A1Q', 'A2Q', 'A3Q', 'A4Q'] + overtimes + finals
         return halves if self.league == "NCAAB" else quarters
 
+    def _wrap_home_away(self, stat_list):  # Helping Helper _game_stats
+        home = ['Home_' + stat for stat in stat_list]
+        away = ['Away_' + stat for stat in stat_list]
+        return home + away
+
     def _game_stats(self):  # Specific Helper get_feature_cols
         """
         returning a list of team stats for the given league
         """
-        nfl_stats = ['Home_1st_Downs', 'Away_1st_Downs']
+        nfl_stats = ['1st_Downs', 'Passing_1st_downs', 'Rushing_1st_downs', '1st_downs_from_penalties',
+                     'Total_Plays', 'Total_Yards', 'Total_Drives', 'Yards_per_Play', 'Passing',
+                     'Yards_per_pass', 'Interceptions_thrown', 'Rushing', 'Rushing_Attempts',
+                     'Yards_per_rush', 'Turnovers', 'Fumbles_lost', 'Defensive_Special_Teams_TDs',
+                     '3rd_downs_converted', '3rd_downs_total', '4th_downs_converted', '4th_downs_total',
+                     'Passes_completed', 'Passes_attempted', 'Sacks', 'Sacks_Yards_Lost',
+                     'Red_Zone_Conversions', 'Red_Zone_Trips', 'Penalties', 'Penalty_Yards']
         ncaaf_stats = []
         nba_stats = []
         ncaab_stats = []
-        stat_dict = {"NFL": nfl_stats, "NBA": nba_stats, "NCAAF": ncaaf_stats, "NCAAB": ncaab_stats}
+        stat_dict = {"NFL": self._wrap_home_away(nfl_stats), "NBA": self._wrap_home_away(nba_stats),
+                     "NCAAF": self._wrap_home_away(ncaaf_stats), "NCAAB": self._wrap_home_away(ncaab_stats)}
         return stat_dict[self.league]
 
     def get_feature_cols(self):  # Top Level
@@ -200,7 +219,7 @@ class Modeling_Data:
         """
         Given the home/away team and game date, this will create a new_row_dict for ML training
         """
-        home, away, date, feature_cols, eligible_game_dict, game_dicts = args
+        home, away, date, feature_cols, eligible_game_dict, game_dicts, targets = args
         home_recent_games = self.query_recent_games(home, date, game_dicts)
         away_recent_games = self.query_recent_games(away, date, game_dicts)
 
@@ -209,6 +228,11 @@ class Modeling_Data:
         new_row_dict = self.add_targets(targets, eligible_game_dict, new_row_dict)
         return new_row_dict
 
+    def fill_na_values(self, df, feature_cols):  # Top Level
+        for feature_col in feature_cols:
+            df[feature_col].fillna(value=df[feature_col].mean(), inplace=True)
+        return df
+
     def run(self, targets):  # Run
         # * game dicts, feature_cols, eligible
         game_dicts = self.load_game_dicts()
@@ -216,15 +240,27 @@ class Modeling_Data:
         eligible_game_dicts = self.get_eligible_game_dicts(game_dicts)
 
         # * multithreading the process of creating a new row for the df based on every eligible_game_dict
-        args = [(egd['Home'], egd['Away'], egd['Date'], feature_cols, egd, game_dicts) for egd in eligible_game_dicts]
+        args = [(egd['Home'], egd['Away'], egd['Date'], feature_cols, egd, game_dicts, targets) for egd in eligible_game_dicts]
         new_row_dicts = multithread(self.build_new_row_dict, args)
 
         df = pd.DataFrame(new_row_dicts, columns=feature_cols + targets)
+        df = self.fill_na_values(df, feature_cols)
 
         return df
 
-    def future_game_to_new_row_dict(self, targets):  # Run
+    def upcoming_game_to_row_dict(self, date, home, away, targets):  # Run
+        """
+        creates a one-row df for an upcoming game that can be passed to the models
+        """
         game_dicts = self.load_game_dicts()
+        feature_cols = self.get_feature_cols()
+
+        home_recent_games = self.query_recent_games(home, date, game_dicts)
+        away_recent_games = self.query_recent_games(away, date, game_dicts)
+        new_row_dict = {feature_col: self.avg_feature_col(feature_col, home, away, home_recent_games, away_recent_games)
+                        for feature_col in feature_cols}
+        return new_row_dict
+
         # TODO assert that there's enough data for the two teams
         # TODO run build_new_row_dict with input info
 
@@ -235,3 +271,4 @@ if __name__ == '__main__':
     x = Modeling_Data(league)
     self = x
     df = x.run(targets)
+    df.to_csv("temp.csv")
