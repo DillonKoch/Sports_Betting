@@ -33,39 +33,51 @@ ROOT_PATH = dirname(dirname(abspath(__file__)))
 if ROOT_PATH not in sys.path:
     sys.path.append(ROOT_PATH)
 
-from Modeling.modeling_data import Modeling_Data
+from Modeling.modeling_parent import Modeling_Parent
 
 physical_devices = tf.config.experimental.list_physical_devices('GPU')
 if len(physical_devices) > 0:
     tf.config.experimental.set_memory_growth(physical_devices[0], True)
 
 
-class NFL_Spread:
+class NFL_Spread(Modeling_Parent):
     def __init__(self):
-        pass
+        self.league = "NFL"
 
-    def load_df(self):  # Top Level
-        modeling_data = Modeling_Data("NFL")
-        # df = modeling_data.run(['Home_Line_Close', 'Home_Covered'])
-        df = modeling_data.run(['Home_Covered'])
-        return df
+    def model_baseline_avg_points(self, avg_df, raw_df):  # Top Level
+        """
+        creating a baseline model that predicts a spread winner by predicting the final as
+        each team's avg points scored in the last 10 games
+        """
+        # TODO need option of having the ESPN ID in the avg_df to grab correct betting lines
+        # TODO can't just merge datasets - not all games have data for avg's
+        labels = avg_df['Home_Covered']
 
-    def balance_classes(self, df):  # Top Level
-        pos_class = df[df['Home_Covered'] == 1]
-        pos_class.reset_index(inplace=True, drop=True)
-        neg_class = df[df['Home_Covered'] == 0]
-        neg_class.reset_index(inplace=True, drop=True)
-        lower_class = min([len(pos_class), len(neg_class)])
-        balanced_df = pd.concat([pos_class.iloc[:lower_class], neg_class.iloc[:lower_class]])
-        balanced_df.reset_index(inplace=True, drop=True)
-        return balanced_df
+        home_pts = avg_df['Home_Final']
+        away_pts = avg_df['Away_Final']
+        home_diff = home_pts - away_pts
+        preds = home_diff > (-1 * avg_df['Home_Line_Close'])
 
-    def scale_cols(self, X):  # Top Level
-        scaler = StandardScaler()
-        X = scaler.fit_transform(X)
-        return X
+        self.plot_confusion_matrix(preds, labels, 'NFL Line')
+        self.evaluation_metrics(preds, labels)
+
+    def model_baseline_avg_point_differential(self, avg_df):  # Top Level
+        """
+        creating a baseline model to predict spread winners based on each team's
+        average point differential in the last 10 games
+        """
+        labels = avg_df['Home_Covered']
+        # if home_avg_diff - away_avg_diff is greater than Home_Spread, we predict 1
+        # avg_df['Home_pt_diff'] = avg_df['Home_Final'] - avg_df['Away_Final']
+        # avg_df['Away_pt_diff'] = avg_df['Away_Final']
+
+        # baseline_home_advantage = avg_df['Home_pt_diff'] - avg_df['Away_pt_diff']
+        # preds = baseline_home_advantage > (-1 * avg_df['Home_Spread_Close'])
 
     def model_xgboost(self, train_X, val_X, train_y, val_y):  # Top Level
+        """
+        modeling NFL spreads with XGBoost
+        """
         for n in range(100):
             print(n)
             model = XGBRegressor(n_estimators=n)
@@ -77,6 +89,9 @@ class NFL_Spread:
             # print(mae)
 
     def model_logistic_regression(self, train_X, val_X, train_y, val_y):  # Top Level
+        """
+        modeling NFL spreads with Logistic Regression
+        """
         clf = LogisticRegression(random_state=18, max_iter=1000)
         clf.fit(train_X, train_y)
         preds = clf.predict(val_X)
@@ -87,6 +102,9 @@ class NFL_Spread:
         return clf
 
     def model_neural_net(self, train_X, val_X, train_y, val_y):  # Top Level
+        """
+        modeling NFL spreads with a dense fully-connected neural net
+        """
         n, m = train_X.shape
         model = Sequential()
         model.add(Dense(50, input_dim=m, kernel_initializer='normal', activation='relu'))
@@ -117,20 +135,26 @@ class NFL_Spread:
         print(f"correct: {correct}, incorrect: {incorrect} ({round((100*(correct/(correct+incorrect))), 2)}% accuracy)")
 
     def run(self):  # Run
-        df = self.load_df()
-        df = self.balance_classes(df)
-        y = df['Home_Covered']
-        X = df[[col for col in list(df.columns) if col != 'Home_Covered']]
+        # * loading data, baseline models
+        avg_df = self.load_avg_df(['Home_Covered'])
+        raw_df = self.load_raw_df()
+        self.model_baseline_avg_points(avg_df, raw_df)
+        self.model_baseline_avg_point_differential(avg_df)
+
+        # * data prep, train test splitting
+        avg_df = self.balance_classes(avg_df, 'Home_Covered')
+        y = avg_df['Home_Covered']
+        X = avg_df[[col for col in list(avg_df.columns) if col != 'Home_Covered']]
         X = self.scale_cols(X)
-        # X = self.balance_X(X, y)
         train_X, val_X, train_y, val_y = train_test_split(X, y, random_state=18)  # TODO it's not splitting evenly across train/test
 
+        # * non-baseline modeling
         # ! UNCOMMENT THE TYPE OF MODEL TO RUN
         self.model_xgboost(train_X, val_X, train_y, val_y)
         # model = self.model_neural_net(train_X, val_X, train_y, val_y)
         # self.model_logistic_regression(train_X, val_X, train_y, val_y)
 
-        return df
+        return avg_df
 
 
 if __name__ == '__main__':

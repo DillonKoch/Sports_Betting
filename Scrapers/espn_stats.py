@@ -336,16 +336,21 @@ class ESPN_Stats:
         stats_df = self.make_load_df()
         new_game_ids, dates, home_teams, away_teams = self.load_new_game_ids_date_home_away(stats_df)
         for i, (new_game_id, date, home_team, away_team) in enumerate(zip(new_game_ids, dates, home_teams, away_teams)):
-            print(f"{i}/{len(new_game_ids)}")
-            stats_link = self.get_stats_link(new_game_id)
-            player_stats_dicts = self.scrape_stats(stats_link, new_game_id, date, home_team, away_team)
-            stats_df = self.update_csv(stats_df, player_stats_dicts, new_game_id)
+            try:
+                print(f"{i}/{len(new_game_ids)}")
+                stats_link = self.get_stats_link(new_game_id)
+                player_stats_dicts = self.scrape_stats(stats_link, new_game_id, date, home_team, away_team)
+                stats_df = self.update_csv(stats_df, player_stats_dicts, new_game_id)
+            except Exception as e:
+                print(e)
+                print("SLEEPING 10 SECONDS")
+                time.sleep(10)
 
         # TODO scrape football positions
 
 
 if __name__ == '__main__':
-    league = "NCAAF"
+    league = "NCAAB"
     x = ESPN_Stats(league)
     self = x
     x.run()
