@@ -44,35 +44,33 @@ class NFL_Spread(Modeling_Parent):
     def __init__(self):
         self.league = "NFL"
 
-    def model_baseline_avg_points(self, avg_df, raw_df):  # Top Level
+    def model_baseline_avg_points(self, avg_df_home_away_date, raw_df):  # Top Level
         """
         creating a baseline model that predicts a spread winner by predicting the final as
         each team's avg points scored in the last 10 games
         """
-        # TODO need option of having the ESPN ID in the avg_df to grab correct betting lines
-        # TODO can't just merge datasets - not all games have data for avg's
-        labels = avg_df['Home_Covered']
+        # * left merge avg_df and the Home_Line_Close
+        raw_df_home_line = raw_df[['Home', 'Away', 'Date', 'Home_Line_Close']]
+        df = pd.merge(avg_df_home_away_date, raw_df_home_line, how='left', on=['Home', 'Away', 'Date'])
 
-        home_pts = avg_df['Home_Final']
-        away_pts = avg_df['Away_Final']
+        # * make predictions, evaluate
+        labels = df['Home_Covered']
+        home_pts = df['Home_Final']
+        away_pts = df['Away_Final']
         home_diff = home_pts - away_pts
-        preds = home_diff > (-1 * avg_df['Home_Line_Close'])
+        preds = home_diff > (-1 * df['Home_Line_Close'])
 
         self.plot_confusion_matrix(preds, labels, 'NFL Line')
         self.evaluation_metrics(preds, labels)
+        self.spread_total_expected_return(preds, labels)
 
-    def model_baseline_avg_point_differential(self, avg_df):  # Top Level
+    def model_baseline_avg_point_differential(self, raw_df, avg_df_home_away_date):  # Top Level
         """
         creating a baseline model to predict spread winners based on each team's
         average point differential in the last 10 games
         """
-        labels = avg_df['Home_Covered']
-        # if home_avg_diff - away_avg_diff is greater than Home_Spread, we predict 1
-        # avg_df['Home_pt_diff'] = avg_df['Home_Final'] - avg_df['Away_Final']
-        # avg_df['Away_pt_diff'] = avg_df['Away_Final']
-
-        # baseline_home_advantage = avg_df['Home_pt_diff'] - avg_df['Away_pt_diff']
-        # preds = baseline_home_advantage > (-1 * avg_df['Home_Spread_Close'])
+        # TODO can do this once I add code for each team's points allowed, not just points scored!
+        pass
 
     def model_xgboost(self, train_X, val_X, train_y, val_y):  # Top Level
         """
@@ -136,25 +134,24 @@ class NFL_Spread(Modeling_Parent):
 
     def run(self):  # Run
         # * loading data, baseline models
-        avg_df = self.load_avg_df(['Home_Covered'])
+        avg_df_home_away_date = self.load_avg_df(['Home_Covered'], extra_cols=['Home', 'Away', 'Date'])
         raw_df = self.load_raw_df()
-        self.model_baseline_avg_points(avg_df, raw_df)
-        self.model_baseline_avg_point_differential(avg_df)
+        self.model_baseline_avg_points(avg_df_home_away_date, raw_df)
 
         # * data prep, train test splitting
-        avg_df = self.balance_classes(avg_df, 'Home_Covered')
-        y = avg_df['Home_Covered']
-        X = avg_df[[col for col in list(avg_df.columns) if col != 'Home_Covered']]
-        X = self.scale_cols(X)
-        train_X, val_X, train_y, val_y = train_test_split(X, y, random_state=18)  # TODO it's not splitting evenly across train/test
+        # avg_df = self.balance_classes(avg_df, 'Home_Covered')
+        # y = avg_df['Home_Covered']
+        # X = avg_df[[col for col in list(avg_df.columns) if col != 'Home_Covered']]
+        # X = self.scale_cols(X)
+        # train_X, val_X, train_y, val_y = train_test_split(X, y, random_state=18)  # TODO it's not splitting evenly across train/test
 
         # * non-baseline modeling
         # ! UNCOMMENT THE TYPE OF MODEL TO RUN
-        self.model_xgboost(train_X, val_X, train_y, val_y)
+        # self.model_xgboost(train_X, val_X, train_y, val_y)
         # model = self.model_neural_net(train_X, val_X, train_y, val_y)
         # self.model_logistic_regression(train_X, val_X, train_y, val_y)
 
-        return avg_df
+        # return avg_df
 
 
 if __name__ == '__main__':

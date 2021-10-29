@@ -219,12 +219,17 @@ class Modeling_Data:
         """
         Given the home/away team and game date, this will create a new_row_dict for ML training
         """
-        home, away, date, feature_cols, eligible_game_dict, game_dicts, targets = args
+        home, away, date, feature_cols, eligible_game_dict, game_dicts, targets, extra_cols = args
         home_recent_games = self.query_recent_games(home, date, game_dicts)
         away_recent_games = self.query_recent_games(away, date, game_dicts)
 
         new_row_dict = {feature_col: self.avg_feature_col(feature_col, home, away, home_recent_games, away_recent_games)
                         for feature_col in feature_cols}
+
+        # * if desired, adding extra cols to the new_row_dict
+        for col in extra_cols:
+            new_row_dict[col] = eligible_game_dict[col]
+
         new_row_dict = self.add_targets(targets, eligible_game_dict, new_row_dict)
         return new_row_dict
 
@@ -233,17 +238,17 @@ class Modeling_Data:
             df[feature_col].fillna(value=df[feature_col].mean(), inplace=True)
         return df
 
-    def run(self, targets):  # Run
+    def run(self, targets, extra_cols=[]):  # Run
         # * game dicts, feature_cols, eligible
         game_dicts = self.load_game_dicts()
         feature_cols = self.get_feature_cols()  # ! all feature cols can be queried numerically!
         eligible_game_dicts = self.get_eligible_game_dicts(game_dicts)
 
         # * multithreading the process of creating a new row for the df based on every eligible_game_dict
-        args = [(egd['Home'], egd['Away'], egd['Date'], feature_cols, egd, game_dicts, targets) for egd in eligible_game_dicts]
+        args = [(egd['Home'], egd['Away'], egd['Date'], feature_cols, egd, game_dicts, targets, extra_cols) for egd in eligible_game_dicts]
         new_row_dicts = multithread(self.build_new_row_dict, args)
 
-        df = pd.DataFrame(new_row_dicts, columns=feature_cols + targets)
+        df = pd.DataFrame(new_row_dicts, columns=extra_cols + feature_cols + targets)
         df = self.fill_na_values(df, feature_cols)
 
         return df
@@ -270,5 +275,6 @@ if __name__ == '__main__':
     targets = ['Home_ML', 'Home_Win', 'Home_Win_Margin', 'Home_Covered', 'Over_Covered']
     x = Modeling_Data(league)
     self = x
-    df = x.run(targets)
+    extra_cols = ['Home', 'Away', 'Date']
+    df = x.run(targets, extra_cols)
     df.to_csv("temp.csv")

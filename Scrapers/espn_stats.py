@@ -104,7 +104,9 @@ class ESPN_Stats:
         response = urllib.request.urlopen(request)
         a = response.read().decode('utf-8', 'ignore')
         sp = soup(a, 'html.parser')
+        print('start sleep')
         time.sleep(5)
+        print('end sleep')
         return sp
 
     def _sp_section_to_rows(self, sp_section):  # Global Helper
@@ -330,6 +332,8 @@ class ESPN_Stats:
         stats_df = pd.concat([stats_df, new_df])
         stats_df.replace("-", np.nan, inplace=True)
         stats_df.to_csv(self.stats_path, index=None)
+        print(str(len(stats_df)) + " rows")
+        print(str(list(stats_df['Date'])[-1]) + " last date")
         return stats_df
 
     def run(self):  # Run
@@ -350,7 +354,7 @@ class ESPN_Stats:
 
 
 if __name__ == '__main__':
-    league = "NCAAB"
+    league = "NBA"
     x = ESPN_Stats(league)
     self = x
     x.run()

@@ -44,13 +44,13 @@ class Modeling_Parent:
             df = df[df[col].notnull()]
         return df
 
-    def load_avg_df(self, targets):  # Top Level
+    def load_avg_df(self, targets, extra_cols=[]):  # Top Level
         """
         uses Modeling_Data() to build a dataset with avg stats from the last n games
         - used most frequently for modeling, since it has no data leakage
         """
         modeling_data = Modeling_Data(self.league)
-        df = modeling_data.run(targets)
+        df = modeling_data.run(targets, extra_cols)
         return df
 
     def balance_classes(self, df, target_col):  # Top Level
@@ -126,6 +126,17 @@ class Modeling_Parent:
 
         total_winnings = sum(winnings)
         num_bets = len(preds)
+        expected_return_on_dollar = total_winnings / num_bets
+        print(f"Won/Lost {total_winnings} on {num_bets} bets, for {expected_return_on_dollar} expected return per dollar")
+
+    def spread_total_expected_return(self, preds, labels):  # Top Level
+        """
+        computes the expected return for every dollar bet on spread/total bets at -110
+        """
+        num_bets = len(preds)
+        correct = (preds == labels).sum()
+        incorrect = num_bets - correct
+        total_winnings = (correct * (10 / 11)) - incorrect
         expected_return_on_dollar = total_winnings / num_bets
         print(f"Won/Lost {total_winnings} on {num_bets} bets, for {expected_return_on_dollar} expected return per dollar")
 
