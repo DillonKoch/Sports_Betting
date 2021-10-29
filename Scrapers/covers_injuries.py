@@ -122,8 +122,13 @@ class Covers_Injuries:
         return player_id, name, pos, status, status_datetime, description
 
     def run(self):  # Run
+        print('-' * 50)
+        print(self.scrape_ts)
+        print(self.league)
+
         sp = self.get_sp1(self.link)
         df = self.load_df()
+        print(f'starting with {len(df)} rows')
         section_sps = self.get_section_sps(sp)
         # * going through each team
         for section_sp in section_sps:
@@ -135,6 +140,8 @@ class Covers_Injuries:
                 new_row = [self.scrape_ts, team, player_id, name, pos, status, status_date, description]
                 df.loc[len(df)] = new_row
         df.to_csv(ROOT_PATH + f"/Data/Covers/{self.league}/Injuries.csv", index=False)
+        print(f'ending with {len(df)} rows')
+        print('-' * 50)
 
 
 if __name__ == '__main__':

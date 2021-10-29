@@ -49,23 +49,12 @@ class ESB_Odds:
                         "Under", "Under_ML", "Home_Spread", "Home_Spread_ML", "Away_Spread", "Away_Spread_ML",
                         "Home_ML", "Away_ML", "scraped_ts"]
 
-    def _get_scrape_ts(self):  # Global Helper
-        return datetime.datetime.now().strftime("%Y-%m-%d %H:%M")
-
-    def _get_soup_sp(self):  # Global Helper
-        """
-        saves the selenium window's current page as a beautifulsoup object
-        """
-        html = self.driver.page_source
-        sp = soup(html, 'html.parser')
-        return sp
-
     def start_selenium(self):  # Top Level
         """
         fires up the selenium window to start scraping
         """
         options = Options()
-        # options.headless = True
+        options.headless = True
         self.driver = webdriver.Firefox(executable_path=ROOT_PATH + "/Scrapers/geckodriver", options=options)
         time.sleep(1)
 
@@ -80,12 +69,29 @@ class ESB_Odds:
             df = pd.DataFrame(columns=self.df_cols)
         return df
 
+    def get_soup_sp(self):  # Top Level
+        """
+        saves the selenium window's current page as a beautifulsoup object
+        """
+        html = self.driver.page_source
+        sp = soup(html, 'html.parser')
+        return sp
+
     def get_date_events(self, sp):  # Top Level
+        """
+        Finding all the dates and events on the odds page
+        - every event's date is the most recent one in this list
+        """
         event_sp = sp.find_all('div', attrs={'class': 'row event'})[0]
         date_events = event_sp.find_all('div', attrs={'class': ['row event', 'col-xs-12 date']})
         return date_events
 
     def check_is_date(self, date_event, date):  # Top Level
+        """
+        checking if the date_event is a date (as opposed to an event)
+        if so, it returns the date, and found_date is True
+        otherwise, it returns the most recent date and found_date is False
+        """
         found_date = False
         date_comp = re.compile(
             r"^(January|February|March|April|June|July|August|September|October|November|December|) \d{1,2}, \d{4}$")
@@ -101,7 +107,7 @@ class ESB_Odds:
 
         return date, found_date
 
-    def _game_time(self, event):  # Helping Helper _date_event_to_row  Tested
+    def _game_time(self, event):  # Helping Helper _date_event_to_row
         """
         finds the game time of an event
         """
@@ -111,9 +117,10 @@ class ESB_Odds:
         match = re.search(time_comp, time)
         return match.group(0) if match is not None else None
 
-    def _teams(self, event):  # Helping Helper _date_event_to_row  Tested
+    def _teams(self, event):  # Helping Helper _date_event_to_row
         """
         finds the home and away teams in an event
+        - tie not used right now but is there in some sports
         """
         away = event.find_all('span', attrs={'id': ['firstTeamName', 'awayTeamName']})
         away = away[0].get_text()
@@ -123,7 +130,10 @@ class ESB_Odds:
         tie = tie[0].get_text() if len(tie) > 0 else None
         return home, away, tie
 
-    def _moneylines_match(self, text):  # Helping Helper _moneylines  Tested
+    def _moneylines_match(self, text):  # Helping Helper _moneylines
+        """
+        returns the moneyline if it matches the correct format, else None
+        """
         ml_comp = re.compile(r"(((\+|-)\d+)|(even))")
         match = re.match(ml_comp, text)
 
@@ -134,7 +144,7 @@ class ESB_Odds:
             ml = match.group(1)
             return ml
 
-    def _moneylines(self, event):  # Helping Helper _date_event_to_row  Tested
+    def _moneylines(self, event):  # Helping Helper _date_event_to_row
         """
         finds the home/away moneylines of an event
         - the html of ESB labels the totals as moneylines and moneylines as totals
@@ -154,7 +164,10 @@ class ESB_Odds:
         tie_ml = '100' if tie_ml == 'even' else tie_ml
         return mfloat(home_ml), mfloat(away_ml), mfloat(tie_ml)
 
-    def _spreads_match(self, text):  # Helping Helper _spreads  Tested
+    def _spreads_match(self, text):  # Helping Helper _spreads
+        """
+        returns the spread and its moneyline if it matches the correct format, else None
+        """
         spread_comp = re.compile(r"^((\+|-)?\d+\.?\d?)\((((\+|-)\d+)|(even))\)$")
         match = re.match(spread_comp, text)
         if match is None:
@@ -165,7 +178,7 @@ class ESB_Odds:
             spread_ml = match.group(3)
             return spread, spread_ml
 
-    def _spreads(self, event):  # Helping Helper _date_event_to_row  Tested
+    def _spreads(self, event):  # Helping Helper _date_event_to_row
         """
         finds the home/away spread/spread_ml of an event
         """
@@ -188,7 +201,10 @@ class ESB_Odds:
         return (mfloat(home_spread), mfloat(home_spread_ml), mfloat(away_spread), mfloat(away_spread_ml),
                 mfloat(tie_spread), mfloat(tie_spread_ml))
 
-    def _totals_match(self, text):  # Helping Helper _totals  Tested
+    def _totals_match(self, text):  # Helping Helper _totals
+        """
+        returns the total and its moneyline if it matches the correct format, else None
+        """
         total_comp = re.compile(r"(O|U) (\d+\.?\d?)\((((\+|-)\d+)|(even))\)")
         match = re.search(total_comp, text)
         if match is None:
@@ -220,6 +236,9 @@ class ESB_Odds:
         return mfloat(over), mfloat(over_ml), mfloat(under), mfloat(under_ml), mfloat(tie), mfloat(tie_ml)
 
     def date_event_to_row(self, date_event, date):  # Top Level
+        """
+        converts a date_event and date to a new row in the dataframe
+        """
         scraped_ts = datetime.datetime.now().strftime("%Y-%m-%d %H:%M")
 
         game_time = self._game_time(date_event)
@@ -236,15 +255,25 @@ class ESB_Odds:
         return row
 
     def save_df(self, df):  # Top Level
+        """
+        saves the dataframe to /Data/ESB/{league}/Game_Lines.csv
+        """
         df['datetime'] = pd.to_datetime(df['datetime'])
         df.to_csv(ROOT_PATH + f"/Data/ESB/{self.league}/Game_Lines.csv", index=False)
 
     def run(self):  # Run
+        # * printing for logs
+        print('-' * 50)
+        print(self.scrape_ts)
+        print(self.league)
+
+        # * starting selenium and loading df
         self.start_selenium()
         self.driver.get(self.link)
         df = self.load_df()
 
-        date_events = self.get_date_events(self._get_soup_sp())
+        # * going through dates and events to update df with current odds
+        date_events = self.get_date_events(self.get_soup_sp())
         date = None
         for date_event in date_events:
             date, found_date = self.check_is_date(date_event, date)
@@ -253,12 +282,15 @@ class ESB_Odds:
 
             row = self.date_event_to_row(date_event, date)
             df.loc[len(df)] = row
+
+        # * saving df, exiting selenium
         self.save_df(df)
         self.driver.quit()
+        print('-' * 50)
 
 
 if __name__ == '__main__':
-    league = "NCAAF"
-    x = ESB_Odds(league)
-    self = x
-    sp = x.run()
+    for league in ['NFL', 'NBA', 'NCAAF', 'NCAAB']:
+        x = ESB_Odds(league)
+        self = x
+        sp = x.run()
