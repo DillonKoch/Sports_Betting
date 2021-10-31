@@ -336,6 +336,15 @@ class ESPN_Stats:
         print(str(list(stats_df['Date'])[-1]) + " last date")
         return stats_df
 
+    def scrape_positions(self, stats_df):  # Top Level
+        """
+        scraping the positions from each player's player page since the position isn't on the stats page
+        """
+        # obtain player ID's with no position
+        # for each one, scrape the player page and get the position
+        # update the stats_df with the position
+        pass
+
     def run(self):  # Run
         stats_df = self.make_load_df()
         new_game_ids, dates, home_teams, away_teams = self.load_new_game_ids_date_home_away(stats_df)
@@ -351,10 +360,11 @@ class ESPN_Stats:
                 time.sleep(10)
 
         # TODO scrape football positions
+        self.scrape_positions(stats_df)
 
 
 if __name__ == '__main__':
-    league = "NBA"
+    league = "NCAAB"
     x = ESPN_Stats(league)
     self = x
     x.run()

@@ -48,6 +48,7 @@ class ESB_Odds:
         self.df_cols = ["Title", "datetime", "Game_Time", "Home", "Away", "Over", "Over_ML",
                         "Under", "Under_ML", "Home_Spread", "Home_Spread_ML", "Away_Spread", "Away_Spread_ML",
                         "Home_ML", "Away_ML", "scraped_ts"]
+        self.scrape_ts = datetime.datetime.now().strftime("%Y-%m-%d %H:%M")
 
     def start_selenium(self):  # Top Level
         """
@@ -239,8 +240,6 @@ class ESB_Odds:
         """
         converts a date_event and date to a new row in the dataframe
         """
-        scraped_ts = datetime.datetime.now().strftime("%Y-%m-%d %H:%M")
-
         game_time = self._game_time(date_event)
         home, away, _ = self._teams(date_event)
         home_ml, away_ml, _ = self._moneylines(date_event)
@@ -251,7 +250,7 @@ class ESB_Odds:
                over, over_ml, under, under_ml,
                home_spread, home_spread_ml, away_spread, away_spread_ml,
                home_ml, away_ml,
-               scraped_ts]
+               self.scrape_ts]
         return row
 
     def save_df(self, df):  # Top Level
