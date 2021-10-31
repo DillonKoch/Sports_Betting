@@ -13,7 +13,6 @@
 # ==============================================================================
 
 
-import copy
 import json
 import sys
 from os.path import abspath, dirname
