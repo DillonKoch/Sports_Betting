@@ -50,9 +50,9 @@ class ESPN_Players:
 
     def load_stats_df(self):  # Top Level
         """
-        loading the df from /Data/ESPN/{league}/Stats.csv
+        loading the df from /Data/ESPN/{league}/Player_Stats.csv
         """
-        path = ROOT_PATH + f"/Data/ESPN/{self.league}/Stats.csv"
+        path = ROOT_PATH + f"/Data/ESPN/{self.league}/Player_Stats.csv"
         df = pd.read_csv(path)
         return df
 

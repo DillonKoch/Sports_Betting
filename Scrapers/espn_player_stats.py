@@ -1,5 +1,5 @@
 # ==============================================================================
-# File: espn_stats.py
+# File: espn_player_stats.py
 # Project: allison
 # File Created: Sunday, 17th October 2021 9:25:04 pm
 # Author: Dillon Koch
@@ -27,11 +27,11 @@ if ROOT_PATH not in sys.path:
     sys.path.append(ROOT_PATH)
 
 
-class ESPN_Stats:
+class ESPN_Player_Stats:
     def __init__(self, league):
         # ! league/path setup
         self.league = league
-        self.stats_path = ROOT_PATH + f"/Data/ESPN/{self.league}/Stats.csv"
+        self.stats_path = ROOT_PATH + f"/Data/ESPN/{self.league}/Player_Stats.csv"
         self.football_league = league in ['NFL', 'NCAAF']
 
         # ! football stat columns
@@ -336,15 +336,6 @@ class ESPN_Stats:
         print(str(list(stats_df['Date'])[-1]) + " last date")
         return stats_df
 
-    def scrape_positions(self, stats_df):  # Top Level
-        """
-        scraping the positions from each player's player page since the position isn't on the stats page
-        """
-        # obtain player ID's with no position
-        # for each one, scrape the player page and get the position
-        # update the stats_df with the position
-        pass
-
     def run(self):  # Run
         stats_df = self.make_load_df()
         new_game_ids, dates, home_teams, away_teams = self.load_new_game_ids_date_home_away(stats_df)
@@ -359,12 +350,9 @@ class ESPN_Stats:
                 print("SLEEPING 10 SECONDS")
                 time.sleep(10)
 
-        # TODO scrape football positions
-        self.scrape_positions(stats_df)
-
 
 if __name__ == '__main__':
     league = "NCAAB"
-    x = ESPN_Stats(league)
+    x = ESPN_Player_Stats(league)
     self = x
     x.run()

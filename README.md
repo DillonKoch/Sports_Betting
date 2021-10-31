@@ -14,14 +14,10 @@ The algorithms are trained on a database of team stats and odds for each game da
 <a name="Data-Collection"></a>
 
 ## 1. Data Collection
-This project focuses on four leagues: NFL, NBA, NCAAF, NCAAB. 
+This project focuses on four leagues: NFL, NBA, NCAAF, NCAAB. The following sections describe how the data was collected.
 
-The following sections describe how the data was scraped, and how to continue scraping new data as more games are played.
 
 ### Team Names (ESPN)
-Different data sources often refer to the same team with different names, like "LA Lakers" and "Los Angeles Lakers".
-To merge these sources together, it's necessary for each dataset to use the same name.
-
 The [espn_teams.py](Scrapers/espn_teams.py) file scrapes team names from ESPN.
 These are treated as the official names in this project, and different names from other sources are adapted to match the ESPN names.
 
@@ -33,26 +29,15 @@ The official ESPN names are stored in JSON files in [Data/Teams](https://github.
 This program also scrapes ESPN links to the teams' schedules, statistics, rosters, and depth charts.
 
 ### Season Schedules (ESPN)
-Before scraping game data, we have to scrape the schedules with [espn_schedule.py](Scrapers/espn_schedule.py).
-This just collects the date of the game, teams playing, and other basic game information.
-The following script will scrape every schedule since 2007, including future games not yet played.
+[espn_schedule.py](Scrapers/espn_schedule.py) collects game dates, teams playing, and other basic game information.
+It will scrape every schedule since 2007, including future games not yet played.
 ```
 $ python Scrapers/espn_schedule.py
 ```
 The schedule data is stored in [NFL](Data/ESPN/NFL/Games.csv), [NBA](Data/ESPN/NBA/Games.csv), [NCAAF](Data/ESPN/NCAAF/Games.csv), and [NCAAB](Data/ESPN/NCAAB/Games.csv).
 
-### Game Results (ESPN)
-Once the games are played, [espn_game.py](Scrapers/espn_game.py) will scrape statistics from the games.
-
-```
-# league options are NFL, NBA, NCAAF, NCAAB
-$ python Scrapers/espn_game.py --league=NFL
-```
-This data is stored in the same files as the schedule: [NFL](Data/ESPN/NFL/Games.csv), [NBA](Data/ESPN/NBA/Games.csv), [NCAAF](Data/ESPN/NCAAF/Games.csv), and [NCAAB](Data/ESPN/NCAAB/Games.csv).
-
-
 ### Odds (Sportsbook Reviews Online)
-In addition to team names and game statistics, betting odds are also scraped with [sbo_odds.py](Scrapers/sbo_odds.py).
+Betting odds are scraped with [sbo_odds.py](Scrapers/sbo_odds.py).
 This data includes the odds for the three most popular bets: the [moneyline, spread, and over/under](https://www.mytopsportsbooks.com/guide/single-bets/).
 
 ```
@@ -60,7 +45,41 @@ $ python Scrapers/sbo_odds.py
 ```
 This script scrapes individual .xlsx files for each season, and saves them in folders for each league in the [Data/Odds](https://github.com/DillonKoch/Sports_Betting/tree/master/Data/Odds) folder.
 
-The files are merged and cleaned in the next section.
+### Game Results (ESPN)
+Once the games are played, [espn_game.py](Scrapers/espn_game.py) will scrape results and statistics from the games.
+
+```
+# league options are NFL, NBA, NCAAF, NCAAB
+$ python Scrapers/espn_game.py --league=NFL
+```
+This data is stored in the same files as the schedule: [NFL](Data/ESPN/NFL/Games.csv), [NBA](Data/ESPN/NBA/Games.csv), [NCAAF](Data/ESPN/NCAAF/Games.csv), and [NCAAB](Data/ESPN/NCAAB/Games.csv).
+
+### Team Rosters (ESPN)
+To incorporate individual player statistics into the training data, it's necessary to know which players play for each team.
+[espn_rosters.py](Scrapers/espn_rosters.py) will scrape the current roster for every team.
+```
+$ python Scrapers/espn_rosters.py
+```
+This data is stored in [NFL](Data/ESPN/NFL/Rosters.csv), [NBA](Data/ESPN/NBA/Rosters.csv), [NCAAF](Data/ESPN/NCAAF/Rosters.csv), and [NCAAB](Data/ESPN/NCAAB/Rosters.csv).
+
+### Player Data (ESPN)
+Basic information about each player is scraped from their bio on ESPN with [espn_players.py](Scrapers/espn_players.py).
+```
+$ python Scrapers/espn_players.py
+```
+This data is stored in [NFL](Data/ESPN/NFL/Players.csv), [NBA](Data/ESPN/NBA/Players.csv), [NCAAF](Data/ESPN/NCAAF/Players.csv), and [NCAAB](Data/ESPN/NCAAB/Players.csv).
+
+### Player Statistics (ESPN)
+Players' statistics from each game are scraped with [espn_player_stats.py](Scrapers/espn_player_stats.py).
+```
+$ python Scrapers/espn_stats.py
+```
+This data is stored in [NFL](Data/ESPN/NFL/Players.csv), [NBA](Data/ESPN/NBA/Players.csv), [NCAAF](Data/ESPN/NCAAF/Players.csv), and [NCAAB](Data/ESPN/NCAAB/Players.csv).
+### Player Injuries (Covers)
+```
+$ python Scrapers/covers_injuries.py
+```
+
 
 
 <a name="Data-Cleaning"></a>

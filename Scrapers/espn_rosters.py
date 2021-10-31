@@ -1,5 +1,5 @@
 # ==============================================================================
-# File: espn_roster.py
+# File: espn_rosters.py
 # Project: allison
 # File Created: Sunday, 31st October 2021 12:38:27 pm
 # Author: Dillon Koch
@@ -29,7 +29,7 @@ if ROOT_PATH not in sys.path:
     sys.path.append(ROOT_PATH)
 
 
-class ESPN_Roster:
+class ESPN_Rosters:
     def __init__(self, league):
         self.league = league
         self.df_cols = ['Team', 'Player', 'Player_ID', 'scrape_ts']
@@ -102,7 +102,7 @@ class ESPN_Roster:
 
 if __name__ == '__main__':
     league = "NFL"
-    for league in ['NBA', 'NCAAF', 'NCAAB']:
-        x = ESPN_Roster(league)
+    for league in ['NFL', 'NBA', 'NCAAF', 'NCAAB']:
+        x = ESPN_Rosters(league)
         self = x
         x.run()

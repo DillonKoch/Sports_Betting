@@ -182,12 +182,12 @@ class Modeling_Data:
                 return recent_games
         raise ValueError("Didn't find enough recent games!")
 
-    def _get_opp_feature_col(self, feature_col, home_feature):  # Specific Helper avg_feature_col
+    def _get_opp_feature_col(self, feature_col, home_feature):  # Helping Helper _avg_feature_col
         opp_feature_col = feature_col.replace("Home", "Away") if home_feature else feature_col.replace("Away", "Home")
         opp_feature_col = 'A' + opp_feature_col[1:] if home_feature else 'H' + opp_feature_col[1:]
         return opp_feature_col
 
-    def avg_feature_col(self, feature_col, home, away, home_recent_games, away_recent_games):  # Top Level
+    def _avg_feature_col(self, feature_col, home, away, home_recent_games, away_recent_games):  # Specific Helper build_new_row_dict
         """
         Computing the average value of 'feature_col' in recent games
         - inspects home/away recent games based on name of feature_col
@@ -207,7 +207,7 @@ class Modeling_Data:
 
         return round(sum(vals) / len(vals), 2)
 
-    def add_targets(self, targets, game_dict, new_row_dict):  # Top Level
+    def _add_targets(self, targets, game_dict, new_row_dict):  # Specific Helper build_new_row_dict
         """
         adding specified targets to the final df straight from the merged df
         """
@@ -223,14 +223,14 @@ class Modeling_Data:
         home_recent_games = self.query_recent_games(home, date, game_dicts)
         away_recent_games = self.query_recent_games(away, date, game_dicts)
 
-        new_row_dict = {feature_col: self.avg_feature_col(feature_col, home, away, home_recent_games, away_recent_games)
+        new_row_dict = {feature_col: self._avg_feature_col(feature_col, home, away, home_recent_games, away_recent_games)
                         for feature_col in feature_cols}
 
         # * if desired, adding extra cols to the new_row_dict
         for col in extra_cols:
             new_row_dict[col] = eligible_game_dict[col]
 
-        new_row_dict = self.add_targets(targets, eligible_game_dict, new_row_dict)
+        new_row_dict = self._add_targets(targets, eligible_game_dict, new_row_dict)
         return new_row_dict
 
     def fill_na_values(self, df, feature_cols):  # Top Level
@@ -253,7 +253,7 @@ class Modeling_Data:
 
         return df
 
-    def upcoming_game_to_row_dict(self, date, home, away, targets):  # Run
+    def upcoming_game_to_row_dict(self, home, away, date, feature_cols, targets, extra_cols):  # Run
         """
         creates a one-row df for an upcoming game that can be passed to the models
         """
