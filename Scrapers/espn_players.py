@@ -88,9 +88,7 @@ class ESPN_Players:
         response = urllib.request.urlopen(request)
         a = response.read().decode('utf-8', 'ignore')
         sp = soup(a, 'html.parser')
-        print('sleep start...', end='')
         time.sleep(5)
-        print('sleep end')
         return sp
 
     def _bio_item_to_player_dict(self, player_dict, bio_item):  # Specific Helper scrape_player_data
@@ -141,13 +139,6 @@ class ESPN_Players:
             count_name_sp = highlight_item.find('div', attrs={'class': 'clr-black'})
             count_name_spans = count_name_sp.find_all('span')
             count_name = ' '.join([item.get_text() for item in count_name_spans])
-
-            # spans = count_name_div.find_all('span')
-            # spans_text = ' '.join([item.get_text() for item in spans])
-            # count = spans[0].get_text().strip()
-            # highlight_name = spans[1].get_text().strip()
-            # count = highlight_item.find('span', attrs={'class':'h8 mr2 fw-bold'}).get_text().strip()
-            # highlight_name = None
             seasons = highlight_item.find('div', attrs={'class': 'n10 clr-gray-05'}).get_text().strip()
             highlights_str += count_name + ' ' + seasons + ', '
         return highlights_str[:-2]
@@ -201,11 +192,15 @@ class ESPN_Players:
         stats_df = self.load_stats_df()
         unscraped_player_ids = self.get_unscraped_player_ids(player_df, stats_df)
         for i, unscraped_player_id in enumerate(unscraped_player_ids):
-            print(f"{i}/{len(unscraped_player_ids)}")
-            player_dict = self.scrape_player_data(unscraped_player_id)
-            player_df = self.player_dict_to_df(unscraped_player_id, player_df, player_dict)
-            player_df.to_csv(f"{ROOT_PATH}/Data/ESPN/{self.league}/Players.csv", index=False)
-            print(player_dict['Name'])
+            try:
+                print(f"{i}/{len(unscraped_player_ids)}")
+                player_dict = self.scrape_player_data(unscraped_player_id)
+                player_df = self.player_dict_to_df(unscraped_player_id, player_df, player_dict)
+                player_df.to_csv(f"{ROOT_PATH}/Data/ESPN/{self.league}/Players.csv", index=False)
+                print(player_dict['Name'])
+            except Exception as e:
+                print(e)
+                print(f"{unscraped_player_id} failed")
 
 
 if __name__ == '__main__':
