@@ -15,6 +15,7 @@
 
 import json
 import sys
+import warnings
 from os.path import abspath, dirname
 
 import pandas as pd
@@ -23,6 +24,8 @@ from tqdm import tqdm
 ROOT_PATH = dirname(dirname(abspath(__file__)))
 if ROOT_PATH not in sys.path:
     sys.path.append(ROOT_PATH)
+
+warnings.filterwarnings("ignore")
 
 
 class Clean_ESPN:

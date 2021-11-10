@@ -20,6 +20,7 @@ import json
 import os
 import re
 import sys
+import warnings
 from os.path import abspath, dirname
 
 import pandas as pd
@@ -28,6 +29,9 @@ from tqdm import tqdm
 ROOT_PATH = dirname(dirname(abspath(__file__)))
 if ROOT_PATH not in sys.path:
     sys.path.append(ROOT_PATH)
+
+
+warnings.filterwarnings("ignore")
 
 
 def listdir_fullpath(d):
@@ -230,12 +234,6 @@ class SBO_Clean_Data:
 
 if __name__ == '__main__':
     leagues = ['NFL', 'NBA', 'NCAAF', 'NCAAB']
-
-    def run_one(league):
+    for league in leagues:
         x = SBO_Clean_Data(league)
         x.run()
-
-    for league in leagues:
-        # for league in ['NCAAB']:
-        print(league)
-        run_one(league)
