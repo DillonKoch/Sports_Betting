@@ -100,6 +100,9 @@ class ESPN_Game_Scraper:
         return sp
 
     def scrape_summary_page(self, game_id):  # Top Level
+        """
+        scrapes the sp from the game summary page
+        """
         league_link_str = self.link_dict[self.league]
         link = f"https://www.espn.com/{league_link_str}/game/_/gameId/{game_id}"
         print(link)

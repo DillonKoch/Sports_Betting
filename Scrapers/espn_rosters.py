@@ -74,6 +74,9 @@ class ESPN_Rosters:
         return sp
 
     def scrape_roster(self, roster_link, team, df):  # Top Level
+        """
+        scrapes the roster from each roster_link to a dataframe
+        """
         sp = self._get_sp1(roster_link)
         table_sp = sp.find('div', attrs={'class': 'Wrapper Card__Content'})
         player_sps = table_sp.find_all('tr', attrs={'class': 'Table__TR Table__TR--lg Table__even'})

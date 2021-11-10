@@ -42,7 +42,7 @@ class ESB_Odds:
         link_dict = {"NFL": "https://www.elitesportsbook.com/sports/pro-football-game-lines-betting/full-game.sbk",
                      "NBA": "https://www.elitesportsbook.com/sports/nba-betting/game-lines-full-game.sbk",
                      "NCAAF": "https://www.elitesportsbook.com/sports/ncaa-football-betting/game-lines-full-game.sbk",
-                     "NCAAB": ""}  # TODO add link
+                     "NCAAB": "https://www.elitesportsbook.com/sports/ncaa-men's-basketball-betting/game-lines-full-game.sbk"}
         self.link = link_dict[league]
 
         self.df_cols = ["Title", "datetime", "Game_Time", "Home", "Away", "Over", "Over_ML",

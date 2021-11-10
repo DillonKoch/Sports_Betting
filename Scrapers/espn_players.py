@@ -92,6 +92,9 @@ class ESPN_Players:
         return sp
 
     def _bio_item_to_player_dict(self, player_dict, bio_item):  # Specific Helper scrape_player_data
+        """
+        updating the player_dict with info from the player's bio
+        """
         bio_label = bio_item.find('span', attrs={'class': 'Bio__Label ttu mr2 dib clr-gray-04'})
         bio_value = bio_item.find('span', attrs={'class': 'dib flex-uniform mr3 clr-gray-01'})
         if bio_label is not None:
@@ -112,11 +115,17 @@ class ESPN_Players:
         return number
 
     def _name(self, header_sp):  # Specific Helper scrape_player_data
+        """
+        scraping a player's full name
+        """
         first_name = header_sp.find('span', attrs={'class': 'truncate min-w-0 fw-light'}).get_text().strip()
         last_name = header_sp.find('span', attrs={'class': 'truncate min-w-0'}).get_text().strip()
         return first_name + ' ' + last_name
 
     def _team_history(self, sp):  # Specific Helper scrape_player_data
+        """
+        scraping all the teams a player has played for
+        """
         history_sp = sp.find('div', attrs={'class': 'Wrapper Card__Content Career__History__Content'})
         if history_sp is None:
             return None
@@ -129,6 +138,9 @@ class ESPN_Players:
         return history_str[:-2]
 
     def _career_highlights(self, sp):  # Specific Helper scrape_player_data
+        """
+        scraping a player's career highlights (stuff like MVP, ROY, etc)
+        """
         highlights_sp = sp.find('div', attrs={'class': 'Wrapper Card__Content Career__Highlights__Content'})
         if highlights_sp is None:
             return None
@@ -166,6 +178,7 @@ class ESPN_Players:
 
     def _draft_info(self, draft_str):  # Specific Helper player_dict_to_df
         """
+        retrieving a player's draft info from the draft_str, if necessary
         """
         if draft_str is None:
             return (None, None, None, None)
@@ -177,6 +190,9 @@ class ESPN_Players:
             return (None, None, None, None)
 
     def player_dict_to_df(self, player_id, player_df, player_dict):  # Top Level
+        """
+        inserting a player_dict into the df
+        """
         height, weight = player_dict['HT/WT'].split(',') if player_dict['HT/WT'] is not None else (None, None)
         draft_year, draft_round, draft_pick, draft_team = self._draft_info(player_dict['Draft Info'])
         new_row = [player_id, player_dict['Name'], player_dict['Team'], player_dict['Number'],
@@ -204,11 +220,6 @@ class ESPN_Players:
 
 
 if __name__ == '__main__':
-    league = "NFL"
-    x = ESPN_Players(league)
-    self = x
-    player_df = x.load_player_df()
-    player_id = '112'
-    player_id = '6430'
-    # x.scrape_player_data(player_id)
-    x.run()
+    for league in ["NFL", "NBA", "NCAAF", "NCAAB"]:
+        x = ESPN_Players(league)
+        x.run()

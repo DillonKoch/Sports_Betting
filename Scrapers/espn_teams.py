@@ -15,8 +15,6 @@
 # ==============================================================================
 
 
-import copy
-import datetime
 import json
 import os
 import sys
@@ -32,28 +30,29 @@ if ROOT_PATH not in sys.path:
 
 
 class ESPN_Team_Scraper:
-    def __init__(self):
+    def __init__(self, league):
+        self.league = league
         self.url_base = "https://www.espn.com/"
         self.url_endings = {"NFL": "nfl/teams",
                             "NBA": "nba/teams",
                             "NCAAF": "college-football/teams",
                             "NCAAB": "mens-college-basketball/teams"}
+        self.link = self.url_base + self.url_endings[self.league]
+        self.json_path = ROOT_PATH + f"/Data/Teams/{self.league}_Teams.json"
 
-    def create_json(self, league):  # Top Level
+    def create_json(self):  # Top Level
         """
         creates a blank teams json file if it doesn't exist
         """
-        path = ROOT_PATH + f"/Data/Teams/{league}_Teams.json"
-        if not os.path.exists(path):
-            with open(path, 'w') as f:
+        if not os.path.exists(self.json_path):
+            with open(self.json_path, 'w') as f:
                 json.dump({}, f)
 
-    def load_team_dict(self, league):  # Top Level
+    def load_team_dict(self):  # Top Level
         """
         loads the json dictionary from /Data/Teams/
         """
-        path = ROOT_PATH + f"/Data/Teams/{league}_Teams.json"
-        with open(path) as f:
+        with open(self.json_path) as f:
             team_dict = json.load(f)
         return team_dict
 
@@ -104,21 +103,18 @@ class ESPN_Team_Scraper:
         team_dict['Teams'][team_name]['Depth Chart'] = self._get_link(links, '/depth/')
         return team_dict
 
-    def save_team_dict(self, league, team_dict):  # Top Level
+    def save_team_dict(self, team_dict):  # Top Level
         """
         saves the updated team dict to /Data/Teams
         """
-        path = ROOT_PATH + f"/Data/Teams/{league}_Teams.json"
-        with open(path, 'w') as f:
+        with open(self.json_path, 'w') as f:
             json.dump(team_dict, f)
 
-    def run(self, league):  # Run
-        print(league)
-        self.create_json(league)
-        team_dict = self.load_team_dict(league)
-        original_team_dict = copy.deepcopy(team_dict)
-        link = self.url_base + self.url_endings[league]
-        sp = self.get_sp1(link)
+    def run(self):  # Run
+        print(self.league)
+        self.create_json()
+        team_dict = self.load_team_dict()
+        sp = self.get_sp1(self.link)
         conference_sections = sp.find_all('div', attrs={'class': 'mt7'})
         for conference_section in conference_sections:
             conference_name = self.conference_name(conference_section)
@@ -126,17 +122,10 @@ class ESPN_Team_Scraper:
             for team in teams:
                 team_dict = self.update_json(team_dict, conference_name, team)
 
-        # * saving new data or skipping, printing to log
-        print(datetime.datetime.now())
-        if team_dict != original_team_dict:
-            self.save_team_dict(league, team_dict)
-            print('saving new data...')
-        else:
-            print('no new data, not saving')
+        self.save_team_dict(team_dict)
 
 
 if __name__ == '__main__':
-    x = ESPN_Team_Scraper()
-    self = x
     for league in ["NFL", "NCAAF", "NBA", "NCAAB"]:
-        x.run(league)
+        x = ESPN_Team_Scraper(league)
+        x.run()
