@@ -235,5 +235,8 @@ class SBO_Clean_Data:
 if __name__ == '__main__':
     leagues = ['NFL', 'NBA', 'NCAAF', 'NCAAB']
     for league in leagues:
+        print('-' * 50)
+        print(league)
+        print('-' * 50)
         x = SBO_Clean_Data(league)
         x.run()

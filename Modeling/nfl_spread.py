@@ -15,19 +15,17 @@
 import sys
 from os.path import abspath, dirname
 
+import numpy as np
 import pandas as pd
 import tensorflow as tf
 from keras.layers import Dense
 from keras.models import Sequential
 from sklearn.linear_model import LogisticRegression
-from sklearn.metrics import mean_absolute_error
-from sklearn.model_selection import train_test_split
-from sklearn.preprocessing import StandardScaler
 from tensorflow import keras
-from xgboost import XGBRegressor
-import wandb
 from wandb.keras import WandbCallback
+from xgboost import XGBRegressor
 
+import wandb
 
 ROOT_PATH = dirname(dirname(abspath(__file__)))
 if ROOT_PATH not in sys.path:
@@ -43,6 +41,7 @@ if len(physical_devices) > 0:
 class NFL_Spread(Modeling_Parent):
     def __init__(self):
         self.league = "NFL"
+        self.confusion_matrix_title = "NFL Spread"
 
     def model_baseline_avg_points(self, avg_df_home_away_date, raw_df):  # Top Level
         """
@@ -60,7 +59,7 @@ class NFL_Spread(Modeling_Parent):
         home_diff = home_pts - away_pts
         preds = home_diff > (-1 * df['Home_Line_Close'])
 
-        self.plot_confusion_matrix(preds, labels, 'NFL Line')
+        self.plot_confusion_matrix(preds, labels, self.confusion_matrix_title)
         self.evaluation_metrics(preds, labels)
         self.spread_total_expected_return(preds, labels)
 
@@ -76,28 +75,36 @@ class NFL_Spread(Modeling_Parent):
         """
         modeling NFL spreads with XGBoost
         """
-        for n in range(100):
+        print('-' * 50)
+        print("XGBOOST")
+        print('-' * 50)
+
+        best_model = None
+        best_total_winnings = -np.inf
+        for n in range(25):
             print(n)
             model = XGBRegressor(n_estimators=n)
             model.fit(train_X, train_y)
             preds = model.predict(val_X)
-            binary_preds = preds > 0.5
-            self._compare_binary_preds(binary_preds, val_y)
-            mae = mean_absolute_error(preds, val_y)
-            # print(mae)
+            preds = np.array([item > 0.5 for item in preds])
+            self.plot_confusion_matrix(preds, val_y, self.confusion_matrix_title)
+            self.evaluation_metrics(preds, val_y)
+            total_winnings = self.spread_total_expected_return(preds, val_y)
+            if (best_model is None) or (total_winnings > best_total_winnings):
+                best_model = model
+                best_total_winnings = total_winnings
+
+        print(f"BEST XGBOOST TOTAL WINNINGS: {best_total_winnings}")
+        return best_model
 
     def model_logistic_regression(self, train_X, val_X, train_y, val_y):  # Top Level
-        """
-        modeling NFL spreads with Logistic Regression
-        """
-        clf = LogisticRegression(random_state=18, max_iter=1000)
-        clf.fit(train_X, train_y)
-        preds = clf.predict(val_X)
-        binary_preds = preds > 0
-        self._compare_binary_preds(binary_preds, val_y)
-        mae = mean_absolute_error(preds, val_y)
-        print(mae)
-        return clf
+        model = LogisticRegression(random_state=18, max_iter=10000)
+        model.fit(train_X, train_y)
+        preds = model.predict(val_X)
+        self.plot_confusion_matrix(preds, val_y, self.confusion_matrix_title)
+        self.evaluation_metrics(preds, val_y)
+        self.spread_total_expected_return(preds, val_y)
+        return model
 
     def model_neural_net(self, train_X, val_X, train_y, val_y):  # Top Level
         """
@@ -115,31 +122,37 @@ class NFL_Spread(Modeling_Parent):
         wandb.init(project='sports-betting', entity='dillonkoch')
         config = wandb.config
         config.learning_rate = 0.0001
-        model.fit(train_X, train_y, validation_data=(val_X, val_y), epochs=30, callbacks=[WandbCallback()])
+        model.fit(train_X, train_y, validation_data=(val_X, val_y), epochs=130, callbacks=[WandbCallback()])
 
         preds = model.predict(val_X)
-        binary_preds = preds > 0.5
-        self._compare_binary_preds(binary_preds, val_y)
-        return model
+        preds = np.array([item[0] > 0.5 for item in preds])
+        self.plot_confusion_matrix(preds, val_y, self.confusion_matrix_title)
+        self.evaluation_metrics(preds, val_y)
+        self.spread_total_expected_return(preds, val_y)
 
-    def _compare_binary_preds(self, binary_preds, val_y):  # Global Helper
-        correct = 0
-        incorrect = 0
-        for binary_pred, val in zip(binary_preds, val_y):
-            if binary_pred == val:
-                correct += 1
-            else:
-                incorrect += 1
-        print(f"correct: {correct}, incorrect: {incorrect} ({round((100*(correct/(correct+incorrect))), 2)}% accuracy)")
+        return model
 
     def run(self):  # Run
         print("-" * 50)
         print("NFL SPREAD")
         print("-" * 50)
+
         # * loading data, baseline models
-        avg_df_home_away_date = self.load_avg_df(['Home_Covered'], extra_cols=['Home', 'Away', 'Date'])
         raw_df = self.load_raw_df()
-        self.model_baseline_avg_points(avg_df_home_away_date, raw_df)
+        avg_df = self.load_avg_df(['Home_Covered'])
+        avg_df_home_away_date = self.load_avg_df(['Home_Covered', 'Home', 'Away', 'Date'])
+
+        # * balancing classes, splitting
+        avg_df = self.balance_classes(avg_df, 'Home_Covered')
+        train_X, val_X, train_y, val_y = self.split_avg_df(avg_df, ['Home_Covered'])
+        train_y = train_y.values.ravel()
+        val_y = val_y.values.ravel()
+
+        # * Training Models
+        # self.model_baseline_avg_points(avg_df_home_away_date, raw_df)
+        # self.model_logistic_regression(train_X, val_X, train_y, val_y)
+        # self.model_xgboost(train_X, val_X, train_y, val_y)
+        self.model_neural_net(train_X, val_X, train_y, val_y)
 
         # * data prep, train test splitting
         # avg_df = self.balance_classes(avg_df, 'Home_Covered')

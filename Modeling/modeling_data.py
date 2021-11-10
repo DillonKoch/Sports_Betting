@@ -120,6 +120,7 @@ class Modeling_Data:
         feature_cols = []
         feature_cols += self._quarters_halves_final()
         feature_cols += self._game_stats()
+        # TODO probably where I incorporate player stats
         return feature_cols
 
     def _team_eligible_index(self, game_dicts, team):  # Specific Helper get_eligible_game_dicts

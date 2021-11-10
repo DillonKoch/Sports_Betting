@@ -147,6 +147,7 @@ class Modeling_Parent:
         total_winnings = (correct * (10 / 11)) - incorrect
         expected_return_on_dollar = total_winnings / num_bets
         print(f"Won/Lost {round(total_winnings,2)} on {num_bets} bets, for {round(expected_return_on_dollar, 2)} expected return per dollar")
+        return total_winnings
 
     def run(self):  # Run
         pass

@@ -17,7 +17,6 @@ import sys
 from os.path import abspath, dirname
 
 import numpy as np
-import tensorflow as tf
 from keras.layers import Dense
 from keras.models import Sequential
 from sklearn.linear_model import LogisticRegression
