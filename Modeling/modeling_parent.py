@@ -16,10 +16,11 @@ import sys
 from os.path import abspath, dirname
 
 import pandas as pd
-from sklearn.preprocessing import StandardScaler
+import seaborn as sns
 from sklearn.metrics import (accuracy_score, confusion_matrix, f1_score,
                              mean_absolute_error)
-import seaborn as sns
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import StandardScaler
 
 ROOT_PATH = dirname(dirname(abspath(__file__)))
 if ROOT_PATH not in sys.path:
@@ -48,10 +49,17 @@ class Modeling_Parent:
         """
         uses Modeling_Data() to build a dataset with avg stats from the last n games
         - used most frequently for modeling, since it has no data leakage
+        - eligible targets: "Home Covered",
         """
         modeling_data = Modeling_Data(self.league)
         df = modeling_data.run(targets, extra_cols)
         return df
+
+    def split_avg_df(self, avg_df, targets):  # Top Level
+        y = avg_df[targets]
+        X = avg_df[[col for col in list(avg_df.columns) if col not in targets]]
+        train_X, val_X, train_y, val_y = train_test_split(X, y, random_state=18)
+        return train_X, val_X, train_y, val_y
 
     def balance_classes(self, df, target_col):  # Top Level
         """
@@ -127,7 +135,7 @@ class Modeling_Parent:
         total_winnings = sum(winnings)
         num_bets = len(preds)
         expected_return_on_dollar = total_winnings / num_bets
-        print(f"Won/Lost {total_winnings} on {num_bets} bets, for {expected_return_on_dollar} expected return per dollar")
+        print(f"Won/Lost {round(total_winnings,2)} on {num_bets} bets, for {round(expected_return_on_dollar,2)} expected return per dollar")
 
     def spread_total_expected_return(self, preds, labels):  # Top Level
         """
@@ -138,7 +146,7 @@ class Modeling_Parent:
         incorrect = num_bets - correct
         total_winnings = (correct * (10 / 11)) - incorrect
         expected_return_on_dollar = total_winnings / num_bets
-        print(f"Won/Lost {total_winnings} on {num_bets} bets, for {expected_return_on_dollar} expected return per dollar")
+        print(f"Won/Lost {round(total_winnings,2)} on {num_bets} bets, for {round(expected_return_on_dollar, 2)} expected return per dollar")
 
     def run(self):  # Run
         pass

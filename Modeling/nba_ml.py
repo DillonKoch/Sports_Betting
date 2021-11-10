@@ -40,6 +40,9 @@ class NBA_ML(Modeling_Parent):
         self.moneyline_expected_return(preds, labels, home_mls, away_mls)
 
     def run(self):  # Run
+        print("-" * 50)
+        print("NBA MONEYLINE")
+        print("-" * 50)
         raw_df = self.load_raw_df()
 
         self.model_baseline_favored_team(raw_df)

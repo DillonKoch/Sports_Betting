@@ -133,6 +133,9 @@ class NFL_Spread(Modeling_Parent):
         print(f"correct: {correct}, incorrect: {incorrect} ({round((100*(correct/(correct+incorrect))), 2)}% accuracy)")
 
     def run(self):  # Run
+        print("-" * 50)
+        print("NFL SPREAD")
+        print("-" * 50)
         # * loading data, baseline models
         avg_df_home_away_date = self.load_avg_df(['Home_Covered'], extra_cols=['Home', 'Away', 'Date'])
         raw_df = self.load_raw_df()

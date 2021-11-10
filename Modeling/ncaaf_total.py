@@ -45,6 +45,9 @@ class NCAAF_Total(Modeling_Parent):
         self.spread_total_expected_return(preds, labels)
 
     def run(self):  # Run
+        print("-" * 50)
+        print("NCAAF TOTAL")
+        print("-" * 50)
         # * loading data, baseline models
         avg_df_home_away_date = self.load_avg_df(['Over_Covered'], extra_cols=['Home', 'Away', 'Date'])
         raw_df = self.load_raw_df()
