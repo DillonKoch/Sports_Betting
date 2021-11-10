@@ -16,77 +16,48 @@ The algorithms are trained on a database of team stats and odds for each game da
 ## 1. Data Collection
 This project focuses on four leagues: NFL, NBA, NCAAF, NCAAB. The following sections describe how the data was collected.
 
+### ESPN
+- [espn_teams.py](/Scrapers/espn_teams.py) scrapes team names/information and saves to one JSON file per league in [/Data/Teams/](/Data/Teams/).
+- [espn_schedule.py](/Scrapers/espn_schedule.py) scrapes information about each team's upcoming games from ESPN, saved to a Games.csv file for each league in [/Data/ESPN/](/Data/ESPN/).
+- [espn_rosters.py](/Scrapers/espn_rosters.py) scrapes each team's roster from ESPN, saved to Roser.csv files in [/Data/ESPN/](/Data/ESPN/).
+- [espn_players.py](/Scrapers/espn_players.py) scrapes information about every player from their bio on ESPN, saves to Players.csv files in [/Data/ESPN/](/Data/ESPN/).
+- [espn_game.py](/Scrapers/espn_game.py) scrapes game statistics from ESPN for completed games, saves to Games.csv files in [/Data/ESPN/](/Data/ESPN/).
+- [espn_player_stats.py](/Scrapers/espn_player_stats.py) scrapes each individual player's stats from every game they play in, saved to Player_Stats.csv files in [/Data/ESPN/](/Data/ESPN/).
 
-### Team Names (ESPN)
-The [espn_teams.py](Scrapers/espn_teams.py) file scrapes team names from ESPN.
-These are treated as the official names in this project, and different names from other sources are adapted to match the ESPN names.
 
-```
-$ python Scrapers/espn_teams.py
-```
+### Sportsbook Reviews Online
+- [sbo_odds.py](/Scrapers/sbo_odds.py) downloads .xlsx files from [Sportsbook Reviews Online](https://www.sportsbookreviewsonline.com/), saves to [/Data/Odds/](/Data/Odds/).
 
-The official ESPN names are stored in JSON files in [Data/Teams](https://github.com/DillonKoch/Sports_Betting/tree/master/Data/Teams).
-This program also scrapes ESPN links to the teams' schedules, statistics, rosters, and depth charts.
 
-### Season Schedules (ESPN)
-[espn_schedule.py](Scrapers/espn_schedule.py) collects game dates, teams playing, and other basic game information.
-It will scrape every schedule since 2007, including future games not yet played.
-```
-$ python Scrapers/espn_schedule.py
-```
-The schedule data is stored in [NFL](Data/ESPN/NFL/Games.csv), [NBA](Data/ESPN/NBA/Games.csv), [NCAAF](Data/ESPN/NCAAF/Games.csv), and [NCAAB](Data/ESPN/NCAAB/Games.csv).
+### Elite Sportsbook
+- [esb_odds.py](/Scrapers/esb_odds.py) scrapes live betting odds from [Elite Sportsbook](https://www.elitesportsbook.com/sports/home.sbk), saved to [/Data/ESB/](/Data/ESB/).
 
-### Odds (Sportsbook Reviews Online)
-Betting odds are scraped with [sbo_odds.py](Scrapers/sbo_odds.py).
-This data includes the odds for the three most popular bets: the [moneyline, spread, and over/under](https://www.mytopsportsbooks.com/guide/single-bets/).
 
-```
-$ python Scrapers/sbo_odds.py
-```
-This script scrapes individual .xlsx files for each season, and saves them in folders for each league in the [Data/Odds](https://github.com/DillonKoch/Sports_Betting/tree/master/Data/Odds) folder.
-
-### Game Results (ESPN)
-Once the games are played, [espn_game.py](Scrapers/espn_game.py) will scrape results and statistics from the games.
-
-```
-# league options are NFL, NBA, NCAAF, NCAAB
-$ python Scrapers/espn_game.py --league=NFL
-```
-This data is stored in the same files as the schedule: [NFL](Data/ESPN/NFL/Games.csv), [NBA](Data/ESPN/NBA/Games.csv), [NCAAF](Data/ESPN/NCAAF/Games.csv), and [NCAAB](Data/ESPN/NCAAB/Games.csv).
-
-### Team Rosters (ESPN)
-To incorporate individual player statistics into the training data, it's necessary to know which players play for each team.
-[espn_rosters.py](Scrapers/espn_rosters.py) will scrape the current roster for every team.
-```
-$ python Scrapers/espn_rosters.py
-```
-This data is stored in [NFL](Data/ESPN/NFL/Rosters.csv), [NBA](Data/ESPN/NBA/Rosters.csv), [NCAAF](Data/ESPN/NCAAF/Rosters.csv), and [NCAAB](Data/ESPN/NCAAB/Rosters.csv).
-
-### Player Data (ESPN)
-Basic information about each player is scraped from their bio on ESPN with [espn_players.py](Scrapers/espn_players.py).
-```
-$ python Scrapers/espn_players.py
-```
-This data is stored in [NFL](Data/ESPN/NFL/Players.csv), [NBA](Data/ESPN/NBA/Players.csv), [NCAAF](Data/ESPN/NCAAF/Players.csv), and [NCAAB](Data/ESPN/NCAAB/Players.csv).
-
-### Player Statistics (ESPN)
-Players' statistics from each game are scraped with [espn_player_stats.py](Scrapers/espn_player_stats.py).
-```
-$ python Scrapers/espn_stats.py
-```
-This data is stored in [NFL](Data/ESPN/NFL/Players.csv), [NBA](Data/ESPN/NBA/Players.csv), [NCAAF](Data/ESPN/NCAAF/Players.csv), and [NCAAB](Data/ESPN/NCAAB/Players.csv).
-### Player Injuries (Covers)
-```
-$ python Scrapers/covers_injuries.py
-```
-
+### Covers.com
+- [covers_injuries.py](/Scrapers/covers_injuries.py) scrapes the latest injury reports from [Covers.com](https://www.covers.com/), saved to [/Data/Covers/](/Data/Covers/).
 
 
 <a name="Data-Cleaning"></a>
 
 ## 2. Data Cleaning
 
-### Team Names
+
+### Match Teams
+
+
+### Clean ESPN
+- [/Data_Cleaning/clean_espn.py](/Data_Cleaning/clean_espn.py) cleans fields in the Games.csv files with dashes and times to be strictly numeric.
+
+### Clean Sportsbook Reviews Online Odds
+- [/Data_Cleaning/clean_sbo.py]
+
+
+### Merge Datasets
+
+
+### Player Data
+
+<!-- ### Team Names
 As mentioned earlier, team names may vary from one data source to another. 
 Teams also move, like the San Diego Chargers moving to Los Angeles.
 
@@ -127,7 +98,7 @@ $ python Data_Cleaning/clean_sbo.py
 $ python Data_Cleaning/merge_datasets.py
 ```
 
-### Removing Data Leakage
+### Removing Data Leakage -->
 
 
 
@@ -136,7 +107,13 @@ $ python Data_Cleaning/merge_datasets.py
 ## 3. Modeling
 
 
+### Logistic Regression
 
+
+### SVM
+
+
+### Deep Learning
 
 
 
@@ -144,12 +121,26 @@ $ python Data_Cleaning/merge_datasets.py
 
 ## 4. Results
 
+### Win Percentage
+
+
+### Expected Value
+
+
+### Performance Relative to Confidence
+
+
 
 
 <a name="Using-this-Repository"></a>
 
-## 5. Using this Repository
-- mention a conda environment file I need to upload
+## 5. Using This Repository
 
 
-### Tests
+### Creating an Environment
+
+
+### Running Web Scrapers
+
+
+### Training Models
