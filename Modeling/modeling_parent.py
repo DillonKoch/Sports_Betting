@@ -56,6 +56,9 @@ class Modeling_Parent:
         return df
 
     def split_avg_df(self, avg_df, targets):  # Top Level
+        """
+        runs train_test_split on avg_df
+        """
         y = avg_df[targets]
         X = avg_df[[col for col in list(avg_df.columns) if col not in targets]]
         train_X, val_X, train_y, val_y = train_test_split(X, y, random_state=18)

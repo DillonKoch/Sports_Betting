@@ -1,4 +1,4 @@
-Title,datetime,Game_Time,Home,Away,Over,Over_ML,Under,Under_ML,Home_Spread,Home_Spread_ML,Away_Spread,Away_Spread_ML,Home_ML,Away_ML,scraped_ts
+Title,Date,Game_Time,Home,Away,Over,Over_ML,Under,Under_ML,Home_Spread,Home_Spread_ML,Away_Spread,Away_Spread_ML,Home_ML,Away_ML,scraped_ts
 Full Game,2021-10-31,12:00 CDT,Buffalo Bills,Miami Dolphins,48.5,-110.0,48.5,-110.0,-14.0,-110.0,14.0,-110.0,-900.0,600.0,2021-10-28 21:41
 Full Game,2021-10-31,12:00 CDT,Atlanta Falcons,Carolina Panthers,46.5,-110.0,46.5,-110.0,-3.0,-110.0,3.0,-110.0,-165.0,145.0,2021-10-28 21:41
 Full Game,2021-10-31,12:00 CDT,Detroit Lions,Philadelphia Eagles,48.0,-110.0,48.0,-110.0,3.5,-110.0,-3.5,-110.0,160.0,-180.0,2021-10-28 21:41
@@ -662,3 +662,289 @@ Full Game,2021-11-14,15:25 CST,Green Bay Packers,Seattle Seahawks,49.5,-110.0,49
 Full Game,2021-11-14,15:25 CST,Denver Broncos,Philadelphia Eagles,45.0,-110.0,45.0,-110.0,-3.0,100.0,3.0,-120.0,-155.0,135.0,2021-11-09 00:10
 Full Game,2021-11-14,19:20 CST,Las Vegas Raiders,Kansas City Chiefs,51.5,-110.0,51.5,-110.0,2.5,-105.0,-2.5,-115.0,125.0,-145.0,2021-11-09 00:10
 Full Game,2021-11-15,19:15 CST,San Francisco 49ers,Los Angeles Rams,49.5,-110.0,49.5,-110.0,4.0,-110.0,-4.0,-110.0,170.0,-200.0,2021-11-09 00:10
+Full Game,2021-11-11,19:20 CST,Miami Dolphins,Baltimore Ravens,46.5,-110.0,46.5,-110.0,7.5,-115.0,-7.5,-105.0,310.0,-370.0,2021-11-10 16:34
+Full Game,2021-11-14,12:00 CST,Indianapolis Colts,Jacksonville Jaguars,47.5,-110.0,47.5,-110.0,-10.5,-110.0,10.5,-110.0,-500.0,375.0,2021-11-10 16:34
+Full Game,2021-11-14,12:00 CST,New England Patriots,Cleveland Browns,45.5,-110.0,45.5,-110.0,-1.5,-110.0,1.5,-110.0,-120.0,100.0,2021-11-10 16:34
+Full Game,2021-11-14,12:00 CST,Dallas Cowboys,Atlanta Falcons,54.5,-110.0,54.5,-110.0,-9.0,-110.0,9.0,-110.0,-420.0,340.0,2021-11-10 16:34
+Full Game,2021-11-14,12:00 CST,New York Jets,Buffalo Bills,47.5,-110.0,47.5,-110.0,12.0,-110.0,-12.0,-110.0,500.0,-700.0,2021-11-10 16:34
+Full Game,2021-11-14,12:00 CST,Tennessee Titans,New Orleans Saints,44.5,-110.0,44.5,-110.0,-3.0,-105.0,3.0,-115.0,-150.0,130.0,2021-11-10 16:34
+Full Game,2021-11-14,12:00 CST,Washington Football Team,Tampa Bay Buccaneers,51.5,-110.0,51.5,-110.0,9.5,-110.0,-9.5,-110.0,350.0,-450.0,2021-11-10 16:34
+Full Game,2021-11-14,12:00 CST,Pittsburgh Steelers,Detroit Lions,43.0,-110.0,43.0,-110.0,-9.0,-110.0,9.0,-110.0,-370.0,310.0,2021-11-10 16:34
+Full Game,2021-11-14,15:05 CST,LA Chargers,Minnesota Vikings,53.0,-110.0,53.0,-110.0,-3.0,-110.0,3.0,-110.0,-165.0,145.0,2021-11-10 16:34
+Full Game,2021-11-14,15:05 CST,Arizona Cardinals,Carolina Panthers,44.0,-110.0,44.0,-110.0,-10.5,-110.0,10.5,-110.0,-500.0,375.0,2021-11-10 16:34
+Full Game,2021-11-14,15:25 CST,Green Bay Packers,Seattle Seahawks,49.5,-110.0,49.5,-110.0,-3.5,-110.0,3.5,-110.0,-175.0,155.0,2021-11-10 16:34
+Full Game,2021-11-14,15:25 CST,Denver Broncos,Philadelphia Eagles,45.0,-110.0,45.0,-110.0,-3.0,100.0,3.0,-120.0,-150.0,130.0,2021-11-10 16:34
+Full Game,2021-11-14,19:20 CST,Las Vegas Raiders,Kansas City Chiefs,51.5,-110.0,51.5,-110.0,2.5,-105.0,-2.5,-115.0,125.0,-145.0,2021-11-10 16:34
+Full Game,2021-11-15,19:15 CST,San Francisco 49ers,Los Angeles Rams,49.0,-110.0,49.0,-110.0,4.0,-110.0,-4.0,-110.0,170.0,-200.0,2021-11-10 16:34
+Full Game,2021-11-11,19:20 CST,Miami Dolphins,Baltimore Ravens,46.5,-110.0,46.5,-110.0,7.5,-115.0,-7.5,-105.0,310.0,-370.0,2021-11-10 22:29
+Full Game,2021-11-14,12:00 CST,Indianapolis Colts,Jacksonville Jaguars,47.5,-110.0,47.5,-110.0,-10.5,-110.0,10.5,-110.0,-500.0,375.0,2021-11-10 22:29
+Full Game,2021-11-14,12:00 CST,New England Patriots,Cleveland Browns,45.5,-110.0,45.5,-110.0,-2.0,-110.0,2.0,-110.0,-130.0,110.0,2021-11-10 22:29
+Full Game,2021-11-14,12:00 CST,Dallas Cowboys,Atlanta Falcons,54.5,-110.0,54.5,-110.0,-9.0,-110.0,9.0,-110.0,-420.0,340.0,2021-11-10 22:29
+Full Game,2021-11-14,12:00 CST,New York Jets,Buffalo Bills,47.5,-110.0,47.5,-110.0,12.0,-110.0,-12.0,-110.0,500.0,-700.0,2021-11-10 22:29
+Full Game,2021-11-14,12:00 CST,Tennessee Titans,New Orleans Saints,44.5,-110.0,44.5,-110.0,-3.0,-105.0,3.0,-115.0,-150.0,130.0,2021-11-10 22:29
+Full Game,2021-11-14,12:00 CST,Washington Football Team,Tampa Bay Buccaneers,51.5,-110.0,51.5,-110.0,9.5,-110.0,-9.5,-110.0,350.0,-450.0,2021-11-10 22:29
+Full Game,2021-11-14,12:00 CST,Pittsburgh Steelers,Detroit Lions,43.0,-110.0,43.0,-110.0,-9.0,-110.0,9.0,-110.0,-370.0,310.0,2021-11-10 22:29
+Full Game,2021-11-14,15:05 CST,LA Chargers,Minnesota Vikings,53.0,-110.0,53.0,-110.0,-3.0,-115.0,3.0,-105.0,-165.0,145.0,2021-11-10 22:29
+Full Game,2021-11-14,15:05 CST,Arizona Cardinals,Carolina Panthers,44.0,-110.0,44.0,-110.0,-10.5,-110.0,10.5,-110.0,-500.0,375.0,2021-11-10 22:29
+Full Game,2021-11-14,15:25 CST,Green Bay Packers,Seattle Seahawks,49.5,-110.0,49.5,-110.0,-3.5,-110.0,3.5,-110.0,-175.0,155.0,2021-11-10 22:29
+Full Game,2021-11-14,15:25 CST,Denver Broncos,Philadelphia Eagles,45.0,-110.0,45.0,-110.0,-3.0,100.0,3.0,-120.0,-150.0,130.0,2021-11-10 22:29
+Full Game,2021-11-14,19:20 CST,Las Vegas Raiders,Kansas City Chiefs,51.5,-110.0,51.5,-110.0,2.5,-105.0,-2.5,-115.0,125.0,-145.0,2021-11-10 22:29
+Full Game,2021-11-15,19:15 CST,San Francisco 49ers,Los Angeles Rams,49.0,-110.0,49.0,-110.0,4.0,-110.0,-4.0,-110.0,170.0,-200.0,2021-11-10 22:29
+Full Game,2021-11-11,19:20 CST,Miami Dolphins,Baltimore Ravens,46.5,-110.0,46.5,-110.0,7.5,-115.0,-7.5,-105.0,310.0,-370.0,2021-11-10 22:35
+Full Game,2021-11-14,12:00 CST,Indianapolis Colts,Jacksonville Jaguars,47.5,-110.0,47.5,-110.0,-10.5,-110.0,10.5,-110.0,-500.0,375.0,2021-11-10 22:35
+Full Game,2021-11-14,12:00 CST,New England Patriots,Cleveland Browns,45.5,-110.0,45.5,-110.0,-2.0,-110.0,2.0,-110.0,-130.0,110.0,2021-11-10 22:35
+Full Game,2021-11-14,12:00 CST,Dallas Cowboys,Atlanta Falcons,54.5,-110.0,54.5,-110.0,-9.0,-110.0,9.0,-110.0,-420.0,340.0,2021-11-10 22:35
+Full Game,2021-11-14,12:00 CST,New York Jets,Buffalo Bills,47.5,-110.0,47.5,-110.0,12.0,-110.0,-12.0,-110.0,500.0,-700.0,2021-11-10 22:35
+Full Game,2021-11-14,12:00 CST,Tennessee Titans,New Orleans Saints,44.5,-110.0,44.5,-110.0,-3.0,-105.0,3.0,-115.0,-150.0,130.0,2021-11-10 22:35
+Full Game,2021-11-14,12:00 CST,Washington Football Team,Tampa Bay Buccaneers,51.5,-110.0,51.5,-110.0,9.5,-110.0,-9.5,-110.0,350.0,-450.0,2021-11-10 22:35
+Full Game,2021-11-14,12:00 CST,Pittsburgh Steelers,Detroit Lions,43.0,-110.0,43.0,-110.0,-9.0,-110.0,9.0,-110.0,-370.0,310.0,2021-11-10 22:35
+Full Game,2021-11-14,15:05 CST,LA Chargers,Minnesota Vikings,53.0,-110.0,53.0,-110.0,-3.0,-115.0,3.0,-105.0,-165.0,145.0,2021-11-10 22:35
+Full Game,2021-11-14,15:05 CST,Arizona Cardinals,Carolina Panthers,44.0,-110.0,44.0,-110.0,-10.5,-110.0,10.5,-110.0,-500.0,375.0,2021-11-10 22:35
+Full Game,2021-11-14,15:25 CST,Green Bay Packers,Seattle Seahawks,49.5,-110.0,49.5,-110.0,-3.5,-110.0,3.5,-110.0,-175.0,155.0,2021-11-10 22:35
+Full Game,2021-11-14,15:25 CST,Denver Broncos,Philadelphia Eagles,45.0,-110.0,45.0,-110.0,-3.0,100.0,3.0,-120.0,-150.0,130.0,2021-11-10 22:35
+Full Game,2021-11-14,19:20 CST,Las Vegas Raiders,Kansas City Chiefs,51.5,-110.0,51.5,-110.0,2.5,-105.0,-2.5,-115.0,125.0,-145.0,2021-11-10 22:35
+Full Game,2021-11-15,19:15 CST,San Francisco 49ers,Los Angeles Rams,49.0,-110.0,49.0,-110.0,4.0,-110.0,-4.0,-110.0,170.0,-200.0,2021-11-10 22:35
+Full Game,2021-11-11,19:20 CST,Miami Dolphins,Baltimore Ravens,46.5,-110.0,46.5,-110.0,7.5,-115.0,-7.5,-105.0,310.0,-370.0,2021-11-11 00:10
+Full Game,2021-11-14,12:00 CST,Indianapolis Colts,Jacksonville Jaguars,47.5,-110.0,47.5,-110.0,-10.5,-110.0,10.5,-110.0,-500.0,375.0,2021-11-11 00:10
+Full Game,2021-11-14,12:00 CST,New England Patriots,Cleveland Browns,45.5,-110.0,45.5,-110.0,-2.5,-110.0,2.5,-110.0,-135.0,115.0,2021-11-11 00:10
+Full Game,2021-11-14,12:00 CST,Dallas Cowboys,Atlanta Falcons,54.5,-110.0,54.5,-110.0,-9.0,-110.0,9.0,-110.0,-420.0,340.0,2021-11-11 00:10
+Full Game,2021-11-14,12:00 CST,New York Jets,Buffalo Bills,47.5,-110.0,47.5,-110.0,12.0,-110.0,-12.0,-110.0,500.0,-700.0,2021-11-11 00:10
+Full Game,2021-11-14,12:00 CST,Tennessee Titans,New Orleans Saints,44.5,-110.0,44.5,-110.0,-3.0,-105.0,3.0,-115.0,-150.0,130.0,2021-11-11 00:10
+Full Game,2021-11-14,12:00 CST,Washington Football Team,Tampa Bay Buccaneers,51.5,-110.0,51.5,-110.0,9.5,-110.0,-9.5,-110.0,350.0,-450.0,2021-11-11 00:10
+Full Game,2021-11-14,12:00 CST,Pittsburgh Steelers,Detroit Lions,43.0,-110.0,43.0,-110.0,-9.0,-110.0,9.0,-110.0,-370.0,310.0,2021-11-11 00:10
+Full Game,2021-11-14,15:05 CST,LA Chargers,Minnesota Vikings,53.0,-110.0,53.0,-110.0,-3.0,-115.0,3.0,-105.0,-165.0,145.0,2021-11-11 00:10
+Full Game,2021-11-14,15:05 CST,Arizona Cardinals,Carolina Panthers,44.0,-110.0,44.0,-110.0,-10.5,-110.0,10.5,-110.0,-500.0,375.0,2021-11-11 00:10
+Full Game,2021-11-14,15:25 CST,Green Bay Packers,Seattle Seahawks,49.5,-110.0,49.5,-110.0,-3.5,-110.0,3.5,-110.0,-175.0,155.0,2021-11-11 00:10
+Full Game,2021-11-14,15:25 CST,Denver Broncos,Philadelphia Eagles,45.0,-110.0,45.0,-110.0,-3.0,100.0,3.0,-120.0,-150.0,130.0,2021-11-11 00:10
+Full Game,2021-11-14,19:20 CST,Las Vegas Raiders,Kansas City Chiefs,51.5,-110.0,51.5,-110.0,2.5,-105.0,-2.5,-115.0,125.0,-145.0,2021-11-11 00:10
+Full Game,2021-11-15,19:15 CST,San Francisco 49ers,Los Angeles Rams,49.0,-110.0,49.0,-110.0,4.0,-110.0,-4.0,-110.0,170.0,-200.0,2021-11-11 00:10
+Full Game,2021-11-11,19:20 CST,Miami Dolphins,Baltimore Ravens,46.5,-110.0,46.5,-110.0,7.5,-115.0,-7.5,-105.0,310.0,-370.0,2021-11-11 02:10
+Full Game,2021-11-14,12:00 CST,Indianapolis Colts,Jacksonville Jaguars,47.5,-110.0,47.5,-110.0,-10.5,-110.0,10.5,-110.0,-500.0,375.0,2021-11-11 02:10
+Full Game,2021-11-14,12:00 CST,New England Patriots,Cleveland Browns,45.5,-110.0,45.5,-110.0,-2.5,-110.0,2.5,-110.0,-135.0,115.0,2021-11-11 02:10
+Full Game,2021-11-14,12:00 CST,Dallas Cowboys,Atlanta Falcons,54.5,-110.0,54.5,-110.0,-9.0,-110.0,9.0,-110.0,-420.0,340.0,2021-11-11 02:10
+Full Game,2021-11-14,12:00 CST,New York Jets,Buffalo Bills,47.5,-110.0,47.5,-110.0,12.0,-110.0,-12.0,-110.0,500.0,-700.0,2021-11-11 02:10
+Full Game,2021-11-14,12:00 CST,Tennessee Titans,New Orleans Saints,44.5,-110.0,44.5,-110.0,-3.0,-105.0,3.0,-115.0,-150.0,130.0,2021-11-11 02:10
+Full Game,2021-11-14,12:00 CST,Washington Football Team,Tampa Bay Buccaneers,51.5,-110.0,51.5,-110.0,9.5,-110.0,-9.5,-110.0,350.0,-450.0,2021-11-11 02:10
+Full Game,2021-11-14,12:00 CST,Pittsburgh Steelers,Detroit Lions,43.0,-110.0,43.0,-110.0,-9.0,-110.0,9.0,-110.0,-370.0,310.0,2021-11-11 02:10
+Full Game,2021-11-14,15:05 CST,LA Chargers,Minnesota Vikings,53.0,-110.0,53.0,-110.0,-3.0,-115.0,3.0,-105.0,-165.0,145.0,2021-11-11 02:10
+Full Game,2021-11-14,15:05 CST,Arizona Cardinals,Carolina Panthers,44.0,-110.0,44.0,-110.0,-10.5,-110.0,10.5,-110.0,-500.0,375.0,2021-11-11 02:10
+Full Game,2021-11-14,15:25 CST,Green Bay Packers,Seattle Seahawks,49.5,-110.0,49.5,-110.0,-3.5,-110.0,3.5,-110.0,-175.0,155.0,2021-11-11 02:10
+Full Game,2021-11-14,15:25 CST,Denver Broncos,Philadelphia Eagles,45.0,-110.0,45.0,-110.0,-3.0,100.0,3.0,-120.0,-150.0,130.0,2021-11-11 02:10
+Full Game,2021-11-14,19:20 CST,Las Vegas Raiders,Kansas City Chiefs,51.5,-110.0,51.5,-110.0,2.5,-105.0,-2.5,-115.0,125.0,-145.0,2021-11-11 02:10
+Full Game,2021-11-15,19:15 CST,San Francisco 49ers,Los Angeles Rams,49.0,-110.0,49.0,-110.0,4.0,-110.0,-4.0,-110.0,170.0,-200.0,2021-11-11 02:10
+Full Game,2021-11-11,19:20 CST,Miami Dolphins,Baltimore Ravens,46.5,-110.0,46.5,-110.0,7.5,-115.0,-7.5,-105.0,310.0,-370.0,2021-11-11 04:10
+Full Game,2021-11-14,12:00 CST,Indianapolis Colts,Jacksonville Jaguars,47.5,-110.0,47.5,-110.0,-10.5,-110.0,10.5,-110.0,-500.0,375.0,2021-11-11 04:10
+Full Game,2021-11-14,12:00 CST,New England Patriots,Cleveland Browns,45.5,-110.0,45.5,-110.0,-2.5,-110.0,2.5,-110.0,-135.0,115.0,2021-11-11 04:10
+Full Game,2021-11-14,12:00 CST,Dallas Cowboys,Atlanta Falcons,54.5,-110.0,54.5,-110.0,-9.0,-110.0,9.0,-110.0,-420.0,340.0,2021-11-11 04:10
+Full Game,2021-11-14,12:00 CST,New York Jets,Buffalo Bills,47.5,-110.0,47.5,-110.0,12.0,-110.0,-12.0,-110.0,500.0,-700.0,2021-11-11 04:10
+Full Game,2021-11-14,12:00 CST,Tennessee Titans,New Orleans Saints,44.5,-110.0,44.5,-110.0,-3.0,-105.0,3.0,-115.0,-150.0,130.0,2021-11-11 04:10
+Full Game,2021-11-14,12:00 CST,Washington Football Team,Tampa Bay Buccaneers,51.5,-110.0,51.5,-110.0,9.5,-110.0,-9.5,-110.0,350.0,-450.0,2021-11-11 04:10
+Full Game,2021-11-14,12:00 CST,Pittsburgh Steelers,Detroit Lions,43.0,-110.0,43.0,-110.0,-9.0,-110.0,9.0,-110.0,-370.0,310.0,2021-11-11 04:10
+Full Game,2021-11-14,15:05 CST,LA Chargers,Minnesota Vikings,53.0,-110.0,53.0,-110.0,-3.0,-115.0,3.0,-105.0,-165.0,145.0,2021-11-11 04:10
+Full Game,2021-11-14,15:05 CST,Arizona Cardinals,Carolina Panthers,44.0,-110.0,44.0,-110.0,-10.5,-110.0,10.5,-110.0,-500.0,375.0,2021-11-11 04:10
+Full Game,2021-11-14,15:25 CST,Green Bay Packers,Seattle Seahawks,49.5,-110.0,49.5,-110.0,-3.5,-110.0,3.5,-110.0,-175.0,155.0,2021-11-11 04:10
+Full Game,2021-11-14,15:25 CST,Denver Broncos,Philadelphia Eagles,45.0,-110.0,45.0,-110.0,-3.0,100.0,3.0,-120.0,-150.0,130.0,2021-11-11 04:10
+Full Game,2021-11-14,19:20 CST,Las Vegas Raiders,Kansas City Chiefs,51.5,-110.0,51.5,-110.0,2.5,-105.0,-2.5,-115.0,125.0,-145.0,2021-11-11 04:10
+Full Game,2021-11-15,19:15 CST,San Francisco 49ers,Los Angeles Rams,49.0,-110.0,49.0,-110.0,4.0,-110.0,-4.0,-110.0,170.0,-200.0,2021-11-11 04:10
+Full Game,2021-11-11,19:20 CST,Miami Dolphins,Baltimore Ravens,46.5,-110.0,46.5,-110.0,7.5,-115.0,-7.5,-105.0,310.0,-370.0,2021-11-11 06:10
+Full Game,2021-11-14,12:00 CST,Indianapolis Colts,Jacksonville Jaguars,47.5,-110.0,47.5,-110.0,-10.5,-110.0,10.5,-110.0,-500.0,375.0,2021-11-11 06:10
+Full Game,2021-11-14,12:00 CST,New England Patriots,Cleveland Browns,45.5,-110.0,45.5,-110.0,-2.5,-110.0,2.5,-110.0,-135.0,115.0,2021-11-11 06:10
+Full Game,2021-11-14,12:00 CST,Dallas Cowboys,Atlanta Falcons,54.5,-110.0,54.5,-110.0,-9.0,-110.0,9.0,-110.0,-420.0,340.0,2021-11-11 06:10
+Full Game,2021-11-14,12:00 CST,New York Jets,Buffalo Bills,47.5,-110.0,47.5,-110.0,12.0,-110.0,-12.0,-110.0,500.0,-700.0,2021-11-11 06:10
+Full Game,2021-11-14,12:00 CST,Tennessee Titans,New Orleans Saints,44.5,-110.0,44.5,-110.0,-3.0,-105.0,3.0,-115.0,-150.0,130.0,2021-11-11 06:10
+Full Game,2021-11-14,12:00 CST,Washington Football Team,Tampa Bay Buccaneers,51.5,-110.0,51.5,-110.0,9.5,-110.0,-9.5,-110.0,350.0,-450.0,2021-11-11 06:10
+Full Game,2021-11-14,12:00 CST,Pittsburgh Steelers,Detroit Lions,43.0,-110.0,43.0,-110.0,-9.0,-110.0,9.0,-110.0,-370.0,310.0,2021-11-11 06:10
+Full Game,2021-11-14,15:05 CST,LA Chargers,Minnesota Vikings,53.0,-110.0,53.0,-110.0,-3.0,-115.0,3.0,-105.0,-165.0,145.0,2021-11-11 06:10
+Full Game,2021-11-14,15:05 CST,Arizona Cardinals,Carolina Panthers,44.0,-110.0,44.0,-110.0,-10.5,-110.0,10.5,-110.0,-500.0,375.0,2021-11-11 06:10
+Full Game,2021-11-14,15:25 CST,Green Bay Packers,Seattle Seahawks,49.5,-110.0,49.5,-110.0,-3.5,-110.0,3.5,-110.0,-175.0,155.0,2021-11-11 06:10
+Full Game,2021-11-14,15:25 CST,Denver Broncos,Philadelphia Eagles,45.0,-110.0,45.0,-110.0,-3.0,100.0,3.0,-120.0,-150.0,130.0,2021-11-11 06:10
+Full Game,2021-11-14,19:20 CST,Las Vegas Raiders,Kansas City Chiefs,51.5,-110.0,51.5,-110.0,2.5,-105.0,-2.5,-115.0,125.0,-145.0,2021-11-11 06:10
+Full Game,2021-11-15,19:15 CST,San Francisco 49ers,Los Angeles Rams,49.0,-110.0,49.0,-110.0,4.0,-110.0,-4.0,-110.0,170.0,-200.0,2021-11-11 06:10
+Full Game,2021-11-11,19:20 CST,Miami Dolphins,Baltimore Ravens,46.5,-110.0,46.5,-110.0,7.5,-110.0,-7.5,-110.0,310.0,-370.0,2021-11-11 08:10
+Full Game,2021-11-14,12:00 CST,Indianapolis Colts,Jacksonville Jaguars,47.5,-110.0,47.5,-110.0,-10.5,-110.0,10.5,-110.0,-500.0,375.0,2021-11-11 08:10
+Full Game,2021-11-14,12:00 CST,New England Patriots,Cleveland Browns,45.5,-110.0,45.5,-110.0,-2.5,-110.0,2.5,-110.0,-135.0,115.0,2021-11-11 08:10
+Full Game,2021-11-14,12:00 CST,Dallas Cowboys,Atlanta Falcons,54.5,-110.0,54.5,-110.0,-9.0,-110.0,9.0,-110.0,-420.0,340.0,2021-11-11 08:10
+Full Game,2021-11-14,12:00 CST,New York Jets,Buffalo Bills,47.5,-110.0,47.5,-110.0,12.0,-110.0,-12.0,-110.0,500.0,-700.0,2021-11-11 08:10
+Full Game,2021-11-14,12:00 CST,Tennessee Titans,New Orleans Saints,44.5,-110.0,44.5,-110.0,-3.0,-105.0,3.0,-115.0,-150.0,130.0,2021-11-11 08:10
+Full Game,2021-11-14,12:00 CST,Washington Football Team,Tampa Bay Buccaneers,51.5,-110.0,51.5,-110.0,9.5,-110.0,-9.5,-110.0,350.0,-450.0,2021-11-11 08:10
+Full Game,2021-11-14,12:00 CST,Pittsburgh Steelers,Detroit Lions,43.0,-110.0,43.0,-110.0,-9.0,-110.0,9.0,-110.0,-370.0,310.0,2021-11-11 08:10
+Full Game,2021-11-14,15:05 CST,LA Chargers,Minnesota Vikings,53.0,-110.0,53.0,-110.0,-3.0,-115.0,3.0,-105.0,-165.0,145.0,2021-11-11 08:10
+Full Game,2021-11-14,15:05 CST,Arizona Cardinals,Carolina Panthers,44.0,-110.0,44.0,-110.0,-10.5,-110.0,10.5,-110.0,-500.0,375.0,2021-11-11 08:10
+Full Game,2021-11-14,15:25 CST,Green Bay Packers,Seattle Seahawks,49.5,-110.0,49.5,-110.0,-3.5,-110.0,3.5,-110.0,-175.0,155.0,2021-11-11 08:10
+Full Game,2021-11-14,15:25 CST,Denver Broncos,Philadelphia Eagles,45.0,-110.0,45.0,-110.0,-3.0,100.0,3.0,-120.0,-150.0,130.0,2021-11-11 08:10
+Full Game,2021-11-14,19:20 CST,Las Vegas Raiders,Kansas City Chiefs,51.5,-110.0,51.5,-110.0,2.5,-105.0,-2.5,-115.0,125.0,-145.0,2021-11-11 08:10
+Full Game,2021-11-15,19:15 CST,San Francisco 49ers,Los Angeles Rams,49.0,-110.0,49.0,-110.0,4.0,-110.0,-4.0,-110.0,170.0,-200.0,2021-11-11 08:10
+Full Game,2021-11-11,19:20 CST,Miami Dolphins,Baltimore Ravens,46.5,-110.0,46.5,-110.0,7.5,-110.0,-7.5,-110.0,310.0,-370.0,2021-11-11 10:10
+Full Game,2021-11-14,12:00 CST,Indianapolis Colts,Jacksonville Jaguars,47.5,-110.0,47.5,-110.0,-10.5,-110.0,10.5,-110.0,-500.0,375.0,2021-11-11 10:10
+Full Game,2021-11-14,12:00 CST,New England Patriots,Cleveland Browns,45.5,-110.0,45.5,-110.0,-2.5,-110.0,2.5,-110.0,-135.0,115.0,2021-11-11 10:10
+Full Game,2021-11-14,12:00 CST,Dallas Cowboys,Atlanta Falcons,54.5,-110.0,54.5,-110.0,-9.0,-110.0,9.0,-110.0,-420.0,340.0,2021-11-11 10:10
+Full Game,2021-11-14,12:00 CST,New York Jets,Buffalo Bills,47.5,-110.0,47.5,-110.0,12.0,-110.0,-12.0,-110.0,500.0,-700.0,2021-11-11 10:10
+Full Game,2021-11-14,12:00 CST,Tennessee Titans,New Orleans Saints,44.5,-110.0,44.5,-110.0,-3.0,-105.0,3.0,-115.0,-150.0,130.0,2021-11-11 10:10
+Full Game,2021-11-14,12:00 CST,Washington Football Team,Tampa Bay Buccaneers,51.5,-110.0,51.5,-110.0,9.5,-110.0,-9.5,-110.0,350.0,-450.0,2021-11-11 10:10
+Full Game,2021-11-14,12:00 CST,Pittsburgh Steelers,Detroit Lions,43.0,-110.0,43.0,-110.0,-8.5,-110.0,8.5,-110.0,-370.0,310.0,2021-11-11 10:10
+Full Game,2021-11-14,15:05 CST,LA Chargers,Minnesota Vikings,53.0,-110.0,53.0,-110.0,-3.0,-115.0,3.0,-105.0,-165.0,145.0,2021-11-11 10:10
+Full Game,2021-11-14,15:05 CST,Arizona Cardinals,Carolina Panthers,44.0,-110.0,44.0,-110.0,-10.5,-110.0,10.5,-110.0,-500.0,375.0,2021-11-11 10:10
+Full Game,2021-11-14,15:25 CST,Green Bay Packers,Seattle Seahawks,49.5,-110.0,49.5,-110.0,-3.5,-110.0,3.5,-110.0,-175.0,155.0,2021-11-11 10:10
+Full Game,2021-11-14,15:25 CST,Denver Broncos,Philadelphia Eagles,45.0,-110.0,45.0,-110.0,-3.0,100.0,3.0,-120.0,-150.0,130.0,2021-11-11 10:10
+Full Game,2021-11-14,19:20 CST,Las Vegas Raiders,Kansas City Chiefs,51.5,-110.0,51.5,-110.0,2.5,-105.0,-2.5,-115.0,125.0,-145.0,2021-11-11 10:10
+Full Game,2021-11-15,19:15 CST,San Francisco 49ers,Los Angeles Rams,49.0,-110.0,49.0,-110.0,4.0,-110.0,-4.0,-110.0,170.0,-200.0,2021-11-11 10:10
+Full Game,2021-11-11,19:20 CST,Miami Dolphins,Baltimore Ravens,46.5,-110.0,46.5,-110.0,7.5,-110.0,-7.5,-110.0,310.0,-370.0,2021-11-11 12:10
+Full Game,2021-11-14,12:00 CST,Indianapolis Colts,Jacksonville Jaguars,47.5,-110.0,47.5,-110.0,-10.5,-110.0,10.5,-110.0,-500.0,375.0,2021-11-11 12:10
+Full Game,2021-11-14,12:00 CST,New England Patriots,Cleveland Browns,45.5,-110.0,45.5,-110.0,-2.5,-110.0,2.5,-110.0,-135.0,115.0,2021-11-11 12:10
+Full Game,2021-11-14,12:00 CST,Dallas Cowboys,Atlanta Falcons,54.5,-110.0,54.5,-110.0,-9.0,-110.0,9.0,-110.0,-420.0,340.0,2021-11-11 12:10
+Full Game,2021-11-14,12:00 CST,New York Jets,Buffalo Bills,47.5,-110.0,47.5,-110.0,12.0,-110.0,-12.0,-110.0,500.0,-700.0,2021-11-11 12:10
+Full Game,2021-11-14,12:00 CST,Tennessee Titans,New Orleans Saints,44.5,-110.0,44.5,-110.0,-3.0,-105.0,3.0,-115.0,-150.0,130.0,2021-11-11 12:10
+Full Game,2021-11-14,12:00 CST,Washington Football Team,Tampa Bay Buccaneers,51.5,-110.0,51.5,-110.0,9.5,-110.0,-9.5,-110.0,350.0,-450.0,2021-11-11 12:10
+Full Game,2021-11-14,12:00 CST,Pittsburgh Steelers,Detroit Lions,43.0,-110.0,43.0,-110.0,-8.5,-110.0,8.5,-110.0,-370.0,310.0,2021-11-11 12:10
+Full Game,2021-11-14,15:05 CST,LA Chargers,Minnesota Vikings,53.0,-110.0,53.0,-110.0,-3.0,-115.0,3.0,-105.0,-165.0,145.0,2021-11-11 12:10
+Full Game,2021-11-14,15:05 CST,Arizona Cardinals,Carolina Panthers,44.0,-110.0,44.0,-110.0,-10.5,-110.0,10.5,-110.0,-500.0,375.0,2021-11-11 12:10
+Full Game,2021-11-14,15:25 CST,Green Bay Packers,Seattle Seahawks,49.5,-110.0,49.5,-110.0,-3.5,-110.0,3.5,-110.0,-175.0,155.0,2021-11-11 12:10
+Full Game,2021-11-14,15:25 CST,Denver Broncos,Philadelphia Eagles,45.0,-110.0,45.0,-110.0,-3.0,100.0,3.0,-120.0,-150.0,130.0,2021-11-11 12:10
+Full Game,2021-11-14,19:20 CST,Las Vegas Raiders,Kansas City Chiefs,51.5,-110.0,51.5,-110.0,2.5,-105.0,-2.5,-115.0,125.0,-145.0,2021-11-11 12:10
+Full Game,2021-11-15,19:15 CST,San Francisco 49ers,Los Angeles Rams,49.0,-110.0,49.0,-110.0,4.0,-110.0,-4.0,-110.0,170.0,-200.0,2021-11-11 12:10
+Full Game,2021-11-11,19:20 CST,Miami Dolphins,Baltimore Ravens,46.5,-110.0,46.5,-110.0,7.5,-110.0,-7.5,-110.0,310.0,-370.0,2021-11-11 14:10
+Full Game,2021-11-14,12:00 CST,Indianapolis Colts,Jacksonville Jaguars,47.5,-110.0,47.5,-110.0,-10.5,-110.0,10.5,-110.0,-500.0,375.0,2021-11-11 14:10
+Full Game,2021-11-14,12:00 CST,New England Patriots,Cleveland Browns,45.5,-110.0,45.5,-110.0,-2.5,-110.0,2.5,-110.0,-135.0,115.0,2021-11-11 14:10
+Full Game,2021-11-14,12:00 CST,Dallas Cowboys,Atlanta Falcons,54.5,-110.0,54.5,-110.0,-9.0,-110.0,9.0,-110.0,-420.0,340.0,2021-11-11 14:10
+Full Game,2021-11-14,12:00 CST,New York Jets,Buffalo Bills,47.5,-110.0,47.5,-110.0,12.0,-110.0,-12.0,-110.0,500.0,-700.0,2021-11-11 14:10
+Full Game,2021-11-14,12:00 CST,Tennessee Titans,New Orleans Saints,44.5,-110.0,44.5,-110.0,-3.0,-105.0,3.0,-115.0,-150.0,130.0,2021-11-11 14:10
+Full Game,2021-11-14,12:00 CST,Washington Football Team,Tampa Bay Buccaneers,51.5,-110.0,51.5,-110.0,9.5,-110.0,-9.5,-110.0,350.0,-450.0,2021-11-11 14:10
+Full Game,2021-11-14,12:00 CST,Pittsburgh Steelers,Detroit Lions,42.5,-110.0,42.5,-110.0,-8.5,-110.0,8.5,-110.0,-370.0,310.0,2021-11-11 14:10
+Full Game,2021-11-14,15:05 CST,LA Chargers,Minnesota Vikings,53.0,-110.0,53.0,-110.0,-3.0,-115.0,3.0,-105.0,-165.0,145.0,2021-11-11 14:10
+Full Game,2021-11-14,15:05 CST,Arizona Cardinals,Carolina Panthers,44.0,-110.0,44.0,-110.0,-10.5,-110.0,10.5,-110.0,-500.0,375.0,2021-11-11 14:10
+Full Game,2021-11-14,15:25 CST,Green Bay Packers,Seattle Seahawks,49.5,-110.0,49.5,-110.0,-3.5,-110.0,3.5,-110.0,-175.0,155.0,2021-11-11 14:10
+Full Game,2021-11-14,15:25 CST,Denver Broncos,Philadelphia Eagles,45.0,-110.0,45.0,-110.0,-3.0,100.0,3.0,-120.0,-145.0,125.0,2021-11-11 14:10
+Full Game,2021-11-14,19:20 CST,Las Vegas Raiders,Kansas City Chiefs,51.5,-110.0,51.5,-110.0,2.5,-105.0,-2.5,-115.0,125.0,-145.0,2021-11-11 14:10
+Full Game,2021-11-15,19:15 CST,San Francisco 49ers,Los Angeles Rams,49.0,-110.0,49.0,-110.0,4.0,-110.0,-4.0,-110.0,170.0,-200.0,2021-11-11 14:10
+Full Game,2021-11-11,19:20 CST,Miami Dolphins,Baltimore Ravens,45.5,-110.0,45.5,-110.0,8.5,-110.0,-8.5,-110.0,330.0,-400.0,2021-11-11 16:10
+Full Game,2021-11-14,12:00 CST,Indianapolis Colts,Jacksonville Jaguars,47.5,-110.0,47.5,-110.0,-10.5,-110.0,10.5,-110.0,-500.0,375.0,2021-11-11 16:10
+Full Game,2021-11-14,12:00 CST,New England Patriots,Cleveland Browns,45.5,-110.0,45.5,-110.0,-2.5,-110.0,2.5,-110.0,-135.0,115.0,2021-11-11 16:10
+Full Game,2021-11-14,12:00 CST,Dallas Cowboys,Atlanta Falcons,54.5,-110.0,54.5,-110.0,-9.0,-110.0,9.0,-110.0,-420.0,340.0,2021-11-11 16:10
+Full Game,2021-11-14,12:00 CST,New York Jets,Buffalo Bills,47.5,-110.0,47.5,-110.0,12.0,-110.0,-12.0,-110.0,500.0,-700.0,2021-11-11 16:10
+Full Game,2021-11-14,12:00 CST,Tennessee Titans,New Orleans Saints,44.0,-110.0,44.0,-110.0,-3.0,-105.0,3.0,-115.0,-150.0,130.0,2021-11-11 16:10
+Full Game,2021-11-14,12:00 CST,Washington Football Team,Tampa Bay Buccaneers,51.5,-110.0,51.5,-110.0,9.5,-110.0,-9.5,-110.0,350.0,-450.0,2021-11-11 16:10
+Full Game,2021-11-14,12:00 CST,Pittsburgh Steelers,Detroit Lions,42.5,-110.0,42.5,-110.0,-8.5,-110.0,8.5,-110.0,-370.0,310.0,2021-11-11 16:10
+Full Game,2021-11-14,15:05 CST,LA Chargers,Minnesota Vikings,53.5,-110.0,53.5,-110.0,-3.0,-115.0,3.0,-105.0,-165.0,145.0,2021-11-11 16:10
+Full Game,2021-11-14,15:05 CST,Arizona Cardinals,Carolina Panthers,44.0,-110.0,44.0,-110.0,-10.5,-110.0,10.5,-110.0,-500.0,375.0,2021-11-11 16:10
+Full Game,2021-11-14,15:25 CST,Green Bay Packers,Seattle Seahawks,49.5,-110.0,49.5,-110.0,-3.5,-110.0,3.5,-110.0,-175.0,155.0,2021-11-11 16:10
+Full Game,2021-11-14,15:25 CST,Denver Broncos,Philadelphia Eagles,45.5,-110.0,45.5,-110.0,-3.0,100.0,3.0,-120.0,-145.0,125.0,2021-11-11 16:10
+Full Game,2021-11-14,19:20 CST,Las Vegas Raiders,Kansas City Chiefs,51.5,-110.0,51.5,-110.0,2.5,-105.0,-2.5,-115.0,125.0,-145.0,2021-11-11 16:10
+Full Game,2021-11-15,19:15 CST,San Francisco 49ers,Los Angeles Rams,49.0,-110.0,49.0,-110.0,4.0,-110.0,-4.0,-110.0,170.0,-200.0,2021-11-11 16:10
+Full Game,2021-11-11,19:20 CST,Miami Dolphins,Baltimore Ravens,45.5,-110.0,45.5,-110.0,8.5,-110.0,-8.5,-110.0,330.0,-400.0,2021-11-11 18:10
+Full Game,2021-11-14,12:00 CST,Indianapolis Colts,Jacksonville Jaguars,47.5,-110.0,47.5,-110.0,-10.5,-110.0,10.5,-110.0,-500.0,375.0,2021-11-11 18:10
+Full Game,2021-11-14,12:00 CST,New England Patriots,Cleveland Browns,45.5,-110.0,45.5,-110.0,-2.5,-110.0,2.5,-110.0,-135.0,115.0,2021-11-11 18:10
+Full Game,2021-11-14,12:00 CST,Dallas Cowboys,Atlanta Falcons,54.5,-110.0,54.5,-110.0,-9.0,-110.0,9.0,-110.0,-420.0,340.0,2021-11-11 18:10
+Full Game,2021-11-14,12:00 CST,New York Jets,Buffalo Bills,47.5,-110.0,47.5,-110.0,12.0,-110.0,-12.0,-110.0,500.0,-700.0,2021-11-11 18:10
+Full Game,2021-11-14,12:00 CST,Tennessee Titans,New Orleans Saints,44.0,-110.0,44.0,-110.0,-3.0,-105.0,3.0,-115.0,-150.0,130.0,2021-11-11 18:10
+Full Game,2021-11-14,12:00 CST,Washington Football Team,Tampa Bay Buccaneers,51.5,-110.0,51.5,-110.0,9.5,-110.0,-9.5,-110.0,350.0,-450.0,2021-11-11 18:10
+Full Game,2021-11-14,12:00 CST,Pittsburgh Steelers,Detroit Lions,42.5,-110.0,42.5,-110.0,-8.5,-110.0,8.5,-110.0,-370.0,310.0,2021-11-11 18:10
+Full Game,2021-11-14,15:05 CST,LA Chargers,Minnesota Vikings,53.5,-110.0,53.5,-110.0,-3.0,-115.0,3.0,-105.0,-165.0,145.0,2021-11-11 18:10
+Full Game,2021-11-14,15:05 CST,Arizona Cardinals,Carolina Panthers,44.0,-110.0,44.0,-110.0,-10.5,-110.0,10.5,-110.0,-500.0,375.0,2021-11-11 18:10
+Full Game,2021-11-14,15:25 CST,Green Bay Packers,Seattle Seahawks,49.5,-110.0,49.5,-110.0,-3.5,-110.0,3.5,-110.0,-175.0,155.0,2021-11-11 18:10
+Full Game,2021-11-14,15:25 CST,Denver Broncos,Philadelphia Eagles,45.5,-110.0,45.5,-110.0,-3.0,100.0,3.0,-120.0,-145.0,125.0,2021-11-11 18:10
+Full Game,2021-11-14,19:20 CST,Las Vegas Raiders,Kansas City Chiefs,51.5,-110.0,51.5,-110.0,2.5,-105.0,-2.5,-115.0,125.0,-145.0,2021-11-11 18:10
+Full Game,2021-11-15,19:15 CST,San Francisco 49ers,Los Angeles Rams,49.0,-110.0,49.0,-110.0,4.0,-110.0,-4.0,-110.0,170.0,-200.0,2021-11-11 18:10
+Full Game,2021-11-14,12:00 CST,Indianapolis Colts,Jacksonville Jaguars,47.5,-110.0,47.5,-110.0,-10.5,-110.0,10.5,-110.0,-500.0,375.0,2021-11-11 20:10
+Full Game,2021-11-14,12:00 CST,New England Patriots,Cleveland Browns,45.5,-110.0,45.5,-110.0,-2.5,-110.0,2.5,-110.0,-135.0,115.0,2021-11-11 20:10
+Full Game,2021-11-14,12:00 CST,Dallas Cowboys,Atlanta Falcons,54.5,-110.0,54.5,-110.0,-9.0,-110.0,9.0,-110.0,-420.0,340.0,2021-11-11 20:10
+Full Game,2021-11-14,12:00 CST,New York Jets,Buffalo Bills,47.5,-110.0,47.5,-110.0,12.0,-110.0,-12.0,-110.0,500.0,-700.0,2021-11-11 20:10
+Full Game,2021-11-14,12:00 CST,Tennessee Titans,New Orleans Saints,44.0,-110.0,44.0,-110.0,-3.0,-105.0,3.0,-115.0,-150.0,130.0,2021-11-11 20:10
+Full Game,2021-11-14,12:00 CST,Washington Football Team,Tampa Bay Buccaneers,51.5,-110.0,51.5,-110.0,9.5,-110.0,-9.5,-110.0,350.0,-450.0,2021-11-11 20:10
+Full Game,2021-11-14,12:00 CST,Pittsburgh Steelers,Detroit Lions,42.5,-110.0,42.5,-110.0,-8.5,-110.0,8.5,-110.0,-370.0,310.0,2021-11-11 20:10
+Full Game,2021-11-14,15:05 CST,LA Chargers,Minnesota Vikings,53.5,-110.0,53.5,-110.0,-3.0,-115.0,3.0,-105.0,-165.0,145.0,2021-11-11 20:10
+Full Game,2021-11-14,15:05 CST,Arizona Cardinals,Carolina Panthers,44.0,-110.0,44.0,-110.0,-10.5,-110.0,10.5,-110.0,-500.0,375.0,2021-11-11 20:10
+Full Game,2021-11-14,15:25 CST,Green Bay Packers,Seattle Seahawks,49.5,-110.0,49.5,-110.0,-3.5,-110.0,3.5,-110.0,-175.0,155.0,2021-11-11 20:10
+Full Game,2021-11-14,15:25 CST,Denver Broncos,Philadelphia Eagles,45.5,-110.0,45.5,-110.0,-3.0,100.0,3.0,-120.0,-145.0,125.0,2021-11-11 20:10
+Full Game,2021-11-14,19:20 CST,Las Vegas Raiders,Kansas City Chiefs,51.5,-110.0,51.5,-110.0,2.5,-105.0,-2.5,-115.0,125.0,-145.0,2021-11-11 20:10
+Full Game,2021-11-15,19:15 CST,San Francisco 49ers,Los Angeles Rams,49.0,-110.0,49.0,-110.0,4.0,-110.0,-4.0,-110.0,170.0,-200.0,2021-11-11 20:10
+Full Game,2021-11-14,12:00 CST,Indianapolis Colts,Jacksonville Jaguars,47.5,-110.0,47.5,-110.0,-10.5,-110.0,10.5,-110.0,-500.0,375.0,2021-11-11 22:10
+Full Game,2021-11-14,12:00 CST,New England Patriots,Cleveland Browns,45.5,-110.0,45.5,-110.0,-2.5,-110.0,2.5,-110.0,-135.0,115.0,2021-11-11 22:10
+Full Game,2021-11-14,12:00 CST,Dallas Cowboys,Atlanta Falcons,54.5,-110.0,54.5,-110.0,-9.0,-110.0,9.0,-110.0,-420.0,340.0,2021-11-11 22:10
+Full Game,2021-11-14,12:00 CST,New York Jets,Buffalo Bills,47.5,-110.0,47.5,-110.0,12.0,-110.0,-12.0,-110.0,500.0,-700.0,2021-11-11 22:10
+Full Game,2021-11-14,12:00 CST,Tennessee Titans,New Orleans Saints,44.0,-110.0,44.0,-110.0,-3.0,-105.0,3.0,-115.0,-150.0,130.0,2021-11-11 22:10
+Full Game,2021-11-14,12:00 CST,Washington Football Team,Tampa Bay Buccaneers,51.5,-110.0,51.5,-110.0,9.5,-110.0,-9.5,-110.0,350.0,-450.0,2021-11-11 22:10
+Full Game,2021-11-14,12:00 CST,Pittsburgh Steelers,Detroit Lions,42.5,-110.0,42.5,-110.0,-8.5,-110.0,8.5,-110.0,-370.0,310.0,2021-11-11 22:10
+Full Game,2021-11-14,15:05 CST,LA Chargers,Minnesota Vikings,53.5,-110.0,53.5,-110.0,-3.0,-115.0,3.0,-105.0,-165.0,145.0,2021-11-11 22:10
+Full Game,2021-11-14,15:05 CST,Arizona Cardinals,Carolina Panthers,44.0,-110.0,44.0,-110.0,-10.5,-110.0,10.5,-110.0,-500.0,375.0,2021-11-11 22:10
+Full Game,2021-11-14,15:25 CST,Green Bay Packers,Seattle Seahawks,49.5,-110.0,49.5,-110.0,-3.5,-110.0,3.5,-110.0,-175.0,155.0,2021-11-11 22:10
+Full Game,2021-11-14,15:25 CST,Denver Broncos,Philadelphia Eagles,45.5,-110.0,45.5,-110.0,-3.0,100.0,3.0,-120.0,-145.0,125.0,2021-11-11 22:10
+Full Game,2021-11-14,19:20 CST,Las Vegas Raiders,Kansas City Chiefs,51.5,-110.0,51.5,-110.0,2.5,-105.0,-2.5,-115.0,125.0,-145.0,2021-11-11 22:10
+Full Game,2021-11-15,19:15 CST,San Francisco 49ers,Los Angeles Rams,49.0,-110.0,49.0,-110.0,4.0,-110.0,-4.0,-110.0,170.0,-200.0,2021-11-11 22:10
+Full Game,2021-11-14,12:00 CST,Indianapolis Colts,Jacksonville Jaguars,47.5,-110.0,47.5,-110.0,-10.5,-110.0,10.5,-110.0,-500.0,375.0,2021-11-12 00:10
+Full Game,2021-11-14,12:00 CST,New England Patriots,Cleveland Browns,45.5,-110.0,45.5,-110.0,-2.5,-110.0,2.5,-110.0,-135.0,115.0,2021-11-12 00:10
+Full Game,2021-11-14,12:00 CST,Dallas Cowboys,Atlanta Falcons,54.5,-110.0,54.5,-110.0,-9.0,-110.0,9.0,-110.0,-420.0,340.0,2021-11-12 00:10
+Full Game,2021-11-14,12:00 CST,New York Jets,Buffalo Bills,47.5,-110.0,47.5,-110.0,12.0,-110.0,-12.0,-110.0,500.0,-700.0,2021-11-12 00:10
+Full Game,2021-11-14,12:00 CST,Tennessee Titans,New Orleans Saints,44.0,-110.0,44.0,-110.0,-3.0,-105.0,3.0,-115.0,-150.0,130.0,2021-11-12 00:10
+Full Game,2021-11-14,12:00 CST,Washington Football Team,Tampa Bay Buccaneers,51.5,-110.0,51.5,-110.0,9.5,-110.0,-9.5,-110.0,350.0,-450.0,2021-11-12 00:10
+Full Game,2021-11-14,12:00 CST,Pittsburgh Steelers,Detroit Lions,42.5,-110.0,42.5,-110.0,-8.5,-110.0,8.5,-110.0,-370.0,310.0,2021-11-12 00:10
+Full Game,2021-11-14,15:05 CST,LA Chargers,Minnesota Vikings,53.5,-110.0,53.5,-110.0,-3.0,-115.0,3.0,-105.0,-165.0,145.0,2021-11-12 00:10
+Full Game,2021-11-14,15:05 CST,Arizona Cardinals,Carolina Panthers,44.0,-110.0,44.0,-110.0,-10.5,-110.0,10.5,-110.0,-500.0,375.0,2021-11-12 00:10
+Full Game,2021-11-14,15:25 CST,Green Bay Packers,Seattle Seahawks,49.5,-110.0,49.5,-110.0,-3.5,-110.0,3.5,-110.0,-175.0,155.0,2021-11-12 00:10
+Full Game,2021-11-14,15:25 CST,Denver Broncos,Philadelphia Eagles,45.5,-110.0,45.5,-110.0,-3.0,100.0,3.0,-120.0,-145.0,125.0,2021-11-12 00:10
+Full Game,2021-11-14,19:20 CST,Las Vegas Raiders,Kansas City Chiefs,51.5,-110.0,51.5,-110.0,2.5,-105.0,-2.5,-115.0,125.0,-145.0,2021-11-12 00:10
+Full Game,2021-11-15,19:15 CST,San Francisco 49ers,Los Angeles Rams,49.0,-110.0,49.0,-110.0,4.0,-110.0,-4.0,-110.0,170.0,-200.0,2021-11-12 00:10
+Full Game,2021-11-14,12:00 CST,Indianapolis Colts,Jacksonville Jaguars,47.5,-110.0,47.5,-110.0,-10.5,-110.0,10.5,-110.0,-500.0,375.0,2021-11-12 02:10
+Full Game,2021-11-14,12:00 CST,New England Patriots,Cleveland Browns,45.5,-110.0,45.5,-110.0,-2.5,-110.0,2.5,-110.0,-135.0,115.0,2021-11-12 02:10
+Full Game,2021-11-14,12:00 CST,Dallas Cowboys,Atlanta Falcons,54.5,-110.0,54.5,-110.0,-9.0,-110.0,9.0,-110.0,-420.0,340.0,2021-11-12 02:10
+Full Game,2021-11-14,12:00 CST,New York Jets,Buffalo Bills,47.5,-110.0,47.5,-110.0,12.0,-110.0,-12.0,-110.0,500.0,-700.0,2021-11-12 02:10
+Full Game,2021-11-14,12:00 CST,Tennessee Titans,New Orleans Saints,44.0,-110.0,44.0,-110.0,-3.0,-105.0,3.0,-115.0,-150.0,130.0,2021-11-12 02:10
+Full Game,2021-11-14,12:00 CST,Washington Football Team,Tampa Bay Buccaneers,51.5,-110.0,51.5,-110.0,9.5,-110.0,-9.5,-110.0,350.0,-450.0,2021-11-12 02:10
+Full Game,2021-11-14,12:00 CST,Pittsburgh Steelers,Detroit Lions,42.5,-110.0,42.5,-110.0,-8.5,-110.0,8.5,-110.0,-370.0,310.0,2021-11-12 02:10
+Full Game,2021-11-14,15:05 CST,LA Chargers,Minnesota Vikings,53.5,-110.0,53.5,-110.0,-3.0,-115.0,3.0,-105.0,-165.0,145.0,2021-11-12 02:10
+Full Game,2021-11-14,15:05 CST,Arizona Cardinals,Carolina Panthers,44.0,-110.0,44.0,-110.0,-10.5,-110.0,10.5,-110.0,-500.0,375.0,2021-11-12 02:10
+Full Game,2021-11-14,15:25 CST,Green Bay Packers,Seattle Seahawks,49.5,-110.0,49.5,-110.0,-3.5,-110.0,3.5,-110.0,-175.0,155.0,2021-11-12 02:10
+Full Game,2021-11-14,15:25 CST,Denver Broncos,Philadelphia Eagles,45.5,-110.0,45.5,-110.0,-3.0,100.0,3.0,-120.0,-145.0,125.0,2021-11-12 02:10
+Full Game,2021-11-14,19:20 CST,Las Vegas Raiders,Kansas City Chiefs,51.5,-110.0,51.5,-110.0,2.5,-105.0,-2.5,-115.0,125.0,-145.0,2021-11-12 02:10
+Full Game,2021-11-15,19:15 CST,San Francisco 49ers,Los Angeles Rams,49.0,-110.0,49.0,-110.0,4.0,-110.0,-4.0,-110.0,170.0,-200.0,2021-11-12 02:10
+Full Game,2021-11-14,12:00 CST,Indianapolis Colts,Jacksonville Jaguars,47.5,-110.0,47.5,-110.0,-10.5,-110.0,10.5,-110.0,-500.0,375.0,2021-11-12 04:10
+Full Game,2021-11-14,12:00 CST,New England Patriots,Cleveland Browns,45.5,-110.0,45.5,-110.0,-2.5,-110.0,2.5,-110.0,-135.0,115.0,2021-11-12 04:10
+Full Game,2021-11-14,12:00 CST,Dallas Cowboys,Atlanta Falcons,54.5,-110.0,54.5,-110.0,-9.0,-110.0,9.0,-110.0,-420.0,340.0,2021-11-12 04:10
+Full Game,2021-11-14,12:00 CST,New York Jets,Buffalo Bills,47.5,-110.0,47.5,-110.0,12.0,-110.0,-12.0,-110.0,500.0,-700.0,2021-11-12 04:10
+Full Game,2021-11-14,12:00 CST,Tennessee Titans,New Orleans Saints,44.0,-110.0,44.0,-110.0,-3.0,-105.0,3.0,-115.0,-150.0,130.0,2021-11-12 04:10
+Full Game,2021-11-14,12:00 CST,Washington Football Team,Tampa Bay Buccaneers,51.5,-110.0,51.5,-110.0,9.5,-110.0,-9.5,-110.0,350.0,-450.0,2021-11-12 04:10
+Full Game,2021-11-14,12:00 CST,Pittsburgh Steelers,Detroit Lions,42.5,-110.0,42.5,-110.0,-8.5,-110.0,8.5,-110.0,-370.0,310.0,2021-11-12 04:10
+Full Game,2021-11-14,15:05 CST,LA Chargers,Minnesota Vikings,53.5,-110.0,53.5,-110.0,-3.0,-115.0,3.0,-105.0,-165.0,145.0,2021-11-12 04:10
+Full Game,2021-11-14,15:05 CST,Arizona Cardinals,Carolina Panthers,44.0,-110.0,44.0,-110.0,-10.5,-110.0,10.5,-110.0,-500.0,375.0,2021-11-12 04:10
+Full Game,2021-11-14,15:25 CST,Green Bay Packers,Seattle Seahawks,49.5,-110.0,49.5,-110.0,-3.5,-110.0,3.5,-110.0,-175.0,155.0,2021-11-12 04:10
+Full Game,2021-11-14,15:25 CST,Denver Broncos,Philadelphia Eagles,45.5,-110.0,45.5,-110.0,-3.0,100.0,3.0,-120.0,-145.0,125.0,2021-11-12 04:10
+Full Game,2021-11-14,19:20 CST,Las Vegas Raiders,Kansas City Chiefs,51.5,-110.0,51.5,-110.0,2.5,-105.0,-2.5,-115.0,125.0,-145.0,2021-11-12 04:10
+Full Game,2021-11-15,19:15 CST,San Francisco 49ers,Los Angeles Rams,49.0,-110.0,49.0,-110.0,4.0,-110.0,-4.0,-110.0,170.0,-200.0,2021-11-12 04:10
+Full Game,2021-11-14,12:00 CST,Indianapolis Colts,Jacksonville Jaguars,47.5,-110.0,47.5,-110.0,-10.5,-110.0,10.5,-110.0,-500.0,375.0,2021-11-12 06:10
+Full Game,2021-11-14,12:00 CST,New England Patriots,Cleveland Browns,45.5,-110.0,45.5,-110.0,-2.5,-110.0,2.5,-110.0,-135.0,115.0,2021-11-12 06:10
+Full Game,2021-11-14,12:00 CST,Dallas Cowboys,Atlanta Falcons,54.5,-110.0,54.5,-110.0,-9.0,-110.0,9.0,-110.0,-420.0,340.0,2021-11-12 06:10
+Full Game,2021-11-14,12:00 CST,New York Jets,Buffalo Bills,47.5,-110.0,47.5,-110.0,12.0,-110.0,-12.0,-110.0,500.0,-700.0,2021-11-12 06:10
+Full Game,2021-11-14,12:00 CST,Tennessee Titans,New Orleans Saints,44.0,-110.0,44.0,-110.0,-3.0,-105.0,3.0,-115.0,-150.0,130.0,2021-11-12 06:10
+Full Game,2021-11-14,12:00 CST,Washington Football Team,Tampa Bay Buccaneers,51.5,-110.0,51.5,-110.0,9.5,-110.0,-9.5,-110.0,350.0,-450.0,2021-11-12 06:10
+Full Game,2021-11-14,12:00 CST,Pittsburgh Steelers,Detroit Lions,42.5,-110.0,42.5,-110.0,-8.5,-110.0,8.5,-110.0,-370.0,310.0,2021-11-12 06:10
+Full Game,2021-11-14,15:05 CST,LA Chargers,Minnesota Vikings,53.5,-110.0,53.5,-110.0,-3.0,-115.0,3.0,-105.0,-165.0,145.0,2021-11-12 06:10
+Full Game,2021-11-14,15:05 CST,Arizona Cardinals,Carolina Panthers,44.0,-110.0,44.0,-110.0,-10.5,-110.0,10.5,-110.0,-500.0,375.0,2021-11-12 06:10
+Full Game,2021-11-14,15:25 CST,Green Bay Packers,Seattle Seahawks,49.5,-110.0,49.5,-110.0,-3.5,-110.0,3.5,-110.0,-175.0,155.0,2021-11-12 06:10
+Full Game,2021-11-14,15:25 CST,Denver Broncos,Philadelphia Eagles,45.5,-110.0,45.5,-110.0,-3.0,100.0,3.0,-120.0,-145.0,125.0,2021-11-12 06:10
+Full Game,2021-11-14,19:20 CST,Las Vegas Raiders,Kansas City Chiefs,51.5,-110.0,51.5,-110.0,2.5,-105.0,-2.5,-115.0,125.0,-145.0,2021-11-12 06:10
+Full Game,2021-11-15,19:15 CST,San Francisco 49ers,Los Angeles Rams,49.0,-110.0,49.0,-110.0,4.0,-110.0,-4.0,-110.0,170.0,-200.0,2021-11-12 06:10
+Full Game,2021-11-14,12:00 CST,Indianapolis Colts,Jacksonville Jaguars,47.5,-110.0,47.5,-110.0,-10.5,-110.0,10.5,-110.0,-500.0,375.0,2021-11-12 08:10
+Full Game,2021-11-14,12:00 CST,New England Patriots,Cleveland Browns,45.0,-110.0,45.0,-110.0,-2.5,-110.0,2.5,-110.0,-135.0,115.0,2021-11-12 08:10
+Full Game,2021-11-14,12:00 CST,Dallas Cowboys,Atlanta Falcons,54.5,-110.0,54.5,-110.0,-9.0,-110.0,9.0,-110.0,-420.0,340.0,2021-11-12 08:10
+Full Game,2021-11-14,12:00 CST,New York Jets,Buffalo Bills,47.5,-110.0,47.5,-110.0,12.0,-110.0,-12.0,-110.0,500.0,-700.0,2021-11-12 08:10
+Full Game,2021-11-14,12:00 CST,Tennessee Titans,New Orleans Saints,44.0,-110.0,44.0,-110.0,-3.0,-105.0,3.0,-115.0,-150.0,130.0,2021-11-12 08:10
+Full Game,2021-11-14,12:00 CST,Washington Football Team,Tampa Bay Buccaneers,51.5,-110.0,51.5,-110.0,9.5,-110.0,-9.5,-110.0,350.0,-450.0,2021-11-12 08:10
+Full Game,2021-11-14,12:00 CST,Pittsburgh Steelers,Detroit Lions,42.5,-110.0,42.5,-110.0,-8.5,-110.0,8.5,-110.0,-370.0,310.0,2021-11-12 08:10
+Full Game,2021-11-14,15:05 CST,LA Chargers,Minnesota Vikings,53.5,-110.0,53.5,-110.0,-3.0,-115.0,3.0,-105.0,-165.0,145.0,2021-11-12 08:10
+Full Game,2021-11-14,15:05 CST,Arizona Cardinals,Carolina Panthers,44.0,-110.0,44.0,-110.0,-10.5,-110.0,10.5,-110.0,-500.0,375.0,2021-11-12 08:10
+Full Game,2021-11-14,15:25 CST,Green Bay Packers,Seattle Seahawks,49.5,-110.0,49.5,-110.0,-3.5,-110.0,3.5,-110.0,-175.0,155.0,2021-11-12 08:10
+Full Game,2021-11-14,15:25 CST,Denver Broncos,Philadelphia Eagles,45.5,-110.0,45.5,-110.0,-2.5,-110.0,2.5,-110.0,-145.0,125.0,2021-11-12 08:10
+Full Game,2021-11-14,19:20 CST,Las Vegas Raiders,Kansas City Chiefs,52.5,-110.0,52.5,-110.0,2.5,-105.0,-2.5,-115.0,125.0,-145.0,2021-11-12 08:10
+Full Game,2021-11-15,19:15 CST,San Francisco 49ers,Los Angeles Rams,49.0,-110.0,49.0,-110.0,4.0,-110.0,-4.0,-110.0,170.0,-200.0,2021-11-12 08:10
+Full Game,2021-11-14,12:00 CST,Indianapolis Colts,Jacksonville Jaguars,47.5,-110.0,47.5,-110.0,-10.5,-110.0,10.5,-110.0,-500.0,375.0,2021-11-12 10:10
+Full Game,2021-11-14,12:00 CST,New England Patriots,Cleveland Browns,45.0,-110.0,45.0,-110.0,-2.5,-110.0,2.5,-110.0,-135.0,115.0,2021-11-12 10:10
+Full Game,2021-11-14,12:00 CST,Dallas Cowboys,Atlanta Falcons,54.5,-110.0,54.5,-110.0,-9.0,-110.0,9.0,-110.0,-420.0,340.0,2021-11-12 10:10
+Full Game,2021-11-14,12:00 CST,New York Jets,Buffalo Bills,47.5,-110.0,47.5,-110.0,12.0,-110.0,-12.0,-110.0,500.0,-700.0,2021-11-12 10:10
+Full Game,2021-11-14,12:00 CST,Tennessee Titans,New Orleans Saints,44.0,-110.0,44.0,-110.0,-3.0,-105.0,3.0,-115.0,-150.0,130.0,2021-11-12 10:10
+Full Game,2021-11-14,12:00 CST,Washington Football Team,Tampa Bay Buccaneers,51.5,-110.0,51.5,-110.0,9.5,-110.0,-9.5,-110.0,350.0,-450.0,2021-11-12 10:10
+Full Game,2021-11-14,12:00 CST,Pittsburgh Steelers,Detroit Lions,42.5,-110.0,42.5,-110.0,-8.5,-110.0,8.5,-110.0,-370.0,310.0,2021-11-12 10:10
+Full Game,2021-11-14,15:05 CST,LA Chargers,Minnesota Vikings,53.5,-110.0,53.5,-110.0,-3.0,-115.0,3.0,-105.0,-165.0,145.0,2021-11-12 10:10
+Full Game,2021-11-14,15:05 CST,Arizona Cardinals,Carolina Panthers,44.0,-110.0,44.0,-110.0,-10.5,-110.0,10.5,-110.0,-500.0,375.0,2021-11-12 10:10
+Full Game,2021-11-14,15:25 CST,Green Bay Packers,Seattle Seahawks,49.5,-110.0,49.5,-110.0,-3.5,-110.0,3.5,-110.0,-175.0,155.0,2021-11-12 10:10
+Full Game,2021-11-14,15:25 CST,Denver Broncos,Philadelphia Eagles,45.5,-110.0,45.5,-110.0,-2.5,-110.0,2.5,-110.0,-145.0,125.0,2021-11-12 10:10
+Full Game,2021-11-14,19:20 CST,Las Vegas Raiders,Kansas City Chiefs,52.5,-110.0,52.5,-110.0,2.5,-105.0,-2.5,-115.0,125.0,-145.0,2021-11-12 10:10
+Full Game,2021-11-15,19:15 CST,San Francisco 49ers,Los Angeles Rams,49.0,-110.0,49.0,-110.0,4.0,-110.0,-4.0,-110.0,170.0,-200.0,2021-11-12 10:10

@@ -34,6 +34,7 @@ def listdir_fullpath(d):
 class Match_Team:
     def __init__(self, league):
         self.league = league
+        self.team_dict = self.load_team_dict()
 
     def load_team_dict(self):  # Top Level
         """
@@ -151,6 +152,23 @@ class Match_Team:
                 real_team_index = input("replacement index: ")
                 team_dict = self.update_team_dict(team_dict, team_name, matches, real_team_index)
                 self.save_team_dict(team_dict)
+
+    def find_team_name(self, team_name):  # Run
+        """
+        finds the official ESPN team name for the scraped name
+        - if the name has no official name and isn't in 'Other Names', this raises an error
+        """
+        official_names = list(self.team_dict['Teams'].keys())
+        if team_name in official_names:
+            return team_name
+
+        for official_name in official_names:
+            if team_name in self.team_dict['Teams'][official_name]['Other Names']:
+                return official_name
+
+        if team_name not in self.team_dict['Other Teams']:
+            raise ValueError("COULD NOT FIND OFFICIAL TEAM NAME")
+        return team_name
 
 
 if __name__ == '__main__':

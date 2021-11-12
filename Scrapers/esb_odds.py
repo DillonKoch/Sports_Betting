@@ -22,7 +22,7 @@ from os.path import abspath, dirname
 import pandas as pd
 from bs4 import BeautifulSoup as soup
 from selenium import webdriver
-from selenium.webdriver.firefox.options import Options
+from selenium.webdriver.chrome.options import Options
 
 ROOT_PATH = dirname(dirname(abspath(__file__)))
 if ROOT_PATH not in sys.path:
@@ -45,7 +45,7 @@ class ESB_Odds:
                      "NCAAB": "https://www.elitesportsbook.com/sports/ncaa-men's-basketball-betting/game-lines-full-game.sbk"}
         self.link = link_dict[league]
 
-        self.df_cols = ["Title", "datetime", "Game_Time", "Home", "Away", "Over", "Over_ML",
+        self.df_cols = ["Title", "Date", "Game_Time", "Home", "Away", "Over", "Over_ML",
                         "Under", "Under_ML", "Home_Spread", "Home_Spread_ML", "Away_Spread", "Away_Spread_ML",
                         "Home_ML", "Away_ML", "scraped_ts"]
         self.scrape_ts = datetime.datetime.now().strftime("%Y-%m-%d %H:%M")
@@ -56,7 +56,7 @@ class ESB_Odds:
         """
         options = Options()
         options.headless = True
-        self.driver = webdriver.Firefox(executable_path=ROOT_PATH + "/Scrapers/geckodriver", options=options)
+        self.driver = webdriver.Chrome(executable_path=ROOT_PATH + "/Scrapers/chromedriver", options=options)
         time.sleep(1)
 
     def load_df(self):  # Top Level
@@ -257,7 +257,7 @@ class ESB_Odds:
         """
         saves the dataframe to /Data/ESB/{league}/Game_Lines.csv
         """
-        df['datetime'] = pd.to_datetime(df['datetime'])
+        df['Date'] = pd.to_datetime(df['Date'])
         df.to_csv(ROOT_PATH + f"/Data/ESB/{self.league}/Game_Lines.csv", index=False)
 
     def run(self):  # Run
@@ -292,4 +292,8 @@ if __name__ == '__main__':
     for league in ['NFL', 'NBA', 'NCAAF', 'NCAAB']:
         x = ESB_Odds(league)
         self = x
+        # try:
         sp = x.run()
+        # except Exception as e:
+        #     print(e)
+        #     print('-' * 50)

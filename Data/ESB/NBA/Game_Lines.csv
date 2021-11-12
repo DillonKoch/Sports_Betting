@@ -1,4 +1,4 @@
-Title,datetime,Game_Time,Home,Away,Over,Over_ML,Under,Under_ML,Home_Spread,Home_Spread_ML,Away_Spread,Away_Spread_ML,Home_ML,Away_ML,scraped_ts
+Title,Date,Game_Time,Home,Away,Over,Over_ML,Under,Under_ML,Home_Spread,Home_Spread_ML,Away_Spread,Away_Spread_ML,Home_ML,Away_ML,scraped_ts
 Full Game,2021-10-29,18:10 CDT,Toronto Raptors,Orlando Magic,206.0,-110.0,206.0,-110.0,-8.0,-110.0,8.0,-110.0,-330.0,270.0,2021-10-29 10:08
 Full Game,2021-10-29,18:40 CDT,Miami Heat,Charlotte Hornets,223.0,-110.0,223.0,-110.0,-6.5,-110.0,6.5,-110.0,-260.0,220.0,2021-10-29 10:08
 Full Game,2021-10-29,18:40 CDT,Brooklyn Nets,Indiana Pacers,222.5,-110.0,222.5,-110.0,-8.5,-110.0,8.5,-110.0,-380.0,320.0,2021-10-29 10:08
@@ -217,3 +217,56 @@ Full Game,2021-11-08,20:10 CST,Denver Nuggets,Miami Heat,203.0,-110.0,203.0,-110
 Full Game,2021-11-08,21:10 CST,Golden State Warriors,Atlanta Hawks,222.5,-110.0,222.5,-110.0,-3.0,-110.0,3.0,-110.0,-150.0,130.0,2021-11-08 18:10
 Full Game,2021-11-08,21:10 CST,Sacramento Kings,Phoenix Suns,225.0,-110.0,225.0,-110.0,3.0,-110.0,-3.0,-110.0,130.0,-150.0,2021-11-08 18:10
 Full Game,2021-11-08,21:40 CST,Los Angeles Lakers,Charlotte Hornets,226.0,-110.0,226.0,-110.0,-2.5,-110.0,2.5,-110.0,-135.0,115.0,2021-11-08 18:10
+Full Game,2021-11-10,18:10 CST,Cleveland Cavaliers,Washington Wizards,209.0,-110.0,209.0,-110.0,3.0,-110.0,-3.0,-110.0,135.0,-160.0,2021-11-10 16:34
+Full Game,2021-11-10,18:10 CST,Orlando Magic,Brooklyn Nets,210.5,-110.0,210.5,-110.0,10.0,-110.0,-10.0,-110.0,350.0,-470.0,2021-11-10 16:34
+Full Game,2021-11-10,18:40 CST,Boston Celtics,Toronto Raptors,206.0,-110.0,206.0,-110.0,-3.0,-110.0,3.0,-110.0,-145.0,125.0,2021-11-10 16:34
+Full Game,2021-11-10,18:40 CST,New York Knicks,Milwaukee Bucks,215.5,-115.0,215.5,-105.0,-4.0,-115.0,4.0,-105.0,-180.0,150.0,2021-11-10 16:34
+Full Game,2021-11-10,18:40 CST,Houston Rockets,Detroit Pistons,210.5,-110.0,210.5,-110.0,-3.0,-110.0,3.0,-110.0,-150.0,130.0,2021-11-10 16:34
+Full Game,2021-11-10,19:10 CST,Memphis Grizzlies,Charlotte Hornets,229.5,-110.0,229.5,-110.0,-4.5,-110.0,4.5,-110.0,-190.0,160.0,2021-11-10 16:34
+Full Game,2021-11-10,19:10 CST,New Orleans Pelicans,Oklahoma City Thunder,211.0,-110.0,211.0,-110.0,-5.0,-110.0,5.0,-110.0,-200.0,170.0,2021-11-10 16:34
+Full Game,2021-11-10,19:10 CST,Chicago Bulls,Dallas Mavericks,215.0,-110.0,215.0,-110.0,-3.5,-110.0,3.5,-110.0,-165.0,140.0,2021-11-10 16:34
+Full Game,2021-11-10,19:40 CST,San Antonio Spurs,Sacramento Kings,223.0,-110.0,223.0,-110.0,,,,,-110.0,-110.0,2021-11-10 16:34
+Full Game,2021-11-10,20:10 CST,Phoenix Suns,Portland Trail Blazers,224.0,-110.0,224.0,-110.0,-5.0,-110.0,5.0,-110.0,-200.0,170.0,2021-11-10 16:34
+Full Game,2021-11-10,20:10 CST,Denver Nuggets,Indiana Pacers,204.5,-110.0,204.5,-110.0,3.0,-110.0,-3.0,-110.0,130.0,-150.0,2021-11-10 16:34
+Full Game,2021-11-10,21:10 CST,Golden State Warriors,Minnesota Timberwolves,222.5,-110.0,222.5,-110.0,-7.5,-110.0,7.5,-110.0,-320.0,250.0,2021-11-10 16:34
+Full Game,2021-11-10,21:10 CST,Los Angeles Lakers,Miami Heat,215.5,-110.0,215.5,-110.0,5.0,-110.0,-5.0,-110.0,170.0,-200.0,2021-11-10 16:34
+Full Game,2021-11-11,18:10 CST,Philadelphia 76ers,Toronto Raptors,210.5,-110.0,210.5,-110.0,-3.0,-110.0,3.0,-110.0,-150.0,130.0,2021-11-11 08:10
+Full Game,2021-11-11,20:10 CST,Utah Jazz,Indiana Pacers,220.0,-105.0,220.0,-115.0,-9.5,-110.0,9.5,-110.0,-500.0,370.0,2021-11-11 08:10
+Full Game,2021-11-11,21:40 CST,Los Angeles Clippers,Miami Heat,213.5,-110.0,213.5,-110.0,-3.5,-110.0,3.5,-110.0,-165.0,140.0,2021-11-11 08:10
+Full Game,2021-11-11,18:10 CST,Philadelphia 76ers,Toronto Raptors,210.0,-110.0,210.0,-110.0,-3.0,-110.0,3.0,-110.0,-140.0,120.0,2021-11-11 10:10
+Full Game,2021-11-11,20:10 CST,Utah Jazz,Indiana Pacers,216.0,-110.0,216.0,-110.0,-10.0,-110.0,10.0,-110.0,-500.0,375.0,2021-11-11 10:10
+Full Game,2021-11-11,21:40 CST,Los Angeles Clippers,Miami Heat,211.5,-110.0,211.5,-110.0,-4.5,-110.0,4.5,-110.0,-175.0,155.0,2021-11-11 10:10
+Full Game,2021-11-11,18:10 CST,Philadelphia 76ers,Toronto Raptors,210.0,-110.0,210.0,-110.0,-3.0,-110.0,3.0,-110.0,-140.0,120.0,2021-11-11 12:10
+Full Game,2021-11-11,20:10 CST,Utah Jazz,Indiana Pacers,216.0,-110.0,216.0,-110.0,-10.0,-110.0,10.0,-110.0,-500.0,375.0,2021-11-11 12:10
+Full Game,2021-11-11,21:40 CST,Los Angeles Clippers,Miami Heat,211.5,-110.0,211.5,-110.0,-4.5,-110.0,4.5,-110.0,-175.0,155.0,2021-11-11 12:10
+Full Game,2021-11-11,18:10 CST,Philadelphia 76ers,Toronto Raptors,210.0,-110.0,210.0,-110.0,-3.0,-110.0,3.0,-110.0,-140.0,120.0,2021-11-11 14:10
+Full Game,2021-11-11,20:10 CST,Utah Jazz,Indiana Pacers,216.0,-110.0,216.0,-110.0,-10.0,-110.0,10.0,-110.0,-500.0,375.0,2021-11-11 14:10
+Full Game,2021-11-11,21:40 CST,Los Angeles Clippers,Miami Heat,211.5,-110.0,211.5,-110.0,-5.5,-110.0,5.5,-110.0,-210.0,175.0,2021-11-11 14:10
+Full Game,2021-11-11,18:10 CST,Philadelphia 76ers,Toronto Raptors,211.5,-110.0,211.5,-110.0,-4.0,-110.0,4.0,-110.0,-170.0,150.0,2021-11-11 16:10
+Full Game,2021-11-11,20:10 CST,Utah Jazz,Indiana Pacers,215.5,-110.0,215.5,-110.0,-11.0,-110.0,11.0,-110.0,-575.0,425.0,2021-11-11 16:10
+Full Game,2021-11-11,21:40 CST,Los Angeles Clippers,Miami Heat,211.5,-110.0,211.5,-110.0,-6.0,-110.0,6.0,-110.0,-220.0,180.0,2021-11-11 16:10
+Full Game,2021-11-11,20:10 CST,Utah Jazz,Indiana Pacers,215.5,-110.0,215.5,-110.0,-11.0,-110.0,11.0,-110.0,-575.0,425.0,2021-11-11 18:10
+Full Game,2021-11-11,21:40 CST,Los Angeles Clippers,Miami Heat,211.5,-110.0,211.5,-110.0,-6.0,-110.0,6.0,-110.0,-230.0,190.0,2021-11-11 18:10
+Full Game,2021-11-11,21:40 CST,Los Angeles Clippers,Miami Heat,211.5,-110.0,211.5,-110.0,-6.0,-110.0,6.0,-110.0,-230.0,190.0,2021-11-11 20:10
+Full Game,2021-11-12,18:10 CST,Charlotte Hornets,New York Knicks,223.5,-110.0,223.5,-110.0,1.5,-110.0,-1.5,-110.0,100.0,-120.0,2021-11-12 08:10
+Full Game,2021-11-12,18:40 CST,Cleveland Cavaliers,Detroit Pistons,202.0,-115.0,202.0,-105.0,-5.0,-110.0,5.0,-110.0,-215.0,170.0,2021-11-12 08:10
+Full Game,2021-11-12,18:40 CST,Boston Celtics,Milwaukee Bucks,213.5,-110.0,213.5,-110.0,2.5,-110.0,-2.5,-110.0,110.0,-130.0,2021-11-12 08:10
+Full Game,2021-11-12,19:10 CST,Houston Rockets,Portland Trail Blazers,222.5,-115.0,222.5,-105.0,6.5,-110.0,-6.5,-110.0,200.0,-255.0,2021-11-12 08:10
+Full Game,2021-11-12,19:10 CST,New Orleans Pelicans,Brooklyn Nets,211.5,-110.0,211.5,-110.0,7.5,-110.0,-7.5,-110.0,265.0,-350.0,2021-11-12 08:10
+Full Game,2021-11-12,19:10 CST,Memphis Grizzlies,Phoenix Suns,222.0,-110.0,222.0,-110.0,-1.0,-110.0,1.0,-110.0,-120.0,100.0,2021-11-12 08:10
+Full Game,2021-11-12,19:10 CST,Oklahoma City Thunder,Sacramento Kings,218.0,-110.0,218.0,-110.0,4.5,-110.0,-4.5,-110.0,160.0,-190.0,2021-11-12 08:10
+Full Game,2021-11-12,19:40 CST,San Antonio Spurs,Dallas Mavericks,217.5,-110.0,217.5,-110.0,2.5,-110.0,-2.5,-110.0,115.0,-135.0,2021-11-12 08:10
+Full Game,2021-11-12,20:10 CST,Denver Nuggets,Atlanta Hawks,215.5,-110.0,215.5,-110.0,-5.0,-105.0,5.0,-115.0,-195.0,165.0,2021-11-12 08:10
+Full Game,2021-11-12,21:10 CST,Golden State Warriors,Chicago Bulls,221.5,-110.0,221.5,-110.0,-5.5,-110.0,5.5,-110.0,-225.0,180.0,2021-11-12 08:10
+Full Game,2021-11-12,21:40 CST,Los Angeles Lakers,Minnesota Timberwolves,224.5,-110.0,224.5,-110.0,-2.5,-110.0,2.5,-110.0,-140.0,120.0,2021-11-12 08:10
+Full Game,2021-11-12,18:10 CST,Charlotte Hornets,New York Knicks,224.0,-110.0,224.0,-110.0,1.5,-105.0,-1.5,-115.0,105.0,-125.0,2021-11-12 10:10
+Full Game,2021-11-12,18:40 CST,Cleveland Cavaliers,Detroit Pistons,200.5,-110.0,200.5,-110.0,-4.5,-110.0,4.5,-110.0,-190.0,160.0,2021-11-12 10:10
+Full Game,2021-11-12,18:40 CST,Boston Celtics,Milwaukee Bucks,211.5,-110.0,211.5,-110.0,1.5,-110.0,-1.5,-110.0,100.0,-120.0,2021-11-12 10:10
+Full Game,2021-11-12,19:10 CST,Houston Rockets,Portland Trail Blazers,222.5,-110.0,222.5,-110.0,6.5,-110.0,-6.5,-110.0,200.0,-255.0,2021-11-12 10:10
+Full Game,2021-11-12,19:10 CST,New Orleans Pelicans,Brooklyn Nets,214.5,-110.0,214.5,-110.0,9.0,-115.0,-9.0,-105.0,310.0,-400.0,2021-11-12 10:10
+Full Game,2021-11-12,19:10 CST,Memphis Grizzlies,Phoenix Suns,222.5,-110.0,222.5,-110.0,2.0,-110.0,-2.0,-110.0,110.0,-130.0,2021-11-12 10:10
+Full Game,2021-11-12,19:10 CST,Oklahoma City Thunder,Sacramento Kings,218.5,-115.0,218.5,-105.0,4.5,-110.0,-4.5,-110.0,165.0,-195.0,2021-11-12 10:10
+Full Game,2021-11-12,19:40 CST,San Antonio Spurs,Dallas Mavericks,219.0,-110.0,219.0,-110.0,3.0,-110.0,-3.0,-110.0,125.0,-145.0,2021-11-12 10:10
+Full Game,2021-11-12,20:10 CST,Denver Nuggets,Atlanta Hawks,214.5,-110.0,214.5,-110.0,-4.0,-110.0,4.0,-110.0,-180.0,150.0,2021-11-12 10:10
+Full Game,2021-11-12,21:10 CST,Golden State Warriors,Chicago Bulls,221.5,-110.0,221.5,-110.0,-5.5,-110.0,5.5,-110.0,-225.0,180.0,2021-11-12 10:10
+Full Game,2021-11-12,21:40 CST,Los Angeles Lakers,Minnesota Timberwolves,223.0,-110.0,223.0,-110.0,-2.0,-110.0,2.0,-110.0,-130.0,110.0,2021-11-12 10:10

@@ -30,6 +30,7 @@ ROOT_PATH = dirname(dirname(abspath(__file__)))
 if ROOT_PATH not in sys.path:
     sys.path.append(ROOT_PATH)
 
+from Data_Cleaning.match_team import Match_Team
 
 warnings.filterwarnings("ignore")
 
@@ -54,6 +55,7 @@ class SBO_Clean_Data:
                         'Home_Line_2H', 'Home_Line_2H_ML', 'Away_Line_2H', 'Away_Line_2H_ML',
                         'Home_ML', 'Away_ML']
         self.team_dict = self.load_team_dict()
+        self.match_team = Match_Team(self.league)
 
     def load_team_dict(self):  # Top Level
         """
@@ -117,30 +119,13 @@ class SBO_Clean_Data:
         away_row = row2 if row1_home else row1
         return home_row, away_row
 
-    def _find_team_name(self, name):  # Helping Helper _home_away_neutral
-        """
-        finds the official ESPN team name for the scraped name
-        - if the name has no official name and isn't in 'Other Names', this raises an error
-        """
-        official_names = list(self.team_dict['Teams'].keys())
-        if name in official_names:
-            return name
-
-        for official_name in official_names:
-            if name in self.team_dict['Teams'][official_name]['Other Names']:
-                return official_name
-
-        if name not in self.team_dict['Other Teams']:
-            raise ValueError("COULD NOT FIND OFFICIAL TEAM NAME")
-        return name
-
     def _home_away_neutral(self, row_pair):  # Specific Helper row_pair_to_df
         """
         returns the home/away official name from the row pair, and whether the game is at a neutral location
         """
         home_row, away_row = self._home_away_row(row_pair)
-        home = self._find_team_name(home_row[3])
-        away = self._find_team_name(away_row[3])
+        home = self.match_team.find_team_name(home_row[3])
+        away = self.match_team.find_team_name(away_row[3])
         is_neutral = 1 if home_row[2] == 'N' else 0
         return home, away, is_neutral
 
@@ -216,19 +201,39 @@ class SBO_Clean_Data:
         df.loc[len(df)] = new_row
         return df
 
-    def run(self):  # Run
+    # def run(self):  # Run
+    #     df = pd.DataFrame(columns=self.df_cols)
+    #     odds_paths = sorted(listdir_fullpath(ROOT_PATH + f"/Data/Odds/{self.league}/"))
+    #     for odds_path in tqdm(odds_paths):
+    #         odds_df = pd.read_excel(odds_path)
+    #         season = self.odds_path_to_season(odds_path)
+    #         row_pairs = self.odds_df_to_row_pairs(odds_df)
+
+    #         seen_january = False
+    #         for row_pair in tqdm(row_pairs):
+    #             seen_january = True if seen_january else self.check_game_in_january(row_pair)
+    #             df = self.row_pair_to_df(row_pair, df, season, seen_january)
+
+    #     df.to_csv(ROOT_PATH + f"/Data/Odds/{self.league}.csv", index=False)
+
+    def odds_path_to_df(self, odds_path):  # Top Level
         df = pd.DataFrame(columns=self.df_cols)
+
+        odds_df = pd.read_excel(odds_path)
+        season = self.odds_path_to_season(odds_path)
+        row_pairs = self.odds_df_to_row_pairs(odds_df)
+
+        seen_january = False
+        for row_pair in tqdm(row_pairs):
+            seen_january = True if seen_january else self.check_game_in_january(row_pair)
+            df = self.row_pair_to_df(row_pair, df, season, seen_january)
+
+        return df
+
+    def run(self):  # Run
         odds_paths = sorted(listdir_fullpath(ROOT_PATH + f"/Data/Odds/{self.league}/"))
-        for odds_path in tqdm(odds_paths):
-            odds_df = pd.read_excel(odds_path)
-            season = self.odds_path_to_season(odds_path)
-            row_pairs = self.odds_df_to_row_pairs(odds_df)
-
-            seen_january = False
-            for row_pair in tqdm(row_pairs):
-                seen_january = True if seen_january else self.check_game_in_january(row_pair)
-                df = self.row_pair_to_df(row_pair, df, season, seen_january)
-
+        processed_dfs = multithread(self.odds_path_to_df, odds_paths)
+        df = pd.concat(processed_dfs)
         df.to_csv(ROOT_PATH + f"/Data/Odds/{self.league}.csv", index=False)
 
 

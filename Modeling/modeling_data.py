@@ -14,6 +14,7 @@
 
 
 import concurrent.futures
+import datetime
 import sys
 from os.path import abspath, dirname
 
@@ -56,6 +57,7 @@ class Modeling_Data:
         """
         Engineering new target features to be modeled
         """
+        # TODO keep everything None for unplayed games
         # * Home_Win
         games_df['Home_Win'] = games_df['Home_Final'] > games_df['Away_Final']
         games_df['Home_Win'] = games_df['Home_Win'].astype(int)
@@ -67,6 +69,10 @@ class Modeling_Data:
         # * Over_Covered
         games_df['Over_Covered'] = (games_df['Home_Final'] + games_df['Away_Final']) > games_df['OU_Close']
         games_df['Over_Covered'] = games_df['Over_Covered'].astype(int)
+
+        # ! I think I need to change this - I do want available
+        for col in ['Home_Win', 'Home_Win_Margin', 'Home_Covered', 'Over_Covered']:
+            games_df.loc[games_df['Final_Status'].isnull(), col] = None
         return games_df
 
     def load_game_dicts(self):  # Top Level
@@ -175,6 +181,9 @@ class Modeling_Data:
         prev_game_dicts = self._game_dicts_before_date(game_dicts, date)
         recent_games = []
         for prev_game_dict in prev_game_dicts:
+            if 'Final' not in str(prev_game_dict['Final_Status']):
+                continue
+
             home = prev_game_dict['Home']
             away = prev_game_dict['Away']
             if team in [home, away]:
@@ -212,6 +221,7 @@ class Modeling_Data:
         """
         adding specified targets to the final df straight from the merged df
         """
+        # game_date = datetime.datetime.strptime(game_dict['Date'], "%Y-%m-%d") # ! was trying to avoid giving unplayed games targets
         for target in targets:
             new_row_dict[target] = game_dict[target]
         return new_row_dict
@@ -254,18 +264,18 @@ class Modeling_Data:
 
         return df
 
-    def upcoming_game_to_row_dict(self, home, away, date, feature_cols, targets, extra_cols):  # Run
-        """
-        creates a one-row df for an upcoming game that can be passed to the models
-        """
-        game_dicts = self.load_game_dicts()
-        feature_cols = self.get_feature_cols()
+    # def upcoming_game_to_row_dict(self, home, away, date, feature_cols, targets, extra_cols):  # Run
+    #     """
+    #     creates a one-row df for an upcoming game that can be passed to the models
+    #     """
+    #     game_dicts = self.load_game_dicts()
+    #     feature_cols = self.get_feature_cols()
 
-        home_recent_games = self.query_recent_games(home, date, game_dicts)
-        away_recent_games = self.query_recent_games(away, date, game_dicts)
-        new_row_dict = {feature_col: self.avg_feature_col(feature_col, home, away, home_recent_games, away_recent_games)
-                        for feature_col in feature_cols}
-        return new_row_dict
+    #     home_recent_games = self.query_recent_games(home, date, game_dicts)
+    #     away_recent_games = self.query_recent_games(away, date, game_dicts)
+    #     new_row_dict = {feature_col: self.avg_feature_col(feature_col, home, away, home_recent_games, away_recent_games)
+    #                     for feature_col in feature_cols}
+    #     return new_row_dict
 
         # TODO assert that there's enough data for the two teams
         # TODO run build_new_row_dict with input info
@@ -273,9 +283,8 @@ class Modeling_Data:
 
 if __name__ == '__main__':
     league = "NFL"
-    targets = ['Home_ML', 'Home_Win', 'Home_Win_Margin', 'Home_Covered', 'Over_Covered']
     x = Modeling_Data(league)
-    self = x
-    extra_cols = ['Home', 'Away', 'Date']
-    df = x.run(targets, extra_cols)
-    df.to_csv("temp.csv")
+    targets = ['Home_ML', 'Home_Win', 'Home_Win_Margin', 'Home_Covered', 'Over_Covered']
+    # extra_cols = ['Home', 'Away', 'Date']
+    df = x.run(targets)
+    # df.to_csv("temp.csv")

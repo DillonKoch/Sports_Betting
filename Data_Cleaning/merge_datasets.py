@@ -13,14 +13,18 @@
 # ==============================================================================
 
 
+import json
 import sys
 from os.path import abspath, dirname
 
 import pandas as pd
+from tqdm import tqdm
 
 ROOT_PATH = dirname(dirname(abspath(__file__)))
 if ROOT_PATH not in sys.path:
     sys.path.append(ROOT_PATH)
+
+from Data_Cleaning.match_team import Match_Team
 
 
 class Merge_Datasets:
@@ -28,6 +32,7 @@ class Merge_Datasets:
         self.league = league
         self.espn_path = ROOT_PATH + f"/Data/ESPN/{self.league}.csv"
         self.odds_path = ROOT_PATH + f"/Data/Odds/{self.league}.csv"
+        self.match_team = Match_Team(self.league)
 
     def load_dfs(self):  # Top Level
         """
@@ -51,15 +56,68 @@ class Merge_Datasets:
         df.drop(['Home_team_1'], axis=1, inplace=True)
         return df
 
+    def _find_esb_odds(self, home, away, date, esb_df, col, close):  # Top Level
+        """
+        """
+        rep_df = esb_df.loc[(esb_df['Home'] == home) & (esb_df['Away'] == away) & (esb_df['Date'] == date)]
+        if len(rep_df) > 0:
+            rep_vals = list(rep_df[col][rep_df[col].notnull()])  # if opening/closing line is null, taking the next-closest non-null value
+            return None if len(rep_vals) == 0 else (rep_vals[-1] if close else rep_vals[0])
+
+    def _update_esb_teams(self, esb_df):  # Top Level
+        """
+        updating the Home/Away columns in esb_df with official names from the Teams.json files
+        """
+        home_teams = list(set(list(esb_df['Home'])))
+        home_rep_dict = {home_team: self.match_team.find_team_name(home_team) for home_team in home_teams}
+        esb_df['Home'] = pd.Series([home_rep_dict[home_team] for home_team in list(esb_df['Home'])])
+
+        away_teams = list(set(list(esb_df['Away'])))
+        away_rep_dict = {away_team: self.match_team.find_team_name(away_team) for away_team in away_teams}
+        esb_df['Away'] = pd.Series([away_rep_dict[away_team] for away_team in list(esb_df['Away'])])
+
+        return esb_df
+
+    def _update_merged_col(self, merged_df, esb_df, sbo_col, esb_col, close):  # Specific Helper
+        """
+        """
+        missing = merged_df.loc[merged_df[sbo_col].isnull()]
+        home_away_dates = [(home, away, date) for home, away, date in zip(missing['Home'], missing['Away'], missing['Date'])]
+        replacements = [self._find_esb_odds(*home_away_date, esb_df, esb_col, close) for home_away_date in home_away_dates]
+        for home_away_date, replacement in zip(home_away_dates, replacements):
+            home, away, date = home_away_date
+            merged_df.loc[(merged_df['Home'] == home) & (merged_df['Away'] == away) & (merged_df['Date'] == date), sbo_col] = replacement
+        return merged_df
+
+    def supplement_esb_odds(self, merged_df):  # Top Level
+        esb_path = ROOT_PATH + f"/Data/ESB/{self.league}/Game_Lines.csv"
+        esb_df = pd.read_csv(esb_path)
+        esb_df = self._update_esb_teams(esb_df)
+
+        sbo_esb_close_pairs = [('OU_Open', 'Over', False), ('OU_Open_ML', 'Over_ML', False),
+                               ('OU_Close', 'Over', True), ('OU_Close_ML', 'Over_ML', True),
+                               ('Home_Line_Open', 'Home_Spread', False), ('Home_Line_Open_ML', 'Home_Spread_ML', False),
+                               ('Away_Line_Open', 'Away_Spread', False), ('Away_Line_Open_ML', 'Away_Spread_ML', False),
+                               ('Home_Line_Close', 'Home_Spread', True), ('Home_Line_Close_ML', 'Home_Spread_ML', True),
+                               ('Away_Line_Close', 'Away_Spread', True), ('Away_Line_Close_ML', 'Away_Spread_ML', True),
+                               ('Home_ML', 'Home_ML', True), ('Away_ML', 'Away_ML', True)]
+
+        for sbo_esb_close_pair in tqdm(sbo_esb_close_pairs):
+            sbo_col, esb_col, close = sbo_esb_close_pair
+            merged_df = self._update_merged_col(merged_df, esb_df, sbo_col, esb_col, close)
+
+        return merged_df
+
     def run(self):  # Run
         all_dfs = self.load_dfs()
         final_df = self.add_team_cols(all_dfs[0])
         for df in all_dfs[1:]:
             df = self.add_team_cols(df)
             df.drop(['Home', 'Away'], axis=1, inplace=True)
-            final_df = pd.merge(final_df, df, on=['Date', 'Team1', 'Team2', 'Season'])
+            final_df = pd.merge(final_df, df, how='left', on=['Date', 'Team1', 'Team2', 'Season'])
         final_df.drop(['Team1', 'Team2'], axis=1, inplace=True)
 
+        final_df = self.supplement_esb_odds(final_df)
         final_df.sort_values(by=['Date'], inplace=True)
         final_df.to_csv(ROOT_PATH + f"/Data/{self.league}.csv", index=False)
         return final_df
@@ -70,7 +128,8 @@ class Merge_Datasets:
 
 
 if __name__ == '__main__':
-    for league in ['NFL', 'NBA', 'NCAAF', 'NCAAB']:
+    # for league in ['NFL', 'NBA', 'NCAAF', 'NCAAB']:
+    for league in ['NFL', 'NBA', 'NCAAF']:
         print(league)
         x = Merge_Datasets(league)
         self = x

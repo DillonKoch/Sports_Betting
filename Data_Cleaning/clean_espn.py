@@ -80,7 +80,8 @@ class Clean_ESPN:
         - removing unfinished games
         """
         games_df = pd.read_csv(ROOT_PATH + f"/Data/ESPN/{self.league}/Games.csv")
-        games_df = games_df.loc[games_df['Final_Status'].notnull()]
+        # games_df = games_df.loc[games_df['Final_Status'].notnull()]
+        games_df = games_df.loc[games_df['Home'].notnull()]
         games_df.reset_index(inplace=True)
         return games_df
 
