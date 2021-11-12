@@ -139,7 +139,7 @@ class NFL_Spread(Modeling_Parent):
 
         # * loading data, baseline models
         raw_df = self.load_raw_df()
-        avg_df = self.load_avg_df(['Home_Covered'])
+        avg_df = self.load_avg_df(['Home_Covered'], extra_cols=['Home_Line_Close'])
         avg_df_home_away_date = self.load_avg_df(['Home_Covered', 'Home', 'Away', 'Date'])
 
         # * balancing classes, splitting
@@ -150,8 +150,8 @@ class NFL_Spread(Modeling_Parent):
 
         # * Training Models
         # self.model_baseline_avg_points(avg_df_home_away_date, raw_df)
-        # self.model_logistic_regression(train_X, val_X, train_y, val_y)
-        # self.model_xgboost(train_X, val_X, train_y, val_y)
+        self.model_logistic_regression(train_X, val_X, train_y, val_y)
+        self.model_xgboost(train_X, val_X, train_y, val_y)
         self.model_neural_net(train_X, val_X, train_y, val_y)
 
         # * data prep, train test splitting

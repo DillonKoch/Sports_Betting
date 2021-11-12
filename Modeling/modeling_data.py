@@ -252,7 +252,7 @@ class Modeling_Data:
     def run(self, targets, extra_cols=[]):  # Run
         # * game dicts, feature_cols, eligible
         game_dicts = self.load_game_dicts()
-        feature_cols = self.get_feature_cols()  # ! all feature cols can be queried numerically!
+        feature_cols = self.get_feature_cols()  # + extra_cols  # ! all feature cols can be queried numerically!
         eligible_game_dicts = self.get_eligible_game_dicts(game_dicts)
 
         # * multithreading the process of creating a new row for the df based on every eligible_game_dict
