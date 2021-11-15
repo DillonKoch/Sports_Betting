@@ -1,24 +1,7 @@
 # Data
+This folder houses all the data collected from the [Data Collection](../Data_Collection/) phase.
 
-### Covers
-
-
-### Elite Sportsbook
-
-
-### ESPN
-
-
-### Sportsbook Reviews Online
-
-
-### Predictions
-
-
-### Teams
-
-
-### File Directory
+This folder structure shows where all the data in this project is stored:
 ```
 .
 └── Data/
