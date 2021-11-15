@@ -108,6 +108,9 @@ class Merge_Datasets:
 
         return merged_df
 
+    def supplement_player_stats(self, final_df):  # Top Level
+        return final_df
+
     def run(self):  # Run
         all_dfs = self.load_dfs()
         final_df = self.add_team_cols(all_dfs[0])
@@ -118,6 +121,7 @@ class Merge_Datasets:
         final_df.drop(['Team1', 'Team2'], axis=1, inplace=True)
 
         final_df = self.supplement_esb_odds(final_df)
+        final_df = self.supplement_player_stats(final_df)
         final_df.sort_values(by=['Date'], inplace=True)
         final_df.to_csv(ROOT_PATH + f"/Data/{self.league}.csv", index=False)
         return final_df

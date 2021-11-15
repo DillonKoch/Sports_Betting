@@ -13,7 +13,8 @@ The algorithms are trained on a database of team stats and odds for each game da
 
 <a name="Data-Collection"></a>
 
-## 1. Data Collection
+<!-- TODO link to the specific scraping README, do the same for other sections -->
+## 1. Data Collection  
 This project focuses on four leagues: NFL, NBA, NCAAF, NCAAB. The following sections describe how the data was collected.
 
 ### ESPN
@@ -44,7 +45,7 @@ This project focuses on four leagues: NFL, NBA, NCAAF, NCAAB. The following sect
 
 
 ### Match Teams
-- [/Data_Cleaning/match_team.py](/Data/Cleaning/match_team.py) 
+- [/Data_Cleaning/match_team.py](/Data/Cleaning/match_team.py) takes user input to match team names to their corresponding ESPN team name for consistency (e.g. "LA Chargers" to "Los Angeles Chargers")
 
 ### Clean ESPN
 - [/Data_Cleaning/clean_espn.py](/Data_Cleaning/clean_espn.py) cleans fields in the Games.csv files with dashes and times to be strictly numeric.
@@ -54,7 +55,7 @@ This project focuses on four leagues: NFL, NBA, NCAAF, NCAAB. The following sect
 
 
 ### Merge Datasets
-- [/Data_Cleaning/merge_datasets.py](/Data_Cleaning/merge_datasets.py)
+- [/Data_Cleaning/merge_datasets.py](/Data_Cleaning/merge_datasets.py) combines the game results and team statistics data from ESPN with the betting odds data from Sportsbook Reviews Online.
 
 ### Player Data
 - [/Data_Cleaning/player_data.py](/Data_Cleaning/player_data.py)
