@@ -14,34 +14,34 @@ The algorithms are trained on a database of team stats and odds for each game da
 <a name="Data-Collection"></a>
 
 <!-- TODO link to the specific scraping README, do the same for other sections -->
-## 1. Data Collection  
+## [1. Data Collection](Data_Collection/)
 This project focuses on four leagues: NFL, NBA, NCAAF, NCAAB. The following sections describe how the data was collected.
 
 ### ESPN
-- [espn_teams.py](/Scrapers/espn_teams.py) scrapes each team's name, basic information, and links to their data on ESPN.
-- [espn_schedule.py](/Scrapers/espn_schedule.py) scrapes every team's upcoming schedule.
-- [espn_rosters.py](/Scrapers/espn_rosters.py) scrapes every team's roster.
-- [espn_players.py](/Scrapers/espn_players.py) scrapes information about every player from their bio page on ESPN.
-- [espn_game.py](/Scrapers/espn_game.py) scrapes game results and team statistics for every completed game.
-- [espn_player_stats.py](/Scrapers/espn_player_stats.py) scrapes each individual player's stats from every game they play in.
+- [espn_teams.py](/Data_Collection/espn_teams.py) scrapes each team's name, basic information, and links to their data on ESPN.
+- [espn_schedule.py](/Data_Collection/espn_schedule.py) scrapes every team's upcoming schedule.
+- [espn_rosters.py](/Data_Collection/espn_rosters.py) scrapes every team's roster.
+- [espn_players.py](/Data_Collection/espn_players.py) scrapes information about every player from their bio page on ESPN.
+- [espn_game.py](/Data_Collection/espn_game.py) scrapes game results and team statistics for every completed game.
+- [espn_player_stats.py](/Data_Collection/espn_player_stats.py) scrapes each individual player's stats from every game they play in.
 - All ESPN data is stored in [/Data/ESPN/](/Data/ESPN/) except for the team information, which is saved to [/Data/Teams/](/Data/Teams/).
 
 
 ### Sportsbook Reviews Online
-- [sbo_odds.py](/Scrapers/sbo_odds.py) downloads Excel files from [Sportsbook Reviews Online](https://www.sportsbookreviewsonline.com/) and saves them to [/Data/Odds/](/Data/Odds/).
+- [sbo_odds.py](/Data_Collection/sbo_odds.py) downloads Excel files from [Sportsbook Reviews Online](https://www.sportsbookreviewsonline.com/) and saves them to [/Data/Odds/](/Data/Odds/).
 
 
 ### Elite Sportsbook
-- [esb_odds.py](/Scrapers/esb_odds.py) scrapes live betting odds from [Elite Sportsbook](https://www.elitesportsbook.com/sports/home.sbk) and saves them to [/Data/ESB/](/Data/ESB/).
+- [esb_odds.py](/Data_Collection/esb_odds.py) scrapes live betting odds from [Elite Sportsbook](https://www.elitesportsbook.com/sports/home.sbk) and saves them to [/Data/ESB/](/Data/ESB/).
 
 
 ### Covers.com
-- [covers_injuries.py](/Scrapers/covers_injuries.py) scrapes the latest injury reports from [Covers.com](https://www.covers.com/) and saves them to [/Data/Covers/](/Data/Covers/).
+- [covers_injuries.py](/Data_Collection/covers_injuries.py) scrapes the latest injury reports from [Covers.com](https://www.covers.com/) and saves them to [/Data/Covers/](/Data/Covers/).
 
 
 <a name="Data-Cleaning"></a>
 
-## 2. Data Cleaning
+## [2. Data Cleaning](/Data_Cleaning/)
 
 
 ### Match Teams
@@ -63,7 +63,7 @@ This project focuses on four leagues: NFL, NBA, NCAAF, NCAAB. The following sect
 
 <a name="Modeling"></a>
 
-## 3. Modeling
+## [3. Modeling](/Modeling/)
 
 
 ### Logistic Regression
@@ -107,11 +107,18 @@ These files train each algorithm listed above for the particular bet.
 
 ## 5. Using This Repository
 
+```
+$ git clone 
+```
+
 
 ### Creating an Environment
 
 
 ### Running Web Scrapers
+```
+python espn_game.py
+```
 
 
 ### Training Models

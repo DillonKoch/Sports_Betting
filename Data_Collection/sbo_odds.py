@@ -1,6 +1,6 @@
 # ==============================================================================
 # File: sbo_odds.py
-# Project: Scrapers
+# Project: Sports_Betting
 # File Created: Sunday, 6th June 2021 8:40:49 pm
 # Author: Dillon Koch
 # -----

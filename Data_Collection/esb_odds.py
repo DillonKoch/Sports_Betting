@@ -56,7 +56,7 @@ class ESB_Odds:
         """
         options = Options()
         options.headless = True
-        self.driver = webdriver.Chrome(executable_path=ROOT_PATH + "/Scrapers/chromedriver", options=options)
+        self.driver = webdriver.Chrome(executable_path=ROOT_PATH + "/Data_Collection/chromedriver", options=options)
         time.sleep(1)
 
     def load_df(self):  # Top Level
