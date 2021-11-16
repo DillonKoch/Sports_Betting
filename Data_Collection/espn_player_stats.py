@@ -329,8 +329,9 @@ class ESPN_Player_Stats:
         updates the stats_df with the player_stats_dicts scraped from a game's box score
         """
         new_df = pd.DataFrame(player_stats_dicts)
+        new_df.replace('-', np.nan, inplace=True)
         stats_df = pd.concat([stats_df, new_df])
-        stats_df.replace("-", np.nan, inplace=True)
+        # stats_df.replace("-", np.nan, inplace=True)
         stats_df.to_csv(self.stats_path, index=None)
         print(str(len(stats_df)) + " rows")
         print(str(list(stats_df['Date'])[-1]) + " last date")
@@ -352,7 +353,7 @@ class ESPN_Player_Stats:
 
 
 if __name__ == '__main__':
-    league = "NCAAB"
-    x = ESPN_Player_Stats(league)
-    self = x
-    x.run()
+    for league in ['NFL', 'NBA', 'NCAAF', 'NCAAB']:
+        x = ESPN_Player_Stats(league)
+        self = x
+        x.run()

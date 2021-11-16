@@ -18,6 +18,7 @@ import sys
 from os.path import abspath, dirname
 
 import numpy as np
+import Levenshtein as lev
 import pandas as pd
 
 ROOT_PATH = dirname(dirname(abspath(__file__)))
@@ -39,16 +40,20 @@ class Player_Data:
         # * Positions for each team
         self.football_positions = ['QB', 'RB', 'WR', 'TE', 'DT', 'DE', 'LB', 'CB', 'S', 'K', 'P']
         self.football_pos_dict = {'Quarterback': 'QB', 'Running Back': 'RB', 'Wide Receiver': 'WR',
-                                  'Tight End': 'TE', 'Defensive Tackle': 'DT', 'Nose Tackle': 'DT', 'Defensive End': 'DE',
-                                  'Linebacker': 'LB', 'Cornerback': 'CB', 'Safety': 'S', 'Defensive Back': 'S',
-                                  'Strong Safety': 'S', 'Free Safety': 'S', 'Place Kicker': 'K', 'Punter': 'P'}
+                                  'Tight End': 'TE', 'Nose Tackle': 'DT', 'Defensive Tackle': 'DT', 'Defensive End': 'DE',
+                                  'Linebacker': 'LB', 'Cornerback': 'CB', 'Free Safety': 'S', 'Defensive Back': 'S',
+                                  'Strong Safety': 'S', 'Safety': 'S', 'Place Kicker': 'K', 'Punter': 'P'}
+        self.football_pos_num_dict = {"QB": 2, "RB": 2, "WR": 4, "TE": 2, "DT": 3, "DE": 3, "LB": 4, "CB": 3, "S": 3, "K": 1, "P": 1}
+
         self.basketball_positions = ["PG", "SG", "SF", "PF", "C"]
         self.basketball_pos_dict = {"Point Guard": "PG", "Shooting Guard": "SG", "Guard": "SG", "Small Forward": "SF",
                                     "Forward": "SF", "Power Forward": "PF", "Center": "C"}
+        self.basketball_pos_num_dict = {"PG": 2, "SG": 2, "SF": 2, "PF": 2, "C": 2}
 
         self.positions = self.football_positions if self.football_league else self.basketball_positions
         self.pos_dict = self.football_pos_dict if self.football_league else self.basketball_pos_dict
         self.rev_pos_dict = {v: k for k, v in self.pos_dict.items()}
+        self.pos_num_dict = self.football_pos_num_dict if self.football_league else self.basketball_pos_num_dict
 
         # * stats we care about for each position
         qb_stats = ['Passing_Comp_Att_s1', 'Passing_Comp_Att_s2', 'Passing_Yards', 'Avg_Yards_per_Pass',
@@ -79,6 +84,43 @@ class Player_Data:
 
         # * dict for converting injury first word to numeric status
         self.status_fw_to_num_dict = {"I-R": 0, "Out": 0, "Early": 0, "Mid": 0, "Late": 0, "Doub": 1, "Ques": 2, "Prob": 3}
+
+        # * Other
+        self.feature_col_names = self.make_feature_col_names()
+        self.avg_pos_height_dict = self.avg_pos_ht_wt_dict(height=True)
+        self.avg_pos_weight_dict = self.avg_pos_ht_wt_dict(height=False)
+
+    def _avg_player_ht_wt(self, position, height=True):  # Helping Helper avg_pos_ht_wt_dict
+        """
+        computes the average player's height/weight at a position
+        """
+        ht_wt = "Height" if height else "Weight"
+        rev_position = self.rev_pos_dict[position]
+        position_df = self.player_df.loc[self.player_df['Position'] == rev_position]
+        ht_wt_vals = list(position_df[ht_wt][position_df[ht_wt].notnull()])
+        ht_wt_ints = [self._player_height(ht_wt_val, "") if height else self._player_weight(ht_wt_val, "") for ht_wt_val in ht_wt_vals]
+        return sum(ht_wt_ints) / len(ht_wt_ints)
+
+    def avg_pos_ht_wt_dict(self, height=True):  # Top Level
+        ht_wt_dict = {}
+        for position in self.positions:
+            if position == 'DT':
+                print('here')
+            ht_wt_dict[position] = self._avg_player_ht_wt(position, height)
+        return ht_wt_dict
+
+    def make_feature_col_names(self):  # Top Level
+        """
+        creating a list of all the feature columns that result from the run() method
+        """
+        cols = []
+        for position in self.pos_num_dict:
+            for i in range(self.pos_num_dict[position]):
+                for stat in self.pos_stat_dict[position]:
+                    position_name = f"{position}{i+1}_{stat}"
+                    cols.append(position_name)
+                cols += [f"{position}{i+1}_" + item for item in ["Height", "Weight", "Age", "Injury_Status"]]
+        return cols
 
     def _split_dash_slash_cols(self, player_stats_df, col, dash=True):  # Specific Helper load_clean_player_stats_df
         """
@@ -162,13 +204,32 @@ class Player_Data:
             dash_name_injury_dict[injury_dname] = self.status_fw_to_num_dict[status_first_word]
         return dash_name_injury_dict
 
+    def _find_closest_dash_name(self, dash_name, roster_dash_names):  # Helping Helper _dash_name_to_player_id
+        best_match = None
+        best_match_dist = 1000
+        for roster_dash_name in roster_dash_names:
+            dist = lev(dash_name, roster_dash_name)
+            if dist < best_match_dist:
+                best_match = roster_dash_name
+                best_match_dist = dist
+
+        print(f"Chagned {dash_name} to {best_match}")
+        return best_match
+
     def _dash_name_to_player_id(self, dash_name, roster_df):  # Specific Helper  id_injury_dict
         """
         returns the ESPN Player_ID for the dash_name input
         """
         roster_dash_names = [name.strip().lower().replace(' ', '-') for name in list(roster_df['Player'])]
         dn_to_pid_dict = {dn: pid for dn, pid in zip(roster_dash_names, list(roster_df['Player_ID']))}
-        return dn_to_pid_dict[dash_name]
+        if dash_name in dn_to_pid_dict:
+            return dn_to_pid_dict[dash_name]
+        else:
+            closest_dash_name = self._find_closest_dash_name(dash_name, roster_dash_names)
+        # TODO - add exception handling for if the dash_name (from injury df) isn't in the roster_df
+        # * jermaine carter jr doesn't have the jr in the covers data
+        # * could use min edit distance to find the closest match?
+            return closest_dash_name
 
     def id_injury_dict(self, player_ids, team, date, pre_scraping):  # Top Level
         """
@@ -222,43 +283,41 @@ class Player_Data:
             position_stat_vals.append(avg_stat_val)
         return position_stat_vals
 
-    def _avg_player_ht_wt(self, position, height=True):  # Helping Helper _player_height, player_weight
+    def _sort_pos_stats_dict(self, pos_stats_dict):  # Specific Helper get_pos_stats_dict
         """
-        computes the average player's height/weight at a position
+        sorting the players' order in the pos_stats_dict so the players who play more show up first
+        - basketball sorts by minutes
+        - football sorts by size of the stats dict overall (rationale is that players who play more generate more stats)
         """
-        ht_wt = "Height" if height else "Weight"
-        rev_position = self.rev_pos_dict[position]
-        position_df = self.player_df.loc[self.player_df['Position'] == rev_position]
-        ht_wt_vals = list(position_df[ht_wt][position_df[ht_wt].notnull()])
-        ht_wt_ints = [self._player_height(ht_wt_val, "") if height else self._player_weight(ht_wt_val, "") for ht_wt_val in ht_wt_vals]
-        return sum(ht_wt_ints) / len(ht_wt_ints)
+        if self.football_league:
+            pos_stats_dict = {pos: sorted(pos_stats_dict[pos], key=lambda x: sum(x), reverse=True) for pos in pos_stats_dict}
+        else:
+            pos_stats_dict = {pos: sorted(pos_stats_dict[pos], key=lambda x: x[0], reverse=True) for pos in pos_stats_dict}
+        return pos_stats_dict
 
-    def _player_height(self, height_col, position):  # Helping Helper _player_bio_arr
+    def _player_height(self, height_str, position):  # Helping Helper _player_bio_arr
         """
         returns the height of a player in inches (or the avg at that position if null)
         """
-        height_str = height_col.values[0]
         if '"' not in height_str:
             return self._avg_player_ht_wt(position, height=True)
         feet = int(height_str.split("'")[0])
         inches = int(height_str.split(" ")[1].split('"')[0])
         return (feet * 12) + inches
 
-    def _player_weight(self, weight_col, position):  # Helping Helper _player_bio_arr
+    def _player_weight(self, weight_str, position):  # Helping Helper _player_bio_arr
         """
         returns the weight of a player in inches (or the avg at that position if null)
         """
-        weight_str = weight_col.values[0]
         if "lbs" not in weight_str:
             return self._avg_player_ht_wt(position, height=False)
         weight = weight_str.strip().split(" ")[0]
         return int(weight)
 
-    def _player_age(self, birthdate_col, date):  # Helping Helper _player_bio_arr
+    def _player_age(self, birthdate_str, date):  # Helping Helper _player_bio_arr
         """
         returns the player's age in years, or 21/26 if null
         """
-        birthdate_str = birthdate_col.values[0]
         if "/" not in birthdate_str:
             return 21 if 'NCAA' in self.league else 26  # TODO update this to be better
         birthdate_str = birthdate_str.split(" (")[0]
@@ -272,27 +331,16 @@ class Player_Data:
         - [height, weight, age]
         """
         player = self.player_df.loc[self.player_df['Player_ID'] == player_id]
-        arr = [self._player_height(player['Height'], position), self._player_weight(player['Weight'], position), self._player_age(player['Birth_Date'], date)]
+        height = str(player['Height'].values[0])
+        weight = str(player['Weight'].values[0])
+        birth_date = str(player['Birth_Date'].values[0])
+        arr = [self._player_height(height, position), self._player_weight(weight, position), self._player_age(birth_date, date)]
         return arr
-
-    def _sort_pos_stats_dict(self, pos_stats_dict):  # Specific Helper get_pos_stats_dict
-        """
-        sorting the players' order in the pos_stats_dict so the players who play more show up first
-        - basketball sorts by minutes
-        - football sorts by size of the stats dict overall (rationale is that players who play more generate more stats)
-        """
-        if self.football_league:
-            pos_stats_dict = {pos: sorted(pos_stats_dict[pos], key=lambda x: sum(x), reverse=True) for pos in pos_stats_dict}
-        else:
-            pos_stats_dict = {pos: sorted(pos_stats_dict[pos], key=lambda x: x[0], reverse=True) for pos in pos_stats_dict}
-        return pos_stats_dict
 
     def get_pos_stats_dict(self, team, date, past_games, position_id_dict, id_injury_dict):  # Top Level
         """
         - {pos: [pos_stats, pos_stats], pos: [pos_stats, ...], ...}
         """
-        # dict of pos: list of player stat arrays
-        # be sure to sort by a metric like minutes that shows most influential players
         pos_stats_dict = {}
         for position in self.positions:
             player_ids = position_id_dict[position]
@@ -306,24 +354,22 @@ class Player_Data:
         pos_stats_dict = self._sort_pos_stats_dict(pos_stats_dict)
         return pos_stats_dict
 
-    def pos_stats_dict_to_player_data(self, position_stats_dict):  # Top Level
+    def pos_stats_dict_to_player_data(self, position_stats_dict):
         """
         takes the position stats and creates an array of the team's player stats
         - uniform size - always the same shape (within the same sport)!
         """
-        football_pos_num_dict = {"QB": 2, "RB": 2, "WR": 4, "TE": 2, "DT": 3, "DE": 3, "LB": 4, "CB": 3, "S": 3, "K": 1, "P": 1}
         output = []
-        if self.football_league:
-            # * football - number of players depends at each position
-            for pos in football_pos_num_dict:
-                for i in range(football_pos_num_dict[pos]):
-                    output += position_stats_dict[pos][i] if len(position_stats_dict[pos]) > i else [0] * len(position_stats_dict[pos])
-        else:
-            # * basketball - top two at every position
-            for pos in position_stats_dict:
-                for i in range(2):
-                    output += position_stats_dict[pos][i]
+        for pos in self.pos_num_dict:
+            for i in range(self.pos_num_dict[pos]):
+                if len(position_stats_dict[pos]) > i:
+                    new_data = position_stats_dict[pos][i]
+                else:
+                    new_data = [0] * len(self.pos_stat_dict[pos])
+                    age = 21 if 'NCAA' in self.league else 25
+                    new_data += [self.avg_pos_height_dict[pos], self.avg_pos_weight_dict[pos], age, 4]
 
+                output += new_data
         return output
 
     def run(self, team, date, past_games=10):
@@ -341,6 +387,9 @@ if __name__ == '__main__':
     league = "NFL"
     # player_id = "2330"  # Tom Brady
     x = Player_Data(league)
-    # x.run("Miami Heat", "2021-11-21")
-    x.run("Tampa Bay Buccaneers", "2021-10-10")
+    self = x
+    past_games = 10
+    team = "Tampa Bay Buccaneers"
+    date = "2021-10-10"
+    player_data_arr = x.run("Tampa Bay Buccaneers", "2021-10-10")
     # x.run("Tampa Bay Buccaneers", "2021-11-30")

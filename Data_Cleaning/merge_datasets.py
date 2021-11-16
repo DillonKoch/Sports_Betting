@@ -13,7 +13,7 @@
 # ==============================================================================
 
 
-import json
+import concurrent.futures
 import sys
 from os.path import abspath, dirname
 
@@ -25,6 +25,13 @@ if ROOT_PATH not in sys.path:
     sys.path.append(ROOT_PATH)
 
 from Data_Cleaning.match_team import Match_Team
+from Data_Cleaning.player_data import Player_Data
+
+
+def multithread(func, func_args):  # Multithreading
+    with concurrent.futures.ThreadPoolExecutor() as executor:
+        result = list(tqdm(executor.map(func, func_args), total=len(func_args)))
+    return result
 
 
 class Merge_Datasets:
@@ -33,6 +40,7 @@ class Merge_Datasets:
         self.espn_path = ROOT_PATH + f"/Data/ESPN/{self.league}.csv"
         self.odds_path = ROOT_PATH + f"/Data/Odds/{self.league}.csv"
         self.match_team = Match_Team(self.league)
+        self.player_data = Player_Data(self.league)
 
     def load_dfs(self):  # Top Level
         """
@@ -109,6 +117,34 @@ class Merge_Datasets:
         return merged_df
 
     def supplement_player_stats(self, final_df):  # Top Level
+        # I have the team/date, just run the player_data.py script to get the player stats and add them
+        # ! have to multithread the hell out of this
+        home_teams = list(final_df['Home'])
+        away_teams = list(final_df["Away"])
+        dates = list(final_df['Date'])
+
+        new_df_cols = ['Home', 'Away', 'Date'] + ["H" + item for item in self.player_data.feature_col_names] + ['A' + item for item in self.player_data.feature_col_names]
+        new_df = pd.DataFrame(columns=new_df_cols)
+
+        # home_stats = [self.player_data.run(home, date) for home, date in tqdm(zip(home_teams, dates))]
+        # away_stats = [self.player_data.run(away, date) for away, date in tqdm(zip(away_teams, dates))]
+        def run_player_data(args):
+            team, date = args
+            return self.player_data.run(team, date)
+        home_inputs = [(home_team, date) for home_team, date in zip(home_teams, dates)]
+        home_stats = multithread(run_player_data, home_inputs)
+        away_inputs = [(away_team, date) for away_team, date in zip(away_teams, dates)]
+        away_stats = multithread(run_player_data, away_inputs)
+        for i, (home, home_stat, away, away_stat, date) in enumerate(zip(home_teams, home_stats, away_teams, away_stats, dates)):
+            new_df.loc[len(new_df)] = [home, away, date] + home_stat + away_stat
+
+        # for i, (home, away, date) in enumerate(zip(home_teams, away_teams, dates)):
+        #     print(i)
+        #     home_stats = self.player_data.run(home, date)
+        #     away_stats = self.player_data.run(away, date)
+        #     new_df.loc[len(new_df)] = [home, away, date] + home_stats + away_stats
+
+        final_df = pd.merge(final_df, new_df, how='left', on=['Home', 'Away', 'Date'])
         return final_df
 
     def run(self):  # Run

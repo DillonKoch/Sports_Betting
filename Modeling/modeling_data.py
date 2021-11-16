@@ -14,7 +14,6 @@
 
 
 import concurrent.futures
-import datetime
 import sys
 from os.path import abspath, dirname
 
@@ -263,22 +262,6 @@ class Modeling_Data:
         df = self.fill_na_values(df, feature_cols)
 
         return df
-
-    # def upcoming_game_to_row_dict(self, home, away, date, feature_cols, targets, extra_cols):  # Run
-    #     """
-    #     creates a one-row df for an upcoming game that can be passed to the models
-    #     """
-    #     game_dicts = self.load_game_dicts()
-    #     feature_cols = self.get_feature_cols()
-
-    #     home_recent_games = self.query_recent_games(home, date, game_dicts)
-    #     away_recent_games = self.query_recent_games(away, date, game_dicts)
-    #     new_row_dict = {feature_col: self.avg_feature_col(feature_col, home, away, home_recent_games, away_recent_games)
-    #                     for feature_col in feature_cols}
-    #     return new_row_dict
-
-        # TODO assert that there's enough data for the two teams
-        # TODO run build_new_row_dict with input info
 
 
 if __name__ == '__main__':
