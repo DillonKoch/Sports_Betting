@@ -33,6 +33,8 @@ class Player_Data:
 
         # * loading data
         self.player_stats_df = self.load_clean_player_stats_df()
+        self.player_stats_lists = self.player_stats_df.values.tolist()
+        self.player_stats_features = list(self.player_stats_df.columns)
         self.player_df = pd.read_csv(f"{ROOT_PATH}/Data/ESPN/{self.league}/Players.csv")
         self.roster_df = pd.read_csv(f"{ROOT_PATH}/Data/ESPN/{self.league}/Rosters.csv")
         self.injury_df = pd.read_csv(f"{ROOT_PATH}/Data/Covers/{self.league}/Injuries.csv")
@@ -83,7 +85,7 @@ class Player_Data:
         self.pos_stat_dict = self.football_stat_dict if self.football_league else self.basketball_stat_dict
 
         # * dict for converting injury first word to numeric status
-        self.status_fw_to_num_dict = {"I-R": 0, "Out": 0, "Early": 0, "Mid": 0, "Late": 0, "Doub": 1, "Ques": 2, "Prob": 3}
+        self.status_fw_to_num_dict = {"i-r": 0, "out": 0, "early": 0, "mid": 0, "late": 0, "doub": 1, "ques": 2, "day-to-day": 2, "prob": 3}
 
         # * Other
         self.feature_col_names = self.make_feature_col_names()
@@ -188,7 +190,7 @@ class Player_Data:
         finding the most recent team injuries from injury_df before a given date
         """
         df_before_date = self.injury_df.loc[(self.injury_df['Team'] == team) & (self.injury_df['scraped_ts'] <= date)]
-        most_recent_injury_scrape = list(df_before_date["scraped_ts"])[-1]
+        most_recent_injury_scrape = list(df_before_date["scraped_ts"])[-1] if len(df_before_date) > 0 else list(self.injury_df['scraped_ts'])[-1]
         injury_df = df_before_date.loc[df_before_date["scraped_ts"] == most_recent_injury_scrape]
         return injury_df
 
@@ -200,7 +202,7 @@ class Player_Data:
         roster_dnames = [item.strip().lower().replace(' ', '-') for item in list(roster_df['Player'])]
         dash_name_injury_dict = {roster_dname: 4 for roster_dname in roster_dnames}
         for injury_dname, injury_status in zip(list(injury_df['Player']), list(injury_df['Status'])):
-            status_first_word = injury_status.split(' ')[0]
+            status_first_word = injury_status.split(' ')[0].lower()
             dash_name_injury_dict[injury_dname] = self.status_fw_to_num_dict[status_first_word]
         return dash_name_injury_dict
 
@@ -208,7 +210,7 @@ class Player_Data:
         best_match = None
         best_match_dist = 1000
         for roster_dash_name in roster_dash_names:
-            dist = lev(dash_name, roster_dash_name)
+            dist = lev.distance(dash_name, roster_dash_name)
             if dist < best_match_dist:
                 best_match = roster_dash_name
                 best_match_dist = dist

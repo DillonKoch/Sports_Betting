@@ -56,7 +56,15 @@ class ESPN_Players:
         df = pd.read_csv(path)
         return df
 
-    def get_unscraped_player_ids(self, player_df, stats_df):  # Top Level
+    def load_roster_df(self):  # Top Level
+        """
+        loading the df from /Data/ESPN/{league}/Rosters.csv
+        """
+        path = ROOT_PATH + f"/Data/ESPN/{self.league}/Rosters.csv"
+        df = pd.read_csv(path)
+        return df
+
+    def get_unscraped_player_ids(self, player_df, stats_df, roster_df):  # Top Level
         """
         locating the player ids that have not been scraped yet
         - showing up in stats.csv but not players.csv
@@ -64,10 +72,12 @@ class ESPN_Players:
         player_df_ids = list(set(list(player_df['Player_ID'])))
         stats_df_ids = stats_df['Player_ID'][stats_df['Player_ID'].notnull()].tolist()
         stats_df_ids = list(set(stats_df_ids))
+        roster_df_ids = list(set(list(roster_df['Player_ID'])))
 
         player_df_ids = [int(item) for item in player_df_ids]
         stats_df_ids = [int(item) for item in stats_df_ids]
-        unscraped_player_ids = [pid for pid in stats_df_ids if pid not in player_df_ids]
+        roster_df_ids = [int(item) for item in roster_df_ids]
+        unscraped_player_ids = [pid for pid in stats_df_ids + roster_df_ids if pid not in player_df_ids]
         return unscraped_player_ids
 
     def _new_player_dict(self, player_id):  # Specific Helper scrape_player_data
@@ -206,7 +216,8 @@ class ESPN_Players:
     def run(self):  # Run
         player_df = self.load_player_df()
         stats_df = self.load_stats_df()
-        unscraped_player_ids = self.get_unscraped_player_ids(player_df, stats_df)
+        roster_df = self.load_roster_df()
+        unscraped_player_ids = self.get_unscraped_player_ids(player_df, stats_df, roster_df)
         for i, unscraped_player_id in enumerate(unscraped_player_ids):
             try:
                 print(f"{i}/{len(unscraped_player_ids)}")
