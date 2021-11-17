@@ -40,7 +40,6 @@ class Merge_Datasets:
         self.espn_path = ROOT_PATH + f"/Data/ESPN/{self.league}.csv"
         self.odds_path = ROOT_PATH + f"/Data/Odds/{self.league}.csv"
         self.match_team = Match_Team(self.league)
-        self.player_data = Player_Data(self.league)
 
     def load_dfs(self):  # Top Level
         """
@@ -157,7 +156,7 @@ class Merge_Datasets:
         final_df.drop(['Team1', 'Team2'], axis=1, inplace=True)
 
         final_df = self.supplement_esb_odds(final_df)
-        final_df = self.supplement_player_stats(final_df)
+        # final_df = self.supplement_player_stats(final_df)
         final_df.sort_values(by=['Date'], inplace=True)
         final_df.to_csv(ROOT_PATH + f"/Data/{self.league}.csv", index=False)
         return final_df

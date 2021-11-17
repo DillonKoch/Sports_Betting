@@ -25,6 +25,8 @@ ROOT_PATH = dirname(dirname(abspath(__file__)))
 if ROOT_PATH not in sys.path:
     sys.path.append(ROOT_PATH)
 
+from Data_Cleaning.player_data import Player_Data
+
 
 def multithread(func, func_args):  # Multithreading
     with concurrent.futures.ThreadPoolExecutor() as executor:
@@ -36,6 +38,7 @@ class Modeling_Data:
     def __init__(self, league, num_past_games=10):
         self.league = league
         self.num_past_games = num_past_games
+        self.player_data = Player_Data(league)
 
     def _filter_dates(self, games_df, start_date, end_date):  # Specific Helper load_game_data
         """
@@ -248,7 +251,34 @@ class Modeling_Data:
             df[feature_col].fillna(value=df[feature_col].mean(), inplace=True)
         return df
 
-    def run(self, targets, extra_cols=[]):  # Run
+    def add_player_stats(self, eligible_game_dicts, df):  # Top Level
+        """
+        Adding player stats to the df
+        """
+        home_teams = [egd['Home'] for egd in eligible_game_dicts]
+        away_teams = [egd['Away'] for egd in eligible_game_dicts]
+        dates = [egd['Date'] for egd in eligible_game_dicts]
+
+        new_df_cols = ["H" + item for item in self.player_data.feature_col_names] + ['A' + item for item in self.player_data.feature_col_names]
+        new_df = pd.DataFrame(columns=new_df_cols)
+
+        def run_player_data(args):
+            team, date = args
+            return self.player_data.run(team, date)
+
+        home_inputs = [(home_team, date) for home_team, date in zip(home_teams, dates)]
+        home_stats = multithread(run_player_data, home_inputs)
+        away_inputs = [(away_team, date) for away_team, date in zip(away_teams, dates)]
+        away_stats = multithread(run_player_data, away_inputs)
+
+        for i, (home_stat, away_stat) in enumerate(zip(home_stats, away_stats)):
+            new_df.loc[len(new_df)] = home_stat + away_stat
+
+        # final_df = pd.merge(df, new_df, how='left', on=['Home', 'Away', 'Date'])
+        final_df = pd.concat([df, new_df], axis=1)
+        return final_df
+
+    def run(self, targets, extra_cols=[], player_stats=True):  # Run
         # * game dicts, feature_cols, eligible
         game_dicts = self.load_game_dicts()
         feature_cols = self.get_feature_cols()  # + extra_cols  # ! all feature cols can be queried numerically!
@@ -260,6 +290,8 @@ class Modeling_Data:
 
         df = pd.DataFrame(new_row_dicts, columns=extra_cols + feature_cols + targets)
         df = self.fill_na_values(df, feature_cols)
+        if player_stats:
+            df = self.add_player_stats(eligible_game_dicts, df)
 
         return df
 
@@ -270,4 +302,5 @@ if __name__ == '__main__':
     targets = ['Home_ML', 'Home_Win', 'Home_Win_Margin', 'Home_Covered', 'Over_Covered']
     # extra_cols = ['Home', 'Away', 'Date']
     df = x.run(targets)
-    # df.to_csv("temp.csv")
+    df.to_csv("temp.csv")
+    print("SAVED")

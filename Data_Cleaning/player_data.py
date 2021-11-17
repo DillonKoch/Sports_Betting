@@ -106,8 +106,6 @@ class Player_Data:
     def avg_pos_ht_wt_dict(self, height=True):  # Top Level
         ht_wt_dict = {}
         for position in self.positions:
-            if position == 'DT':
-                print('here')
             ht_wt_dict[position] = self._avg_player_ht_wt(position, height)
         return ht_wt_dict
 
