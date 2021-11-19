@@ -39,6 +39,9 @@ class Modeling_Data:
         self.league = league
         self.num_past_games = num_past_games
         self.player_data = Player_Data(league)
+        self.betting_cols = ['Home_Line_Close', 'Home_Line_Close_ML', 'OU_Close', 'OU_Close_ML',
+                             'Home_ML', 'Away_ML']
+        self.targets = ['Home_Covered', 'Home_Win', 'Over_Covered']
 
     def _filter_dates(self, games_df, start_date, end_date):  # Specific Helper load_game_data
         """
@@ -117,12 +120,12 @@ class Modeling_Data:
                        '3rd_downs_converted', '3rd_downs_total', '4th_downs_converted', '4th_downs_total',
                        'Passes_completed', 'Passes_attempted', 'Penalties', 'Penalty_Yards', 'Possession']
         nba_stats = ['Field_Goal_pct', 'Three_Point_pct', 'Free_Throw_pct', 'Rebounds', 'Offensive_Rebounds',
-                     'Defensive_Rebounds', 'Assists', 'Steals', 'Blocks', 'Turnovers', 'Points_Off_Turnovers',
+                     'Defensive_Rebounds', 'Assists', 'Steals', 'Blocks', 'Total_Turnovers', 'Points_Off_Turnovers',
                      'Fast_Break_Points', 'Points_in_Paint', 'Fouls', 'Technical_Fouls', 'Flagrant_Fouls',
                      'Largest_Lead', 'FG_made', 'FG_attempted', '3PT_made', '3PT_attempted', 'FT_made',
                      'FT_attempted']
         ncaab_stats = ['Field_Goal_pct', 'Three_Point_pct', 'Free_Throw_pct', 'Rebounds', 'Offensive_Rebounds',
-                       'Defensive_Rebounds', 'Assists', 'Steals', 'Blocks', 'Turnovers', 'Fouls',
+                       'Defensive_Rebounds', 'Assists', 'Steals', 'Blocks', 'Total_Turnovers', 'Fouls',
                        'Technical_Fouls', 'Flagrant_Fouls', 'Largest_Lead', 'FG_made', 'FG_attempted',
                        '3PT_made', '3PT_attempted', 'FT_made', 'FT_attempted']
         stat_dict = {"NFL": self._wrap_home_away(nfl_stats), "NBA": self._wrap_home_away(nba_stats),
@@ -136,7 +139,6 @@ class Modeling_Data:
         feature_cols = []
         feature_cols += self._quarters_halves_final()
         feature_cols += self._game_stats()
-        # TODO probably where I incorporate player stats
         return feature_cols
 
     def _team_eligible_index(self, game_dicts, team):  # Specific Helper get_eligible_game_dicts
@@ -227,12 +229,12 @@ class Modeling_Data:
 
         return round(sum(vals) / len(vals), 2)
 
-    def _add_targets(self, targets, game_dict, new_row_dict):  # Specific Helper build_new_row_dict
+    def _add_targets_bet_cols(self, game_dict, new_row_dict):  # Specific Helper build_new_row_dict
         """
-        adding specified targets to the final df straight from the merged df
+        adding targets and betting columns to the final df straight from the merged df
+        - these are not averaged across past games like the other features
         """
-        # game_date = datetime.datetime.strptime(game_dict['Date'], "%Y-%m-%d") # ! was trying to avoid giving unplayed games targets
-        for target in targets:
+        for target in self.targets + self.betting_cols:
             new_row_dict[target] = game_dict[target]
         return new_row_dict
 
@@ -240,21 +242,21 @@ class Modeling_Data:
         """
         Given the home/away team and game date, this will create a new_row_dict for ML training
         """
-        home, away, date, feature_cols, eligible_game_dict, game_dicts, targets, extra_cols = args
+        home, away, date, feature_cols, eligible_game_dict, game_dicts = args
         home_recent_games = self.query_recent_games(home, date, game_dicts)
         away_recent_games = self.query_recent_games(away, date, game_dicts)
 
+        # TODO RIGHT HERE IS WHERE I NEED TO INCORPORATE STAT_ALLOWED, FOR EACH TEAM, NOT JUST WHAT THE ONE TEAM PRODUCED
         new_row_dict = {feature_col: self._avg_feature_col(feature_col, home, away, home_recent_games, away_recent_games)
                         for feature_col in feature_cols}
 
-        # * if desired, adding extra cols to the new_row_dict
-        for col in extra_cols:
-            new_row_dict[col] = eligible_game_dict[col]
-
-        new_row_dict = self._add_targets(targets, eligible_game_dict, new_row_dict)
+        new_row_dict = self._add_targets_bet_cols(eligible_game_dict, new_row_dict)
         return new_row_dict
 
     def fill_na_values(self, df, feature_cols):  # Top Level
+        """
+        simple mean-imputation for missing values in feature columns
+        """
         for feature_col in feature_cols:
             df[feature_col].fillna(value=df[feature_col].mean(), inplace=True)
         return df
@@ -286,17 +288,17 @@ class Modeling_Data:
         final_df = pd.concat([df, new_df], axis=1)
         return final_df
 
-    def run(self, targets, extra_cols=[], player_stats=True):  # Run
+    def run(self, player_stats=True):  # Run
         # * game dicts, feature_cols, eligible
         game_dicts = self.load_game_dicts()
-        feature_cols = self.get_feature_cols()  # + extra_cols  # ! all feature cols can be queried numerically!
+        feature_cols = self.get_feature_cols()
         eligible_game_dicts = self.get_eligible_game_dicts(game_dicts)
 
         # * multithreading the process of creating a new row for the df based on every eligible_game_dict
-        args = [(egd['Home'], egd['Away'], egd['Date'], feature_cols, egd, game_dicts, targets, extra_cols) for egd in eligible_game_dicts]
+        args = [(egd['Home'], egd['Away'], egd['Date'], feature_cols, egd, game_dicts) for egd in eligible_game_dicts]
         new_row_dicts = multithread(self.build_new_row_dict, args)
 
-        df = pd.DataFrame(new_row_dicts, columns=extra_cols + feature_cols + targets)
+        df = pd.DataFrame(new_row_dicts, columns=self.betting_cols + self.targets + feature_cols)
         df = self.fill_na_values(df, feature_cols)
         if player_stats:
             df = self.add_player_stats(eligible_game_dicts, df)
@@ -307,17 +309,16 @@ class Modeling_Data:
         """
         running this file to create datasets with/without player stats for all leagues
         - saving to /Modeling
+        - "pg" = past games, "nps" = no player stats, "wps" = with player stats
         """
-        # for league in ['NFL', 'NBA', 'NCAAF', 'NCAAB']:
-        for league in ['NFL']:
-            pass
+        df_no_p_stats = self.run(player_stats=False)
+        df_no_p_stats.to_csv(f"{ROOT_PATH}/Data/Modeling_Data/{self.league}/no_player_stats_avg_{self.past_games_num}_past_games.csv", index=False)
+        df_p_stats = self.run(player_stats=True)
+        df_p_stats.to_csv(f"{ROOT_PATH}/Modeling/{league}/player_stats_avg_{self.past_games_num}_past_games.csv", index=False)
 
 
 if __name__ == '__main__':
-    league = "NCAAF"
-    x = Modeling_Data(league)
-    targets = ['Home_ML', 'Home_Win', 'Home_Win_Margin', 'Home_Covered', 'Over_Covered']
-    # extra_cols = ['Home', 'Away', 'Date']
-    df = x.run(targets, player_stats=False)
-    df.to_csv("NCAAF_without_player_stats.csv")
-    print("SAVED")
+    # for league in ['NFL', 'NBA', 'NCAAF', 'NCAAB']:
+    for league in ['NBA']:
+        x = Modeling_Data(league)
+        x.run_all()

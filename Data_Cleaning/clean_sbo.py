@@ -134,6 +134,7 @@ class SBO_Clean_Data:
         converts the bet_val from the odds df into either the val, None or the val, ML
         - ML only shows up when the bet_val is in format 7-105
         """
+        bet_val = abs(bet_val) if isinstance(bet_val, (int, float)) else bet_val
         try:
             bet_val = str(bet_val).lower().replace('pk', '0')
             if '-' in bet_val:
