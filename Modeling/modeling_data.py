@@ -57,23 +57,20 @@ class Modeling_Data:
 
     def _games_feature_engineering(self, games_df):  # Specific Helper load_game_dicts
         """
-        Engineering new target features to be modeled
+        Engineering new target features to be modeled for each bet type
         """
-        # TODO keep everything None for unplayed games
-        # * Home_Win
-        games_df['Home_Win'] = games_df['Home_Final'] > games_df['Away_Final']
-        games_df['Home_Win'] = games_df['Home_Win'].astype(int)
-        # * Home_Win_Margin
-        games_df['Home_Win_Margin'] = games_df['Home_Final'] - games_df['Away_Final']
-        # * Home_Covered
+        # ? TODO keep everything None for unplayed games
+        # * Spread - Home_Covered
         games_df['Home_Covered'] = (games_df['Home_Final'] + games_df['Home_Line_Close']) > games_df['Away_Final']
         games_df['Home_Covered'] = games_df['Home_Covered'].astype(int)
-        # * Over_Covered
+        # * MoneyLine - Home_Win
+        games_df['Home_Win'] = games_df['Home_Final'] > games_df['Away_Final']
+        games_df['Home_Win'] = games_df['Home_Win'].astype(int)
+        # * Total: Over_Covered
         games_df['Over_Covered'] = (games_df['Home_Final'] + games_df['Away_Final']) > games_df['OU_Close']
         games_df['Over_Covered'] = games_df['Over_Covered'].astype(int)
 
-        # ! I think I need to change this - I do want available
-        for col in ['Home_Win', 'Home_Win_Margin', 'Home_Covered', 'Over_Covered']:
+        for col in ['Home_Win', 'Home_Covered', 'Over_Covered']:
             games_df.loc[games_df['Final_Status'].isnull(), col] = None
         return games_df
 
@@ -113,10 +110,21 @@ class Modeling_Data:
                      'Yards_per_rush', 'Turnovers', 'Fumbles_lost', 'Defensive_Special_Teams_TDs',
                      '3rd_downs_converted', '3rd_downs_total', '4th_downs_converted', '4th_downs_total',
                      'Passes_completed', 'Passes_attempted', 'Sacks', 'Sacks_Yards_Lost',
-                     'Red_Zone_Conversions', 'Red_Zone_Trips', 'Penalties', 'Penalty_Yards']
-        ncaaf_stats = []
-        nba_stats = []
-        ncaab_stats = []
+                     'Red_Zone_Conversions', 'Red_Zone_Trips', 'Penalties', 'Penalty_Yards', 'Possession']
+        ncaaf_stats = ['1st_Downs',
+                       'Total_Yards', 'Passing', 'Yards_per_pass', 'Interceptions_thrown', 'Rushing',
+                       'Rushing_Attempts', 'Yards_per_rush', 'Turnovers', 'Fumbles_lost',
+                       '3rd_downs_converted', '3rd_downs_total', '4th_downs_converted', '4th_downs_total',
+                       'Passes_completed', 'Passes_attempted', 'Penalties', 'Penalty_Yards', 'Possession']
+        nba_stats = ['Field_Goal_pct', 'Three_Point_pct', 'Free_Throw_pct', 'Rebounds', 'Offensive_Rebounds',
+                     'Defensive_Rebounds', 'Assists', 'Steals', 'Blocks', 'Turnovers', 'Points_Off_Turnovers',
+                     'Fast_Break_Points', 'Points_in_Paint', 'Fouls', 'Technical_Fouls', 'Flagrant_Fouls',
+                     'Largest_Lead', 'FG_made', 'FG_attempted', '3PT_made', '3PT_attempted', 'FT_made',
+                     'FT_attempted']
+        ncaab_stats = ['Field_Goal_pct', 'Three_Point_pct', 'Free_Throw_pct', 'Rebounds', 'Offensive_Rebounds',
+                       'Defensive_Rebounds', 'Assists', 'Steals', 'Blocks', 'Turnovers', 'Fouls',
+                       'Technical_Fouls', 'Flagrant_Fouls', 'Largest_Lead', 'FG_made', 'FG_attempted',
+                       '3PT_made', '3PT_attempted', 'FT_made', 'FT_attempted']
         stat_dict = {"NFL": self._wrap_home_away(nfl_stats), "NBA": self._wrap_home_away(nba_stats),
                      "NCAAF": self._wrap_home_away(ncaaf_stats), "NCAAB": self._wrap_home_away(ncaab_stats)}
         return stat_dict[self.league]
@@ -295,12 +303,21 @@ class Modeling_Data:
 
         return df
 
+    def run_all(self):  # Run
+        """
+        running this file to create datasets with/without player stats for all leagues
+        - saving to /Modeling
+        """
+        # for league in ['NFL', 'NBA', 'NCAAF', 'NCAAB']:
+        for league in ['NFL']:
+            pass
+
 
 if __name__ == '__main__':
-    league = "NFL"
+    league = "NCAAF"
     x = Modeling_Data(league)
     targets = ['Home_ML', 'Home_Win', 'Home_Win_Margin', 'Home_Covered', 'Over_Covered']
     # extra_cols = ['Home', 'Away', 'Date']
-    df = x.run(targets)
-    df.to_csv("temp.csv")
+    df = x.run(targets, player_stats=False)
+    df.to_csv("NCAAF_without_player_stats.csv")
     print("SAVED")
