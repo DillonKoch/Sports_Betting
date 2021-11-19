@@ -150,8 +150,8 @@ class NFL_Spread(Modeling_Parent):
 
         # * Training Models
         # self.model_baseline_avg_points(avg_df_home_away_date, raw_df)
-        self.model_logistic_regression(train_X, val_X, train_y, val_y)
-        self.model_xgboost(train_X, val_X, train_y, val_y)
+        # self.model_logistic_regression(train_X, val_X, train_y, val_y)
+        # self.model_xgboost(train_X, val_X, train_y, val_y)
         self.model_neural_net(train_X, val_X, train_y, val_y)
 
         # * data prep, train test splitting

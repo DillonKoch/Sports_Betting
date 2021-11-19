@@ -85,7 +85,7 @@ class Player_Data:
         self.pos_stat_dict = self.football_stat_dict if self.football_league else self.basketball_stat_dict
 
         # * dict for converting injury first word to numeric status
-        self.status_fw_to_num_dict = {"i-r": 0, "out": 0, "early": 0, "mid": 0, "late": 0, "doub": 1, "ques": 2, "day-to-day": 2, "prob": 3}
+        self.status_fw_to_num_dict = {"i-r": 0, "out": 0, "early": 0, "mid": 0, "late": 0, "doub": 1, "ques": 2, "day-to-day": 2, "prob": 3, "elig": 4}
 
         # * Other
         self.feature_col_names = self.make_feature_col_names()
@@ -122,13 +122,21 @@ class Player_Data:
                 cols += [f"{position}{i+1}_" + item for item in ["Height", "Weight", "Age", "Injury_Status"]]
         return cols
 
+    def _check_nan(self, val):  # Helping Helper _split_dash_slash_cols
+        if isinstance(val, float):
+            if np.isnan(val):
+                return True
+        if val is None:
+            return True
+        return False
+
     def _split_dash_slash_cols(self, player_stats_df, col, dash=True):  # Specific Helper load_clean_player_stats_df
         """
         retuns a dash/slash column, split into two (the value before and after the dash/slash)
         """
         dash_slash = '-' if dash else '/'
         col_vals = list(player_stats_df[col])
-        splits = [val.split(dash_slash) if val is not np.nan else (None, None) for val in col_vals]
+        splits = [val.split(dash_slash) if not self._check_nan(val) else (None, None) for val in col_vals]
         ds_col1 = [split[0] for split in splits]
         ds_col2 = [split[1] for split in splits]
         return ds_col1, ds_col2

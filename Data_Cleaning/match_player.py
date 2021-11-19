@@ -61,11 +61,15 @@ class Match_Player:
         return list(set(covers_dash_names))
 
     def find_closest_matches(self, covers_player, espn_players):  # Top Level
+        """
+        """
         espn_players_copy = copy.deepcopy(espn_players)
         espn_players_sorted = sorted(espn_players_copy, key=lambda x: lev.distance(x, covers_player))
         return espn_players_sorted[:10]
 
     def find_user_match(self, covers_player, closest_matches):  # Top Level
+        """
+        """
         print('-' * 50)
         print('\n\n\n')
         print(covers_player)
@@ -79,6 +83,8 @@ class Match_Player:
         return correction
 
     def update_player_json(self, covers_player, user_match, player_json):  # Top Level
+        """
+        """
         if user_match is None:
             player_json['No Matches'].append(covers_player)
         else:
@@ -89,10 +95,6 @@ class Match_Player:
         return player_json
 
     def run(self):  # Run
-        # load/create json for conversions
-        # load espn names
-        # load covers names
-        # for every covers name not in ESPN, create a mapping to an ESPN name (or Other?)
         player_json = self.load_player_json()
         espn_players = self.load_espn_players()
         covers_players = self.load_covers_players()
