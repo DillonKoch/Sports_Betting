@@ -250,6 +250,11 @@ class Modeling_Data:
         new_row_dict = {feature_col: self._avg_feature_col(feature_col, home, away, home_recent_games, away_recent_games)
                         for feature_col in feature_cols}
 
+        # * adding Home/Away/Date
+        new_row_dict['Home'] = home
+        new_row_dict['Away'] = away
+        new_row_dict['Date'] = date
+
         new_row_dict = self._add_targets_bet_cols(eligible_game_dict, new_row_dict)
         return new_row_dict
 
@@ -298,7 +303,7 @@ class Modeling_Data:
         args = [(egd['Home'], egd['Away'], egd['Date'], feature_cols, egd, game_dicts) for egd in eligible_game_dicts]
         new_row_dicts = multithread(self.build_new_row_dict, args)
 
-        df = pd.DataFrame(new_row_dicts, columns=self.betting_cols + self.targets + feature_cols)
+        df = pd.DataFrame(new_row_dicts, columns=['Home', 'Away', 'Date'] + self.betting_cols + self.targets + feature_cols)
         df = self.fill_na_values(df, feature_cols)
         if player_stats:
             df = self.add_player_stats(eligible_game_dicts, df)
@@ -312,13 +317,17 @@ class Modeling_Data:
         - "pg" = past games, "nps" = no player stats, "wps" = with player stats
         """
         df_no_p_stats = self.run(player_stats=False)
-        df_no_p_stats.to_csv(f"{ROOT_PATH}/Data/Modeling_Data/{self.league}/no_player_stats_avg_{self.past_games_num}_past_games.csv", index=False)
+        df_no_p_stats.to_csv(f"{ROOT_PATH}/Data/Modeling_Data/{self.league}/no_player_stats_avg_{self.num_past_games}_past_games.csv", index=False)
         df_p_stats = self.run(player_stats=True)
-        df_p_stats.to_csv(f"{ROOT_PATH}/Modeling/{league}/player_stats_avg_{self.past_games_num}_past_games.csv", index=False)
+        df_p_stats.to_csv(f"{ROOT_PATH}/Data/Modeling_Data/{self.league}/player_stats_avg_{self.num_past_games}_past_games.csv", index=False)
+
+    def run_updates(self):  # Run
+        # TODO once the dataframes are created, just update with newly collected data
+        pass
 
 
 if __name__ == '__main__':
-    # for league in ['NFL', 'NBA', 'NCAAF', 'NCAAB']:
-    for league in ['NBA']:
+    for league in ['NBA', 'NCAAF', 'NCAAB']:
+        # for league in ['NFL']:
         x = Modeling_Data(league)
         x.run_all()

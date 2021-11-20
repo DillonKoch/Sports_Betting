@@ -1,0 +1,421 @@
+Game_Date,Home,Away,Bet_Type,Bet_Value,Bet_ML,Prediction,Outcome,Algorithm,Alg_Description,Dataset,Pred_ts
+2021-11-21,New York Jets,Miami Dolphins,Total,44.5,-110.0,0.599,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 10:52
+2021-11-21,Los Angeles Chargers,Pittsburgh Steelers,Total,47.0,-110.0,0.457,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 10:52
+2021-11-21,Tennessee Titans,Houston Texans,Total,44.5,-110.0,0.405,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 10:52
+2021-11-21,Buffalo Bills,Indianapolis Colts,Total,50.0,-110.0,0.4270000000000001,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 10:52
+2021-11-21,Seattle Seahawks,Arizona Cardinals,Total,48.0,-110.0,0.617,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 10:52
+2021-11-21,Jacksonville Jaguars,San Francisco 49ers,Total,45.0,-110.0,0.40399999999999997,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 10:52
+2021-11-21,Minnesota Vikings,Green Bay Packers,Total,47.5,-110.0,0.53,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 10:52
+2021-11-21,Chicago Bears,Baltimore Ravens,Total,44.5,-110.0,0.498,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 10:52
+2021-11-21,Kansas City Chiefs,Dallas Cowboys,Total,56.5,-110.0,0.38799999999999996,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 10:52
+2021-11-21,Las Vegas Raiders,Cincinnati Bengals,Total,50.5,-110.0,0.516,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 10:52
+2021-11-21,Philadelphia Eagles,New Orleans Saints,Total,43.0,-110.0,0.519,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 10:52
+2021-11-21,Cleveland Browns,Detroit Lions,Total,43.5,-110.0,0.638,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 10:52
+2021-11-21,Carolina Panthers,Washington,Total,43.0,-110.0,0.547,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 10:52
+2021-11-22,Tampa Bay Buccaneers,New York Giants,Total,49.5,-110.0,0.45399999999999996,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 10:52
+2021-11-21,New York Jets,Miami Dolphins,Total,44.5,-110.0,0.578,,random forest,,"avg 10 past games, no player stats",2021-11-20 10:52
+2021-11-21,Los Angeles Chargers,Pittsburgh Steelers,Total,47.0,-110.0,0.513,,random forest,,"avg 10 past games, no player stats",2021-11-20 10:52
+2021-11-21,Tennessee Titans,Houston Texans,Total,44.5,-110.0,0.419,,random forest,,"avg 10 past games, no player stats",2021-11-20 10:52
+2021-11-21,Buffalo Bills,Indianapolis Colts,Total,50.0,-110.0,0.521,,random forest,,"avg 10 past games, no player stats",2021-11-20 10:52
+2021-11-21,Seattle Seahawks,Arizona Cardinals,Total,48.0,-110.0,0.511,,random forest,,"avg 10 past games, no player stats",2021-11-20 10:52
+2021-11-21,Jacksonville Jaguars,San Francisco 49ers,Total,45.0,-110.0,0.513,,random forest,,"avg 10 past games, no player stats",2021-11-20 10:52
+2021-11-21,Minnesota Vikings,Green Bay Packers,Total,47.5,-110.0,0.5379999999999999,,random forest,,"avg 10 past games, no player stats",2021-11-20 10:52
+2021-11-21,Chicago Bears,Baltimore Ravens,Total,44.5,-110.0,0.513,,random forest,,"avg 10 past games, no player stats",2021-11-20 10:52
+2021-11-21,Kansas City Chiefs,Dallas Cowboys,Total,56.5,-110.0,0.46,,random forest,,"avg 10 past games, no player stats",2021-11-20 10:52
+2021-11-21,Las Vegas Raiders,Cincinnati Bengals,Total,50.5,-110.0,0.552,,random forest,,"avg 10 past games, no player stats",2021-11-20 10:52
+2021-11-21,Philadelphia Eagles,New Orleans Saints,Total,43.0,-110.0,0.526,,random forest,,"avg 10 past games, no player stats",2021-11-20 10:52
+2021-11-21,Cleveland Browns,Detroit Lions,Total,43.5,-110.0,0.483,,random forest,,"avg 10 past games, no player stats",2021-11-20 10:52
+2021-11-21,Carolina Panthers,Washington,Total,43.0,-110.0,0.534,,random forest,,"avg 10 past games, no player stats",2021-11-20 10:52
+2021-11-22,Tampa Bay Buccaneers,New York Giants,Total,49.5,-110.0,0.4370000000000001,,random forest,,"avg 10 past games, no player stats",2021-11-20 10:52
+2021-11-21,New York Jets,Miami Dolphins,Total,44.5,-110.0,0.515,,svm,,"avg 10 past games, no player stats",2021-11-20 10:53
+2021-11-21,Los Angeles Chargers,Pittsburgh Steelers,Total,47.0,-110.0,0.486,,svm,,"avg 10 past games, no player stats",2021-11-20 10:53
+2021-11-21,Tennessee Titans,Houston Texans,Total,44.5,-110.0,0.484,,svm,,"avg 10 past games, no player stats",2021-11-20 10:53
+2021-11-21,Buffalo Bills,Indianapolis Colts,Total,50.0,-110.0,0.49,,svm,,"avg 10 past games, no player stats",2021-11-20 10:53
+2021-11-21,Seattle Seahawks,Arizona Cardinals,Total,48.0,-110.0,0.518,,svm,,"avg 10 past games, no player stats",2021-11-20 10:53
+2021-11-21,Jacksonville Jaguars,San Francisco 49ers,Total,45.0,-110.0,0.484,,svm,,"avg 10 past games, no player stats",2021-11-20 10:53
+2021-11-21,Minnesota Vikings,Green Bay Packers,Total,47.5,-110.0,0.508,,svm,,"avg 10 past games, no player stats",2021-11-20 10:53
+2021-11-21,Chicago Bears,Baltimore Ravens,Total,44.5,-110.0,0.4920000000000001,,svm,,"avg 10 past games, no player stats",2021-11-20 10:53
+2021-11-21,Kansas City Chiefs,Dallas Cowboys,Total,56.5,-110.0,0.478,,svm,,"avg 10 past games, no player stats",2021-11-20 10:53
+2021-11-21,Las Vegas Raiders,Cincinnati Bengals,Total,50.5,-110.0,0.516,,svm,,"avg 10 past games, no player stats",2021-11-20 10:53
+2021-11-21,Philadelphia Eagles,New Orleans Saints,Total,43.0,-110.0,0.5,,svm,,"avg 10 past games, no player stats",2021-11-20 10:53
+2021-11-21,Cleveland Browns,Detroit Lions,Total,43.5,-110.0,0.535,,svm,,"avg 10 past games, no player stats",2021-11-20 10:53
+2021-11-21,Carolina Panthers,Washington,Total,43.0,-110.0,0.51,,svm,,"avg 10 past games, no player stats",2021-11-20 10:53
+2021-11-22,Tampa Bay Buccaneers,New York Giants,Total,49.5,-110.0,0.4920000000000001,,svm,,"avg 10 past games, no player stats",2021-11-20 10:53
+2021-11-21,New York Jets,Miami Dolphins,Spread,3.0,105.0,0.4370000000000001,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 10:57
+2021-11-21,Los Angeles Chargers,Pittsburgh Steelers,Spread,-6.0,-110.0,0.638,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 10:57
+2021-11-21,Tennessee Titans,Houston Texans,Spread,-10.0,-110.0,0.429,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 10:57
+2021-11-21,Buffalo Bills,Indianapolis Colts,Spread,-7.0,-115.0,0.5,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 10:57
+2021-11-21,Seattle Seahawks,Arizona Cardinals,Spread,2.5,-115.0,0.502,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 10:57
+2021-11-21,Jacksonville Jaguars,San Francisco 49ers,Spread,6.5,-110.0,0.5579999999999999,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 10:57
+2021-11-21,Minnesota Vikings,Green Bay Packers,Spread,1.5,-110.0,0.425,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 10:57
+2021-11-21,Chicago Bears,Baltimore Ravens,Spread,4.5,-110.0,0.442,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 10:57
+2021-11-21,Kansas City Chiefs,Dallas Cowboys,Spread,-2.5,-110.0,0.622,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 10:57
+2021-11-21,Las Vegas Raiders,Cincinnati Bengals,Spread,1.0,-105.0,0.407,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 10:57
+2021-11-21,Philadelphia Eagles,New Orleans Saints,Spread,-1.5,-110.0,0.517,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 10:57
+2021-11-21,Cleveland Browns,Detroit Lions,Spread,-11.5,-110.0,0.498,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 10:57
+2021-11-21,Carolina Panthers,Washington,Spread,-3.5,100.0,0.389,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 10:57
+2021-11-22,Tampa Bay Buccaneers,New York Giants,Spread,-11.0,-110.0,0.561,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 10:57
+2021-11-21,New York Jets,Miami Dolphins,Spread,3.0,105.0,0.4370000000000001,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 10:58
+2021-11-21,Los Angeles Chargers,Pittsburgh Steelers,Spread,-6.0,-110.0,0.638,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 10:58
+2021-11-21,Tennessee Titans,Houston Texans,Spread,-10.0,-110.0,0.429,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 10:58
+2021-11-21,Buffalo Bills,Indianapolis Colts,Spread,-7.0,-115.0,0.5,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 10:58
+2021-11-21,Seattle Seahawks,Arizona Cardinals,Spread,2.5,-115.0,0.502,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 10:58
+2021-11-21,Jacksonville Jaguars,San Francisco 49ers,Spread,6.5,-110.0,0.5579999999999999,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 10:58
+2021-11-21,Minnesota Vikings,Green Bay Packers,Spread,1.5,-110.0,0.425,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 10:58
+2021-11-21,Chicago Bears,Baltimore Ravens,Spread,4.5,-110.0,0.442,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 10:58
+2021-11-21,Kansas City Chiefs,Dallas Cowboys,Spread,-2.5,-110.0,0.622,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 10:58
+2021-11-21,Las Vegas Raiders,Cincinnati Bengals,Spread,1.0,-105.0,0.40700000000000003,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 10:58
+2021-11-21,Philadelphia Eagles,New Orleans Saints,Spread,-1.5,-110.0,0.517,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 10:58
+2021-11-21,Cleveland Browns,Detroit Lions,Spread,-11.5,-110.0,0.498,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 10:58
+2021-11-21,Carolina Panthers,Washington,Spread,-3.5,100.0,0.389,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 10:58
+2021-11-22,Tampa Bay Buccaneers,New York Giants,Spread,-11.0,-110.0,0.561,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 10:58
+2021-11-21,New York Jets,Miami Dolphins,Spread,3.0,105.0,0.448,,random forest,,"avg 10 past games, no player stats",2021-11-20 10:58
+2021-11-21,Los Angeles Chargers,Pittsburgh Steelers,Spread,-6.0,-110.0,0.452,,random forest,,"avg 10 past games, no player stats",2021-11-20 10:58
+2021-11-21,Tennessee Titans,Houston Texans,Spread,-10.0,-110.0,0.47,,random forest,,"avg 10 past games, no player stats",2021-11-20 10:58
+2021-11-21,Buffalo Bills,Indianapolis Colts,Spread,-7.0,-115.0,0.499,,random forest,,"avg 10 past games, no player stats",2021-11-20 10:58
+2021-11-21,Seattle Seahawks,Arizona Cardinals,Spread,2.5,-115.0,0.433,,random forest,,"avg 10 past games, no player stats",2021-11-20 10:58
+2021-11-21,Jacksonville Jaguars,San Francisco 49ers,Spread,6.5,-110.0,0.539,,random forest,,"avg 10 past games, no player stats",2021-11-20 10:58
+2021-11-21,Minnesota Vikings,Green Bay Packers,Spread,1.5,-110.0,0.448,,random forest,,"avg 10 past games, no player stats",2021-11-20 10:58
+2021-11-21,Chicago Bears,Baltimore Ravens,Spread,4.5,-110.0,0.415,,random forest,,"avg 10 past games, no player stats",2021-11-20 10:58
+2021-11-21,Kansas City Chiefs,Dallas Cowboys,Spread,-2.5,-110.0,0.546,,random forest,,"avg 10 past games, no player stats",2021-11-20 10:58
+2021-11-21,Las Vegas Raiders,Cincinnati Bengals,Spread,1.0,-105.0,0.442,,random forest,,"avg 10 past games, no player stats",2021-11-20 10:58
+2021-11-21,Philadelphia Eagles,New Orleans Saints,Spread,-1.5,-110.0,0.481,,random forest,,"avg 10 past games, no player stats",2021-11-20 10:58
+2021-11-21,Cleveland Browns,Detroit Lions,Spread,-11.5,-110.0,0.551,,random forest,,"avg 10 past games, no player stats",2021-11-20 10:58
+2021-11-21,Carolina Panthers,Washington,Spread,-3.5,100.0,0.485,,random forest,,"avg 10 past games, no player stats",2021-11-20 10:58
+2021-11-22,Tampa Bay Buccaneers,New York Giants,Spread,-11.0,-110.0,0.574,,random forest,,"avg 10 past games, no player stats",2021-11-20 10:58
+2021-11-21,New York Jets,Miami Dolphins,Spread,3.0,105.0,0.484,,svm,,"avg 10 past games, no player stats",2021-11-20 10:58
+2021-11-21,Los Angeles Chargers,Pittsburgh Steelers,Spread,-6.0,-110.0,0.519,,svm,,"avg 10 past games, no player stats",2021-11-20 10:58
+2021-11-21,Tennessee Titans,Houston Texans,Spread,-10.0,-110.0,0.479,,svm,,"avg 10 past games, no player stats",2021-11-20 10:58
+2021-11-21,Buffalo Bills,Indianapolis Colts,Spread,-7.0,-115.0,0.5,,svm,,"avg 10 past games, no player stats",2021-11-20 10:58
+2021-11-21,Seattle Seahawks,Arizona Cardinals,Spread,2.5,-115.0,0.5,,svm,,"avg 10 past games, no player stats",2021-11-20 10:58
+2021-11-21,Jacksonville Jaguars,San Francisco 49ers,Spread,6.5,-110.0,0.516,,svm,,"avg 10 past games, no player stats",2021-11-20 10:58
+2021-11-21,Minnesota Vikings,Green Bay Packers,Spread,1.5,-110.0,0.48200000000000004,,svm,,"avg 10 past games, no player stats",2021-11-20 10:58
+2021-11-21,Chicago Bears,Baltimore Ravens,Spread,4.5,-110.0,0.479,,svm,,"avg 10 past games, no player stats",2021-11-20 10:58
+2021-11-21,Kansas City Chiefs,Dallas Cowboys,Spread,-2.5,-110.0,0.509,,svm,,"avg 10 past games, no player stats",2021-11-20 10:58
+2021-11-21,Las Vegas Raiders,Cincinnati Bengals,Spread,1.0,-105.0,0.48100000000000004,,svm,,"avg 10 past games, no player stats",2021-11-20 10:58
+2021-11-21,Philadelphia Eagles,New Orleans Saints,Spread,-1.5,-110.0,0.5,,svm,,"avg 10 past games, no player stats",2021-11-20 10:58
+2021-11-21,Cleveland Browns,Detroit Lions,Spread,-11.5,-110.0,0.494,,svm,,"avg 10 past games, no player stats",2021-11-20 10:58
+2021-11-21,Carolina Panthers,Washington,Spread,-3.5,100.0,0.47600000000000003,,svm,,"avg 10 past games, no player stats",2021-11-20 10:58
+2021-11-22,Tampa Bay Buccaneers,New York Giants,Spread,-11.0,-110.0,0.507,,svm,,"avg 10 past games, no player stats",2021-11-20 10:58
+2021-11-21,New York Jets,Miami Dolphins,Spread,3.0,105.0,0.4370000000000001,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:06
+2021-11-21,Los Angeles Chargers,Pittsburgh Steelers,Spread,-6.0,-110.0,0.638,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:06
+2021-11-21,Tennessee Titans,Houston Texans,Spread,-10.0,-110.0,0.429,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:06
+2021-11-21,Buffalo Bills,Indianapolis Colts,Spread,-7.0,-115.0,0.5,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:06
+2021-11-21,Seattle Seahawks,Arizona Cardinals,Spread,2.5,-115.0,0.502,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:06
+2021-11-21,Jacksonville Jaguars,San Francisco 49ers,Spread,6.5,-110.0,0.5579999999999999,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:06
+2021-11-21,Minnesota Vikings,Green Bay Packers,Spread,1.5,-110.0,0.425,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:06
+2021-11-21,Chicago Bears,Baltimore Ravens,Spread,4.5,-110.0,0.442,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:06
+2021-11-21,Kansas City Chiefs,Dallas Cowboys,Spread,-2.5,-110.0,0.622,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:06
+2021-11-21,Las Vegas Raiders,Cincinnati Bengals,Spread,1.0,-105.0,0.407,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:06
+2021-11-21,Philadelphia Eagles,New Orleans Saints,Spread,-1.5,-110.0,0.517,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:06
+2021-11-21,Cleveland Browns,Detroit Lions,Spread,-11.5,-110.0,0.498,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:06
+2021-11-21,Carolina Panthers,Washington,Spread,-3.5,100.0,0.389,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:06
+2021-11-22,Tampa Bay Buccaneers,New York Giants,Spread,-11.0,-110.0,0.561,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:06
+2021-11-21,New York Jets,Miami Dolphins,Spread,3.0,105.0,0.44799999999999995,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:06
+2021-11-21,Los Angeles Chargers,Pittsburgh Steelers,Spread,-6.0,-110.0,0.452,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:06
+2021-11-21,Tennessee Titans,Houston Texans,Spread,-10.0,-110.0,0.47,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:06
+2021-11-21,Buffalo Bills,Indianapolis Colts,Spread,-7.0,-115.0,0.499,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:06
+2021-11-21,Seattle Seahawks,Arizona Cardinals,Spread,2.5,-115.0,0.433,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:06
+2021-11-21,Jacksonville Jaguars,San Francisco 49ers,Spread,6.5,-110.0,0.539,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:06
+2021-11-21,Minnesota Vikings,Green Bay Packers,Spread,1.5,-110.0,0.44799999999999995,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:06
+2021-11-21,Chicago Bears,Baltimore Ravens,Spread,4.5,-110.0,0.415,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:06
+2021-11-21,Kansas City Chiefs,Dallas Cowboys,Spread,-2.5,-110.0,0.546,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:06
+2021-11-21,Las Vegas Raiders,Cincinnati Bengals,Spread,1.0,-105.0,0.442,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:06
+2021-11-21,Philadelphia Eagles,New Orleans Saints,Spread,-1.5,-110.0,0.48100000000000004,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:06
+2021-11-21,Cleveland Browns,Detroit Lions,Spread,-11.5,-110.0,0.551,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:06
+2021-11-21,Carolina Panthers,Washington,Spread,-3.5,100.0,0.485,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:06
+2021-11-22,Tampa Bay Buccaneers,New York Giants,Spread,-11.0,-110.0,0.574,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:06
+2021-11-21,New York Jets,Miami Dolphins,Spread,3.0,105.0,0.487,,svm,,"avg 10 past games, no player stats",2021-11-20 11:06
+2021-11-21,Los Angeles Chargers,Pittsburgh Steelers,Spread,-6.0,-110.0,0.513,,svm,,"avg 10 past games, no player stats",2021-11-20 11:06
+2021-11-21,Tennessee Titans,Houston Texans,Spread,-10.0,-110.0,0.483,,svm,,"avg 10 past games, no player stats",2021-11-20 11:06
+2021-11-21,Buffalo Bills,Indianapolis Colts,Spread,-7.0,-115.0,0.5,,svm,,"avg 10 past games, no player stats",2021-11-20 11:06
+2021-11-21,Seattle Seahawks,Arizona Cardinals,Spread,2.5,-115.0,0.5,,svm,,"avg 10 past games, no player stats",2021-11-20 11:06
+2021-11-21,Jacksonville Jaguars,San Francisco 49ers,Spread,6.5,-110.0,0.51,,svm,,"avg 10 past games, no player stats",2021-11-20 11:06
+2021-11-21,Minnesota Vikings,Green Bay Packers,Spread,1.5,-110.0,0.486,,svm,,"avg 10 past games, no player stats",2021-11-20 11:06
+2021-11-21,Chicago Bears,Baltimore Ravens,Spread,4.5,-110.0,0.483,,svm,,"avg 10 past games, no player stats",2021-11-20 11:06
+2021-11-21,Kansas City Chiefs,Dallas Cowboys,Spread,-2.5,-110.0,0.5,,svm,,"avg 10 past games, no player stats",2021-11-20 11:06
+2021-11-21,Las Vegas Raiders,Cincinnati Bengals,Spread,1.0,-105.0,0.484,,svm,,"avg 10 past games, no player stats",2021-11-20 11:06
+2021-11-21,Philadelphia Eagles,New Orleans Saints,Spread,-1.5,-110.0,0.5,,svm,,"avg 10 past games, no player stats",2021-11-20 11:06
+2021-11-21,Cleveland Browns,Detroit Lions,Spread,-11.5,-110.0,0.495,,svm,,"avg 10 past games, no player stats",2021-11-20 11:06
+2021-11-21,Carolina Panthers,Washington,Spread,-3.5,100.0,0.481,,svm,,"avg 10 past games, no player stats",2021-11-20 11:06
+2021-11-22,Tampa Bay Buccaneers,New York Giants,Spread,-11.0,-110.0,0.5,,svm,,"avg 10 past games, no player stats",2021-11-20 11:06
+2021-11-21,New York Jets,Miami Dolphins,Spread,3.0,105.0,0.4370000000000001,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:15
+2021-11-21,Los Angeles Chargers,Pittsburgh Steelers,Spread,-6.0,-110.0,0.638,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:15
+2021-11-21,Tennessee Titans,Houston Texans,Spread,-10.0,-110.0,0.429,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:15
+2021-11-21,Buffalo Bills,Indianapolis Colts,Spread,-7.0,-115.0,0.5,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:15
+2021-11-21,Seattle Seahawks,Arizona Cardinals,Spread,2.5,-115.0,0.502,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:15
+2021-11-21,Jacksonville Jaguars,San Francisco 49ers,Spread,6.5,-110.0,0.5579999999999999,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:15
+2021-11-21,Minnesota Vikings,Green Bay Packers,Spread,1.5,-110.0,0.425,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:15
+2021-11-21,Chicago Bears,Baltimore Ravens,Spread,4.5,-110.0,0.442,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:15
+2021-11-21,Kansas City Chiefs,Dallas Cowboys,Spread,-2.5,-110.0,0.622,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:15
+2021-11-21,Las Vegas Raiders,Cincinnati Bengals,Spread,1.0,-105.0,0.40700000000000003,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:15
+2021-11-21,Philadelphia Eagles,New Orleans Saints,Spread,-1.5,-110.0,0.517,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:15
+2021-11-21,Cleveland Browns,Detroit Lions,Spread,-11.5,-110.0,0.498,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:15
+2021-11-21,Carolina Panthers,Washington,Spread,-3.5,100.0,0.389,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:15
+2021-11-22,Tampa Bay Buccaneers,New York Giants,Spread,-11.0,-110.0,0.561,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:15
+2021-11-21,New York Jets,Miami Dolphins,Spread,3.0,105.0,0.448,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:15
+2021-11-21,Los Angeles Chargers,Pittsburgh Steelers,Spread,-6.0,-110.0,0.452,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:15
+2021-11-21,Tennessee Titans,Houston Texans,Spread,-10.0,-110.0,0.47,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:15
+2021-11-21,Buffalo Bills,Indianapolis Colts,Spread,-7.0,-115.0,0.499,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:15
+2021-11-21,Seattle Seahawks,Arizona Cardinals,Spread,2.5,-115.0,0.433,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:15
+2021-11-21,Jacksonville Jaguars,San Francisco 49ers,Spread,6.5,-110.0,0.539,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:15
+2021-11-21,Minnesota Vikings,Green Bay Packers,Spread,1.5,-110.0,0.448,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:15
+2021-11-21,Chicago Bears,Baltimore Ravens,Spread,4.5,-110.0,0.415,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:15
+2021-11-21,Kansas City Chiefs,Dallas Cowboys,Spread,-2.5,-110.0,0.546,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:15
+2021-11-21,Las Vegas Raiders,Cincinnati Bengals,Spread,1.0,-105.0,0.442,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:15
+2021-11-21,Philadelphia Eagles,New Orleans Saints,Spread,-1.5,-110.0,0.481,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:15
+2021-11-21,Cleveland Browns,Detroit Lions,Spread,-11.5,-110.0,0.551,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:15
+2021-11-21,Carolina Panthers,Washington,Spread,-3.5,100.0,0.485,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:15
+2021-11-22,Tampa Bay Buccaneers,New York Giants,Spread,-11.0,-110.0,0.574,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:15
+2021-11-21,New York Jets,Miami Dolphins,Spread,3.0,105.0,0.478,,svm,,"avg 10 past games, no player stats",2021-11-20 11:16
+2021-11-21,Los Angeles Chargers,Pittsburgh Steelers,Spread,-6.0,-110.0,0.532,,svm,,"avg 10 past games, no player stats",2021-11-20 11:16
+2021-11-21,Tennessee Titans,Houston Texans,Spread,-10.0,-110.0,0.47,,svm,,"avg 10 past games, no player stats",2021-11-20 11:16
+2021-11-21,Buffalo Bills,Indianapolis Colts,Spread,-7.0,-115.0,0.509,,svm,,"avg 10 past games, no player stats",2021-11-20 11:16
+2021-11-21,Seattle Seahawks,Arizona Cardinals,Spread,2.5,-115.0,0.5,,svm,,"avg 10 past games, no player stats",2021-11-20 11:16
+2021-11-21,Jacksonville Jaguars,San Francisco 49ers,Spread,6.5,-110.0,0.527,,svm,,"avg 10 past games, no player stats",2021-11-20 11:16
+2021-11-21,Minnesota Vikings,Green Bay Packers,Spread,1.5,-110.0,0.475,,svm,,"avg 10 past games, no player stats",2021-11-20 11:16
+2021-11-21,Chicago Bears,Baltimore Ravens,Spread,4.5,-110.0,0.469,,svm,,"avg 10 past games, no player stats",2021-11-20 11:16
+2021-11-21,Kansas City Chiefs,Dallas Cowboys,Spread,-2.5,-110.0,0.516,,svm,,"avg 10 past games, no player stats",2021-11-20 11:16
+2021-11-21,Las Vegas Raiders,Cincinnati Bengals,Spread,1.0,-105.0,0.47200000000000003,,svm,,"avg 10 past games, no player stats",2021-11-20 11:16
+2021-11-21,Philadelphia Eagles,New Orleans Saints,Spread,-1.5,-110.0,0.506,,svm,,"avg 10 past games, no player stats",2021-11-20 11:16
+2021-11-21,Cleveland Browns,Detroit Lions,Spread,-11.5,-110.0,0.494,,svm,,"avg 10 past games, no player stats",2021-11-20 11:16
+2021-11-21,Carolina Panthers,Washington,Spread,-3.5,100.0,0.466,,svm,,"avg 10 past games, no player stats",2021-11-20 11:16
+2021-11-22,Tampa Bay Buccaneers,New York Giants,Spread,-11.0,-110.0,0.513,,svm,,"avg 10 past games, no player stats",2021-11-20 11:16
+2021-11-21,New York Jets,Miami Dolphins,Spread,3.0,105.0,0.4370000000000001,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:16
+2021-11-21,Los Angeles Chargers,Pittsburgh Steelers,Spread,-6.0,-110.0,0.638,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:16
+2021-11-21,Tennessee Titans,Houston Texans,Spread,-10.0,-110.0,0.429,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:16
+2021-11-21,Buffalo Bills,Indianapolis Colts,Spread,-7.0,-115.0,0.5,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:16
+2021-11-21,Seattle Seahawks,Arizona Cardinals,Spread,2.5,-115.0,0.502,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:16
+2021-11-21,Jacksonville Jaguars,San Francisco 49ers,Spread,6.5,-110.0,0.5579999999999999,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:16
+2021-11-21,Minnesota Vikings,Green Bay Packers,Spread,1.5,-110.0,0.425,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:16
+2021-11-21,Chicago Bears,Baltimore Ravens,Spread,4.5,-110.0,0.442,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:16
+2021-11-21,Kansas City Chiefs,Dallas Cowboys,Spread,-2.5,-110.0,0.622,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:16
+2021-11-21,Las Vegas Raiders,Cincinnati Bengals,Spread,1.0,-105.0,0.407,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:16
+2021-11-21,Philadelphia Eagles,New Orleans Saints,Spread,-1.5,-110.0,0.517,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:16
+2021-11-21,Cleveland Browns,Detroit Lions,Spread,-11.5,-110.0,0.498,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:16
+2021-11-21,Carolina Panthers,Washington,Spread,-3.5,100.0,0.389,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:16
+2021-11-22,Tampa Bay Buccaneers,New York Giants,Spread,-11.0,-110.0,0.561,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:16
+2021-11-21,New York Jets,Miami Dolphins,Spread,3.0,105.0,0.44799999999999995,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:17
+2021-11-21,Los Angeles Chargers,Pittsburgh Steelers,Spread,-6.0,-110.0,0.452,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:17
+2021-11-21,Tennessee Titans,Houston Texans,Spread,-10.0,-110.0,0.47,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:17
+2021-11-21,Buffalo Bills,Indianapolis Colts,Spread,-7.0,-115.0,0.499,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:17
+2021-11-21,Seattle Seahawks,Arizona Cardinals,Spread,2.5,-115.0,0.433,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:17
+2021-11-21,Jacksonville Jaguars,San Francisco 49ers,Spread,6.5,-110.0,0.539,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:17
+2021-11-21,Minnesota Vikings,Green Bay Packers,Spread,1.5,-110.0,0.44799999999999995,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:17
+2021-11-21,Chicago Bears,Baltimore Ravens,Spread,4.5,-110.0,0.415,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:17
+2021-11-21,Kansas City Chiefs,Dallas Cowboys,Spread,-2.5,-110.0,0.546,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:17
+2021-11-21,Las Vegas Raiders,Cincinnati Bengals,Spread,1.0,-105.0,0.442,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:17
+2021-11-21,Philadelphia Eagles,New Orleans Saints,Spread,-1.5,-110.0,0.48100000000000004,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:17
+2021-11-21,Cleveland Browns,Detroit Lions,Spread,-11.5,-110.0,0.551,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:17
+2021-11-21,Carolina Panthers,Washington,Spread,-3.5,100.0,0.485,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:17
+2021-11-22,Tampa Bay Buccaneers,New York Giants,Spread,-11.0,-110.0,0.574,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:17
+2021-11-21,New York Jets,Miami Dolphins,Spread,3.0,105.0,0.481,,svm,,"avg 10 past games, no player stats",2021-11-20 11:17
+2021-11-21,Los Angeles Chargers,Pittsburgh Steelers,Spread,-6.0,-110.0,0.525,,svm,,"avg 10 past games, no player stats",2021-11-20 11:17
+2021-11-21,Tennessee Titans,Houston Texans,Spread,-10.0,-110.0,0.475,,svm,,"avg 10 past games, no player stats",2021-11-20 11:17
+2021-11-21,Buffalo Bills,Indianapolis Colts,Spread,-7.0,-115.0,0.506,,svm,,"avg 10 past games, no player stats",2021-11-20 11:17
+2021-11-21,Seattle Seahawks,Arizona Cardinals,Spread,2.5,-115.0,0.5,,svm,,"avg 10 past games, no player stats",2021-11-20 11:17
+2021-11-21,Jacksonville Jaguars,San Francisco 49ers,Spread,6.5,-110.0,0.52,,svm,,"avg 10 past games, no player stats",2021-11-20 11:17
+2021-11-21,Minnesota Vikings,Green Bay Packers,Spread,1.5,-110.0,0.479,,svm,,"avg 10 past games, no player stats",2021-11-20 11:17
+2021-11-21,Chicago Bears,Baltimore Ravens,Spread,4.5,-110.0,0.474,,svm,,"avg 10 past games, no player stats",2021-11-20 11:17
+2021-11-21,Kansas City Chiefs,Dallas Cowboys,Spread,-2.5,-110.0,0.512,,svm,,"avg 10 past games, no player stats",2021-11-20 11:17
+2021-11-21,Las Vegas Raiders,Cincinnati Bengals,Spread,1.0,-105.0,0.477,,svm,,"avg 10 past games, no player stats",2021-11-20 11:17
+2021-11-21,Philadelphia Eagles,New Orleans Saints,Spread,-1.5,-110.0,0.5,,svm,,"avg 10 past games, no player stats",2021-11-20 11:17
+2021-11-21,Cleveland Browns,Detroit Lions,Spread,-11.5,-110.0,0.494,,svm,,"avg 10 past games, no player stats",2021-11-20 11:17
+2021-11-21,Carolina Panthers,Washington,Spread,-3.5,100.0,0.472,,svm,,"avg 10 past games, no player stats",2021-11-20 11:17
+2021-11-22,Tampa Bay Buccaneers,New York Giants,Spread,-11.0,-110.0,0.509,,svm,,"avg 10 past games, no player stats",2021-11-20 11:17
+2021-11-21,New York Jets,Miami Dolphins,Total,44.5,-110.0,0.599,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:17
+2021-11-21,Los Angeles Chargers,Pittsburgh Steelers,Total,47.0,-110.0,0.457,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:17
+2021-11-21,Tennessee Titans,Houston Texans,Total,44.5,-110.0,0.405,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:17
+2021-11-21,Buffalo Bills,Indianapolis Colts,Total,50.0,-110.0,0.4270000000000001,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:17
+2021-11-21,Seattle Seahawks,Arizona Cardinals,Total,48.0,-110.0,0.617,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:17
+2021-11-21,Jacksonville Jaguars,San Francisco 49ers,Total,45.0,-110.0,0.40399999999999997,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:17
+2021-11-21,Minnesota Vikings,Green Bay Packers,Total,47.5,-110.0,0.53,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:17
+2021-11-21,Chicago Bears,Baltimore Ravens,Total,44.5,-110.0,0.498,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:17
+2021-11-21,Kansas City Chiefs,Dallas Cowboys,Total,56.5,-110.0,0.38799999999999996,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:17
+2021-11-21,Las Vegas Raiders,Cincinnati Bengals,Total,50.5,-110.0,0.516,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:17
+2021-11-21,Philadelphia Eagles,New Orleans Saints,Total,43.0,-110.0,0.519,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:17
+2021-11-21,Cleveland Browns,Detroit Lions,Total,43.5,-110.0,0.638,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:17
+2021-11-21,Carolina Panthers,Washington,Total,43.0,-110.0,0.547,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:17
+2021-11-22,Tampa Bay Buccaneers,New York Giants,Total,49.5,-110.0,0.45399999999999996,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:17
+2021-11-21,New York Jets,Miami Dolphins,Total,44.5,-110.0,0.578,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:17
+2021-11-21,Los Angeles Chargers,Pittsburgh Steelers,Total,47.0,-110.0,0.513,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:17
+2021-11-21,Tennessee Titans,Houston Texans,Total,44.5,-110.0,0.419,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:17
+2021-11-21,Buffalo Bills,Indianapolis Colts,Total,50.0,-110.0,0.521,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:17
+2021-11-21,Seattle Seahawks,Arizona Cardinals,Total,48.0,-110.0,0.511,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:17
+2021-11-21,Jacksonville Jaguars,San Francisco 49ers,Total,45.0,-110.0,0.513,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:17
+2021-11-21,Minnesota Vikings,Green Bay Packers,Total,47.5,-110.0,0.5379999999999999,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:17
+2021-11-21,Chicago Bears,Baltimore Ravens,Total,44.5,-110.0,0.513,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:17
+2021-11-21,Kansas City Chiefs,Dallas Cowboys,Total,56.5,-110.0,0.46,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:17
+2021-11-21,Las Vegas Raiders,Cincinnati Bengals,Total,50.5,-110.0,0.552,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:17
+2021-11-21,Philadelphia Eagles,New Orleans Saints,Total,43.0,-110.0,0.526,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:17
+2021-11-21,Cleveland Browns,Detroit Lions,Total,43.5,-110.0,0.483,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:17
+2021-11-21,Carolina Panthers,Washington,Total,43.0,-110.0,0.534,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:17
+2021-11-22,Tampa Bay Buccaneers,New York Giants,Total,49.5,-110.0,0.4370000000000001,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:17
+2021-11-21,New York Jets,Miami Dolphins,Total,44.5,-110.0,0.507,,svm,,"avg 10 past games, no player stats",2021-11-20 11:17
+2021-11-21,Los Angeles Chargers,Pittsburgh Steelers,Total,47.0,-110.0,0.494,,svm,,"avg 10 past games, no player stats",2021-11-20 11:17
+2021-11-21,Tennessee Titans,Houston Texans,Total,44.5,-110.0,0.494,,svm,,"avg 10 past games, no player stats",2021-11-20 11:17
+2021-11-21,Buffalo Bills,Indianapolis Colts,Total,50.0,-110.0,0.5,,svm,,"avg 10 past games, no player stats",2021-11-20 11:17
+2021-11-21,Seattle Seahawks,Arizona Cardinals,Total,48.0,-110.0,0.508,,svm,,"avg 10 past games, no player stats",2021-11-20 11:17
+2021-11-21,Jacksonville Jaguars,San Francisco 49ers,Total,45.0,-110.0,0.494,,svm,,"avg 10 past games, no player stats",2021-11-20 11:17
+2021-11-21,Minnesota Vikings,Green Bay Packers,Total,47.5,-110.0,0.5,,svm,,"avg 10 past games, no player stats",2021-11-20 11:17
+2021-11-21,Chicago Bears,Baltimore Ravens,Total,44.5,-110.0,0.5,,svm,,"avg 10 past games, no player stats",2021-11-20 11:17
+2021-11-21,Kansas City Chiefs,Dallas Cowboys,Total,56.5,-110.0,0.491,,svm,,"avg 10 past games, no player stats",2021-11-20 11:17
+2021-11-21,Las Vegas Raiders,Cincinnati Bengals,Total,50.5,-110.0,0.507,,svm,,"avg 10 past games, no player stats",2021-11-20 11:17
+2021-11-21,Philadelphia Eagles,New Orleans Saints,Total,43.0,-110.0,0.5,,svm,,"avg 10 past games, no player stats",2021-11-20 11:17
+2021-11-21,Cleveland Browns,Detroit Lions,Total,43.5,-110.0,0.516,,svm,,"avg 10 past games, no player stats",2021-11-20 11:17
+2021-11-21,Carolina Panthers,Washington,Total,43.0,-110.0,0.5,,svm,,"avg 10 past games, no player stats",2021-11-20 11:17
+2021-11-22,Tampa Bay Buccaneers,New York Giants,Total,49.5,-110.0,0.5,,svm,,"avg 10 past games, no player stats",2021-11-20 11:17
+2021-11-21,New York Jets,Miami Dolphins,Spread,3.0,105.0,0.4370000000000001,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:23
+2021-11-21,Los Angeles Chargers,Pittsburgh Steelers,Spread,-6.0,-110.0,0.638,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:23
+2021-11-21,Tennessee Titans,Houston Texans,Spread,-10.0,-110.0,0.429,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:23
+2021-11-21,Buffalo Bills,Indianapolis Colts,Spread,-7.0,-115.0,0.5,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:23
+2021-11-21,Seattle Seahawks,Arizona Cardinals,Spread,2.5,-115.0,0.502,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:23
+2021-11-21,Jacksonville Jaguars,San Francisco 49ers,Spread,6.5,-110.0,0.5579999999999999,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:23
+2021-11-21,Minnesota Vikings,Green Bay Packers,Spread,1.5,-110.0,0.425,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:23
+2021-11-21,Chicago Bears,Baltimore Ravens,Spread,4.5,-110.0,0.442,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:23
+2021-11-21,Kansas City Chiefs,Dallas Cowboys,Spread,-2.5,-110.0,0.622,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:23
+2021-11-21,Las Vegas Raiders,Cincinnati Bengals,Spread,1.0,-105.0,0.407,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:23
+2021-11-21,Philadelphia Eagles,New Orleans Saints,Spread,-1.5,-110.0,0.517,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:23
+2021-11-21,Cleveland Browns,Detroit Lions,Spread,-11.5,-110.0,0.498,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:23
+2021-11-21,Carolina Panthers,Washington,Spread,-3.5,100.0,0.389,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:23
+2021-11-22,Tampa Bay Buccaneers,New York Giants,Spread,-11.0,-110.0,0.561,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:23
+2021-11-21,New York Jets,Miami Dolphins,Spread,3.0,105.0,0.44799999999999995,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:23
+2021-11-21,Los Angeles Chargers,Pittsburgh Steelers,Spread,-6.0,-110.0,0.452,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:23
+2021-11-21,Tennessee Titans,Houston Texans,Spread,-10.0,-110.0,0.47,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:23
+2021-11-21,Buffalo Bills,Indianapolis Colts,Spread,-7.0,-115.0,0.499,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:23
+2021-11-21,Seattle Seahawks,Arizona Cardinals,Spread,2.5,-115.0,0.433,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:23
+2021-11-21,Jacksonville Jaguars,San Francisco 49ers,Spread,6.5,-110.0,0.539,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:23
+2021-11-21,Minnesota Vikings,Green Bay Packers,Spread,1.5,-110.0,0.44799999999999995,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:23
+2021-11-21,Chicago Bears,Baltimore Ravens,Spread,4.5,-110.0,0.415,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:23
+2021-11-21,Kansas City Chiefs,Dallas Cowboys,Spread,-2.5,-110.0,0.546,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:23
+2021-11-21,Las Vegas Raiders,Cincinnati Bengals,Spread,1.0,-105.0,0.442,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:23
+2021-11-21,Philadelphia Eagles,New Orleans Saints,Spread,-1.5,-110.0,0.48100000000000004,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:23
+2021-11-21,Cleveland Browns,Detroit Lions,Spread,-11.5,-110.0,0.551,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:23
+2021-11-21,Carolina Panthers,Washington,Spread,-3.5,100.0,0.485,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:23
+2021-11-22,Tampa Bay Buccaneers,New York Giants,Spread,-11.0,-110.0,0.574,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:23
+2021-11-21,New York Jets,Miami Dolphins,Spread,3.0,105.0,0.491,,svm,,"avg 10 past games, no player stats",2021-11-20 11:23
+2021-11-21,Los Angeles Chargers,Pittsburgh Steelers,Spread,-6.0,-110.0,0.505,,svm,,"avg 10 past games, no player stats",2021-11-20 11:23
+2021-11-21,Tennessee Titans,Houston Texans,Spread,-10.0,-110.0,0.489,,svm,,"avg 10 past games, no player stats",2021-11-20 11:23
+2021-11-21,Buffalo Bills,Indianapolis Colts,Spread,-7.0,-115.0,0.5,,svm,,"avg 10 past games, no player stats",2021-11-20 11:23
+2021-11-21,Seattle Seahawks,Arizona Cardinals,Spread,2.5,-115.0,0.5,,svm,,"avg 10 past games, no player stats",2021-11-20 11:23
+2021-11-21,Jacksonville Jaguars,San Francisco 49ers,Spread,6.5,-110.0,0.5,,svm,,"avg 10 past games, no player stats",2021-11-20 11:23
+2021-11-21,Minnesota Vikings,Green Bay Packers,Spread,1.5,-110.0,0.49,,svm,,"avg 10 past games, no player stats",2021-11-20 11:23
+2021-11-21,Chicago Bears,Baltimore Ravens,Spread,4.5,-110.0,0.488,,svm,,"avg 10 past games, no player stats",2021-11-20 11:23
+2021-11-21,Kansas City Chiefs,Dallas Cowboys,Spread,-2.5,-110.0,0.5,,svm,,"avg 10 past games, no player stats",2021-11-20 11:23
+2021-11-21,Las Vegas Raiders,Cincinnati Bengals,Spread,1.0,-105.0,0.489,,svm,,"avg 10 past games, no player stats",2021-11-20 11:23
+2021-11-21,Philadelphia Eagles,New Orleans Saints,Spread,-1.5,-110.0,0.5,,svm,,"avg 10 past games, no player stats",2021-11-20 11:23
+2021-11-21,Cleveland Browns,Detroit Lions,Spread,-11.5,-110.0,0.5,,svm,,"avg 10 past games, no player stats",2021-11-20 11:23
+2021-11-21,Carolina Panthers,Washington,Spread,-3.5,100.0,0.488,,svm,,"avg 10 past games, no player stats",2021-11-20 11:23
+2021-11-22,Tampa Bay Buccaneers,New York Giants,Spread,-11.0,-110.0,0.5,,svm,,"avg 10 past games, no player stats",2021-11-20 11:23
+2021-11-21,New York Jets,Miami Dolphins,Spread,3.0,105.0,0.4370000000000001,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:47
+2021-11-21,Los Angeles Chargers,Pittsburgh Steelers,Spread,-6.0,-110.0,0.638,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:47
+2021-11-21,Tennessee Titans,Houston Texans,Spread,-10.0,-110.0,0.429,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:47
+2021-11-21,Buffalo Bills,Indianapolis Colts,Spread,-7.0,-115.0,0.5,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:47
+2021-11-21,Seattle Seahawks,Arizona Cardinals,Spread,2.5,-115.0,0.502,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:47
+2021-11-21,Jacksonville Jaguars,San Francisco 49ers,Spread,6.5,-110.0,0.5579999999999999,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:47
+2021-11-21,Minnesota Vikings,Green Bay Packers,Spread,1.5,-110.0,0.425,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:47
+2021-11-21,Chicago Bears,Baltimore Ravens,Spread,4.5,-110.0,0.442,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:47
+2021-11-21,Kansas City Chiefs,Dallas Cowboys,Spread,-2.5,-110.0,0.622,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:47
+2021-11-21,Las Vegas Raiders,Cincinnati Bengals,Spread,1.0,-105.0,0.40700000000000003,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:47
+2021-11-21,Philadelphia Eagles,New Orleans Saints,Spread,-1.5,-110.0,0.517,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:47
+2021-11-21,Cleveland Browns,Detroit Lions,Spread,-11.5,-110.0,0.498,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:47
+2021-11-21,Carolina Panthers,Washington,Spread,-3.5,100.0,0.389,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:47
+2021-11-22,Tampa Bay Buccaneers,New York Giants,Spread,-11.0,-110.0,0.561,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:47
+2021-11-21,New York Jets,Miami Dolphins,Spread,3.0,105.0,0.448,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:47
+2021-11-21,Los Angeles Chargers,Pittsburgh Steelers,Spread,-6.0,-110.0,0.452,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:47
+2021-11-21,Tennessee Titans,Houston Texans,Spread,-10.0,-110.0,0.47,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:47
+2021-11-21,Buffalo Bills,Indianapolis Colts,Spread,-7.0,-115.0,0.499,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:47
+2021-11-21,Seattle Seahawks,Arizona Cardinals,Spread,2.5,-115.0,0.433,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:47
+2021-11-21,Jacksonville Jaguars,San Francisco 49ers,Spread,6.5,-110.0,0.539,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:47
+2021-11-21,Minnesota Vikings,Green Bay Packers,Spread,1.5,-110.0,0.448,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:47
+2021-11-21,Chicago Bears,Baltimore Ravens,Spread,4.5,-110.0,0.415,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:47
+2021-11-21,Kansas City Chiefs,Dallas Cowboys,Spread,-2.5,-110.0,0.546,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:47
+2021-11-21,Las Vegas Raiders,Cincinnati Bengals,Spread,1.0,-105.0,0.442,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:47
+2021-11-21,Philadelphia Eagles,New Orleans Saints,Spread,-1.5,-110.0,0.481,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:47
+2021-11-21,Cleveland Browns,Detroit Lions,Spread,-11.5,-110.0,0.551,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:47
+2021-11-21,Carolina Panthers,Washington,Spread,-3.5,100.0,0.485,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:47
+2021-11-22,Tampa Bay Buccaneers,New York Giants,Spread,-11.0,-110.0,0.574,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:47
+2021-11-21,New York Jets,Miami Dolphins,Spread,3.0,105.0,0.4370000000000001,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:47
+2021-11-21,Los Angeles Chargers,Pittsburgh Steelers,Spread,-6.0,-110.0,0.638,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:47
+2021-11-21,Tennessee Titans,Houston Texans,Spread,-10.0,-110.0,0.429,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:47
+2021-11-21,Buffalo Bills,Indianapolis Colts,Spread,-7.0,-115.0,0.5,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:47
+2021-11-21,Seattle Seahawks,Arizona Cardinals,Spread,2.5,-115.0,0.502,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:47
+2021-11-21,Jacksonville Jaguars,San Francisco 49ers,Spread,6.5,-110.0,0.5579999999999999,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:47
+2021-11-21,Minnesota Vikings,Green Bay Packers,Spread,1.5,-110.0,0.425,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:47
+2021-11-21,Chicago Bears,Baltimore Ravens,Spread,4.5,-110.0,0.442,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:47
+2021-11-21,Kansas City Chiefs,Dallas Cowboys,Spread,-2.5,-110.0,0.622,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:47
+2021-11-21,Las Vegas Raiders,Cincinnati Bengals,Spread,1.0,-105.0,0.40700000000000003,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:47
+2021-11-21,Philadelphia Eagles,New Orleans Saints,Spread,-1.5,-110.0,0.517,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:47
+2021-11-21,Cleveland Browns,Detroit Lions,Spread,-11.5,-110.0,0.498,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:47
+2021-11-21,Carolina Panthers,Washington,Spread,-3.5,100.0,0.389,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:47
+2021-11-22,Tampa Bay Buccaneers,New York Giants,Spread,-11.0,-110.0,0.561,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:47
+2021-11-21,New York Jets,Miami Dolphins,Spread,3.0,105.0,0.448,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:47
+2021-11-21,Los Angeles Chargers,Pittsburgh Steelers,Spread,-6.0,-110.0,0.452,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:47
+2021-11-21,Tennessee Titans,Houston Texans,Spread,-10.0,-110.0,0.47,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:47
+2021-11-21,Buffalo Bills,Indianapolis Colts,Spread,-7.0,-115.0,0.499,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:47
+2021-11-21,Seattle Seahawks,Arizona Cardinals,Spread,2.5,-115.0,0.433,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:47
+2021-11-21,Jacksonville Jaguars,San Francisco 49ers,Spread,6.5,-110.0,0.539,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:47
+2021-11-21,Minnesota Vikings,Green Bay Packers,Spread,1.5,-110.0,0.448,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:47
+2021-11-21,Chicago Bears,Baltimore Ravens,Spread,4.5,-110.0,0.415,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:47
+2021-11-21,Kansas City Chiefs,Dallas Cowboys,Spread,-2.5,-110.0,0.546,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:47
+2021-11-21,Las Vegas Raiders,Cincinnati Bengals,Spread,1.0,-105.0,0.442,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:47
+2021-11-21,Philadelphia Eagles,New Orleans Saints,Spread,-1.5,-110.0,0.481,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:47
+2021-11-21,Cleveland Browns,Detroit Lions,Spread,-11.5,-110.0,0.551,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:47
+2021-11-21,Carolina Panthers,Washington,Spread,-3.5,100.0,0.485,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:47
+2021-11-22,Tampa Bay Buccaneers,New York Giants,Spread,-11.0,-110.0,0.574,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:47
+2021-11-21,New York Jets,Miami Dolphins,Spread,3.0,105.0,0.483,,svm,,"avg 10 past games, no player stats",2021-11-20 11:48
+2021-11-21,Los Angeles Chargers,Pittsburgh Steelers,Spread,-6.0,-110.0,0.521,,svm,,"avg 10 past games, no player stats",2021-11-20 11:48
+2021-11-21,Tennessee Titans,Houston Texans,Spread,-10.0,-110.0,0.47700000000000004,,svm,,"avg 10 past games, no player stats",2021-11-20 11:48
+2021-11-21,Buffalo Bills,Indianapolis Colts,Spread,-7.0,-115.0,0.5,,svm,,"avg 10 past games, no player stats",2021-11-20 11:48
+2021-11-21,Seattle Seahawks,Arizona Cardinals,Spread,2.5,-115.0,0.5,,svm,,"avg 10 past games, no player stats",2021-11-20 11:48
+2021-11-21,Jacksonville Jaguars,San Francisco 49ers,Spread,6.5,-110.0,0.517,,svm,,"avg 10 past games, no player stats",2021-11-20 11:48
+2021-11-21,Minnesota Vikings,Green Bay Packers,Spread,1.5,-110.0,0.48100000000000004,,svm,,"avg 10 past games, no player stats",2021-11-20 11:48
+2021-11-21,Chicago Bears,Baltimore Ravens,Spread,4.5,-110.0,0.47700000000000004,,svm,,"avg 10 past games, no player stats",2021-11-20 11:48
+2021-11-21,Kansas City Chiefs,Dallas Cowboys,Spread,-2.5,-110.0,0.51,,svm,,"avg 10 past games, no player stats",2021-11-20 11:48
+2021-11-21,Las Vegas Raiders,Cincinnati Bengals,Spread,1.0,-105.0,0.479,,svm,,"avg 10 past games, no player stats",2021-11-20 11:48
+2021-11-21,Philadelphia Eagles,New Orleans Saints,Spread,-1.5,-110.0,0.5,,svm,,"avg 10 past games, no player stats",2021-11-20 11:48
+2021-11-21,Cleveland Browns,Detroit Lions,Spread,-11.5,-110.0,0.494,,svm,,"avg 10 past games, no player stats",2021-11-20 11:48
+2021-11-21,Carolina Panthers,Washington,Spread,-3.5,100.0,0.474,,svm,,"avg 10 past games, no player stats",2021-11-20 11:48
+2021-11-22,Tampa Bay Buccaneers,New York Giants,Spread,-11.0,-110.0,0.507,,svm,,"avg 10 past games, no player stats",2021-11-20 11:48
+2021-11-21,New York Jets,Miami Dolphins,Total,44.5,-110.0,0.599,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:50
+2021-11-21,Los Angeles Chargers,Pittsburgh Steelers,Total,47.0,-110.0,0.457,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:50
+2021-11-21,Tennessee Titans,Houston Texans,Total,44.5,-110.0,0.405,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:50
+2021-11-21,Buffalo Bills,Indianapolis Colts,Total,50.0,-110.0,0.4270000000000001,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:50
+2021-11-21,Seattle Seahawks,Arizona Cardinals,Total,48.0,-110.0,0.617,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:50
+2021-11-21,Jacksonville Jaguars,San Francisco 49ers,Total,45.0,-110.0,0.404,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:50
+2021-11-21,Minnesota Vikings,Green Bay Packers,Total,47.5,-110.0,0.53,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:50
+2021-11-21,Chicago Bears,Baltimore Ravens,Total,44.5,-110.0,0.498,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:50
+2021-11-21,Kansas City Chiefs,Dallas Cowboys,Total,56.5,-110.0,0.388,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:50
+2021-11-21,Las Vegas Raiders,Cincinnati Bengals,Total,50.5,-110.0,0.516,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:50
+2021-11-21,Philadelphia Eagles,New Orleans Saints,Total,43.0,-110.0,0.519,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:50
+2021-11-21,Cleveland Browns,Detroit Lions,Total,43.5,-110.0,0.638,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:50
+2021-11-21,Carolina Panthers,Washington,Total,43.0,-110.0,0.547,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:50
+2021-11-22,Tampa Bay Buccaneers,New York Giants,Total,49.5,-110.0,0.454,,logistic regression,,"avg 10 past games, no player stats",2021-11-20 11:50
+2021-11-21,New York Jets,Miami Dolphins,Total,44.5,-110.0,0.578,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:50
+2021-11-21,Los Angeles Chargers,Pittsburgh Steelers,Total,47.0,-110.0,0.513,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:50
+2021-11-21,Tennessee Titans,Houston Texans,Total,44.5,-110.0,0.419,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:50
+2021-11-21,Buffalo Bills,Indianapolis Colts,Total,50.0,-110.0,0.521,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:50
+2021-11-21,Seattle Seahawks,Arizona Cardinals,Total,48.0,-110.0,0.511,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:50
+2021-11-21,Jacksonville Jaguars,San Francisco 49ers,Total,45.0,-110.0,0.513,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:50
+2021-11-21,Minnesota Vikings,Green Bay Packers,Total,47.5,-110.0,0.5379999999999999,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:50
+2021-11-21,Chicago Bears,Baltimore Ravens,Total,44.5,-110.0,0.513,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:50
+2021-11-21,Kansas City Chiefs,Dallas Cowboys,Total,56.5,-110.0,0.46,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:50
+2021-11-21,Las Vegas Raiders,Cincinnati Bengals,Total,50.5,-110.0,0.552,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:50
+2021-11-21,Philadelphia Eagles,New Orleans Saints,Total,43.0,-110.0,0.526,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:50
+2021-11-21,Cleveland Browns,Detroit Lions,Total,43.5,-110.0,0.483,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:50
+2021-11-21,Carolina Panthers,Washington,Total,43.0,-110.0,0.534,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:50
+2021-11-22,Tampa Bay Buccaneers,New York Giants,Total,49.5,-110.0,0.43700000000000006,,random forest,,"avg 10 past games, no player stats",2021-11-20 11:50
+2021-11-21,New York Jets,Miami Dolphins,Total,44.5,-110.0,0.513,,svm,,"avg 10 past games, no player stats",2021-11-20 11:50
+2021-11-21,Los Angeles Chargers,Pittsburgh Steelers,Total,47.0,-110.0,0.488,,svm,,"avg 10 past games, no player stats",2021-11-20 11:50
+2021-11-21,Tennessee Titans,Houston Texans,Total,44.5,-110.0,0.487,,svm,,"avg 10 past games, no player stats",2021-11-20 11:50
+2021-11-21,Buffalo Bills,Indianapolis Colts,Total,50.0,-110.0,0.492,,svm,,"avg 10 past games, no player stats",2021-11-20 11:50
+2021-11-21,Seattle Seahawks,Arizona Cardinals,Total,48.0,-110.0,0.515,,svm,,"avg 10 past games, no player stats",2021-11-20 11:50
+2021-11-21,Jacksonville Jaguars,San Francisco 49ers,Total,45.0,-110.0,0.487,,svm,,"avg 10 past games, no player stats",2021-11-20 11:50
+2021-11-21,Minnesota Vikings,Green Bay Packers,Total,47.5,-110.0,0.507,,svm,,"avg 10 past games, no player stats",2021-11-20 11:50
+2021-11-21,Chicago Bears,Baltimore Ravens,Total,44.5,-110.0,0.494,,svm,,"avg 10 past games, no player stats",2021-11-20 11:50
+2021-11-21,Kansas City Chiefs,Dallas Cowboys,Total,56.5,-110.0,0.482,,svm,,"avg 10 past games, no player stats",2021-11-20 11:50
+2021-11-21,Las Vegas Raiders,Cincinnati Bengals,Total,50.5,-110.0,0.514,,svm,,"avg 10 past games, no player stats",2021-11-20 11:50
+2021-11-21,Philadelphia Eagles,New Orleans Saints,Total,43.0,-110.0,0.5,,svm,,"avg 10 past games, no player stats",2021-11-20 11:50
+2021-11-21,Cleveland Browns,Detroit Lions,Total,43.5,-110.0,0.53,,svm,,"avg 10 past games, no player stats",2021-11-20 11:50
+2021-11-21,Carolina Panthers,Washington,Total,43.0,-110.0,0.508,,svm,,"avg 10 past games, no player stats",2021-11-20 11:50
+2021-11-22,Tampa Bay Buccaneers,New York Giants,Total,49.5,-110.0,0.494,,svm,,"avg 10 past games, no player stats",2021-11-20 11:50

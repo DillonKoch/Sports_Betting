@@ -92,13 +92,13 @@ class ESPN_Players:
         """
         scraping HTML from a link
         """
+        time.sleep(5)
         user_agent = 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.7) Gecko/2009021910 Firefox/3.0.7'
         headers = {'User-Agent': user_agent, }
         request = urllib.request.Request(link, None, headers)  # The assembled request
         response = urllib.request.urlopen(request)
         a = response.read().decode('utf-8', 'ignore')
         sp = soup(a, 'html.parser')
-        time.sleep(5)
         return sp
 
     def _bio_item_to_player_dict(self, player_dict, bio_item):  # Specific Helper scrape_player_data

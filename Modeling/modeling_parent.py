@@ -1,24 +1,26 @@
 # ==============================================================================
 # File: modeling_parent.py
 # Project: allison
-# File Created: Friday, 22nd October 2021 9:52:38 am
+# File Created: Friday, 19th November 2021 11:05:46 am
 # Author: Dillon Koch
 # -----
-# Last Modified: Friday, 22nd October 2021 9:52:38 am
+# Last Modified: Friday, 19th November 2021 11:05:47 am
 # Modified By: Dillon Koch
 # -----
 #
 # -----
-# Parent class for all the modeling files
+# Shared code between all modeling files belongs in this parent class
 # ==============================================================================
 
+
+import copy
+import datetime
+import os
 import sys
 from os.path import abspath, dirname
 
+import numpy as np
 import pandas as pd
-import seaborn as sns
-from sklearn.metrics import (accuracy_score, confusion_matrix, f1_score,
-                             mean_absolute_error)
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
 
@@ -26,133 +28,197 @@ ROOT_PATH = dirname(dirname(abspath(__file__)))
 if ROOT_PATH not in sys.path:
     sys.path.append(ROOT_PATH)
 
-from Modeling.modeling_data import Modeling_Data
-
 
 class Modeling_Parent:
     def __init__(self):
+        self.model_method_dict = {"logistic regression": self.model_logistic_regression,
+                                  "random forest": self.model_random_forest,
+                                  "svm": self.model_svm,
+                                  "neural net": self.model_neural_net}
+
+    def model_logistic_regression(self):  # Top Level
         pass
 
-    def load_raw_df(self, non_null_cols=[]):  # Top Level
+    def model_random_forest(self):  # Top Level
+        pass
+
+    def model_svm(self):  # Top Level
+        pass
+
+    def model_neural_net(self):  # Top Level
+        pass
+
+    def load_df(self, past_games, player_stats):  # Top Level
         """
-        loading the raw dataframe from /Data/{league}.csv
-        - has the stats from each game, not averages from past n games
-        - used for baseline models depending on betting odds
+        loads a df from /Data/Modeling_Data with a certain # past games, and optional player stats
+        - the dataframe has to be created with /Modeling/modeling_data.py first
         """
-        path = ROOT_PATH + f"/Data/{self.league}.csv"
+        player_stat_str = "player_stats" if player_stats else "no_player_stats"
+        path = ROOT_PATH + f"/Data/Modeling_Data/{self.league}/{player_stat_str}_avg_{past_games}_past_games.csv"
         df = pd.read_csv(path)
-        for col in non_null_cols:
-            df = df[df[col].notnull()]
+        cols = [col for col in list(df.columns) if col not in self.remove_cols]
+        df = df[cols]
         return df
 
-    def load_avg_df(self, targets, extra_cols=[]):  # Top Level
+    def split_finished_upcoming_games(self, df):  # Top Level
         """
-        uses Modeling_Data() to build a dataset with avg stats from the last n games
-        - used most frequently for modeling, since it has no data leakage
-        - eligible targets: "Home Covered",
+        input to this function is the output from load_df()
+        - splits the df into all games that are played (with target labels)
+          and games that are not yet played, but have odds data available
         """
-        modeling_data = Modeling_Data(self.league)
-        df = modeling_data.run(targets, extra_cols)
-        return df
+        betting_cols = ['Home_Line_Close', 'Home_Line_Close_ML', 'OU_Close', 'OU_Close_ML', 'Home_ML', 'Away_ML']
+        finished_subset = [col for col in ['Home_Covered', 'Home_Win', 'Over_Covered'] if col in list(df.columns)]
 
-    def split_avg_df(self, avg_df, targets):  # Top Level
+        # finished has targets not null
+        df_copy1 = copy.deepcopy(df)
+        finished_games_df = df_copy1.dropna(subset=finished_subset + betting_cols)
+
+        # unfinished has no targets, but betting odds
+        df_copy2 = copy.deepcopy(df)
+        targets_null_df = df_copy2.loc[~df_copy2.index.isin(df_copy2.dropna(subset=finished_subset).index)]
+        upcoming_games_df = targets_null_df.dropna(subset=betting_cols)
+        return finished_games_df, upcoming_games_df
+
+    def balance_classes(self, df):  # Top Level
         """
-        runs train_test_split on avg_df
+        balances the df so the self.target_col has equal amounts of each class
+        - does this by oversampling until classes are equal -> not throwing away data
         """
-        y = avg_df[targets]
-        X = avg_df[[col for col in list(avg_df.columns) if col not in targets]]
+        # * separating the dataset into those with positive/negative labels
+        positive_data = df[df[self.target_col] == 1]
+        positive_data.reset_index(inplace=True, drop=True)
+        negative_data = df[df[self.target_col] == 0]
+        negative_data.reset_index(inplace=True, drop=True)
+
+        # * determining which is undersampled, and resampling latest games to make it even
+        if len(positive_data) > len(negative_data):
+            diff = len(positive_data) - len(negative_data)
+            negative_data = pd.concat([negative_data, negative_data.iloc[-diff:, :]])
+        else:
+            diff = len(negative_data) - len(positive_data)
+            positive_data = pd.concat([positive_data, positive_data.iloc[-diff:, :]])
+
+        # * adding the two halves of the dataset back together
+        balanced_df = pd.concat([positive_data, negative_data])
+        return balanced_df
+
+    def scaled_X_y(self, df, scaler=None):  # Top Level
+        """
+        """
+        y = np.array(df[self.target_col])
+        X_cols = [col for col in list(df.columns) if col not in ['Home', "Away", "Date", self.target_col]]
+        X = np.array(df[X_cols])
+        scaler = StandardScaler() if scaler is None else scaler
+        X = scaler.fit_transform(X)
+        return X, y, scaler
+
+    def split_train_test(self, X, y):  # Top Level
+        """
+        """
         train_X, val_X, train_y, val_y = train_test_split(X, y, random_state=18)
         return train_X, val_X, train_y, val_y
 
-    def balance_classes(self, df, target_col):  # Top Level
+    def _make_load_df(self):  # Specific Helper make_preds
         """
-        balancing the dataframe to include an even amount of training examples
-        for each of the target column's outputs (assumes target col is binary)
-        # TODO could add some resampling so we don't throw data away
+        loads the predictions file for the league if it exists, otherwise makes it
         """
-        positive_data = df[df[target_col] == 1]
-        positive_data.reset_index(inplace=True, drop=True)
-        negative_data = df[df[target_col] == 0]
-        negative_data.reset_index(inplace=True, drop=True)
-        lower_class = min([len(positive_data), len(negative_data)])
-        balanced_df = pd.concat([positive_data.iloc[:lower_class], negative_data.iloc[:lower_class]])
-        balanced_df.reset_index(inplace=True, drop=True)
-        return balanced_df
+        path = ROOT_PATH + f"/Data/Predictions/{self.league}/Predictions.csv"
+        if os.path.exists(path):
+            df = pd.read_csv(path)
+        else:
+            df = pd.DataFrame(columns=["Game_Date", "Home", "Away", "Bet_Type", "Bet_Value",
+                                       "Bet_ML", "Prediction", "Outcome", "Algorithm",
+                                       "Alg_Description", "Dataset", "Pred_ts"])
+        return df
 
-    def scale_cols(self, X):  # Top Level
-        """
-        applying the standard scaler to all the columns in X
-        """
-        scaler = StandardScaler()
-        X = scaler.fit_transform(X)
-        return X
+    def _current_ts(self):  # Specific Helper  make_preds
+        """returning a string of the current time"""
+        return datetime.datetime.now().strftime("%Y-%m-%d %H:%M")
 
-    def add_home_favored_col(self, raw_df):  # Top Level
-        """
-        adds a binary column to raw_df from /Data/{league}.csv indicating if the home team is favored or not
-        """
-        # * adding Home_Win column
-        raw_df['Home_Win'] = raw_df['Home_Final'] > raw_df['Away_Final']
-        raw_df['Home_Win'] = raw_df['Home_Win'].astype(int)
-        # * adding Home_Favored column
-        raw_df['Home_Favored'] = raw_df['Home_ML'] < 0
-        raw_df['Home_Favored'] = raw_df['Home_Favored'].astype(int)
-        return raw_df
+    def make_preds(self, model, upcoming_games_df, upcoming_games_X, alg, alg_desc, dataset):  # Top Level
+        df = self._make_load_df()
+        preds = model.predict_proba(upcoming_games_X)
+        for i in range(len(upcoming_games_df)):
+            game_row = upcoming_games_df.iloc[i, :]
+            prediction = round(preds[i][1], 3)
+            new_row = [game_row['Date'], game_row['Home'], game_row['Away'], self.bet_type,
+                       game_row[self.bet_value_col], game_row[self.bet_ml_col],
+                       prediction, None, alg, alg_desc, dataset, self._current_ts()]
+            df.loc[len(df)] = new_row
+        df.to_csv(ROOT_PATH + f"/Data/Predictions/{self.league}/Predictions.csv", index=False)
+        print("Predictions saved!")
 
-    def plot_confusion_matrix(self, preds, labels, title):  # Top Level
-        """
-        plots a confusion matrix given binary predictions and labels
-        """
-        cf_matrix = confusion_matrix(labels, preds)
-        sns.heatmap(cf_matrix, annot=True, fmt="g", cmap='Blues').set_title(title)
 
-    def evaluation_metrics(self, preds, labels):  # Top Level
-        """
-        given predictions and labels, this method computes various evaluation metrics
-        """
-        mae = mean_absolute_error(labels, preds)
-        print(f"Mean absolute error: {mae}")
-        acc = accuracy_score(labels, preds)
-        print(f"Accuracy: {round(acc*100, 2)}%")
-        cm = confusion_matrix(labels, preds)
-        print(cm)
-        f1 = f1_score(labels, preds)
-        print(f"F1 score: {f1}")
+class Spread_Parent(Modeling_Parent):
+    """
+    Parent class for modeling spread betting
+    """
 
-    def moneyline_expected_return(self, preds, labels, home_mls, away_mls):  # Top Level
-        """
-        computes the expected return for every dollar bet on a moneyline bet
-        """
-        winnings = []
-        for pred, label, home_ml, away_ml in zip(list(preds), list(labels), list(home_mls), list(away_mls)):
-            pred_correct = pred == label
-            if pred_correct:
-                ml = home_ml if pred == 1 else away_ml
-                if ml > 0:
-                    winnings.append(ml / 100)
-                else:
-                    winnings.append(1 / abs((ml / 100)))
-            else:
-                winnings.append(-1)
+    def __init__(self):
+        super().__init__()
+        self.bet_type = "Spread"
+        self.bet_value_col = "Home_Line_Close"
+        self.bet_ml_col = "Home_Line_Close_ML"
+        self.target_col = "Home_Covered"
+        self.remove_cols = ["Home_Win", "Over_Covered"]
 
-        total_winnings = sum(winnings)
-        num_bets = len(preds)
-        expected_return_on_dollar = total_winnings / num_bets
-        print(f"Won/Lost {round(total_winnings,2)} on {num_bets} bets, for {round(expected_return_on_dollar,2)} expected return per dollar")
+    def _expected_return_thresh(self, preds, labels, thresh):  # Specific Helper expected_return
+        """
+        computing the expected return when only placing on bets that the model
+          is at least 'thresh' % confident on
+        - thresh is the decimal pct for model confidence (0.6 -> model has to be >=60% confident)
+        """
+        assert (thresh >= 0.5) and (thresh <= 1.0), "thresh must be between 0.5 and 1.0"
+        home_cover_preds = [item[1] for item in preds]
+        thresh_preds = []
+        thresh_labels = []
+        for pred, label in zip(home_cover_preds, list(labels)):
+            if abs(pred - 0.5) > (thresh - 0.5):
+                thresh_preds.append(pred)
+                thresh_labels.append(label)
 
-    def spread_total_expected_return(self, preds, labels):  # Top Level
-        """
-        computes the expected return for every dollar bet on spread/total bets at -110
-        """
-        num_bets = len(preds)
-        correct = (preds == labels).sum()
+        return np.array(thresh_preds), np.array(thresh_labels)
+
+    def expected_return(self, preds, labels, thresh=0.5):  # Top Level
+        preds, labels = self._expected_return_thresh(preds, labels, thresh)
+        binary_preds = np.array([1 if pred >= 0.5 else 0 for pred in preds])
+        num_bets = len(binary_preds)
+        correct = (binary_preds == labels).sum()
         incorrect = num_bets - correct
         total_winnings = (correct * (10 / 11)) - incorrect
         expected_return_on_dollar = total_winnings / num_bets
-        print(f"Won/Lost {round(total_winnings,2)} on {num_bets} bets, for {round(expected_return_on_dollar, 2)} expected return per dollar")
+        print(f"Won/Lost {round(total_winnings,2)} on {num_bets} bets at {thresh} threshold, for {round(expected_return_on_dollar, 2)} expected return per dollar")
         return total_winnings
 
-    def run(self):  # Run
+
+class Total_Parent(Spread_Parent):
+    """
+    Parent class for modeling total betting
+    """
+
+    def __init__(self):
+        super().__init__()
+        self.bet_type = "Total"
+        self.bet_value_col = "OU_Close"
+        self.bet_ml_col = "OU_Close_ML"
+        self.target_col = "Over_Covered"
+        self.remove_cols = ["Home_Win", "Home_Covered"]
+
+
+class ML_Parent(Modeling_Parent):
+    """
+    Parent class for modeling moneyline betting
+    """
+
+    def __init__(self):
+        super().__init__()
+        self.bet_type = "Moneyline"
+        self.bet_value_col = None
+        self.bet_ml_col = "Home_ML"
+        self.target_col = "Home_Win"
+        self.remove_cols = ["Home_Covered", "Over_Covered"]
+
+    def expected_return(self):  # Top Level
         pass
 
 
