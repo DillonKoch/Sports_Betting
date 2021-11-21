@@ -354,6 +354,7 @@ class ESPN_Player_Stats:
 
 if __name__ == '__main__':
     for league in ['NFL', 'NBA', 'NCAAF', 'NCAAB']:
+        # for league in ['NCAAB']:
         x = ESPN_Player_Stats(league)
         self = x
         x.run()

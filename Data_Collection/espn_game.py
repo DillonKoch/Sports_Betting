@@ -329,18 +329,8 @@ class ESPN_Game_Scraper:
                 print("ATTRIBUTE ERROR")
 
 
-def parse_args():
-    parser = argparse.ArgumentParser()
-    parser.add_argument('--league', help="league to scrape games for")
-    args = parser.parse_args()
-    args_dict = vars(args)
-    league = args_dict['league']
-    return league
-
-
 if __name__ == '__main__':
-    league = parse_args()
-    # league = "NBA"
-    x = ESPN_Game_Scraper(league)
-    self = x
-    x.run()
+    for league in ['NFL', 'NBA', 'NCAAF', 'NCAAB']:
+        x = ESPN_Game_Scraper(league)
+        self = x
+        x.run()
