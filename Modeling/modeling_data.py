@@ -43,12 +43,6 @@ class Modeling_Data:
                              'Home_ML', 'Away_ML']
         self.targets = ['Home_Covered', 'Home_Win', 'Over_Covered']
 
-    def _filter_dates(self, games_df, start_date, end_date):  # Specific Helper load_game_data
-        """
-        filters the game_df down to games within the date range
-        """
-        pass
-
     def _clean_games_df(self, games_df):  # Specific Helper  load_game_dicts
         """
         cleaning up the games_df before it's broken up into dicts
@@ -58,7 +52,7 @@ class Modeling_Data:
         games_df['AOT'].fillna(0, inplace=True)
         return games_df
 
-    def _games_feature_engineering(self, games_df):  # Specific Helper load_game_dicts
+    def _target_feature_engineering(self, games_df):  # Specific Helper load_game_dicts
         """
         Engineering new target features to be modeled for each bet type
         """
@@ -82,9 +76,8 @@ class Modeling_Data:
         loads all the games (rows) from /Data/{league}.csv into a list of dicts for each game
         """
         games_df = pd.read_csv(ROOT_PATH + f"/Data/{self.league}.csv")
-        # games_df = self.filter_dates(games_df)
         games_df = self._clean_games_df(games_df)
-        games_df = self._games_feature_engineering(games_df)
+        games_df = self._target_feature_engineering(games_df)
         game_dicts = [{col: val for col, val in zip(list(games_df.columns), df_row)} for df_row in games_df.values.tolist()]
         return game_dicts
 
@@ -175,7 +168,7 @@ class Modeling_Data:
         eligible_game_dicts = sorted(eligible_game_dicts, key=lambda x: x['Date'])
         return eligible_game_dicts
 
-    def _game_dicts_before_date(self, game_dicts, date):  # Specific Helper query_recent_games
+    def _game_dicts_before_date(self, game_dicts, date):  # Helping Helper _query_recent_games
         prev_game_dicts = []
         for game_dict in game_dicts:
             if game_dict["Date"] < date:
@@ -186,7 +179,7 @@ class Modeling_Data:
         prev_game_dicts.reverse()
         return prev_game_dicts
 
-    def query_recent_games(self, team, date, game_dicts):  # Top Level
+    def _query_recent_games(self, team, date, game_dicts):  # Specific Helper build_new_row_dict
         """
         loops through prev_game_dicts to find the most recent 'self.num_past_games' games involving 'team'
         """
@@ -225,7 +218,7 @@ class Modeling_Data:
         for recent_game_dict in recent_games:
             team_is_home = True if recent_game_dict['Home'] == team else False
             new_val = recent_game_dict[home_feature_col] if team_is_home else recent_game_dict[away_feature_col]
-            vals.append(new_val)
+            vals.append(float(new_val))
 
         return round(sum(vals) / len(vals), 2)
 
@@ -243,8 +236,8 @@ class Modeling_Data:
         Given the home/away team and game date, this will create a new_row_dict for ML training
         """
         home, away, date, feature_cols, eligible_game_dict, game_dicts = args
-        home_recent_games = self.query_recent_games(home, date, game_dicts)
-        away_recent_games = self.query_recent_games(away, date, game_dicts)
+        home_recent_games = self._query_recent_games(home, date, game_dicts)
+        away_recent_games = self._query_recent_games(away, date, game_dicts)
 
         # TODO RIGHT HERE IS WHERE I NEED TO INCORPORATE STAT_ALLOWED, FOR EACH TEAM, NOT JUST WHAT THE ONE TEAM PRODUCED
         new_row_dict = {feature_col: self._avg_feature_col(feature_col, home, away, home_recent_games, away_recent_games)
@@ -318,8 +311,8 @@ class Modeling_Data:
         """
         df_no_p_stats = self.run(player_stats=False)
         df_no_p_stats.to_csv(f"{ROOT_PATH}/Data/Modeling_Data/{self.league}/no_player_stats_avg_{self.num_past_games}_past_games.csv", index=False)
-        df_p_stats = self.run(player_stats=True)
-        df_p_stats.to_csv(f"{ROOT_PATH}/Data/Modeling_Data/{self.league}/player_stats_avg_{self.num_past_games}_past_games.csv", index=False)
+        # df_p_stats = self.run(player_stats=True)
+        # df_p_stats.to_csv(f"{ROOT_PATH}/Data/Modeling_Data/{self.league}/player_stats_avg_{self.num_past_games}_past_games.csv", index=False)
 
     def run_updates(self):  # Run
         # TODO once the dataframes are created, just update with newly collected data
@@ -327,6 +320,10 @@ class Modeling_Data:
 
 
 if __name__ == '__main__':
-    for league in ['NBA', 'NCAAF', 'NCAAB']:
-        x = Modeling_Data(league)
-        x.run_all()
+    for league in ['NFL', 'NBA', 'NCAAF', 'NCAAB']:
+        # for league in ['NCAAB']:
+        for num_past_games in [3, 5, 10, 15, 20, 25]:
+            print('-' * 50)
+            print(f"{league} {num_past_games} past games")
+            x = Modeling_Data(league, num_past_games=num_past_games)
+            x.run_all()

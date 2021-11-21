@@ -77,7 +77,7 @@ class Match_Player:
             print(f"{i}: {closest_match}")
 
         user_match = input("Match num: ")
-        if user_match == 'O':
+        if user_match == '':
             return None
         correction = closest_matches[int(user_match)]
         return correction
@@ -98,7 +98,8 @@ class Match_Player:
         player_json = self.load_player_json()
         espn_players = self.load_espn_players()
         covers_players = self.load_covers_players()
-        for covers_player in covers_players:
+        for i, covers_player in enumerate(covers_players):
+            print(f"{i}/{len(covers_players)}")
             if (covers_player not in espn_players) and (covers_player not in player_json):
                 closest_matches = self.find_closest_matches(covers_player, espn_players)
                 user_match = self.find_user_match(covers_player, closest_matches)
