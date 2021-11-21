@@ -100,9 +100,7 @@ class Match_Team:
         odds_names = self._load_odds_team_names()
         espn_names = self._load_espn_team_names()
         covers_names = self._load_covers_team_names()
-
-        # TODO CHANGE THIS WHEN ESB SHOWS NCAAB LINES
-        esb_names = [] if self.league == "NCAAB" else self._load_esb_team_names()
+        esb_names = self._load_esb_team_names()
 
         all_names = odds_names + espn_names + covers_names + esb_names
         return all_names

@@ -168,7 +168,7 @@ class Merge_Datasets:
 
 if __name__ == '__main__':
     # for league in ['NFL', 'NBA', 'NCAAF', 'NCAAB']:
-    for league in ['NFL', 'NBA', 'NCAAF']:
+    for league in ['NCAAB']:
         print(league)
         x = Merge_Datasets(league)
         self = x

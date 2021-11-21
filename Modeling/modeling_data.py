@@ -328,6 +328,5 @@ class Modeling_Data:
 
 if __name__ == '__main__':
     for league in ['NBA', 'NCAAF', 'NCAAB']:
-        # for league in ['NFL']:
         x = Modeling_Data(league)
         x.run_all()
