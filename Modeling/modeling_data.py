@@ -50,13 +50,13 @@ class Modeling_Data:
         # * filling overtime NaN's with 0
         games_df['HOT'].fillna(0, inplace=True)
         games_df['AOT'].fillna(0, inplace=True)
+        games_df.replace("--", None, inplace=True)
         return games_df
 
     def _target_feature_engineering(self, games_df):  # Specific Helper load_game_dicts
         """
         Engineering new target features to be modeled for each bet type
         """
-        # ? TODO keep everything None for unplayed games
         # * Spread - Home_Covered
         games_df['Home_Covered'] = (games_df['Home_Final'] + games_df['Home_Line_Close']) > games_df['Away_Final']
         games_df['Home_Covered'] = games_df['Home_Covered'].astype(int)
@@ -89,12 +89,22 @@ class Modeling_Data:
         finals = ['Home_Final', 'Away_Final']
         halves = ['H1H', 'H2H', 'A1H', 'A2H'] + overtimes + finals
         quarters = ['H1Q', 'H2Q', 'H3Q', 'H4Q', 'A1Q', 'A2Q', 'A3Q', 'A4Q'] + overtimes + finals
+
+        # * adding "Allowed" to see how many points they give up
+        halves += [item + "_Allowed" for item in halves]
+        quarters += [item + "_Allowed" for item in quarters]
         return halves if self.league == "NCAAB" else quarters
 
-    def _wrap_home_away(self, stat_list):  # Helping Helper _game_stats
+    def _wrap_home_away_allowed(self, stat_list):  # Helping Helper _game_stats
+        """
+        using the raw stats like "1st_Downs", I'm wrapping them with Home/Away to start, then Allowed/not at the end
+        - all 4 versions of the stat will be features
+        """
         home = ['Home_' + stat for stat in stat_list]
         away = ['Away_' + stat for stat in stat_list]
-        return home + away
+        home_allowed = [stat + '_Allowed' for stat in home]
+        away_allowed = [stat + '_Allowed' for stat in away]
+        return home + home_allowed + away + away_allowed
 
     def _game_stats(self):  # Specific Helper get_feature_cols
         """
@@ -121,8 +131,8 @@ class Modeling_Data:
                        'Defensive_Rebounds', 'Assists', 'Steals', 'Blocks', 'Total_Turnovers', 'Fouls',
                        'Technical_Fouls', 'Flagrant_Fouls', 'Largest_Lead', 'FG_made', 'FG_attempted',
                        '3PT_made', '3PT_attempted', 'FT_made', 'FT_attempted']
-        stat_dict = {"NFL": self._wrap_home_away(nfl_stats), "NBA": self._wrap_home_away(nba_stats),
-                     "NCAAF": self._wrap_home_away(ncaaf_stats), "NCAAB": self._wrap_home_away(ncaab_stats)}
+        stat_dict = {"NFL": self._wrap_home_away_allowed(nfl_stats), "NBA": self._wrap_home_away_allowed(nba_stats),
+                     "NCAAF": self._wrap_home_away_allowed(ncaaf_stats), "NCAAB": self._wrap_home_away_allowed(ncaab_stats)}
         return stat_dict[self.league]
 
     def get_feature_cols(self):  # Top Level
@@ -144,7 +154,7 @@ class Modeling_Data:
             away = game_dict['Away']
             if team in [home, away]:
                 count += 1
-            if count == self.num_past_games:
+            if count == self.num_past_games + 1:
                 return i
         return np.Inf
 
@@ -157,8 +167,9 @@ class Modeling_Data:
         team_eligible_indices = {team: self._team_eligible_index(game_dicts, team) for team in teams}
 
         # * looping through game_dicts to create eligible_game_dicts, with only games where teams have enough data
+        final_game_dicts = [gd for gd in game_dicts if 'Final' in str(gd['Final_Status'])]
         eligible_game_dicts = []
-        for i, team_dict in enumerate(game_dicts):
+        for i, team_dict in enumerate(final_game_dicts):
             home_eligible = i > team_eligible_indices[team_dict['Home']]
             away_eligible = i > team_eligible_indices[team_dict['Away']]
             if (home_eligible and away_eligible):
@@ -207,6 +218,8 @@ class Modeling_Data:
         Computing the average value of 'feature_col' in recent games
         - inspects home/away recent games based on name of feature_col
         """
+        allowed_feature = "Allowed" in feature_col
+        feature_col = feature_col.replace("_Allowed", "")
         home_feature = True if feature_col[0] == 'H' else False
         recent_games = home_recent_games if home_feature else away_recent_games
         team = home if home_feature else away
@@ -214,6 +227,11 @@ class Modeling_Data:
         opp_feature_col = self._get_opp_feature_col(feature_col, home_feature)
         home_feature_col = feature_col if home_feature else opp_feature_col
         away_feature_col = opp_feature_col if home_feature else feature_col
+
+        # * if we're looking for an allowed, stat, we're just looking for the opposite col
+        if allowed_feature:
+            home_feature_col, away_feature_col = away_feature_col, home_feature_col
+
         vals = []
         for recent_game_dict in recent_games:
             team_is_home = True if recent_game_dict['Home'] == team else False
@@ -239,7 +257,6 @@ class Modeling_Data:
         home_recent_games = self._query_recent_games(home, date, game_dicts)
         away_recent_games = self._query_recent_games(away, date, game_dicts)
 
-        # TODO RIGHT HERE IS WHERE I NEED TO INCORPORATE STAT_ALLOWED, FOR EACH TEAM, NOT JUST WHAT THE ONE TEAM PRODUCED
         new_row_dict = {feature_col: self._avg_feature_col(feature_col, home, away, home_recent_games, away_recent_games)
                         for feature_col in feature_cols}
 
@@ -295,10 +312,12 @@ class Modeling_Data:
         # * multithreading the process of creating a new row for the df based on every eligible_game_dict
         args = [(egd['Home'], egd['Away'], egd['Date'], feature_cols, egd, game_dicts) for egd in eligible_game_dicts]
         new_row_dicts = multithread(self.build_new_row_dict, args)
+        # new_row_dicts = [self.build_new_row_dict(arg) for arg in args]  # ! REMOVE - USED FOR DEBUGGING WITHOUT THREADING
 
         df = pd.DataFrame(new_row_dicts, columns=['Home', 'Away', 'Date'] + self.betting_cols + self.targets + feature_cols)
         df = self.fill_na_values(df, feature_cols)
         if player_stats:
+            print("adding player stats...")
             df = self.add_player_stats(eligible_game_dicts, df)
 
         return df
@@ -320,9 +339,9 @@ class Modeling_Data:
 
 
 if __name__ == '__main__':
-    for league in ['NFL', 'NBA', 'NCAAF', 'NCAAB']:
-        # for league in ['NCAAB']:
-        for num_past_games in [3, 5, 10, 15, 20, 25]:
+    # for league in ['NFL', 'NBA', 'NCAAF', 'NCAAB']:
+    for league in ['NCAAB']:
+        for num_past_games in [10, 15, 20, 25]:
             print('-' * 50)
             print(f"{league} {num_past_games} past games")
             x = Modeling_Data(league, num_past_games=num_past_games)

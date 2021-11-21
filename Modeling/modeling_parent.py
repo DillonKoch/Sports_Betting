@@ -48,6 +48,16 @@ class Modeling_Parent:
     def model_neural_net(self):  # Top Level
         pass
 
+    def _clean_mls(self, df):  # Specific Helper  load_df
+        """
+        Cleaning the ML cols to get rid of the huge gap from -100 to 100
+        - so -110 goes to -10, +230 becomes 130, etc
+        """
+        ml_cols = [col for col in df.columns if "ML" == col[-2:]]
+        for col in ml_cols:
+            df[col] = df[col].apply(lambda x: x + 100 if x < 0 else x - 100)
+        return df
+
     def load_df(self, past_games, player_stats):  # Top Level
         """
         loads a df from /Data/Modeling_Data with a certain # past games, and optional player stats
@@ -56,6 +66,7 @@ class Modeling_Parent:
         player_stat_str = "player_stats" if player_stats else "no_player_stats"
         path = ROOT_PATH + f"/Data/Modeling_Data/{self.league}/{player_stat_str}_avg_{past_games}_past_games.csv"
         df = pd.read_csv(path)
+        df = self._clean_mls(df)
         cols = [col for col in list(df.columns) if col not in self.remove_cols]
         df = df[cols]
         return df
