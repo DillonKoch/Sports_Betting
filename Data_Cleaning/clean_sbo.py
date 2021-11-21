@@ -202,22 +202,10 @@ class SBO_Clean_Data:
         df.loc[len(df)] = new_row
         return df
 
-    # def run(self):  # Run
-    #     df = pd.DataFrame(columns=self.df_cols)
-    #     odds_paths = sorted(listdir_fullpath(ROOT_PATH + f"/Data/Odds/{self.league}/"))
-    #     for odds_path in tqdm(odds_paths):
-    #         odds_df = pd.read_excel(odds_path)
-    #         season = self.odds_path_to_season(odds_path)
-    #         row_pairs = self.odds_df_to_row_pairs(odds_df)
-
-    #         seen_january = False
-    #         for row_pair in tqdm(row_pairs):
-    #             seen_january = True if seen_january else self.check_game_in_january(row_pair)
-    #             df = self.row_pair_to_df(row_pair, df, season, seen_january)
-
-    #     df.to_csv(ROOT_PATH + f"/Data/Odds/{self.league}.csv", index=False)
-
     def odds_path_to_df(self, odds_path):  # Top Level
+        """
+        converts a path to an odds xlsx file to a cleaned odds df
+        """
         df = pd.DataFrame(columns=self.df_cols)
 
         odds_df = pd.read_excel(odds_path)
@@ -231,16 +219,35 @@ class SBO_Clean_Data:
 
         return df
 
-    def run(self):  # Run
-        odds_paths = sorted(listdir_fullpath(ROOT_PATH + f"/Data/Odds/{self.league}/"))
-        processed_dfs = multithread(self.odds_path_to_df, odds_paths)
-        df = pd.concat(processed_dfs)
-        df.to_csv(ROOT_PATH + f"/Data/Odds/{self.league}.csv", index=False)
+    def load_prev_seasons(self):  # Top Level
+        """
+        loads the cleaned odds df from previous seasons
+        """
+        path = ROOT_PATH + f"/Data/Odds/{self.league}.csv"
+        df = pd.read_csv(path)
+        seasons = list(set(list(df['Season'])))
+        newest_season = sorted(seasons)[-1]
+        prev_df = df.loc[df['Season'] != newest_season]
+        return prev_df
+
+    def run(self, clean_all=False):  # Run
+        if clean_all:
+            # * cleans all the sbo xlsx files from scratch
+            odds_paths = sorted(listdir_fullpath(ROOT_PATH + f"/Data/Odds/{self.league}/"))
+            processed_dfs = multithread(self.odds_path_to_df, odds_paths)
+            df = pd.concat(processed_dfs)
+            df.to_csv(ROOT_PATH + f"/Data/Odds/{self.league}.csv", index=False)
+        else:
+            # * loads the cleaned odds df from previous seasons, cleans current season data, and combines
+            prev_df = self.load_prev_seasons()
+            odds_path = sorted(listdir_fullpath(ROOT_PATH + f"/Data/Odds/{self.league}/"))[-1]
+            new_df = self.odds_path_to_df(odds_path)
+            df = pd.concat([prev_df, new_df])
+            df.to_csv(ROOT_PATH + f"/Data/Odds/{self.league}.csv", index=False)
 
 
 if __name__ == '__main__':
-    leagues = ['NFL', 'NBA', 'NCAAF', 'NCAAB']
-    for league in leagues:
+    for league in ['NFL', 'NBA', 'NCAAF', 'NCAAB']:
         print('-' * 50)
         print(league)
         print('-' * 50)
