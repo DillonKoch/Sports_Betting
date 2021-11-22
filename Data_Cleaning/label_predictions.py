@@ -48,7 +48,7 @@ class Label_Predictions:
         row = espn_df.loc[(espn_df['Home'] == home) & (espn_df['Away'] == away) & (espn_df['Date'] == date)]
         row = row.iloc[0, :]
         # * returning None if the game is not Final, otherwise returning ints of the scores
-        if np.isnan(row['Final_Status']):
+        if (not isinstance(row['Final_Status'], str)) and (np.isnan(row['Final_Status'])):
             return None, None
         return int(row['Home_Final']), int(row['Away_Final'])
 
@@ -102,7 +102,8 @@ class Label_Predictions:
                 bet_value = row['Bet_Value']
                 prediction = float(row['Prediction'])
                 outcome = self.bet_outcome(home, away, date, bet_type, bet_value, prediction, espn_df)
-                row["Outcome"] = outcome
+                row["Outcome"] = 1 if outcome else 0
+                pred_df.iloc[i] = row
         pred_df.to_csv(ROOT_PATH + f"/Data/Predictions/{self.league}/Predictions.csv", index=False)
         print("PREDICTIONS LABELED!")
 

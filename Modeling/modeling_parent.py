@@ -37,16 +37,16 @@ class Modeling_Parent:
                                   "neural net": self.model_neural_net}
 
     def model_logistic_regression(self):  # Top Level
-        pass
+        pass  # Done
 
     def model_random_forest(self):  # Top Level
-        pass
+        pass  # Done
 
     def model_svm(self):  # Top Level
-        pass
+        pass  # Done
 
     def model_neural_net(self):  # Top Level
-        pass
+        pass  # Done
 
     def _clean_mls(self, df):  # Specific Helper  load_df
         """
@@ -139,14 +139,17 @@ class Modeling_Parent:
         else:
             df = pd.DataFrame(columns=["Game_Date", "Home", "Away", "Bet_Type", "Bet_Value",
                                        "Bet_ML", "Prediction", "Outcome", "Algorithm",
-                                       "Alg_Description", "Dataset", "Pred_ts"])
+                                       "Avg_Past_Games", "Player_Stats", "Pred_ts"])
         return df
 
     def _current_ts(self):  # Specific Helper  make_preds
         """returning a string of the current time"""
         return datetime.datetime.now().strftime("%Y-%m-%d %H:%M")
 
-    def make_preds(self, model, upcoming_games_df, upcoming_games_X, alg, alg_desc, dataset):  # Top Level
+    def make_preds(self, model, upcoming_games_df, upcoming_games_X, alg, avg_past_games, player_stats_bool):  # Top Level
+        """
+        making predictions on upcoming games and saving to /Data/Predictions/
+        """
         df = self._make_load_df()
         preds = model.predict_proba(upcoming_games_X)
         for i in range(len(upcoming_games_df)):
@@ -154,10 +157,25 @@ class Modeling_Parent:
             prediction = round(preds[i][1], 3)
             new_row = [game_row['Date'], game_row['Home'], game_row['Away'], self.bet_type,
                        game_row[self.bet_value_col], game_row[self.bet_ml_col],
-                       prediction, None, alg, alg_desc, dataset, self._current_ts()]
+                       prediction, None, alg, avg_past_games, player_stats_bool, self._current_ts()]
             df.loc[len(df)] = new_row
         df.to_csv(ROOT_PATH + f"/Data/Predictions/{self.league}/Predictions.csv", index=False)
         print("Predictions saved!")
+
+    def run_all(self):  # Run
+        """
+        running all algorithms on all datasets
+        """
+        algs = ['logistic regression', 'svm', 'random forest', 'neural net']
+        num_past_games = [3, 5, 10, 15, 20, 25]
+        player_stats_bools = [False, True]
+        for alg in algs:
+            for npg in num_past_games:
+                for player_stat_bool in player_stats_bools:
+                    ps_str = "with" if player_stat_bool else "without"
+                    print(f"{self.league} {self.bet_type} {alg} on past {npg} games {ps_str} player stats")
+                    df = self.load_df(past_games=npg, player_stats=player_stat_bool)
+                    self.run(df, alg, npg, player_stat_bool)
 
 
 class Spread_Parent(Modeling_Parent):
