@@ -328,10 +328,10 @@ class Modeling_Data:
         - saving to /Modeling
         - "pg" = past games, "nps" = no player stats, "wps" = with player stats
         """
-        df_no_p_stats = self.run(player_stats=False)
-        df_no_p_stats.to_csv(f"{ROOT_PATH}/Data/Modeling_Data/{self.league}/no_player_stats_avg_{self.num_past_games}_past_games.csv", index=False)
-        # df_p_stats = self.run(player_stats=True)
-        # df_p_stats.to_csv(f"{ROOT_PATH}/Data/Modeling_Data/{self.league}/player_stats_avg_{self.num_past_games}_past_games.csv", index=False)
+        # df_no_p_stats = self.run(player_stats=False)
+        # df_no_p_stats.to_csv(f"{ROOT_PATH}/Data/Modeling_Data/{self.league}/no_player_stats_avg_{self.num_past_games}_past_games.csv", index=False)
+        df_p_stats = self.run(player_stats=True)
+        df_p_stats.to_csv(f"{ROOT_PATH}/Data/Modeling_Data/{self.league}/player_stats_avg_{self.num_past_games}_past_games.csv", index=False)
 
     def run_updates(self):  # Run
         # TODO once the dataframes are created, just update with newly collected data
@@ -339,9 +339,9 @@ class Modeling_Data:
 
 
 if __name__ == '__main__':
-    # for league in ['NFL', 'NBA', 'NCAAF', 'NCAAB']:
-    for league in ['NCAAB']:
-        for num_past_games in [10, 15, 20, 25]:
+    for league in ['NFL', 'NBA', 'NCAAF', 'NCAAB']:
+        # for league in ['NCAAB']:
+        for num_past_games in [3, 5, 10, 15, 20, 25]:
             print('-' * 50)
             print(f"{league} {num_past_games} past games")
             x = Modeling_Data(league, num_past_games=num_past_games)

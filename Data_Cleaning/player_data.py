@@ -14,11 +14,11 @@
 
 
 import datetime
+import json
 import sys
 from os.path import abspath, dirname
 
 import numpy as np
-import Levenshtein as lev
 import pandas as pd
 
 ROOT_PATH = dirname(dirname(abspath(__file__)))
@@ -38,6 +38,8 @@ class Player_Data:
         self.player_df = pd.read_csv(f"{ROOT_PATH}/Data/ESPN/{self.league}/Players.csv")
         self.roster_df = pd.read_csv(f"{ROOT_PATH}/Data/ESPN/{self.league}/Rosters.csv")
         self.injury_df = pd.read_csv(f"{ROOT_PATH}/Data/Covers/{self.league}/Injuries.csv")
+        with open(ROOT_PATH + f"/Data/Covers/{self.league}/Player_Matches.json", 'r') as f:
+            self.player_matches = json.load(f)
 
         # * Positions for each team
         self.football_positions = ['QB', 'RB', 'WR', 'TE', 'DT', 'DE', 'LB', 'CB', 'S', 'K', 'P']
@@ -92,6 +94,19 @@ class Player_Data:
         self.avg_pos_height_dict = self.avg_pos_ht_wt_dict(height=True)
         self.avg_pos_weight_dict = self.avg_pos_ht_wt_dict(height=False)
 
+    def make_feature_col_names(self):  # Top Level
+        """
+        creating a list of all the feature columns that result from the run() method
+        """
+        cols = []
+        for position in self.pos_num_dict:
+            for i in range(self.pos_num_dict[position]):
+                for stat in self.pos_stat_dict[position]:
+                    position_name = f"{position}{i+1}_{stat}"
+                    cols.append(position_name)
+                cols += [f"{position}{i+1}_" + item for item in ["Height", "Weight", "Age", "Injury_Status"]]
+        return cols
+
     def _avg_player_ht_wt(self, position, height=True):  # Helping Helper avg_pos_ht_wt_dict
         """
         computes the average player's height/weight at a position
@@ -108,19 +123,6 @@ class Player_Data:
         for position in self.positions:
             ht_wt_dict[position] = self._avg_player_ht_wt(position, height)
         return ht_wt_dict
-
-    def make_feature_col_names(self):  # Top Level
-        """
-        creating a list of all the feature columns that result from the run() method
-        """
-        cols = []
-        for position in self.pos_num_dict:
-            for i in range(self.pos_num_dict[position]):
-                for stat in self.pos_stat_dict[position]:
-                    position_name = f"{position}{i+1}_{stat}"
-                    cols.append(position_name)
-                cols += [f"{position}{i+1}_" + item for item in ["Height", "Weight", "Age", "Injury_Status"]]
-        return cols
 
     def _check_nan(self, val):  # Helping Helper _split_dash_slash_cols
         if isinstance(val, float):
@@ -212,32 +214,30 @@ class Player_Data:
             dash_name_injury_dict[injury_dname] = self.status_fw_to_num_dict[status_first_word]
         return dash_name_injury_dict
 
-    def _find_closest_dash_name(self, dash_name, roster_dash_names):  # Helping Helper _dash_name_to_player_id
-        best_match = None
-        best_match_dist = 1000
-        for roster_dash_name in roster_dash_names:
-            dist = lev.distance(dash_name, roster_dash_name)
-            if dist < best_match_dist:
-                best_match = roster_dash_name
-                best_match_dist = dist
+    # def _find_closest_dash_name(self, dash_name, roster_dash_names):  # Helping Helper _dash_name_to_player_id
+    #     best_match = None
+    #     best_match_dist = 1000
+    #     for roster_dash_name in roster_dash_names:
+    #         dist = lev.distance(dash_name, roster_dash_name)
+    #         if dist < best_match_dist:
+    #             best_match = roster_dash_name
+    #             best_match_dist = dist
 
-        print(f"Chagned {dash_name} to {best_match}")
-        return best_match
+    #     print(f"Chagned {dash_name} to {best_match}")
+    #     return best_match
 
-    def _dash_name_to_player_id(self, dash_name, roster_df):  # Specific Helper  id_injury_dict
+    def _dash_name_to_player_id(self, covers_dash_name, roster_df):  # Specific Helper  id_injury_dict
         """
-        returns the ESPN Player_ID for the dash_name input
+        returns the ESPN Player_ID for the dash_name input (dash_name comes from Covers!!)
         """
         roster_dash_names = [name.strip().lower().replace(' ', '-') for name in list(roster_df['Player'])]
-        dn_to_pid_dict = {dn: pid for dn, pid in zip(roster_dash_names, list(roster_df['Player_ID']))}
-        if dash_name in dn_to_pid_dict:
-            return dn_to_pid_dict[dash_name]
+        espn_dn_to_pid_dict = {dn: pid for dn, pid in zip(roster_dash_names, list(roster_df['Player_ID']))}
+        if covers_dash_name in espn_dn_to_pid_dict:
+            return espn_dn_to_pid_dict[covers_dash_name]
+        elif covers_dash_name in self.player_matches:
+            return self.player_matches[covers_dash_name]
         else:
-            closest_dash_name = self._find_closest_dash_name(dash_name, roster_dash_names)
-        # TODO - add exception handling for if the dash_name (from injury df) isn't in the roster_df
-        # * jermaine carter jr doesn't have the jr in the covers data
-        # * could use min edit distance to find the closest match?
-            return closest_dash_name
+            return "0"
 
     def id_injury_dict(self, player_ids, team, date, pre_scraping):  # Top Level
         """
@@ -384,7 +384,7 @@ class Player_Data:
         pre_scraping = datetime.datetime.strptime(date, "%Y-%m-%d") < datetime.datetime(2021, 11, 2)
         player_ids = self.player_ids(team, date, pre_scraping)
         id_injury_dict = self.id_injury_dict(player_ids, team, date, pre_scraping)
-        player_ids = [player_id for player_id in player_ids if id_injury_dict[player_id] != 0]
+        player_ids = [player_id for player_id in player_ids if ((player_id in id_injury_dict) and (id_injury_dict[player_id] != 0))]
         position_id_dict = self.pos_id_dict(player_ids)
         position_stats_dict = self.get_pos_stats_dict(team, date, past_games, position_id_dict, id_injury_dict)
         player_data_arr = self.pos_stats_dict_to_player_data(position_stats_dict)
@@ -399,5 +399,5 @@ if __name__ == '__main__':
     past_games = 10
     team = "Tampa Bay Buccaneers"
     date = "2021-10-10"
-    player_data_arr = x.run("Tampa Bay Buccaneers", "2021-10-10")
+    player_data_arr = x.run("Tampa Bay Buccaneers", "2021-11-10")
     # x.run("Tampa Bay Buccaneers", "2021-11-30")
