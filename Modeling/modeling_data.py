@@ -35,13 +35,13 @@ def multithread(func, func_args):  # Multithreading
 
 
 class Modeling_Data:
-    def __init__(self, league, num_past_games=10):
+    def __init__(self, league):
         self.league = league
-        self.num_past_games = num_past_games
         self.player_data = Player_Data(league)
         self.betting_cols = ['Home_Line_Close', 'Home_Line_Close_ML', 'OU_Close', 'OU_Close_ML',
                              'Home_ML', 'Away_ML']
         self.targets = ['Home_Covered', 'Home_Win', 'Over_Covered']
+        self.feature_cols = self.get_feature_cols()
 
     def _clean_games_df(self, games_df):  # Specific Helper  load_game_dicts
         """
@@ -144,7 +144,7 @@ class Modeling_Data:
         feature_cols += self._game_stats()
         return feature_cols
 
-    def _team_eligible_index(self, game_dicts, team):  # Specific Helper get_eligible_game_dicts
+    def _team_eligible_index(self, game_dicts, team, num_past_games):  # Specific Helper get_eligible_game_dicts
         """
         finds the index in game_dicts in which the team has enough data for modeling
         """
@@ -154,17 +154,17 @@ class Modeling_Data:
             away = game_dict['Away']
             if team in [home, away]:
                 count += 1
-            if count == self.num_past_games + 1:
+            if count == num_past_games + 1:
                 return i
         return np.Inf
 
-    def get_eligible_game_dicts(self, game_dicts):  # Top Level
+    def get_eligible_game_dicts(self, game_dicts, num_past_games):  # Top Level
         """
         Building a list of "eligible" game_dicts in which both teams have enough past data for modeling
         """
         # * making a list of teams and the index in game_dicts in which that team has enough data for modeling
         teams = list(set([gd['Home'] for gd in game_dicts] + [gd['Away'] for gd in game_dicts]))
-        team_eligible_indices = {team: self._team_eligible_index(game_dicts, team) for team in teams}
+        team_eligible_indices = {team: self._team_eligible_index(game_dicts, team, num_past_games) for team in teams}
 
         # * looping through game_dicts to create eligible_game_dicts, with only games where teams have enough data
         final_game_dicts = [gd for gd in game_dicts if 'Final' in str(gd['Final_Status'])]
@@ -190,7 +190,7 @@ class Modeling_Data:
         prev_game_dicts.reverse()
         return prev_game_dicts
 
-    def _query_recent_games(self, team, date, game_dicts):  # Specific Helper build_new_row_dict
+    def _query_recent_games(self, team, date, game_dicts, num_past_games):  # Specific Helper build_new_row_dict
         """
         loops through prev_game_dicts to find the most recent 'self.num_past_games' games involving 'team'
         """
@@ -204,7 +204,7 @@ class Modeling_Data:
             away = prev_game_dict['Away']
             if team in [home, away]:
                 recent_games.append(prev_game_dict)
-            if len(recent_games) == self.num_past_games:
+            if len(recent_games) == num_past_games:
                 return recent_games
         raise ValueError("Didn't find enough recent games!")
 
@@ -253,12 +253,12 @@ class Modeling_Data:
         """
         Given the home/away team and game date, this will create a new_row_dict for ML training
         """
-        home, away, date, feature_cols, eligible_game_dict, game_dicts = args
-        home_recent_games = self._query_recent_games(home, date, game_dicts)
-        away_recent_games = self._query_recent_games(away, date, game_dicts)
+        home, away, date, eligible_game_dict, game_dicts, num_past_games = args
+        home_recent_games = self._query_recent_games(home, date, game_dicts, num_past_games)
+        away_recent_games = self._query_recent_games(away, date, game_dicts, num_past_games)
 
         new_row_dict = {feature_col: self._avg_feature_col(feature_col, home, away, home_recent_games, away_recent_games)
-                        for feature_col in feature_cols}
+                        for feature_col in self.feature_cols}
 
         # * adding Home/Away/Date
         new_row_dict['Home'] = home
@@ -300,49 +300,120 @@ class Modeling_Data:
             new_df.loc[len(new_df)] = home_stat + away_stat
 
         # final_df = pd.merge(df, new_df, how='left', on=['Home', 'Away', 'Date'])
-        final_df = pd.concat([df, new_df], axis=1)
+        final_df = pd.concat([df, new_df], how='left', axis=1)
         return final_df
 
-    def run(self, player_stats=True):  # Run
+    def run(self, num_past_games, player_stats=True):  # Run
         # * game dicts, feature_cols, eligible
         game_dicts = self.load_game_dicts()
-        feature_cols = self.get_feature_cols()
-        eligible_game_dicts = self.get_eligible_game_dicts(game_dicts)
+        eligible_game_dicts = self.get_eligible_game_dicts(game_dicts, num_past_games)[-125:]  # TODO make sure both teams are in the league
 
         # * multithreading the process of creating a new row for the df based on every eligible_game_dict
-        args = [(egd['Home'], egd['Away'], egd['Date'], feature_cols, egd, game_dicts) for egd in eligible_game_dicts]
+        args = [(egd['Home'], egd['Away'], egd['Date'], egd, game_dicts, num_past_games) for egd in eligible_game_dicts]
         new_row_dicts = multithread(self.build_new_row_dict, args)
         # new_row_dicts = [self.build_new_row_dict(arg) for arg in args]  # ! REMOVE - USED FOR DEBUGGING WITHOUT THREADING
 
-        df = pd.DataFrame(new_row_dicts, columns=['Home', 'Away', 'Date'] + self.betting_cols + self.targets + feature_cols)
-        df = self.fill_na_values(df, feature_cols)
+        df = pd.DataFrame(new_row_dicts, columns=['Home', 'Away', 'Date'] + self.betting_cols + self.targets + self.feature_cols)
+        df = self.fill_na_values(df, self.feature_cols)
         if player_stats:
             print("adding player stats...")
             df = self.add_player_stats(eligible_game_dicts, df)
 
         return df
 
-    def run_all(self):  # Run
+    def run_all(self, num_past_games):  # Run
         """
         running this file to create datasets with/without player stats for all leagues
         - saving to /Modeling
         - "pg" = past games, "nps" = no player stats, "wps" = with player stats
         """
-        # df_no_p_stats = self.run(player_stats=False)
-        # df_no_p_stats.to_csv(f"{ROOT_PATH}/Data/Modeling_Data/{self.league}/no_player_stats_avg_{self.num_past_games}_past_games.csv", index=False)
-        df_p_stats = self.run(player_stats=True)
-        df_p_stats.to_csv(f"{ROOT_PATH}/Data/Modeling_Data/{self.league}/player_stats_avg_{self.num_past_games}_past_games.csv", index=False)
+        # df_no_p_stats = self.run(num_past_games, player_stats=False)
+        # df_no_p_stats.to_csv(f"{ROOT_PATH}/Data/Modeling_Data/{self.league}/no_player_stats_avg_{num_past_games}_past_games.csv", index=False)
+        df_p_stats = self.run(num_past_games, player_stats=True)
+        df_p_stats.to_csv(f"{ROOT_PATH}/Data/Modeling_Data/{self.league}/player_stats_avg_{num_past_games}_past_games.csv", index=False)
 
-    def run_updates(self):  # Run
-        # TODO once the dataframes are created, just update with newly collected data
-        pass
+    def new_home_away_dates(self, modeling_data_df):  # Top Level
+        """
+        """
+        df = pd.read_csv(ROOT_PATH + f"/Data/{self.league}.csv")
+        modeling_data_hads = [(row['Home'], row['Away'], row['Date']) for i, row in modeling_data_df.iterrows()]
+        df_hads = [(row['Home'], row['Away'], row['Date']) for i, row in df.iterrows()]
+        # ! problem with just finding games not in modeling_data -> game must have enough previous games for avg stats!
+        # df_hads = [had for had in df_hads if had[2] > "2010-01-01"]
+        return [had for had in df_hads if had not in modeling_data_hads]
+
+    def run_updates(self, num_past_games, player_stats):  # Run
+        # TODO new game dicts too? - totally add if new scraping or something
+        ps_str = "" if player_stats else "no_"
+        path = ROOT_PATH + f"/Data/Modeling_Data/{self.league}/{ps_str}player_stats_avg_{num_past_games}_past_games.csv"
+        modeling_data_df = pd.read_csv(path)
+        no_update_df = modeling_data_df[~pd.isnull(modeling_data_df[self.betting_cols + self.targets]).any(axis=1)]
+        update_df = modeling_data_df[pd.isnull(modeling_data_df[self.betting_cols + self.targets]).any(axis=1)]
+        assert len(update_df) + len(no_update_df) == len(modeling_data_df)
+        game_dicts = self.load_game_dicts()
+        update_game_dicts = []
+
+        row_dicts = []
+        update_df_hads = [(row['Home'], row['Away'], row['Date']) for i, row in update_df.iterrows()]
+        new_hads = self.new_home_away_dates(modeling_data_df)  # home/away/date that are in the csv but not in the modeling_data yet
+        for had in update_df_hads + new_hads:
+            home, away, date = had
+            game_dict = [gd for gd in game_dicts if ((gd['Home'] == home) and (gd['Away'] == away) and (gd['Date'] == date))][0]
+            update_game_dicts.append(game_dict)
+            new_row_dict = self.build_new_row_dict([home, away, date, game_dict, game_dicts, num_past_games])
+            row_dicts.append(new_row_dict)
+
+        new_df = pd.DataFrame(row_dicts, columns=['Home', 'Away', 'Date'] + self.betting_cols + self.targets + self.feature_cols)
+        new_df = self.fill_na_values(new_df, self.feature_cols)
+        if player_stats:
+            print("adding player stats...")
+            new_df = self.add_player_stats(update_game_dicts, new_df)
+
+        updated_df = pd.concat([no_update_df, new_df])
+        updated_df.reset_index(inplace=True, drop=True)
+        updated_df.sort_values(by=['Date', 'Home', 'Away'], inplace=True)
+        updated_df.to_csv(path, index=False)
+        print("SAVED")
+
+    # def check_bets_targets_null(self, row):  # Top Level
+    #     for col in self.betting_cols + self.targets:
+    #         if not isinstance(row[col], str):
+    #             if pd.isnull(row[col]):
+    #                 return True
+    #     return False
+
+    # def new_row_from_old(self, row, eligible_game_dicts):  # Top Level
+    #     new_row_dict = self.build
+
+    # def run_updates(self, num_past_games, player_stats):  # Run
+    #     # TODO once the dataframes are created, just update with newly collected data
+    #     # we're replacing rows (with missing vals) with the newly-created version of them
+    #     # find rows with missing odds/targets
+    #     # get the game_dict using home/away/date
+    #     # build new row dict
+    #     # replace the row with the new row dict
+    #     ps_str = "" if player_stats else "_no"
+    #     path = ROOT_PATH + f"/Data/Modeling_Data/{self.league}/{ps_str}player_stats_avg_{num_past_games}_past_games.csv"
+    #     df = pd.read_csv(path)
+    #     game_dicts = self.load_game_dicts()
+    #     eligible_game_dicts = self.get_eligible_game_dicts(game_dicts, num_past_games)
+
+    #     for i, row in df.iterrows():
+    #         contains_null = self.check_bets_targets_null(row)
+    #         if contains_null:
+    #             new_row_dict = self.build_new_row_dict(row['Home'], row['Away'], row['Date'], dict(row))
+    #             df.iloc[i, :] = self.new_row_from_old(row, eligible_game_dicts)
+
+    #     df.to_csv(path, index=False)
 
 
 if __name__ == '__main__':
-    for league in ['NFL', 'NBA', 'NCAAF', 'NCAAB']:
-        # for league in ['NCAAB']:
+    # for league in ['NFL', 'NBA', 'NCAAF', 'NCAAB']:
+    for league in ['NCAAF']:
         for num_past_games in [3, 5, 10, 15, 20, 25]:
-            print('-' * 50)
-            print(f"{league} {num_past_games} past games")
-            x = Modeling_Data(league, num_past_games=num_past_games)
-            x.run_all()
+            for player_stat_bool in [True, False]:
+                print('-' * 50)
+                print(f"{league} {num_past_games} past games, player stats: {player_stat_bool}")
+                x = Modeling_Data(league)
+                x.run_all(num_past_games)
+                # x.run_updates(num_past_games, player_stat_bool)

@@ -87,7 +87,8 @@ class Player_Data:
         self.pos_stat_dict = self.football_stat_dict if self.football_league else self.basketball_stat_dict
 
         # * dict for converting injury first word to numeric status
-        self.status_fw_to_num_dict = {"i-r": 0, "out": 0, "early": 0, "mid": 0, "late": 0, "doub": 1, "ques": 2, "day-to-day": 2, "prob": 3, "elig": 4}
+        self.status_fw_to_num_dict = {"i-r": 0, "out": 0, "early": 0, "mid": 0, "late": 0, "doub": 1, "ques": 2, "quest": 2, "-": 2,
+                                      "day-to-day": 2, "prob": 3, "elig": 4}
 
         # * Other
         self.feature_col_names = self.make_feature_col_names()
@@ -210,7 +211,7 @@ class Player_Data:
         roster_dnames = [item.strip().lower().replace(' ', '-') for item in list(roster_df['Player'])]
         dash_name_injury_dict = {roster_dname: 4 for roster_dname in roster_dnames}
         for injury_dname, injury_status in zip(list(injury_df['Player']), list(injury_df['Status'])):
-            status_first_word = injury_status.split(' ')[0].lower()
+            status_first_word = injury_status.strip().split(' ')[0].lower()
             dash_name_injury_dict[injury_dname] = self.status_fw_to_num_dict[status_first_word]
         return dash_name_injury_dict
 

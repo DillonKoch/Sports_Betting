@@ -2,6 +2,8 @@
 This project evaluates multiple AI algorithms' effectiveness in predicting the outcome of football and basketball bets.
 The algorithms are trained on a database of team stats and odds for each game dating back to 2007.
 
+<img src="PAM.png" width=500>
+
 ## Contents
 
 [1. Data Collection](#Data-Collection)\
