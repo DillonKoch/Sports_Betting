@@ -14,6 +14,7 @@
 
 
 import concurrent.futures
+import json
 import sys
 from os.path import abspath, dirname
 
@@ -42,6 +43,11 @@ class Modeling_Data:
                              'Home_ML', 'Away_ML']
         self.targets = ['Home_Covered', 'Home_Win', 'Over_Covered']
         self.feature_cols = self.get_feature_cols()
+
+        # * making a list of the ESPN teams
+        with open(ROOT_PATH + f"/Data/Teams/{league}_Teams.json") as f:
+            self.teams_dict = json.load(f)
+        self.teams = list(self.teams_dict['Teams'].keys())
 
     def _clean_games_df(self, games_df):  # Specific Helper  load_game_dicts
         """
@@ -170,6 +176,8 @@ class Modeling_Data:
         final_game_dicts = [gd for gd in game_dicts if 'Final' in str(gd['Final_Status'])]
         eligible_game_dicts = []
         for i, team_dict in enumerate(final_game_dicts):
+            if (team_dict['Home'] not in self.teams) or (team_dict['Away'] not in self.teams):
+                continue
             home_eligible = i > team_eligible_indices[team_dict['Home']]
             away_eligible = i > team_eligible_indices[team_dict['Away']]
             if (home_eligible and away_eligible):
@@ -300,13 +308,13 @@ class Modeling_Data:
             new_df.loc[len(new_df)] = home_stat + away_stat
 
         # final_df = pd.merge(df, new_df, how='left', on=['Home', 'Away', 'Date'])
-        final_df = pd.concat([df, new_df], how='left', axis=1)
+        final_df = pd.concat([df, new_df], axis=1)
         return final_df
 
     def run(self, num_past_games, player_stats=True):  # Run
         # * game dicts, feature_cols, eligible
         game_dicts = self.load_game_dicts()
-        eligible_game_dicts = self.get_eligible_game_dicts(game_dicts, num_past_games)[-125:]  # TODO make sure both teams are in the league
+        eligible_game_dicts = self.get_eligible_game_dicts(game_dicts, num_past_games)
 
         # * multithreading the process of creating a new row for the df based on every eligible_game_dict
         args = [(egd['Home'], egd['Away'], egd['Date'], egd, game_dicts, num_past_games) for egd in eligible_game_dicts]

@@ -172,6 +172,7 @@ class Player_Data:
         finding the player_id's for the team
         - locates the players who played if the game is pre_scraping
         - locates players on the roster who aren't "out" in the injury_df if post-scraping
+        TODO this errors sometimes - could make sure it's good before running?
         """
         if pre_scraping:
             team_date_df = self.player_stats_df[(self.player_stats_df["Team"] == team) & (self.player_stats_df["Date"] == date)]
