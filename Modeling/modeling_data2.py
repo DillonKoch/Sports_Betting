@@ -191,7 +191,7 @@ class Modeling_Data:
         """
         # * missing val in existing modeling_df
         update_modeling_df = modeling_df[pd.isnull(modeling_df[self.betting_cols + self.targets]).any(axis=1)]
-        past_date = (datetime.datetime.now() + datetime.timedelta(days=days_since)).strftime('%Y-%m-%d')
+        past_date = (datetime.datetime.now() - datetime.timedelta(days=days_since)).strftime('%Y-%m-%d')
         update_modeling_df = update_modeling_df[update_modeling_df['Date'] >= past_date]
         update_home_away_dates = [(row['Home'], row['Away'], row['Date']) for i, row in update_modeling_df.iterrows()]
 
@@ -367,8 +367,7 @@ class Modeling_Data:
         print(f"Updating {len(update_modeling_df)} games...")
         return update_modeling_df
 
-    def run(self, num_past_games, player_stats, days_since=1000):  # Run
-        # TODO this should update even when player_stats=False
+    def run(self, num_past_games, player_stats, days_since=50):  # Run
         modeling_df = self.load_modeling_df(num_past_games, player_stats)
         no_update_modeling_df = self.get_no_update_modeling_df(modeling_df)  # no missing betting odds/targets
         update_home_away_dates = self.get_update_home_away_dates(modeling_df, days_since)  # had's of games that need to be updated
@@ -391,12 +390,12 @@ class Modeling_Data:
         for npg in [3, 5, 10, 15, 20, 25]:
             for ps in [False, True]:
                 print(f"{self.league}, {npg} past games, player stats: {ps}")
-                self.run(npg, ps, days_since=6000)
+                self.run(npg, ps, days_since=50)
 
 
 if __name__ == '__main__':
-    for league in ['NFL', 'NBA', 'NCAAF']:
-        # for league in ['NCAAB']:
+    # for league in ['NFL', 'NBA', 'NCAAF']:
+    for league in ['NBA', 'NCAAF']:
         # ! be sure to check on 'days_since' and 'days_out'
         x = Modeling_Data(league)
         x.run_all()
