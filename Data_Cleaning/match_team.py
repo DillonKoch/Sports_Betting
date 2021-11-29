@@ -121,7 +121,7 @@ class Match_Team:
         return [item[0] for item in existing_dist_combos]
 
     def update_team_dict(self, team_dict, team_name, matches, real_team_index):  # Top Level
-        if real_team_index == 'O':
+        if real_team_index == '':
             team_dict['Other Teams'] = team_dict['Other Teams'] + [team_name]
         elif real_team_index != '':
             real_team = matches[int(real_team_index)]

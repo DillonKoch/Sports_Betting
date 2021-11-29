@@ -416,8 +416,8 @@ class Modeling_Data:
 
 
 if __name__ == '__main__':
-    # for league in ['NFL', 'NBA', 'NCAAF', 'NCAAB']:
-    for league in ['NCAAF']:
+    for league in ['NFL', 'NBA', 'NCAAF']:
+        # for league in ['NCAAF']:
         for num_past_games in [3, 5, 10, 15, 20, 25]:
             for player_stat_bool in [True, False]:
                 print('-' * 50)

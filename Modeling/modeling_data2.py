@@ -368,6 +368,7 @@ class Modeling_Data:
         return update_modeling_df
 
     def run(self, num_past_games, player_stats, days_since=1000):  # Run
+        # TODO this should update even when player_stats=False
         modeling_df = self.load_modeling_df(num_past_games, player_stats)
         no_update_modeling_df = self.get_no_update_modeling_df(modeling_df)  # no missing betting odds/targets
         update_home_away_dates = self.get_update_home_away_dates(modeling_df, days_since)  # had's of games that need to be updated
@@ -394,8 +395,8 @@ class Modeling_Data:
 
 
 if __name__ == '__main__':
-    # for league in ['NFL', 'NBA', 'NCAAF', 'NCAAB']:
-    for league in ['NCAAB']:
+    for league in ['NFL', 'NBA', 'NCAAF']:
+        # for league in ['NCAAB']:
         # ! be sure to check on 'days_since' and 'days_out'
         x = Modeling_Data(league)
         x.run_all()
