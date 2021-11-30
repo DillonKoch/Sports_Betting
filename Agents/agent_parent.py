@@ -30,8 +30,18 @@ class Agent_Parent:
                             "Result"]
 
     @property
+    def prediction_df_path(self):  # Property
+        return ROOT_PATH + f"/Data/Predictions/{self.league}/Predictions.csv"
+
+    @property
     def bet_df_path(self):  # Property
         return ROOT_PATH + f"/Data/Agent_Bets/{self.league}/{self.agent_name}.csv"
+
+    def load_prediction_df(self):  # Top Level
+        """
+        loads the df with all the models' predictions
+        """
+        return pd.read_csv(self.prediction_df_path)
 
     def make_load_bets_df(self):  # Top Level
         """
@@ -42,6 +52,12 @@ class Agent_Parent:
         else:
             df = pd.DataFrame(columns=self.bet_df_cols)
         return df
+
+    def get_new_prediction_df(self, prediction_df, bet_df):  # Top Level
+        """
+        locating predictions in prediction_df that the agent has not placed a bet with yet
+        """
+        pass
 
     def plot_profits(self, agents, start_date, end_date):  # Run
         """

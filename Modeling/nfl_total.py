@@ -50,52 +50,8 @@ class NFL_Total(Total_Parent):
     def model_baseline(self):  # Top Level
         pass
 
-    def model_logistic_regression(self, train_X, val_X, train_y, val_y):  # Top Level
-        model = LogisticRegression(random_state=18, max_iter=10000)
-        model.fit(train_X, train_y)
-        preds = model.predict_proba(val_X)
-        for thresh in [0.5, 0.55, 0.6, 0.65]:
-            self.expected_return(preds, val_y, thresh)
-
-        # self.plot_confusion_matrix(preds, val_y, self.confusion_matrix_title)
-        # self.evaluation_metrics(preds, val_y)
-        # self.spread_total_expected_return(preds, val_y)
-        return model
-
-    def model_random_forest(self, train_X, val_X, train_y, val_y):  # Top Level
-        model = RandomForestClassifier(max_depth=10, random_state=18, n_estimators=100)
-        model.fit(train_X, train_y)
-        preds = model.predict_proba(val_X)
-        for thresh in [0.5, 0.55, 0.6, 0.65]:
-            self.expected_return(preds, val_y, thresh)
-
-        return model
-
-    def model_svm(self, train_X, val_X, train_y, val_y):  # Top Level
-        model = svm.SVC(probability=True, kernel='linear')
-        model.fit(train_X, train_y)
-        preds = model.predict_proba(val_X)
-        for thresh in [0.5, 0.55, 0.6, 0.65]:
-            self.expected_return(preds, val_y, thresh)
-
-        return model
-
     def model_neural_net(self, train_X, val_X, train_y, val_y):  # Top Level
         pass
-
-    def run(self, df, alg, num_past_games, player_stat_bool):  # Run
-        finished_games_df, upcoming_games_df = self.split_finished_upcoming_games(df)
-        balanced_df = self.balance_classes(finished_games_df)
-        X, y, scaler = self.scaled_X_y(balanced_df)
-        train_X, val_X, train_y, val_y = self.split_train_test(X, y)
-
-        # * choose modeling technique, training
-        model_method = self.model_method_dict[alg]
-        model = model_method(train_X, val_X, train_y, val_y)
-
-        # * making predictions on upcoming_games_df, saving somewhere
-        upcoming_games_X, _, _ = self.scaled_X_y(upcoming_games_df, scaler=scaler)
-        self.make_preds(model, upcoming_games_df, upcoming_games_X, alg, num_past_games, player_stat_bool)
 
 
 if __name__ == '__main__':

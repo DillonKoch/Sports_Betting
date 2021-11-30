@@ -30,10 +30,12 @@ class Flat(Agent_Parent):
         self.agent_name = "flat"
 
     def run(self):  # Run
-        # load bets df
-        # load predictions
         # decide how much to wager, if at all based on predictions
+        prediction_df = self.load_prediction_df()
         bet_df = self.make_load_bets_df()
+        new_prediction_df = self.get_new_prediction_df(prediction_df, bet_df)
+
+        # saving
         bet_df.to_csv(self.bet_df_path, index=False)
 
 

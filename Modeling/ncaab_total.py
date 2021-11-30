@@ -21,37 +21,29 @@ ROOT_PATH = dirname(dirname(abspath(__file__)))
 if ROOT_PATH not in sys.path:
     sys.path.append(ROOT_PATH)
 
-from Modeling.modeling_parent import Modeling_Parent
+from Modeling.modeling_parent import Total_Parent
 
 
-class NCAAB_Total(Modeling_Parent):
+class NCAAB_Total(Total_Parent):
     def __init__(self):
+        super().__init__()
         self.league = "NCAAB"
 
-    def model_baseline_avg_points(self, avg_df_home_away_date, raw_df):  # Top Level
-        # * left merge avg_df and the Home_Line_Close
-        raw_df_home_line = raw_df[['Home', 'Away', 'Date', 'OU_Close']]
-        df = pd.merge(avg_df_home_away_date, raw_df_home_line, how='left', on=['Home', 'Away', 'Date'])
+    # def model_baseline_avg_points(self, avg_df_home_away_date, raw_df):  # Top Level
+    #     # * left merge avg_df and the Home_Line_Close
+    #     raw_df_home_line = raw_df[['Home', 'Away', 'Date', 'OU_Close']]
+    #     df = pd.merge(avg_df_home_away_date, raw_df_home_line, how='left', on=['Home', 'Away', 'Date'])
 
-        # * make predictions, evaluate
-        labels = df['Over_Covered']
-        home_pts = df['Home_Final']
-        away_pts = df['Away_Final']
-        total_pts = home_pts + away_pts
-        preds = total_pts > df['OU_Close']
+    #     # * make predictions, evaluate
+    #     labels = df['Over_Covered']
+    #     home_pts = df['Home_Final']
+    #     away_pts = df['Away_Final']
+    #     total_pts = home_pts + away_pts
+    #     preds = total_pts > df['OU_Close']
 
-        self.plot_confusion_matrix(preds, labels, 'NBA Line')
-        self.evaluation_metrics(preds, labels)
-        self.spread_total_expected_return(preds, labels)
-
-    def run(self):  # Run
-        print("-" * 50)
-        print("NCAAB TOTAL")
-        print("-" * 50)
-        # * loading data, baseline models
-        avg_df_home_away_date = self.load_avg_df(['Over_Covered'], extra_cols=['Home', 'Away', 'Date'])
-        raw_df = self.load_raw_df()
-        self.model_baseline_avg_points(avg_df_home_away_date, raw_df)
+    #     self.plot_confusion_matrix(preds, labels, 'NBA Line')
+    #     self.evaluation_metrics(preds, labels)
+    #     self.spread_total_expected_return(preds, labels)
 
 
 if __name__ == '__main__':

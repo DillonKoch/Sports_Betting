@@ -18,6 +18,7 @@ from os.path import abspath, dirname
 
 import numpy as np
 import pandas as pd
+from tqdm import tqdm
 
 ROOT_PATH = dirname(dirname(abspath(__file__)))
 if ROOT_PATH not in sys.path:
@@ -93,7 +94,7 @@ class Label_Predictions:
     def run(self):  # Run
         pred_df = self.load_pred_df()
         espn_df = self.load_espn_df()
-        for i, row in pred_df.iterrows():
+        for i, row in tqdm(pred_df.iterrows()):
             if np.isnan(row['Outcome']):
                 home = row['Home']
                 away = row['Away']
@@ -102,7 +103,7 @@ class Label_Predictions:
                 bet_value = row['Bet_Value']
                 prediction = float(row['Prediction'])
                 outcome = self.bet_outcome(home, away, date, bet_type, bet_value, prediction, espn_df)
-                row["Outcome"] = 1 if outcome else 0
+                row["Outcome"] = None if outcome is None else 1 if outcome else 0
                 pred_df.iloc[i] = row
         pred_df.to_csv(ROOT_PATH + f"/Data/Predictions/{self.league}/Predictions.csv", index=False)
         print("PREDICTIONS LABELED!")

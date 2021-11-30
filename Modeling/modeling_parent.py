@@ -16,11 +16,15 @@
 import copy
 import datetime
 import os
+import random
 import sys
 from os.path import abspath, dirname
 
 import numpy as np
 import pandas as pd
+from sklearn import svm
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
 
@@ -36,14 +40,23 @@ class Modeling_Parent:
                                   "svm": self.model_svm,
                                   "neural net": self.model_neural_net}
 
-    def model_logistic_regression(self):  # Top Level
-        pass  # Done
+    def model_logistic_regression(self, train_X, val_X, train_y, val_y):  # Top Level
+        model = LogisticRegression(random_state=18, max_iter=10000)
+        model.fit(train_X, train_y)
+        # preds = model.predict_proba(val_X)
+        return model
 
-    def model_random_forest(self):  # Top Level
-        pass  # Done
+    def model_random_forest(self, train_X, val_X, train_y, val_y):  # Top Level
+        model = RandomForestClassifier(max_depth=10, random_state=18, n_estimators=100)
+        model.fit(train_X, train_y)
+        # preds = model.predict_proba(val_X)
+        return model
 
-    def model_svm(self):  # Top Level
-        pass  # Done
+    def model_svm(self, train_X, val_X, train_y, val_y):  # Top Level
+        model = svm.SVC(probability=True, kernel='linear')
+        model.fit(train_X, train_y)
+        preds = model.predict_proba(val_X)
+        return model
 
     def model_neural_net(self):  # Top Level
         pass  # Done
@@ -90,6 +103,13 @@ class Modeling_Parent:
         upcoming_games_df = targets_null_df.dropna(subset=betting_cols)
         return finished_games_df, upcoming_games_df
 
+    def split_train_test_df(self, df):  # Top Level
+        test_size = 0.2
+        test_cutoff = int(len(df) - (len(df) * test_size))
+        train_df = df.iloc[:test_cutoff, :]
+        test_df = df.iloc[test_cutoff:, :]
+        return train_df, test_df
+
     def balance_classes(self, df):  # Top Level
         """
         balances the df so the self.target_col has equal amounts of each class
@@ -123,10 +143,23 @@ class Modeling_Parent:
         X = scaler.fit_transform(X)
         return X, y, scaler
 
-    def split_train_test(self, X, y):  # Top Level
+    def split_train_test(self, X, y, recent_yr_test=True):  # Top Level
         """
         """
-        train_X, val_X, train_y, val_y = train_test_split(X, y, random_state=18)
+        if recent_yr_test:
+            indices = list(range(len(X)))
+            random.shuffle(indices)
+            X = X[indices, :]
+            y = y[indices, ]
+
+            test_size = 0.2
+            test_cutoff = int(len(X) - (len(X) * test_size))
+            train_X = X[:test_cutoff, :]
+            train_y = y[:test_cutoff]
+            val_X = X[test_cutoff:, :]
+            val_y = y[test_cutoff:]
+        else:
+            train_X, val_X, train_y, val_y = train_test_split(X, y, random_state=18)
         return train_X, val_X, train_y, val_y
 
     def _make_load_df(self):  # Specific Helper make_preds
@@ -139,7 +172,7 @@ class Modeling_Parent:
         else:
             df = pd.DataFrame(columns=["Game_Date", "Home", "Away", "Bet_Type", "Bet_Value",
                                        "Bet_ML", "Prediction", "Outcome", "Algorithm",
-                                       "Avg_Past_Games", "Player_Stats", "Pred_ts"])
+                                       "Avg_Past_Games", "Player_Stats", "Dataset", "Pred_ts"])
         return df
 
     def _current_ts(self):  # Specific Helper  make_preds
@@ -157,16 +190,36 @@ class Modeling_Parent:
             prediction = round(preds[i][1], 3)
             new_row = [game_row['Date'], game_row['Home'], game_row['Away'], self.bet_type,
                        game_row[self.bet_value_col], game_row[self.bet_ml_col],
-                       prediction, None, alg, avg_past_games, player_stats_bool, self._current_ts()]
+                       prediction, None, alg, avg_past_games, player_stats_bool, "recent_20pct_test", self._current_ts()]
             df.loc[len(df)] = new_row
+        df.sort_values(by=["Game_Date", "Home", "Away", "Bet_Type", "Algorithm", "Dataset"], inplace=True)
+        df.drop_duplicates(subset=['Game_Date', 'Home', 'Away', 'Bet_Type', 'Bet_Value', 'Bet_ML',
+                                   'Algorithm', 'Avg_Past_Games', 'Player_Stats'], keep='last', inplace=True)
         df.to_csv(ROOT_PATH + f"/Data/Predictions/{self.league}/Predictions.csv", index=False)
         print("Predictions saved!")
+
+    def run(self, df, alg, num_past_games, player_stat_bool):
+        finished_games_df, upcoming_games_df = self.split_finished_upcoming_games(df)
+        train_df, test_df = self.split_train_test_df(finished_games_df)
+        balanced_train_df = self.balance_classes(train_df)
+
+        train_X, train_y, scaler = self.scaled_X_y(balanced_train_df)
+        test_X, test_y, _ = self.scaled_X_y(test_df, scaler)
+
+        model_method = self.model_method_dict[alg]
+        model = model_method(train_X, test_X, train_y, test_y)
+
+        if len(upcoming_games_df) > 0:
+            upcoming_games_X, _, _ = self.scaled_X_y(upcoming_games_df, scaler=scaler)
+            self.make_preds(model, upcoming_games_df, upcoming_games_X, alg, num_past_games, player_stat_bool)
+        self.make_preds(model, test_df, test_X, alg, num_past_games, player_stat_bool)
 
     def run_all(self):  # Run
         """
         running all algorithms on all datasets
         """
         algs = ['logistic regression', 'svm', 'random forest', 'neural net']
+        algs = ['logistic regression', 'random forest']
         num_past_games = [3, 5, 10, 15, 20, 25]
         player_stats_bools = [False, True]
         for alg in algs:
@@ -191,33 +244,34 @@ class Spread_Parent(Modeling_Parent):
         self.target_col = "Home_Covered"
         self.remove_cols = ["Home_Win", "Over_Covered"]
 
-    def _expected_return_thresh(self, preds, labels, thresh):  # Specific Helper expected_return
-        """
-        computing the expected return when only placing on bets that the model
-          is at least 'thresh' % confident on
-        - thresh is the decimal pct for model confidence (0.6 -> model has to be >=60% confident)
-        """
-        assert (thresh >= 0.5) and (thresh <= 1.0), "thresh must be between 0.5 and 1.0"
-        home_cover_preds = [item[1] for item in preds]
-        thresh_preds = []
-        thresh_labels = []
-        for pred, label in zip(home_cover_preds, list(labels)):
-            if abs(pred - 0.5) > (thresh - 0.5):
-                thresh_preds.append(pred)
-                thresh_labels.append(label)
+    # def _expected_return_thresh(self, preds, labels, thresh):  # Specific Helper expected_return
+    #     """
+    #     computing the expected return when only placing on bets that the model
+    #       is at least 'thresh' % confident on
+    #     - thresh is the decimal pct for model confidence (0.6 -> model has to be >=60% confident)
+    #     """
+    #     assert (thresh >= 0.5) and (thresh <= 1.0), "thresh must be between 0.5 and 1.0"
+    #     home_cover_preds = [item[1] for item in preds]
+    #     thresh_preds = []
+    #     thresh_labels = []
+    #     for pred, label in zip(home_cover_preds, list(labels)):
+    #         if abs(pred - 0.5) > (thresh - 0.5):
+    #             thresh_preds.append(pred)
+    #             thresh_labels.append(label)
 
-        return np.array(thresh_preds), np.array(thresh_labels)
+    #     return np.array(thresh_preds), np.array(thresh_labels)
 
-    def expected_return(self, preds, labels, thresh=0.5):  # Top Level
-        preds, labels = self._expected_return_thresh(preds, labels, thresh)
-        binary_preds = np.array([1 if pred >= 0.5 else 0 for pred in preds])
-        num_bets = len(binary_preds)
-        correct = (binary_preds == labels).sum()
-        incorrect = num_bets - correct
-        total_winnings = (correct * (10 / 11)) - incorrect
-        expected_return_on_dollar = total_winnings / num_bets
-        print(f"Won/Lost {round(total_winnings,2)} on {num_bets} bets at {thresh} threshold, for {round(expected_return_on_dollar, 2)} expected return per dollar")
-        return total_winnings
+    # def expected_return(self, preds, labels, thresh=0.5):  # Top Level
+    #     preds, labels = self._expected_return_thresh(preds, labels, thresh)
+    #     binary_preds = np.array([1 if pred >= 0.5 else 0 for pred in preds])
+    #     num_bets = len(binary_preds)
+    #     correct = (binary_preds == labels).sum()
+    #     incorrect = num_bets - correct
+    #     pct_accuracy = round(correct / (correct + incorrect), 2)
+    #     total_winnings = (correct * (10 / 11)) - incorrect
+    #     expected_return_on_dollar = round(total_winnings / num_bets, 4)
+    #     print(f"Won/Lost ${round(total_winnings,2)} on {num_bets} bets at {thresh} threshold, for {round(expected_return_on_dollar, 2)} expected return per dollar")
+    #     return pct_accuracy, expected_return_on_dollar
 
 
 class Total_Parent(Spread_Parent):

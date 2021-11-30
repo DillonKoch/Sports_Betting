@@ -14,6 +14,7 @@
 
 
 import concurrent.futures
+import datetime
 import sys
 from os.path import abspath, dirname
 
@@ -44,7 +45,6 @@ class Merge_Datasets:
     def load_dfs(self):  # Top Level
         """
         loading all the datasets to be merged together
-        TODO add more datasets here once I scrape them!
         """
         espn_games_df = pd.read_csv(self.espn_path)
         odds_df = pd.read_csv(self.odds_path)
@@ -65,8 +65,14 @@ class Merge_Datasets:
 
     def _find_esb_odds(self, home, away, date, esb_df, col, close):  # Top Level
         """
+        locating the esb odds for the given home/away/date
+        - also creating alt_rep_df to swap the home/away teams (sometimes on neutral games different sources mix up home/away)
         """
+        # if home == 'Iowa Hawkeyes' and away == 'Michigan Wolverines':
+        #     print('here')
         rep_df = esb_df.loc[(esb_df['Home'] == home) & (esb_df['Away'] == away) & (esb_df['Date'] == date)]
+        alt_rep_df = esb_df.loc[(esb_df['Home'] == away) & (esb_df['Away'] == home) & (esb_df['Date'] == date)]
+        rep_df = pd.concat([rep_df, alt_rep_df])
         if len(rep_df) > 0:
             rep_vals = list(rep_df[col][rep_df[col].notnull()])  # if opening/closing line is null, taking the next-closest non-null value
             return None if len(rep_vals) == 0 else (rep_vals[-1] if close else rep_vals[0])
@@ -90,9 +96,13 @@ class Merge_Datasets:
         """
         missing = merged_df.loc[merged_df[sbo_col].isnull()]
         home_away_dates = [(home, away, date) for home, away, date in zip(missing['Home'], missing['Away'], missing['Date'])]
+        home_away_dates = [had for had in home_away_dates if had[2] > "2021-11-01"]
+        future_date = datetime.datetime.now() + datetime.timedelta(days=14)
+        home_away_dates = [had for had in home_away_dates if had[2] < future_date.strftime("%Y-%m-%d")]
         replacements = [self._find_esb_odds(*home_away_date, esb_df, esb_col, close) for home_away_date in home_away_dates]
         for home_away_date, replacement in zip(home_away_dates, replacements):
             home, away, date = home_away_date
+
             merged_df.loc[(merged_df['Home'] == home) & (merged_df['Away'] == away) & (merged_df['Date'] == date), sbo_col] = replacement
         return merged_df
 
@@ -115,37 +125,6 @@ class Merge_Datasets:
 
         return merged_df
 
-    def supplement_player_stats(self, final_df):  # Top Level
-        # I have the team/date, just run the player_data.py script to get the player stats and add them
-        # ! have to multithread the hell out of this
-        home_teams = list(final_df['Home'])
-        away_teams = list(final_df["Away"])
-        dates = list(final_df['Date'])
-
-        new_df_cols = ['Home', 'Away', 'Date'] + ["H" + item for item in self.player_data.feature_col_names] + ['A' + item for item in self.player_data.feature_col_names]
-        new_df = pd.DataFrame(columns=new_df_cols)
-
-        # home_stats = [self.player_data.run(home, date) for home, date in tqdm(zip(home_teams, dates))]
-        # away_stats = [self.player_data.run(away, date) for away, date in tqdm(zip(away_teams, dates))]
-        def run_player_data(args):
-            team, date = args
-            return self.player_data.run(team, date)
-        home_inputs = [(home_team, date) for home_team, date in zip(home_teams, dates)]
-        home_stats = multithread(run_player_data, home_inputs)
-        away_inputs = [(away_team, date) for away_team, date in zip(away_teams, dates)]
-        away_stats = multithread(run_player_data, away_inputs)
-        for i, (home, home_stat, away, away_stat, date) in enumerate(zip(home_teams, home_stats, away_teams, away_stats, dates)):
-            new_df.loc[len(new_df)] = [home, away, date] + home_stat + away_stat
-
-        # for i, (home, away, date) in enumerate(zip(home_teams, away_teams, dates)):
-        #     print(i)
-        #     home_stats = self.player_data.run(home, date)
-        #     away_stats = self.player_data.run(away, date)
-        #     new_df.loc[len(new_df)] = [home, away, date] + home_stats + away_stats
-
-        final_df = pd.merge(final_df, new_df, how='left', on=['Home', 'Away', 'Date'])
-        return final_df
-
     def run(self):  # Run
         all_dfs = self.load_dfs()
         final_df = self.add_team_cols(all_dfs[0])
@@ -156,7 +135,6 @@ class Merge_Datasets:
         final_df.drop(['Team1', 'Team2'], axis=1, inplace=True)
 
         final_df = self.supplement_esb_odds(final_df)
-        # final_df = self.supplement_player_stats(final_df)
         final_df.sort_values(by=['Date'], inplace=True)
         final_df.to_csv(ROOT_PATH + f"/Data/{self.league}.csv", index=False)
         return final_df
@@ -168,7 +146,7 @@ class Merge_Datasets:
 
 if __name__ == '__main__':
     for league in ['NFL', 'NBA', 'NCAAF', 'NCAAB']:
-        # for league in ['NCAAB']:
+        # for league in ['NCAAF']:
         print(league)
         x = Merge_Datasets(league)
         self = x
