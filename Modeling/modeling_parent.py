@@ -179,6 +179,12 @@ class Modeling_Parent:
         """returning a string of the current time"""
         return datetime.datetime.now().strftime("%Y-%m-%d %H:%M")
 
+    def _ml_back_to_normal(self, ml):  # Specific Helper make_preds
+        """
+        converting the ML values back to usual for the predictions_df
+        """
+        return ml + 100 if ml > 0 else ml - 100
+
     def make_preds(self, model, upcoming_games_df, upcoming_games_X, alg, avg_past_games, player_stats_bool):  # Top Level
         """
         making predictions on upcoming games and saving to /Data/Predictions/
@@ -188,8 +194,9 @@ class Modeling_Parent:
         for i in range(len(upcoming_games_df)):
             game_row = upcoming_games_df.iloc[i, :]
             prediction = round(preds[i][1], 3)
+            bet_val = game_row[self.bet_value_col] if self.bet_type != "Moneyline" else None
             new_row = [game_row['Date'], game_row['Home'], game_row['Away'], self.bet_type,
-                       game_row[self.bet_value_col], game_row[self.bet_ml_col],
+                       bet_val, self._ml_back_to_normal(game_row[self.bet_ml_col]),
                        prediction, None, alg, avg_past_games, player_stats_bool, "recent_20pct_test", self._current_ts()]
             df.loc[len(df)] = new_row
         df.sort_values(by=["Game_Date", "Home", "Away", "Bet_Type", "Algorithm", "Dataset"], inplace=True)

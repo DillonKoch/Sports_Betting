@@ -21,36 +21,29 @@ if ROOT_PATH not in sys.path:
     sys.path.append(ROOT_PATH)
 
 
-from Modeling.modeling_parent import Modeling_Parent
+from Modeling.modeling_parent import ML_Parent
 
 
-class NCAAB_ML(Modeling_Parent):
+class NCAAB_ML(ML_Parent):
     def __init__(self):
+        super().__init__()
         self.league = "NCAAB"
 
-    def model_baseline_favored_team(self, raw_df):  # Top Level
-        """
-        baseline model for predicting ML's that just picks the favored team every time
-        """
-        raw_df = self.add_home_favored_col(raw_df)
-        preds = raw_df['Home_Favored']
-        labels = raw_df['Home_Win']
-        home_mls = raw_df['Home_ML']
-        away_mls = raw_df['Away_ML']
-        self.plot_confusion_matrix(preds, labels, "NCAAB MoneyLine (1=Home Win)")
-        self.evaluation_metrics(preds, labels)
-        self.moneyline_expected_return(preds, labels, home_mls, away_mls)
-
-    def run(self):  # Run
-        print("-" * 50)
-        print("NCAAB ML")
-        print("-" * 50)
-        raw_df = self.load_raw_df(['Home_ML', 'Away_ML'])
-
-        self.model_baseline_favored_team(raw_df)
+    # def model_baseline_favored_team(self, raw_df):  # Top Level
+    #     """
+    #     baseline model for predicting ML's that just picks the favored team every time
+    #     """
+    #     raw_df = self.add_home_favored_col(raw_df)
+    #     preds = raw_df['Home_Favored']
+    #     labels = raw_df['Home_Win']
+    #     home_mls = raw_df['Home_ML']
+    #     away_mls = raw_df['Away_ML']
+    #     self.plot_confusion_matrix(preds, labels, "NCAAB MoneyLine (1=Home Win)")
+    #     self.evaluation_metrics(preds, labels)
+    #     self.moneyline_expected_return(preds, labels, home_mls, away_mls)
 
 
 if __name__ == '__main__':
     x = NCAAB_ML()
     self = x
-    x.run()
+    x.run_all()

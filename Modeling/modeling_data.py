@@ -198,6 +198,7 @@ class Modeling_Data:
         modeling_df_home_away_dates = [(row['Home'], row['Away'], row['Date']) for i, row in modeling_df.iterrows()]
         missing_game_dicts = [gd for gd in self.game_dicts if (gd['Home'], gd['Away'], gd['Date']) not in modeling_df_home_away_dates]
         missing_home_away_dates = [(mgd['Home'], mgd['Away'], mgd['Date']) for mgd in missing_game_dicts]
+        missing_home_away_dates = [mhad for mhad in missing_home_away_dates if mhad[2] > past_date]
         return update_home_away_dates + missing_home_away_dates
 
     def _team_eligible_date(self, team, num_past_games):  # Specific Helper get_update_game_dicts
@@ -214,7 +215,7 @@ class Modeling_Data:
                 return game_dict['Date']
         return "999999-12-31"
 
-    def get_update_game_dicts(self, update_home_away_dates, num_past_games, days_out=10):  # Top Level
+    def get_update_game_dicts(self, update_home_away_dates, num_past_games, days_out=5):  # Top Level
         """
         - teams are in the ESPN teams json file
         - teams have enough previous games to compute avg stats
@@ -387,14 +388,14 @@ class Modeling_Data:
         runs through all the num past games with and without player stats
         """
         for npg in [3, 5, 10, 15, 20, 25]:
-            for ps in [False, True]:
+            for ps in [False]:
                 print(f"{self.league}, {npg} past games, player stats: {ps}")
-                self.run(npg, ps, days_since=50)
+                self.run(npg, ps, days_since=14)
 
 
 if __name__ == '__main__':
-    for league in ['NFL', 'NBA', 'NCAAF']:
-        # for league in ['NCAAB']:
+    # for league in ['NFL', 'NBA', 'NCAAF']:
+    for league in ['NCAAB']:
         # ! be sure to check on 'days_since' and 'days_out'
         x = Modeling_Data(league)
         x.run_all()

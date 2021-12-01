@@ -49,4 +49,4 @@ class NCAAB_Total(Total_Parent):
 if __name__ == '__main__':
     x = NCAAB_Total()
     self = x
-    x.run()
+    x.run_all()

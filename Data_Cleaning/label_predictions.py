@@ -46,7 +46,13 @@ class Label_Predictions:
         return df
 
     def _find_espn_scores(self, espn_df, home, away, date):  # Specific Helper bet_outcome
+        """
+        finding the scores for a game in the espn_df
+        - alt_row helps with neutral games where sources mix up home/away
+        """
         row = espn_df.loc[(espn_df['Home'] == home) & (espn_df['Away'] == away) & (espn_df['Date'] == date)]
+        alt_row = espn_df.loc[(espn_df['Away'] == home) & (espn_df['Home'] == away) & (espn_df['Date'] == date)]
+        row = pd.concat([row, alt_row])
         row = row.iloc[0, :]
         # * returning None if the game is not Final, otherwise returning ints of the scores
         if (not isinstance(row['Final_Status'], str)) and (np.isnan(row['Final_Status'])):
@@ -110,7 +116,8 @@ class Label_Predictions:
 
 
 if __name__ == '__main__':
-    for league in ['NFL', 'NBA', 'NCAAF', 'NCAAB']:
+    # for league in ['NFL', 'NBA', 'NCAAF', 'NCAAB']:
+    for league in ['NFL']:
         x = Label_Predictions(league)
         self = x
         x.run()

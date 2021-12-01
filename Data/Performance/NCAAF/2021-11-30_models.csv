@@ -1,0 +1,721 @@
+Bet_Type,Algorithm,Player_Stats,Avg_Past_Games,Dataset,Threshold,Bets,Accuracy,Expected_Value,Eval_ts
+Total,logistic regression,False,3,recent_20pct_test,0.5,1956,,0.0,2021-11-30 16:29:00
+Total,logistic regression,False,3,recent_20pct_test,0.55,959,,0.0,2021-11-30 16:29:00
+Total,logistic regression,False,3,recent_20pct_test,0.6,349,,0.0,2021-11-30 16:29:00
+Total,logistic regression,False,3,recent_20pct_test,0.65,63,,0.0,2021-11-30 16:29:00
+Total,logistic regression,False,3,recent_20pct_test,0.7,6,,0.0,2021-11-30 16:29:00
+Total,logistic regression,False,5,recent_20pct_test,0.5,1935,,0.0,2021-11-30 16:29:00
+Total,logistic regression,False,5,recent_20pct_test,0.55,1024,,0.0,2021-11-30 16:29:00
+Total,logistic regression,False,5,recent_20pct_test,0.6,384,,0.0,2021-11-30 16:29:00
+Total,logistic regression,False,5,recent_20pct_test,0.65,88,,0.0,2021-11-30 16:29:00
+Total,logistic regression,False,5,recent_20pct_test,0.7,15,,0.0,2021-11-30 16:29:00
+Total,logistic regression,False,10,recent_20pct_test,0.5,1882,,0.0,2021-11-30 16:29:00
+Total,logistic regression,False,10,recent_20pct_test,0.55,919,,0.0,2021-11-30 16:29:00
+Total,logistic regression,False,10,recent_20pct_test,0.6,318,,0.0,2021-11-30 16:29:00
+Total,logistic regression,False,10,recent_20pct_test,0.65,75,,0.0,2021-11-30 16:29:00
+Total,logistic regression,False,10,recent_20pct_test,0.7,10,,0.0,2021-11-30 16:29:00
+Total,logistic regression,False,15,recent_20pct_test,0.5,1830,,0.0,2021-11-30 16:29:00
+Total,logistic regression,False,15,recent_20pct_test,0.55,966,,0.0,2021-11-30 16:29:00
+Total,logistic regression,False,15,recent_20pct_test,0.6,373,,0.0,2021-11-30 16:29:00
+Total,logistic regression,False,15,recent_20pct_test,0.65,113,,0.0,2021-11-30 16:29:00
+Total,logistic regression,False,15,recent_20pct_test,0.7,29,,0.0,2021-11-30 16:29:00
+Total,logistic regression,False,20,recent_20pct_test,0.5,1776,,0.0,2021-11-30 16:29:00
+Total,logistic regression,False,20,recent_20pct_test,0.55,938,,0.0,2021-11-30 16:29:00
+Total,logistic regression,False,20,recent_20pct_test,0.6,405,,0.0,2021-11-30 16:29:00
+Total,logistic regression,False,20,recent_20pct_test,0.65,126,,0.0,2021-11-30 16:29:00
+Total,logistic regression,False,20,recent_20pct_test,0.7,31,,0.0,2021-11-30 16:29:00
+Total,logistic regression,False,25,recent_20pct_test,0.5,1722,,0.0,2021-11-30 16:29:00
+Total,logistic regression,False,25,recent_20pct_test,0.55,951,,0.0,2021-11-30 16:29:00
+Total,logistic regression,False,25,recent_20pct_test,0.6,431,,0.0,2021-11-30 16:29:00
+Total,logistic regression,False,25,recent_20pct_test,0.65,152,,0.0,2021-11-30 16:29:00
+Total,logistic regression,False,25,recent_20pct_test,0.7,48,,0.0,2021-11-30 16:29:00
+Total,logistic regression,True,3,recent_20pct_test,0.5,1956,,0.0,2021-11-30 16:29:00
+Total,logistic regression,True,3,recent_20pct_test,0.55,1802,,0.0,2021-11-30 16:29:00
+Total,logistic regression,True,3,recent_20pct_test,0.6,1635,,0.0,2021-11-30 16:29:00
+Total,logistic regression,True,3,recent_20pct_test,0.65,1421,,0.0,2021-11-30 16:29:01
+Total,logistic regression,True,3,recent_20pct_test,0.7,1225,,0.0,2021-11-30 16:29:01
+Total,logistic regression,True,5,recent_20pct_test,0.5,1935,,0.0,2021-11-30 16:29:01
+Total,logistic regression,True,5,recent_20pct_test,0.55,1768,,0.0,2021-11-30 16:29:01
+Total,logistic regression,True,5,recent_20pct_test,0.6,1589,,0.0,2021-11-30 16:29:01
+Total,logistic regression,True,5,recent_20pct_test,0.65,1420,,0.0,2021-11-30 16:29:01
+Total,logistic regression,True,5,recent_20pct_test,0.7,1236,,0.0,2021-11-30 16:29:01
+Total,logistic regression,True,10,recent_20pct_test,0.5,1882,,0.0,2021-11-30 16:29:01
+Total,logistic regression,True,10,recent_20pct_test,0.55,1732,,0.0,2021-11-30 16:29:01
+Total,logistic regression,True,10,recent_20pct_test,0.6,1569,,0.0,2021-11-30 16:29:01
+Total,logistic regression,True,10,recent_20pct_test,0.65,1395,,0.0,2021-11-30 16:29:01
+Total,logistic regression,True,10,recent_20pct_test,0.7,1212,,0.0,2021-11-30 16:29:01
+Total,logistic regression,True,15,recent_20pct_test,0.5,1830,,0.0,2021-11-30 16:29:01
+Total,logistic regression,True,15,recent_20pct_test,0.55,1652,,0.0,2021-11-30 16:29:01
+Total,logistic regression,True,15,recent_20pct_test,0.6,1481,,0.0,2021-11-30 16:29:01
+Total,logistic regression,True,15,recent_20pct_test,0.65,1308,,0.0,2021-11-30 16:29:01
+Total,logistic regression,True,15,recent_20pct_test,0.7,1142,,0.0,2021-11-30 16:29:01
+Total,logistic regression,True,20,recent_20pct_test,0.5,1776,,0.0,2021-11-30 16:29:01
+Total,logistic regression,True,20,recent_20pct_test,0.55,1615,,0.0,2021-11-30 16:29:01
+Total,logistic regression,True,20,recent_20pct_test,0.6,1460,,0.0,2021-11-30 16:29:01
+Total,logistic regression,True,20,recent_20pct_test,0.65,1307,,0.0,2021-11-30 16:29:01
+Total,logistic regression,True,20,recent_20pct_test,0.7,1151,,0.0,2021-11-30 16:29:01
+Total,logistic regression,True,25,recent_20pct_test,0.5,1722,,0.0,2021-11-30 16:29:01
+Total,logistic regression,True,25,recent_20pct_test,0.55,1561,,0.0,2021-11-30 16:29:01
+Total,logistic regression,True,25,recent_20pct_test,0.6,1400,,0.0,2021-11-30 16:29:01
+Total,logistic regression,True,25,recent_20pct_test,0.65,1240,,0.0,2021-11-30 16:29:01
+Total,logistic regression,True,25,recent_20pct_test,0.7,1093,,0.0,2021-11-30 16:29:01
+Total,random forest,False,3,recent_20pct_test,0.5,1956,,0.0,2021-11-30 16:29:01
+Total,random forest,False,3,recent_20pct_test,0.55,313,,0.0,2021-11-30 16:29:01
+Total,random forest,False,3,recent_20pct_test,0.6,24,,0.0,2021-11-30 16:29:01
+Total,random forest,False,3,recent_20pct_test,0.65,1,,0.0,2021-11-30 16:29:01
+Total,random forest,False,5,recent_20pct_test,0.5,1935,,0.0,2021-11-30 16:29:01
+Total,random forest,False,5,recent_20pct_test,0.55,312,,0.0,2021-11-30 16:29:01
+Total,random forest,False,5,recent_20pct_test,0.6,7,,0.0,2021-11-30 16:29:01
+Total,random forest,False,10,recent_20pct_test,0.5,1882,,0.0,2021-11-30 16:29:01
+Total,random forest,False,10,recent_20pct_test,0.55,229,,0.0,2021-11-30 16:29:01
+Total,random forest,False,10,recent_20pct_test,0.6,10,,0.0,2021-11-30 16:29:01
+Total,random forest,False,10,recent_20pct_test,0.65,1,,0.0,2021-11-30 16:29:01
+Total,random forest,False,15,recent_20pct_test,0.5,1830,,0.0,2021-11-30 16:29:01
+Total,random forest,False,15,recent_20pct_test,0.55,293,,0.0,2021-11-30 16:29:01
+Total,random forest,False,15,recent_20pct_test,0.6,16,,0.0,2021-11-30 16:29:01
+Total,random forest,False,20,recent_20pct_test,0.5,1776,,0.0,2021-11-30 16:29:01
+Total,random forest,False,20,recent_20pct_test,0.55,281,,0.0,2021-11-30 16:29:01
+Total,random forest,False,20,recent_20pct_test,0.6,18,,0.0,2021-11-30 16:29:02
+Total,random forest,False,20,recent_20pct_test,0.65,1,,0.0,2021-11-30 16:29:02
+Total,random forest,False,25,recent_20pct_test,0.5,1722,,0.0,2021-11-30 16:29:02
+Total,random forest,False,25,recent_20pct_test,0.55,266,,0.0,2021-11-30 16:29:02
+Total,random forest,False,25,recent_20pct_test,0.6,18,,0.0,2021-11-30 16:29:02
+Total,random forest,False,25,recent_20pct_test,0.65,1,,0.0,2021-11-30 16:29:02
+Total,random forest,True,3,recent_20pct_test,0.5,1956,,0.0,2021-11-30 16:29:02
+Total,random forest,True,3,recent_20pct_test,0.55,636,,0.0,2021-11-30 16:29:02
+Total,random forest,True,3,recent_20pct_test,0.6,104,,0.0,2021-11-30 16:29:02
+Total,random forest,True,3,recent_20pct_test,0.65,6,,0.0,2021-11-30 16:29:02
+Total,random forest,True,5,recent_20pct_test,0.5,1935,,0.0,2021-11-30 16:29:02
+Total,random forest,True,5,recent_20pct_test,0.55,611,,0.0,2021-11-30 16:29:02
+Total,random forest,True,5,recent_20pct_test,0.6,91,,0.0,2021-11-30 16:29:02
+Total,random forest,True,5,recent_20pct_test,0.65,3,,0.0,2021-11-30 16:29:02
+Total,random forest,True,10,recent_20pct_test,0.5,1882,,0.0,2021-11-30 16:29:02
+Total,random forest,True,10,recent_20pct_test,0.55,643,,0.0,2021-11-30 16:29:02
+Total,random forest,True,10,recent_20pct_test,0.6,102,,0.0,2021-11-30 16:29:02
+Total,random forest,True,10,recent_20pct_test,0.65,8,,0.0,2021-11-30 16:29:02
+Total,random forest,True,15,recent_20pct_test,0.5,1830,,0.0,2021-11-30 16:29:02
+Total,random forest,True,15,recent_20pct_test,0.55,570,,0.0,2021-11-30 16:29:02
+Total,random forest,True,15,recent_20pct_test,0.6,77,,0.0,2021-11-30 16:29:02
+Total,random forest,True,15,recent_20pct_test,0.65,4,,0.0,2021-11-30 16:29:02
+Total,random forest,True,20,recent_20pct_test,0.5,1776,,0.0,2021-11-30 16:29:02
+Total,random forest,True,20,recent_20pct_test,0.55,573,,0.0,2021-11-30 16:29:02
+Total,random forest,True,20,recent_20pct_test,0.6,79,,0.0,2021-11-30 16:29:02
+Total,random forest,True,20,recent_20pct_test,0.65,5,,0.0,2021-11-30 16:29:02
+Total,random forest,True,25,recent_20pct_test,0.5,1722,,0.0,2021-11-30 16:29:02
+Total,random forest,True,25,recent_20pct_test,0.55,555,,0.0,2021-11-30 16:29:02
+Total,random forest,True,25,recent_20pct_test,0.6,80,,0.0,2021-11-30 16:29:02
+Total,random forest,True,25,recent_20pct_test,0.65,7,,0.0,2021-11-30 16:29:02
+Total,random forest,False,3,recent_20pct_test,0.7,0,,,2021-11-30 16:29:01
+Total,random forest,False,5,recent_20pct_test,0.65,0,,,2021-11-30 16:29:01
+Total,random forest,False,5,recent_20pct_test,0.7,0,,,2021-11-30 16:29:01
+Total,random forest,False,10,recent_20pct_test,0.7,0,,,2021-11-30 16:29:01
+Total,random forest,False,15,recent_20pct_test,0.65,0,,,2021-11-30 16:29:01
+Total,random forest,False,15,recent_20pct_test,0.7,0,,,2021-11-30 16:29:01
+Total,random forest,False,20,recent_20pct_test,0.7,0,,,2021-11-30 16:29:02
+Total,random forest,False,25,recent_20pct_test,0.7,0,,,2021-11-30 16:29:02
+Total,random forest,True,3,recent_20pct_test,0.7,0,,,2021-11-30 16:29:02
+Total,random forest,True,5,recent_20pct_test,0.7,0,,,2021-11-30 16:29:02
+Total,random forest,True,10,recent_20pct_test,0.7,0,,,2021-11-30 16:29:02
+Total,random forest,True,15,recent_20pct_test,0.7,0,,,2021-11-30 16:29:02
+Total,random forest,True,20,recent_20pct_test,0.7,0,,,2021-11-30 16:29:02
+Total,random forest,True,25,recent_20pct_test,0.7,0,,,2021-11-30 16:29:02
+Total,svm,False,3,recent_20pct_test,0.5,0,,,2021-11-30 16:29:02
+Total,svm,False,3,recent_20pct_test,0.55,0,,,2021-11-30 16:29:02
+Total,svm,False,3,recent_20pct_test,0.6,0,,,2021-11-30 16:29:02
+Total,svm,False,3,recent_20pct_test,0.65,0,,,2021-11-30 16:29:02
+Total,svm,False,3,recent_20pct_test,0.7,0,,,2021-11-30 16:29:02
+Total,svm,False,5,recent_20pct_test,0.5,0,,,2021-11-30 16:29:02
+Total,svm,False,5,recent_20pct_test,0.55,0,,,2021-11-30 16:29:02
+Total,svm,False,5,recent_20pct_test,0.6,0,,,2021-11-30 16:29:02
+Total,svm,False,5,recent_20pct_test,0.65,0,,,2021-11-30 16:29:02
+Total,svm,False,5,recent_20pct_test,0.7,0,,,2021-11-30 16:29:02
+Total,svm,False,10,recent_20pct_test,0.5,0,,,2021-11-30 16:29:02
+Total,svm,False,10,recent_20pct_test,0.55,0,,,2021-11-30 16:29:02
+Total,svm,False,10,recent_20pct_test,0.6,0,,,2021-11-30 16:29:03
+Total,svm,False,10,recent_20pct_test,0.65,0,,,2021-11-30 16:29:03
+Total,svm,False,10,recent_20pct_test,0.7,0,,,2021-11-30 16:29:03
+Total,svm,False,15,recent_20pct_test,0.5,0,,,2021-11-30 16:29:03
+Total,svm,False,15,recent_20pct_test,0.55,0,,,2021-11-30 16:29:03
+Total,svm,False,15,recent_20pct_test,0.6,0,,,2021-11-30 16:29:03
+Total,svm,False,15,recent_20pct_test,0.65,0,,,2021-11-30 16:29:03
+Total,svm,False,15,recent_20pct_test,0.7,0,,,2021-11-30 16:29:03
+Total,svm,False,20,recent_20pct_test,0.5,0,,,2021-11-30 16:29:03
+Total,svm,False,20,recent_20pct_test,0.55,0,,,2021-11-30 16:29:03
+Total,svm,False,20,recent_20pct_test,0.6,0,,,2021-11-30 16:29:03
+Total,svm,False,20,recent_20pct_test,0.65,0,,,2021-11-30 16:29:03
+Total,svm,False,20,recent_20pct_test,0.7,0,,,2021-11-30 16:29:03
+Total,svm,False,25,recent_20pct_test,0.5,0,,,2021-11-30 16:29:03
+Total,svm,False,25,recent_20pct_test,0.55,0,,,2021-11-30 16:29:03
+Total,svm,False,25,recent_20pct_test,0.6,0,,,2021-11-30 16:29:03
+Total,svm,False,25,recent_20pct_test,0.65,0,,,2021-11-30 16:29:03
+Total,svm,False,25,recent_20pct_test,0.7,0,,,2021-11-30 16:29:03
+Total,svm,True,3,recent_20pct_test,0.5,0,,,2021-11-30 16:29:03
+Total,svm,True,3,recent_20pct_test,0.55,0,,,2021-11-30 16:29:03
+Total,svm,True,3,recent_20pct_test,0.6,0,,,2021-11-30 16:29:03
+Total,svm,True,3,recent_20pct_test,0.65,0,,,2021-11-30 16:29:03
+Total,svm,True,3,recent_20pct_test,0.7,0,,,2021-11-30 16:29:03
+Total,svm,True,5,recent_20pct_test,0.5,0,,,2021-11-30 16:29:03
+Total,svm,True,5,recent_20pct_test,0.55,0,,,2021-11-30 16:29:03
+Total,svm,True,5,recent_20pct_test,0.6,0,,,2021-11-30 16:29:03
+Total,svm,True,5,recent_20pct_test,0.65,0,,,2021-11-30 16:29:03
+Total,svm,True,5,recent_20pct_test,0.7,0,,,2021-11-30 16:29:03
+Total,svm,True,10,recent_20pct_test,0.5,0,,,2021-11-30 16:29:03
+Total,svm,True,10,recent_20pct_test,0.55,0,,,2021-11-30 16:29:03
+Total,svm,True,10,recent_20pct_test,0.6,0,,,2021-11-30 16:29:03
+Total,svm,True,10,recent_20pct_test,0.65,0,,,2021-11-30 16:29:03
+Total,svm,True,10,recent_20pct_test,0.7,0,,,2021-11-30 16:29:03
+Total,svm,True,15,recent_20pct_test,0.5,0,,,2021-11-30 16:29:03
+Total,svm,True,15,recent_20pct_test,0.55,0,,,2021-11-30 16:29:03
+Total,svm,True,15,recent_20pct_test,0.6,0,,,2021-11-30 16:29:03
+Total,svm,True,15,recent_20pct_test,0.65,0,,,2021-11-30 16:29:03
+Total,svm,True,15,recent_20pct_test,0.7,0,,,2021-11-30 16:29:03
+Total,svm,True,20,recent_20pct_test,0.5,0,,,2021-11-30 16:29:03
+Total,svm,True,20,recent_20pct_test,0.55,0,,,2021-11-30 16:29:03
+Total,svm,True,20,recent_20pct_test,0.6,0,,,2021-11-30 16:29:03
+Total,svm,True,20,recent_20pct_test,0.65,0,,,2021-11-30 16:29:03
+Total,svm,True,20,recent_20pct_test,0.7,0,,,2021-11-30 16:29:03
+Total,svm,True,25,recent_20pct_test,0.5,0,,,2021-11-30 16:29:03
+Total,svm,True,25,recent_20pct_test,0.55,0,,,2021-11-30 16:29:03
+Total,svm,True,25,recent_20pct_test,0.6,0,,,2021-11-30 16:29:03
+Total,svm,True,25,recent_20pct_test,0.65,0,,,2021-11-30 16:29:03
+Total,svm,True,25,recent_20pct_test,0.7,0,,,2021-11-30 16:29:03
+Total,neural net,False,3,recent_20pct_test,0.5,0,,,2021-11-30 16:29:03
+Total,neural net,False,3,recent_20pct_test,0.55,0,,,2021-11-30 16:29:03
+Total,neural net,False,3,recent_20pct_test,0.6,0,,,2021-11-30 16:29:03
+Total,neural net,False,3,recent_20pct_test,0.65,0,,,2021-11-30 16:29:03
+Total,neural net,False,3,recent_20pct_test,0.7,0,,,2021-11-30 16:29:03
+Total,neural net,False,5,recent_20pct_test,0.5,0,,,2021-11-30 16:29:04
+Total,neural net,False,5,recent_20pct_test,0.55,0,,,2021-11-30 16:29:04
+Total,neural net,False,5,recent_20pct_test,0.6,0,,,2021-11-30 16:29:04
+Total,neural net,False,5,recent_20pct_test,0.65,0,,,2021-11-30 16:29:04
+Total,neural net,False,5,recent_20pct_test,0.7,0,,,2021-11-30 16:29:04
+Total,neural net,False,10,recent_20pct_test,0.5,0,,,2021-11-30 16:29:04
+Total,neural net,False,10,recent_20pct_test,0.55,0,,,2021-11-30 16:29:04
+Total,neural net,False,10,recent_20pct_test,0.6,0,,,2021-11-30 16:29:04
+Total,neural net,False,10,recent_20pct_test,0.65,0,,,2021-11-30 16:29:04
+Total,neural net,False,10,recent_20pct_test,0.7,0,,,2021-11-30 16:29:04
+Total,neural net,False,15,recent_20pct_test,0.5,0,,,2021-11-30 16:29:04
+Total,neural net,False,15,recent_20pct_test,0.55,0,,,2021-11-30 16:29:04
+Total,neural net,False,15,recent_20pct_test,0.6,0,,,2021-11-30 16:29:04
+Total,neural net,False,15,recent_20pct_test,0.65,0,,,2021-11-30 16:29:04
+Total,neural net,False,15,recent_20pct_test,0.7,0,,,2021-11-30 16:29:04
+Total,neural net,False,20,recent_20pct_test,0.5,0,,,2021-11-30 16:29:04
+Total,neural net,False,20,recent_20pct_test,0.55,0,,,2021-11-30 16:29:04
+Total,neural net,False,20,recent_20pct_test,0.6,0,,,2021-11-30 16:29:04
+Total,neural net,False,20,recent_20pct_test,0.65,0,,,2021-11-30 16:29:04
+Total,neural net,False,20,recent_20pct_test,0.7,0,,,2021-11-30 16:29:04
+Total,neural net,False,25,recent_20pct_test,0.5,0,,,2021-11-30 16:29:04
+Total,neural net,False,25,recent_20pct_test,0.55,0,,,2021-11-30 16:29:04
+Total,neural net,False,25,recent_20pct_test,0.6,0,,,2021-11-30 16:29:04
+Total,neural net,False,25,recent_20pct_test,0.65,0,,,2021-11-30 16:29:04
+Total,neural net,False,25,recent_20pct_test,0.7,0,,,2021-11-30 16:29:04
+Total,neural net,True,3,recent_20pct_test,0.5,0,,,2021-11-30 16:29:04
+Total,neural net,True,3,recent_20pct_test,0.55,0,,,2021-11-30 16:29:04
+Total,neural net,True,3,recent_20pct_test,0.6,0,,,2021-11-30 16:29:04
+Total,neural net,True,3,recent_20pct_test,0.65,0,,,2021-11-30 16:29:04
+Total,neural net,True,3,recent_20pct_test,0.7,0,,,2021-11-30 16:29:04
+Total,neural net,True,5,recent_20pct_test,0.5,0,,,2021-11-30 16:29:04
+Total,neural net,True,5,recent_20pct_test,0.55,0,,,2021-11-30 16:29:04
+Total,neural net,True,5,recent_20pct_test,0.6,0,,,2021-11-30 16:29:04
+Total,neural net,True,5,recent_20pct_test,0.65,0,,,2021-11-30 16:29:04
+Total,neural net,True,5,recent_20pct_test,0.7,0,,,2021-11-30 16:29:04
+Total,neural net,True,10,recent_20pct_test,0.5,0,,,2021-11-30 16:29:04
+Total,neural net,True,10,recent_20pct_test,0.55,0,,,2021-11-30 16:29:04
+Total,neural net,True,10,recent_20pct_test,0.6,0,,,2021-11-30 16:29:04
+Total,neural net,True,10,recent_20pct_test,0.65,0,,,2021-11-30 16:29:04
+Total,neural net,True,10,recent_20pct_test,0.7,0,,,2021-11-30 16:29:04
+Total,neural net,True,15,recent_20pct_test,0.5,0,,,2021-11-30 16:29:04
+Total,neural net,True,15,recent_20pct_test,0.55,0,,,2021-11-30 16:29:04
+Total,neural net,True,15,recent_20pct_test,0.6,0,,,2021-11-30 16:29:04
+Total,neural net,True,15,recent_20pct_test,0.65,0,,,2021-11-30 16:29:04
+Total,neural net,True,15,recent_20pct_test,0.7,0,,,2021-11-30 16:29:04
+Total,neural net,True,20,recent_20pct_test,0.5,0,,,2021-11-30 16:29:04
+Total,neural net,True,20,recent_20pct_test,0.55,0,,,2021-11-30 16:29:04
+Total,neural net,True,20,recent_20pct_test,0.6,0,,,2021-11-30 16:29:04
+Total,neural net,True,20,recent_20pct_test,0.65,0,,,2021-11-30 16:29:04
+Total,neural net,True,20,recent_20pct_test,0.7,0,,,2021-11-30 16:29:04
+Total,neural net,True,25,recent_20pct_test,0.5,0,,,2021-11-30 16:29:04
+Total,neural net,True,25,recent_20pct_test,0.55,0,,,2021-11-30 16:29:04
+Total,neural net,True,25,recent_20pct_test,0.6,0,,,2021-11-30 16:29:04
+Total,neural net,True,25,recent_20pct_test,0.65,0,,,2021-11-30 16:29:05
+Total,neural net,True,25,recent_20pct_test,0.7,0,,,2021-11-30 16:29:05
+Spread,logistic regression,False,3,recent_20pct_test,0.5,1956,,0.0,2021-11-30 16:29:05
+Spread,logistic regression,False,3,recent_20pct_test,0.55,904,,0.0,2021-11-30 16:29:05
+Spread,logistic regression,False,3,recent_20pct_test,0.6,283,,0.0,2021-11-30 16:29:05
+Spread,logistic regression,False,3,recent_20pct_test,0.65,55,,0.0,2021-11-30 16:29:05
+Spread,logistic regression,False,3,recent_20pct_test,0.7,8,,0.0,2021-11-30 16:29:05
+Spread,logistic regression,False,5,recent_20pct_test,0.5,1935,,0.0,2021-11-30 16:29:05
+Spread,logistic regression,False,5,recent_20pct_test,0.55,936,,0.0,2021-11-30 16:29:05
+Spread,logistic regression,False,5,recent_20pct_test,0.6,300,,0.0,2021-11-30 16:29:05
+Spread,logistic regression,False,5,recent_20pct_test,0.65,62,,0.0,2021-11-30 16:29:05
+Spread,logistic regression,False,5,recent_20pct_test,0.7,10,,0.0,2021-11-30 16:29:05
+Spread,logistic regression,False,10,recent_20pct_test,0.5,1882,,0.0,2021-11-30 16:29:05
+Spread,logistic regression,False,10,recent_20pct_test,0.55,1004,,0.0,2021-11-30 16:29:05
+Spread,logistic regression,False,10,recent_20pct_test,0.6,393,,0.0,2021-11-30 16:29:05
+Spread,logistic regression,False,10,recent_20pct_test,0.65,109,,0.0,2021-11-30 16:29:05
+Spread,logistic regression,False,10,recent_20pct_test,0.7,20,,0.0,2021-11-30 16:29:05
+Spread,logistic regression,False,15,recent_20pct_test,0.5,1830,,0.0,2021-11-30 16:29:05
+Spread,logistic regression,False,15,recent_20pct_test,0.55,1000,,0.0,2021-11-30 16:29:05
+Spread,logistic regression,False,15,recent_20pct_test,0.6,410,,0.0,2021-11-30 16:29:05
+Spread,logistic regression,False,15,recent_20pct_test,0.65,130,,0.0,2021-11-30 16:29:05
+Spread,logistic regression,False,15,recent_20pct_test,0.7,36,,0.0,2021-11-30 16:29:05
+Spread,logistic regression,False,20,recent_20pct_test,0.5,1776,,0.0,2021-11-30 16:29:05
+Spread,logistic regression,False,20,recent_20pct_test,0.55,1029,,0.0,2021-11-30 16:29:05
+Spread,logistic regression,False,20,recent_20pct_test,0.6,470,,0.0,2021-11-30 16:29:05
+Spread,logistic regression,False,20,recent_20pct_test,0.65,155,,0.0,2021-11-30 16:29:05
+Spread,logistic regression,False,20,recent_20pct_test,0.7,42,,0.0,2021-11-30 16:29:05
+Spread,logistic regression,False,25,recent_20pct_test,0.5,1722,,0.0,2021-11-30 16:29:05
+Spread,logistic regression,False,25,recent_20pct_test,0.55,933,,0.0,2021-11-30 16:29:05
+Spread,logistic regression,False,25,recent_20pct_test,0.6,406,,0.0,2021-11-30 16:29:05
+Spread,logistic regression,False,25,recent_20pct_test,0.65,145,,0.0,2021-11-30 16:29:05
+Spread,logistic regression,False,25,recent_20pct_test,0.7,40,,0.0,2021-11-30 16:29:05
+Spread,logistic regression,True,3,recent_20pct_test,0.5,1956,,0.0,2021-11-30 16:29:05
+Spread,logistic regression,True,3,recent_20pct_test,0.55,1771,,0.0,2021-11-30 16:29:05
+Spread,logistic regression,True,3,recent_20pct_test,0.6,1583,,0.0,2021-11-30 16:29:05
+Spread,logistic regression,True,3,recent_20pct_test,0.65,1412,,0.0,2021-11-30 16:29:05
+Spread,logistic regression,True,3,recent_20pct_test,0.7,1229,,0.0,2021-11-30 16:29:05
+Spread,logistic regression,True,5,recent_20pct_test,0.5,1935,,0.0,2021-11-30 16:29:05
+Spread,logistic regression,True,5,recent_20pct_test,0.55,1758,,0.0,2021-11-30 16:29:05
+Spread,logistic regression,True,5,recent_20pct_test,0.6,1571,,0.0,2021-11-30 16:29:05
+Spread,logistic regression,True,5,recent_20pct_test,0.65,1408,,0.0,2021-11-30 16:29:05
+Spread,logistic regression,True,5,recent_20pct_test,0.7,1241,,0.0,2021-11-30 16:29:05
+Spread,logistic regression,True,10,recent_20pct_test,0.5,1882,,0.0,2021-11-30 16:29:05
+Spread,logistic regression,True,10,recent_20pct_test,0.55,1719,,0.0,2021-11-30 16:29:05
+Spread,logistic regression,True,10,recent_20pct_test,0.6,1574,,0.0,2021-11-30 16:29:05
+Spread,logistic regression,True,10,recent_20pct_test,0.65,1421,,0.0,2021-11-30 16:29:05
+Spread,logistic regression,True,10,recent_20pct_test,0.7,1210,,0.0,2021-11-30 16:29:05
+Spread,logistic regression,True,15,recent_20pct_test,0.5,1830,,0.0,2021-11-30 16:29:06
+Spread,logistic regression,True,15,recent_20pct_test,0.55,1659,,0.0,2021-11-30 16:29:06
+Spread,logistic regression,True,15,recent_20pct_test,0.6,1501,,0.0,2021-11-30 16:29:06
+Spread,logistic regression,True,15,recent_20pct_test,0.65,1352,,0.0,2021-11-30 16:29:06
+Spread,logistic regression,True,15,recent_20pct_test,0.7,1181,,0.0,2021-11-30 16:29:06
+Spread,logistic regression,True,20,recent_20pct_test,0.5,1776,,0.0,2021-11-30 16:29:06
+Spread,logistic regression,True,20,recent_20pct_test,0.55,1611,,0.0,2021-11-30 16:29:06
+Spread,logistic regression,True,20,recent_20pct_test,0.6,1445,,0.0,2021-11-30 16:29:06
+Spread,logistic regression,True,20,recent_20pct_test,0.65,1269,,0.0,2021-11-30 16:29:06
+Spread,logistic regression,True,20,recent_20pct_test,0.7,1105,,0.0,2021-11-30 16:29:06
+Spread,logistic regression,True,25,recent_20pct_test,0.5,1722,,0.0,2021-11-30 16:29:06
+Spread,logistic regression,True,25,recent_20pct_test,0.55,1568,,0.0,2021-11-30 16:29:06
+Spread,logistic regression,True,25,recent_20pct_test,0.6,1408,,0.0,2021-11-30 16:29:06
+Spread,logistic regression,True,25,recent_20pct_test,0.65,1235,,0.0,2021-11-30 16:29:06
+Spread,logistic regression,True,25,recent_20pct_test,0.7,1068,,0.0,2021-11-30 16:29:06
+Spread,random forest,False,3,recent_20pct_test,0.5,1956,,0.0,2021-11-30 16:29:06
+Spread,random forest,False,3,recent_20pct_test,0.55,291,,0.0,2021-11-30 16:29:06
+Spread,random forest,False,3,recent_20pct_test,0.6,15,,0.0,2021-11-30 16:29:06
+Spread,random forest,False,5,recent_20pct_test,0.5,1935,,0.0,2021-11-30 16:29:06
+Spread,random forest,False,5,recent_20pct_test,0.55,227,,0.0,2021-11-30 16:29:06
+Spread,random forest,False,5,recent_20pct_test,0.6,17,,0.0,2021-11-30 16:29:06
+Spread,random forest,False,10,recent_20pct_test,0.5,1882,,0.0,2021-11-30 16:29:06
+Spread,random forest,False,10,recent_20pct_test,0.55,331,,0.0,2021-11-30 16:29:06
+Spread,random forest,False,10,recent_20pct_test,0.6,29,,0.0,2021-11-30 16:29:06
+Spread,random forest,False,10,recent_20pct_test,0.65,1,,0.0,2021-11-30 16:29:06
+Spread,random forest,False,15,recent_20pct_test,0.5,1830,,0.0,2021-11-30 16:29:06
+Spread,random forest,False,15,recent_20pct_test,0.55,329,,0.0,2021-11-30 16:29:06
+Spread,random forest,False,15,recent_20pct_test,0.6,35,,0.0,2021-11-30 16:29:06
+Spread,random forest,False,15,recent_20pct_test,0.65,1,,0.0,2021-11-30 16:29:06
+Spread,random forest,False,20,recent_20pct_test,0.5,1776,,0.0,2021-11-30 16:29:06
+Spread,random forest,False,20,recent_20pct_test,0.55,282,,0.0,2021-11-30 16:29:06
+Spread,random forest,False,20,recent_20pct_test,0.6,31,,0.0,2021-11-30 16:29:06
+Spread,random forest,False,20,recent_20pct_test,0.65,1,,0.0,2021-11-30 16:29:06
+Spread,random forest,False,25,recent_20pct_test,0.5,1722,,0.0,2021-11-30 16:29:06
+Spread,random forest,False,25,recent_20pct_test,0.55,295,,0.0,2021-11-30 16:29:06
+Spread,random forest,False,25,recent_20pct_test,0.6,18,,0.0,2021-11-30 16:29:06
+Spread,random forest,False,25,recent_20pct_test,0.65,1,,0.0,2021-11-30 16:29:06
+Spread,random forest,True,3,recent_20pct_test,0.5,1956,,0.0,2021-11-30 16:29:06
+Spread,random forest,True,3,recent_20pct_test,0.55,735,,0.0,2021-11-30 16:29:07
+Spread,random forest,True,3,recent_20pct_test,0.6,196,,0.0,2021-11-30 16:29:07
+Spread,random forest,True,3,recent_20pct_test,0.65,41,,0.0,2021-11-30 16:29:07
+Spread,random forest,True,3,recent_20pct_test,0.7,4,,0.0,2021-11-30 16:29:07
+Spread,random forest,True,5,recent_20pct_test,0.5,1935,,0.0,2021-11-30 16:29:07
+Spread,random forest,True,5,recent_20pct_test,0.55,757,,0.0,2021-11-30 16:29:07
+Spread,random forest,True,5,recent_20pct_test,0.6,180,,0.0,2021-11-30 16:29:07
+Spread,random forest,True,5,recent_20pct_test,0.65,23,,0.0,2021-11-30 16:29:07
+Spread,random forest,True,5,recent_20pct_test,0.7,3,,0.0,2021-11-30 16:29:07
+Spread,random forest,True,10,recent_20pct_test,0.5,1882,,0.0,2021-11-30 16:29:07
+Spread,random forest,True,10,recent_20pct_test,0.55,757,,0.0,2021-11-30 16:29:07
+Spread,random forest,True,10,recent_20pct_test,0.6,165,,0.0,2021-11-30 16:29:07
+Spread,random forest,True,10,recent_20pct_test,0.65,30,,0.0,2021-11-30 16:29:07
+Spread,random forest,True,10,recent_20pct_test,0.7,5,,0.0,2021-11-30 16:29:07
+Spread,random forest,True,15,recent_20pct_test,0.5,1830,,0.0,2021-11-30 16:29:07
+Spread,random forest,True,15,recent_20pct_test,0.55,643,,0.0,2021-11-30 16:29:07
+Spread,random forest,True,15,recent_20pct_test,0.6,159,,0.0,2021-11-30 16:29:07
+Spread,random forest,True,15,recent_20pct_test,0.65,33,,0.0,2021-11-30 16:29:07
+Spread,random forest,True,15,recent_20pct_test,0.7,2,,0.0,2021-11-30 16:29:07
+Spread,random forest,True,20,recent_20pct_test,0.5,1776,,0.0,2021-11-30 16:29:07
+Spread,random forest,True,20,recent_20pct_test,0.55,669,,0.0,2021-11-30 16:29:07
+Spread,random forest,True,20,recent_20pct_test,0.6,185,,0.0,2021-11-30 16:29:07
+Spread,random forest,True,20,recent_20pct_test,0.65,43,,0.0,2021-11-30 16:29:07
+Spread,random forest,True,20,recent_20pct_test,0.7,9,,0.0,2021-11-30 16:29:07
+Spread,random forest,True,25,recent_20pct_test,0.5,1722,,0.0,2021-11-30 16:29:07
+Spread,random forest,True,25,recent_20pct_test,0.55,684,,0.0,2021-11-30 16:29:07
+Spread,random forest,True,25,recent_20pct_test,0.6,178,,0.0,2021-11-30 16:29:07
+Spread,random forest,True,25,recent_20pct_test,0.65,45,,0.0,2021-11-30 16:29:07
+Spread,random forest,True,25,recent_20pct_test,0.7,7,,0.0,2021-11-30 16:29:07
+Spread,random forest,False,3,recent_20pct_test,0.65,0,,,2021-11-30 16:29:06
+Spread,random forest,False,3,recent_20pct_test,0.7,0,,,2021-11-30 16:29:06
+Spread,random forest,False,5,recent_20pct_test,0.65,0,,,2021-11-30 16:29:06
+Spread,random forest,False,5,recent_20pct_test,0.7,0,,,2021-11-30 16:29:06
+Spread,random forest,False,10,recent_20pct_test,0.7,0,,,2021-11-30 16:29:06
+Spread,random forest,False,15,recent_20pct_test,0.7,0,,,2021-11-30 16:29:06
+Spread,random forest,False,20,recent_20pct_test,0.7,0,,,2021-11-30 16:29:06
+Spread,random forest,False,25,recent_20pct_test,0.7,0,,,2021-11-30 16:29:06
+Spread,svm,False,3,recent_20pct_test,0.5,0,,,2021-11-30 16:29:07
+Spread,svm,False,3,recent_20pct_test,0.55,0,,,2021-11-30 16:29:07
+Spread,svm,False,3,recent_20pct_test,0.6,0,,,2021-11-30 16:29:07
+Spread,svm,False,3,recent_20pct_test,0.65,0,,,2021-11-30 16:29:07
+Spread,svm,False,3,recent_20pct_test,0.7,0,,,2021-11-30 16:29:07
+Spread,svm,False,5,recent_20pct_test,0.5,0,,,2021-11-30 16:29:07
+Spread,svm,False,5,recent_20pct_test,0.55,0,,,2021-11-30 16:29:07
+Spread,svm,False,5,recent_20pct_test,0.6,0,,,2021-11-30 16:29:07
+Spread,svm,False,5,recent_20pct_test,0.65,0,,,2021-11-30 16:29:07
+Spread,svm,False,5,recent_20pct_test,0.7,0,,,2021-11-30 16:29:07
+Spread,svm,False,10,recent_20pct_test,0.5,0,,,2021-11-30 16:29:07
+Spread,svm,False,10,recent_20pct_test,0.55,0,,,2021-11-30 16:29:07
+Spread,svm,False,10,recent_20pct_test,0.6,0,,,2021-11-30 16:29:07
+Spread,svm,False,10,recent_20pct_test,0.65,0,,,2021-11-30 16:29:07
+Spread,svm,False,10,recent_20pct_test,0.7,0,,,2021-11-30 16:29:07
+Spread,svm,False,15,recent_20pct_test,0.5,0,,,2021-11-30 16:29:07
+Spread,svm,False,15,recent_20pct_test,0.55,0,,,2021-11-30 16:29:07
+Spread,svm,False,15,recent_20pct_test,0.6,0,,,2021-11-30 16:29:07
+Spread,svm,False,15,recent_20pct_test,0.65,0,,,2021-11-30 16:29:08
+Spread,svm,False,15,recent_20pct_test,0.7,0,,,2021-11-30 16:29:08
+Spread,svm,False,20,recent_20pct_test,0.5,0,,,2021-11-30 16:29:08
+Spread,svm,False,20,recent_20pct_test,0.55,0,,,2021-11-30 16:29:08
+Spread,svm,False,20,recent_20pct_test,0.6,0,,,2021-11-30 16:29:08
+Spread,svm,False,20,recent_20pct_test,0.65,0,,,2021-11-30 16:29:08
+Spread,svm,False,20,recent_20pct_test,0.7,0,,,2021-11-30 16:29:08
+Spread,svm,False,25,recent_20pct_test,0.5,0,,,2021-11-30 16:29:08
+Spread,svm,False,25,recent_20pct_test,0.55,0,,,2021-11-30 16:29:08
+Spread,svm,False,25,recent_20pct_test,0.6,0,,,2021-11-30 16:29:08
+Spread,svm,False,25,recent_20pct_test,0.65,0,,,2021-11-30 16:29:08
+Spread,svm,False,25,recent_20pct_test,0.7,0,,,2021-11-30 16:29:08
+Spread,svm,True,3,recent_20pct_test,0.5,0,,,2021-11-30 16:29:08
+Spread,svm,True,3,recent_20pct_test,0.55,0,,,2021-11-30 16:29:08
+Spread,svm,True,3,recent_20pct_test,0.6,0,,,2021-11-30 16:29:08
+Spread,svm,True,3,recent_20pct_test,0.65,0,,,2021-11-30 16:29:08
+Spread,svm,True,3,recent_20pct_test,0.7,0,,,2021-11-30 16:29:08
+Spread,svm,True,5,recent_20pct_test,0.5,0,,,2021-11-30 16:29:08
+Spread,svm,True,5,recent_20pct_test,0.55,0,,,2021-11-30 16:29:08
+Spread,svm,True,5,recent_20pct_test,0.6,0,,,2021-11-30 16:29:08
+Spread,svm,True,5,recent_20pct_test,0.65,0,,,2021-11-30 16:29:08
+Spread,svm,True,5,recent_20pct_test,0.7,0,,,2021-11-30 16:29:08
+Spread,svm,True,10,recent_20pct_test,0.5,0,,,2021-11-30 16:29:08
+Spread,svm,True,10,recent_20pct_test,0.55,0,,,2021-11-30 16:29:08
+Spread,svm,True,10,recent_20pct_test,0.6,0,,,2021-11-30 16:29:08
+Spread,svm,True,10,recent_20pct_test,0.65,0,,,2021-11-30 16:29:08
+Spread,svm,True,10,recent_20pct_test,0.7,0,,,2021-11-30 16:29:08
+Spread,svm,True,15,recent_20pct_test,0.5,0,,,2021-11-30 16:29:08
+Spread,svm,True,15,recent_20pct_test,0.55,0,,,2021-11-30 16:29:08
+Spread,svm,True,15,recent_20pct_test,0.6,0,,,2021-11-30 16:29:08
+Spread,svm,True,15,recent_20pct_test,0.65,0,,,2021-11-30 16:29:08
+Spread,svm,True,15,recent_20pct_test,0.7,0,,,2021-11-30 16:29:08
+Spread,svm,True,20,recent_20pct_test,0.5,0,,,2021-11-30 16:29:08
+Spread,svm,True,20,recent_20pct_test,0.55,0,,,2021-11-30 16:29:08
+Spread,svm,True,20,recent_20pct_test,0.6,0,,,2021-11-30 16:29:08
+Spread,svm,True,20,recent_20pct_test,0.65,0,,,2021-11-30 16:29:08
+Spread,svm,True,20,recent_20pct_test,0.7,0,,,2021-11-30 16:29:08
+Spread,svm,True,25,recent_20pct_test,0.5,0,,,2021-11-30 16:29:08
+Spread,svm,True,25,recent_20pct_test,0.55,0,,,2021-11-30 16:29:08
+Spread,svm,True,25,recent_20pct_test,0.6,0,,,2021-11-30 16:29:08
+Spread,svm,True,25,recent_20pct_test,0.65,0,,,2021-11-30 16:29:08
+Spread,svm,True,25,recent_20pct_test,0.7,0,,,2021-11-30 16:29:08
+Spread,neural net,False,3,recent_20pct_test,0.5,0,,,2021-11-30 16:29:08
+Spread,neural net,False,3,recent_20pct_test,0.55,0,,,2021-11-30 16:29:08
+Spread,neural net,False,3,recent_20pct_test,0.6,0,,,2021-11-30 16:29:08
+Spread,neural net,False,3,recent_20pct_test,0.65,0,,,2021-11-30 16:29:08
+Spread,neural net,False,3,recent_20pct_test,0.7,0,,,2021-11-30 16:29:08
+Spread,neural net,False,5,recent_20pct_test,0.5,0,,,2021-11-30 16:29:08
+Spread,neural net,False,5,recent_20pct_test,0.55,0,,,2021-11-30 16:29:08
+Spread,neural net,False,5,recent_20pct_test,0.6,0,,,2021-11-30 16:29:08
+Spread,neural net,False,5,recent_20pct_test,0.65,0,,,2021-11-30 16:29:08
+Spread,neural net,False,5,recent_20pct_test,0.7,0,,,2021-11-30 16:29:09
+Spread,neural net,False,10,recent_20pct_test,0.5,0,,,2021-11-30 16:29:09
+Spread,neural net,False,10,recent_20pct_test,0.55,0,,,2021-11-30 16:29:09
+Spread,neural net,False,10,recent_20pct_test,0.6,0,,,2021-11-30 16:29:09
+Spread,neural net,False,10,recent_20pct_test,0.65,0,,,2021-11-30 16:29:09
+Spread,neural net,False,10,recent_20pct_test,0.7,0,,,2021-11-30 16:29:09
+Spread,neural net,False,15,recent_20pct_test,0.5,0,,,2021-11-30 16:29:09
+Spread,neural net,False,15,recent_20pct_test,0.55,0,,,2021-11-30 16:29:09
+Spread,neural net,False,15,recent_20pct_test,0.6,0,,,2021-11-30 16:29:09
+Spread,neural net,False,15,recent_20pct_test,0.65,0,,,2021-11-30 16:29:09
+Spread,neural net,False,15,recent_20pct_test,0.7,0,,,2021-11-30 16:29:09
+Spread,neural net,False,20,recent_20pct_test,0.5,0,,,2021-11-30 16:29:09
+Spread,neural net,False,20,recent_20pct_test,0.55,0,,,2021-11-30 16:29:09
+Spread,neural net,False,20,recent_20pct_test,0.6,0,,,2021-11-30 16:29:09
+Spread,neural net,False,20,recent_20pct_test,0.65,0,,,2021-11-30 16:29:09
+Spread,neural net,False,20,recent_20pct_test,0.7,0,,,2021-11-30 16:29:09
+Spread,neural net,False,25,recent_20pct_test,0.5,0,,,2021-11-30 16:29:09
+Spread,neural net,False,25,recent_20pct_test,0.55,0,,,2021-11-30 16:29:09
+Spread,neural net,False,25,recent_20pct_test,0.6,0,,,2021-11-30 16:29:09
+Spread,neural net,False,25,recent_20pct_test,0.65,0,,,2021-11-30 16:29:09
+Spread,neural net,False,25,recent_20pct_test,0.7,0,,,2021-11-30 16:29:09
+Spread,neural net,True,3,recent_20pct_test,0.5,0,,,2021-11-30 16:29:09
+Spread,neural net,True,3,recent_20pct_test,0.55,0,,,2021-11-30 16:29:09
+Spread,neural net,True,3,recent_20pct_test,0.6,0,,,2021-11-30 16:29:09
+Spread,neural net,True,3,recent_20pct_test,0.65,0,,,2021-11-30 16:29:09
+Spread,neural net,True,3,recent_20pct_test,0.7,0,,,2021-11-30 16:29:09
+Spread,neural net,True,5,recent_20pct_test,0.5,0,,,2021-11-30 16:29:09
+Spread,neural net,True,5,recent_20pct_test,0.55,0,,,2021-11-30 16:29:09
+Spread,neural net,True,5,recent_20pct_test,0.6,0,,,2021-11-30 16:29:09
+Spread,neural net,True,5,recent_20pct_test,0.65,0,,,2021-11-30 16:29:09
+Spread,neural net,True,5,recent_20pct_test,0.7,0,,,2021-11-30 16:29:09
+Spread,neural net,True,10,recent_20pct_test,0.5,0,,,2021-11-30 16:29:09
+Spread,neural net,True,10,recent_20pct_test,0.55,0,,,2021-11-30 16:29:09
+Spread,neural net,True,10,recent_20pct_test,0.6,0,,,2021-11-30 16:29:09
+Spread,neural net,True,10,recent_20pct_test,0.65,0,,,2021-11-30 16:29:09
+Spread,neural net,True,10,recent_20pct_test,0.7,0,,,2021-11-30 16:29:09
+Spread,neural net,True,15,recent_20pct_test,0.5,0,,,2021-11-30 16:29:09
+Spread,neural net,True,15,recent_20pct_test,0.55,0,,,2021-11-30 16:29:09
+Spread,neural net,True,15,recent_20pct_test,0.6,0,,,2021-11-30 16:29:09
+Spread,neural net,True,15,recent_20pct_test,0.65,0,,,2021-11-30 16:29:09
+Spread,neural net,True,15,recent_20pct_test,0.7,0,,,2021-11-30 16:29:09
+Spread,neural net,True,20,recent_20pct_test,0.5,0,,,2021-11-30 16:29:09
+Spread,neural net,True,20,recent_20pct_test,0.55,0,,,2021-11-30 16:29:09
+Spread,neural net,True,20,recent_20pct_test,0.6,0,,,2021-11-30 16:29:09
+Spread,neural net,True,20,recent_20pct_test,0.65,0,,,2021-11-30 16:29:09
+Spread,neural net,True,20,recent_20pct_test,0.7,0,,,2021-11-30 16:29:09
+Spread,neural net,True,25,recent_20pct_test,0.5,0,,,2021-11-30 16:29:09
+Spread,neural net,True,25,recent_20pct_test,0.55,0,,,2021-11-30 16:29:09
+Spread,neural net,True,25,recent_20pct_test,0.6,0,,,2021-11-30 16:29:09
+Spread,neural net,True,25,recent_20pct_test,0.65,0,,,2021-11-30 16:29:09
+Spread,neural net,True,25,recent_20pct_test,0.7,0,,,2021-11-30 16:29:09
+Moneyline,logistic regression,False,3,recent_20pct_test,0.5,1956,,0.0,2021-11-30 16:29:09
+Moneyline,logistic regression,False,3,recent_20pct_test,0.55,1766,,0.0,2021-11-30 16:29:10
+Moneyline,logistic regression,False,3,recent_20pct_test,0.6,1562,,0.0,2021-11-30 16:29:10
+Moneyline,logistic regression,False,3,recent_20pct_test,0.65,1334,,0.0,2021-11-30 16:29:10
+Moneyline,logistic regression,False,3,recent_20pct_test,0.7,1119,,0.0,2021-11-30 16:29:10
+Moneyline,logistic regression,False,5,recent_20pct_test,0.5,1935,,0.0,2021-11-30 16:29:10
+Moneyline,logistic regression,False,5,recent_20pct_test,0.55,1719,,0.0,2021-11-30 16:29:10
+Moneyline,logistic regression,False,5,recent_20pct_test,0.6,1526,,0.0,2021-11-30 16:29:10
+Moneyline,logistic regression,False,5,recent_20pct_test,0.65,1296,,0.0,2021-11-30 16:29:10
+Moneyline,logistic regression,False,5,recent_20pct_test,0.7,1092,,0.0,2021-11-30 16:29:10
+Moneyline,logistic regression,False,10,recent_20pct_test,0.5,1882,,0.0,2021-11-30 16:29:10
+Moneyline,logistic regression,False,10,recent_20pct_test,0.55,1679,,0.0,2021-11-30 16:29:10
+Moneyline,logistic regression,False,10,recent_20pct_test,0.6,1496,,0.0,2021-11-30 16:29:10
+Moneyline,logistic regression,False,10,recent_20pct_test,0.65,1300,,0.0,2021-11-30 16:29:10
+Moneyline,logistic regression,False,10,recent_20pct_test,0.7,1089,,0.0,2021-11-30 16:29:10
+Moneyline,logistic regression,False,15,recent_20pct_test,0.5,1830,,0.0,2021-11-30 16:29:10
+Moneyline,logistic regression,False,15,recent_20pct_test,0.55,1636,,0.0,2021-11-30 16:29:10
+Moneyline,logistic regression,False,15,recent_20pct_test,0.6,1462,,0.0,2021-11-30 16:29:10
+Moneyline,logistic regression,False,15,recent_20pct_test,0.65,1270,,0.0,2021-11-30 16:29:10
+Moneyline,logistic regression,False,15,recent_20pct_test,0.7,1088,,0.0,2021-11-30 16:29:10
+Moneyline,logistic regression,False,20,recent_20pct_test,0.5,1776,,0.0,2021-11-30 16:29:10
+Moneyline,logistic regression,False,20,recent_20pct_test,0.55,1592,,0.0,2021-11-30 16:29:10
+Moneyline,logistic regression,False,20,recent_20pct_test,0.6,1403,,0.0,2021-11-30 16:29:10
+Moneyline,logistic regression,False,20,recent_20pct_test,0.65,1216,,0.0,2021-11-30 16:29:10
+Moneyline,logistic regression,False,20,recent_20pct_test,0.7,1000,,0.0,2021-11-30 16:29:10
+Moneyline,logistic regression,False,25,recent_20pct_test,0.5,1722,,0.0,2021-11-30 16:29:10
+Moneyline,logistic regression,False,25,recent_20pct_test,0.55,1524,,0.0,2021-11-30 16:29:10
+Moneyline,logistic regression,False,25,recent_20pct_test,0.6,1362,,0.0,2021-11-30 16:29:10
+Moneyline,logistic regression,False,25,recent_20pct_test,0.65,1168,,0.0,2021-11-30 16:29:10
+Moneyline,logistic regression,False,25,recent_20pct_test,0.7,978,,0.0,2021-11-30 16:29:10
+Moneyline,logistic regression,True,3,recent_20pct_test,0.5,1956,,0.0,2021-11-30 16:29:10
+Moneyline,logistic regression,True,3,recent_20pct_test,0.55,1866,,0.0,2021-11-30 16:29:10
+Moneyline,logistic regression,True,3,recent_20pct_test,0.6,1773,,0.0,2021-11-30 16:29:10
+Moneyline,logistic regression,True,3,recent_20pct_test,0.65,1673,,0.0,2021-11-30 16:29:10
+Moneyline,logistic regression,True,3,recent_20pct_test,0.7,1568,,0.0,2021-11-30 16:29:10
+Moneyline,logistic regression,True,5,recent_20pct_test,0.5,1935,,0.0,2021-11-30 16:29:10
+Moneyline,logistic regression,True,5,recent_20pct_test,0.55,1857,,0.0,2021-11-30 16:29:10
+Moneyline,logistic regression,True,5,recent_20pct_test,0.6,1762,,0.0,2021-11-30 16:29:10
+Moneyline,logistic regression,True,5,recent_20pct_test,0.65,1657,,0.0,2021-11-30 16:29:10
+Moneyline,logistic regression,True,5,recent_20pct_test,0.7,1561,,0.0,2021-11-30 16:29:10
+Moneyline,logistic regression,True,10,recent_20pct_test,0.5,1882,,0.0,2021-11-30 16:29:10
+Moneyline,logistic regression,True,10,recent_20pct_test,0.55,1796,,0.0,2021-11-30 16:29:10
+Moneyline,logistic regression,True,10,recent_20pct_test,0.6,1693,,0.0,2021-11-30 16:29:10
+Moneyline,logistic regression,True,10,recent_20pct_test,0.65,1611,,0.0,2021-11-30 16:29:10
+Moneyline,logistic regression,True,10,recent_20pct_test,0.7,1516,,0.0,2021-11-30 16:29:10
+Moneyline,logistic regression,True,15,recent_20pct_test,0.5,1830,,0.0,2021-11-30 16:29:11
+Moneyline,logistic regression,True,15,recent_20pct_test,0.55,1747,,0.0,2021-11-30 16:29:11
+Moneyline,logistic regression,True,15,recent_20pct_test,0.6,1656,,0.0,2021-11-30 16:29:11
+Moneyline,logistic regression,True,15,recent_20pct_test,0.65,1564,,0.0,2021-11-30 16:29:11
+Moneyline,logistic regression,True,15,recent_20pct_test,0.7,1474,,0.0,2021-11-30 16:29:11
+Moneyline,logistic regression,True,20,recent_20pct_test,0.5,1776,,0.0,2021-11-30 16:29:11
+Moneyline,logistic regression,True,20,recent_20pct_test,0.55,1685,,0.0,2021-11-30 16:29:11
+Moneyline,logistic regression,True,20,recent_20pct_test,0.6,1602,,0.0,2021-11-30 16:29:11
+Moneyline,logistic regression,True,20,recent_20pct_test,0.65,1533,,0.0,2021-11-30 16:29:11
+Moneyline,logistic regression,True,20,recent_20pct_test,0.7,1432,,0.0,2021-11-30 16:29:11
+Moneyline,logistic regression,True,25,recent_20pct_test,0.5,1722,,0.0,2021-11-30 16:29:11
+Moneyline,logistic regression,True,25,recent_20pct_test,0.55,1644,,0.0,2021-11-30 16:29:11
+Moneyline,logistic regression,True,25,recent_20pct_test,0.6,1579,,0.0,2021-11-30 16:29:11
+Moneyline,logistic regression,True,25,recent_20pct_test,0.65,1497,,0.0,2021-11-30 16:29:11
+Moneyline,logistic regression,True,25,recent_20pct_test,0.7,1407,,0.0,2021-11-30 16:29:11
+Moneyline,random forest,False,3,recent_20pct_test,0.5,1956,,0.0,2021-11-30 16:29:11
+Moneyline,random forest,False,3,recent_20pct_test,0.55,1671,,0.0,2021-11-30 16:29:11
+Moneyline,random forest,False,3,recent_20pct_test,0.6,1381,,0.0,2021-11-30 16:29:11
+Moneyline,random forest,False,3,recent_20pct_test,0.65,1134,,0.0,2021-11-30 16:29:11
+Moneyline,random forest,False,3,recent_20pct_test,0.7,913,,0.0,2021-11-30 16:29:11
+Moneyline,random forest,False,5,recent_20pct_test,0.5,1935,,0.0,2021-11-30 16:29:11
+Moneyline,random forest,False,5,recent_20pct_test,0.55,1666,,0.0,2021-11-30 16:29:11
+Moneyline,random forest,False,5,recent_20pct_test,0.6,1386,,0.0,2021-11-30 16:29:11
+Moneyline,random forest,False,5,recent_20pct_test,0.65,1112,,0.0,2021-11-30 16:29:11
+Moneyline,random forest,False,5,recent_20pct_test,0.7,867,,0.0,2021-11-30 16:29:11
+Moneyline,random forest,False,10,recent_20pct_test,0.5,1882,,0.0,2021-11-30 16:29:11
+Moneyline,random forest,False,10,recent_20pct_test,0.55,1581,,0.0,2021-11-30 16:29:11
+Moneyline,random forest,False,10,recent_20pct_test,0.6,1311,,0.0,2021-11-30 16:29:11
+Moneyline,random forest,False,10,recent_20pct_test,0.65,1050,,0.0,2021-11-30 16:29:11
+Moneyline,random forest,False,10,recent_20pct_test,0.7,858,,0.0,2021-11-30 16:29:11
+Moneyline,random forest,False,15,recent_20pct_test,0.5,1830,,0.0,2021-11-30 16:29:11
+Moneyline,random forest,False,15,recent_20pct_test,0.55,1499,,0.0,2021-11-30 16:29:11
+Moneyline,random forest,False,15,recent_20pct_test,0.6,1180,,0.0,2021-11-30 16:29:11
+Moneyline,random forest,False,15,recent_20pct_test,0.65,912,,0.0,2021-11-30 16:29:11
+Moneyline,random forest,False,15,recent_20pct_test,0.7,706,,0.0,2021-11-30 16:29:11
+Moneyline,random forest,False,20,recent_20pct_test,0.5,1776,,0.0,2021-11-30 16:29:11
+Moneyline,random forest,False,20,recent_20pct_test,0.55,1455,,0.0,2021-11-30 16:29:11
+Moneyline,random forest,False,20,recent_20pct_test,0.6,1165,,0.0,2021-11-30 16:29:11
+Moneyline,random forest,False,20,recent_20pct_test,0.65,923,,0.0,2021-11-30 16:29:11
+Moneyline,random forest,False,20,recent_20pct_test,0.7,726,,0.0,2021-11-30 16:29:11
+Moneyline,random forest,False,25,recent_20pct_test,0.5,1722,,0.0,2021-11-30 16:29:11
+Moneyline,random forest,False,25,recent_20pct_test,0.55,1451,,0.0,2021-11-30 16:29:11
+Moneyline,random forest,False,25,recent_20pct_test,0.6,1185,,0.0,2021-11-30 16:29:11
+Moneyline,random forest,False,25,recent_20pct_test,0.65,949,,0.0,2021-11-30 16:29:11
+Moneyline,random forest,False,25,recent_20pct_test,0.7,719,,0.0,2021-11-30 16:29:12
+Moneyline,random forest,True,3,recent_20pct_test,0.5,1956,,0.0,2021-11-30 16:29:12
+Moneyline,random forest,True,3,recent_20pct_test,0.55,1488,,0.0,2021-11-30 16:29:12
+Moneyline,random forest,True,3,recent_20pct_test,0.6,1061,,0.0,2021-11-30 16:29:12
+Moneyline,random forest,True,3,recent_20pct_test,0.65,754,,0.0,2021-11-30 16:29:12
+Moneyline,random forest,True,3,recent_20pct_test,0.7,509,,0.0,2021-11-30 16:29:12
+Moneyline,random forest,True,5,recent_20pct_test,0.5,1935,,0.0,2021-11-30 16:29:12
+Moneyline,random forest,True,5,recent_20pct_test,0.55,1485,,0.0,2021-11-30 16:29:12
+Moneyline,random forest,True,5,recent_20pct_test,0.6,1080,,0.0,2021-11-30 16:29:12
+Moneyline,random forest,True,5,recent_20pct_test,0.65,779,,0.0,2021-11-30 16:29:12
+Moneyline,random forest,True,5,recent_20pct_test,0.7,558,,0.0,2021-11-30 16:29:12
+Moneyline,random forest,True,10,recent_20pct_test,0.5,1882,,0.0,2021-11-30 16:29:12
+Moneyline,random forest,True,10,recent_20pct_test,0.55,1457,,0.0,2021-11-30 16:29:12
+Moneyline,random forest,True,10,recent_20pct_test,0.6,1099,,0.0,2021-11-30 16:29:12
+Moneyline,random forest,True,10,recent_20pct_test,0.65,760,,0.0,2021-11-30 16:29:12
+Moneyline,random forest,True,10,recent_20pct_test,0.7,529,,0.0,2021-11-30 16:29:12
+Moneyline,random forest,True,15,recent_20pct_test,0.5,1830,,0.0,2021-11-30 16:29:12
+Moneyline,random forest,True,15,recent_20pct_test,0.55,1494,,0.0,2021-11-30 16:29:12
+Moneyline,random forest,True,15,recent_20pct_test,0.6,1139,,0.0,2021-11-30 16:29:12
+Moneyline,random forest,True,15,recent_20pct_test,0.65,801,,0.0,2021-11-30 16:29:12
+Moneyline,random forest,True,15,recent_20pct_test,0.7,588,,0.0,2021-11-30 16:29:12
+Moneyline,random forest,True,20,recent_20pct_test,0.5,1776,,0.0,2021-11-30 16:29:12
+Moneyline,random forest,True,20,recent_20pct_test,0.55,1461,,0.0,2021-11-30 16:29:12
+Moneyline,random forest,True,20,recent_20pct_test,0.6,1131,,0.0,2021-11-30 16:29:12
+Moneyline,random forest,True,20,recent_20pct_test,0.65,846,,0.0,2021-11-30 16:29:12
+Moneyline,random forest,True,20,recent_20pct_test,0.7,594,,0.0,2021-11-30 16:29:12
+Moneyline,random forest,True,25,recent_20pct_test,0.5,1722,,0.0,2021-11-30 16:29:12
+Moneyline,random forest,True,25,recent_20pct_test,0.55,1402,,0.0,2021-11-30 16:29:12
+Moneyline,random forest,True,25,recent_20pct_test,0.6,1057,,0.0,2021-11-30 16:29:12
+Moneyline,random forest,True,25,recent_20pct_test,0.65,791,,0.0,2021-11-30 16:29:12
+Moneyline,random forest,True,25,recent_20pct_test,0.7,531,,0.0,2021-11-30 16:29:12
+Moneyline,svm,False,3,recent_20pct_test,0.5,0,,,2021-11-30 16:29:12
+Moneyline,svm,False,3,recent_20pct_test,0.55,0,,,2021-11-30 16:29:12
+Moneyline,svm,False,3,recent_20pct_test,0.6,0,,,2021-11-30 16:29:12
+Moneyline,svm,False,3,recent_20pct_test,0.65,0,,,2021-11-30 16:29:12
+Moneyline,svm,False,3,recent_20pct_test,0.7,0,,,2021-11-30 16:29:12
+Moneyline,svm,False,5,recent_20pct_test,0.5,0,,,2021-11-30 16:29:12
+Moneyline,svm,False,5,recent_20pct_test,0.55,0,,,2021-11-30 16:29:12
+Moneyline,svm,False,5,recent_20pct_test,0.6,0,,,2021-11-30 16:29:12
+Moneyline,svm,False,5,recent_20pct_test,0.65,0,,,2021-11-30 16:29:12
+Moneyline,svm,False,5,recent_20pct_test,0.7,0,,,2021-11-30 16:29:12
+Moneyline,svm,False,10,recent_20pct_test,0.5,0,,,2021-11-30 16:29:12
+Moneyline,svm,False,10,recent_20pct_test,0.55,0,,,2021-11-30 16:29:12
+Moneyline,svm,False,10,recent_20pct_test,0.6,0,,,2021-11-30 16:29:12
+Moneyline,svm,False,10,recent_20pct_test,0.65,0,,,2021-11-30 16:29:12
+Moneyline,svm,False,10,recent_20pct_test,0.7,0,,,2021-11-30 16:29:12
+Moneyline,svm,False,15,recent_20pct_test,0.5,0,,,2021-11-30 16:29:13
+Moneyline,svm,False,15,recent_20pct_test,0.55,0,,,2021-11-30 16:29:13
+Moneyline,svm,False,15,recent_20pct_test,0.6,0,,,2021-11-30 16:29:13
+Moneyline,svm,False,15,recent_20pct_test,0.65,0,,,2021-11-30 16:29:13
+Moneyline,svm,False,15,recent_20pct_test,0.7,0,,,2021-11-30 16:29:13
+Moneyline,svm,False,20,recent_20pct_test,0.5,0,,,2021-11-30 16:29:13
+Moneyline,svm,False,20,recent_20pct_test,0.55,0,,,2021-11-30 16:29:13
+Moneyline,svm,False,20,recent_20pct_test,0.6,0,,,2021-11-30 16:29:13
+Moneyline,svm,False,20,recent_20pct_test,0.65,0,,,2021-11-30 16:29:13
+Moneyline,svm,False,20,recent_20pct_test,0.7,0,,,2021-11-30 16:29:13
+Moneyline,svm,False,25,recent_20pct_test,0.5,0,,,2021-11-30 16:29:13
+Moneyline,svm,False,25,recent_20pct_test,0.55,0,,,2021-11-30 16:29:13
+Moneyline,svm,False,25,recent_20pct_test,0.6,0,,,2021-11-30 16:29:13
+Moneyline,svm,False,25,recent_20pct_test,0.65,0,,,2021-11-30 16:29:13
+Moneyline,svm,False,25,recent_20pct_test,0.7,0,,,2021-11-30 16:29:13
+Moneyline,svm,True,3,recent_20pct_test,0.5,0,,,2021-11-30 16:29:13
+Moneyline,svm,True,3,recent_20pct_test,0.55,0,,,2021-11-30 16:29:13
+Moneyline,svm,True,3,recent_20pct_test,0.6,0,,,2021-11-30 16:29:13
+Moneyline,svm,True,3,recent_20pct_test,0.65,0,,,2021-11-30 16:29:13
+Moneyline,svm,True,3,recent_20pct_test,0.7,0,,,2021-11-30 16:29:13
+Moneyline,svm,True,5,recent_20pct_test,0.5,0,,,2021-11-30 16:29:13
+Moneyline,svm,True,5,recent_20pct_test,0.55,0,,,2021-11-30 16:29:13
+Moneyline,svm,True,5,recent_20pct_test,0.6,0,,,2021-11-30 16:29:13
+Moneyline,svm,True,5,recent_20pct_test,0.65,0,,,2021-11-30 16:29:13
+Moneyline,svm,True,5,recent_20pct_test,0.7,0,,,2021-11-30 16:29:13
+Moneyline,svm,True,10,recent_20pct_test,0.5,0,,,2021-11-30 16:29:13
+Moneyline,svm,True,10,recent_20pct_test,0.55,0,,,2021-11-30 16:29:13
+Moneyline,svm,True,10,recent_20pct_test,0.6,0,,,2021-11-30 16:29:13
+Moneyline,svm,True,10,recent_20pct_test,0.65,0,,,2021-11-30 16:29:13
+Moneyline,svm,True,10,recent_20pct_test,0.7,0,,,2021-11-30 16:29:13
+Moneyline,svm,True,15,recent_20pct_test,0.5,0,,,2021-11-30 16:29:13
+Moneyline,svm,True,15,recent_20pct_test,0.55,0,,,2021-11-30 16:29:13
+Moneyline,svm,True,15,recent_20pct_test,0.6,0,,,2021-11-30 16:29:13
+Moneyline,svm,True,15,recent_20pct_test,0.65,0,,,2021-11-30 16:29:13
+Moneyline,svm,True,15,recent_20pct_test,0.7,0,,,2021-11-30 16:29:13
+Moneyline,svm,True,20,recent_20pct_test,0.5,0,,,2021-11-30 16:29:13
+Moneyline,svm,True,20,recent_20pct_test,0.55,0,,,2021-11-30 16:29:13
+Moneyline,svm,True,20,recent_20pct_test,0.6,0,,,2021-11-30 16:29:13
+Moneyline,svm,True,20,recent_20pct_test,0.65,0,,,2021-11-30 16:29:13
+Moneyline,svm,True,20,recent_20pct_test,0.7,0,,,2021-11-30 16:29:13
+Moneyline,svm,True,25,recent_20pct_test,0.5,0,,,2021-11-30 16:29:13
+Moneyline,svm,True,25,recent_20pct_test,0.55,0,,,2021-11-30 16:29:13
+Moneyline,svm,True,25,recent_20pct_test,0.6,0,,,2021-11-30 16:29:13
+Moneyline,svm,True,25,recent_20pct_test,0.65,0,,,2021-11-30 16:29:13
+Moneyline,svm,True,25,recent_20pct_test,0.7,0,,,2021-11-30 16:29:13
+Moneyline,neural net,False,3,recent_20pct_test,0.5,0,,,2021-11-30 16:29:13
+Moneyline,neural net,False,3,recent_20pct_test,0.55,0,,,2021-11-30 16:29:13
+Moneyline,neural net,False,3,recent_20pct_test,0.6,0,,,2021-11-30 16:29:13
+Moneyline,neural net,False,3,recent_20pct_test,0.65,0,,,2021-11-30 16:29:13
+Moneyline,neural net,False,3,recent_20pct_test,0.7,0,,,2021-11-30 16:29:13
+Moneyline,neural net,False,5,recent_20pct_test,0.5,0,,,2021-11-30 16:29:13
+Moneyline,neural net,False,5,recent_20pct_test,0.55,0,,,2021-11-30 16:29:13
+Moneyline,neural net,False,5,recent_20pct_test,0.6,0,,,2021-11-30 16:29:14
+Moneyline,neural net,False,5,recent_20pct_test,0.65,0,,,2021-11-30 16:29:14
+Moneyline,neural net,False,5,recent_20pct_test,0.7,0,,,2021-11-30 16:29:14
+Moneyline,neural net,False,10,recent_20pct_test,0.5,0,,,2021-11-30 16:29:14
+Moneyline,neural net,False,10,recent_20pct_test,0.55,0,,,2021-11-30 16:29:14
+Moneyline,neural net,False,10,recent_20pct_test,0.6,0,,,2021-11-30 16:29:14
+Moneyline,neural net,False,10,recent_20pct_test,0.65,0,,,2021-11-30 16:29:14
+Moneyline,neural net,False,10,recent_20pct_test,0.7,0,,,2021-11-30 16:29:14
+Moneyline,neural net,False,15,recent_20pct_test,0.5,0,,,2021-11-30 16:29:14
+Moneyline,neural net,False,15,recent_20pct_test,0.55,0,,,2021-11-30 16:29:14
+Moneyline,neural net,False,15,recent_20pct_test,0.6,0,,,2021-11-30 16:29:14
+Moneyline,neural net,False,15,recent_20pct_test,0.65,0,,,2021-11-30 16:29:14
+Moneyline,neural net,False,15,recent_20pct_test,0.7,0,,,2021-11-30 16:29:14
+Moneyline,neural net,False,20,recent_20pct_test,0.5,0,,,2021-11-30 16:29:14
+Moneyline,neural net,False,20,recent_20pct_test,0.55,0,,,2021-11-30 16:29:14
+Moneyline,neural net,False,20,recent_20pct_test,0.6,0,,,2021-11-30 16:29:14
+Moneyline,neural net,False,20,recent_20pct_test,0.65,0,,,2021-11-30 16:29:14
+Moneyline,neural net,False,20,recent_20pct_test,0.7,0,,,2021-11-30 16:29:14
+Moneyline,neural net,False,25,recent_20pct_test,0.5,0,,,2021-11-30 16:29:14
+Moneyline,neural net,False,25,recent_20pct_test,0.55,0,,,2021-11-30 16:29:14
+Moneyline,neural net,False,25,recent_20pct_test,0.6,0,,,2021-11-30 16:29:14
+Moneyline,neural net,False,25,recent_20pct_test,0.65,0,,,2021-11-30 16:29:14
+Moneyline,neural net,False,25,recent_20pct_test,0.7,0,,,2021-11-30 16:29:14
+Moneyline,neural net,True,3,recent_20pct_test,0.5,0,,,2021-11-30 16:29:14
+Moneyline,neural net,True,3,recent_20pct_test,0.55,0,,,2021-11-30 16:29:14
+Moneyline,neural net,True,3,recent_20pct_test,0.6,0,,,2021-11-30 16:29:14
+Moneyline,neural net,True,3,recent_20pct_test,0.65,0,,,2021-11-30 16:29:14
+Moneyline,neural net,True,3,recent_20pct_test,0.7,0,,,2021-11-30 16:29:14
+Moneyline,neural net,True,5,recent_20pct_test,0.5,0,,,2021-11-30 16:29:14
+Moneyline,neural net,True,5,recent_20pct_test,0.55,0,,,2021-11-30 16:29:14
+Moneyline,neural net,True,5,recent_20pct_test,0.6,0,,,2021-11-30 16:29:14
+Moneyline,neural net,True,5,recent_20pct_test,0.65,0,,,2021-11-30 16:29:14
+Moneyline,neural net,True,5,recent_20pct_test,0.7,0,,,2021-11-30 16:29:14
+Moneyline,neural net,True,10,recent_20pct_test,0.5,0,,,2021-11-30 16:29:14
+Moneyline,neural net,True,10,recent_20pct_test,0.55,0,,,2021-11-30 16:29:14
+Moneyline,neural net,True,10,recent_20pct_test,0.6,0,,,2021-11-30 16:29:14
+Moneyline,neural net,True,10,recent_20pct_test,0.65,0,,,2021-11-30 16:29:14
+Moneyline,neural net,True,10,recent_20pct_test,0.7,0,,,2021-11-30 16:29:14
+Moneyline,neural net,True,15,recent_20pct_test,0.5,0,,,2021-11-30 16:29:14
+Moneyline,neural net,True,15,recent_20pct_test,0.55,0,,,2021-11-30 16:29:14
+Moneyline,neural net,True,15,recent_20pct_test,0.6,0,,,2021-11-30 16:29:14
+Moneyline,neural net,True,15,recent_20pct_test,0.65,0,,,2021-11-30 16:29:14
+Moneyline,neural net,True,15,recent_20pct_test,0.7,0,,,2021-11-30 16:29:14
+Moneyline,neural net,True,20,recent_20pct_test,0.5,0,,,2021-11-30 16:29:14
+Moneyline,neural net,True,20,recent_20pct_test,0.55,0,,,2021-11-30 16:29:14
+Moneyline,neural net,True,20,recent_20pct_test,0.6,0,,,2021-11-30 16:29:14
+Moneyline,neural net,True,20,recent_20pct_test,0.65,0,,,2021-11-30 16:29:14
+Moneyline,neural net,True,20,recent_20pct_test,0.7,0,,,2021-11-30 16:29:14
+Moneyline,neural net,True,25,recent_20pct_test,0.5,0,,,2021-11-30 16:29:14
+Moneyline,neural net,True,25,recent_20pct_test,0.55,0,,,2021-11-30 16:29:14
+Moneyline,neural net,True,25,recent_20pct_test,0.6,0,,,2021-11-30 16:29:14
+Moneyline,neural net,True,25,recent_20pct_test,0.65,0,,,2021-11-30 16:29:14
+Moneyline,neural net,True,25,recent_20pct_test,0.7,0,,,2021-11-30 16:29:15

@@ -79,4 +79,4 @@ class NFL_ML(ML_Parent):
 if __name__ == '__main__':
     x = NFL_ML()
     self = x
-    x.run()
+    x.run_all()

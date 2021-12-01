@@ -1,5 +1,7 @@
 #!/bin/sh
 
+# python modeling_data.py
+
 # NFL
 python nfl_ml.py
 python nfl_spread.py
@@ -19,3 +21,5 @@ python ncaaf_total.py
 python ncaab_ml.py
 python ncaab_spread.py
 python ncaab_total.py
+
+python evaluate_predictions.py
