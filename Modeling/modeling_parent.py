@@ -96,6 +96,9 @@ class Modeling_Parent:
         return model_checkpoint_callback
 
     def _neural_net_model(self, train_X, layers):  # Specific Helper model_neural_net
+        """
+        building neural net models with a given layer architecture
+        """
         n, m = train_X.shape
         model = Sequential()
         model.add(Dense(layers[0], input_dim=m, kernel_initializer='normal', activation='relu'))
@@ -118,7 +121,7 @@ class Modeling_Parent:
         lowest_val_loss = np.Inf
         for layer_struct in layer_structures:
             model = self._neural_net_model(train_X, layer_struct)
-            history = model.fit(train_X, train_y, validation_data=(val_X, val_y), epochs=10,
+            history = model.fit(train_X, train_y, validation_data=(val_X, val_y), epochs=50,
                                 callbacks=[WandbCallback(), model_checkpoint_callback])
             val_loss = min(history.history['val_loss'])
             print(layer_struct, val_loss, lowest_val_loss)
@@ -230,11 +233,12 @@ class Modeling_Parent:
             train_X, val_X, train_y, val_y = train_test_split(X, y, random_state=18)
         return train_X, val_X, train_y, val_y
 
-    def _make_load_df(self):  # Specific Helper make_preds
+    def _make_load_df(self, test_set):  # Specific Helper make_preds
         """
         loads the predictions file for the league if it exists, otherwise makes it
         """
-        path = ROOT_PATH + f"/Data/Predictions/{self.league}/Predictions.csv"
+        test_str = "Test" if test_set else "Prod"
+        path = ROOT_PATH + f"/Data/Predictions/{self.league}/{test_str}_Predictions.csv"
         if os.path.exists(path):
             df = pd.read_csv(path)
         else:
@@ -253,11 +257,23 @@ class Modeling_Parent:
         """
         return ml + 100 if ml > 0 else ml - 100
 
-    def make_preds(self, model, upcoming_games_df, upcoming_games_X, alg, avg_past_games, player_stats_bool):  # Top Level
+    def _save_preds(self, df, test_set):  # Specific Helper make_preds
+        """
+        sorting, dropping duplicates, and saving the predictions
+        - saves to Test_Predictions or Prod_Predictions (prod is for games that are not played yet - real predictions!)
+        """
+        df.sort_values(by=["Game_Date", "Home", "Away", "Bet_Type", "Algorithm", "Dataset"], inplace=True)
+        df.drop_duplicates(subset=['Game_Date', 'Home', 'Away', 'Bet_Type', 'Bet_Value', 'Bet_ML',
+                                   'Algorithm', 'Avg_Past_Games', 'Player_Stats'], keep='last', inplace=True)
+        test_str = "Test" if test_set else "Prod"
+        df.to_csv(ROOT_PATH + f"/Data/Predictions/{self.league}/{test_str}_Predictions.csv", index=False)
+        print(f"{test_str} Predictions saved!")
+
+    def make_preds(self, model, upcoming_games_df, upcoming_games_X, alg, avg_past_games, player_stats_bool, test_set):  # Top Level
         """
         making predictions on upcoming games and saving to /Data/Predictions/
         """
-        df = self._make_load_df()
+        df = self._make_load_df(test_set)
         preds = model.predict_proba(upcoming_games_X) if alg != 'neural net' else model.predict(upcoming_games_X)
         for i in range(len(upcoming_games_df)):
             game_row = upcoming_games_df.iloc[i, :]
@@ -267,11 +283,7 @@ class Modeling_Parent:
                        bet_val, self._ml_back_to_normal(game_row[self.bet_ml_col]),
                        prediction, None, alg, avg_past_games, player_stats_bool, "recent_20pct_test", self._current_ts()]
             df.loc[len(df)] = new_row
-        df.sort_values(by=["Game_Date", "Home", "Away", "Bet_Type", "Algorithm", "Dataset"], inplace=True)
-        df.drop_duplicates(subset=['Game_Date', 'Home', 'Away', 'Bet_Type', 'Bet_Value', 'Bet_ML',
-                                   'Algorithm', 'Avg_Past_Games', 'Player_Stats'], keep='last', inplace=True)
-        df.to_csv(ROOT_PATH + f"/Data/Predictions/{self.league}/Predictions.csv", index=False)
-        print("Predictions saved!")
+        self._save_preds(df, test_set)
 
     def run(self, df, alg, num_past_games, player_stat_bool):
         finished_games_df, upcoming_games_df = self.split_finished_upcoming_games(df)
@@ -286,20 +298,25 @@ class Modeling_Parent:
 
         if len(upcoming_games_df) > 0:
             upcoming_games_X, _, _ = self.scaled_X_y(upcoming_games_df, scaler=scaler)
-            self.make_preds(model, upcoming_games_df, upcoming_games_X, alg, num_past_games, player_stat_bool)
-        self.make_preds(model, test_df, test_X, alg, num_past_games, player_stat_bool)
+            self.make_preds(model, upcoming_games_df, upcoming_games_X, alg, num_past_games, player_stat_bool, False)
+        self.make_preds(model, test_df, test_X, alg, num_past_games, player_stat_bool, True)
 
     def run_all(self):  # Run
         """
         running all algorithms on all datasets
         """
-        algs = ['logistic regression', 'svm', 'random forest', 'neural net']
-        # algs = ['neural net']
+        # algs = ['logistic regression', 'svm', 'random forest', 'neural net']
+        algs = ['neural net']
         num_past_games = [3, 5, 10, 15, 20, 25]
         player_stats_bools = [False, True]
         for alg in algs:
             for npg in num_past_games:
                 for player_stat_bool in player_stats_bools:
+
+                    # * skipping some combinations
+                    if (alg in ['svm']) and player_stat_bool:
+                        continue
+
                     ps_str = "with" if player_stat_bool else "without"
                     print(f"{self.league} {self.bet_type} {alg} on past {npg} games {ps_str} player stats")
                     df = self.load_df(past_games=npg, player_stats=player_stat_bool)

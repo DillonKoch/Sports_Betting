@@ -29,11 +29,12 @@ class Label_Predictions:
     def __init__(self, league):
         self.league = league
 
-    def load_pred_df(self):  # Top Level
+    def load_pred_df(self, test_preds):  # Top Level
         """
         loading the df with predictions made by the models
         """
-        path = ROOT_PATH + f"/Data/Predictions/{self.league}/Predictions.csv"
+        test_prod_str = "Test" if test_preds else "Prod"
+        path = ROOT_PATH + f"/Data/Predictions/{self.league}/{test_prod_str}_Predictions.csv"
         df = pd.read_csv(path)
         return df
 
@@ -97,8 +98,8 @@ class Label_Predictions:
         elif bet_type == "Total":
             return self._total_outcome(home_score, away_score, bet_value, prediction)
 
-    def run(self):  # Run
-        pred_df = self.load_pred_df()
+    def run(self, test_preds):  # Run
+        pred_df = self.load_pred_df(test_preds)
         espn_df = self.load_espn_df()
         for i, row in tqdm(pred_df.iterrows()):
             if np.isnan(row['Outcome']):
@@ -111,8 +112,9 @@ class Label_Predictions:
                 outcome = self.bet_outcome(home, away, date, bet_type, bet_value, prediction, espn_df)
                 row["Outcome"] = None if outcome is None else 1 if outcome else 0
                 pred_df.iloc[i] = row
-        pred_df.to_csv(ROOT_PATH + f"/Data/Predictions/{self.league}/Predictions.csv", index=False)
-        print("PREDICTIONS LABELED!")
+        test_prod_str = "Test" if test_preds else "Prod"
+        pred_df.to_csv(ROOT_PATH + f"/Data/Predictions/{self.league}/{test_prod_str}_Predictions.csv", index=False)
+        print(f"{test_prod_str} PREDICTIONS LABELED!")
 
 
 if __name__ == '__main__':
@@ -120,4 +122,5 @@ if __name__ == '__main__':
     for league in ['NFL']:
         x = Label_Predictions(league)
         self = x
-        x.run()
+        for tp in [False, True]:
+            x.run(tp)
