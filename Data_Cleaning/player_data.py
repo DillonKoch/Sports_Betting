@@ -181,7 +181,7 @@ class Player_Data:
             input_dt = datetime.datetime.strptime(date, "%Y-%m-%d")
             team_roster_df = self.roster_df.loc[self.roster_df['Team'] == team]
             team_roster_dts = [datetime.datetime.strptime(scrape_ts, "%Y-%m-%d %H:%M") for scrape_ts in list(set(list(team_roster_df['scrape_ts'])))]
-            most_recent_roster_scrape = max([scrape_ts for scrape_ts in team_roster_dts if scrape_ts <= input_dt])
+            most_recent_roster_scrape = max([scrape_ts for scrape_ts in team_roster_dts])  # if scrape_ts <= input_dt])
             most_recent_team_roster_df = team_roster_df.loc[team_roster_df['scrape_ts'] == most_recent_roster_scrape.strftime("%Y-%m-%d %H:%M")]
             player_ids = list(most_recent_team_roster_df["Player_ID"])
         return player_ids
