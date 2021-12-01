@@ -15,6 +15,14 @@ Game_Date,Home,Away,Bet_Type,Bet_Value,Bet_ML,Prediction,Outcome,Algorithm,Avg_P
 2021-12-02,New Orleans Saints,Dallas Cowboys,Spread,4.5,-110.0,1.0,,neural net,3,True,recent_20pct_test,2021-12-01 11:06
 2021-12-02,New Orleans Saints,Dallas Cowboys,Spread,4.5,-110.0,0.21199999749660486,,neural net,5,False,recent_20pct_test,2021-12-01 11:08
 2021-12-02,New Orleans Saints,Dallas Cowboys,Spread,4.5,-110.0,1.0,,neural net,5,True,recent_20pct_test,2021-12-01 11:10
+2021-12-02,New Orleans Saints,Dallas Cowboys,Spread,4.5,-110.0,0.9219999909400941,,neural net,10,False,recent_20pct_test,2021-12-01 11:12
+2021-12-02,New Orleans Saints,Dallas Cowboys,Spread,4.5,-110.0,0.996999979019165,,neural net,10,True,recent_20pct_test,2021-12-01 11:14
+2021-12-02,New Orleans Saints,Dallas Cowboys,Spread,4.5,-110.0,0.8529999852180481,,neural net,15,False,recent_20pct_test,2021-12-01 11:16
+2021-12-02,New Orleans Saints,Dallas Cowboys,Spread,4.5,-110.0,0.9900000095367432,,neural net,15,True,recent_20pct_test,2021-12-01 11:18
+2021-12-02,New Orleans Saints,Dallas Cowboys,Spread,4.5,-110.0,0.009999999776482582,,neural net,20,False,recent_20pct_test,2021-12-01 11:20
+2021-12-02,New Orleans Saints,Dallas Cowboys,Spread,4.5,-110.0,0.9200000166893004,,neural net,20,True,recent_20pct_test,2021-12-01 11:21
+2021-12-02,New Orleans Saints,Dallas Cowboys,Spread,4.5,-110.0,0.9990000128746032,,neural net,25,False,recent_20pct_test,2021-12-01 11:23
+2021-12-02,New Orleans Saints,Dallas Cowboys,Spread,4.5,-110.0,0.9610000252723694,,neural net,25,True,recent_20pct_test,2021-12-01 11:25
 2021-12-02,New Orleans Saints,Dallas Cowboys,Spread,4.5,-110.0,0.442,,random forest,3,False,recent_20pct_test,2021-12-01 10:56
 2021-12-02,New Orleans Saints,Dallas Cowboys,Spread,4.5,-110.0,0.508,,random forest,3,True,recent_20pct_test,2021-12-01 10:56
 2021-12-02,New Orleans Saints,Dallas Cowboys,Spread,4.5,-110.0,0.525,,random forest,5,False,recent_20pct_test,2021-12-01 10:56
@@ -49,6 +57,14 @@ Game_Date,Home,Away,Bet_Type,Bet_Value,Bet_ML,Prediction,Outcome,Algorithm,Avg_P
 2021-12-05,Atlanta Falcons,Tampa Bay Buccaneers,Spread,11.0,-110.0,0.05400000140070915,,neural net,3,True,recent_20pct_test,2021-12-01 11:06
 2021-12-05,Atlanta Falcons,Tampa Bay Buccaneers,Spread,11.0,-110.0,0.10599999874830246,,neural net,5,False,recent_20pct_test,2021-12-01 11:08
 2021-12-05,Atlanta Falcons,Tampa Bay Buccaneers,Spread,11.0,-110.0,0.01899999938905239,,neural net,5,True,recent_20pct_test,2021-12-01 11:10
+2021-12-05,Atlanta Falcons,Tampa Bay Buccaneers,Spread,11.0,-110.0,0.050999999046325684,,neural net,10,False,recent_20pct_test,2021-12-01 11:12
+2021-12-05,Atlanta Falcons,Tampa Bay Buccaneers,Spread,11.0,-110.0,0.0949999988079071,,neural net,10,True,recent_20pct_test,2021-12-01 11:14
+2021-12-05,Atlanta Falcons,Tampa Bay Buccaneers,Spread,11.0,-110.0,0.0020000000949949017,,neural net,15,False,recent_20pct_test,2021-12-01 11:16
+2021-12-05,Atlanta Falcons,Tampa Bay Buccaneers,Spread,11.0,-110.0,0.008000000379979609,,neural net,15,True,recent_20pct_test,2021-12-01 11:18
+2021-12-05,Atlanta Falcons,Tampa Bay Buccaneers,Spread,11.0,-110.0,0.0,,neural net,20,False,recent_20pct_test,2021-12-01 11:20
+2021-12-05,Atlanta Falcons,Tampa Bay Buccaneers,Spread,11.0,-110.0,0.2919999957084656,,neural net,20,True,recent_20pct_test,2021-12-01 11:21
+2021-12-05,Atlanta Falcons,Tampa Bay Buccaneers,Spread,11.0,-110.0,0.04100000113248825,,neural net,25,False,recent_20pct_test,2021-12-01 11:23
+2021-12-05,Atlanta Falcons,Tampa Bay Buccaneers,Spread,11.0,-110.0,0.878000020980835,,neural net,25,True,recent_20pct_test,2021-12-01 11:25
 2021-12-05,Atlanta Falcons,Tampa Bay Buccaneers,Spread,11.0,-110.0,0.4920000000000001,,random forest,3,False,recent_20pct_test,2021-12-01 10:56
 2021-12-05,Atlanta Falcons,Tampa Bay Buccaneers,Spread,11.0,-110.0,0.474,,random forest,3,True,recent_20pct_test,2021-12-01 10:56
 2021-12-05,Atlanta Falcons,Tampa Bay Buccaneers,Spread,11.0,-110.0,0.521,,random forest,5,False,recent_20pct_test,2021-12-01 10:56
@@ -82,7 +98,15 @@ Game_Date,Home,Away,Bet_Type,Bet_Value,Bet_ML,Prediction,Outcome,Algorithm,Avg_P
 2021-12-05,Chicago Bears,Arizona Cardinals,Spread,8.0,-110.0,0.9819999933242798,,neural net,3,False,recent_20pct_test,2021-12-01 11:04
 2021-12-05,Chicago Bears,Arizona Cardinals,Spread,8.0,-110.0,0.6169999837875366,,neural net,3,True,recent_20pct_test,2021-12-01 11:06
 2021-12-05,Chicago Bears,Arizona Cardinals,Spread,8.0,-110.0,0.5450000166893005,,neural net,5,False,recent_20pct_test,2021-12-01 11:08
-2021-12-05,Chicago Bears,Arizona Cardinals,Spread,8.0,-110.0,0.9079999923706055,,neural net,5,True,recent_20pct_test,2021-12-01 11:10
+2021-12-05,Chicago Bears,Arizona Cardinals,Spread,8.0,-110.0,0.9079999923706056,,neural net,5,True,recent_20pct_test,2021-12-01 11:10
+2021-12-05,Chicago Bears,Arizona Cardinals,Spread,8.0,-110.0,0.984000027179718,,neural net,10,False,recent_20pct_test,2021-12-01 11:12
+2021-12-05,Chicago Bears,Arizona Cardinals,Spread,8.0,-110.0,0.0,,neural net,10,True,recent_20pct_test,2021-12-01 11:14
+2021-12-05,Chicago Bears,Arizona Cardinals,Spread,8.0,-110.0,1.0,,neural net,15,False,recent_20pct_test,2021-12-01 11:16
+2021-12-05,Chicago Bears,Arizona Cardinals,Spread,8.0,-110.0,0.609000027179718,,neural net,15,True,recent_20pct_test,2021-12-01 11:18
+2021-12-05,Chicago Bears,Arizona Cardinals,Spread,8.0,-110.0,0.9940000176429749,,neural net,20,False,recent_20pct_test,2021-12-01 11:20
+2021-12-05,Chicago Bears,Arizona Cardinals,Spread,8.0,-110.0,0.06700000166893005,,neural net,20,True,recent_20pct_test,2021-12-01 11:21
+2021-12-05,Chicago Bears,Arizona Cardinals,Spread,8.0,-110.0,0.8640000224113464,,neural net,25,False,recent_20pct_test,2021-12-01 11:23
+2021-12-05,Chicago Bears,Arizona Cardinals,Spread,8.0,-110.0,0.07599999755620956,,neural net,25,True,recent_20pct_test,2021-12-01 11:25
 2021-12-05,Chicago Bears,Arizona Cardinals,Spread,8.0,-110.0,0.5429999999999999,,random forest,3,False,recent_20pct_test,2021-12-01 10:56
 2021-12-05,Chicago Bears,Arizona Cardinals,Spread,8.0,-110.0,0.5920000000000001,,random forest,3,True,recent_20pct_test,2021-12-01 10:56
 2021-12-05,Chicago Bears,Arizona Cardinals,Spread,8.0,-110.0,0.522,,random forest,5,False,recent_20pct_test,2021-12-01 10:56
@@ -117,6 +141,14 @@ Game_Date,Home,Away,Bet_Type,Bet_Value,Bet_ML,Prediction,Outcome,Algorithm,Avg_P
 2021-12-05,Cincinnati Bengals,Los Angeles Chargers,Spread,-3.0,-120.0,0.9639999866485596,,neural net,3,True,recent_20pct_test,2021-12-01 11:06
 2021-12-05,Cincinnati Bengals,Los Angeles Chargers,Spread,-3.0,-120.0,0.009999999776482582,,neural net,5,False,recent_20pct_test,2021-12-01 11:08
 2021-12-05,Cincinnati Bengals,Los Angeles Chargers,Spread,-3.0,-120.0,0.7710000276565552,,neural net,5,True,recent_20pct_test,2021-12-01 11:10
+2021-12-05,Cincinnati Bengals,Los Angeles Chargers,Spread,-3.0,-120.0,0.915000021457672,,neural net,10,False,recent_20pct_test,2021-12-01 11:12
+2021-12-05,Cincinnati Bengals,Los Angeles Chargers,Spread,-3.0,-120.0,1.0,,neural net,10,True,recent_20pct_test,2021-12-01 11:14
+2021-12-05,Cincinnati Bengals,Los Angeles Chargers,Spread,-3.0,-120.0,0.609000027179718,,neural net,15,False,recent_20pct_test,2021-12-01 11:16
+2021-12-05,Cincinnati Bengals,Los Angeles Chargers,Spread,-3.0,-120.0,0.9309999942779541,,neural net,15,True,recent_20pct_test,2021-12-01 11:18
+2021-12-05,Cincinnati Bengals,Los Angeles Chargers,Spread,-3.0,-120.0,0.09799999743700027,,neural net,20,False,recent_20pct_test,2021-12-01 11:20
+2021-12-05,Cincinnati Bengals,Los Angeles Chargers,Spread,-3.0,-120.0,0.9990000128746032,,neural net,20,True,recent_20pct_test,2021-12-01 11:21
+2021-12-05,Cincinnati Bengals,Los Angeles Chargers,Spread,-3.0,-120.0,0.002000000094994902,,neural net,25,False,recent_20pct_test,2021-12-01 11:23
+2021-12-05,Cincinnati Bengals,Los Angeles Chargers,Spread,-3.0,-120.0,0.9909999966621399,,neural net,25,True,recent_20pct_test,2021-12-01 11:25
 2021-12-05,Cincinnati Bengals,Los Angeles Chargers,Spread,-3.0,-120.0,0.459,,random forest,3,False,recent_20pct_test,2021-12-01 10:56
 2021-12-05,Cincinnati Bengals,Los Angeles Chargers,Spread,-3.0,-120.0,0.565,,random forest,3,True,recent_20pct_test,2021-12-01 10:56
 2021-12-05,Cincinnati Bengals,Los Angeles Chargers,Spread,-3.0,-120.0,0.486,,random forest,5,False,recent_20pct_test,2021-12-01 10:56
@@ -151,6 +183,14 @@ Game_Date,Home,Away,Bet_Type,Bet_Value,Bet_ML,Prediction,Outcome,Algorithm,Avg_P
 2021-12-05,Detroit Lions,Minnesota Vikings,Spread,7.0,-110.0,0.0,,neural net,3,True,recent_20pct_test,2021-12-01 11:06
 2021-12-05,Detroit Lions,Minnesota Vikings,Spread,7.0,-110.0,0.09799999743700027,,neural net,5,False,recent_20pct_test,2021-12-01 11:08
 2021-12-05,Detroit Lions,Minnesota Vikings,Spread,7.0,-110.0,0.0,,neural net,5,True,recent_20pct_test,2021-12-01 11:10
+2021-12-05,Detroit Lions,Minnesota Vikings,Spread,7.0,-110.0,0.0,,neural net,10,False,recent_20pct_test,2021-12-01 11:12
+2021-12-05,Detroit Lions,Minnesota Vikings,Spread,7.0,-110.0,0.0010000000474974509,,neural net,10,True,recent_20pct_test,2021-12-01 11:14
+2021-12-05,Detroit Lions,Minnesota Vikings,Spread,7.0,-110.0,0.9449999928474426,,neural net,15,False,recent_20pct_test,2021-12-01 11:16
+2021-12-05,Detroit Lions,Minnesota Vikings,Spread,7.0,-110.0,0.0,,neural net,15,True,recent_20pct_test,2021-12-01 11:18
+2021-12-05,Detroit Lions,Minnesota Vikings,Spread,7.0,-110.0,0.3740000128746033,,neural net,20,False,recent_20pct_test,2021-12-01 11:20
+2021-12-05,Detroit Lions,Minnesota Vikings,Spread,7.0,-110.0,0.9399999976158142,,neural net,20,True,recent_20pct_test,2021-12-01 11:21
+2021-12-05,Detroit Lions,Minnesota Vikings,Spread,7.0,-110.0,0.016000000759959217,,neural net,25,False,recent_20pct_test,2021-12-01 11:23
+2021-12-05,Detroit Lions,Minnesota Vikings,Spread,7.0,-110.0,0.765999972820282,,neural net,25,True,recent_20pct_test,2021-12-01 11:25
 2021-12-05,Detroit Lions,Minnesota Vikings,Spread,7.0,-110.0,0.491,,random forest,3,False,recent_20pct_test,2021-12-01 10:56
 2021-12-05,Detroit Lions,Minnesota Vikings,Spread,7.0,-110.0,0.433,,random forest,3,True,recent_20pct_test,2021-12-01 10:56
 2021-12-05,Detroit Lions,Minnesota Vikings,Spread,7.0,-110.0,0.4270000000000001,,random forest,5,False,recent_20pct_test,2021-12-01 10:56
@@ -185,6 +225,14 @@ Game_Date,Home,Away,Bet_Type,Bet_Value,Bet_ML,Prediction,Outcome,Algorithm,Avg_P
 2021-12-05,Houston Texans,Indianapolis Colts,Spread,9.0,-110.0,0.0,,neural net,3,True,recent_20pct_test,2021-12-01 11:06
 2021-12-05,Houston Texans,Indianapolis Colts,Spread,9.0,-110.0,0.8650000095367432,,neural net,5,False,recent_20pct_test,2021-12-01 11:08
 2021-12-05,Houston Texans,Indianapolis Colts,Spread,9.0,-110.0,0.004999999888241291,,neural net,5,True,recent_20pct_test,2021-12-01 11:10
+2021-12-05,Houston Texans,Indianapolis Colts,Spread,9.0,-110.0,0.009999999776482582,,neural net,10,False,recent_20pct_test,2021-12-01 11:12
+2021-12-05,Houston Texans,Indianapolis Colts,Spread,9.0,-110.0,0.017000000923871994,,neural net,10,True,recent_20pct_test,2021-12-01 11:14
+2021-12-05,Houston Texans,Indianapolis Colts,Spread,9.0,-110.0,0.9950000047683716,,neural net,15,False,recent_20pct_test,2021-12-01 11:16
+2021-12-05,Houston Texans,Indianapolis Colts,Spread,9.0,-110.0,0.008000000379979609,,neural net,15,True,recent_20pct_test,2021-12-01 11:18
+2021-12-05,Houston Texans,Indianapolis Colts,Spread,9.0,-110.0,0.03099999949336052,,neural net,20,False,recent_20pct_test,2021-12-01 11:20
+2021-12-05,Houston Texans,Indianapolis Colts,Spread,9.0,-110.0,0.0,,neural net,20,True,recent_20pct_test,2021-12-01 11:21
+2021-12-05,Houston Texans,Indianapolis Colts,Spread,9.0,-110.0,0.0,,neural net,25,False,recent_20pct_test,2021-12-01 11:23
+2021-12-05,Houston Texans,Indianapolis Colts,Spread,9.0,-110.0,0.0,,neural net,25,True,recent_20pct_test,2021-12-01 11:25
 2021-12-05,Houston Texans,Indianapolis Colts,Spread,9.0,-110.0,0.503,,random forest,3,False,recent_20pct_test,2021-12-01 10:56
 2021-12-05,Houston Texans,Indianapolis Colts,Spread,9.0,-110.0,0.498,,random forest,3,True,recent_20pct_test,2021-12-01 10:56
 2021-12-05,Houston Texans,Indianapolis Colts,Spread,9.0,-110.0,0.5429999999999999,,random forest,5,False,recent_20pct_test,2021-12-01 10:56
@@ -219,6 +267,14 @@ Game_Date,Home,Away,Bet_Type,Bet_Value,Bet_ML,Prediction,Outcome,Algorithm,Avg_P
 2021-12-05,Kansas City Chiefs,Denver Broncos,Spread,-10.0,-110.0,1.0,,neural net,3,True,recent_20pct_test,2021-12-01 11:06
 2021-12-05,Kansas City Chiefs,Denver Broncos,Spread,-10.0,-110.0,0.03400000184774399,,neural net,5,False,recent_20pct_test,2021-12-01 11:08
 2021-12-05,Kansas City Chiefs,Denver Broncos,Spread,-10.0,-110.0,1.0,,neural net,5,True,recent_20pct_test,2021-12-01 11:10
+2021-12-05,Kansas City Chiefs,Denver Broncos,Spread,-10.0,-110.0,0.0,,neural net,10,False,recent_20pct_test,2021-12-01 11:12
+2021-12-05,Kansas City Chiefs,Denver Broncos,Spread,-10.0,-110.0,0.9959999918937684,,neural net,10,True,recent_20pct_test,2021-12-01 11:14
+2021-12-05,Kansas City Chiefs,Denver Broncos,Spread,-10.0,-110.0,0.0,,neural net,15,False,recent_20pct_test,2021-12-01 11:16
+2021-12-05,Kansas City Chiefs,Denver Broncos,Spread,-10.0,-110.0,1.0,,neural net,15,True,recent_20pct_test,2021-12-01 11:18
+2021-12-05,Kansas City Chiefs,Denver Broncos,Spread,-10.0,-110.0,0.0,,neural net,20,False,recent_20pct_test,2021-12-01 11:20
+2021-12-05,Kansas City Chiefs,Denver Broncos,Spread,-10.0,-110.0,1.0,,neural net,20,True,recent_20pct_test,2021-12-01 11:21
+2021-12-05,Kansas City Chiefs,Denver Broncos,Spread,-10.0,-110.0,0.0,,neural net,25,False,recent_20pct_test,2021-12-01 11:23
+2021-12-05,Kansas City Chiefs,Denver Broncos,Spread,-10.0,-110.0,1.0,,neural net,25,True,recent_20pct_test,2021-12-01 11:25
 2021-12-05,Kansas City Chiefs,Denver Broncos,Spread,-10.0,-110.0,0.536,,random forest,3,False,recent_20pct_test,2021-12-01 10:56
 2021-12-05,Kansas City Chiefs,Denver Broncos,Spread,-10.0,-110.0,0.579,,random forest,3,True,recent_20pct_test,2021-12-01 10:56
 2021-12-05,Kansas City Chiefs,Denver Broncos,Spread,-10.0,-110.0,0.466,,random forest,5,False,recent_20pct_test,2021-12-01 10:56
@@ -253,6 +309,14 @@ Game_Date,Home,Away,Bet_Type,Bet_Value,Bet_ML,Prediction,Outcome,Algorithm,Avg_P
 2021-12-05,Las Vegas Raiders,Washington,Spread,-2.5,-110.0,0.9990000128746032,,neural net,3,True,recent_20pct_test,2021-12-01 11:06
 2021-12-05,Las Vegas Raiders,Washington,Spread,-2.5,-110.0,0.25999999046325684,,neural net,5,False,recent_20pct_test,2021-12-01 11:08
 2021-12-05,Las Vegas Raiders,Washington,Spread,-2.5,-110.0,0.9369999766349792,,neural net,5,True,recent_20pct_test,2021-12-01 11:10
+2021-12-05,Las Vegas Raiders,Washington,Spread,-2.5,-110.0,0.8059999942779541,,neural net,10,False,recent_20pct_test,2021-12-01 11:12
+2021-12-05,Las Vegas Raiders,Washington,Spread,-2.5,-110.0,0.017999999225139618,,neural net,10,True,recent_20pct_test,2021-12-01 11:14
+2021-12-05,Las Vegas Raiders,Washington,Spread,-2.5,-110.0,0.0,,neural net,15,False,recent_20pct_test,2021-12-01 11:16
+2021-12-05,Las Vegas Raiders,Washington,Spread,-2.5,-110.0,0.014000000432133676,,neural net,15,True,recent_20pct_test,2021-12-01 11:18
+2021-12-05,Las Vegas Raiders,Washington,Spread,-2.5,-110.0,0.045000001788139336,,neural net,20,False,recent_20pct_test,2021-12-01 11:20
+2021-12-05,Las Vegas Raiders,Washington,Spread,-2.5,-110.0,0.21299999952316284,,neural net,20,True,recent_20pct_test,2021-12-01 11:21
+2021-12-05,Las Vegas Raiders,Washington,Spread,-2.5,-110.0,0.0,,neural net,25,False,recent_20pct_test,2021-12-01 11:23
+2021-12-05,Las Vegas Raiders,Washington,Spread,-2.5,-110.0,0.10499999672174454,,neural net,25,True,recent_20pct_test,2021-12-01 11:25
 2021-12-05,Las Vegas Raiders,Washington,Spread,-2.5,-110.0,0.516,,random forest,3,False,recent_20pct_test,2021-12-01 10:56
 2021-12-05,Las Vegas Raiders,Washington,Spread,-2.5,-110.0,0.585,,random forest,3,True,recent_20pct_test,2021-12-01 10:56
 2021-12-05,Las Vegas Raiders,Washington,Spread,-2.5,-110.0,0.495,,random forest,5,False,recent_20pct_test,2021-12-01 10:56
@@ -287,6 +351,14 @@ Game_Date,Home,Away,Bet_Type,Bet_Value,Bet_ML,Prediction,Outcome,Algorithm,Avg_P
 2021-12-05,Los Angeles Rams,Jacksonville Jaguars,Spread,-13.0,-110.0,0.9990000128746032,,neural net,3,True,recent_20pct_test,2021-12-01 11:06
 2021-12-05,Los Angeles Rams,Jacksonville Jaguars,Spread,-13.0,-110.0,0.1040000021457672,,neural net,5,False,recent_20pct_test,2021-12-01 11:08
 2021-12-05,Los Angeles Rams,Jacksonville Jaguars,Spread,-13.0,-110.0,0.9309999942779541,,neural net,5,True,recent_20pct_test,2021-12-01 11:10
+2021-12-05,Los Angeles Rams,Jacksonville Jaguars,Spread,-13.0,-110.0,0.8679999709129333,,neural net,10,False,recent_20pct_test,2021-12-01 11:12
+2021-12-05,Los Angeles Rams,Jacksonville Jaguars,Spread,-13.0,-110.0,0.9879999756813048,,neural net,10,True,recent_20pct_test,2021-12-01 11:14
+2021-12-05,Los Angeles Rams,Jacksonville Jaguars,Spread,-13.0,-110.0,0.9990000128746032,,neural net,15,False,recent_20pct_test,2021-12-01 11:16
+2021-12-05,Los Angeles Rams,Jacksonville Jaguars,Spread,-13.0,-110.0,0.6029999852180481,,neural net,15,True,recent_20pct_test,2021-12-01 11:18
+2021-12-05,Los Angeles Rams,Jacksonville Jaguars,Spread,-13.0,-110.0,0.35899999737739563,,neural net,20,False,recent_20pct_test,2021-12-01 11:20
+2021-12-05,Los Angeles Rams,Jacksonville Jaguars,Spread,-13.0,-110.0,0.1420000046491623,,neural net,20,True,recent_20pct_test,2021-12-01 11:21
+2021-12-05,Los Angeles Rams,Jacksonville Jaguars,Spread,-13.0,-110.0,1.0,,neural net,25,False,recent_20pct_test,2021-12-01 11:23
+2021-12-05,Los Angeles Rams,Jacksonville Jaguars,Spread,-13.0,-110.0,0.9589999914169312,,neural net,25,True,recent_20pct_test,2021-12-01 11:25
 2021-12-05,Los Angeles Rams,Jacksonville Jaguars,Spread,-13.0,-110.0,0.501,,random forest,3,False,recent_20pct_test,2021-12-01 10:56
 2021-12-05,Los Angeles Rams,Jacksonville Jaguars,Spread,-13.0,-110.0,0.5479999999999999,,random forest,3,True,recent_20pct_test,2021-12-01 10:56
 2021-12-05,Los Angeles Rams,Jacksonville Jaguars,Spread,-13.0,-110.0,0.491,,random forest,5,False,recent_20pct_test,2021-12-01 10:56
@@ -320,7 +392,15 @@ Game_Date,Home,Away,Bet_Type,Bet_Value,Bet_ML,Prediction,Outcome,Algorithm,Avg_P
 2021-12-05,Miami Dolphins,New York Giants,Spread,-3.0,-110.0,0.9990000128746032,,neural net,3,False,recent_20pct_test,2021-12-01 11:04
 2021-12-05,Miami Dolphins,New York Giants,Spread,-3.0,-110.0,0.8259999752044678,,neural net,3,True,recent_20pct_test,2021-12-01 11:06
 2021-12-05,Miami Dolphins,New York Giants,Spread,-3.0,-110.0,1.0,,neural net,5,False,recent_20pct_test,2021-12-01 11:08
-2021-12-05,Miami Dolphins,New York Giants,Spread,-3.0,-110.0,0.007000000216066837,,neural net,5,True,recent_20pct_test,2021-12-01 11:10
+2021-12-05,Miami Dolphins,New York Giants,Spread,-3.0,-110.0,0.0070000002160668364,,neural net,5,True,recent_20pct_test,2021-12-01 11:10
+2021-12-05,Miami Dolphins,New York Giants,Spread,-3.0,-110.0,0.8569999933242798,,neural net,10,False,recent_20pct_test,2021-12-01 11:12
+2021-12-05,Miami Dolphins,New York Giants,Spread,-3.0,-110.0,0.2849999964237213,,neural net,10,True,recent_20pct_test,2021-12-01 11:14
+2021-12-05,Miami Dolphins,New York Giants,Spread,-3.0,-110.0,0.996999979019165,,neural net,15,False,recent_20pct_test,2021-12-01 11:16
+2021-12-05,Miami Dolphins,New York Giants,Spread,-3.0,-110.0,0.9879999756813048,,neural net,15,True,recent_20pct_test,2021-12-01 11:18
+2021-12-05,Miami Dolphins,New York Giants,Spread,-3.0,-110.0,0.6000000238418579,,neural net,20,False,recent_20pct_test,2021-12-01 11:20
+2021-12-05,Miami Dolphins,New York Giants,Spread,-3.0,-110.0,0.11800000071525575,,neural net,20,True,recent_20pct_test,2021-12-01 11:21
+2021-12-05,Miami Dolphins,New York Giants,Spread,-3.0,-110.0,0.9399999976158142,,neural net,25,False,recent_20pct_test,2021-12-01 11:23
+2021-12-05,Miami Dolphins,New York Giants,Spread,-3.0,-110.0,0.09300000220537186,,neural net,25,True,recent_20pct_test,2021-12-01 11:25
 2021-12-05,Miami Dolphins,New York Giants,Spread,-3.0,-110.0,0.429,,random forest,3,False,recent_20pct_test,2021-12-01 10:56
 2021-12-05,Miami Dolphins,New York Giants,Spread,-3.0,-110.0,0.5379999999999999,,random forest,3,True,recent_20pct_test,2021-12-01 10:56
 2021-12-05,Miami Dolphins,New York Giants,Spread,-3.0,-110.0,0.512,,random forest,5,False,recent_20pct_test,2021-12-01 10:56
@@ -355,6 +435,14 @@ Game_Date,Home,Away,Bet_Type,Bet_Value,Bet_ML,Prediction,Outcome,Algorithm,Avg_P
 2021-12-05,New York Jets,Philadelphia Eagles,Spread,6.5,-110.0,0.9300000071525574,,neural net,3,True,recent_20pct_test,2021-12-01 11:06
 2021-12-05,New York Jets,Philadelphia Eagles,Spread,6.5,-110.0,0.9959999918937684,,neural net,5,False,recent_20pct_test,2021-12-01 11:08
 2021-12-05,New York Jets,Philadelphia Eagles,Spread,6.5,-110.0,0.7580000162124634,,neural net,5,True,recent_20pct_test,2021-12-01 11:10
+2021-12-05,New York Jets,Philadelphia Eagles,Spread,6.5,-110.0,0.003000000026077032,,neural net,10,False,recent_20pct_test,2021-12-01 11:12
+2021-12-05,New York Jets,Philadelphia Eagles,Spread,6.5,-110.0,0.019999999552965164,,neural net,10,True,recent_20pct_test,2021-12-01 11:14
+2021-12-05,New York Jets,Philadelphia Eagles,Spread,6.5,-110.0,0.8799999952316284,,neural net,15,False,recent_20pct_test,2021-12-01 11:16
+2021-12-05,New York Jets,Philadelphia Eagles,Spread,6.5,-110.0,0.8169999718666077,,neural net,15,True,recent_20pct_test,2021-12-01 11:18
+2021-12-05,New York Jets,Philadelphia Eagles,Spread,6.5,-110.0,0.06499999761581421,,neural net,20,False,recent_20pct_test,2021-12-01 11:20
+2021-12-05,New York Jets,Philadelphia Eagles,Spread,6.5,-110.0,0.4120000004768372,,neural net,20,True,recent_20pct_test,2021-12-01 11:21
+2021-12-05,New York Jets,Philadelphia Eagles,Spread,6.5,-110.0,0.9959999918937684,,neural net,25,False,recent_20pct_test,2021-12-01 11:23
+2021-12-05,New York Jets,Philadelphia Eagles,Spread,6.5,-110.0,0.5860000252723694,,neural net,25,True,recent_20pct_test,2021-12-01 11:25
 2021-12-05,New York Jets,Philadelphia Eagles,Spread,6.5,-110.0,0.468,,random forest,3,False,recent_20pct_test,2021-12-01 10:56
 2021-12-05,New York Jets,Philadelphia Eagles,Spread,6.5,-110.0,0.515,,random forest,3,True,recent_20pct_test,2021-12-01 10:56
 2021-12-05,New York Jets,Philadelphia Eagles,Spread,6.5,-110.0,0.525,,random forest,5,False,recent_20pct_test,2021-12-01 10:56
@@ -389,6 +477,14 @@ Game_Date,Home,Away,Bet_Type,Bet_Value,Bet_ML,Prediction,Outcome,Algorithm,Avg_P
 2021-12-05,Pittsburgh Steelers,Baltimore Ravens,Spread,4.0,-110.0,0.0,,neural net,3,True,recent_20pct_test,2021-12-01 11:06
 2021-12-05,Pittsburgh Steelers,Baltimore Ravens,Spread,4.0,-110.0,0.8040000200271606,,neural net,5,False,recent_20pct_test,2021-12-01 11:08
 2021-12-05,Pittsburgh Steelers,Baltimore Ravens,Spread,4.0,-110.0,0.0,,neural net,5,True,recent_20pct_test,2021-12-01 11:10
+2021-12-05,Pittsburgh Steelers,Baltimore Ravens,Spread,4.0,-110.0,0.9959999918937684,,neural net,10,False,recent_20pct_test,2021-12-01 11:12
+2021-12-05,Pittsburgh Steelers,Baltimore Ravens,Spread,4.0,-110.0,0.012000000104308128,,neural net,10,True,recent_20pct_test,2021-12-01 11:14
+2021-12-05,Pittsburgh Steelers,Baltimore Ravens,Spread,4.0,-110.0,1.0,,neural net,15,False,recent_20pct_test,2021-12-01 11:16
+2021-12-05,Pittsburgh Steelers,Baltimore Ravens,Spread,4.0,-110.0,0.03500000014901161,,neural net,15,True,recent_20pct_test,2021-12-01 11:18
+2021-12-05,Pittsburgh Steelers,Baltimore Ravens,Spread,4.0,-110.0,0.9639999866485596,,neural net,20,False,recent_20pct_test,2021-12-01 11:20
+2021-12-05,Pittsburgh Steelers,Baltimore Ravens,Spread,4.0,-110.0,0.30399999022483826,,neural net,20,True,recent_20pct_test,2021-12-01 11:21
+2021-12-05,Pittsburgh Steelers,Baltimore Ravens,Spread,4.0,-110.0,0.9990000128746032,,neural net,25,False,recent_20pct_test,2021-12-01 11:23
+2021-12-05,Pittsburgh Steelers,Baltimore Ravens,Spread,4.0,-110.0,0.7179999947547913,,neural net,25,True,recent_20pct_test,2021-12-01 11:25
 2021-12-05,Pittsburgh Steelers,Baltimore Ravens,Spread,4.0,-110.0,0.486,,random forest,3,False,recent_20pct_test,2021-12-01 10:56
 2021-12-05,Pittsburgh Steelers,Baltimore Ravens,Spread,4.0,-110.0,0.442,,random forest,3,True,recent_20pct_test,2021-12-01 10:56
 2021-12-05,Pittsburgh Steelers,Baltimore Ravens,Spread,4.0,-110.0,0.512,,random forest,5,False,recent_20pct_test,2021-12-01 10:56
@@ -422,7 +518,15 @@ Game_Date,Home,Away,Bet_Type,Bet_Value,Bet_ML,Prediction,Outcome,Algorithm,Avg_P
 2021-12-05,Seattle Seahawks,San Francisco 49ers,Spread,3.5,-110.0,0.7089999914169312,,neural net,3,False,recent_20pct_test,2021-12-01 11:04
 2021-12-05,Seattle Seahawks,San Francisco 49ers,Spread,3.5,-110.0,0.0010000000474974509,,neural net,3,True,recent_20pct_test,2021-12-01 11:06
 2021-12-05,Seattle Seahawks,San Francisco 49ers,Spread,3.5,-110.0,0.07000000029802322,,neural net,5,False,recent_20pct_test,2021-12-01 11:08
-2021-12-05,Seattle Seahawks,San Francisco 49ers,Spread,3.5,-110.0,0.9129999876022339,,neural net,5,True,recent_20pct_test,2021-12-01 11:10
+2021-12-05,Seattle Seahawks,San Francisco 49ers,Spread,3.5,-110.0,0.912999987602234,,neural net,5,True,recent_20pct_test,2021-12-01 11:10
+2021-12-05,Seattle Seahawks,San Francisco 49ers,Spread,3.5,-110.0,0.0,,neural net,10,False,recent_20pct_test,2021-12-01 11:12
+2021-12-05,Seattle Seahawks,San Francisco 49ers,Spread,3.5,-110.0,0.0010000000474974509,,neural net,10,True,recent_20pct_test,2021-12-01 11:14
+2021-12-05,Seattle Seahawks,San Francisco 49ers,Spread,3.5,-110.0,0.0,,neural net,15,False,recent_20pct_test,2021-12-01 11:16
+2021-12-05,Seattle Seahawks,San Francisco 49ers,Spread,3.5,-110.0,0.008000000379979609,,neural net,15,True,recent_20pct_test,2021-12-01 11:18
+2021-12-05,Seattle Seahawks,San Francisco 49ers,Spread,3.5,-110.0,0.006000000052154064,,neural net,20,False,recent_20pct_test,2021-12-01 11:20
+2021-12-05,Seattle Seahawks,San Francisco 49ers,Spread,3.5,-110.0,0.004999999888241291,,neural net,20,True,recent_20pct_test,2021-12-01 11:21
+2021-12-05,Seattle Seahawks,San Francisco 49ers,Spread,3.5,-110.0,0.001000000047497451,,neural net,25,False,recent_20pct_test,2021-12-01 11:23
+2021-12-05,Seattle Seahawks,San Francisco 49ers,Spread,3.5,-110.0,0.006000000052154064,,neural net,25,True,recent_20pct_test,2021-12-01 11:25
 2021-12-05,Seattle Seahawks,San Francisco 49ers,Spread,3.5,-110.0,0.514,,random forest,3,False,recent_20pct_test,2021-12-01 10:56
 2021-12-05,Seattle Seahawks,San Francisco 49ers,Spread,3.5,-110.0,0.489,,random forest,3,True,recent_20pct_test,2021-12-01 10:56
 2021-12-05,Seattle Seahawks,San Francisco 49ers,Spread,3.5,-110.0,0.456,,random forest,5,False,recent_20pct_test,2021-12-01 10:56
@@ -457,6 +561,14 @@ Game_Date,Home,Away,Bet_Type,Bet_Value,Bet_ML,Prediction,Outcome,Algorithm,Avg_P
 2021-12-06,Buffalo Bills,New England Patriots,Spread,-2.5,-115.0,1.0,,neural net,3,True,recent_20pct_test,2021-12-01 11:06
 2021-12-06,Buffalo Bills,New England Patriots,Spread,-2.5,-115.0,0.8500000238418579,,neural net,5,False,recent_20pct_test,2021-12-01 11:08
 2021-12-06,Buffalo Bills,New England Patriots,Spread,-2.5,-115.0,1.0,,neural net,5,True,recent_20pct_test,2021-12-01 11:10
+2021-12-06,Buffalo Bills,New England Patriots,Spread,-2.5,-115.0,0.0,,neural net,10,False,recent_20pct_test,2021-12-01 11:12
+2021-12-06,Buffalo Bills,New England Patriots,Spread,-2.5,-115.0,1.0,,neural net,10,True,recent_20pct_test,2021-12-01 11:14
+2021-12-06,Buffalo Bills,New England Patriots,Spread,-2.5,-115.0,0.0,,neural net,15,False,recent_20pct_test,2021-12-01 11:16
+2021-12-06,Buffalo Bills,New England Patriots,Spread,-2.5,-115.0,0.9110000133514404,,neural net,15,True,recent_20pct_test,2021-12-01 11:18
+2021-12-06,Buffalo Bills,New England Patriots,Spread,-2.5,-115.0,0.014000000432133676,,neural net,20,False,recent_20pct_test,2021-12-01 11:20
+2021-12-06,Buffalo Bills,New England Patriots,Spread,-2.5,-115.0,0.9829999804496764,,neural net,20,True,recent_20pct_test,2021-12-01 11:21
+2021-12-06,Buffalo Bills,New England Patriots,Spread,-2.5,-115.0,0.0,,neural net,25,False,recent_20pct_test,2021-12-01 11:23
+2021-12-06,Buffalo Bills,New England Patriots,Spread,-2.5,-115.0,0.7400000095367432,,neural net,25,True,recent_20pct_test,2021-12-01 11:25
 2021-12-06,Buffalo Bills,New England Patriots,Spread,-2.5,-115.0,0.465,,random forest,3,False,recent_20pct_test,2021-12-01 10:56
 2021-12-06,Buffalo Bills,New England Patriots,Spread,-2.5,-115.0,0.5589999999999999,,random forest,3,True,recent_20pct_test,2021-12-01 10:56
 2021-12-06,Buffalo Bills,New England Patriots,Spread,-2.5,-115.0,0.529,,random forest,5,False,recent_20pct_test,2021-12-01 10:56
