@@ -22,11 +22,23 @@ from os.path import abspath, dirname
 
 import numpy as np
 import pandas as pd
+import tensorflow as tf
+from keras.layers import Dense
+from keras.models import Sequential
 from sklearn import svm
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
+from tensorflow import keras
+from wandb.keras import WandbCallback
+
+import wandb
+
+physical_devices = tf.config.experimental.list_physical_devices('GPU')
+if len(physical_devices) > 0:
+    tf.config.experimental.set_memory_growth(physical_devices[0], True)
+
 
 ROOT_PATH = dirname(dirname(abspath(__file__)))
 if ROOT_PATH not in sys.path:
@@ -39,6 +51,14 @@ class Modeling_Parent:
                                   "random forest": self.model_random_forest,
                                   "svm": self.model_svm,
                                   "neural net": self.model_neural_net}
+
+    @property
+    def temp_model_checkpoint_path(self):  # Property
+        return ROOT_PATH + f"/Models/{self.league}/temp_{self.bet_type}_model.h5"
+
+    @property
+    def best_model_checkpoint_path(self):  # Property
+        return ROOT_PATH + f"/Models/{self.league}/best_{self.bet_type}_model.h5"
 
     def model_logistic_regression(self, train_X, val_X, train_y, val_y):  # Top Level
         model = LogisticRegression(random_state=18, max_iter=10000)
@@ -58,8 +78,56 @@ class Modeling_Parent:
         preds = model.predict_proba(val_X)
         return model
 
-    def model_neural_net(self):  # Top Level
-        pass  # Done
+    def _wandb_setup(self):  # Specific Helper model_neural_net
+        wandb.init(project='sports-betting', entity='dillonkoch')
+        config = wandb.config
+        config.learning_rate = 0.0001
+
+    def _neural_net_callback(self):  # Specific Helper model_neural_net
+        """
+        callback for saving the model after the best val_loss
+        """
+        model_checkpoint_callback = tf.keras.callbacks.ModelCheckpoint(
+            filepath=self.temp_model_checkpoint_path,
+            save_weights_only=False,
+            monitor='val_loss',
+            save_best_only=True
+        )
+        return model_checkpoint_callback
+
+    def _neural_net_model(self, train_X, layers):  # Specific Helper model_neural_net
+        n, m = train_X.shape
+        model = Sequential()
+        model.add(Dense(layers[0], input_dim=m, kernel_initializer='normal', activation='relu'))
+        for layer in layers[1:]:
+            model.add(Dense(layer, kernel_initializer='normal', activation='relu'))
+        model.add(Dense(1, kernel_initializer='normal', activation='sigmoid'))
+        opt = keras.optimizers.Adam(learning_rate=0.0001)
+        model.compile(loss='mean_squared_error', optimizer=opt)
+        model.summary()
+        return model
+
+    def model_neural_net(self, train_X, val_X, train_y, val_y):  # Top Level
+        """
+        modeling NFL spreads with a dense fully-connected neural net
+        """
+        self._wandb_setup()
+        model_checkpoint_callback = self._neural_net_callback()
+        layer_structures = [[50, 30], [100, 50], [200, 100], [200, 100, 50, 25],
+                            [100, 75, 50, 25, 10], [300, 200, 100, 50, 25]]
+        lowest_val_loss = np.Inf
+        for layer_struct in layer_structures:
+            model = self._neural_net_model(train_X, layer_struct)
+            history = model.fit(train_X, train_y, validation_data=(val_X, val_y), epochs=10,
+                                callbacks=[WandbCallback(), model_checkpoint_callback])
+            val_loss = min(history.history['val_loss'])
+            print(layer_struct, val_loss, lowest_val_loss)
+            if val_loss < lowest_val_loss:
+                model.save(self.best_model_checkpoint_path)
+                lowest_val_loss = val_loss
+
+        model = keras.models.load_model(self.best_model_checkpoint_path)
+        return model
 
     def _clean_mls(self, df):  # Specific Helper  load_df
         """
@@ -143,7 +211,7 @@ class Modeling_Parent:
         X = scaler.fit_transform(X)
         return X, y, scaler
 
-    def split_train_test(self, X, y, recent_yr_test=True):  # Top Level
+    def split_train_test(self, X, y, recent_yr_test=False):  # Top Level
         """
         """
         if recent_yr_test:
@@ -190,10 +258,10 @@ class Modeling_Parent:
         making predictions on upcoming games and saving to /Data/Predictions/
         """
         df = self._make_load_df()
-        preds = model.predict_proba(upcoming_games_X)
+        preds = model.predict_proba(upcoming_games_X) if alg != 'neural net' else model.predict(upcoming_games_X)
         for i in range(len(upcoming_games_df)):
             game_row = upcoming_games_df.iloc[i, :]
-            prediction = round(preds[i][1], 3)
+            prediction = round(preds[i][1], 3) if alg != 'neural net' else round(preds[i][0], 3)
             bet_val = game_row[self.bet_value_col] if self.bet_type != "Moneyline" else None
             new_row = [game_row['Date'], game_row['Home'], game_row['Away'], self.bet_type,
                        bet_val, self._ml_back_to_normal(game_row[self.bet_ml_col]),
@@ -226,7 +294,7 @@ class Modeling_Parent:
         running all algorithms on all datasets
         """
         algs = ['logistic regression', 'svm', 'random forest', 'neural net']
-        algs = ['logistic regression', 'random forest']
+        # algs = ['neural net']
         num_past_games = [3, 5, 10, 15, 20, 25]
         player_stats_bools = [False, True]
         for alg in algs:

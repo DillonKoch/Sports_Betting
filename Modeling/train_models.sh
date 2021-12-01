@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# python modeling_data.py
+python modeling_data.py
 
 # NFL
 python nfl_ml.py

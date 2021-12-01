@@ -30,6 +30,10 @@ class Dynamic(Agent_Parent):
         self.agent_name = "dynamic"
 
     def run(self):  # Run
+        """
+        makes a bet using an average of the top 10 models
+        - the amount wagered is adjusted dynamically based on the confidence of the model
+        """
         pass
 
 

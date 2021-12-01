@@ -50,9 +50,6 @@ class NFL_Total(Total_Parent):
     def model_baseline(self):  # Top Level
         pass
 
-    def model_neural_net(self, train_X, val_X, train_y, val_y):  # Top Level
-        pass
-
 
 if __name__ == '__main__':
     x = NFL_Total()

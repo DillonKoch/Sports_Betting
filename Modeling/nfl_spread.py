@@ -15,9 +15,11 @@
 import sys
 from os.path import abspath, dirname
 
+import numpy as np
 import tensorflow as tf
 from keras.layers import Dense
 from keras.models import Sequential
+from sklearn.metrics import mean_absolute_error
 from tensorflow import keras
 from wandb.keras import WandbCallback
 
@@ -40,9 +42,6 @@ class NFL_Spread(Spread_Parent):
         self.league = "NFL"
 
     def model_baseline(self):  # Top Level
-        pass
-
-    def model_neural_net(self, train_X, val_X, train_y, val_y):  # Top Level
         pass
 
     # def model_baseline_avg_points(self, avg_df_home_away_date, raw_df):  # Top Level
@@ -72,32 +71,6 @@ class NFL_Spread(Spread_Parent):
     #     """
     #     # TODO can do this once I add code for each team's points allowed, not just points scored!
     #     pass
-
-    # def model_neural_net(self, train_X, val_X, train_y, val_y):  # Top Level
-    #     """
-    #     modeling NFL spreads with a dense fully-connected neural net
-    #     """
-    #     n, m = train_X.shape
-    #     model = Sequential()
-    #     model.add(Dense(50, input_dim=m, kernel_initializer='normal', activation='relu'))
-    #     model.add(Dense(30, kernel_initializer='normal', activation='relu'))
-    #     model.add(Dense(1, kernel_initializer='normal'))
-    #     opt = keras.optimizers.Adam(learning_rate=0.0001)
-    #     model.compile(loss='mean_squared_error', optimizer=opt)
-    #     model.summary()
-
-    #     wandb.init(project='sports-betting', entity='dillonkoch')
-    #     config = wandb.config
-    #     config.learning_rate = 0.0001
-    #     model.fit(train_X, train_y, validation_data=(val_X, val_y), epochs=130, callbacks=[WandbCallback()])
-
-    #     preds = model.predict(val_X)
-    #     preds = np.array([item[0] > 0.5 for item in preds])
-    #     self.plot_confusion_matrix(preds, val_y, self.confusion_matrix_title)
-    #     self.evaluation_metrics(preds, val_y)
-    #     self.spread_total_expected_return(preds, val_y)
-
-    #     return model
 
 
 if __name__ == '__main__':

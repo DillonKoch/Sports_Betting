@@ -31,6 +31,9 @@ class Consensus(Agent_Parent):
         self.agent_name = "consensus"
 
     def run(self):  # Run
+        """
+        makes a bet when the best version of each algorithm agrees
+        """
         pass
 
 

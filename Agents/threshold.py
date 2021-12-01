@@ -30,6 +30,9 @@ class Threshold(Agent_Parent):
         self.agent_name = "threshold"
 
     def run(self):  # Run
+        """
+        makes a $5 bet on every bet where the top 10 models agree past a certain threshold
+        """
         pass
 
 

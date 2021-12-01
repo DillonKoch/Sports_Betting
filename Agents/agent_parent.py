@@ -65,7 +65,7 @@ class Agent_Parent:
         """
         pass
 
-    def run(self):  # Run
+    def run_all(self):  # Run
         pass
 
 
