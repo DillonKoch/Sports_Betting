@@ -23,12 +23,12 @@ from os.path import abspath, dirname
 import numpy as np
 import pandas as pd
 import tensorflow as tf
+from keras.callbacks import EarlyStopping
 from keras.layers import Dense
 from keras.models import Sequential
 from sklearn import svm
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.linear_model import LogisticRegression
-from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
 from tensorflow import keras
 from wandb.keras import WandbCallback
@@ -116,13 +116,14 @@ class Modeling_Parent:
         """
         self._wandb_setup()
         model_checkpoint_callback = self._neural_net_callback()
+        early_stopping_callback = EarlyStopping(monitor='val_loss', patience=5)
         layer_structures = [[50, 30], [100, 50], [200, 100], [200, 100, 50, 25],
-                            [100, 75, 50, 25, 10], [300, 200, 100, 50, 25]]
+                            [1000, 800, 600, 400, 200, 100], [750, 500, 250, 100, 50, 25]]
         lowest_val_loss = np.Inf
         for layer_struct in layer_structures:
             model = self._neural_net_model(train_X, layer_struct)
             history = model.fit(train_X, train_y, validation_data=(val_X, val_y), epochs=50,
-                                callbacks=[WandbCallback(), model_checkpoint_callback])
+                                callbacks=[WandbCallback(), model_checkpoint_callback, early_stopping_callback])
             val_loss = min(history.history['val_loss'])
             print(layer_struct, val_loss, lowest_val_loss)
             if val_loss < lowest_val_loss:
@@ -174,11 +175,35 @@ class Modeling_Parent:
         upcoming_games_df = targets_null_df.dropna(subset=betting_cols)
         return finished_games_df, upcoming_games_df
 
-    def split_train_test_df(self, df):  # Top Level
+    def _recent_20pct_test(self, df):  # Specific Helper split_train_test_df
+        """
+        returns a df with the last 20% of the data as test data
+        """
         test_size = 0.2
         test_cutoff = int(len(df) - (len(df) * test_size))
         train_df = df.iloc[:test_cutoff, :]
         test_df = df.iloc[test_cutoff:, :]
+        return train_df, test_df
+
+    def _basic_20pct_split(self, df):  # Specific Helper split_train_test_
+        """
+        splits the data with a classic train_test_split call
+        """
+        indices = list(range(len(df)))
+        random.shuffle(indices)
+        indices_split_point = int(len(df) * 0.8)
+        train_indices = indices[:indices_split_point]
+        test_indices = indices[indices_split_point:]
+        train_df = df.iloc[train_indices, :]
+        test_df = df.iloc[test_indices, :]
+        return train_df, test_df
+
+    def split_train_test_df(self, df, dataset_split):  # Top Level
+        if dataset_split == 'recent_20pct_test':
+            train_df, test_df = self._recent_20pct_test(df)
+        elif dataset_split == 'basic_20pct_split':
+            train_df, test_df = self._basic_20pct_split(df)
+        # ! add more options for train/test split here if desired
         return train_df, test_df
 
     def balance_classes(self, df):  # Top Level
@@ -214,25 +239,6 @@ class Modeling_Parent:
         X = scaler.fit_transform(X)
         return X, y, scaler
 
-    def split_train_test(self, X, y, recent_yr_test=False):  # Top Level
-        """
-        """
-        if recent_yr_test:
-            indices = list(range(len(X)))
-            random.shuffle(indices)
-            X = X[indices, :]
-            y = y[indices, ]
-
-            test_size = 0.2
-            test_cutoff = int(len(X) - (len(X) * test_size))
-            train_X = X[:test_cutoff, :]
-            train_y = y[:test_cutoff]
-            val_X = X[test_cutoff:, :]
-            val_y = y[test_cutoff:]
-        else:
-            train_X, val_X, train_y, val_y = train_test_split(X, y, random_state=18)
-        return train_X, val_X, train_y, val_y
-
     def _make_load_df(self, test_set):  # Specific Helper make_preds
         """
         loads the predictions file for the league if it exists, otherwise makes it
@@ -264,12 +270,12 @@ class Modeling_Parent:
         """
         df.sort_values(by=["Game_Date", "Home", "Away", "Bet_Type", "Algorithm", "Dataset"], inplace=True)
         df.drop_duplicates(subset=['Game_Date', 'Home', 'Away', 'Bet_Type', 'Bet_Value', 'Bet_ML',
-                                   'Algorithm', 'Avg_Past_Games', 'Player_Stats'], keep='last', inplace=True)
+                                   'Algorithm', 'Avg_Past_Games', 'Player_Stats', 'Dataset'], keep='last', inplace=True)
         test_str = "Test" if test_set else "Prod"
         df.to_csv(ROOT_PATH + f"/Data/Predictions/{self.league}/{test_str}_Predictions.csv", index=False)
         print(f"{test_str} Predictions saved!")
 
-    def make_preds(self, model, upcoming_games_df, upcoming_games_X, alg, avg_past_games, player_stats_bool, test_set):  # Top Level
+    def make_preds(self, model, upcoming_games_df, upcoming_games_X, alg, avg_past_games, player_stats_bool, test_set, dataset_split):  # Top Level
         """
         making predictions on upcoming games and saving to /Data/Predictions/
         """
@@ -281,13 +287,13 @@ class Modeling_Parent:
             bet_val = game_row[self.bet_value_col] if self.bet_type != "Moneyline" else None
             new_row = [game_row['Date'], game_row['Home'], game_row['Away'], self.bet_type,
                        bet_val, self._ml_back_to_normal(game_row[self.bet_ml_col]),
-                       prediction, None, alg, avg_past_games, player_stats_bool, "recent_20pct_test", self._current_ts()]
+                       prediction, None, alg, avg_past_games, player_stats_bool, dataset_split, self._current_ts()]
             df.loc[len(df)] = new_row
         self._save_preds(df, test_set)
 
-    def run(self, df, alg, num_past_games, player_stat_bool):
+    def run(self, df, dataset_split, alg, num_past_games, player_stat_bool):
         finished_games_df, upcoming_games_df = self.split_finished_upcoming_games(df)
-        train_df, test_df = self.split_train_test_df(finished_games_df)
+        train_df, test_df = self.split_train_test_df(finished_games_df, dataset_split)
         balanced_train_df = self.balance_classes(train_df)
 
         train_X, train_y, scaler = self.scaled_X_y(balanced_train_df)
@@ -298,29 +304,31 @@ class Modeling_Parent:
 
         if len(upcoming_games_df) > 0:
             upcoming_games_X, _, _ = self.scaled_X_y(upcoming_games_df, scaler=scaler)
-            self.make_preds(model, upcoming_games_df, upcoming_games_X, alg, num_past_games, player_stat_bool, False)
-        self.make_preds(model, test_df, test_X, alg, num_past_games, player_stat_bool, True)
+            self.make_preds(model, upcoming_games_df, upcoming_games_X, alg, num_past_games, player_stat_bool, False, dataset_split)
+        self.make_preds(model, test_df, test_X, alg, num_past_games, player_stat_bool, True, dataset_split)
 
     def run_all(self):  # Run
         """
         running all algorithms on all datasets
         """
-        # algs = ['logistic regression', 'svm', 'random forest', 'neural net']
-        algs = ['neural net']
+        dataset_splits = ['basic_20pct_split', 'recent_20pct_test']
+        algs = ['logistic regression', 'svm', 'random forest', 'neural net']
+        # algs = ['random forest']
         num_past_games = [3, 5, 10, 15, 20, 25]
         player_stats_bools = [False, True]
-        for alg in algs:
-            for npg in num_past_games:
-                for player_stat_bool in player_stats_bools:
+        for dataset_split in dataset_splits:
+            for alg in algs:
+                for npg in num_past_games:
+                    for player_stat_bool in player_stats_bools:
 
-                    # * skipping some combinations
-                    if (alg in ['svm']) and player_stat_bool:
-                        continue
+                        # * skipping some combinations
+                        if (alg in ['svm']) and player_stat_bool:
+                            continue
 
-                    ps_str = "with" if player_stat_bool else "without"
-                    print(f"{self.league} {self.bet_type} {alg} on past {npg} games {ps_str} player stats")
-                    df = self.load_df(past_games=npg, player_stats=player_stat_bool)
-                    self.run(df, alg, npg, player_stat_bool)
+                        ps_str = "with" if player_stat_bool else "without"
+                        print(f"{self.league} {self.bet_type} {alg} on past {npg} games {ps_str} player stats")
+                        df = self.load_df(past_games=npg, player_stats=player_stat_bool)
+                        self.run(df, dataset_split, alg, npg, player_stat_bool)
 
 
 class Spread_Parent(Modeling_Parent):

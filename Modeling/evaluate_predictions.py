@@ -29,9 +29,11 @@ if ROOT_PATH not in sys.path:
 
 
 class Evaluate_Performance:
-    def __init__(self, league):
+    def __init__(self, league, test_preds):
         self.league = league
-        self.eval_df_path = ROOT_PATH + f"/Data/Performance/{self.league}/models.csv"
+        self.test_preds = test_preds
+        self.test_prod_str = "Test" if test_preds else "Prod"
+        self.eval_df_path = ROOT_PATH + f"/Data/Performance/{self.league}/{self.test_prod_str}_model_evals.csv"
 
     def make_load_eval_df(self):  # Top Level
         """
@@ -110,16 +112,8 @@ class Evaluate_Performance:
         eval_df.sort_values(by=['Bet_Type', 'Expected_Value'], inplace=True, ascending=False)
         return eval_df
 
-    def save_eval_df(self, eval_df):  # Top Level
-        today = datetime.datetime.now()
-        yr = str(today.year)
-        month = str(today.month)
-        day = str(today.day)
-        eval_df.to_csv(ROOT_PATH + f"/Data/Performance/{self.league}/{yr}-{month}-{day}_models.csv", index=False)
-        print("Models evaluated!")
-
     def run(self):  # Run
-        predictions_df = pd.read_csv(ROOT_PATH + f"/Data/Predictions/{self.league}/Predictions.csv")
+        predictions_df = pd.read_csv(ROOT_PATH + f"/Data/Predictions/{self.league}/{self.test_prod_str}_Predictions.csv")
         eval_df = self.make_load_eval_df()
         model_combos = self.get_model_combos(predictions_df)
         for model_combo in tqdm(model_combos):
@@ -129,12 +123,14 @@ class Evaluate_Performance:
                 acc = round(model_df['Outcome'].mean(), 4)
                 expected_value = self.model_expected_value(model_df) if len(model_df) > 0 else None
                 eval_df = self.update_eval_df(eval_df, model_df, model_combo, thresh, acc, expected_value)
-        self.save_eval_df(eval_df)
+        eval_df.to_csv(ROOT_PATH + f"/Data/Modeling_Eval/{self.league}/{self.test_prod_str}_models.csv", index=False)
+        print("Models evaluated!")
 
 
 if __name__ == '__main__':
     for league in ['NFL', 'NBA', 'NCAAF', 'NCAAB']:
         # for league in ['NFL']:
-        x = Evaluate_Performance(league)
-        self = x
-        x.run()
+        for tp in [False, True]:
+            x = Evaluate_Performance(league, tp)
+            self = x
+            x.run(tp)

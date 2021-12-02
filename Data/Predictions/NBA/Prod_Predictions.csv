@@ -1,0 +1,370 @@
+Game_Date,Home,Away,Bet_Type,Bet_Value,Bet_ML,Prediction,Outcome,Algorithm,Avg_Past_Games,Player_Stats,Dataset,Pred_ts
+2021-12-01,Boston Celtics,Philadelphia 76ers,Moneyline,,-150.0,0.5579999999999999,,logistic regression,3,False,basic_20pct_split,2021-12-01 18:22
+2021-12-01,Boston Celtics,Philadelphia 76ers,Moneyline,,-150.0,0.7190000000000001,,logistic regression,3,True,basic_20pct_split,2021-12-01 18:22
+2021-12-01,Boston Celtics,Philadelphia 76ers,Moneyline,,-150.0,0.579,,logistic regression,5,False,basic_20pct_split,2021-12-01 18:22
+2021-12-01,Boston Celtics,Philadelphia 76ers,Moneyline,,-150.0,0.7979999999999999,,logistic regression,5,True,basic_20pct_split,2021-12-01 18:22
+2021-12-01,Boston Celtics,Philadelphia 76ers,Moneyline,,-150.0,0.542,,logistic regression,10,False,basic_20pct_split,2021-12-01 18:23
+2021-12-01,Boston Celtics,Philadelphia 76ers,Moneyline,,-150.0,0.043,,logistic regression,10,True,basic_20pct_split,2021-12-01 18:23
+2021-12-01,Boston Celtics,Philadelphia 76ers,Moneyline,,-150.0,0.525,,logistic regression,15,False,basic_20pct_split,2021-12-01 18:24
+2021-12-01,Boston Celtics,Philadelphia 76ers,Moneyline,,-150.0,0.376,,logistic regression,15,True,basic_20pct_split,2021-12-01 18:24
+2021-12-01,Boston Celtics,Philadelphia 76ers,Moneyline,,-150.0,0.831,,logistic regression,20,False,basic_20pct_split,2021-12-01 18:24
+2021-12-01,Boston Celtics,Philadelphia 76ers,Moneyline,,-150.0,0.836,,logistic regression,20,True,basic_20pct_split,2021-12-01 18:25
+2021-12-01,Boston Celtics,Philadelphia 76ers,Moneyline,,-150.0,0.611,,logistic regression,25,False,basic_20pct_split,2021-12-01 18:25
+2021-12-01,Boston Celtics,Philadelphia 76ers,Moneyline,,-150.0,0.9840000000000001,,logistic regression,25,True,basic_20pct_split,2021-12-01 18:26
+2021-12-01,Boston Celtics,Philadelphia 76ers,Moneyline,,-150.0,0.9459999799728394,,neural net,3,False,basic_20pct_split,2021-12-01 20:25
+2021-12-01,Boston Celtics,Philadelphia 76ers,Moneyline,,-150.0,0.024000000208616257,,neural net,3,True,basic_20pct_split,2021-12-01 20:31
+2021-12-01,Boston Celtics,Philadelphia 76ers,Moneyline,,-150.0,0.0,,neural net,5,False,basic_20pct_split,2021-12-01 20:37
+2021-12-01,Boston Celtics,Philadelphia 76ers,Moneyline,,-150.0,0.016000000759959214,,neural net,5,True,basic_20pct_split,2021-12-01 20:43
+2021-12-01,Boston Celtics,Philadelphia 76ers,Moneyline,,-150.0,0.9879999756813048,,neural net,10,False,basic_20pct_split,2021-12-01 20:49
+2021-12-01,Boston Celtics,Philadelphia 76ers,Moneyline,,-150.0,0.0,,neural net,10,True,basic_20pct_split,2021-12-01 20:55
+2021-12-01,Boston Celtics,Philadelphia 76ers,Moneyline,,-150.0,0.07699999958276749,,neural net,15,False,basic_20pct_split,2021-12-01 21:01
+2021-12-01,Boston Celtics,Philadelphia 76ers,Moneyline,,-150.0,0.03700000047683717,,neural net,15,True,basic_20pct_split,2021-12-01 21:07
+2021-12-01,Boston Celtics,Philadelphia 76ers,Moneyline,,-150.0,0.9670000076293944,,neural net,20,False,basic_20pct_split,2021-12-01 21:13
+2021-12-01,Boston Celtics,Philadelphia 76ers,Moneyline,,-150.0,0.9980000257492064,,neural net,20,True,basic_20pct_split,2021-12-01 21:19
+2021-12-01,Boston Celtics,Philadelphia 76ers,Moneyline,,-150.0,0.9980000257492065,,neural net,25,False,basic_20pct_split,2021-12-01 21:25
+2021-12-01,Boston Celtics,Philadelphia 76ers,Moneyline,,-150.0,0.569,,random forest,3,False,basic_20pct_split,2021-12-01 20:07
+2021-12-01,Boston Celtics,Philadelphia 76ers,Moneyline,,-150.0,0.605,,random forest,3,True,basic_20pct_split,2021-12-01 20:08
+2021-12-01,Boston Celtics,Philadelphia 76ers,Moneyline,,-150.0,0.6,,random forest,5,False,basic_20pct_split,2021-12-01 20:09
+2021-12-01,Boston Celtics,Philadelphia 76ers,Moneyline,,-150.0,0.585,,random forest,5,True,basic_20pct_split,2021-12-01 20:10
+2021-12-01,Boston Celtics,Philadelphia 76ers,Moneyline,,-150.0,0.638,,random forest,10,False,basic_20pct_split,2021-12-01 20:11
+2021-12-01,Boston Celtics,Philadelphia 76ers,Moneyline,,-150.0,0.534,,random forest,10,True,basic_20pct_split,2021-12-01 20:12
+2021-12-01,Boston Celtics,Philadelphia 76ers,Moneyline,,-150.0,0.5720000000000001,,random forest,15,False,basic_20pct_split,2021-12-01 20:13
+2021-12-01,Boston Celtics,Philadelphia 76ers,Moneyline,,-150.0,0.602,,random forest,15,True,basic_20pct_split,2021-12-01 20:14
+2021-12-01,Boston Celtics,Philadelphia 76ers,Moneyline,,-150.0,0.562,,random forest,20,False,basic_20pct_split,2021-12-01 20:16
+2021-12-01,Boston Celtics,Philadelphia 76ers,Moneyline,,-150.0,0.612,,random forest,20,True,basic_20pct_split,2021-12-01 20:17
+2021-12-01,Boston Celtics,Philadelphia 76ers,Moneyline,,-150.0,0.607,,random forest,25,False,basic_20pct_split,2021-12-01 20:18
+2021-12-01,Boston Celtics,Philadelphia 76ers,Moneyline,,-150.0,0.574,,random forest,25,True,basic_20pct_split,2021-12-01 20:19
+2021-12-01,Boston Celtics,Philadelphia 76ers,Moneyline,,-150.0,0.535,,svm,3,False,basic_20pct_split,2021-12-01 18:45
+2021-12-01,Boston Celtics,Philadelphia 76ers,Moneyline,,-150.0,0.634,,svm,5,False,basic_20pct_split,2021-12-01 19:02
+2021-12-01,Boston Celtics,Philadelphia 76ers,Moneyline,,-150.0,0.561,,svm,10,False,basic_20pct_split,2021-12-01 19:21
+2021-12-01,Boston Celtics,Philadelphia 76ers,Moneyline,,-150.0,0.594,,svm,15,False,basic_20pct_split,2021-12-01 19:37
+2021-12-01,Boston Celtics,Philadelphia 76ers,Moneyline,,-150.0,0.718,,svm,20,False,basic_20pct_split,2021-12-01 19:53
+2021-12-01,Boston Celtics,Philadelphia 76ers,Moneyline,,-150.0,0.611,,svm,25,False,basic_20pct_split,2021-12-01 20:06
+2021-12-01,Indiana Pacers,Atlanta Hawks,Moneyline,,-120.0,0.418,,logistic regression,3,False,basic_20pct_split,2021-12-01 18:22
+2021-12-01,Indiana Pacers,Atlanta Hawks,Moneyline,,-120.0,0.34299999999999997,,logistic regression,3,True,basic_20pct_split,2021-12-01 18:22
+2021-12-01,Indiana Pacers,Atlanta Hawks,Moneyline,,-120.0,0.307,,logistic regression,5,False,basic_20pct_split,2021-12-01 18:22
+2021-12-01,Indiana Pacers,Atlanta Hawks,Moneyline,,-120.0,0.625,,logistic regression,5,True,basic_20pct_split,2021-12-01 18:22
+2021-12-01,Indiana Pacers,Atlanta Hawks,Moneyline,,-120.0,0.513,,logistic regression,10,False,basic_20pct_split,2021-12-01 18:23
+2021-12-01,Indiana Pacers,Atlanta Hawks,Moneyline,,-120.0,0.987,,logistic regression,10,True,basic_20pct_split,2021-12-01 18:23
+2021-12-01,Indiana Pacers,Atlanta Hawks,Moneyline,,-120.0,0.674,,logistic regression,15,False,basic_20pct_split,2021-12-01 18:24
+2021-12-01,Indiana Pacers,Atlanta Hawks,Moneyline,,-120.0,0.978,,logistic regression,15,True,basic_20pct_split,2021-12-01 18:24
+2021-12-01,Indiana Pacers,Atlanta Hawks,Moneyline,,-120.0,0.718,,logistic regression,20,False,basic_20pct_split,2021-12-01 18:24
+2021-12-01,Indiana Pacers,Atlanta Hawks,Moneyline,,-120.0,0.8,,logistic regression,20,True,basic_20pct_split,2021-12-01 18:25
+2021-12-01,Indiana Pacers,Atlanta Hawks,Moneyline,,-120.0,0.723,,logistic regression,25,False,basic_20pct_split,2021-12-01 18:25
+2021-12-01,Indiana Pacers,Atlanta Hawks,Moneyline,,-120.0,0.925,,logistic regression,25,True,basic_20pct_split,2021-12-01 18:26
+2021-12-01,Indiana Pacers,Atlanta Hawks,Moneyline,,-120.0,0.01899999938905239,,neural net,3,False,basic_20pct_split,2021-12-01 20:25
+2021-12-01,Indiana Pacers,Atlanta Hawks,Moneyline,,-120.0,0.6340000033378601,,neural net,3,True,basic_20pct_split,2021-12-01 20:31
+2021-12-01,Indiana Pacers,Atlanta Hawks,Moneyline,,-120.0,0.9990000128746032,,neural net,5,False,basic_20pct_split,2021-12-01 20:37
+2021-12-01,Indiana Pacers,Atlanta Hawks,Moneyline,,-120.0,1.0,,neural net,5,True,basic_20pct_split,2021-12-01 20:43
+2021-12-01,Indiana Pacers,Atlanta Hawks,Moneyline,,-120.0,0.9990000128746032,,neural net,10,False,basic_20pct_split,2021-12-01 20:49
+2021-12-01,Indiana Pacers,Atlanta Hawks,Moneyline,,-120.0,0.9760000109672546,,neural net,10,True,basic_20pct_split,2021-12-01 20:55
+2021-12-01,Indiana Pacers,Atlanta Hawks,Moneyline,,-120.0,0.9169999957084656,,neural net,15,False,basic_20pct_split,2021-12-01 21:01
+2021-12-01,Indiana Pacers,Atlanta Hawks,Moneyline,,-120.0,0.0010000000474974509,,neural net,15,True,basic_20pct_split,2021-12-01 21:07
+2021-12-01,Indiana Pacers,Atlanta Hawks,Moneyline,,-120.0,0.8999999761581421,,neural net,20,False,basic_20pct_split,2021-12-01 21:13
+2021-12-01,Indiana Pacers,Atlanta Hawks,Moneyline,,-120.0,0.9980000257492064,,neural net,20,True,basic_20pct_split,2021-12-01 21:19
+2021-12-01,Indiana Pacers,Atlanta Hawks,Moneyline,,-120.0,0.1120000034570694,,neural net,25,False,basic_20pct_split,2021-12-01 21:25
+2021-12-01,Indiana Pacers,Atlanta Hawks,Moneyline,,-120.0,0.407,,random forest,3,False,basic_20pct_split,2021-12-01 20:07
+2021-12-01,Indiana Pacers,Atlanta Hawks,Moneyline,,-120.0,0.48700000000000004,,random forest,3,True,basic_20pct_split,2021-12-01 20:08
+2021-12-01,Indiana Pacers,Atlanta Hawks,Moneyline,,-120.0,0.476,,random forest,5,False,basic_20pct_split,2021-12-01 20:09
+2021-12-01,Indiana Pacers,Atlanta Hawks,Moneyline,,-120.0,0.45,,random forest,5,True,basic_20pct_split,2021-12-01 20:10
+2021-12-01,Indiana Pacers,Atlanta Hawks,Moneyline,,-120.0,0.407,,random forest,10,False,basic_20pct_split,2021-12-01 20:11
+2021-12-01,Indiana Pacers,Atlanta Hawks,Moneyline,,-120.0,0.423,,random forest,10,True,basic_20pct_split,2021-12-01 20:12
+2021-12-01,Indiana Pacers,Atlanta Hawks,Moneyline,,-120.0,0.491,,random forest,15,False,basic_20pct_split,2021-12-01 20:13
+2021-12-01,Indiana Pacers,Atlanta Hawks,Moneyline,,-120.0,0.408,,random forest,15,True,basic_20pct_split,2021-12-01 20:14
+2021-12-01,Indiana Pacers,Atlanta Hawks,Moneyline,,-120.0,0.468,,random forest,20,False,basic_20pct_split,2021-12-01 20:16
+2021-12-01,Indiana Pacers,Atlanta Hawks,Moneyline,,-120.0,0.494,,random forest,20,True,basic_20pct_split,2021-12-01 20:17
+2021-12-01,Indiana Pacers,Atlanta Hawks,Moneyline,,-120.0,0.468,,random forest,25,False,basic_20pct_split,2021-12-01 20:18
+2021-12-01,Indiana Pacers,Atlanta Hawks,Moneyline,,-120.0,0.522,,random forest,25,True,basic_20pct_split,2021-12-01 20:19
+2021-12-01,Indiana Pacers,Atlanta Hawks,Moneyline,,-120.0,0.404,,svm,3,False,basic_20pct_split,2021-12-01 18:45
+2021-12-01,Indiana Pacers,Atlanta Hawks,Moneyline,,-120.0,0.466,,svm,5,False,basic_20pct_split,2021-12-01 19:02
+2021-12-01,Indiana Pacers,Atlanta Hawks,Moneyline,,-120.0,0.5,,svm,10,False,basic_20pct_split,2021-12-01 19:21
+2021-12-01,Indiana Pacers,Atlanta Hawks,Moneyline,,-120.0,0.6940000000000001,,svm,15,False,basic_20pct_split,2021-12-01 19:37
+2021-12-01,Indiana Pacers,Atlanta Hawks,Moneyline,,-120.0,0.677,,svm,20,False,basic_20pct_split,2021-12-01 19:53
+2021-12-01,Indiana Pacers,Atlanta Hawks,Moneyline,,-120.0,0.708,,svm,25,False,basic_20pct_split,2021-12-01 20:06
+2021-12-01,LA Clippers,Sacramento Kings,Moneyline,,-360.0,0.816,,logistic regression,3,False,basic_20pct_split,2021-12-01 18:22
+2021-12-01,LA Clippers,Sacramento Kings,Moneyline,,-360.0,0.812,,logistic regression,3,True,basic_20pct_split,2021-12-01 18:22
+2021-12-01,LA Clippers,Sacramento Kings,Moneyline,,-360.0,0.823,,logistic regression,5,False,basic_20pct_split,2021-12-01 18:22
+2021-12-01,LA Clippers,Sacramento Kings,Moneyline,,-360.0,0.773,,logistic regression,5,True,basic_20pct_split,2021-12-01 18:22
+2021-12-01,LA Clippers,Sacramento Kings,Moneyline,,-360.0,0.747,,logistic regression,10,False,basic_20pct_split,2021-12-01 18:23
+2021-12-01,LA Clippers,Sacramento Kings,Moneyline,,-360.0,0.259,,logistic regression,10,True,basic_20pct_split,2021-12-01 18:23
+2021-12-01,LA Clippers,Sacramento Kings,Moneyline,,-360.0,0.693,,logistic regression,15,False,basic_20pct_split,2021-12-01 18:24
+2021-12-01,LA Clippers,Sacramento Kings,Moneyline,,-360.0,0.131,,logistic regression,15,True,basic_20pct_split,2021-12-01 18:24
+2021-12-01,LA Clippers,Sacramento Kings,Moneyline,,-360.0,0.821,,logistic regression,20,False,basic_20pct_split,2021-12-01 18:24
+2021-12-01,LA Clippers,Sacramento Kings,Moneyline,,-360.0,0.564,,logistic regression,20,True,basic_20pct_split,2021-12-01 18:25
+2021-12-01,LA Clippers,Sacramento Kings,Moneyline,,-360.0,0.711,,logistic regression,25,False,basic_20pct_split,2021-12-01 18:25
+2021-12-01,LA Clippers,Sacramento Kings,Moneyline,,-360.0,0.17800000000000002,,logistic regression,25,True,basic_20pct_split,2021-12-01 18:26
+2021-12-01,LA Clippers,Sacramento Kings,Moneyline,,-360.0,0.9490000009536744,,neural net,3,False,basic_20pct_split,2021-12-01 20:25
+2021-12-01,LA Clippers,Sacramento Kings,Moneyline,,-360.0,0.9990000128746032,,neural net,3,True,basic_20pct_split,2021-12-01 20:31
+2021-12-01,LA Clippers,Sacramento Kings,Moneyline,,-360.0,0.9789999723434448,,neural net,5,False,basic_20pct_split,2021-12-01 20:37
+2021-12-01,LA Clippers,Sacramento Kings,Moneyline,,-360.0,1.0,,neural net,5,True,basic_20pct_split,2021-12-01 20:43
+2021-12-01,LA Clippers,Sacramento Kings,Moneyline,,-360.0,0.9900000095367432,,neural net,10,False,basic_20pct_split,2021-12-01 20:49
+2021-12-01,LA Clippers,Sacramento Kings,Moneyline,,-360.0,0.0,,neural net,10,True,basic_20pct_split,2021-12-01 20:55
+2021-12-01,LA Clippers,Sacramento Kings,Moneyline,,-360.0,0.8550000190734863,,neural net,15,False,basic_20pct_split,2021-12-01 21:01
+2021-12-01,LA Clippers,Sacramento Kings,Moneyline,,-360.0,0.9980000257492064,,neural net,15,True,basic_20pct_split,2021-12-01 21:07
+2021-12-01,LA Clippers,Sacramento Kings,Moneyline,,-360.0,0.890999972820282,,neural net,20,False,basic_20pct_split,2021-12-01 21:13
+2021-12-01,LA Clippers,Sacramento Kings,Moneyline,,-360.0,0.9919999837875366,,neural net,20,True,basic_20pct_split,2021-12-01 21:19
+2021-12-01,LA Clippers,Sacramento Kings,Moneyline,,-360.0,0.6259999871253967,,neural net,25,False,basic_20pct_split,2021-12-01 21:25
+2021-12-01,LA Clippers,Sacramento Kings,Moneyline,,-360.0,0.7340000000000001,,random forest,3,False,basic_20pct_split,2021-12-01 20:07
+2021-12-01,LA Clippers,Sacramento Kings,Moneyline,,-360.0,0.6729999999999999,,random forest,3,True,basic_20pct_split,2021-12-01 20:08
+2021-12-01,LA Clippers,Sacramento Kings,Moneyline,,-360.0,0.7559999999999999,,random forest,5,False,basic_20pct_split,2021-12-01 20:09
+2021-12-01,LA Clippers,Sacramento Kings,Moneyline,,-360.0,0.691,,random forest,5,True,basic_20pct_split,2021-12-01 20:10
+2021-12-01,LA Clippers,Sacramento Kings,Moneyline,,-360.0,0.726,,random forest,10,False,basic_20pct_split,2021-12-01 20:11
+2021-12-01,LA Clippers,Sacramento Kings,Moneyline,,-360.0,0.713,,random forest,10,True,basic_20pct_split,2021-12-01 20:12
+2021-12-01,LA Clippers,Sacramento Kings,Moneyline,,-360.0,0.722,,random forest,15,False,basic_20pct_split,2021-12-01 20:13
+2021-12-01,LA Clippers,Sacramento Kings,Moneyline,,-360.0,0.7190000000000001,,random forest,15,True,basic_20pct_split,2021-12-01 20:14
+2021-12-01,LA Clippers,Sacramento Kings,Moneyline,,-360.0,0.765,,random forest,20,False,basic_20pct_split,2021-12-01 20:16
+2021-12-01,LA Clippers,Sacramento Kings,Moneyline,,-360.0,0.684,,random forest,20,True,basic_20pct_split,2021-12-01 20:17
+2021-12-01,LA Clippers,Sacramento Kings,Moneyline,,-360.0,0.765,,random forest,25,False,basic_20pct_split,2021-12-01 20:18
+2021-12-01,LA Clippers,Sacramento Kings,Moneyline,,-360.0,0.7190000000000001,,random forest,25,True,basic_20pct_split,2021-12-01 20:19
+2021-12-01,LA Clippers,Sacramento Kings,Moneyline,,-360.0,0.6809999999999999,,svm,3,False,basic_20pct_split,2021-12-01 18:45
+2021-12-01,LA Clippers,Sacramento Kings,Moneyline,,-360.0,0.7120000000000001,,svm,5,False,basic_20pct_split,2021-12-01 19:02
+2021-12-01,LA Clippers,Sacramento Kings,Moneyline,,-360.0,0.551,,svm,10,False,basic_20pct_split,2021-12-01 19:21
+2021-12-01,LA Clippers,Sacramento Kings,Moneyline,,-360.0,0.648,,svm,15,False,basic_20pct_split,2021-12-01 19:37
+2021-12-01,LA Clippers,Sacramento Kings,Moneyline,,-360.0,0.755,,svm,20,False,basic_20pct_split,2021-12-01 19:53
+2021-12-01,LA Clippers,Sacramento Kings,Moneyline,,-360.0,0.682,,svm,25,False,basic_20pct_split,2021-12-01 20:06
+2021-12-01,Miami Heat,Cleveland Cavaliers,Moneyline,,-195.0,0.496,,logistic regression,3,False,basic_20pct_split,2021-12-01 18:22
+2021-12-01,Miami Heat,Cleveland Cavaliers,Moneyline,,-195.0,0.728,,logistic regression,3,True,basic_20pct_split,2021-12-01 18:22
+2021-12-01,Miami Heat,Cleveland Cavaliers,Moneyline,,-195.0,0.6779999999999999,,logistic regression,5,False,basic_20pct_split,2021-12-01 18:22
+2021-12-01,Miami Heat,Cleveland Cavaliers,Moneyline,,-195.0,0.8490000000000001,,logistic regression,5,True,basic_20pct_split,2021-12-01 18:22
+2021-12-01,Miami Heat,Cleveland Cavaliers,Moneyline,,-195.0,0.415,,logistic regression,10,False,basic_20pct_split,2021-12-01 18:23
+2021-12-01,Miami Heat,Cleveland Cavaliers,Moneyline,,-195.0,0.6,,logistic regression,10,True,basic_20pct_split,2021-12-01 18:23
+2021-12-01,Miami Heat,Cleveland Cavaliers,Moneyline,,-195.0,0.84,,logistic regression,15,False,basic_20pct_split,2021-12-01 18:24
+2021-12-01,Miami Heat,Cleveland Cavaliers,Moneyline,,-195.0,0.97,,logistic regression,15,True,basic_20pct_split,2021-12-01 18:24
+2021-12-01,Miami Heat,Cleveland Cavaliers,Moneyline,,-195.0,0.578,,logistic regression,20,False,basic_20pct_split,2021-12-01 18:24
+2021-12-01,Miami Heat,Cleveland Cavaliers,Moneyline,,-195.0,0.815,,logistic regression,20,True,basic_20pct_split,2021-12-01 18:25
+2021-12-01,Miami Heat,Cleveland Cavaliers,Moneyline,,-195.0,0.7509999999999999,,logistic regression,25,False,basic_20pct_split,2021-12-01 18:25
+2021-12-01,Miami Heat,Cleveland Cavaliers,Moneyline,,-195.0,0.627,,logistic regression,25,True,basic_20pct_split,2021-12-01 18:26
+2021-12-01,Miami Heat,Cleveland Cavaliers,Moneyline,,-195.0,0.9200000166893004,,neural net,3,False,basic_20pct_split,2021-12-01 20:25
+2021-12-01,Miami Heat,Cleveland Cavaliers,Moneyline,,-195.0,0.12099999934434892,,neural net,3,True,basic_20pct_split,2021-12-01 20:31
+2021-12-01,Miami Heat,Cleveland Cavaliers,Moneyline,,-195.0,0.04699999839067458,,neural net,5,False,basic_20pct_split,2021-12-01 20:37
+2021-12-01,Miami Heat,Cleveland Cavaliers,Moneyline,,-195.0,0.0,,neural net,5,True,basic_20pct_split,2021-12-01 20:43
+2021-12-01,Miami Heat,Cleveland Cavaliers,Moneyline,,-195.0,0.968999981880188,,neural net,10,False,basic_20pct_split,2021-12-01 20:49
+2021-12-01,Miami Heat,Cleveland Cavaliers,Moneyline,,-195.0,0.0,,neural net,10,True,basic_20pct_split,2021-12-01 20:55
+2021-12-01,Miami Heat,Cleveland Cavaliers,Moneyline,,-195.0,0.8870000243186951,,neural net,15,False,basic_20pct_split,2021-12-01 21:01
+2021-12-01,Miami Heat,Cleveland Cavaliers,Moneyline,,-195.0,0.0020000000949949017,,neural net,15,True,basic_20pct_split,2021-12-01 21:07
+2021-12-01,Miami Heat,Cleveland Cavaliers,Moneyline,,-195.0,0.9950000047683716,,neural net,20,False,basic_20pct_split,2021-12-01 21:13
+2021-12-01,Miami Heat,Cleveland Cavaliers,Moneyline,,-195.0,0.7329999804496765,,neural net,20,True,basic_20pct_split,2021-12-01 21:19
+2021-12-01,Miami Heat,Cleveland Cavaliers,Moneyline,,-195.0,0.004999999888241291,,neural net,25,False,basic_20pct_split,2021-12-01 21:25
+2021-12-01,Miami Heat,Cleveland Cavaliers,Moneyline,,-195.0,0.648,,random forest,3,False,basic_20pct_split,2021-12-01 20:07
+2021-12-01,Miami Heat,Cleveland Cavaliers,Moneyline,,-195.0,0.613,,random forest,3,True,basic_20pct_split,2021-12-01 20:08
+2021-12-01,Miami Heat,Cleveland Cavaliers,Moneyline,,-195.0,0.639,,random forest,5,False,basic_20pct_split,2021-12-01 20:09
+2021-12-01,Miami Heat,Cleveland Cavaliers,Moneyline,,-195.0,0.5660000000000001,,random forest,5,True,basic_20pct_split,2021-12-01 20:10
+2021-12-01,Miami Heat,Cleveland Cavaliers,Moneyline,,-195.0,0.644,,random forest,10,False,basic_20pct_split,2021-12-01 20:11
+2021-12-01,Miami Heat,Cleveland Cavaliers,Moneyline,,-195.0,0.5710000000000001,,random forest,10,True,basic_20pct_split,2021-12-01 20:12
+2021-12-01,Miami Heat,Cleveland Cavaliers,Moneyline,,-195.0,0.669,,random forest,15,False,basic_20pct_split,2021-12-01 20:13
+2021-12-01,Miami Heat,Cleveland Cavaliers,Moneyline,,-195.0,0.518,,random forest,15,True,basic_20pct_split,2021-12-01 20:14
+2021-12-01,Miami Heat,Cleveland Cavaliers,Moneyline,,-195.0,0.5770000000000001,,random forest,20,False,basic_20pct_split,2021-12-01 20:16
+2021-12-01,Miami Heat,Cleveland Cavaliers,Moneyline,,-195.0,0.602,,random forest,20,True,basic_20pct_split,2021-12-01 20:17
+2021-12-01,Miami Heat,Cleveland Cavaliers,Moneyline,,-195.0,0.56,,random forest,25,False,basic_20pct_split,2021-12-01 20:18
+2021-12-01,Miami Heat,Cleveland Cavaliers,Moneyline,,-195.0,0.5489999999999999,,random forest,25,True,basic_20pct_split,2021-12-01 20:19
+2021-12-01,Miami Heat,Cleveland Cavaliers,Moneyline,,-195.0,0.527,,svm,3,False,basic_20pct_split,2021-12-01 18:45
+2021-12-01,Miami Heat,Cleveland Cavaliers,Moneyline,,-195.0,0.5920000000000001,,svm,5,False,basic_20pct_split,2021-12-01 19:02
+2021-12-01,Miami Heat,Cleveland Cavaliers,Moneyline,,-195.0,0.649,,svm,10,False,basic_20pct_split,2021-12-01 19:21
+2021-12-01,Miami Heat,Cleveland Cavaliers,Moneyline,,-195.0,0.71,,svm,15,False,basic_20pct_split,2021-12-01 19:37
+2021-12-01,Miami Heat,Cleveland Cavaliers,Moneyline,,-195.0,0.5820000000000001,,svm,20,False,basic_20pct_split,2021-12-01 19:53
+2021-12-01,Miami Heat,Cleveland Cavaliers,Moneyline,,-195.0,0.726,,svm,25,False,basic_20pct_split,2021-12-01 20:06
+2021-12-01,Milwaukee Bucks,Charlotte Hornets,Moneyline,,-380.0,0.8440000000000001,,logistic regression,3,False,basic_20pct_split,2021-12-01 18:22
+2021-12-01,Milwaukee Bucks,Charlotte Hornets,Moneyline,,-380.0,0.573,,logistic regression,3,True,basic_20pct_split,2021-12-01 18:22
+2021-12-01,Milwaukee Bucks,Charlotte Hornets,Moneyline,,-380.0,0.857,,logistic regression,5,False,basic_20pct_split,2021-12-01 18:22
+2021-12-01,Milwaukee Bucks,Charlotte Hornets,Moneyline,,-380.0,0.532,,logistic regression,5,True,basic_20pct_split,2021-12-01 18:22
+2021-12-01,Milwaukee Bucks,Charlotte Hornets,Moneyline,,-380.0,0.919,,logistic regression,10,False,basic_20pct_split,2021-12-01 18:23
+2021-12-01,Milwaukee Bucks,Charlotte Hornets,Moneyline,,-380.0,0.39299999999999996,,logistic regression,10,True,basic_20pct_split,2021-12-01 18:23
+2021-12-01,Milwaukee Bucks,Charlotte Hornets,Moneyline,,-380.0,0.857,,logistic regression,15,False,basic_20pct_split,2021-12-01 18:24
+2021-12-01,Milwaukee Bucks,Charlotte Hornets,Moneyline,,-380.0,0.5529999999999999,,logistic regression,15,True,basic_20pct_split,2021-12-01 18:24
+2021-12-01,Milwaukee Bucks,Charlotte Hornets,Moneyline,,-380.0,0.858,,logistic regression,20,False,basic_20pct_split,2021-12-01 18:24
+2021-12-01,Milwaukee Bucks,Charlotte Hornets,Moneyline,,-380.0,0.591,,logistic regression,20,True,basic_20pct_split,2021-12-01 18:25
+2021-12-01,Milwaukee Bucks,Charlotte Hornets,Moneyline,,-380.0,0.843,,logistic regression,25,False,basic_20pct_split,2021-12-01 18:25
+2021-12-01,Milwaukee Bucks,Charlotte Hornets,Moneyline,,-380.0,0.639,,logistic regression,25,True,basic_20pct_split,2021-12-01 18:26
+2021-12-01,Milwaukee Bucks,Charlotte Hornets,Moneyline,,-380.0,0.9919999837875366,,neural net,3,False,basic_20pct_split,2021-12-01 20:25
+2021-12-01,Milwaukee Bucks,Charlotte Hornets,Moneyline,,-380.0,0.5270000100135803,,neural net,3,True,basic_20pct_split,2021-12-01 20:31
+2021-12-01,Milwaukee Bucks,Charlotte Hornets,Moneyline,,-380.0,0.9079999923706056,,neural net,5,False,basic_20pct_split,2021-12-01 20:37
+2021-12-01,Milwaukee Bucks,Charlotte Hornets,Moneyline,,-380.0,0.9710000157356262,,neural net,5,True,basic_20pct_split,2021-12-01 20:43
+2021-12-01,Milwaukee Bucks,Charlotte Hornets,Moneyline,,-380.0,0.968999981880188,,neural net,10,False,basic_20pct_split,2021-12-01 20:49
+2021-12-01,Milwaukee Bucks,Charlotte Hornets,Moneyline,,-380.0,0.9470000267028807,,neural net,10,True,basic_20pct_split,2021-12-01 20:55
+2021-12-01,Milwaukee Bucks,Charlotte Hornets,Moneyline,,-380.0,0.9049999713897704,,neural net,15,False,basic_20pct_split,2021-12-01 21:01
+2021-12-01,Milwaukee Bucks,Charlotte Hornets,Moneyline,,-380.0,0.9959999918937684,,neural net,15,True,basic_20pct_split,2021-12-01 21:07
+2021-12-01,Milwaukee Bucks,Charlotte Hornets,Moneyline,,-380.0,0.9940000176429749,,neural net,20,False,basic_20pct_split,2021-12-01 21:13
+2021-12-01,Milwaukee Bucks,Charlotte Hornets,Moneyline,,-380.0,0.9210000038146972,,neural net,20,True,basic_20pct_split,2021-12-01 21:19
+2021-12-01,Milwaukee Bucks,Charlotte Hornets,Moneyline,,-380.0,0.9980000257492065,,neural net,25,False,basic_20pct_split,2021-12-01 21:25
+2021-12-01,Milwaukee Bucks,Charlotte Hornets,Moneyline,,-380.0,0.78,,random forest,3,False,basic_20pct_split,2021-12-01 20:07
+2021-12-01,Milwaukee Bucks,Charlotte Hornets,Moneyline,,-380.0,0.721,,random forest,3,True,basic_20pct_split,2021-12-01 20:08
+2021-12-01,Milwaukee Bucks,Charlotte Hornets,Moneyline,,-380.0,0.6970000000000001,,random forest,5,False,basic_20pct_split,2021-12-01 20:09
+2021-12-01,Milwaukee Bucks,Charlotte Hornets,Moneyline,,-380.0,0.763,,random forest,5,True,basic_20pct_split,2021-12-01 20:10
+2021-12-01,Milwaukee Bucks,Charlotte Hornets,Moneyline,,-380.0,0.755,,random forest,10,False,basic_20pct_split,2021-12-01 20:11
+2021-12-01,Milwaukee Bucks,Charlotte Hornets,Moneyline,,-380.0,0.71,,random forest,10,True,basic_20pct_split,2021-12-01 20:12
+2021-12-01,Milwaukee Bucks,Charlotte Hornets,Moneyline,,-380.0,0.748,,random forest,15,False,basic_20pct_split,2021-12-01 20:13
+2021-12-01,Milwaukee Bucks,Charlotte Hornets,Moneyline,,-380.0,0.71,,random forest,15,True,basic_20pct_split,2021-12-01 20:14
+2021-12-01,Milwaukee Bucks,Charlotte Hornets,Moneyline,,-380.0,0.674,,random forest,20,False,basic_20pct_split,2021-12-01 20:16
+2021-12-01,Milwaukee Bucks,Charlotte Hornets,Moneyline,,-380.0,0.715,,random forest,20,True,basic_20pct_split,2021-12-01 20:17
+2021-12-01,Milwaukee Bucks,Charlotte Hornets,Moneyline,,-380.0,0.622,,random forest,25,False,basic_20pct_split,2021-12-01 20:18
+2021-12-01,Milwaukee Bucks,Charlotte Hornets,Moneyline,,-380.0,0.713,,random forest,25,True,basic_20pct_split,2021-12-01 20:19
+2021-12-01,Milwaukee Bucks,Charlotte Hornets,Moneyline,,-380.0,0.742,,svm,3,False,basic_20pct_split,2021-12-01 18:45
+2021-12-01,Milwaukee Bucks,Charlotte Hornets,Moneyline,,-380.0,0.746,,svm,5,False,basic_20pct_split,2021-12-01 19:02
+2021-12-01,Milwaukee Bucks,Charlotte Hornets,Moneyline,,-380.0,0.8440000000000001,,svm,10,False,basic_20pct_split,2021-12-01 19:21
+2021-12-01,Milwaukee Bucks,Charlotte Hornets,Moneyline,,-380.0,0.6509999999999999,,svm,15,False,basic_20pct_split,2021-12-01 19:37
+2021-12-01,Milwaukee Bucks,Charlotte Hornets,Moneyline,,-380.0,0.6459999999999999,,svm,20,False,basic_20pct_split,2021-12-01 19:53
+2021-12-01,Milwaukee Bucks,Charlotte Hornets,Moneyline,,-380.0,0.591,,svm,25,False,basic_20pct_split,2021-12-01 20:06
+2021-12-01,New Orleans Pelicans,Dallas Mavericks,Moneyline,,140.0,0.447,,logistic regression,3,False,basic_20pct_split,2021-12-01 18:22
+2021-12-01,New Orleans Pelicans,Dallas Mavericks,Moneyline,,140.0,0.35100000000000003,,logistic regression,3,True,basic_20pct_split,2021-12-01 18:22
+2021-12-01,New Orleans Pelicans,Dallas Mavericks,Moneyline,,140.0,0.313,,logistic regression,5,False,basic_20pct_split,2021-12-01 18:22
+2021-12-01,New Orleans Pelicans,Dallas Mavericks,Moneyline,,140.0,0.061,,logistic regression,5,True,basic_20pct_split,2021-12-01 18:22
+2021-12-01,New Orleans Pelicans,Dallas Mavericks,Moneyline,,140.0,0.194,,logistic regression,10,False,basic_20pct_split,2021-12-01 18:23
+2021-12-01,New Orleans Pelicans,Dallas Mavericks,Moneyline,,140.0,0.057999999999999996,,logistic regression,10,True,basic_20pct_split,2021-12-01 18:23
+2021-12-01,New Orleans Pelicans,Dallas Mavericks,Moneyline,,140.0,0.08,,logistic regression,15,False,basic_20pct_split,2021-12-01 18:24
+2021-12-01,New Orleans Pelicans,Dallas Mavericks,Moneyline,,140.0,0.166,,logistic regression,15,True,basic_20pct_split,2021-12-01 18:24
+2021-12-01,New Orleans Pelicans,Dallas Mavericks,Moneyline,,140.0,0.243,,logistic regression,20,False,basic_20pct_split,2021-12-01 18:24
+2021-12-01,New Orleans Pelicans,Dallas Mavericks,Moneyline,,140.0,0.391,,logistic regression,20,True,basic_20pct_split,2021-12-01 18:25
+2021-12-01,New Orleans Pelicans,Dallas Mavericks,Moneyline,,140.0,0.133,,logistic regression,25,False,basic_20pct_split,2021-12-01 18:25
+2021-12-01,New Orleans Pelicans,Dallas Mavericks,Moneyline,,140.0,0.11599999999999999,,logistic regression,25,True,basic_20pct_split,2021-12-01 18:26
+2021-12-01,New Orleans Pelicans,Dallas Mavericks,Moneyline,,140.0,0.0040000001899898035,,neural net,3,False,basic_20pct_split,2021-12-01 20:25
+2021-12-01,New Orleans Pelicans,Dallas Mavericks,Moneyline,,140.0,0.7739999890327454,,neural net,3,True,basic_20pct_split,2021-12-01 20:31
+2021-12-01,New Orleans Pelicans,Dallas Mavericks,Moneyline,,140.0,0.0,,neural net,5,False,basic_20pct_split,2021-12-01 20:37
+2021-12-01,New Orleans Pelicans,Dallas Mavericks,Moneyline,,140.0,0.008000000379979609,,neural net,5,True,basic_20pct_split,2021-12-01 20:43
+2021-12-01,New Orleans Pelicans,Dallas Mavericks,Moneyline,,140.0,0.0,,neural net,10,False,basic_20pct_split,2021-12-01 20:49
+2021-12-01,New Orleans Pelicans,Dallas Mavericks,Moneyline,,140.0,0.0,,neural net,10,True,basic_20pct_split,2021-12-01 20:55
+2021-12-01,New Orleans Pelicans,Dallas Mavericks,Moneyline,,140.0,0.0020000000949949017,,neural net,15,False,basic_20pct_split,2021-12-01 21:01
+2021-12-01,New Orleans Pelicans,Dallas Mavericks,Moneyline,,140.0,0.027000000700354576,,neural net,15,True,basic_20pct_split,2021-12-01 21:07
+2021-12-01,New Orleans Pelicans,Dallas Mavericks,Moneyline,,140.0,0.0,,neural net,20,False,basic_20pct_split,2021-12-01 21:13
+2021-12-01,New Orleans Pelicans,Dallas Mavericks,Moneyline,,140.0,0.9229999780654908,,neural net,20,True,basic_20pct_split,2021-12-01 21:19
+2021-12-01,New Orleans Pelicans,Dallas Mavericks,Moneyline,,140.0,0.07400000095367432,,neural net,25,False,basic_20pct_split,2021-12-01 21:25
+2021-12-01,New Orleans Pelicans,Dallas Mavericks,Moneyline,,140.0,0.398,,random forest,3,False,basic_20pct_split,2021-12-01 20:07
+2021-12-01,New Orleans Pelicans,Dallas Mavericks,Moneyline,,140.0,0.38299999999999995,,random forest,3,True,basic_20pct_split,2021-12-01 20:08
+2021-12-01,New Orleans Pelicans,Dallas Mavericks,Moneyline,,140.0,0.415,,random forest,5,False,basic_20pct_split,2021-12-01 20:09
+2021-12-01,New Orleans Pelicans,Dallas Mavericks,Moneyline,,140.0,0.39399999999999996,,random forest,5,True,basic_20pct_split,2021-12-01 20:10
+2021-12-01,New Orleans Pelicans,Dallas Mavericks,Moneyline,,140.0,0.417,,random forest,10,False,basic_20pct_split,2021-12-01 20:11
+2021-12-01,New Orleans Pelicans,Dallas Mavericks,Moneyline,,140.0,0.335,,random forest,10,True,basic_20pct_split,2021-12-01 20:12
+2021-12-01,New Orleans Pelicans,Dallas Mavericks,Moneyline,,140.0,0.303,,random forest,15,False,basic_20pct_split,2021-12-01 20:13
+2021-12-01,New Orleans Pelicans,Dallas Mavericks,Moneyline,,140.0,0.359,,random forest,15,True,basic_20pct_split,2021-12-01 20:14
+2021-12-01,New Orleans Pelicans,Dallas Mavericks,Moneyline,,140.0,0.407,,random forest,20,False,basic_20pct_split,2021-12-01 20:16
+2021-12-01,New Orleans Pelicans,Dallas Mavericks,Moneyline,,140.0,0.387,,random forest,20,True,basic_20pct_split,2021-12-01 20:17
+2021-12-01,New Orleans Pelicans,Dallas Mavericks,Moneyline,,140.0,0.328,,random forest,25,False,basic_20pct_split,2021-12-01 20:18
+2021-12-01,New Orleans Pelicans,Dallas Mavericks,Moneyline,,140.0,0.39,,random forest,25,True,basic_20pct_split,2021-12-01 20:19
+2021-12-01,New Orleans Pelicans,Dallas Mavericks,Moneyline,,140.0,0.309,,svm,3,False,basic_20pct_split,2021-12-01 18:45
+2021-12-01,New Orleans Pelicans,Dallas Mavericks,Moneyline,,140.0,0.327,,svm,5,False,basic_20pct_split,2021-12-01 19:02
+2021-12-01,New Orleans Pelicans,Dallas Mavericks,Moneyline,,140.0,0.195,,svm,10,False,basic_20pct_split,2021-12-01 19:21
+2021-12-01,New Orleans Pelicans,Dallas Mavericks,Moneyline,,140.0,0.19,,svm,15,False,basic_20pct_split,2021-12-01 19:37
+2021-12-01,New Orleans Pelicans,Dallas Mavericks,Moneyline,,140.0,0.206,,svm,20,False,basic_20pct_split,2021-12-01 19:53
+2021-12-01,New Orleans Pelicans,Dallas Mavericks,Moneyline,,140.0,0.20800000000000002,,svm,25,False,basic_20pct_split,2021-12-01 20:06
+2021-12-01,Oklahoma City Thunder,Houston Rockets,Moneyline,,-140.0,0.425,,logistic regression,3,False,basic_20pct_split,2021-12-01 18:22
+2021-12-01,Oklahoma City Thunder,Houston Rockets,Moneyline,,-140.0,0.7140000000000001,,logistic regression,3,True,basic_20pct_split,2021-12-01 18:22
+2021-12-01,Oklahoma City Thunder,Houston Rockets,Moneyline,,-140.0,0.434,,logistic regression,5,False,basic_20pct_split,2021-12-01 18:22
+2021-12-01,Oklahoma City Thunder,Houston Rockets,Moneyline,,-140.0,0.6920000000000001,,logistic regression,5,True,basic_20pct_split,2021-12-01 18:22
+2021-12-01,Oklahoma City Thunder,Houston Rockets,Moneyline,,-140.0,0.455,,logistic regression,10,False,basic_20pct_split,2021-12-01 18:23
+2021-12-01,Oklahoma City Thunder,Houston Rockets,Moneyline,,-140.0,0.39,,logistic regression,10,True,basic_20pct_split,2021-12-01 18:23
+2021-12-01,Oklahoma City Thunder,Houston Rockets,Moneyline,,-140.0,0.5379999999999999,,logistic regression,15,False,basic_20pct_split,2021-12-01 18:24
+2021-12-01,Oklahoma City Thunder,Houston Rockets,Moneyline,,-140.0,0.373,,logistic regression,15,True,basic_20pct_split,2021-12-01 18:24
+2021-12-01,Oklahoma City Thunder,Houston Rockets,Moneyline,,-140.0,0.168,,logistic regression,20,False,basic_20pct_split,2021-12-01 18:24
+2021-12-01,Oklahoma City Thunder,Houston Rockets,Moneyline,,-140.0,0.373,,logistic regression,20,True,basic_20pct_split,2021-12-01 18:25
+2021-12-01,Oklahoma City Thunder,Houston Rockets,Moneyline,,-140.0,0.584,,logistic regression,25,False,basic_20pct_split,2021-12-01 18:25
+2021-12-01,Oklahoma City Thunder,Houston Rockets,Moneyline,,-140.0,0.4370000000000001,,logistic regression,25,True,basic_20pct_split,2021-12-01 18:26
+2021-12-01,Oklahoma City Thunder,Houston Rockets,Moneyline,,-140.0,0.15800000727176666,,neural net,3,False,basic_20pct_split,2021-12-01 20:25
+2021-12-01,Oklahoma City Thunder,Houston Rockets,Moneyline,,-140.0,0.9480000138282776,,neural net,3,True,basic_20pct_split,2021-12-01 20:31
+2021-12-01,Oklahoma City Thunder,Houston Rockets,Moneyline,,-140.0,0.0,,neural net,5,False,basic_20pct_split,2021-12-01 20:37
+2021-12-01,Oklahoma City Thunder,Houston Rockets,Moneyline,,-140.0,0.05799999833106995,,neural net,5,True,basic_20pct_split,2021-12-01 20:43
+2021-12-01,Oklahoma City Thunder,Houston Rockets,Moneyline,,-140.0,0.0010000000474974509,,neural net,10,False,basic_20pct_split,2021-12-01 20:49
+2021-12-01,Oklahoma City Thunder,Houston Rockets,Moneyline,,-140.0,0.9769999980926514,,neural net,10,True,basic_20pct_split,2021-12-01 20:55
+2021-12-01,Oklahoma City Thunder,Houston Rockets,Moneyline,,-140.0,0.8700000047683716,,neural net,15,False,basic_20pct_split,2021-12-01 21:01
+2021-12-01,Oklahoma City Thunder,Houston Rockets,Moneyline,,-140.0,0.9020000100135804,,neural net,15,True,basic_20pct_split,2021-12-01 21:07
+2021-12-01,Oklahoma City Thunder,Houston Rockets,Moneyline,,-140.0,0.9879999756813048,,neural net,20,False,basic_20pct_split,2021-12-01 21:13
+2021-12-01,Oklahoma City Thunder,Houston Rockets,Moneyline,,-140.0,1.0,,neural net,20,True,basic_20pct_split,2021-12-01 21:19
+2021-12-01,Oklahoma City Thunder,Houston Rockets,Moneyline,,-140.0,0.02800000086426735,,neural net,25,False,basic_20pct_split,2021-12-01 21:25
+2021-12-01,Oklahoma City Thunder,Houston Rockets,Moneyline,,-140.0,0.556,,random forest,3,False,basic_20pct_split,2021-12-01 20:07
+2021-12-01,Oklahoma City Thunder,Houston Rockets,Moneyline,,-140.0,0.5489999999999999,,random forest,3,True,basic_20pct_split,2021-12-01 20:08
+2021-12-01,Oklahoma City Thunder,Houston Rockets,Moneyline,,-140.0,0.449,,random forest,5,False,basic_20pct_split,2021-12-01 20:09
+2021-12-01,Oklahoma City Thunder,Houston Rockets,Moneyline,,-140.0,0.451,,random forest,5,True,basic_20pct_split,2021-12-01 20:10
+2021-12-01,Oklahoma City Thunder,Houston Rockets,Moneyline,,-140.0,0.532,,random forest,10,False,basic_20pct_split,2021-12-01 20:11
+2021-12-01,Oklahoma City Thunder,Houston Rockets,Moneyline,,-140.0,0.495,,random forest,10,True,basic_20pct_split,2021-12-01 20:12
+2021-12-01,Oklahoma City Thunder,Houston Rockets,Moneyline,,-140.0,0.541,,random forest,15,False,basic_20pct_split,2021-12-01 20:13
+2021-12-01,Oklahoma City Thunder,Houston Rockets,Moneyline,,-140.0,0.557,,random forest,15,True,basic_20pct_split,2021-12-01 20:14
+2021-12-01,Oklahoma City Thunder,Houston Rockets,Moneyline,,-140.0,0.531,,random forest,20,False,basic_20pct_split,2021-12-01 20:16
+2021-12-01,Oklahoma City Thunder,Houston Rockets,Moneyline,,-140.0,0.515,,random forest,20,True,basic_20pct_split,2021-12-01 20:17
+2021-12-01,Oklahoma City Thunder,Houston Rockets,Moneyline,,-140.0,0.537,,random forest,25,False,basic_20pct_split,2021-12-01 20:18
+2021-12-01,Oklahoma City Thunder,Houston Rockets,Moneyline,,-140.0,0.503,,random forest,25,True,basic_20pct_split,2021-12-01 20:19
+2021-12-01,Oklahoma City Thunder,Houston Rockets,Moneyline,,-140.0,0.55,,svm,3,False,basic_20pct_split,2021-12-01 18:45
+2021-12-01,Oklahoma City Thunder,Houston Rockets,Moneyline,,-140.0,0.293,,svm,5,False,basic_20pct_split,2021-12-01 19:02
+2021-12-01,Oklahoma City Thunder,Houston Rockets,Moneyline,,-140.0,0.5,,svm,10,False,basic_20pct_split,2021-12-01 19:21
+2021-12-01,Oklahoma City Thunder,Houston Rockets,Moneyline,,-140.0,0.355,,svm,15,False,basic_20pct_split,2021-12-01 19:37
+2021-12-01,Oklahoma City Thunder,Houston Rockets,Moneyline,,-140.0,0.333,,svm,20,False,basic_20pct_split,2021-12-01 19:53
+2021-12-01,Oklahoma City Thunder,Houston Rockets,Moneyline,,-140.0,0.379,,svm,25,False,basic_20pct_split,2021-12-01 20:06
+2021-12-01,Orlando Magic,Denver Nuggets,Moneyline,,275.0,0.056,,logistic regression,3,False,basic_20pct_split,2021-12-01 18:22
+2021-12-01,Orlando Magic,Denver Nuggets,Moneyline,,275.0,0.057,,logistic regression,3,True,basic_20pct_split,2021-12-01 18:22
+2021-12-01,Orlando Magic,Denver Nuggets,Moneyline,,275.0,0.071,,logistic regression,5,False,basic_20pct_split,2021-12-01 18:22
+2021-12-01,Orlando Magic,Denver Nuggets,Moneyline,,275.0,0.10400000000000001,,logistic regression,5,True,basic_20pct_split,2021-12-01 18:22
+2021-12-01,Orlando Magic,Denver Nuggets,Moneyline,,275.0,0.1,,logistic regression,10,False,basic_20pct_split,2021-12-01 18:23
+2021-12-01,Orlando Magic,Denver Nuggets,Moneyline,,275.0,0.723,,logistic regression,10,True,basic_20pct_split,2021-12-01 18:23
+2021-12-01,Orlando Magic,Denver Nuggets,Moneyline,,275.0,0.064,,logistic regression,15,False,basic_20pct_split,2021-12-01 18:24
+2021-12-01,Orlando Magic,Denver Nuggets,Moneyline,,275.0,0.163,,logistic regression,15,True,basic_20pct_split,2021-12-01 18:24
+2021-12-01,Orlando Magic,Denver Nuggets,Moneyline,,275.0,0.044,,logistic regression,20,False,basic_20pct_split,2021-12-01 18:24
+2021-12-01,Orlando Magic,Denver Nuggets,Moneyline,,275.0,0.15,,logistic regression,20,True,basic_20pct_split,2021-12-01 18:25
+2021-12-01,Orlando Magic,Denver Nuggets,Moneyline,,275.0,0.046,,logistic regression,25,False,basic_20pct_split,2021-12-01 18:25
+2021-12-01,Orlando Magic,Denver Nuggets,Moneyline,,275.0,0.10400000000000001,,logistic regression,25,True,basic_20pct_split,2021-12-01 18:26
+2021-12-01,Orlando Magic,Denver Nuggets,Moneyline,,275.0,0.0020000000949949017,,neural net,3,False,basic_20pct_split,2021-12-01 20:25
+2021-12-01,Orlando Magic,Denver Nuggets,Moneyline,,275.0,0.0,,neural net,3,True,basic_20pct_split,2021-12-01 20:31
+2021-12-01,Orlando Magic,Denver Nuggets,Moneyline,,275.0,0.119999997317791,,neural net,5,False,basic_20pct_split,2021-12-01 20:37
+2021-12-01,Orlando Magic,Denver Nuggets,Moneyline,,275.0,0.0,,neural net,5,True,basic_20pct_split,2021-12-01 20:43
+2021-12-01,Orlando Magic,Denver Nuggets,Moneyline,,275.0,0.0,,neural net,10,False,basic_20pct_split,2021-12-01 20:49
+2021-12-01,Orlando Magic,Denver Nuggets,Moneyline,,275.0,0.0,,neural net,10,True,basic_20pct_split,2021-12-01 20:55
+2021-12-01,Orlando Magic,Denver Nuggets,Moneyline,,275.0,0.012000000104308128,,neural net,15,False,basic_20pct_split,2021-12-01 21:01
+2021-12-01,Orlando Magic,Denver Nuggets,Moneyline,,275.0,0.0,,neural net,15,True,basic_20pct_split,2021-12-01 21:07
+2021-12-01,Orlando Magic,Denver Nuggets,Moneyline,,275.0,0.0,,neural net,20,False,basic_20pct_split,2021-12-01 21:13
+2021-12-01,Orlando Magic,Denver Nuggets,Moneyline,,275.0,0.5960000157356262,,neural net,20,True,basic_20pct_split,2021-12-01 21:19
+2021-12-01,Orlando Magic,Denver Nuggets,Moneyline,,275.0,0.0,,neural net,25,False,basic_20pct_split,2021-12-01 21:25
+2021-12-01,Orlando Magic,Denver Nuggets,Moneyline,,275.0,0.317,,random forest,3,False,basic_20pct_split,2021-12-01 20:07
+2021-12-01,Orlando Magic,Denver Nuggets,Moneyline,,275.0,0.245,,random forest,3,True,basic_20pct_split,2021-12-01 20:08
+2021-12-01,Orlando Magic,Denver Nuggets,Moneyline,,275.0,0.327,,random forest,5,False,basic_20pct_split,2021-12-01 20:09
+2021-12-01,Orlando Magic,Denver Nuggets,Moneyline,,275.0,0.282,,random forest,5,True,basic_20pct_split,2021-12-01 20:10
+2021-12-01,Orlando Magic,Denver Nuggets,Moneyline,,275.0,0.315,,random forest,10,False,basic_20pct_split,2021-12-01 20:11
+2021-12-01,Orlando Magic,Denver Nuggets,Moneyline,,275.0,0.312,,random forest,10,True,basic_20pct_split,2021-12-01 20:12
+2021-12-01,Orlando Magic,Denver Nuggets,Moneyline,,275.0,0.29,,random forest,15,False,basic_20pct_split,2021-12-01 20:13
+2021-12-01,Orlando Magic,Denver Nuggets,Moneyline,,275.0,0.2,,random forest,15,True,basic_20pct_split,2021-12-01 20:14
+2021-12-01,Orlando Magic,Denver Nuggets,Moneyline,,275.0,0.228,,random forest,20,False,basic_20pct_split,2021-12-01 20:16
+2021-12-01,Orlando Magic,Denver Nuggets,Moneyline,,275.0,0.28,,random forest,20,True,basic_20pct_split,2021-12-01 20:17
+2021-12-01,Orlando Magic,Denver Nuggets,Moneyline,,275.0,0.29,,random forest,25,False,basic_20pct_split,2021-12-01 20:18
+2021-12-01,Orlando Magic,Denver Nuggets,Moneyline,,275.0,0.309,,random forest,25,True,basic_20pct_split,2021-12-01 20:19
+2021-12-01,Orlando Magic,Denver Nuggets,Moneyline,,275.0,0.154,,svm,3,False,basic_20pct_split,2021-12-01 18:45
+2021-12-01,Orlando Magic,Denver Nuggets,Moneyline,,275.0,0.125,,svm,5,False,basic_20pct_split,2021-12-01 19:02
+2021-12-01,Orlando Magic,Denver Nuggets,Moneyline,,275.0,0.084,,svm,10,False,basic_20pct_split,2021-12-01 19:21
+2021-12-01,Orlando Magic,Denver Nuggets,Moneyline,,275.0,0.147,,svm,15,False,basic_20pct_split,2021-12-01 19:37
+2021-12-01,Orlando Magic,Denver Nuggets,Moneyline,,275.0,0.091,,svm,20,False,basic_20pct_split,2021-12-01 19:53
+2021-12-01,Orlando Magic,Denver Nuggets,Moneyline,,275.0,0.20600000000000002,,svm,25,False,basic_20pct_split,2021-12-01 20:06
+2021-12-01,Washington Wizards,Minnesota Timberwolves,Moneyline,,-180.0,0.608,,logistic regression,3,False,basic_20pct_split,2021-12-01 18:22
+2021-12-01,Washington Wizards,Minnesota Timberwolves,Moneyline,,-180.0,0.405,,logistic regression,3,True,basic_20pct_split,2021-12-01 18:22
+2021-12-01,Washington Wizards,Minnesota Timberwolves,Moneyline,,-180.0,0.5539999999999999,,logistic regression,5,False,basic_20pct_split,2021-12-01 18:22
+2021-12-01,Washington Wizards,Minnesota Timberwolves,Moneyline,,-180.0,0.33799999999999997,,logistic regression,5,True,basic_20pct_split,2021-12-01 18:22
+2021-12-01,Washington Wizards,Minnesota Timberwolves,Moneyline,,-180.0,0.622,,logistic regression,10,False,basic_20pct_split,2021-12-01 18:23
+2021-12-01,Washington Wizards,Minnesota Timberwolves,Moneyline,,-180.0,0.915,,logistic regression,10,True,basic_20pct_split,2021-12-01 18:23
+2021-12-01,Washington Wizards,Minnesota Timberwolves,Moneyline,,-180.0,0.53,,logistic regression,15,False,basic_20pct_split,2021-12-01 18:24
+2021-12-01,Washington Wizards,Minnesota Timberwolves,Moneyline,,-180.0,0.249,,logistic regression,15,True,basic_20pct_split,2021-12-01 18:24
+2021-12-01,Washington Wizards,Minnesota Timberwolves,Moneyline,,-180.0,0.448,,logistic regression,20,False,basic_20pct_split,2021-12-01 18:24
+2021-12-01,Washington Wizards,Minnesota Timberwolves,Moneyline,,-180.0,0.092,,logistic regression,20,True,basic_20pct_split,2021-12-01 18:25
+2021-12-01,Washington Wizards,Minnesota Timberwolves,Moneyline,,-180.0,0.395,,logistic regression,25,False,basic_20pct_split,2021-12-01 18:25
+2021-12-01,Washington Wizards,Minnesota Timberwolves,Moneyline,,-180.0,0.163,,logistic regression,25,True,basic_20pct_split,2021-12-01 18:26
+2021-12-01,Washington Wizards,Minnesota Timberwolves,Moneyline,,-180.0,0.8539999723434448,,neural net,3,False,basic_20pct_split,2021-12-01 20:25
+2021-12-01,Washington Wizards,Minnesota Timberwolves,Moneyline,,-180.0,0.210999995470047,,neural net,3,True,basic_20pct_split,2021-12-01 20:31
+2021-12-01,Washington Wizards,Minnesota Timberwolves,Moneyline,,-180.0,0.99099999666214,,neural net,5,False,basic_20pct_split,2021-12-01 20:37
+2021-12-01,Washington Wizards,Minnesota Timberwolves,Moneyline,,-180.0,0.9990000128746032,,neural net,5,True,basic_20pct_split,2021-12-01 20:43
+2021-12-01,Washington Wizards,Minnesota Timberwolves,Moneyline,,-180.0,0.9980000257492064,,neural net,10,False,basic_20pct_split,2021-12-01 20:49
+2021-12-01,Washington Wizards,Minnesota Timberwolves,Moneyline,,-180.0,1.0,,neural net,10,True,basic_20pct_split,2021-12-01 20:55
+2021-12-01,Washington Wizards,Minnesota Timberwolves,Moneyline,,-180.0,0.0020000000949949017,,neural net,15,False,basic_20pct_split,2021-12-01 21:01
+2021-12-01,Washington Wizards,Minnesota Timberwolves,Moneyline,,-180.0,0.9980000257492064,,neural net,15,True,basic_20pct_split,2021-12-01 21:07
+2021-12-01,Washington Wizards,Minnesota Timberwolves,Moneyline,,-180.0,0.9990000128746032,,neural net,20,False,basic_20pct_split,2021-12-01 21:13
+2021-12-01,Washington Wizards,Minnesota Timberwolves,Moneyline,,-180.0,0.9980000257492064,,neural net,20,True,basic_20pct_split,2021-12-01 21:19
+2021-12-01,Washington Wizards,Minnesota Timberwolves,Moneyline,,-180.0,0.9950000047683716,,neural net,25,False,basic_20pct_split,2021-12-01 21:25
+2021-12-01,Washington Wizards,Minnesota Timberwolves,Moneyline,,-180.0,0.648,,random forest,3,False,basic_20pct_split,2021-12-01 20:07
+2021-12-01,Washington Wizards,Minnesota Timberwolves,Moneyline,,-180.0,0.501,,random forest,3,True,basic_20pct_split,2021-12-01 20:08
+2021-12-01,Washington Wizards,Minnesota Timberwolves,Moneyline,,-180.0,0.598,,random forest,5,False,basic_20pct_split,2021-12-01 20:09
+2021-12-01,Washington Wizards,Minnesota Timberwolves,Moneyline,,-180.0,0.513,,random forest,5,True,basic_20pct_split,2021-12-01 20:10
+2021-12-01,Washington Wizards,Minnesota Timberwolves,Moneyline,,-180.0,0.598,,random forest,10,False,basic_20pct_split,2021-12-01 20:11
+2021-12-01,Washington Wizards,Minnesota Timberwolves,Moneyline,,-180.0,0.522,,random forest,10,True,basic_20pct_split,2021-12-01 20:12
+2021-12-01,Washington Wizards,Minnesota Timberwolves,Moneyline,,-180.0,0.643,,random forest,15,False,basic_20pct_split,2021-12-01 20:13
+2021-12-01,Washington Wizards,Minnesota Timberwolves,Moneyline,,-180.0,0.434,,random forest,15,True,basic_20pct_split,2021-12-01 20:14
+2021-12-01,Washington Wizards,Minnesota Timberwolves,Moneyline,,-180.0,0.557,,random forest,20,False,basic_20pct_split,2021-12-01 20:16
+2021-12-01,Washington Wizards,Minnesota Timberwolves,Moneyline,,-180.0,0.44799999999999995,,random forest,20,True,basic_20pct_split,2021-12-01 20:17
+2021-12-01,Washington Wizards,Minnesota Timberwolves,Moneyline,,-180.0,0.594,,random forest,25,False,basic_20pct_split,2021-12-01 20:18
+2021-12-01,Washington Wizards,Minnesota Timberwolves,Moneyline,,-180.0,0.485,,random forest,25,True,basic_20pct_split,2021-12-01 20:19
+2021-12-01,Washington Wizards,Minnesota Timberwolves,Moneyline,,-180.0,0.625,,svm,3,False,basic_20pct_split,2021-12-01 18:45
+2021-12-01,Washington Wizards,Minnesota Timberwolves,Moneyline,,-180.0,0.66,,svm,5,False,basic_20pct_split,2021-12-01 19:02
+2021-12-01,Washington Wizards,Minnesota Timberwolves,Moneyline,,-180.0,0.71,,svm,10,False,basic_20pct_split,2021-12-01 19:21
+2021-12-01,Washington Wizards,Minnesota Timberwolves,Moneyline,,-180.0,0.594,,svm,15,False,basic_20pct_split,2021-12-01 19:37
+2021-12-01,Washington Wizards,Minnesota Timberwolves,Moneyline,,-180.0,0.622,,svm,20,False,basic_20pct_split,2021-12-01 19:53
+2021-12-01,Washington Wizards,Minnesota Timberwolves,Moneyline,,-180.0,0.414,,svm,25,False,basic_20pct_split,2021-12-01 20:06

@@ -48,11 +48,12 @@ class Flat(Agent_Parent):
             agent_bet_df = pd.DataFrame(columns=cols)
         return agent_bet_df
 
-    def load_pred_df(self):  # Top Level
+    def load_pred_df(self, prod):  # Top Level
         """
         loading the df of all the predictions made by the models
         """
-        path = ROOT_PATH + f"/Data/Predictions/{self.league}/Predictions.csv"
+        prod_test_str = "Prod" if prod else "Test"
+        path = ROOT_PATH + f"/Data/Predictions/{self.league}/{prod_test_str}_Predictions.csv"
         pred_df = pd.read_csv(path)
         return pred_df
 
@@ -104,12 +105,12 @@ class Flat(Agent_Parent):
     def save_agent_bet_df(self, agent_bet_df):  # Top Level
         pass
 
-    def run(self, upcoming_only=True):  # Run
+    def run(self, prod=True):  # Run
         """
         making $5 bets when the top 10 models for a bet have positive EV
         """
         agent_bet_df = self.load_make_agent_bet_df()
-        pred_df = self.load_pred_df()
+        pred_df = self.load_pred_df(prod)
         model_eval_df = self.load_model_eval_df()
         for bet_type in ['Spread', 'Total', 'Moneyline']:
             games = self.find_games(bet_type, pred_df, upcoming_only=upcoming_only)
@@ -124,4 +125,4 @@ class Flat(Agent_Parent):
 if __name__ == '__main__':
     for league in ['NFL', 'NBA', 'NCAAF', 'NCAAB']:
         x = Flat(league)
-        x.run()
+        x.run(prod=True)

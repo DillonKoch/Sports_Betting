@@ -44,9 +44,15 @@ class Modeling_Data:
         self.player_data = Player_Data(league)
         self.base_df, self.game_dicts = self.load_base_df_dicts()
         self.game_dicts_new_to_old = self.game_dicts[::-1]
+
+        # * loading ESPN Teams JSON
         with open(ROOT_PATH + f"/Data/Teams/{self.league}_Teams.json", 'r') as f:
             self.teams_dict = json.load(f)
         self.json_teams = list(self.teams_dict['Teams'].keys())
+
+        # * loading roster df
+        self.roster_df = pd.read_csv(ROOT_PATH + f"/Data/ESPN/{self.league}/Rosters.csv")
+        self.roster_teams = list(set(list(self.roster_df['Team'])))
 
         # * making lists of df columns
         self.feature_cols = self.get_feature_cols()
@@ -225,6 +231,10 @@ class Modeling_Data:
         # * filtering on teams being in the ESPN teams json file
         update_home_away_dates = [uhad for uhad in update_home_away_dates
                                   if ((uhad[0] in self.json_teams) and (uhad[1] in self.json_teams))]
+
+        # * filtering on teams having a roster scraped
+        update_home_away_dates = [uhad for uhad in update_home_away_dates
+                                  if ((uhad[0] in self.roster_teams) and (uhad[1] in self.roster_teams))]
 
         # * filtering based on date of teams' eligibility
         team_eligible_dates = {team: self._team_eligible_date(team, num_past_games) for team in self.json_teams}
@@ -416,8 +426,8 @@ class Modeling_Data:
 
 
 if __name__ == '__main__':
-    # for league in ['NFL', 'NBA', 'NCAAF']:
-    for league in ['NCAAB']:
+    for league in ['NFL', 'NBA', 'NCAAF', 'NCAAB']:
+        # for league in ['NCAAB']:
         # ! be sure to check on 'days_since' and 'days_out'
         x = Modeling_Data(league)
         x.run_all()

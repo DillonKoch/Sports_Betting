@@ -190,7 +190,7 @@ class Player_Data:
         """
         finding the most recent team roster from roster_df before a given date
         """
-        df_before_date = self.roster_df.loc[(self.roster_df['Team'] == team) & (self.roster_df['scrape_ts'] <= date)]
+        df_before_date = self.roster_df.loc[(self.roster_df['Team'] == team)]  # & (self.roster_df['scrape_ts'] <= date)]
         most_recent_roster_scrape = list(df_before_date["scrape_ts"])[-1]
         roster_df = df_before_date.loc[df_before_date["scrape_ts"] == most_recent_roster_scrape]
         return roster_df
@@ -384,7 +384,13 @@ class Player_Data:
 
     def run(self, team, date, past_games=10):
         pre_scraping = datetime.datetime.strptime(date, "%Y-%m-%d") < datetime.datetime(2021, 11, 2)
-        player_ids = self.player_ids(team, date, pre_scraping)
+
+        try:
+            player_ids = self.player_ids(team, date, pre_scraping)
+        except Exception as e:
+            print(e)
+            print(team, date)
+
         id_injury_dict = self.id_injury_dict(player_ids, team, date, pre_scraping)
         player_ids = [player_id for player_id in player_ids if ((player_id in id_injury_dict) and (id_injury_dict[player_id] != 0))]
         position_id_dict = self.pos_id_dict(player_ids)
