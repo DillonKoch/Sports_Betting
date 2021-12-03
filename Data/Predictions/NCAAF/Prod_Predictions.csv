@@ -1,0 +1,265 @@
+Game_Date,Home,Away,Bet_Type,Bet_Value,Bet_ML,Prediction,Outcome,Algorithm,Avg_Past_Games,Player_Stats,Dataset,Pred_ts
+2021-12-03,UTSA Roadrunners,Western Kentucky Hilltoppers,Spread,3.0,-110.0,0.5040000081062317,,neural net,3,False,recent_20pct_test,2021-12-02 19:36
+2021-12-03,UTSA Roadrunners,Western Kentucky Hilltoppers,Spread,3.0,-110.0,0.9860000014305116,,neural net,3,True,recent_20pct_test,2021-12-02 19:37
+2021-12-03,UTSA Roadrunners,Western Kentucky Hilltoppers,Spread,3.0,-110.0,0.5220000147819519,,neural net,5,False,recent_20pct_test,2021-12-02 19:37
+2021-12-03,UTSA Roadrunners,Western Kentucky Hilltoppers,Spread,3.0,-110.0,0.6439999938011169,,neural net,5,True,recent_20pct_test,2021-12-02 19:38
+2021-12-03,UTSA Roadrunners,Western Kentucky Hilltoppers,Spread,3.0,-110.0,0.4790000021457672,,neural net,10,False,recent_20pct_test,2021-12-02 19:38
+2021-12-03,UTSA Roadrunners,Western Kentucky Hilltoppers,Spread,3.0,-110.0,0.8130000233650208,,neural net,10,True,recent_20pct_test,2021-12-02 19:39
+2021-12-03,UTSA Roadrunners,Western Kentucky Hilltoppers,Spread,3.0,-110.0,0.5580000281333923,,neural net,15,False,recent_20pct_test,2021-12-02 19:39
+2021-12-03,UTSA Roadrunners,Western Kentucky Hilltoppers,Spread,3.0,-110.0,0.7599999904632568,,neural net,15,True,recent_20pct_test,2021-12-02 19:40
+2021-12-03,UTSA Roadrunners,Western Kentucky Hilltoppers,Spread,3.0,-110.0,0.4990000128746033,,neural net,20,False,recent_20pct_test,2021-12-02 19:41
+2021-12-03,UTSA Roadrunners,Western Kentucky Hilltoppers,Spread,3.0,-110.0,0.6480000019073486,,neural net,20,True,recent_20pct_test,2021-12-02 19:41
+2021-12-03,UTSA Roadrunners,Western Kentucky Hilltoppers,Spread,3.0,-110.0,0.5170000195503235,,neural net,25,False,recent_20pct_test,2021-12-02 19:42
+2021-12-03,UTSA Roadrunners,Western Kentucky Hilltoppers,Spread,3.0,-110.0,0.9190000295639038,,neural net,25,True,recent_20pct_test,2021-12-02 19:42
+2021-12-03,UTSA Roadrunners,Western Kentucky Hilltoppers,Total,72.5,-110.0,0.5070000290870667,,neural net,3,False,recent_20pct_test,2021-12-02 19:29
+2021-12-03,UTSA Roadrunners,Western Kentucky Hilltoppers,Total,72.5,-110.0,0.734000027179718,,neural net,3,True,recent_20pct_test,2021-12-02 19:29
+2021-12-03,UTSA Roadrunners,Western Kentucky Hilltoppers,Total,72.5,-110.0,0.7049999833106995,,neural net,5,False,recent_20pct_test,2021-12-02 19:29
+2021-12-03,UTSA Roadrunners,Western Kentucky Hilltoppers,Total,72.5,-110.0,0.31200000643730164,,neural net,5,True,recent_20pct_test,2021-12-02 19:30
+2021-12-03,UTSA Roadrunners,Western Kentucky Hilltoppers,Total,72.5,-110.0,0.4979999959468842,,neural net,10,False,recent_20pct_test,2021-12-02 19:30
+2021-12-03,UTSA Roadrunners,Western Kentucky Hilltoppers,Total,72.5,-110.0,0.2930000126361847,,neural net,10,True,recent_20pct_test,2021-12-02 19:31
+2021-12-03,UTSA Roadrunners,Western Kentucky Hilltoppers,Total,72.5,-110.0,0.5009999871253967,,neural net,15,False,recent_20pct_test,2021-12-02 19:31
+2021-12-03,UTSA Roadrunners,Western Kentucky Hilltoppers,Total,72.5,-110.0,0.32499998807907104,,neural net,15,True,recent_20pct_test,2021-12-02 19:31
+2021-12-03,UTSA Roadrunners,Western Kentucky Hilltoppers,Total,72.5,-110.0,0.4659999907016754,,neural net,20,False,recent_20pct_test,2021-12-02 19:32
+2021-12-03,UTSA Roadrunners,Western Kentucky Hilltoppers,Total,72.5,-110.0,0.07000000029802322,,neural net,20,True,recent_20pct_test,2021-12-02 19:32
+2021-12-03,UTSA Roadrunners,Western Kentucky Hilltoppers,Total,72.5,-110.0,0.6000000238418579,,neural net,25,False,recent_20pct_test,2021-12-02 19:33
+2021-12-03,UTSA Roadrunners,Western Kentucky Hilltoppers,Total,72.5,-110.0,0.6859999895095825,,neural net,25,True,recent_20pct_test,2021-12-02 19:33
+2021-12-03,Utah Utes,Oregon Ducks,Spread,-3.0,-100.0,0.5830000042915344,,neural net,3,False,recent_20pct_test,2021-12-02 19:36
+2021-12-03,Utah Utes,Oregon Ducks,Spread,-3.0,-100.0,0.4059999883174896,,neural net,3,True,recent_20pct_test,2021-12-02 19:37
+2021-12-03,Utah Utes,Oregon Ducks,Spread,-3.0,-100.0,0.6069999933242798,,neural net,5,False,recent_20pct_test,2021-12-02 19:37
+2021-12-03,Utah Utes,Oregon Ducks,Spread,-3.0,-100.0,0.4760000109672546,,neural net,5,True,recent_20pct_test,2021-12-02 19:38
+2021-12-03,Utah Utes,Oregon Ducks,Spread,-3.0,-100.0,0.5519999861717224,,neural net,10,False,recent_20pct_test,2021-12-02 19:38
+2021-12-03,Utah Utes,Oregon Ducks,Spread,-3.0,-100.0,0.5320000052452087,,neural net,10,True,recent_20pct_test,2021-12-02 19:39
+2021-12-03,Utah Utes,Oregon Ducks,Spread,-3.0,-100.0,0.5199999809265137,,neural net,15,False,recent_20pct_test,2021-12-02 19:39
+2021-12-03,Utah Utes,Oregon Ducks,Spread,-3.0,-100.0,0.7639999985694885,,neural net,15,True,recent_20pct_test,2021-12-02 19:40
+2021-12-03,Utah Utes,Oregon Ducks,Spread,-3.0,-100.0,0.5009999871253967,,neural net,20,False,recent_20pct_test,2021-12-02 19:41
+2021-12-03,Utah Utes,Oregon Ducks,Spread,-3.0,-100.0,0.6209999918937683,,neural net,20,True,recent_20pct_test,2021-12-02 19:41
+2021-12-03,Utah Utes,Oregon Ducks,Spread,-3.0,-100.0,0.5130000114440918,,neural net,25,False,recent_20pct_test,2021-12-02 19:42
+2021-12-03,Utah Utes,Oregon Ducks,Spread,-3.0,-100.0,0.9459999799728394,,neural net,25,True,recent_20pct_test,2021-12-02 19:42
+2021-12-03,Utah Utes,Oregon Ducks,Total,58.0,-110.0,0.5379999876022339,,neural net,3,False,recent_20pct_test,2021-12-02 19:29
+2021-12-03,Utah Utes,Oregon Ducks,Total,58.0,-110.0,0.722000002861023,,neural net,3,True,recent_20pct_test,2021-12-02 19:29
+2021-12-03,Utah Utes,Oregon Ducks,Total,58.0,-110.0,0.8069999814033508,,neural net,5,False,recent_20pct_test,2021-12-02 19:29
+2021-12-03,Utah Utes,Oregon Ducks,Total,58.0,-110.0,0.8009999990463257,,neural net,5,True,recent_20pct_test,2021-12-02 19:30
+2021-12-03,Utah Utes,Oregon Ducks,Total,58.0,-110.0,0.4990000128746033,,neural net,10,False,recent_20pct_test,2021-12-02 19:30
+2021-12-03,Utah Utes,Oregon Ducks,Total,58.0,-110.0,0.5699999928474426,,neural net,10,True,recent_20pct_test,2021-12-02 19:31
+2021-12-03,Utah Utes,Oregon Ducks,Total,58.0,-110.0,0.4670000076293945,,neural net,15,False,recent_20pct_test,2021-12-02 19:31
+2021-12-03,Utah Utes,Oregon Ducks,Total,58.0,-110.0,0.9539999961853028,,neural net,15,True,recent_20pct_test,2021-12-02 19:31
+2021-12-03,Utah Utes,Oregon Ducks,Total,58.0,-110.0,0.3869999945163727,,neural net,20,False,recent_20pct_test,2021-12-02 19:32
+2021-12-03,Utah Utes,Oregon Ducks,Total,58.0,-110.0,0.9580000042915344,,neural net,20,True,recent_20pct_test,2021-12-02 19:32
+2021-12-03,Utah Utes,Oregon Ducks,Total,58.0,-110.0,0.40299999713897705,,neural net,25,False,recent_20pct_test,2021-12-02 19:33
+2021-12-03,Utah Utes,Oregon Ducks,Total,58.0,-110.0,0.5590000152587891,,neural net,25,True,recent_20pct_test,2021-12-02 19:33
+2021-12-04,Alabama Crimson Tide,Georgia Bulldogs,Spread,6.5,-110.0,0.4939999878406525,,neural net,3,False,recent_20pct_test,2021-12-02 19:36
+2021-12-04,Alabama Crimson Tide,Georgia Bulldogs,Spread,6.5,-110.0,0.9829999804496764,,neural net,3,True,recent_20pct_test,2021-12-02 19:37
+2021-12-04,Alabama Crimson Tide,Georgia Bulldogs,Spread,6.5,-110.0,0.5199999809265137,,neural net,5,False,recent_20pct_test,2021-12-02 19:37
+2021-12-04,Alabama Crimson Tide,Georgia Bulldogs,Spread,6.5,-110.0,0.912999987602234,,neural net,5,True,recent_20pct_test,2021-12-02 19:38
+2021-12-04,Alabama Crimson Tide,Georgia Bulldogs,Spread,6.5,-110.0,0.4670000076293945,,neural net,10,False,recent_20pct_test,2021-12-02 19:38
+2021-12-04,Alabama Crimson Tide,Georgia Bulldogs,Spread,6.5,-110.0,0.8429999947547913,,neural net,10,True,recent_20pct_test,2021-12-02 19:39
+2021-12-04,Alabama Crimson Tide,Georgia Bulldogs,Spread,6.5,-110.0,0.4869999885559082,,neural net,15,False,recent_20pct_test,2021-12-02 19:39
+2021-12-04,Alabama Crimson Tide,Georgia Bulldogs,Spread,6.5,-110.0,0.9350000023841858,,neural net,15,True,recent_20pct_test,2021-12-02 19:40
+2021-12-04,Alabama Crimson Tide,Georgia Bulldogs,Spread,6.5,-110.0,0.4729999899864197,,neural net,20,False,recent_20pct_test,2021-12-02 19:41
+2021-12-04,Alabama Crimson Tide,Georgia Bulldogs,Spread,6.5,-110.0,0.7059999704360962,,neural net,20,True,recent_20pct_test,2021-12-02 19:41
+2021-12-04,Alabama Crimson Tide,Georgia Bulldogs,Spread,6.5,-110.0,0.5799999833106995,,neural net,25,False,recent_20pct_test,2021-12-02 19:42
+2021-12-04,Alabama Crimson Tide,Georgia Bulldogs,Spread,6.5,-110.0,0.9700000286102296,,neural net,25,True,recent_20pct_test,2021-12-02 19:42
+2021-12-04,Alabama Crimson Tide,Georgia Bulldogs,Total,49.5,-110.0,0.5559999942779541,,neural net,3,False,recent_20pct_test,2021-12-02 19:29
+2021-12-04,Alabama Crimson Tide,Georgia Bulldogs,Total,49.5,-110.0,0.574999988079071,,neural net,3,True,recent_20pct_test,2021-12-02 19:29
+2021-12-04,Alabama Crimson Tide,Georgia Bulldogs,Total,49.5,-110.0,0.5630000233650208,,neural net,5,False,recent_20pct_test,2021-12-02 19:29
+2021-12-04,Alabama Crimson Tide,Georgia Bulldogs,Total,49.5,-110.0,0.7419999837875366,,neural net,5,True,recent_20pct_test,2021-12-02 19:30
+2021-12-04,Alabama Crimson Tide,Georgia Bulldogs,Total,49.5,-110.0,0.4939999878406525,,neural net,10,False,recent_20pct_test,2021-12-02 19:30
+2021-12-04,Alabama Crimson Tide,Georgia Bulldogs,Total,49.5,-110.0,0.9240000247955322,,neural net,10,True,recent_20pct_test,2021-12-02 19:31
+2021-12-04,Alabama Crimson Tide,Georgia Bulldogs,Total,49.5,-110.0,0.5929999947547913,,neural net,15,False,recent_20pct_test,2021-12-02 19:31
+2021-12-04,Alabama Crimson Tide,Georgia Bulldogs,Total,49.5,-110.0,0.959999978542328,,neural net,15,True,recent_20pct_test,2021-12-02 19:31
+2021-12-04,Alabama Crimson Tide,Georgia Bulldogs,Total,49.5,-110.0,0.5519999861717224,,neural net,20,False,recent_20pct_test,2021-12-02 19:32
+2021-12-04,Alabama Crimson Tide,Georgia Bulldogs,Total,49.5,-110.0,0.7289999723434448,,neural net,20,True,recent_20pct_test,2021-12-02 19:32
+2021-12-04,Alabama Crimson Tide,Georgia Bulldogs,Total,49.5,-110.0,0.41999998688697815,,neural net,25,False,recent_20pct_test,2021-12-02 19:33
+2021-12-04,Alabama Crimson Tide,Georgia Bulldogs,Total,49.5,-110.0,0.40299999713897705,,neural net,25,True,recent_20pct_test,2021-12-02 19:33
+2021-12-04,California Golden Bears,USC Trojans,Spread,-4.0,-110.0,0.4889999926090241,,neural net,3,False,recent_20pct_test,2021-12-02 19:36
+2021-12-04,California Golden Bears,USC Trojans,Spread,-4.0,-110.0,0.20600000023841847,,neural net,3,True,recent_20pct_test,2021-12-02 19:37
+2021-12-04,California Golden Bears,USC Trojans,Spread,-4.0,-110.0,0.5040000081062317,,neural net,5,False,recent_20pct_test,2021-12-02 19:37
+2021-12-04,California Golden Bears,USC Trojans,Spread,-4.0,-110.0,0.26499998569488525,,neural net,5,True,recent_20pct_test,2021-12-02 19:38
+2021-12-04,California Golden Bears,USC Trojans,Spread,-4.0,-110.0,0.5,,neural net,10,False,recent_20pct_test,2021-12-02 19:38
+2021-12-04,California Golden Bears,USC Trojans,Spread,-4.0,-110.0,0.119999997317791,,neural net,10,True,recent_20pct_test,2021-12-02 19:39
+2021-12-04,California Golden Bears,USC Trojans,Spread,-4.0,-110.0,0.4370000064373016,,neural net,15,False,recent_20pct_test,2021-12-02 19:39
+2021-12-04,California Golden Bears,USC Trojans,Spread,-4.0,-110.0,0.1330000013113022,,neural net,15,True,recent_20pct_test,2021-12-02 19:40
+2021-12-04,California Golden Bears,USC Trojans,Spread,-4.0,-110.0,0.5109999775886536,,neural net,20,False,recent_20pct_test,2021-12-02 19:41
+2021-12-04,California Golden Bears,USC Trojans,Spread,-4.0,-110.0,0.2879999876022339,,neural net,20,True,recent_20pct_test,2021-12-02 19:41
+2021-12-04,California Golden Bears,USC Trojans,Spread,-4.0,-110.0,0.4740000069141388,,neural net,25,False,recent_20pct_test,2021-12-02 19:42
+2021-12-04,California Golden Bears,USC Trojans,Spread,-4.0,-110.0,0.10599999874830246,,neural net,25,True,recent_20pct_test,2021-12-02 19:42
+2021-12-04,California Golden Bears,USC Trojans,Total,58.0,-110.0,0.4740000069141388,,neural net,3,False,recent_20pct_test,2021-12-02 19:29
+2021-12-04,California Golden Bears,USC Trojans,Total,58.0,-110.0,0.25,,neural net,3,True,recent_20pct_test,2021-12-02 19:29
+2021-12-04,California Golden Bears,USC Trojans,Total,58.0,-110.0,0.8360000252723694,,neural net,5,False,recent_20pct_test,2021-12-02 19:29
+2021-12-04,California Golden Bears,USC Trojans,Total,58.0,-110.0,0.23499999940395355,,neural net,5,True,recent_20pct_test,2021-12-02 19:30
+2021-12-04,California Golden Bears,USC Trojans,Total,58.0,-110.0,0.4909999966621399,,neural net,10,False,recent_20pct_test,2021-12-02 19:30
+2021-12-04,California Golden Bears,USC Trojans,Total,58.0,-110.0,0.014999999664723871,,neural net,10,True,recent_20pct_test,2021-12-02 19:31
+2021-12-04,California Golden Bears,USC Trojans,Total,58.0,-110.0,0.4690000116825104,,neural net,15,False,recent_20pct_test,2021-12-02 19:31
+2021-12-04,California Golden Bears,USC Trojans,Total,58.0,-110.0,0.045000001788139336,,neural net,15,True,recent_20pct_test,2021-12-02 19:31
+2021-12-04,California Golden Bears,USC Trojans,Total,58.0,-110.0,0.5120000243186951,,neural net,20,False,recent_20pct_test,2021-12-02 19:32
+2021-12-04,California Golden Bears,USC Trojans,Total,58.0,-110.0,0.014000000432133676,,neural net,20,True,recent_20pct_test,2021-12-02 19:32
+2021-12-04,California Golden Bears,USC Trojans,Total,58.0,-110.0,0.6039999723434448,,neural net,25,False,recent_20pct_test,2021-12-02 19:33
+2021-12-04,California Golden Bears,USC Trojans,Total,58.0,-110.0,0.3650000095367432,,neural net,25,True,recent_20pct_test,2021-12-02 19:33
+2021-12-04,Cincinnati Bearcats,Houston Cougars,Spread,-10.5,-110.0,0.4449999928474426,,neural net,3,False,recent_20pct_test,2021-12-02 19:36
+2021-12-04,Cincinnati Bearcats,Houston Cougars,Spread,-10.5,-110.0,0.035999998450279236,,neural net,3,True,recent_20pct_test,2021-12-02 19:37
+2021-12-04,Cincinnati Bearcats,Houston Cougars,Spread,-10.5,-110.0,0.4709999859333038,,neural net,5,False,recent_20pct_test,2021-12-02 19:37
+2021-12-04,Cincinnati Bearcats,Houston Cougars,Spread,-10.5,-110.0,0.30399999022483826,,neural net,5,True,recent_20pct_test,2021-12-02 19:38
+2021-12-04,Cincinnati Bearcats,Houston Cougars,Spread,-10.5,-110.0,0.4930000007152557,,neural net,10,False,recent_20pct_test,2021-12-02 19:38
+2021-12-04,Cincinnati Bearcats,Houston Cougars,Spread,-10.5,-110.0,0.35100001096725464,,neural net,10,True,recent_20pct_test,2021-12-02 19:39
+2021-12-04,Cincinnati Bearcats,Houston Cougars,Spread,-10.5,-110.0,0.4519999921321869,,neural net,15,False,recent_20pct_test,2021-12-02 19:39
+2021-12-04,Cincinnati Bearcats,Houston Cougars,Spread,-10.5,-110.0,0.13600000739097595,,neural net,15,True,recent_20pct_test,2021-12-02 19:40
+2021-12-04,Cincinnati Bearcats,Houston Cougars,Spread,-10.5,-110.0,0.4939999878406525,,neural net,20,False,recent_20pct_test,2021-12-02 19:41
+2021-12-04,Cincinnati Bearcats,Houston Cougars,Spread,-10.5,-110.0,0.3129999935626984,,neural net,20,True,recent_20pct_test,2021-12-02 19:41
+2021-12-04,Cincinnati Bearcats,Houston Cougars,Spread,-10.5,-110.0,0.4670000076293945,,neural net,25,False,recent_20pct_test,2021-12-02 19:42
+2021-12-04,Cincinnati Bearcats,Houston Cougars,Spread,-10.5,-110.0,0.2140000015497208,,neural net,25,True,recent_20pct_test,2021-12-02 19:42
+2021-12-04,Cincinnati Bearcats,Houston Cougars,Total,53.0,-110.0,0.4629999995231629,,neural net,3,False,recent_20pct_test,2021-12-02 19:29
+2021-12-04,Cincinnati Bearcats,Houston Cougars,Total,53.0,-110.0,0.25,,neural net,3,True,recent_20pct_test,2021-12-02 19:29
+2021-12-04,Cincinnati Bearcats,Houston Cougars,Total,53.0,-110.0,0.6029999852180481,,neural net,5,False,recent_20pct_test,2021-12-02 19:29
+2021-12-04,Cincinnati Bearcats,Houston Cougars,Total,53.0,-110.0,0.4149999916553497,,neural net,5,True,recent_20pct_test,2021-12-02 19:30
+2021-12-04,Cincinnati Bearcats,Houston Cougars,Total,53.0,-110.0,0.4979999959468842,,neural net,10,False,recent_20pct_test,2021-12-02 19:30
+2021-12-04,Cincinnati Bearcats,Houston Cougars,Total,53.0,-110.0,0.3089999854564667,,neural net,10,True,recent_20pct_test,2021-12-02 19:31
+2021-12-04,Cincinnati Bearcats,Houston Cougars,Total,53.0,-110.0,0.5410000085830688,,neural net,15,False,recent_20pct_test,2021-12-02 19:31
+2021-12-04,Cincinnati Bearcats,Houston Cougars,Total,53.0,-110.0,0.8650000095367432,,neural net,15,True,recent_20pct_test,2021-12-02 19:31
+2021-12-04,Cincinnati Bearcats,Houston Cougars,Total,53.0,-110.0,0.5479999780654907,,neural net,20,False,recent_20pct_test,2021-12-02 19:32
+2021-12-04,Cincinnati Bearcats,Houston Cougars,Total,53.0,-110.0,0.5929999947547913,,neural net,20,True,recent_20pct_test,2021-12-02 19:32
+2021-12-04,Cincinnati Bearcats,Houston Cougars,Total,53.0,-110.0,0.6830000281333923,,neural net,25,False,recent_20pct_test,2021-12-02 19:33
+2021-12-04,Cincinnati Bearcats,Houston Cougars,Total,53.0,-110.0,0.386000007390976,,neural net,25,True,recent_20pct_test,2021-12-02 19:33
+2021-12-04,Iowa Hawkeyes,Michigan Wolverines,Spread,-11.0,-110.0,0.4709999859333038,,neural net,3,False,recent_20pct_test,2021-12-02 19:36
+2021-12-04,Iowa Hawkeyes,Michigan Wolverines,Spread,-11.0,-110.0,0.7609999775886536,,neural net,3,True,recent_20pct_test,2021-12-02 19:37
+2021-12-04,Iowa Hawkeyes,Michigan Wolverines,Spread,-11.0,-110.0,0.4359999895095825,,neural net,5,False,recent_20pct_test,2021-12-02 19:37
+2021-12-04,Iowa Hawkeyes,Michigan Wolverines,Spread,-11.0,-110.0,0.4519999921321869,,neural net,5,True,recent_20pct_test,2021-12-02 19:38
+2021-12-04,Iowa Hawkeyes,Michigan Wolverines,Spread,-11.0,-110.0,0.4259999990463257,,neural net,10,False,recent_20pct_test,2021-12-02 19:38
+2021-12-04,Iowa Hawkeyes,Michigan Wolverines,Spread,-11.0,-110.0,0.2619999945163727,,neural net,10,True,recent_20pct_test,2021-12-02 19:39
+2021-12-04,Iowa Hawkeyes,Michigan Wolverines,Spread,-11.0,-110.0,0.4370000064373016,,neural net,15,False,recent_20pct_test,2021-12-02 19:39
+2021-12-04,Iowa Hawkeyes,Michigan Wolverines,Spread,-11.0,-110.0,0.1899999976158142,,neural net,15,True,recent_20pct_test,2021-12-02 19:40
+2021-12-04,Iowa Hawkeyes,Michigan Wolverines,Spread,-11.0,-110.0,0.4860000014305115,,neural net,20,False,recent_20pct_test,2021-12-02 19:41
+2021-12-04,Iowa Hawkeyes,Michigan Wolverines,Spread,-11.0,-110.0,0.2430000007152557,,neural net,20,True,recent_20pct_test,2021-12-02 19:41
+2021-12-04,Iowa Hawkeyes,Michigan Wolverines,Spread,-11.0,-110.0,0.4289999902248383,,neural net,25,False,recent_20pct_test,2021-12-02 19:42
+2021-12-04,Iowa Hawkeyes,Michigan Wolverines,Spread,-11.0,-110.0,0.0560000017285347,,neural net,25,True,recent_20pct_test,2021-12-02 19:42
+2021-12-04,Iowa Hawkeyes,Michigan Wolverines,Total,43.5,-110.0,0.5030000209808351,,neural net,3,False,recent_20pct_test,2021-12-02 19:29
+2021-12-04,Iowa Hawkeyes,Michigan Wolverines,Total,43.5,-110.0,0.5630000233650208,,neural net,3,True,recent_20pct_test,2021-12-02 19:29
+2021-12-04,Iowa Hawkeyes,Michigan Wolverines,Total,43.5,-110.0,0.3019999861717224,,neural net,5,False,recent_20pct_test,2021-12-02 19:29
+2021-12-04,Iowa Hawkeyes,Michigan Wolverines,Total,43.5,-110.0,0.5529999732971191,,neural net,5,True,recent_20pct_test,2021-12-02 19:30
+2021-12-04,Iowa Hawkeyes,Michigan Wolverines,Total,43.5,-110.0,0.4950000047683716,,neural net,10,False,recent_20pct_test,2021-12-02 19:30
+2021-12-04,Iowa Hawkeyes,Michigan Wolverines,Total,43.5,-110.0,0.9679999947547911,,neural net,10,True,recent_20pct_test,2021-12-02 19:31
+2021-12-04,Iowa Hawkeyes,Michigan Wolverines,Total,43.5,-110.0,0.4880000054836273,,neural net,15,False,recent_20pct_test,2021-12-02 19:31
+2021-12-04,Iowa Hawkeyes,Michigan Wolverines,Total,43.5,-110.0,0.9739999771118164,,neural net,15,True,recent_20pct_test,2021-12-02 19:31
+2021-12-04,Iowa Hawkeyes,Michigan Wolverines,Total,43.5,-110.0,0.3779999911785126,,neural net,20,False,recent_20pct_test,2021-12-02 19:32
+2021-12-04,Iowa Hawkeyes,Michigan Wolverines,Total,43.5,-110.0,0.9769999980926514,,neural net,20,True,recent_20pct_test,2021-12-02 19:32
+2021-12-04,Iowa Hawkeyes,Michigan Wolverines,Total,43.5,-110.0,0.6639999747276306,,neural net,25,False,recent_20pct_test,2021-12-02 19:33
+2021-12-04,Iowa Hawkeyes,Michigan Wolverines,Total,43.5,-110.0,0.4620000123977661,,neural net,25,True,recent_20pct_test,2021-12-02 19:33
+2021-12-04,Louisiana Ragin' Cajuns,Appalachian State Mountaineers,Spread,3.0,-110.0,0.5669999718666077,,neural net,3,False,recent_20pct_test,2021-12-02 19:36
+2021-12-04,Louisiana Ragin' Cajuns,Appalachian State Mountaineers,Spread,3.0,-110.0,0.5559999942779541,,neural net,3,True,recent_20pct_test,2021-12-02 19:37
+2021-12-04,Louisiana Ragin' Cajuns,Appalachian State Mountaineers,Spread,3.0,-110.0,0.5189999938011169,,neural net,5,False,recent_20pct_test,2021-12-02 19:37
+2021-12-04,Louisiana Ragin' Cajuns,Appalachian State Mountaineers,Spread,3.0,-110.0,0.25699999928474426,,neural net,5,True,recent_20pct_test,2021-12-02 19:38
+2021-12-04,Louisiana Ragin' Cajuns,Appalachian State Mountaineers,Spread,3.0,-110.0,0.546999990940094,,neural net,10,False,recent_20pct_test,2021-12-02 19:38
+2021-12-04,Louisiana Ragin' Cajuns,Appalachian State Mountaineers,Spread,3.0,-110.0,0.3149999976158142,,neural net,10,True,recent_20pct_test,2021-12-02 19:39
+2021-12-04,Louisiana Ragin' Cajuns,Appalachian State Mountaineers,Spread,3.0,-110.0,0.5559999942779541,,neural net,15,False,recent_20pct_test,2021-12-02 19:39
+2021-12-04,Louisiana Ragin' Cajuns,Appalachian State Mountaineers,Spread,3.0,-110.0,0.193000003695488,,neural net,15,True,recent_20pct_test,2021-12-02 19:40
+2021-12-04,Louisiana Ragin' Cajuns,Appalachian State Mountaineers,Spread,3.0,-110.0,0.5320000052452087,,neural net,20,False,recent_20pct_test,2021-12-02 19:41
+2021-12-04,Louisiana Ragin' Cajuns,Appalachian State Mountaineers,Spread,3.0,-110.0,0.5149999856948853,,neural net,20,True,recent_20pct_test,2021-12-02 19:41
+2021-12-04,Louisiana Ragin' Cajuns,Appalachian State Mountaineers,Spread,3.0,-110.0,0.5540000200271606,,neural net,25,False,recent_20pct_test,2021-12-02 19:42
+2021-12-04,Louisiana Ragin' Cajuns,Appalachian State Mountaineers,Spread,3.0,-110.0,0.5299999713897705,,neural net,25,True,recent_20pct_test,2021-12-02 19:42
+2021-12-04,Louisiana Ragin' Cajuns,Appalachian State Mountaineers,Total,53.0,-110.0,0.5600000023841858,,neural net,3,False,recent_20pct_test,2021-12-02 19:29
+2021-12-04,Louisiana Ragin' Cajuns,Appalachian State Mountaineers,Total,53.0,-110.0,0.8130000233650208,,neural net,3,True,recent_20pct_test,2021-12-02 19:29
+2021-12-04,Louisiana Ragin' Cajuns,Appalachian State Mountaineers,Total,53.0,-110.0,0.765999972820282,,neural net,5,False,recent_20pct_test,2021-12-02 19:29
+2021-12-04,Louisiana Ragin' Cajuns,Appalachian State Mountaineers,Total,53.0,-110.0,0.7689999938011169,,neural net,5,True,recent_20pct_test,2021-12-02 19:30
+2021-12-04,Louisiana Ragin' Cajuns,Appalachian State Mountaineers,Total,53.0,-110.0,0.5090000033378601,,neural net,10,False,recent_20pct_test,2021-12-02 19:30
+2021-12-04,Louisiana Ragin' Cajuns,Appalachian State Mountaineers,Total,53.0,-110.0,0.9679999947547911,,neural net,10,True,recent_20pct_test,2021-12-02 19:31
+2021-12-04,Louisiana Ragin' Cajuns,Appalachian State Mountaineers,Total,53.0,-110.0,0.5809999704360962,,neural net,15,False,recent_20pct_test,2021-12-02 19:31
+2021-12-04,Louisiana Ragin' Cajuns,Appalachian State Mountaineers,Total,53.0,-110.0,0.9570000171661376,,neural net,15,True,recent_20pct_test,2021-12-02 19:31
+2021-12-04,Louisiana Ragin' Cajuns,Appalachian State Mountaineers,Total,53.0,-110.0,0.6119999885559082,,neural net,20,False,recent_20pct_test,2021-12-02 19:32
+2021-12-04,Louisiana Ragin' Cajuns,Appalachian State Mountaineers,Total,53.0,-110.0,0.7519999742507935,,neural net,20,True,recent_20pct_test,2021-12-02 19:32
+2021-12-04,Louisiana Ragin' Cajuns,Appalachian State Mountaineers,Total,53.0,-110.0,0.7480000257492065,,neural net,25,False,recent_20pct_test,2021-12-02 19:33
+2021-12-04,Louisiana Ragin' Cajuns,Appalachian State Mountaineers,Total,53.0,-110.0,0.7319999933242798,,neural net,25,True,recent_20pct_test,2021-12-02 19:33
+2021-12-04,Northern Illinois Huskies,Kent State Golden Flashes,Spread,3.5,-110.0,0.5289999842643738,,neural net,3,False,recent_20pct_test,2021-12-02 19:36
+2021-12-04,Northern Illinois Huskies,Kent State Golden Flashes,Spread,3.5,-110.0,0.8569999933242798,,neural net,3,True,recent_20pct_test,2021-12-02 19:37
+2021-12-04,Northern Illinois Huskies,Kent State Golden Flashes,Spread,3.5,-110.0,0.5120000243186951,,neural net,5,False,recent_20pct_test,2021-12-02 19:37
+2021-12-04,Northern Illinois Huskies,Kent State Golden Flashes,Spread,3.5,-110.0,0.3210000097751617,,neural net,5,True,recent_20pct_test,2021-12-02 19:38
+2021-12-04,Northern Illinois Huskies,Kent State Golden Flashes,Spread,3.5,-110.0,0.4620000123977661,,neural net,10,False,recent_20pct_test,2021-12-02 19:38
+2021-12-04,Northern Illinois Huskies,Kent State Golden Flashes,Spread,3.5,-110.0,0.17900000512599945,,neural net,10,True,recent_20pct_test,2021-12-02 19:39
+2021-12-04,Northern Illinois Huskies,Kent State Golden Flashes,Spread,3.5,-110.0,0.5590000152587891,,neural net,15,False,recent_20pct_test,2021-12-02 19:39
+2021-12-04,Northern Illinois Huskies,Kent State Golden Flashes,Spread,3.5,-110.0,0.7170000076293945,,neural net,15,True,recent_20pct_test,2021-12-02 19:40
+2021-12-04,Northern Illinois Huskies,Kent State Golden Flashes,Spread,3.5,-110.0,0.5370000004768372,,neural net,20,False,recent_20pct_test,2021-12-02 19:41
+2021-12-04,Northern Illinois Huskies,Kent State Golden Flashes,Spread,3.5,-110.0,0.4000000059604645,,neural net,20,True,recent_20pct_test,2021-12-02 19:41
+2021-12-04,Northern Illinois Huskies,Kent State Golden Flashes,Spread,3.5,-110.0,0.4639999866485596,,neural net,25,False,recent_20pct_test,2021-12-02 19:42
+2021-12-04,Northern Illinois Huskies,Kent State Golden Flashes,Spread,3.5,-110.0,0.7490000128746033,,neural net,25,True,recent_20pct_test,2021-12-02 19:42
+2021-12-04,Northern Illinois Huskies,Kent State Golden Flashes,Total,74.0,-110.0,0.5170000195503235,,neural net,3,False,recent_20pct_test,2021-12-02 19:29
+2021-12-04,Northern Illinois Huskies,Kent State Golden Flashes,Total,74.0,-110.0,0.4090000092983246,,neural net,3,True,recent_20pct_test,2021-12-02 19:29
+2021-12-04,Northern Illinois Huskies,Kent State Golden Flashes,Total,74.0,-110.0,0.5870000123977661,,neural net,5,False,recent_20pct_test,2021-12-02 19:29
+2021-12-04,Northern Illinois Huskies,Kent State Golden Flashes,Total,74.0,-110.0,0.5189999938011169,,neural net,5,True,recent_20pct_test,2021-12-02 19:30
+2021-12-04,Northern Illinois Huskies,Kent State Golden Flashes,Total,74.0,-110.0,0.4970000088214874,,neural net,10,False,recent_20pct_test,2021-12-02 19:30
+2021-12-04,Northern Illinois Huskies,Kent State Golden Flashes,Total,74.0,-110.0,0.27399998903274536,,neural net,10,True,recent_20pct_test,2021-12-02 19:31
+2021-12-04,Northern Illinois Huskies,Kent State Golden Flashes,Total,74.0,-110.0,0.5149999856948853,,neural net,15,False,recent_20pct_test,2021-12-02 19:31
+2021-12-04,Northern Illinois Huskies,Kent State Golden Flashes,Total,74.0,-110.0,0.9179999828338624,,neural net,15,True,recent_20pct_test,2021-12-02 19:31
+2021-12-04,Northern Illinois Huskies,Kent State Golden Flashes,Total,74.0,-110.0,0.41999998688697815,,neural net,20,False,recent_20pct_test,2021-12-02 19:32
+2021-12-04,Northern Illinois Huskies,Kent State Golden Flashes,Total,74.0,-110.0,0.10499999672174454,,neural net,20,True,recent_20pct_test,2021-12-02 19:32
+2021-12-04,Northern Illinois Huskies,Kent State Golden Flashes,Total,74.0,-110.0,0.3689999878406525,,neural net,25,False,recent_20pct_test,2021-12-02 19:33
+2021-12-04,Northern Illinois Huskies,Kent State Golden Flashes,Total,74.0,-110.0,0.5559999942779541,,neural net,25,True,recent_20pct_test,2021-12-02 19:33
+2021-12-04,Oklahoma State Cowboys,Baylor Bears,Spread,-5.5,-110.0,0.4440000057220459,,neural net,3,False,recent_20pct_test,2021-12-02 19:36
+2021-12-04,Oklahoma State Cowboys,Baylor Bears,Spread,-5.5,-110.0,0.4589999914169312,,neural net,3,True,recent_20pct_test,2021-12-02 19:37
+2021-12-04,Oklahoma State Cowboys,Baylor Bears,Spread,-5.5,-110.0,0.4650000035762787,,neural net,5,False,recent_20pct_test,2021-12-02 19:37
+2021-12-04,Oklahoma State Cowboys,Baylor Bears,Spread,-5.5,-110.0,0.3230000138282776,,neural net,5,True,recent_20pct_test,2021-12-02 19:38
+2021-12-04,Oklahoma State Cowboys,Baylor Bears,Spread,-5.5,-110.0,0.4560000002384186,,neural net,10,False,recent_20pct_test,2021-12-02 19:38
+2021-12-04,Oklahoma State Cowboys,Baylor Bears,Spread,-5.5,-110.0,0.27900001406669617,,neural net,10,True,recent_20pct_test,2021-12-02 19:39
+2021-12-04,Oklahoma State Cowboys,Baylor Bears,Spread,-5.5,-110.0,0.479999989271164,,neural net,15,False,recent_20pct_test,2021-12-02 19:39
+2021-12-04,Oklahoma State Cowboys,Baylor Bears,Spread,-5.5,-110.0,0.21299999952316284,,neural net,15,True,recent_20pct_test,2021-12-02 19:40
+2021-12-04,Oklahoma State Cowboys,Baylor Bears,Spread,-5.5,-110.0,0.4749999940395355,,neural net,20,False,recent_20pct_test,2021-12-02 19:41
+2021-12-04,Oklahoma State Cowboys,Baylor Bears,Spread,-5.5,-110.0,0.4120000004768372,,neural net,20,True,recent_20pct_test,2021-12-02 19:41
+2021-12-04,Oklahoma State Cowboys,Baylor Bears,Spread,-5.5,-110.0,0.6050000190734863,,neural net,25,False,recent_20pct_test,2021-12-02 19:42
+2021-12-04,Oklahoma State Cowboys,Baylor Bears,Spread,-5.5,-110.0,0.4760000109672546,,neural net,25,True,recent_20pct_test,2021-12-02 19:42
+2021-12-04,Oklahoma State Cowboys,Baylor Bears,Total,46.5,-110.0,0.4790000021457672,,neural net,3,False,recent_20pct_test,2021-12-02 19:29
+2021-12-04,Oklahoma State Cowboys,Baylor Bears,Total,46.5,-110.0,0.4690000116825104,,neural net,3,True,recent_20pct_test,2021-12-02 19:29
+2021-12-04,Oklahoma State Cowboys,Baylor Bears,Total,46.5,-110.0,0.5849999785423279,,neural net,5,False,recent_20pct_test,2021-12-02 19:29
+2021-12-04,Oklahoma State Cowboys,Baylor Bears,Total,46.5,-110.0,0.5299999713897705,,neural net,5,True,recent_20pct_test,2021-12-02 19:30
+2021-12-04,Oklahoma State Cowboys,Baylor Bears,Total,46.5,-110.0,0.5,,neural net,10,False,recent_20pct_test,2021-12-02 19:30
+2021-12-04,Oklahoma State Cowboys,Baylor Bears,Total,46.5,-110.0,0.5299999713897705,,neural net,10,True,recent_20pct_test,2021-12-02 19:31
+2021-12-04,Oklahoma State Cowboys,Baylor Bears,Total,46.5,-110.0,0.4979999959468842,,neural net,15,False,recent_20pct_test,2021-12-02 19:31
+2021-12-04,Oklahoma State Cowboys,Baylor Bears,Total,46.5,-110.0,0.6420000195503235,,neural net,15,True,recent_20pct_test,2021-12-02 19:31
+2021-12-04,Oklahoma State Cowboys,Baylor Bears,Total,46.5,-110.0,0.4410000145435333,,neural net,20,False,recent_20pct_test,2021-12-02 19:32
+2021-12-04,Oklahoma State Cowboys,Baylor Bears,Total,46.5,-110.0,0.6669999957084656,,neural net,20,True,recent_20pct_test,2021-12-02 19:32
+2021-12-04,Oklahoma State Cowboys,Baylor Bears,Total,46.5,-110.0,0.4979999959468842,,neural net,25,False,recent_20pct_test,2021-12-02 19:33
+2021-12-04,Oklahoma State Cowboys,Baylor Bears,Total,46.5,-110.0,0.43299999833107,,neural net,25,True,recent_20pct_test,2021-12-02 19:33
+2021-12-04,San Diego State Aztecs,Utah State Aggies,Spread,-6.0,-110.0,0.6079999804496765,,neural net,3,False,recent_20pct_test,2021-12-02 19:36
+2021-12-04,San Diego State Aztecs,Utah State Aggies,Spread,-6.0,-110.0,0.7580000162124634,,neural net,3,True,recent_20pct_test,2021-12-02 19:37
+2021-12-04,San Diego State Aztecs,Utah State Aggies,Spread,-6.0,-110.0,0.5490000247955322,,neural net,5,False,recent_20pct_test,2021-12-02 19:37
+2021-12-04,San Diego State Aztecs,Utah State Aggies,Spread,-6.0,-110.0,0.6570000052452087,,neural net,5,True,recent_20pct_test,2021-12-02 19:38
+2021-12-04,San Diego State Aztecs,Utah State Aggies,Spread,-6.0,-110.0,0.5400000214576721,,neural net,10,False,recent_20pct_test,2021-12-02 19:38
+2021-12-04,San Diego State Aztecs,Utah State Aggies,Spread,-6.0,-110.0,0.6050000190734863,,neural net,10,True,recent_20pct_test,2021-12-02 19:39
+2021-12-04,San Diego State Aztecs,Utah State Aggies,Spread,-6.0,-110.0,0.5159999728202821,,neural net,15,False,recent_20pct_test,2021-12-02 19:39
+2021-12-04,San Diego State Aztecs,Utah State Aggies,Spread,-6.0,-110.0,0.5040000081062317,,neural net,15,True,recent_20pct_test,2021-12-02 19:40
+2021-12-04,San Diego State Aztecs,Utah State Aggies,Spread,-6.0,-110.0,0.5299999713897705,,neural net,20,False,recent_20pct_test,2021-12-02 19:41
+2021-12-04,San Diego State Aztecs,Utah State Aggies,Spread,-6.0,-110.0,0.6959999799728394,,neural net,20,True,recent_20pct_test,2021-12-02 19:41
+2021-12-04,San Diego State Aztecs,Utah State Aggies,Spread,-6.0,-110.0,0.5690000057220459,,neural net,25,False,recent_20pct_test,2021-12-02 19:42
+2021-12-04,San Diego State Aztecs,Utah State Aggies,Spread,-6.0,-110.0,0.04199999943375588,,neural net,25,True,recent_20pct_test,2021-12-02 19:42
+2021-12-04,San Diego State Aztecs,Utah State Aggies,Total,50.0,-110.0,0.5040000081062317,,neural net,3,False,recent_20pct_test,2021-12-02 19:29
+2021-12-04,San Diego State Aztecs,Utah State Aggies,Total,50.0,-110.0,0.4129999876022339,,neural net,3,True,recent_20pct_test,2021-12-02 19:29
+2021-12-04,San Diego State Aztecs,Utah State Aggies,Total,50.0,-110.0,0.36000001430511475,,neural net,5,False,recent_20pct_test,2021-12-02 19:29
+2021-12-04,San Diego State Aztecs,Utah State Aggies,Total,50.0,-110.0,0.3630000054836273,,neural net,5,True,recent_20pct_test,2021-12-02 19:30
+2021-12-04,San Diego State Aztecs,Utah State Aggies,Total,50.0,-110.0,0.4889999926090241,,neural net,10,False,recent_20pct_test,2021-12-02 19:30
+2021-12-04,San Diego State Aztecs,Utah State Aggies,Total,50.0,-110.0,0.3009999990463257,,neural net,10,True,recent_20pct_test,2021-12-02 19:31
+2021-12-04,San Diego State Aztecs,Utah State Aggies,Total,50.0,-110.0,0.4959999918937683,,neural net,15,False,recent_20pct_test,2021-12-02 19:31
+2021-12-04,San Diego State Aztecs,Utah State Aggies,Total,50.0,-110.0,0.6019999980926514,,neural net,15,True,recent_20pct_test,2021-12-02 19:31
+2021-12-04,San Diego State Aztecs,Utah State Aggies,Total,50.0,-110.0,0.2870000004768372,,neural net,20,False,recent_20pct_test,2021-12-02 19:32
+2021-12-04,San Diego State Aztecs,Utah State Aggies,Total,50.0,-110.0,0.5640000104904175,,neural net,20,True,recent_20pct_test,2021-12-02 19:32
+2021-12-04,San Diego State Aztecs,Utah State Aggies,Total,50.0,-110.0,0.4650000035762787,,neural net,25,False,recent_20pct_test,2021-12-02 19:33
+2021-12-04,San Diego State Aztecs,Utah State Aggies,Total,50.0,-110.0,0.3790000081062317,,neural net,25,True,recent_20pct_test,2021-12-02 19:33
+2021-12-04,Wake Forest Demon Deacons,Pittsburgh Panthers,Spread,-3.0,-110.0,0.4059999883174896,,neural net,3,False,recent_20pct_test,2021-12-02 19:36
+2021-12-04,Wake Forest Demon Deacons,Pittsburgh Panthers,Spread,-3.0,-110.0,0.9879999756813048,,neural net,3,True,recent_20pct_test,2021-12-02 19:37
+2021-12-04,Wake Forest Demon Deacons,Pittsburgh Panthers,Spread,-3.0,-110.0,0.4320000112056732,,neural net,5,False,recent_20pct_test,2021-12-02 19:37
+2021-12-04,Wake Forest Demon Deacons,Pittsburgh Panthers,Spread,-3.0,-110.0,0.6809999942779541,,neural net,5,True,recent_20pct_test,2021-12-02 19:38
+2021-12-04,Wake Forest Demon Deacons,Pittsburgh Panthers,Spread,-3.0,-110.0,0.4480000138282776,,neural net,10,False,recent_20pct_test,2021-12-02 19:38
+2021-12-04,Wake Forest Demon Deacons,Pittsburgh Panthers,Spread,-3.0,-110.0,0.7919999957084656,,neural net,10,True,recent_20pct_test,2021-12-02 19:39
+2021-12-04,Wake Forest Demon Deacons,Pittsburgh Panthers,Spread,-3.0,-110.0,0.4399999976158142,,neural net,15,False,recent_20pct_test,2021-12-02 19:39
+2021-12-04,Wake Forest Demon Deacons,Pittsburgh Panthers,Spread,-3.0,-110.0,0.843999981880188,,neural net,15,True,recent_20pct_test,2021-12-02 19:40
+2021-12-04,Wake Forest Demon Deacons,Pittsburgh Panthers,Spread,-3.0,-110.0,0.4939999878406525,,neural net,20,False,recent_20pct_test,2021-12-02 19:41
+2021-12-04,Wake Forest Demon Deacons,Pittsburgh Panthers,Spread,-3.0,-110.0,0.7670000195503235,,neural net,20,True,recent_20pct_test,2021-12-02 19:41
+2021-12-04,Wake Forest Demon Deacons,Pittsburgh Panthers,Spread,-3.0,-110.0,0.4869999885559082,,neural net,25,False,recent_20pct_test,2021-12-02 19:42
+2021-12-04,Wake Forest Demon Deacons,Pittsburgh Panthers,Spread,-3.0,-110.0,0.7699999809265137,,neural net,25,True,recent_20pct_test,2021-12-02 19:42
+2021-12-04,Wake Forest Demon Deacons,Pittsburgh Panthers,Total,71.5,-110.0,0.4129999876022339,,neural net,3,False,recent_20pct_test,2021-12-02 19:29
+2021-12-04,Wake Forest Demon Deacons,Pittsburgh Panthers,Total,71.5,-110.0,0.722000002861023,,neural net,3,True,recent_20pct_test,2021-12-02 19:29
+2021-12-04,Wake Forest Demon Deacons,Pittsburgh Panthers,Total,71.5,-110.0,0.4839999973773956,,neural net,5,False,recent_20pct_test,2021-12-02 19:29
+2021-12-04,Wake Forest Demon Deacons,Pittsburgh Panthers,Total,71.5,-110.0,0.7680000066757202,,neural net,5,True,recent_20pct_test,2021-12-02 19:30
+2021-12-04,Wake Forest Demon Deacons,Pittsburgh Panthers,Total,71.5,-110.0,0.5059999823570251,,neural net,10,False,recent_20pct_test,2021-12-02 19:30
+2021-12-04,Wake Forest Demon Deacons,Pittsburgh Panthers,Total,71.5,-110.0,0.9070000052452089,,neural net,10,True,recent_20pct_test,2021-12-02 19:31
+2021-12-04,Wake Forest Demon Deacons,Pittsburgh Panthers,Total,71.5,-110.0,0.4850000143051148,,neural net,15,False,recent_20pct_test,2021-12-02 19:31
+2021-12-04,Wake Forest Demon Deacons,Pittsburgh Panthers,Total,71.5,-110.0,0.9309999942779541,,neural net,15,True,recent_20pct_test,2021-12-02 19:31
+2021-12-04,Wake Forest Demon Deacons,Pittsburgh Panthers,Total,71.5,-110.0,0.3070000112056732,,neural net,20,False,recent_20pct_test,2021-12-02 19:32
+2021-12-04,Wake Forest Demon Deacons,Pittsburgh Panthers,Total,71.5,-110.0,0.7459999918937683,,neural net,20,True,recent_20pct_test,2021-12-02 19:32
+2021-12-04,Wake Forest Demon Deacons,Pittsburgh Panthers,Total,71.5,-110.0,0.4749999940395355,,neural net,25,False,recent_20pct_test,2021-12-02 19:33
+2021-12-04,Wake Forest Demon Deacons,Pittsburgh Panthers,Total,71.5,-110.0,0.5529999732971191,,neural net,25,True,recent_20pct_test,2021-12-02 19:33

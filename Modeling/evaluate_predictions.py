@@ -20,6 +20,7 @@ import os
 import sys
 from os.path import abspath, dirname
 
+import numpy as np
 import pandas as pd
 from tqdm import tqdm
 
@@ -88,6 +89,9 @@ class Evaluate_Performance:
         """
         moneylines = list(model_df['Bet_ML'])
         outcomes = list(model_df['Outcome'])
+        # * if no predictions, return None instead of 0
+        if len([outcome for outcome in outcomes if not np.isnan(outcome)]) == 0:
+            return None
         profits = 0
         for moneyline, outcome in zip(moneylines, outcomes):
             if outcome == 0:
@@ -133,4 +137,4 @@ if __name__ == '__main__':
         for tp in [False, True]:
             x = Evaluate_Performance(league, tp)
             self = x
-            x.run(tp)
+            x.run()

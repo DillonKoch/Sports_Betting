@@ -42,7 +42,7 @@ class Label_Predictions:
         """
         loading the ESPN games.csv file with game outcomes, to be used for labeling predictions
         """
-        path = ROOT_PATH + f"/Data/ESPN/{self.league}/Games.csv"
+        path = ROOT_PATH + f"/Data/ESPN/{self.league}.csv"
         df = pd.read_csv(path)
         return df
 
@@ -54,7 +54,11 @@ class Label_Predictions:
         row = espn_df.loc[(espn_df['Home'] == home) & (espn_df['Away'] == away) & (espn_df['Date'] == date)]
         alt_row = espn_df.loc[(espn_df['Away'] == home) & (espn_df['Home'] == away) & (espn_df['Date'] == date)]
         row = pd.concat([row, alt_row])
-        row = row.iloc[0, :]
+        try:
+            row = row.iloc[0, :]
+        except IndexError:
+            print(home, away, date)
+            return None, None
         # * returning None if the game is not Final, otherwise returning ints of the scores
         if (not isinstance(row['Final_Status'], str)) and (np.isnan(row['Final_Status'])):
             return None, None
@@ -119,7 +123,7 @@ class Label_Predictions:
 
 if __name__ == '__main__':
     # for league in ['NFL', 'NBA', 'NCAAF', 'NCAAB']:
-    for league in ['NFL']:
+    for league in ['NBA', 'NCAAF', 'NFL']:
         x = Label_Predictions(league)
         self = x
         for tp in [False, True]:

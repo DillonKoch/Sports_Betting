@@ -116,14 +116,14 @@ class Modeling_Parent:
         """
         self._wandb_setup()
         model_checkpoint_callback = self._neural_net_callback()
-        early_stopping_callback = EarlyStopping(monitor='val_loss', patience=5)
+        early_stopping_callback = EarlyStopping(monitor='val_loss', patience=3)
         layer_structures = [[50, 30], [100, 50], [200, 100], [200, 100, 50, 25],
                             [1000, 800, 600, 400, 200, 100], [750, 500, 250, 100, 50, 25]]
         lowest_val_loss = np.Inf
         for layer_struct in layer_structures:
             model = self._neural_net_model(train_X, layer_struct)
             history = model.fit(train_X, train_y, validation_data=(val_X, val_y), epochs=50,
-                                callbacks=[WandbCallback(), model_checkpoint_callback, early_stopping_callback])
+                                callbacks=[early_stopping_callback, WandbCallback(), model_checkpoint_callback])
             val_loss = min(history.history['val_loss'])
             print(layer_struct, val_loss, lowest_val_loss)
             if val_loss < lowest_val_loss:
@@ -312,8 +312,9 @@ class Modeling_Parent:
         running all algorithms on all datasets
         """
         dataset_splits = ['basic_20pct_split', 'recent_20pct_test']
-        algs = ['logistic regression', 'svm', 'random forest', 'neural net']
-        # algs = ['random forest']
+        dataset_splits = ['recent_20pct_test']
+        # algs = ['logistic regression', 'random forest', 'neural net']
+        algs = ['neural net']
         num_past_games = [3, 5, 10, 15, 20, 25]
         player_stats_bools = [False, True]
         for dataset_split in dataset_splits:
@@ -400,9 +401,6 @@ class ML_Parent(Modeling_Parent):
         self.bet_ml_col = "Home_ML"
         self.target_col = "Home_Win"
         self.remove_cols = ["Home_Covered", "Over_Covered"]
-
-    def expected_return(self):  # Top Level
-        pass
 
 
 if __name__ == '__main__':

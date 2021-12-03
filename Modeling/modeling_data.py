@@ -377,22 +377,6 @@ class Modeling_Data:
         print(f"Updating {len(update_modeling_df)} games...")
         return update_modeling_df
 
-    # def run(self, num_past_games, player_stats, days_since=10):  # Run
-    #     modeling_df = self.load_modeling_df(num_past_games, player_stats)
-    #     no_update_modeling_df = self.get_no_update_modeling_df(modeling_df)  # no missing betting odds/targets
-    #     update_home_away_dates = self.get_update_home_away_dates(modeling_df, days_since)  # had's of games that need to be updated
-    #     update_game_dicts = self.get_update_game_dicts(update_home_away_dates, num_past_games)
-    #     update_modeling_df = self.build_update_modeling_df(update_game_dicts, num_past_games, player_stats)
-    #     full_df = pd.concat([no_update_modeling_df, update_modeling_df])
-    #     full_df.reset_index(inplace=True, drop=True)
-    #     full_df.sort_values(by=['Date', 'Home', 'Away'], inplace=True)
-
-    #     # * saving the df
-    #     ps_str = "" if player_stats else "no_"
-    #     path = ROOT_PATH + f"/Data/Modeling_Data/{self.league}/{ps_str}player_stats_avg_{num_past_games}_past_games.csv"
-    #     full_df.to_csv(path, index=False)
-    #     print("SAVED!")
-
     def run(self, num_past_games, player_stats, days_since=10):  # Run
         modeling_df = self.load_modeling_df(num_past_games, player_stats)
         full_df = self.get_no_update_modeling_df(modeling_df)  # no missing betting odds/targets
@@ -420,13 +404,13 @@ class Modeling_Data:
         runs through all the num past games with and without player stats
         """
         for npg in [3, 5, 10, 15, 20, 25]:
-            for ps in [False, True]:
+            for ps in [True, False]:
                 print(f"{self.league}, {npg} past games, player stats: {ps}")
-                self.run(npg, ps, days_since=14)
+                self.run(npg, ps, days_since=7)
 
 
 if __name__ == '__main__':
-    for league in ['NFL', 'NBA', 'NCAAF', 'NCAAB']:
+    for league in ['NFL', 'NBA', 'NCAAF']:
         # for league in ['NCAAB']:
         # ! be sure to check on 'days_since' and 'days_out'
         x = Modeling_Data(league)
