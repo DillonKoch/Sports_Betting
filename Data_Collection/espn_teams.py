@@ -44,9 +44,10 @@ class ESPN_Team_Scraper:
         """
         creates a blank teams json file if it doesn't exist
         """
+        new_json = {"Teams": {}, "Other Teams": []}
         if not os.path.exists(self.json_path):
             with open(self.json_path, 'w') as f:
-                json.dump({}, f)
+                json.dump(new_json, f)
 
     def load_team_dict(self):  # Top Level
         """
@@ -90,7 +91,7 @@ class ESPN_Team_Scraper:
         """
         updates the json file with any changes found from scraping
         """
-        existing_teams = list(team_dict['Teams'].keys())
+        existing_teams = list(team_dict['Teams'].keys()) if os.path.exists(self.json_path) else []
         team_name = team.find_all('h2')[0].get_text()
         if team_name not in existing_teams:
             team_dict['Teams'][team_name] = {"Conference": conference_name, "Other Names": [], "Statistics": "",

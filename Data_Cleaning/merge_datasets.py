@@ -68,13 +68,15 @@ class Merge_Datasets:
         locating the esb odds for the given home/away/date
         - also creating alt_rep_df to swap the home/away teams (sometimes on neutral games different sources mix up home/away)
         """
-        # if home == 'Iowa Hawkeyes' and away == 'Michigan Wolverines':
-        #     print('here')
+        if "Iowa" in [home, away]:
+            print('here')
         rep_df = esb_df.loc[(esb_df['Home'] == home) & (esb_df['Away'] == away) & (esb_df['Date'] == date)]
         alt_rep_df = esb_df.loc[(esb_df['Home'] == away) & (esb_df['Away'] == home) & (esb_df['Date'] == date)]
-        rep_df = pd.concat([rep_df, alt_rep_df])
-        if len(rep_df) > 0:
-            rep_vals = list(rep_df[col][rep_df[col].notnull()])  # if opening/closing line is null, taking the next-closest non-null value
+        both_rep_df = pd.concat([rep_df, alt_rep_df])
+        if (len(alt_rep_df) > 0) and (len(rep_df) == 0):
+            col = col.replace("Home", "Away") if "Home" in col else col.replace("Away", "Home")
+        if len(both_rep_df) > 0:
+            rep_vals = list(both_rep_df[col][both_rep_df[col].notnull()])  # if opening/closing line is null, taking the next-closest non-null value
             return None if len(rep_vals) == 0 else (rep_vals[-1] if close else rep_vals[0])
 
     def _update_esb_teams(self, esb_df):  # Top Level
@@ -97,11 +99,13 @@ class Merge_Datasets:
         missing = merged_df.loc[merged_df[sbo_col].isnull()]
         home_away_dates = [(home, away, date) for home, away, date in zip(missing['Home'], missing['Away'], missing['Date'])]
         home_away_dates = [had for had in home_away_dates if had[2] > "2021-11-01"]
-        future_date = datetime.datetime.now() + datetime.timedelta(days=14)
+        future_date = datetime.datetime.now() + datetime.timedelta(days=50)
         home_away_dates = [had for had in home_away_dates if had[2] < future_date.strftime("%Y-%m-%d")]
         replacements = [self._find_esb_odds(*home_away_date, esb_df, esb_col, close) for home_away_date in home_away_dates]
         for home_away_date, replacement in zip(home_away_dates, replacements):
             home, away, date = home_away_date
+            if (home == "Iowa Hawkeyes") or (away == "Iowa Hawkeyes"):
+                print('here')
 
             merged_df.loc[(merged_df['Home'] == home) & (merged_df['Away'] == away) & (merged_df['Date'] == date), sbo_col] = replacement
         return merged_df
@@ -145,8 +149,8 @@ class Merge_Datasets:
 
 
 if __name__ == '__main__':
-    for league in ['NFL', 'NBA', 'NCAAF', 'NCAAB']:
-        # for league in ['NCAAF']:
+    # for league in ['NFL', 'NBA', 'NCAAF', 'NCAAB']:
+    for league in ['NCAAF']:
         print(league)
         x = Merge_Datasets(league)
         self = x
