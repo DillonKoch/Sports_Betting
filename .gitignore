@@ -1,7 +1,7 @@
 # AVOIDING LARGE FILES
 Data/ESPN/NCAAB/Player_Stats.csv
 v1/*
-Data/Modeling_Data/*
+Data/Modeling_Data/NCAAB/*.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
