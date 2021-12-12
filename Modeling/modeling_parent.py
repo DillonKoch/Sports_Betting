@@ -316,7 +316,7 @@ class Modeling_Parent:
         # algs = ['logistic regression', 'random forest', 'neural net']
         algs = ['neural net']
         num_past_games = [3, 5, 10, 15, 20, 25]
-        player_stats_bools = [False, True]
+        player_stats_bools = [False]
         for dataset_split in dataset_splits:
             for alg in algs:
                 for npg in num_past_games:

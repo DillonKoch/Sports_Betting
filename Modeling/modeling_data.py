@@ -403,15 +403,15 @@ class Modeling_Data:
         """
         runs through all the num past games with and without player stats
         """
-        for npg in [3, 5, 10, 15, 20, 25]:
-            for ps in [True, False]:
+        for npg in [10]:
+            for ps in [True]:
                 print(f"{self.league}, {npg} past games, player stats: {ps}")
-                self.run(npg, ps, days_since=7)
+                self.run(npg, ps, days_since=3220)
 
 
 if __name__ == '__main__':
-    for league in ['NFL', 'NBA', 'NCAAF']:
-        # for league in ['NCAAB']:
+    # for league in ['NFL', 'NBA', 'NCAAF', 'NCAAB']:
+    for league in ['NCAAB']:
         # ! be sure to check on 'days_since' and 'days_out'
         x = Modeling_Data(league)
         x.run_all()

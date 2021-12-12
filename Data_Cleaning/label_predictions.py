@@ -122,8 +122,7 @@ class Label_Predictions:
 
 
 if __name__ == '__main__':
-    # for league in ['NFL', 'NBA', 'NCAAF', 'NCAAB']:
-    for league in ['NBA', 'NCAAF', 'NFL']:
+    for league in ['NFL', 'NBA', 'NCAAF', 'NCAAB']:
         x = Label_Predictions(league)
         self = x
         for tp in [False, True]:
