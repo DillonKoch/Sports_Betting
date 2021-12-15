@@ -114,7 +114,7 @@ class Label_Predictions:
                 bet_value = row['Bet_Value']
                 prediction = float(row['Prediction'])
                 outcome = self.bet_outcome(home, away, date, bet_type, bet_value, prediction, espn_df)
-                row["Outcome"] = None if outcome is None else 1 if outcome else 0
+                row["Outcome"] = None if outcome is None else "Win" if outcome else "Loss"
                 pred_df.iloc[i] = row
         test_prod_str = "Test" if test_preds else "Prod"
         pred_df.to_csv(ROOT_PATH + f"/Data/Predictions/{self.league}/{test_prod_str}_Predictions.csv", index=False)
@@ -125,5 +125,5 @@ if __name__ == '__main__':
     for league in ['NFL', 'NBA', 'NCAAF', 'NCAAB']:
         x = Label_Predictions(league)
         self = x
-        for tp in [False, True]:
+        for tp in [False]:
             x.run(tp)

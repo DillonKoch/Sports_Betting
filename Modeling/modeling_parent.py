@@ -75,7 +75,7 @@ class Modeling_Parent:
     def model_svm(self, train_X, val_X, train_y, val_y):  # Top Level
         model = svm.SVC(probability=True, kernel='linear')
         model.fit(train_X, train_y)
-        preds = model.predict_proba(val_X)
+        # preds = model.predict_proba(val_X)
         return model
 
     def _wandb_setup(self):  # Specific Helper model_neural_net
@@ -131,7 +131,7 @@ class Modeling_Parent:
                 lowest_val_loss = val_loss
 
         model = keras.models.load_model(self.best_model_checkpoint_path)
-        return model
+        return model, round(lowest_val_loss, 3)
 
     def _clean_mls(self, df):  # Specific Helper  load_df
         """
@@ -250,7 +250,7 @@ class Modeling_Parent:
         else:
             df = pd.DataFrame(columns=["Game_Date", "Home", "Away", "Bet_Type", "Bet_Value",
                                        "Bet_ML", "Prediction", "Outcome", "Algorithm",
-                                       "Avg_Past_Games", "Player_Stats", "Dataset", "Pred_ts"])
+                                       "Avg_Past_Games", "Player_Stats", "Dataset", "Loss", "Pred_ts"])
         return df
 
     def _current_ts(self):  # Specific Helper  make_preds
@@ -268,14 +268,14 @@ class Modeling_Parent:
         sorting, dropping duplicates, and saving the predictions
         - saves to Test_Predictions or Prod_Predictions (prod is for games that are not played yet - real predictions!)
         """
-        df.sort_values(by=["Game_Date", "Home", "Away", "Bet_Type", "Algorithm", "Dataset"], inplace=True)
+        df.sort_values(by=["Game_Date", "Home", "Away", "Bet_Type", "Loss", "Algorithm", "Dataset"], inplace=True)
         df.drop_duplicates(subset=['Game_Date', 'Home', 'Away', 'Bet_Type', 'Bet_Value', 'Bet_ML',
                                    'Algorithm', 'Avg_Past_Games', 'Player_Stats', 'Dataset'], keep='last', inplace=True)
         test_str = "Test" if test_set else "Prod"
         df.to_csv(ROOT_PATH + f"/Data/Predictions/{self.league}/{test_str}_Predictions.csv", index=False)
         print(f"{test_str} Predictions saved!")
 
-    def make_preds(self, model, upcoming_games_df, upcoming_games_X, alg, avg_past_games, player_stats_bool, test_set, dataset_split):  # Top Level
+    def make_preds(self, model, upcoming_games_df, upcoming_games_X, alg, avg_past_games, player_stats_bool, test_set, dataset_split, lowest_val_loss):  # Top Level
         """
         making predictions on upcoming games and saving to /Data/Predictions/
         """
@@ -287,7 +287,7 @@ class Modeling_Parent:
             bet_val = game_row[self.bet_value_col] if self.bet_type != "Moneyline" else None
             new_row = [game_row['Date'], game_row['Home'], game_row['Away'], self.bet_type,
                        bet_val, self._ml_back_to_normal(game_row[self.bet_ml_col]),
-                       prediction, None, alg, avg_past_games, player_stats_bool, dataset_split, self._current_ts()]
+                       prediction, None, alg, avg_past_games, player_stats_bool, dataset_split, lowest_val_loss, self._current_ts()]
             df.loc[len(df)] = new_row
         self._save_preds(df, test_set)
 
@@ -300,23 +300,23 @@ class Modeling_Parent:
         test_X, test_y, _ = self.scaled_X_y(test_df, scaler)
 
         model_method = self.model_method_dict[alg]
-        model = model_method(train_X, test_X, train_y, test_y)
+        model, lowest_val_loss = model_method(train_X, test_X, train_y, test_y)
 
         if len(upcoming_games_df) > 0:
             upcoming_games_X, _, _ = self.scaled_X_y(upcoming_games_df, scaler=scaler)
-            self.make_preds(model, upcoming_games_df, upcoming_games_X, alg, num_past_games, player_stat_bool, False, dataset_split)
-        self.make_preds(model, test_df, test_X, alg, num_past_games, player_stat_bool, True, dataset_split)
+            self.make_preds(model, upcoming_games_df, upcoming_games_X, alg, num_past_games, player_stat_bool, False, dataset_split, lowest_val_loss)
+        # self.make_preds(model, test_df, test_X, alg, num_past_games, player_stat_bool, True, dataset_split)
 
     def run_all(self):  # Run
         """
         running all algorithms on all datasets
         """
-        dataset_splits = ['basic_20pct_split', 'recent_20pct_test']
-        dataset_splits = ['recent_20pct_test']
+        # dataset_splits = ['basic_20pct_split', 'recent_20pct_test']
+        dataset_splits = ['basic_20pct_split']
         # algs = ['logistic regression', 'random forest', 'neural net']
         algs = ['neural net']
         num_past_games = [3, 5, 10, 15, 20, 25]
-        player_stats_bools = [False]
+        player_stats_bools = [False, True]
         for dataset_split in dataset_splits:
             for alg in algs:
                 for npg in num_past_games:

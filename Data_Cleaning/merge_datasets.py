@@ -26,7 +26,6 @@ if ROOT_PATH not in sys.path:
     sys.path.append(ROOT_PATH)
 
 from Data_Cleaning.match_team import Match_Team
-from Data_Cleaning.player_data import Player_Data
 
 
 def multithread(func, func_args):  # Multithreading
@@ -68,8 +67,6 @@ class Merge_Datasets:
         locating the esb odds for the given home/away/date
         - also creating alt_rep_df to swap the home/away teams (sometimes on neutral games different sources mix up home/away)
         """
-        if "Iowa" in [home, away]:
-            print('here')
         rep_df = esb_df.loc[(esb_df['Home'] == home) & (esb_df['Away'] == away) & (esb_df['Date'] == date)]
         alt_rep_df = esb_df.loc[(esb_df['Home'] == away) & (esb_df['Away'] == home) & (esb_df['Date'] == date)]
         both_rep_df = pd.concat([rep_df, alt_rep_df])
@@ -104,9 +101,6 @@ class Merge_Datasets:
         replacements = [self._find_esb_odds(*home_away_date, esb_df, esb_col, close) for home_away_date in home_away_dates]
         for home_away_date, replacement in zip(home_away_dates, replacements):
             home, away, date = home_away_date
-            if (home == "Iowa Hawkeyes") or (away == "Iowa Hawkeyes"):
-                print('here')
-
             merged_df.loc[(merged_df['Home'] == home) & (merged_df['Away'] == away) & (merged_df['Date'] == date), sbo_col] = replacement
         return merged_df
 
@@ -149,8 +143,8 @@ class Merge_Datasets:
 
 
 if __name__ == '__main__':
-    # for league in ['NFL', 'NBA', 'NCAAF', 'NCAAB']:
-    for league in ['NCAAF']:
+    for league in ['NFL', 'NBA', 'NCAAF', 'NCAAB']:
+        # for league in ['NFL', ]:
         print(league)
         x = Merge_Datasets(league)
         self = x

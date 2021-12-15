@@ -134,7 +134,7 @@ class Evaluate_Performance:
 if __name__ == '__main__':
     for league in ['NFL', 'NBA', 'NCAAF', 'NCAAB']:
         # for league in ['NFL']:
-        for tp in [False, True]:
+        for tp in [False]:
             x = Evaluate_Performance(league, tp)
             self = x
             x.run()

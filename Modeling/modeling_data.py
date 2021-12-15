@@ -406,12 +406,12 @@ class Modeling_Data:
         for npg in [3, 5, 10, 15, 20, 25]:
             for ps in [True, False]:
                 print(f"{self.league}, {npg} past games, player stats: {ps}")
-                days_out = 14 if league != "NCAAF" else 50
+                days_out = 10 if league != "NCAAF" else 50
                 self.run(npg, ps, days_since=14, days_out=days_out)
 
 
 if __name__ == '__main__':
-    for league in ['NFL', 'NBA', 'NCAAF']:
+    for league in ['NFL', 'NBA', 'NCAAF', 'NCAAB']:
         # for league in ['NCAAB']:
         # ! be sure to check on 'days_since' and 'days_out'
         x = Modeling_Data(league)
