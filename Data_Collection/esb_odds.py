@@ -292,8 +292,9 @@ if __name__ == '__main__':
     for league in ['NFL', 'NBA', 'NCAAF', 'NCAAB']:
         x = ESB_Odds(league)
         self = x
-        # try:
-        sp = x.run()
-        # except Exception as e:
-        #     print(e)
-        #     print('-' * 50)
+        # * using a try-except here because not all links will work depending on time of year
+        try:
+            x.run()
+        except Exception as e:
+            print(league, e)
+            print('-' * 50)

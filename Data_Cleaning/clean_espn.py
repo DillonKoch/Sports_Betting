@@ -9,7 +9,7 @@
 # -----
 #
 # -----
-# Cleaning ESPN games data to be ML-ready
+# Cleaning ESPN games data to be more ML-ready
 # ==============================================================================
 
 
@@ -187,10 +187,7 @@ class Clean_ESPN:
 
 
 if __name__ == '__main__':
-
-    # running all
     for league in tqdm(['NFL', 'NBA', 'NCAAF', 'NCAAB']):
-        # for league in ['NCAAB']:
         x = Clean_ESPN(league)
         self = x
-        new_df = x.run()
+        x.run()

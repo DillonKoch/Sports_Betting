@@ -42,7 +42,7 @@ class ESPN_Team_Scraper:
 
     def create_json(self):  # Top Level
         """
-        creates a blank teams json file if it doesn't exist
+        creates a blank teams json file if it doesn't exist, and saves it
         """
         new_json = {"Teams": {}, "Other Teams": []}
         if not os.path.exists(self.json_path):
@@ -52,6 +52,7 @@ class ESPN_Team_Scraper:
     def load_team_dict(self):  # Top Level
         """
         loads the json dictionary from /Data/Teams/
+        - this will always exist because self.create_json() is ran before this
         """
         with open(self.json_path) as f:
             team_dict = json.load(f)
@@ -112,7 +113,6 @@ class ESPN_Team_Scraper:
             json.dump(team_dict, f)
 
     def run(self):  # Run
-        print(self.league)
         self.create_json()
         team_dict = self.load_team_dict()
         sp = self.get_sp1(self.link)
@@ -128,5 +128,6 @@ class ESPN_Team_Scraper:
 
 if __name__ == '__main__':
     for league in ["NFL", "NCAAF", "NBA", "NCAAB"]:
+        print(league)
         x = ESPN_Team_Scraper(league)
         x.run()
