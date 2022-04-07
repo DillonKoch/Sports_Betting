@@ -174,8 +174,8 @@ class ESPN_Schedule_Scraper:
 
 
 if __name__ == '__main__':
-    league = "NCAAF"
-    x = ESPN_Schedule_Scraper(league)
-    self = x
-    scrape_past_years = False
-    x.run(scrape_past_years)
+    leagues = ["NFL", "NBA", "NCAAB", "NCAAF"]
+    for league in leagues:
+        x = ESPN_Schedule_Scraper(league)
+        scrape_past_years = False
+        x.run(scrape_past_years)

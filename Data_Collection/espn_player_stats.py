@@ -324,7 +324,7 @@ class ESPN_Player_Stats:
 
         return stats_dicts
 
-    def update_csv(self, stats_df, player_stats_dicts, new_game_id):  # Top Level
+    def update_csv(self, stats_df, player_stats_dicts):  # Top Level
         """
         updates the stats_df with the player_stats_dicts scraped from a game's box score
         """
@@ -345,16 +345,18 @@ class ESPN_Player_Stats:
                 print(f"{i}/{len(new_game_ids)}")
                 stats_link = self.get_stats_link(new_game_id)
                 player_stats_dicts = self.scrape_stats(stats_link, new_game_id, date, home_team, away_team)
-                stats_df = self.update_csv(stats_df, player_stats_dicts, new_game_id)
+                stats_df = self.update_csv(stats_df, player_stats_dicts)
             except Exception as e:
                 print(e)
                 print("SLEEPING 10 SECONDS")
                 time.sleep(10)
 
+        # stats_df = self.update_csv(stats_df, player_stats_dicts)  # updating at end no matter what
+
 
 if __name__ == '__main__':
-    for league in ['NFL', 'NBA', 'NCAAF', 'NCAAB']:
-        # for league in ['NCAAB']:
+    # for league in ['NFL', 'NBA', 'NCAAF', 'NCAAB']:
+    for league in ['NCAAB']:
         x = ESPN_Player_Stats(league)
         self = x
         x.run()

@@ -67,7 +67,7 @@ class Upload_Predictions:
         all_games = [(home, away, date) for home, away, date in zip(homes, aways, dates)]
         return list(set(all_games))
 
-    def game_pred_odds_ml(self, league_pred_df, game, bet_type):  # Top Level
+    def game_pred_odds_ml_outcome(self, league_pred_df, game, bet_type):  # Top Level
         """
         finds the best prediction based on loss!
         """
@@ -78,7 +78,9 @@ class Upload_Predictions:
         pred = bet_df['Prediction'].values[0]
         bet_value = bet_df['Bet_Value'].values[0]
         ml = bet_df['Bet_ML'].values[0]
-        return pred, bet_value, ml
+        outcome = bet_df['Outcome'].values[0]
+        outcome = "" if not isinstance(outcome, str) else outcome
+        return pred, bet_value, ml, outcome
 
     def _bet_from_pred(self, bet_type, home, away, pred, odds, ml):  # Specific Helper
         home_spread = f"{home} {odds}" if odds < 0 else f"{home} +{odds}"
@@ -93,16 +95,16 @@ class Upload_Predictions:
         bet = negative_dict[bet_type] if pred < 0.5 else positive_dict[bet_type]
         return bet
 
-    def update_mdb_pred_df(self, mdb_pred_df, games, pred_odds_mls, league, bet_type):  # Top Level
+    def update_mdb_pred_df(self, mdb_pred_df, games, pred_odds_ml_outcomes, league, bet_type):  # Top Level
         """
         looping through the data to update the MongoDB dataframe
         """
-        for game, pred_odds_ml in zip(games, pred_odds_mls):
+        for game, pred_odds_ml_outcome in zip(games, pred_odds_ml_outcomes):
             home, away, date = game
-            pred, odds, ml = pred_odds_ml
+            pred, odds, ml, outcome = pred_odds_ml_outcome
             bet = self._bet_from_pred(bet_type, home, away, pred, odds, ml)
             confidence = round((abs(pred - 0.5) + 0.5) * 100, 2)
-            new_row = [league, date, home, away, bet_type, odds, ml, bet, confidence, None, False]  # TODO the None needs to be the outcome
+            new_row = [league, date, home, away, bet_type, odds, ml, bet, confidence, outcome, False]  # TODO the None needs to be the outcome
             mdb_pred_df.loc[len(mdb_pred_df)] = new_row
         return mdb_pred_df
 
@@ -131,14 +133,13 @@ class Upload_Predictions:
 
     def run(self):  # Run
         mdb_pred_df = self.load_mdb_pred_df()
-        # for league in ['NFL', 'NBA', 'NCAAF', 'NCAAB']:
         for league in ['NFL', 'NBA', 'NCAAF']:
             league_pred_df = self.load_league_pred_df(league)
             games = self.get_games(league_pred_df)
             # for bet_type in ['Spread', 'Total', 'Moneyline']:
             for bet_type in ['Total', 'Spread']:
-                pred_odds_mls = [self.game_pred_odds_ml(league_pred_df, game, bet_type) for game in games]
-                mdb_pred_df = self.update_mdb_pred_df(mdb_pred_df, games, pred_odds_mls, league, bet_type)
+                pred_odds_ml_outcomes = [self.game_pred_odds_ml_outcome(league_pred_df, game, bet_type) for game in games]
+                mdb_pred_df = self.update_mdb_pred_df(mdb_pred_df, games, pred_odds_ml_outcomes, league, bet_type)
         self.save_mdb_pred_df(mdb_pred_df)
         self.upload_mdb_pred_df(mdb_pred_df)
         print("DONE")

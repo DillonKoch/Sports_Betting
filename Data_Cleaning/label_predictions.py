@@ -68,6 +68,8 @@ class Label_Predictions:
         """
         determining if the prediction for a spread bet was correct
         """
+        if (home_score + bet_value) == away_score:
+            return "Push"
         home_covered = (home_score + bet_value) > away_score
         predicted_home = prediction >= 0.5
         return (home_covered and predicted_home) or (not home_covered and not predicted_home)
@@ -76,6 +78,8 @@ class Label_Predictions:
         """
         determining if the prediction for a moneyline bet was correct
         """
+        if home_score == away_score:
+            return "Push"
         home_won = home_score > away_score
         predicted_home = prediction >= 0.5
         return (home_won and predicted_home) or (not home_won and not predicted_home)
@@ -84,6 +88,8 @@ class Label_Predictions:
         """
         determining if the prediction for a total bet was correct
         """
+        if (home_score + away_score) == bet_value:
+            return "Push"
         over_won = (home_score + away_score) > bet_value
         predicted_over = prediction >= 0.5
         return (over_won and predicted_over) or (not over_won and not predicted_over)
@@ -106,7 +112,7 @@ class Label_Predictions:
         pred_df = self.load_pred_df(test_preds)
         espn_df = self.load_espn_df()
         for i, row in tqdm(pred_df.iterrows()):
-            if np.isnan(row['Outcome']):
+            if isinstance(row['Outcome'], str) or np.isnan(row['Outcome']):
                 home = row['Home']
                 away = row['Away']
                 date = row['Game_Date']
@@ -114,7 +120,7 @@ class Label_Predictions:
                 bet_value = row['Bet_Value']
                 prediction = float(row['Prediction'])
                 outcome = self.bet_outcome(home, away, date, bet_type, bet_value, prediction, espn_df)
-                row["Outcome"] = None if outcome is None else "Win" if outcome else "Loss"
+                row["Outcome"] = outcome if isinstance(outcome, str) else None if outcome is None else "Win" if outcome else "Loss"
                 pred_df.iloc[i] = row
         test_prod_str = "Test" if test_preds else "Prod"
         pred_df.to_csv(ROOT_PATH + f"/Data/Predictions/{self.league}/{test_prod_str}_Predictions.csv", index=False)

@@ -19,8 +19,8 @@ python nba_total.py
 
 # NCAAB
 # python ncaab_ml.py
-# python ncaab_spread.py
-# python ncaab_total.py
+python ncaab_spread.py
+python ncaab_total.py
 
 # python evaluate_predictions.py
-python upload_predictions.py
+# python upload_predictions.py

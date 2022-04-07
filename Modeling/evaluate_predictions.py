@@ -53,10 +53,11 @@ class Evaluate_Performance:
         makes a list of the model combinations (bet type, algo, player_stats, # prev games, train/test split, etc)
         """
         bet_types = ['Total', 'Spread', 'Moneyline']
-        algorithms = ['logistic regression', 'random forest', 'svm', 'neural net']
+        # algorithms = ['logistic regression', 'random forest', 'svm', 'neural net']
+        algorithms = ['neural net']
         avg_past_games = [3, 5, 10, 15, 20, 25]
         player_stats = [False, True]
-        datasets = ['recent_20pct_test']
+        datasets = ['basic_20pct_split']
         return list(itertools.product(bet_types, algorithms, player_stats, avg_past_games, datasets))
 
     def get_model_df(self, predictions_df, model_combo, thresh):  # Top Level
@@ -83,6 +84,13 @@ class Evaluate_Performance:
             profit = ml / 100
         return profit
 
+    def compute_acc(self, model_df):  # Top Level
+        wins = len(model_df.loc[model_df['Outcome'] == 'Win'])
+        losses = len(model_df.loc[model_df['Outcome'] == 'Loss'])
+        if (wins + losses) == 0:
+            return None
+        return round(wins / (wins + losses), 4)
+
     def model_expected_value(self, model_df):  # Top Level
         """
         computes the expected value for every dollar bet on a given model_df
@@ -90,7 +98,7 @@ class Evaluate_Performance:
         moneylines = list(model_df['Bet_ML'])
         outcomes = list(model_df['Outcome'])
         # * if no predictions, return None instead of 0
-        if len([outcome for outcome in outcomes if not np.isnan(outcome)]) == 0:
+        if len([outcome for outcome in outcomes if isinstance(outcome, str)]) == 0:
             return None
         profits = 0
         for moneyline, outcome in zip(moneylines, outcomes):
@@ -124,7 +132,8 @@ class Evaluate_Performance:
             for thresh in [0.5, 0.55, 0.6, 0.65, 0.7]:
                 model_df = self.get_model_df(predictions_df, model_combo, thresh)
                 model_df = model_df.loc[model_df['Bet_ML'].astype(str) != '-10.0']  # ! REMOVE
-                acc = round(model_df['Outcome'].mean(), 4)
+                # acc = round(model_df['Outcome'].mean(), 4)
+                acc = self.compute_acc(model_df)
                 expected_value = self.model_expected_value(model_df) if len(model_df) > 0 else None
                 eval_df = self.update_eval_df(eval_df, model_df, model_combo, thresh, acc, expected_value)
         eval_df.to_csv(ROOT_PATH + f"/Data/Modeling_Eval/{self.league}/{self.test_prod_str}_models.csv", index=False)

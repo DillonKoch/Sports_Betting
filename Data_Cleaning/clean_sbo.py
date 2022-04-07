@@ -134,6 +134,7 @@ class SBO_Clean_Data:
         converts the bet_val from the odds df into either the val, None or the val, ML
         - ML only shows up when the bet_val is in format 7-105
         """
+        bet_val = bet_val.replace('½', '.5') if isinstance(bet_val, str) else bet_val
         bet_val = abs(bet_val) if isinstance(bet_val, (int, float)) else bet_val
         try:
             bet_val = str(bet_val).lower().replace('pk', '0')
@@ -178,8 +179,8 @@ class SBO_Clean_Data:
         home_row, away_row = self._home_away_row(row_pair)
         if 'nl' in [str(home_row[-2]).lower(), str(away_row[-2]).lower()]:
             return None, None
-        home_ml = float(str(home_row[-2]).lower().replace('pk', '0'))
-        away_ml = float(str(away_row[-2]).lower().replace('pk', '0'))
+        home_ml = float(str(home_row[-2]).lower().replace('pk', '0').replace('½', '.5'))
+        away_ml = float(str(away_row[-2]).lower().replace('pk', '0').replace('½', '.5'))
         return home_ml, away_ml
 
     def row_pair_to_df(self, row_pair, df, season, seen_january):  # Top Level

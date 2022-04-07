@@ -11,3 +11,10 @@ cd ..
 cd Modeling
 source train_models.sh
 cd ..
+
+cd Data_Cleaning
+python label_predictions.py
+cd ..
+
+cd Frontend
+python upload_predictions.py
