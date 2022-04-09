@@ -3,6 +3,8 @@ Data/ESPN/NCAAB/Player_Stats.csv
 v1/*
 *.csv
 *.h5
+*.txt
+.vscode
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
