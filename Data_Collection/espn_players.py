@@ -231,6 +231,7 @@ class ESPN_Players:
 
 
 if __name__ == '__main__':
-    for league in ["NFL", "NBA", "NCAAF", "NCAAB"]:
+    # for league in ["NFL", "NBA", "NCAAF", "NCAAB"]:
+    for league in ['NBA']:
         x = ESPN_Players(league)
         x.run()

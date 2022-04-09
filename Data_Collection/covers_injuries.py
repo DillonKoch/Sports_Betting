@@ -145,7 +145,8 @@ class Covers_Injuries:
 
 
 if __name__ == '__main__':
-    for league in ['NFL', 'NBA', 'NCAAF', 'NCAAB']:
+    # for league in ['NFL', 'NBA', 'NCAAF', 'NCAAB']:
+    for league in ['NBA']:
         x = Covers_Injuries(league)
         self = x
         x.run()

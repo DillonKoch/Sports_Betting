@@ -248,7 +248,8 @@ class SBO_Clean_Data:
 
 
 if __name__ == '__main__':
-    for league in ['NFL', 'NBA', 'NCAAF', 'NCAAB']:
+    # for league in ['NFL', 'NBA', 'NCAAF', 'NCAAB']:
+    for league in ['NBA']:
         print('-' * 50)
         print(league)
         print('-' * 50)

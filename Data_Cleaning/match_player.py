@@ -108,7 +108,8 @@ class Match_Player:
 
 
 if __name__ == '__main__':
-    for league in ['NFL', 'NBA', 'NCAAF', 'NCAAB']:
+    # for league in ['NFL', 'NBA', 'NCAAF', 'NCAAB']:
+    for league in ['NBA']:
         x = Match_Player(league)
         self = x
         x.run()

@@ -187,7 +187,8 @@ class Clean_ESPN:
 
 
 if __name__ == '__main__':
-    for league in tqdm(['NFL', 'NBA', 'NCAAF', 'NCAAB']):
+    # for league in tqdm(['NFL', 'NBA', 'NCAAF', 'NCAAB']):
+    for league in ['NBA']:
         x = Clean_ESPN(league)
         self = x
         x.run()

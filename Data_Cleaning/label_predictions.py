@@ -1,15 +1,15 @@
 # ==============================================================================
 # File: label_predictions.py
 # Project: allison
-# File Created: Saturday, 20th November 2021 8:40:02 pm
+# File Created: Thursday, 7th April 2022 5:29:00 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Saturday, 20th November 2021 8:40:03 pm
+# Last Modified: Thursday, 7th April 2022 5:29:01 pm
 # Modified By: Dillon Koch
 # -----
 #
 # -----
-# <<<FILE DESCRIPTION>>>
+# adding win/loss/push labels for every prediction made
 # ==============================================================================
 
 
@@ -28,23 +28,8 @@ if ROOT_PATH not in sys.path:
 class Label_Predictions:
     def __init__(self, league):
         self.league = league
-
-    def load_pred_df(self, test_preds):  # Top Level
-        """
-        loading the df with predictions made by the models
-        """
-        test_prod_str = "Test" if test_preds else "Prod"
-        path = ROOT_PATH + f"/Data/Predictions/{self.league}/{test_prod_str}_Predictions.csv"
-        df = pd.read_csv(path)
-        return df
-
-    def load_espn_df(self):  # Top Level
-        """
-        loading the ESPN games.csv file with game outcomes, to be used for labeling predictions
-        """
-        path = ROOT_PATH + f"/Data/ESPN/{self.league}.csv"
-        df = pd.read_csv(path)
-        return df
+        self.pred_df_path = ROOT_PATH + f"/Data/Predictions/{self.league}/Predictions.csv"
+        self.espn_df_path = ROOT_PATH + f"/Data/ESPN/{self.league}.csv"
 
     def _find_espn_scores(self, espn_df, home, away, date):  # Specific Helper bet_outcome
         """
@@ -108,28 +93,26 @@ class Label_Predictions:
         elif bet_type == "Total":
             return self._total_outcome(home_score, away_score, bet_value, prediction)
 
-    def run(self, test_preds):  # Run
-        pred_df = self.load_pred_df(test_preds)
-        espn_df = self.load_espn_df()
+    def run(self):  # Run
+        pred_df = pd.read_csv(self.pred_df_path)
+        espn_df = pd.read_csv(self.espn_df_path)
         for i, row in tqdm(pred_df.iterrows()):
             if isinstance(row['Outcome'], str) or np.isnan(row['Outcome']):
                 home = row['Home']
                 away = row['Away']
-                date = row['Game_Date']
+                date = row['Date']
                 bet_type = row['Bet_Type']
                 bet_value = row['Bet_Value']
                 prediction = float(row['Prediction'])
                 outcome = self.bet_outcome(home, away, date, bet_type, bet_value, prediction, espn_df)
                 row["Outcome"] = outcome if isinstance(outcome, str) else None if outcome is None else "Win" if outcome else "Loss"
                 pred_df.iloc[i] = row
-        test_prod_str = "Test" if test_preds else "Prod"
-        pred_df.to_csv(ROOT_PATH + f"/Data/Predictions/{self.league}/{test_prod_str}_Predictions.csv", index=False)
-        print(f"{test_prod_str} PREDICTIONS LABELED!")
+        pred_df['Outcome'].fillna('Not Labeled', inplace=True)
+        pred_df.to_csv(self.pred_df_path, index=False)
 
 
 if __name__ == '__main__':
-    for league in ['NFL', 'NBA', 'NCAAF', 'NCAAB']:
-        x = Label_Predictions(league)
-        self = x
-        for tp in [False]:
-            x.run(tp)
+    league = "NBA"
+    x = Label_Predictions(league)
+    self = x
+    x.run()

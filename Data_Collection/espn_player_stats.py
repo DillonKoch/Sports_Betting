@@ -351,12 +351,10 @@ class ESPN_Player_Stats:
                 print("SLEEPING 10 SECONDS")
                 time.sleep(10)
 
-        # stats_df = self.update_csv(stats_df, player_stats_dicts)  # updating at end no matter what
-
 
 if __name__ == '__main__':
     # for league in ['NFL', 'NBA', 'NCAAF', 'NCAAB']:
-    for league in ['NCAAB']:
+    for league in ['NBA']:
         x = ESPN_Player_Stats(league)
         self = x
         x.run()

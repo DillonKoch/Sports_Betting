@@ -104,8 +104,8 @@ class ESPN_Rosters:
 
 
 if __name__ == '__main__':
-    league = "NFL"
-    for league in ['NFL', 'NBA', 'NCAAF', 'NCAAB']:
+    # for league in ['NFL', 'NBA', 'NCAAF', 'NCAAB']:
+    for league in ['NBA']:
         x = ESPN_Rosters(league)
         self = x
         x.run()

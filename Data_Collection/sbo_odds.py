@@ -88,7 +88,7 @@ class Sbo_Odds:
         loads the current year's .xlsx file, downloads the same file from the internet,
         and merges the two to ensure the downloaded file is up to date
         """
-        current_df = pd.read_excel(full_path)
+        current_df = pd.read_excel(full_path, engine='openpyxl')
         temp_path = self._download_temp_df(url)
         temp_df = pd.read_excel(temp_path)
         merged_df = self._merge_current_temp(current_df, temp_df)

@@ -54,9 +54,11 @@ class ESB_Odds:
         """
         fires up the selenium window to start scraping
         """
-        options = Options()
-        options.headless = True
-        self.driver = webdriver.Chrome(executable_path=ROOT_PATH + "/Data_Collection/chromedriver", options=options)
+        # options = Options()
+        # options.add_argument('--no-sandbox')
+        # options.add_argument('--disable-dev-shm-usage')
+        # options.headless = False
+        self.driver = webdriver.Firefox(executable_path=ROOT_PATH + "/Data_Collection/geckodriver")
         time.sleep(1)
 
     def load_df(self):  # Top Level
@@ -289,7 +291,8 @@ class ESB_Odds:
 
 
 if __name__ == '__main__':
-    for league in ['NFL', 'NBA', 'NCAAF', 'NCAAB']:
+    # for league in ['NFL', 'NBA', 'NCAAF', 'NCAAB']:
+    for league in ['NBA']:
         x = ESB_Odds(league)
         self = x
         # * using a try-except here because not all links will work depending on time of year
