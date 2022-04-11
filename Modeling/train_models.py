@@ -259,7 +259,7 @@ class Train:
 
 if __name__ == '__main__':
     league = "NBA"
-    bet_type = "Total"
+    bet_type = "Spread"
     x = Train(league, bet_type)
     self = x
     x.train_all()

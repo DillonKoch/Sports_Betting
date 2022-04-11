@@ -97,7 +97,7 @@ class Label_Predictions:
         pred_df = pd.read_csv(self.pred_df_path)
         espn_df = pd.read_csv(self.espn_df_path)
         for i, row in tqdm(pred_df.iterrows()):
-            if isinstance(row['Outcome'], str) or np.isnan(row['Outcome']):
+            if (row['Outcome'] == 'Not Labeled') or (np.isnan(row['Outcome'])):
                 home = row['Home']
                 away = row['Away']
                 date = row['Date']

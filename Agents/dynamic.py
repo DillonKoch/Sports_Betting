@@ -1,20 +1,21 @@
 # ==============================================================================
 # File: dynamic.py
 # Project: allison
-# File Created: Sunday, 28th November 2021 10:32:56 pm
+# File Created: Sunday, 10th April 2022 1:56:37 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Sunday, 28th November 2021 10:32:57 pm
+# Last Modified: Sunday, 10th April 2022 1:56:37 pm
 # Modified By: Dillon Koch
 # -----
 #
 # -----
-# dynamic betting agent that wagers different amounts based on model confidence
+# making dynamic bets where wager depends on prediction confidence
 # ==============================================================================
 
-
-from os.path import abspath, dirname
 import sys
+from os.path import abspath, dirname
+
+import pandas as pd
 
 ROOT_PATH = dirname(dirname(abspath(__file__)))
 if ROOT_PATH not in sys.path:
@@ -24,30 +25,48 @@ from Agents.agent_parent import Agent_Parent
 
 
 class Dynamic(Agent_Parent):
-    """
-    makes a bet using an average of the top 10 models
-    - the amount wagered is adjusted dynamically based on the confidence of the model
-    """
-
     def __init__(self, league):
-        super().__init__()
+        super(Dynamic, self).__init__()
         self.league = league
-        self.agent_name = "dynamic"
+        self.agent_type = "Dynamic"
 
-    def make_bets(self, agent_bet_df, bet_type, game, top_model_pred_dfs, top_applicable_models):  # Top Level
-        models_acc, models_ev, models_pred = self._model_acc_ev_pred(top_applicable_models, top_model_pred_dfs)
-        bet_val, bet_ml = self._bet_val_ml(top_model_pred_dfs)
-        wager = 2 + (20 * abs(models_pred - 0.5))
-        to_win = self._to_win(wager, bet_ml)
+    def _dynamic_wager(self, confidence):  # Specific Helper dynamic_bet
+        min_amount = 5
+        # extra_confidence = (0.5 + abs(confidence - 0.5)) * 10
+        extra_confidence = abs(confidence - 0.5) * 20
+        return min_amount + extra_confidence
 
-        new_row = [game[2], game[0], game[1], bet_type, models_acc, models_ev, models_pred,
-                   bet_val, bet_ml, wager, to_win, None, None, None, self._current_ts()]
-        agent_bet_df.loc[len(agent_bet_df)] = new_row
-        return agent_bet_df
+    def dynamic_bet(self, agent_df, pred):  # Top Level
+        date = pred['Date']
+        home = pred['Home']
+        away = pred['Away']
+        bet_type = pred['Bet_Type']
+        bet = self._get_bet(home, away, bet_type, pred['Prediction'])
+        # confidence = 0.5 + abs(0.5 - pred['Prediction'])
+        prediction = pred['Prediction']
+        bet_val = pred['Bet_Value']
+        bet_ml = pred['Bet_ML']
+        wager = self._dynamic_wager(pred['Prediction'])
+        to_win = self._to_win_amount(bet_ml, wager)
+        new_bet = [date, home, away, bet_type, bet, prediction, bet_val, bet_ml, wager, to_win, None, None, self._current_ts()]
+        agent_df.loc[len(agent_df)] = new_bet
+        return agent_df
+
+    def run(self):
+        pred_df = pd.read_csv(ROOT_PATH + f"/Data/Predictions/{self.league}/Predictions.csv")
+        agent_df = self.make_load_agent_df()
+        preds = pred_df.to_dict('records')
+        agent_bets = agent_df.to_dict('records')
+
+        for pred in preds:
+            if not self.pred_in_agent_bets(pred, agent_bets):
+                agent_df = self.dynamic_bet(agent_df, pred)
+
+        agent_df.to_csv(ROOT_PATH + f"/Data/Agents/{self.league}/Dynamic.csv", index=False)
 
 
-if __name__ == '__main__':
-    for league in ['NFL']:
-        print(league)
-        x = Dynamic(league)
-        x.run(prod=True)
+if __name__ == "__main__":
+    league = "NBA"
+    x = Dynamic(league)
+    self = x
+    x.run()

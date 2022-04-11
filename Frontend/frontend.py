@@ -47,13 +47,13 @@ class Frontend:
         df = df.loc[df['Date'] > last_week]
         return df
 
-    def _load_collection(self):  # Specific Helper  upload_preds
+    def _load_collection(self, collection_name):  # Specific Helper  upload_preds
         """
         loading the collection from mongodb
         """
         cluster = MongoClient("mongodb+srv://DillonKoch:QBface14$@personal-website-cluste.zuunk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority")
         db = cluster["SportsBetting"]
-        collection = db["Predictions"]
+        collection = db[collection_name]
         return collection
 
     def _clean_row_dict(self, row_dict):  # Specific Helper upload_preds
@@ -77,7 +77,7 @@ class Frontend:
         uploading all the rows/predictions from the df to mongodb
         """
         row_dicts = df.to_dict('records')
-        collection = self._load_collection()
+        collection = self._load_collection("Predictions")
         for row_dict in tqdm(row_dicts):
             row_dict = self._clean_row_dict(row_dict)
             try:
@@ -87,12 +87,31 @@ class Frontend:
                 print(e)
                 collection.replace_one({"_id": row_dict['_id']}, row_dict)
                 print('replace')
-        print("DONE")
+
+    def upload_agents(self):  # Top Level
+        """
+        uploading the agents' bets to mongodb
+        """
+        for agent in ['Flat', 'Dynamic']:
+            collection = self._load_collection(agent)
+            path = ROOT_PATH + f'/Data/Agents/{self.league}/{agent}.csv'
+            agent_df = pd.read_csv(path)
+            agent_dicts = agent_df.to_dict('records')
+            for agent_dict in tqdm(agent_dicts):
+                agent_dict['_id'] = f"{self.league} {agent_dict['Date']} {agent_dict['Home']} {agent_dict['Away']} {agent_dict['Bet_Type']} {agent}"
+                try:
+                    collection.insert_one(agent_dict)
+                    print("insert")
+                except BaseException as e:
+                    print(e)
+                    collection.replace_one({"_id": agent_dict['_id']}, agent_dict)
+                    print('replace')
 
     def run(self):  # Run
         pred_df = self.load_pred_df()
         recent_preds = self.filter_recent_preds(pred_df)
         self.upload_preds(recent_preds)
+        self.upload_agents()
 
 
 if __name__ == '__main__':
