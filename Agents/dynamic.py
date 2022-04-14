@@ -48,7 +48,7 @@ class Dynamic(Agent_Parent):
         bet_ml = pred['Bet_ML']
         wager = self._dynamic_wager(pred['Prediction'])
         to_win = self._to_win_amount(bet_ml, wager)
-        new_bet = [date, home, away, bet_type, bet, prediction, bet_val, bet_ml, wager, to_win, None, None, self._current_ts()]
+        new_bet = [self.league, date, home, away, bet_type, bet, prediction, bet_val, bet_ml, wager, to_win, None, None, self._current_ts()]
         agent_df.loc[len(agent_df)] = new_bet
         return agent_df
 

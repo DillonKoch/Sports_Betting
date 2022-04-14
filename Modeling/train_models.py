@@ -259,7 +259,8 @@ class Train:
 
 if __name__ == '__main__':
     league = "NBA"
-    bet_type = "Spread"
-    x = Train(league, bet_type)
-    self = x
-    x.train_all()
+    for bet_type in ['Spread', 'Total']:
+        # bet_type = "Spread"
+        x = Train(league, bet_type)
+        self = x
+        x.train_all()

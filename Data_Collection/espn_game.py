@@ -17,7 +17,6 @@ import copy
 import datetime
 import re
 import sys
-import argparse
 import time
 import urllib.request
 from os.path import abspath, dirname
@@ -25,6 +24,7 @@ from os.path import abspath, dirname
 import numpy as np
 import pandas as pd
 from bs4 import BeautifulSoup as soup
+from selenium import webdriver
 
 ROOT_PATH = dirname(dirname(abspath(__file__)))
 if ROOT_PATH not in sys.path:
@@ -52,6 +52,26 @@ class ESPN_Game_Scraper:
                                  'Offensive_Rebounds', 'Defensive_Rebounds', 'Assists', 'Steals', 'Blocks',
                                  'Total_Turnovers', 'Points_Off_Turnovers', 'Fast_Break_Points', 'Points_in_Paint',
                                  'Fouls', 'Technical_Fouls', 'Flagrant_Fouls', 'Largest_Lead']
+        self.start_selenium()
+
+    def start_selenium(self):  # Top Level
+        """
+        fires up the selenium window to start scraping
+        """
+        # options = Options()
+        # options.add_argument('--no-sandbox')
+        # options.add_argument('--disable-dev-shm-usage')
+        # options.headless = False
+        self.driver = webdriver.Firefox(executable_path=ROOT_PATH + "/Data_Collection/geckodriver")
+        time.sleep(1)
+
+    def get_soup_sp(self):  # Top Level
+        """
+        saves the selenium window's current page as a beautifulsoup object
+        """
+        html = self.driver.page_source
+        sp = soup(html, 'html.parser')
+        return sp
 
     def load_games_df(self):  # Top Level
         """
@@ -91,12 +111,18 @@ class ESPN_Game_Scraper:
         Scraping HTML of the link
         """
         time.sleep(5)
-        user_agent = 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.7) Gecko/2009021910 Firefox/3.0.7'
-        headers = {'User-Agent': user_agent, }
-        request = urllib.request.Request(link, None, headers)  # The assembled request
-        response = urllib.request.urlopen(request)
-        a = response.read().decode('utf-8', 'ignore')
-        sp = soup(a, 'html.parser')
+        # user_agent = 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.7) Gecko/2009021910 Firefox/3.0.7'
+        # headers = {'User-Agent': user_agent, }
+        # request = urllib.request.Request(link, None, headers)  # The assembled request
+        # response = urllib.request.urlopen(request)
+        # http = urllib3.PoolManager()
+        # response = http.request('GET', link)
+        # sp = soup(response.data, 'html.parser')
+
+        # a = response.read().decode('utf-8', 'ignore')
+        # sp = soup(a, 'html.parser')
+        self.driver.get(link)
+        sp = self.get_soup_sp()
         return sp
 
     def scrape_summary_page(self, game_id):  # Top Level
@@ -213,7 +239,7 @@ class ESPN_Game_Scraper:
         if len(td_vals) == 5:
             ot = td_vals[3].get_text()
 
-        if len(td_vals) in[6, 7]:
+        if len(td_vals) in [6, 7]:
             q1 = td_vals[1].get_text()
             q2 = td_vals[2].get_text()
             q3 = td_vals[3].get_text()

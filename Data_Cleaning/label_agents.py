@@ -46,7 +46,8 @@ class Label_Agents(Label_Predictions):
         agent_df = pd.read_csv(ROOT_PATH + f"/Data/Agents/{self.league}/{agent}.csv")
         espn_df = pd.read_csv(self.espn_df_path)
         for i, row in tqdm(agent_df.iterrows()):
-            if (row['Outcome'] == 'Not Labeled') or (np.isnan(row['Outcome'])):
+            # if (row['Outcome'] == 'Not Labeled') or (np.isnan(row['Outcome'])):
+            if row['Outcome'] not in ['Win', 'Loss', 'Push']:
                 home = row['Home']
                 away = row['Away']
                 date = row['Date']

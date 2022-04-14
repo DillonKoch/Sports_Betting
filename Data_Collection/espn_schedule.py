@@ -22,6 +22,7 @@ from os.path import abspath, dirname
 
 import pandas as pd
 from bs4 import BeautifulSoup as soup
+from selenium import webdriver
 from tqdm import tqdm
 
 ROOT_PATH = dirname(dirname(abspath(__file__)))
@@ -35,6 +36,26 @@ class ESPN_Schedule_Scraper:
         self.cols = ["Game_ID", "Season", "Week"]
         self.league_first_year = {"NFL": 2007, "NBA": 2008, "NCAAF": 2007, "NCAAB": 2008}
         self.df_path = ROOT_PATH + f"/Data/ESPN/{league}/Games.csv"
+        self.start_selenium()
+
+    def start_selenium(self):  # Top Level
+        """
+        fires up the selenium window to start scraping
+        """
+        # options = Options()
+        # options.add_argument('--no-sandbox')
+        # options.add_argument('--disable-dev-shm-usage')
+        # options.headless = False
+        self.driver = webdriver.Firefox(executable_path=ROOT_PATH + "/Data_Collection/geckodriver")
+        time.sleep(1)
+
+    def get_soup_sp(self):  # Top Level
+        """
+        saves the selenium window's current page as a beautifulsoup object
+        """
+        html = self.driver.page_source
+        sp = soup(html, 'html.parser')
+        return sp
 
     def load_df(self):  # Top Level
         """
@@ -60,13 +81,17 @@ class ESPN_Schedule_Scraper:
 
     def _add_season_type(self, links):  # Specific Helper load_schedule_links
         """
-        adds the seasontype part for NBA games - 1=preseason, 2=regular season, 3=postseason
+        adds the seasontype part for NBA games - 1=preseason, 2=regular season, 3=postseason, 5=play-in-season (NBA)
         """
         new_links = []
         for link in links:
             regular_season_link = link + "seasontype/2"
             postseason_link = link + "seasontype/3"
-            new_links.extend([regular_season_link, postseason_link])
+            play_in_link = link + "seasontype/5"
+            new_link_list = [regular_season_link, postseason_link]
+            if self.league == "NBA":
+                new_link_list.append(play_in_link)
+            new_links.extend(new_link_list)
         return new_links
 
     def load_schedule_links(self, scrape_past_years):  # Top Level
@@ -89,12 +114,14 @@ class ESPN_Schedule_Scraper:
         scrapes the HTML from the link
         """
         time.sleep(5)
-        user_agent = 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.7) Gecko/2009021910 Firefox/3.0.7'
-        headers = {'User-Agent': user_agent, }
-        request = urllib.request.Request(link, None, headers)  # The assembled request
-        response = urllib.request.urlopen(request)
-        a = response.read().decode('utf-8', 'ignore')
-        sp = soup(a, 'html.parser')
+        # user_agent = 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.7) Gecko/2009021910 Firefox/3.0.7'
+        # headers = {'User-Agent': user_agent, }
+        # request = urllib.request.Request(link, None, headers)  # The assembled request
+        # response = urllib.request.urlopen(request)
+        # a = response.read().decode('utf-8', 'ignore')
+        # sp = soup(a, 'html.parser')
+        self.driver.get(link)
+        sp = self.get_soup_sp()
         return sp
 
     def remove_preseason(self, rows):  # Top Level
@@ -174,8 +201,8 @@ class ESPN_Schedule_Scraper:
 
 
 if __name__ == '__main__':
-    leagues = ["NFL", "NBA", "NCAAB", "NCAAF"]
-    for league in leagues:
-        x = ESPN_Schedule_Scraper(league)
-        scrape_past_years = False
-        x.run(scrape_past_years)
+    # leagues = ["NFL", "NBA", "NCAAB", "NCAAF"]
+    league = 'NBA'
+    x = ESPN_Schedule_Scraper(league)
+    scrape_past_years = False
+    x.run(scrape_past_years)

@@ -40,7 +40,7 @@ class Agent_Parent:
         if os.path.exists(path):
             agent_df = pd.read_csv(path)
         else:
-            cols = ["Date", "Home", "Away", "Bet_Type", "Bet", "Prediction", "Bet_Value", "Bet_ML", "Wager", "To_Win", "Outcome", "Profit", "Bet_ts"]
+            cols = ['League', "Date", "Home", "Away", "Bet_Type", "Bet", "Prediction", "Bet_Value", "Bet_ML", "Wager", "To_Win", "Outcome", "Profit", "Bet_ts"]
             agent_df = pd.DataFrame(columns=cols)
 
         return agent_df

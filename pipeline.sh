@@ -7,3 +7,21 @@ cd ..
 cd Data_Cleaning
 source clean_data.sh
 cd ..
+
+cd Modeling
+python run_models.py
+cd ..
+
+cd Agents
+python flat.py
+python dynamic.py
+cd ..
+
+cd Data_Cleaning
+python label_predictions.py
+python label_agents.py
+cd ..
+
+cd Frontend
+python frontend.py
+cd ..

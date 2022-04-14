@@ -15,6 +15,7 @@
 
 import datetime
 import sys
+import time
 from os.path import abspath, dirname
 
 import pandas as pd
@@ -85,8 +86,11 @@ class Frontend:
                 print('insert')
             except BaseException as e:
                 print(e)
-                collection.replace_one({"_id": row_dict['_id']}, row_dict)
-                print('replace')
+                record = collection.find_one({"_id": row_dict['_id']})
+                if (record['Outcome'] == 'Not Labeled') and (row_dict['Outcome'] != 'Not Labeled'):
+                    collection.replace_one({"_id": row_dict['_id']}, row_dict)
+                    time.sleep(3)
+                    print('replace')
 
     def upload_agents(self):  # Top Level
         """
@@ -99,13 +103,24 @@ class Frontend:
             agent_dicts = agent_df.to_dict('records')
             for agent_dict in tqdm(agent_dicts):
                 agent_dict['_id'] = f"{self.league} {agent_dict['Date']} {agent_dict['Home']} {agent_dict['Away']} {agent_dict['Bet_Type']} {agent}"
+                agent_dict['Confidence'] = max(agent_dict['Prediction'], 1 - agent_dict['Prediction'])
                 try:
                     collection.insert_one(agent_dict)
-                    print("insert")
+                    print('insert')
                 except BaseException as e:
                     print(e)
-                    collection.replace_one({"_id": agent_dict['_id']}, agent_dict)
-                    print('replace')
+                    record = collection.find_one({"_id": agent_dict['_id']})
+                    if (record['Outcome'] == 'Not Labeled') and (agent_dict['Outcome'] != 'Not Labeled'):
+                        collection.replace_one({"_id": agent_dict['_id']}, agent_dict)
+                        print('replace')
+                        time.sleep(3)
+                #     collection.insert_one(agent_dict)
+                #     print("insert")
+                # except BaseException as e:
+                #     print(e)
+                #     # TODO query the item, if it's "Not Labeled", then insert new one
+                #     collection.replace_one({"_id": agent_dict['_id']}, agent_dict)
+                #     print('replace')
 
     def run(self):  # Run
         pred_df = self.load_pred_df()

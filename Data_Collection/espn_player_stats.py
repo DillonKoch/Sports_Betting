@@ -21,6 +21,7 @@ from os.path import abspath, dirname
 import numpy as np
 import pandas as pd
 from bs4 import BeautifulSoup as soup
+from selenium import webdriver
 
 ROOT_PATH = dirname(dirname(abspath(__file__)))
 if ROOT_PATH not in sys.path:
@@ -56,6 +57,27 @@ class ESPN_Player_Stats:
         # ! overall column setup
         self.columns = self.football_cols if self.football_league else self.basketball_cols
         self.columns = ['Game_ID', 'Date', 'Team', 'Player', 'Player_ID', 'Position'] + self.columns
+
+        self.start_selenium()
+
+    def start_selenium(self):  # Top Level
+        """
+        fires up the selenium window to start scraping
+        """
+        # options = Options()
+        # options.add_argument('--no-sandbox')
+        # options.add_argument('--disable-dev-shm-usage')
+        # options.headless = False
+        self.driver = webdriver.Firefox(executable_path=ROOT_PATH + "/Data_Collection/geckodriver")
+        time.sleep(1)
+
+    def get_soup_sp(self):  # Top Level
+        """
+        saves the selenium window's current page as a beautifulsoup object
+        """
+        html = self.driver.page_source
+        sp = soup(html, 'html.parser')
+        return sp
 
     def make_load_df(self):  # Top Level
         """
@@ -98,12 +120,14 @@ class ESPN_Player_Stats:
         """
         scraping HTML from a link
         """
-        user_agent = 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.7) Gecko/2009021910 Firefox/3.0.7'
-        headers = {'User-Agent': user_agent, }
-        request = urllib.request.Request(link, None, headers)  # The assembled request
-        response = urllib.request.urlopen(request)
-        a = response.read().decode('utf-8', 'ignore')
-        sp = soup(a, 'html.parser')
+        # user_agent = 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.7) Gecko/2009021910 Firefox/3.0.7'
+        # headers = {'User-Agent': user_agent, }
+        # request = urllib.request.Request(link, None, headers)  # The assembled request
+        # response = urllib.request.urlopen(request)
+        # a = response.read().decode('utf-8', 'ignore')
+        # sp = soup(a, 'html.parser')
+        self.driver.get(link)
+        sp = self.get_soup_sp()
         print('start sleep')
         time.sleep(5)
         print('end sleep')

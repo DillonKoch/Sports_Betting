@@ -137,7 +137,8 @@ class Run_Models:
 
 if __name__ == '__main__':
     league = 'NBA'
-    bet_type = 'Total'
-    x = Run_Models(league, bet_type)
-    self = x
-    x.run()
+    # bet_type = 'Total'
+    for bet_type in ['Spread', 'Total']:
+        x = Run_Models(league, bet_type)
+        self = x
+        x.run()

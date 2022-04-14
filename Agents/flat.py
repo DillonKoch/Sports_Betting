@@ -47,7 +47,7 @@ class Flat(Agent_Parent):
         bet_val = pred['Bet_Value']
         bet_ml = pred['Bet_ML']
         to_win = self._to_win_amount(bet_ml, 10)
-        new_bet = [date, home, away, bet_type, bet, prediction, bet_val, bet_ml, 10, to_win, None, None, self._current_ts()]
+        new_bet = [self.league, date, home, away, bet_type, bet, prediction, bet_val, bet_ml, 10, to_win, None, None, self._current_ts()]
         agent_df.loc[len(agent_df)] = new_bet
         return agent_df
 
