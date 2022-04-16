@@ -58,7 +58,7 @@ class Frontend:
         return collection
 
     def _clean_row_dict(self, row_dict):  # Specific Helper upload_preds
-        row_dict['_id'] = f"{self.league} {row_dict['Date']} {row_dict['Home']} {row_dict['Away']} {row_dict['Bet_Type']}"
+        row_dict['_id'] = f"{self.league} {row_dict['Date']} {row_dict['Home']} {row_dict['Away']} {row_dict['Bet_Type']} {row_dict['Bet_Value']}"
         row_dict['Date'] = row_dict['Date'].strftime('%Y-%m-%d')
 
         row_dict['Odds'] = row_dict['Bet_Value']
@@ -73,12 +73,12 @@ class Frontend:
         row_dict['League'] = self.league
         return row_dict
 
-    def upload_preds(self, df):  # Top Level
+    def upload_preds(self, df, pred_table="Predictions"):  # Top Level
         """
         uploading all the rows/predictions from the df to mongodb
         """
         row_dicts = df.to_dict('records')
-        collection = self._load_collection("Predictions")
+        collection = self._load_collection(pred_table)
         for row_dict in tqdm(row_dicts):
             row_dict = self._clean_row_dict(row_dict)
             try:
@@ -126,6 +126,10 @@ class Frontend:
         pred_df = self.load_pred_df()
         recent_preds = self.filter_recent_preds(pred_df)
         self.upload_preds(recent_preds)
+
+        alt_preds = pd.read_csv(ROOT_PATH + f"/Data/Predictions/{self.league}/Alt_Predictions.csv")
+        recent_alt_preds = self.filter_recent_preds(alt_preds)
+        self.upload_preds(recent_alt_preds, "Alternate_Predictions")
         self.upload_agents()
 
 
