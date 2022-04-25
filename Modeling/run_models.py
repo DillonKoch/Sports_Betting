@@ -116,7 +116,7 @@ class Run_Models:
         bet_val = modeling_df[self.bet_val_dict[self.bet_type]]
         bet_val_ml = modeling_df[self.bet_val_ml_dict[self.bet_type]]
         pred = round(pred.item(), 3)
-        new_row = [date, home, away, self.bet_type, bet_val, bet_val_ml, pred, None, self._current_ts()]
+        new_row = [date, home, away, self.bet_type, bet_val, bet_val_ml, pred, "Not Labeled", self._current_ts()]
         pred_df.loc[len(pred_df)] = new_row
         return pred_df
 
@@ -131,7 +131,7 @@ class Run_Models:
             current_X = X[i]
             pred = model(current_X)
             pred_df = self.update_pred_df(pred_df, pred, modeling_df.iloc[i, :])
-        pred_df.drop_duplicates(subset=['Date', 'Home', 'Away', 'Bet_Type', 'Bet_Value', 'Bet_ML'], keep="last", inplace=True)
+        pred_df.drop_duplicates(subset=['Date', 'Home', 'Away', 'Bet_Type'], keep="last", inplace=True)
         pred_df.to_csv(ROOT_PATH + f"/Data/Predictions/{self.league}/Predictions.csv", index=False)
 
 

@@ -1,5 +1,6 @@
 # Sports Betting
-This project evaluates multiple AI algorithms' effectiveness in predicting the outcome of football and basketball bets.
+This project uses machine learning to predict the outcome of common bets (Spread, Moneyline, Total) in four sports leagues (NFL, NBA, College Football, College Basketball).
+
 The algorithms are trained on a database of team stats and odds for each game dating back to 2007.
 See the latest predictions [here](https://personal-website-app-gfrfw.mongodbstitch.com/sports-betting/).
 
@@ -12,7 +13,7 @@ See the latest predictions [here](https://personal-website-app-gfrfw.mongodbstit
 [1. Data Collection](#Data-Collection)\
 [2. Data Cleaning](#Data-Cleaning)\
 [3. Modeling](#Modeling)\
-[4. Performance](#Performance)\
+[4. Agents](#Agents)\
 [5. Frontend](#Frontend)
 
 

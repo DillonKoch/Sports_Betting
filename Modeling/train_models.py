@@ -1,33 +1,27 @@
 # ==============================================================================
 # File: train_models.py
 # Project: allison
-# File Created: Thursday, 7th April 2022 5:25:35 pm
+# File Created: Sunday, 24th April 2022 6:20:34 pm
 # Author: Dillon Koch
 # -----
-# Last Modified: Thursday, 7th April 2022 5:25:36 pm
+# Last Modified: Sunday, 24th April 2022 6:20:40 pm
 # Modified By: Dillon Koch
 # -----
 #
 # -----
-# processing data into X/y vectors (datloaders)
-# training models and saving the best ones (model class)
+# training
 # ==============================================================================
 
 
-import datetime
 import os
-import pickle
-import shutil
 import sys
 from os.path import abspath, dirname
 
-import numpy as np
-import pandas as pd
+import wandb
 import torch
-import torch.nn.functional as F
-from sklearn.preprocessing import StandardScaler
 from torch import nn
 from torch.utils.data import DataLoader, Dataset
+from torchvision.io import read_image
 
 ROOT_PATH = dirname(dirname(abspath(__file__)))
 if ROOT_PATH not in sys.path:
@@ -38,229 +32,179 @@ def listdir_fullpath(d):
     return [os.path.join(d, f) for f in os.listdir(d)]
 
 
-class SBDataset(Dataset):
-    def __init__(self, league, bet_type, player_stats, avg_past_games):
-        self.league = league
-        self.bet_type = bet_type
-        self.player_stats = player_stats
-        self.avg_past_games = avg_past_games
-
-        # * identifying target column
-        self.bet_type_to_target_col = {"Spread": "Home_Covered", "Moneyline": "Home_Win",
-                                       "Total": "Over_Covered"}
-        self.target_col = self.bet_type_to_target_col[self.bet_type]
-        self.all_target_cols = list(self.bet_type_to_target_col.values())
-
-        # * loading data
-        df = self.finished_games()
-        df = self.balance_classes(df)
-        self.X, self.y = self.scaled_xy(df)
-
-    def _load_df(self):  # Specific Helper finished_games
-        """
-        loading the dataset from /Data/Modeling_Data/ for the league, player stats, avg past games
-        """
-        player_stat_str = "player_stats" if self.player_stats else "no_player_stats"
-        path = ROOT_PATH + f"/Data/Modeling_Data/{self.league}/{player_stat_str}_avg_{self.avg_past_games}_past_games.csv"
-        df = pd.read_csv(path)
-        return df
-
-    def _remove_missing_odds_cols(self, df):  # Specific Helper finished_games
-        """
-        sometimes betting odds won't be available for some recent games, so taking those out
-        """
-        cols = ['Home_Line_Close', 'Home_Line_Close_ML', 'OU_Close', 'OU_Close_ML', 'Home_ML', 'Away_ML']
-        df = df.dropna(subset=cols, axis=0)
-        assert df.isnull().sum().sum() == 0
-        return df
-
-    def finished_games(self):  # Top Level __init__
-        """
-        loading the /Data/Modeling_Data/ df of finished games only
-        """
-        raw_df = self._load_df()
-        raw_df['Date'] = pd.to_datetime(raw_df['Date'])
-        yesterday = datetime.datetime.today() - datetime.timedelta(days=1)
-        finished_df = raw_df.loc[raw_df['Date'] < yesterday]
-        finished_df = self._remove_missing_odds_cols(finished_df)
-        return finished_df
-
-    def balance_classes(self, df):  # Top Level __init__
-        """
-        resampling the lesser-represented class to balance the dataset
-        """
-        # TODO make a 0.5 for push in Modeling_Data labels
-
-        # * separating the dataset into those with positive/negative labels
-        positives = df[df[self.target_col] == 1]
-        positives.reset_index(drop=True, inplace=True)
-        negatives = df[df[self.target_col] == 0]
-
-        # * determining which is undersampled, and resampling latest games to make it even
-        if len(positives) > len(negatives):
-            diff = len(positives) - len(negatives)
-            negatives = pd.concat([negatives, negatives.iloc[-diff:, :]])
-        else:
-            diff = len(negatives) - len(positives)
-            positives = pd.concat([positives, positives.iloc[-diff:, :]])
-
-        # * adding the two halves of the dataset back together
-        balanced_df = pd.concat([positives, negatives])
-        return balanced_df
-
-    def _save_scaler(self, scaler):  # Specific Helper scaled_xy
-        """
-        saving the scaler to a pickle file so run_models.py can use the same one
-        """
-        path = ROOT_PATH + f"/Modeling/scalers/{self.league}/avg_{self.avg_past_games}_past_games_scaler.pkl"
-        with open(path, 'wb') as f:
-            pickle.dump(scaler, f)
-
-    def scaled_xy(self, df):  # Top Level __init__
-        """
-        scaling the data and separating into X/y tensors
-        """
-        y = np.array(df[self.target_col])
-        X_cols = [col for col in list(df.columns) if col not in (['Home', "Away", "Date"] + self.all_target_cols)]
-        X = np.array(df[X_cols])
-        scaler = StandardScaler()
-        X = scaler.fit_transform(X)
-        X = torch.from_numpy(X).float().to('cuda')
-        y = torch.from_numpy(y).float().to('cuda')
-        self._save_scaler(scaler)
-        return X, y
+class CustomDataset(Dataset):
+    def __init__(self, train_data):
+        super(CustomDataset, self).__init__()
+        self.train_data = train_data
+        # TODO load data or paths to images
+        # TODO optional: data augmentation
+        # TODO optional: define transforms
 
     def __len__(self):  # Run
-        return self.y.shape[0]
+        """
+        returns the number of items in the dataset
+        """
+        pass
 
     def __getitem__(self, idx):  # Run
-        return self.X[idx], self.y[idx]
+        """
+        returns one (X, y) pair at index "idx"
+        """
+        # TODO set device to cuda for both X, y
+        # TODO preprocess data (subtract mean, zero-centering)
+        img_path = self.img_paths[idx]
+        img = read_image(img_path).to('cuda') / 255.0
+        img = self.transform(img)
+        label = torch.tensor(self.labels[idx]).to('cuda')
+        return img, label
 
 
-class SBModel(nn.Module):
+# ! Create multiple Neural Net classes if desired
+class NeuralNet1(nn.Module):
     def __init__(self):
-        super(SBModel, self).__init__()
-        self.fc1 = nn.Linear(542, 256)
-        self.fc2 = nn.Linear(256, 128)
-        self.fc3 = nn.Linear(128, 64)
-        self.fc4 = nn.Linear(64, 1)
-        self.sigmoid = nn.Sigmoid()
+        super(NeuralNet1, self).__init__()
+        # TODO define layers
 
-    def forward(self, x):
-        x = F.relu(self.fc1(x))
-        x = F.relu(self.fc2(x))
-        x = F.relu(self.fc3(x))
-        x = self.sigmoid(self.fc4(x))
-        return x
+    def forward(self, x):  # Run
+        """
+        returns the output of the network for a single input x
+        """
+        # TODO define network architecture
+        pass
 
 
-class Train:
-    def __init__(self, league, bet_type):
-        self.league = league
-        self.bet_type = bet_type
-        self.temp_model_path = ROOT_PATH + f"/Models/{self.league}/{self.bet_type}_temp_model.pth"
+class NeuralNet2(nn.Module):
+    def __init__(self):
+        super(NeuralNet2, self).__init__()
+        # TODO define layers
 
-        # * model
-        self.loss_fn = nn.BCELoss()
-        # self.optimizer = torch.optim.Adam(self.model.parameters(), lr=0.001)
-        self.epochs = 10
+    def forward(self, x):  # Run
+        """
+        returns the output of the network for a single input x
+        """
+        # TODO define network architecture
+        pass
 
-    def train_loop(self, model, train_dataloader, optimizer):  # Top Level
-        size = len(train_dataloader)
-        for batch, (X, y) in enumerate(train_dataloader):
-            pred = model(X)
-            loss = self.loss_fn(pred, torch.unsqueeze(y, 1))
 
-            optimizer.zero_grad()
+class TrainNetwork:
+    def __init__(self, batch_size, epochs, learning_rate, momentum, network_idx, optimizer, wandb_sweep=False, wandb_single=False):
+        # * hyperparameters
+        self.epochs = epochs
+        self.batch_size = batch_size
+        self.learning_rate = learning_rate
+        self.momentum = momentum
+
+        # * weights and biases
+        self.wandb_sweep = wandb_sweep
+        self.wandb_single = wandb_single
+        self.wandb = wandb_sweep or wandb_single
+        if self.wandb_single:
+            wandb.init(project="Fundamentals", entity="dillonkoch")
+            wandb.config = {"epochs": self.epochs, "batch_size": self.batch_size, "learning_rate": self.learning_rate, "momentum": self.momentum}
+
+        # TODO define train/test dataloaders
+        # * optional: weighted random sampler for unequal class sizes
+        self.train_dataset = CustomDataset("Train")
+        self.train_dataloader = DataLoader(self.train_dataset, batch_size=self.batch_size)
+
+        self.test_dataset = CustomDataset("Test")
+        self.test_dataloader = DataLoader(self.test_dataset, batch_size=self.batch_size)
+
+        # TODO define model
+        # self.model = NeuralNet().to("cuda")
+        self.models = [NeuralNet1, NeuralNet2]
+        self.model = self.models[network_idx]().to("cuda")
+        self.loss = nn.CrossEntropyLoss()
+        self.optimizer = self.get_optimizer(optimizer)
+
+    def get_optimizer(self, opt_name):  # Top Level
+        """
+        creating the specified optimizer
+        """
+        if opt_name == 'adam':
+            return torch.optim.Adam(self.model.parameters(), lr=self.learning_rate)
+        elif opt_name == 'sgd':
+            return torch.optim.SGD(self.model.parameters(), lr=self.learning_rate, momentum=self.momentum)
+        elif opt_name == 'rmsprop':
+            return torch.optim.RMSprop(self.model.parameters(), lr=self.learning_rate)
+
+    def clear_temp(self):  # Top Level
+        """
+        clearing out the temp folder for a new run
+        """
+        temp_folder = ROOT_PATH + "/temp"
+        for file in listdir_fullpath(temp_folder):
+            os.remove(file)
+
+    def train_loop(self):  # Top Level
+        self.model.train()
+
+        for batch_idx, (X, y) in enumerate(self.train_dataloader):
+            self.optimizer.zero_grad()
+
+            # TODO save input/output right before model(X)
+            pred = self.model(X)
+            loss = self.loss(pred, y)
             loss.backward()
-            optimizer.step()
-            # print(f"Loss: {loss:.7f} | Batch: {batch}/{size}")
+            self.optimizer.step()
 
-    def test_loop(self, model, test_dataloader):  # Top Level
-        num_batches = len(test_dataloader)
+            if self.wandb:
+                wandb.log({"Training Loss": loss.item()})
+
+            if batch_idx % 100 == 0:
+                print(f"Batch {batch_idx+1}/{len(self.train_dataloader)}: Loss: {loss.item()}")
+
+    def test_loop(self):  # Top Level
+        self.model.eval()
         test_loss = 0
         correct = 0
-        total = 0
 
         with torch.no_grad():
-            for batch, (X, y) in enumerate(test_dataloader):
-                pred = model(X)
-                loss = self.loss_fn(pred, torch.unsqueeze(y, 1))
-                test_loss += loss.item()
-                # print(f"Loss: {loss:.7f} | Batch: {batch}/{num_batches}")
+            for X, y in self.test_dataloader:
+                output = self.model(X)
+                test_loss += self.loss(output, y, reduction='sum').item()
+                pred = output.argmax(dim=1, keepdim=True)
+                correct += pred.eq(y.view_as(pred)).sum().item()
 
-                # * accuracy
-                binary_preds = torch.reshape(pred > 0.5, (-1,)).int()
-                correct += torch.sum(binary_preds == y).item()
-                total += y.shape[0]
+        test_loss /= len(self.test_dataloader.dataset)
 
-        print(f"Accuracy: {(correct / total):.3f}%")
-        return test_loss / num_batches
+        print(f"\nTest set: Average loss: {test_loss:.4f}, Accuracy: {correct / len(self.test_dataloader.dataset):.4f}%")
+        if self.wandb:
+            wandb.log({"Test Loss": test_loss, "Test Accuracy": correct / len(self.test_dataloader.dataset)})
 
-    def train_one(self, dataset, model, optimizer):  # Run
-        train_size = int(0.8 * len(dataset))
-        test_size = len(dataset) - train_size
-        train_dataset, test_dataset = torch.utils.data.random_split(dataset, [train_size, test_size])
-        train_dataloader = DataLoader(train_dataset, batch_size=32, shuffle=True)
-        test_dataloader = DataLoader(test_dataset, batch_size=32, shuffle=True)
+    def run(self):  # Run
+        # TODO optional: clear temp folder
+        self.clear_temp()
 
-        min_loss = float('inf')
         for i in range(self.epochs):
-            self.train_loop(model, train_dataloader, optimizer)
-            test_loss = self.test_loop(model, test_dataloader)
-            print(f"{test_loss:.4f}")
-            if test_loss < min_loss:
-                min_loss = test_loss
-                torch.save(model.state_dict(), self.temp_model_path)
+            print(f"Epoch {i+1}")
+            print("-" * 50)
+            self.train_loop()
+            self.test_loop()
 
-        return min_loss, model
-
-    def save_model(self, model, avg_past_games):   # Top Level train_all
-        # * copy the temp model over to the path we want
-        model_path = ROOT_PATH + f"/Models/{self.league}/{self.bet_type}_{avg_past_games}_avg_past_games_model.pth"
-        shutil.copyfile(self.temp_model_path, model_path)
-        print("Saved new best model!")
-
-        # * delete other models
-        paths = listdir_fullpath(ROOT_PATH + f"/Models/{self.league}/")
-        paths.remove(model_path)
-        bet_type_paths = [path for path in paths if self.bet_type in path]
-        for path in bet_type_paths:
-            os.remove(path)
-
-    def delete_temps(self):  # Top Level
-        paths = listdir_fullpath(ROOT_PATH + f"/Models/{self.league}/")
-        temps = [path for path in paths if 'temp' in path]
-        for temp in temps:
-            os.remove(temp)
-
-    def train_all(self):  # Run
-        min_test_loss = float('inf')
-        for player_stats in [True]:
-            for avg_past_games in [3, 5, 10, 15, 20, 25]:
-                dataset = SBDataset(self.league, self.bet_type, player_stats, avg_past_games)
-                model = SBModel().to('cuda')
-                optimizer = torch.optim.Adam(model.parameters(), lr=0.001)
-                current_min_test_loss, model = self.train_one(dataset, model, optimizer)
-                print(f"Player stats: {player_stats}, Avg past games: {avg_past_games}, min test loss: {current_min_test_loss}")
-
-                # * if the current model has the lowest loss, save it
-                if current_min_test_loss < min_test_loss:
-                    # torch.save(model.state_dict(), self.model_path)
-                    # ! load temp weights, save to real path
-                    self.save_model(model, avg_past_games)
-                    # model_path = ROOT_PATH + f"/Models/{self.league}/{self.bet_type}_{avg_past_games}_avg_past_games_model.pth"
-                    # shutil.copyfile(self.temp_model_path, model_path)
-                    min_test_loss = current_min_test_loss
-                    # print("Saved new best model!")
-
-        self.delete_temps()
+            # TODO optionally save model
 
 
-if __name__ == '__main__':
-    league = "NBA"
-    for bet_type in ['Spread', 'Total']:
-        # bet_type = "Spread"
-        x = Train(league, bet_type)
-        self = x
-        x.train_all()
+def train_wandb(config=None):
+    with wandb.init(config=config):
+        config = wandb.config
+        epochs = 10
+        trainer = TrainNetwork(config.batch_size, epochs, config.learning_rate, config.momentum, config.layers, config.optimizer, wandb_sweep=True)
+        trainer.run()
+
+
+if __name__ == "__main__":
+    run_wandb = True
+    if run_wandb:
+        sweep_id = ""
+        wandb.agent(sweep_id, train_wandb, count=50)
+    else:
+        wandb_single = True
+        batch_size = 32
+        epochs = 100
+        learning_rate = 0.001
+        momentum = 0
+        network_idx = 0
+        optimizer = 'adam'
+        trainer = TrainNetwork(batch_size, epochs, learning_rate, momentum, network_idx, optimizer, wandb_single=wandb_single)
+        trainer.run()

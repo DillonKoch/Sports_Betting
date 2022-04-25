@@ -29,6 +29,7 @@ class Label_Predictions:
     def __init__(self, league):
         self.league = league
         self.pred_df_path = ROOT_PATH + f"/Data/Predictions/{self.league}/Predictions.csv"
+        self.alt_df_path = ROOT_PATH + f"/Data/Predictions/{self.league}/Alt_Predictions.csv"
         self.espn_df_path = ROOT_PATH + f"/Data/ESPN/{self.league}.csv"
 
     def _find_espn_scores(self, espn_df, home, away, date):  # Specific Helper bet_outcome
@@ -93,11 +94,9 @@ class Label_Predictions:
         elif bet_type == "Total":
             return self._total_outcome(home_score, away_score, bet_value, prediction)
 
-    def run(self):  # Run
-        pred_df = pd.read_csv(self.pred_df_path)
+    def run_one(self, df, df_path):  # Run
         espn_df = pd.read_csv(self.espn_df_path)
-        for i, row in tqdm(pred_df.iterrows()):
-            # if (row['Outcome'] == 'Not Labeled') or (np.isnan(row['Outcome'])):
+        for i, row in tqdm(df.iterrows()):
             if row['Outcome'] not in ['Win', 'Loss', 'Push']:
                 home = row['Home']
                 away = row['Away']
@@ -107,13 +106,19 @@ class Label_Predictions:
                 prediction = float(row['Prediction'])
                 outcome = self.bet_outcome(home, away, date, bet_type, bet_value, prediction, espn_df)
                 row["Outcome"] = outcome if isinstance(outcome, str) else None if outcome is None else "Win" if outcome else "Loss"
-                pred_df.iloc[i] = row
-        pred_df['Outcome'].fillna('Not Labeled', inplace=True)
-        pred_df.to_csv(self.pred_df_path, index=False)
+                df.iloc[i] = row
+        df['Outcome'].fillna('Not Labeled', inplace=True)
+        df.to_csv(df_path, index=False)
+
+    def run_all(self):  # Run
+        pred_df = pd.read_csv(self.pred_df_path)
+        alt_df = pd.read_csv(self.alt_df_path)
+        self.run_one(pred_df, self.pred_df_path)
+        self.run_one(alt_df, self.alt_df_path)
 
 
 if __name__ == '__main__':
     league = "NBA"
     x = Label_Predictions(league)
     self = x
-    x.run()
+    x.run_all()

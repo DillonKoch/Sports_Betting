@@ -85,7 +85,7 @@ class Alt_Odds(Run_Models):
         bet_val = modeling_df[self.bet_val_dict[self.bet_type]]
         bet_val_ml = modeling_df[self.bet_val_ml_dict[self.bet_type]]
         pred = round(pred.item(), 3)
-        new_row = [date, home, away, self.bet_type, bet_val, bet_val_ml, pred, None, self._current_ts()]
+        new_row = [date, home, away, self.bet_type, bet_val, bet_val_ml, pred, "Not Labeled", self._current_ts()]
         alt_df.loc[len(alt_df)] = new_row
         return alt_df
 
