@@ -17,11 +17,6 @@ python flat.py
 python dynamic.py
 cd ..
 
-cd Data_Cleaning
-python label_predictions.py
-python label_agents.py
-cd ..
-
 cd Frontend
 python frontend.py
 cd ..

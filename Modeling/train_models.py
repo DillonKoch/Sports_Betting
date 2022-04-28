@@ -607,7 +607,7 @@ class Main:
                     wandb_sweep=True)
                 trainer.train(val=True, early_stopping=30, sweep_csv=True)
 
-        sweep_id = "dillonkoch/Sports_Betting/liisoyia"
+        sweep_id = "dillonkoch/Sports_Betting/esv5es4l"
         wandb.agent(sweep_id, train_wandb, count=1000)
 
     def load_best_hyperparameters(self):  # Top Level
@@ -641,7 +641,7 @@ class Main:
 if __name__ == "__main__":
     # ! SETUP
     league = "NBA"
-    bet_type = "Spread"
+    bet_type = "Total"
     x = Main(league, bet_type)
 
     # ! RUNNING
