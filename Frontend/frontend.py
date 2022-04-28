@@ -100,6 +100,7 @@ class Frontend:
             collection = self._load_collection(agent)
             path = ROOT_PATH + f'/Data/Agents/{self.league}/{agent}.csv'
             agent_df = pd.read_csv(path)
+            agent_df = agent_df.dropna(subset=['Prediction', 'Outcome'])
             agent_dicts = agent_df.to_dict('records')
             for agent_dict in tqdm(agent_dicts):
                 agent_dict['_id'] = f"{self.league} {agent_dict['Date']} {agent_dict['Home']} {agent_dict['Away']} {agent_dict['Bet_Type']} {agent}"
@@ -123,15 +124,15 @@ class Frontend:
                 #     print('replace')
 
     def run(self):  # Run
-        pred_df = self.load_pred_df()
-        recent_preds = self.filter_recent_preds(pred_df)
-        self.upload_preds(recent_preds)
+        # pred_df = self.load_pred_df()
+        # recent_preds = self.filter_recent_preds(pred_df)
+        # self.upload_preds(recent_preds)
 
-        # ! KEEP
-        alt_preds = pd.read_csv(ROOT_PATH + f"/Data/Predictions/{self.league}/Alt_Predictions.csv")
-        recent_alt_preds = self.filter_recent_preds(alt_preds)
-        self.upload_preds(recent_alt_preds, "Alternate_Predictions")
-        # self.upload_agents()
+        # # ! KEEP
+        # alt_preds = pd.read_csv(ROOT_PATH + f"/Data/Predictions/{self.league}/Alt_Predictions.csv")
+        # recent_alt_preds = self.filter_recent_preds(alt_preds)
+        # self.upload_preds(recent_alt_preds, "Alternate_Predictions")
+        self.upload_agents()
 
 
 if __name__ == '__main__':
