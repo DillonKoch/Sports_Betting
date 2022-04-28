@@ -3,7 +3,7 @@ This project uses machine learning to predict the outcome of common bets (Spread
 See the latest predictions [here](https://personal-website-app-gfrfw.mongodbstitch.com/sports-betting/).
 
 <p align="center">
-  <img src="PAM.png" width=500 />
+  <img src="Misc/PAM.png" width=500 />
 </p>
 
 ## Contents
@@ -18,7 +18,7 @@ See the latest predictions [here](https://personal-website-app-gfrfw.mongodbstit
 <a name="Data-Collection"></a>
 
 <!-- TODO link to the specific scraping README, do the same for other sections -->
-## [1. Data Collection](Data_Collection/)
+## [1. Data Collection](Data_Collection/README.md)
 This project focuses on four leagues: NFL, NBA, NCAAF, and NCAAB. The following sections describe how data was collected from each source.
 
 ### ESPN
@@ -86,17 +86,26 @@ After predictions are made by the models and agents, the [label predictions scri
 ### Weights and Biases setup
 To monitor each model as it trains, I use [Weights and Biases](https://wandb.com) to track metrics like loss and accuracy.
 
-The [train models file](/Modeling/train_models.py) runs a Weights and Biases "Sweep" to train and evaluate many models on the validation set to find the best hyperparameters.
-The possible hyperparameter values are stored in the [sweep yaml file](/Modeling/sweep.yaml).
+Inside my training code, I simply send metrics to Weights and Biases, and they create a dashboard of with graphs like this:
+
+<p align="center">
+  <img src="Misc/wandb_plots.png" width=1200 />
+</p>
+
 
 ### Training Models
+Before training the models, I split the data into train/validation/test sets of 70%/15%/15%.
+The validation and test sets have a disproportionate amount of recent games, to mimic the task of predicting upcoming games.
 
-<!-- splitting data into train/val/test -->
-<!-- build different neural net architectures, give different params to test -->
-<!-- evaluated on binary cross entropy, adam optimizer -->
+The [train models file](/Modeling/train_models.py) runs a Weights and Biases "Sweep" to train and evaluate many models on the validation set to find the best hyperparameters.
+The possible hyperparameter values are stored in the [sweep yaml file](/Modeling/sweep.yaml).
+The models are evaluated using binary cross entropy.
+
+The hyperparameters from each model in the sweep are saved to a csv in the [sweeps folder](/Modeling/Sweeps/), along with the lowest loss achieved.
 
 
 ### Running Models
+After running many sweeps of hyperparameters (~100), the best 10 are retrained and evaluated on the test set. Those models are then used in an ensemble to make the final predictions on upcoming games.
 
 
 ### Alternate Predictions
@@ -131,5 +140,5 @@ This site is a simple [React](https://reactjs.org/) app that uses [MongoDB](http
 
 
 <p align="center">
-  <img src="react_table.png" width=1200 />
+  <img src="Misc/react_table.png" width=1200 />
 </p>
