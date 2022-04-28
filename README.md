@@ -1,7 +1,5 @@
 # Sports Betting
 This project uses machine learning to predict the outcome of common bets (Spread, Moneyline, Total) in four sports leagues (NFL, NBA, College Football, College Basketball).
-
-The algorithms are trained on a database of team stats and odds for each game dating back to 2007.
 See the latest predictions [here](https://personal-website-app-gfrfw.mongodbstitch.com/sports-betting/).
 
 <p align="center">
@@ -21,7 +19,7 @@ See the latest predictions [here](https://personal-website-app-gfrfw.mongodbstit
 
 <!-- TODO link to the specific scraping README, do the same for other sections -->
 ## [1. Data Collection](Data_Collection/)
-This project focuses on four leagues: NFL, NBA, NCAAF, and NCAAB. The following sections describe how data for each league was collected.
+This project focuses on four leagues: NFL, NBA, NCAAF, and NCAAB. The following sections describe how data was collected from each source.
 
 ### ESPN
 <!-- teams, rosters, schedule, game, player stats, players -->
@@ -57,13 +55,13 @@ Each player's injury status is given to the models as input data, and when a pla
 
 ## [2. Data Cleaning](/Data_Cleaning/)
 
-### Cleaning ESPN
+### ESPN
 The ESPN web scrapers store the raw data from the website, but that isn't always in a clean format for machine learning.
 The [clean ESPN script](/Data_Cleaning/clean_espn.py) reformats the data into a format that is easy to work with.
 For example, it takes stats with dashes like 10-12 free throws, and converts it to 10 free throws made and 12 free throws attempted.
 This cleaned data is saved to [/Data/ESPN/](/Data/ESPN/) (outside the league folders).
 
-### Cleaning Sportsbook Reviews Online
+### Sportsbook Reviews Online
 Similarly, the Sportsbook Reviews Online data is not in a clean format for machine learning.
 This data is downloaded as .xlsx files, which represent each game's bets in two rows.
 The [clean SBO script](/Data_Cleaning/clean_sbo.py) reformats each game into one row, with cleaned values.
@@ -78,14 +76,32 @@ The alternate names are saved to the [team JSON files](/Data/Teams/) in the "Oth
 Once all the data is collected and cleand, the [merge datasets script](/Data_Cleaning/merge_datasets.py) merges the cleaned data from all sources.
 These datasets are saved in [/Data/](/Data/).
 
+### Labeling Predictions
+After predictions are made by the models and agents, the [label predictions script](/Data_Cleaning/label_predictions.py) and [label agents script](/Data_Cleaning/label_agents.py) label the predictions with the true result.
 
 <a name="Modeling"></a>
 
 ## [3. Modeling](/Modeling/)
 
-### Modeling Parent
+### Weights and Biases setup
+To monitor each model as it trains, I use [Weights and Biases](https://wandb.com) to track metrics like loss and accuracy.
 
-### Child Classes
+The [train models file](/Modeling/train_models.py) runs a Weights and Biases "Sweep" to train and evaluate many models on the validation set to find the best hyperparameters.
+The possible hyperparameter values are stored in the [sweep yaml file](/Modeling/sweep.yaml).
+
+### Training Models
+
+<!-- splitting data into train/val/test -->
+<!-- build different neural net architectures, give different params to test -->
+<!-- evaluated on binary cross entropy, adam optimizer -->
+
+
+### Running Models
+
+
+### Alternate Predictions
+Betting odds often change leading up to a game, which impact the AI's predictions.
+Therefore, I also ran the models with [different odds values](/Modeling/alt_odds.py) to show how they would behave if the odds did change.
 
 
 <a name="Performance"></a>
@@ -93,28 +109,27 @@ These datasets are saved in [/Data/](/Data/).
 ## [4. Agents](/Agents/)
 
 Agents use rules-based methods to make bets with the models' predictions.
-Each agent acts differently to evaluate which betting methods are best.
+They're created to give a more realistic measure of how useful the models are.
 
-### Baseline
-
+<!-- ### Baseline -->
 
 ### Flat
-
+The [flat betting agent](/Agents/flat.py) simply wagers $10 on every predicted bet.
+Whether the models are strongly in favor of the outcome or on the fence, this agent will bet the same amount every time.
 
 ### Dynamic
-
-
-### Relative
-
-
-### Consensus
+The [dynamic betting agent](/Agents/dynamic.py) wagers more money when the models are more confident.
+This agent can place anywhere from $5 to $15 on each bet.
 
 
 <a name="Frontend"></a>
 
 ## [5. Frontend](/Frontend/)
 
-### Predictions
+All predictions and agent bets made in this project can be seen [here](https://personal-website-app-gfrfw.mongodbstitch.com/sports-betting/).
+This site is a simple [React](https://reactjs.org/) app that uses [MongoDB](https://www.mongodb.com/) and to store predictions and [React-Table](https://react-table.js.org/) to display the data.
 
 
-### Agents
+<p align="center">
+  <img src="react_table.png" width=1200 />
+</p>
