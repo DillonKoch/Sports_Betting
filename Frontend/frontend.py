@@ -124,14 +124,13 @@ class Frontend:
                 #     print('replace')
 
     def run(self):  # Run
-        # pred_df = self.load_pred_df()
-        # recent_preds = self.filter_recent_preds(pred_df)
-        # self.upload_preds(recent_preds)
+        pred_df = self.load_pred_df()
+        recent_preds = self.filter_recent_preds(pred_df)
+        self.upload_preds(recent_preds)
 
-        # # ! KEEP
-        # alt_preds = pd.read_csv(ROOT_PATH + f"/Data/Predictions/{self.league}/Alt_Predictions.csv")
-        # recent_alt_preds = self.filter_recent_preds(alt_preds)
-        # self.upload_preds(recent_alt_preds, "Alternate_Predictions")
+        alt_preds = pd.read_csv(ROOT_PATH + f"/Data/Predictions/{self.league}/Alt_Predictions.csv")
+        recent_alt_preds = self.filter_recent_preds(alt_preds)
+        self.upload_preds(recent_alt_preds, "Alternate_Predictions")
         self.upload_agents()
 
 

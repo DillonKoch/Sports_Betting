@@ -136,7 +136,7 @@ This agent can place anywhere from $5 to $15 on each bet.
 ## [5. Frontend](/Frontend/)
 
 All predictions and agent bets made in this project can be seen [here](https://personal-website-app-gfrfw.mongodbstitch.com/sports-betting/).
-This site is a simple [React](https://reactjs.org/) app that uses [MongoDB](https://www.mongodb.com/) and to store predictions and [React-Table](https://react-table.js.org/) to display the data.
+This site is a simple [React](https://reactjs.org/) app that uses [MongoDB](https://www.mongodb.com/) and to store predictions and [React-Table](https://react-table.tanstack.com/) to display the data.
 
 
 <p align="center">

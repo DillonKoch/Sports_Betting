@@ -10,6 +10,7 @@ cd ..
 
 cd Modeling
 python run_models.py
+python alt_odds.py
 cd ..
 
 cd Agents
