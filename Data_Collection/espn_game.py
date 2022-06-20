@@ -18,7 +18,6 @@ import datetime
 import re
 import sys
 import time
-import urllib.request
 from os.path import abspath, dirname
 
 import numpy as np
@@ -58,10 +57,6 @@ class ESPN_Game_Scraper:
         """
         fires up the selenium window to start scraping
         """
-        # options = Options()
-        # options.add_argument('--no-sandbox')
-        # options.add_argument('--disable-dev-shm-usage')
-        # options.headless = False
         self.driver = webdriver.Firefox(executable_path=ROOT_PATH + "/Data_Collection/geckodriver")
         time.sleep(1)
 
@@ -111,16 +106,6 @@ class ESPN_Game_Scraper:
         Scraping HTML of the link
         """
         time.sleep(5)
-        # user_agent = 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.7) Gecko/2009021910 Firefox/3.0.7'
-        # headers = {'User-Agent': user_agent, }
-        # request = urllib.request.Request(link, None, headers)  # The assembled request
-        # response = urllib.request.urlopen(request)
-        # http = urllib3.PoolManager()
-        # response = http.request('GET', link)
-        # sp = soup(response.data, 'html.parser')
-
-        # a = response.read().decode('utf-8', 'ignore')
-        # sp = soup(a, 'html.parser')
         self.driver.get(link)
         sp = self.get_soup_sp()
         return sp
@@ -161,18 +146,6 @@ class ESPN_Game_Scraper:
         """
         scrapes the team names and adds to new_row
         """
-        # locations = sp.find_all('span', attrs={'class': 'long-name'})
-        # away_loc = locations[0].get_text()
-        # home_loc = locations[1].get_text()
-
-        # team_names = sp.find_all('span', attrs={'class': 'short-name'})
-        # away_name = team_names[0].get_text()
-        # home_name = team_names[1].get_text()
-
-        # away_full = away_loc + ' ' + away_name
-        # home_full = home_loc + ' ' + home_name
-        # new_row.extend([home_full, away_full])
-        # return new_row
         teams = sp.find_all('a', attrs={'class': 'AnchorLink truncate'})
         away = teams[0].get_text()
         home = teams[1].get_text()
@@ -183,8 +156,6 @@ class ESPN_Game_Scraper:
         """
         scrapes the home and away team records, adds to new_row
         """
-        # records = sp.find_all('div', attrs={'class': 'record'})
-        # away_record, home_record = [item.get_text() for item in records]
         records = sp.find_all('div', attrs={'class': 'Gamestrip__Record db n10 clr-gray-03'})
         away_record = records[0].get_text()
         home_record = records[1].get_text()
@@ -242,13 +213,9 @@ class ESPN_Game_Scraper:
         scrapes the quarter values and OT
         - quarters only if it's not NCAAB, but OT either way
         """
-        # table_sp = sp.find('table', attrs={'id': 'linescore'})
-        # table_body = table_sp.find('tbody')
-        # away_row, home_row = table_body.find_all('tr')
         top_banner = sp.find_all('div', attrs={'class': 'Gamestrip__Competitors relative flex'})
         score_rows = top_banner[0].find_all('tr', attrs={'class': 'Table__TR Table__TR--sm Table__even'})
         away_row, home_row = score_rows
-        # !
         td_vals = home_row.find_all('td') if home else away_row.find_all('td')
 
         q1, q2, q3, q4, ot = None, None, None, None, None
@@ -276,12 +243,6 @@ class ESPN_Game_Scraper:
         away_score = scores[0].get_text()
         home_score = scores[1].get_text()
 
-        # away_score = sp.find_all('div', attrs={'class': 'score icon-font-after'})
-        # away_score = away_score[0].get_text()
-
-        # home_score = sp.find_all('div', attrs={'class': 'score icon-font-before'})
-        # home_score = home_score[0].get_text()
-
         new_row.extend([home_score, away_score])
         return new_row
 
@@ -301,7 +262,6 @@ class ESPN_Game_Scraper:
         scrapes all the game stats for a game and adds them to the new_row
         """
         stat_cols = self.football_stats if self.football_league else self.basketball_stats
-        # table_sp = sp.find('table', attrs={'class': 'mod-data'})
         table_sp = sp.find_all('table', attrs={'class': 'Table Table--align-right'})[1]
         table_body = table_sp.find('tbody')
 

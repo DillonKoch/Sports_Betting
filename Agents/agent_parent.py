@@ -45,13 +45,19 @@ class Agent_Parent:
 
         return agent_df
 
-    def _get_bet(self, home, away, bet_type, prediction):  # Specific Helper flat_bet
+    def _get_bet(self, home, away, bet_type, prediction):  # Specific Helper flat_bet, dynamic_bet
+        """
+        returning the actual bet (one of over, under, home team, away team)
+        """
         if bet_type == "Total":
             return "Over" if prediction > 0.5 else "Under"
         else:
             return home if prediction > 0.5 else away
 
-    def _to_win_amount(self, bet_ml, wager):  # Specific Helper  flat_bet
+    def _to_win_amount(self, bet_ml, wager):  # Specific Helper  flat_bet, dynamic_bet
+        """
+        calculating the "to win" amount based on the wager and moneyline
+        """
         if bet_ml > 0:
             to_win = wager * (bet_ml / 100)
         else:
@@ -70,11 +76,7 @@ class Agent_Parent:
                 return True
         return False
 
-    def run(self):  # Run
-        pass
-
 
 if __name__ == '__main__':
     x = Agent_Parent()
     self = x
-    x.run()

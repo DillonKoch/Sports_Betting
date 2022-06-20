@@ -46,7 +46,7 @@ Therefore, I created the [Elite Sportsbook scraper](/Data_Collection/esb.py) to 
 
 
 ### Covers.com
-Injuries can be a huge factor in sports.
+Injuries can make a huge impact on sports betting.
 Therefore, I wrote the [Covers injury scraper](/Data_Collection/covers.py) to scrape injury data from [covers.com](https://www.covers.com/).
 Each player's injury status is given to the models as input data, and when a player is out, their data is omitted entirely.
 

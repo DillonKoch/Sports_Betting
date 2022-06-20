@@ -19,7 +19,6 @@ import warnings
 from os.path import abspath, dirname
 
 import pandas as pd
-from tqdm import tqdm
 
 ROOT_PATH = dirname(dirname(abspath(__file__)))
 if ROOT_PATH not in sys.path:
@@ -33,11 +32,11 @@ class Clean_ESPN:
         self.league = league
         self.football_league = league in ['NFL', 'NCAAF']
 
+        # ! Stats being copied over to new dataframe
         self.copy_cols = ['Season', 'Week', 'Date', 'Network', 'Final_Status', 'H1H', 'H2H',
                           'H1Q', 'H2Q', 'H3Q', 'H4Q', 'HOT', 'A1H', 'A2H', 'A1Q', 'A2Q', 'A3Q', 'A4Q', 'AOT',
                           'Home_Final', 'Away_Final']
 
-        # ! Stats being copied over to new dataframe
         self.football_copy_stats = ['1st_Downs', 'Passing_1st_downs', 'Rushing_1st_downs', '1st_downs_from_penalties',
                                     'Total_Plays', 'Total_Yards', 'Total_Drives', 'Yards_per_Play', 'Passing',
                                     'Yards_per_pass', 'Interceptions_thrown', 'Rushing', 'Rushing_Attempts',
@@ -80,7 +79,6 @@ class Clean_ESPN:
         - removing unfinished games
         """
         games_df = pd.read_csv(ROOT_PATH + f"/Data/ESPN/{self.league}/Games.csv")
-        # games_df = games_df.loc[games_df['Final_Status'].notnull()]
         games_df = games_df.loc[games_df['Home'].notnull()]
         games_df.reset_index(inplace=True)
         return games_df

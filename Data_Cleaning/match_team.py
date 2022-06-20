@@ -69,6 +69,9 @@ class Match_Team:
         return teams
 
     def _load_espn_team_names(self):  # Specific Helper load_team_names_all_data
+        """
+        loading a list of team names from ESPN
+        """
         path = ROOT_PATH + f"/Data/ESPN/{self.league}/Games.csv"
         df = pd.read_csv(path)
         df = df.loc[df['Home'].notnull()]
@@ -78,6 +81,9 @@ class Match_Team:
         return teams
 
     def _load_covers_team_names(self):  # Specific Helper load_team_names_all_data
+        """
+        loading a list of team names from Covers.com
+        """
         path = ROOT_PATH + f"/Data/Covers/{self.league}/Injuries.csv"
         df = pd.read_csv(path)
         team_col = list(df['Team'])
@@ -85,6 +91,9 @@ class Match_Team:
         return teams
 
     def _load_esb_team_names(self):  # Specific Helper load_team_names_all_data
+        """
+        loading a list of team names from Elite Sportsbook
+        """
         path = ROOT_PATH + f"/Data/ESB/{self.league}/Game_Lines.csv"
         df = pd.read_csv(path)
         home_teams = list(df['Home'])
@@ -121,6 +130,9 @@ class Match_Team:
         return [item[0] for item in existing_dist_combos]
 
     def update_team_dict(self, team_dict, team_name, matches, real_team_index):  # Top Level
+        """
+        updating the team dict with the new team match
+        """
         if real_team_index == '':
             team_dict['Other Teams'] = team_dict['Other Teams'] + [team_name]
         elif real_team_index != '':
@@ -134,9 +146,11 @@ class Match_Team:
             json.dump(team_dict, f)
 
     def run(self):  # Run
-        # load team names in all data sources for all leagues
-        # in command line, show non-matched team, and top 10 matches
-        # accept user input 1-10 to automatically add the name to the JSON
+        """
+        load team names in all data sources for all leagues
+        in command line, show non-matched team, and top 10 matches
+        accept user input 1-10 to automatically add the name to the JSON
+        """
         team_dict = self.load_team_dict()
         official_names, existing_names = self.existing_team_names(team_dict)
         team_names_all_data = self.load_team_names_all_data()

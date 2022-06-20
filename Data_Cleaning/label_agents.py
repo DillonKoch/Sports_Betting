@@ -10,13 +10,13 @@
 #
 # -----
 # labeling the agents' bets in /Data/Agents
+# inheriting similar code from /Data_Cleaning/label_predictions.py
 # ==============================================================================
 
 
 import sys
 from os.path import abspath, dirname
 
-import numpy as np
 import pandas as pd
 from tqdm import tqdm
 
@@ -33,6 +33,9 @@ class Label_Agents(Label_Predictions):
         self.agents = ['Flat', 'Dynamic']
 
     def bet_profit(self, wager, to_win, outcome):  # Top Level
+        """
+        calculating profit based on wager/to_win and outcome
+        """
         if outcome == "Push":
             return 0
         elif outcome is None:
@@ -46,14 +49,12 @@ class Label_Agents(Label_Predictions):
         agent_df = pd.read_csv(ROOT_PATH + f"/Data/Agents/{self.league}/{agent}.csv")
         espn_df = pd.read_csv(self.espn_df_path)
         for i, row in tqdm(agent_df.iterrows()):
-            # if (row['Outcome'] == 'Not Labeled') or (np.isnan(row['Outcome'])):
             if row['Outcome'] not in ['Win', 'Loss', 'Push']:
                 home = row['Home']
                 away = row['Away']
                 date = row['Date']
                 bet_type = row['Bet_Type']
                 bet_value = row['Bet_Value']
-                # confidence = float(row['Confidence'])
                 prediction = row['Prediction']
                 outcome = self.bet_outcome(home, away, date, bet_type, bet_value, prediction, espn_df)
                 row["Outcome"] = outcome if isinstance(outcome, str) else None if outcome is None else "Win" if outcome else "Loss"

@@ -37,6 +37,9 @@ class Alt_Odds(Run_Models):
         self.odd_val = "Home_Line_Close" if bet_type == "Spread" else "OU_Close"
 
     def load_alt_df(self):  # Top Level
+        """
+        loading (or creating) the dataframe of alternate odds predictions
+        """
         path = ROOT_PATH + f"/Data/Predictions/{self.league}/Alt_Predictions.csv"
         if not os.path.exists(path):
             cols = ['Date', 'Home', 'Away', 'Bet_Type', 'Bet_Value', 'Bet_ML', 'Prediction', 'Outcome', "Pred_ts"]
@@ -46,6 +49,10 @@ class Alt_Odds(Run_Models):
         return df
 
     def _alt_odds(self, odds_val):   # Helping Helper _expand_df_alt_odds
+        """
+        making a list of alternate odds to make predictions on
+        - includes odds near the true odds value, and 0 (to predict the moneyline)
+        """
         alt_odds = [odds_val - 5, odds_val - 4, odds_val - 3, odds_val - 2.5,
                     odds_val - 2, odds_val - 1.5, odds_val - 1, odds_val - 0.5,
                     odds_val, odds_val + 0.5, odds_val + 1, odds_val + 1.5,
@@ -55,6 +62,9 @@ class Alt_Odds(Run_Models):
         return alt_odds
 
     def _expand_df_alt_odds(self, df):  # Specific Helper upcoming_games
+        """
+        expanding the dataframe with alternate odds values
+        """
         exp_df = pd.DataFrame(columns=list(df.columns))
         for i in tqdm(range(len(df))):
             exp_df.loc[len(exp_df)] = df.loc[i]
@@ -67,6 +77,10 @@ class Alt_Odds(Run_Models):
         return exp_df
 
     def upcoming_games(self, df, scaler):  # Top Level
+        """
+        locating upcoming games from the dataframe
+        - no need to re-predict games from the past
+        """
         df['Date'] = pd.to_datetime(df['Date'])
         yesterday = datetime.datetime.today() - datetime.timedelta(days=1)
         yesterday = datetime.datetime(year=2022, month=4, day=15)
@@ -82,6 +96,9 @@ class Alt_Odds(Run_Models):
         return df, X
 
     def _game_lists(self, pred_lists):  # Specific Helper update_alt_df
+        """
+        making lists of game info - date, home, away, bet_val, ..
+        """
         game_lists = []
         for pred_list in pred_lists:
             added = False
@@ -98,6 +115,9 @@ class Alt_Odds(Run_Models):
         return game_lists
 
     def update_alt_df(self, alt_df, pred_lists):  # Top Level
+        """
+        making updates to the df of alternate bets
+        """
         game_lists = self._game_lists(pred_lists)
         for game_list in game_lists:
             avg_pred = sum([i[-1].item() for i in game_list]) / len(game_list)
@@ -127,7 +147,6 @@ class Alt_Odds(Run_Models):
                 pred_list = [date, home, away, self.bet_type, bet_value, bet_ml, pred]
                 pred_lists.append(pred_list)
 
-        # pred_df = self.update_pred_df(pred_df, pred_lists)
         alt_df = self.update_alt_df(alt_df, pred_lists)
 
 

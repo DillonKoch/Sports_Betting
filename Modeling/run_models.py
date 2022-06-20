@@ -64,6 +64,7 @@ class Run_Models:
 
     def load_models(self):  # Top Level
         """
+        loading models and their paths from /Models/
         """
         folder = ROOT_PATH + f"/Models/{self.league}/"
         model_paths = [item for item in listdir_fullpath(folder) if self.bet_type in item]
@@ -76,6 +77,9 @@ class Run_Models:
         return models, model_paths
 
     def load_scalers(self, model_paths):  # Top Level
+        """
+        loading scalers used to create modeling_df to scale data the exact same way
+        """
         scaler_folder = ROOT_PATH + f"/Modeling/scalers/{self.league}/"
         scaler_paths = sorted(listdir_fullpath(scaler_folder))
         scaler_dict = {}
@@ -92,6 +96,9 @@ class Run_Models:
         return scalers
 
     def load_pred_df(self):  # Top Level
+        """
+        loading predictions df or creating one if needed
+        """
         path = ROOT_PATH + f"/Data/Predictions/{self.league}/Predictions.csv"
         if not os.path.exists(path):
             cols = ['Date', 'Home', 'Away', 'Bet_Type', 'Bet_Value', 'Bet_ML', 'Prediction', 'Outcome', "Pred_ts"]
@@ -118,6 +125,9 @@ class Run_Models:
         return df, X
 
     def _game_lists(self, pred_lists):  # Specific Helper update_pred_df
+        """
+        making lists of game info - date, home, away, bet_val, ..
+        """
         game_lists = []
         for pred_list in pred_lists:
             added = False
@@ -133,6 +143,9 @@ class Run_Models:
         return game_lists
 
     def update_pred_df(self, pred_df, pred_lists):  # Top Level
+        """
+        updating the predictions df with the models' outputs
+        """
         game_lists = self._game_lists(pred_lists)
         for game_list in game_lists:
             avg_pred = sum([i[-1].item() for i in game_list]) / len(game_list)

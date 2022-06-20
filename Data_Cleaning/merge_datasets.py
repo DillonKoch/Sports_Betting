@@ -92,6 +92,7 @@ class Merge_Datasets:
 
     def _update_merged_col(self, merged_df, esb_df, sbo_col, esb_col, close):  # Specific Helper
         """
+        updating columns in merged dataset
         """
         missing = merged_df.loc[merged_df[sbo_col].isnull()]
         home_away_dates = [(home, away, date) for home, away, date in zip(missing['Home'], missing['Away'], missing['Date'])]
@@ -136,10 +137,6 @@ class Merge_Datasets:
         final_df.sort_values(by=['Date'], inplace=True)
         final_df.to_csv(ROOT_PATH + f"/Data/{self.league}.csv", index=False)
         return final_df
-
-    def todo_func(self):  # QA Testing
-        # TODO make method to identify cols not included in the merge from ESPN, Odds, etc
-        pass
 
 
 if __name__ == '__main__':

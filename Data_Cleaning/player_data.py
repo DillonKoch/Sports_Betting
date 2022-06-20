@@ -120,12 +120,18 @@ class Player_Data:
         return sum(ht_wt_ints) / len(ht_wt_ints)
 
     def avg_pos_ht_wt_dict(self, height=True):  # Top Level
+        """
+        creating a height/weight dict with averages per position to fill in missing values
+        """
         ht_wt_dict = {}
         for position in self.positions:
             ht_wt_dict[position] = self._avg_player_ht_wt(position, height)
         return ht_wt_dict
 
     def _check_nan(self, val):  # Helping Helper _split_dash_slash_cols
+        """
+        checking if a float value is NaN or None
+        """
         if isinstance(val, float):
             if np.isnan(val):
                 return True
@@ -172,13 +178,11 @@ class Player_Data:
         finding the player_id's for the team
         - locates the players who played if the game is pre_scraping
         - locates players on the roster who aren't "out" in the injury_df if post-scraping
-        TODO this errors sometimes - could make sure it's good before running?
         """
         if pre_scraping:
             team_date_df = self.player_stats_df[(self.player_stats_df["Team"] == team) & (self.player_stats_df["Date"] == date)]
             player_ids = list(team_date_df["Player_ID"])
         else:
-            input_dt = datetime.datetime.strptime(date, "%Y-%m-%d")
             team_roster_df = self.roster_df.loc[self.roster_df['Team'] == team]
             team_roster_dts = [datetime.datetime.strptime(scrape_ts, "%Y-%m-%d %H:%M") for scrape_ts in list(set(list(team_roster_df['scrape_ts'])))]
             most_recent_roster_scrape = max([scrape_ts for scrape_ts in team_roster_dts])  # if scrape_ts <= input_dt])
@@ -215,18 +219,6 @@ class Player_Data:
             status_first_word = injury_status.strip().split(' ')[0].lower()
             dash_name_injury_dict[injury_dname] = self.status_fw_to_num_dict[status_first_word]
         return dash_name_injury_dict
-
-    # def _find_closest_dash_name(self, dash_name, roster_dash_names):  # Helping Helper _dash_name_to_player_id
-    #     best_match = None
-    #     best_match_dist = 1000
-    #     for roster_dash_name in roster_dash_names:
-    #         dist = lev.distance(dash_name, roster_dash_name)
-    #         if dist < best_match_dist:
-    #             best_match = roster_dash_name
-    #             best_match_dist = dist
-
-    #     print(f"Chagned {dash_name} to {best_match}")
-    #     return best_match
 
     def _dash_name_to_player_id(self, covers_dash_name, roster_df):  # Specific Helper  id_injury_dict
         """

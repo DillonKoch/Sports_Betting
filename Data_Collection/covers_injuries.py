@@ -130,15 +130,18 @@ class Covers_Injuries:
         df = self.load_df()
         print(f'starting with {len(df)} rows')
         section_sps = self.get_section_sps(sp)
+
         # * going through each team
         for section_sp in section_sps:
             team = self.section_sp_team(section_sp)
             player_sps = self.section_sp_player_sps(section_sp)
+
             # * going through each player on the team
             for player_sp in player_sps:
                 player_id, name, pos, status, status_date, description = self.player_sp_info(player_sp)
                 new_row = [self.scrape_ts, team, player_id, name, pos, status, status_date, description]
                 df.loc[len(df)] = new_row
+
         df.to_csv(ROOT_PATH + f"/Data/Covers/{self.league}/Injuries.csv", index=False)
         print(f'ending with {len(df)} rows')
         print('-' * 50)

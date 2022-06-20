@@ -62,6 +62,7 @@ class Match_Player:
 
     def find_closest_matches(self, covers_player, espn_players):  # Top Level
         """
+        finding the 10 closest espn_players to the given covers_player
         """
         espn_players_copy = copy.deepcopy(espn_players)
         espn_players_sorted = sorted(espn_players_copy, key=lambda x: lev.distance(x, covers_player))
@@ -69,6 +70,7 @@ class Match_Player:
 
     def find_user_match(self, covers_player, closest_matches):  # Top Level
         """
+        prompting the user to enter a number indicating the true player match
         """
         print('-' * 50)
         print('\n\n\n')
@@ -84,6 +86,7 @@ class Match_Player:
 
     def update_player_json(self, covers_player, user_match, player_json):  # Top Level
         """
+        updating the json file with the new player match
         """
         if user_match is None:
             player_json['No Matches'].append(covers_player)

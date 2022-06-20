@@ -13,8 +13,6 @@
 # ==============================================================================
 
 
-import datetime
-import os
 import sys
 from os.path import abspath, dirname
 
@@ -42,7 +40,6 @@ class Flat(Agent_Parent):
         away = pred['Away']
         bet_type = pred['Bet_Type']
         bet = self._get_bet(home, away, bet_type, pred['Prediction'])
-        # confidence = 0.5 + abs(0.5 - pred['Prediction'])
         prediction = pred['Prediction']
         bet_val = pred['Bet_Value']
         bet_ml = pred['Bet_ML']

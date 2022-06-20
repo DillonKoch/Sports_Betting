@@ -44,9 +44,9 @@ class Frontend:
         """
         filtering the df down to just the most recent predictions (last 7 days)
         """
-        # df['Date'] = pd.to_datetime(df['Date'])
-        # last_week = datetime.datetime.today() - datetime.timedelta(days=7)
-        # df = df.loc[df['Date'] > last_week]
+        df['Date'] = pd.to_datetime(df['Date'])
+        last_week = datetime.datetime.today() - datetime.timedelta(days=7)
+        df = df.loc[df['Date'] > last_week]
         return df
 
     def _load_collection(self, collection_name):  # Specific Helper  upload_preds
@@ -116,13 +116,6 @@ class Frontend:
                         collection.replace_one({"_id": agent_dict['_id']}, agent_dict)
                         print('replace')
                         time.sleep(3)
-                #     collection.insert_one(agent_dict)
-                #     print("insert")
-                # except BaseException as e:
-                #     print(e)
-                #     # TODO query the item, if it's "Not Labeled", then insert new one
-                #     collection.replace_one({"_id": agent_dict['_id']}, agent_dict)
-                #     print('replace')
 
     def run(self):  # Run
         pred_df = self.load_pred_df()

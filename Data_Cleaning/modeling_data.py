@@ -349,7 +349,7 @@ class Modeling_Data:
         away_inputs = [(away_team, date) for away_team, date in zip(away_teams, dates)]
         away_stats = multithread(run_player_data, away_inputs)
 
-        for i, (home_stat, away_stat) in enumerate(zip(home_stats, away_stats)):
+        for home_stat, away_stat in zip(home_stats, away_stats):
             new_df.loc[len(new_df)] = home_stat + away_stat
 
         final_df = pd.concat([update_modeling_df, new_df], axis=1)
@@ -382,6 +382,7 @@ class Modeling_Data:
         full_df = self.get_no_update_modeling_df(modeling_df)  # no missing betting odds/targets
         update_home_away_dates = self.get_update_home_away_dates(modeling_df, days_since)  # had's of games that need to be updated
         update_game_dicts = self.get_update_game_dicts(update_home_away_dates, num_past_games, days_out)
+
         while len(update_game_dicts) > 0:
             games_per_iter = 2000
             current_ugds = update_game_dicts[:games_per_iter]
@@ -406,8 +407,8 @@ class Modeling_Data:
         for npg in [3, 5, 10, 15, 20, 25]:
             for ps in [True, False]:
                 print(f"{self.league}, {npg} past games, player stats: {ps}")
-                days_out = 10 if league != "NCAAF" else 50
-                self.run(npg, ps, days_since=90, days_out=days_out)
+                days_out = 10 if league != "NCAAF" else 50  # bowl season creates long gap between odds release and the game
+                self.run(npg, ps, days_since=14, days_out=days_out)
 
 
 if __name__ == '__main__':

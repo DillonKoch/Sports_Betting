@@ -22,7 +22,6 @@ from os.path import abspath, dirname
 import pandas as pd
 from bs4 import BeautifulSoup as soup
 from selenium import webdriver
-from selenium.webdriver.chrome.options import Options
 
 ROOT_PATH = dirname(dirname(abspath(__file__)))
 if ROOT_PATH not in sys.path:
@@ -54,10 +53,6 @@ class ESB_Odds:
         """
         fires up the selenium window to start scraping
         """
-        # options = Options()
-        # options.add_argument('--no-sandbox')
-        # options.add_argument('--disable-dev-shm-usage')
-        # options.headless = False
         self.driver = webdriver.Firefox(executable_path=ROOT_PATH + "/Data_Collection/geckodriver")
         time.sleep(1)
 

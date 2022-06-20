@@ -31,18 +31,22 @@ class Dynamic(Agent_Parent):
         self.agent_type = "Dynamic"
 
     def _dynamic_wager(self, confidence):  # Specific Helper dynamic_bet
+        """
+        make a bet somewhere between $5 to $15, depending on the confidence level
+        """
         min_amount = 5
-        # extra_confidence = (0.5 + abs(confidence - 0.5)) * 10
         extra_confidence = abs(confidence - 0.5) * 20
         return min_amount + extra_confidence
 
     def dynamic_bet(self, agent_df, pred):  # Top Level
+        """
+        make a dynamic bet and add it to the agent_df
+        """
         date = pred['Date']
         home = pred['Home']
         away = pred['Away']
         bet_type = pred['Bet_Type']
         bet = self._get_bet(home, away, bet_type, pred['Prediction'])
-        # confidence = 0.5 + abs(0.5 - pred['Prediction'])
         prediction = pred['Prediction']
         bet_val = pred['Bet_Value']
         bet_ml = pred['Bet_ML']

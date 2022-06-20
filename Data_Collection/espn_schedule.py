@@ -42,10 +42,6 @@ class ESPN_Schedule_Scraper:
         """
         fires up the selenium window to start scraping
         """
-        # options = Options()
-        # options.add_argument('--no-sandbox')
-        # options.add_argument('--disable-dev-shm-usage')
-        # options.headless = False
         self.driver = webdriver.Firefox(executable_path=ROOT_PATH + "/Data_Collection/geckodriver")
         time.sleep(1)
 
@@ -114,12 +110,6 @@ class ESPN_Schedule_Scraper:
         scrapes the HTML from the link
         """
         time.sleep(5)
-        # user_agent = 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.7) Gecko/2009021910 Firefox/3.0.7'
-        # headers = {'User-Agent': user_agent, }
-        # request = urllib.request.Request(link, None, headers)  # The assembled request
-        # response = urllib.request.urlopen(request)
-        # a = response.read().decode('utf-8', 'ignore')
-        # sp = soup(a, 'html.parser')
         self.driver.get(link)
         sp = self.get_soup_sp()
         return sp
