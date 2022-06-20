@@ -69,6 +69,7 @@ class Alt_Odds(Run_Models):
     def upcoming_games(self, df, scaler):  # Top Level
         df['Date'] = pd.to_datetime(df['Date'])
         yesterday = datetime.datetime.today() - datetime.timedelta(days=1)
+        yesterday = datetime.datetime(year=2022, month=4, day=15)
         df = df.loc[df['Date'] > yesterday]
         odds_cols = ['Home_Line_Close', 'Home_Line_Close_ML', 'OU_Close', 'OU_Close_ML', 'Home_ML', 'Away_ML']
         df = df.dropna(subset=odds_cols, axis=0)

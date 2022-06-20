@@ -106,6 +106,7 @@ class Run_Models:
         """
         df['Date'] = pd.to_datetime(df['Date'])
         yesterday = datetime.datetime.today() - datetime.timedelta(days=1)
+        yesterday = datetime.datetime(year=2022, month=4, day=15)
         df = df.loc[df['Date'] > yesterday]
         odds_cols = ['Home_Line_Close', 'Home_Line_Close_ML', 'OU_Close', 'OU_Close_ML', 'Home_ML', 'Away_ML']
         df = df.dropna(subset=odds_cols, axis=0)
@@ -166,6 +167,6 @@ class Run_Models:
 
 if __name__ == '__main__':
     league = "NBA"
-    bet_type = "Spread"
+    bet_type = "Total"
     x = Run_Models(league, bet_type)
     x.run()

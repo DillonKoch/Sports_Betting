@@ -37,15 +37,16 @@ class Frontend:
         """
         path = ROOT_PATH + f"/Data/Predictions/{self.league}/Predictions.csv"
         df = pd.read_csv(path)
+        df['Date'] = pd.to_datetime(df['Date'])
         return df
 
     def filter_recent_preds(self, df):  # Top Level
         """
         filtering the df down to just the most recent predictions (last 7 days)
         """
-        df['Date'] = pd.to_datetime(df['Date'])
-        last_week = datetime.datetime.today() - datetime.timedelta(days=7)
-        df = df.loc[df['Date'] > last_week]
+        # df['Date'] = pd.to_datetime(df['Date'])
+        # last_week = datetime.datetime.today() - datetime.timedelta(days=7)
+        # df = df.loc[df['Date'] > last_week]
         return df
 
     def _load_collection(self, collection_name):  # Specific Helper  upload_preds
@@ -129,6 +130,7 @@ class Frontend:
         self.upload_preds(recent_preds)
 
         alt_preds = pd.read_csv(ROOT_PATH + f"/Data/Predictions/{self.league}/Alt_Predictions.csv")
+        alt_preds['Date'] = pd.to_datetime(alt_preds['Date'])
         recent_alt_preds = self.filter_recent_preds(alt_preds)
         self.upload_preds(recent_alt_preds, "Alternate_Predictions")
         self.upload_agents()

@@ -161,25 +161,33 @@ class ESPN_Game_Scraper:
         """
         scrapes the team names and adds to new_row
         """
-        locations = sp.find_all('span', attrs={'class': 'long-name'})
-        away_loc = locations[0].get_text()
-        home_loc = locations[1].get_text()
+        # locations = sp.find_all('span', attrs={'class': 'long-name'})
+        # away_loc = locations[0].get_text()
+        # home_loc = locations[1].get_text()
 
-        team_names = sp.find_all('span', attrs={'class': 'short-name'})
-        away_name = team_names[0].get_text()
-        home_name = team_names[1].get_text()
+        # team_names = sp.find_all('span', attrs={'class': 'short-name'})
+        # away_name = team_names[0].get_text()
+        # home_name = team_names[1].get_text()
 
-        away_full = away_loc + ' ' + away_name
-        home_full = home_loc + ' ' + home_name
-        new_row.extend([home_full, away_full])
+        # away_full = away_loc + ' ' + away_name
+        # home_full = home_loc + ' ' + home_name
+        # new_row.extend([home_full, away_full])
+        # return new_row
+        teams = sp.find_all('a', attrs={'class': 'AnchorLink truncate'})
+        away = teams[0].get_text()
+        home = teams[1].get_text()
+        new_row.extend([home, away])
         return new_row
 
     def scrape_team_records(self, new_row, sp):  # Top Level
         """
         scrapes the home and away team records, adds to new_row
         """
-        records = sp.find_all('div', attrs={'class': 'record'})
-        away_record, home_record = [item.get_text() for item in records]
+        # records = sp.find_all('div', attrs={'class': 'record'})
+        # away_record, home_record = [item.get_text() for item in records]
+        records = sp.find_all('div', attrs={'class': 'Gamestrip__Record db n10 clr-gray-03'})
+        away_record = records[0].get_text()
+        home_record = records[1].get_text()
         new_row.extend([home_record, away_record])
         return new_row
 
@@ -211,16 +219,20 @@ class ESPN_Game_Scraper:
         """
         scrapes the first and second half of the game if it's NCAAB, else returns None
         """
-        table_sp = sp.find('table', attrs={'id': 'linescore'})
-        table_body = table_sp.find('tbody')
-        away_row, home_row = table_body.find_all('tr')
-        td_vals = home_row.find_all('td') if home else away_row.find_all('td')
-
         first_half = None
         second_half = None
-        if len(td_vals) in [4, 5]:
-            first_half = td_vals[1].get_text()
-            second_half = td_vals[2].get_text()
+
+        if self.league == 'NCAAB':
+            table_sp = sp.find('table', attrs={'id': 'linescore'})
+            table_body = table_sp.find('tbody')
+            away_row, home_row = table_body.find_all('tr')
+            td_vals = home_row.find_all('td') if home else away_row.find_all('td')
+
+            first_half = None
+            second_half = None
+            if len(td_vals) in [4, 5]:
+                first_half = td_vals[1].get_text()
+                second_half = td_vals[2].get_text()
 
         new_row.extend([first_half, second_half])
         return new_row
@@ -230,9 +242,13 @@ class ESPN_Game_Scraper:
         scrapes the quarter values and OT
         - quarters only if it's not NCAAB, but OT either way
         """
-        table_sp = sp.find('table', attrs={'id': 'linescore'})
-        table_body = table_sp.find('tbody')
-        away_row, home_row = table_body.find_all('tr')
+        # table_sp = sp.find('table', attrs={'id': 'linescore'})
+        # table_body = table_sp.find('tbody')
+        # away_row, home_row = table_body.find_all('tr')
+        top_banner = sp.find_all('div', attrs={'class': 'Gamestrip__Competitors relative flex'})
+        score_rows = top_banner[0].find_all('tr', attrs={'class': 'Table__TR Table__TR--sm Table__even'})
+        away_row, home_row = score_rows
+        # !
         td_vals = home_row.find_all('td') if home else away_row.find_all('td')
 
         q1, q2, q3, q4, ot = None, None, None, None, None
@@ -247,6 +263,7 @@ class ESPN_Game_Scraper:
 
         if len(td_vals) == 7:
             ot = td_vals[5].get_text()
+
         new_row.extend([q1, q2, q3, q4, ot])
         return new_row
 
@@ -254,11 +271,16 @@ class ESPN_Game_Scraper:
         """
         scrapes the game's final scores, adds to new_row
         """
-        away_score = sp.find_all('div', attrs={'class': 'score icon-font-after'})
-        away_score = away_score[0].get_text()
+        top_banner = sp.find_all('div', attrs={'class': 'Gamestrip__Competitors relative flex'})
+        scores = top_banner[0].find_all('div', attrs={'class': 'Gamestrip__Score relative tc w-100 fw-heavy h2 clr-gray-01'})
+        away_score = scores[0].get_text()
+        home_score = scores[1].get_text()
 
-        home_score = sp.find_all('div', attrs={'class': 'score icon-font-before'})
-        home_score = home_score[0].get_text()
+        # away_score = sp.find_all('div', attrs={'class': 'score icon-font-after'})
+        # away_score = away_score[0].get_text()
+
+        # home_score = sp.find_all('div', attrs={'class': 'score icon-font-before'})
+        # home_score = home_score[0].get_text()
 
         new_row.extend([home_score, away_score])
         return new_row
@@ -279,8 +301,10 @@ class ESPN_Game_Scraper:
         scrapes all the game stats for a game and adds them to the new_row
         """
         stat_cols = self.football_stats if self.football_league else self.basketball_stats
-        table_sp = sp.find('table', attrs={'class': 'mod-data'})
+        # table_sp = sp.find('table', attrs={'class': 'mod-data'})
+        table_sp = sp.find_all('table', attrs={'class': 'Table Table--align-right'})[1]
         table_body = table_sp.find('tbody')
+
         rows = table_body.find_all('tr')
         home_stat_dict = {stat: None for stat in stat_cols}
         away_stat_dict = {stat: None for stat in stat_cols}
@@ -351,7 +375,8 @@ class ESPN_Game_Scraper:
                 df.loc[i] = new_row
                 df = df.sort_values(by=['Date'])
                 df.to_csv(ROOT_PATH + f"/Data/ESPN/{self.league}/Games.csv", index=False)
-            except AttributeError:
+            except AttributeError as e:
+                print(e)
                 print("ATTRIBUTE ERROR")
 
 

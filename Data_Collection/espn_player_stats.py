@@ -326,13 +326,53 @@ class ESPN_Player_Stats:
             stat_dict['Date'] = date
         return stat_dicts
 
+    def _scrape_basketball(self, new_game_id, boxscore, date, team_name, home_away):  # Specific Helper scrape_stats
+        """
+        scraping basketball statistics from the box score, returning list of stat dicts for each player
+        """
+        tables = boxscore.find_all('div', attrs={'class': 'Boxscore flex flex-column'})
+        table = tables[1] if home_away == 'home' else tables[0]
+        players, rows = table.find_all('tbody', attrs={'class': 'Table__TBODY'})
+        stat_names = ["Minutes", 'FG', '3PT', 'FT', 'Offensive_Rebounds', 'Defensive_Rebounds',
+                      'Total_Rebounds', 'Assists', 'Steals', 'Blocks', 'Turnovers', 'Fouls',
+                      'Plus_Minus', 'Points']
+
+        stat_dicts = []
+        for player, row in zip(players, rows):
+            if player.get_text() in ['starters', 'bench', 'team', '']:
+                continue
+
+            stats = row.find_all('td', attrs={'class': 'Table__TD Table__TD'})
+            stat_dict = {column: None for column in self.columns}
+            # stat_dict = {stat_name: stats[i].get_text().replace('--', '') for i, stat_name in enumerate(stat_names)}
+            if 'DNP' not in row.get_text():
+                for i, stat_name in enumerate(stat_names):
+                    stat_dict[stat_name] = stats[i].get_text().replace('--', '')
+            stat_dict['Team'] = team_name
+            stat_dict['Game_ID'] = new_game_id
+            stat_dict['Date'] = date
+
+            link_sp = player.find('a', href=True)
+            if link_sp is None:
+                stat_dicts.append(stat_dict)
+                continue
+            player_link = link_sp['href']
+            stat_dict['Player'] = player_link.split('/')[-1]
+            stat_dict['Player_ID'] = player_link.split('/')[-2]
+            position = row.find_all('span', attrs={'class': 'position'})
+            stat_dict['Position'] = position[0].get_text() if len(position) > 0 else None
+
+            stat_dicts.append(stat_dict)
+        return stat_dicts
+
     def scrape_stats(self, stats_link, new_game_id, date, home_team, away_team):  # Top Level
         """
         given a link to a game's boxscore, this method scrapes all the player stats into
         a list of 'player_stats_dicts', which is a dict for each player's stats
         """
         sp = self._get_sp(stats_link)
-        boxscore = sp.find('div', attrs={"id": ["gamepackage-boxscore-module", "gamepackage-box-score"]})
+        # boxscore = sp.find('div', attrs={"id": ["gamepackage-boxscore-module", "gamepackage-box-score"]})
+        boxscore = sp.find('div', attrs={'class': 'Boxscore Boxscore__ResponsiveWrapper'})
         if boxscore.get_text().strip() == 'No Box Score Available':
             print("NO BOX SCORE, MOVING ON")
             return []
@@ -365,6 +405,7 @@ class ESPN_Player_Stats:
         stats_df = self.make_load_df()
         new_game_ids, dates, home_teams, away_teams = self.load_new_game_ids_date_home_away(stats_df)
         for i, (new_game_id, date, home_team, away_team) in enumerate(zip(new_game_ids, dates, home_teams, away_teams)):
+            print(i)
             try:
                 print(f"{i}/{len(new_game_ids)}")
                 stats_link = self.get_stats_link(new_game_id)
