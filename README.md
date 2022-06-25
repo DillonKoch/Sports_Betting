@@ -1,6 +1,7 @@
 # Sports Betting
 This project uses machine learning to predict the outcome of common bets (Spread, Moneyline, Total) in four sports leagues (NFL, NBA, College Football, College Basketball).
-See the latest predictions [here](https://personal-website-app-gfrfw.mongodbstitch.com/sports-betting/).
+
+# See the latest predictions [here](https://personal-website-app-gfrfw.mongodbstitch.com/sports-betting/).
 
 <p align="center">
   <img src="Misc/PAM.png" width=500 />
@@ -141,4 +142,12 @@ This site is a simple [React](https://reactjs.org/) app that uses [MongoDB](http
 
 <p align="center">
   <img src="Misc/react_table.png" width=1200 />
+</p>
+
+It also shows how well the agents and alternate bets perform on different tabs.
+
+For example, here's the dynamic agent's page:
+
+<p align="center">
+  <img src="Misc/dynamic.png" width=1200 />
 </p>

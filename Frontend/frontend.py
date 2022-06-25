@@ -45,7 +45,7 @@ class Frontend:
         filtering the df down to just the most recent predictions (last 7 days)
         """
         df['Date'] = pd.to_datetime(df['Date'])
-        last_week = datetime.datetime.today() - datetime.timedelta(days=7)
+        last_week = datetime.datetime.today() - datetime.timedelta(days=700)
         df = df.loc[df['Date'] > last_week]
         return df
 

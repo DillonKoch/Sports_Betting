@@ -180,6 +180,6 @@ class Run_Models:
 
 if __name__ == '__main__':
     league = "NBA"
-    bet_type = "Total"
+    bet_type = "Spread"
     x = Run_Models(league, bet_type)
     x.run()

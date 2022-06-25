@@ -152,7 +152,7 @@ class Alt_Odds(Run_Models):
 
 if __name__ == '__main__':
     league = "NBA"
-    bet_type = "Total"
+    bet_type = "Spread"
     x = Alt_Odds(league, bet_type)
     self = x
     x.run()
