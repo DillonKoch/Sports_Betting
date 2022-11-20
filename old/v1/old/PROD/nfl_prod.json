@@ -1,0 +1,198 @@
+{
+    "ESB_cols": [
+        "esb_Home_ML",
+        "esb_Away_ML",
+        "esb_Open_Home_Line",
+        "esb_Open_Away_Line",
+        "esb_Close_Home_Line",
+        "esb_Close_Away_Line",
+        "esb_Open_OU",
+        "esb_Close_OU"
+    ],
+    "ESPN_cols": [
+        "ESPN_ID",
+        "Season",
+        "Date",
+        "Home",
+        "Away",
+        "Home_Record",
+        "Away_Record",
+        "Home_Score",
+        "Away_Score",
+        "Line",
+        "Over_Under",
+        "Final_Status",
+        "Network",
+        "HQ1",
+        "HQ2",
+        "HQ3",
+        "HQ4",
+        "HOT",
+        "AQ1",
+        "AQ2",
+        "AQ3",
+        "AQ4",
+        "AOT",
+        "Week",
+        "League",
+        "home_first_downs",
+        "home_total_yards",
+        "home_passing_yards",
+        "home_rushing_yards",
+        "home_penalties",
+        "home_turnovers",
+        "home_possession",
+        "home_third_down_eff",
+        "home_fourth_down_eff",
+        "home_completions_attempts",
+        "home_yards_per_pass",
+        "home_interceptions_thrown",
+        "home_rushing_attempts",
+        "home_yards_per_rush",
+        "home_fumbles_lost",
+        "home_total_plays",
+        "home_total_drives",
+        "home_yards_per_play",
+        "home_redzone_made_att",
+        "home_dst_touchdowns",
+        "home_passing_first_downs",
+        "home_rushing_first_downs",
+        "home_first_downs_from_penalties",
+        "home_sacks_yards_lost",
+        "away_first_downs",
+        "away_total_yards",
+        "away_passing_yards",
+        "away_rushing_yards",
+        "away_penalties",
+        "away_turnovers",
+        "away_possession",
+        "away_third_down_eff",
+        "away_fourth_down_eff",
+        "away_completions_attempts",
+        "away_yards_per_pass",
+        "away_interceptions_thrown",
+        "away_rushing_attempts",
+        "away_yards_per_rush",
+        "away_fumbles_lost",
+        "away_total_plays",
+        "away_total_drives",
+        "away_yards_per_play",
+        "away_redzone_made_att",
+        "away_dst_touchdowns",
+        "away_passing_first_downs",
+        "away_rushing_first_downs",
+        "away_first_downs_from_penalties",
+        "away_sacks_yards_lost",
+        "datetime"
+    ],
+    "season_start_dates": {
+        "2007": [
+            2007,
+            9,
+            6
+        ],
+        "2008": [
+            2008,
+            9,
+            4
+        ],
+        "2009": [
+            2009,
+            9,
+            10
+        ],
+        "2010": [
+            2010,
+            9,
+            9
+        ],
+        "2011": [
+            2011,
+            9,
+            8
+        ],
+        "2012": [
+            2012,
+            9,
+            5
+        ],
+        "2013": [
+            2013,
+            9,
+            5
+        ],
+        "2014": [
+            2014,
+            9,
+            4
+        ],
+        "2015": [
+            2015,
+            9,
+            10
+        ],
+        "2016": [
+            2016,
+            9,
+            8
+        ],
+        "2017": [
+            2017,
+            9,
+            7
+        ],
+        "2018": [
+            2018,
+            9,
+            6
+        ],
+        "2019": [
+            2019,
+            9,
+            5
+        ],
+        "2020": [
+            2020,
+            9,
+            10
+        ]
+    },
+    "team_name_conversion_dict": {
+        "Arizona": "Arizona Cardinals",
+        "Atlanta": "Atlanta Falcons",
+        "Baltimore": "Baltimore Ravens",
+        "Buffalo": "Buffalo Bills",
+        "Carolina": "Carolina Panthers",
+        "Chicago": "Chicago Bears",
+        "Cincinnati": "Cincinnati Bengals",
+        "Cleveland": "Cleveland Browns",
+        "Dallas": "Dallas Cowboys",
+        "Denver": "Denver Broncos",
+        "Detroit": "Detroit Lions",
+        "GreenBay": "Green Bay Packers",
+        "Houston": "Houston Texans",
+        "HoustonTexans": "Houston Texans",
+        "Indianapolis": "Indianapolis Colts",
+        "Jacksonville": "Jacksonville Jaguars",
+        "KansasCity": "Kansas City Chiefs",
+        "LAChargers": "Los Angeles Chargers",
+        "LARams": "Los Angeles Rams",
+        "LosAngeles": "Los Angeles Rams",
+        "Miami": "Miami Dolphins",
+        "Minnesota": "Minnesota Vikings",
+        "NewEngland": "New England Patriots",
+        "NewOrleans": "New Orleans Saints",
+        "NYGiants": "New York Giants",
+        "NYJets": "New York Jets",
+        "Oakland": "Oakland Raiders",
+        "Philadelphia": "Philadelphia Eagles",
+        "Pittsburgh": "Pittsburgh Steelers",
+        "SanDiego": "San Diego Chargers",
+        "SanFrancisco": "San Francisco 49ers",
+        "Seattle": "Seattle Seahawks",
+        "St.Louis": "St. Louis Rams",
+        "TampaBay": "Tampa Bay Buccaneers",
+        "Tennessee": "Tennessee Titans",
+        "Washington": "Washington Redskins"
+    }
+}
