@@ -26,7 +26,10 @@ class Match_Team:
     def __init__(self):
         pass
 
-    def load_teams_dict(self, league):
+    def load_teams_dict(self, league):  # Top Level
+        """
+        loading dict with team names from /Data/Teams
+        """
         path = ROOT_PATH + f"/Data/Teams/{league}.json"
         with open(path, 'r') as f:
             d = json.load(f)
@@ -37,7 +40,7 @@ class Match_Team:
         attempting to return the "True" name of a given input_team str, if it's documented
         """
         teams_dict = self.load_teams_dict(league)
-        true_teams = teams_dict.keys()
+        true_teams = teams_dict['Teams'].keys()
 
         # * if it's already the true name, return
         if input_team in true_teams:
@@ -45,7 +48,7 @@ class Match_Team:
 
         # * if the input_team is an alternate name, return the correct true name
         for true_team in true_teams:
-            alt_names = teams_dict[true_team]
+            alt_names = teams_dict['Teams'][true_team]
             if input_team in alt_names:
                 return true_team
 
