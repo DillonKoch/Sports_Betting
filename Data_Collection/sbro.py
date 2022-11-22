@@ -72,6 +72,8 @@ class SBRO_Scraper:
         """
         filename = url.split('/')[-1].replace(' ', '_')
         full_path = ROOT_PATH + f"/Data/Odds/{league}/{filename}"
+        if os.path.exists(full_path):
+            os.remove(full_path)
         wget.download(url, out=full_path)
 
     def run_one(self, league, current_only):  # Top Level

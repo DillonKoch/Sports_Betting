@@ -61,7 +61,8 @@ class Setup_DB:
                 Away_Line_Open {dbl}, Away_Line_Open_ML {i}, Home_Line_Close {dbl},
                 Home_Line_Close_ML {i}, Away_Line_Close {dbl}, Away_Line_Close_ML {i},
                 Home_Line_2H {dbl}, Home_Line_2H_ML {i}, Away_Line_2H {dbl}, Away_Line_2H_ML {i},
-                Home_ML {i}, Away_ML {i});"""
+                Home_ML {i}, Away_ML {i},
+                PRIMARY KEY (Date, Home, Away));"""
         self.cursor.execute(sql)
 
     def create_covers(self):  # Top Level
