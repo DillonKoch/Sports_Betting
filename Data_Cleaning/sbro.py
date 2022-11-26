@@ -13,11 +13,12 @@
 # ==============================================================================
 
 
-import warnings
+import datetime
 import os
 import re
 import string
 import sys
+import warnings
 from os.path import abspath, dirname
 
 import numpy as np
@@ -29,8 +30,10 @@ if ROOT_PATH not in sys.path:
     sys.path.append(ROOT_PATH)
 
 
-from Data_Cleaning.match_team import Match_Team
+from Data.db_login import db_cursor
+
 from Data_Cleaning.dataset_validator import Dataset_Validator
+from Data_Cleaning.match_team import Match_Team
 
 
 def listdir_fullpath(d):
@@ -44,6 +47,7 @@ class SBRO:
         self.match_team = Match_Team(league)
         self.dataset_validator = Dataset_Validator()
         self.valid_teams = self.match_team.list_valid_teams()
+        self.db, self.cursor = db_cursor()
 
         self.df_cols = ['Season', 'Date', 'Home', 'Away', 'Is_Neutral',
                         'OU_Open', 'OU_Open_ML', 'OU_Close', 'OU_Close_ML', 'OU_2H', 'OU_2H_ML',
@@ -69,12 +73,18 @@ class SBRO:
             # * manual correction - date was "7" for 2011-12 NCAAB Kentucky game row 7501
             if date == 7 and df['Rot'][i] == 874 and df['Team'][i] == 'Kentucky':
                 df['Date'][i] = 323
-                date = 323
 
             # * manual correctino - date was "1192" for 2012-13 NCAAF WashingtonU game row 1112
             if date == 1192 and df['Rot'][i] == 309 and df['Team'][i] == 'WashingtonU':
                 df['Date'][i] = 1102
-                date = 1102
+
+            # * manual correction - date was "130" for 2010-11 NBA Clippers game row 1397
+            if date == 130 and df['Rot'][i] == 516 and df['Team'][i] == 'LAClippers':
+                df['Date'][i] = 129
+
+            # * manual correction - date was "1125" for 2018-19 NCAAB Depaul game row 1397
+            if date == 1125 and df['Rot'][i] == 715 and df['Team'][i] == 'Depaul':
+                df['Date'][i] = 1124
 
         return df
 
@@ -220,7 +230,7 @@ class SBRO:
         self._quarter_half_final_qa(df)
         self._odds_qa(df)
 
-    def _odds_path_to_season(self, odds_path):  # Specific Helper  odds_df_to_one_row
+    def _odds_path_to_season(self, odds_path):  # Specific Helper  _odds_df_to_one_row
         """
         finds the season string inside the odds df path (like 2020-21)
         """
@@ -228,13 +238,135 @@ class SBRO:
         season = re.findall(re.compile(r"\d{4}-\d{2}"), filename)[0]
         return season
 
-    def _odds_df_to_row_pairs(self, odds_df):  # Specific Helper  odds_df_to_one_row
+    def _odds_df_to_row_pairs(self, odds_df):  # Specific Helper  _odds_df_to_one_row
         """
         converts the odds dataframe into a list of row pairs, since each game has 2 rows in the df
         """
         row_lists = odds_df.values.tolist()
         row_pairs = [(row_lists[i], row_lists[i + 1]) for i in range(0, len(row_lists), 2)]
         return row_pairs
+
+    def _check_game_in_january(self, row_pair):  # Specific Helper _odds_df_to_one_row
+        """
+        returns True if the game is in January, else False
+        - used to change the year over in the date (change as soon as we see January)
+        """
+        row1, _ = row_pair
+        date1 = str(row1[0])
+        return True if (len(date1) == 3) and (date1[0] == '1') else False
+
+    def _home_away_row(self, row_pair):  # Global Helper
+        """
+        given a row pair, this method identifies the home and away row specifically
+        """
+        row1, row2 = row_pair
+        row1_vh = row1[2]
+        row2_vh = row2[2]
+        # assert [row1_vh, row2_vh] in [['V', 'H'], ['H', 'V'], ['N', 'N']]
+        row1_home = not row2_vh == 'H'
+        home_row = row1 if row1_home else row2
+        away_row = row2 if row1_home else row1
+        return home_row, away_row
+
+    def _date(self, row_pair, season, seen_january):  # Helping Helper row_pair_to_df
+        """
+        uses the row_pair to create a datetime object of the game date
+        """
+        row1, row2 = row_pair
+        date1 = str(row1[0])
+        date2 = str(row2[0])
+        assert date1 == date2, f"Dates {date1} and {date2} are not equal"
+
+        year = int(season[:4]) + 1 if seen_january else int(season[:4])
+        month = date1[:2] if len(date1) == 4 else date1[0]
+        day = date1[-2:]
+        dt_ob = datetime.datetime(year, int(month), int(day))
+        return dt_ob.strftime("%Y-%m-%d")
+
+    def _home_away_neutral(self, row_pair):  # Helping Helper _row_pair_to_df
+        """
+        returns the home/away official name from the row pair, and whether the game is at a neutral location
+        """
+        home_row, away_row = self._home_away_row(row_pair)
+        home = self.match_team.run(home_row[3])
+        away = self.match_team.run(away_row[3])
+        is_neutral = 1 if home_row[2] == 'N' else 0
+        return home, away, is_neutral
+
+    def _bet_val_to_val_ml(self, bet_val):  # Helping Helper _open_close_2h_bets
+        """
+        converts the bet_val from the odds df into either the val, None or the val, ML
+        - ML only shows up when the bet_val is in format 7-105
+        """
+        bet_val = bet_val.replace('½', '.5') if isinstance(bet_val, str) else bet_val
+        bet_val = abs(bet_val) if isinstance(bet_val, (int, float)) else bet_val
+        try:
+            bet_val = str(bet_val).lower().replace('pk', '0')
+            if '-' in bet_val:
+                val, ml_val = bet_val.split('-')
+                ml_val = -float(ml_val)
+            else:
+                val = bet_val
+                ml_val = -110
+            return float(val), float(ml_val)
+        except Exception as e:
+            print(e)
+            print(bet_val)
+
+    def _open_close_2h_bets(self, row_pair, col_index):  # Helping Helper _row_pair_to_df
+        """
+        given a row pair and col index, this method returns the O/U, lines for open/close/2h
+        """
+        # * returning None's if the line is "NL"
+        home_row, away_row = self._home_away_row(row_pair)
+        if 'nl' in [str(home_row[col_index]).lower(), str(away_row[col_index]).lower()]:
+            return None, None, None, None, None, None
+
+        # * extracting home/away values and ML values, determining if home is over/under or not
+        home_val, home_ml_val = self._bet_val_to_val_ml(home_row[col_index])
+        away_val, away_ml_val = self._bet_val_to_val_ml(away_row[col_index])
+        home_is_ou = home_val > away_val
+
+        # * setting O/U, home/away lines based on data from rows
+        ou = home_val if home_is_ou else away_val
+        ou_ml = home_ml_val if home_is_ou else away_ml_val
+        hline = away_val if home_is_ou else (-1 * home_val)
+        hline_ml = (-220 - away_ml_val) if home_is_ou else home_ml_val
+        aline = (-1 * away_val) if home_is_ou else home_val
+        aline_ml = away_ml_val if home_is_ou else (-220 - home_ml_val)
+        return ou, ou_ml, hline, hline_ml, aline, aline_ml
+
+    def _ml_bets(self, row_pair):  # Helping Helper _row_pair_to_df
+        """
+        finding the ML bets in the row_pair
+        """
+        home_row, away_row = self._home_away_row(row_pair)
+        if 'nl' in [str(home_row[-2]).lower(), str(away_row[-2]).lower()]:
+            return None, None
+        home_ml = float(str(home_row[-2]).lower().replace('pk', '0').replace('½', '.5'))
+        away_ml = float(str(away_row[-2]).lower().replace('pk', '0').replace('½', '.5'))
+        return home_ml, away_ml
+
+    def _row_pair_to_df(self, row_pair, df, season, seen_january):  # Specific Helper odds_df_to_one_row
+        """
+        adding data from the row pair (one game) to the df
+        """
+        # date, rot, vh, team, 1st, 2nd, 3rd, 4th, final, open, close, ml, 2h
+        date = self._date(row_pair, season, seen_january)
+        home, away, is_neutral = self._home_away_neutral(row_pair)
+        ou_open, ou_open_ml, hline_open, hline_open_ml, aline_open, aline_open_ml = self._open_close_2h_bets(row_pair, -4)
+        ou_close, ou_close_ml, hline_close, hline_close_ml, aline_close, aline_close_ml = self._open_close_2h_bets(row_pair, -3)
+        ou_2h, ou_2h_ml, hline_2h, hline_2h_ml, aline_2h, aline_2h_ml = self._open_close_2h_bets(row_pair, -1)
+        home_ml, away_ml = self._ml_bets(row_pair)
+        new_row = [season, date, home, away, is_neutral,
+                   ou_open, ou_open_ml, ou_close, ou_close_ml, ou_2h, ou_2h_ml,
+                   hline_open, hline_open_ml, aline_open, aline_open_ml,
+                   hline_close, hline_close_ml, aline_close, aline_close_ml,
+                   hline_2h, hline_2h_ml, aline_2h, aline_2h_ml,
+                   home_ml, away_ml]
+        new_row = [round(item, 1) if isinstance(item, float) else item for item in new_row]  # 1 decimal for SQL
+        df.loc[len(df)] = new_row
+        return df
 
     def odds_df_to_one_row(self, path, df):  # Top Level
         """
@@ -249,8 +381,24 @@ class SBRO:
             seen_january = True if seen_january else self._check_game_in_january(row_pair)
             clean_df = self._row_pair_to_df(row_pair, clean_df, season, seen_january)
 
-    def df_to_db(self, df):  # Top Level
+        return clean_df
+
+    def df_quality_assurance(self, df):  # QA Testing
         pass
+
+    def df_to_db(self, df):  # Top Level
+        """
+        inserting cleaned values from the df to the MySQL database
+        """
+        self.cursor.execute("USE sports_betting;")
+        for i, row in df.iterrows():
+            col_names = "(" + ', '.join(row.keys()) + ")"
+            val_list = [f'"{i}"' if isinstance(i, str) or (i is not None and not np.isnan(i))
+                        else "NULL" for i in row.values]
+            vals = "(" + ', '.join(val_list) + ")"
+            sql = f"INSERT IGNORE INTO SBRO_{self.league} {col_names} VALUES {vals};"
+            self.cursor.execute(sql)
+        self.db.commit()
 
     def run(self):  # Run
         xlsx_paths = self.load_xlsx_paths()
@@ -258,12 +406,13 @@ class SBRO:
         for i, odds_df in enumerate(odds_dfs):
             odds_df = self.clean_odds_df(odds_df)
             self.odds_df_quality_assurance(odds_df)
-            # df = self.odds_df_to_one_row(xlsx_path, odds_df)
-            # self.df_to_db(df)
-            odds_dfs[i] = odds_df
+            df = self.odds_df_to_one_row(xlsx_paths[i], odds_df)
+            self.df_quality_assurance(df)
+            self.df_to_db(df)
+            # odds_dfs[i] = odds_df
 
-        full_df = pd.concat(odds_dfs)
-        self.dataset_validator.dataset_info(full_df)
+        # full_df = pd.concat(odds_dfs)
+        # self.dataset_validator.dataset_info(full_df)
 
 
 if __name__ == '__main__':

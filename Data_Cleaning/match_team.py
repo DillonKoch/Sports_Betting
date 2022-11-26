@@ -17,6 +17,8 @@ import json
 import sys
 from os.path import abspath, dirname
 
+import numpy as np
+
 ROOT_PATH = dirname(dirname(abspath(__file__)))
 if ROOT_PATH not in sys.path:
     sys.path.append(ROOT_PATH)
@@ -50,7 +52,6 @@ class Match_Team:
         """
         attempting to return the "True" name of a given input_team str, if it's documented
         """
-        # teams_dict = self.load_teams_dict(league)
         true_teams = self.teams_dict['Teams'].keys()
 
         # * if it's already the true name, return
@@ -67,7 +68,8 @@ class Match_Team:
         if input_team in self.teams_dict["Other"]:
             return "Other"
 
-        raise ValueError(f"Input team name {input_team} not found in league {self.league}!")
+        print(f"Input team name {input_team} not found in league {self.league}!")
+        return np.nan
 
 
 if __name__ == '__main__':
