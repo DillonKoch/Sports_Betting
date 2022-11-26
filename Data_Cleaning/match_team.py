@@ -23,24 +23,35 @@ if ROOT_PATH not in sys.path:
 
 
 class Match_Team:
-    def __init__(self):
-        pass
+    def __init__(self, league):
+        self.league = league
+        self.teams_dict = self.load_teams_dict()
+        self.valid_teams = self.list_valid_teams()
 
-    def load_teams_dict(self, league):  # Top Level
+    def load_teams_dict(self):  # Top Level  __init__
         """
         loading dict with team names from /Data/Teams
         """
-        path = ROOT_PATH + f"/Data/Teams/{league}.json"
+        path = ROOT_PATH + f"/Data/Teams/{self.league}.json"
         with open(path, 'r') as f:
             d = json.load(f)
         return d
 
-    def run(self, league, input_team):  # Run
+    def list_valid_teams(self):  # Top Level  __init__
+        """
+        listing out all the valid teams (true and alt) for other programs
+        """
+        true = list(self.teams_dict["Teams"].keys())
+        alt = [subitem for item in self.teams_dict["Teams"].values() for subitem in item]
+        other = self.teams_dict["Other"]
+        return set(true + alt + other)
+
+    def run(self, input_team):  # Run
         """
         attempting to return the "True" name of a given input_team str, if it's documented
         """
-        teams_dict = self.load_teams_dict(league)
-        true_teams = teams_dict['Teams'].keys()
+        # teams_dict = self.load_teams_dict(league)
+        true_teams = self.teams_dict['Teams'].keys()
 
         # * if it's already the true name, return
         if input_team in true_teams:
@@ -48,15 +59,15 @@ class Match_Team:
 
         # * if the input_team is an alternate name, return the correct true name
         for true_team in true_teams:
-            alt_names = teams_dict['Teams'][true_team]
+            alt_names = self.teams_dict['Teams'][true_team]
             if input_team in alt_names:
                 return true_team
 
         # * if the team name is not a true team (like UNI or somthing) return "Other"
-        if input_team in teams_dict["Other"]:
+        if input_team in self.teams_dict["Other"]:
             return "Other"
 
-        raise ValueError(f"Input team name {input_team} not found in league {league}!")
+        raise ValueError(f"Input team name {input_team} not found in league {self.league}!")
 
 
 if __name__ == '__main__':

@@ -47,6 +47,7 @@ class Setup_DB:
 
     def create_sbro(self, tables, league):  # Top Level
         """
+        building Sportsbook Reviews Online table in database
         """
         if f"SBRO_{league}" in tables:
             return None
@@ -65,11 +66,72 @@ class Setup_DB:
                 PRIMARY KEY (Date, Home, Away));"""
         self.cursor.execute(sql)
 
-    def create_covers(self):  # Top Level
-        pass
+    def create_covers(self, tables, league):  # Top Level
+        """
+        building Covers Injury table in database
+        """
+        if f"Covers_{league}" in tables:
+            return None
 
-    def create_espn_games(self):  # Top Level
-        pass
+        print("Creating Covers Table...")
+        vc = "VARCHAR(255)"
+        i = "INT"
+        sql = f"""CREATE TABLE Covers_{league} (Player_ID {i}, Status_Date DATE, Team {vc}, Player {vc},
+                  Position {vc}, Status {vc}, Description {vc}, scraped_ts DATE,
+                  PRIMARY KEY (Player_ID, Status_Date));"""
+        self.cursor.execute(sql)
+
+    def create_esb(self, tables, league):  # Top Level
+        """
+        building Elite Sportsbook Game Lines table in database
+        """
+        if f"ESB_{league}" in tables:
+            return None
+
+        print("Creating Elite Sportsbook Table...")
+        vc = "VARCHAR(255)"
+        i = "INT"
+        dbl = "DOUBLE"
+        sql = f"""CREATE TABLE ESB_{league} (Date DATE, Home {vc}, Away {vc},
+                  Over_Odds {dbl}, Over_ML {i}, Under_Odds {dbl}, Under_ML {i}, Home_Spread {dbl},
+                  Home_Spread_ML {i}, Away_Spread {dbl}, Away_Spread_ML {dbl}, Home_ML {i},
+                  Away_ML {i}, scraped_ts DATE,
+                  PRIMARY KEY (Date, Home, Away));"""
+        self.cursor.execute(sql)
+
+    def create_espn_games(self, tables, league):  # Top Level
+        if f"ESPN_Games_{league}" in tables:
+            return None
+
+        print("Creating ESPN Games Table...")
+        vc = "VARCHAR(255)"
+        i = "INT"
+        dbl = "DOUBLE"
+        football_sql = f"""CREATE TABLE ESPN_Games_{league} (Game_ID {i}, Season {vc}, Week {vc},
+                  Date DATE, Home {vc}, Away {vc}, Home_Record {vc}, Away_Record {vc},
+                  Network {vc}, Final_Status {vc}, H1H {i}, H2H {i}, H1Q {i}, H2Q {i},
+                  H3Q {i}, H4Q {i}, HOT {i}, A1H {i}, A2H {i}, A1Q {i}, A2Q {i}, A3Q {i},
+                  A4Q {i}, AOT {i}, Home_Final {i}, Away_Final {i}, Home_1st_Downs {i},
+                  Away_1st_Downs {i}, Home_Passing_1st_Downs {i}, Away_Passing_1st_Downs {i},
+                  Home_Rushing_1st_Downs {i}, Away_Rushing_1st_Downs {i},
+                  Home_1st_Downs_From_Penalties {i}, Away_1st_Downs_From_Penalties {i},
+                  Home_3rd_Down_Efficiency {dbl}, Away_3rd_Down_Efficiency {dbl},
+                  Home_4th_Down_Efficiency {dbl}, Away_4th_Down_Efficiency {dbl},
+                  Home_Total_Plays {i}, Away_Total_Plays {i}, Home_Total_Yards {i},
+                  Away_Total_Yards {i}, Home_Total_Drives {i}, Away_Total_Drives {i},
+                  Home_Yards_Per_Play {dbl}, Away_Yards_Per_Play {dbl}, Home_Passing {i},
+                  Away_Passing {i}, Home_Comp_Att {vc}, Away_Comp_Att {vc},
+                  Home_Yards_Per_Pass {dbl}, Away_Yards_Per_Pass {dbl},
+                  Home_Interceptions_Thrown {i}, Away_Interceptions_Thrown {i},
+                  Home_Sacks_Yards_Lost {vc}, Away_Sacks_Yards_Lost {vc},
+                  Home_Rushing {i}, Away_Rushing {i}, Home_Rushing_Attempts {i},
+                  Away_Rushing_Attempts {i}, Home_Yards_Per_Rush {dbl},
+                  Away_Yards_Per_Rush {dbl}, Home_Red_Zone_Made_Att {vc},
+                  Away_Red_Zone_Made_Att {vc}, Home_Penalties {vc}, Away_Penalties {vc},
+                  Home_Turnovers {i}, Away_Turnovers {i}, Home_Fumbles_Lost {i},
+                  Away_Fumbles_Lost {i}, Home_Defensive_Special_Teams_TDs {i},
+                  Away_Defensive_Special_Teams_TDs {i}, Home_Possession {vc}, Away_Possession {vc},
+                  PRIMARY KEY (Date, Home, Away));"""
 
     def run(self):  # Run
         # * check if sports_betting database exists
@@ -87,6 +149,8 @@ class Setup_DB:
 
         for league in self.leagues:
             self.create_sbro(tables, league)
+            self.create_covers(tables, league)
+            self.create_esb(tables, league)
             # TODO more tables
 
 
