@@ -115,8 +115,8 @@ class Setup_DB:
                   Away_1st_Downs {i}, Home_Passing_1st_Downs {i}, Away_Passing_1st_Downs {i},
                   Home_Rushing_1st_Downs {i}, Away_Rushing_1st_Downs {i},
                   Home_1st_Downs_From_Penalties {i}, Away_1st_Downs_From_Penalties {i},
-                  Home_3rd_Down_Efficiency {dbl}, Away_3rd_Down_Efficiency {dbl},
-                  Home_4th_Down_Efficiency {dbl}, Away_4th_Down_Efficiency {dbl},
+                  Home_3rd_Down_Efficiency {vc}, Away_3rd_Down_Efficiency {vc},
+                  Home_4th_Down_Efficiency {vc}, Away_4th_Down_Efficiency {vc},
                   Home_Total_Plays {i}, Away_Total_Plays {i}, Home_Total_Yards {i},
                   Away_Total_Yards {i}, Home_Total_Drives {i}, Away_Total_Drives {i},
                   Home_Yards_Per_Play {dbl}, Away_Yards_Per_Play {dbl}, Home_Passing {i},
@@ -132,6 +132,29 @@ class Setup_DB:
                   Away_Fumbles_Lost {i}, Home_Defensive_Special_Teams_TDs {i},
                   Away_Defensive_Special_Teams_TDs {i}, Home_Possession {vc}, Away_Possession {vc},
                   PRIMARY KEY (Date, Home, Away));"""
+
+        basketball_sql = f"""CREATE TABLE ESPN_Games_{league} (Game_ID {i}, Season {vc}, Week {vc},
+                  Date DATE, Home {vc}, Away {vc}, Home_Record {vc}, Away_Record {vc},
+                  Network {vc}, Final_Status {vc}, H1H {i}, H2H {i}, H1Q {i}, H2Q {i},
+                  H3Q {i}, H4Q {i}, HOT {i}, A1H {i}, A2H {i}, A1Q {i}, A2Q {i}, A3Q {i},
+                  A4Q {i}, AOT {i}, Home_Final {i}, Away_Final {i}, Home_FG {vc}, Away_FG {vc},
+                  Home_Field_Goal_Pct {dbl}, Away_Field_Goal_Pct {dbl}, Home_3PT {vc}, Away_3PT {vc},
+                  Home_Three_Point_Pct {dbl}, Away_Three_Point_Pct {dbl}, Home_FT {vc}, Away_FT {vc},
+                  Home_Free_Throw_Pct {dbl}, Away_Free_Throw_Pct {dbl}, Home_Rebounds {i},
+                  Away_Rebounds {i}, Home_Offensive_Rebounds {i}, Away_Offensive_Rebounds {i},
+                  Home_Defensive_Rebounds {i}, Away_Defensive_Rebounds {i}, Home_Assists {i},
+                  Away_Assists {i}, Home_Steals {i}, Away_Steals {i}, Home_Blocks {i}, Away_Blocks {i},
+                  Home_Total_Turnovers {i}, Away_Total_Turnovers {i}, Home_Points_Off_Turnovers {i},
+                  Away_Points_Off_Turnovers {i}, Home_Fast_Break_Points {i}, Away_Fast_Break_Points {i},
+                  Home_Points_In_Paint {i}, Away_Points_In_Paint {i}, Home_Fouls {i}, Away_Fouls {i},
+                  Home_Technical_Fouls {i}, Away_Technical_Fouls {i}, Home_Flagrant_Fouls {i},
+                  Away_Flagrant_Fouls {i}, Home_Largest_Lead {i}, Away_Largest_Lead {i},
+                  PRIMARY KEY (Date, Home, Away));"""
+
+        if league in ['NFL', 'NCAAF']:
+            self.cursor.execute(football_sql)
+        else:
+            self.cursor.execute(basketball_sql)
 
     def run(self):  # Run
         # * check if sports_betting database exists
@@ -151,6 +174,7 @@ class Setup_DB:
             self.create_sbro(tables, league)
             self.create_covers(tables, league)
             self.create_esb(tables, league)
+            self.create_espn_games(tables, league)
             # TODO more tables
 
 

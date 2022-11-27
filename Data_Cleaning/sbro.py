@@ -46,7 +46,7 @@ class SBRO:
         self.league = league
         self.match_team = Match_Team(league)
         self.dataset_validator = Dataset_Validator()
-        self.valid_teams = self.match_team.list_valid_teams()
+        self.valid_teams = self.match_team.valid_teams
         self.db, self.cursor = db_cursor()
 
         self.df_cols = ['Season', 'Date', 'Home', 'Away', 'Is_Neutral',

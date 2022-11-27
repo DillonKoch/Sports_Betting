@@ -1,130 +1,226 @@
 {
     "Teams": {
-        "Buffalo Bills": [
-            "BuffaloBills",
-            "Buffalo"
-        ],
-        "Miami Dolphins": [
-            "Miami"
-        ],
-        "New England Patriots": [
-            "New England",
-            "NewEngland"
-        ],
-        "New York Jets": [
-            "NYJets",
-            "NY Jets"
-        ],
-        "Baltimore Ravens": [
-            "Baltimore"
-        ],
-        "Cincinnati Bengals": [
-            "Cincinnati"
-        ],
-        "Cleveland Browns": [
-            "Cleveland"
-        ],
-        "Pittsburgh Steelers": [
-            "Pittsburgh"
-        ],
-        "Houston Texans": [
-            "Houston",
-            "HoustonTexans"
-        ],
-        "Indianapolis Colts": [
-            "Indianapolis"
-        ],
-        "Jacksonville Jaguars": [
-            "Jacksonville"
-        ],
-        "Tennessee Titans": [
-            "Tennessee"
-        ],
-        "Denver Broncos": [
-            "Denver"
-        ],
-        "Kansas City Chiefs": [
-            "Kansas",
-            "Kansas City",
-            "KCChiefs",
-            "KansasCity"
-        ],
-        "Las Vegas Raiders": [
-            "LasVegas",
-            "Oakland Raiders",
-            "Oakland",
-            "LVRaiders",
-            "Las Vegas"
-        ],
-        "Los Angeles Chargers": [
-            "LA Chargers",
-            "SanDiego",
-            "San Diego",
-            "San Diego Chargers",
-            "LAChargers"
-        ],
-        "Dallas Cowboys": [
-            "Dallas"
-        ],
-        "New York Giants": [
-            "NY Giants",
-            "NYGiants",
-            "NewYork"
-        ],
-        "Philadelphia Eagles": [
-            "Philadelphia"
-        ],
-        "Washington Commanders": [
-            "Washingtom",
-            "Washington Washington",
-            "Washington Football Team",
-            "Washington Football Team",
-            "Washington"
-        ],
-        "Chicago Bears": [
-            "Chicago"
-        ],
-        "Detroit Lions": [
-            "Detroit"
-        ],
-        "Green Bay Packers": [
-            "GreenBay",
-            "Green Bay"
-        ],
-        "Minnesota Vikings": [
-            "Minnesota"
-        ],
-        "Atlanta Falcons": [
-            "Atlanta"
-        ],
-        "Carolina Panthers": [
-            "Carolina"
-        ],
-        "New Orleans Saints": [
-            "NewOrleans",
-            "New Orleans"
-        ],
-        "Tampa Bay Buccaneers": [
-            "TampaBay",
-            "Tampa Bay",
-            "Tampa"
-        ],
-        "Arizona Cardinals": [
-            "Arizona"
-        ],
-        "Los Angeles Rams": [
-            "St.Louis",
-            "LA Rams",
-            "LosAngeles",
-            "LARams"
-        ],
-        "San Francisco 49ers": [
-            "SanFrancisco",
-            "San Francisco"
-        ],
-        "Seattle Seahawks": [
-            "Seattle"
-        ]
+        "Buffalo Bills": {
+            "Names": [
+                "BuffaloBills",
+                "Buffalo"
+            ],
+            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/buf"
+        },
+        "Miami Dolphins": {
+            "Names": [
+                "Miami"
+            ],
+            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/mia"
+        },
+        "New England Patriots": {
+            "Names": [
+                "NewEngland",
+                "New England"
+            ],
+            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/ne"
+        },
+        "New York Jets": {
+            "Names": [
+                "NYJets",
+                "NY Jets"
+            ],
+            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/nyj"
+        },
+        "Baltimore Ravens": {
+            "Names": [
+                "Baltimore"
+            ],
+            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/bal"
+        },
+        "Cincinnati Bengals": {
+            "Names": [
+                "Cincinnati"
+            ],
+            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/cin"
+        },
+        "Cleveland Browns": {
+            "Names": [
+                "Cleveland"
+            ],
+            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/cle"
+        },
+        "Pittsburgh Steelers": {
+            "Names": [
+                "Pittsburgh"
+            ],
+            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/pit"
+        },
+        "Houston Texans": {
+            "Names": [
+                "Houston",
+                "HoustonTexans"
+            ],
+            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/hou"
+        },
+        "Indianapolis Colts": {
+            "Names": [
+                "Indianapolis"
+            ],
+            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/ind"
+        },
+        "Jacksonville Jaguars": {
+            "Names": [
+                "Jacksonville"
+            ],
+            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/jax"
+        },
+        "Tennessee Titans": {
+            "Names": [
+                "Tennessee"
+            ],
+            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/ten"
+        },
+        "Denver Broncos": {
+            "Names": [
+                "Denver"
+            ],
+            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/den"
+        },
+        "Kansas City Chiefs": {
+            "Names": [
+                "Kansas",
+                "Kansas City",
+                "KCChiefs",
+                "KansasCity"
+            ],
+            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/kc"
+        },
+        "Las Vegas Raiders": {
+            "Names": [
+                "LasVegas",
+                "Oakland Raiders",
+                "Oakland",
+                "LVRaiders",
+                "Las Vegas"
+            ],
+            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/lv"
+        },
+        "Los Angeles Chargers": {
+            "Names": [
+                "LA Chargers",
+                "SanDiego",
+                "San Diego",
+                "San Diego Chargers",
+                "LAChargers"
+            ],
+            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/lac"
+        },
+        "Dallas Cowboys": {
+            "Names": [
+                "Dallas"
+            ],
+            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/dal"
+        },
+        "New York Giants": {
+            "Names": [
+                "NY Giants",
+                "NYGiants",
+                "NewYork"
+            ],
+            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/nyg"
+        },
+        "Philadelphia Eagles": {
+            "Names": [
+                "Philadelphia"
+            ],
+            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/phi"
+        },
+        "Washington Commanders": {
+            "Names": [
+                "Washingtom",
+                "Washington Washington",
+                "Washington Football Team",
+                "Washington Football Team",
+                "Washington"
+            ],
+            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/wsh"
+        },
+        "Chicago Bears": {
+            "Names": [
+                "Chicago"
+            ],
+            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/chi"
+        },
+        "Detroit Lions": {
+            "Names": [
+                "Detroit"
+            ],
+            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/det"
+        },
+        "Green Bay Packers": {
+            "Names": [
+                "GreenBay",
+                "Green Bay"
+            ],
+            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/gb"
+        },
+        "Minnesota Vikings": {
+            "Names": [
+                "Minnesota"
+            ],
+            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/min"
+        },
+        "Atlanta Falcons": {
+            "Names": [
+                "Atlanta"
+            ],
+            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/atl"
+        },
+        "Carolina Panthers": {
+            "Names": [
+                "Carolina"
+            ],
+            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/car"
+        },
+        "New Orleans Saints": {
+            "Names": [
+                "NewOrleans",
+                "New Orleans"
+            ],
+            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/no"
+        },
+        "Tampa Bay Buccaneers": {
+            "Names": [
+                "TampaBay",
+                "Tampa Bay",
+                "Tampa"
+            ],
+            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/tb"
+        },
+        "Arizona Cardinals": {
+            "Names": [
+                "Arizona"
+            ],
+            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/ari"
+        },
+        "Los Angeles Rams": {
+            "Names": [
+                "St.Louis",
+                "LA Rams",
+                "LosAngeles",
+                "LARams"
+            ],
+            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/lar"
+        },
+        "San Francisco 49ers": {
+            "Names": [
+                "SanFrancisco",
+                "San Francisco"
+            ],
+            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/sf"
+        },
+        "Seattle Seahawks": {
+            "Names": [
+                "Seattle"
+            ],
+            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/sea"
+        }
     },
     "Other": []
 }

@@ -21,15 +21,16 @@ def config(path):  # Property
     return config
 
 
-paths = listdir_fullpath(ROOT_PATH + "/Teams/")
-paths = [path for path in paths if '.json' in path]
-for path in paths:
-    new = {"Teams": {}}
-    old = config(path)
-    for team in old["Teams"].keys():
-        new[team] = old["Teams"][team]["Other Names"]
+for league in ['NFL', 'NBA', 'NCAAF', 'NCAAB']:
+    with open(f"{league}_Teams.json") as f:
+        old = json.load(f)
 
-    print(new)
+    with open(f"{league}.json") as f:
+        cur = json.load(f)
 
-    with open(path, "w") as f:
-        json.dump(new, f)
+    teams = list(cur['Teams'].keys())
+    cur_2 = {"Teams": {team: {"Names": cur['Teams'][team], "Schedule": old['Teams'][team]['Schedule']} for team in teams},
+             "Other": cur['Other']}
+
+    with open(f"{league}.json", 'w') as f:
+        json.dump(cur_2, f)

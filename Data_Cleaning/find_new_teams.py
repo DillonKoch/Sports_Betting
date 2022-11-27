@@ -47,7 +47,10 @@ class Find_New_Teams:
         loading true, alternate, "other" names that are already saved in the /Data/Teams json
         """
         true = list(self.teams['Teams'].keys())
-        alt = [subitem for item in self.teams['Teams'].values() for subitem in item]
+        alt = []
+        for team in true:
+            alt += self.teams['Teams'][team]['Names']
+
         other = self.teams['Other']
         return true + alt + other
 
@@ -103,7 +106,7 @@ class Find_New_Teams:
         elif correction in '0123456789':
             idx = int(correction)
             true_team = distances[idx][0]
-            self.teams['Teams'][true_team].append(team)
+            self.teams['Teams'][true_team]['Names'].append(team)
 
         with open(self.json_path, 'w') as f:
             json.dump(self.teams, f)

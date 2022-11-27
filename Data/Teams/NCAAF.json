@@ -1,1 +1,1333 @@
-{"Teams": {"Cincinnati": ["Cincinnati U", "CincinnatiU", "Cincinnati Bearcats"], "East Carolina": ["EastCarolina", "East Carolina Pirates"], "Houston": ["HoustonU", "Houston Cougars"], "Memphis": ["Memphis Tigers"], "Navy": ["Navy Midshipmen"], "SMU": ["SMU Mustangs", "Southern Methodist Mustangs"], "South Florida": ["SouthFlorida", "South Florida Bulls"], "Temple": ["Temple Owls"], "Tulane": ["Tulane Green Wave"], "Tulsa": ["Tulsa Golden Hurricane"], "UCF": ["Central Florida", "UCF Knights", "Central Florida Knights"], "Boston College": ["BostonCollege", "Boston College Eagles"], "Clemson": ["Clemson Tigers"], "Duke": ["Duke Blue Devils"], "Florida State": ["FloridaState", "Florida State Seminoles"], "Georgia Tech": ["GeorgiaTech", "Georgia Tech Yellow Jackets"], "Louisville": ["Louisville Cardinals"], "Miami": ["MiamiFlorida", "Miami Florida", "Miami Hurricanes"], "NC State": ["NCState", "NC State Wolfpack"], "North Carolina": ["NorthCarolina", "North Carolina Tar Heels"], "Pittsburgh": ["PittsburghU", "Pittsburgh U", "Pittsburgh Panthers"], "Syracuse": ["Syracuse Orange"], "Virginia": ["Virginia Cavaliers"], "Virginia Tech": ["VirginiaTech", "Virginia Tech Hokies"], "Wake Forest": ["WakeForest", "Wake Forest Demon Deacons"], "Baylor": ["Baylor Bears", "Baylor Bears"], "Iowa State": ["IowaState", "Iowa State Cyclones"], "Kansas": ["Kansas Jayhawks"], "Kansas State": ["KansasState", "Kansas State Wildcats"], "Oklahoma": ["Oklahoma Sooners"], "Oklahoma State": ["OklahomaState", "Oklahoma State Cowboys"], "TCU": ["TCU Horned Frogs", "Texas Christian Horned Frogs"], "Texas": ["Texas Longhorns"], "Texas Tech": ["TexasTech", "Texas Tech Red Raiders"], "West Virginia": ["WestVirginia", "West Virginia Mountaineers"], "Illinois": ["Illinois Fighting Illini"], "Indiana": ["Indiana Hoosiers", "Indiana Hoosiers"], "Iowa": ["Iowa Hawkeyes"], "Maryland": ["Maryland Terrapins"], "Michigan": ["Michigan Wolverines"], "Michigan State": ["MichiganState", "Michigan State Spartans"], "Minnesota": ["MinnesotaU", "Minnesota U", "Minnesota Golden Gophers"], "Nebraska": ["Nebraska Cornhuskers"], "Northwestern": ["Northwestern Wildcats"], "Ohio State": ["OhioState", "Ohio State Buckeyes"], "Penn State": ["PennState", "Penn State Nittany Lions"], "Purdue": ["Purdue Boilermakers"], "Rutgers": ["Rutgers Scarlet Knights"], "Wisconsin": ["Wisconsin Badgers"], "Charlotte": ["Charlotte 49ers"], "Florida Atlantic": ["FloridaAtlantic", "Florida Atlantic Owls"], "Florida International": ["Florida Intl", "FloridaInternational", "FloridaIntl", "Florida Intl Golden Panthers", "Florida International Panthers"], "Louisiana Tech": ["LouisianaTech", "Louisiana Tech Bulldogs"], "Marshall": ["Marshall Thundering Herd"], "Middle Tennessee": ["Middle Tennessee Blue Raiders"], "North Texas": ["NorthTexas", "North Texas Mean Green"], "Old Dominion": ["OldDominion", "Old Dominion Monarchs"], "Rice": ["Rice Owls"], "Southern Miss": ["SoMississippi", "SouthernMiss", "Southern Mississippi Golden Eagles", "Southern Miss Golden Eagles"], "UAB": ["UAB Blazers"], "UTEP": ["UTEP Miners", "Texas El Paso Miners"], "UTSA": ["UT San Antonio Roadrunners", "UTSA Roadrunners", "Texas-San Antonio Roadrunners"], "Western Kentucky": ["WesternKentucky", "Western Kentucky Hilltoppers"], "Army": ["Army Black Knights"], "BYU": ["BYU Cougars", "Brigham Young Cougars"], "Liberty": ["Liberty Flames"], "New Mexico State": ["NewMexicoState", "New Mexico State Aggies"], "Notre Dame": ["NotreDame", "Notre Dame Fighting Irish"], "UConn": ["Connecticut", "UConn Huskies", "Connecticut Huskies"], "UMass": ["UMass Minutemen", "Massachusetts Minutemen"], "Akron": ["Akron Zips"], "Ball State": ["BallState", "Ball State Cardinals"], "Bowling Green": ["BowlingGreen", "Bowling Green Falcons"], "Buffalo": ["BuffaloU", "Buffalo U", "Buffalo Bulls"], "Central Michigan": ["CentralMichigan", "Central Michigan Chippewas"], "Eastern Michigan": ["EasternMichigan", "Eastern Michigan Eagles"], "Kent State": ["KentState", "Kent State Golden Flashes"], "Miami (OH)": ["Miami Ohio", "MiamiOhio", "Miami (OH) RedHawks", "Miami (Ohio) RedHawks"], "Northern Illinois": ["No Illinois", "NoIllinois", "NorthernIllinois", "Northern Illinois Huskies"], "Ohio": ["Ohio Bobcats"], "Toledo": ["Toledo Rockets"], "Western Michigan": ["WesternMichigan", "Western Michigan Broncos"], "Air Force": ["AirForce", "Air Force Falcons"], "Boise State": ["BOISEST", "BoiseState", "Boise State Broncos"], "Colorado State": ["ColoradoState", "Colorado State Rams", "Colorado State Rams"], "Fresno State": ["FresnoState", "Fresno State Bulldogs"], "Hawai'i": ["Hawaii", "Hawai'i Rainbow Warriors", "Hawaii Rainbow Warriors"], "Nevada": ["Nevada Wolf Pack"], "New Mexico": ["NewMexico", "New Mexico Lobos"], "San Diego State": ["SanDiegoState", "San Diego State Aztecs"], "San Jos\u00e9 State": ["San Jose State", "SanJoseState", "San Jos\u00e9 State Spartans", "San Jos\u00e9 St Spartans", "San Jose State Spartans", "San Jose State Spartans"], "UNLV": ["UNLV Rebels"], "Utah State": ["UtahState", "Utah State Aggies"], "Wyoming": ["Wyoming Cowboys"], "Arizona": ["ArizonaU", "Arizona Wildcats", "Arizona U"], "Arizona State": ["ArizonaState", "Arizona State Sun Devils"], "California": ["California Golden Bears"], "Colorado": ["Colorado Buffaloes"], "Oregon": ["Oregon Ducks"], "Oregon State": ["OregonState", "Oregon State Beavers"], "Stanford": ["Stanford Cardinal"], "UCLA": ["UCLA Bruins"], "USC": ["USC Trojans", "Southern California Trojans"], "Utah": ["Utah Utes"], "Washington": ["WashingtonU", "Washington Huskies", "Washington U"], "Washington State": ["WashingtonState", "Washington State Cougars"], "Alabama": ["Alabama Crimson Tide"], "Arkansas": ["Arkansas Razorbacks"], "Auburn": ["Auburn Tigers"], "Florida": ["Florida Gators"], "Georgia": ["Georgia Bulldogs"], "Kentucky": ["Kentucky Wildcats"], "LSU": ["LSU Tigers", "Louisiana State Tigers"], "Mississippi State": ["MississippiState", "MississippiSt", "Mississippi State Bulldogs", "Mississippi St"], "Missouri": ["Missouri Tigers"], "Ole Miss": ["Mississippi", "Ole Miss Rebels", "Mississippi Rebels"], "South Carolina": ["SouthCarolina", "South Carolina Gamecocks", "South Carolina Gamecocks"], "Tennessee": ["TennesseeU", "Tennessee U", "Tennessee Volunteers"], "Texas A&M": ["TexasAM", "TexasA&M", "Texas A&M Aggies"], "Vanderbilt": ["Vanderbilt Commodores"], "Appalachian State": ["AppalachianState", "AppalachianSt", "Appalachian St", "Appalachian State Mountaineers"], "Arkansas State": ["ArkansasState", "Arkansas State Red Wolves", "Arkansas St. Red Wolves"], "Coastal Carolina": ["CoastalCarolina", "Coastal Carolina Chanticleers"], "Georgia Southern": ["GeorgiaSouthern", "Georgia Southern Eagles"], "Georgia State": ["GeorgiaState", "Georgia State Panthers", "Georgia St. Panthers"], "Louisiana": ["Louisiana Ragin' Cajuns", "UL Lafayette Ragin' Cajuns", "UL Lafayette"], "South Alabama": ["SouthAlabama", "South Alabama Jaguars"], "Texas State": ["TexasState", "Texas State Bobcats"], "Troy": ["Troy Trojans"], "UL Monroe": ["ULMonroe", "UL-Monroe", "Louisiana Monroe Warhawks", "UL Monroe Warhawks"]}, "Other": ["NORTHALABAMA", "NorthwesternSt", "NorthCentralIllinois", "HoustonBaptist", "TexSanAntonio", "Villanova", "TexasSouthern", "IllinoisSt", "Delaware", "Lamar", "CharlestonSouthern", "EasternWashington", "NorfolkSt", "DixieState", "PortlandSt", "NorthAlabama", "Georgetown", "SouthCarolinaSt", "Cornell", "CalPoly", "Drake", "IncarnateWord", "Campbell", "WeberSt", "BethuneCookman", "MiddleTennesseeState", "MontanaState", "NorthDakotaState", "Hampton", "Stetson", "Colgate", "VMI", "Duquesne", "Dartmouth", "MissouriSt", "FloridaAM", "NO.Colorado", "UT-Chattanooga", "SanDiego", "PortlandState", "IdahoState", "NichollsState", "SELouisiana", "McNeeseSt", "N.CarolinaAT", "CentralFlorida", "SacredHeart", "EastWashington", "Maine", "NorthernColorado", "Massachusetts", "WilliamMary", "N.CarolinaA&T", "EastTennesseeState", "UW-Whitewater", "EasternIllinois", "Albany", "Marist", "Montana", "Hofstra", "LongIsland", "AlabamaAM", "SavannahSt", "SouthDakota", "Tenn.Martin", "Valparaiso", "WesternIllinois", "South Dakota St", "EastTennesseeSt", "Howard", "William&Mary", "SoCarolinaSt", "Butler", "IdahoSt", "SamHoustonSt", "NorthDakota", "Towson", "SoIllinois", "Mercer", "ArkansasPineBluff", "CentralConn.", "Pennsylvania", "CSSacramento", "DelawareSt", "Bryant", "AlcornSt", "SEMissouriSt", "SavannahState", "JacksonvilleSt", "UCDavis", "ULLafayette", "NCCentral", "SacramentoSt", "Lehigh", "MorganState", "TheCitadel", "Princeton", "WeberState", "SouthDakotaSt", "Davidson", "NorthernArizona", "NewHampshire", "SouthDakotaState", "Wofford", "MurraySt", "MorganSt", "RobertMorris", "FloridaA&M", "TennesseeSt", "EasternKentucky", "Merrimack", "KennesawState", "Dayton", "CentralArkansas", "Idaho", "Chattanooga", "Richmond", "HolyCross", "Bucknell", "TennesseeTech", "CharlestonSou", "Furman", "Presbyterian", "AlabamaA&M", "Sam Houston St", "MiddleTennSt", "NoDakotaState", "Lafayette", "RhodeIsland", "AbileneChristian", "JacksonvilleState", "WesternCarolina", "Elon", "JamesMadison", "NorthernIowa", "TarletonState", "Harvard", "Fordham", "Yale", "IndianaSt", "JacksonSt", "ArkPineBluff", "Monmouth", "StephenF.Austin", "AlabamaSt", "Columbia", "KennesawSt", "MontanaSt", "YoungstownState", "SouthernUtah", "MoreheadSt", "StonyBrook", "Miss.ValleySt", "GardnerWebb", "Kent", "PrairieView", "Jacksonville", "AustinPeay", "NichollsSt", "Samford", "TennesseeMartin", "St.Francis(PA)", "Brown", "YoungstownSt", "Southern", "TennChat", "Grambling", "MidTennesseeState", "Wagner", "IndianaState", "Indiana State Sycamores", "Central Connecticut Blue Devils", "Eastern Washington Eagles", "Winston-Salem Rams", "Cal Poly Mustangs", "Maine Black Bears", "Shippensburg Raiders", "Grambling State Tigers", "South Carolina State Bulldogs", "Tennessee Tech Golden Eagles", "Arkansas-Pine Bluff Golden Lions", "Murray State Racers", "Tusculum Pioneers", "Northern Iowa Panthers", "Montana State Bobcats", "Delaware Blue Hens", "Missouri State Bears", "Holy Cross Crusaders", "Howard Bison", "Charleston Southern Buccaneers", "West Georgia Wolves", "New Hampshire Wildcats", "Fordham Rams", "UC Davis Aggies", "Furman Paladins", "Presbyterian College Blue Hose", "The Citadel Bulldogs", "Morehead State Eagles", "Stephen F Austin Lumberjacks", "Southern Illinois Salukis", "Chattanooga Mocs", "Wofford Terriers", "Gardner-Webb Bulldogs", "Abilene Christian Wildcats", "Delaware State Hornets", "Southeastern Louisiana Lions", "Weber State Wildcats", "Jacksonville State Gamecocks", "Colgate Raiders", "Samford Bulldogs", "North Dakota State Bison", "Elon Phoenix", "Villanova Wildcats", "Alcorn State Braves", "Sam Houston State Bearkats", "Towson Tigers", "Western Illinois Leathernecks", "Nicholls State Colonels", "Eastern Illinois Panthers", "Western Carolina Catamounts", "North Carolina Central Eagles", "VMI Keydets", "McNeese State Cowboys", "Norfolk State Spartans", "Lenoir-Rhyne Bears", "Rhode Island Rams", "South Dakota State Jackrabbits", "Idaho State Bengals", "William & Mary Tribe", "Northern Colorado Bears", "Sacramento State Hornets", "Richmond Spiders", "Illinois State Redbirds", "Eastern Kentucky Colonels", "Tennessee-Martin Skyhawks", "Northern Arizona Lumberjacks", "Idaho Vandals", "Texas Southern Tigers", "Portland State Vikings", "Northeastern Huskies", "Southern Jaguars", "West Virginia Tech Golden Bears", "Northwestern State Demons", "Central Arkansas Bears", "St Francis (PA) Red Flash", "James Madison Dukes", "Hofstra Pride", "Southeast Missouri State Redhawks", "Youngstown State Penguins", "Morgan State Bears", "Jacksonville Dolphins", "North Greenville Crusaders", "Angelo State Rams", "Montana Grizzlies", "Southern Utah Thunderbirds", "Stony Brook Seawolves", "Alabama A&M Bulldogs", "Monmouth Hawks", "Austin Peay Governors", "Florida A&M Rattlers", "Albany Great Danes", "Bryant Bulldogs", "Alabama State Hornets", "North Carolina A&T Aggies", "Glenville State Pioneers", "Lafayette Leopards", "North Dakota North Dakota", "Virginia Union Panthers", "Savannah State Tigers", "WV Wesleyan Bobcats", "Campbell Camels", "Chowan Braves", "Huntingdon Hawks", "Georgetown Hoyas", "Mississippi Valley State Delta Devils", "South Dakota Coyotes", "Prairie View A&M Panthers", "Jackson State Tigers", "UT Martin Skyhawks", "Clark Atlanta Panthers", "Drake Bulldogs", "Bucknell Bison", "Nicholls Colonels", "Lehigh Mountain Hawks", "North Alabama Lions", "St. Francis (IL) Fighting Saints", "Brevard College Tornados", "Bacone College Warriors", "Tarleton State Texans", "Kennesaw State Owls", "Incarnate Word Cardinals", "Robert Morris Colonials", "Henderson State Reddies", "Mercer Bears", "Johnson C Smith Golden Bulls", "McNeese Cowboys", "Stephen F. Austin Lumberjacks", "Grambling Tigers", "Yale Bulldogs", "Lamar Cardinals", "Bethune-Cookman Wildcats", "Campbell Fighting Camels", "Concord Mountain Lions", "St. Francis (PA) Red Flash", "Kentucky Wesleyan Panthers", "West Alabama Tigers", "Shorter Hawks", "San Diego Toreros", "SE Louisiana Lions", "Wesley College Wolverines", "Hampton Pirates", "Catawba Indians", "North Dakota Fighting Hawks", "Lambuth Eagles", "Tarleton Texans", "McMurry War Hawks", "Minot State Beavers", "Duquesne Dukes", "Southern Arkansas Muleriders", "Houston Baptist Huskies", "Wagner Seahawks", "Prairie View Panthers", "Tennessee State Tigers", "Dixie State Trailblazers", "East Tennessee State Buccaneers", "Long Island University Sharks", "St.ThomasMinn", "St.Thomas-Minn", "Tarleton State", "North Dakota", "Jacksonville St", "Idaho St", "East Washington", "Indiana St", "Central Arkansas", "Middle Tenn St", "CS Sacramento", "Missouri St", "Youngstown St", "Southern Utah", "Illinois St", "Rhode Island", "Montana St", "Western Illinois", "No Dakota State", "Alabama State", "Charleston Southern", "Gardner Webb", "N. Carolina A & T", "SE Louisiana", "Stephen F.Austin", "Northwestern St", "Nicholls St", "James Madison", "Miss. Valley St", "Portland St", "Jackson St", "William & Mary", "UC Davis", "Weber St", "Cal Poly", "Incarnate Word", "So Carolina St", "Tennessee St", "Prairie View", "Eastern Illinois", "East Tennessee St", "Charleston Sou", "Kennesaw St", "Norfolk St", "Bethune Cookman", "Houston Baptist", "SE Missouri St", "So Illinois", "Tennessee Tech", "New Hampshire", "South Dakota", "NC Central", "Austin Peay", "Tennessee Martin", "Alabama A&M", "Robert Morris", "St. Francis (PA)", "Morgan St", "Long Island", "Northern Iowa", "San Diego", "The Citadel", "Northern Arizona", "Abilene Christian", "Tex San Antonio", "Texas Southern", "Central Conn.", "Ark Pine Bluff", "Dixie State", "North Alabama", "Alabama St", "Florida A&M", "Eastern Kentucky", "Morehead St", "Alcorn St", "McNeese St", "Holy Cross", "Western Carolina", "Stony Brook", "Sacred Heart", "Delaware St", "Murray St", "Kennesaw St ", "Tennessee Martin", "Florida A&M", "So Illinois", "Holy Cross", "Sacred Heart", "Northern Iowa", "South Dakota", "Sacramento St", "Sam Houston Bearkats", "UtahTech", "LIU", "SouthCarolinaState", "StThomas", "Lindenwood", "Cal.PolySLO", "VirginiaMilitary", "Stonehill", "TexasA&MCommerce", "PortlandSt."]}
+{
+    "Teams": {
+        "Cincinnati": {
+            "Names": [
+                "Cincinnati U",
+                "CincinnatiU",
+                "Cincinnati Bearcats"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/2132"
+        },
+        "East Carolina": {
+            "Names": [
+                "EastCarolina",
+                "East Carolina Pirates"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/151"
+        },
+        "Houston": {
+            "Names": [
+                "HoustonU",
+                "Houston Cougars"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/248"
+        },
+        "Memphis": {
+            "Names": [
+                "Memphis Tigers"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/235"
+        },
+        "Navy": {
+            "Names": [
+                "Navy Midshipmen"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/2426"
+        },
+        "SMU": {
+            "Names": [
+                "SMU Mustangs",
+                "Southern Methodist Mustangs"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/2567"
+        },
+        "South Florida": {
+            "Names": [
+                "SouthFlorida",
+                "South Florida Bulls"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/58"
+        },
+        "Temple": {
+            "Names": [
+                "Temple Owls"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/218"
+        },
+        "Tulane": {
+            "Names": [
+                "Tulane Green Wave"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/2655"
+        },
+        "Tulsa": {
+            "Names": [
+                "Tulsa Golden Hurricane"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/202"
+        },
+        "UCF": {
+            "Names": [
+                "Central Florida",
+                "UCF Knights",
+                "Central Florida Knights"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/2116"
+        },
+        "Boston College": {
+            "Names": [
+                "BostonCollege",
+                "Boston College Eagles"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/103"
+        },
+        "Clemson": {
+            "Names": [
+                "Clemson Tigers"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/228"
+        },
+        "Duke": {
+            "Names": [
+                "Duke Blue Devils"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/150"
+        },
+        "Florida State": {
+            "Names": [
+                "FloridaState",
+                "Florida State Seminoles"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/52"
+        },
+        "Georgia Tech": {
+            "Names": [
+                "GeorgiaTech",
+                "Georgia Tech Yellow Jackets"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/59"
+        },
+        "Louisville": {
+            "Names": [
+                "Louisville Cardinals"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/97"
+        },
+        "Miami": {
+            "Names": [
+                "MiamiFlorida",
+                "Miami Florida",
+                "Miami Hurricanes"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/2390"
+        },
+        "NC State": {
+            "Names": [
+                "NCState",
+                "NC State Wolfpack"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/152"
+        },
+        "North Carolina": {
+            "Names": [
+                "NorthCarolina",
+                "North Carolina Tar Heels"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/153"
+        },
+        "Pittsburgh": {
+            "Names": [
+                "PittsburghU",
+                "Pittsburgh U",
+                "Pittsburgh Panthers"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/221"
+        },
+        "Syracuse": {
+            "Names": [
+                "Syracuse Orange"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/183"
+        },
+        "Virginia": {
+            "Names": [
+                "Virginia Cavaliers"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/258"
+        },
+        "Virginia Tech": {
+            "Names": [
+                "VirginiaTech",
+                "Virginia Tech Hokies"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/259"
+        },
+        "Wake Forest": {
+            "Names": [
+                "WakeForest",
+                "Wake Forest Demon Deacons"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/154"
+        },
+        "Baylor": {
+            "Names": [
+                "Baylor Bears",
+                "Baylor Bears"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/239"
+        },
+        "Iowa State": {
+            "Names": [
+                "IowaState",
+                "Iowa State Cyclones"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/66"
+        },
+        "Kansas": {
+            "Names": [
+                "Kansas Jayhawks"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/2305"
+        },
+        "Kansas State": {
+            "Names": [
+                "KansasState",
+                "Kansas State Wildcats"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/2306"
+        },
+        "Oklahoma": {
+            "Names": [
+                "Oklahoma Sooners"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/201"
+        },
+        "Oklahoma State": {
+            "Names": [
+                "OklahomaState",
+                "Oklahoma State Cowboys"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/197"
+        },
+        "TCU": {
+            "Names": [
+                "TCU Horned Frogs",
+                "Texas Christian Horned Frogs"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/2628"
+        },
+        "Texas": {
+            "Names": [
+                "Texas Longhorns"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/251"
+        },
+        "Texas Tech": {
+            "Names": [
+                "TexasTech",
+                "Texas Tech Red Raiders"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/2641"
+        },
+        "West Virginia": {
+            "Names": [
+                "WestVirginia",
+                "West Virginia Mountaineers"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/277"
+        },
+        "Illinois": {
+            "Names": [
+                "Illinois Fighting Illini"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/356"
+        },
+        "Indiana": {
+            "Names": [
+                "Indiana Hoosiers",
+                "Indiana Hoosiers"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/84"
+        },
+        "Iowa": {
+            "Names": [
+                "Iowa Hawkeyes"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/2294"
+        },
+        "Maryland": {
+            "Names": [
+                "Maryland Terrapins"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/120"
+        },
+        "Michigan": {
+            "Names": [
+                "Michigan Wolverines"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/130"
+        },
+        "Michigan State": {
+            "Names": [
+                "MichiganState",
+                "Michigan State Spartans"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/127"
+        },
+        "Minnesota": {
+            "Names": [
+                "MinnesotaU",
+                "Minnesota U",
+                "Minnesota Golden Gophers"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/135"
+        },
+        "Nebraska": {
+            "Names": [
+                "Nebraska Cornhuskers"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/158"
+        },
+        "Northwestern": {
+            "Names": [
+                "Northwestern Wildcats"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/77"
+        },
+        "Ohio State": {
+            "Names": [
+                "OhioState",
+                "Ohio State Buckeyes"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/194"
+        },
+        "Penn State": {
+            "Names": [
+                "PennState",
+                "Penn State Nittany Lions"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/213"
+        },
+        "Purdue": {
+            "Names": [
+                "Purdue Boilermakers"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/2509"
+        },
+        "Rutgers": {
+            "Names": [
+                "Rutgers Scarlet Knights"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/164"
+        },
+        "Wisconsin": {
+            "Names": [
+                "Wisconsin Badgers"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/275"
+        },
+        "Charlotte": {
+            "Names": [
+                "Charlotte 49ers"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/2429"
+        },
+        "Florida Atlantic": {
+            "Names": [
+                "FloridaAtlantic",
+                "Florida Atlantic Owls"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/2226"
+        },
+        "Florida International": {
+            "Names": [
+                "Florida Intl",
+                "FloridaInternational",
+                "FloridaIntl",
+                "Florida Intl Golden Panthers",
+                "Florida International Panthers"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/2229"
+        },
+        "Louisiana Tech": {
+            "Names": [
+                "LouisianaTech",
+                "Louisiana Tech Bulldogs"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/2348"
+        },
+        "Marshall": {
+            "Names": [
+                "Marshall Thundering Herd"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/276"
+        },
+        "Middle Tennessee": {
+            "Names": [
+                "Middle Tennessee Blue Raiders"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/2393"
+        },
+        "North Texas": {
+            "Names": [
+                "NorthTexas",
+                "North Texas Mean Green"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/249"
+        },
+        "Old Dominion": {
+            "Names": [
+                "OldDominion",
+                "Old Dominion Monarchs"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/295"
+        },
+        "Rice": {
+            "Names": [
+                "Rice Owls"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/242"
+        },
+        "Southern Miss": {
+            "Names": [
+                "SoMississippi",
+                "SouthernMiss",
+                "Southern Mississippi Golden Eagles",
+                "Southern Miss Golden Eagles"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/2572"
+        },
+        "UAB": {
+            "Names": [
+                "UAB Blazers"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/5"
+        },
+        "UTEP": {
+            "Names": [
+                "UTEP Miners",
+                "Texas El Paso Miners"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/2638"
+        },
+        "UTSA": {
+            "Names": [
+                "UT San Antonio Roadrunners",
+                "UTSA Roadrunners",
+                "Texas-San Antonio Roadrunners"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/2636"
+        },
+        "Western Kentucky": {
+            "Names": [
+                "WesternKentucky",
+                "Western Kentucky Hilltoppers"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/98"
+        },
+        "Army": {
+            "Names": [
+                "Army Black Knights"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/349"
+        },
+        "BYU": {
+            "Names": [
+                "BYU Cougars",
+                "Brigham Young Cougars"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/252"
+        },
+        "Liberty": {
+            "Names": [
+                "Liberty Flames"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/2335"
+        },
+        "New Mexico State": {
+            "Names": [
+                "NewMexicoState",
+                "New Mexico State Aggies"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/166"
+        },
+        "Notre Dame": {
+            "Names": [
+                "NotreDame",
+                "Notre Dame Fighting Irish"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/87"
+        },
+        "UConn": {
+            "Names": [
+                "Connecticut",
+                "UConn Huskies",
+                "Connecticut Huskies"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/41"
+        },
+        "UMass": {
+            "Names": [
+                "UMass Minutemen",
+                "Massachusetts Minutemen"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/113"
+        },
+        "Akron": {
+            "Names": [
+                "Akron Zips"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/2006"
+        },
+        "Ball State": {
+            "Names": [
+                "BallState",
+                "Ball State Cardinals"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/2050"
+        },
+        "Bowling Green": {
+            "Names": [
+                "BowlingGreen",
+                "Bowling Green Falcons"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/189"
+        },
+        "Buffalo": {
+            "Names": [
+                "BuffaloU",
+                "Buffalo U",
+                "Buffalo Bulls"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/2084"
+        },
+        "Central Michigan": {
+            "Names": [
+                "CentralMichigan",
+                "Central Michigan Chippewas"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/2117"
+        },
+        "Eastern Michigan": {
+            "Names": [
+                "EasternMichigan",
+                "Eastern Michigan Eagles"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/2199"
+        },
+        "Kent State": {
+            "Names": [
+                "KentState",
+                "Kent State Golden Flashes"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/2309"
+        },
+        "Miami (OH)": {
+            "Names": [
+                "Miami Ohio",
+                "MiamiOhio",
+                "Miami (OH) RedHawks",
+                "Miami (Ohio) RedHawks"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/193"
+        },
+        "Northern Illinois": {
+            "Names": [
+                "No Illinois",
+                "NoIllinois",
+                "NorthernIllinois",
+                "Northern Illinois Huskies"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/2459"
+        },
+        "Ohio": {
+            "Names": [
+                "Ohio Bobcats"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/195"
+        },
+        "Toledo": {
+            "Names": [
+                "Toledo Rockets"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/2649"
+        },
+        "Western Michigan": {
+            "Names": [
+                "WesternMichigan",
+                "Western Michigan Broncos"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/2711"
+        },
+        "Air Force": {
+            "Names": [
+                "AirForce",
+                "Air Force Falcons"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/2005"
+        },
+        "Boise State": {
+            "Names": [
+                "BOISEST",
+                "BoiseState",
+                "Boise State Broncos"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/68"
+        },
+        "Colorado State": {
+            "Names": [
+                "ColoradoState",
+                "Colorado State Rams",
+                "Colorado State Rams"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/36"
+        },
+        "Fresno State": {
+            "Names": [
+                "FresnoState",
+                "Fresno State Bulldogs"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/278"
+        },
+        "Hawai'i": {
+            "Names": [
+                "Hawaii",
+                "Hawai'i Rainbow Warriors",
+                "Hawaii Rainbow Warriors"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/62"
+        },
+        "Nevada": {
+            "Names": [
+                "Nevada Wolf Pack"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/2440"
+        },
+        "New Mexico": {
+            "Names": [
+                "NewMexico",
+                "New Mexico Lobos"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/167"
+        },
+        "San Diego State": {
+            "Names": [
+                "SanDiegoState",
+                "San Diego State Aztecs"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/21"
+        },
+        "San José State": {
+            "Names": [
+                "San Jose State",
+                "SanJoseState",
+                "San José State Spartans",
+                "San José St Spartans",
+                "San Jose State Spartans",
+                "San Jose State Spartans"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/23"
+        },
+        "UNLV": {
+            "Names": [
+                "UNLV Rebels"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/2439"
+        },
+        "Utah State": {
+            "Names": [
+                "UtahState",
+                "Utah State Aggies"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/328"
+        },
+        "Wyoming": {
+            "Names": [
+                "Wyoming Cowboys"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/2751"
+        },
+        "Arizona": {
+            "Names": [
+                "ArizonaU",
+                "Arizona Wildcats",
+                "Arizona U"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/12"
+        },
+        "Arizona State": {
+            "Names": [
+                "ArizonaState",
+                "Arizona State Sun Devils"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/9"
+        },
+        "California": {
+            "Names": [
+                "California Golden Bears"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/25"
+        },
+        "Colorado": {
+            "Names": [
+                "Colorado Buffaloes"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/38"
+        },
+        "Oregon": {
+            "Names": [
+                "Oregon Ducks"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/2483"
+        },
+        "Oregon State": {
+            "Names": [
+                "OregonState",
+                "Oregon State Beavers"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/204"
+        },
+        "Stanford": {
+            "Names": [
+                "Stanford Cardinal"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/24"
+        },
+        "UCLA": {
+            "Names": [
+                "UCLA Bruins"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/26"
+        },
+        "USC": {
+            "Names": [
+                "USC Trojans",
+                "Southern California Trojans"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/30"
+        },
+        "Utah": {
+            "Names": [
+                "Utah Utes"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/254"
+        },
+        "Washington": {
+            "Names": [
+                "WashingtonU",
+                "Washington Huskies",
+                "Washington U"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/264"
+        },
+        "Washington State": {
+            "Names": [
+                "WashingtonState",
+                "Washington State Cougars"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/265"
+        },
+        "Alabama": {
+            "Names": [
+                "Alabama Crimson Tide"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/333"
+        },
+        "Arkansas": {
+            "Names": [
+                "Arkansas Razorbacks"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/8"
+        },
+        "Auburn": {
+            "Names": [
+                "Auburn Tigers"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/2"
+        },
+        "Florida": {
+            "Names": [
+                "Florida Gators"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/57"
+        },
+        "Georgia": {
+            "Names": [
+                "Georgia Bulldogs"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/61"
+        },
+        "Kentucky": {
+            "Names": [
+                "Kentucky Wildcats"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/96"
+        },
+        "LSU": {
+            "Names": [
+                "LSU Tigers",
+                "Louisiana State Tigers"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/99"
+        },
+        "Mississippi State": {
+            "Names": [
+                "MississippiState",
+                "MississippiSt",
+                "Mississippi State Bulldogs",
+                "Mississippi St"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/344"
+        },
+        "Missouri": {
+            "Names": [
+                "Missouri Tigers"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/142"
+        },
+        "Ole Miss": {
+            "Names": [
+                "Mississippi",
+                "Ole Miss Rebels",
+                "Mississippi Rebels"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/145"
+        },
+        "South Carolina": {
+            "Names": [
+                "SouthCarolina",
+                "South Carolina Gamecocks",
+                "South Carolina Gamecocks"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/2579"
+        },
+        "Tennessee": {
+            "Names": [
+                "TennesseeU",
+                "Tennessee U",
+                "Tennessee Volunteers"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/2633"
+        },
+        "Texas A&M": {
+            "Names": [
+                "TexasAM",
+                "TexasA&M",
+                "Texas A&M Aggies"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/245"
+        },
+        "Vanderbilt": {
+            "Names": [
+                "Vanderbilt Commodores"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/238"
+        },
+        "Appalachian State": {
+            "Names": [
+                "AppalachianState",
+                "AppalachianSt",
+                "Appalachian St",
+                "Appalachian State Mountaineers"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/2026"
+        },
+        "Arkansas State": {
+            "Names": [
+                "ArkansasState",
+                "Arkansas State Red Wolves",
+                "Arkansas St. Red Wolves"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/2032"
+        },
+        "Coastal Carolina": {
+            "Names": [
+                "CoastalCarolina",
+                "Coastal Carolina Chanticleers"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/324"
+        },
+        "Georgia Southern": {
+            "Names": [
+                "GeorgiaSouthern",
+                "Georgia Southern Eagles"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/290"
+        },
+        "Georgia State": {
+            "Names": [
+                "GeorgiaState",
+                "Georgia State Panthers",
+                "Georgia St. Panthers"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/2247"
+        },
+        "Louisiana": {
+            "Names": [
+                "Louisiana Ragin' Cajuns",
+                "UL Lafayette Ragin' Cajuns",
+                "UL Lafayette"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/309"
+        },
+        "South Alabama": {
+            "Names": [
+                "SouthAlabama",
+                "South Alabama Jaguars"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/6"
+        },
+        "Texas State": {
+            "Names": [
+                "TexasState",
+                "Texas State Bobcats"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/326"
+        },
+        "Troy": {
+            "Names": [
+                "Troy Trojans"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/2653"
+        },
+        "UL Monroe": {
+            "Names": [
+                "ULMonroe",
+                "UL-Monroe",
+                "Louisiana Monroe Warhawks",
+                "UL Monroe Warhawks"
+            ],
+            "Schedule": "https://www.espn.com/college-football/team/schedule/_/id/2433"
+        }
+    },
+    "Other": [
+        "NORTHALABAMA",
+        "NorthwesternSt",
+        "NorthCentralIllinois",
+        "HoustonBaptist",
+        "TexSanAntonio",
+        "Villanova",
+        "TexasSouthern",
+        "IllinoisSt",
+        "Delaware",
+        "Lamar",
+        "CharlestonSouthern",
+        "EasternWashington",
+        "NorfolkSt",
+        "DixieState",
+        "PortlandSt",
+        "NorthAlabama",
+        "Georgetown",
+        "SouthCarolinaSt",
+        "Cornell",
+        "CalPoly",
+        "Drake",
+        "IncarnateWord",
+        "Campbell",
+        "WeberSt",
+        "BethuneCookman",
+        "MiddleTennesseeState",
+        "MontanaState",
+        "NorthDakotaState",
+        "Hampton",
+        "Stetson",
+        "Colgate",
+        "VMI",
+        "Duquesne",
+        "Dartmouth",
+        "MissouriSt",
+        "FloridaAM",
+        "NO.Colorado",
+        "UT-Chattanooga",
+        "SanDiego",
+        "PortlandState",
+        "IdahoState",
+        "NichollsState",
+        "SELouisiana",
+        "McNeeseSt",
+        "N.CarolinaAT",
+        "CentralFlorida",
+        "SacredHeart",
+        "EastWashington",
+        "Maine",
+        "NorthernColorado",
+        "Massachusetts",
+        "WilliamMary",
+        "N.CarolinaA&T",
+        "EastTennesseeState",
+        "UW-Whitewater",
+        "EasternIllinois",
+        "Albany",
+        "Marist",
+        "Montana",
+        "Hofstra",
+        "LongIsland",
+        "AlabamaAM",
+        "SavannahSt",
+        "SouthDakota",
+        "Tenn.Martin",
+        "Valparaiso",
+        "WesternIllinois",
+        "South Dakota St",
+        "EastTennesseeSt",
+        "Howard",
+        "William&Mary",
+        "SoCarolinaSt",
+        "Butler",
+        "IdahoSt",
+        "SamHoustonSt",
+        "NorthDakota",
+        "Towson",
+        "SoIllinois",
+        "Mercer",
+        "ArkansasPineBluff",
+        "CentralConn.",
+        "Pennsylvania",
+        "CSSacramento",
+        "DelawareSt",
+        "Bryant",
+        "AlcornSt",
+        "SEMissouriSt",
+        "SavannahState",
+        "JacksonvilleSt",
+        "UCDavis",
+        "ULLafayette",
+        "NCCentral",
+        "SacramentoSt",
+        "Lehigh",
+        "MorganState",
+        "TheCitadel",
+        "Princeton",
+        "WeberState",
+        "SouthDakotaSt",
+        "Davidson",
+        "NorthernArizona",
+        "NewHampshire",
+        "SouthDakotaState",
+        "Wofford",
+        "MurraySt",
+        "MorganSt",
+        "RobertMorris",
+        "FloridaA&M",
+        "TennesseeSt",
+        "EasternKentucky",
+        "Merrimack",
+        "KennesawState",
+        "Dayton",
+        "CentralArkansas",
+        "Idaho",
+        "Chattanooga",
+        "Richmond",
+        "HolyCross",
+        "Bucknell",
+        "TennesseeTech",
+        "CharlestonSou",
+        "Furman",
+        "Presbyterian",
+        "AlabamaA&M",
+        "Sam Houston St",
+        "MiddleTennSt",
+        "NoDakotaState",
+        "Lafayette",
+        "RhodeIsland",
+        "AbileneChristian",
+        "JacksonvilleState",
+        "WesternCarolina",
+        "Elon",
+        "JamesMadison",
+        "NorthernIowa",
+        "TarletonState",
+        "Harvard",
+        "Fordham",
+        "Yale",
+        "IndianaSt",
+        "JacksonSt",
+        "ArkPineBluff",
+        "Monmouth",
+        "StephenF.Austin",
+        "AlabamaSt",
+        "Columbia",
+        "KennesawSt",
+        "MontanaSt",
+        "YoungstownState",
+        "SouthernUtah",
+        "MoreheadSt",
+        "StonyBrook",
+        "Miss.ValleySt",
+        "GardnerWebb",
+        "Kent",
+        "PrairieView",
+        "Jacksonville",
+        "AustinPeay",
+        "NichollsSt",
+        "Samford",
+        "TennesseeMartin",
+        "St.Francis(PA)",
+        "Brown",
+        "YoungstownSt",
+        "Southern",
+        "TennChat",
+        "Grambling",
+        "MidTennesseeState",
+        "Wagner",
+        "IndianaState",
+        "Indiana State Sycamores",
+        "Central Connecticut Blue Devils",
+        "Eastern Washington Eagles",
+        "Winston-Salem Rams",
+        "Cal Poly Mustangs",
+        "Maine Black Bears",
+        "Shippensburg Raiders",
+        "Grambling State Tigers",
+        "South Carolina State Bulldogs",
+        "Tennessee Tech Golden Eagles",
+        "Arkansas-Pine Bluff Golden Lions",
+        "Murray State Racers",
+        "Tusculum Pioneers",
+        "Northern Iowa Panthers",
+        "Montana State Bobcats",
+        "Delaware Blue Hens",
+        "Missouri State Bears",
+        "Holy Cross Crusaders",
+        "Howard Bison",
+        "Charleston Southern Buccaneers",
+        "West Georgia Wolves",
+        "New Hampshire Wildcats",
+        "Fordham Rams",
+        "UC Davis Aggies",
+        "Furman Paladins",
+        "Presbyterian College Blue Hose",
+        "The Citadel Bulldogs",
+        "Morehead State Eagles",
+        "Stephen F Austin Lumberjacks",
+        "Southern Illinois Salukis",
+        "Chattanooga Mocs",
+        "Wofford Terriers",
+        "Gardner-Webb Bulldogs",
+        "Abilene Christian Wildcats",
+        "Delaware State Hornets",
+        "Southeastern Louisiana Lions",
+        "Weber State Wildcats",
+        "Jacksonville State Gamecocks",
+        "Colgate Raiders",
+        "Samford Bulldogs",
+        "North Dakota State Bison",
+        "Elon Phoenix",
+        "Villanova Wildcats",
+        "Alcorn State Braves",
+        "Sam Houston State Bearkats",
+        "Towson Tigers",
+        "Western Illinois Leathernecks",
+        "Nicholls State Colonels",
+        "Eastern Illinois Panthers",
+        "Western Carolina Catamounts",
+        "North Carolina Central Eagles",
+        "VMI Keydets",
+        "McNeese State Cowboys",
+        "Norfolk State Spartans",
+        "Lenoir-Rhyne Bears",
+        "Rhode Island Rams",
+        "South Dakota State Jackrabbits",
+        "Idaho State Bengals",
+        "William & Mary Tribe",
+        "Northern Colorado Bears",
+        "Sacramento State Hornets",
+        "Richmond Spiders",
+        "Illinois State Redbirds",
+        "Eastern Kentucky Colonels",
+        "Tennessee-Martin Skyhawks",
+        "Northern Arizona Lumberjacks",
+        "Idaho Vandals",
+        "Texas Southern Tigers",
+        "Portland State Vikings",
+        "Northeastern Huskies",
+        "Southern Jaguars",
+        "West Virginia Tech Golden Bears",
+        "Northwestern State Demons",
+        "Central Arkansas Bears",
+        "St Francis (PA) Red Flash",
+        "James Madison Dukes",
+        "Hofstra Pride",
+        "Southeast Missouri State Redhawks",
+        "Youngstown State Penguins",
+        "Morgan State Bears",
+        "Jacksonville Dolphins",
+        "North Greenville Crusaders",
+        "Angelo State Rams",
+        "Montana Grizzlies",
+        "Southern Utah Thunderbirds",
+        "Stony Brook Seawolves",
+        "Alabama A&M Bulldogs",
+        "Monmouth Hawks",
+        "Austin Peay Governors",
+        "Florida A&M Rattlers",
+        "Albany Great Danes",
+        "Bryant Bulldogs",
+        "Alabama State Hornets",
+        "North Carolina A&T Aggies",
+        "Glenville State Pioneers",
+        "Lafayette Leopards",
+        "North Dakota North Dakota",
+        "Virginia Union Panthers",
+        "Savannah State Tigers",
+        "WV Wesleyan Bobcats",
+        "Campbell Camels",
+        "Chowan Braves",
+        "Huntingdon Hawks",
+        "Georgetown Hoyas",
+        "Mississippi Valley State Delta Devils",
+        "South Dakota Coyotes",
+        "Prairie View A&M Panthers",
+        "Jackson State Tigers",
+        "UT Martin Skyhawks",
+        "Clark Atlanta Panthers",
+        "Drake Bulldogs",
+        "Bucknell Bison",
+        "Nicholls Colonels",
+        "Lehigh Mountain Hawks",
+        "North Alabama Lions",
+        "St. Francis (IL) Fighting Saints",
+        "Brevard College Tornados",
+        "Bacone College Warriors",
+        "Tarleton State Texans",
+        "Kennesaw State Owls",
+        "Incarnate Word Cardinals",
+        "Robert Morris Colonials",
+        "Henderson State Reddies",
+        "Mercer Bears",
+        "Johnson C Smith Golden Bulls",
+        "McNeese Cowboys",
+        "Stephen F. Austin Lumberjacks",
+        "Grambling Tigers",
+        "Yale Bulldogs",
+        "Lamar Cardinals",
+        "Bethune-Cookman Wildcats",
+        "Campbell Fighting Camels",
+        "Concord Mountain Lions",
+        "St. Francis (PA) Red Flash",
+        "Kentucky Wesleyan Panthers",
+        "West Alabama Tigers",
+        "Shorter Hawks",
+        "San Diego Toreros",
+        "SE Louisiana Lions",
+        "Wesley College Wolverines",
+        "Hampton Pirates",
+        "Catawba Indians",
+        "North Dakota Fighting Hawks",
+        "Lambuth Eagles",
+        "Tarleton Texans",
+        "McMurry War Hawks",
+        "Minot State Beavers",
+        "Duquesne Dukes",
+        "Southern Arkansas Muleriders",
+        "Houston Baptist Huskies",
+        "Wagner Seahawks",
+        "Prairie View Panthers",
+        "Tennessee State Tigers",
+        "Dixie State Trailblazers",
+        "East Tennessee State Buccaneers",
+        "Long Island University Sharks",
+        "St.ThomasMinn",
+        "St.Thomas-Minn",
+        "Tarleton State",
+        "North Dakota",
+        "Jacksonville St",
+        "Idaho St",
+        "East Washington",
+        "Indiana St",
+        "Central Arkansas",
+        "Middle Tenn St",
+        "CS Sacramento",
+        "Missouri St",
+        "Youngstown St",
+        "Southern Utah",
+        "Illinois St",
+        "Rhode Island",
+        "Montana St",
+        "Western Illinois",
+        "No Dakota State",
+        "Alabama State",
+        "Charleston Southern",
+        "Gardner Webb",
+        "N. Carolina A & T",
+        "SE Louisiana",
+        "Stephen F.Austin",
+        "Northwestern St",
+        "Nicholls St",
+        "James Madison",
+        "Miss. Valley St",
+        "Portland St",
+        "Jackson St",
+        "William & Mary",
+        "UC Davis",
+        "Weber St",
+        "Cal Poly",
+        "Incarnate Word",
+        "So Carolina St",
+        "Tennessee St",
+        "Prairie View",
+        "Eastern Illinois",
+        "East Tennessee St",
+        "Charleston Sou",
+        "Kennesaw St",
+        "Norfolk St",
+        "Bethune Cookman",
+        "Houston Baptist",
+        "SE Missouri St",
+        "So Illinois",
+        "Tennessee Tech",
+        "New Hampshire",
+        "South Dakota",
+        "NC Central",
+        "Austin Peay",
+        "Tennessee Martin",
+        "Alabama A&M",
+        "Robert Morris",
+        "St. Francis (PA)",
+        "Morgan St",
+        "Long Island",
+        "Northern Iowa",
+        "San Diego",
+        "The Citadel",
+        "Northern Arizona",
+        "Abilene Christian",
+        "Tex San Antonio",
+        "Texas Southern",
+        "Central Conn.",
+        "Ark Pine Bluff",
+        "Dixie State",
+        "North Alabama",
+        "Alabama St",
+        "Florida A&M",
+        "Eastern Kentucky",
+        "Morehead St",
+        "Alcorn St",
+        "McNeese St",
+        "Holy Cross",
+        "Western Carolina",
+        "Stony Brook",
+        "Sacred Heart",
+        "Delaware St",
+        "Murray St",
+        "Kennesaw St ",
+        "Tennessee Martin",
+        "Florida A&M",
+        "So Illinois",
+        "Holy Cross",
+        "Sacred Heart",
+        "Northern Iowa",
+        "South Dakota",
+        "Sacramento St",
+        "Sam Houston Bearkats",
+        "UtahTech",
+        "LIU",
+        "SouthCarolinaState",
+        "StThomas",
+        "Lindenwood",
+        "Cal.PolySLO",
+        "VirginiaMilitary",
+        "Stonehill",
+        "TexasA&MCommerce",
+        "PortlandSt."
+    ]
+}

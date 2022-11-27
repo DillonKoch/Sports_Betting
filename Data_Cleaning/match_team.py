@@ -44,7 +44,10 @@ class Match_Team:
         listing out all the valid teams (true and alt) for other programs
         """
         true = list(self.teams_dict["Teams"].keys())
-        alt = [subitem for item in self.teams_dict["Teams"].values() for subitem in item]
+        alt = []
+        for team in true:
+            alt += self.teams_dict['Teams'][team]['Names']
+
         other = self.teams_dict["Other"]
         return set(true + alt + other)
 
@@ -60,7 +63,7 @@ class Match_Team:
 
         # * if the input_team is an alternate name, return the correct true name
         for true_team in true_teams:
-            alt_names = self.teams_dict['Teams'][true_team]
+            alt_names = self.teams_dict['Teams'][true_team]['Names']
             if input_team in alt_names:
                 return true_team
 
