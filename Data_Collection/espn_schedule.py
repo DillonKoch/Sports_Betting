@@ -18,7 +18,6 @@ import sys
 import time
 import urllib.request
 from os.path import abspath, dirname
-import random
 
 from bs4 import BeautifulSoup as soup
 from tqdm import tqdm
