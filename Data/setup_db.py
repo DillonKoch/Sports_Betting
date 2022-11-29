@@ -92,11 +92,11 @@ class Setup_DB:
         vc = "VARCHAR(255)"
         i = "INT"
         dbl = "DOUBLE"
-        sql = f"""CREATE TABLE ESB_{league} (Date DATE, Home {vc}, Away {vc},
+        sql = f"""CREATE TABLE ESB_{league} (Date DATE, Home {vc}, Away {vc}, Game_Time {vc},
                   Over_Odds {dbl}, Over_ML {i}, Under_Odds {dbl}, Under_ML {i}, Home_Spread {dbl},
                   Home_Spread_ML {i}, Away_Spread {dbl}, Away_Spread_ML {dbl}, Home_ML {i},
-                  Away_ML {i}, scraped_ts DATE,
-                  PRIMARY KEY (Date, Home, Away));"""
+                  Away_ML {i}, scraped_ts DATETIME,
+                  PRIMARY KEY (Date, Home, Away, scraped_ts));"""
         self.cursor.execute(sql)
 
     def create_espn_games(self, tables, league):  # Top Level
