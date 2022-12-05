@@ -36,6 +36,7 @@ class Scrape_ESPN_Game:
         self.league = league
         self.db, self.cursor = db_cursor()
         self.link_dict = {"NFL": "nfl", "NBA": "nba", "NCAAF": "college-football", "NCAAB": "mens-college-basketball"}
+        self.football_league = league in ['NFL', 'NCAAF']
 
         self.football_stats = ['1st_Downs', 'Passing_1st_downs', 'Rushing_1st_downs', '1st_downs_from_penalties',
                                '3rd_down_efficiency', '4th_down_efficiency', 'Total_Plays', 'Total_Yards', 'Total_Drives',
@@ -85,7 +86,10 @@ class Scrape_ESPN_Game:
         """
         Scraping the "Final Status" of the game (could be "Final" or include OT like "Final/OT")
         """
-        final_text = sp.find('span', attrs={'class': 'game-time status-detail'})
+        if self.league in ['NBA', 'NCAAB']:
+            return 'Final'
+
+        final_text = sp.find('span', attrs={'class': 'game-time status-detail'}) or sp.find('div', attrs={'class': 'ScoreCell__Time Gamestrip__Time h9 clr-gray-01'})
         if final_text is None:
             return None
         else:
@@ -107,13 +111,17 @@ class Scrape_ESPN_Game:
         """
         scrapes the team names and adds to new_row
         """
-        teams = sp.find_all('a', attrs={'class': 'team-name'})
-        away_long = teams[0].find('span', attrs={'class': 'long-name'}).get_text()
-        away_short = teams[0].find('span', attrs={'class': 'short-name'}).get_text()
-        away = away_long + ' ' + away_short
-        home_long = teams[1].find('span', attrs={'class': 'long-name'}).get_text()
-        home_short = teams[1].find('span', attrs={'class': 'short-name'}).get_text()
-        home = home_long + ' ' + home_short
+        if self.football_league:
+            teams = sp.find_all('a', attrs={'class': 'team-name'})
+            away_long = teams[0].find('span', attrs={'class': 'long-name'}).get_text()
+            away_short = teams[0].find('span', attrs={'class': 'short-name'}).get_text()
+            away = away_long + ' ' + away_short
+            home_long = teams[1].find('span', attrs={'class': 'long-name'}).get_text()
+            home_short = teams[1].find('span', attrs={'class': 'short-name'}).get_text()
+            home = home_long + ' ' + home_short
+        else:
+            home = sp.find_all('div', attrs={'class': 'ScoreCell__TeamName ScoreCell__TeamName--displayName truncate db'})[1].get_text()
+            away = sp.find_all('div', attrs={'class': 'ScoreCell__TeamName ScoreCell__TeamName--displayName truncate db'})[0].get_text()
         game[4] = home
         game[5] = away
         return game
@@ -122,7 +130,7 @@ class Scrape_ESPN_Game:
         """
         scrapes the home and away team records, adds to game
         """
-        records = sp.find_all('div', attrs={'class': 'record'})
+        records = sp.find_all('div', attrs={'class': 'record'}) or sp.find_all('div', attrs={'class': 'Gamestrip__Record db n10 clr-gray-03'})
         away_record = records[0].get_text()
         home_record = records[1].get_text()
         game[6] = home_record
@@ -134,7 +142,7 @@ class Scrape_ESPN_Game:
         scrapes the TV network of the game, adds to game
         """
         try:
-            network = sp.find_all('div', attrs={'class': 'game-network'})
+            network = sp.find_all('div', attrs={'class': 'game-network'}) or sp.find_all('div', attrs={'class': 'n8 GameInfo__Meta'})[0].find_all('span')[1:]
             network = network[0].get_text()
             network = network.replace("\n", '').replace("\t", "")
             network = network.replace("Coverage: ", "")
@@ -162,7 +170,7 @@ class Scrape_ESPN_Game:
         # TODO haven't tested (no ncaab scraped yet)
         # * scraping halves if the league is NCAAB
         if self.league == 'NCAAB':
-            table_sp = sp.find('table', attrs={'id': 'linescore'})
+            table_sp = sp.find('div', attrs={'class': 'Table__Scroller'})
             table_body = table_sp.find('tbody')
             away_row, home_row = table_body.find_all('tr')
             td_vals = home_row.find_all('td') if home else away_row.find_all('td')
@@ -188,7 +196,7 @@ class Scrape_ESPN_Game:
         scrapes the quarter values and OT
         - quarters only if it's not NCAAB, but OT either way
         """
-        scores_sp = sp.find_all('table', attrs={'id': 'linescore'})[0]
+        scores_sp = sp.find_all('table', attrs={'id': 'linescore'})[0] if self.football_league else sp.find('div', attrs={'class': 'Table__Scroller'})
         body = scores_sp.find_all('tbody')[0]
         rows = body.find_all('tr')
         away_row, home_row = rows
@@ -217,12 +225,12 @@ class Scrape_ESPN_Game:
         """
         scrapes the game's final scores, adds to new_row
         """
-        scores_sp = sp.find_all('table', attrs={'id': 'linescore'})[0]
+        scores_sp = sp.find_all('table', attrs={'id': 'linescore'})[0] if self.football_league else sp.find('div', attrs={'class': 'Table__Scroller'})
         body = scores_sp.find_all('tbody')[0]
         rows = body.find_all('tr')
         away_row, home_row = rows
-        away_score = away_row.find_all('td', attrs={'class': 'final-score'})[0].get_text()
-        home_score = home_row.find_all('td', attrs={'class': 'final-score'})[0].get_text()
+        away_score = away_row.find_all('td', attrs={'class': 'final-score'})[0].get_text() if self.football_league else away_row.find_all('td')[-1].get_text()
+        home_score = home_row.find_all('td', attrs={'class': 'final-score'})[0].get_text() if self.football_league else home_row.find_all('td')[-1].get_text()
         game[24] = home_score
         game[25] = away_score
         return game
@@ -267,11 +275,19 @@ class Scrape_ESPN_Game:
         return game
 
     def _scrape_basketball(self, game, body):  # Specific Helper scrape_stats
-        # ! sp looks different - could use numeric index in similar way as stat name
-        pass
+        rows = body.find_all('tr')
+        start = 26
+        for row in rows:
+            _, away, home = row.find_all('td')
+            away = away.get_text()
+            home = home.get_text()
+            game[start:start + 2] = [home, away]
+            start += 2
+        return game
 
     def scrape_stats(self, game, sp):  # Top Level
-        table = sp.find_all('table', attrs={'class': 'mod-data'})[0]
+        idx = 0 if self.football_league else 1
+        table = sp.find_all('table', attrs={'class': ['mod-data', 'Table Table--align-right']})[idx]
         body = table.find_all('tbody')[0]
         if self.league in ['NFL', 'NCAAF']:
             game = self._scrape_football(game, body)
@@ -312,12 +328,14 @@ class Scrape_ESPN_Game:
                 # ! SUMMARY INFORMATION
                 summary_sp = self.scrape_summary_sp(game_id)
                 final_status = self.final_status(summary_sp)
-                if 'Final' not in final_status:
+                if 'Final' not in str(final_status):
                     print(f"Unfinished game {game[0]}: status {final_status}")
                     continue
 
-                # ? skipped scraping the date since we already have it, not sure why I did that before
                 game = self.scrape_date(game, summary_sp)
+                if datetime.datetime.strptime(game[3], "%Y-%m-%d") >= datetime.datetime.today():
+                    continue
+
                 game = self.scrape_teams(game, summary_sp)
                 game = self.scrape_team_records(game, summary_sp)
                 game = self.scrape_network(game, summary_sp)
@@ -338,7 +356,7 @@ class Scrape_ESPN_Game:
 
 
 if __name__ == '__main__':
-    for league in ['NCAAF', 'NBA', 'NCAAF', 'NCAAB']:
+    for league in ['NCAAB']:  # ! FIX FOR NCAAB
         x = Scrape_ESPN_Game(league)
         self = x
         x.run()

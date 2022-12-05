@@ -156,6 +156,42 @@ class Setup_DB:
         else:
             self.cursor.execute(basketball_sql)
 
+    def create_espn_player_stats(self, tables, league):  # Top Level
+        if f"ESPN_Player_Stats_{league}" in tables:
+            return None
+
+        print(f"Creating ESPN Player Stats {league} Table...")
+        vc = "VARCHAR(255)"
+        i = "INT"
+        dbl = "DOUBLE"
+        football_sql = f"""CREATE TABLE ESPN_Player_Stats_{league} (Game_ID {i}, Date DATE, Team {vc},
+                           Player {vc}, Player_ID {i}, Position {vc}, Passing_Comp_Att {vc}, Passing_Yards {i},
+                           Avg_Yards_Per_Pass {dbl}, Passing_Touchdowns {i}, Interceptions_Thrown {i},
+                           Times_Sacked {vc}, QBR {dbl}, Passer_Rating {dbl}, Carries {i}, Rushing_Yards {i},
+                           Avg_Yards_Per_Rush {dbl}, Rushing_Touchdowns {i}, Longest_Rush {i}, Receptions {i},
+                           Receiving_Yards {i}, Yards_Per_Catch {dbl}, Receiving_Touchdowns {i},
+                           Longest_Reception {i}, Targets {i}, Fumbles {i}, Fumbles_Lost {i}, Fumbles_Recovered {i},
+                           Tackles {dbl}, Solo_Tackles {i}, Sacks {dbl}, Tackles_For_Loss {dbl}, QB_Hurries {i},
+                           Passes_Defended {i}, QB_Hits {i}, Touchdowns {i}, Interceptions_Caught {i},
+                           Interception_Return_Yards {i}, Pick_Sixes {i}, Kicks_Returned {i}, Kick_Return_Yards {i},
+                           Avg_Kick_Return_Yards {dbl}, Longest_Kick_Return {i}, Kick_Return_Touchdowns {i},
+                           Punts_Returned {i}, Punt_Return_Yards {i}, Avg_Punt_Return_Yards {dbl},
+                           Longest_Punt_Return {i}, Punt_Return_Touchdowns {i}, FG_Made_Att {vc}, FG_Pct {dbl},
+                           Longest_Field_Goal {i}, XP_Made_Att {vc}, Kicking_Points {i}, Punts {i}, Punt_Yards {i},
+                           Touchbacks {i}, Punts_Inside_20 {i}, Longest_Punt {i},
+                           PRIMARY KEY (Game_ID, Date, Player_ID));"""
+
+        basketball_sql = f"""CREATE TABLE ESPN_Player_Stats_{league} (Game_ID {i}, Date DATE, Team {vc},
+                             Player {vc}, Player_ID {i}, Position {vc}, Minutes {i}, FG {vc}, 3PT {vc}, FT {vc},
+                             Offensive_Rebounds {i}, Defensive_Rebounds {i}, Total_Rebounds {i}, Assists {i},
+                             Steals {i}, Blocks {i}, Turnovers {i}, Fouls {i}, Plus_Minus {i}, Points {i},
+                             PRIMARY KEY (Game_ID, Date, Player_ID));"""
+
+        if league in ['NFL', 'NCAAF']:
+            self.cursor.execute(football_sql)
+        else:
+            self.cursor.execute(basketball_sql)
+
     def run(self):  # Run
         # * check if sports_betting database exists
         dbs = self.show_dbs()
@@ -175,6 +211,7 @@ class Setup_DB:
             self.create_covers(tables, league)
             self.create_esb(tables, league)
             self.create_espn_games(tables, league)
+            self.create_espn_player_stats(tables, league)
             # TODO more tables
 
 
