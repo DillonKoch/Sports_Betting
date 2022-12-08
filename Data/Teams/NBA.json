@@ -4,7 +4,8 @@
             "Names": [
                 "Boston"
             ],
-            "Schedule": "https://www.espn.com/nba/team/schedule/_/name/bos"
+            "Schedule": "https://www.espn.com/nba/team/schedule/_/name/bos",
+            "Roster": "https://www.espn.com/nba/team/roster/_/name/bos"
         },
         "Brooklyn Nets": {
             "Names": [
@@ -12,68 +13,79 @@
                 "Brooklyn",
                 "New Jersey Nets"
             ],
-            "Schedule": "https://www.espn.com/nba/team/schedule/_/name/bkn"
+            "Schedule": "https://www.espn.com/nba/team/schedule/_/name/bkn",
+            "Roster": "https://www.espn.com/nba/team/roster/_/name/bkn"
         },
         "New York Knicks": {
             "Names": [
                 "NewYork",
                 "New York"
             ],
-            "Schedule": "https://www.espn.com/nba/team/schedule/_/name/ny"
+            "Schedule": "https://www.espn.com/nba/team/schedule/_/name/ny",
+            "Roster": "https://www.espn.com/nba/team/roster/_/name/ny"
         },
         "Philadelphia 76ers": {
             "Names": [
                 "Philadelphia"
             ],
-            "Schedule": "https://www.espn.com/nba/team/schedule/_/name/phi"
+            "Schedule": "https://www.espn.com/nba/team/schedule/_/name/phi",
+            "Roster": "https://www.espn.com/nba/team/roster/_/name/phi"
         },
         "Toronto Raptors": {
             "Names": [
                 "Toronto"
             ],
-            "Schedule": "https://www.espn.com/nba/team/schedule/_/name/tor"
+            "Schedule": "https://www.espn.com/nba/team/schedule/_/name/tor",
+            "Roster": "https://www.espn.com/nba/team/roster/_/name/tor"
         },
         "Chicago Bulls": {
             "Names": [
                 "Chicago"
             ],
-            "Schedule": "https://www.espn.com/nba/team/schedule/_/name/chi"
+            "Schedule": "https://www.espn.com/nba/team/schedule/_/name/chi",
+            "Roster": "https://www.espn.com/nba/team/roster/_/name/chi"
         },
         "Cleveland Cavaliers": {
             "Names": [
                 "Cleveland"
             ],
-            "Schedule": "https://www.espn.com/nba/team/schedule/_/name/cle"
+            "Schedule": "https://www.espn.com/nba/team/schedule/_/name/cle",
+            "Roster": "https://www.espn.com/nba/team/roster/_/name/cle"
         },
         "Detroit Pistons": {
             "Names": [
                 "Detroit"
             ],
-            "Schedule": "https://www.espn.com/nba/team/schedule/_/name/det"
+            "Schedule": "https://www.espn.com/nba/team/schedule/_/name/det",
+            "Roster": "https://www.espn.com/nba/team/roster/_/name/det"
         },
         "Indiana Pacers": {
             "Names": [
                 "Indiana"
             ],
-            "Schedule": "https://www.espn.com/nba/team/schedule/_/name/ind"
+            "Schedule": "https://www.espn.com/nba/team/schedule/_/name/ind",
+            "Roster": "https://www.espn.com/nba/team/roster/_/name/ind"
         },
         "Milwaukee Bucks": {
             "Names": [
                 "Milwaukee"
             ],
-            "Schedule": "https://www.espn.com/nba/team/schedule/_/name/mil"
+            "Schedule": "https://www.espn.com/nba/team/schedule/_/name/mil",
+            "Roster": "https://www.espn.com/nba/team/roster/_/name/mil"
         },
         "Denver Nuggets": {
             "Names": [
                 "Denver"
             ],
-            "Schedule": "https://www.espn.com/nba/team/schedule/_/name/den"
+            "Schedule": "https://www.espn.com/nba/team/schedule/_/name/den",
+            "Roster": "https://www.espn.com/nba/team/roster/_/name/den"
         },
         "Minnesota Timberwolves": {
             "Names": [
                 "Minnesota"
             ],
-            "Schedule": "https://www.espn.com/nba/team/schedule/_/name/min"
+            "Schedule": "https://www.espn.com/nba/team/schedule/_/name/min",
+            "Roster": "https://www.espn.com/nba/team/roster/_/name/min"
         },
         "Oklahoma City Thunder": {
             "Names": [
@@ -82,26 +94,30 @@
                 "OklahomaCity",
                 "Oklahoma City"
             ],
-            "Schedule": "https://www.espn.com/nba/team/schedule/_/name/okc"
+            "Schedule": "https://www.espn.com/nba/team/schedule/_/name/okc",
+            "Roster": "https://www.espn.com/nba/team/roster/_/name/okc"
         },
         "Portland Trail Blazers": {
             "Names": [
                 "Portland"
             ],
-            "Schedule": "https://www.espn.com/nba/team/schedule/_/name/por"
+            "Schedule": "https://www.espn.com/nba/team/schedule/_/name/por",
+            "Roster": "https://www.espn.com/nba/team/roster/_/name/por"
         },
         "Utah Jazz": {
             "Names": [
                 "Utah"
             ],
-            "Schedule": "https://www.espn.com/nba/team/schedule/_/name/utah"
+            "Schedule": "https://www.espn.com/nba/team/schedule/_/name/utah",
+            "Roster": "https://www.espn.com/nba/team/roster/_/name/utah"
         },
         "Golden State Warriors": {
             "Names": [
                 "GoldenState",
                 "Golden State"
             ],
-            "Schedule": "https://www.espn.com/nba/team/schedule/_/name/gs"
+            "Schedule": "https://www.espn.com/nba/team/schedule/_/name/gs",
+            "Roster": "https://www.espn.com/nba/team/roster/_/name/gs"
         },
         "LA Clippers": {
             "Names": [
@@ -109,75 +125,87 @@
                 "Los Angeles Clippers",
                 "Los Angeles Clippers"
             ],
-            "Schedule": "https://www.espn.com/nba/team/schedule/_/name/lac"
+            "Schedule": "https://www.espn.com/nba/team/schedule/_/name/lac",
+            "Roster": "https://www.espn.com/nba/team/roster/_/name/lac"
         },
         "Los Angeles Lakers": {
             "Names": [
                 "LALakers",
                 "LA Lakers"
             ],
-            "Schedule": "https://www.espn.com/nba/team/schedule/_/name/lal"
+            "Schedule": "https://www.espn.com/nba/team/schedule/_/name/lal",
+            "Roster": "https://www.espn.com/nba/team/roster/_/name/lal"
         },
         "Phoenix Suns": {
             "Names": [
                 "Phoenix"
             ],
-            "Schedule": "https://www.espn.com/nba/team/schedule/_/name/phx"
+            "Schedule": "https://www.espn.com/nba/team/schedule/_/name/phx",
+            "Roster": "https://www.espn.com/nba/team/roster/_/name/phx"
         },
         "Sacramento Kings": {
             "Names": [
                 "Sacramento"
             ],
-            "Schedule": "https://www.espn.com/nba/team/schedule/_/name/sac"
+            "Schedule": "https://www.espn.com/nba/team/schedule/_/name/sac",
+            "Roster": "https://www.espn.com/nba/team/roster/_/name/sac"
         },
         "Atlanta Hawks": {
             "Names": [
                 "Atlanta"
             ],
-            "Schedule": "https://www.espn.com/nba/team/schedule/_/name/atl"
+            "Schedule": "https://www.espn.com/nba/team/schedule/_/name/atl",
+            "Roster": "https://www.espn.com/nba/team/roster/_/name/atl"
         },
         "Charlotte Hornets": {
             "Names": [
                 "Charlotte",
                 "Charlotte Bobcats"
             ],
-            "Schedule": "https://www.espn.com/nba/team/schedule/_/name/cha"
+            "Schedule": "https://www.espn.com/nba/team/schedule/_/name/cha",
+            "Roster": "https://www.espn.com/nba/team/roster/_/name/cha"
         },
         "Miami Heat": {
             "Names": [
                 "Miami"
             ],
-            "Schedule": "https://www.espn.com/nba/team/schedule/_/name/mia"
+            "Schedule": "https://www.espn.com/nba/team/schedule/_/name/mia",
+            "Roster": "https://www.espn.com/nba/team/roster/_/name/mia"
         },
         "Orlando Magic": {
             "Names": [
                 "Orlando"
             ],
-            "Schedule": "https://www.espn.com/nba/team/schedule/_/name/orl"
+            "Schedule": "https://www.espn.com/nba/team/schedule/_/name/orl",
+            "Roster": "https://www.espn.com/nba/team/roster/_/name/orl"
         },
         "Washington Wizards": {
             "Names": [
                 "Washington"
             ],
-            "Schedule": "https://www.espn.com/nba/team/schedule/_/name/wsh"
+            "Schedule": "https://www.espn.com/nba/team/schedule/_/name/wsh",
+            "Roster": "https://www.espn.com/nba/team/roster/_/name/wsh"
         },
         "Dallas Mavericks": {
             "Names": [
                 "Dallas"
             ],
-            "Schedule": "https://www.espn.com/nba/team/schedule/_/name/dal"
+            "Schedule": "https://www.espn.com/nba/team/schedule/_/name/dal",
+            "Roster": "https://www.espn.com/nba/team/roster/_/name/dal"
         },
         "Houston Rockets": {
             "Names": [
                 "Houston"
             ],
-            "Schedule": "https://www.espn.com/nba/team/schedule/_/name/hou"
+            "Schedule": "https://www.espn.com/nba/team/schedule/_/name/hou",
+            "Roster": "https://www.espn.com/nba/team/roster/_/name/hou"
         },
         "Memphis Grizzlies": {
             "Names": [
                 "Memphis"
             ],
-            "Schedule": "https://www.espn.com/nba/team/schedule/_/name/mem"
+            "Schedule": "https://www.espn.com/nba/team/schedule/_/name/mem",
+            "Roster": "https://www.espn.com/nba/team/roster/_/name/mem"
         },
         "New Orleans Pelicans": {
             "Names": [
@@ -185,14 +213,16 @@
                 "New Orleans Hornets",
                 "New Orleans"
             ],
-            "Schedule": "https://www.espn.com/nba/team/schedule/_/name/no"
+            "Schedule": "https://www.espn.com/nba/team/schedule/_/name/no",
+            "Roster": "https://www.espn.com/nba/team/roster/_/name/no"
         },
         "San Antonio Spurs": {
             "Names": [
                 "SanAntonio",
                 "San Antonio"
             ],
-            "Schedule": "https://www.espn.com/nba/team/schedule/_/name/sa"
+            "Schedule": "https://www.espn.com/nba/team/schedule/_/name/sa",
+            "Roster": "https://www.espn.com/nba/team/roster/_/name/sa"
         }
     },
     "Other": []

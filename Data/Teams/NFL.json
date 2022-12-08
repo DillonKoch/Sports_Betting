@@ -5,82 +5,95 @@
                 "BuffaloBills",
                 "Buffalo"
             ],
-            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/buf"
+            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/buf",
+            "Roster": "https://www.espn.com/nfl/team/roster/_/name/buf"
         },
         "Miami Dolphins": {
             "Names": [
                 "Miami"
             ],
-            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/mia"
+            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/mia",
+            "Roster": "https://www.espn.com/nfl/team/roster/_/name/mia"
         },
         "New England Patriots": {
             "Names": [
                 "NewEngland",
                 "New England"
             ],
-            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/ne"
+            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/ne",
+            "Roster": "https://www.espn.com/nfl/team/roster/_/name/ne"
         },
         "New York Jets": {
             "Names": [
                 "NYJets",
                 "NY Jets"
             ],
-            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/nyj"
+            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/nyj",
+            "Roster": "https://www.espn.com/nfl/team/roster/_/name/nyj"
         },
         "Baltimore Ravens": {
             "Names": [
                 "Baltimore"
             ],
-            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/bal"
+            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/bal",
+            "Roster": "https://www.espn.com/nfl/team/roster/_/name/bal"
         },
         "Cincinnati Bengals": {
             "Names": [
                 "Cincinnati"
             ],
-            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/cin"
+            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/cin",
+            "Roster": "https://www.espn.com/nfl/team/roster/_/name/cin"
         },
         "Cleveland Browns": {
             "Names": [
                 "Cleveland"
             ],
-            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/cle"
+            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/cle",
+            "Roster": "https://www.espn.com/nfl/team/roster/_/name/cle"
         },
         "Pittsburgh Steelers": {
             "Names": [
                 "Pittsburgh"
             ],
-            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/pit"
+            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/pit",
+            "Roster": "https://www.espn.com/nfl/team/roster/_/name/pit"
         },
         "Houston Texans": {
             "Names": [
                 "Houston",
                 "HoustonTexans"
             ],
-            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/hou"
+            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/hou",
+            "Roster": "https://www.espn.com/nfl/team/roster/_/name/hou"
         },
         "Indianapolis Colts": {
             "Names": [
                 "Indianapolis"
             ],
-            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/ind"
+            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/ind",
+            "Roster": "https://www.espn.com/nfl/team/roster/_/name/ind"
         },
         "Jacksonville Jaguars": {
             "Names": [
                 "Jacksonville"
             ],
-            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/jax"
+            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/jax",
+            "Roster": "https://www.espn.com/nfl/team/roster/_/name/jax"
         },
         "Tennessee Titans": {
             "Names": [
                 "Tennessee"
             ],
-            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/ten"
+            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/ten",
+            "Roster": "https://www.espn.com/nfl/team/roster/_/name/ten"
         },
         "Denver Broncos": {
             "Names": [
                 "Denver"
             ],
-            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/den"
+            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/den",
+            "Roster": "https://www.espn.com/nfl/team/roster/_/name/den"
         },
         "Kansas City Chiefs": {
             "Names": [
@@ -89,7 +102,8 @@
                 "KCChiefs",
                 "KansasCity"
             ],
-            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/kc"
+            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/kc",
+            "Roster": "https://www.espn.com/nfl/team/roster/_/name/kc"
         },
         "Las Vegas Raiders": {
             "Names": [
@@ -99,7 +113,8 @@
                 "LVRaiders",
                 "Las Vegas"
             ],
-            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/lv"
+            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/lv",
+            "Roster": "https://www.espn.com/nfl/team/roster/_/name/lv"
         },
         "Los Angeles Chargers": {
             "Names": [
@@ -109,13 +124,15 @@
                 "San Diego Chargers",
                 "LAChargers"
             ],
-            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/lac"
+            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/lac",
+            "Roster": "https://www.espn.com/nfl/team/roster/_/name/lac"
         },
         "Dallas Cowboys": {
             "Names": [
                 "Dallas"
             ],
-            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/dal"
+            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/dal",
+            "Roster": "https://www.espn.com/nfl/team/roster/_/name/dal"
         },
         "New York Giants": {
             "Names": [
@@ -123,13 +140,15 @@
                 "NYGiants",
                 "NewYork"
             ],
-            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/nyg"
+            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/nyg",
+            "Roster": "https://www.espn.com/nfl/team/roster/_/name/nyg"
         },
         "Philadelphia Eagles": {
             "Names": [
                 "Philadelphia"
             ],
-            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/phi"
+            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/phi",
+            "Roster": "https://www.espn.com/nfl/team/roster/_/name/phi"
         },
         "Washington Commanders": {
             "Names": [
@@ -139,51 +158,59 @@
                 "Washington Football Team",
                 "Washington"
             ],
-            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/wsh"
+            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/wsh",
+            "Roster": "https://www.espn.com/nfl/team/roster/_/name/wsh"
         },
         "Chicago Bears": {
             "Names": [
                 "Chicago"
             ],
-            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/chi"
+            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/chi",
+            "Roster": "https://www.espn.com/nfl/team/roster/_/name/chi"
         },
         "Detroit Lions": {
             "Names": [
                 "Detroit"
             ],
-            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/det"
+            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/det",
+            "Roster": "https://www.espn.com/nfl/team/roster/_/name/det"
         },
         "Green Bay Packers": {
             "Names": [
                 "GreenBay",
                 "Green Bay"
             ],
-            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/gb"
+            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/gb",
+            "Roster": "https://www.espn.com/nfl/team/roster/_/name/gb"
         },
         "Minnesota Vikings": {
             "Names": [
                 "Minnesota"
             ],
-            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/min"
+            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/min",
+            "Roster": "https://www.espn.com/nfl/team/roster/_/name/min"
         },
         "Atlanta Falcons": {
             "Names": [
                 "Atlanta"
             ],
-            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/atl"
+            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/atl",
+            "Roster": "https://www.espn.com/nfl/team/roster/_/name/atl"
         },
         "Carolina Panthers": {
             "Names": [
                 "Carolina"
             ],
-            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/car"
+            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/car",
+            "Roster": "https://www.espn.com/nfl/team/roster/_/name/car"
         },
         "New Orleans Saints": {
             "Names": [
                 "NewOrleans",
                 "New Orleans"
             ],
-            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/no"
+            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/no",
+            "Roster": "https://www.espn.com/nfl/team/roster/_/name/no"
         },
         "Tampa Bay Buccaneers": {
             "Names": [
@@ -191,13 +218,15 @@
                 "Tampa Bay",
                 "Tampa"
             ],
-            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/tb"
+            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/tb",
+            "Roster": "https://www.espn.com/nfl/team/roster/_/name/tb"
         },
         "Arizona Cardinals": {
             "Names": [
                 "Arizona"
             ],
-            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/ari"
+            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/ari",
+            "Roster": "https://www.espn.com/nfl/team/roster/_/name/ari"
         },
         "Los Angeles Rams": {
             "Names": [
@@ -206,20 +235,23 @@
                 "LosAngeles",
                 "LARams"
             ],
-            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/lar"
+            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/lar",
+            "Roster": "https://www.espn.com/nfl/team/roster/_/name/lar"
         },
         "San Francisco 49ers": {
             "Names": [
                 "SanFrancisco",
                 "San Francisco"
             ],
-            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/sf"
+            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/sf",
+            "Roster": "https://www.espn.com/nfl/team/roster/_/name/sf"
         },
         "Seattle Seahawks": {
             "Names": [
                 "Seattle"
             ],
-            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/sea"
+            "Schedule": "https://www.espn.com/nfl/team/schedule/_/name/sea",
+            "Roster": "https://www.espn.com/nfl/team/roster/_/name/sea"
         }
     },
     "Other": []

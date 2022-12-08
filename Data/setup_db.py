@@ -192,6 +192,18 @@ class Setup_DB:
         else:
             self.cursor.execute(basketball_sql)
 
+    def create_espn_rosters(self, tables, league):  # Top Level
+        if f"ESPN_Rosters_{league}" in tables:
+            return None
+
+        print(f"Creating ESPN Rosters {league} Table...")
+        vc = "VARCHAR(255)"
+        i = "INT"
+        sql = f"""CREATE TABLE ESPN_Rosters_{league} (Team {vc}, Player {vc}, Player_ID {i},
+                  scrape_ts DATETIME,
+                  PRIMARY KEY (Player_ID, scrape_ts));"""
+        self.cursor.execute(sql)
+
     def run(self):  # Run
         # * check if sports_betting database exists
         dbs = self.show_dbs()
@@ -212,6 +224,7 @@ class Setup_DB:
             self.create_esb(tables, league)
             self.create_espn_games(tables, league)
             self.create_espn_player_stats(tables, league)
+            self.create_espn_rosters(tables, league)
             # TODO more tables
 
 
