@@ -50,6 +50,49 @@ class Scrape_ESPN_Game:
                                  'Total_Turnovers', 'Points_Off_Turnovers', 'Fast_Break_Points', 'Points_in_Paint',
                                  'Fouls', 'Technical_Fouls', 'Flagrant_Fouls', 'Largest_Lead']
 
+        self.football_cols = ['Game_ID', 'Season', 'Week',
+                              'Date', 'Home', 'Away', 'Home_Record', 'Away_Record',
+                              'Network', 'Final_Status', 'H1H', 'H2H', 'H1Q', 'H2Q',
+                              'H3Q', 'H4Q', 'HOT', 'A1H', 'A2H', 'A1Q', 'A2Q', 'A3Q',
+                              'A4Q', 'AOT', 'Home_Final', 'Away_Final', 'Home_1st_Downs',
+                              'Away_1st_Downs', 'Home_Passing_1st_Downs', 'Away_Passing_1st_Downs',
+                              'Home_Rushing_1st_Downs', 'Away_Rushing_1st_Downs',
+                              'Home_1st_Downs_From_Penalties', 'Away_1st_Downs_From_Penalties',
+                              'Home_3rd_Down_Efficiency', 'Away_3rd_Down_Efficiency',
+                              'Home_4th_Down_Efficiency', 'Away_4th_Down_Efficiency',
+                              'Home_Total_Plays', 'Away_Total_Plays', 'Home_Total_Yards',
+                              'Away_Total_Yards', 'Home_Total_Drives', 'Away_Total_Drives',
+                              'Home_Yards_Per_Play', 'Away_Yards_Per_Play', 'Home_Passing',
+                              'Away_Passing', 'Home_Comp_Att', 'Away_Comp_Att',
+                              'Home_Yards_Per_Pass', 'Away_Yards_Per_Pass',
+                              'Home_Interceptions_Thrown', 'Away_Interceptions_Thrown',
+                              'Home_Sacks_Yards_Lost', 'Away_Sacks_Yards_Lost',
+                              'Home_Rushing', 'Away_Rushing', 'Home_Rushing_Attempts',
+                              'Away_Rushing_Attempts', 'Home_Yards_Per_Rush',
+                              'Away_Yards_Per_Rush', 'Home_Red_Zone_Made_Att',
+                              'Away_Red_Zone_Made_Att', 'Home_Penalties', 'Away_Penalties',
+                              'Home_Turnovers', 'Away_Turnovers', 'Home_Fumbles_Lost',
+                              'Away_Fumbles_Lost', 'Home_Defensive_Special_Teams_TDs',
+                              'Away_Defensive_Special_Teams_TDs', 'Home_Possession', 'Away_Possession']
+
+        self.basketball_cols = ['Game_ID', 'Season', 'Week',
+                                'Date', 'Home', 'Away', 'Home_Record', 'Away_Record',
+                                'Network', 'Final_Status', 'H1H', 'H2H', 'H1Q', 'H2Q',
+                                'H3Q', 'H4Q', 'HOT', 'A1H', 'A2H', 'A1Q', 'A2Q', 'A3Q',
+                                'A4Q', 'AOT', 'Home_Final', 'Away_Final', 'Home_FG', 'Away_FG',
+                                'Home_Field_Goal_Pct', 'Away_Field_Goal_Pct', 'Home_3PT', 'Away_3PT',
+                                'Home_Three_Point_Pct', 'Away_Three_Point_Pct', 'Home_FT', 'Away_FT',
+                                'Home_Free_Throw_Pct', 'Away_Free_Throw_Pct', 'Home_Rebounds',
+                                'Away_Rebounds', 'Home_Offensive_Rebounds', 'Away_Offensive_Rebounds',
+                                'Home_Defensive_Rebounds', 'Away_Defensive_Rebounds', 'Home_Assists',
+                                'Away_Assists', 'Home_Steals', 'Away_Steals', 'Home_Blocks', 'Away_Blocks',
+                                'Home_Total_Turnovers', 'Away_Total_Turnovers', 'Home_Points_Off_Turnovers',
+                                'Away_Points_Off_Turnovers', 'Home_Fast_Break_Points', 'Away_Fast_Break_Points',
+                                'Home_Points_In_Paint', 'Away_Points_In_Paint', 'Home_Fouls', 'Away_Fouls',
+                                'Home_Technical_Fouls', 'Away_Technical_Fouls', 'Home_Flagrant_Fouls',
+                                'Away_Flagrant_Fouls', 'Home_Largest_Lead', 'Away_Largest_Lead']
+        self.cols = self.football_cols if self.football_league else self.basketball_cols
+
     def _get_sp1(self, link):  # Global Helper
         user_agent = 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.7) Gecko/2009021910 Firefox/3.0.7'
         headers = {'User-Agent': user_agent, }
@@ -122,8 +165,8 @@ class Scrape_ESPN_Game:
         else:
             home = sp.find_all('div', attrs={'class': 'ScoreCell__TeamName ScoreCell__TeamName--displayName truncate db'})[1].get_text()
             away = sp.find_all('div', attrs={'class': 'ScoreCell__TeamName ScoreCell__TeamName--displayName truncate db'})[0].get_text()
-        game[4] = home
-        game[5] = away
+        game[4] = home.replace("'", "")
+        game[5] = away.replace("'", "")
         return game
 
     def scrape_team_records(self, game, sp):  # Top Level
@@ -167,7 +210,6 @@ class Scrape_ESPN_Game:
         first_half = None
         second_half = None
 
-        # TODO haven't tested (no ncaab scraped yet)
         # * scraping halves if the league is NCAAB
         if self.league == 'NCAAB':
             table_sp = sp.find('div', attrs={'class': 'Table__Scroller'})
@@ -286,14 +328,20 @@ class Scrape_ESPN_Game:
         return game
 
     def scrape_stats(self, game, sp):  # Top Level
-        idx = 0 if self.football_league else 1
-        table = sp.find_all('table', attrs={'class': ['mod-data', 'Table Table--align-right']})[idx]
-        body = table.find_all('tbody')[0]
-        if self.league in ['NFL', 'NCAAF']:
-            game = self._scrape_football(game, body)
-        else:
-            game = self._scrape_basketball(game, body)
-        return game
+        try:
+            idx = 0 if self.football_league else 1
+            table = sp.find_all('table', attrs={'class': ['mod-data', 'Table Table--align-right']})[idx]
+            body = table.find_all('tbody')[0]
+            if self.league in ['NFL', 'NCAAF']:
+                game = self._scrape_football(game, body)
+            else:
+                game = self._scrape_basketball(game, body)
+            return game
+        except Exception as e:
+            print(e)
+            print('error scraping stats')
+            print(game[0])
+            return game
 
     def game_to_db(self, game):  # Top Level
         """
@@ -302,16 +350,11 @@ class Scrape_ESPN_Game:
         self.cursor.execute("USE sports_betting;")
 
         table = f"ESPN_Games_{self.league}"
-        cols_sql = f"""SELECT COLUMN_NAME
-                       FROM information_schema.columns
-                       WHERE TABLE_NAME = N'{table}';"""
-        self.cursor.execute(cols_sql)
-        cols = self.cursor.fetchall()
 
         cv_strs = []
         game = [item if item is not None else "NULL" for item in game]
-        for col, val in zip(cols, game):
-            cv_strs.append(f"{col[0]} = '{val}'")
+        for col, val in zip(self.cols, game):
+            cv_strs.append(f"{col} = '{val}'")
         updates = ", ".join(cv_strs)
 
         sql = f"UPDATE {table} SET {updates} WHERE Game_ID = {game[0]};"

@@ -13,13 +13,14 @@
 # ==============================================================================
 
 import datetime
+import re
 import sys
 import time
 from os.path import abspath, dirname
 
 from bs4 import BeautifulSoup as soup
-import re
 from selenium import webdriver
+from selenium.webdriver import FirefoxOptions
 
 ROOT_PATH = dirname(dirname(abspath(__file__)))
 if ROOT_PATH not in sys.path:
@@ -51,7 +52,9 @@ class ESB_Scraper:
         """
         using selenium to pull up the ESB site and grab sp (sp won't show with normal get_sp1 method)
         """
-        self.driver = webdriver.Firefox(executable_path=ROOT_PATH + "/Data_Collection/geckodriver")
+        opts = FirefoxOptions()
+        opts.add_argument('--headless')
+        self.driver = webdriver.Firefox(executable_path=ROOT_PATH + "/Data_Collection/geckodriver", options=opts)
         time.sleep(1)
         self.driver.get(self.link)
         html = self.driver.page_source
@@ -233,6 +236,11 @@ class ESB_Scraper:
 
 if __name__ == '__main__':
     for league in ['NFL', 'NBA', 'NCAAF', 'NCAAB']:
+        print(league)
         x = ESB_Scraper(league)
         self = x
-        x.run()
+        try:
+            x.run()
+        except BaseException as e:
+            print(e)
+            print('fail')

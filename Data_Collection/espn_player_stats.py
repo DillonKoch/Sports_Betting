@@ -58,6 +58,29 @@ class ESPN_Player_Stat_Scraper:
         self.columns = self.football_cols if self.football_league else self.basketball_cols
         self.columns = ['Game_ID', 'Date', 'Team', 'Player', 'Player_ID', 'Position'] + self.columns
 
+        # ! column lists for inserting to DB
+        self.football_cols = ['Game_ID', 'Date', 'Team',
+                              'Player', 'Player_ID', 'Position', 'Passing_Comp_Att', 'Passing_Yards',
+                              'Avg_Yards_Per_Pass', 'Passing_Touchdowns', 'Interceptions_Thrown',
+                              'Times_Sacked', 'QBR', 'Passer_Rating', 'Carries', 'Rushing_Yards',
+                              'Avg_Yards_Per_Rush', 'Rushing_Touchdowns', 'Longest_Rush', 'Receptions',
+                              'Receiving_Yards', 'Yards_Per_Catch', 'Receiving_Touchdowns',
+                              'Longest_Reception', 'Targets', 'Fumbles', 'Fumbles_Lost', 'Fumbles_Recovered',
+                              'Tackles', 'Solo_Tackles', 'Sacks', 'Tackles_For_Loss', 'QB_Hurries',
+                              'Passes_Defended', 'QB_Hits', 'Touchdowns', 'Interceptions_Caught',
+                              'Interception_Return_Yards', 'Pick_Sixes', 'Kicks_Returned', 'Kick_Return_Yards',
+                              'Avg_Kick_Return_Yards', 'Longest_Kick_Return', 'Kick_Return_Touchdowns',
+                              'Punts_Returned', 'Punt_Return_Yards', 'Avg_Punt_Return_Yards',
+                              'Longest_Punt_Return', 'Punt_Return_Touchdowns', 'FG_Made_Att', 'FG_Pct',
+                              'Longest_Field_Goal', 'XP_Made_Att', 'Kicking_Points', 'Punts', 'Punt_Yards',
+                              'Touchbacks', 'Punts_Inside_20', 'Longest_Punt']
+
+        self.basketball_cols = ['Game_ID', 'Date', 'Team',
+                                'Player', 'Player_ID', 'Position', 'Minutes', 'FG', '3PT', 'FT',
+                                'Offensive_Rebounds', 'Defensive_Rebounds', 'Total_Rebounds', 'Assists',
+                                'Steals', 'Blocks', 'Turnovers', 'Fouls', 'Plus_Minus', 'Points']
+        self.cols = self.football_cols if self.football_league else self.basketball_cols
+
     def query_new_game_ids(self):  # Top Level
         """
         finding Game ID's from ESPN_Games_{league} that are not in ESPN_Player_Stats_{league}
@@ -296,7 +319,7 @@ class ESPN_Player_Stat_Scraper:
         a list of 'player_stats_dicts', which is a dict for each player's stats
         """
         sp = self._get_sp(stats_link)
-        boxscore = sp.find('div', attrs={'id': 'gamepackage-box-score'})
+        boxscore = sp.find('div', attrs={'id': 'gamepackage-box-score'}) if self.football_league else sp.find('div', attrs={'class': "Boxscore Boxscore__ResponsiveWrapper"})
         if boxscore.get_text().strip() == 'No Box Score Available':
             print("NO BOX SCORE, MOVING ON")
             return []
@@ -317,21 +340,22 @@ class ESPN_Player_Stat_Scraper:
         inserting data from stat dicts to SQL database
         """
         table = f"ESPN_Player_Stats_{self.league}"
-        cols_sql = f"""SELECT COLUMN_NAME
-                       FROM information_schema.columns
-                       WHERE TABLE_NAME = N'{table}';"""
-        self.cursor.execute(cols_sql)
-        cols = [item[0] for item in self.cursor]
-        col_names = "(" + ", ".join(cols) + ")"
+        # cols_sql = f"""SELECT COLUMN_NAME
+        #                FROM information_schema.columns
+        #                WHERE TABLE_NAME = N'{table}';"""
+        # self.cursor.execute(cols_sql)
+        # cols = [item[0] for item in self.cursor]
+        col_names = "(" + ", ".join(self.cols) + ")"
 
         # row = [item if item is not None else "NULL" for item in list(stat_dict.values())][:-1]
         lower_stat_dict = {key.lower(): val for key, val in stat_dict.items()}
-        row = [lower_stat_dict[col.lower()] if col.lower() in lower_stat_dict else "NULL" for col in cols]
+        row = [lower_stat_dict[col.lower()] if col.lower() in lower_stat_dict else "NULL" for col in self.cols]
         row = [item if item is not None else "NULL" for item in row]
         vals = "(" + ", ".join([f'"{i}"' for i in row]) + ")"
 
         sql = f"INSERT INTO {table} {col_names} VALUES {vals};"
         sql = sql.replace('"NULL"', 'NULL')
+        sql = sql.replace('""', 'NULL')
         self.cursor.execute(sql)
 
     def run(self):  # Run
@@ -353,7 +377,7 @@ class ESPN_Player_Stat_Scraper:
 
 
 if __name__ == '__main__':
-    for league in ['NCAAF']:
+    for league in ['NBA']:
         x = ESPN_Player_Stat_Scraper(league)
         self = x
         x.run()
