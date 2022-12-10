@@ -204,6 +204,21 @@ class Setup_DB:
                   PRIMARY KEY (Player_ID, scrape_ts));"""
         self.cursor.execute(sql)
 
+    def create_espn_players(self, tables, league):  # Top Level
+        if f"ESPN_Players_{league}" in tables:
+            return None
+
+        print(f"Creating ESPN Players {league} Table...")
+        vc = "VARCHAR(255)"
+        i = "INT"
+        sql = f"""CREATE TABLE ESPN_Players_{league} (Player_ID {i}, Player {vc},
+                  Team {vc}, Number {i}, Position {vc}, Height {vc}, Weight {vc},
+                  Birthdate DATE, Birthplace {vc}, College {vc}, Draft_Year {i},
+                  Draft_Round {i}, Draft_Pick {i}, Draft_Team {vc}, Experience {vc},
+                  Status {vc}, Team_History {vc}, Career_Highlights {vc}, scrape_ts DATETIME,
+                  PRIMARY KEY (Player_ID, scrape_ts));"""
+        self.cursor.execute(sql)
+
     def run(self):  # Run
         # * check if sports_betting database exists
         dbs = self.show_dbs()
@@ -225,6 +240,7 @@ class Setup_DB:
             self.create_espn_games(tables, league)
             self.create_espn_player_stats(tables, league)
             self.create_espn_rosters(tables, league)
+            self.create_espn_players(tables, league)
             # TODO more tables
 
 

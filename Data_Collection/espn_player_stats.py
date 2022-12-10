@@ -377,7 +377,7 @@ class ESPN_Player_Stat_Scraper:
 
 
 if __name__ == '__main__':
-    for league in ['NBA']:
+    for league in ['NCAAF']:
         x = ESPN_Player_Stat_Scraper(league)
         self = x
         x.run()
