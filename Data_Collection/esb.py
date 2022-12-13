@@ -28,6 +28,7 @@ if ROOT_PATH not in sys.path:
 
 
 from Data.db_login import db_cursor
+from Data.db_info import DB_Info
 
 
 def mfloat(val):
@@ -47,6 +48,7 @@ class ESB_Scraper:
         self.link = link_dict[league]
         self.scrape_ts = datetime.datetime.now().strftime("%Y-%m-%d %H:%M")
         self.db, self.cursor = db_cursor()
+        self.db_info = DB_Info()
 
     def get_sp1(self):  # Top Level
         """
@@ -193,11 +195,12 @@ class ESB_Scraper:
     def _insert_to_db(self, row):  # Specific Helper event_to_db
         self.cursor.execute("USE sports_betting;")
         table = f"ESB_{self.league}"
-        cols_sql = f"""SELECT COLUMN_NAME
-                       FROM information_schema.columns
-                       WHERE TABLE_NAME = N'{table}';"""
-        self.cursor.execute(cols_sql)
-        cols = [item[0] for item in self.cursor]
+        # cols_sql = f"""SELECT COLUMN_NAME
+        #                FROM information_schema.columns
+        #                WHERE TABLE_NAME = N'{table}';"""
+        # self.cursor.execute(cols_sql)
+        # cols = [item[0] for item in self.cursor]
+        cols = self.db_info.get_cols(table)
         col_names = "(" + ", ".join(cols) + ")"
 
         row = [item if item is not None else "NULL" for item in row]

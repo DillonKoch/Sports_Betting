@@ -156,12 +156,17 @@ class Scrape_ESPN_Game:
         """
         if self.football_league:
             teams = sp.find_all('a', attrs={'class': 'team-name'})
-            away_long = teams[0].find('span', attrs={'class': 'long-name'}).get_text()
-            away_short = teams[0].find('span', attrs={'class': 'short-name'}).get_text()
-            away = away_long + ' ' + away_short
-            home_long = teams[1].find('span', attrs={'class': 'long-name'}).get_text()
-            home_short = teams[1].find('span', attrs={'class': 'short-name'}).get_text()
-            home = home_long + ' ' + home_short
+            if not teams:
+                teams = sp.find_all('div', attrs={'class': 'ScoreCell__TeamName ScoreCell__TeamName--displayName truncate db'})
+                away = teams[0].get_text()
+                home = teams[1].get_text()
+            else:
+                away_long = teams[0].find('span', attrs={'class': 'long-name'}).get_text()
+                away_short = teams[0].find('span', attrs={'class': 'short-name'}).get_text()
+                away = away_long + ' ' + away_short
+                home_long = teams[1].find('span', attrs={'class': 'long-name'}).get_text()
+                home_short = teams[1].find('span', attrs={'class': 'short-name'}).get_text()
+                home = home_long + ' ' + home_short
         else:
             home = sp.find_all('div', attrs={'class': 'ScoreCell__TeamName ScoreCell__TeamName--displayName truncate db'})[1].get_text()
             away = sp.find_all('div', attrs={'class': 'ScoreCell__TeamName ScoreCell__TeamName--displayName truncate db'})[0].get_text()
@@ -238,7 +243,8 @@ class Scrape_ESPN_Game:
         scrapes the quarter values and OT
         - quarters only if it's not NCAAB, but OT either way
         """
-        scores_sp = sp.find_all('table', attrs={'id': 'linescore'})[0] if self.football_league else sp.find('div', attrs={'class': 'Table__Scroller'})
+        # scores_sp = sp.find_all('table', attrs={'id': 'linescore'})[0] if self.football_league else sp.find('div', attrs={'class': 'Table__Scroller'})
+        scores_sp = sp.find('div', attrs={'class': 'Table__Scroller'})
         body = scores_sp.find_all('tbody')[0]
         rows = body.find_all('tr')
         away_row, home_row = rows
@@ -267,53 +273,71 @@ class Scrape_ESPN_Game:
         """
         scrapes the game's final scores, adds to new_row
         """
-        scores_sp = sp.find_all('table', attrs={'id': 'linescore'})[0] if self.football_league else sp.find('div', attrs={'class': 'Table__Scroller'})
+        # scores_sp = sp.find_all('table', attrs={'id': 'linescore'})[0] if self.football_league else sp.find('div', attrs={'class': 'Table__Scroller'})
+        scores_sp = sp.find('div', attrs={'class': 'Table__Scroller'})
         body = scores_sp.find_all('tbody')[0]
         rows = body.find_all('tr')
         away_row, home_row = rows
-        away_score = away_row.find_all('td', attrs={'class': 'final-score'})[0].get_text() if self.football_league else away_row.find_all('td')[-1].get_text()
-        home_score = home_row.find_all('td', attrs={'class': 'final-score'})[0].get_text() if self.football_league else home_row.find_all('td')[-1].get_text()
+        # away_score = away_row.find_all('td', attrs={'class': 'final-score'})[0].get_text() if self.football_league else away_row.find_all('td')[-1].get_text()
+        # home_score = home_row.find_all('td', attrs={'class': 'final-score'})[0].get_text() if self.football_league else home_row.find_all('td')[-1].get_text()
+        away_score = away_row.find_all('td')[-1].get_text()
+        home_score = home_row.find_all('td')[-1].get_text()
         game[24] = home_score
         game[25] = away_score
         return game
 
-    def _body_to_stats(self, body, stat):  # Helping Helper _scrape_football, _scrape_basketball
+    # def _body_to_stats(self, body, stat):  # Helping Helper _scrape_football, _scrape_basketball
+    #     try:
+    #         tr = body.find_all('tr', attrs={'data-stat-attr': stat})[0]
+    #         tds = tr.find_all('td')
+    #         away = tds[1].get_text().strip()
+    #         home = tds[2].get_text().strip()
+    #         return home, away
+    #     except Exception as e:
+    #         print(e)
+    #         print(f"Invalid values for stat {stat}")
+    #         return None, None
+
+    def _body_to_stats(self, body, stat):
         try:
-            tr = body.find_all('tr', attrs={'data-stat-attr': stat})[0]
-            tds = tr.find_all('td')
-            away = tds[1].get_text().strip()
-            home = tds[2].get_text().strip()
-            return home, away
+            trs = body.find_all('tr')
+            for tr in trs:
+                data = tr.find_all('td')
+                data = [item.get_text() for item in data]
+                if data and stat == data[0]:
+                    return data[1], data[2]
+            raise ValueError(f"didnt find stat {stat}")
+
         except Exception as e:
             print(e)
             print(f"Invalid values for stat {stat}")
             return None, None
 
     def _scrape_football(self, game, body):  # Specific Helper scrape_stats
-        game[26:28] = self._body_to_stats(body, "firstDowns")
-        game[28:30] = self._body_to_stats(body, "firstDownsPassing")
-        game[30:32] = self._body_to_stats(body, "firstDownsRushing")
-        game[32:34] = self._body_to_stats(body, "firstDownsPenalty")
-        game[34:36] = self._body_to_stats(body, "thirdDownEff")
-        game[36:38] = self._body_to_stats(body, "fourthDownEff")
-        game[38:40] = self._body_to_stats(body, "totalOffensivePlays")
-        game[40:42] = self._body_to_stats(body, "totalYards")
-        game[42:44] = self._body_to_stats(body, "totalDrives")
-        game[44:46] = self._body_to_stats(body, "yardsPerPlay")
-        game[46:48] = self._body_to_stats(body, "netPassingYards")
-        game[48:50] = self._body_to_stats(body, "completionAttempts")
-        game[50:52] = self._body_to_stats(body, "yardsPerPass")
-        game[52:54] = self._body_to_stats(body, "interceptions")
-        game[54:56] = self._body_to_stats(body, "sacksYardsLost")
-        game[56:58] = self._body_to_stats(body, "rushingYards")
-        game[58:60] = self._body_to_stats(body, "rushingAttempts")
-        game[60:62] = self._body_to_stats(body, "yardsPerRushAttempt")
-        game[62:64] = self._body_to_stats(body, "redZoneAttempts")
-        game[64:66] = self._body_to_stats(body, "totalPenaltiesYards")
-        game[66:68] = self._body_to_stats(body, "turnovers")
-        game[68:70] = self._body_to_stats(body, "fumblesLost")
-        game[70:72] = self._body_to_stats(body, "defensiveTouchdowns")
-        game[72:74] = self._body_to_stats(body, "possessionTime")
+        game[26:28] = self._body_to_stats(body, "1st Downs")
+        game[28:30] = self._body_to_stats(body, "Passing 1st downs")
+        game[30:32] = self._body_to_stats(body, "Rushing 1st downs")
+        game[32:34] = self._body_to_stats(body, "1st downs from penalties")
+        game[34:36] = self._body_to_stats(body, "3rd down efficiency")
+        game[36:38] = self._body_to_stats(body, "4th down efficiency")
+        game[38:40] = self._body_to_stats(body, "Total Plays")
+        game[40:42] = self._body_to_stats(body, "Total Yards")
+        game[42:44] = self._body_to_stats(body, "Total Drives")
+        game[44:46] = self._body_to_stats(body, "Yards per Play")
+        game[46:48] = self._body_to_stats(body, "Passing")
+        game[48:50] = self._body_to_stats(body, "Comp-Att")
+        game[50:52] = self._body_to_stats(body, "Yards per pass")
+        game[52:54] = self._body_to_stats(body, "Interceptions thrown")
+        game[54:56] = self._body_to_stats(body, "Sacks-Yards Lost")
+        game[56:58] = self._body_to_stats(body, "Rushing")
+        game[58:60] = self._body_to_stats(body, "Rushing Attempts")
+        game[60:62] = self._body_to_stats(body, "Yards per rush")
+        game[62:64] = self._body_to_stats(body, "Red Zone (Made-Att)")
+        game[64:66] = self._body_to_stats(body, "Penalties")
+        game[66:68] = self._body_to_stats(body, "Turnovers")
+        game[68:70] = self._body_to_stats(body, "Fumbles lost")
+        game[70:72] = self._body_to_stats(body, "Defensive / Special Teams TDs")
+        game[72:74] = self._body_to_stats(body, "Possession")
         return game
 
     def _scrape_basketball(self, game, body):  # Specific Helper scrape_stats
@@ -329,9 +353,10 @@ class Scrape_ESPN_Game:
 
     def scrape_stats(self, game, sp):  # Top Level
         try:
-            idx = 0 if self.football_league else 1
-            table = sp.find_all('table', attrs={'class': ['mod-data', 'Table Table--align-right']})[idx]
-            body = table.find_all('tbody')[0]
+            # idx = 0 if self.football_league else 1
+            # table = sp.find_all('table', attrs={'class': ['mod-data', 'Table Table--align-right']})[idx]
+            table = sp.find('section', attrs={'class': 'Card TeamStatsTable'})
+            body = table.find('tbody')
             if self.league in ['NFL', 'NCAAF']:
                 game = self._scrape_football(game, body)
             else:
@@ -364,42 +389,39 @@ class Scrape_ESPN_Game:
 
     def run(self):  # Run
         unscraped_games = self.query_unscraped_games()
-        for game in tqdm(unscraped_games):
-            try:
-                game_id = game[0]
+        for game in tqdm(unscraped_games[11:]):
+            # try:
+            game_id = game[0]
 
-                # ! SUMMARY INFORMATION
-                summary_sp = self.scrape_summary_sp(game_id)
-                final_status = self.final_status(summary_sp)
-                if 'Final' not in str(final_status):
-                    print(f"Unfinished game {game[0]}: status {final_status}")
-                    continue
+            # ! SUMMARY INFORMATION
+            summary_sp = self.scrape_summary_sp(game_id)
+            final_status = self.final_status(summary_sp)
 
-                game = self.scrape_date(game, summary_sp)
-                if datetime.datetime.strptime(game[3], "%Y-%m-%d") >= datetime.datetime.today():
-                    continue
+            game = self.scrape_date(game, summary_sp)
+            if datetime.datetime.strptime(game[3], "%Y-%m-%d") >= datetime.datetime.today():
+                continue
 
-                game = self.scrape_teams(game, summary_sp)
-                game = self.scrape_team_records(game, summary_sp)
-                game = self.scrape_network(game, summary_sp)
-                game[9] = final_status
+            game = self.scrape_teams(game, summary_sp)
+            game = self.scrape_team_records(game, summary_sp)
+            game = self.scrape_network(game, summary_sp)
+            game[9] = final_status
 
-                # ! STATS INFORMATION
-                stats_sp = self.scrape_stats_sp(game_id)
-                game = self.scrape_halves(game, stats_sp, home=True)
-                game = self.scrape_quarters_ot(game, stats_sp, home=True)
-                game = self.scrape_halves(game, stats_sp, home=False)
-                game = self.scrape_quarters_ot(game, stats_sp, home=False)
-                game = self.scrape_final_scores(game, stats_sp)
-                game = self.scrape_stats(game, stats_sp)
-                self.game_to_db(game)
-            except BaseException as e:
-                print(e)
-                print(self.league, game_id)
+            # ! STATS INFORMATION
+            stats_sp = self.scrape_stats_sp(game_id)
+            game = self.scrape_halves(game, stats_sp, home=True)
+            game = self.scrape_quarters_ot(game, stats_sp, home=True)
+            game = self.scrape_halves(game, stats_sp, home=False)
+            game = self.scrape_quarters_ot(game, stats_sp, home=False)
+            game = self.scrape_final_scores(game, stats_sp)
+            game = self.scrape_stats(game, stats_sp)
+            self.game_to_db(game)
+            # except BaseException as e:
+            #     print(e)
+            #     print(self.league, game_id)
 
 
 if __name__ == '__main__':
-    for league in ['NCAAB']:  # ! FIX FOR NCAAB
+    for league in ['NFL']:  # ! FIX FOR NCAAB
         x = Scrape_ESPN_Game(league)
         self = x
         x.run()

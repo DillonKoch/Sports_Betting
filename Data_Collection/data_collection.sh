@@ -7,3 +7,4 @@ echo $CWD
 
 python esb.py
 python sbro.py
+python covers.py

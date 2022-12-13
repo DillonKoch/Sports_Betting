@@ -31,6 +31,17 @@ class Setup_DB:
         self.mydb, self.cursor = db_cursor()
         self.leagues = ["NFL", "NBA", "NCAAF", "NCAAB"]
 
+    # def _sql_to_cols(self, sql):  # Global Helper
+    #     """
+    #     converting sql that creates table to a list of the columns
+    #     """
+    #     col_str = ''.join(sql.split("(")[1:-1])
+    #     col_str = col_str.split("PRIMARY")[0]
+    #     combos = col_str.split(",")
+    #     cols = [item.strip().split(" ")[0] for item in combos]
+    #     cols = [col for col in cols if col]
+    #     return cols
+
     def show_dbs(self):  # Top Level
         self.cursor.execute("SHOW DATABASES;")
         dbs = []
@@ -49,10 +60,6 @@ class Setup_DB:
         """
         building Sportsbook Reviews Online table in database
         """
-        if f"SBRO_{league}" in tables:
-            return None
-
-        print("Creating SBRO Table...")
         vc = "VARCHAR(255)"
         dbl = "DOUBLE"
         i = "INT"
@@ -64,31 +71,32 @@ class Setup_DB:
                 Home_Line_2H {dbl}, Home_Line_2H_ML {i}, Away_Line_2H {dbl}, Away_Line_2H_ML {i},
                 Home_ML {i}, Away_ML {i},
                 PRIMARY KEY (Date, Home, Away));"""
+
+        if f"SBRO_{league}" in tables:
+            return None
+
+        print("Creating SBRO Table...")
         self.cursor.execute(sql)
 
     def create_covers(self, tables, league):  # Top Level
         """
         building Covers Injury table in database
         """
-        if f"Covers_{league}" in tables:
-            return None
-
-        print("Creating Covers Table...")
         vc = "VARCHAR(255)"
         i = "INT"
         sql = f"""CREATE TABLE Covers_{league} (Player_ID {i}, Status_Date DATE, Team {vc}, Player {vc},
                   Position {vc}, Status {vc}, Description {vc}, scraped_ts DATE,
                   PRIMARY KEY (Player_ID, Status_Date));"""
+
+        if f"Covers_{league}" in tables:
+            return None
+        print("Creating Covers Table...")
         self.cursor.execute(sql)
 
     def create_esb(self, tables, league):  # Top Level
         """
         building Elite Sportsbook Game Lines table in database
         """
-        if f"ESB_{league}" in tables:
-            return None
-
-        print("Creating Elite Sportsbook Table...")
         vc = "VARCHAR(255)"
         i = "INT"
         dbl = "DOUBLE"
@@ -97,49 +105,55 @@ class Setup_DB:
                   Home_Spread_ML {i}, Away_Spread {dbl}, Away_Spread_ML {dbl}, Home_ML {i},
                   Away_ML {i}, scraped_ts DATETIME,
                   PRIMARY KEY (Date, Home, Away, scraped_ts));"""
+
+        if f"ESB_{league}" in tables:
+            return None
+
+        print("Creating Elite Sportsbook Table...")
         self.cursor.execute(sql)
 
     def create_espn_games(self, tables, league):  # Top Level
-        if f"ESPN_Games_{league}" in tables:
-            return None
-
-        print("Creating ESPN Games Table...")
         vc = "VARCHAR(255)"
         i = "INT"
         dbl = "DOUBLE"
         football_sql = f"""CREATE TABLE ESPN_Games_{league} (Game_ID {i}, Season {vc}, Week {vc},
-                  Date DATE, Home {vc}, Away {vc}, Home_Record {vc}, Away_Record {vc},
+                  Date DATE, Home {vc}, Away {vc}, Home_Wins {i}, Home_Losses {i}, Away_Wins {i}, Away_Losses {i},
                   Network {vc}, Final_Status {vc}, H1H {i}, H2H {i}, H1Q {i}, H2Q {i},
                   H3Q {i}, H4Q {i}, HOT {i}, A1H {i}, A2H {i}, A1Q {i}, A2Q {i}, A3Q {i},
                   A4Q {i}, AOT {i}, Home_Final {i}, Away_Final {i}, Home_1st_Downs {i},
                   Away_1st_Downs {i}, Home_Passing_1st_Downs {i}, Away_Passing_1st_Downs {i},
                   Home_Rushing_1st_Downs {i}, Away_Rushing_1st_Downs {i},
                   Home_1st_Downs_From_Penalties {i}, Away_1st_Downs_From_Penalties {i},
-                  Home_3rd_Down_Efficiency {vc}, Away_3rd_Down_Efficiency {vc},
-                  Home_4th_Down_Efficiency {vc}, Away_4th_Down_Efficiency {vc},
+                  Home_3rd_Down_Made {i}, Home_3rd_Down_Att {i}, Away_3rd_Down_Made {i}, Away_3rd_Down_Att {i},
+                  Home_4th_Down_Made {i}, Home_4th_Down_Att {i}, Away_4th_Down_Made {i}, Away_4th_Down_Att {i},
                   Home_Total_Plays {i}, Away_Total_Plays {i}, Home_Total_Yards {i},
                   Away_Total_Yards {i}, Home_Total_Drives {i}, Away_Total_Drives {i},
                   Home_Yards_Per_Play {dbl}, Away_Yards_Per_Play {dbl}, Home_Passing {i},
-                  Away_Passing {i}, Home_Comp_Att {vc}, Away_Comp_Att {vc},
+                  Away_Passing {i}, Home_Pass_Completions {i}, Home_Pass_Attempts {i},
+                  Away_Pass_Completions {i}, Away_Pass_Attempts {i},
                   Home_Yards_Per_Pass {dbl}, Away_Yards_Per_Pass {dbl},
                   Home_Interceptions_Thrown {i}, Away_Interceptions_Thrown {i},
-                  Home_Sacks_Yards_Lost {vc}, Away_Sacks_Yards_Lost {vc},
+                  Home_Sacks {i}, Home_Sacks_Yards_Lost {i}, Away_Sacks {i}, Away_Sacks_Yards_Lost {i},
                   Home_Rushing {i}, Away_Rushing {i}, Home_Rushing_Attempts {i},
                   Away_Rushing_Attempts {i}, Home_Yards_Per_Rush {dbl},
-                  Away_Yards_Per_Rush {dbl}, Home_Red_Zone_Made_Att {vc},
-                  Away_Red_Zone_Made_Att {vc}, Home_Penalties {vc}, Away_Penalties {vc},
+                  Away_Yards_Per_Rush {dbl}, Home_Red_Zone_Made {i}, Home_Red_Zone_Att {i},
+                  Away_Red_Zone_Made {i}, Away_Red_Zone_Att {i}, Home_Penalties {i}, Home_Penalty_Yards {i},
+                  Away_Penalties {i}, Away_Penalty_Yards {i},
                   Home_Turnovers {i}, Away_Turnovers {i}, Home_Fumbles_Lost {i},
                   Away_Fumbles_Lost {i}, Home_Defensive_Special_Teams_TDs {i},
                   Away_Defensive_Special_Teams_TDs {i}, Home_Possession {vc}, Away_Possession {vc},
                   PRIMARY KEY (Date, Home, Away));"""
 
         basketball_sql = f"""CREATE TABLE ESPN_Games_{league} (Game_ID {i}, Season {vc}, Week {vc},
-                  Date DATE, Home {vc}, Away {vc}, Home_Record {vc}, Away_Record {vc},
+                  Date DATE, Home {vc}, Away {vc}, Home_Wins {i}, Home_Losses {i}, Away_Wins {i}, Away_Losses {i},
                   Network {vc}, Final_Status {vc}, H1H {i}, H2H {i}, H1Q {i}, H2Q {i},
                   H3Q {i}, H4Q {i}, HOT {i}, A1H {i}, A2H {i}, A1Q {i}, A2Q {i}, A3Q {i},
-                  A4Q {i}, AOT {i}, Home_Final {i}, Away_Final {i}, Home_FG {vc}, Away_FG {vc},
-                  Home_Field_Goal_Pct {dbl}, Away_Field_Goal_Pct {dbl}, Home_3PT {vc}, Away_3PT {vc},
-                  Home_Three_Point_Pct {dbl}, Away_Three_Point_Pct {dbl}, Home_FT {vc}, Away_FT {vc},
+                  A4Q {i}, AOT {i}, Home_Final {i}, Away_Final {i}, Home_FG_Made {i}, Home_FG_Att {i},
+                  Away_FG_Made {i}, Away_FG_Att {i},
+                  Home_Field_Goal_Pct {dbl}, Away_Field_Goal_Pct {dbl}, Home_3PT_Made {i}, Home_3PT_Att {i},
+                  Away_3PT_Made {i}, Away_3PT_Att {i},
+                  Home_Three_Point_Pct {dbl}, Away_Three_Point_Pct {dbl}, Home_FT_Made {i}, Home_FT_Att {i},
+                   Away_FT_Made {i}, Away_FT_Att {i},
                   Home_Free_Throw_Pct {dbl}, Away_Free_Throw_Pct {dbl}, Home_Rebounds {i},
                   Away_Rebounds {i}, Home_Offensive_Rebounds {i}, Away_Offensive_Rebounds {i},
                   Home_Defensive_Rebounds {i}, Away_Defensive_Rebounds {i}, Home_Assists {i},
@@ -151,16 +165,16 @@ class Setup_DB:
                   Away_Flagrant_Fouls {i}, Home_Largest_Lead {i}, Away_Largest_Lead {i},
                   PRIMARY KEY (Date, Home, Away));"""
 
+        if f"ESPN_Games_{league}" in tables:
+            return None
+
+        print("Creating ESPN Games Table...")
         if league in ['NFL', 'NCAAF']:
             self.cursor.execute(football_sql)
         else:
             self.cursor.execute(basketball_sql)
 
     def create_espn_player_stats(self, tables, league):  # Top Level
-        if f"ESPN_Player_Stats_{league}" in tables:
-            return None
-
-        print(f"Creating ESPN Player Stats {league} Table...")
         vc = "VARCHAR(255)"
         i = "INT"
         dbl = "DOUBLE"
@@ -187,28 +201,29 @@ class Setup_DB:
                              Steals {i}, Blocks {i}, Turnovers {i}, Fouls {i}, Plus_Minus {i}, Points {i},
                              PRIMARY KEY (Game_ID, Date, Player_ID));"""
 
+        if f"ESPN_Player_Stats_{league}" in tables:
+            return None
+        print(f"Creating ESPN Player Stats {league} Table...")
+
         if league in ['NFL', 'NCAAF']:
             self.cursor.execute(football_sql)
         else:
             self.cursor.execute(basketball_sql)
 
     def create_espn_rosters(self, tables, league):  # Top Level
-        if f"ESPN_Rosters_{league}" in tables:
-            return None
-
-        print(f"Creating ESPN Rosters {league} Table...")
         vc = "VARCHAR(255)"
         i = "INT"
         sql = f"""CREATE TABLE ESPN_Rosters_{league} (Team {vc}, Player {vc}, Player_ID {i},
                   scrape_ts DATETIME,
                   PRIMARY KEY (Player_ID, scrape_ts));"""
+
+        if f"ESPN_Rosters_{league}" in tables:
+            return None
+
+        print(f"Creating ESPN Rosters {league} Table...")
         self.cursor.execute(sql)
 
     def create_espn_players(self, tables, league):  # Top Level
-        if f"ESPN_Players_{league}" in tables:
-            return None
-
-        print(f"Creating ESPN Players {league} Table...")
         vc = "VARCHAR(255)"
         i = "INT"
         sql = f"""CREATE TABLE ESPN_Players_{league} (Player_ID {i}, Player {vc},
@@ -217,6 +232,11 @@ class Setup_DB:
                   Draft_Round {i}, Draft_Pick {i}, Draft_Team {vc}, Experience {vc},
                   Status {vc}, Team_History {vc}, Career_Highlights {vc}, scrape_ts DATETIME,
                   PRIMARY KEY (Player_ID, scrape_ts));"""
+
+        if f"ESPN_Players_{league}" in tables:
+            return None
+
+        print(f"Creating ESPN Players {league} Table...")
         self.cursor.execute(sql)
 
     def run(self):  # Run

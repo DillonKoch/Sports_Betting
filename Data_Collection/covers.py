@@ -117,7 +117,7 @@ class Covers:
 
         row = [item if item is not None else "NULL" for item in row]
         vals = "(" + ", ".join([f'"{i}"' for i in row]) + ")"
-        sql = f"INSERT INTO {table} {col_names} VALUES {vals};"
+        sql = f"INSERT IGNORE INTO {table} {col_names} VALUES {vals};"
         sql = sql.replace('"NULL"', 'NULL')
         self.cursor.execute(sql)
 
@@ -139,7 +139,7 @@ class Covers:
 
 
 if __name__ == '__main__':
-    for league in ['NFL', 'NBA', 'NCAAF', 'NCAAB']:
+    for league in ['NFL']:
         x = Covers(league)
         self = x
         x.run()

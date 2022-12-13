@@ -16,6 +16,6 @@ import mysql.connector
 
 
 def db_cursor():
-    mydb = mysql.connector.connect(host='localhost', user='Dillon', password='password')
+    mydb = mysql.connector.connect(host='localhost', user='Dillon', password='password', use_pure=True)
     cursor = mydb.cursor()
     return mydb, cursor
