@@ -81,35 +81,41 @@ class DB_Ops:
         print('here')
         df.to_csv(path, index=None)
 
+    # def csv_to_table(self, table):  # Run
+    #     """
+    #     ! RAN THIS TO EDIT ESPN_GAMES_{LEAGUE} TABLES TO SPLIT DASH COLS
+    #     """
+    #     df = pd.read_csv(ROOT_PATH + f"/Data/{table}.csv")
+    #     for i in tqdm(range(len(df))):
+    #         row = list(df.iloc[i, :])
+    #         new_row = []
+    #         for i, item in enumerate(row):
+    #             if i in [6, 7, 34, 35, 36, 37, 48, 49, 54, 55, 62, 63, 64, 65]:
+    #                 if isinstance(item, str):
+    #                     assert '-' in item, f"{item} has no -"
+
+    #                     d1 = item.split(',')[0].split('-')[0]
+    #                     d2 = item.split(',')[0].split('-')[1]
+
+    #                     new_row.append(d1)
+    #                     new_row.append(d2)
+    #                 else:
+    #                     new_row.append(None)
+    #                     new_row.append(None)
+    #             else:
+    #                 new_row.append(item)
+    #         self.insert_row(table, new_row, ignore=True)
+
     def csv_to_table(self, table):  # Run
-        """
-        ! RAN THIS TO EDIT ESPN_GAMES_{LEAGUE} TABLES TO SPLIT DASH COLS
-        """
         df = pd.read_csv(ROOT_PATH + f"/Data/{table}.csv")
         for i in tqdm(range(len(df))):
             row = list(df.iloc[i, :])
-            new_row = []
-            for i, item in enumerate(row):
-                if i in [6, 7, 34, 35, 36, 37, 48, 49, 54, 55, 62, 63, 64, 65]:
-                    if isinstance(item, str):
-                        assert '-' in item, f"{item} has no -"
-
-                        d1 = item.split(',')[0].split('-')[0]
-                        d2 = item.split(',')[0].split('-')[1]
-
-                        new_row.append(d1)
-                        new_row.append(d2)
-                    else:
-                        new_row.append(None)
-                        new_row.append(None)
-                else:
-                    new_row.append(item)
-            self.insert_row(table, new_row, ignore=True)
+            self.insert_row(table, row, ignore=False)
 
 
 if __name__ == '__main__':
     x = DB_Ops()
-    # for league in ['NBA']:
-    #     x.save_table(f"ESPN_Games_{league}")
-    for league in ['NFL', 'NCAAF']:
+    for league in ['NFL', 'NBA', 'NCAAF', 'NCAAB']:
+        # x.save_table(f"ESPN_Games_{league}")
+        # for league in ['NFL', 'NCAAF']:
         x.csv_to_table(f"ESPN_Games_{league}")
