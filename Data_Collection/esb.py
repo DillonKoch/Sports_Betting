@@ -235,6 +235,7 @@ class ESB_Scraper:
             else:
                 self.event_to_db(date_event, date)
                 print('event')
+        self.driver.quit()
 
 
 if __name__ == '__main__':
